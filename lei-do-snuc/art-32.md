@@ -1,0 +1,4 @@
+Art. 32. Os órgãos executores articular-se-ão com a comunidade científica com o propósito de incentivar o desenvolvimento de pesquisas sobre a fauna, a flora e a ecologia das unidades de conservação e sobre formas de uso sustentável dos recursos naturais, valorizando-se o conhecimento das populações tradicionais.
+§ 1º As pesquisas científicas nas unidades de conservação não podem colocar em risco a sobrevivência das espécies integrantes dos ecossistemas protegidos.
+§ 2º A realização de pesquisas científicas nas unidades de conservação, exceto Área de Proteção Ambiental e Reserva Particular do Patrimônio Natural, depende de aprovação prévia e está sujeita à fiscalização do órgão responsável por sua administração.
+§ 3º Os órgãos competentes podem transferir para as instituições de pesquisa nacionais, mediante acordo, a atribuição de aprovar a realização de pesquisas científicas e de credenciar pesquisadores para trabalharem nas unidades de conservação.

@@ -1,0 +1,4 @@
+Art. 12. O Monumento Natural tem como objetivo básico preservar sítios naturais raros, singulares ou de grande beleza cênica.
+§ 1º O Monumento Natural pode ser constituído por áreas particulares, desde que seja possível compatibilizar os objetivos da unidade com a utilização da terra e dos recursos naturais do local pelos proprietários.
+§ 2º Havendo incompatibilidade entre os objetivos da área e as atividades privadas ou não havendo aquiescência do proprietário às condições propostas pelo órgão responsável pela administração da unidade para a coexistência do Monumento Natural com o uso da propriedade, a área deve ser desapropriada, de acordo com o que dispõe a lei.
+§ 3º A visitação pública está sujeita às condições e restrições estabelecidas no Plano de Manejo da unidade, às normas estabelecidas pelo órgão responsável por sua administração e àquelas previstas em regulamento.

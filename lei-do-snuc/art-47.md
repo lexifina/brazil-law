@@ -1,0 +1,1 @@
+Art. 47. O órgão ou empresa, público ou privado, responsável pelo abastecimento de água ou que faça uso de recursos hídricos, beneficiário da proteção proporcionada por uma unidade de conservação, deve contribuir financeiramente para a proteção e implementação da unidade, de acordo com o disposto em regulamentação específica.
