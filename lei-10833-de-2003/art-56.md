@@ -1,1 +1,2 @@
 Art. 56. As receitas decorrentes das operações referidas nos arts. 49 a 52 não se sujeitam à incidência não-cumulativa da contribuição para o PIS/PASEP e da COFINS de que tratam esta Lei e a Lei nº 10.637, de 30 de dezembro de 2002.
+Parágrafo único. O disposto no caput não se aplica aos incisos I e II do art. 51 desta Lei.
