@@ -14,3 +14,4 @@ i) o quorum para os diversos tipos de votações;
 j) a forma de contribuição para constituição de fundo de reserva;
 l) a forma e o quorum para as alterações de convenção;
 m) a forma e o quorum para a aprovação do Regimento Interno quando não incluídos na própria Convenção.
+§ 4º No caso de conjunto de edificações, a que se refere o art. 8º, a convenção de condomínio fixará os direitos e as relações de propriedade entre os condôminos das várias edificações, podendo estipular formas pelas quais se possam desmembrar e alienar porções do terreno, inclusive as edificadas.
