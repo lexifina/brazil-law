@@ -1,0 +1,2 @@
+Acrescenta o Capítulo II-A ao Título XI do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, e dispositivo à Lei nº 9.613, de 3 de março de 1998, que "dispõe sobre os crimes de 'lavagem' ou ocultação de bens, direitos e valores; a prevenção da utilização do Sistema Financeiro para os ilícitos previstos nesta Lei, cria o Conselho de Controle de Atividades Financeiras (Coaf), e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
