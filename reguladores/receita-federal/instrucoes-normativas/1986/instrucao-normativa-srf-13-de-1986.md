@@ -1,0 +1,9 @@
+Instrução Normativa SRF nº 13, de 14 de janeiro de 1986
+Dispõe sobre a tributação de ganhos de capital obtidos por pessoas físicas e jurídicas não financeiras nos resgates de títulos de renda fixa.
+O Secretário da Receita Federal, no uso de suas atribuições, tendo em vista o disposto no artigo 3º do Decreto-lei nº 1.494, de 07 de dezembro de 1976, e no artigo 95 da Lei nº 7.450, de 23 de dezembro de 1985,
+RESOLVE:
+1. Cabe às instituições financeiras e às sociedades corretoras e distribuidoras de títulos e valores mobiliários calcular e quando for o caso, reter e recolher o imposto de renda incidente sobre ganhos de capital, de que tratam os artigos 39 e 19 dos Decretos-leis nºs 1.494, de 07 de dezembro de 1976 e 2.027, de 09 de junho de 1983, e o artigo 40 da Lei nº 7.450, de 23 de dezembro de 1985, auferidos por seus clientes, pessoas físicas e jurídicas não financeiras, nos resgates de títulos de renda fixa, efetuados através do Sistema Especial de Liquidação e de Custódia (SELIC) e da Central de Custódia e de Liquidação Financeira de Títulos (CETIP).
+2. Na hipótese do item precedente, os emissores ou aceitantes dos títulos de renda fixa creditarão as contas de clientes não individualizados no SELIC ou na CETIP pelo valor integral do resgate, competindo às instituições titulares dessas contas proceder à retenção, quando do crédito dos respectivos valores a seus clientes individualmente, bem como fornecer os recibos da retenção e prestar as informações fiscais competentes.
+3. As pessoas jurídicas não financeiras que possuírem contas individualizadas nos Sistemas SELIC e CETIP terão a retenção do imposto de renda na fonte, de que trata esta Instrução Normativa, efetuada através dos referidos Sistemas, cabendo aos emissores ou aceitantes fazer o respectivo recolhimento.
+4. Esta Instrução Normativa entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+LUIZ PATURY ACCIOLY
