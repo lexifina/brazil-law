@@ -1,0 +1,1 @@
+Art. 7º. Os juízes recorrerão de ofício sempre que absolverem os acusados em processo por crime contra a economia popular ou contra a saúde pública, ou quando determinarem o arquivamento dos autos do respectivo inquérito policial.
