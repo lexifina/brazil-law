@@ -1,3 +1,3 @@
 Art. 42. Opcionalmente, as pessoas jurídicas tributadas pelo lucro real que aufiram receitas de venda dos produtos de que tratam os §§ 1º a 3º e 5º a 9º do art. 8º desta Lei poderão adotar, antecipadamente, o regime de incidência não-cumulativa da contribuição para o PIS/PASEP e da COFINS.
 § 1º A opção será exercida até o dia 31 de maio de 2004, de acordo com as normas e condições estabelecidas pela Secretaria da Receita Federal, produzindo efeitos em relação aos fatos geradores ocorridos a partir do dia 1º de maio de 2004.
-§ 2º Não se aplicam as disposições dos arts. 46 e 47 desta Lei às pessoas jurídicas que efetuarem a opção na forma do caput deste artigo.
+§ 2º Não se aplicam as disposições dos arts. 45 e 46 desta Lei às pessoas jurídicas que efetuarem a opção na forma do caput deste artigo.

@@ -12,4 +12,6 @@ e) bens trazidos do exterior, no comércio característico das cidades situadas 
 f) bens importados sob o regime aduaneiro especial de drawback, na modalidade de isenção;
 g) objetos de arte, classificados nas posições 97.01, 97.02, 97.03 e 97.06 da NCM, recebidos em doação, por museus instituídos e mantidos pelo poder público ou por outras entidades culturais reconhecidas como de utilidade pública; e
 h) máquinas, equipamentos, aparelhos e instrumentos, e suas partes e peças de reposição, acessórios, matérias-primas e produtos intermediários, importados por instituições científicas e tecnológicas e por cientistas e pesquisadores, conforme o disposto na Lei nº 8.010, de 29 de março de 1990.
-Parágrafo único. As isenções de que trata este artigo somente serão concedidas se satisfeitos os requisitos e condições exigidos para o reconhecimento de isenção do Imposto sobre Produtos Industrializados - IPI vinculado à importação.
+III - (VETADO)
+§ 1º As isenções de que tratam os incisos I e II deste artigo somente serão concedidas se satisfeitos os requisitos e condições exigidos para o reconhecimento de isenção do Imposto sobre Produtos Industrializados - IPI.
+§ 2º (VETADO)

@@ -36,12 +36,14 @@ II - embarcações construídas no Brasil e transferidas por matriz de empresa b
 III - papel destinado à impressão de jornais, pelo prazo de 4 (quatro) anos a contar da data de vigência desta Lei, ou até que a produção nacional atenda 80% (oitenta por cento) do consumo interno;
 IV - papéis classificados nos códigos 4801.00.10, 4801.00.90, 4802.61.91, 4802.61.99, 4810.19.89 e 4810.22.90, todos da TIPI, destinados à impressão de periódicos pelo prazo de 4 (quatro) anos a contar da data de vigência desta Lei ou até que a produção nacional atenda 80% (oitenta por cento) do consumo interno;
 V - máquinas, equipamentos, aparelhos, instrumentos, suas partes e peças de reposição, e películas cinematográficas virgens, sem similar nacional, destinados à indústria cinematográfica e audiovisual, e de radiodifusão;
-VI - aluguéis e contraprestações de arrendamento mercantil de máquinas e equipamentos, embarcações e aeronaves utilizados na atividade da empresa;
-VII - partes e peças da posição 88.03 destinadas aos veículos e aparelhos da posição 88.02 da NCM;
+VI - aeronaves, classificadas na posição 88.02 da NCM;
+VII - partes, peças, ferramentais, componentes, insumos, fluidos hidráulicos, lubrificantes, tintas, anticorrosivos, equipamentos, serviços e matérias-primas a serem empregados na manutenção, reparo, revisão, conservação, modernização, conversão e montagem das aeronaves de que trata o inciso VI deste parágrafo, de seus motores, suas partes, peças, componentes, ferramentais e equipamentos;
 VIII - nafta petroquímica, código 2710.11.41 da NCM;
 IX - gás natural destinado ao consumo em unidades termelétricas integrantes do Programa Prioritário de Termelétricas - PPT;
 X - produtos hortícolas e frutas, classificados nos Capítulos 7 e 8, e ovos, classificados na posição 04.07, todos da TIPI; e
 XI - semens e embriões da posição 05.11, da NCM.
+XII - livros técnicos e científicos, na forma estabelecida em ato conjunto do Ministério da Educação e da Secretaria da Receita Federal.
 § 13. O Poder Executivo regulamentará:
 I - o disposto no § 10 deste artigo; e
 II - a utilização do benefício da alíquota 0 (zero) de que tratam os incisos I a VII do § 12 deste artigo.
+§ 14. Ficam reduzidas a 0 (zero) as alíquotas das contribuições incidentes sobre o valor pago, creditado, entregue, empregado ou remetido à pessoa física ou jurídica residente ou domiciliada no exterior, referente a aluguéis e contraprestações de arrendamento mercantil de máquinas e equipamentos, embarcações e aeronaves utilizados na atividade da empresa.
