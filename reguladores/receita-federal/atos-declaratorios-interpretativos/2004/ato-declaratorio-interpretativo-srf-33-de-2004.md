@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo SRF nº 33, de 22 de dezembro de 2004
+Dispõe sobre a opção pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte (Simples) por pessoas jurídicas que exerçam a atividade de remoção e transporte de resíduos de ruas, prédios e demais logradouros públicos.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e considerando o disposto na alínea " f" do inciso XII do art. 9º da Lei nº 9.317, de 5 de dezembro de 1996, e no processo nº 10730.002721/00-82, declara:
+Artigo único. Pode optar pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte (Simples) a pessoa jurídica que exerce a atividade de remoção e transporte de resíduos de ruas, prédios e demais logradouros públicos, desde que observadas as demais condições estatuídas na legislação.
+JORGE ANTONIO DEHER RACHID
