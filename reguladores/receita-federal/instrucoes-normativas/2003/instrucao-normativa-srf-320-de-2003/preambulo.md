@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 320, de 11 de abril de 2003
+Aprova o programa e as instruções para preenchimento do Pedido Eletrônico de Restituição ou Ressarcimento e da Declaração de Compensação (PER/DCOMP), e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições que lhe conferem os incisos III e XVIII do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no § 1º do art. 74 da Lei nº 9.430, de 27 de dezembro de 1996, com a redação determinada pelo art. 49 da Lei nº 10.637, de 30 de dezembro de 2002, e na Instrução Normativa SRF nº 210, de 30 de setembro de 2002, resolve:
