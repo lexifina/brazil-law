@@ -1,0 +1,9 @@
+Parecer Normativo CST nº 1032, de 24 de dezembro de 1971
+O produto da alienação, a qualquer título, feita por pessoa física, das suas marcas de indústria e comércio, é classificável na cédula H da sua declaração de rendimentos no ano-base em que se realizar a transação, nos termos do art. 57 do Regulamento do Imposto de Renda (Decreto no 58.400, de 10 de maio de 1966). Pessoa física consulta sobre o entendimento a ser dado à alienação, para fins do imposto de renda, das suas marcas de indústria e comércio em vista do valor correspondente ter sido aplicado direta e imediatamente na subscrição de aumento do capital de pessoa jurídica adquirente.
+1. O art. 57 do Regulamento do Imposto de Renda, enfatiza a inclusão na cédula H da alienação a qualquer título, das marcas de indústria e comércio, patentes de invenção e processos ou fórmulas de fabricação.
+2. Embora a alienação, no caso sob exame, não tenha resultado no recebimento em dinheiro, operou-se a título oneroso, já que a sua aplicação se fez de imediato na subscrição de aumento de capital social da pessoa jurídica adquirente.
+Esta, em contrapartida, contabilizou a aquisição em conta específica de seu ativo fixo - fato incoerente da efetividade da alienação pela transferência de propriedade de marcas.
+Considerando que os resultados desta operação em nada diferem dos que ocorreriam com a alienação pura e simples para posterior aplicação na dita subscrição de capital, é de se concluir que a ela se aplicam inteiramente as disposições do art. 57 do Regulamento do Imposto de Renda.
+Comentários em 23/06/2006
+1. Teor do PN superado.
+2. O produto de alienação, a qualquer título, feita por pessoa física, de suas marcas de indústria e comércio, é classificado como ganho de capital na alienação de bens e direitos, tributável nos termos do art. 117 do RIR/99.
