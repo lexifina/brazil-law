@@ -1,0 +1,2 @@
+Art. 42. O art. 57 do Decreto-Lei nº 986, de 21 de Outubro de 1969, passa a vigorar com a seguinte redação:
+"Art. 57. A importação de alimentos, de aditivos para alimentos e de substâncias destinadas a serem empregadas no fabrico de artigos, utensílios e equipamentos destinados a entrar em contato com alimentos, fica sujeita ao disposto neste Decreto-lei e em seus Regulamentos sendo a análise de controle efetuada por amostragem, a critério da autoridade sanitária, no momento de seu desembarque no país." (NR)

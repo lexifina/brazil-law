@@ -1,0 +1,1 @@
+Art. 6º A Agência terá por finalidade institucional promover a proteção da saúde da população, por intermédio do controle sanitário da produção e da comercialização de produtos e serviços submetidos à vigilância sanitária, inclusive dos ambientes, dos processos, dos insumos e das tecnologias a eles relacionados, bem como o controle de portos, aeroportos e de fronteiras.
