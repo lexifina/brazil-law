@@ -1,0 +1,7 @@
+Art. 3º O Proprietário Fiduciário ou credor, poderá requerer contra o devedor ou terceiro a busca e apreensão do bem alienado fiduciàriamente, a qual será concedida Iiminarmente, desde que comprovada a mora ou o inadimplemento do devedor.
+§ 1º Despachada a inicial e executada a liminar, o réu será citado para, em três dias, apresentar contestação ou, se já tiver pago 40% (quarenta por cento) do preço financiado, requerer a purgação de mora.
+§ 2º Na contestação só se poderá alegar o pagamento do débito vencido ou o cumprimento das obrigações contratuais.
+§ 3º Requerida a purgação de mora, tempestivamente, o Juiz marcará data para o pagamento que deverá ser feito em prazo não superior a dez dias, remetendo, outrossim, os autos ao contador para cálculo do débito existente, na forma do art. 2º e seu parágrafo primeiro.
+§ 4º Contestado ou não o pedido e não purgada a mora, o Juiz dará sentença de plano em cinco dias, após o decurso do prazo de defesa, independentemente da avaliação do bem.
+§ 5º A sentença do Juiz, de que cabe agravo de instrumento, sem efeito suspensivo, não impedirá a venda extrajudicial do bem alienado fiduciàriamente e consolidará a propriedade e a posse plena e exclusiva nas mãos do proprietário fiduciário. Preferida pelo credor a venda judicial, aplicar-se-á o disposto no título VI, Livro V, do Código de Processo Civil.
+§ 6º A busca e apreensão prevista no presente artigo constitui processo autônomo e independente de qualquer procedimento posterior.
