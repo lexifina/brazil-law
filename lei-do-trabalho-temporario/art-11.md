@@ -1,0 +1,2 @@
+Art. 11 - O contrato de trabalho celebrado entre empresa de trabalho temporário e cada um dos assalariados colocados à disposição de uma empresa tomadora ou cliente será, obrigatoriamente, escrito e dele deverão constar, expressamente, os direitos conferidos aos trabalhadores por esta Lei.
+Parágrafo único. Será nula de pleno direito qualquer cláusula de reserva, proibindo a contratação do trabalhador pela empresa tomadora ou cliente ao fim do prazo em que tenha sido colocado à sua disposição pela empresa de trabalho temporário.

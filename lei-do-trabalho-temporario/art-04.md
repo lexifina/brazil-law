@@ -1,0 +1,1 @@
+Art. 4º - Compreende-se como empresa de trabalho temporário a pessoa física ou jurídica urbana, cuja atividade consiste em colocar à disposição de outras empresas, temporariamente, trabalhadores, devidamente qualificados, por elas remunerados e assistidos.
