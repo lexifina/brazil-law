@@ -1,0 +1,2 @@
+Dispõe sobre a fiscalização, apuração e cobrança judicial as contribuições e multas devidas ao Fundo de Garantia do Tempo de Serviço (FGTS).
+Faço saber que o Presidente da República adotou a Medida Provisória n° 393, de 1993, que o Congresso Nacional aprovou, e eu, HUMBERTO LUCENA Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
