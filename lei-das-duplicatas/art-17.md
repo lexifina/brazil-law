@@ -1,1 +1,1 @@
-Art. 17. O fôro competente para a ação de cobrança da duplicata será o da praça de pagamento constante do título.
+Art. 17. O fôro competente para a ação de cobrança da duplicata ou da triplicata é o da praça de pagamento constante do título, ou outra de domicílio do comprador e, no caso de ação regressiva, a dos sacadores, dos endossantes e respectivos avalistas.
