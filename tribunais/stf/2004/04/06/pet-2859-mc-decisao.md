@@ -1,0 +1,1138 @@
+DECISÃO: Cuida-se de Ação Cautelar, com pedido liminar,
+para concessão de efeito suspensivo ao recurso extraordinário,
+   interposto pelo Município de São Paulo contra acórdão do Órgão
+   Especial do Tribunal de Justiça do Estado de São Paulo que julgou
+   procedente a Ação Direta de Inconstitucionalidade 66.785-/4-SP e
+   declarou a inconstitucionalidade do parágrafo 1º do art. 6º e da
+   expressão "ou fora" contida nos arts. 6º e 7º, todos da Lei
+   12.349, de 06 de junho de 1997, do Município de São Paulo, que
+   instituiu a "Operação Urbana Centro", por entender que não pode o
+   Poder Legislativo Municipal delegar "competência ao Poder
+   Executivo para, aleatoriamente, estabelecer normas de zoneamento,
+   uso e ocupação do solo, índices urbanísticos e demais limitações
+   administrativas fora dessa área".
+                O Município de São Paulo
+   sustenta não ter havido afronta aos artigos da Constituição
+   Estadual, os quais reproduziram dispositivos da Carta Magna: art.
+   5º, § 1º, da Constituição Estadual (art. 2º, CF: princípio da
+   separação dos poderes) e 181, da Constituição Estadual (art. 182,
+   da CF: exigência de lei como instrumento de realização da
+   política urbanística), porque houve, na hipótese, a "opção do
+   legislador de possibilitar que benefícios outorgados pela
+   Operação Urbana Centro atingissem não só a área central, mas
+   também uma área envoltória, discriminada na lei por meio de
+   critério objetivo". Argúi que a manutenção de entendimento
+   contrário viola o princípio da autonomia municipal, previsto no
+   art. 30, VIII, da Constituição Federal.
+                Pede a aplicação do
+   disposto no art. 543, § 2º, do Código de Processo Civil, por
+   entender ser o julgamento do recurso extraordinário prejudicial
+   ao do recurso especial concomitantemente
+   interposto.
+                Finalmente, afirma que a declaração de
+   inconstitucionalidade da referida norma prejudica a implantação
+   da Operação Urbana Centro, criada devido à "necessidade de
+   revitalização e recuperação da área central da cidade,
+   objetivando torná-la atraente para investimentos imobiliários,
+   turísticos e culturais, revertendo seu processo de deterioração".
+   E que, enquanto não houver decisão do recurso extraordinário, o
+   requerente estará sujeito "aos efeitos do v.
+   acórdão".
+                Entende justificável o pedido, "em virtude de se
+   estar diante de ação direta de inconstitucionalidade de lei
+   municipal que produziu efeitos durante vários anos, dela
+   emergindo situações que já se encontram consolidadas na cidade de
+   São Paulo".
+                Assim é que defende a incidência dos efeitos da
+   declaração de inconstitucionalidade apenas após o trânsito em
+   julgado da ação, conforme disposição do art. 27 da Lei nº 9.868,
+   de 10 de novembro de 1999.
+                Valho-me, aqui, dos fundamentos
+   de meu voto no julgamento do RE 197.917/SP, Maurício Corrêa, em
+   que o Plenário decidiu pela inconstitucionalidade de lei orgânica
+   municipal, que estabelecia o número de vereadores, determinando,
+   porém, a eficácia dos efeitos para momento futuro, adotando
+   minha sugestão.
+                Como se pode ver, se se entende
+   inconstitucional a lei municipal em apreço, impõe-se que se
+   limitem os efeitos dessa declaração (pro futuro).
+Limitação
+   de efeitos no sistema difuso
+                Embora a Lei nº 9.868, de 10
+   de novembro de 1999, tenha autorizado o Supremo Tribunal Federal
+   a declarar a inconstitucionalidade com efeitos limitados, é
+   lícito indagar sobre a admissibilidade do uso dessa técnica de
+   decisão no âmbito do controle difuso.
+                Ressalte-se que não se
+   está a discutir a constitucionalidade do art. 27 da Lei nº
+   9.868, de 1999. Cuida-se aqui tão-somente de examinar a
+   possibilidade de aplicação da orientação nele contida no controle
+   incidental de constitucionalidade.
+                Para tanto, faz-se
+   necessária, inicialmente, uma análise da questão no direito
+   americano, que é a matriz do sistema brasileiro de
+   controle.
+                É interessante notar que, nos próprios Estados
+   Unidos da América, onde a doutrina acentuara tão enfaticamente a
+   idéia de que a expressão "lei inconstitucional" configurava uma
+   contradictio in terminis, uma vez que "the inconstitutional
+   statute is not law at all" (Willoughby, Westel Woodbury. The
+   Constitutional Law of the United States, New York, 1910, v. 1, p.
+   9/10; cf. Cooley, Thomas M., Treaties on the Constitutional
+   Limitations, 1878, p. 227), passou-se a admitir, após a Grande
+   Depressão, a necessidade de se estabelecerem limites à declaração
+   de inconstitucionalidade (Tribe, Laurence. The American
+   Constitutional Law, The Foundation Press, Mineola, New York,
+   1988). A Suprema Corte americana vem considerando o problema
+   proposto pela eficácia retroativa de juízos de
+   inconstitucionalidade a propósito de decisões em processos
+   criminais.  Se as leis ou atos inconstitucionais nunca existiram
+   enquanto tais, eventuais condenações nelas baseadas quedam
+   ilegítimas, e, portanto, o juízo de inconstitucionalidade
+   implicaria a possibilidade de impugnação imediata de todas as
+   condenações efetuadas sob a vigência da norma inconstitucional.
+   Por outro lado, se a declaração de inconstitucionalidade afeta
+   tão-somente a demanda em que foi levada a efeito, não se há que
+   cogitar de alteração de julgados anteriores.
+                Sobre o tema,
+   afirma Tribe:
+"No caso Linkletter v. Walker, a Corte rejeitou
+   ambos os extremos: 'a Constituição nem proíbe nem exige efeito
+   retroativo.' Parafraseando o Justice Cardozo pela assertiva de
+   que 'a constituição federal nada diz sobre o assunto', a Corte de
+   Linkletter tratou da questão da retroatividade como um assunto
+   puramente de política (política judiciária), a ser decidido
+   novamente em cada caso.  A Suprema Corte codificou a abordagem de
+   Linkletter no caso Stovall v. Denno: 'Os critérios condutores da
+   solução da questão implicam (a) o uso a ser servido pelos novos
+   padrões, (b) a extensão da dependência das autoridades
+   responsáveis pelo cumprimento da lei com relação aos antigos
+   padrões, e (c) o efeito sobre a administração da justiça de uma
+   aplicação retroativa dos novos padrões." (Tribe, American
+   Constitutional Law, cit., p. 30)
+                Ressalte-se que Linkletter
+   havia sido condenado com base em sistema de provas que,
+   posteriormente, a Suprema Corte veio a considerar contrário ao
+   princípio do due process of law. Com base nessa orientação,
+   Linkletter pediu a  revisão do seu caso, o que lhe foi negado
+   pela Suprema Corte, forte no argumento de que a pretensão
+   formulada não tinha fundamento constitucional (a questão dos
+   efeitos não tinha definição constitucional) (Garcia de Enterría,
+   Justicia Constitucional, cit., RDP 92, p. 5).
+                Em verdade,
+   toda a polêmica surgiu com o caso Mapp v. Ohio 367 US 643 (1961),
+   no qual a Suprema Corte reconheceu que, em consonância com a 4a.
+   Emenda, a prova obtida ilegalmente não seria admissível em um
+   juízo penal. Restou, assim, superada a doutrina estabelecida em
+   Wolf  v. Colorado, 338 US 25 (1949). Como era de se esperar,
+   inúmeras petições de habeas corpus foram apresentadas com o
+   objetivo de assegurar a aplicação retroativa do precedente Mapp
+   nos casos já julgados (Cf. Sesma, Victoria Iturralde, El
+   Precedente en el Common Law, Madri, 1995, p. 173). Daí ter
+   afirmado o juiz Clark que as regras fixadas em Mapp tinham como
+   objetivo desestimular as ações ilegais da polícia, proteger a
+   privacidade das vítimas e ensejar que os órgãos federais e
+   estaduais operassem com base nos mesmos padrões jurídicos.
+   Conferir a Mapp efeitos retroativos, na opinião de Clark,
+   acabaria por quebrantar a confiança que órgãos do Estado
+   depositaram em Wolf v. Colorado e imporia uma desmedida carga de
+   trabalho para administração da Justiça (Sesma, El Precedente,
+   cit., p. 173).
+                A jurisprudência americana evoluiu para
+   admitir, ao lado da decisão de inconstitucionalidade com efeitos
+   retroativos amplos ou limitados (limited retrospectivity), a
+   superação prospectiva (prospective overruling), que tanto pode
+   ser limitada (limited prospectivity), aplicável aos processos
+   iniciados após a decisão, inclusive ao processo originário, como
+   ilimitada (pure prospectivity), que sequer se aplica ao processo
+   que lhe deu origem (Palu, Oswaldo Luiz. Controle de
+   constitucionalidade, São Paulo 2a. ed., 2001, p. 173; Medeiros,
+   Rui. A Decisão de Inconstitucionalidade, Universidade Católica
+   Editora, Lisboa, 1999).
+                Vê-se, pois, que o sistema difuso ou
+   incidental mais tradicional do mundo passou a admitir a
+   mitigação dos efeitos da declaração de inconstitucionalidade e,
+   em casos determinados, acolheu até mesmo a pura declaração de
+   inconstitucionalidade com efeito exclusivamente pro futuro (Cf. a
+   propósito, Sesma, El Precedente, cit., p. 174 s). De resto,
+   assinale-se que, antes do advento da Lei nº 9.868, de 1999,
+   talvez fosse o STF, muito provavelmente, o único órgão importante
+   de jurisdição constitucional a não fazer uso, de modo expresso,
+   da limitação de efeitos na declaração de inconstitucionalidade.
+   Não só a Suprema Corte americana (caso Linkletter v. Walker), mas
+   também uma série expressiva de Cortes Constitucionais e Cortes
+   Supremas adotam a técnica da limitação de efeitos (Cf. v.g. Corte
+   Constitucional austríaca (Constituição, art. 140), a Corte
+   Constitucional alemã (Lei Orgânica, § 31, 2 e 79, 1), a Corte
+   Constitucional espanhola (embora não expressa na Constituição,
+   adotou, desde 1989, a técnica da declaração de
+   inconstitucionalidade sem a pronúncia da nulidade. Cf. Garcia de
+   Enterría, Justicia Constitucional, cit., p. 5), a Corte
+   Constitucional portuguesa (Constituição, art. 282, n. 4), o
+   Tribunal de Justiça da Comunidade Européia (art.174, 2 do Tratado
+   de Roma), o Tribunal Europeu de Direitos Humanos (caso Markx, de
+   13 de junho de 1979. Cf. Siqueira Castro, Carlos Roberto. Da
+   Declaração de Inconstitucionalidade e seus efeitos em face das
+   Leis nº 9.868 e 9882/99, in: Sarmento, Daniel, O Controle de
+   Constitucionalidade e a Lei 9.868/99 (organizador), Rio de
+   Janeiro, 2001)).
+                No que interessa para a discussão da
+   questão em apreço, ressalte-se que  o modelo difuso não se mostra
+   incompatível com a doutrina da limitação dos efeitos.
+                Sem
+   dúvida, afigura-se relevante no sistema misto brasileiro o
+   significado da decisão limitadora tomada pelo Supremo Tribunal
+   Federal no controle abstrato de normas sobre os julgados
+   proferidos pelos demais juízes e tribunais no sistema
+   difuso.
+                O tema relativo à compatibilização de decisões nos
+   modelos concreto e abstrato não é exatamente novo e foi
+   suscitado, inicialmente, na Áustria, tendo em vista os reflexos
+   da decisão da Corte Constitucional sobre os casos concretos que
+   deram origem ao incidente de inconstitucionalidade (1920-1929).
+   Optou-se ali por atribuir efeito ex tunc excepcional à
+   repercussão da decisão de inconstitucionalidade sobre o caso
+   concreto (Constituição austríaca, art. 140 , n. 7, 2a.
+   parte).
+                No direito americano, o tema poderia assumir feição
+   delicada tendo em vista o caráter incidental ou difuso do
+   sistema, isto é, modelo marcadamente voltado para a defesa de
+   posições subjetivas. Todavia, ao contrário do que se poderia
+   imaginar, não é rara a pronúncia de inconstitucionalidade sem
+   atribuição de eficácia retroativa, especialmente nas decisões
+   judiciais que introduzem alteração de jurisprudência (prospective
+   overruling). Em alguns casos, a nova regra afirmada para decisão
+   aplica-se aos processos pendentes (limited prospectivity); em
+   outros, a eficácia ex tunc exclui-se de forma absoluta (pure
+   prospectivity). Embora tenham surgido no contexto das alterações
+   jurisprudenciais de precedentes, as prospectivity têm integral
+   aplicação às hipóteses de mudança de orientação que leve à
+   declaração de inconstitucionalidade de uma lei antes considerada
+   constitucional (Cf. Medeiros, A Decisão de Inconstitucionalidade,
+   cit., p. 743).
+                A prática da prospectivity, em qualquer de
+   suas versões, no sistema de controle americano, demonstra, pelo
+   menos, que o controle incidental não é incompatível com a idéia
+   da limitação de efeitos na decisão de
+   inconstitucionalidade.
+                Há de se reconhecer que o tema assume
+   entre nós peculiar complexidade tendo em vista a inevitável
+   convivência entre os modelos difuso e direto. Quais serão, assim,
+   os efeitos da decisão ex nunc do Supremo Tribunal Federal,
+   proferida in abstracto, sobre as decisões já proferidas pelas
+   instâncias afirmadoras da inconstitucionalidade com eficácia ex
+   tunc?
+                Um argumento que pode ser suscitado diz respeito ao
+   direito fundamental de acesso à justiça, tal como já argüido no
+   direito português, afirmando-se que haveria a frustração da
+   expectativa daqueles que obtiveram o reconhecimento jurisdicional
+   do fundamento de sua pretensão (Cf. Medeiros, A Decisão de
+   Inconstitucionalidade, cit., p. 746).
+                A propósito dessa
+   objeção, Rui Medeiros apresenta as seguintes respostas:
+"-- É
+   sabido, desde logo, que existem domínios em que a restrição do
+   alcance do julgamento de inconstitucionalidade não é, por
+   definição, susceptível de pôr em causa esse direito fundamental
+   (v.g., invocação do nº 4 do art. 282 para justificar a aplicação
+   da norma penal inconstitucional mais favorável ao argüído do que
+   a norma repristinada);
+-- Além disso, mostra-se claramente
+   claudicante a representação do direito de acção judicial como um
+   direito a uma sentença de mérito favorável, tudo apontando antes
+   no sentido de que o artigo 20 da Constituição não vincula os
+   tribunais a 'uma obrigação-resultado (procedência do pedido) mas
+   a uma mera obrigação-meio, isto é, a encontrar uma solução justa
+   e legal para o conflito de interesse entre as partes';
+--
+   Acresce que, mesmo que a limitação de efeitos contrariasse o
+   direito de acesso aos tribunais, ela seria imposta por razões
+   jurídico-constitucionais e, por isso, a solução não poderia
+   passar pela absoluta prevalência do interesse tutelado pelo art.
+   20 da Constituição, postulando ao invés uma tarefa de
+   harmonização entre os diferentes interesse em conflito;
+--
+   Finalmente, a admissibilidade de uma limitação de efeitos na
+   fiscalização concreta não significa que um tribunal possa
+   desatender, com base numa decisão puramente discricionária, a
+   expectativa daquele que iniciou um processo jurisdicional com a
+   consciência da inconstitucionalidade da lei que se opunha ao
+   reconhecimento da sua pretensão. A delimitação da eficácia da
+   decisão de inconstitucionalidade não é fruto de 'mero
+   decisionismo' do órgão de controlo. O que se verifica é
+   tão-somente que, à luz do ordenamento constitucional no seu todo,
+   a pretensão do autor à não-aplicação da lei desconforme com a
+   Constituição não tem, no caso concreto, fundamento." (Cf.
+   Medeiros, A Decisão de Inconstitucionalidade, cit., p.
+   746-747).
+                Essas colocações têm a virtude de demonstrar que a
+   declaração de inconstitucionalidade in concreto também se mostra
+   passível de limitação de efeitos. A base constitucional dessa
+   limitação - necessidade de um outro princípio que justifique a
+   não-aplicação do princípio da nulidade - parece sugerir que, se
+   aplicável, a declaração de inconstitucionalidade restrita
+   revela-se abrangente do modelo de controle de constitucionalidade
+   como um todo. É que, nesses casos, tal como já argumentado, o
+   afastamento do princípio da nulidade da lei assenta-se em
+   fundamentos constitucionais e não em razões de conveniência. Se o
+   sistema constitucional legitima a declaração de
+   inconstitucionalidade restrita no controle abstrato, esta decisão
+   poderá afetar, igualmente, os processos do modelo concreto ou
+   incidental de normas. Do contrário, poder-se-ia ter inclusive um
+   esvaziamento ou uma perda de significado da própria declaração de
+   inconstitucionalidade restrita ou limitada.
+                A questão tem
+   relevância especial no direito português, porque, ao lado do
+   modelo abstrato de controle, de perfil concentrado, adota a
+   Constituição um modelo concreto de perfil incidental à semelhança
+   do sistema americano ou brasileiro. Trata-se de herança do
+   sistema adotado pela Constituição portuguesa de 1911.
+                É
+   claro que, nesse contexto, tendo em vista os próprios fundamentos
+   legitimadores da restrição de efeitos, poderá o Tribunal
+   declarar a inconstitucionalidade com efeitos limitados, fazendo,
+   porém, a ressalva dos casos já decididos ou dos casos pendentes
+   até um determinado momento (v.g., até a decisão in abstracto). É
+   o que ocorre no sistema português, onde o Tribunal Constitucional
+   ressalva, freqüentemente, os efeitos produzidos até à data da
+   publicação da declaração de inconstitucionalidade no Diário da
+   República ou, ainda, acrescenta no dispositivo que são excetuadas
+   aquelas situações que estejam pendentes de impugnação
+   contenciosa (Cf. Medeiros, A Decisão de Inconstitucionalidade,
+   cit., p. 748).
+                Essa orientação afigura-se integralmente
+   aplicável ao sistema brasileiro.
+                Assim, pode-se entender que
+   se o STF declarar a inconstitucionalidade restrita, sem qualquer
+   ressalva, essa decisão afeta os demais processos com pedidos
+   idênticos pendentes de decisão nas diversas instâncias. Os
+   próprios fundamentos constitucionais legitimadores da restrição
+   embasam a declaração de inconstitucionalidade com eficácia ex
+   nunc nos casos concretos. A inconstitucionalidade da lei há de
+   ser reconhecida a partir do trânsito em julgado. Os casos
+   concretos ainda não transitados em julgado hão de ter o mesmo
+   tratamento (decisões com eficácia ex nunc) se e quando submetidos
+   ao STF.
+                É verdade que, tendo em vista a autonomia dos
+   processos de controle incidental ou concreto e de controle
+   abstrato, entre nós, mostra-se possível um distanciamento
+   temporal entre as decisões proferidas nos dois sistemas (decisões
+   anteriores, no sistema incidental, com eficácia ex tunc e
+   decisão posterior, no sistema abstrato, com eficácia ex nunc).
+   Esse fato poderá ensejar uma grande insegurança jurídica. Daí
+   parecer razoável que o próprio STF declare, nesses casos, a
+   inconstitucionalidade com eficácia ex nunc na ação direta,
+   ressalvando, porém, os casos concretos já julgados ou, em
+   determinadas situações, até mesmo os casos sub judice, até a data
+   de ajuizamento da ação direta de inconstitucionalidade. Essa
+   ressalva assenta-se em razões de índole constitucional,
+   especialmente no princípio da segurança jurídica. Ressalte-se
+   aqui que, além da ponderação central entre o princípio da
+   nulidade e outro princípio constitucional, com a finalidade de
+   definir a dimensão básica da limitação, deverá a Corte fazer
+   outras ponderações, tendo em vista a repercussão da decisão
+   tomada no processo de controle in abstracto nos diversos
+   processos de controle concreto.
+                Dessa forma, tem-se, a nosso
+   ver, uma adequada solução para o difícil problema da convivência
+   entre os dois modelos de controle de constitucionalidade
+   existentes no direito brasileiro, também no que diz respeito à
+   técnica de decisão.
+                Aludida abordagem responde a uma outra
+   questão intimamente vinculada a esta. Trata-se de saber se o STF
+   poderia, ao apreciar recurso extraordinário, declarar a
+   inconstitucionalidade com efeitos limitados.
+                Não parece
+   haver dúvida de que, tal como já exposto, a limitação de efeito é
+   um apanágio do controle judicial de constitucionalidade, podendo
+   ser aplicado tanto no controle direto quanto no controle
+   incidental.
+A limitação de efeitos no Direito brasileiro
+   antes de 1988
+                Observe-se ainda que, na jurisprudência do
+   STF pode-se identificar uma tímida tentativa, levada a efeito em
+   1977, no sentido de, com base na doutrina de Kelsen e em
+   concepções desenvolvidas no direito americano, abandonar a teoria
+   da nulidade em favor da chamada teoria da anulabilidade para o
+   caso concreto.
+                Em verdade, no caso específico, considerou o
+   Relator,  Leitão de Abreu, que a matéria não comportava a
+   aplicação da doutrina restritiva, pois, ao celebrar o negócio
+   jurídico, o recorrido não tomara em consideração a regra posta no
+   ato legislativo declarado inconstitucional (RTJ 82, p. 795/6).
+   Assim, parece claro que toda argumentação desenvolvida por Leitão
+   de Abreu, na espécie, não passa de obiter dictum.
+                Segundo
+   essa concepção, a lei inconstitucional não poderia ser
+   considerada nula, porque, tendo sido editada regularmente,
+   gozaria de presunção de constitucionalidade, e sua aplicação
+   continuada produziria conseqüências que não poderiam ser
+   olvidadas. A lei inconstitucional não seria, portanto, nula ipso
+   jure, mas apenas anulável. A declaração de inconstitucionalidade
+   teria, assim, caráter constitutivo. Da mesma forma que o
+   legislador poderia dispor sobre os efeitos da lei
+   inconstitucional, seria facultado ao Tribunal reconhecer que a
+   lei aplicada por longo período haveria de ser considerada como
+   fato eficaz, apto a produzir conseqüências pelo menos nas
+   relações jurídicas entre pessoas privadas e o Poder Público. Esse
+   seria também o caso se, com a cassação de um ato administrativo,
+   se configurasse uma quebra da segurança jurídica e do princípio
+   da boa-fé (RE 79.343, Rel. Min. Leitão de Abreu, RTJ n. 82, p.
+   795).
+                É interessante registrar a síntese da argumentação
+   desenvolvida por Leitão de Abreu:
+"Hans Kelsen, enfrentando o
+   problema, na sua General Theory of Law and State, inclina-se pela
+   opinião que dá pela anulabilidade, não pela nulidade da lei
+   inconstitucional. Consigna ele, em nota que figura à p. 160,
+   desse livro: The void ab initio theory is not generally
+   accepted.(Cf. for instance Chief Justice Hughes in Chicot County
+   Drainage District v. Baxter State Bank, 308, U. S. 371 (1940)).
+   The best formulation of the problem is to be found in Wellington
+   et al. Petitioners, 16 Piock. 87 (Mass., 1834), at 96: 'Perhaps,
+   however, it may be well doubted whether a formal act of
+   legislation can ever with strict legal propriety be said to be
+   void; It seems more consistent with the nature of the subject,
+   and the principles apliccable to analogous cases, to treat it as
+   voidable'. Com base nessa orientação jurisprudencial, escreve o
+   famoso teórico do direito: 'A decisão tomada pela autoridade
+   competente de que algo que se apresenta como norma é nulo ab
+   initio, porque preenche os requisitos da nulidade determinados
+   pela ordem jurídica, é um ato constitutivo; possui um efeito
+   legal definido; sem esse ato e antes dele o fenômeno em questão
+   não pode ser considerado 'nulo'. Donde não se tratar de decisão
+   'declaratória', não constituindo, como se afigura, declaração de
+   nulidade: é uma verdadeira anulação, uma anulação com força
+   retroativa, pois se faz mister haver legalmente existente a que a
+   decisão se refira. Logo o fenômeno em questão não pode ser algo
+   nulo ab initio, isto é, o não ser legal. É preciso que esse algo
+   seja considerado como uma força anulada com força retroativa pela
+   decisão que a declarou nula ab initio' (Ob. cit., p. 161).
+   Acertado se me afigura, também, o entendimento de que se não deve
+   ter como nulo ab initio ato legislativo que entrou no mundo
+   jurídico munido de presunção de validade, impondo-se, em razão
+   disso, enquanto não declarado inconstitucional, à obediência
+   pelos destinatários dos seus comandos. Razoável é a inteligência,
+   a meu ver, de que se cuida, em verdade de ato anulável,
+   possuindo caráter constitutivo a decisão que decreta nulidade.
+   Como, entretanto, em princípio, os efeitos dessa decisão operam
+   retroativamente, não se resolve, com isso, de modo pleno, a
+   questão de saber se é mister haver como delitos do orbe jurídico
+   atos ou fatos verificados em conformidade com a norma que haja
+   sido pronunciada como inconsistente com a ordem constitucional.
+   Tenho que procede a tese, consagrada pela corrente discrepante, a
+   que se refere o Corpus Juris Secundum, de que a lei
+   inconstitucional é um fato eficaz, ao menos antes da determinação
+   de inconstitucionalidade, podendo ter conseqüências que não é
+   lícito ignorar. A tutela da boa-fé exige que, em determinadas
+   circunstâncias, notadamente quando, sob a lei ainda não declarada
+   inconstitucional, se estabeleceram relações entre o particular e
+   o poder público, se apure, prudencialmente, até que ponto a
+   retroatividade da decisão, que decreta a inconstitucionalidade,
+   pode atingir, prejudicando-o, o agente que teve por legítimo o
+   ato e, fundado nele, operou na presunção de que estava procedendo
+   sob o amparo do direito objetivo" (RE 79.343, Rel. Min. Leitão
+   de Abreu, RTJ n. 82, p. 791/795).
+                Essa posição não provocou
+   qualquer mudança no entendimento anterior relativo à nulidade
+   ipso jure (RE 93.356, Rel. Min. Leitão de Abreu, RTJ 97, p.
+   1.369). E, em verdade, é possível até que não fosse apta a
+   provocar qualquer mudança. É que o próprio relator, Leitão de
+   Abreu, ao julgar o RE 93.356, em 24 de março de 1981, destacou,
+   verbis:
+"Nos dois casos, a tese por mim sustentada pressupunha
+   a existência de situação jurídica formalmente constituída, com
+   base em ato praticado, de boa-fé, sob a lei que só posteriormente
+   veio a ser declarada inconstitucional. Ora, como assinala, com
+   precisão o parecer da Procuradoria-Geral da República, não é esse
+   o caso dos autos, pois que o poder público não chegou a
+   reconhecer ao recorrente o direito ao cômputo do tempo de
+   serviço, a que reporta".
+                Orientação semelhante já havia sido
+   adotada no caso mais famoso, tendo realçado que não havia
+   falar-se de proteção de boa-fé, pois restara claro que, ao
+   concluir o negócio jurídico, não tomara o recorrido em
+   consideração a regra posta no ato legislativo posteriormente
+   declarado inconstitucional (RE 79.343, Rel. Min. Leitão de Abreu,
+   RTJ 82, p. 791 (795/796)).
+                Assim, talvez seja lícito dizer
+   que Leitão de Abreu limitou-se a propor uma reflexão sobre o tema
+   da limitação dos efeitos, no caso concreto, a ser aplicada em
+   alguma questão apropriada. Nessa parte, as considerações por ele
+   trazidas equivalem a simples obiter dicta. Ressalte-se, porém,
+   que, se aceita a tese esposada por Leitão, ter-se-ia a
+   possibilidade de limitação de efeitos da decisão no próprio
+   controle incidental ou da decisão in concreto. Em outras
+   palavras, o tribunal poderia declarar a inconstitucionalidade,
+   incidentalmente, com eficácia restrita, o que daria ensejo à
+   aplicação da norma inconstitucional no caso concreto. Tanto
+   quanto é possível depreender da argumentação desenvolvida por
+   Leitão de Abreu, a opção por uma declaração de
+   inconstitucionalidade com efeito limitado decorreria de critérios
+   de conveniência ou de política judiciária, tal como admitido no
+   direito americano.
+                Diferentemente da posição externada por
+   Leitão de Abreu, entendo que o princípio da nulidade enquanto
+   cláusula não-escrita continua a ter plena aplicação entre
+   nós.
+                Não se nega, pois, o caráter de princípio
+   constitucional ao princípio da nulidade da lei inconstitucional.
+   Entende-se, porém, que tal princípio não poderá ser aplicado nos
+   casos em que se revelar absolutamente inidôneo para a finalidade
+   perseguida (casos de omissão; exclusão de benefício incompatível
+   com o princípio da igualdade), bem como nas hipóteses em que a
+   sua aplicação pudesse trazer danos para o próprio sistema
+   jurídico constitucional (grave ameaça à segurança
+   jurídica).
+                Assim, configurado eventual conflito entre o
+   princípio da nulidade e o princípio da segurança jurídica, que,
+   entre nós, tem  status constitucional, a solução da questão há de
+   ser, igualmente, levada a efeito em um processo de complexa
+   ponderação.
+                Desse modo, em muitos casos, há de se preferir a
+   declaração de inconstitucionalidade com efeitos restritos à
+   insegurança jurídica de uma declaração de nulidade, como
+   demonstram os múltiplos exemplos do direito comparado e do nosso
+   direito.
+                A aceitação do princípio da nulidade da lei
+   inconstitucional não impede, porém, que se reconheça a
+   possibilidade de adoção, entre nós, de uma declaração de
+   inconstitucionalidade alternativa. É o que demonstra a
+   experiência do direito comparado, acima referida. Ao revés, a
+   adoção de uma decisão alternativa é inerente ao modelo de
+   controle de constitucionalidade amplo, que exige, ao lado da
+   tradicional decisão de perfil cassatório com eficácia retroativa,
+   também decisões de conteúdo outro, que não importem,
+   necessariamente, na eliminação direta e imediata da lei do
+   ordenamento jurídico.
+                Acentue-se, desde logo, que, no
+   direito brasileiro, jamais se aceitou a idéia de que a nulidade
+   da lei importaria na eventual nulidade de todos os atos que com
+   base nela viessem a ser praticados. Embora a ordem jurídica
+   brasileira não disponha de preceitos semelhantes aos constantes
+   do § 79 da Lei do Bundesverfassungsgericht, que prescreve a
+   intangibilidade dos atos não mais suscetíveis de impugnação, não
+   se deve supor que a declaração de nulidade afete, entre nós,
+   todos os atos praticados com fundamento na lei inconstitucional.
+   É verdade que o nosso ordenamento não contém regra expressa sobre
+   o assunto, aceitando-se, genericamente, a idéia de que o ato
+   fundado em lei inconstitucional está eivado, igualmente, de
+   iliceidade (Cf., a propósito, RMS 17.976, Rel. Min. Amaral
+   Santos, RTJ 55, p. 744). Concede-se, porém, proteção ao ato
+   singular, em homenagem ao princípio da segurança jurídica,
+   procedendo-se à diferenciação entre o efeito da decisão no plano
+   normativo (Normebene) e no plano do ato singular (Einzelaktebene)
+   mediante a utilização das chamadas fórmulas de preclusão (cf.
+   Ipsen, Jörn, Rechtsfolgen der Verfassungswidrigkeit von Norm und
+   Einzelakt, Baden-Baden, 1980, p. 266 e s. Ver, também, Mendes,
+   Gilmar, Jurisdição Constitucional, São Paulo, 1999, p.
+   271).
+                Assim, os atos praticados com base na lei
+   inconstitucional que não mais se afigurem suscetíveis de revisão
+   não são afetados pela declaração de
+   inconstitucionalidade.
+                Vislumbra-se uma exceção expressa a
+   esse entendimento na sentença condenatória penal, uma vez que
+   aqui inexiste prazo, fixado pela legislação ordinária, para a
+   propositura da revisão. Nos termos do art. 621 do Código de
+   Processo Penal, a revisão pode ser proposta a qualquer tempo se a
+   sentença condenatória for contrária a texto expresso da lei
+   penal. Esse fundamento abrange, inequivocamente, a sentença penal
+   condenatória proferida com base na lei inconstitucional (HC
+   45.232, Rel. Min. Themístocles Cavalcanti, RTJ 44, p. 322 e
+   s).
+                Essa constatação mostra também que a preservação dos
+   efeitos dos atos praticados com base na lei inconstitucional
+   passa por uma decisão do legislador ordinário. É ele quem define,
+   em última instância, a existência e os limites das fórmulas de
+   preclusão, fixando ipso jure os próprios limites da idéia de
+   retroatividade contemplada no princípio da nulidade.
+                Como
+   ressaltado, a jurisprudência do Supremo Tribunal Federal procede
+   à diferenciação entre o plano da norma (Normebene) e o plano do
+   ato concreto (Einzelaktebene) também para excluir a possibilidade
+   de anulação deste em virtude da inconstitucionalidade do ato
+   normativo que lhe dá respaldo.
+                Admite-se que uma das causas
+   que pode dar ensejo à instauração da ação rescisória no âmbito do
+   processo civil - violação a literal disposição de lei (art. 485,
+   V, do CPC) - contempla, também, a inconstitucionalidade de uma
+   lei na qual se fundou o juiz para proferir a decisão transitada
+   em julgado (RMS 17.976, Rel. Min. Amaral Santos, RTJ 55, p. 744 e
+   s.; RE 86.056, Rel. Min. Rodrigues Alckmin, DJ
+   01.07.77).
+                Todavia, a rescisão de sentença proferida com
+   base em uma lei considerada inconstitucional somente pode ser
+   instaurada dentro do prazo de dois anos, a contar do trânsito em
+   julgado da decisão (CPC, arts. 485 e 495).
+                No modelo
+   consagrado pelo § 79, (3), da Lei do Bundesverfassungsgericht,
+   admite-se a possibilidade de que a execução de sentença calcada
+   em lei inconstitucional seja impugnada mediante embargos à
+   execução (CPC alemão, § 767).
+                Inicialmente, a impugnação de
+   sentença trânsita em julgado, no sistema brasileiro, somente
+   haveria de se verificar por via de ação rescisória.
+                Em
+   julgado de 13 de setembro de 1968, explicitou-se essa
+   orientação:
+"A suspensão da vigência da lei por
+   inconstitucionalidade torna sem efeito todos os atos praticados
+   sob o império da lei inconstitucional. Contudo, a nulidade da
+   decisão judicial transitada em julgado só pode ser declarada por
+   via de ação rescisória, sendo impróprio o mandado de segurança
+   (...)"(RMS 17.076, Rel. Min. Amaral Santos, RTJ nº 55, p.
+   744).
+                Esse entendimento foi reiterado posteriormente,
+   enfatizando-se que a execução judicial de uma decisão transitada
+   em julgado não pode ser obstada com a oposição de embargos, uma
+   vez que a nulidade dessa decisão deve ser aferida do âmbito da
+   ação rescisória (RE 86.056, Rel. Min. Rodrigues Alckmin, DJ
+   01.01.77). Em acórdão mais recente, ressaltou-se que "a execução
+   (...) está amparada no respeito à coisa julgada, que se impõe ao
+   Juízo executante, e que impede que, sobre ela (e até que venha a
+   ser regularmente desconstituída a sentença que lhe deu margem),
+   tenha eficácia o acórdão posterior desta Corte" (RCL 148, Rel.
+   Min. Moreira Alves, RTJ 109, p. 463).
+                A Medida Provisória nº
+   2.180-35, de 24 de agosto de 2001, introduziu regra segundo a
+   qual, para os fins de execução judicial, "considera-se inexigível
+   o título judicial fundado em lei ou ato normativo declarados
+   inconstitucionais pelo Supremo Tribunal Federal ou em aplicação
+   ou interpretação tidas por incompatíveis com a Constituição
+   Federal". (art. 741, parágrafo único do CPC; art. 836, parágrafo
+   único, CLT).
+                Assim sendo, ressalvada a hipótese de uma
+   declaração de inconstitucionalidade com limitação de efeitos
+   (art. 27, Lei nº 9.868, de 1999), a declaração de
+   inconstitucionalidade (com eficácia ex tunc) em relação a
+   sentenças já transitadas em julgado poderá ser invocada,
+   eficazmente, tanto em ação rescisória, como nos embargos à
+   execução.
+                Às vezes, invoca-se diretamente fundamento de
+   segurança jurídica para impedir a repercussão da decisão de
+   inconstitucionalidade sobre as situações jurídicas
+   concretas.
+                Nessa linha tem-se asseverado a legitimidade dos
+   atos praticados por oficiais de justiça investidos na função
+   pública por força de lei posteriormente declarada
+   inconstitucional. No RE 79.620, da relatoria de Aliomar Baleeiro,
+   declarou-se ser "válida a penhora feita por agentes do
+   Executivo, sob as ordens dos juízes, nos termos da lei estadual
+   de São Paulo s/nº, de 3.12.71, mormente se nenhum prejuízo disso
+   adveio para o executado" (DJ 13.12.74; Cf., também, RE 78.809,
+   Rel. Min. Aliomar Baleeiro, DJ 11.10.74). Orientação semelhante
+   foi firmada no RE 78.594, da relatoria de Bilac Pinto,
+   assentando-se que, "apesar de proclamada a ilegalidade da
+   investidura do funcionário público na função de oficial de
+   justiça, em razão da declaração de inconstitucionalidade da lei
+   estadual que autorizou tal designação, o ato por ele praticado é
+   válido" (DJ 04.11.74).
+                Em outros termos, razões de segurança
+   jurídica podem obstar à revisão do ato praticado com base na lei
+   declarada inconstitucional.
+                Registre-se ainda, por amor à
+   completude, que a jurisprudência do STF contempla, ainda, uma
+   peculiaridade no que se refere aos efeitos da decisão que declara
+   a inconstitucionalidade da lei concessiva de vantagens a
+   segmentos do funcionalismo, especialmente aos magistrados.
+   Anteriormente já havia o STF afirmado que "a irredutibilidade dos
+   vencimentos dos magistrados garante, sobretudo, o direito que já
+   nasceu e que não pode ser suprimido sem que sejam diminuídas as
+   prerrogativas que suportam o seu cargo" (RE 105.789, Rel. Min.
+   Carlos Madeira, RTJ 118, p. 301).
+                Por essa razão, tal
+   garantia superaria o próprio efeito ex tunc da declaração de
+   inconstitucionalidade da norma (RE 105.789, Rel. Min. Carlos
+   Madeira, RTJ 118, p. 301). Decisão publicada em 08.04.1994,
+   também relativa à remuneração de magistrados, retrata
+   entendimento no sentido de que a "retribuição declarada
+   inconstitucional não é de ser devolvida no período de validade
+   inquestionada da lei declarada inconstitucional -- mas tampouco
+   paga após a declaração de inconstitucionalidade" (RE 122.202,
+   Rel. Min. Francisco Rezek, DJ 08.04.94).
+                Essa tentativa, um
+   tanto quanto heterodoxa, de preservar as vantagens pecuniárias já
+   pagas a servidores públicos, com base numa lei posteriormente
+   declarada inconstitucional, parece carecer de fundamentação
+   jurídica consistente em face da doutrina da nulidade da lei
+   inconstitucional. Ela demonstra, ademais, que o Tribunal, na
+   hipótese, acabou por produzir uma mitigação de efeitos com base
+   em artifícios quase que exclusivamente retóricos. Mais apropriado
+   seria reconhecer que, nos casos referidos, a retroatividade
+   plena haveria de ser afastada com fundamento no princípio da
+   segurança jurídica, que, como se sabe, também entre nós é dotado
+   de hierarquia constitucional.
+A limitação de efeitos após o
+   advento da Constituição de 1988
+                Não se afirme que, sob a
+   Constituição de 1988, o STF teria rejeitado a possibilidade de
+   adotar a técnica de decisão com efeitos limitados.
+                De forma
+   direta, a questão da limitação dos efeitos foi colocada perante o
+   STF, inicialmente na ADI 513, proposta contra dispositivo da Lei
+   nº 8.134, de 1990, que instituía índice de correção aplicável a
+   imposições tributárias anteriormente fixadas (art. 11, parágrafo
+   único). Célio Borja cuidou, fundamentalmente, de indagar acerca
+   da eventual ocorrência de "excepcional interesse social" que
+   legitimasse o afastamento do princípio da nulidade da lei
+   inconstitucional, verbis:
+"Alegação de só poder ter efeito ex
+   nunc a decisão que nulifica lei que instituiu ou aumentou tributo
+   auferido pelo tesouro e já aplicado em serviços ou obras
+   públicas. Sua inaplicabilidade à hipótese dos autos que não
+   cogita, exclusivamente, de tributo já integrado ao patrimônio
+   público, mas, de ingresso futuro a ser apurado na declaração
+   anual do contribuinte e recolhido posteriormente. Também não é
+   ela atinente a eventual restituição de imposto pago a maior,
+   porque está prevista em lei e terá seu valor reduzido pela
+   aplicação de coeficiente menos gravoso.
+Não existe ameaça
+   iminente à solvência do tesouro, à continuidade dos serviços
+   públicos ou a algum bem política ou socialmente relevante, que
+   justifique a supressão, in casu, do efeito próprio, no Brasil, do
+   juízo de inconstitucionalidade da norma, que é a sua nulidade. É
+   de repelir-se, portanto, a alegada ameaça de lacuna jurídica
+   ameaçadora (bedrohliche Rechtslucke)". (ADI 513, Rel. Min. Célio
+   Borja, RTJ 141, p. 739).
+                Nesses termos, ainda que Célio
+   Borja tenha, no caso concreto sob exame, negado a ocorrência dos
+   pressupostos aptos a afastar a incidência do princípio da
+   nulidade da lei inconstitucional, não negou ele a legitimidade de
+   proceder-se a uma tal ponderação.
+                É verdade, na ADI 1.102,
+   julgada em 5 de outubro de 1995, Maurício Corrêa tornou manifesta
+   sua preocupação com o problema:
+"Creio não constituir-se
+   afronta ao ordenamento constitucional exercer a Corte política
+   judicial de conveniência, se viesse a adotar sistemática, caso
+   por caso, para a aplicação de quais os efeitos que deveriam ser
+   impostos, quando, como nesta hipótese, defluísse situação tal a
+   recomendar, na salvaguarda dos superiores interesses do Estado e
+   em razão da calamidade dos cofres da Previdência Social, se
+   buscasse o dies a quo, para a eficácia dos efeitos da declaração
+   de inconstitucionalidade, a data do deferimento da
+   cautelar.
+(...)
+Ressalvada a minha posição pessoal quanto
+   aos efeitos para a eficácia da decisão que, em nome da
+   conveniência e da relevância da segurança social, seriam a partir
+   da concessão da cautelar deferida em 9 de setembro de 1994, e
+   acolhendo a manifestação do Procurador-Geral da República, julgo
+   procedentes as Ações Diretas de Inconstitucionalidade nos
+   1.102-2, 1.108-1 e 1.116-2, para, confirmando a liminar concedida
+   pela maioria, declarar a inconstitucionalidade das expressões
+   'empresários' e 'autônomos' contidas no inciso I do artigo 22 da
+   Lei no 8.212, de 25 de julho de 1991." (ADI 1.102, Rel. Min.
+   Maurício Corrêa, DJ 17.11.95)
+                É expressivo, a propósito da
+   limitação dos efeitos, o voto de Sepúlveda Pertence,
+   verbis:
+"De logo - a observação é de Garcia de Enterría - a
+   conseqüente eficácia ex tunc da pronúncia de
+   inconstitucionalidade gera, no cotidiano da Justiça
+   Constitucional, um sério inconveniente, que é o de levar os
+   tribunais competentes, até inconscientemente, a evitar o mais
+   possível a declaração de invalidade da norma, à vista dos efeitos
+   radicais sobre o passado.
+O caso presente, entretanto, não é
+   adequado para suscitar a discussão.
+O problema dramático da
+   eficácia ex tunc  da declaração de inconstitucionalidade surge,
+   quando ela vem surpreender uma lei cuja validade, pelo menos, era
+   'dada de barato', e de repente, passados tempos, vem a Suprema
+   Corte a declarar-lhe a invalidez de origem. Não é este o caso: a
+   incidência da contribuição social sobre a remuneração de
+   administradores, autônomos e avulsos vem sendo questionada desde
+   a vigência da Lei 7.787, e creio que, nas vias do controle
+   difuso, poucas terão sido as decisões favoráveis à Previdência
+   Social. (...)
+Sou em tese favorável a que, com todos os
+   temperamentos e contrafortes possíveis e para situações
+   absolutamente excepcionais, se permita  a ruptura do dogma da
+   nulidade ex radice da lei inconstitucional, facultando-se ao
+   Tribunal protrair o início da eficácia erga omnes da declaração.
+   Mas, como aqui já se advertiu, essa solução, se generalizada,
+   traz também o grande perigo de estimular a
+   inconstitucionalidade". (ADI 1.102, Rel. Min. Maurício Corrêa, DJ
+   17.11.95).
+                Entendeu-se, portanto, quando do julgamento da
+   ADI 1.102, que, embora aceitável em tese a discussão sobre a
+   restrição de efeitos, o caso não se mostrava adequado, tendo em
+   vista que modelo legal adotado vinha sendo sistematicamente
+   impugnado no Judiciário, inclusive no âmbito do próprio Supremo
+   Tribunal Federal.
+                Observe-se que, em decisão de 23 de março
+   de 1994, no julgamento do HC 70.514 (Rel. Sydney Sanches, DJ
+   27.06.97), teve o STF oportunidade de ampliar a já complexa
+   tessitura das técnicas de decisão no controle de
+   constitucionalidade, admitindo que lei que concedia prazo em
+   dobro para a Defensoria Pública era de ser considerada
+   constitucional enquanto esses órgãos não estivessem devidamente
+   habilitados ou estruturados.
+                Assim, o Relator, Sydney
+   Sanches, ressaltou que a inconstitucionalidade do § 5º do art. 5º
+   da Lei nº 1.060, de 5 de fevereiro de 1950, acrescentado pela
+   Lei nº 7.871, de 8 de novembro de 1989, não haveria de ser
+   reconhecida, no ponto em que confere prazo em dobro, para
+   recurso, às Defensorias Públicas, "ao menos até que sua
+   organização, nos Estados, alcance o nível da organização do
+   respectivo Ministério Público" (HC 70.514, Rel. Min. Sydney
+   Sanches, DJ 27.06.97).
+                Da mesma forma pronunciou-se Moreira
+   Alves, como se pode depreender da seguinte passagem de seu voto,
+   no julgamento do HC 70.514:
+"A única justificativa, Sr.
+   Presidente, que encontro para esse tratamento desigual em favor
+   da Defensoria Pública em face do Ministério Público é a de
+   caráter temporário: a circunstância de as Defensorias Públicas
+   ainda não estarem, por sua recente implantação, devidamente
+   aparelhadas como se acha o Ministério Público.
+Por isso, para
+   casos como este, parece-me deva adotar-se a construção da Corte
+   Constitucional alemã no sentido de considerar que uma lei, em
+   virtude das circunstâncias de fato, pode vir a ser
+   inconstitucional, não o sendo, porém, enquanto essas
+   circunstâncias de fato não se apresentarem com a intensidade
+   necessária para que se tornem inconstitucionais.
+Assim, a lei em
+   causa será constitucional enquanto a Defensoria Pública,
+   concretamente, não estiver organizada com a estrutura que lhe
+   possibilite atuar em posição de igualdade com o Ministério
+   Público, tornando-se inconstitucional, porém, quando essa
+   circunstância de fato não mais se verificar".
+                Afigura-se,
+   igualmente, relevante destacar o voto de Sepúlveda Pertence, que
+   assim feriu a questão no mesmo Habeas Corpus:
+"No Habeas
+   Corpus 67.930, quando o Tribunal afirmou a subsistência, sob a
+   Constituição de 88, da legitimação de qualquer do povo,
+   independentemente de qualificação profissional e capacidade
+   postulatória, para a impetração de habeas corpus, tive a
+   oportunidade de realçar essa situação de fato da Defensoria
+   Pública.
+E, por isso, ao acompanhar o eminente Relator acentuei
+   que, dada essa pobreza dos serviços da Assistência Judiciária, e
+   até que ela venha a ser superada, a afirmação da
+   indispensabilidade do advogado, para requerer habeas corpus, que
+   seria o ideal, viria, na verdade, a ser um entrave de fato, à
+   salvaguarda imediata da liberdade.
+Agora, em situação inversa,
+   também esse mesmo estado de fato me leva, na linha dos votos até
+   aqui proferidos, com exceção do voto do Ministro Marco Aurélio -
+   a quem peço vênia -, a acompanhar o eminente Relator e rejeitar a
+   prejudicial de inconstitucionalidade rebus sic
+   stantibus".
+                Ressalvou-se, portanto, de forma expressa, a
+   possibilidade de que o Tribunal pudesse vir a declarar a
+   inconstitucionalidade da disposição em apreço, uma vez que a
+   afirmação sobre a legitimidade da norma assentava-se em uma
+   circunstância de fato que se modifica no
+   tempo.
+                Posteriormente, em 19 de maio de 1998, no Recurso
+   Extraordinário Criminal nº 147.776, da relatoria de Sepúlveda
+   Pertence, o tema voltou a ser agitado de forma pertinente. A
+   ementa do acórdão revela, por si só, o significado da decisão
+   para atual evolução das técnicas de controle de
+   constitucionalidade:
+"Ministério Público: Legitimação para
+   promoção, no juízo cível, do ressarcimento do dano resultante de
+   crime, pobre o titular  do direito à reparação: C. Pr. Pen. art.
+   68, ainda constitucional (cf. RE 135.328): processo de
+   inconstitucionalização das leis.
+1. A alternativa radical da
+   jurisdição constitucional ortodoxa entre a constitucionalidade
+   plena e a declaração de inconstitucionalidade ou revogação por
+   inconstitucionalidade da lei com fulminante eficácia ex tunc faz
+   abstração da evidência de que a implementação de uma nova ordem
+   constitucional não é um fato instantâneo, mas um processo, no
+   qual a possibilidade de realização da norma da Constituição -
+   ainda quanto teoricamente não se cuide de preceito de eficácia
+   limitada - subordina-se muitas vezes a alterações da realidade
+   fáctica que a viabilizem.
+2. No contexto da Constituição de
+   1988, a atribuição anteriormente dada ao Ministério Público pelo
+   art. 68 C. Pr. Penal - constituindo modalidade de assistência
+   judiciária - deve reputar-se transferida para a Defensoria
+   Pública: essa, porém, para esse fim, só se pode considerar
+   existente, onde e quando organizada, de direito e de fato, nos
+   moldes do art. 134 da própria Constituição e da lei complementar
+   por ela ordenada: até que - na União ou em cada Estado
+   considerado -, se implemente essa condição de viabilização da
+   cogitada transferência constitucional de atribuições, o art. 68
+   C. Pr. Pen. será considerado ainda vigente: é o caso do Estado de
+   São Paulo, como decidiu o plenário no RE 135.328." (DJ
+   19.06.98)
+                Revela-se expressiva, para a análise do tema em
+   discussão nestes autos, a seguinte passagem do voto de
+   Pertence:
+"O caso mostra, com efeito, a inflexível estreiteza
+   da alternativa da jurisdição constitucional ortodoxa, com a qual
+   ainda jogamos no Brasil: consideramo-nos presos ao dilema entre a
+   constitucionalidade plena e definitiva da lei ou a declaração de
+   sua inconstitucionalidade com fulminante eficácia ex tunc; ou
+   ainda, na hipótese de lei ordinária pré-constitucional, entre o
+   reconhecimento da recepção incondicional e a da perda de vigência
+   desde a data da Constituição.
+Essas alternativas radicais -
+   além dos notórios inconvenientes que gera - faz abstração da
+   evidência de que a implementação de uma nova ordem constitucional
+   não é um fato instantâneo, mas um processo, no qual a
+   possibilidade da realização da norma da Constituição - ainda
+   quando teoricamente não se cuide de um preceito de eficácia
+   limitada -, subordina-se muitas vezes a alterações da realidade
+   fáctica que a viabilizem.
+É tipicamente o que sucede com as
+   normas constitucionais que transferem poderes e atribuições de
+   uma instituição preexistente para outra criada pela Constituição,
+   mas cuja implantação real pende não apenas de legislação
+   infraconstitucional, que lhe dê organização normativa, mas também
+   de fatos materiais que lhe possibilitem atuação efetiva.
+Isso o
+   que se passa com a Defensoria Pública, no âmbito da União e no
+   da maioria das Unidades da Federação.
+Certo, enquanto garantia
+   individual do pobre e correspondente dever do Poder Público, a
+   assistência judiciária alçou-se ao plano constitucional desde o
+   art. 141, § 35, da Constituição de 1946 e subsistiu nas cartas
+   subseqüentes (1967, art. 150, § 32; 1969, art. 153, § 32) e na
+   Constituição em vigor, sob a forma ampliada de 'assistência
+   jurídica integral' (art. 5.o, LXXIV).
+Entretanto, é inovação
+   substancial do texto de 1988 a imposição à União e aos Estados da
+   instituição da Defensoria Pública, organizada em carreira
+   própria, com membros dotados da garantia constitucional da
+   inamovibilidade e impedidos do exercício privado da advocacia.
+O
+   esboço constitucional da Defensoria Pública vem de ser
+   desenvolvido em cores fortes pela LC 80, de 12.1.94, que, em
+   cumprimento do art. 134 da Constituição, 'organiza a Defensoria
+   Pública da União, do Distrito Federal e dos Territórios e
+   prescreve normas gerais para sua organização nos Estados'. Do
+   diploma se infere a preocupação de assimilar, quanto possível, o
+   estatuto da Defensoria e o dos seus agentes aos do Ministério
+   Público: assim, a enumeração dos mesmos princípios institucionais
+   de unidade, indivisibilidade e independência funcional (art.
+   3.o); a nomeação a termo, por dois anos, permitida uma
+   recondução, do Defensor Público Geral da União (art. 6.o) e do
+   Distrito Federal (art. 54); a amplitude das garantias e
+   prerrogativas outorgadas aos Defensores Públicos, entre as quais,
+   de particular importância, a de 'requisitar de autoridade
+   pública e de seus agentes exames, certidões, perícias, vistorias,
+   diligências, processos, documentos, informações, esclarecimentos
+   e providências necessárias ao exercício de suas atribuições'
+   (arts. 43, X; 89, X e 128, X).
+A Defensoria Pública ganhou,
+   assim, da Constituição e da lei complementar, um equipamento
+   institucional incomparável - em termos de adequação às suas
+   funções típicas -, ao dos agentes de outros organismos públicos -
+   a exemplo da Procuradoria de diversos Estados -, aos quais se
+   vinha entregando individualmente, sem que constituíssem um corpo
+   com identidade própria, a atribuição atípica da prestação de
+   assistência judiciária aos necessitados.
+Ora, no direito
+   pré-constitucional, o art. 68 C. Pr. Pen.  - ao confiá-lo ao
+   Ministério Público -, erigiu em modalidade específica e
+   qualificada de assistência judiciária o patrocínio em juízo da
+   pretensão reparatória do lesado pelo crime.
+Estou em que, no
+   contexto da Constituição de 1988, essa atribuição deva
+   efetivamente reputar-se transferida do Ministério Público para a
+   Defensoria Pública: essa, porém, para esse fim, só se pode
+   considerar existente, onde e quando organizada, de direito e de
+   fato, nos moldes do art. 134 da própria Constituição e da lei
+   complementar por ela ordenada: até que - na União ou em cada
+   Estado considerado -, se implemente essa condição de viabilização
+   da cogitada transferência constitucional de atribuições, o art.
+   68 C. Pr. Pen. será considerado ainda vigente.
+O caso concreto é
+   de São Paulo, onde, notoriamente, não existe Defensoria Pública,
+   persistindo a assistência jurídica como tarefa atípica de
+   Procuradores do Estado.
+O acórdão - ainda não publicado - acabou
+   por ser tomado nesse sentido por unanimidade, na sessão plenária
+   de 1.6.94, com a reconsideração dos votos antes proferidos em
+   contrário.
+Ora, é notório, no Estado de São Paulo a situação
+   permanece a mesma considerada no precedente: à falta de
+   Defensoria Pública instituída e implementada segundo os moldes da
+   Constituição, a assistência judiciária continua a ser prestada
+   pela Procuradoria-Geral do Estado ou, na sua falta, por
+   advogado".
+                Fica evidente, pois, que o STF deu um passo
+   significativo rumo à flexibilização das técnicas de decisão no
+   juízo de controle de constitucionalidade, introduzindo, ao lado
+   da fórmula apodítica da declaração de inconstitucionalidade com
+   equivalência de nulidade, o reconhecimento de um estado
+   imperfeito, insuficiente para justificar a declaração de
+   ilegitimidade da lei ou bastante para justificar a sua aplicação
+   provisória. Expressiva nesse sentido é a observação de Pertence,
+   ao destacar que "o caso mostra, com efeito, a inflexível
+   estreiteza da alternativa da jurisdição constitucional ortodoxa,
+   com a qual ainda jogamos no Brasil: consideramo-nos presos ao
+   dilema entre a constitucionalidade plena e definitiva da lei ou a
+   declaração de sua inconstitucionalidade com fulminante eficácia
+   ex tunc; ou ainda, na hipótese de lei ordinária
+   pré-constitucional, entre o reconhecimento da recepção
+   incondicional e a da perda de vigência desde a data da
+   Constituição." Daí observar, ainda, os reflexos dessa orientação
+   no plano da segurança jurídica, ao enfatizar que essas
+   "alternativas radicais - além dos notórios inconvenientes que
+   gera - faz abstração da evidência de que a implementação de uma
+   nova ordem constitucional não é um fato instantâneo, mas um
+   processo, no qual a possibilidade da realização da norma da
+   Constituição - ainda quando teoricamente não se cuide de um
+   preceito de eficácia limitada -, subordina-se muitas vezes a
+   alterações da realidade fáctica que a viabilizem" (RECrim
+   147.776, Rel. Min. Sepúlveda Pertence, DJ 19.06.98).
+                É
+   inegável que a opção desenvolvida pelo STF inspira-se diretamente
+   no uso que a Corte Constitucional alemã faz do "apelo ao
+   legislador", especialmente nas situações imperfeitas ou no
+   "processo de inconstitucionalização". Nessas hipóteses,
+   avalia-se, igualmente, que, tendo em vista razões de segurança
+   jurídica, a supressão da norma poderá ser mais danosa para o
+   sistema do que a sua preservação temporária.
+                Não há negar,
+   ademais, que aceita a idéia da situação "ainda constitucional",
+   deverá o Tribunal, se tiver que declarar a inconstitucionalidade
+   da norma, em outro momento, fazê-lo com eficácia restritiva ou
+   limitada. Em outros termos,  o "apelo ao legislador" e a
+   declaração de inconstitucionalidade com efeitos limitados ou
+   restritos estão  muito próximos do prisma conceitual ou
+   ontológico.
+                Essas considerações demonstram que razões de
+   segurança jurídica podem revelar-se aptas a justificar a
+   não-aplicação do princípio da nulidade da lei
+   inconstitucional.
+                Nesses termos, resta evidente que a norma
+   contida no art. 27 da Lei 9.868, de 1999, tem caráter
+   fundamentalmente interpretativo, desde que se entenda que os
+   conceitos jurídicos indeterminados utilizados - segurança
+   jurídica e excepcional interesse social - se revestem de base
+   constitucional. No que diz respeito à segurança jurídica, parece
+   não haver dúvida de que encontra expressão no próprio princípio
+   do Estado de Direito consoante, amplamente aceito pela doutrina
+   pátria e alienígena. Excepcional interesse social pode encontrar
+   fundamento em diversas normas constitucionais. O que importa
+   assinalar é que, consoante a interpretação aqui preconizada, o
+   princípio da nulidade somente há de ser afastado se se puder
+   demonstrar, com base numa ponderação concreta, que a declaração
+   de inconstitucionalidade ortodoxa envolveria o sacrifício da
+   segurança jurídica ou de outro valor constitucional
+   materializável sob a forma de interesse social (Cf., a propósito
+   do direito português, Medeiros, A Decisão de
+   Inconstitucionalidade, cit., p. 716).
+                Observe-se que sequer
+   o argumento de que a existência de uma decisão alternativa
+   acabaria por debilitar a aplicação da norma constitucional há de
+   ter acolhida aqui. Como observa Garcia de Enterría, se não se
+   aceita o pronunciamento prospectivo, não se declara a
+   inconstitucionalidade de um número elevado de leis, permitindo
+   que se crie um estado de greater restraint (Cf., Garcia de
+   Enterría, Justicia Constitucional, cit., p. 13). Tudo indica,
+   pois, que é a ausência de uma técnica alternativa à simples
+   declaração de nulidade que pode enfraquecer a aplicação da norma
+   constitucional.
+                Portanto, o princípio da nulidade continua a
+   ser a regra também no direito brasileiro. O afastamento de sua
+   incidência dependerá de um severo juízo de ponderação que, tendo
+   em vista análise fundada no princípio da proporcionalidade, faça
+   prevalecer a idéia de segurança jurídica ou outro princípio
+   constitucionalmente relevante manifestado sob a forma de
+   interesse social relevante. Assim, aqui, como no direito
+   português, a não-aplicação do princípio da nulidade não se há de
+   basear em consideração de política judiciária, mas em fundamento
+   constitucional próprio.
+O caso concreto
+                No caso em
+   tela, o Superior Tribunal de Justiça, ao apreciar o AgRg na
+   Medida Cautelar 5.982/SP, Eliana Calmon, DJ 04.08.03, 2ª T,
+   concedeu a liminar e deu efeito suspensivo ao recurso especial,
+   até seu julgamento final, "para que, suspensos novos contratos,
+   acordos, parcerias ou compromissos, seja evitada solução de
+   continuidade às relações jurídicas e realizações imobiliárias já
+   firmadas".
+                A relatora fundamentou o seu voto na
+   circunstância de que "a abrupta paralisação das obras e o
+   descumprimento das obrigações assumidas gerarão prejuízo de
+   grande monta para a municipalidade, além de ensejar o abandono do
+   que já foi iniciado sem retorno possível ao satatus quo ante".
+   Também, em voto-vista, Franciulli Netto assentou que "no
+   particular, após ultrapassados quase 6 (seis) anos desde o
+   advento da lei, é de bom conselho ressaltar que os efeitos
+   imediatos da inconstitucionalidade trarão um prejuízo de difícil
+   reparação para a Administração, tendo em vista os contratos já
+   firmados e que estão com sua execução em andamento".
+                Apenas
+   para informação, trago notícia sobre o recurso especial, que,
+   desde 05.11.03, se encontra com vistas para a Procuradoria-Geral
+   da República, conforme informação obtida na página
+   www.stj.gov.br, em consulta realizada aos 26.02.04.
+                Observa,
+   pois, que eventual declaração de inconstitucionalidade com
+   efeito ex tunc ocasionaria repercussões em todo o sistema
+   vigente.
+                Anoto que, a despeito do caráter de cláusula geral
+   ou conceito jurídico indeterminado que marca o art. 282 (4), da
+   Constituição portuguesa, a doutrina e jurisprudência entendem que
+   a margem de escolha conferida ao Tribunal para a fixação dos
+   efeitos da decisão de inconstitucionalidade não legitima a adoção
+   de decisões arbitrárias, estando condicionada pelo princípio de
+   proporcionalidade.
+                A propósito, Rui Medeiros assinala que as
+   três vertentes do princípio da proporcionalidade têm aplicação
+   na espécie (adequação, necessidade e proporcionalidade em sentido
+   estrito).
+                Peculiar relevo assume a proporcionalidade em
+   sentido estrito na visão de Rui Medeiros:
+"A proporcionalidade
+   nesta terceira vertente tanto pode ser perspectivada pelo lado
+   da limitação de efeitos como pelo lado da declaração de
+   inconstitucionalidade. Tudo se reconduz, neste segundo caso, a
+   saber se à luz do princípio da proporcionalidade as conseqüências
+   gerais da declaração de inconstitucionalidade são ou não
+   excessivas. Impõe-se, para o efeito, ponderação dos diferentes
+   interesses em jogo, e, concretamente, o confronto entre
+   interesses afectado pela lei inconstitucional e aqueles que
+   hipoteticamente seriam sacrificados em conseqüência da declaração
+   de inconstitucionalidade com eficácia retroactiva e
+   repristinatória.
+Todavia, ainda quanto a esta terceira vertente
+   do princípio da proporcionalidade, não é constitucionalmente
+   indiferente perspectivar o problema das conseqüências  da
+   declaração de inconstitucionalidade do lado da limitação de
+   efeitos ou do lado da própria declaração de
+   inconstitucionalidade. A declaração de inconstitucionalidade com
+   eficácia ex tunc tem, manifestamente prioridade de aplicação.
+   Todo o sistema de fiscalização de constitucionalidade português
+   está orientado para a expurgação de normas inconstitucionais. É,
+   aliás, significativa a recusa de atribuição de força obrigatória
+   geral às decisões de não inconstitucionalidade. Não basta, pois,
+   afirmar que "o Tribunal Constitucional deve fazer um juízo de
+   proporcionalidade, cotejando o interesse na reafirmação da ordem
+   jurídica -- que a eficácia ex tunc da declaração plenamente
+   potencia - com o interesse na eliminação do factor de incerteza e
+   de insegurança - que a retroactividade, em princípio, acarreta
+   (Acórdão do Tribunal Constitucional nº 308/93)". É preciso
+   acrescentar que o Tribunal Constitucional deve declarar a
+   inconstitucionalidade com força obrigatória  geral e eficácia
+   retroactiva e repristinatória, a menos que uma tal solução
+   envolva o sacrifício excessivo da segurança jurídica, da eqüidade
+   ou de interesse público de excepcional relevo" (Medeiros, A
+   Decisão de Inconstitucionalidade, cit., p. 703/704).
+                Na
+   espécie, não parece haver dúvida de que o deferimento do efeito
+   suspensivo justifica-se plenamente. A aplicação da decisão
+   impugnada poderá criar quadro de grave insegurança jurídica. É
+   certo, ademais, que, mantida a declaração de
+   inconstitucionalidade, afigura-se plausível pedido manifestado no
+   sentido de sua prolação com eficácia "ex nunc". Concedo,
+   portanto, o efeito suspensivo ao recurso extraordinário, ad
+   referendum do Pleno, até o final julgamento da
+   questão.
+                Oficie-se. Publique-se.
+                Brasília, 6 de abril
+   de 2004.
+Ministro GILMAR MENDES
+Relator
