@@ -1,0 +1,2 @@
+Art. 22 - O valor do investimento na data do balanço (art. 20, I), depois de registrada a correção monetária do exercício (art. 39), deverá ser ajustado ao valor de patrimônio líquido determinado de acordo com o disposto no artigo 21, mediante lançamento da diferença a débito ou a crédito da conta de investimento.
+Parágrafo único - Os lucros ou dividendos distribuídos pela coligada ou controlada deverão ser registrados pelo contribuinte como diminuição do valor de patrimônio líquido do investimento, e não influenciarão as contas de resultado.

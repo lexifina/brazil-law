@@ -1,0 +1,16 @@
+Art. 63 - Os aumentos de capital das pessoas jurídicas mediante incorporação de lucros ou reservas não sofrerão tributação do imposto sobre a renda.
+§ 1º - Podem ser capitalizados nos termos deste artigo os lucros apurados em balanço, ainda que não tenham sido submetidos à tributação.
+§ 2º - A não incidência estabelecida neste artigo se estende aos sócios, pessoas físicas ou jurídicas, beneficiárias de ações, quotas ou quinhões resultantes do aumento do capital social, e ao titular da firma ou empresa individual.
+§ 3º - O disposto no § 2º não se aplica se a pessoa jurídica, nos 5 anos anteriores à data da incorporação de lucros ou reservas ao capital, restituir capital aos sócios ou ao titular, mediante redução do capital social; neste caso o montante dos lucros ou reservas capitalizados será considerado, até a montante da redução do capital, corrigido monetariamente com base no valor nominal da ORTN, como lucro ou dividendo distribuído, sujeito, na forma da legislação em vigor, à tributação na fonte ou na declaração de rendimentos, como rendimento dos sócios ou do titular da pessoa jurídica.
+§ 4º - Se a pessoa jurídica, dentro dos 5 anos subseqüentes à data da incorporação de lucros ou reservas, restituir capital social aos sócios ou ao titular, mediante redução do capital social ou, em caso de liquidação, sob a forma de partilha do acervo líquido, o capital restituído considerar-se-á lucro ou dividendo distribuído, sujeito, nos termos da legislação em vigor, à tributação na fonte ou na declaração de rendimentos, como rendimento dos sócios, acionistas ou do titular.
+§ 5º - O disposto no parágrafo anterior não se aplica nos casos de:
+a) aumento do capital social mediante incorporação de reserva de capital formada com ágio na emissão de ações, com o produto da alienação de partes beneficiárias ou bônus de subscrição, ou com correção monetária do capital, do ativo imobilizado ou do capital de giro próprio;
+b) de redução de capital em virtude de devolução aos herdeiros da parte de sócio falecido, nas sociedades de pessoas;
+c) de rateio do acervo líquido da pessoa jurídica dissolvida, se o aumento de capital tiver sido realizado com a incorporação de ações ou quotas bonificadas por sociedade de que era sócia ou acionista;
+d) de reembolso de ações, em virtude de exercício, pelo acionista, de direito de retirada assegurado pela Lei nº 6.404, de 15 de dezembro de 1976.
+§ 6º - O disposto nos §§ 4º e 5º não se aplica às sociedades de investimento isentas de imposto.
+§ 7º - A sociedade incorporadora e a resultante da fusão sucedem as incorporadas ou fundidas, sem interrupção de prazo, na restrição de que trata o § 3º.
+§ 8º - As sociedades constituídas por cisão de outra, e a sociedade que absorve parcela de patrimônio da sociedade cindida sucedem a esta, sem interrupção de prazo, na restrição de que trata o § 3º.
+§ 9º - Nos casos dos §§ 7º e 8º, a restrição se aplica ao montante dos lucros ou reservas capitalizados proporcional à contribuição:
+a) da sociedade incorporada ou fundida para o capital social da incorporada ou resultante da fusão; ou
+b) de parcela do patrimônio líquido da sociedade cindida para a capital social da sociedade que absorveu essa parcela.

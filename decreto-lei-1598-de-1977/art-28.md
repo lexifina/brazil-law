@@ -1,0 +1,4 @@
+Art. 28 - Se a venda for contratada antes de completado o empreendimento, o contribuinte poderá computar no custo do imóvel vendido, além dos custos pagos, incorridos ou contratados, os orçados para a conclusão das obras ou melhoramentos que estiver contratualmente obrigado a realizar.
+§ 1º - O custo orçado será baseado nos custos usuais no tipo de empreendimento imobiliário.
+§ 2º - Se a execução das obras ou melhoramentos a que se obrigou o contribuinte se estender além do período-base da venda e o custo efetivamente realizado for inferior, em mais de 15%, ao custo orçado computado na determinação do lucro bruto, o contribuinte ficará obrigado a pagar correção monetária e juros de mora sobre o valor do imposto postergado pela dedução de custo orçado excedente do realizado.
+§ 3º - A correção e os juros de mora de que trata o § 2º deverão ser pagos juntamente com o imposto anual incidente no período-base em que tiver terminado a execução das obras ou melhoramentos.
