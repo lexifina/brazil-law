@@ -1,0 +1,1 @@
+Art. 5º-A. São criados, no Quadro Permanente de Pessoal da Defensoria Pública da União, setenta cargos de Defensor Público da União de 2ª Categoria, a serem providos mediante aprovação prévia em consurso público de provas e títulos, realizado nos termos dos arts. 24 a 27 da Lei Complementar nº 80, de 12 de janeiro de 1994. (Artigo
