@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº 20, DE 22 DE JULHO DE 1997
+Estende o uso da área da Entrequadra 11/15 do Setor Oeste do Gama, Região Administrativa II, e dá outras providências.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
