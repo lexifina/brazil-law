@@ -1,0 +1,2 @@
+Art. 16. A busca e apreensão do bem alienado fiduciariamente, promovida pelo credor, não elide posterior execução, inclusive da hipoteca e do penhor constituído na mesma cédula, para satisfação do crédito remanescente.
+Parágrafo único. No caso a que se refere o presente artigo, o credor tem direito ao desentranhamento do título, após efetuada a busca e apreensão, para instruir a cobrança do saldo devedor em ação própria.
