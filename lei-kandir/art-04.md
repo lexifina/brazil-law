@@ -4,4 +4,4 @@ Parágrafo único. É também contribuinte a pessoa física ou jurídica que, me
 I - importe mercadorias do exterior, ainda que as destine a consumo ou ao ativo permanente do estabelecimento;
 II - seja destinatária de serviço prestado no exterior ou cuja prestação se tenha iniciado no exterior;
 III - adquira em licitação de mercadorias apreendidas ou abandonadas;
-IV - adquira lubrificantes e combustíveis líquidos e gasosos derivados de petróleo oriundos de outro Estado, quando não destinados à comercialização.
+IV - adquira lubrificantes e combustíveis líquidos e gasosos derivados de petróleo e energia elétrica oriundos de outro Estado, quando não destinados à comercialização ou à industrialização.
