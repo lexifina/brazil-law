@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF08 nº 190, de 20 de agosto de 2002
+Assunto: Outros Tributos ou Contribuições Ementa: CIDE. ÁLCOOL COMBUSTÍVEL. INCIDÊNCIA. VENDAS ATRAVÉS DE COOPERATIVA. Ocorre o fato gerador da Cide instituída pela Lei nº 10.336, de 2001, nas vendas de álcool combustível efetuadas pelos produtores através de suas cooperativas de vendas em comum. São contribuintes da Cide nessas operações, haja vista o que estabelece o art. 2º da referida lei, os produtores do álcool e não a cooperativa mediante a qual se dá a comercialização do produto. Dispositivos Legais: Lei nº 2001, de 1996, arts. 2º, 3º e 8º; Lei nº 5.764, de 1971, arts. 79, 82 e 83.
+[arquivo anexo: SC SRRF08-Disit nº 190-2002.pdf]
