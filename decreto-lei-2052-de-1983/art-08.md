@@ -1,0 +1,1 @@
+Art. 8º - As infrações à legislação relativa às contribuições a que se refere este Decreto-lei serão apuradas mediante processo administrativo, que terá por base o auto, quando decorrer do serviço de fiscalização, ou a representação, quando decorrer do serviço interno das repartições do Banco do Brasil S.A. e da Caixa Econômica Federal.

@@ -1,0 +1,5 @@
+Art. 16 - O Poder Executivo, através do Ministro da Fazenda, poderá expedir instruções para execução do presente Decreto-lei, inclusive referentes a:
+I - prazos de apresentação, forma e conteúdo de declaração do contribuinte e prestação de informações adicionais no interesse da Administração;
+II - prazos e forma de recolhimento das contribuições e seus acréscimos;
+III - processo administrativo e de consulta;
+IV - procedimentos de anistia, remissão e parcelamento de débitos.

@@ -1,0 +1,1 @@
+Art. 15 - São participantes contribuintes do PIS as pessoas jurídicas de direito privado, bem como as que lhes são equiparadas pela legislação do imposto sobre a renda e as definidas como empregadoras pela legislação trabalhista, inclusive entidades de fins não lucrativos e condomínios em edificações, não compreendidas em quaisquer dos itens do art. 14 anterior.

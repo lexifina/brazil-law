@@ -1,0 +1,1 @@
+Art. 4º - Nos casos de declaração inexata ou omissão no dever de declarar, aplicar-se-á multa de cinqüenta por cento sobre a valor originário da contribuição devida, excluída, nesse caso, a multa de mora de que trata o item III do art. 1º.
