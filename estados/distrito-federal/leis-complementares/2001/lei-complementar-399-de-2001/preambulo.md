@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 399, DE 26 DE SETEMBRO DE 2001
+(Autoria do Projeto: Poder Executivo)
+Desafeta áreas que especifica na Região Administrativa do Plano Piloto - RA I.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
