@@ -1,0 +1,1 @@
+Art. 20. Os serviços privados de assistência à saúde caracterizam-se pela atuação, por iniciativa própria, de profissionais liberais, legalmente habilitados, e de pessoas jurídicas de direito privado na promoção, proteção e recuperação da saúde.
