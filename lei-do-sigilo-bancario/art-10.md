@@ -1,0 +1,2 @@
+Art. 10. A quebra de sigilo, fora das hipóteses autorizadas nesta Lei Complementar, constitui crime e sujeita os responsáveis à pena de reclusão, de um a quatro anos, e multa, aplicando-se, no que couber, o Código Penal, sem prejuízo de outras sanções cabíveis.
+Parágrafo único. Incorre nas mesmas penas quem omitir, retardar injustificadamente ou prestar falsamente as informações requeridas nos termos desta Lei Complementar.
