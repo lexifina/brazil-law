@@ -96,8 +96,6 @@ Idades
 56 anos
 56 anos
 Idades
-Idades
-Suboficial
 SEÇÃO III
 Da Reforma
 SEÇÃO IV
