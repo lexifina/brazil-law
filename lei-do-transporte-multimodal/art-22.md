@@ -1,0 +1,1 @@
+Art. 22. As ações judiciais oriundas do não cumprimento das responsabilidades decorrentes do transporte multimodal deverão ser intentadas no prazo máximo de um ano, contado da data da entrega da mercadoria no ponto de destino ou, caso isso não ocorra, do nonagésimo dia após o prazo previsto para a referida entrega, sob pena de prescrição.
