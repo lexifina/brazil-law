@@ -1,0 +1,19 @@
+# Decreto-Lei nº 6.307, de 02/03/1944
+
+DECRETO-LEI NDECRETO-LEI Nusuariousuario5142002-02-21T01:20:00Z2002-02-22T11:30:00Z1000000.0000
+
+DECRETO-LEI N. 6.307 – DE 2 DE MARÇO DE 1944
+
+Suspende, até 31 de dezembro de 1945, a execução do Decreto-lei n. 5.121, de 21 de dezembro de 1942
+
+O Presidente da República, usando da atribuição que lhe confere o artigo 180 da Constituição,
+
+decreta:
+
+Artigo único. Fica suspensa, até 31 de dezembro de 1945, a execução do Decreto-lei n. 5.121, de 21 de dezembro de 1942, que dispõe sôbre a recria e engorda de animais de corte.
+
+Rio de Janeiro, 2 de março de 1944, 123º da Independência e 56º da República.
+
+GETuLIO VARGAS.
+
+Apolonio Sales.
