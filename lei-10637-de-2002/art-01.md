@@ -9,3 +9,4 @@ IV - de venda dos produtos de que tratam as Leis nº 9.990, de 21 de julho de 20
 V - referentes a:
 a) vendas canceladas e aos descontos incondicionais concedidos;
 b) reversões de provisões e recuperações de créditos baixados como perda, que não representem ingresso de novas receitas, o resultado positivo da avaliação de investimentos pelo valor do patrimônio líquido e os lucros e dividendos derivados de investimentos avaliados pelo custo de aquisição, que tenham sido computados como receita.
+VI - não operacionais, decorrentes da venda de ativo imobilizado.
