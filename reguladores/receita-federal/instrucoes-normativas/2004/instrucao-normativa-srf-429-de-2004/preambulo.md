@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 429, de 21 de junho de 2004
+Altera a Instrução Normativa SRF Nº 296, de 6 de fevereiro de 2003, que dispõe sobre o regime de suspensão do Imposto sobre Produtos Industrializados, nos casos que menciona.
+O SECRETARIO DA RECEITA FEDERAL, no uso das atribuições que lhe conferem o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 5º da Lei nº 9.826, de 23 de agosto de 1999, com a redação dada pelo art. 33 da Lei nº 10.865, de 30 de abril de 2004, resolve:
