@@ -1,0 +1,4 @@
+Art. 62. Ficam declaradas a nulidade e a extinção dos efeitos jurídicos dos atos de qualquer natureza que tenham por objeto o domínio, a posse ou a ocupação das terras habitadas pelos índios ou comunidades indígenas.
+§ 1º Aplica-se o disposto deste artigo às terras que tenham sido desocupadas pelos índios ou comunidades indígenas em virtude de ato ilegítimo de autoridade e particular.
+§ 2º Ninguém terá direito a ação ou indenização contra a União, o órgão de assistência ao índio ou os silvícolas em virtude da nulidade e extinção de que trata este artigo, ou de suas conseqüências econômicas.
+§ 3º Em caráter excepcional e a juízo exclusivo do dirigente do órgão de assistência ao índio, será permitida a continuação, por prazo razoável dos efeitos dos contratos de arrendamento em vigor na data desta Lei, desde que a sua extinção acarrete graves conseqüências sociais.
