@@ -1,0 +1,4 @@
+Instrução CVM nº 308, de 1999
+Dispõe sobre o registro e o exercício da atividade de auditoria independente no âmbito do mercado de valores mobiliários, define os deveres e as responsabilidades dos administradores das entidades auditadas no relacionamento com os auditores independentes, e revoga as Instruções CVM nos 216, de 29 de junho de 1994, e 275, de 12 de março de 1998.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada nesta data, tendo em vista o disposto nos arts. 1º, inciso V, 22, parágrafo único, inciso IV e 26, §§ 1º e 2º, da Lei nº 6.385, de 7 de dezembro de 1976, e tendo em vista o disposto no art. 177, § 3o, da Lei nº 6.404, de 15 de dezembro de 1976, RESOLVEU baixar a seguinte Instrução:
+DO REGISTRO, SUAS CATEGORIAS E CONDIÇÕES
