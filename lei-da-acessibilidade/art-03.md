@@ -1,0 +1,1 @@
+Art. 3º O planejamento e a urbanização das vias públicas, dos parques e dos demais espaços de uso público deverão ser concebidos e executados de forma a torná-los acessíveis para as pessoas portadoras de deficiência ou com mobilidade reduzida.

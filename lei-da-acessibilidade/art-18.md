@@ -1,0 +1,1 @@
+Art. 18. O Poder Público implementará a formação de profissionais intérpretes de escrita em braile, linguagem de sinais e de guias-intérpretes, para facilitar qualquer tipo de comunicação direta à pessoa portadora de deficiência sensorial e com dificuldade de comunicação.

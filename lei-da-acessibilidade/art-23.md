@@ -1,0 +1,2 @@
+Art. 23. A Administração Pública federal direta e indireta destinará, anualmente, dotação orçamentária para as adaptações, eliminações e supressões de barreiras arquitetônicas existentes nos edifícios de uso público de sua propriedade e naqueles que estejam sob sua administração ou uso.
+Parágrafo único. A implementação das adaptações, eliminações e supressões de barreiras arquitetônicas referidas no caput deste artigo deverá ser iniciada a partir do primeiro ano de vigência desta Lei.

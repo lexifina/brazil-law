@@ -1,0 +1,1 @@
+Art. 8º Os sinais de tráfego, semáforos, postes de iluminação ou quaisquer outros elementos verticais de sinalização que devam ser instalados em itinerário ou espaço de acesso para pedestres deverão ser dispostos de forma a não dificultar ou impedir a circulação, e de modo que possam ser utilizados com a máxima comodidade.
