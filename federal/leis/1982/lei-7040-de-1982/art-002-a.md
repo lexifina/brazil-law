@@ -1,0 +1,1 @@
+Art. 2º - A atual Auditoria de Correição passa a ser denominada Corregedoria-Geral da Justiça Militar, constituída do Ministro Corregedor-Geral, de um Diretor de Secretaria e demais auxiliares constantes do quadro previsto em Lei para a Auditoria ora extinta, com a transferência de todo o acervo desta para o órgão mencionado neste artigo.
