@@ -1,0 +1,4 @@
+Instrução CVM nº 309, de 1999
+INSTRUÇÃO CVM NO 309, DE 10 DE JUNHO DE 1999.
+Altera os arts. 5o, 6o, 7o, incisos I e II, da Instrução CVM no 202, de 6 de dezembro de 1993, e art. 18 da mesma Instrução, com a redação que lhe foi dada pelo art. 1o da Instrução CVM no 274, de 12 de março de 1998.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada nesta data, com fundamento no disposto no art. 9o da Lei no 6.385, de 7 de dezembro de 1976, com a redação dada pelo art. 2o da Medida Provisória no 1.742-18, de 2 de junho de 1999; nos arts. 21 e 22, parágrafo único, da Lei no 6.385, de 7 de dezembro de 1976, com a redação que lhes foi dada pelo art. 2o da Lei no 9.457, de 5 de maio de 1997; no Voto do Conselho Monetário Nacional no 426, de 21 de dezembro de 1978, e na Resolução do Conselho Monetário Nacional no 1.657, de 26 de outubro de 1989, item II, RESOLVEU baixar a seguinte Instrução:
