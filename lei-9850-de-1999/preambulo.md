@@ -1,0 +1,2 @@
+Dispõe sobre o número de cargos de Natureza Especial, de cargos do Grupo-Direção e Assessoramento Superiores e de Funções de Confiança existentes nos órgãos da Administração Pública Federal direta, autárquica e fundacional, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.899-53, de 1999, que o Congresso Nacional aprovou, e eu, Antonio Carlos Magalhães, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
