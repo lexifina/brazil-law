@@ -1,0 +1,9 @@
+Art. 37. Relativamente aos investimentos existentes em 31 de outubro de 2003, fica facultado ao investidor estrangeiro antecipar o pagamento da Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - CPMF, que seria devida por ocasião da remessa, para o exterior, de recursos financeiros apurados na liquidação de operações com ações ou opções de ações adquiridas em bolsa de valores ou em mercado de balcão organizado.
+§ 1º A antecipação do pagamento da CPMF aplica-se a recursos financeiros não empregados exclusivamente, e por todo tempo de permanência no País, em ações ou contratos referenciados em ações ou índices de ações, negociados nos mercados referidos no caput ou em bolsa de mercadorias e de futuros, desde que na data do pagamento da contribuição estejam investidos nesses valores mobiliários.
+§ 2º A CPMF de que trata este artigo:
+I - será apurada mediante lançamento a débito, precedido de lançamento a crédito no mesmo valor, em conta corrente de depósito do investidor estrangeiro;
+II - terá como base de cálculo o valor correspondente à multiplicação da quantidade de ações ou de opções:
+a) pelo preço médio ponderado da ação verificado na Bolsa de Valores de São Paulo ou em mercado de balcão organizado, no mês anterior ao do pagamento;
+b) pelo preço médio da opção verificado na Bolsa referida na alínea a, no mês anterior ao do pagamento da CPMF;
+III - será retida pela instituição financeira onde é mantida a conta corrente de que trata o inciso I até o dia 1º de dezembro de 2003, e recolhida até o 3º (terceiro) dia útil da semana subseqüente à da retenção.
+§ 3º O pagamento da CPMF, nos termos previstos neste artigo, dispensa nova incidência da contribuição quando da remessa para o exterior dos recursos apurados na efetiva liquidação das operações.

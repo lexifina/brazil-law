@@ -1,0 +1,15 @@
+Art. 79. Os arts. 7º e 8º da Lei nº 9.019, de 30 de março de 1995, passam a vigorar com a seguinte redação:
+"Art. 7º.
+§ 2º Os direitos antidumping e os direitos compensatórios são devidos na data do registro da declaração de importação.
+§ 3º A falta de recolhimento de direitos antidumping ou de direitos compensatórios na data prevista no § 2º acarretará, sobre o valor não recolhido:
+I - no caso de pagamento espontâneo, após o desembaraço aduaneiro:
+a) a incidência de multa de mora, calculada à taxa de 0,33% (trinta e três centésimos por cento), por dia de atraso, a partir do 1º (primeiro) dia subseqüente ao do registro da declaração de importação até o dia em que ocorrer o seu pagamento, limitada a 20% (vinte por cento); e
+b) a incidência de juros de mora calculados à taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, para títulos federais, acumulada mensalmente, a partir do 1º (primeiro) dia do mês subseqüente ao do registro da declaração de importação até o último dia do mês anterior ao do pagamento e de 1% (um por cento) no mês do pagamento; e
+II - no caso de exigência de ofício, de multa de 75% (setenta e cinco por cento) e dos juros de mora previstos na alínea b do inciso I deste parágrafo.
+§ 4º A multa de que trata o inciso II do § 3º será exigida isoladamente quando os direitos antidumping ou os direitos compensatórios houverem sido pagos após o registro da declaração de importação, mas sem os acréscimos moratórios.
+§ 5º A exigência de ofício de direitos antidumping ou de direitos compensatórios e decorrentes acréscimos moratórios e penalidades será formalizada em auto de infração lavrado por Auditor-Fiscal da Receita Federal, observado o disposto no Decreto nº 70.235, de 6 de março de 1972, e o prazo de 5 (cinco) anos contados da data de registro da declaração de importação.
+§ 6º Verificado o inadimplemento da obrigação, a Secretaria da Receita Federal encaminhará o débito à Procuradoria-Geral da Fazenda Nacional, para inscrição em Dívida Ativa da União e respectiva cobrança, observado o prazo de prescrição de 5 (cinco) anos.
+§ 7º A restituição de valores pagos a título de direitos antidumping e de direitos compensatórios, provisórios ou definitivos, enseja a restituição dos acréscimos legais correspondentes e das penalidades pecuniárias, de caráter material, prejudicados pela causa da restituição." (NR)
+"Art. 8º.
+§ 1º Nos casos de retroatividade, a Secretaria da Receita Federal intimará o contribuinte ou responsável para pagar os direitos antidumping ou compensatórios, provisórios ou definitivos, no prazo de 30 (trinta) dias, sem a incidência de quaisquer acréscimos moratórios.
+§ 2º Vencido o prazo previsto no § 1º, sem que tenha havido o pagamento dos direitos, a Secretaria da Receita Federal deverá exigi-los de ofício, mediante a lavratura de auto de infração, aplicando-se a multa e os juros de mora previstos no inciso II do § 3º do art. 7º, a partir do término do prazo de 30 (trinta) dias previsto no § 1º deste artigo." (NR)

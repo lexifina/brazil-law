@@ -1,0 +1,2 @@
+Art. 64. Os documentos instrutivos de declaração aduaneira ou necessários ao controle aduaneiro podem ser emitidos, transmitidos e recepcionados eletronicamente, na forma e nos prazos estabelecidos pela Secretaria da Receita Federal.
+Parágrafo único. Os documentos eletrônicos referidos no caput são válidos para os efeitos fiscais e de controle aduaneiro, observado o disposto na legislação sobre certificação digital e atendidos os requisitos estabelecidos pela Secretaria da Receita Federal.

@@ -1,0 +1,2 @@
+Art. 91. Serão reduzidas a 0 (zero) as alíquotas da contribuição para o PIS/PASEP e da COFINS incidentes sobre a receita bruta decorrente da venda de álcool etílico hidratado carburante, realizada por distribuidor e revendedor varejista, desde que atendidas as condições estabelecidas pelo Poder Executivo.
+Parágrafo único. A redução de alíquotas referidas no caput somente será aplicável a partir do mês subsequente ao da edição do decreto que estabeleça as condições requeridas.

@@ -1,0 +1,2 @@
+Art. 88. A Lei nº 10.336, de 19 de dezembro de 2001, fica acrescida do art. 8º A:
+"Art. 8º A O contribuinte da Cide, incidente sobre as correntes de hidrocarbonetos líquidos não destinados à formulação de gasolina ou diesel, poderá deduzir o valor da Cide, pago na importação ou na comercialização no mercado interno, dos valores da contribuição para o PIS/Pasep e da Cofins devidos na comercialização, no mercado interno, dos produtos referidos neste artigo." (NR)

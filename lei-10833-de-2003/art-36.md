@@ -1,0 +1,1 @@
+Art. 36. Os valores retidos na forma dos arts. 30, 33 e 34 serão considerados como antecipação do que for devido pelo contribuinte que sofreu a retenção, em relação ao imposto de renda e às respectivas contribuições.
