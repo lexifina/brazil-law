@@ -1,0 +1,1 @@
+Art. 19. Os serviços de radiodifusão sonora e de sons e imagens adotarão plano de medidas técnicas com o objetivo de permitir o uso da linguagem de sinais ou outra subtitulação, para garantir o direito de acesso à informação às pessoas portadoras de deficiência auditiva, na forma e no prazo previstos em regulamento.

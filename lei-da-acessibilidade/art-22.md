@@ -1,0 +1,1 @@
+Art. 22. É instituído, no âmbito da Secretaria de Estado de Direitos Humanos do Ministério da Justiça, o Programa Nacional de Acessibilidade, com dotação orçamentária específica, cuja execução será disciplinada em regulamento.

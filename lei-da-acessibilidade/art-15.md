@@ -1,0 +1,1 @@
+Art. 15. Caberá ao órgão federal responsável pela coordenação da política habitacional regulamentar a reserva de um percentual mínimo do total das habitações, conforme a característica da população local, para o atendimento da demanda de pessoas portadoras de deficiência ou com mobilidade reduzida.

@@ -1,0 +1,1 @@
+Art. 25. As disposições desta Lei aplicam-se aos edifícios ou imóveis declarados bens de interesse cultural ou de valor histórico-artístico, desde que as modificações necessárias observem as normas específicas reguladoras destes bens.
