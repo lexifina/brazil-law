@@ -1,0 +1,167 @@
+EMENTA: MANDADO DE SEGURANÇA
+IMPETRADO CONTRA O TRIBUNAL
+SUPERIOR ELEITORAL. INCOMPETÊNCIA
+ABSOLUTA DO SUPREMO TRIBUNAL
+FEDERAL. APLICABILIDADE DO
+ART. 21, VI, DA LOMAN. RECEPÇÃO
+PELA CONSTITUIÇÃO DE 1988.
+MANDADO DE SEGURANÇA NÃO
+CONHECIDO.
+- O Supremo Tribunal Federal
+não dispõe de competência
+originária para processar e
+julgar mandado de segurança
+impetrado contra o Tribunal
+Superior Eleitoral. Precedentes.
+- A jurisprudência do Supremo
+Tribunal Federal - que já
+proclamou a plena recepção
+do  art. 21, VI, da LOMAN,
+pela   Constituição de 1988
+(RTJ  133/633) - tem enfatizado
+assistir aos próprios Tribunais
+competência, para, em sede
+originária, processarem e
+julgarem os mandados de
+segurança impetrados contra
+seus atos ou omissões.
+Precedentes.
+DECISÃO: Trata-se de mandado de segurança, com pedido de
+medida liminar, impetrado contra a Resolução nº 20.655, de 6 de
+junho de 2000, emanada do Tribunal Superior Eleitoral, que suspendeu
+"todos os processos de revisão de eleitorado ainda em curso nos
+Tribunais Regionais Eleitorais, tendo em vista o Calendário
+Eleitoral" (fls. 26).
+A agremiação partidária impetrante do presente writ
+mandamental postula a suspensão cautelar das eleições municipais no
+Município de Guararema/SP, previstas para o próximo dia 1º de
+outubro, até que seja realizada, nesse Município, a pertinente
+revisão eleitoral, com observância das formalidades e das
+cautelas previstas no Código Eleitoral (art. 71, § 4º), na Resolução
+TSE nº 20.473/99 (art. 57, § 1º, I, II, e III) e na Resolução
+TSE nº 20.472/99 (art. 1º).
+Impõe-se reconhecer, desde logo, a evidente falta de
+competência do Supremo Tribunal Federal, para, em sede originária,
+processar e julgar este mandado de segurança.
+Na realidade, não há como dar trânsito, nesta Corte, à
+presente ação mandamental, eis que a causa em questão não se subsume
+a qualquer das hipóteses taxativamente enunciadas no rol inscrito no
+art. 102, I, da Carta Política.
+A jurisprudência desta Corte Suprema, em sucessivas
+decisões, firmou-se no sentido de reconhecer que o Supremo Tribunal
+Federal não dispõe de competência originária para apreciar mandado
+de segurança, quando deduzido em face de atos emanados do Tribunal
+Superior Eleitoral (MS 21.447-PE, Rel. Min. CELSO DE MELLO -
+MS 22.797-SP, Rel. Min. SYDNEY SANCHES), ou do Tribunal Superior do
+Trabalho (MS 21.553-SP, Rel. Min. CELSO DE MELLO), ou do Superior
+Tribunal Militar (MS 21.757-PA, Rel. Min. CELSO DE MELLO), ou do
+Superior Tribunal de Justiça (MS 21.309-DF (AgRg), Rel. Min. PAULO
+BROSSARD - RTJ 132/706, Rel. Min. ALDIR  PASSARINHO - RTJ 157/541,
+Rel. Min. CELSO DE MELLO), ou dos  Tribunais de Justiça dos Estados
+e do Distrito Federal (MS 21.658-MG, Rel. Min. CELSO DE MELLO -
+MS 23.771-SP, Rel. Min. CELSO DE MELLO - Súmula 330/STF), ou, ainda,
+dos Tribunais de Alçada (MS 21.699-SP, Rel. Min. CELSO DE MELLO -
+MS 23.609-SP (AgRg), Rel. Min. CELSO DE MELLO).
+Não se pode perder de perspectiva, neste ponto, que a
+competência originária do Supremo Tribunal Federal, por
+qualificar-se como um complexo de atribuições jurisdicionais de
+extração essencialmente constitucional - e ante o regime de direito
+estrito a que se acha submetida - não comporta a possibilidade de
+ser estendida a situações que extravasem os rígidos limites fixados
+em numerus clausus pelo rol exaustivo inscrito no art. 102, I, da
+Carta Política, consoante adverte a doutrina (MANOEL GONÇALVES
+FERREIRA FILHO, "Comentários à Constituição Brasileira de 1988",
+vol. 2/217, 1992, Saraiva) e proclama a jurisprudência desta própria
+Corte (RTJ 43/129 - RTJ 44/563 - RTJ 50/72 - RTJ 53/776 - RTJ
+159/28).
+A ratio subjacente a esse entendimento, que acentua o
+caráter absolutamente estrito da competência constitucional do STF,
+vincula-se à necessidade de inibir indevidas ampliações
+descaracterizadoras da esfera de atribuições institucionais desta
+Suprema Corte, conforme ressaltou, a propósito do tema em
+questão,  em voto vencedor, o saudoso Ministro ADALÍCIO NOGUEIRA
+(RTJ 39/56-59, 57).
+É certo que o Supremo Tribunal Federal, não obstante as
+considerações precedentes - e sempre enfatizando os propósitos
+teleológicos do legislador constituinte - tem procedido, algumas
+vezes, em casos excepcionais, a construções jurisprudenciais que lhe
+permitem extrair, das normas constitucionais, por força de
+compreensão ou por efeito de interpretação lógico-extensiva, o
+sentido exegético que lhes é inerente (RTJ 80/327 - RTJ 130/1015 -
+RTJ 145/509, v.g.).
+Não é esse, porém, o caso dos autos.
+Com efeito, o Supremo Tribunal Federal, tendo em vista a
+regra inscrita no art. 102, I, d, da Constituição, não dispõe de
+competência originária para processar e julgar mandados de segurança
+impetrados contra qualquer Tribunal judiciário (MS 22.041-BA (AgRg),
+Rel. Min. CELSO DE MELLO).
+Por isso mesmo, a jurisprudência do Supremo Tribunal
+Federal, ao proclamar a plena recepção, pela nova ordem
+constitucional, do art. 21, VI, da LOMAN (RTJ 133/260, Rel. Min.
+CARLOS VELLOSO - RTJ 133/633, Rel. Min. PAULO BROSSARD -
+RTJ  151/482, Rel. Min. ILMAR GALVÃO), tem reafirmado a competência
+dos próprios Tribunais - do Tribunal Superior Eleitoral, inclusive -
+para processarem e julgarem, em sede originária, os mandados de
+segurança impetrados contra seus atos e omissões ou, ainda, contra
+aqueles emanados de seus respectivos Presidentes.
+Assim sendo, refoge ao estrito âmbito das atribuições
+jurisdicionais da Suprema Corte a apreciação do writ mandamental,
+quando impetrado, como no caso, contra resolução emanada do Tribunal
+Superior Eleitoral (MS 21.447-PE, Rel. Min. CELSO DE MELLO -
+MS 22.797-SP, Rel. Min. SYDNEY SANCHES).
+Não obstante a evidente inadmissibilidade do writ
+mandamental na espécie ora em exame, impõe-se uma observação final:
+no exercício dos poderes processuais de que dispõe, assiste ao
+Ministro-Relator competência plena para exercer o controle das
+ações, pedidos ou recursos dirigidos a esta Corte, legitimando-se,
+em conseqüência, os atos decisórios que venha a praticar com
+fundamento no art. 38 da Lei nº 8.038/90, que assim prescreve:
+"O relator, no Supremo Tribunal Federal (...), decidirá
+o pedido ou o recurso que haja perdido seu objeto, bem como
+negará seguimento a pedido ou recurso manifestamente
+intempestivo, incabível ou improcedente ou, ainda, que
+contrariar, nas questões predominantemente de direito,
+Súmula do respectivo Tribunal."
+Cumpre acentuar, neste ponto, que o Pleno do Supremo
+Tribunal Federal reconheceu a inteira validade constitucional dessa
+norma legal, que inclui, na esfera de atribuições do Relator, a
+competência para negar trânsito, em decisão monocrática, a recursos,
+pedidos ou ações, quando incabíveis (como no caso), intempestivos,
+sem objeto ou que veiculem pretensão incompatível com a
+jurisprudência predominante do Tribunal (RTJ 139/53):
+"PODERES PROCESSUAIS DO MINISTRO-RELATOR.
+- Assiste ao Ministro-Relator competência plena, para,
+com fundamento nos poderes processuais de que dispõe,
+exercer o controle de admissibilidade das ações, pedidos ou
+recursos dirigidos ao Supremo Tribunal Federal. Cabe-lhe,
+em conseqüência, poder para negar trânsito, em decisão
+monocrática, a ações, pedidos ou recursos incabíveis,
+intempestivos, sem objeto ou que veiculem pretensão
+incompatível com a jurisprudência predominante do Tribunal.
+Precedentes."
+(RTJ 168/174, Rel. Min. CELSO DE MELLO)
+"A tese dos impetrantes, da suposta incompetência do
+relator para denegar seguimento a mandado de segurança,
+encontra firme repúdio neste Tribunal. A Lei 8.038/90,
+art. 38, confere-lhe poderes processuais, para, na direção
+e condução do processo, assim agir.
+Agravo regimental improvido."
+(MS 21.734-MS (AgRg), Rel. Min. ILMAR GALVÃO)
+Nem se alegue que esse preceito legal implicaria
+transgressão ao princípio da colegialidade, eis que o postulado em
+questão sempre restará preservado ante a possibilidade de submissão
+da decisão singular ao controle recursal dos órgãos colegiados no
+âmbito do Supremo Tribunal Federal, consoante esta Corte tem
+reiteradamente proclamado (Ag 159.892-SP (AgRg), Rel. Min. CELSO DE
+MELLO).
+Revela-se manifesta, pois, a falta de competência
+originária do Supremo Tribunal Federal para processar e julgar este
+mandado de segurança, razão pela qual nego seguimento à presente
+ação de mandado de segurança, restando prejudicada, em conseqüência
+a apreciação do pedido de medida liminar (Lei nº 8.038/90, art. 38).
+Arquivem-se os presentes autos.
+Publique-se.
+Brasília, 26 de setembro de 2000.
+Ministro CELSO DE MELLO
+Relator
+5
