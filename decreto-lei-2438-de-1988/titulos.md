@@ -1,0 +1,1 @@
+Dispõe sobre a percepção de gratificações e complementação salarial por servidores do Departamento Nacional de Obras e Saneamento e do Departamento Nacional de Obras Contra as Secas e dá outras providências.
