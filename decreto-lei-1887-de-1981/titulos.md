@@ -1,0 +1,16 @@
+Altera a legislação relativa ao imposto de renda de pessoa física.
+CLASSE DE RENDA BRUTA
+EM CR$
+PERCENTUAIS DE
+REDUÇÃO DO IMPOSTO
+12%
+8%
+4%
+0
+CLASSE DE RENDA BRUTA
+EM CR$
+LIMITE DE REDUÇÃO
+DO IMPOSTO DEVIDO
+15%
+10%
+7,5%
