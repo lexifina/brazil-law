@@ -1,0 +1,2 @@
+Art. 3º Cabe à autoridade marítima promover a implementação e a execução desta Lei, com o propósito de assegurar a salvaguarda da vida humana e a segurança da navegação, no mar aberto e hidrovias interiores, e a prevenção da poluição ambiental por parte de embarcações, plataformas ou suas instalações de apoio.
+Parágrafo único. No exterior, a autoridade diplomática representa a autoridade marítima, no que for pertinente a esta Lei.
