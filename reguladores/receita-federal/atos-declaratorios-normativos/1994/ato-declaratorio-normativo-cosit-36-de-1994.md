@@ -1,0 +1,14 @@
+Ato Declaratório Normativo Cosit nº 36, de 17 de junho de 1994
+Conversão em UFIR dos rendimentos recebidos no período de 1º.3.94 a 30.6.94, bem como das deduções e do imposto, para fins de preenchimento da declaração de encerramento de espólio ou de saída definitiva do País.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso de suas atribuições e tendo em vista as disposições do art. 18 da Lei nº 8.383, de 30 de dezembro de 1991, do art. 33 da Lei nº 8.880, de 27 de maio de 1994 e da Instrução Normativa SRF nº 19, de 14 de março de 1994,
+DECLARA, em caráter normativo, às Superintendências Regionais da Receita Federal e aos demais interessados que, para efeito de preenchimento da declaração de encerramento de espólio ou de saída definitiva do País, relativa ao ano-calendário de 1994, a conversão em UFIR dos rendimentos recebidos em cruzeiros reais ou em URV no período de 1º de março a 30 de junho de 1994, bem como das deduções e do imposto, obedecerá ao seguinte procedimento:
+1. Os rendimentos expressos em URV serão convertidos em cruzeiros reais multiplicando-se o seu valor pela URV do primeiro dia do mês do recebimento e expressos em UFIR com base em seu valor no mesmo mês.
+2. Os rendimentos expressos em cruzeiros reais serão convertidos em URV dividindo-se o seu valor pela URV do dia do recebimento. O valor assim encontrado será reconvertido para cruzeiros reais com base no valor da URV no primeiro dia do mês do recebimento e expressos em UFIR com base em seu valor no mesmo mês.
+3. As deduções de livro caixa, contribuição previdenciária e pensão judicial expressas em URV serão convertidas em cruzeiros reais com base no valor da URV no primeiro dia do mês:
+a) do pagamento de despesa; ou
+b) em que foi considerada na base de cálculo do imposto, no caso de contribuição previdenciária e pensão descontada pela fonte pagadora.
+3.1. A conversão em UFIR far-se-á com base em seu valor no mês do pagamento, no caso da letra "a", ou no mês em que foi considerada na base de cálculo do imposto, no caso da letra "b".
+4. As deduções expressas em cruzeiros reais, inclusive as escrituradas em livro caixa, serão convertidas em URV mediante sua divisão pela URV do dia do pagamento. O valor encontrado será reconvertido para cruzeiros reais mediante a sua multiplicação pelo valor da URV do primeiro dia do mês do pagamento da despesa e expresso em UFIR com base em seu valor no mesmo mês.
+5. O imposto de renda retido na fonte e o recolhimento mensal obrigatório (carnê-leão) serão convertidos em UFIR pelo valor desta no mês do recebimento do rendimento correspondente.
+6. A diferença, em cruzeiros reais, verificada entre o valor efetivamente recebido e o que serviu de base de cálculo para o imposto de renda na fonte ou recolhimento mensal obrigatório (carnê-leão), convertida em UFIR pelo valor desta no mês do recebimento do rendimento, será considerada rendimento não-tributável.
+ARISTÓFANES FONTOURA DE HOLANDA
