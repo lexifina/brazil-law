@@ -1,0 +1,2 @@
+Art. 1º Esta Lei institui normas gerais para licitação e contratação de parceria público-privada no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios.
+Parágrafo único. Esta Lei se aplica aos órgãos da Administração Pública direta, aos fundos especiais, às autarquias, às fundações públicas, às empresas públicas, às sociedades de economia mista e às demais entidades controladas direta ou indiretamente pela União, Estados, Distrito Federal e Municípios.

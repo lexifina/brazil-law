@@ -1,0 +1,1 @@
+Art. 19 O FGP não pagará rendimentos a seus cotistas, assegurando-se a qualquer deles o direito de requerer o resgate total ou parcial de suas cotas, correspondente ao patrimônio ainda não utilizado para a concessão de garantias, fazendo-se a liquidação com base na situação patrimonial do Fundo.

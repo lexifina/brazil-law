@@ -1,0 +1,1 @@
+Art. 23. Fica a União autorizada a conceder incentivo, nos termos do Programa de Incentivo à Implementação de Projetos de Interesse Social - PIPS, instituído pela Lei nº 10.735, de 11 de setembro de 2003, às aplicações em fundos de investimento, criados por instituições financeiras, em direitos creditórios provenientes dos contratos de parcerias público-privadas.
