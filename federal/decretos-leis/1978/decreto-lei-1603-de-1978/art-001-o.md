@@ -1,0 +1,1 @@
+Art. 1º - O valor do soldo do posto de Almirante-de-Esquadra, de que trata o artigo 148 da Lei 5.787, de 27 de junho de 1972, é fixado em Cr$18.090,00 (dezoito mil e noventa cruzeiros), observados os índices estabelecidos na Tabela de Escalonamento Vertical anexa ao Decreto-lei nº 1.447, de 13 de fevereiro de 1976.
