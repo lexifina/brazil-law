@@ -1,1 +1,0 @@
-Art. 8. A lei nacional da pessoa determina a capacidade civil, os direitos de família, as relações pessoais dos cônjuges e o regimen dos bens no casamento, sendo licito quanto a este a opção pela lei brasileira.

@@ -1,2 +1,0 @@
-Art. 10. Os bens, móveis, ou imóveis, estão sob a lei do lugar onde situados; ficando, porém, sob a lei pessoal do proprietário os moveis de seu uso pessoal, ou os que ele consiga tiver sempre, bem como os destinados a transporte para outros lugares.
-Parágrafo único. Os moveis, cuja situação se mudar na pendência de ação real a seu respeito, continuam sujeitos á lei da situação, que tinham no começo da lide.
