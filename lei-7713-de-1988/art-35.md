@@ -2,7 +2,7 @@ Art. 35. O sócio quotista, o acionista ou titular da empresa individual ficará
 § 1º Para efeito da incidência de que trata este artigo, o lucro líquido do período-base apurado com observância da legislação comercial, será ajustado pela:
 a) adição do valor das provisões não dedutíveis na determinação do lucro real, exceto a provisão para o imposto de renda;
 b) adição do valor da reserva de reavaliação, baixado no curso do período-base, que não tenha sido computado no lucro líquido;
-c) exclusão do valor, corrigido monetariamente, das provisões adicionadas, na forma da alínea a, que tenham sido baixadas no curso do período-base;
+c) exclusão do valor, corrigido monetariamente, das provisões adicionadas, na forma da alínea a, que tenham sido baixadas no curso do período-base, utilizando-se a variação do BTN Fiscal.
 d) compensação de prejuízos contábeis apurados em balanço de encerramento de período-base anterior, desde que tenham sido compensados contabilmente, ressalvado do disposto no § 2º deste artigo.
 § 2º Não poderão ser compensados os prejuízos:
 a) que absorverem lucros ou reservas que não tenham sido tributados na forma deste artigo;
