@@ -1,0 +1,2 @@
+Art. 11. Aplicam-se ao desmembramento, no que couber, as disposições urbanísticas exigidas para o loteamento, em especial o inciso II do art. 4º e o art. 5º desta Lei.
+Parágrafo único - O Município, ou o Distrito Federal quando for o caso, fixará os requisitos exigíveis para a aprovação de desmembramento de lotes decorrentes de loteamento cuja destinação da área pública tenha sido inferior à mínima prevista no § 1º do art. 4º desta Lei.

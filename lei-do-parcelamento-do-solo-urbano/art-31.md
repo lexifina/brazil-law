@@ -1,0 +1,3 @@
+Art. 31. O contrato particular pode ser transferido por simples trespasse, lançado no verso das vias em poder das partes, ou por instrumento em separado, declarando-se o número do registro do loteamento, o valor da cessão e a qualificação do cessionário, para o devido registro.
+§ 1º A cessão independe da anuência do loteador mas, em relação a este, seus efeitos só se produzem depois de cientificado, por escrito, pelas partes ou quando registrada a cessão.
+§ 2º - Uma vez registrada a cessão, feita sem anuência do loteador, o Oficial do Registro dar-lhe-á ciência, por escrito, dentro de 10 (dez) dias.
