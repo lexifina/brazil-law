@@ -1,0 +1,1 @@
+Art. 54. É permitida a transferência da titularidade da autorização, mediante prévia e expressa aprovação pela ANP, desde que o novo titular satisfaça os requisitos expressos no § 1º do artigo anterior.

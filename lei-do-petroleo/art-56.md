@@ -1,0 +1,2 @@
+Art. 56. Observadas as disposições das leis pertinentes, qualquer empresa ou consórcio de empresas que atender ao disposto no art. 5° poderá receber autorização da ANP para construir instalações e efetuar qualquer modalidade de transporte de petróleo, seus derivados e gás natural, seja para suprimento interno ou para importação e exportação.
+Parágrafo único. A ANP baixará normas sobre a habilitação dos interessados e as condições para a autorização e para transferência de sua titularidade, observado o atendimento aos requisitos de proteção ambiental e segurança de tráfego.

@@ -1,0 +1,1 @@
+Art. 40. O julgamento da licitação identificará a proposta mais vantajosa, segundo critérios objetivos, estabelecidos no instrumento convocatório, com fiel observância dos princípios da legalidade, impessoalidade, moralidade, publicidade e igualdade entre os concorrentes.

@@ -1,0 +1,2 @@
+Art. 51. O edital e o contrato disporão sobre o pagamento pela ocupação ou retenção de área, a ser feito anualmente, fixado por quilômetro quadrado ou fração da superfície do bloco, na forma da regulamentação por decreto do Presidente da República.
+Parágrafo único. O valor do pagamento pela ocupação ou retenção de área será aumentado em percentual a ser estabelecido pela ANP, sempre que houver prorrogação do prazo de exploração.
