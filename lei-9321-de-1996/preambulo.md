@@ -1,0 +1,2 @@
+Dispensa a comprovação de regularidade do recolhimento do Imposto sobre a Propriedade Territorial Rural (ITR) para fins de financiamento ao amparo do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF e dá outras providencias.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.521-1, de 1996, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
