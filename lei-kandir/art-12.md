@@ -12,7 +12,7 @@ b) compreendidos na competência tributária dos Municípios e com indicação e
 IX - do desembaraço aduaneiro das mercadorias importadas do exterior;
 X - do recebimento, pelo destinatário, de serviço prestado no exterior;
 XI - da aquisição em licitação pública de mercadorias importadas do exterior apreendidas ou abandonadas;
-XII - da entrada no território do Estado de lubrificantes e combustíveis líquidos e gasosos derivados de petróleo oriundos de outro Estado, quando não destinados à comercialização;
+XII - da entrada no território do Estado de lubrificantes e combustíveis líquidos e gasosos derivados de petróleo e energia elétrica oriundos de outro Estado, quando não destinados à comercialização ou à industrialização;
 XIII - da utilização, por contribuinte, de serviço cuja prestação se tenha iniciado em outro Estado e não esteja vinculada a operação ou prestação subseqüente.
 § 1º Na hipótese do inciso VII, quando o serviço for prestado mediante pagamento em ficha, cartão ou assemelhados, considera-se ocorrido o fato gerador do imposto quando do fornecimento desses instrumentos ao usuário.
 § 2º Na hipótese do inciso IX, após o desembaraço aduaneiro, a entrega, pelo depositário, de mercadoria ou bem importados do exterior deverá ser autorizada pelo órgão responsável pelo seu desembaraço, que somente se fará mediante a exibição do comprovante de pagamento do imposto incidente no ato do despacho aduaneiro, salvo disposição em contrário.
