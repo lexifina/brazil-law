@@ -1,0 +1,1 @@
+Art. 116-A Fica o Ministério do Planejamento, Orçamento e Gestão autorizado a aprovar a realização de programa de desligamento voluntário para os empregados da Rede Ferroviária Federal S.A., em liquidação.

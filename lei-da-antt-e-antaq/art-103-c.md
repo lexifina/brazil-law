@@ -1,0 +1,1 @@
+Art. 103-C. As datas limites a que se referem o § 1º do art. 1º da Lei nº 9.600, de 19 de janeiro de 1998, e o § 1º do art. 1º da Lei nº 9.603, de 22 de janeiro de 1998, passam, respectivamente, para 30 de junho de 2003 e 31 de dezembro de 2005.
