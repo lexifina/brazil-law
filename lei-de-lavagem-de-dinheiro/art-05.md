@@ -1,0 +1,1 @@
+Art. 5º Quando as circunstâncias o aconselharem, o juiz, ouvido o Ministério Público, nomeará pessoa qualificada para a administração dos bens, direitos ou valores apreendidos ou seqüestrados, mediante termo de compromisso.
