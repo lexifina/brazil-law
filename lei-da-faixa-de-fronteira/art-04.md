@@ -1,0 +1,2 @@
+Art. 4º. - As autoridades, entidades e serventuários públicos exigirão prova do assentimento prévio do Conselho de Segurança Nacional para prática de qualquer ato regulado por esta lei.
+Parágrafo único - Os tabeliães e Oficiais do Registro de Imóveis, bem como os servidores das Juntas Comerciais, quando não derem fiel cumprimento ao disposto neste artigo, estarão sujeitos à multa de até 10% (dez por cento) sobre o valor do negócio irregularmente realizado, independentemente das sanções civis e penais cabíveis.

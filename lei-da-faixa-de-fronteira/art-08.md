@@ -1,0 +1,3 @@
+Art. 8º. - A alienação e a concessão de terras públicas, na faixa de Fronteira, não poderão exceder de 3000 ha (três mil hectares), sendo consideradas como uma só unidade as alienações e concessões feitas a pessoas jurídicas que tenham administradores, ou detentores da maioria do capital comuns.
+§ 1º. - O Presidente da República, ouvido o Conselho de Segurança Nacional e mediante prévia autorização do Senado Federal, poderá autorizar a alienação e a concessão de terras públicas acima do limite estabelecido neste artigo, desde que haja manifesto interesse para a economia regional.
+§ 2º. - A alienação e a concessão de terrenos urbanos reger-se-ão por legislação específica.
