@@ -1,4 +1,4 @@
-Art. 7º Para serem vendidos ou expostos à venda em todo território nacional, os agrotóxicos e afins ficam obrigados a exibir rótulos próprios, redigidos em português, que contenham, entre outros, os seguintes dados:
+Art. 7º Para serem vendidos ou expostos à venda em todo o território nacional, os agrotóxicos e afins são obrigados a exibir rótulos próprios e bulas, redigidos em português, que contenham, entre outros, os seguintes dados:
 I - indicações para a identificação do produto, compreendendo:
 a) o nome do produto;
 b) o nome e a percentagem de cada princípio ativo e a percentagem total dos ingredientes inertes que contém;
@@ -12,7 +12,7 @@ II - instruções para utilização, que compreendam:
 a) a data de fabricação e de vencimento;
 b) o intervalo de segurança, assim entendido o tempo que deverá transcorrer entre a aplicação e a colheita, uso ou consumo, a semeadura ou plantação, e a semeadura ou plantação do cultivo seguinte, conforme o caso;
 c) informações sobre o modo de utilização, incluídas, entre outras: a indicação de onde ou sobre o que deve ser aplicado; o nome comum da praga ou enfermidade que se pode com ele combater ou os efeitos que se pode obter; a época em que a aplicação deve ser feita; o número de aplicações e o espaçamento entre elas, se for o caso; as doses e os limites de sua utilização;
-d) informações sobre os equipamentos a serem utilizados e sobre o destino final das embalagens;
+d) informações sobre os equipamentos a serem usados e a descrição dos processos de tríplice lavagem ou tecnologia equivalente, procedimentos para a devolução, destinação, transporte, reciclagem, reutilização e inutilização das embalagens vazias e efeitos sobre o meio ambiente decorrentes da destinação inadequada dos recipientes;
 III - informações relativas aos perigos potenciais, compreendidos:
 a) os possíveis efeitos prejudiciais sobre a saúde do homem, dos animais e sobre o meio ambiente;
 b) precauções para evitar danos a pessoas que os aplicam ou manipulam e a terceiros, aos animais domésticos, fauna, flora e meio ambiente;
