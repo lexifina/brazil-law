@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 84, de 11 de outubro de 2001
+Dispõe sobre a apuração e tributação de ganhos de capital nas alienações de bens e direitos por pessoas físicas.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF No 259, de 24 de agosto de 2001, e tendo em vista o disposto nas Leis No 7.713, de 22 de dezembro de 1988, No 8.134, de 27 de dezembro de 1990, No 8.218, de 29 de agosto de 1991, No 8.383, de 30 de dezembro de 1991, No 8.849, de 28 de janeiro de 1994, No 8.981, de 20 de janeiro de 1995, No 9.249 e No 9.250, de 26 de dezembro de 1995, No 9.393, de 19 de dezembro de 1996, e No 9.532, de 10 de dezembro de 1997, e nas Medidas Provisórias No 2.159-70, de 24 de agosto de 2001, e No 2.189-49, de 23 de agosto de 2001, resolve:
+Disposições Gerais
