@@ -1,0 +1,3 @@
+Art. 8º Se o imóvel for alienado durante a locação, o adquirente poderá denunciar o contrato, com o prazo de noventa dias para a desocupação, salvo se a locação for por tempo determinado e o contrato contiver cláusula de vigência em caso de alienação e estiver averbado junto à matrícula do imóvel.
+§ 1º Idêntico direito terá o promissário comprador e o promissário cessionário, em caráter irrevogável, com imissão na posse do imóvel e título registrado junto à matrícula do mesmo.
+§ 2º A denúncia deverá ser exercitada no prazo de noventa dias contados do registro da venda ou do compromisso, presumindo - se, após esse prazo, a concordância na manutenção da locação.

@@ -1,0 +1,2 @@
+Art. 50. Findo o prazo ajustado, se o locatário permanecer no imóvel sem oposição do locador por mais de trinta dias, presumir - se - á prorrogada a locação por tempo indeterminado, não mais sendo exigível o pagamento antecipado do aluguel e dos encargos.
+Parágrafo único. Ocorrendo a prorrogação, o locador somente poderá denunciar o contrato após trinta meses de seu início ou nas hipóteses do art. 47.

@@ -1,0 +1,1 @@
+Art. 60. Nas ações de despejo fundadas no inciso IV do art. 9º, inciso IV do art. 47 e inciso II do art. 53, a petição inicial deverá ser instruída com prova da propriedade do imóvel ou do compromisso registrado.

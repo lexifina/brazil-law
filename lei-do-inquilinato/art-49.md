@@ -1,0 +1,1 @@
+Art. 49. O locador poderá receber de uma só vez e antecipadamente os aluguéis e encargos, bem como exigir qualquer das modalidades de garantia previstas no art. 37 para atender as demais obrigações do contrato.
