@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 303, de 20 de fevereiro de 2003
+Dispõe sobre a apresentação de declarações relativas a evento de extinção, cisão, fusão ou incorporação.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 16 da lei nº 9.779, de 19 de janeiro de 1999, no art. 5º da Lei nº 9.959, de 27 de janeiro de 2000 e nos arts. 235 e 811 do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto de Renda (RIR/99), resolve:
