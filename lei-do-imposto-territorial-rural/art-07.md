@@ -1,0 +1,1 @@
+Art. 7º No caso de apresentação espontânea do DIAC fora do prazo estabelecido pela Secretaria da Receita Federal, será cobrada multa de 1% (um por cento) ao mês ou fração sobre o imposto devido não inferior a R$ 50,00 (cinqüenta reais), sem prejuízo da multa e dos juros de mora pela falta ou insuficiência de recolhimento do imposto ou quota.

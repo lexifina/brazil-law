@@ -1,0 +1,5 @@
+Art. 18. Na execução de dívida ativa, decorrente de crédito tributário do ITR, na hipótese de penhora ou arresto de bens, previstos no art. 11 da Lei nº 6.830, de 22 de setembro de 1980, será penhorado ou arrestado, preferencialmente, imóvel rural, não tendo recaído a penhora ou o arresto sobre dinheiro.
+§ 1º No caso do imóvel rural penhorado ou arrestado, na lavratura do termo ou auto de penhora, deverá ser observado, para efeito de avaliação, o VTN declarado e o disposto no art. 14.
+§ 2º A Fazenda Pública poderá, ouvido o INCRA, adjudicar, para fins fundiários, o imóvel rural penhorado, se a execução não for embargada ou se rejeitados os embargos.
+§ 3º O depósito da diferença de que trata o parágrafo único do art. 24 da Lei nº 6.830, de 22 de setembro de 1980, poderá ser feito em Títulos da Dívida Agrária, até o montante equivalente ao VTN declarado.
+§ 4º Na hipótese do § 2º, o imóvel passará a integrar o patrimônio do INCRA, e a carta de adjudicação e o registro imobiliário serão expedidos em seu nome.

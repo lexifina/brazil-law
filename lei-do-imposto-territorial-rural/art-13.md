@@ -1,0 +1,3 @@
+Art. 13. O pagamento do imposto fora dos prazos previstos nesta Lei será acrescido de:
+I - multa de mora calculada à taxa de 0,33% (zero vírgula trinta e três por cento), por dia de atraso, não podendo ultrapassar 20% (vinte por cento), calculada a partir do primeiro dia subseqüente ao do vencimento do prazo previsto para o pagamento do imposto até o dia em que ocorrer o seu pagamento;
+II - juros de mora calculados à taxa a que se refere o art. 12, parágrafo único, inciso III, a partir do primeiro dia do mês subseqüente ao vencimento do prazo até o mês anterior ao do pagamento, e de 1% (um por cento) no mês do pagamento.

@@ -1,0 +1,1 @@
+Art. 9º A entrega do DIAT fora do prazo estabelecido sujeitará o contribuinte à multa de que trata o art. 7º, sem prejuízo da multa e dos juros de mora pela falta ou insuficiência de recolhimento do imposto ou quota.
