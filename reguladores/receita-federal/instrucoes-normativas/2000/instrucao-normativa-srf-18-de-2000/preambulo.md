@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 18, de 24 de fevereiro de 2000
+Dispõe sobre o prazo para apresentar a Declaração de Débitos e Créditos Tributários Federais - DCTF relativa ao 4o trimestre de 1999.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições, e tendo em vista o disposto no artigo 16 da Lei No 9.779, de 19 de janeiro de 1999, na Instrução Normativa SRF No 126, de 30 de outubro de 1998, e considerando os problemas de recepção da DCTF, ocorridos no dia 15 de fevereiro de 2000, no âmbito do Serviço Federal de Processamento de Dados - SERPRO, relatados por aquela instituição no Ofício DS-00.2541/2000, de 24 de fevereiro de 2000, resolve:
