@@ -1,0 +1,1 @@
+Art. 9º A pena de cancelamento de registro será aplicada a estabelecimento ou instalação que já tenha tido seu funcionamento suspenso, total ou parcialmente, nos termos previstos no § 4º do artigo anterior.

@@ -1,0 +1,1 @@
+Art. 20. A administração dos recursos a que se refere o art. 13, inciso II, da Lei nº 4.452, de 5 de novembro de 1964, alterado pelo Decreto-Lei nº 1.785, de 13 de maio de 1980, será regulamentada pelo Poder Executivo.

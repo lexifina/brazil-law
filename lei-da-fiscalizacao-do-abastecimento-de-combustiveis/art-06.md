@@ -1,0 +1,1 @@
+Art. 6º As penas de apreensão de bens e produtos, de perdimento de produtos apreendidos, de suspensão de fornecimento de produtos e de cancelamento do registro do produto serão aplicadas, conforme o caso, quando forem constatados vícios de quantidade ou de qualidade por inadequação ou falta de segurança do produto.
