@@ -1,0 +1,1 @@
+Art. 4º Ressalvadas as hipóteses de interrupção previstas no art. 2º, para as infrações ocorridas há mais de três anos, contados do dia 1º de julho de 1998, a prescrição operará em dois anos, a partir dessa data.
