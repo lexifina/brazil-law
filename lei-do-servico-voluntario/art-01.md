@@ -1,0 +1,2 @@
+Art. 1º Considera-se serviço voluntário, para fins desta Lei, a atividade não remunerada, prestada por pessoa física a entidade pública de qualquer natureza, ou a instituição privada de fins não lucrativos, que tenha objetivos cívicos, culturais, educacionais, científicos, recreativos ou de assistência social, inclusive mutualidade.
+Parágrafo único. O serviço voluntário não gera vínculo empregatício, nem obrigação de natureza trabalhista previdenciária ou afim.
