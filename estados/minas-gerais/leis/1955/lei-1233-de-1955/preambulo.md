@@ -1,0 +1,11 @@
+LEI Nº 1 Contém o Regimento de Custas Judiciais do Estado.
+
+O Povo do Estado de Minas Gerais, por seus representantes, decretou e eu, em seu nome, sanciono a seguinte lei:
+
+PARTE GERAL
+
+Disposições Preliminares
+
+CAPÍTULO I
+
+Das custas judiciais
