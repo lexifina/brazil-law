@@ -1,1 +1,0 @@
-Art. 39. A perda ou extravio dos livros ou documentos implica arbitramento dos valores das operações a que se referiam, para cálculo dos tributos sobre elas incidentes na forma da legislação específica, salvo se, feita a comunicação no prazo de trinta dias da data da ocorrência do fato, for possível a reconstituição da escrituração.
