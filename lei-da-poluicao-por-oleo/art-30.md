@@ -1,0 +1,1 @@
+Art. 30. O alijamento em águas sob jurisdição nacional deverá obedecer às condições previstas na Convenção sobre Prevenção da Poluição Marinha por Alijamento de Resíduos e Outras Matérias, de 1972, promulgada pelo Decreto nº 87.566, de 16 de setembro de 1982, e suas alterações.

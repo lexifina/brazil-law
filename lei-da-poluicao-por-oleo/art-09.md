@@ -1,0 +1,1 @@
+Art. 9º As entidades exploradoras de portos organizados e instalações portuárias e os proprietários ou operadores de plataformas e suas instalações de apoio deverão realizar auditorias ambientais bienais, independentes, com o objetivo de avaliar os sistemas de gestão e controle ambiental em suas unidades.

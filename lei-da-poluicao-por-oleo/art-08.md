@@ -1,0 +1,2 @@
+Art. 8º Os planos de emergência mencionados no artigo anterior serão consolidados pelo órgão ambiental competente, na forma de planos de contingência locais ou regionais, em articulação com os órgãos de defesa civil.
+Parágrafo único. O órgão federal de meio ambiente, em consonância com o disposto na OPRC/90, consolidará os planos de contingência locais e regionais na forma do Plano Nacional de Contingência, em articulação com os órgãos de defesa civil.

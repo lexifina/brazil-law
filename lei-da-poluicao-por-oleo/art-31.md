@@ -1,0 +1,4 @@
+Art. 31. Os portos organizados, as instalações portuárias e as plataformas já em operação terão os seguintes prazos para se adaptarem ao que dispõem os arts. 5º, 6º e 7º:
+I - trezentos e sessenta dias a partir da data de publicação desta Lei, para elaborar e submeter à aprovação do órgão federal de meio ambiente o estudo técnico e o manual de procedimento interno a que se referem, respectivamente, o § 1º do art. 5º e o art. 6º;
+II - trinta e seis meses, após a aprovação a que se refere o inciso anterior, para colocar em funcionamento as instalações e os meios destinados ao recebimento e tratamento dos diversos tipos de resíduos e ao controle da poluição, previstos no art. 5º, incluindo o pessoal adequado para operá-los;
+III - cento e oitenta dias a partir da data de publicação desta Lei, para apresentar ao órgão ambiental competente os planos de emergência individuais a que se refere o caput do art. 7º.
