@@ -1,0 +1,5 @@
+Art. 37. Os créditos do Banco Central do Brasil, provenientes de multas administrativas, não pagos nos prazos previstos, serão acrescidos de:
+I - juros de mora, contados do primeiro dia do mês subseqüente ao do vencimento, equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - Selic para os títulos federais, acumulada mensalmente, até o último dia do mês anterior ao do pagamento, e de 1% (um por cento) no mês de pagamento;
+II - multa de mora de 2% (dois por cento), a partir do primeiro dia após o vencimento do débito, acrescida, a cada 30 (trinta) dias, de igual percentual, até o limite de 20% (vinte por cento), incidente sobre o valor atualizado.
+§ 1º Os juros de mora e a multa de mora, incidentes sobre os créditos provenientes de multas impostas em processo administrativo punitivo que, em razão de recurso, tenham sido confirmadas pela instância superior, contam-se do vencimento da obrigação, previsto na intimação da decisão de primeira instância.
+§ 2º Os créditos referidos no caput poderão ser parcelados em até 30 (trinta) parcelas mensais, a exclusivo critério do Banco Central do Brasil, na forma e condições por ele estabelecidas.
