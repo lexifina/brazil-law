@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 334, DE 25 DE OUTUBRO DE 2000
+(Autoria do Projeto: Poder Executivo)
+Destina área para atividades sociais na Administrativa de Santa Maria - RA XIII.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E El' SANCIONO A SEGUINTE LEI:
