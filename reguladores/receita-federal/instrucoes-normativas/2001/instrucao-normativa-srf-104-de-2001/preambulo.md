@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 104, de 21 de dezembro de 2001
+Dispõe, em complemento ao disposto na Instrução Normativa SRF No 91, de 2001, sobre a opção pelo regime especial de apuração do IPI, de que trata o art. 56 da Medida Provisória No 2.158-35, de 2001.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições, tendo em vista o regime especial de apuração do imposto sobre produtos industrializados - IPI instituído pelo art. 56 da Medida Provisória No 2.158-35, de 24 de agosto de 2001, e em complemento ao disposto no art. 2o da Instrução Normativa No 91, de 21 de novembro de 2001, resolve:
