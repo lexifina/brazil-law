@@ -1,0 +1,1 @@
+Art. 2º Os efeitos da condição dos refugiados serão extensivos ao cônjuge, aos ascendentes e descendentes, assim como aos demais membros do grupo familiar que do refugiado dependerem economicamente, desde que se encontrem em território nacional.

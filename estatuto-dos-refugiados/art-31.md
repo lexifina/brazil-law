@@ -1,0 +1,1 @@
+Art. 31. A decisão do Ministro de Estado da Justiça não será passível de recurso, devendo ser notificada ao CONARE, para ciência do solicitante, e ao Departamento de Polícia Federal, para as providências devidas.

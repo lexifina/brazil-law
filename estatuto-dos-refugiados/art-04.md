@@ -1,0 +1,1 @@
+Art. 4º O reconhecimento da condição de refugiado, nos termos das definições anteriores, sujeitará seu beneficiário ao preceituado nesta Lei, sem prejuízo do disposto em instrumentos internacionais de que o Governo brasileiro seja parte, ratifique ou venha a aderir.

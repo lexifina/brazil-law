@@ -1,0 +1,1 @@
+Art. 6º O refugiado terá direito, nos termos da Convenção sobre o Estatuto dos Refugiados de 1951, a cédula de identidade comprobatória de sua condição jurídica, carteira de trabalho e documento de viagem.

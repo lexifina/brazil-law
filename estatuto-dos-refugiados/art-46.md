@@ -1,0 +1,1 @@
+Art. 46. O reassentamento de refugiados no Brasil se efetuará de forma planificada e com a participação coordenada dos órgãos estatais e, quando possível, de organizações não-governamentais, identificando áreas de cooperação e de determinação de responsabilidades.

@@ -1,0 +1,1 @@
+Art. 41. A decisão do Ministro de Estado da Justiça é irrecorrível e deverá ser notificada ao CONARE, que a informará ao estrangeiro e ao Departamento de Polícia Federal, para as providências cabíveis.
