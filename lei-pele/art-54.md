@@ -1,0 +1,1 @@
+Art. 54. O membro do Tribunal de Justiça Desportiva exerce função considerada de relevante interesse público e, sendo servidor público, terá abonadas suas faltas, computando-se como de efetivo exercício a participação nas respectivas sessões.

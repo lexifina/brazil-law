@@ -1,0 +1,1 @@
+Art. 89. Em campeonatos ou torneios regulares com mais de uma divisão, as entidades de administração do desporto determinarão em seus regulamentos o princípio do acesso e do descenso, observado sempre o critério técnico.

@@ -1,0 +1,2 @@
+Art. 45. As entidades de prática desportiva serão obrigadas a contratar seguro de acidentes pessoais e do trabalho para os atletas profissionais e semiprofissionais a elas vinculados, com o objetivo de cobrir os riscos a que estão sujeitos.
+Parágrafo único. Para os atletas profissionais, o prêmio mínimo de que trata este artigo deverá corresponder à importância total anual da remuneração ajustada, e, para os atletas semiprofissionais, ao total das verbas de incentivos materiais.

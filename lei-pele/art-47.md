@@ -1,0 +1,1 @@
+Art. 47. No âmbito de suas atribuições, os Comitês Olímpico e Paraolímpico Brasileiros e as entidades nacionais de administração do desporto têm competência para decidir, de ofício ou quando lhes forem submetidas pelos seus filiados, as questões relativas ao cumprimento das normas e regras de prática desportiva.

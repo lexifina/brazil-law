@@ -1,0 +1,1 @@
+Art. 21. As entidades de prática desportiva poderão filiar-se, em cada modalidade, à entidade de administração do desporto do Sistema Nacional do Desporto, bem como à correspondente entidade de administração do desporto de um dos sistemas regionais.

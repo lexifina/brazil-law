@@ -1,0 +1,1 @@
+Art. 64. O Poder Público negará a autorização se não provados quaisquer dos requisitos dos artigos anteriores ou houver indícios de inidoneidade da entidade desportiva, da empresa comercial ou de seus dirigentes, podendo ainda cassar a autorização se verificar terem deixado de ser preenchidos os mesmos requisitos.

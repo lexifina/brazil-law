@@ -1,0 +1,1 @@
+Art. 10. Os recursos financeiros correspondentes às destinações previstas no inciso III do art. 8º e no art. 9º, constituem receitas próprias dos beneficiários que lhes serão entregues diretamente pela Caixa Econômica Federal - CEF, até o décimo dia útil do mês subseqüente ao da ocorrência do fato gerador.

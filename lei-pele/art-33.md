@@ -1,0 +1,1 @@
+Art. 33. Independentemente de qualquer outro procedimento, entidade nacional de administração do desporto fornecerá condição de jogo ao atleta para outra entidade de prática, nacional ou internacional, mediante a prova da notificação do pedido de rescisão unilateral firmado pelo atleta ou por documento do empregador no mesmo sentido.

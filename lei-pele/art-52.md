@@ -1,0 +1,3 @@
+Art. 52. Aos Tribunais de Justiça Desportiva, unidades autônomas e independentes das entidades de administração do desporto de cada sistema, compete processar e julgar, em última instância, as questões de descumprimento de normas relativas à disciplina e às competições desportivas, sempre assegurados a ampla defesa e o contraditório.
+§ 1º Sem prejuízo do disposto neste artigo, as decisões finais dos Tribunais de Justiça Desportiva são impugnáveis nos termos gerais do direito, respeitados os pressupostos processuais estabelecidos nos §§ 1º e 2º do art. 217 da Constituição Federal.
+§ 2º O recurso ao Poder Judiciário não prejudicará os efeitos desportivos validamente produzidos em conseqüência da decisão proferida pelos Tribunais de Justiça Desportiva.

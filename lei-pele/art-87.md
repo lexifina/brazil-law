@@ -1,0 +1,2 @@
+Art. 87. A denominação e os símbolos de entidade de administração do desporto ou prática desportiva, bem como o nome ou apelido desportivo do atleta profissional, são de propriedade exclusiva dos mesmos, contando com a proteção legal, válida para todo o território nacional, por tempo indeterminado, sem necessidade de registro ou averbação no órgão competente.
+Parágrafo único. A garantia legal outorgada às entidades e aos atletas referidos neste artigo permite-lhes o uso comercial de sua denominação, símbolos, nomes e apelidos.
