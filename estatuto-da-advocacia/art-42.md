@@ -1,0 +1,1 @@
+Art. 42. Fica impedido de exercer o mandato o profissional a quem forem aplicadas as sanções disciplinares de suspensão ou exclusão.

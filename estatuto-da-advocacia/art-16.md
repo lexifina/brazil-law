@@ -1,0 +1,4 @@
+Art. 16. Não são admitidas a registro, nem podem funcionar, as sociedades de advogados que apresentem forma ou características mercantis, que adotem denominação de fantasia, que realizem atividades estranhas à advocacia, que incluam sócio não inscrito como advogado ou totalmente proibido de advogar.
+§ 1º A razão social deve ter, obrigatoriamente, o nome de, pelo menos, um advogado responsável pela sociedade, podendo permanecer o de sócio falecido, desde que prevista tal possibilidade no ato constitutivo.
+§ 2º O licenciamento do sócio para exercer atividade incompatível com a advocacia em caráter temporário deve ser averbado no registro da sociedade, não alterando sua constituição.
+§ 3º É proibido o registro, nos cartórios de registro civil de pessoas jurídicas e nas juntas comerciais, de sociedade que inclua, entre outras finalidades, a atividade de advocacia.

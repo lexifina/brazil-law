@@ -1,0 +1,1 @@
+Art. 27. A incompatibilidade determina a proibição total, e o impedimento, a proibição parcial do exercício da advocacia.
