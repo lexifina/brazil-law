@@ -1,0 +1,1 @@
+Art. 390-B. As vagas dos cursos de formação de mão-de-obra, ministrados por instituições governamentais, pelos próprios empregadores ou por qualquer órgão de ensino profissionalizante, serão oferecidas aos empregados de ambos os sexos.
