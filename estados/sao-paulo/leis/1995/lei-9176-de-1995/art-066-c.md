@@ -1,0 +1,1 @@
+Artigo 66-C - A sujeição passiva por substituição não exclui a responsabilidade supletiva do contribuinte pela liquidação total do crédito tributário, observado o procedimento estabelecido em regulamento, sem prejuízo da penalidade cabível por falta de pagamento do imposto.

@@ -1,0 +1,1 @@
+Artigo 66-E - Em relação ao imposto devido por substituição tributária, aproveita ao responsável tributário o regime jurídico aplicável ao substituído, no que concerne a isenções, alíquota e base de cálculo.
