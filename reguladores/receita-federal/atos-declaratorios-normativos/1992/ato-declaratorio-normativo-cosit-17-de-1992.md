@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 17, de 28 de setembro de 1992
+.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO - COSIT, no uso das atribuições que lhe confere o inciso III, do art. 147, do Regimento Interno aprovada pela Portaria MEFP nº 606, de 03 de setembro de 1992, declara:
+em caráter normativo, às Superintendências da Receita Federal e aos demais interessados, que o artigo 4º do Decreto nº 329, de 1º de novembro de 1991, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF, incidente sobre as aplicações financeiras de que trata o art. 18 da Lei nº 8.088, de 31 de outubro de 1990, disciplina a contagem de prazo para efeito de cálculo do imposto sobre operações com títulos e valores mobiliários.
+Nas operações de crédito, inclusive as denominadas “hot money”, a contagem de prazo (feita de forma contínua), deve obedecer a disciplina prevista no item 4.4.14.3, da Resolução nº 1301/87, do Banco Central do Brasil, que regulamentou o IOF.
