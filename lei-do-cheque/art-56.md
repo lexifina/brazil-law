@@ -1,0 +1,1 @@
+Art. 56 Excetuado o cheque ao portador, qualquer cheque emitido em um país e pagável em outro pode ser feito em vários exemplares idênticos, que devem ser numerados no próprio texto do título, sob pena de cada exemplar ser considerado cheque distinto.

@@ -1,0 +1,2 @@
+Art. 39 O sacado que paga cheque ''à ordem'' é obrigado a verificar a regularidade da série de endossos, mas não a autenticidade das assinaturas dos endossantes. A mesma obrigação incumbe ao banco apresentante do cheque a câmara de compensação.
+Parágrafo único. Ressalvada a responsabilidade do apresentante, no caso da parte final deste artigo, o banco sacado responde pelo pagamento do cheque falso, falsificado ou alterado, salvo dolo ou culpa do correntista, do endossante ou do beneficiário, dos quais poderá o sacado, no todo ou em parte, reaver a que pagou.

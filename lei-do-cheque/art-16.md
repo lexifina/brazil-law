@@ -1,0 +1,1 @@
+Art. 16 Se o cheque, incompleto no ato da emissão, for completado com inobservância do convencionado com a emitente, tal fato não pode ser oposto ao portador, a não ser que este tenha adquirido a cheque de má-fé.

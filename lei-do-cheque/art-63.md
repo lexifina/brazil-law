@@ -1,0 +1,1 @@
+Art. 63 Os conflitos de leis em matéria de cheques serão resolvidos de acordo com as normas constantes das Convenções aprovadas, promulgadas e mandadas aplicar no Brasil, na forma prevista pela Constituição Federal.

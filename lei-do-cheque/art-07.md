@@ -1,0 +1,3 @@
+Art. 7º Pode o sacado, a pedido do emitente ou do portador legitimado, lançar e assinar, no verso do cheque não ao portador e ainda não endossado, visto, certificação ou outra declaração equivalente, datada e por quantia igual à indicada no título.
+§ 1º A aposição de visto, certificação ou outra declaração equivalente obriga o sacado a debitar à conta do emitente a quantia indicada no cheque e a reservá-la em benefício do portador legitimado, durante o prazo de apresentação, sem que fiquem exonerados o emitente, endossantes e demais coobrigados.
+§ 2º - O sacado creditará à conta do emitente a quantia reservada, uma vez vencido o prazo de apresentação; e, antes disso, se o cheque lhe for entregue para inutilização.
