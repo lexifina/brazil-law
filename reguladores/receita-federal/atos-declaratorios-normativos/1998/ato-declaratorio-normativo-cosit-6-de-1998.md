@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 6, de 12 de junho de 1998
+Dispõe sobre a vedação às importações das pessoas jurídicas optantes pelo Sistema Integrado de Pagamento de Impostos e Contribuições - SIMPLES.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o art. 147 inciso III, do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria do Ministro da Fazenda No 606, de 3 de setembro de 1992, e tendo em vista o disposto no art. 9o, inciso XII, alínea "a" e no art. 13, inciso II, alínea "a", ambos da Lei 9.317, de 05 de dezembro de 1996,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados que a exclusão do SIMPLES decorrente da importação de produtos estrangeiros somente será efetivada, mediante comunicação da pessoa jurídica ou de ofício, quando a importação se referir a produtos destinados à comercialização.
+CARLOS ALBERTO DE NIZA E CASTRO
