@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 123, de 11 de outubro de 1999
+Dispõe sobre o imposto de renda incidente nos rendimentos e ganhos líquidos auferidos em operações de renda fixa e de renda variável.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista o disposto nos arts. 65 a 82 da Lei No 8.981, de 20 de janeiro de 1995, na Lei No 9.065, de 20 de junho de 1995, no art. 12 da Lei No 9.249, de 26 de dezembro de 1995, no art. 3o, § 3o da Lei No 9.317, de 05 de dezembro de 1996, nos arts. 25, inciso II, 27, inciso II, 51, 57, 69 e 71 da Lei No 9.430, de 27 de dezembro de 1996, nos arts. 28 a 36 da Lei No 9.532, de 10 de dezembro de 1997, nos arts. 1o a 5o da Lei No 9.779, de 19 de janeiro de 1999, e nos arts. 1o, 2o e 6o da Medida Provisória No 1.855, resolve:
+Seção I - Aplicação em Fundos de Investimento
