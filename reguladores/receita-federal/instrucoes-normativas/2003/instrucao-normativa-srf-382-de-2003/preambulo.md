@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 382, de 30 de dezembro de 2003
+Altera a Instrução Normativa SRF nº 243, de 2002, que dispõe sobre preços de transferência.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto nos arts. 18 a 24 e 28 da Lei nº 9.430, de 27 de dezembro de 1996, no art. 2º da Lei nº 9.959, de 27 de janeiro de 2000, nos arts. 3º e 4º da Lei nº 10.451, de 10 de maio de 2002, no art. 45 da Lei nº 10.637 de 30 de dezembro de 2002, no art. 45 da Lei nº 10.833, de 29 de dezembro de 2003, e na Portaria MF nº 95, de 30 de abril de 1997, resolve:
