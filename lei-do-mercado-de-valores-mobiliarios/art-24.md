@@ -1,0 +1,2 @@
+Art. 24. Compete à Comissão autorizar a atividade de custódia de valores mobiliários, cujo exercício será privativo das instituições financeiras e das bolsas de valores.
+Parágrafo único. Considera-se custódia de valores mobiliários o depósito para guarda, recebimento de dividendos e bonificações, resgate, amortização ou reembolso, e exercício de direitos de subscrição, sem que o depositário, tenha poderes, salvo autorização expressa do depositante em cada caso, para alienar os valores mobiliários depositados ou reaplicar as importâncias recebidas.
