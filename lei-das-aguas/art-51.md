@@ -1,0 +1,1 @@
+Art. 51. Os consórcios e associações intermunicipais de bacias hidrográficas mencionados no art. 47 poderão receber delegação do Conselho Nacional ou dos Conselhos Estaduais de Recursos Hídricos, por prazo determinado, para o exercício de funções de competência das Agências de Água, enquanto esses organismos não estiverem constituídos.
