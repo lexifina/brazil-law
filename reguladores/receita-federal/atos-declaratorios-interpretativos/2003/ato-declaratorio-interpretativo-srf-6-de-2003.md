@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo SRF nº 6, de 3 de abril de 2003
+Dispõe sobre a não-incidência da Contribuição de Intervenção no Domínio Econômico, instituída pela Lei nº 10.336, de 19 de dezembro de 2001, sobre operações com butano de pureza igual ou superior a 95% em n-butano ou isobutano.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, tendo em vista o disposto no inciso V do art. 3º da Lei nº 10.336, de 19 de dezembro de 2001, e considerando as Notas Explicativas do Sistema Harmonizado de Designação e de Codificação de Mercadorias, declara:
+Art. 1º O butano de pureza igual ou superior a 95% em n-butano ou isobutano classifica-se na Posição 29.01, da Nomenclatura Comum do Mercosul, e não como Gás Liquefeito de Petróleo classificado na Posição 27.11, da referida nomenclatura.
+Art. 2º A operação de importação ou de comercialização do butano, com a pureza especificada no art. 1º, não está sujeita à incidência da Contribuição de Intervenção no Domínio Econômico instituída pela Lei nº 10.336, de 2001.
