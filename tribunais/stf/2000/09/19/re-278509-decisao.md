@@ -1,0 +1,9 @@
+MEMBRO DO MINISTÉRIO PÚBLICO.
+VENCIMENTOS. DIFERENÇA NÃO SUPERIOR
+A 10% ENTRE AS ENTRÂNCIAS.
+D E S P A C H O
+Manifeste-se a PGR.
+Publique-se.
+Brasília, 19 de setembro de 2000.
+Ministro NELSON JOBIM
+Relator
