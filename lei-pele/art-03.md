@@ -4,6 +4,6 @@ II - desporto de participação, de modo voluntário, compreendendo as modalidad
 III - desporto de rendimento, praticado segundo normas gerais desta Lei e regras de prática desportiva, nacionais e internacionais, com a finalidade de obter resultados e integrar pessoas e comunidades do País e estas com as de outras nações.
 Parágrafo único O desporto de rendimento pode ser organizado e praticado:
 I - de modo profissional, caracterizado pela remuneração pactuada em contrato formal de trabalho entre o atleta e a entidade de prática desportiva;
-II - de modo não-profissional, compreendendo o desporto:
-a) semiprofissional, expresso em contrato próprio e específico de estágio, com atletas entre quatorze e dezoito anos de idade e pela existência de incentivos materiais que não caracterizem remuneração derivada de contrato de trabalho;
-b) amador, identificado pela liberdade de prática e pela inexistência de qualquer forma de remuneração ou de incentivos materiais para atletas de qualquer idade.
+II - de modo não-profissional, identificado pela liberdade de prática e pela inexistência de contrato de trabalho, sendo permitido o recebimento de incentivos materiais e de patrocínio.
+a) (revogada);
+b) (revogada).

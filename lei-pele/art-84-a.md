@@ -1,0 +1,2 @@
+Art. 84-A. Todos os jogos das seleções brasileiras de futebol, em competições oficiais, deverão ser exibidos, pelo menos, em uma rede nacional de televisão aberta, com transmissão ao vivo, inclusive para as cidades brasileiras nas quais os mesmos estejam sendo realizados.
+Parágrafo único. As empresas de televisão de comum acordo, ou por rodízio, ou por arbitramento, resolverão como cumprir o disposto neste artigo, caso nenhuma delas se interesse pela transmissão. O órgão competente fará o arbitramento.

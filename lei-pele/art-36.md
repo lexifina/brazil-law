@@ -1,6 +1,0 @@
-Art. 36. A atividade do atleta semiprofissional é caracterizada pela existência de incentivos materiais que não caracterizem remuneração derivada de contrato de trabalho, pactuado em contrato formal de estágio firmado com entidade de prática desportiva, pessoa jurídica de direito privado, que deverá conter, obrigatoriamente, cláusula penal para as hipóteses de descumprimento, rompimento ou rescisão unilateral.
-§ 1º Estão compreendidos na categoria dos semiprofissionais os atletas com idade entre quatorze e dezoito anos completos.
-§ 2º Só poderão participar de competição entre profissionais os atletas semiprofissionais com idade superior a dezesseis anos.
-§ 3º Ao completar dezoito anos de idade, o atleta semiprofissional deverá ser obrigatoriamente profissionalizado, sob pena de, não o fazendo, voltar à condição de amador, ficando impedido de participar em competições entre profissionais.
-§ 4º A entidade de prática detentora do primeiro contrato de trabalho do atleta por ela profissionalizado terá direito de preferência para a primeira renovação deste contrato, sendo facultada a cessão deste direito a terceiros, de forma remunerada ou não.
-§ 5º Do disposto neste artigo estão excluídos os desportos individuais e coletivos olímpicos, exceto o futebol de campo.
