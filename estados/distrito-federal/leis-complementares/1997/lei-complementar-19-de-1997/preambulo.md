@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº 19, DE 22 DE JULHO DE 1997
+Altera a destinação do Lote "P" da QE 07 do Setor Residencial, Indústria e Abastecimento da Região Administrativa X - Guará.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
