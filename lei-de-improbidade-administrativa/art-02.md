@@ -1,0 +1,1 @@
+Art. 2º Reputa-se agente público, para os efeitos desta lei, todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função nas entidades mencionadas no artigo anterior.

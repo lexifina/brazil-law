@@ -1,0 +1,1 @@
+Art. 3º As disposições desta lei são aplicáveis, no que couber, àquele que, mesmo não sendo agente público, induza ou concorra para a prática do ato de improbidade ou dele se beneficie sob qualquer forma direta ou indireta.
