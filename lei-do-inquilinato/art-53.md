@@ -1,0 +1,3 @@
+Art. 53. Nas locações de imóveis utilizados por hospitais, unidades sanitárias oficiais, asilos, bem como de estabelecimento de saúde e de ensino autorizados e fiscalizados pelo Poder Público, o contrato somente poderá ser rescindido:
+I - nas hipóteses do art. 9º;
+II - se o proprietário, promissário comprador ou promissário cessionário, em caráter irrevogável e imitido na posse, com título registrado, que haja quitado o preço da promessa ou que, não o tendo feito, seja autorizado pelo proprietário, pedir o imóvel para demolição, edificação, licenciada ou reforma que venha a resultar em aumento mínimo de cinqüenta por cento da área útil.

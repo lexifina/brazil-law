@@ -1,0 +1,1 @@
+Art. 75. Na hipótese do inciso III do art. 72, a sentença fixará desde logo a indenização devida ao locatário em conseqüência da não prorrogação da locação, solidariamente devida pelo locador e o proponente.
