@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 373, de 22 de dezembro de 2003
+Estabelece normas para a tributação dos cigarros classificados no código 2402.20.00 da Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no Decreto nº 4.544, de 26 de dezembro de 2002, Regulamento do Imposto sobre Produtos Industrializados (RIPI) e no Decreto nº 4.924, de 19 de dezembro de 2003, resolve:
