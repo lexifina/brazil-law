@@ -1,0 +1,1 @@
+Art. 4º - O Conselho Nacional poderá alterar, até 50% (cinqüenta por cento), para mais ou para menos, os percentuais de contribuição de que trata o § 2º do art. 3º, tendo em vista a proporcionalidade das contribuições.

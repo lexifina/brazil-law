@@ -1,0 +1,3 @@
+Art. 1º - É instituído, na forma prevista nesta Lei, o Programa de Integração Social, destinado a promover a integração do empregado na vida e no desenvolvimento das empresas.
+§ 1º - Para os fins desta Lei, entende-se por empresa a pessoa jurídica, nos termos da legislação do Imposto de Renda, e por empregado todo aquele assim definido pela Legislação Trabalhista.
+§ 2º - A participação dos trabalhadores avulsos, assim definidos os que prestam serviços a diversas empresas, sem relação empregatícia, no Programa de Integração Social, far-se-á nos termos do Regulamento a ser baixado, de acordo com o art. 11 desta Lei.
