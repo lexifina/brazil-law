@@ -1,0 +1,1 @@
+Despacho: “Além do impedimento legal do subscritor da petição de folhas 2 a 163, para propor ação contra a administração federal, desde que é Procurador de empresa pública, a sua exposição não oferece condições de compreensão e de efeitos jurídicos. Ante o exposto determino o seu arquivamento. Brasília, 27 de abril de 1976 – Djaci Falcão, Ministro Presidente”.
