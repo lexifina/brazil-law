@@ -1,0 +1,2 @@
+Art. 25. Ressalvado o disposto no § 3º do art. 22, poderá haver assembléias gerais extraordinárias, convocadas pelo síndico ou por condôminos que representem um quarto, no mínimo do condomínio, sempre que o exigirem os interêsses gerais.
+Parágrafo único. Salvo estipulação diversa da Convenção, esta só poderá ser modificada em assembléia geral extraordinária, pelo voto mínimo de condôminos que representem 2/3 do total das frações ideais.

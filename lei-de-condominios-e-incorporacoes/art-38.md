@@ -1,0 +1,1 @@
+Art. 38. Também constará, obrigatòriamente, dos documentos de ajuste, se fôr o caso, o fato de encontrar-se ocupado o imóvel, esclarecendo-se a que título se deve esta ocupação e quais as condições de desocupação.

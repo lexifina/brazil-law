@@ -1,0 +1,3 @@
+Art. 62. Em tôda publicidade ou propaganda escrita destinada a promover a venda de incorporação com construção pelo regime de administração em que conste preço, serão discriminados explìcitamente o preço da fração ideal de terreno e o montante do orçamento atualizado do custo da construção, na forma dos artigos 59 e 60, com a indicação do mês a que se refere o dito orçamento e do tipo padronizado a que se vincule o mesmo.
+§ 1º As mesmas indicações deverão constar em todos os papéis utilizados para a realização da incorporação, tais como cartas, propostas, escrituras, contratos e documentos semelhantes.
+§ 2º Esta exigência será dispensada nos anúncios "classificados" dos jornais.

@@ -1,0 +1,1 @@
+Art. 33. O registro da incorporação será válido pelo prazo de 120 dias, findo o qual, se ela ainda não se houver concretizado, o incorporador só poderá negociar unidades depois de atualizar a documentação a que se refere o artigo anterior, revalidando o registro por igual prazo.

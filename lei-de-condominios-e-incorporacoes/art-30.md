@@ -1,0 +1,1 @@
+Art. 30. Estende-se a condição de incorporador aos proprietários e titulares de direitos aquisitivos que contratem a construção de edifícios que se destinem a constituição em condomínio, sempre que iniciarem as alienações antes da conclusão das obras.

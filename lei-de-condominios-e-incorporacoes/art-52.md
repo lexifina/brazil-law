@@ -1,0 +1,1 @@
+Art. 52. Cada contratante da construção só será imitido na posse de sua unidade se estiver em dia com as obrigações assumidas, inclusive as relativas à construção exercendo o construtor e o condomínio até então, o direito de retenção sôbre a respectiva unidade; no caso do art. 43, êste direito será exercido pelo incorporador.

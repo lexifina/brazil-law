@@ -1,0 +1,1 @@
+Art. 42. No caso de rescisão do contrato relativo à fração ideal de terreno e partes comuns, a pessoa em cujo favor se tenha operado a resolução sub-rogar-se-á nos direitos e obrigações contratualmente atribuídos ao inadimplente, com relação a construção.
