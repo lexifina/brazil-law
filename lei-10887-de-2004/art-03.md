@@ -1,0 +1,1 @@
+Art. 3º Para os fins do disposto no inciso XI do art. 37 da Constituição Federa l, a União, os Estados, o Distrito Federal e os Municípios instituirão sistema integrado de dados relativos às remunerações, proventos e pensões pagos aos respectivos servidores e militares, ativos e inativos, e pensionistas, na forma do regulamento.

@@ -1,0 +1,2 @@
+Art. 14. O art. 12 da Lei nº 10.666, de 8 de maio de 2003, passa a vigorar com a seguinte redação:
+"Art. 12. Para fins de compensação financeira entre o regime geral de previdência social e os regimes próprios de previdência social dos servidores da União, dos Estados, do Distrito Federal e dos Municípios, os regimes instituidores apresentarão aos regimes de origem até o mês de maio de 2007 os dados relativos aos benefícios em manutenção em 5 de maio de 1999 concedidos a partir da promulgação da Constituição Federal." (NR)

@@ -1,0 +1,3 @@
+Art. 16. As contribuições a que se referem os arts. 4º, 5º e 6º desta Lei serão exigíveis a partir de 20 de maio de 2004.
+§ 1º Decorrido o prazo estabelecido no caput deste artigo, os servidores abrangidos pela isenção de contribuição referida no § 1º do art. 3º e no § 5º do art. 8º da Emenda Constitucional nº 20, de 15 de dezembro de 1998, passarão a recolher contribuição previdenciária correspondente, fazendo jus ao abono a que se refere o art. 7º desta Lei.
+§ 2º A contribuição de que trata o art. 1º da Lei nº 9.783, de 28 de janeiro de 1999, fica mantida até o início do recolhimento da contribuição a que se refere o caput deste artigo, para os servidores ativos.
