@@ -1,0 +1,1 @@
+Art. 12. O projeto de loteamento e desmembramento deverá ser aprovado pela Prefeitura Municipal, ou pelo Distrito Federal quando for o caso, a quem compete também a fixação das diretrizes a que aludem os arts. 6º e 7º desta Lei, salvo a exceção prevista no artigo seguinte.

@@ -1,0 +1,1 @@
+Art. 44. O Município, o Distrito Federal e o Estado poderão expropriar áreas urbanas ou de expansão urbana para reloteamento, demolição, reconstrução e incorporação, ressalvada a preferência dos expropriados para a aquisição de novas unidades.

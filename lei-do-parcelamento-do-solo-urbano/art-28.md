@@ -1,0 +1,1 @@
+Art. 28. Qualquer alteração ou cancelamento parcial do loteamento registrado dependerá de acordo entre o loteador e os adquirentes de lotes atingidos pela alteração, bem como da aprovação pela Prefeitura Municipal, ou do Distrito Federal quando for o caso, devendo ser depositada no Registro de Imóveis, em complemento ao projeto original com a devida averbação.
