@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 278, DE 13 DE JANEIRO DE 2000
+(Autores do Projeto: Vários Deputados)
+Dispõe sobre o pagamento parcelado de tributos no caso que especifica.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI.
