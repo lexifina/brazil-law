@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 293, de 3 de fevereiro de 2003
+Dispõe sobre a aquisição de automóveis com isenção do Imposto sobre Produtos Industrializados (IPI), por pessoas portadoras de deficiência física e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal (SRF), aprovado pela Portaria MF no 259, de 24 de agosto de 2001, e tendo em vista o que dispõem as Leis nº 8.989, de 24 de fevereiro de 1995, e nº 10.182, de 12 de fevereiro de 2001, e o art. 2º da Medida Provisória nº 94, de 26 de dezembro de 2002, resolve:
