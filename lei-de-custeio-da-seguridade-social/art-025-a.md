@@ -1,0 +1,5 @@
+Art. 25A. Equipara-se ao empregador rural pessoa física o consórcio simplificado de produtores rurais, formado pela união de produtores rurais pessoas físicas, que outorgar a um deles poderes para contratar, gerir e demitir trabalhadores para prestação de serviços, exclusivamente, aos seus integrantes, mediante documento registrado em cartório de títulos e documentos.
+§ 1º O documento de que trata o caput deverá conter a identificação de cada produtor, seu endereço pessoal e o de sua propriedade rural, bem como o respectivo registro no Instituto Nacional de Colonização e Reforma Agrária - INCRA ou informações relativas a parceria, arrendamento ou equivalente e a matrícula no Instituto Nacional do Seguro Social - INSS de cada um dos produtores rurais.
+§ 2º O consórcio deverá ser matriculado no INSS em nome do empregador a quem hajam sido outorgados os poderes, na forma do regulamento.
+§ 3º Os produtores rurais integrantes do consórcio de que trata o caput serão responsáveis solidários em relação às obrigações previdenciárias.
+§ 4º (VETADO).
