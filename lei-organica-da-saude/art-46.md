@@ -1,0 +1,1 @@
+Art. 46º Sistema Único de Saúde (SUS), estabelecerá mecanismos de incentivos à participação do setor privado no investimento em ciência e tecnologia e estimulará a transferência de tecnologia das universidades e institutos de pesquisa aos serviços de saúde nos Estados, Distrito Federal e Municípios, e às empresas nacionais.
