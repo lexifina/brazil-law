@@ -1,9 +1,9 @@
-Art. 74. O sujeito passivo que apurar crédito relativo a tributo ou contribuição administrado pela Secretaria da Receita Federal, passível de restituição ou de ressarcimento, poderá utilizá-lo na compensação de débitos próprios relativos a quaisquer tributos e contribuições administrados por aquele Órgão.
+Art. 74. O sujeito passivo que apurar crédito, inclusive os judiciais com trânsito em julgado, relativo a tributo ou contribuição administrado pela Secretaria da Receita Federal, passível de restituição ou de ressarcimento, poderá utilizá-lo na compensação de débitos próprios relativos a quaisquer tributos e contribuições administrados por aquele Órgão.
 § 1º A compensação de que trata o caput será efetuada mediante a entrega, pela sujeito passivo, de declaração na qual constarão informações relativas aos créditos utilizados e aos respectivos débitos compensados.
 § 2º A compensação declarada à Secretaria da Receita Federal extingue o crédito tributário, sob condição resolutória de sua ulterior homologação.
 § 3º Além das hipóteses previstas nas leis específicas de cada tributo ou contribuição, não poderão ser objeto de compensação:
-a) o saldo a restituir apurado na Declaração de Ajuste Anual do Imposto de Renda da Pessoa Física;
-b) os débitos relativos a tributos e contribuições devidos no registro da Declaração de Importação.
+I - o saldo a restituir apurado na Declaração de Ajuste Anual do Imposto de Renda da Pessoa Física;
+II - os débitos relativos a tributos e contribuições devidos no registro da Declaração de Importação.
 VII - os débitos relativos a tributos e contribuições de valores originais inferiores a R$ 500,00 (quinhentos reais);
 VIII - os débitos relativos ao recolhimento mensal obrigatório da pessoa física apurados na forma do art. 8º da Lei nº 7.713, de 1988; e
 IX - os débitos relativos ao pagamento mensal por estimativa do Imposto sobre a Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL apurados na forma do art. 2º.
