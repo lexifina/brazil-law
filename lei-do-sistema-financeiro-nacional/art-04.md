@@ -39,7 +39,7 @@ XXIII - Fixar, até quinze (15) vezes a soma do capital realizado e reservas liv
 XXIV - Decidir de sua própria organização; elaborando seu regimento interno no prazo máximo de trinta (30) dias;
 XXV - Decidir da estrutura técnica e administrativa do Banco Central da República do Brasil e fixar seu quadro de pessoal, bem como estabelecer os vencimentos e vantagens de seus funcionários, servidores e diretores, cabendo ao Presidente deste apresentar as respectivas propostas;
 XXVI - Conhecer dos recursos de decisões do Banco Central da República do Brasil;
-XXVII - Aprovar o regimento interno e as contas do Banco Central da República do Brasil, sem prejuízo da competência do Tribunal de Contas da União;
+XXVII - aprovar o regimento interno e as contas do Banco Central do Brasil e decidir sobre seu orçamento e sobre seus sistemas de contabilidade, bem como sobre a forma e prazo de transferência de seus resultados para o Tesouro Nacional, sem prejuízo da competência do Tribunal de Contas da União.
 XXVIII - Aplicar aos bancos estrangeiros que funcionem no País as mesmas vedações ou restrições equivalentes, que vigorem nas praças de suas matrizes, em relação a bancos brasileiros ali instalados ou que nelas desejem estabelecer - se;
 XXIX - Colaborar com o Senado Federal, na instrução dos processos de empréstimos externos dos Estados, do Distrito Federal e dos Municípios, para cumprimento do disposto no art. 63, nº II, da Constituição Federal;
 XXX - Expedir normas e regulamentação para as designações e demais efeitos do art. 7º, desta lei.
