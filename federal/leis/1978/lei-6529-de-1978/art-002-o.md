@@ -1,0 +1,1 @@
+Art. 2º - O Município de Santarém obriga-se, sob sua inteira responsabilidade e mediante aprovação do Ministério da Aeronáutica, a elaborar projeto e a executar as obras de urbanização e de infra-estrutura na área remanescente da doação mencionada no artigo 1º desta Lei, que permanece sob a jurisdição daquele Ministério.
