@@ -1,0 +1,1 @@
+Art. 29 - Quando, pela natureza ou gravidade da infração penal, se torne aconselhável o recebimento de denúncia ou de queixa contra magistrado, o Tribunal, ou seu órgão especial, poderá, em decisão tomada pelo voto de dois terços de seus membros, determinar o afastamento do cargo do magistrado denunciado.

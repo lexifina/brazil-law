@@ -1,0 +1,1 @@
+Art. 54 - O processo e o julgamento das representações e reclamações serão sigilosos, para resguardar a dignidade do magistrado, sem prejuízo de poder o relator delegar a instrução a Juiz de posição funcional igual ou superior à do indiciado.

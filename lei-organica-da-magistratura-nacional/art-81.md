@@ -1,0 +1,3 @@
+Art. 81 - Na Magistratura de carreira dos Estados, ao provimento inicial e à promoção por merecimento precederá a remoção.
+§ 1º - A remoção far-se-á mediante escolha pelo Poder Executivo, sempre que possível, de nome constante de lista tríplice, organizada pelo Tribunal de Justiça e contendo os nomes dos candidatos com mais de dois anos de efetivo exercício na entrância.
+§ 2º - A juízo do Tribunal de Justiça, ou de seu órgão especial, poderá, ainda, ser provida, pelo mesmo critério fixado no parágrafo anterior vaga decorrente de remoção, destinando-se a seguinte, obrigatoriamente, ao provimento por promoção.
