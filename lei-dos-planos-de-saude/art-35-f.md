@@ -1,0 +1,1 @@
+Art. 35-F. A assistência a que alude o art. 1º desta Lei compreende todas as ações necessárias à prevenção da doença e à recuperação, manutenção e reabilitação da saúde, observados os termos desta Lei e do contrato firmado entre as partes.
