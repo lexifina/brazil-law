@@ -1,0 +1,2 @@
+Art. 29. É vedado à ANS requisitar pessoal com vínculo empregatício ou contratual junto a entidades sujeitas à sua ação reguladora, bem assim os respectivos responsáveis, ressalvada a participação em comissões de trabalho criadas com fim específico, duração determinada e não integrantes da sua estrutura organizacional.
+Parágrafo único. Excetuam-se da vedação prevista neste artigo os empregados de empresas públicas e sociedades de economia mista que mantenham sistema de assistência à saúde na modalidade de autogestão.

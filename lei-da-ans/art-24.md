@@ -1,0 +1,1 @@
+Art. 24. Os valores cuja cobrança seja atribuída por lei à ANS e apurados administrativamente, não recolhidos no prazo estipulado, serão inscritos em dívida ativa da própria ANS e servirão de título executivo para cobrança judicial na forma da lei.
