@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 379, de 30 de dezembro de 2003
+Dispõe sobre a Declaração de Compensação e o Pedido de Ressarcimento de Créditos da Contribuição para o PIS/Pasep e da Cofins, apurados de acordo com o regime de incidência não-cumulativa.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto nos arts. 1º a 11 da Lei nº 10.637, de 30 de dezembro de 2002, e nos arts. 1º a 16 da Lei nº 10.833, de 29 de dezembro de 2003, resolve:
