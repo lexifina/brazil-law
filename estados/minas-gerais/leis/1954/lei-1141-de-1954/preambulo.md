@@ -1,0 +1,3 @@
+LEI Nº 1 Prorroga a vigência de créditos especiais abertos à Secretaria do Interior.
+
+O Povo do Estado de Minas Gerais, por seus representantes, decretou e eu, em seu nome, sanciono a seguinte lei:
