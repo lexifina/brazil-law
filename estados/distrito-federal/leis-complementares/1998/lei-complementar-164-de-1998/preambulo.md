@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 164, DE 31 DE DEZEMBRO DE 1998
+(Autor do Projeto: Deputado Distrital César Lacerda)
+Amplia o Lote 14 da Praça 02 do Setor Central da Região Administrativa do Gama - RA II.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
