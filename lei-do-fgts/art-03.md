@@ -1,6 +1,12 @@
-Art. 3º O FGTS será regido segundo normas e diretrizes estabelecidas por um Conselho Curador, integrado por três representantes da categoria dos empregadores, além de um representante de cada uma das seguintes entidades: Ministério da Economia, Fazenda e Planejamento; Ministério do Trabalho e da Previdência Social; Ministério da Ação Social; Caixa Econômica Federal e Banco Central do Brasil.
+Art. 3º O FGTS será regido segundo normas e diretrizes estabelecidas por um Conselho Curador, integrado por três representantes da categoria dos trabalhadores e três representantes da categoria dos empregadores, além de um representante de cada órgão e entidade a seguir indicados:
+I - Ministério do Trabalho;
+II - Ministério do Planejamento e Orçamento;
+III - Ministério da Fazenda;
+IV - Ministério da Indústria, do Comércio e do Turismo;
+V - Caixa Econômica Federal;
+VI - Banco Central do Brasil.
 § 1º A Presidência do Conselho Curador será exercida pelo representante do Ministério do Trabalho e da Previdência Social.
-§ 2º Os órgãos oficiais far-se-ão representar, no caso dos Ministérios, pelos Ministros de Estado e, no caso dos demais órgãos, por seus Presidentes, na qualidade de membros titulares, cabendo-lhes indicar seus suplentes ao Presidente do Conselho Curador, que os nomeará.
+§ 2º Os Ministros de Estado e os Presidentes das entidades mencionadas neste artigo serão os membros titulares do Conselho Curador, cabendo, a cada um deles, indicar o seu respectivo suplente ao Presidente do Conselho, que os nomeará.
 § 3º Os representantes dos trabalhadores e dos empregadores e seus respectivos suplentes serão indicados pelas respectivas centrais sindicais e confederações nacionais e nomeados pelo Ministro do Trabalho e da Previdência Social, e terão mandato de 2 (dois) anos, podendo ser reconduzidos uma única vez.
 § 4º O Conselho Curador reunir-se-á ordinariamente, a cada bimestre, por convocação de seu Presidente. Esgotado esse período, não tendo ocorrido convocação, qualquer de seus membros poderá fazê-la, no prazo de 15 (quinze) dias. Havendo necessidade, qualquer membro poderá convocar reunião extraordinária, na forma que vier a ser regulamentada pelo Conselho Curador.
 § 5º As decisões do Conselho serão tomadas com a presença, no mínimo, de 7 (sete) de seus membros, tendo o Presidente voto de qualidade.
