@@ -1,0 +1,2 @@
+Art. 4º - Os diretores, sócios, gerentes, membros de órgãos fiscais ou consultivos, titulares de firma individual ou quaisquer outros dirigentes de empresa responsável por infração do disposto no Art. 1, incisos I e II, estarão sujeitos à pena de detenção de um mês a um ano.
+Parágrafo único. Apurada a infração prevista neste artigo, o Delegado Regional do Trabalho representará, sob pena de responsabilidade, ao Ministério Público, para a instauração da competente ação penal.

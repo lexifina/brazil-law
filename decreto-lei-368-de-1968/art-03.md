@@ -1,0 +1,3 @@
+Art. 3 - A mora contumaz e a infração ao Art. 1º serão apuradas mediante denúncia de empregado da empresa ou entidade sindical da respectiva categoria profissional, pela Delegacia Regional do Trabalho, em processo sumário, assegurada ampla defesa ao interessado.
+§ 1º - Encerrado o processo, o Delegado Regional do Trabalho submeterá ao Ministro do Trabalho e Previdência Social parecer conclusivo para decisão.
+§ 2º - A decisão que concluir pela mora contumaz será comunicada às autoridades fazendárias locais pelo Delegado Regional do Trabalho, sem prejuízo da comunicação que deverá ser feita ao Ministro da Fazenda.

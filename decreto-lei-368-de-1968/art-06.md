@@ -1,0 +1,1 @@
+Art. 6º - Considera-se salário devido, para os efeitos deste Decreto-lei, a retribuição de responsabilidade direta da empresa, inclusive comissões, percentagens, gratificações, diárias para viagens e abonos, quando a sua liquidez e certeza não sofram contestação nem estejam pendentes de decisão judicial.
