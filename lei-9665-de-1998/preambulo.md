@@ -1,0 +1,2 @@
+Autoriza o Poder Executivo a conceder remissão parcial de créditos externos, em consonância com parâmetros estabelecidos nas Atas de Entendimentos originárias do chamado "Clube de Paris" ou em Memorandos de Entendimentos decorrentes de negociações bilaterais, negociar títulos referentes a créditos externos a valor de mercado e receber títulos da dívida do Brasil e de outros países em pagamento e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
