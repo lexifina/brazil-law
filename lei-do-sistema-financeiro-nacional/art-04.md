@@ -1,4 +1,4 @@
-Art. 4º Compete privativamente ao Conselho Monetário Nacional:
+Art. 4º Compete ao Conselho Monetário Nacional, segundo diretrizes estabelecidas pelo Presidente da República: (Vetado)
 I - Autorizar as emissões de papel-moeda (Vetado) as quais ficarão na prévia dependência de autorização legislativa quando se destinarem ao financiamento direto pelo Banco Central da República do Brasil, das operações de crédito com o Tesouro Nacional, nos termos do artigo 49 desta Lei.
 O Conselho Monetário Nacional pode, ainda autorizar o Banco Central da República do Brasil a emitir, anualmente, até o limite de 10% (dez por cento) dos meios de pagamentos existentes a 31 de dezembro do ano anterior, para atender as exigências das atividades produtivas e da circulação da riqueza do País, devendo, porém, solicitar autorização do Poder Legislativo, mediante Mensagem do Presidente da República, para as emissões que, justificadamente, se tornarem necessárias além daquele limite.
 Quando necessidades urgentes e imprevistas para o financiamento dessas atividades o determinarem, pode o Conselho Monetário Nacional autorizar as emissões que se fizerem indispensáveis, solicitando imediatamente, através de Mensagem do Presidente da República, homologação do Poder Legislativo para as emissões assim realizadas:
@@ -23,6 +23,9 @@ XII - Expedir normas gerais de contabilidade e estatística a serem observadas p
 XIII - Delimitar, com periodicidade não inferior a dois anos o capital mínimo das instituições financeiras privadas, levando em conta sua natureza, bem como a localização de suas sedes e agências ou filiais;
 XIV - Determinar recolhimento de até 35% (trinta e cinco por cento) do total dos depósitos das instituições financeiras, seja na forma de subscrição de letras ou obrigações do Tesouro Nacional ou compra de títulos da Dívida Pública Federal seja através de recolhimento em espécie em ambos os casos entregues ao Banco Central do Brasil, na forma e condições que o Conselho Monetário Nacional determinar, podendo êste:
 a) adotar percentagens diferentes em função
+das regiões geo-econômicas;
+das prioridades que atribuir às aplicações;
+da natureza das instituições financeiras;
 b) determinar percentuais que não serão recolhidos, desde que tenham sido reaplicados em financiamentos à agricultura, sob juros favorecidos e outras condições fixadas pelo Conselho Monetário Nacional.
 XV - Estabelecer para as instituições financeiras públicas, a dedução dos depósitos de pessoas jurídicas de direito público que lhes detenham o controle acionário, bem como dos das respectivas autarquias e sociedades de economia mista, no cálculo a que se refere o inciso anterior;
 XVI - Enviar obrigatoriamente ao Congresso Nacional, até o último dia do mês subsequente, relatório e mapas demonstrativos da aplicação dos recolhimentos compulsórios, (Vetado).
