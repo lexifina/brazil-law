@@ -1,0 +1,1 @@
+Revoga o § 3º do artigo 899, o artigo 902 e seus parágrafos, e modifica a redação da alínea "f" do inciso I do artigo 702, da alínea "b" do artigo 894, da alínea "a" do artigo 896, da Consolidação das Leis do Trabalho, bem como do artigo 9º da Lei nº 5.584, de 26 de junho de 1970.
