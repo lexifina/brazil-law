@@ -1,0 +1,1 @@
+Art. 29. Fica criado, dentro do limite quantitativo do Quadro Efetivo da ANATEL, ANEEL, ANP e ANS, Quadro de Pessoal Específico a que se refere o art. 19, composto por servidores que tenham sido redistribuídos para as Agências até a data da promulgação desta Lei.

@@ -1,0 +1,1 @@
+Art. 25. Os Quadros de Pessoal Efetivo e os quantitativos de Cargos Comissionados da Agência Nacional de Energia Elétrica - ANEEL, da Agência Nacional de Telecomunicações - ANATEL, da Agência Nacional do Petróleo - ANP, da Agência Nacional de Vigilância Sanitária - ANVS e da Agência Nacional de Saúde Suplementar - ANS são os constantes do Anexo I desta Lei.
