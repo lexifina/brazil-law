@@ -1,0 +1,15 @@
+Art. 30-A - A critério do incorporador, a incorporação poderá ser submetida ao regime da afetação, pelo qual o terreno e as acessões objeto de incorporação imobiliária, bem como os demais bens e direitos a ela vinculados, manter-se-ão apartados do patrimônio do incorporador e constituirão patrimônio de afetação, destinado à consecução da incorporação correspondente e à entrega das unidades imobiliárias aos respectivos adquirentes.
+§ 1º O patrimônio de afetação não se comunica com os demais bens, direitos e obrigações do patrimônio geral do incorporador ou de outros patrimônios de afetação por ele constituídos e só responde por dívidas e obrigações vinculadas à incorporação respectiva.
+§ 2º O incorporador responde pelos prejuízos que causar ao patrimônio de afetação.
+§ 3º Os bens e direitos integrantes do patrimônio de afetação somente poderão ser objeto de garantia real em operação de crédito cujo produto seja integralmente destinado à consecução da edificação correspondente e à entrega das unidades imobiliárias aos respectivos adquirentes.
+§ 4º No caso de cessão, plena ou fiduciária, de direitos creditórios oriundos da comercialização das unidades imobiliárias componentes da incorporação, o produto da cessão também passará a integrar o patrimônio de afetação, observado o disposto no § 6º.
+§ 5º As quotas de construção correspondentes a acessões vinculadas a frações ideais serão pagas pelo incorporador até que a responsabilidade pela sua construção tenha sido assumida por terceiros, nos termos da parte final do § 6º do art. 35.
+§ 6º Os recursos financeiros integrantes do patrimônio de afetação serão utilizados para pagamento ou reembolso das despesas inerentes à incorporação.
+§ 7º O reembolso do preço de aquisição do terreno somente poderá ser feito quando da alienação das unidades autônomas, na proporção das respectivas frações ideais, considerando-se tão-somente os valores efetivamente recebidos pela alienação.
+§ 8º Excluem-se do patrimônio de afetação:
+I - os recursos financeiros que excederem a importância necessária à conclusão da obra (art. 44), considerando-se os valores a receber até sua conclusão e, bem assim, os recursos necessários à quitação de financiamento para a construção, se houver; e
+II - o valor referente ao preço de alienação da fração ideal de terreno de cada unidade vendida, no caso de incorporação em que a construção seja contratada sob o regime de administração (art. 58).
+§ 9º No caso de conjuntos de edificações de que trata o art. 8º, poderão ser constituídos patrimônios de afetação separados, tantos quantos forem os:
+I - subconjuntos de casas para as quais esteja prevista a mesma data de conclusão (art. 8º, alínea "a"); e
+II - edifícios de dois ou mais pavimentos (art. 8º, alínea "b").
+§ 10. Nas incorporações objeto de financiamento, a comercialização das unidades deverá contar com a anuência da instituição financiadora ou deverá ser a ela cientificada, conforme vier a ser estabelecido no contrato de financiamento. (NR)
