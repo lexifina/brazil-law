@@ -1,0 +1,3 @@
+Instrução Normativa Conjunta MinC / SRF nº 1, de 13 de junho de 1995
+Dispõe sobre os procedimentos de acompanhamento, controle e avaliação a serem adotados na utilização dos benefícios fiscais instituídos pela Lei nº 8.313, de 1991, alterada pela Lei 8.981, de 1995 e Medidas Provisórias nºs 998 e 1.003, de 1995.
+A SECRETÁRIA EXECUTIVA DO MINISTÉRIO DA CULTURA E O SECRETÁRIO DA RECEITA FEDERAL DO MINISTÉRIO DA FAZENDA, no uso de suas atribuições e tendo em vista as disposições da Lei nº 8.313, de 23 de dezembro de 1991, regulamentada pelo Decreto nº 1.494, de 17 de maio de 1995, da Lei nº 8.981, de 20 de janeiro de 1995, das Medidas Provisórias nºs 998, de 19 de maio de 1995, e 1.003, de 19 de maio de 1995, e do Decreto nº 1.493, de 17 de maio de 1995, resolvem:
