@@ -1,0 +1,5 @@
+ANEXO ÚNICO
+
+PIAUÍ TURISMO – PIEMTUR
+
+Denominação Quantidade Símbolo Diretor Geral 01 -----Assessor Técnico II 03 DAS-3 Assessor Técnico III 01 DAS-4 Assistente de Serviços I 02 DAS-1 Assistente de Serviços II 01 DAS-2 Procurador Chefe 01 DAS-4 Diretor de Unidade de Relações Institucionais e Projetos Especiais 01 DAS-4 Diretor de Unidade de Operações e Marketing 01 DAS-4 Gerente de Unidade Administrativa-Financeira 01 DAS-3 Coordenador de Recursos de Informática 01 DAS-2 Coordenador Financeiro 01 DAS-2 Coordenador Administrativo 01 DAS-2 Coordenador de Elaboração e Acompanhamento de Projetos 01 DAS-2 Coordenador de Gestão de Projetos Especiais 01 DAS-2 Coordenador de Informações Turísticas 01 DAS-2 Coordenador de Operações e Eventos 01 DAS-2 Coordenador de Pesquisa e Estatística 01 DAS-2 Coordenador de Planejamento e Investimentos 01 DAS-2 Coordenador de Relações Institucionais 01 DAS-2 Coordenador de Núcleos 02 DAS-2 Coordenador do CADE 01 DAS-2 Coordenador do Centro de Convenções 01 DAS-2 Supervisor II 03 DAÍ-5 Supervisor III 04 DAÍ-6 Supervisor IV 05 DAÍ-7
