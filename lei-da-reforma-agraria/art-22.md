@@ -1,0 +1,1 @@
+Art. 22. Constará, obrigatoriamente, dos instrumentos translativos de domínio ou de concessão de uso cláusula resolutória que preveja a rescisão do contrato e o retorno do imóvel ao órgão alienante ou concedente, no caso de descumprimento de quaisquer das obrigações assumidas pelo adquirente ou concessionário.
