@@ -1,0 +1,1 @@
+Art. 18. Ficam extintos os efeitos jurídicos de qualquer ato legislativo ou administrativo, lavrado a partir da instalação da Assembléia Nacional Constituinte, que tenha por objeto a concessão de estabilidade a servidor admitido sem concurso público, da administração direta ou indireta, inclusive das fundações instituídas e mantidas pelo Poder Público.

@@ -1,0 +1,2 @@
+Art. 21. Os juízes togados de investidura limitada no tempo, admitidos mediante concurso público de provas e títulos e que estejam em exercício na data da promulgação da Constituição, adquirem estabilidade, observado o estágio probatório, e passam a compor quadro em extinção, mantidas as competências, prerrogativas e restrições da legislação a que se achavam submetidos, salvo as inerentes à transitoriedade da investidura.
+Parágrafo único. A aposentadoria dos juízes de que trata este artigo regular-se-á pelas normas fixadas para os demais juízes estaduais.
