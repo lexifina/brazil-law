@@ -1,0 +1,1 @@
+Artigo 3º - A opção prevista no artigo 5°-A das Disposições Transitórias da Lei Complementar nº 341, de 6 de janeiro de 1984, deverá ser manifestada pelo funcionário perante a autoridade competente, dentro do prazo de 60 (sessenta) dias contados da data da publicação desta lei complementar.

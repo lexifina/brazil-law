@@ -1,0 +1,1 @@
+Artigo 4º - O enquadramento dos cargos de que cuida o artigo 5º-A das Disposições Transitórias da Lei Complementar nº 341, de 6 de janeiro de 1984, far-se-á independentemente das quantidades fixadas nos termos do artigo 6º da mesma lei complementar e das alterações introduzidas pelo artigo 3º desta lei complementar.
