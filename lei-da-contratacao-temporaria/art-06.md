@@ -1,0 +1,2 @@
+Art. 6º É proibida a contratação, nos termos desta Lei, de servidores da Administração direta ou indireta da União, dos Estados, do Distrito Federal e dos Municípios, bem como de empregados ou servidores de suas subsidiárias e controladas.
+Parágrafo único. Sem prejuízo da nulidade do contrato, a infração do disposto neste artigo importará na responsabilidade administrativa da autoridade contratante e do contratado, inclusive solidariedade quanto à devolução dos valores pagos ao contratado.
