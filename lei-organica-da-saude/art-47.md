@@ -1,0 +1,1 @@
+Art. 47. O Ministério da Saúde, em articulação com os níveis estaduais e municipais do Sistema Único de Saúde (SUS), organizará, no prazo de dois anos, um sistema nacional de informações em saúde, integrado em todo o território nacional, abrangendo questões epidemiológicas e de prestação de serviços.

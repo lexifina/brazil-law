@@ -1,0 +1,1 @@
+Art. 37. O Conselho Nacional de Saúde estabelecerá as diretrizes a serem observadas na elaboração dos planos de saúde, em função das características epidemiológicas e da organização dos serviços em cada jurisdição administrativa.
