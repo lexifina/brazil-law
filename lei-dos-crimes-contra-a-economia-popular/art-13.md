@@ -1,0 +1,1 @@
+Art. 13. O Júri compõe de um juiz, que é o seu presidente, e de vinte jurados sorteados dentre os eleitores de cada zona eleitoral, de uma lista de cento e cinqüenta a duzentos eleitores, cinco dos quais constituirão o conselho de sentença em cada sessão de julgamento.
