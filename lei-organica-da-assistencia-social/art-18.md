@@ -4,7 +4,7 @@ II - normatizar as ações e regular a prestação de serviços de natureza púb
 III - fixar normas para a concessão de registro e certificado de fins filantrópicos às entidades privadas prestadoras de serviços e assessoramento de assistência social;
 IV - conceder atestado de registro e certificado de entidades de fins filantrópicos, na forma do regulamento a ser fixado, observado o disposto no art. 9º desta lei;
 V - zelar pela efetivação do sistema descentralizado e participativo de assistência social;
-VI - convocar ordinariamente a cada 2 (dois) anos, ou extraordinariamente, por maioria absoluta de seus membros, a Conferência Nacional de Assistência Social, que terá a atribuição de avaliar a situação da assistência social e propor diretrizes para o aperfeiçoamento do sistema;
+VI - a partir da realização da II Conferência Nacional de Assistência Social em 1997, convocar ordinariamente a cada quatro anos a Conferência Nacional de Assistência Social, que terá a atribuição de avaliar a situação da assistência social e propor diretrizes para o aperfeiçoamento do sistema;
 VII - (Vetado.)
 VIII - apreciar e aprovar a proposta orçamentária da Assistência Social a ser encaminhada pelo órgão da Administração Pública Federal responsável pela coordenação da Política Nacional de Assistência Social;
 IX - aprovar critérios de transferência de recursos para os Estados, Municípios e Distrito Federal, considerando, para tanto, indicadores que informem sua regionalização mais eqüitativa, tais como: população, renda per capita, mortalidade infantil e concentração de renda, além de disciplinar os procedimentos de repasse de recursos para as entidades e organizações de assistência social, sem prejuízo das disposições da Lei de Diretrizes Orçamentárias;

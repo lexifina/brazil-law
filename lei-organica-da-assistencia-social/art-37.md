@@ -1,3 +1,2 @@
-Art. 37. Os benefícios de prestação continuada serão concedidos, a partir da publicação desta lei, gradualmente e no máximo em até:
-I - 12 (doze) meses, para os portadores de deficiência;
-II - 18 (dezoito) meses, para os idosos.
+Art. 37. O benefício de prestação continuada será devido após o cumprimento, pelo requerente, de todos os requisitos legais e regulamentares exigidos para a sua concessão, inclusive apresentação da documentação necessária, devendo o seu pagamento ser efetuado em até quarenta e cinco dias após cumpridas as exigências de que trata este artigo.
+Parágrafo único. No caso de o primeiro pagamento ser feito após o prazo previsto no caput, aplicar-se-á na sua atualização o mesmo critério adotado pelo INSS na atualização do primeiro pagamento de benefício previdenciário em atraso.
