@@ -1,0 +1,1 @@
+Art. 1º Para atender a necessidade temporária de excepcional interesse público, os órgãos da Administração Federal direta, as autarquias e as fundações públicas poderão efetuar contratação de pessoal por tempo determinado, nas condições e prazos previstos nesta Lei.
