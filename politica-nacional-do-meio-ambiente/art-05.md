@@ -1,0 +1,2 @@
+Art. 5º - As diretrizes da Política Nacional do Meio Ambiente serão formuladas em normas e planos, destinados a orientar a ação dos Governos da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios no que se relaciona com a preservação da qualidade ambiental e manutenção do equilíbrio ecológico, observados os princípios estabelecidos no art. 2º desta Lei.
+Parágrafo único - As atividades empresariais públicas ou privadas serão exercidas em consonância com as diretrizes da Política Nacional do Meio Ambiente.

@@ -1,0 +1,2 @@
+Art. 12 - As entidades e órgãos de financiamento e incentivos governamentais condicionarão a aprovação de projetos habilitados a esses benefícios ao licenciamento, na forma desta Lei, e ao cumprimento das normas, dos critérios e dos padrões expedidos pelo CONAMA.
+Parágrafo único - As entidades e órgãos referidos no " caput " deste artigo deverão fazer constar dos projetos a realização de obras e aquisição de equipamentos destinados ao controle de degradação ambiental e à melhoria da qualidade do meio ambiente.
