@@ -1,0 +1,1 @@
+Art. 530-C. Na ocasião da apreensão será lavrado termo, assinado por 2 (duas) ou mais testemunhas, com a descrição de todos os bens apreendidos e informações sobre suas origens, o qual deverá integrar o inquérito policial ou o processo.
