@@ -1,0 +1,6 @@
+Instrução CVM nº 361, de 2002
+INSTRUÇÃO CVM NO 361, DE 5 DE MARÇO DE 2002.
+Dispõe sobre o procedimento aplicável às ofertas públicas de aquisição de ações de companhia aberta, o registro das ofertas públicas de aquisição de ações para cancelamento de registro de companhia aberta, por aumento de participação de acionista controlador, por alienação de controle de companhia aberta, para aquisição de controle de companhia aberta quando envolver permuta por valores mobiliários, e de permuta por valores mobiliários, revoga a Instrução CVM no 229, de 16 de janeiro de 1995,a Instrução CVM no 299, de 9 de fevereiro de 1999 e a Instrução CVM no 345, de 4 de setembro de 2000, e dá outras providências.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada nesta data, e com fundamento nos incisos V, VI e VII do art. 4o, nos incisos I e III do art. 8o, na alínea “a” do inciso II do art. 18, no parágrafo 6o do art. 21 e nos incisos III, V, VI e VIII do art. 22 da Lei no 6.385, de 7 de dezembro de 1976, e nos arts. 4o, 4o-A, 30, § 2o, 254-A e 257 da Lei no 6.404, de 15 de dezembro de 1976, RESOLVEU baixar a seguinte Instrução:
+ÂMBITO E FINALIDADE
+Aplicação
