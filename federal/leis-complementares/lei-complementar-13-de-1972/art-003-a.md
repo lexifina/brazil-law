@@ -1,0 +1,1 @@
+Art. 3º - A redução ou isenção do empréstimo compulsório poderá ser permitida, em lei ordinária, objetivando o desenvolvimento de regiões ou zonas de baixa renda per capita em relação a renda nacional.
