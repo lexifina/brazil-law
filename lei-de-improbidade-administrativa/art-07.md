@@ -1,0 +1,2 @@
+Art. 7º Quando o ato de improbidade causar lesão ao patrimônio público ou ensejar enriquecimento ilícito, caberá a autoridade administrativa responsável pelo inquérito representar ao Ministério Público, para a indisponibilidade dos bens do indiciado.
+Parágrafo único. A indisponibilidade a que se refere o caput deste artigo recairá sobre bens que assegurem o integral ressarcimento do dano, ou sobre o acréscimo patrimonial resultante do enriquecimento ilícito.
