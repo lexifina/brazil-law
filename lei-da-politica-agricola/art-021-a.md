@@ -1,0 +1,3 @@
+Art. 21-A. O Poder Público procederá à identificação, em todo o território nacional, das áreas desertificadas, as quais somente poderão ser exploradas mediante a adoção de adequado plano de manejo, com o emprego de tecnologias capazes de interromper o processo de desertificação e de promover a recuperação dessas áreas.
+§ 1º O Poder Público estabelecerá cadastros das áreas sujeitas a processos de desertificação, em âmbito estadual ou municipal. ()
+§ 2º O Poder Público, por intermédio dos órgãos competentes, promoverá a pesquisa, a geração e a difusão de tecnologias capazes de suprir as condições expressas neste artigo.
