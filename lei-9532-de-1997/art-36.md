@@ -1,0 +1,2 @@
+Art. 36. Os rendimentos decorrentes das operações de swap, de que trata o art. 74 da Lei n° 8.981, de 1995, passam a ser tributados à mesma alíquota incidente sobre os rendimentos de aplicações financeiras de renda fixa.
+Parágrafo único. Quando a operação de swap tiver por objeto taxa baseada na remuneração dos depósitos de poupança, esta remuneração será adicionada à base de cálculo do imposto de que trata este artigo.

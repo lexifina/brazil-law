@@ -1,0 +1,1 @@
+Art. 57. A apresentação de declaração de bagagem falsa ou inexata sujeita o viajante a multa correspondente a cinqüenta por cento do valor excedente ao limite de isenção, sem prejuízo do imposto devido.

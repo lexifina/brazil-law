@@ -1,0 +1,1 @@
+Art. 69. As sociedades cooperativas de consumo, que tenham por objeto a compra e fornecimento de bens aos consumidores, sujeitam-se às mesmas normas de incidência dos impostos e contribuições de competência da União, aplicáveis às demais pessoas jurídicas.

@@ -1,0 +1,1 @@
+Art. 55. Ficam reduzidos à metade os percentuais relacionados nos incisos I, II, III e V do art.1º da Lei nº 9.440, de 14 de março de 1997, e nos incisos I, II e III do art. 1º da Lei n.º 9.449, de 14 de março de 1997.

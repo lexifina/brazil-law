@@ -1,0 +1,3 @@
+Art. 58. A pessoa física ou jurídica que alienar, à empresa que exercer as atividades relacionadas na alínea "d" do inciso III do § 1º do art. 15 da Lei nº 9.249, de 1995 (factoring), direitos creditórios resultantes de vendas a prazo, sujeita-se à incidência do imposto sobre operações de crédito, câmbio e seguro ou relativas a títulos e valores mobiliários - IOF às mesmas alíquotas aplicáveis às operações de financiamento e empréstimo praticadas pelas instituições financeiras.
+§ 1º O responsável pela cobrança e recolhimento do IOF de que trata este artigo é a empresa de factoring adquirente do direito creditório.
+§ 2º O imposto cobrado na hipótese deste artigo deverá ser recolhido até o terceiro dia útil da semana subseqüente à da ocorrência do fato gerador.

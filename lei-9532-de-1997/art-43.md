@@ -1,0 +1,2 @@
+Art. 43. O inciso II do art. 4º da Lei nº 8.661, de 1993, passa a vigorar com a seguinte redação:
+"II - redução de cinqüenta por cento da alíquota do Imposto sobre Produtos Industrializados, prevista na Tabela de Incidência do IPI - TIPI, incidente sobre equipamentos, máquinas, aparelhos e instrumentos, bem assim sobre os acessórios sobressalentes e ferramentas que acompanhem esses bens, destinados à pesquisa e ao desenvolvimento tecnológico;".

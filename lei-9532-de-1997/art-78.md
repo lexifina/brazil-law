@@ -1,0 +1,1 @@
+Art. 78. As obras fonográficas sujeitar-se-ão a selos e sinais de controle, sem ônus para o consumidor, com o fim de identificar a legítima origem e reprimir a produção e importação ilegais e a comercialização de contrafações, sob qualquer pretexto, observado para esse efeito o disposto em regulamento.

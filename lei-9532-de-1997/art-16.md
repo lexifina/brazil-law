@@ -1,0 +1,2 @@
+Art. 16. Aplicam-se à entrega de bens e direitos para a formação do patrimônio das instituições isentas as disposições do art. 23 da Lei nº 9.249, de 1995.
+Parágrafo único. A transferência de bens e direitos do patrimônio das entidades isentas para o patrimônio de outra pessoa jurídica, em virtude de incorporação, fusão ou cisão, deverá ser efetuada pelo valor de sua aquisição ou pelo valor atribuído, no caso de doação.

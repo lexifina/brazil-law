@@ -1,0 +1,1 @@
+Art. 63. O disposto nos arts. 61 e 62 observará convênio a ser celebrado entre a União, representada pela Secretaria da Receita Federal, e as Unidades Federadas, representadas no Conselho de Política Fazendária - CONFAZ pelas respectivas Secretarias de Fazenda.

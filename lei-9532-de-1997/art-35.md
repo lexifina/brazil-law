@@ -1,0 +1,1 @@
+Art. 35. Relativamente aos rendimentos produzidos, a partir de 1º de janeiro de 1998, por aplicação financeira de renda fixa, auferidos por qualquer beneficiário, inclusive pessoa jurídica imune ou isenta, a alíquota do imposto de renda será de vinte por cento.
