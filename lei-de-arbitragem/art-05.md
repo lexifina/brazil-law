@@ -1,0 +1,1 @@
+Art. 5º Reportando-se as partes, na cláusula compromissória, às regras de algum órgão arbitral institucional ou entidade especializada, a arbitragem será instituída e processada de acordo com tais regras, podendo, igualmente, as partes estabelecer na própria cláusula, ou em outro documento, a forma convencionada para a instituição da arbitragem.
