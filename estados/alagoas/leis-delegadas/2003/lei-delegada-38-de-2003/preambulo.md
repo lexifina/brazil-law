@@ -1,0 +1,1 @@
+DISPÕE SOBRE A NOVA REDAÇÃO DOS ART. 1º, 2º, 3º, 4º, 5º, 6º, 7º, 12, 13, 14, 16 E 17 DA LEI Nº 6.210, DE 22 DE DEZEMBRO DE 2000, E DÁ OUTRAS PROVIDÊNCIAS. O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que, no uso da delegação conferida pela Assembléia Legislativa, nos termos da Resolução nº 432, de 6 de março de 2003, decreto a seguinte Lei Delegada:
