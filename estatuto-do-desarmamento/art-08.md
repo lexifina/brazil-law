@@ -1,0 +1,1 @@
+Art. 8º As armas de fogo utilizadas em entidades desportivas legalmente constituídas devem obedecer às condições de uso e de armazenagem estabelecidas pelo órgão competente, respondendo o possuidor ou o autorizado a portar a arma pela sua guarda na forma do regulamento desta Lei.
