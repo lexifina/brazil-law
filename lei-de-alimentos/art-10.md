@@ -1,0 +1,1 @@
+Art. 10 A audiência de julgamento será contínua; mas, se não for possível, por motivo de força maior, concluí-la no mesmo dia, o juiz marcará a sua continuação para o primeiro dia desimpedido, independentemente de novas intimações.
