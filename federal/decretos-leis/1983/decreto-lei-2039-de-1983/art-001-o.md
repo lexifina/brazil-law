@@ -1,0 +1,2 @@
+Art. 1º - O parágrafo 1º do art. 1º do Decreto-lei nº 1.816, de 10 de dezembro de 1980, passa a ter a seguinte redação:
+“§ 1º - A atualização monetária será o resultado da multiplicação do valor do débito previdenciário pelo coeficiente obtido com a divisão do valor nominal reajustado da Obrigação Reajustável do Tesouro Nacional (ORTN), no mês em que se efetivar o pagamento, pelo valor da mesma obrigação no mês em que o débito deveria ser solvido.”
