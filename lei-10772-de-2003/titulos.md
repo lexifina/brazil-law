@@ -1,0 +1,1 @@
+Dispõe sobre a criação de 183 (cento e oitenta e três) Varas Federais destinadas precipuamente à interiorização da Justiça Federal de Primeiro Grau e à implantação dos Juizados Especiais no País e dá outras providências.
