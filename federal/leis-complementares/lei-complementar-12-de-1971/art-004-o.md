@@ -1,0 +1,1 @@
+Art. 4º - O Poder Executivo adotará as providências necessárias à exclusão, em variações patrimoniais de exercícios anteriores, do resultado de operações de crédito realizadas através do giro da divida mobiliária interna da União.
