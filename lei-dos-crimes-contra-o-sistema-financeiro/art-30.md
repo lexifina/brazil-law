@@ -1,0 +1,1 @@
+Art. 30. Sem prejuízo do disposto no art. 312 do Código de Processo Penal, aprovado pelo Decreto-lei nº 3.689, de 3 de outubro de 1941, a prisão preventiva do acusado da prática de crime previsto nesta lei poderá ser decretada em razão da magnitude da lesão causada (Vetado).
