@@ -1,0 +1,1 @@
+Despacho: Nego o exaquatur, de acordo com o parecer de fls.28 e 29, ressalvado a promoção regular da homologação da sentença. (artigo 210 do Regimento Interno). Publique-se. Brasília, 11 de março de 1975. (a) – Djaci Falcão.
