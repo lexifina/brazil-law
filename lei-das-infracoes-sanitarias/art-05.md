@@ -1,7 +1,4 @@
-Art. 5º A pena de multa consiste no recolhimento de importância em dinheiro, variável segundo a gravidade da infração, conforme a classificação estabelecida no artigo anterior, a que correspondem os seguintes limites:
-I - para as do item I, entre NCz$ 500,00 e NCz$ 2.500,00;
-II - para as do item II, entre NCz$ 2.500,00 e NCz$ 5.000,00; e
-III - para as do item III, entre NCz$ 5.000,00 e NCz$ 20.000,00.
-§ 1º A multa será aplicada em dobro nas reincidências específicas e acrescidas da metade de seu valor, nas genéricas.
-§ 2º Sem prejuízo do disposto nos artigos 4º e 6º desta Lei, a autoridade sanitária levará em consideração, na aplicação da multa, a capacidade econômica do infrator.
-§ 3º Os valores estabelecidos neste artigo serão corrigidos com base na variação diária do Bônus do Tesouro Nacional (BTN) ou outro índice que venha a substituí-lo.
+Art. 5º A intervenção no estabelecimento, prevista no inciso XI-A do art. 2º, será decretada pelo Ministro da Saúde, que designará interventor, o qual ficará investido de poderes de gestão, afastados os sócios, gerentes ou diretores que contratual ou estatutariamente são detentores de tais poderes e não poderá exceder a cento e oitenta dias, renováveis por igual período.
+§ 1º Da decretação de intervenção caberá pedido de revisão, sem efeito suspensivo, dirigido ao Ministro da Saúde, que deverá apreciá-lo no prazo de trinta dias.
+§ 2º Não apreciado o pedido de revisão no prazo assinalado no parágrafo anterior, cessará a intervenção de pleno direito, pelo simples decurso do prazo.
+§ 2º-A. Ao final da intervenção, o interventor apresentará prestação de contas do período que durou a intervenção.

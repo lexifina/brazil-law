@@ -6,4 +6,6 @@ IV - extorsão mediante seqüestro e na forma qualificada (art. 159, caput, e §
 V - estupro (art. 213 e sua combinação com o art. 223, caput e parágrafo único);
 VI - atentado violento ao pudor (art. 214 e sua combinação com o art. 223, caput e parágrafo único);
 VII - epidemia com resultado morte (art. 267, § 1º).
+VII-A - (VETADO)
+VII-B - falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais (art. 273, caput e § 1º, § 1º-A e § 1º-B, com a redação dada pela Lei nº 9.677, de 2 de julho de 1998).
 Parágrafo único. Considera-se também hediondo o crime de genocídio previsto nos arts. 1º, 2º e 3º da Lei nº 2.889, de 1º de outubro de 1956, tentado ou consumado.
