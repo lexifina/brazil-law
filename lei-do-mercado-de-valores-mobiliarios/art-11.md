@@ -18,7 +18,7 @@ III - três vezes o montante da vantagem econômica obtida ou da perda evitada e
 I - cessar a prática de atividades ou atos considerados ilícitos pela Comissão de Valores Mobiliários; e
 II - corrigir as irregularidades apontadas, inclusive indenizando os prejuízos.
 § 6º O compromisso a que se refere o parágrafo anterior não importará confissão quanto à matéria de fato, nem reconhecimento de ilicitude da conduta analisada.
-§ 7º O termo de compromisso deverá ser publicado no Diário Oficial da União, discriminando o prazo para cumprimento das obrigações eventualmente assumidas, e o seu inadimplemento caracterizará crime de desobediência, previsto no art. 330 do Código Penal.
+§ 7º O termo de compromisso deverá ser publicado no Diário Oficial da União, discriminando o prazo para cumprimento das obrigações eventualmente assumidas, e constituirá título executivo extrajudicial.
 § 8º Não cumpridas as obrigações no prazo, a Comissão de Valores Mobiliários dará continuidade ao procedimento administrativo anteriormente suspenso, para a aplicação das penalidades cabíveis.
 § 9º Serão considerados, na aplicação de penalidades previstas na lei, o arrependimento eficaz e o arrependimento posterior ou a circunstância de qualquer pessoa, espontaneamente, confessar ilícito ou prestar informações relativas à sua materialidade.
 § 10. A Comissão de Valores Mobiliários regulamentará a aplicação do disposto nos §§ 5º a 9º deste artigo aos procedimentos conduzidos pelas Bolsas de Valores, Bolsas de Mercadorias e Futuros, entidades do mercado de balcão organizado e entidades de compensação e liquidação de operações com valores mobiliários.
