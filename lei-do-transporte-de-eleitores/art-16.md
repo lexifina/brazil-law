@@ -1,0 +1,3 @@
+Art. 16. O eleitor que deixar de votar por se encontrar ausente de seu domicílio eleitoral deverá justificar a falta, no prazo de 60 (sessenta) dias, por meio de requerimento dirigido ao Juiz Eleitoral de sua zona de inscrição, que mandará anotar o fato, na respectiva folha individual de votação.
+§ 1º O requerimento, em duas vias, será levado, em sobrecarta aberta, a agência postal, que, depois de dar andamento à 1ª via, aplicará carimbo de recepção na 2ª, devolvendo-a ao interessado, valendo esta como prova para todos os efeitos legais.
+§ 2º Estando no exterior, no dia em que se realizarem eleições, o eleitor terá o prazo de 30 (trinta) dias, a contar de sua volta ao País, para a justificação.
