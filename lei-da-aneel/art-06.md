@@ -1,0 +1,5 @@
+Art. 6º Está impedida de exercer cargo de direção na ANEEL a pessoa que mantiver os seguintes vínculos com qualquer empresa concessionária, permissionária, autorizada, produtor independente, autoprodutor ou prestador de serviço contratado dessas empresas sob regulamentação ou fiscalização da autarquia:
+I - acionista ou sócio com participação individual direta superior a três décimos por cento no capital social ou superior a dois por cento no capital social de empresa controladora;
+II - membro do conselho de administração, fiscal ou de diretoria executiva;
+III - empregado, mesmo com o contrato de trabalho suspenso, inclusive das empresas controladoras ou das fundações de previdência de que sejam patrocinadoras.
+Parágrafo único. Também está impedido de exercer cargo de direção da ANEEL membro do conselho ou diretoria de associação regional ou nacional, representativa de interesses dos agentes mencionados no caput, de categoria profissional de empregados desses agentes, bem como de conjunto ou classe de consumidores de energia.

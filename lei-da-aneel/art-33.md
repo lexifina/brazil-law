@@ -1,0 +1,1 @@
+Art. 33. No prazo máximo de vinte e quatro meses, a contar da sua organização, a ANEEL promoverá a simplificação do Plano de Contas específico para as empresas concessionárias de serviços públicos de energia elétrica, com a segmentação das contas por tipo de atividade de geração, transmissão e distribuição.

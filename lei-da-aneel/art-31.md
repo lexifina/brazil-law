@@ -1,0 +1,4 @@
+Art. 31. Serão transferidos para a ANEEL o acervo técnico e patrimonial, as obrigações, os direitos e receitas do Departamento Nacional de Águas e Energia Elétrica - DNAEE.
+§ 1º Permanecerão com o Ministério de Minas e Energia as receitas oriundas do § 1º do art. 20 da Constituição Federal.
+§ 2º Ficarão com o Ministério de Minas e Energia, sob a administração temporária da ANEEL, como órgão integrante do Sistema Nacional de Gerenciamento de Recursos Hídricos, a rede hidrométrica, o acervo técnico e as atividades de hidrologia relativos aos aproveitamentos de energia hidráulica.
+§ 3º Os órgãos responsáveis pelo gerenciamento dos recursos hídricos e a ANEEL devem se articular para a outorga de concessão de uso de águas em bacias hidrográficas, de que possa resultar a redução da potência firme de potenciais hidráulicos, especialmente os que se encontrem em operação, com obras iniciadas ou por iniciar, mas já concedidas.

@@ -1,0 +1,5 @@
+Art. 34. O Poder Executivo adotará as providências necessárias à constituição da autarquia Agência Nacional de Energia Elétrica - ANEEL, em regime especial, com a definição da estrutura organizacional, aprovação do seu regimento interno e a nomeação dos Diretores, a que se refere o § 1º do art. 29, e do Procurador-Geral.
+§ 1º A estrutura de que trata o caput deste artigo incluirá os cargos em comissão e funções gratificadas atualmente existentes no DNAEE.
+§ 2º É a ANEEL autorizada a efetuar a contratação temporária, por prazo não excedente de trinta e seis meses, nos termos do inciso IX do art. 37 da Constituição Federal, do pessoal técnico imprescindível à continuidade de suas atividades.
+§ 3º Até que seja provido o cargo de Procurador-Geral da ANEEL, a Consultoria Jurídica do Ministério de Minas e Energia e a Advocacia-Geral da União prestarão à autarquia a assistência jurídica necessária, no âmbito de suas competências.
+§ 4º Constituída a Agência Nacional de Energia Elétrica - ANEEL, com a publicação de seu regimento interno, ficará extinto o Departamento Nacional de Águas e Energia Elétrica - DNAEE.

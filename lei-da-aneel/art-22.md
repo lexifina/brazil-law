@@ -1,0 +1,1 @@
+Art. 22. Em caso de descentralização da execução de atividades relativas aos serviços e instalações de energia elétrica, parte da taxa de fiscalização correspondente, prevista no art. 12 desta Lei, arrecadada na respectiva unidade federativa, será a esta transferida para custeio de seus serviços, na forma do convênio celebrado.

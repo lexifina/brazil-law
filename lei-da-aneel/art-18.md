@@ -1,0 +1,1 @@
+Art. 18. A ANEEL somente aceitará como bens reversíveis da concessionária ou permissionária do serviço público de energia elétrica aqueles utilizados, exclusiva e permanentemente, para produção, transmissão e distribuição de energia elétrica.
