@@ -1,0 +1,2 @@
+Art. 23. O Operador Nacional do Sistema Elétrico - ONS deverá adotar todas as medidas necessárias para dar cumprimento ao disposto nesta Lei.
+Parágrafo único. A ANEEL deverá regular e fiscalizar o processo de adequação do ONS à regulamentação prevista no art. 14 da Lei nº 9.648, de 27 de maio de 1998, com a redação dada por esta Lei, incluindo o critério de não-coincidência de mandatos de diretores, no prazo máximo de 90 (noventa) dias, contados da publicação da regulamentação desta Lei, nos termos do art. 27 desta Lei.
