@@ -1,0 +1,1 @@
+Autoriza o Instituto Brasileiro do Café, Autarquia Federal vinculada ao Ministério da Indústria e do Comércio, a alienar imóvel de sua propriedade, localizado na Cidade de Santos, Estados de São Paulo.
