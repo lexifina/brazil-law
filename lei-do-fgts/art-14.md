@@ -1,0 +1,5 @@
+Art. 14. Fica ressalvado o direito adquirido dos trabalhadores que, à data da promulgação da Constituição Federal de 1988, já tinham o direito à estabilidade no emprego nos termos do Capítulo V do Título IV da CLT.
+§ 1º O tempo do trabalhador não optante do FGTS, anterior a 5 de outubro de 1988, em caso de rescisão sem justa causa pelo empregador, reger-se-á pelos dispositivos constantes dos arts. 477, 478 e 497 da CLT.
+§ 2º O tempo de serviço anterior à atual Constituição poderá ser transacionado entre empregador e empregado, respeitado o limite mínimo de 60 (sessenta) por cento da indenização prevista.
+§ 3º É facultado ao empregador desobrigar-se da responsabilidade da indenização relativa ao tempo de serviço anterior à opção, depositando na conta vinculada do trabalhador, até o último dia útil do mês previsto em lei para o pagamento de salário, o valor correspondente à indenização, aplicando-se ao depósito, no que couber, todas as disposições desta lei.
+§ 4º Os trabalhadores poderão a qualquer momento optar pelo FGTS com efeito retroativo a 1º de janeiro de 1967 ou à data de sua admissão, quando posterior àquela.

@@ -1,0 +1,1 @@
+Art. 17. Os empregadores se obrigam a comunicar mensalmente aos trabalhadores os valores recolhidos ao FGTS e repassar-lhes todas as informações sobre suas contas vinculadas recebidas da Caixa Econômica Federal ou dos bancos depositários.

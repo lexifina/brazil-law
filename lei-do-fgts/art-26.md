@@ -1,0 +1,2 @@
+Art. 26. É competente a Justiça do Trabalho para julgar os dissídios entre os trabalhadores e os empregadores decorrentes da aplicação desta lei, mesmo quando a Caixa Econômica Federal e o Ministério do Trabalho e da Previdência Social figurarem como litisconsortes.
+Parágrafo único. Nas reclamatórias trabalhistas que objetivam o ressarcimento de parcelas relativas ao FGTS, ou que, direta ou indiretamente, impliquem essa obrigação de fazer, o juiz determinará que a empresa sucumbente proceda ao recolhimento imediato das importâncias devidas a tal título.

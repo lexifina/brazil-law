@@ -1,0 +1,1 @@
+Art. 16. Para efeito desta lei, as empresas sujeitas ao regime da legislação trabalhista poderão equiparar seus diretores não empregados aos demais trabalhadores sujeitos ao regime do FGTS. Considera-se diretor aquele que exerça cargo de administração previsto em lei, estatuto ou contrato social, independente da denominação do cargo.

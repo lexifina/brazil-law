@@ -1,0 +1,3 @@
+Art. 19. No caso de extinção do contrato de trabalho prevista no art. 14 desta lei, serão observados os seguintes critérios:
+I - havendo indenização a ser paga, o empregador, mediante comprovação do pagamento daquela, poderá sacar o saldo dos valores por ele depositados na conta individualizada do trabalhador;
+II - não havendo indenização a ser paga, ou decorrido o prazo prescricional para a reclamação de direitos por parte do trabalhador, o empregador poderá levantar em seu favor o saldo da respectiva conta individualizada, mediante comprovação perante o órgão competente do Ministério do Trabalho e da Previdência Social.
