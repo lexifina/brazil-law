@@ -1,0 +1,1 @@
+Art. 10. A execução orçamentária e financeira identificará os beneficiários de pagamento de sentenças judiciais, por meio de sistema de contabilidade e administração financeira, para fins de observância da ordem cronológica determinada no art. 100 da Constituição.
