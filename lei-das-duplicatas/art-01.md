@@ -1,3 +1,2 @@
 Art. 1º Em todo o contrato de compra e venda mercantil entre partes domiciliadas no território brasileiro, com prazo não inferior a 30 (trinta) dias, contado da data da entrega ou despacho das mercadorias, o vendedor extrairá a respectiva fatura para apresentação ao comprador.
 § 1º A fatura discriminará as mercadorias vendidas ou, quando convier ao vendedor, indicará sòmente os números e valores das notas parciais expedidas por ocasião das vendas, despachos ou entregas das mercadorias.
-§ 2º A fatura terá rodapé destacável, em que constarão o número, a data e a importância dela, o qual, devidamente assinado, será restituído ao vendedor, como comprovante do recebimento da mercadoria faturada.
