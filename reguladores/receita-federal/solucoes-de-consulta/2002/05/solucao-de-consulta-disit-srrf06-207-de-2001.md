@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF06 nº 207, de 24 de outubro de 2001
+Assunto: Imposto sobre a Renda Retido na Fonte - IRRF Ementa: JUROS SOBRE CAPITAL PRÓPRIO Os juros pagos ou creditados, a título de remuneração do capital próprio, a acionista estabelecido no Japão, estão sujeitos à tributação na fonte à alíquota de 12,5% (doze e meio por cento). O fato gerador do imposto de renda na fonte, nesse caso, ocorre no momento do crédito incondicional e nominal. Dispositivos Legais: Decreto nº 61.899, art. 10, de 14 de dezembro de 1967, alterado pelo Decreto nº 81.194, de 09 de janeiro de 1978; RIR/1999, arts. 347, 668, 865.
+[arquivo anexo: SC SRRF06-Disit nº 207-2001.pdf]
