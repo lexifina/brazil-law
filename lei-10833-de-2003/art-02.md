@@ -13,3 +13,12 @@ X - no art. 23 da Lei nº 10.865, de 30 de abril de 2004, no caso de venda de ga
 § 2º Excetua-se do disposto no caput deste artigo a receita bruta decorrente da venda de papel imune a impostos de que trata o art. 150, inciso VI, alínea d, da Constituição Federal, quando destinado à impressão de periódicos, que fica sujeita à alíquota de 3,2% (três inteiros e dois décimos por cento).
 § 3º Fica o Poder Executivo autorizado a reduzir a 0 (zero) e a restabelecer a alíquota incidente sobre receita bruta decorrente da venda de produtos químicos e farmacêuticos, classificados nos Capítulos 29 e 30, sobre produtos destinados ao uso em laboratório de anatomia patológica, citológica ou de análises clínicas, classificados nas posições 30.02, 30.06, 39.26, 40.15 e 90.18, e sobre semens e embriões da posição 05.11, todos da TIPI.
 § 4º Fica reduzida a 0 (zero) a alíquota da COFINS incidente sobre a receita de venda de livros técnicos e científicos, na forma estabelecida em ato conjunto do Ministério da Educação e da Secretaria da Receita Federal.
+§ 5º Excetua-se do disposto no caput deste artigo a receita bruta auferida por pessoa jurídica industrial estabelecida na Zona Franca de Manaus, decorrente da venda de produção própria, consoante projeto aprovado pelo Conselho de Administração da Superintendência da Zona Franca de Manaus - SUFRAMA, que fica sujeita, ressalvado o disposto nos §§ 1º a 4º deste artigo, às alíquotas de:
+I - 3% (três por cento), no caso de venda efetuada a pessoa jurídica estabelecida:
+a) na Zona Franca de Manaus; e
+b) fora da Zona Franca de Manaus, que apure a COFINS no regime de não-cumulatividade;
+II - 6% (seis por cento), no caso de venda efetuada a:
+a) pessoa jurídica estabelecida fora da Zona Franca de Manaus, que apure o imposto de renda com base no lucro presumido;
+b) pessoa jurídica estabelecida fora da Zona Franca de Manaus, que apure o imposto de renda com base no lucro real e que tenha sua receita, total ou parcialmente, excluída do regime de incidência não-cumulativa da COFINS;
+c) pessoa jurídica estabelecida fora da Zona Franca de Manaus e que seja optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições - SIMPLES; e
+d) órgãos da administração federal, estadual, distrital e municipal.

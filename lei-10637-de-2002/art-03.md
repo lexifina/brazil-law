@@ -30,4 +30,5 @@ III - aos bens e serviços adquiridos e aos custos e despesas incorridos a parti
 I - apropriação direta, inclusive em relação aos custos, por meio de sistema de contabilidade de custos integrada e coordenada com a escrituração; ou
 II - rateio proporcional, aplicando-se aos custos, despesas e encargos comuns a relação percentual existente entre a receita bruta sujeita à incidência não-cumulativa e a receita bruta total, auferidas em cada mês.
 § 9º O método eleito pela pessoa jurídica será aplicado consistentemente por todo o ano-calendário, observadas as normas a serem editadas pela Secretaria da Receita Federal.
+§ 12. Ressalvado o disposto no § 2º deste artigo e nos §§ 1º a 3º do art. 2º desta Lei, na aquisição de mercadoria produzida por pessoa jurídica estabelecida na Zona Franca de Manaus, consoante projeto aprovado pelo Conselho de Administração da Superintendência da Zona Franca de Manaus - SUFRAMA, o crédito será determinado mediante a aplicação da alíquota de 1% (um por cento).
 § 14.
