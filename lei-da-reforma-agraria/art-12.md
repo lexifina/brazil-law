@@ -1,8 +1,9 @@
-Art. 12. Considera-se justa a indenização que permita ao desapropriado a reposição, em seu patrimônio, do valor do bem que perdeu por interesse social.
-§ 1º A identificação do valor do bem a ser indenizado será feita, preferencialmente, com base nos seguintes referenciais técnicos e mercadológicos, entre outros usualmente empregados:
-I - valor das benfeitorias úteis e necessárias, descontada a depreciação conforme o estado de conservação;
-II - valor da terra nua, observados os seguintes aspectos:
-a) localização do imóvel;
-b) capacidade potencial da terra;
-c) dimensão do imóvel.
-§ 2º Os dados referentes ao preço das benfeitorias e do hectare da terra nua a serem indenizados serão levantados junto às Prefeituras Municipais, órgãos estaduais encarregados de avaliação imobiliária, quando houver, Tabelionatos e Cartórios de Registro de Imóveis, e através de pesquisa de mercado.
+Art. 12. Considera-se justa a indenização que reflita o preço atual de mercado do imóvel em sua totalidade, aí incluídas as terras e acessões naturais, matas e florestas e as benfeitorias indenizáveis, observados os seguintes aspectos:
+I - localização do imóvel;
+II - aptidão agrícola;
+III - dimensão do imóvel;
+IV - área ocupada e ancianidade das posses;
+V - funcionalidade, tempo de uso e estado de conservação das benfeitorias.
+§ 1º Verificado o preço atual de mercado da totalidade do imóvel, proceder-se-á à dedução do valor das benfeitorias indenizáveis a serem pagas em dinheiro, obtendo-se o preço da terra a ser indenizado em TDA.
+§ 2º Integram o preço da terra as florestas naturais, matas nativas e qualquer outro tipo de vegetação natural, não podendo o preço apurado superar, em qualquer hipótese, o preço de mercado do imóvel.
+§ 3º O Laudo de Avaliação será subscrito por Engenheiro Agrônomo com registro de Anotação de Responsabilidade Técnica - ART, respondendo o subscritor, civil, penal e administrativamente, pela superavaliação comprovada ou fraude na identificação das informações.

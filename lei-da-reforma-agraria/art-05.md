@@ -2,7 +2,15 @@ Art. 5º A desapropriação por interesse social, aplicável ao imóvel rural qu
 § 1º As benfeitorias úteis e necessárias serão indenizadas em dinheiro.
 § 2º O decreto que declarar o imóvel como de interesse social, para fins de reforma agrária, autoriza a União a propor ação de desapropriação.
 § 3º Os títulos da dívida agrária, que conterão cláusula assecuratória de preservação de seu valor real, serão resgatáveis a partir do segundo ano de sua emissão, em percentual proporcional ao prazo, observados os seguintes critérios:
-I - do segundo ao quinto ano, quando emitidos para indenização de imóveis com área inferior a 40 (quarenta) módulos fiscais;
-II - do segundo ao décimo ano, quando emitidos para indenização de imóvel com área acima de 40 (quarenta) até 70 (setenta) módulos fiscais;
-III - do segundo ao décimo quinto ano, quando emitidos para indenização de imóvel com área acima de 70 (setenta) até 150 (cento e cinqüenta) módulos fiscais;
-IV - do segundo ao vigésimo ano, quando emitidos para indenização de imóvel com área superior a 150 (cento e cinqüenta) módulos fiscais.
+I - do segundo ao décimo quinto ano, quando emitidos para indenização de imóvel com área de até setenta módulos fiscais;
+II - do segundo ao décimo oitavo ano, quando emitidos para indenização de imóvel com área acima de setenta e até cento e cinqüenta módulos fiscais; e
+III - do segundo ao vigésimo ano, quando emitidos para indenização de imóvel com área superior a cento e cinqüenta módulos fiscais.
+§ 4º No caso de aquisição por compra e venda de imóveis rurais destinados à implantação de projetos integrantes do Programa Nacional de Reforma Agrária, nos termos desta Lei e da Lei nº 4.504, de 30 de novembro de 1964, e os decorrentes de acordo judicial, em audiência de conciliação, com o objetivo de fixar a prévia e justa indenização, a ser celebrado com a União, bem como com os entes federados, o pagamento será efetuado de forma escalonada em Títulos da Dívida Agrária - TDA, resgatáveis em parcelas anuais, iguais e sucessivas, a partir do segundo ano de sua emissão, observadas as seguintes condições:
+I - imóveis com área de até três mil hectares, no prazo de cinco anos;
+II - imóveis com área superior a três mil hectares:
+a) o valor relativo aos primeiros três mil hectares, no prazo de cinco anos;
+b) o valor relativo à área superior a três mil e até dez mil hectares, em dez anos;
+c) o valor relativo à área superior a dez mil hectares até quinze mil hectares, em quinze anos; e
+d) o valor da área que exceder quinze mil hectares, em vinte anos.
+§ 5º Os prazos previstos no § 4º, quando iguais ou superiores a dez anos, poderão ser reduzidos em cinco anos, desde que o proprietário concorde em receber o pagamento do valor das benfeitorias úteis e necessárias integralmente em TDA.
+§ 6º Aceito pelo proprietário o pagamento das benfeitorias úteis e necessárias em TDA, os prazos de resgates dos respectivos títulos serão fixados mantendo-se a mesma proporcionalidade estabelecida para aqueles relativos ao valor da terra e suas acessões naturais.

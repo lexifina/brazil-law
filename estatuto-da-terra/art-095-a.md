@@ -1,0 +1,2 @@
+Art. 95-A. Fica instituído o Programa de Arrendamento Rural, destinado ao atendimento complementar de acesso à terra por parte dos trabalhadores rurais qualificados para participar do Programa Nacional de Reforma Agrária, na forma estabelecida em regulamento.
+Parágrafo único. Os imóveis que integrarem o Programa de Arrendamento Rural não serão objeto de desapropriação para fins de reforma agrária enquanto se mantiverem arrendados, desde que atendam aos requisitos estabelecidos em regulamento.
