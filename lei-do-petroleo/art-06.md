@@ -22,3 +22,5 @@ XX - Distribuição: atividade de comercialização por atacado com a rede varej
 XXI - Revenda: atividade de venda a varejo de combustíveis, lubrificantes e gás liquefeito envasado, exercida por postos de serviços ou revendedores, na forma das leis e regulamentos aplicáveis;
 XXII - Distribuição de Gás Canalizado: serviços locais de comercialização de gás canalizado, junto aos usuários finais, explorados com exclusividade pelos Estados, diretamente ou mediante concessão, nos termos do § 2º do art. 25 da Constituição Federal;
 XXIII - Estocagem de Gás Natural: armazenamento de gás natural em reservatórios próprios, formações naturais ou artificiais.
+XXIV - Biocombustível: combustível derivado de biomassa renovável para uso em motores a combustão interna ou, conforme regulamento, para outro tipo de geração de energia, que possa substituir parcial ou totalmente combustíveis de origem fóssil;.
+XXV - Biodiesel: biocombustível derivado de biomassa renovável para uso em motores a combustão interna com ignição por compressão ou, conforme regulamento, para geração de outro tipo de energia, que possa substituir parcial ou totalmente combustíveis de origem fóssil.

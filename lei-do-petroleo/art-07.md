@@ -1,2 +1,2 @@
-Art. 7º Fica instituída a Agência Nacional do Petróleo - ANP, entidade integrante da Administração Federal indireta, submetida ao regime autárquico especial, como órgão regulador da indústria do petróleo, vinculado ao Ministério de Minas e Energia.
+Art. 7º Fica instituída a Agência Nacional do Petróleo, Gás Natural e Biocombustíves - ANP, entidade integrante da Administração Federal Indireta, submetida ao regime autárquico especial, como órgão regulador da indústria do petróleo, gás natural, seus derivados e biocombustíveis, vinculada ao Ministério de Minas e Energia.
 Parágrafo único. A ANP terá sede e foro no Distrito Federal e escritórios centrais na cidade do Rio de Janeiro, podendo instalar unidades administrativas regionais.
