@@ -1,0 +1,2 @@
+Art. 1º - O caput do art. 224 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943, mantidos os seus parágrafos, passa a vigorar com a seguinte redação:
+“Art. 224 - A duração normal do trabalho dos empregados em bancos, casas bancárias e Caixa Econômica Federal será de 6 (seis) horas continuas nos dias úteis, com exceção dos sábados, perfazendo um total de 30 (trinta) horas de trabalho por semana.”
