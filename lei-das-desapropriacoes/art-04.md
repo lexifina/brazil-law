@@ -1,0 +1,1 @@
+Art. 4º A desapropriação poderá abranger a área contígua necessária ao desenvolvimento da obra a que se destina, e as zonas que se valorizarem extraordinariamente, em consequência da realização do serviço. Em qualquer caso, a declaração de utilidade pública deverá compreendê-las, mencionando-se quais as indispensaveis à continuação da obra e as que se destinam à revenda.

@@ -1,0 +1,2 @@
+Art. 13. A petição inicial, alem dos requisitos previstos no Código de Processo Civil, conterá a oferta do preço e será instruida com um exemplar do contrato, ou do jornal oficial que houver publicado o decreto de desapropriação, ou cópia autenticada dos mesmos, e a planta ou descrição dos bens e suas confrontações.
+Parágrafo único. Sendo o valor da causa igual ou inferior a dois contos de réis (2:000$0), dispensam-se os autos suplementares.

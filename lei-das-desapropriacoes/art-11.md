@@ -1,0 +1,1 @@
+Art. 11. A ação, quando a União for autora, será proposta no Distrito Federal ou no foro da Capital do Estado onde for domiciliado o réu, perante o juizo privativo, se houver; sendo outro o autor, no foro da situação dos bens.

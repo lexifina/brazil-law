@@ -1,0 +1,1 @@
+Art. 3º Os concessionários de serviços públicos e os estabelecimentos de carater público ou que exerçam funções delegadas de poder público poderão promover desapropriações mediante autorização expressa, constante de lei ou contrato.
