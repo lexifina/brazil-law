@@ -1,0 +1,2 @@
+Art. 7º-A. As pessoas jurídicas de direito privado, mantenedoras de instituições de ensino superior, previstas no inciso II do art. 19 da Lei nº 9.394, de 20 de dezembro de 1996, poderão assumir qualquer das formas admitidas em direito, de natureza civil ou comercial e, quando constituídas como fundações, serão regidas pelo disposto no art. 24 do Código Civil Brasileiro.
+Parágrafo único. Quaisquer alterações estatutárias na entidade mantenedora, devidamente averbadas pelos órgãos competentes, deverão ser comunicadas ao Ministério da Educação, para as devidas providências.

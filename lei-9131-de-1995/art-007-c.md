@@ -1,0 +1,1 @@
+Art. 7º-C. As entidades mantenedoras de instituições privadas de ensino superior comunitárias, confessionais e filantrópicas ou constituídas como fundações não poderão ter finalidade lucrativa e deverão adotar os preceitos do art. 14 do Código Tributário Nacional e do art. 55 da Lei nº 8.212, de 24 de julho de 1991, além de atender ao disposto no art. 7º-B.

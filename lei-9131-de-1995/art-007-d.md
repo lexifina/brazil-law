@@ -1,0 +1,1 @@
+Art. 7º-D. As entidades mantenedoras de instituições de ensino superior, com finalidade lucrativa, ainda que de natureza civil, deverão elaborar, em cada exercício social, demonstrações financeiras atestadas por profissionais competentes.
