@@ -1,0 +1,1 @@
+Art. 1º-A. O servidor público titular de cargo efetivo da União, dos Estados, do Distrito Federal e dos Municípios ou o militar dos Estados e do Distrito Federal filiado a regime próprio de previdência social, quando cedido a órgão ou entidade de outro ente da federação, com ou sem ônus para o cessionário, permanecerá vinculado ao regime de origem.
