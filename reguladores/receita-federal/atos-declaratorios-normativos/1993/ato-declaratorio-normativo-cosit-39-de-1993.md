@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 39, de 8 de dezembro de 1993
+Dispõe sobre o tratamento aplicável à provisão do imposto de renda não utilizada, em razão da opção pela realização antecipada do lucro inflacionário acumulado de que trata o art. 31 da Lei nº 8.541, de 23 de dezembro de 1992.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso de suas atribuições, e tendo em vista o disposto no art. 10 da Instrução Normativa SRF nº 96, de 30 de novembro de 1993.
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal e demais interessados que a diferença entre o valor correspondente à provisão do imposto de renda sobre o lucro inflacionário acumulado acrescido do saldo credor da diferença de correção monetária complementar IPC/BTNF, e o valor do imposto devido, relativo ao exercício da opção prevista no art. 31 da Lei nº 8.541, de 23 de dezembro de 1992, poderá ser excluída do lucro líquido, para efeito de determinação do lucro real e da base de cálculo da contribuição social sobre o lucro.
+ARISTÓFANES FONTOURA DE HOLANDA
