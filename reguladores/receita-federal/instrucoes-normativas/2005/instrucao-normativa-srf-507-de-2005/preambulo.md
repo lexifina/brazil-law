@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 507, de 11 de fevereiro de 2005
+Dispõe sobre a apresentação da Declaração de Ajuste Anual do Imposto de Renda referente ao exercício de 2005, ano-calendário de 2004, pela pessoa física residente no Brasil.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 190 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF no 227, de 3 de setembro de 1998, e tendo em vista o disposto no art. 88 da Lei nº 8.981, de 20 de janeiro de 1995, no art. 30 da Lei nº 9.249, de 26 de dezembro de 1995, nos arts. 7º e 10 da Lei nº 9.250, de 26 de dezembro de 1995, com a redação dada, respectivamente, pelo art. 25 da Lei nº 9.532, de 10 de dezembro de 1997, e pelo art. 2º da Lei nº 10.451, de 10 de maio de 2002, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
+Obrigatoriedade de Apresentação
