@@ -1,0 +1,2 @@
+Art. 15. Conforme disciplina a ser emitida pela ANEEL, as concessionárias de distribuição deverão incorporar a seus patrimônios as redes particulares que não dispuserem de ato autorizativo do Poder Concedente até 31 de dezembro de 2005 ou, mesmo dispondo, desde que exista interesse das partes em que sejam transferidas.
+Parágrafo único. Os custos decorrentes dessa incorporação, incluindo a reforma das redes, serão considerados pela ANEEL nos processos de revisão tarifária.

@@ -1,0 +1,4 @@
+Art. 14. Fica autorizada a constituição, no âmbito do Poder Executivo e sob sua coordenação direta, do Comitê de Monitoramento do Setor Elétrico - CMSE, com a função precípua de acompanhar e avaliar permanentemente a continuidade e a segurança do suprimento eletroenergético em todo o território nacional.
+§ 1º Integram, de forma permanente, o CMSE representantes das entidades responsáveis pelo planejamento da expansão, operação eletroenergética dos sistemas elétricos, administração da comercialização de energia elétrica e regulação do setor elétrico nacional.
+§ 2º A critério da coordenação, poderão ser chamados a participar representantes de entidades governamentais afetas aos assuntos específicos de interesse do Comitê.
+§ 3º A coordenação do Comitê poderá constituir comissões temáticas incorporando uma representação pluralista dos agentes setoriais em sua composição, conforme definições a serem estabelecidas em regulamento próprio.

@@ -1,0 +1,1 @@
+Art. 28. A regulamentação estabelecerá critérios e instrumentos que assegurem tratamento isonômico quanto aos encargos setoriais entre os consumidores sujeitos ao fornecimento exclusivo por concessionárias e permissionárias de distribuição de energia elétrica e demais usuários, observada a legislação em vigor.

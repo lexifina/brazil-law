@@ -1,0 +1,5 @@
+Art. 24. As concessionárias e permissionárias de distribuição de energia elétrica poderão, conforme disciplina a ser estabelecida pela ANEEL, condicionar a continuidade do fornecimento aos usuários inadimplentes de mais de uma fatura mensal em um período de 12 (doze) meses:
+I - ao oferecimento de depósito-caução, limitado ao valor inadimplido, não se aplicando o disposto neste inciso ao consumidor integrante da Classe Residencial; ou
+II - à comprovação de vínculo entre o titular da unidade consumidora e o imóvel onde ela se encontra, não se aplicando o disposto neste inciso ao consumidor integrante da Subclasse Residencial Baixa Renda.
+§ 1º Em se tratando de inadimplência de usuário apto à livre aquisição de energia, poderá a concessionária ou permissionária do serviço público de distribuição de energia elétrica exigir que o usuário inadimplente, para utilizar-se do serviço de distribuição, apresente contrato de compra de energia junto a outro agente comercializador.
+§ 2º Não se aplica o disposto nos incisos I e II deste artigo aos consumidores que prestam serviços públicos essenciais.

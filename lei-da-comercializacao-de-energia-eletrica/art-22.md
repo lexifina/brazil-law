@@ -1,0 +1,2 @@
+Art. 22. Ocorrendo a decretação de racionamento de energia elétrica pelo Poder Concedente em uma região, todos os contratos por quantidade de energia do ambiente de contratação regulada, registrados na CCEE, cujos compradores estejam localizados nessa região, deverão ter seus volumes ajustados na mesma proporção da redução de consumo verificado.
+Parágrafo único. As regras de contabilização da CCEE poderão prever tratamento específico para situações de restrição compulsória de consumo, visando a limitar seus impactos sobre as regiões não submetidas ao racionamento.
