@@ -1,0 +1,2 @@
+Art. 17. Em caso de condenação da edificação pela autoridade pública, ou ameaça de ruína, pelo voto dos condôminos que representem mais de dois têrços das quotas ideais do respectivo terreno poderá ser decidida a sua demolição e reconstrução.
+Parágrafo único. A minoria não fica obrigada a contribuir para as obras, mas assegura-se a maioria o direito de adquirir as partes dos dissidentes, mediante avaliação judicial, aplicando-se o processo previsto no art. 15.

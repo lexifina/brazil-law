@@ -1,0 +1,1 @@
+Art. 45. É lícito ao incorporador recolher o impôsto do sêlo devido, mediante apresentação dos contratos preliminares, até 10 dias a contar do vencimento do prazo de carência a que se refere o art. 34, extinta a obrigação se, dentro deste prazo, fôr denunciada a incorporação.

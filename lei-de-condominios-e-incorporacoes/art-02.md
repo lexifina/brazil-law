@@ -1,0 +1,1 @@
+Art. 2º Cada unidade com saída para a via pública, diretamente ou por processo de passagem comum, será sempre tratada como objeto de propriedade exclusiva, qualquer que seja o número de suas peças e sua destinação, inclusive (VETADO) edifício-garagem, com ressalva das restrições que se lhe imponham.

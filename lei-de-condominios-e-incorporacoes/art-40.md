@@ -1,0 +1,5 @@
+Art. 40. No caso de rescisão de contrato de alienação do terreno ou de fração ideal, ficarão rescindidas as cessões ou promessas de cessão de direitos correspondentes à aquisição do terreno.
+§ 1º Nesta hipótese, consolidar-se-á, no alienante em cujo favor se opera a resolução, o direito sôbre a construção porventura existente.
+§ 2º No caso do parágrafo anterior, cada um dos ex-titulares de direito à aquisição de unidades autônomas haverá do mencionado alienante o valor da parcela de construção que haja adicionado à unidade, salvo se a rescisão houver sido causada pelo ex-titular.
+§ 3º Na hipótese dos parágrafos anteriores, sob pena de nulidade, não poderá o alienante em cujo favor se operou a resolução voltar a negociar seus direitos sôbre a unidade autônoma, sem a prévia indenização aos titulares, de que trata o § 2º.
+§ 4º No caso do parágrafo anterior, se os ex-titulares tiverem de recorrer à cobrança judicial do que lhes fôr devido, sòmente poderão garantir o seu pagamento a unidade e respectiva fração de terreno objeto do presente artigo.

@@ -1,0 +1,1 @@
+Art. 7º O condomínio por unidades autônomas instituir-se-á por ato entre vivos ou por testamento, com inscrição obrigatória no Registro de Imóvel, dêle constando; a individualização de cada unidade, sua identificação e discriminação, bem como a fração ideal sôbre o terreno e partes comuns, atribuída a cada unidade, dispensando-se a descrição interna da unidade.
