@@ -1,0 +1,2 @@
+Art. 15. Compete à Secretaria da Receita Federal a administração do ITR, incluídas as atividades de arrecadação, tributação e fiscalização.
+Parágrafo único. No processo administrativo fiscal, compreendendo os procedimentos destinados à determinação e exigência do imposto, imposição de penalidades, repetição de indébito e solução de consultas, bem como a compensação do imposto, observar-se-á a legislação prevista para os demais tributos federais.

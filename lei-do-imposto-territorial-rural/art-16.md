@@ -1,0 +1,5 @@
+Art. 16. A Secretaria da Receita Federal poderá celebrar convênio com o Instituto Nacional de Colonização e Reforma Agrária - INCRA, com a finalidade de delegar as atividades de fiscalização das informações sobre os imóveis rurais, contidas no DIAC e no DIAT.
+§ 1º No exercício da delegação a que se refere este artigo, o INCRA poderá celebrar convênios de cooperação com o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, Fundação Nacional do Índio - FUNAI e Secretarias Estaduais de Agricultura.
+§ 2º No uso de suas atribuições, os agentes do INCRA terão acesso ao imóvel de propriedade particular, para levantamento de dados e informações.
+§ 3º A Secretaria da Receita Federal, na forma do convênio a que se refere este artigo, colocará à disposição do INCRA as informações contidas no CAFIR, para fins de levantamento, pesquisas e proposição de ações administrativas e judiciais de política fundiária.
+§ 4º Às informações enviadas ao INCRA na forma do parágrafo anterior, aplica-se o disposto no art. 198 da Lei nº 5.172, de 25 de outubro de 1966 - Sistema Tributário Nacional.

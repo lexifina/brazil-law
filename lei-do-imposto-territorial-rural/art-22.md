@@ -1,0 +1,2 @@
+Art. 22. O valor da terra nua para fins do depósito judicial, a que se refere o inciso I do art. 6º da Lei Complementar nº 76, de 6 de julho de 1993, na hipótese de desapropriação do imóvel rural de que trata o art. 184 da Constituição, não poderá ser superior ao VTN declarado, observado o disposto no art. 14.
+Parágrafo único. A desapropriação por valor inferior ao declarado não autorizará a redução do imposto a ser pago, nem a restituição de quaisquer importâncias já recolhidas.
