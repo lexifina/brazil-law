@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 118, de 27 de setembro de 1999
+Dispõe sobre o prazo para apresentar a Declaração de Informações Econômico-Fiscais da Pessoa Jurídica - DIPJ 1999.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista o disposto no art. 16 da Lei No 9.779, de 19 de janeiro de 1999, nas Instruções Normativas SRF No 127, de 30 de outubro de 1998, No 91, de 23 de julho de 1999 e No 100, de 17 de agosto de 1999, e considerando que o programa gerador da declaração somente foi disponibilizado em 20 de agosto de 1999, e que a Declaração de Informações Econômico-Fiscais da Pessoa Jurídica - DIPJ constitui inovação conceitual na forma de prestação de informações econômico-fiscais da pessoa jurídica, resolve:
