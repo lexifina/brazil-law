@@ -1,0 +1,1 @@
+Art. 41 - O Tribunal de Justiça do Estado de Mato Grosso manterá íntegra, até a Instalação do Tribunal de Justiça do Estado de Mato Grosso do Sul, sua competência originária e recursal, abrangendo sua jurisdição todo o território do Estado de Mato Grosso anterior à criação do novo Estado.

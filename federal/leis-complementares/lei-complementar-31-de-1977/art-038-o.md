@@ -1,0 +1,3 @@
+Art. 38 - O Poder Executivo federal instituirá, a partir de 1979, programas especiais de desenvolvimento para os Estados de Mato Grosso e Mato Grosso do Sul, com duração de 10 (dez) anos, propiciando apoio financeiro aos Governos dos dois Estados, inclusive quanto a despesas correntes.
+§ 1º - No exercício financeiro de 1979, os referidos programas deverão envolver recursos da União no valor mínimo de Cr$2.000.000.000,00 (dois bilhões de cruzeiros), dos quais pelo menos Cr$1.400.000.000,00 (hum bilhão e quatrocentos milhões de cruzeiros), destinados ao Estado de Mato Grosso.
+§ 2º - Os recursos para os programas de que trata este artigo deverão constar dos projetos de lei orçamentária anual e plurianual da União.

@@ -1,0 +1,2 @@
+Art. 46 - A área de atuação da Superintendência de Desenvolvimento da Região Centro-Oeste compreenderá os Estados de Mato Grosso, Mato Grosso do Sul, Goiás, o Distrito Federal e o Território Federal de Rondônia.
+Parágrafo único - O Poder Executivo federal dotará a Superintendência de Desenvolvimento da Região Centro-Oeste dos instrumentos necessários para o planejamento regional e coordenação da execução dos programas especiais de desenvolvimento de que trata o art. 38.

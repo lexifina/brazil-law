@@ -1,0 +1,1 @@
+Art. 17 - O Ministério Público do Estado de Mato do Sul terá por Chefe o Procurador-Geral, nomeado, em comissão pelo Governador, dentre cidadãos maiores de 35 (trinta e cinco) anos, de notório saber jurídico e reputação ilibada.

@@ -1,0 +1,2 @@
+Art. 4º - A Assembléia Constituinte do Estado de Mato Grosso do Sul será eleita no dia 15 de novembro de 1978 e instalar-se-á no dia 1º de janeiro de 1979, sob a presidência do Presidente do Tribunal Regional Eleitoral do Estado de Mato Grosso.
+Parágrafo único - O número de Deputados à Assembléia Constituinte será fixado de acordo com as normas constitucionais que disciplinam a composição das Assembléias Legislativas dos Estados.

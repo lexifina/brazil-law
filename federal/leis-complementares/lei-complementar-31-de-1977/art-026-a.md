@@ -1,0 +1,2 @@
+Art. 26 - A contagem do tempo de serviço dos servidores redistribuídos não será interrompida, sendo válida no Estado em que se integrarem, para todos os efeitos legais.
+Parágrafo único - Os contribuintes do Instituto de Previdência do Estado de Mato Grosso - IPEMAT, lotados no Estado de Mato Grosso do Sul, continuarão contribuindo para aquela entidade, até que instituição análoga seja criada no novo Estado, quando lhe serão transferidos tais contratos de pecúlio, mediante convênio firmado pelas duas entidades.

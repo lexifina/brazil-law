@@ -1,0 +1,6 @@
+Art. 48 - O Poder Executivo federal criará Comissão Especial, vinculada ao Ministério do Interior e integrada por representantes deste e do Ministério da Justiça, da Secretaria de Planejamento da Presidência da República e do Departamento Administrativo do Serviço Público - DASP, com as seguintes finalidades:
+I - propor os programas especiais de desenvolvimento referidos no art. 38 e acompanhar a sua execução;
+II - assessorar o Governo federal e colaborar com os Governos dos Estados de Mato Grosso e de Mato Grosso do Sul na execução das medidas decorrentes desta Lei, especialmente as relativas ao patrimônio, pessoal e orçamento, submetendo à apreciação do Presidente da República as questões pendentes de decisão no âmbito dos Governos dos dois Estados e de órgãos ou entidades do Governo federal;
+III - examinar os encargos financeiros das entidades da Administração Indireta e Fundações criadas por lei estadual, propondo medidas destinadas a definição das responsabilidades financeiras, inclusive a cooperação do Governo federal;
+IV - outras, a ela atribuídas no corpo desta Lei.
+Parágrafo único - Integrarão a Comissão Especial representantes dos Governos dos Estados de Mato Grosso e de Mato Grosso do Sul.

@@ -1,0 +1,1 @@
+Art. 31 - O Estado de Mato Grosso do Sul constituirá, a partir das eleições de 1978, circunscrição eleitoral distinta da do Estado de Mato Grosso, válidos os atuais títulos nas respectivas Zonas Eleitorais.

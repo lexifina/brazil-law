@@ -1,0 +1,5 @@
+Art. 22 - O patrimônio das entidades da Administração Indireta e das Fundações instituídas por lei estadual, compreendendo os bens, rendas, direitos e encargos, será distribuído entre os Estados de Mato Grosso e de Mato Grosso do Sul, em função das respectivas necessidades, com prévia audiência da Comissão Especial a ser criada nos termos desta Lei.
+§ 1º - Fica a União autorizada a assumir a dídiva fundada e encargos financeiros da Administração Direta do Governo do Estado de Mato Grosso, a partir de 1º de janeiro de 1979, inclusive os decorrentes de prestação de garantia, ouvida a Comissão Especial mencionada neste artigo e mediante aprovação do Presidente da República.
+§ 2º - Até 31 de dezembro de 1978, os órgãos da Administração Direta do Governo do Estado de Mato Grosso, as entidades da Administração Indireta e as Fundações criadas por lei estadual somente poderão assumir obrigações e encargos financeiros que ultrapassem aquele exercício, quando previamente autorizadas pelo Presidente da República.
+CAPÍTULO IV
+Do Pessoal

@@ -1,0 +1,1 @@
+Art. 29 - A partir do exercício financeiro de 1979, inclusive, as transferências da União aos Estados de Mato Grosso e de Mato Grosso do Sul, decorrentes das disposições constitucionais e legais vigentes, deverão ser previstas como receita, nos respectivos orçamentos.
