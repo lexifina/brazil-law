@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 462, de 19 de outubro de 2004
+Altera a Instrução Normativa SRF nº 222, de 11 de outubro de 2002, que institui o Serviço Interativo de Atendimento Virtual, e aprova os leiautes de referência dos cartões inteligentes (smart cards) para armazenamento de certificados digitais e-CPF e e-CNPJ.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto na Medida Provisória nº 2.200-2, de 24 de agosto de 2001, que institui a InfraEstrutura de Chaves Públicas Brasileira (ICP-Brasil), resolve:
