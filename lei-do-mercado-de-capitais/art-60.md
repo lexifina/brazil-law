@@ -1,2 +1,2 @@
-Art. 60. O Poder Executivo poderá promover a alienação de ações de propriedade da União, representativas do capital de sociedades de economia mista e de suas subsidiárias, mantendo 51% (cinqüenta e um por cento), no mínimo, das ações das emprêsas nas quais (vetado) deva assegurar o contrôle estatal.
-Parágrafo único. É excluída das disposições dêste artigo a Petróleo Brasileiro S.A. - PETROBRÁS.
+Art. 60. O Poder Executivo poderá promover a alienação de ações de propriedade da União representativas do capital social de sociedades anônimas de economia mistas, mantendo-se 51% (cinqüenta e um por cento) no mínimo, das ações com direito a voto, das emprêsas nas quais deva assegurar o contrôle estatal.
+Parágrafo único. As transferências de ações de propriedade da União, representativas de capital social da Petróleo Brasileiro S.A. - PETROBRÁS - e de suas subsidiárias em território nacional, reger-se-ão pelo disposto no artigo 11 de Lei nº 2.004, de 3 de outubro de 1953.
