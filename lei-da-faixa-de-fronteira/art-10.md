@@ -1,0 +1,2 @@
+Art. 10. - Anualmente, o Desembargador - Corregedor da Justiça Estadual, ou magistrado por ele indicado, realizará correção nos livros dos Tabeliães e Oficiais do Registro de Imóveis, nas comarcas dos respectivos Estados que possuírem municípios abrangidos pelo Faixa de Fronteira, para verificar o cumprimento desta Lei, determinando, de imediato, as providências que forem necessárias.
+Parágrafo único - Nos Territórios Federais, a correção prevista neste artigo será realizada pelo Desembargador - Corregedor da Justiça do Distrito Federal e dos Territórios.

@@ -1,0 +1,1 @@
+Art. 5º. - As Juntas Comerciais não poderão arquivar ou registrar contrato social, estatuto ou ato constitutivo de sociedade, bem como suas eventuais alterações, quando contrariarem o disposto nesta Lei.
