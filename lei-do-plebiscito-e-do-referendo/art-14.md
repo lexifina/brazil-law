@@ -1,0 +1,1 @@
+Art. 14. A Câmara dos Deputados, verificando o cumprimento das exigências estabelecidas no art. 13 e respectivos parágrafos, dará seguimento à iniciativa popular, consoante as normas do Regimento Interno.
