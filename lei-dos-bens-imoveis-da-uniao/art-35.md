@@ -1,0 +1,1 @@
+Art. 35. A Caixa Econômica Federal fará jus a parte da taxa de juros, equivalente a 3,15% (três inteiros e quinze centésimos por cento) ao ano, nas vendas a prazo de que trata o artigo anterior, como retribuição pelos serviços prestados à União, de que dispõe esta Lei.

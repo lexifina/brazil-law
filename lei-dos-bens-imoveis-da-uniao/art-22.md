@@ -1,0 +1,3 @@
+Art. 22. A utilização, a título precário, de áreas de domínio da União para a realização de eventos de curta duração, de natureza recreativa, esportiva, cultural, religiosa ou educacional, poderá ser autorizada, na forma do regulamento, sob o regime de permissão de uso, em ato do Secretário do Patrimônio da União, publicado no Diário Oficial da União.
+§ 1º A competência para autorizar a permissão de uso de que trata este artigo poderá ser delegada aos titulares das Delegacias do Patrimônio da União nos Estados.
+§ 2º Em áreas específicas, devidamente identificadas, a competência para autorizar a permissão de uso poderá ser repassada aos Estados e Municípios, devendo, para tal fim, as áreas envolvidas lhes serem cedidas sob o regime de cessão de uso, na forma do art. 18.

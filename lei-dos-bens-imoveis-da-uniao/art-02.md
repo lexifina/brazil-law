@@ -1,0 +1,2 @@
+Art. 2º Concluído, na forma da legislação vigente, o processo de identificação e demarcação das terras de domínio da União, a SPU lavrará, em livro próprio, com força de escritura pública, o termo competente, incorporando a área ao patrimônio da União.
+Parágrafo único. O termo a que se refere este artigo, mediante certidão de inteiro teor, acompanhado de plantas e outros documentos técnicos que permitam a correta caracterização do imóvel, será registrado no Cartório de Registro de Imóveis competente.
