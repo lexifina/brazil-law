@@ -1,0 +1,1 @@
+Art. 3º - A presente doação se tornará nula, sem direito a qualquer indenização, inclusive por benfeitorias ou obras em geral realizadas, se ao imóvel, no todo ou em parte, for dada destinação diversa da prevista no artigo anterior ou, ainda, se houver inadimplemento de cláusula do contrato a ser lavrado.
