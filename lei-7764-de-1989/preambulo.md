@@ -1,0 +1,2 @@
+Baixa normas complementares para a execução do Programa de Estabilização Econômica de que trata a Lei nº 7.730, de 31 de janeiro de 1989, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 44, de 1989, que o Congresso Nacional aprovou, e eu, Nelson Carneiro, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
