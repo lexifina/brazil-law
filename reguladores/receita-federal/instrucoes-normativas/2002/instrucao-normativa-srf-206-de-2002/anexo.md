@@ -1,0 +1,11 @@
+ANEXO 1
+INFORMAÇÕES A SEREM PRESTADAS PELO IMPORTADOR
+Anexo I
+[arquivo anexo: ANEXO I.doc]
+AUTORIZAÇÃO DE ACESSO PARA INSPEÇÃO PRÉVIA
+Anexo II
+[arquivo anexo: ANEXO II.doc]
+ANEXO 3
+TABELA DE AMOSTRAGEM
+Anexo III
+[arquivo anexo: ANEXO III.doc]
