@@ -1,0 +1,2 @@
+Art. 7º A desestatização dos serviços públicos, efetivada mediante uma das modalidades previstas no art. 4° desta Lei, pressupõe a delegação, pelo Poder Público, de concessão ou permissão do serviço, objeto da exploração, observada a legislação aplicável ao serviço.
+Parágrafo único. Os princípios gerais e as diretrizes específicas aplicáveis à concessão, permissão ou autorização, elaborados pelo Poder Público, deverão constar do edital de desestatização.

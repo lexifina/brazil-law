@@ -1,0 +1,1 @@
+Art. 16. As empresas incluídas no Programa Nacional de Desestatização que vierem a integrar o Fundo Nacional de Desestatização terão sua estratégia voltada para atender os objetivos da desestatização.
