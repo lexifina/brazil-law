@@ -4,7 +4,7 @@ a) adição do valor das provisões não dedutíveis na determinação do lucro 
 b) adição do valor da reserva de reavaliação, baixado no curso do período-base, que não tenha sido computado no lucro líquido;
 c) exclusão do valor, corrigido monetariamente, das provisões adicionadas, na forma da alínea a, que tenham sido baixadas no curso do período-base, utilizando-se a variação do BTN Fiscal.
 d) compensação de prejuízos contábeis apurados em balanço de encerramento de período-base anterior, desde que tenham sido compensados contabilmente, ressalvado do disposto no § 2º deste artigo.
-e) exclusão do resultado positivo da avaliação de investimentos pelo valor de patrimônio líquido;
+e) exclusão do resultado positivo de avaliação de investimentos pelo valor de patrimônio líquido;
 f) exclusão dos lucros e dividendos derivados de investimentos avaliados pelo custo de aquisição, que tenham sido computados como receita;
 g) adição do resultado negativo da avaliação de investimentos pelo valor de patrimônio líquido.
 § 2º Não poderão ser compensados os prejuízos:
