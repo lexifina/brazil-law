@@ -1,0 +1,2 @@
+Art. 26 Quando o endosso contiver a cláusula ''valor em cobrança'', ''para cobrança'', ''por procuração'', ou qualquer outra que implique apenas mandato, o portador pode exercer todos os direitos resultantes do cheque, mas só pode lançar no cheque endosso-mandato. Neste caso, os obrigados somente podem invocar contra o portador as exceções oponíveis ao endossante.
+Parágrafo único. O mandato contido no endosso não se extingue por morte do endossante ou por superveniência de sua incapacidade.

@@ -1,0 +1,1 @@
+Art. 25 Quem for demandado por obrigação resultante de cheque não pode opor ao portador exceções fundadas em relações pessoais com o emitente, ou com os portadores anteriores, salvo se o portador o adquiriu conscientemente em detrimento do devedor.
