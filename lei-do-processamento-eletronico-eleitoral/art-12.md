@@ -1,0 +1,6 @@
+Art. 12 - Nas seções das Zonas Eleitorais em que o alistamento se fizer pelo processamento eletrônico de dados, as folhas individuais de votação serão substituídas por listas de eleitores, emitidas por computador, das quais constarão, além do nome do eleitor, os dados de qualificação indicados pelo Tribunal Superior Eleitoral.
+§ 1º - Somente poderão votar fora da respectiva seção os mesários, os candidatos e os fiscais ou delegados de Partidos Políticos, desde que eleitores do Município e de posse do título eleitoral.
+§ 2º - Ainda que não esteja de posse do seu título, o eleitor será admitido a votar desde que seja inscrito na seção, conste da lista dos eleitores e exiba documento que comprove sua identidade.
+§ 3º - Os votos dos eleitores mencionados nos parágrafos anteriores não serão tomados em separado.
+§ 4º - O voto em separado será recolhido em invólucro especial e somente será admitido quando houver dúvida quanto à identidade ou inscrição do eleitor, ou quando da lista não constar nome de eleitor que apresentar título correspondente à seção.
+§ 5º - A validade dos votos tomados em separado, das seções de um mesmo Município, será examinada em conjunto pela Junta Apuradora, independentemente da apuração dos votos contidos nas urnas.
