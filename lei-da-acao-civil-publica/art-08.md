@@ -1,0 +1,3 @@
+Art. 8º Para instruir a inicial, o interessado poderá requerer às autoridades competentes as certidões e informações que julgar necessárias, a serem fornecidas no prazo de 15 (quinze) dias.
+§ 1º O Ministério Público poderá instaurar, sob sua presidência, inquérito civil, ou requisitar, de qualquer organismo público ou particular, certidões, informações, exames ou perícias, no prazo que assinalar, o qual não poderá ser inferior a 10 (dez) dias úteis.
+§ 2º Somente nos casos em que a lei impuser sigilo, poderá ser negada certidão ou informação, hipótese em que a ação poderá ser proposta desacompanhada daqueles documentos, cabendo ao juiz requisitá-los.
