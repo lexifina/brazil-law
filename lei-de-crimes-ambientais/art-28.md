@@ -1,0 +1,6 @@
+Art. 28. As disposições do art. 89 da Lei nº 9.099, de 26 de setembro de 1995, aplicam-se aos crimes de menor potencial ofensivo definidos nesta Lei, com as seguintes modificações:
+I - a declaração de extinção de punibilidade, de que trata o § 5º do artigo referido no caput, dependerá de laudo de constatação de reparação do dano ambiental, ressalvada a impossibilidade prevista no inciso I do § 1º do mesmo artigo;
+II - na hipótese de o laudo de constatação comprovar não ter sido completa a reparação, o prazo de suspensão do processo será prorrogado, até o período máximo previsto no artigo referido no caput, acrescido de mais um ano, com suspensão do prazo da prescrição;
+III - no período de prorrogação, não se aplicarão as condições dos incisos II, III e IV do § 1º do artigo mencionado no caput;
+IV - findo o prazo de prorrogação, proceder-se-á à lavratura de novo laudo de constatação de reparação do dano ambiental, podendo, conforme seu resultado, ser novamente prorrogado o período de suspensão, até o máximo previsto no inciso II deste artigo, observado o disposto no inciso III;
+V - esgotado o prazo máximo de prorrogação, a declaração de extinção de punibilidade dependerá de laudo de constatação que comprove ter o acusado tomado as providências necessárias à reparação integral do dano.
