@@ -1,1 +1,1 @@
-Art. 31. Do protocolo somente serão fornecidas informações ou certidões mediante solicitação escrita do devedor ou por determinação judicial.
+Art. 31. Poderão ser fornecidas certidões de protestos, não cancelados, a quaisquer interessados, desde que requeridas por escrito.
