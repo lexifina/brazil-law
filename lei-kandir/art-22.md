@@ -1,1 +1,0 @@
-Art. 22. (VETADO)

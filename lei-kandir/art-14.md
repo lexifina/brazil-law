@@ -1,2 +1,0 @@
-Art. 14. O preço de importação expresso em moeda estrangeira será convertido em moeda nacional pela mesma taxa de câmbio utilizada no cálculo do imposto de importação, sem qualquer acréscimo ou devolução posterior se houver variação da taxa de câmbio até o pagamento efetivo do preço.
-Parágrafo único. O valor fixado pela autoridade aduaneira para base de cálculo do imposto de importação, nos termos da lei aplicável, substituirá o preço declarado.

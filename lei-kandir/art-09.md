@@ -1,5 +1,0 @@
-Art. 9º A adoção do regime de substituição tributária em operações interestaduais dependerá de acordo específico celebrado pelos Estados interessados.
-§ 1º A responsabilidade a que se refere o art. 6º poderá ser atribuída:
-I - ao contribuinte que realizar operação interestadual com petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, em relação às operações subseqüentes;
-II - às empresas geradoras ou distribuidoras de energia elétrica, nas operações internas e interestaduais, na condição de contribuinte ou de substituto tributário, pelo pagamento do imposto, desde a produção ou importação até a última operação, sendo seu cálculo efetuado sobre o preço praticado na operação final, assegurado seu recolhimento ao Estado onde deva ocorrer essa operação.
-§ 2º Nas operações interestaduais com as mercadorias de que tratam os incisos I e II do parágrafo anterior, que tenham como destinatário consumidor final, o imposto incidente na operação será devido ao Estado onde estiver localizado o adquirente e será pago pelo remetente.
