@@ -1,0 +1,3 @@
+Art. 3º As concessionárias de serviços públicos de transmissão de energia elétrica ficam obrigadas a aplicar, anualmente, o montante de, no mínimo, um por cento de sua receita operacional líquida em pesquisa e desenvolvimento do setor elétrico, observado o seguinte:
+I - caso a empresa já tenha celebrado contrato de concessão, a obrigatoriedade de que trata o caput deste artigo passará a vigorar a partir da data da publicação desta Lei;
+II - caso a empresa ainda não tenha celebrado contrato de concessão, a obrigatoriedade de que trata o caput deste artigo passará a vigorar a partir da data de assinatura do referido contrato.
