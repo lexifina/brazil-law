@@ -1,1 +1,1 @@
-Art. 1º As pessoas portadoras de deficiência física, os idosos com idade igual ou superior a sessenta e cinco anos, as gestantes, as lactantes e as pessoas acompanhadas por crianças de colo terão atendimento prioritário, nos termos desta Lei.
+Art. 1º As pessoas portadoras de deficiência, os idosos com idade igual ou superior a 60 (sessenta) anos, as gestantes, as lactantes e as pessoas acompanhadas por crianças de colo terão atendimento prioritário, nos termos desta Lei.
