@@ -1,0 +1,1 @@
+Art. 52. Excepcionalmente para o ano-calendário de 2004, a opção pelo regime especial de que trata o art. 52 da Lei nº 10.833, de 29 de dezembro de 2003, poderá ser exercida até o último dia útil do mês subseqüente ao da publicação desta Lei, produzindo efeitos, de forma irretratável, a partir do mês subseqüente ao da opção, até 31 de dezembro de 2004.

@@ -1,0 +1,1 @@
+Art. 47. O disposto nos §§ 3º a 5º do art. 3º da Lei nº 10.485, de 3 de julho de 2002, com a redação dada por esta Lei, produz efeitos a partir do 1º (primeiro) dia do 3º (terceiro) mês subseqüente ao de publicação desta Lei.
