@@ -1,0 +1,1 @@
+Art. 29. Os recursos do PIS/Pasep repassados ao BNDES, em decorrência do § 1º do art. 239 da Constituição Federal, antes da vigência desta Lei, integrarão a Carteira de Desenvolvimento Econômico (CDE) do Fundo de Amparo ao Trabalhador (FAT), assegurados correção monetária pela variação do IPC e juros de 5% a.a. (cinco por cento ao ano), calculados sobre o saldo médio diário.

@@ -1,0 +1,2 @@
+Art. 4º O benefício do seguro-desemprego será concedido ao trabalhador desempregado, por um período máximo de 4 (quatro) meses, de forma contínua ou alternada, a cada período aquisitivo de 16 (dezesseis) meses, contados da data de dispensa que deu origem à primeira habilitação.
+Parágrafo único. O benefício do seguro-desemprego poderá ser retomado a cada novo período aquisitivo, satisfeitas as condições arroladas no art. 3º desta Lei, à exceção do seu inciso II.
