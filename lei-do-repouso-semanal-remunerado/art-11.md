@@ -1,1 +1,0 @@
-Art. 11. São feriados civis os declarados em lei federal. São feriados religiosos os dias de guarda, declarados em lei municipal, de acordo com a tradição local e em número não superior a quatro, neste incluída a Sexta-Feira da Paixão.
