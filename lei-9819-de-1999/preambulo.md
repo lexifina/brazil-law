@@ -1,0 +1,2 @@
+Acrescenta os §§ 1º e 2º ao art. 17 da Lei nº 8.029, de 12 de abril de 1990, renumerado para art. 20, nos termos da Lei nº 8.154, de 28 de dezembro de 1990.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.841-8, de 1999, que o Congresso Nacional aprovou, e eu, Antonio Carlos Magalhães, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
