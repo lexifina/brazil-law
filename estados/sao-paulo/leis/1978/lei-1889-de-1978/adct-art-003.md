@@ -1,0 +1,1 @@
+Artigo 3º - O número de Oficiais a serem incluídos em cada quadro suplementar pelos critérios de antiguidade e de merecimento será correspondente ao dobro das vagas que se verificarem em cada critério, até a data da elaboração dos referidos Quadros de Acesso.

@@ -1,0 +1,3 @@
+## Disposições Transitórias
+Artigo 1º - Para atender ao disposto nesta lei e tendo em vista a implantação definitiva da estrutura por ela estabelecida, a Comissão de Promoções, de que trata o Decreto-lei n. 13.654, de 6 de novembro de 1943, suplementará os Quadros de Acesso, para efeito das promoções a serem realizadas em 25 de janeiro de 1979.
+Parágrafo único - Na suplementação referida neste artigo serão cogitados todos os Oficiais que, na data da vigência desta lei, preencham os requisitos do artigo 10 do Decreto-lei n. 13.654, de 6 de novembro de 1943, com a redação dada por Decreto-lei de 3 de novembro de 1969.
