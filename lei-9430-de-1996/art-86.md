@@ -1,0 +1,1 @@
+Art. 86. Nos casos de pagamento de contraprestação de arrendamento mercantil, do tipo financeiro, a beneficiária pessoa jurídica domiciliada no exterior, a Secretaria da Receita Federal expedirá normas para excluir da base de cálculo do imposto de renda incidente na fonte a parcela remetida que corresponder ao valor do bem arrendado.

@@ -1,0 +1,1 @@
+Art. 34. São também passíveis de exame os documentos do sujeito passivo, mantidos em arquivos magnéticos ou assemelhados, encontrados no local da verificação, que tenham relação direta ou indireta com a atividade por ele exercida.

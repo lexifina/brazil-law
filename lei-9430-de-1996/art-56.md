@@ -1,0 +1,2 @@
+Art. 56. As sociedades civis de prestação de serviços de profissão legalmente regulamentada passam a contribuir para a seguridade social com base na receita bruta da prestação de serviços, observadas as normas da Lei Complementar nº 70, de 30 de dezembro de 1991.
+Parágrafo único. Para efeito da incidência da contribuição de que trata este artigo, serão consideradas as receitas auferidas a partir do mês de abril de 1997.

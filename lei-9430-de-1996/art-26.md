@@ -1,0 +1,5 @@
+Art. 26. A opção pela tributação com base no lucro presumido será aplicada em relação a todo o período de atividade da empresa em cada ano-calendário.
+§ 1º A opção de que trata este artigo será manifestada com o pagamento da primeira ou única quota do imposto devido correspondente ao primeiro período de apuração de cada ano-calendário.
+§ 2º A pessoa jurídica que houver iniciado atividade a partir do segundo trimestre manifestará a opção de que trata este artigo com o pagamento da primeira ou única quota do imposto devido relativa ao período de apuração do início de atividade.
+§ 3º A pessoa jurídica que houver pago o imposto com base no lucro presumido e que, em relação ao mesmo ano-calendário, alterar a opção, passando a ser tributada com base no lucro real, ficará sujeita ao pagamento de multa e juros moratórios sobre a diferença de imposto paga a menor.
+§ 4º A mudança de opção a que se refere o parágrafo anterior somente será admitida quando formalizada até a entrega da correspondente declaração de rendimentos e antes de iniciado procedimento de ofício relativo a qualquer dos períodos de apuração do respectivo ano-calendário.

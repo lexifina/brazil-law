@@ -1,0 +1,3 @@
+Art. 1º A partir do ano-calendário de 1997, o imposto de renda das pessoas jurídicas será determinado com base no lucro real, presumido, ou arbitrado, por períodos de apuração trimestrais, encerrados nos dias 31 de março, 30 de junho, 30 de setembro e 31 de dezembro de cada ano-calendário, observada a legislação vigente, com as alterações desta Lei.
+§ 1º Nos casos de incorporação, fusão ou cisão, a apuração da base de cálculo e do imposto de renda devido será efetuada na data do evento, observado o disposto no art. 21 da Lei nº 9.249, de 26 de dezembro de 1995.
+§ 2º Na extinção da pessoa jurídica, pela encerramento da liquidação, a apuração da base de cálculo e do imposto devido será efetuada na data desse evento.

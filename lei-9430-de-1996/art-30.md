@@ -1,0 +1,1 @@
+Art. 30. A pessoa jurídica que houver optado pela pagamento do imposto de renda na forma do art. 2º fica, também, sujeita ao pagamento mensal da contribuição social sobre o lucro líquido, determinada mediante a aplicação da alíquota a que estiver sujeita sobre a base de cálculo apurada na forma dos incisos I e II do artigo anterior.

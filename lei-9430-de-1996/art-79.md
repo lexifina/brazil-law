@@ -1,0 +1,1 @@
+Art. 79. Os bens admitidos temporariamente no País, para utilização econômica, ficam sujeitos ao pagamento dos impostos incidentes na importação proporcionalmente ao tempo de sua permanência em território nacional, nos termos e condições estabelecidos em regulamento.

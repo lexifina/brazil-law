@@ -1,0 +1,1 @@
+Art. 40. A falta de escrituração de pagamentos efetuados pela pessoa jurídica, assim como a manutenção, no passivo, de obrigações cuja exigibilidade não seja comprovada, caracterizam, também, omissão de receita.

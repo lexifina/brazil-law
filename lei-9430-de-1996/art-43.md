@@ -1,0 +1,2 @@
+Art. 43. Poderá ser formalizada exigência de crédito tributário correspondente exclusivamente a multa ou a juros de mora, isolada ou conjuntamente.
+Parágrafo único. Sobre o crédito constituído na forma deste artigo, não pago no respectivo vencimento, incidirão juros de mora, calculados à taxa a que se refere o § 3º do art. 5º, a partir do primeiro dia do mês subseqüente ao vencimento do prazo até o mês anterior ao do pagamento e de um por cento no mês de pagamento.

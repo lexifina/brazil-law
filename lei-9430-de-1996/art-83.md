@@ -1,0 +1,2 @@
+Art. 83. A representação fiscal para fins penais relativa aos crimes contra a ordem tributária definidos nos arts. 1º e 2º da Lei nº 8.137, de 27 de dezembro de 1990, será encaminhada ao Ministério Público após proferida a decisão final, na esfera administrativa, sobre a exigência fiscal do crédito tributário correspondente.
+Parágrafo único. As disposições contidas no caput do art. 34 da Lei nº 9.249, de 26 de dezembro de 1995, aplicam-se aos processos administrativos e aos inquéritos e processos em curso, desde que não recebida a denúncia pela juiz.

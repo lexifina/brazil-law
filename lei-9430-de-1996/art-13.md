@@ -1,0 +1,1 @@
+Art. 13. No balanço levantado para determinação do lucro real em 31 de dezembro de 1996, a pessoa jurídica poderá optar pela constituição de provisão para créditos de liquidação duvidosa na forma do art. 43 da Lei nº 8.981, de 20 de janeiro de 1995, com as alterações da Lei nº 9.065, de 20 de junho de 1995, ou pelas critérios de perdas a que se referem os arts. 9º a 12.
