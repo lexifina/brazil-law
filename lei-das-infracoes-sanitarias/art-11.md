@@ -1,0 +1,1 @@
+Art. 11 - A inobservância ou a desobediência às normas sanitárias para o ingresso e a fixação de estrangeiro no País, implicará em impedimento do desembarque ou permanência do alienígena no território nacional, pela autoridade sanitária competente.
