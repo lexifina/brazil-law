@@ -1,0 +1,1 @@
+Art. 3º - O Conselho Monetário Nacional poderá autorizar, para efeito dos recolhimentos devidos, o ajustamento das alíquotas indicadas nos arts. 2º e 3º da Lei Complementar nº 8, de 3 de dezembro de 1970, para o fim de equiparar as contribuições das empresas públicas e sociedades de economia mista às das empresas privadas.

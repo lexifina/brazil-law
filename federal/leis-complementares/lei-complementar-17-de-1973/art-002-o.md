@@ -1,0 +1,1 @@
+Art. 2º - O adicional a que se refere o artigo anterior será incorporado ao Fundo de Participação, aplicando-se os recursos de sua arrecadação, preferencialmente, na concessão de financiamentos aos Estados, mediante garantia de obrigações do Tesouro estadual, reajustáveis.
