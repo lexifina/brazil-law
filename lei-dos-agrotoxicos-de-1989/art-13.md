@@ -1,0 +1,1 @@
+Art. 13. A venda de agrotóxicos e afins aos usuários será feita através de receituário próprio, prescrito por profissionais legalmente habilitados, salvo casos excepcionais que forem previstos na regulamentação desta Lei.
