@@ -1,0 +1,1 @@
+Art. 4º - O disposto nos arts. 3º, 5º e 18, caput, da Lei nº 6.082, de 10 de julho de 1974, se aplica aos grupos de cargos efetivos do Quadro da Secretaria do Tribunal Regional Eleitoral do Estado do Acre.
