@@ -1,0 +1,1 @@
+Art. 29-C. Nas ações entre o FGTS e os titulares de contas vinculadas, bem como naquelas em que figurem os respectivos representantes ou substitutos processuais, não haverá condenação em honorários advocatícios.

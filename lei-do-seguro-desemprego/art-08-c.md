@@ -1,0 +1,1 @@
+Art. 8º-C. Para efeito de habilitação ao Seguro-Desemprego, desconsiderar-se-á o período de suspensão contratual de que trata o art. 476-A da CLT, para o cálculo dos períodos de que tratam os incisos I e II do art. 3º desta Lei.

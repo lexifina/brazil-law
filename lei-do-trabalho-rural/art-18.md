@@ -1,4 +1,4 @@
-Art. 18. As infrações aos dispositivos desta Lei e aos da Consolidação das Leis do Trabalho, salvo as do Título IV, Capítulos I, III, IV, VIII e IX serão punidas com multa de 1/10 (um décimo) a 10 (dez) salários mínimos regionais, segundo a natureza da infração e sua gravidade, aplicada em dobro, nos casos de reincidência, oposição à fiscalização ou desacato à autoridade.
-§ 1º A falta de registro de empregados ou o seu registro em livros ou fichas não rubricadas e legalizadas, na forma do art. 42, da Consolidação das Leis do Trabalho, sujeitará a empresa infratora à multa de 1 (um) salário mínimo regional por empregado em situação irregular.
-§ 2º Tratando-se de infrator primário, a penalidade, prevista neste artigo, não excederá de 04 (quatro) salários mínimos regionais.
-§ 3º As penalidades serão aplicadas pela autoridade competente do Ministério do Trabalho e da Previdência Social, de acordo com o disposto no Título VII, da Consolidação das Leis do Trabalho.
+Art. 18. As infrações aos dispositivos desta Lei serão punidas com multa de R$ 380,00 (trezentos e oitenta reais) por empregado em situação irregular.
+§ 1º As infrações aos dispositivos da Consolidação das Leis do Trabalho - CLT e legislação esparsa, cometidas contra o trabalhador rural, serão punidas com as multas nelas previstas.
+§ 2º As penalidades serão aplicadas pela autoridade competente do Ministério do Trabalho e Emprego, de acordo com o disposto no Título VII da CLT.
+§ 3º A fiscalização do Ministério do Trabalho e Emprego exigirá dos empregadores rurais ou produtores equiparados a comprovação do recolhimento da Contribuição Sindical Rural das categorias econômica e profissional.
