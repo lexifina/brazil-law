@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 1, de 26 de janeiro de 1999
+"Dispõe sobre o conceito de equipamento, para efeito do direito de crédito assegurado pelo art. 4o da Lei No 8.387/91."
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso de suas atribuições que lhe confere o art. 199, inciso III, do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF No 227, de 3 de setembro de 1998,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal e às Delegacias da Receita Federal de Julgamento e aos demais interessados, que são considerados "equipamentos", para efeito do direito à manutenção do crédito assegurada pelo art. 4o da Lei No 8.387, de 30 de dezembro de 1991, os produtos relacionados nos capítulos 84 e 85, da TIPI/96, que sejam consumidos em decorrência de uma ação exercida diretamente sobre o bem em industrialização, desde que não devam ser, face aos princípios contábeis geralmente aceitos, incluídos no ativo permanente.
+CARLOS ALBERTO DE NIZA E CASTRO
