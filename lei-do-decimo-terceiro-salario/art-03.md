@@ -1,0 +1,1 @@
+Art. 3º - Ocorrendo rescisão, sem justa causa, do contrato de trabalho, o empregado receberá a gratificação devida nos termos dos parágrafos 1º e 2º do art. 1º desta Lei, calculada sobre a remuneração do mês da rescisão.
