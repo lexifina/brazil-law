@@ -1,0 +1,2 @@
+Art. 2º - A utilização dos incentivos facultada no artigo anterior far-se-á mediante constituição de crédito para pagamento do imposto sobre produtos industrializados devido em razão das operações da pessoa jurídica.
+Parágrafo único - Caso não haja possibilidade de aproveitamento dos incentivos na forma deste artigo, a pessoa jurídica fará jus a ressarcimento da importância correspondente com recursos de dotação orçamentária própria do Ministério do Trabalho.
