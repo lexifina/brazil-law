@@ -1,0 +1,2 @@
+Art. 14 - O não-atendimento ao edital de convocação ou à notificação (artigos 4º e 10 da presente Lei) estabelece a presunção de discordância e acarretará imediata propositura da ação judicial prevista no art. 19, II.
+Parágrafo único. Os presumíveis proprietários e ocupantes, nas condições do presente artigo, não terão acesso ao crédito oficial ou aos benefícios de incentivos fiscais, bem como terão cancelados os respectivos cadastros rurais junto ao órgão competente.

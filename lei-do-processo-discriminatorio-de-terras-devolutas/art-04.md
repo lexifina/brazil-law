@@ -1,0 +1,7 @@
+Art. 4º - O presidente da Comissão Especial convocará os interessados para apresentarem, no prazo de 60 (sessenta) dias e em local a ser fixado no edital de convocação, seus títulos, documentos, informações de interesse e, se for o caso, testemunhas.
+§ 1º - Consideram-se de interesse as informações relativas à origem e seqüência dos títulos, localização, valor estimado e área certa ou aproximada das terras de quem se julgar legítimo proprietário ou ocupante; suas confrontações e nome dos confrontantes; natureza, qualidade e valor das benfeitorias; culturas e criações nelas existentes; financiamento e ônus incidentes sobre o imóvel e comprovantes de impostos pagos, se houver.
+§ 2º - O edital de convocação conterá a delimitação perimétrica da área a ser discriminada com suas características e será dirigido, nominalmente, a todos os interessados, proprietários, ocupantes, confinantes certos e respectivos cônjuges, bem como aos demais interessados incertos ou desconhecidos.
+§ 3º - O edital deverá ter a maior divulgação possível, observado o seguinte procedimento:
+a) afixação em lugar público na sede dos municípios e distritos, onde se situar a área nele indicada;
+b) publicação simultânea, por duas vezes, no Diário Oficial da União, nos órgãos oficiais do Estado ou Território Federal e na imprensa local, onde houver, com intervalo mínimo de 8 (oito) e máximo de 15 (quinze) dias entre a primeira e a segunda.
+§ 4º - O prazo de apresentação dos interessados será contado a partir da segunda publicação no Diário Oficial da União.

@@ -1,0 +1,4 @@
+Art. 31 - A União poderá, por necessidade ou utilidade pública, em qualquer tempo que necessitar do imóvel, cancelar a Licença de Ocupação e imitir-se na posse do mesmo, promovendo, sumariamente, a sua desocupação no prazo de 180 (cento e oitenta) dias.
+§ 1º - As benfeitorias existentes serão indenizadas pela importância fixada através de avaliação pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA, considerados os valores declarados para fins de cadastro.
+§ 2º - Caso o interessado se recuse a receber o valor estipulado, o mesmo será depositado em juízo.
+§ 3º - O portador da Licença de Ocupação, na hipótese prevista no presente artigo, fará jus, se o desejar, à instalação em outra gleba da União, assegurada a indenização, de que trata o § 1º deste artigo, e computados os prazos de morada habitual e cultura efetiva da antiga ocupação.

@@ -1,0 +1,1 @@
+Art. 9º - Encontradas ocupações, legitimáveis ou não, serão lavrados os respectivos termos de identificação, que serão encaminhados ao órgão competente do Instituto Nacional de Colonização e Reforma Agrária - INCRA, para as providências cabíveis.
