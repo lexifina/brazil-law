@@ -1,0 +1,1 @@
+Art. 53. Todas as alterações de uso do solo rural para fins urbanos dependerão de prévia audiência do Instituto Nacional de Colonização e Reforma Agrária - INCRA, do Órgão Metropolitano, se houver, onde se localiza o Município, e da aprovação da Prefeitura municipal, ou do Distrito Federal quando for o caso, segundo as exigências da legislação pertinente.
