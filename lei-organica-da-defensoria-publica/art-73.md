@@ -1,0 +1,1 @@
+Art. 73. O candidato aprovado no concurso público para ingresso na carreira da Defensoria Pública será nomeado pelo Presidente da República para cargo inicial da carreira, respeitada a ordem de classificação e o número de vagas existentes.

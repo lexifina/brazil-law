@@ -1,0 +1,2 @@
+Art. 3º São princípios institucionais da Defensoria Pública a unidade, a indivisibilidade e a independência funcional.
+Parágrafo único. (VETADO).
