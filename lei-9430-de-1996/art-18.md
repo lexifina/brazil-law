@@ -4,7 +4,9 @@ II - Método do Preço de Revenda menos Lucro - PRL: definido como a média arit
 a) dos descontos incondicionais concedidos;
 b) dos impostos e contribuições incidentes sobre as vendas;
 c) das comissões e corretagens pagas;
-d) de margem de lucro de vinte por cento, calculada sobre o preço de revenda;
+d) da margem de lucro de:
+1. sessenta por cento, calculada sobre o preço de revenda após deduzidos os valores referidos nas alíneas anteriores e do valor agregado no País, na hipótese de bens importados aplicados à produção;
+2. vinte por cento, calculada sobre o preço de revenda, nas demais hipóteses.
 III - Método do Custo de Produção mais Lucro - CPL: definido como o custo médio de produção de bens, serviços ou direitos, idênticos ou similares, no país onde tiverem sido originariamente produzidos, acrescido dos impostos e taxas cobrados pela referido país na exportação e de margem de lucro de vinte por cento, calculada sobre o custo apurado.
 § 1º As médias aritméticas dos preços de que tratam os incisos I e II e o custo médio de produção de que trata o inciso III serão calculados considerando os preços praticados e os custos incorridos durante todo o período de apuração da base de cálculo do imposto de renda a que se referirem os custos, despesas ou encargos.
 § 2º Para efeito do disposto no inciso I, somente serão consideradas as operações de compra e venda praticadas entre compradores e vendedores não vinculados.
