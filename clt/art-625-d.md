@@ -1,0 +1,5 @@
+Art. 625-D. Qualquer demanda de natureza trabalhista será submetida à Comissão de Conciliação Prévia se, na localidade da prestação de serviços, houver sido instituída a Comissão no âmbito da empresa ou do sindicato da categoria.
+§ 1º A demanda será formulada por escrito ou reduzida a termo por qualquer dos membros da Comissão, sendo entregue cópia datada e assinada pelo membro aos interessados.
+§ 2º Não prosperando a conciliação, será fornecida ao empregado e ao empregador declaração da tentativa conciliatória frustrada com a descrição de seu objeto, firmada pelos membros da Comissão, que devera ser juntada à eventual reclamação trabalhista.
+§ 3º Em caso de motivo relevante que impossibilite a observância do procedimento previsto no caput deste artigo, será a circunstância declarada na petição da ação intentada perante a Justiça do Trabalho.
+§ 4º Caso exista, na mesma localidade e para a mesma categoria, Comissão de empresa e Comissão sindical, o interessado optará por uma delas submeter a sua demanda, sendo competente aquela que primeiro conhecer do pedido.
