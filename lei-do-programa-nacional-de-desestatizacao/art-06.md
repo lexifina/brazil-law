@@ -1,5 +1,5 @@
 Art. 6º Compete ao Conselho Nacional de Desestatização:
-I - recomendar, para aprovação do Presidente da República, meios de pagamento e inclusão ou exclusão de empresas, inclusive instituições financeiras, serviços públicos e participações minoritárias no Programa Nacional de Desestatização;
+I - recomendar, para aprovação do Presidente da República, meios de pagamento e inclusão ou exclusão de empresas, inclusive instituições financeiras, serviços públicos e participações minoritárias, bem como a inclusão de bens móveis e imóveis da União no Programa Nacional de Desestatização;
 II - aprovar, exceto quando se tratar de instituições financeiras:
 a) a modalidade operacional a ser aplicada a cada desestatização;
 b) os ajustes de natureza societária, operacional, contábil ou jurídica e o saneamento financeiro, necessários às desestatizações;
@@ -7,13 +7,15 @@ c) as condições aplicáveis às desestatizações;
 d) a criação de ação de classe especial, a ser subscrita pela União;
 e) a fusão, incorporação ou cisão de sociedades e a criação de subsidiária integral, necessárias à viabilização das desestatizações;
 f) a contratação, pelo Gestor do Fundo Nacional de Desestatização, de pareceres ou estudos especializados necessários à desestatização de setores ou segmentos específicos.
+g) a exclusão de bens móveis e imóveis da União incluídos no PND.
 III - determinar a destinação dos recursos provenientes da desestatização, observado o disposto no art. 13 desta Lei;
 IV - expedir normas e resoluções necessárias ao exercício de sua competência;
 V - deliberar sobre outras matérias relativas ao Programa Nacional de Desestatização, que venham a ser encaminhadas pelo Presidente do Conselho;
 VI - fazer publicar o relatório anual de suas atividades.
+VII - estabelecer as condições de pagamento à vista e parcelado aplicáveis às desestatizações de bens móveis e imóveis da União.
 § 1º Na desestatização dos serviços públicos, o Conselho Nacional de Desestatização deverá recomendar, para aprovação do Presidente da República, o órgão da Administração direta ou indireta que deverá ser o responsável pela execução e acompanhamento do correspondente processo de desestatização, ficando esse órgão, no que couber, com as atribuições previstas no art. 18 desta Lei.
 § 2º O Conselho Nacional de Desestatização poderá baixar normas regulamentadoras da desestatização de serviços públicos, objeto de concessão, permissão ou autorização, bem como determinar sejam adotados procedimentos previstos em legislação específica, conforme a natureza dos serviços a serem desestatizados.
-§ 3º A desestatização de empresas de pequeno e médio portes, conforme definidas pelo Conselho Nacional de Desestatização, poderá ser coordenada pela Secretaria de Coordenação e Controle das Empresas Estatais do Ministério do Planejamento e Orçamento, competindo-lhe, no que couber, as atribuições previstas no art. 18 desta Lei.
+§ 3º A desestatização de empresas de pequeno e médio portes, conforme definidas pelo Conselho Nacional de Desestatização, poderá ser coordenada pelo Departamento de Coordenação e Controle das Empresas Estatais, da Secretaria-Executiva do Ministério do Planejamento, Orçamento e Gestão, competindo-lhe, no que couber, as atribuições previstas no art. 18 desta Lei.
 § 4º Compete ao Presidente do Conselho Nacional de Desestatização:
 a) presidir as reuniões do Conselho;
 b) coordenar e supervisionar a execução do Programa Nacional de Desestatização;
