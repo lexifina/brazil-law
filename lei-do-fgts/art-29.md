@@ -1,0 +1,1 @@
+Art. 29. Os depósitos em conta vinculada, efetuados nos termos desta lei, constituirão despesas dedutíveis do lucro operacional dos empregadores e as importâncias levantadas a seu favor implicarão receita tributável.
