@@ -1,0 +1,1 @@
+Art. 32 - As multas impostas pela Comissão de Valores Mobiliários, após a decisão final que as impôs na esfera administrativa, terão eficácia de título executivo e serão cobradas judicialmente, de acordo com o rito estabelecido pelo código de Processo Civil para o processo de execução".
