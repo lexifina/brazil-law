@@ -1,0 +1,10 @@
+Ato Declaratório Normativo Cosit nº 3, de 14 de fevereiro de 1996
+Tratamento a ser dispensado ao processo fiscal que esteja tramitando na fase administrativa quando o contribuinte opta pela via judicial.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso da atribuição que lhe confere o art. l47, item III, do regimento interno da Secretaria da Receita Federal, aprovado pela Portaria do Ministro da Fazenda nº 606, de 03 de setembro de l992, e tendo em vista o Parecer COSIT nº 27/96.
+DECLARA, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados, que:
+a) a propositura pelo contribuinte, contra a Fazenda, de ação judicial- por qualquer modalidade processual-, antes ou posteriormente á autuação, com o mesmo objeto, importa a renúncia às instâncias administrativas, ou desistência de eventual recurso interposto ;
+b) conseqüentemente, quando diferentes os objetos do processo judicial e do processo administrativo, este terá prosseguimento normal no que se relaciona à matéria diferenciada (p.ex., aspectos formais do lançamento, base de cálculo etc.);
+c) no caso da letra "a", a autoridade dirigente do órgão onde se encontra o processo não conhecerá de eventual petição do contribuinte, proferindo decisão formal, declaratória da definitividade da exigência discutida ou da decisão recorrida,se for o caso, encaminhando o processo para a cobrança do débito, ressalvada a eventual aplicação do disposto no art. l49 do CTN;
+d) na hipótese da alínea anterior, não se verificando a ressalva ali contida, proceder-se-á a inscrição em dívida ativa, deixando-se de fazê-lo, para aguardar o pronunciamento judicial, somente quando demonstrada a ocorrência do disposto nos incisos II (depósito do montante integral do débito) ou IV (concessão de medida liminar em mandado de segurança),do art.l5l, do CNT;
+e) é irrelevante, na espécie, que o processo tenha sido extinto, no Judiciário, sem julgamento do mérito (art.267 do CPC).
+PAULO BALTAZAR CARNEIRO
