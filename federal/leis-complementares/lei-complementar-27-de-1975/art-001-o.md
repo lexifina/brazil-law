@@ -1,0 +1,3 @@
+Art. 1º - O art. 2º, caput, e seu § 1º da Lei Complementar nº 14, de 8 de junho de 1973, passam a vigorar com a seguinte redação:
+“Art. 2º - Haverá em cada Região Metropolitana um Conselho Deliberativo, presidido pelo Governador do Estado, e um Conselho Consultivo, criados por lei estadual.
+§ 1º - O Conselho Deliberativo contará em sua composição, além do Presidente, com 5 (cinco) membros de reconhecida capacidade técnica ou administrativa, um dos quais será o Secretário-Geral do Conselho, todos nomeados pelo Governador do Estado, sendo um deles dentre os nomes que figurem em lista tríplice organizada pelo Prefeito da Capital e outro mediante indicação dos demais Municípios integrante da Região Metropolitana.”
