@@ -1,0 +1,6 @@
+LEI N. 4.793, DE 24 DE OUTUBRO DE 1985
+Dispõe sobre
+ampliação do efetivo da Polícia Militar do Estado
+de São Paulo, e dá outras providências
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
