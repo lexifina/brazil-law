@@ -1,7 +1,7 @@
 Art. 10. Compete privativamente ao Banco Central da República do Brasil:
 I - Emitir moeda-papel e moeda metálica, nas condições e limites autorizados pelo Conselho Monetário Nacional (Vetado)).
 II - Executar os serviços do meio-circulante;
-III - Receber os recolhimentos compulsórios de que trata o inciso XIV, do art. 4º, desta lei, e também os depósitos voluntários das instituições financeiras, nos têrmos do inciso III e § 2º do art. 19, desta lei;
+III - receber os recolhimentos compulsórios de que trata o inciso XIV do artigo 4º desta lei, e também os depósitos voluntários à vista, das instituições financeiras, nos termos do inciso III e § 2º do artigo 19 desta lei;
 VIII - Ser depositário das reservas oficiais de ouro e moeda estrangeira;
 a) funcionar no País;
 b) instalar ou transferir suas sedes, ou dependências, inclusive no exterior;
