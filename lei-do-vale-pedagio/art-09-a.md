@@ -1,0 +1,1 @@
+Art. 9º-A. A ANTT articular-se-á com os Estados e Municípios que operem diretamente rodovias com pedágio, ou por meio de concessões, com vistas à implementação das disposições desta Lei nas suas esferas de atuação.
