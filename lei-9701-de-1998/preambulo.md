@@ -1,0 +1,2 @@
+Dispõe sobre a base de cálculo da Contribuição para o Programa de Integração Social - PIS devida pelas pessoas jurídicas a que se refere o § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA, adotou a Medida Provisória nº 1.674-57, de 1998, que o Congresso Nacional aprovou, e eu, Antonio Carlos Magalhães, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
