@@ -1,0 +1,1 @@
+Art. 35. Os valores retidos na forma dos arts. 30, 33 e 34 deverão ser recolhidos ao Tesouro Nacional pelo órgão público que efetuar a retenção ou, de forma centralizada, pelo estabelecimento matriz da pessoa jurídica, até o 3º (terceiro) dia útil da semana subseqüente àquela em que tiver ocorrido o pagamento à pessoa jurídica fornecedora dos bens ou prestadora do serviço.

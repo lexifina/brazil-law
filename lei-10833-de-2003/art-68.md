@@ -1,0 +1,2 @@
+Art. 68. As mercadorias descritas de forma semelhante em diferentes declarações aduaneiras do mesmo contribuinte, salvo prova em contrário, são presumidas idênticas para fins de determinação do tratamento tributário ou aduaneiro.
+Parágrafo único. Para efeito do disposto no caput, a identificação das mercadorias poderá ser realizada no curso do despacho aduaneiro ou em outro momento, com base em informações coligidas em documentos, obtidos inclusive junto a clientes ou a fornecedores, ou no processo produtivo em que tenham sido ou venham a ser utilizadas.

@@ -1,0 +1,3 @@
+Art. 82. O art. 2º da Lei nº 10.034, de 24 de outubro de 2000, passa vigorar com a seguinte redação:
+"Art. 2º Ficam acrescidos de 50% (cinqüenta por cento) os percentuais referidos no art. 5º da Lei nº 9.317, de 5 de dezembro de 1996, alterado pela Lei nº 9.732, de 11 de dezembro de 1998, em relação às atividades relacionadas nos incisos II a IV do art. 1º desta Lei e às pessoas jurídicas que aufiram receita bruta decorrente da prestação de serviços em montante igual ou superior a 30% (trinta por cento) da receita bruta total.
+Parágrafo único. O produto da arrecadação proporcionado pelo disposto no caput será destinado integralmente às contribuições de que trata a alínea f do § 1º do art. 3º da Lei nº 9.317, de 5 de dezembro de 1996." (NR)
