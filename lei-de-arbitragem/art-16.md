@@ -1,0 +1,3 @@
+Art. 16. Se o árbitro escusar-se antes da aceitação da nomeação, ou, após a aceitação, vier a falecer, tornar-se impossibilitado para o exercício da função, ou for recusado, assumirá seu lugar o substituto indicado no compromisso, se houver.
+§ 1º Não havendo substituto indicado para o árbitro, aplicar-se-ão as regras do órgão arbitral institucional ou entidade especializada, se as partes as tiverem invocado na convenção de arbitragem.
+§ 2º Nada dispondo a convenção de arbitragem e não chegando as partes a um acordo sobre a nomeação do árbitro a ser substituído, procederá a parte interessada da forma prevista no art. 7º desta Lei, a menos que as partes tenham declarado, expressamente, na convenção de arbitragem, não aceitar substituto.
