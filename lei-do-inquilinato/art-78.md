@@ -1,0 +1,2 @@
+Art. 78. As locações residenciais que tenham sido celebradas anteriormente à vigência desta lei e que já vigorem ou venham a vigorar por prazo indeterminado, poderão ser denunciadas pelo locador, concedido o prazo de doze meses para a desocupação.
+Parágrafo único. Na hipótese de ter havido revisão judicial ou amigável do aluguel, atingindo o preço do mercado, a denúncia somente poderá ser exercitada após vinte e quatro meses da data da revisão, se esta ocorreu nos doze meses anteriores à data da vigência desta lei.
