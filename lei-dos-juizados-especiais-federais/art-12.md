@@ -1,0 +1,3 @@
+Art. 12. Para efetuar o exame técnico necessário à conciliação ou ao julgamento da causa, o Juiz nomeará pessoa habilitada, que apresentará o laudo até cinco dias antes da audiência, independentemente de intimação das partes.
+§ 1º Os honorários do técnico serão antecipados à conta de verba orçamentária do respectivo Tribunal e, quando vencida na causa a entidade pública, seu valor será incluído na ordem de pagamento a ser feita em favor do Tribunal.
+§ 2º Nas ações previdenciárias e relativas à assistência social, havendo designação de exame, serão as partes intimadas para, em dez dias, apresentar quesitos e indicar assistentes.

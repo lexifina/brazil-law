@@ -1,0 +1,1 @@
+Art. 23. O Conselho da Justiça Federal poderá limitar, por até três anos, contados a partir da publicação desta Lei, a competência dos Juizados Especiais Cíveis, atendendo à necessidade da organização dos serviços judiciários ou administrativos.

@@ -1,0 +1,1 @@
+Art. 9º Não haverá prazo diferenciado para a prática de qualquer ato processual pelas pessoas jurídicas de direito público, inclusive a interposição de recursos, devendo a citação para audiência de conciliação ser efetuada com antecedência mínima de trinta dias.

@@ -1,0 +1,2 @@
+Art. 18. Os Juizados Especiais serão instalados por decisão do Tribunal Regional Federal. O Juiz presidente do Juizado designará os conciliadores pelo período de dois anos, admitida a recondução. O exercício dessas funções será gratuito, assegurados os direitos e prerrogativas do jurado (art. 437 do Código de Processo Penal).
+Parágrafo único. Serão instalados Juizados Especiais Adjuntos nas localidades cujo movimento forense não justifique a existência de Juizado Especial, cabendo ao Tribunal designar a Vara onde funcionará.
