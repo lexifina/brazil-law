@@ -1,0 +1,1 @@
+O Presidente do Senado Federal promulga, nos termos do art. 66, § 7º, da Constituição Federal, a seguinte Lei, resultante de Projeto vetado pelo PRESIDENTE DA REPÚBLICA e mantido pelo Congresso Nacional:
