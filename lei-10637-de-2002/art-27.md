@@ -1,0 +1,1 @@
+Art. 27. A operação de comércio exterior realizada mediante utilização de recursos de terceiro presume-se por conta e ordem deste, para fins de aplicação do disposto nos arts. 77 a 81 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001.
