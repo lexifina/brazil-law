@@ -1,0 +1,2 @@
+Art. 38. As despesas com os serviços a serem prestados pela autoridade marítima, em decorrência da aplicação desta Lei, tais como vistorias, testes e homologação de equipamentos, pareceres, perícias, emissão de certificados e outros, serão indenizadas pelos interessados.
+Parágrafo único. Os emolumentos previstos neste artigo terão seus valores estipulados pela autoridade marítima e serão pagos no ato da solicitação do serviço.

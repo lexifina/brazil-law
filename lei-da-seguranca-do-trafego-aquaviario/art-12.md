@@ -1,0 +1,1 @@
+Art. 12. O serviço de praticagem consiste no conjunto de atividades profissionais de assessoria ao Comandante requeridas por força de peculiaridades locais que dificultem a livre e segura movimentação da embarcação.

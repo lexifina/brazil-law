@@ -1,0 +1,1 @@
+Art. 28. Decorridos dois anos de imposição da pena de cancelamento, o infrator poderá requerer a sua reabilitação, submetendo-se a todos os requisitos estabelecidos para a certificação de habilitação.
