@@ -1,0 +1,1 @@
+Artigo 2º - A promoção e o acesso correspondente a períodos anteriores a entrada em vigor do artigo 5º desta lei complementar continuarão sendo realizados na forma dos artigos 49 a 53 da Lei Complementar nº 93, de 28 de maio de 1974, em sua redação original.
