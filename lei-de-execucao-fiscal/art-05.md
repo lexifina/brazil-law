@@ -1,0 +1,1 @@
+Art. 5º - A competência para processar e julgar a execução da Dívida Ativa da Fazenda Pública exclui a de qualquer outro Juízo, inclusive o da falência, da concordata, da liquidação, da insolvência ou do inventário.
