@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 4, de 26 de janeiro de 1996
+Aprova os modelos de formulários da Declaração de Rendimentos das pessoas jurídicas tributadas com base no lucro presumido ou arbitrado, das microempresas e das sociedades civis submetidas ao regime tributário de que trata o Decreto-lei nº 2.397, de 21 de dezembro de 1987, relativa ao exercício de 1996, ano-calendário de 1995, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista as disposições do art. 56 da Lei 8.981, de 20 de janeiro de 1995, com a nova redação dada pelo art. 1º da Lei nº 9.065, de 20 de junho de 1995 e da Portaria MF nº 12, de 24 de janeiro de 1996, resolve:
