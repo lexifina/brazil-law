@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 527, de 29 de março de 2005
+Prorroga o prazo para a entrega da Declaração de Informações Econômico-fiscais da Pessoa Jurídica (DIPJ) relativa a evento de extinção, cisão, fusão ou incorporação, de que trata a Instrução Normativa SRF nº 303, de 21 de fevereiro de 2003.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no art. 1º da Instrução Normativa SRF nº 303, de 21 de fevereiro de 2003, resolve:
