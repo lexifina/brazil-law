@@ -1,0 +1,1 @@
+Art. 20 - Competem aos arquivos do Poder Judiciário Federal a gestão e o recolhimento dos documentos produzidos e recebidos pelo Poder Judiciário Federal no exercício de suas funções, tramitados em juízo e oriundos de cartórios e secretarias, bem como preservar e facultar o acesso aos documentos sob sua guarda.
