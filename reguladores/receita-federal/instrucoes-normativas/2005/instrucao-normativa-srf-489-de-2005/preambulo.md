@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 489, de 7 de janeiro de 2005
+Altera a Instrução Normativa nº 487, de 30 de dezembro de 2004, que dispõe sobre o imposto de renda incidente sobre os rendimentos e ganhos líquidos auferidos em operações de renda fixa e de renda variável e em fundos de investimentos.
+O SECRETÁRIO DA RECEITA FEDERAL SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no § 9º do art. 6º da Lei nº 11.053, de 30 de dezembro de 2004, resolve:
