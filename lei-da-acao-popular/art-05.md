@@ -2,3 +2,4 @@ Art. 5º Conforme a origem do ato impugnado, é competente para conhecer da aç�
 § 1º Para fins de competência, equiparam-se atos da União, do Distrito Federal, do Estado ou dos Municípios os atos das pessoas criadas ou mantidas por essas pessoas jurídicas de direito público, bem como os atos das sociedades de que elas sejam acionistas e os das pessoas ou entidades por elas subvencionadas ou em relação às quais tenham interesse patrimonial.
 § 2º Quando o pleito interessar simultaneamente à União e a qualquer outra pessoas ou entidade, será competente o juiz das causas da União, se houver; quando interessar simultaneamente ao Estado e ao Município, será competente o juiz das causas do Estado, se houver.
 § 3º A propositura da ação prevenirá a jurisdição do juízo para todas as ações, que forem posteriormente intentadas contra as mesmas partes e sob os mesmos fundamentos.
+§ 4º Na defesa do patrimônio público caberá a suspensão liminar do ato lesivo impugnado.
