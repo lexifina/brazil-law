@@ -1,0 +1,3 @@
+Art. 8º Nos pedidos de registro de candidatos a eleições municipais, o Juiz Eleitoral apresentará a sentença em cartório 3 (três) dias após a conclusão dos autos, passando a correr deste momento o prazo de 3 (três) dias para a interposição de recurso para o Tribunal Regional Eleitoral.
+§ 1º A partir da data em que for protocolizada a petição de recurso, passará a correr o prazo de 3 (três) dias para a apresentação de contra-razões.
+§ 2º Apresentadas as contra-razões, serão os autos imediatamente remetidos ao Tribunal Regional Eleitoral, inclusive por portador, se houver necessidade, decorrente da exigüidade de prazo, correndo as despesas do transporte por conta do recorrente, se tiver condições de pagá-las.

@@ -1,0 +1,1 @@
+Art. 21. As transgressões a que se refere o art. 19 desta lei complementar serão apuradas mediante procedimento sumaríssimo de investigação judicial, realizada pelo Corregedor-Geral e Corregedores Regionais Eleitorais, nos termos das Leis nºs 1.579, de 18 de março de 1952, 4.410, de 24 de setembro de 1964, com as modificações desta lei complementar.

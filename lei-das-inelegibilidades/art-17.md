@@ -1,0 +1,1 @@
+Art. 17. É facultado ao partido político ou coligação que requerer o registro de candidato considerando inelegível dar-lhe substituto, mesmo que a decisão passada em julgado tenha sido proferida após o termo final do prazo de registro, caso em que a respectiva Comissão Executiva do Partido fará a escolha do candidato.

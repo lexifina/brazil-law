@@ -1,0 +1,1 @@
+Art. 27. Esta lei complementar entra em vigor na data de sua publicação.
