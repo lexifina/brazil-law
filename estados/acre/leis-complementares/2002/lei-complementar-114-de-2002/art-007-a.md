@@ -1,0 +1,5 @@
+Art. 7°-A Nenhum veículo será registrado, inscrito ou matriculado perante as repartições competentes sem a prova do pagamento do IPVA devido nos anos anteriores e do exercício corrente, quando restar alguma parcela vencida, ou da circunstância de imunidade ou isenção. (Incluído pela Lei Complementar nº 298, de 28/04/2015)
+
+§ 1º A comprovação prevista neste artigo aplica-se, igualmente, aos casos de inspeção, renovação, vistoria, transferência, averbação, cancelamento e a quaisquer outros atos que impliquem alteração no registro, inscrição ou matrícula do veículo. (Incluído pela Lei Complementar nº 298, de 28/04/2015)
+
+§ 2º Quando ocorrer transferência de veículo de outra unidade da Federação que tenha gozado de isenção, imunidade, redução de base de cálculo, alíquota reduzida ou qualquer outro benefício fiscal, o adquirente deverá recolher, ao Estado, o IPVA proporcional ao período compreendido entre a data da transferência e o último mês do respectivo exercício. (Incluído pela Lei Complementar nº 298, de 28/04/2015)
