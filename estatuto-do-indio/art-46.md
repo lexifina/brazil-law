@@ -1,0 +1,1 @@
+Art. 46. O corte de madeira nas florestas indígenas, consideradas em regime de preservação permanente, de acordo com a letra g e § 2º, do artigo 3°, do Código Florestal, está condicionado à existência de programas ou projetos para o aproveitamento das terras respectivas na exploração agropecuária, na indústria ou no reflorestamento.

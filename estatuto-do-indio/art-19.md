@@ -1,0 +1,3 @@
+Art. 19. As terras indígenas, por iniciativa e sob orientação do órgão federal de assistência ao índio, serão administrativamente demarcadas, de acordo com o processo estabelecido em decreto do Poder Executivo.
+§ 1º A demarcação promovida nos termos deste artigo, homologada pelo Presidente da República, será registrada em livro próprio do Serviço do Patrimônio da União (SPU) e do registro imobiliário da comarca da situação das terras.
+§ 2º Contra a demarcação processada nos termos deste artigo não caberá a concessão de interdito possessório, facultado aos interessados contra ela recorrer à ação petitória ou à demarcatória.

@@ -1,0 +1,1 @@
+Art. 61. São extensivos aos interesses do Patrimônio Indígena os privilégios da Fazenda Pública, quanto à impenhorabilidade de bens, rendas e serviços, ações especiais, prazos processuais, juros e custas.
