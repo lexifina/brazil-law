@@ -1,0 +1,1 @@
+Art. 19. Na hipótese de encampação da concessão, a indenização devida ao concessionário, conforme previsto no art. 36 da Lei nº 8.987, de 13 de fevereiro de 1995, compreenderá as perdas decorrentes da extinção do contrato, excluídos os lucros cessantes.
