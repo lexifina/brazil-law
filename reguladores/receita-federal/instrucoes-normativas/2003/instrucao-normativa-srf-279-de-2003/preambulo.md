@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 279, de 10 de janeiro de 2003
+Dispõe sobre o pagamento de débitos tributários federais pelas entidades referidas no art. 5º da Medida Provisória nº 2.222, de 2002, de acordo com os arts. 15, 17 e 25 da Lei nº 10.637, de 2002.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 5º da Medida Provisória nº 2.222, de 4 de setembro de 2001, no art. 2º da Lei nº 10.431, de 24 de abril de 2002, e nos arts. 15, 17 e 25 da Lei nº 10.637, de 30 de dezembro de 2002, resolve:
