@@ -1,0 +1,2 @@
+Art. 12. A propaganda eleitoral, no rádio e na televisão, circunscrever-se-á, única e exclusivamente, ao horário gratuito disciplinado pela Justiça Eleitoral, com a expressa proibição de qualquer propaganda paga.
+Parágrafo único. Será permitida apenas a divulgação paga, pela imprensa escrita, do curriculum-vitae do candidato e do número do seu registro na Justiça Eleitoral, bem como do partido a que pertence.
