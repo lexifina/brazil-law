@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo SRF nº 21, de 5 de novembro de 2002
+Dispõe sobre o aproveitamento do crédito presumido da contribuição para o PIS/Pasep.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 3º da Medida Provisória nº 66, de 29 de agosto de 2002, resolve:
+Art. 1º O crédito presumido de que tratam os §§ 5º e 6º do art. 3º da Medida Provisória nº 66, de 29 de agosto de 2002, alcança, exclusivamente, os bens e serviços utilizados na produção das mercadorias de origem animal ou vegetal classificadas nos capítulos 2 a 4, 8 a 11, e nos códigos 0504.00,07.10, 07.12 a 07.14, 15.07 a 15.13, 15.17 e 2209.00.00, todos da Nomenclatura Comum do Mercosul, destinados à alimentação humana ou animal.
+Art. 2º Os lançamentos de ofício relativos à utilização do crédito presumido em desacordo com o disposto no art. 1º sujeitar-se-ão à multa de que trata o inciso II do art. 44 da Lei nº 9.430, de 27 de dezembro de 1996, por caracterizarem evidente intuito de fraude.
