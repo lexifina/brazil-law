@@ -1,0 +1,1 @@
+j - os proprietários de ônibus exclusivamente empregados em linhas de transporte urbano ou na execução dos serviços de transporte rodoviário de pessoas previstos no artigo 6º, incisos I e II, do Decreto-lei nº 1.438, de 26 de dezembro de 1975, com a
