@@ -1,0 +1,1 @@
+Artigo 12 - No prazo máximo de 90 (noventa) dias, contados da data da publicação desta lei complementar, o Poder Judiciário encaminhará à Assembléia Legislativa, projeto de lei dispondo sobre a criação de cargos das classes executivas.

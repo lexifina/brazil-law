@@ -1,0 +1,1 @@
+Artigo 11 - Aplicam-se ao acesso especial as disposições constantes dos artigos 19 a 21 e 24 desta lei complementar, e, subsidiariamente, as normas legais e regulamentares referentes a concursos públicos.
