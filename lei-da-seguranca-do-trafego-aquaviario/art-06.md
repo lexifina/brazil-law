@@ -1,0 +1,1 @@
+Art. 6º A autoridade marítima poderá delegar aos municípios a fiscalização do tráfego de embarcações que ponham em risco a integridade física de qualquer pessoa nas áreas adjacentes às praias, quer sejam marítimas, fluviais ou lacustres.

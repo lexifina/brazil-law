@@ -1,0 +1,1 @@
+Art. 11. O Comandante, no caso de impedimento, é substituído por outro tripulante, segundo a precedência hierárquica, estabelecida pela autoridade marítima, dos cargos e funções a bordo das embarcações.
