@@ -1,0 +1,2 @@
+Dispõe sobre a cobrança e a atualização dos créditos do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 136, de 1990, que o Congresso Nacional aprovou, e eu, NELSON CARNEIRO, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
