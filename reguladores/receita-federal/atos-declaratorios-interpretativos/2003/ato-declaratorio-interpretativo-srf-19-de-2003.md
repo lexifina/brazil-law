@@ -1,0 +1,4 @@
+Ato Declaratório Interpretativo SRF nº 19, de 29 de outubro de 2003
+Dispõe sobre o pagamento de tributos e contribuições administrados pela Secretaria da Receita Federal.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal (SRF), aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto nos arts. 96 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional, e 48, § 11, da Lei nº 9.430, de 27 de dezembro de 1996, e o que consta no processo nº 10280.255120/02-32, declara:
+Artigo único. O pagamento dos tributos e contribuições administrados pela Secretaria da Receita Federal pode ser efetuado em qualquer estabelecimento bancário do País pertencente à rede arrecadadora federal, independentemente do domicílio fiscal do sujeito passivo.
