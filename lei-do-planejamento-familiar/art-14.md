@@ -1,1 +1,2 @@
 Art. 14. Cabe à instância gestora do Sistema Único de Saúde, guardado o seu nível de competência e atribuições, cadastrar, fiscalizar e controlar as instituições e serviços que realizam ações e pesquisas na área do planejamento familiar.
+Parágrafo único. Só podem ser autorizadas a realizar esterilização cirúrgica as instituições que ofereçam todas as opções de meios e métodos de contracepção reversíveis. (Parágrafo vetado e mantido pelo Congresso Nacional) Mensagem nº 928, de 19.8.1997
