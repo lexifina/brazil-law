@@ -1,0 +1,2 @@
+Art. 13. A Secretaria da Receita Federal exercerá a vigilância nas Áreas de Livre Comércio de Brasiléia (ALCB) e de Cruzeiro do Sul (ALCCS) e a repressão ao contrabando e ao descaminho, sem prejuízo da competência do Departamento de Polícia Federal.
+Parágrafo único. O Poder Executivo deverá assegurar os recursos materiais e humanos necessários aos serviços de fiscalização e controle aduaneiro das Áreas de Livre Comércio de Brasiléia (ALCB) e de Cruzeiro do Sul (ALCCS).

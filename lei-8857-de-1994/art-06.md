@@ -1,0 +1,1 @@
+Art. 6º A compra de mercadorias estrangeiras armazenadas nas Áreas de Livre Comércio de Brasiléia - ALCB e de Cruzeiro do Sul - ALCCS por empresas estabelecidas em qualquer outro ponto do território nacional é considerada, para efeitos administrativos e fiscais, como importação normal.

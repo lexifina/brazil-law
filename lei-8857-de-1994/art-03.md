@@ -1,0 +1,1 @@
+Art. 3º As mercadorias estrangeiras ou nacionais enviadas às Áreas de Livre Comércio de Brasiléa - ALCB e de Cruzeiro do Sul - ALCCS serão, obrigatoriamente, destinadas às empresas autorizadas a operar nessas áreas.
