@@ -1,0 +1,2 @@
+Dá nova redação ao art. 3º da Lei nº 8.689, de 27 de julho de 1993, que dispõe sobre a extinção do Instituto Nacional de Assistência Médica da Previdência Social - INAMPS.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 515, de 1994, que o Congresso Nacional aprovou, e eu, HUMBERTO LUCENA, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
