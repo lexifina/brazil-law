@@ -1,1 +1,0 @@
-Art. 4º A contribuição mensal devida pelos distribuidores de derivados de petróleo e álcool etílico hidratado para fins carburantes, na condição de substitutos dos comerciantes varejistas, será calculada sobre o menor valor, no País, constante da tabela de preços máximos fixados para venda a varejo, sem prejuízo da contribuição incidente sobre suas próprias vendas.

@@ -1,1 +1,0 @@
-Art. 3º A base de cálculo da contribuição mensal devida pelos fabricantes de cigarros, na condição de contribuintes e de substitutos dos comerciantes varejistas, será obtida multiplicando-se o preço de venda do produto no varejo por cento e dezoito por cento.

@@ -1,1 +1,0 @@
-Art. 9º A contribuição social sobre o faturamento de que trata esta lei complementar não extingue as atuais fontes de custeio da Seguridade Social, salvo a prevista no art. 23, inciso I, da Lei n° 8.212, de 24 de julho de 1991, a qual deixará de ser cobrada a partir da data em que for exigível a contribuição ora instituída.
