@@ -1,0 +1,1 @@
+Art. 15. Para os fins desta Lei, o disposto no art. 6º da Lei nº 10.522, de 19 de julho de 2002, será exigido a partir do ano de 2006 de todas as instituições de ensino superior aderentes ao Prouni, inclusive na vigência da Medida Provisória nº 213, de 10 de setembro de 2004.
