@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 56, de 23 de maio de 2000
+Dispõe sobre a execução de serviços conexos com mercadorias submetidas a regime especial de entreposto aduaneiro na importação ou na exportação em Estação Aduaneira Interior - EADI.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e considerando o disposto no Decreto No 1.910, de 21 de maio de 1996, alterado pelos Decretos No 1.929, de 17 de junho de 1996 e No 3.345, de 26 de janeiro de 2000, na Portaria Interministerial MEFP/SDR No 2, de 21 de julho de 1992, e no § 6o in fine do art. 6o da Instrução Normativa No 55, de 23 de maio de 2000, resolve:
