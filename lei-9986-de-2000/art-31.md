@@ -1,0 +1,1 @@
+Art. 31. As Agências Reguladoras, no exercício de sua autonomia, poderão desenvolver sistemas próprios de administração de recursos humanos, inclusive cadastro e pagamento, sendo obrigatória a alimentação dos sistemas de informações mantidos pelo órgão central do Sistema de Pessoal Civil - SIPEC.
