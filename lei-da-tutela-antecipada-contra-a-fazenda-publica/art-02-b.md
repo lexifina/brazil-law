@@ -1,0 +1,1 @@
+Art. 2º-B. A sentença que tenha por objeto a liberação de recurso, inclusão em folha de pagamento, reclassificação, equiparação, concessão de aumento ou extensão de vantagens a servidores da União, dos Estados, do Distrito Federal e dos Municípios, inclusive de suas autarquias e fundações, somente poderá ser executada após seu trânsito em julgado.

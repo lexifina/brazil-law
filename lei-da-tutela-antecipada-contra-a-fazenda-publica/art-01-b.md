@@ -1,0 +1,1 @@
+Art. 1º-B. O prazo a que se refere o caput dos arts. 730 do Código de Processo Civil, e 884 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, passa a ser de trinta dias
