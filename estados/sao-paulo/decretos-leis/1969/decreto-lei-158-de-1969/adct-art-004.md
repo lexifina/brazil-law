@@ -1,0 +1,2 @@
+Artigo 4º - Será extinta, na vacância, 1 (uma) das atuais Varas das Execuções Criminais e Corregedoria Permanente dos Presídios e da Polícia Judiciária, da Comarca da Capital. A Vara que subsistir será a Vara de Execuções Criminais, com as atribuições previstas no artigo 33 do Código Judiciário.
+Parágrafo único. - Enquanto não se verificar a extinção prevista neste artigo, os Juízes das Execuções Criminais terão competência cumulaitva.

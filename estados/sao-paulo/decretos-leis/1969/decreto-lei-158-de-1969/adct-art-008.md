@@ -1,0 +1,2 @@
+Artigo 8º - Os titulares dos ofícios extintos, se oficializadas as respectivas serventias, ficarão em disponibilidade até seu aproveitamento nos cargos correspondentes que se vagarem ou que forem criados, com prioridade sôbre quaisquer outros interessados.
+Parágrafo único. - Se não oficializados os cartórios, aos titulares dos ofícios extintos e assegurado o direito de opção por ofício vago, que se vagar ou o que fôr criado, não oficializado. da mesma classe, a ser manifestada no prazo de 30 (trinta) dias dêste decreto-lei, ou da vacância ou criação posterior a êle.

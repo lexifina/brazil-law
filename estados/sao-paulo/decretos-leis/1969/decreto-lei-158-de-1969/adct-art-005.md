@@ -1,0 +1,1 @@
+Artigo 5º - Nas Comarcas de Amparo, Assis, Avaré, Birigui, Bragança Paulista, Cruzeiro, Jaboticabal, Jales, Mogi Mirim, Ourinhos, Penápolis, Santa Cruz do Rio Pardo e Santo Anastácio fica extinta a respectiva 2ª Vara, ainda não instalada; e na Comarca de Catanduva, a respectiva 3ª Vara, ainda não instalada.
