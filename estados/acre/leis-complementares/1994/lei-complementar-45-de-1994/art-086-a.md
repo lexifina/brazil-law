@@ -1,0 +1,3 @@
+Art. 86-A. A Procuradoria-Geral do Estado prestará consultoria e representará judicialmente as autarquias e fundações públicas, nos prazos, forma e extensão estabelecidos em ato normativo específico do Conselho Superior da PGE. (Redação dada pela Lei Complementar nº 427, de 16/02/2023 , com efeitos a contar de 1º de março de 2023 )
+
+Parágrafo único. Os honorários advocatícios decorrentes de processos judiciais e extrajudiciais das entidades da Administração Pública Indireta em que a Procuradoria-Geral do Estado atuar serão destinados na forma do art. 17-K desta Lei Complementar. (Incluído pela Lei Complementar nº 332, de 15/03/2017)

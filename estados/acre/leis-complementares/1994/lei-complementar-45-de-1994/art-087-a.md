@@ -1,0 +1,1 @@
+Art. 87-A. Poderá ser criada, por ato específico do Procurador-Geral, especializada responsável pela gestão e supervisão das atividades jurídicas da Administração Pública Indireta do Estado, com previsão das atribuições e procedimentos correspondentes, restando desde logo criado o cargo de chefia respectivo. (Incluído pela Lei Complementar nº 332, de 15/03/2017)

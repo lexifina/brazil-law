@@ -1,0 +1,3 @@
+Art. 11-A. A Procuradoria-Geral do Estado poderá buscar dirimir, por mediação, conciliação, arbitragem, acordo, transação, termo de ajustamento de conduta e outros instrumentos congêneres, os conflitos envolvendo o Estado, entre seus órgãos, poderes e entidades ou entre estes e particulares ou outros entes de federação, a fim de evitar ou extinguir procedimentos administrativos ou ações judiciais em curso. (Redação dada pela Lei Complementar nº 427, de 16/02/2023 , com efeitos a contar de 1º de março de 2023 )
+
+Parágrafo único. Deverão ser garantidas aos envolvidos informações completas, claras e precisas sobre o método de trabalho a ser adotado, preservando-se o princípio da autonomia da vontade. (Incluído pela Lei Complementar nº 267, de 27/09/2013)

@@ -1,0 +1,1 @@
+Art. 17-H. Os chefes das Especializadas poderão delegar aos seus auxiliares a execução de atos meramente ordinatórios, como o encaminhamento de intimações ou expedientes aos Procuradores dos feitos, independentemente de despacho, devendo ser revistos quando necessário. (Incluído pela Lei Complementar nº 200, de 23/07/2009)
