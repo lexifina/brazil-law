@@ -1,0 +1,3 @@
+Instrução Normativa SRF / STN nº 2, de 29 de janeiro de 1997
+Dispõe sobre a retenção de tributos e contribuições sobre pagamentos efetuados, a pessoas jurídicas, por órgãos, autarquias e fundações da administração pública federal.
+O SECRETÁRIO DA RECEITA FEDERAL, o SECRETÁRIO DO TESOURO NACIONAL e o SECRETÁRIO FEDERAL DE CONTROLE, SUBSTITUTO, no uso de suas atribuições, e tendo em vista o disposto no arts. 150, VI, e 195, § 7º, da Constituição, no art. 64 da Lei nº 9.430, de 27 de dezembro de 1996 e nos arts. 146 a 149 e 159 a 165 do Regulamento do Imposto de Renda aprovado pelo Decreto nº 1.041, de 11 de janeiro de 1994 - RIR/94, resolvem:
