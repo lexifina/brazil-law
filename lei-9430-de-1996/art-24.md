@@ -5,4 +5,4 @@ I - o valor apurado segundo os métodos de que trata o art. 18 será considerado
 II - o preço relativo ao bem ou direito alienado, para efeito de apuração de ganho de capital, será o apurado de conformidade com o disposto no art. 19;
 III - será considerado como rendimento tributável o preço dos serviços prestados apurado de conformidade com o disposto no art. 19;
 IV - serão considerados como rendimento tributável os juros determinados de conformidade com o art. 22.
-§ 3º Para os fins do disposto neste artigo, considerar-se-á separadamente a tributação do trabalho e do capital, bem assim as dependências do país de residência ou domicílio.
+§ 3º Para os fins do disposto neste artigo, considerar-se-á separadamente a tributação do trabalho e do capital, bem como as dependências do país de residência ou domicílio.
