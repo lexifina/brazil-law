@@ -1,7 +1,7 @@
 Art. 9º As aplicações com recursos do FGTS poderão ser realizadas diretamente pela Caixa Econômica Federal, pelos demais órgãos integrantes do Sistema Financeiro da Habitação - SFH e pelas entidades para esse fim credenciadas pelo Banco Central do Brasil como agentes financeiros, exclusivamente segundo critérios fixados pelo Conselho Curador do FGTS, em operações que preencham os seguintes requisitos:
-I - garantias:
+I - Garantias:
 a) hipotecária;
-b) caução de créditos hipotecários próprios, relativos a financiamentos concedidos com recursos do agente financeiro;
+b) caução de Créditos hipotecários próprios, relativos a financiamentos concedidos com recursos do agente financeiro;
 c) caução dos créditos hipotecários vinculados aos imóveis objeto de financiamento;
 d) hipoteca sobre outros imóveis de propriedade do agente financeiro, desde que livres e desembaraçados de quaisquer ônus;
 e) cessão de créditos do agente financeiro, derivados de financiamentos concedidos com recursos próprios, garantidos por penhor ou hipoteca;
@@ -12,7 +12,7 @@ i) aval em nota promissória;
 j) fiança pessoal;
 l) alienação fiduciária de bens móveis em garantia;
 m) fiança bancária;
-n) outras, a critério do Conselho Curador do FGTS
+n) outras, a critério do Conselho Curador do FGTS;
 II - correção monetária igual à das contas vinculadas;
 III - taxa de juros média mínima, por projeto, de 3 (três) por cento ao ano;
 IV - prazo máximo de trinta anos.
