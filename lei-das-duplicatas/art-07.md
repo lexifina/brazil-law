@@ -1,0 +1,3 @@
+Art. 7º A duplicata, quando não fôr à vista, deverá ser devolvida pelo comprador ao apresentante dentro do prazo de 10 (dez) dias, contado da data de sua apresentação, devidamente assinada ou acompanhada de declaração, por escrito, contendo as razões da falta do aceite.
+§ 1º Havendo expressa concordância da instituição financeira cobradora, o sacado poderá reter a duplicata em seu poder até a data do vencimento, desde que comunique, por escrito, à apresentante o aceite e a retenção.
+§ 2º A comunicação de que trata o parágrafo anterior substituirá, quando necessário, no ato do protesto ou na ação executiva de cobrança, a duplicata a que se refere.
