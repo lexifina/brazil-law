@@ -1,0 +1,1 @@
+Art. 54. As pessoas jurídicas industriais mencionadas no art. 51 deverão destacar o valor da contribuição para o PIS/PASEP e o da COFINS nas notas fiscais de saída referentes às operações nele referidas.
