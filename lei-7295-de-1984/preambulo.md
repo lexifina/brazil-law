@@ -1,0 +1,2 @@
+Dispõe sobre o processo de fiscalização pela Câmara dos Deputados e pelo Senado Federal, dos atos do Poder Executivo e os da administração indireta.
+Faço saber que o CONGRESSO NACIONAL decretou, o PRESIDENTE DA REPÚBLICA, nos termos do § 2º do art. 5º, da Constituição Federal, sancionou, e eu, LOMANTO JÚNIOR 1º VICE-PRESIDENTE do SENADO FEDERAL, nos termos do § 5º do art. 5º da Constituição Federal, promulgo a seguinte Lei:
