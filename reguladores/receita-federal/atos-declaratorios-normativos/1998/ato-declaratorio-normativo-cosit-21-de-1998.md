@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 21, de 16 de dezembro de 1998
+"Dispõe sobre as concessões outorgadas pelo Brasil no âmbito do GATT, na importação de mercadorias procedentes e originárias dos países que menciona."
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o item II da Instrução Normativa SRF No 34, de 18 de setembro de 1974,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados que, por força do Artigo 2 do Acordo de Comércio e Pagamento com a União das Repúblicas Socialistas Soviéticas, promulgado pelo Decreto No 56.521, de 29 de junho de 1965, as concessões outorgadas pelo Brasil no âmbito do Acordo Geral sobre Tarifas Aduaneiras e Comércio (GATT) são extensivas às importações de mercadorias originárias e procedentes das seguintes Repúblicas: Armênia, Azerbaijão, Belarus, Casaquistão, Geórgia, Moldova ou Moldávia, Quirguízia, Tadjiquistão, Turcomênia ou Turcomenistão, Ucrânia, Uzbequistão, Letônia, Estônia e Lituânia.
+CARLOS ALBERTO DE NIZA E CASTRO
