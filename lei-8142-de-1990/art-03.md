@@ -1,0 +1,4 @@
+Art. 3º Os recursos referidos no inciso IV do art. 2° desta lei serão repassados de forma regular e automática para os Municípios, Estados e Distrito Federal, de acordo com os critérios previstos no art. 35 da Lei n° 8.080, de 19 de setembro de 1990.
+§ 1º Enquanto não for regulamentada a aplicação dos critérios previstos no art. 35 da Lei n° 8.080, de 19 de setembro de 1990, será utilizado, para o repasse de recursos, exclusivamente o critério estabelecido no § 1º do mesmo artigo.
+§ 2º Os recursos referidos neste artigo serão destinados, pelo menos setenta por cento, aos Municípios, afetando-se o restante aos Estados.
+§ 3º Os Municípios poderão estabelecer consórcio para execução de ações e serviços de saúde, remanejando, entre si, parcelas de recursos previstos no inciso IV do art. 2° desta lei.
