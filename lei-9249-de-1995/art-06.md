@@ -1,0 +1,2 @@
+Art. 6º Os valores controlados na parte "B" do Livro de Apuração do Lucro Real, existentes em 31 de dezembro de 1995, somente serão corrigidos monetariamente até essa data, observada a legislação então vigente, ainda que venham a ser adicionados, excluídos ou compensados em períodos-base posteriores.
+Parágrafo único. A correção dos valores referidos neste artigo será efetuada tomando-se por base o valor da UFIR vigente em 1º de janeiro de 1996.

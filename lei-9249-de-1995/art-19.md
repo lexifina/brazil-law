@@ -1,0 +1,2 @@
+Art. 19. A partir de 1º de janeiro de 1996, a alíquota da contribuição social sobre o lucro líquido, de que trata a Lei nº 7.689, de 15 de dezembro de 1988, passa a ser de oito por cento.
+Parágrafo único. O disposto neste artigo não se aplica às instituições a que se refere o § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991, para as quais a alíquota da contribuição social será de dezoito por cento.

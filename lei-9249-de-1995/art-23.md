@@ -1,0 +1,3 @@
+Art. 23. As pessoas físicas poderão transferir a pessoas jurídicas, a título de integralização de capital, bens e direitos pelo valor constante da respectiva declaração de bens ou pelo valor de mercado.
+§ 1º Se a entrega for feita pelo valor constante da declaração de bens, as pessoas físicas deverão lançar nesta declaração as ações ou quotas subscritas pelo mesmo valor dos bens ou direitos transferidos, não se aplicando o disposto no art. 60 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, e no art. 20, II, do Decreto-Lei nº 2.065, de 26 de outubro de 1983.
+§ 2º Se a transferência não se fizer pelo valor constante da declaração de bens, a diferença a maior será tributável como ganho de capital.

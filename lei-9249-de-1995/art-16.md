@@ -1,0 +1,2 @@
+Art. 16. O lucro arbitrado das pessoas jurídicas será determinado mediante a aplicação, sobre a receita bruta, quando conhecida, dos percentuais fixados no art. 15, acrescidos de vinte por cento.
+Parágrafo único. No caso das instituições a que se refere o inciso III do art. 36 da Lei nº 8.981, de 20 de janeiro de 1995, o percentual para determinação do lucro arbitrado será de quarenta e cinco por cento.

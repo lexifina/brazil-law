@@ -1,0 +1,1 @@
+Art. 28. A alíquota do imposto de renda de que tratam o art. 77 da Lei nº 3.470, de 28 de novembro de 1958 e o art. 100 do Decreto-Lei nº 5.844, de 23 de setembro de 1943, com as modificações posteriormente introduzidas, passa, a partir de 1º de janeiro de 1996, a ser de quinze por cento.
