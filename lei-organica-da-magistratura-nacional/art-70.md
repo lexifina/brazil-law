@@ -1,0 +1,1 @@
+Art. 70 - A licença para tratamento de saúde por prazo superior a trinta dias, bem como as prorrogações que importem em licença por período ininterrupto, também superior a trinta dia, dependem de inspeção por Junta Médica.

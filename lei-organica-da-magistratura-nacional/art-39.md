@@ -1,0 +1,1 @@
+Art. 39 - Os juízes remeterão, até o dia dez de cada mês, ao órgão corregedor competente de segunda instância, informação a respeito dos feitos em seu poder, cujos prazos para despacho ou decisão hajam sido excedidos, bem como indicação do número de sentenças proferidas no mês anterior.

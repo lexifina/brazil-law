@@ -1,0 +1,5 @@
+Art. 57 - O Conselho Nacional da Magistratura poderá determinar a disponibilidade de magistrado, com vencimentos proporcionais ao tempo de serviço, no caso em que a gravidade das faltas a que se reporta o artigo anterior não justifique a decretação da aposentadoria.
+§ 1º - O magistrado, posto em disponibilidade por determinação do Conselho, somente poderá pleitear o seu aproveitamento, decorridos dois anos do afastamento.
+§ 2º - O pedido, devidamente instruído e justificado, acompanhado de parecer do Tribunal competente, ou de seu órgão especial, será apreciado pelo Conselho Nacional da Magistratura após parecer do Procurador-Geral da República. Deferido o pedido, o aproveitamento far-se-á a critério do Tribunal ou seu órgão especial.
+§ 3º - Na Hipótese deste artigo, o tempo de disponibilidade não será computado, senão para efeito de aposentadoria.
+§ 4º - O aproveitamento de magistrado, posto em disponibilidade nos termos do item IV do art. 42 e do item Il do art. 45, observará as normas dos parágrafos deste artigo.

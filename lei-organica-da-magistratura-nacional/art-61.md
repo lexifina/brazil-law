@@ -1,0 +1,2 @@
+Art. 61 - Os vencimentos dos magistrados são fixados em lei, em valor certo, atendido o que estatui o art. 32, parágrafo único.
+Parágrafo único. À Magistratura de primeira instância da União assegurar-se-ão vencimentos não inferiores a dois terços dos valores fixados para os membros de segunda instância respectiva, assegurados aos Ministros do Supremo Tribunal Federal vencimentos pelo menos iguais aos dos Ministros de Estado, e garantidos aos Juízes vitalícios do mesmo grau de jurisdição iguais vencimentos.

@@ -1,0 +1,1 @@
+Art. 34 - Os membros do Supremo Tribunal Federal, do Tribunal Federal de Recursos, do Superior Tribunal Militar, do Tribunal Superior Eleitoral e do Tribunal Superior do Trabalho têm o título de Ministro; os dos Tribunais de Justiça, o de Desembargador; sendo o de Juiz privativo dos outros Tribunais e da Magistratura de primeira instância.

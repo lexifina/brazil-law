@@ -1,0 +1,1 @@
+Art. 68 - Durante as férias coletivas, nos Tribunais em que não houver Turma ou Câmara de férias, poderá o Presidente, ou seu substituto legal, decidir de pedidos de liminar em mandado de segurança, determinar liberdade provisória ou sustação de ordem de prisão, e demais medidas que reclamam urgência.

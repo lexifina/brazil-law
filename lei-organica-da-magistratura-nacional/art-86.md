@@ -1,0 +1,1 @@
+Art. 86 - O acesso dos Juízes do Trabalho Presidentes de Juntas de Conciliação e Julgamento ao Tribunal Regional do Trabalho, e dos Juízes do Trabalho substitutos àqueles cargos, far-se-á, alternadamente, por antigüidade e por merecimento, este através de lista tríplice votada por Juízes vitalícios do Tribunal e encaminhada ao Presidente da República.

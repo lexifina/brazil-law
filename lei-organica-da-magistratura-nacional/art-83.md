@@ -1,0 +1,1 @@
+Art. 83 - A notícia da ocorrência de vaga a ser preenchida, mediante promoção ou remoção, deve ser imediatamente veiculada pelo órgão oficial próprio, com indicação, no caso de provimento através de promoção, das que devam ser preenchidas segundo o critério de antigüidade ou de merecimento.

@@ -1,0 +1,1 @@
+Art. 15 - Os órgãos do Poder Judiciário da União (art. 1º, incisos I a VI) têm a organização e a competência definidas na Constituição, na lei e, quanto aos Tribunais, ainda, no respectivo Regimento Interno.
