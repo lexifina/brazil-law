@@ -1,0 +1,1 @@
+Art. 852-D. O juiz dirigirá o processo com liberdade para determinar as provas a serem produzidas, considerado o ônus probatório de cada litigante, podendo limitar ou excluir as que considerar excessivas, impertinentes ou protelatórias, bem como para apreciá-las e dar especial valor às regras de experiência comum ou técnica.
