@@ -38,7 +38,7 @@ VIII - nafta petroquímica, código 2710.11.41 da NCM;
 IX - gás natural destinado ao consumo em unidades termelétricas integrantes do Programa Prioritário de Termelétricas - PPT;
 X - produtos hortícolas e frutas, classificados nos Capítulos 7 e 8, e ovos, classificados na posição 04.07, todos da TIPI; e
 XI - semens e embriões da posição 05.11, da NCM.
-XII - livros técnicos e científicos, na forma estabelecida em ato conjunto do Ministério da Educação e da Secretaria da Receita Federal.
+XII - livros, conforme definido no art. 2º da Lei nº 10.753, de 30 de outubro de 2003.
 § 13. O Poder Executivo regulamentará:
 I - o disposto no § 10 deste artigo; e
 II - a utilização do benefício da alíquota 0 (zero) de que tratam os incisos I a VII do § 12 deste artigo.

@@ -4,4 +4,5 @@ II - papéis classificados nos códigos 4801.00.10, 4801.00.90, 4802.61.91, 4802
 III - produtos hortícolas e frutas, classificados nos Capítulos 7 e 8, e ovos, classificados na posição 04.07, todos da TIPI; e
 IV - aeronaves, classificadas na posição 88.02 da TIPI, suas partes, peças, ferramentais, componentes, insumos, fluidos hidráulicos, tintas, anticorrosivos, lubrificantes, equipamentos, serviços e matérias-primas a serem empregados na manutenção, conservação, modernização, reparo, revisão, conversão e montagem das aeronaves, seus motores, partes, componentes, ferramentais e equipamentos;
 V - semens e embriões da posição 05.11 da NCM.
+VI - livros, conforme definido no art. 2º da Lei nº 10.753, de 30 de outubro de 2003;
 Parágrafo único. O Poder Executivo regulamentará o disposto no inciso IV do caput deste artigo.
