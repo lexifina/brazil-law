@@ -1,4 +1,4 @@
-Art. 50. A organização, o funcionamento e as atribuições da Justiça Desportiva, limitadas ao processo e julgamento das infrações disciplinares e às competições desportivas, serão definidas em Códigos Desportivos.
+Art. 50. A organização, o funcionamento e as atribuições da Justiça Desportiva, limitadas ao processo e julgamento das infrações disciplinares e às competições desportivas, serão definidas em códigos desportivos, facultando-se às ligas constituir seus próprios órgãos judicantes desportivos, com atuação restrita às suas competições.
 § 1º As transgressões relativas à disciplina e às competições desportivas sujeitam o infrator a:
 I - advertência;
 II - eliminação;

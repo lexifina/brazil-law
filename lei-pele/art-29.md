@@ -1,4 +1,6 @@
-Art. 29. A entidade de prática desportiva formadora de atleta terá o direito de assinar com este o primeiro contrato de profissional, cujo prazo não poderá ser superior a dois anos.
+Art. 29. A entidade de prática desportiva formadora do atleta terá o direito de assinar com este, a partir de dezesseis anos de idade, o primeiro contrato de trabalho profissional, cujo prazo não poderá ser superior a cinco anos.
 Parágrafo único. (VETADO)
 § 2º Para os efeitos do caput deste artigo, exige-se da entidade de prática desportiva formadora que comprove estar o atleta por ela registrado como não-profissional há, pelo menos, dois anos, sendo facultada a cessão deste direito a entidade de prática desportiva, de forma remunerada.
-§ 3º A entidade de prática desportiva detentora do primeiro contrato de trabalho com o atleta por ela profissionalizado terá o direito de preferência para a primeira renovação deste contrato.
+§ 3º Apenas a entidade de prática desportiva formadora que, comprovadamente, firmar o primeiro contrato de trabalho com o atleta por ela profissionalizado, terá direito de exigir, do novo empregador, indenização de:
+I - formação, quando da cessão do atleta durante a vigência do primeiro contrato, que não poderá exceder a duzentas vezes o montante da remuneração anual, vedada a cobrança cumulativa de cláusula penal;
+II - promoção, quando de nova contratação do atleta, no prazo de seis meses após o término do primeiro contrato, que não poderá exceder a cento e cinqüenta vezes o montante da remuneração anual, desde que a entidade formadora permaneça pagando salários ao atleta enquanto não firmado o novo vínculo contratual.

@@ -1,4 +1,4 @@
-Art. 11. O Conselho de Desenvolvimento do Desporto Brasileiro - CDDB é órgão colegiado de normatização, deliberação e assessoramento, diretamente vinculado ao Gabinete do Ministro de Estado do Esporte e Turismo, cabendo-lhe:
+Art. 11. O CNE é órgão colegiado de normatização, deliberação e assessoramento, diretamente vinculado ao Ministro de Estado do Esporte e Turismo, cabendo-lhe:
 I - zelar pela aplicação dos princípios e preceitos desta Lei;
 II - oferecer subsídios técnicos à elaboração do Plano Nacional do Desporto;
 III - emitir pareceres e recomendações sobre questões desportivas nacionais;
