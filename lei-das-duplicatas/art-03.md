@@ -1,0 +1,3 @@
+Art. 3º A duplicata indicará sempre o valor total da fatura, ainda que o comprador tenha direito a qualquer rebate, mencionando o vendedor o valor líquido que o comprador deverá reconhecer como obrigação de pagar.
+§ 1º Não se incluirão no valor total da duplicata os abatimentos de preços das mercadorias feitas pelo vendedor até o ato do faturamento, desde que constem da fatura.
+§ 2º A venda mercantil para pagamento contra a entrega da mercadoria ou do conhecimento de transporte, sejam ou não da mesma praça vendedor e comprador, ou para pagamento em prazo inferior a 30 (trinta) dias, contado da entrega ou despacho das mercadorias, poderá representar-se, também, por duplicata, em que se declarará que o pagamento será feito nessas condições.
