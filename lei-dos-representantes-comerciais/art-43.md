@@ -1,1 +1,1 @@
-Art. 43. Revogam-se as disposições em contrário.
+Art. 43. É vedada no contrato de representação comercial a inclusão de cláusulas del credere.
