@@ -2,3 +2,4 @@ Art. 11. A pessoa jurídica contribuinte do PIS/Pasep, submetida à apuração d
 § 1º O montante de crédito presumido será igual ao resultado da aplicação do percentual de 0,65% (sessenta e cinco centésimos por cento) sobre o valor do estoque.
 § 2º O crédito presumido calculado segundo o § 1º será utilizado em 12 (doze) parcelas mensais, iguais e sucessivas, a partir da data a que se refere o caput deste artigo.
 § 3º A pessoa jurídica que, tributada com base no lucro presumido, passar a adotar o regime de tributação com base no lucro real, terá, na hipótese de, em decorrência dessa opção, sujeitar-se à incidência não-cumulativa da contribuição para o PIS/Pasep, direito a desconto correspondente ao estoque de abertura dos bens e ao aproveitamento do crédito presumido na forma prevista neste artigo.
+§ 4º O disposto no caput aplica-se também aos estoques de produtos acabados e em elaboração.
