@@ -1,0 +1,1 @@
+Art. 27. A sentença arbitral decidirá sobre a responsabilidade das partes acerca das custas e despesas com a arbitragem, bem como sobre verba decorrente de litigância de má-fé, se for o caso, respeitadas as disposições da convenção de arbitragem, se houver.

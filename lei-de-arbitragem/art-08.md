@@ -1,0 +1,2 @@
+Art. 8º A cláusula compromissória é autônoma em relação ao contrato em que estiver inserta, de tal sorte que a nulidade deste não implica, necessariamente, a nulidade da cláusula compromissória.
+Parágrafo único. Caberá ao árbitro decidir de ofício, ou por provocação das partes, as questões acerca da existência, validade e eficácia da convenção de arbitragem e do contrato que contenha a cláusula compromissória.

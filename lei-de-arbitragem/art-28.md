@@ -1,0 +1,1 @@
+Art. 28. Se, no decurso da arbitragem, as partes chegarem a acordo quanto ao litígio, o árbitro ou o tribunal arbitral poderá, a pedido das partes, declarar tal fato mediante sentença arbitral, que conterá os requisitos do art. 26 desta Lei.

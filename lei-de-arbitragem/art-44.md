@@ -1,0 +1,1 @@
+Art. 44. Ficam revogados os arts. 1.037 a 1.048 da Lei nº 3.071, de 1º de janeiro de 1916, Código Civil Brasileiro; os arts. 101 e 1.072 a 1.102 da Lei nº 5.869, de 11 de janeiro de 1973, Código de Processo Civil; e demais disposições em contrário.
