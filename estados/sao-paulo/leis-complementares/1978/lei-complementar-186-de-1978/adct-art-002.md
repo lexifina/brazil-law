@@ -1,0 +1,1 @@
+Artigo 2º - A classificação dos inativos referidos no artigo anterior será feita pela Comissão Permanente do Regime de Tempo Integral com base na avaliação quantitativa e qualitativa da produção científica dos candidatos até a data de passagem para a inatividade.
