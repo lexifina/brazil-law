@@ -1,0 +1,1 @@
+Art. 30. O Poder Executivo regulamentará esta Lei no prazo de 90 (noventa) dias e apresentará projeto lei regulamentando a contribuição adicional pelo índice de rotatividade, de que trata o § 4º do art. 239 da Constituição Federal, no prazo de 180 (cento e oitenta) dias.
