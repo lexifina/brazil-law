@@ -1,0 +1,1 @@
+Art. 392-B. Em caso de morte da genitora, é assegurado ao cônjuge ou companheiro empregado o gozo de licença por todo o período da licença-maternidade ou pelo tempo restante a que teria direito a mãe, exceto no caso de falecimento do filho ou de seu abandono.
