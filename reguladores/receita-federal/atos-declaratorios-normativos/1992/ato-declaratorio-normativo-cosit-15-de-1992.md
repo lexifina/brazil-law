@@ -1,0 +1,9 @@
+Ato Declaratório Normativo Cosit nº 15, de 31 de julho de 1992
+"Dispõe sobre a variação monetária do empréstimo compulsório sobre veículos."
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso de suas atribuições, e tendo em vista as disposições da Instrução Normativa do SRF Nº 142, de 30 de dezembro de 1986, declara:
+em caráter normativo, às Superintendências Regionais da Receita Federal e aos demais interessados que, para fins de reconhecimento da variação monetária do empréstimo compulsório sobre veículos e combustíveis de que trata o Decreto-lei nº 2.288, de 23 de julho de 1986, assim como dos respectivos juros, ocorridos no período de janeiro a junho de 1992, deverá ser observada a tabela abaixo:
+Índice de varia- Índice de varia- Taxa de ju- Taxa de ju- ção monetária ção monetária ros unitária ros unitá- unitário mensal unitário acumu- mensal ria acumula lado da JAN/92 0,2842 0,2842 0,005 0,0050 FEV/92 0,2548 0,6114 0,005 0,0100 MAR/92 0,2561 1,0241 0,005 0,0151 ABR/92 0,2427 1,5153 0,005 0,0202 MAI/92 0,2108 2,0456 0,005 0,0252 JUN/92 0,1981 2,6489 0,005 0,0304
+[arquivo anexo: adn cosit 15 - dou 04-08-1992.htm]
+1.1 Os valores da variação monetária e dos juros, apurados na forma do subitem precedente, serão, ambos, registrados a débito da conta que registra o empréstimo compulsório e a crédito de variação monetária ativa e de receitas financeiras, respectivamente (os juros são calculados sobre o saldo do empréstimo compulsório atualizado.
+2. A partir do mês de julho de 1992, serão adotados pelos interessados, para atualização monetária de que se trata, conforme determina o art. 16, § lº, do referido Decreto-lei nº 2.288/86, os mesmos critérios de apuração dos rendimentos da caderneta de poupança, com data de aniversário no primeiro dia de cada mês.
+JOSÉ ROBERTO MOREIRA DE MELO
