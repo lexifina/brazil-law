@@ -1,0 +1,1 @@
+Artigo 2º - O Conselho de Orientação, referido no § 1º do artigo 12 desta lei complementar, será constituído em 30 (trinta) dias contados da data de constituição do Fundo de Desenvolvimento Metropolitano da Baixada Santista - FUNDO, e suas atribuições serão definidas em regulamento dentro de 60 (sessenta) dias, contados da publicação desta lei complementar.
