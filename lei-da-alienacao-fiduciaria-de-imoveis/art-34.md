@@ -1,0 +1,1 @@
+Art. 34. Os contratos relativos ao financiamento imobiliário em geral poderão estipular que litígios ou controvérsias entre as partes sejam dirimidos mediante arbitragem, nos termos do disposto na Lei nº 9.307, de 24 de setembro de 1996.

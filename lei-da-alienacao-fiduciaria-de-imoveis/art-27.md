@@ -1,0 +1,9 @@
+Art. 27. Uma vez consolidada a propriedade em seu nome, o fiduciário, no prazo de trinta dias, contados da data do registro de que trata o § 7º do artigo anterior, promoverá público leilão para a alienação do imóvel.
+§ 1º Se, no primeiro público leilão, o maior lance oferecido for inferior ao valor do imóvel, estipulado na forma do inciso VI do art. 24, será realizado o segundo leilão, nos quinze dias seguintes.
+§ 2º No segundo leilão, será aceito o maior lance oferecido, desde que igual ou superior ao valor da dívida, das despesas, dos prêmios de seguro, dos encargos legais, inclusive tributos, e das contribuições condominiais.
+§ 3º Para os fins do disposto neste artigo, entende-se por:
+I - dívida: o saldo devedor da operação de alienação fiduciária, na data do leilão, nele incluídos os juros convencionais, as penalidades e os demais encargos contratuais;
+II - despesas: a soma das importâncias correspondentes aos encargos e custas de intimação e as necessárias à realização do público leilão, nestas compreendidas as relativas aos anúncios e à comissão do leiloeiro.
+§ 4º Nos cinco dias que se seguirem à venda do imóvel no leilão, o credor entregará ao devedor a importância que sobejar, considerando-se nela compreendido o valor da indenização de benfeitorias, depois de deduzidos os valores da dívida e das despesas e encargos de que tratam os §§ 2º e 3º, fato esse que importará em recíproca quitação, não se aplicando o disposto na parte final do art. 516 do Código Civil.
+§ 5º Se, no segundo leilão, o maior lance oferecido não for igual ou superior ao valor referido no § 2º, considerar-se-á extinta a dívida e exonerado o credor da obrigação de que trata o § 4º.
+§ 6º Na hipótese de que trata o parágrafo anterior, o credor, no prazo de cinco dias a contar da data do segundo leilão, dará ao devedor quitação da dívida, mediante termo próprio.

@@ -1,0 +1,2 @@
+Art. 22. A alienação fiduciária regulada por esta Lei é o negócio jurídico pelo qual o devedor, ou fiduciante, com o escopo de garantia, contrata a transferência ao credor, ou fiduciário, da propriedade resolúvel de coisa imóvel.
+Parágrafo único. A alienação fiduciária poderá ser contratada por pessoa física ou jurídica, podendo ter como objeto imóvel concluído ou em construção, não sendo privativa das entidades que operam no SFI.

@@ -1,0 +1,1 @@
+Art. 2º Poderão operar no SFI as caixas econômicas, os bancos comerciais, os bancos de investimento, os bancos com carteira de crédito imobiliário, as sociedades de crédito imobiliário, as associações de poupança e empréstimo, as companhias hipotecárias e, a critério do Conselho Monetário Nacional - CMN, outras entidades.
