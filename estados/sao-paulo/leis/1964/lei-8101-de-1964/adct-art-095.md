@@ -1,0 +1,2 @@
+Artigo 95 - Nos seis meses seguintes à instalação das Varas ora criadas, abrangidas pelo Artigo 21, n. I a XI, desta lei, tocará a cada uma delas, em distribuição, o dôbro do número de feitos que couber à cada uma das já existentes.
+Parágrafo único - Para esse efeito, far-se-á a distribuição por tôdas as Varas e, a seguir, depois de completa a casa, sòmente para as Varas novas, sempre que tiver sido criada mais uma; se tiver sido criada apenas uma Vara esta concorrerá duas vezes ao sorteio.

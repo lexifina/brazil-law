@@ -1,0 +1,1 @@
+Artigo 99 - O Regimento de Custas do Estado, Lei n. 4.831, de 28 de agôsto de 1958, com as modificacões posteriores, será revisto, no sentido de tornar mais barata a Justiça nas causas de pequeno valor

@@ -1,0 +1,1 @@
+Artigo 136 - Para atender o disposto no artigo anterior, fica o Poder Executivo autorizado a proceder às necessárias alterações na receita e na despesa do orçamento para o exercício de 1964, majorando-se, compensadamente, na importância de Cr$ 771.100.000,00 (setecentos e setenta e um milhões e cem mil cruzeiros).

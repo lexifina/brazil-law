@@ -1,0 +1,2 @@
+Artigo 126 - Fica criado, como serventia autônoma, o Cartório do Registro de Imóveis e Anexos, na comarca de Suzano.
+Parágrafo único - Ao atual Ofícial do Registro Cívil das Pessoas Naturais do distrito da sede da referida comarca fica assegurada prioridade absoluta de opção para esse cartório, como compensação pela perda do anexo de tabelionato decorrente da criacão da comarca, devendo requerer no prazo de 30 (trinta) dias, a contar da vigência desta lei, ao Secretário da Justica e Negócios do Interior.

@@ -1,0 +1,1 @@
+Artigo 117 - Uma vez instalada a 5ª Vara Cível da comarca de Santos, serão a ela distribuidos, durante 120 (cento e vinte) dias, pela metade, os feitos cíveis novos, efetuando-se a distribuição da outra metade dentre as quatro Varas Cíveis existentes, observada rigorosa igualdade entre elas.

@@ -1,0 +1,1 @@
+Artigo 91 - Aos atuais juizes de direito de 3ª entrância fica assegurado o direito de se inscreverem, completado o estágio respectivo, para promoção, por merecimento ou antiguidade, aos cargos de juizes de entrância especial, ressalvado o direito de juizes titulares de 4ª entrância.

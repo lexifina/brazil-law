@@ -1,0 +1,1 @@
+Artigo 94 - Dentro dos oito dias seguintes ao da instalação das Varas da Família e das Sucessdes ora criadas, ser-lhes-ão remetidos, pelos atuais Juizes do Civel, mediante distribuição, os processos da respectiva competência, nos têrmos da presente lei, continuando nas atuais Varas Cíveis até final sentença e execução, as ações cuja instrução houver sido iniciada em audiência.
