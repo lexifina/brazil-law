@@ -1,0 +1,1 @@
+Art. 4º As vias públicas, os parques e os demais espaços de uso público existentes, assim como as respectivas instalações de serviços e mobiliários urbanos deverão ser adaptados, obedecendo-se ordem de prioridade que vise à maior eficiência das modificações, no sentido de promover mais ampla acessibilidade às pessoas portadoras de deficiência ou com mobilidade reduzida.
