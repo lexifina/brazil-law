@@ -1,0 +1,4 @@
+ANEXO I TABELA DE PRODUTOS
+[arquivo anexo: ANEXO I.doc]
+ANEXO III ESPECIFICAÇÕES DO ARQUIVO MAGNÉTICO
+[arquivo anexo: ANEXO II.doc]
