@@ -1,0 +1,4 @@
+Parecer Normativo CST nº 70, de 10 de fevereiro de 1972
+IMPOSTO SOBRE A RENDA E PROVENTOS PESSOA JURÍDICA LUCRO TRIBUTÁVEL Nos termos da lei, o ICM tem por base de cálculo "o valor da operação de que decorrer a saída da mercadoria", integrande este valor o montante do próprio tributo; consequentemente este integra o preço da mercadoria ou o seu custo e dele não pode ser destacado na avaliação dos estoques, quando da apuração dos resultados. Portanto, o inventário deve ser feito sem a redução da parcela do ICM incidente nas compras, embora possa esta figurar em conta destacada do ativo. É admissível a redução como despesa da importância relativa ao ICM incidente sobre o valor agregado às mercadorias saídas ou, ainda, decorrendo da incidência de maior alíquota sobre as mesmas, porém, não recolhida em virtude do mecanismo da conta-corrente deste tributo. Novo segmento
+Novo segmento
+[arquivo anexo: PN CST nº 70-1972.pdf]
