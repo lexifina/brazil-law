@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 469, de 10 de novembro de 2004
+Dispõe sobre a aplicação do regime aduaneiro especial de admissão temporária aos bens relacionados com a visita ao País de dignitários estrangeiros.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, tendo em vista o disposto no § 4º do art. 56 do Decreto nº 5.123, de 1º de julho de 2004, e nos arts. 310, parágrafo único, 316, 323 e 491, § 2º, inciso II, do Decreto nº 4.543, de 26 de dezembro de 2002, resolve:
