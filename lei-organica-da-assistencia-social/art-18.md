@@ -13,3 +13,4 @@ XI - estabelecer diretrizes, apreciar e aprovar os programas anuais e plurianuai
 XII - indicar o representante do Conselho Nacional de Assistência Social (CNAS) junto ao Conselho Nacional da Seguridade Social;
 XIII - elaborar e aprovar seu regimento interno;
 XIV - divulgar, no Diário Oficial da União, todas as suas decisões, bem como as contas do Fundo Nacional de Assistência Social (FNAS) e os respectivos pareceres emitidos.
+Parágrafo único. Das decisões finais do Conselho Nacional de Assistência Social, vinculado ao Ministério da Assistência e Promoção Social, relativas à concessão ou renovação do Certificado de Entidade Beneficente de Assistência Social, caberá recurso ao Ministro de Estado da Previdência Social, no prazo de trinta dias, contados da data da publicação do ato no Diário Oficial da União, por parte da entidade interessada, do Instituto Nacional do Seguro Social - INSS ou da Secretaria da Receita Federal do Ministério da Fazenda.
