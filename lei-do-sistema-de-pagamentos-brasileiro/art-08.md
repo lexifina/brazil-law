@@ -1,0 +1,4 @@
+Art. 8º Nas hipóteses de que trata o artigo anterior, ou quando verificada a inadimplência de qualquer participante de um sistema, a liquidação das obrigações, observado o disposto nos regulamentos e procedimentos das câmaras ou prestadores de serviços de compensação e de liquidação, dar-se-á:
+I - com a tradição dos ativos negociados ou a transferência dos recursos, no caso de movimentação financeira; e
+II - com a entrega do produto da realização das garantias e com a utilização dos mecanismos e salvaguardas de que tratam os §§ 2º e 3º do art. 4º, quando inexistentes ou insuficientes os ativos negociados ou os recursos a transferir.
+Parágrafo único. Se, após adotadas as providências de que tratam os incisos I e II, houver saldo positivo, será ele transferido ao participante, integrando a respectiva massa, se for o caso, e se houver saldo negativo, constituirá ele crédito da câmara ou do prestador de serviços de compensação e de liquidação contra o participante.
