@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 38, de 30 de abril de 1997
+Imposto sobre a Renda e Proventos. Contribuição Social sobre o Lucro Líquido. Preços de Transferências. Dispõe sobre os preços a serem praticados nas operações de compra e venda de bens e direitos, efetuadas por pessoa física ou jurídica residente ou domiciliada no Brasil, com pessoa física ou jurídica residente ou domiciliada no exterior, consideradas vinculadas.
+SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições, e tendo em vista o disposto nos arts. 18 a 24 e 28 da Lei nº 9.430, de 27 de dezembro de 1996, e na Portaria MF nº 095, de 30 de abril 1997, resolve:
