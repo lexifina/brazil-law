@@ -1,0 +1,1 @@
+Art. 40. A denegação da homologação para reconhecimento ou execução de sentença arbitral estrangeira por vícios formais, não obsta que a parte interessada renove o pedido, uma vez sanados os vícios apresentados.
