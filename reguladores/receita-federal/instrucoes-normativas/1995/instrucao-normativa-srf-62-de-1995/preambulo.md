@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 62, de 21 de dezembro de 1995
+Altera o artigos 2º e 3º da IN SRF nº 56/94, que disciplina os procedimentos a serem adotados, pelas pessoas jurídicas, para fins dos benefícios fiscais instituídos pela Lei nº8.685/93.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista o disposto no art. 260 da Lei nº 8.069, de 13 de julho de 1990, com a alteração introduzida pelo art. 10 da Lei nº 8.242, de 12 de outubro de 1991, e nos arts. 34 e 53, § 1º, da Lei nº 8.981, de 20 de janeiro de 1995, alterada pela Lei nº 9.065, de 20 de junho de l995, no art. 6º da Lei nº 9.064, de 20 de junho de 1995, e nos arts. 495 a 501, do Regulamento do Imposto de Renda, aprovado pelo Decreto nº 1.041, de 11 de janeiro de 1994, resolve:
