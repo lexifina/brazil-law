@@ -1,0 +1,2 @@
+Altera dispositivos da Lei nº 9.365, de 16 de dezembro de 1996, que institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador e do Fundo da Marinha Mercante.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 2.090-18, de 2001, que o Congresso Nacional aprovou, e eu, Antonio Carlos Magalhães, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
