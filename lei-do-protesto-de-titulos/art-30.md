@@ -1,0 +1,1 @@
+Art. 30. As certidões, informações e relações serão elaboradas pelo nome dos devedores, conforme previstos no § 4º do art. 21 desta Lei, devidamente identificados, e abrangerão os protestos lavrados e registrados por falta de pagamento, de aceite ou de devolução, vedada a exclusão ou omissão de nomes e de protestos, ainda que provisória ou parcial.

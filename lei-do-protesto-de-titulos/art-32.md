@@ -1,0 +1,2 @@
+Art. 32. O livro de Protocolo poderá ser escriturado mediante processo manual, mecânico, eletrônico ou informatizado, em folhas soltas e com colunas destinadas às seguintes anotações: número de ordem, natureza do título ou documento de dívida, valor, apresentante, devedor e ocorrências.
+Parágrafo único. A escrituração será diária, constando do termo de encerramento o número de documentos apresentados no dia, sendo a data da protocolização a mesma do termo diário do encerramento.

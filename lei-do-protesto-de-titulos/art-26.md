@@ -1,0 +1,7 @@
+Art. 26. O cancelamento do registro do protesto será solicitado diretamente no Tabelionato de Protesto de Títulos, por qualquer interessado, mediante apresentação do documento protestado, cuja cópia ficará arquivada.
+§ 1º Na impossibilidade de apresentação do original do título ou documento de dívida protestado, será exigida a declaração de anuência, com identificação e firma reconhecida, daquele que figurou no registro de protesto como credor, originário ou por endosso translativo.
+§ 2º Na hipótese de protesto em que tenha figurado apresentante por endosso-mandato, será suficiente a declaração de anuência passada pelo credor endossante.
+§ 3º O cancelamento do registro do protesto, se fundado em outro motivo que não no pagamento do título ou documento de dívida, será efetivado por determinação judicial, pagos os emolumentos devidos ao Tabelião.
+§ 4º Quando a extinção da obrigação decorrer de processo judicial, o cancelamento do registro do protesto poderá ser solicitado com a apresentação da certidão expedida pelo Juízo processante, com menção do trânsito em julgado, que substituirá o título ou o documento de dívida protestado.
+§ 5º O cancelamento do registro do protesto será feito pelo Tabelião titular, por seus Substitutos ou por Escrevente autorizado.
+§ 6º Quando o protesto lavrado for registrado sob forma de microfilme ou gravação eletrônica, o termo do cancelamento será lançado em documento apartado, que será arquivado juntamente com os documentos que instruíram o pedido, e anotado no índice respectivo.

@@ -1,0 +1,1 @@
+Art. 40. Não havendo prazo assinado, a data do registro do protesto é o termo inicial da incidência de juros, taxas e atualizações monetárias sobre o valor da obrigação contida no título ou documento de dívida.
