@@ -1,0 +1,3 @@
+LEI Nº 2.222, DE 10 DE JUNHO DE 1954
+Concede isenção de direitos de importação e taxas aduaneiras, exceto a de previdência social, para uma máquina “Europa 11”, adquirida na Alemanha pela Diretoria do Patronato Agrícola Antônio Alves Ramos, sediado em Santa Maria, Estado do Rio Grande do Sul.
+O CONGRESSO NACIONAL decreta e eu promulgo, nos têrmos do art. 70, § 4º, da Constituição Federal, a seguinte Lei:
