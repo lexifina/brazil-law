@@ -1,0 +1,1 @@
+Art. 9º O Ministro de Estado da Defesa exerce a direção superior das Forças Armadas, assessorado pelo Conselho Militar de Defesa, órgão permanente de assessoramento, pelo Estado-Maior de Defesa, pelas Secretarias e demais órgãos, conforme definido em lei.

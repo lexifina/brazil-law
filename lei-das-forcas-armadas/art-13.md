@@ -1,0 +1,1 @@
+Art. 13. Para o cumprimento da destinação constitucional das Forças Armadas, cabe aos Comandantes da Marinha, do Exército e da Aeronáutica o preparo de seus órgãos operativos e de apoio, obedecidas as políticas estabelecidas pelo Ministro da Defesa.

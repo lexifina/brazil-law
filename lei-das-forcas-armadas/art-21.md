@@ -1,0 +1,1 @@
+Art. 21. Lei criará a Agência Nacional de Aviação Civil, vinculada ao Ministério da Defesa, órgão regulador e fiscalizador da Aviação Civil e da infra-estrutura aeronáutica e aeroportuária, estabelecendo, entre outras matérias institucionais, quais, dentre as atividades e procedimentos referidos nos incisos I e IV do art. 18, serão de sua responsabilidade.

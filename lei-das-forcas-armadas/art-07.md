@@ -1,0 +1,2 @@
+Art. 7º Compete aos Comandantes das Forças apresentar ao Ministro de Estado da Defesa a Lista de Escolha, elaborada na forma da lei, para a promoção aos postos de oficiais-generais e indicar os oficiais-generais para a nomeação aos cargos que lhes são privativos.
+Parágrafo único. O Ministro de Estado da Defesa, acompanhado do Comandante de cada Força, apresentará os nomes ao Presidente da República, a quem compete promover os oficiais-generais e nomeá-los para os cargos que lhes são privativos.

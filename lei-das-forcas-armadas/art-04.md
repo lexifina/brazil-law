@@ -1,0 +1,1 @@
+Art. 4º A Marinha, o Exército e a Aeronáutica dispõem, singularmente, de um Comandante, nomeado pelo Presidente da República, ouvido o Ministro de Estado da Defesa, o qual, no âmbito de suas atribuições, exercerá a direção e a gestão da respectiva Força.

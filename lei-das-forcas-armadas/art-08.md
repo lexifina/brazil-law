@@ -1,0 +1,2 @@
+Art. 8º A Marinha, o Exército e a Aeronáutica dispõem de efetivos de pessoal militar e civil, fixados em lei, e dos meios orgânicos necessários ao cumprimento de sua destinação constitucional e atribuições subsidiárias.
+Parágrafo único. Constituem reserva das Forças Armadas o pessoal sujeito a incorporação, mediante mobilização ou convocação, pelo Ministério da Defesa, por intermédio da Marinha, do Exército e da Aeronáutica, bem como as organizações assim definidas em lei.

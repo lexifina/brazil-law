@@ -1,0 +1,2 @@
+Art. 1º As Forças Armadas, constituídas pela Marinha, pelo Exército e pela Aeronáutica, são instituições nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da República e destinam-se à defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem.
+Parágrafo único. Sem comprometimento de sua destinação constitucional, cabe também às Forças Armadas o cumprimento das atribuições subsidiárias explicitadas nesta Lei Complementar.
