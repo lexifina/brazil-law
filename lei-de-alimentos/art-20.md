@@ -1,0 +1,1 @@
+Art. 20. As repartições públicas, civis ou militares, inclusive do Imposto de Renda, darão todas as informações necessárias à instrução dos processos previstos nesta lei e à execução do que for decidido ou acordado em juízo.
