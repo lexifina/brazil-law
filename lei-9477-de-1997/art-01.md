@@ -1,0 +1,5 @@
+Art. 1º É autorizada a instituição de Fundos de Aposentadoria Programada Individual - FAPI, com recursos do trabalhador ou de empregador detentor de Plano de Incentivo à Aposentadoria Programada Individual, destinado a seus empregados e administradores.
+§ 1º Os Fundos de Aposentadoria Programada Individual - FAPI, constituídos sob a forma de condomínio aberto, terão seus recursos aplicados de acordo com o que vier a ser determinado pelo Conselho Monetário Nacional.
+§ 2º O trabalhador pode adquirir quotas dos Fundos de Aposentadoria Programada Individual - FAPI, e o empregador pode, ao estabelecer Plano de Incentivo à Aposentadoria Programada Individual, adquirir quotas em nome de seus empregados e administradores, observado o disposto nesta Lei.
+§ 3º Considera-se trabalhador, para os efeitos desta Lei, a pessoa que, residente ou domiciliada no País, aufira rendimento do trabalho, com ou sem vínculo empregatício.
+§ 4º Entende-se por empregador o empresário ou a pessoa jurídica de natureza empresarial que, assumindo os riscos da atividade econômica, admite e remunera trabalhadores, inclusive seus administradores.
