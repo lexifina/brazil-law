@@ -1,0 +1,4 @@
+DECRETO-LEI N. 7.443 – DE 5 DE ABRIL DE 1945
+Suspende pelo prazo de trinta dias o vencimento de obrigações exigíveis ao Municípios de Petrópolis e no Distrito de Patí do AIferes, do Município de Vassouras, no Estado do Rio de Janeiro, e dá outras providências.
+O Presidente da República, usando da atribuição que lhe confere o art. 180 da Constituição e, considerando a gravidade e o vulto dos prejuízos causados ao comércio e à indústria do Município de Petrópolis e do Distrito de Patí do Alferes, do Município de Vassouras, no Estado do Rio de Janeiro, pela violenta tromba dágua que caiu sôbre aquelas regiões, tendo provocado, com verdadeiro aspecto de calamidade pública, enchentes dos rios que ali correm e que motivaram paralisação do tráfego e dos serviços públicos, destruição de “stock” de gêneros e artigos comerciais e danos em fábricas,
+decreta:
