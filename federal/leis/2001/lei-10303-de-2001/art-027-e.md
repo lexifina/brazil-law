@@ -1,0 +1,2 @@
+Art. 27-E. Atuar, ainda que a título gratuito, no mercado de valores mobiliários, como instituição integrante do sistema de distribuição, administrador de carteira coletiva ou individual, agente autônomo de investimento, auditor independente, analista de valores mobiliários, agente fiduciário ou exercer qualquer cargo, profissão, atividade ou função, sem estar, para esse fim, autorizado ou registrado junto à autoridade administrativa competente, quando exigido por lei ou regulamento:
+Pena - detenção de 6 (seis) meses a 2 (dois) anos, e multa.
