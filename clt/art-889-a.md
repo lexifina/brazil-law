@@ -1,0 +1,3 @@
+Art. 889-A. Os recolhimentos das importâncias devidas, referentes às contribuições sociais, serão efetuados nas agências locais da Caixa Econômica Federal ou do Banco do Brasil S.A., por intermédio de documento de arrecadação da Previdência Social, dele se fazendo constar o número do processo.
+§ 1º Sendo concedido parcelamento do débito previdenciário perante o INSS o devedor deverá juntar aos autos documento comprobatório do referido ajuste, ficando suspensa a execução da respectiva contribuição previdenciária até final e integral cumprimento do parcelamento.
+§ 2º As varas do trabalho encaminharão ao órgão competente do INSS, mensalmente, cópias das guias pertinentes aos recolhimentos efetivados nos autos, salvo se outro prazo for estabelecido em regulamento.
