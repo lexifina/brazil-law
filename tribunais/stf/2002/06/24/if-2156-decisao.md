@@ -1,0 +1,31 @@
+Petição/STF nº 98.529/2002
+DESPACHO
+INTERVENÇÃO - OBJETO -
+PERDA - ESCLARECIMENTO.
+1.      Junte-se.
+2.      A assessoria da Presidência prestou as seguintes
+informações:
+O Estado de São Paulo, requerido na
+intervenção mencionada, promove o aditamento das
+informações prestadas em 24 de outubro de 2001, em
+razão da superação do objeto da postulação em análise.
+Afirma não ter sido realizado o pagamento
+anteriormente, em face da insuficiência de recursos
+financeiros disponíveis, "não significando recusa em
+cumprir a ordem judicial mas, apenas, impossibilidade
+de cumpri-la no prazo assinalado".
+Sustenta, ainda, o prejuízo do pedido, tendo
+em vista que o depósito dos valores requisitados já
+fora efetuado, consequentemente descaracterizando a
+alegação de descumprimento de decisão judicial.
+Prossegue, ressaltando a inexistência de intenção do
+Estado de desobedecer ordens oriundas do Poder
+Judiciário.
+Requer, por fim, seja julgado improcedente o
+pedido interventivo.
+3.      Digam os requerentes sobre o prejuízo do pedido de
+intervenção apontado pelo Estado de São Paulo.
+4.      Publique-se.
+Brasília, 24 de junho de 2002.
+Ministro MARCO AURÉLIO
+Presidente
