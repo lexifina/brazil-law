@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 79, de 1º de agosto de 2000
+Declara revogadas as Instruções Normativas que menciona, editadas pela Secretaria da Receita Federal e pelo extinto Departamento da Receita Federal no período de setembro de 1969 a dezembro de 1999.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições, tendo em vista a necessidade de propiciar facilidade de consulta aos atos normativos vigentes, editados pela Secretaria da Receita Federal e pelo extinto Departamento da Receita Federal, e considerando a existência de grande quantidade de Instruções Normativas revogadas implicitamente em todo o seu conteúdo, resolve:
