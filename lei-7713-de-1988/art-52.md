@@ -1,0 +1,1 @@
+Art. 52. A falta ou insuficiência de recolhimento do imposto ou de quota deste, nos prazos fixados nesta Lei, apresentada ou não a declaração, sujeitará o contribuinte às multas e acréscimos previstos na legislação do imposto de renda.

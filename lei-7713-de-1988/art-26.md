@@ -1,0 +1,1 @@
+Art. 26. O valor da Gratificação de Natal (13º salário) a que se referem as Leis nº 4.090, de 13 de julho de 1962, e de nº 4.281, de 8 de novembro de 1963, e o art. 10 do Decreto-Lei nº 2.413, de 10 de fevereiro de 1988, será tributado à mesma alíquota (art. 25) a que estiver sujeito o rendimento mensal do contribuinte, antes de sua inclusão.

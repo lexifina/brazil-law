@@ -1,0 +1,2 @@
+Art. 10. O imposto incidirá sobre dez por cento do rendimento bruto auferido pelos garimpeiros matriculados nos termos do art. 73 do Decreto-Lei nº 227, de 28 de fevereiro de 1967, remunerado pelo art. 2º do Decreto-Lei nº. 318, de 14 de março de 1967, na venda a empresas legalmente habilitadas de metais preciosos, pedras preciosas e semipreciosas por eles extraídos.
+Parágrafo único. A prova de origem dos rendimentos de que trata este artigo far-se-á com base na via da nota de aquisição destinada ao garimpeiro pela empresa compradora.
