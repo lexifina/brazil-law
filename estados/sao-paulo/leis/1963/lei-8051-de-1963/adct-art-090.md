@@ -1,0 +1,1 @@
+Artigo 90 - Enquanto não forem regularmente promovidos, os atuais e membros do Ministério Público de quarta entrância terão direito a perceber, a título de substituição, a diferença entre os vencimentos de entrância especial e os do cargo de que são titulares.

@@ -1,0 +1,1 @@
+Artigo 109 - A Curadoria das Massas Falidas, na comarca de Santos, passa a ser exercída pelos Curadores Gerais, ficando o atual Curador de Menores, que assim passa a denominar-se, com a atribuição específica de servir perante à Vara Privativa de Menores. (Vetado)

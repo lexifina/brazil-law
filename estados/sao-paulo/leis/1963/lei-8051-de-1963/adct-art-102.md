@@ -1,0 +1,2 @@
+Artigo 102 - Para atender às despesas decorrentes da execução dos artigos anteriores, fica o Poder Executivo autorizado a abrir um crédito até o limite de Cr$ 850.000.000,00 (oitocentos e cinqüenta milhões de cruzeiros), suplementar às verbas próprias do orçamento para 1964.
+Parágrafo único - O crédito autorizado no presente artigo será coberto com os recursos provenientes do produto de operações de crédito que a Secretaria da Fazenda fica autorizada a realizar de conformidade com a legislação vigente.

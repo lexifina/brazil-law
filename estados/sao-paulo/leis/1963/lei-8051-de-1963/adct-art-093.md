@@ -1,0 +1,2 @@
+Artigo 93 - O juiz de direito de comarca cuja entrância tiver sido elevada poderá, quando promovido, pedir, no prazo de dez dias que, ouvido o Tribunal de Justiça, sua promoção se efetive na comarca onde se encontra. Se deferida a pretensão, expedirá o Govêrno o competente decreto; e, independentemente da abertura de novo concurso, será organizada outra lista de juízes para o preenchimento de cargo que continuou vago.
+Parágrafo único - O disposto nêste artigo é extensivo aos membros do Ministério Público.
