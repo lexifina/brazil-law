@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 286, de 15 de janeiro de 2003
+Estabelece procedimento para habilitação da pessoa física responsável pela pessoa jurídica no Sistema Integrado de Comércio Exterior (Siscomex) e credenciamento de representantes.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, considerando o disposto no § 1º do art. 81 da Lei nº 9.430, de 27 de dezembro de 1996, conforme redação da Lei nº 10.637, de 30 de dezembro de 2002, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e no art. 2º da Portaria MF nº 350, de 16 de outubro de 2002, resolve:
