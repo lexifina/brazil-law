@@ -1,0 +1,2 @@
+Altera o Anexo I da Lei n° 8.885, de 16 de junho de 1994, que autorizou o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito extraordinário no valor de CR$ 53.156.000.000,00.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória n° 694, de 1994, que o Congresso Nacional aprovou, e eu, HUMBERTO LUCENA, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
