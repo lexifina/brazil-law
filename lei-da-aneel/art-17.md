@@ -1,0 +1,2 @@
+Art. 17. A suspensão, por falta de pagamento, do fornecimento de energia elétrica a consumidor que preste serviço público ou essencial à população e cuja atividade sofra prejuízo será comunicada com antecedência de quinze dias ao Poder Público local ou ao Poder Executivo Estadual.
+Parágrafo único. O Poder Público que receber a comunicação adotará as providências administrativas para preservar a população dos efeitos da suspensão do fornecimento de energia, sem prejuízo das ações de responsabilização pela falta de pagamento que motivou a medida.
