@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 15, de 12 de julho de 1996
+Processo administrativo fiscal. Impugnação intempestiva não instaura a fase litigiosa do procedimento, não suspende a exigibilidade do crédito tributário nem é objeto de decisão.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso de suas atribuições, e tendo em vista o disposto no art. 151, inciso III do Código Tributário Nacional - Lei nº 5.172, de 25 de outubro de 1966 e nos arts. 15 e 21 do Decreto nº 70.235, de 06 de março de 1972, com a redação do art. 1º da Lei nº 8.748, de 9 de dezembro de 1993,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados que, expirado o prazo para impugnação da exigência, deve ser declarada a revelia e iniciada a cobrança amigável, sendo que eventual petição, apresentada fora do prazo, não caracteriza impugnação, não instaura a fase litigiosa do procedimento, não suspende a exigibilidade do crédito tributário nem comporta julgamento de primeira instância, salvo se caracterizada ou suscitada a tempestividade, como preliminar.
+PAULO BALTAZAR CARNEIRO
