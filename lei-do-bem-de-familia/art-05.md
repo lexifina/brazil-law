@@ -1,0 +1,2 @@
+Art. 5º Para os efeitos de impenhorabilidade, de que trata esta lei, considera-se residência um único imóvel utilizado pelo casal ou pela entidade familiar para moradia permanente.
+Parágrafo único. Na hipótese de o casal, ou entidade familiar, ser possuidor de vários imóveis utilizados como residência, a impenhorabilidade recairá sobre o de menor valor, salvo se outro tiver sido registrado, para esse fim, no Registro de Imóveis e na forma do art. 70 do Código Civil.
