@@ -1,0 +1,2 @@
+Art. 48. Considera - se locação para temporada aquela destinada à residência temporária do locatário, para prática de lazer, realização de cursos, tratamento de saúde, feitura de obras em seu imóvel, e outros fatos que decorrem tão-somente de determinado tempo, e contratada por prazo não superior a noventa dias, esteja ou não mobiliado o imóvel.
+Parágrafo único. No caso de a locação envolver imóvel mobiliado, constará do contrato, obrigatoriamente, a descrição dos móveis e utensílios que o guarnecem, bem como o estado em que se encontram.
