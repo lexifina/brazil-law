@@ -1,0 +1,5 @@
+Parecer Normativo CST nº 236, de 11 de março de 1971
+Os rendimentos individuais do motorista que faz serviço de transporte de carga ou de passageiros em seu próprio veículo, são proventos de profissões, ocupações e prestação de serviços não comerciais e como tal se classificam na cédula D, conforme o art. 49, alínea b do Regulamento vigente para o imposto de renda - Decreto nº 58.400/66.
+A classificação de rendimentos mencionada acima é expressa na lei e se confirma quando a mesma lei estabelece as deduções permitidas na cédula D, prevendo situação especial para o contribuinte que auferir rendimento da prestação de serviços de transporte de carga ou de passageiros, em veículo de sua propriedade (art. 66). A esses contribuintes é permitido deduzir independentemente de comprovação, como despesas necessárias ao exercício da atividade profissional, 60% (sessenta por cento) ou 40% (quarenta por cento), sobre os rendimentos brutos declarados, percebidos por transporte de carga ou de passageiros respectivamente.
+Comentários em 16/06/2006
+Teor do PN superado.
