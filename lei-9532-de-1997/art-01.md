@@ -11,9 +11,7 @@ b) pago o lucro, quando ocorrer:
 2. a entrega, a qualquer título, a representante da beneficiária;
 3. a remessa, em favor da beneficiária, para o Brasil ou para qualquer outra praça;
 4. o emprego do valor, em favor da beneficiária, em qualquer praça, inclusive no aumento de capital da controlada ou coligada, domiciliada no exterior.
-§ 3º Não serão dedutíveis na determinação do lucro real e da base de cálculo da Contribuição Social sobre o Lucro Líquido os juros, pagos ou creditados, incidentes sobre o valor equivalente aos lucros não disponibilizados por empresas:
-I - coligadas ou controladas, domiciliadas no exterior, quando estas forem as beneficiárias do pagamento ou crédito;
-II - controladas, domiciliadas no exterior, independente do beneficiário.
+§ 3º Não serão dedutíveis na determinação do lucro real e da base de cálculo da Contribuição Social sobre o Lucro Líquido os juros, relativos a empréstimos, pagos ou creditados a empresa controlada ou coligada, independente do local de seu domicílio, incidentes sobre valor equivalente aos lucros não disponibilizados por empresas controladas, domiciliadas no exterior.
 § 4º Os créditos de imposto de renda de que trata o art. 26 da Lei nº 9.249, de 1995, relativos a lucros, rendimentos e ganhos de capital auferidos no exterior, somente serão compensados com o imposto de renda devido no Brasil se referidos lucros, rendimentos e ganhos de capital forem computados na base de cálculo do imposto, no Brasil, até o final do segundo ano-calendário subseqüente ao de sua apuração.
 § 5º Relativamente aos lucros apurados nos anos de 1996 e 1997, considerar-se-á vencido o prazo a que se refere o parágrafo anterior no dia 31 de dezembro de 1999.
 § 6º Nas hipóteses das alíneas "c" e "d" do § 1º o valor considerado disponibilizado será o mutuado ou adiantado, limitado ao montante dos lucros e reservas de lucros passíveis de distribuição, proporcional à participação societária da empresa no País na data da disponibilização.
