@@ -1,0 +1,4 @@
+Art. 10. As praias são bens públicos de uso comum do povo, sendo assegurado, sempre, livre e franco acesso a elas e ao mar, em qualquer direção e sentido, ressalvados os trechos considerados de interesse de segurança nacional ou incluídos em áreas protegidas por legislação específica.
+§ 1º. Não será permitida a urbanização ou qualquer forma de utilização do solo na Zona Costeira que impeça ou dificulte o acesso assegurado no caput deste artigo.
+§ 2º. A regulamentação desta lei determinará as características e as modalidades de acesso que garantam o uso público das praias e do mar.
+§ 3º. Entende-se por praia a área coberta e descoberta periodicamente pelas águas, acrescida da faixa subseqüente de material detrítico, tal como areias, cascalhos, seixos e pedregulhos, até o limite onde se inicie a vegetação natural, ou, em sua ausência, onde comece um outro ecossistema.
