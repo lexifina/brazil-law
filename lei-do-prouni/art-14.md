@@ -1,0 +1,1 @@
+Art. 14. Terão prioridade na distribuição dos recursos disponíveis no Fundo de Financiamento ao Estudante do Ensino Superior - FIES as instituições de direito privado que aderirem ao Prouni na forma do art. 5º desta Lei ou adotarem as regras de seleção de estudantes bolsistas a que se refere o art. 11 desta Lei.

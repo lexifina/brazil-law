@@ -1,0 +1,1 @@
+Art. 19. Os termos de adesão firmados durante a vigência da Medida Provisória nº 213, de 10 de setembro de 2004, ficam validados pelo prazo neles especificado, observado o disposto no § 4º e no caput do art. 5º desta Lei.
