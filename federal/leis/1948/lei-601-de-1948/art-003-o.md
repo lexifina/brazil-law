@@ -1,0 +1,1 @@
+Art. 3º - O Ministério da Fazenda providenciará a abertura, no Banco do Brasil S. A., de conta especial para os Ministérios da Guerra, Marinha, Aeronáutica e para o Estado Maior Geral, na forma da legislação vigente.
