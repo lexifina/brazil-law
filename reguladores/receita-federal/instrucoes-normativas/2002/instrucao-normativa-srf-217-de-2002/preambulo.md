@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 217, de 9 de outubro de 2002
+Dispõe sobre o reconhecimento do direito à redução do imposto sobre a renda das pessoas jurídicas e adicionais não restituíveis calculada sobre o lucro da exploração nas áreas das extintas Sudene e Sudam.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto nos art. 1º e 2º da Medida Provisória nº 2.199-14, de 24 de agosto de 2001 e no art. 3º dos Decretos nº 4.212 e nº 4.213, ambos de 26 de abril de 2002, resolve:
