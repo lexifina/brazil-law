@@ -1,0 +1,2 @@
+Exclui da vedação prevista no art. 3º da Lei nº 9.491, de 9 de setembro de 1997, as ações detidas pela União no capital do Banco do Brasil S.A., e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 58, de 2002, que o Congresso Nacional aprovou, e eu, Ramez Tebet, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda constitucional nº 32, de 2001, promulgo a seguinte Lei:
