@@ -1,0 +1,1 @@
+Art. 11. Quando a medida cautelar fiscal for concedida em procedimento preparatório, deverá a Fazenda Pública propor a execução judicial da Dívida Ativa no prazo de sessenta dias, contados da data em que a exigência se tornar irrecorrível na esfera administrativa.
