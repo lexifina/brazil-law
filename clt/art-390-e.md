@@ -1,0 +1,1 @@
+Art. 390-E. A pessoa jurídica poderá associar-se a entidade de formação profissional, sociedades civis, sociedades cooperativas, órgãos e entidades públicas ou entidades sindicais, bem como firmar convênios para o desenvolvimento de ações conjuntas, visando à execução de projetos relativos ao incentivo ao trabalho da mulher.
