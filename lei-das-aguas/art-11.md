@@ -1,0 +1,1 @@
+Art. 11. O regime de outorga de direitos de uso de recursos hídricos tem como objetivos assegurar o controle quantitativo e qualitativo dos usos da água e o efetivo exercício dos direitos de acesso à água.
