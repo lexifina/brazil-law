@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 619, DE 9 DE JULHO DE 2002
+(Autoria do Projeto: Poder Executivo)
+Altera a Lei Complementar nº 52, de 23 de dezembro de 1997, e dá outras providências.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
