@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF06 nº 204, de 9 de outubro de 2001
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ EMENTA: LUCRO PRESUMIDOA pessoa jurídica submetida à tributação pelo lucro presumido e que vem adotando o regime de caixa não poderá, dentro do ano-calendário, alterar sua opção e passar a apropriar suas receitas pelo regime de competência. Uma vez adotado o regime de caixa no lucro presumido, ele deve ser seguido em relação a todas as receitas e por todo o ano-calendário. DISPOSITIVOS LEGAIS: Medida Provisória 2.158/2001, art. 20 e IN-SRF nº 104/1998.
+[arquivo anexo: SC SRRF06-Disit nº 204-2001.pdf]
