@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 254, de 11 de dezembro de 2002
+Dispõe sobre o Regime Aduaneiro Especial de Entreposto Industrial sob Controle Informatizado para a Indústria Automotiva.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto nos arts. 6º e 7º do Decreto nº 2.412, de 3 de dezembro de 1997, alterado pelo Decreto nº 3.345, de 26 de janeiro de 2000, e no art. 19, inciso IV, da Medida provisória nº 75, de 24 de outubro de 2002, resolve:
