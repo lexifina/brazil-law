@@ -1,0 +1,2 @@
+Art. 12. Até 31 de dezembro de 2003, o Poder Executivo submeterá ao Congresso Nacional projeto de lei tornando não-cumulativa a cobrança da Contribuição para o Financiamento da Seguridade Social (Cofins).
+Parágrafo único. O projeto conterá também a modificação, se necessária, da alíquota da contribuição para o PIS/Pasep, com a finalidade de manter constante, em relação a períodos anteriores, a parcela da arrecadação afetada pelas alterações introduzidas por esta Lei.
