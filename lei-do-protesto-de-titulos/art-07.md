@@ -1,0 +1,2 @@
+Art. 7º Os títulos e documentos de dívida destinados a protesto somente estarão sujeitos a prévia distribuição obrigatória nas localidades onde houver mais de um Tabelionato de Protesto de Títulos.
+Parágrafo único. Onde houver mais de um Tabelionato de Protesto de Títulos, a distribuição será feita por um Serviço instalado e mantido pelos próprios Tabelionatos, salvo se já existir Ofício Distribuidor organizado antes da promulgação desta Lei.
