@@ -1,0 +1,1 @@
+Art. 52. Nas unidades federativas onde já existia lei estadual específica, em vigor na data de publicação desta lei, são competentes para a lavratura de instrumentos traslatícios de direitos reais, procurações, reconhecimento de firmas e autenticação de cópia reprográfica os serviços de Registro Civil das Pessoas Naturais.
