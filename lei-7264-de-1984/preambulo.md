@@ -1,0 +1,2 @@
+Dá nova redação a dispositivos da Lei nº 5.292, de 8 de junho de 1967, que dispõe sobre a prestação do Serviço Militar pelos estudantes de Medicina, Farmácia, Odontologia e Veterinária e pelos Médicos, Farmacêuticos, Dentistas e Veterinários, em decorrência de dispositivos da Lei nº 4.375, de 17 de agosto de 1964.
+O PRESIDENTE DA REPÚBLICA Faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
