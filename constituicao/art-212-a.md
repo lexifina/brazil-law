@@ -3,7 +3,7 @@ I - a distribuição dos recursos e de responsabilidades entre o Distrito Federa
 II - os fundos referidos no inciso I do caput deste artigo serão constituídos por 20% (vinte por cento):
 a) das parcelas dos Estados no imposto de que trata o art. 156-A;
 b) da parcela do Distrito Federal no imposto de que trata o art. 156-A, relativa ao exercício de sua competência estadual, nos termos do art. 156-A, § 2º; e
-c) dos recursos a que se referem os incisos I, II e III do caput do art. 155, o inciso II do caput do art. 157, os incisos II, III e IV do caput do art. 158 e as alíneas "a" e "b" do inciso I e o inciso II do caput do art. 159 desta Constituição;
+c) dos recursos a que se referem os incisos I e III do caput do art. 155, o inciso II do caput do art. 157, os incisos II, III e IV do caput do art. 158 e as alíneas "a" e "b" do inciso I e o inciso II do caput do art. 159 desta Constituição;
 III - os recursos referidos no inciso II do caput deste artigo serão distribuídos entre cada Estado e seus Municípios, proporcionalmente ao número de alunos das diversas etapas e modalidades da educação básica presencial matriculados nas respectivas redes, nos âmbitos de atuação prioritária, conforme estabelecido nos §§ 2º e 3º do art. 211 desta Constituição, observadas as ponderações referidas na alínea "a" do inciso X do caput e no § 2º deste artigo;
 IV - a União complementará os recursos dos fundos a que se refere o inciso II do caput deste artigo;
 V - a complementação da União será equivalente a, no mínimo, 23% (vinte e três por cento) do total de recursos a que se refere o inciso II do caput deste artigo, distribuída da seguinte forma:

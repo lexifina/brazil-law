@@ -1,6 +1,5 @@
 Art. 80. Compõem o Fundo de Combate e Erradicação da Pobreza:
 I - a parcela do produto da arrecadação correspondente a um adicional de oito centésimos por cento, aplicável de 18 de junho de 2000 a 17 de junho de 2002, na alíquota da contribuição social de que trata o art. 75 do Ato das Disposições Constitucionais Transitórias;
-II - a parcela do produto da arrecadação correspondente a um adicional de cinco pontos percentuais na alíquota do Imposto sobre Produtos Industrializados - IPI, ou do imposto que vier a substituí-lo, incidente sobre produtos supérfluos e aplicável até a extinção do Fundo;
 III - o produto da arrecadação do imposto de que trata o art. 153, inciso VII, da Constituição;
 IV - dotações orçamentárias;
 V- doações, de qualquer natureza, de pessoas físicas ou jurídicas do País ou do exterior;
