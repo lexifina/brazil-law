@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 221, de 10 de outubro de 2002
+Dispõe sobre a aquisição, com isenção do Imposto sobre Produtos Industrializados (IPI), de veículo destinado ao transporte autônomo de passageiros (táxi) e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o que dispõe a Lei nº 8.989, de 24 de fevereiro de 1995, o art. 29 da Lei nº 9.317, de 5 de dezembro de 1996, e a Lei nº 10.182, de 12 de fevereiro de 2001, resolve:
