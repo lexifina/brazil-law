@@ -1,8 +1,6 @@
 Art. 7º A pessoa física deverá apurar o saldo em Reais do imposto a pagar ou o valor a ser restituído, relativamente aos rendimentos percebidos no ano-calendário, e apresentar anualmente, até o último dia útil do mês de abril do ano-calendário subseqüente, declaração de rendimentos em modelo aprovado pela Secretaria da Receita Federal.
 § 1º O prazo de que trata este artigo aplica-se inclusive à declaração de rendimentos relativa ao exercício de 1996, ano-calendário de 1995.
-§ 2º Ficam dispensadas da apresentação de declaração:
-I - as pessoas físicas cujos rendimentos tributáveis, exceto os tributados exclusivamente na fonte e os sujeitos à tributação definitiva, sejam iguais ou inferiores a R$ 10.800,00 (dez mil e oitocentos reais), desde que não enquadradas em outras condições de obrigatoriedade de sua apresentação;
-II - outras pessoas físicas declaradas em ato do Ministro da Fazenda, cuja qualificação fiscal assegure a preservação dos controles fiscais pela administração tributária.
+§ 2º O Ministro da Fazenda poderá estabelecer limites e condições para dispensar pessoas físicas da obrigação de apresentar declaração de rendimentos.
 § 3º Fica o Ministro da Fazenda autorizado a prorrogar o prazo para a apresentação da declaração, dentro do exercício financeiro.
 § 4º Homologada a partilha ou feita a adjudicação dos bens, deverá ser apresentada pelo inventariante, dentro de trinta dias contados da data em que transitar em julgado a sentença respectiva, declaração dos rendimentos correspondentes ao período de 1º de janeiro até a data da homologação ou adjudicação.
 § 5º Se a homologação ou adjudicação ocorrer antes do prazo anualmente fixado para a entrega das declarações de rendimentos, juntamente com a declaração referida no parágrafo anterior deverá ser entregue a declaração dos rendimentos correspondente ao ano-calendário anterior.
