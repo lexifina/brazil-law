@@ -1,0 +1,1 @@
+Art. 18. É autorizada a constituição de consórcios, com o objetivo de geração de energia elétrica para fins de serviços públicos, para uso exclusivo dos consorciados, para produção independente ou para essas atividades associadas, conservado o regime legal próprio de cada uma, aplicando-se, no que couber, o disposto no art. 23 da Lei nº 8.987, de 1995.

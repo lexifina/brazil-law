@@ -1,0 +1,1 @@
+Art. 31. Nas licitações para concessão e permissão de serviços públicos ou uso de bem público, os autores ou responsáveis economicamente pelos projetos básico ou executivo podem participar, direta ou indiretamente, da licitação ou da execução de obras ou serviços.

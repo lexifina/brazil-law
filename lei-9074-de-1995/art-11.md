@@ -1,0 +1,2 @@
+Art. 11. Considera-se produtor independente de energia elétrica a pessoa jurídica ou empresas reunidas em consórcio que recebam concessão ou autorização do poder concedente, para produzir energia elétrica destinada ao comércio de toda ou parte da energia produzida, por sua conta e risco.
+Parágrafo único. O produtor independente de energia elétrica está sujeito a regras operacionais e comerciais próprias, atendido o disposto nesta Lei, na legislação em vigor e no contrato de concessão ou ato de autorização.
