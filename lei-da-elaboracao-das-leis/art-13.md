@@ -1,0 +1,1 @@
+Art. 13. As leis federais serão reunidas em codificações e em coletâneas integradas por volumes contendo matérias conexas ou afins, constituindo em seu todo, juntamente com a Constituição Federal, a Consolidação das Leis Federais Brasileiras.

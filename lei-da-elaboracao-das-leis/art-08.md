@@ -1,0 +1,1 @@
+Art. 8º A vigência da lei será indicada de forma expressa e de modo a contemplar prazo razoável para que dela se tenha amplo conhecimento, reservada a cláusula "entra em vigor na data de sua publicação" para as leis de pequena repercussão.
