@@ -1,0 +1,1 @@
+Art. 24. Na Casa Legislativa, o integrante da bancada de partido deve subordinar sua ação parlamentar aos princípios doutrinários e programáticos e às diretrizes estabelecidas pelos órgãos de direção partidários, na forma do estatuto.
