@@ -1,0 +1,4 @@
+Art. 24. Haverá, anualmente, uma assembléia geral ordinária dos condôminos, convocada pelo síndico na forma prevista na Convenção, à qual compete, além das demais matérias inscritas na ordem do dia, aprovar, por maioria dos presentes, as verbas para as despesas de condomínio, compreendendo as de conservação da edificação ou conjunto de edificações, manutenção de seus serviços e correlatas.
+§ 1º As decisões da assembléia, tomadas, em cada caso, pelo quorum que a Convenção fixar, obrigam todos os condôminos.
+§ 2º O síndico, nos oito dias subseqüentes à assembléia, comunicará aos condôminos o que tiver sido deliberado, inclusive no tocante à previsão orçamentária, o rateio das despesas, e promoverá a arrecadação, tudo na forma que a Convenção previr.
+§ 3º Nas assembléias gerais, os votos serão proporcionais às frações ideais do terreno e partes comuns, pertencentes a cada condômino, salvo disposição diversa da Convenção.

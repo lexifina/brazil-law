@@ -1,0 +1,2 @@
+Art. 60. As revisões da estimativa de custo da obra serão efetuadas, pelo menos semestralmente, em comum entre a Comissão de Representantes e o construtor. O contrato poderá estipular que, em função das necessidades da obra sejam alteráveis os esquemas de contribuições quanto ao total, ao número, ao valor e à distribuição no tempo das prestações.
+Parágrafo único. Em caso de majoração de prestações, o nôvo esquema deverá ser comunicado aos contratantes, com antecedência mínima de 45 dias da data em que deverão ser efetuados os depósitos das primeiras prestações alteradas.

@@ -1,0 +1,2 @@
+Art. 21. A violação de qualquer dos deveres estipulados na Convenção sujeitará o infrator à multa fixada na própria Convenção ou no Regimento Interno, sem prejuízo da responsabilidade civil ou criminal que, no caso, couber.
+Parágrafo único. Compete ao síndico a iniciativa do processo e a cobrança da multa, por via executiva, em benefício do condomínio, e, em caso de omitir-se êle, a qualquer condômino.
