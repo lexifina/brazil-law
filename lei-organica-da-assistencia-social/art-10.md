@@ -1,0 +1,1 @@
+Art. 10. A União, os Estados, os Municípios e o Distrito Federal podem celebrar convênios com entidades e organizações de assistência social, em conformidade com os Planos aprovados pelos respectivos Conselhos.

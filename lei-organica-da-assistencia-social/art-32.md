@@ -1,0 +1,3 @@
+Art. 32. O Poder Executivo terá o prazo de 60 (sessenta) dias, a partir da publicação desta lei, obedecidas as normas por ela instituídas, para elaborar e encaminhar projeto de lei dispondo sobre a extinção e reordenamento dos órgãos de assistência social do Ministério do Bem-Estar Social.
+§ 1º O projeto de que trata este artigo definirá formas de transferências de benefícios, serviços, programas, projetos, pessoal, bens móveis e imóveis para a esfera municipal.
+§ 2º O Ministro de Estado do Bem-Estar Social indicará Comissão encarregada de elaborar o projeto de lei de que trata este artigo, que contará com a participação das organizações dos usuários, de trabalhadores do setor e de entidades e organizações de assistência social.
