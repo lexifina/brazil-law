@@ -1,0 +1,1 @@
+Art. 24. O Conselho Monetário Nacional estabelecerá, na forma da legislação pertinente, as diretrizes para a concessão de crédito destinado ao financiamento de contratos de parcerias público-privadas, bem como para participação de entidades fechadas de previdência complementar.
