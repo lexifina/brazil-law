@@ -1,0 +1,2 @@
+Art. 55. O Banco Central do Brasil é acentuado autorizado a prestar assistência financeira as Bolsas de Valores, nas condições fixadas pelo Conselho Nacional, quando, a seu critério, se fizer necessária para que elas se adaptem, inteiramente, as exigências do mercado de capitais.
+Parágrafo único. A assistência financeira prevista neste artigo poderá ser estendida as Bolsas de Valores nos casos de intervenção ou liquidação extrajudicial em sociedades corretoras de valores mobiliários e de câmbio, com vista a regularidade legítimos interesse de investidores.

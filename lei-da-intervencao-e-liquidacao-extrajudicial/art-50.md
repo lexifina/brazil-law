@@ -1,0 +1,1 @@
+Art. 50. A intervenção determina a suspensão, e, a liquidação extrajudicial, a perda do mandato respectivamente, dos administradores e membros do Conselho Fiscal e de quaisquer outros órgãos criados pelo estatuto, competindo, exclusivamente, ao interventor e ao liquidante a convocação da assembléia geral nos casos em que julgarem conveniente.

@@ -1,0 +1,1 @@
+Art. 39. Os administradores e membros do Conselho Fiscal de instituições financeiras responderão, a qualquer tempo, salvo prescrição extintiva, pelos que tiverem praticado ou omissões em que houverem incorrido.

@@ -1,0 +1,2 @@
+Art. 44. Se o inquérito concluir pela inexistência de prejuízo, será, no caso de intervenção e de liquidação extrajudicial, arquivado no próprio Banco Central do Brasil, ou, no caso de falência, será remetido ao competente juiz, que o mandará apensar aos respectivos autos.
+Parágrafo único. Na hipótese prevista neste artigo, o Banco Central do Brasil, nos casos de intervenção e de liquidação extrajudicial ou o juiz, no caso de falência, de ofício ou a requerimento de qualquer interessado, determinará o levantamento da indisponibilidade de trata o artigo 36.

@@ -1,0 +1,1 @@
+Art. 37. Os abrangidos pela indisponibilidade de bens de que trata o artigo anterior, não poderão ausentar-se do foro, da intervenção, da liquidação extrajudicial ou da falência, sem prévia e expressa autorização do Banco Central do Brasil ou no juiz da falência.
