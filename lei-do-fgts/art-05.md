@@ -10,3 +10,4 @@ VIII - fixar as normas e valores de remuneração do agente operador e dos agent
 IX - fixar critérios para parcelamento de recolhimentos em atraso;
 X - fixar critério e valor de remuneração para o exercício da fiscalização;
 XI - divulgar, no Diário Oficial da União, todas as decisões proferidas pelo Conselho, bem como as contas do FGTS e os respectivos pareceres emitidos.
+XII - fixar critérios e condições para compensação entre créditos do empregador, decorrentes de depósitos relativos a trabalhadores não optantes, com contratos extintos, e débitos resultantes de competências em atraso, inclusive aqueles que forem objeto de composição de dívida com o FGTS.
