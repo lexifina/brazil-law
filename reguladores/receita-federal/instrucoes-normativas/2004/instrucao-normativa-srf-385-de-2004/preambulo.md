@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 385, de 12 de janeiro de 2004
+Altera a Instrução Normativa SRF nº 363, de 16 de novembro de 2002, que dispõe sobre procedimentos simplificados para o despacho aduaneiro de exportação de petróleo em unidades de produção ou de estocagem situadas em águas jurisdicionais brasileiras.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e considerando o disposto na Lei nº 8.617, de 4 de janeiro de 1993, e no inciso I do art. 534 do Decreto nº 4.543, de 26 de dezembro de 2002, resolve:
