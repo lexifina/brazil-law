@@ -2,11 +2,11 @@ CAPÍTULO I
 Da Finalidade
 CAPÍTULO II
 Dos Princípios e das Diretrizes
-Seção I
+SEÇÃO I
 Dos Princípios
-Seção II
+SEÇÃO II
 Das Diretrizes
-Capítulo III
+CAPÍTULO III
 Da Organização e Gestão
 CAPÍTULO IV
 Das Ações Governamentais
