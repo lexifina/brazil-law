@@ -1,0 +1,3 @@
+LEI Nº 1.900, DE 7 DE JULHO DE 1953
+Estende os dispositivos da Lei número 1.765, de 18 de dezembro de 1952, aos servidores das Secretarias do Tribunal de Contas da União, Tribunal Superior Militar, Tribunal Superior Eleitoral, Tribunal Superior do Trabalho, Tribunais Regionais Eleitorais, Tribunais Regionais do Trabalho, Tribunal de Justiça do Distrito Federal, aos das Varas dos Juízos de Menores e Acidentes no Trabalho e Júri dos Crimes contra a Economia Popular, no Distrito Federal e aos Serventuários da Justiça do Distrito Federal e dos Territórios Federais, e dá outras providências.
+O CONGRESSO NACIONAL decreta e eu promulgo, nos têrmos do artigo 70, § 4º, da Constituição Federal, a seguinte Lei:
