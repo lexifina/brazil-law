@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 4, de 10 de janeiro de 2001
+Dispõe sobre a aplicação do regime aduaneiro especial de exportação e importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e de gás natural (Repetro).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 190 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF No 227, de 3 de setembro de 1998, e tendo em vista o disposto no Decreto No 3.161, de 2 de setembro de 1999, com as alterações introduzidas pelo Decreto No 3.663, de 16 de novembro de 2000, resolve:
