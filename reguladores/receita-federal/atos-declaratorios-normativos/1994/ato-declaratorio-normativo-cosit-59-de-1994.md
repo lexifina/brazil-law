@@ -1,0 +1,6 @@
+Ato Declaratório Normativo Cosit nº 59, de 7 de outubro de 1994
+"Dispõe sobre o direito do estabelecimento de identificar insumos que geram créditos do imposto sobre produtos industrializados - IPI".
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso de atribuições que lhe confere o art. 147, inciso III, do Regimento Interno aprovado pela Portaria Ministerial nº 606, de 03 de setembro de 1993,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal e aos demais interessados que ao estabelecimento industrial ou a ele equiparado, cabe identificar quais as matêrias-primas e produtos intermediários consumidos em seu processo industrial que geram direito ao crêdito do Imposto sobre Produtos Industrializados - IPI, nas condições do artigo 82, inciso I, do Regulamento deste imposto, aprovado pelo Decreto nº 87.981, de 23 de dezembro de 1982 e do Parecer Normativo CST nº 65/79 (D.O.U. de 06/11/79).
+2. Outrossim, o estabelecimento arcará com os ônus decorrentes da errônea caracterização das matêrias-primas ou produto intermediário, podendo ser-lhe exigidas no prazo previsto no art. 150, § 4º, do Código Tributário Nacional, eventuais diferenças de imposto resultantes daquela incorreção.
+ARISTÓFANES FONTOURA DE HOLANDA
