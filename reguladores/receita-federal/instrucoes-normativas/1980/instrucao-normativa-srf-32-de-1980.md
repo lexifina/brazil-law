@@ -1,0 +1,19 @@
+Instrução Normativa SRF nº 32, de 8 de abril de 1980
+Disposições Especiais Produtos do Capítulo 24 da TIPI (Cigarros)
+O Secretário da Receita Federal, no uso de suas atribuições, tendo em vista o disposto na Portaria do Ministro da Fazenda n.° 192, de 1º de abril de 1980, que reajustou os preços dos produtos do item 24.02.02.99 (cigarros), da Tabela anexa ao Decreto n.° 83.263, de 9 de março de 1979, e autorizou a fixação de novos valores dos selos de controle a que estão sujeitos aqueles produtos, para efeito de ressarcimento,
+RESOLVE:
+I - Os preços dos produtos do item 24.02.02.99 (cigarros), da Tabela anexa ao Decreto n.° 83.263, de 9 de março de 1979 (RIPI), relativos às classes mencionadas no artigo 343 do referido Regulamento, passam a ser os seguintes: Classe "A": Cr$ 12,50; Classe "B": Cr$ 14,00; Classe "C": Cr$ 15,00; Classe "D": Cr$ 17,00; Classe "E": Cr$ 19,00; Classe "F": Cr$ 20,00; Classe "G": Cr$ 22,00; Classe "H": Cr$ 24,00; Classe "I": Cr$ 27,00; Classe "J": Cr$ 30,00; Classe "K": Cr$ 35,00.
+II - Para os fins do disposto no item I da Portaria n.° 520, de 23 de dezembro de 1975, são fixados os valores constantes da tabela a seguir, de acordo com as respectivas classes de cigarros estabelecidas no item anterior:
+[arquivo anexo: tabela.html]
+III - Os estabelecimentos Industriais que possuam, em 30 de abril de 1980, estoque de selos de controle destinados a cigarros poderão utilizá-lo desde que recolham, até o dia 15 de maio de 1980, importância correspondente à diferença entre o valor de aquisição e o fixado no item precedente.
+III.1 - Na hipótese de não pretenderem se utilizar do estoque existente em seu poder, ou de pretenderem utilizá-lo apenas em parte, os estabelecimentos efetuarão, no dia 1.° de maio de 1980, a devolução dos selos de que não se Irão utilizar, devendo o valor correspondente ser levado a seu crédito para compensação do primeiro fornecimento subseqüente à devolução.
+III.2 - O estoque de selos aqui referido deverá corresponder ao que for apurado pela fiscalização, na forma das instruções que forem baixadas pela Coordenação do Sistema de Fiscalização.
+IV - Aos estabelecimentos industriais de cigarros é facultado, a partir de 14 de abril de 1980, a utilização de selos com a marcação dos preços constantes no item I, desde que autorizados pela Coordenação do Sistema de Fiscalização e recolham, no prazo referido no item anterior, importância correspondente à diferença entre o valor de aquisição e o fixado no item II.
+IV. 1 - Os cigarros marcados com os novos preços, conforme este item, só poderão sair do estabelecimento industrial a partir de 1.° de maio de 1980.
+V - Ao estabelecimento que utilizar a faculdade a que se refere o item anterior, fica proibida a marcação dos preços estabelecidos no item I da Portaria Ministerial n.° 779, de 2 de outubro de 1979, a partir da data fixada na respectiva autorização.
+VI - Fica vedada, a partir de 9 de maio de 1980, a saída dos estabelecimentos industriais de cigarros marcados com os preços estabelecidos no item I da Portaria Ministerial n.° 779, de 2 de outubro de 1979.
+VII - O ressarcimento, o fornecimento e a utilização dos selos especiais de controle destinados a cigarros continuam regulados pela Instrução Normativa do SRF n.° 25, de 8 de junho de 1978, com as alterações introduzidas pela Instrução Normativa do SRF n.° 25, de 27 de março de 1980.
+VIII - A Coordenação» do Sistema de Fiscalização baixará instruções complementares necessárias à execução deste ato e ao controle dos estoques dos produtos e dos selos, antes e depois da vigência dos preços de venda ora estabelecidos.
+IX - Esta Instrução Normativa entrará em vigor na data de sua publicação, ressalvadas as disposições contidas nos itens I e II, que vigorarão a partir de 1.° de maio de 1980.
+FRANCISCO NEVES DORNELLES
+Secretário da Receita Federal
