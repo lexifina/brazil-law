@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF08 nº 11, de 16 de janeiro de 2004
+Assunto: Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - Simples Ementa: PRESTAÇÃO DE SERVIÇO. A atividade de manutenção mecânica de veículos, por caracterizar a prestação de serviço de engenheiro, ou a este assemelhado, assim como de técnicos que dependem de habilitação profissional legalmente exigida, impede a pessoa jurídica que a exerça de optar ou permanecer no Simples. Dispositivos Legais: Lei nº 9.317/1996, art. 9º, inciso XIII.
+[arquivo anexo: SC SRRF08-Disit nº 11-2004.pdf]
