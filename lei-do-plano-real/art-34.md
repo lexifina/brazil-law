@@ -1,0 +1,1 @@
+Art. 34. A ordem de dação em pagamento prevista no art. 33 será expedida mediante portaria conjunta dos Ministros de Estado da Fazenda e do Planejamento e Orçamento, a qual estabelecerá o número, espécie e classe das ações, bem assim os critérios de fixação do respectivo preço, levando em conta o valor em bolsa.

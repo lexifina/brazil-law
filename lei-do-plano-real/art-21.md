@@ -1,0 +1,11 @@
+Art. 21. As obrigações pecuniárias em Cruzeiros Reais, com cláusula de correção monetária baseada em índices de preços, em que a periodicidade de reajuste pleno é maior que a periodicidade de pagamento, serão convertidas em REAL, no dia 1º de julho de 1994, de acordo com as disposições abaixo:
+I - dividindo-se o valor em Cruzeiros Reais da obrigação vigente no dia do aniversário em cada um dos meses imediatamente anteriores, em número igual aos do último período de reajuste pleno, pelo valor em Cruzeiros Reais do equivalente em URV nesses mesmos dias;
+II - extraindo-se a média aritmética dos valores resultantes do inciso anterior;
+III - reconvertendo-se, em Cruzeiros Reais, o valor encontrado pela URV do dia do aniversário em junho de 1994;
+IV - aplicando-se, pro rata tempore, sobre o valor em Cruzeiros Reais de que trata o inciso anterior, o índice contratual ou legal até 30 de junho de 1994; e
+V - convertendo-se em REAL o valor corrigido na forma do inciso anterior pela paridade fixada para aquela data.
+§ 1º O cálculo da média a que se refere este artigo será feito com base nos preços unitários, nos casos dos contratos para aquisição ou produção de bens para entrega futura, execução de obras, prestação de serviços, locação, uso e arrendamento, quando as quantidades de bens e serviços, a cada mês, forem variáveis.
+§ 2º No caso de obrigações em que tenha transcorrido um número de meses menor que o da periodicidade de reajuste pleno, a conversão será feita, na forma do caput deste artigo, levando-se em conta apenas os valores referentes aos meses a partir da contratação.
+§ 3º No caso dos contratos de locação residencial com cláusula de reajuste superior a seis meses, as disposições do caput deste artigo serão aplicadas tomando em conta apenas os aluguéis dos primeiros seis meses do último período de reajuste pleno.
+§ 4º Em caso de desequilíbrio econômico-financeiro, os contratos de locação residencial, inclusive os convertidos anteriormente, poderão ser revistos, a partir de 1º de janeiro de 1995, através de livre negociação entre as partes, ou judicialmente, a fim de adequá-los aos preços de mercado, sem prejuízo do direito à ação revisional prevista na Lei nº 8.245, de 1991.
+§ 5º Efetivada a revisão, o novo valor do aluguel residencial vigorará pelo prazo mínimo de um ano.

@@ -1,0 +1,1 @@
+Art. 63. No caso de parcelamento concedido administrativamente até o dia 31 de agosto de 1994, o valor do débito ou da parcela a pagar será determinado mediante a multiplicação da respectiva quantidade de UFIR pelo valor desta no mês do pagamento.

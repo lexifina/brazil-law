@@ -1,0 +1,2 @@
+Art. 54. Constituem aplicações financeiras de renda fixa, para os efeitos da legislação tributária, as operações de transferência de dívidas realizadas com instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.
+Parágrafo único. Para os efeitos do art. 18 da Lei Complementar nº 77, de 13 de julho de 1993, o cedente da dívida é titular da aplicação e beneficiário da liquidação da operação.

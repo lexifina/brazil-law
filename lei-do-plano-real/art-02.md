@@ -1,0 +1,4 @@
+Art. 2º O Cruzeiro Real, a partir de 1º de julho de 1994, deixa de integrar o Sistema Monetário Nacional, permanecendo em circulação como meio de pagamento as cédulas e moedas dele representativas, pelo prazo de 30 (trinta) dias, na forma prevista nos §§ 3º e 4º do art. 3º da Lei nº 8.880, de 1994.
+§ 1º Até o último dia útil de julho de 1994, os cheques ainda emitidos com indicação de valor em Cruzeiros Reais serão acolhidos pelas instituições financeiras e pelos serviços de compensação, sem prejuízo do direito ao crédito, nos termos da legislação pertinente.
+§ 2º Os prazos previstos neste artigo poderão ser prorrogados pelo Banco Central do Brasil.
+§ 3º Os documentos de que trata o § 1º serão acolhidos e contabilizados com a paridade fixada, na forma do § 3º do art. 1º, para o dia 1º de julho de 1994.
