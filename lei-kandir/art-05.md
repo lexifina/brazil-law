@@ -1,0 +1,1 @@
+Art. 5º Lei poderá atribuir a terceiros a responsabilidade pelo pagamento do imposto e acréscimos devidos pelo contribuinte ou responsável, quando os atos ou omissões daqueles concorrerem para o não recolhimento do tributo.
