@@ -1,0 +1,1 @@
+Art. 7º A venda de mercadorias nacionais ou nacionalizadas, efetuada por empresas estabelecidas fora das Áreas de Livre Comércio de Brasiléia - ALCB e de Cruzeiro do Sul - ALCCS, para empresas ali sediadas, é equiparada a exportação.
