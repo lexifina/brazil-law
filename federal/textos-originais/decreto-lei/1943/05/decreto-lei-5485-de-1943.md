@@ -1,0 +1,103 @@
+# Decreto-Lei nº 5.485, de 14/05/1943
+
+DECRETO-LEI NDECRETO-LEI Nnormandonormando9912002-02-02T11:16:00Z2002-02-08T17:13:00Z37844470POLICENTRO-CONSULPREV0000.0000
+
+DECRETO‑LEI N. 5.485 – DE 14 DE MAIO DE 1943
+
+Dispõe sobre promoção dos oficiais da Reserva de 2ª Classe convocados para o serviço ativo a partir de 1 de janeiro de 1942
+
+O Presidente da República, usando da atribuição que lhe confere o artigo 180 da Constituição,
+
+decreta:
+
+Art. 1º O presente decreto‑lei dispõe sobre promoção dos oficiais da Reserva de 2º Classe que tenham sido convocados para o serviço ativo, a partir de 1 de janeiro de 1942, para completamento dos efetivos do Exército.
+
+Art. 2º Os oficiais a que se refere o artigo anterior, para poderem ser promovidos deverão satisfazer nos seguintes requisitos:
+
+a) possuir capacidade física necessária ao exercício de seu posto, verificada em inspeção de saude;
+
+b) exercer, no posto para o qual foi convocado, em corpo de tropa, formação de serviço, estabelecimento ou repartição militar, num período de seis meses de serviço ininterrupto, o comando ou função privativa de seu posto;
+
+c) ter o interstício de um ano no posto;
+
+d) possuir conceito favoravel, emitido pelo Comandante ou chefe, sobre caráter; capacidade de ação nas funções, como instrutor ou na administração; grau de instrução; espírito militar e conduta civil e militar; capacidade física.
+
+Parágrafo único. O conceito referido na letra d acima deverá ser expresso numa "folha de conceito para promoção de oficial da Reserva de 2ª Classe", de acordo com o modelo e nota explicativa anexos.
+
+Art. 3º Os oficiais da Reserva de 2ª Classe que satisfaçam aos requisitos para promoção, de conformidade com este decreto‑lei, terão preferência, para serem promovidos, sobre os que satisfizerem aos requisitos exigidos pelas disposições do Regulamento do Corpo de Oficiais da Reserva, aprovado por decreto n. 15.231, de 31 de dezembro de 1921.
+
+Art. 4º Serão considerados como tendo um dos períodos de instrução previstos no art. 11 do Regulamento aprovado por decreto n. 15.231, de 31 de dezembro de 1921, os oficiais da Reserva a que se refere o presente decreto‑lei, licenciados antes de completarem o período citado na letra b do artigo 2º, que tenham estado incorporados mais de trinta dias e satisfaçam aos demais requisitos do referido artigo.
+
+Art. 5º Para o preenchimento das vagas e apresentação das propostas de promoção devem ser observadas as determinações constantes dos arts. 26 e 27 do Regulamento do Corpo de Oficiais da Reserva.
+
+Parágrafo único. Para os oficiais que satisfizeram, em 1942, aos requisitos para promoção, as propostas, observadas as necessidades de cada Região Militar (art. 27 do Regulamento do Corpo de Oficiais da Reserva), devem ser apresentadas dentro do prazo de sessenta dias, a contar da publicação deste decreto‑lei.
+
+Art. 6º Este decreto‑lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Rio de Janeiro, 14 de maio de 1943, 122º da Independência e 55º da República.
+
+GETULIO VARGAS.
+
+Eurico G. Dutra.
+
+TABELA EM ANEXO
+
+MINISTÉRIO DA GUERRA DATA_______________________________________________
+
+REGIÃO
+
+CORPO
+
+Folhas de conceito para promoção de oficiais da Reserva de 2ª classe
+
+Requisitos
+
+Apreciação do Cmt. Ou Chefe
+
+a
+
+Carater
+
+b
+
+Capacidade de ação nas funções como instrutor
+
+ou na administração
+
+c
+
+Grau de instrução
+
+d
+
+Espírito militar e conduta civil e militar
+
+e
+
+Capacidade física
+
+f
+
+Juizo sintético do Comandante do Corpo ou Chefe sobre o oficial.
+
+Quartel em .................................................................................................
+
+____________________________
+
+......................Cmt. ou Chefe
+
+NOTA explicativa para preenchimento da folha de conceito para promoção de Oficial da Reserva de 2ª Classe.
+
+Na apreciação dos requisitos os Comandantes ou Chefes observarão os seguintes aspectos:
+
+a) – quanto ao caráter – atitudes claras e bem definidas, amor às responsabilidades, comportamento desassombrado em face de situação imprevista e difícil, energia e perseverança na execução das próprias decisões domínio de sí mesmo, igualmente de ânimo, coerência de procedimento, lealdade e independência.
+
+b) – quanto à capacidade de ação nas suas funções como instrutor ou na administração – revelando o tempo de convocação.
+
+c) – quanto ao grau de instrução – avaliado pela soma de conhecimentos militares e de cultura geral demostrada durante os trabalhos realizados.
+
+d) – quanto ao espírito militar e conduta civil e militar – são aferidos consoantes as manifestações habituais da atividade do oficial, subordinação e respeito aos superiores, exigências no tratamento de seus subordinados; pontualidade discrição; espírito de iniciativa, de precisão e de métodos no cumprimento dos deveres; amor e dedicação aos serviços; procedimento civil; educação e procedimentos privados; espírito de camaradagem, urbanidade e cavalherismo, aspecto marcial e correção nos uniformes; observância exata das convenções sociais.
+
+e) – capacidade física – resistência à fadiga e às intempéries, e pelo número de partes de doentes apresentadas, esportes que prática.
+
+f) ‑ juizo sintético sobre o oficial do Cmt. ou corpo ou chefe – os conceitos emitidos serão sintetizados pelos Comandantes dos corpos ou chefes, sob a forma de um juizo curto e claro.
