@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 101, de 31 de outubro de 2000
+Dispõe sobre a cobrança, no âmbito do Distrito Federal, da Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - CPMF não recolhida por força de decisão judicial.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista o disposto nos arts. 45 a 47 e 50 da Medida Provisória No 2.037, de 26 de outubro de 2000, bem assim a sustação, pelo Presidente do Tribunal Regional Federal da 1a Região, em 30 de outubro de 2000, dos efeitos da tutela antecipada concedida nos autos da Ação Civil Pública No 2000.34.00.039611-5-DF resolve:
