@@ -1,0 +1,1 @@
+Art. 48. Os membros da Defensoria Pública da União não podem participar de comissão, banca de concurso, ou qualquer decisão, quando o julgamento ou votação disser respeito a seu cônjuge ou companheiro, ou parente consangüíneo ou afim em linha reta ou colateral, até o terceiro grau.
