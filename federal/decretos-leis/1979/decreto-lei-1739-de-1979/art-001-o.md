@@ -1,0 +1,1 @@
+Art. 1º - O limite máximo do salário-de contribuição, previsto no art. 5º da Lei 6.332, de 18 de maio de 1976, é fixado em Cr$51.930,00 (cinqüenta e um mil novecentos e trinta cruzeiros), para o exercício de 1980.
