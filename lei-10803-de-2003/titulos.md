@@ -1,0 +1,1 @@
+Altera o art. 149 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para estabelecer penas ao crime nele tipificado e indicar as hipóteses em que se configura condição análoga à de escravo.
