@@ -1,0 +1,1 @@
+Art. 15. Os sistemas de ensino assegurarão às unidades escolares públicas de educação básica que os integram progressivos graus de autonomia pedagógica e administrativa e de gestão financeira, observadas as normas gerais de direito financeiro público.
