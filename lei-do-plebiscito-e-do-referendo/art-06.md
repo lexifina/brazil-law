@@ -1,0 +1,1 @@
+Art. 6º Nas demais questões, de competência dos Estados, do Distrito Federal e dos Municípios, o plebiscito e o referendo serão convocados de conformidade, respectivamente, com a Constituição Estadual e com a Lei Orgânica.

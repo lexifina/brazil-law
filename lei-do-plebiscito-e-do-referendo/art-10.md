@@ -1,0 +1,1 @@
+Art. 10. O plebiscito ou referendo, convocado nos termos da presente Lei, será considerado aprovado ou rejeitado por maioria simples, de acordo com o resultado homologado pelo Tribunal Superior Eleitoral.

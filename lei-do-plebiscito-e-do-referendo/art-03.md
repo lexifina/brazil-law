@@ -1,0 +1,1 @@
+Art. 3º Nas questões de relevância nacional, de competência do Poder Legislativo ou do Poder Executivo, e no caso do § 3º do art. 18 da Constituição Federal, o plebiscito e o referendo são convocados mediante decreto legislativo, por proposta de um terço, no mínimo, dos membros que compõem qualquer das Casas do Congresso Nacional, de conformidade com esta Lei.
