@@ -1,0 +1,1 @@
+Art. 18. Os operadores de terminais, armazéns e quaisquer outros que realizem operações de transbordo são responsáveis, perante o Operador de Transporte Multimodal de Cargas que emitiu o Conhecimento de Transporte Multimodal, pela perda e danos provocados às mercadorias quando da realização das referidas operações, inclusive de depósito.

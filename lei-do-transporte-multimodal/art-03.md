@@ -1,0 +1,1 @@
+Art. 3º O Transporte Multimodal de Cargas compreende, além do transporte em si, os serviços de coleta, unitização desunitização, movimentação, armazenagem e entrega de carga ao destinatário, bem como a realização dos serviços correlatos que forem contratados entre a origem e o destino, inclusive os de consolidação e desconsolidação documental de cargas.
