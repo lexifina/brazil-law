@@ -1,0 +1,1 @@
+Art. 30. Durante a avaliação do recurso, será permitido ao solicitante de refúgio e aos seus familiares permanecer no território nacional, sendo observado o disposto nos §§ 1º e 2º do art. 21 desta Lei.

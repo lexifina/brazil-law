@@ -1,0 +1,1 @@
+Art. 5º O refugiado gozará de direitos e estará sujeito aos deveres dos estrangeiros no Brasil, ao disposto nesta Lei, na Convenção sobre o Estatuto dos Refugiados de 1951 e no Protocolo sobre o Estatuto dos Refugiados de 1967, cabendo-lhe a obrigação de acatar as leis, regulamentos e providências destinados à manutenção da ordem pública.
