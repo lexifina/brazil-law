@@ -1,0 +1,1 @@
+Artigo 8º - 0s cargos e funções-atividades que, nos termos das disposições transitórias desta lei complementar, resultando da integração nas séries de classes de Engenheiro, Arquiteto e Engenheiro Agrônomo, sejam incluídos em Tabela de Subquadro distinta da prevista para o cargo ou função-atividade anterior, não modificam a situação jurídica dos respectivos ocupantes.

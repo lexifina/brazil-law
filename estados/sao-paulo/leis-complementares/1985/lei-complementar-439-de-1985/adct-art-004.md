@@ -1,0 +1,2 @@
+Artigo 4º - O disposto nos artigos 19 a 39 destas disposições transitórias aplica-se aos servidores ocupantes de funções-atividades de natureza permanente de igual denominação, que preencham as condições previstas no mencionado artigo 1º.
+Parágrafo único - As funções-atividades de que trata este artigo ficam integradas no Subquadro de Funções-Atividades (5211) dos Quadros das Secretarias de Estado.

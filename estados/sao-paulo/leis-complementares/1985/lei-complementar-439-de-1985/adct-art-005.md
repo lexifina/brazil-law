@@ -1,0 +1,9 @@
+Artigo 5º - Poderão optar pela integração no sistema retribuitório de que trata esta lei complementar os funcionários ocupantes de cargos decorrentes de transformação de qualquer dos cargos mencionados nos incisos I, II e III do artigo 19 destas disposições transitórias, com fundamento:
+I - nos artigo 12 e 14 das Disposições Transitórias da Lei Complementar nº 180, de 12 de maio de 1978:
+II - no inciso I do artigo 1º das Disposições Transitórias da Lei Complementar nº 318, de 10 de março de 1983.
+§ 1º - O disposto no "caput" aplica-se também aos ocupantes de funções-atividades de idêntica denominação, que se encontrarem nas condições ali previstas.
+§ 2º - A opção de que trata este artigo deverá ser manifestada pelo funcionário ou servidor perante a autoridade competente, dentro de 180 (cento e oitenta) dias contados da data da publicação desta lei complementar.
+§ 3º - Ao funcionário ou servidor que fizer uso da opção prevista neste artigo aplicar-se-ão, para fins de enquadramento,as disposições dos artigos 1º, 2º e 3º destas disposições transitórias.
+§ 4º - A faculdade prevista neste artigo aplica-se aos inativos.
+§ 5º - O disposto neste artigo aplica-se também aos funcionários ocupantes de cargos de Agente do Serviço Civil Níveis I a VIII, os quais, com fundamento no artigo 14 das Disposições Transitórias da Lei Complementar nº 180, de 12 de maio de 1978, ou no inciso I do artigo 1º das Disposições Transitórias da Lei Complementar nº 318, de 10 de março de 1983, tenham decorrido de transformação de cargos de Diretor Técnico para cujo provimento foi exigida a habilitação profissional de Engenheiro, de Arquiteto, de Engenheiro Agrônomo ou de Engenheiro Agrimensor.
+§ 6º - 0s efeitos da opção de que trata este artigo se efetivarão a partir da data da manifestação do funcionário ou servidor.

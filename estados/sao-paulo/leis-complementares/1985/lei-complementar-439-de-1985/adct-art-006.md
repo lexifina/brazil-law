@@ -1,0 +1,1 @@
+Artigo 6º - O disposto no artigo anterior aplica-se também aos funcionários titulares efetivos de cargos de Diretor Técnico, para cujo provimento foi exigida a habilitação profissional de Engenheiro, de Arquiteto, de Engenheiro Agrônomo ou de Engenheiro Agrimensor.

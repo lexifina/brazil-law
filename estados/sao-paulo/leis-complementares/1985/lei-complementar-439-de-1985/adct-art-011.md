@@ -1,0 +1,1 @@
+Artigo 11 - Para os efeitos do disposto no § 1º do artigo 6º desta lei complementar, entende-se cumprido o interstício correspondente a classe em que, na forma dos artigos 1º, 4º, 9º, 5º e 6º destas disposições transitórias, for integrado o cargo ou função-atividade.

@@ -1,0 +1,1 @@
+Artigo 7º - O órgão central de recursos humanos fará publicar relação nominal dos funcionários e servidores abrangidos pelos artigos 1º, 4º, 5º e 6º, indicando a denominação do cargo ou função-atividade anteriormente ocupado e a do cargo ou função- atividade resultante da integração.
