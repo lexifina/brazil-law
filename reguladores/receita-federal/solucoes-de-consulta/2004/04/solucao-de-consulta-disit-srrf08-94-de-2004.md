@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF08 nº 94, de 30 de março de 2004
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ Ementa: LUCRO PRESUMIDO. PERCENTUAL. TRANSMISSÃO DE ENERGIA ELÉTRICA. A atividade de transmissão de energia elétrica, explorada por meio de concessão do Poder Público, é considerada transporte de carga, para fins de aplicação do percentual de oito por cento sobre a receita bruta correspondente, na apuração do lucro presumido. Dispositivos Legais: Decreto n.º 3.000, de 26 de março de 1999, republicado em 17 de junho de 1999, art. 518 e 519, § 1.º, II; Lei n.º 10.406, de 10 de janeiro de 2002 (Código Civil), art. 83, 730 e 731.
+[arquivo anexo: SC SRRF08-Disit nº 94-2004.pdf]
