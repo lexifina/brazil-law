@@ -1,0 +1,1 @@
+Art. 30. Os possuidores e proprietários de armas de fogo não registradas deverão, sob pena de responsabilidade penal, no prazo de 180 (cento e oitenta) dias após a publicação desta Lei, solicitar o seu registro apresentando nota fiscal de compra ou a comprovação da origem lícita da posse, pelos meios de prova em direito admitidos.
