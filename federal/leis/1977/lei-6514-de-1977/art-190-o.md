@@ -1,0 +1,2 @@
+Art. 190 - O Ministério do Trabalho aprovará o quadro das atividades e operações insalubres e adotará normas sobre os critérios de caracterização da insalubridade, os limites de tolerância aos agentes agressivos, meios de proteção e o tempo máximo de exposição do empregado a esses agentes.
+Parágrafo único - As normas referidas neste artigo incluirão medidas de proteção do organismo do trabalhador nas operações que produzem aerodispersóides tóxicos, irritantes, alérgicos ou incômodos.

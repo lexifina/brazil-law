@@ -1,0 +1,3 @@
+Art. 186 - O Ministério do Trabalho estabelecerá normas adicionais sobre proteção e medidas de segurança na operação de máquinas e equipamentos, especialmente quanto à proteção das partes móveis, distância entre estas, vias de acesso às máquinas e equipamentos de grandes dimensões, emprego de ferramentas, sua adequação e medidas de proteção exigidas quando motorizadas ou elétricas.
+Seção XII
+Das Caldeiras, Fornos e Recipientes sob Pressão

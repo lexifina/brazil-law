@@ -1,0 +1,4 @@
+Art. 191- A eliminação ou a neutralização da insalubridade ocorrerá:
+I - com a adoção de medidas que conservem o ambiente de trabalho dentro dos limites de tolerância;
+II - com a utilização de equipamentos de proteção individual ao trabalhador, que diminuam a intensidade do agente agressivo a limites de tolerância.
+Parágrafo único - Caberá às Delegacias Regionais do Trabalho, comprovada a insalubridade, notificar as empresas, estipulando prazos para sua eliminação ou neutralização, na forma deste artigo.

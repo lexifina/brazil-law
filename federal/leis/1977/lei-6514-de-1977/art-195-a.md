@@ -1,0 +1,4 @@
+Art. 195 - A caracterização e a classificação da insalubridade e da periculosidade, segundo as normas do Ministério do Trabalho, far-se-ão através de perícia a cargo de Médico do Trabalho ou Engenheiro do Trabalho, registrados no Ministério do Trabalho.
+§ 1º - É facultado às empresas e aos sindicatos das categorias profissionais interessadas requererem ao Ministério do Trabalho a realização de perícia em estabelecimento ou setor deste, com o objetivo de caracterizar e classificar ou delimitar as atividades insalubres ou perigosas.
+§ 2º - Argüida em juízo insalubridade ou periculosidade, seja por empregado, seja por Sindicato em favor de grupo de associado, o juiz designará perito habilitado na forma deste artigo, e, onde não houver, requisitará perícia ao órgão competente do Ministério do Trabalho.
+§ 3º - O disposto nos parágrafos anteriores não prejudica a ação fiscalizadora do Ministério do Trabalho, nem a realização ex officio da perícia.

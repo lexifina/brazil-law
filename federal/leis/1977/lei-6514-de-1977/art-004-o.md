@@ -1,0 +1,1 @@
+Art. 4º - O Ministro do Trabalho relacionará o artigos do Capítulo V do Título II da Consolidação das Leis do Trabalho, cuja aplicação será fiscalizada exclusivamente por engenheiros de segurança e médicos do trabalho.

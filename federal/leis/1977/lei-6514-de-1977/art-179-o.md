@@ -1,0 +1,1 @@
+Art. 179 - O Ministério do Trabalho disporá sobre as condições de segurança e as medidas especiais a serem observadas relativamente a instalações elétricas, em qualquer das fases de produção, transmissão, distribuição ou consumo de energia.

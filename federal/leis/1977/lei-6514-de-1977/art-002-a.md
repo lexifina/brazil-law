@@ -1,0 +1,1 @@
+Art. 2º - A retroação dos efeitos pecuniários decorrentes do trabalho em condições de insalubridade ou periculosidade, de que trata o artigo 196 da Consolidação das Leis do Trabalho, com a nova redação dada por esta Lei, terá como limite a data da vigência desta Lei, enquanto não decorridos 2 (dois) anos da sua vigência.

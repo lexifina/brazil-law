@@ -1,0 +1,1 @@
+Art. 166 - A empresa é obrigada a fornecer aos empregados, gratuitamente, equipamento de proteção individual adequado ao risco e em perfeito estado de conservação e funcionamento, sempre que as medidas de ordem geral não ofereçam completa proteção contra os riscos de acidentes e danos à saúde dos empregados.

@@ -1,0 +1,1 @@
+Art. 154 - A observância, em todos os locais de trabalho, do disposto neste Capitulo, não desobriga as empresas do cumprimento de outras disposições que, com relação à matéria, sejam incluídas em códigos de obras ou regulamentos sanitários dos Estados ou Municípios em que se situem os respectivos estabelecimentos, bem como daquelas oriundas de convenções coletivas de trabalho.

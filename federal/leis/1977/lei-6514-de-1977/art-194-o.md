@@ -1,0 +1,1 @@
+Art. 194 - O direito do empregado ao adicional de insalubridade ou de periculosidade cessará com a eliminação do risco à sua saúde ou integridade física, nos termos desta Seção e das normas expedidas pelo Ministério do Trabalho.
