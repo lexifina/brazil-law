@@ -1,0 +1,2 @@
+Dispõe sobre a pesquisa, exploração, remoção e demolição de coisas ou bens afundados, submersos, encalhados e perdidos em águas sob jurisdição nacional, em terreno de marinha e seus acrescidos e em terrenos marginais, em decorrência de sinistro, alijamento ou fortuna do mar, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:
