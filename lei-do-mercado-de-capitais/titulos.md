@@ -26,5 +26,8 @@ SEÇÃO XIII
 Das Sociedades Imobiliárias
 SEÇÃO XIV
 Alienação Fiduciária em Garantia
+Seção XIV
+Alienação Fiduciária em Garantia no
+Âmbito do Mercado Financeiro e de Capitais
 SEÇÃO XV
 Disposições diversas
