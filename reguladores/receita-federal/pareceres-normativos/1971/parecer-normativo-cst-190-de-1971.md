@@ -1,0 +1,23 @@
+Parecer Normativo CST nº 190, de 3 de março de 1971
+Está isenta do pagamento do imposto a importação de bens destinados a obra de construção ou execução de serviços operados pelo Poder Público. Quando tais importações se processarem pela Zona Franca de Manaus, a norma isencional aplicável é a constante do art. 3º, do Decreto-lei nº 288/67, que abrange indistintamente as importações realizadas pelos órgãos governamentais ou por entidades privadas. 3 - Imposto de importação 03 - Imposto de importação 03.06 -Isenções e Reduções 03.06.04 - Isenção para bens destinados a obra de construção ou execução de serviços operados pelo Poder Público.
+A importação de equipamento, máquina, aparelho ou instrumento, sem similar nacional, processada pela União, Estados,Municípios, Distrito Federal, Autarquias e demais entidades de direito público interno ¹ e destinadas a obras de construção, ampliação, exploração e conservação de serviços públicos operados direta ou indiretamente por aqueles organismos, está isenta do pagamento do imposto de importação, face ao disposto no art.15, incisos I e II, do Decreto-lei nº 37, de 18 de novembro de 1966, com a regulamentação dada pelo Decreto nº 62.898, de 25 de junho de 1968 ².
+2. A apuração da similaridade, segundo o mesmo decreto,será feita de acordo com os critérios da legislação específica, no caso, o Decreto nº 61.574, de 20 de outubro de 1967 ³.
+3. Ressalve-se que, de conformidade com o disposto nos arts. 4º e 5º do citado Decreto nº 62.898/68 4, as entidades mencionadas no item primeiro ficam obrigadas a dar preferência, em suas compras, aos produtos de fabricação nacional, sendo-lhes, ainda, vedada a importação de bens considerados não essenciais 5.
+4. Por oportuno, vale salientar que a importação de bens para emprego em obra ou serviço explorado pelo poder público, porém efetivada por uma empresa privada, não está amparada pelo benefício fiscal em tela, exceção feita às importações enquadradas e processadas com base na Resolução 825, de 29.6.70, do Conselho de PoIítica Aduaneira 6.
+5. Esclareça-se, ao final, que a importação de mercadoria estrangeira efetuada por qualquer entidade - pública ou privada, para consumo ou operação de seus serviços dentro dos limites da Zona Franca de Manaus, encontra apoio isencional na norma constante do art. 3º, de Decreto-lei nº 288 de fevereiro de 1967, regulamentado pelo Decreto nº 61.244, de 28 de agosto de 1967, este último determinando a suspensão do pagamento dos impostos de importação e sobre produtos industrializados, por ocasião da entrada da mercadoria na Zona Franca (art. 3º, caput) e a efetivação da isenção integral, quando do emprego da mercadoria na finalidade para que foi importada (art. 3º, § 4º, I). Na hipótese, é irrelevante, o fato da existência ou não de similar nacional.
+S.L.T.N., em 12.2.1971
+JOAQUIM MOTA A.F.T.F.
+De acordo.
+Publique-se e, a seguir, encaminhem-se copias:
+a) à D.R.F. em são Paulo para solucionar a consulta (C.G.C. nº 62.348.927/001);
+b) às SS.RR.R.F. para conhecimento e ciência dos demais órgãos subordinados.
+COORDENAÇÃO DO SISTEMA DE TRIBUTAÇÃO AMADOR OUTERELO FERNÁNDEZ Chefe do S.L.T.N.
+Comentários em maio/2006
+1.Teor do Parecer parcialmente superado.
+2. Na parte não superada necessita ser atualizado da forma exposta a seguir:
+a) exclusão do trecho tachado em face da legislação vigente, que não faz mais referência a "demais entidades de direito público interno", haja vista disposição expressa do art. 2º, I, a, c/c arts. 1º, Parágrafo único, e 13 da Lei nº 8.032, de 1990 ("Art. 2º As isenções e reduções do Imposto de Importação ficam limitadas, exclusivamente: I - às importações realizadas: a) pela União, pelos Estados, pelo Distrito Federal, pelos Territórios, pelos Municípios e pelas respectivas autarquias;"). ,
+b) substituição/atualização do trecho tachado para: "face ao disposto na Lei no 8.032, de 1990, art. 2o, inciso I, alínea "a", e Lei no 8.402, de 8 de janeiro de 1992, art. 1o, inciso IV, com a regulamentação dada pelo Decreto nº 4.543, de 2002 - Regulamento Aduaneiro, arts. 137, I, e 138".
+c) substituição/atualização do trecho tachado para: "será feita de acordo com os critérios estabelecidos no Regulamento Aduaneiro, arts. 190 e seguintes"
+d) substituição/atualização do trecho tachado para "no art. 205 do Regulamento Aduaneiro".
+e) exclusão do trecho tachado, haja vista a ausência de previsão correspondente no Regulamento Aduaneiro vigente.
+f) exclusão do trecho tachado, haja vista que inexiste qualquer Resolução vigente da Câmara de Comércio Exterior (CAMEX) que "isente" ou reduza alíquotas em hipóteses tais quais a tratada no Parecer.
