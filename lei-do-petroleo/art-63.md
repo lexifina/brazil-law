@@ -1,0 +1,1 @@
+Art. 63. A PETROBRÁS e suas subsidiárias ficam autorizadas a formar consórcios com empresas nacionais ou estrangeiras, na condição ou não de empresa líder, objetivando expandir atividades, reunir tecnologias e ampliar investimentos aplicados à indústria do petróleo.
