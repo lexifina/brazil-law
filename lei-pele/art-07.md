@@ -1,4 +1,4 @@
-Art. 7º Os recursos do INDESP terão a seguinte destinação:
+Art. 7º Os recursos do Ministério do Esporte terão a seguinte destinação:
 I - desporto educacional;
 II - desporto de rendimento, nos casos de participação de entidades nacionais de administração do desporto em competições internacionais, bem como as competições brasileiras dos desportos de criação nacional;
 III - desporto de criação nacional;
