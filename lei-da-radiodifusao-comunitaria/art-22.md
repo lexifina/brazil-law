@@ -1,0 +1,1 @@
+Art. 22. As emissoras do Serviço de Radiodifusão Comunitária operarão sem direito a proteção contra eventuais interferências causadas por emissoras de quaisquer Serviços de Telecomunicações e Radiodifusão regularmente instaladas, condições estas que constarão do seu certificado de licença de funcionamento.
