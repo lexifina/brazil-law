@@ -1,0 +1,13 @@
+Parecer Normativo CST nº 22, de 27 de abril de 1979
+Imposto de Importação 5.49.07.00 - Penalidades - Multas Para efeito de apuração de ocorrência de infrações administrativas ao controle das importações, levar-se-á em conta o valor unitário dos bens importados em desacordo com aquele constante da respectiva guia de importação.
+Dispondo sobre as infrações administrativas ao controle das importações, determina o artigo 169, § 79 , inciso I, do Decreto-Lei nº 37, de 18 de novembro de 1966, com a redação dada pelo artigo 2º da Lei nº 6.562, de 18 de setembro de 1978:
+"§ 7º - não constituirão infrações:
+I - a diferença, para mais ou para menos, não superior a 10% (dez por cento) quanto ao preço, e a 5% (cinco por cento) quanto à quantidade ou ao peso, desde que não ocorram concomitantemente".
+2. Pergunta-se, para fins de se verificar a ocorrência ou não da infração em face do respeito aos índices ali instituídos, se a comparação com o valor constante da respectiva guia de importação devera levar em conta seu preço total ou o preço unitário dos bens efetivamente importados.
+3. Variações no peso ou na quantidade certamente têm sempre como conseqüência diferença no valor total. Em razão disto, admitindo-se que a verificação de obediência aos limites de tolerância deva reportar-se ao preço total, a infração questionada estaria configurada toda vez que houvesse diferença no peso ou quantidade, ainda que observado o índice de 5%, de vez que a norma em análise, aliás inovando com relação ao direito anterior, considera haver infração sempre que as diferenças ocorram concomitantemente.
+3.1 - Tal entendimento, todavia, por implicar em considerar-se inócua a parte do dispositivo que estabelece o limite de 5% (cinco por cento) com referência ao peso ou quantidade, há de ser abandonado.
+4. Assim, para que a norma em análise ganhe plena eficácia, possibilitando sua aplicação, quaisquer que sejam as diferenças apuradas, há de se levar em conta, para fins de verificação da obediência aos limites de tolerância, somente o preço unitário dos bens, não constituindo, exemplificativamente, infração uma diferença igual ou inferior a 5% quanto ao peso ou quantidade, desde que se mantenha invariável o preço unitário, em que pese a inevitável variação no valor total.
+5. Ressalte-se que a norma em análise não estabelece nenhuma ressalva referente à natureza dos bens ou à sua forma de comercialização, sendo conseguintemente irrelevante para descaracterizar a infração o fato de a mercadoria ser, por exemplo, de fácil volatilização ou comercializada a granel.
+CST/ASSESSORIA, 26 de abril de 1979.
+De acordo.
+Publique-se e, a seguir, encaminhem-se cópias às SS.RR.R.F. para conhecimento e ciência aos demais órgãos subordinados.
