@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 371, de 19 de dezembro de 2003
+Dispõe sobre a regulamentação dos procedimentos de verificação e controle relativos ao Sistema de Certificação do Processo de Kimberley.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, tendo em vista o disposto no art. 12 da Lei nº 10.743, de 9 de outubro de 2003, e a necessidade de regulamentar os procedimentos de controle e verificação de origem de diamantes brutos destinados à exportação e à importação objeto do Sistema de Certificação do Processo de Kimberley, resolve:
