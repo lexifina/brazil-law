@@ -1,6 +1,7 @@
-Art. 17-O. Os proprietários rurais, que se beneficiarem com redução do valor do Imposto sobre a Propriedade Territorial Rural - ITR, com base em Ato Declaratório Ambiental - ADA, deverão recolher ao Ibama 10% (dez por cento) do valor auferido como redução do referido Imposto, a título de preço público pela prestação de serviços técnicos de vistoria.
-§ 1º A utilização do ADA para efeito de redução do valor a pagar do ITR é opcional.
-§ 2º O pagamento de que trata o caput deste artigo poderá ser efetivado em cota única ou em parcelas, nos mesmos moldes escolhidos, pelo contribuinte, para pagamento do ITR, em documento próprio de arrecadação do Ibama.
-§ 3º Nenhuma parcela poderá ser inferior a R$ 50,00 (cinqüenta reais).
-§ 4º O não-pagamento de qualquer parcela ensejará a cobrança de juros e multa nos termos da Lei nº 8.005, de 22 de março de 1990.
-§ 5º Após a vistoria, realizada por amostragem, caso os dados constantes do ADA não coincidam com os efetivamente levantados pelos técnicos do Ibama, estes lavrarão, de ofício, novo ADA contendo os dados efetivamente levantados, o qual será encaminhado à Secretaria da Receita Federal, para as providências decorrentes.
+Art. 17-O. Os proprietários rurais que se beneficiarem com redução do valor do Imposto sobre a Propriedade Territorial Rural - ITR, com base em Ato Declaratório Ambiental - ADA, deverão recolher ao Ibama a importância prevista no item 3.11 do Anexo VII da Lei nº 9.960, de 29 de janeiro de 2000, a título de Taxa de Vistoria.
+§ 1º A utilização do ADA para efeito de redução do valor a pagar do ITR é obrigatória.
+§ 1º-A. A Taxa de Vistoria a que se refere o caput deste artigo não poderá exceder a dez por cento do valor da redução do imposto proporcionada pelo ADA.
+§ 2º O pagamento de que trata o caput deste artigo poderá ser efetivado em cota única ou em parcelas, nos mesmos moldes escolhidos pelo contribuinte para o pagamento do ITR, em documento próprio de arrecadação do Ibama.
+§ 3º Para efeito de pagamento parcelado, nenhuma parcela poderá ser inferior a R$ 50,00 (cinqüenta reais).
+§ 4º O inadimplemento de qualquer parcela ensejará a cobrança de juros e multa nos termos dos incisos I e II do caput e §§ 1º-A e 1º, todos do art. 17-H desta Lei.
+§ 5º Após a vistoria, realizada por amostragem, caso os dados constantes do ADA não coincidam com os efetivamente levantados pelos técnicos do Ibama, estes lavrarão, de ofício, novo ADA, contendo os dados reais, o qual será encaminhado à Secretaria da Receita Federal, para as providências cabíveis.

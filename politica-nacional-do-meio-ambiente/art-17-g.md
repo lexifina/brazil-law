@@ -1,2 +1,2 @@
-Art. 17-G. O não-pagamento da TFA ensejará a fiscalização do Ibama, a lavratura de auto de infração e a conseqüente aplicação de multa correspondente ao valor da TFA, acrescido de 100 % (cem por cento) desse valor, sem prejuízo da exigência do pagamento da referida Taxa.
-Parágrafo único. O valor da multa será reduzido em 30% (trinta por cento), se o pagamento for efetuado em sua totalidade, até a data do vencimento estipulado no respectivo auto de infração.
+Art. 17-G. A TCFA será devida no último dia útil de cada trimestre do ano civil, nos valores fixados no Anexo IX desta Lei, e o recolhimento será efetuado em conta bancária vinculada ao Ibama, por intermédio de documento próprio de arrecadação, até o quinto dia útil do mês subseqüente.
+Parágrafo único. Revogado.
