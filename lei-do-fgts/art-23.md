@@ -1,6 +1,6 @@
 Art. 23. Competirá ao Ministério do Trabalho e da Previdência Social a verificação, em nome da Caixa Econômica Federal, do cumprimento do disposto nesta lei, especialmente quanto à apuração dos débitos e das infrações praticadas pelos empregadores ou tomadores de serviço, notificando-os para efetuarem e comprovarem os depósitos correspondentes e cumprirem as demais determinações legais, podendo, para tanto, contar com o concurso de outros órgãos do Governo Federal, na forma que vier a ser regulamentada.
 § 1º Constituem infrações para efeito desta lei:
-I - não depositar mensalmente o percentual referente ao FGTS;
+I - não depositar mensalmente o percentual referente ao FGTS, bem como os valores previstos no art. 18 desta Lei, nos prazos de que trata o § 6º do art. 477 da Consolidação das Leis do Trabalho - CLT;
 II - omitir as informações sobre a conta vinculada do trabalhador;
 III - apresentar as informações ao Cadastro Nacional do Trabalhador, dos trabalhadores beneficiários, com erros ou omissões;
 IV - deixar de computar, para efeito de cálculo dos depósitos do FGTS, parcela componente da remuneração;
