@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 6, de 23 de novembro de 2001
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+EMENTA: Aplicam-se os ajustes previstos na Lei nº 9.430, de 27 dezembro de 1996, em matéria de Preços de Transferência. Não há contradição entre o artigo 9º do Modelo de Convenção Fiscal sobre o Rendimento e o Patrimônio da OCDE - que trata dos preços de transferência nas convenções -, e os artigos 18 a 24 da Lei nº 9.430, de 1996, que inserem e tributam os preços de transferência na legislação fiscal brasileira. Tampouco há contradição entre as disposições da Lei nº 9.430, de 1996 e os acordos de bitributação firmados pelo Brasil em matéria relativa ao princípio arm’s length. Aplica-se o método Preço de Revenda menos Lucro – PRL, com margem de lucro de sessenta por cento, ao processo de produção de outro bem, para fatos geradores ocorridos a partir de 1º de janeiro de 2000.
+DISPOSITIVOS LEGAIS: Decreto nº 76.988, de 06 de janeiro de 1976; Lei nº 9.430, de 27 de dezembro de 1996; Lei nº 9.959, de 27 de janeiro de 2000; Instrução Normativa SRF nº 38/97, de 30 de abril de 1997; Instrução Normativa SRF nº 113/00, de 19 de dezembro de 2000; Instrução Normativa SRF nº 32, de 30 de março de 2001.
+SC Cosit nº 6-2001
+[arquivo anexo: SC Cosit nº 6-2001.pdf]
