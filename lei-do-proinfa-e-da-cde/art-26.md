@@ -1,0 +1,1 @@
+Art. 26. Fica a Petróleo Brasileiro S.A. - Petrobrás, sociedade de economia mista, criada pela Lei nº 2.004, de 3 de outubro de 1953, autorizada a incluir no seu objeto social as atividades vinculadas à energia.

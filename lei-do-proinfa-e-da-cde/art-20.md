@@ -1,0 +1,1 @@
+Art. 20. Deverão ser sub-rogados à Eletrobrás os compromissos de aquisição e repasse às concessionárias de distribuição dos serviços de eletricidade de Itaipu Binacional firmados por Furnas e Eletrosul, subsidiárias da Eletrobrás, com as concessionárias de distribuição de energia elétrica.
