@@ -1,0 +1,1 @@
+Art. 12. Depende de prévio registro no Banco Central o funcionamento de sociedades que tenham por objeto qualquer atividade de intermediação na distribuição, ou colocação no mercado, de títulos ou valôres mobiliários.

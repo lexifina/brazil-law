@@ -1,0 +1,1 @@
+Art. 72. Ninguém poderá gravar ou produzir clichês, compor tipogràficamente, imprimir, fazer, reproduzir ou fabricar de qualquer forma, papéis representativos de ações ou cautelas, que os representem, ou títulos negociáveis de sociedades, sem autorização escrita e assinada pelos respectivos representantes legais, na quantidade autorizada.

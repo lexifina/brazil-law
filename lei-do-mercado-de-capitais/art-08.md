@@ -1,0 +1,7 @@
+Art. 8º A intermediação dos negócios nas Bôlsas de Valôres será exercida por sociedades corretoras membros da Bôlsa, cujo capital mínimo será fixado pelo Conselho Monetário Nacional.
+§ 1º A participação societária conjunta dos administradores das sociedades corretoras não poderá ser inferior à metade do capital votante.
+§ 2º As sociedades referidas neste artigo sòmente poderão funcionar depois de autorizadas pelo Banco Central, e a investidura dos seus dirigentes estará sujeita às condições legais vigentes para os administradores de instituições financeiras.
+§ 3º Nas condições fixadas pelo Conselho Monetário Nacional, a sociedade corretora poderá ser membro de mais de uma Bôlsa de Valôres.
+§ 4º Os administradores das sociedades corretoras não poderão exercer qualquer cargo administrativo, consultivo, fiscal ou deliberativo em outras emprêsas cujos títulos ou valôres mobiliários sejam negociados em Bôlsa.
+§ 5º As sociedades referidas neste artigo, ainda que não revistam a forma anônima, são obrigadas a observar as normas de que trata o art. 20, § 1º, alíneas a e b.
+§ 6º O Conselho Monetário Nacional assegurará aos atuais Corretores de Fundos Públicos a faculdade de se registrarem no Banco Central, para intermediar a negociação nas Bôlsas de Valôres, sob a forma da firma individual, observados os mesmos requisitos estabelecidos para as sociedades corretoras previstas neste artigo, e sob a condição de extinção da firma, por morte do respectivo titular, ou pela participação dêste em sociedade corretora.
