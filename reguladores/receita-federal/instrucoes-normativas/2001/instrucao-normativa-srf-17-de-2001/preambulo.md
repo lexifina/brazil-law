@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 17, de 16 de fevereiro de 2001
+Aprova o Demonstrativo do Coeficiente de Redução do Imposto de Importação - Eletrônico (DCR-E).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 190 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF No 227, de 3 de setembro de 1998, e tendo em vista o disposto no art. 395 do Regulamento Aduaneiro, aprovado pelo Decreto No 91.030, de 5 de março de 1985, na Portaria MF No 308, de 11 de agosto de 1976, e no art. 7o do Decreto-lei No 288, de 28 de fevereiro de 1967, com a redação dada pelo art. 1o da Lei No 8.387, de 30 de dezembro de 1991, resolve:
