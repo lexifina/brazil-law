@@ -1,0 +1,2 @@
+Art. 37. Nos concursos a que se refere o artigo anterior em caso de igualdade de classificação, terá preferência para a nomeação o candidato que tiver pertencido à Fôrça Expedicionária Brasileira.
+Parágrafo único. Poderão ser aproveitados no provimento dos cargos criados nesta Lei os ex-Combatentes que tenham participado das operações de guerra no segundo conflito mundial, considerando-se o nível intelectual compatível com o respectivo cargo.

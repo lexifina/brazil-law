@@ -1,0 +1,1 @@
+Art. 56. Nas Seções Judiciárias onde houver mais de um Juiz Federal, o Conselho da Justiça Federal designará um dêles, anualmente, para exercer as funções de Diretor do Foro e Corregedor permanente dos serviços auxiliares não vinculados diretamente às Varas.

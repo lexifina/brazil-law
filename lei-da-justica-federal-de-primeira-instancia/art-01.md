@@ -1,0 +1,1 @@
+Art. 1º A administração da Justiça Federal de primeira instância nos Estados, no Distrito Federal e nos Territórios, compete a Juízes Federais e Juízes Federais Substitutos, com a colaboração dos órgãos auxiliares instituídos em lei e pela forma nela estabelecida.

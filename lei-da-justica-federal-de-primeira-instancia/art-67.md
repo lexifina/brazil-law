@@ -1,0 +1,1 @@
+Art. 67. A autoridade policial deverá remeter, em vinte e quatro horas, cópia do auto de prisão em flagrante ao Procurador da República que funcionar junto ao Juiz competente para o procedimento criminal.

@@ -1,0 +1,2 @@
+Art. 69. O parágrafo único do artigo 21 do Código de Processo Penal passa a ter a seguinte redação:
+"Parágrafo único. A incomunicabilidade, que não excederá de três dias, será decretada por despacho fundamentado do Juiz, a requerimento da autoridade policial, ou do órgão do Ministério Público, respeitado, em qualquer hipótese, o disposto no artigo 89, inciso III, do Estatuto da Ordem dos Advogados do Brasil (Lei n. 4.215, de 27 de abril de 1963)".

@@ -1,0 +1,1 @@
+Art. 82. O Supremo Tribunal Federal e o Tribunal Federal de Recursos farão baixar, de ofício, e independente do pagamento de custas aos Juízos de origem, dentro de trinta dias da publicação desta Lei, os processos com decisão passada em julgado, recurso deserto ou desistência homologada.

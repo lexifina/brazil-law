@@ -1,0 +1,1 @@
+Art. 32. Os Juízes Federais e os Juízes Federais Substitutos devem comparecer, nos dias úteis, a sede dos seus Juízos e aí permanecer durante o expediente, salvo, quando em cumprimento de diligência judicial.

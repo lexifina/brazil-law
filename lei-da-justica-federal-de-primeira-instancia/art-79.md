@@ -1,0 +1,1 @@
+Art. 79. Nas Seções Judiciárias providas de mais de uma Vara, enquanto não fôr criado o cargo de Distribuidor, o Diretor do Fôro designará um Oficial Judiciário para exercer as atribuições a êle pertinentes, cabendo-lhe, ainda, o recebimento, guarda e conservação dos livros e papéis que constituem o arquivo dos atuais Distribuidores dos Feitos da Fazenda Nacional.

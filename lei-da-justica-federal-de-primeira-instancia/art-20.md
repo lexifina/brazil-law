@@ -1,0 +1,1 @@
+Art. 20. O provimento do cargo de Juiz Federal Substituto far-se-á mediante concurso público, de provas e títulos realizado na sede da Seção onde ocorrer a vaga, ou, a critério do Conselho de Justiça Federal, em outra sede de Seção da mesma Região.
