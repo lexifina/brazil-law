@@ -3,4 +3,6 @@ I - praticar fraude com o objetivo de receber indevidamente valores a título de
 II - já tiver sido punida com a pena de suspensão temporária, total ou parcial, de funcionamento de estabelecimento ou instalação;
 III - reincidir nas infrações previstas nos incisos VIII e XI do art. 3º desta Lei;
 IV - descumprir a pena de suspensão temporária, total ou parcial, ou a pena de cancelamento de registro de estabelecimento ou instalação.
-Parágrafo único Aplicada a pena prevista neste artigo, os responsáveis pela pessoa jurídica ficarão impedidos, por cinco anos, de exercer atividade constante desta Lei.
+V - praticar, no exercício de atividade relacionada ao abastecimento nacional de combustíveis, infração da ordem econômica, reconhecida pelo Conselho Administrativo de Defesa Econômica - Cade ou por decisão judicial.
+§ 1º Aplicada a pena prevista neste artigo, os responsáveis pela pessoa jurídica ficarão impedidos, por cinco anos, de exercer atividade constante desta Lei.
+§ 2º Na hipótese do inciso V deste artigo, a revogação da autorização dar-se-á automaticamente na data de recebimento da notificação expedida pela autoridade competente.
