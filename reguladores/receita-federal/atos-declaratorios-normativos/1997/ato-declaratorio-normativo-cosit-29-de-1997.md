@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 29, de 23 de dezembro de 1997
+"Dispõe sobre a isenção do Imposto sobre Produtos Industrializados - IPI prevista no art. 7º do Decreto-lei Nº 1.455, de 7 de abril de 1976."
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o item II da Instrução Normativa SRF Nº 34, de 18 de setembro de 1974, e tendo em vista o que dispõem os arts. 144 da Lei Nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional -, 2º, inciso II da Lei Nº 4.502, de 30 de novembro de 1964, e 73, inciso I, alínea "f", da Medida Provisória Nº 1.602, de 14 de novembro de 1997, convertida na Lei Nº 9.532, de 10 de dezembro de 1997,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados, que a isenção do Imposto sobre Produtos Industrializados - IPI prevista no art. 7º do Decreto-lei Nº 1.455, de 7 de abril de 1976, só se aplica aos fatos geradores ocorridos até 16 de novembro de 1997.
+SANDRO MARTINS SILVA
