@@ -1,0 +1,2 @@
+Art. 4º As refinarias de petróleo, relativamente às vendas que fizerem, ficam obrigadas a cobrar e a recolher, na condição de contribuintes substitutos, as contribuições a que se refere o art. 2º, devidas pelos distribuidores e comerciantes varejistas de combustíveis derivados de petróleo, inclusive gás.
+Parágrafo único. Na hipótese deste artigo, a contribuição será calculada sobre o preço de venda da refinaria, multiplicado por quatro.
