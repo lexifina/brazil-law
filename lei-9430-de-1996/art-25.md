@@ -1,0 +1,3 @@
+Art. 25. O lucro presumido será o montante determinado pela soma das seguintes parcelas:
+I - o valor resultante da aplicação dos percentuais de que trata o art. 15 da Lei nº 9.249, de 26 de dezembro de 1995, sobre a receita bruta definida pela art. 31 da Lei nº 8.981, de 20 de janeiro de 1995, auferida no período de apuração de que trata o art. 1º desta Lei;
+II - os ganhos de capital, os rendimentos e ganhos líquidos auferidos em aplicações financeiras, as demais receitas e os resultados positivos decorrentes de receitas não abrangidas pela inciso anterior e demais valores determinados nesta Lei, auferidos naquele mesmo período.
