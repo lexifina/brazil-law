@@ -1,0 +1,1 @@
+Art. 30 - Os cosméticos, produtos de higiene pessoal de adultos e crianças, perfumes e congêneres poderão ter alteradas suas fórmulas de composição desde que as alterações sejam aprovadas pelo Ministério da Saúde, com base nos competentes laudos técnicos.

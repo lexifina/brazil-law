@@ -1,0 +1,1 @@
+Art. 53 - As empresas que exerçam as atividades previstas nesta Lei ficam obrigadas a manter responsáveis técnicos legalmente habilitados suficientes, qualitativa e quantitativamente, para a adequada cobertura das diversas espécies de produção, em cada estabelecimento.

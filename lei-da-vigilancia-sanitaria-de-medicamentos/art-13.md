@@ -1,0 +1,1 @@
+Art. 13 - Qualquer modificação de fórmula, alteração de elementos de composição ou de seus quantitativos, adição, subtração ou inovação introduzida na elaboração do produto, dependerá de autorização prévia e expressa do Ministério da Saúde e será desde logo averbada no registro.

@@ -1,0 +1,2 @@
+Art. 61. Quando se tratar de produtos que exijam condições especiais de armazenamento e guarda, os veículos utilizados no seu transporte deverão ser dotados de equipamento que possibilite acondicionamento e conservação capazes de assegurar as condições de pureza, segurança e eficácia do produto.
+Parágrafo Único. Os veículos utilizados no transporte de drogas, medicamentos, insumos farmacêuticos e correlatos, produtos dietéticos, de higiene, perfumes e similares deverão ter asseguradas as condições de desinfecção e higiene necessárias à preservação da saúde humana.
