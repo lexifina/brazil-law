@@ -1,0 +1,5 @@
+Art. 6º Os Municípios e o Distrito Federal, mediante lei, poderão atribuir de modo expresso a responsabilidade pelo crédito tributário a terceira pessoa, vinculada ao fato gerador da respectiva obrigação, excluindo a responsabilidade do contribuinte ou atribuindo-a a este em caráter supletivo do cumprimento total ou parcial da referida obrigação, inclusive no que se refere à multa e aos acréscimos legais.
+§ 1º Os responsáveis a que se refere este artigo estão obrigados ao recolhimento integral do imposto devido, multa e acréscimos legais, independentemente de ter sido efetuada sua retenção na fonte.
+§ 2º Sem prejuízo do disposto no caput e no § 1º deste artigo, são responsáveis:.
+I - o tomador ou intermediário de serviço proveniente do exterior do País ou cuja prestação se tenha iniciado no exterior do País;
+II - a pessoa jurídica, ainda que imune ou isenta, tomadora ou intermediária dos serviços descritos nos subitens 3.05, 7.02, 7.04, 7.05, 7.09, 7.10, 7.12, 7.14, 7.15, 7.16, 7.17, 7.19, 11.02, 17.05 e 17.10 da lista anexa.
