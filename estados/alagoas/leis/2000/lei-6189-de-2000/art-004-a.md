@@ -1,0 +1,1 @@
+Art. 4º - A fixação dos efetivos dos alunos dos Cursos de Formação de Bombeiros Militares, em seus diversos círculos, será regulada pelo Comandante Geral do Corpo de Bombeiros Militar do Estado de Alagoas, ouvido o Governador do Estado, de modo a atender às necessidades de preenchimento dos postos e graduações iniciais dos diversos quadros de Oficiais e Praças.
