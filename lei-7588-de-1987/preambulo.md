@@ -1,0 +1,2 @@
+Cria cargos, em comissão, de Assessor Legislativo, no Quadro Permanente de Pessoal da Câmara dos Deputados, e dá outras providências.
+Faço saber que o Congresso Nacional decretou, o Presidente da República, nos termos do § 2º do art. 59, da Constituição Federal, sancionou, e eu, JOSÉ FRAGELLI, Presidente do Senado Federal, nos termos do § 5º do art. 59 da Constituição Federal promulgo a seguinte lei:
