@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 141, de 28 de fevereiro de 2002
+Institui a Declaração de Dedução de Parcela da Contribuição de Intervenção no Domínio Econômico Incidente sobre a Importação e a Comercialização de Combustíveis das Contribuições para o PIS/Pasep e Cofins (DCide-Combustíveis), aprova o programa gerador e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere os incisos III e XVIII do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto na Lei nº 10.336, de 19 de dezembro de 2001, e na Instrução Normativa SRF nº 107, de 28 de dezembro de 2001, resolve:
