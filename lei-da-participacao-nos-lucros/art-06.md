@@ -1,0 +1,2 @@
+Art. 6º Fica autorizado, a partir de 9 de novembro de 1997, o trabalho aos domingos no comércio varejista em geral, observado o art. 30, inciso I, da Constituição.
+Parágrafo único. O repouso semanal remunerado deverá coincidir, pelo menos uma vez no período máximo de quatro semanas, com o domingo, respeitadas as demais normas de proteção ao trabalho e outras previstas em acordo ou convenção coletiva.
