@@ -1,0 +1,5 @@
+Instrução Normativa SRF nº 267, de 23 de dezembro de 2002
+Dispõe sobre os incentivos fiscais decorrentes do imposto sobre a renda das pessoas jurídicas.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições, e com base no que dispõem os Decretos-lei nº 756, 11 de outubro de 1969, nº 880, de 18 de setembro de 1969, nº 1.376, de 12 de dezembro de 1974, nº 1.564, de 29 de julho de 1977, nº 1.730, de 17 de dezembro de 1979, as Leis nº 4.239, de 27 de junho de 1963, nº 6.321, de 14 de abril de 1976, nº 6.542, de 28 de junho de 1978, nº 8.167, de 16 de janeiro de 1991, nº 8.242, de 12 de outubro de 1991, nº 8.313, de 23 de dezembro de 1991, nº 8.661, de 2 de junho de 1993, nº 8.685, de 20 de julho de 1993, nº 9.323, de 5 de dezembro de 1996, nº 9.532, de 10 de dezembro de 1997, nº 9.808, de 20 de julho se 1999, nº 9.874, de 23 de novembro de 1999, nº 10.454, de 13 de maio de 2002, as Medidas Provisórias nº 2.199-14, de 24 de agosto de 2001, nº 2.228-1, de 6 de setembro 2001, resolve:
+CAPÍTULO I
+Normas Gerais
