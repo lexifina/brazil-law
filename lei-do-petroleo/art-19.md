@@ -1,0 +1,1 @@
+Art. 19. As iniciativas de projetos de lei ou de alteração de normas administrativas que impliquem afetação de direito dos agentes econômicos ou de consumidores e usuários de bens e serviços da indústria do petróleo serão precedidas de audiência pública convocada e dirigida pela ANP.

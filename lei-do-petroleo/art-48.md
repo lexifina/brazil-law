@@ -1,0 +1,1 @@
+Art. 48. A parcela do valor do royalty, previsto no contrato de concessão, que representar cinco por cento da produção, correspondente ao montante mínimo referido no § 1º do artigo anterior, será distribuída segundo os critérios estipulados pela Lei nº 7.990, de 28 de dezembro de 1989.

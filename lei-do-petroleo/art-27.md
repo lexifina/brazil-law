@@ -1,0 +1,2 @@
+Art. 27. Quando se tratar de campos que se estendam por blocos vizinhos, onde atuem concessionários distintos, deverão eles celebrar acordo para a individualização da produção.
+Parágrafo único. Não chegando as partes a acordo, em prazo máximo fixado pela ANP, caberá a esta determinar, com base em laudo arbitral, como serão eqüitativamente apropriados os direitos e obrigações sobre os blocos, com base nos princípios gerais de Direito aplicáveis.

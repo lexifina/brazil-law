@@ -1,0 +1,1 @@
+Art. 5º As atividades econômicas de que trata o artigo anterior serão reguladas e fiscalizadas pela União e poderão ser exercidas, mediante concessão ou autorização, por empresas constituídas sob as leis brasileiras, com sede e administração no País.

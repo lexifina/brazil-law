@@ -1,0 +1,1 @@
+Art. 81. Não se incluem nas regras desta Lei os equipamentos e instalações destinados a execução de serviços locais de distribuição de gás canalizado, a que se refere o § 2º do art. 25 da Constituição Federal.

@@ -1,0 +1,2 @@
+Art. 57. No prazo de cento e oitenta dias, a partir da publicação desta Lei, a PETROBRÁS e as demais empresas proprietárias de equipamentos e instalações de transporte marítimo e dutoviário receberão da ANP as respectivas autorizações, ratificando sua titularidade e seus direitos.
+Parágrafo único. As autorizações referidas neste artigo observarão as normas de que trata o parágrafo único do artigo anterior, quanto à transferência da titularidade e à ampliação da capacidade das instalações.

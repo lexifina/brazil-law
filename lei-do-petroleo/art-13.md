@@ -1,0 +1,5 @@
+Art. 13. Está impedida de exercer cargo de Diretor na ANP a pessoa que mantenha, ou haja mantido nos doze meses anteriores à data de início do mandato, um dos seguintes vínculos com empresa que explore qualquer das atividades integrantes da indústria do petróleo ou de distribuição
+I - acionista ou sócio com participação individual direta superior a cinco por cento do capital social total ou dois por cento do capital votante da empresa ou, ainda, um por cento do capital total da respectiva empresa controladora;
+II - administrador, sócio-gerente ou membro do Conselho Fiscal;
+III - empregado, ainda que o respectivo contrato de trabalho esteja suspenso, inclusive da empresa controladora ou de entidade de previdência complementar custeada pelo empregador.
+Parágrafo único. Está também impedida de assumir cargo de Diretor na ANP a pessoa que exerça, ou haja exercido nos doze meses anteriores à data de início do mandato, cargo de direção em entidade sindical ou associação de classe, de âmbito nacional ou regional, representativa de interesses de empresas que explorem quaisquer das atividades integrantes da indústria do petróleo ou de distribuição.

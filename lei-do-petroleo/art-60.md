@@ -1,0 +1,2 @@
+Art. 60. Qualquer empresa ou consórcio de empresas que atender ao disposto no art. 5° poderá receber autorização da ANP para exercer a atividade de importação e exportação de petróleo e seus derivados, de gás natural e condensado.
+Parágrafo único. O exercício da atividade referida no caput deste artigo observará as diretrizes do CNPE, em particular as relacionadas com o cumprimento das disposições do art. 4° da Lei n° 8.176, de 8 de fevereiro de 1991, e obedecerá às demais normas legais e regulamentares pertinentes.

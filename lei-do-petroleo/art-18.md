@@ -1,0 +1,1 @@
+Art. 18. As sessões deliberativas da Diretoria da ANP que se destinem a resolver pendências entre agentes econômicos e entre estes e consumidores e usuários de bens e serviços da indústria do petróleo serão públicas, permitida a sua gravação por meios eletrônicos e assegurado aos interessados o direito de delas obter transcrições.

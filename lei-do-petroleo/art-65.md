@@ -1,0 +1,1 @@
+Art. 65. A PETROBRÁS deverá constituir uma subsidiária com atribuições específicas de operar e construir seus dutos, terminais marítimos e embarcações para transporte de petróleo, seus derivados e gás natural, ficando facultado a essa subsidiária associar-se, majoritária ou minoritariamente, a outras empresas.

@@ -1,0 +1,1 @@
+Art. 30. O contrato para exploração, desenvolvimento e produção de petróleo ou gás natural não se estende a nenhum outro recurso natural, ficando o concessionário obrigado a informar a sua descoberta, prontamente e em caráter exclusivo, à ANP.
