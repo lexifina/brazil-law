@@ -1,0 +1,2 @@
+Art. 5º A Fazenda Pública Federal e o Tribunal de Contas da União poderão realizar, em relação às declarações de que trata esta lei, troca de dados e informações que lhes possam favorecer o desempenho das respectivas atribuições legais.
+Parágrafo único. O dever do sigilo sobre informações de natureza fiscal e de riqueza de terceiros, imposto aos funcionários da Fazenda Pública, que cheguem ao seu conhecimento em razão do ofício, estende-se aos funcionários do Tribunal de Contas da União que, em cumprimento das disposições desta lei, encontrem-se em idêntica situação.
