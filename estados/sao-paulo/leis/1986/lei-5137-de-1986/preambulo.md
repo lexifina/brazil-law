@@ -1,0 +1,4 @@
+# LEI Nº 5.137, DE 28 DE MAIO DE 1986
+Declara de interesse turístico a "EXPOAM - Exposição e Feira Agropecuária e Industrial", que se realiza em Mococa, anualmente, no período de 6 a 14 de abril.
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
