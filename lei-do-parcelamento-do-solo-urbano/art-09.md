@@ -1,4 +1,4 @@
-Art. 9º. Orientado pelo traçado e diretrizes oficiais, quando houver, o projeto, contendo desenhos e memorial descritivo, será apresentado à Prefeitura Municipal, ou ao Distrito Federal quando for o caso, acompanhado do título de propriedade, certidão de ônus reais e certidão negativa de tributos municipais, todos relativos ao imóvel.
+Art. 9º Orientado pelo traçado e diretrizes oficiais, quando houver, o projeto, contendo desenhos, memorial descritivo e cronograma de execução das obras com duração máxima de quatro anos, será apresentado à Prefeitura Municipal, ou ao Distrito Federal, quando for o caso, acompanhado de certidão atualizada da matrícula da gleba, expedida pelo Cartório de Registro de Imóveis competente, de certidão negativa de tributos municipais e do competente instrumento de garantia, ressalvado o disposto no § 4º do art. 18.
 § 1º - Os desenhos conterão pelo menos:
 I - a subdivisão das quadras em lotes, com as respectivas dimensões e numeração;
 Il - o sistema de vias com a respectiva hierarquia;
@@ -11,3 +11,4 @@ I - a descrição sucinta do loteamento, com as suas características e a fixaç
 II - as condições urbanísticas do loteamento e as limitações que incidem sobre os lotes e suas construções, além daquelas constantes das diretrizes fixadas;
 III - a indicação das áreas públicas que passarão ao domínio do município no ato de registro do loteamento;
 IV - a enumeração dos equipamentos urbanos, comunitários e dos serviços públicos ou de utilidade pública, já existentes no loteamento e adjacências.
+§ 3º Caso se constate, a qualquer tempo, que a certidão da matrícula apresentada como atual não tem mais correspondência com os registros e averbações cartorárias do tempo da sua apresentação, além das conseqüências penais cabíveis, serão consideradas insubsistentes tanto as diretrizes expedidas anteriormente, quanto as aprovações conseqüentes.

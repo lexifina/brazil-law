@@ -1,4 +1,4 @@
-Art. 3º. Somente será admitido o parcelamento do solo para fins urbanos em zonas urbanas ou de expansão urbana, assim definidas por lei municipal.
+Art. 3º Somente será admitido o parcelamento do solo para fins urbanos em zonas urbanas, de expansão urbana ou de urbanização específica, assim definidas pelo plano diretor ou aprovadas por lei municipal.
 Parágrafo único - Não será permitido o parcelamento do solo:
 I - em terrenos alagadiços e sujeitos a inundações, antes de tomadas as providências para assegurar o escoamento das águas;
 Il - em terrenos que tenham sido aterrados com material nocivo à saúde pública, sem que sejam previamente saneados;
