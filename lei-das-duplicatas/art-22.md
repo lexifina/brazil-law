@@ -2,4 +2,4 @@ Art. 22. Equiparam-se às entidades constantes do art. 20, para os efeitos da pr
 § 1º Nos casos dêste artigo, o credor enviará ao devedor fatura ou conta que mencione a natureza e valor dos serviços prestados, data e local do pagamento e o vínculo contratual que deu origem aos serviços executados.
 § 2º Registrada a fatura ou conta no Cartório de Títulos e Documentos, será ela remetida ao devedor, com as cautelas constantes do artigo 6º.
 § 3º O não pagamento da fatura ou conta no prazo nela fixado autorizará o credor a levá-la a protesto, valendo, na ausência do original, certidão do cartório competente.
-§ 4º O instrumento do protesto, elaborado com as cautelas do art. 14, discriminando a fatura ou conta original ou a certidão do Cartório de Títulos e Documentos, autorizará o ajuizamento da competente ação executiva na forma prescrita nesta Lei.
+§ 4º - O instrumento do protesto, elaborado com as cautelas do art. 14, discriminando a fatura ou conta original ou a certidão do Cartório de Títulos e Documentos, autorizará o ajuizamento do competente processo de execução na forma prescrita nesta Lei.
