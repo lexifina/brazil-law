@@ -1,0 +1,1 @@
+Art. 9º Ficam mantidas as contribuições previstas na legislação em vigor, incidentes sobre a folha de salários e a de que trata o Decreto-Lei nº 1.940, de 25 de maio de 1982, e alterações posteriores, incidente sobre o faturamento das empresas, com fundamento no art. 195, I, da Constituição Federal.
