@@ -1,0 +1,2 @@
+Art. 3º A regularização dos imóveis de que trata esta Lei, junto aos órgãos municipais e aos Cartórios de Registro de Imóveis, será promovida pela SPU e pela Procuradoria-Geral da Fazenda Nacional - PGFN, com o concurso, sempre que necessário, da Caixa Econômica Federal - CEF.
+Parágrafo único. Os órgãos públicos federais, estaduais e municipais e os Cartórios de Registro de Imóveis darão preferência ao atendimento dos serviços de regularização de que trata este artigo.

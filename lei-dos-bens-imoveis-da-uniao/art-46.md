@@ -1,0 +1,1 @@
+Art. 46. O disposto nesta Lei não se aplica à alienação do domínio útil ou pleno dos terrenos interiores de domínio da União, situados em ilhas oceânicas e costeiras de que trata o inciso IV do art. 20 da Constituição Federal, onde existam sedes de municípios, que será disciplinada em lei específica, ressalvados os terrenos de uso especial que vierem a ser desafetados.

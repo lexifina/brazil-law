@@ -1,0 +1,1 @@
+Art. 36. Nas vendas de que trata esta Lei, quando realizadas mediante licitação, os adquirentes poderão, a critério da Administração, utilizar, para pagamento à vista do domínio útil ou pleno de imóveis de propriedade da União, créditos securitizados ou títulos da dívida pública de emissão do Tesouro Nacional.

@@ -1,0 +1,2 @@
+Art. 10. Constatada a existência de posses ou ocupações em desacordo com o disposto nesta Lei, a União deverá imitir-se sumariamente na posse do imóvel, cancelando-se as inscrições eventualmente realizadas.
+Parágrafo único. Até a efetiva desocupação, será devida à União indenização pela posse ou ocupação ilícita, correspondente a 10% (dez por cento) do valor atualizado do domínio pleno do terreno, por ano ou fração de ano em que a União tenha ficado privada da posse ou ocupação do imóvel, sem prejuízo das demais sanções cabíveis.

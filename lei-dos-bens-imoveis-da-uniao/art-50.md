@@ -1,0 +1,1 @@
+Art. 50. O Poder Executivo fará publicar no Diário Oficial da União, no prazo de noventa dias, contado da publicação desta Lei, texto consolidado do Decreto-Lei nº 9.760, de 1946, e legislação superveniente.
