@@ -1,0 +1,2 @@
+Dispõe sobre a isenção da multa prevista pelo artigo 8º da Lei nº 4.737, de 15 de julho de 1965, que institui o Código Eleitoral.
+Faço saber que o CONGRESSO NACIONAL decretou, O PRESIDENTE DA REPÚBLICA, nos termos do § 2º do artigo 59 da Constituição Federal, sancionou, e eu, José de Magalhães Pinto, PRESIDENTE do SENADO FEDERAL, nos termos o § 5º do artigo 59 da Constituição Federal, promulgo a seguinte Lei:
