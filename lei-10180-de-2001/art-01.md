@@ -1,0 +1,1 @@
+Art. 1º Serão organizadas sob a forma de sistemas as atividades de planejamento e de orçamento federal, de administração financeira federal, de contabilidade federal e de controle interno do Poder Executivo Federal.

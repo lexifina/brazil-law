@@ -1,0 +1,1 @@
+Art. 36. Os órgãos e as entidades de outras esferas de governo que receberem recursos financeiros do Governo Federal, para execução de obras, para a prestação de serviços ou a realização de quaisquer projetos, usarão dos meios adequados para informar à sociedade e aos usuários em geral a origem dos recursos utilizados.

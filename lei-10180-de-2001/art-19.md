@@ -1,0 +1,1 @@
+Art. 19. O Sistema de Controle Interno do Poder Executivo Federal visa à avaliação da ação governamental e da gestão dos administradores públicos federais, por intermédio da fiscalização contábil, financeira, orçamentária, operacional e patrimonial, e a apoiar o controle externo no exercício de sua missão institucional.

@@ -1,0 +1,11 @@
+Art. 31. Os incisos I, II, IV, V e VI do art. 1º e o inciso I do art. 30 da Lei nº 9.625, de 7 de abril de 1998, passam a vigorar com a seguinte redação:
+"Art. 1º.
+I - da carreira de Finanças e Controle, quando em exercício no Ministério da Fazenda ou nos órgãos e nas unidades integrantes dos Sistemas de Administração Financeira Federal, de Contabilidade Federal, de Controle Interno do Poder Executivo Federal e de Planejamento e Orçamento Federal;
+II - da Carreira de Planejamento e Orçamento e do cargo de Técnico de Planejamento P-1501 do Grupo TP-1500, quando em exercício no Ministério do Planejamento, Orçamento e Gestão ou nos órgãos e nas unidades dos Sistemas de Planejamento e Orçamento, de Administração Financeira Federal, de Contabilidade Federal e de Controle Interno do Poder Executivo Federal;
+IV - de Técnico de Planejamento e Pesquisa do Instituto de Pesquisa Econômica Aplicada - IPEA, quando em exercício no Ministério da Fazenda, no Ministério do Planejamento, Orçamento e Gestão, no IPEA ou nos órgãos e nas unidades dos Sistemas de Planejamento e Orçamento, de Administração Financeira Federal, de Contabilidade Federal ou de Controle Interno do Poder Executivo Federal;
+V - de nível superior do IPEA, não referidos no inciso anterior, quando em exercício no Ministério da Fazenda, no Ministério do Planejamento, Orçamento e Gestão, no IPEA ou nos órgãos e nas unidades dos Sistemas de Planejamento e Orçamento, de Administração Financeira Federal, de Contabilidade Federal ou de Controle Interno do Poder Executivo Federal, no desempenho de atividades de elaboração de planos e orçamentos públicos;
+VI - de nível intermediário do IPEA, quando nele em exercício ou no Ministério do Planejamento, Orçamento e Gestão, no desempenho de atividades de apoio direto à elaboração de planos e orçamentos públicos, em quantitativo fixado no ato a que se refere o § 3º do art. 2º desta Lei.
+....................................................................." (NR)
+"Art. 30.
+I - da carreira de Finanças e Controle, nos órgãos centrais dos Sistemas de Administração Financeira Federal, de Contabilidade Federal e de Controle Interno do Poder Executivo Federal;
+...................................................................." (NR)

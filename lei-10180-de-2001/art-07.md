@@ -1,0 +1,10 @@
+Art. 7º Compete às unidades responsáveis pelas atividades de planejamento:
+I - elaborar e supervisionar a execução de planos e programas nacionais e setoriais de desenvolvimento econômico e social;
+II - coordenar a elaboração dos projetos de lei do plano plurianual e o item, metas e prioridades da Administração Pública Federal, integrantes do projeto de lei de diretrizes orçamentárias, bem como de suas alterações, compatibilizando as propostas de todos os Poderes, órgãos e entidades integrantes da Administração Pública Federal com os objetivos governamentais e os recursos disponíveis;
+III - acompanhar física e financeiramente os planos e programas referidos nos incisos I e II deste artigo, bem como avaliá-los, quanto à eficácia e efetividade, com vistas a subsidiar o processo de alocação de recursos públicos, a política de gastos e a coordenação das ações do governo;
+IV - assegurar que as unidades administrativas responsáveis pela execução dos programas, projetos e atividades da Administração Pública Federal mantenham rotinas de acompanhamento e avaliação da sua programação;
+V - manter sistema de informações relacionados a indicadores econômicos e sociais, assim como mecanismos para desenvolver previsões e informação estratégica sobre tendências e mudanças no âmbito nacional e internacional;
+VI - identificar, analisar e avaliar os investimentos estratégicos do Governo, suas fontes de financiamento e sua articulação com os investimentos privados, bem como prestar o apoio gerencial e institucional à sua implementação;
+VII - realizar estudos e pesquisas sócio-econômicas e análises de políticas públicas;
+VIII - estabelecer políticas e diretrizes gerais para a atuação das empresas estatais.
+Parágrafo único. Consideram-se empresas estatais, para efeito do disposto no inciso VIII, as empresas públicas, as sociedades de economia mista, suas subsidiárias e controladas e demais empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto.

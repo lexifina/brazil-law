@@ -1,0 +1,1 @@
+Art. 10. O Sistema de Administração Financeira Federal compreende as atividades de programação financeira da União, de administração de direitos e haveres, garantias e obrigações de responsabilidade do Tesouro Nacional e de orientação técnico-normativa referente à execução orçamentária e financeira.

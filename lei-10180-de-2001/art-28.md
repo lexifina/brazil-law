@@ -1,0 +1,1 @@
+Art. 28. Aos dirigentes dos órgãos e das unidades do Sistema de Controle Interno do Poder Executivo Federal e dos órgãos do Sistema de Contabilidade Federal, no exercício de suas atribuições, é facultado impugnar, mediante representação ao responsável, quaisquer atos de gestão realizados sem a devida fundamentação legal.

@@ -1,0 +1,1 @@
+Art. 27. O Poder Executivo estabelecerá, em regulamento, a forma pela qual qualquer cidadão poderá ser informado sobre os dados oficiais do Governo Federal relativos à execução dos orçamentos da União.

@@ -1,0 +1,1 @@
+Art. 21. O Sistema de Controle Interno do Poder Executivo Federal compreende as atividades de avaliação do cumprimento das metas previstas no plano plurianual, da execução dos programas de governo e dos orçamentos da União e de avaliação da gestão dos administradores públicos federais, utilizando como instrumentos a auditoria e a fiscalização.
