@@ -1,0 +1,2 @@
+Dispõe sobre suspensão, em caráter excepcional e durante o ano de 1995, da prestação do serviço militar para fins de permitir o exercício temporário de atividade policial militar.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 859, de 1995, que o Congresso Nacional aprovou, e eu, JOSÉ SARNEY, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
