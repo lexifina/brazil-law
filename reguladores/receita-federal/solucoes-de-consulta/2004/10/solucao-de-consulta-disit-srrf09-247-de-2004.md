@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF09 nº 247, de 17 de setembro de 2004
+ASSUNTO: Regimes Aduaneiros EMENTA: A suspensão de tributos na aquisição de produtos no mercado interno pelas empresas industriais habilitadas no Regime Aduaneiro Especial de Entreposto Industrial sob Controle Informatizado - Recof alcança tão somente o IPI incidente sobre a operação. A habilitação em tal regime especial não afeta a forma de apuração e recolhimento das contribuições PIS/COFINS que têm como fato gerador o auferimento de receita bruta. DISPOSITIVOS LEGAIS: DL nº 37, de 1966, arts. 89 a 91; Lei nº 10.833, de 2003, art. 59; IN SRF nº 417, de 2004, arts. 28, 29, 30, §§ 1º e 4º do art. 34 e § 1º do art. 37.
+[arquivo anexo: SC SRRF09-Disit nº 247-2004.pdf]
