@@ -13,3 +13,4 @@ X - suspensão por partida;
 XI - suspensão por prazo.
 § 2º As penas disciplinares não serão aplicadas aos menores de quatorze anos.
 § 3º As penas pecuniárias não serão aplicadas a atletas não-profissionais.
+§ 4º Compete às entidades de administração do desporto promover o custeio do funcionamento dos órgãos da Justiça Desportiva que funcionem junto a si.

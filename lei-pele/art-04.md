@@ -1,5 +1,5 @@
 Art. 4º O Sistema Brasileiro do Desporto compreende:
-I - Gabinete do Ministro de Estado Extraordinário dos Esportes;
+I - o Ministério do Esporte e Turismo;
 II - o Instituto Nacional de Desenvolvimento do Desporto - INDESP;
 III - o Conselho de Desenvolvimento do Desporto Brasileiro - CDDB;
 IV - o sistema nacional do desporto e os sistemas de desporto dos Estados, do Distrito Federal e dos Municípios, organizados de forma autônoma e em regime de colaboração, integrados por vínculos de natureza técnica específicos de cada modalidade desportiva.
