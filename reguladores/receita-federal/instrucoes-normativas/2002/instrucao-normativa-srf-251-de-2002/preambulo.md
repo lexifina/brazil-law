@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 251, de 27 de novembro de 2002
+Altera os arts. 13, 15, 18 e 19 da Instrução Normativa SRF nº 200, de 13 de setembro de 2002.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto nos arts. 135 e 199 da Lei nº 5.172, de 25 de outubro de 1966, na Lei nº 5.614, de 5 de outubro de 1970, no art. 2º da Lei nº 8.137, de 27 de dezembro de 1990, no inciso II do art. 36 da Lei nº 9.250, de 26 de dezembro de 1995, Lei nº 10.522, de 19 de julho de 2002, no Convênio ICMS nº 8, de 22 de março de 1996, resolve:
