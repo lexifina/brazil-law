@@ -1,0 +1,1 @@
+Art. 20. O candidato, partido político ou coligação são parte legítima para denunciar os culpados e promover-lhes a responsabilidade; a nenhum servidor público, inclusive de autarquias, de entidade paraestatal e de sociedade de economia mista será lícito negar ou retardar ato de ofício tendente a esse fim, sob pena de crime funcional.

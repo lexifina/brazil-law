@@ -1,0 +1,2 @@
+Art. 13. Tratando-se de registro a ser julgado originariamente por Tribunal Regional Eleitoral, observado o disposto no art. 6° desta lei complementar, o pedido de registro, com ou sem impugnação, será julgado em 3 (três) dias, independentemente de publicação em pauta.
+Parágrafo único. Proceder-se-á ao julgamento na forma estabelecida no art. 11 desta lei complementar e, havendo recurso para o Tribunal Superior Eleitoral, observar-se-á o disposto no artigo anterior.
