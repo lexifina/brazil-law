@@ -1,0 +1,2 @@
+Excepciona o contrato celebrado entre o Banco Nacional de Desenvolvimento Econômico e Social e a Companhia Docas do Rio de Janeiro de exigências fixadas em lei, ou ato dela decorrente.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.566-6, de 1997, que o Congresso Nacional aprovou, e eu, Antonio Carlos Magalhães, Presidente, para os efeitos de disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
