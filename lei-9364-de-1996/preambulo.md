@@ -1,0 +1,2 @@
+Dispõe sobre o pagamento com sub-rogação, pela União, de dívidas da Rede Ferroviária Federal S.A. - RFFSA junto ao Instituto Nacional do Seguro Social - INSS e à Fundação Rede Seguridade Social - REFER, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.529, de 1996, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
