@@ -1,0 +1,3 @@
+Instrução Normativa DPRF nº 71, de 9 de setembro de 1991
+Consolida e atualiza a disciplina normativa para a instalação e o funcionamento de depósitos de loja franca, em Brasília.
+O DIRETOR DO DEPARTAMENTO DA RECEITA FEDERAL, no uso das suas atribuições, considerando o disposto nos arts. 7º, § 2º, e 34, da Portaria MEFP nº 866, de 6 de setembro de 1991, e tendo em vista as diretrizes estabelecidas pelo Decreto nº 99.179, de 15 de março de 1990, que instituiu o Programa Federal de Desregulamentação e considerando a conveniência de atualizar e consolidar as normas para a instalação e funcionamento de depósitos de loja franca, em Brasília, resolve:
