@@ -1,0 +1,2 @@
+Art. 2º O art. 16 da Lei nº 7.347, de 24 de julho de 1985, passa a vigorar com a seguinte redação:
+"Art. 16. A sentença civil fará coisa julgada erga omnes, nos limites da competência territorial do órgão prolator, exceto se o pedido for julgado improcedente por insuficiência de provas, hipótese em que qualquer legitimado poderá intentar outra ação com idêntico fundamento, valendo-se de nova prova."
