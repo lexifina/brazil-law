@@ -1,0 +1,2 @@
+Art. 7º Encerrado o prazo para alegações, os autos serão conclusos ao Juiz, ou ao Relator, no dia imediato, para sentença ou julgamento pelo Tribunal.
+Parágrafo único. O Juiz, ou Tribunal, formará sua convicção pela livre apreciação da prova, atendendo aos fatos e às circunstâncias constantes dos autos, ainda que não alegados pelas partes, mencionando, na decisão, os que motivaram seu convencimento.
