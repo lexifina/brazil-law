@@ -1,1 +1,0 @@
-Art. 29. (VETADO)

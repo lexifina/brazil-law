@@ -1,1 +1,0 @@
-Art. 30.(VETADO)

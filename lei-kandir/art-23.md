@@ -1,2 +1,0 @@
-Art. 23. O direito de crédito, para efeito de compensação com débito do imposto, reconhecido ao estabelecimento que tenha recebido as mercadorias ou para o qual tenham sido prestados os serviços, está condicionado à idoneidade da documentação e, se for o caso, à escrituração nos prazos e condições estabelecidos na legislação.
-Parágrafo único. O direito de utilizar o crédito extingue-se depois de decorridos cinco anos contados da data de emissão do documento.
