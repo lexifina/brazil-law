@@ -1,0 +1,1 @@
+Art. 22. Desde a data de registro do loteamento, passam a integrar o domínio do Município as vias e praças, os espaços livres e as áreas destinadas a edifícios públicos e outros equipamentos urbanos, constantes do projeto e do memorial descritivo.

@@ -1,0 +1,1 @@
+Art. 43. Ocorrendo a execução de loteamento não aprovado, a destinação de áreas públicas exigidas no inciso I do art. 4º desta Lei não se poderá alterar sem prejuízo da aplicação das sanções administrativas, civis e criminais previstas.
