@@ -1,0 +1,1 @@
+Art. 18. As testemunhas arroladas no processo deverão comparecer para prestar o seu depoimento, e a Mesa da Câmara dos Deputados ou do Senado por ordem de quem serão notificadas, tomará as providências legais que se tornarem necessárias legais que se tornarem necessárias para compelí-las a obediência.

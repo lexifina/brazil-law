@@ -1,0 +1,1 @@
+Art. 55. Se o Senado entender que não procede a acusação, serão os papeis arquivados. Caso decida o contrário, a Mesa dará imediato conhecimento dessa decisão ao Supremo Tribunal Federal, ao Presidente da República, ao denunciante e ao denunciado.

@@ -1,0 +1,2 @@
+Art. 76.A denúncia assinada pelo denunciante e com a firma reconhecida, deve ser acompanhada dos documentos que a comprovem, ou da declaração de impossibilidade de apresentá-los com a indicação do local em que possam ser encontrados. Nos crimes de que houver prova testemunhal, conterão rol das testemunhas, em número de cinco pelo menos.
+Parágrafo único. Não será recebida a denúncia depois que o Governador, por qualquer motivo, houver deixado definitivamente o cargo.
