@@ -1,0 +1,2 @@
+Altera as Leis nos 8.248, de 23 de outubro de 1991, 8.387, de 30 de dezembro de 1991, e 10.176, de 11 de janeiro de 2001, dispondo sobre a capacitação e competitividade do setor de tecnologia da informação, e dá outras providências.
+Faço saber que o Presidente da República adotou a Medida Provisória nº 100, de 2002, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda constitucional nº 32, de 2001, promulgo a seguinte Lei:
