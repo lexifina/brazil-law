@@ -1,0 +1,6 @@
+Ato Declaratório Interpretativo Coana nº 10, de 31 de julho de 2003
+Declara a aplicabilidade do regime aduaneiro especial de exportação e importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e de gás natural - REPETRO aos bens que menciona.
+O COORDENADOR-GERAL DE ADMINISTRAÇÃO ADUANEIRA declara:
+Artigo único. O regime aduaneiro especial de exportação e importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e de gás natural - REPETRO, instituído pelo Decreto n° 3.161, de 2 de setembro de 1999, com alterações introduzidas pelo Decreto n° 3.663, de 16 de novembro de 2000, aplica-se ao bem a seguir relacionado, por ser adequado à utilização direta nas atividades-fim para aplicação do regime, e por garantir a operacionalidade de pelo menos um dos bens constantes do anexo único à IN SRF n° 4, de 10 de janeiro de 2001, desde que não se enquadre na restrição prevista no inciso II do § 2° do art. 2° da referida Instrução Normativa.
+BEM NCM Microprocessador eletrônico, sem dispositivos próprios de entrada e saída, próprio para utilização em equipamentos de perfilagem de poços de petróleo ou de gás natural 9015.90.90
+[arquivo anexo: 5629.html]
