@@ -1,0 +1,1 @@
+Art. 5º A remoção post mortem de tecidos, órgãos ou partes do corpo de pessoa juridicamente incapaz poderá ser feita desde que permitida expressamente por ambos os pais, ou por seus responsáveis legais.

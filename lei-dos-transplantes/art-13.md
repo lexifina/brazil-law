@@ -1,0 +1,1 @@
+Art. 13. É obrigatório, para todos os estabelecimentos de saúde notificar, às centrais de notificação, captação e distribuição de órgãos da unidade federada onde ocorrer, o diagnóstico de morte encefálica feito em pacientes por eles atendidos.

@@ -1,0 +1,3 @@
+Art. 22. As instituições que deixarem de manter em arquivo relatórios dos transplantes realizados, conforme o disposto no art. 3.º § 1º, ou que não enviarem os relatórios mencionados no art. 3.º, § 2º ao órgão de gestão estadual do Sistema único de Saúde, estão sujeitas a multa, de 100 a 200 dias-multa.
+§ 1º Incorre na mesma pena o estabelecimento de saúde que deixar de fazer as notificações previstas no art. 13.
+§ 2º Em caso de reincidência, além de multa, o órgão de gestão estadual do Sistema Único de Saúde poderá determinar a desautorização temporária ou permanente da instituição.
