@@ -1,0 +1,3 @@
+Art. 26. A destinação de recursos para, direta ou indiretamente, cobrir necessidades de pessoas físicas ou déficits de pessoas jurídicas deverá ser autorizada por lei específica, atender às condições estabelecidas na lei de diretrizes orçamentárias e estar prevista no orçamento ou em seus créditos adicionais.
+§ 1º O disposto no caput aplica-se a toda a administração indireta, inclusive fundações públicas e empresas estatais, exceto, no exercício de suas atribuições precípuas, as instituições financeiras e o Banco Central do Brasil.
+§ 2º Compreende-se incluída a concessão de empréstimos, financiamentos e refinanciamentos, inclusive as respectivas prorrogações e a composição de dívidas, a concessão de subvenções e a participação em constituição ou aumento de capital.
