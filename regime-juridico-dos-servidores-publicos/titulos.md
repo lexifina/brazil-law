@@ -54,6 +54,8 @@ Subseção III
 Da Indenização de Transporte
 Seção II
 Das Gratificações e Adicionais
+Subseção I
+Da Retribuição pelo Exercício de Função de Direção, Chefia e Assessoramento
 Subseção II
 Da Gratificação Natalina
 Subseção III
@@ -81,7 +83,7 @@ Da Licença para o Serviço Militar
 Seção V
 Da Licença para Atividade Política
 Seção VI
-Da Licença-Prêmio por Assiduidade
+Da Licença para Capacitação
 Seção VII
 Da Licença para Tratar de Interesses Particulares
 Seção VIII
