@@ -1,0 +1,1 @@
+Art. 10. Caso o juiz, considerado o ganho ilícito e a situação econômica do réu, verifique a insuficiência ou excessiva onerosidade das penas pecuniárias previstas nesta lei, poderá diminuí-las até a décima parte ou elevá-las ao décuplo.
