@@ -1,0 +1,8 @@
+# Lei nº 1.103, de 20 de agosto de 1954, do Estado de Minas Gerais
+
+AUTORIZA A DESAPROPRIAÇÃO DA "FAZENDA GUARANI", NO DISTRITO DE
+CARMÉSIA, MUNICÍPIO DE DOM JOAQUIM, PARA A INSTALAÇÃO DE SERVIÇOS DA
+POLÍCIA MILITAR, E ABRE À SECRETARIA DO INTERIOR O CRÉDITO ESPECIAL DE
+CR$2.673.000,00 A FIM DE OCORRER AO RESPECTIVO PAGAMENTO.
+
+Fonte: ALMG, Legislação Mineira (Dados Abertos), <https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/1103/1954?formato=json>
