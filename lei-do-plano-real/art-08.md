@@ -1,6 +1,6 @@
 Art. 8º O Conselho Monetário Nacional, criado pela Lei nº 4.595, de 31 de dezembro de 1964, passa a ser integrado pelos seguintes membros:
 I - Ministro de Estado da Fazenda, na qualidade de Presidente;
-II - Ministro de Estado do Planejamento e Orçamento;
+II - Ministro de Estado do Planejamento, Orçamento e Gestão;
 III - Presidente do Banco Central do Brasil.
 § 1º O Conselho deliberará mediante resoluções, por maioria de votos, cabendo ao Presidente a prerrogativa de deliberar, nos casos de urgência e relevante interesse, ad referendum dos demais membros.
 § 2º Quando deliberar ad referendum do Conselho, o Presidente submeterá a decisão ao colegiado na primeira reunião que se seguir àquela deliberação.
