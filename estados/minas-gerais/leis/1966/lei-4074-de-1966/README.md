@@ -1,0 +1,8 @@
+# Lei nº 4.074, de 11 de janeiro de 1966, do Estado de Minas Gerais
+
+ESTENDE BENEFÍCIOS AOS ATUAIS FUNCIONÁRIOS CIVIS DO ESTADO DE MINAS
+GERAIS QUE NO PERÍODO DA ÚLTIMA GUERRA MUNDIAL ESTIVERAM INCORPORADOS À
+POLÍCIA MILITAR, NA OCASIÃO FORÇA POLICIAL MILITAR DO ESTADO DE MINAS
+GERAIS E DÁ OUTRAS PROVIDÊNCIAS.
+
+Fonte: ALMG, Legislação Mineira (Dados Abertos), <https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/4074/1966?formato=json>
