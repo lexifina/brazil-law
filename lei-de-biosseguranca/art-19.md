@@ -1,0 +1,3 @@
+Art. 19. Fica criado, no âmbito do Ministério da Ciência e Tecnologia, o Sistema de Informações em Biossegurança - SIB, destinado à gestão das informações decorrentes das atividades de análise, autorização, registro, monitoramento e acompanhamento das atividades que envolvam OGM e seus derivados.
+§ 1º As disposições dos atos legais, regulamentares e administrativos que alterem, complementem ou produzam efeitos sobre a legislação de biossegurança de OGM e seus derivados deverão ser divulgadas no SIB concomitantemente com a entrada em vigor desses atos.
+§ 2º Os órgãos e entidades de registro e fiscalização, referidos no art. 16 desta Lei, deverão alimentar o SIB com as informações relativas às atividades de que trata esta Lei, processadas no âmbito de sua competência.

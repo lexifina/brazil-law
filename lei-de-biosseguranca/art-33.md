@@ -1,0 +1,1 @@
+Art. 33. As instituições que desenvolverem atividades reguladas por esta Lei na data de sua publicação deverão adequar-se as suas disposições no prazo de 120 (cento e vinte) dias, contado da publicação do decreto que a regulamentar.
