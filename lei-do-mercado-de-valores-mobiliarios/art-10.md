@@ -1,0 +1,1 @@
+Art. 10. A Comissão de Valores Mobiliários poderá celebrar convênios para a execução dos serviços de sua competência em qualquer parte do território nacional, observadas as normas da legislação em vigor.
