@@ -1,0 +1,1 @@
+Art. 64. Para o estrito cumprimento de atividades de seu objeto social que integrem a indústria do petróleo, fica a PETROBRÁS autorizada a constituir subsidiárias, as quais poderão associar-se, majoritária ou minoritariamente, a outras empresas.

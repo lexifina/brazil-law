@@ -1,0 +1,1 @@
+Art. 59. Os dutos de transferência serão reclassificados pela ANP como dutos de transporte, caso haja comprovado interesse de terceiros em sua utilização, observadas as disposições aplicáveis deste Capítulo.
