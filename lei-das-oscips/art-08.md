@@ -1,0 +1,1 @@
+Art. 8º Vedado o anonimato, e desde que amparado por fundadas evidências de erro ou fraude, qualquer cidadão, respeitadas as prerrogativas do Ministério Público, é parte legítima para requerer, judicial ou administrativamente, a perda da qualificação instituída por esta Lei.

@@ -1,0 +1,1 @@
+Art. 9º Fica instituído o Termo de Parceria, assim considerado o instrumento passível de ser firmado entre o Poder Público e as entidades qualificadas como Organizações da Sociedade Civil de Interesse Público destinado à formação de vínculo de cooperação entre as partes, para o fomento e a execução das atividades de interesse público previstas no art. 3º desta Lei.
