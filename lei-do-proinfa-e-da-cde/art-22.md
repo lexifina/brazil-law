@@ -1,0 +1,5 @@
+Art. 22. O art. 15 da Lei no 3.890-A, de 25 de abril de 1961, com a redação dada pelo art. 16 da Lei nº 9.648, de 27 de maio de 1998, passa a vigorar com a seguinte redação:
+"Art. 15.
+§ 1º A Eletrobrás, diretamente ou por meio de suas subsidiárias ou controladas, poderá associar-se, com aporte de recursos, para constituição de consórcios empresariais ou participação em sociedades, sem poder de controle, que se destinem à exploração da produção ou transmissão de energia elétrica sob regime de concessão ou autorização.
+§ 2º A aquisição de bens e a contratação de serviços pela Eletrobrás e suas controladas Chesf, Furnas, Eletronorte, Eletrosul e Eletronuclear, poderá se dar nas modalidades de consulta e pregão, observado, no que for aplicável, o disposto nos arts. 55 a 58 da Lei nº 9.472, de 16 de julho de 1997, e nos termos de regulamento próprio.
+§ 3º O disposto no § 2º não se aplica às contratações referentes a obras e serviços de engenharia, cujos procedimentos deverão observar as normas gerais de licitação e contratação para a Administração Pública." (NR)

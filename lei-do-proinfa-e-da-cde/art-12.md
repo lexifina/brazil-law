@@ -1,0 +1,1 @@
+Art. 12. O BNDES poderá recomprar da União, a qualquer tempo, os créditos referidos no parágrafo único do art. 11, admitindo-se a dação em pagamento de bens e direitos de sua propriedade, a critério do Ministro de Estado da Fazenda.
