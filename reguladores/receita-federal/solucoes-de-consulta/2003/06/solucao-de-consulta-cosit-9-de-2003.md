@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 9, de 30 de maio de 2003
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+EMENTA: Para efeito de determinação do preço de transferência, é vedada a aplicação do Método do Preço de Revenda menos Lucro (PRL), com margem de lucro de vinte por cento, às operações que se enquadram no conceito de produção de outro bem, assim entendidas aquelas em que haja alteração de bem importado, que envolva transformação ou agregação de seu valor, para posterior comercialização no mercado nacional. Em tais operações, é admitido o uso de qualquer dos seguintes métodos : Preço de Revenda menos Lucro (PRL) - com margem de lucro de sessenta por cento -; Custo de Produção mais Lucro (CPL); Preços Independentes Comparados (PIC).
+DISPOSITIVOS LEGAIS: Lei nº 9.430, de 27 de dezembro de 1996, arts. 18 a 24; Instrução Normativa SRF nº 243, de 11 de novembro de 2002 , art. 4º, § 1º e art. 12, § 9º, Decreto nº 4.544, de 26 de dezembro de 2002, art.4º.
+[arquivo anexo: SC Cosit nº 9-2003.pdf]
