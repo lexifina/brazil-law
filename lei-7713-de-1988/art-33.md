@@ -1,0 +1,2 @@
+Art. 33. Ressalvado o disposto em normas especiais, no caso de ganho de capital auferido por residente ou domiciliado no exterior, o imposto será devido, à alíquota de vinte e cinco por cento, no momento da alienação do bem ou direito.
+Parágrafo único. O imposto deverá ser pago no prazo de quinze dias contados da realização da operação ou por ocasião da remessa, sempre que esta ocorrer antes desse prazo.
