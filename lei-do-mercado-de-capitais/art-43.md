@@ -1,0 +1,1 @@
+Art. 43. O impôsto do sêlo não incide nos negócios de transferência, promessa de transferência, opção, ou constituição de direitos sôbre ações, obrigações endossáveis, quotas de fundos em condomínios, e respectivos contratos, inscrições ou averbações.

@@ -1,0 +1,3 @@
+Art. 73. Ninguém poderá fazer, imprimir ou fabricar ações de sociedades anônimas, ou cautelas que as representem, sem autorização escrita e assinada pela respectiva representação legal da sociedade, com firmas reconhecidas.
+§ 1º Ninguém poderá fazer, imprimir ou fabricar prospectos ou qualquer material de propaganda para venda de ações de sociedade anônima, sem autorização dada pela respectiva representação legal da sociedade.
+§ 2º A violação de qualquer dos dispositivos constituirá crime de ação pública, punido com pena de 1 a 3 anos de detenção, recaindo a responsabilidade, quando se tratar de pessoa jurídica, em todos os seus diretores.

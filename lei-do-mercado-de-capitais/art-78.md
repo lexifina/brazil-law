@@ -1,0 +1,2 @@
+Art. 78. A alínea i do art. 20 do Decreto-lei n. 2.627, de 26 de setembro de 1940, passa a vigorar com a seguinte redação:
+"i) as assinaturas de 2 (dois) diretores, se a emprêsa possuir mais de 1 (um), ou as de dois procuradores com poderes especiais, cujos mandatos devem ser prèviamente registrados na Bôlsa de Valôres em que a sociedade seja inscrita, juntamente com os respectivos fac similes de assinaturas".

@@ -1,0 +1,7 @@
+Art. 4º No exercício de suas atribuições, o Banco Central poderá examinar os livros e documentos das instituições financeiras, sociedades, emprêsas e pessoas referidas no artigo anterior, as quais serão obrigadas a prestar as informações e os esclarecimentos solicitados pelo Banco Central.
+§ 1º Nenhuma sanção será imposta pelo Banco Central, sem antes ter assinado prazo, não inferior a 30 (trinta) dias, ao interessado, para se manifestar, ressalvado o disposto no § 3º do art. 16 desta Lei.
+§ 2º Quando, no exercício das suas atribuições, o Banco Central tomar conhecimento de crime definido em lei como de ação pública, oficiará ao Ministério Público para a instalação de inquérito policial.
+§ 3º Os pedidos de registro submetidos ao Banco Central, nos têrmos dos arts. 19 e 20 desta Lei, consideram-se deferidos dentro de 30 (trinta) dias da sua apresentação, se nesse prazo não forem indeferidos.
+§ 4º A fluência do prazo referido no parágrafo anterior poderá ser interrompida uma única vez, se o Banco Central pedir informações ou documentos suplementares, em cumprimento das normas legais ou regulamentares em vigor.
+§ 5º Ressalvado o disposto no § 3º, o Conselho Monetário Nacional fixará os prazos em que o Banco Central deverá processar os pedidos de autorização, registro ou aprovação previstos nesta Lei.
+§ 6º O Banco Central fará aplicar aos infratores do disposto na presente lei as penalidades previstas no capítulo V da Lei n. 4.595, de 31 de dezembro de 1964.

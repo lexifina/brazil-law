@@ -1,0 +1,1 @@
+Art. 79. O art. 21 do Decreto-lei n. 2.627, de 26 de setembro de 1940, é acrescido do seguinte parágrafo: "Parágrafo único. Nenhuma ação ou título que a represente poderá ostentar valor nominal inferior a Cr$1.000 (um mil cruzeiros)".

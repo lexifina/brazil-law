@@ -1,0 +1,1 @@
+Art. 76. O Conselho Monetário Nacional, quando entender aconselhável, em face de situação conjuntural da economia, poderá autorizar as companhias de seguro a aplicarem, em percentagens por êle fixadas, parte de suas reservas técnicas em letras de câmbio, ações de sociedades anônimas de capital aberto, e em quotas de fundos em condomínio de títulos ou valôres mobiliários.

@@ -1,0 +1,2 @@
+Art. 35. Os direitos constituídos sôbre ações endossáveis sòmente produzem efeitos perante a sociedade emitente e terceiros, depois de anotada a sua constituição no livro de registro.
+Parágrafo único. As ações endossáveis poderão, entretanto, ser dadas em penhor ou caução mediante endôsso com a expressa indicação dessa finalidade e, a requerimento de credor pignoratício ou do proprietário da ação, a sociedade emitente averbará o penhor no "Livro de Registro".

@@ -1,0 +1,4 @@
+Art. 36. A sociedade emitente fiscalizará, por ocasião da averbação ou emissão do novo certificado, a regularidade das transferências e dos direitos constituídos sôbre a ação.
+§ 1º As dúvidas suscitadas entre a sociedade emitente e o titular da ação ou qualquer interessado, a respeito das emissões ou averbações previstas nos artigos anteriores, serão dirimidas pelo juiz competente para solucionar as dúvidas levantadas pelos oficiais dos registros públicos, excetuadas as questões atinentes à substância do direito.
+§ 2º A autenticidade do endôsso não poderá ser posta em dúvida pela sociedade emitente da ação, quando atestada por sociedade corretora membro de Bôlsa de Valôres, reconhecida por cartório de ofício de notas, ou abonada por estabelecimento bancário.
+§ 3º Nas transferências feitas por procurador ou representante legal do cedente, a sociedade emitente fiscalizará a regularidade da representação e arquivará o respectivo instrumento.

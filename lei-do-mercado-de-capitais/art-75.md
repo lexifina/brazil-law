@@ -1,0 +1,4 @@
+Art. 75. O contrato de câmbio, desde que protestado por oficial competente para o protesto de títulos, constitui instrumento bastante para requerer a ação executiva.
+§ 1º Por esta via, o credor haverá a diferença entre a taxa de câmbio do contrato e a da data em que se efetuar o pagamento, conforme cotação fornecida pelo Banco Central, acrescida dos juros de mora.
+§ 2º Pelo mesmo rito, serão processadas as ações para cobrança dos adiantamentos feitos pelas instituições financeiras aos exportadores, por conta do valor do contrato de câmbio, desde que as importâncias correspondentes estejam averbadas no contrato, com anuência do vendedor.
+§ 3º No caso de falência ou concordata, o credor poderá pedir a restituição das importâncias adiantadas, a que se refere o parágrafo anterior.

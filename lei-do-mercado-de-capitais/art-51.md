@@ -1,0 +1,1 @@
+Art. 51. Os bancos e casas bancárias que devolvem aos seus depositantes os cheques por êstes sacados, depois de liquidados, poderão fazer prova da movimentação das respectivas contas de depósito mediante cópia fotográfica ou microfotográfica dos cheques devolvidos, desde que mantenham êsse serviço de acôrdo com as normas de segurança aprovadas pelo Banco Central.

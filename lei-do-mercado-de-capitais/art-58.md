@@ -1,0 +1,1 @@
+Art. 58. Na emissão de ações com ágio pelas companhias de capital subscrito ou autorizado, as importâncias recebidas dos subscritores, além do valor nominal das ações constituem capital excedente; não serão tributadas como rendimento da pessoa jurídica.

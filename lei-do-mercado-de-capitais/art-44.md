@@ -1,0 +1,12 @@
+Art. 44. As sociedades anônimas poderão emitir debêntures ou obrigações, assegurando aos respectivos titulares o direito de convertê-las em ações do capital da sociedade emissora.
+§ 1º Constarão obrigatòriamente da ata da assembléia-geral, que terá fôrça de escritura autorizando a emissão de debêntures ou obrigações ao portador, as condições para conversão em ações relativas a:
+a) prazo ou épocas para exercício do direito à conversão;
+b) bases da conversão, com relação ao número de ações a serem emitidas por debêntures ou obrigações endossáveis ou entre o valor do principal das debêntures e das ações em que forem convertidas.
+§ 2º As condições de conversão deverão constar também dos certificados ou cautelas das debêntures.
+§ 3º As condições da emissão de debêntures ou obrigações conversíveis em ações deverão ser aprovadas pela assembléia de acionistas, observado o quorum previsto nos arts. 94 e 104 do Decreto-lei n. 2.627, de 26 de setembro de 1940.
+§ 4º A conversão de debêntures ou obrigações em ações, nas condições da emissão aprovada pela assembléia geral independerá de nova assembléia de acionistas e será efetivada pela Diretoria da sociedade, à vista da quitação da obrigação o pedido escrito do seu titular, no caso de obrigações endossáveis ou mediante tradição do certificado da debênture, no caso de obrigação ao portador.
+§ 5º Dentro de 30 (trinta) dias de cada aumento de capital efetuado nos têrmos do parágrafo anterior a Diretoria da sociedade o registrará mediante requerimento ao registro do Comércio.
+§ 6º Os acionistas da sociedade por ações do capital subscrito terão preferência para aquisição das debêntures e obrigações conversíveis em ações, nos têrmos do art. 111, do Decreto-lei n. 2.627, de 26 de setembro de 1940.
+§ 7º Nas sociedades anônimas de capital autorizado, a preferência dos acionistas à aquisição das debêntures e das obrigações conversíveis em ação obedecerá às mesmas normas de preferência para subscrição das emissões de capital autorizado.
+§ 8º O direito à subscrição de capital poderá ser negociado ou transferido separadamente da debênture conversível em ação, desde que seja objeto de cupão destacável ou sua transferência seja averbada pela sociedade emissora, no próprio título e no livro de registro, se fôr o caso.
+§ 9º o impôsto do sêlo não incide na conversão de debêntures ou obrigações em ações e, assim, no aumento do capital pela incorporação dos respectivos valôres.
