@@ -1,0 +1,49 @@
+DECISÃO
+COMPETÊNCIA - CRIME AMBIENTAL - LEI Nº 9.605/98 -
+   JUSTIÇA COMUM - PRECEDENTES.
+1.      O tema em discussão no recurso
+   extraordinário já foi objeto de exame por ambas as Turmas desta
+   Corte. Concluiu-se que a competência para julgar o crime
+   ambiental previsto no artigo 46, parágrafo único, da Lei nº
+   9.605/98 é da Justiça comum, porquanto o interesse da União seria
+   apenas genérico ou indireto. É o que se depreende da leitura das
+   ementas do Habeas Corpus nº 81.916-8, relatado pelo ministro
+   Gilmar Mendes no âmbito da Segunda Turma, e do Recurso
+   Extraordinário nº 349.191-1, relatado pelo ministro Ilmar Galvão
+   na Primeira Turma:
+        (1) Habeas Corpus. Crime previsto no
+   art. 46, parágrafo único, da Lei nº 9.605, de 1998 (Lei de Crimes
+   Ambientais). Competência da Justiça Comum (2) Denúncia oferecida
+   pelo Ministério Público Federal perante a Justiça Federal com
+   base em auto de infração expedido pelo IBAMA. (3) A atividade de
+   fiscalização ambiental exercida pelo IBAMA, ainda que relativa ao
+   cumprimento do art. 46 da Lei de Crimes Ambientais, configura
+   interesse genérico, mediato ou indireto da União , para os fins
+   do art. 109, IV, da Constituição. (4) A presença de interesse
+   direto e específico da União, de suas entidades autárquicas e
+   empresas públicas - o que não se verifica, no caso -, constitui
+   pressuposto para que ocorra a competência da Justiça Federal
+   prevista no art. 109, IV, da Constituição. (5) Habeas Corpus
+   conhecido e provido.
+        COMPETÊNCIA. CRIME AMBIENTAL. ARTIGO 50
+   DA LEI N.º 9.605/98. DESTRUIR OU DANIFICAR VEGETAÇÃO DE CERRADO
+   SEM AUTORIZAÇÃO DO IBAMA, AUTARQUIA FEDERAL. DELITO OCORRIDO EM
+   PROPRIEDADE PRIVADA. JUSTIÇA COMUM ESTADUAL. Hipótese em que não
+   se configura a competência da Justiça Federal para o processo e
+   julgamento do feito, nos termos do art. 109, inciso IV, da Carta
+   Magna, porque o interesse da União, no caso, se manifesta de
+   forma genérica ou indireta. Precedentes. Recurso extraordinário
+   não conhecido.
+2.              Ante o quadro, constata-se que a atuação
+   do Ibama, voltada à preservação do meio ambiente, não é de molde
+   a firmar a competência da Justiça Federal, mesmo porque a Lei nº
+   9.605/98 versa sobre a aplicação da relativa aos juizados
+   especiais comuns - Lei nº 9.099/95. Confira-se o texto do artigo
+   28.
+3.              Nego seguimento a este
+   extraordinário.
+4.              Publique-se.
+Brasília, 14 de fevereiro
+   de 2005.
+Ministro MARCO AURÉLIO
+Relator
