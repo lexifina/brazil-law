@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 35, de 23 de março de 2000
+Estabelece normas relativas ao Imposto sobre Produtos Industrializados no que tange ao aproveitamento do crédito do IPI relativo aos produtos mantidos em estoque, quando o estabelecimento torna-se contribuinte em virtude da sistemática de tributação prevista na Lei No 7.798, de 10 de junho de 1989.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da competência conferida pelo art. 190, inciso III, do Regimento Interno da SRF, aprovado pela Portaria 227, de 03 de setembro de 1998, e considerando o disposto no art. 148 do Decreto No 2.637, de 25, de junho de 1998, resolve:
