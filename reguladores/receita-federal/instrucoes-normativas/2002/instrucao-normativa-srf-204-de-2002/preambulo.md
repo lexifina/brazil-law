@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 204, de 25 de setembro de 2002
+Dispõe sobre o pagamento de débitos tributários federais pelas entidades referidas no art. 5º da Medida Provisória nº 2.222, de 4 de setembro de 2002.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 5º da Medida Provisória nº 2.222, de 4 de setembro de 2001, no art. 2º da Lei nº 10.431, de 24 de abril de 2002, e nos arts. 22 e 24 da Medida Provisória nº 66, de 29 de agosto de 2002, resolve:
