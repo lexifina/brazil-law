@@ -1,0 +1,3 @@
+Art. 11. Concedida a medida cautelar, o Supremo Tribunal Federal fará publicar em seção especial do Diário Oficial da União e do Diário da Justiça da União a parte dispositiva da decisão, no prazo de dez dias, devendo solicitar as informações à autoridade da qual tiver emanado o ato, observando-se, no que couber, o procedimento estabelecido na Seção I deste Capítulo.
+§ 1º A medida cautelar, dotada de eficácia contra todos, será concedida com efeito ex nunc, salvo se o Tribunal entender que deva conceder-lhe eficácia retroativa.
+§ 2º A concessão da medida cautelar torna aplicável a legislação anterior acaso existente, salvo expressa manifestação em sentido contrário.

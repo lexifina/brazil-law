@@ -1,0 +1,4 @@
+Art. 9º Vencidos os prazos do artigo anterior, o relator lançará o relatório, com cópia a todos os Ministros, e pedirá dia para julgamento.
+§ 1º Em caso de necessidade de esclarecimento de matéria ou circunstância de fato ou de notória insuficiência das informações existentes nos autos, poderá o relator requisitar informações adicionais, designar perito ou comissão de peritos para que emita parecer sobre a questão, ou fixar data para, em audiência pública, ouvir depoimentos de pessoas com experiência e autoridade na matéria.
+§ 2º O relator poderá, ainda, solicitar informações aos Tribunais Superiores, aos Tribunais federais e aos Tribunais estaduais acerca da aplicação da norma impugnada no âmbito de sua jurisdição.
+§ 3º As informações, perícias e audiências a que se referem os parágrafos anteriores serão realizadas no prazo de trinta dias, contado da solicitação do relator.
