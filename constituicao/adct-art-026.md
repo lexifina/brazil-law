@@ -1,0 +1,3 @@
+Art. 26. No prazo de um ano a contar da promulgação da Constituição, o Congresso Nacional promoverá, através de Comissão mista, exame analítico e pericial dos atos e fatos geradores do endividamento externo brasileiro.
+§ 1º A Comissão terá a força legal de Comissão parlamentar de inquérito para os fins de requisição e convocação, e atuará com o auxílio do Tribunal de Contas da União.
+§ 2º Apurada irregularidade, o Congresso Nacional proporá ao Poder Executivo a declaração de nulidade do ato e encaminhará o processo ao Ministério Público Federal, que formalizará, no prazo de sessenta dias, a ação cabível.

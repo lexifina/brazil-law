@@ -1,0 +1,2 @@
+Art. 28. Os juízes federais de que trata o art. 123, § 2º, da Constituição de 1967, com a redação dada pela Emenda Constitucional nº 7, de 1977, ficam investidos na titularidade de varas na Seção Judiciária para a qual tenham sido nomeados ou designados; na inexistência de vagas, proceder-se-á ao desdobramento das varas existentes.
+Parágrafo único. Para efeito de promoção por antigüidade, o tempo de serviço desses juízes será computado a partir do dia de sua posse.
