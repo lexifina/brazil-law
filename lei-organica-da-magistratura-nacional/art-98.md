@@ -1,0 +1,1 @@
+Art. 98 - Quando o regular exercício das funções do Poder Judiciário for impedido por falta de recursos decorrente de injustificada redução de sua proposta orçamentária, ou pela não-satisfação oportuna das dotações que lhe correspondam, caberá ao Tribunal de Justiça, pela maioria absoluta de seus membros, solicitar ao Supremo Tribunal Federal a intervenção da União no Estado.

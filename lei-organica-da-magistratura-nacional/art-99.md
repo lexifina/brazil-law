@@ -1,0 +1,3 @@
+Art. 99 - Compõem o órgão especial a que se refere o parágrafo único do art. 16 o Presidente, o Vice-Presidente do Tribunal de Justiça e o Corregedor da Justiça, que exercerão nele iguais funções, os Desembargadores de maior antigüidade no cargo, respeitada a representação de advogados e membros do Ministério Público, e inadmitida a recusa do encargo.
+§ 1º- Na composição do órgão especial observar-se-á, tanto quanto possível, a representação, em número paritário, de todas as Câmaras, Turmas ou Seções especializadas.
+§ 2º - Os Desembargadores não integrantes do órgão especial, observada a ordem decrescente de antigüidade, poderão ser convocados pelo Presidente para substituir os que o componham, nos casos de afastamento ou impedimento.

@@ -1,0 +1,1 @@
+Art. 38 - Sempre que, encerrada a sessão, restarem em pauta ou em mesa mais de vinte feitos sem julgamento, o Presidente fará realizar uma ou mais sessões extraordinárias, destinadas ao julgamento daqueles processos.

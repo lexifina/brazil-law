@@ -1,0 +1,1 @@
+Art. 59 - O Conselho Nacional da Magistratura, se considerar existente crime de ação pública, pelo que constar de reclamação ou representação, remeterá ao Ministério Público cópia das peças que entender necessárias ao oferecimento da denúncia ou à instauração de inquérito policial.

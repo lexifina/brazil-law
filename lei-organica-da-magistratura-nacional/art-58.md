@@ -1,0 +1,1 @@
+Art. 58 - A aplicação da pena de disponibilidade ou aposentadoria será imediatamente comunicada ao Presidente do Tribunal a que pertencer ou a que estiver sujeito o magistrado, para imediato afastamento das suas funções. Igual comunicação far-se-á ao Chefe do Poder Executivo competente, a fim de que formalize o ato de declaração da disponibilidade ou aposentadoria do magistrado.

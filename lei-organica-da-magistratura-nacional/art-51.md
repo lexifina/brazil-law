@@ -1,0 +1,1 @@
+Art. 51 - Ressalvado o poder de avocação, a que se refere o artigo anterior, o exercício das atribuições específicas do Conselho Nacional da Magistratura não prejudica a competência disciplinar dos Tribunais, estabelecida em lei, nem interfere nela.
