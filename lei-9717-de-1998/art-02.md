@@ -13,3 +13,4 @@ VIII - o valor do saldo financeiro do regime próprio de previdência social.
 § 4º Os Municípios com população inferior a cinqüenta mil habitantes podem optar pela publicação, em até trinta dias após o encerramento de cada semestre, do demonstrativo mencionado no parágrafo anterior.
 § 5º Antes de proceder a quaisquer revisões, reajustes ou adequações de proventos e pensões que impliquem aumento de despesas, os entes estatais deverão regularizar a situação sempre que o demonstrativo de que trata o § 3º, no que se refere à despesa acumulada até o bimestre, indicar o descumprimento dos limites fixados nesta Lei.
 § 6º É nulo de pleno direito o ato que provoque aumento de despesas previdenciárias, sem a observância dos limites previstos neste artigo.
+§ 7º É nulo de pleno direito o ato que provoque aumento de despesas previdenciárias, sem a observância dos limites previstos neste artigo.
