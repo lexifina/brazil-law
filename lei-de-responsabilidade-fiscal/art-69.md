@@ -1,0 +1,1 @@
+Art. 69. O ente da Federação que mantiver ou vier a instituir regime próprio de previdência social para seus servidores conferir-lhe-á caráter contributivo e o organizará com base em normas de contabilidade e atuária que preservem seu equilíbrio financeiro e atuarial.
