@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 12, de 23 de maio de 1996
+Às pessoas jurídicas de direito público interno é permitido excluir da base de cálculo de suas contribuições para o PIS/PASEP, além das transferências correntes, as transferências de capital efetuadas às fundações públicas.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o item II da Instrução Normativa SRF nº 34, de 18 de setembro de 1974, e tendo em vista o disposto no art. 7º da Medida Provisória nº 1.212, de 28 de novembro de 1995 e no Parecer Normativo COSIT nº 01, de 21 de maio de 1996, publicado do Diário Oficial da União do dia 22, seguinte,
+declara, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias de Julgamento da Receita Federal e demais interessados que, a exclusão da base de cálculo da contribuição para o PIS/PASEP, pelas pessoas jurídicas de direito público, dos valores das transferências efetuadas às fundações públicas de acordo com o disposto no subitem 6.1 do referido Parecer Normativo aplica-se também, na hipótese de transferências de capital realizadas.
+PAULO BALTAZAR CARNEIRO
