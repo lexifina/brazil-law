@@ -1,0 +1,2 @@
+Art. 27. Na concessão de crédito por ente da Federação a pessoa física, ou jurídica que não esteja sob seu controle direto ou indireto, os encargos financeiros, comissões e despesas congêneres não serão inferiores aos definidos em lei ou ao custo de captação.
+Parágrafo único. Dependem de autorização em lei específica as prorrogações e composições de dívidas decorrentes de operações de crédito, bem como a concessão de empréstimos ou financiamentos em desacordo com o caput, sendo o subsídio correspondente consignado na lei orçamentária.

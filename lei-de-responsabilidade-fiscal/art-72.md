@@ -1,0 +1,1 @@
+Art. 72. A despesa com serviços de terceiros dos Poderes e órgãos referidos no art. 20 não poderá exceder, em percentual da receita corrente líquida, a do exercício anterior à entrada em vigor desta Lei Complementar, até o término do terceiro exercício seguinte.
