@@ -1,0 +1,8 @@
+Art. 14. A concessão ou ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita deverá estar acompanhada de estimativa do impacto orçamentário-financeiro no exercício em que deva iniciar sua vigência e nos dois seguintes, atender ao disposto na lei de diretrizes orçamentárias e a pelo menos uma das seguintes condições:
+I - demonstração pelo proponente de que a renúncia foi considerada na estimativa de receita da lei orçamentária, na forma do art. 12, e de que não afetará as metas de resultados fiscais previstas no anexo próprio da lei de diretrizes orçamentárias;
+II - estar acompanhada de medidas de compensação, no período mencionado no caput, por meio do aumento de receita, proveniente da elevação de alíquotas, ampliação da base de cálculo, majoração ou criação de tributo ou contribuição.
+§ 1º A renúncia compreende anistia, remissão, subsídio, crédito presumido, concessão de isenção em caráter não geral, alteração de alíquota ou modificação de base de cálculo que implique redução discriminada de tributos ou contribuições, e outros benefícios que correspondam a tratamento diferenciado.
+§ 2º Se o ato de concessão ou ampliação do incentivo ou benefício de que trata o caput deste artigo decorrer da condição contida no inciso II, o benefício só entrará em vigor quando implementadas as medidas referidas no mencionado inciso.
+§ 3º O disposto neste artigo não se aplica:
+I - às alterações das alíquotas dos impostos previstos nos incisos I, II, IV e V do art. 153 da Constituição, na forma do seu § 1º;
+II - ao cancelamento de débito cujo montante seja inferior ao dos respectivos custos de cobrança.

@@ -1,0 +1,1 @@
+Art. 46. É nulo de pleno direito ato de desapropriação de imóvel urbano expedido sem o atendimento do disposto no § 3º do art. 182 da Constituição, ou prévio depósito judicial do valor da indenização.
