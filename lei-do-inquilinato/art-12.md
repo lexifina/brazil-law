@@ -1,0 +1,2 @@
+Art. 12. Em casos de separação de fato, separação judicial, divórcio ou dissolução da sociedade concubinária, a locação prosseguirá automaticamente com o cônjuge ou companheiro que permanecer no imóvel.
+Parágrafo único. Nas hipóteses previstas neste artigo, a sub - rogação será comunicada por escrito ao locador, o qual terá o direito de exigir, no prazo de trinta dias, a substituição do fiador ou o oferecimento de qualquer das garantias previstas nesta lei.
