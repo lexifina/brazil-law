@@ -1,1 +1,3 @@
 Art. 76. O disposto nos arts. 43, 55 e 56 não se aplica a projetos aprovados ou protocolizados no órgão competente para a sua apreciação, até 14 de novembro de 1997.
+§ 1º O disposto no art. 55 não se aplica a projetos de empresas a que se refere o art. 1º, § 1º, alínea "h", da Lei nº 9.449, de 14 de março de 1997, cuja produção seja destinada totalmente à exportação até 31 de dezembro de 2002.
+§ 2º A empresa que usar do benefício previsto no parágrafo anterior e deixar de exportar a totalidade de sua produção no prazo ali estabelecido estará sujeita à multa de setenta por cento aplicada sobre o valor FOB do total das importações realizadas nos termos dos incisos I e II do art. 1º da Lei nº 9.449, de 1997.
