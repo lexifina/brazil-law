@@ -1,4 +1,10 @@
 Art. 4º Compete ao presidente do tribunal, ao qual couber o conhecimento do respectivo recurso, suspender, em despacho fundamentado, a execução da liminar nas ações movidas contra o Poder Público ou seus agentes, a requerimento do Ministério Público ou da pessoa jurídica de direito público interessada, em caso de manifesto interesse público ou de flagrante ilegitimidade, e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
 § 1º Aplica-se o disposto neste artigo à sentença proferida em processo de ação cautelar inominada, no processo de ação popular e na ação civil pública, enquanto não transitada em julgado.
-§ 2º O presidente do tribunal poderá ouvir o autor e o Ministério Público, em cinco dias.
-§ 3º Do despacho que conceder ou negar a suspensão, caberá agravo, no prazo de cinco dias.
+§ 2º O Presidente do Tribunal poderá ouvir o autor e o Ministério Público, em setenta e duas horas.
+§ 3º Do despacho que conceder ou negar a suspensão, caberá agravo, no prazo de cinco dias, que será levado a julgamento na sessão seguinte a sua interposição.
+§ 4º Se do julgamento do agravo de que trata o § 3º resultar a manutenção ou o restabelecimento da decisão que se pretende suspender, caberá novo pedido de suspensão ao Presidente do Tribunal competente para conhecer de eventual recurso especial ou extraordinário.
+§ 5º É cabível também o pedido de suspensão a que se refere o § 4º, quando negado provimento a agravo de instrumento interposto contra a liminar a que se refere este artigo.
+§ 6º A interposição do agravo de instrumento contra liminar concedida nas ações movidas contra o Poder Público e seus agentes não prejudica nem condiciona o julgamento do pedido de suspensão a que se refere este artigo.
+§ 7º O Presidente do Tribunal poderá conferir ao pedido efeito suspensivo liminar, se constatar, em juízo prévio, a plausibilidade do direito invocado e a urgência na concessão da medida.
+§ 8º As liminares cujo objeto seja idêntico poderão ser suspensas em uma única decisão, podendo o Presidente do Tribunal estender os efeitos da suspensão a liminares supervenientes, mediante simples aditamento do pedido original.
+§ 9º A suspensão deferida pelo Presidente do Tribunal vigorará até o trânsito em julgado da decisão de mérito na ação principal.

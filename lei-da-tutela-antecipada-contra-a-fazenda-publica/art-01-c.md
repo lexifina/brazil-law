@@ -1,0 +1,1 @@
+Art. 1º-C. Prescreverá em cinco anos o direito de obter indenização dos danos causados por agentes de pessoas jurídicas de direito público e de pessoas jurídicas de direito privado prestadoras de serviços públicos.
