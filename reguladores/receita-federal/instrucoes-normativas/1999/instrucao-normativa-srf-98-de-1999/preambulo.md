@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 98, de 4 de agosto de 1999
+Dispõe sobre o controle aduaneiro do intercâmbio postal nas cidades situadas em região de fronteira com os países integrantes do Mercosul.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista o Tratado para a constituição de um Mercado Comum entre a República Federativa do Brasil, a República da Argentina, a República do Paraguai e a República Oriental do Uruguai, firmado em Assunção, em 26 de março de 1991, aprovado pelo Decreto Legislativo No 197, de 25 de setembro de 1991, e ratificado pelo Decreto No 350, de 21 de novembro de 1991, e considerando as Resoluções do Grupo Mercado Comum do Mercosul No 29/98 e 21/99, resolve:
