@@ -1,2 +1,2 @@
-Art. 45. As custas serão pagas em sêlo, na primeira instância, pela forma estabelecida no Regimento, e compreenderão todos os atos do processo, inclusive a subida do recurso.
-Parágrafo único. Não são devidas custas e quaisquer emolumentos na Instância Superior.
+Art. 45. As custas serão pagas na primeira instância, pela forma estabelecida no Regimento, e compreenderão todos os atos do processo, inclusive a subida do recurso, dela ficando isentos os beneficiados com a Justiça gratuita. Na segunda instância não serão devidas custas, salvo nas certidões e traslados.
+Parágrafo único. As custas recebidas serão relacionadas e recolhidas, semanalmente, pelo Chefe da Secretaria, à repartição federal arrecadadora competente, mediante guia visada pelo Juiz, como renda extraordinária da União.
