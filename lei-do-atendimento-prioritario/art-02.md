@@ -1,0 +1,2 @@
+Art. 2º As repartições públicas e empresas concessionárias de serviços públicos estão obrigadas a dispensar atendimento prioritário, por meio de serviços individualizados que assegurem tratamento diferenciado e atendimento imediato às pessoas a que se refere o art. 1º.
+Parágrafo único. É assegurada, em todas as instituições financeiras, a prioridade de atendimento às pessoas mencionadas no art. 1º.
