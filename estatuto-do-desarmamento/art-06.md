@@ -2,7 +2,7 @@ Art. 6º É proibido o porte de arma de fogo em todo o território nacional, sal
 I - os integrantes das Forças Armadas;
 II - os integrantes de órgãos referidos nos incisos do caput do art. 144 da Constituição Federal;
 III - os integrantes das guardas municipais das capitais dos Estados e dos Municípios com mais de 500.000 (quinhentos mil) habitantes, nas condições estabelecidas no regulamento desta Lei;
-IV - os integrantes das guardas municipais dos Municípios com mais de 250.000 (duzentos e cinqüenta mil) e menos de 500.000 (quinhentos mil) habitantes, quando em serviço;
+IV - os integrantes das guardas municipais dos Municípios com mais de cinqüenta mil e menos de quinhentos mil habitantes, quando em serviço;
 V - os agentes operacionais da Agência Brasileira de Inteligência e os agentes do Departamento de Segurança do Gabinete de Segurança Institucional da Presidência da República;
 VI - os integrantes dos órgãos policiais referidos no art. 51, IV, e no art. 52, XIII, da Constituição Federal;
 VII - os integrantes do quadro efetivo dos agentes e guardas prisionais, os integrantes das escoltas de presos e as guardas portuárias;
