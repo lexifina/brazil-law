@@ -2,9 +2,13 @@ Art. 43. Fica sujeito à incidência do imposto de renda na fonte, à alíquota 
 § 1º O disposto neste artigo aplica-se também a operações de financiamento realizadas em bolsas de valores, de mercadorias, de futuros e assemelhadas.
 § 2º O disposto neste artigo não se aplica aos rendimentos ganhos de capital auferidos:
 a) em aplicações do fundo de curto prazo, tributados nos termos do Decreto-Lei nº 2.458, de 25 de agosto de 1988;
-b) em operações financeiras de curto prazo, assim consideradas ou de prazo igual ou inferior a vinte e nove dias, tributadas nos termos do Decreto-Lei nº 2.394, de 21 de dezembro de 1987.
-§ 3º As operações financeiras de curto prazo e as que lhes são equiparadas, nas quais o beneficiário do rendimento não se identificar, serão tributadas à alíquota de nove por cento, incidente sobre o rendimento nominal.
-§ 4º Considera-se rendimento real a diferença entre o valor da cessão, liquidação ou resgate da aplicação e o valor aplicado, corrigido monetariamente pelos índices de variação da OTN diária, divulgados pela Secretaria da Receita Federal.
+b) em operações financeiras de curto prazo, assim consideradas as de prazo inferior a noventa dias, que serão tributadas às seguintes alíquotas, sobre o rendimento bruto:
+1. dez por cento quando o beneficiário do rendimento se identificar;
+2. trinta por cento quando o beneficiário não se identificar.
+§ 3º As operações compromissadas de curto prazo, que tenham por objeto Letras Financeiras do Tesouro - LFT e títulos estaduais e municipais do tipo LFT, serão tributadas pela alíquota de quarenta por cento incidente sobre o rendimento que ultrapassar da taxa referencial acumulada da LFT, divulgada pelo Banco Central do Brasil.
+§ 4º Considera-se rendimento real:
+a) nas operações prefixadas e com taxas flutuantes, o rendimento que exceder da variação do IPC - Índice de Preço ao Consumidor, verificado entre a data da aplicação e do resgate;
+b) no caso das operações com cláusula de correção monetária, a parcela do rendimento que exceder da variação do índice pactuado, verificado entre a data da aplicação e do resgate.
 § 5º No caso dos fundos em condomínio e clubes de investimento, ficam excluídos da base de cálculo do imposto os rendimentos ou ganhos de capital que seriam isentos se auferidos diretamente pelo quotista.
 § 6º O imposto deverá ser retido pela fonte pagadora:
 a) no caso de fundos em condomínio e clubes de investimento, no resgate;
