@@ -1,0 +1,1 @@
+Art. 24. O Poder Público promoverá campanhas informativas e educativas dirigidas à população em geral, com a finalidade de conscientizá-la e sensibilizá-la quanto à acessibilidade e à integração social da pessoa portadora de deficiência ou com mobilidade reduzida.
