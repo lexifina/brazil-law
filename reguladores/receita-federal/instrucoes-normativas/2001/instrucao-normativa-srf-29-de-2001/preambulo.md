@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 29, de 15 de março de 2001
+Dispõe sobre a aplicação do regime aduaneiro de admissão temporária aos bens destinados às atividades de lançamento de satélites no Centro de Lançamento de Alcântara.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições que lhe confere o inciso XIX do art. 190 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 227, de 3 de setembro de 1998, e tendo em vista o disposto no art. 290, no inciso I do parágrafo único do art. 446; no art. 452; no inciso I do art. 453 e no inciso II do art. 567 do Regulamento Aduaneiro, aprovado pelo Decreto nº 91.030, de 5 de março de 1985, resolve:
