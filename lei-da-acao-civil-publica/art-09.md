@@ -1,0 +1,5 @@
+Art. 9º Se o órgão do Ministério Público, esgotadas todas as diligências, se convencer da inexistência de fundamento para a propositura da ação civil, promoverá o arquivamento dos autos do inquérito civil ou das peças informativas, fazendo-o fundamentadamente.
+§ 1º Os autos do inquérito civil ou das peças de informação arquivadas serão remetidos, sob pena de se incorrer em falta grave, no prazo de 3 (três) dias, ao Conselho Superior do Ministério Público.
+§ 2º Até que, em sessão do Conselho Superior do Ministério Público, seja homologada ou rejeitada a promoção de arquivamento, poderão as associações legitimadas apresentar razões escritas ou documentos, que serão juntados aos autos do inquérito ou anexados às peças de informação.
+§ 3º A promoção de arquivamento será submetida a exame e deliberação do Conselho Superior do Ministério Público, conforme dispuser o seu Regimento.
+§ 4º Deixando o Conselho Superior de homologar a promoção de arquivamento, designará, desde logo, outro órgão do Ministério Público para o ajuizamento da ação.

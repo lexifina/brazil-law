@@ -1,0 +1,2 @@
+Art. 13. Havendo condenação em dinheiro, a indenização pelo dano causado reverterá a um fundo gerido por um Conselho Federal ou por Conselhos Estaduais de que participarão necessariamente o Ministério Público e representantes da comunidade, sendo seus recursos destinados à reconstituição dos bens lesados.
+Parágrafo único. Enquanto o fundo não for regulamentado, o dinheiro ficará depositado em estabelecimento oficial de crédito, em conta com correção monetária.
