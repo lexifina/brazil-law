@@ -1,0 +1,5 @@
+Art. 13. É assegurada ao criador participação mínima de 5% (cinco por cento) e máxima de 1/3 (um terço) nos ganhos econômicos, auferidos pela ICT, resultantes de contratos de transferência de tecnologia e de licenciamento para outorga de direito de uso ou de exploração de criação protegida da qual tenha sido o inventor, obtentor ou autor, aplicando-se, no que couber, o disposto no parágrafo único do art. 93 da Lei nº 9.279, de 1996.
+§ 1º A participação de que trata o caput deste artigo poderá ser partilhada pela ICT entre os membros da equipe de pesquisa e desenvolvimento tecnológico que tenham contribuído para a criação.
+§ 2º Entende-se por ganhos econômicos toda forma de royalties, remuneração ou quaisquer benefícios financeiros resultantes da exploração direta ou por terceiros, deduzidas as despesas, encargos e obrigações legais decorrentes da proteção da propriedade intelectual.
+§ 3º A participação prevista no caput deste artigo obedecerá ao disposto nos §§ 3º e 4º do art. 8º.
+§ 4º A participação referida no caput deste artigo será paga pela ICT em prazo não superior a 1 (um) ano após a realização da receita que lhe servir de base.

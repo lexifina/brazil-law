@@ -1,0 +1,1 @@
+Art. 1º Esta Lei estabelece medidas de incentivo à inovação e à pesquisa científica e tecnológica no ambiente produtivo, com vistas à capacitação e ao alcance da autonomia tecnológica e ao desenvolvimento industrial do País, nos termos dos arts. 218 e 219 da Constituição.
