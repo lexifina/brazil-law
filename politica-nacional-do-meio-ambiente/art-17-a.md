@@ -1,1 +1,1 @@
-Art. 17-A. Ficam estabelecidos os preços dos serviços e produtos do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, a serem aplicados em âmbito nacional, conforme Anexo a esta Lei.
+Art. 17-A. São estabelecidos os preços dos serviços e produtos do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama, a serem aplicados em âmbito nacional, conforme Anexo a esta Lei.
