@@ -1,0 +1,5 @@
+Art. 26. Os critérios e valores para a remuneração de serviços e os parâmetros de cobertura assistencial serão estabelecidos pela direção nacional do Sistema Único de Saúde (SUS), aprovados no Conselho Nacional de Saúde.
+§ 1º Na fixação dos critérios, valores, formas de reajuste e de pagamento da remuneração aludida neste artigo, a direção nacional do Sistema Único de Saúde (SUS) deverá fundamentar seu ato em demonstrativo econômico-financeiro que garanta a efetiva qualidade de execução dos serviços contratados.
+§ 2º Os serviços contratados submeter-se-ão às normas técnicas e administrativas e aos princípios e diretrizes do Sistema Único de Saúde (SUS), mantido o equilíbrio econômico e financeiro do contrato.
+§ 3º (Vetado).
+§ 4º Aos proprietários, administradores e dirigentes de entidades ou serviços contratados é vedado exercer cargo de chefia ou função de confiança no Sistema Único de Saúde (SUS).
