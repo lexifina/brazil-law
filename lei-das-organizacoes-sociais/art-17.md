@@ -1,0 +1,1 @@
+Art. 17. A organização social fará publicar, no prazo máximo de noventa dias contado da assinatura do contrato de gestão, regulamento próprio contendo os procedimentos que adotará para a contratação de obras e serviços, bem como para compras com emprego de recursos provenientes do Poder Público.

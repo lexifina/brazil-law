@@ -1,0 +1,2 @@
+Art. 6º O contrato de gestão, elaborado de comum acordo entre o órgão ou entidade supervisora e a organização social, discriminará as atribuições, responsabilidades e obrigações do Poder Público e da organização social.
+Parágrafo único. O contrato de gestão deve ser submetido, após aprovação pelo Conselho de Administração da entidade, ao Ministro de Estado ou autoridade supervisora da área correspondente à atividade fomentada.

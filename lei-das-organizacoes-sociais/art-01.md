@@ -1,0 +1,1 @@
+Art. 1º O Poder Executivo poderá qualificar como organizações sociais pessoas jurídicas de direito privado, sem fins lucrativos, cujas atividades sejam dirigidas ao ensino, à pesquisa científica, ao desenvolvimento tecnológico, à proteção e preservação do meio ambiente, à cultura e à saúde, atendidos aos requisitos previstos nesta Lei.
