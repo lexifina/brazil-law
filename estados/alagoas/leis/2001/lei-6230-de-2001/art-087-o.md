@@ -1,0 +1,1 @@
+Art. 87 - O Centro de Assistência Social Religiosa e Jurídica é órgão de apoio responsável pela execução das atividades de assistência religiosa, jurídica, educacional e habitacional ao pessoal da Corporação, colaborando nos assuntos especializados com os demais órgãos da Corporação.

@@ -1,0 +1,1 @@
+Art. 178 - O Estado Maior das Unidades e Subunidades Operacionais Independentes é órgão básico de assessoramento ao comandante da respectiva organização responsável, ao seu nível, pelo estudo, planejamento, coordenação e controle de suas atividades.

@@ -1,0 +1,1 @@
+Art. 54 - O Orçamento Plurianual de Investimento envolverá todos os programas, subprogramas, projetos, atividades, sub-projetos e subatividades previstas para a execução do período, com indicação dos respectivos custos, especificações e quantificações dos recursos necessários a sua execução.

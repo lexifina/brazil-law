@@ -1,0 +1,1 @@
+Art. 120 - A Corregedoria é órgão de assessoramento ao Comandante Geral, responsável pela fiscalização, acompanhamento e controle administrativo referente às instaurações de sindicâncias, inquéritos policiais militares, inquéritos sanitários de origem, conselhos de disciplina e de justificação e demais assuntos relacionados à disciplina policial militar.

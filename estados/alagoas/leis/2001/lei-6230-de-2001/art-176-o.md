@@ -1,0 +1,1 @@
+Art. 176 - O comandante de unidade operacional ou subunidade operacional independente é responsável pela administração, instrução, disciplina e emprego da tropa sob suas ordens, em consonância com as diretrizes, planos e ordens emanadas do escalão superior.

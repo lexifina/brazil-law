@@ -1,0 +1,1 @@
+Art. 27 – A instrução na Polícia Militar tem por objetivo assegurar a habilitação e a qualificação do homem, já formado, para o desempenho das funções policiais militares; e a sua atualização nos diferentes tipos de atividades inerentes à Corporação.

@@ -1,0 +1,1 @@
+Art. 44 – O sucesso das operações policiais militares está diretamente relacionado com o funcionamento do sistema de transporte destinado a apoiá-las. A deficiência de transportes é fator limitativo para a execução das operações.

@@ -1,0 +1,1 @@
+Art. 31 – A atividade operacional da Polícia Militar obedecerá a planejamento que vise, principalmente, a preservação da ordem, a tranqüilidade pública e a incolumidade das pessoas e do patrimônio, através do policiamento ostensivo, nas modalidades legalmente previstas.

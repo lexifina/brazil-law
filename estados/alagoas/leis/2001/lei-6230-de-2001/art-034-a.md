@@ -1,0 +1,1 @@
+Art. 34 – A logística para a Corporação está vinculada aos assuntos pertinentes à saúde, à provisão de suprimentos, manutenção, construção e melhoria dos aquartelamentos, transporte e outros serviços para a Organização.

@@ -1,0 +1,1 @@
+Art. 49 – A atividade de ação comunitária têm por fim cooperar com as lideranças civis das localidades e estimular o espírito comunitário dos cidadãos, a fim de prepará-los para se auto-assistirem, mantendo em quaisquer situações, a normalidade da vida comunitária, em estreito relacionamento com a Polícia Militar.

@@ -1,0 +1,1 @@
+Art. 10 - A Administração na Polícia Militar observará os princípios fundamentais de prevalência do interesse público, da legalidade, da impessoalidade, da moralidade, da economicidade, da publicidade, do planejamento, da continuidade e eficiência, além de outros fixados em lei.

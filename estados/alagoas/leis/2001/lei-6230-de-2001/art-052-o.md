@@ -1,0 +1,1 @@
+Art. 52 - O Planejamento Administrativo tem por finalidade a ordenação sistemática dos propósitos, a racionalização do trabalho por parte das pessoas e órgãos, a fixação de objetivos a alcançar e o estabelecimento dos fatores condicionantes.
