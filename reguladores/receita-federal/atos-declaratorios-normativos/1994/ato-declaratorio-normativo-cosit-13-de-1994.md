@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 13, de 30 de março de 1994
+Base de cálculo do imposto de renda incidente sobre os rendimentos pagos ou creditados por pessoa jurídica a outra pessoa jurídica, quando da prestação de serviços com pagamento a prazo.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso de suas atribuições e tendo em vista as disposições da Medida Provisória nº 434, de 27 de fevereiro de 1994, da Portaria MF nº 118, de 11 de março de 1994, e da Instrução Normativa SRF nº 20, de 14 de março de 1994,
+declara, em caráter normativo, às Superintendências Regionais da Receita Federal e aos demais interessados, que não integra a base de cálculo do imposto de renda de que tratam os arts. 663, 665, 667 e 668 do Regulamento do Imposto de Renda, aprovado pelo Decreto nº 1.041, de 11 de janeiro de 1994, a diferença, em cruzeiros reais, verificada entre o valor constante da nota fiscal e o valor da duplicata, expressa em URV, relativa a operação de prestação de serviços com pagamento a prazo.
+ARISTÓFANES FONTOURA DE HOLANDA
