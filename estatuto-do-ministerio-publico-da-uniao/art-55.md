@@ -1,0 +1,1 @@
+Art. 55. O Conselho Superior do Ministério Público Federal reunir-se-á, ordinariamente, uma vez por mês, em dia previamente fixado, e, extraordinariamente, quando convocado pelo Procurador-Geral da República, ou por proposta da maioria de seus membros.

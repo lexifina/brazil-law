@@ -1,0 +1,1 @@
+Art. 27. O Procurador-Geral da República designará, dentre os integrantes da carreira, maiores de trinta e cinco anos, o Vice-Procurador-Geral da República, que o substituirá em seus impedimentos. No caso de vacância, exercerá o cargo o Vice-Presidente do Conselho Superior do Ministério Público Federal, até o provimento definitivo do cargo.

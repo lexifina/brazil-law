@@ -1,0 +1,1 @@
+Art. 28. O Conselho de Assessoramento Superior do Ministério Público da União, sob a presidência do Procurador-Geral da República será integrado pelo Vice-Procurador-Geral da República, pelo Procurador-Geral do Trabalho, pelo Procurador-Geral da Justiça Militar e pelo Procurador-Geral de Justiça do Distrito Federal e Territórios.

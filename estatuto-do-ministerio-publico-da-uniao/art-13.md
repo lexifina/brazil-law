@@ -1,0 +1,1 @@
+Art. 13. Recebidas ou não as informações e instruído o caso, se o Procurador dos Direitos do Cidadão concluir que direitos constitucionais foram ou estão sendo desrespeitados, deverá notificar o responsável para que tome as providências necessárias a prevenir a repetição ou que determine a cessação do desrespeito verificado.

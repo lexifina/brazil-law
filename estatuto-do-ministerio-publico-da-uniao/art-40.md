@@ -1,0 +1,3 @@
+Art. 40. O Procurador-Geral da República designará, dentre os Subprocuradores-Gerais da República e mediante prévia aprovação do nome pelo Conselho Superior, o Procurador Federal dos Direitos do Cidadão, para exercer as funções do ofício pelo prazo de dois anos, permitida uma recondução, precedida de nova decisão do Conselho Superior.
+§ 1º Sempre que possível, o Procurador não acumulará o exercício de suas funções com outras do Ministério Público Federal.
+§ 2º O Procurador somente será dispensado, antes do termo de sua investidura, por iniciativa do Procurador-Geral da República, anuindo a maioria absoluta do Conselho Superior.

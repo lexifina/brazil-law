@@ -1,0 +1,1 @@
+Art. 61. Dentre os integrantes da Câmara de Coordenação e Revisão, um deles será designado pelo Procurador-Geral para a função executiva de Coordenador.
