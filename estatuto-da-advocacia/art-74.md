@@ -1,0 +1,1 @@
+Art. 74. O Conselho Seccional pode adotar as medidas administrativas e judiciais pertinentes, objetivando a que o profissional suspenso ou excluído devolva os documentos de identificação.
