@@ -1,0 +1,1 @@
+Art. 13. Os navios enquadrados na CLC/69 deverão possuir o certificado ou garantia financeira equivalente, conforme especificado por essa convenção, para que possam trafegar ou permanecer em águas sob jurisdição nacional.
