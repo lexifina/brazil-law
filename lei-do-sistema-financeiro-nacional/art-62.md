@@ -1,0 +1,1 @@
+Art. 62. O Conselho Monetário Nacional determinará providências no sentido de que a transferência de atribuições dos órgãos existentes para o Banco Central da República do Brasil se processe sem solução de continuidade dos serviços atingidos por esta lei.

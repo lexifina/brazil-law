@@ -1,0 +1,1 @@
+Art. 12. O Banco Central da República do Brasil operará exclusivamente com instituições financeiras públicas e privadas, vedadas operações bancárias de qualquer natureza com outras pessoas de direito público ou privado, salvo as expressamente autorizadas por lei.

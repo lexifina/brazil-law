@@ -1,0 +1,1 @@
+Art. 5º As deliberações do Conselho Monetário Nacional entendem-se de responsabilidade de seu Presidente para os efeitos do art. 104, nº I, letra "b", da Constituição Federal e obrigarão também os órgãos oficiais, inclusive autarquias e sociedades de economia mista, nas atividades que afetem o mercado financeiro e o de capitais.

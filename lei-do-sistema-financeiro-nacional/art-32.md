@@ -1,0 +1,1 @@
+Art. 32. As instituições financeiras públicas deverão comunicar ao Banco Central da República do Brasil a nomeação ou a eleição de diretores e membros de órgãos consultivos, fiscais e semelhantes, no prazo de 15 dias da data de sua ocorrência.

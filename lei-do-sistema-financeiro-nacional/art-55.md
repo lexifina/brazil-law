@@ -1,0 +1,1 @@
+Art. 55. Ficam transferidas ao Banco Central da República do Brasil as atribuições cometidas por lei ao Ministério da Agricultura, no que concerne à autorização de funcionamento e fiscalização de cooperativas de crédito de qualquer tipo, bem assim da seção de crédito das cooperativas que a tenham.

@@ -1,0 +1,1 @@
+Art. 25. As instituições financeiras privadas, exceto as cooperativas de crédito, constituir-se-ão únicamente sob a forma de sociedade anônima, com a totalidade de seu capital representado por ações nominativas.
