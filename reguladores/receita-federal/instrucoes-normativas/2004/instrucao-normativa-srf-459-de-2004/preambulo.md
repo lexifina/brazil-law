@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 459, de 18 de outubro de 2004
+Dispõe sobre a retenção de tributos e contribuições nos pagamentos efetuados pelas pessoas jurídicas de direito privado a outras pessoas jurídicas pela prestação de serviços.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 64 da Lei nº 9.430, de 27 de dezembro de 1996, nos arts. 30, 31, 32, 35 e 36 da Lei nº 10.833, de 29 de dezembro de 2003, e nos arts. 21 e 39 da Lei nº 10.865, de 30 de abril de 2004, resolve:
+Disposições Preliminares
