@@ -1,0 +1,2 @@
+Dispõe sobre recursos não reclamados correspondentes a aplicações em fundos de curto prazo ao portador, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória n° 371, de 1993, que o Congresso Nacional aprovou, e eu, HUMBERTO LUCENA, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
