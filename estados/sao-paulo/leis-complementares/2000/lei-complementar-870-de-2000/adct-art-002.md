@@ -1,0 +1,1 @@
+Artigo 2º - O Conselho de Orientação, referido no § 1º do artigo 14 desta lei complementar, será constituído em 30 (trinta) dias, contados da data de constituição do Fundo de Desenvolvimento da Região Metropolitana de Campinas, e suas atribuições serão definidas em regulamento dentro de 90 (noventa) dias, contados da publicação desta lei complementar.
