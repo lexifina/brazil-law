@@ -1,0 +1,30 @@
+DESPACHO
+INTERVENÇÃO -  OBJETO - ELUCIDAÇÃO.
+1.      Na espécie,
+quando pleiteada a intervenção federal no Estado de São Paulo, não
+havia sido efetuado o pagamento ora noticiado à folha 123 à 126.
+Esta era a moldura fática com a qual deparou o Corregedor-Geral da
+Justiça do Trabalho, ao determinar o envio do pedido de intervenção
+ao Supremo Tribunal Federal.
+        Ante o decurso do tempo, despachei,
+ para que as partes dissessem sobre eventual perda de objeto,
+levando em conta a possibilidade de liquidação do débito. Daí a
+notícia de que foi efetuado o pagamento. Todavia o requerente alega
+que este não teria sido integral.
+2.      O deferimento de pleito de
+intervenção federal nos Estados não prescinde da verificação do
+descumprimento de ordem ou decisão judicial, o que, na hipótese
+concreta, depende da realização, pelo setor competente, de novos
+cálculos com a finalidade de aferir se houve a satisfação da dívida,
+ como afirma o Estado, ou se sobeja diferença a ser paga ao
+exeqüente.
+3.      Dessa forma, determino a remessa do processo ao
+Tribunal Superior do Trabalho, para que, após os procedimentos
+cabíveis, seja ratificado, ou não, o encaminhamento do pedido de
+intervenção federal. É que o trânsito e apreciação de tal processo
+nesta Corte pressupõe, no caso, acórdão de Tribunal a revelar o
+descumprimento de decisão judicial, com o qual não se conta.
+4.      Publique-se.
+Brasília, 14 de maio de 2003.
+Ministro MARCO AURÉLIO
+Presidente
