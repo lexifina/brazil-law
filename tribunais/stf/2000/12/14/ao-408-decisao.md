@@ -1,0 +1,113 @@
+DESPACHO :
+1. A síntese do caso.
+ADELÍCIA M. MILANKI e outros, funcionários públicos
+estaduais, ajuizaram, contra o ESTADO DE SANTA CATARINA, ação
+ordinária de reconhecimento de direitos cumulada com pedido de
+indenização (volume I, fls. 02/30).
+Objetivavam perceber os reajustes salariais concedidos pela
+Lei Estadual n. 6747/86 (volume I, fls. 02/30).
+Adolfo Silvestre e outros habilitaram-se como
+litisconsortes ativos (volume II, fls. 333/337).
+O Estado de Santa Catarina contestou (volume II, fls.
+344/396).
+Requereu (volume II, fls. 344/346):
+(a) extinção do processo, sem julgamento do mérito,
+por inadequação do rito procedimental adotado pelo autor com o
+valor dado à causa (volume II, fls. 345);
+(b) inadmissão de pedido genérico (volume II, fls.
+345/346);
+(c) a declaração de inconstitucionalidade incidental
+dos artigos 2o e 3o, da L. 6747/86, frente à  Constituição
+67/69 (volume II, fls. 347).
+Os autores impugnaram a contestação (volume II, fls.
+401/420).
+Ratificaram o pedido da inicial (volume II, fls. 401/420).
+Carlota Vieira Silvério e outros, igualmente funcionários
+públicos do Estado de Santa Catarina, habilitaram-se como
+litisconsortes ativos (volume II, fls. 467/468).
+O Estado de Santa Catarina opôs-se (volume II, fls. 557).
+Alegou que estava estabelecida a relação processual com a
+sua citação (volume II, fls. 557).
+O Ministério Público manifestou-se favorável à instauração
+do litisconsórcio (volume II, fls. 562/563).
+Ele foi instaurado (volume II, fls. 589 v.).
+Em parecer final, o Ministério Público opinou :
+(a) pela declaração de prescrição dos percentuais,
+cujo direito tivesse ocorrido há mais de 05 (cinco) anos,
+contados do ajuizamento da ação (volume II, fls. 597);
+(b) pela improcedência da ação (volume II, fls. 597);
+(c) pela declaração de inconstitucionalidade dos
+dispositivos da L. 6.747/86, frente a CF 1967 e da Estadual de
+1970 (volume II, fls. 597).
+A ação foi julgada procedente (volume II, fls. 607).
+O Estado de Santa Catarina apelou (volume II, fls.
+609/638).
+O parecer do Ministério Público foi no sentido da
+declaração incidental de inconstitucionalidade e provimento da
+apelação (volume II, fls. 692/702).
+A 4a Câmara Cível, à unanimidade, acolheu a argüição de
+inconstitucionalidade dos artigos 2o e 3o da Lei 6.747/86; art. 1o, §
+5o e art. 3o, § 2o, da Lei 1115/88 (volume II, fls. 718/719).
+Submeteu a matéria ao Órgão Especial do Tribunal de Justiça
+(volume II, fls. 718/719).
+A Procuradoria de Justiça emitiu parecer favorável à
+declaração de inconstitucionalidade (volume II, fls. 727/731).
+A Secretaria do Pleno certificou o impedimento de mais da
+metade dos membros do Tribunal (volume II, fls. 733/734).
+O Relator determinou a remessa da ação ao STF (CF, art.
+102, I, n; volume II, fls. 737).
+A PGR opinou:
+(a) pelo provimento da argüição de
+inconstitucionalidade;
+(b) pela improcedência da Ação Originária (volume II,
+fls. 748).
+2. Analiso.
+A matéria já foi, reiteradas vezes, decidida neste
+Tribunal.
+Na AO 428, NÉRI, lê-se:
+"... Ação Originária. Constituição, art. 102, I,
+letra n. 2. Funcionários públicos do Estado de Santa Catarina.
+Gatilhos salariais. Leis estaduais  nºs 6747/1986, arts. 2º e
+3º; 1115/1988, arts. 1º, § 5º, e 3º, § 2º. 3. Decisão do
+Plenário do STF reconhecendo, em hipótese semelhante, em
+Questão de Ordem na Ação Originária nº 263-0 - SC, a
+competência da Corte para julgar o feito (CF, art. 102, I,
+letra n). 4. Declaração de inconstitucionalidade das Leis nº
+6747/1986, arts. 2º e 3º, e 1115/1988, arts. 1º, § 5º, e 3º, §
+2º, do Estado de Santa Catarina, na Ação Originária nº 258-3 -
+SC, pelo Plenário do STF, a 26.5.1995, por atentarem contra a
+autonomia estadual, em estabelecendo vinculação automática da
+remuneração do funcionalismo estadual à variação de índices de
+correção monetária editados pela União Federal e ainda por
+vício de iniciativa. 5. Decisão plenária reiterada em outros
+julgamentos de casso idênticos provenientes do mesmo Estado.
+6. Em conformidade assim com a orientação assentada pelo
+Tribunal sobre a matéria, declarando-se a
+inconstitucionalidade dos arts. 2º e 3º, da Lei nº 6747, de
+12.6.1986, e dos parágrafos 5º, do art. 1º, e 2º do art. 3º,
+da Lei nº 1115/1988, ambas do Estado de Santa Catarina,
+conhece-se, em conseqüência, da apelação, para reformar a
+sentença, julgando improcedente a ação."
+Outros precedentes: AO 258, AO 303, AO 284 e AO 294, ILMAR
+GALVÃO; AO 285, NÉRI DA SILVEIRA; AO 293, AO 317, AO 324, AO 280 e
+AO 299, MAURÍCIO CORRÊA; AO 412, AO 389, AO 390, AO 423 e AO 424,
+CARLOS VELLOSO e AO 322, MOREIRA ALVES.
+A presente ação é, em tudo, semelhante aos precedentes
+citados.
+3. A decisão.
+Acolho a orientação já firmada pelo Tribunal sobre a
+matéria.
+Conheço da apelação do Estado de Santa Catarina.
+Reformo a sentença.
+Declaro a inconstitucionalidade dos arts. 2º e 3º da L.
+6747, de 12 de julho de 1986 e do parágrafo 5º do art. 1º e do § 1º
+do art. 3º, da L. 1115/1988, ambas do Estado de Santa Catarina (L.
+9756/98, art. 1º, parágrafo único).
+Julgo improcedente a presente ação originária (AO 428, NÉRI
+DA SILVEIRA e AO 303, ILMAR GALVÃO).
+Publique-se.
+Arquive-se.
+Brasília, 14 de dezembro de 2000.
+Ministro NELSON JOBIM
+Relator
+5
