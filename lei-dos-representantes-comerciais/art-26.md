@@ -1,0 +1,1 @@
+Art. 26. Os sindicatos incumbidos do processamento das eleições, a que se refere o art. 12, deverão tomar, dentro do prazo de trinta (30) dias, a contar da publicação desta lei, as providências necessárias à instalação dos Conselhos Regionais dentro do prazo previsto no art. 11.

@@ -1,0 +1,2 @@
+Art. 30. Para que o representante possa exercer a representação em Juízo, em nome do representado, requer-se mandato expresso. Incumbir-lhe-á porém, tomar conhecimento das reclamações atinentes aos negócios, transmitindo-as ao representado e sugerindo as providências acauteladoras do interêsse dêste.
+Parágrafo único. O representante, quanto aos atos que praticar, responde segundo as normas do contrato e, sendo êste omisso, na conformidade do direito comum.

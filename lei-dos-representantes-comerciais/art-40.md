@@ -1,0 +1,2 @@
+Art. 40. Dentro de cento e oitenta (180) dias da publicação da presente lei, serão formalizadas, entre representado e representantes, em documento escrito, as condições das representações comerciais vigentes.
+Parágrafo único. A indenização devida pela rescisão dos contratos de representação comercial vigentes na data desta lei, fora dos casos previstos no art. 35, e quando as partes não tenham usado da faculdade prevista neste artigo, será calculada, sôbre a retribuição percebida, pelo representante, no últimos cinco anos anteriores à vigência desta lei.
