@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 2, de 12 de janeiro de 2000
+Dispõe sobre a tributação do ganho de capital decorrente da alienação, por pessoa física, de bens ou direitos e da liquidação ou resgate de aplicações financeiras, adquiridos em moeda estrangeira.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista o disposto nos arts. 2o, 3o, 16, 18, 21 e 22, da Lei No 7.713, de 22 de dezembro de 1988, 21, 22 e 23, da Lei No 8.981, de 20 de janeiro de 1995, 17, da Lei No 9.249, de 26 de dezembro de 1995, 22, 23 e 25, da Lei No 9.250, de 26 de dezembro de 1995, 12, da Medida Provisória No 1.990, de 1999, e 24, da Medida Provisória No 1.991, de 1999, resolve:
