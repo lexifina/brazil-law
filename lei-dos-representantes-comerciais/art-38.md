@@ -1,0 +1,1 @@
+Art. 38. Não serão prejudicados os direitos dos representantes comerciais quando, a título de cooperação, desempenhem, temporàriamente, a pedido do representado, encargos ou atribuições diversos dos previstos no contrato de representação.

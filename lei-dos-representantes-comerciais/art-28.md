@@ -1,0 +1,1 @@
+Art. 28. O representante comercial fica obrigado a fornecer ao representado, segundo as disposições do contrato ou, sendo êste omisso, quando lhe fôr solicitado, informações detalhadas sôbre o andamento dos negócios a seu cargo, devendo dedicar-se à representação, de modo a expandir os negócios do representado e promover os seus produtos.

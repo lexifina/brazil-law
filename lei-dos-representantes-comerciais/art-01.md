@@ -1,0 +1,2 @@
+Art. 1º Exerce a representação comercial autônoma a pessoa jurídica ou a pessoa física, sem relação de emprêgo, que desempenha, em caráter não eventual por conta de uma ou mais pessoas, a mediação para a realização de negócios mercantis, agenciando propostas ou pedidos, para, transmití-los aos representados, praticando ou não atos relacionados com a execução dos negócios.
+Parágrafo único. Quando a representação comercial incluir podêres atinentes ao mandato mercantil, serão aplicáveis, quanto ao exercício dêste, os preceitos próprios da legislação comercial.

@@ -1,0 +1,2 @@
+Art. 6º São criados o Conselho Federal e os Conselhos Regionais dos Representantes Comerciais, aos quais incumbirá a fiscalização do exercício da profissão, na forma desta Lei.
+Parágrafo único. É vedado, aos Conselhos Federal e Regionais dos Representantes Comerciais, desenvolverem quaisquer atividades não compreendidas em suas finalidades previstas nesta Lei, inclusive as de caráter político e partidárias.

@@ -1,0 +1,1 @@
+Art. 20. Observados os princípios desta Lei, o Conselho Federal dos Representantes Comerciais, expedirá instruções relativas à aplicação das penalidades em geral e, em particular, aos casos em que couber imposições da pena de multa.

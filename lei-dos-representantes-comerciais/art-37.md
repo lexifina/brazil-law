@@ -1,0 +1,1 @@
+Art. 37. Sòmente ocorrendo motivo justo para a rescisão do contrato, poderá o representado reter comissões devidas ao representante, com o fim de ressarcir-se de danos por êste causados e, bem assim, nas hipóteses previstas no art. 35, a título de compensação.
