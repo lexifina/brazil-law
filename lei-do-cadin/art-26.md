@@ -1,0 +1,11 @@
+Art. 26. Fica suspensa a restrição para transferência de recursos federais a Estados, Distrito Federal e Municípios destinados à execução de ações sociais e ações em faixa de fronteira, em decorrência de inadimplementos objeto de registro no Cadin e no Sistema Integrado de Administração Financeira do Governo Federal - Siafi.
+§ 1º Na transferência de recursos federais prevista no caput, ficam os Estados, o Distrito Federal e os Municípios dispensados da apresentação de certidões exigidas em leis, decretos e outros atos normativos.
+§ 2º Não se aplica o disposto neste artigo aos débitos junto ao Instituto Nacional do Seguro Social - INSS.
+§ 3º Os débitos para com a Fazenda Nacional, vencidos até 31 de maio de 1996, não inscritos na Dívida Ativa da União, de responsabilidade dos Estados, do Distrito Federal, dos Municípios e de suas entidades da administração indireta, decorrentes, exclusivamente, de convênios celebrados com a União, poderão ser parcelados nas seguintes condições:
+I - o pedido de parcelamento deverá ser encaminhado, até 31 de agosto de 1998, ao órgão gestor do convênio inadimplido, que o submeterá à Secretaria do Tesouro Nacional com manifestação sobre a conveniência do atendimento do pleito;
+II - o pedido deverá ser instruído com autorização legislativa específica, inclusive quanto à vinculação das receitas próprias do beneficiário ou controlador e das quotas de repartição dos tributos a que se referem os arts. 155, 156, 157, 158 e 159, incisos I, alíneas "a" e "c", e II, da Constituição;
+III - o débito objeto do parcelamento será consolidado na data da concessão;
+IV - o parcelamento será formalizado pela Procuradoria-Geral da Fazenda Nacional mediante a celebração de contrato de confissão, consolidação e parcelamento de dívida, com a interveniência do Banco do Brasil S.A., na qualidade de Agente Financeiro do Tesouro Nacional, nos termos de convênio a ser celebrado com a União;
+V - o vencimento da primeira prestação será 30 (trinta) dias após a assinatura do contrato de parcelamento;
+VI - o pedido de parcelamento constitui confissão irretratável de dívida, mas a exatidão do valor dele constante poderá ser objeto de verificação.
+§ 4º Aos contratos celebrados nas condições estabelecidas no § 3º aplica-se o disposto no art. 13 desta Lei.

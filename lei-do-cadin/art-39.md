@@ -1,0 +1,1 @@
+Art. 39. Ficam revogados o art. 11 do Decreto-Lei nº 352, de 17 de junho de 1968, e alterações posteriores; o art. 10 do Decreto-Lei nº 2.049, de 1º de agosto de 1983; o art. 11 do Decreto-Lei nº 2.052, de 3 de agosto de 1983; o art. 11 do Decreto-Lei nº 2.163, de 19 de setembro de 1984; os arts. 91, 93 e 94 da Lei nº 8.981, de 20 de janeiro de 1995.
