@@ -1,0 +1,7 @@
+ESTADO DE ALAGOAS
+
+GABINETE DO GOVERNADOR
+
+LEI DELEGADA Nº 7, DE 14 DE FEVEREIRO DE 2003.
+
+DISPÕE SOBRE O QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO E FUNÇÕES GRATIFICADAS DO INSTITUTO ZUMBI DOS PALMARES E DÁ OUTRAS PROVIDÊNCIAS. O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que, no uso da delegação conferida pela Assembléia Legislativa, nos termos da Resolução nº 431, de 02 de janeiro de 2003, decreto a seguinte Lei Delegada:
