@@ -1,0 +1,2 @@
+Art. 27. O art. 48 da Lei nº 8.541, de 23 de dezembro de 1992, passa a vigorar com a seguinte redação:
+"Art. 48. Ficam isentos do imposto de renda os rendimentos percebidos pelas pessoas físicas decorrentes de seguro-desemprego, auxílio-natalidade, auxílio-doença, auxílio-funeral e auxílio-acidente, pagos pela previdência oficial da União, dos Estados, do Distrito Federal e dos Municípios e pelas entidades de previdência privada."
