@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo Coana nº 6, de 13 de novembro de 2001
+Declara a aplicabilidade do regime aduaneiro especial de exportação e importação de bens destinados às atividades de pesquisa e lavra de jazidas de petróleo e de gás natural - REPETRO, à mercadoria que menciona.
+A COORDENADORA-GERAL DE ADMINISTRAÇÃO ADUANEIRA, no uso da competência delegada pelo parágrafo 5º, do art. 37, da Instrução Normativa SRF Nº 4, de 10 de janeiro de 2001, declara:
+O regime aduaneiro especial de exportação e importação de bens destinados às atividades de pesquisa e lavra de jazidas de petróleo e de gás natural - REPETRO, instituído pelo Decreto Nº 3.161, de 2 de setembro de 1999, aplica-se à mercadoria a seguir relacionada, por ser adequada à utilização direta nas atividades-fim para aplicação do regime, bem como à garantia da operacionalidade de pelo menos um dos bens constantes do anexo único à IN SRF Nº 4/01, desde que não se enquadrem na restrição prevista no inciso II do § 2º do art. 2º da referida Instrução Normativa.
+[arquivo anexo: an_Filtrado.htm]
