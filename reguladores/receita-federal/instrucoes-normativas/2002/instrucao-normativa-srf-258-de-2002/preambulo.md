@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 258, de 17 de dezembro de 2002
+Dispõe sobre os procedimentos a serem adotados para fruição dos benefícios fiscais relativos ao Imposto de Renda das Pessoas Físicas nas doações aos Fundos dos Direitos da Criança e do Adolescente, nos investimentos em obras audiovisuais e nas doações e patrocínios de projetos culturais.
+SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF no 259, de 24 de agosto de 2001, e tendo em vista o disposto nas Leis nº 8.069, de 13 de julho de 1990, nº 8.242, de 12 de outubro de 1991, nº 8.313, de 23 de dezembro de 1991, nº 8.685, de 20 de julho de 1993, nº 9.250, de 26 de janeiro de 1995, nº 9.532, de 10 de dezembro de 1997, nº 9.874, de 23 de novembro de 1999, e nº 10.454, de 13 de maio de 2002, e na Medida Provisória nº 2.228-1, de 6 de setembro de 2001, resolve:
+Disposições Preliminares
