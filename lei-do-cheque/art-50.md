@@ -1,0 +1,4 @@
+Art. 50 O emitente, o endossante e o avalista podem, pela cláusula ''sem despesa'', ''sem protesto'', ou outra equivalente, lançada no título e assinada, dispensar o portador, para promover a execução do título, do protesto ou da declaração equivalente.
+§ 1º A cláusula não dispensa o portador da apresentação do cheque no prazo estabelecido, nem dos avisos. Incumbe a quem alega a inobservância de prazo a prova respectiva.
+§ 2º A cláusula lançada pelo emitente produz efeito em relação a todos os obrigados; a lançada por endossante ou por avalista produz efeito somente em relação ao que lançar.
+§ 3º Se, apesar de cláusula lançada pelo emitente, o portador promove o protesto, as despesas correm por sua conta. Por elas respondem todos os obrigados, se a cláusula é lançada por endossante ou avalista.

@@ -1,0 +1,2 @@
+Art. 13 As obrigações contraídas no cheque são autônomas e independentes.
+Parágrafo único - A assinatura de pessoa capaz cria obrigações para o signatário, mesmo que o cheque contenha assinatura de pessoas incapazes de se obrigar por cheque, ou assinaturas falsas, ou assinaturas de pessoas fictícias, ou assinaturas que, por qualquer outra razão, não poderiam obrigar as pessoas que assinaram o cheque, ou em nome das quais ele foi assinado.

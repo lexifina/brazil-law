@@ -1,0 +1,2 @@
+Art. 33 O cheque deve ser apresentado para pagamento, a contar do dia da emissão, no prazo de 30 (trinta) dias, quando emitido no lugar onde houver de ser pago; e de 60 (sessenta) dias, quando emitido em outro lugar do País ou no exterior.
+Parágrafo único - Quando o cheque é emitido entre lugares com calendários diferentes, considera-se como de emissão o dia correspondente do calendário do lugar de pagamento.

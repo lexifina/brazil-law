@@ -1,0 +1,2 @@
+Art. 35 O emitente do cheque pagável no Brasil pode revogá-lo, mercê de contra-ordem dada por aviso epistolar, ou por via judicial ou extrajudicial, com as razões motivadoras do ato.
+Parágrafo único - A revogação ou contra-ordem só produz efeito depois de expirado o prazo de apresentação e, não sendo promovida, pode o sacado pagar o cheque até que decorra o prazo de prescrição, nos termos do art. 59 desta Lei.

@@ -1,0 +1,1 @@
+Art. 61 A ação de enriquecimento contra o emitente ou outros obrigados, que se locupletaram injustamente com o não-pagamento do cheque, prescreve em 2 (dois) anos, contados do dia em que se consumar a prescrição prevista no art. 59 e seu parágrafo desta Lei.

@@ -1,0 +1,2 @@
+Art. 24 Desapossado alguém de um cheque, em virtude de qualquer evento, novo portador legitimado não está obrigado a restituí-lo, se não o adquiriu de má-fé.
+Parágrafo único - Sem prejuízo do disposto neste artigo, serão observadas, nos casos de perda, extravio, furto, roubo ou apropriação indébita do cheque, as disposições legais relativas à anulação e substituição de títulos ao portador, no que for aplicável.

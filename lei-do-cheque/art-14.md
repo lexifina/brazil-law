@@ -1,0 +1,1 @@
+Art. 14 Obriga-se pessoalmente quem assina cheque como mandatário ou representante, sem ter poderes para tal, ou excedendo os que lhe foram conferidos. Pagando o cheque, tem os mesmos direitos daquele em cujo nome assinou.
