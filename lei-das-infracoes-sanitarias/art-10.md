@@ -3,8 +3,8 @@ I - construir, instalar ou fazer funcionar, em qualquer parte do território nac
 pena - advertência, interdição, cancelamento de autorização e de licença, e/ou multa.
 II - construir, instalar ou fazer funcionar hospitais, postos ou casas de saúde, clínicas em geral, casas de repouso, serviços ou unidades de saúde, estabelecimentos ou organizações afins, que se dediquem à promoção, proteção e recuperação da saúde, sem licença do órgão sanitário competente ou contrariando normas legais e regulamentares pertinentes:
 pena - advertência, interdição, cancelamento da licença e/ou multa.
-III - instalar consultórios médicos odontológicos, e de quaisquer atividades paramédicas, laboratórios de análises e de pesquisas clínicas, bancos de sangue, de leite humano, de olhos, e estabelecimentos de atividades afins, institutos de esteticismo, ginástica, fisioterapia e de recuperação, balneários, estâncias hidrominerais, termais, climatéricas, de repouso, e de gêneres, gabinetes ou serviços que utilizem aparelhos e equipamentos geradores de raio-X, substâncias radioativas ou radiações ionizantes e outras, estabelecimentos, laboratórios, oficinas e serviços de ótica, de aparelhos ou materiais óticos, de prótese dentária, de aparelhos ou materiais para uso odontológico, ou explorar atividades comerciais, industriais, ou filantrópicas, com a participação de agentes que exerçam profissões ou ocupações técnicas e auxiliares relacionadas com a saúde, sem licença do órgão sanitário competente ou contrariando o disposto nas demais normas legais e regulamentares pertinentes:
-pena - advertência, interdição, cancelamento da licença, e/ou multa;
+III - instalar ou manter em funcionamento consultórios médicos, odontológicos e de pesquisas clínicas, clínicas de hemodiálise, bancos de sangue, de leite humano, de olhos, e estabelecimentos de atividades afins, institutos de esteticismo, ginástica, fisioterapia e de recuperação, balneários, estâncias hidrominerais, termais, climatéricas, de repouso, e congêneres, gabinetes ou serviços que utilizem aparelhos e equipamentos geradores de raios X, substâncias radioativas, ou radiações ionizantes e outras, estabelecimentos, laboratórios, oficinas e serviços de ótica, de aparelhos ou materiais óticos, de prótese dentária, de aparelhos ou materiais para uso odontológico, ou explorar atividades comerciais, industriais, ou filantrópicas, com a participação de agentes que exerçam profissões ou ocupações técnicas e auxiliares relacionadas com a saúde, sem licença do órgão sanitário competente ou contrariando o disposto nas demais normas legais e regulamentares pertinentes:
+Pena - advertência, intervenção, interdição, cancelamento da licença e/ou multa;
 IV - extrair, produzir, fabricar, transformar, preparar, manipular, purificar, fracionar, embalar ou reembalar, importar, exportar, armazenar, expedir, transportar, comprar, vender, ceder ou usar alimentos, produtos alimentícios, medicamentos, drogas, insumos farmacêuticos, produtos dietéticos, de higiene, cosméticos, correlatos, embalagens, saneantes, utensílios e aparelhos que interessem à saúde pública ou individual, sem registro, licença, ou autorizações do órgão sanitário competente ou contrariando o disposto na legislação sanitária pertinente:
 pena - advertência, apreensão e inutilização, interdição, cancelamento do registro, e/ou multa;
 V - fazer propaganda de produtos sob vigilância sanitária, alimentos e outros, contrariando a legislação sanitária:
@@ -18,14 +18,15 @@ pena - advertência, interdição, cancelamento de licença ou autorização, e/
 IX - opor-se à exigência de provas imunológicas ou à sua execução pelas autoridades sanitárias:
 pena - advertência, e/ou multa;
 X - obstar ou dificultar a ação fiscalizadora das autoridades sanitárias competentes no exercício de suas funções:
-pena - advertência, interdição, cancelamento de licença e autorização, e/ou multa;
+Pena - advertência, intervenção, interdição, cancelamento de licença e/ou multa;
 XI - aviar receita em desacordo com prescrições médicas ou determinação expressa de lei e normas regulamentares:
 pena - advertência, interdição, cancelamento de licença, e/ou multa;
 XII - fornecer, vender ou praticar atos de comércio em relação a medicamentos, drogas e correlatos cuja venda e uso dependam de prescrição médica, sem observância dessa exigência e contrariando as normas legais e regulamentares:
+pena - advertência, interdição, cancelamento da licença, e/ou multa;
 XIII - retirar ou aplicar sangue, proceder a operações de plasmaferese, ou desenvolver outras atividades hemoterápicas, contrariando normas legais e regulamentares:
-pena - advertência, interdição, cancelamento da licença e registro, e/ou multa;
+Pena - advertência, intervenção, interdição, cancelamento da licença e registro e/ou multa;
 XIV - exportar sangue e seus derivados, placentas, órgãos, glândulas ou hormônios, bem como quaisquer substâncias ou partes do corgo humano, ou utilizá-los contrariando as disposições legais e regulamentares:
-pena - advertência, interdição, cancelamento de licença e registro, e/ou multa.
+Pena - advertência, intervenção, interdição, cancelamento de licença e registro e/ou multa;
 XV - rotular alimentos e produtos alimentícios ou bebidas bem como medicamentos, drogas, insumos farmacêuticos, produtos dietéticos, de higiene, cosméticos, perfumes, correlatos, saneantes, de correção estética e quaisquer outros contrariando as normas legais e regulamentares:
 pena - advertência, inutilização, interdição, e/ou multa;
 XVI - alterar o processo de fabricação dos produtos sujeitos a controle sanitário, modificar os seus componentes básicos, nome, e demais elementos objeto do registro, sem a necessária autorização do órgão sanitário competente:
