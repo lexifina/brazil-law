@@ -1,6 +1,6 @@
 Art. 51. As receitas decorrentes da venda e da produção sob encomenda de embalagens, pelas pessoas jurídicas industriais ou comerciais e pelos importadores, destinadas ao envasamento dos produtos relacionados no art. 49 desta Lei, ficam sujeitas ao recolhimento da contribuição para o PIS/PASEP e da COFINS fixadas por unidade de produto, respectivamente, em:
 I - lata de alumínio, classificada no código 7612.90.19 da TIPI e lata de aço, classificada no código 7310.21.10 da TIPI, por litro de capacidade nominal de envasamento:
-a) para refrigerantes classificados no código 2202 da TIPI, R$ 0,0170 (dezessete milésimos do real) e R$ 0,0784 (setecentos e oitenta e quatro décimos de milésimos do real); e
+a) para água e refrigerantes classificados nos códigos 22.01 e 22.02 da TIPI, R$ 0,0170 (dezessete milésimos do real) e R$ 0,0784 (setecentos e oitenta e quatro décimos de milésimo do real); e
 b) para bebidas classificadas no código 2203 da TIPI, R$ 0,0294 (duzentos e noventa e quatro décimos de milésimo do real) e R$ 0,1360 (cento e trinta e seis milésimos do real);
 II - embalagens para água e refrigerantes classificados nos códigos 22.01 e 22.02 da TIPI:
 a) classificadas no código TIPI 3923.30.00: R$ 0,0170 (dezessete milésimos do real) e R$ 0,0784 (setecentos e oitenta e quatro décimos de milésimo do real), por litro de capacidade nominal de envasamento da embalagem final; e
