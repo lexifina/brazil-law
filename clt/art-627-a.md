@@ -1,0 +1,1 @@
+Art. 627-A. Poderá ser instaurado procedimento especial para a ação fiscal, objetivando a orientação sobre o cumprimento das leis de proteção ao trabalho, bem como a prevenção e o saneamento de infrações à legislação mediante Termo de Compromisso, na forma a ser disciplinada no Regulamento da Inspeção do Trabalho.

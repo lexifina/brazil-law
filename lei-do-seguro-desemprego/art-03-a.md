@@ -1,0 +1,1 @@
+Art. 3º-A. A periodicidade, os valores, o cálculo do número de parcelas e os demais procedimentos operacionais de pagamento da bolsa de qualificação profissional, nos termos do art. 2º-A desta Lei, bem como os pré-requisitos para habilitação serão os mesmos adotados em relação ao benefício do Seguro-Desemprego, exceto quanto à dispensa sem justa causa.

@@ -1,0 +1,2 @@
+Art. 19-A. É devido o depósito do FGTS na conta vinculada do trabalhador cujo contrato de trabalho seja declarado nulo nas hipóteses previstas no art. 37, § 2º, da Constituição Federal, quando mantido o direito ao salário.
+Parágrafo único. O saldo existente em conta vinculada, oriundo de contrato declarado nulo até 28 de julho de 2001, nas condições do caput, que não tenha sido levantado até essa data, será liberado ao trabalhador a partir do mês de agosto de 2002.
