@@ -1,0 +1,31 @@
+DESPACHO: 1. O acórdão recorrido, em ação ajuizada por
+titular de conta vinculada ao FGTS que visava a assegurar o cômputo
+dos índices inflacionários expurgados da correção monetária dos
+depósitos, decidiu que ele tem direito adquirido aos índices
+pleiteados quanto aos Planos Bresser, Verão, Collor I (no
+concernente aos meses de abril e de maio de 1990) e Collor II.
+Contra essa decisão foram interpostos, mas não admitidos,
+recursos especial e extraordinário, sendo que neste se alegou
+violação do artigo 5º, XXXVI, da Constituição entre outros.
+O recurso extraordinário, porém, subiu a esta Corte em
+virtude do provimento de agravo.
+2. Das questões constitucionais invocadas no recurso
+extraordinário, a única que foi prequestionada, porque ventilada no
+acórdão recorrido, é a relativa ao artigo 5º, XXXVI, da
+Constituição.
+3.      Ora, o Plenário desta Corte, ao julgar o RE 226.855,
+considerou que a questão relativa aos Planos Verão e Collor I
+(quanto ao mês de abril de 1990)se situava exclusivamente no terreno
+legal infraconstitucional, e,  com o fundamento da inexistência de
+direito adquirido a regime jurídico, firmou o entendimento de que
+não há direito adquirido ao índice adotado pelo acórdão recorrido
+para a atualização no que diz respeito aos Planos Bresser, Collor I
+(no tocante ao mês de maio de 1990) e Collor II, razão por que
+conheço em parte do recurso extraordinário e nela lhe dou provimento
+para excluir da condenação essas atualizações (as dos Planos
+Bresser, Collor I, no concernente ao mês de maio de 1990, e Collor
+II), repartindo-se e compensando-se as custas e os honorários  de
+advogado na proporção das sucumbências.
+Brasília, 12 de dezembro de 2001.
+Ministro MOREIRA ALVES
+Relator
