@@ -1,0 +1,2 @@
+Reduz o imposto de importação para os produtos que especifica e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.536-22, de 1997, que o Congresso Nacional aprovou, e eu, Geraldo Melo, Primeiro Vice-Presidente do Senado Federal, no exercício da Presidência, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
