@@ -1,0 +1,7 @@
+Ato Declaratório Normativo Cosit nº 18, de 27 de setembro de 2000
+Dispõe sobre o percentual de determinação do lucro presumido aplicável à atividade gráfica e dá outras providências.
+O COORDENADOR-GERAL SUBSTITUTO DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o art. 199, inciso IV, do Regimento Interno aprovado pela Portaria MF No 227, de 3 de setembro de 1998, e tendo em vista o disposto no art. 15 da Lei No 9.249, de 26 de dezembro de 1995; na IN SRF/STN/SFC No 04, de 18 de agosto de 1997; e na IN SRF No 28, de 1o de março de 1999, declara, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados que:
+I - A atividade gráfica pode configurar-se como industrial, comercial ou de prestação de serviços. Consideram-se como prestação de serviços as operações realizadas por encomenda, nos termos do art. 5o, V, c/c art. 7o, II, do Decreto No 2.637, de 1998.
+II - A alíquota aplicável, na apuração do lucro presumido, será de 8%, quando atuar nas áreas comercial e industrial, sendo aplicada a de 32% na hipótese de prestação de serviços com ou sem fornecimento de material.
+III - Os percentuais constantes do anexo I da IN SRF/STN/SFC No 04, de 1997, com a alteração introduzida pela IN SRF No 28, de 1999, aplicáveis à atividade gráfica serão de 9,45%, na hipótese de prestação de serviços sem fornecimento de material, e de 5,85% nas demais hipóteses.
+NEWTON REPIZO DE OLIVEIRA
