@@ -1,0 +1,1 @@
+Art. 4º - A transferência deverá ser feita com o montante dos créditos simples e imobiliários concedidos pelo Instituto de Aposentadoria e Pensões dos Comerciários aos segurados transferidos pela presente lei.

@@ -1,0 +1,1 @@
+Art. 2º - A transferência prevista no art. 1º obedecerá à legislação em vigor (Dec. Lei nº 120, de 21 de setembro de 1938 e Dec. Lei nº 8.807, de 24 de janeiro de 1946), naquilo em que não infringir o disposto nos subsequentes artigos desta lei.
