@@ -1,0 +1,1 @@
+Art. 7º Perde-se a qualificação de Organização da Sociedade Civil de Interesse Público, a pedido ou mediante decisão proferida em processo administrativo ou judicial, de iniciativa popular ou do Ministério Público, no qual serão assegurados, ampla defesa e o devido contraditório.

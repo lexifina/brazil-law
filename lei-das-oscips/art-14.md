@@ -1,0 +1,1 @@
+Art. 14. A organização parceira fará publicar, no prazo máximo de trinta dias, contado da assinatura do Termo de Parceria, regulamento próprio contendo os procedimentos que adotará para a contratação de obras e serviços, bem como para compras com emprego de recursos provenientes do Poder Público, observados os princípios estabelecidos no inciso I do art. 4º desta Lei.

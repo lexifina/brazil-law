@@ -1,0 +1,1 @@
+Art. 16. É vedada às entidades qualificadas como Organizações da Sociedade Civil de Interesse Público a participação em campanhas de interesse político-partidário ou eleitorais, sob quaisquer meios ou formas.
