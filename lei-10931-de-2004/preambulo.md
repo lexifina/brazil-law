@@ -1,0 +1,2 @@
+Dispõe sobre o patrimônio de afetação de incorporações imobiliárias, Letra de Crédito Imobiliário, Cédula de Crédito Imobiliário, Cédula de Crédito Bancário, altera o Decreto-Lei nº 911, de 1º de outubro de 1969, as Leis nº 4.591, de 16 de dezembro de 1964, nº 4.728, de 14 de julho de 1965, e nº 10.406, de 10 de janeiro de 2002, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:

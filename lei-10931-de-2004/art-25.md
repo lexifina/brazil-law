@@ -1,0 +1,1 @@
+Art. 25. É vedada a averbação da emissão de CCI com garantia real quando houver prenotação ou registro de qualquer outro ônus real sobre os direitos imobiliários respectivos, inclusive penhora ou averbação de qualquer mandado ou ação judicial.

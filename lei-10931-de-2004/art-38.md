@@ -1,0 +1,1 @@
+Art. 38. Nos casos previstos nos arts. 36 e 37 desta Lei, facultar-se-á ao credor exigir a substituição da garantia, ou o seu reforço, renunciando ao direito à percepção do valor relativo à indenização.

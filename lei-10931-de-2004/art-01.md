@@ -1,0 +1,1 @@
+Art. 1º Fica instituído o regime especial de tributação aplicável às incorporações imobiliárias, em caráter opcional e irretratável enquanto perdurarem direitos de crédito ou obrigações do incorporador junto aos adquirentes dos imóveis que compõem a incorporação.

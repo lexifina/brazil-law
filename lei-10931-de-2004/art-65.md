@@ -1,0 +1,1 @@
+Art. 65. O Conselho Monetário Nacional e a Secretaria da Receita Federal, no âmbito das suas respectivas atribuições, expedirão as instruções que se fizerem necessárias à execução das disposições desta Lei.

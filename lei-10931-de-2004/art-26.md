@@ -1,0 +1,3 @@
+Art. 26. A Cédula de Crédito Bancário é título de crédito emitido, por pessoa física ou jurídica, em favor de instituição financeira ou de entidade a esta equiparada, representando promessa de pagamento em dinheiro, decorrente de operação de crédito, de qualquer modalidade.
+§ 1º A instituição credora deve integrar o Sistema Financeiro Nacional, sendo admitida a emissão da Cédula de Crédito Bancário em favor de instituição domiciliada no exterior, desde que a obrigação esteja sujeita exclusivamente à lei e ao foro brasileiros.
+§ 2º A Cédula de Crédito Bancário em favor de instituição domiciliada no exterior poderá ser emitida em moeda estrangeira.

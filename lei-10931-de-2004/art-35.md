@@ -1,0 +1,3 @@
+Art. 35. Os bens constitutivos de garantia pignoratícia ou objeto de alienação fiduciária poderão, a critério do credor, permanecer sob a posse direta do emitente ou do terceiro prestador da garantia, nos termos da cláusula de constituto possessório, caso em que as partes deverão especificar o local em que o bem será guardado e conservado até a efetiva liquidação da obrigação garantida.
+§ 1º O emitente e, se for o caso, o terceiro prestador da garantia responderão solidariamente pela guarda e conservação do bem constitutivo da garantia.
+§ 2º Quando a garantia for prestada por pessoa jurídica, esta indicará representantes para responder nos termos do § 1º.

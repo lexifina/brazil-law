@@ -1,0 +1,1 @@
+Art. 40. Nas operações de crédito rotativo, o limite de crédito concedido será recomposto, automaticamente e durante o prazo de vigência da Cédula de Crédito Bancário, sempre que o devedor, não estando em mora ou inadimplente, amortizar ou liquidar a dívida.

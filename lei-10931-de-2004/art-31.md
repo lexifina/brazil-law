@@ -1,0 +1,1 @@
+Art. 31. A garantia da Cédula de Crédito Bancário poderá ser fidejussória ou real, neste último caso constituída por bem patrimonial de qualquer espécie, disponível e alienável, móvel ou imóvel, material ou imaterial, presente ou futuro, fungível ou infungível, consumível ou não, cuja titularidade pertença ao próprio emitente ou a terceiro garantidor da obrigação principal.
