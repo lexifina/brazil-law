@@ -1,0 +1,7 @@
+Art. 27. Às pessoas físicas ou jurídicas que tiverem requerido um pedido de proteção em país que mantenha acordo com o Brasil ou em organização internacional da qual o Brasil faça parte e que produza efeito de depósito nacional, será assegurado direito de prioridade durante um prazo de até doze meses.
+§ 1º Os fatos ocorridos no prazo previsto no caput, tais como a apresentação de outro pedido de proteção, a publicação ou a utilização da cultivar objeto do primeiro pedido de proteção, não constituem motivo de rejeição do pedido posterior e não darão origem a direito a favor de terceiros.
+§ 2º O prazo previsto no caput será contado a partir da data de apresentação do primeiro pedido, excluído o dia de apresentação.
+§ 3º Para beneficiar-se das disposições do caput, o requerente deverá:
+I - mencionar, expressamente, no requerimento posterior de proteção, a reivindicação de prioridade do primeiro pedido;
+II - apresentar, no prazo de até três meses, cópias dos documentos que instruíram o primeiro pedido, devidamente certificadas pelo órgão ou autoridade ante a qual tenham sido apresentados, assim como a prova suficiente de que a cultivar objeto dos dois pedidos é a mesma.
+§ 4º As pessoas físicas ou jurídicas mencionadas no caput deste artigo terão um prazo de até dois anos após a expiração do prazo de prioridade para fornecer informações, documentos complementares ou amostra viva, caso sejam exigidos.

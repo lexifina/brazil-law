@@ -1,0 +1,4 @@
+Art. 20. O Certificado de Proteção de Cultivar será imediatamente expedido depois de decorrido o prazo para recurso ou, se este interposto, após a publicação oficial de sua decisão.
+§ 1º Deferido o pedido e não havendo recurso tempestivo, na forma do § 7º do art. 18, a publicação será efetuada no prazo de até quinze dias.
+§ 2º Do Certificado de Proteção de Cultivar deverão constar o número respectivo, nome e nacionalidade do titular ou, se for o caso, de seu herdeiro, sucessor ou cessionário, bem como o prazo de duração da proteção.
+§ 3º Além dos dados indicados no parágrafo anterior, constarão do Certificado de Proteção de Cultivar o nome do melhorista e, se for o caso, a circunstância de que a obtenção resultou de contrato de trabalho ou de prestação de serviços ou outra atividade laboral, fato que deverá ser esclarecido no respectivo pedido de proteção.

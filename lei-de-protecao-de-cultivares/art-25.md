@@ -1,0 +1,1 @@
+Art. 25. A requerimento de qualquer pessoa, com legítimo interesse, que tenha ajuizado ação judicial relativa à ineficácia dos atos referentes a pedido de proteção, de transferência de titularidade ou alteração de nome, endereço ou sede de titular, poderá o juiz ordenar a suspensão do processo de proteção, de anotação ou averbação, até decisão final.

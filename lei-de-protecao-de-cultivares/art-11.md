@@ -1,0 +1,1 @@
+Art. 11. A proteção da cultivar vigorará, a partir da data da concessão do Certificado Provisório de Proteção, pelo prazo de quinze anos, excetuadas as videiras, as árvores frutíferas, as árvores florestais e as árvores ornamentais, inclusive, em cada caso, o seu porta-enxerto, para as quais a duração será de dezoito anos.
