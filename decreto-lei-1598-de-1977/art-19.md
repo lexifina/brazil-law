@@ -1,5 +1,5 @@
-Art. 19 - Considera-se lucro da exploração o lucro líquido do exercício ajustado pela exclusão dos seguintes valores:
-I - a diferença positiva entre a soma das receitas financeiras (art. 17) com as variações monetárias ativas (art. 18) e a soma das despesas financeiras (art. 17, parágrafo único) com as variações monetárias passivas (art. 18, parágrafo único).
+Art. 19. Considera-se lucro da exploração o lucro líquido do período-base ajustado pela exclusão dos seguintes valores:
+I - a parte das receitas financeiras que exceder das despesas financeiras, sendo que, no caso de operações prefixadas, considera-se receita ou despesa financeira a parcela que exceder, no mesmo período, à correção monetária dos valores aplicados;
 II - os rendimentos e prejuízos das participações societárias; e
 III - os resultados não operacionais.
 § 1º - Aplicam-se ao lucro da exploração:
