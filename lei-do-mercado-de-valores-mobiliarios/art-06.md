@@ -1,6 +1,8 @@
-Art. 6º A Comissão de Valores Mobiliários será administrada por um presidente e quatro diretores, nomeados pelo Presidente da República, dentre pessoas de ilibada reputação e reconhecida competência em matéria de mercado de capitais.
-§ 1º O presidente e os diretores serão substituídos, em suas faltas, na forma do regimento interno, e serão demissíveis ad nutum.
-§ 2º O presidente da Comissão terá assento no Conselho Monetário Nacional, com direito a voto.
-§ 3º A Comissão funcionará como órgão de deliberação colegiada de acordo com o regimento interno previamente aprovado pele Ministro da Fazenda, e no qual serão fixadas as atribuições do presidente, dos diretores e do colegiado.
-§ 4º O quadro permanente de pessoal da Comissão será constituído de empregos regidos pela legislação trabalhista, cujo provimento, excetuadas as funções de confiança, será feito mediante concurso público.
+Art. 6º A Comissão de Valores Mobiliários será administrada por um Presidente e quatro Diretores, nomeados pelo Presidente da República, depois de aprovados pelo Senado Federal, dentre pessoas de ilibada reputação e reconhecida competência em matéria de mercado de capitais.
+§ 1º O mandato dos dirigentes da Comissão será de cinco anos, vedada a recondução, devendo ser renovado a cada ano um quinto dos membros do Colegiado.
+§ 2º Os dirigentes da Comissão somente perderão o mandato em virtude de renúncia, de condenação judicial transitada em julgado ou de processo administrativo disciplinar.
+§ 3º Sem prejuízo do que prevêem a lei penal e a lei de improbidade administrativa, será causa da perda do mandato a inobservância, pelo Presidente ou Diretor, dos deveres e das proibições inerentes ao cargo.
+§ 4º Cabe ao Ministro de Estado da Fazenda instaurar o processo administrativo disciplinar, que será conduzido por comissão especial, competindo ao Presidente da República determinar o afastamento preventivo, quando for o caso, e proferir o julgamento.
+§ 5º No caso de renúncia, morte ou perda de mandato do Presidente da Comissão de Valores Mobiliários, assumirá o Diretor mais antigo ou o mais idoso, nessa ordem, até nova nomeação, sem prejuízo de suas atribuições.
+§ 6º No caso de renúncia, morte ou perda de mandato de Diretor, proceder-se-á à nova nomeação pela forma disposta nesta Lei, para completar o mandato do substituído.
 § 7º A Comissão funcionará como órgão de deliberação colegiada de acordo com o seu regimento interno, e no qual serão fixadas as atribuições do Presidente, dos Diretores e do Colegiado.
