@@ -1,0 +1,5 @@
+Artigo 5º - Poderão optar pelo sistema retribuitório de que trata esta lei os atuais aposentados e pensionistas da Estrada de Ferro Campos do Jordão que eram regidos, quando em atividade, pelo Estatuto dos Ferroviários.
+§ 1º - A opção prevista neste artigo deverá ser manifestada perante a direção da Estrada de Ferro Campos do Jordão dentro de 90 (noventa) dias contados da data da publicação desta lei.
+§ 2º - O cálculo das aposentadorias e pensões do pessoal abrangido por este artigo será efetuado com base nas denominações constantes dos Anexos VII e VIII que fazem parte integrante desta lei, aplicáveis, respectivamente, aos aposentados e pensionistas.
+§ 3º - Identificada a Escala Salarial e a referência numérica aplicáveis, a classificação do aposentado ou pensionista em um dos níveis da mesma referência far-se-á de acordo com o tempo de serviço público prestado ao Estado, na forma prevista no artigo 3º destas Disposições Transitórias.
+§ 4º - Aos aposentados e aos pensionistas da Estrada de Ferro Campos do Jordão a que se refere este artigo fica assegurado o direito à complementação de aposentadoria e pensão na forma prevista no artigo anterior.

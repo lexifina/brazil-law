@@ -1,0 +1,1 @@
+Artigo 2º - Recebida a comunicação a que alude o artigo anterior o servidor ferroviário que desejar a aplicação das disposições desta lei deverá, no prazo de 90 (noventa) dias contados da publicação desta mesma lei, manifestar opção por escrito.
