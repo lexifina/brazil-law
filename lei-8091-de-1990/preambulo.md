@@ -1,0 +1,2 @@
+Concede antecipação de reajuste salarial aos servidores civis e militares do Poder Executivo, na Administração direta, nas autarquias, inclusive as em regime especial, nas fundações públicas e nos extintos Territórios.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória n° 247, de 1990, que o Congresso Nacional aprovou, e eu, IRAM SARAIVA, 1° Vice-Presidente do Senado Federal, no exercício da Presidência, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
