@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 36, de 23 de março de 2000
+Estabelece normas relativas ao Imposto sobre Produtos Industrializados no que tange ao aproveitamento do crédito do IPI relativo aos produtos mantidos em estoque, quando o estabelecimento torna-se equiparado a industrial por força de Lei.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da competência conferida pelo art. 190, inciso III, do Regimento Interno da SRF, aprovado pela Portaria 227, de 03 de setembro de 1998, considerando o disposto no art. 12 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 40 da Medida Provisória nº 1.991-15, de 10 de março de 2000, no art. 12 , inciso II, do Decreto nº 2.637, de 25, de junho de 1998, RESOLVE:
