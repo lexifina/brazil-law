@@ -1,0 +1,1 @@
+Art. 15. A pessoa jurídica domiciliada no Brasil que auferir, de fonte no exterior, receita decorrente da prestação de serviços efetuada diretamente poderá compensar o imposto pago no país de domicílio da pessoa física ou jurídica contratante, observado o disposto no art. 26 da Lei nº 9.249, de 26 de dezembro de 1995.

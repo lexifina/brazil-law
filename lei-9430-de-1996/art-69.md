@@ -1,0 +1,1 @@
+Art. 69. É responsável pela retenção e recolhimento do imposto de renda na fonte, incidente sobre os rendimentos auferidos pelas fundos, sociedades de investimentos e carteiras de que trata o art. 81 da Lei nº 8.981, de 20 de janeiro de 1995, a pessoa jurídica que efetuar o pagamento dos rendimentos.
