@@ -1,0 +1,11 @@
+Artigo 2º - Os funcionários e servidores ocupantes dos cargos e funções-atividades constantes do Anexo I - Anexo de Enquadramento das Classes Nível Superior terão o nível de seu cargo ou função-atividade determinado, mediante aplicação das seguintes regras:
+I - para apuração do total de pontos:
+a) multiplicar-se-á por 5 (cinco) a referência em que se encontrar enquadrado, no último dia do mês anterior ao da publicação desta lei complementar, nos termos da legislação em vigor, o cargo efetivo do funcionário ou a função-atividade de natureza permanente do servidor, subtraindo-se do resultado o número de pontos atribuídos a título de adicional por tempo de serviço;
+b) multiplicar-se-á por 5 (cinco) a referência inicial do cargo do funcionário ou função-atividade do servidor, subtraindo-se esse resultado dos pontos apurados na forma da alínea anterior;
+c) multiplicar-se-ão os anos de exercício no cargo ou na função-atividade pelo coeficiente 1,67 (um inteiro e sessenta e sete centésimos), adicionando-se esse resultado aos pontos obtidos na forma da alínea anterior;
+d) para os fins do disposto na alínea anterior, considera-se também como tempo de exercício:
+1. o tempo de serviço prestado em cargo ou função-atividade de mesma denominação;
+2. o tempo de serviço prestado em cargo ou função-atividade cuja denominação foi alterada para a do cargo ou função-atividade atualmente ocupado;
+e) à contagem de tempo de serviço de que tratam as alíneas anteriores aplica-se o disposto no artigo 77 e seus parágrafos da Lei nº 10.261, de 28 de outubro de 1968;
+II - o nível será determinado de acordo com a velocidade evolutiva do cargo efetivo do funcionário ou da função-atividade do servidor e o número total dos pontos apurados na forma do inciso anterior, na conformidade do Anexo VI que faz parte integrante desta lei complementar.
+Parágrafo único - Na aplicação da alínea "c" do inciso I, considerar-se-á até a segunda casa decimal.

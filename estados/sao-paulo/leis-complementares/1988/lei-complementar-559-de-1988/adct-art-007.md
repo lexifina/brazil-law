@@ -1,0 +1,1 @@
+Artigo 7º - A função-atividade de Assistente Técnico de Gabinete I, do SQF-II, A-I, VE-1, EV-4, referências 10 a 25, fica enquadrada na classe de Agente da Administração Pública, Faixa 6, Nível II, da Escala de Vencimentos Nível Superior.

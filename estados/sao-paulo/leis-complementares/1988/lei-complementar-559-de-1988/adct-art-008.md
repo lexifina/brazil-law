@@ -1,0 +1,1 @@
+Artigo 8º - A função-atividade de Assessor Técnico, do SQF-II, EV-4, referências 20 a 35, A-I, VE-I, fica enquadrada na classe de Agente do Serviço Civil, SQF-II, Faixa 9, Nível VI da Escala de Vencimentos Nível Superior.

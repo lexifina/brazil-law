@@ -1,0 +1,1 @@
+Artigo 3º - O cargo ou função-atividade ficará enquadrado na faixa e nível determinados nos artigos anteriores e na tabela da Escala de Vencimentos Nível Superior, de acordo com a jornada a que estiver sujeito o funcionário ou servidor.

@@ -1,0 +1,1 @@
+Artigo 12 - os proventos daqueles que ao passarem à inatividade eram titulares de cargos de que cuida o artigo 1º destas disposições transitórias, serão revistos e calculados na conformidade do previsto nos artigos 2º a 6º, também destas disposições transitórias.
