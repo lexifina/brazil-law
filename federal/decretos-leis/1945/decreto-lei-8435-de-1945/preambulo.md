@@ -1,0 +1,4 @@
+DECRETO-LEI N. 8.435 – DE 24 DE DEZEMBRO DE 1945
+Autoriza o Prefeito do Distrito Federal a realizar a permuta dos terrenos que menciona.
+O Presidente da República, usando da faculdade que lhe confere o artigo 180 da Constituição, e nos têrmos do art. 31 do Decreto-lei nº 96, de 22 de dezembro de 1937,
+decreta:
