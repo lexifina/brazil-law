@@ -1,0 +1,8 @@
+Art. 10. Os Estados incumbir-se-ão de:
+I - organizar, manter e desenvolver os órgãos e instituições oficiais dos seus sistemas de ensino;
+II - definir, com os Municípios, formas de colaboração na oferta do ensino fundamental, as quais devem assegurar a distribuição proporcional das responsabilidades, de acordo com a população a ser atendida e os recursos financeiros disponíveis em cada uma dessas esferas do Poder Público;
+III - elaborar e executar políticas e planos educacionais, em consonância com as diretrizes e planos nacionais de educação, integrando e coordenando as suas ações e as dos seus Municípios;
+IV - autorizar, reconhecer, credenciar, supervisionar e avaliar, respectivamente, os cursos das instituições de educação superior e os estabelecimentos do seu sistema de ensino;
+V - baixar normas complementares para o seu sistema de ensino;
+VI - assegurar o ensino fundamental e oferecer, com prioridade, o ensino médio.
+Parágrafo único. Ao Distrito Federal aplicar-se-ão as competências referentes aos Estados e aos Municípios.

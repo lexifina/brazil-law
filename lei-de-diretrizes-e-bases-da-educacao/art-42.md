@@ -1,0 +1,1 @@
+Art. 42. As escolas técnicas e profissionais, além dos seus cursos regulares, oferecerão cursos especiais, abertos à comunidade, condicionada a matrícula à capacidade de aproveitamento e não necessariamente ao nível de escolaridade.

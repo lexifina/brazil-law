@@ -1,0 +1,3 @@
+Art. 23. A educação básica poderá organizar-se em séries anuais, períodos semestrais, ciclos, alternância regular de períodos de estudos, grupos não-seriados, com base na idade, na competência e em outros critérios, ou por forma diversa de organização, sempre que o interesse do processo de aprendizagem assim o recomendar.
+§ 1º A escola poderá reclassificar os alunos, inclusive quando se tratar de transferências entre estabelecimentos situados no País e no exterior, tendo como base as normas curriculares gerais.
+§ 2º O calendário escolar deverá adequar-se às peculiaridades locais, inclusive climáticas e econômicas, a critério do respectivo sistema de ensino, sem com isso reduzir o número de horas letivas previsto nesta Lei.
