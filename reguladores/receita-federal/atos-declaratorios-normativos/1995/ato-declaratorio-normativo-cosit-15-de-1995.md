@@ -1,0 +1,6 @@
+Ato Declaratório Normativo Cosit nº 15, de 17 de abril de 1995
+Dispõe sobre as condições para gozo dos benefícios fiscais de que trata a Lei nº 8.248, de 23 de outubro de 1991.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o art. 147, inciso III, do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MEFP nº 606, de 3 de setembro de 1992 e tendo em vista o disposto nos arts. 6º, 7º e 8º da Lei nº 8.248, de 23 de outubro de 1991,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal e aos demais interessados que: As pessoas jurídicas que estiverem em gozo dos benefícios fiscais estabelecidos pela Lei nº 8.248/91 (Estímulo a Atividades de Informática e Automação), bem como as emitentes de ações novas de que trata o art. 7º do mesmo diploma legal deverão apresentar ao Ministêrio da Ciência e Tecnologia, até a data fixada para apresentação da declaração anual de rendimentos, os relatórios comprobatórios do atendimento das condições regulamentadas nos arts. 7º e 8º do Decreto nº 792, de 2 de abril de 1993.
+2. A não apresentação dos relatórios nos prazos fixados determinará a revogação do ato concessório dos benefícios.
+ARISTÓFANES FONTOURA DE HOLANDA
