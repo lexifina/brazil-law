@@ -1,0 +1,1 @@
+Art. 59. Decorridos esses prazos, com o libelo e a contrariedade ou sem eles, serão os autos remetidos, em original, ao Presidente do Supremo Tribunal Federal, ou ao seu substituto legal, quando seja ele o denunciado, comunicando-se-lhe o dia designado para o julgamento e convidando-o para presidir a sessão.

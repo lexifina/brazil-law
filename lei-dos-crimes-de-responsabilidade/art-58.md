@@ -1,0 +1,1 @@
+Art. 58. Intimado o denunciante ou o seu procurador da decisão a que aludem os três últimos artigos, ser-lhe-á dada vista do processo, na Secretaria do Senado, para, dentro de 48 horas, oferecer o libelo acusatório e o rol das testemunhas. Em seguida abrir-se-á vista ao denunciado ou ao seu defensor, pelo mesmo prazo para oferecer a contrariedade e o rol das testemunhas.

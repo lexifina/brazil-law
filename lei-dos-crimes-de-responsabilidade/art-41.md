@@ -1,0 +1,1 @@
+Art. 41. É permitido a todo cidadão denunciar perante o Senado Federal, os Ministros do Supremo Tribunal Federal e o Procurador Geral da República, pêlos crimes de responsabilidade que cometerem (artigos 39 e 40).

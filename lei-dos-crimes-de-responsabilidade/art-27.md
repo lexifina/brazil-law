@@ -1,0 +1,1 @@
+Art. 27. No dia aprazado para o julgamento, presentes o acusado, seus advogados, ou o defensor nomeado a sua revelia, e a comissão acusadora, o Presidente do Supremo Tribunal Federal, abrindo a sessão, mandará ler o processo preparatório o libelo e os artigos de defesa; em seguida inquirirá as testemunhas, que deverão depor publicamente e fora da presença umas das outras.
