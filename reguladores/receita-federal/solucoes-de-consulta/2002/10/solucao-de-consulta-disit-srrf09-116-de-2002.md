@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF09 nº 116, de 15 de agosto de 2002
+ASSUNTO: Imposto sobre Produtos Industrializados - IPI EMENTA: Industrialização. Aposição de Rótulos. A simples remessa, por parte da contratante, de rótulos a serem aplicados em garrafas de vinho industrializado por estabelecimento industrial contratado, não configura a hipótese de industrialização por encomenda prevista no art. 9º, inciso IV, do Decreto nº 2.637/98 (RIPI/98). DISPOSITIVOS LEGAIS: Regulamento do Imposto sobre Produtos Industrializados - RIPI/98, aprovado pelo Decreto nº 2.637/98, art. 9º, inciso IV, e Parecer Normativo CST nº 520/71.
+[arquivo anexo: SC SRRF09-Disit nº 116-2002.pdf]
