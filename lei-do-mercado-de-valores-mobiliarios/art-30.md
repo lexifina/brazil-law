@@ -1,1 +1,0 @@
-Art. 30. Os servidores do Banco Central do Brasil, que forem colocados à disposição da Comissão, para o exercício de funções técnicas ou de confiança, poderão optar pela percepção da retribuição, inclusive vantagens, a que façam jus no órgão de origem.

@@ -17,5 +17,9 @@ Da Administração de Carteiras e Custódia de Valores Mobiliários
 CAPíTULO VII
 Dos Auditores Independentes, Consultores e
 Analistas de Valores Mobiliários
+CAPÍTULO VII-A
+DO COMITÊ DE PADRÕES CONTÁBEIS
+CAPÍTULO VII-B
+DOS CRIMES CONTRA O MERCADO DE CAPITAIS
 CAPÍTULO VIII
 Das Disposições Finais e Transitórias

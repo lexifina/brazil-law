@@ -5,6 +5,7 @@ III - assegurar o funcionamento eficiente e regular dos mercados da bolsa e de b
 IV - proteger os titulares de valores mobiliários e os investidores do mercado contra:
 a) emissões irregulares de valores mobiliários;
 b) atos ilegais de administradores e acionistas controladores das companhias abertas, ou de administradores de carteira de valores mobiliários.
+c) o uso de informação relevante não divulgada no mercado de valores mobiliários.
 V - evitar ou coibir modalidades de fraude ou manipulação destinadas a criar condições artificiais de demanda, oferta ou preço dos valores mobiliários negociados no mercado;
 VI - assegurar o acesso do público a informações sobre os valores mobiliários negociados e as companhias que os tenham emitido;
 VII - assegurar a observância de práticas comerciais equitativas no mercado de valores mobiliários;
