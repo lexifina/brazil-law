@@ -1,0 +1,3 @@
+Art. 25. As prorrogações de prazo, de que trata esta Lei, somente terão eficácia com assinatura de contratos de concessão que contenham cláusula de renúncia a eventuais direitos preexistentes que contrariem a Lei nº 8.987, de 1995.
+§ 1º Os contratos de concessão e permissão conterão, além do estabelecido na legislação em vigor, cláusulas relativas a requisitos mínimos de desempenho técnico do concessionário ou permissionário, bem assim, sua aferição pela fiscalização através de índices apropriados.
+§ 2º No contrato de concessão ou permissão, as cláusulas relativas à qualidade técnica, referidas no parágrafo anterior, serão vinculadas a penalidades progressivas, que guardarão proporcionalidade com o prejuízo efetivo ou potencial causado ao mercado.
