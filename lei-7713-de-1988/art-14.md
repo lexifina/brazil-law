@@ -1,6 +1,6 @@
 Art. 14. Na determinação da base de cálculo sujeita à incidência mensal do imposto de renda poderão ser deduzidas:
 I - no que exceder a cinco por cento do rendimento bruto do contribuinte, a parte dos pagamentos feitos pela pessoa física, no mês, a médicos, dentistas, psicólogos, fisioterapeuta, terapeutas ocupacionais e hospitais;
-II - a quantia equivalente a trinta BTN por dependente, no mês, até o limite de cinco dependentes;
+II - a quantia equivalente a 40 BTN por dependente, no mês, até o limite de cinco dependentes;
 § 1º O disposto no inciso I deste artigo aplica-se também aos pagamentos feitos a empresas brasileiras, ou autorizadas a funcionar no País, destinados à cobertura de despesas com hospitalização e cuidados médicos e dentários, e a entidades que assegurem direito de atendimento ou ressarcimento de despesas de natureza médica, odontológica e hospitalar.
 § 2º Quando o montante dos pagamentos a que se refere este artigo ultrapassar o valor da base de cálculo do imposto, em cada mês, o excedente, corrigido monetariamente, poderá ser deduzido no mês subseqüente, no que ultrapassar a cinco por cento do rendimento bruto do mês de dedução.
 § 3º Não se incluem entre as deduções de que trata este artigo as despesas cobertas por apólices de seguro ou quando ressarcidas por entidades de qualquer espécie.
