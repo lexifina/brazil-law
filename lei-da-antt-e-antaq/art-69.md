@@ -1,0 +1,1 @@
+Art. 69. A ANTT e a ANTAQ terão suas relações de trabalho regidas pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 - Consolidação das Leis do Trabalho, e legislação correlata, em regime de emprego público.

@@ -1,0 +1,2 @@
+Art. 99. O Poder Executivo promoverá a instalação do CONIT, da ANTT, da ANTAQ e do DNIT, mediante a aprovação de seus regulamentos e de suas estruturas regimentais, em até noventa dias, contados a partir da data de publicação desta Lei.
+Parágrafo único. A publicação dos regulamentos e das estruturas regimentais marcará a instalação dos órgãos referidos no caput e o início do exercício de suas respectivas atribuições.

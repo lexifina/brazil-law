@@ -1,0 +1,1 @@
+Art. 52. A ANTT e a ANTAQ terão Diretorias atuando em regime de colegiado como órgãos máximos de suas estruturas organizacionais, as quais contarão também com um Procurador-Geral, um Ouvidor e um Corregedor.

@@ -1,0 +1,1 @@
+Art. 47. A empresa autorizada não terá direito adquirido à permanência das condições vigentes quando da outorga da autorização ou do início das atividades, devendo observar as novas condições impostas por lei e pela regulamentação, que lhe fixará prazo suficiente para adaptação.
