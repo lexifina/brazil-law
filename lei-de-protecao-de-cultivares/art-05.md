@@ -1,0 +1,4 @@
+Art. 5º À pessoa física ou jurídica que obtiver nova cultivar ou cultivar essencialmente derivada no País será assegurada a proteção que lhe garanta o direito de propriedade nas condições estabelecidas nesta Lei.
+§ 1º A proteção poderá ser requerida por pessoa física ou jurídica que tiver obtido cultivar, por seus herdeiros ou sucessores ou por eventuais cessionários mediante apresentação de documento hábil.
+§ 2º Quando o processo de obtenção for realizado por duas ou mais pessoas, em cooperação, a proteção poderá ser requerida em conjunto ou isoladamente, mediante nomeação e qualificação de cada uma, para garantia dos respectivos direitos.
+§ 3º Quando se tratar de obtenção decorrente de contrato de trabalho, prestação de serviços ou outra atividade laboral, o pedido de proteção deverá indicar o nome de todos os melhoristas que, nas condições de empregados ou de prestadores de serviço, obtiveram a nova cultivar ou a cultivar essencialmente derivada.

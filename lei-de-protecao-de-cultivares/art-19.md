@@ -1,0 +1,1 @@
+Art. 19. Publicado o pedido de proteção, será concedido, a título precário, Certificado Provisório de Proteção, assegurando, ao titular, o direito de exploração comercial da cultivar, nos termos desta Lei.

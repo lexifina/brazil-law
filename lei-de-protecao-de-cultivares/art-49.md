@@ -1,0 +1,1 @@
+Art. 49. Será assegurado, no prazo de trinta dias a contar da data da protocolização do requerimento, o fornecimento de certidões relativas às matérias de que trata esta Lei, desde que regularmente requeridas e comprovado o recolhimento das taxas respectivas.

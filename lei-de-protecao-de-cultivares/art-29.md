@@ -1,0 +1,1 @@
+Art. 29. Entende-se por licença compulsória o ato da autoridade competente que, a requerimento de legítimo interessado, autorizar a exploração da cultivar independentemente da autorização de seu titular, por prazo de três anos prorrogável por iguais períodos, sem exclusividade e mediante remuneração na forma a ser definida em regulamento.

@@ -1,0 +1,1 @@
+Art. 9º A proteção assegura a seu titular o direito à reprodução comercial no território brasileiro, ficando vedados a terceiros, durante o prazo de proteção, a produção com fins comerciais, o oferecimento à venda ou a comercialização, do material de propagação da cultivar, sem sua autorização.

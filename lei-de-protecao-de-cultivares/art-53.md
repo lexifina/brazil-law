@@ -1,0 +1,1 @@
+Art. 53. Os serviços de que trata esta Lei, serão remunerados pelo regime de preços de serviços públicos específicos, cabendo ao Ministério da Agricultura e do Abastecimento fixar os respectivos valores e forma de arrecadação.

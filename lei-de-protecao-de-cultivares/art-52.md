@@ -1,0 +1,1 @@
+Art. 52. As cultivares já comercializadas no Brasil cujo pedido de proteção, devidamente instruído, não for protocolizado no prazo previsto no Inciso I do § 1º do art. 4º serão consideradas automaticamente de domínio público.
