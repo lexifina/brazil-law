@@ -7,3 +7,4 @@ V - fornecer, anualmente, dados para a organização de estatísticas;
 VI - processar e julgar as suspeições argüidas, contra os auxiliares do Juízo;
 VII - aplicar penas disciplinares aos servidores do próprio Juízo;
 VIII - apresentar, anualmente, relatório circunstanciado dos trabalhos sob sua jurisdição.
+IX - requisitar fôrça federal ou estadual necessária ao cumprimento de suas decisões.

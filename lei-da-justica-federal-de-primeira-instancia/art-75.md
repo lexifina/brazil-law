@@ -1,1 +1,1 @@
-Art. 75. Os Juízes Federais e os Juízes Federais Substitutos tomarão posse e entrarão no exercício dos respectivos cargos no prazo improrrogável de vinte dias, contados da publicação do ato de nomeação.
+Art. 75. Os Juízes Federais e os Juízes Federais Substitutos tomarão posse e entrarão em exercício, dentro em sessenta dias, contados da publicação do decreto de nomeação cabendo ao Ministro Presidente do Conselho da Justiça Federal designar a data para êsse ato.
