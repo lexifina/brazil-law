@@ -1,0 +1,1 @@
+Art. 25. Salvo mandato expresso com prazo não superior a um ano, o administrador de carteira e o depositário de valores mobiliários não podem exercer o direito de voto que couber às ações sob sua administração ou custódia.
