@@ -1,0 +1,2 @@
+Art. 6º O exercício da atividade de Operador de Transporte Multimodal depende de prévia habilitação e registro no órgão federal designado na regulamentação desta Lei, que também exercerá funções de controle.
+Parágrafo único. Quando por tratado, acordo ou convenção internacional firmado pelo Brasil, o Operador de Transporte Multimodal puder, nessa qualidade, habilitar-se para operar em outros países, deverá atender aos requisitos que forem exigidos em tais tratados, acordos ou convenções.
