@@ -1,0 +1,2 @@
+Art. 19. Cada condômino tem o direito de usar e fruir, com exclusividade, de sua unidade autônoma, segundo suas conveniências e interêsses, condicionados, umas e outros às normas de boa vizinhança, e poderá usar as partes e coisas comuns de maneira a não causar dano ou incômodo aos demais condôminos ou moradores, nem obstáculo ou embaraço ao bom uso das mesmas partes por todos.
+Parágrafo único. (VETADO).

@@ -1,0 +1,3 @@
+Art. 58. Nas incorporações em que a construção fôr contratada pelo regime de administração, também chamado "a preço de custo", será de responsabilidade dos proprietários ou adquirentes o pagamento do custo integral de obra, observadas as seguintes disposições:
+I - tôdas as faturas, duplicatas, recibos e quaisquer documentos referentes às transações ou aquisições para construção, serão emitidos em nome do condomínio dos contratantes da construção;
+II - tôdas as contribuições dos condôminos para qualquer fim relacionado com a construção serão depositadas em contas abertas em nome do condomínio dos contratantes em estabelecimentos bancários, as quais, serão movimentadas pela forma que fôr fixada no contrato.

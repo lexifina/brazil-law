@@ -1,0 +1,1 @@
+Art. 64. Os órgãos de informação e publicidade que divulgarem publicamente sem os requisitos exigidos pelo § 3º do artigo 32 e pelos artigos 56 e 62, desta Lei, sujeitar-se-ão à multa em importância correspondente ao dôbro do preço pago pelo anunciante, a qual reverterá em favor da respectiva Municipalidade.

@@ -1,0 +1,6 @@
+Art. 65. É crime contra a economia popular promover incorporação, fazendo, em proposta, contratos, prospectos ou comunicação ao público ou aos interessados, afirmação falsa sôbre a construção do condomínio, alienação das frações ideais do terreno ou sôbre a construção das edificações.
+PENA - reclusão de um a quatro anos e multa de cinco a cinqüenta vêzes o maior salário-mínimo legal vigente no País.
+§ 1º lncorrem na mesma pena:
+I - o incorporador, o corretor e o construtor, individuais bem como os diretores ou gerentes de emprêsa coletiva incorporadora, corretora ou construtora que, em proposta, contrato, publicidade, prospecto, relatório, parecer, balanço ou comunicação ao público ou aos condôminos, candidatos ou subscritores de unidades, fizerem afirmação falsa sôbre a constituição do condomínio, alienação das frações ideais ou sôbre a construção das edificações;
+II - o incorporador, o corretor e o construtor individuais, bem como os diretores ou gerentes de emprêsa coletiva, incorporadora, corretora ou construtora que usar, ainda que a título de empréstimo, em proveito próprio ou de terceiros, bens ou haveres destinados a incorporação contratada por administração, sem prévia autorização dos interessados.
+§ 2º O julgamento dêstes crimes será de competência de Juízo singular, aplicando-se os artigos 5º, 6º e 7º da Lei nº 1.521, de 26 de dezembro de 1951.

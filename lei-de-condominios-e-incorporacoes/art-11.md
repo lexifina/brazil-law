@@ -1,0 +1,1 @@
+Art. 11. Para efeitos tributários, cada unidade autônoma será tratada como prédio isolado, contribuindo o respectivo condômino, diretamente, com as importâncias relativas aos impostos e taxas federais, estaduais e municipais, na forma dos respectivos lançamentos.

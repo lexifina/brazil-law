@@ -1,0 +1,3 @@
+Art. 1º As edificações ou conjuntos de edificações, de um ou mais pavimentos, construídos sob a forma de unidades isoladas entre si, destinadas a fins residenciais ou não-residenciais, poderão ser alienados, no todo ou em parte, objetivamente considerados, e constituirá, cada unidade, propriedade autônoma sujeita às limitações desta Lei.
+§ 1º Cada unidade será assinalada por designação especial, numérica ou alfabética, para efeitos de identificação e discriminação.
+§ 2º A cada unidade caberá, como parte inseparável, uma fração ideal do terreno e coisas comuns, expressa sob forma decimal ou ordinária
