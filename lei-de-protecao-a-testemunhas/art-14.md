@@ -1,0 +1,1 @@
+Art. 14. O indiciado ou acusado que colaborar voluntariamente com a investigação policial e o processo criminal na identificação dos demais co-autores ou partícipes do crime, na localização da vítima com vida e na recuperação total ou parcial do produto do crime, no caso de condenação, terá pena reduzida de um a dois terços.

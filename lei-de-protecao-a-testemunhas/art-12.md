@@ -1,0 +1,1 @@
+Art. 12. Fica instituído, no âmbito do órgão do Ministério da Justiça com atribuições para a execução da política de direitos humanos, o Programa Federal de Assistência a Vítimas e a Testemunhas Ameaçadas, a ser regulamentado por decreto do Poder Executivo.

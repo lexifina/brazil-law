@@ -1,0 +1,1 @@
+Art. 8º Quando entender necessário, poderá o conselho deliberativo solicitar ao Ministério Público que requeira ao juiz a concessão de medidas cautelares direta ou indiretamente relacionadas com a eficácia da proteção.

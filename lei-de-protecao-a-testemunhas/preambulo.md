@@ -1,0 +1,2 @@
+Estabelece normas para a organização e a manutenção de programas especiais de proteção a vítimas e a testemunhas ameaçadas, institui o Programa Federal de Assistência a Vítimas e a Testemunhas Ameaçadas e dispõe sobre a proteção de acusados ou condenados que tenham voluntariamente prestado efetiva colaboração à investigação policial e ao processo criminal.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:

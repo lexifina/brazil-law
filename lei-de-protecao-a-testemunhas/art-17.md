@@ -1,0 +1,2 @@
+Art. 17. O parágrafo único do art. 58 da Lei nº 6.015, de 31 de dezembro de 1973, com a redação dada pela Lei nº 9.708, de 18 de novembro de 1998, passa a ter a seguinte redação:
+"Parágrafo único. A substituição do prenome será ainda admitida em razão de fundada coação ou ameaça decorrente da colaboração com a apuração de crime, por determinação, em sentença, de juiz competente, ouvido o Ministério Público." (NR)
