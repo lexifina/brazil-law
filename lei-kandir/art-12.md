@@ -9,10 +9,11 @@ VII - das prestações onerosas de serviços de comunicação, feita por qualque
 VIII - do fornecimento de mercadoria com prestação de serviços:
 a) não compreendidos na competência tributária dos Municípios;
 b) compreendidos na competência tributária dos Municípios e com indicação expressa de incidência do imposto de competência estadual, como definido na lei complementar aplicável;
-IX - do desembaraço aduaneiro das mercadorias importadas do exterior;
+IX - do desembaraço aduaneiro de mercadorias ou bens importados do exterior;
 X - do recebimento, pelo destinatário, de serviço prestado no exterior;
-XI - da aquisição em licitação pública de mercadorias importadas do exterior apreendidas ou abandonadas;
+XI - da aquisição em licitação pública de mercadorias ou bens importados do exterior e apreendidos ou abandonados;
 XII - da entrada no território do Estado de lubrificantes e combustíveis líquidos e gasosos derivados de petróleo e energia elétrica oriundos de outro Estado, quando não destinados à comercialização ou à industrialização;
 XIII - da utilização, por contribuinte, de serviço cuja prestação se tenha iniciado em outro Estado e não esteja vinculada a operação ou prestação subseqüente.
 § 1º Na hipótese do inciso VII, quando o serviço for prestado mediante pagamento em ficha, cartão ou assemelhados, considera-se ocorrido o fato gerador do imposto quando do fornecimento desses instrumentos ao usuário.
 § 2º Na hipótese do inciso IX, após o desembaraço aduaneiro, a entrega, pelo depositário, de mercadoria ou bem importados do exterior deverá ser autorizada pelo órgão responsável pelo seu desembaraço, que somente se fará mediante a exibição do comprovante de pagamento do imposto incidente no ato do despacho aduaneiro, salvo disposição em contrário.
+§ 3º Na hipótese de entrega de mercadoria ou bem importados do exterior antes do desembaraço aduaneiro, considera-se ocorrido o fato gerador neste momento, devendo a autoridade responsável, salvo disposição em contrário, exigir a comprovação do pagamento do imposto.

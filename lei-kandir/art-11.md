@@ -5,7 +5,7 @@ b) onde se encontre, quando em situação irregular pela falta de documentação
 c) o do estabelecimento que transfira a propriedade, ou o título que a represente, de mercadoria por ele adquirida no País e que por ele não tenha transitado;
 d) importado do exterior, o do estabelecimento onde ocorrer a entrada física;
 e) importado do exterior, o do domicílio do adquirente, quando não estabelecido;
-f) aquele onde seja realizada a licitação, no caso de arrematação de mercadoria importada do exterior e apreendida;
+f) aquele onde seja realizada a licitação, no caso de arrematação de mercadoria ou bem importados do exterior e apreendidos ou abandonados;
 g) o do Estado onde estiver localizado o adquirente, inclusive consumidor final, nas operações interestaduais com energia elétrica e petróleo, lubrificantes e combustíveis dele derivados, quando não destinados à industrialização ou à comercialização;
 h) o do Estado de onde o ouro tenha sido extraído, quando não considerado como ativo financeiro ou instrumento cambial;
 i) o de desembarque do produto, na hipótese de captura de peixes, crustáceos e moluscos;
