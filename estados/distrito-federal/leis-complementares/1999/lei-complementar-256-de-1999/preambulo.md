@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 256, DE 19 DE NOVEMBRO DE 1999
+(Autor do Projeto: Deputado Distrital Benicio Tavares)
+Dispõe sobre alteração na Norma de Edificação, Uso e Gabarito -NGB 101/93.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
