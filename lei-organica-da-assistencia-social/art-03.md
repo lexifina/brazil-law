@@ -1,0 +1,1 @@
+Art. 3º Consideram-se entidades e organizações de assistência social aquelas que prestam, sem fins lucrativos, atendimento e assessoramento aos beneficiários abrangidos por esta lei, bem como as que atuam na defesa e garantia de seus direitos.

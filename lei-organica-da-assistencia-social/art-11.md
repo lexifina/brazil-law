@@ -1,0 +1,1 @@
+Art. 11. As ações das três esferas de governo na área de assistência social realizam-se de forma articulada, cabendo a coordenação e as normas gerais à esfera federal e a coordenação e execução dos programas, em suas respectivas esferas, aos Estados, ao Distrito Federal e aos Municípios.

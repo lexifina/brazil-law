@@ -1,0 +1,1 @@
+Art. 39. O Conselho Nacional de Assistência Social (CNAS), por decisão da maioria absoluta de seus membros, respeitados o orçamento da seguridade social e a disponibilidade do Fundo Nacional de Assistência Social (FNAS), poderá propor ao Poder Executivo a alteração dos limites de renda mensal per capita definidos no § 3º do art. 20 e caput do art. 22.

@@ -1,0 +1,1 @@
+Art. 34. A União continuará exercendo papel supletivo nas ações de assistência social, por ela atualmente executadas diretamente no âmbito dos Estados, dos Municípios e do Distrito Federal, visando à implementação do disposto nesta lei, por prazo máximo de 12 (doze) meses, contados a partir da data da publicação desta lei.

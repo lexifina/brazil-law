@@ -1,0 +1,1 @@
+Art. 29. Os recursos de responsabilidade da União destinados à assistência social serão automaticamente repassados ao Fundo Nacional de Assistência Social (FNAS), à medida que se forem realizando as receitas.

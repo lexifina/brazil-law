@@ -1,0 +1,1 @@
+Art. 1º A assistência social, direito do cidadão e dever do Estado, é Política de Seguridade Social não contributiva, que provê os mínimos sociais, realizada através de um conjunto integrado de ações de iniciativa pública e da sociedade, para garantir o atendimento às necessidades básicas.
