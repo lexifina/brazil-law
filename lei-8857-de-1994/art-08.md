@@ -1,0 +1,1 @@
+Art. 8º O Poder Executivo regulamentará a aplicação de regimes aduaneiros especiais para as mercadorias estrangeiras destinadas às Áreas de Livre Comércio de Brasiléia - ALCB e de Cruzeiro do Sul - ALCCS, assim como para as mercadorias delas procedentes.

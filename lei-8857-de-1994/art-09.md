@@ -1,0 +1,1 @@
+Art. 9º O Banco Central do Brasil normatizará os procedimentos cambiais aplicáveis às operações das Áreas de Livre Comércio de Brasiléia (ALCB) e de Cruzeiro do Sul - ALCCS, criando mecanismos que favoreçam seu comércio exterior.

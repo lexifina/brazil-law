@@ -1,0 +1,1 @@
+Art. 1º Fica o Poder Executivo autorizado a criar, nos Municípios de Brasiléia, Estado do Acre, com extensão para o Município de Epitaciolândia, Estado do Acre, e no Município de Cruzeiro do Sul, Estado do Acre, Áreas de Livre Comércio de exportação e importação, sob regime fiscal especial, estabelecidas com a finalidade de promover o desenvolvimento das respectivas regiões.
