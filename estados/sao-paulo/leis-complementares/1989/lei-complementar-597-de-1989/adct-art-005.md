@@ -1,0 +1,1 @@
+Artigo 5º - Para os efeitos do disposto no § 1º do artigo 16 desta lei complementar, entende-se cumprido o interstício correspondente ao Nível, em que o cargo do funcionário ou a função-atividade do servidor foi enquadrado na conformidade dos artigos 1º a 4º destas Disposições Transitórias.

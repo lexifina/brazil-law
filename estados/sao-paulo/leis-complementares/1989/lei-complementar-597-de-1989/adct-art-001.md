@@ -1,0 +1,2 @@
+## Disposições Transitórias
+Artigo 1º - As classes constantes do Anexo I - Anexo de Enquadramento das Classes - Escala de Vencimentos Nível Básico, Anexo II - Anexo de Enquadramento das Classes - Escala de Vencimentos Nível Médio, Anexo III - Anexo de Enquadramento das Classes - Escala de Vencimentos Área Saúde Nível Básico e Anexo IV - Anexo de Enquadramento das Classes - Escala de Vencimentos Área Saúde Nível Médio, a que se refere o artigo 1º desta lei complementar, ficam enquadrados na forma neles prevista.

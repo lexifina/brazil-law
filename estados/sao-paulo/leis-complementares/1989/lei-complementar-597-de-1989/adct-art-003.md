@@ -1,0 +1,1 @@
+Artigo 3º - O cargo ou função-atividade ficará enquadrado na Faixa e Nível determinados nos artigos anteriores e na tabela da Escala de Vencimentos Nível Básico, da Escala de Vencimentos Nível Médio, da Escala de Vencimentos Área Saúde Nível Básico e da Escala de Vencimentos Área Saúde Nível Médio, de acordo com a jornada a que estiver sujeito o Funcionário ou servidor.
