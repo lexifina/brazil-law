@@ -1,0 +1,7 @@
+Art. 42. Caracterizam-se também omissão de receita ou de rendimento os valores creditados em conta de depósito ou de investimento mantida junto a instituição financeira, em relação aos quais o titular, pessoa física ou jurídica, regularmente intimado, não comprove, mediante documentação hábil e idônea, a origem dos recursos utilizados nessas operações.
+§ 1º O valor das receitas ou dos rendimentos omitido será considerado auferido ou recebido no mês do crédito efetuado pela instituição financeira.
+§ 2º Os valores cuja origem houver sido comprovada, que não houverem sido computados na base de cálculo dos impostos e contribuições a que estiverem sujeitos, submeter-se-ão às normas de tributação específicas, previstas na legislação vigente à época em que auferidos ou recebidos.
+§ 3º Para efeito de determinação da receita omitida, os créditos serão analisados individualizadamente, observado que não serão considerados:
+I - os decorrentes de transferências de outras contas da própria pessoa física ou jurídica;
+II - no caso de pessoa física, sem prejuízo do disposto no inciso anterior, os de valor individual igual ou inferior a R$ 1.000,00 (mil reais), desde que o seu somatório, dentro do ano-calendário, não ultrapasse o valor de R$ 12.000,00 (doze mil reais).
+§ 4º Tratando-se de pessoa física, os rendimentos omitidos serão tributados no mês em que considerados recebidos, com base na tabela progressiva vigente à época em que tenha sido efetuado o crédito pela instituição financeira.

@@ -1,0 +1,9 @@
+Art. 64. Os pagamentos efetuados por órgãos, autarquias e fundações da administração pública federal a pessoas jurídicas, pela fornecimento de bens ou prestação de serviços, estão sujeitos à incidência, na fonte, do imposto sobre a renda, da contribuição social sobre o lucro líquido, da contribuição para seguridade social - COFINS e da contribuição para o PIS/PASEP.
+§ 1º A obrigação pela retenção é do órgão ou entidade que efetuar o pagamento.
+§ 2º O valor retido, correspondente a cada tributo ou contribuição, será levado a crédito da respectiva conta de receita da União.
+§ 3º O valor do imposto e das contribuições sociais retido será considerado como antecipação do que for devido pela contribuinte em relação ao mesmo imposto e às mesmas contribuições.
+§ 4º O valor retido correspondente ao imposto de renda e a cada contribuição social somente poderá ser compensado com o que for devido em relação à mesma espécie de imposto ou contribuição.
+§ 5º O imposto de renda a ser retido será determinado mediante a aplicação da alíquota de quinze por cento sobre o resultado da multiplicação do valor a ser pago pela percentual de que trata o art. 15 da Lei nº 9.249, de 26 de dezembro de 1995, aplicável à espécie de receita correspondente ao tipo de bem fornecido ou de serviço prestado.
+§ 6º O valor da contribuição social sobre o lucro líquido, a ser retido, será determinado mediante a aplicação da alíquota de um por cento, sobre o montante a ser pago.
+§ 7º O valor da contribuição para a seguridade social - COFINS, a ser retido, será determinado mediante a aplicação da alíquota respectiva sobre o montante a ser pago.
+§ 8º O valor da contribuição para o PIS/PASEP, a ser retido, será determinado mediante a aplicação da alíquota respectiva sobre o montante a ser pago.

@@ -1,0 +1,2 @@
+Art. 12. Deverá ser computado na determinação do lucro real o montante dos créditos deduzidos que tenham sido recuperados, em qualquer época ou a qualquer título, inclusive nos casos de novação da dívida ou do arresto dos bens recebidos em garantia real.
+Parágrafo único. Os bens recebidos a título de quitação do débito serão escriturados pela valor do crédito ou avaliados pela valor definido na decisão judicial que tenha determinado sua incorporação ao patrimônio do credor.

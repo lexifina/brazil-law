@@ -1,0 +1,2 @@
+Art. 85. Ficam sujeitos ao imposto de renda na fonte, à alíquota de quinze por cento, os rendimentos recebidos por companhias de navegação aérea e marítima, domiciliadas no exterior, de pessoas físicas ou jurídicas residentes ou domiciliadas no Brasil.
+Parágrafo único. O imposto de que trata este artigo não será exigido das companhias aéreas e marítimas domiciliadas em países que não tributam, em decorrência da legislação interna ou de acordos internacionais, os rendimentos auferidos por empresas brasileiras que exercem o mesmo tipo de atividade.

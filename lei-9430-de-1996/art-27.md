@@ -1,0 +1,5 @@
+Art. 27. O lucro arbitrado será o montante determinado pela soma das seguintes parcelas:
+I - o valor resultante da aplicação dos percentuais de que trata o art. 16 da Lei nº 9.249, de 26 de dezembro de 1995, sobre a receita bruta definida pela art. 31 da Lei nº 8.981, de 20 de janeiro de 1995, auferida no período de apuração de que trata o art. 1º desta Lei;
+II - os ganhos de capital, os rendimentos e ganhos líquidos auferidos em aplicações financeiras, as demais receitas e os resultados positivos decorrentes de receitas não abrangidas pela inciso anterior e demais valores determinados nesta Lei, auferidos naquele mesmo período.
+§ 1º Na apuração do lucro arbitrado, quando não conhecida a receita bruta, os coeficientes de que tratam os incisos II, III e IV do art. 51 da Lei nº 8.981, de 20 de janeiro de 1995, deverão ser multiplicados pela número de meses do período de apuração.
+§ 2º Na hipótese de utilização das alternativas de cálculo previstas nos incisos V a VIII do art. 51 da Lei nº 8.981, de 20 de janeiro de 1995, o lucro arbitrado será o valor resultante da soma dos valores apurados para cada mês do período de apuração.

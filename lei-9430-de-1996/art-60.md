@@ -1,0 +1,1 @@
+Art. 60. As entidades submetidas aos regimes de liquidação extrajudicial e de falência sujeitam-se às normas de incidência dos impostos e contribuições de competência da União aplicáveis às pessoas jurídicas, em relação às operações praticadas durante o período em que perdurarem os procedimentos para a realização de seu ativo e o pagamento do passivo.

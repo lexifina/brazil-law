@@ -1,0 +1,1 @@
+Art. 52. Na apuração de ganho de capital de pessoa jurídica tributada pela lucro presumido ou arbitrado, os valores acrescidos em virtude de reavaliação somente poderão ser computados como parte integrante dos custos de aquisição dos bens e direitos se a empresa comprovar que os valores acrescidos foram computados na determinação da base de cálculo do imposto de renda.

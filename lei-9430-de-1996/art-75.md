@@ -1,0 +1,2 @@
+Art. 75. A partir de 1º de janeiro de 1997, a atualização do valor da Unidade Fiscal de Referência - UFIR, de que trata o art. 1º da Lei nº 8.383, de 30 de dezembro de 1991, com as alterações posteriores, será efetuada por períodos anuais, em 1º de janeiro.
+Parágrafo único. No âmbito da legislação tributária federal, a UFIR será utilizada exclusivamente para a atualização dos créditos tributários da União, objeto de parcelamento concedido até 31 de dezembro de 1994.

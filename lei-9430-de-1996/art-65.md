@@ -1,0 +1,1 @@
+Art. 65. O Banco do Brasil S.A. deverá reter, no ato do pagamento ou crédito, a contribuição para o PIS/PASEP incidente nas transferências voluntárias da União para suas autarquias e fundações e para os Estados, Distrito Federal e Municípios, suas autarquias e fundações.

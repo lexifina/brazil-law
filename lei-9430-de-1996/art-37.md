@@ -1,0 +1,1 @@
+Art. 37. Os comprovantes da escrituração da pessoa jurídica, relativos a fatos que repercutam em lançamentos contábeis de exercícios futuros, serão conservados até que se opere a decadência do direito de a Fazenda Pública constituir os créditos tributários relativos a esses exercícios.

@@ -1,0 +1,1 @@
+Art. 81. Poderá, ainda, ser declarada inapta, nos termos e condições definidos em ato do Ministro da Fazenda, a inscrição da pessoa jurídica que deixar de apresentar a declaração anual de imposto de renda em um ou mais exercícios e não for localizada no endereço informado à Secretaria da Receita Federal, bem como daquela que não exista de fato.
