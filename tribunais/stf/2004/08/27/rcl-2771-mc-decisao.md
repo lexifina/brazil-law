@@ -1,0 +1,52 @@
+DECISÃO: 1. Trata-se de reclamação, com pedido de liminar,
+   ajuizada por Paulo Roberto Julião dos Santos, prefeito municipal
+   de São Sebastião, contra decisão liminar do Juiz de Direito da 2ª
+   Vara Cível dessa Comarca, nos autos da Ação Civil por Ato de
+   Improbidade Administrativa cumulada com Ação de Anulação de
+   Contratos Administrativos e Ressarcimento ao Erário Público nº
+   393/04, proposta pelo Ministério Público. Tal decisão determinou
+   indisponibilidade de bens e quebra dos sigilos fiscal, bancário e
+   telefônico do ora reclamante (fls. 92/100), que se insurge ainda
+   contra o despacho denegatório de efeito suspensivo ativo ao
+   agravo de instrumento tirado daqueloutra decisão e proferido pelo
+   Des. Relator do Tribunal de Justiça de São Paulo (fls. 151).
+Sustenta o reclamante que as decisões, porquanto deram direta
+   e indiretamente por competente o juízo de primeiro grau para
+   conhecer da ação civil de improbidade administrativa, teriam
+   afrontado decisão do Plenário desta Corte na Rcl nº 2.381, em
+   cujo julgamento foi reputada constitucional a Lei nº 10.628, de
+   2002, até julgamento da ADI nº 2.797.
+2.      O caso é de
+   liminar.
+        As decisões impugnadas hostilizam, deveras, a
+   autoridade de decisão da Corte, que, no julgamento da Rcl nº
+   2.381-AgR (rel. Min. CARLOS BRITTO, DJ de 02.04.2004), deu,
+   contra o voto do Min. MARCO AURÉLIO, pela vigência do art. 84, §
+   2º, do CPP, com a redação da Lei nº 10.628, de 2002, até que
+   sobrevenha decisão final da ADI nº 2.797, na qual se negou pedido
+   de liminar. Concluiu, a respeito, o voto do Min. Relator:
+"a
+   ação de improbidade deverá ser proposta perante o tribunal
+   competente para processar e julgar criminalmente o funcionário ou
+   autoridade no caso de prerrogativa de foro em razão do exercício
+   de função pública".
+             Porque a pendência doutra demanda,
+   em juízo de primeira instância, contra deputado federal,
+   desrespeitou tal precedente, o Min. GILMAR MENDES deferiu medida
+   liminar, suspendendo o processo e avocando os autos (Rcl nº
+   2.509). Nesse sentido já se consolidou a jurisprudência da Corte
+   (Rcl nº 2657, Rel. Min. CELSO DE MELLO, DJ de 25/06/2004; Rcl nº
+   2707, Rel. Min. CARLOS VELLOSO, DJ de 04/08/2004; Rcl nº 2649,
+   Rel. Min. NELSON JOBIM, DJ de 04/08/2004; Rcl nº 2623, Rel. Min.
+   ELLEN GRACIE, DJ de 11/05/2004), e é o que convém à
+   hipótese.
+3.           Do exposto, concedo a liminar, para sustar
+   a eficácia das decisões proferidas e determinar a suspensão do
+   processo. Comunique-se incontinenti às autoridades,
+   requisitando-se-lhes informações.
+Publique-se.
+   Int..
+Brasília, 27 de agosto de 2004.
+Ministro CEZAR
+   PELUSO
+Relator
