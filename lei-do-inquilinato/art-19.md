@@ -1,0 +1,1 @@
+Art. 19. Não havendo acordo, o locador ou locatário, após três anos de vigência do contrato ou do acordo anteriormente realizado, poderão pedir revisão judicial do aluguel, a fim de ajustá - lo ao preço de mercado.
