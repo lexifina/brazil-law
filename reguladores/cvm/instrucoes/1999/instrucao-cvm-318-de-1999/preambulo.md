@@ -1,0 +1,4 @@
+Instrução CVM nº 318, de 1999
+INSTRUÇÃO CVM No 318, DE 15 DE OUTUBRO DE 1999.
+Altera o inciso I do art.2o da Instrução CVM no 286, de 31 de julho de 1998, que dispõe sobre alienação de ações de propriedade de pessoas jurídicas de direito público e de entidades controladas direta ou indiretamente pelo Poder Público e dispensa os registros de que tratam os arts. 19 e 21 da Lei no 6.385, de 7 de dezembro de 1976, nos casos que especifica.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada nesta data, de acordo com o disposto nos arts. 8o, inciso I; 18, inciso II, alínea "a"; 19, § 5o, inciso I, e 21, § 6o, inciso I, da Lei no 6.385, de 7 de dezembro de 1976, e no art. 17, inciso II, alínea "c", da Lei no 8.666, de 21 de junho de 1993, RESOLVEU baixar a seguinte Instrução:
