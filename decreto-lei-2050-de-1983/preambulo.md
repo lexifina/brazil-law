@@ -1,0 +1,4 @@
+Revoga o Decreto-lei nº 865, de 12 de setembro de 1969, que declarou o Município de Santos, no Estado de São Paulo, de interesse da segurança nacional e dá outras providências.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 55, item I, da Constituição Federal, ouvido o Conselho de Segurança Nacional;
+Tendo em vista a existência de determinação presidencial no sentido de serem ultimados os trabalhos concernentes à reavaliação dos municípios que devam ser considerados de interesse da segurança nacional e,
+CONSIDERANDO que, no tocante ao Município de Santos, Estado de São Paulo, os estudos preliminares já indicaram a conveniência e oportunidade de excluí-lo daquela caracterização, o que vem ao encontro de propósito anteriormente manifestado pelo Presidente da República,
