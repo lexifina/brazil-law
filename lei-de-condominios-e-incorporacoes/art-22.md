@@ -6,6 +6,7 @@ c) praticar os atos que lhe atribuírem as leis a Convenção e o Regimento Inte
 d) impor as multas estabelecidas na Lei, na Convenção ou no Regimento Interno;
 e) cumprir e fazer cumprir a Convenção e o Regimento Interno, bem como executar e fazer executar as deliberações da assembléia;
 f) prestar contas à assembléia dos condôminos.
+g) manter guardada durante o prazo de cinco anos para eventuais necessidade de verificação contábil, toda a documentação relativa ao condomínio.
 § 2º As funções administrativas podem ser delegadas a pessoas de confiança do síndico, e sob a sua inteira responsabilidade, mediante aprovação da assembléia geral dos condôminos.
 § 3º A Convenção poderá estipular que dos atos do síndico caiba recurso para a assembléia, convocada pelo interessado.
 § 4º Ao síndico, que poderá ser condômino ou pessoa física ou jurídica estranha ao condomínio, será fixada a remuneração pela mesma assembléia que o eleger, salvo se a Convenção dispuser diferentemente.
