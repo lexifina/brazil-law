@@ -1,0 +1,1 @@
+Art. 19. Até que se proceda à revisão dos atos normativos pertinentes, as referências legais a Ministério ou a Ministro de Estado da Marinha, do Exército e da Aeronáutica passam a ser entendidas como a Comando ou a Comandante dessas Forças, respectivamente, desde que não colidam com atribuições do Ministério ou Ministro de Estado da Defesa.

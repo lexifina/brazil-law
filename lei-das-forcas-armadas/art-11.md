@@ -1,0 +1,1 @@
+Art. 11. Compete ao Estado-Maior de Defesa elaborar o planejamento do emprego combinado das Forças Armadas e assessorar o Ministro de Estado da Defesa na condução dos exercícios combinados e quanto à atuação de forças brasileiras em operações de paz, além de outras atribuições que lhe forem estabelecidas pelo Ministro de Estado da Defesa.

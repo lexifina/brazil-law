@@ -1,0 +1,1 @@
+Art. 6º O Poder Executivo definirá a competência dos Comandantes da Marinha, do Exército e da Aeronáutica para a criação, a denominação, a localização e a definição das atribuições das organizações integrantes das estruturas das Forças Armadas.

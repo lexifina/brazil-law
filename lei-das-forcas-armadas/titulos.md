@@ -1,0 +1,22 @@
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
+Seção I
+Da Destinação e Atribuições
+Seção II
+Do Assessoramento ao Comandante Supremo
+CAPÍTULO II
+DA ORGANIZAÇÃO
+Seção I
+Das Forças Armadas
+Seção II
+Da Direção Superior das Forças Armadas
+CAPÍTULO III
+DO ORÇAMENTO
+CAPÍTULO IV
+DO PREPARO
+CAPÍTULO V
+DO EMPREGO
+CAPÍTULO VI
+DAS DISPOSIÇÕES COMPLEMENTARES
+CAPÍTULO VII
+DAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS
