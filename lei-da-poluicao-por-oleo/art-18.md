@@ -1,0 +1,1 @@
+Art. 18. Exceto nos casos permitidos por esta Lei, a descarga de lixo, água de lastro, resíduos de lavagem de tanques e porões ou outras misturas que contenham óleo ou substâncias nocivas ou perigosas de qualquer categoria só poderá ser efetuada em instalações de recebimento e tratamento de resíduos, conforme previsto no art. 5º desta Lei.

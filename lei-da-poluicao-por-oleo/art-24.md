@@ -1,0 +1,1 @@
+Art. 24. A contratação, por órgão ou empresa pública ou privada, de navio para realização de transporte de óleo ou de substância enquadrada nas categorias definidas no art. 4º desta Lei só poderá efetuar-se após a verificação de que a empresa transportadora esteja devidamente habilitada para operar de acordo com as normas da autoridade marítima.

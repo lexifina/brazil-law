@@ -1,0 +1,1 @@
+Art. 14. O órgão federal de meio ambiente deverá elaborar e atualizar, anualmente, lista de substâncias cujo transporte seja proibido em navios ou que exijam medidas e cuidados especiais durante a sua movimentação.
