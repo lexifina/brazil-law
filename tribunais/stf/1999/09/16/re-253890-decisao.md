@@ -1,0 +1,16 @@
+DESPACHO :
+1. O acórdão recorrido:
+"MANDADO DE SEGURANÇA - CONCESSÃO DOS SERVIÇOS
+RELATIVOS AO SISTEMA RODOVIA DO SOL - DIREITO DE LEGISLAR DOS
+DEPUTADOS ESTADUAIS - PRELIMINAR DE ILEGITIMIDADE REJEITADA -
+MÉRITO - NULIDADE DO DECRETO Nº 9.919-E - LEI 5.276/96 NÃO
+REGULAMENTADA - SEGURANÇA CONCEDIDA."(fls. 91).
+2. O RE:
+(a)  fundamento: CF, art. 102, III, "a";
+(b)  ofensa alegada (CF/88, arts. 175; 22, XXVII; 37, § 2º).
+3. A decisão.
+Manifeste-se a PGR.
+Publique-se.
+Brasília, 16 de setembro de 1999.
+Ministro NELSON JOBIM
+Relator
