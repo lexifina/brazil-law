@@ -1,1 +1,2 @@
-Art. 9º Quando necessária a cláusula de revogação, esta deverá indicar expressamente as leis ou disposições legais revogadas.
+Art. 9º A cláusula de revogação deverá enumerar, expressamente, as leis ou disposições legais revogadas.
+Parágrafo único. (VETADO)

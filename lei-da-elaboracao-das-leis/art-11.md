@@ -11,7 +11,8 @@ b) expressar a idéia, quando repetida no texto, por meio das mesmas palavras, e
 c) evitar o emprego de expressão ou palavra que confira duplo sentido ao texto;
 d) escolher termos que tenham o mesmo sentido e significado na maior parte do território nacional, evitando o uso de expressões locais ou regionais;
 e) usar apenas siglas consagradas pelo uso, observado o princípio de que a primeira referência no texto seja acompanhada de explicitação de seu significado;
-f) grafar por extenso quaisquer referências feitas, no texto, a números e percentuais;
+f) grafar por extenso quaisquer referências a números e percentuais, exceto data, número de lei e nos casos em que houver prejuízo para a compreensão do texto;
+g) indicar, expressamente o dispositivo objeto de remissão, em vez de usar as expressões 'anterior', 'seguinte' ou equivalentes;
 III - para a obtenção de ordem lógica:
 a) reunir sob as categorias de agregação - subseção, seção, capítulo, título e livro - apenas as disposições relacionadas com o objeto da lei;
 b) restringir o conteúdo de cada artigo da lei a um único assunto ou princípio;
