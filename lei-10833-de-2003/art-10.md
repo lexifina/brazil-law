@@ -28,4 +28,7 @@ XVIII - as receitas decorrentes de prestação de serviços com aeronaves de uso
 XIX - as receitas decorrentes de prestação de serviços das empresas de call center, telemarketing, telecobrança e de teleatendimento em geral;
 XX - as receitas decorrentes da execução por administração, empreitada ou subempreitada, de obras de construção civil, até 31 de dezembro de 2006;
 XXI - as receitas auferidas por parques temáticos, e as decorrentes de serviços de hotelaria e de organização de feiras e eventos, conforme definido em ato conjunto dos Ministérios da Fazenda e do Turismo.
+XXII - as receitas decorrentes da prestação de serviços postais e telegráficos prestados pela Empresa Brasileira de Correios e Telégrafos;
+XXIII - as receitas decorrentes de prestação de serviços públicos de concessionárias operadoras de rodovias;
+XXIV - as receitas decorrentes da prestação de serviços das agências de viagem e de viagens e turismo.
 Parágrafo único. Ficam convalidados os recolhimentos efetuados de acordo com a atual redação do inciso IX deste artigo.
