@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 3, de 8 de janeiro de 1993
+Prorroga vigência da Instrução Normativa nº 54, de 24 de julho de 1981 e suas alterações posteriores.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista o disposto na alínea "a", inciso III, Cláusula primeira do Convênio ICMS nº 148, de 15 de dezembro de 1992, celebrado entre o Ministério da Fazenda e as Secretarias de Fazenda, Economia ou Finanças dos Estados e do Distrito Federal, na 69ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Brasília-DF, no dia 15 de dezembro de 1992, resolve:
