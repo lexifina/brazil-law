@@ -1,1 +1,1 @@
-Art. 1º Os poderes públicos federal e estadual concederão assistência judiciária aos necessitados nos têrmos da presente Lei.
+Art. 1º. Os poderes públicos federal e estadual, independente da colaboração que possam receber dos municípios e da Ordem dos Advogados do Brasil, - OAB, concederão assistência judiciária aos necessitados nos termos da presente Lei.
