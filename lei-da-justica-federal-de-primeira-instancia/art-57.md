@@ -1,0 +1,1 @@
+Art. 57. A União fará publicar no Diário Oficial de cada Estado ou Território o "Boletim da Justiça Federal" no qual serão divulgados os atos da respectiva Seção Judiciária, para os efeitos previstos em lei.

@@ -1,0 +1,1 @@
+Art. 14. Aos Juízes Federais Substitutos incumbe substituir os Juízes Federais nas suas férias, licenças e impedimentos eventuais e auxiliá-los, em caráter permanente, inclusive na instrução e julgamento de feitos, na forma que o Conselho da Justiça Federal estabelecer.

@@ -1,0 +1,3 @@
+Art. 63. O Tribunal Federal de Recursos organizará, para orientação da Justiça Federal de Primeira Instância, e dos interessados, Súmulas de sua jurisprudência, aprovadas pelo seu plenário, fazendo-as publicar, regularmente, no "Diário da Justiça" da União e nos Boletins da Justiça Federal das Seções.
+§ 1º Poderão ser inscritos na súmula os enunciados correspondentes às decisões firmadas por unanimidade dos membros componentes do Tribunal, num caso, ou por maioria qualificada, em dois julgamentos concordantes, pelo menos.
+§ 2º Os enunciados da Súmula prevalecem e serão revistos, no que couber, segundo a forma estabelecida no Regimento do Supremo Tribunal Federal.

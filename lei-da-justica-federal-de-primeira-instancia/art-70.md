@@ -1,0 +1,1 @@
+Art. 70. A União intervirá, obrigatòriamente, nas causas em que figurarem, como autores ou réus, os partidos políticos, excetuadas as de competência da Justiça Eleitoral, e as sociedades de economia mista ou emprêsas públicas com participação majoritária federal, bem assim os órgãos autônomos especiais e fundações criados por lei federal.

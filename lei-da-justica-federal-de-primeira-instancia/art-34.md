@@ -1,0 +1,1 @@
+Art. 34. O Tribunal Federal de Recursos, ocorrendo motivo de interêsse público, poderá, pelo voto de dois têrços de seus membros efetivos, propor a remoção ou a disponibilidade do Juiz Federal ou do Juiz Federal Substituto, assegurada, no último caso, a defesa (Constituição, artigo 95, § 4º).

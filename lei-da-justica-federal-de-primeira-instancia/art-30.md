@@ -1,0 +1,1 @@
+Art. 30. Os Juízes Federais e os Juízes Federais Substitutos deverão residir na cidade que fôr sede da Vara em que servirem, não podendo, quando em exercício e nos dias de expediente, ausentar-se sem autorização do Corregedor-Geral.

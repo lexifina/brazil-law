@@ -1,0 +1,1 @@
+Art. 83. Serão declaradas peremptas, e arquivadas, por despacho, as ações propostas contra a União e suas autarquias, que estejam paralisadas há mais de um ano, se, dentro de trinta dias, contados da publicação desta Lei, não forem cumpridas as diligências determinadas aos autores.
