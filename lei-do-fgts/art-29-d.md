@@ -1,0 +1,2 @@
+Art. 29-D. A penhora em dinheiro, na execução fundada em título judicial em que se determine crédito complementar de saldo de conta vinculada do FGTS, será feita mediante depósito de recursos do Fundo em conta vinculada em nome do exeqüente, à disposição do juízo.
+Parágrafo único. O valor do depósito só poderá ser movimentado, após liberação judicial, nas hipóteses previstas no art. 20 ou para reversão ao Fundo.
