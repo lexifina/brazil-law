@@ -2,6 +2,6 @@ Art. 57. A petição inicial da ação para haver reparação de dano moral deve
 § 1º A petição inicial será apresentada em duas vias. Com a primeira e os documentos que a acompanharem será formado processo, e a citação inicial será feita mediante a entrega da segunda via.
 § 2º O juiz despachará a petição inicial no prazo de 24 horas, e o oficial terá igual prazo para certificar o cumprimento do mandato de citação.
 § 3º Na contestação, apresentada no prazo de 5 (cinco) dias, o réu exercerá a exceção da verdade, se fôr o caso, indicará as provas e diligências que julgar necessárias e arrolará as testemunhas. A contestação será acompanhada da prova documental que pretende produzir.
-§ 4º Contestada a ação, o processo terá o rito previsto no art. 685 do Código de Processo Civil.
+§ 4º Não havendo contestação, o Juiz proferirá desde logo a sentença, em caso contrário, observar-se-á o procedimento ordinário.
 § 5º Na ação para haver reparação de dano moral sòmente será admitada reconvenção de igual ação.
-§ 6º Da sentença do juiz caberá agravo de petição, que sòmente será admitido mediante comprovação do depósito, pelo agravante, de quantia igual à importância total da condenação. Com a petição de agravo, o agravante pedirá a expedição da guia para o depósito, sendo o recurso julgado deserto se no prazo do agravo não fôr comprovado o depósito.
+§ 6º Da sentença do Juiz caberá apelação, a qual somente será admitida mediante comprovação do depósito, pela apelante, de quantia igual à importância total da condenação. Com a petição de interposição do recurso o apelante pedirá expedição de guia para o depósito, sendo a apelação julgada deserta se, no prazo de sua interposição, não for comprovado o depósito.
