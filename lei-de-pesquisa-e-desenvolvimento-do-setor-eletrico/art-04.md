@@ -1,0 +1,5 @@
+Art. 4º Os recursos para pesquisa e desenvolvimento, previstos nos artigos anteriores, deverão ser distribuídos da seguinte forma:
+I - cinqüenta por cento para o Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT, criado pelo Decreto-Lei nº 719, de 31 de julho de 1969, e restabelecido pela Lei nº 8.172, de 18 de janeiro de 1991;
+II - cinqüenta por cento para projetos de pesquisa e desenvolvimento segundo regulamentos estabelecidos pela Agência Nacional de Energia Elétrica - ANEEL.
+§ 1º Para os recursos referidos no inciso I, será criada categoria de programação específica no âmbito do FNDCT para aplicação no financiamento de programas e projetos de pesquisa científica e desenvolvimento tecnológico do setor elétrico, bem como na eficiência energética no uso final.
+§ 2º Entre os programas e projetos de pesquisa científica e tecnológica do setor de energia elétrica, devem estar incluídos os que tratem da preservação do meio ambiente, da capacitação dos recursos humanos e do desenvolvimento tecnológico.
