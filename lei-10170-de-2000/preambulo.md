@@ -1,0 +1,2 @@
+Acrescenta parágrafos ao art. 22 da Lei nº 8.212, de 24 de julho de 1991, dispensando as instituições religiosas do recolhimento da contribuição previdenciária incidente sobre o valor pago aos ministros de confissão religiosa, membros de instituto de vida consagrada, de congregação ou de ordem religiosa.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
