@@ -1,0 +1,1 @@
+Art. 21. As agências de fomento deverão promover, por meio de programas específicos, ações de estímulo à inovação nas micro e pequenas empresas, inclusive mediante extensão tecnológica realizada pelas ICT.

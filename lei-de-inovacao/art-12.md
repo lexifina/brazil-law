@@ -1,0 +1,1 @@
+Art. 12. É vedado a dirigente, ao criador ou a qualquer servidor, militar, empregado ou prestador de serviços de ICT divulgar, noticiar ou publicar qualquer aspecto de criações de cujo desenvolvimento tenha participado diretamente ou tomado conhecimento por força de suas atividades, sem antes obter expressa autorização da ICT.

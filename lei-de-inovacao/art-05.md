@@ -1,0 +1,2 @@
+Art. 5º Ficam a União e suas entidades autorizadas a participar minoritariamente do capital de empresa privada de propósito específico que vise ao desenvolvimento de projetos científicos ou tecnológicos para obtenção de produto ou processo inovadores.
+Parágrafo único. A propriedade intelectual sobre os resultados obtidos pertencerá às instituições detentoras do capital social, na proporção da respectiva participação.

@@ -1,0 +1,4 @@
+Art. 22. Ao inventor independente que comprove depósito de pedido de patente é facultado solicitar a adoção de sua criação por ICT, que decidirá livremente quanto à conveniência e oportunidade da solicitação, visando à elaboração de projeto voltado a sua avaliação para futuro desenvolvimento, incubação, utilização e industrialização pelo setor produtivo.
+§ 1º O núcleo de inovação tecnológica da ICT avaliará a invenção, a sua afinidade com a respectiva área de atuação e o interesse no seu desenvolvimento.
+§ 2º O núcleo informará ao inventor independente, no prazo máximo de 6 (seis) meses, a decisão quanto à adoção a que se refere o caput deste artigo.
+§ 3º Adotada a invenção por uma ICT, o inventor independente comprometer-se-á, mediante contrato, a compartilhar os ganhos econômicos auferidos com a exploração industrial da invenção protegida.

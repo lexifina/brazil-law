@@ -1,0 +1,2 @@
+Art. 11. A ICT poderá ceder seus direitos sobre a criação, mediante manifestação expressa e motivada, a título não-oneroso, nos casos e condições definidos em regulamento, para que o respectivo criador os exerça em seu próprio nome e sob sua inteira responsabilidade, nos termos da legislação pertinente.
+Parágrafo único. A manifestação prevista no caput deste artigo deverá ser proferida pelo órgão ou autoridade máxima da instituição, ouvido o núcleo de inovação tecnológica, no prazo fixado em regulamento.

@@ -1,0 +1,4 @@
+Art. 15. A critério da administração pública, na forma do regulamento, poderá ser concedida ao pesquisador público, desde que não esteja em estágio probatório, licença sem remuneração para constituir empresa com a finalidade de desenvolver atividade empresarial relativa à inovação.
+§ 1º A licença a que se refere o caput deste artigo dar-se-á pelo prazo de até 3 (três) anos consecutivos, renovável por igual período.
+§ 2º Não se aplica ao pesquisador público que tenha constituído empresa na forma deste artigo, durante o período de vigência da licença, o disposto no inciso X do art. 117 da Lei nº 8.112, de 1990.
+§ 3º Caso a ausência do servidor licenciado acarrete prejuízo às atividades da ICT integrante da administração direta ou constituída na forma de autarquia ou fundação, poderá ser efetuada contratação temporária nos termos da Lei nº 8.745, de 9 de dezembro de 1993, independentemente de autorização específica.
