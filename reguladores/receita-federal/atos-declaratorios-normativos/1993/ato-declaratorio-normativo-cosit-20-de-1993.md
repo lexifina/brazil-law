@@ -1,0 +1,8 @@
+Ato Declaratório Normativo Cosit nº 20, de 11 de maio de 1993
+Preenchimento do saldo de caderneta de poupança, DER, FAF e FIQFAF existente em 31/12/92, na Declaração de Bens e Direitos do Manual IRPF/93.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO SUBSTITUTO, no uso de suas atribuições, tendo em vista o disposto na Lei nº 8.383, de 30 de dezembro de 1991 e na Instrução Normativa SRF nº 09, de 22 de janeiro de 1993,
+declara em caráter normativo, às Superintendências Regionais da Receita Federal e demais interessados que os contribuintes informarão os saldos existentes em 31/12/92 em caderneta de poupança, DER, FAF e FIQFAF em UFIR, mediante sua divisão pelo valor desta no mês de dezembro de 1992 (Cr$ 6.002,55), conforme comprovante fornecido pelas instituições financeiras.
+2. No caso de verificação da variação patrimonial do contribuinte, a diferença de atualização monetária existente entre os dias 1º/12/92 e 31/12/92 ou entre o dia 1º/12/92 e o do aniversário, no caso de caderneta de poupança, será levada em consideração pela Secretaria da Receita Federal. Entretanto, é facultado ao contribuinte informar os saldos em 31/12/92, relativos a DER, FAF e FIQFAF, convertidos pela UFIR diária do dia 31/12/92 (Cr$ 7.340,03) e os referentes a caderneta de poupança, mediante a utilização da UFIR do dia do aniversário em dezembro de 1992.
+3. O contribuinte que proceder na forma do item anterior deverá mencionar, na coluna "discriminação", que utilizou esse critério.
+SÍLVIO SÉRGIO NOGUERES LIMA
+(*) Republicado por ter saído com incorreção, do original, no D.O. de 12-5-93, Seção I, pág. 6346.
