@@ -1,0 +1,2 @@
+Altera o art. 5º da Lei nº 8.427, de 27 de maio de 1992, que dispõe sobre a concessão de subvenção econômica nas operações de crédito rural.
+Faço saber que o Presidente da República adotou a Medida Provisória nº 80, de 2002, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda constitucional nº 32, de 2001, promulgo a seguinte Lei:
