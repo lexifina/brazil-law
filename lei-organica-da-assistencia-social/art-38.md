@@ -1,1 +1,1 @@
-Art. 38. A idade prevista no art. 20 desta lei reduzir-se-á, respectivamente, para 67 (sessenta e sete) e 65 (sessenta e cinco) anos após 24 (vinte e quatro) e 48 (quarenta e oito) meses do início da concessão.
+Art. 38. A idade prevista no art. 20 desta Lei reduzir-se-á para sessenta e sete anos a partir de 1º de janeiro de 1998.
