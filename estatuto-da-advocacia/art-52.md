@@ -1,0 +1,1 @@
+Art. 52. Os presidentes dos Conselhos Seccionais, nas sessões do Conselho Federal, têm lugar reservado junto à delegação respectiva e direito somente a voz.

@@ -1,0 +1,1 @@
+Art. 13. O documento de identidade profissional, na forma prevista no regulamento geral, é de uso obrigatório no exercício da atividade de advogado ou de estagiário e constitui prova de identidade civil para todos os fins legais.
