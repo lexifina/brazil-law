@@ -1,0 +1,1 @@
+Art. 31 - Nos processos de falência, concordata, liquidação, inventário, arrolamento ou concurso de credores, nenhuma alienação será judicialmente autorizada sem a prova de quitação da Dívida Ativa ou a concordância da Fazenda Pública.

@@ -1,0 +1,2 @@
+Art. 38 - A discussão judicial da Dívida Ativa da Fazenda Pública só é admissível em execução, na forma desta Lei, salvo as hipóteses de mandado de segurança, ação de repetição do indébito ou ação anulatória do ato declarativo da dívida, esta precedida do depósito preparatório do valor do débito, monetariamente corrigido e acrescido dos juros e multa de mora e demais encargos.
+Parágrafo Único - A propositura, pelo contribuinte, da ação prevista neste artigo importa em renúncia ao poder de recorrer na esfera administrativa e desistência do recurso acaso interposto.
