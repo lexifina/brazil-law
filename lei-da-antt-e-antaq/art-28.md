@@ -4,3 +4,4 @@ II - os instrumentos de concessão ou permissão sejam precedidos de licitação
 a) (VETADO)
 b) limites máximos tarifários e as condições de reajustamento e revisão;
 c) pagamento pelo valor das outorgas e participações governamentais, quando for o caso.
+d) prazos contratuais.
