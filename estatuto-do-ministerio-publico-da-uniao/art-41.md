@@ -1,0 +1,2 @@
+Art. 41. Em cada Estado e no Distrito Federal será designado, na forma do art. 49, III, órgão do Ministério Público Federal para exercer as funções do ofício de Procurador Regional dos Direitos do Cidadão.
+Parágrafo único. O Procurador Federal dos Direitos do Cidadão expedirá instruções para o exercício das funções dos ofícios de Procurador dos Direitos do Cidadão, respeitado o princípio da independência funcional.

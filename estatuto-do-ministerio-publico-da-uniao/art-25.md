@@ -1,0 +1,2 @@
+Art. 25. O Procurador-Geral da República é o chefe do Ministério Público da União, nomeado pelo Presidente da República dentre integrantes da carreira, maiores de trinta e cinco anos, permitida a recondução precedida de nova decisão do Senado Federal.
+Parágrafo único. A exoneração, de ofício, do Procurador-Geral da República, por iniciativa do Presidente da República, deverá ser precedida de autorização da maioria absoluta do Senado Federal, em votação secreta.
