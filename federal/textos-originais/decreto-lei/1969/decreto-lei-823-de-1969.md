@@ -1,0 +1,65 @@
+# Decreto-Lei nº 823, de 05/09/1969
+
+DECreto-lei Nº 823, DE 5 DE SEtembRO DE 1969
+
+Autoriza o Poder Executivo a abrir ao Ministério do Interior em favor do Território Federal de Rondônia, o crédito especial de NCr$1.415,80 para o fim que especifica.
+
+OS MINISTROS DA MARINHA DE GUERRA, DO EXÉRCITO E DA AERONÁUTICA MILITAR, usando das atribuições que lhes confere o artigo 1º do Ato Institucional nº 12 de 31 de agôsto de 1969, combinado com o § 1º do artigo 2º do Ato Institucional nº 5, de 13 de dezembro de 1968,
+
+decretam:
+
+Art. 1º Fica o Poder Executivo autorizado a abrir ao Ministério do Interior em favor do Território Federal de Rondônia, o crédito especial no valor de NCr$1.415,80 (um mil quatrocentos e quinze cruzeiros novos e oitenta centavos) para atender despesas de vencimentos relativos ao exercício de 1966.
+
+Art. 2º Os recursos necessários à execução dêste Decreto-lei decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento ao Subanexo 5.09.00, a saber:
+
+NCr$
+
+5.09.00
+
+- Ministério do Interior
+
+5.09.04
+
+- Território Federal de Rondônia
+
+01.01.11.2.093
+
+- Coordenação dos Serviços
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.1.0.0
+
+- Despesas de Custeio
+
+3.1.1.0
+
+- Pessoal
+
+3.1.1.1
+
+- Pessoal Civil
+
+01.00
+
+- Vencimentos e Vantagens Fixas ............................................
+
+1.415,80
+
+Art. 3º Êste Decreto-lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 5 de setembro de 1969; 148º da Independeria e 81º da República.
+
+AuGUSTO HAMANN RADEMAKER GRÜNEWALD
+
+AURÉLIO DE LYRA TAVARES
+
+MÁRCIO DE SOUZA E MELLO
+
+Antônio Delfim Netto
+
+Hélio Beltrão
+
+José Costa Cavalcanti
