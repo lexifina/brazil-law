@@ -1,6 +1,6 @@
 Art. 24. O contribuinte submetido ao disposto no artigo anterior poderá optar por recolher, anualmente, a diferença de imposto pago a menor no ano-calendário.
 § 1º Para os efeitos deste artigo, o contribuinte deverá apresentar, até o dia 30 de abril do ano subseqüente, declaração de ajuste, em modelo aprovado pela secretaria da Receita Federal, e apurar a diferença de imposto em cada um dos meses do ano.
-§ 2º A diferença de imposto apurada mensalmente será convertida em número de BTN mediante sua divisão pelo valor do BTN vigente no mês a que corresponder a diferença.
+§ 2º A diferença de imposto apurada mensalmente será convertida em número de BTN mediante sua divisão pelo valor do BTN vigente no mês subseqüente àquele a que corresponder a diferença.
 § 3º Resultando fração na apuração do número de BTN, considerar-se-ão as duas primeiras casas decimais, desprezando-se as outras.
 § 4º A soma das diferenças, em BTN, apuradas em cada um dos meses do ano, corresponderá ao imposto a pagar.
 § 5º O imposto a pagar poderá ser recolhido em até seis quotas iguais, mensais e sucessivas, observado o seguinte:
