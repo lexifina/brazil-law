@@ -1,0 +1,2 @@
+Autoriza a utilização de recursos do Fundo da Marinha Mercante - FMM, em favor da Companhia de Navegação Lloyd Brasileiro - LLOYDBRAS, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.469-30, de 1998, que o CONGRESSO NACIONAL aprovou, e eu, ANTONIO CARLOS MAGALHÃES, PRESIDENTE, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
