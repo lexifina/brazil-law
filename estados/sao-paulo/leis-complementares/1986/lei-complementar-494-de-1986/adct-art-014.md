@@ -1,0 +1,1 @@
+Artigo 14 - Os cargos e funções-atividades que, nos termos destas Disposições Transitórias, como resultado da integração nas séries de classes instituídas por esta lei complementar, forem incluídos em Tabela de Subquadro distinta da prevista para o cargo ou função-atividade anterior não modificam a situação jurídica dos respectivos ocupantes.

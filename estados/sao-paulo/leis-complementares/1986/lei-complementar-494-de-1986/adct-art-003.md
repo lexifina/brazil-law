@@ -1,0 +1,2 @@
+Artigo 3º - Os funcionários, servidores e inativos abrangidos pelo artigo anterior não mais farão jus, a partir de 1º de setembro de 1986, ao Adicional de Local de Exercício previsto no artigo 8º da Lei Complementar nº 341, de 6 de janeiro de 1984, bem como a qualquer gratificação ou vantagem concedida especificamente aos integrantes da série de classes de Médico I a IV.
+Parágrafo único - Fica dispensada a reposição de qualquer importância que, em decorrência da aplicação do disposto neste artigo, venha a configurar percebimento a maior.

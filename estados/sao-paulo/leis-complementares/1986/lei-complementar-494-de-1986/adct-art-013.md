@@ -1,0 +1,1 @@
+Artigo 13 - O órgão central de recursos humanos fará publicar relação nominal dos funcionários e servidores abrangidos pelos artigos 2º, 5º, 8º e 11 destas Disposições Transitórias indicando a denominação do cargo ou função-atividade anteriormente ocupado e a do cargo ou função-atividade resultante da integração.

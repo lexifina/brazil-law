@@ -1,0 +1,1 @@
+Artigo 7º - Os funcionários, servidores e inativos abrangidos pelo artigo 5º e pelo artigo anterior não mais farão jus, a partir de 1º de setembro de 1986, à gratificação e às referências numéricas, conforme o caso, concedidas nos termos dos artigos 1º e 3º da Lei Complementar nº 467, de 2 de julho de 1986.

@@ -1,0 +1,3 @@
+Artigo 5º - Os cargos de Desenhista que, em 1º de setembro de 1986, se encontrassem classificados no Instituto de Criminalística, do Departamento Estadual de Polícia Científica, da Secretaria da Segurança Pública, ficam com sua denominação alterada para Desenhista Técnico-Pericial, devendo ser integrados no nível inicial da respectiva série de classes.
+§ 1º - O disposto neste artigo aplica-se, nas mesmas bases e condições, àqueles que tenham passado à inatividade em cargos de Desenhista classificado no Instituto de Criminalística.
+§ 2º - Será considerado como de natureza estritamente policial o serviço prestado, no âmbito do Instituto de Criminalística, pelos ocupantes dos cargos a que se refere o "caput".
