@@ -1,0 +1,2 @@
+Revoga o art. 374 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil.
+Faço saber que o Presidente da República adotou a Medida Provisória nº 104, de 2003, que o Congresso Nacional aprovou, e eu, Inocêncio Oliveira, Primeiro Vice-Presidente, no exercício da Presidência da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
