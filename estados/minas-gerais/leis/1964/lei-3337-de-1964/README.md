@@ -1,0 +1,6 @@
+# Lei nº 3.337, de 24 de dezembro de 1964, do Estado de Minas Gerais
+
+ABRE À SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA O CRÉDITO ESPECIAL DE
+CR$ 15.943.377,50.
+
+Fonte: ALMG, Legislação Mineira (Dados Abertos), <https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/3337/1964?formato=json>
