@@ -1,0 +1,16 @@
+ANEXO I
+TERMO DE OPÇÃO
+........................................ (razão social da entidade), inscrita no CNPJ sob o No ......................................., formaliza, por este Termo, a opção pelo regime especial de tributação previsto no art. 2o da Medida Provisória No 2.222. Local e data .............................. -------------------------------------------- Assinatura do Representante Legal da Entidade
+[arquivo anexo: 1.htm]
+ANEXO II
+DECLARAÇÃO
+...........................................(razão social da entidade), inscrita no CNPJ sob o No...........................................vem, por meio desta, declarar ao ................................................(nome do banco, corretora ou distribuidora) que exerceu a opção pelo regime especial de tributação previsto no art. 2o da Medida Provisória No 2.222. Por essa razão, solicita a dispensa de retenção do imposto de renda sobre os rendimentos das aplicações financeiras das provisões, reservas técnicas e fundos de todos os planos de benefícios de caráter previdenciário (ou Fapi) operados por essa entidade, inclusive os de que trata o art. 6o da mesma Medida Provisória. Na oportunidade, anexa cópia do documento comprobatório da referida opção. Local e data ............................... ------------------------------------------- Assinatura do Representante Legal da Entidade Abono da assinatura pela instituição financeira
+[arquivo anexo: 1.htm]
+ANEXO III
+TERMO DE EXCLUSÃO
+...........................................(razão social da entidade), inscrita no CNPJ sob o No .......................................formaliza, por este Termo, a exclusão do regime especial de tributação de que trata o art. 2o da Medida Provisória No 2.222. Local e data ................................ --------------------------------------------- Assinatura do Representante Legal da Entidade
+[arquivo anexo: 1.htm]
+ANEXO IV
+DECLARAÇÃO
+............................................(razão social da entidade), inscrita no CNPJ sob o No...............................declara, para efeito do disposto no "caput" do art. 5o da Medida Provisória No 2.222, ter requerido a desistência de todas as ações judiciais relativas aos tributos incidentes sobre os rendimentos, ganhos, lucros e movimentações de recursos das provisões, reservas técnicas e fundos dos planos de benefícios de caráter previdenciário operados por essa entidade. Também, pela presente, declara que renuncia a qualquer alegação de direito sobre as quais se fundam as referidas ações. Declara, ainda, que pagará os débitos objeto das ações judiciais, bem assim os débitos da mesma natureza decorrentes de fatos geradores ocorridos até 31 de agosto de 2001, não incluídos em qualquer ação: em quota única em ......... parcelas mediante conversão de depósito para garantia de instância em renda da União Finalmente, anexa à presente, as 2a vias das petições de desistência das ações, devidamente protocolizadas no juízo ou tribunal competente, se comprometendo, ainda, entregar, a essa unidade da Secretaria da Receita Federal, cópia das decisões homologatórias das referidas desistências, no prazo de até trinta dias da data de sua publicação. Local e data ................................ -------------------------------------------- Assinatura do Representante Legal da Entidade
+[arquivo anexo: 1.htm]
