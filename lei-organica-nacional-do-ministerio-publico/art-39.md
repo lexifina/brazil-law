@@ -1,0 +1,3 @@
+Art. 39. Em caso de extinção do órgão de execução, da Comarca ou mudança da sede da Promotoria de Justiça, será facultado ao Promotor de Justiça remover-se para outra Promotoria de igual entrância ou categoria, ou obter a disponibilidade com vencimentos integrais e a contagem do tempo de serviço como se em exercício estivesse.
+§ 1º O membro do Ministério Público em disponibilidade remunerada continuará sujeito às vedações constitucionais e será classificado em quadro especial, provendo-se a vaga que ocorrer.
+§ 2º A disponibilidade, nos casos previstos no caput deste artigo outorga ao membro do Ministério Público o direito à percepção de vencimentos e vantagens integrais e à contagem do tempo de serviço como se em exercício estivesse.

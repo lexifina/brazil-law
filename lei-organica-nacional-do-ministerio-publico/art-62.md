@@ -1,0 +1,1 @@
+Art. 62. Verificada a vaga para remoção ou promoção, o Conselho Superior do Ministério Público expedirá, no prazo máximo de sessenta dias, edital para preenchimento do cargo, salvo se ainda não instalado.

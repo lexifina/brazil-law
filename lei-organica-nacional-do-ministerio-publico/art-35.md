@@ -1,0 +1,2 @@
+Art. 35. O Centro de Estudos e Aperfeiçoamento Funcional é órgão auxiliar do Ministério Público destinado a realizar cursos, seminários, congressos, simpósios, pesquisas, atividades, estudos e publicações visando ao aprimoramento profissional e cultural dos membros da instituição, de seus auxiliares e funcionários, bem como a melhor execução de seus serviços e racionalização de seus recursos materiais.
+Parágrafo único. A Lei Orgânica estabelecerá a organização, funcionamento e demais atribuições do Centro de Estudos e Aperfeiçoamento Funcional.

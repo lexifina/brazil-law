@@ -1,0 +1,3 @@
+Art. 60. Suspende-se, até definitivo julgamento, o exercício funcional de membro do Ministério Público quando, antes do decurso do prazo de dois anos, houver impugnação de seu vitaliciamento.
+§ 1º A Lei Orgânica disciplinará o procedimento de impugnação, cabendo ao Conselho Superior do Ministério Público decidir, no prazo máximo de sessenta dias, sobre o não vitaliciamento e ao Colégio de Procuradores, em trinta dias, eventual recurso.
+§ 2º Durante a tramitação do procedimento de impugnação, o membro do Ministério Público perceberá vencimentos integrais, contando-se para todos os efeitos o tempo de suspensão do exercício funcional, no caso de vitaliciamento.
