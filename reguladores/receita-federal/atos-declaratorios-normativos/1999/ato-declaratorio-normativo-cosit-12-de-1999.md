@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 12, de 12 de abril de 1999
+"Dispõe sobre as aquisições com benefícios fiscais previstos nos dispositivos que menciona."
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o art. 199, inciso IV, do Regimento Interno aprovado pela Portaria Ministerial No 227, de 3 de setembro de 1998,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados, que as aquisições com os benefícios fiscais previstos no inc. XXXVI, do art. 7o, da Lei No 4.502, de 30.11.64, acrescentado pela Alteração 3, do art. 2o, do Decreto-lei No 34, de 18.11.66, modificada pela Lei No 5.330, de 11.10.67, no art. 12, inc. III, da Lei No 9.493, de 10.09.97, e na Nota Complementar NC(93-1), da TIPI/96, só poderão ser realizadas diretamente pelos órgãos mencionados nos dispositivos concessivos, para incorporação ao patrimônio público e uso privativo dos integrantes dos referidos órgãos.
+CARLOS ALBERTO DE NIZA E CASTRO
