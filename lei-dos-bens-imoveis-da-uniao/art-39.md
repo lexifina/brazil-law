@@ -1,0 +1,1 @@
+Art. 39. As disposições previstas no art. 30 aplicam-se, no que couber, às entidades da Administração Pública Federal indireta, inclusive às autarquias e fundações públicas e às sociedades sob controle direto ou indireto da União.

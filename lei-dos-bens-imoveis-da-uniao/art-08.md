@@ -1,0 +1,1 @@
+Art. 8º Na realização do cadastramento ou recadastramento de ocupantes, serão observados os procedimentos previstos no art. 128 do Decreto-Lei nº 9.760, de 5 de setembro de 1946, com as alterações desta Lei.
