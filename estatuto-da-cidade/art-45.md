@@ -1,0 +1,1 @@
+Art. 45. Os organismos gestores das regiões metropolitanas e aglomerações urbanas incluirão obrigatória e significativa participação da população e de associações representativas dos vários segmentos da comunidade, de modo a garantir o controle direto de suas atividades e o pleno exercício da cidadania.
