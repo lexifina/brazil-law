@@ -1,0 +1,18 @@
+Art. 18. Aprovado o projeto de loteamento ou de desmembramento, o loteador deverá submetê-lo ao registro imobiliário dentro de 180 (cento e oitenta) dias, sob pena de caducidade da aprovação, acompanhado dos seguintes documentos:
+I - título de propriedade do imóvel;
+II - histórico dos títulos de propriedade do imóvel, abrangendo os últimos 20 (vintes anos), acompanhados dos respectivos comprovantes;
+III - certidões negativas:
+a) de tributos federais, estaduais e municipais incidentes sobre o imóvel;
+b) de ações reais referentes ao imóvel, pelo período de 10 (dez) anos;
+c) de ações penais com respeito ao crime contra o patrimônio e contra a Administração Pública.
+IV - certidões:
+a) dos cartórios de protestos de títulos, em nome do loteador, pelo período de 10 (dez) anos;
+b) de ações pessoais relativas ao loteador, pelo período de 10 (dez) anos;
+c) de ônus reais relativos ao imóvel;
+d) de ações penais contra o loteador, pelo período de 10 (dez) anos.
+V - cópia do ato de aprovação do loteamento e comprovante do termo de verificação pela Prefeitura da execução das obras exigidas por legislação municipal, que incluirão, no mínimo, a execução das vias de circulação do loteamento, demarcação dos lotes, quadras e logradouros e das obras de escoamento das águas pluviais ou da aprovação de um cronograma, com a duração máxima de 2 (dois) anos, acompanhado de competente instrumento de garantia para a execução das obras;
+VI - exemplar do contrato padrão de promessa de venda, ou de cessão ou de promessa de cessão, do qual constarão obrigatoriamente as indicações previstas no art. 26 desta Lei;
+VII - declaração do cônjuge do requerente de que consente no registro do loteamento.
+§ 1º - Os períodos referidos nos incisos III, alínea b e IV, alíneas a, e d, tomarão por base a data do pedido de registro do loteamento, devendo todas elas serem extraídas em nome daqueles que, nos mencionados períodos, tenham sido titulares de direitos reais sobre o imóvel.
+§ 2º - A existência de protestos, de ações pessoais ou de ações penais, exceto as referentes a crime contra o patrimônio e contra a administração, não impedirá o registro do loteamento se o requerente comprovar que esses protestos ou ações não poderão prejudicar os adquirentes dos lotes. Se o Oficial do Registro de Imóveis julgar insuficiente a comprovação feita, suscitará a dúvida perante o juiz competente.
+§ 3º - A declaração a que se refere o inciso VII deste artigo não dispensará o consentimento do declarante para os atos de alienação ou promessa de alienação de lotes, ou de direitos a eles relativos, que venham a ser praticados pelo seu cônjuge.
