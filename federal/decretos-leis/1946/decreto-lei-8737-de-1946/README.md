@@ -1,0 +1,89 @@
+# Altera disposições da Consolidação das Leis do Trabalho, referentes à Justiça do Trabalho, e dá outras providências (Decreto-Lei nº 8.737, de 19/01/1946)
+
+DEL8737 · 1 versions, from 1946-01-26 (latest in force: 1946-01-26) · <https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1946-01-19;8737>
+
+Text: normas.leg.br (Congresso Nacional), CC BY 4.0, the text as published. Earlier versions are not in this record yet.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| art-001 | [art-001.md](art-001.md) | 0 |  |
+| art-002 | [art-002.md](art-002.md) | 0 |  |
+| art-003 | [art-003.md](art-003.md) | 0 |  |
+| art-004 | [art-004.md](art-004.md) | 0 |  |
+| art-005 | [art-005.md](art-005.md) | 0 |  |
+| art-006 | [art-006.md](art-006.md) | 0 |  |
+| art-007 | [art-007.md](art-007.md) | 0 |  |
+| art-008 | [art-008.md](art-008.md) | 0 |  |
+| art-009 | [art-009.md](art-009.md) | 0 |  |
+| art-010 | [art-010.md](art-010.md) | 0 |  |
+| art-011 | [art-011.md](art-011.md) | 0 |  |
+| art-012 | [art-012.md](art-012.md) | 0 |  |
+| art-013 | [art-013.md](art-013.md) | 0 |  |
+| art-014 | [art-014.md](art-014.md) | 0 |  |
+| art-015 | [art-015.md](art-015.md) | 0 |  |
+| art-016 | [art-016.md](art-016.md) | 0 |  |
+| art-146 | [art-146.md](art-146.md) | 0 |  |
+| art-631 | [art-631.md](art-631.md) | 0 |  |
+| art-647 | [art-647.md](art-647.md) | 0 |  |
+| art-649 | [art-649.md](art-649.md) | 0 |  |
+| art-654 | [art-654.md](art-654.md) | 0 |  |
+| art-655 | [art-655.md](art-655.md) | 0 |  |
+| art-656 | [art-656.md](art-656.md) | 0 |  |
+| art-657 | [art-657.md](art-657.md) | 0 |  |
+| art-658 | [art-658.md](art-658.md) | 0 |  |
+| art-670 | [art-670.md](art-670.md) | 0 |  |
+| art-680 | [art-680.md](art-680.md) | 0 |  |
+| art-681 | [art-681.md](art-681.md) | 0 |  |
+| art-682 | [art-682.md](art-682.md) | 0 |  |
+| art-683 | [art-683.md](art-683.md) | 0 |  |
+| art-689 | [art-689.md](art-689.md) | 0 |  |
+| art-690 | [art-690.md](art-690.md) | 0 |  |
+| art-692 | [art-692.md](art-692.md) | 0 |  |
+| art-693 | [art-693.md](art-693.md) | 0 |  |
+| art-694 | [art-694.md](art-694.md) | 0 |  |
+| art-695 | [art-695.md](art-695.md) | 0 |  |
+| art-696 | [art-696.md](art-696.md) | 0 |  |
+| art-697 | [art-697.md](art-697.md) | 0 |  |
+| art-698 | [art-698.md](art-698.md) | 0 |  |
+| art-699 | [art-699.md](art-699.md) | 0 |  |
+| art-700 | [art-700.md](art-700.md) | 0 |  |
+| art-701 | [art-701.md](art-701.md) | 0 |  |
+| art-702 | [art-702.md](art-702.md) | 0 |  |
+| art-703 | [art-703.md](art-703.md) | 0 |  |
+| art-704 | [art-704.md](art-704.md) | 0 |  |
+| art-705 | [art-705.md](art-705.md) | 0 |  |
+| art-706 | [art-706.md](art-706.md) | 0 |  |
+| art-707 | [art-707.md](art-707.md) | 0 |  |
+| art-708 | [art-708.md](art-708.md) | 0 |  |
+| art-709 | [art-709.md](art-709.md) | 0 |  |
+| art-710 | [art-710.md](art-710.md) | 0 |  |
+| art-712 | [art-712.md](art-712.md) | 0 |  |
+| art-718 | [art-718.md](art-718.md) | 0 |  |
+| art-721 | [art-721.md](art-721.md) | 0 |  |
+| art-737 | [art-737.md](art-737.md) | 0 |  |
+| art-748 | [art-748.md](art-748.md) | 0 |  |
+| art-749 | [art-749.md](art-749.md) | 0 |  |
+| art-750 | [art-750.md](art-750.md) | 0 |  |
+| art-751 | [art-751.md](art-751.md) | 0 |  |
+| art-752 | [art-752.md](art-752.md) | 0 |  |
+| art-757 | [art-757.md](art-757.md) | 0 |  |
+| art-758 | [art-758.md](art-758.md) | 0 |  |
+| art-760 | [art-760.md](art-760.md) | 0 |  |
+| art-761 | [art-761.md](art-761.md) | 0 |  |
+| art-774 | [art-774.md](art-774.md) | 0 |  |
+| art-775 | [art-775.md](art-775.md) | 0 |  |
+| art-789 | [art-789.md](art-789.md) | 0 |  |
+| art-821 | [art-821.md](art-821.md) | 0 |  |
+| art-851 | [art-851.md](art-851.md) | 0 |  |
+| art-864 | [art-864.md](art-864.md) | 0 |  |
+| art-883 | [art-883.md](art-883.md) | 0 |  |
+| art-893 | [art-893.md](art-893.md) | 0 |  |
+| art-894 | [art-894.md](art-894.md) | 0 |  |
+| art-895 | [art-895.md](art-895.md) | 0 |  |
+| art-896 | [art-896.md](art-896.md) | 0 |  |
+| art-897 | [art-897.md](art-897.md) | 0 |  |
+| art-899 | [art-899.md](art-899.md) | 0 |  |
+| art-902 | [art-902.md](art-902.md) | 0 |  |
+| art-903 | [art-903.md](art-903.md) | 0 |  |
+| art-904 | [art-904.md](art-904.md) | 0 |  |
+| preambulo | [preambulo.md](preambulo.md) | 0 |  |
