@@ -1,0 +1,3 @@
+Art. 7º - O concurso para ingresso nos cargos iniciais (art. 2º) no qual só poderão inscrever-se bacharéis em direito, de reputação ilibada e com, pelo menos, cinco anos de prática forense, é de títulos e provas, prestado perante a Comissão mencionada no art. 5º, e organizado segundo o que fôr estabelecido em Regulamento baixado pelo Procurador Geral da República.
+§ 1º Em janeiro de cada ano, o Procurador Geral da República fará publicar no Diário Oficial a lista de antiguidade dos Procuradores e Adjuntos, no Ministério Público Federal e nas categorias (art. 3º, § 2º), organizada segundo o que constar nas respectivas fôlhas de pagamento.
+§ 2º Da classificação constante da lista haverá recurso para a Comissão estabelecida no art. 5º da presente Lei.
