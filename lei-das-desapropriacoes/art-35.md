@@ -1,0 +1,1 @@
+Art. 35. Os bens expropriados, uma vez incorporados à Fazenda Pública, não podem ser objeto de reivindicação, ainda que fundada em nulidade do processo de desapropriação. Qualquer ação, julgada procedente, resolver-se-á em perdas e danos.

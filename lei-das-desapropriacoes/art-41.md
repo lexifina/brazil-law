@@ -1,0 +1,1 @@
+Art. 41. As disposições desta lei aplicam-se aos processos de desapropriação em curso, não se permitindo depois de sua vigência outros termos e atos além dos por ela admitidos, nem o seu processamento por forma diversa da que por ela é regulada.
