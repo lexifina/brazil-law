@@ -1,0 +1,10 @@
+DESPACHO: Trata-se de agravo de instrumento interposto contra ato decisório que inadmitiu o apelo extremo manifestado pela parte  ora  agravante, sob alegação de ofensa aos preceitos inscritos no art. 5º, XXXV e LV, da Constituição Federal.
+Consoante bem acentuou o ato decisório ora impugnado, o acórdão recorrido não evidencia, em seu conteúdo, qualquer discussão de índole constitucional. Na realidade, a decisão proferida pelo Tribunal a quo, ao versar o exame de questões pertinentes aos requisitos de admissibilidade do recurso de revista, limitou-se à análise de matéria revestida de natureza essencialmente processual, circunstância esta que inviabiliza a possibilidade de adequada utilização do recurso extraordinário, consoante tem sido reiteradamente proclamado pela jurisprudência do Supremo Tribunal Federal (RTJ 147/255, Rel. Min. SYDNEY SANCHES; Ag 146.959 (AgRg), Rel. Min. FRANCISCO REZEK; Ag 116.132-SP (AgRg), Rel. Min. RAFAEL MAYER).
+Finalmente, é preciso ressaltar que a eventual rejeição, por qualquer órgão do Poder Judiciário, da pretensão recursal deduzida  pela  parte  impugnante não importa em recusa  de  tutela jurisdicional  e  nem  configura,  por  isso mesmo, violação ao direito a  todos  assegurado  pelo  art. 5º,  XXXV,  da Carta Política.
+A Primeira Turma do Supremo Tribunal Federal, ao apreciar o RE 97.557-8, Rel. p/ o acórdão Min. CELSO DE MELLO, decidiu, a propósito do tema, que, verbis: "Decisão  emanada  do  Poder Judiciário, ainda que errônea (...) ou insatisfatória, não deixa  de  configurar-se  como resposta efetiva do Estado-Juiz à invocação, pelo interessado, da tutela jurisdicional do Poder Público.
+A prestação jurisdicional que se revela contrária ao interesse de quem a postula não se identifica, não se equipara e nem se confunde, para efeito de acesso à via recursal extraordinária, com a ausência de prestação jurisdicional."
+Assim sendo, e pelas razões expostas, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 08 de novembro de 1995.
+Ministro CELSO DE MELLO
+     Relator
