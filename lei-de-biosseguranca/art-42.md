@@ -1,0 +1,1 @@
+Art. 42. Revogam-se a Lei nº 8.974, de 5 de janeiro de 1995, a Medida Provisória nº 2.191-9, de 23 de agosto de 2001, e os arts. 5º, 6º, 7º, 8º, 9º, 10 e 16 da Lei nº 10.814, de 15 de dezembro de 2003.

@@ -1,0 +1,1 @@
+Art. 39. Não se aplica aos OGM e seus derivados o disposto na Lei nº 7.802, de 11 de julho de 1989, e suas alterações, exceto para os casos em que eles sejam desenvolvidos para servir de matéria-prima para a produção de agrotóxicos.
