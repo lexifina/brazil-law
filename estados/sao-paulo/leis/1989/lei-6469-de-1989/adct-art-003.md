@@ -1,0 +1,1 @@
+Artigo 3.º - A vantagem de mérito prevista no Artigo 13 da Lei n. 4.569, de 16 de maio de 1985, para os servidores ferroviários incluídos na Escala Salarial 3, e a gratificação instituida pelo Artigo 1.º da Lei n. 5.226, de 7 de julho de 1986, com as alterações posteriores, ficam absorvidas pelos valores dos salários mensais fixados por esta lei.
