@@ -1,0 +1,1 @@
+Art. 1º - O Govêrno Federal assumirá, nos têrmos desta Lei, a iniciativa da comemoração do primeiro centenário de nascimento do historiador brasileiro João Capistrano de Abreu, a decorrer a 23 de outubro de 1953.

@@ -1,0 +1,1 @@
+Art. 7º - O Orçamento Geral da República consignará anualmente a subvenção ordinária de Cr$80.000,00 (oitenta mil cruzeiros) para ajuda à manutenção da Sociedade Capistrano de Abreu, que se obrigará a manter em ordem e em estado de visitação pública a biblioteca e o arquivo do grande historiador.
