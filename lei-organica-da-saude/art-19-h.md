@@ -1,0 +1,1 @@
+Art. 19-H. As populações indígenas terão direito a participar dos organismos colegiados de formulação, acompanhamento e avaliação das políticas de saúde, tais como o Conselho Nacional de Saúde e os Conselhos Estaduais e Municipais de Saúde, quando for o caso.

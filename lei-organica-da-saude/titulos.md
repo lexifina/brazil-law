@@ -16,6 +16,8 @@ Seção I
 Das Atribuições Comuns
 Seção II
 Da Competência
+CAPÍTULO V
+Do Subsistema de Atenção à Saúde Indígena
 DA ASSISTÊNCIA TERAPÊUTICA E DA INCORPORAÇÃO DE TECNOLOGIA EM SAÚDE"
 TÍTULO III
 DOS SERVIÇOS PRIVADOS DE ASSISTÊNCIA À SAÙDE
