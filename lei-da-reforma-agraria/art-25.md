@@ -1,0 +1,3 @@
+Art. 25. O orçamento da União fixará, anualmente, o volume de títulos da dívida agrária e dos recursos destinados, no exercício, ao atendimento do Programa de Reforma Agrária.
+§ 1º Os recursos destinados à execução do Plano Nacional de Reforma Agrária deverão constar do orçamento do ministério responsável por sua implementação e do órgão executor da política de colonização e reforma agrária, salvo aqueles que, por sua natureza, exijam instituições especializadas para a sua aplicação.
+§ 2º Objetivando a compatibilização dos programas de trabalho e propostas orçamentárias, o órgão executor da reforma agrária encaminhará, anualmente e em tempo hábil, aos órgãos da administração pública responsáveis por ações complementares, o programa a ser implantado no ano subseqüente.

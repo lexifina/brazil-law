@@ -1,0 +1,1 @@
+Art. 16. Efetuada a desapropriação, o órgão expropriante, dentro do prazo de 3 (três) anos, contados da data de registro do título translativo de domínio, destinará a respectiva área aos beneficiários da reforma agrária, admitindo-se, para tanto, formas de exploração individual, condominial, cooperativa, associativa ou mista.
