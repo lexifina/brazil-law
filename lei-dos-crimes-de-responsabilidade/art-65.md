@@ -1,0 +1,1 @@
+Art. 65. O acusador e o acusado, ou os seus procuradores, poderão reinquirir as testemunhas, contestá-las sem interrompê-las e requerer a sua acareação sejam feitas as perguntas que julgar necessárias.
