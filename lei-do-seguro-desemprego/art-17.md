@@ -1,1 +1,0 @@
-Art. 17. As contribuições ao PIS e ao Pasep serão arrecadadas pela Caixa Econômica Federal, mediante instrumento próprio, de conformidade com normas e procedimentos a serem definidos pelos gestores do FAT.
