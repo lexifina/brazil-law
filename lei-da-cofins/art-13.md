@@ -1,0 +1,1 @@
+Art. 13. Esta lei complementar entra em vigor na data de sua publicação, produzindo efeitos a partir do primeiro dia do mês seguinte aos noventa dias posteriores, àquela publicação, mantidos, até essa data, o Decreto-Lei n° 1.940, de 25 de maio de 1982 e alterações posteriores, a alíquota fixada no art. 11 da Lei n° 8.114, de 12 de dezembro de 1990.
