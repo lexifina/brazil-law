@@ -1,0 +1,1 @@
+Art. 4º A CPR é título líquido e certo, exigível pela quantidade e qualidade de produto nela previsto.Parágrafo único. O cumprimento parcial da obrigação de entrega será anotado, sucessivamente, no verso da cédula, tornando-se exigível apenas o saldo.

@@ -1,0 +1,1 @@
+Art. 8º A não identificação dos bens objeto de alienação fiduciária não retira a eficácia da garantia, que poderá incidir sobre outros do mesmo gênero, qualidade e quantidade, de propriedade do garante.
