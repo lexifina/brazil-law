@@ -1,1 +1,2 @@
-Art. 4º A retirada de tecidos, órgãos e partes do corpo de pessoas falecidas, para transplante ou outra finalidade terapêutica, dependerá da autorização de qualquer um de seus parentes maiores, na linha reta ou colateral, até o segundo grau inclusive, ou do cônjuge, firmada em documento subscrito por duas testemunhas presentes à verificação da morte.
+Art. 4º A retirada de tecidos, órgãos e partes do corpo de pessoas falecidas para transplantes ou outra finalidade terapêutica, dependerá da autorização do cônjuge ou parente, maior de idade, obedecida a linha sucessória, reta ou colateral, até o segundo grau inclusive, firmada em documento subscrito por duas testemunhas presentes à verificação da morte.
+Parágrafo único. (VETADO)
