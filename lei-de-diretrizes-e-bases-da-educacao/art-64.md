@@ -1,0 +1,1 @@
+Art. 64. A formação de profissionais de educação para administração, planejamento, inspeção, supervisão e orientação educacional para a educação básica, será feita em cursos de graduação em pedagogia ou em nível de pós-graduação, a critério da instituição de ensino, garantida, nesta formação, a base comum nacional.

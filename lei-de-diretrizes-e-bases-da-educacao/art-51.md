@@ -1,0 +1,1 @@
+Art. 51. As instituições de educação superior credenciadas como universidades, ao deliberar sobre critérios e normas de seleção e admissão de estudantes, levarão em conta os efeitos desses critérios sobre a orientação do ensino médio, articulando-se com os órgãos normativos dos sistemas de ensino.

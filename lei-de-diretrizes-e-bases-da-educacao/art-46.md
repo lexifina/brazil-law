@@ -1,0 +1,3 @@
+Art. 46. A autorização e o reconhecimento de cursos, bem como o credenciamento de instituições de educação superior, terão prazos limitados, sendo renovados, periodicamente, após processo regular de avaliação.
+§ 1º Após um prazo para saneamento de deficiências eventualmente identificadas pela avaliação a que se refere este artigo, haverá reavaliação, que poderá resultar, conforme o caso, em desativação de cursos e habilitações, em intervenção na instituição, em suspensão temporária de prerrogativas da autonomia, ou em descredenciamento.
+§ 2º No caso de instituição pública, o Poder Executivo responsável por sua manutenção acompanhará o processo de saneamento e fornecerá recursos adicionais, se necessários, para a superação das deficiências.

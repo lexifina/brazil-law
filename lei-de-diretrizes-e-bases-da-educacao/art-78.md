@@ -1,0 +1,3 @@
+Art. 78. O Sistema de Ensino da União, com a colaboração das agências federais de fomento à cultura e de assistência aos índios, desenvolverá programas integrados de ensino e pesquisa, para oferta de educação escolar bilingüe e intercultural aos povos indígenas, com os seguintes objetivos:
+I - proporcionar aos índios, suas comunidades e povos, a recuperação de suas memórias históricas; a reafirmação de suas identidades étnicas; a valorização de suas línguas e ciências;
+II - garantir aos índios, suas comunidades e povos, o acesso às informações, conhecimentos técnicos e científicos da sociedade nacional e demais sociedades indígenas e não-índias.
