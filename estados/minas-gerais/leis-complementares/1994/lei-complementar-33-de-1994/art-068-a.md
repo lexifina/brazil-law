@@ -1,0 +1,3 @@
+Art. 68 - A denúncia sobre matéria de competência do Tribunal deverá referir-se a administrador ou responsável sujeito a sua jurisdição, ser redigida com clareza e conter o nome completo, a qualificação, a cópia de documento de identidade e o endereço do denunciante, informações sobre o fato e a autoria, as circunstâncias e os elementos de sua convicção e a indicação das provas que deseja produzir ou indício veemente da existência do fato denunciado.
+
+Parágrafo único - A denúncia apresentada por pessoa jurídica será instruída com prova de sua existência e comprovação de que os signatários têm habilitação para representá-la.

@@ -1,0 +1,1 @@
+Art. 78 - A intimação dos atos e das decisões do Tribunal presume-se perfeita com a publicação no órgão oficial do Estado, observadas, no que couber, as regras dos arts. 234 e 242 do Código de Processo Civil.

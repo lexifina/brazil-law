@@ -1,0 +1,1 @@
+Art. 88 - A falsidade não alegada à época do julgamento será demonstrada por decisão definitiva proferida pelo Juízo Civil ou Criminal, conforme o caso, ou deduzida e provada no processo de rescisão, garantido às partes amplo direito de defesa, depois de notificadas para acompanharem o processo.

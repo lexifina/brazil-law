@@ -1,0 +1,1 @@
+Art. 57 - O Tribunal de Contas comunicará às autoridades competentes dos Poderes do Estado e do município o resultado das inspeções e auditorias que realizar, para as medidas saneadoras das impropriedades e faltas identificadas.

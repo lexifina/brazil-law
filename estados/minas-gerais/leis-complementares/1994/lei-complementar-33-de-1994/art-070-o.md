@@ -1,0 +1,1 @@
+Art. 70 - O denunciante e o denunciado poderão requerer ao Tribunal certidão dos despachos e dos fatos apurados, a qual deverá ser fornecida no prazo máximo de 15 (quinze) dias a contar do recebimento do pedido, desde que o respectivo processo de apuração tenha sido concluído ou arquivado.

@@ -1,0 +1,1 @@
+Art. 91 - O Tribunal de Contas do Estado poderá aplicar aos administradores ou responsáveis que se submetem à sua jurisdição, na forma prevista nesta lei e no seu Regimento Interno, as sanções previstas neste título.

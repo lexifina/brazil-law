@@ -1,0 +1,1 @@
+Art. 14 - O Tribunal de Contas, para o exercício de sua competência institucional, poderá requisitar a órgãos e entidades estaduais a prestação de serviços técnicos especializados, a serem executados em prazo previamente estabelecido.

@@ -1,0 +1,1 @@
+Art. 56 - O Tribunal de Contas poderá determinar a realização de inspeções e auditorias em unidades da administração direta e indireta de qualquer dos Poderes do Estado e do município, as quais serão executadas por seus servidores ou, eventualmente, mediante contrato, por empresas ou profissionais especializados e de notória idoneidade técnica, sob coordenação do Tribunal.

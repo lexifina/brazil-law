@@ -1,0 +1,1 @@
+Art. 81 - O recurso de reconsideração, que terá efeito suspensivo, será apreciado por quem houver proferido a decisão recorrida, na forma estabelecida no Regimento Interno, e poderá ser formulado, uma só vez, por escrito, no prazo de 15 (quinze) dias.
