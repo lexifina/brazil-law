@@ -1,0 +1,3 @@
+Art. 30. A partir de 1º de janeiro de 1996, para efeito do reconhecimento de novas isenções de que tratam os incisos XIV e XXI do art. 6º da Lei nº 7.713, de 22 de dezembro de 1988, com a redação dada pelo art. 47 da Lei nº 8.541, de 23 de dezembro de 1992, a moléstia deverá ser comprovada mediante laudo pericial emitido por serviço médico oficial, da União, dos Estados, do Distrito Federal e dos Municípios.
+§ 1º O serviço médico oficial fixará o prazo de validade do laudo pericial, no caso de moléstias passíveis de controle.
+§ 2º Na relação das moléstias a que se refere o inciso XIV do art. 6º da Lei nº 7.713, de 22 de dezembro de 1988, com a redação dada pelo art. 47 da Lei nº 8.541, de 23 de dezembro de 1992, fica incluída a fibrose cística (mucoviscidose).
