@@ -1,0 +1,1 @@
+Art. 14. Cabe à instância gestora do Sistema Único de Saúde, guardado o seu nível de competência e atribuições, cadastrar, fiscalizar e controlar as instituições e serviços que realizam ações e pesquisas na área do planejamento familiar.
