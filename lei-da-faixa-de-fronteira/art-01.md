@@ -1,0 +1,1 @@
+Art. 1º. - É considerada área indispensável à Segurança Nacional a faixa interna de 150 Km (cento e cinqüenta quilômetros) de largura, paralela à linha divisória terrestre do território nacional, que será designada como Faixa de Fronteira.
