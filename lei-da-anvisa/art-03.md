@@ -1,2 +1,2 @@
-Art. 3º Fica criada a Agência Nacional de Vigilância Sanitária, autarquia sob regime especial, vinculada ao Ministério da Saúde, com sede e foro no Distrito Federal, prazo de duração indeterminado e atuação em todo território nacional.
+Art. 3º Fica criada a Agência Nacional de Vigilância Sanitária - ANVISA, autarquia sob regime especial, vinculada ao Ministério da Saúde, com sede e foro no Distrito Federal, prazo de duração indeterminado e atuação em todo território nacional.
 Parágrafo único. A natureza de autarquia especial conferida à Agência é caracterizada pela independência administrativa, estabilidade de seus dirigentes e autonomia financeira.
