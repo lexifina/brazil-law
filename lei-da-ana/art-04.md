@@ -16,6 +16,7 @@ XIV - organizar, implantar e gerir o Sistema Nacional de Informações sobre Rec
 XV - estimular a pesquisa e a capacitação de recursos humanos para a gestão de recursos hídricos;
 XVI - prestar apoio aos Estados na criação de órgãos gestores de recursos hídricos;
 XVII - propor ao Conselho Nacional de Recursos Hídricos o estabelecimento de incentivos, inclusive financeiros, à conservação qualitativa e quantitativa de recursos hídricos.
+XVIII - participar da elaboração do Plano Nacional de Recursos Hídricos e supervisionar a sua implementação.
 § 1º Na execução das competências a que se refere o inciso II deste artigo, serão considerados, nos casos de bacias hidrográficas compartilhadas com outros países, os respectivos acordos e tratados.
 § 2º As ações a que se refere o inciso X deste artigo, quando envolverem a aplicação de racionamentos preventivos, somente poderão ser promovidas mediante a observância de critérios a serem definidos em decreto do Presidente da República.
 § 3º Para os fins do disposto no inciso XII deste artigo, a definição das condições de operação de reservatórios de aproveitamentos hidrelétricos será efetuada em articulação com o Operador Nacional do Sistema Elétrico - ONS.
