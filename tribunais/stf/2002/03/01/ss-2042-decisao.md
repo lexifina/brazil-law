@@ -1,0 +1,110 @@
+DECISÃO
+SUSPENSÃO DE DECISÃO -
+CONCURSO PÚBLICO -
+INSCRIÇÃO -
+EXCEPCIONALIDADE NÃO
+VERIFICADA - INDEFERIMENTO.
+1.      O Estado do Rio Grande do Norte, na peça de folha 2 a
+9, pleiteia a suspensão da eficácia de liminar concedida nos autos
+do Mandado de Segurança nº 01.001142-0, ajuizado por Roldão de
+Carvalho Barreto Júnior contra ato do Secretário de Estado da
+Administração e Recursos Humanos/RN. O impetrante obteve, com a
+deliberação impugnada, autorização para participar da última fase do
+Concurso Público para provimento de cargos de Agente da Polícia
+Civil do Estado apesar de não ter sido aprovado no exame
+psicotécnico, que equivalia à terceira etapa de certame.
+        O requerente aponta que a competência desta Corte
+resulta do fato de estar em jogo, na ação mandamental, tema de
+índole constitucional e evoca o artigo 4o da Lei nº 4.348, de 26 de
+junho de 1964. Em seguida, discorre sobre a lesão à ordem pública
+decorrente da liminar, na medida em que se olvidou norma da Lei
+Estadual nº 6.202/91 e se afastou "o regular processamento do
+certame, cujas condições são estabelecidas em lei, afetando,
+sobremaneira, a regularidade dos serviços, bem assim a ordem
+administrativa dos trabalhos, que deverão garantir isonomia, que
+promana de lei strictu sensu, aos participantes do concurso,
+conforme exsurge da Constituição Federal de 1988" (folha 5). Alude à
+harmonia da exigência atacada com a Carta da República e afirma que
+o desprezo do requisito, cuja finalidade é revelar o equilíbrio
+psicológico do candidato, implicou ofensa aos princípios da
+legalidade e da eficiência, insertos no artigo 37 da Lei Maior.
+        Em 1º de agosto de 2001, tendo em vista o princípio do
+contraditório, determinei fosse dado conhecimento desta medida ao
+autor do mandado de segurança (folha 34) que, no entanto, deixou
+transcorrer o prazo sem se manifestar.
+        O parecer do Procurador-Geral da República, de folha
+55 à 59, é pelo indeferimento do pedido.
+        À folha 61, despachei, solicitando informações sobre o
+andamento do mandado de segurança, diante da passagem do tempo. O
+Estado, à folha 64, noticia pender a ação de julgamento.
+2.      Extraem-se da Constituição Federal algumas premissas:
+a - as ações, medidas e recursos de acesso ao Supremo
+Tribunal Federal nela estão previstos ante a competência definida no
+artigo 102;
+b - em se tratando de recurso, tal acesso pressupõe o
+esgotamento da jurisdição na origem - artigo 102, incisos II e III.
+Soma-se a este balizamento outro dado muito
+importante: de acordo com a jurisprudência reiterada, apenas se
+admite a competência do Supremo Tribunal Federal para julgar ação
+cautelar que vise a imprimir eficácia suspensiva a certo recurso,
+uma vez não só interposto, como também submetido ao crivo do juízo
+primeiro de admissibilidade, verificando-se, neste último, a
+devolução da matéria.  Então, há de considerar-se como sendo de
+excepcionalidade maior a possibilidade de chegar-se à Suprema Corte
+por meio de pedido de suspensão de medida liminar, sentença ou
+acórdão - procedimento que ganha contornos de verdadeira ação
+cautelar -, e, mesmo assim, diante do que, até aqui, está
+sedimentado acerca da admissibilidade da medida. Tanto quanto
+possível, devem ser esgotados os remédios legais perante a Justiça
+de origem, homenageando-se, com isso, a organicidade e a dinâmica do
+próprio Direito e, mais ainda, preservando-se a credibilidade do
+Judiciário, para o que mister é reconhecer-se a valia das decisões
+proferidas, somente atacáveis mediante os recursos pertinentes.
+Estes, por sinal, viabilizam a almejada bilateralidade do processo,
+o tratamento igualitário das partes, o que não ocorre com a
+suspensão de liminar, segurança, tutela antecipada ou qualquer outra
+decisão. Consubstancia a medida tratamento diferenciado, somente
+favorecendo as pessoas jurídicas de direito público. Nisso, aqueles
+que a defendem tomam-na como a atender interesse coletivo, mas
+deixam de atentar para a dualidade entre o interesse coletivo
+primário, a beneficiar todos, e o interesse coletivo secundário, ou
+seja, os momentâneos e isolados da Administração Pública, sempre
+sujeitos aos ares da política governamental em curso.
+        Assim, toda e qualquer norma ordinária que enseje o
+acesso direto e com queima de etapas ao Supremo Tribunal Federal
+deve ser aplicada com a cabível cautela.
+        A aferição da tese conducente à suspensão quer de
+liminar, de tutela antecipada ou de segurança não prescinde do exame
+do fundamento jurídico do pedido. Dissociar a possibilidade de grave
+lesão à ordem pública e econômica dos parâmetros fáticos e de
+direito envolvidos na espécie mostra-se como verdadeiro contra-
+senso. É potencializar a base da suspensão a ponto de ser colocado
+em plano secundário o arcabouço normativo, o direito por vezes, e
+diria mesmo, na maioria dos casos, subordinante, consagrado no ato
+processual a que se dirige o pedido de suspensão. Não há como
+concluir que restou configurada lesão à ordem, à saúde, à segurança
+ou à economia públicas, fazendo-o à margem do que decidido na
+origem, ao largo das balizas do ato processual implementado à luz da
+garantia constitucional de livre acesso ao Judiciário. Na prática de
+todo e qualquer ato judicante, em relação ao qual é exigida
+fundamentação, considera-se certo quadro e a regência que lhe é
+própria, sob pena de grassar o subjetivismo, de predominar não o
+arcabouço normativo que norteia a atuação, mas a simples repercussão
+do que decidido.
+No caso, a vislumbrar-se risco, este corre à conta da
+suspensão pretendida. A liminar apenas viabilizou a participação do
+impetrante na quarta etapa do Concurso Público para provimento de
+cargos de Agente da Polícia Civil do Estado, preservando-se campo
+propício a possível deferimento da segurança. O ato longe ficou de
+solapar a boa ordem administrativa dos trabalhos concernentes ao
+concurso. Conforme decidido em casos idênticos - Suspensões de
+Segurança nºs 1.669-5 e 1.960-1 -, descabe dar agasalho ao pedido
+formulado pelo Estado do Rio Grande do Norte.
+3.      Na esteira do pronunciamento do Procurador-Geral da
+República, indefiro o pedido de suspensão. Remeta-se cópia desta
+decisão ao Tribunal de Justiça do Estado do Rio Grande do Norte.
+4.      Publique-se.
+Brasília, 1º de março de 2002.
+Ministro MARCO AURÉLIO
+Presidente
+3
