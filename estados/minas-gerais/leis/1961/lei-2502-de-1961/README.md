@@ -1,0 +1,8 @@
+# Lei nº 2.502, de 10 de dezembro de 1961, do Estado de Minas Gerais
+
+INCORPORA ABONO PROVISÓRIO, CONCEDE AUMENTO DE VENCIMENTOS E SALÁRIOS
+AOS SERVIDORES CIVIS E MILITARES, AO PESSOAL DO PODER JUDICIÁRIO, À
+MAGISTRATURA E AO MINISTÉRIO PÚBLICO, MODIFICA A LEGISLAÇÃO TRIBUTÁRIA,
+AUTORIZA EMISSÃO DE APÓLICES E DÁ OUTRAS PROVIDÊNCIAS.
+
+Fonte: ALMG, Legislação Mineira (Dados Abertos), <https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/2502/1961?formato=json>
