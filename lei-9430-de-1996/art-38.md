@@ -1,0 +1,1 @@
+Art. 38. O sujeito passivo usuário de sistema de processamento de dados deverá manter documentação técnica completa e atualizada do sistema, suficiente para possibilitar a sua auditoria, facultada a manutenção em meio magnético, sem prejuízo da sua emissão gráfica, quando solicitada.

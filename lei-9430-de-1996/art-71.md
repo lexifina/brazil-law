@@ -1,0 +1,3 @@
+Art. 71. Sem prejuízo do disposto no art. 74 da Lei nº 8.981, de 20 de janeiro de 1995, os ganhos auferidos por qualquer beneficiário, inclusive pessoa jurídica isenta, nas demais operações realizadas em mercados de liquidação futura, fora de bolsa, serão tributados de acordo com as normas aplicáveis aos ganhos líquidos auferidos em operações de natureza semelhante realizadas em bolsa.
+§ 1º Não se aplica aos ganhos auferidos nas operações de que trata este artigo o disposto no § 1º do art. 81 da Lei nº 8.981, de 20 de janeiro de 1995.
+§ 2º O Poder Executivo poderá estabelecer condições para o reconhecimento de perdas apuradas nas operações de que trata este artigo.
