@@ -1,0 +1,1 @@
+Art. 4º Os logradouros e sanitários públicos, bem como os edifícios de uso público, terão normas de construção, para efeito de licenciamento da respectiva edificação, baixadas pela autoridade competente, destinadas a facilitar o acesso e uso desses locais pelas pessoas portadoras de deficiência.
