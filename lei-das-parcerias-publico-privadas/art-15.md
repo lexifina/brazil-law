@@ -1,0 +1,2 @@
+Art. 15. Compete aos Ministérios e às Agências Reguladoras, nas suas respectivas áreas de competência, submeter o edital de licitação ao órgão gestor, proceder à licitação, acompanhar e fiscalizar os contratos de parceria público-privada.
+Parágrafo único. Os Ministérios e Agências Reguladoras encaminharão ao órgão a que se refere o caput do art. 14 desta Lei, com periodicidade semestral, relatórios circunstanciados acerca da execução dos contratos de parceria público-privada, na forma definida em regulamento.
