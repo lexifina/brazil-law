@@ -1,0 +1,1 @@
+Art. 2º - O Ministério da Agricultura promoverá, através de seu órgão especializado, a implantação, em todo o território nacional, de viveiros de mudas de Pau-Brasil, visando à sua conservação e distribuição para finalidades cívicas.
