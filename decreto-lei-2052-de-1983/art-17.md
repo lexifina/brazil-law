@@ -1,0 +1,1 @@
+Art. 17 - Este Decreto-lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
