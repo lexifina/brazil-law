@@ -1,0 +1,2 @@
+Art. 44. No caso de falência do representado as importâncias por ele devidas ao representante comercial, relacionadas com a representação, inclusive comissões vencidas e vincendas, indenização e aviso prévio, serão considerados créditos da mesma natureza dos créditos trabalhistas.
+Parágrafo único. Prescreve em cinco anos a ação do representante comercial para pleitear a retribuição que lhe é devida e os demais direitos que lhe são garantidos por esta lei.
