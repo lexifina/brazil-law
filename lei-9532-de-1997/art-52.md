@@ -1,0 +1,2 @@
+Art. 52. O valor tributável para o cálculo do IPI devido no desembaraço aduaneiro dos cigarros do código 2402.20.00 da TIPI será apurado da mesma forma que para o produto nacional, tomando-se por base o preço de venda no varejo divulgado pela SRF na forma do inciso I do art. 49.
+Parágrafo único. Os produtos de que trata este artigo estão sujeitos ao imposto apenas por ocasião do desembaraço aduaneiro.
