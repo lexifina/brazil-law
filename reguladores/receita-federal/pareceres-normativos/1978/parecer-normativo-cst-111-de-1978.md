@@ -1,0 +1,12 @@
+Parecer Normativo CST nº 111, de 29 de dezembro de 1978
+IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS 4.12.00.00 – ISENÇÕES
+A isenção do IPI de que trata o Art. 30 do Decreto nº 82.587/78 beneficia exclusivamente os materiais industrializados pelas empresas referidas naquele diploma legal e efetivamente empregados nos sistemas de abastecimentos de água e de esgotos por elas construídos.
+1 - Em estudo, dentre as isenções de impostos federais instituídas pelo Art. 5º da Lei nº 6.528, de 11 de maio de 1978, exclusivamente a referente ao Imposto sobre Produtos Industrializados.
+2 - Assim dispõe o referido artigo:
+"Fica concedida às companhias estaduais de saneamento básico organizadas sob controle acionário do Poder Público, isenção dos impostos federais que incidam sobre o patrimônio, em função dos respectivos serviços ou sobre as atividades desses decorrentes."
+3 - Regulamentando o referido diploma legal, o Decreto nº 82.587, de 06 de novembro de 1978, estatuiu em seu Art. 30:
+"Às companhias estaduais de saneamento básico, organizadas sob o controle acionário do poder público, é reconhecida, nos termos do Art. 5º da Lei nº 6.528, de 11 de maio de 1978, a isenção dos impostos sobre a propriedade territorial rural, produtos industrializados e operações relativas a títulos e valores mobiliários."
+4 - Não incidindo o IPI sobre o patrimônio nem sendo exigido em função de serviços, a isenção em estudo só pode ser entendida como referente às atividades decorrentes dos serviços prestados pelas entidades beneficiárias.
+4.1 - Como tais serviços, conforme esclarece o próprio regulamento (alíneas "a" e "b" do § 2º do Art. 2º) são os sistemas de abastecimento de água e de esgotos , evidentemente, só se há de entender como atividades decorrentes destes serviços a fabricação de materiais destinados à construção de tais obras.
+4.2 - Conseguintemente, a isenção somente beneficia materiais industrializados pelas próprias companhias estaduais de saneamento básico organizadas sob o controle acionário do Poder Público e efetivamente empregados nos sistemas de abastecimento de água e de esgotos construídos por aquelas empresas.
+5 - Ressalte-se que o entendimento consoante o qual se estenderia também a isenção ao material adquirido de terceiros, empregado em tais obras, além de contrariar, conforme já demonstrado acima as normas instituidoras do benefício, conflitaria com a própria legislação do IPI (§ 4º do Art. 18 do RIPI, aprovado pelo Decreto nº 70.162, de 18 de fevereiro de 1972).
