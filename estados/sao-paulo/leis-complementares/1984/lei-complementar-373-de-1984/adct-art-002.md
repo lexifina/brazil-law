@@ -1,0 +1,1 @@
+Artigo 2º - Fica reaberto por 60 (sessenta) dias, contados da data da publicação desta lei complementar, o prazo para opção fixado no § 1º do artigo 2º das Disposições Transitórias da Lei Complementar nº 342, de 6 de janeiro de 1984.
