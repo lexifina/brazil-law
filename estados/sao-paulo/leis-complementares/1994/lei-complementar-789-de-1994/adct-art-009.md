@@ -1,0 +1,2 @@
+Artigo 9º - A inscrição no processo seletivo especial para fins de promoção por merecimento, de que trata o artigo 2º das disposições transitórias desta lei complementar, será feita a pedido do próprio candidato ou por procurador devidamente habilitado, mediante comprovação dos requisitos e o preenchimento de formulários próprios.
+Parágrafo único - No caso de recusa do pedido de inscrição, caberá recurso ao Dirigente do órgão setorial de recursos humanos ou ao Presidente da Comissão Responsável pela Promoção, na forma a ser regulamentada em instrução especial.

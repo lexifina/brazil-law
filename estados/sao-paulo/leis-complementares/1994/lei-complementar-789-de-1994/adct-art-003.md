@@ -1,0 +1,2 @@
+Artigo 3º - A realização da promoção a que se refere o artigo anterior caberá ao órgão setorial de recursos humanos de cada Secretaria de Estado, podendo seu dirigente propor a constituição de Comissões Responsáveis pela Promoção.
+Parágrafo único - Nas Secretarias de Estado onde não tenham sido implantados os órgãos setoriais de recursos humanos, a promoção será realizada por Comissões Responsáveis pela Promoção, instituídas pelos Secretários de Estado, que designarão o seu Presidente.

@@ -1,0 +1,1 @@
+Artigo 10 - Os servidores integrantes de cada série de classes com direito à promoção serão aqueles que constarem da lista de classificação final de sua classe, em ordem decrescente dos pontos de merecimento, até o limite fixado na forma dos artigos 5º e 6º das disposições transitórias desta lei complementar.

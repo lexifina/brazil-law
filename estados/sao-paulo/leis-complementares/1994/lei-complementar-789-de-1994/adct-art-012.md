@@ -1,0 +1,1 @@
+Artigo 12 - O servidor poderá requerer ao dirigente do órgão setorial de recursos humanos ou ao Presidente da Comissão Responsável pela Promoção, revisão dos pontos atribuídos aos títulos e da classificação final obtida, na forma a ser regulamentada em instrução especial.

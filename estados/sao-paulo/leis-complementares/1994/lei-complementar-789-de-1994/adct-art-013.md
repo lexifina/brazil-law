@@ -1,0 +1,2 @@
+Artigo 13 - O Secretário de Estado, a vista de relatório apresentado pelo dirigente do órgão setorial de recursos humanos ou pelo Presidente da Comissão Responsável pela Promoção homologará o processo seletivo especial, de que trata o artigo 2º das disposições transitórias desta lei complementar, no prazo de 15 (quinze) dias contados da data da publicação do resultado final, observado o disposto no artigo anterior.
+Parágrafo único - A homologação poderá ser feita separadamente para cada classe de cada uma das séries de classes e será publicada no Diário Oficial do Estado.
