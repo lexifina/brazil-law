@@ -1,0 +1,11 @@
+[pic]
+
+ESTADO DE ALAGOAS
+
+ASSEMBLÉIA LEGISLATIVA ESTADUAL
+
+A PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE ALAGOAS, no uso das atribuições que lhe confere o parágrafo 6º do artigo 89 da Constituição Estadual, promulga a seguinte Lei:
+
+LEI N.° 6.164, DE 04 DE JULHO DE 2000.
+
+ALTERA A REDAÇÃO DO ART. 1o DA LEI Nº 5.831, DE 13 DE MAIO DE 1996, E DÁ OUTRAS PROVIDÊNCIAS.
