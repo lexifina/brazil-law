@@ -1,0 +1,3 @@
+Art. 2º Os coeficientes individuais de participação, calculados na forma do artigo anterior, deverão ser apurados e publicados no Diário Oficial da União pelo Tribunal de Contas da União até o último dia útil do mês de julho de cada ano.
+§ 1º As unidades federadas disporão de 30 (trinta) dias, a partir da publicação referida no caput deste artigo, para apresentar contestação, juntando desde logo as provas em que se fundamentar.
+§ 2º O Tribunal de Contas da União, no prazo de 30 (trinta) dias contados do recebimento da contestação mencionada no parágrafo anterior, deverá manifestar-se sobre a mesma.
