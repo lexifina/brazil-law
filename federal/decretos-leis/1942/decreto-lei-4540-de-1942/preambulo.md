@@ -1,0 +1,4 @@
+DECRETO-LEI N. 4.540 – DE 31 DE JULHO DE 1942
+Autoriza o Prefeito do Distrito Federal a conceder isenção do imposto territorial ao Sindicato dos Médicos do Rio de Janeiro, referente ao lote número 6 da quadra IV do projeto aprovado nº 1.868, sito à avenida Presidente Wilson.
+O Presidente da República, usando da faculdade que lhe confere o artigo 180 da Constituição e nos termos do art. 31 do decreto-lei nº 96, de 22 de dezembro de 1937,
+decreta:
