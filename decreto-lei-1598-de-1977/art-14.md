@@ -1,6 +1,6 @@
 Art. 14 - O custo das mercadorias revendidas e das matérias-primas utilizadas será determinado com base em registro permanente de estoques ou no valor dos estoques existentes, de acordo com o livro de inventário, no fim do período.
 § 1º - O contribuinte que mantiver sistema de contabilidade de custo integrado e coordenado com o restante da escrituração poderá utilizar os custos apurados para avaliação dos estoques de produtos em fabricação e acabados.
-§ 2º O valor dos bens existentes no encerramento do período-base poderá ser o custo médio ou o dos bens adquiridos ou produzidos mais recentemente. Admitir-se-á a avaliação com base no preço de venda, subtraída a margem de lucro, desde que a avaliação por este critério não resulte em diferença em relação à avaliação procedida pelos critérios anteriores, cabendo à autoridade fiscal provar a eventual diferença.
+§ 2º O valor dos bens existentes no encerramento do período poderá ser o custo médio ou o dos bens adquiridos ou produzidos mais recentemente, admitida, ainda a avaliação com base no preço de venda, subtraída a margem de lucro.
 § 3º - Se a escrituração do contribuinte não satisfizer às condições do § 1º, os estoques deverão ser avaliados:
 a) os de materiais em processamento, por uma vez e meia o maior custo das matérias-primas adquiridas no período-base, ou em 80% do valor dos produtos acabados, determinado de acordo com a alínea b;
 b) os dos produtos acabados, em 70% do maior preço de venda no período-base.
