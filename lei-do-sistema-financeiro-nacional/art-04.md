@@ -21,17 +21,11 @@ X - Determinar a percentagem máxima dos recursos que as instituições financei
 XI - Estipular índices e outras condições técnicas sobre encaixes, mobilizações e outras relações patrimoniais a serem observadas pelas instituições financeiras;
 XII - Expedir normas gerais de contabilidade e estatística a serem observadas pelas instituições financeiras;
 XIII - Delimitar, com periodicidade não inferior a dois anos o capital mínimo das instituições financeiras privadas, levando em conta sua natureza, bem como a localização de suas sedes e agências ou filiais;
-das regiões geo-econômicas;
-das prioridades que atribuir às aplicações;
-da natureza das instituições financeiras;
-das regiões geo-econômicas;
-das prioridades que atribuir às aplicações;
-da natureza das instituições financeiras;
-XIV - Determinar recolhimento de até 40% (quarenta por cento) do total dos depósitos das instituições financeiras, seja na forma de subscrição de letras ou obrigações do Tesouro Nacional ou compra de títulos da Dívida Pública Federal, seja através de recolhimento em espécie, em ambos os casos entregues ao Banco Central do Brasil, na forma e condições que o Conselho Monetário Nacional determinar, podendo este:
-a) adotar percentagens diferentes em função:
-das regiões geo-econômicas;
-das prioridades que atribuir às aplicações;
-da natureza das instituições financeiras.
+XIV - Determinar recolhimento de até 60% (sessenta por cento) do total dos depósitos e/ou outros títulos contábeis das instituições financeiras, seja na forma de subscrição de letras ou obrigações do Tesouro Nacional ou compra de títulos da Dívida Pública Federal, seja através de recolhimento em espécie, em ambos os casos entregues ao Banco Central do Brasil, na forma e condições que o Conselho Monetário Nacional determinar, podendo este:
+a) adotar percentagens diferentes em função;
+- das regiões geo-econômicas;
+- das prioridades que atribuir às aplicações;
+- da natureza das instituições financeiras;
 b) determinar percentuais que não serão recolhidos, desde que tenham sido reaplicados em financiamentos à agricultura, sob juros favorecidos e outras condições fixadas pelo Conselho Monetário Nacional.
 XV - Estabelecer para as instituições financeiras públicas, a dedução dos depósitos de pessoas jurídicas de direito público que lhes detenham o controle acionário, bem como dos das respectivas autarquias e sociedades de economia mista, no cálculo a que se refere o inciso anterior;
 XVI - Enviar obrigatoriamente ao Congresso Nacional, até o último dia do mês subsequente, relatório e mapas demonstrativos da aplicação dos recolhimentos compulsórios, (Vetado).
