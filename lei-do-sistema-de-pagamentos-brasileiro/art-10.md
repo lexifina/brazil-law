@@ -1,0 +1,1 @@
+Art. 10. O Conselho Monetário Nacional, o Banco Central do Brasil e a Comissão de Valores Mobiliários, nas suas respectivas esferas de competência, baixarão as normas e instruções necessárias ao cumprimento desta Lei.
