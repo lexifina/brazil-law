@@ -1,0 +1,1 @@
+Art. 17 - As atribuições conferidas no Código Comercial aos Juizes de Direito do Comércio serão exercidas pelas Justiças ordinárias; às quais fica também competindo o conhecimento das causas comerciais em primeira instancia, com recurso para as Relações respectivas; com as exceções estabelecidas no Código Comercial para os casos de quebra.

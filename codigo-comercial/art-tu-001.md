@@ -1,0 +1,2 @@
+Art. 1º - Haverá Tribunais do Comércio na Capital do Império, nas Capitais das Províncias da Bahia e de Pernambuco, e nas Províncias onde para o futuro se criarem, tendo cada um por distrito o da respectiva Província.
+Nas Províncias onda não houver Tribunal do Comércio, as suas atribuições serão exercidas pelas relações; e, na falta destas, na parte administrativa, pelas Autoridades Administrativas, e na parte judiciária, pelas Autoridades Judiciárias que o Governo designar (art. 27).

@@ -1,0 +1,1 @@
+Art. 29 - O Governo estabelecerá a tarifa dos emolumentos que devem perceber os Tribunais do Comércio. Todas as multas decretadas no Código Comercial sem aplicação especial, entrarão para a caixa dos emolumentos dos respectivos Tribunais do Comércio.

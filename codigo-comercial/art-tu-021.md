@@ -1,0 +1,1 @@
+Art. 21 - Todo o Tribunal ou Juiz que conhecer de negócios ou causas do comércio, todo o árbitro ou arbitrador, experto ou perito que tiver de decidir sobre objetos, atos ou obrigações comerciais, é obrigado a fazer aplicação da Legislação comercial aos casos ocorrentes.

@@ -1,0 +1,2 @@
+Art. 28 - Os lugares de Presidente, Deputado e Fiscal dos Tribunais do Comércio, são empregos honoríficos, e os que os servirem só perceberão, por este título, os emolumentos que direitamente lhes pertencerem. Recaindo a nomeação de Presidente em Desembargador, este acumulará os dois empregos, mas só perceberá o seu ordenado se tiver exercício efetivo na Relação do lugar onde se achar o Tribunal do Comércio.
+Os demais empregados dos mesmos Tribunais perceberão uma gratificação arbitrada pelo Governo sobre consulta dos respectivos Tribunais, e paga pela caixa dos emolumentos.

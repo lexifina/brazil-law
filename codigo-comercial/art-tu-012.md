@@ -1,0 +1,1 @@
+Art. 12 - Os Presidentes dos Tribunais do Comércio das Províncias são obrigados a formar anualmente relatórios dos negócios que perante os mesmos Tribunais se apresentarem, com as decisões que se tomarem; e deles remeterão cópia ao Presidente do Tribunal da Capital do Império, com as observações que julgarem convenientes.

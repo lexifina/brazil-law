@@ -1,0 +1,1 @@
+Art. 8º - Aos Tribunais do Comércio competirá, além das atribuições expressamente declaradas no Código Comercial, aquela jurisdição voluntária inerente à natureza da sua instituição, que for marcada nos Regulamentos do Poder Executivo (art. 27).

@@ -1,0 +1,1 @@
+Art. 13 - O Presidente do Tribunal do Comércio da Capital do Império, formando pela sua parte igual relatório, os levará todos ao conhecimento do Governo, acompanhados das suas observações, para este providenciar como achar conveniente na parte que couber nas suas atribuições, e propor ao Poder Legislativo as disposições que dependerem de medidas legislativas.

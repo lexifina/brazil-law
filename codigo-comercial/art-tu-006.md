@@ -1,0 +1,1 @@
+Art. 6º - Não poderão conjuntamente no mesmo Tribunal os parentes dentro do segundo grau de afinidade em quanto durar o cunhado, ou do quarto de consangüinidade, nem também dois ou mais Deputados comerciantes que tenham sociedade entre si.

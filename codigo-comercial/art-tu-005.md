@@ -1,0 +1,2 @@
+Art. 5º - Nenhum comerciante poderá eximir-se do serviço de Deputado ou Suplente dos Tribunais do Comércio; exceto nos casos de idade avançada, ou moléstia grave e continuada que absolutamente o impossibilite. Os que sem justa causa não aceitarem a nomeação, nunca mais poderão ter voto ativo nem passivo nas eleições comerciais.
+Não é porém obrigatória a aceitação antes de passados quatro anos de intervalo entre o serviço da antecedente e nova nomeação.

@@ -1,0 +1,1 @@
+Art. 11 - Haverá nas Secretarias dos Tribunais do Comércio um Registro Público do Comércio, no qual, em livros competentes, rubricados pelo Presidente do Tribunal, se inscreverá a matricula dos comerciantes (Cód. Comercial art. 4), e todos os papéis, que segundo as disposições do Código Comercial, nele devam ser registrados (Cód. Comercial art. 10 n.º 2).

@@ -1,0 +1,1 @@
+Art. 9º - Ao Tribunal do Comércio da Capital do Império é especialmente encarregada a estatística anual do comércio, agricultura, industria e navegação do Império; e para a sua organização se entenderá com os Tribunais das Províncias, e ainda com outras Autoridades que serão obrigadas a cumprir as suas requisições.

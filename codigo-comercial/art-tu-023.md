@@ -1,0 +1,1 @@
+Art. 23 - Não é necessária a conciliação nas causas comerciais que procederem de papéis de crédito comerciais que se acharem endossados, nas em que as partes não podem transigir, nem para os atos de declaração de quebra.

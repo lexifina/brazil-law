@@ -1,0 +1,1 @@
+Art. 15 - Nenhum comerciante pode ser Deputado ou Suplente, antes de trinta anos completos de idade, e sem que tenha pelo menos cinco anos de profissão habitual de comércio. A nomeação do Presidente não poderá recair em pessoa que tenha menos da referida idade.
