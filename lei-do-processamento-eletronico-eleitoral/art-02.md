@@ -1,3 +1,2 @@
 Art. 2º - Concedida a autorização, o Tribunal Regional Eleitoral, em conformidade com as condições e peculiaridades locais, executará os serviços de processamento eletrônico de dados diretamente ou mediante convênio ou contrato.
 § 1º - Os serviços de que trata este artigo deverão ser executados de acordo com definições e especificações fixadas pelo Tribunal Superior Eleitoral.
-§ 2º - Os serviços de que trata este artigo não poderão ser contratados a entidades da administração direta ou indireta dos Estados e Municípios ou a empresas cuja maioria de capital for detido por pessoa física ou jurídica estabelecida no exterior.
