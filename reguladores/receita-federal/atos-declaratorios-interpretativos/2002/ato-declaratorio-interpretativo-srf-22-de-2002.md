@@ -1,0 +1,18 @@
+Ato Declaratório Interpretativo SRF nº 22, de 5 de novembro de 2002
+Dispõe sobre a exportação de produtos nacionais sem saída do território nacional, para fins de isenção da Contribuição para o PIS/Pasep e da Cofins.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 7º da Lei Complementar nº 70, de 30 de dezembro de 1991, com a redação dada pela Lei Complementar nº 85, de 15 de fevereiro de 1996, no art. 5º da Lei nº 7.714, de 29 de dezembro de 1988, com a redação dada pela Lei nº 9.004, de 16 de março de 1995, no caput, inciso II e § 1º do art. 14 c/c as alíneas b e c do inciso II do art. 93 da MP nº 2.158-35, de 24 de agosto de 2001, no art.6º da MP nº 1.916, de 30 de julho de 1999, convertida na Lei nº 9.826, de 23 de agosto de 1999, no art. 50 da MP nº 66, de 29 de agosto de 2002, no art. 16 da MP nº 75, de 24 de outubro de 2002, e o que consta do Processo nº 13603.001247/97-11, declara:
+Art. 1º Para fins de isenção da Contribuição para o PIS/Pasep e da Cofins, considera-se exportado para o exterior o bem que tenha saído do território nacional.
+Art. 2º A partir de 30 de julho de 1999, considera-se exportado, ainda que não saia do território nacional, o produto nacional vendido, quando o pagamento for efetivado em moeda estrangeira de livre conversibilidade e a venda realizada para:
+I - empresa sediada no exterior, para ser utilizado exclusivamente nas atividades de pesquisa ou lavra de jazidas de petróleo e de gás natural, conforme definidas na Lei nº 9.478, de 6 de agosto de 1997, ainda que a utilização se faça por terceiro sediado no País, observado o disposto no Decreto nº 3.161, de 02 de setembro de 1999, e na Instrução Normativa SRF nº 04, de 10 de janeiro de 2001;
+II - empresa sediada no exterior, para ser totalmente incorporado a produto final exportado para o Brasil;
+III - órgão ou entidade de governo estrangeiro ou organismo internacional de que o Brasil seja membro, para ser entregue, no País, à ordem do comprador.
+Art. 3º A partir de 25 de outubro de 2002, também se considera exportado, observado o disposto no caput do art. 2º, o produto a ser:
+I - totalmente incorporado a bem que se encontre no País, de propriedade do comprador estrangeiro, inclusive em regime de admissão temporária sob a responsabilidade de terceiro;
+II - entregue a órgão da administração direta, autárquica ou fundacional da União, dos Estados, do Distrito Federal ou dos Municípios, em cumprimento de contrato decorrente de licitação internacional;
+III - entregue, em consignação, a empresa nacional autorizada a operar o regime de loja franca;
+IV - entregue, no País, a subsidiária ou coligada, para distribuição sob a forma de brinde a fornecedores e clientes;
+V - entregue a terceiro, no País, em substituição de produto anteriormente exportado e que tenha se mostrado, após o despacho aduaneiro de importação, defeituoso ou imprestável para o fim a que se destinava;
+VI - entregue, no País, a missão diplomática, repartição consular de caráter permanente, ou a integrante estrangeiro de organismo internacional de que o Brasil seja membro.
+Art. 4º Nas operações de exportação sem saída do produto do território nacional, com pagamento a prazo ou a prestação, os efeitos fiscais e cambiais, serão produzidos no momento da contratação, sob condição resolutória, aperfeiçoando-se pelo recebimento integral em moeda de livre conversibilidade.
+Art. 5º As operações previstas neste ato estão sujeitas ao cumprimento de obrigações e formalidades de natureza administrativa e fiscal.
+EVERARDO MACIEL
