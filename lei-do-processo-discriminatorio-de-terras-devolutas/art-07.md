@@ -1,0 +1,1 @@
+Art. 7º - Encerrado o prazo estabelecido no edital de convocação, o presidente da Comissão Especial, dentro de 30 (trinta) dias improrrogáveis, deverá pronunciar-se sobre as alegações, títulos de domínio, documentos dos interessados e boa-fé das ocupações, mandando lavrar os respectivos termos.

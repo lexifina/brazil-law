@@ -1,0 +1,4 @@
+Art. 2º - O processo discriminatório administrativo será instaurado por Comissões Especiais constituídas de três membros, a saber: um bacharel em direito do Serviço Jurídico do Instituto Nacional de Colonização e Reforma Agrária - INCRA, que a presidirá; um engenheiro agrônomo e um outro funcionário que exercerá as funções de secretário.
+§ 1º - As Comissões Especiais serão criadas por ato do presidente do Instituto Nacional de Colonização e Reforma Agrária
+- INCRA, e terão jurisdição e sede estabelecidas no respectivo ato de criação, ficando os seus presidentes investidos de poderes de representação da União, para promover o processo discriminatório administrativo previsto nesta Lei.
+§ 2º - O Instituto Nacional de Colonização e Reforma Agrária - INCRA, no prazo de 30 (trinta) dias após a vigência desta Lei, baixará Instruções Normativas, dispondo, inclusive, sobre o apoio administrativo às Comissões Especiais.

@@ -1,0 +1,1 @@
+Art. 10 - Serão notificados, por ofício, os interessados e seus cônjuges para, no prazo não inferior a 8 (oito) nem superior a 30 (trinta) dias, a contar da juntada ao processo do recibo de notificação, celebrarem com a União os termos cabíveis.
