@@ -1,0 +1,1 @@
+Art. 44. No âmbito municipal, a gestão orçamentária participativa de que trata a alínea f do inciso III do art. 4º desta Lei incluirá a realização de debates, audiências e consultas públicas sobre as propostas do plano plurianual, da lei de diretrizes orçamentárias e do orçamento anual, como condição obrigatória para sua aprovação pela Câmara Municipal.

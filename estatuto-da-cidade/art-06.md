@@ -1,0 +1,1 @@
+Art. 6º A transmissão do imóvel, por ato inter vivos ou causa mortis, posterior à data da notificação, transfere as obrigações de parcelamento, edificação ou utilização previstas no art. 5º desta Lei, sem interrupção de quaisquer prazos.
