@@ -1,0 +1,2 @@
+Art. 13 Para exercer as atribuições do Colégio de Procuradores de Justiça com número superior a quarenta Procuradores de Justiça, poderá ser constituído Órgão Especial, cuja composição e número de integrantes a Lei Orgânica fixará.
+Parágrafo único. O disposto neste artigo não se aplica às hipóteses previstas nos incisos I, IV, V e VI do artigo anterior, bem como a outras atribuições a serem deferidas à totalidade do Colégio de Procuradores de Justiça pela Lei Orgânica.

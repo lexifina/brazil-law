@@ -1,0 +1,1 @@
+Art. 67. A reversão dar-se-á na entrância em que se aposentou o membro do Ministério Público, em vaga a ser provida pelo critério de merecimento, observados os requisitos legais.

@@ -1,0 +1,1 @@
+Art. 65. A Lei Orgânica poderá prever a substituição por convocação, em caso de licença do titular de cargo da carreira ou de afastamento de suas funções junto à Procuradoria ou Promotoria de Justiça, somente podendo ser convocados membros do Ministério Público.
