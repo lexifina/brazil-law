@@ -1,0 +1,1 @@
+Art. 11. Os clubes ou Sociedades Amadoristas de Caça e de tiro ao vôo, poderão ser organizados distintamente ou em conjunto com os de pesca, e só funcionarão válidamente após a obtenção da personalidade jurídica, na forma da Lei civil e o registro no órgão público federal competente.
