@@ -1,0 +1,2 @@
+Art. 9º. Os que, por motivos exclusivamente políticos, foram cassados ou tiveram seus direitos políticos suspensos no período de 15 de julho a 31 de dezembro de 1969, por ato do então Presidente da República, poderão requerer ao Supremo Tribunal Federal o reconhecimento dos direitos e vantagens interrompidos pelos atos punitivos, desde que comprovem terem sido estes eivados de vício grave.
+Parágrafo único. O Supremo Tribunal Federal proferirá a decisão no prazo de cento e vinte dias, a contar do pedido do interessado.
