@@ -1,0 +1,2 @@
+Estabelece normas para registro do resultado líquido negativo decorrente do ajuste dos valores em reais de obrigações e créditos, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.835-5, de 1999, que o Congresso Nacional aprovou, e eu, Antonio Carlos Magalhães, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
