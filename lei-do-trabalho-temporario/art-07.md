@@ -1,0 +1,2 @@
+Art. 7º - A empresa de trabalho temporário que estiver funcionando na data da vigência desta Lei terá o prazo de noventa dias para o atendimento das exigências contidas no artigo anterior.
+Parágrafo único. A empresa infratora do presente artigo poderá ter o seu funcionamento suspenso, por ato do Diretor Geral do Departamento Nacional de Mão-de-Obra, cabendo recurso ao Ministro de Estado, no prazo de dez dias, a contar da publicação do ato no Diário Oficial da União.

@@ -1,0 +1,1 @@
+Art. 15 - A Fiscalização do Trabalho poderá exigir da empresa tomadora ou cliente a apresentação do contrato firmado com a empresa de trabalho temporário, e, desta última o contrato firmado com o trabalhador, bem como a comprovação do respectivo recolhimento das contribuições previdenciárias.

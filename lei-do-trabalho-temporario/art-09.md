@@ -1,0 +1,1 @@
+Art. 9º - O contrato entre a empresa de trabalho temporário e a empresa tomadora de serviço ou cliente deverá ser obrigatoriamente escrito e dele deverá constar expressamente o motivo justificador da demanda de trabalho temporário, assim como as modalidades de remuneração da prestação de serviço.
