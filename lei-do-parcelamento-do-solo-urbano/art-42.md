@@ -1,0 +1,1 @@
+Art. 42. Nas desapropriações não serão considerados como loteados ou loteáveis, para fins de indenização, os terrenos ainda não vendidos ou compromissados, objeto de loteamento ou desmembramento não registrado.
