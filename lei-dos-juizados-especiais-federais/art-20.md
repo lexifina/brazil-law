@@ -1,0 +1,1 @@
+Art. 20. Onde não houver Vara Federal, a causa poderá ser proposta no Juizado Especial Federal mais próximo do foro definido no art. 4º da Lei nº 9.099, de 26 de setembro de 1995, vedada a aplicação desta Lei no juízo estadual.
