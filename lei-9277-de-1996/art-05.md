@@ -1,0 +1,1 @@
+Art. 5º A União poderá destinar recursos financeiros à construção, conservação, melhoramento e operação das rodovias ou trechos de rodovias e obras rodoviárias federais ou aos portos, objeto de delegação, desde que tais obras e serviços não sejam de responsabilidade do concessionário.

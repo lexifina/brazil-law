@@ -1,0 +1,1 @@
+Art. 1º Fica a União, por intermédio do Ministério dos Transportes, autorizada a delegar, pelo prazo de até vinte e cinco anos, prorrogáveis por até mais vinte e cinco, aos municípios, estados da Federação ou ao Distrito Federal, ou a consórcio entre eles, a administração de rodovias e exploração de trechos de rodovias, ou obras rodoviárias federais.
