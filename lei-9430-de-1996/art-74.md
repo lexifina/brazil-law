@@ -11,9 +11,9 @@ VII - os débitos relativos a tributos e contribuições de valores originais in
 VIII - os débitos relativos ao recolhimento mensal obrigatório da pessoa física apurados na forma do art. 8º da Lei nº 7.713, de 1988; e
 IX - os débitos relativos ao pagamento mensal por estimativa do Imposto sobre a Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL apurados na forma do art. 2º.
 § 4º Os pedidos de compensação pendentes de apreciação pela autoridade administrativa serão considerados declaração de compensação, desde o seu protocolo, para os efeitos previstos neste artigo.
-§ 5º O prazo para homologação da compensação declarada pela sujeito passivo será de cinco anos, contado da data da entrega da declaração de compensação.
+§ 5º O prazo para homologação da compensação declarada pela sujeito passivo será de 5 (cinco) anos, contado da data da entrega da declaração de compensação.
 § 6º A declaração de compensação constitui confissão de dívida e instrumento hábil e suficiente para a exigência dos débitos indevidamente compensados.
-§ 7º Não homologada a compensação, a autoridade administrativa deverá cientificar o sujeito passivo e intimá-lo a efetuar, no prazo de trinta dias, contado da ciência do ato que não a homologou, o pagamento dos débitos indevidamente compensados.
+§ 7º Não homologada a compensação, a autoridade administrativa deverá cientificar o sujeito passivo e intimá-lo a efetuar, no prazo de 30 (trinta) dias, contado da ciência do ato que não a homologou, o pagamento dos débitos indevidamente compensados.
 § 8º Não efetuado o pagamento no prazo previsto no § 7º, o débito será encaminhado à Procuradoria-Geral da Fazenda Nacional para inscrição em Dívida Ativa da União, ressalvado o disposto no § 9º.
 § 9º É facultado ao sujeito passivo, no prazo referido no § 7º, apresentar manifestação de inconformidade contra a não-homologação da compensação.
 § 10. Da decisão que julgar improcedente a manifestação de inconformidade caberá recurso ao Conselho de Contribuintes.
