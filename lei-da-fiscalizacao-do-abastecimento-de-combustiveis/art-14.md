@@ -1,0 +1,1 @@
+Art. 14. Qualquer pessoa, constatando infração às normas relativas à indústria do petróleo, ao abastecimento nacional de combustíveis, ao Sistema Nacional de Estoques de Combustíveis e ao Plano Anual de Estoques Estratégicos de Combustíveis, poderá dirigir representação à ANP, para efeito do exercício do seu poder de polícia.
