@@ -1,0 +1,1 @@
+Art. 24. No caso de o Conselho Nacional de Desestatização deliberar a dissolução de sociedade incluída no Programa Nacional de Desestatização, aplicar-se-ão, no que couber, as disposições da Lei n° 8.029, de 12 de abril de 1990.

@@ -1,0 +1,1 @@
+Art. 12. A alienação de ações a pessoas físicas ou jurídicas estrangeiras poderá atingir cem por cento do capital votante, salvo disposição legal ou manifestação expressa do Poder Executivo, que determine percentual inferior.

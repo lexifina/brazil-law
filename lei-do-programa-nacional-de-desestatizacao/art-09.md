@@ -1,0 +1,5 @@
+Art. 9º Fica criado o Fundo Nacional de Desestatização - FND, de natureza contábil, constituído mediante vinculação a este, a título de depósito, das ações ou cotas de propriedade direta ou indireta da União, emitidas por sociedades que tenham sido incluídas no Programa Nacional de Desestatização.
+§ 1º As ações representativas de quaisquer outras participações societárias, incluídas no Programa Nacional de Desestatização, serão, igualmente, depositadas no Fundo Nacional de Desestatização.
+§ 2º Serão emitidos Recibos de Depósitos de Ações - RDA, intransferíveis e inegociáveis a qualquer título, em favor dos depositantes das ações junto ao Fundo Nacional de Desestatização.
+§ 3º Os Recibos de Depósitos de Ações, de cada depositante, serão automaticamente cancelados quando do encerramento do processo de desestatização.
+§ 4º Os titulares das ações que vierem a ser vinculadas ao Fundo Nacional de Desestatização manterão as ações escrituradas em seus registros contábeis, sem alteração de critério, até que se encerre o processo de desestatização.
