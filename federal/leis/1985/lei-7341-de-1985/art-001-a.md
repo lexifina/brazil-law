@@ -1,0 +1,2 @@
+Art. 1º - A Categoria Funcional de Assistente Social, Código NS-930 ou LT-NS-930, do Grupo-Outras Atividades de Nível Superior, a que se refere a Lei nº 5.645 de 10 de dezembro de 1970, fica alterada na forma constante do Anexo desta Lei.
+Parágrafo único - O preenchimento dos cargos da classe especial e das classes intermediárias da Categoria Funcional de Assistente Social far-se-á mediante progressão funcional ou outras formas regulares de provimentos.

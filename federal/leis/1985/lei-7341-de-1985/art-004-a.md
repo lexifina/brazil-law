@@ -1,0 +1,1 @@
+Art. 4º - A nova estrutura das classes da Categoria Funcional de Assistente Social não prejudicará a tramitação e a solução de pedidos de transferência e movimentação de servidores, apresentados até a data da vigência desta Lei.
