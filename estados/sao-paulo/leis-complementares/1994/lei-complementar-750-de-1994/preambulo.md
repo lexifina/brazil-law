@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 750, DE 25 DE ABRIL DE 1994
+Dispõe sobre os vencimentos e salários dos servidores que especifica e dá outras providências.
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar:
