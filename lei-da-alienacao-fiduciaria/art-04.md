@@ -1,1 +1,1 @@
-Art. 4º Se o bem alienado fiduciàriamente não fôr encontrado ou não se achar na posse do devedor, o credor poderá intentar ação de depósito, na forma prevista no Título XII, Livro IV, do Código de Processo Civil.
+Art. 4º Se o bem alienado fiduciariamente não for encontrado ou não se achar na posse do devedor, o credor poderá requerer a conversão do pedido de busca e apreensão, nos mesmos autos, em ação de depósito, na forma prevista no Capítulo II, do Título I, do Livro IV, do Código de Processo Civil.
