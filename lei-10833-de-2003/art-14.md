@@ -1,0 +1,1 @@
+Art. 14. O disposto nas Leis nos 9.363, de 13 de dezembro de 1996, e 10.276, de 10 de setembro de 2001, não se aplica à pessoa jurídica submetida à apuração do valor devido na forma dos arts. 2º e 3º desta Lei e dos arts. 2º e 3º da Lei nº 10.637, de 30 de dezembro de 2002.
