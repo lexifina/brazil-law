@@ -1,3 +1,2 @@
 Art. 39. O certificado, ação ou respectiva cautela, deverá conter a assinatura de um diretor ou de um procurador especialmente designado pela Diretoria para êsse fim.
 § 1º A sociedade anônima poderá constituir instituição financeira, ou sociedade corretora membro de Bôlsa de Valôres, como mandatária para a prática dos atos relativos ao registro e averbação de transferência das ações endossáveis e a constituição de direitos sôbre as mesmas.
-§ 2º Os mandatários referidos no parágrafo anterior poderão substituir a assinatura de ações, obrigações ou quaisquer outros títulos negociáveis, pela sua autentificação em máquinas especiais para títulos fiduciários, segundo modêlos aprovados pelo Banco Central.
