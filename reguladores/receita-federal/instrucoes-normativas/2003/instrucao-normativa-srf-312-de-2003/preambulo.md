@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 312, de 28 de março de 2003
+Altera os art. 12 e 15 da Instrução Normativa SRF nº 200, de 13 de setembro de 2002.
+SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto nos arts. 135 e 199 da Lei nº 5.172, de 25 de outubro de 1966, na Lei nº 5.614, de 5 de outubro de 1970, no art. 2º da Lei nº 8.137, de 27 de dezembro de 1990, no inciso II do art. 37 da Lei nº 9.250, de 26 de dezembro de 1995, na Lei nº 10.522, de 19 de julho de 2002 e no Convênio ICMS nº 8, de 22 de março de 1996, resolve:
