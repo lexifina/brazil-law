@@ -1,7 +1,10 @@
-Art. 20. Praticar, induzir ou incitar, pelos meios de comunicação social ou por publicação de qualquer natureza, a discriminação ou preconceito de raça, por religião, etnia ou procedência nacional. (Artigo
-Pena: reclusão de dois a cinco anos.
-§ 1º Incorre na mesma pena quem fabricar, comercializar, distribuir ou veicular símbolos, emblemas, ornamentos, distintivos ou propaganda que utilizem a cruz suástica ou gamada, para fins de divulgação do nazismo.
-§ 2º Poderá o juiz determinar, ouvido o Ministério Público ou a pedido deste, ainda antes do inquérito policial, sob pena de desobediência:(Parágrafo renumerado pela Lei nº 8.882, de 3.6.1994)
+Art. 20. Praticar, induzir ou incitar a discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional.
+Pena: reclusão de um a três anos e multa.
+§ 1º Fabricar, comercializar, distribuir ou veicular símbolos, emblemas, ornamentos, distintivos ou propaganda que utilizem a cruz suástica ou gamada, para fins de divulgação do nazismo.
+Pena: reclusão de dois a cinco anos e multa.
+§ 2º Se qualquer dos crimes previstos no caput é cometido por intermédio dos meios de comunicação social ou publicação de qualquer natureza:
+Pena: reclusão de dois a cinco anos e multa.
+§ 3º No caso do parágrafo anterior, o juiz poderá determinar, ouvido o Ministério Público ou a pedido deste, ainda antes do inquérito policial, sob pena de desobediência:
 I - o recolhimento imediato ou a busca e apreensão dos exemplares do material respectivo;
 II - a cessação das respectivas transmissões radiofônicas ou televisivas.
-§ 3º Constitui efeito da condenação, após o trânsito em julgado da decisão, a destruição do material apreendido. (Parágrafo renumerado pela Lei nº 8.882, de 3.6.1994)
+§ 4º Na hipótese do § 2º, constitui efeito da condenação, após o trânsito em julgado da decisão, a destruição do material apreendido.
