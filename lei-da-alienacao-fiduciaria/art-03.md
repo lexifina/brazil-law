@@ -1,8 +1,9 @@
 Art. 3º O Proprietário Fiduciário ou credor, poderá requerer contra o devedor ou terceiro a busca e apreensão do bem alienado fiduciàriamente, a qual será concedida Iiminarmente, desde que comprovada a mora ou o inadimplemento do devedor.
-§ 1º Despachada a inicial e executada a liminar, o réu será citado para, em três dias, apresentar contestação ou, se já tiver pago 40% (quarenta por cento) do preço financiado, requerer a purgação de mora.
-§ 2º Na contestação só se poderá alegar o pagamento do débito vencido ou o cumprimento das obrigações contratuais.
-§ 3º Requerida a purgação de mora, tempestivamente, o Juiz marcará data para o pagamento que deverá ser feito em prazo não superior a dez dias, remetendo, outrossim, os autos ao contador para cálculo do débito existente, na forma do art. 2º e seu parágrafo primeiro.
-§ 4º Contestado ou não o pedido e não purgada a mora, o Juiz dará sentença de plano em cinco dias, após o decurso do prazo de defesa, independentemente da avaliação do bem.
-§ 5º A sentença do Juiz, de que cabe agravo de instrumento, sem efeito suspensivo, não impedirá a venda extrajudicial do bem alienado fiduciàriamente e consolidará a propriedade e a posse plena e exclusiva nas mãos do proprietário fiduciário. Preferida pelo credor a venda judicial, aplicar-se-á o disposto no título VI, Livro V, do Código de Processo Civil.
-5º A sentença, de que cabe apelação, apenas, no efeito devolutivo não impedirá a venda extrajudicial do bem alienado fiduciariamente e consolidará a propriedade a posse plena e exclusiva nas mãos do proprietário fiduciário. Preferida pelo credor a venda judicial, aplicar-se-á o disposto nos artigos 1.113 a 1.119 do Código de Processo Civil.
-§ 6º A busca e apreensão prevista no presente artigo constitui processo autônomo e independente de qualquer procedimento posterior.
+§ 1º Cinco dias após executada a liminar mencionada no caput, consolidar-se-ão a propriedade e a posse plena e exclusiva do bem no patrimônio do credor fiduciário, cabendo às repartições competentes, quando for o caso, expedir novo certificado de registro de propriedade em nome do credor, ou de terceiro por ele indicado, livre do ônus da propriedade fiduciária.
+§ 2º No prazo do § 1º, o devedor fiduciante poderá pagar a integralidade da dívida pendente, segundo os valores apresentados pelo credor fiduciário na inicial, hipótese na qual o bem lhe será restituído livre do ônus.
+§ 3º O devedor fiduciante apresentará resposta no prazo de quinze dias da execução da liminar.
+§ 4º A resposta poderá ser apresentada ainda que o devedor tenha se utilizado da faculdade do § 2º, caso entenda ter havido pagamento a maior e desejar restituição.
+§ 5º Da sentença cabe apelação apenas no efeito devolutivo.
+§ 6º Na sentença que decretar a improcedência da ação de busca e apreensão, o juiz condenará o credor fiduciário ao pagamento de multa, em favor do devedor fiduciante, equivalente a cinqüenta por cento do valor originalmente financiado, devidamente atualizado, caso o bem já tenha sido alienado.
+§ 7º A multa mencionada no § 6º não exclui a responsabilidade do credor fiduciário por perdas e danos.
+§ 8º A busca e apreensão prevista no presente artigo constitui processo autônomo e independente de qualquer procedimento posterior.

@@ -1,0 +1,2 @@
+Art. 31-B. Considera-se constituído o patrimônio de afetação mediante averbação, a qualquer tempo, no Registro de Imóveis, de termo firmado pelo incorporador e, quando for o caso, também pelos titulares de direitos reais de aquisição sobre o terreno.
+Parágrafo único. A averbação não será obstada pela existência de ônus reais que tenham sido constituídos sobre o imóvel objeto da incorporação para garantia do pagamento do preço de sua aquisição ou do cumprimento de obrigação de construir o empreendimento.
