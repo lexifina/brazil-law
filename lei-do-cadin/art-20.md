@@ -1,4 +1,5 @@
-Art. 20. Serão arquivados, sem baixa na distribuição, os autos das execuções fiscais de débitos inscritos como Dívida Ativa da União pela Procuradoria-Geral da Fazenda Nacional ou por ela cobrados, de valor consolidado igual ou inferior a R$ 2.500,00 (dois mil e quinhentos reais).
+Art. 20. Serão arquivados, sem baixa na distribuição, mediante requerimento do Procurador da Fazenda Nacional, os autos das execuções fiscais de débitos inscritos como Dívida Ativa da União pela Procuradoria-Geral da Fazenda Nacional ou por ela cobrados, de valor consolidado igual ou inferior a R$ 10.000,00 (dez mil reais).
 § 1º Os autos de execução a que se refere este artigo serão reativados quando os valores dos débitos ultrapassarem os limites indicados.
-§ 2º Serão extintas as execuções que versem exclusivamente sobre honorários devidos à Fazenda Nacional de valor igual ou inferior a 100 Ufirs (cem Unidades Fiscais de Referência).
+§ 2º Serão extintas, mediante requerimento do Procurador da Fazenda Nacional, as execuções que versem exclusivamente sobre honorários devidos à Fazenda Nacional de valor igual ou inferior a R$ 1.000,00 (mil reais).
 § 3º O disposto neste artigo não se aplica às execuções relativas à contribuição para o Fundo de Garantia do Tempo de Serviço.
+§ 4º No caso de reunião de processos contra o mesmo devedor, na forma do art. 28 da Lei nº 6.830, de 22 de setembro de 1980, para os fins de que trata o limite indicado no caput deste artigo, será considerada a soma dos débitos consolidados das inscrições reunidas.
