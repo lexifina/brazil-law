@@ -35,4 +35,4 @@ a) de defesa do consumidor;
 b) de associações de consumidores de planos privados de assistência à saúde;
 c) das entidades de portadores de deficiência e de patologias especiais.
 § 1º Os membros da Câmara de Saúde Suplementar serão designados pelo Diretor-Presidente da ANS.
-§ 2º As entidades de que trata as alíneas do inciso V escolherão entre si dentro de cada categoria o seu representante e respectivo suplente na Câmara de Saúde Suplementar.
+§ 2º As entidades de que tratam as alíneas dos incisos V e VI escolherão entre si, dentro de cada categoria, os seus representantes e respectivos suplentes na Câmara de Saúde Suplementar.
