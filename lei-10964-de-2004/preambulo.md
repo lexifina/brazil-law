@@ -1,0 +1,2 @@
+Dá nova redação a dispositivos das Leis de nºs 8.010, de 29 de março de 1990, e 8.032, de 12 de abril de 1990, para estender a cientistas e pesquisadores a isenção tributária relativa a bens destinados à pesquisa científica e tecnológica; e faculta a inscrição no Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES, das pessoas jurídicas que especifica.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
