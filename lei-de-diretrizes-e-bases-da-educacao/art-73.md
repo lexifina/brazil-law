@@ -1,0 +1,1 @@
+Art. 73. Os órgãos fiscalizadores examinarão, prioritariamente, na prestação de contas de recursos públicos, o cumprimento do disposto no art. 212 da Constituição Federal, no art. 60 do Ato das Disposições Constitucionais Transitórias e na legislação concernente.

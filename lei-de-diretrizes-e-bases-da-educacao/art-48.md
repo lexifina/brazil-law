@@ -1,0 +1,4 @@
+Art. 48. Os diplomas de cursos superiores reconhecidos, quando registrados, terão validade nacional como prova da formação recebida por seu titular.
+§ 1º Os diplomas expedidos pelas universidades serão por elas próprias registrados, e aqueles conferidos por instituições não-universitárias serão registrados em universidades indicadas pelo Conselho Nacional de Educação.
+§ 2º Os diplomas de graduação expedidos por universidades estrangeiras serão revalidados por universidades públicas que tenham curso do mesmo nível e área ou equivalente, respeitando-se os acordos internacionais de reciprocidade ou equiparação.
+§ 3º Os diplomas de Mestrado e de Doutorado expedidos por universidades estrangeiras só poderão ser reconhecidos por universidades que possuam cursos de pós-graduação reconhecidos e avaliados, na mesma área de conhecimento e em nível equivalente ou superior.
