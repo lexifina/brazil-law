@@ -1,0 +1,1 @@
+Art. 36. Para os efeitos desta Lei, considera-se pesca todo ato tendente a retirar, extrair, coletar, apanhar, apreender ou capturar espécimes dos grupos dos peixes, crustáceos, moluscos e vegetais hidróbios, suscetíveis ou não de aproveitamento econômico, ressalvadas as espécies ameaçadas de extinção, constantes nas listas oficiais da fauna e da flora.
