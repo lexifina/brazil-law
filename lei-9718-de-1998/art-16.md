@@ -1,0 +1,2 @@
+Art. 16. A pessoa jurídica que, obrigada a apresentar, à Secretaria da Receita Federal, declaração de informações, deixar de fazê-lo ou fizer após o prazo fixado para sua apresentação, sujeitar-se-á à multa de um por cento ao mês ou fração, incidente sobre o imposto de renda devido, ainda que integralmente pago, relativo ao ano-calendário a que corresponderem as respectivas informações.
+Parágrafo único. Ao disposto neste artigo aplicam-se as normas constantes dos §§ 1º a 3º do art. 88 da Lei n° 8.981, de 20 de janeiro de 1995, e do art. 27 da Lei n° 9.532, de 1997.
