@@ -24,15 +24,15 @@ XIII - Delimitar, com periodicidade não inferior a dois anos o capital mínimo 
 das regiões geo-econômicas;
 das prioridades que atribuir às aplicações;
 da natureza das instituições financeiras;
-XIV - Determinar recolhimento de até 35% (trinta e cinco por cento) do total dos depósitos das instituições financeiras, seja na forma de subscrição de letras ou obrigações do Tesouro Nacional ou compra de títulos da Dívida Pública Federal seja através de recolhimento em espécie em ambos os casos entregues ao Banco Central do Brasil, na forma e condições que o Conselho Monetário Nacional determinar, podendo êste:
-a) adotar percentagens diferentes em função
 das regiões geo-econômicas;
 das prioridades que atribuir às aplicações;
 da natureza das instituições financeiras;
-b) determinar percentuais que não serão recolhidos, desde que tenham sido reaplicados em financiamentos à agricultura, sob juros favorecidos e outras condições fixadas pelo Conselho Monetário Nacional.
+XIV - Determinar recolhimento de até 40% (quarenta por cento) do total dos depósitos das instituições financeiras, seja na forma de subscrição de letras ou obrigações do Tesouro Nacional ou compra de títulos da Dívida Pública Federal, seja através de recolhimento em espécie, em ambos os casos entregues ao Banco Central do Brasil, na forma e condições que o Conselho Monetário Nacional determinar, podendo este:
+a) adotar percentagens diferentes em função:
 das regiões geo-econômicas;
 das prioridades que atribuir às aplicações;
 da natureza das instituições financeiras.
+b) determinar percentuais que não serão recolhidos, desde que tenham sido reaplicados em financiamentos à agricultura, sob juros favorecidos e outras condições fixadas pelo Conselho Monetário Nacional.
 XV - Estabelecer para as instituições financeiras públicas, a dedução dos depósitos de pessoas jurídicas de direito público que lhes detenham o controle acionário, bem como dos das respectivas autarquias e sociedades de economia mista, no cálculo a que se refere o inciso anterior;
 XVI - Enviar obrigatoriamente ao Congresso Nacional, até o último dia do mês subsequente, relatório e mapas demonstrativos da aplicação dos recolhimentos compulsórios, (Vetado).
 XVII - Regulamentar, fixando limites, prazos e outras condições, as operações de redesconto e de empréstimo, efetuadas com quaisquer instituições financeiras públicas e privadas de natureza bancária;
