@@ -1,2 +1,1 @@
-Art. 18. Em caso de desapropriação parcial de uma edificação ou de um conjunto de edificações, serão indenizados os proprietários das unidades expropriadas, ingressando no condomínio a entidade expropriante, que se sujeitará às disposições desta Lei e se submeterá às da Convenção do condomínio e do Regulamento Interno.
-Parágrafo único. (VETADO)
+Art. 18. A desapropriação de edificações ou conjuntos de edificações abrangerá sempre a sua totalidade, com todas as suas dependências, indenizando-se os proprietários das unidades expropriadas.
