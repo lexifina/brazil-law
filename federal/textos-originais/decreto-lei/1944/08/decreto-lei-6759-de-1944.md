@@ -1,0 +1,171 @@
+# Decreto-Lei nº 6.759, de 31/07/1944
+
+DECRETO-LEI N. 6.759 – DE 31 DE JULHO DE 1944
+
+Altera a carreira de Dactilógrafo do Quadro Permanente do Ministério das Relações Exteriores e dá outras providências
+
+O Presidente da República, usando da atribuição que lhe confere o art. 180 da Constituição,
+
+decreta:
+
+Art. 1º Fica alterada, na forma da tabela anexa, a carreira de Dactilógrafo do Quadro Permanente do Ministério das Relações Exteriores.
+
+Art. 2º Para atender à despesa com a execução do disposto neste Decreto-lei, fica aberto, ao Ministério das Relações Exteriores – Anexo nº 20 do Orçamento Geral da República para 1944, o crédito de Cr$ 129.000,00 (cento e vinte e nove mil cruzeiros), Suplementar à Verba 1 – Pessoal, Consignação I – Pessoal Permanente, Subconsignação 01 – Pessoal Permanente.
+
+Art. 3º Êste Decreto-lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Rio de Janeiro, 31 de julho de 1944, 123º da Independência e 56º da República.
+
+Getulio Vargas.
+
+Oswaldo Aranha.
+
+Paulo Lira.
+
+MINISTÉRIO DAS RELAÇÕES EXTERIORES
+
+QUADRO PERMANENTE
+
+SITUAÇÃO ATUAL
+
+SITUAÇÃO PROPOSTA
+
+Núm.
+
+De
+
+Cargos
+
+Carreira ou cargo
+
+Classe
+
+Ou
+
+Padrão
+
+Exce-
+
+Dentes
+
+Vagos
+
+Quadro
+
+Núm.
+
+Ou
+
+Cargos
+
+Carreira ou cargo
+
+Classe
+
+Ou
+
+padrão
+
+Exce-
+
+dentes
+
+Vagos
+
+Provisórios
+
+–
+
+10
+
+15
+
+25
+
+Dactilógrafo
+
+...............................
+
+...............................
+
+...............................
+
+G
+
+E
+
+D
+
+5
+
+–
+
+–
+
+5
+
+–
+
+10
+
+–
+
+10
+
+Q.P.
+
+Q.P.
+
+Q.P.
+
+–
+
+10
+
+25
+
+35
+
+Dactilógrafo
+
+...............................
+
+...............................
+
+...............................
+
+G
+
+E
+
+D
+
+5
+
+–
+
+_
+
+5
+
+–
+
+10
+
+10
+
+20
+
+–
+
+–
+
+10
+
+10
+
+Observações – Os cargos provisórios serão suprimidos à medida que seus ocupantes forem sendo promovidos à classe superior.
+
+O número total de cargos ocupados na carreira não poderá ser superior a 35.
+
+5 cargos da classe D serão providos à proporção que forem sendo extintos os excedentes.
