@@ -1,0 +1,3 @@
+Art. 7º A indenização, por pessoa vitimada, no caso de morte causada apenas por veículo não identificado, será paga por um Consórcio constituído, obrigatoriamente, por todas as Seguradoras que operarem no seguro objeto da presente lei.
+§ 1º O limite de indenização de que trata este artigo corresponderá a 50% (cinqüenta por cento) do valor estipulado na alínea a do artigo 3º da presente lei.
+§ 2º O Conselho Nacional de Seguros Privados (CNSP) estabelecerá normas para atender ao pagamento das indenizações previstas neste artigo, bem como a forma de sua distribuição pelas Seguradoras participantes do Consórcio.

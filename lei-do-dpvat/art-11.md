@@ -1,0 +1,1 @@
+Art. 11. Terá suspensa a autorização para operar no seguro obrigatório de que trata o artigo 2º, sem prejuízo de outras penalidades previstas na legislação específica, a Sociedade Seguradora que infringir as disposições desta lei.
