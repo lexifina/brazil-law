@@ -1,0 +1,1 @@
+Art. 1º Fica proibida a adoção de qualquer prática discriminatória e limitativa para efeito de acesso a relação de emprego, ou sua manutenção, por motivo de sexo, origem, raça, cor, estado civil, situação familiar ou idade, ressalvadas, neste caso, as hipóteses de proteção ao menor previstas no inciso XXXIII do art. 7º da Constituição Federal.
