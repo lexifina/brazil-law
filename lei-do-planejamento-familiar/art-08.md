@@ -1,0 +1,1 @@
+Art. 8º A realização de experiências com seres humanos no campo da regulação da fecundidade somente será permitida se previamente autorizada, fiscalizada e controlada pela direção nacional do Sistema Único de Saúde e atendidos os critérios estabelecidos pela Organização Mundial de Saúde.

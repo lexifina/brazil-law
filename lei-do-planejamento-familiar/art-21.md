@@ -1,0 +1,1 @@
+Art. 21. Os agentes do ilícito e, se for o caso, as instituições a que pertençam ficam obrigados a reparar os danos morais e materiais decorrentes de esterilização não autorizada na forma desta Lei, observados, nesse caso, o disposto nos arts. 159, 1.518 e 1.521 e seu parágrafo único do Código Civil, combinados com o art. 63 do Código de Processo Penal.

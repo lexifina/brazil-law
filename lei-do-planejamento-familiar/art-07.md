@@ -1,0 +1,1 @@
+Art. 7º - É permitida a participação direta ou indireta de empresas ou capitais estrangeiros nas ações e pesquisas de planejamento familiar, desde que autorizada, fiscalizada e controlada pelo órgão de direção nacional do Sistema Único de Saúde.
