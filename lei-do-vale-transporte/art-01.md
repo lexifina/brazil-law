@@ -1,0 +1,3 @@
+Art. 1º - Fica instituído o Vale-Transporte, que o empregador, pessoa física ou jurídica, poderá antecipar ao trabalhador para utilização efetiva em despesas de deslocamento residência-trabalho e vice-versa, mediante celebração de convenção coletiva ou de acordo coletivo de trabalho e, na forma que vier a ser regulamentada pelo Poder Executivo, nos contratos individuais de trabalho.
+§ 1º - Equiparam-se ao trabalhador referido no caput deste artigo, para os benefícios desta Lei, os servidores públicos da Administração Federal direta ou indireta.
+§ 2º - A concessão do Vale-Transporte cessará caso a convenção coletiva ou o acordo coletivo de trabalho não sejam renovados ou prorrogados.

@@ -1,0 +1,2 @@
+Art. 5º - A concessão do benefício ora instituído implica a aquisição pelo empregador dos Vales-Transporte necessários aos deslocamentos do trabalhador no percurso residência-trabalho e vice-versa, no serviço de transporte que melhor se adequar.
+Parágrafo único - O empregador participará dos gastos de deslocamento do trabalhador com a ajuda de custo equivalente à parcela que exceder a 6% (seis por cento) de seu salário básico.
