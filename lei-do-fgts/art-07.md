@@ -6,4 +6,5 @@ IV - elaborar as análises jurídica e econômico-financeira dos projetos de hab
 V - emitir Certificado de Regularidade do FGTS;
 VI - elaborar as contas do FGTS, encaminhando-as ao Ministério da Ação Social;
 VII - implementar os atos emanados do Ministério da Ação Social relativos à alocação e aplicação dos recursos do FGTS, de acordo com as diretrizes estabelecidas pelo Conselho Curador.
+VIII - (VETADO)
 Parágrafo único. O Ministério da Ação Social e a Caixa Econômica Federal deverão dar pleno cumprimento aos programas anuais em andamento, aprovados pelo Conselho Curador, sendo que eventuais alterações somente poderão ser processadas mediante prévia anuência daquele colegiado.
