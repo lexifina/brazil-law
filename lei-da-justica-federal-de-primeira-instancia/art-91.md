@@ -1,0 +1,5 @@
+Art. 91. São aproveitados, nos cargos, ora criados, de Procurador da República de 3ª Categoria, os atuais Procuradores da República Adjuntos, ficando extintos os seus cargos.
+§ 1º O cargo de Procurador da República de 3ª Categoria passa a constituir o grau inicial da carreira do Ministério Público Federal junto à Justiça comum.
+§ 2º As atribuições pertinentes aos cargos de Procurador de 3ª Categoria criados por esta Lei e não providos pela forma prevista neste artigo serão exercidas, até que haja candidatos aprovados em concurso, por Assistentes e Procuradores dos serviços jurídicos da União e de suas autarquias, ou do Ministério Público do Distrito Federal.
+§ 3º Poderão ainda os servidores a que se refere o parágrafo anterior exercer as atribuições dos cargos de Procurador de 1ª e 2ª Categorias, ora criados e não providos em razão de recusa de promoção.
+§ 4º Para o cumprimento do que dispõem os §§ 2º e 3°, fica o Procurador-Geral da República autorizado a fazer as necessárias requisições às autoridades competentes.

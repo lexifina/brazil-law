@@ -1,0 +1,1 @@
+Art. 92. Enquanto não fôr promulgada a nova Lei Orgânica do Ministério Público Federal, compete aos Subprocuradores-Gerais e aos Procuradores da República, conforme o caso, e na forma determinada pelo Procurador-Geral da República, promover ação penal e intervir em todos os feitos criminais sujeitos à jurisdição da Justiça Federal.

@@ -1,0 +1,1 @@
+Art. 85. Enquanto a União não possuir estabelecimentos penais, a custódia de prêsos à disposição da Justiça Federal e o cumprimento de penas por ela impostas far-se-ão nos dos Estados, do Distrito Federal e dos Territórios.

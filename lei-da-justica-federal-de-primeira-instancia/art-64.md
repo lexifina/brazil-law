@@ -1,0 +1,1 @@
+Art. 64. Nos seus impedimentos temporários excedentes de trinta dias, ou quando necessário, os membros do Tribunal Federal de Recursos serão substituídos por Juízes Federais convocados na forma prevista no seu Regimento.

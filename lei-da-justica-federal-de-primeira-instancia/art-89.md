@@ -1,0 +1,3 @@
+Art. 89. São criados, no Ministério Público Federal junto à Justiça comum, três cargos, em comissão, de Subprocurador-Geral da República.
+§ 1º Os cargos a que se refere êste artigo terão a designação de terceiro, quarto e quinto Subprocurador-Geral da República, e seus ocupantes funcionarão mediante designação do Procurador-Geral da República.
+§ 2º Os atuais ocupantes da primeira e segunda Subprocuradorias-Gerais da República continuarão com a mesma sede e com as atribuições previstas, quanto ao primeiro, nos artigos 33 e 34 da Lei n. 1.341, de 30 de janeiro de 1951, e, quanto ao segundo, no artigo 90, inciso I, da Lei n. 3.754, de 14 de abril de 1960.

@@ -1,0 +1,1 @@
+Art. 43. Os oficiais de justiça terão carteira de identificação, visada pelo juiz da vara em que servirem e terão passe livre, quando em exercício de suas funções, nas emprêsas de transportes da respectiva Seção Judiciária.

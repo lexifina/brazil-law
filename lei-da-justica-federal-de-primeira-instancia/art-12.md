@@ -1,0 +1,1 @@
+Art. 12. Nas Seções Judiciárias em que houver mais de uma Vara, poderá o Conselho da Justiça Federal fixar-lhes sede em cidade diversa da Capital, especializar Varas e atribuir competência por natureza de feitos a determinados Juízes.
