@@ -1,0 +1,3 @@
+Art. 38. A Advocacia-Geral da União e o Ministério da Saúde, por intermédio de sua Consultoria Jurídica, mediante comissão conjunta, promoverão, no prazo de cento e oitenta dias, levantamento dos processos judiciais em curso, envolvendo matéria cuja competência tenha sido transferida à ANS, a qual substituirá a União nos respectivos processos.
+§ 1º A substituição a que se refere o caput, naqueles processos judiciais, será requerida mediante petição subscrita pela Advocacia-Geral da União, dirigida ao Juízo ou Tribunal competente, requerendo a intimação da Procuradoria da ANS para assumir o feito.
+§ 2º Enquanto não operada a substituição na forma do § 1º, a Advocacia-Geral da União permanecerá no feito, praticando todos os atos processuais necessários.

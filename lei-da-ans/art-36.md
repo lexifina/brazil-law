@@ -1,0 +1,1 @@
+Art. 36. São estendidas à ANS, após a assinatura e enquanto estiver vigendo o contrato de gestão, as prerrogativas e flexibilidades de gestão previstas em lei, regulamentos e atos normativos para as Agências Executivas.
