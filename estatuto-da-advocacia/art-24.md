@@ -1,0 +1,5 @@
+Art. 24. A decisão judicial que fixar ou arbitrar honorários e o contrato escrito que os estipular são títulos executivos e constituem crédito privilegiado na falência, concordata, concurso de credores, insolvência civil e liquidação extrajudicial.
+§ 1º A execução dos honorários pode ser promovida nos mesmos autos da ação em que tenha atuado o advogado, se assim lhe convier.
+§ 2º Na hipótese de falecimento ou incapacidade civil do advogado, os honorários de sucumbência, proporcionais ao trabalho realizado, são recebidos por seus sucessores ou representantes legais.
+§ 3º É nula qualquer disposição, cláusula, regulamento ou convenção individual ou coletiva que retire do advogado o direito ao recebimento dos honorários de sucumbência.
+§ 4º O acordo feito pelo cliente do advogado e a parte contrária, salvo aquiescência do profissional, não lhe prejudica os honorários, quer os convencionados, quer os concedidos por sentença.
