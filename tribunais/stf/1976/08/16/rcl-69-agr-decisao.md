@@ -1,0 +1,1 @@
+Despacho: Vistos, etc. Homologo o pedido de desistência formulado com a petição retro (fl.65), para que produza os seus jurídicos e legais efeitos. Publique-se. Brasília, 16 de agosto de 1976 – Min. Djaci Alves Falcão, Presidente.
