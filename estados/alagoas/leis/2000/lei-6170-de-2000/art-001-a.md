@@ -1,0 +1,1 @@
+Art. 1º - A Secretaria de Estado de Ciência, Tecnologia e Educação Superior é órgão da Administração Direta tendo por finalidade a formulação, coordenação e execução da política de desenvolvimento científico, transferência de tecnologia e educação superior, de forma integrada e voltada para o desenvolvimento do Estado e da Região.
