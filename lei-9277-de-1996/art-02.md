@@ -1,0 +1,1 @@
+Art. 2º Fica a União igualmente autorizada, nos termos desta Lei, a delegar a exploração de portos sob sua responsabilidade ou sob a responsabilidade das empresas por ela direta ou indiretamente controladas.

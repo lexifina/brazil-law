@@ -1,0 +1,1 @@
+Art. 4º Para a consecução dos objetivos indicados nesta Lei, poderá o Município, o Estado ou o Distrito Federal explorar a via ou o porto diretamente ou através de concessão, nos temos das leis federais que regem as concessões e da Lei n° 8.630, de 25 de fevereiro de 1993.

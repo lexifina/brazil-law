@@ -1,0 +1,3 @@
+Art. 3º A delegação será formalizada mediante convênio.
+§ 1º No instrumento de convênio constará cláusula prevendo a possibilidade de aplicação da legislação do Município, do Estado ou do Distrito Federal na cobrança de pedágio ou de tarifa portuária, ou de outra forma de cobrança cabível, no que não contrarie a legislação federal.
+§ 2º A receita auferida na forma do parágrafo anterior será aplicada em obras complementares, no melhoramento, na ampliação de capacidade, na conservação e na sinalização da rodovia em que for cobrada e nos trechos rodoviários que lhe dão acesso ou nos portos que lhe derem origem.
