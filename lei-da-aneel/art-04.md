@@ -1,4 +1,3 @@
 Art. 4º A ANEEL será dirigida por um Diretor-Geral e quatro Diretores, em regime de colegiado, cujas funções serão estabelecidas no ato administrativo que aprovar a estrutura organizacional da autarquia.
 § 1º O decreto de constituição da ANEEL indicará qual dos diretores da autarquia terá a incumbência de, na qualidade de ouvidor, zelar pela qualidade do serviço público de energia elétrica, receber, apurar e solucionar as reclamações dos usuários.
-§ 2º É criado, na ANEEL, o cargo de Diretor-Geral, do Grupo Direção e Assessoramento Superiores, código DAS 101.6.
 § 3º O processo decisório que implicar afetação de direitos dos agentes econômicos do setor elétrico ou dos consumidores, mediante iniciativa de projeto de lei ou, quando possível, por via administrativa, será precedido de audiência pública convocada pela ANEEL.
