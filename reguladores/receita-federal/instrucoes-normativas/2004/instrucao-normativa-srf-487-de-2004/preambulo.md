@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 487, de 30 de dezembro de 2004
+Dispõe sobre o imposto de renda incidente sobre os rendimentos e ganhos líquidos auferidos em operações de renda fixa e de renda variável e em fundos de investimentos.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 190 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 227, de 3 de setembro de 1998, e tendo em vista o disposto no art. 71 da Lei no 9.430, de 27 de dezembro de 1996, no art. 48 da Lei no 10.833, de 29 de dezembro de 2003, no art. 3º da Lei nº 10.892, de 13 de julho de 2004, nos arts. 1º a 5º da Lei nº 11.033, de 21 de dezembro de 2004, e no art. 6º da Lei nº 11.053, de 29 de dezembro de 2004, resolve:
