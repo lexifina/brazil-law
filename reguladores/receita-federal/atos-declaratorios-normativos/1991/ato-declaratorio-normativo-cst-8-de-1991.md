@@ -1,0 +1,8 @@
+Ato Declaratório Normativo CST nº 8, de 17 de abril de 1991
+O ato não possui ementa. Ver íntegra
+O COORDENADOR DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o item II da Instrução Normativa SRF nº 034, de 18 de setembro de 1974,
+DECLARA em caráter normativo, às Superintendências Regionais da Receita Federal e aos demais interessados, que:
+1 Estão dispensados da incidência de imposto de renda na fonte os rendimentos decorrentes das alienações de títulos da carteira de fundos de renda fixa constituídos por quotistas pessoas jurídicas tributadas com base no lucro real, nos termos e com observância das normas constantes do art 2º da Lei nº 7.751, de 14/04/89, mesmo quando, além das referidas pessoas jurídicas, participarem dos fundos em questão quotistas detentores de imunidade constitucional em relação à tributação pelo imposto de renda.
+2 Submete-se à incidência do imposto de renda, nos termos da legislação vigente, o lucro líquido de que trata o art. 35 da Lei nº 7.713, de 22/12/88, correspondente à participação de fundo em condomínio ou sociedade de investimento, inclusive quando integrados, exclusivamente, por pessoas físicas ou jurídicas residentes ou domiciliadas no exterior.
+3 As aplicações em fundos relativos a plano de poupança e investimento - PAIT, de que trata o Decreto-lei nº 2.292, de 21/11/86, sujeitam-se à incidência do imposto de renda na fonte de acordo com o disposto no art. 25 da Lei nº 8.134, de 27/12/90, por ocasião do resgate da aplicação, notando-se que o custo médio de aquisição será constituído pelo valor da aplicação própria realizada pelo beneficiário.
+SANDRO MARTINS SILVA
