@@ -1,0 +1,1 @@
+Art. 13 Na greve, em serviços ou atividades essenciais, ficam as entidades sindicais ou os trabalhadores, conforme o caso, obrigados a comunicar a decisão aos empregadores e aos usuários com antecedência mínima de 72 (setenta e duas) horas da paralisação.
