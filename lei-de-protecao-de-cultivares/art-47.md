@@ -1,0 +1,1 @@
+Art. 47. O Serviço Nacional de Proteção de Cultivares - SNPC editará publicação periódica especializada para divulgação do Cadastro Nacional de Cultivares Protegidas, previsto no § 2º do art. 45 e no disposto no caput, e seus incisos I, II, e III, do art. 46.
