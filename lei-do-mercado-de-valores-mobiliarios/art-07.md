@@ -3,3 +3,4 @@ I - dotações das reservas monetárias a que se refere o Art. 12 da Lei nº 5.1
 II - dotações que lhe forem consignadas no orçamento federal;
 III - receitas provenientes da prestação de serviços pela Comissão, observada a tabela aprovada pelo Conselho Monetário Nacional;
 IV - renda de bens patrimoniais e receitas eventuais.
+V - receitas de taxas decorrentes do exercício de seu poder de polícia, nos termos da lei.

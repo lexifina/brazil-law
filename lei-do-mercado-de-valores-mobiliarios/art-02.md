@@ -1,7 +1,19 @@
 Art. 2º São valores mobiliários sujeitos ao regime desta Lei:
-I - as ações, partes beneficiárias e debêntures, os cupões desses títulos e os bônus de subscrição;
-II - os certificados de depósito de valores mobiliários;
-III - outros títulos criados ou emitidos pelas sociedades anônimas, a critério do Conselho Monetário Nacional.
-Parágrafo único - Excluem-se no regime desta Lei:
+I - as ações, debêntures e bônus de subscrição;
+II - os cupons, direitos, recibos de subscrição e certificados de desdobramento relativos aos valores mobiliários referidos no inciso II;
+III - os certificados de depósito de valores mobiliários;
+IV - as cédulas de debêntures;
+V - as cotas de fundos de investimento em valores mobiliários ou de clubes de investimento em quaisquer ativos;
+VI - as notas comerciais;
+VII - os contratos futuros, de opções e outros derivativos, cujos ativos subjacentes sejam valores mobiliários;
+VIII - outros contratos derivativos, independentemente dos ativos subjacentes; e
+IX - quando ofertados publicamente, quaisquer outros títulos ou contratos de investimento coletivo, que gerem direito de participação, de parceria ou de remuneração, inclusive resultante de prestação de serviços, cujos rendimentos advêm do esforço do empreendedor ou de terceiros.
+§ 1º Excluem-se do regime desta Lei:
 I - os títulos da dívida pública federal, estadual ou municipal;
 II - os títulos cambiais de responsabilidade de instituição financeira, exceto as debêntures.
+§ 2º Os emissores dos valores mobiliários referidos neste artigo, bem como seus administradores e controladores, sujeitam-se à disciplina prevista nesta Lei, para as companhias abertas.
+§ 3º Compete à Comissão de Valores Mobiliários expedir normas para a execução do disposto neste artigo, podendo:
+I - exigir que os emissores se constituam sob a forma de sociedade anônima;
+II - exigir que as demonstrações financeiras dos emissores, ou que as informações sobre o empreendimento ou projeto, sejam auditadas por auditor independente nela registrado;
+III - dispensar, na distribuição pública dos valores mobiliários referidos neste artigo, a participação de sociedade integrante do sistema previsto no art. 15 desta Lei;
+IV - estabelecer padrões de cláusulas e condições que devam ser adotadas nos títulos ou contratos de investimento, destinados à negociação em bolsa ou balcão, organizado ou não, e recusar a admissão ao mercado da emissão que não satisfaça a esses padrões.

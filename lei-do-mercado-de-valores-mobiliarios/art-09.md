@@ -7,10 +7,10 @@ d) das carteiras e depósitos de valores mobiliários (Arts. 23 e 24);
 e) dos auditores independentes;
 f) dos consultores e analistas de valores mobiliários;
 g) de outras pessoas quaisquer, naturais ou jurídicas, quando da ocorrência de qualquer irregularidade a ser apurada nos termos do inciso V deste artigo, para efeito de verificação de ocorrência de atos ilegais ou práticas não eqüitativas;
-II - intimar as pessoas referidas no inciso anterior a prestar informações, ou esclarecimentos, sob cominação de multa, sem prejuízo da aplicação das penalidades previstas no art. 11;
+II - intimar as pessoas referidas no inciso I a prestar informações, ou esclarecimentos, sob cominação de multa, sem prejuízo da aplicação das penalidades previstas no art. 11;
 III - requisitar informações de qualquer órgão público, autarquia ou empresa pública;
 IV - determinar às companhias abertas que republiquem, com correções ou aditamentos, demonstrações financeiras, relatórios ou informações divulgadas;
-V - apurar, mediante inquérito administrativo, atos ilegais e práticas não eqüitativas de administradores, membros do conselho fiscal e acionistas de companhias abertas, dos intermediários e dos demais participantes do mercado;
+V - apurar, mediante processo administrativo, atos ilegais e práticas não eqüitativas de administradores, membros do conselho fiscal e acionistas de companhias abertas, dos intermediários e dos demais participantes do mercado;
 VI - aplicar aos autores das infrações indicadas no inciso anterior as penalidades previstas no Art. 11, sem prejuízo da responsabilidade civil ou penal.
 § 1º Com o fim de prevenir ou corrigir situações anormais do mercado, a Comissão poderá:
 I - suspender a negociação de determinado valor mobiliário ou decretar o recesso de bolsa de valores;
