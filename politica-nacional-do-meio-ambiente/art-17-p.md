@@ -1,0 +1,3 @@
+Art. 17-P. Constitui crédito para compensação com o valor devido a título de TCFA, até o limite de sessenta por cento e relativamente ao mesmo ano, o montante efetivamente pago pelo estabelecimento ao Estado, ao Município e ao Distrito Federal em razão de taxa de fiscalização ambiental.
+§ 1º Valores recolhidos ao Estado, ao Município e ao Distrital Federal a qualquer outro título, tais como taxas ou preços públicos de licenciamento e venda de produtos, não constituem crédito para compensação com a TCFA.
+§ 2º A restituição, administrativa ou judicial, qualquer que seja a causa que a determine, da taxa de fiscalização ambiental estadual ou distrital compensada com a TCFA restaura o direito de crédito do Ibama contra o estabelecimento, relativamente ao valor compensado.
