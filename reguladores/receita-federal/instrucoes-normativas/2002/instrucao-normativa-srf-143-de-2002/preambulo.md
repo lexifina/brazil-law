@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 143, de 4 de março de 2002
+Dispõe sobre a aplicação do Regime Aduaneiro de Admissão Temporária aos bens destinados a manutenção e reparo nas Unidades Nucleoelétricas da Central Nuclear Almirante Álvaro Alberto, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto nos arts. 431, 446, 452 e no inciso I do art. 453 do Regulamento Aduaneiro, aprovado pelo Decreto nº 91.030, de 5 de março de 1985, resolve:
