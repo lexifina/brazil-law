@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 22, de 22 de fevereiro de 2001
+Aprova o programa e as instruções para preenchimento da Declaração de Informações Econômico-Fiscais da Pessoa Jurídica (DIPJ) - 2001.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso XIX do art. 190 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF No 227, de 3 de setembro de 1998, e tendo em vista o disposto no art. 16 da Lei No 9.779, de 19 de janeiro de 1999, no art. 5o da Lei No 9.959, de 27 de janeiro de 2000, e no art. 235 do Decreto No 3.000, de 26 de março de 1999 - Regulamento do Imposto de Renda (RIR/99), resolve:
