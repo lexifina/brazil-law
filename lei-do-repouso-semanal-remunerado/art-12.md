@@ -1,0 +1,1 @@
+Art. 12. Salvo no que entende com as instituições públicas referidas no artigo 4º, as infrações ao disposto nesta lei serão punidas, segundo o caráter e a gravidade, com a multa de cem a cinco mil cruzeiros.
