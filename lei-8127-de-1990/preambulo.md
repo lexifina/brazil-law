@@ -1,0 +1,2 @@
+Prorroga o prazo a que se refere o art. 1° da Lei nº 8.056, de 28 de junho de 1990, e dá nova redação ao art. 33 do Decreto-Lei n° 73, de 21 de novembro de 1966.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória n° 277, de 1990, que o Congresso Nacional aprovou e eu, NELSON CARNEIRO, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
