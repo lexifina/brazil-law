@@ -1,0 +1,2 @@
+Altera a redação do inciso I do art. 65 da Lei; n° 8.694, de 12 de agosto de 1993, alterada pela Lei n° 8.928, de 10 de agosto de 1994.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória n° 693, de 1994, que o Congresso Nacional aprovou, e eu, HUMBERTO LUCENA, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
