@@ -1,1 +1,4 @@
 Art. 14. A Defensoria Pública da União atuará nos Estados, no Distrito Federal e nos Territórios, junto às Justiças Federal, do Trabalho, Eleitoral, Militar, Tribunais Superiores e instâncias administrativas da União.
+§ 1º A Defensoria Pública da União deverá firmar convênios com as Defensorias Públicas dos Estados e do Distrito Federal, para que estas, em seu nome, atuem junto aos órgãos de primeiro e segundo graus de jurisdição referidos no caput, no desempenho das funções que lhe são cometidas por esta Lei Complementar.
+§ 2º Não havendo na unidade federada Defensoria Pública constituída nos moldes desta Lei Complementar, é autorizado o convênio com a entidade pública que desempenhar essa função, até que seja criado o órgão próprio.
+§ 3º A prestação de assistência judiciária pelos órgãos próprios da Defensoria Pública da União dar-se-á, preferencialmente, perante o Supremo Tribunal Federal e os Tribunais superiores.
