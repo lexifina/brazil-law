@@ -1,0 +1,54 @@
+DECISÃO: - Vistos. O acórdão recorrido porta a seguinte
+ementa:
+"ADMINISTRATIVO. SERVIDOR MILITAR. EXTINÇÃO DE
+GRADUAÇÕES. TRANSFERÊNCIA PARA A RESERVA ('APOSENTADORIA'). SITUAÇÃO
+ MAIS FAVORÁVEL AOS SERVIDORES EM ATIVIDADE. EXTENSÃO AOS SERVIDORES
+ INATIVOS.
+1. A extinção de graduações na carreira militar, no
+círculo das praças, combinada com a promoção automática da praça à
+graduação hierárquica imediatamente superior (art. 58 da Lei
+Complementar nº 10.990/97), na ocasião da transferência para a
+reserva remunerada ('aposentadoria'), gera situação mais favorável
+aos servidores em atividade, comparativamente àqueles que já se
+inativaram e, na forma da lei então vigente (art. 167, § 1º, da Lei
+nº 7.138/78), tiveram seus proventos calculados pelo valor
+correspondente à graduação seguinte, e que a lei nova extinguiu.
+Exemplo: o Cabo da PM - graduação extinta -, ao se reformar, recebia
+ proventos calculados pela remuneração de Terceiro-Sargento;
+doravante, o Soldado PM - graduação inferior a de Cabo -, ao se
+reformar, receberá promoção a Segundo-Sargento e proventos calculado
+ pelos vencimentos desta última graduação. Incidência da regra de
+que as vantagens concedidas aos servidores em atividade devem ser
+estendidas aos servidores inativos (CF/88, art. 42, § 3º). Não há
+ofensa, outrossim, ao princípio da moralidade, consagrando, a partir
+ da EC 20/98, no disposto no art. 40, § 3º, da CF/88 - regra ausente
+ da remissão do art. 42, § 3º, da CF/88 -, porque o regime jurídico
+dos servidores militares, desde a forma de investidura até os modos
+de inatividade, diferem, substancialmente, daquele imposto aos
+servidores civis, de modo que o disposto no art. 58 da Lei
+Complementar nº 10.990/97 não constitui privilégio contrário à moral
+ vigente.
+2. APELAÇÃO DESPROVIDA" (fl. 35).
+Daí o RE,
+interposto pelo ESTADO DO RIO GRANDE DO SUL, fundado no art. 102,
+III, a, da Constituição Federal, sustentando ofensa ao art. 40, §
+8º, da mesma Carta, "eis que não pode lei nova, retroagir para
+assegurar aos recorridos direito à nova carreira instituída pela
+legislação editada posteriormente à sua passagem para a reserva
+remunerada" (fl. 65).
+O recurso extraordinário foi inadmitido na
+ origem.
+Autos conclusos no dia 06 do corrente mês.
+O recurso
+extraordinário não merece trânsito. A apreciação da questão
+constitucional, no caso, não prescinde do exame de normas
+infraconstitucionais, as Leis estaduais 7.138/78 e 10.990/97. Isto
+quer dizer que a ofensa à Constituição, se ocorrente, seria
+indireta, o que não autoriza a admissão do recurso
+extraordinário.
+Do exposto, nego seguimento ao
+agravo.
+Publique-se.
+Brasília, 12 de dezembro de 2002.
+Ministro CARLOS VELLOSO
+- Relator -
