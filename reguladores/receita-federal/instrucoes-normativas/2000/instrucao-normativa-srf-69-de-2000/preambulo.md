@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 69, de 5 de julho de 2000
+Dispõe sobre o registro especial a que estão obrigados os fabricantes e importadores de cigarros, bem assim sobre o selo de controle a que estão sujeitos estes produtos.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições que lhe confere o Decreto-lei No 1.593, de 21 de dezembro de 1977, alterado pela Lei No 9.822, de 23 de agosto de 1999, e pela Medida Provisória No 1.991-15, de 10 de março de 2000, convalidada pela Medida Provisória No 2.037-19, de 28 de junho de 2000, arts. 45 a 54 da Lei No 9.532, de 10 de dezembro de 1997 e nos arts. 46 da Lei No 4.502, de 30 de novembro de 1964, 206 e 243 do Decreto No 2.637, de 25 de junho de 1998, Regulamento do Imposto sobre Produtos Industrializados - RIPI, resolve:
