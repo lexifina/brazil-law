@@ -1,0 +1,3 @@
+Art. 2º - A região metropolitana é constituída, nos termos do art. 42 da Constituição do Estado, por agrupamento de municípios limítrofes do mesmo complexo geoeconômico e social, para integrar o planejamento, a organização e a execução das funções públicas de interesse comum estabelecidas no art. 43 da Constituição do Estado.
+
+Parágrafo único - A gestão das funções públicas de interesse comum tem como objetivo principal o desenvolvimento econômico e social da região metropolitana, a partilha equilibrada dos seus benefícios e a definição de políticas compensatórias dos efeitos da sua polarização.

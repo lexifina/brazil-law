@@ -1,0 +1,1 @@
+Art. 19 - A autarquia estadual de planejamento metropolitano tem por finalidade o assessoramento para o planejamento, a organização, a coordenação e o controle das atividades setoriais a cargo do Estado, relativas às funções públicas de interesse comum da região metropolitana.

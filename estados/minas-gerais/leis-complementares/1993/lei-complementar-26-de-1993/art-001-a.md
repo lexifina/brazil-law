@@ -1,0 +1,1 @@
+Art. 1º - A política de regionalização das ações administrativas do Estado no nível metropolitano, voltadas para o pla-nejamento, a organização e a execução das funções públicas de interesse comum, obedecerá ao disposto nesta Lei.

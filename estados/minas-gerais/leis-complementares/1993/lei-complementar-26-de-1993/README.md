@@ -1,0 +1,9 @@
+# Lei Complementar nº 26, de 14 de janeiro de 1993, do Estado de Minas Gerais
+
+DISPÕE SOBRE NORMAS GERAIS RELATIVAS AO PLANEJAMENTO E A EXECUÇÃO DE
+FUNÇÕES PÚBLICAS DE INTERESSE COMUM, A CARGO DA REGIÃO METROPOLITANA,
+SOBRE AS ATRIBUIÇÕES, A ORGANIZAÇÃO E O FUNCIONAMENTO DA ASSEMBLÉIA
+METROPOLITANA DA REGIÃO METROPOLITANA DE BELO HORIZONTE E DÁ OUTRAS
+PROVIDÊNCIAS.
+
+Fonte: ALMG, Legislação Mineira (Dados Abertos), <https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/26/1993?formato=json>

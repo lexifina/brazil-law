@@ -1,0 +1,1 @@
+Art. 21 - O Colar Metropolitano da Região Metropolitana de Belo Horizonte é constituído pelos seguintes municípios: Matozinhos, Jaboticatubas, Taquaraçu de Minas, Barão de Cocais, Santa Bárbara, Itabirito, Moeda, Belo Vale, Bonfim, Rio Manso, Itatiaiuçu, Itaúna, Florestal, Nova União, Pará de Minas, São José da Varginha, Fortuna de Minas, Capim Branco, Sete Lagoas e Inhaúmas.
