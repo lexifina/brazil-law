@@ -1,0 +1,3 @@
+LEI Nº 2.141, DE 19 DE DEZEMBRO DE 1953
+Autoriza o Poder Executivo a emitir, pelo Ministério da Viação e Obras Públicas - Departamento Geral dos Correios e Telégrafos - três séries de selos postais, sendo uma comemorativa do cinqüentenário da fundação do Colégio Interno de São José e do vigésimo quinto aniversário da criação do Colégio Externo de São José; e duas, respectivamente, simbolizando tipos de embarcação e reproduzindo a efígie ou passagem da vida de João das Botas, Lord Cochrane, Marcílio Dias e Almirante Tamandaré.
+O CONGRESSO NACIONAL decreta e eu promulgo, nos têrmos do artigo 70, parágrafo 4º, da Constituição Federal, a seguinte Lei:
