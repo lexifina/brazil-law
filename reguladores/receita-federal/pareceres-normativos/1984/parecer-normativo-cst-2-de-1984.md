@@ -1,0 +1,11 @@
+Parecer Normativo CST nº 2, de 15 de fevereiro de 1984
+As contas que registrem recursos aplicados na aquisição de partes, peças, máquinas e equipamentos de reposição de bens do imobilizado, quando referidas partes e peças tiverem vida útil superior a um ano, devem ser classificadas no ativo imobilizado.
+Trata-se de esclarecer dúvidas quanto à classificação das contas que registram recursos aplicados na aquisição de partes, peças, máquinas e equipamentos de reposição de bens do ativo imobilizado das pessoas jurídicas, face às normas de correção monetária do balanço de que trata o Regulamento do Imposto de Renda aprovado pelo Decreto nº 85.450, de 04 de dezembro de 1980 (RIR/80), em seus artigos 347 a 363.
+2. A legislação do imposto de renda adota, para efeitos da correção monetária, os mesmos critérios de classificação de contas da Lei nº 6.404, de 15 de dezembro de 1976 (Lei das Sociedades por Ações). Segundo o disposto no artigo 179, inciso IV, da referida lei, as contas que registrem direitos que tenham por objeto bens destinados a manutenção da atividade da companhia ou da empresa serão classificadas no ativo imobilizado.
+2.1 - A manutenção, em almoxarifado, de partes, peças, máquinas e equipamentos de reposição tem por finalidade manter constante o exercício normal das atividades da pessoa jurídica, enquadrando-se perfeitamente na hipótese descrita no dispositivo legal citado. Portanto, a conta em que tais valores são registrados deve ser classificada no ativo imobilizado.
+2.2 - Todavia, certas partes e peças, quando incorporadas às respectivas máquinas ou equipamentos, têm vida útil não superior a um ano, intervalo de tempo no qual devem ser substituídas. Assim, os recursos aplicados na sua aquisição não chegam a revestir características de permanência, razão por que as contas que registrem esses recursos devem ser classificadas fora do ativo permanente.
+3. Observe-se, por fim, que se da substituição de partes e peças resultar aumento da vida útil prevista no ato da aquisição do bem no qual tiverem sido aplicadas, o valor das mesmas deverá ser acrescido ao do referido bem; caso contrário, poderá ser computado como custo ou despesa operacional.
+À consideração superior.
+PAULO BALTAZAR CARNEIRO FTF
+De acordo.
+Publique-se e, a seguir, encaminhem-se cópias às SS.RR.R.F. para conhecimento e ciência aos demais órgãos subordinados.
