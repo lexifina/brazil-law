@@ -1,0 +1,1 @@
+Art. 27. O Conselho Monetário Nacional, por proposta do Ministério da Indústria e do Comércio, baixará, dentro de 120 (cento e vinte) dias da data da publicação desta lei, normas para padronização formal dos títulos e documentos nela referidos fixando prazo para sua adoção obrigatória.
