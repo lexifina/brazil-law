@@ -1,0 +1,1 @@
+Art. 5º O tombamento dos bens pertencentes à União, aos Estados e aos Municípios se fará de ofício, por ordem do diretor do Serviço do Patrimônio Histórico e Artístico Nacional, mas deverá ser notificado à entidade a quem pertencer, ou sob cuja guarda estiver a coisa tombada, afim de produzir os necessários efeitos.

@@ -1,0 +1,1 @@
+Art. 27. Sempre que os agentes de leilões tiverem de vender objetos de natureza idêntica à dos mencionados no artigo anterior, deverão apresentar a respectiva relação ao órgão competente do Serviço do Patrimônio Histórico e Artístico Nacional, sob pena de incidirem na multa de cincoenta por cento sôbre o valor dos objetos vendidos.

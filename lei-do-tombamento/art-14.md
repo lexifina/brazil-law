@@ -1,0 +1,1 @@
+Art. 14. A. coisa tombada não poderá saír do país, senão por curto prazo, sem transferência de domínio e para fim de intercâmbio cultural, a juízo do Conselho Consultivo do Serviço do Patrimônio Histórico e Artistico Nacional.

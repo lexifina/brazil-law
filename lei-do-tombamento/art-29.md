@@ -1,0 +1,2 @@
+Art. 29. O titular do direito de preferência gosa de privilégio especial sôbre o valor produzido em praça por bens tombados, quanto ao pagamento de multas impostas em virtude de infrações da presente lei.
+Parágrafo único. Só terão prioridade sôbre o privilégio a que se refere êste artigo os créditos inscritos no registro competente, antes do tombamento da coisa pelo Serviço do Patrimônio Histórico e Artístico Nacional.
