@@ -1,0 +1,1 @@
+Artigo 17 - Para os funcionários e servidores abrangidos pelo artigo 4º desta lei complementar, os prazos para a opção fixados nas Disposições Transitórias da Lei Complementar nº 180, de 12 de maio de 1978, serão contados a partir da data da publicação desta lei complementar.

@@ -1,0 +1,1 @@
+Artigo 21 - Fica reaberto por 30 (trinta) dias, contados da data da publicação desta lei complementar, o prazo para opção fixado no artigo 54 das Disposições Transitórias da Lei Complementar nº 180, de 12 de maio de 1978.

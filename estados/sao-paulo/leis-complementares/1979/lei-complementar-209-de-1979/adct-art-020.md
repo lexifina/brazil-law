@@ -1,0 +1,3 @@
+Artigo 20 - Ao funcionário que tenha se valido da opção prevista no artigo 14 das Disposições Transitórias da Lei Complementar nº 180, de 12 de maio de 1978, fica assegurado o direito de retratação, hipótese em que seu atual cargo ficará transformado no cargo do qual era titular efetivo.
+§ 1º - A retratação deverá ser manifestada dentro do prazo de 30 (trinta) dias, contados da data da publicação desta lei complementar.
+§ 2º - O enquadramento do cargo decorrente da transformação prevista neste artigo far-se-á com base na situação do cargo do qual o funcionário era titular em 28 de fevereiro de 1978, aplicadas as regras dos artigos 4º ou 5º das Disposições Transitórias da Lei Complementar nº 180, de 12 de maio de 1978, conforme o caso.

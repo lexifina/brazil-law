@@ -1,0 +1,1 @@
+Artigo 18 - Até que seja expedido o decreto a que alude o artigo 10 desta lei complementar, fica mantido o valor do "pro labore" atribuído com funcionamento no artigo 24 da Lei nº 10.168, de 10 de julho de 1968.
