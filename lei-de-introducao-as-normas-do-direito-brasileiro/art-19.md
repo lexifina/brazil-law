@@ -1,0 +1,2 @@
+Art. 19. Reputam-se válidos todos os atos indicados no artigo anterior e celebrados pelos cônsules brasileiros na vigência do Decreto-lei nº 4.657, de 4 de setembro de 1942, desde que satisfaçam todos os requisitos legais.
+Parágrafo único. No caso em que a celebração dêsses atos tiver sido recusada pelas autoridades consulares, com fundamento no artigo 18 do mesmo Decreto-lei, ao interessado é facultado renovar o pedido dentro em 90 (noventa) dias contados da data da publicação desta lei.
