@@ -1,0 +1,1 @@
+Altera o Decreto-Lei nº 667, de 02 de julho de 1969, que reorganiza as Polícia Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal e dá outras providências.
