@@ -1,0 +1,6 @@
+DECRETO-LEI Nº 47, DE 18 DE NOVEMBRO DE 1966
+Dispõe sôbre a aplicação e qualifica as penalidades pelas infrações às normas e resoluções de competência do Instituto Brasileiro do Café e dá outras providências.
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe são conferidas pelo, Artigo 31, Parágrafo único, do Ato Institucional nº 2, de 27 de outubro de 1965, e
+CONSIDERANDO a necessidade imperiosa de melhor reprimir à generalidade de infrações às normas e resoluções que disciplinam o abastecimento do consumo interno, o trânsito, a comercialização interna e a exportação do café e outros aspectos atinentes às atribuições do Instituto Brasileiro do Café;
+CONSIDERANDO que vem ocorrendo, com freqüência, a prática dolosa do encaminhamento, para comercialização de cafés de baixa qualidade no objetivo de induzir em êrro os estabelecimentos de crédito da rêde oficial e privada, fraudando-se, dessa forma, as garantias dos financiamentos e lesando-se terceiros de boa fé;
+CONSIDERANDO, ainda, ser de relevante e inadiável importância fixar penalidades que melhor correspondam à natureza das transgressões como também definir o comportamento doloso, tudo com vistas aos danos trazidos ao mercado, à política de crédito, além de outras perturbações decorrentes de atividades ilícitas, resolve baixar o seguinte decreto-lei:
