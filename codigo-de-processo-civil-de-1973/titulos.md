@@ -240,11 +240,12 @@ DOS EMBARGOS INFRINGENTES
 CAPÍTULO V
 DOS EMBARGOS DE DECLARAÇÃO
 CAPÍTULO VI
-Dos Recursos para o Supremo Tribunal Federal
+DOS RECURSOS PARA O SUPREMO TRIBUNAL FEDERAL
+E O SUPERIOR TRIBUNAL DE JUSTIÇA
 Seção I
 Dos Recursos Ordinários
 Seção II
-Do recurso extraordinário
+Do Recurso Extraordinário e do Recurso Especial
 CAPÍTULO VII
 DA ORDEM DOS PROCESSOS NO TRIBUNAL
 LIVRO II
