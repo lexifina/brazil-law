@@ -3,3 +3,4 @@ Art. 5º Não se aplicam as vedações constantes do art. 39 da Lei nº 4.131, d
 § 2º Caso instituído, o Programa a que se refere o § 1º observará as diretrizes fixadas pela GCE, sendo as demais condições estabelecidas pelo BNDES.
 § 3º Fica autorizada a instituição de programa de financiamento destinado a suprir insuficiência de recursos a ser recuperada por meio do disposto no art. 6º, de acordo com diretrizes fixadas em ato da GCE.
 § 4º Fica autorizada a concessão de financiamentos incluídos nos programas de que trata este artigo ou de acesso a operações de efeito financeiro equivalente a entidades cujo controle acionário pertença a pessoas jurídicas de direito público interno ou a suas subsidiárias ou controladas.
+§ 5º (VETADO)
