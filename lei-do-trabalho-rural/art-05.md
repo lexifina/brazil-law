@@ -1,0 +1,1 @@
+Art. 5º Em qualquer trabalho contínuo de duração superior a seis horas, será obrigatória a concessão de um intervalo para repouso ou alimentação observados os usos e costumes da região, não se computando este intervalo na duração do trabalho. Entre duas jornadas de trabalho haverá um período mínimo de onze horas consecutivas para descanso.

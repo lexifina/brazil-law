@@ -1,0 +1,1 @@
+Art. 4º - Equipara-se ao empregador rural, a pessoa física ou jurídica que, habitualmente, em caráter profissional, e por conta de terceiros, execute serviços de natureza agrária, mediante utilização do trabalho de outrem.
