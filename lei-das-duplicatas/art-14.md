@@ -1,0 +1,1 @@
+Art. 14. Nos casos de protestos por, falta de aceite ou de devolução da duplicata, o instrumento de protesto deverá conter, além dos requisitos enumerados no art. 29 do Decreto nº 2.044, de 31 de dezembro de 1908, a transição literal do recibo passado, pelo sacado, no rodapé da fatura ou em documento comprobatório da entrega da mercadoria.

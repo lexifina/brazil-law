@@ -1,0 +1,5 @@
+Art. 22. Equiparam-se às entidades constantes do art. 20, para os efeitos da presente Lei, ressalvado o disposto no Capítulo VI, os profissionais liberais e os que prestam serviço de natureza eventual desde que o valor do serviço ultrapasse a NCr$100,00 (cem cruzeiros novos).
+§ 1º Nos casos dêste artigo, o credor enviará ao devedor fatura ou conta que mencione a natureza e valor dos serviços prestados, data e local do pagamento e o vínculo contratual que deu origem aos serviços executados.
+§ 2º Registrada a fatura ou conta no Cartório de Títulos e Documentos, será ela remetida ao devedor, com as cautelas constantes do artigo 6º.
+§ 3º O não pagamento da fatura ou conta no prazo nela fixado autorizará o credor a levá-la a protesto, valendo, na ausência do original, certidão do cartório competente.
+§ 4º O instrumento do protesto, elaborado com as cautelas do art. 14, discriminando a fatura ou conta original ou a certidão do Cartório de Títulos e Documentos, autorizará o ajuizamento da competente ação executiva na forma prescrita nesta Lei.
