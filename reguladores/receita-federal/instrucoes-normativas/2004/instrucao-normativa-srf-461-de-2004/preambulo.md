@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 461, de 17 de outubro de 2004
+Dispõe sobre o Cadastro de Pessoas Físicas (CPF).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e, tendo em vista o disposto no art. 11 da Lei nº 4.862, de 29 de novembro de 1964, nos arts. 1º a 3º do Decreto-Lei nº 401, de 30 de dezembro de 1968, nos arts. 33 a 36 do Decreto nº 3.000, de 26 de março de 1999, no art. 1º do Decreto nº 4.166, de 13 de março de 2002, e nas Portarias Interministeriais nºs 101 e 102, ambas, de 23 de abril de 2002, resolve:
