@@ -1,0 +1,2 @@
+Dispõe sobre a assunção, pela União, de operações de crédito contratadas pela Companhia Estadual de Energia Elétrica-CEEE junto a bancos franceses, bem como de obrigações previstas nos respectivos contratos comerciais, firmados para o financiamento da construção da Usina Termelétrica de Candiota III - Unidade 1.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
