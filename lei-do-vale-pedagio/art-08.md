@@ -1,0 +1,1 @@
+Art. 8º Sem prejuízo do que estabelece o art. 5º, nas hipóteses de infração ao disposto nesta Lei, o embarcador será obrigado a indenizar o transportador em quantia equivalente a duas vezes o valor do frete.
