@@ -1,0 +1,1 @@
+Art. 75. O valor da multa de que trata este Capítulo será fixado no regulamento desta Lei e corrigido periodicamente, com base nos índices estabelecidos na legislação pertinente, sendo o mínimo de R$ 50,00 (cinqüenta reais) e o máximo de R$ 50.000.000,00 (cinqüenta milhões de reais).
