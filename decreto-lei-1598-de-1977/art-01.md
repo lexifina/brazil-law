@@ -1,0 +1,1 @@
+Art. 1º - O imposto sobre o lucro das pessoas jurídicas domiciliadas no País, inclusive firmas ou empresas individuais equiparadas a pessoas jurídicas, será cobrado nos termos da legislação em vigor, com as alterações deste Decreto-lei.

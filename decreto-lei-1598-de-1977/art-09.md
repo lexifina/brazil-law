@@ -1,0 +1,4 @@
+Art. 9º - A determinação do lucro real pelo contribuinte está sujeita a verificação pela autoridade tributária, com base no exame de livros e documentos da sua escrituração, na escrituração de outros contribuintes, em informação ou esclarecimentos do contribuinte ou de terceiros, ou em qualquer outro elemento de prova.
+§ 1º - A escrituração mantida com observância das disposições legais faz prova a favor do contribuinte dos fatos nela registrados e comprovados por documentos hábeis, segundo sua natureza, ou assim definidos em preceitos legais.
+§ 2º - Cabe à autoridade administrativa a prova da inveracidade dos fatos registrados com observância do disposto no § 1º.
+§ 3º - O disposto no § 2º não se aplica aos casos em que a lei, por disposição especial, atribua ao contribuinte o ônus da prova de fatos registrados na sua escrituração.

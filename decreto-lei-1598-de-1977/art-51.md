@@ -1,0 +1,1 @@
+Art. 51 - O saldo credor da conta de correção monetária de que trata o item II do artigo 39 será computado na determinação do lucro real, mas o contribuinte terá opção para diferir, com observância do disposto nesta Subseção, a tributação do lucro inflacionário não realizado.
