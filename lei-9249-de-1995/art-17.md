@@ -1,0 +1,3 @@
+Art. 17. Para os fins de apuração do ganho de capital, as pessoas físicas e as pessoas jurídicas não tributadas com base no lucro real observarão os seguintes procedimentos:
+I - tratando-se de bens e direitos cuja aquisição tenha ocorrido até o final de 1995, o custo de aquisição poderá ser corrigido monetariamente até 31 de dezembro desse ano, tomando-se por base o valor da UFIR vigente em 1º de janeiro de 1996, não se lhe aplicando qualquer correção monetária a partir dessa data;
+II - tratando-se de bens e direitos adquiridos após 31 de dezembro de 1995, ao custo de aquisição dos bens e direitos não será atribuída qualquer correção monetária.

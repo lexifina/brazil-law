@@ -1,0 +1,16 @@
+Art. 13. Para efeito de apuração do lucro real e da base de cálculo da contribuição social sobre o lucro líquido, são vedadas as seguintes deduções, independentemente do disposto no art. 47 da Lei nº 4.506, de 30 de novembro de 1964:
+I - de qualquer provisão, exceto as constituídas para o pagamento de férias de empregados e de décimo-terceiro salário, a de que trata o art. 43 da Lei nº 8.981, de 20 de janeiro de 1995, com as alterações da Lei nº 9.065, de 20 de junho de 1995, e as provisões técnicas das companhias de seguro e de capitalização, bem como das entidades de previdência privada, cuja constituição é exigida pela legislação especial a elas aplicável;
+II - das contraprestações de arrendamento mercantil e do aluguel de bens móveis ou imóveis, exceto quando relacionados intrinsecamente com a produção ou comercialização dos bens e serviços;
+III - de despesas de depreciação, amortização, manutenção, reparo, conservação, impostos, taxas, seguros e quaisquer outros gastos com bens móveis ou imóveis, exceto se intrinsecamente relacionados com a produção ou comercialização dos bens e serviços;
+IV - das despesas com alimentação de sócios, acionistas e administradores;
+V - das contribuições não compulsórias, exceto as destinadas a custear seguros e planos de saúde, e benefícios complementares assemelhados aos da previdência social, instituídos em favor dos empregados e dirigentes da pessoa jurídica;
+VI - das doações, exceto as referidas no § 2º;
+VII - das despesas com brindes.
+§ 1º Admitir-se-ão como dedutíveis as despesas com alimentação fornecida pela pessoa jurídica, indistintamente, a todos os seus empregados.
+§ 2º Poderão ser deduzidas as seguintes doações:
+I - as de que trata a Lei nº 8.313, de 23 de dezembro de 1991;
+II - as efetuadas às instituições de ensino e pesquisa cuja criação tenha sido autorizada por lei federal e que preencham os requisitos dos incisos I e II do art. 213 da Constituição Federal, até o limite de um e meio por cento do lucro operacional, antes de computada a sua dedução e a de que trata o inciso seguinte;
+III - as doações, até o limite de dois por cento do lucro operacional da pessoa jurídica, antes de computada a sua dedução, efetuadas a entidades civis, legalmente constituídas no Brasil, sem fins lucrativos, que prestem serviços gratuitos em benefício de empregados da pessoa jurídica doadora, e respectivos dependentes, ou em benefício da comunidade onde atuem, observadas as seguintes regras:
+a) as doações, quando em dinheiro, serão feitas mediante crédito em conta corrente bancária diretamente em nome da entidade beneficiária;
+b) a pessoa jurídica doadora manterá em arquivo, à disposição da fiscalização, declaração, segundo modelo aprovado pela Secretaria da Receita Federal, fornecida pela entidade beneficiária, em que esta se compromete a aplicar integralmente os recursos recebidos na realização de seus objetivos sociais, com identificação da pessoa física responsável pelo seu cumprimento, e a não distribuir lucros, bonificações ou vantagens a dirigentes, mantenedores ou associados, sob nenhuma forma ou pretexto;
+c) a entidade civil beneficiária deverá ser reconhecida de utilidade pública por ato formal de órgão competente da União.

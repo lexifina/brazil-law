@@ -1,0 +1,1 @@
+Art. 29. Os limites a que se referem os arts. 36, I, e 44, da Lei nº 8.981, de 20 de janeiro de 1995, com a redação dada pela Lei nº 9.065, de 20 de junho de 1995, passam a ser de R$ 12.000.000,00 (doze milhões de reais).
