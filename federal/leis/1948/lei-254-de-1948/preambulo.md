@@ -1,0 +1,4 @@
+LEI Nº 254, DE 19 DE FEVEREIRO DE 1948
+Transfere para o Quadro Permanente do Ministério da Fazenda o cargo de Tesoureiro do Quadro Permanente do Ministério do Trabalho, Industria e Comércio.
+O PRESIDENTE DA REPÚBLICA, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
+Art 1º É transferido para o Quadro Permanente do Ministério da Fazenda, nos têrmos do Decreto-lei número 9.813, de 9 de setembro de 1946, o cargo isolado, de provimento efetivo, de Tesoureiro, padrão J, do Quadro Permanente do Ministério do Trabalho, Indústria e Comércio.
