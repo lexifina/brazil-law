@@ -1,0 +1,1 @@
+Art. 25. São irretratáveis os compromissos de compra e venda, cessões e promessas de cessão, os que atribuam direito a adjudicação compulsória e, estando registrados, confiram direito real oponível a terceiros.
