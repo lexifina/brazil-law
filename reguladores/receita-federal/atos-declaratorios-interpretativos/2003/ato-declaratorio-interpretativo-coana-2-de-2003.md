@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo Coana nº 2, de 18 de fevereiro de 2003
+Declara a aplicabilidade do regime aduaneiro especial de exportação e importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e de gás natural - REPETRO ao bem que menciona.
+O COORDENADOR SUBSTITUTO DE ASSUNTOS TARIFÁRIOS E COMERCIAIS, no uso da competência subdelegada pelo artigo 5º da Portaria Coana no 3, de 31 de janeiro de 2002, declara:
+Artigo único. O regime aduaneiro especial de exportação e importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e de gás natural - REPETRO, instituído pelo Decreto n° 3.161, de 2 de setembro de 1999, com alterações introduzidas pelo Decreto n° 3.663, de 16 de novembro de 2000, aplica-se ao bem a seguir relacionado, por ser adequado à utilização direta nas atividades-fim para aplicação do regime, e por garantir a operacionalidade de pelo menos um dos bens constantes do anexo único à IN SRF n° 4, de 10 de janeiro de 2001, desde que não se enquadre na restrição prevista no inciso II do § 2° do art. 2° da referida Instrução Normativa.
+[arquivo anexo: an_Filtrado.htm]
