@@ -1,8 +1,0 @@
-Art. 7º A base de cálculo será:
-I - o valor aduaneiro, na hipótese do inciso I do caput do art. 3º desta Lei; ou
-II - o valor pago, creditado, entregue, empregado ou remetido para o exterior, antes da retenção do imposto de renda, acrescido do Imposto sobre Serviços de qualquer Natureza - ISS e do valor das próprias contribuições, na hipótese do inciso II do caput do art. 3º desta Lei.
-§ 1º A base de cálculo das contribuições incidentes sobre prêmios de resseguro cedidos ao exterior é de 15% (quinze por cento) do valor pago, creditado, entregue, empregado ou remetido.
-§ 2º O disposto no § 1º deste artigo aplica-se aos prêmios de seguros não enquadrados no disposto no inciso X do art. 2º desta Lei.
-§ 3º A base de cálculo fica reduzida:
-I - em 30,2% (trinta inteiros e dois décimos por cento), no caso de importação, para revenda, de caminhões chassi com carga útil igual ou superior a 1.800 kg (mil e oitocentos quilogramas) e caminhão monobloco com carga útil igual ou superior a 1.500 kg (mil e quinhentos quilogramas), classificados na posição 87.04 da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, observadas as especificações estabelecidas pela Secretaria da Receita Federal; e
-II - em 48,1% (quarenta e oito inteiros e um décimo por cento), no caso de importação, para revenda, de máquinas e veículos classificados nos seguintes códigos e posições da TIPI: 84.29, 8432.40.00, 8432.80.00, 8433.20, 8433.30.00, 8433.40.00, 8433.5, 87.01, 8702.10.00 Ex 02, 8702.90.90 Ex 02, 8704.10.00, 87.05 e 8706.00.10 Ex 01 (somente os destinados aos produtos classificados nos Ex 02 dos códigos 8702.10.00 e 8702.90.90).

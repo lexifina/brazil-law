@@ -1,1 +1,0 @@
-Art. 47-A. Fica suspensa a incidência da Contribuição para o PIS/Pasep e da Cofins sobre as receitas decorrentes da venda de matéria-prima in natura de origem vegetal, destinada à produção de biodiesel, quando efetuada por pessoa jurídica ou cooperativa referida no § 1º do art. 47 desta Lei.

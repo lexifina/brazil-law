@@ -1,1 +1,0 @@
-Art. 1º É instituído o Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras (Reintegra), com o objetivo de reintegrar valores referentes a custos tributários federais residuais existentes nas suas cadeias de produção.

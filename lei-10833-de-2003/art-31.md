@@ -1,5 +1,4 @@
-Art. 31. O valor da CSLL, da COFINS e da contribuição para o PIS/PASEP, de que trata o art. 30, será determinado mediante a aplicação, sobre o montante a ser pago, do percentual de 4,65% (quatro inteiros e sessenta e cinco centésimos por cento), correspondente à soma das alíquotas de 1% (um por cento), 3% (três por cento) e 0,65% (sessenta e cinco centésimos por cento), respectivamente.
-§ 1º As alíquotas de 0,65% (sessenta e cinco centésimos por cento) e 3% (três por cento) aplicam-se inclusive na hipótese de a prestadora do serviço enquadrar-se no regime de não-cumulatividade na cobrança da contribuição para o PIS/PASEP e da COFINS.
+Art. 31. O valor da CSLL de que trata o art. 30 será determinado mediante a aplicação, sobre o montante a ser pago, do percentual de 1% (um por cento).
 § 2º No caso de pessoa jurídica beneficiária de isenção, na forma da legislação específica, de uma ou mais das contribuições de que trata este artigo, a retenção dar-se-á mediante a aplicação da alíquota específica correspondente às contribuições não alcançadas pela isenção.
 § 3º Fica dispensada a retenção de valor igual ou inferior a R$ 10,00 (dez reais), exceto na hipótese de Documento de Arrecadação de Receitas Federais - DARF eletrônico efetuado por meio do Siafi.
 § 4º (Revogado).

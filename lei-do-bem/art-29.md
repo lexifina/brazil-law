@@ -1,1 +1,0 @@
-Art. 29. Nas vendas efetuadas na forma dos arts. 28 e 28-A desta Lei não se aplica a retenção na fonte da Contribuição para o PIS/Pasep e da Cofins a que se referem o art. 64 da Lei nº 9.430, de 27 de dezembro de 1996, e o art. 34 da Lei nº 10.833, de 29 de dezembro de 2003.
