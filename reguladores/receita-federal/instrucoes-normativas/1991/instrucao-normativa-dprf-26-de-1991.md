@@ -1,0 +1,16 @@
+Instrução Normativa DPRF nº 26, de 15 de abril de 1991
+Estabelece procedimento especial para o trânsito aduaneiro de passagem de soja paraguaia, com entrada em Foz do Iguaçu-PR e Guaíra-PR e destino a Paranaguá-PR.
+O DIRETOR DO DEPARTAMENTO DA RECEITA FEDERAL, no uso de suas atribuições, e tendo em vista o disposto no artigo 273, inciso II, do Regulamento Aduaneiro, aprovado pelo Decreto nº 91.030, de 05/03/85, e considerando as orientações do Programa Federal de Desregulamentação aprovado pelo Decreto nº 99.179, de 15/03/90: resolve:
+1. O trânsito aduaneiro de passagem da soja paraguaia pelo território nacional, com entrada em Foz do Iguaçu-PR e Guaíra-PR, com destino a Paranaguá-PR, será objeto de procedimento especial de controle informatizado denominado CONTROLE DE TRÂNSITO ADUANEIRO - CONTRAD.
+2. Na forma estabelecida neste Ato, e para este fim, ficam instituídos os documentos "AUTORIZAÇÃO DE TRÂNSITO DE PASSAGEM - ATP" e "PERMISSÃO E CADASTRAMENTO DE TRANSPORTE DE CARGA - PCC", constantes dos anexos I e II.
+3. O procedimento CONTRAD poderá ser aplicado também aos sub-produtos da soja, a outros cereais e seus sub-produtos, ao trânsito aduaneiro rodo-ferroviário, bem como ser estendido a outras unidades administrativas.
+4. O ressarcimento pelas despesas decorrentes do atendimento em horário especial será de Cr$ 3.387,82 (três mil, trezentos e oitenta e sete cruzeiros e oitenta e dois centavos), por veículo, equivalente a US$ 13,50 (treze dólares e cinqüenta centavos), e variará de forma a manter essa equivalência, conforme acordado no âmbito da V Reunião Brasil/Paraguai de Coordenação e Avaliação de Transporte de Soja.
+4.1 - A referida contribuição será recolhida ao Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização - FUNDAF, em nome da transportadora, previamente à emissão da PCC.
+4.2 - O número das PCC emitidas, de cada vez, deverá corresponder exatamente ao valor recolhido.
+4.3 - Emitida a PCC, o transportador terá, até o primeiro dia útil seguinte à sua emissão, para a saída do veículo com destino à República do Paraguai.
+4.4 - Os valores recolhidos relativos às PCC emitidas e não utilizadas poderão ser objeto de restituição, mediante requerimento dirigido à autoridade local, obedecidos os procedimentos próprios.
+5. Os termos de responsabilidade referentes às ATP, bem como a declaração de recebimento das mercadorias para trânsito, serão formalizados por meio de uma única assinatura do representante legal do beneficiário do regime, aposta nas "Relações - Resumo Diário dos Trânsitos Concedidos", emitidas pelo sistema, consolidadas a nível de empresa transportadora.
+6. A empresa transportadora que, por si ou por seu representante legal, tenha deixado de cumprir as formalidades previstas neste Ato ou em suas normas complementares, ficará impedida de utilizar o regime de trânsito aduaneiro, devendo ser de imediato determinada a interrupção do trânsito aduaneiro, instaurando-se o competente procedimento fiscal.
+7. Os Coordenadores dos Sistemas Aduaneiro e de Informações Econômico-Fiscais baixarão normas complementares necessárias à efetiva execução deste Ato, bem como poderão estender a aplicação do procedimento CONTRAD, na forma prevista no item 3.
+8. Esta Instrução Normativa entra em vigor na data de sua publicação.
+ROMEU TUMA
