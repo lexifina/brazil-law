@@ -1,0 +1,3 @@
+Art. 1º - O § 1º do artigo 1º do Decreto-lei nº 359, de 17 de dezembro de 1968, passa a vigorar com a seguinte redação:
+“Art. 1º .....................................................................................................................
+§ 1º - A Comissão compor-se-á de nove membros, nomeados entre servidores civis e militares, ou profissionais liberais, de reconhecida idoneidade, pelo Presidente da República, mediante indicação do Ministro da Justiça, que será seu Presidente”.
