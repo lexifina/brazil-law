@@ -1,0 +1,2 @@
+Autoriza o Poder Executivo a contratar com a ITAIPU Binacional pagamento de débito junto ao Tesouro Nacional com títulos da dívida externa brasileira, denominados "BRAZIL INVESTMENT BOND - BIB", em valor correspondente a até US$ 92,800,000.00 (noventa e dois milhões e oitocentos mil dólares dos Estados Unidos da América).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
