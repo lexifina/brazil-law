@@ -1,0 +1,2 @@
+Art. 3º A saúde tem como fatores determinantes e condicionantes, entre outros, a alimentação, a moradia, o saneamento básico, o meio ambiente, o trabalho, a renda, a educação, o transporte, o lazer e o acesso aos bens e serviços essenciais; os níveis de saúde da população expressam a organização social e econômica do País.
+Parágrafo único. Dizem respeito também à saúde as ações que, por força do disposto no artigo anterior, se destinam a garantir às pessoas e à coletividade condições de bem-estar físico, mental e social.

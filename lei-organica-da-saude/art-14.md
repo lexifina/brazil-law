@@ -1,0 +1,2 @@
+Art. 14. Deverão ser criadas Comissões Permanentes de integração entre os serviços de saúde e as instituições de ensino profissional e superior.
+Parágrafo único. Cada uma dessas comissões terá por finalidade propor prioridades, métodos e estratégias para a formação e educação continuada dos recursos humanos do Sistema Único de Saúde (SUS), na esfera correspondente, assim como em relação à pesquisa e à cooperação técnica entre essas instituições.
