@@ -1,0 +1,15 @@
+Ato Declaratório Interpretativo SRF nº 1, de 28 de fevereiro de 2003
+Dispõe sobre enquadramento e reenquadramento de produtos classificados nas posições 22.04, 22.05, 22.06 e 22.08 da Tipi em classes de valores do IPI.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e considerando o que dispõe a Lei nº 7.798, de 10 de julho de 1989, e os arts. 149 e 150 do Decreto nº 4.544, de 26 de dezembro de 2002, Regulamento do Imposto sobre Produtos Industrializados (Ripi), declara:
+Dos pedidos de enquadramento entregues à SRF até 26 de dezembro de 2002
+Art. 1º Os produtos classificados nas posições 22.04, 22.05, 22.06 e 22.08 da Tipi, objeto de pedido de enquadramento, entregue à Secretaria da Receita Federal (SRF) até 26 de dezembro de 2002, enquanto não publicado o Ato Declaratório Executivo (ADE) dispondo sobre o enquadramento definitivo em classes de valores do IPI, sujeitam-se ao imposto:
+I - até 26 de dezembro de 2002, de acordo com a classe estabelecida em Instrução Normativa SRF ou Ato Declaratório SRF que disciplinava o enquadramento provisório do produto;
+II - a partir de 27 de dezembro de 2002, de conformidade com a menor classe estabelecida no art. 149 do Ripi, observado o tipo de produto e o volume do recipiente.
+Parágrafo único. Quando o produto for enquadrado definitivamente em classe superior àquela adotada provisoriamente, o estabelecimento industrial ou equiparado a industrial deverá recolher o valor da diferença do imposto devido, no prazo de recolhimento do IPI correspondente ao período de apuração em que ocorrer a publicação do ADE.
+Dos pedidos de enquadramento entregues à SRF a partir de 27 de dezembro de 2002
+Art. 2º Os pedidos de enquadramento entregues à SRF a partir de 27 de dezembro de 2002 deverão observar as regras de enquadramento provisório de que trata o art. 150, § 6º, do Ripi.
+Dos pedidos de reenquadramento de que trata o art. 5º da Instrução Normativa SRF nº 249, de 25 de novembro de 2002
+Art. 3º Os produtos objeto de pedido de reenquadramento solicitado de conformidade com o art. 5º da Instrução Normativa SRF nº 249, de 25 de novembro de 2002, ainda que tenha sido entregue em data posterior a 26 de dezembro de 2002, enquanto não publicado o ADE dispondo sobre o reenquadramento, sujeitam-se ao imposto:
+I - até 26 de dezembro de 2002, de acordo com a classe estabelecida em Portaria MF ou Ato Declaratório SRF que disciplinava o enquadramento definitivo do produto;
+II - a partir de 27 de dezembro de 2002, de acordo com o estabelecido no inciso I ou na menor classe no art. 149 do Ripi, observado o tipo de produto e o volume do recipiente, quando esta última resultar em maior classe de valor.
+Parágrafo único. Quando o produto for reenquadrado em classe superior àquela até então adotada, o estabelecimento industrial ou equiparado a industrial deverá recolher o valor da diferença do imposto devido, no prazo de recolhimento do IPI correspondente ao período de apuração em que ocorrer a publicação do ADE.
