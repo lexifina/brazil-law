@@ -1,0 +1,1 @@
+Art. 21. O produtor de sementes e de mudas fica obrigado a identificá-las, devendo fazer constar da respectiva embalagem, carimbo, rótulo ou etiqueta de identificação, as especificações estabelecidas no regulamento desta Lei.

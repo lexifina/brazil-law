@@ -1,0 +1,1 @@
+Art. 25. A inscrição de campo de produção de sementes e mudas de cultivar protegida nos termos da Lei nº 9.456, de 1997, somente poderá ser feita mediante autorização expressa do detentor do direito de propriedade da cultivar.

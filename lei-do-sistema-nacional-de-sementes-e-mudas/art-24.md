@@ -1,0 +1,2 @@
+Art. 24. A produção de sementes da classe não-certificada com origem genética comprovada poderá ser feita por, no máximo, duas gerações a partir de sementes certificadas, básicas ou genéticas, condicionada à prévia inscrição dos campos de produção no Mapa e ao atendimento às normas e padrões estabelecidos no regulamento desta Lei.
+Parágrafo único. A critério do Mapa, a produção de sementes prevista neste artigo poderá ser feita sem a comprovação da origem genética, quando ainda não houver tecnologia disponível para a produção de semente genética da respectiva espécie.

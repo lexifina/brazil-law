@@ -1,0 +1,4 @@
+Art. 40. Ficam criadas as Comissões de Sementes e Mudas, órgãos colegiados, de caráter consultivo e de assessoramento ao Mapa, às quais compete propor normas e procedimentos complementares, relativos à produção, comércio e utilização de sementes e mudas.
+§ 1º As Comissões de Sementes e Mudas, a serem instaladas nas unidades da Federação, serão compostas por representantes de entidades federais, estaduais e municipais e da iniciativa privada, vinculadas à fiscalização, à pesquisa, ao ensino, à assistência técnica e extensão rural, à produção, ao comércio e ao uso de sementes e mudas.
+§ 2º A composição, a estrutura, as atribuições e as responsabilidades das Comissões de Sementes e Mudas serão estabelecidas no regulamento desta Lei.
+§ 3º Cabe ao Mapa a coordenação, em âmbito nacional, das Comissões de Sementes e Mudas.

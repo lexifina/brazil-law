@@ -1,0 +1,1 @@
+Art. 48. Observadas as demais exigências desta Lei, é vedado o estabelecimento de restrições à inclusão de sementes e mudas de cultivar local, tradicional ou crioula em programas de financiamento ou em programas públicos de distribuição ou troca de sementes, desenvolvidos junto a agricultores familiares.

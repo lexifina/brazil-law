@@ -1,0 +1,1 @@
+Art. 33. A produção de sementes e mudas destinadas ao comércio internacional deverá obedecer às normas específicas estabelecidas pelo Mapa, atendidas as exigências de acordos e tratados que regem o comércio internacional ou aquelas estabelecidas com o país importador, conforme o caso.

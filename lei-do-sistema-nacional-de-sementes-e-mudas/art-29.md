@@ -1,0 +1,2 @@
+Art. 29. As análises de amostras de sementes e de mudas somente serão válidas, para os fins previstos nesta Lei, quando realizadas diretamente pelo Mapa ou por laboratório por ele credenciado ou reconhecido.
+Parágrafo único. Os resultados das análises somente terão valor, para fins de fiscalização, quando obtidos de amostras oficiais e analisadas diretamente pelo Mapa ou por laboratório oficial por ele credenciado.

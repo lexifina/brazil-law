@@ -1,0 +1,1 @@
+Art. 14. Ficam convalidadas as inscrições de cultivares já existentes no RNC, na data de publicação desta Lei, desde que, no prazo de 180 (cento e oitenta) dias, os interessados atendam ao disposto no art. 11.

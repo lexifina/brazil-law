@@ -1,0 +1,1 @@
+Art. 46. O produto da arrecadação a que se referem os arts. 9º e 17 será recolhido ao Fundo Federal Agropecuário, de conformidade com a legislação vigente, e aplicado na execução dos serviços de que trata esta Lei, conforme regulamentação.

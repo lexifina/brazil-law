@@ -1,0 +1,1 @@
+Art. 47. Fica o Mapa autorizado a estabelecer mecanismos específicos e, no que couber, exceções ao disposto nesta Lei, para regulamentação da produção e do comércio de sementes de espécies florestais, nativas ou exóticas, ou de interesse medicinal ou ambiental, bem como para as demais espécies referidas no parágrafo único do art. 24.
