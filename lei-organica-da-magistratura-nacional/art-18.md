@@ -1,0 +1,2 @@
+Art. 18 - São órgãos da Justiça Militar estadual os Tribunais de Justiça e os Conselhos de Justiça, cujas composição, organização e competência são definidos na Constituição e na lei.
+Parágrafo único - Nos Estados de Minas, Paraná, Rio Grande do Sul e São Paulo, a segunda instância da Justiça Militar estadual é constituída rolo respectivo Tribunal Militar, integrado por oficiais do mais alto posto da Polícia Militar e por civis, sempre em número ímpar, excedendo os primeiros aos segundos em uma unidade.

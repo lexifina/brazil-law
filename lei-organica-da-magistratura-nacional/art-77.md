@@ -1,0 +1,1 @@
+Art. 77 - computar-se-á, para efeito de aposentadoria e disponibilidade, o tempo de exercício da advocacia, até o máximo de quinze anos, em favor dos Ministros do Supremo Tribunal Federal e dos membros dos demais Tribunais que tenham sido nomeados para os lugares reservados a advogados, nos termos da Constituição federal.
