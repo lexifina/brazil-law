@@ -1,0 +1,1 @@
+Artigo 8° - Na aplicação do disposto no artigo 1° destas Disposições Transitórias, relativamente aos funcionários e servidores do Quadro do Tribunal de Contas, as transformações de cargos ou funções-atividades far-se-ão na conformidade do Anexo II, que faz parte integrante desta lei complementar.

@@ -1,0 +1,1 @@
+Artigo 13 - As transformações e integrações previstas nestas Disposições Transitórias dependerão de requerimento a ser formulado dentro de 60 (sessenta) dias, contados da data da publicação desta lei complementar.

@@ -1,0 +1,1 @@
+Artigo 16 - poderá ser nomeado para o cargo de Delegado de Ensino, do Subquadro de Cargos Públicos (SQC-I) do Quadro do Magistério, o Assistente de Planejamento e Controle Educacional que possua habilitação especifica de grau superior, na forma definida pelo Conselho Estadual da Educação.

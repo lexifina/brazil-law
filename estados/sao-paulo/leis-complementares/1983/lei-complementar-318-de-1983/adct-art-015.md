@@ -1,0 +1,1 @@
+Artigo 15 - Fica assegurada a atual condição de efetividade aos ocupantes de cargos que em virtude de transformações ou integrações previstas nestas Disposições Transitórias passarem a integrar a Tabela I dos Subquadros de Cargos Públicos (SQC-I) dos respectivos Quadros.

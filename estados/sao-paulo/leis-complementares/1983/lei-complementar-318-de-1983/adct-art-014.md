@@ -1,0 +1,1 @@
+Artigo 14 - O órgão central do Sistema de Administração de Pessoal fará publicar relação nominal dos funcionários e servidores abrangidos pelas transformações ou integrações previstas nestas Disposições Transitórias.
