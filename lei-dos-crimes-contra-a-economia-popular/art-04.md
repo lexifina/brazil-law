@@ -10,4 +10,3 @@ III - dissimular-se a natureza usurária do contrato;
 IV - quando cometido:
 a) por militar, funcionário público, ministro de culto religioso; por pessoa cuja condição econômico-social seja manifestamente superior à da vítima;
 b) em detrimento de operário ou de agricultor; de menor de 18 (dezoito) anos ou de deficiente mental, interditado ou não.
-§ 3º. A estipulação de juros ou lucros usurários será nula, devendo o juiz ajustá-los à medida legal, ou, caso já tenha sido cumprida, ordenar a restituição da quantia para em excesso, com os juros legais a contar da data do pagamento indevido.
