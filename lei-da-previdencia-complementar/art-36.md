@@ -1,0 +1,2 @@
+Art. 36. As entidades abertas são constituídas unicamente sob a forma de sociedades anônimas e têm por objetivo instituir e operar planos de benefícios de caráter previdenciário concedidos em forma de renda continuada ou pagamento único, acessíveis a quaisquer pessoas físicas.
+Parágrafo único. As sociedades seguradoras autorizadas a operar exclusivamente no ramo vida poderão ser autorizadas a operar os planos de benefícios a que se refere o caput, a elas se aplicando as disposições desta Lei Complementar.

@@ -1,0 +1,5 @@
+Art. 37. Compete ao órgão regulador, entre outras atribuições que lhe forem conferidas por lei, estabelecer:
+I - os critérios para a investidura e posse em cargos e funções de órgãos estatutários de entidades abertas, observado que o pretendente não poderá ter sofrido condenação criminal transitada em julgado, penalidade administrativa por infração da legislação da seguridade social ou como servidor público;
+II - as normas gerais de contabilidade, auditoria, atuária e estatística a serem observadas pelas entidades abertas, inclusive quanto à padronização dos planos de contas, balanços gerais, balancetes e outras demonstrações financeiras, critérios sobre sua periodicidade, sobre a publicação desses documentos e sua remessa ao órgão fiscalizador;
+III - os índices de solvência e liquidez, bem como as relações patrimoniais a serem atendidas pelas entidades abertas, observado que seu patrimônio líquido não poderá ser inferior ao respectivo passivo não operacional; e
+IV - as condições que assegurem acesso a informações e fornecimento de dados relativos a quaisquer aspectos das atividades das entidades abertas.
