@@ -1,1 +1,0 @@
-Art. 53. O importador de cigarros sujeita-se, na condição de contribuinte e de contribuinte substituto dos comerciantes varejistas, ao pagamento das contribuições para o PIS/PASEP e para o financiamento da Seguridade Social - COFINS, calculadas segundo as mesmas normas aplicáveis aos fabricantes de cigarros nacionais.

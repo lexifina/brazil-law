@@ -1,1 +1,0 @@
-Art. 2º As contribuições para o PIS/PASEP e a COFINS, devidas pelas pessoas jurídicas de direito privado, serão calculadas com base no seu faturamento, observadas a legislação vigente e as alterações introduzidas por esta Lei.

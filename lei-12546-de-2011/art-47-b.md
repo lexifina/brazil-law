@@ -1,4 +1,0 @@
-Art. 47-B. É autorizada a apuração do crédito presumido instituído pelo art. 47 em relação a operações ocorridas durante o período de sua vigência.
-§ 1º É vedada a apuração do crédito presumido de que trata o caput e do crédito presumido instituído pelo art. 8º da Lei nº 10.925, de 23 de julho de 2004, em relação à mesma operação.
-§ 2º São convalidados os créditos presumidos de que trata o art. 8º da Lei nº 10.925, de 23 de julho de 2004, regularmente apurados em relação à aquisição ou ao recebimento de soja in natura por pessoa jurídica produtora de biodiesel.
-§ 3º A Secretaria da Receita Federal do Brasil disciplinará o disposto neste artigo.

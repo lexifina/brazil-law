@@ -1,1 +1,0 @@
-Art. 30. A partir da data de publicação desta Lei, o disposto nos arts. 8º e 9º da Lei nº 10.925, de 23 de julho de 2004, não mais se aplica aos produtos classificados nos códigos 12.01, 1208.10.00, 2304.00 e 2309.10.00 da Tipi.
