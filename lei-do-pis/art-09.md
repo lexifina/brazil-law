@@ -1,3 +1,0 @@
-Art. 9º - As importâncias creditadas aos empregados nas cadernetas de participação são inalienáveis e impenhoráveís, destinando-se, primordialmente, à formação de patrimônio do trabalhador.
-§ 1º - Por ocasião de casamento, aposentadoria ou invalidez do empregado titular da conta poderá o mesmo receber os valores depositados, mediante comprovação da ocorrência, nos termos do regulamento; ocorrendo a morte, os valores do depósito serão atribuídos aos dependentes e, em sua falta, aos sucessores, na forma da lei.
-§ 2º - A pedido do interessado, o saldo dos depósitos poderá ser também utilizado como parte do pagamento destinado à aquisição da casa própria, obedecidas as disposições regulamentares previstas no art. 11.
