@@ -2,4 +2,4 @@ Art. 1º Regem-se pelas disposições desta Lei, sem prejuízo da ação popular
 I - ao meio-ambiente;
 II - ao consumidor;
 III - a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico;
-IV - (VETADO).
+IV - a qualquer outro interesse difuso ou coletivo.
