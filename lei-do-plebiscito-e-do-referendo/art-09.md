@@ -1,0 +1,1 @@
+Art. 9º Convocado o plebiscito, o projeto legislativo ou medida administrativa não efetivada, cujas matérias constituam objeto da consulta popular, terá sustada sua tramitação, até que o resultado das urnas seja proclamado.
