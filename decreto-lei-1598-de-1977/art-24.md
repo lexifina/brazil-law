@@ -4,3 +4,4 @@ Art. 24 - A contrapartida do ajuste por aumento do valor do patrimônio líquido
 § 3º - A reserva de reavaliação do contribuinte será baixada mediante compensação com o ajuste do valor do investimento, e não será computada na determinação do lucro real:
 a) nos períodos-base em que a coligada ou controlada computar sua reserva de reavaliação na determinação do lucro real (art. 35); ou
 b) no período-base em que a coligada ou controlada utilizar sua reserva de reavaliação para absorver prejuízos.
+§ 4º A reserva de relativa a participações societárias vinculadas ao Fundo Nacional de Desestatização (art. 9º da Lei nº 8.031, de 12 de abril de 1990), poderá, quando da conclusão da operação de venda, ser estornada em contrapartida da conta de investimentos.
