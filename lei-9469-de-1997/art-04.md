@@ -1,0 +1,1 @@
+Art. 4º Não havendo Súmula da Advocacia-Geral da União (arts. 4º, inciso XII, e 43, da Lei Complementar nº 73, de 1993), o Advogado-Geral da União poderá dispensar a propositura de ações ou a interposição de recursos judiciais quando a controvérsia jurídica estiver sendo iterativamente decidida pelo Supremo Tribunal Federal ou pelos Tribunais Superiores.
