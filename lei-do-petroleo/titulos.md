@@ -9,7 +9,8 @@ Do Exercício do Monopólio
 SEÇÃO II
 Das Definições Técnicas
 CAPÍTULO IV
-Da Agência Nacional do Petróleo
+DA AGÊNCIA NACIONAL DO PETRÓLEO,
+GÁS NATURAL E BIOCOMBUSTÍVEIS
 SEÇÃO I
 Da Instituição e das Atribuições
 SEÇÃO II
