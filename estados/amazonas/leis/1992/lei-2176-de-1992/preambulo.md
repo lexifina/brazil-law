@@ -1,0 +1,7 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+LEI Nº 2176 de 29/12/1992
+
+ESTIMA a Receita e Fixa a Despesa do Estado para o Exercício Financeiro de 1993.
