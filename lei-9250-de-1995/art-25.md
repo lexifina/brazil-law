@@ -1,0 +1,11 @@
+Art. 25. Como parte integrante da declaração de rendimentos, a pessoa física apresentará relação pormenorizada dos bens imóveis e móveis e direitos que, no País ou no exterior, constituam o seu patrimônio e o de seus dependentes, em 31 de dezembro do ano-calendário, bem como os bens e direitos adquiridos e alienados no mesmo ano.
+§ 1º Devem ser declarados:
+I - os bens imóveis, os veículos automotores, as embarcações e as aeronaves, independentemente do valor de aquisição;
+II - os demais bens móveis, tais como antigüidades, obras de arte, objetos de uso pessoal e utensílios, adquiridos a partir do ano-calendário de 1996, cujo valor de aquisição unitário seja igual ou superior a R$ 5.000,00 (cinco mil reais);
+III - os saldos de aplicações financeiras e de conta corrente bancária cujo valor individual, em 31 de dezembro do ano-calendário, exceda a R$ 140,00 (cento e quarenta reais);
+IV - os investimentos em participações societárias, em ações negociadas ou não em bolsa de valores e em ouro, ativo-financeiro, adquiridos a partir do ano-calendário de 1996, cujo valor de aquisição unitário seja igual ou superior a R$ 1.000,00 (um mil reais).
+§ 2º Os bens serão declarados discriminadamente pelos valores de aquisição em Reais, constantes dos respectivos instrumentos de transferência de propriedade ou da nota fiscal.
+§ 3º Os bens existentes no exterior devem ser declarados pelos valores de aquisição constantes dos respectivos instrumentos de transferência de propriedade, segundo a moeda do país em que estiverem situados, convertidos em Reais pela cotação cambial de venda do dia da transmissão da propriedade.
+§ 4º Os depósitos mantidos em bancos no exterior devem ser relacionados pelo valor do saldo desses depósitos em moeda estrangeira convertido em Reais pela cotação cambial de compra em 31 de dezembro do ano-calendário, sendo isento o acréscimo patrimonial decorrente de variação cambial.
+§ 5º Na declaração de bens e direitos, também deverão ser consignados os ônus reais e obrigações da pessoa física e de seus dependentes, em 31 de dezembro do ano-calendário, cujo valor seja superior a R$ 5.000,00 (cinco mil reais).
+§ 6º O disposto nos incisos II e IV do § 1º poderá ser observado na declaração de bens referente ao ano-calendário de 1995, com relação aos bens móveis e aos investimentos adquiridos anteriormente a 1996.

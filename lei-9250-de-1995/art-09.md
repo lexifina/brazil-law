@@ -1,0 +1,1 @@
+Art. 9º O resultado da atividade rural, apurado na forma da Lei nº 8.023, de 12 de abril de 1990, com as alterações posteriores, quando positivo, integrará a base de cálculo do imposto definida no artigo anterior.
