@@ -1,0 +1,11 @@
+DECRETO-LEI Nº 8.769, DE 21 DE JANEIRO DE 1946
+Expede normas destinadas a facilitar ao Instituto de Aposentadoria e Pensões dos Industriários melhor consecução dos seus fins imediatos, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 180 da Constituição e
+Considerando que, nas atuais circunstâncias não se recomenda nenhuma reforma estrutural no vigente sistema de assistência e previdência sociais, tanto mais que o Governo já determinou a realização dos estudos que deverão constituir o material de que disporão os órgãos competentes para determinação da política adequada ao assunto;
+Considerando porém, que essa ponderação não exclui a adoção de medidas de comprovada urgência que, resultando de experiência já colhida e estudada, correspondem a necessidades de solução inadiável, além de incorporarem as tendências mais recentes da nossa legislação;
+Considerando que, portanto, nessa hipótese, a adoção de tais medidas não só deixa de ser desaconselhada, mas pode até ser imperiosamente reclamada pelas circunstâncias;
+Considerando que exatamente é essa a hipótese do Instituto de Aposentadoria e Pensões dos Industriários, em cuja legislação específica a prática de oito anos apontou deficiências que se impõe corrigir imediatamente, sem o que dificílimo se tornará àquele Instituto o integral cumprimento das finalidades a que foi criado:
+Considerando, mais, que essa correção consistirá, em grande parte, em adaptar, à realidade os preceitos legais que dela estavam divorciados, criando, por outro lado, para o Instituto, as condições legais necessárias a que possa devidamente atender aos seus fins imediatos, quer reduzindo o seu custo administrativo, quer permitindo melhor organização dos seus serviços, quer, principalmente, simplificando e acelerando a concessão de benefício;
+Considerando, ainda, que as bases do plano de benefícios do Instituto sofreram alterações substanciais em decorrência do Decreto-lei nº 7.835, de 6 de agosto de 1945, de tal modo forçosas se tornaram medidas legislativas especiais;
+Considerando, finalmente, que, assim, a adoção das mencionadas providências, longe de constituir qualquer obstáculo à solução definitiva que de futuro venha a ser adotada na matéria, se torna, em verdade, uma providência preparatória imprescindível,
+DECRETA:
