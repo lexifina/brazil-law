@@ -1,0 +1,9 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+LEI Nº 2519 de 22/12/1998
+
+ESTIMA a Receita e FIXA a Despesa do Estado para o exercício financeiro de 1999.
+
+DISPOSIÇÃO PRELIMINAR
