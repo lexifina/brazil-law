@@ -1,0 +1,4 @@
+Resolução nº 83, de 30 de dezembro de 1998
+Aprova o Regulamento de Numeração.
+O CONSELHO DIRETOR DA AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES, no uso das atribuições que lhe foram conferidas pelo art. 22, inciso IV, da Lei nº 9.472, de 16 de julho de 1997 e artigo 16, inciso V, do Regulamento da Agência Nacional de Telecomunicações, aprovado pelo Decreto nº 2.338, de 7 de outubro de 1997, por meio do Circuito Deliberativo nº 62, realizado no dia 16 de dezembro de 1998, em conformidade com os artigos 23 a 26 do Regimento Interno da Agência, e
+CONSIDERANDO os comentários recebidos, decorrentes da realização, pela ANATEL, da Consulta Pública nº 30, de 4 de maio de 1998 que trata dos assuntos relativos à numeração de serviços de telecomunicações, publicada no Diário Oficial da União do dia 5 de maio de 1998, resolve:
