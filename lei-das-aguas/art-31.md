@@ -1,0 +1,1 @@
+Art. 31. Na implementação da Política Nacional de Recursos Hídricos, os Poderes Executivos do Distrito Federal e dos municípios promoverão a integração das políticas locais de saneamento básico, de uso, ocupação e conservação do solo e de meio ambiente com as políticas federal e estaduais de recursos hídricos.
