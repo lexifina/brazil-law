@@ -1,0 +1,1 @@
+§ 3º O empregador poderá conceder ao empregado ajuda compensatória mensal, sem natureza salarial, durante o período de suspensão contratual nos termos do caput deste artigo, com valor a ser definido em convenção ou acordo coletivo.
