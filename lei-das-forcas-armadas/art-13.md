@@ -1,1 +1,4 @@
 Art. 13. Para o cumprimento da destinação constitucional das Forças Armadas, cabe aos Comandantes da Marinha, do Exército e da Aeronáutica o preparo de seus órgãos operativos e de apoio, obedecidas as políticas estabelecidas pelo Ministro da Defesa.
+§ 1º O preparo compreende, entre outras, as atividades permanentes de planejamento, organização e articulação, instrução e adestramento, desenvolvimento de doutrina e pesquisas específicas, inteligência e estruturação das Forças Armadas, de sua logística e mobilização.
+§ 2º No preparo das Forças Armadas para o cumprimento de sua destinação constitucional, poderão ser planejados e executados exercícios operacionais em áreas públicas, adequadas à natureza das operações, ou em áreas privadas cedidas para esse fim.
+§ 3º O planejamento e a execução dos exercícios operacionais poderão ser realizados com a cooperação dos órgãos de segurança pública e de órgãos públicos com interesses afins.
