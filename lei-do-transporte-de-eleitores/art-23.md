@@ -1,1 +1,0 @@
-Art. 23. As urnas utilizadas no Distrito Federal, no dia seguinte ao da eleição, serão enviados para o Tribunal Regional Eleitoral do Estado correspondente que designará a Junta ou Juntas competentes para a apuração.
