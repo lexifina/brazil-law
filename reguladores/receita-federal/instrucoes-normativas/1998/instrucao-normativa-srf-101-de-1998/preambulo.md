@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 101, de 17 de agosto de 1998
+"Dispõe sobre o controle das importações de países limítrofes, realizadas por meio de Depósito Franco."
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista o disposto no art. 409 do Regulamento Aduaneiro, aprovado pelo Decreto nº 91.030, de 05 de março de 1980 e de conformidade com os Convênios celebrados entre o Brasil e a República do Paraguai, promulgados pelos Decretos nºs 7.712, de 25 de agosto de 1941 e 42.920, de 30 de dezembro de 1957, e entre o Brasil e a República da Bolívia, promulgados pelos Decretos nºs 65.815, 65.816 e 65.817, todos de 08 de dezembro de 1969, resolve:
