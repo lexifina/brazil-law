@@ -1,0 +1,1 @@
+Artigo 9º - Os cargos e funções-atividades que, nos termos das Disposições Transitórias desta lei complementar, como resultado da integração na série de classes de Perito Criminal, forem incluídos em Tabela de Subquadro distinta da prevista para o cargo ou função-atividade anterior, não modificam a situação jurídica dos respectivos ocupantes.

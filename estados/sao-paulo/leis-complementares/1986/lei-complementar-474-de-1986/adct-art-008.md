@@ -1,0 +1,1 @@
+Artigo 8º - O órgão central de recursos humanos fará publicar relação nominal dos funcionários e servidores abrangidos pelos artigos 1º, 5º e 6º destas Disposições Transitórias, indicando a denominação do cargo ou função-atividade anteriormente ocupado e a do cargo ou função-atividade resultante da integração.

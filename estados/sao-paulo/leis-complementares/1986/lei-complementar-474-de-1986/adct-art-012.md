@@ -1,0 +1,1 @@
+Artigo 12 - Para os efeitos do disposto no § 2º do artigo 5º desta lei complementar, entende-se cumprido o interstício correspondente à classe em que, na forma dos artigos 1º, 5º e 6º destas Disposições Transitórias, for integrado o cargo ou função-atividade.

@@ -1,0 +1,4 @@
+Artigo 4º - O disposto nos artigos 1º a 3º destas Disposições Transitórias aplica-se aos servidores ocupantes de funções-atividades de natureza permanente de igual denominação, que preencham as condições previstas no mencionado artigo 1º.
+§ 1º - As funções-atividades de que trata este artigo ficam integradas na Tabela II do Subquadro de Funções-Atividades (SQC-II) do Quadro da Secretaria da Segurança Pública.
+§ 2º - O ocupante de função-atividade da série de classes de Perito Criminal, que se submeter a concurso de ingresso e vier a ser nomeado para o cargo de Perito Criminal I, terá o respectivo cargo transformado em cargo de nível idêntico ao da classe em que se encontrava na condição de servidor.
+§ 3º - A transformação referida no parágrafo anterior dar-se-á a partir da data do exercício no cargo.
