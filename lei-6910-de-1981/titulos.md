@@ -1,0 +1,1 @@
+Restringe a aplicação do disposto no art. 2º da Lei nº4.729, de 14 de julho de 1965, e no art. 18, § 2º, do Decreto-lei nº 157, de 10 de fevereiro de 1967, e revoga o Decreto-lei nº 1.650, de 19 dezembro de 1978.
