@@ -1,0 +1,1 @@
+Art. 24. A outorga de autorização para execução do Serviço de Radiodifusão Comunitária fica sujeita a pagamento de taxa simbólica, para efeito de cadastramento, cujo valor e condições serão estabelecidos pelo Poder Concedente.

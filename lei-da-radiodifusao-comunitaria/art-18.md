@@ -1,0 +1,1 @@
+Art. 18. As prestadoras do Serviço de Radiodifusão Comunitária poderão admitir patrocínio, sob a forma de apoio cultural, para os programas a serem transmitidos, desde que restritos aos estabelecimentos situados na área da comunidade atendida.

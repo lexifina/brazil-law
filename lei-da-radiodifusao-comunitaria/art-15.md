@@ -1,0 +1,1 @@
+Art. 15. As emissoras do Serviço de Radiodifusão Comunitária assegurarão, em sua programação, espaço para divulgação de planos e realizações de entidades ligadas, por suas finalidades, ao desenvolvimento da comunidade.

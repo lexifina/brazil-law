@@ -1,0 +1,2 @@
+Art. 7º São competentes para explorar o Serviço de Radiodifusão Comunitária as fundações e associações comunitárias, sem fins lucrativos, desde que legalmente instituídas e devidamente registradas, sediadas na área da comunidade para a qual pretendem prestar o Serviço, e cujos dirigentes sejam brasileiros natos ou naturalizados há mais de 10 anos.
+Parágrafo único. Os dirigentes das fundações e sociedades civis autorizadas a explorar o Serviço, além das exigências deste artigo, deverão manter residência na área da comunidade atendida.

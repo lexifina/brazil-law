@@ -1,0 +1,1 @@
+Art. 14. Os equipamentos de transmissão utilizados no Serviço de Radiodifusão Comunitária serão pré-sintonizados na freqüência de operação designada para o serviço e devem ser homologados ou certificados pelo Poder Concedente.

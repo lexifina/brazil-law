@@ -1,0 +1,1 @@
+Art. 11. A entidade detentora de autorização para execução do Serviço de Radiodifusão Comunitária não poderá estabelecer ou manter vínculos que a subordinem ou a sujeitem à gerência, à administração, ao domínio, ao comando ou à orientação de qualquer outra entidade, mediante compromissos ou relações financeiras, religiosas, familiares, político-partidárias ou comerciais.
