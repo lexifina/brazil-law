@@ -1,0 +1,1 @@
+Art. 20. Dentro de cento e oitenta dias, proceder-se-á à revisão dos direitos dos servidores públicos inativos e pensionistas e à atualização dos proventos e pensões a eles devidos, a fim de ajustá-los ao disposto na Constituição.

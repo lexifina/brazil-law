@@ -1,0 +1,2 @@
+Art. 45. Ficam excluídas do monopólio estabelecido pelo art. 177, II, da Constituição as refinarias em funcionamento no País amparadas pelo art. 43 e nas condições do art. 45 da Lei nº 2.004, de 3 de outubro de 1953.
+Parágrafo único. Ficam ressalvados da vedação do art. 177, § 1º, os contratos de risco feitos com a Petróleo Brasileiro S.A. (Petrobrás), para pesquisa de petróleo, que estejam em vigor na data da promulgação da Constituição.

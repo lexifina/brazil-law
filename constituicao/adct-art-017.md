@@ -1,0 +1,3 @@
+Art. 17. Os vencimentos, a remuneração, as vantagens e os adicionais, bem como os proventos de aposentadoria que estejam sendo percebidos em desacordo com a Constituição serão imediatamente reduzidos aos limites dela decorrentes, não se admitindo, neste caso, invocação de direito adquirido ou percepção de excesso a qualquer título.
+§ 1º É assegurado o exercício cumulativo de dois cargos ou empregos privativos de médico que estejam sendo exercidos por médico militar na administração pública direta ou indireta.
+§ 2º É assegurado o exercício cumulativo de dois cargos ou empregos privativos de profissionais de saúde que estejam sendo exercidos na administração pública direta ou indireta.
