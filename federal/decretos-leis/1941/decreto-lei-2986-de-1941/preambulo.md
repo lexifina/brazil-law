@@ -1,0 +1,10 @@
+DECRETO-LEI N. 2.986 – DE 27 DE JANEIRO DE 1941
+Dispõe sobre as normas que devem seguir os navios mercantes quando em águas jurisdicionais brasileiras.
+O Presidente da República, usando da atribuição que Ihe confere o art. 180 da Constituição, e considerando:
+1º Que em virtude de resolução da Reunião Consultiva dos Ministros das Relações Exteriores, realizada em Panamá, em setembro de 1939, foi criada a Comissão Interamericana de Neutralidade que tem por fim, enquanto durar a atual guerra, estudar e formular recomendações sobre os problemas de neutralidade;
+2º Que a referida Comissão, com sede na cidade do Rio de Janeiro, elaborou e transmitiu, por intermédio da União Panamericana, a todos os paises que desta fazem parte, uma recomendação regulando a situação dos navios auxiliares;
+3º Que, em vista dos casos que se teem apresentado em relação a naves auxiliares de frotas beligerantes, seria conveniente que fossem adotadas normas relativas a navios mercantes que, em portos ou águas jurisdicionais do país, se ponham, de algum modo, ao serviço de naves de guerra de bandeira beligerante ou com elas estabeleçam contacto, com violação de neutralidade;
+4º Que estão em vigor certos princípios gerais de neutralidade, estabelecidos pelo costume ou pelo direito convencional, que regulam os direitos e deveres dos Estados neutros nesse respeito;
+5º Que tais princípios reconhecem tanto o direito como o dever dos Estados neutros de exercerem vigilância sobre as atividades dos navios mercantes, de bandeira beligerante ou neutra, que penetrem em seus portos, fundeadouros ou águas jurisdicionais, e de usarem os meios de que disponham para impedir a execução de qualquer ato que possa comprometer sua neutralidade;
+6º Que os navios mercantes de nacionalidade estrangeira, seus oficiais e tripulação estão sujeitos à jurisdição do Estado, em cujos portos, fundeadouros ou águas territoriais se achem, em tudo que diz respeito à segurança e à manutenção da paz do mesmo Estado e à observância das normas de neutralidade;
+Decreta:
