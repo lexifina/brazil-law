@@ -1,1 +1,1 @@
-Art. 14. Os produtos que, na data da vigência desta Lei, se acharem registrados há menos de 10 (dez) anos, consoante as normas em vigor, terão assegurada a respectiva validade até que se complete aquele período, ficando, porém, obrigados a novo registro, na forma desta Lei e de seus regulamentos, para que possam continuar a ser industrializados, expostos à venda e entregues ao consumo.
+Art. 14 - Ficam excluídos das exigências previstas nesta Lei, os nomes ou designações de fantasia dos produtos licenciados e industrializados anteriormente à sua vigência.
