@@ -1,0 +1,1 @@
+Art. 5º Os Estados entregarão aos seus respectivos Municípios 25% (vinte e cinco por cento) dos recursos que nos termos desta Lei Complementar receberem, observando-se para tanto os mesmos critérios, forma e prazos estabelecidos para o repasse da parcela do ICMS que a Constituição Federal assegura às municipalidades.
