@@ -1,2 +1,1 @@
 Art. 14. Os quantitativos dos empregos públicos e dos cargos comissionados de cada Agência serão estabelecidos em lei, ficando as Agências autorizadas a efetuar a alteração dos quantitativos e da distribuição dos Cargos Comissionados de Gerência Executiva, de Assessoria, de Assistência e dos Cargos Comissionados Técnicos, observados os valores de retribuição correspondentes e desde que não acarrete aumento de despesa.
-Parágrafo único. É vedada a transferência entre Agências de ocupantes de emprego efetivo de Regulador e de Analista de Suporte à Regulação.

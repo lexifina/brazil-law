@@ -1,1 +1,1 @@
-Art. 2º. Ficam criados, para exercício exclusivo nas Agências Reguladoras, os cargos Comissionados de Direção - CD, de Gerência Executiva - CGE, de Assessoria - CA e de Assistência - CAS, e os Cargos Comissionados Técnicos - CCT, constantes do Anexo I.
+Art. 2º Ficam criados, para exercício exclusivo nas Agências Reguladoras, os cargos Comissionados de Direção - CD, de Gerência Executiva - CGE, de Assessoria - CA e de Assistência - CAS, e os Cargos Comissionados Técnicos - CCT, constantes do Anexo I desta Lei.
