@@ -1,0 +1,1 @@
+Art. 13. A autorização para funcionar e o registro referidos nos artigos 11 e 12 observarão o disposto no § 1º do art. 10 da Lei n. 4.595, de 31 de dezembro de 1964, e sòmente poderão ser cassados nos casos previstos em normas gerais aprovadas pelo Conselho Monetário Nacional.

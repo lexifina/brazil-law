@@ -1,0 +1,2 @@
+Art. 52. O endôsso no cheque nominativo, pago pelo banco contra o qual foi sacado, prova o recebimento da respectiva importância pela pessoa a favor da qual foi emitido, e pelos endossantes subseqüentes.
+Parágrafo único. Se o cheque indica a nota, fatura, conta, cambial, impôsto lançado ou declarado a cujo pagamento se destina, ou outra causa da sua emissão, o endôsso do cheque pela pessoa a favor da qual foi emitido e a sua liquidação pelo banco sacado provam o pagamento da obrigação indicada no cheque.
