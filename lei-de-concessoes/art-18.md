@@ -13,5 +13,5 @@ XI - as características dos bens reversíveis e as condições em que estes ser
 XII - a expressa indicação do responsável pelo ônus das desapropriações necessárias à execução do serviço ou da obra pública, ou para a instituição de servidão administrativa;
 XIII - as condições de liderança da empresa responsável, na hipótese em que for permitida a participação de empresas em consórcio;
 XIV - nos casos de concessão, a minuta do respectivo contrato, que conterá as cláusulas essenciais referidas no art. 23 desta Lei, quando aplicáveis;
-XV - nos casos de concessão de serviços públicos precedida da execução de obra pública, os dados relativos à obra, dentre os quais os elementos do projeto básico que permitam sua plena caracterização; e
+XV - nos casos de concessão de serviços públicos precedida da execução de obra pública, os dados relativos à obra, dentre os quais os elementos do projeto básico que permitam sua plena caracterização, bem assim as garantias exigidas para essa parte específica do contrato, adequadas a cada caso e limitadas ao valor da obra;
 XVI - nos casos de permissão, os termos do contrato de adesão a ser firmado.
