@@ -1,0 +1,1 @@
+Art. 31. Encerrada a discussão o Presidente do Supremo Tribunal Federal fará relatório resumido da denúncia e das provas da acusação e da defesa e submeterá a votação nominal dos senadores o julgamento.

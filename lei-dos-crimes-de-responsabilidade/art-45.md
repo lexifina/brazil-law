@@ -1,0 +1,1 @@
+Art. 45. A comissão a que alude o artigo anterior, reunir-se-á dentro de 48 horas e, depois de eleger o seu presidente e relator, emitirá parecer no prazo de 10 dias sobre se a denúncia deve ser, ou não julgada objeto de deliberação. Dentro desse período poderá a comissão proceder às diligências que julgar necessárias.
