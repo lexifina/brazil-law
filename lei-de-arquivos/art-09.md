@@ -1,0 +1,1 @@
+Art. 9º - A eliminação de documentos produzidos por instituições públicas e de caráter público será realizada mediante autorização da instituição arquivística pública, na sua específica esfera de competência.

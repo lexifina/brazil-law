@@ -1,0 +1,1 @@
+Art. 12 - Os arquivos privados podem ser identificados pelo Poder Público como de interesse público e social, desde que sejam considerados como conjuntos de fontes relevantes para a história e desenvolvimento científico nacional.
