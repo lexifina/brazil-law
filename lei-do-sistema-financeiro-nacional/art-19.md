@@ -8,7 +8,7 @@ e) executar a política de preços mínimos dos produtos agropastoris;
 f) ser agente pagador e recebedor fora do País;
 g) executar o serviço da dívida pública consolidada;
 II - como principal executor dos serviços bancários de interesse do Governo Federal, inclusive suas autarquias, receber em depósito, com exclusividade, as disponibilidades de quaisquer entidades federais, compreendendo as repartições de todos os ministérios civis e militares, instituições de previdência e outras autarquias, comissões, departamentos, entidades em regime especial de administração e quaisquer pessoas físicas ou jurídicas responsáveis por adiantamentos, ressalvados o disposto no § 5º deste artigo, as exceções previstas em lei ou casos especiais, expressamente autorizados pelo Conselho Monetário Nacional, por proposta do Banco Central da República do Brasil;
-III - arrecadar os depósitos voluntários à vista, das instituições de que trata o inciso III do artigo 10 desta lei, escriturando as respectivas contas.
+III - arrecadar os depósitos voluntários, à vista, das instituições de que trata o inciso III, do art. 10, desta lei, escriturando as respectivas contas;
 IV - executar os serviços de compensação de cheques e outros papéis;
 V - receber, com exclusividade, os depósitos de que tratam os artigos 38, item 3º, do Decreto-lei nº 2.627, de 26 de setembro de 1940, e 1º do Decreto-lei nº 5.956, de 01/11/43, ressalvado o disposto no art. 27, desta lei;
 VI - realizar, por conta própria, operações de compra e venda de moeda estrangeira e, por conta do Banco Central da República do Brasil, nas condições estabelecidas pelo Conselho Monetário Nacional;
