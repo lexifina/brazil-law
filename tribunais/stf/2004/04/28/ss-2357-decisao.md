@@ -1,0 +1,27 @@
+DECISÃO: O Estado da Paraíba e a Assembléia Legislativa estadual requerem a suspensão dos efeitos da liminar deferida pelo Tribunal de Justiça nos autos do Mandado de Segurança 2004.001564-4, que determinou o preenchimento de vaga no Tribunal de Contas local  dentre seus auditores, por escolha do Governador do Estado.
+2.              Consta dos autos que a decisão impugnada teve como fundamento o fato de que a vaga aberta é a sexta surgida após a Constituição Federal de 1988, ensejando, em
+conseqüência, a aplicação do disposto no inciso II do artigo 70 da Lei Complementar estadual 23/95, com a redação que lhe foi conferida pela LC 18/93 .
+3.              Alegam os requerentes que a referida norma somente poderia ser utilizada nos casos em que o conselheiro a ser substituído houvesse sido escolhido antes da vigência da atual Carta estadual, o que não é a hipótese dos autos. Esclarecem que, na espécie, o conselheiro substituído foi escolhido após a nova ordem constitucional pela Assembléia Legislativa e, por isso, há de ser obedecida a vinculação ao critério de origem da nomeação, cabendo a escolha do novo membro ao órgão legislativo.
+4.              Registram, além do mais, que o conselheiro Marcos Ubiratan Guedes Pereira, em exercício naquela Corte de Contas, exerceu o cargo de Auditor, conforme comprova a
+certidão de fl. 114. Significa dizer que, admitida a substituição por auditor, a composição do TCE/PB passaria a contar com dois conselheiros escolhidos dentre os auditores, violando dessa forma o próprio modelo constitucional estadual vigente, que prevê apenas uma vaga para a categoria.
+5.              Por fim, aduzem que tal situação representa grave lesão à ordem pública, uma vez que mitiga a representatividade assegurada ao Poder Legislativo na escolha de membros do tribunal responsável por auxiliá-lo no exercício do controle externo.
+6.              É o breve relatório.
+Decido.
+7.      O Supremo Tribunal Federal é competente para decidir o caso em questão, dado que o pedido tem fundamentação de natureza constitucional (CF, artigos 73, § 2º, I e II, e 75).
+8.      Na suspensão de segurança não se aprecia, em princípio, o mérito da ação mandamental, mas tão-somente a ocorrência dos aspectos relacionados à potencialidade lesiva do ato decisório em face dos interesses públicos relevantes consagrados em lei, quais sejam, a ordem, a saúde, a segurança e a economia públicas (artigos 4º da Lei 4348/64, 25 da Lei 8038/90 e 207 do RISTF).
+9.      Por outro lado, é assente nesta Corte o entendimento de que no exame dos pedidos da suspensão de liminar ou de segurança, cabe a avaliação da admissibilidade do recurso a ser interposto, sem que se afaste, no caso, o requisito do fumus boni iuris.
+10.     A Constituição do Estado da Paraíba, em simetria com os artigos 73, § 2º, I e II, e 75, parágrafo único da Carta Federal, estabelece, em seu artigo 73, § 2º, a composição da Corte de Contas estadual com sete conselheiros - três escolhidos pelo Governador, sendo um de sua livre escolha e dois entre auditores e membros do Ministério Público que atua junto ao TCE; e, quatro escolhidos pela Assembléia Legislativa.
+11.     Consta dos autos que a Corte de Contas do Estado é constituída por três Conselheiros nomeados pela Assembléia Legislativa e três pelo Governador (certidão de fl. 115), donde se pode concluir que a escolha do conselheiro que irá preencher a vaga aberta deverá ser feita pela Assembléia Legislativa, a fim de ser preservado o modelo constitucional vigente.
+12.     A respeito do tema, o Supremo Tribunal Federal fixou entendimento de que a "proporção da composição dos Tribunais de Contas dos Estados há de ser compreendida no sentido de caber ao Governador do Estado a escolha de três membros, a serem aprovados pela Assembléia Legislativa, e a esta a escolha de quatro Conselheiros, sendo que, dos escolhidos pelo Governador, um será por livre escolha e os outros dois, alternadamente, dentre auditores e membros do
+Ministério Público junto ao Tribunal de Contas, indicados em lista tríplice pelo Tribunal, segundo os critérios de antigüidade e merecimento" (ADIs 1068-ES, 585-AM, 2013-PI e ADIMC 2208-DF, Néri da Silveira, DJ 08/03/02).
+13.     Ademais, esta Corte já teve oportunidade de apreciar a questão referente à substituição de membros de tribunais de Contas, observando-se o critério de origem, conforme se verifica da ementa do julgado proferido na ADI 2117-DF, DJ de 07/11/2003, de minha relatoria, verbis:
+"EMENTA. TRIBUNAL DE CONTAS DA UNIÃO. COMPOSIÇÃO. VINCULAÇÃO DE VAGAS. INTELIGÊNCIA E APLICAÇÃO DO ARTIGO 73, § 2°, INCISOS I E II DA CONSTITUIÇÃO FEDERAL. DEFERIMENTO
+CAUTELAR.
+1.      O Tribunal de Contas da União é composto por 9 Ministros, sendo dois terços escolhidos pelo Congresso Nacional e um terço pelo Presidente da República (CF, artigo 73, § 2°, incisos I e II).
+2.      O preenchimento de suas vagas obedece ao critério de origem de cada um dos Ministros, vinculando-se cada uma delas à respectiva categoria a que pertencem." Assim sendo, tenho por presentes a plausibilidade jurídica do pedido e
+a possibilidade de grave lesão à ordem pública, pelo comprometimento do modelo constitucional vigente, razão por que, ante essas circunstâncias, defiro a suspensão dos efeitos da liminar concedida nos autos do Mandado de Segurança 2004.001564-4 do Tribunal de Justiça do Estado da Paraíba.
+Comunique-se, com urgência.
+Intime-se.
+Brasília, 28 de abril de 2004.
+Ministro MAURÍCIO CORRÊA
+Presidente
