@@ -1,0 +1,1 @@
+Art. 64. É proibido o reaproveitamento e a utilização de vasilhame tradicionalmente usado para alimentos, bebidas, refrigerantes, produtos dietéticos, medicamentos, drogas, produtos químicos, de higiene, cosméticos e perfumes no envasilhamento de saneantes e congêneres.

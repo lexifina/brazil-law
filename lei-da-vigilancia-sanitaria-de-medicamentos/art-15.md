@@ -1,0 +1,1 @@
+Art. 15 - O registro dos produtos de que trata esta Lei será negado sempre que não atendidas as condições, as exigências e os procedimentos para tal fim previstos em Lei, regulamento ou instrução do órgão competente.

@@ -1,0 +1,2 @@
+Art. 9º - Independem de licença para funcionamento os estabelecimentos abrangidos por esta Lei integrantes da Administração Pública ou por ela instituídos, ficando sujeitos, porém às exigências pertinentes às instalações, aos equipamentos e à aparelhagem adequados e à assistência e responsabilidade técnicas.
+Parágrafo único. Para fins de controle sanitário, previsto na legislação em vigor, é obrigatória a comunicação, pelos órgãos referidos neste artigo, ao Ministério da Saúde, da existência ou instalação de estabelecimentos de que trata a presente Lei.

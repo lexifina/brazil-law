@@ -1,0 +1,1 @@
+Art. 42 - Aplica-se ao registro das preparações e substâncias raticidas o disposto nesta Lei, fixando-se em regulamento e em instruções do Ministério da Saúde as demais exigências específicas atinentes a essa classe de produtos.

@@ -1,0 +1,1 @@
+Art. 2º - Somente poderão extrair, produzir, fabricar, transformar, sintetizar, purificar, fracionar, embalar, reembalar, importar, exportar, armazenar ou expedir os produtos de que trata o Art. 1º as empresas para tal fim autorizadas pelo Ministério da Saúde e cujos estabelecimentos hajam sido licenciados pelo órgão sanitário das Unidades Federativas em que se localizem.

@@ -1,0 +1,1 @@
+Art. 76. Nenhuma matéria-prima ou nenhum produto semi-elaborado poderá ser empregado na fabricação de medicamento sem que haja sido verificado possuir qualidade aceitável, segundo provas que serão objeto de normas do Ministério da Saúde.

@@ -1,0 +1,1 @@
+Art. 56 - Independentemente de outras cominações legais, inclusive penais, de que sejam passíveis os responsáveis técnicos e administrativos, a empresa responderá administrativa e civilmente por infração sanitária resultante da inobservância desta Lei e de seus regulamentos e demais normas complementares.

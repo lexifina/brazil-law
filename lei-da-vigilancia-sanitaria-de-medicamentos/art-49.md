@@ -1,0 +1,3 @@
+Art. 49 - Para assegurar a eficiência dietética mínima necessária e evitar que sejam confundidos com os produtos terapêuticos, o teor dos componentes dos produtos dietéticos, que justifique sua indicação em dietas especiais, deverá obedecer aos padrões aceitos internacionalmente, conforme relações elaboradas pelo Ministério da Saúde.
+§ 1º - Não havendo padrão estabelecido para os fins deste artigo, a taxa de nutrimentos dos produtos dietéticos dependerá de pronunciamento do Ministério da Saúde.
+§ 2º - A proporção de vitaminas a adicionar aos produtos corresponderá aos padrões estabelecidos pelo Ministério da Saúde.

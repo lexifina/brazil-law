@@ -1,0 +1,2 @@
+Art. 66. A inobservância dos preceitos desta Lei, de seu regulamento e normas complementares configura infração de natureza sanitária, ficando sujeito o infrator ao processo e às penalidades previstos no Decreto-Lei número 785, de 25 de agosto de 1969, sem prejuízo das demais cominações civis e penais cabíveis.
+Parágrafo Único. O processo a que se refere este artigo poderá ser instaurado e julgado pelo Ministério da Saúde ou pelas autoridades sanitárias dos Estados, do Distrito Federal e dos Territórios, como couber.

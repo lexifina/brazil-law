@@ -1,0 +1,1 @@
+Art. 26 - Somente serão registrados como cosméticos produtos para higiene pessoal, perfumes e outros de natureza e finalidade semelhantes, os produtos que se destinem a uso externo ou no ambiente, consoante suas finalidades estética, protetora, higiênica ou odorífera, sem causar irritações à pele nem danos à saúde.

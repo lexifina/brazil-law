@@ -1,0 +1,2 @@
+Art. 6º - A comprovação de que determinado produto, até então considerado útil, é nocivo à saúde ou não preenche requisitos estabelecidos em lei implica na sua imediata retirada do comércio e na exigência da modificação da fórmula de sua composição e nos dizeres dos rótulos, das bulas e embalagens, sob pena de cancelamento do registro e da apreensão do produto, em todo o território nacional.
+Parágrafo único. É atribuição exclusiva do Ministério da Saúde o registro e a permissão do uso dos medicamentos, bem como a aprovação ou exigência de modificação dos seus componentes.

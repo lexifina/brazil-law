@@ -1,0 +1,1 @@
+Art. 82. Os serviços prestados pelo Ministério da Saúde, relacionados com esta Lei, serão retribuídos pelo regime de preços públicos, cabendo ao Ministro de Estado fixar os respectivos valores e disciplinar o seu recolhimento.

@@ -1,0 +1,4 @@
+Art. 60. É obrigatória a aprovação, pelo Ministério da Saúde, conforme se dispuser em regulamento, das embalagens, dos equipamentos e utensílios elaborados ou revestidos internamente com substâncias que, em contato com o produto, possam alterar seus efeitos ou produzir dano à saúde.
+§ 1º - Independerão de aprovação as embalagens destinadas ao acondicionamento de drogas, medicamentos, insumos farmacêuticos, produtos de higiene, cosméticos, perfumes e congêneres que não contenham internamente substância capaz de alterar as condições de pureza e eficácia do produto.
+§ 2º - Não será autorizado o emprego de embalagem destinada a conter ou acondicionar droga, medicamento ou insumo farmacêutico, desde que capaz de causar direta ou indiretamente efeitos nocivos à saúde.
+§ 3º - A aprovação do tipo de embalagem será precedida de análise prévia, quando for o caso.

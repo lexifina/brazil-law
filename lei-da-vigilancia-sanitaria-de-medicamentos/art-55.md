@@ -1,0 +1,1 @@
+Art. 55 - Embora venha a cessar a prestação de assistência ao estabelecimento, ou este deixe de funcionar, perdurará por um ano, a contar da cessação, a responsabilidade do profissional técnico pelos atos até então praticados.

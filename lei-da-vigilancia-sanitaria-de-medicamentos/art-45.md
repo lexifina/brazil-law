@@ -1,0 +1,1 @@
+Art. 45 - A venda dos raticidas e sua entrega ao consumo ficarão restritas, exclusivamente, aos produtos classificados como de baixa e média toxicidade, sendo privativo das empresas especializadas ou de órgãos e entidades da Administração Pública Direta e Indireta o fornecimento e controle da aplicação dos classificados como de alta toxicidade.

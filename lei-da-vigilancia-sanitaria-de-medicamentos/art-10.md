@@ -1,0 +1,2 @@
+Art. 10 - É vedada a importação de medicamentos, drogas, insumos farmacêuticos e demais produtos de que trata esta Lei, para fins industriais e comerciais, sem prévia e expressa manifestação favorável do Ministério da Saúde.
+Parágrafo único. Compreendem-se nas exigências deste artigo as aquisições ou doações que envolvam pessoas de direito público e privado, cuja quantidade e qualidade possam comprometer a execução de programas nacionais de saúde.
