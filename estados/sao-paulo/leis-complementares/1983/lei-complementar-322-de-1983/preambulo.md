@@ -1,0 +1,9 @@
+# LEI COMPLEMENTAR N° 322, DE 13 DE MAIO DE 1983
+Acrescenta parágrafo único ao artigo 274 da Lei n.° 10.261, de 28 de outubro de 1968.
+A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO decreta e eu, Néfi Tales, na qualidade de seu Presidente, promulgo, nos termos do § 4.° do artigo 26 da Constituição do Estado (Emenda Constitucional n.° 2, de 30 de outubro de 1969), a seguinte lei complementar:
+Artigo único - O artigo 274 da Lei n.° 10.261, de 28 de outubro de 1968, fica acrescido do seguinte dispositivo:
+"Parágrafo único - Denúncia anônima não poderá ser acolhida para efeito de instauração de sindicância."
+Assembléia Legislativa do Estado de São Paulo, aos 13 de maio de 1983.
+a) NÉFI TALES, Presidente
+Publicada na Secretaria da Assembléia Legislativa do Estado de São Paulo, aos 13 de maio de 1983.
+a) Januário Juliano Júnior, Diretor Geral
