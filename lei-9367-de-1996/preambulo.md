@@ -1,0 +1,2 @@
+Fixa critérios para a progressiva unificação das tabelas de vencimentos dos servidores, altera o Anexo II da Lei nº 8.237, de 30 de setembro de 1991, para implementação da isonomia a que se refere o § 1º do art. 39 da Constituição, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.474-29, de 1996, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
