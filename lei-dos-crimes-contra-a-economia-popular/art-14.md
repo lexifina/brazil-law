@@ -1,0 +1,1 @@
+Art. 14. A lista a que se refere o artigo anterior será semestralmente organizada pelo presidente do Júri, sob sua responsabilidade, entre pessoas de notória idoneidade, incluídos de preferência os chefes de família e as donas de casa.

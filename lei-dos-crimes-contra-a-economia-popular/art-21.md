@@ -1,0 +1,1 @@
+Art. 21. No Distrito Federal, poderá o juiz presidente do Júri representar ao Tribunal de Justiça para que seja substituído na presidência do Júri por Juiz substituto ou Juízes substitutos, nos têrmos do art. 20 da Lei nº 1.301, de w28 de dezembro de 1950. Servirá no Júri o Promotor Público que fôr designado.
