@@ -1,0 +1,1 @@
+Art. 5º - O Ministro de Estado da Fazenda fica autorizado a realizar as operações de crédito que se tornarem necessárias por antecipação da Receita até dois bilhões e quinhentos milhões de cruzeiros (2.500.000.000,00).
