@@ -1,0 +1,1 @@
+Art. 12. A sentença incluirá sempre, na condenação dos réus, o pagamento, ao autor, das custas e demais despesas, judiciais e extrajudiciais, diretamente relacionadas com a ação e comprovadas, bem como o dos honorários de advogado.

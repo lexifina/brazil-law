@@ -1,0 +1,1 @@
+Art. 15. Se, no curso da ação, ficar provada a infringência da lei penal ou a prática de falta disciplinar a que a lei comine a pena de demissão ou a de rescisão de contrato de trabalho, o juiz, "ex-officio", determinará a remessa de cópia autenticada das peças necessárias às autoridades ou aos administradores a quem competir aplicar a sanção.
