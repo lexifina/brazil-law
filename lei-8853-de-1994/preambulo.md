@@ -1,0 +1,2 @@
+Atribui competência ao Ministro de Estado da Saúde para praticar atos ad referendum da Junta Deliberativa do Fundo Nacional de Saúde.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 410, de 1994, que o Congresso Nacional aprovou, e eu HUMBERTO LUCENA, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
