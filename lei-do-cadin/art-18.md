@@ -8,6 +8,7 @@ VI - à sobretarifa ao Fundo Nacional de Telecomunicações;
 VII - ao adicional de tarifa portuária, salvo em se tratando de operações de importação e exportação de mercadorias quando objeto de comércio de navegação de longo curso;
 VIII - à parcela da contribuição ao Programa de Integração Social exigida na forma do Decreto-Lei nº 2.445, de 29 de junho de 1988, e do Decreto-Lei nº 2.449, de 21 de julho de 1988, na parte que exceda o valor devido com fulcro na Lei Complementar nº 7, de 7 de setembro de 1970, e alterações posteriores;
 IX - à contribuição para o financiamento da seguridade social - Cofins, nos termos do art. 7º da Lei Complementar nº 70, de 30 de dezembro de 1991, com a redação dada pelo art. 1º da Lei Complementar nº 85, de 15 de fevereiro de 1996.
+X - à Cota de Contribuição revigorada pelo art. 2º do Decreto-Lei nº 2.295, de 21 de novembro de 1986.
 § 1º Ficam cancelados os débitos inscritos em Dívida Ativa da União, de valor consolidado igual ou inferior a R$ 100,00 (cem reais).
 § 2º Os autos das execuções fiscais dos débitos de que trata este artigo serão arquivados mediante despacho do juiz, ciente o Procurador da Fazenda Nacional, salvo a existência de valor remanescente relativo a débitos legalmente exigíveis.
 § 3º O disposto neste artigo não implicará restituição ex officio de quantia paga.

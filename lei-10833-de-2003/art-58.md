@@ -1,5 +1,7 @@
 Art. 58. As pessoas jurídicas referidas no art. 52 poderão, para fins de determinação do valor devido da contribuição para o PIS/PASEP e da COFINS apuradas segundo as normas ali referidas, creditar-se, em relação à:
 I - contribuição para o PIS/PASEP, do saldo dos créditos apurados de conformidade com a Lei nº 10.637, de 30 de dezembro de 2002, não aproveitados pela modalidade de tributação não-cumulativa;
 II - COFINS, do valor equivalente a 3% (três por cento) do valor de aquisição do estoque de abertura de matérias-primas e materiais de embalagem, relacionados no Anexo Único, existente no primeiro dia de vigência do regime de apuração estabelecido no art. 52 desta Lei.
-§ 1º As pessoas jurídicas referidas no art. 51 também poderão, a partir da data em que submetidas às normas de apuração ali referidas, creditar-se do saldo dos créditos referidos no inciso I deste artigo.
+§ 1º As pessoas jurídicas referidas no art. 51 desta Lei poderão, a partir da data em que submetidas às normas de apuração ali referidas, creditar-se, em relação à:
+I - Contribuição para o PIS/Pasep, do saldo dos créditos apurados de conformidade com a Lei nº 10.637, de 30 de dezembro de 2002, não aproveitados pela modalidade de tributação não cumulativa; e
+II - Cofins, do saldo dos créditos apurados de conformidade com esta Lei, não aproveitados pela modalidade de tributação não cumulativa.
 § 2º O estoque referido no inciso II compreenderá também os materiais empregados em produtos em elaboração e em produtos finais, existentes em estoque na data do levantamento.

@@ -5,3 +5,4 @@ Art. 40. A incidência da contribuição para o PIS/PASEP e da COFINS ficará su
 § 4º Para os fins do disposto neste artigo, as empresas adquirentes deverão:
 I - atender aos termos e às condições estabelecidos pela Secretaria da Receita Federal; e
 II - declarar ao vendedor, de forma expressa e sob as penas da lei, que atende a todos os requisitos estabelecidos.
+§ 5º A pessoa jurídica que, após adquirir matérias-primas, produtos intermediários e materiais de embalagem com o benefício da suspensão de que trata este artigo, der-lhes destinação diversa de exportação, fica obrigada a recolher as contribuições não pagas pelo fornecedor, acrescidas de juros e multa de mora, ou de ofício, conforme o caso, contados a partir da data da aquisição.
