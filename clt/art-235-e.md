@@ -1,0 +1,1 @@
+§ 11. Nos casos em que o motorista tenha que acompanhar o veículo transportado por qualquer meio onde ele siga embarcado, e que a embarcação disponha de alojamento para gozo do intervalo de repouso diário previsto no § 3º do art. 235-C, esse tempo não será considerado como jornada de trabalho, a não ser o tempo restante, que será considerado de espera.
