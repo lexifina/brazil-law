@@ -1,0 +1,1 @@
+Art. 42. Revogam-se as disposições em contrário e, especialmente, o Decreto-Lei nº 1.380, de 23 de dezembro de 1974, o art. 27 da Lei nº 7.713, de 22 de dezembro de 1988, o art. 26 da Lei nº 8.218, de 29 de agosto de 1991, e os arts. 8º a 20 e 23 da Lei nº 8.981, de 20 de janeiro de 1995.

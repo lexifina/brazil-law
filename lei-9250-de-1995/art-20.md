@@ -1,0 +1,4 @@
+Art. 20. O resultado decorrente da atividade rural, exercida no Brasil por residente ou domiciliado no exterior, apurado por ocasião do encerramento do ano-calendário, constituirá a base de cálculo do imposto e será tributado à alíquota de quinze por cento.
+§ 1º Na hipótese de que trata este artigo, a apuração do resultado deverá ser feita por procurador, a quem compete reter e recolher o imposto devido, não sendo permitidas a opção pelo arbitramento de vinte por cento da receita bruta e a compensação de prejuízos apurados.
+§ 2º O imposto apurado deverá ser pago na data da ocorrência do fato gerador.
+§ 3º Ocorrendo remessa de lucros antes do encerramento do ano-calendário, o imposto deverá ser recolhido no ato sobre o valor remetido por ocasião do evento, exceto no caso de devolução de capital.

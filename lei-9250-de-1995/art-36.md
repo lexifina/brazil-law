@@ -1,0 +1,1 @@
+Art. 36. O contribuinte que no ano-calendário de 1995 tiver auferido rendimentos tributáveis até o limite de R$ 21.458,00 (vinte e um mil, quatrocentos e cinqüenta e oito reais) poderá optar pelo regime de tributação simplificada de que trata o art. 10.
