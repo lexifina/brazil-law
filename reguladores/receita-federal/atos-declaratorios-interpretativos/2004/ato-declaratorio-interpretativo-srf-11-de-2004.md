@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo SRF nº 11, de 31 de março de 2004
+Dispõe sobre o aproveitamento do Certificado de Origem para fins de comprovação da origem de mercadorias beneficiadas com preferência tarifária.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o que consta no Processo nº 11080.011921/2001-61, declara:
+Art. 1º O Certificado de Origem é documento que somente pode ser aproveitado, para fins de comprovação da origem de mercadorias que se beneficiam de preferência tarifária, quando a mercadoria for originária e procedente do País exportador com o qual o Brasil tenha celebrado acordo comercial internacional, não podendo ser utilizado quando da importação de mercadoria de origem brasileira que tenha sido exportada a título definitivo.
+Art. 2º O atual ordenamento jurídico brasileiro não prevê a livre circulação de mercadorias, importadas de terceiros países, no âmbito do Mercosul.
