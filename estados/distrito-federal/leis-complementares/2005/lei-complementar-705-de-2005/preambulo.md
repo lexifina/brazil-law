@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 705, DE 18 DE JANEIRO DE 2005
+(Autoria do Projeto: Poder Executivo)
+Altera a Lei Complementar nº 689, de 29 de dezembro de 2003, e dá outras providências.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
