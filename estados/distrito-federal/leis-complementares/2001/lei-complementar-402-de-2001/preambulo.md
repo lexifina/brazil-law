@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 402, DE 17 DE OUTUBRO DE 2001
+(Autoria do Projeto: Vários Deputados)
+Autoriza o Poder Executivo a proceder estudos para a identificação de interesse publico visando alterar Plano Diretor de Ceilândia.
+O PRESIDENTE DA CÂMARA LEGISLATIVA DO DISTRITO FEDERAL,NO EXERCÍCIO DO CARGO DO GOVERNADOR DO DISTRITO FEDERAL,FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
