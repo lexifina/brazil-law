@@ -7,7 +7,7 @@ III - as sociedades e os agentes autônomos que exerçam atividades de mediaçã
 IV - as bolsas de valores.
 V - entidades de mercado de balcão organizado.
 VI - as entidades de compensação e liquidação de operações com valores mobiliários.
-§ 1º - Compete ao Conselho Monetário Nacional definir:
+§ 1º Compete à Comissão de Valores Mobiliários definir:
 I - os tipos de instituição financeira que poderão exercer atividades no mercado de valores mobiliários, bem como as espécies de operação que poderão realizar e de serviços que poderão prestar nesse mercado;
 II - a especialização de operações ou serviços a ser observada pelas sociedades do mercado, e as condições em que poderão cumular espécies de operação ou serviços.
 § 2º - Em relação às instituições financeiras e demais sociedades autorizadas a explorar simultaneamente operações ou serviços no mercado de valores mobiliários e nos mercados sujeitos à fiscalização do Banco Central do Brasil, as atribuições da Comissão de Valores Mobiliários serão limitadas às atividades submetidas ao regime da presente Lei, e serão exercidas sem prejuízo das atribuições daquele.
