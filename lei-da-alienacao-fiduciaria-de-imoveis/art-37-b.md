@@ -1,0 +1,1 @@
+Art. 37-B. Será considerada ineficaz, e sem qualquer efeito perante o fiduciário ou seus sucessores, a contratação ou a prorrogação de locação de imóvel alienado fiduciariamente por prazo superior a um ano sem concordância por escrito do fiduciário.
