@@ -1,0 +1,1 @@
+Art. 39. A propriedade urbana cumpre sua função social quando atende às exigências fundamentais de ordenação da cidade expressas no plano diretor, assegurando o atendimento das necessidades dos cidadãos quanto à qualidade de vida, à justiça social e ao desenvolvimento das atividades econômicas, respeitadas as diretrizes previstas no art. 2º desta Lei.

@@ -1,0 +1,1 @@
+Art. 36. Lei municipal definirá os empreendimentos e atividades privados ou públicos em área urbana que dependerão de elaboração de estudo prévio de impacto de vizinhança (EIV) para obter as licenças ou autorizações de construção, ampliação ou funcionamento a cargo do Poder Público municipal.

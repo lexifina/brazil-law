@@ -1,0 +1,3 @@
+Art. 34. A lei específica que aprovar a operação urbana consorciada poderá prever a emissão pelo Município de quantidade determinada de certificados de potencial adicional de construção, que serão alienados em leilão ou utilizados diretamente no pagamento das obras necessárias à própria operação.
+§ 1º Os certificados de potencial adicional de construção serão livremente negociados, mas conversíveis em direito de construir unicamente na área objeto da operação.
+§ 2º Apresentado pedido de licença para construir, o certificado de potencial adicional será utilizado no pagamento da área de construção que supere os padrões estabelecidos pela legislação de uso e ocupação do solo, até o limite fixado pela lei específica que aprovar a operação urbana consorciada.
