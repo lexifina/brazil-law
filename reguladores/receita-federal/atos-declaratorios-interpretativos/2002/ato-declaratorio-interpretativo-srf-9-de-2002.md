@@ -1,0 +1,6 @@
+Ato Declaratório Interpretativo SRF nº 9, de 20 de agosto de 2002
+Dispõe sobre a Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - CPMF.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o Parecer PGFN/CAT/Nº 2682/2002, declara:
+Artigo único. A não-incidência da Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira (CPMF) a que se refere o art. 85 do Ato das Disposições Constitucionais Transitórias, introduzido pela Emenda Constitucional nº 37, de 12 de junho de 2002:
+I - alcança as remessas para o exterior de recursos financeiros de investidores estrangeiros, ingressados no Brasil antes de 13 de julho de 2002, desde que, comprovadamente, hajam sido empregados, exclusivamente e por todo o tempo de permanência no País, em operações e contratos referidos no inciso II do referido artigo 85, observado a exigência constante de seu § 3º;
+II - não se aplica à hipótese de pagamento ou crédito, inclusive a investidor estrangeiro, relativo a dividendos ou juros remuneratórios sobre o capital próprio.
