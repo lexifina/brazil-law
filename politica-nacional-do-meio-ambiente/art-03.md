@@ -8,4 +8,4 @@ c) afetem desfavoravelmente a biota;
 d) afetem as condições estéticas ou sanitárias do meio ambiente;
 e) lancem matérias ou energia em desacordo com os padrões ambientais estabelecidos;
 IV - poluidor, a pessoa física ou jurídica, de direito público ou privado, responsável, direta ou indiretamente, por atividade causadora de degradação ambiental;
-V - recursos ambientais, a atmosfera, as águas interiores, superficiais e subterrâneas, os estuários, o mar territorial, o solo, o subsolo e os elementos da biosfera.
+V - recursos ambientais: a atmosfera, as águas interiores, superficiais e subterrâneas, os estuários, o mar territorial, o solo, o subsolo, os elementos da biosfera, a fauna e a flora.

@@ -1,3 +1,8 @@
-Art. 15 - É da competência exclusiva do Presidente da República, a suspensão prevista no inciso IV do artigo anterior por prazo superior a 30 (trinta) dias.
-§ 1º - O Ministro de Estado do Interior, mediante proposta do Secretário do Meio Ambiente e/ou por provocação dos governos locais, poderá suspender as atividades referidas neste artigo por prazo não excedente a 30 (trinta) dias.
-§ 2º - Da decisão proferida com base no parágrafo anterior caberá recurso, com efeito suspensivo, no prazo de 5 (cinco) dias, para o Presidente da República
+Art. 15. O poluidor que expuser a perigo a incolumidade humana, animal ou vegetal, ou estiver tornando mais grave situação de perigo existente, fica sujeito à pena de reclusão de 1 (um) a 3 (três) anos e multa de 100 (cem) a 1.000 (mil) MVR.
+§ 1º A pena e aumentada até o dobro se:
+I - resultar:
+a) dano irreversível à fauna, à flora e ao meio ambiente;
+b) lesão corporal grave;
+II - a poluição é decorrente de atividade industrial ou de transporte;
+III - o crime é praticado durante a noite, em domingo ou em feriado.
+§ 2º Incorre no mesmo crime a autoridade competente que deixar de promover as medidas tendentes a impedir a prática das condutas acima descritas.

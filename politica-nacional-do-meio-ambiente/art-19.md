@@ -1,1 +1,1 @@
-Art. 19 - (VETADO).
+Art. 19. Ressalvado o disposto nas Leis nºs 5.357, de 17 de novembro de 1967, e 7.661, de 16 de maio de 1988, a receita proveniente da aplicação desta Lei será recolhida de acordo com o disposto no art. 4º da Lei nº 7.735, de 22 de fevereiro de 1989.)
