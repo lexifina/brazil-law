@@ -1,0 +1,2 @@
+Art. 62-A. Fica transformada em Vantagem Pessoal Nominalmente Identificada - VPNI a incorporação da retribuição pelo exercício de função de direção, chefia ou assessoramento, cargo de provimento em comissão ou de Natureza Especial a que se referem os arts. 3º e 10 da Lei nº 8.911, de 11 de julho de 1994, e o art. 3º da Lei nº 9.624, de 2 de abril de 1998.
+Parágrafo único. A VPNI de que trata o caput deste artigo somente estará sujeita às revisões gerais de remuneração dos servidores públicos federais.
