@@ -1,0 +1,1 @@
+Art. 7º As disposições constantes desta lei serão adotadas pelos Estados, pelo Distrito Federal e pelos Municípios, no que couber, como normas gerais de direito financeiro, velando pela sua observância os órgãos a que se refere o art. 75 da Constituição Federal.

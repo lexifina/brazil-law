@@ -1,0 +1,1 @@
+Art. 6º Os atuais ocupantes de cargos, empregos ou funções mencionados no art. 1º, e obedecido o disposto no art. 2º, prestarão a respectiva declaração de bens e rendas, bem como remeterão cópia ao Tribunal de Contas da União, no prazo e condições por este fixados.
