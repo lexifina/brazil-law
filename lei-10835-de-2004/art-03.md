@@ -1,0 +1,1 @@
+Art. 3º O Poder Executivo consignará, no Orçamento-Geral da União para o exercício financeiro de 2005, dotação orçamentária suficiente para implementar a primeira etapa do projeto, observado o disposto no art. 2º desta Lei.

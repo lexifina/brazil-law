@@ -1,0 +1,1 @@
+Art. 4º A partir do exercício financeiro de 2005, os projetos de lei relativos aos planos plurianuais e às diretrizes orçamentárias deverão especificar os cancelamentos e as transferências de despesas, bem como outras medidas julgadas necessárias à execução do Programa.
