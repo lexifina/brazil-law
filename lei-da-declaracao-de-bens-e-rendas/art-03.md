@@ -1,0 +1,4 @@
+Art. 3º A não apresentação da declaração a que se refere o art. 1º, por ocasião da posse, implicará a não realização daquele ato, ou sua nulidade, se celebrado sem esse requisito essencial.
+Parágrafo único. Nas demais hipóteses, a não apresentação da declaração, a falta e atraso de remessa de sua cópia ao Tribunal de Contas da União ou a declaração dolosamente inexata implicarão, conforme o caso:
+a) crime de responsabilidade, para o Presidente e o Vice-Presidente da República, os Ministros de Estado e demais autoridades previstas em lei especial, observadas suas disposições; ou
+b) infração político-administrativa, crime funcional ou falta grave disciplinar, passível de perda do mandato, demissão do cargo, exoneração do emprego ou destituição da função, além da inabilitação, até cinco anos, para o exercício de novo mandato e de qualquer cargo, emprego ou função pública, observada a legislação específica.
