@@ -1,1 +1,1 @@
-Art. 17-F. A TFA, sob a administração do Ibama, deverá ser paga, anualmente, até o dia 31 de março, por todos os sujeitos passivos citados no § 2º do art. 17-B desta Lei.
+Art. 17-F. São isentas do pagamento da TCFA as entidades públicas federais, distritais, estaduais e municipais, as entidades filantrópicas, aqueles que praticam agricultura de subsistência e as populações tradicionais.

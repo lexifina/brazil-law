@@ -1,3 +1,3 @@
-Art. 17-B. É criada a Taxa de Fiscalização Ambiental - TFA.
-§ 1º Constitui fato gerador da TFA, o exercício das atividades mencionadas no inciso II do art. 17 desta Lei, com a redação dada pela Lei nº 7.804, de 18 de julho de 1989
-§ 2º São sujeitos passivos da TFA, as pessoas físicas ou jurídicas obrigadas ao registro no Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais.
+Art. 17-B. Fica instituída a Taxa de Controle e Fiscalização Ambiental - TCFA, cujo fato gerador é o exercício regular do poder de polícia conferido ao Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama para controle e fiscalização das atividades potencialmente poluidoras e utilizadoras de recursos naturais.
+§ 1º Revogado.
+§ 2º Revogado.
