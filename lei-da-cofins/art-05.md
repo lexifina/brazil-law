@@ -1,0 +1,1 @@
+Art. 5º A contribuição será convertida, no primeiro dia do mês subseqüente ao de ocorrência do fato gerador, pela medida de valor e parâmetro de atualização monetária diária utilizada para os tributos federais, e paga até o dia vinte do mesmo mês.
