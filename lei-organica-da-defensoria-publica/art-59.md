@@ -1,0 +1,1 @@
+Art. 59. A Corregedoria-Geral da Defensoria Pública do Distrito Federal e dos Territórios é órgão de fiscalização da atividade funcional e da conduta dos membros e dos servidores da Defensoria Pública do Distrito Federal e dos Territórios.
