@@ -1,0 +1,6 @@
+Art. 52. O locador não estará obrigado a renovar o contrato se:
+I - por determinação do Poder Público, tiver que realizar no imóvel obras que importarem na sua radical transformação; ou para fazer modificações de tal natureza que aumente o valor do negócio ou da propriedade;
+II - o imóvel vier a ser utilizado por ele próprio ou para transferência de fundo de comércio existente há mais de um ano, sendo detentor da maioria do capital o locador, seu cônjuge, ascendente ou descendente.
+§ 1º Na hipótese do inciso II, o imóvel não poderá ser destinado ao uso do mesmo ramo do locatário, salvo se a locação também envolvia o fundo de comércio, com as instalações e pertences.
+§ 2º Nas locações de espaço em shopping centers, o locador não poderá recusar a renovação do contrato com fundamento no inciso II deste artigo.
+§ 3º O locatário terá direito a indenização para ressarcimento dos prejuízos e dos lucros cessantes que tiver que arcar com mudança, perda do lugar e desvalorização do fundo de comércio, se a renovação não ocorrer em razão de proposta de terceiro, em melhores condições, ou se o locador, no prazo de três meses da entrega do imóvel, não der o destino alegado ou não iniciar as obras determinadas pelo Poder Público ou que declarou pretender realizar.

@@ -1,0 +1,1 @@
+Art. 77. Todas as locações residenciais que tenham sido celebradas anteriormente à vigência desta lei serão automaticamente prorrogadas por tempo indeterminado, ao término do prazo ajustado no contrato.

@@ -1,0 +1,1 @@
+Art. 45. São nulas de pleno direito as cláusulas do contrato de locação que visem a elidir os objetivos da presente lei, notadamente as que proíbam a prorrogação prevista no art. 47, ou que afastem o direito à renovação, na hipótese do art. 51, ou que imponham obrigações pecuniárias para tanto.
