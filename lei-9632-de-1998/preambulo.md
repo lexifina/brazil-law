@@ -1,0 +1,2 @@
+Dispõe sobre a extinção de cargos no âmbito da Administração Pública Federal direta, autárquica e fundacional, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.606-20, de 1998, que o CONGRESSO NACIONAL aprovou, e eu, ANTONIO CARLOS MAGALHÃES, PRESIDENTE, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
