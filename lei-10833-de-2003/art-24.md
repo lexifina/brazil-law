@@ -1,0 +1,1 @@
+Art. 24. O disposto no § 2º, incisos I e II, do art. 14 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, não se aplica às vendas enquadradas nas hipóteses previstas nos incisos IV, VI, VIII e IX de seu caput.

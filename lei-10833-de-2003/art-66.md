@@ -1,0 +1,1 @@
+Art. 66. As diferenças percentuais de mercadoria a granel, apuradas em conferência física nos despachos aduaneiros, não serão consideradas para efeitos de exigência dos impostos incidentes, até o limite de 1% (um por cento), conforme dispuser o Poder Executivo.
