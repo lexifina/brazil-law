@@ -1,0 +1,5 @@
+Art. 17. A ANA poderá requisitar, com ônus, servidores de órgãos e entidades integrantes da administração pública federal direta, autárquica e fundacional, quaisquer que sejam as atribuições a serem exercidas.
+§ 1º As requisições para exercício na ANA, sem cargo em comissão ou função de confiança, ficam autorizadas pelo prazo máximo de vinte e quatro meses, contado da instalação da autarquia.
+§ 2º Transcorrido o prazo a que se refere o § 1º, somente serão cedidos para a ANA servidores por ela requisitados para o exercício de cargos em comissão.
+§ 3º Durante os primeiros trinta e seis meses subseqüentes à instalação da ANA, as requisições de que trata o caput deste artigo, com a prévia manifestação dos Ministros de Estado do Meio Ambiente e do Planejamento, Orçamento e Gestão, serão irrecusáveis e de pronto atendimento.
+§ 4º Quando a cessão implicar redução da remuneração do servidor requisitado, fica a ANA autorizada a complementá-la até atingir o valor percebido no Órgão ou na entidade de origem.

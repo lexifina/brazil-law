@@ -1,0 +1,1 @@
+Art. 1º Esta Lei cria a Agência Nacional de Águas - ANA, entidade federal de implementação da Política Nacional de Recursos Hídricos, integrante do Sistema Nacional de Gerenciamento de Recursos Hídricos, estabelecendo regras para a sua atuação, sua estrutura administrativa e suas fontes de recursos.

@@ -1,0 +1,2 @@
+Art. 3º Fica criada a Agência Nacional de Águas - ANA, autarquia sob regime especial, com autonomia administrativa e financeira, vinculada ao Ministério do Meio Ambiente, com a finalidade de implementar, em sua esfera de atribuições, a Política Nacional de Recursos Hídricos, integrando o Sistema Nacional de Gerenciamento de Recursos Hídricos.
+Parágrafo único. A ANA terá sede e foro no Distrito Federal, podendo instalar unidades administrativas regionais.

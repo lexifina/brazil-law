@@ -1,0 +1,4 @@
+Art. 10. A exoneração imotivada de dirigentes da ANA só poderá ocorrer nos quatro meses iniciais dos respectivos mandatos.
+§ 1º Após o prazo a que se refere o caput, os dirigentes da ANA somente perderão o mandato em decorrência de renúncia, de condenação judicial transitada em julgado, ou de decisão definitiva em processo administrativo disciplinar.
+§ 2º Sem prejuízo do que prevêem as legislações penal e relativa à punição de atos de improbidade administrativa no serviço público, será causa da perda do mandato a inobservância, por qualquer um dos dirigentes da ANA, dos deveres e proibições inerentes ao cargo que ocupa.
+§ 3º Para os fins do disposto no § 2º, cabe ao Ministro de Estado do Meio Ambiente instaurar o processo administrativo disciplinar, que será conduzido por comissão especial, competindo ao Presidente da República determinar o afastamento preventivo, quando for o caso, e proferir o julgamento.

@@ -1,0 +1,1 @@
+Art. 24. A Consultoria Jurídica do Ministério do Meio Ambiente e a Advocacia-Geral da União prestarão à ANA, no âmbito de suas competências, a assistência jurídica necessária, até que seja provido o cargo de Procurador da autarquia.
