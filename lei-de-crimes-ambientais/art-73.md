@@ -1,0 +1,1 @@
+Art. 73. Os valores arrecadados em pagamento de multas por infração ambiental serão revertidos ao Fundo Nacional do Meio Ambiente, criado pela Lei nº 7.797, de 10 de julho de 1989, Fundo Naval, criado pelo Decreto nº 20.923, de 8 de janeiro de 1932, fundos estaduais ou municipais de meio ambiente, ou correlatos, conforme dispuser o órgão arrecadador.
