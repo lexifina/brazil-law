@@ -1,0 +1,25 @@
+# Decreto-Lei nº 5.943, de 28/10/1943
+
+DECRETO-LEI NDECRETO-LEI Nnormandomiriam4102002-01-25T15:04:00Z2002-01-30T15:29:00Z100POLICENTRO-CONSULPREV0000.0000
+
+DECRETO‑LEI N. 5.943 – DE 28 DE OUTUBRO DE 1943
+
+Abre ao Ministério da justiça e Negócios Interiores o crédito especial de Cr$ 80.000,00, para despesas com representação à II Grande Exposição de Curitiba.
+
+O Presidente da República, usando da atribuição que lho confere o art. 180 da Constituição,
+
+decreta:
+
+Art. 1º Fica aberto ao Ministério da Justiça e Negócios Interiores o crédito especial de oitenta mil cruzeiros (Cr$ 80.000,00), para atender às despesas (Serviços e Encargos) decorrentes do comparecimento de uma representação do mesmo Ministério à II Grande Exposição de Curitiba, a realizar‑se no mês de novembro do corrente ano.
+
+Art. 2º Êste decreto‑lei entra em vigor na data da sua publicação.
+
+Art. 3º Revogam‑se as disposições em contrário.
+
+Rio de Janeiro, 28 de outubro de 1943, 122º da Independência e 55º da República.
+
+GETúLIO VARGAS.
+
+Alexandre Marcondes Filho.
+
+A. de Sousa Costa.
