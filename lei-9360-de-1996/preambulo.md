@@ -1,0 +1,2 @@
+Dá nova redação ao parágrafo único do art. 1º da Lei nº 8.995, de 24 de fevereiro de 1995, que autoriza o Ministério dos Transportes, por intermédio da Companhia Brasileira de Trens Urbanos - CBTU, a transferir à Companhia Fluminense de Trens Urbanos - FLUMITRENS, recursos para pagamento de pessoal.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.468-13, de 1996, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
