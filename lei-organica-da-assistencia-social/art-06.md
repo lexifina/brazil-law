@@ -1,0 +1,2 @@
+Art. 6º As ações na área de assistência social são organizadas em sistema descentralizado e participativo, constituído pelas entidades e organizações de assistência social abrangidas por esta lei, que articule meios, esforços e recursos, e por um conjunto de instâncias deliberativas compostas pelos diversos setores envolvidos na área.
+Parágrafo único. A instância coordenadora da Política Nacional de Assistência Social é o Ministério do Bem-Estar Social.

@@ -1,0 +1,2 @@
+Art. 23. Entendem-se por serviços assistenciais as atividades continuadas que visem à melhoria de vida da população e cujas ações, voltadas para as necessidades básicas, observem os objetivos, princípios e diretrizes estabelecidas nesta lei.
+Parágrafo único. Na organização dos serviços será dada prioridade à infância e à adolescência em situação de risco pessoal e social, objetivando cumprir o disposto no art. 227 da Constituição Federal e na Lei nº 8.069, de 13 de julho de 1990.
