@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 388, de 28 de janeiro de 2004
+Dispõe sobre opção por regime especial de apuração e pagamento das contribuições para o PIS/PASEP e da COFINS de que trata o art. 52 da Lei nº 10.833, de 2003 incidentes sobre preparações compostas para bebidas não alcoólicas, refrigerantes e cervejas.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art 52 da Lei nº 10.833, de 29 de dezembro de 2003, resolve:
