@@ -1,0 +1,1 @@
+Artigo 2º - Os cargos e as funções-atividades de Agente de Praça de Pedágio, Agente de Praça de Pesagem e Técnico de Equipamento Rodoviário poderão ser providos ou preenchidas mediante nomeação ou admissão durante o prazo de 1 (um) ano, contado da data da publicação desta lei complementar.
