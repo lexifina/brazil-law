@@ -1,0 +1,1 @@
+Art. 1º Os direitos e a proteção das pessoas acometidas de transtorno mental, de que trata esta Lei, são assegurados sem qualquer forma de discriminação quanto à raça, cor, sexo, orientação sexual, religião, opção política, nacionalidade, idade, família, recursos econômicos e ao grau de gravidade ou tempo de evolução de seu transtorno, ou qualquer outra.
