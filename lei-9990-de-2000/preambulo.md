@@ -1,0 +1,2 @@
+Prorroga o período de transição previsto na Lei nº 9.478, de 6 de agosto de 1997, que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo, e dá outras providências, e altera dispositivos da Lei nº 9.718, de 27 de novembro de 1998, que altera a legislação tributária federal.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
