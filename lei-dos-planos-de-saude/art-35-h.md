@@ -1,0 +1,1 @@
+Art. 35-H. Os expedientes que até esta data foram protocolizados na SUSEP pelas operadoras de produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei e que forem encaminhados à ANS em conseqüência desta Lei, deverão estar acompanhados de parecer conclusivo daquela Autarquia.
