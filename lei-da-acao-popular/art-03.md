@@ -1,0 +1,1 @@
+Art. 3º Os atos lesivos ao patrimônio das pessoas de direito público ou privado, ou das entidades mencionadas no art. 1º, cujos vícios não se compreendam nas especificações do artigo anterior, serão anuláveis, segundo as prescrições legais, enquanto compatíveis com a natureza deles.

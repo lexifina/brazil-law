@@ -1,0 +1,2 @@
+Art. 8º Ficará sujeita à pena de desobediência, salvo motivo justo devidamente comprovado, a autoridade, o administrador ou o dirigente, que deixar de fornecer, no prazo fixado no art. 1º, § 5º, ou naquele que tiver sido estipulado pelo juiz (art. 7º, n. I, letra "b"), informações e certidão ou fotocópia de documento necessários à instrução da causa.
+Parágrafo único. O prazo contar-se-á do dia em que entregue, sob recibo, o requerimento do interessado ou o ofício de requisição (art. 1º, § 5º, e art. 7º, n. I, letra "b").
