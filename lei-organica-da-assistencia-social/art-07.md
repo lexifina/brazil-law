@@ -1,0 +1,1 @@
+Art. 7º As ações de assistência social, no âmbito das entidades e organizações de assistência social, observarão as normas expedidas pelo Conselho Nacional de Assistência Social (CNAS), de que trata o art. 17 desta lei.
