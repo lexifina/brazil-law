@@ -1,0 +1,2 @@
+Art. 12. A Corregedoria-Geral da Defensoria Pública da União é exercida pelo Corregedor-Geral, indicado dentre os integrantes da classe mais elevada da carreira pelo Conselho Superior e nomeado pelo Presidente da República para mandato de dois anos.
+Parágrafo único. O Corregedor-Geral poderá ser destituído, antes do término do mandato, por proposta do Defensor Público-Geral, pelo voto de dois terços dos membros do Conselho Superior, assegurada ampla defesa.
