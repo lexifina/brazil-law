@@ -1,0 +1,46 @@
+DECISÃO
+IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS -
+   SOCIEDADE CIVIL - IMPORTAÇÃO DE BENS - PERÍODO ANTERIOR À EMENDA
+   CONSTITUCIONAL Nº 33/2001 - PRECEDENTE DO PLENÁRIO - RECURSO
+   EXTRAORDINÁRIO - NEGATIVA DE SEGUIMENTO.
+1.      Discute-se, na
+   espécie, a incidência do Imposto sobre Circulação de Mercadorias
+   e Serviços - ICMS na importação de bem por sociedade civil,
+   não-contribuinte do imposto.
+2.      Em sessão de 3 de março de
+   2000, o Plenário, considerado período anterior à Emenda
+   Constitucional nº 33/2001, concluiu o julgamento do Recurso
+   Extraordinário nº 185.789/SP, relator o ministro Ilmar Galvão.
+   Eis o teor da ementa:
+RECURSO EXTRAORDINÁRIO.
+   CONSTITUCIONAL. TRIBUTÁRIO.  IMPORTAÇÃO DE BEM POR SOCIEDADE
+   CIVIL PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS. EXIGÊNCIA DE PAGAMENTO
+   DO ICMS POR OCASIÃO DO DESEMBARAÇO ADUANEIRO.
+   IMPOSSIBILIDADE.
+1. A incidência do ICMS na importação de
+   mercadoria tem como fato gerador operação de natureza mercantil
+   ou assemelhada, sendo inexigível o imposto quando se tratar de
+   bem importado por pessoa física.
+2. Princípio da
+   não-cumulatividade do ICMS. Importação de aparelho de mamografia
+   por sociedade civil, não contribuinte do tributo. Impossibilidade
+   de se compensar o que devido em cada operação com o montante
+   cobrado nas anteriores pelo mesmo ou outro Estado ou pelo
+   Distrito Federal. Inexistência de circulação de mercadoria. Não
+   ocorrência da hipótese de incidência do ICMS.
+Recurso
+   extraordinário não conhecido.
+        O acórdão recorrido está em
+   harmonia com a interpretação desta Corte.
+        Ressalto que o
+   debate em torno da natureza do negócio jurídico realizado pela
+   empresa importadora - a revelar hipótese de compra e venda ou de
+   arrendamento mercantil - não tem relevância para o deslinde da
+   questão.
+3.      Nego seguimento ao
+   extraordinário.
+4.      Publique-se.
+Brasília, 15 de setembro de
+   2004.
+Ministro MARCO AURÉLIO
+Relator
