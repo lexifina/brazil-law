@@ -1,0 +1,2 @@
+Art. 37. A aquisição de bens e a contratação de serviços pelas Agências Reguladoras poderá se dar nas modalidades de consulta e pregão, observado o disposto nos arts. 55 a 58 da Lei nº 9.472, de 1997, e nos termos de regulamento próprio.
+Parágrafo único. O disposto no caput não se aplica às contratações referentes a obras e serviços de engenharia, cujos procedimentos deverão observar as normas gerais de licitação e contratação para a Administração Pública.

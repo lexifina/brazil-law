@@ -1,0 +1,2 @@
+Art. 13. Os Cargos Comissionados Técnicos são de ocupação privativa de servidores e empregados do Quadro de Pessoal Efetivo, do Quadro de Pessoal Específico e do Quadro de Pessoal em Extinção de que trata o art. 19 e de requisitados de outros órgãos e entidades da Administração Pública.
+Parágrafo único. Ao ocupante de Cargo Comissionado Técnico será pago um valor acrescido ao salário ou vencimento, conforme tabela constante do Anexo II.
