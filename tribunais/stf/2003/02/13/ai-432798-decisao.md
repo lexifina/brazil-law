@@ -1,0 +1,57 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que
+negou processamento a recurso extraordinário por intempestidade,
+tendo em vista o não-conhecimento dos embargos declaratórios ao
+acórdão recorrido e a conseqüente ausência de interrupção do prazo
+recursal.
+     Transcreve-se trecho do acórdão proferido pelo
+Tribunal de origem nos embargos de declaração, que assim entendeu
+(fl. 59):
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DOS
+ PRESSUPOSTOS DE ADMISSIBILIDADE (OBSCURIDADE, CONTRADIÇÃO OU
+OMISSÃO NO ARESTO EMBARGADO). NÃO CONHECIMENTO. 1. Embargos de
+Declaração que objetivam o pronunciamento sobre questão suscitada no
+ recurso e examinada no julgado. 2. Inocorrência de omissão no
+Acórdão se o tema suscitado encontra-se devidamente apreciado no
+voto. 6. Pressuposto de admissibilidade dos Embargos de Declaração é
+ a existência de obscuridade ou contradição no acórdão, ou omissão
+de algum ponto sobre o qual deveria o Tribunal pronunciar-se; quando
+ isso não se configura, não há como conhecer-se do recurso, ainda
+quando se o tenha desafiar, para fins de prequestionamento.
+Precedentes jurisprudenciais. 7. Embargos de Declaração não
+conhecidos."
+          Verifica-se que os embargos,
+tempestivamente interpostos, não foram conhecidos em face da
+inocorrência de omissão no julgamento da apelação, hipótese de
+análise do mérito do próprio recurso. Não há cogitar, destarte,
+intempestividade do extraordinário, uma vez que o recurso de
+embargos declaratórios, ainda que não conhecido, está devidamente
+regularizado (tempestividade, interesse e legitimidade recursais,
+etc).
+          Todavia, em face da decisão do Superior Tribunal
+de Justiça no julgamento do recurso especial interposto
+concomitantemente com o extraordinário, e, ainda, em homenagem ao
+princípio da economia processual, passo à análise do recurso
+extraordinário.
+O Superior Tribunal de Justiça deu parcial
+provimento ao recurso especial interposto simultaneamente com o
+recurso extraordinário, versando sobre matéria análoga, para excluir
+ da condenação os índices de atualização dos depósitos do FGTS
+relativos a junho/87 (Plano Bresser), maio/90 (Plano Collor I) e
+fevereiro/91 (Plano Collor II), mantendo o acórdão quanto aos
+índices de janeiro/89 (Plano Verão) e abril/90 (Plano Collor
+I).
+            A referida decisão foi publicada no Diário da Justiça em
+ 29.05.02 e transitou em julgado em 17.06.02, conforme informação
+obtida do site do Superior Tribunal de Justiça em 07.02.03.
+                Desse modo, julgo prejudicado este agravo quanto aos
+índices
+relativos a junho/87 (Plano Bresser), maio/90 (Plano Collor I) e
+fevereiro/91 (Plano Collor II), e, tal como assentado no julgamento
+do RE 226.855-7, no que diz respeito à correção referente aos meses
+de janeiro/89 (Plano Verão) e abril/90 (Plano Collor I), por
+tratar-se de matéria infraconstitucional, nego seguimento (art. 557,
+ do CPC).
+Publique-se.
+ Brasília, 13 de fevereiro de 2003.
+Ministro GILMAR MENDES
+Relator
