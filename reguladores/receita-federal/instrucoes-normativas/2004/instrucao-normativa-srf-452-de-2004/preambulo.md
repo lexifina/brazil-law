@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 452, de 24 de setembro de 2004
+Dispõe sobre o pagamento de tributos e contribuições administrados pela Secretaria da Receita Federal, relativamente aos sujeitos passivos domiciliados no município de Florianópolis - SC.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o Parecer PGFN/CDA nº 1.381, de 8 de setembro de 2004, o art. 7º da Resolução nº 2.932, do Banco Central do Brasil, de 28 de fevereiro de 2002, e os Comunicados Bacen Deorf/Cofin nºs I-2003/00446 e I-2003/00447 resolve:
