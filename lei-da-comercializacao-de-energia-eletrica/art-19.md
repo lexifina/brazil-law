@@ -1,0 +1,1 @@
+Art. 19. Excepcionalmente nos anos de 2004, 2005 e 2006, as licitações para venda de energia proveniente de empreendimentos de geração existentes, previstos no inciso II do § 2º do art. 2º desta Lei, poderão prever início de entrega da energia em até 5 (cinco) anos após a realização das licitações.
