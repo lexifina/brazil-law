@@ -1,0 +1,3 @@
+Art. 19. Na primeira semana dos meses de maio e dezembro de cada ano, o partido envia, aos Juízes Eleitorais, para arquivamento, publicação e cumprimento dos prazos de filiação partidária para efeito de candidatura a cargos eletivos, a relação dos nomes de todos os seus filiados, da qual constará o número dos títulos eleitorais e das seções em que são inscritos.
+§ 1º Se a relação não é remetida nos prazos mencionados neste artigo, permanece inalterada a filiação de todos os eleitores, constante da relação remetida anteriormente.
+§ 2º Os prejudicados por desídia ou má-fé poderão requerer, diretamente à Justiça Eleitoral, a observância do que prescreve o caput deste artigo.

@@ -1,0 +1,3 @@
+Art. 37. A falta de prestação de contas ou sua desaprovação total ou parcial, implica a suspensão de novas quotas do fundo partidário e sujeita os responsáveis às penas da lei, cabíveis na espécie, aplicado também o disposto no art. 28.
+Parágrafo único. A Justiça Eleitoral pode determinar diligências necessárias à complementação de informações ou ao saneamento de irregularidades encontradas nas contas dos órgãos de direção partidária ou de candidatos.
+§ 1º. A Justiça Eleitoral pode determinar diligências necessárias à complementação de informações ou ao saneamento de irregularidades encontradas nas contas dos órgãos de direção partidária ou de candidatos. (Parágrafo renumerado pela Lei nº 9.693, de 1998)

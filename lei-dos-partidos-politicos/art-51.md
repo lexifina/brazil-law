@@ -1,0 +1,1 @@
+Art. 51. É assegurado ao partido político com estatuto registrado no Tribunal Superior Eleitoral o direito à utilização gratuita de escolas públicas ou Casas Legislativas para a realização de suas reuniões ou convenções, responsabilizando-se pelos danos porventura causados com a realização do evento.

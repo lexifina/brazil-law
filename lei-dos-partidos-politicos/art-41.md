@@ -1,0 +1,3 @@
+Art. 41. O Tribunal Superior Eleitoral, dentro de cinco dias, a contar da data do depósito a que se refere o § 1º do artigo anterior, fará a respectiva distribuição aos órgãos nacionais dos partidos, obedecendo aos seguintes critérios:
+I - um por cento do total do Fundo Partidário será destacado para entrega, em partes iguais, a todos os partidos que tenham seus estatutos registrados no Tribunal Superior Eleitoral;
+II - noventa e nove por cento do total do Fundo Partidário serão distribuídos aos partidos que tenham preenchido as condições do art. 13, na proporção dos votos obtidos na última eleição geral para a Câmara dos Deputados.

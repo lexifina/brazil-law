@@ -1,0 +1,1 @@
+Art. 54. Para fins de aplicação das normas estabelecidas nesta Lei, consideram-se como equivalentes a Estados e Municípios o Distrito Federal e os Territórios e respectivas divisões político-administrativas.
