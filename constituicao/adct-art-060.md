@@ -1,0 +1,2 @@
+Art. 60.Nos dez primeiros anos da promulgação da Constituição, o Poder Público desenvolverá esforços, com a mobilização de todos os setores organizados da sociedade e com a aplicação de, pelo menos, cinqüenta por cento dos recursos a que se refere o art. 212 da Constituição, para eliminar o analfabetismo e universalizar o ensino fundamental.
+Parágrafo único. Em igual prazo, as universidades públicas descentralizarão suas atividades, de modo a estender suas unidades de ensino superior às cidades de maior densidade populacional.
