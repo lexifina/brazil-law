@@ -1,0 +1,7 @@
+Ato Declaratório Normativo Cosit nº 7, de 17 de março de 1996
+Dispõe sobre o Incentivo à Atividade Audiovisual para as Pessoas Jurídicas sob Regime de Tributação pelo Lucro Real Anual.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso de suas atribuições, e tendo em vista o disposto no art. 1º, §§ 2º e 3º, letra b.1, da Lei nº 8.685, de 20 de julho de 1993, art. 1º, §§ 1º e 2º, letra b.1, do Decreto nº 974, de 08 de novembro de 1993, art. 40, inciso II, da lei nº 8.981, de 20 de janeiro de 1995, com à alteração introduzida pela Lei nº 9.065, de 20 de junho de 1995, na Portaria do Ministro da Fazenda nº 12, de 24 de janeiro de 1996 e na IN-SRF nº 56, de 18 de julho de 1994, alterada pela IN-SRF nº 62, de 21 de dezembro de 1995,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal e demais interessados, que:
+I - o incentivo à Atividade Audiovisual poderá ser utilizado, pelas Pessoas Jurídicas que apurarem Lucro Real Anual, quando da apresentação da declaração de rendimentos, mesmo tendo sido prorrogada o prazo de entrega da declaração;
+II - tendo havido recolhimento do imposto de renda maior do que o apurado na declaração, a diferença poderá ser compensada com o imposto de renda devido relativo aos meses seguintes ao da entrega da declaração, ou, caso não haja possibilidade de efetuar a compensação, é assegurada à Pessoa Jurídica o direito à restituição.
+PAULO BALTAZAR CARNEIRO
