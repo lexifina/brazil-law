@@ -1,0 +1,10 @@
+DECRETO-LEI N. 8.560 – DE 4 DE JANEIRO DE 1946
+Inclui na Parte Suplementar do Quadro III do Ministério da Viação e Obras Públicas os extranumerarios do Departamento dos Correios e Telégrafos que desempenham serviços de caráter permanente e dà outras providências.
+O Presidente da República, usando da atribuição que Ihe confere o artigo 180 da Constituição e
+Considerando que, na conformidade do art. 17 do Decreto-lei nº 8.308, de 6 de dezembro de 1945, os serviços do Departamento dos Correios e Telegrafos serão executados por funcionarios, admitindo-se extranumerários somente para serviços de natureza transitoria, de condução de malas, de trabalhos braçais e de construções;
+Considerando que a reestruturação do quadro e das tabelas de pessoal do Departamento dos Correios e telégrafos, prevista no art. 29, alínea d, do Decreto-lei nº 8.308, de 6 de dezembro de 1945, exigirá estudos demorados;
+Considerando, porém, que se torna aconselhável, como previdência preliminar e preparatória da futura reestruturação, enquadrar os atuais extranumerários mensalistas, diaristas e tarefeiros, em carreira uniformes, eliminando as desigualdades de tratamento entre os que exercem de fato iguais funções, como estabelece o artigo 17 do referido decreto-lei;
+Considerando que êsse enquadramento facilitará a ação administrativa e propiciará o seu ajustamento nesse particular, desde o início do exercício financeiro, ao regime de autonomia.
+Considerando, outrossim, que o Serviço de Rádio-Escuta, instituído por imperativo de ordem internacional e que vinha sendo executado por pessoal custeado por créditos especiais, é uma organização que deve ser mantida em caráter permanente, como Serviço de Contrôle de Radiocomunicações para atender a recomendação expressa firmada por todos os países presentes à lII Conferência Internacional de Radiocomunicações realizada nesta Capital; e
+Atendendo ao que, na conformidade do art. 29, parágrafo único. do citado Decreto-lei nº 8.306, de 6 de dezembro de 1945, propôs a Comissão de Planejamento do Departamento dos Correios e Telégrafos,
+decreta:
