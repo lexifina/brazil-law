@@ -1,2 +1,2 @@
 Art. 6º Compete ao Poder Concedente outorgar à entidade interessada autorização para exploração do Serviço de Radiodifusão Comunitária, observados os procedimentos estabelecidos nesta Lei e normas reguladoras das condições de exploração do Serviço.
-Parágrafo único. A outorga terá validade de três anos, permitida a renovação por igual período, se cumpridas as exigências desta Lei e demais disposições legais vigentes.
+Parágrafo único. A outorga terá validade de dez anos, permitida a renovação por igual período, se cumpridas as exigências desta Lei e demais disposições legais vigentes.
