@@ -1,0 +1,1 @@
+Art. 23. Considera-se posse do índio ou silvícola a ocupação efetiva da terra que, de acordo com os usos, costumes e tradições tribais, detém e onde habita ou exerce atividade indispensável à sua subsistência ou economicamente útil.

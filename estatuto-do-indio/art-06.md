@@ -1,0 +1,2 @@
+Art. 6º Serão respeitados os usos, costumes e tradições das comunidades indígenas e seus efeitos, nas relações de família, na ordem de sucessão, no regime de propriedade e nos atos ou negócios realizados entre índios, salvo se optarem pela aplicação do direito comum.
+Parágrafo único. Aplicam-se as normas de direito comum às relações entre índios não integrados e pessoas estranhas à comunidade indígena, excetuados os que forem menos favoráveis a eles e ressalvado o disposto nesta Lei.

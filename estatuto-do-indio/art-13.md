@@ -1,0 +1,2 @@
+Art. 13. Haverá livros próprios, no órgão competente de assistência, para o registro administrativo de nascimentos e óbitos dos índios, da cessação de sua incapacidade e dos casamentos contraídos segundo os costumes tribais.
+Parágrafo único. O registro administrativo constituirá, quando couber documento hábil para proceder ao registro civil do ato correspondente, admitido, na falta deste, como meio subsidiário de prova.

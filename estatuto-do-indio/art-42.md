@@ -1,0 +1,2 @@
+Art. 42. Cabe ao órgão de assistência a gestão do Patrimônio Indígena, propiciando-se, porém, a participação dos silvícolas e dos grupos tribais na administração dos próprios bens, sendo-lhes totalmente confiado o encargo, quando demonstrem capacidade efetiva para o seu exercício.
+Parágrafo único. O arrolamento dos bens do Patrimônio Indígena será permanentemente atualizado, procedendo-se à fiscalização rigorosa de sua gestão, mediante controle interno e externo, a fim de tornar efetiva a responsabilidade dos seus administradores.

@@ -1,0 +1,3 @@
+Art. 24. O usufruto assegurado aos índios ou silvícolas compreende o direito à posse, uso e percepção das riquezas naturais e de todas as utilidades existentes nas terras ocupadas, bem assim ao produto da exploração econômica de tais riquezas naturais e utilidades.
+§ 1º Incluem-se, no usufruto, que se estende aos acessórios e seus acrescidos, o uso dos mananciais e das águas dos trechos das vias fluviais compreendidos nas terras ocupadas.
+§ 2º É garantido ao índio o exclusivo exercício da caça e pesca nas áreas por ele ocupadas, devendo ser executadas por forma suasória as medidas de polícia que em relação a ele eventualmente tiverem de ser aplicadas.

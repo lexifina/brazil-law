@@ -1,0 +1,1 @@
+Art. 37. Os grupos tribais ou comunidades indígenas são partes legítimas para a defesa dos seus direitos em juízo, cabendo-lhes, no caso, a assistência do Ministério Público Federal ou do órgão de proteção ao índio.

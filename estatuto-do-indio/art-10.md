@@ -1,0 +1,1 @@
+Art. 10. Satisfeitos os requisitos do artigo anterior e a pedido escrito do interessado, o órgão de assistência poderá reconhecer ao índio, mediante declaração formal, a condição de integrado, cessando toda restrição à capacidade, desde que, homologado judicialmente o ato, seja inscrito no registro civil.

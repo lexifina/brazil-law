@@ -1,0 +1,2 @@
+Art. 1º Esta Lei regula a situação jurídica dos índios ou silvícolas e das comunidades indígenas, com o propósito de preservar a sua cultura e integrá-los, progressiva e harmoniosamente, à comunhão nacional.
+Parágrafo único. Aos índios e às comunidades indígenas se estende a proteção das leis do País, nos mesmos termos em que se aplicam aos demais brasileiros, resguardados os usos, costumes e tradições indígenas, bem como as condições peculiares reconhecidas nesta Lei.
