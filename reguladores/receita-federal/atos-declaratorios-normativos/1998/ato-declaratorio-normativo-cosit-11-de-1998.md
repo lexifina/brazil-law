@@ -1,0 +1,6 @@
+Ato Declaratório Normativo Cosit nº 11, de 21 de agosto de 1998
+Dispõe sobre penalidade aplicada em decorrência do descumprimento do prazo de apresentação do Conhecimento de Carga na importação de petróleo e seus derivados, nos termos da Instrução Normativa SRF No 97, de 05 de dezembro de 1994.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o art. 147, inciso III, do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF No 606, de 3 de setembro de 1992, e tendo em vista o disposto no item II da Instrução Normativa SRF No 34, de 18 de setembro de 1974,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados, que:
+o descumprimento do prazo para apresentação do Conhecimento de Carga nas importações de petróleo bruto e derivados de forma facilitada, nos termos da Instrução Normativa SRF No 97/94, sujeita a empresa infratora à penalidade prevista no art. 522, inciso IV, do Regulamento Aduaneiro, aprovado pelo Decreto No 91.030, de 5 de março de 1985, independentemente de aplicação da sanção administrativa prescrita no art. 535, do mesmo diploma regulamentar.
+CARLOS ALBERTO DE NIZA E CASTRO
