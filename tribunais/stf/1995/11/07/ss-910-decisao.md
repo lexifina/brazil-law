@@ -1,0 +1,39 @@
+Cuida-se de pedido de  suspensão de liminar concedida, no
+Tribunal Regional Federal da 5ª Região, em mandado de segurança
+ajuizado contra decisão denegatória de cautelar anteriormente
+requerida ao Juiz Federal da 2ª Vara de Pernambuco, para que, no
+desembaraço de álcool etílico hidratado adquirido no exterior antes da
+
+edição dos Decretos 1.343/94 e 1.471/95,  fique a impetrante liberada
+
+do recolhimento do imposto de importação às alíquotas estabelecidas
+pelos mencionados diplomas.
+Alegou a impetrante a ausência de lei complementar que
+discipline os limites e condições para as alterações de alíquotas do
+imposto de importação (CF, art. 153,§ 1º c.c. o art. 146, II), e a
+inexistência de motivação e finalidade dos atos questionados.
+Fundou-se o despacho impugnado na imunidade prevista no
+artigo 155, § 3º, da CF, "que alcança todos os tributos que envolvam
+operações relativas a combustíveis", bem como na necessidade de lei
+complementar.
+Ressaltando a importância das questões constitucionais
+envolvidas na causa, requer a União, com fundamento em grave lesão à
+ordem e à economia públicas, a suspensão da execução da medida
+cautelar.
+Em caso similar - SS 775-1/SP -, relativo ao Decreto
+1.427/95, considerando a relevância da tese jurídica da requerente,
+
+ bem
+como a demonstração de risco de dano irreversível à ordem econômica,
+deferi a suspensão pleiteada.
+Referida decisão foi confirmada pelo Plenário da Corte
+que, em sessão realizada no dia 5 de outubro do corrente, negou
+provimento ao agravo regimental interposto pela impetrante.
+Assim sendo, reportando-me aos fundamentos deduzidos no
+precedente, defiro o pedido para suspender, até o trânsito em julgado
+
+da decisão definitiva, a liminar concedida no MS 50.345, do Tribunal
+Regional Federal da 5ª Região.
+Comunique-se.
+Brasília, 7 de novembro de 1995.
+Ministro SEPÚLVEDA PERTENCE - Presidente.
