@@ -1,0 +1,2 @@
+Autoriza a admissão, pela Caixa Econômica Federal, dos empregados da Associação de Poupança e Empréstimo de Alagoas - APEAL, Associação de Poupança e Empréstimo de Pernambuco - APEPE, Associação de Poupança e Empréstimo do Rio Grande do Norte - APERN e Caixa Forte - APE, do Piauí, e transformadas em Sociedade de Crédito Imobiliário pelo Banco Central, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA, faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:
