@@ -1,0 +1,1 @@
+Art. 33. Em cada modalidade de serviço público, o respectivo regulamento determinará que o poder concedente, observado o disposto nos arts. 3º e 30 da Lei nº 8.987, de 1995, estabeleça forma de participação dos usuários na fiscalização e torne disponível ao público, periodicamente, relatório sobre os serviços prestados.
