@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 1, de 3 de janeiro de 1995
+Revoga a Instrução Normativa SRF nº 63, de 17 de agosto de 1994.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições que lhe confere o art. 140, inciso III do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MEFP nº 606, de 3 de setembro de 1992, combinado com as disposições da Portaria MF nº 678, de 22 de outubro de 1992 e tendo em vista o disposto no art. 250 do Regulamento Aduaneiro aprovado pelo Decreto nº 91.030, de 5 de março de 1985, com nova redação dada pelo Decreto 636, de 28 de agosto de 1992, resolve:
