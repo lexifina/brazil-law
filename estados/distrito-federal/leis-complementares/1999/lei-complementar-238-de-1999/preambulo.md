@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 238, DE 28 DE JULHO DE 1999 (*)
+(Autoria do Projeto:Deputado Silvio Linhares)
+Amplia lote situado na Região Administrativa do Núcleo Bandeirante RA VIII.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
