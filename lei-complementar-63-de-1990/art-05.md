@@ -1,0 +1,1 @@
+Art. 5º Até o segundo dia útil de cada semana, o estabelecimento oficial de crédito entregará, a cada Município, mediante crédito em conta individual ou pagamento em dinheiro, à conveniência do beneficiário, a parcela que a este pertencer, do valor dos depósitos ou remessas feitos, na semana imediatamente anterior, na conta a que se refere o artigo anterior.

@@ -1,0 +1,18 @@
+Art. 3º 25% (vinte e cinco por cento) do produto da arrecadação do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação serão creditados, pelos Estados, aos respectivos Municípios, conforme os seguintes critérios:
+I - 3/4 (três quartos), no mínimo, na proporção do valor adicionado nas operações relativas à circulação de mercadorias e nas prestações de serviços, realizadas em seus territórios;
+II - até 1/4 (um quarto), de acordo com o que dispuser lei estadual ou, no caso dos territórios, lei federal.
+§ 1º O valor adicionado corresponderá, para cada Município, ao valor das mercadorias saídas acrescido do valor das prestações de serviços, no seu território, deduzido o valor das mercadorias entradas, em cada ano civil.
+§ 2º Para efeito de cálculo do valor adicionado serão computadas:
+I - as operações e prestações que constituam fato gerador do imposto, mesmo quando o pagamento for antecipado ou diferido, ou quando o crédito tributário for diferido, reduzido ou excluído em virtude de isenção ou outros benefícios, incentivos ou favores fiscais;
+II - as operações imunes do imposto, conforme as alíneas a e b do inciso X do § 2º do art. 155, e a alínea d do inciso VI do art. 150, da Constituição Federal.
+§ 3º O Estado apurará a relação percentual entre o valor adicionado em cada Município e o valor total do Estado, devendo este índice ser aplicado para a entrega das parcelas dos Municípios a partir do primeiro dia do ano imediatamente seguinte ao da apuração.
+§ 4º O índice referido no parágrafo anterior corresponderá à média dos índices apurados no dois anos civis imediatamente anteriores ao da apuração.
+§ 5º Os Prefeitos Municipais, as associações de Municípios e seus representantes terão livre acesso às informações e documentos utilizados pelos Estados no cálculo do valor adicionado, sendo vedado, a estes, omitir quaisquer dados ou critérios, ou dificultar ou impedir aqueles no acompanhamento dos cálculos.
+§ 6º Para efeito de entrega das parcelas de um determinado ano, o Estado fará publicar, no seu órgão oficial, até o dia 30 de junho do ano da apuração, o valor adicionado em cada Município, além dos índices percentuais referidos nos §§ 3º e 4º deste artigo.
+§ 7º Os Prefeitos Municipais e as associações de Municípios, ou seus representantes, poderão impugnar, no prazo de 30 (trinta) dias corridos contados da sua publicação, os dados e os índices de que trata o parágrafo anterior, sem prejuízo das ações cíveis e criminais cabíveis.
+§ 8º No prazo de 60 (sessenta) dias corridos, contados da data da primeira publicação, os Estados deverão julgar e publicar as impugnações mencionadas no parágrafo anterior, bem como os índices definidos de cada Município.
+§ 9º Quando decorrentes de ordem judicial, as correções de índices deverão ser publicadas até o dia 15 (quinze) do mês seguinte ao da data do ato que as determinar.
+§ 10. Os Estados manterão um sistema de informações baseadas em documentos fiscais obrigatórios, capaz de apurar, com precisão, o valor adicionado de cada Município.
+§ 11. O valor adicionado relativo a operações constatadas em ação fiscal será considerado no ano em que o resultado desta se tornar definitivo, em virtude da decisão administrativa irrecorrível.
+§ 12. O valor adicionado relativo a operações ou prestações espontaneamente confessadas pelo contribuinte será considerado no período em que ocorrer a confissão.
+§ 13º A lei estadual que criar, desmembrar, fundir ou incorporar Municípios levará em conta, no ano em que ocorrer, o valor adicionado de cada área abrangida.
