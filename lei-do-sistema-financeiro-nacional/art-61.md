@@ -1,0 +1,1 @@
+Art. 61. Para cumprir as disposições desta lei o Banco do Brasil S.A. tomará providências no sentido de que seja remodelada sua estrutura administrativa, a fim de que possa eficazmente exercer os encargos e executar os serviços que lhe estão reservados, como principal instrumento de execução da política de crédito do Governo Federal.

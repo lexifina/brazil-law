@@ -1,0 +1,4 @@
+Art. 33. As instituições financeiras privadas deverão comunicar ao Banco Central da República do Brasil os atos relativos à eleição de diretores e membros de órgão consultivos, fiscais e semelhantes, no prazo de 15 dias de sua ocorrência, de acordo com o estabelecido no art. 10, inciso X, desta lei.
+§ 1º O Banco Central da República do Brasil, no prazo máximo de 60 (sessenta) dias, decidirá aceitar ou recusar o nome do eleito, que não atender às condições a que se refere o artigo 10, inciso X, desta lei.
+§ 2º A posse do eleito dependerá da aceitação a que se refere o parágrafo anterior.
+§ 3º Oferecida integralmente a documentação prevista nas normas referidas no art. 10, inciso X, desta lei, e decorrido, sem manifestação do Banco Central da República do Brasil, o prazo mencionado no § 1º deste artigo, entender-se-á não ter havido recusa a posse.

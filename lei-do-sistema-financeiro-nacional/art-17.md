@@ -1,0 +1,2 @@
+Art. 17. Consideram-se instituições financeiras, para os efeitos da legislação em vigor, as pessoas jurídicas públicas ou privadas, que tenham como atividade principal ou acessória a coleta, intermediação ou aplicação de recursos financeiros próprios ou de terceiros, em moeda nacional ou estrangeira, e a custódia de valor de propriedade de terceiros.
+Parágrafo único. Para os efeitos desta lei e da legislação em vigor, equiparam-se às instituições financeiras as pessoas físicas que exerçam qualquer das atividades referidas neste artigo, de forma permanente ou eventual.

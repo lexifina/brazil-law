@@ -1,0 +1,1 @@
+Art. 53. As operações de financiamento rural o pecuário, de valor até 50 (cinqüenta) vezes e maior salário-mínimo vigente no País, ficam isentas de taxas, despesas de avaliação, imposto do selo e independem de registro cartorário.
