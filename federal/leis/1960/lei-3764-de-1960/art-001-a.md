@@ -1,0 +1,1 @@
+Art. 1º - A retificação de registro de pessoa natural poderá ser processada no próprio cartório onde se encontrar o assentamento, mediante petição assinada pelo interessado, ou procurador, independentemente do pagamento de selos e taxas.
