@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 313, de 3 de abril de 2003
+Dispõe sobre o cálculo, a utilização e a apresentação de informações do crédito presumido do IPI, instituído pela Lei nº 9.363, de 13 de dezembro de 1996.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto na Lei nº 9.363, de 13 de dezembro de 1996, nos arts. 15, inciso II, e 16 da Lei nº 9.779, de 19 de janeiro de 1999, na Lei nº 10.637, de 30 de dezembro de 2002, e na Portaria MF nº 64, de 24 de março de 2003, resolve:
