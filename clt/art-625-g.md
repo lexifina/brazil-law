@@ -1,0 +1,1 @@
+Art. 625-G. O prazo prescricional será suspenso a partir da provocação da Comissão de Conciliação Prévia, recomeçando a fluir, pelo que lhe resta, a partir da tentativa frustrada de conciliação ou do esgotamento do prazo previsto no art. 625-F.

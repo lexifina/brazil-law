@@ -1,0 +1,1 @@
+Art. 625-A. As empresas e os sindicatos podem instituir Comissões de Conciliação Prévia, de composição paritária, com representante dos empregados e dos empregadores, com a atribuição de tentar conciliar os conflitos individuais do trabalho. Parágrafo único. As Comissões referidas no caput deste artigo poderão ser constituídas por grupos de empresas ou ter caráter intersindical.
