@@ -1,0 +1,1 @@
+Art. 26. O advogado substabelecido, com reserva de poderes, não pode cobrar honorários sem a intervenção daquele que lhe conferiu o substabelecimento.
