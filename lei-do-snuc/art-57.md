@@ -1,0 +1,2 @@
+Art. 57. Os órgãos federais responsáveis pela execução das políticas ambiental e indigenista deverão instituir grupos de trabalho para, no prazo de cento e oitenta dias a partir da vigência desta Lei, propor as diretrizes a serem adotadas com vistas à regularização das eventuais superposições entre áreas indígenas e unidades de conservação.
+Parágrafo único. No ato de criação dos grupos de trabalho serão fixados os participantes, bem como a estratégia de ação e a abrangência dos trabalhos, garantida a participação das comunidades envolvidas.

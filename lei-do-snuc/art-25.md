@@ -1,0 +1,3 @@
+Art. 25. As unidades de conservação, exceto Área de Proteção Ambiental e Reserva Particular do Patrimônio Natural, devem possuir uma zona de amortecimento e, quando conveniente, corredores ecológicos.
+§ 1º O órgão responsável pela administração da unidade estabelecerá normas específicas regulamentando a ocupação e o uso dos recursos da zona de amortecimento e dos corredores ecológicos de uma unidade de conservação.
+§ 2º Os limites da zona de amortecimento e dos corredores ecológicos e as respectivas normas de que trata o § 1º poderão ser definidas no ato de criação da unidade ou posteriormente.

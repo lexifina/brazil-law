@@ -1,0 +1,5 @@
+Art. 11. O Parque Nacional tem como objetivo básico a preservação de ecossistemas naturais de grande relevância ecológica e beleza cênica, possibilitando a realização de pesquisas científicas e o desenvolvimento de atividades de educação e interpretação ambiental, de recreação em contato com a natureza e de turismo ecológico.
+§ 1º O Parque Nacional é de posse e domínio públicos, sendo que as áreas particulares incluídas em seus limites serão desapropriadas, de acordo com o que dispõe a lei.
+§ 2º A visitação pública está sujeita às normas e restrições estabelecidas no Plano de Manejo da unidade, às normas estabelecidas pelo órgão responsável por sua administração, e àquelas previstas em regulamento.
+§ 3º A pesquisa científica depende de autorização prévia do órgão responsável pela administração da unidade e está sujeita às condições e restrições por este estabelecidas, bem como àquelas previstas em regulamento.
+§ 4º As unidades dessa categoria, quando criadas pelo Estado ou Município, serão denominadas, respectivamente, Parque Estadual e Parque Natural Municipal.
