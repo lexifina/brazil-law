@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF10 nº 7, de 14 de janeiro de 2004
+ASSUNTO: Imposto sobre Produtos Industrializados - IPI EMENTA: MATÉRIAS-PRIMAS E PRODUTOS INTERMEDIÁRIOS. CRÉDITOS. As “lixas, serras circulares, serra fita, brocas” utilizadas na fabricação de móveis enquadram-se, para efeito da legislação do IPI, como insumos (matérias-primas e produtos intermediários em sentido amplo), gerando direito a crédito desse imposto, desde que não devam ser classificadas no ativo permanente. DISPOSITIVOS LEGAIS: Decreto nº 4.544, de 2002 (RIPI/2002), art. 164, I; Parecer Normativo CST nº 65, de 1979.
+[arquivo anexo: SC SRRF10-Disit nº 007-2004.pdf]
