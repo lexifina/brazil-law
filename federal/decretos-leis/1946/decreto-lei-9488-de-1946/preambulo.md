@@ -1,0 +1,4 @@
+DECRETO-LEI N. 9.488 – DE 19 DE JULHO DE 1946
+Declara feriado nacional o dia 29 de julho de 1946 e dá outras providências.
+O Presidente da República, usando da atribuição que Ihe confere o artigo 180 da Constitutição, Considerando que a 29 de Julho de 1946 ocorrerá, o primeiro centenário do nascimento da Princesa D. Isabel, filha de D. Pedro II, ex-imperador do Brasil e de sua espôsa D. Teresa Cristina, ex-imperatriz; Considerando que a Princesa D. Isabel exerceu por três vêzes as funções de Regente do Império; Considerando que os atos legislativos de 28 de Setembro de 1871 e de 13 de Maio de 1888 relativos à abolição da escravidão foram por ela sancionados; Considerando que os predicados pessoais e as virtudes cívicas que demonstrou em vida tornaram sua memória digna do culto e da gratidão do povo brasileiro;
+Decreta :
