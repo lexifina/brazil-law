@@ -1,0 +1,2 @@
+Art. 12. Na regiões em que se adota a plantação subsidiária ou intercalar (cultura secundária), a cargo do empregado rural, quando autorizada ou permitida, será objeto de contrato em separado.
+Parágrafo único. Embora devendo integrar o resultado anual a que tiver direito o empregado rural, a plantação subsidiária ou intercalar não poderá compor a parte correspondente ao salário mínimo na remuneração geral do empregado, durante o ano agrícola.

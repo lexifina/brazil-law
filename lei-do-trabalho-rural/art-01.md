@@ -1,0 +1,2 @@
+Art. 1º As relações de trabalho rural serão reguladas por esta Lei e, no que com ela não colidirem, pelas normas da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 01/05/1943.
+Parágrafo único. Observadas as peculiaridades do trabalho rural, a ele também se aplicam as leis nºs 605, de 05/01/1949, 4090, de 13/07/1962; 4725, de 13/07/1965, com as alterações da Lei nº 4903, de 16/12/1965 e os Decretos-Leis nºs 15, de 29/07/1966; 17, de 22/08/1966 e 368, de 19/12/1968.
