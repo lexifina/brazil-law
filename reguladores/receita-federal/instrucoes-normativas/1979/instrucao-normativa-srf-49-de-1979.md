@@ -1,0 +1,21 @@
+Instrução Normativa SRF nº 49, de 2 de agosto de 1979
+Dispõe sobre a sistemática de solicitação, concessão e acompanhamento dos benefícios fiscais previstos no Decreto-lei número 1.335, de 8 de julho de 1974, com a redação do Decreto-lei nº 1.398, de 20 de março de 1975.
+O Secretário da Receita Federal, no uso da competência delegada pelo Senhor Ministro da Fazenda através da Portaria MF nº 214, de 28 de março de 1979, e tendo em vista o disposto no Decreto-lei nº 1.335, de 8 de julho de 1974, com a redação do Decreto-lei nº 1.398, de 20 de março de 1975,
+RESOLVE:
+1. O pedido de extensão dos estímulos fiscais fundamentado no Decreto-lei nº 1.335, de 8 de julho de 1974, com a redação do Decreto-lei nº 1.398, de 20 de março de 1975, será formulado pelo empreendedor e dirigido ao Secretário da Receita Federal.
+2. O empreendedor instruirá o requerimento com os seguintes dados e elementos:
+2.1 — Descrição do projeto, informando se o mesmo já foi aprovado pelos órgãos federais e/ou estaduais competentes;
+2.2 — Indicação da origem e o valor global dos recursos destinados ao custeio do empreendimento, bem como do montante previsto para aquisição de máquinas e equipamentos;
+2.3 — Indicação do procedimento a ser utilizado para aquisição das máquinas e equipamentos, juntando, se já houver, cópia dos editais de licitação entre produtores nacionais e estrangeiros, acompanhada da relação de máquinas e equipamentos a serem adquiridos, ou do Acordo de Participação homologado pela Carteira de Comércio Exterior do Banco do Brasil S.A. ou pelo Conselho de Política Aduaneira.
+3. A concessão dos estímulos fundamentar-se-á em parecer conclusivo com base nos dados e elementos estabelecidos no item anterior, e produzirá efeitos imediatos.
+4. A eficácia plena e definitiva do ato concessivo fica condicionada ao cumprimento, pelo empreendedor, perante a repartição da Secretaria da Receita Federal com jurisdição sobre o local onde se executa o Projeto, das seguintes exigências:
+4.1 — Apresentação, caso não o tenha feito na fase de instrução preliminar do pleito, no prazo de 30 (trinta) dias, contados da data da publicação ou da homologação, de cópia dos editais de licitação internacional, acompanhada da relação de máquinas e equipamentos a serem adquiridos, ou do Acordo de Participação, homologado pela Carteira de Comércio Exterior do Banco do Brasil S.A. ou pelo Conselho de Política Aduaneira.
+4.2 — Apresentação, até o último dia útil de cada mês, de cópia das notas fiscais referentes às máquinas e equipamentos, recebidos com incentivos, no mês anterior, relacionando-as, se for o caso, conforme os itens correspondentes do Acordo de Participação;
+4.3 — Apresentação no prazo de 60 (sessenta) dias, contados da última aquisição (considerada como tal a data de emissão da nota fiscal pelo fabricante), da relação dos produtos adquiridos, identificando o respectivo vendedor, mencionando o item correspondente do Acordo de Participação (quando for o caso), número, data e valor das notas fiscais e número e data dos pedidos ou ordens de compra que deram origem às notas fiscais relacionadas;
+4.4 — Comprovação, no mesmo prazo previsto no item anterior, da disponibilidade de recursos, oriundos das fontes indicadas no despacho concessivo dos incentivos, em montante suficiente a fazer face ao valor total das máquinas e equipamentos adquiridos com benefícios.
+5. As comprovações a que se refere o item anterior deverão ser anexadas ao processo que deu origem à concessão dos benefícios fiscais.
+6. O descumprimento dos requisitos legais ou a inadimplência das exigências de controle fiscal, implicará na ineficácia do ato concessivo dos estímulos tributários, a ser declarada pelo Secretário da Receita Federal.
+7. Qualquer alteração na listagem de máquinas e equipamentos ou no Acordo de Participação, a que se referem os subitens 2.3 e 4.1, bem como na origem dos recursos destinados ao custeio do empreendimento, deverá ser imediatamente comunicada à Secretaria da Receita Federal.
+8. As Coordenações dos Sistemas de Fiscalização e de Tributação poderão baixar normas complementares à execução desta Instrução Normativa.
+9. Esta Instrução Normativa entrará em vigor na data de sua publicação.
+FRANCISCO NEVES DORNELLES
