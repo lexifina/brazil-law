@@ -1,0 +1,13 @@
+[pic]
+
+ESTADO DE ALAGOAS
+
+GABINETE DO GOVERNADOR
+
+LEI N.º 6.183, DE 11 DEAGOSTO DE 2000.
+
+CRIA O FUNDO DE PROMOÇÃO SOCIAL DE ALAGOAS – PROSOCIAL.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS
+
+Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
