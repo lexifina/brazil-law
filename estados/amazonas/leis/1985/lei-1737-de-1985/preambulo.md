@@ -1,0 +1,7 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+LEI Nº 1737 de 18/12/1985
+
+ESTIMA a Receita e Fixa a Despesa do Estado para o Exercício Financeiro de 1986.
