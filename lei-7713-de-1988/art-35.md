@@ -12,5 +12,5 @@ b) absorvidos na redução de capital que tenha sido aumentado com os benefício
 a) será considerado devido exclusivamente na fonte, quando o beneficiário do lucro for pessoa física;
 b) poderá ser compensado, pela beneficiária pessoa jurídica, com o imposto incidente na fonte sobre o seu próprio lucro líquido;
 c) poderá ser compensado com o imposto incidente na fonte sobre a parcela dos lucros apurados pelas pessoas jurídicas, que corresponder à participação de beneficiário, pessoa física ou jurídica, residente ou domiciliado no exterior.
-§ 5º É dispensada a retenção na fonte do imposto a que se refere este artigo sobre a parcela do lucro líquido que corresponder à participação de pessoa jurídica imune ou isenta do imposto de renda, fundos em condomínio e clubes de investimento.
+§ 5º É dispensada a retenção na fonte do imposto a que se refere este artigo sobre a parcela do lucro líquido que corresponder à participação de pessoa jurídica imune ou isenta do imposto de renda.
 § 6º O disposto neste artigo se aplica em relação ao lucro líquido apurado nos períodos-base encerrados a partir da data da vigência desta Lei.
