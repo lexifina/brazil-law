@@ -1,0 +1,2 @@
+Dispõe sobre os quadros de cargos do Grupo-Direção e Assessoramento Superiores - DAS da Advocacia-Geral da União, do Ministério da Fazenda, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.472-31, de 1996, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
