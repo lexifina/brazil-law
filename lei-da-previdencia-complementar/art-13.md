@@ -1,0 +1,3 @@
+Art. 13. A formalização da condição de patrocinador ou instituidor de um plano de benefício dar-se-á mediante convênio de adesão a ser celebrado entre o patrocinador ou instituidor e a entidade fechada, em relação a cada plano de benefícios por esta administrado e executado, mediante prévia autorização do órgão regulador e fiscalizador, conforme regulamentação do Poder Executivo.
+§ 1º Admitir-se-á solidariedade entre patrocinadores ou entre instituidores, com relação aos respectivos planos, desde que expressamente prevista no convênio de adesão.
+§ 2º O órgão regulador e fiscalizador, dentre outros requisitos, estabelecerá o número mínimo de participantes admitido para cada modalidade de plano de benefício.

@@ -1,0 +1,1 @@
+Art. 22. Ao final de cada exercício, coincidente com o ano civil, as entidades fechadas deverão levantar as demonstrações contábeis e as avaliações atuariais de cada plano de benefícios, por pessoa jurídica ou profissional legalmente habilitado, devendo os resultados ser encaminhados ao órgão regulador e fiscalizador e divulgados aos participantes e aos assistidos.

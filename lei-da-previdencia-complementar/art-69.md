@@ -1,0 +1,3 @@
+Art. 69. As contribuições vertidas para as entidades de previdência complementar, destinadas ao custeio dos planos de benefícios de natureza previdenciária, são dedutíveis para fins de incidência de imposto sobre a renda, nos limites e nas condições fixadas em lei.
+§ 1º Sobre as contribuições de que trata o caput não incidem tributação e contribuições de qualquer natureza.
+§ 2º Sobre a portabilidade de recursos de reservas técnicas, fundos e provisões entre planos de benefícios de entidades de previdência complementar, titulados pelo mesmo participante, não incidem tributação e contribuições de qualquer natureza.

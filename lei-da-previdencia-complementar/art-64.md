@@ -1,0 +1,2 @@
+Art. 64. O órgão fiscalizador competente, o Banco Central do Brasil, a Comissão de Valores Mobiliários ou a Secretaria da Receita Federal, constatando a existência de práticas irregulares ou indícios de crimes em entidades de previdência complementar, noticiará ao Ministério Público, enviando-lhe os documentos comprobatórios.
+Parágrafo único. O sigilo de operações não poderá ser invocado como óbice à troca de informações entre os órgãos mencionados no caput, nem ao fornecimento de informações requisitadas pelo Ministério Público.

@@ -1,0 +1,2 @@
+Art. 7º Os planos de benefícios atenderão a padrões mínimos fixados pelo órgão regulador e fiscalizador, com o objetivo de assegurar transparência, solvência, liquidez e equilíbrio econômico-financeiro e atuarial.
+Parágrafo único. O órgão regulador e fiscalizador normatizará planos de benefícios nas modalidades de benefício definido, contribuição definida e contribuição variável, bem como outras formas de planos de benefícios que reflitam a evolução técnica e possibilitem flexibilidade ao regime de previdência complementar.

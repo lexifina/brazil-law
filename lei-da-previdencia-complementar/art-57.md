@@ -1,0 +1,2 @@
+Art. 57. Os créditos das entidades de previdência complementar, em caso de liquidação ou falência de patrocinadores, terão privilégio especial sobre a massa, respeitado o privilégio dos créditos trabalhistas e tributários.
+Parágrafo único. Os administradores dos respectivos patrocinadores serão responsabilizados pelos danos ou prejuízos causados às entidades de previdência complementar, especialmente pela falta de aporte das contribuições a que estavam obrigados, observado o disposto no parágrafo único do art. 63 desta Lei Complementar.

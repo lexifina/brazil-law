@@ -1,0 +1,2 @@
+Art. 42. O órgão regulador e fiscalizador poderá, em relação às entidades fechadas, nomear administrador especial, a expensas da entidade, com poderes próprios de intervenção e de liquidação extrajudicial, com o objetivo de sanear plano de benefícios específico, caso seja constatada na sua administração e execução alguma das hipóteses previstas nos arts. 44 e 48 desta Lei Complementar.
+Parágrafo único. O ato de nomeação de que trata o caput estabelecerá as condições, os limites e as atribuições do administrador especial.

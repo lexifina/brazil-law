@@ -1,0 +1,4 @@
+Art. 20. O resultado superavitário dos planos de benefícios das entidades fechadas, ao final do exercício, satisfeitas as exigências regulamentares relativas aos mencionados planos, será destinado à constituição de reserva de contingência, para garantia de benefícios, até o limite de vinte e cinco por cento do valor das reservas matemáticas.
+§ 1º Constituída a reserva de contingência, com os valores excedentes será constituída reserva especial para revisão do plano de benefícios.
+§ 2º A não utilização da reserva especial por três exercícios consecutivos determinará a revisão obrigatória do plano de benefícios da entidade.
+§ 3º Se a revisão do plano de benefícios implicar redução de contribuições, deverá ser levada em consideração a proporção existente entre as contribuições dos patrocinadores e dos participantes, inclusive dos assistidos.

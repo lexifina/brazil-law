@@ -1,0 +1,3 @@
+Art. 68. As contribuições do empregador, os benefícios e as condições contratuais previstos nos estatutos, regulamentos e planos de benefícios das entidades de previdência complementar não integram o contrato de trabalho dos participantes, assim como, à exceção dos benefícios concedidos, não integram a remuneração dos participantes.
+§ 1º Os benefícios serão considerados direito adquirido do participante quando implementadas todas as condições estabelecidas para elegibilidade consignadas no regulamento do respectivo plano.
+§ 2º A concessão de benefício pela previdência complementar não depende da concessão de benefício pelo regime geral de previdência social.

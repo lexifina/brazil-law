@@ -1,0 +1,1 @@
+Art. 5º A normatização, coordenação, supervisão, fiscalização e controle das atividades das entidades de previdência complementar serão realizados por órgão ou órgãos regulador e fiscalizador, conforme disposto em lei, observado o disposto no inciso VI do art. 84 da Constituição Federal.

@@ -1,0 +1,2 @@
+Art. 53. A liquidação extrajudicial das entidades fechadas encerrar-se-á com a aprovação, pelo órgão regulador e fiscalizador, das contas finais do liquidante e com a baixa nos devidos registros.
+Parágrafo único. Comprovada pelo liquidante a inexistência de ativos para satisfazer a possíveis créditos reclamados contra a entidade, deverá tal situação ser comunicada ao juízo competente e efetivados os devidos registros, para o encerramento do processo de liquidação.

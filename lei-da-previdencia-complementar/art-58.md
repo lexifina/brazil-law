@@ -1,0 +1,1 @@
+Art. 58. No caso de liquidação extrajudicial de entidade fechada motivada pela falta de aporte de contribuições de patrocinadores ou pelo não recolhimento de contribuições de participantes, os administradores daqueles também serão responsabilizados pelos danos ou prejuízos causados.

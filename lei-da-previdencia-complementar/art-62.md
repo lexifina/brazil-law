@@ -1,0 +1,1 @@
+Art. 62. Aplicam-se à intervenção e à liquidação das entidades de previdência complementar, no que couber, os dispositivos da legislação sobre a intervenção e liquidação extrajudicial das instituições financeiras, cabendo ao órgão regulador e fiscalizador as funções atribuídas ao Banco Central do Brasil.

@@ -1,0 +1,2 @@
+Art. 24. A divulgação aos participantes, inclusive aos assistidos, das informações pertinentes aos planos de benefícios dar-se-á ao menos uma vez ao ano, na forma, nos prazos e pelos meios estabelecidos pelo órgão regulador e fiscalizador.
+Parágrafo único. As informações requeridas formalmente pelo participante ou assistido, para defesa de direitos e esclarecimento de situações de interesse pessoal específico deverão ser atendidas pela entidade no prazo estabelecido pelo órgão regulador e fiscalizador.

@@ -1,0 +1,2 @@
+Art. 63. Os administradores de entidade, os procuradores com poderes de gestão, os membros de conselhos estatutários, o interventor e o liquidante responderão civilmente pelos danos ou prejuízos que causarem, por ação ou omissão, às entidades de previdência complementar.
+Parágrafo único. São também responsáveis, na forma do caput, os administradores dos patrocinadores ou instituidores, os atuários, os auditores independentes, os avaliadores de gestão e outros profissionais que prestem serviços técnicos à entidade, diretamente ou por intermédio de pessoa jurídica contratada.
