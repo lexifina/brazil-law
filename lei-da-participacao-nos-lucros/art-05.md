@@ -1,0 +1,2 @@
+Art. 5º A participação de que trata o art. 1º desta Lei, relativamente aos trabalhadores em empresas estatais, observará diretrizes específicas fixadas pelo Poder Executivo.
+Parágrafo único. Consideram-se empresas estatais as empresas públicas, sociedades de economia mista, suas subsidiárias e controladas e demais empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto.

@@ -1,0 +1,1 @@
+Art. 1º Esta Lei regula a participação dos trabalhadores nos lucros ou resultados da empresa como instrumento de integração entre o capital e o trabalho e como incentivo à produtividade, nos termos do art. 7º, inciso XI, da Constituição.
