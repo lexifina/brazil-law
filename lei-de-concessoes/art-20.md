@@ -1,0 +1,1 @@
+Art. 20. É facultado ao poder concedente, desde que previsto no edital, no interesse do serviço a ser concedido, determinar que o licitante vencedor, no caso de consórcio, se constitua em empresa antes da celebração do contrato.

@@ -1,0 +1,1 @@
+Art. 36. A reversão no advento do termo contratual far-se-á com a indenização das parcelas dos investimentos vinculados a bens reversíveis, ainda não amortizados ou depreciados, que tenham sido realizados com o objetivo de garantir a continuidade e atualidade do serviço concedido.

@@ -1,0 +1,2 @@
+Art. 30. No exercício da fiscalização, o poder concedente terá acesso aos dados relativos à administração, contabilidade, recursos técnicos, econômicos e financeiros da concessionária.
+Parágrafo único. A fiscalização do serviço será feita por intermédio de órgão técnico do poder concedente ou por entidade com ele conveniada, e, periodicamente, conforme previsto em norma regulamentar, por comissão composta de representantes do poder concedente, da concessionária e dos usuários.

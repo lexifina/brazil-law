@@ -1,0 +1,3 @@
+Art. 33. Declarada a intervenção, o poder concedente deverá, no prazo de trinta dias, instaurar procedimento administrativo para comprovar as causas determinantes da medida e apurar responsabilidades, assegurado o direito de ampla defesa.
+§ 1º Se ficar comprovado que a intervenção não observou os pressupostos legais e regulamentares será declarada sua nulidade, devendo o serviço ser imediatamente devolvido à concessionária, sem prejuízo de seu direito à indenização.
+§ 2º O procedimento administrativo a que se refere o caput deste artigo deverá ser concluído no prazo de até cento e oitenta dias, sob pena de considerar-se inválida a intervenção.

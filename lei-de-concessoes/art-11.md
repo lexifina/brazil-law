@@ -1,0 +1,2 @@
+Art. 11. No atendimento às peculiaridades de cada serviço público, poderá o poder concedente prever, em favor da concessionária, no edital de licitação, a possibilidade de outras fontes provenientes de receitas alternativas, complementares, acessórias ou de projetos associados, com ou sem exclusividade, com vistas a favorecer a modicidade das tarifas, observado o disposto no art. 17 desta Lei.
+Parágrafo único. As fontes de receita previstas neste artigo serão obrigatoriamente consideradas para a aferição do inicial equilíbrio econômico-financeiro do contrato.

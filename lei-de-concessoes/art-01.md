@@ -1,0 +1,2 @@
+Art. 1º As concessões de serviços públicos e de obras públicas e as permissões de serviços públicos reger-se-ão pelos termos do art. 175 da Constituição Federal, por esta Lei, pelas normas legais pertinentes e pelas cláusulas dos indispensáveis contratos.
+Parágrafo único. A União, os Estados, o Distrito Federal e os Municípios promoverão a revisão e as adaptações necessárias de sua legislação às prescrições desta Lei, buscando atender as peculiaridades das diversas modalidades dos seus serviços.

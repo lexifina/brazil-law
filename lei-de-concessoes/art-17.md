@@ -1,0 +1,2 @@
+Art. 17. Considerar-se-á desclassificada a proposta que, para sua viabilização, necessite de vantagens ou subsídios que não estejam previamente autorizados em lei e à disposição de todos os concorrentes.
+Parágrafo único. Considerar-se-á, também, desclassificada a proposta de entidade estatal alheia à esfera político-administrativa do poder concedente que, para sua viabilização, necessite de vantagens ou subsídios do poder público controlador da referida entidade.

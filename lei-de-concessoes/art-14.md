@@ -1,0 +1,1 @@
+Art. 14. Toda concessão de serviço público, precedida ou não da execução de obra pública, será objeto de prévia licitação, nos termos da legislação própria e com observância dos princípios da legalidade, moralidade, publicidade, igualdade, do julgamento por critérios objetivos e da vinculação ao instrumento convocatório.

@@ -1,0 +1,2 @@
+Art. 45. Nas hipóteses de que tratam os arts. 43 e 44 desta Lei, o poder concedente indenizará as obras e serviços realizados somente no caso e com os recursos da nova licitação.
+Parágrafo único. A licitação de que trata o caput deste artigo deverá, obrigatoriamente, levar em conta, para fins de avaliação, o estágio das obras paralisadas ou atrasadas, de modo a permitir a utilização do critério de julgamento estabelecido no inciso III do art. 15 desta Lei.

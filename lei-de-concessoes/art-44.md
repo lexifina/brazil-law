@@ -1,0 +1,2 @@
+Art. 44. As concessionárias que tiverem obras que se encontrem atrasadas, na data da publicação desta Lei, apresentarão ao poder concedente, dentro de cento e oitenta dias, plano efetivo de conclusão das obras.
+Parágrafo único. Caso a concessionária não apresente o plano a que se refere este artigo ou se este plano não oferecer condições efetivas para o término da obra, o poder concedente poderá declarar extinta a concessão, relativa a essa obra.
