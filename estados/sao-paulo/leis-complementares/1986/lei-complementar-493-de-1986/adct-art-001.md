@@ -1,0 +1,2 @@
+## Disposições Transitórias
+Artigo 1º - Os funcionários que, em 31 de agosto de 1986, fossem titulares efetivos de cargos de Apontador, Apurador (Serviços Mecanizados), Controlador (Serviços Mecanizados), Escriturário, Oficial de Administração, Operador (Serviços Mecanizados), Perfurador Conferidor (Serviços Mecanizados), Programador (Serviços Mecanizados) e Técnico de Documentação, terão seus cargos integrados na série de classes de Escriturário, na forma do anexo que faz parte integrante desta lei complementar.

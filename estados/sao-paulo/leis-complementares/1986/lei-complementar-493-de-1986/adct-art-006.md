@@ -1,0 +1,1 @@
+Artigo 6º - Para os efeitos do disposto no § 2º do artigo 6º desta lei complementar, entende-se cumprido o interstício na classe anterior, quando o cargo for integrado na classe de Escriturário II a IV, na forma prevista no artigo 1º destas Disposições Transitórias.
