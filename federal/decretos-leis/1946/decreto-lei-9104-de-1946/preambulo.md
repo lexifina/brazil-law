@@ -1,0 +1,5 @@
+DECRETO-LEI N. 9.104 – DE 27 DE MARÇO DE 1946
+Estabelece os preços dos carvões “metalúrgico” e “de vapor”, produzidos no País.
+O Presidente da República, usando da atribuição que lhe confere o artigo 180 da Constituição, e Considerando que o Decreto-lei número 6.771, de 7 de agôsto de 1944, ao fixar os preços dos carvões nacionais produzidos nos Estados do Rio Grande do Sul, Santa Catarina e Paraná, não estabeleceu os preços dos carvões denominados “metalúrgico” e “de vapor”, por isso que ao tempo de sua expedição não se achava, ainda, em funcionamento a usina de beneficiamento de Capivarí-de-Baixo, (Tubarão), de propriedade da Companhia Siderúrgica Nacional, inexistindo, assim, dados seguros a respeito;
+Considerando que, sendo agora a Cia. Siderúrgica Nacional produtora desses dois tipos de carvão e, positivado o custo de produção, é indispensável que sejam estabelecidos os preços por que devem ser êles vendidos, a fim de que fiquem salvaguardados os interesses do produtor e os dos consumidores, e ouvido o Conselho NacionaI de Minas e Metalurgia;
+decreta:
