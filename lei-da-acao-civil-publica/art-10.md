@@ -1,0 +1,1 @@
+Art. 10. Constitui crime, punido com pena de reclusão de 1 (um) a 3 (três) anos, mais multa de 10 (dez) a 1.000 (mil) Obrigações Reajustáveis do Tesouro Nacional - ORTN, a recusa, o retardamento ou a omissão de dados técnicos indispensáveis à propositura da ação civil, quando requisitados pelo Ministério Público.
