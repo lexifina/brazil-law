@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 226, de 18 de outubro de 2002
+Dispõe sobre pedidos de restituição ou ressarcimento e pedidos ou declarações de compensação, nas hipóteses que menciona.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em visto o disposto nas Instruções Normativas SRF nºs. 21, de 10 de março de 1997, e 210, 30 de setembro de 2002, no Ato Declaratório SRF nº 31, de 30 de março de 1999, na Instrução Normativa SRF nº 41, de 7 de abril de 2000, e no Ato Declaratório Interpretativo (ADI) nº 17, de 3 de outubro de 2002, declara:
