@@ -1,2 +1,2 @@
-Senador Antonio Carlos Magalhães
+SENADOR ANTONIO CARLOS MAGALHÃES
 Presidente
