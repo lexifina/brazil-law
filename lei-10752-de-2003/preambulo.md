@@ -1,0 +1,2 @@
+Revoga a Medida Provisória nº 124, de 11 de julho de 2003, que dispõe sobre o Quadro de Pessoal da Agência Nacional de Águas, e dá outras providências
+Faço saber que o Presidente da República adotou a Medida Provisória nº 128, de 2003, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
