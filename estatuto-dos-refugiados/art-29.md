@@ -1,0 +1,1 @@
+Art. 29. No caso de decisão negativa, esta deverá ser fundamentada na notificação ao solicitante, cabendo direito de recurso ao Ministro de Estado da Justiça, no prazo de quinze dias, contados do recebimento da notificação.
