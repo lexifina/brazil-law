@@ -1,0 +1,3 @@
+Art. 16. Havendo fundados indícios de responsabilidade, a comissão representará ao Ministério Público ou à procuradoria do órgão para que requeira ao juízo competente a decretação do seqüestro dos bens do agente ou terceiro que tenha enriquecido ilicitamente ou causado dano ao patrimônio público.
+§ 1º O pedido de seqüestro será processado de acordo com o disposto nos arts. 822 e 825 do Código de Processo Civil.
+§ 2º Quando for o caso, o pedido incluirá a investigação, o exame e o bloqueio de bens, contas bancárias e aplicações financeiras mantidas pelo indiciado no exterior, nos termos da lei e dos tratados internacionais.
