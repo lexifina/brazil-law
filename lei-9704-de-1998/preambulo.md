@@ -1,0 +1,2 @@
+Institui normas relativas ao exercício, pelo Advogado-Geral da União, de orientação normativa e de supervisão técnica sobre os órgãos jurídicos das autarquias federais e das fundações instituídas e mantidas pela União.
+Faço saber que o PRESIDENTE DA REPÚBLICA, adotou a Medida Provisória nº 1.722, de 1998, que o Congresso Nacional aprovou, e eu, Antonio Carlos Magalhães, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
