@@ -1,0 +1,1 @@
+Art. 19 - Competem aos arquivos do Poder Legislativo Federal a gestão e o recolhimento dos documentos produzidos e recebidos pelo Poder Legislativo Federal no exercício das suas funções, bem como preservar e facultar o acesso aos documentos sob sua guarda.
