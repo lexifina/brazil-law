@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 36, de 5 de abril de 2001
+Dispõe sobre a aplicação do regime de admissão temporária a bens destinados a serviços de inspeção e reparos a serem executados durante a parada da Usina Nuclear de Angra 1, para recarregamento e manutenção.
+O SECRETÁRIO DA RECEITA FEDERAL - SUBSTITUTO, no uso da atribuição que lhe confere o inciso XIX do art. 190 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF No 227, de 3 de setembro de 1998, e tendo em vista o disposto no art. 452 e no inciso I do art. 453 do Regulamento Aduaneiro, aprovado pelo Decreto No 91.030, de 5 de março de 1985, resolve:
