@@ -1,0 +1,1 @@
+Art. 1º - O Orçamento Plurianual de Investimentos para o triênio 1984/1986, em conformidade com o disposto no parágrafo único do artigo 60 da Constituição, estima, para o período, despesas de capital no montante de Cr$14.313.349.024.000,00 (quatorze trilhões, trezentos e treze bilhões, trezentos e quarenta e nove milhões e vinte e quatro mil cruzeiros), a preços de 1984.
