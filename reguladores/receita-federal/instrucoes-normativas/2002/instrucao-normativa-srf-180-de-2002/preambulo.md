@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 180, de 24 de julho de 2002
+Estabelece normas complementares à Portaria MF no 204, de 22 de agosto de 1996, que dispõe sobre a instalação e o funcionamento de lojas francas no País
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF no 259, de 24 de agosto de 2001, considerando o disposto no art. 39 da Portaria MF no 204, de 22 de agosto de 1996, e tendo em vista o art. 6o da Lei no 9.826, de 23 de agosto de 1999, com as alterações promovidas pelo art. 30 da Medida Provisória no 38, de 14 de maio de 2002, resolve:
