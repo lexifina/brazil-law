@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF06 nº 76, de 7 de maio de 2001
+Assunto: Imposto sobre a Renda Retido na Fonte - IRRF Ementa: JUROS SOBRE CAPITAL PRÓPRIO Os juros pagos ou creditados, a título de remuneração do capital próprio, a sócio residente no Japão, não se enquadram na hipótese prevista no art. 10 da Convenção Destinada a Evitar a Dupla Tributação firmada entre o Brasil e aquele País e são, portanto, tributados à alíquota de 15% (quinze por cento). Dispositivos Legais: Art. 10 Decreto nº 61.899, de 14 de dezembro de 1967; Decreto Legislativo nº 69, de 14 de setembro de 1976, art. 2º do RIR/1994, arts. 346 e 668.
+[arquivo anexo: SC SRRF06-Disit nº 76-2001.pdf]
