@@ -1,0 +1,5 @@
+LEI Nº 6.292, DE 3 DE ABRIL DE 2002.
+
+CRIA O FUNDO DE DESENVOLVIMENTO DE AÇÕES CULTURAIS E ADOTA PROVIDÊNCIAS CORRELATAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
