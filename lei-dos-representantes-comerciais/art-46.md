@@ -1,0 +1,1 @@
+Art. 46. Os valores a que se referem a alínea j do art. 27, o § 5º do art. 32 e o art. 34 desta lei serão corrigidos monetariamente com base na variação dos BTNs ou por outro indexador que venha a substituí-los e legislação ulterior aplicável à matéria.

@@ -1,0 +1,2 @@
+Art. 47. Compete ao Conselho Federal dos Representantes Comerciais fiscalizar a execução da presente lei.
+Parágrafo único. Em caso de inobservância das prescrições legais, caberá intervenção do Conselho Federal nos Conselhos Regionais, por decisão da Diretoria do primeiro ad referendum da reunião plenária, assegurado, em qualquer caso, o direito de defesa. A intervenção cessará quando do cumprimento da lei.

@@ -5,4 +5,3 @@ c) manter o cadastro profissional;
 d) expedir as carteiras profissionais e anotá-las, quando necessário;
 e) impor as sanções disciplinares previstas nesta Lei, mediante a feitura de processo adequado, de acôrdo com o disposto no artigo 18;
 f) fixar as contribuições e emolumentos que serão devidos pelos representantes comerciais, pessoas físicas ou jurídicas, registrados.
-Parágrafo único. As contribuições e emolumentos, previstos na alínea "f" dêste artigo, não poderão exceder, mensalmente, de cinco (5) e dez por cento (10%) do salário-mínimo vigente na região, quando se tratar, respectivamente, de representante comercial, pessoa física ou pessoa jurídica.

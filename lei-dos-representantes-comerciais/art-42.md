@@ -1,1 +1,5 @@
-Art. 42. Esta lei entra em vigor na data de sua publicação.
+Art. 42. Observadas as disposições constantes do artigo anterior, é facultado ao representante contratar com outros representantes comerciais a execução dos serviços relacionados com a representação.
+§ 1º Na hipótese deste artigo, o pagamento das comissões a representante comercial contratado dependerá da liquidação da conta de comissão devida pelo representando ao representante contratante.
+§ 2º Ao representante contratado, no caso de rescisão de representação, será devida pelo representante contratante a participação no que houver recebido da representada a título de indenização e aviso prévio, proporcionalmente às retribuições auferidas pelo representante contratado na vigência do contrato.
+§ 3º Se o contrato referido no caput deste artigo for rescindido sem motivo justo pelo representante contratante, o representante contratado fará jus ao aviso prévio e indenização na forma da lei.
+§ 4º Os prazos de que trata o art. 33 desta lei são aumentados em dez dias quando se tratar de contrato realizado entre representantes comerciais.

@@ -1,1 +1,1 @@
-Art. 39. Para julgamento das controvérsias que surgirem entre representante e representado, é competente a Justiça Comum.
+Art. 39. Para julgamento das controvérsias que surgirem entre representante e representado é competente a Justiça Comum e o foro do domicílio do representante, aplicando-se o procedimento sumaríssimo previsto no art. 275 do Código de Processo Civil, ressalvada a competência do Juizado de Pequenas Causas.

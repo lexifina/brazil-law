@@ -1,0 +1,1 @@
+Art. 45. Não constitui motivo justo para rescisão do contrato de representação comercial o impedimento temporário do representante comercial que estiver em gozo do benefício de auxílio-doença concedido pela previdência social.
