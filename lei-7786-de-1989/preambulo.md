@@ -1,0 +1,2 @@
+Altera o art. 5º do Decreto-Lei nº 2.290, de 21 de novembro de 1986, modificado pelo Decreto-Lei nº 2.306, de 18 de dezembro de 1986.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 66, de 1989, que o Congresso Nacional aprovou, e eu, Nelson Carneiro, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
