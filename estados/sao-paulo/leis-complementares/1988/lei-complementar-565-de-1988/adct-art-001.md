@@ -1,0 +1,2 @@
+## Disposições Transitórias
+Artigo 1º - O funcionário ou servidor que estiver percebendo retribuição global mensal superior à retribuição pecuniária instituída por esta lei complementar seja qual for a origem das vantagens pecuniárias que estiver auferindo, terá o excesso considerado como vantagem pessoal.

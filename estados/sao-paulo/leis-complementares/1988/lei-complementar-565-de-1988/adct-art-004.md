@@ -1,0 +1,1 @@
+Artigo 4º - Até que seja realizado o próximo concurso público e providos os cargos de Técnico Administrativo Tributário, poderão os Auxiliares Administrativos Tributários, em caráter excepcional e no interesse do serviço público, ser designados para o exercício das funções a que se refere o artigo 12, desde que seja observada a exigência constante do inciso II do artigo 21.
