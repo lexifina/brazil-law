@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 407, de 17 de março de 2004
+Dispõe sobre a retenção na fonte do imposto de renda incidente sobre rendimentos e ganhos de capital, quando o beneficiário for residente ou domiciliado no exterior.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 83 da Lei nº 8.981, de 20 de janeiro de 1995, nos arts. 10 e 18 da Lei nº 9.249, de 26 de dezembro de 1995, no art. 7º da Lei nº 9.959, de 27 de janeiro de 2000, e nos arts. 26, 47 e 93 da Lei nº 10.833, de 29 de dezembro de 2003, resolve:
