@@ -1,0 +1,1 @@
+Art. 26. São isentas de impostos federais, estaduais e municipais, inclusive do Distrito Federal, as operações de transferência de imóveis desapropriados para fins de reforma agrária, bem como a transferência ao beneficiário do programa.

@@ -1,0 +1,3 @@
+Art. 23. O estrangeiro residente no País e a pessoa jurídica autorizada a funcionar no Brasil só poderão arrendar imóvel rural na forma da Lei nº 5.709, de 7 de outubro de 1971.
+§ 1º Aplicam-se ao arrendamento todos os limites, restrições e condições aplicáveis à aquisição de imóveis rurais por estrangeiro, constantes da lei referida no caput deste artigo.
+§ 2º Compete ao Congresso Nacional autorizar tanto a aquisição ou o arrendamento além dos limites de área e percentual fixados na Lei nº 5.709, de 7 de outubro de 1971, como a aquisição ou arrendamento, por pessoa jurídica estrangeira, de área superior a 100 (cem) módulos de exploração indefinida.
