@@ -1,0 +1,2 @@
+Altera a Lei nº 8.989, de 24 de fevereiro de 1995 que "dispõe sobre a isenção do Imposto Sobre Produtos Industrializados - IPI, na aquisição de automóveis para utilização no transporte autônomo de passageiros, bem como por pessoas portadoras de deficiência física e aos destinados ao transporte escolar, e dá outras providências" e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
