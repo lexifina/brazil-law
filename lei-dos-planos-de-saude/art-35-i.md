@@ -1,0 +1,1 @@
+Art. 35-I. Responderão subsidiariamente pelos direitos contratuais e legais dos consumidores, prestadores de serviço e fornecedores, além dos débitos fiscais e trabalhistas, os bens pessoais dos diretores, administradores, gerentes e membros de conselhos da operadora de plano privado de assistência à saúde, independentemente da sua natureza jurídica.

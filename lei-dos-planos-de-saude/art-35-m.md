@@ -1,0 +1,1 @@
+Art. 35-M. As operadoras de produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei poderão celebrar contratos de resseguro junto às empresas devidamente autorizadas a operar em tal atividade, conforme estabelecido na Lei nº 9.932, de 20 de dezembro de 1999, e regulamentações posteriores.
