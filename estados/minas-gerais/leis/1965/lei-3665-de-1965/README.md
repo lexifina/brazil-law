@@ -1,0 +1,6 @@
+# Lei nº 3.665, de 3 de dezembro de 1965, do Estado de Minas Gerais
+
+CRIA O CONSERVATÓRIO DE MÚSICA DE SANTOS DUMONT E DÁ OUTRAS
+PROVIDÊNCIAS.
+
+Fonte: ALMG, Legislação Mineira (Dados Abertos), <https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/3665/1965?formato=json>
