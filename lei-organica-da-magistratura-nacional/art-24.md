@@ -1,0 +1,2 @@
+Art. 24 - O Juíz togado, de investidura temporária (art. 17, § 4º), poderá ser demitido, em caso de falta grave, por proposta do Tribunal ou do órgão especial, adotado pelo voto de dois terços de seus membros efetivos.
+Parágrafo único - O quorum de dois terços de membros efetivos do Tribunal, ou de seu órgão especial, será apurado em relação ao número de Desembargadores em condições legais de votar, como tal se considerando os não atingidos por impedimento ou suspeição e os não licenciados por motivo de saúde.

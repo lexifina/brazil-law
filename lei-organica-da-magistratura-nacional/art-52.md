@@ -1,0 +1,8 @@
+Art. 52 - A reclamação contra membro de Tribunal será formulada em petição, devidamente fundamentada e acompanhada de elementos comprobatórios das alegações.
+§ 1º - A petição a que se refere este artigo deve ter firma reconhecida, sob pena de arquivamento liminar, salvo se assinada pelo Procurador-Geral da República, pelo Presidente do Conselho Federal ou Seccional da Ordem dos Advogados do Brasil ou pelo Procurador-Geral da Justiça do Estado.
+§ 2º - Distribuída a reclamação, poderá o relator, desde logo, propor ao Conselho o arquivamento, se considerar manifesta a sua improcedência.
+§ 3º - Caso o relator não use da faculdade, prevista no parágrafo anterior mandará ouvir o reclamado, no prazo de quinze dias, a fim de que, por si ou por procurador, alegue, querendo, o que entender conveniente a bem de seu direito.
+§ 4º - Com a resposta do reclamado, ou sem ela, deliberará o Conselho sobre o arquivamento ou a conveniência de melhor instrução do processo, fixando prazo para a produção de provas e para as diligências que determinar.
+§ 5º - Se desnecessárias outras provas ou diligências, e se o Conselho não concluir pelo arquivamento da reclamação, abrir-se-á vista para alegações, sucessivamente, pelo prazo de dez dias, ao reclamado, ou a seu advogado, e ao Procurador-Geral da República.
+§ 6º - O julgamento será realizado em sessão secreta do Conselho, com a presença de todos os seus membros, publicando-se somente a conclusão do acórdão.
+§ 7º - Em todos os atos e termos do processo, poderá o reclamado fazer-se acompanhar ou representar por advogado, devendo o Procurador-Geral da República oficiará neles como fiscal da lei.

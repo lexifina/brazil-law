@@ -1,0 +1,4 @@
+Art. 3º - O Conselho Nacional da Magistratura, com sede na Capital da União e jurisdição em todo o território nacional, compõe-se de sete Ministros do Supremo Tribunal Federal, por este escolhidos, mediante votação nominal para um período de dois anos, inadmitida a recusa do encargo.
+§ 1º - A eleição far-se-á juntamente com a do Presidente e Vice-Presidente do Supremo Tribunal Federal, os quais passam a integrar, automaticamente, o Conselho, nele exercendo as funções de Presidente e Vice-Presidente, respectivamente.
+§ 2º - Os Ministros não eleitos poderão ser convocados pelo Presidente, observada a ordem decrescente de antigüidade, para substituir os membros do Conselho, nos casos de impedimento ou afastamento temporário.
+§ 3º - Junto ao Conselho funcionará o Procurador-Geral da República.

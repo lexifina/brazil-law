@@ -1,0 +1,1 @@
+Art. 10 - Os Juízes do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais, bem como os respectivos substitutos, escolhidos na mesma ocasião e por igual processo, salvo motivo justificado, servirão, obrigatoriamente, por dois anos, no mínimo, e nunca por mais de dois biênios consecutivos.

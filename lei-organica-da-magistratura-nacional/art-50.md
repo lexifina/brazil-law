@@ -1,0 +1,1 @@
+Art. 50 - Ao Conselho Nacional da Magistratura cabe conhecer de reclamações contra membros de Tribunais, podendo avocar processos disciplinares contra Juízes de primeira instância e, em qualquer caso, determinar a disponibilidade ou a aposentadoria de uns e outros, com vencimentos proporcionais ao tempo de Serviço.

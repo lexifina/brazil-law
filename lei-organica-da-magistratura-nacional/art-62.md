@@ -1,0 +1,1 @@
+Art. 62 - Os Ministros militares togados do Superior Tribunal Militar, bem como os Ministros do Tribunal Superior do Trabalho, têm vencimentos iguais aos dos Ministros do Tribunal Federal de Recursos.

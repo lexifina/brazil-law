@@ -1,0 +1,1 @@
+Art. 64 - Os vencimentos dos magistrados estaduais serão pagos na mesma data fixada para o pagamento dos vencimentos dos Secretários de Estado ou dos subsídios dos membros do Poder Legislativo, considerando-se que desater de às garantias do Poder judiciário atraso que ultrapasse o décimo dia útil do mês seguinte ao vencido.

@@ -1,0 +1,1 @@
+Art. 20 - Os Juízes de Direito e os Juízes substitutos da Justiça do Distrito Federal e dos Territórios, vitalícios após dois anos de exercício, investido mediante concurso público de provas e títulos, e os Juízes togados temporários, todos nomeados pelo Presidente da República, têm a sede, a jurisdição e a competência prescritas em lei.

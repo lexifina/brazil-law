@@ -1,0 +1,1 @@
+Art. 2º - O Supremo Tribunal Federal, com sede na Capital da União e jurisdição em todo o território nacional, compõem-se de onze Ministros vitalícios, nomeados pelo Presidente da República, depois de aprovada a escolha pelo Senado Federal, dentre cidadãos maiores de trinta e cinco anos, de notável saber jurídico e reputação ilibada.

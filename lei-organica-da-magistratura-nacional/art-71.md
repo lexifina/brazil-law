@@ -1,0 +1,2 @@
+Art. 71 - O magistrado licenciado não pode exercer qualquer das suas funções jurisdicionais ou administrativas, nem exercitar qualquer função pública ou particular (vetado).
+Parágrafo único - Salvo contra-indicação médica, o magistrado licenciado poderá proferir decisões em processos que, antes da licença, Ihe hajam sido conclusos para julgamento ou tenham recebido o seu visto como relator ou revisor.

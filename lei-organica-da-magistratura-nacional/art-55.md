@@ -1,0 +1,1 @@
+Art. 55 - As reuniões do Conselho Nacional da Magistratura serão secretas, cabendo a um de seus membros, designado pelo Presidente, lavrar-lhes as respectivas atas, das quais constarão os nomes dos Juízes presentes e, em resumo, os processos apreciados e as decisões adotadas.
