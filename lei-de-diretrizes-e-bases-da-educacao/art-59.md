@@ -1,0 +1,6 @@
+Art. 59. Os sistemas de ensino assegurarão aos educandos com necessidades especiais:
+I - currículos, métodos, técnicas, recursos educativos e organização específicos, para atender às suas necessidades;
+II - terminalidade específica para aqueles que não puderem atingir o nível exigido para a conclusão do ensino fundamental, em virtude de suas deficiências, e aceleração para concluir em menor tempo o programa escolar para os superdotados;
+III - professores com especialização adequada em nível médio ou superior, para atendimento especializado, bem como professores do ensino regular capacitados para a integração desses educandos nas classes comuns;
+IV - educação especial para o trabalho, visando a sua efetiva integração na vida em sociedade, inclusive condições adequadas para os que não revelarem capacidade de inserção no trabalho competitivo, mediante articulação com os órgãos oficiais afins, bem como para aqueles que apresentam uma habilidade superior nas áreas artística, intelectual ou psicomotora;
+V - acesso igualitário aos benefícios dos programas sociais suplementares disponíveis para o respectivo nível do ensino regular.

@@ -1,0 +1,1 @@
+Art. 76. A ação supletiva e redistributiva prevista no artigo anterior ficará condicionada ao efetivo cumprimento pelos Estados, Distrito Federal e Municípios do disposto nesta Lei, sem prejuízo de outras prescrições legais.

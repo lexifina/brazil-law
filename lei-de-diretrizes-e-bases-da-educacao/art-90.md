@@ -1,0 +1,1 @@
+Art. 90. As questões suscitadas na transição entre o regime anterior e o que se institui nesta Lei serão resolvidas pelo Conselho Nacional de Educação ou, mediante delegação deste, pelos órgãos normativos dos sistemas de ensino, preservada a autonomia universitária.

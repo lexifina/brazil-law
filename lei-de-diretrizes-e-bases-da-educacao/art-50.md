@@ -1,0 +1,1 @@
+Art. 50. As instituições de educação superior, quando da ocorrência de vagas, abrirão matrícula nas disciplinas de seus cursos a alunos não regulares que demonstrarem capacidade de cursá-las com proveito, mediante processo seletivo prévio.

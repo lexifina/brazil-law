@@ -1,0 +1,3 @@
+Art. 33. O ensino religioso, de matrícula facultativa, constitui disciplina dos horários normais das escolas públicas de ensino fundamental, sendo oferecido, sem ônus para os cofres públicos, de acordo com as preferências manifestadas pelos alunos ou por seus responsáveis, em caráter:
+I - confessional, de acordo com a opção religiosa do aluno ou do seu responsável, ministrado por professores ou orientadores religiosos preparados e credenciados pelas respectivas igrejas ou entidades religiosas; ou
+II - interconfessional, resultante de acordo entre as diversas entidades religiosas, que se responsabilizarão pela elaboração do respectivo programa.
