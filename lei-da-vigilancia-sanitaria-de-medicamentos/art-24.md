@@ -1,2 +1,2 @@
-Art. 24 - Estão igualmente isentos de registro os medicamentos novos, destinados exclusivamente a uso experimental, sob controle médico, podendo, inclusive, ser importados mediante expressa autorização do Ministério da Saúde.
+Art. 24. Estão isentos de registro os medicamentos novos, destinados exclusivamente a uso experimental, sob controle médico, podendo, inclusive, ser importados mediante expressa autorização do Ministério da Saúde.
 Parágrafo único. A isenção prevista neste artigo só será válida pelo prazo de até 3 (três) anos, findo o qual o produto ficará obrigado ao registro, sob pena de apreensão determinada pelo Ministério da Saúde.
