@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF06 nº 108, de 12 de junho de 2001
+Assunto: Imposto sobre a Importação - II Ementa: ADMISSÃO TEMPORÁRIA. IMPOSTOS PROPORCIONAIS. BENS USADOS Podem ser submetidos ao regime de admissão temporária, com pagamento dos impostos federais incidentes na importação proporcionalmente ao tempo de permanência no País, os bens destinados à prestação de serviços ou à produção de outros bens, mesmo que usados. Para o cálculo dos impostos a serem pagos, o tempo de vida útil do bem a ser admitido no regime será o previsto na IN SRF nº 162/1998, quer sejam os bens novos ou usados. Dispositivos Legais: Artigos 2º, 3º e 7º da IN SRF nº 150/1999, AD SRF nº 98/2000, IN SRF 162/1998.
+[arquivo anexo: SC SRRF06-Disit nº 108-2001.pdf]
