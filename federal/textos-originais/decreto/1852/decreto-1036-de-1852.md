@@ -1,0 +1,11 @@
+# Decreto nº 1.036, de 28/08/1852
+
+DECRETO Nº 1.036 - de 28 de Agosto de 1852
+
+Approva as alterações propostas em alguns Artigos dos Estatutos do Banco Commercial do Rio de Janeiro.
+
+Attendendo ao que Me representou a Direcção do Banco Commercial do Rio de Janeiro, e Tendo ouvido a Secção de Fazenda do Conselho d'Estado: Hei por bem Approvar as seguintes alterações feitas aos Estatutos do mesmo Banco. Aos Artigos 34 e 35. «O Banco será administrado por cinco Directores, que serão Accionistas de 20 acções pelo menos. (Art. 10), e haverão tambem cinco Supplentes nas mesmas circunstancias para convenientemente os substituir. A Direcção e os Supplentes serão eleitos annualmente na segunda Sessão ordinaria da Assembléa Geral, e a eleição se fará por escrutinio secreto nos seguintes termos: dos cinco Directores que estiverem em exercicio serão reeleitos tres em huma só lista, e declarados os nomes dos que tiverem obtido a reeleição, proceder-se-ha a huma segunda eleição por lista, que deverá conter sete nomes de Accionistas, que estejão nas circunstancias de serem votados, sem exclusão dos mesmos Directores em exercicio, que não houverem obtido maioria na primeira eleição; e apurado este segundo escrutinio, os dous Accionistas mais votados com os Directores reeleitos formarão a Direcção, e os cinco immediatos serão considerados Supplentes.» Ao Art. 49. «As operações de contas correntes, ou depositos de moeda corrente sem designação de especie se farão d'ora em diante livres da commissão exigida por este Artigo.» Ao Art. 55. «A Direcção fica autorisada, quando as circunstancias o aconselharem, a elevar até 6 mezes o prazo marcado no Art. 55 para o desconto das letras e titulos de que trata o mesmo Artigo». Joaquim José Rodrigues Torres, do Meu Conselho, Senador do lmperio, Presidente do Conselho de Ministros, Ministro e Secretario d'Estado dos Negocios da Fazenda, e Presidente do Tribunal do Thesouro Nacional, assim o tenha entendido, e faca executar. Palacio do Rio de Janeiro aos vinte e oito dias do mez de Agosto de mil oitocentos cincoenta e dous, trigesimo primeiro da Independencia e do Imperio.
+
+Com a Rubrica de Sua Magestade o Imperador.
+
+Joaquim José Rodrigues Torres.
