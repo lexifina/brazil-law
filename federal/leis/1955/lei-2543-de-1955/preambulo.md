@@ -1,0 +1,3 @@
+Lei Nº 2.543, DE 14 dE JULho dE 1955
+DISPÕE SÔBRE A RÊDE FERROVIÁRIA DO NORDESTE, E DÁ OUTRAS PROVIDÊNCIAS.
+O PRESIDENTE DA REPÚBLICA, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte lei:
