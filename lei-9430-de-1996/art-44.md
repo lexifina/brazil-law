@@ -7,6 +7,9 @@ II - isoladamente, quando o tributo ou a contribuição houver sido pago após o
 III - isoladamente, no caso de pessoa física sujeita ao pagamento mensal do imposto (carnê-leão) na forma do art. 8º da Lei nº 7.713, de 22 de dezembro de 1988, que deixar de fazê-lo, ainda que não tenha apurado imposto a pagar na declaração de ajuste;
 IV - isoladamente, no caso de pessoa jurídica sujeita ao pagamento do imposto de renda e da contribuição social sobre o lucro líquido, na forma do art. 2º, que deixar de fazê-lo, ainda que tenha apurado prejuízo fiscal ou base de cálculo negativa para a contribuição social sobre o lucro líquido, no ano-calendário correspondente;
 V - isoladamente, no caso de tributo ou contribuição social lançado, que não houver sido pago ou recolhido.
-§ 2º Se o contribuinte não atender, no prazo marcado, à intimação para prestar esclarecimentos, as multas a que se referem os incisos I e II do caput passarão a ser de cento e doze inteiros e cinco décimos por cento e de duzentos e vinte e cinco por cento, respectivamente.
+§ 2º As multas a que se referem os incisos I e II do caput passarão a ser de cento e doze inteiros e cinco décimos por cento e duzentos e vinte e cinco por cento, respectivamente, nos casos de não atendimento pela sujeito passivo, no prazo marcado, de intimação para:
+a) prestar esclarecimentos;
+b) apresentar os arquivos ou sistemas de que tratam os arts. 11 a 13 da Lei nº 8.218, de 29 de agosto de 1991, com as alterações introduzidas pela art. 62 da Lei nº 8.383, de 30 de dezembro de 1991;
+c) apresentar a documentação técnica de que trata o art. 38.
 § 3º Aplicam-se às multas de que trata este artigo as reduções previstas no art. 6º da Lei nº 8.218, de 29 de agosto de 1991, e no art. 60 da Lei nº 8.383, de 30 de dezembro de 1991.
 § 4º As disposições deste artigo aplicam-se, inclusive, aos contribuintes que derem causa a ressarcimento indevido de tributo ou contribuição decorrente de qualquer incentivo ou benefício fiscal.
