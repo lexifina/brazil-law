@@ -1,0 +1,10 @@
+Parecer Normativo CST nº 9, de 13 de fevereiro de 1979
+IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS
+4.19.02.01 - ESTÍMULOS À EXPORTAÇÃO - CÁLCULO DO CRÉDITO - BASE DE CÁLCULO
+Embora, em tese, quaisquer despesas sejam admissíveis na formação do preço FOB, para fins de cálculo de incentivos à exportação, fica sua validade subordinada à aceitação pela CACEX e ao pagamento, sem impugnação, pelo importador.
+1 - Em estudo, a natureza das despesas admissíveis na formação do valor FOB de mercadorias exportadas, para efeito de cálculo do estímulo à exportação de que trata o Art. 1º do Decreto nº 64.833, de 17 de julho de 1969, com a redação dada pelo Decreto nº 78.986, de 21 de dezembro de 1976. Também, em análise, hipóteses de obrigatoriedade de estorno parcial de tais créditos.
+2 - FOB (Free on Board) é a abreviatura inglesa de uma das Cláusulas que usualmente integram os contratos de compra e venda internacionais, indicando correrem por conta do vendedor as despesas feitas até à colocação da mercadoria a bordo do veículo que a deva transportar. Quaisquer despesas, portanto, podem ser incluídas no valor FOB, desde que evidentemente, comprador e vendedor concordem com essa inclusão.
+2.1 - Inexistindo disposição legal expressa em sentido contrário, nenhuma razão há para que se entenda não se poder incluir no valor FOB, para fins de cálculo do incentivo à exportação, qualquer tipo de despesa.
+3 - Há de se ressalvar, todavia, que, para tais efeitos, fica a aceitação definitiva de tal valor vinculada a um requisito prévio e a uma condição a ser preenchida após a exportação.
+3.1 - Consiste o requisito na aceitação, pelo órgão competente para efetuar o controle dos preços do comércio exterior, a Carteira de Comércio Exterior do Banco do Brasil (CACEX), do referido preço, o que é feito expressamente na própria "Guia de Exportação".
+3.2 - Quanto à condição, é a de que o importador efetivamente pague o preço FOB ajustado, devendo o vendedor, na hipótese de concordar com eventuais impugnações e conseqüentes reduções da quantia originária acertada, efetuar o estorno da parcela referente à contestação.
