@@ -10,3 +10,4 @@ VIII - utilizar fontes alternativas de energia, mediante o aproveitamento econô
 IX - promover a livre concorrência;
 X - atrair investimentos na produção de energia;
 XI - ampliar a competitividade do País no mercado internacional.
+XII - incrementar, em bases econômicas, sociais e ambientais, a participação dos biocombustíveis na matriz energética nacional.
