@@ -1,0 +1,3 @@
+Art. 42. As concessões de serviço público outorgadas anteriormente à entrada em vigor desta Lei consideram-se válidas pelo prazo fixado no contrato ou no ato de outorga, observado o disposto no art. 43 desta Lei.
+§ 1º Vencido o prazo da concessão, o poder concedente procederá a sua licitação, nos termos desta Lei.
+§ 2º As concessões em caráter precário, as que estiverem com prazo vencido e as que estiverem em vigor por prazo indeterminado, inclusive por força de legislação anterior, permanecerão válidas pelo prazo necessário à realização dos levantamentos e avaliações indispensáveis à organização das licitações que precederão a outorga das concessões que as substituirão, prazo esse que não será inferior a 24 (vinte e quatro) meses.
