@@ -1,0 +1,1 @@
+Art. 530-F. Ressalvada a possibilidade de se preservar o corpo de delito, o juiz poderá determinar, a requerimento da vítima, a destruição da produção ou reprodução apreendida quando não houver impugnação quanto à sua ilicitude ou quando a ação penal não puder ser iniciada por falta de determinação de quem seja o autor do ilícito.
