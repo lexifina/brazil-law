@@ -1,1 +1,2 @@
 Art. 29. Os recursos de responsabilidade da União destinados à assistência social serão automaticamente repassados ao Fundo Nacional de Assistência Social (FNAS), à medida que se forem realizando as receitas.
+Parágrafo único. Os recursos de responsabilidade da União destinados ao financiamento dos benefícios de prestação continuada, previstos no art. 20, poderão ser repassados pelo Ministério da Previdência e Assistência Social diretamente ao INSS, órgão responsável pela sua execução e manutenção.
