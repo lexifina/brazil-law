@@ -1,0 +1,2 @@
+Art. 29. A demolição, ordenada pela autoridade marítima, de obra ou benfeitoria será realizada pelo infrator, que arcará também com as despesas referentes à recomposição do local, restaurando as condições anteriormente existentes para a navegação.
+Parágrafo único. A autoridade marítima poderá providenciar diretamente a demolição de obra e a recomposição do local, por seus próprios meios ou pela contratação de terceiros, às expensas do infrator.

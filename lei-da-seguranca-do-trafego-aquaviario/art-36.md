@@ -1,0 +1,1 @@
+Art. 36. As normas decorrentes desta Lei obedecerão, no que couber, aos atos e resoluções internacionais ratificados pelo Brasil, especificamente aos relativos à salvaguarda da vida humana nas águas, à segurança da navegação e ao controle da poluição ambiental causada por embarcações.
