@@ -1,0 +1,29 @@
+DECISÃO: Cuida-se de habeas corpus impetrado em favor de Felipe
+   Rodrigues da Costa contra decisão da lavra do Ministro Nilson
+   Naves, do Superior Tribunal de Justiça, que indeferiu medida
+   liminar nos autos do HC 37.532.
+É pacífica a jurisprudência
+   desta Corte no sentido da inadmissibilidade da impetração de
+   habeas corpus na hipótese dos autos - habeas corpus contra
+   decisões denegatórias de liminar em tribunais, antes do
+   julgamento definitivo do writ, sob pena de supressão de instância
+   (cf. HC 79.776, Rel. Min. Moreira Alves, DJ 03.03.00; HC(QO)
+   76.347, Rel. Min. Moreira Alves, DJ 08.05.98; HC 79.238, DJ
+   06.08.99, Rel. Min. Moreira Alves; HC 79.748, Rel. Min. Celso de
+   Mello, DJ 23.06.00; e HC 79.775, Rel. Min. Maurício Corrêa, DJ
+   17.03.00). Esse entendimento restou consolidado na Súmula nº 691,
+   recentemente aprovada por esta Corte ("Não compete ao Supremo
+   Tribunal Federal conhecer de habeas corpus impetrado contra
+   decisão do Relator que, em habeas corpus requerido a tribunal
+   superior, indefere a liminar").
+Na linha da jurisprudência
+   firmada por esta Corte, nego seguimento ao presente habeas corpus
+   (art. 21, § 1º, do RI/STF).
+Resta prejudicado o exame do
+   pedido de liminar.
+Intime-se. Publique-se.
+   Arquive-se.
+Brasília, 27 de agosto de 2004.
+Ministro
+   GILMAR MENDES
+Relator
