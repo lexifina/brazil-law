@@ -1,0 +1,2 @@
+Art. 46. Os livros, fichas, documentos, papéis, microfilmes e sistemas de computação deverão permanecer sempre sob a guarda e responsabilidade do titular de serviço notarial ou de registro, que zelará por sua ordem, segurança e conservação.
+Parágrafo único. Se houver necessidade de serem periciados, o exame deverá ocorrer na própria sede do serviço, em dia e hora adrede designados, com ciência do titular e autorização do juízo competente.
