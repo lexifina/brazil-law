@@ -97,12 +97,6 @@ Idades
 56 anos
 Idades
 Idades
-Coronel
-Idades
-Subtenente.
-Idades
-Coronel
-Idades
 Suboficial
 SEÇÃO III
 Da Reforma
