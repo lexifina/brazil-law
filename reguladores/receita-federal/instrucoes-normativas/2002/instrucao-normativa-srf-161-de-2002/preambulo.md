@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 161, de 27 de maio de 2002
+Dispõe sobre o enquadramento de produtos do regime tributário previsto no art. 126 do Decreto nº 2.637, de 1998.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e o art. 128 do Decreto nº 2.637, de 25 de junho de 1998, que regulamenta a cobrança do Imposto sobre Produtos Industrializados (Ripi), com a redação dada pelo Decreto nº 3.490, de 29 de maio de 2000, considerando o que dispõe a Lei nº 7.798, de 10 de julho de 1989, e os arts. 126 e 127 do Decreto nº 2.637, de 1998, resolve:
