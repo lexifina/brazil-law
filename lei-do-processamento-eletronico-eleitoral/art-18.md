@@ -1,0 +1,1 @@
+Art. 18 - O Tribunal Superior Eleitoral expedirá as instruções que se fizerem necessárias para o cumprimento desta Lei, inclusive divulgando entre os Partidos Políticos, os Juízes e os Cartórios Eleitorais manuais de procedimentos detalhando a nova sistemática.
