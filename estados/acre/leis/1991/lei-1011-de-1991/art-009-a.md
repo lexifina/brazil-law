@@ -1,0 +1,1 @@
+Art. 9º-A Descumpridas suas deliberações, o CEDCA representará ao Ministério Público Estadual para as providências cabíveis e aos demais órgãos legitimados no art. 210 da Lei n. 8.069/90. (Incluído pela Lei nº 2.967, de 22/07/2015)
