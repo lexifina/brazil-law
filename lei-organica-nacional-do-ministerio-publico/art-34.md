@@ -1,0 +1,2 @@
+Art. 34. À Comissão de Concurso, órgão auxiliar de natureza transitória, incumbe realizar a seleção de candidatos ao ingresso na carreira do Ministério Público, na forma da Lei Orgânica e observado o art. 129, § 3º, da Constituição Federal.
+Parágrafo único - A Lei Orgânica definirá o critério de escolha do Presidente da Comissão de Concurso de ingresso na carreira, cujos demais integrantes serão eleitos na forma do art. 15, inciso III, desta Lei.

@@ -1,0 +1,1 @@
+Art. 57. Ao cônjuge sobrevivente e, em sua falta, aos herdeiros ou dependentes de membro do Ministério Público, ainda que aposentado ou em disponibilidade, será pago o auxílio-funeral, em importância igual a um mês de vencimentos ou proventos percebidos pelo falecido.

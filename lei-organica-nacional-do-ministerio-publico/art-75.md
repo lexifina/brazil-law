@@ -1,0 +1,2 @@
+Art. 75. Compete ao Procurador-Geral de Justiça, ouvido o Conselho Superior do Ministério Público, autorizar o afastamento da carreira de membro do Ministério Público que tenha exercido a opção de que trata o art. 29, § 3º, do Ato das Disposições Constitucionais Transitórias, para exercer o cargo, emprego ou função de nível equivalente ou maior na Administração Direta ou Indireta.
+Parágrafo único. O período de afastamento da carreira estabelecido neste artigo será considerado de efetivo exercício, para todos os efeitos legais, exceto para remoção ou promoção por merecimento.

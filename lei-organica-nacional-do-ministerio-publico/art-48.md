@@ -1,0 +1,1 @@
+Art. 48. A remuneração dos membros dos Ministérios Públicos dos Estados observará, como limite máximo, os valores percebidos como remuneração, em espécie, a qualquer título, pelos membros do Poder Judiciário local.

@@ -1,0 +1,1 @@
+Art. 20. Os Procuradores de Justiça das Procuradorias de Justiça civis e criminais, que oficiem junto ao mesmo Tribunal, reunir-se-ão para fixar orientações jurídicas, sem caráter vinculativo, encaminhando-as ao Procurador-Geral de Justiça.

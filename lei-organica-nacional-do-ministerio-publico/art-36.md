@@ -1,0 +1,1 @@
+Art. 36. Lei de iniciativa do Procurador-Geral de Justiça disciplinará os órgãos e serviços auxiliares de apoio administrativo, organizados em quadro próprio de carreiras, com os cargos que atendam às suas peculiaridades e às necessidades da administração e das atividades funcionais.

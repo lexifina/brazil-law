@@ -1,0 +1,1 @@
+Art. 47. Os vencimentos dos membros do Ministério Público serão fixados com diferença não excedente a dez por cento de uma para outra entrância ou categoria, ou da entrância mais elevada para o cargo de Procurador-Geral de Justiça, garantindo-se aos Procuradores de Justiça não menos de noventa e cinco por cento dos vencimentos atribuídos ao Procurador-Geral.

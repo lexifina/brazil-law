@@ -1,0 +1,2 @@
+Art. 18. O Corregedor-Geral do Ministério Público será assessorado por Promotores de Justiça da mais elevada entrância ou categoria, por ele indicados e designados pelo Procurador-Geral de Justiça.
+Parágrafo único. Recusando-se o Procurador-Geral de Justiça a designar os Promotores de Justiça que lhe foram indicados, o Corregedor-Geral do Ministério Público poderá submeter a indicação à deliberação do Colégio de Procuradores.

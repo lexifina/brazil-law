@@ -1,0 +1,3 @@
+Art. 66. A reintegração, que decorrerá de sentença transitada em julgado, é o retorno do membro do Ministério Público ao cargo, com ressarcimento dos vencimentos e vantagens deixados de perceber em razão do afastamento, inclusive a contagem do tempo de serviço.
+§ 1º Achando-se provido o cargo no qual será reintegrado o membro do Ministério Público, o seu ocupante passará à disponibilidade, até posterior aproveitamento.
+§ 2º O membro do Ministério Público reintegrado será submetido a inspeção médica e, se considerado incapaz, será aposentado compulsoriamente, com as vantagens a que teria direito se efetivada a reintegração.

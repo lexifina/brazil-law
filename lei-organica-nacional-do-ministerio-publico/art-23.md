@@ -1,0 +1,4 @@
+Art. 23. As Promotorias de Justiça são órgãos de administração do Ministério Público com pelo menos um cargo de Promotor de Justiça e serviços auxiliares necessários ao desempenho das funções que lhe forem cometidas pela Lei Orgânica.
+§ 1º As Promotorias de Justiça poderão ser judiciais ou extrajudiciais, especializadas, gerais ou cumulativas.
+§ 2º As atribuições das Promotorias de Justiça e dos cargos dos Promotores de Justiça que a integram serão fixadas mediante proposta do Procurador-Geral de Justiça, aprovada pelo Colégio de Procuradores de Justiça.
+§ 3º A exclusão, inclusão ou outra modificação nas atribuições das Promotorias de Justiça ou dos cargos dos Promotores de Justiça que a integram serão efetuadas mediante proposta do Procurador-Geral de Justiça, aprovada por maioria absoluta do Colégio de Procuradores.
