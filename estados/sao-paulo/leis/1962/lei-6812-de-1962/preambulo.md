@@ -1,0 +1,3 @@
+# LEI Nº 6.812, DE 15 DE JUNHO DE 1962
+Amplia e define encargos do pessoal do Quadro do Ensino, da Secretaria de Estado dos Negócios da Educação, estabelecendo novas condições de recrutamento, de regime de trabalho e de retribuição e dá outras providências
+Conceição da Costa Neves, Presidente em exercício da Assembléia Legislativa do Estado de São Paulo, tendo em vista a rejeição do veto parcial apôsto pelo Governador do Estado ao Projeto de Lei n. 1.048, de 1961 de que resultou a Lei n. 6.805, de 30 de maio de 1962, promulga, com fundamento no artigo 25, parágrafo único da Constituição do Estado e de acôrdo com o artigo 243, § 2º, do Regimento Interno, a seguinte lei:
