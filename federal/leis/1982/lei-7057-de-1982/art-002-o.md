@@ -1,0 +1,1 @@
+Art. 2º - O benefício instituído por esta Lei é intransferível e inacumulável com quaisquer outros rendimentos recebidos dos cofres públicos, inclusive pensão previdenciária, ressalvado o direito de opção, e extinguir-se-á com a morte da beneficiária.
