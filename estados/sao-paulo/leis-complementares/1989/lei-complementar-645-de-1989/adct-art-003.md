@@ -1,0 +1,1 @@
+Artigo 3º - O cargo ou função-atividade ficará enquadrado, respeitado o grau, na referência determinada no artigo anterior e na Tabela da Escala de Vencimentos, de acordo com a jornada a que está sujeito o funcionário ou servidor.

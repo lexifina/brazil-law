@@ -1,0 +1,2 @@
+Artigo 26-A - Os valores dos vencimentos e salários dos funcionários e servidores, abrangidos por esta lei complementar, ficam fixados de acordo com a Escala de Vencimentos Quadro do Magistério, constituída de 35 (trinta e cinco) referências, correspondendo a cada uma 5 (cinco) graus, e Tabelas, de acordo com a Jornada de Trabalho, na conformidade do Anexo II, que faz parte integrante desta lei complementar.
+Arrigo 26-B - A retribuição pecuniária dos funcionários e servidores abrangidos por esta lei complementar compreende de vencimento ou salário e vantagens pecuniárias.

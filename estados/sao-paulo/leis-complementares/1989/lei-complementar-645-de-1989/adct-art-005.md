@@ -1,0 +1,4 @@
+Artigo 5º - A atribuição de pontos de adicional de Magistério ao funcionário ou servidor integrante do Quadro do Magistério que, a este título, faria jus aos 2,5 (dois e meio) pontos ou completaria 5,0 (cinco) pontos no dia 31 de dezembro de 1989, será feita de acordo com este artigo.
+§ 1º - Fica antecipado para o dia 1º de novembro de 1989 o enquadramento do funcionário ou servidor na referência numérica imediatamente superior aquela em que se encontrar, se o mesmo, a título de adicional de Magistério, iria completar 5 (cinco) pontos no dia 31 de dezembro de 1989.
+§ 2º - será transformado em 1 (um) ano de exercício em atividades do magistério, a que alude o artigo 2º da Lei Complementar nº 444, de 27 de dezembro de 1985, o saldo de pontos de adicional de Magistério, se este for igual a 2,5 (dois e meio) pontos.
+§ 3º - Nas situações previstas neste artigo, deverá ser observado o disposto no artigo 56 da Lei Complementar nº 444, de 27 de dezembro de 1985.
