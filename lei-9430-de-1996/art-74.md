@@ -5,7 +5,7 @@ Art. 74. O sujeito passivo que apurar crédito, inclusive os judiciais com trân
 I - o saldo a restituir apurado na Declaração de Ajuste Anual do Imposto de Renda da Pessoa Física;
 II - os débitos relativos a tributos e contribuições devidos no registro da Declaração de Importação.
 III - os débitos relativos a tributos e contribuições administrados pela Secretaria da Receita Federal que já tenham sido encaminhados à Procuradoria-Geral da Fazenda Nacional para inscrição em Dívida Ativa da União;
-IV - os créditos relativos a tributos e contribuições administrados pela Secretaria da Receita Federal com o débito consolidado no âmbito do Programa de Recuperação Fiscal - Refis, ou do parcelamento a ele alternativo; e
+IV - os créditos relativos a tributos e contribuições administrados pela Secretaria da Receita Federal com débito consolidado em qualquer modalidade de parcelamento concedido por essa Secretaria;
 V - os débitos que já tenham sido objeto de compensação não homologada pela Secretaria da Receita Federal.
 VII - os débitos relativos a tributos e contribuições de valores originais inferiores a R$ 500,00 (quinhentos reais);
 VIII - os débitos relativos ao recolhimento mensal obrigatório da pessoa física apurados na forma do art. 8º da Lei nº 7.713, de 1988; e
