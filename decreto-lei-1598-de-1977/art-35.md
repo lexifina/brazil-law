@@ -5,6 +5,5 @@ b) em cada período-base, no montante do aumento do valor dos bens reavaliados q
 1 - alienação, sob qualquer forma;
 2 - depreciação, amortização ou exaustão;
 3 - baixa por perecimento;
-4 - transferência do ativo permanente para o ativo circulante ou realizável a longo prazo.
 § 2º - O contribuinte deverá discriminar na reserva de reavaliação os bens reavaliados que a tenham originado, em condições de permitir a determinação do valor realizado em cada período.
 § 3º - Será computado na determinação do lucro real o aumento de valor resultante de reavaliação de participação societária que o contribuinte avaliar pelo valor de patrimônio líquido, ainda que a contrapartida do aumento do valor do investimento constitua reserva de reavaliação.
