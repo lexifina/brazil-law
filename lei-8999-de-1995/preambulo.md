@@ -1,0 +1,2 @@
+Dispõe sobre a alocação, em depósitos especiais remunerados, de recursos da disponibilidade financeira do Fundo de Amparo ao Trabalhador (FAT), no Banco do Brasil S.A., e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 885, de 1995, que o Congresso Nacional aprovou, e eu, JOSÉ SARNEY, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
