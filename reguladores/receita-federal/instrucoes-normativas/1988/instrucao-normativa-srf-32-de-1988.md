@@ -1,0 +1,11 @@
+Instrução Normativa SRF nº 32, de 8 de março de 1988
+Dispõe sobre o recolhimento e restituição da Contribuição para o Programa de Integração Social — PIS.
+O Secretário da Receita Federal, no uso da competência que lhe foi delegada pela Portaria MF nº 371, de 29 de julho de 1985, e tendo em vista o disposto no artigo 16 do Decreto-Lei nº 2.052, de 3 de agosto de 1983,
+RESOLVE:
+1. A quitação da contribuição ao PIS-Dedução/IR, quando a empresa tiver direito à restituição do imposto de renda, apurado na declaração de rendimentos, será feita através de repasse da Secretaria da Receita Federal à Caixa Econômica Federal, por ocasião da devolução do imposto pago a maior, conforme disposto na Instrução Normativa do SRF nº 51, de 18 de junho de 1985.
+2. As contribuições devidas ao PIS, sob a forma de antecipações e duodécimos do imposto de renda (antecipações das Contribuições ao PIS-Dedução/IR e PIS-Repique: Decretos-Leis nºs 1.967, de 23 de novembro de 1982, 2.031, de 9 de junho de 1983, e 2.354, de 24 de agosto de 1987), bem como as devidas sob a forma de PIS-Faturamento e PIS-Repique, calculado com base nas quotas do imposto de renda, devem ser recolhidas nos seus respectivos prazos de vencimento, independentemente de o contribuinte ter ou não imposto de renda a ser restituído.
+2.1 quando o contribuinte, a partir do mês de janeiro, constatar, através do resultado apurado em balanço, não ser mais devedor do PIS Dedução/IR e PIS-Repique, poderá deixar de recolher as parcelas dessas contribuições vinculadas aos respectivos duodécimos do imposto de renda.
+3. Os valores recolhidos a maior a título de Contribuições ao PIS-Dedução/IR e PIS-Repique com base nas parcelas de antecipações e duodécimos do imposto de renda, deverão ser restituídos atualizados monetariamente, considerando o valor da OTN do mês da devolução, de maneira que a importância devolvida represente a mesma quantidade de OTN da data do efetivo recolhimento.
+4. A restituição de valores indevidamente recolhidos a título de contribuição ao PIS, independe da comprovação de inexistência de repasses a terceiros.
+5. Esta instrução normativa entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Reinaldo Mustafa
