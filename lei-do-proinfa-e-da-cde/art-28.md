@@ -1,1 +1,1 @@
-Art. 28. A parcela de energia que não for comercializada na forma de que trata o art. 27 deverá ser liquidada no mercado de curto prazo do MAE.
+Art. 28. A parcela de energia elétrica que não for comercializada nas formas previstas no art. 27 desta Lei poderá ser liquidada no mercado de curto prazo do CCEE.

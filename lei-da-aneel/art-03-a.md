@@ -1,0 +1,7 @@
+Art. 3º-A Além das competências previstas nos incisos IV, VIII e IX do art. 29 da Lei nº 8.987, de 13 de fevereiro de 1995, aplicáveis aos serviços de energia elétrica, compete ao Poder Concedente:
+I - elaborar o plano de outorgas, definir as diretrizes para os procedimentos licitatórios e promover as licitações destinadas à contratação de concessionários de serviço público para produção, transmissão e distribuição de energia elétrica e para a outorga de concessão para aproveitamento de potenciais hidráulicos;
+II - celebrar os contratos de concessão ou de permissão de serviços públicos de energia elétrica, de concessão de uso de bem público e expedir atos autorizativos.
+§ 1º No exercício das competências referidas no inciso IV do art. 29 da Lei nº 8.987, de 13 de fevereiro de 1995, e das competências referidas nos incisos I e II do caput deste artigo, o Poder Concedente ouvirá previamente a ANEEL.
+§ 2º No exercício das competências referidas no inciso I do caput deste artigo, o Poder Concedente delegará à ANEEL a operacionalização dos procedimentos licitatórios.
+§ 3º A celebração de contratos e a expedição de atos autorizativos de que trata o inciso II do caput deste artigo poderão ser delegadas à ANEEL.
+§ 4º O exercício pela ANEEL das competências referidas nos incisos VIII e IX do art. 29 da Lei nº 8.987, de 13 de fevereiro de 1995, dependerá de delegação expressa do Poder Concedente.
