@@ -1,0 +1,2 @@
+Artigo 7º - Os ocupantes de cargo de Assistente, do Quadro da Secretaria da Assembléia Legislativa, que contem com efetividade assegurada por lei, terão seus cargos enquadrados na classe de Auxiliar de Administração Pública, Faixa I da Escala de Vencimentos Nível Superior.
+Parágrafo único - Para fins de enquadramento dos cargos mencionados neste artigo, aplicar-se-ão as regras previstas nos artigos 1º, 2º e 3º destas disposições transitórias.

@@ -1,0 +1,1 @@
+Artigo 6º - Os ocupantes de cargo de Analista de Planejamento Orçamentário, do Quadro da Secretaria da Assembléia Legislativa, que contem com efetividade assegurada por lei, terão seus respectivos cargos enquadrados na classe de Agente do Serviço Civil, Faixa 9 da Escala de Vencimentos Nível Superior, no Nível III.

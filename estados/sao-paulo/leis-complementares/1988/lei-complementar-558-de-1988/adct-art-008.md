@@ -1,0 +1,1 @@
+Artigo 8º - Os ocupantes de cargo de Agente Técnico Legislativo de Auditoria, do Quadro da Secretaria da Assembléia Legislativa, que contem com efetividade assegurada por lei, terão seus cargos enquadrados na classe de Agente de Administração Pública, Faixa 6 da Escala de Vencimentos Nível Superior.

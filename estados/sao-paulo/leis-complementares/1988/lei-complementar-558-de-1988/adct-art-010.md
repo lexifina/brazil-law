@@ -1,0 +1,1 @@
+Artigo 10 - Para os efeitos do disposto no § 1º do artigo 13 desta lei complementar, entende-se cumprido o interstício correspondente ao nível, em que o cargo do funcionário ou função-atividade do servidor foi enquadrado, na conformidade dos artigos 1º a 7º destas Disposições Transitórias.
