@@ -1,0 +1,1 @@
+Art. 6º A lei em vigor terá efeito imediato e geral. Não atingirá, entretanto, salvo disposição expressa em contrário, as situações jurídicas definitivamente constituídas e a execução do ato jurídico perfeito.
