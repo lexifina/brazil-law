@@ -1,0 +1,2 @@
+Dispõe sobre a remuneração dos recursos do Fundo Nacional de Desenvolvimento (FND) repassados, sob a forma de empréstimo, à Financiadora de Estudos e Projetos (Finep).
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 912, de 1995, que o Congresso Nacional aprovou, e eu, JOSÉ SARNEY, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
