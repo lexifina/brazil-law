@@ -1,0 +1,3 @@
+LEI Nº 601, DE 18 DE SETEMBRO DE 1850.
+Dispoem sobre as terras devolutas no Imperio, e ácerca das que são possuidas por titulo de sesmaria sem preenchimento das condições legaes, bem como por simples titulo de posse mansa e pacifica; e determina que, medidas e demarcadas as primeiras, sejam ellas cedidas a titulo oneroso assim para emprezas particulares, como para o estabelecimento de Colonias de nacionaes e de estrangeiros, autorisado o Governo a promover a colonisação estrangeira na forma que se declara.
+Dom Pedro Segundo, por Graça de Deos, e Unanime Acclamação dos Povos, Imperador Constitucional e Defensor Perpetuo do Brasil: Fazemos saber a todos os Nossos Subditos, que a Assembléa Geral Decretou, e Nós queremos a Lei seguinte:
