@@ -1,0 +1,2 @@
+Altera o inciso IV do § 4º do art. 7º, inclui os §§ 2º-A e 5º-A ao art. 19, altera o inciso III do § 1º do art. 29, acrescenta o § 4º ao art. 64 e o art. 100-A à Lei nº 10.934, de 11 de agosto de 2004, que dispõe sobre as diretrizes para a elaboração da lei orçamentária de 2005 e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
