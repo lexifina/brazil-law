@@ -1,0 +1,1 @@
+Prorroga o prazo do art. 1º da Lei nº 9.871, de 23 de novembro de 1999, alterado pelas Leis nos 10.164, de 27 de dezembro de 2000, e 10.363, de 28 de dezembro de 2001, referente a ratificação das concessões e alienações de terras feitas pelos Estados em faixa de fronteira, e dá outras providências
