@@ -1,0 +1,5 @@
+Art. 27. As operações de crédito efetuadas por empresas públicas ou sociedades de economia mista controladas pela União não poderão exceder a 70% (setenta por cento) do total das fontes de recursos financeiros da sociedade de propósito específico, sendo que para as áreas das regiões Norte, Nordeste e Centro-Oeste, onde o Índice de Desenvolvimento Humano - IDH seja inferior à média nacional, essa participação não poderá exceder a 80% (oitenta por cento).
+§ 1º Não poderão exceder a 80% (oitenta por cento) do total das fontes de recursos financeiros da sociedade de propósito específico ou 90% (noventa por cento) nas áreas das regiões Norte, Nordeste e Centro-Oeste, onde o Índice de Desenvolvimento Humano - IDH seja inferior à média nacional, as operações de crédito ou contribuições de capital realizadas cumulativamente por:
+I - entidades fechadas de previdência complementar;
+II - empresas públicas ou sociedades de economia mista controladas pela União.
+§ 2º Para fins do disposto neste artigo, entende-se por fonte de recursos financeiros as operações de crédito e contribuições de capital à sociedade de propósito específico.
