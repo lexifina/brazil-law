@@ -1,0 +1,15 @@
+ANEXO Nº 1
+
+POLÍCIA MILITAR DO ESTADO DE MINAS GERAIS
+
+PREVISÃO PARA 1955
+
+ANEXO Nº 2
+
+ORÇAMENTO PESSOAL PARA 1955
+
+8210 – PESSOAL PERMANENTE
+
+OBSERVAÇÃO: A imagem dos anexos está disponível em:
+
+https://mediaserver.almg.gov.br/acervo/174/716/1174716.pdf .
