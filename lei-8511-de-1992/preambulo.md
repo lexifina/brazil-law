@@ -1,0 +1,2 @@
+Autoriza a emissão de títulos do Tesouro Nacional e a abertura, ao Orçamento Fiscal da União, de crédito especial, até o limite de Cr$ 2.550.000.000.000,00, em favor de Operações Oficiais de Crédito Recursos sob Supervisão do Ministério da Economia, Fazenda e Planejamento, para os fins que especifica.
+O PRESIDENTE DA CÂMARA DOS DEPUTADOS no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
