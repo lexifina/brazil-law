@@ -1,1 +1,1 @@
-Art. 34. O processo das contravenções obedecerá ao rito sumário da Lei número 1.508, de 19 de dezembro de 1951.
+Art. 34. Os crimes previstos nesta lei são inafiançáveis e serão apurados mediante processo sumário, aplicando-se no que couber, as normas do Título II, Capítulo V, do Código de Processo Penal.
