@@ -9,7 +9,7 @@ II - submeter alguém, sob sua guarda, poder ou autoridade, com emprego de viol�
 § 3º Se resulta lesão corporal de natureza grave ou gravíssima, a pena é de reclusão de quatro a dez anos; se resulta morte, a reclusão é de oito a dezesseis anos.
 § 4º Aumenta-se a pena de um sexto até um terço:
 I - se o crime é cometido por agente público;
-II - se o crime é cometido contra criança, gestante, deficiente e adolescente;
+II - se o crime é cometido contra criança, gestante, portador de deficiência, adolescente ou maior de 60 (sessenta) anos;
 III - se o crime é cometido mediante seqüestro.
 § 5º A condenação acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.
 § 6º O crime de tortura é inafiançável e insuscetível de graça ou anistia.
