@@ -1,0 +1,1 @@
+Faço saber que o Congresso Nacional rejeitou o veto total aposto ao Projeto de Lei do Senado n° 81, de 1999 (n° 934/99, na Câmara dos Deputados), e eu, ANTONIO CARLOS MAGALHÃES, PRESIDENTE DO SENADO FEDERAL, nos temos do § 7º do art. 66 da Constituição Federal, promulgo a seguinte Lei:
