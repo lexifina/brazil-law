@@ -1,0 +1,1 @@
+Art. 12. O partido político funciona, nas Casas Legislativas, por intermédio de uma bancada, que deve constituir suas lideranças de acordo com o estatuto do partido, as disposições regimentais das respectivas Casas e as normas desta Lei.

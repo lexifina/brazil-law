@@ -1,0 +1,1 @@
+Art. 30. O partido político, através de seus órgãos nacionais, regionais e municipais, deve manter escrituração contábil, de forma a permitir o conhecimento da origem de suas receitas e a destinação de suas despesas.
