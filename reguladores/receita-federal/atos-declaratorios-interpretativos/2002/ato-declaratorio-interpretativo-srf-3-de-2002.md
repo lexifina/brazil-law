@@ -1,0 +1,8 @@
+Ato Declaratório Interpretativo SRF nº 3, de 9 de abril de 2002
+Dispõe sobre a classificação da "nafta normal-parafina" e da "normal-parafina", bem como a incidência da Contribuição de Intervenção do Domínio Econômico (Cide) sobre essas mercadorias.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto na Portaria ANP nº 171, de 20 de outubro de 1999, no "Glossário do Anuário Estatístico Brasileiro do Petróleo e do Gás Natural - 2001", produzido pela Agência Nacional do Petróleo (ANP) e na Nota nº 33 Coana/Cotac/Dinom, de 6 de fevereiro de 2002, declara:
+Art. 1º A nafta petroquímica denominada "nafta normal-parafina" classifica-se no código 2710.11.41 da Nomenclatura Comum do Mercosul (NCM).
+§ 1º A "nafta normal-parafina" não deve ser tomada como equivalente a quaisquer querosenes e pode servir à formulação de gasolina ou diesel.
+§ 2º Na hipótese de servir à formulação de gasolina ou diesel, a "nafta normal-parafina" está sujeita à incidência da Contribuição de Intervenção do Domínio Econômico (Cide - Combustíveis), instituída pela Lei nº 10.336, de 19 de dezembro de 2001, e regulada pela Instrução Normativa SRF nº 107, de 28 de dezembro de 2001.
+Art. 2º A "normal-parafina", conforme definição da ANP, classifica-se no código NCM 2710.19.99, se contiver quantidade igual ou superior a 0,75% de óleo, ou, caso contrário, no código NCM 2712.20.00.
+Parágrafo único. A "normal-parafina" referida no caput deste artigo não se destina à formulação de gasolina ou diesel, não se incluindo, portanto, no campo de incidência da Cide - Combustíveis.
