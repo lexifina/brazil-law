@@ -1,0 +1,1 @@
+Art. 17 - O registro dos produtos de que trata este Título será negado sempre que não atendidas as condições, as exigências e os procedimentos para tal fim previstos em lei, regulamento ou instrução do órgão competente.

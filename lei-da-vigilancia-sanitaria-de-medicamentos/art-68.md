@@ -1,0 +1,2 @@
+Art. 68. A ação de vigilância sanitária abrangerá todo e qualquer produto de que trata esta Lei, inclusive os dispensados de registro, os correlatos, os estabelecimentos de fabricação, distribuição, armazenamento e venda, e os veículos destinados ao transporte dos produtos.
+Parágrafo Único. Ficam igualmente sujeitas à ação de vigilância a propaganda dos produtos e das marcas, por qualquer meio de comunicação, a publicidade, a rotulagem e etiquetagem.

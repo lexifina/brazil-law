@@ -1,0 +1,1 @@
+Art. 28 - O registro dos cosméticos, produtos destinados à higiene pessoal, e outros de finalidades idênticas, que contenham substâncias medicamentosas, embora em dose infraterapêutica, obedecerá às normas constantes dos artigos 16 e suas alíneas, 17, 18 e 19 e seu parágrafo único, 20 e 21 e do Regulamento desta Lei.
