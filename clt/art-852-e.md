@@ -1,0 +1,1 @@
+Art. 852-E. Aberta a sessão, o juiz esclarecerá as partes presentes sobre as vantagens da conciliação e usará os meios adequados de persuasão para a solução conciliatória do litígio, em qualquer fase da audiência.

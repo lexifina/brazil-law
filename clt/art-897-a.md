@@ -1,0 +1,2 @@
+Art. 897-A Caberão embargos de declaração da sentença ou acórdão, no prazo de cinco dias, devendo seu julgamento ocorrer na primeira audiência ou sessão subseqüente a sua apresentação, registrado na certidão, admitido efeito modificativo da decisão nos casos de omissão e contradição no julgado e manifesto equívoco no exame dos pressupostos extrínsecos do recurso.
+Parágrafo único. Os erros materiais poderão ser corrigidos de ofício ou a requerimento de qualquer das partes.
