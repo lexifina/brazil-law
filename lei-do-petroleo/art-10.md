@@ -1,0 +1,1 @@
+Art. 10. Quando, no exercício de suas atribuições, a ANP tomar conhecimento de fato que configure ou possa configurar infração da ordem econômica, deverá comunicá-lo ao Conselho Administrativo de Defesa Econômica - CADE, para que este adote as providências cabíveis, no âmbito da legislação pertinente.

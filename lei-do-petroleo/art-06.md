@@ -1,0 +1,24 @@
+Art. 6º Para os fins desta Lei e de sua regulamentação, ficam estabelecidas as seguintes definições:
+I - Petróleo: todo e qualquer hidrocarboneto líquido em seu estado natural, a exemplo do óleo cru e condensado;
+II - Gás Natural ou Gás: todo hidrocarboneto que permaneça em estado gasoso nas condições atmosféricas normais, extraído diretamente a partir de reservatórios petrolíferos ou gaseíferos, incluindo gases úmidos, secos, residuais e gases raros;
+III - Derivados de Petróleo: produtos decorrentes da transformação do petróleo;
+IV - Derivados Básicos: principais derivados de petróleo, referidos no art. 177 da Constituição Federal, a serem classificados pela Agência Nacional do Petróleo;
+V - Refino ou Refinação: conjunto de processos destinados a transformar o petróleo em derivados de petróleo;
+VI - Tratamento ou Processamento de Gás Natural: conjunto de operações destinadas a permitir o seu transporte, distribuição e utilização;
+VII - Transporte: movimentação de petróleo e seus derivados ou gás natural em meio ou percurso considerado de interesse geral;
+VIII - Transferência: movimentação de petróleo, derivados ou gás natural em meio ou percurso considerado de interesse específico e exclusivo do proprietário ou explorador das facilidades;
+IX - Bacia Sedimentar: depressão da crosta terrestre onde se acumulam rochas sedimentares que podem ser portadoras de petróleo ou gás, associados ou não;
+X - Reservatório ou Depósito: configuração geológica dotada de propriedades específicas, armazenadora de petróleo ou gás, associados ou não;
+XI - Jazida: reservatório ou depósito já identificado e possível de ser posto em produção;
+XII - Prospecto: feição geológica mapeada como resultado de estudos geofísicos e de interpretação geológica, que justificam a perfuração de poços exploratórios para a localização de petróleo ou gás natural;
+XIII - Bloco: parte de uma bacia sedimentar, formada por um prisma vertical de profundidade indeterminada, com superfície poligonal definida pelas coordenadas geográficas de seus vértices, onde são desenvolvidas atividades de exploração ou produção de petróleo e gás natural;
+XIV - Campo de Petróleo ou de Gás Natural: área produtora de petróleo ou gás natural, a partir de um reservatório contínuo ou de mais de um reservatório, a profundidades variáveis, abrangendo instalações e equipamentos destinados à produção;
+XV - Pesquisa ou Exploração: conjunto de operações ou atividades destinadas a avaliar áreas, objetivando a descoberta e a identificação de jazidas de petróleo ou gás natural;
+XVI - Lavra ou Produção: conjunto de operações coordenadas de extração de petróleo ou gás natural de uma jazida e de preparo para sua movimentação;
+XVII - Desenvolvimento: conjunto de operações e investimentos destinados a viabilizar as atividades de produção de um campo de petróleo ou gás;
+XVIII - Descoberta Comercial: descoberta de petróleo ou gás natural em condições que, a preços de mercado, tornem possível o retorno dos investimentos no desenvolvimento e na produção;
+XIX - Indústria do Petróleo: conjunto de atividades econômicas relacionadas com a exploração, desenvolvimento, produção, refino, processamento, transporte, importação e exportação de petróleo, gás natural e outros hidrocarbonetos fluidos e seus derivados;
+XX - Distribuição: atividade de comercialização por atacado com a rede varejista ou com grandes consumidores de combustíveis, lubrificantes, asfaltos e gás liquefeito envasado, exercida por empresas especializadas, na forma das leis e regulamentos aplicáveis;
+XXI - Revenda: atividade de venda a varejo de combustíveis, lubrificantes e gás liquefeito envasado, exercida por postos de serviços ou revendedores, na forma das leis e regulamentos aplicáveis;
+XXII - Distribuição de Gás Canalizado: serviços locais de comercialização de gás canalizado, junto aos usuários finais, explorados com exclusividade pelos Estados, diretamente ou mediante concessão, nos termos do § 2º do art. 25 da Constituição Federal;
+XXIII - Estocagem de Gás Natural: armazenamento de gás natural em reservatórios próprios, formações naturais ou artificiais.

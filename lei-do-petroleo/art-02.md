@@ -1,0 +1,8 @@
+Art. 2º Fica criado o Conselho Nacional de Política Energética - CNPE, vinculado à Presidência da República e presidido pelo Ministro de Estado de Minas e Energia, com a atribuição de propor ao Presidente da República políticas nacionais e medidas específicas destinadas a:
+I - promover o aproveitamento racional dos recursos energéticos do País, em conformidade com os princípios enumerados no capítulo anterior e com o disposto na legislação aplicável;
+II - assegurar, em função das características regionais, o suprimento de insumos energéticos às áreas mais remotas ou de difícil acesso do País, submetendo as medidas específicas ao Congresso Nacional, quando implicarem criação de subsídios;
+III - rever periodicamente as matrizes energéticas aplicadas às diversas regiões do País, considerando as fontes convencionais e alternativas e as tecnologias disponíveis;
+IV - estabelecer diretrizes para programas específicos, como os de uso do gás natural, do álcool, do carvão e da energia termonuclear;
+V - estabelecer diretrizes para a importação e exportação, de maneira a atender às necessidades de consumo interno de petróleo e seus derivados, gás natural e condensado, e assegurar o adequado funcionamento do Sistema Nacional de Estoques de Combustíveis e o cumprimento do Plano Anual de Estoques Estratégicos de Combustíveis, de que trata o art. 4º da Lei nº 8.176, de 8 de fevereiro de 1991.
+§ 1º Para o exercício de suas atribuições, o CNPE contará com o apoio técnico dos órgãos reguladores do setor energético.
+§ 2º O CNPE será regulamentado por decreto do Presidente da República, que determinará sua composição e a forma de seu funcionamento.

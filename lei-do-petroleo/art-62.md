@@ -1,0 +1,2 @@
+Art. 62. A União manterá o controle acionário da PETROBRÁS com a propriedade e posse de, no mínimo, cinqüenta por cento das ações, mais uma ação, do capital votante.
+Parágrafo único. O capital social da PETROBRÁS é dividido em ações ordinárias, com direito de voto, e ações preferenciais, estas sempre sem direito de voto, todas escriturais, na forma do art. 34 da Lei n° 6.404, de 15 de dezembro de 1976.
