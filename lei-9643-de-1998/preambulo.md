@@ -1,0 +1,2 @@
+Isenta do Imposto de Importação e do Imposto sobre Produtos Industrializados partes e peças destinadas industrialização de bens de informática a serem adquiridos pelo Tribunal Superior Eleitoral - TSE.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.593-7, de 1998, que o CONGRESSO NACIONAL aprovou, e eu, ANTONIO CARLOS MAGALHÃES, PRESIDENTE, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
