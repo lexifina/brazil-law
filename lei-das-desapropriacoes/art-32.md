@@ -1,1 +1,1 @@
-Art. 32. O pagamento do preço será feito em moeda corrente. Mas, havendo autorização prévia do Poder Legislativo em cada caso, poderá efetuar-se em títulos da dívida pública federal, admitidos em bolsa, de acordo com a cotação do dia anterior ao do depósito.
+Art. 32. O pagamento do preço será prévio e em dinheiro.
