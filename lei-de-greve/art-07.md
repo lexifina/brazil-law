@@ -1,0 +1,2 @@
+Art. 7º Observadas as condições previstas nesta Lei, a participação em greve suspende o contrato de trabalho, devendo as relações obrigacionais, durante o período, ser regidas pelo acordo, convenção, laudo arbitral ou decisão da Justiça do Trabalho.
+Parágrafo único. É vedada a rescisão de contrato de trabalho durante a greve, bem como a contratação de trabalhadores substitutos, exceto na ocorrência das hipóteses previstas nos arts. 9º e 14.
