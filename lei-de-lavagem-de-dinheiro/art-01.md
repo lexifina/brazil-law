@@ -1,6 +1,6 @@
 Art. 1º Ocultar ou dissimular a natureza, origem, localização, disposição, movimentação ou propriedade de bens, direitos ou valores provenientes, direta ou indiretamente, de crime:
 I - de tráfico ilícito de substâncias entorpecentes ou drogas afins;
-II - de terrorismo;
+II - de terrorismo e seu financiamento;
 III - de contrabando ou tráfico de armas, munições ou material destinado à sua produção;
 IV - de extorsão mediante seqüestro;
 V - contra a Administração Pública, inclusive a exigência, para si ou para outrem, direta ou indiretamente, de qualquer vantagem, como condição ou preço para a prática ou omissão de atos administrativos;

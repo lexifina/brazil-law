@@ -14,3 +14,4 @@ VIII - as demais entidades cujo funcionamento dependa de autorização de órgã
 IX - as pessoas físicas ou jurídicas, nacionais ou estrangeiras, que operem no Brasil como agentes, dirigentes, procuradoras, comissionárias ou por qualquer forma representem interesses de ente estrangeiro que exerça qualquer das atividades referidas neste artigo;
 X - as pessoas jurídicas que exerçam atividades de promoção imobiliária ou compra e venda de imóveis;
 XI - as pessoas físicas ou jurídicas que comercializem jóias, pedras e metais preciosos, objetos de arte e antigüidades.
+XII - as pessoas físicas ou jurídicas que comercializem bens de luxo ou de alto valor ou exerçam atividades que envolvam grande volume de recursos em espécie.
