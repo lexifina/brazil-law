@@ -1,0 +1,3 @@
+Art. 1º - O art. 609 do Decreto lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal - passa a ter a seguinte redação:
+“Art. 609. Os recursos, apelações e embargos serão julgados pelos Tribunais de Justiça, Câmaras ou Turmas criminais, de acôrdo com a competência estabelecida nas leis de organização judiciária.
+Parágrafo único - Quando não fôr unânime a decisão de segunda instância, desfavorável ao réu, admitem-se embargos infringentes e de nulidade, que poderão ser apostos dentro de 10 (dez) dias, a contar da publicação de acórdão, na forma do artigo 613. Se o desacôrdo fôr parcial, os embargos serão restritos à matéria objeto de divergência”.
