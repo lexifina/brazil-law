@@ -1,1 +1,0 @@
-Art. 14. Extingue-se a punibilidade dos crimes definidos nos arts. 1° a 3° quando o agente promover o pagamento de tributo ou contribuição social, inclusive acessórios, antes do recebimento da denúncia.
