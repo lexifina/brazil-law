@@ -79,28 +79,6 @@ Seção VII
 Da Dissolução da Sociedade
 Seção VIII
 Da Liquidação da Sociedade
-TÍTULO XVI
-DAS LETRAS, NOTAS PROMISSÓRIAS E CRÉDITOS MERCANTIS
-Capítulo I
-Das Letras de cambio
-Seção I
-Da forma das Letras de cambio, e seus vencimentos
-Seção II
-Dos Endossos
-Seção III
-Do Sacador
-Seção IV
-Do Portador
-Seção V
-Do Sacado e Aceitante
-Seção VI
-Dos Protestos
-Seção VII
-Do Recambio
-Seção VIII
-Disposições Gerais
-CAPÍTULO II
-Das letras da terra, notas promissorias e créditos mercantis
 TÍTULO XVII
 DOS MODOS PORQUE SE DISSOLVEM E EXTINGUEM AS OBRIGAÇÕES COMERCIAIS.
 Capítulo I
