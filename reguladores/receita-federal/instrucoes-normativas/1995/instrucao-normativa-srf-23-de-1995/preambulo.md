@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 23, de 9 de maio de 1995
+Atualiza e consolida as normas que dispõem sobre o tratamento tributário relativo a bagagem.
+O SECRETÁRIO DA RECEITA FEDERAL, tendo em vista o texto do Tratado para a Constituição de um Mercado Comum entre a República Federativa do Brasil, a República Argentina, a República do Paraguai e a República Oriental do Uruguai, firmado em Assunção, em 26 de março de 1991, aprovado pelo Decreto Legislativo nº 197, de 25 de setembro de 1991, e considerando a Decisão do Conselho Mercado Comum do MERCOSUL nº 18/94, que aprovou a norma de aplicação relativa ao regime de bagagem, e o disposto no art. 26, da Portaria nº 39, de 3 de fevereiro de 1995, alterada pela Portaria nº 141, de 12 de abril de 1995, do Ministro da Fazenda, resolve:
+Do Tratamento Tributário de Bagagem
