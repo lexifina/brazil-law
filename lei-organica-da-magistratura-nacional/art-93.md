@@ -1,2 +1,2 @@
-Art. 93 - Aplica-se à Justiça do Trabalho, inclusive quanto à convocação de Juiz de Tribunal Regional do Trabalho para substituir Ministro do Tribunal Superior do Trabalho, o disposto no art. 118 e seu § 1º.
+Art. 93. Aplica-se à Justiça do Trabalho, inclusive quanto à convocação de Juiz de Tribunal Regional do Trabalho para substituir Ministro do Tribunal Superior do Trabalho, o disposto no art. 118 desta lei.
 Parágrafo único - O sorteio, para efeito de substituição nos Tribunais Regionais do Trabalho, será feito entre os Juízes Presidentes de Junta de Conciliação e Julgamento da sede da Região respectiva.
