@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 27, de 25 de abril de 1994
+Prorroga vigência da Instrução Normativa nº 54, de 24 de julho de 1981.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o art. 140, inciso III do Regimento Interno do Departamento da Receita Federal, aprovado pela Portaria MEFP nº 606, de 3 setembro de 1992, e tendo em vista o disposto na cláusula primeira do Convênio ICMS nº 39, de 29 de março de 1994, celebrado entre o Ministério da Fazenda e as Secretarias de Fazenda, Economia ou Finanças dos Estados e do Distrito Federal, na 73º reunião ordinária do Conselho Nacional de Política Fazendária, realizada em Brasília, DF, no dia 29 de março de 1994, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve:
