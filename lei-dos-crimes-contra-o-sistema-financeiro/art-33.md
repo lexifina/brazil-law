@@ -1,0 +1,1 @@
+Art. 33. Na fixação da pena de multa relativa aos crimes previstos nesta lei, o limite a que se refere o § 1º do art. 49 do Código Penal, aprovado pelo Decreto-lei nº 2.848, de 7 de dezembro de.1940, pode ser estendido até o décuplo, se verificada a situação nele cogitada.
