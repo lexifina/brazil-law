@@ -1,0 +1,1 @@
+Art. 30. As unidades de conservação podem ser geridas por organizações da sociedade civil de interesse público com objetivos afins aos da unidade, mediante instrumento a ser firmado com o órgão responsável por sua gestão.

@@ -1,0 +1,3 @@
+Art. 50. O Ministério do Meio Ambiente organizará e manterá um Cadastro Nacional de Unidades de Conservação, com a colaboração do Ibama e dos órgãos estaduais e municipais competentes.
+§ 1º O Cadastro a que se refere este artigo conterá os dados principais de cada unidade de conservação, incluindo, dentre outras características relevantes, informações sobre espécies ameaçadas de extinção, situação fundiária, recursos hídricos, clima, solos e aspectos socioculturais e antropológicos.
+§ 2º O Ministério do Meio Ambiente divulgará e colocará à disposição do público interessado os dados constantes do Cadastro.

@@ -1,0 +1,1 @@
+Art. 38. A ação ou omissão das pessoas físicas ou jurídicas que importem inobservância aos preceitos desta Lei e a seus regulamentos ou resultem em dano à flora, à fauna e aos demais atributos naturais das unidades de conservação, bem como às suas instalações e às zonas de amortecimento e corredores ecológicos, sujeitam os infratores às sanções previstas em lei.

@@ -1,0 +1,3 @@
+Art. 16. A Área de Relevante Interesse Ecológico é uma área em geral de pequena extensão, com pouca ou nenhuma ocupação humana, com características naturais extraordinárias ou que abriga exemplares raros da biota regional, e tem como objetivo manter os ecossistemas naturais de importância regional ou local e regular o uso admissível dessas áreas, de modo a compatibilizá-lo com os objetivos de conservação da natureza.
+§ 1º A Área de Relevante Interesse Ecológico é constituída por terras públicas ou privadas.
+§ 2º Respeitados os limites constitucionais, podem ser estabelecidas normas e restrições para a utilização de uma propriedade privada localizada em uma Área de Relevante Interesse Ecológico.

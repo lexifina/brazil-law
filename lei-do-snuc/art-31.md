@@ -1,0 +1,3 @@
+Art. 31. É proibida a introdução nas unidades de conservação de espécies não autóctones.
+§ 1º Excetuam-se do disposto neste artigo as Áreas de Proteção Ambiental, as Florestas Nacionais, as Reservas Extrativistas e as Reservas de Desenvolvimento Sustentável, bem como os animais e plantas necessários à administração e às atividades das demais categorias de unidades de conservação, de acordo com o que se dispuser em regulamento e no Plano de Manejo da unidade.
+§ 2º Nas áreas particulares localizadas em Refúgios de Vida Silvestre e Monumentos Naturais podem ser criados animais domésticos e cultivadas plantas considerados compatíveis com as finalidades da unidade, de acordo com o que dispuser o seu Plano de Manejo.
