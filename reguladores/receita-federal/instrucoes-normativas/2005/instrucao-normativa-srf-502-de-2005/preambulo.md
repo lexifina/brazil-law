@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 502, de 1º de fevereiro de 2005
+Acrescenta dispositivo à Instrução Normativa nº 501, de 28 de janeiro de 2005.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e, tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e os problemas operacionais na rede do Serviço Federal de Processamento de Dados (Serpro) que afetou o desempenho do sítio da Secretaria da Receita Federal na Internet, em caráter excepcional, resolve:
