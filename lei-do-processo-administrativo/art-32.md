@@ -1,0 +1,1 @@
+Art. 32. Antes da tomada de decisão, a juízo da autoridade, diante da relevância da questão, poderá ser realizada audiência pública para debates sobre a matéria do processo.
