@@ -1,0 +1,3 @@
+ANEXO À RESOLUÇÃO Nº 273, DE 5 DE SETEMBRO DE 2001
+DÁ NOVA REDAÇÃO AO ARTIGO 46 INTRODUZIDO PELA RESOLUÇÃO Nº 263, DE 08/06/2001, NO REGULAMENTO DE NUMERAÇÃO DO SERVIÇO TELEFÔNICO FIXO COMUTADO DESTINADO AO USO DO PÚBLICO EM GERAL - STFC, APROVADO PELA RESOLUÇÃO Nº 86, DE 30 DE DEZEMBRO DE 1998
+“Art. 46. As prestadoras do STFC devem realizar as ações necessárias para assegurar a implementação gradual e coordenada, até 31 de janeiro de 2002, dos Códigos Nacionais, destinados pelo presente regulamento, observado o disposto no Plano Geral de Códigos Nacionais – PGCN, anexo do Regulamento de Numeração do STFC.”
