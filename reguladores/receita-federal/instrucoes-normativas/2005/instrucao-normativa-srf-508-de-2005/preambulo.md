@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 508, de 11 de fevereiro de 2005
+Dispõe sobre a prorrogação do prazo de entrega do Demonstrativo de Apuração de Contribuições Sociais (Dacon) nos casos que especifica.
+O SECRETÁRIO DA RECEITA FEDERAL, SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, bem assim a constatação de problemas técnicos e operacionais no Programa Gerador do Demonstrativo de Apuração de Contribuições Sociais (Dacon) desenvolvido pelo Serviço Federal de Processamento de Dados (Serpro), em caráter excepcional, resolve:
