@@ -19,6 +19,10 @@ XII - aplicação em quotas de Fundos Mútuos de Privatização, regidos pela Le
 XIII - quando o trabalhador ou qualquer de seus dependentes for portador do vírus HIV;
 XIV - quando o trabalhador ou qualquer de seus dependentes estiver em estágio terminal, em razão de doença grave, nos termos do regulamento;
 XV - quando o trabalhador tiver idade igual ou superior a setenta anos.
+XVI - necessidade pessoal, cuja urgência e gravidade decorra de desastre natural, conforme disposto em regulamento, observadas as seguintes condições:
+a) o trabalhador deverá ser residente em áreas comprovadamente atingidas de Município ou do Distrito Federal em situação de emergência ou em estado de calamidade pública, formalmente reconhecidos pelo Governo Federal;
+b) a solicitação de movimentação da conta vinculada será admitida até 90 (noventa) dias após a publicação do ato de reconhecimento, pelo Governo Federal, da situação de emergência ou de estado de calamidade pública; e
+c) o valor máximo do saque da conta vinculada será definido na forma do regulamento.
 § 1º A regulamentação das situações previstas nos incisos I e II assegurar que a retirada a que faz jus o trabalhador corresponda aos depósitos efetuados na conta vinculada durante o período de vigência do último contrato de trabalho, acrescida de juros e atualização monetária, deduzidos os saques.
 § 2º O Conselho Curador disciplinará o disposto no inciso V, visando beneficiar os trabalhadores de baixa renda e preservar o equilíbrio financeiro do FGTS.
 § 3º O direito de adquirir moradia com recursos do FGTS, pelo trabalhador, só poderá ser exercido para um único imóvel.
