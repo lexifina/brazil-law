@@ -1,0 +1,1 @@
+Art. 9º A autoridade a quem for apresentada a solicitação deverá ouvir o interessado e preparar termo de declaração, que deverá conter as circunstâncias relativas à entrada no Brasil e às razões que o fizeram deixar o país de origem.
