@@ -1,0 +1,8 @@
+Art. 17. As pessoas jurídicas importadoras dos produtos referidos nos §§ 1º a 3º e 5º a 8º do art. 8º poderão descontar crédito, para fins de determinação da contribuição para o PIS/PASEP e da COFINS, em relação à importação desses produtos, nas hipóteses:
+I - dos §§ 1º e 8º do art. 8º, quando destinados à revenda, ainda que ocorra fase intermediária de mistura;
+II - dos §§ 2º, 3º e 5º a 7º do art. 8º, quando destinados à revenda.
+§ 1º As pessoas jurídicas submetidas ao regime especial de que trata o art. 52 da Lei nº 10.833, de 2003, poderão descontar créditos, para fins de determinação da contribuição para o PIS/PASEP e da COFINS, em relação à importação dos produtos referidos no § 6º do art. 8º, utilizados no processo de industrialização dos produtos de que trata o § 7º do mesmo artigo, bem como em relação à importação desses produtos e demais produtos constantes do anexo único da Lei nº 10.833, de 2003.
+§ 2º Os créditos de que tratam este artigo serão apurados mediante a aplicação das alíquotas da contribuição para o PIS/PASEP e da COFINS incidentes sobre a receita decorrente da venda, no mercado interno, dos respectivos produtos, na forma da legislação específica, sobre o valor de que trata o § 3º do art. 15.
+§ 3º Nas hipóteses dos §§ 6º e 7º do art. 8º, os créditos serão determinados com base nas alíquotas específicas referidas nos arts. 51 e 52 da Lei nº 10.833, de 2003.
+§ 4º Sem prejuízo do disposto no § 3º, os créditos dos demais produtos constantes do anexo único da Lei nº 10.833, de 2003, serão determinados com base nas alíquotas de que tratam os incisos I e II do caput do art. 8º.
+§ 5º Na hipótese do § 8º do art. 8º, os créditos serão determinados com base nas alíquotas específicas referidas no art. 23.

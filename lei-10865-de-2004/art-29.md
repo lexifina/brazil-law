@@ -1,0 +1,1 @@
+Art. 29. As disposições do art. 3º da Lei Complementar nº 70, de 30 de dezembro de 1991, do art. 5º da Lei nº 9.715, de 25 de novembro de 1998, e do art. 53 da Lei nº 9.532, de 10 de dezembro de 1997, alcançam também o comerciante atacadista.

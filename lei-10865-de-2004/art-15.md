@@ -1,0 +1,18 @@
+Art. 15. As pessoas jurídicas sujeitas à apuração da contribuição para o PIS/PASEP e da COFINS, nos termos dos arts. 2º e 3º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 200 3, poderão descontar crédito, para fins de determinação dessas contribuições, em relação às importações sujeitas ao pagamento das contribuições de que trata o art. 1º desta Lei, nas seguintes hipóteses:
+I - bens adquiridos para revenda;
+II - bens e serviços utilizados como insumo na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda, inclusive combustível e lubrificantes;
+III - energia elétrica consumida nos estabelecimentos da pessoa jurídica;
+IV - aluguéis e contraprestações de arrendamento mercantil de prédios, máquinas e equipamentos, embarcações e aeronaves, utilizados na atividade da empresa;
+V - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado, adquiridos para utilização na produção de bens destinados à venda ou na prestação de serviços.
+§ 1º O direito ao crédito de que trata este artigo e o art. 17 desta Lei aplica-se em relação às contribuições efetivamente pagas na importação de bens e serviços a partir da produção dos efeitos desta Lei.
+§ 2º O crédito não aproveitado em determinado mês poderá sê-lo nos meses subseqüentes.
+§ 3º O crédito de que trata o caput deste artigo será apurado mediante a aplicação das alíquotas previstas no caput do art. 2º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003, sobre o valor que serviu de base de cálculo das contribuições, na forma do art. 7º desta Lei, acrescido do valor do IPI vinculado à importação, quando integrante do custo de aquisição.
+§ 4º Na hipótese do inciso V do caput deste artigo, o crédito será determinado mediante a aplicação das alíquotas referidas no § 3º deste artigo sobre o valor da depreciação ou amortização contabilizada a cada mês.
+§ 5º Para os efeitos deste artigo, aplicam-se, no que couber, as disposições dos §§ 7º e 9º do art. 3º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003.
+§ 6º O disposto no inciso II do caput deste artigo alcança os direitos autorais pagos pela indústria fonográfica desde que esses direitos tenham se sujeitado ao pagamento das contribuições de que trata esta Lei.
+§ 7º Opcionalmente, o contribuinte poderá descontar o crédito de que trata o § 4º deste artigo, relativo à importação de máquinas e equipamentos destinados ao ativo imobilizado, no prazo de 4 (quatro) anos, mediante a aplicação, a cada mês, das alíquotas referidas no § 3º deste artigo sobre o valor correspondente a 1/48 (um quarenta e oito avos) do valor de aquisição do bem, de acordo com regulamentação da Secretaria da Receita Federal.
+§ 8º As pessoas jurídicas importadoras, nas hipóteses de importação de que tratam os incisos a seguir, devem observar as disposições do art. 17 desta Lei:
+I - produtos dos §§ 1º a 3º e 5º a 7º do art. 8º desta Lei, quando destinados à revenda;
+II - produtos do § 8º do art. 8º desta Lei, quando destinados à revenda, ainda que ocorra fase intermediária de mistura;
+III - produtos do § 9º do art. 8º desta Lei, quando destinados à revenda ou à utilização como insumo na produção de autopeças relacionadas nos Anexos I e II da Lei nº 10.485, de 3 de julho de 2002;
+IV - produto do § 10 do art. 8º desta Lei.

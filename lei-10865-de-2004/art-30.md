@@ -1,0 +1,3 @@
+Art. 30. Considera-se aquisição, para fins do desconto do crédito previsto nos arts. 3º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003, a versão de bens e direitos neles referidos, em decorrência de fusão, incorporação e cisão de pessoa jurídica domiciliada no País.
+§ 1º O disposto neste artigo aplica-se somente nas hipóteses em que fosse admitido o desconto do crédito pela pessoa jurídica fusionada, incorporada ou cindida.
+§ 2º Aplica-se o disposto neste artigo a partir da data de produção de efeitos do art. 3º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003, conforme o caso.

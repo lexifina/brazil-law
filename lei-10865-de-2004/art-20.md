@@ -1,0 +1,3 @@
+Art. 20. Compete à Secretaria da Receita Federal a administração e a fiscalização das contribuições de que trata esta Lei.
+§ 1º As contribuições sujeitam-se às normas relativas ao processo administrativo fiscal de determinação e exigência do crédito tributário e de consulta de que trata o Decreto nº 70.235, de 6 de março de 1972, bem como, no que couber, às disposições da legislação do imposto de renda, do imposto de importação, especialmente quanto à valoração aduaneira, e da contribuição para o PIS/PASEP e da COFINS.
+§ 2º A Secretaria da Receita Federal editará, no âmbito de sua competência, as normas necessárias à aplicação do disposto nesta Lei.
