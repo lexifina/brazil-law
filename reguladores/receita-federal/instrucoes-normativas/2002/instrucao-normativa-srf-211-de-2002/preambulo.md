@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 211, de 2 de outubro de 2002
+Trata da revisão de crédito tributário do IOF e determina o cancelamento de lançamento no caso em que especifica.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, tendo em vista que o Supremo Tribunal Federal, nos julgamentos dos Recursos Extraordinários nº 196.415/PR e 196.820/PR, declarou a inconstitucionalidade da cobrança do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF incidente sobre ativos financeiros das Prefeituras Municipais, resolve:
