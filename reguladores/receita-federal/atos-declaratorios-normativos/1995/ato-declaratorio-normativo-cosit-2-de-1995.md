@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 2, de 18 de janeiro de 1995
+Vigência das Portarias do Ministro da Fazenda, que efetivaram alterações de alíquotas do Imposto de Importação, face ao disposto no art. 4º do Decreto nº 1.343, de 1994.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso da atribuição que lhe confere o art. 147, inciso III, do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria Ministerial nº 606, de 03 de setembro de 1992, e tendo em vista o disposto no art. 4º do Decreto nº 1.343, de 23 de dezembro de 1994,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal e demais interessados, que a data-limite (31 de março de 1995) estabelecida pelo art. 4º Decreto nº 1.343, de 23 de dezembro de 1994, para o têrmino da validade das alterações de alíquotas do Imposto de Importação, efetivadas por Portaria do Ministro de Estado da Fazenda, aplica-se, por igual, às alterações para as quais haja sido fixado prazo de vigência, e àquelas com vigência por prazo indeterminado.
+ARISTÓFANES FONTOURA DE HOLANDA
