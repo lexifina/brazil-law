@@ -1,0 +1,2 @@
+Art. 10. O transplante ou enxerto só se fará com o consentimento expresso do receptor, após aconselhamento sobre a excepcionalidade e os riscos do procedimento.
+Parágrafo único. Nos casos em que o receptor seja juridicamente incapaz ou cujas condições de saúde impeçam ou comprometam a manifestação válida de sua vontade, o consentimento de que trata este artigo será dado por um de seus pais ou responsáveis legais.
