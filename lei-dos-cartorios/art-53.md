@@ -1,0 +1,2 @@
+Art. 53. Nos Estados cujas organizações judiciárias, vigentes à época da publicação desta lei, assim previrem, continuam em vigor as determinações relativas à fixação da área territorial de atuação dos tabeliães de protesto de títulos, a quem os títulos serão distribuídos em obediência às respectivas zonas.
+Parágrafo único. Quando da primeira vacância, aplicar-se-á à espécie o disposto no parágrafo único do art. 11.

@@ -1,0 +1,1 @@
+Art. 28. Os notários e oficiais de registro gozam de independência no exercício de suas atribuições, têm direito à percepção dos emolumentos integrais pelos atos praticados na serventia e só perderão a delegação nas hipóteses previstas em lei.

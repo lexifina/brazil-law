@@ -1,0 +1,1 @@
+Art. 41. Incumbe aos notários e aos oficiais de registro praticar, independentemente de autorização, todos os atos previstos em lei necessários à organização e execução dos serviços, podendo, ainda, adotar sistemas de computação, microfilmagem, disco ótico e outros meios de reprodução.
