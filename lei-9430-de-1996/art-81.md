@@ -4,4 +4,4 @@ Art. 81. Poderá, ainda, ser declarada inapta, nos termos e condições definido
 I - prova do regular fechamento da operação de câmbio, inclusive com a identificação da instituição financeira no exterior encarregada da remessa dos recursos para o País;
 II - identificação do remetente dos recursos, assim entendido como a pessoa física ou jurídica titular dos recursos remetidos.
 § 3º No caso de o remetente referido no inciso II do § 2º ser pessoa jurídica deverão ser também identificados os integrantes de seus quadros societário e gerencial.
-§ 4º O disposto nos §§ 2º e 3º aplica-se, também, na hipótese de que trata o § 2º do art. 23 do Decreto-Lei nº 1.455, de 1976.
+§ 4º O disposto nos §§ 2º e 3º aplica-se, também, na hipótese de que trata o § 2º do art. 23 do Decreto-Lei nº 1.455, de 7 de abril de 1976.
