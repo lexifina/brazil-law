@@ -1,0 +1,1 @@
+Artigo 4º - Até a aprovação do Regimento Interno da Faculdade, observar-se-á o Regimento da Faculdade de Medicina de São José do Rio Preto, no que não contrariar o disposto nesta lei e na legislação aplicável às entidades autárquicas do Sistema Estadual de Ensino.

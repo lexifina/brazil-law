@@ -1,0 +1,1 @@
+Artigo 2º - O pessoal docente, técnico e administrativo, em exercício na atual Faculdade de Medicina de São José do Rio Preto, passará, com a concordância da Fundação Faculdade Regional de Medicina de São José do Rio Preto, a prestar serviços à Faculdade, mantido o regime jurídico vigente e garantidos seus direitos e vantagens, até que seja implantado seu quadro definitivo.

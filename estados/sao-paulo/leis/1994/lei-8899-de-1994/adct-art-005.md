@@ -1,0 +1,1 @@
+Artigo 5º - A Faculdade funcionará de acordo com a estrutura administrativa da atual Faculdade de Medicina de São José do Rio Preto, até que se efetivem as providências referidas nos artigos 1º e 4º das Disposições Transitórias desta lei.
