@@ -1,0 +1,1 @@
+Art. 22. Os notários e oficiais de registro responderão pelos danos que eles e seus prepostos causem a terceiros, na prática de atos próprios da serventia, assegurado aos primeiros direito de regresso no caso de dolo ou culpa dos prepostos.
