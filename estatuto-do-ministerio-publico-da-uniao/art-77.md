@@ -1,0 +1,2 @@
+Art. 77. Compete ao Procurador Regional Eleitoral exercer as funções do Ministério Público nas causas de competência do Tribunal Regional Eleitoral respectivo, além de dirigir, no Estado, as atividades do setor.
+Parágrafo único. O Procurador-Geral Eleitoral poderá designar, por necessidade de serviço, outros membros do Ministério Público Federal para oficiar, sob a coordenação do Procurador Regional, perante os Tribunais Regionais Eleitorais.

@@ -1,0 +1,1 @@
+Art. 89. O Procurador-Geral do Trabalho designará, dentre os Subprocuradores-Gerais do Trabalho, o Vice-Procurador-Geral do Trabalho, que o substituirá em seus impedimentos. Em caso de vacância, exercerá o cargo o Vice-Presidente do Conselho Superior, até o seu provimento definitivo.
