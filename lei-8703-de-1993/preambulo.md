@@ -1,0 +1,2 @@
+Acrescenta parágrafo único ao art. 57 da Lei n° 8.078, de 11 de setembro de 1990, que dispõe sobre a proteção do consumidor, e revoga o art. 3° da Lei n° 8.656, de 21 de maio de 1993.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória n° 341, de 1993, que o CONGRESSO NACIONAL aprovou, e eu, CARLOS PATROCÍNIO, no exercício da Presidência do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
