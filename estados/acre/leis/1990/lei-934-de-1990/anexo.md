@@ -1,0 +1,59 @@
+ANEXO
+
+TABELA DE SOLDO DO PESSOAL DA POLÍCIA MILITAR
+
+TABELA VII
+
+POSTO/GRADUAÇÃO
+
+SOLDO A PARTIR
+
+DE 1º DE JANEIRO DE 1990
+
+Coronel PM
+
+Tenente Coronel PM
+
+Major PM
+
+Capitão PM
+
+1º Tenente PM
+
+2º Tenente PM
+
+Sub-Tenente PM
+
+1º Sargento PM
+
+2º Sargento PM
+
+3º Sargento PM
+
+Cabo PM
+
+Soldado PM
+
+4.160,00
+
+3.798,08
+
+3.477,76
+
+2.995,20
+
+2.408,64
+
+2.167,36
+
+2.084,16
+
+1.872,00
+
+1.605,76
+
+1.447,60
+
+1.164,80
+
+1.040,00
