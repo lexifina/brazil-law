@@ -1,0 +1,1 @@
+Art. 29 - Nas transgressões que independam de análises ou perícias, inclusive por desacato à autoridade sanitária, o processo obedecerá a rito sumaríssimo e será considerado concluso caso infrator não apresente recurso no prazo de quinze dias.

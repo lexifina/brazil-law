@@ -1,0 +1,1 @@
+Art. 24 - Na hipótese de interdição do produto, previsto no § 2º do art. 23, a autoridade sanitária lavrará o termo respectivo, cuja primeira via será entregue, juntamente com o auto de infração, ao infrator ou ao seu representante legal, obedecidos os mesmos requisitos daquele, quanto à aposição do ciente.

@@ -1,0 +1,1 @@
+Art. 20 - O desrespeito ou desacato ao servidor competente, em razão de suas atribuições legais, bem como embargo oposto a qualquer ato de fiscalização de leis ou atos regulamentares em matéria de saúde, sujeitarão o infrator à penalidade de multa.
