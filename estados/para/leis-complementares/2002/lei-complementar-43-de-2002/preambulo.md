@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº 043, DE 31 DE DEZEMBRO DE 2002.
+DISPÕE SOBRE A PRORROGAÇÃO DOS CONTRATOS DE SERVIDORES TEMPORÁRIOS NO ESTADO DO PARÁ E DÁ OUTRAS PROVIDÊNCIAS.
+A ASSEMBLÉIA LEGISLATIVA DO ESTADO DO PARÁ, estatui e seu Presidente, nos termos do § 7º do art. 108 da Constituição do Estado, promulga a seguinte Lei Complementar:
