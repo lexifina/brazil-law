@@ -1,0 +1,10 @@
+Parecer Normativo CST nº 355, de 19 de maio de 1971
+Pessoa física residente ou domiciliada no exterior cujos rendimentos no País sejam tributados apenas pelo regime de fonte dos arts. 292 a 300 do Regulamento do Imposto de Renda, não está sujeita à inscrição no CPF, exigida esta nos transações de que participe, será mencionado o número de inscrição do seu representante no CPF ou no CGC.
+1. A inscrição no Cadastro de Pessoas Físicas de amplitude fixada por ato ministerial (art. 1º, Decreto-Lei nº 401/68), alcançará apenas as pessoas naturais domiciliadas ou residentes no Brasil, contribuinte ou não do imposto de renda, bem assim as ausentes no estrangeiro referidas no art. 151 do Regulamento do Imposto de Renda (Decreto nº 58.400, de 10/05/66).
+2. Não estão sujeitas a esta obrigação as pessoas residentes ou domiciliadas no exterior que aufiram rendimentos no Brasil subordinados exclusivamente ao regime de fonte previsto nos arts. 292 a 300 do Regulamento.
+3. Este é o sentido da Portaria nº 321, de 14/08/69, ao estabelecer a obrigatoriedade de inscrição no CPF para os contribuintes sujeitos a apresentação de declaração de rendimentos. 4. Por conseqüência, quando a pessoa física residente ou domiciliada no exterior se fizer representar em transações nas quais seja obrigatória a referência àquela inscrição, será mencionado o número sob o qual esteja inscrito o seu representante se, igualmente, pessoa física, ou o número CGC, se pessoa jurídica ou firma individual.
+Comentários em 16/06/2006:
+1. Teor do PN superado.
+2. O § 1º do art. 34 do RIR - Decreto nº 3.000, de 1999, foi alterado pelo art. 1º do Decreto nº 4.166, de 13 de março de 2002, tornando obrigatória a inscrição, no CPF, de pessoas físicas não-residentes que possuam bens ou direitos no País, inclusive participações societárias, bem assim aplicações no mercado financeiro ou de capitais no Brasil, nos termos e condições estabelecidos pela SRF.
+3. A IN SRF nº 461, de 2004, em seu art. 20, XI, disciplinou essa obrigatoriedade de inscrição.
+4. Os rendimentos auferidos nessas situações são tributáveis exclusivamente na fonte.
