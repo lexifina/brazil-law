@@ -1,0 +1,1 @@
+Art. 30. Os OGM que tenham obtido decisão técnica da CTNBio favorável a sua liberação comercial até a entrada em vigor desta Lei poderão ser registrados e comercializados, salvo manifestação contrária do CNBS, no prazo de 60 (sessenta) dias, a contar da data da publicação desta Lei.

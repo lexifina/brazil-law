@@ -1,0 +1,1 @@
+Art. 31. A CTNBio e os órgãos e entidades de registro e fiscalização, referidos no art. 16 desta Lei, deverão rever suas deliberações de caráter normativo, no prazo de 120 (cento e vinte) dias, a fim de promover sua adequação às disposições desta Lei.

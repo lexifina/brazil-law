@@ -1,0 +1,19 @@
+Art. 16. Caberá aos órgãos e entidades de registro e fiscalização do Ministério da Saúde, do Ministério da Agricultura, Pecuária e Abastecimento e do Ministério do Meio Ambiente, e da Secretaria Especial de Aqüicultura e Pesca da Presidência da República entre outras atribuições, no campo de suas competências, observadas a decisão técnica da CTNBio, as deliberações do CNBS e os mecanismos estabelecidos nesta Lei e na sua regulamentação:
+I - fiscalizar as atividades de pesquisa de OGM e seus derivados;
+II - registrar e fiscalizar a liberação comercial de OGM e seus derivados;
+III - emitir autorização para a importação de OGM e seus derivados para uso comercial;
+IV - manter atualizado no SIB o cadastro das instituições e responsáveis técnicos que realizam atividades e projetos relacionados a OGM e seus derivados;
+V - tornar públicos, inclusive no SIB, os registros e autorizações concedidas;
+VI - aplicar as penalidades de que trata esta Lei;
+VII - subsidiar a CTNBio na definição de quesitos de avaliação de biossegurança de OGM e seus derivados.
+§ 1º Após manifestação favorável da CTNBio, ou do CNBS, em caso de avocação ou recurso, caberá, em decorrência de análise específica e decisão pertinente:
+I - ao Ministério da Agricultura, Pecuária e Abastecimento emitir as autorizações e registros e fiscalizar produtos e atividades que utilizem OGM e seus derivados destinados a uso animal, na agricultura, pecuária, agroindústria e áreas afins, de acordo com a legislação em vigor e segundo o regulamento desta Lei;
+II - ao órgão competente do Ministério da Saúde emitir as autorizações e registros e fiscalizar produtos e atividades com OGM e seus derivados destinados a uso humano, farmacológico, domissanitário e áreas afins, de acordo com a legislação em vigor e segundo o regulamento desta Lei;
+III - ao órgão competente do Ministério do Meio Ambiente emitir as autorizações e registros e fiscalizar produtos e atividades que envolvam OGM e seus derivados a serem liberados nos ecossistemas naturais, de acordo com a legislação em vigor e segundo o regulamento desta Lei, bem como o licenciamento, nos casos em que a CTNBio deliberar, na forma desta Lei, que o OGM é potencialmente causador de significativa degradação do meio ambiente;
+IV - à Secretaria Especial de Aqüicultura e Pesca da Presidência da República emitir as autorizações e registros de produtos e atividades com OGM e seus derivados destinados ao uso na pesca e aqüicultura, de acordo com a legislação em vigor e segundo esta Lei e seu regulamento.
+§ 2º Somente se aplicam as disposições dos incisos I e II do art. 8º e do caput do art. 10 da Lei nº 6.938, de 31 de agosto de 1981, nos casos em que a CTNBio deliberar que o OGM é potencialmente causador de significativa degradação do meio ambiente.
+§ 3º A CTNBio delibera, em última e definitiva instância, sobre os casos em que a atividade é potencial ou efetivamente causadora de degradação ambiental, bem como sobre a necessidade do licenciamento ambiental.
+§ 4º A emissão dos registros, das autorizações e do licenciamento ambiental referidos nesta Lei deverá ocorrer no prazo máximo de 120 (cento e vinte) dias.
+§ 5º A contagem do prazo previsto no § 4º deste artigo será suspensa, por até 180 (cento e oitenta) dias, durante a elaboração, pelo requerente, dos estudos ou esclarecimentos necessários.
+§ 6º As autorizações e registros de que trata este artigo estarão vinculados à decisão técnica da CTNBio correspondente, sendo vedadas exigências técnicas que extrapolem as condições estabelecidas naquela decisão, nos aspectos relacionados à biossegurança.
+§ 7º Em caso de divergência quanto à decisão técnica da CTNBio sobre a liberação comercial de OGM e derivados, os órgãos e entidades de registro e fiscalização, no âmbito de suas competências, poderão apresentar recurso ao CNBS, no prazo de até 30 (trinta) dias, a contar da data de publicação da decisão técnica da CTNBio.

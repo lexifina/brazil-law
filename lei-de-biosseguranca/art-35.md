@@ -1,0 +1,1 @@
+Art. 35. Ficam autorizadas a produção e a comercialização de sementes de cultivares de soja geneticamente modificadas tolerantes a glifosato registradas no Registro Nacional de Cultivares - RNC do Ministério da Agricultura, Pecuária e Abastecimento.
