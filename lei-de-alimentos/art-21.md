@@ -1,0 +1,4 @@
+Art. 21. O art. 244 do Código Penal passa a vigorar com a seguinte redação:
+"Art. 244. Deixar, sem justa causa, de prover a subsistência do cônjuge, ou de filho menor de 18 anos ou inapto para o trabalho ou de ascendente inválido ou valetudinário, não lhes proporcionando os recursos necessários ou faltando ao pagamento de pensão alimentícia judicialmente acordada, fixada ou majorada; deixar, sem justa causa, de socorrer descendente ou ascendente gravemente enfermo:
+Pena - Detenção de 1 (um) ano a 4 (quatro) anos e multa, de uma a dez vêzes o maior salário-mínimo vigente no País.
+Parágrafo único. Nas mesmas penas incide quem, sendo solvente, frustra ou ilide, de qualquer modo, inclusive por abandono injustificado de emprego ou função, o pagamento de pensão alimentícia judicialmente acordada, fixada ou majorada.

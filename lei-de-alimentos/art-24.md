@@ -1,0 +1,1 @@
+Art. 24. A parte responsável pelo sustento da família, e que deixar a residência comum por motivo, que não necessitará declarar, poderá tomar a iniciativa de comunicar ao juízo os rendimentos de que dispõe e de pedir a citação do credor, para comparecer à audiência de conciliação e julgamento destinada à fixação dos alimento a que está obrigado.

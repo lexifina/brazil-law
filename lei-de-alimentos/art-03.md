@@ -1,0 +1,3 @@
+Art. 3º. O pedido será apresentado por escrito, em 3 (três) vias, e deverá conter a indicação do juiz a quem for dirigido, os elementos referidos no artigo anterior e um histórico sumário dos fatos.
+§ 1º Se houver sido designado pelo juiz defensor para assistir o solicitante, na forma prevista no art. 2º, formulará o designado, dentro de 24 (vinte e quatro) horas da nomeação, o pedido, por escrito, podendo, se achar conveniente, indicar seja a solicitação verbal reduzida a termo.
+§ 2º O termo previsto no parágrafo anterior será em 3 (três) vias, datadas e assinadas pelo escrivão, observado, no que couber, o disposto no "caput" do presente artigo.
