@@ -1,0 +1,1 @@
+Art. 30. Durante o prazo máximo de cinco anos, contado da data de instalação da ANS, o exercício da fiscalização das operadoras de planos privados de assistência à saúde poderá ser realizado por contratado, servidor ou empregado requisitado ou pertencente ao Quadro da Agência ou do Ministério da Saúde, mediante designação da Diretoria Colegiada, conforme dispuser o regulamento.
