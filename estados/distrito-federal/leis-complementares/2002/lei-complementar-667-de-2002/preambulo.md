@@ -1,0 +1,4 @@
+# LEI COMPLEM ENTAR Nº 667, DE 27 DE DEZEMBRO DE 2002 (*)
+(Autoria do Projeto: Poder Executivo)
+Altera o uso e amplia a área do lote nº 08 do Setor de Clubes Esportivos Norte -SCE/N.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
