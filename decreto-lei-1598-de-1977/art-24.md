@@ -1,0 +1,6 @@
+Art. 24 - A contrapartida do ajuste por aumento do valor do patrimônio líquido do investimento em virtude de reavaliação de bens do ativo da coligada ou controlada, por esta utilizado para constituir reserva de reavaliação, deverá ser compensada pela baixa do ágio na aquisição do investimento com fundamento no valor de mercado dos bens reavaliados (art. 20, § 2º, a).
+§ 1º - O ajuste do valor de patrimônio líquido correspondente a reavaliação de bens diferentes dos que serviram de fundamento ao ágio, ou a reavaliação por valor superior ao que justificou o ágio, deverá ser computado no lucro real do contribuinte, salvo se este registrar a contrapartida do ajuste como reserva de reavaliação.
+§ 2º - O valor da reserva constituída nos termos do § 1º deverá ser computado na determinação do lucro real do período-base em que o contribuinte alienar ou liquidar o investimento, ou em que utilizar a reserva de reavaliação para aumento do seu capital social.
+§ 3º - A reserva de reavaliação do contribuinte será baixada mediante compensação com o ajuste do valor do investimento, e não será computada na determinação do lucro real:
+a) nos períodos-base em que a coligada ou controlada computar sua reserva de reavaliação na determinação do lucro real (art. 35); ou
+b) no período-base em que a coligada ou controlada utilizar sua reserva de reavaliação para absorver prejuízos.

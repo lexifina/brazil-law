@@ -1,0 +1,3 @@
+Art. 47 - As pessoas jurídicas de que trata o § 3º do artigo 40 procederão à correção monetária mediante a aplicação, sobre os valores a corrigir constantes da escrituração, de coeficientes de correção para o mês do balanço.
+§ 1º - Por ocasião do levantamento de cada balanço a corrigir, o contribuinte determinará os coeficientes a aplicar, mediante divisão do valor nominal de uma ORTN no mês do balanço pelo seu valor nominal na época do valor a corrigir.
+§ 2º O contribuinte deverá manter arquivados, como comprovantes da escrituração, os mapas e memórias de cálculos da correção monetária, segundo modelos aprovados pela Secretaria da Receita Federal.

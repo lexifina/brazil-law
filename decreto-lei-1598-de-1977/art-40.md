@@ -1,0 +1,4 @@
+Art. 40 - A correção monetária de que trata o item I do artigo 39 será procedida com base no aumento do valor nominal de uma Obrigação Reajustável do Tesouro Nacional (ORTN).
+§ 1º - A determinação do valor de bens do ativo imobilizado adquiridos antes de 1965 terá por base o valor nominal da ORTN fixado pelo Ministério da Fazenda para os anos de 1938 a 1964, por referência aos coeficientes de correção do imobilizado de que trata a letra b do item II do artigo 55.
+§ 2º - As companhias abertas e as pessoas jurídicas que, no balanço de abertura do exercício, tiverem patrimônio líquido com valor superior a Cr$100.000.000,00, deverão proceder à correção com observância do disposta na Subseção II desta Seção.
+§ 3º - As pessoas não sujeitas ao disposto no § 2º e que não optarem pela correção nos termos da Subseção II deverão procedê-la de acordo com as normas da Subseção III.

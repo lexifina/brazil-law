@@ -1,0 +1,2 @@
+Art. 57 - No balanço em que proceder à correção especial do imobilizado, de que trata a artigo 55, a pessoa jurídica deverá transferir para as contas que registram o valor original dos bens do ativo imobilizado e respectiva depreciação, amortização ou exaustão, os saldos das contas de correção monetária a elas referentes.
+Parágrafo único - As contas de reservas de correção monetária do ativo imobilizado e do capital de giro próprio, formadas de acordo com a legislação anterior, serão registradas como reservas de capital.

@@ -1,0 +1,9 @@
+Art. 41 - O registro do ativo permanente da escrituração do contribuinte deve ser mantido com observância das seguintes normas:
+I - cada bem classificado como investimento deve ser escriturado em subconta distinta;
+II - os bens do imobilizado devem ser agrupados em contas distintas segundo sua natureza e as taxas anuais, de depreciação ou amortização a eles aplicáveis, e os imóveis, os recursos minerais e florestais e as propriedades imateriais deverão ser registrados em subcontas separadas;
+III - as aplicações de recursos ou despesas devem ser registradas no ativo diferido em subcontas distintas segundo a natureza, os empreendimentos ou atividades a que se destinam e o prazo de amortização.
+§ 1º - O contribuinte deve manter registros que permitam identificar os bens do imobilizado e determinar o ano da sua aquisição, o valor original e os posteriores acréscimos ao custo, reavaliações e baixas parciais a ele referentes.
+§ 2º - Valor original do bem é a importância em moeda nacional pela qual a aquisição tenha sido registrada na escrituração do contribuinte, convertidos os valores em moeda estrangeira à taxa de câmbio em vigor na época da aquisição.
+§ 3º - No caso de bens adquiridos a preço fixo, para pagamento a prazo ou em prestações sem juros nem correção monetária, o contribuinte poderá optar pela correção do custo de aquisição em função da época ou épocas do seu efetivo pagamento, desde que, se for o caso, adote o mesmo critério para a determinação do custo de aquisição que servirá de base para o calculo das quotas de depreciação, amortização ou exaustão.
+§ 4º - O laudo que servir de base ao registro de reavaliação de bens deve identificar os bens reavaliados pela conta em que estão escriturados e indicar os anos da aquisição e das modificações no seu custo original.
+§ 5º - Se o registro do imobilizado não satisfizer ao disposto no § 1º, os bens baixados serão considerados como os mais antigos nas contas em que estiverem registrados.

@@ -1,0 +1,11 @@
+Art. 62 - Para efeito de determinar o lucro real da pessoa jurídica:
+I - nos casos dos itens I e IV do artigo 60 a diferença entre o valor de mercado e o de alienação será adicionada ao lucro líquido do exercício;
+II - no caso do item Il do artigo 60, a diferença entre o custo de aquisição do bem pela pessoa jurídica e o valor de mercado não constituirá custo ou prejuízo dedutível na posterior alienação ou baixa, inclusive por depreciação, amortização ou exaustão;
+III - no caso do item III do artigo 60, a importância perdida não será dedutível;
+IV - no caso do item V do artigo 60, a importância mutuada em negócio que não satisfaça às condições dos §§ 1º e 2º do mesmo artigo será, para efeito de correção monetária do patrimônio líquido, deduzida dos lucros acumulados ou reservas de lucros, exceto a legal;
+V - no caso do item VI do artigo 60, o montante dos rendimentos que exceder do valor de mercado não será dedutível;
+VI - nos casos do artigo 61, as importâncias pagas ou creditadas ao acionista controlador que caracterizarem as condições de favorecimento não serão dedutíveis.
+§ 1º - Nos casos do artigo 60, o lucro distribuído disfarçadamente será tributado como rendimento, classificado na Cédula "H" da declaração de rendimentos, de administrador, sócio ou titular que contratou o negócio com a pessoa jurídica e auferiu os benefícios econômicos da distribuição, ou cujo parente ou dependente auferiu esses benefícios, o qual responderá também pelo imposto e multa que forem devidos pela pessoa jurídica.
+§ 2º- Nos casos do artigo 61 o lucro líquido distribuído disfarçadamente será tributado como rendimento do acionista controlador; se forem duas ou mais pessoas físicas que exerçam o controle, serão tributadas proporcionalmente às partes que lhes couberem, direta ou indiretamente, do lucro distribuído disfarçadamente.
+§ 3º - O acionista controlador será também responsável pelo imposto e multa devidos pela pessoa jurídica em decorrência da distribuição disfarçada de lucros.
+§ 4º - O imposto e multa de que tratam os §§ 1º a 3º somente poderão ser lançados de ofício após o término da ocorrência do fato gerador do imposto da pessoa jurídica ou da pessoa física beneficiária dos lucros distribuídos disfarçadamente.
