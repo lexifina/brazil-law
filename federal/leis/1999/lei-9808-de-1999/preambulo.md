@@ -1,2 +1,2 @@
 Define diretrizes e incentivos fiscais para o desenvolvimento regional e dá outras providências.
-O PRESIDENTE DA REPÚBLICA, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
