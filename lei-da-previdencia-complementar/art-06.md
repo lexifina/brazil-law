@@ -1,0 +1,1 @@
+Art. 6º As entidades de previdência complementar somente poderão instituir e operar planos de benefícios para os quais tenham autorização específica, segundo as normas aprovadas pelo órgão regulador e fiscalizador, conforme disposto nesta Lei Complementar.

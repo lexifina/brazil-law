@@ -1,0 +1,1 @@
+Art. 55. Compete ao órgão fiscalizador decretar, aprovar e rever os atos de que tratam os arts. 45, 46 e 48 desta Lei Complementar, bem como nomear, por intermédio do seu dirigente máximo, o interventor ou o liquidante.
