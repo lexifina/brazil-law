@@ -1,0 +1,1 @@
+Art. 852-C. As demandas sujeitas a rito sumaríssimo serão instruídas e julgadas em audiência única, sob a direção de juiz presidente ou substituto, que poderá ser convocado para atuar simultaneamente com o titular.
