@@ -1,0 +1,1 @@
+Art. 14. A fiscalização da execução da presente lei, o processo de autuação dos seus infratores, os recursos e a cobrança das multas reger-se-ão pelo disposto no Título VII da Consolidação das Leis do Trabalho.

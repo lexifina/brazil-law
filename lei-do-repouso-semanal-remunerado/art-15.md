@@ -1,0 +1,1 @@
+Art. 15. A presente lei entrará em vigor na data de sua publicação.

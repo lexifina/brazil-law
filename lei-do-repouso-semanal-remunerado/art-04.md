@@ -1,0 +1,1 @@
+Art. 4º É devido o repouso semanal remunerado, nos termos desta lei, aos trabalhadores das autarquias e de empresas industriais, ou sob administração da União, dos Estados e dos Municípios ou incorporadas nos seus patrimônios, que não estejam subordinados ao regime do funcionalismo público.
