@@ -1,0 +1,2 @@
+Altera os arts. 7º, 8º e 9º do Decreto-Lei nº 2.432, de 17 de maio de 1988, aprovado pelo Decreto Legislativo nº 35, de 13 de junho de 1989, que instituiu a Reserva Nacional de Compensação de Remuneração (Rencor).
+Faço saber que O PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 144, de 1990, que o Congresso Nacional aprovou, e eu, NELSON CARNEIRO, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
