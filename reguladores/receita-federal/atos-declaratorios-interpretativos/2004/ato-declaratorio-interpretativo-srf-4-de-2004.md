@@ -1,0 +1,9 @@
+Ato Declaratório Interpretativo SRF nº 4, de 4 de março de 2004
+Dispõe sobre a aplicação de penalidade por descumprimento do regime aduaneiro especial de admissão temporária.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, tendo em vista o disposto no inciso I do art. 72 da Lei nº 10.833, de 29 de dezembro de 2003, e considerando que:
+I - o art. 106, inciso II, alínea "b" , do Decreto-lei nº 37, de 18 de novembro de 1966, prevê penalidade, apenas, pelo descumprimento do prazo estabelecido para o retorno, ao exterior, de bens ingressados no País sob o regime aduaneiro especial de admissão temporária;
+II - o art. 72, inciso I, da Lei nº 10.833, de 2003, prevê penalidade pelo descumprimento de condições, requisitos ou prazos estabelecidos para aplicação do regime aduaneiro especial de admissão temporária; e
+III - nos termos do § 1º do art. 2º do Decreto-lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução ao Código Civil), lei posterior revoga a anterior quando regule inteiramente a matéria de que tratava a lei anterior; declara:
+Art. 1º A multa prevista no inciso I do art. 72 da Lei nº 10.833, de 2003, aplica-se pelo descumprimento de quaisquer condições, requisitos e prazos estabelecidos para aplicação do regime aduaneiro especial de admissão temporária, inclusive para a reexportação dos bens admitidos no regime, ressalvadas as hipóteses sujeitas à aplicação da pena de perdimento.
+Art. 2º A alínea "b" do inciso II do art. 106 do Decreto-lei nº 37, de 1966, ficou tacitamente revogada a partir de 31 de outubro de 2003, data da vigência da Medida Provisória nº 135, de 30 de outubro de 2003, convertida na Lei nº 10.833, de 2003.
+JORGE ANTONIO DEHER RACHID
