@@ -1,0 +1,21 @@
+# Decreto-Lei nº 5.462, de 05/05/1943
+
+DECRETO-LEI NDECRETO-LEI Nnormandousuario4162002-02-02T11:02:00Z2002-02-05T13:44:00Z1124710POLICENTRO-CONSULPREV008710.0000
+
+DECRETO‑LEI N. 5.462 – DE 5 DE MAIO DE 1943
+
+Abre ao Ministério da Fazenda o crédito especial de Cr$ 10.181.480,00 para atender a despesas de desapropriação
+
+O Presidente da República, usando da atribuicão que lhe confere o artigo 180 da Constituição,
+
+decreta:
+
+Art. 1º Fica aberto ao Ministério da Fazenda o crédito especial de dez milhões, cento e oitenta e um mil, quatrocentos e oitenta cruzeiros (Cr$10.181.480,00), para atender às despesas decorrentes da desapropriação (Obras, Desapropriação e Aquisição de Imoveis) a que se refere o art. 3º do decreto‑lei n. 5.271, de 23 de fevereiro de 1943.
+
+Art. 2º O presente decreto‑lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Rio de Janeiro, 5 de maio de 1943, 122º da Independência e 55º da República.
+
+GETULIO VARGAS.
+
+A. de Souza Costa
