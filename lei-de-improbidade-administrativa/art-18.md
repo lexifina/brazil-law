@@ -1,0 +1,1 @@
+Art. 18. A sentença que julgar procedente ação civil de reparação de dano ou decretar a perda dos bens havidos ilicitamente determinará o pagamento ou a reversão dos bens, conforme o caso, em favor da pessoa jurídica prejudicada pelo ilícito.
