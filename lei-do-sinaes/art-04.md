@@ -1,0 +1,3 @@
+Art. 4º A avaliação dos cursos de graduação tem por objetivo identificar as condições de ensino oferecidas aos estudantes, em especial as relativas ao perfil do corpo docente, às instalações físicas e à organização didático-pedagógica.
+§ 1º A avaliação dos cursos de graduação utilizará procedimentos e instrumentos diversificados, dentre os quais obrigatoriamente as visitas por comissões de especialistas das respectivas áreas do conhecimento.
+§ 2º A avaliação dos cursos de graduação resultará na atribuição de conceitos, ordenados em uma escala com 5 (cinco) níveis, a cada uma das dimensões e ao conjunto das dimensões avaliadas.

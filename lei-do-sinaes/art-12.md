@@ -1,0 +1,1 @@
+Art. 12. Os responsáveis pela prestação de informações falsas ou pelo preenchimento de formulários e relatórios de avaliação que impliquem omissão ou distorção de dados a serem fornecidos ao SINAES responderão civil, penal e administrativamente por essas condutas.
