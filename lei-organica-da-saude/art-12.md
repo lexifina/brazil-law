@@ -1,0 +1,2 @@
+Art. 12. Serão criadas comissões intersetoriais de âmbito nacional, subordinadas ao Conselho Nacional de Saúde, integradas pelos Ministérios e órgãos competentes e por entidades representativas da sociedade civil.
+Parágrafo único. As comissões intersetoriais terão a finalidade de articular políticas e programas de interesse para a saúde, cuja execução envolva áreas não compreendidas no âmbito do Sistema Único de Saúde (SUS).
