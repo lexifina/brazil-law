@@ -1,0 +1,3 @@
+Instrução Normativa DPRF nº 95, de 30 de outubro de 1991
+Altera o Imposto sobre Produtos Industrializados - IPI, incidente sobre as bebidas que especifica.
+O DIRETOR DO DEPARTAMENTO DA RECEITA FEDERAL, no uso da delegação de competência conferida pela Portaria do Secretário da Fazenda Nacional n° 1.157, de 05 setembro de 1991, resolve:
