@@ -1,0 +1,1 @@
+Art. 2º É livre a criação, fusão, incorporação e extinção de partidos políticos cujos programas respeitem a soberania nacional, o regime democrático, o pluripartidarismo e os direitos fundamentais da pessoa humana.
