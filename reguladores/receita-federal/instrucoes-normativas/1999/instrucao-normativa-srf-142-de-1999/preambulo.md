@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 142, de 9 de dezembro de 1999
+Aprova o modelo de Comprovante Anual de Rendimentos Pagos ou Creditados e de Retenção de Imposto de Renda na Fonte relativo a rendimentos pagos ou creditados por pessoas jurídicas a outras pessoas jurídicas, sujeitos à retenção na fonte.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições, e tendo em vista as disposições do art. 86 da Lei No 8.981, de 20 de janeiro de 1995, do art. 30 da Lei No 9.249, de 26 de dezembro de 1995, do art. 943 do Decreto No 3.000, de 26 de março de 1999 (Regulamento do Imposto de Renda), e da Lei No 9.779, de 19 de janeiro de 1999, resolve:
