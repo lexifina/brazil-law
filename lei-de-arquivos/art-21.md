@@ -1,0 +1,1 @@
+Art. 21 - Legislação estadual, do Distrito Federal e municipal definirá os critérios de organização e vinculação dos arquivos estaduais e municipais, bem como a gestão e o acesso aos documentos, observado o disposto na Constituição Federal e nesta Lei.
