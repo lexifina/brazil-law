@@ -1,0 +1,92 @@
+DECISÃO
+FINSOCIAL - EMPRESAS PRESTADORAS DE
+SERVIÇOS - MAJORAÇÃO DE ALÍQUOTA -
+LEIS NºS 7.689/88, 7.787/89, 7.894/89
+E 8.147/90 - RECURSO EXTRAORDINÁRIO -
+PROVIMENTO.
+1.      O Tribunal Regional Federal da 5ª Região negou acolhida a
+pedido
+formulado em apelação, consignando:
+CONSTITUCIONAL E TRIBUTÁRIO. FINSOCIAL. MAJORAÇÕES DE ALÍQUOTAS.
+INCONSTITUCIONALIDADE. RESTITUIÇÃO DE VALORES PAGOS
+INDEVIDAMENTE. JUROS DE MORA. CONTAGEM A PARTIR DO TRÂNSITO EM
+JULGADO. DEPÓSITOS JUDICIAIS CONVERTIDOS  EM FAVOR DA UNIÃO.
+1. "Subsiste, até a vigência e eficácia da Lei Complementar nº
+70/91, a cobrança do FINSOCIAL, com base no  Decreto-Lei nº
+1.940/82, sendo inconstitucionais as alterações introduzidas
+pela Lei nº 7.887/89, ressalvada a situação das empresas
+prestadoras de serviços."
+2. Em questões de repetição de indébito tributário, os juros de
+mora devem ser computados a partir do trânsito em julgado da
+sentença, consoante entendimento do art. 167 do CNT.
+3. Tendo sido declaradas inconstitucionais as majorações das
+alíquotas do FINSOCIAL, e já tendo a apelante levantado os 75%
+(setenta e cinco por cento) que recolheu a maior, os 25% (vinte
+e cinco por cento) restantes são referentes à alíquota de 0,5
+(zero vírgula cinco por cento), tida como constitucional, pelo
+que devem ser convertidos em renda da União.
+4. Apelação e remessa oficial improvidas (folha 198).
+Exsurgiram embargos de declaração, acolhidos para esclarecer que
+a conclusão adotada, quanto à  inconstitucionalidade da majoração da
+alíquota do
+FINSOCIAL  se aplica também em relação às prestadoras de serviços
+(folha 209 à
+214).
+No extraordinário de folha 217 à 223, interposto com alegada
+base nas alíneas "a" e "b" do permissivo constitucional, a União busca
+demonstrar
+a constitucionalidade da majoração de alíquota do FINSOCIAL
+relativamente às
+empresas prestadoras de serviços.
+As Recorridas apresentaram as contra-razões de folha 227 à 233,
+estando o procedimento atinente ao juízo primeiro de admissibilidade à
+folha 235.
+2.      Na interposição deste recurso foram observados os pressupostos
+gerais de recorribilidade. A peça, subscrita por procurador da Fazenda
+Nacional,
+restou protocolada no prazo em dobro a que tem jus a Recorrente.
+Em 25 de junho de 1997, foi concluído, no âmbito do Plenário, o
+julgamento do Recurso Extraordinário nº 187.436-8/RS, entendendo-se que
+o artigo
+56 do Ato das Disposições Constitucionais Transitórias não alberga a
+situação das
+prestadoras de serviço. Assim, tal como o artigo 28 da Lei nº 7.738/89,
+os artigos
+1º da Lei nº 7.787/89, 1º da Lei nº 7.894/89 e 1º da Lei nº 8.147/90
+são
+constitucionais, no que implicaram o aumento da contribuição, porque
+enquadrável
+esta última no inciso I do artigo 195 do Diploma Maior. Eis como restou
+equacionada a hipótese:
+FINSOCIAL - PRESTADORAS DE SERVIÇOS - DECRETO-LEI Nº
+1.940/82 - NATUREZA - ARTIGO 28 DA LEI Nº 7.738/89 - ADICIONAL
+DE IMPOSTO DE RENDA - CONTRIBUIÇÃO SOCIAL - MAJORAÇÕES -
+CONSTITUCIONALIDADE. O FINSOCIAL devido pelas empresas
+exclusivamente prestadoras de serviços não foi alcançado pela
+norma do artigo 56 do Ato das Disposições Constitucionais
+Transitórias da Carta de 1988. Recebido pelo Diploma Maior como
+adicional de imposto sobre a renda, veio a ser substituído pelo
+gênero contribuição social, presente a modalidade lucro com o
+sentido de faturamento - artigo 28 da Lei nº 7.738/89 (Recurso
+Extraordinário nº 150.755-1/PE, julgado provido, por maioria,
+pelo Plenário, tendo sido Redator designado para o acórdão o
+Ministro Sepúlveda Pertence, com aresto veiculado no Diário da
+Justiça de 20 de agosto de 1993). Constitucionalidade das
+majorações decorrentes dos artigos 9º da Lei nº 7.689/88, 7º da
+Lei nº 7.787/89, 1º da Lei nº 7.894/89 e 1º da Lei nº 8.147/90.
+Precedente: Recurso Extraordinário nº 187.436-8/RS, por mim
+relatado, perante o Pleno, com acórdão publicado no Diário da
+Justiça de 31 de outubro de 1997.
+3.      Destarte, tendo em vista o precedente citado, e o disposto no
+artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso e
+dou-lhe
+provimento para assentar a constitucionalidade dos citados preceitos
+legais em
+relação às empresas prestadoras de serviços e, em conseqüência, a
+legitimidade da
+majoração da alíquota.
+4.      Publique-se.
+Brasília, 4 de maio de 2000.
+Ministro MARCO AURÉLIO
+Relator
+3
