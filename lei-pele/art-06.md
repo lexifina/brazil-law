@@ -1,4 +1,4 @@
-Art. 6º Constituem recursos do INDESP:
+Art. 6º Constituem recursos do Ministério do Esporte:
 I - receitas oriundas de concursos de prognósticos previstos em lei;
 II - adicional de quatro e meio por cento incidente sobre cada bilhete, permitido o arredondamento do seu valor feito nos concursos de prognósticos a que se refere o Decreto-Lei nº 594, de 27 de maio de 1969, e a Lei nº 6.717, de 12 de novembro de 1979, destinado ao cumprimento do disposto no art. 7º;
 III - doações, legados e patrocínios;

@@ -11,3 +11,9 @@ IX - da qualidade, assegurado pela valorização dos resultados desportivos, edu
 X - da descentralização, consubstanciado na organização e funcionamento harmônicos de sistemas desportivos diferenciados e autônomos para os níveis federal, estadual, distrital e municipal;
 XI - da segurança, propiciado ao praticante de qualquer modalidade desportiva, quanto a sua integridade física, mental ou sensorial;
 XII - da eficiência, obtido por meio do estímulo à competência desportiva e administrativa.
+Parágrafo único. A exploração e a gestão do desporto profissional constituem exercício de atividade econômica sujeitando-se, especificamente, à observância dos princípios:
+I - da transparência financeira e administrativa;
+II - da moralidade na gestão desportiva;
+III - da responsabilidade social de seus dirigentes;
+IV - do tratamento diferenciado em relação ao desporto não profissional; e
+V - da participação na organização desportiva do País.

@@ -7,3 +7,4 @@ c) inadimplentes na prestação de contas da própria entidade;
 d) afastados de cargos eletivos ou de confiança de entidade desportiva ou em virtude de gestão patrimonial ou financeira irregular ou temerária da entidade;
 e) inadimplentes das contribuições previdenciárias e trabalhistas;
 f) falidos.
+Parágrafo único. Independentemente de previsão estatutária é obrigatório o afastamento preventivo e imediato dos dirigentes, eleitos ou nomeados, caso incorram em qualquer das hipóteses do inciso II, assegurado o processo regular e a ampla defesa para a destituição.
