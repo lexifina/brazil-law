@@ -1,0 +1,1 @@
+Art. 1º. O Presidente da República, o Presidente do Supremo Tribunal Federal e os membros do Congresso Nacional prestarão o compromisso de manter, defender e cumprir a Constituição, no ato e na data de sua promulgação.
