@@ -1,0 +1,4 @@
+Ato Declaratório Interpretativo CGREFIS nº 2, de 26 de fevereiro de 2002
+Dispõe sobre a inaplicabilidade de hipótese de exclusão ao parcelamento alternativo ao Programa de Recuperação Fiscal.
+O COMITÊ GESTOR DO PROGRAMA DE RECUPERAÇÃO FISCAL, constituído pela Portaria Interministerial MF/MPAS nº 21, de 31 de janeiro de 2000, no uso da competência estabelecida na Lei nº 9.964, de 10 de abril de 2000, e no Decreto nº 3.431, de 24 de abril de 2000, e considerando que o cálculo das parcelas devidas no parcelamento alternativo ao Programa de Recuperação Fiscal não se vincula à receita bruta auferida pela pessoa jurídica optante, declara:
+Artigo único. O disposto no art. 15, inciso XI, do Decreto nº 3.431, de 24 de abril de 2000, não se aplica à pessoa jurídica optante pelo parcelamento a que se refere o art. 12 da Lei nº 9.964, de 10 de abril de 2000.
