@@ -5,6 +5,7 @@ b) por conta própria, subscrevendo ou comprando a emissão para a colocar no me
 II - as sociedades que tenham por objeto a compra de valores mobiliários em circulação no mercado, para os revender por conta própria;
 III - as sociedades e os agentes autônomos que exerçam atividades de mediação na negociação de valores mobiliários, em bolsas de valores ou no mercado de balcão;
 IV - as bolsas de valores.
+V - entidades de mercado de balcão organizado.
 § 1º - Compete ao Conselho Monetário Nacional definir:
 I - os tipos de instituição financeira que poderão exercer atividades no mercado de valores mobiliários, bem como as espécies de operação que poderão realizar e de serviços que poderão prestar nesse mercado;
 II - a especialização de operações ou serviços a ser observada pelas sociedades do mercado, e as condições em que poderão cumular espécies de operação ou serviços.

@@ -111,7 +111,7 @@ Substituição de Garantias e Modificação da Escritura
 SEÇÃO VII
 Assembléia de Debenturistas
 Seção VIII
-Cédula Pignoratícia de Debêntures
+Cédula de debêntures
 SEÇÃO IX
 Emissão de Debêntures no Estrangeiro
 SEÇÃO X
