@@ -1,0 +1,2 @@
+Art. 36. É proibida a operação de crédito entre uma instituição financeira estatal e o ente da Federação que a controle, na qualidade de beneficiário do empréstimo.
+Parágrafo único. O disposto no caput não proíbe instituição financeira controlada de adquirir, no mercado, títulos da dívida pública para atender investimento de seus clientes, ou títulos da dívida de emissão da União para aplicação de recursos próprios.
