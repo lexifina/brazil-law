@@ -1,0 +1,1 @@
+Art. 1º - E concedida à prefeitura Municipal de Cametá, Estado do Pará isenção de todos os tributos, exceto a taxa de previdência social, que incidam sôbre dois conjugados Diesel kiel, de 120 cavalos e 75 KW, e respectivos pertences, destinados à reforma de serviço de fôrça e luz mantido pela mesma Prefeitura.
