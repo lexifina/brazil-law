@@ -1,0 +1,3 @@
+Art. 1º - O item XI do artigo 1º do Decreto-lei nº 1164, de 1º de abril de 1971, alterado pelo artigo 18 da Lei nº 5.917, de 10 de setembro de 1973, passa a vigorar com a seguinte redação:
+“Art. 1º - ...................................................................................................................
+XI - BR 156 - Trecho: Cachoeira de Santo Antônio-Macapá-Calçoene-Oiapoque-Fronteira com a Guiana Francesa, na extensiva aproximada de 912 km”.
