@@ -1,0 +1,2 @@
+Dispõe sobre o alongamento de dívidas originárias de crédito rural, de que trata a Lei nº 9.138, de 29 de novembro de 1995, e de dívidas para com o Fundo de Defesa da Economia Cafeeira - Funcafé, instituído pelo Decreto-Lei nº 2.295, de 21 de novembro de 1986, que foram reescalonadas no exercício de 1997, das operações de custeio e colheita da safra 1997/1998, à luz de resolução do Conselho Monetário Nacional, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
