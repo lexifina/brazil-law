@@ -1,0 +1,2 @@
+Dispõe sobre a assunção, pela União, de crédito do Banco do Brasil S.A. junto à Embraer - Empresa Brasileira de Aeronáutica S.A.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 505, de 1994, que o Congresso Nacional aprovou, e eu, HUMBERTO LUCENA, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
