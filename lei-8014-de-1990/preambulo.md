@@ -1,0 +1,2 @@
+Dispõe sobre a tributação, pelo Imposto de Renda, dos ganhos líquidos obtidos em bolsas de valores, de mercadorias, de futuros e assemelhados.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 162, de 1990, que o Congresso Nacional aprovou, e eu, NELSON CARNEIRO, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
