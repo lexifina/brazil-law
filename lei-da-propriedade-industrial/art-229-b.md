@@ -1,0 +1,1 @@
+Art. 229-B. Os pedidos de patentes de produto apresentados entre 1º de janeiro de 1995 e 14 de maio de 1997, aos quais o art. 9º, alíneas "b" e "c", da Lei nº 5.772, de 1971, não conferia proteção e cujos depositantes não tenham exercido a faculdade prevista nos arts. 230 e 231, serão decididos até 31 de dezembro de 2004, em conformidade com esta Lei.
