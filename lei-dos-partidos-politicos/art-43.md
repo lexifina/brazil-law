@@ -1,0 +1,1 @@
+Art. 43. Os depósitos e movimentações dos recursos oriundos do Fundo Partidário serão feitos em estabelecimentos bancários controlados pelo Poder Público Federal, pelo Poder Público Estadual ou, inexistindo estes, no banco escolhido pelo órgão diretivo do partido.

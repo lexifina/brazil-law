@@ -1,0 +1,1 @@
+Art. 63. Ficam revogadas a Lei nº 5.682, de 21 de julho de 1971, e respectivas alterações; a Lei nº 6.341, de 5 de julho de 1976; a Lei nº 6.817, de 5 de setembro de 1980; a Lei nº 6.957, de 23 de novembro de 1981; o art. 16 da Lei nº 6.996, de 7 de junho de 1982; a Lei nº 7.307, de 9 de abril de 1985, e a Lei nº 7.514, de 9 de julho de 1986.
