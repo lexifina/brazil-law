@@ -1,0 +1,6 @@
+Ato Declaratório Interpretativo SRF nº 18, de 21 de outubro de 2002
+Dispõe sobre a redução das multas de lançamento de ofício previstas na legislação dos impostos de importação e de exportação.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, tendo em vista o disposto no art. 6º da Lei nº 8.218, de 29 de agosto de 1991, e o que consta no processo nº 10168.005502/2002-48, declara:
+Art. 1º Aplica-se a redução prevista no art 6º da Lei nº 8.218, de 29 de agosto de 1991, às multas de lançamento de ofício decorrentes de infrações relativas aos impostos de importação e de exportação, inclusive às formalizadas no curso do despacho aduaneiro ou por ocasião da revisão aduaneira, às multas administrativas ao controle das importações e às multas expressas em valor mínimo, exceto nas hipóteses em que a Lei instituidora da multa dispuser de forma contrária.
+Art. 2º Não estão abrangidas pela redução de que trata o art. 1º as multas cobradas em virtude de conversão ou de relevação da pena de perdimento.
+Art. 3º Fica revogado o Ato Declaratório (Normativo) Cosit nº 16, de 25 de setembro de 1998.
