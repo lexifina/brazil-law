@@ -1,0 +1,2 @@
+Altera a Lei nº 5.107, de 13 de setembro de 1966, que criou o Fundo de Garantia do Tempo de Serviço, e a Lei nº 6.919, de 2 de junho de 1981, que faculta a extensão do regime do FGTS aos diretores não empregados.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 72, de 1989, que o Congresso Nacional aprovou, e eu, Nelson Carneiro, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
