@@ -1,0 +1,2 @@
+Art. 25. Poderá o próprio trabalhador, seus dependentes e sucessores, ou ainda o Sindicato a que estiver vinculado, acionar diretamente a empresa por intermédio da Justiça do Trabalho, para compeli-la a efetuar o depósito das importâncias devidas nos termos desta lei.
+Parágrafo único. A Caixa Econômica Federal e o Ministério do Trabalho e da Previdência Social deverão ser notificados da propositura da reclamação.
