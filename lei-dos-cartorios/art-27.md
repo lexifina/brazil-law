@@ -1,0 +1,1 @@
+Art. 27. No serviço de que é titular, o notário e o registrador não poderão praticar, pessoalmente, qualquer ato de seu interesse, ou de interesse de seu cônjuge ou de parentes, na linha reta, ou na colateral, consangüíneos ou afins, até o terceiro grau.
