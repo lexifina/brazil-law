@@ -1,0 +1,1 @@
+Art. 27. Quando a denúncia não for intentada no prazo legal, o ofendido poderá representar ao Procurador-Geral da República, para que este a ofereça, designe outro órgão do Ministério Público para oferecê-la ou determine o arquivamento das peças de informação recebidas.
