@@ -1,0 +1,1 @@
+Art. 22. Na primeira gestão da ANA, um diretor terá mandato de três anos, dois diretores terão mandatos de quatro anos e dois diretores terão mandatos de cinco anos, para implementar o sistema de mandatos não coincidentes.

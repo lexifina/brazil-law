@@ -1,0 +1,3 @@
+Art. 6º A ANA poderá emitir outorgas preventivas de uso de recursos hídricos, com a finalidade de declarar a disponibilidade de água para os usos requeridos, observado o disposto no art. 13 da Lei nº 9.433, de 1997.
+§ 1º A outorga preventiva não confere direito de uso de recursos hídricos e se destina a reservar a vazão passível de outorga, possibilitando, aos investidores, o planejamento de empreendimentos que necessitem desses recursos.
+§ 2º O prazo de validade da outorga preventiva será fixado levando-se em conta a complexidade do planejamento do empreendimento, limitando-se ao máximo de três anos, findo o qual será considerado o disposto nos incisos I e II do art. 5º.

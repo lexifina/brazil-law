@@ -1,0 +1,2 @@
+Art. 26. O Poder Executivo, no prazo de noventa dias, contado a partir da data de publicação desta Lei, por meio de decreto do Presidente da República, estabelecerá a estrutura regimental da ANA, determinando sua instalação.
+Parágrafo único. O decreto a que se refere o caput estabelecerá regras de caráter transitório, para vigorarem na fase de implementação das atividades da ANA, por prazo não inferior a doze e nem superior a vinte e quatro meses, regulando a emissão temporária, pela ANEEL, das declarações de reserva de disponibilidade hídrica de que trata o art. 7º.

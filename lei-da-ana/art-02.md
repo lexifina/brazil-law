@@ -1,0 +1,1 @@
+Art. 2º Compete ao Conselho Nacional de Recursos Hídricos promover a articulação dos planejamentos nacional, regionais, estaduais e dos setores usuários elaborados pelas entidades que integram o Sistema Nacional de Gerenciamento de Recursos Hídricos e formular a Política Nacional de Recursos Hídricos, nos termos da Lei nº 9.433, de 8 de janeiro de 1997.

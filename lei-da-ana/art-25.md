@@ -1,0 +1,2 @@
+Art. 25. O Poder Executivo implementará a descentralização das atividades de operação e manutenção de reservatórios, canais e adutoras de domínio da União, excetuada a infra-estrutura componente do Sistema Interligado Brasileiro, operado pelo Operador Nacional do Sistema Elétrico - ONS.
+Parágrafo único. Caberá à ANA a coordenação e a supervisão do processo de descentralização de que trata este artigo.
