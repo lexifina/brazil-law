@@ -1,0 +1,1 @@
+Art. 19. Aplica-se aos gestores e responsáveis por instituições que permitam a prática de qualquer dos atos ilícitos previstos nesta Lei o disposto no caput e nos §§ 1º e 2º do art. 29 do Decreto-lei nº 2.848, de 7 de dezembro de 1940 - Código Penal.
