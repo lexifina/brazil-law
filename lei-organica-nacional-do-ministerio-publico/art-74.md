@@ -1,0 +1,1 @@
+Art. 74. Para fins do disposto no art. 104, parágrafo único, inciso II, da Constituição Federal e observado o que dispõe o art. 15, inciso I, desta Lei, a lista sêxtupla de membros do Ministério Público será organizada pelo Conselho Superior de cada Ministério Público dos Estados.
