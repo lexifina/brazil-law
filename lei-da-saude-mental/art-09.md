@@ -1,0 +1,1 @@
+Art. 9º A internação compulsória é determinada, de acordo com a legislação vigente, pelo juiz competente, que levará em conta as condições de segurança do estabelecimento, quanto à salvaguarda do paciente, dos demais internados e funcionários.

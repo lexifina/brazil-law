@@ -1,0 +1,3 @@
+Art. 8º A internação voluntária ou involuntária somente será autorizada por médico devidamente registrado no Conselho Regional de Medicina - CRM do Estado onde se localize o estabelecimento.
+§ 1º A internação psiquiátrica involuntária deverá, no prazo de setenta e duas horas, ser comunicada ao Ministério Público Estadual pelo responsável técnico do estabelecimento no qual tenha ocorrido, devendo esse mesmo procedimento ser adotado quando da respectiva alta.
+§ 2º O término da internação involuntária dar-se-á por solicitação escrita do familiar, ou responsável legal, ou quando estabelecido pelo especialista responsável pelo tratamento.
