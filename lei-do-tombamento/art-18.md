@@ -1,0 +1,1 @@
+Art. 18. Sem prévia autorização do Serviço do Patrimônio Histórico e Artístico Nacional, não se poderá, na vizinhança da coisa tombada, fazer construção que lhe impeça ou reduza a visibílidade, nem nela colocar anúncios ou cartazes, sob pena de ser mandada destruir a obra ou retirar o objéto, impondo-se nêste caso a multa de cincoenta por cento do valor do mesmo objéto.

@@ -1,0 +1,1 @@
+Art. 24. A União manterá, para a conservação e a exposição de obras históricas e artísticas de sua propriedade, além do Museu Histórico Nacional e do Museu Nacional de Belas Artes, tantos outros museus nacionais quantos se tornarem necessários, devendo outrossim providênciar no sentido de favorecer a instituição de museus estaduais e municipais, com finalidades similares.

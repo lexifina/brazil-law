@@ -1,0 +1,1 @@
+Art. 25. O Serviço do Patrimônio Histórico e Artístico Nacional procurará entendimentos com as autoridades eclesiásticas, instituições científicas, históricas ou artísticas e pessôas naturais o jurídicas, com o objetivo de obter a cooperação das mesmas em benefício do patrimônio histórico e artístico nacional.

@@ -1,0 +1,1 @@
+Art. 20. As coisas tombadas ficam sujeitas à vigilância permanente do Serviço do Patrimônio Histórico e Artístico Nacional, que poderá inspecioná-los sempre que fôr julgado conveniente, não podendo os respectivos proprietários ou responsáveis criar obstáculos à inspeção, sob pena de multa de cem mil réis, elevada ao dôbro em caso de reincidência.

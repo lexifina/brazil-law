@@ -1,0 +1,1 @@
+Art. 23. O Poder Executivo providenciará a realização de acôrdos entre a União e os Estados, para melhor coordenação e desenvolvimento das atividades relativas à proteção do patrimônio histórico e artistico nacional e para a uniformização da legislação estadual complementar sôbre o mesmo assunto.

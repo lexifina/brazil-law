@@ -1,0 +1,1 @@
+Art. 16. No caso de extravio ou furto de qualquer objéto tombado, o respectivo proprietário deverá dar conhecimento do fáto ao Serviço do Patrimônio Histórico e Artístico Nacional, dentro do prazo de cinco dias, sob pena de multa de dez por cento sôbre o valor da coisa.
