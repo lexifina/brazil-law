@@ -1,27 +1,27 @@
-CAPÍTULO I
-DISPOSIÇÕES PRELIMINARES
-CAPÍTULO II
-DA SELEÇÃO DE LOCAIS PARA DEPÓSITOS
-DE REJEITOS RADIOATIVOS
-CAPÍTULO III
-DA CONSTRUÇÃO DE DEPÓSITOS DE REJEITOS RADIOATIVOS
-CAPÍTULO IV
-DO LICENCIAMENTO E DA FISCALIZAÇÃO DOS DEPÓSITOS
-CAPÍTULO V
-DA ADMINISTRAÇÃO E OPERAÇÃO DOS DEPÓSITOS
-CAPÍTULO VI
-DA REMOÇÃO DOS REJEITOS
-CAPÍTULO VII
-DOS CUSTOS DOS DEPÓSITOS DE REJEITOS RADIOATIVOS
-CAPÍTULO VIII
-DA RESPONSABILIDADE CIVIL
-CAPÍTULO IX
-DAS GARANTIAS
-CAPÍTULO X
-DOS DIREITOS SOBRE OS REJEITOS RADIOATIVOS
-CAPÍTULO XI
-DOS DEPÓSITOS PROVISÓRIOS
-CAPÍTULO XII
-DISPOSIÇÕES GERAIS
-CAPÍTULO XIII
-DISPOSIÇÕES TRANSITÓRIAS
+Capítulo I
+Disposições Preliminares
+Capítulo II
+Da Seleção de Locais para Depósitos
+de Rejeitos Radioativos
+Capítulo III
+Da Construção de Depósitos de Rejeitos Radioativos
+Capítulo IV
+Do Licenciamento e da Fiscalização dos Depósitos
+Capítulo V
+Da Administração e Operação dos Depósitos
+Capítulo VI
+Da Remoção dos Rejeitos
+Capítulo VII
+Dos Custos dos Depósitos de Rejeitos Radioativos
+Capítulo VIII
+Da Responsabilidade Civil
+Capítulo IX
+Das Garantias
+Capítulo X
+Dos Direitos sobre os Rejeitos Radioativos
+Capítulo XI
+Dos Depósitos Provisórios
+Capítulo XII
+Disposições Gerais
+Capítulo XIII
+Disposições Transitórias
