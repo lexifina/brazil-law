@@ -19,3 +19,6 @@ II - no caso de empresas de seguros privados, os rendimentos auferidos nas aplic
 III - no caso de entidades de previdência privada, abertas e fechadas, os rendimentos auferidos nas aplicações financeiras destinadas ao pagamento de benefícios de aposentadoria, pensão, pecúlio e de resgates;
 IV - no caso de empresas de capitalização, os rendimentos auferidos nas aplicações financeiras destinadas ao pagamento de resgate de títulos.
 § 7º As exclusões previstas nos incisos II a IV do parágrafo anterior restringem-se aos rendimentos de aplicações financeiras que não excedam o total das provisões técnicas, constituídas na forma fixada pela Superintendência de Seguros Privados -SUSEP.
+§ 8º Na determinação da base de cálculo da contribuição para o PIS/PASEP e da COFINS, poderão ser deduzidas as despesas de captação de recursos incorridas pelas pessoas jurídicas que tenham por objeto a securitização de créditos:
+I - imobiliários, nos termos da Lei nº 9.514, de 20 de novembro de 1997;
+II - financeiros, observada regulamentação editada pelo Conselho Monetário Nacional.
