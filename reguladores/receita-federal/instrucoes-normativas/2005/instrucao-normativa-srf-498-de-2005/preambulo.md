@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 498, de 24 de janeiro de 2005
+Dispõe sobre a exportação de cigarros, bem assim sobre o selo de controle a que estão sujeitos estes produtos, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no Decreto-Lei nº 1.593, de 21 de dezembro de 1977, e alterações posteriores, no art. 46 da Lei nº 4.502, de 30 de novembro de 1964, e nos arts. 223 e 261 do Decreto nº 4.544, de 26 de dezembro de 2002, Regulamento do Imposto sobre Produtos Industrializados (RIPI), resolve:
