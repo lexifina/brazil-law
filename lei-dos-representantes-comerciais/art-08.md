@@ -1,0 +1,1 @@
+Art. 8º O Conselho Federal será composto de representantes comerciais de cada Estado, eleitos pelos Conselhos Regionais, dentre seus membros, cabendo a cada Conselho Regional a escolha de dois (2) delegados.

@@ -1,0 +1,1 @@
+Art. 9º Compete ao Conselho Federal determinar o número dos Conselhos Regionais, o qual não poderá ser superior a um por Estado, Território Federal e Distrito Federal, e estabelecer-lhes as bases territoriais.
