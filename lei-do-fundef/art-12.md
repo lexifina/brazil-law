@@ -1,0 +1,1 @@
+Art. 12. O Ministério da Educação e do Desporto realizará avaliações periódicas dos resultados da aplicação desta Lei, com vistas à adoção de medidas operacionais e de natureza político-educacional corretivas, devendo a primeira realizar-se dois anos após sua promulgação.
