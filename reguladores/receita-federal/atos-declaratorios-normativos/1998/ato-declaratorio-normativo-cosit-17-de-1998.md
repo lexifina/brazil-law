@@ -1,0 +1,7 @@
+Ato Declaratório Normativo Cosit nº 17, de 9 de novembro de 1998
+Dispõe sobre a compensação do Imposto de Renda da Pessoa Jurídica com o Imposto de Renda Retido na Fonte, decorrente de responsabilidade tributária relativa à remessa de rendimentos para o exterior.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso de suas atribuições, e tendo em vista o disposto nos arts. 121 e 166 da Lei No 5.172, de 25 de outubro de 1996 (CTN), no art. 66 da Lei No 8.383, de 31 de dezembro de 1991, alterado pelo art. 58 da Lei No 9.069, de 29 de junho de 1995, no art. 39 da Lei No 9.250, de 26 de dezembro de 1995, e na Instrução Normativa SRF No 21, de 10 de março de 1997,
+declara, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados, que:
+I - o disposto no inciso I do Ato Declaratório (Normativo) COSIT No 14, de 10 de setembro de 1998, não se aplica no caso de imposto de renda retido na fonte decorrente de responsabilidade tributária relativa à remessa de rendimentos para o exterior;
+II - na hipótese de a pessoa jurídica possuir saldo de imposto de renda da pessoa jurídica (crédito) e desejar compensá-lo com valores a recolher relativos à retenção na fonte decorrente de remessa de rendimento para o exterior, a compensação somente pode ser efetuada se autorizada pelos órgãos da Secretaria da Receita Federal, conforme o disposto no art. 12 da Instrução Normativa SRF No 21, de 1997.
+CARLOS ALBERTO DE NIZA E CASTRO
