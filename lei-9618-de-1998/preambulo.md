@@ -1,0 +1,1 @@
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.631-10, de 1998, que o CONGRESSO NACIONAL aprovou, e eu, ANTONIO CARLOS MAGALHÃES, PRESIDENTE, para os efeitos do disposto no parágrafo do art. 62 da Constituição Federal, promulgo a seguinte Lei:
