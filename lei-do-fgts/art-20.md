@@ -11,7 +11,7 @@ VI - liquidação ou amortização extraordinária do saldo devedor de financiam
 VII - pagamento total ou parcial do preço da aquisição de moradia própria, observadas as seguintes condições:
 a) o mutuário deverá contar com o mínimo de 3 (três) anos de trabalho sob o regime do FGTS, na mesma empresa ou empresas diferentes;
 b) seja a operação financiável nas condições vigentes para o SFH;
-VIII - quando permanecer 3 (três) anos ininterruptos, a partir da vigência desta lei, sem crédito de depósitos;
+VIII - quando o trabalhador permanecer três anos ininterruptos, a partir de 1º de junho de 1990, fora do regime do FGTS, podendo o saque, neste caso, ser efetuado a partir do mês de aniversário do titular da conta.
 IX - extinção normal do contrato a termo, inclusive o dos trabalhadores temporários regidos pela Lei nº 6.019, de 3 de janeiro de 1974;
 X - suspensão total do trabalho avulso por período igual ou superior a 90 (noventa) dias, comprovada por declaração do sindicato representativo da categoria profissional.
 § 1º A regulamentação das situações previstas nos incisos I e II assegurar que a retirada a que faz jus o trabalhador corresponda aos depósitos efetuados na conta vinculada durante o período de vigência do último contrato de trabalho, acrescida de juros e atualização monetária, deduzidos os saques.
