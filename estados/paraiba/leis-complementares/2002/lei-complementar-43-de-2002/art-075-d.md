@@ -1,0 +1,1 @@
+Art. 75-D. Compete ao Juiz da 2.ª Vara processar e julgar, privativamente, as causas dos arts. 41, 42 e 43 desta Lei, à exceção dos ~edidos de adoção, formulados por estrangeiros residentes ou domiciliados fora do Brasil. 12
