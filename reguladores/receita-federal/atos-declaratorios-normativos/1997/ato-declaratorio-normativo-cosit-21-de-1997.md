@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 21, de 7 de agosto de 1997
+Contribuição para o PIS/PASEP - Base de cálculo de Fundações Públicas
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das suas atribuições que lhe confere o art. 147, inciso III, do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria do Ministro da Fazenda nº 606, de 03 de setembro de 1992, e tendo em vista o disposto no inciso III do art. 2º da Medida Provisória nº 1.546-21, de 10 de julho de 1997,
+declara, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados que as fundações públicas, cujos servidores estejam submetidos ao Regime Jurídico próprio do ente político a que se vinculam, estão sujeitas à incidência da Contribuição para o PIS/PASEP, tendo como base de cálculo o valor mensal das receitas correntes arrecadadas e das transferências correntes e de capital recebidas, de acordo com o disposto no inciso III do art. 2º da citada Medida Provisória nº 1.546-21, de 1997.
+SANDRO MARTINS SILVA
