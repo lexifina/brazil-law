@@ -1,0 +1,1 @@
+Art. 18. Os acadêmicos de direito, a partir da 4ª série, poderão ser indicados pela assistência judiciária, ou nomeados pelo juiz para auxiliar o patrocínio das causas dos necessitados, ficando sujeitos às mesmas obrigações impostas por esta Lei aos advogados.

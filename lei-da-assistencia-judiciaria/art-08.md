@@ -1,0 +1,1 @@
+Art. 8º. Ocorrendo as circunstâncias mencionadas no artigo anterior, poderá o juiz, ex-offício, decretar a revogação dos benefícios, ouvida a parte interessada dentro de quarenta e oito horas improrrogáveis.

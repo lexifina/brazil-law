@@ -1,0 +1,1 @@
+Art. 10. São individuais e concedidos em cada caso ocorrente os benefícios de assistência judiciária, que se não transmitem ao cessionário de direito e se extinguem pela morte do beneficiário, podendo, entretanto, ser concedidos aos herdeiros que continuarem a demanda e que necessitarem de tais favores, na forma estabelecida nesta Lei.
