@@ -5,3 +5,4 @@ Art. 15. Para os fins previstos nesta lei, todos os empregadores ficam obrigados
 § 4º Considera-se remuneração as retiradas de diretores não empregados, quando haja deliberação da empresa, garantindo-lhes os direitos decorrentes do contrato de trabalho de que trata o art. 16.
 § 5º O depósito de que trata o caput deste artigo é obrigatório nos casos de afastamento para prestação do serviço militar obrigatório e licença por acidente do trabalho.
 § 6º Não se incluem na remuneração, para os fins desta Lei, as parcelas elencadas no § 9º do art. 28 da Lei nº 8.212, de 24 de julho de 1991.
+§ 7º Os contratos de aprendizagem terão a alíquota a que se refere o caput deste artigo reduzida para dois por cento.
