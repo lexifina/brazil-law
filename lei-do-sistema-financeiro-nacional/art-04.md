@@ -5,7 +5,7 @@ Quando necessidades urgentes e imprevistas para o financiamento dessas atividade
 II - Estabelecer condições para que o Banco Central da República do Brasil emita moeda-papel (Vetado) de curso forçado, nos termos e limites decorrentes desta Lei, bem como as normas reguladoras do meio circulante;
 III - Aprovar os orçamentos monetários, preparados pelo Banco Central da República do Brasil, por meio dos quais se estimarão as necessidades globais de moeda e crédito;
 IV - Determinar as características gerais (Vetado) das cédulas e das moedas;
-V - Fixar as diretrizes e normas (VETADO) da política cambial, inclusive compra e venda de ouro e quaisquer operações em moeda estrangeira;
+V - Fixar as diretrizes e normas da política cambial, inclusive quanto a compra e venda de ouro e quaisquer operações em Direitos Especiais de Saque e em moeda estrangeira;
 VI - Disciplinar o crédito em todas as suas modalidades e as operações creditícias em todas as suas formas, inclusive aceites, avais e prestações de quaisquer garantias por parte das instituições financeiras;
 VII - Coordenar a política de que trata o art. 3º desta Lei com a de investimentos do Governo Federal;
 VIII - Regular a constituição, funcionamento e fiscalização dos que exercerem atividades subordinadas a esta lei, bem como a aplicação das penalidades previstas;
