@@ -1,0 +1,4 @@
+Art. 8º A execução do contrato de gestão celebrado por organização social será fiscalizada pelo órgão ou entidade supervisora da área de atuação correspondente à atividade fomentada.
+§ 1º A entidade qualificada apresentará ao órgão ou entidade do Poder Público supervisora signatária do contrato, ao término de cada exercício ou a qualquer momento, conforme recomende o interesse público, relatório pertinente à execução do contrato de gestão, contendo comparativo específico das metas propostas com os resultados alcançados, acompanhado da prestação de contas correspondente ao exercício financeiro.
+§ 2º Os resultados atingidos com a execução do contrato de gestão devem ser analisados, periodicamente, por comissão de avaliação, indicada pela autoridade supervisora da área correspondente, composta por especialistas de notória capacidade e adequada qualificação.
+§ 3º A comissão deve encaminhar à autoridade supervisora relatório conclusivo sobre a avaliação procedida.

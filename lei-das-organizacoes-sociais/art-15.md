@@ -1,0 +1,1 @@
+Art. 15. São extensíveis, no âmbito da União, os efeitos dos arts. 11 e 12, § 3º, para as entidades qualificadas como organizações sociais pelos Estados, pelo Distrito Federal e pelos Municípios, quando houver reciprocidade e desde que a legislação local não contrarie os preceitos desta Lei e a legislação específica de âmbito federal.

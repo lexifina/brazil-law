@@ -1,0 +1,1 @@
+Art. 18. A organização social que absorver atividades de entidade federal extinta no âmbito da área de saúde deverá considerar no contrato de gestão, quanto ao atendimento da comunidade, os princípios do Sistema Único de Saúde, expressos no art. 198 da Constituição Federal e no art. 7º da Lei nº 8.080, de 19 de setembro de 1990.
