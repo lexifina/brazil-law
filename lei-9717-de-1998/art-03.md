@@ -1,0 +1,1 @@
+Art. 3º As contribuições dos servidores públicos e militares federais, estaduais e municipais e os militares dos Estados e do Distrito Federal, inativos e pensionistas, para os respectivos regimes próprios de previdência social, fixadas por critérios definidos em lei, serão feitas por alíquotas não superiores às aplicadas aos servidores ativos do respectivo ente estatal.
