@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF05 nº 2, de 4 de fevereiro de 2003
+ASSUNTO: Contribuição para o PIS/Pasep EMENTA: SUBSTITUIÇÃO TRIBUTÁRIA. VEÍCULOS. COMERCIANTE VAREJISTA. BASE DE CÁLCULO. INCENTIVO DE VENDAS. EXCLUSÃO. IMPOSSIBILIDADE.Créditos efetuados por fabricante de veículos em favor de comerciante varejista, no âmbito de programa de incentivo de vendas, não se enquadram como "receitas de venda", para efeito do disposto no art. 6º da IN SRF nº 54, de 2000, e não devem ser excluídos da base de cálculo da contribuição para o PIS/Pasep. DISPOSITIVOS LEGAIS: art. 43 da MP nº 2.158-35, de 2001, art. 64 da Lei nº 10.637, de 2002, art. 6º da IN SRF nº 54, de 2000, e art. 1º da IN SRF nº 112, de 2000.
+[arquivo anexo: SC Disit-SRRF05 nº 2-2003.pdf]
