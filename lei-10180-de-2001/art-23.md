@@ -1,0 +1,1 @@
+Art. 23. Fica instituída a Comissão de Coordenação de Controle Interno, órgão colegiado de coordenação do Sistema de Controle Interno do Poder Executivo Federal, com o objetivo de promover a integração e homogeneizar entendimentos dos respectivos órgãos e unidades.
