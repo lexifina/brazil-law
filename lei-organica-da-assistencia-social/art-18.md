@@ -1,8 +1,8 @@
 Art. 18. Compete ao Conselho Nacional de Assistência Social:
 I - aprovar a Política Nacional de Assistência Social;
 II - normatizar as ações e regular a prestação de serviços de natureza pública e privada no campo da assistência social;
-III - fixar normas para a concessão de registro e certificado de fins filantrópicos às entidades privadas prestadoras de serviços e assessoramento de assistência social;
-IV - conceder atestado de registro e certificado de entidades de fins filantrópicos, na forma do regulamento a ser fixado, observado o disposto no art. 9º desta lei;
+III - observado o disposto em regulamento, estabelecer procedimentos para concessão de registro e certificado de entidade beneficente de assistência social às instituições privadas prestadoras de serviços e assessoramento de assistência social que prestem serviços relacionados com seus objetivos institucionais;
+IV - conceder registro e certificado de entidade beneficente de assistência social;
 V - zelar pela efetivação do sistema descentralizado e participativo de assistência social;
 VI - a partir da realização da II Conferência Nacional de Assistência Social em 1997, convocar ordinariamente a cada quatro anos a Conferência Nacional de Assistência Social, que terá a atribuição de avaliar a situação da assistência social e propor diretrizes para o aperfeiçoamento do sistema;
 VII - (Vetado.)

@@ -1,7 +1,5 @@
 Art. 6º Fica facultada à União, aos Estados, ao Distrito Federal e aos Municípios, a constituição de fundos integrados de bens, direitos e ativos, com finalidade previdenciária, desde que observados os critérios de que trata o artigo 1º e, adicionalmente, os seguintes preceitos:
-I - estabelecimento de estrutura técnico-administrativa, com conselhos de administração e fiscal e autonomia financeira;
 II - existência de conta do fundo distinta da conta do Tesouro da unidade federativa;
-III - aporte de capital inicial em valor a ser definido conforme diretrizes gerais;
 IV - aplicação de recursos, conforme estabelecido pelo Conselho Monetário Nacional;
 V - vedação da utilização de recursos do fundo de bens, direitos e ativos para empréstimos de qualquer natureza, inclusive à União, aos Estados, ao Distrito Federal e aos Municípios, a entidades da administração indireta e aos respectivos segurados;
 VI - vedação à aplicação de recursos em títulos públicos, com exceção de títulos do Governo Federal;
