@@ -1,0 +1,1 @@
+Altera a redação do § 3º do artigo 543 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943, estendendo a estabilidade ao empregado associado investido em cargo de direção de associação profissional.
