@@ -1,0 +1,1 @@
+Art. 16. É vedada a formação de redes na exploração do Serviço de Radiodifusão Comunitária, excetuadas as situações de guerra, calamidade pública e epidemias, bem como as transmissões obrigatórias dos Poderes Executivo, Judiciário e Legislativo definidas em leis.

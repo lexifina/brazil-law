@@ -1,0 +1,2 @@
+Art. 5º O Poder Concedente designará, em nível nacional, para utilização do Serviço de Radiodifusão Comunitária, um único e específico canal na faixa de freqüência do serviço de radiodifusão sonora em freqüência modulada.
+Parágrafo único. Em caso de manifesta impossibilidade técnica quanto ao uso desse canal em determinada região, será indicado, em substituição, canal alternativo, para utilização exclusiva nessa região.
