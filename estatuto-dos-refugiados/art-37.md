@@ -1,0 +1,1 @@
+Art. 37. A expulsão de refugiado do território nacional não resultará em sua retirada para país onde sua vida, liberdade ou integridade física possam estar em risco, e apenas será efetivada quando da certeza de sua admissão em país onde não haja riscos de perseguição.

@@ -1,0 +1,1 @@
+Art. 23. A autoridade competente procederá a eventuais diligências requeridas pelo CONARE, devendo averiguar todos os fatos cujo conhecimento seja conveniente para uma justa e rápida decisão, respeitando sempre o princípio da confidencialidade.
