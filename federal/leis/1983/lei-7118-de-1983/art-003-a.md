@@ -1,0 +1,1 @@
+Art. 3º - A doação efetuar-se-á mediante contrato, a ser lavrado em livro próprio do Serviço do Patrimônio da União, tornando-se nula e com reversão do imóvel, sem direito a donatário a qualquer indenização, inclusive por benfeitorias realizadas, se a este for dada destinação diversa da prevista no artigo anterior ou se ocorrer inadimplemento de cláusula contratual.
