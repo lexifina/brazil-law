@@ -1,0 +1,1 @@
+Art. 12. Quando o inquérito, instaurado de acordo com o § 2º do art. 9º, concluir pela ocorrência de crime de ação pública, a Comissão de Valores Mobiliários oficiará ao Ministério Público, para a propositura da ação penal.

@@ -1,0 +1,3 @@
+Art. 26. Somente as empresas de auditoria contábil ou auditores contábeis independentes, registrados na Comissão de Valores Mobiliários poderão auditar, para os efeitos desta Lei, as demonstrações financeiras de companhias abertas e das instituições, sociedades ou empresas que integram o sistema de distribuição e intermediação de valores mobiliários.
+§ 1º - A Comissão estabelecerá as condições para o registro e o seu procedimento, e definirá os casos em que poderá ser recusado, suspenso ou cancelado.
+§ 2º - As empresas de auditoria contábil ou auditores contábeis independentes responderão, civilmente, pelos prejuízos que causarem a terceiros em virtude de culpa ou dolo no exercício das funções previstas neste artigo.
