@@ -1,0 +1,1 @@
+Art. 625-H. Aplicam-se aos Núcleos Intersindicais de Conciliação Trabalhista em funcionamento ou que vierem a ser criados, no que couber, as disposições previstas neste Título, desde que observados os princípios da paridade e da negociação coletiva na sua constituição.
