@@ -1,0 +1,1 @@
+Art. 29. A participação dos empregados na aquisição de ações far-se-á, opcionalmente, por intermédio de clube de investimento que constituírem para representá-los legalmente, inclusive como substituto processual, observada a regulamentação baixada pela Comissão de Valores Mobiliários - CVM.

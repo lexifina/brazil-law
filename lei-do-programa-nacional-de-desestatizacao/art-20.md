@@ -1,0 +1,2 @@
+Art. 20. Será de responsabilidade exclusiva dos administradores das sociedades incluídas no Programa Nacional de Desestatização o fornecimento, em tempo hábil, das informações sobre as mesmas, necessárias à execução dos processos de desestatização.
+Parágrafo único. Será considerada falta grave a ação ou omissão de empregados ou servidores públicos que, injustificadamente, opuserem dificuldades ao fornecimento de informações e outros dados necessários à execução dos processos de desestatização.

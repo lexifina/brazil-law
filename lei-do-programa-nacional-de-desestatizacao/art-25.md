@@ -1,0 +1,1 @@
+Art. 25. O Gestor do Fundo manterá assistência jurídica aos ex-membros da Comissão Diretora do Programa Nacional de Desestatização, na hipótese de serem demandados em razão de prática de atos decorrentes do exercício das suas respectivas funções no referido órgão.
