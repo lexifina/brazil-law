@@ -1,0 +1,2 @@
+Art. 2º Lei complementar, denominada Lei Orgânica do Ministério Público, cuja iniciativa é facultada aos Procuradores-Gerais de Justiça dos Estados, estabelecerá, no âmbito de cada uma dessas unidades federativas, normas específicas de organização, atribuições e estatuto do respectivo Ministério Público.
+Parágrafo único. A organização, atribuições e estatuto do Ministério Público do Distrito Federal e Territórios serão objeto da Lei Orgânica do Ministério Público da União.

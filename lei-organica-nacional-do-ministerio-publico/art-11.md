@@ -1,0 +1,1 @@
+Art. 11. O Procurador-Geral de Justiça poderá ter em seu Gabinete, no exercício de cargo de confiança, Procuradores ou Promotores de Justiça da mais elevada entrância ou categoria, por ele designados.
