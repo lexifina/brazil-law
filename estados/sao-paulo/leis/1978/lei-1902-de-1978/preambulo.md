@@ -1,0 +1,2 @@
+LEI N. 1.902, DE 20 DE DEZEMBRO DE 1978
+Revoga o § 2.º do
