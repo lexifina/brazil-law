@@ -1,0 +1,2 @@
+Art. 58. A requerimento de partido, o Juiz Eleitoral devolverá as fichas de filiação partidária existentes no cartório da respectiva Zona, devendo ser organizada a primeira relação de filiados, nos termos do art. 19, obedecidas as normas estatutárias.
+Parágrafo único. Para efeito de candidatura a cargo eletivo será considerada como primeira filiação a constante das listas de que trata este artigo.
