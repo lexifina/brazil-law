@@ -1,0 +1,2 @@
+## DISPOSIÇÕES TRANSITÓRIAS
+Artigo 1.º - Os plantadores de cana-de-açúcar que não atingirem, até 31 de dezembro de 2006, o percentual estabelecido de 30% (trinta por cento) de redução da queima na área mecanizável deverão apresentar à Secretaria do Meio Ambiente, no prazo de 90 (noventa) dias daquela data, plano de adequação para elaboração do Compromisso de Ajustamento de Conduta, de modo a atender a meta estabelecida no Artigo 2.º desta lei, resguardados os impactos sócio-político-econômicos e ambientais.
