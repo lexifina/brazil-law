@@ -1,0 +1,5 @@
+Instrução CVM nº 101, de 1989
+INSTRUÇÃO CVM Nº101, DE 17 DE JULHO DE 1989.
+Altera dispositivos da Instrução CVM nº64, de 19 de maio de 1987. que dispõe sobre os procedimentos para elaboração e publicação de demonstrações contábeis complementares, em moeda de capacidade aquisitiva constante, para pleno atendimento ao Princípio do Denominador Comum. Monetário.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS CVM torna público que o Colegiado, em sessão realizada nesta data, com fundamento nos artigos 176 "caput" e seus parágrafos 19 e 49, 177 parágrafo 3º e 249, parágrafo único, da Lei nº 6,404, de 15 de dezembro de 1976 e no artigo 22, parágrafo único, incisos I, II e IV da Lei nº 6.385. de.O7 de dezembro de 1976, e tendo em vista ainda o disposto no item 5.2 do pronunciamento anexo a Deliberação CVM nº 29, de 05 de fevereiro de 1986 e o disposto no artigo 15 da Lei nº 7.730, de 31 de janeiro de 1989, e em consonância com o artigo 27 da Lei nº 7.738, de 09 de março de 1989,
+R E S O L V E U:
