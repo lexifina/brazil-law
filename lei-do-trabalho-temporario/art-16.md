@@ -1,0 +1,1 @@
+Art. 16 - No caso de falência da empresa de trabalho temporário, a empresa tomadora ou cliente é solidariamente responsável pelo recolhimento das contribuições previdenciárias, no tocante ao tempo em que o trabalhador esteve sob suas ordens, assim como em referência ao mesmo período, pela remuneração e indenização previstas nesta Lei.
