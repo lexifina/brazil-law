@@ -1,0 +1,1 @@
+Art. 9º Ao despachar a inicial, o juiz ordenará que se notifique o coator do conteúdo da petição, entregando-lhe a segunda via apresentada pelo impetrante, com as cópias dos documentos, a fim de que, no prazo de dez dias, preste as informações que julgar necessárias.

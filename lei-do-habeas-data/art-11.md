@@ -1,0 +1,1 @@
+Art. 11. Feita a notificação, o serventuário em cujo cartório corra o feito, juntará aos autos cópia autêntica do ofício endereçado ao coator, bem como a prova da sua entrega a este ou da recusa, seja de recebê-lo, seja de dar recibo.
