@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 17, de 10 de março de 1994
+Estabelece procedimentos simplificados para a admissão temporária de unidades de medição, amostras de combustíveis e padrões de ensaios procedentes dos Estados-Partes do MERCOSUL.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições que lhe confere o art. 294 do Regulamento Aduaneiro, aprovado pelo Decreto nº 91.030/85, e da competência delegada pelo art. 140 inciso III da Portaria nº 606, de 3 de outubro de 1992, combinado com as disposições da Portaria MF nº 678, de 22 de outubro de 1992, e tendo em vista as definições que resultaram da XII Reunião do Grupo Mercado Comum, resolve:
