@@ -1,0 +1,6 @@
+ANEXO I
+DECLARAÇÃO DE CONTROLE DE INTERNAÇÃO - INDIVIDUAL
+[arquivo anexo: Anexo I.htm]
+ANEXO II
+DECLARAÇÃO DE CONTROLE DE INTERNAÇÃO - MENSAL
+[arquivo anexo: Anexo II.htm]
