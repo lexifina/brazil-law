@@ -1,0 +1,1 @@
+Art. 70. Durante o período de transição de que trata o artigo anterior, a ANP estabelecerá critérios para as importações de petróleo, de seus derivados básicos e de gás natural, os quais serão compatíveis com os critérios de desregulamentação de preços, previstos no mesmo dispositivo.
