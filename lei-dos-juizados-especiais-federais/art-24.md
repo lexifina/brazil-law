@@ -1,0 +1,1 @@
+Art. 24. O Centro de Estudos Judiciários do Conselho da Justiça Federal e as Escolas de Magistratura dos Tribunais Regionais Federais criarão programas de informática necessários para subsidiar a instrução das causas submetidas aos Juizados e promoverão cursos de aperfeiçoamento destinados aos seus magistrados e servidores.

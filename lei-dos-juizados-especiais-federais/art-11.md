@@ -1,0 +1,2 @@
+Art. 11. A entidade pública ré deverá fornecer ao Juizado a documentação de que disponha para o esclarecimento da causa, apresentando-a até a instalação da audiência de conciliação.
+Parágrafo único. Para a audiência de composição dos danos resultantes de ilícito criminal (arts. 71, 72 e 74 da Lei nº 9.099, de 26 de setembro de 1995), o representante da entidade que comparecer terá poderes para acordar, desistir ou transigir, na forma do art. 10.

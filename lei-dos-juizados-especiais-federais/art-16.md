@@ -1,0 +1,1 @@
+Art. 16. O cumprimento do acordo ou da sentença, com trânsito em julgado, que imponham obrigação de fazer, não fazer ou entrega de coisa certa, será efetuado mediante ofício do Juiz à autoridade citada para a causa, com cópia da sentença ou do acordo.
