@@ -1,0 +1,40 @@
+Parecer Normativo CST nº 26, de 30 de junho de 1986
+IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS 4.13.00.00 - Classificação dos Produtos 4.13.02.00 - Casos Específicos IMPOSTO SOBRE A IMPORTAÇÃO 5.01.04.01 - Classificação de Mercadorias Atualiza e consolida, conforme determinado na Portaria nº 769, de 14 de outubro de 1985, do Senhor Secretário da Receita Federal, publicada no Diário Oficial de 15 de outubro de 1985, todos os Pareceres CST emitidos até 31 de outubro de 1985, relativos à classificação fiscal de impressos editados com fins técnicos, científicos, didáticos e culturais.
+1.
+[arquivo anexo: Tab1.htm]
+Trata-se de atualizar e consolidar os Pareceres CST emitidos até 31 de outubro de 1985, relativos à classificação fiscal de impressos editados com fins técnicos, científicos, didáticos e culturais.
+2. Os impressos acima mencionados se classificam na posição 49.01 da Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI) e da Tarifa Aduaneira do Brasil (TAB).
+3. Segundo as Notas Explicativas da Nomenclatura do Conselho de Cooperação Aduaneira (NENCCA), a posição 49.01 abrange, entre outros artigos, as obras literárias, os manuais e livros técnicos, bibliografias, livros escolares, dicionários, enciclopédias, anuários, catálogos de museus, bibliotecas, etc., bem como as obras científicas, ou outras, editadas por firmas industriais ou associações similares, diretamente ou por sua conta, ou as que tratam simplesmente da evolução da atividade ou dos progressos técnicos de um ramo da indústria ou do comércio e que não contenham qualquer publicidade direta ou indireta. Os impressos podem apresentar-se brochados, cartonados ou encadernados, mesmo em tomos separados, ou ainda em fascículos ou folhas, que constituam uma obra completa ou parte de uma obra, e se destinem a ser brochados, cartonados ou encadernados. Os resguardos, fitas de marcar e outros acessórios consideram-se como fazendo parte integrante dos livros quando sejam com estes fornecidos.
+4. Aduzem as NENCCA que estão também compreendidos na posição 49.01:
+1) Livros brochados, cartonados ou encadernados constituídos por coleções de gravuras ou ilustrações) com exceção dos livros ou álbuns de estampas para crianças da posição 49.03).
+2) Coleções de gravuras, de reproduções de obras de arte, de desenhos, etc., constituídas por folhas soltas dispostas numa mesma capa, desde que formem obras completas e paginadas e as gravuras sejam acompanhadas de texto explicativo (biográfico, por exemplo), mesmo sumário, referente a essas obras ou aos seus autores.
+3) Coleções de estampas, mesmo em folhas soltas, que constituam o complemento de um livro brochado, cartonado ou encadernado.
+5. Saliente-se que, de acordo com as NENCCA referentes à posição 49.02, classificam-se na posição 49.01 as frações de obras de vulto, tais como enciclopédias, editadas em fascículos semanais, quinzenais, mensais, etc., cuja publicação se faz escalonadamente durante um período determinado, não sendo consideradas, portanto, como publicações periódicas.
+6. Consoante, ainda, o disposto nas NENCCA referentes à posição 49.01, esta não abrange os impressos destinados à publicidade ou os incluídos em posições mais específicas (principalmente, as posições 49.02, 49.03 e 49.04).
+7. Por outro lado, as NENCCA relativas à posição 49.03 dispõem que não se incluem nesta posição os álbuns e livros, mesmo profusamente ilustrados, redigidos sob a forma de narrativa contínua e com estampas relativas a certos episódios; estes artigos classificam-se pela posição 49.01.
+8. Os impressos para fins técnicos, científicos e didáticos (subposição 49.01.01.00) e fins culturais (subposição 49.01.03.00), quando com capa de couro com trabalhos de entalhe ou incrustações, capa de madrepérola ou marfim ou tartaruga, seda ou veludo, simples ou com enfeite ou guarnição de qualquer matéria, classificam-se na subposição 49.01.04.00.
+9. Classificam-se, entre outros, como impressos com fins técnicos, científicos e didáticos:
+- os manuais técnicos, sem fins publicitários, com subsídios técnicos para a programação e operação de impressoras para processamento eletrônico, e os destinados a orientar os técnicos sobre a instalação, operação e manutenção de equipamentos de telecomunicações, com capas ou em folhas soltas encadernáveis; publicações sobre serviços de engenharia executados para a protensão e injeção das estruturas do vertedouro de superfície de usina hidrelétrica; os fascículos, de caráter didático, publicados periodicamente e que, em seu conjunto, formem uma obra completa, sujeitos, inclusive, a uma encadernação posterior; os folhetos de primeiros-socorros; os livros de afixos e radicais mais comuns em terminologia médica; livros para divulgação de projetos e apresentação de trabalhos técnicos; os folhetos contendo planos-de-aula, exercícios, testes e relatórios de desenvolvimento de treinamentos; livros de estampas sobre o corpo humano, com texto; boletins técnicos sobre resumos indicativos da indústria de petróleo; e os denominados discos didáticos, que consistem na sobreposição de dois ou mais discos de cartolina fixados entre si por um ilhós localizado no centro, de modo a permitir o giro de qualquer um deles isoladamente, sendo que os citados "discos" dispõem de um recorte em forma de ventana (janela) ou visor através do qual, à medida que são girados, fornecem informações didáticas sobre gramática ("disco-verbo"), geografia ("geografia rotativa"), história.
+10. Já como impressos para fins culturais, se classificam, entre outros:
+- os livros de contos infantis com narrativa contínua e profusamente ilustrados, com capas e folhas de papelão, inclusive os com fotografias tipo tridimensionais coladas à capa; os livros que abordam aspectos históricos, geográficos e sociais sobre determinadas regiões ou países; coleção de gravuras sobre cidades e seus fundadores, acompanhadas de um sumário texto explicativo, encadernadas em capa de papelão; coleção de gravuras com reprodução de obras de arte, devidamente paginadas, com texto sumário sobre as mesmas, sob uma mesma capa de cartolina ou cartão.
+11. Com relação aos manuais técnicos citados no item 9, cumpre ressaltar que, quando eles se apresentarem a despacho juntamente com os equipamentos a que dizem respeito, seguem o regime destes para efeito de classificação. Neste sentido é o entendimento da Nota Complementar NC (XVI-1) da Seção XVI da TIPI/TAB:
+"A ferramenta de trabalho, bem como a ferramenta de manutenção de máquina, é considerada com fazendo parte da mesma, desde que seja do tipo e quantidade normalmente vendidos com a máquina, não se somando o seu peso ao da máquina, quando a classificação desta estiver condicionada ao peso.
+"Aplica-se o mesmo regime aos catálogos e folhetos técnicos que dêem instruções sobre a montagem e a manutenção das máquinas que acompanham." (grifei)
+12. Do exposto, os impressos para fins técnicos, científicos, didáticos e culturais classificam-se nos seguintes códigos da Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI) e da Tarifa Aduaneira do Brasil (TAB) vigentes:
+12.
+[arquivo anexo: Tab2.htm]
+13. Para conhecimento das unidades descentralizadas e demais interessados, proponho a expedição de Ato Declaratório contendo a relação numérica dos Pareceres CST consolidados através deste Parecer Normativo.
+À consideração superior
+Grupo de Trabalhos: Especiais, em 04-06-86
+THEODORO FIRMBACH
+AFTN
+De acordo.
+À consideração do Senhor Coordenador
+SERAFIM CIPRIANO PEREIRA
+AFTN
+Aprovo.
+Solucionem-se as consultas, que sobre o assunto vierem a ser formuladas, com base no Parecer supra, que adoto como norma, ficando consolidados, por este ato, todos os Pareceres CST emitidos até 31 de outubro de 1985, relativos à classificação fiscal de impressos editados com fins técnicos, científicos, didáticos e culturais.
+Expeça-se Ato Declaratório, como proposto.
+Publique-se e encaminhem-se cópias às Superintendências Regionais da Receita Federal para sua ciência e dar conhecimento aos órgãos subordinados.
+EIVANY ANTONIO DA SILVA
+Coordenador do Sistema de Tributação
