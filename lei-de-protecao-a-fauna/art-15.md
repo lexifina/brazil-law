@@ -1,0 +1,1 @@
+Art. 15. O Conselho de Fiscalização das Expedições Artísticas e Científicas do Brasil ouvirá o órgão público federal competente toda vez que, nos processos em julgamento, houver matéria referente á fauna.

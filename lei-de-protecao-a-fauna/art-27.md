@@ -1,0 +1,1 @@
+Art. 27. Constituem contravenções penais, puníveis com três meses a um ano de prisão simples ou multa de uma a dez vezes o salário-mínimo mensal do lugar e da data da infração, ou ambas as penas cumulativamente, violar os arts. 1º e seu § 2º, 3º, 4º, 8º e suas alíneas a, b, e c, 10 e suas alíneas a, b, c, d, e, f, g, h, i, j, l, m, 13 e seu parágrafo único, 14 § 3º, 17, 18 e 19.

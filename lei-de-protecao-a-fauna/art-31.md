@@ -1,0 +1,1 @@
+Art. 31. A ação penal independe de queixa mesmo em se tratando de lesão em propriedade privada, quando os bens atingidos, são animais silvestres e seus produtos, instrumentos de trabalho, documentos e atos relacionados com a proteção da fauna disciplinada nesta Lei.

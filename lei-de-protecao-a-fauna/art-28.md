@@ -1,0 +1,1 @@
+Art. 28. Além das contravenções estabelecidas no artigo precedente, subsistem os dispositivos sobre contravenções e crimes previstos no Código Penal e nas demais leis, com as penalidades neles contidas.

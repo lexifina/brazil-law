@@ -1,0 +1,1 @@
+Art. 24. O pagamento das licenças, registros e taxas previstos nesta Lei, será recolhido ao Banco do Brasil S. A em conta especial, a crédito do Fundo Federal Agropecuário, sob o título "Recursos da Fauna".

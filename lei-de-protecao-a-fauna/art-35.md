@@ -1,0 +1,3 @@
+Art. 35. Dentro de dois anos a partir da promulgação desta Lei, nenhuma autoridade poderá permitir a adoção de livros escolares de leitura que não contenham textos sobre a proteção da fauna, aprovados pelo Conselho Federal de Educação.
+§ 1º Os Programas de ensino de nível primário e médio deverão contar pelo menos com duas aulas anuais sobre a matéria a que se refere o presente artigo.
+§ 2º Igualmente os programas de rádio e televisão deverão incluir textos e dispositivos aprovados pelo órgão público federal competente, no limite mínimo de cinco minutos semanais, distribuídos ou não, em diferentes dias.
