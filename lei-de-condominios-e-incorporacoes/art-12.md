@@ -1,0 +1,6 @@
+Art. 12. Cada condômino concorrerá nas despesas do condomínio, recolhendo, nos prazos previstos na Convenção, a quota-parte que lhe couber em rateio.
+§ 1º Salvo disposição em contrário na Convenção, a fixação da quota no rateio corresponderá à fração ideal de terreno de cada unidade.
+§ 2º Cabe ao síndico arrecadar as contribuições competindo-lhe promover, por via executiva, a cobrança judicial das quotas atrasadas.
+§ 3º O condômino que não pagar a sua contribuição no prazo fixado na Convenção fica sujeito ao juro moratório de 1% ao mês, e multa de até 20% sôbre o débito, que será atualizado, se o estipular a Convenção, com a aplicação dos índices de correção monetária levantados pelo Conselho Nacional de Economia, no caso da mora por período igual ou superior a seis meses.
+§ 4º As obras que interessarem à estrutura integral da edificação ou conjunto de edificações, ou ao serviço comum, serão feitas com o concurso pecuniário de todos os proprietários ou titulares de direito à aquisição de unidades, mediante orçamento prévio aprovado em assembléia-geral, podendo incumbir-se de sua execução o síndico, ou outra pessoa, com aprovação da assembléia.
+§ 5º A renúncia de qualquer condômino aos seus direitos, em caso algum valerá como escusa para exonerá-lo de seus encargos.
