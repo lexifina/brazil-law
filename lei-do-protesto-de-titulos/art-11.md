@@ -1,0 +1,1 @@
+Art. 11. Tratando-se de títulos ou documentos de dívida sujeitos a qualquer tipo de correção, o pagamento será feito pela conversão vigorante no dia da apresentação, no valor indicado pelo apresentante.

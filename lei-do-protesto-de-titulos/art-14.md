@@ -1,0 +1,3 @@
+Art. 14. Protocolizado o título ou documento de dívida, o Tabelião de Protesto expedirá a intimação ao devedor, no endereço fornecido pelo apresentante do título ou documento, considerando-se cumprida quando comprovada a sua entrega no mesmo endereço.
+§ 1º A remessa da intimação poderá ser feita por portador do próprio tabelião, ou por qualquer outro meio, desde que o recebimento fique assegurado e comprovado através de protocolo, aviso de recepção (AR) ou documento equivalente.
+§ 2º A intimação deverá conter nome e endereço do devedor, elementos de identificação do título ou documento de dívida, e prazo limite para cumprimento da obrigação no Tabelionato, bem como número do protocolo e valor a ser pago.

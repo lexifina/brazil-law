@@ -1,0 +1,2 @@
+Art. 8º Os títulos e documentos de dívida serão recepcionados, distribuídos e entregues na mesma data aos Tabelionatos de Protesto, obedecidos os critérios de quantidade e qualidade.
+Parágrafo único. Poderão ser recepcionadas as indicações a protestos das Duplicatas Mercantis e de Prestação de Serviços, por meio magnético ou de gravação eletrônica de dados, sendo de inteira responsabilidade do apresentante os dados fornecidos, ficando a cargo dos Tabelionatos a mera instrumentalização das mesmas.
