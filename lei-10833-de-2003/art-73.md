@@ -1,0 +1,3 @@
+Art. 73. Verificada a impossibilidade de apreensão da mercadoria sujeita a pena de perdimento, em razão de sua não-localização ou consumo, extinguir-se-á o processo administrativo instaurado para apuração da infração capitulada como dano ao Erário.
+§ 1º Na hipótese prevista no caput, será instaurado processo administrativo para aplicação da multa prevista no § 3º do art. 23 do Decreto-Lei nº 1.455, de 7 de abril de 1976, com a redação dada pelo art. 59 da Lei nº 10.637, de 30 de dezembro de 2002.
+§ 2º A multa a que se refere o § 1º será exigida mediante lançamento de ofício, que será processado e julgado nos termos da legislação que rege a determinação e exigência dos demais créditos tributários da União.
