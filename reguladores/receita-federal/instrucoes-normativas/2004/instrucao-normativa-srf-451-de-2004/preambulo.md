@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 451, de 24 de setembro de 2004
+Dispõe sobre a solicitação de enquadramento e de reenquadramento de bebidas classificadas nos códigos 22.04, 22.05, 22.06 e 22.08 da Tabela de Incidência do Imposto sobre Produtos Industrializados, nos termos da Lei nº 7.798, de 10 de julho de 1989, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto na Lei nº 7.798, de 10 de julho de 1989, e nos arts. 149 e 150 do Decreto nº 4.544, de 26 de dezembro de 2002, Regulamento do Imposto sobre Produtos Industrializados (RIPI), resolve:
