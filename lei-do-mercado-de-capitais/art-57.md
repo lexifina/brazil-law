@@ -1,1 +1,0 @@
-Art. 57. As sociedades de investimentos, a que se refere o art. 49, que tenham por objeto exclusivo a aplicação do seu capital em carteira diversificada de títulos ou valôres mobiliários, e os fundos em condomínio aludidos na Seção IX, não são contribuintes do impôsto de renda, desde que distribuam anualmente os rendimentos auferidos.

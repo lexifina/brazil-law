@@ -1,5 +1,4 @@
 Art. 68. O resultado líquido das correções monetárias do ativo imobilizado e do capital de giro próprio, efetuadas nos têrmos da legislação em vigor, poderão, à opção da pessoa jurídica, ser incorporados ao capital social ou a reservas.
 § 1º No caso de correção monetária, do ativo imobilizado, o impôsto devido, sem prejuízo do disposto no art. 76 da Lei n. 4.506, de 30 de novembro de 1964, incidirá sôbre o aumento líquido do ativo resultante da correção, independentemente da sua incorporação ao capital.
-§ 2º Os resultados das correções monetárias serão considerados reservas para efeito da apuração de excesso de reservas em relação ao capital social.
 § 3º O Conselho Monetário Nacional poderá excluir da obrigatoriedade do § 2º as emprêsas que requererem e justificarem a exclusão.
 § 4º As sociedades que no corrente exercício, e em virtude de correção monetária, tenham aprovado aumento de capital ainda não registrado pelo Registro de Comércio, poderão usar da opção prevista neste artigo, desde que paguem impôsto nos têrmos do § 1º.

@@ -8,7 +8,7 @@ VI - a taxa de juros convencionada e a época do seu pagamento;
 VII - o lugar do pagamento do depósito e dos juros;
 VIII - a cláusula de correção monetária, se fôr o caso.
 § 1º O certificado de depósito bancário é promessa de pagamento à ordem da importância do depósito, acrescida do valor da correção e dos juros convencionados.
-§ 2º Os certificados de depósito bancário podem ser transferidos mediante endôsso datado e assinado pelo seu titular, ou por mandatário especial, com a indicação do nome e qualificação do endossatário.
+§ 2º Os certificados de depósito bancário podem ser transferidos mediante endosso em branco, datado e assinado pelo seu titular, ou por mandatário especial.
 § 3º Emitido pelo Banco o certificado de depósito bancário, o crédito contra o Banco emissor, pelo principal e pelos juros, não poderá ser objeto de penhora, arresto, seqüestro, busca ou apreensão, ou qualquer outro embaraço que impeça o pagamento da importância depositada e dos seus juros, mas o certificado de depósito poderá ser penhorado por obrigação do seu titular.
 § 4º O endossante do certificado de depósito bancário responde pela existência do crédito, mas não pelo seu pagamento.
 § 5º Aplicam-se ao certificado de depósito bancário, no que couber, as disposições legais relativas à nota promissória.

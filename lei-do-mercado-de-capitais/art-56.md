@@ -1,5 +1,0 @@
-Art. 56. Para efeito de determinar a renda líquida sujeita ao impôsto de renda, as pessoas físicas poderão abater de sua renda bruta:
-I - 30% (trinta por cento) das importâncias efetivamente pagas para a subscrição voluntária de obrigações do Tesouro Nacional, de Títulos da Dívida Pública de emissão dos Estados e Municípios e de ações nominativas ou nominativas endossáveis de sociedades anônimas de capital aberto;
-II - 15% (quinze por cento) das importâncias efetivamente pagas para aquisição de quotas ou certificados de participação de fundos em condomínio, ou ações de sociedades de investimentos, aludidas na Seção IX.
-§ 1º Se, antes de decorridos 2 (dois) anos da aquisição, a pessoa física vier a alienar as obrigações e títulos públicos, quotas de participação em fundos de condomínio, ações de sociedades de investimento ou de sociedades anônimas de capital aberto, deverá incluir, entre os rendimentos do ano da alienação, a importância que tiver abatido nos têrmos dêste artigo, com relação às obrigações, quotas ou ações alienadas.
-§ 2º (Vetado).
