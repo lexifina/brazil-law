@@ -1,1 +1,2 @@
 Art. 17. Serão computados na determinação do lucro real os resultados líquidos, positivos ou negativos, obtidos em operações de cobertura (hedge) realizadas em mercados de liquidação futura, diretamente pela empresa brasileira, em bolsas no exterior.
+Parágrafo único. A Secretaria da Receita Federal e o Banco Central do Brasil expedirão instruções para a apuração do resultado líquido, sobre a movimentação de divisas relacionadas com essas operações, e outras que se fizerem necessárias à execução do disposto neste artigo.
