@@ -1,0 +1,2 @@
+Art. 3º O estudante a ser beneficiado pelo Prouni será pré-selecionado pelos resultados e pelo perfil socioeconômico do Exame Nacional do Ensino Médio - ENEM ou outros critérios a serem definidos pelo Ministério da Educação, e, na etapa final, selecionado pela instituição de ensino superior, segundo seus próprios critérios, à qual competirá, também, aferir as informações prestadas pelo candidato.
+Parágrafo único. O beneficiário do Prouni responde legalmente pela veracidade e autenticidade das informações socioeconômicas por ele prestadas.
