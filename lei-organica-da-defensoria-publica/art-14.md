@@ -1,0 +1,1 @@
+Art. 14. A Defensoria Pública da União atuará nos Estados, no Distrito Federal e nos Territórios, junto às Justiças Federal, do Trabalho, Eleitoral, Militar, Tribunais Superiores e instâncias administrativas da União.

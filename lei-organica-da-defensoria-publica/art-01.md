@@ -1,0 +1,1 @@
+Art. 1º A Defensoria Pública é instituição essencial à função jurisdicional do Estado, incumbindolhe prestar assistência jurídica, judicial e extrajudicial, integral e gratuita, aos necessitados, assim considerados na forma da lei.

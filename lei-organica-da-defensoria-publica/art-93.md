@@ -1,0 +1,1 @@
+Art. 93. Os membros da Defensoria Pública do Distrito Federal e dos Territórios não podem participar de comissão, banca de concurso, ou de qualquer decisão, quando o julgamento ou votação disser respeito a seu cônjuge ou companheiro, ou parente consangüíneo ou afim em linha reta ou colateral, até o terceiro grau.

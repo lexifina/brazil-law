@@ -1,0 +1,1 @@
+Art. 70. O concurso de ingresso realizarseá, obrigatoriamente, quando o número de vagas exceder a um quinto dos cargos iniciais da carreira e, facultativamente, quando o exigir o interesse da administração.

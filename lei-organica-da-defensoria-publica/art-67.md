@@ -1,0 +1,1 @@
+Art. 67. Os Defensores Públicos do Distrito Federal e dos Territórios de 1ª Categoria atuarão nos Núcleos do Plano Piloto, junto aos Juízes de Direito e às instâncias administrativas do Distrito Federal e dos Territórios, ou em função de auxílio ou substituição junto ao Tribunal de Justiça do Distrito Federal e Territórios.

@@ -1,0 +1,2 @@
+Art. 60. A Corregedoria-Geral da Defensoria Pública do Distrito Federal e dos Territórios é exercida pelo Corregedor-Geral, indicado dentre os integrantes da classe mais elevada da carreira pelo Conselho Superior e nomeado pelo Presidente da República, para mandato de dois anos.
+Parágrafo único. O Corregedor-Geral poderá ser destituído por proposta do Defensor Publico-Geral, pelo voto de dois terços dos membros do Conselho Superior, antes do término do mandato.
