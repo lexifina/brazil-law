@@ -1,0 +1,2 @@
+Artigo 2º - O funcionário poderá ser classificado nos níveis subsequentes desde que cumpridas, para cada nível, as exigências previstas no artigo 8º desta lei complementar, e tenha tempo de efetivo exercício no cargo, igual ou superior ao interstício fixado para esses níveis, observado o disposto no artigo 7º.
+Parágrafo único - O tempo de efetivo exercício, para fins deste artigo, será contado até a data do início de vigência desta lei complementar.
