@@ -1,0 +1,2 @@
+Art. 7º Nos casos de extinção de usufruto ou de fideicomisso, a locação celebrada pelo usufrutuário ou fiduciário poderá ser denunciada, com o prazo de trinta dias para a desocupação, salvo se tiver havido aquiescência escrita do nuproprietário ou do fideicomissário, ou se a propriedade estiver consolidada em mãos do usufrutuário ou do fiduciário.
+Parágrafo único. A denúncia deverá ser exercitada no prazo de noventa dias contados da extinção do fideicomisso ou da averbação da extinção do usufruto, presumindo - se, após esse prazo, a concordância na manutenção da locação.
