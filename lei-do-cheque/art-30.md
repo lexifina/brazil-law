@@ -1,0 +1,2 @@
+Art. 30 O aval é lançado no cheque ou na folha de alongamento. Exprime-se pelas palavras ''por aval'', ou fórmula equivalente, com a assinatura do avalista. Considera-se como resultante da simples assinatura do avalista, aposta no anverso do cheque, salvo quando se tratar da assinatura do emitente.
+Parágrafo único - O aval deve indicar o avalizado. Na falta de indicação, considera-se avalizado o emitente.

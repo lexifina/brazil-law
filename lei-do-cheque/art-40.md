@@ -1,0 +1,1 @@
+Art. 40 O pagamento se fará à medida em que forem apresentados os cheques e se 2 (dois) ou mais forem apresentados simultaneamente, sem que os fundos disponíveis bastem para o pagamento de todos, terão preferência os de emissão mais antiga e, se da mesma data, os de número inferior.
