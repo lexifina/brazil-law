@@ -1,0 +1,3 @@
+Art. 24. O art. 2º da Lei nº 9.991, de 24 de julho de 2000, passa a vigorar com a seguinte redação:
+"Art. 2º As concessionárias de geração e empresas autorizadas à produção independente de energia elétrica ficam obrigadas a aplicar, anualmente, o montante de, no mínimo, 1% (um por cento) de sua receita operacional líquida em pesquisa e desenvolvimento do setor elétrico, excluindo-se, por isenção, as empresas que gerem energia exclusivamente a partir de instalações eólica, solar, biomassa, pequenas centrais hidrelétricas e cogeração qualificada, observado o seguinte:
+............................................................" (NR)

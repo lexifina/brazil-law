@@ -1,0 +1,1 @@
+Art. 21. Parcela do resultado da comercialização de energia de Itaipu será destinada, mediante rateio proporcional ao consumo individual e crédito do "bônus" nas contas de energia, aos consumidores do Sistema Elétrico Nacional Interligado integrantes das Classes Residencial e Rural, com consumo mensal inferior a 350 kWh, nos termos de regulamentação do Poder Executivo.

@@ -1,0 +1,3 @@
+Art. 8º Honradas as garantias concedidas, a União se sub-rogará nos créditos junto à CBEE, pelo correspondente valor nominal dos títulos liberados.
+§ 1º O ressarcimento de que trata o caput deste artigo deverá ser efetuado no prazo máximo de 30 (trinta) dias a partir da liberação dos títulos e será atualizado pela taxa média ajustada dos financiamentos diários apurados no Sistema Especial de Liquidação e Custódia - Selic, acrescidos de encargos de 0,5% (zero vírgula cinco por cento) ao ano, dentre outras condições a serem estabelecidas pelo Ministério da Fazenda.
+§ 2º Em ressarcimento à garantia honrada pela União, poderão ser aceitos, a critério do Ministério da Fazenda, pelo valor econômico, créditos de propriedade da CBEE.
