@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 55, de 29 de novembro de 1995
+Dispõe sobre Norma de Tramitação de Decisões, Critérios e Opiniões de Caráter Geral sobre Classificação de Mercadorias na Tarifa Externa Comum (TEC) do MERCOSUL.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista o disposto no Art. 6º do Decreto-lei nº 2.227, de 16 de janeiro de 1985, a delegação de competência constante da Portaria M.F. nº 369, de 25 de julho de 1985, e considerando a Decisão nº 26/94 do Conselho do Mercado Comum do Sul que aprovou a "Norma de Tramitação de Decisões, Critérios e Opiniões de Caráter Geral sobre Classificação Tarifária de Mercadorias" resolve:
