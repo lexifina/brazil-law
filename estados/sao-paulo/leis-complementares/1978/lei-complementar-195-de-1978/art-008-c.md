@@ -1,0 +1,1 @@
+Artigo 8° - C - Os períodos de exercício exigidos pelos artigos 11, 12 e 14 das Disposições Transitórias da Lei Complementar n° 180, de 12 de maio de 1978, relativamente aos funcionários e servidores do Tribunal de Justiça, serão contados até 20 de setembro de 1978, data da publicação da Lei Complementar n° 195, de 19 de setembro de 1978. (NR)
