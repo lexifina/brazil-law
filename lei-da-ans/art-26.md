@@ -1,0 +1,1 @@
+Art. 26. A ANS poderá contratar especialistas para a execução de trabalhos nas áreas técnica, científica, administrativa, econômica e jurídica, por projetos ou prazos limitados, observada a legislação em vigor.

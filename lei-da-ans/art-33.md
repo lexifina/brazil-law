@@ -1,0 +1,1 @@
+Art. 33. A ANS poderá designar servidor ou empregado da Administração Pública Federal, direta ou indireta, para exercer o encargo de diretor fiscal, diretor técnico ou liquidante de operadora de plano de assistência à saúde com remuneração equivalente à do cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS, de nível 5.

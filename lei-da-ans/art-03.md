@@ -1,0 +1,1 @@
+Art. 3º A ANS terá por finalidade institucional promover a defesa do interesse público na assistência suplementar à saúde, regulando as operadoras setoriais, inclusive quanto às suas relações com prestadores e consumidores, contribuindo para o desenvolvimento das ações de saúde no País.

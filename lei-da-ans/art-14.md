@@ -1,0 +1,2 @@
+Art. 14. A administração da ANS será regida por um contrato de gestão, negociado entre seu Diretor-Presidente e o Ministro de Estado da Saúde e aprovado pelo Conselho de Saúde Suplementar, no prazo máximo de cento e vinte dias seguintes à designação do Diretor-Presidente da autarquia.
+Parágrafo único. O contrato de gestão estabelecerá os parâmetros para a administração interna da ANS, bem assim os indicadores que permitam avaliar, objetivamente, a sua atuação administrativa e o seu desempenho.

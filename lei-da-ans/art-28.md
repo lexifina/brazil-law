@@ -1,0 +1,6 @@
+Art. 28. Nos termos do inciso IX do art. 37 da Constituição Federal, é a ANS autorizada a efetuar contratação temporária por prazo não excedente a trinta e seis meses, a contar de sua instalação.
+§ 1º Para os fins do disposto no caput deste artigo, são consideradas necessidades temporárias de excepcional interesse público as atividades relativas à implementação, ao acompanhamento e à avaliação de atividades, projetos e programas de caráter finalístico na área de regulação da saúde suplementar, suporte administrativo e jurídico imprescindíveis à implantação da ANS.
+§ 2º A contratação de pessoal temporário poderá ser efetivada à vista de notória capacidade técnica ou científica do profissional, mediante análise do curriculum vitae.
+§ 3º As contratações temporárias serão feitas por tempo determinado e observado o prazo máximo de doze meses, podendo ser prorrogadas desde que sua duração não ultrapasse o termo final da autorização de que trata o caput.
+§ 4º A remuneração do pessoal contratado temporariamente terá como referência valores definidos em ato conjunto da ANS e do órgão central do Sistema de Pessoal Civil da Administração Federal - Sipec.
+§ 5º Aplica-se ao pessoal contratado temporariamente pela ANS o disposto nos arts. 5º e 6º, no parágrafo único do art. 7º, nos arts. 8º, 9º, 10, 11, 12 e 16 da Lei nº 8.745, de 9 de dezembro de 1993.

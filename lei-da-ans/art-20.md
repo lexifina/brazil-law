@@ -1,0 +1,8 @@
+Art. 20. A Taxa de Saúde Suplementar será devida:
+I - por plano de assistência à saúde, e seu valor será o produto da multiplicação de R$ 2,00 (dois reais) pelo número médio de usuários de cada plano privado de assistência à saúde, deduzido o percentual total de descontos apurado em cada plano, de acordo com as Tabelas I e II do Anexo II desta Lei;
+II - por registro de produto, registro de operadora, alteração de dados referente ao produto, alteração de dados referente à operadora, pedido de reajuste de contraprestação pecuniária, conforme os valores constantes da Tabela que constitui o Anexo III desta Lei.
+§ 1º Para fins do cálculo do número médio de usuários de cada plano privado de assistência à saúde, previsto no inciso I deste artigo, não serão incluídos os maiores de sessenta anos.
+§ 2º Para fins do inciso I deste artigo, a Taxa de Saúde Suplementar será devida anualmente e recolhida até o último dia útil do primeiro decêndio dos meses de março, junho, setembro e dezembro e de acordo com o disposto no regulamento da ANS.
+§ 3º Para fins do inciso II deste artigo, a Taxa de Saúde Suplementar será devida quando da protocolização do requerimento e de acordo com o regulamento da ANS.
+§ 4º Para fins do inciso II deste artigo, os casos de alteração de dados referentes ao produto ou à operadora que não produzam conseqüências para o consumidor ou o mercado de saúde suplementar, conforme disposto em resolução da Diretoria Colegiada da ANS, poderão fazer jus a isenção ou redução da respectiva Taxa de Saúde Suplementar.
+§ 5º Até 31 de dezembro de 2000, os valores estabelecidos no Anexo III desta Lei sofrerão um desconto de 50% (cinqüenta por cento).
