@@ -1,0 +1,5 @@
+# Lei nº 3.466, de 27 de outubro de 1965, do Estado de Minas Gerais
+
+CRIA UM COLÉGIO NORMAL OFICIAL NA CIDADE DE CATAGUASES.
+
+Fonte: ALMG, Legislação Mineira (Dados Abertos), <https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/3466/1965?formato=json>
