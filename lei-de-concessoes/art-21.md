@@ -1,0 +1,1 @@
+Art. 21. Os estudos, investigações, levantamentos, projetos, obras e despesas ou investimentos já efetuados, vinculados à concessão, de utilidade para a licitação, realizados pelo poder concedente ou com a sua autorização, estarão à disposição dos interessados, devendo o vencedor da licitação ressarcir os dispêndios correspondentes, especificados no edital.
