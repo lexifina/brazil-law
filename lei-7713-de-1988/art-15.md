@@ -1,0 +1,3 @@
+Art. 15. Para cálculo do ganho de capital, todos os direitos e bens pertencentes ao contribuinte e dependentes legais, qualquer que seja a sua natureza e independentemente de seu emprego ou localização, a partir do exercício de 1989, deverão ser registrados na declaração de bens em quantidade de OTN
+§ 1º Para esse fim, todos os direitos e bens integrantes do patrimônio do contribuinte em 31 de dezembro de 1988 deverão contar na declaração de bens do exercício de 1989, pelo valor de aquisição em cruzados e em quantidade de OTN.
+§ 2º Não será considerada acréscimo patrimonial tributável a inclusão na declaração de bens e direitos não registrados nas declarações dos exercícios anteriores, em razão de dispensa prevista em ato normativo.

@@ -1,0 +1,1 @@
+Art. 55. Fica reduzida para um por cento a alíquota aplicável às importâncias pagas ou creditadas, a partir do mês de janeiro de 1989, a pessoas jurídicas, civis ou mercantis, pela prestação de serviços de limpeza, conservação, segurança, vigilância e por locação de mão-de-obra de que trata o art. 3º do Decreto-Lei nº 2.462, de 30 de agosto de 1988.

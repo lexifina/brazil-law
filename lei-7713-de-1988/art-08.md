@@ -1,0 +1,3 @@
+Art. 8º Fica sujeito ao pagamento do imposto de renda, calculado de acordo com o disposto no art. 25 desta Lei, a pessoa física que receber de outra pessoa física, ou de fontes situadas no exterior, rendimentos e ganhos de capital que não tenham sido tributados na fonte, no País.
+§ 1º O disposto neste artigo se aplica, também, aos emolumentos e custas dos serventuários da justiça, como tabeliães, notários, oficiais públicos e outros, quando não forem remunerados exclusivamente pelos cofres públicos.
+§ 2º O imposto de que trata este artigo deverá ser pago até o último dia útil da primeira quinzena do mês subseqüente ao da percepção dos rendimentos.

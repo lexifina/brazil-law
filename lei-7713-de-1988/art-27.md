@@ -1,0 +1,1 @@
+Art. 27. O imposto de que trata o art. 8º do Decreto-Lei nº 1.380, de 23 de dezembro de 1974, poderá ser deduzido do que for apurado na forma do art. 23 desta Lei, computando-se a quarta parte do rendimento bruto recebido, em dólar norte-americano, e feita a conversão dos rendimentos e do imposto retido à taxa média fixada para compra, no mês.

@@ -1,0 +1,1 @@
+Art. 38. O disposto no art. 63 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, somente se aplicará aos lucros e reservas relativos a resultados de períodos-base encerrados à data da vigência desta Lei.

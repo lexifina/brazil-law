@@ -1,0 +1,1 @@
+Art. 5º Salvo disposição em contrário, o imposto retido na fonte sobre rendimentos e ganhos de capital percebidos por pessoas físicas será considerado redução do apurado na forma dos arts. 23 e 24 desta Lei.

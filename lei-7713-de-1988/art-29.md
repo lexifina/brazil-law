@@ -1,0 +1,1 @@
+Art. 29. A Secretaria da Receita Federal poderá instituir modelo simplificado para informações a serem prestadas, até o dia 30 de abril do ano seguinte, por pessoa física que tiver auferido, durante o ano, rendimentos ou ganhos de capital, tributáveis na forma dos arts. 7º, 8º ou 23, e não estiver obrigada à declaração de ajuste previsto no art. 24 desta Lei.

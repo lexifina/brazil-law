@@ -1,0 +1,1 @@
+Art. 41. As deduções de despesas, bem como a compensação de perdas previstas no artigo anterior, serão admitidas exclusivamente para as operações realizadas em mercados organizados, geridos ou sob a responsabilidade de instituição credenciada pelo Poder Executivo e com objetivos semelhantes aos das bolsas de valores, de mercadorias ou de futuros.
