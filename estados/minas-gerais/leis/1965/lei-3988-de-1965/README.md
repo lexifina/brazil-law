@@ -1,0 +1,8 @@
+# Lei nº 3.988, de 27 de dezembro de 1965, do Estado de Minas Gerais
+
+CRIA CURSO SECUNDÁRIO DE 2º CICLO NO GINÁSIO ESTADUAL "D. ALICE AUTRAN
+DOURADO", DE GUARANÉSIA, E NOS GINÁSIOS ESTADUAIS DAS CIDADES DE
+CONCEIÇÃO DA APARECIDA, ITURAMA, PIRAÚBA E GUARANI; E CURSO COMERCIAL
+NOS GINÁSIOS ESTADUAIS DE LAJINHA, ITAMBACURI E MANHUAÇU.
+
+Fonte: ALMG, Legislação Mineira (Dados Abertos), <https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/3988/1965?formato=json>
