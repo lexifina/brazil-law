@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 244, de 18 de novembro de 2002
+Dispõe sobre a aplicação das Convenções Internacionais firmadas pelo Brasil para evitar a dupla tributação e prevenir a evasão fiscal em matéria de impostos sobre a renda e procedimentos de intercâmbio de informações nelas previstos.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 98 da Lei nº 5.172, de 25 de outubro de 1966, no art. 55 da Medida Provisória nº 66, de 29 de agosto de 2002, bem assim o contido nas convenções internacionais firmadas pelo Brasil para evitar a dupla tributação e prevenir a evasão fiscal em matéria de impostos sobre a renda e respectivas portarias, resolve:
+Aplicação de Alíquotas Reduzidas
