@@ -1,0 +1,6 @@
+# Lei nº 2.108, de 20 de janeiro de 1960, do Estado de Minas Gerais
+
+AUTORIZA O PODER EXECUTIVO A REVERTER AO DOMÍNIO DA PREFEITURA
+MUNICIPAL DE MERCÊS TERRENO DE PROPRIEDADE DO ESTADO
+
+Fonte: ALMG, Legislação Mineira (Dados Abertos), <https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/2108/1960?formato=json>
