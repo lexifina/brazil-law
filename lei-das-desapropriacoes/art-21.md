@@ -1,0 +1,2 @@
+Art. 21. A instância não se interrompe. No caso de falecimento do réu, ou perda de sua capacidade civil, o juiz, logo que disso tenha conhecimento, nomeará curador à lide, ate que se lhe habilite o interessado.
+Parágrafo único. Os atos praticados da data do falecimento ou perda da capacidade à investidura do curador à lide poderão ser ratificados ou impugnados por ele, ou pelo representante do espólio, ou do incapaz.
