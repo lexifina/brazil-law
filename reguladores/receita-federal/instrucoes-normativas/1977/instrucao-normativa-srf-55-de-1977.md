@@ -1,0 +1,42 @@
+Instrução Normativa SRF nº 55, de 26 de agosto de 1977
+"Estabelece procedimentos e mecanismos de controle na exportação de mercadoria."
+O Secretário da Receita Federal, no uso de suas atribuições e, considerando o disposto na Portaria 389, de 11 de agosto de 1977, do Ministro de Estado da Fazenda,
+RESOLVE:
+1. Estabelecer procedimentos e mecanismos de controle na exportação de mercadoria, via terrestre, pelas localidades de Foz do Iguaçu (PR), Corumbá (MT) e Ponta Porã (MT).
+2. Instituir, para utilização obrigatória, a partir de 1.° de novembro de 1977, os seguintes documentos, conforme modelos anexos:
+a) Declaração de Trânsito para Exportação (DTE), e
+b) Registro de Movimento de Exportações (RME).
+2.1 — A DTE será emitida por estabelecimento fabricante ou empresa comercial exportadora localizados fora das praças referidas no item 1, nas remessas de mercadorias destinadas à exportação, por via terrestre, com saídas do País através daquelas localidades, obedecidas as seguintes normas e especificações:
+2.1.1 — quando se tratar de exportação efetuada diretamente por estabelecimento fabricante ou empresa comercial exportadora, registrada nos termos do Decreto-lei nº 1.248, de 29 de novembro de 1972, em papel apergaminha-do 24 kg, na cor azul-claro, formato A-4 (210 mm x 297 mm), impressão frente e verso em tinta preta, em 3 (três) vias.
+2.1.1.1 — O documento aqui referido, devidamente preenchido, deverá ser apresentado, para "visto", ao órgão da Secretaria da Receita Federal com jurisdição sobre o domicílio do estabelecimento remetente, e suas vias terão a seguinte destinação:
+a) 1.a e 3.a vias: acompanharão a mercadoria para recebimento de "visto" nos pontos do trajeto obrigatório, a serem oportunamente determinados pela Secretaria da Receita Federal, devendo a 1.a via ser apresentada, com os documentos de exportação, ao órgão que jurisdicionar o ponto de saída da mercadoria do País, retornando a 3.a via ao estabelecimento remetente, onde permanecerá à disposição do Fisco;
+b) 2.a via: será retida pelo órgão fiscal da jurisdição do estabelecimento remetente.
+2.1.2 — quando se tratar de remessas de mercadorias efetuadas por estabelecimento fabricante, destinadas à ex-portação, através de estabelecimento comercial localizado em qualquer das praças citadas no item 1 desta Instrução, em papel apergaminhado 24 kg, na cor amarela, formato A-4 (210 mm x 297 mm), impressão frente e verso em tinta preta, em 4 (quatro) vias.
+2.1.2.1 — A DTE, devidamente preenchida, será apresentada, para "visto", ao órgão da Secretaria da Receita Federal que jurisdicionar o estabelecimento do remetente e suas vias terão a seguinte destinação:
+a) 1.a, 3.a e 4.a vias: acompanharão a mercadoria para recebimento de "visto" nos pontos do trajeto obrigatório, a serem oportunamente determinados pela Secretaria da Receita Federal, devendo a 4.a via ser devolvida ao estabelecimento remetente,.onde permanecerá à disposição do Fisco, a 3.a via ser entregue ao destinatário, e a 1.a via ser apresentada, ao órgão que jurisdicionar o estabelecimento destinatário das mercadorias;
+b) 2.a via: será retida pelo órgão da Secretaria da Receita Federal com jurisdição sobre o estabelecimento remetente .
+2.2 — 0 Registro de Movimento de Exportações (RME) será escriturado pelo estabelecimento comercial que efetuar exportações, localizado em uma das praças referidas no item 1 desta Instrução Normativa, em uma única via, por produto, conforme código constante da tabela anexa ao Regulamento do IPI, aprovado pelo Decreto nº 73.340, de 19 de dezembro de 1973, e por estabelecimento fabricante fornecedor, emitindo-se, para cada tipo de produto, tantas fichas de registro quantos forem os fornecedores.
+2.2.1 — O RME será mantido permanentemente atualizado no estabelecimento comercial, à disposição do Fisco, devendo ser escriturado a cada operação de entrada ou saída de produto constante da relação anexa à Portaria MF nº 389, de 11 de agosto de 1977.
+2.2.2 — O estabelecimento comercial exportador fica obrigado a proceder ao levantamento do estoque dos produtos referidos no subitem acima, em 31 de outubro de 1977, apurado da acordo com a legislação em vigor, e a efetuar seu registro no RME.
+3. Os incentivos fiscais a que se refere o subitem 2.11 da Portaria MF nº 389, de 11/8/77, serão utilizados poio estabelecimento fabricante na forma da legislação vigente, e obedecidas as exigências dela constantes, desde que:
+a) a exportação, por via terrestre, tenha sido realizada à partir de entrepostos aduaneiros na exportação, de uso público, ou depósitos alfandegados públicos que vierem a ser instalados nas praças de Foz do Iguaçu, Ponta Porã ou Corumbá; ou
+b) sejam obedecidos os procedimentos citados nos subitens 3.1, 3.2 ou 3.3, sem prejuízo dos que se encontram em vigor, enquanto não estiverem funcionando os entrepostos ou depósitos alfandegados a que se refere este item, para exportação, por via terrestre, efetuada por:
+b.1 — estabelecimento fabricante;
+b.2 — empresa comercial exportadora, registrada na forma do Decreto-lei nº 1.248, de 29 de novembro de 1972; ou
+b.3 — estabelecimento comercial localizado nas praças de Foz do Iguaçu, Ponta Porã ou Corumbá.
+3.1 — Quando se tratar de exportação efetuada diretamente por estabelecimento fabricante, será exigida comprovação:
+a) do pagamento efetuado nos termos das letras "a" ou "b" do subitem 2.1.1, da Portaria MF nº 389, de 11 de agosto de 1977, através de um dos seguintes documentos:
+a.1 — aviso de crédito de banco autorizado a operar em câmbio, a favor do exportador, que identifique a exportação realizada, e comprove o pagamento efetuado pelo importador através de banco no exterior; ou
+a.2 — comprovante de venda da moeda conversível, recebida em pagamento da exportação, junto a banco autorizado a operar em câmbio, no prazo máximo de 15 (quinze) dias da emissão da nota fiscal de exportação;
+b) de que a mercadoria tenha saído do País através das localidades de Foz do Iguaçu, Corumbá ou Ponta Porã, conforme certificado de despacho aduaneiro de exportação constante da Guia de Exportação.
+3.2 — Quando se tratar de exportação efetuada por estabelecimento comercial localizado nas praças de:
+a) Foz do Iguaçu ou Corumbá, deverá ser comprovada a operação através dos documentos exigidos nas letras "a" e "b" do subitem 3.1 desta Instrução Normativa, recebidos do estabelecimento comercial, dentro de 180 dias a contar da exportação efetivamente realizada;
+b) Ponta Porã, mediante comprovação na forma descrita na letra anterior, desde que o valor das exportações não exceda em cada mês, por importador, a importância, em cruzeiros, equivalente a USS 2.000,00 (dois mil dólares norte-americanos), considerando-se, para efeito de cálculo, a taxa de câmbio vigente na data de emissão da nota fiscal do exportação.
+3.2.1 — A geração dos incentivos fiscais, a partir de 1º de novembro de 1977, para as operações realizadas por estabelecimento comercial exportador localizado em Foz do Iguaçu, Ponta Porã ou Corumbá, fica sujeita, ainda, à observância do disposto no subitem 2.2.2.
+3.3 — Quando se tratar de exportação, por via terrestre, efetuada por empresa comercial exportadora, registrada nos termos do Decreto-lei nº 1.248, de 29 de novembro de 1972, deverão ser cumpridos os dispositivos da legislação específica vigente.
+4. Aplicar-se-ão, também, às operações de exportação promovidas por empresa comercial exportadora, registrada na forma do Decreto-lei nº 1.248, de 29 de novembro de 1972, as condições estabelecidas nas letras "a" e "b" do subitem 3.1 deste ato.
+5. O órgão local da Secretaria da Receita Federal com jurisdição sobre o ponto de destino ou de saída das mercadorias do País encaminhará, ao correspondente órgão da jurisdição do remetente, as 1.as vias das DTE, a fim de que, anexadas às 2.as vias retidas por esse órgão, sejam encaminhadas ao processamento, na forma e para os fins a serem determinados em instrução interna da Coordenação do Sistema de Fiscalização.
+6. Os Superintendentes Regionais da Receita Federal baixarão as normas complementares necessárias à execução do disposto neste ato.
+7. Esta Instrução Normativa entrará em vigor na data de sua publicação, aplicando-se às operações realizadas a partir de 1º de setembro de 1977, ressalvadas as disposições contidas no item 2 e subitem 3.2.1 que entrarão em vigor nas datas neles previstas.
+ADILSON GOMES DE OLIVEIRA
+Secretário da Receita Federal
