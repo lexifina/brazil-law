@@ -1,0 +1,1 @@
+Art. 19-B. É instituído um Subsistema de Atenção à Saúde Indígena, componente do Sistema Único de Saúde - SUS, criado e definido por esta Lei, e pela Lei nº 8.142, de 28 de dezembro de 1990, com o qual funcionará em perfeita integração.
