@@ -14,6 +14,7 @@ b) seja a operação financiável nas condições vigentes para o SFH;
 VIII - quando o trabalhador permanecer três anos ininterruptos, a partir de 1º de junho de 1990, fora do regime do FGTS, podendo o saque, neste caso, ser efetuado a partir do mês de aniversário do titular da conta.
 IX - extinção normal do contrato a termo, inclusive o dos trabalhadores temporários regidos pela Lei nº 6.019, de 3 de janeiro de 1974;
 X - suspensão total do trabalho avulso por período igual ou superior a 90 (noventa) dias, comprovada por declaração do sindicato representativo da categoria profissional.
+XI - quando o trabalhador ou qualquer de seus dependentes for acometido de neoplasia maligna.
 § 1º A regulamentação das situações previstas nos incisos I e II assegurar que a retirada a que faz jus o trabalhador corresponda aos depósitos efetuados na conta vinculada durante o período de vigência do último contrato de trabalho, acrescida de juros e atualização monetária, deduzidos os saques.
 § 2º O Conselho Curador disciplinará o disposto no inciso V, visando beneficiar os trabalhadores de baixa renda e preservar o equilíbrio financeiro do FGTS.
 § 3º O direito de adquirir moradia com recursos do FGTS, pelo trabalhador, só poderá ser exercido para um único imóvel.
