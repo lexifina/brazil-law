@@ -1,0 +1,1 @@
+Art. 17. Serão incluídas no censo demográfico de 1990, e nos subseqüentes, questões concernentes à problemática da pessoa portadora de deficiência, objetivando o conhecimento atualizado do número de pessoas portadoras de deficiência no País.

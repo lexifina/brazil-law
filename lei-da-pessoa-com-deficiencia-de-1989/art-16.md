@@ -1,0 +1,1 @@
+Art. 16. O Poder Executivo adotará, nos 60 (sessenta) dias posteriores à vigência desta Lei, as providências necessárias à reestruturação e ao regular funcionamento da Corde, como aquelas decorrentes do artigo anterior.

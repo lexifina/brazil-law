@@ -1,0 +1,1 @@
+Art. 15. Para atendimento e fiel cumprimento do que dispõe esta Lei, será reestruturada a Secretaria de Educação Especial do Ministério da Educação, e serão instituídos, no Ministério do Trabalho, no Ministério da Saúde e no Ministério da Previdência e Assistência Social, órgão encarregados da coordenação setorial dos assuntos concernentes às pessoas portadoras de deficiência.
