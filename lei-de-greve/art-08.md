@@ -1,0 +1,1 @@
+Art. 8º A Justiça do Trabalho, por iniciativa de qualquer das partes ou do Ministério Público do Trabalho, decidirá sobre a procedência, total ou parcial, ou improcedência das reivindicações, cumprindo ao Tribunal publicar, de imediato, o competente acórdão.
