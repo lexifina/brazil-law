@@ -1,0 +1,3 @@
+Art. 4º - Apresentada a denúncia ou a queixa ao Tribunal, far-se-á a notificação do acusado para oferecer resposta no prazo de quinze dias.
+§ 1º - Com a notificação, serão entregues ao acusado cópia da denúncia ou da queixa, do despacho do relator e dos documentos por este indicados.
+§ 2º - Se desconhecido o paradeiro do acusado, ou se este criar dificuldades para que o oficial cumpra a diligência, proceder-se-á a sua notificação por edital, contendo o teor resumido da acusação, para que compareça ao Tribunal, em cinco dias, onde terá vista dos autos pelo prazo de quinze dias, a fim de apresentar a resposta prevista neste artigo.

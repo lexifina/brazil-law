@@ -1,0 +1,1 @@
+Art. 41 - Em caso de vaga ou afastamento de Ministro do Superior Tribunal de Justiça, por prazo superior a trinta dias, poderá ser convocado Juiz de Tribunal Regional Federal ou Desembargador, para substituição, pelo voto da maioria absoluta dos seus membros.

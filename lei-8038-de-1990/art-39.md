@@ -1,0 +1,1 @@
+Art. 39 - Da decisão do Presidente do Tribunal, de Seção, de Turma ou de Relator que causar gravame à parte, caberá agravo para o órgão especial, Seção ou Turma, conforme o caso, no prazo de cinco dias.

@@ -1,0 +1,1 @@
+Art. 22 - Julgado procedente o pedido, o Presidente do Superior Tribunal de Justiça comunicará, imediatamente, a decisão aos órgãos do poder público interessados e requisitará a intervenção ao Presidente da República.

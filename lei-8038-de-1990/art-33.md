@@ -1,0 +1,1 @@
+Art. 33 - O recurso ordinário para o Superior Tribunal de Justiça, das decisões denegatórias de mandado de segurança, proferidas em única instância pelos Tribunais Regionais Federais ou pelos Tribunais de Estados e do Distrito Federal, será interposto no prazo de quinze dias, com as razões do pedido de reforma.
