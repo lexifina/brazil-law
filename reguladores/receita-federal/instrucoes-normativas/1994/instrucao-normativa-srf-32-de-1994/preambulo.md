@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 32, de 11 de maio de 1994
+Estabelece normas relativas a operacionalidade aduaneira a ser observada no transporte internacional de carga, por via rodoviária.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição prevista no inciso III do artigo 140 do Regimento Interno do Departamento da Receita Federal, aprovado pela Portaria MEFP nº 606, de 3 de setembro de 1992, combinado com as disposições da Portaria MF nº 678, de 22 de outubro de 1992, e tendo em vista o disposto no Acordo 1.94, firmado na XVIII Reunião de Ministros de Obras Públicas e Transporte dos Países do Cone Sul, resolve:
