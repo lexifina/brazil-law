@@ -1,0 +1,4 @@
+Ato Declaratório Interpretativo SRF nº 14, de 2 de setembro de 2003
+Dispõe sobre a classificação fiscal dos aparelhos e equipamentos que fazem uso do Sistema de Posicionamento Global (Global Positioning System - GPS) na Nomenclatura Comum do Mercosul.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e considerando o que consta da Nota Coana/Cotac/Dinom nº 244, de 27 de agosto de 2003, declara:
+Artigo único. Os aparelhos e equipamentos que fazem uso do Sistema de Posicionamento Global (Global Positioning System - GPS), desempenhando a função de autolocalização em coordenadas de altitude, latitude e longitude, classificam-se como aparelhos de radionavegação no código 8526.91.00 da Nomenclatura Comum do Mercosul.
