@@ -1,0 +1,2 @@
+Art. 11. Fica elevada em oito pontos percentuais a alíquota referida no § 1º do art. 23 da Lei n° 8.212, de 24 de julho de 1991, relativa à contribuição social sobre o lucro das instituições a que se refere o § 1º do art. 22 da mesma lei, mantidas as demais normas da Lei n° 7.689, de 15 de dezembro de 1988, com as alterações posteriormente introduzidas.
+Parágrafo único. As pessoas jurídicas sujeitas ao disposto neste artigo ficam excluídas do pagamento da contribuição social sobre o faturamento, instituída pelo art. 1° desta lei complementar.
