@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 6, de 29 de janeiro de 1999
+Estabelece normas relativas à substituição tributária da contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS, bem assim os procedimentos para a compensação da parcela da COFINS com a Contribuição Social sobre o Lucro Líquido - CSLL.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista as disposições da Lei No 9.718, de 27 de novembro de 1998, e da Medida Provisória No 1.807, de 28 de janeiro de 1999, resolve:
