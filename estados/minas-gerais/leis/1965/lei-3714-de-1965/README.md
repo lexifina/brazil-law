@@ -1,0 +1,5 @@
+# Lei nº 3.714, de 7 de dezembro de 1965, do Estado de Minas Gerais
+
+CRIA GINÁSIO ESTADUAL NA CIDADE DE JOAÍMA.
+
+Fonte: ALMG, Legislação Mineira (Dados Abertos), <https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LEI/3714/1965?formato=json>
