@@ -1,0 +1,1 @@
+Art. 1º - Ficam sujeitos às normas de vigilância sanitária instituídas por esta Lei os medicamentos, as drogas, os insumos farmacêuticos e correlatos, definidos na Lei nº 5.991, de 17 de dezembro de 1973, bem como os produtos de higiene, os cosméticos, perfumes, saneantes domissanitários, produtos destinados à correção estética e outros adiante definidos.

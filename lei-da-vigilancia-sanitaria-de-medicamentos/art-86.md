@@ -1,0 +1,1 @@
+Art. 86. Excluem-se do regime desta Lei, visto se destinarem e se aplicarem a fins diversos dos nela estabelecidos, os produtos saneantes fitossanitários e zoossanitários, os de exclusivo uso veterinário e os destinados ao combate, na agricultura, a ratos e outros roedores.

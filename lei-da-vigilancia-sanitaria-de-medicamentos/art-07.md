@@ -1,0 +1,1 @@
+Art. 7º - Como medida de segurança sanitária e a vista de razões fundamentadas do órgão competente, poderá o Ministério da Saúde, a qualquer momento, suspender a fabricação e venda de qualquer dos produtos de que trata esta Lei, que, embora registrado, se torne suspeito de ter efeitos nocivos à saúde humana.

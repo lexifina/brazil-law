@@ -1,0 +1,1 @@
+Art. 54 - Caberá ao responsável técnico elaborar o relatório a ser apresentado ao Ministério da Saúde, para fins de registro do produto, e dar assistência técnica efetiva ao setor sob sua responsabilidade profissional.
