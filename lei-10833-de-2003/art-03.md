@@ -1,19 +1,23 @@
 Art. 3º Do valor apurado na forma do art. 2º a pessoa jurídica poderá descontar créditos calculados em relação a:
-I - bens adquiridos para revenda, exceto em relação às mercadorias e aos produtos referidos nos incisos III e IV do § 3º do art. 1º;
-II - bens e serviços, utilizados como insumo na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda, inclusive combustíveis e lubrificantes;
+I - bens adquiridos para revenda, exceto em relação às mercadorias e aos produtos referidos:
+a) nos incisos III e IV do § 3º do art. 1º desta Lei; e
+b) no § 1º do art. 2º desta Lei;
+II - bens e serviços, utilizados como insumo na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda, inclusive combustíveis e lubrificantes, exceto em relação ao pagamento de que trata o art. 2º da Lei nº 10.485, de 3 de julho de 2002, devido pelo fabricante ou importador, ao concessionário, pela intermediação ou entrega dos veículos classificados nas posições 87.03 e 87.04 da Tipi;
 III - energia elétrica consumida nos estabelecimentos da pessoa jurídica;
 IV - aluguéis de prédios, máquinas e equipamentos, pagos a pessoa jurídica, utilizados nas atividades da empresa;
-V - despesas financeiras decorrentes de empréstimos, financiamentos e o valor das contraprestações de operações de arrendamento mercantil de pessoa jurídica, exceto de optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES;
+V - valor das contraprestações de operações de arrendamento mercantil de pessoa jurídica, exceto de optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES;
 VI - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado adquiridos para utilização na produção de bens destinados à venda, ou na prestação de serviços;
 VII - edificações e benfeitorias em imóveis próprios ou de terceiros, utilizados nas atividades da empresa;
 VIII - bens recebidos em devolução cuja receita de venda tenha integrado faturamento do mês ou de mês anterior, e tributada conforme o disposto nesta Lei;
 IX - armazenagem de mercadoria e frete na operação de venda, nos casos dos incisos I e II, quando o ônus for suportado pelo vendedor.
-§ 1º O crédito será determinado mediante a aplicação da alíquota prevista no art. 2º sobre o valor:
+§ 1º Observado o disposto no § 15 deste artigo, o crédito será determinado mediante a aplicação da alíquota prevista no caput do art. 2º desta Lei sobre o valor:
 I - dos itens mencionados nos incisos I e II do caput, adquiridos no mês;
 II - dos itens mencionados nos incisos III a V e IX do caput, incorridos no mês;
 III - dos encargos de depreciação e amortização dos bens mencionados nos incisos VI e VII do caput, incorridos no mês;
 IV - dos bens mencionados no inciso VIII do caput, devolvidos no mês.
-§ 2º Não dará direito a crédito o valor de mão-de-obra paga a pessoa física.
+§ 2º Não dará direito a crédito o valor:
+I - de mão-de-obra paga a pessoa física; e
+II - da aquisição de bens ou serviços não sujeitos ao pagamento da contribuição, inclusive no caso de isenção, esse último quando revendidos ou utilizados como insumo em produtos ou serviços sujeitos à alíquota 0 (zero), isentos ou não alcançados pela contribuição.
 § 3º O direito ao crédito aplica-se, exclusivamente, em relação:
 I - aos bens e serviços adquiridos de pessoa jurídica domiciliada no País;
 II - aos custos e despesas incorridos, pagos ou creditados a pessoa jurídica domiciliada no País;
@@ -21,7 +25,7 @@ III - aos bens e serviços adquiridos e aos custos e despesas incorridos a parti
 § 4º O crédito não aproveitado em determinado mês poderá sê-lo nos meses subseqüentes.
 § 5º Sem prejuízo do aproveitamento dos créditos apurados na forma deste artigo, as pessoas jurídicas que produzam mercadorias de origem animal ou vegetal, classificadas nos capítulos 2 a 4, 8 a 12 e 23, e nos códigos 01.03, 01.05, 0504.00, 0701.90.00, 0702.00.00, 0706.10.00, 07.08, 0709.90, 07.10, 07.12 a 07.14, 15.07 a 1514, 1515.2, 1516.20.00, 15.17, 1701.11.00, 1701.99.00, 1702.90.00, 18.03, 1804.00.00, 1805.00.00, 20.09, 2101.11.10 e 2209.00.00, todos da Nomenclatura Comum do Mercosul - NCM, destinados à alimentação humana ou animal, poderão deduzir da COFINS, devida em cada período de apuração, crédito presumido, calculado sobre o valor dos bens e serviços referidos no inciso II do caput deste artigo, adquiridos, no mesmo período, de pessoas físicas residentes no País.
 § 6º Relativamente ao crédito presumido referido no § 5º:
-I - seu montante será determinado mediante aplicação, sobre o valor das mencionadas aquisições, de alíquota correspondente a 80% (oitenta por cento) daquela constante do art. 2º;
+I - seu montante será determinado mediante aplicação, sobre o valor das mencionadas aquisições, de alíquota correspondente a 80% (oitenta por cento) daquela constante do caput do art. 2º desta Lei;
 II - o valor das aquisições não poderá ser superior ao que vier a ser fixado, por espécie de bem ou serviço, pela Secretaria da Receita Federal - SRF, do Ministério da Fazenda.
 § 7º Na hipótese de a pessoa jurídica sujeitar-se à incidência não-cumulativa da COFINS, em relação apenas à parte de suas receitas, o crédito será apurado, exclusivamente, em relação aos custos, despesas e encargos vinculados a essas receitas.
 § 8º Observadas as normas a serem editadas pela Secretaria da Receita Federal, no caso de custos, despesas e encargos vinculados às receitas referidas no § 7º e àquelas submetidas ao regime de incidência cumulativa dessa contribuição, o crédito será determinado, a critério da pessoa jurídica, pelo método de:
@@ -33,3 +37,6 @@ II - rateio proporcional, aplicando-se aos custos, despesas e encargos comuns a 
 § 12. Relativamente ao crédito presumido referido no § 11:
 I - o valor das aquisições que servir de base para cálculo do crédito presumido não poderá ser superior ao que vier a ser fixado, por espécie de produto, pela Secretaria da Receita Federal - SRF; e
 II - a Secretaria da Receita Federal expedirá os atos necessários para regulamentá-lo.
+§ 13. Deverá ser estornado o crédito da COFINS relativo a bens adquiridos para revenda ou utilizados como insumos na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda, que tenham sido furtados ou roubados, inutilizados ou deteriorados, destruídos em sinistro ou, ainda, empregados em outros produtos que tenham tido a mesma destinação.
+§ 14. Opcionalmente, o contribuinte poderá calcular o crédito de que trata o inciso III do § 1º deste artigo, relativo à aquisição de máquinas e equipamentos destinados ao ativo imobilizado, no prazo de 4 (quatro) anos, mediante a aplicação, a cada mês, das alíquotas referidas no caput do art. 2º desta Lei sobre o valor correspondente a 1/48 (um quarenta e oito avos) do valor de aquisição do bem, de acordo com regulamentação da Secretaria da Receita Federal.
+§ 15. O crédito, na hipótese de aquisição, para revenda, de papel imune a impostos de que trata o art. 150, inciso VI, alínea d da Constituição Federal, quando destinado à impressão de periódicos, será determinado mediante a aplicação da alíquota prevista no § 2º do art. 2º desta Lei.

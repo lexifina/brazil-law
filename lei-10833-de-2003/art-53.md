@@ -1,1 +1,1 @@
-Art. 53. Fica o Poder Executivo autorizado a fixar coeficientes para redução das alíquotas previstas nos arts. 51 e 52, os quais poderão ser alterados, para mais ou para menos, ou extintos, a qualquer tempo.
+Art. 53. Fica o Poder Executivo autorizado a fixar coeficientes para redução das alíquotas previstas nos arts. 51 e 52 desta Lei, os quais poderão ser alterados para mais ou para menos, ou extintos, em relação aos produtos ou sua utilização, a qualquer tempo.
