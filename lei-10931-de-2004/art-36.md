@@ -1,0 +1,1 @@
+Art. 36. O credor poderá exigir que o bem constitutivo da garantia seja coberto por seguro até a efetiva liquidação da obrigação garantida, em que o credor será indicado como exclusivo beneficiário da apólice securitária e estará autorizado a receber a indenização para liquidar ou amortizar a obrigação garantida.

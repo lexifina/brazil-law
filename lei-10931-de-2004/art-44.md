@@ -1,0 +1,1 @@
+Art. 44. Aplica-se às Cédulas de Crédito Bancário, no que não contrariar o disposto nesta Lei, a legislação cambial, dispensado o protesto para garantir o direito de cobrança contra endossantes, seus avalistas e terceiros garantidores.

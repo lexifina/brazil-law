@@ -1,0 +1,1 @@
+Art. 30. A constituição de garantia da obrigação representada pela Cédula de Crédito Bancário é disciplinada por esta Lei, sendo aplicáveis as disposições da legislação comum ou especial que não forem com ela conflitantes.

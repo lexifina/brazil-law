@@ -1,0 +1,1 @@
+Art. 48. Fica vedada a celebração de contratos com cláusula de equivalência salarial ou de comprometimento de renda, bem como a inclusão de cláusulas desta espécie em contratos já firmados, mantidas, para os contratos firmados até a data de entrada em vigor da Medida Provisória nº 2.223, de 4 de setembro de 2001, as disposições anteriormente vigentes.

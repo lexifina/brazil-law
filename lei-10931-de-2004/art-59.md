@@ -1,0 +1,40 @@
+Alterações na Lei de Registros Públicos
+Art. 59. A Lei nº 6.015, de 31 de dezembro de 1973, passa a vigorar com as seguintes alterações:
+"Art. 167.
+II -.
+21) da cessão de crédito imobiliário." (NR)
+"Art. 212. Se o registro ou a averbação for omissa, imprecisa ou não exprimir a verdade, a retificação será feita pelo Oficial do Registro de Imóveis competente, a requerimento do interessado, por meio do procedimento administrativo previsto no art. 213, facultado ao interessado requerer a retificação por meio de procedimento judicial.
+Parágrafo único. A opção pelo procedimento administrativo previsto no art. 213 não exclui a prestação jurisdicional, a requerimento da parte prejudicada.
+Art. 213. O oficial retificará o registro ou a averbação:
+I - de ofício ou a requerimento do interessado nos casos de:
+a) omissão ou erro cometido na transposição de qualquer elemento do título;
+b) indicação ou atualização de confrontação;
+c) alteração de denominação de logradouro público, comprovada por documento oficial;
+d) retificação que vise a indicação de rumos, ângulos de deflexão ou inserção de coordenadas georeferenciadas, em que não haja alteração das medidas perimetrais;
+e) alteração ou inserção que resulte de mero cálculo matemático feito a partir das medidas perimetrais constantes do registro;
+f) reprodução de descrição de linha divisória de imóvel confrontante que já tenha sido objeto de retificação;
+g) inserção ou modificação dos dados de qualificação pessoal das partes, comprovada por documentos oficiais, ou mediante despacho judicial quando houver necessidade de produção de outras provas;
+II - a requerimento do interessado, no caso de inserção ou alteração de medida perimetral de que resulte, ou não, alteração de área, instruído com planta e memorial descritivo assinado por profissional legalmente habilitado, com prova de anotação de responsabilidade técnica no competente Conselho Regional de Engenharia e Arquitetura - CREA, bem assim pelos confrontantes.
+§ 1º Uma vez atendidos os requisitos de que trata o caput do art. 225, o oficial averbará a retificação.
+§ 2º Se a planta não contiver a assinatura de algum confrontante, este será notificado pelo Oficial de Registro de Imóveis competente, a requerimento do interessado, para se manifestar em quinze dias, promovendo-se a notificação pessoalmente ou pelo correio, com aviso de recebimento, ou, ainda, por solicitação do Oficial de Registro de Imóveis, pelo Oficial de Registro de Títulos e Documentos da comarca da situação do imóvel ou do domicílio de quem deva recebê-la.
+§ 3º A notificação será dirigida ao endereço do confrontante constante do Registro de Imóveis, podendo ser dirigida ao próprio imóvel contíguo ou àquele fornecido pelo requerente; não sendo encontrado o confrontante ou estando em lugar incerto e não sabido, tal fato será certificado pelo oficial encarregado da diligência, promovendo-se a notificação do confrontante mediante edital, com o mesmo prazo fixado no § 2º, publicado por duas vezes em jornal local de grande circulação.
+§ 4º Presumir-se-á a anuência do confrontante que deixar de apresentar impugnação no prazo da notificação.
+§ 5º Findo o prazo sem impugnação, o oficial averbará a retificação requerida; se houver impugnação fundamentada por parte de algum confrontante, o oficial intimará o requerente e o profissional que houver assinado a planta e o memorial a fim de que, no prazo de cinco dias, se manifestem sobre a impugnação.
+§ 6º Havendo impugnação e se as partes não tiverem formalizado transação amigável para solucioná-la, o oficial remeterá o processo ao juiz competente, que decidirá de plano ou após instrução sumária, salvo se a controvérsia versar sobre o direito de propriedade de alguma das partes, hipótese em que remeterá o interessado para as vias ordinárias.
+§ 7º Pelo mesmo procedimento previsto neste artigo poderão ser apurados os remanescentes de áreas parcialmente alienadas, caso em que serão considerados como confrontantes tão-somente os confinantes das áreas remanescentes.
+§ 8º As áreas públicas poderão ser demarcadas ou ter seus registros retificados pelo mesmo procedimento previsto neste artigo, desde que constem do registro ou sejam logradouros devidamente averbados.
+§ 9º Independentemente de retificação, dois ou mais confrontantes poderão, por meio de escritura pública, alterar ou estabelecer as divisas entre si e, se houver transferência de área, com o recolhimento do devido imposto de transmissão e desde que preservadas, se rural o imóvel, a fração mínima de parcelamento e, quando urbano, a legislação urbanística.
+§ 10. Entendem-se como confrontantes não só os proprietários dos imóveis contíguos, mas, também, seus eventuais ocupantes; o condomínio geral, de que tratam os arts. 1.314 e seguintes do Código Civil, será representado por qualquer dos condôminos e o condomínio edilício, de que tratam os arts. 1.331 e seguintes do Código Civil, será representado, conforme o caso, pelo síndico ou pela Comissão de Representantes.
+§ 11. Independe de retificação:
+I - a regularização fundiária de interesse social realizada em Zonas Especiais de Interesse Social, nos termos da Lei nº 10.257, de 10 de julho de 2001, promovida por Município ou pelo Distrito Federal, quando os lotes já estiverem cadastrados individualmente ou com lançamento fiscal há mais de vinte anos;
+II - a adequação da descrição de imóvel rural às exigências dos arts. 176, §§ 3º e 4º, e 225, § 3º, desta Lei.
+§ 12. Poderá o oficial realizar diligências no imóvel para a constatação de sua situação em face dos confrontantes e localização na quadra.
+§ 13. Não havendo dúvida quanto à identificação do imóvel, o título anterior à retificação poderá ser levado a registro desde que requerido pelo adquirente, promovendo-se o registro em conformidade com a nova descrição.
+§ 14. Verificado a qualquer tempo não serem verdadeiros os fatos constantes do memorial descritivo, responderão os requerentes e o profissional que o elaborou pelos prejuízos causados, independentemente das sanções disciplinares e penais.
+§ 15. Não são devidos custas ou emolumentos notariais ou de registro decorrentes de regularização fundiária de interesse social a cargo da administração pública.
+Art. 214.
+§ 1º A nulidade será decretada depois de ouvidos os atingidos.
+§ 2º Da decisão tomada no caso do § 1º caberá apelação ou agravo conforme o caso.
+§ 3º Se o juiz entender que a superveniência de novos registros poderá causar danos de difícil reparação poderá determinar de ofício, a qualquer momento, ainda que sem oitiva das partes, o bloqueio da matrícula do imóvel.
+§ 4º Bloqueada a matrícula, o oficial não poderá mais nela praticar qualquer ato, salvo com autorização judicial, permitindo-se, todavia, aos interessados a prenotação de seus títulos, que ficarão com o prazo prorrogado até a solução do bloqueio.
+§ 5º A nulidade não será decretada se atingir terceiro de boa-fé que já tiver preenchido as condições de usucapião do imóvel." (NR)

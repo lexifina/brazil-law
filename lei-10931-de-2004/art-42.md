@@ -1,0 +1,1 @@
+Art. 42. A validade e eficácia da Cédula de Crédito Bancário não dependem de registro, mas as garantias reais, por ela constituídas, ficam sujeitas, para valer contra terceiros, aos registros ou averbações previstos na legislação aplicável, com as alterações introduzidas por esta Lei.

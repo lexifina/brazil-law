@@ -1,0 +1,1 @@
+Art. 37. Se o bem constitutivo da garantia for desapropriado, ou se for danificado ou perecer por fato imputável a terceiro, o credor sub-rogar-se-á no direito à indenização devida pelo expropriante ou pelo terceiro causador do dano, até o montante necessário para liquidar ou amortizar a obrigação garantida.

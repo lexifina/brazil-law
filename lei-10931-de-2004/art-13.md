@@ -1,0 +1,2 @@
+Art. 13. A LCI poderá ser atualizada mensalmente por índice de preços, desde que emitida com prazo mínimo de trinta e seis meses.
+Parágrafo único. É vedado o pagamento dos valores relativos à atualização monetária apropriados desde a emissão, quando ocorrer o resgate antecipado, total ou parcial, em prazo inferior ao estabelecido neste artigo, da LCI emitida com previsão de atualização mensal por índice de preços.

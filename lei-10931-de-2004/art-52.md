@@ -1,0 +1,1 @@
+Art. 52. Uma vez protocolizados todos os documentos necessários à averbação ou ao registro dos atos e dos títulos a que se referem esta Lei e a Lei nº 9.514, de 1997, o oficial de Registro de Imóveis procederá ao registro ou à averbação, dentro do prazo de quinze dias.
