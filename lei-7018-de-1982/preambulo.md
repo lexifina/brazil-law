@@ -1,0 +1,2 @@
+Altera o efetivo de Oficiais do Corpo de Fuzileiros Navais, fixado pela lei nº 6.836, de 27 de outubro de 1980; altera o Art. 3º da Lei nº 2.391 de 7 de janeiro de 1955, e revoga o art. 2º da Lei nº 6.469, de 18 de novembro de 1977, que declarou em extinção o Quadro de Oficiais Farmacêuticos do Corpo de Saúde da Marinha.
+O PRESIDENTE DA REPÚBLICA, faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
