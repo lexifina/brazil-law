@@ -1,0 +1,1 @@
+Art. 4º - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
