@@ -1,0 +1,90 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que
+   inadmitiu recurso extraordinário (art. 102, III, a, da
+   Constituição Federal) interposto de acórdão que considera
+   inconstitucionais as cobranças, pelo município de São Paulo, das
+   taxas de limpeza pública e de combate a sinistros.
+2.      Esta
+   Corte, em casos análogos ao presente, decidiu pela
+   inconstitucionalidade da cobrança da taxa de limpeza, com o
+   fundamento de que seu fato gerador se consubstancia em prestação
+   de serviço público inespecífico, imensurável, indivisível e
+   insuscetível de ser referido a determinado contribuinte.
+   Confiram-se:
+"EMENTA: MUNICÍPIO DE SÃO PAULO. TRIBUTÁRIO. LEI
+   Nº 10.921/90, QUE DEU NOVA REDAÇÃO AOS ARTS. 7º, 87 E INCS. I E
+   II, E 94 DA LEI Nº 6.989/66, DO MUNICÍPIO DE SÃO PAULO. IMPOSTO
+   SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA. TAXAS DE
+   LIMPEZA E DE CONSERVAÇÃO DE VIAS E LOGRADOUROS PÚBLICOS.
+Inconstitucionalidade dos dispositivos sob enfoque.
+O
+   primeiro, por instituir alíquotas progressivas alusivas ao IPTU,
+   em razão do valor do imóvel, com ofensa ao art. 182, § 4º, II, da
+   Constituição Federal, que limita a faculdade contida no art.
+   156, § 1º, à observância do disposto em lei federal e à
+   utilização do fator tempo para a graduação do tributo.
+Os
+   demais, por haverem violado a norma do art. 145, § 2º, ao tomarem
+   para base de cálculo das taxas de limpeza e conservação de ruas
+   elemento que o STF tem por fator componente da base de cálculo do
+   IPTU, qual seja, a área de imóvel e a extensão deste no seu
+   limite com o logradouro público.
+Taxas que, de qualquer modo, no
+   entendimento deste Relator, tem por fato gerador prestação de
+   serviço inespecífico, não mensurável, indivisível e insuscetível
+   de ser referido a determinado contribuinte, não tendo de ser
+   custeado senão por meio do produto da arrecadação dos impostos
+   gerais.
+Não-conhecimento do recurso da Municipalidade.
+   Conhecimento e provimento do recurso do contribuinte.
+(RE
+   204.827, rel. min. Ilmar Galvão, Pleno, DJ
+   25.04.1997)
+"EMENTA: - CONSTITUCIONAL. TRIBUTÁRIO. TAXA DE
+   LIMPEZA PÚBLICA: MUNICÍPIO DE BELO HORIZONTE. C.F., art. 145,
+   II. CTN, art. 79, II e III. I. - As taxas de serviço devem ter,
+   como fato gerador, serviços públicos específicos e divisíveis,
+   prestados ao contribuinte ou postos a sua disposição. Serviços
+   específicos são aqueles que podem ser destacados em unidades
+   autônomas de intervenção, de utilidade ou de necessidade
+   públicas; e divisíveis, quando suscetíveis de utilização,
+   separadamente, por parte de cada um dos usuários. CTN, art. 79,
+   II e III. II. - Taxa de Limpeza Pública: Município de Belo
+   Horizonte: o seu fato gerador apresenta conteúdo inespecífico e
+   indivisível. III. - Agravo não provido."
+(RE 337.349-AgR, rel.
+   min. Carlos Velloso, Segunda Turma, DJ 22.11.2002)
+3.      Contudo,
+   em relação à taxa de combate a sinistros, esta Corte
+   pronunciou-se no sentido de sua constitucionalidade:
+"EMENTA:
+   TRIBUTÁRIO. MUNICÍPIO DE CAMPINAS. TAXAS DE LIXO E SINISTRO. LEIS
+   NºS 6.355/90 E 6.361/90. ALEGADA OFENSA AO ART. 145, II, DA
+   CONSTITUIÇÃO. Taxas legitimamente instituídas como contra
+   prestação a serviços essenciais, específicos e divisíveis,
+   referidos ao contribuinte a quem são prestados ou a cuja
+   disposição são postos, não possuindo base de cálculo própria de
+   imposto. Recurso não conhecido."
+(RE 233.784, rel. min. Ilmar
+   Galvão, Primeira Turma, DJ 12.11.1999)
+"EMENTA:
+   CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TAXA DE
+   COMBATE A SINISTROS. COBRANÇA. CONSTITUCIONALIDADE. I. É legítima
+   a cobrança da taxa de combate a sinistros, uma vez que
+   instituída como contraprestação a serviço essencial. Precedentes:
+   RE 206.777/SP, Plenário, e RE 233.784/SP. II. - Agravo não
+   provido."
+(AI 431.836-AgR, rel. min. Carlos Velloso, Segunda
+   Turma, 1º.08.2003)
+4.      Dessa orientação, dissentiu o acórdão
+   recorrido.
+5. Do exposto e com base no art. 544, § 3º e § 4º, do
+   Código de Processo Civil, dou provimento ao agravo e o converto
+   em recurso extraordinário, para, nos termos do art. 557, § 1º-A,
+   do referido código, dele conhecer em parte e, nessa parte,
+   dar-lhe provimento, para denegar a ordem quanto à taxa de combate
+   a sinistros. Sem honorários advocatícios (Súmula 512). Custas ex
+   lege.
+Brasília, 20 de agosto de 2004.
+Ministro
+   JOAQUIM BARBOSA
+Relator
