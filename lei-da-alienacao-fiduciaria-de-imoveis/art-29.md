@@ -1,0 +1,1 @@
+Art. 29. O fiduciante, com anuência expressa do fiduciário, poderá transmitir os direitos de que seja titular sobre o imóvel objeto da alienação fiduciária em garantia, assumindo o adquirente as respectivas obrigações.
