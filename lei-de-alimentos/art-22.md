@@ -1,0 +1,3 @@
+Art. 22. Constitui crime contra a administração da Justiça deixar o empregador ou funcionário público de prestar ao juízo competente as informações necessárias à instrução de processo ou execução de sentença ou acordo que fixe pensão alimentícia:
+Pena - Detenção de 6 (seis) meses a 1 (um) ano, sem prejuízo da pena acessória de suspensão do emprego de 30 (trinta) a 90 (noventa) dias.
+Parágrafo único. Nas mesmas penas incide quem, de qualquer modo, ajuda o devedor a eximir-se ao pagamento de pensão alimentícia judicialmente acordada, fixada ou majorada, ou se recusa, ou procrastina a executar ordem de descontos em folhas de pagamento, expedida pelo juiz competente.

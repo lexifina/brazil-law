@@ -1,0 +1,2 @@
+Art. 4º As despachar o pedido, o juiz fixará desde logo alimentos provisórios a serem pagos pelo devedor, salvo se o credor expressamente declarar que deles não necessita.
+Parágrafo único. Se se tratar de alimentos provisórios pedidos pelo cônjuge, casado pelo regime da comunhão universal de bens, o juiz determinará igualmente que seja entregue ao credor, mensalmente, parte da renda líquida dos bens comuns, administrados pelo devedor.

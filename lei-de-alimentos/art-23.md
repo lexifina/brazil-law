@@ -1,0 +1,1 @@
+Art. 23. A prescrição qüinqüenal referida no art. 178, § 10, inciso I, do Código Civil só alcança as prestações mensais e não o direito a alimentos, que, embora irrenunciável, pode ser provisoriamente dispensado.
