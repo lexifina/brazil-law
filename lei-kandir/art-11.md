@@ -17,6 +17,7 @@ III - tratando-se de prestação onerosa de serviço de comunicação:
 a) o da prestação do serviço de radiodifusão sonora e de som e imagem, assim entendido o da geração, emissão, transmissão e retransmissão, repetição, ampliação e recepção;
 b) o do estabelecimento da concessionária ou da permissionária que forneça ficha, cartão, ou assemelhados com que o serviço é pago;
 c) o do estabelecimento destinatário do serviço, na hipótese e para os efeitos do inciso XIII do art. 12;
+c-1) o do estabelecimento ou domicílio do tomador do serviço, quando prestado por meio de satélite;
 d) onde seja cobrado o serviço, nos demais casos;
 IV - tratando-se de serviços prestados ou iniciados no exterior, o do estabelecimento ou do domicílio do destinatário.
 § 1º O disposto na alínea c do inciso I não se aplica às mercadorias recebidas em regime de depósito de contribuinte de Estado que não o do depositário.
@@ -28,3 +29,4 @@ III - considera-se também estabelecimento autônomo o veículo usado no comérc
 IV - respondem pelo crédito tributário todos os estabelecimentos do mesmo titular.
 § 4º (VETADO)
 § 5º Quando a mercadoria for remetida para armazém geral ou para depósito fechado do próprio contribuinte, no mesmo Estado, a posterior saída considerar-se-á ocorrida no estabelecimento do depositante, salvo se para retornar ao estabelecimento remetente.
+§ 6º Na hipótese do inciso III do caput deste artigo, tratando-se de serviços não medidos, que envolvam localidades situadas em diferentes unidades da Federação e cujo preço seja cobrado por períodos definidos, o imposto devido será recolhido em partes iguais para as unidades da Federação onde estiverem localizados o prestador e o tomador.
