@@ -1,0 +1,4 @@
+Art. 47. O Procurador-Geral da República designará os Subprocuradores-Gerais da República que exercerão, por delegação, suas funções junto aos diferentes órgãos jurisdicionais do Supremo Tribunal Federal.
+§ 1º As funções do Ministério Público Federal junto aos Tribunais Superiores da União, perante os quais lhe compete atuar, somente poderão ser exercidas por titular do cargo de Subprocurador-Geral da República.
+§ 2º Em caso de vaga ou afastamento de Subprocurador-Geral da República, por prazo superior a trinta dias, poderá ser convocado Procurador Regional da República para substituição, pelo voto da maioria do Conselho Superior.
+§ 3º O Procurador Regional da República convocado receberá a diferença de vencimento correspondente ao cargo de Subprocurador-Geral da República, inclusive diárias e transporte, se for o caso.

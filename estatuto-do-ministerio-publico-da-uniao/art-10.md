@@ -1,0 +1,1 @@
+Art. 10. A prisão de qualquer pessoa, por parte de autoridade federal ou do Distrito Federal e Territórios, deverá ser comunicada imediatamente ao Ministério Público competente, com indicação do lugar onde se encontra o preso e cópia dos documentos comprobatórios da legalidade da prisão.

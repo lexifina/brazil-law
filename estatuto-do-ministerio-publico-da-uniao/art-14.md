@@ -1,0 +1,1 @@
+Art. 14. Não atendida, no prazo devido, a notificação prevista no artigo anterior, a Procuradoria dos Direitos do Cidadão representará ao poder ou autoridade competente para promover a responsabilidade pela ação ou omissão inconstitucionais.
