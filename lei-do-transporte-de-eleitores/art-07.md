@@ -1,0 +1,1 @@
+Art. 7º O eleitor que deixar de votar e não se justificar perante o Juiz Eleitoral até sessenta dias após a realização da eleição incorrerá na multa de três a dez por cento sobre o salário mínimo da região, imposta pelo Juiz Eleitoral e cobrada na forma prevista no art. 367, da Lei 4.737, de 15 de julho de 1965.
