@@ -1,0 +1,3 @@
+Art. 23. É vedada a participação direta ou indireta de empresas ou de capitais estrangeiros na assistência à saúde, salvo através de doações de organismos internacionais vinculados à Organização das Nações Unidas, de entidades de cooperação técnica e de financiamento e empréstimos.
+§ 1º Em qualquer caso é obrigatória a autorização do órgão de direção nacional do Sistema Único de Saúde (SUS), submetendo-se a seu controle as atividades que forem desenvolvidas e os instrumentos que forem firmados.
+§ 2º Excetuam-se do disposto neste artigo os serviços de saúde mantidos, sem finalidade lucrativa, por empresas, para atendimento de seus empregados e dependentes, sem qualquer ônus para a seguridade social.
