@@ -1,0 +1,1 @@
+Art. 13. Serão originariamente competentes, para a imposição das multas de que trata a presente lei, os delegados regionais do Ministério do Trabalho e, nos Estados, onde houver delegação de atribuições, a autoridade delegada.

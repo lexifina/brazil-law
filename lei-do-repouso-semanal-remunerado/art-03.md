@@ -1,0 +1,1 @@
+Art. 3º O regime desta lei será extensivo àqueles que, sob forma autônoma, trabalhem agrupados, por intermédio de Sindicato, Caixa Portuária, ou entidade congênere. A remuneração do repouso obrigatório, nesse caso, consistirá no acréscimo de um 1/6 (um sexto) calculado sobre os salários efetivamente percebidos pelo trabalhador e paga juntamente com os mesmos.
