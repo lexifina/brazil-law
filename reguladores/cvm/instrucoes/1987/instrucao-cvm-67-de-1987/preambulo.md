@@ -1,0 +1,2 @@
+Instrução CVM nº 67, de 1987
+Dispõe sobre as precondições para a concessão de autorização para a constituição e administração de carteira de títulos e valores mobiliários prevista no Regulamento Anexo III à Resolução nº 1.289, de 20 de março de 1.987, do Conselho Monetário Nacional O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em sessão realizada nesta data, com fundamento no artigo 1º do Regulamento Anexo III à RESOLUÇÃO Nº 1.289, de 20.03.87, do Conselho Monetário Nacional, RESOLVEU:
