@@ -1,0 +1,1 @@
+Art. 11. Na ação que tenha por objeto o cumprimento de obrigação de fazer ou não fazer, o juiz determinará o cumprimento da prestação da atividade devida ou a cessação da atividade nociva, sob pena de execução específica, ou de cominação de multa diária, se esta for suficiente ou compatível, independentemente de requerimento do autor.
