@@ -1,0 +1,1 @@
+Art. 36. Os fundos existentes na data da promulgação da Constituição, excetuados os resultantes de isenções fiscais que passem a integrar patrimônio privado e os que interessem à defesa nacional, extinguir-se-ão, se não forem ratificados pelo Congresso Nacional no prazo de dois anos.
