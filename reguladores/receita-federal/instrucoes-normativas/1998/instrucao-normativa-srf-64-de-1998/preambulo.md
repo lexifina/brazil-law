@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 64, de 3 de julho de 1998
+Dispõe acerca do imposto de renda incidente sobre os rendimentos e ganhos líquidos auferidos em operações de renda fixa e de renda variável.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista o disposto nos arts. 65 a 82 da Lei No 8.981, de 20 de janeiro de 1995, com as alterações da Lei No 9.065, de 20 de junho de 1995, no art. 14 da Lei No 9.065, de 1995, no art. 12 da Lei No 9.249, de 26 de dezembro de 1995, no art. 3o, § 3o da Lei No 9.317, de 05 de dezembro de 1996, nos arts. 25, inciso II, 27, inciso II, 51, 57, 69 e 71 da Lei No 9.430, de 27 de dezembro de 1996, nos arts. 28 a 36 da Lei No 9.532, de 10 de dezembro de 1997 e na Medida Provisória No 1.636, resolve:
+Seção I - Aplicação em Fundos de Investimento Rendimentos auferidos a partir de 1º de janeiro de 1999
