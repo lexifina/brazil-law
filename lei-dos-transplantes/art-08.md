@@ -1,1 +1,1 @@
-Art. 8º Após a retirada de partes do corpo, o cadáver será condignamente recomposto e entregue aos parentes do morto ou seus responsáveis legais para sepultamento.
+Art. 8º Após a retirada de tecidos, órgãos e partes, o cadáver será imediatamente necropsiado, se verificada a hipótese do parágrafo único do artigo anterior, e, em qualquer caso, condignamente recomposto para ser entregue, em seguida, aos parentes do morto ou seus responsáveis legais para sepultamento.
