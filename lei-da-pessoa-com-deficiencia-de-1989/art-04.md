@@ -1,0 +1,3 @@
+Art. 4º A sentença terá eficácia de coisa julgada oponível erga omnes, exceto no caso de haver sido a ação julgada improcedente por deficiência de prova, hipótese em que qualquer legitimado poderá intentar outra ação com idêntico fundamento, valendo-se de nova prova.
+§ 1º A sentença que concluir pela carência ou pela improcedência da ação fica sujeita ao duplo grau de jurisdição, não produzindo efeito senão depois de confirmada pelo tribunal.
+§ 2º Das sentenças e decisões proferidas contra o autor da ação e suscetíveis de recurso, poderá recorrer qualquer legitimado ativo, inclusive o Ministério Público.
