@@ -1,0 +1,73 @@
+# Decreto-Lei nº 4.316, de 21/05/1942
+
+DECRETO-LEI NDECRETO-LEI Nusuariousuario8212002-04-16T14:37:00Z2002-04-17T07:37:00Z23141792POlicentro0000.0000
+
+DECRETO-LEI N. 4.316 – DE 21 DE MAIO DE 1942
+
+Altera, sem aumento de despesa, o atual Orçamento do Ministério da Justiça e Negócios Interiores e abre os créditos suplementar, de 440:400$0, e especial, de 25:000$0, para a Penitenciária Central do Distrito Federal
+
+O Presidente da República, usando da atribuição que lhe confere o artigo 180, da Constituição,
+
+decreta:
+
+Art. 1º Ficam feitas as seguintes alterações no atual Orçamento do Ministério da Justiça e Negócios Interiores (Anexo n. 18 do decreto-lei n. 3.960, de 19 de dezembro de 1941):
+
+VERBA 1 – PESSOAL
+
+Consignação II – Pessoal Extranumerário
+
+Subconsignação 05 – Mensalistas
+
+Passa de .................................................................................................. 16.063:600$0
+
+Para .......................................................................................................... 16.136:800$0
+
+Subconsignação 06 – Diaristas
+
+Passa de ....................................................................................................... 4.122:800$0
+
+Para ............................................................................................................... 4.049:600$0
+
+Parágrafo único. Consequentemente, ficam feitas, nos respectivos quadros anexos, as seguintes alterações:
+
+VERBA 1 – PESSOAL
+
+Consignação II – Pessoal Extranumerário
+
+Subconsignação 05 – Mensalistas
+
+Onde se lê:
+
+00 – Pessoal Civil
+
+II – Casa de Correção .............................................................................................................. 84:600$0
+
+Leia-se:
+
+II – Penitenciária Central do Distrito Federal........................................................................... 157:800$0
+
+Subconsignação 06 – Diaristas
+
+Onde se lê:
+
+00 – Pessoal Civil
+
+II – Casa de Correção ............................................................................................................. 202:800$0
+
+Leia-se:
+
+II – Penitenciária Central do Distrito Federal .......................................................................... 129:600$0
+
+Art. 2º Fica aberto o crédito suplementar de 440:400$0 (quatrocentos e quarenta contos e quatrocentos mil réis), à Verba I – Pessoal, Consignação II – Pessoal Extranumerário, Subconsignação 05 – Mensalistas, 00 – Pessoal Civil, II – Penitenciária Central do Distrito Federal.
+
+Art. 3º Fica aberto o crédito especial de 25:000$0 (vinte e cinco contos de réis), destinado à Penitenciária Central do Distrito Federal (Serviços e Encargos), para pagamento, no corrente exercício, a Irmãs de Caridade, por serviços de enfermagem e assistência.
+
+Art. 4º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 21 de maio de 1942, 121º da Independência e 54º da República.
+
+GETULIO VARGAS.
+
+Vasco T. Leitão da Cunha.
+
+A. de Souza Costa.
