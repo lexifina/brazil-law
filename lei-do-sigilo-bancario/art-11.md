@@ -1,0 +1,1 @@
+Art. 11. O servidor público que utilizar ou viabilizar a utilização de qualquer informação obtida em decorrência da quebra de sigilo de que trata esta Lei Complementar responde pessoal e diretamente pelos danos decorrentes, sem prejuízo da responsabilidade objetiva da entidade pública, quando comprovado que o servidor agiu de acordo com orientação oficial.
