@@ -1,0 +1,2 @@
+Autoriza a abertura de crédito extraordinário, em favor da Secretaria-Geral do Ministério do Interior, no valor de NCz$ 10.000.000,00, para as situações que especifica.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 85, de 1989, que o Congresso Nacional aprovou, e eu, Nelson Carneiro, PRESIDENTE DO SENADO FEDERAL, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
