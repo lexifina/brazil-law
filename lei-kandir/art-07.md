@@ -1,1 +1,0 @@
-Art. 7º Para efeito de exigência do imposto por substituição tributária, inclui-se, também, como fato gerador do imposto, a entrada de mercadoria ou bem no estabelecimento do adquirente ou em outro por ele indicado.

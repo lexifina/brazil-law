@@ -1,3 +1,0 @@
-Art. 10. É assegurado ao contribuinte substituído o direito à restituição do valor do imposto pago por força da substituição tributária, correspondente ao fato gerador presumido que não se realizar.
-§ 1º Formulado o pedido de restituição e não havendo deliberação no prazo de noventa dias, o contribuinte substituído poderá se creditar, em sua escrita fiscal, do valor objeto do pedido, devidamente atualizado segundo os mesmos critérios aplicáveis ao tributo.
-§ 2º Na hipótese do parágrafo anterior, sobrevindo decisão contrária irrecorrível, o contribuinte substituído, no prazo de quinze dias da respectiva notificação, procederá ao estorno dos créditos lançados, também devidamente atualizados, com o pagamento dos acréscimos legais cabíveis.

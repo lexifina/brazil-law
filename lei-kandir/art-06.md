@@ -1,3 +1,0 @@
-Art. 6º Lei estadual poderá atribuir a contribuinte do imposto ou a depositário a qualquer título a responsabilidade pelo seu pagamento, hipótese em que assumirá a condição de substituto tributário.
-§ 1º A responsabilidade poderá ser atribuída em relação ao imposto incidente sobre uma ou mais operações ou prestações, sejam antecedentes, concomitantes ou subseqüentes, inclusive ao valor decorrente da diferença entre alíquotas interna e interestadual nas operações e prestações que destinem bens e serviços a consumidor final localizado em outro Estado, que seja contribuinte do imposto.
-§ 2º A atribuição de responsabilidade dar-se-á em relação a mercadorias, bens ou serviços previstos em lei de cada Estado.

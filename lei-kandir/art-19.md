@@ -1,1 +1,0 @@
-Art. 19. O imposto é não-cumulativo, compensando-se o que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços de transporte interestadual e intermunicipal e de comunicação com o montante cobrado nas anteriores pelo mesmo ou por outro Estado.

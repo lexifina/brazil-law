@@ -10,4 +10,3 @@ I - os mandados de segurança nos quais se impugnem atos de autoridade coatora p
 II - as ações que tratem exclusivamente de tributos de competência dos Estados, do Distrito Federal ou dos Municípios, as quais serão propostas em face desses entes federativos, representados em juízo por suas respectivas procuradorias;
 III - as ações promovidas na hipótese de celebração do convênio de que trata o § 3º deste artigo;
 IV - o crédito tributário decorrente de auto de infração lavrado exclusivamente em face de descumprimento de obrigação acessória, observado o disposto no § 1º-D do art. 33;
-V - o crédito tributário relativo ao ICMS e ao ISS de que tratam as alíneas b e c do inciso V do § 3º do art. 18-A desta Lei Complementar.
