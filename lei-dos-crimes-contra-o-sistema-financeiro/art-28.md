@@ -1,0 +1,2 @@
+Art. 28. Quando, no exercício de suas atribuições legais, o Banco Central do Brasil ou a Comissão de Valores Mobiliários - CVM, verificar a ocorrência de crime previsto nesta lei, disso deverá informar ao Ministério Público Federal, enviando-lhe os documentos necessários à comprovação do fato.
+Parágrafo único. A conduta de que trata este artigo será observada pelo interventor, liqüidante ou síndico que, no curso de intervenção, liqüidação extrajudicial ou falência, verificar a ocorrência de crime de que trata esta lei.
