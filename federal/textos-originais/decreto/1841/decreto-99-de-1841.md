@@ -1,0 +1,13 @@
+# Decreto nº 99, de 01/10/1841
+
+DECRETO N. 99 - de 1 de Outubro de 1841
+
+Fixando a verdadeira intelligencia do Decreto nº 12 de 9 de Março de 1838 sobre o vencimento dos Officiaes da Guarda Nacional, e dos Officiaes de primeira Linha empregados no serviço da mesma Guarda Nacional.
+
+Sendo conveniente estabelecer regras certas, que fação cessar as duvidas, a que tem dado lugar a intelligencia do Decreto nº 12 de 9 de Março de 1838, com notavel prejuizo da Fazenda Nacional: Hei por bem Declarar, Tendo ouvido o parecer do Conselho Supremo Militar, que os Commandantes Superiores da Guarda Nacional, e os Chefes de Legião, quando empregados em serviço activo de primeira Linha, só tem direito ao soldo do seu posto, que é o de Coronel; e, por identidade de razão, aos Majores de Legião só compete o soldo de Major. E, quanto ás gratificações, devendo esta ser reguladas pela tabella de 28 de Março de 1825, compete aos primeiros perceber 90$000 mensaes, quando commandarem Divisão, e 80$000, commandando Brigada; aos segundos 80$000, sendo commandantes de Brigada, o 30$000, se commandarem Corpo: e tanto aos primeiros, como aos segundos, commandando Praça, Fortaleza, ou Districto, só compete a gratificação de 30$000: os terceiros finalmente só tem direito á gratificação do 30$000; além das etapes, e forragens, que na dita tabella se achão designadas para os referidos commandos, e exercicios. Aos mais Officiaes, além do soldo de suas patentes, competem as gratificações, e mais vencimentos correspondentes na mesma tabella aos commandos que exercerem. E, porque a Officiaes de primeira Linha, empregados no serviço da Guarda Nacional em postos superiores ás patentes que tem no Exercito, se tem abonado os soldos dos referidos postos, Hei por bem Ordenar que cesse semelhante abuso; devendo entender-se, como regra fixa para todos os casos que possão occorrer, que nenhum Official do Exercito, seja qual fôr a commissão, ou serviço, em que possa ser empregado, nelle, ou fóra delle, póde perceber soldo maior, ou menor da patente que tiver no mesmo Exercito, variando unicamente as gratificações, etapes e forragens, que são antes concedidas com attenção aos commandos e exercicios, que aos postos, pela fórma determinada na sobredita tabella.
+
+José Clemente Pereira, do Meu Conselho, Ministro e Secretario de Estado dos Negocios da Guerra, o tenha assim entendido e faça executar com os despachos necessarios. Palacio do Rio de Janeiro em um de Outubro de mil oitocentos quarenta e um, vigesimo da Independencia e do Imperio.
+
+Com a Rubrica de Sua Magestade o Imperador.
+
+José Clemente Pereira.
