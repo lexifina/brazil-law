@@ -1,0 +1,1 @@
+Art. 6º. - Os atos previstos no artigo 2º., quando praticados sem o prévio assentimento do Conselho de Segurança Nacional, serão nulos de pleno direito e sujeitarão os responsáveis à multa de até 20% (vinte por cento) do valor declarado do negócio irregularmente realizado.
