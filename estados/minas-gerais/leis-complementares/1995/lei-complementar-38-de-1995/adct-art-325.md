@@ -1,0 +1,1 @@
+Art. 325 - Fica reaberto o prazo para opção previsto no art. 2º da Lei nº 9.776, de 11 de junho de 1989, por mais 120 (cento e vinte) dias contados da publicação desta lei, obedecidos os critérios estabelecidos naquela norma e considerados válidos os requerimentos protocolizados.

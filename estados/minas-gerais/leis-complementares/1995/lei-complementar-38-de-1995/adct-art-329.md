@@ -1,0 +1,1 @@
+Art. 329 - Para atender às despesas decorrentes da execução desta lei, fica o Poder Executivo autorizado a abrir crédito especial, no valor de R$ 1.661,19 (mil seiscentos e sessenta e um reais e dezenove centavos), observado o disposto no art. 43 da Lei Federal nº 4.320, de 17 de março de 1964.

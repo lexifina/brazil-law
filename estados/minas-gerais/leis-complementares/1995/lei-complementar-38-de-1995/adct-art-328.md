@@ -1,0 +1,1 @@
+Art. 328 - Na hipótese de alteração de disposições da Constituição da República referentes ao Poder Judiciário que determinem a adaptação desta lei, o Tribunal de Justiça, em prazo não superior a 60 (sessenta) dias contados do início da vigência da modificação constitucional, proporá à Assembléia Legislativa a necessária compatibilização.
