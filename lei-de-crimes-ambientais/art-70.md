@@ -1,0 +1,5 @@
+Art. 70. Considera-se infração administrativa ambiental toda ação ou omissão que viole as regras jurídicas de uso, gozo, promoção, proteção e recuperação do meio ambiente.
+§ 1º São autoridades competentes para lavrar auto de infração ambiental e instaurar processo administrativo os funcionários de órgãos ambientais integrantes do Sistema Nacional de Meio Ambiente - SISNAMA, designados para as atividades de fiscalização, bem como os agentes das Capitanias dos Portos, do Ministério da Marinha.
+§ 2º Qualquer pessoa, constatando infração ambiental, poderá dirigir representação às autoridades relacionadas no parágrafo anterior, para efeito do exercício do seu poder de polícia.
+§ 3º A autoridade ambiental que tiver conhecimento de infração ambiental é obrigada a promover a sua apuração imediata, mediante processo administrativo próprio, sob pena de co-responsabilidade.
+§ 4º As infrações ambientais são apuradas em processo administrativo próprio, assegurado o direito de ampla defesa e o contraditório, observadas as disposições desta Lei.

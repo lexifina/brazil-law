@@ -1,0 +1,1 @@
+Art. 27. Nos crimes ambientais de menor potencial ofensivo, a proposta de aplicação imediata de pena restritiva de direitos ou multa, prevista no art. 76 da Lei nº 9.099, de 26 de setembro de 1995, somente poderá ser formulada desde que tenha havido a prévia composição do dano ambiental, de que trata o art. 74 da mesma lei, salvo em caso de comprovada impossibilidade.
