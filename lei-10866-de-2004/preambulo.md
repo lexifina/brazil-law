@@ -1,0 +1,2 @@
+Acresce os arts. 1º-A e 1º-B à Lei nº 10.336, de 19 de dezembro de 2001, com o objetivo de regulamentar a partilha com os Estados, o Distrito Federal e os Municípios da arrecadação da Contribuição de Intervenção no Domínio Econômico incidente sobre a importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico combustível - Cide, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
