@@ -1,0 +1,1 @@
+Art. 72. Se no dia do encerramento do Congresso Nacional não estiver concluído o processo ou julgamento de Ministro do Supremo Tribunal Federal ou do Procurador Geral da República, deverá ele ser convocado extraordinariamente pelo terço do Senado Federal.

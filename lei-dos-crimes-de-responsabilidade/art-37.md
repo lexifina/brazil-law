@@ -1,0 +1,1 @@
+Art. 37. O congresso Nacional deverá ser convocado, extraordinariamente, pelo terço de uma de suas câmaras, caso a sessão legislativa se encerre sem que se tenha ultimado o julgamento do Presidente da República ou de Ministro de Estado, bem como no caso de ser necessário o início imediato do processo.

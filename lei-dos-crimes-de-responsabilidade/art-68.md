@@ -1,0 +1,2 @@
+Art. 68. O julgamento será feito, em votação nominal pêlos senadores desimpedidos que responderão "sim" ou "não" à seguinte pergunta enunciada pelo Presidente: "Cometeu o acusado F. o crime que lhe é imputado e deve ser condenado à perda do seu cargo?"
+Parágrafo único. Se a resposta afirmativa obtiver, pelo menos, dois terços dos votos dos senadores presentes, o Presidente fará nova consulta ao plenário sobre o tempo não excedente de cinco anos, durante o qual o condenado deverá ficar inabilitado para o exercício de qualquer função pública.

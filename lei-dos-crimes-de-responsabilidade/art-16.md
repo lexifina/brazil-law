@@ -1,0 +1,1 @@
+Art. 16. A denúncia assinada pelo denunciante e com a firma reconhecida, deve ser acompanhada dos documentos que a comprovem, ou da declaração de impossibilidade de apresentá-los, com a indicação do local onde possam ser encontrados, nos crimes de que haja prova testemunhal, a denúncia deverá conter o rol das testemunhas, em número de cinco no mínimo.

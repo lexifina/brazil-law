@@ -1,0 +1,1 @@
+Art. 61. No dia e hora marcados para o julgamento, o Senado reunir-se-á, sob a presidência do Presidente do Supremo Tribunal Federal ou do seu substituto legal. Verificada a presença de número legal de senadores, será aberta a sessão e feita a chamada das partes, acusador e acusado, que poderão comparecer pessoalmente ou pêlos seus procuradores.

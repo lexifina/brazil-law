@@ -1,0 +1,1 @@
+Art. 53. Findas as diligências, a comissão emitirá sobre o seu parecer, que será publicado e distribuído, com todas as peças que o instruírem e dado para ordem do dia 48 horas, no mínimo, depois da distribuição.
