@@ -1,0 +1,1 @@
+Art. 61. As entidades educacionais a que se refere o art. 213, bem como as fundações de ensino e pesquisa cuja criação tenha sido autorizada por lei, que preencham os requisitos dos incisos I e II do referido artigo e que, nos últimos três anos, tenham recebido recursos públicos, poderão continuar a recebê-los, salvo disposição legal em contrário.

@@ -1,0 +1,1 @@
+Art. 22. É assegurado aos defensores públicos investidos na função até a data de instalação da Assembléia Nacional Constituinte o direito de opção pela carreira, com a observância das garantias e vedações previstas no art. 134, parágrafo único, da Constituição.

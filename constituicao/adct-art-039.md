@@ -1,0 +1,2 @@
+Art. 39. Para efeito do cumprimento das disposições constitucionais que impliquem variações de despesas e receitas da União, após a promulgação da Constituição, o Poder Executivo deverá elaborar e o Poder Legislativo apreciar projeto de revisão da lei orçamentária referente ao exercício financeiro de 1989.
+Parágrafo único. O Congresso Nacional deverá votar no prazo de doze meses a lei complementar prevista no art. 161, II.

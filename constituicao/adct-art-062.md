@@ -1,0 +1,1 @@
+Art. 62. A lei criará o Serviço Nacional de Aprendizagem Rural (SENAR) nos moldes da legislação relativa ao Serviço Nacional de Aprendizagem Industrial (SENAI) e ao Serviço Nacional de Aprendizagem do Comércio (SENAC), sem prejuízo das atribuições dos órgãos públicos que atuam na área.
