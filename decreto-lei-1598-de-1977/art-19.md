@@ -2,6 +2,7 @@ Art. 19 - Considera-se lucro da exploração o lucro líquido do exercício ajus
 I - a parte das receitas financeiras (art. 17) que exceder das despesas financeiras (art. 17, par. único);
 II - os rendimentos e prejuízos das participações societárias; e
 III - os resultados não operacionais.
+IV - a parte das variações monetárias ativas (art.18) que exceder as variações monetárias passivas (art. 18, parágrafo único).
 § 1º - Aplicam-se ao lucro da exploração:
 a) as isenções de que tratam os artigos 13 da Lei nº 4.239, de 27 de junho de 1963; 34 da Lei nº 5.508, de 11 de outubro de 1968; 23 do Decreto-lei nº 756, de 11 de agosto de 1969; 1º do Decreto-lei nº 1.328, de 20 de maio de 1974; e 1º e 2º do Decreto-lei nº 1.564, de 29 de julho de 1977;
 b) a redução da alíquota do imposto de que tratam os artigos 14 da Lei nº 4.239, de 27 de junho de 1963; 35 da Lei nº 5.508, de 11 de outubro de 1968; e 22 do Decreto-lei nº 756, de 11 de agosto de 1969;
