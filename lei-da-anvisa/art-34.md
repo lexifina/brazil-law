@@ -1,3 +1,0 @@
-Art. 34. A Agência poderá requisitar, nos três primeiros anos de sua instalação, com ônus, servidores ou contratados, de órgãos de entidades integrantes da Administração Pública Federal direta, indireta ou fundacional, quaisquer que sejam as funções a serem exercidas.
-§ 1º Durante os primeiros vinte e quatro meses subseqüentes à instalação da Agência, as requisições de que trata o caput deste artigo serão irrecusáveis, quando feitas a órgãos e entidades do Poder Executivo Federal, e desde que aprovadas pelo Ministros de Estado da Saúde e do Orçamento e Gestão.
-§ 2º Quando a requisição implicar redução de remuneração do servidor requisitado, fica a Agência autorizada a complementá-la até o limite da remuneração do cargo efetivo percebida no órgão de origem.

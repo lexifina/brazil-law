@@ -1,2 +1,0 @@
-Art. 8º A exoneração imotivada de dirigente da ANEEL somente poderá ser promovida nos quatros meses iniciais do mandato, findos os quais é assegurado seu pleno e integral exercício.
-Parágrafo único. Constituem motivos para a exoneração de dirigente da ANEEL, em qualquer época, a prática de ato de improbidade administrativa, a condenação penal transitada em julgado e o descumprimento injustificado do contrato de gestão.
