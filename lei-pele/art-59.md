@@ -1,1 +1,0 @@
-Art. 59. A exploração de jogos de bingo, serviço público de competência da União, será executada, direta ou indiretamente, pela Caixa Econômica Federal em todo o território nacional, nos termos desta Lei e do respectivo regulamento.
