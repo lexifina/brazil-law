@@ -1,0 +1,3 @@
+# LEI PROMULGADA Nº 12.579, de 28 de maio de 2003
+Concede autorização para contratação de pessoal, por prazo determinado, no âmbito da Companhia Integrada de Desenvolvimento Agrícola de Santa Catarina - CIDASC - , e estabelece outras providências.
+Faço saber que o Governador do Estado de acordo com o art. 51 da Constituição Estadual, adotou a Medida Provisória n. 110, de 25 de abril de 2003, e eu Deputado Onofre Santo Agostini, Presidente em exercício da Assembléia Legislativa do Estado de Santa Catarina, para efeitos do disposto no § 8º do art. 311 do Regimento Interno, promulgo a seguinte Lei:
