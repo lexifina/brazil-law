@@ -1,0 +1,1 @@
+Art. 13. As infrações do disposto nesta Lei sujeitam as instituições administradoras dos Fundos às penalidades previstas no art. 44 da Lei nº 4.595, de 31 de dezembro de 1964, e no art. 108 do Decreto-lei nº 73, de 21 de novembro de 1966, sem prejuízo de outras estabelecidas na legislação vigente.

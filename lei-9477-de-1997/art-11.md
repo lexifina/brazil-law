@@ -1,0 +1,1 @@
+Art. 11. Os bens e direitos integrantes do patrimônio do Fundo de Aposentadoria Programada Individual não se comunicam com o patrimônio da instituição administradora, assim como, em caso de falência ou liquidação extrajudicial da instituição administradora, o patrimônio do FAPI não integra a massa falida ou liquidante da instituição.
