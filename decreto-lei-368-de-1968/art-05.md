@@ -1,0 +1,1 @@
+Art. 5º - No caso do inciso III do Art. 1, a empresa requererá a expedição de Certidão Negativa de Débito Salarial, a ser passada pela Delegacia Regional do Trabalho mediante prova bastante do cumprimento, pela empresa, das obrigações salariais respectivas.

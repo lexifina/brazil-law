@@ -1,0 +1,3 @@
+Art. 2º - A empresa em mora contumaz relativamente a salários não poderá, além do disposto no Art. 1, ser favorecida com qualquer benefício de natureza fiscal, tributária, ou financeira, por parte de órgãos da União, dos Estados ou dos Municípios, ou de que estes participem.
+§ 1º - Considera-se mora contumaz o atraso ou sonegação de salários devidos aos empregados, por período igual ou superior a 3 (três) meses, sem motivo grave e relevante, excluídas as causas pertinentes ao risco do empreendimento.
+§ 2º - Não se incluem na proibição do artigo as operações de crédito destinadas à liquidação dos débitos salariais existentes, o que deverá ser expressamente referido em documento firmado pelo responsável legal da empresa, como justificação do crédito.
