@@ -1,0 +1,4 @@
+Art. 39. O torcedor que promover tumulto, praticar ou incitar a violência, ou invadir local restrito aos competidores ficará impedido de comparecer às proximidades, bem como a qualquer local em que se realize evento esportivo, pelo prazo de três meses a um ano, de acordo com a gravidade da conduta, sem prejuízo das demais sanções cabíveis.
+§ 1º Incorrerá nas mesmas penas o torcedor que promover tumulto, praticar ou incitar a violência num raio de cinco mil metros ao redor do local de realização do evento esportivo.
+§ 2º A verificação do mau torcedor deverá ser feita pela sua conduta no evento esportivo ou por Boletins de Ocorrências Policiais lavrados.
+§ 3º A apenação se dará por sentença dos juizados especiais criminais e deverá ser provocada pelo Ministério Público, pela polícia judiciária, por qualquer autoridade, pelo mando do evento esportivo ou por qualquer torcedor partícipe, mediante representação.

@@ -1,0 +1,1 @@
+Art. 12. A entidade responsável pela organização da competição dará publicidade à súmula e aos relatórios da partida no sítio de que trata o parágrafo único do art. 5º até as quatorze horas do primeiro dia útil subseqüente ao da realização da partida.
