@@ -1,0 +1,1 @@
+Artigo 2º - Os atuais funcionários e servidores titulares de cargos ou ocupantes de funções-atividades abrangidos pelo artigo 9º desta lei complementar, que ainda estejam em Jornada Comum de Trabalho, somente poderão ser incluídos em Jornada Completa de Trabalho mediante convocação pela autoridade competente.

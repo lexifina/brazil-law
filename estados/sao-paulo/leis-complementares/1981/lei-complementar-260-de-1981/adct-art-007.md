@@ -1,0 +1,1 @@
+Artigo 7º - O prazo de 60 (sessenta) dias estabelecido para a opção de que tratam os artigos 23, 24 e 25 das Disposições Transitórias da Lei Complementar nº 247, de 6 de abril de 1981, passa a ser contado da data da publicação desta lei complementar.

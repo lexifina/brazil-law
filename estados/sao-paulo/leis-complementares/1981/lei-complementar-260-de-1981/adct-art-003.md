@@ -1,0 +1,2 @@
+Artigo 3º - O inciso IV do artigo 4º das Disposições Transitórias da Lei Complementar nº 247, de 6 de abril de 1981, passa a vigorar com a seguinte redação:
+"IV - sob o titulo de progressão funcional, os pontos atribuídos a esse título, até 28 de fevereiro de 1981, com fundamento no artigo 47 da Lei Complementar nº 201, de 9 de novembro de 1978, observados os limites fixados no item 5 do § 1º do artigo anterior;"
