@@ -1,0 +1,1 @@
+Art. 13. O aproveitamento de crédito na forma do § 4º do art. 3º, do art. 4º e dos §§ 1º e 2º do art. 6º, bem como do § 2º e inciso II do § 4º e § 5º do art. 12, não ensejará atualização monetária ou incidência de juros sobre os respectivos valores.

@@ -1,0 +1,1 @@
+Art. 15. Aplica-se à contribuição para o PIS/PASEP não-cumulativa de que trata a Lei nº 10.637, de 30 de dezembro de 2002, o disposto nos incisos I e II do § 3º do art. 1º, nos incisos VI, VII e IX do caput e nos §§ 1º, incisos II e III, 10 e 11 do art. 3º, nos §§ 3º e 4º do art. 6º, e nos arts. 7º, 8º, 10, incisos XI a XIV, e 13.
