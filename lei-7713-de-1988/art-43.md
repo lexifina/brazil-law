@@ -5,7 +5,7 @@ a) em aplicações em fundos de curto prazo, tributados nos termos do Decreto-Le
 b) em operações financeiras de curto prazo, assim consideradas as de prazo inferior a noventa dias, que serão tributadas às seguintes alíquotas, sobre o rendimento bruto:
 1. quando a operação se iniciar e encerrar no mesmo dia, quarenta por cento;
 2. nas demais operações, dez por cento, quando o beneficiário se identificar e trinta por cento, quando o beneficiário não se identificar.
-§ 3º Nas operações tendo por objeto Letras Financeiras do Tesouro - (LFT) ou títulos estaduais e municipais a elas equiparadas, o imposto de renda na fonte será calculado à alíquota de:
+§ 3º Nas operações tendo por objeto Letras Financeiras do Tesouro - LFT ou títulos estaduais e municipais a elas equiparados, o imposto de renda na fonte será calculado à alíquota de:
 a) quarenta por cento, em se tratando de operação de curto prazo; e
 b) vinte e cinco por cento, quando o prazo da operação for igual ou superior a noventa dias.
 § 4º A base de cálculo do imposto de renda na fonte sobre as operações de que trata o § 3º será constituída pelo rendimento que exceder a remuneração calculada com base na taxa referencial acumulada da Letra Financeira do Tesouro no período, divulgada pelo Banco Central do Brasil.
