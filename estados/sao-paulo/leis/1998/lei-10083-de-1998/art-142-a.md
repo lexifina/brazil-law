@@ -1,0 +1,2 @@
+Artigo 142-A - Os recursos provenientes de taxas, multas, serviços, emolumentos e preços públicos, arrecadados em virtude das ações previstas neste Código, constituirão receitas do FUNDES - Fundo Estadual de Saúde, conforme o disposto no artigo 32 da Lei federal n.° 8080, de 19 de setembro de 1990. (NR)
+Parágrafo único - No caso de municipalização das ações de vigilância, os recursos previstos neste artigo constituirão receita do respectivo Fundo Municipal de Saúde. (NR)
