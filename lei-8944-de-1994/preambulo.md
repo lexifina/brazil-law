@@ -1,0 +1,2 @@
+Autoriza a Companhia Nacional de Abastecimento - CONAB, a doar às populações carentes quatrocentas mil toneladas de alimentos, de acordo com o Programa de Distribuição Emergencial de Alimentos - PRODEA.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória n° 704, de 1994, que o Congresso Nacional aprovou, e eu, HUMBERTO LUCENA, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
