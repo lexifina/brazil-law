@@ -1,0 +1,3 @@
+Art. 46 O emitente ou o portador podem proibir que o cheque seja pago em dinheiro mediante a inscrição transversal, no anverso do título, da cláusula ''para ser creditado em conta'', ou outra equivalente. Nesse caso, o sacado só pode proceder a Iançamento contábil (crédito em conta, transferência ou compensação), que vale como pagamento. O depósito do cheque em conta de seu beneficiário dispensa o respectivo endosso.
+§ 1º A inutilização da cláusula é considerada como não existente.
+§ 2º Responde pelo dano, até a concorrência do montante do cheque, o sacado que não observar as disposições precedentes.
