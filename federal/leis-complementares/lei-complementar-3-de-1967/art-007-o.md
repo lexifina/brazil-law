@@ -1,0 +1,1 @@
+Art. 7º - O Orçamento Plurianual de Investimento indicará os recursos orçamentários e extraorçamentários necessários à realização dos programas, subprogramas e projetos, inclusive os financiamentos contratados ou previstos, de origem interna ou externa.
