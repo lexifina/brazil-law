@@ -1,0 +1,1 @@
+Art. 8º Independentemente da publicação do ato de sua nomeação, o interventor será investido, de imediato, em suas funções, mediante termo de posse lavrado no " Diário " da entidade, ou, na falta deste, no livro que o substituir, com a transcrição do ato que houver decretado a medida e que o tenha nomeado.
