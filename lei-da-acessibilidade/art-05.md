@@ -1,0 +1,1 @@
+Art. 5º O projeto e o traçado dos elementos de urbanização públicos e privados de uso comunitário, nestes compreendidos os itinerários e as passagens de pedestres, os percursos de entrada e de saída de veículos, as escadas e rampas, deverão observar os parâmetros estabelecidos pelas normas técnicas de acessibilidade da Associação Brasileira de Normas Técnicas - ABNT.

@@ -1,0 +1,2 @@
+Art. 7º Em todas as áreas de estacionamento de veículos, localizadas em vias ou em espaços públicos, deverão ser reservadas vagas próximas dos acessos de circulação de pedestres, devidamente sinalizadas, para veículos que transportem pessoas portadoras de deficiência com dificuldade de locomoção.
+Parágrafo único. As vagas a que se refere o caput deste artigo deverão ser em número equivalente a dois por cento do total, garantida, no mínimo, uma vaga, devidamente sinalizada e com as especificações técnicas de desenho e traçado de acordo com as normas técnicas vigentes.

@@ -1,0 +1,1 @@
+Art. 6º Os banheiros de uso público existentes ou a construir em parques, praças, jardins e espaços livres públicos deverão ser acessíveis e dispor, pelo menos, de um sanitário e um lavatório que atendam às especificações das normas técnicas da ABNT.
