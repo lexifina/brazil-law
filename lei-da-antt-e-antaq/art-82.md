@@ -1,0 +1,17 @@
+Art. 82. São atribuições do DNIT, em sua esfera de atuação:
+I - estabelecer padrões, normas e especificações técnicas para os programas de segurança operacional, sinalização, manutenção ou conservação, restauração ou reposição de vias, terminais e instalações;
+II - estabelecer padrões, normas e especificações técnicas para a elaboração de projetos e execução de obras viária-s;
+III - fornecer ao Ministério dos Transportes informações e dados para subsidiar a formulação dos planos gerais de outorga e de delegação dos segmentos da infra-estrutura viária;
+IV - administrar, diretamente ou por meio de convênios de delegação ou cooperação, os programas de operação, manutenção, conservação, restauração e reposição de rodovias, ferrovias, vias navegáveis, terminais e instalações portuárias;
+V - gerenciar, diretamente ou por meio de convênios de delegação ou cooperação, projetos e obras de construção e ampliação de rodovias, ferrovias, vias navegáveis, terminais e instalações portuárias, decorrentes de investimentos programados pelo Ministério dos Transportes e autorizados pelo Orçamento Geral da União;
+VI - participar de negociações de empréstimos com entidades públicas e privadas, nacionais e internacionais, para financiamento de programas, projetos e obras de sua competência, sob a coordenação do Ministério dos Transportes;
+VII - realizar programas de pesquisa e de desenvolvimento tecnológico, promovendo a cooperação técnica com entidades públicas e privadas;
+VIII - firmar convênios, acordos, contratos e demais instrumentos legais, no exercício de suas atribuições;
+IX - declarar a utilidade pública de bens e propriedades a serem desapropriados para implantação do Sistema Federal de Viação;
+X - elaborar o seu orçamento e proceder à execução financeira;
+XI - adquirir e alienar bens, adotando os procedimentos legais adequados para efetuar sua incorporação e desincorporação;
+XII - administrar pessoal, patrimônio, material e serviços gerais.
+XVII -
+§ 1º As atribuições a que se refere o caput não se aplicam aos elementos da infra-estrutura concedidos ou arrendados pela ANTT e pela ANTAQ, à exceção das competências expressas no art. 21 da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, que serão sempre exercidas pelo DNIT, diretamente ou mediante convênios de delegação.
+§ 2º No exercício das atribuições previstas nos incisos IV e V e relativas a vias navegáveis e instalações portuárias, o DNIT observará as prerrogativas específicas do Comando da Marinha.
+§ 4º.

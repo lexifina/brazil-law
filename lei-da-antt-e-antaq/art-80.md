@@ -1,0 +1,1 @@
+Art. 80. Constitui objetivo do DNIT implementar, em sua esfera de atuação, a política formulada para a administração da infra-estrutura do Sistema Federal de Viação, compreendendo sua operação, manutenção, restauração ou reposição, adequação de capacidade, e ampliação mediante construção de novas vias e terminais, segundo os princípios e diretrizes estabelecidos nesta Lei.

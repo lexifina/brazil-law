@@ -1,0 +1,1 @@
+Art. 46. As autorizações para prestação de serviços de transporte internacional de cargas obedecerão ao disposto nos tratados, convenções e outros instrumentos internacionais de que o Brasil é signatário, nos acordos entre os respectivos países e nas regulamentações complementares das Agências.

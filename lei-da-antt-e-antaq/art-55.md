@@ -1,0 +1,1 @@
+Art. 55. Para assegurar a não-coincidência, os mandatos dos primeiros membros da Diretoria da ANTT serão de dois, três, quatro, cinco e seis anos, e os mandatos dos primeiros membros da Diretoria da ANTAQ serão de dois, três e quatro anos, a serem estabelecidos no decreto de nomeação.

@@ -1,0 +1,4 @@
+Art. 73. Os ocupantes dos Cargos Comissionados a que se refere o inciso IV do art. 70, mesmo quando requisitados de outros órgãos ou entidades da Administração Pública, receberão remuneração conforme a Tabela V do Anexo I.
+Parágrafo único. Os ocupantes dos cargos a que se refere o caput poderão optar por receber a remuneração do seu cargo efetivo ou emprego permanente no órgão de origem, acrescido do valor remuneratório adicional correspondente a:
+I - parcela referente à diferença entre a remuneração de seu cargo efetivo ou emprego permanente de origem e o valor remuneratório do cargo exercido na Agência; ou.
+II - vinte e cinco por cento da remuneração do cargo exercido na Agência, para os Cargos Comissionados de Direção, de Gerência Executiva e de Assessoria nos níveis CA I e CA II, e cinqüenta e cinco por cento da remuneração dos Cargos Comissionados de Assessoria, no nível CA III, e dos de Assistência.

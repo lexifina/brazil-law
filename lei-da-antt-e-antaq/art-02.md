@@ -1,0 +1,2 @@
+Art. 2º O Sistema Nacional de Viação - SNV é constituído pela infra-estrutura viária e pela estrutura operacional dos diferentes meios de transporte de pessoas e bens, sob jurisdição da União, dos Estados, do Distrito Federal e dos Municípios.
+Parágrafo único. O SNV será regido pelos princípios e diretrizes estabelecidos em consonância com o disposto nos incisos XII, XX e XXI do art. 21 da Constituição Federal.

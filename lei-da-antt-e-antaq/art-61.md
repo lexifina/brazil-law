@@ -1,0 +1,1 @@
+Art. 61. Cabe ao Diretor-Geral a representação da Agência e o comando hierárquico sobre pessoal e serviços, exercendo a coordenação das competências administrativas, bem como a presidência das reuniões da Diretoria.
