@@ -1,1 +1,0 @@
-Art. 5º-C. As verbas necessárias ao pagamento da indenização por disponibilidade do servidor serão provenientes do remanejamento das dotações orçamentárias da Polícia Federal, conforme consignado na lei orçamentária anual.
