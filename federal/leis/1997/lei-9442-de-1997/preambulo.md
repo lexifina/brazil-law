@@ -1,0 +1,3 @@
+LEI Nº 9.442, DE 14 DE MARÇO DE 1997
+Cria a Gratificação de Condição, Especial de Trabalho - GCET para os servidores militares federais das Forças Armadas, altera dispositivos das Leis nºs 6.880, de 9 de dezembro de 1980, e 8.237, de 30 de setembro de 1991, dispõe sobre o Auxílio-Funeral a ex-Combatentes, e dá outras providências.
+Faço saber que o Presidente da República adotou a Medida Provisória nº 1.544-19, de 1997, que o Congresso Nacional aprovou, e eu, Antônio Carlos Magalhães, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
