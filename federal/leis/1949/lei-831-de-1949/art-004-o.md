@@ -1,0 +1,7 @@
+Art. 4º - O reembolso do Tesouro Nacional quanto às importâncias diretamente empregadas nos portos explorados pelo Govêrno, ao juro respectivo e às despesas com as operações de crédito, será feito pela renda do pôrto beneficiado, podendo o Poder Executivo, uma vez comprovada a insuficiência dela, e sòmente para êsse fim, proceder pelo Ministério da Viação e Obras Públicas à cobrança das seguintes contribuições:
+a) parte ou totalidade da taxa de emergência criada pelo Decreto-lei nº 8.311, de 6 de dezembro de 1945;
+b) uma tarifa adicional, entre Cr$2,00 (dois cruzeiros) e Cr$10,00 (dez cruzeiros), por tonelada de carga, sôbre a taxa atual de “Utilização do Pôrto”, cobrada nos portos organizados; e
+c) na hipótese de insuficiência de qualquer das arrecadações previstas nos itens a e b, pela sua cobrança conjunta.
+§ 1º - O produto dessas contribuições será recolhido semanalmente pela administração do pôrto, em conta especial, a disposição do Tesouro Nacional, e que será aberta sempre no Banco do Brasil S.A. pelo Ministério da Viação e Obras Públicas, até final liquidação do débito para com o Govêrno Federal.
+§ 2º - Os débitos dos concessionários ou entidades autarquias para com o Govêrno Federal vencerão o mesmo juro fixado para as operações de crédito que tiverem de ser feitas.
+§ 3º - Se as despesas realizadas com os serviços em algum pôrto excederem o capital da concessão, devidamente reconhecido, poderá o Govêrno encampá-la independentemente da condição estabelecida pelo artigo 13 do Decreto-lei número 24.599, de 6 de julho de 1934.
