@@ -1,0 +1,1 @@
+Art. 61. A partir de 1º de setembro de 1994, os débitos de qualquer natureza para com a Fazenda Nacional e os decorrentes de contribuições arrecadadas pela União, constituídos ou não, cujos fatos geradores ocorrerem até 31 de agosto de 1994, expressos em UFIR, serão convertidos para REAL com base no valor desta no mês do pagamento.

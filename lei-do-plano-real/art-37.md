@@ -1,0 +1,1 @@
+Art. 37. No caso de tributos, contribuições e outros débitos para com a Fazenda Nacional pagos indevidamente, dentro do prazo previsto no art. 36 desta Lei, a compensação ou restituição será efetuada com base na variação da UFIR calculada a partir do mês seguinte ao pagamento.

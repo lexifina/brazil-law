@@ -1,0 +1,1 @@
+Art. 50. Aplicam-se à Contribuição Social sobre o Lucro (Lei nº 7.689, de 15 de dezembro de 1988) as mesmas normas de conversão em UFIR da base de cálculo e de pagamento estabelecidas por esta Lei para o imposto de renda das pessoas jurídicas.

@@ -1,0 +1,1 @@
+Art. 52. São dedutíveis, na determinação do lucro real e da base de cálculo da Contribuição Social sobre o Lucro, segundo o regime de competência, as contrapartidas de variação monetária de obrigações, inclusive de tributos e contribuições, ainda que não pagos, e perdas cambiais e monetárias na realização de créditos.

@@ -1,0 +1,1 @@
+Art. 44. A correção monetária das unidades fiscais estaduais e municipais será feita pelos mesmos índices e com a mesma periodicidade com que será corrigida a Unidade Fiscal de Referência - UFIR, de que trata a Lei nº 8.383, de 30 de dezembro de 1991.

@@ -1,0 +1,2 @@
+Art. 73. O art. 1º da Lei nº 8.392, de 30 de dezembro de 1991, passa a vigorar com a seguinte redação:
+"Art. 1º É prorrogado até a data da promulgação da lei complementar de que trata o art. 192 da Constituição Federal o prazo a que se refere o art. 1º das Leis nº 8.056, de 28 de junho de 1990, nº 8.127, de 20 de dezembro de 1990 e nº 8.201, de 29 de junho de 1991, exceto no que se refere ao disposto nos arts. 4º, inciso I, 6º e 7º, todos da Lei nº 4.595, de 31 de dezembro de 1964."

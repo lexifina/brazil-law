@@ -1,0 +1,2 @@
+Art. 14. As obrigações pecuniárias expressas em Cruzeiros Reais que não tenham sido convertidas em URV até 30 de junho de 1994, inclusive, serão, em 1º de julho de 1994, obrigatoriamente convertidas em REAL, de acordo com as normas desta Lei.
+Parágrafo único. O disposto no caput deste artigo aplica-se às obrigações que tenham sido mantidas em Cruzeiros Reais por força do contido na Lei nº 8.880, de 27 de maio de 1994, inclusive em seu art. 16.

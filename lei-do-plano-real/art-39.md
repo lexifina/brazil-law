@@ -1,0 +1,1 @@
+Art. 39. O imposto sobre rendimentos de que trata o art. 8º da Lei nº 7.713, de 22 de dezembro de 1988, pago na forma do art. 36 desta Lei, será, para efeito de redução do imposto devido na declaração de ajuste anual, convertido em quantidade de UFIR pelo valor desta no mês em que os rendimentos forem recebidos.

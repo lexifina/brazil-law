@@ -1,0 +1,1 @@
+Art. 64. No caso de parcelamento concedido administrativamente a partir de 1º de setembro de 1994, o valor do débito será consolidado em UFIR, conforme a legislação aplicável, e reconvertido para REAL mediante a multiplicação da quantidade de UFIR pelo valor desta vigente no mês do pagamento.

@@ -1,0 +1,2 @@
+Art. 51. O imposto de renda retido na fonte ou pago pelo contribuinte relativo a fatos geradores ocorridos a partir de 1º de setembro de 1994, incidente sobre receitas computadas na base de cálculo do imposto de renda da pessoa jurídica será, para efeito de compensação, convertido em quantidade de UFIR, tomando por base o valor desta no mês subseqüente ao da retenção.
+Parágrafo único. A conversão em quantidade de UFIR prevista neste artigo aplica-se, também, aos incentivos fiscais de dedução do imposto e de redução e isenção calculados com base no lucro da exploração.

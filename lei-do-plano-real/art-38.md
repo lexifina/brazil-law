@@ -1,0 +1,3 @@
+Art. 38. Nas situações de que tratam os §§ 3º, 4º e 5º do artigo 36 desta Lei, os juros de mora serão equivalentes, a partir de 1º de julho de 1994, ao excedente da variação acumulada da Taxa Referencial - TR em relação à variação da UFIR no mesmo período.
+§ 1º Em nenhuma hipótese os juros de mora previstos no caput deste artigo poderão ser inferiores à taxa de juros estabelecida no art. 161, parágrafo 1º, da Lei nº 5.172, de 25 de outubro de 1966, no art. 59 da Lei nº 8.383, de 1991, e no art. 3º da Lei nº 8.620, de 5 de janeiro de 1993.
+§ 2º O disposto no caput deste artigo não se aplica aos débitos incluídos em parcelamento concedido anteriormente à data de entrada em vigor desta Lei.

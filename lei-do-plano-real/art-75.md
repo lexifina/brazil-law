@@ -1,0 +1,6 @@
+Art. 75. O art. 4º da Lei nº 7.862, de 30 de outubro de 1989, passa a vigorar com a seguinte redação:
+"Art. 4º Os resultados positivos do Banco Central do Brasil, apurados em seus balanços semestrais, serão recolhidos ao Tesouro Nacional, até o dia 10 do mês subseqüente ao da apuração.
+§ 1º Os recursos a que se refere o caput deste artigo serão destinados à amortização da dívida pública do Tesouro Nacional, devendo ser amortizado, prioritariamente, o principal atualizado e os respectivos juros da Dívida Pública Mobiliária Federal interna de responsabilidade do Tesouro Nacional em poder do Banco Central do Brasil.
+§ 2º Excepcionalmente, os resultados positivos do segundo semestre de 1994 serão transferidos mensalmente ao Tesouro Nacional, até o dia 10 do mês subseqüente ao da apuração.
+§ 3º Os recursos transferidos ao Tesouro Nacional nos termos do parágrafo anterior serão utilizados, exclusivamente, para amortização do principal atualizado e dos respectivos encargos da Dívida Pública Mobiliária Federal interna de responsabilidade do Tesouro Nacional em poder do Banco Central do Brasil.
+§ 4º O disposto no parágrafo anterior não se aplica ao resultado referente ao primeiro semestre de 1994."

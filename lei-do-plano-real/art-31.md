@@ -1,0 +1,2 @@
+Art. 31. O Fundo será gerido pelo Banco Nacional de Desenvolvimento Econômico e Social - BNDES, que promoverá as alienações, mediante delegação da União, observado o disposto no art. 32 desta Lei.
+Parágrafo único. O BNDES, na qualidade de gestor do Fundo, poderá praticar, em nome e por conta da União, todos os atos necessários à consecução da venda em bolsa, inclusive firmar os termos de transferência das ações alienadas, garantindo ampla divulgação, com a publicação da justificativa e das condições de cada alienação.

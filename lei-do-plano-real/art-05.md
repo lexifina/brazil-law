@@ -1,0 +1,1 @@
+Art. 5º Serão grafadas em REAL, a partir de 1º de julho de 1994, as demonstrações contábeis e financeiras, os balanços, os cheques, os títulos, os preços, os precatórios, os valores de contratos e todas as demais expressões pecuniárias que se possam traduzir em moeda nacional.

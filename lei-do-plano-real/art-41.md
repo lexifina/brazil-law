@@ -1,0 +1,1 @@
+Art. 41. A restituição do imposto de renda da pessoa física, apurada na declaração de rendimentos relativa ao exercício financeiro de 1995, será reconvertida em REAL com base no valor da UFIR no mês do recebimento.

@@ -1,0 +1,6 @@
+Art. 53. Os rendimentos das aplicações financeiras de renda fixa e os ganhos líquidos nos mercados de renda variável continuam apurados e tributados na forma da legislação vigente, com as seguintes alterações:
+I - a partir de 1º de setembro de 1994, o valor aplicado e o custo de aquisição serão convertidos em UFIR pelo valor desta no mês da aplicação ou aquisição, e reconvertidos em REAL pelo valor da UFIR do mês do resgate ou da liquidação da operação;
+II - o valor das aplicações financeiras e do custo dos ativos existentes em 31 de agosto de 1994, expresso em quantidade de UFIR, será reconvertido em REAL na forma prevista na alínea anterior.
+§ 1º O disposto neste artigo aplica-se também aos rendimentos auferidos no resgate de quotas de fundos e clubes de investimento, excetuados os rendimentos do fundo de que trata o § 4º do art. 21 da Lei nº 8.383, de 30 de dezembro de 1991.
+§ 2º São isentos do imposto de renda os rendimentos auferidos nos resgates de quotas de fundos de investimento, de titularidade de fundos cujos recursos sejam aplicados na aquisição de quotas de fundos de investimento.
+§ 3º Fica mantido, em relação ao Fundo de Investimento em Quotas de Fundos de Aplicação Financeira, o disposto no art. 22, inciso I, da Lei nº 8.383, de 30 de dezembro de 1991.
