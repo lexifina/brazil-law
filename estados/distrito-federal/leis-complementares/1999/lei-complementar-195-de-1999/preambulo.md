@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 195, DE 21 DE JANEIRO DE 1999
+(Autor do Projeto: Deputado Distrital Benicio Tavares)
+Amplia área que menciona na Região Administrativa de Brazlândia.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
