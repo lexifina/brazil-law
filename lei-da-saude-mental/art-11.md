@@ -1,0 +1,1 @@
+Art. 11. Pesquisas científicas para fins diagnósticos ou terapêuticos não poderão ser realizadas sem o consentimento expresso do paciente, ou de seu representante legal, e sem a devida comunicação aos conselhos profissionais competentes e ao Conselho Nacional de Saúde.

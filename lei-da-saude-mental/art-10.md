@@ -1,0 +1,1 @@
+Art. 10. Evasão, transferência, acidente, intercorrência clínica grave e falecimento serão comunicados pela direção do estabelecimento de saúde mental aos familiares, ou ao representante legal do paciente, bem como à autoridade sanitária responsável, no prazo máximo de vinte e quatro horas da data da ocorrência.
