@@ -8,7 +8,7 @@ V - cada ente federativo fixará sua alíquota própria por lei específica;
 VI - a alíquota fixada pelo ente federativo na forma do inciso V será a mesma para todas as operações com bens materiais ou imateriais, inclusive direitos, ou com serviços, ressalvadas as hipóteses previstas nesta Constituição;
 VII - será cobrado pelo somatório das alíquotas do Estado e do Município de destino da operação;
 VIII - será não cumulativo, compensando-se o imposto devido pelo contribuinte com o montante cobrado sobre todas as operações nas quais seja adquirente de bem material ou imaterial, inclusive direito, ou de serviço, excetuadas exclusivamente as consideradas de uso ou consumo pessoal especificadas em lei complementar e as hipóteses previstas nesta Constituição;
-IX - não integrará sua própria base de cálculo nem a dos tributos previstos nos arts. 153, VIII, e 195, I, "b", IV e V, e da contribuição para o Programa de Integração Social de que trata o art. 239;
+IX - não integrará sua própria base de cálculo nem a dos tributos previstos nos arts. 153, VIII, e 195, V;
 X - não será objeto de concessão de incentivos e benefícios financeiros ou fiscais relativos ao imposto ou de regimes específicos, diferenciados ou favorecidos de tributação, excetuadas as hipóteses previstas nesta Constituição;
 XI - não incidirá nas prestações de serviço de comunicação nas modalidades de radiodifusão sonora e de sons e imagens de recepção livre e gratuita;
 XII - resolução do Senado Federal fixará alíquota de referência do imposto para cada esfera federativa, nos termos de lei complementar, que será aplicada se outra não houver sido estabelecida pelo próprio ente federativo;
