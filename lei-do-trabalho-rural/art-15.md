@@ -1,0 +1,1 @@
+Art. 15. Durante o prazo do aviso prévio, se a rescisão tiver sido promovida pelo empregador, o empregado rural terá direito a um dia por semana, sem prejuízo do salário integral, para procurar outro trabalho.

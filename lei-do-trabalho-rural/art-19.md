@@ -1,0 +1,1 @@
+Art. 19 O enquadramento e a contribuição sindical rurais continuam regidos pela legislação ora em vigor; o seguro social e o seguro contra acidente do trabalho rurais serão regulados por lei especial.

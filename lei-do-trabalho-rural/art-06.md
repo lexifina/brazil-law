@@ -1,0 +1,1 @@
+Art. 6º Nos serviços, caracteristicamente intermitentes, não serão computados, como de efeito exercício, os intervalos entre uma e outra parte da execução da tarefa diária, desde que tal hipótese seja expressamente ressalvada na Carteira de Trabalho e Previdência Social.
