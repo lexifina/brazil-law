@@ -1,0 +1,2 @@
+Art. 7º - O novo Tribunal será instalado e presidido, até a posse do Presidente e Vice-Presidente eleitos de conformidade com as disposições da Lei Orgânica da Magistratura Nacional, pelo Juiz Togado mais antigo oriundo da carreira de Juiz do Trabalho, computada a antiguidade na classe de Juiz-Presidente de Junta de Conciliação e Julgamento.
+Parágrafo único - O novo Tribunal aprovará seu Regimento Interno dentro do prazo de 30 (trinta) dias, contados da data de sua instalação.
