@@ -1,0 +1,32 @@
+DECISÃO: Agravo de instrumento de decisão que inadmitiu RE, a,
+   contra acórdão do Tribunal Superior do Trabalho, assim
+   ementado:
+"VÍNCULO EMPREGATÍCIO. VULNERAÇÃO DO ART. 896 DA
+   CLT. O vínculo empregatício diretamente com o tomador de serviços
+   não se configura no caso de contratações ocorridas nos termos da
+   lei nº 6.019/74, como na hipótese dos autos. Impossível, desse
+   modo, vislumbrar a alegada contrariedade ao Enunciado 256/TST.
+   Embargos não conhecidos."
+Alega-se violação dos artigos 5º,
+   II, XXXVI e LIV, e 93, IX, da Constituição Federal.
+O acórdão
+   recorrido limitou-se a aplicar a legislação infraconstitucional
+   pertinente ao caso. A pretensa ofensa aos dispositivos
+   constitucionais tidos como violados, se houvesse, seria indireta
+   ou reflexa: incide, mutatis mutandis, a Súmula 636.
+Não há
+   falar em negativa de prestação jurisdicional ou violação dos
+   princípios compreendidos nos artigos 5º, LIV, e 93, IX, da
+   Constituição Federal. A jurisdição foi prestada, no caso,
+   mediante decisão suficientemente motivada, não obstante contrária
+   à pretensão do recorrente, tendo o Tribunal a quo, como se
+   observa do acórdão proferido, justificado suas razões de decidir:
+   "o que a Constituição exige, no preceito invocado, é que a
+   decisão seja fundamentada, não, que a fundamentação seja correta:
+   declinadas no julgado as razões do decisum, está satisfeita a
+   exigência constitucional." (RE 140.370, Sepúlveda Pertence, 1a T,
+   DJ 21.5.1993).
+Nego provimento ao agravo.
+Brasília, 2 de
+   agosto de 2004.
+Ministro SEPÚLVEDA PERTENCE - Relator
