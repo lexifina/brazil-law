@@ -1,0 +1,1 @@
+Art. 29. Proferida a sentença arbitral, dá-se por finda a arbitragem, devendo o árbitro, ou o presidente do tribunal arbitral, enviar cópia da decisão às partes, por via postal ou por outro meio qualquer de comunicação, mediante comprovação de recebimento, ou, ainda, entregando-a diretamente às partes, mediante recibo.
