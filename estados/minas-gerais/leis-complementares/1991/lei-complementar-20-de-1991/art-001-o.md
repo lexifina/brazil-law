@@ -1,0 +1,1 @@
+Art. 1º - O Programa Estadual de Proteção ao ConsumidorPROCON -, cujas atividades são transferidas para a Procuradoria-Geral de Justiça, tem por objetivo a defesa, a promoção e a divulgação dos direitos do consumidor, a educação para o consumo e o estímulo à organização de Associações de defesa do consumidor.

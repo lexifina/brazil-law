@@ -1,0 +1,1 @@
+Art. 6º - A Coordenadoria das Curadorias de Defesa do Consumidor é a unidade responsável pela supervisão, coordenação e organização das atividades do Programa Estadual de Proteção ao Consumidor - PROCON -, nos termos de resolução do Procurador-Geral de Justiça.
