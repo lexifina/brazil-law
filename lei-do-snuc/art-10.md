@@ -1,0 +1,4 @@
+Art. 10. A Reserva Biológica tem como objetivo a preservação integral da biota e demais atributos naturais existentes em seus limites, sem interferência humana direta ou modificações ambientais, excetuando-se as medidas de recuperação de seus ecossistemas alterados e as ações de manejo necessárias para recuperar e preservar o equilíbrio natural, a diversidade biológica e os processos ecológicos naturais.
+§ 1º A Reserva Biológica é de posse e domínio públicos, sendo que as áreas particulares incluídas em seus limites serão desapropriadas, de acordo com o que dispõe a lei.
+§ 2º É proibida a visitação pública, exceto aquela com objetivo educacional, de acordo com regulamento específico.
+§ 3º A pesquisa científica depende de autorização prévia do órgão responsável pela administração da unidade e está sujeita às condições e restrições por este estabelecidas, bem como àquelas previstas em regulamento.

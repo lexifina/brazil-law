@@ -1,0 +1,1 @@
+Art. 48. O órgão ou empresa, público ou privado, responsável pela geração e distribuição de energia elétrica, beneficiário da proteção oferecida por uma unidade de conservação, deve contribuir financeiramente para a proteção e implementação da unidade, de acordo com o disposto em regulamentação específica.
