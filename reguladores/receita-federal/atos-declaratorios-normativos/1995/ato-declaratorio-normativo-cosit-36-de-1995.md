@@ -1,0 +1,7 @@
+Ato Declaratório Normativo Cosit nº 36, de 5 de outubro de 1995
+"Dispõe sobre a solicitação de benefício fiscal no despacho aduaneiro."
+O Coordenador-Geral do Sistema de Tributação, no uso das atribuições que lhe confere o artigo 147, inciso III, do Regimento Interno aprovado pela Portaria Ministerial No 606, de 3 de setembro de 1992, tendo em vista o contido no Parecer Normativo CST No 255, de 15 de março de 1971, e nos Atos Declaratórios (Normativos) CST No 29, de 22 de dezembro de 1980, e COSIT No 38, de 24 de junho de 1994, e, ainda, o disposto no artigo 112 do Regulamento Aduaneiro aprovado pelo Decreto No 91.030, de 5 de março de 1985,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal e aos demais interessados que:
+I - A mera solicitação, no despacho aduaneiro, de benefício fiscal incabível, bem assim a classificação tarifária errônea, estando a produto corretamente descrito com todos os elementos necessários à sua identificação, desde que, em qualquer dos casos, não se constate intuito doloso ou má-fé por parte do declarante, não configuram declaração inexata para efeito de aplicação da multa prevista no artigo 4o da Lei No 8.218, de 29 de agosto de 1991.
+II - Os tributos devidos em razão da falta ou insuficiência de pagamento, nestes casos, serão acrescidos de juros e multa de mora e atualização monetária, na forma da legislação em vigor, incidentes a partir da data do registro da Declaração de Importação.
+Paulo Baltazar Carneiro Coordenador-Geral do Sistema de Tributação
