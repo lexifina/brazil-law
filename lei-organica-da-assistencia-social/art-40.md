@@ -1,2 +1,3 @@
 Art. 40. Com a implantação dos benefícios previstos nos arts. 20 e 22 desta lei, extinguem-se a renda mensal vitalícia, o auxílio-natalidade e o auxílio-funeral existentes no âmbito da Previdência Social, conforme o disposto na Lei nº 8.213, de 24 de julho de 1991.
-Parágrafo único. A transferência dos beneficiários do sistema previdenciário para a assistência social deve ser estabelecida de forma que o atendimento à população não sofra solução de continuidade.
+§ 1º A transferência dos benefíciários do sistema previdenciário para a assistência social deve ser estabelecida de forma que o atendimento à população não sofra solução de continuidade.
+§ 2º É assegurado ao maior de setenta anos e ao inválido o direito de requerer a renda mensal vitalícia junto ao INSS até 31 de dezembro de 1995, desde que atenda, alternativamente, aos requisitos estabelecidos nos incisos I, II ou III do § 1º do art. 139 da Lei nº 8.213, de 24 de julho de 1991.
