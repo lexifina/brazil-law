@@ -1,0 +1,3 @@
+Art. 1º Prescreve em cinco anos a ação punitiva da Administração Pública Federal, direta e indireta, no exercício do poder de polícia, objetivando apurar infração à legislação em vigor, contados da data da prática do ato ou, no caso de infração permanente ou continuada, do dia em que tiver cessado.
+§ 1º Incide a prescrição no procedimento administrativo paralisado por mais de três anos, pendente de julgamento ou despacho, cujos autos serão arquivados de ofício ou mediante requerimento da parte interessada, sem prejuízo da apuração da responsabilidade funcional decorrente da paralisação, se for o caso.
+§ 2º Quando o fato objeto da ação punitiva da Administração também constituir crime, a prescrição reger-se-á pelo prazo previsto na lei penal.
