@@ -1,0 +1,8 @@
+Parecer Normativo CST nº 63, de 29 de junho de 1978
+IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS 4.12.00.00 – ISENÇÕES
+A isenção prevista no inciso IX do Art. 9º do RIPI depende apenas dos produtos beneficiados terem sido fabricados para uso em estradas de ferro, prevalecendo ainda que o adquirente os utilize em outras finalidades.
+1 - Entre as diversas isenções a que se referem os incisos I a LIII do Art. 9º do RIPI aprovado pelo Decreto nº 70.162, de 18 de fevereiro de 1972, algumas há que, além do produto alcançado pelo favor, indicam sua finalidade, tal como os trilhos e dormentes para estradas de ferro, a que se refere o inciso IX.
+1.1 - Questiona-se em torno da aplicabilidade ou não do disposto no § º 1º do Art. 18 do RIPI na hipótese do bem deixar de ser empregado na finalidade referida.
+2 - Tal dispositivo prescreve multa e cobrança do imposto quando, estando a isenção condicionada à destinação do produto, a este for dado destino diverso.
+2.1 - Tratando-se de norma isencional sujeita, conforme o disposto no inciso II do Art. 111 da Lei nº 5.172, de 25 de outubro de 1966 - CTN, à interpretação literal, o condicionamento à destinação há de estar expresso no dispositivo, como ocorre por exemplo, com o inciso XXXVIII do Art. 9º do RIPI, ex vi" do qual a isenção, ali conferida aos barcos de pesca produzidos ou adquiridos por colônias e cooperativas de pescadores, fica condicionada a sua distribuição ou venda dos associados.
+3 - Na hipótese ventilada, todavia, para que se aperfeiçoe a exclusão do crédito basta que os produtos em questão se revistam das características constantes da norma, ou seja, tenham sido fabricados para uso em estradas de ferro, permanecendo o favor, ainda que empregados em outras finalidades.
