@@ -1,0 +1,2 @@
+Art. 2º Em substituição à correção pelo salário mínimo, o Poder Executivo estabelecerá sistema especial de atualização monetária.
+Parágrafo único. O coeficiente de atualização monetária, segundo o disposto neste artigo, será baseado no fator de reajustamento salarial a que se referem, os artigos 1º e 2º da Lei nº 6.147, de 1974, excluído o coeficiente de aumento de produtividade. Poderá estabelecer-se como limite, para a variação do coeficiente, a variação das Obrigações Reajustáveis do Tesouro Nacional (ORTN).
