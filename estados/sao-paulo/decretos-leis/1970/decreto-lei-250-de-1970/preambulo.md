@@ -1,0 +1,8 @@
+DECRETO-LEI N. 250, DE 29 DE MAIO DE 1970
+Cria, como entidade autárquica, o Instituto de Energia Atômica (I.E.A.)
+O GOVERNADOR DO ESTADO DE SÃO
+PAULO, no uso da atribuição que, por fôrça
+do Ato Complementar n. 47, de 7 de fevereiro de 1969, lhe confere
+o § 1.º do Artigo 2.º do Ato Institucional n. 5, de
+13 de dezembro de 1968,
+Decreta:
