@@ -1,0 +1,1 @@
+Artigo 10 - Os cargos em comissão atualmente lotados na Coordenadoria do Ensino Superior da Secretaria da Educação e os de provimento efetivo, cujos titulares optarem pela Universidade, ficam relotados na Reitoria da Universidade.

@@ -1,0 +1,1 @@
+Artigo 5° - As unidades de que trata o artigo 3° desta lei, bem como as autarquias referidas nos artigos 14 e 15, continuarão a funcionar de acordo com as suas respectivas estruturas administrativas, até que sejam efetivadas as providências a que se refere o artigo anterior.

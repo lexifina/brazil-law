@@ -1,0 +1,4 @@
+Artigo 2° - Enquanto não for constituído o Conselho Universitário de que trata o artigo 6°, suas atribuições serão exercidas por um Conselho Provisório, integrado por todos os diretores das unidades universitárias, pelo dirigentes das autarquias a que se referem os artigos 14 e 15 e por representantes do corpo discente, estes na proporção de um quinto do colegiado.
+§ 1° - Compete ao Conselho Provisório elaborar e encaminhar as listas tríplices, para efeito de primeira nomeação de Reitor e Vice-Reitor da Universidade, observados os termos do artigo 7° e seus parágrafos.
+§ 2° - O Reitor e Vice-Reitor, uma vez nomeados, passarão a integrar o Conselho Provisório.
+§ 3° - Cabe ao Presidente do Conselho Estadual de Educação responder pelo expediente da Reitor da Universidade até a nomeação do Reitor, devendo, no prazo de 15 dias, contados da data da publicação desta lei, convocar o Conselho Provisório para a elaboração da lista tríplice a ser submetida ao Governador.
