@@ -1,0 +1,1 @@
+Art. 57. Esta Lei entrará em vigor na data de sua publicação, revogada a Lei nº 1.808, de 7 de janeiro de 1953, os Decretos-leis nºs 9.228, de 3 de maio de 1946; 9.328, de 10 de junho de 1946; 9.346, de 10 de junho de 1946; 48, de 18 de novembro de 1966; 462, de 11 de fevereiro de 1969; e 685, de 17 de junho de 1969, e demais disposições gerais e especiais em contrário.

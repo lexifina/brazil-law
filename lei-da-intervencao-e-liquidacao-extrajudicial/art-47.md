@@ -1,0 +1,1 @@
+Art. 47. Se, decretado o arresto ou proposta a ação, sobrevier a falência da entidade, competirá ao sindico tomar, dai por diante as providências necessárias ao efetivo cumprimento das determinações desta Lei, cabendo-lhe promover a devida substituição processual, no prazo de trinta dias, contados da data do seu compromisso.

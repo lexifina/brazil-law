@@ -1,0 +1,1 @@
+Art. 33. O liquidante prestará contas ao Banco Central do Brasil, independentemente de qualquer exigência, no momento em que deixar suas funções, ou a qualquer tempo, quando solicitado, e responderá, civil e criminalmente, por seus atos.

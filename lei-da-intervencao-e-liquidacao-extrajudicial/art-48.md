@@ -1,0 +1,1 @@
+Art. 48. Independentemente do inquérito e do arresto, qualquer das partes, a que se refere o parágrafo único do artigo 46, no prazo nele previsto, poderá propor a ação de responsabilidade dos ex-administradores, na forma desta Lei.

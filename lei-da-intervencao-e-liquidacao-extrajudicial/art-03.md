@@ -1,0 +1,1 @@
+Art. 3º A intervenção será decretada ex officio pelo Banco Central do Brasil, ou por solicitação dos administradores da instituição - se o respectivo estatuto lhes conferir esta competência - com indicação das causas do pedido, sem prejuízo da responsabilidade civil e criminal em que incorrerem os mesmos administradores, pela indicação falsa ou dolosa.

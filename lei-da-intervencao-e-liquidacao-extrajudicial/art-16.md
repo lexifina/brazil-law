@@ -1,0 +1,3 @@
+Art. 16. A liquidação extrajudicial será executada por liquidante nomeado pelo Banco Central do Brasil, com amplos poderes de administração e liquidação, especialmente os de verificação e classificação dos créditos, podendo nomear e demitir funcionários, fixando-lhes os vencimentos, outorgar e cassar mandatos, propor ações e representar a massa em Juízo ou fora dele.
+§ 1º Com prévia e expressa autorização do Banco Central do Brasil, poderá o liquidante, em benefício da massa, ultimar os negócios pendentes e, a qualquer tempo, onerar ou alienar seus bens, neste último caso através de licitações.
+§ 2º Os honorários do liquidante, a serem pagos por conta da liquidanda, serão fixados pelo Banco Central do Brasil.

@@ -1,0 +1,1 @@
+Art. 24. Os credores serão notificados, por escrito, da decisão do liquidante, os quais, a contar da data do recebimento da notificação, terão o prazo de dez dias para recorrer, ao Banco Central do Brasil, do ato que lhes pareça desfavorável.

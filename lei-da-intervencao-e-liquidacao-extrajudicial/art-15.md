@@ -1,0 +1,9 @@
+Art. 15. Decretar-se-á a liquidação extrajudicial da instituição financeira:
+I - ex officio:
+a) em razão de ocorrências que comprometam sua situação econômica ou financeira especialmente quando deixar de satisfazer, com pontualidade, seus compromissos ou quando se caracterizar qualquer dos motivos que autorizem a declararão de falência;
+b) quando a administração violar gravemente as normas legais e estatutárias que disciplinam a atividade da instituição bem como as determinações do Conselho Monetário Nacional ou do Banco Central do Brasil, no uso de suas atribuições legais;
+c) quando a instituição sofrer prejuízo que sujeite a risco anormal seus credores quirografários;
+d) quando, cassada a autorização para funcionar, a instituição não iniciar, nos 90 (noventa) dias seguintes, sua liquidação ordinária, ou quando, iniciada esta, verificar o Banco Central do Brasil que a morosidade de sua administração pode acarretar prejuízos para os credores;
+II - a requerimento dos administradores da instituição - se o respectivo estatuto social lhes conferir esta competência - ou por proposta do interventor, expostos circunstanciadamente os motivos justificadores da medida.
+§ 1º O Banco Central do Brasil decidirá sobre a gravidade dos fatos determinantes da liquidação extrajudicial, considerando as repercussões deste sobre os interesses dos mercados financeiro e de capitais, e, poderá, em lugar da liquidação, efetuar a intervenção, se julgar esta medida suficiente para a normalização dos negócios da instituição e preservação daqueles interesses.
+§ 2º O ato do Banco Central do Brasil, que decretar a liquidação extrajudicial, indicará a data em que se tenha caracterizado o estado que a determinou, fixando o termo legal da liquidação que não poderá ser superior a 60 (sessenta) dias contados do primeiro protesto por falta de pagamento ou, na falta deste do ato que haja decretado a intervenção ou a liquidação.

@@ -1,0 +1,1 @@
+Art. 53. As sociedades ou empresas que integram o sistema de distribuição de títulos ou valores mobiliários no mercado de capitais, assim como as sociedades ou empresas corretoras do câmbio, não poderão com as instituições financeiras, impetrar concordata.
