@@ -1,0 +1,2 @@
+Art. 28. Nos contratos de financiamento, as concessionárias poderão oferecer em garantia os direitos emergentes da concessão, até o limite que não comprometa a operacionalização e a continuidade da prestação do serviço.
+Parágrafo único. Os casos em que o organismo financiador for instituição financeira pública, deverão ser exigidas outras garantias da concessionária para viabilização do financiamento.

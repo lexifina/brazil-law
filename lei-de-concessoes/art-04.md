@@ -1,0 +1,1 @@
+Art. 4º A concessão de serviço público, precedida ou não da execução de obra pública, será formalizada mediante contrato, que deverá observar os termos desta Lei, das normas pertinentes e do edital de licitação.
