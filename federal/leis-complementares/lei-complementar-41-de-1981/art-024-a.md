@@ -1,0 +1,1 @@
+Art. 24 - A partir do exercício financeiro de 1982, inclusive, as transferências da União ao Estado de Rondônia, decorrentes das disposições constitucionais e legais vigentes, deverão ser previstas, como receita, nos orçamentos do Estado.

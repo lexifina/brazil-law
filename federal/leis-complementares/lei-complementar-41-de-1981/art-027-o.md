@@ -1,0 +1,1 @@
+Art. 27 - O Ministério Público será organizado na forma da legislação estadual e terá por Chefe o Procurador-Geral, nomeado, em comissão, pelo Governador, até 60 (sessenta) dias desta Lei, dentre os cidadãos maiores de 35 (trinta e cinco) anos, de notário saber jurídico e reputação ilibada.

@@ -1,0 +1,1 @@
+Art. 6º - O Poder Judiciário do Estado de Rondônia será exercido pelo Tribunal de Justiça ora criado, por seus Juízes de Direito e Tribunais do Júri, com a colaboração dos órgãos auxiliares instituídos em lei.
