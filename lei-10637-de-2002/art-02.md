@@ -1,0 +1,1 @@
+Art. 2º Para determinação do valor da contribuição para o PIS/Pasep aplicar-se-á, sobre a base de cálculo apurada conforme o disposto no art. 1º, a alíquota de 1,65% (um inteiro e sessenta e cinco centésimos por cento).

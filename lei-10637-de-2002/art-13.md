@@ -1,0 +1,7 @@
+Art. 13. Poderão ser pagos até o último dia útil de janeiro de 2003, em parcela única, os débitos a que se refere o art. 11 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, vinculados ou não a qualquer ação judicial, relativos a fatos geradores ocorridos até 30 de abril de 2002.
+§ 1º Para os efeitos deste artigo, a pessoa jurídica deverá comprovar a desistência expressa e irrevogável de todas as ações judiciais que tenham por objeto os tributos a serem pagos e renunciar a qualquer alegação de direito sobre a qual se fundam as referidas ações.
+§ 2º Na hipótese de que trata este artigo, serão dispensados os juros de mora devidos até janeiro de 1999, sendo exigido esse encargo, na forma do § 4º do art. 17 da Lei nº 9.779, de 19 de janeiro de 1999, acrescido pela Medida Provisória nº 2.158-35, de 24 de agosto de 2001, a partir do mês:
+I - de fevereiro do referido ano, no caso de fatos geradores ocorridos até janeiro de 1999;
+II - seguinte ao da ocorrência do fato gerador, nos demais casos.
+§ 3º Na hipótese deste artigo, a multa, de mora ou de ofício, incidente sobre o débito constituído ou não, será reduzida no percentual fixado no caput do art. 6º da Lei nº 8.218, de 29 de agosto de 1991.
+§ 4º Para efeito do disposto no caput, se os débitos forem decorrentes de lançamento de ofício e se encontrarem com exigibilidade suspensa por força do inciso III do art. 151 da Lei nº 5.172, de 25 de outubro de 1966, o sujeito passivo deverá desistir expressamente e de forma irrevogável da impugnação ou do recurso interposto.

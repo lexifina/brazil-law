@@ -1,0 +1,5 @@
+Art. 19. O regime especial de parcelamento referido no art. 18 implica a consolidação dos débitos na data da opção e abrangerá a totalidade dos débitos existentes em nome da optante, constituídos ou não, inclusive os juros de mora incidentes até a data de opção.
+Parágrafo único. O débito consolidado na forma deste artigo:
+I - sujeitar-se-á, a partir da data da consolidação, a juros equivalentes à taxa do Selic para títulos federais, acumulada mensalmente, calculados a partir da data de deferimento do pedido até o mês anterior ao do pagamento, e adicionados de 1% (um por cento) relativamente ao mês em que o pagamento estiver sendo feito;
+II - será pago mensalmente, até o último dia útil da primeira quinzena de cada mês, no valor equivalente a 5% (cinco por cento) do valor devido no mesmo mês pela optante, relativo ao Pasep correspondente ao fato gerador ocorrido no mês imediatamente anterior, até a liquidação total do débito;
+III - a última parcela será paga pelo valor residual do débito, quando inferior ao referido no inciso II.

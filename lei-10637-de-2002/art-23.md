@@ -1,0 +1,4 @@
+Art. 23. A opção pelo parcelamento alternativo ao Refis de que trata o art. 12 da Lei nº 9.964, de 10 de abril de 2000, regularmente efetuada, poderá ser convertida em opção pelo Refis, e vice-versa, na hipótese de erro de fato cometido por ocasião do primeiro pagamento efetuado, observadas as normas estabelecidas pelo Comitê Gestor do referido Programa.
+§ 1º A mudança de opção referida neste artigo deverá ser solicitada até o último dia útil do mês de janeiro de 2003.
+§ 2º A pessoa jurídica excluída do parcelamento alternativo ao Refis em razão de pagamento de parcela em valor inferior ao fixado no art. 12, § 1º, da Lei nº 9.964, de 10 de abril de 2000, acrescido de juros correspondentes à variação mensal da Taxa de Juros de Longo Prazo (TJLP), poderá ter sua opção restabelecida, observado o disposto no caput.
+§ 3º A conversão da opção nos termos deste artigo não implica restituição ou compensação de valores já pagos.

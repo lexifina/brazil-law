@@ -1,0 +1,8 @@
+Art. 15. Relativamente aos tributos e contribuições administrados pela Secretaria da Receita Federal, o contribuinte ou o responsável que, a partir de 15 de maio de 2002, tenha efetuado pagamento de débitos, em conformidade com norma de caráter exonerativo, e divergir em relação ao valor de débito constituído de ofício, poderá impugnar, com base nas normas estabelecidas no Decreto nº 70.235, de 6 de março de 1972, a parcela não reconhecida como devida, desde que a impugnação:
+I - seja apresentada juntamente com o pagamento do valor reconhecido como devido;
+II - verse, exclusivamente, sobre a divergência de valor, vedada a inclusão de quaisquer outras matérias, em especial as de direito em que se fundaram as respectivas ações judiciais ou impugnações e recursos anteriormente apresentados contra o mesmo lançamento;
+III - seja precedida do depósito da parcela não reconhecida como devida, determinada de conformidade com o disposto na Lei nº 9.703, de 17 de novembro de 1998.
+§ 1º Da decisão proferida em relação à impugnação de que trata este artigo caberá recurso nos termos do Decreto nº 70.235, de 6 de março de 1972
+§ 2º A conclusão do processo administrativo-fiscal, por decisão definitiva em sua esfera ou desistência do sujeito passivo, implicará a imediata conversão em renda do depósito efetuado, na parte favorável à Fazenda Nacional, transformando-se em pagamento definitivo.
+§ 3º A parcela depositada nos termos do inciso III do caput que venha a ser considerada indevida por força da decisão referida no § 2º sujeitar-se-á ao disposto na Lei nº 9.703, de 17 de novembro de 1998.
+§ 4º O disposto neste artigo também se aplica a majoração ou a agravamento de multa de ofício, na hipótese do art. 13.

@@ -1,0 +1,2 @@
+Art. 53. É proibida a fabricação, em estabelecimento de terceiros, dos produtos do código 24.02.20.00 da Tipi.
+Parágrafo único. Aos estabelecimentos que receberem ou tiverem em seu poder matérias-primas, produtos intermediários ou material de embalagem para a fabricação de cigarros para terceiros, aplica-se a penalidade prevista no inciso II do art. 15 do Decreto-Lei nº 1.593, de 21 de dezembro de 1977.
