@@ -1,0 +1,1 @@
+Art. 12. Os locais de espetáculos, conferências, aulas e outros de natureza similar deverão dispor de espaços reservados para pessoas que utilizam cadeira de rodas, e de lugares específicos para pessoas com deficiência auditiva e visual, inclusive acompanhante, de acordo com a ABNT, de modo a facilitar-lhes as condições de acesso, circulação e comunicação.
