@@ -1,0 +1,2 @@
+Art. 1º As parcelas pertencentes aos Municípios do produto da arrecadação de impostos de competência dos Estados e de transferência por estes recebidas, conforme os incisos III e IV do art. 158 e inciso II e § 3º do art. 159, da Constituição Federal, serão creditadas segundo os critérios e prazos previstos nesta Lei Complementar.
+Parágrafo único. As parcelas de que trata o caput deste artigo compreendem os juros, a multa moratória e a correção monetária, quando arrecadados como acréscimos dos impostos nele referidos.

@@ -1,0 +1,1 @@
+Art. 7º Dos recursos recebidos na forma do inciso II do art. 159 da Constituição Federal, os Estados entregarão, imediatamente, 25% (vinte e cinco por cento) aos respectivos Municípios, observados os critérios e a forma estabelecidos nos arts. 3º e 4º desta Lei Complementar.
