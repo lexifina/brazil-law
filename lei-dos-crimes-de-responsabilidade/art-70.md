@@ -1,0 +1,1 @@
+Art. 70. No caso de condenação, fica o acusado desde logo destituído do seu cargo. Se a sentença for absolutória, produzirá a imediata reabilitação do acusado, que voltará ao exercício do cargo, com direito à parte dos vencimentos de que tenha sido privado.

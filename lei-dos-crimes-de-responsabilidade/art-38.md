@@ -1,0 +1,1 @@
+Art. 38. No processo e julgamento do Presidente da República e dos Ministros de Estado, serão subsidiários desta lei, naquilo em que lhes forem aplicáveis, assim os regimentos internos da Câmara dos Deputados e do Senado Federal, como o Código de Processo Penal.

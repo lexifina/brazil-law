@@ -1,0 +1,2 @@
+Art. 24. Recebido no Senado o decreto de acusação com o processo enviado pela Câmara dos Deputados e apresentado o libelo pela comissão acusadora, remeterá o Presidente cópia de tudo ao acusado, que, na mesma ocasião e nos termos dos parágrafos 2º e 3º do art. 23, será notificado para comparecer em dia prefixado perante o Senado.
+Parágrafo único. Ao Presidente do Supremo Tribunal Federal enviar-se-á o processo em original, com a comunicação do dia designado para o julgamento.

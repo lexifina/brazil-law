@@ -1,0 +1,1 @@
+Art. 73 No processo e julgamento de Ministro do Supremo Tribunal, ou do Procurador Geral da República serão subsidiários desta lei, naquilo em que lhes forem aplicáveis, o Regimento Interno do Senado Federal e o Código de Processo Penal.

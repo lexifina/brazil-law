@@ -1,0 +1,1 @@
+Art. 17. No processo de crime de responsabilidade, servirá de escrivão um funcionário da Secretaria da Câmara dos Deputados, ou do Senado, conforme se achar o mesmo em uma ou outra casa do Congresso Nacional.

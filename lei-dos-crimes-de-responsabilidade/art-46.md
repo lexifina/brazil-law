@@ -1,0 +1,1 @@
+Art. 46. O parecer da comissão, com a denúncia e os documentos que a instruírem, será lido no expediente de sessão do Senado, publicado no Diário do Congresso Nacional e em avulsos, que deverão ser distribuídos entre os senadores, e dado para ordem do dia da sessão seguinte.
