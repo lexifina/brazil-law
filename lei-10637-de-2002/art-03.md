@@ -1,19 +1,23 @@
 Art. 3º Do valor apurado na forma do art. 2º a pessoa jurídica poderá descontar créditos calculados em relação a:
-I - bens adquiridos para revenda, exceto em relação às mercadorias e aos produtos referidos nos incisos III e IV do § 3º do art. 1º;
-II - bens e serviços utilizados como insumo na fabricação de produtos destinados à venda ou na prestação de serviços, inclusive combustíveis e lubrificantes;
+I - bens adquiridos para revenda, exceto em relação às mercadorias e aos produtos referidos:
+a) nos incisos III e IV do § 3º do art. 1º desta Lei; e
+b) no § 1º do art. 2º desta Lei;
+II - bens e serviços, utilizados como insumo na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda, inclusive combustíveis e lubrificantes, exceto em relação ao pagamento de que trata o art. 2º da Lei nº 10.485, de 3 de julho de 2002, devido pelo fabricante ou importador, ao concessionário, pela intermediação ou entrega dos veículos classificados nas posições 87.03 e 87.04 da TIPI;
 III - (VETADO)
 IV - aluguéis de prédios, máquinas e equipamentos, pagos a pessoa jurídica, utilizados nas atividades da empresa;
-V - despesas financeiras decorrentes de empréstimos, financiamentos e contraprestações de operações de arrendamento mercantil de pessoas jurídicas, exceto de optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES;
+V - valor das contraprestações de operações de arrendamento mercantil de pessoa jurídica, exceto de optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES;
 VI - máquinas e equipamentos adquiridos para utilização na fabricação de produtos destinados à venda, bem como a outros bens incorporados ao ativo imobilizado;
 VII - edificações e benfeitorias em imóveis de terceiros, quando o custo, inclusive de mão-de-obra, tenha sido suportado pela locatária;
 VIII - bens recebidos em devolução, cuja receita de venda tenha integrado faturamento do mês ou de mês anterior, e tributada conforme o disposto nesta Lei.
 IX - energia elétrica consumida nos estabelecimentos da pessoa jurídica.
-§ 1º O crédito será determinado mediante a aplicação da alíquota prevista no art. 2º sobre o valor:
+§ 1º O crédito será determinado mediante a aplicação da alíquota prevista no caput do art. 2º desta Lei sobre o valor:
 I - dos itens mencionados nos incisos I e II do caput, adquiridos no mês;
 II - dos itens mencionados nos incisos IV, V e IX do caput, incorridos no mês;
 III - dos encargos de depreciação e amortização dos bens mencionados nos incisos VI e VII do caput, incorridos no mês;
 IV - dos bens mencionados no inciso VIII do caput, devolvidos no mês.
-§ 2º Não dará direito a crédito o valor de mão-de-obra paga a pessoa física.
+§ 2º Não dará direito a crédito o valor:
+I - de mão-de-obra paga a pessoa física; e
+II - da aquisição de bens ou serviços não sujeitos ao pagamento da contribuição, inclusive no caso de isenção, esse último quando revendidos ou utilizados como insumo em produtos ou serviços sujeitos à alíquota 0 (zero), isentos ou não alcançados pela contribuição.
 § 3º O direito ao crédito aplica-se, exclusivamente, em relação:
 I - aos bens e serviços adquiridos de pessoa jurídica domiciliada no País;
 II - aos custos e despesas incorridos, pagos ou creditados a pessoa jurídica domiciliada no País;

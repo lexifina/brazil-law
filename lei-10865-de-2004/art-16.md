@@ -1,0 +1,1 @@
+Art. 16. Ressalvado o disposto no art. 17, é vedada a utilização do crédito de que trata o art. 15 nas hipóteses referidas nos incisos III e IV do § 3º do art. 1º e no art. 8º da Lei nº 10.637, de 2002, e nos incisos III e IV do § 3º do art. 1º e no art. 10 da Lei nº 10.833, de 2003.

@@ -5,7 +5,7 @@ Art. 1º A Contribuição para o Financiamento da Seguridade Social - COFINS, co
 I - isentas ou não alcançadas pela incidência da contribuição ou sujeitas à alíquota 0 (zero);
 II - não-operacionais, decorrentes da venda de ativo permanente;
 III - auferidas pela pessoa jurídica revendedora, na revenda de mercadorias em relação às quais a contribuição seja exigida da empresa vendedora, na condição de substituta tributária;
-IV - de venda dos produtos de que tratam as Leis nos 9.990, de 21 de julho de 2000, 10.147, de 21 de dezembro de 2000, 10.485, de 3 de julho de 2002, e 10.560, de 13 de novembro de 2002, ou quaisquer outras submetidas à incidência monofásica da contribuição;
+IV - de venda de álcool para fins carburantes;
 V - referentes a:
 a) vendas canceladas e aos descontos incondicionais concedidos;
 b) reversões de provisões e recuperações de créditos baixados como perda que não representem ingresso de novas receitas, o resultado positivo da avaliação de investimentos pelo valor do patrimônio líquido e os lucros e dividendos derivados de investimentos avaliados pelo custo de aquisição que tenham sido computados como receita.

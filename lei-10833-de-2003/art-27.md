@@ -3,5 +3,8 @@ Art. 27. O imposto de renda sobre os rendimentos pagos, em cumprimento de decis�
 § 2º O imposto retido na fonte de acordo com o caput será:
 I - considerado antecipação do imposto apurado na declaração de ajuste anual das pessoas físicas; ou
 II - deduzido do apurado no encerramento do período de apuração ou na data da extinção, no caso de beneficiário pessoa jurídica.
-§ 3º A instituição financeira deverá, na forma, prazo e condições estabelecidas pela Secretaria da Receita Federal, fornecer à pessoa física ou jurídica beneficiária o Comprovante de Rendimentos Pagos e de Retenção do Imposto de Renda na Fonte e apresentar à Secretaria da Receita Federal a Declaração do Imposto de Renda Retido na Fonte - DIRF.
-§ 4º O disposto neste artigo não se aplica aos depósitos efetuados pelos Tribunais Regionais Federais antes de 1º de janeiro de 2004.
+§ 3º A instituição financeira deverá, na forma, prazo e condições estabelecidas pela Secretaria da Receita Federal, fornecer à pessoa física ou jurídica beneficiária o Comprovante de Rendimentos Pagos e de Retenção do Imposto de Renda na Fonte, bem como apresentar à Secretaria da Receita Federal declaração contendo informações sobre:
+I - os pagamentos efetuados à pessoa física ou jurídica beneficiária e o respectivo imposto de renda retido na fonte;
+II - os honorários pagos a perito e o respectivo imposto de renda retido na fonte;
+III - a indicação do advogado da pessoa física ou jurídica beneficiária.
+§ 4º O disposto neste artigo não se aplica aos depósitos efetuados pelos Tribunais Regionais Federais antes de 1º de fevereiro de 2004
