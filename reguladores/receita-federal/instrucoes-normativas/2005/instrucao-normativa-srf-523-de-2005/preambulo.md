@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 523, de 10 de março de 2005
+Altera a Instrução Normativa SRF nº 368, de 28 de novembro de 2003, que dispõe sobre o reconhecimento da equivalência entre os produtos importados e exportados, para a extinção dos regimes de admissão temporária e de exportação temporária relativamente a partes, peças e componentes de aeronave.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no inciso I do art. 502 do Decreto nº 4.543, de 26 de dezembro de 2002, e no § 2º do art. 44 da Medida Provisória nº 135, de 30 de outubro de 2003, resolve:
