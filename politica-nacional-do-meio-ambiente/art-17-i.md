@@ -1,0 +1,2 @@
+Art. 17-I. As pessoas físicas e jurídicas, que já exerçam as atividades mencionadas nos incisos I e II do art. 17 desta Lei, com a redação pela nº 7.804, de 1989, e que ainda não estejam inscritas nos respectivos cadastros, deverão fazê-lo até o dia 31 de março de 2000.
+Parágrafo único. As pessoas físicas e jurídicas, enquadradas no disposto neste artigo, que não se cadastrarem até a data estabelecida, incorrerão em infração punível com multa, ficando sujeitas, ainda, às sanções constantes do art. 17-G desta Lei, no que couber.

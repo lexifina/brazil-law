@@ -1,0 +1,1 @@
+Art. 17-L. As ações de licenciamento, registro, autorizações, concessões e permissões relacionadas à fauna, à flora, e ao controle ambiental são de competência exclusiva dos órgãos integrantes do Sistema Nacional do Meio Ambiente.

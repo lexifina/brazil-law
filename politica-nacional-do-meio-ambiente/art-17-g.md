@@ -1,0 +1,2 @@
+Art. 17-G. O não-pagamento da TFA ensejará a fiscalização do IBAMA, a lavratura de auto-de-infração e a conseqüente aplicação de multa correspondente ao valor da TFA, acrescido de cem por cento desse valor, sem prejuízo da exigência do pagamento da referida Taxa.
+Parágrafo único. O valor da multa será reduzido em trinta por cento, se o pagamento for efetuado em sua totalidade, até a data do vencimento estipulado no respectivo auto-de-infração.
