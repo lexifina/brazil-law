@@ -1,0 +1,2 @@
+Altera a redação do art. 34 da Lei nº 6.368, de 21 de outubro de 1976, que dispõe sobre medidas de prevenção e repressão ao tráfico ilícito e uso indevido de substâncias entorpecentes ou que determinem dependência física ou psíquica.
+Faço saber que o PRESIDENTE DA REPÚBLICA, adotou a Medida Provisória nº 1.780-10, de 1999, que o Congresso Nacional aprovou, e eu, Antonio Carlos Magalhães, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
