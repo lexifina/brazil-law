@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 2, de 2 de janeiro de 2001
+Aprova instruções para a prática de atos perante o Cadastro Nacional da Pessoa Jurídica.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista o disposto nos arts. 135 e 199 da Lei No 5.172, de 25 de outubro de 1966, na Lei No 5.614, de 5 de outubro de 1970, No art. 2o da Lei No 8.137, de 27 de dezembro de 1990, no inciso II do art. 36 da Lei No 9.250, de 26 de dezembro de 1995, no Convênio ICMS No 8, de 22 de março de 1996, nos arts. 80 a 82 da Lei No 9.430, de 27 de dezembro de 1996 e na Medida Provisória No 1.973-69, de 21 de dezembro de 2000, resolve:
