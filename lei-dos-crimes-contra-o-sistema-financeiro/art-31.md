@@ -1,0 +1,1 @@
+Art. 31. Nos crimes previstos nesta lei e punidos com pena de reclusão, o réu não poderá prestar fiança, nem apelar antes de ser recolhido à prisão, ainda que primário e de bons antecedentes, se estiver configurada situação que autoriza a prisão preventiva.
