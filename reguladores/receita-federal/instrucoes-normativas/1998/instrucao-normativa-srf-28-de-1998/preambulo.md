@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 28, de 5 de março de 1998
+Aprova o programa aplicativo para preenchimento de declarações simplificadas de pessoas jurídicas em disquete, relativas ao exercício de 1998, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista as disposições do art. 56 da Lei No 8.981, de 20 de janeiro de 1995, com a nova redação dada pelos arts. 1o da Lei No 9.065, de 20 de junho de 1995 e 26 da Lei No 9.532, de 10 de dezembro de 1997, do art. 7o da Lei No 9.317, de 5 de dezembro de 1996, do art. 968 do Regulamento do Imposto de Renda - RIR/94, aprovado pelo Decreto No 1.041, de 10 de janeiro de 1994, e da Portaria MF No 371, de 27 de julho de 1985, resolve:
