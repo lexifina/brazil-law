@@ -1,0 +1,62 @@
+DECISÃO: O recurso extraordinário deduzido pela parte
+agravante é insuscetível de conhecimento. É que a autenticação
+mecânica, lançada pelo Protocolo do Tribunal a quo na petição
+recursal, não permite - por ser totalmente ilegível a data dela
+constante - a constatação da tempestividade do ato de interposição
+do apelo extremo.
+Na realidade, o conteúdo absolutamente ilegível da
+autenticação mecânica lançada na petição recursal - precisamente
+porque impede a segura aferição da tempestividade do recurso
+extraordinário, inviabilizando-a por completo - equivale à ausência
+desse dado de inquestionável relevância, circunstância esta que
+importa em descumprimento de ônus processual, que, em tema de
+formação do traslado, incumbe, exclusivamente, ao agravante,
+consoante adverte a jurisprudência do Supremo Tribunal Federal:
+"A autenticação do protocolo na petição de
+interposição do RE deve ser legível para permitir a
+aferição da tempestividade do recurso."
+(Ag 229.960-DF (AgRg), Rel. Min. MAURÍCIO CORRÊA)
+"Agravo de instrumento. Para efeito de declaração da
+insuficiência do traslado, equivale, à falta de
+certidão, a existência daquela que se mostre ilegível."
+(Ag 201.348-MG (EDAGRA), Rel. Min. OCTAVIO GALLOTTI)
+De outro lado, mesmo que se pudesse superar tal óbice,
+ainda assim o recurso extraordinário interposto pela parte ora
+agravante revelar-se-ia insuscetível de conhecimento, eis que
+falta, nestes autos, cópia das contra-razões. Trata-se de peça de
+traslado obrigatório, indispensável à formação do presente
+instrumento de agravo, exigida pelo art. 544, § 1º do Código de
+Processo Civil, de acordo com a redação dada pela Lei nº 8.950/94,
+verbis:
+"O agravo de instrumento será instruído com as peças
+apresentadas pelas partes, devendo constar,
+obrigatoriamente, sob pena de não-conhecimento, cópia do
+acórdão recorrido, da petição de interposição do recurso
+denegado, das contra-razões, da decisão agravada, da
+certidão da respectiva intimação e das procurações
+outorgadas aos advogados do agravante e do agravado."
+(grifei)
+Sem que a parte agravante promova a adequada e integral
+formação do instrumento, com a apresentação de todas as peças que
+dele devem constar obrigatoriamente, ou com qualquer outra que seja
+essencial à compreensão da controvérsia, torna-se inviável conhecer
+do recurso de agravo (Ag 214.562-SC (AgRg), Rel. Min. MOREIRA
+ALVES), cabendo enfatizar, ainda, que a composição do traslado
+deve  processar-se, necessariamente, perante o Tribunal a quo
+(RTJ 144/948, Rel. Min. CELSO DE MELLO - Ag 199.935-SP (AgRg), Rel.
+Min. MAURÍCIO CORRÊA).
+A eventual ausência, nos autos principais, das
+contra-razões ao recurso extraordinário ou da procuração outorgada
+pela parte recorrida - que constituem, dentre outras, peças de
+traslado obrigatório - impõe, à parte agravante, o dever de instruir
+a formação do instrumento com a pertinente certidão que ateste
+a  ocorrência desse fato (Ag 189.685-SP (AgRg), Rel. Min. MOREIRA
+ALVES - Ag 195.036-MG (AgRg), Rel. Min. CELSO DE MELLO - Ag 200.426-PR
+(AgRg), Rel. Min. MARCO AURÉLIO - Ag 239.487-SP (AgRg), Rel. Min.
+CELSO DE MELLO).
+Sendo assim, e pelas razões expostas, não conheço deste
+recurso (Súmula 288/STF).
+Publique-se.
+Brasília, 01 de agosto de 2000.
+Ministro CELSO DE MELLO
+Relator
