@@ -1,0 +1,2 @@
+Dispõe sobre a assunção, pela União, de crédito da Export Development Corporation (EDC) e de debêntures emitidas pela Embraer - Empresa Brasileira de Aeronáutica S.A., bem como sobre a utilização de créditos da União junto à Embraer - Empresa Brasileira de Aeronáutica S.A.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 944, de 1995, que o Congresso Nacional aprovou, e eu, JOSÉ SARNEY, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
