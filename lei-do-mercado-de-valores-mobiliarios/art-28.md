@@ -1,0 +1,1 @@
+Art. 28. O Banco Central do Brasil, a Comissão de Valores Mobiliários e a Secretaria da Receita Federal manterão um sistema de intercâmbio de informações, relativas à fiscalização que exerçam, nas áreas de suas respectivas competências, no mercado de valores mobiliários.
