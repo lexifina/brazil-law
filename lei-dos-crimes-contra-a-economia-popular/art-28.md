@@ -1,0 +1,1 @@
+Art. 28. O tempo, destinado à acusação e à defesa será de uma hora para cada uma. Havendo mais de um réu, o tempo será elevado ao dôbro, desde que assim seja requerido. Não haverá réplica nem tréplica.

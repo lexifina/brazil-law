@@ -1,0 +1,1 @@
+Art. 32. É o Poder Executivo autorizado a abrir ao Poder Judiciário o crédito especial de Cr$ 2.000.000,00 (dois milhões de cruzeiros) para ocorrer, Vetado, às despesas do pessoal e material necessários à execução desta Lei no Distrito Federal e nos Territórios.
