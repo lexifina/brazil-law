@@ -14,5 +14,5 @@ III - discriminar preços de bens ou de prestação de serviços por ajustes ou 
 IV - açambarcar, sonegar, destruir ou inutilizar bens de produção ou de consumo, com o fim de estabelecer monopólio ou de eliminar, total ou parcialmente, a concorrência;
 V - provocar oscilação de preços em detrimento de empresa concorrente ou vendedor de matéria-prima, mediante ajuste ou acordo, ou por outro meio fraudulento;
 VI - vender mercadorias abaixo do preço de custo, com o fim de impedir a concorrência;
-VII - elevar, sem justa causa, os preços de bens ou serviços, valendo-se de monopólio natural ou de fato.
+VII - elevar sem justa causa o preço de bem ou serviço, valendo-se de posição dominante no mercado.
 Pena - reclusão, de 2 (dois) a 5 (cinco) anos, ou multa.
