@@ -1,0 +1,4 @@
+LEI Nº 8.392, DE 30 DE DEZEMBRO DE 1991
+Prorroga o prazo a que se refere o art. 1° das Leis n°s 8.056, de 28 de junho de 1990, 8.127, de 20 de dezembro de 1990 e 8.201, de 29 de junho de 1991.
+O PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
