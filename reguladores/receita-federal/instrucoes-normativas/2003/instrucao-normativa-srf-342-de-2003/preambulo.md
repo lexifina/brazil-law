@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 342, de 15 de julho de 2003
+Altera a Instrução Normativa SRF nº 296, de 6 de fevereiro de 2003, que dispõe sobre o regime de suspensão do Imposto sobre Produtos Industrializados (IPI) nos casos que menciona.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições que lhe conferem o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista a alteração do caput do art. 29 da Lei nº 10.637, de 30 de dezembro de 2002, efetuada pelo art. 25 da Lei nº 10.684, de 30 de maio de 2003, resolve:
