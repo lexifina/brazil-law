@@ -1,1 +1,1 @@
-Art. 17. Caberá recurso de agravo de instrumento das decisões proferidas em conseqüência de aplicação desta Lei, salvo quando a decisão fôr denegatória da assistência, caso em que o agravo será de petição.
+Art. 17. Caberá apelação das decisões proferidas em consequência da aplicação desta lei; a apelação será recebida somente no efeito devolutivo quando a sentença conceder o pedido.
