@@ -1,0 +1,6 @@
+Art. 7º O saldo do lucro inflacionário acumulado, remanescente em 31 de dezembro de 1995, corrigido monetariamente até essa data, será realizado de acordo com as regras da legislação então vigente.
+§ 1º Para fins do cálculo do lucro inflacionário realizado nos períodos-base posteriores, os valores dos ativos que estavam sujeitos a correção monetária, existentes em 31 de dezembro de 1995, deverão ser registrados destacadamente na contabilidade da pessoa jurídica.
+§ 2º O disposto no parágrafo único do art. 6º aplica-se à correção dos valores de que trata este artigo.
+§ 3º À opção da pessoa jurídica, o lucro inflacionário acumulado existente em 31 de dezembro de 1995, corrigido monetariamente até essa data, com base no parágrafo único do art. 6º, poderá ser considerado realizado integralmente e tributado à alíquota de dez por cento.
+§ 4º A opção de que trata o parágrafo anterior, que deverá ser feita até 31 de dezembro de 1996, será irretratável e manifestada através do pagamento do imposto em cota única, podendo alcançar também o saldo do lucro inflacionário a realizar relativo à opção prevista no art. 31 da Lei nº 8.541, de 23 de dezembro de 1992.
+§ 5º O imposto de que trata o § 3º será considerado como de tributação exclusiva.
