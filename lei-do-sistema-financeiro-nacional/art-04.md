@@ -21,16 +21,15 @@ X - Determinar a percentagem máxima dos recursos que as instituições financei
 XI - Estipular índices e outras condições técnicas sobre encaixes, mobilizações e outras relações patrimoniais a serem observadas pelas instituições financeiras;
 XII - Expedir normas gerais de contabilidade e estatística a serem observadas pelas instituições financeiras;
 XIII - Delimitar, com periodicidade não inferior a dois anos o capital mínimo das instituições financeiras privadas, levando em conta sua natureza, bem como a localização de suas sedes e agências ou filiais;
-XIV - Determinar recolhimento (VETADO) de até 25% (vinte e cinco por cento) do total dos depósitos das instituições financeiras, seja na forma de subscrição de letras ou obrigações do Tesouro Nacional ou compra de títulos da Dívida Pública Federal, até 50% do montante global devido, seja através de recolhimento em espécie, em ambos os casos entregues ao Banco Central da República do Brasil, na forma e condições que o Conselho Monetário Nacional determinar podendo êste:
-a) adotar percentagens diferentes em função:
 das regiões geo-econômicas;
 das prioridades que atribuir às aplicações;
 da natureza das instituições financeiras;
-b) (VETADO).
-c) determinar percentuais que não serão recolhidos, desde que tenham sido reaplicados em financiamentos à agricultura, sob juros favorecidos e outras condições fixadas pelo Conselho Monetário Nacional.
+XIV - Determinar recolhimento de até 35% (trinta e cinco por cento) do total dos depósitos das instituições financeiras, seja na forma de subscrição de letras ou obrigações do Tesouro Nacional ou compra de títulos da Dívida Pública Federal seja através de recolhimento em espécie em ambos os casos entregues ao Banco Central do Brasil, na forma e condições que o Conselho Monetário Nacional determinar, podendo êste:
+a) adotar percentagens diferentes em função
 das regiões geo-econômicas;
 das prioridades que atribuir às aplicações;
 da natureza das instituições financeiras;
+b) determinar percentuais que não serão recolhidos, desde que tenham sido reaplicados em financiamentos à agricultura, sob juros favorecidos e outras condições fixadas pelo Conselho Monetário Nacional.
 das regiões geo-econômicas;
 das prioridades que atribuir às aplicações;
 da natureza das instituições financeiras.
