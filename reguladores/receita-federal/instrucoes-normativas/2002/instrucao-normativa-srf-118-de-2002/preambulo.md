@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 118, de 10 de janeiro de 2002
+Dispõe sobre o cálculo do imposto de renda na fonte e recolhimento mensal (carnê-leão), pessoas físicas, a partir de 1º de janeiro de 2002.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF no 259, de 24 de agosto de 2001, e tendo em vista o disposto nas Leis nº 7.713, de 22 de dezembro de 1988, nº 8.134, de 27 de dezembro de 1990, nº 8.218, de 29 de agosto de 1991, nº 8.383, de 30 de dezembro de 1991, nº 8.541, de 23 de dezembro de 1992, nº 8.981, de 20 de janeiro de 1995, nº 9.250, de 26 de dezembro de 1995, e nº 9.430, de 27 de dezembro de 1996, e nas Medidas Provisórias nº 2.158-35, de 24 de agosto de 2001, e nº 22, de 8 de janeiro de 2002, resolve:
+Imposto de Renda na Fonte
