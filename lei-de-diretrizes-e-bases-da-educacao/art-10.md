@@ -5,4 +5,5 @@ III - elaborar e executar políticas e planos educacionais, em consonância com 
 IV - autorizar, reconhecer, credenciar, supervisionar e avaliar, respectivamente, os cursos das instituições de educação superior e os estabelecimentos do seu sistema de ensino;
 V - baixar normas complementares para o seu sistema de ensino;
 VI - assegurar o ensino fundamental e oferecer, com prioridade, o ensino médio.
+VII - assumir o transporte escolar dos alunos da rede estadual.
 Parágrafo único. Ao Distrito Federal aplicar-se-ão as competências referentes aos Estados e aos Municípios.
