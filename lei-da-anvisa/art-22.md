@@ -8,4 +8,5 @@ VI - os recursos provenientes de convênios, acordos ou contratos celebrados com
 VII - as doações, legados, subvenções e outros recursos que lhe forem destinados;
 VIII - os valores apurados na venda ou aluguel de bens móveis e imóveis de sua propriedade; e,
 IX - o produto da alienação de bens, objetos e instrumentos utilizados para a prática de infração, assim como do patrimônio dos infratores, apreendidos em decorrência do exercício do poder de polícia e incorporados ao patrimônio da Agência nos termos de decisão judicial.
+X - os valores apurados em aplicações no mercado financeiro das receitas previstas nos incisos I a IV e VI a IX deste artigo.
 Parágrafo único. Os recursos previstos nos incisos I, II e VII deste artigo, serão recolhidos diretamente à Agência, na forma definida pelo Poder Executivo.
