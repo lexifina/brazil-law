@@ -1,1 +1,1 @@
-Art. 8º - Ficam resguardados os direitos adquiridos do trabalhador, se superiores aos instituídos nesta Lei, vedada a cumulação de vantagens.
+Art. 8º - Asseguram-se os benefícios desta Lei ao empregador que proporcionar, por meios próprios ou contratados, em veículos adequados ao transporte coletivo, o deslocamento integral de seus trabalhadores.

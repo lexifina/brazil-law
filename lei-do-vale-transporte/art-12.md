@@ -1,1 +1,1 @@
-Art. 12 - Esta Lei entra em vigor na data de sua publicação.
+Art. 12 - Revogam-se as disposições em contrário.

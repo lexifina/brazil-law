@@ -1,1 +1,1 @@
-Art. 7º - O poder concedente fixará as sanções a serem aplicadas à empresa operadora que comercializar o vale diretamente ou através de delegação, no caso de falta ou insuficiência de estoque de Vales-Transporte necessários ao atendimento da demanda e ao funcionamento do sistema.
+Art. 7º - Ficam resguardados os direitos adquiridos do trabalhador, se superiores aos instituídos nesta Lei, vedada a cumulação de vantagens.

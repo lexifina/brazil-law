@@ -1,1 +1,4 @@
-Art. 2º - O Vale-Transporte destina-se à sua utilização no sistema de transporte coletivo público, urbano, Intermunicipal ou interestadual com características semelhantes ao urbano, operado diretamente pelo poder público ou mediante delegação, em linhas regulares e com tarifas fixadas pela autoridade competente, excluídos os serviços seletivos e os especiais.
+Art. 2º - O Vale-Transporte, concedido nas condições e limites definidos, nesta Lei, no que se refere à contribuição do empregador:
+a) não tem natureza salarial, nem se incorpora à remuneração para quaisquer efeitos;
+b) não constitui base de incidência de contribuição previdenciária ou de Fundo de Garantia por Tempo de Serviço;
+c) não se configura como rendimento tributável do trabalhador.
