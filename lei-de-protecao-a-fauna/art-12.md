@@ -1,0 +1,1 @@
+Art. 12. As entidades a que se refere o artigo anterior deverão requerer licença especial para seus associados transitarem com arma de caça e de esporte, para uso em suas sedes durante o período defeso e dentro do perímetro determinado.
