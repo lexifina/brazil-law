@@ -1,0 +1,1 @@
+Art. 50. A educação do índio será orientada para a integração na comunhão nacional mediante processo de gradativa compreensão dos problemas gerais e valores da sociedade nacional, bem como do aproveitamento das suas aptidões individuais.
