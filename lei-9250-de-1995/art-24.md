@@ -1,0 +1,1 @@
+Art. 24. Na apuração do ganho de capital de bens adquiridos por meio de arrendamento mercantil, será considerado custo de aquisição o valor residual do bem acrescido dos valores pagos a título de arrendamento.
