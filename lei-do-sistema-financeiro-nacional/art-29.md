@@ -1,0 +1,3 @@
+Art. 29. As instituições financeiras privadas deverão aplicar, de preferência, não menos de 50% (cinqüenta por cento) dos depósitos do público que recolherem, na respectiva Unidade Federada ou Território.
+§ 1º O Conselho Monetário Nacional poderá, em casos especiais, admitir que o percentual referido neste artigo seja aplicado em cada Estado e Território isoladamente ou por grupos de Estados e Territórios componentes da mesma região geoeconômica.
+§ 2º As agências ou filiais das instituições financeiras, sediadas em municípios que não o da matriz, publicarão, anualmente, no principal órgão da imprensa local, ou inexistindo esta, afixarão no edifício das mesmas boletins assinalando o volume dos depósitos e das aplicações localmente efetuadas.
