@@ -1,0 +1,4 @@
+Instrução CVM nº 274, de 1998
+INSTRUÇÃO CVM Nº 274, DE 12 DE MARÇO DE 1998.
+Altera os arts. 18, 22 e 23 da Instrução CVM nº 202, de 6 de dezembro de 1993, e revoga a alínea “a”, de item I, do art. 1º da Instrução CVM nº 245, de 1º de março de 1996 e a Deliberação CVM nº 210, de 13 de fevereiro de 1997.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada nesta data, com fundamento no disposto no art. 9º, II, da Lei nº 6.385, de 7 de dezembro de 1976, com a redação dada pelo art. 2º da MP nº 1.637-2, de 8 de janeiro de 1998; art. 21 e § 1º, I, do art. 22, da mesma lei, com a redação dada pelo art. 2º da Lei nº 9.457, de 5 de maio de 1997; no Voto do Conselho Monetário Nacional nº 426, de 21 de dezembro de 1978, e no item II da Resolução do Conselho Monetário Nacional nº 1.657, de 26 de outubro de 1989, RESOLVEU baixar a seguinte Instrução:
