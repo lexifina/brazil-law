@@ -1,0 +1,6 @@
+LEI N. 1.514 – DE 20 DE DEZEMBRO DE 1951
+Concede pensão especial à viúva e filhos de Pedro Ferreira da Silva.
+O Presidente da República:
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+Art 1º É concedida a Deolinda, Cândida da Silva e aos menores Artur Ferreira da Silva e Maria de Lourdes da Silva, respectivamente, viúva e filhos do ex-diarista da Estrada de Ferro Sampaio Correia, Pedro Ferreira da Silva, Falecido em conseqüência de acidente ocorrido no serviço, pensão especial na importância de Cr$ 275,00 (duzentos e setenta e cinco cruzeiros) mensais.
+Art 2º A pensão, de que trata o artigo anterior, será percebida a partir da data da vigência da presente Lei e extinguir-se-á no caso de ocorrência de qualquer das hipóteses previstas no art 20 do Decreto n. 22.414 de 30 de janeiro de 1933,
