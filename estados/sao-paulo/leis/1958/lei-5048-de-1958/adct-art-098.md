@@ -1,0 +1,2 @@
+Artigo 98 - Para ocorrer às despesas com a execução da presente lei fica aberto na Secretaria da Fazenda, ao Tribunal de Justiça Militar do Estado, um crédito especial de Cr$ 2.500.000,00 (dois milhões e quinhentos mil cruzeiros).
+Parágrafo único - O valor do presente crédito será coberto com os recursos provenientes do produto e operações de crédito que a Secretaria da Fazenda é autorizada a realizar, elevado o limite legal dessas operações da percentagem necessária à execução da presente lei.
