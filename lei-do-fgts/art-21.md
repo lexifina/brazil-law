@@ -1,0 +1,1 @@
+Art. 21. Após a centralização das contas de que trata o art. 12 desta lei, o saldo da conta não individualizada e da conta vinculada sem depósito há mais de 5 (cinco) anos será incorporado ao patrimônio do FGTS, resguardado o direito do beneficiário de reclamar, a qualquer tempo, a reposição do valor transferido, mediante comprovação.
