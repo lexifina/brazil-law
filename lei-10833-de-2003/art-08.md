@@ -1,0 +1,2 @@
+Art. 8º A contribuição incidente na hipótese de contratos, com prazo de execução superior a 1 (um) ano, de construção por empreitada ou de fornecimento, a preço predeterminado, de bens ou serviços a serem produzidos, será calculada sobre a receita apurada de acordo com os critérios de reconhecimento adotados pela legislação do imposto de renda, previstos para a espécie de operação.
+Parágrafo único. O crédito a ser descontado na forma do art. 3º somente poderá ser utilizado na proporção das receitas reconhecidas nos termos do caput.
