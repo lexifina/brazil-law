@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 397, DE 26 DE SETEMBRO DE 2000
+(Autoria do Projeto: Poder Executivo)
+Desafeta área que especifica na Região Administrativa do Plano Piloto - RA I.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
