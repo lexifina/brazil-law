@@ -1,0 +1,1 @@
+Art. 31. A Agência, ao tomar conhecimento de fato que configure ou possa configurar infração da ordem econômica, deverá comunicá-lo ao Conselho Administrativo de Defesa Econômica - CADE, à Secretaria de Direito Econômico do Ministério da Justiça ou à Secretaria de Acompanhamento Econômico do Ministério da Fazenda, conforme o caso.

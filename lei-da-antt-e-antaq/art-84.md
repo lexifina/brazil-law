@@ -1,0 +1,3 @@
+Art. 84. No exercício das atribuições previstas nos incisos IV e V do art. 82, o DNIT poderá firmar convênios de delegação ou cooperação com órgãos e entidades da Administração Pública Federal, dos Estados, do Distrito Federal e dos Municípios, buscando a descentralização e a gerência eficiente dos programas e projetos.
+§ 1º Os convênios deverão conter compromisso de cumprimento, por parte das entidades delegatárias, dos princípios e diretrizes estabelecidos nesta Lei, particularmente quanto aos preceitos do art. 83.
+§ 2º O DNIT supervisionará os convênios de delegação, podendo declará-los extintos, ao verificar o descumprimento de seus objetivos e preceitos.
