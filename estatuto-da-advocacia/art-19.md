@@ -1,0 +1,1 @@
+Art. 19. O salário mínimo profissional do advogado será fixado em sentença normativa, salvo se ajustado em acordo ou convenção coletiva de trabalho.

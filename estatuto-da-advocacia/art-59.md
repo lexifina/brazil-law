@@ -1,0 +1,1 @@
+Art. 59. A diretoria do Conselho Seccional tem composição idêntica e atribuições equivalentes às do Conselho Federal, na forma do regimento interno daquele.
