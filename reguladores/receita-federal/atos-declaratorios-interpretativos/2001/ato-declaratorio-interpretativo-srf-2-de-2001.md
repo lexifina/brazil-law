@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo SRF nº 2, de 8 de maio de 2001
+Dispõe sobre a incidência das Contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins nas operações que especifica.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 190 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF Nº 227, de 3 de setembro de 1998, e tendo em vista o disposto no art. 43 da Medida Provisória Nº 2.113-30, de 26 de abril de 2001, declara:
+Artigo único. A substituição tributária prevista no art. 43 da Medida Provisória Nº 2.113-30, de 26 de abril de 2001, aplica-se, inclusive, nas operações efetuadas ao amparo do Convênio ICMS Nº 51, de 15 de setembro de 2000, em observância ao disposto no art. 155, § 2º incisos VII, "a", e VIII, da Constituição Federal.
+Republicado por ter saído com incorreção, do original, no DOU Nº 107-E, de 04/06/2001, Seção 1, pág. 39.
