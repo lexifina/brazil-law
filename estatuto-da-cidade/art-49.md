@@ -1,0 +1,2 @@
+Art. 49. Os Estados e Municípios terão o prazo de noventa dias, a partir da entrada em vigor desta Lei, para fixar prazos, por lei, para a expedição de diretrizes de empreendimentos urbanísticos, aprovação de projetos de parcelamento e de edificação, realização de vistorias e expedição de termo de verificação e conclusão de obras.
+Parágrafo único. Não sendo cumprida a determinação do caput, fica estabelecido o prazo de sessenta dias para a realização de cada um dos referidos atos administrativos, que valerá até que os Estados e Municípios disponham em lei de forma diversa.
