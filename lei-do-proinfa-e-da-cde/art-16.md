@@ -1,0 +1,1 @@
+Art. 16. É vedado à concessionária e permissionária de serviço público federal de energia elétrica, bem como à sua controlada ou coligada, controladora direta ou indireta e outra sociedade igualmente controlada ou coligada da controladora comum, explorar o serviço público estadual de gás canalizado, salvo quando o controlador for pessoa jurídica de direito público interno.

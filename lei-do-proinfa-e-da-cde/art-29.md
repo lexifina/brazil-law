@@ -1,0 +1,1 @@
+Art. 29. Fica prorrogado para 31 de dezembro de 2004 o prazo previsto no art. 2º da Lei nº 10.274, de 10 de setembro de 2001, para a efetiva entrada em operação comercial das usinas enquadradas no Programa Prioritário de Termeletricidade.

@@ -1,0 +1,1 @@
+Art. 25. Os descontos especiais nas tarifas de energia elétrica aplicáveis às unidades consumidoras enquadradas na Classe Rural, inclusive Cooperativas de Eletrificação Rural, serão concedidos ao consumo que se verifique na atividade de irrigação desenvolvida no horário compreendido entre 21h30 e 6 horas do dia seguinte.

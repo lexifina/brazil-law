@@ -1,0 +1,2 @@
+Art. 11. Fica a União autorizada, até o limite de R$ 7.500.000.000,00 (sete bilhões e quinhentos milhões de reais), a emitir, sob a forma de colocação direta, em favor do BNDES, títulos da Dívida Pública Mobiliária Federal, cujas características serão definidas pelo Ministro de Estado da Fazenda.
+Parágrafo único. Em contrapartida aos títulos emitidos na forma deste artigo, o BNDES poderá utilizar, a critério do Ministro de Estado da Fazenda e, pelo valor presente, créditos detidos contra a BNDESPAR - BNDES Participações S.A.

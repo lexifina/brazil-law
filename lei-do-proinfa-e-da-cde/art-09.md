@@ -1,0 +1,1 @@
+Art. 9º Fica a União autorizada a realizar aumento de capital social da CBEE, até o valor de R$ 200.000.000,00 (duzentos milhões de reais), mediante títulos da Dívida Pública Federal, com características a serem definidas pelo Ministro de Estado da Fazenda.
