@@ -1,0 +1,1 @@
+Art. 72. As receitas e despesas com manutenção e desenvolvimento do ensino serão apuradas e publicadas nos balanços do Poder Público, assim como nos relatórios a que se refere o § 3º do art. 165 da Constituição Federal.
