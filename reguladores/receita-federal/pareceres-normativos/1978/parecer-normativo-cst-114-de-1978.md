@@ -1,0 +1,18 @@
+Parecer Normativo CST nº 114, de 29 de dezembro de 1978
+IMPOSTO SOBRE A RENDA E PROVENTOS MNTPJ – 2.20.04.00 – Lucro da Exploração 2.20.12.00 – Resultados Não Operacionais Além dos casos expressamente previstos na legislação, são não operacionais os resultados decorrentes de alienação, baixa ou liquidação de bens ou direitos integrantes do ativo permanente da pessoa jurídica.
+Para cálculo de isenções e reduções do imposto de renda, e da exclusão do lucro correspondente a exportações incentivadas, o Decreto-lei nº 1.598, de 26 de dezembro de 1977, introduziu (art. 19) o conceito de lucro da exploração, definido como o lucro líquido do exercício ajustado pela exclusão da parte das receitas financeiras que exceder das despesas financeiras, dos rendimentos e prejuízos das participações societárias e dos resultados não operacionais.
+2. Face à interferência que exercem na determinação do lucro da exploração, examina-se quais os resultados que estariam abrangidos no conceito de não operacionais.
+3. O Decreto-lei nº 1.598/77 adaptou a apuração dos resultados da pessoa jurídica aos novos conceitos da Lei nº 6.404, de 15 de dezembro de 1976. A lei comercial estabelece (art. 187, inciso IV) que a demonstração do resultado do exercício discriminará, após o lucro ou prejuízo operacional, as receitas e despesas não operacionais, não esclarecendo,contudo, o que seria como tal classificado.
+4. O que deve ser considerado como resultados não operacionais foi, todavia, explicitado no Decreto-lei número 1.598/77. Com efeito, a Seção III do Capítulo II do referido Decreto-lei classificou como resultados não operacionais os ganhos ou perdas de capital decorrentes de alienação, inclusive por desapropriação, de baixa por perecimento, extinção, desgaste, obsolescência ou exaustão, ou de liquidação de bens do ativo permanente.
+4.1 - Serão considerados como não operacionais, portanto, os ganhos ou perdas de capital na alienação ou baixa, a qualquer título, de bens ou direitos vinculados ao ativo permanente, ou seja, os classificados como investimento, ativo imobilizado ou ativo diferido. Igualmente é considerada como não operacional a provisão para perdas prováveis na realização de investimentos.
+5. Será também classificado como não operacional , quando computado na determinação do resultado do exercício, o aumento de valor de bens do ativo permanente em virtude de reavaliações. Da mesma forma, as subvenções para investimento e as doações recebidas pela pessoa jurídica serão computadas nos resultados não operacionais.
+6. Outros resultados não decorrentes de alienação, baixa ou liquidação de bens do ativo permanente da pessoa jurídica serão classificados como não operacionais quanto expressamente rotulados como tal pela legislação tributária. É o caso, por exemplo, das importâncias recebidas como ágio na emissão de ações por preço superior ao valor nominal, ou a parte do preço de emissão de ações sem valor nominal que ultrapassar a importância destinada à formação do capital social; do valor da alienação de partes beneficiárias e bônus de subscrição; do prêmio recebido na emissão de debêntures e do lucro ou prejuízo na venda de ações em tesouraria.
+7. Em resumo, é de se concluir que, além de outros casos expressamente previstos na legislação, são não operacionais os resultados decorrentes de alienação, baixa ou liquidação de bens ou direitos integrantes do ativo permanente da pessoa jurídica.
+À consideração superior.
+CST, em 29 de dezembro de 1978.
+Agenor Manzano
+Fiscal de Tributos Federais
+De acordo.
+Publique-se, e, a seguir, encaminhem-se cópias às SS.RR.R.F., para conhecimento e ciência aos demais órgãos subordinados.
+Antonio Augusto de Mesquita Neto
+Coordenador do Sistema de Tributação
