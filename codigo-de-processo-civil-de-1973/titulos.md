@@ -175,8 +175,7 @@ Da Extinção do Processo
 Seção II
 Do Julgamento Antecipado da Lide
 Seção III
-Do despacho saneador
-Do Saneamento do Processo
+Da Audiência Preliminar
 CAPÍTULO VI
 DAS PROVAS
 Seção I
