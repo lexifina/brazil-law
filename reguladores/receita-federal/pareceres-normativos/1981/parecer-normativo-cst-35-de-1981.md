@@ -1,0 +1,3 @@
+Parecer Normativo CST nº 35, de 31 de agosto de 1981
+Imposto sobre a renda e proventos de qualquer natureza 1.24.10.01 - Rendimentos não tributáveis 2.20.09.12 - Depósitos no Fundo de Garantia do Tempo de Serviço Os depósitos efetivados pela pessoa jurídica, na forma da Lei nº 6.919/81, para garantia do tempo de serviço de seus diretores, constituem custos ou despesas operacionais dedutíveis, independentemente dos limites de remuneração constantes da lei fiscal. Os depósitos e conseqüentes acréscimos operados na conta vinculada de diretor comporão o rendimento bruto cedular da pessoa física beneficiária, nem se sujeitarão a incidência de imposição na fonte.
+[arquivo anexo: Parecer Normativo CST  Nº nº 35 - 1981.pdf]
