@@ -1,0 +1,25 @@
+Instrução Normativa SRF nº 16, de 16 de janeiro de 1986
+Produtos do Capítulo 24 da TIPI Cigarros
+O Secretário da Receita Federal, no uso de suas atribuições, tendo em vista o disposto na Portaria do Ministro da Fazenda nº 371, de 29 de julho de 1985,
+RESOLVE:
+I - Os preços dos produtos do item 24.02.02.02 (cigar­ros), da Tabela anexa ao Decreto nº 89.241, de 23 de de­zembro de 1983, relativos às classes mencionadas no artigo 188 do Decreto nº 87.981, de 23 de dezembro de 1982 (RIPI), passam a ser os seguintes:
+Classe "A": Cr$ 2.500; Classe "B": Cr$ 3.200; Classe "C": Cr$ 3.500; Classe "D": Cr$ 3.900; Classe "E": Cr$ 4.100; Classe "F": Cr$ 4.300; Classe "G": Cr$ 4.500; Clas­se "H": Cr$ 5.000; Classe "I": Cr$ 5.700; Classe "J":Cr$ 6.000; Classe "K": Cr$ 7.400.
+II - Para os fins do disposto no item I da Portaria nº 520, de 23 de dezembro de 1975, são fixados os valores constantes da Tabela a seguir, de acordo com as respectivas classes de cigarros estabelecidos no item anterior:
+[arquivo anexo: tabela.html]
+Ill - Os estabelecimentos industriais que possuam, em 27 de janeiro de 1986, estoque de selos de controle destinados a cigarros poderão utilizá-lo desde que recolham, até o dia 03 de fevereiro de 1986, importância correspondente à diferença entre o valor de aquisição e o fixado no item precedente.
+III.1 - Na hipótese de não pretenderem se utilizar do estoque existente em seu poder, ou de pretenderem utilizá-lo apenas em parte os estabelecimentos efetuarão, no dia 28 de fevereiro de 1986, a devolução dos selos de que não se irão utilizar, devendo o valor correspondente ser levado a seu crédito para compensação no primeiro fornecimento subseqüente à devolução.
+III.2 - O estoque de selos aqui referido deverá corres­ponder ao que for apurado pela fiscalização, na forma das instruções que forem baixadas pela Coordenação do Siste­ma de Fiscalização.
+IV - Aos estabelecimentos industriais de cigarros é facultada, a partir de 17 de janeiro de 1986, a utilização de selos com a marcação dos preços constantes no item I, desde que autorizados pela Superintendência da Receita Federal jurisdicionante e recolham, no prazo referido no item anterior, importância correspondente à diferença entre o valor de aquisição e o fixado no item II.
+IV. 1 - Os cigarros marcados com os novos preços, conforme este item, poderão ser transferidos do estabeleci­mento industrial para depósitos, obedecido o disposto no inciso XI do artigo 36 do RIPI e vendidos a comerciantes atacadistas, vedada sua comercialização ao consumidor final antes do dia 28 de janeiro de 1986.
+V - O estabelecimento que utilizar a faculdade a que se refere o item anterior adotará exclusivamente a marcação dos preços estabelecidos com base nesta Instrução Normati­va, a partir da data fixada na respectiva autorização.
+VI - Fica vedada, a partir de 05 de fevereiro de 1986, a saída dos estabelecimentos industriais de cigarros marcados com preços estabelecidos anteriormente a esta Instrução Normativa.
+VI.1 - Fica vedada aos estabelecimentos industriais, a partir de 10 de fevereiro de 1986, a comercialização de ci­garros marcados com os preços estabelecidos anteriormente a esta Instrução Normativa.
+VII - O ressarcimento, o fornecimento e a utilização dos selos especiais de controle destinados a cigarros regu­lam-se pela Instrução Normativa do SRF n° 139, de 29 de dezembro de 1983.
+VIII- A Coordenação do Sistema de Fiscalização bai­xará instruções complementares necessárias à execução des­te ato e ao controle dos estoques dos produtos e dos selos, antes e depois da vigência dos preços de venda ora estabele­cidos.
+IX - Os estabelecimentos industriais que, durante uma mesma quinzena de apuração do imposto, derem saída a cigarros marcados com preços estabelecidos com base em mais de uma Instrução Normativa deverão apresentar, separadamente, o formulário instituído pela Instrução Normativa n° 80, de 03 de julho de 1980, acrescentando no cabeçalho desses formulários a indicação "Preços Novos" ou "Preços Antigos".
+IX. 1 - Sem prejuízo dessas informações, as empresas remeterão até o dia 15 de cada mês, à Coordenação do Sis­tema de Informações Econômico-Fiscais - CIEF as totali­zações das saídas com débito do imposto, consolidando to­dos os seus estabelecimentos industriais, obedecidas as de­mais regras vigentes para o formulário instituído pela citada Instrução Normativa nº 80/80.
+X - Para efeitos de comercialização, os valores indica­dos nas tabelas anexas demonstram a decomposição do pre­ço de venda a varejo dos cigarros.
+X.1 - O cálculo dos impostos e contribuições levará em conta o valor global das operações realizadas nos respec­tivos períodos de apuração.
+X.2 - A "substituição" indicada na tabela anexa refe­re-se ao Imposto sobre Circulação de Mercadorias incidente sobre a margem do varejista.
+XI - Esta Instrução Normativa entrará em vigor na data de sua publicação, ressalvadas as disposições contidas nos itens I e II, que vigorarão a partir de 28 de janeiro de 1986.
+LUIZ PATURY ACCIOLY
