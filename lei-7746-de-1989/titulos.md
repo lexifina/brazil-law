@@ -1,0 +1,2 @@
+§ 1º. A Presidência do Conselho da Justiça Federal será exercida pelo Presidente do Superior Tribunal de Justiça, e o ministro mais antigo, dentre os membros efetivos, exercerá os funções de Corregedor-Geral, especificadas no regulamento.
+§ 2º. A eleição dos membros do Conselho da Justiça Federal far-se-á juntamente com a dos órgãos diretivos do Superior Tribunal de Justiça, para mandato de igual período, vedada a reeleição.
