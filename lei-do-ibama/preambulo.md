@@ -1,0 +1,2 @@
+Dispõe sobre a extinção de órgão e de entidade autárquica, cria o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis e dá outras providências.
+Faço saber que o Presidente da República adotou a Medida Provisória nº 34, de 1989, que o Congresso Nacional aprovou, e eu, Nelson Carneiro, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
