@@ -1,0 +1,1 @@
+Art. 43. Quando por disposição de ato normativo devam ser previamente obtidos laudos técnicos de órgãos administrativos e estes não cumprirem o encargo no prazo assinalado, o órgão responsável pela instrução deverá solicitar laudo técnico de outro órgão dotado de qualificação e capacidade técnica equivalentes.
