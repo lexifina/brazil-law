@@ -1,0 +1,1 @@
+Art. 21 - As multas impostas em auto de infração poderão sofrer redução de vinte por cento caso o infrator efetue o pagamento no prazo de vinte dias, contados da data em que for notificado, implicando na desistência tácita de defesa ou recurso.

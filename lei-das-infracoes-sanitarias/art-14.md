@@ -1,0 +1,1 @@
+Art. 14 - As penalidades previstas nesta Lei serão aplicadas pelas autoridades sanitárias competentes do Ministério da Saúde, dos Estados, do Distrito Federal e dos Territórios, conforme as atribuições que lhes sejam conferidas pelas legislações respectivas ou por delegação de competência através de convênios.

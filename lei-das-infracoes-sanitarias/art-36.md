@@ -1,0 +1,1 @@
+Art. 36 - No caso de condenação definitiva do produto cuja alteração, adulteração ou falsificação não impliquem em torná-lo impróprio para o uso ou consumo, poderá a autoridade sanitária, ao proferir a decisão, destinar a sua distribuição a estabelecimentos assistenciais, de preferência oficiais, quando esse aproveitamento for viável em programas de saúde.

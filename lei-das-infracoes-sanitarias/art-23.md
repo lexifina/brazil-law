@@ -1,0 +1,5 @@
+Art. 23 - A apuração do ilícito, em se tratando de produto ou substância referidos no art. 10, inciso IV, far-se-á mediante a apreensão de amostras para a realização de análise fiscal e de interdição, se for o caso.
+§ 1º - A apreensão de amostras para efeito de análise, fiscal ou de controle, não será acompanhada da interdição do produto.
+§ 2º - Excetuam-se do disposto no parágrafo anterior os casos em que sejam flagrantes os indícios de alteração ou adulteração do produto, hipótese em que a interdição terá caráter preventivo ou de medida cautelar.
+§ 3º - A interdição do produto será obrigatório quando resultarem provadas, em análise laboratoriais ou no exame de processos, ações fraudulentas que impliquem em falsificação ou adulteração.
+§ 4º - A interdição do produto e do estabelecimento, como medida cautelar, durará o tempo necessário à realização de testes, provas, análises ou outras providências requeridas, não podendo, em qualquer caso, exceder o prazo de noventa dias, findo qual o produto ou estabelecimento será automaticamente liberado.

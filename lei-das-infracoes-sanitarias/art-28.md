@@ -1,0 +1,1 @@
+Art. 28 - Não sendo comprovada, através da análise fiscal, ou da perícia de contraprova, a infração objeto da apuração, e sendo considerado o produto próprio para o consumo, a autoridade competente lavrará despacho liberando-o e determinando o arquivamento do processo.

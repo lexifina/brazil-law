@@ -1,0 +1,1 @@
+Art. 19 - A desobediência à determinação contida no edital a que se alude no art. 18 desta Lei, além de sua execução forçada acarretará a imposição de multa diária, arbitrada de acordo com os valores correspondentes à classificação da infração, até o exato cumprimento da obrigação, sem prejuízo de outras penalidades previstas na legislação vigente.

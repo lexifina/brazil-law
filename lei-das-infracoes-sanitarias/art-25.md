@@ -1,0 +1,1 @@
+Art. 25 - Se a interação for imposta como resultado de laudo laboratorial, a autoridade sanitária competente fará constar do processo o despacho respectivo e lavrará o termo de interdição, inclusive, do estabelecimento, quando for o caso.
