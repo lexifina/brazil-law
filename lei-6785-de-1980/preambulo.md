@@ -1,0 +1,2 @@
+Fixa os valores de retribuição de empregos que integram as Categorias Funcionais de Assistente Jurídico e Procurador Autárquico, do Grupo - Serviços Jurídicos, do Plano de Classificação de Cargos do Serviços Civil do Distrito Federal, instituído pela Lei nº 5.920, de 19 setembro de 1973, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que SENADO FEDERAL decreta e eu sanciono a seguinte Lei:
