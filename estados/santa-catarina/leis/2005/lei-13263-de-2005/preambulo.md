@@ -1,0 +1,4 @@
+# LEI Nº 13.263, de 10 de janeiro de 2005
+Autoriza a doação de imóveis no Município de Luzerna.
+O GOVERNADOR DO ESTADO DE SANTA CATARINA,
+Faço saber a todos os habitantes deste Estado que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
