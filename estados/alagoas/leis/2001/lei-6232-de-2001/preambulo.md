@@ -1,0 +1,13 @@
+[pic]
+
+ESTADO DE ALAGOAS
+
+GABINETE DO GOVERNADOR
+
+LEI N.º 6.232, DE 19 DE ABRIL DE 2001.
+
+ATRIBUI NOVA REDAÇÃO AO ARTIGO 20 DA LEI N.º 4.345, DE 07 DE MAIO DE 1982.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS.
+
+Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
