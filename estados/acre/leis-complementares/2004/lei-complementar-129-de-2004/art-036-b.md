@@ -1,0 +1,1 @@
+Art. 36-B. O cargo de diretor do Instituto de Análises Forenses, de provimento em comissão, é de livre nomeação do governador do Estado, escolhido dentre os peritos criminais de carreira, com conduta ilibada e que possuam aptidão para o desempenho do cargo. (Incluído pela Lei Complementar nº 208, de 31/03/2010)

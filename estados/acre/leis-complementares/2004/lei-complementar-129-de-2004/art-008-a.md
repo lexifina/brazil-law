@@ -1,0 +1,3 @@
+Art. 8º-A. O cargo de delegado-geral adjunto de Estado da Polícia Civil, de provimento em comissão, é de livre escolha do Governador do Estado, dentre os Delegados de Polícia de Carreira, estáveis, que possuam conduta ilibada e aptidão para o desempenho do cargo. (Redação dada pela Lei Complementar nº 293, de 30/12/2014)
+
+Parágrafo único. O delegado-geral adjunto substituirá o delegado-geral da Polícia Civil nas ausências e/ou impedimentos deste, bem como nas demais hipóteses previstas no § 2º, do art. 7º, desta lei complementar e terá atribuições de caráter administrativo e operacional. (Incluído pela Lei Complementar nº 293, de 30/12/2014)

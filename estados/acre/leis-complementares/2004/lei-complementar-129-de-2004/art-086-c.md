@@ -1,0 +1,1 @@
+Art. 86-C. A ajuda de custo é calculada sobre a remuneração do servidor, conforme se dispuser em regulamento, não podendo exceder a importância correspondente a três meses. (Incluído pela Lei Complementar nº 208, de 31/03/2010)
