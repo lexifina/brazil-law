@@ -1,0 +1,3 @@
+Art. 21. No caso dos crimes previstos nos arts. 14, 15, 16 e 17, o estabelecimento de saúde e as equipes médico-cirúrgicas envolvidas poderão ser desautorizadas temporária ou permanentemente pelas autoridades competentes.
+§ 1º Se a instituição é particular, a autoridade competente poderá multá-la em 200 a 360 dias-multa e, em caso de reincidência, poderá ter suas atividades suspensas temporária ou definitivamente, sem direito a qualquer indenização ou compensação por investimentos realizados.
+§ 2º Se a instituição é particular, é proibida de estabelecer contratos ou convênios com entidades públicas, bem como se beneficiar de créditos oriundos de instituições governamentais ou daquelas em que o Estado é acionista, pelo prazo de cinco anos.

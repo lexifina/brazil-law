@@ -1,0 +1,2 @@
+Art. 7º (VETADO)
+Parágrafo único. No caso de morte sem assistência médica, de óbito em decorrência de causa mal definida ou de outras situações nas quais houver indicação de verificação da causa médica da morte, a remoção de tecidos, órgãos ou partes de cadáver para fins de transplante ou terapêutica somente poderá ser realizada após a autorização do patologista do serviço de verificação de óbito responsável pela investigação e citada em relatório de necrópsia.
