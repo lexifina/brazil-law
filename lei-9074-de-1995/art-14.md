@@ -1,0 +1,1 @@
+Art. 14. As linhas de transmissão de interesse restrito aos aproveitamentos de produção independente poderão ser concedidas ou autorizadas, simultânea ou complementarmente, aos respectivos contratos de uso do bem público.
