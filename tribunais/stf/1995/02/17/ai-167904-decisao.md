@@ -1,0 +1,22 @@
+DESPACHO: Trata-se de agravo de instrumento interposto contra
+decisão que negou trânsito a recurso extraordinário deduzido pela União
+Federal.
+O apelo extremo cujo processamento foi recusado pela
+Presidência do Tribunal a quo veiculou controvérsia pertinente à
+validade jurídico-constitucional da norma inscrita no art. 10,
+parágrafo único, primeira parte, do Decreto-lei n. 2.288/86, no ponto
+em que instituiu empréstimo compulsório sobre a venda de gasolina ou
+álcool para veículos automotores.
+O Pleno do Supremo Tribunal Federal, em Sessão de 01/12/94, ao
+julgar o RE 175.385-SC, Rel. Min. MARCO AURÉLIO, proclamou a
+inconstitucionalidade do preceito legal em questão, fundamentando-se,
+para tanto, nas mesmas razões jurídicas que levaram esta Corte a
+reconhecer a ilegitimidade constitucional do empréstimo compulsório
+incidente sobre a aquisição de veículos automotores de passeio ou
+utilitários.
+Considerando, pois, as razões subjacentes ao julgamento
+plenário referido, nego provimento ao presente recurso.
+Publique-se.
+Brasília, 17 de fevereiro de 1995.
+                  Ministro CELSO DE MELLO
+                         Relator
