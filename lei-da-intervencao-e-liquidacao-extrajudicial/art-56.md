@@ -1,0 +1,2 @@
+Art. 56. Ao artigo 129, do Decreto-lei nº 2.627, de 26 de setembro de 1940, é acrescentado o seguinte parágrafo, além do que já lhe fora atendido pela Lei nº 5.589, de 3 de junho de 1970:
+"§ 3º O Conselho Monetário Nacional estabelecerá os critérios de padronização dos documentos de que trata os § 2º podendo ainda, autorizar o Banco Central do Brasil a prorrogar o prazo neste estabelecido determinado então, as condições a que estarão sujeitas as sociedades beneficiárias da prorrogação."

@@ -1,0 +1,2 @@
+Art. 25. Esgotando o prazo para a declaração de créditos e julgados estes, o liquidante organizará o quadro geral de credores e publicará, na forma prevista no artigo 22, aviso de que dito quadro, juntamente com o balanço geral, se acha afixado na sede e demais dependências da entidade, para conhecimento dos interessados.
+Parágrafo único. Após a publicação mencionada neste artigo, qualquer interessado poderá impugnar a legitimidade, valor, ou a classificação dos créditos constantes do referido quadro.
