@@ -1,0 +1,1 @@
+Art. 3º Toda admissão no programa ou exclusão dele será precedida de consulta ao Ministério Público sobre o disposto no art. 2º e deverá ser subseqüentemente comunicada à autoridade policial ou ao juiz competente.

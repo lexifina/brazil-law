@@ -1,0 +1,2 @@
+Art. 16. O art. 57 da Lei nº 6.015, de 31 de dezembro de 1973, fica acrescido do seguinte § 7º:
+"§ 7º Quando a alteração de nome for concedida em razão de fundada coação ou ameaça decorrente de colaboração com a apuração de crime, o juiz competente determinará que haja a averbação no registro de origem de menção da existência de sentença concessiva da alteração, sem a averbação do nome alterado, que somente poderá ser procedida mediante determinação posterior, que levará em consideração a cessação da coação ou ameaça que deu causa à alteração."
