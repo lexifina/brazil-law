@@ -1,0 +1,1 @@
+Parágrafo único. Em caso de urgência decorrente das oscilações internacionais do preço do café, o valor da quota poderá ser alterado, para maior ou para menor, pelo Presidente do IBC, ad referendum do Conselho Nacional de Política Cafeeira.
