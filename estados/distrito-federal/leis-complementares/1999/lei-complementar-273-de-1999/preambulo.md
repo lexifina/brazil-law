@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 273, DE 31 DE DEZEMBRO DE 1999
+(Autor do Projeto: Poder Executivo)
+Dispõe sobre o desmembramento do lote "A" da QNM 16, na Região Administrativa de Ceilândia - RA IX.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
