@@ -1,0 +1,35 @@
+# Decreto-Lei nº 5.572, de 10/06/1943
+
+DECRETO-LEI N. 5.572 – DE 10 DE JUNHO DE 1943
+
+Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 80.000,00, à verba que especifica
+
+O Presidente da República, usando da atribuïção que lhe confere o art. 180 da Constituïção,
+
+decreta:
+
+Art. 1º Fica aberto o crédito suplementar de oitenta mil cruzeiros (Cr$ 80.000,00), em refôrço da Verba 2 – Material, do vigente orçamento do Ministério da Fazenda (Anexo n. 14 do decreto‑lei n. 5.120, de 19 de dezembro de 1942), como segue:
+
+VERBA 2 – MATERIAL
+
+Consignação I – Material Permanente
+
+S/c. n. 13 – Móveis e artigos de ornamentação, máquinas, aparelhos e utensílios de escritório, biblioteca,
+
+laboratório, gabinete científico ou técnico e para trabalhos de campos; aparelhos e utensílios de
+
+copa, cozinha, refeitório, dormitório e enfermaria
+
+.............. 22 – Delegacias Fiscais....................................................................
+
+Cr$ 80. 000,00
+
+Parágrafo único. O crédito a que se refere êste artigo se destina à Delegacia Fiscal no Estado do Paraná.
+
+Art. 2º O presente decreto‑lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Rio de Janeiro, 10 de junho de 1943, 122º da Independência e 55º da República.
+
+GETÚLIO VARGAS.
+
+A. de Sousa Costa.
