@@ -1,0 +1,1 @@
+Art. 10. O regulamento de cada Agência disciplinará a substituição dos Conselheiros e Diretores em seus impedimentos ou afastamentos regulamentares ou ainda no período de vacância que anteceder a nomeação de novo Conselheiro ou Diretor.

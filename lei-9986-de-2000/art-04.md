@@ -1,0 +1,1 @@
+Art. 4º As Agências serão dirigidas em regime de colegiado, por um Conselho Diretor ou Diretoria composta por Conselheiros ou Diretores, sendo um deles o seu Presidente ou o Diretor-Geral ou o Diretor-Presidente.
