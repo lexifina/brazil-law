@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF08 nº 211, de 31 de outubro de 2003
+Assunto: Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - Simples Ementa: PRESTAÇÃO DE SERVIÇOS. A prestação de serviços de silvicultura, plantio, replantio, manutenção de matas e reflorestamento, desde que não caracterize locação de mão-de-obra, empreitada exclusivamente de mão-de-obra ou cessão de mão-de-obra, não impede o enquadramento no Simples, sendo admitida a opção por esse regime de tributação, se observados os demais requisitos legais. Dispositivos Legais: Lei nº 9.317/1996, art. 9º, inciso XII, alínea f.
+[arquivo anexo: SC SRRF08-Disit nº 211-2003.pdf]
