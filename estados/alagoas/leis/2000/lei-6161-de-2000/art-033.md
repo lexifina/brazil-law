@@ -1,0 +1,1 @@
+Art. 33. Os órgãos e entidades administrativas, em matéria relevante, poderão estabelecer outros meios de participação de administrados, diretamente ou por meio de organizações e associações legalmente reconhecidas.

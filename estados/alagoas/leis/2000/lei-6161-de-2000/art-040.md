@@ -1,0 +1,1 @@
+Art. 40. Quando dados, atuações ou documentos solicitados ao interessado forem necessários à apreciação de pedido formulado, o não atendimento no prazo fixado pela Administração para a respectiva apresentação implicará arquivamento do processo.

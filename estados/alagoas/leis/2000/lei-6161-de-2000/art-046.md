@@ -1,0 +1,1 @@
+Art. 46. Os interessados têm direito à vista do processo e a obter certidões ou cópias reprográficas dos dados e documentos que o integram, ressalvados os dados e documentos de terceiros protegidos por sigilo ou pelo direito à privacidade, à honra e à imagem.
