@@ -1,0 +1,1 @@
+Art. 10 - O município ou municípios de origem deverão enviar ao município criado, até 15 (quinze) dias após a instalação deste, os livros de escrituração e a competente prestação de contas devidamente documentada.

@@ -1,0 +1,1 @@
+Art. 21 - O distrito-sede tem a categoria de cidade e nome do município, enquanto os demais distritos serão designados por número ordinal, conforme ordem de sua criação, tendo o nome do povoado que lhes deu origem, respeitada a denominação na data desta Lei.

@@ -1,0 +1,1 @@
+Art. 6º - A lei de criação de município definirá seus limites segundo linhas geográficas entre pontos de presumível permanência no terreno, identificáveis na documentação cartográfica oficial, preferencialmente acompanhando acidentes naturais, vedada a formação de área descontínuas.
