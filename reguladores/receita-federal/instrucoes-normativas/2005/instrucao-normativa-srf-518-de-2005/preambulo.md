@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 518, de 28 de fevereiro de 2005
+Aprova o programa gerador e as instruções para preenchimento do Demonstrativo de Apuração de Contribuições Sociais (Dacon), na versão 1.3.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere os incisos IV e XVIII do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 5º do Decreto-lei nº 2.124, de 13 de junho de 1984, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e na Portaria MF nº 118, de 28 de junho de 1984, resolve:
