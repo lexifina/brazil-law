@@ -1,0 +1,1 @@
+Art. 229-A. Consideram-se indeferidos os pedidos de patentes de processo apresentados entre 1º de janeiro de 1995 e 14 de maio de 1997, aos quais o art. 9º, alínea "c", da Lei nº 5.772, de 21 de dezembro de 1971, não conferia proteção, devendo o INPI publicar a comunicação dos aludidos indeferimentos.
