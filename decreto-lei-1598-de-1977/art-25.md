@@ -1,5 +1,1 @@
-Art. 25 - O ágio ou deságio na aquisição da participação, cujo fundamento tenha sido a diferença entre o valor de mercado e o valor contábil dos bens do ativo da coligada ou controlada (art. 20, § 2º, letra a), deverá ser amortizado no exercício social em que os bens que o justificaram forem baixados por alienação ou perecimento, ou nos exercícios sociais em que seu valor for realizado por depreciação, amortização ou exaustão.
-§ 1º - A contrapartida da amortização do ágio ou deságio nos termos deste artigo somente será computada na determinação do lucro real pela diferença entre o montante da amortização e o da participação do contribuinte:
-a) no resultado realizado pela coligada ou controlada na alienação ou baixa dos bens do ativo cujo valor tenha constituído o fundamento econômico do ágio ou deságio; ou
-b) no valor realizado pela coligada ou controlada na depreciação, amortização ou exaustão desses bens.
-§ 2º - As contrapartidas da amortização de ágio ou deságio com os fundamentos das letras b e c de § 2º de artigo 20 não serão computadas na determinação do lucro real, ressalvado o disposto no artigo 33.
+Art. 25 - As contrapartidas da amortização do ágio ou deságio de que trata o artigo 20 não serão computadas na determinação do lucro real, ressalvado o disposto no artigo 33.
