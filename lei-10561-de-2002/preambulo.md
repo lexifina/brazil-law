@@ -1,0 +1,2 @@
+Altera as Leis nºs 10.209, de 23 de março de 2001, e 10.233, de 5 de junho de 2001, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 68, de 2002, que o Congresso Nacional aprovou, e eu, Ramez Tebet, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda constitucional nº 32, de 2001, promulgo a seguinte Lei:
