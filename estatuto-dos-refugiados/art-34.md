@@ -1,0 +1,1 @@
+Art. 34. A solicitação de refúgio suspenderá, até decisão definitiva, qualquer processo de extradição pendente, em fase administrativa ou judicial, baseado nos fatos que fundamentaram a concessão de refúgio.

@@ -1,0 +1,1 @@
+Art. 43. No exercício de seus direitos e deveres, a condição atípica dos refugiados deverá ser considerada quando da necessidade da apresentação de documentos emitidos por seus países de origem ou por suas representações diplomáticas e consulares.

@@ -1,0 +1,1 @@
+Art. 32. No caso de recusa definitiva de refúgio, ficará o solicitante sujeito à legislação de estrangeiros, não devendo ocorrer sua transferência para o seu país de nacionalidade ou de residência habitual, enquanto permanecerem as circunstâncias que põem em risco sua vida, integridade física e liberdade, salvo nas situações determinadas nos incisos III e IV do art. 3º desta Lei.

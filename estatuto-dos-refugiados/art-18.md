@@ -1,0 +1,2 @@
+Art. 18. A autoridade competente notificará o solicitante para prestar declarações, ato que marcará a data de abertura dos procedimentos.
+Parágrafo único. A autoridade competente informará o Alto Comissariado das Nações Unidas para Refugiados - ACNUR sobre a existência do processo de solicitação de refúgio e facultará a esse organismo a possibilidade de oferecer sugestões que facilitem seu andamento.

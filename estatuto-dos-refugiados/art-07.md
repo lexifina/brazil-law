@@ -1,0 +1,3 @@
+Art. 7º O estrangeiro que chegar ao território nacional poderá expressar sua vontade de solicitar reconhecimento como refugiado a qualquer autoridade migratória que se encontre na fronteira, a qual lhe proporcionará as informações necessárias quanto ao procedimento cabível.
+§ 1º Em hipótese alguma será efetuada sua deportação para fronteira de território em que sua vida ou liberdade esteja ameaçada, em virtude de raça, religião, nacionalidade, grupo social ou opinião política.
+§ 2º O benefício previsto neste artigo não poderá ser invocado por refugiado considerado perigoso para a segurança do Brasil.

@@ -1,0 +1,1 @@
+Art. 44. O reconhecimento de certificados e diplomas, os requisitos para a obtenção da condição de residente e o ingresso em instituições acadêmicas de todos os níveis deverão ser facilitados, levando-se em consideração a situação desfavorável vivenciada pelos refugiados.

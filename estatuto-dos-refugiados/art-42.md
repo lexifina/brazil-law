@@ -1,0 +1,1 @@
+Art. 42. A repatriação de refugiados aos seus países de origem deve ser caracterizada pelo caráter voluntário do retorno, salvo nos casos em que não possam recusar a proteção do país de que são nacionais, por não mais subsistirem as circunstâncias que determinaram o refúgio.

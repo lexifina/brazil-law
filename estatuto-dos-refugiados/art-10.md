@@ -1,0 +1,3 @@
+Art. 10. A solicitação, apresentada nas condições previstas nos artigos anteriores, suspenderá qualquer procedimento administrativo ou criminal pela entrada irregular, instaurado contra o peticionário e pessoas de seu grupo familiar que o acompanhem.
+§ 1º Se a condição de refugiado for reconhecida, o procedimento será arquivado, desde que demonstrado que a infração correspondente foi determinada pelos mesmos fatos que justificaram o dito reconhecimento.
+§ 2º Para efeito do disposto no parágrafo anterior, a solicitação de refúgio e a decisão sobre a mesma deverão ser comunicadas à Polícia Federal, que as transmitirá ao órgão onde tramitar o procedimento administrativo ou criminal.

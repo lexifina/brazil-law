@@ -1,0 +1,1 @@
+Art. 22. Enquanto estiver pendente o processo relativo à solicitação de refúgio, ao peticionário será aplicável a legislação sobre estrangeiros, respeitadas as disposições específicas contidas nesta Lei.
