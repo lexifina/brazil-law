@@ -1,0 +1,1 @@
+Art. 19. O Poder Executivo desenvolverá ações de instrução, divulgação e esclarecimento, que estimulem o uso seguro e eficaz dos agrotóxicos, seus componentes e afins, com o objetivo de reduzir os efeitos prejudiciais para os seres humanos e o meio ambiente e de prevenir acidentes decorrentes de sua utilização imprópria.
