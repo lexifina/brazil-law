@@ -1,0 +1,27 @@
+DECISÃO: 1. Publicada a decisão agravada em 18.02.2002,
+segunda-feira (fls. 79), o prazo para o Agravo de Instrumento
+começou a correr na terça-feira, dia 19.02.2002, e expirou no dia
+28.02.2002 (quinta-feira). O agravo somente foi protocolado no
+Tribunal a quo no dia 06.03.2002, sem causa legal de suspensão nem
+interrupção do prazo. Veio, pois, a desoras.
+        Ademais, o
+instrumento do agravo está incompleto. O agravante não juntou cópia
+das contra-razões de recurso extraordinário, nem lhe demonstrou a
+inexistência nos autos principais. Trata-se de peça de reprodução
+obrigatória, como o exige o § 1º do art. 544 do CPC.
+Tampouco
+juntou cópia da certidão de publicação do julgado, sem a qual não se
+ pode aferir da tempestividade do Recurso Extraordinário (Súmula 288
+ do S.T.F.) e que, como tal, é também peça obrigatória, como, aliás,
+ vêm entendendo, em situação similar, ambas as Turmas da Corte
+(Agravos de Instrumento nºs 149.722-AgR, 151.485-AgR, 1ª Turma e
+167.567-AgR e 158.870-AgR, 2ª Turma, todos julgados em
+20.06.95).
+2.      Ante o exposto, nego seguimento ao presente
+agravo de instrumento (§ 1º do art. 21 do RISTF., art. 38 da Lei nº
+8.038, de 28.05.1990, e art. 557 do CPC).
+        Publique-se.
+Intimem-se.
+Brasília, 04 de julho de 2003.
+   Ministro CEZAR PELUSO
+Relator
