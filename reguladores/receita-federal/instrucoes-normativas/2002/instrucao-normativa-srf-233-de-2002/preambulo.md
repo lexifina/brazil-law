@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 233, de 28 de outubro de 2002
+Dispõe sobre a desistência de pedido de compensação pendente de apreciação pela autoridade administrativa de que tratam os §§ 1º e 2º do art. 4º da Medida Provisória nº 75, de 24 de outubro de 2002.
+O SECRETÁRIO DA RECEITA FEDERAL SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 74 da Lei nº 9.430, de 27 de dezembro de 1996, com a redação determinada pelo art. 49 da Medida Provisória nº 66, de 29 de agosto de 2002, e nos §§ 1º e 2º do art. 4o da Medida Provisória no 75, de 24 de outubro de 2002, resolve:
