@@ -1,0 +1,2 @@
+Art. 3º O Sistema Federal de Viação - SFV, sob jurisdição da União, abrange a malha arterial básica do Sistema Nacional de Viação, formada por eixos e terminais relevantes do ponto de vista da demanda de transporte, da integração nacional e das conexões internacionais.
+Parágrafo único. O SFV compreende os elementos físicos da infra-estrutura viária existente e planejada, definidos pela legislação vigente.

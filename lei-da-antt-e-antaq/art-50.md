@@ -1,0 +1,2 @@
+Art. 50. As empresas que, na data da instalação da ANTT ou da ANTAQ, forem detentoras de outorgas expedidas por entidades públicas federais do setor dos transportes, terão, por meio de novos instrumentos de outorga, seus direitos ratificados e adaptados ao que dispõem os arts. 13 e 14.
+Parágrafo único. Os novos instrumentos de outorga serão aplicados aos mesmos objetos das outorgas anteriores e serão regidos, no que couber, pelas normas gerais estabelecidas nas Subseções I, II, III e IV desta Seção.

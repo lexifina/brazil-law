@@ -1,0 +1,1 @@
+Art. 45. Os preços dos serviços autorizados serão livres, reprimindo-se toda prática prejudicial à competição, bem como o abuso do poder econômico, adotando-se nestes casos as providências previstas no art. 31.

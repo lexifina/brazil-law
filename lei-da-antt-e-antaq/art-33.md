@@ -1,0 +1,1 @@
+Art. 33. Os atos de outorga de autorização, concessão ou permissão a serem editados e celebrados pela ANTT e pela ANTAQ obedecerão ao disposto na Lei nº 8.987, de 13 de fevereiro de 1995, nas subseções II, III, IV e V desta Seção e nas regulamentações complementares a serem editadas pelas Agências.
