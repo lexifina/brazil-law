@@ -1,0 +1,8 @@
+Art. 17. Considera-se obrigatória de caráter continuado a despesa corrente derivada de lei, medida provisória ou ato administrativo normativo que fixem para o ente a obrigação legal de sua execução por um período superior a dois exercícios.
+§ 1º Os atos que criarem ou aumentarem despesa de que trata o caput deverão ser instruídos com a estimativa prevista no inciso I do art. 16 e demonstrar a origem dos recursos para seu custeio.
+§ 2º Para efeito do atendimento do § 1º, o ato será acompanhado de comprovação de que a despesa criada ou aumentada não afetará as metas de resultados fiscais previstas no anexo referido no § 1º do art. 4º, devendo seus efeitos financeiros, nos períodos seguintes, ser compensados pelo aumento permanente de receita ou pela redução permanente de despesa.
+§ 3º Para efeito do § 2º, considera-se aumento permanente de receita o proveniente da elevação de alíquotas, ampliação da base de cálculo, majoração ou criação de tributo ou contribuição.
+§ 4º A comprovação referida no § 2º, apresentada pelo proponente, conterá as premissas e metodologia de cálculo utilizadas, sem prejuízo do exame de compatibilidade da despesa com as demais normas do plano plurianual e da lei de diretrizes orçamentárias.
+§ 5º A despesa de que trata este artigo não será executada antes da implementação das medidas referidas no § 2º, as quais integrarão o instrumento que a criar ou aumentar.
+§ 6º O disposto no § 1º não se aplica às despesas destinadas ao serviço da dívida nem ao reajustamento de remuneração de pessoal de que trata o inciso X do art. 37 da Constituição.
+§ 7º Considera-se aumento de despesa a prorrogação daquela criada por prazo determinado.

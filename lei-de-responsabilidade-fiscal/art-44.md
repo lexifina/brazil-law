@@ -1,0 +1,1 @@
+Art. 44. É vedada a aplicação da receita de capital derivada da alienação de bens e direitos que integram o patrimônio público para o financiamento de despesa corrente, salvo se destinada por lei aos regimes de previdência social, geral e próprio dos servidores públicos.

@@ -1,0 +1,2 @@
+Art. 42. É vedado ao titular de Poder ou órgão referido no art. 20, nos últimos dois quadrimestres do seu mandato, contrair obrigação de despesa que não possa ser cumprida integralmente dentro dele, ou que tenha parcelas a serem pagas no exercício seguinte sem que haja suficiente disponibilidade de caixa para este efeito.
+Parágrafo único. Na determinação da disponibilidade de caixa serão considerados os encargos e despesas compromissadas a pagar até o final do exercício.

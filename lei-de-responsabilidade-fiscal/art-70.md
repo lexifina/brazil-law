@@ -1,0 +1,2 @@
+Art. 70. O Poder ou órgão referido no art. 20 cuja despesa total com pessoal no exercício anterior ao da publicação desta Lei Complementar estiver acima dos limites estabelecidos nos arts. 19 e 20 deverá enquadrar-se no respectivo limite em até dois exercícios, eliminando o excesso, gradualmente, à razão de, pelo menos, 50% a.a. (cinqüenta por cento ao ano), mediante a adoção, entre outras, das medidas previstas nos arts. 22 e 23.
+Parágrafo único. A inobservância do disposto no caput, no prazo fixado, sujeita o ente às sanções previstas no § 3º do art. 23.

@@ -1,0 +1,1 @@
+Art. 61. Os títulos da dívida pública, desde que devidamente escriturados em sistema centralizado de liquidação e custódia, poderão ser oferecidos em caução para garantia de empréstimos, ou em outras transações previstas em lei, pelo seu valor econômico, conforme definido pelo Ministério da Fazenda.
