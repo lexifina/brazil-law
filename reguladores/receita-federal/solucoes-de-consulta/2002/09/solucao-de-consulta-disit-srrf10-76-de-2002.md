@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF10 nº 76, de 12 de agosto de 2002
+ASSUNTO: Imposto sobre Produtos Industrializados - IPI
+EMENTA: INCIDÊNCIA. INDUSTRIALIZAÇÃO. MONTAGEM. ACONDICIONAMENTO.
+A reunião de peças ou partes de bicicletas, de que resulte o produto completo, ou uma parte classificada em código fiscal diverso do aplicável aos componentes originários, consubstancia industrialização, na modalidade montagem. Quando a reunião de peças ou partes resultar em uma parte de bicicleta classificada sob o mesmo código TIPI das peças ou partes utilizadas na operação, somente haverá industrialização (montagem) se o produto resultante for uma unidade autônoma e tiver classificação fiscal própria e única. Ainda que a união de partes e peças de bicicletas não se enquadre como montagem, haverá industrialização, na modalidade acondicionamento, se o produto resultante for vendido em embalagem de apresentação. O simples arranjo de peças e acessórios de bicicletas em kits não caracteriza fato gerador do IPI, salvo se os kits forem vendidos em embalagens de apresentação, hipótese em que haverá industrialização na modalidade acondicionamento.
+DISPOSITIVOS LEGAIS: Decreto nº 2.637, de 1998, arts. 4º e 6º; Parecer Normativo CST nº 446, de 1971; Parecer Normativo CST nº 526, de 1971.
+[arquivo anexo: SC SRRF10-Disit nº 76-2002.pdf]
