@@ -1,0 +1,3 @@
+Art. 46. O Poder Público municipal poderá facultar ao proprietário de área atingida pela obrigação de que trata o caput do art. 5º desta Lei, a requerimento deste, o estabelecimento de consórcio imobiliário como forma de viabilização financeira do aproveitamento do imóvel.
+§ 1º Considera-se consórcio imobiliário a forma de viabilização de planos de urbanização ou edificação por meio da qual o proprietário transfere ao Poder Público municipal seu imóvel e, após a realização das obras, recebe, como pagamento, unidades imobiliárias devidamente urbanizadas ou edificadas.
+§ 2º O valor das unidades imobiliárias a serem entregues ao proprietário será correspondente ao valor do imóvel antes da execução das obras, observado o disposto no § 2º do art. 8º desta Lei.
