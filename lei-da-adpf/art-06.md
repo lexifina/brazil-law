@@ -1,0 +1,3 @@
+Art. 6º Apreciado o pedido de liminar, o relator solicitará as informações às autoridades responsáveis pela prática do ato questionado, no prazo de dez dias.
+§ 1º Se entender necessário, poderá o relator ouvir as partes nos processos que ensejaram a argüição, requisitar informações adicionais, designar perito ou comissão de peritos para que emita parecer sobre a questão, ou ainda, fixar data para declarações, em audiência pública, de pessoas com experiência e autoridade na matéria.
+§ 2º Poderão ser autorizadas, a critério do relator, sustentação oral e juntada de memoriais, por requerimento dos interessados no processo.
