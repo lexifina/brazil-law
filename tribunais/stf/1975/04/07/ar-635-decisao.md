@@ -1,0 +1,1 @@
+Despacho: Vistos, etc. Homologo o calculo de fl. 275, para que produza os seus jurídicos e legais efeitos. Expeça-se carta de ordem, oportunamente, para que prossiga a execução, com citação pessoal do devedor (art. 611 do Cód. Proc. Civil). P. e I. Brasília, 7 de abril de 1975- Djaci Falcão
