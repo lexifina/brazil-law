@@ -1,0 +1,2 @@
+Art. 45. Observado o disposto no § 5º do art. 5º, a lei orçamentária e as de créditos adicionais só incluirão novos projetos após adequadamente atendidos os em andamento e contempladas as despesas de conservação do patrimônio público, nos termos em que dispuser a lei de diretrizes orçamentárias.
+Parágrafo único. O Poder Executivo de cada ente encaminhará ao Legislativo, até a data do envio do projeto de lei de diretrizes orçamentárias, relatório com as informações necessárias ao cumprimento do disposto neste artigo, ao qual será dada ampla divulgação.

@@ -1,0 +1,3 @@
+Art. 28. Salvo mediante lei específica, não poderão ser utilizados recursos públicos, inclusive de operações de crédito, para socorrer instituições do Sistema Financeiro Nacional, ainda que mediante a concessão de empréstimos de recuperação ou financiamentos para mudança de controle acionário.
+§ 1º A prevenção de insolvência e outros riscos ficará a cargo de fundos, e outros mecanismos, constituídos pelas instituições do Sistema Financeiro Nacional, na forma da lei.
+§ 2º O disposto no caput não proíbe o Banco Central do Brasil de conceder às instituições financeiras operações de redesconto e de empréstimos de prazo inferior a trezentos e sessenta dias.
