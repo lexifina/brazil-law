@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 346, DE 4 DE JANEIRO DE 2001
+(AUTORIA DO PROJETO: PODER EXECUTIVO)
+Dispõe sobre os lotes residenciais e não-residenciais destinados a programas habitacionais na Região Administrativa do Riacho Fundo - RA XVII.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA .LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
