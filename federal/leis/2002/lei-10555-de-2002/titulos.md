@@ -1,2 +1,2 @@
-Senador RAMEZ TEBET
+SENADOR RAMEZ TEBET
 Presidente da Mesa do Congresso Nacional
