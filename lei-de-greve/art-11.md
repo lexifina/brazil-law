@@ -1,0 +1,2 @@
+Art. 11. Nos serviços ou atividades essenciais, os sindicatos, os empregadores e os trabalhadores ficam obrigados, de comum acordo, a garantir, durante a greve, a prestação dos serviços indispensáveis ao atendimento das necessidades inadiáveis da comunidade.
+Parágrafo único. São necessidades inadiáveis, da comunidade aquelas que, não atendidas, coloquem em perigo iminente a sobrevivência, a saúde ou a segurança da população.
