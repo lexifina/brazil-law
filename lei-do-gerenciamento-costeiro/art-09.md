@@ -1,0 +1,1 @@
+Art. 9º. Para evitar a degradação ou o uso indevido dos ecossistemas, do patrimônio e dos recursos naturais da Zona Costeira, o PNGC poderá prever a criação de unidades de conservação permanente, na forma da legislação em vigor.
