@@ -1,0 +1,1 @@
+Art. 5º Para os efeitos desta Lei, entende-se por contrato de gestão o instrumento firmado entre o Poder Público e a entidade qualificada como organização social, com vistas à formação de parceria entre as partes para fomento e execução de atividades relativas às áreas relacionadas no art. 1º.
