@@ -1,0 +1,1 @@
+Art. 2º 50% (cinqüenta por cento) do produto da arrecadação do Imposto sobre a Propriedade de Veículos Automotores licenciados no território de cada Município serão imediatamente creditados a este, através do próprio documento de arrecadação, no montante em que esta estiver sendo realizada.

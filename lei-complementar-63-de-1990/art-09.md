@@ -1,0 +1,6 @@
+Art. 9º O estabelecimento oficial de crédito que não entregar, no prazo, a qualquer Município, na forma desta Lei Complementar, as importâncias que lhes pertencem ficará sujeito ás sanções aplicáveis aos estabelecimentos bancários que deixam de cumprir saques de depositantes.
+§ 1º Sem prejuízo do disposto no caput deste artigo, o estabelecimento oficial de crédito será, em qualquer hipótese, proibido de receber as remessas e os depósitos mencionados nos art. 4º desta Lei Complementar, por determinação do Banco Central do Brasil, a requerimento do Município.
+§ 2º A proibição vigorará por prazo não inferior a 2 (dois) nem superior a 4 (quatro) anos, a critério do Banco Central do Brasil.
+§ 3º Enquanto durar a proibição, os depósitos e as remessas serão obrigatoriamente feitos ao Banco do Brasil S.A., para o qual deve ser imediatamente transferido saldo em poder do estabelecimento infrator.
+§ 4º O Banco do Brasil S.A. observará os prazos previstos nesta Lei Complementar, sob pena de responsabilidade de seus dirigentes.
+§ 5º Findo o prazo da proibição, o estabelecimento infrator poderá tornar a receber os depósitos e remessas, se escolhido pelo Poder Executivo Estadual, ao qual será facultado eleger qualquer outro estabelecimento oficial de crédito.
