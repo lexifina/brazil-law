@@ -1,0 +1,5 @@
+# Lei nº 591, de 6 de julho de 1976, do Estado do Acre
+
+Abre crédito especial para o Hospital Sansão Gomes.
+
+Fonte: ALEAC Legisla-e, <https://app.al.ac.leg.br/legisla-e/legislacao/visualizar/8000>
