@@ -6,6 +6,8 @@ IV - de extorsão mediante seqüestro;
 V - contra a Administração Pública, inclusive a exigência, para si ou para outrem, direta ou indiretamente, de qualquer vantagem, como condição ou preço para a prática ou omissão de atos administrativos;
 VI - contra o sistema financeiro nacional;
 VII - praticado por organização criminosa.
+VIII - praticado por particular contra a administração pública estrangeira (arts. 337-B, 337-C e 337-D do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal).
+Pena: reclusão de três a dez anos e multa.
 § 1º Incorre na mesma pena quem, para ocultar ou dissimular a utilização de bens, direitos ou valores provenientes de qualquer dos crimes antecedentes referidos neste artigo:
 I - os converte em ativos lícitos;
 II - os adquire, recebe, troca, negocia, dá ou recebe em garantia, guarda, tem em depósito, movimenta ou transfere;
