@@ -1,0 +1,1 @@
+Art. 3º O recurso voluntário ou ex officio, interposto contra sentença em processo cautelar, proferida contra pessoa jurídica de direito público ou seus agentes, que importe em outorga ou adição de vencimentos ou de reclassificação funcional, terá efeito suspensivo.

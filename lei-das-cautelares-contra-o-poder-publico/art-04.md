@@ -1,0 +1,4 @@
+Art. 4º Compete ao presidente do tribunal, ao qual couber o conhecimento do respectivo recurso, suspender, em despacho fundamentado, a execução da liminar nas ações movidas contra o Poder Público ou seus agentes, a requerimento do Ministério Público ou da pessoa jurídica de direito público interessada, em caso de manifesto interesse público ou de flagrante ilegitimidade, e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+§ 1º Aplica-se o disposto neste artigo à sentença proferida em processo de ação cautelar inominada, no processo de ação popular e na ação civil pública, enquanto não transitada em julgado.
+§ 2º O presidente do tribunal poderá ouvir o autor e o Ministério Público, em cinco dias.
+§ 3º Do despacho que conceder ou negar a suspensão, caberá agravo, no prazo de cinco dias.
