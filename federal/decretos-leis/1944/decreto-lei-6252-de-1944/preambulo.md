@@ -1,0 +1,4 @@
+DECRETO-LEI N. 6.252 – DE 8 DE FEVEREIRO DE 1944
+Extingue o impôsto sôbre carnes a que se refere o art. 25 do Decreto-lei nº 2.740, de 4 de novembro de 1940
+O Presidente da República, usando da atribuição que lhe confere o art. 180 da Constituição,
+decreta:
