@@ -1,0 +1,3 @@
+Art. 1º - O § 3º do art. 17 do Decreto-lei nº 7.036, de 10 de novembro de 1944 (Reforma da Lei de Acidentes do Trabalho), passa a ter a seguinte redação:
+“Art. 17. .........................................................................................................................
+§ 3º - Nos casos de cegueira total, perda ou paralisação de membros superiores ou inferiores e de alienação mental, receberá o acidentado, além da indenização de que trata o parágrafo anterior, a quantia correspondente a 20% (vinte por cento) calculada sôbre a referida indenização, paga de uma só vez”.
