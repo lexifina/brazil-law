@@ -1,0 +1,1 @@
+Art. 22B. As contribuições de que tratam os incisos I e II do art. 22 desta Lei são substituídas, em relação à remuneração paga, devida ou creditada ao trabalhador rural contratado pelo consórcio simplificado de produtores rurais de que trata o art. 25A, pela contribuição dos respectivos produtores rurais, calculada na forma do art. 25 desta Lei.
