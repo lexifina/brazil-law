@@ -1,0 +1,4 @@
+Art. 20. As concessões e autorizações de geração de energia elétrica alcançadas pelo parágrafo único do art. 43 e pelo art. 44 da Lei nº 8.987, de 1995, exceto aquelas cujos empreendimentos não tenham sido iniciados até a edição dessa mesma Lei, poderão ser prorrogadas pelo prazo necessário à amortização do investimento, limitado a trinta e cinco anos, observado o disposto no art. 24 desta Lei e desde que apresentado pelo interessado:
+I - plano de conclusão aprovado pelo poder concedente;
+II - compromisso de participação superior a um terço de investimentos privados nos recursos necessários à conclusão da obra e à colocação das unidades em operação.
+Parágrafo único. Os titulares de concessão que não procederem de conformidade com os termos deste artigo terão suas concessões declaradas extintas, por ato do poder concedente, de acordo com o autorizado no parágrafo único do art. 44 da Lei nº 8.987, de 1995.
