@@ -1,0 +1,5 @@
+Art. 6º O SNUC será gerido pelos seguintes órgãos, com as respectivas atribuições:
+I - Órgão consultivo e deliberativo: o Conselho Nacional do Meio Ambiente - Conama, com as atribuições de acompanhar a implementação do Sistema;
+II - Órgão central: o Ministério do Meio Ambiente, com a finalidade de coordenar o Sistema; e
+III - Órgãos executores: o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama, os órgãos estaduais e municipais, com a função de implementar o SNUC, subsidiar as propostas de criação e administrar as unidades de conservação federais, estaduais e municipais, nas respectivas esferas de atuação.
+Parágrafo único. Podem integrar o SNUC, excepcionalmente e a critério do Conama, unidades de conservação estaduais e municipais que, concebidas para atender a peculiaridades regionais ou locais, possuam objetivos de manejo que não possam ser satisfatoriamente atendidos por nenhuma categoria prevista nesta Lei e cujas características permitam, em relação a estas, uma clara distinção.

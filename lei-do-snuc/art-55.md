@@ -1,0 +1,1 @@
+Art. 55. As unidades de conservação e áreas protegidas criadas com base nas legislações anteriores e que não pertençam às categorias previstas nesta Lei serão reavaliadas, no todo ou em parte, no prazo de até dois anos, com o objetivo de definir sua destinação com base na categoria e função para as quais foram criadas, conforme o disposto no regulamento desta Lei.

@@ -1,0 +1,4 @@
+Art. 42. As populações tradicionais residentes em unidades de conservação nas quais sua permanência não seja permitida serão indenizadas ou compensadas pelas benfeitorias existentes e devidamente realocadas pelo Poder Público, em local e condições acordados entre as partes.
+§ 1º O Poder Público, por meio do órgão competente, priorizará o reassentamento das populações tradicionais a serem realocadas.
+§ 2º Até que seja possível efetuar o reassentamento de que trata este artigo, serão estabelecidas normas e ações específicas destinadas a compatibilizar a presença das populações tradicionais residentes com os objetivos da unidade, sem prejuízo dos modos de vida, das fontes de subsistência e dos locais de moradia destas populações, assegurando-se a sua participação na elaboração das referidas normas e ações.
+§ 3º Na hipótese prevista no § 2º, as normas regulando o prazo de permanência e suas condições serão estabelecidas em regulamento.

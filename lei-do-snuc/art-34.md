@@ -1,0 +1,2 @@
+Art. 34. Os órgãos responsáveis pela administração das unidades de conservação podem receber recursos ou doações de qualquer natureza, nacionais ou internacionais, com ou sem encargos, provenientes de organizações privadas ou públicas ou de pessoas físicas que desejarem colaborar com a sua conservação.
+Parágrafo único. A administração dos recursos obtidos cabe ao órgão gestor da unidade, e estes serão utilizados exclusivamente na sua implantação, gestão e manutenção.

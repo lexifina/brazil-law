@@ -1,0 +1,6 @@
+Art. 15. A Área de Proteção Ambiental é uma área em geral extensa, com um certo grau de ocupação humana, dotada de atributos abióticos, bióticos, estéticos ou culturais especialmente importantes para a qualidade de vida e o bem-estar das populações humanas, e tem como objetivos básicos proteger a diversidade biológica, disciplinar o processo de ocupação e assegurar a sustentabilidade do uso dos recursos naturais.
+§ 1º A Área de Proteção Ambiental é constituída por terras públicas ou privadas.
+§ 2º Respeitados os limites constitucionais, podem ser estabelecidas normas e restrições para a utilização de uma propriedade privada localizada em uma Área de Proteção Ambiental.
+§ 3º As condições para a realização de pesquisa científica e visitação pública nas áreas sob domínio público serão estabelecidas pelo órgão gestor da unidade.
+§ 4º Nas áreas sob propriedade privada, cabe ao proprietário estabelecer as condições para pesquisa e visitação pelo público, observadas as exigências e restrições legais.
+§ 5º A Área de Proteção Ambiental disporá de um Conselho presidido pelo órgão responsável por sua administração e constituído por representantes dos órgãos públicos, de organizações da sociedade civil e da população residente, conforme se dispuser no regulamento desta Lei.

@@ -1,0 +1,7 @@
+Art. 17. A Floresta Nacional é uma área com cobertura florestal de espécies predominantemente nativas e tem como objetivo básico o uso múltiplo sustentável dos recursos florestais e a pesquisa científica, com ênfase em métodos para exploração sustentável de florestas nativas.
+§ 1º A Floresta Nacional é de posse e domínio públicos, sendo que as áreas particulares incluídas em seus limites devem ser desapropriadas de acordo com o que dispõe a lei.
+§ 2º Nas Florestas Nacionais é admitida a permanência de populações tradicionais que a habitam quando de sua criação, em conformidade com o disposto em regulamento e no Plano de Manejo da unidade.
+§ 3º A visitação pública é permitida, condicionada às normas estabelecidas para o manejo da unidade pelo órgão responsável por sua administração.
+§ 4º A pesquisa é permitida e incentivada, sujeitando-se à prévia autorização do órgão responsável pela administração da unidade, às condições e restrições por este estabelecidas e àquelas previstas em regulamento.
+§ 5º A Floresta Nacional disporá de um Conselho Consultivo, presidido pelo órgão responsável por sua administração e constituído por representantes de órgãos públicos, de organizações da sociedade civil e, quando for o caso, das populações tradicionais residentes.
+§ 6º A unidade desta categoria, quando criada pelo Estado ou Município, será denominada, respectivamente, Floresta Estadual e Floresta Municipal.
