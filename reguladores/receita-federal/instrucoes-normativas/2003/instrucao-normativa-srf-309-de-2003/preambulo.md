@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 309, de 18 de março de 2003
+Dispõe sobre a apreensão de máquinas eletrônicas programadas para a exploração de jogos de azar, procedentes do exterior.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 50 do Decreto-Lei nº 3.688, de 3 de outubro de 1941, no inciso XIX do art. 105 do Decreto-Lei nº 37, de 18 de novembro de 1966, no inciso IV e no parágrafo único do art. 23 do Decreto-Lei nº 1.455, de 7 de abril de 1976, e no art. 1º do Decreto nº 3.214, de 21 de outubro de 1999, resolve:
