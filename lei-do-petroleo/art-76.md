@@ -1,2 +1,1 @@
 Art. 76. A ANP poderá contratar especialistas para a execução de trabalhos nas áreas técnica, econômica e jurídica, por projetos ou prazos limitados, com dispensa de licitação nos casos previstos na legislação aplicável.
-Parágrafo único. Fica a ANP autorizada a efetuar a contratação temporária, por prazo não excedente a trinta e seis meses, nos termos do art. 37 da Constituição Federal, do pessoal técnico imprescindível à implantação de suas atividades.
