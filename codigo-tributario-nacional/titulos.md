@@ -72,7 +72,6 @@ Seção II
 Critério de Distribuição do Fundo de Participação dos Estados
 Seção III
 Critério de Distribuição do Fundo de Participação dos Municípios
-COEFICIENTE
 Seção IV
 Cálculo e Pagamento das Quotas Estaduais e Municipais
 Seção V
