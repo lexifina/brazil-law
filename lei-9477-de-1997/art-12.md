@@ -1,0 +1,2 @@
+Art. 12. Os resgates na carteira dos Fundos para mudança das aplicações (art. 3º, § 2º, inciso VIII) entre Fundos instituídos por esta Lei ou para a aquisição de renda junto às instituições privadas de previdência e seguradoras que operam com esse produto, estão isentos do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos e Valores Mobiliários e do Imposto de Renda.
+Parágrafo único. É vedada a utilização da dedução de que trata o art. 10, nas hipóteses referidas neste artigo.
