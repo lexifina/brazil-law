@@ -1,0 +1,11 @@
+[pic]
+
+ESTADO DE ALAGOAS
+
+ASSEMBLÉIA LEGISLATIVA ESTADUAL
+
+A PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE ALAGOAS, no uso de suas atribuições que lhe confere o parágrafo 6º do artigo 89 da Constituição Estadual, promulga a seguinte Lei:
+
+LEI N.º 6.199, DE 27 DE SETEMBRO DE 2000. (*)
+
+DISPÕE SOBRE A CRIAÇÃO DE CURSOS OCUPACIONAIS PARA IDOSOS E DÁ OUTRAS PROVIDÊNCIAS
