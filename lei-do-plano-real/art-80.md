@@ -1,0 +1,1 @@
+Art. 80. Será aplicado ao salário dos trabalhadores em geral, quando a conversão de seus salários em URV tiver sido efetuada mediante a utilização de URV diversa daquela do efetivo pagamento, o maior dos valores resultantes da aplicação do disposto no art. 27, caput, e em seu § 3º, da Lei nº 8.880, de 1994.

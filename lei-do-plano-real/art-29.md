@@ -1,0 +1,1 @@
+Art. 29. É criado o Fundo de Amortização da Dívida Pública Mobiliária Federal, com a finalidade de amortizar a dívida mobiliária interna do Tesouro Nacional, que será regulamentado pelo Poder Executivo.

@@ -1,0 +1,1 @@
+Art. 19. As obrigações pecuniárias em Cruzeiros Reais, sem cláusula de correção monetária ou com cláusula de correção monetária prefixada, serão convertidas em REAL, no dia 1º de julho de 1994, observada a paridade entre o Cruzeiro Real e o Real fixada para aquela data.

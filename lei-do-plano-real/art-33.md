@@ -1,0 +1,1 @@
+Art. 33. A amortização da dívida mobiliária interna do Tesouro Nacional, a que se refere o art. 29, poderá, por acordo entre as partes, se dar mediante dação em pagamento de ações depositadas no Fundo.

@@ -1,0 +1,3 @@
+Art. 12. Na operação de conversão de Cruzeiros Reais para REAL, serão adotadas quatro casas decimais no quociente da divisão.
+§ 1º Em todos os pagamentos ou liquidações de soma a receber ou a pagar e registros contábeis, serão desprezados, para todos os efeitos legais, os valores inferiores ao correspondente a um centavo de REAL.
+§ 2º Nas instituições financeiras e nas demais entidades autorizadas a funcionar pelo Banco Central do Brasil a soma das parcelas desprezadas, na forma do parágrafo anterior, será recolhida e creditada ao Tesouro Nacional, no prazo a ser fixado pelo Poder Executivo, para ser utilizada em programas emergenciais contra a fome e a miséria, conforme regulamentação a ser baixada pelo Poder Executivo.

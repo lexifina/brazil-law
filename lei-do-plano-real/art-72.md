@@ -1,0 +1,5 @@
+Art. 72. Os §§ 2º e 3º do art. 23 e o art. 58 da Lei nº 4.131, de 3 de setembro de 1962, passam a vigorar com a seguinte redação:
+"Art. 23.
+§ 2º Constitui infração imputável ao estabelecimento bancário, ao corretor e ao cliente, punível com multa de 50 (cinqüenta) a 300% (trezentos por cento) do valor da operação para cada um dos infratores, a declaração de falsa identidade no formulário que, em número de vias e segundo o modelo determinado pelo Banco Central do Brasil, será exigido em cada operação, assinado pelo cliente e visado pelo estabelecimento bancário e pelo corretor que nela intervierem.
+§ 3º Constitui infração, de responsabilidade exclusiva do cliente, punível com multa de 5 (cinco) a 100% (cem por cento) do valor da operação, a declaração de informações falsas no formulário a que se refere o § 2º.
+Art. 58. As infrações à presente Lei, ressalvadas as penalidades específicas constantes de seu texto, ficam sujeitas a multas de até R$ 100.000,00 (cem mil reais), a serem aplicadas pelo Banco Central do Brasil, na forma prescrita em regulamento a ser baixado pelo Conselho Monetário Nacional."

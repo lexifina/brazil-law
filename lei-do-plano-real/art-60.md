@@ -1,0 +1,1 @@
+Art. 60. A concessão ou reconhecimento de qualquer incentivo ou benefício fiscal, relativos a tributos e contribuições administrados pela Secretaria da Receita Federal fica condicionada à comprovação pelo contribuinte, pessoa física ou jurídica, da quitação de tributos e contribuições federais.

@@ -1,0 +1,1 @@
+Art. 18. Os depósitos da União no Banco Central do Brasil e nas instituições financeiras terão seu saldo atualizado, pela taxa média referencial do Sistema Especial de Liquidação e de Custódia - SELIC, até 30 de junho de 1994, e convertidos para REAL, em 1º de julho de 1994, observada a paridade fixada para aquela data.
