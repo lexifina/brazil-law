@@ -1,0 +1,1 @@
+Art. 17. É sempre permitida às pessoas ou entidades referidas no art. 1º, ainda que hajam contestado a ação, promover, em qualquer tempo, e no que as beneficiar a execução da sentença contra os demais réus.

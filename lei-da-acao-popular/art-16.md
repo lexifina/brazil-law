@@ -1,0 +1,1 @@
+Art. 16. Caso decorridos 60 (sessenta) dias da publicação da sentença condenatória de segunda instância, sem que o autor ou terceiro promova a respectiva execução. o representante do Ministério Público a promoverá nos 30 (trinta) dias seguintes, sob pena de falta grave.
