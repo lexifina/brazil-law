@@ -1,0 +1,1 @@
+Art. 12. A exoneração imotivada de Diretor da Agência somente poderá ser promovida nos quatro meses iniciais do mandato, findos os quais será assegurado seu pleno e integral exercício, salvo nos casos de prática de ato de improbidade administrativa, de condenação penal transitada em julgado e de descumprimento injustificado do contrato de gestão da autarquia.
