@@ -1,0 +1,13 @@
+# Decreto nº 6.553, de 24/04/1877
+
+DECRETO N. 6553 - DE 24 DE ABRIL DE 1877
+
+Concede privilegio a Samuel Beaven para a machina que inventou com o fim de despolpar e descascar café e arroz.
+
+A Princeza Imperial Regente, em Nome do Imperador, Attendendo ao que requereu Samuel Beaven, e de conformidade com o Parecer do Conselheiro Procurador da Corôa, Fazenda e Soberania Nacional, Ha por bem Conceder-lhe privilegio por oito annos para fabricar e vender a machina que declarou ter inventado a fim de despolpar e descascar café e arroz, segundo a desripção e o desenho que apresentou.
+
+Thomaz José Coelho de Almeida, do Conselho de Sua Magestade o Imperador, Ministro e Secretario de Estado dos Negocios da Agricultura, Commercio e Obras Publicas, assim o tenha entendido e faça executar. Palacio do Rio de Janeiro em 24 de Abril de 1877, 56º da Independencia e do Imperio.
+
+PRINCEZA IMPERIAL REGENTE.
+
+Thomaz José Coelho de Almeida.
