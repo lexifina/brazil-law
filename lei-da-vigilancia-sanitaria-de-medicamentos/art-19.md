@@ -1,0 +1,2 @@
+Art. 19 - Será cancelado o registro de drogas, medicamentos e insumos farmacêuticos, sempre que efetuada modificação não autorizada em sua fórmula, dosagem, condições de fabricação, indicação de aplicacões e especificações anunciadas em bulas, rótulos ou publicidade.
+Parágrafo único. Havendo necessidade de serem modificadas a composição, posologia ou as indicações terapêuticas de produto farmacêutico tecnicamente elaborado, a empresa solicitará a competente permissão ao Ministério da Saúde, instruindo o pedido conforme o previsto no regulamento desta Lei.

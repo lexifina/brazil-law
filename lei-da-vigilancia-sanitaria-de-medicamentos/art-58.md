@@ -1,0 +1,3 @@
+Art. 58. A propaganda, sob qualquer forma de divulgação e meio de comunicação, dos produtos sob o regime desta Lei somente poderá ser promovida após autorização do Ministério da Saúde, conforme se dispuser em regulamento.
+§ 1º - Quando se tratar de droga, medicamento ou qualquer outro produto com a exigência de venda sujeita a prescrição médica ou odontológica, a propaganda ficará restrita a publicações que se destinem exclusivamente à distribuição a médicos, cirurgiões-dentistas e farmacêuticos.
+§ 2º - A propaganda dos medicamentos de venda livre, dos produtos dietéticos, dos saneantes domissanitários, de cosméticos e de produtos de higiene, será objeto de normas específicas a serem dispostas em regulamento.

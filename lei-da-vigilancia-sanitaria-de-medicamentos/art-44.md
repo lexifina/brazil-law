@@ -1,0 +1,1 @@
+Art. 44 - Para os fins desta Lei, são equiparados aos produtos domissanitários os detergentes e desinfetantes e respectivos congêneres, destinados à aplicação em objetos inanimados e em ambientes, ficando sujeitos às mesmas exigências e condições no concernente ao registro, à industrialização, entrega ao consumo e fiscalização.

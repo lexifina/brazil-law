@@ -1,0 +1,1 @@
+Art. 4º - Os produtos destinados ao uso infantil não poderão conter substâncias cáusticas ou irritantes, terão embalagens isentas de partes contundentes e não poderão ser apresentados sob a forma de aerosol.

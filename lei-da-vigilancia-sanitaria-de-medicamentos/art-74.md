@@ -1,0 +1,1 @@
+Art. 74. Não poderão Ter exercício em órgãos de fiscalização sanitária e laboratórios de controle servidores públicos que sejam sócios, acionistas ou interessados, por qualquer forma, de empresas que exerçam atividades sujeitas ao regime desta Lei, ou lhes prestem serviços com ou sem vínculo empregatício.
