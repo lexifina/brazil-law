@@ -1,0 +1,1 @@
+Art. 20. O regimento interno da ANP disporá sobre os procedimentos a serem adotados para a solução de conflitos entre agentes econômicos, e entre estes e usuários e consumidores, com ênfase na conciliação e no arbitramento.

@@ -1,0 +1,1 @@
+Art. 16. Os recursos provenientes da participação governamental prevista no inciso IV do art. 45, nos termos do art. 51, destinar-se-ão ao financiamento das despesas da ANP para o exercício das atividades que lhe são conferidas nesta Lei.

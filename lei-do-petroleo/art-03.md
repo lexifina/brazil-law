@@ -1,0 +1,1 @@
+Art. 3º Pertencem à União os depósitos de petróleo, gás natural e outros hidrocarbonetos fluidos existentes no território nacional, nele compreendidos a parte terrestre, o mar territorial, a plataforma continental e a zona econômica exclusiva.

@@ -1,0 +1,2 @@
+Art. 73. Até que se esgote o período de transição estabelecido no art. 69, os preços dos derivados básicos praticados pela PETROBRÁS poderão considerar os encargos resultantes de subsídios incidentes sobre as atividades por ela desenvolvidas.
+Parágrafo único. À exceção das condições e do prazo estabelecidos no artigo anterior, qualquer subsídio incidente sobre os preços dos derivados básicos, transcorrido o período previsto no art. 69, deverá ser proposto pelo CNPE e submetido à aprovação do Congresso Nacional, nos termos do inciso II do art. 2°.

@@ -1,0 +1,2 @@
+Art. 52. Constará também do contrato de concessão de bloco localizado em terra cláusula que determine o pagamento aos proprietários da terra de participação equivalente, em moeda corrente, a um percentual variável entre cinco décimos por cento e um por cento da produção de petróleo ou gás natural, a critério da ANP.
+Parágrafo único. A participação a que se refere este artigo será distribuída na proporção da produção realizada nas propriedades regularmente demarcadas na superfície do bloco.
