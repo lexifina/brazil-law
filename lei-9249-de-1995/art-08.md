@@ -1,0 +1,1 @@
+Art. 8º Permanecem em vigor as normas aplicáveis às contrapartidas de variações monetárias dos direitos de crédito e das obrigações do contribuinte em função da taxa de câmbio ou de índices ou coeficientes aplicáveis por disposição legal ou contratual.
