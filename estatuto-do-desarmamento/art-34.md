@@ -1,0 +1,2 @@
+Art. 34. Os promotores de eventos em locais fechados, com aglomeração superior a 1000 (um mil) pessoas, adotarão, sob pena de responsabilidade, as providências necessárias para evitar o ingresso de pessoas armadas, ressalvados os eventos garantidos pelo inciso VI do art. 5º da Constituição Federal.
+Parágrafo único. As empresas responsáveis pela prestação dos serviços de transporte internacional e interestadual de passageiros adotarão as providências necessárias para evitar o embarque de passageiros armados.
