@@ -1,0 +1,6 @@
+# LEI Nº 9.996, de 18 de dezembro de 1995
+Autoriza a aquisição de imóvel no Município de Ipuaçu.
+O GOVERNADOR DO ESTADO DE SANTA CATARINA,
+Faço saber a todos os habitantes deste Estado que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+Art. lº Fica o Poder Executivo autorizado, através da Secretaria de Estado da Administração, a adquirir, por doação, do Município de Ipuaçu, neste Estado, o imóvel matriculado sob nº 4.500 no Livro nº 2 do Ofício de Registro de Imóveis da Comarca de Abelardo Luz.
+Parágrafo único. O imóvel referido no "caput" deste artigo se constitui de um terreno, sem benfeitorias, lote urbano sob nº 01, da quadra 103 do loteamento Girotto, sito no perímetro urbano da cidade de Ipuaçu, Comarca de Abelardo Luz, com as seguintes medidas e confrontações: ao nordeste, com o lote nº 02, numa extensão de 16,00 m (dezesseis metros); ao sudoeste, com a rua Américo Girotto, numa extensão de 16,00 m (dezesseis metros); ao sudeste, com o lote nº 03, na extensão de 37,50 m trinta e sete metros e cinqüenta centímetros); e ao noroeste, com a rua Migliorini, numa extensão de 37,50 m (trinta e sete metros e cinqüenta centímetros), perfazendo a área de 600,00 m2 (seiscentos metros quadrados).
