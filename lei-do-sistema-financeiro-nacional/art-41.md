@@ -1,0 +1,1 @@
+Art. 41. Não se consideram como sendo operações de seções de crédito as vendas a prazo realizadas pelas cooperativas agropastoris a seus associados de bens e produtos destinados às suas atividades econômicas.
