@@ -1,0 +1,2 @@
+Art. 11. É vedada a exclusão de cobertura às doenças e lesões preexistentes à data de contratação dos produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei após vinte e quatro meses de vigência do aludido instrumento contratual, cabendo à respectiva operadora o ônus da prova e da demonstração do conhecimento prévio do consumidor ou beneficiário.
+Parágrafo único. É vedada a suspensão da assistência à saúde do consumidor ou beneficiário, titular ou dependente, até a prova de que trata o caput, na forma da regulamentação a ser editada pela ANS.

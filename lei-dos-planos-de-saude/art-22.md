@@ -1,0 +1,3 @@
+Art. 22. As operadoras de planos privados de assistência à saúde submeterão suas contas a auditores independentes, registrados no respectivo Conselho Regional de Contabilidade e na Comissão de Valores Mobiliários - CVM, publicando, anualmente, o parecer respectivo, juntamente com as demonstrações financeiras determinadas pela Lei nº 6.404, de 15 de dezembro de 1976.
+§ 1º A auditoria independente também poderá ser exigida quanto aos cálculos atuariais, elaborados segundo diretrizes gerais definidas pelo CONSU.
+§ 2º As operadoras com número de beneficiários inferior a vinte mil usuários ficam dispensadas da publicação do parecer do auditor e das demonstrações financeiras, devendo, a ANS, dar-lhes publicidade.
