@@ -1,0 +1,1 @@
+Art. 19. Recebida a denúncia, será lida no expediente da sessão seguinte e despachada a uma comissão especial eleita, da qual participem, observada a respectiva proporção, representantes de todos os partidos para opinar sobre a mesma.

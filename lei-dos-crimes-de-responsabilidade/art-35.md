@@ -1,0 +1,1 @@
+Art. 35. A resolução do Senado constará de sentença que será lavrada, nos autos do processo, pelo Presidente do Supremo Tribunal Federal, assinada pêlos senadores que funcionarem como juizes, transcrita na ata da sessão e, dentro desta, publicada no Diário Oficial e no Diário do Congresso Nacional.

@@ -1,0 +1,1 @@
+Art. 77. Apresentada a denúncia e julgada objeto de deliberação, se a Assembléia Legislativa por maioria absoluta, decretar a procedência da acusação, será o Governador imediatamente suspenso de suas funções.

@@ -1,0 +1,1 @@
+Art. 33. No caso de condenação, o Senado por iniciativa do presidente fixará o prazo de inabilitação do condenado para o exercício de qualquer função pública; e no caso de haver crime comum deliberará ainda sobre se o Presidente o deverá submeter à justiça ordinária, independentemente da ação de qualquer interessado.
