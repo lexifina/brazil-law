@@ -1,0 +1,1 @@
+Art. 38. Os contratos resultantes da aplicação desta Lei, quando celebrados com pessoa física, beneficiária final da operação, poderão ser formalizados por instrumento particular, não se lhe aplicando a norma do art. 134, II, do Código Civil.

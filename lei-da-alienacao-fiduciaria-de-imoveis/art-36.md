@@ -1,0 +1,1 @@
+Art. 36. Nos contratos de venda de imóveis a prazo, inclusive alienação fiduciária, de arrendamento mercantil de imóveis, de financiamento imobiliário em geral e nos títulos de que tratam os arts. 6º, 7º e 8º, admitir-se-á, respeitada a legislação pertinente, a estipulação de cláusula de reajuste e das condições e critérios de sua aplicação.

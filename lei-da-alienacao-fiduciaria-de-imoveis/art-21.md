@@ -1,0 +1,4 @@
+Art. 21. São suscetíveis de caução, desde que transmissíveis, os direitos aquisitivos sobre imóvel, ainda que em construção.
+§ 1º O instrumento da caução, a que se refere este artigo, indicará o valor do débito e dos encargos e identificará o imóvel cujos direitos aquisitivos são caucionados.
+§ 2º Referindo-se a caução a direitos aquisitivos de promessa de compra e venda cujo preço ainda não tenha sido integralizado, poderá o credor caucionário, sobrevindo a mora do promissário comprador, promover a execução do seu crédito ou efetivar, sob protesto, o pagamento do saldo da promessa.
+§ 3º Se, nos termos do disposto no parágrafo anterior, o credor efetuar o pagamento, o valor pago, com todos os seus acessórios e eventuais penalidades, será adicionado à dívida garantida pela caução, ressalvado ao credor o direito de executar desde logo o devedor, inclusive pela parcela da dívida assim acrescida.

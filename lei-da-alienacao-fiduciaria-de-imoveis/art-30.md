@@ -1,0 +1,1 @@
+Art. 30. É assegurada ao fiduciário, seu cessionário ou sucessores, inclusive o adquirente do imóvel por força do público leilão de que tratam os §§ 1º e 2° do art. 27, a reintegração na posse do imóvel, que será concedida liminarmente, para desocupação em sessenta dias, desde que comprovada, na forma do disposto no art. 26, a consolidação da propriedade em seu nome.
