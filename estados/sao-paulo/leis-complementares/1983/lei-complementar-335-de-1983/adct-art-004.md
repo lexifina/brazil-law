@@ -1,0 +1,3 @@
+Artigo 4º - No primeiro processo de avaliação para acesso a ser realizado apos a publicação desta lei complementar, os atuais titulares de cargos e ocupantes de funções-atividades de Pesquisador Científico poderão ter os seus cargos e funções-atividades elevados a classes superiores, desde que observadas as seguintes exigências:
+I - tempo de efetivo exercício em atividade de investigação científica ou tecnológica, superior a soma dos interstícios fixados no artigo 9º da Lei Complementar nº 125, de 18 de novembro de 1975, na redação dada pelo artigo 1º desta lei complementar, para as classes anteriores àquela em que o Pesquisador Científico vier a ser enquadrado;
+II - classificação obtida no processo de avaliação.

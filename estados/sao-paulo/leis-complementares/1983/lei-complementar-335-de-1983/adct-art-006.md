@@ -1,0 +1,1 @@
+Artigo 6º - Os processos de avaliação e classificação dos funcionários e servidores de que tratam os artigos 1º, 2º e 4º destas Disposições Transitórias serão realizados simultaneamente, obedecendo os mesmos critérios.
