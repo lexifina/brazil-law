@@ -1,1 +1,1 @@
-Art. 17-N. Os preços dos serviços técnicos do Laboratório de Produtos Florestais do IBAMA, assim como os para venda de produtos da flora, serão, também, definidos em portaria do Ministro de Estado do Meio Ambiente, mediante proposta do Presidente daquele Instituto.
+Art. 17-N. Os preços dos serviços técnicos do Laboratório de Produtos Florestais do Ibama, assim como os para venda de produtos da flora, serão, também, definidos em portaria do Ministro de Estado do Meio Ambiente, mediante proposta do Presidente daquele Instituto.

@@ -1,1 +1,1 @@
-Art. 17-D. A TFA será cobrada a partir de 1º de janeiro de 2000, e o seu recolhimento será efetuado em conta bancária vinculada ao IBAMA, por intermédio de documento próprio de arrecadação daquele Instituto.
+Art. 17-D. A TFA será cobrada a partir de 1º de janeiro de 2000, e o seu recolhimento será efetuado em conta bancária vinculada ao Ibama, por intermédio de documento próprio de arrecadação daquele Instituto.

@@ -1,4 +1,4 @@
-Art. 17-C. A TFA será devida em conformidade com o fato gerador e o seu valor corresponderá à importância de R$ 5.000,00 (cinco mil reais).
-§ 1º Será concedido desconto de cinqüenta por cento para empresas de pequeno porte, de noventa por cento para microempresas e de noventa e cinco por cento para pessoas físicas.
-§ 2º O contribuinte deverá apresentar ao IBAMA, no ato do cadastramento ou quando por ele solicitada, a comprovação da sua respectiva condição, para auferir do benefício dos descontos concedidos sobre o valor da TFA, devendo, anualmente, atualizar os dados de seu cadastro junto àquele Instituto.
-§ 3º Ficam isentas do pagamento da TFA, as entidades públicas federais, distritais, estaduais e municipais, em obediência ao constante da alínea "a" do inciso IV do art. 9º do Código Tributário Nacional.
+Art. 17-C. A TFA será devida em conformidade com o fato gerador e o seu valor corresponderá à importância de R$ 3.000,00 (três mil reais).
+§ 1º Será concedido desconto de 50% (cinqüenta por cento) para empresas de pequeno porte, de 90% (noventa por cento) para microempresas e de 95% (noventa e cinco por cento) para pessoas físicas.
+§ 2º O contribuinte deverá apresentar ao Ibama, no ato do cadastramento ou quando por ele solicitada, a comprovação da sua respectiva condição, para auferir do benefício dos descontos concedidos sobre o valor da TFA, devendo, anualmente, atualizar os dados de seu cadastro junto àquele Instituto.
+§ 3º São isentas do pagamento da TFA, as entidades públicas federais, distritais, estaduais e municipais, em obediência ao constante da alínea "a" do inciso IV do art. 9º do Código Tributário Nacional.
