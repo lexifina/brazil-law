@@ -1,4 +1,4 @@
-Art. 4º A parte, que pretender gozar os benefícios da assistência judiciária, requererá ao Juiz competente lhes conceda, mencionando, na petição, o rendimento ou vencimento que percebe e os encargos próprios e os da família.
-§ 1º A petição será instruída por um atestado de que conste ser o requerente necessitado, não podendo pagar as despesas do processo. Este documento será expedido, isento de selos e emolumentos, pela autoridade policial ou pelo Prefeito Municipal, sendo dispensado à vista de contrato de trabalho comprobatório de que o mesmo percebe salários igual ou inferior ao dobro do mínimo legal regional.
-§ 2º - Nas capitais dos Estados e no Distrito Federal, o atestado da competência do Prefeito poderá ser expedido por autoridade expressamente designada pelo mesmo.
+Art. 4º. A parte gozará dos benefícios da assistência judiciária, mediante simples afirmação, na própria petição inicial, de que não está em condições de pagar as custas do processo e os honorários de advogado, sem prejuízo próprio ou de sua família.
+§ 1º. Presume-se pobre, até prova em contrário, quem afirmar essa condição nos termos desta lei, sob pena de pagamento até o décuplo das custas judiciais.
+§ 2º. A impugnação do direito à assistência judiciária não suspende o curso do processo e será feita em autos apartados.
 § 3º A apresentação da carteira de trabalho e previdência social, devidamente legalizada, onde o juiz verificará a necessidade da parte, substituirá os atestados exigidos nos §§ 1º e 2º deste artigo.
