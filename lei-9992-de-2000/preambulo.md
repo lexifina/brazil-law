@@ -1,0 +1,2 @@
+Altera a destinação de receitas próprias decorrentes de contratos firmados pelo Departamento Nacional de Estradas de Rodagem, visando o financiamento de programas e projetos de pesquisa científica e desenvolvimento tecnológico do setor produtivo na área de transportes terrestres, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
