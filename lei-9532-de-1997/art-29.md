@@ -1,0 +1,4 @@
+Art. 29. Para fins de incidência do imposto de renda na fonte, consideram-se pagos ou creditados aos quotistas dos fundos de investimento, na data em que se completar o primeiro período de carência em 1998, os rendimentos correspondentes à diferença positiva entre o valor da quota em 31 de dezembro de 1997 e o respectivo custo de aquisição.
+§ 1º Na hipótese de resgate anterior ao vencimento do período de carência, a apuração dos rendimentos terá por base o valor da quota na data do último vencimento da carência, ocorrido em 1997.
+§ 2º No caso de fundos sem prazo de carência para resgate de quotas, com rendimento integral, consideram-se pagos ou creditados os rendimentos no dia 2 de janeiro de 1998.
+§ 3º Os rendimentos de que trata este artigo serão tributados pelo imposto de renda na fonte, à alíquota de quinze por cento, na data da ocorrência do fato gerador.

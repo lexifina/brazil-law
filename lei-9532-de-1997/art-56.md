@@ -1,0 +1,2 @@
+Art. 56. O inciso IV do art. 1º da Lei nº 9.440, de 1997, passa a vigorar com a seguinte redação:
+"IV - redução de cinqüenta por cento do imposto sobre produtos industrializados incidente na aquisição de máquinas, equipamentos, inclusive de testes, ferramental, moldes e modelos para moldes, instrumentos e aparelhos industriais e de controle de qualidade, novos, importados ou de fabricação nacional, bem como os respectivos acessórios, sobressalentes e peças de reposição;".

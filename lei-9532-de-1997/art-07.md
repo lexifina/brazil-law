@@ -1,0 +1,14 @@
+Art. 7º A pessoa jurídica que absorver patrimônio de outra, em virtude de incorporação, fusão ou cisão, na qual detenha participação societária adquirida com ágio ou deságio, apurado segundo o disposto no art. 20 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977:
+I - deverá registrar o valor do ágio ou deságio cujo fundamento seja o de que trata a alínea "a" do § 2º do art. 20 do Decreto-Lei nº 1.598, de 1977, em contrapartida à conta que registre o bem ou direito que lhe deu causa;
+II - deverá registrar o valor do ágio cujo fundamento seja o de que trata a alínea "c" do § 2º do art. 20 do Decreto-Lei nº 1.598, de 1977, em contrapartida a conta de ativo permanente, não sujeita a amortização;
+III - poderá amortizar o valor do ágio cujo fundamento seja o de que trata a alínea "b " do § 2º do art. 20 do Decreto-Lei nº 1.598, de 1977, nos balanços correspondentes à apuração de lucro real, levantados em até dez anos-calendários subseqüentes à incorporação, fusão ou cisão, à razão de 1/60 (um sessenta avos), no máximo, para cada mês do período de apuração;
+IV - deverá amortizar o valor do deságio cujo fundamento seja o de que trata a alínea "b" do § 2º do art. 20 do Decreto-Lei nº 1.598, de 1977, nos balanços correspondentes à apuração de lucro real, levantados durante os cinco anos-calendários subseqüentes à incorporação, fusão ou cisão, à razão de 1/60 (um sessenta avos), no mínimo, para cada mês do período de apuração.
+§ 1º O valor registrado na forma do inciso I integrará o custo do bem ou direito para efeito de apuração de ganho ou perda de capital e de depreciação, amortização ou exaustão.
+§ 2º Se o bem que deu causa ao ágio ou deságio não houver sido transferido, na hipótese de cisão, para o patrimônio da sucessora, esta deverá registrar:
+a) o ágio, em conta de ativo diferido, para amortização na forma prevista no inciso III;
+b) o deságio, em conta de receita diferida, para amortização na forma prevista no inciso IV.
+§ 3º O valor registrado na forma do inciso II do caput:
+a) será considerado custo de aquisição, para efeito de apuração de ganho ou perda de capital na alienação do direito que lhe deu causa ou na sua transferência para sócio ou acionista, na hipótese de devolução de capital;
+b) poderá ser deduzido como perda, no encerramento das atividades da empresa, se comprovada, nessa data, a inexistência do fundo de comércio ou do intangível que lhe deu causa.
+§ 4º Na hipótese da alínea "b" do parágrafo anterior, a posterior utilização econômica do fundo de comércio ou intangível sujeitará a pessoa física ou jurídica usuária ao pagamento dos tributos e contribuições que deixaram de ser pagos, acrescidos de juros de mora e multa, calculados de conformidade com a legislação vigente.
+§ 5º O valor que servir de base de cálculo dos tributos e contribuições a que se refere o parágrafo anterior poderá ser registrado em conta do ativo, como custo do direito.

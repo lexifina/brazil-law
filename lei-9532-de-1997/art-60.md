@@ -1,0 +1,1 @@
+Art. 60. O valor dos lucros distribuídos disfarçadamente, de que tratam os arts. 60 a 62 do Decreto-Lei nº 1.598, de 1977, com as alterações do art. 20 do Decreto-Lei nº 2.065, de 26 de outubro de 1983, serão, também, adicionados ao lucro líquido para efeito de determinação da base de cálculo da contribuição social sobre o lucro líquido.

@@ -1,0 +1,2 @@
+Art. 24. Na declaração de bens correspondente à declaração de rendimentos das pessoas físicas, relativa ao ano-calendário de 1997, a ser apresentada em 1998, os bens adquiridos até 31 de dezembro de 1995 deverão ser informados pelos valores apurados com observância do disposto no art. 17 da Lei nº 9.249, de 1995.
+Parágrafo único. A Secretaria da Receita Federal expedirá as normas necessárias à aplicação do disposto neste artigo.

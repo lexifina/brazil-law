@@ -1,0 +1,1 @@
+Art. 32. O imposto de que tratam os arts. 28 a 31 será retido pelo administrador do fundo de investimento na data da ocorrência do fato gerador e recolhido até o terceiro dia útil da semana subseqüente.

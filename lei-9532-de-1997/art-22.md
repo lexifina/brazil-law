@@ -1,0 +1,1 @@
+Art. 22. A soma das deduções a que se referem os incisos I a III do art. 12 da Lei nº 9.250, de 1995, fica limitada a seis por cento do valor do imposto devido, não sendo aplicáveis limites específicos a quaisquer dessas deduções.

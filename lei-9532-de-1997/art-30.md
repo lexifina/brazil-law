@@ -1,0 +1,1 @@
+Art. 30. O imposto de que trata o § 3º do artigo anterior, retido pela instituição administradora do fundo, na data da ocorrência do fato gerador, será recolhido em quota única, até o terceiro dia útil da semana subseqüente.

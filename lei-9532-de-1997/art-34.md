@@ -1,0 +1,1 @@
+Art. 34. O disposto nos arts. 28 a 31 não se aplica aos fundos de investimento de que trata o art. 81 da Lei nº 8.981, de 1995, que continuam sujeitos às normas de tributação previstas na legislação vigente.
