@@ -1,1 +1,1 @@
-Art. 4º Poderá ser ajuizada ação cautelar para os fins desta Lei, objetivando, inclusive, evitar o dano ao meio-ambiente, ao consumidor, aos bens e direitos de valor artístico, estético, histórico, turístico e paisagístico (VETADO).
+Art. 4º Poderá ser ajuizada ação cautelar para os fins desta Lei, objetivando, inclusive, evitar o dano ao meio ambiente, ao consumidor, à ordem urbanística ou aos bens e direitos de valor artístico, estético, histórico, turístico e paisagístico (VETADO).
