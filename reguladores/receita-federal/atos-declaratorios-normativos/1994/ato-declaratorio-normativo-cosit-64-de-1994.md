@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 64, de 11 de novembro de 1994
+"Dispõe sobre o alcance da redução de alíquota prevista na NC (87-10) ao Capítulo 87 da TIPI."
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o art. 147, inciso III, do Regimento Interno aprovado pela Portaria Ministerial nº 606, de 3 de setembro de 1992,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal e aos demais interessados que continuam alcançados pela redução de alíquota prevista na Nota Complementar-NC (87-10), criada pelo Decreto nº 207, de 6 de setembro de 1991 (D.O.U. de 09.09.91), ao Capítulo 87 da Tabela de Incidência do Imposto sobre Produtos Industrializados, aprovada pelo Decreto nº 97.410, de 23 de dezembro de 1988 (TIPI), todos os veículos ali relacionados, obedecidas suas respectivas classificações na referida TIPI, com as alterações efetuadas até 09.09.91, mesmo que, após esta data, tenham sido tais classificações modificadas em virtude de alterações introduzidas na Nomenclatura Brasileira de Mercadorias (NBM/SH).
+ARISTÓFANES FONTOURA DE HOLANDA
