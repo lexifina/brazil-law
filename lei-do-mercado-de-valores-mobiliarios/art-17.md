@@ -1,2 +1,3 @@
-Art. 17. As Bolsas de Valores e as entidades de mercado de balcão organizado terão autonomia administrativa, financeira e patrimonial, operando sob a supervisão da Comissão de Valores Mobiliários.
-Parágrafo único. Às Bolsas de Valores e às entidades de mercado de balcão organizado incumbe, como órgãos auxiliares da Comissão de Valores Mobiliários, fiscalizar os respectivos membros e as operações nelas realizadas.
+Art. 17. As Bolsas de Valores, as Bolsas de Mercadorias e Futuros, as entidades do mercado de balcão organizado e as entidades de compensação e liquidação de operações com valores mobiliários terão autonomia administrativa, financeira e patrimonial, operando sob a supervisão da Comissão de Valores Mobiliários.
+§ 1º Às Bolsas de Valores, às Bolsas de Mercadorias e Futuros, às entidades do mercado de balcão organizado e às entidades de compensação e liquidação de operações com valores mobiliários incumbe, como órgãos auxiliares da Comissão de Valores Mobiliários, fiscalizar os respectivos membros e as operações com valores mobiliários nelas realizadas.
+§ 2º (VETADO)
