@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 526, de 15 de março de 2005
+Dispõe sobre a opção pelos regimes de incidência da Contribuição para o PIS/Pasep e da Cofins, de que tratam o art. 52 da Lei nº 10.833, de 29 de dezembro de 2003, o art. 23 da Lei nº 10.865, de 30 de abril de 2004, e o art. 4º da Medida Provisória nº 227, de 6 de dezembro de 2004.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 52 da Lei nº 10.833, de 29 de dezembro de 2003, no art. 23 da Lei nº 10.865, de 30 de abril de 2004, e no art. 4º da Medida Provisória nº 227, de 6 de dezembro de 2004, resolve:
