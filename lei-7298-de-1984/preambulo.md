@@ -1,0 +1,2 @@
+Autoriza o Poder Executivo a criar o Conselho Nacional de Vitivinicultura - CONAVIN, dispõe sobre o Plano Nacional da Vitivinicultura, o seguro e o preço mínimo da uva, e dá outras providências.
+Faço saber que o CONGRESSO NACIONAL decretou, o PRESIDENTE DA REPÚBLICA, nos termos do § 2º do art. 59, da Constituição Federal, sancionou e eu MOACYR DALLA, PRESIDENTE do SENADO FEDERAL, nos termos do § 5º art. 59 da Constituição Federal, promulgo a seguinte Lei:
