@@ -1,2 +1,1 @@
-Art. 5º As contratações somente poderão ser feitas com observância da dotação orçamentária específica e mediante prévia autorização do Ministro de Estado ou do Secretário da Presidência da República sob cuja supervisão se encontrar o órgão ou entidade contratante.
-Parágrafo único. Os órgãos ou entidades contratantes encaminharão à Secretaria da Administração Federal, para controle da aplicação do disposto nesta Lei, cópia dos contratos efetivados.
+Art. 5º As contratações somente poderão ser feitas com observância da dotação orçamentária específica e mediante prévia autorização do Ministro de Estado do Planejamento, Orçamento e Gestão e do Ministro de Estado sob cuja supervisão se encontrar o órgão ou entidade contratante, conforme estabelecido em regulamento.
