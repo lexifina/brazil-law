@@ -1,0 +1,2 @@
+Art. 7º No caso de construção por empreitada ou de fornecimento a preço predeterminado de bens ou serviços, contratados por pessoa jurídica de direito público, empresa pública, sociedade de economia mista ou suas subsidiárias, o pagamento das contribuições de que trata o art. 2º desta Lei poderá ser diferido, pelo contratado, até a data do recebimento do preço.
+Parágrafo único. A utilização do tratamento tributário previsto no caput deste artigo é facultada ao subempreiteiro ou subcontratado, na hipótese de subcontratação parcial ou total da empreitada ou do fornecimento.

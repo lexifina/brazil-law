@@ -1,0 +1,2 @@
+Art. 5º As distribuidoras de álcool para fins carburantes ficam obrigadas a cobrar e a recolher, na condição de contribuintes substitutos, as contribuições referidas no art. 2º, devidas pelos comerciantes varejistas do referido produto, relativamente às vendas que lhes fizerem.
+Parágrafo único. Na hipótese deste artigo, a contribuição será calculada sobre o preço de venda do distribuidor, multiplicado por um inteiro e quatro décimos.
