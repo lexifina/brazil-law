@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 458, de 17 de outubro de 2004
+Dispõe sobre a incidência não-cumulativa da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social (Cofins) sobre as receitas decorrentes das atividades de revenda de imóveis, desmembramento ou loteamento de terrenos, incorporação imobiliária e construção de prédio destinado à venda.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto nos arts. 1º ao 5º, 10 e 11, da Lei nº 10.637, de 30 de dezembro de 2002, nos arts. 1o ao 6o, 10 a 13, 15 e 16, da Lei nº 10.833, de 29 de dezembro de 2003, nos arts. 1º e 15, da Lei nº 10.865, de 30 de abril de 2004, na Medida Provisória nº 219, de 30 de setembro de 2004, e no Decreto nº 5.164, de 30 de julho de 2004, resolve:
+Do Âmbito de Aplicação
