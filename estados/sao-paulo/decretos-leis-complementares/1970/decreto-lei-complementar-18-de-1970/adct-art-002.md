@@ -1,0 +1,1 @@
+Artigo 2º - As instituições de previdência já existentes na data da publicação dêste decreto-lei complementar continuarão a realizar os financiamentos de que tratam os parágrafos 1º e 2º do artigo 5º, durante o prazo que fôr fixado pela Junta de Coordenação Financeira, observado sempre o disposto nos referidos parágrafos.
