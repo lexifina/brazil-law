@@ -1,0 +1,1 @@
+Art. 11. Dentro de sessenta (60) dias, contados da vigência da presente Lei, serão instalados os Conselhos Regionais correspondentes aos Estados onde existirem órgãos sindicais de representação da classe dos representantes comerciais, atualmente reconhecidos pelo Ministério do Trabalho e Previdência Social.
