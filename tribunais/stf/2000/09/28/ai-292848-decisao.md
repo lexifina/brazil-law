@@ -1,0 +1,13 @@
+FGTS. CORREÇÃO MONETÁRIA EM FUNÇÃO
+DOS EXPURGOS INFLACIONÁRIOS.
+QUESTÃO DE DIREITO INTERTEMPORAL.
+JULGAMENTO NO PLENÁRIO: RE 226.855,
+MOREIRA. SEGUIMENTO DO RE PARA
+MELHOR EXAME.
+D E C I S Ã O
+Dou provimento ao agravo.
+Subam os autos do RE para melhor exame.
+Publique-se.
+Brasília, 28 de setembro de 2000.
+Ministro NELSON JOBIM
+Relator
