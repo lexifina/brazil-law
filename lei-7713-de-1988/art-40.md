@@ -7,7 +7,7 @@ b) no caso do mercado de opções:
 2. nas operações de exercício, a diferença positiva apurada entre o valor de venda à vista ou o preço médio à vista na data do exercício e o preço fixado para o exercício, ou a diferença positiva entre o preço do exercício acrescido do prêmio e o custo de aquisição;
 c) no caso dos mercados a termo, a diferença positiva apurada entre o valor da venda à vista ou o preço médio à vista na data da liquidação do contrato a termo e o preço neste estabelecido;
 d) no caso dos mercados futuros, o resultado líquido positivo dos ajustes diários apurados no período.
-§ 3º Se o contribuinte apurar resultado negativo no mês será admitida a sua apropriação nos meses subseqüentes.
+§ 3º Se o contribuinte apurar resultado negativo no mês será admitida a sua apropriação nos meses subseqüente.
 § 4º O imposto deverá ser pago até o último dia útil da primeira quinzena do mês subseqüente ao da percepção dos rendimentos.
 § 5º Opcionalmente, o contribuinte poderá pagar o imposto, anualmente, observado o disposto nos §§ 1º a 6º do art. 24 desta Lei
 § 6º O Poder Executivo poderá baixar normas para apuração e demonstração de ganhos líquidos, bem como autorizar a compensação de perdas entre dois ou mais mercados ou modalidades operacionais, previstos neste artigo.
