@@ -12,6 +12,7 @@ X - elaborar o seu orçamento e proceder à execução financeira;
 XI - adquirir e alienar bens, adotando os procedimentos legais adequados para efetuar sua incorporação e desincorporação;
 XII - administrar pessoal, patrimônio, material e serviços gerais.
 XVII -
-§ 1º As atribuições a que se refere o caput não se aplicam aos elementos da infra-estrutura concedidos ou arrendados pela ANTT e pela ANTAQ, à exceção das competências expressas no art. 21 da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, que serão sempre exercidas pelo DNIT, diretamente ou mediante convênios de delegação.
+§ 1º As atribuições a que se refere o caput não se aplicam aos elementos da infra-estrutura concedidos ou arrendados pela ANTT e pela ANTAQ.
 § 2º No exercício das atribuições previstas neste artigo e relativas a vias navegáveis e instalações portuárias, o DNIT observará as prerrogativas específicas da Autoridade Marítima.
+§ 3º É, ainda, atribuição do DNIT, em sua esfera de atuação, exercer, diretamente ou mediante convênio, as competências expressas no art. 21 da Lei nº 9.503, de 1997, observado o disposto no inciso XVII do art. 24 desta Lei.
 § 4º.
