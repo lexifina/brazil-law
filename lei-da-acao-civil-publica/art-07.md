@@ -1,0 +1,1 @@
+Art. 7º Se, no exercício de suas funções, os juízes e tribunais tiverem conhecimento de fatos que possam ensejar a propositura da ação civil, remeterão peças ao Ministério Público para as providências cabíveis.
