@@ -1,3 +1,4 @@
 Art. 74. As primeiras nomeações de Juízes Federais e de Juízes Federais Substitutos serão feitas por livre escolha do Presidente da República, dentre brasileiros de saber jurídico e reputação ilibada.
 § 1º A nomeação do Juiz Federal e do Juiz Federal Substituto será precedida do assentimento do Senado Federal.
 § 2º Para o primeiro provimento dos cargos dos serviços auxiliares da Justiça Federal poderão ser aproveitados servidores estáveis da União, inclusive das Secretarias dos Tribunais Federais e das Varas da Fazenda Federal do Distrito Federal, e, ainda, servidores estáveis das Varas da Fazenda Nacional dos Estados.
+§ 3º - Nas Seções Judiciárias em que houver mais de uma Vara, os decretos de nomeação dos Juízes Federais designarão as Varas de que serão Titulares.

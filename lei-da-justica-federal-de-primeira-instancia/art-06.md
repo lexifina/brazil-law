@@ -1,5 +1,5 @@
 Art. 6º Ao Conselho da Justiça Federal compete:
-I - conhecer de correição parcial requerida pela parte ou pela Procuradoria da República contra ato ou despacho do Juiz de que não caiba recurso ou que importe êrro de ofício ou abuso de poder;
+I - Conhecer de correição parcial requerida pela parte ou pela Procuradoria da República, no prazo de cinco dias, contra ato ou despacho do Juiz de que não caiba recurso, ou comissão que importe êrro de ofício ou abuso de poder.
 II - determinar, mediante provimento, as providências necessárias ao regular funcionamento da Justiça e à disciplina forense;
 III - organizar e fazer realizar concursos para o provimento dos cargos de Juiz Federal Substituto e dos serviços auxiliares da Justiça Federal;
 IV - propor ao Presidente da República, por intermédio do Ministério da Justiça e Negócios Interiores, a nomeação dos candidatos aprovados em concurso, obedecida a ordem de classificação, e os demais atos de provimento e vacância dos cargos de Juiz Federal Substituto e de servidor da Justiça Federal;
