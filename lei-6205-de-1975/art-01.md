@@ -7,5 +7,5 @@ IV - o salário base e os benefícios da Lei nº 5.859, de 11 de dezembro de 197
 V - o benefício instituído pela Lei nº 6.179, de 11 de dezembro de 1974;
 VI - (VETADO).
 § 2º (VETADO).
-§ 3º Para os efeitos do disposto no artigo 5º da Lei nº 5.890, de 1973, os montantes atualmente correspondentes aos limites de 10 e 20 vezes o maior salário mínimo vigente serão reajustados de acordo com o disposto nos artigos 1º e 2º da Lei nº 6.147, de 29 de novembro de 1974.
+§ 3º Para os efeitos do disposto no artigo 5º da Lei nº 5.890, de 1973, os montantes atualmente correspondentes a 10 e 20 vezes o maior salário mínimo vigente serão corrigidos de acordo com o Índice Nacional de Preços ao Consumidor.
 § 4º Aos contratos com prazo determinado, vigentes na data da publicação desta Lei, inclusive os de locação, não se aplicarão, até o respectivo término, as disposições deste artigo.
