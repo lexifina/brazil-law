@@ -1,0 +1,1 @@
+Art. 31. O Conselho de Assessoramento Superior poderá propor aos Conselhos Superiores dos diferentes ramos do Ministério Público da União medidas para uniformizar os atos decorrentes de seu poder normativo.

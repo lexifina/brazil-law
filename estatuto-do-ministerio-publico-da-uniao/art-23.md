@@ -1,0 +1,4 @@
+Art. 23. O Ministério Público da União elaborará sua proposta orçamentária dentro dos limites da lei de diretrizes orçamentárias.
+§ 1º Os recursos correspondentes às suas dotações orçamentárias, compreendidos os créditos suplementares e especiais, ser-lhe-ão entregues até o dia vinte de cada mês.
+§ 2º A fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Ministério Público da União será exercida pelo Congresso Nacional, mediante controle externo, com o auxílio do Tribunal de Contas da União, segundo o disposto no Título IV, Capítulo I, Seção IX, da Constituição Federal, e por sistema próprio de controle interno.
+§ 3º As contas referentes ao exercício anterior serão prestadas, anualmente, dentro de sessenta dias da abertura da sessão legislativa do Congresso Nacional.
