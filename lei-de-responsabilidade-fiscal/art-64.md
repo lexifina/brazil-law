@@ -1,0 +1,3 @@
+Art. 64. A União prestará assistência técnica e cooperação financeira aos Municípios para a modernização das respectivas administrações tributária, financeira, patrimonial e previdenciária, com vistas ao cumprimento das normas desta Lei Complementar.
+§ 1º A assistência técnica consistirá no treinamento e desenvolvimento de recursos humanos e na transferência de tecnologia, bem como no apoio à divulgação dos instrumentos de que trata o art. 48 em meio eletrônico de amplo acesso público.
+§ 2º A cooperação financeira compreenderá a doação de bens e valores, o financiamento por intermédio das instituições financeiras federais e o repasse de recursos oriundos de operações externas.
