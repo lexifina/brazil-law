@@ -1,0 +1,2 @@
+Art. 33. O locatário preterido no seu direito de preferência poderá reclamar do alienante as perdas e danos ou, depositando o preço e demais despesas do ato de transferência, haver para si o imóvel locado, se o requerer no prazo de seis meses, a contar do registro do ato no cartório de imóveis, desde que o contrato de locação esteja averbado pelo menos trinta dias antes da alienação junto à matrícula do imóvel.
+Parágrafo único. A averbação far - se - á à vista de qualquer das vias do contrato de locação desde que subscrito também por duas testemunhas.
