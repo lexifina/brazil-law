@@ -1,0 +1,1 @@
+Art. 2º-A. O beneficiário de titular de conta vinculada do FGTS, falecido, terá direito ao crédito do complemento de atualização monetária de que trata a Lei Complementar nº 110, de 2001, com a redução nela prevista, em parcela única, desde que tenha sido firmado pelo beneficiário ou pelo próprio titular o termo de adesão de que trata o art. 6º da mencionada Lei Complementar.
