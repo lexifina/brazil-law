@@ -1,0 +1,2 @@
+Art. 17. O juiz condenará a associação autora a pagar ao réu os honorários advocatícios arbitrados na conformidade do § 4º do art. 20 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, quando reconhecer que a pretensão é manifestamente infundada.
+Parágrafo único. Em caso de litigância de má-fé, a associação autora e os diretores responsáveis pela propositura da ação serão solidariamente condenados ao décuplo das custas, sem prejuízo da responsabilidade por perdas e danos.

@@ -1,0 +1,3 @@
+Art. 12. Poderá o juiz conceder mandado liminar, com ou sem justificação prévia, em decisão sujeita a agravo.
+§ 1º A requerimento de pessoa jurídica de direito público interessada, e para evitar grave lesão à ordem, à saúde, à segurança e à economia pública, poderá o Presidente do Tribunal a que competir o conhecimento do respectivo recurso suspender a execução da liminar, em decisão fundamentada, da qual caberá agravo para uma das turmas julgadoras, no prazo de 5 (cinco) dias a partir da publicação do ato.
+§ 2º A multa cominada liminarmente só será exigível do réu após o trânsito em julgado da decisão favorável ao autor, mas será devida desde o dia em que se houver configurado o descumprimento.
