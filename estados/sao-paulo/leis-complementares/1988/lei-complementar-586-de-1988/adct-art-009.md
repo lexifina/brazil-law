@@ -1,0 +1,1 @@
+Artigo 9º - O disposto no artigo 7º das Disposições Transitórias da Lei Complementar nº 558, de 15 de julho de 1988, aplica-se aos servidores ocupantes de funções-atividades de natureza permanente de mesma denominação.

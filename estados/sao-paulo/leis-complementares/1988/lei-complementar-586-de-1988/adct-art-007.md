@@ -1,0 +1,1 @@
+Artigo 7º - No cálculo da gratificação de Natal correspondente ao exercício de 1988, não será computada a gratificação concedida nos termos do artigo 1º da Lei Complementar nº 468, de 2 de julho de 1986.
