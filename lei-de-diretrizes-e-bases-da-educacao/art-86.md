@@ -1,0 +1,1 @@
+Art. 86. As instituições de educação superior constituídas como universidades integrar-se-ão, também, na sua condição de instituições de pesquisa, ao Sistema Nacional de Ciência e Tecnologia, nos termos da legislação específica.
