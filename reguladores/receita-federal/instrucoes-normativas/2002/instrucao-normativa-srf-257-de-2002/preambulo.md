@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 257, de 11 de dezembro de 2002
+Dispõe sobre a tributação dos resultados da atividade rural na apuração do imposto de renda das pessoas jurídicas.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto nas Leis nº 8.023, de 12 de abril de 1990, nº 8.981, de 20 de janeiro de 1995, nº 9.065, de 20 de junho de 1995, nº 9.249, de 26 de dezembro de 1995, nº 9.250, de 26 de dezembro de 1995, e nº 9.430, de 27 de dezembro de 1996, e nas Medidas Provisórias nº 2.158-35, de 24 de agosto de 2001, nº 2.159-70, de 24 de agosto de 2001, nº 2.183-56, de 24 de agosto de 2001, e nº 66, de 29 de agosto de 2002, resolve:
+Normas aplicáveis
