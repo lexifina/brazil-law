@@ -1,0 +1,2 @@
+Art. 6º - A contribuição de que trata este Decreto-lei corresponderá ao prazo de validade do Certificado de Censura expedido pela Divisão de Censura de Diversões Públicas do Departamento de Polícia Federal, sendo devida novamente sempre que houver renovação do Certificado de Censura.
+Parágrafo único. Mesmo vencido o Certificado de Censura a ela correspondente, independerá do pagamento de nova contribuição a exibição do filme em retrospectivas, mostras especiais ou eventos semelhantes, de interesse artístico e cultural, desde que previamente autorizada pela EMBRAFILME.
