@@ -1,0 +1,3 @@
+Artigo 9° - Para os inativos cujos proventos tenham sido calculados em função das jornadas de trabalho a que estiveram sujeitos nos 5 (cinco) anos imediatamente anteriores à aposentadoria, nos termos do § 2° do artigo 78 da Lei Complementar nº 180, de 12 de maio de 1978, ou do § 2° do artigo 30 da Lei Complementar nº 201, de 9 de novembro de 1978, bem como proporcionalmente ao tempo de serviço, a revisão de proventos far-se-á na seguinte conformidade:
+I - inicialmente, mediante observância dos incisos I a VI do artigo 70 destas disposições transitórias, apurar-se-á o valor que servirá de base para a revisão;
+II - em seguida, calcular-se-ão os proventos sobre o valor aludido no inciso anterior, proporcionalmente ao tempo de serviço.

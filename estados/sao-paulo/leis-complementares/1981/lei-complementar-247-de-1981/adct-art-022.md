@@ -1,0 +1,1 @@
+Artigo 22 - O enquadramento do pessoal abrangido pelo artigo 23 desta lei complementar far-se-á mediante aplicação sucessiva das regras de enquadramento previstas na Lei Complementar nº 180, de 12 de maio de 1978, e nesta lei complementar.

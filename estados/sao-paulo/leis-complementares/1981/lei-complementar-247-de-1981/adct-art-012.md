@@ -1,0 +1,1 @@
+Artigo 12 - Os proventos dos aposentados em cargos ou funções cujas denominações não coincidam com as estabelecidas nos Anexos de Enquadramento das Classes nas Escalas de Vencimentos 1 a 7 desta lei complementar serão fixados por decreto, observadas as regras de enquadramento previstas nestas disposições transitórias.

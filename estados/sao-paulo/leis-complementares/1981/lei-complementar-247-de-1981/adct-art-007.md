@@ -1,0 +1,15 @@
+Artigo 7º - Aos inativos cujos proventos tenham sido calculados em função das jornadas de trabalho a que estiveram sujeitos nos 5 (cinco) anos imediatamente anteriores à aposentadoria, nos termos do § 2° do artigo 78 da Lei Complementar nº 180, de 12 de maio de 1978, ou do § 2° do artigo 30 da Lei Complementar n.º 201, de 9 de novembro de 1978, aplicar-se-ão as seguintes regras de revisão de proventos:
+I - apurar-se-á o valor correspondente à soma das seguintes parcelas:
+a) padrão do cargo ou função-atividade sobre o qual são calculados os proventos do inativo, adotando-se o valor fixado em 28 de fevereiro de 1981:
+1. na Tabela I da Escala de Vencimentos de que cuida a Lei Complementar nº 180, de 12 de maio de 1978, alterada pela Lei Complementar nº 192, de 12 de setembro de 1978, e pela Lei Complementar nº 229, de 28 de março de 1980, se os proventos tiverem sido calculados com base parcialmente naquela Tabela e parcialmente na Tabela II e/ou na Tabela III da mesma Escala;
+2. na Tabela II da Escala de Vencimentos aludida no item anterior, se os proventos tiverem sido calculados com base parcialmente naquela Tabela e parcialmente na Tabela III da mesma Escala;
+b) abono de que trata a Lei Complementar nº 216, de 2 de julho de 1979, mantido e reajustado pela Lei Complementar nº 229, de 28 de março de 1980;
+II - o resultado da soma apurada na forma do inciso anterior será multiplicado pelo coeficiente de enquadramento 1,70 (um inteiro e setenta centésimos);
+III - ao resultado da multiplicação prevista no inciso anterior somar-se-ão as parcelas percebidas em 28 de fevereiro de 1981 a título de:
+a) vantagem pessoal prevista no artigo 10 das Disposições Transitórias da Lei Complementar nº 180, de 12 de maio de 1978:
+b) vantagem pessoal concedida nos casos em que a retribuição do inativo, na parte relativa ao padrão sobre o qual são calculados os seus proventos, tenha excedido o valor da referência 77 da Escala de Vencimentos de que cuida a Lei Complementar nº 180, de 12 de maio de 1978, alterada pela Lei Complementar nº 192, de 12 de setembro de 1978, e pela Lei Complementar nº 229, de 28 de março de 1980;
+IV - respeitado o grau em que se encontrar classificado o inativo, a referência a ser utilizada para a revisão dos proventos será a de valor igual ao obtido na operação prevista no inciso anterior, determinada com base:
+a) na Tabela I da Escala de Vencimentos aplicável ao inativo, na hipótese do item l da alínea "a" do inciso I;
+b) na Tabela II da Escala de Vencimentos aplicável ao inativo, na hipótese do item 2 da alínea "a" do inciso I;
+V - para determinação da referência a ser utilizada para revisão dos proventos observar-se-ão ainda, se for o caso, as regras do parágrafo único do artigo 2°, bem como as do artigo 3°, ambos destas disposições transitórias;
+VI - determinados a referência e o grau na forma do inciso IV ou do inciso anterior, os proventos serão calculados nos termos do § 2° do artigo 78 da Lei Complementar nº 180, de 12 de maio de 1978, ou do § 2° do artigo 30 da Lei Complementar nº 201, de 9 de novembro de 1978, conforme o caso.

@@ -1,0 +1,7 @@
+Artigo 5° - Aplicadas as regras dos artigos 2° e 3° destas disposições transitórias, o funcionário ou servidor terá assegurada vantagem pessoal, de valor inalterado, desde que configurada uma das seguintes hipóteses:
+I - quando resultar enquadramento do cargo ou função-atividade em padrão cujo valor seja inferior ao apurado na forma do inciso III do artigo 2° destas disposições transitórias, caso em que a vantagem corresponderá à diferença entre os mencionados valores;
+II - quando o valor apurado na forma do inciso III do artigo 2° destas disposições transitórias, observado o grau em que se encontrar classificado o funcionário ou servidor, seja superior ao da maior referência prevista na Escala de Vencimentos e Tabela aplicáveis, caso em que a vantagem corresponderá à diferença entre os mencionados valores.
+§ 1° - Cessará a percepção da vantagem pessoal de que trata o inciso I no mês em que ocorrer qualquer das seguintes hipóteses:
+1. elevação do cargo ou função-atividade do funcionário ou servidor para padrão superior, salvo se em decorrência do disposto no artigo 95 da Lei Complementar nº 180, de 12 de maio de 1978:
+2. alteração dos valores da Escala de Vencimentos aplicável ao funcionário ou servidor.
+§ 2° - A vantagem pessoal a que se refere o inciso II será absorvida em futuros reajustes da Escala de Vencimentos aplicável ao funcionário ou servidor, não podendo a absorção exceder, em cada reajuste, 20% (vinte por cento) do valor da vantagem.

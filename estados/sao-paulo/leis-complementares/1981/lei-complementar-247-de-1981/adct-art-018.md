@@ -1,0 +1,1 @@
+Artigo 18 - Os afastamentos previstos nos incisos I e II do artigo 41 da Lei Complementar nº 201, de 9 de novembro de 1978, poderão, até 21 de dezembro de 1982 e a critério do Secretário da Educação, ser autorizados por prazos superiores aos fixados no artigo 42 da mesma lei complementar.

@@ -1,0 +1,1 @@
+Artigo 10 - Feita a revisão de proventos na forma dos artigos 6°, 7°, 8° ou 9° destas disposições transitórias, consignar-se-ão os pontos no prontuário do inativo mediante aplicação do artigo 4°, também destas disposições transitórias.

@@ -1,0 +1,3 @@
+Artigo 11 - Cumpridas as normas dos artigos 6°, 7°, 8° e 9° destas disposições transitórias, o inativo terá assegurada vantagem pessoal, de valor inalterável:
+I - relativamente ao artigo 6°, desde que configuradas as hipóteses previstas no artigo 5° destas disposições transitórias, caso em que este dispositivo será integralmente aplicado;
+II - relativamente aos artigos 7°, 8° e 9°, desde que a soma das parcelas referentes aos proventos, ao abono mensal e à sexta-parte dos proventos, calculados com base na legislação vigente em 28 de fevereiro de 1981, seja superior à soma das parcelas referentes aos proventos e à sexta-parte dos proventos, calculados com base nesta lei complementar, caso em que a vantagem corresponderá à diferença entre os valores das mencionadas somas.
