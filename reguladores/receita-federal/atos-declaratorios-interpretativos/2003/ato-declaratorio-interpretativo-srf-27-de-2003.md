@@ -1,0 +1,4 @@
+Ato Declaratório Interpretativo SRF nº 27, de 26 de dezembro de 2003
+Dispõe sobre a não incidência de multa na hipótese que menciona.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto na Instrução Normativa SRF nº 303, de 21 de fevereiro de 2003, referente à entrega de declarações relativas a evento de extinção, cisão, fusão ou incorporação e a possibilidade de transmissão pelo Receitanet apenas ter ocorrido em 1º de abril de 2003, declara:
+Artigo único. As multas por atraso na entrega de declaração, previstas no art. 7º da Lei nº 10.426, de 24 de abril de 2002, relativa a evento de extinção, cisão, fusão ou incorporação ocorrido em janeiro ou fevereiro de 2003, não se aplicam ao sujeito passivo que efetuou a entrega no dia 1º de abril de 2003.
