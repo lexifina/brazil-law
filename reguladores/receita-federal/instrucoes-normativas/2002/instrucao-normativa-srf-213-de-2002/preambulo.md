@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 213, de 7 de outubro de 2002
+Dispõe sobre a tributação de lucros, rendimentos e ganhos de capital auferidos no exterior pelas pessoas jurídicas domiciliadas no País.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 43 da Lei nº 5.172, de 25 de outubro de 1966 (CTN), alterado pelo art. 1º da Lei Complementar nº 104, de 10 de janeiro de 2001; nos arts. 25, 26 e 27 da Lei nº 9.249, de 26 de dezembro de 1995; nos arts. 16 e 17 da Lei nº 9.430, de 27 de dezembro de 1996; no art. 1º da Lei nº 9.532, de 10 de dezembro de 1997; no art. 3º da Lei nº 9.959, de 27 de janeiro de 2000; e nos arts. 34 e 74 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, resolve:
+Regime de tributação
