@@ -1,0 +1,25 @@
+# Decreto-Lei nº 9.550, de 06/08/1946
+
+DECRETO-LEI NDECRETO-LEI Nusuariousuario3172002-03-04T22:53:00Z2002-03-07T10:54:00Z11649360000.0000
+
+DECRETO-LEI N. 9.550 – DE 6 DE AGÔSTO DE 1946.
+
+Concede gratificação de 20% (vinte por cento) a funcionário com exercício em repartição sediada em zona insalubre.
+
+O Presidente da República, usando da atribuição que lhe confere o artigo 180, da Constituição,
+
+decreta:
+
+Art. 1º Fica concedida à Manuel Trigo, ocupante do cargo da classe B da carreira de Escrivão da Coletoria das Rendas Federais em Barra Bonita (4ª classe), no Estado de São Paulo, do Quadro Permanente do Ministério da Fazenda, a gratificação de 20% (vinte por cento) sôbre os vencimentos correspondentes ao primeiro semestre de 1946, na conformidade do disposto nos arts. 1º e 2º e seu parágrafo, do Decreto-lei n.º 9.267, de 20 de Maio de 1946.
+
+Art. 2º Fica aberto o crédito especial de mil cento e quarenta cruzeiros (Cr$ 1.140,00) para ocorrer à despesa, decorrente com o disposto neste Decreto-lei.
+
+Art. 3º O presente Decreto entrará em vigor na data de sua publicação.
+
+Art. 4º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 6 da agôsto de 1946, 125º da Independência e 58º da República.
+
+EURICO G. DUTRA.
+
+Gastão Vidigal
