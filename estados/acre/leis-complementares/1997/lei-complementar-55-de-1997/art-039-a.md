@@ -1,0 +1,1 @@
+Art. 39-A. As microempresas e empresas de pequeno porte optantes pelo Simples Nacional sujeitam-se ao rito e às regras previstas na Lei Complementar n. 123/2006, e às normas editadas pelo Comitê Gestor do Simples Nacional. ( Incluído pela Lei Complementar nº 302, de 22/07/2015 )

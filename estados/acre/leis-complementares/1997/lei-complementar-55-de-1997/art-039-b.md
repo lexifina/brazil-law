@@ -1,0 +1,1 @@
+Art. 39-B. As microempresas e empresas de pequeno porte, não optantes, ou que não preencherem as condições para enquadramento ou permanência no Simples Nacional, sujeitar-se-ão ao cumprimento da legislação tributária aplicável aos demais contribuintes do ICMS. ( Incluído pela Lei Complementar nº 302, de 22/07/2015 )

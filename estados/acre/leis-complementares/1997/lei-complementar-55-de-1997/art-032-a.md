@@ -1,0 +1,1 @@
+Art. 32-A Nas hipóteses dos incisos XIX e XXI do art. 5º, o crédito relativo às operações e prestações anteriores, deve ser deduzido apenas do débito correspondente ao imposto devido à unidade federada de origem. ( Incluído pela Lei Complementar nº 417, de 07/12/2022 )

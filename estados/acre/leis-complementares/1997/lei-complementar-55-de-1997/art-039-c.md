@@ -1,0 +1,1 @@
+Art. 39-C. A empresa optante pelo Simples Nacional que auferir receita bruta superior à última faixa de receita bruta adotada pelo Estado, conforme previsto no art. 19 da Lei Complementar n. 123/2006, relativamente ao ICMS, fica sujeita ao cumprimento da legislação tributária aplicável aos demais contribuintes do imposto. ( Incluído pela Lei Complementar nº 302, de 22/07/2015 )
