@@ -1,0 +1,1 @@
+Art. 27. Não cabe recurso de ofício das decisões prolatadas, pela autoridade fiscal da jurisdição do sujeito passivo, em processos relativos a restituição de impostos e contribuições administrados pela Secretaria da Receita Federal e a ressarcimento de créditos do Imposto sobre Produtos Industrializados.
