@@ -1,0 +1,1 @@
+Art. 7º - Recebida a denúncia ou a queixa, o relator designará dia e hora para o interrogatório, mandando citar o acusado ou querelado e intimar o órgão do Ministério Público, bem como o querelante ou o assistente, se for o caso.
