@@ -1,0 +1,1 @@
+Art. 29-B. Não será cabível medida liminar em mandado de segurança, no procedimento cautelar ou em quaisquer outras ações de natureza cautelar ou preventiva, nem a tutela antecipada prevista nos arts. 273 e 461 do Código de Processo Civil que impliquem saque ou movimentação da conta vinculada do trabalhador no FGTS.
