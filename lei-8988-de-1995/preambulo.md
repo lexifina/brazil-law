@@ -1,0 +1,2 @@
+Altera a redação do art. 2º do Decreto-Lei nº 2.236, de 23 de janeiro de 1985, que dispõe sobre a tabela de emolumentos e taxas aprovada pelo art. 131 da Lei nº 6.815, de 19 de agosto de 1980.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 852, de 1995, que o Congresso Nacional aprovou, e eu, JOSÉ SARNEY, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
