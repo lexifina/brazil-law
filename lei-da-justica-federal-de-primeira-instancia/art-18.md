@@ -1,0 +1,1 @@
+Art. 18. Os Juízes de uma Seção Judiciária não poderão substituir os de outra, salvo na mesma Região, em caso de impedimento, nem poderão ser removidos senão a pedido, com a aprovação do Tribunal Federal de Recursos, ou na hipótese do artigo 34.

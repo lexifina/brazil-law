@@ -1,0 +1,1 @@
+Art. 65. A polícia judiciária federal será exercida pelas autoridades policiais do Departamento Federal de Segurança Pública, observando-se, no que couber, as disposições do Código de Processo Penal (Decreto-Lei n. 3.689, de 3 de outubro de 1941), da Lei n. 4.483, de 16 de novembro de 1964 e demais normas legais aplicáveis ao processo penal.

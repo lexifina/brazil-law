@@ -1,0 +1,1 @@
+Art. 81. Os processos que passaram para a competência da Justiça Federal sòmente lhe serão remetidos após o pagamento das custas dos atos até então praticados, e por quem forem elas devidas, ou por qualquer interessado.

@@ -1,0 +1,2 @@
+Art. 66. O prazo para conclusão do inquérito policial será de quinze dias, quando o indiciado estiver prêso, podendo ser prorrogado por mais quinze dias, a pedido, devidamente fundamentado, da autoridade policial e deferido pelo Juiz a que competir o conhecimento do processo.
+Parágrafo único. Ao requerer a prorrogação do prazo para conclusão do inquérito, a autoridade policial deverá apresentar o prêso ao Juiz.

@@ -1,0 +1,1 @@
+Art. 23. O Conselho da Justiça Federal organizará os pontos e o regulamento do concurso e os fará publicar, com antecedência mínima de trinta dias, no Diário Oficial dos Estados e Territórios da Região em que o concurso se deva realizar e no Diário da Justiça da União.
