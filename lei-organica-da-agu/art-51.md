@@ -1,0 +1,1 @@
+Art. 51. Aos titulares de cargos de confiança, sejam de natureza especial ou em comissão, da Advocacia-Geral da União, assim como aos membros efetivos desta é vedado manter, sob sua chefia imediata, parente consangüíneo ou afim, em linha reta ou colateral, até o segundo grau, bem assim como cônjuge ou companheiro.

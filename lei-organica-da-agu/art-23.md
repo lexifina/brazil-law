@@ -1,0 +1,2 @@
+Art. 23. Os membros efetivos da Advocacia-Geral da União são lotados e distribuídos pelo Advogado-Geral da União.
+Parágrafo único. A lotação de Assistente Jurídico nos Ministérios, na Secretaria-Geral e nas demais Secretarias da Presidência da República e no Estado-Maior das Forças Armadas é proposta por seus titulares, e a lotação e distribuição de Procuradores da Fazenda Nacional, pelo respectivo titular.

@@ -1,0 +1,1 @@
+Art. 55. São criados, com natureza especial, os cargos de Procurador-Geral da União, Procurador-Geral da Fazenda Nacional, Consultor-Geral da União e de Corregedor-Geral da Advocacia da União, privativos de Bacharel em Direito, de elevado saber jurídico e reconhecida idoneidade, com dez anos de prática forense e maior de trinta e cinco anos.

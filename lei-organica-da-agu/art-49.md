@@ -1,0 +1,6 @@
+Art. 49. São nomeados pelo Presidente da República:
+I - mediante indicação do Advogado-Geral da União, os titulares dos cargos de natureza especial de Corregedor-Geral da Advocacia da União, de Procurador-Geral da União, de Consultor-Geral da União, de Secretário-Geral de Contencioso e de Secretário-Geral de Consultoria, como os titulares dos cargos em comissão de Corregedor-Auxiliar, de Procurador Regional, de Consultor da União, de Procurador-Chefe e de Diretor-Geral de Administração;
+II - mediante indicação do Ministro de Estado, do Secretário-Geral ou titular de Secretaria da Presidência da República, ou do Chefe do Estado-Maior das Forças Armadas, os titulares dos cargos em comissão de Consultor Jurídico;
+III - mediante indicação do Ministro de Estado da Fazenda, o titular do cargo de natureza especial de Procurador-Geral da Fazenda Nacional.
+§ 1º São escolhidos dentre os membros efetivos da Advocacia-Geral da União o Corregedor-Geral, os Corregedores-Auxiliares, os Procuradores Regionais e os Procuradores-Chefes.
+§ 2º O Presidente da República pode delegar ao Advogado-Geral da União competência para prover, nos termos da lei, os demais cargos, efetivos e em comissão, da instituição.

@@ -1,0 +1,4 @@
+Art. 45. O Regimento Interno da Advocacia-Geral da União é editado pelo Advogado-Geral da União, observada a presente lei complementar.
+§ 1º O Regimento Interno deve dispor sobre a competência, a estrutura e o funcionamento da Corregedoria-Geral da Advocacia da União, da Procuradoria-Geral da União, da Consultoria-Geral da União, das Consultorias Jurídicas, do Gabinete do Advogado-Geral da União e dos Gabinetes dos Secretários-Gerais, do Centro de Estudos, da Diretoria-Geral de Administração e da Secretaria de Controle Interno, bem como sobre as atribuições de seus titulares e demais integrantes.
+§ 2º O Advogado-Geral da União pode conferir, no Regimento Interno, ao Procurador-Geral da União e ao Consultor-Geral da União, atribuições conexas às que lhe prevê o art. 4º desta lei complementar.
+§ 3º No Regimento Interno são disciplinados os procedimentos administrativos concernentes aos trabalhos jurídicos da Advocacia-Geral da União.

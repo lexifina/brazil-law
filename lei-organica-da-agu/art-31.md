@@ -1,0 +1,1 @@
+Art. 31. Os membros efetivos da Advocacia-Geral da União não podem participar de comissão ou banca de concurso, intervir no seu julgamento e votar sobre organização de lista para promoção ou remoção, quando concorrer parente consangüíneo ou afim, em linha reta ou colateral, até o segundo grau, bem como cônjuge ou companheiro.

@@ -1,0 +1,2 @@
+Art. 10 - À Consultoria-Geral da União, direta e imediatamente subordinada ao Advogado-Geral da União, incumbe, principalmente, colaborar com este em seu assessoramento jurídico ao Presidente da República produzindo pareceres, informações e demais trabalhos jurídicos que lhes sejam atribuídos pelo chefe da instituição.
+Parágrafo único. Compõem a Consultoria-Geral da União o Consultor-Geral da União e a Consultoria da União.

@@ -1,0 +1,2 @@
+Art. 24. A promoção de membro efetivo da Advocacia-Geral da União consiste em seu acesso à categoria imediatamente superior àquela em que se encontra.
+Parágrafo único. As promoções serão processadas semestralmente pelo Conselho Superior da Advocacia-Geral da União, para vagas ocorridas até 30 de junho e até 31 de dezembro de cada ano, obedecidos, alternadamente, os critérios de antigüidade e merecimento.

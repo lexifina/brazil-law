@@ -1,0 +1,1 @@
+Art. 34. Qualquer pessoa pode representar ao Corregedor-Geral da Advocacia da União contra abuso, erro grosseiro, omissão ou qualquer outra irregularidade funcional dos membros da Advocacia-Geral da União.

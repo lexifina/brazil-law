@@ -1,0 +1,1 @@
+Art. 64. Até que seja promulgada a lei prevista no art. 26 desta lei complementar, ficam assegurados aos titulares dos cargos efetivos e em comissão, privativos de Bacharel em Direito, dos atuais órgãos da Advocacia Consultiva da União, os vencimentos e vantagens a que fazem jus.

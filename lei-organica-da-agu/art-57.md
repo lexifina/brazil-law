@@ -1,0 +1,1 @@
+Art. 57. São criados os cargos de Secretário-Geral de Contencioso e de Secretário-Geral de Consultoria, de natureza especial, privativos de Bacharel em Direito que reúna as condições estabelecidas no art. 55 desta lei complementar.

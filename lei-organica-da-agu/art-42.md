@@ -1,0 +1,1 @@
+Art. 42. Os pareceres das Consultorias Jurídicas, aprovados pelo Ministro de Estado, pelo Secretário-Geral e pelos titulares das demais Secretarias da Presidência da República ou pelo Chefe do Estado-Maior das Forças Armadas, obrigam, também, os respectivos órgãos autônomos e entidades vinculadas.

@@ -1,0 +1,3 @@
+Art. 62. São criados, no Quadro da Advocacia-Geral da União, seiscentos cargos de Advogado da União, providos mediante aprovação em concurso público, de provas e títulos, distribuídos entre as categorias, na forma estabelecida no Regimento Interno da Advocacia-Geral da União.
+§ 1º Cabe ao Advogado-Geral da União disciplinar, em ato próprio, o primeiro concurso público de provas e títulos, destinado ao provimento de cargos de Advogado da União de 2ª Categoria.
+§ 2º O concurso público a que se refere o parágrafo anterior deve ter o respectivo edital publicado nos sessenta dias seguintes à posse do Advogado-Geral da União.
