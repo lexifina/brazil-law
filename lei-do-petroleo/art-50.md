@@ -1,0 +1,8 @@
+Art. 50. O edital e o contrato estabelecerão que, nos casos de grande volume de produção, ou de grande rentabilidade, haverá o pagamento de uma participação especial, a ser regulamentada em decreto do Presidente da República.
+§ 1º A participação especial será aplicada sobre a receita bruta da produção, deduzidos os royalties, os investimentos na exploração, os custos operacionais, a depreciação e os tributos previstos na legislação em vigor.
+§ 2º Os recursos da participação especial serão distribuídos na seguinte proporção:
+I - quarenta por cento ao Ministério de Minas e Energia, para o financiamento de estudos e serviços de geologia e geofísica aplicados à prospecção de petróleo e gás natural, a serem promovidos pela ANP, nos termos dos incisos II e III do art. 8°;
+II - dez por cento ao Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, destinados ao desenvolvimento de estudos e projetos relacionados com a preservação do meio ambiente e recuperação de danos ambientais causados pelas atividades da indústria do petróleo;
+III - quarenta por cento para o Estado onde ocorrer a produção em terra, ou confrontante com a plataforma continental onde se realizar a produção;
+IV - dez por cento para o Município onde ocorrer a produção em terra, ou confrontante com a plataforma continental onde se realizar a produção.
+§ 3º Os estudos a que se refere o inciso II do parágrafo anterior serão desenvolvidos pelo Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, com o apoio técnico da ANP, no cumprimento do disposto no inciso IX do art. 8°.

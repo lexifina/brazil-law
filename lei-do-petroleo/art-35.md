@@ -1,0 +1,1 @@
+Art. 35. Os blocos não contemplados pelos contratos de concessão mencionados no artigo anterior e aqueles em que tenha havido insucesso nos trabalhos de exploração, ou não tenham sido ajustados com a ANP, dentro dos prazos estipulados, serão objeto de licitação pela ANP para a outorga de novos contratos de concessão, regidos pelas normas gerais estabelecidas na Seção anterior.

@@ -1,0 +1,3 @@
+Art. 58. Facultar-se-á a qualquer interessado o uso dos dutos de transporte e dos terminais marítimos existentes ou a serem construídos, mediante remuneração adequada ao titular das instalações.
+§ 1º A ANP fixará o valor e a forma de pagamento da remuneração adequada, caso não haja acordo entre as partes, cabendo-lhe também verificar se o valor acordado é compatível com o mercado.
+§ 2º A ANP regulará a preferência a ser atribuída ao proprietário das instalações para movimentação de seus próprios produtos, com o objetivo de promover a máxima utilização da capacidade de transporte pelos meios disponíveis.

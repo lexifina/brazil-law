@@ -1,0 +1,1 @@
+Art. 66. A PETROBRÁS poderá transferir para seus ativos os títulos e valores recebidos por qualquer subsidiária, em decorrência do Programa Nacional de Desestatização, mediante apropriada redução de sua participação no capital social da subsidiária.

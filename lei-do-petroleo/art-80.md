@@ -1,0 +1,1 @@
+Art. 80. As disposições desta Lei não afetam direitos anteriores de terceiros, adquiridos mediante contratos celebrados com a PETROBRÁS, em conformidade com as leis em vigor, e não invalidam os atos praticados pela PETROBRÁS e suas subsidiárias, de acordo com seus estatutos, os quais serão ajustados, no que couber, a esta Lei.
