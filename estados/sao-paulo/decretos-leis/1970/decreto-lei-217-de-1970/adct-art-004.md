@@ -1,0 +1,2 @@
+Artigo 4.º - O título de Comandante Geral da extinta Fôrça Pública do Estado e os dos componentes da extinta Guarda Civil de São Paulo que optarem pelo «Quadro em Extinção, da Guarda Civil de São Paulo» serão apostilados pelo Secretário da Segurança Pública.
+Parágrafo único - Os componentes da extinta Fôrça Pública do Estado e os da extinta Guarda Civil de São Paulo que passarem a integrar a Policia Militar do Estado de São Paulo terão seus títulos apostilados pelo Comandante Geral desta Corporação.
