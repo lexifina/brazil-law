@@ -1,0 +1,3 @@
+Instrução CVM nº 56, de 1986
+Dispõe sobre valor nominal mínimo e grupamento de ações emitidas por companhias abertas, bem como sobre a padronização de certificados de ações O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada nesta data, tendo por fundamento os artigos 4º, inciso III, 8º, inciso I, 9º, § 1º, e 22, parágrafo único, incisos III e VII da LEI Nº 6.385, de 07 de dezembro de 1976 e os artigos 11, § 3º e 25, parágrafo único da LEI Nº 6.404, de 15 de dezembro de 1976, e item II da RESOLUÇÃO CVM Nº 702, de 26 de agosto de 1981, RESOLVEU:
+VALOR NOMINAL MÍNIMO
