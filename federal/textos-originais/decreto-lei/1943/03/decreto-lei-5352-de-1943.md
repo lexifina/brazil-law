@@ -1,0 +1,19 @@
+# Decreto-Lei nº 5.352, de 26/03/1943
+
+DECRETO-LEI NDECRETO-LEI Nnormandonormando892002-02-14T08:35:00Z2002-02-15T12:24:00Z165376POLICENTRO-CONSULPREV0000.0000
+
+DECRETO‑LEI N. 5.352 – DE 26 DE MARÇO DE 1943
+
+Cria a 7ª Companhia de Transmissões Regional
+
+O Presidente de República, usando da atribuição que Ihe confere o art. 180 da Constituição,
+
+decreta:
+
+Artigo único. É criada, para instalação imediata, com sede em Recife – Estado de Pernambuco a Sétima Companhia de Transmissões Regional.
+
+Rio de Janeiro. 26 de março de 1943, 122º do Independência e 55º da República.
+
+GETULIO VARGAS.
+
+Eurico G. Dutra.
