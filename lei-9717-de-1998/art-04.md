@@ -1,1 +1,0 @@
-Art. 4º A União, os Estados, o Distrito Federal e os Municípios deverão ajustar os seus planos de benefícios e custeio sempre que excederem, no exercício, os limites previstos no art. 2º desta Lei, para retornar a esses limites no exercício financeiro subseqüente.
