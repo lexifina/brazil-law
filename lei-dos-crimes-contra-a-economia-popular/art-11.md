@@ -1,0 +1,1 @@
+Art. 11. No Distrito Federal, o processo das infrações penais relativas à economia popular caberá, indistintamente, a todas as varas criminais com exceção das 1ª e 20ª, observadas as disposições quanto aos crimes da competência do júri de que trata o art. 12.
