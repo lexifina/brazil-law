@@ -1,0 +1,61 @@
+DECISÃO
+EMBARGOS DE DIVERGÊNCIA -
+ARESTO PARADIGMA - SUPERAÇÃO
+POR PRECEDENTE DO PLENÁRIO -
+NEGATIVA DE SEGUIMENTO.
+1.      O Pleno já examinou a controvérsia dos autos. Na
+oportunidade, houve a evolução, inclusive, de integrantes da Turma,
+assentando-se que a anistia do artigo 8º do Ato das Disposições
+Constitucionais Transitórias da Carta de 1988 não abrange as
+promoções por merecimento. Eis como ficou elucidada a matéria:
+RECURSO EXTRAORDINÁRIO. ANISTIA DO ART. 8º DO
+ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS, DA
+CARTA POLITICA DE 1988. SUBTENENTE DA RESERVA DO
+EXÉRCITO NACIONAL PLEITEIA, EM MANDADO DE SEGURANCA,
+PROMOÇÃO, NA INATIVIDADE, AO POSTO DE CAPITÃO. O ART.
+8º DO ADCT NÃO ASSEGURA, INDISCRIMINADAMENTE, TODAS AS
+PROMOÇÕES QUE, EM TESE, SERIAM POSSÍVEIS, MAS APENAS
+ÀQUELAS A QUE TERIA DIREITO O SERVIDOR, CASO HOUVESSE
+PERMANECIDO EM ATIVIDADE. CABE VERIFICAR, EM CADA
+CASO, AS CARACTERÍSTICAS E PECULIARIDADES DAS
+CARREIRAS DOS SERVIDORES CIVIS E MILITARES,
+OBSERVANDO-SE OS RESPECTIVOS REGIMES JURÍDICOS. DISSO
+RESULTA A INDISPENSABILIDADE DE EXAMINAR A LEGISLAÇÃO
+QUE DISCIPLINA CADA SITUAÇÃO, EM ORDEM A CONSIDERAR A
+EXISTÊNCIA DE DIREITO A PROMOÇÃO, OU DE MERA
+EXPECTATIVA "JURIS", SE NA ATIVIDADE ESTIVESSE O
+SERVIDOR. SE O IMPETRANTE HOUVESSE PERMANECIDO NA
+ATIVA TERIA, PARA GALGAR O POSTO DE CAPITÃO, DE
+PREENCHER REQUISITOS REGULAMENTARES, POIS O ACESSO, NO
+CASO, NÃO DECORRE DE MERA PROMOÇÃO, POR ANTIGÜIDADE,
+E, SIM, DE CRITÉRIO BASEADO NA AVALIAÇÃO DOS ATRIBUTOS
+DO CANDIDATO. PROMOÇÃO POR MERECIMENTO. COM BASE NO
+ART. 8º DO ADCT, NAO É POSSÍVEL TER COMO OCORRIDAS,
+AUTOMATICAMENTE, AS PROMOÇÕES, DE TAL MANEIRA QUE, EM
+SE CUIDANDO DE PROMOÇÕES SUJEITAS A APURAÇÃO DE
+REQUISITOS SUBJETIVOS, SEGUNDO A LEI DE SUA REGÊNCIA,
+ESSES SE PRESUMAM SATISFEITOS. PRECEDENTES DO STF.
+INADEQUAÇÃO DO MANDADO DE SEGURANÇA PARA, DESDE LOGO,
+RECONHECER AO ANISTIADO O DIREITO AS PROMOÇÕES QUE
+POSTULA, NÃO OBSTANTE PENDENTES ESTAS DA VERIFICAÇÃO
+DE PRESSUPOSTOS ENVOLVIDOS EM FATOS. OFENSA, PELO
+ACÓRDÃO, AO ART. 8º DO ADCT RECURSO EXTRAORDINÁRIO
+CONHECIDO E PROVIDO, PARA INDEFERIR O MANDADO DE
+SEGURANCA.
+Destarte, o aresto paradigma, de minha lavra,
+prolatado na Segunda Turma, encontra-se superado, esbarrando no
+artigo 332 do Regimento Interno desta Corte:
+Não cabem embargos, se a jurisprudência do
+Plenário ou de ambas as Turmas estiver firmada no
+sentido da decisão embargada, salvo o disposto no art.
+103.
+A maioria alcançada na ocasião do julgamento pelo
+Pleno e a ausência de modificação substancial da composição da Corte
+inibem qualquer iniciativa a partir da ressalva inserta no preceito,
+ou seja, da revisão da jurisprudência, especialmente considerada a
+circunstância de haver, sobre o tema, casos residuais.
+2.      Pelas razões supra, nego seguimento a estes embargos.
+3.      Publique-se.
+Brasília, 1º de fevereiro de 1999.
+         Ministro MARCO AURÉLIO
+Relator
