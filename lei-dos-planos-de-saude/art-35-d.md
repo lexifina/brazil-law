@@ -1,0 +1,1 @@
+Art. 35-D. As multas a serem aplicadas pela ANS em decorrência da competência fiscalizadora e normativa estabelecida nesta Lei e em seus regulamentos serão recolhidas à conta daquela Agência, até o limite de R$ 1.000.000,00 (um milhão de reais) por infração, ressalvado o disposto no § 6º do art. 19 desta Lei.

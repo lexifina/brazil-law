@@ -1,0 +1,1 @@
+Art. 33. Havendo indisponibilidade de leito hospitalar nos estabelecimentos próprios ou credenciados pelo plano, é garantido ao consumidor o acesso à acomodação, em nível superior, sem ônus adicional.
