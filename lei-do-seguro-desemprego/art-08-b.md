@@ -1,0 +1,1 @@
+Art. 8º-B. Na hipótese prevista no § 5º do art. 476-A da Consolidação das Leis do Trabalho - CLT, as parcelas da bolsa de qualificação profissional que o empregado tiver recebido serão descontadas das parcelas do benefício do Seguro-Desemprego a que fizer jus, sendo-lhe garantido, no mínimo, o recebimento de uma parcela do Seguro-Desemprego.
