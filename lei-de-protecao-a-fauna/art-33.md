@@ -1,0 +1,1 @@
+Art. 33. A autoridade apreenderá os produtos de caça e os instrumentos utilizados na infração e se, por sua natureza ou volume, não puderem acompanhar o inquérito, serão entregues ao depositário público local, se houver e, na sua falta, ao que fôr nomeado pelo juiz.
