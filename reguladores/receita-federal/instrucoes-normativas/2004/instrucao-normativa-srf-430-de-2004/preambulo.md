@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 430, de 29 de junho de 2004
+Aprova o programa aplicativo para preenchimento da Declaração de Saída Definitiva do País, relativa ao Imposto de Renda de Pessoa Física do exercício de 2004, ao ano-calendário de 2004, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso XVIII do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto na Instrução Normativa SRF nº 208, de 27 de setembro de 2002, e na Instrução Normativa SRF nº 425, de 20 de maio de 2004, resolve:
