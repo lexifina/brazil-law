@@ -1,0 +1,3 @@
+Art. 18. As pessoas jurídicas de direito privado sem fins lucrativos, qualificadas com base em outros diplomas legais, poderão qualificar-se como Organizações da Sociedade Civil de Interesse Público, desde que atendidos os requisitos para tanto exigidos, sendo-lhes assegurada a manutenção simultânea dessas qualificações, até dois anos contados da data de vigência desta Lei
+§ 1º Findo o prazo de dois anos, a pessoa jurídica interessada em manter a qualificação prevista nesta Lei deverá por ela optar, fato que implicará a renúncia automática de suas qualificações anteriores.
+§ 2º Caso não seja feita a opção prevista no parágrafo anterior, a pessoa jurídica perderá automaticamente a qualificação obtida nos termos desta Lei.
