@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 60, de 14 de outubro de 1994
+Dispõe sobre o termo inicial para gozo do incentivo fiscal de redução do imposto de renda de que tratam os arts. 562 a 564 do Regulamento do Imposto de Renda, aprovado pelo Decreto nº 1.041, de 11/01/94 (RIR/94).
+O COORDENDOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o art. 147, inciso III, do Regimento Interno aprovado pela Portaria MEFP nº 606, de 3 de setembro de 1992,
+Declara, em caráter normativo, às Superintendências Regionais e aos demais interessados que o termo inicial para gozo do incentivo fiscal de redução do imposto de renda de que tratam os arts. 562 a 564 do RIR/94, no caso de pessoas jurídicas tributadas com base no lucro real mensal localizadas na área de atuação da SUDENE, corresponderá ao mês em que as mesmas apresentarem àquele órgão requerimento solicitando a declaração de que satisfazem as condições mínimas necessárias ao gozo da referida redução.
+ARISTÓFANES FONTOURA DE HOLANDA
