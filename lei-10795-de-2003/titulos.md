@@ -1,0 +1,1 @@
+Altera os arts. 11 e 16 da Lei nº 6.530, de 12 de maio de 1978, para dispor sobre a eleição dos conselheiros nos Conselhos Regionais de Corretores de Imóveis e fixar valores máximos para as anuidades devidas pelos corretores a essas entidades e dá outras providências.
