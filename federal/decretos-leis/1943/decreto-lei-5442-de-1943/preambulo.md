@@ -1,0 +1,7 @@
+DECRETO-LEI N. 5.442 – DE 30 DE ABRIL DE 1943
+Dispõe sobre o registo de professores no Ministério do Trabalho, Indústria e Comércio
+O Presidente da República, usando da atribuição que lhe confere o artigo 180 da Constituição e,
+Considerando que pelo decreto‑lei n. 3.085, de 3 de março de 1941 foi restabelecido o registo provisório dos professores de ensino superior, secundário, profissional comercial e primário, registo esse que habilita ao exercício da profissão de professor;
+Considerando entretanto, que o exercício dessa profissão ficou condicionado ao registo no Ministério do Trabalho, Indústria e Comércio, dentro de um prazo que se esgotou por força do decreto‑lei n. 4.077, de 2 de fevereiro de 1942;
+Considerando que não é admissivel seja impedido o exercício de uma profissão aos que se encontrem para a mesma habilitados,
+decreta:
