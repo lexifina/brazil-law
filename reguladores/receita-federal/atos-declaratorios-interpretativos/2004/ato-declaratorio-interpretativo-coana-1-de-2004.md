@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo Coana nº 1, de 30 de setembro de 2004
+Declara a inaplicabilidade do regime aduaneiro especial de exportação e importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e de gás natural - REPETRO aos bens que menciona.
+O COORDENADOR-GERAL DE ADMINISTRAÇÃO ADUANEIRA, no uso da competência delegada pelo parágrafo 5º do artigo 37º da Instrução Normativa SRF nº 4, de 10 de janeiro de 2001:
+Artigo único. O regime aduaneiro especial de exportação e importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e de gás natural - REPETRO, instituído pelo Decreto n° 3.161, de 2 de setembro de 1999, com alterações introduzidas pelo Decreto n° 3.663, de 16 de novembro de 2000, não se aplica aos bens a seguir relacionados, por não serem adequados à utilização direta nas atividades-fim para aplicação do regime, e por não garantirem a operacionalidade de nenhum dos bens constantes do anexo único à IN SRF n° 4, de 10 de janeiro de 2001.
+[arquivo anexo: an_Filtrado.htm]
