@@ -1,0 +1,1 @@
+Art. 16. Quando o habeas data for concedido e o Presidente do Tribunal ao qual competir o conhecimento do recurso ordenar ao juiz a suspensão da execução da sentença, desse seu ato caberá agravo para o Tribunal a que presida.
