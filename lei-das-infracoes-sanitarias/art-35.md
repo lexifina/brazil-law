@@ -1,0 +1,1 @@
+Art. 35 - A inutilização dos produtos e o cancelamento do registro, da autorização para o funcionamento da empresa e da licença dos estabelecimentos somente ocorrerão após a publicação, na imprensa oficial, de decisão irrecorrível.

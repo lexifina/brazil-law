@@ -1,0 +1,2 @@
+Art. 18 - Quando, apesar da lavratura do auto de infração, subsistir, ainda, para o infrator, obrigação a cumprir, será expedido edital fixado o prazo de trinta dias para o seu cumprimento, observado o disposto no § 2º do art. 17.
+Parágrafo único - O prazo para o cumprimento da obrigação subsistente poderá ser reduzido ou aumentado, em casos excepcionais, por motivos de interesse público, mediante despacho fundamentado.

@@ -1,0 +1,1 @@
+Art. 37 - Ultimada a instrução do processo, uma vez esgotados os prazos para recurso sem apresentação de defesa, ou apreciados os recursos, a autoridade sanitária proferirá a decisão final dando o processo por concluso, após a publicação desta última na imprensa oficial e da adoção das medidas impostas.
