@@ -1,0 +1,1 @@
+Art. 21. As terras espontânea e definitivamente abandonadas por comunidade indígena ou grupo tribal reverterão, por proposta do órgão federal de assistência ao índio e mediante ato declaratório do Poder Executivo, à posse e ao domínio pleno da União.

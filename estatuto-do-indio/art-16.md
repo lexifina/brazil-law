@@ -1,0 +1,4 @@
+Art. 16. Os contratos de trabalho ou de locação de serviços realizados com indígenas em processo de integração ou habitantes de parques ou colônias agrícolas dependerão de prévia aprovação do órgão de proteção ao índio, obedecendo, quando necessário, a normas próprias.
+§ 1º Será estimulada a realização de contratos por equipe, ou a domicílio, sob a orientação do órgão competente, de modo a favorecer a continuidade da via comunitária.
+§ 2º Em qualquer caso de prestação de serviços por indígenas não integrados, o órgão de proteção ao índio exercerá permanente fiscalização das condições de trabalho, denunciando os abusos e providenciando a aplicação das sanções cabíveis.
+§ 3º O órgão de assistência ao indígena propiciará o acesso, aos seus quadros, de índios integrados, estimulando a sua especialização indigenista.

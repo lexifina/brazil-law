@@ -1,0 +1,2 @@
+Art. 36. Sem prejuízo do disposto no artigo anterior, compete à União adotar as medidas administrativas ou propor, por intermédio do Ministério Público Federal, as medidas judiciais adequadas à proteção da posse dos silvícolas sobre as terras que habitem.
+Parágrafo único. Quando as medidas judiciais previstas neste artigo forem propostas pelo órgão federal de assistência, ou contra ele, a União será litisconsorte ativa ou passiva.

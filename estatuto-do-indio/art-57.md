@@ -1,0 +1,1 @@
+Art. 57. Será tolerada a aplicação, pelos grupos tribais, de acordo com as instituições próprias, de sanções penais ou disciplinares contra os seus membros, desde que não revistam caráter cruel ou infamante, proibida em qualquer caso a pena de morte.

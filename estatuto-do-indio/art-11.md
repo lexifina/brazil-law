@@ -1,0 +1,2 @@
+Art. 11. Mediante decreto do Presidente da República, poderá ser declarada a emancipação da comunidade indígena e de seus membros, quanto ao regime tutelar estabelecido em lei, desde que requerida pela maioria dos membros do grupo e comprovada, em inquérito realizado pelo órgão federal competente, a sua plena integração na comunhão nacional.
+Parágrafo único. Para os efeitos do disposto neste artigo, exigir-se-á o preenchimento, pelos requerentes, dos requisitos estabelecidos no artigo 9º.
