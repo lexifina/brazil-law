@@ -1,0 +1,1 @@
+Art. 29-B. Os salários-de-contribuição considerados no cálculo do valor do benefício serão corrigidos mês a mês de acordo com a variação integral do Índice Nacional de Preços ao Consumidor - INPC, calculado pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE.
