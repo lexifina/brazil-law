@@ -1,0 +1,63 @@
+# Decreto-Lei nº 780, de 22/08/1969
+
+DECRETO-LEI Nº 780, DE 22 DE AGÔSTO DE 1969
+
+Autoriza o Poder Executivo a abrir ao Ministério do Planejamento Coordenação Geral em favor do Instituto de Planejamento Econômico e Social, o crédito especial de NCr$140.000,00 (cento e quarenta mil cruzeiros novos) para o fim que especifica.
+
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o § 1º do artigo 2º do Ato Institucional nº 5, de 13 de dezembro de 1968,
+
+decreta:
+
+Art. 1º Fica o Poder Executivo autorizado a abrir ao Ministério do Planejamento e Coordenação Geral em favor do Instituto de Planejamento Econômico e Social, o crédito especial no valor de NCr$140.000,00 (cento e quarenta mil cruzeiros novos), para atender as despesas com encargos trabalhistas.
+
+Art. 2º O recurso necessário à execução dêste Decreto-lei decorrerá de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento ao Subanexo 5.13.00, a saber:
+
+5.13.00
+
+- Ministério do Planejamento e Coordenação Geral
+
+5.13.03
+
+- Secretaria Geral (órgãos vinculados)
+
+Instituto de Planejamento Econômico e Social
+
+01.02.15.2.008
+
+- Estudos e Pesquisas Econômico-Sociais
+
+3.0.0.0
+
+- Despesas correntes
+
+3.2.0.0
+
+- Transferências correntes
+
+3.2.7.0
+
+- Diversas transferências correntes
+
+3.2.7.2
+
+- Entidades Federais
+
+Material de consumo ...........................................
+
+Encargo Diversos ................................................
+
+NCr$90.000,00
+
+NCr$50.000,00
+
+NCr$140.000,00
+
+Art. 5º Êste Decreto-lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Brasília, 22 de agôsto de 1969; 148º da Independência e 81º da República.
+
+A. COSTA E SILVA
+
+Antônio Delfim Netto
+
+Hélio Beltrão
