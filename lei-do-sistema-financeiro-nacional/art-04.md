@@ -44,7 +44,7 @@ XXVIII - Aplicar aos bancos estrangeiros que funcionem no País as mesmas vedaç
 XXIX - Colaborar com o Senado Federal, na instrução dos processos de empréstimos externos dos Estados, do Distrito Federal e dos Municípios, para cumprimento do disposto no art. 63, nº II, da Constituição Federal;
 XXX - Expedir normas e regulamentação para as designações e demais efeitos do art. 7º, desta lei.
 XXXI - Baixar normas que regulem as operações de câmbio, inclusive swaps, fixando limites, taxas, prazos e outras condições.
-XXXII - regular os depósitos a prazo entre instituições financeiras, inclusive entre aquelas sujeitas ao mesmo controle ou coligadas;
+XXXII - regular os depósitos a prazo entre instituições financeiras, inclusive entre aquelas sujeitas ao mesmo controle acionário ou coligadas;
 § 1º O Conselho Monetário Nacional, no exercício das atribuições previstas no inciso VIII deste artigo, poderá determinar que o Banco Central da República do Brasil recuse autorização para o funcionamento de novas instituições financeiras, em função de conveniências de ordem geral.
 § 2º Competirá ao Banco Central da República do Brasil acompanhar a execução dos orçamentos monetários e relatar a matéria ao Conselho Monetário Nacional, apresentando as sugestões que considerar convenientes.
 § 3º As emissões de moeda metálica serão feitas sempre contra recolhimento (Vetado) de igual montante em cédulas.
