@@ -1,0 +1,1 @@
+Art. 9º Os responsáveis pela fiscalização da execução do contrato de gestão, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade na utilização de recursos ou bens de origem pública por organização social, dela darão ciência ao Tribunal de Contas da União, sob pena de responsabilidade solidária.
