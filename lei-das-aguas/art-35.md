@@ -7,5 +7,5 @@ V - analisar propostas de alteração da legislação pertinente a recursos híd
 VI - estabelecer diretrizes complementares para implementação da Política Nacional de Recursos Hídricos, aplicação de seus instrumentos e atuação do Sistema Nacional de Gerenciamento de Recursos Hídricos;
 VII - aprovar propostas de instituição dos Comitês de Bacia Hidrográfica e estabelecer critérios gerais para a elaboração de seus regimentos;
 VIII - (VETADO)
-IX - acompanhar a execução do Plano Nacional de Recursos Hídricos e determinar as providências necessárias ao cumprimento de suas metas;
+IX - acompanhar a execução e aprovar o Plano Nacional de Recursos Hídricos e determinar as providências necessárias ao cumprimento de suas metas;
 X - estabelecer critérios gerais para a outorga de direitos de uso de recursos hídricos e para a cobrança por seu uso.
