@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 391, de 30 de janeiro de 2004
+Altera a Instrução Normativa SRF nº 355, de 29 de agosto de 2003, que dispõe sobre o Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte (Simples).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 24 da Lei nº 10.684, de 30 de maio de 2003 e nos arts. 19 e 82 da Lei nº 10.833, de 29 de dezembro de 2003, resolve:
