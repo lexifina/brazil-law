@@ -1,0 +1,4 @@
+Ato Declaratório Interpretativo SRF nº 12, de 31 de março de 2004
+Dispõe sobre a descaracterização de roubo ou furto de mercadoria importada como evento de caso fortuito ou de força maior.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e considerando o que consta no Processo nº 10168.000335/2004-19, declara:
+Artigo único. O roubo ou o furto de mercadoria importada não se caracteriza como evento de caso fortuito ou de força maior, para efeito de exclusão de responsabilidade, nos termos do art. 595 do Decreto nº 4.543, de 26 de dezembro de 2002 - Regulamento Aduaneiro, com as alterações do Decreto nº 4.765, de 24 de junho de 2003, tendo em vista não atender, cumulativamente, as condições de ausência de imputabilidade, de inevitabilidade e de irresistibilidade.
