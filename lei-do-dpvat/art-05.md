@@ -1,7 +1,10 @@
 Art. 5º O pagamento da indenização será efetuado mediante simples prova do acidente e do dano decorrente, independentemente da existência de culpa, haja ou não resseguro, abolida qualquer franquia de responsabilidade do segurado.
-§ 1º - A indenização referida neste artigo será paga no prazo de 5 (cinco) dias a contar da apresentação dos seguintes documentos:
-a) Certidão de óbito, registro da ocorrência no órgão policial competente e a prova de qualidade de beneficiário - no caso de morte;
+§ 1º A indenização referida neste artigo será paga com base no valor da época da liqüidação do sinistro, em cheque nominal aos beneficiários, descontável no dia e na praça da sucursal que fizer a liqüidação, no prazo de quinze dias da entrega dos seguintes documentos;
+a) certidão de óbito, registro da ocorrência no órgão policial competente e a prova de qualidade de beneficários no caso de morte;
 b) Prova das despesas efetuadas pela vítima com o seu atendimento por hospital, ambulatório ou médico assistente e registro da ocorrência no órgão policial competente - no caso de danos pessoais.
 § 2º Os documentos referidos no § 1º serão entregues à Sociedade Seguradora, mediante recibo, que os especificará.
+§ 3º Não se concluindo na certidão de óbito o nexo de causa e efeito entre a morte e o acidente, será acrescentada a certidão de auto de necrópsia, fornecida diretamente pelo instituto médico legal, independentemente de requisição ou autorização da autoridade policial ou da jurisdição do acidente.
+§ 4º Havendo dúvida quanto ao nexo de causa e efeito entre o acidente e as lesões, em caso de despesas médicas suplementares e invalidez permanente, poderá ser acrescentado ao boletim de atendimento hospitalar relatório de internamento ou tratamento, se houver, fornecido pela rede hospitalar e previdenciária, mediante pedido verbal ou escrito, pelos interessados, em formulário próprio da entidade fornecedora.
+§ 5º O instituto médico legal da jurisdição do acidente também quantificará as lesões físicas ou psíquicas permanentes para fins de seguro previsto nesta lei, em laudo complementar, no prazo médio de noventa dias do evento, de acordo com os percentuais da tabela das condições gerais de seguro de acidente suplementada, nas restrições e omissões desta, pela tabela de acidentes do trabalho e da classificação internacional das doenças.
 § 6º -
 § 7º -
