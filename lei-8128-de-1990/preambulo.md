@@ -1,0 +1,2 @@
+Determina a conversão para cruzeiros de recursos em cruzados novos de valor igual ou inferior a NCz$ 5.000,00 e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória n° 278, de 1990, que o Congresso Nacional aprovou, e eu, NELSON CARNEIRO, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
