@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 341, de 15 de julho de 2003
+Institui a Declaração de Operações com Cartões de Crédito (Decred) e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe conferem os incisos III e XVIII do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 5º da Lei Complementar nº 105, de 10 de janeiro de 2001, no Decreto nº 4.489, de 28 de novembro de 2002, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 30 da Lei nº 10.637, de 30 de dezembro de 2002, resolve:
