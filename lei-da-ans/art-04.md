@@ -33,10 +33,11 @@ XXXI - requisitar o fornecimento de informações às operadoras de planos priva
 XXXII - adotar as medidas necessárias para estimular a competição no setor de planos privados de assistência à saúde;
 XXXIII - instituir o regime de direção fiscal ou técnica nas operadoras;
 XXXIV - proceder à liquidação das operadoras que tiverem cassada a autorização de funcionamento;
-XXXV - promover a alienação da carteira de planos privados de assistência à saúde das operadoras;
+XXXV - determinar ou promover a alienação da carteira de planos privados de assistência à saúde das operadoras;
 XXXVI - articular-se com os órgãos de defesa do consumidor visando a eficácia da proteção e defesa do consumidor de serviços privados de assistência à saúde, observado o disposto na Lei nº 8.078, de 11 de setembro de 1990;
 XXXVII - zelar pela qualidade dos serviços de assistência à saúde no âmbito da assistência à saúde suplementar;
 XXXVIII - administrar e arrecadar as taxas instituídas por esta Lei.
+XL - definir as atribuições e competências do Diretor Técnico, Diretor Fiscal, do liquidante e do responsável pela alienação de carteira.
 § 1º A recusa, a omissão, a falsidade ou o retardamento injustificado de informações ou documentos solicitados pela ANS constitui infração punível com multa diária de R$ 5.000,00 (cinco mil reais), podendo ser aumentada em até vinte vezes, se necessário, para garantir a sua eficácia em razão da situação econômica da operadora ou prestadora de serviços.
 § 2º As normas previstas neste artigo obedecerão às características específicas da operadora, especialmente no que concerne à natureza jurídica de seus atos constitutivos.
 § 3º O Presidente da República poderá determinar que os reajustes e as revisões das contraprestações pecuniárias dos planos privados de assistência à saúde, de que trata o inciso XVII, sejam autorizados em ato conjunto dos Ministros de Estado da Fazenda e da Saúde.
