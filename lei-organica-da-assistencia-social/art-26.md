@@ -1,0 +1,1 @@
+Art. 26. O incentivo a projetos de enfrentamento da pobreza assentar-se-á em mecanismos de articulação e de participação de diferentes áreas governamentais e em sistema de cooperação entre organismos governamentais, não governamentais e da sociedade civil.

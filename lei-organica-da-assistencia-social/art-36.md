@@ -1,0 +1,1 @@
+Art. 36. As entidades e organizações de assistência social que incorrerem em irregularidades na aplicação dos recursos que lhes forem repassados pelos poderes públicos terão cancelado seu registro no Conselho Nacional de Assistência Social (CNAS), sem prejuízo de ações cíveis e penais.
