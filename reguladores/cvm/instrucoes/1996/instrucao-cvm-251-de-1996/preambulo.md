@@ -1,0 +1,2 @@
+Instrução CVM nº 251, de 1996
+Dispõe sobre as hipóteses de aplicação do RITO SUMÁRIO no processo administrativo O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada nesta data, e com fundamento no disposto no art. 9º, § 2º, da Lei nº 6.385, de 7 de dezembro de 1976, e no item II da Resolução nº 1.657, de 26 de outubro de 1989, do Conselho Monetário Nacional, RESOLVEU:
