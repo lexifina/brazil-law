@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 16, de 25 de setembro de 1998
+"Dispõe sobre redução de multas administrativas ao controle das importações."
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o item II da Instrução Normativa SRF No 34, de 18 de setembro de 1974, e tendo em vista o disposto no § 3o do art. 44 da Lei No 9.430, de 27 de dezembro de 1996,
+Declara, em carater normativo, as Superintendencias Regionais da Receita Federal, as Delegacias da Receita Federal de Julgamento e aos demais interessados, que a reducao de que trata o & 3o do art. 44 da Lei No 9.430, de 27 de dezembro de 1996, aplica-se as multas administrativas ao controle das importacoes definidas no art. 169 do Decreto-lei No 37, de 18 de novembro de 1966, com a redacao dada pelo art. 2o da Lei No 6.562, de 18 de setembro de 1978, regulamentado no art. 526 do Regulamento Aduaneiro, aprovado pelo Decreto No 91.030, de 5 de marco de 1985. importações."
+CARLOS ALBERTO DE NIZA E CASTRO
