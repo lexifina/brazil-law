@@ -1,0 +1,1 @@
+Artigo 6º - Após a criação de cargos a que se refere o artigo 12 destas Disposições Transitórias, será realizado, em caráter excepcional, acesso especial para provimento de cargos de Executivo Público I.
