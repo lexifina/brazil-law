@@ -1,0 +1,2 @@
+Art. 28. São isentos de tributos federais os atos e operações necessários à aplicação desta lei, quando praticados pela Caixa Econômica Federal, pelos trabalhadores e seus dependentes ou sucessores, pelos empregadores e pelos estabelecimentos bancários.
+Parágrafo único. Aplica-se o disposto neste artigo às importâncias devidas, nos termos desta lei, aos trabalhadores e seus dependentes ou sucessores.

@@ -1,0 +1,1 @@
+Art. 30. Fica reduzida para 1 1/2 (um e meio) por cento a contribuição devida pelas empresas ao Serviço Social do Comércio e ao Serviço Social da Indústria e dispensadas estas entidades da subscrição compulsória a que alude o art. 21 da Lei nº 4.380, de 21 de agosto de 1964.
