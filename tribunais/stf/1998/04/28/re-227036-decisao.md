@@ -1,0 +1,14 @@
+DECISÃO: A Terceira Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, em sede de apelação, firmou entendimento sobre o benefício do vale-alimentação nos seguintes termos:
+    EMENTA: "Administrativo. Servidor público municipal. Vale-alimentação. Benefício que não se estende aos servidores inativos, destinando-se à percepção no desempenho da atividade laborativa. Característica indenizatória, não se podendo entender como remuneração. Lei instituidora (Lei 7.532/94) estabelecendo, expressamente, que o benefício não integra o vencimento, remuneração ou salário, nem a eles se incorpora para quaisquer efeitos. Inconstitucionalidade inocorrente. Interpretação do art. 40, § 4º, da CF, relacionando-se aos benefícios que permitem a incorporação. Idêntico entendimento quanto ao art. 43, § 2º, da Lei Orgânica do Município de Porto Alegre. Sentença reformada. Recurso voluntário provido."
+02. Daí o presente recurso extraordinário interposto com fundamento no art. 102, III, "c" da Constituição Federal, em face da divergência entre o disposto no seu art. 40, § 4º e o que determina a Lei Municipal nº 7.532/94, que criou o vale-alimentação, sem estender a benesse aos aposentados.
+03. A controvérsia limita-se à extensão do referido benefício.
+04. A Lei Federal nº 8.460, de 17 de dezembro de 1992, regulamentada pelo Decreto nº 2050, de 31 de outubro de 1996, na parte em que dispõe sobre o auxílio-alimentação, destina-o aos servidores civis ativos da Administração Pública Federal direta, autárquica e fundacional, sendo categórica ao estabelecer que o mesmo não será incorporado ao vencimento, remuneração, proventos ou pensão.
+05. Nos mesmos moldes foi editada a Lei Municipal nº 7.532, de 15 de outubro de 1994, prescrevendo nos incisos I e III do seu art. 7º, que o benefício não integrará o vencimento, remuneração ou salário, nem se incorporará a estes para quaisquer efeitos.
+06.  O recurso não tem condições de êxito. Infere-se do texto legal que o benefício em questão não foi estendido aos servidores inativos, por constituir vantagem pecuniária de caráter precário, concedida somente enquanto existirem as condições permissivas de sua concessão.
+07. Ademais, em obediência ao princípio da legalidade, não poderia a Administração ultrapassar os limites da lei para beneficiar o ora requerente.
+08.  Inaplicável, à espécie, o preceito inserto no art. 40, § 4º da Constituição Federal, pois conforme o entendimento externado por esta Corte, no julgamento da ADIN nº 778, DJU de 19.12.94, "nem todos os benefícios concedidos aos servidores em atividade são compatíveis com a situação do aposentado, como é o caso das férias anuais e da gratificação paga 'durante o exercício' em locais diversos".
+            Ante o exposto, com base no art. 21, § 1º do RISTF, nego seguimento ao recurso.
+      Intime-se.
+             Brasília, 28 de abril de 1998.
+Ministro Maurício Corrêa
+Relator
