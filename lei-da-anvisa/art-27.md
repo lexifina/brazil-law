@@ -1,0 +1,1 @@
+Art. 27. Os valores cuja cobrança seja atribuída por lei à Agência e apurados administrativamente, não recolhidos no prazo estipulado, serão inscritos em dívida ativa própria da Agência e servirão de título executivo para cobrança judicial, na forma da Lei.
