@@ -1,0 +1,1 @@
+Art. 1º Esta Lei regula o Programa do Seguro-Desemprego e o abono de que tratam o inciso II do art. 7º, o inciso IV do art. 201 e o art. 239, da Constituição Federal, bem como institui o Fundo de Amparo ao Trabalhador (FAT)

@@ -1,0 +1,1 @@
+Art. 24. Os trabalhadores e empregadores prestarão as informações necessárias, bem como atenderão às exigências para a concessão do seguro-desemprego e o pagamento do abono salarial, nos termos e prazos fixados pelo Ministério do Trabalho.
