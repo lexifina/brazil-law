@@ -1,0 +1,2 @@
+Art. 10. Recebidos os autos na Secretaria do Tribunal Regional Eleitoral, estes serão autuados e apresentados no mesmo dia ao Presidente, que, também na mesma data, os distribuirá a um Relator e mandará abrir vistas ao Procurador Regional pelo prazo de 2 (dois) dias.
+Parágrafo único. Findo o prazo, com ou sem parecer, os autos serão enviados ao Relator, que os apresentará em mesa para julgamento em 3 (três) dias, independentemente de publicação em pauta.
