@@ -1,0 +1,9 @@
+Art. 6º - Os órgãos e entidades da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios, bem como as fundações instituídas pelo Poder Público, responsáveis pela proteção e melhoria da qualidade ambiental, constituirão o Sistema Nacional do Meio Ambiente - SISNAMA, assim estruturado:
+I - Órgão Superior: o Conselho Nacional do Meio Ambiente - CONAMA, com a função de assistir o Presidente da República na formulação de diretrizes da Política Nacional do Meio Ambiente;
+II - Órgão Central: a Secretaria Especial do Meio Ambiente - SEMA, do Ministério do Interior, à qual cabe promover, disciplinar e avaliar a implantação da Política Nacional do Meio Ambiente;
+III - Órgãos Setoriais: os órgãos ou entidades integrantes da Administração Pública Federal, direta ou indireta, bem como as fundações instituídas pelo Poder Público, cujas entidades estejam, total ou parcialmente, associadas às de preservação da qualidade ambiental ou de disciplinamento do uso de recursos ambientais;
+IV - Órgãos Seccionais: os órgãos ou entidades estaduais responsáveis pela execução de programas e projetos e de controle e fiscalização das atividades suscetíveis de degradarem a qualidade ambiental;
+V - Órgãos Locais: os órgãos ou entidades municipais responsáveis pelo controle e fiscalização dessas atividades, nas suas respectivas áreas de jurisdição.
+§ 1º - Os Estados, na esfera de suas competências e nas áreas de sua jurisdição, elaborarão normas supletivas e complementares e padrões relacionados com o meio ambiente, observados os que forem estabelecidos pelo CONAMA.
+§ 2º O s Municípios, observadas as normas e os padrões federais e estaduais, também poderão elaborar as normas mencionadas no parágrafo anterior.
+§ 3º Os órgãos central, setoriais, seccionais e locais mencionados neste artigo deverão fornecer os resultados das análises efetuadas e sua fundamentação, quando solicitados por pessoa legitimamente interessada.

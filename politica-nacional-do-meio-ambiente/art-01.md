@@ -1,0 +1,1 @@
+Art. 1º - Esta Lei, com fundamento no art. 8º, item XVII, alíneas c, h e i, da Constituição Federal, estabelece a Política Nacional do Meio Ambiente, seus fins e mecanismos de formulação e aplicação, constitui o Sistema Nacional do Meio Ambiente, cria o Conselho Nacional do Meio Ambiente e institui o Cadastro Técnico Federal de Atividades e Instrumentos de Defesa Ambiental.

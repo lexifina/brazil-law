@@ -1,0 +1,9 @@
+Art. 14 - Sem prejuízo das penalidades definidas pela legislação federal, estadual e municipal, o não cumprimento das medidas necessárias à preservação ou correção dos inconvenientes e danos causados pela degradação da qualidade ambiental sujeitará os transgressores:
+I - à multa simples ou diária, nos valores correspondentes, no mínimo, a 10 (dez) e, no máximo, a 1.000 (mil) Obrigações Reajustáveis do Tesouro Nacional - ORTNs, agravada em casos de reincidência específica, conforme dispuser o regulamento, vedada a sua cobrança pela União se já tiver sido aplicada pelo Estado, Distrito Federal, Territórios ou pelos Municípios.
+II - à perda ou restrição de incentivos e benefícios fiscais concedidos pelo Poder Público;
+III - à perda ou suspensão de participação em linhas de financiamento em estabelecimentos oficiais de crédito;
+IV - à suspensão de sua atividade.
+§ 1º - Sem obstar a aplicação das penalidades previstas neste artigo, é o poluidor obrigado, independentemente da existência de culpa, a indenizar ou reparar os danos causados ao meio ambiente e a terceiros, afetados por sua atividade. O Ministério Público da União e dos Estados terá legitimidade para propor ação de responsabilidade civil e criminal, por danos causados ao meio ambiente.
+§ 2º - No caso de omissão da autoridade estadual ou municipal, caberá ao Secretário do Meio Ambiente a aplicação das penalidades pecuniárias previstas neste artigo.
+§ 3º - Nos casos previstos nos incisos II e III deste artigo, o ato declaratório da perda, restrição ou suspensão será atribuição da autoridade administrativa ou financeira que concedeu os benefícios, incentivos ou financiamento, cumprindo resolução do CONAMA.
+§ 4º Nos casos de poluição provocada pelo derramamento ou lançamento de detritos ou óleo em águas brasileiras, por embarcações e terminais marítimos ou fluviais, prevalecerá o disposto na Lei nº 5.357, de 17 de novembro de 1967.
