@@ -1,1 +1,1 @@
-Art. 30. Constituída a Agência Nacional de Vigilância Sanitária, com a publicação de seu Regimento Interno, pela Diretoria Colegiada, estará extinta a Secretaria de Vigilância Sanitária.
+Art. 30. Constituída a Agência Nacional de Vigilância Sanitária, com a publicação de seu regimento interno pela Diretoria Colegiada, ficará a Autarquia, automaticamente, investida no exercício de suas atribuições, e extinta a Secretaria de Vigilância Sanitária.
