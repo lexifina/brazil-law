@@ -1,0 +1,4 @@
+Art. 7º Em caso de descumprimento das condições e dos prazos previstos na forma do caput do art. 5º desta Lei, ou não sendo cumpridas as etapas previstas no § 5º do art. 5º desta Lei, o Município procederá à aplicação do imposto sobre a propriedade predial e territorial urbana (IPTU) progressivo no tempo, mediante a majoração da alíquota pelo prazo de cinco anos consecutivos.
+§ 1º O valor da alíquota a ser aplicado a cada ano será fixado na lei específica a que se refere o caput do art. 5º desta Lei e não excederá a duas vezes o valor referente ao ano anterior, respeitada a alíquota máxima de quinze por cento.
+§ 2º Caso a obrigação de parcelar, edificar ou utilizar não esteja atendida em cinco anos, o Município manterá a cobrança pela alíquota máxima, até que se cumpra a referida obrigação, garantida a prerrogativa prevista no art. 8º.
+§ 3º É vedada a concessão de isenções ou de anistia relativas à tributação progressiva de que trata este artigo.
