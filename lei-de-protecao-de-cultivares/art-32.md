@@ -1,0 +1,1 @@
+Art. 32. O Ministério da Agricultura e do Abastecimento e o Ministério da Justiça, no âmbito das respectivas atribuições, disporão de forma complementar sobre o procedimento e as condições para apreciação e concessão da licença compulsória, observadas as exigências procedimentais inerentes à ampla defesa e à proteção ao direito de propriedade instituído por esta Lei.
