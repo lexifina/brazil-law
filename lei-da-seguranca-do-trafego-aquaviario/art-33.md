@@ -1,0 +1,2 @@
+Art. 33. Os acidentes e fatos da navegação, definidos em lei específica, aí incluídos os ocorridos nas plataformas, serão apurados por meio de inquérito administrativo instaurado pela autoridade marítima, para posterior julgamento no Tribunal Marítimo.
+Parágrafo único. Nos casos de que trata este artigo, é vedada a aplicação das sanções previstas nesta Lei antes da decisão final do Tribunal Marítimo, sempre que uma infração for constatada no curso de inquérito administrativo para apurar fato ou acidente da navegação, com exceção da hipótese de poluição das águas.
