@@ -1,0 +1,2 @@
+Art. 23. O liquidante juntará a cada declaração a informação completa a respeito do resultado das averiguações a que procedeu nos livros, papéis e assentamentos da entidade, relativos ao crédito declarado, bem como sua decisão quanto à legitimidade, valor e classificação.
+Parágrafo único. O liquidante poderá exigir dos ex-administradores da instituição que prestem informações sobre qualquer dos créditos declarados.
