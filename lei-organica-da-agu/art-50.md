@@ -1,0 +1,1 @@
+Art. 50. Aplica-se ao Advogado-Geral da União, ao Procurador-Geral da União, ao Consultor-Geral da União, aos Consultores da União e aos Consultores Jurídicos, no que couber, o Capítulo IV do Título III desta lei complementar.

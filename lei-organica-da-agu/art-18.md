@@ -1,0 +1,1 @@
+Art. 18. No desempenho das atividades de consultoria e assessoramento aos órgãos jurídicos das autarquias e das fundações públicas aplica-se, no que couber, o disposto no art. 11 desta lei complementar.

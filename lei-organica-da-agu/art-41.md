@@ -1,0 +1,1 @@
+Art. 41. Consideram-se, igualmente, pareceres do Advogado-Geral da União, para os efeitos do artigo anterior, aqueles que, emitidos pela Consultoria-Geral da União, sejam por ele aprovados e submetidos ao Presidente da República.

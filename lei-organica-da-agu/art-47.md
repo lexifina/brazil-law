@@ -1,0 +1,1 @@
+Art. 47. O Advogado-Geral da União pode requisitar servidores dos órgãos ou entidades da Administração Federal, para o desempenho de cargo em comissão ou atividade outra na Advocacia-Geral da União, assegurados ao servidor todos os direitos e vantagens a que faz jus no órgão ou entidade de origem, inclusive promoção.

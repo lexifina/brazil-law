@@ -1,0 +1,1 @@
+Art. 27. Os membros efetivos da Advocacia-Geral da União têm os deveres previstos na Lei nº 8.112, de 11 de dezembro de 1990, sujeitando-se ainda às proibições e impedimentos estabelecidos nesta lei complementar.

@@ -1,0 +1,1 @@
+Art. 61. A opção, facultada pelo § 2º do art. 29 do Ato das Disposições Constitucionais Transitórias da Constituição Federal, aos Procuradores da República, deve ser manifestada, ao Advogado-Geral da União, no prazo improrrogável de quinze dias, contado da publicação da lei prevista no parágrafo único do art. 26 desta lei complementar.
