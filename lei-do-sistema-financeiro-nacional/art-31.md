@@ -1,0 +1,1 @@
+Art. 31. As instituições financeiras levantarão balanços gerais a 30 de junho e 31 de dezembro de cada ano, obrigatoriamente, com observância das regras contábeis estabelecidas pelo Conselho Monetário Nacional.

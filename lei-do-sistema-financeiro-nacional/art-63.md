@@ -1,0 +1,1 @@
+Art. 63. Os mandatos dos primeiros membros do Conselho Monetário Nacional, a que alude o inciso IV, do artigo 6º desta lei serão respectivamente de 6 (seis), 5 (cinco), 4 (quatro), 3 (três), 2 (dois) e 1 (um) anos.

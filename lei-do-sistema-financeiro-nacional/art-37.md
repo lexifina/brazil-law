@@ -1,0 +1,1 @@
+Art. 37. As instituições financeiras, entidades e pessoas referidas nos artigos 17 e 18 desta lei, bem como os corretores de fundos públicos, ficam, obrigados a fornecer ao Banco Central da República do Brasil, na forma por ele determinada, os dados ou informes julgados necessários para o fiel desempenho de suas atribuições.
