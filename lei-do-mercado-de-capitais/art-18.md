@@ -1,0 +1,1 @@
+Art. 18. São isentas do impôsto do sêlo quaisquer conversões, livremente pactuadas, em ações ou cotas do capital das emprêsas obrigadas em títulos de dívida em circulação na data da presente lei, sem a coobrigação de instituições financeiras, concretizadas no prazo de 180 (cento e oitenta) dias da vigência desta Lei.

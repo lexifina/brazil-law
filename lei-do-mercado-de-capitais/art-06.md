@@ -1,0 +1,1 @@
+Art. 6 As Bôlsas de Valôres terão autonomia administrativa, financeira e patrimonial, e operarão sob a supervisão do Banco Central, de acôrdo com a regulamentação expedida pelo Conselho Monetário Nacional.

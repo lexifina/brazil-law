@@ -1,0 +1,2 @@
+Art. 82. Até que sejam expedidos os Títulos da Dívida Agrária, criados pelo art. 105 da Lei n. 4.504, de 30 de novembro de 1964, poderá o Poder Executivo, para os fins previstos naquela Lei, se utilizar das Obrigações do Tesouro Nacional - Tipo Reajustável, criadas pela Lei n. 4.357, de 16 de julho de 1964.
+Parágrafo único. As condições e vantagens asseguradas aos Títulos da Dívida Agrária serão atribuídas às Obrigações do Tesouro Nacional - Tipo Reajustável, emitidas na forma dêste artigo, e constarão obrigatòriamente dos respectivos certificados.
