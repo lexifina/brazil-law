@@ -1,0 +1,4 @@
+Art. 58. O art. 42 da Lei nº 9.430, de 27 de dezembro de 1996, passa a vigorar acrescido dos seguintes §§ 5º e 6º:
+"Art. 42.
+§ 5º Quando provado que os valores creditados na conta de depósito ou de investimento pertencem a terceiro, evidenciando interposição de pessoa, a determinação dos rendimentos ou receitas será efetuada em relação ao terceiro, na condição de efetivo titular da conta de depósito ou de investimento.
+§ 6º Na hipótese de contas de depósito ou de investimento mantidas em conjunto, cuja declaração de rendimentos ou de informações dos titulares tenham sido apresentadas em separado, e não havendo comprovação da origem dos recursos nos termos deste artigo, o valor dos rendimentos ou receitas será imputado a cada titular mediante divisão entre o total dos rendimentos ou receitas pela quantidade de titulares."(NR)

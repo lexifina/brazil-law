@@ -1,0 +1,1 @@
+Art. 54. O papel para cigarros, em bobinas, somente poderá ser vendido, no mercado interno, a estabelecimento industrial que possua o Registro Especial de que trata o art. 1º do Decreto-Lei nº 1.593, de 21 de dezembro de 1977, com a redação dada pela Medida Provisória nº 2.158-35, de 24 de agosto de 2001.
