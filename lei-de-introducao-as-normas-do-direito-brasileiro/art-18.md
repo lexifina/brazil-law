@@ -1,1 +1,1 @@
-Art. 18. Tratando-se de brasileiros ausentes de seu domicílio no país, são competentes as autoridades consulares brasileiras para lhes celebrar o casamento, assim como para exercer as funções de tabelião e de oficial do registo civil em atos a eles relativos no estrangeiro.
+Art. 18. Tratando-se de brasileiros, são competentes as autoridades consulares brasileiras para lhes celebrar o casamento e os mais atos de Registro Civil e de tabelionato, inclusive o registro de nascimento e de óbito dos filhos de brasileiro ou brasileira nascido no país da sede do Consulado.
