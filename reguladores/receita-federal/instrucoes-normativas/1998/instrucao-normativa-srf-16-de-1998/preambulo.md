@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 16, de 16 de fevereiro de 1998
+Estabelece normas e procedimentos para o controle do valor aduaneiro de mercadoria importada.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições, tendo em vista o Acordo sobre a Implementação do Artigo VII do Acordo Geral sobre Tarifas e Comércio - GATT 1994, constante do Anexo 1A ao Acordo Constitutivo da Organização Mundial de Comércio - OMC, promulgado pelo Decreto nº 1.355, de 30 de dezembro de 1994, e considerando o disposto no art. 436 do Regulamento Aduaneiro aprovado pelo Decreto nº 91.030, de 05 de março de 1985, no Decreto nº 2.498, de 13 de fevereiro de 1998, e na Portaria nº 28, de 16 de fevereiro de 1998, do Ministro da Fazenda, resolve:
