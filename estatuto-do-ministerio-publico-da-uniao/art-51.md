@@ -1,0 +1,1 @@
+Art. 51. A ação penal pública contra o Procurador-Geral da República, quando no exercício do cargo, caberá ao Subprocurador-Geral da República que for designado pelo Conselho Superior do Ministério Público Federal.

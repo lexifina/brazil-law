@@ -1,0 +1,1 @@
+Art. 19. O Procurador-Geral da República terá as mesmas honras e tratamento dos Ministros do Supremo Tribunal Federal; e os demais membros da instituição, as que forem reservadas aos magistrados perante os quais oficiem.

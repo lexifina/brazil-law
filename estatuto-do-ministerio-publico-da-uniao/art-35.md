@@ -1,0 +1,1 @@
+Art. 35. A Secretaria do Ministério Público da União é dirigida pelo seu Diretor-Geral de livre escolha do Procurador-Geral da República e demissível ad nutum, incumbindo-lhe os serviços auxiliares de apoio técnico e administrativo à Instituição.

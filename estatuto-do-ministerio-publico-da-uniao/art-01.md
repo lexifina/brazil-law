@@ -1,0 +1,1 @@
+Art. 1º O Ministério Público da União, organizado por esta lei Complementar, é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático, dos interesses sociais e dos interesses individuais indisponíveis.
