@@ -1,0 +1,27 @@
+DECISÃO: - Vistos. O acórdão recorrido, em ação sob o
+procedimento ordinário, julgando que a garantia insculpida no art.
+40, § 5º, da Constituição Federal é de eficácia imediata, decidiu
+que a pensão paga ao dependente de servidor vinculado ao Montepio
+dos Funcionários do Município de Porto Alegre deve ser integral.
+Concluiu, ainda, que este entendimento foi reforçado após a EC nº
+20, de 15.12.98.
+Daí o RE, interposto pelo MONTEPIO DOS FUNCIONÁRIOS DO
+MUNICÍPIO DE PORTO ALEGRE, fundado no artigo 102, III, a, da
+Constituição, sustentando, em síntese, ofensa aos artigos 5º, XXXVI;
+40, 7º; 61, § 1º, II, b e c; e 195, § 5º, da mesma Carta.
+Com base na jurisprudência do Supremo Tribunal Federal o
+recurso foi inadmitido na origem.
+Autos conclusos no dia 09 do corrente mês.
+A decisão é de ser mantida, dado que ajustada à
+jurisprudência da Casa, que se firmou no sentido de que a norma do
+artigo 40, §§ 4º e 5º, da Constituição, é de eficácia plena e
+aplicabilidade imediata e que o disposto no parágrafo 5º, do artigo
+195, não lhe retira a auto-aplicabilidade. Menciono, inter plures:
+MMII 211-DF e 263-DF, MS 21.521-CE, RREE 161.224-CE, 179.646-MG,
+140.863-AM, MI 274 (AgRg)-DF e AG 221.703 (AgRg)-SP, por mim
+relatado, "D.J." de 18.12.1998.
+ Nego seguimento ao agravo.
+ Publique-se.
+ Brasília, 28 de maio de 2002.
+               Ministro CARLOS VELLOSO
+                     - Relator -
