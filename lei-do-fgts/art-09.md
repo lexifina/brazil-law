@@ -1,4 +1,4 @@
-Art. 9º As aplicações com recursos do FGTS poderão ser realizadas diretamente pela Caixa Econômica Federal, pelos demais órgãos integrantes do Sistema Financeiro da Habitação - SFH e pelas entidades para esse fim credenciadas pelo Banco Central do Brasil como agentes financeiros, exclusivamente segundo critérios fixados pelo Conselho Curador do FGTS, em operações que preencham os seguintes requisitos:
+Art. 9º As aplicações com recursos do FGTS poderão ser realizadas diretamente pela Caixa Econômica Federal e pelos demais órgãos integrantes do Sistema Financeiro da Habitação - SFH, exclusivamente segundo critérios fixados pelo Conselho Curador do FGTS, em operações que preencham os seguintes requisitos:
 I - Garantias:
 a) hipotecária;
 b) caução de Créditos hipotecários próprios, relativos a financiamentos concedidos com recursos do agente financeiro;

@@ -1,0 +1,1 @@
+Art. 37-A. O fiduciante pagará ao fiduciário, ou a quem vier a sucedê-lo, a título de taxa de ocupação do imóvel, por mês ou fração, valor correspondente a um por cento do valor a que se refere o inciso VI do art. 24, computado e exigível desde a data da alienação em leilão até a data em que o fiduciário, ou seus sucessores, vier a ser imitido na posse do imóvel.
