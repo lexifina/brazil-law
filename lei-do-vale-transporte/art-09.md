@@ -1,1 +1,1 @@
-Art. 9º - Asseguram-se os benefícios desta Lei ao empregador que proporcionar, por meios próprios ou contratados, em veículos adequados ao transporte coletivo, o deslocamento integral de seus trabalhadores.
+Art. 9 - Os Vales-Transporte anteriores perdem sua validade decorridos 30 (trinta) dias da data de reajuste tarifário.
