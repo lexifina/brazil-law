@@ -1,0 +1,1 @@
+Art. 2º A educação ambiental é um componente essencial e permanente da educação nacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo educativo, em caráter formal e não-formal.

@@ -1,0 +1,7 @@
+Art. 3º Como parte do processo educativo mais amplo, todos têm direito à educação ambiental, incumbindo:
+I - ao Poder Público, nos termos dos arts. 205 e 225 da Constituição Federal, definir políticas públicas que incorporem a dimensão ambiental, promover a educação ambiental em todos os níveis de ensino e o engajamento da sociedade na conservação, recuperação e melhoria do meio ambiente;
+II - às instituições educativas, promover a educação ambiental de maneira integrada aos programas educacionais que desenvolvem;
+III - aos órgãos integrantes do Sistema Nacional de Meio Ambiente - Sisnama, promover ações de educação ambiental integradas aos programas de conservação, recuperação e melhoria do meio ambiente;
+IV - aos meios de comunicação de massa, colaborar de maneira ativa e permanente na disseminação de informações e práticas educativas sobre meio ambiente e incorporar a dimensão ambiental em sua programação;
+V - às empresas, entidades de classe, instituições públicas e privadas, promover programas destinados à capacitação dos trabalhadores, visando à melhoria e ao controle efetivo sobre o ambiente de trabalho, bem como sobre as repercussões do processo produtivo no meio ambiente;
+VI - à sociedade como um todo, manter atenção permanente à formação de valores, atitudes e habilidades que propiciem a atuação individual e coletiva voltada para a prevenção, a identificação e a solução de problemas ambientais.
