@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF08 nº 8, de 14 de janeiro de 2004
+Assunto: Imposto sobre Produtos Industrializados - IPI
+Ementa: DESTAQUE “EX”. Enquadram-se no “Ex 01” do código 8481.10.00 da Tipi aprovada pelo Decreto nº 4.542, de 2002, as válvulas redutoras de pressão que em função de suas características e propriedades intrínsecas sejam próprias para uso nas máquinas e veículos autopropulsados dos códigos 84.29, 8433.20, 8433.30.00, 8433.40.00, 8433.5, 87.01, 87.02, 87.03, 87.04, 87.05 e 87.06 da mesma tabela. O enquadramento no referido “Ex”, portanto, não se dá em razão da qualidade do adquirente/destinatário dos bens. A determinação oficial se um dado produto está compreendido em destaque “Ex” da Tipi é matéria a ser decidida apenas em consulta específica de classificação fiscal de mercadorias.
+Dispositivos Legais: Decreto nº 4.441, de 2002, art. 3º, anexo III; Tabela Anexa (Tipi) ao Decreto nº 4.542, de 2002, código 8481.10.00, “Ex 01”.
+[arquivo anexo: SC SRRF08-Disit nº 8-2004.pdf]
