@@ -1,0 +1,10 @@
+DECRETO-LEI Nº 9.403, DE 25 DE JUNHO DE 1946
+Atribui à Confederação Nacional da Indústria o encargo de criar, organizar e dirigir o Serviço Social da Indústria, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 180 da Constituição e
+Considerando as dificuldades que os encargos de após-guerra têm criado na vida social e econômica do país, com intensas repercussões nas condições de vida da coletividade, em especial das classes menos favorecidas;
+Considerando que é dever do Estado concorrer não só diretamente para a solução desses problemas, como favorecer e estimular a cooperação das classes em iniciativas tendentes a promover o bem estar dos trabalhadores e de suas famílias;
+Considerando que a execução de medidas que contribuam para esse objetivo, em relação aos trabalhadores na indústria e atividades assemelhadas, constitui uma necessidade indeclinável, favorecendo, outrossim, a melhoria do padrão geral de vida no país;
+Considerando que a Confederação Nacional da Indústria, como entidade representativa dos interesses das atividades produtoras, em todo o país, oferece o seu concurso a essa obra, dispondo-se a organizar, com recursos auferidos dos empregadores, um serviço próprio, destinado a proporcionar assistência social e melhores condições de habitação, nutrição, higiene dos trabalhadores e, bem assim, desenvolver o esforço de solidariedade entre empregados e empregadores;
+Considerando que os resultados das experiências já realizadas com o aproveitamento da cooperação das entidades de classes em empreendimentos de interesse coletivo, em outro campo de atividade, como o Serviço de Aprendizagem Industrial, são de molde a recomendar a atribuição à Confederação Nacional da Indústria dos encargos acima referidos.
+Considerando que esse programa, incentivando o sentimento e o espírito de justiça social entre as classes, muito concorrerá para destruir, em nosso meio, os elementos propícios à germinação de influências dissolventes e prejudiciais aos interesses da coletividade,
+DECRETA:
