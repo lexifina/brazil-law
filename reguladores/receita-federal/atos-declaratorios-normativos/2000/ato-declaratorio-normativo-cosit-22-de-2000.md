@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 22, de 31 de outubro de 2000
+Dispõe sobre o percentual do Lucro Presumido aplicável às sociedades prestadoras de serviços relativos ao exercício de profissões legalmente regulamentada.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o art. 199, inciso IV, do Regimento Interno aprovado pela Portaria MF No 227, de 3 de setembro de 1998, e tendo em vista as disposições do art. 40 da Lei No 9.250, de 26 de dezembro de 1995 e dos parágrafos 4o e 5o do art. 519 do DecretoNo 3000, de 26 de março de 1999,
+declara, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados que as sociedades prestadoras de serviços relativos ao exercício de profissões legalmente regulamentadas, como por exemplo as escolas, inclusive as creches, mesmo com receita bruta anual de até R$ 120.000,00, não podem aplicar o percentual de 16% sobre a receita bruta para fins de determinação do Lucro presumido, devendo, portanto, aplicar o percentual de 32%.
+CARLOS ALBERTO DE NIZA E CASTRO
