@@ -7,3 +7,4 @@ I - dos incentivos fiscais de dedução do imposto, observados os limites e praz
 II - dos incentivos fiscais de redução e isenção do imposto, calculados com base no lucro da exploração;
 III - do imposto de renda pago ou retido na fonte, incidente sobre receitas computadas na determinação do lucro real;
 IV - do imposto de renda pago na forma deste artigo.
+§ 5º O disposto no § 2º não se aplica às sociedades resseguradoras locais de que trata o inciso I do caput do art. 4º da Lei Complementar nº 126, de 15 de janeiro de 2007.
