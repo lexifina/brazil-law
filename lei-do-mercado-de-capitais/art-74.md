@@ -1,1 +1,1 @@
-Art. 74. Quem colocar no mercado ações de sociedade anônima ou cautelas que a representem, falsas ou falsificadas, responderá por delito de ação pública, e será punido com pena de 1 a 4 anos de reclusão.
+Art. 74. Quem colocar no mercado ações de sociedade anônima ou cautelas que a representem, falsas ou falsificadas, responderá por delito de ação publica, e será punido com pena de (um) a 4 (quatro) anos de reclusão.
