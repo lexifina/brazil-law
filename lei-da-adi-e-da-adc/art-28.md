@@ -1,0 +1,2 @@
+Art. 28. Dentro do prazo de dez dias após o trânsito em julgado da decisão, o Supremo Tribunal Federal fará publicar em seção especial do Diário da Justiça e do Diário Oficial da União a parte dispositiva do acórdão.
+Parágrafo único. A declaração de constitucionalidade ou de inconstitucionalidade, inclusive a interpretação conforme a Constituição e a declaração parcial de inconstitucionalidade sem redução de texto, têm eficácia contra todos e efeito vinculante em relação aos órgãos do Poder Judiciário e à Administração Pública federal, estadual e municipal.
