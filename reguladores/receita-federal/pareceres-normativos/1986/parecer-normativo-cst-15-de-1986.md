@@ -1,0 +1,15 @@
+Parecer Normativo CST nº 15, de 6 de maio de 1986
+Natureza da atividade dos representantes comerciais autônomos. Complementa os Pareceres Normativos CST nºs 50/75, 28/76 e 15/83.
+Ao definir a sociedade de prestação de serviços para efeito de enquadramento nas normas dos Decretos-leis nº 1.790, de 09.06.1980, 2.030, de 09.06.1983, o Parecer Normativo CST nº 15/83 (D.O. de 23.09.83), em seu item 7, b, arrolou entre as que não são conceituadas como sociedade civil de prestação de serviços, porque constituídas por titulares de profissão de natureza comercial, as compostas por representantes comerciais. Tendo em vista que esta Coordenação, ao expedir os Pareceres Normativos CST nº 50/75 (D.O. de 04.09.75) e 28/76 (D.O. de 29.04.76), deixou de ressalvar e explicitar a hipótese em que aqueles profissionais passam à categoria de comerciantes, torna-se convenientes aditar esclarecimentos que eliminem algumas dúvidas que resultaram dos termos daqueles atos normativos e possam revelar o enquadramento da atividade na legislação do imposto sobre a renda.
+2. O vigente Regulamento do Imposto sobre a Renda, aprovado pelo Decreto nº 85.450, de 4 de dezembro de 1980 (RIR/80), a nosso ver, aponta critério seguro para se reconhecer a circunstância em que o representante comercial é contemplado com o regime tributário da pessoa física, o qual consiste basicamente na prática de atos de comércio por conta alheia, como passamos a transcrever:
+"Art. 30 Na cédula D serão classificados os rendimentos do trabalho não compreendidos na cédula anterior, tais como:
+(...)
+III - remuneração dos agentes, representantes e outras pessoas sem vínculo empregatício que, tomando parte em atos de comércio, não os pratiquem, todavia, por conta própria" (grifamos).
+3. Tal critério distintivo está consagrado atualmente pelo Sistema Nacional do Registro de Comércio, com apoio doutrinário em J. X. CARVALHO DE MENDONÇA, Trat. de Dir. Com. Bras. 11/219-220, e DE PLACIDO E SILVA, Noções Práticas de Dir. Com., p. 111.
+4. Em conseqüência, as seguintes conclusões servem a complementar os atos normativos inicialmente citados:
+1) O representante comercial que exerce atividades por conta própria adquire a condição de comerciante, independentemente de qualquer requisito formal, ocorrendo neste caso, para efeitos tributários, equiparação da empresa individual a pessoa jurídica, por força do disposto na alínea "b" do § 1º do artigo 97 do RIR /80;
+2) O representante comercial que exerce exclusivamente a mediação para a realização de negócios mercantis, como a define o art. 19 da Lei nº 4.886, de 9 de dezembro de 1965, terá seus rendimentos incluídos na cédula D da declaração de rendimentos da pessoa física, por incidência do art. 30, III, do RIR/80, uma vez não a tenha praticado por conta própria.
+À consideração superior.
+CST/ASSESSORIA, 05 de maio de 1986.
+De acordo.
+Publique-se e, a seguir, encaminhem-se cópias às Superintendências Regionais da Receita Federal para conhecimento e ciência aos demais órgãos subordinados.
