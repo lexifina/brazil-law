@@ -1,0 +1,25 @@
+# Decreto-Lei nº 5.942, de 28/10/1943
+
+DEcRETO-LEI NDEcRETO-LEI Nnormandonormando7232002-01-25T15:03:00Z2002-01-30T10:32:00Z1173989POLICENTRO-CONSULPREV0000.0000
+
+DECRETO‑LEI N. 5.942 – DE 28 DE OUTUBRO DE 1943
+
+Cria um cargo, em comissão, no Quadro Permanente do Ministério da Agricultura e dá outras providências
+
+O Presidente da República, usando da atribuição que lhe confere o art. 180 da Constituição,
+
+decreta:
+
+Art. 1º Fica criado, no Quadro Permanente do Ministério da Agricultura, um (1) cargo, em comissão, padrão O, de Administrador da CoIônia Agrícola Nacional "Dourados" (C. A. N. D.), no Território Federal de Ponta Porã, criada pelo decreto‑lei nº 5.941, de 28 de outubro de 1943.
+
+Art. 2º Para atender, no período de outubro, novembro e dezembro do corrente ano, às despesas com a execução dêste decreto‑lei, fica aberto, ao Ministério da Agricultura (Anexo nº 12 do Orçamento Geral da União para 1943), o crédito suplementar de Cr$ 10.500,00 (dez mil e quinhentos cruzeiros), à Verba 1 – Pessoal, Consignação I – Pessoal Permanente, Subconsignação 01 – Pessoal Permanente.
+
+Art. 3º Êste decreto‑lei entra em vigor em 1º de outubro de 1943, revogadas as disposições em contrário.
+
+Rio de janeiro, 28 de outubro de 1943, 122º da Independência e 55º da República.
+
+GeTúLIO VARGAS.
+
+Apolônio Sales.
+
+A. de Sousa Costa.
