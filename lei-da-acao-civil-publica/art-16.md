@@ -1,1 +1,1 @@
-Art. 16. A sentença civil fará coisa julgada erga omnes, exceto se a ação for julgada improcedente por deficiência de provas, hipótese em que qualquer legitimado poderá intentar outra ação com idêntico fundamento, valendo-se de nova prova.
+Art. 16. A sentença civil fará coisa julgada erga omnes, nos limites da competência territorial do órgão prolator, exceto se o pedido for julgado improcedente por insuficiência de provas, hipótese em que qualquer legitimado poderá intentar outra ação com idêntico fundamento, valendo-se de nova prova.
