@@ -1,3 +1,3 @@
-Art. 6º Compete ao Ministério dos Transportes a adoção das medidas indispensáveis à implantação do Vale-Pedágio obrigatório, a regulamentação, a coordenação, a delegação e a fiscalização, o processamento e a aplicação das penalidades por infrações a esta Lei.
+Art. 6º Compete à ANTT a adoção das medidas indispensáveis à implantação do Vale-Pedágio obrigatório, a regulamentação, a coordenação, a delegação e a fiscalização, o processamento e a aplicação das penalidades por infrações a esta Lei.
 § 1º A fiscalização, o processamento e a aplicação das penalidades previstas neste artigo poderão ser descentralizados mediante convênio a ser celebrado com o Ministério do Trabalho e Emprego e com outros órgãos ou entidades da Administração Pública Federal, dos Estados, do Distrito Federal ou dos Municípios.
-§ 2º O Ministério dos Transportes obriga-se a subsidiar os órgãos ou as entidades de que trata o parágrafo anterior, fornecendo-lhes elementos necessários e atualizados.
+§ 2º A ANTT obriga-se a prover os órgãos ou as entidades de que trata o § 1º, fornecendo-lhes elementos necessários e atualizados.
