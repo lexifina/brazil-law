@@ -1,0 +1,1 @@
+Art. 6º Qualquer pessoa poderá e o servidor público deverá provocar a iniciativa do Ministério Público, ministrando-lhe informações sobre fatos que constituam objeto da ação civil e indicando-lhe os elementos de convicção.
