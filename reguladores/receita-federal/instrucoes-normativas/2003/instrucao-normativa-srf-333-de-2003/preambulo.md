@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 333, de 23 de junho de 2003
+Dispõe sobre o Imposto de Renda incidente na fonte sobre os rendimentos auferidos por cooperativas de crédito ou pagos ou creditados a seus associados.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e, tendo em vista o disposto no art. 17 da Lei nº 4.595, de 31 de dezembro de 1964, no inciso I do art. 77 da Lei nº 8.981, de 20 de janeiro de 1995, com a redação dada pelo art. 1º da Lei nº 9.065, de 20 de junho de 1995, e nos arts. 182, 183, 246, 729, 732 e 773 do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto de Renda (RIR/1999), resolve:
