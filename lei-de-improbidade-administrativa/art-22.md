@@ -1,0 +1,1 @@
+Art. 22. Para apurar qualquer ilícito previsto nesta lei, o Ministério Público, de ofício, a requerimento de autoridade administrativa ou mediante representação formulada de acordo com o disposto no art. 14, poderá requisitar a instauração de inquérito policial ou procedimento administrativo.
