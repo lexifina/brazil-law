@@ -1,0 +1,1 @@
+Artigo 3º - Aos atuais ocupantes de cargos de Contador Chefe, Agente Técnico Legislativo de Auditoria, Chefe de Seção II e Agente de Serviços Técnicos, do QSAL, fica mantida a condição de efetividade que lhes tenha sido assegurada pela legislação anterior.

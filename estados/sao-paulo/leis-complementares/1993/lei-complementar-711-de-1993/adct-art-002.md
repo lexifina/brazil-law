@@ -1,0 +1,1 @@
+Artigo 2º - A progressão do servidor de um grau para o imediatamente superior, dentro da respectiva referência da classe de Contador, será processada anualmente em conformidade com os critérios estabelecidos na Lei Complementar nº 700/92, no que couber.
