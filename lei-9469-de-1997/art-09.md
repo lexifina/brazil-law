@@ -1,0 +1,1 @@
+Art. 9º A representação judicial das autarquias e fundações públicas por seus procuradores ou advogados, ocupantes de cargos efetivos dos respectivos quadros, independe da apresentação do instrumento de mandato.

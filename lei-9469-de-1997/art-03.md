@@ -1,0 +1,1 @@
+Art. 3º As autoridades indicadas no caput do art. 1º poderão concordar com pedido de desistência da ação, nas causas de quaisquer valores desde que o autor renuncie expressamente ao direito sobre que se funda a ação (art. 269, inciso V, do Código de Processo Civil).

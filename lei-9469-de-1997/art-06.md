@@ -1,0 +1,2 @@
+Art. 6º Os pagamentos devidos pela Fazenda Pública federal, estadual ou municipal e pelas autarquias e fundações públicas, em virtude de sentença judiciária, far-se-ão, exclusivamente, na ordem cronológica da apresentação dos precatórios judiciários e à conta do respectivo crédito.
+Parágrafo único É assegurado o direito de preferência aos credores de obrigação de natureza alimentícia, obedecida, entre eles, a ordem cronológica de apresentação dos respectivos precatórios judiciários.

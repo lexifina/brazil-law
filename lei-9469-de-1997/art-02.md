@@ -1,0 +1,3 @@
+Art. 2º O Advogado-Geral da União e os dirigentes máximos das autarquias, fundações ou empresas publicas federais poderão autorizar a realização de acordos, homologáveis pelo Juízo, nos autos dos processos ajuizados por essas entidades, para o pagamento de débitos de valores não superiores a R$ 50.000,00 (cinqüenta mil reais), em parcelas mensais e sucessivas até o máximo de trinta.
+§ 1º O saldo devedor da divida será atualizado pelo índice de variação da Unidade Fiscal de Referência (UFIR), e sobre o valor da prestação mensal incidirão os juros, à taxa de doze por cento ao ano.
+§ 2º Inadimplida qualquer parcela, pelo prazo de trinta dias, instaura-se-á o processo de execução ou nele prosseguir-se-á, pelo saldo.
