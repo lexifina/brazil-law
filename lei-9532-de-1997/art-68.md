@@ -1,0 +1,1 @@
+Art. 68. Os processos em que estiverem presentes as circunstâncias de que trata o art. 27 do Decreto nº 70.235, de 1972, terão prioridade de tratamento, na forma estabelecida em ato do Ministro de Estado da Fazenda, na cobrança administrativa, no encaminhamento para inscrição em Dívida Ativa, na efetivação da inscrição e no ajuizamento das respectivas execuções fiscais.

@@ -1,0 +1,1 @@
+Art. 45. A importação de cigarros do código 2402.20.00 da TIPI será efetuada com observância do disposto nos arts. 46 a 54 desta Lei, sem prejuízo de outras exigências, inclusive quanto à comercialização do produto, previstas em legislação específica.
