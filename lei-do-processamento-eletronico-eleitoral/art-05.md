@@ -1,0 +1,2 @@
+Art. 5º - O alistando apresentará em cartório, ou em local previamente designado, requerimento em formulário que obedecerá a modelo aprovado pelo Tribunal Superior Eleitoral.
+Parágrafo único - O escrivão, o funcionário ou o preparador, recebendo o formulário e documentos, determinará que o alistando date e assine o requerimento, e, ato contínuo, atestará terem sido a data e a assinatura lançadas na sua presença.
