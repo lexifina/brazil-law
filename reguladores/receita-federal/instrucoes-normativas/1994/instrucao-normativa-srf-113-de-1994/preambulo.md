@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 113, de 27 de dezembro de 1994
+Estabelece procedimentos para a instalação e o funcionamento de Depósito Afiançado (DAF), em aeroportos internacionais.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições que lhe confere o art. 140, inciso III, do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MEFP nº 606, de 03 de setembro de 1992, combinado com as disposições da Portaria MF nº 678, de 22 de outubro de 1992, e tendo em vista o que consta do Anexo 9 à Convenção de Aviação Civil Internacional e o disposto no art. 406 do Regulamento Aduaneiro, aprovado pelo Decreto nº 91.030, de 05 de março de 1985, resolve:
