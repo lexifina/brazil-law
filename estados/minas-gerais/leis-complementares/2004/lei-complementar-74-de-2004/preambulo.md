@@ -1,0 +1,2 @@
+# Dá nova redação aos arts. 206, 207 e 214 da Lei nº 5.301, de 16 de outubro de 1969, que contém o Estatuto do Pessoal da Polícia Militar do Estado de Minas Gerais, e ao art. 104 da Lei nº 5.406, de 16 de dezembro de 1969, que contém a Lei Orgânica da Polícia Civil do Estado de Minas Gerais, e dá outras providências.
+O Povo de Minas Gerais, por seus representantes, decretou e eu, em seu nome, sanciono a seguinte Lei:
