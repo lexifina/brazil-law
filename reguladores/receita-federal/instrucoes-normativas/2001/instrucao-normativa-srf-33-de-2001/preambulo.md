@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 33, de 30 de março de 2001
+Relaciona países ou dependências com tributação favorecida para efeito da tributação de beneficiário residente ou domiciliado naqueles países.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 190 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF No 227, de 3 de setembro de 1998, e tendo em vista o disposto nas Leis No 9.430, de 27 de dezembro de 1996, art. 24, No 9.779, de 19 de janeiro de 1999, art. 8o, e No 9.959, de 27 de janeiro de 2000, art. 7o, e nas Medidas Provisórias No 2.113-29, de 27 de março de 2001, art. 29, § 1o, e No 2.132-43, de 27 de março de 2001, art. 16, § 2o, resolve:
