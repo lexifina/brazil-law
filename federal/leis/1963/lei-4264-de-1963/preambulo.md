@@ -1,0 +1,3 @@
+LEI Nº 4.264, de 03 de outubro de 1963
+Concede auxílios especiais ao Colégio Salesiano Santa Rosa e a Escola Industrial Dom Bosco, de Niterói; à Escola Salesiana Dom Bosco, de Fortaleza; ao Colégio Salesiano Nossa Senhora da Vitória, de Vitória; ao Ginásio Arquidiocesano, de Teresina; e dá outras providências.
+Faço saber que o CONGRESSO NACIONAL decretou, O PRESIDENTE DA REPÚBLICA sancionou, nos têrmos do § 2º do artigo 70, da Constituição Federal, e eu, AURO MOURA ANDRADE, PRESIDENTE do SENADO FEDERAL, promulgo, de acôrdo com o disposto no § 4º do mesmo artigo da Constituição, a seguinte Lei:
