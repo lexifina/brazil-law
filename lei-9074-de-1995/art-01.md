@@ -1,0 +1,7 @@
+Art. 1º Sujeitam-se ao regime de concessão ou, quando couber, de permissão, nos termos da Lei nº 8.987, de 13 de fevereiro de 1995, os seguintes serviços e obras públicas de competência da União:
+I - (VETADO)
+II - (VETADO)
+III - (VETADO)
+IV - vias federais, precedidas ou não da execução de obra pública;
+V - exploração de obras ou serviços federais de barragens, contenções, eclusas, diques e irrigações, precedidas ou não da execução de obras públicas;
+VI - estações aduaneiras e outros terminais alfandegados de uso público, não instalados em área de porto ou aeroporto, precedidos ou não de obras públicas.
