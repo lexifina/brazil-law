@@ -1,0 +1,2 @@
+Art. 2º Se a utilização de veículos pertencentes às entidades previstas no art. 1º não for suficiente para atender ao disposto nesta Lei, a Justiça Eleitoral requisitará veículos e embarcações a particulares, de preferência os de aluguel.
+Parágrafo único. Os serviços requisitados serão pagos, até trinta dias depois do pleito, a preços que correspondam aos critérios da localidade. A despesa correrá por conta do Fundo Partidário.
