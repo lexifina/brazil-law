@@ -1,0 +1,1 @@
+Artigo 9º - Para os efeitos do disposto no § 1º do artigo 5º desta lei complementar, entende-se cumprido o interstício correspondente à classe em que, na forma dos artigos 1º e 4º destas Disposições Transitórias, for integrado o cargo ou função-atividade.

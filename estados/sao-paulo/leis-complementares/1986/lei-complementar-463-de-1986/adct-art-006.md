@@ -1,0 +1,6 @@
+Artigo 6º - Em caráter excepcional, o primeiro ingresso na série de classes de Secretário de Escola, após a vigência desta lei complementar, far-se-á mediante concurso de provas ou de provas e títulos (vetado).
+§ 1º - O ocupante de função-atividade da série de classes de Secretário de Escola, que se submeter ao concurso de ingresso aludido no "caput" e vier a ser nomeado para o cargo de Secretário de Escola 1, terá o respectivo cargo transformado em cargo de nível idêntico ao da classe em que se encontrava na condição de servidor.
+§ 2º - A transformação referida no parágrafo anterior dar-se-á a partir da data do exercício no cargo.
+§ 3º - As provas do concurso de ingresso a que se refere o "caput", versarão sobre matéria específica das funções de Secretário de Escola e a execução e classificação dos candidatos serão feitas a nível local.
+§ 4º - Consideram-se títulos nos termos deste artigo para fins de classificação, a experiência adquirida em decorrência de tempo de serviço prestado na função de Secretário de Escola.
+§ 5º - A experiência será computada à razão de 0,5 (meio) ponto por mês de serviço efetivamente prestado na função de Secretário de Escola até o máximo de 40 (quarenta) pontos.

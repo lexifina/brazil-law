@@ -1,0 +1,1 @@
+Artigo 7º - O número de pontos consignados no prontuário do Secretário de Escola em 1º de Janeiro de 1986, em decorrência do conceito que lhe tiver sido atribuído no processo avaliatório correspondente ao exercício de 1985, será adequado á velocidade evolutiva fixada para a série de classes de Secretário de Escola.
