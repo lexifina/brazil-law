@@ -1,4 +1,4 @@
-Art. 40. Fica sujeita ao pagamento do imposto de renda, à alíquota de vinte e cinco por cento, a pessoa física que auferir ganhos líquidos nas operações realizadas nas bolsas de valores, de mercadorias, de futuros e assemelhadas, ressalvado o disposto no inciso II do art. 22 desta Lei.
+Art. 40. Fica sujeita ao pagamento do imposto de renda à alíquota de dez por cento, a pessoa física que auferir ganhos líquidos nas operações realizadas nas bolsas de valores, de mercadorias, de futuros e assemelhadas, ressalvado o disposto no inciso II do artigo 22 desta Lei.
 § 1º Considera-se ganho líquido o resultado positivo auferido nas operações ou contratos liquidados em cada mês, admitida a dedução dos custos e despesas efetivamente incorridos, necessários à realização das operações, e à compensação das perdas efetivas ocorridas no mesmo período.
 § 2º O ganho líquido será constituído:
 a) no caso dos mercados à vista, pela diferença positiva entre o valor de transmissão do ativo e o custo de aquisição do mesmo;
