@@ -1,0 +1,5 @@
+Ato Declaratório Normativo Cosit nº 5, de 18 de maio de 1998
+"Dispõe sobre os aspectos da sucessão da extinta URSS pelo Governo da Federação da Rússia."
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o item II da Instrução Normativa SRF No 34, de 18 de setembro de 1974, e tendo em vista o Protocolo de Intenções sobre Cooperação Econômico-Comercial entre o Governo da República Federativa do Brasil e o Governo da Federação da Rússia,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados, que a Federação da Rússia é Estado-sucessor dos direitos e das obrigações internacionais pactuados pela extinta União das Repúblicas Socialistas Soviéticas e que, por força Artigo 2 do Acordo de Comércio e Pagamentos com a União Soviética, promulgado pelo Decreto No 56.521, de 29 de junho de 1965, as concessões outorgadas pelo Brasil no âmbito do Acordo Geral sobre Tarifas Aduaneiras e Comércio (GATT) são extensivas às importações de mercadorias originárias e procedentes da Federação da Rússia.
+CARLOS ALBERTO DE NIZA E CASTRO
