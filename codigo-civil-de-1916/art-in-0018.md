@@ -1,1 +1,0 @@
-Art. 18. Nas ações propostas perante os tribunais brasileiros, os autores nacionais ou estrangeiros, residentes fora do país, ou que dele se ausentarem durante a lide, prestarão, quando o réu requerer, caução suficiente ás custas, se não tiverem no Brasil bens imóveis, que lhes assegurem o pagamento.

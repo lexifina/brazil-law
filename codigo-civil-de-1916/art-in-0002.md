@@ -1,2 +1,0 @@
-Art. 2. A obrigatoriedade das leis, quando não fixem outro prazo, começará no Distrito Federal três dias depois de oficialmente publicadas, quinze dias no Estado do Rio de Janeiro, trinta dias nos Estados marítimos e no de Minas Gerais, cem dias nos outros, compreendidas as circunscrições não constituídas em Estados.
-Parágrafo único. Nos países estrangeiros a obrigatoriedade começará quatro meses depois de oficialmente publicadas na Capital Federal.

@@ -1,1 +1,0 @@
-Art. 15. Rege a competência, a forma do processo e os meios de defesa a lei do lugar, onde se mover a ação; sendo competentes sempre os tribunais brasileiros nas demandas contra as pessoas domiciliadas ou residentes no Brasil, por obrigações contraídas ou responsabilidades assumidas neste ou noutro país.

@@ -1,1 +1,0 @@
-Art. 4. A lei só se revoga, ou derroga por outra lei; mas a disposição especial não revoga a geral, nem a geral revoga a especial, senão quando a ela, ou ao seu assunto, ser referir, alternado-a explícita ou implicitamente.
