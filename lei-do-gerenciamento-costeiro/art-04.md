@@ -1,0 +1,3 @@
+Art. 4º. O PNGC será elaborado e, quando necessário, atualizado por um Grupo de Coordenação, dirigido pela Secretaria da Comissão Interministerial para os Recursos do Mar - SECIRM, cuja composição e forma de atuação serão definidas em decreto do Poder Executivo.
+§ 1º O Plano será submetido pelo Grupo de Coordenação à Comissão Interministerial para os Recursos do Mar - CIRM, à qual caberá aprová-lo, com audiência do Conselho Nacional do Meio Ambiente - CONAMA.
+§ 2º O Plano será aplicado com a participação da União, dos Estados, dos Territórios e dos Municípios, através de órgãos e entidades integradas ao Sistema Nacional do Meio Ambiente - SISNAMA.
