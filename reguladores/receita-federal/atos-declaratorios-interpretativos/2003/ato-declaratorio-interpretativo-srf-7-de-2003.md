@@ -1,0 +1,15 @@
+Ato Declaratório Interpretativo SRF nº 7, de 22 de abril de 2003
+Dispõe sobre o PIS/Pasep e a Cofins incidentes sobre receitas de industrialização e comercialização de veículos classificados nos códigos 87.01 a 87.06 da Tipi.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001 e tendo em vista o disposto nos arts. 1º, 3º e 5º da Lei nº 10.485, de 3 de julho de 2002, resolve:
+Art. 1º A pessoa jurídica montadora de carroçarias em chassis dos veículos classificados nos códigos 87.01 a 87.05, da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto nº 4.542, de 26 de dezembro de 2002, está sujeita à incidência da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social (Cofins) às alíquotas de 1,47% (um inteiro e quarenta e sete centésimos por cento) e 6,79% (seis inteiros e setenta e nove centésimos por cento), respectivamente, aplicáveis sobre a receita bruta decorrente da:
+I - venda dos referidos veículos acabados; e
+II - industrialização por encomenda dos veículos referidos no inciso I.
+Art. 2º Na hipótese da montagem prevista no art. 1º, quando o encomendante exercer a atividade de produção ou importação de chassis classificados no código 87.06 da Tipi, as alíquotas aplicáveis do PIS/Pasep e da Cofins são:
+I - reduzidas a zero, quando incidentes sobre a receita bruta da pessoa jurídica executora da encomenda; e
+II - de 1,47% (um inteiro e quarenta e sete centésimos por cento) e 6,79% (seis inteiros e setenta e nove centésimos por cento), respectivamente, quando incidentes sobre a receita bruta auferida, pela pessoa jurídica encomendante, com a venda dos produtos encomendados.
+Art. 3º Ressalvado o disposto no art. 4º, a norma constante do inciso I do art. 3º da Lei nº 10.485, de 2002, aplica-se, inclusive, às receitas decorrentes de industrialização por encomenda dos produtos ali referidos.
+Art. 4º A receita bruta decorrente da venda de chassis classificados no código 87.06 sujeita-se à incidência do PIS/Pasep e da Cofins na forma prevista:
+I - no inciso I do art. 3º da Lei nº 10.485, de 2002, se a venda for realizada para as pessoas jurídicas de que trata o art. 1º deste Ato; e
+II - no caput do art. 1º da Lei nº 10.485, de 2002, nos demais casos.
+Art. 5º As alíquotas previstas no art. 1º e no inciso I do art. 3º da Lei nº 10.485, de 2002, não se aplicam à receita bruta decorrente da venda de produtos classificados em códigos diferentes dos constantes dos anexos I e II dessa Lei, bem assim à decorrente da prestação de serviços, independentemente de a pessoa jurídica adquirente se enquadrar na condição do art. 1º deste Ato ou do art. 1º da mencionada Lei.
+Art. 6º Sujeita-se ao disposto no caput do art. art. 5º da Lei nº 10.485, de 2002, a pessoa jurídica enquadrada na condição de fabricante ou importadora dos produtos ali referidos, ainda que promovam vendas no atacado ou no varejo.
