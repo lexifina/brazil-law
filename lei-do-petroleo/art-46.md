@@ -1,0 +1,1 @@
+Art. 46. O bônus de assinatura terá seu valor mínimo estabelecido no edital e corresponderá ao pagamento ofertado na proposta para obtenção da concessão, devendo ser pago no ato da assinatura do contrato.

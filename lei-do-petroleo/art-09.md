@@ -1,0 +1,1 @@
+Art. 9º Além das atribuições que lhe são conferidas no artigo anterior, caberá à ANP exercer, a partir de sua implantação, as atribuições do Departamento Nacional de Combustíveis - DNC, relacionadas com as atividades de distribuição e revenda de derivados de petróleo e álcool, observado o disposto no art. 78.

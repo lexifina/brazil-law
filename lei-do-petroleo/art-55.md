@@ -1,0 +1,2 @@
+Art. 55. No prazo de cento e oitenta dias, a partir da publicação desta Lei, a ANP expedirá as autorizações relativas às refinarias e unidades de processamento de gás natural existentes, ratificando sua titularidade e seus direitos.
+Parágrafo único. As autorizações referidas neste artigo obedecerão ao disposto no art. 53 quanto à transferência da titularidade e à ampliação da capacidade das instalações.

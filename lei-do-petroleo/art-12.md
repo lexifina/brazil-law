@@ -1,0 +1,5 @@
+Art. 12. (VETADO)
+I - (VETADO)
+II - (VETADO)
+III - (VETADO)
+Parágrafo único. (VETADO)
