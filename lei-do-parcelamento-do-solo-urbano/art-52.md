@@ -1,0 +1,2 @@
+Art. 52. Registrar loteamento ou desmembramento não aprovado pelos órgãos competentes, registrar o compromisso de compra e venda, a cessão ou promessa de cessão de direitos, ou efetuar registro de contrato de venda de loteamento ou desmembramento não registrado.
+Pena: Detenção, de 1 (um) a 2 (dois) anos, e multa de 5 (cinco) a 50 (cinqüenta) vezes o maior salário mínimo vigente no País, sem prejuízo das sanções administrativas cabíveis.

@@ -1,0 +1,1 @@
+Art. 41. Regularizado o loteamento ou desmembramento pela Prefeitura Municipal, ou pelo Distrito Federal quando for o caso, o adquirente do lote, comprovando o depósito de todas as prestações do preço avençado, poderá obter o registro, de propriedade do lote adquirido, valendo para tanto o compromisso de venda e compra devidamente firmado.

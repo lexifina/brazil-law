@@ -1,0 +1,1 @@
+Art. 45. O loteador, ainda que já tenha vendido todos os lotes, ou os vizinhos, são partes legítimas para promover ação destinada a impedir construção em desacordo com restrições legais ou contratuais.

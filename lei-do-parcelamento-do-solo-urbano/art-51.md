@@ -1,0 +1,1 @@
+Art. 51. Quem, de qualquer modo, concorra para a prática dos crimes previstos no artigo anterior desta Lei incide nas penas a estes cominadas, considerados em especial os atos praticados na qualidade de mandatário de loteador, diretor ou gerente de sociedade.

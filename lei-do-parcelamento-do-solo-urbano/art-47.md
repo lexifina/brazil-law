@@ -1,0 +1,1 @@
+Art. 47. Se o loteador integrar grupo econômico ou financeiro, qualquer pessoa física ou jurídica desse grupo, beneficiária de qualquer forma do loteamento ou desmembramento irregular, será solidariamente responsável pelos prejuízos por ele causados aos compradores de lotes e ao Poder Público.

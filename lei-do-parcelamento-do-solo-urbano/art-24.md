@@ -1,0 +1,1 @@
+Art. 24. O processo de loteamento e os contratos de depositados em Cartório poderão ser examinados por qualquer pessoa, a qualquer tempo, independentemente do pagamento de custas ou emolumentos, ainda que a título de busca.
