@@ -1,0 +1,2 @@
+Art. 19. No prazo de seis meses, a contar da publicação desta Lei, deverão ser instalados os Juizados Especiais nas capitais dos Estados e no Distrito Federal.
+Parágrafo único. Na capital dos Estados, no Distrito Federal e em outras cidades onde for necessário, neste último caso, por decisão do Tribunal Regional Federal, serão instalados Juizados com competência exclusiva para ações previdenciárias.
