@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 99, de 24 de outubro de 2000
+Altera a Instrução Normativa No 101, de 17 de agosto de 1998.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das suas atribuições e tendo em vista o disposto no art. 409 do Regulamento Aduaneiro aprovado pelo Decreto No 91.030, de 5 de março de 1985, e de conformidade com os Convênios celebrados entre o Brasil e a República do Paraguai, promulgados pelos Decretos No 7.712, de 25 de agosto de 1941 e No 42.920, de 30 de setembro de 1957, e entre o Brasil e a República da Bolívia, promulgados pelos Decretos No 65.815, No 65.816 e No 65.817, todos de 8 de dezembro de 1969, resolve:
