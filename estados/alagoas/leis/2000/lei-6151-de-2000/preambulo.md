@@ -1,0 +1,13 @@
+[pic]
+
+ESTADO DE ALAGOAS
+
+GOVERNADOR DO ESTADO
+
+LEI N.º 6.151, DE 11 DE MAIO DE 2000.
+
+REVOGA A LEI N.º 5.936, DE 15 DE JULHO DE 1997, E DÁ OUTRAS PROVIDÊNCIAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS.
+
+Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
