@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 205, de 25 de setembro de 2002
+Dispõe sobre a verificação física de bens submetidos ao regime de trânsito aduaneiro ou destinados a exportação, e nas operações de repressão ao contrabando ou descaminho.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, tendo em vista o disposto no parágrafo único do art. 448 e 451 do Regulamento Aduaneiro, aprovado pelo Decreto nº 91.030, de 5 de março de 1985, no Decreto nº 3.611, de 28 de setembro de 2000, e considerando os Planos de Amostragem constantes da Norma NBR 5426, de janeiro de 1985, da Associação Brasileira de Normas Técnicas, resolve:
