@@ -1,2 +1,0 @@
-Art. 63-B. Da arrecadação total do FNAC, 30% (trinta por cento) serão desvinculados do fundo e alocados no Ministério do Turismo, conforme disponibilidade orçamentária e financeira, para a implementação de ações relacionadas ao modal aéreo e para o incremento do turismo, em atendimento do disposto no inciso II do § 2º do art. 63 desta Lei.
-Parágrafo único. Ato conjunto dos Ministros de Estado de Portos e Aeroportos e do Turismo definirá os critérios e as prioridades para utilização dos recursos do FNAC para as aplicações a que se refere o caput deste artigo.
