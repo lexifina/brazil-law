@@ -1,0 +1,1 @@
+Art. 35. As multas, exceto as previstas no inciso I do art. 31, serão arrecadadas pela autoridade marítima, sendo o montante auferido empregado nas atividades de fiscalização desta Lei e das normas decorrentes.
