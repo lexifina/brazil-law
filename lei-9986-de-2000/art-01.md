@@ -1,1 +1,0 @@
-Art. 1º As Agências Reguladoras terão suas relações de trabalho regidas pela Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e legislação trabalhista correlata, em regime de emprego público.

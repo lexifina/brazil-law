@@ -1,1 +1,0 @@
-Art. 33. Os Procuradores Autárquicos regidos pela Lei nº 8.112, de 1990, poderão ser redistribuídos para as Agências, sem integrar o Quadro de Pessoal Específico, desde que respeitado o número de empregos públicos de Procurador correspondentes fixado no Anexo I.
