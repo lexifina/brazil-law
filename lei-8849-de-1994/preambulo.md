@@ -1,0 +1,2 @@
+Altera a legislação do imposto sobre a renda e proventos de qualquer natureza e dá outras providências.
+Faço saber que o Presidente da República adotou a Medida Provisória nº 402, de 1993, que o Congresso Nacional aprovou, e eu, CHAGAS RODRIGUES, 1º Vice-Presidente do Senado Federal, no exercício da Presidência, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
