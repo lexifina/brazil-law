@@ -1,0 +1,3 @@
+Art. 33 - Quando aplicada a pena de multa, o infrator será notificado para efetuar o pagamento no prazo de trinta dias, contados da data da notificação, recolhendo-a à conta do Fundo Nacional de Saúde, ou às repartições fazendárias dos Estados, do Distrito Federal e dos Territórios, conforme a jurisdição administrativa em que ocorra o processo.
+§ 1º - A notificação será feita mediante registro postal, ou por meio de edital publicado na imprensa oficial, se não localizado o infrator.
+§ 2º - O não recolhimento da multa, dentro do prazo fixado neste artigo, implicará na sua inscrição para cobrança judicial, na forma da legislação pertinente.
