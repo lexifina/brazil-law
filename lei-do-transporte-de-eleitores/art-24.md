@@ -1,1 +1,0 @@
-Art. 24. As normas constantes da legislação eleitoral e partidária, que regulam a propaganda dos Partidos e candidatos, não se aplicam ao Distrito Federal, onde não será admitida qualquer espécie de propaganda, salvo a divulgação escrita dos nomes e números dos candidatos registrados, feito exclusivamente pelo Diretório Nacional dos Partidos Políticos.
