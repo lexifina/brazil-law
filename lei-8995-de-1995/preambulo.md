@@ -1,0 +1,2 @@
+Autoriza o Ministério dos Transportes, por intermédio da Companhia Brasileira de Trens Urbanos (CBTU), a transferir à Companhia Fluminense de Trens Urbanos (Flumitrens), recursos para o pagamento de pessoal.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 875, de 1995, que o Congresso Nacional aprovou, e eu, JOSÉ SARNEY, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
