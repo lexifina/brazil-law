@@ -1,4 +1,10 @@
-Art. 14. Ressalvada a legislação codificada e já consolidada, todas as leis e decretos-leis de conteúdo normativo e de alcance geral em vigor serão reunidos em coletâneas organizadas na forma do artigo anterior, observados os prazos e procedimentos a seguir:
-I - os órgãos diretamente subordinados à Presidência da República e os Ministérios, no prazo de cento e oitenta dias, contado da vigência desta Lei Complementar, procederão ao exame, triagem e seleção das leis complementares, delegadas, ordinárias e decretos-leis relacionados com as respectivas áreas de competência, agrupando e consolidando os textos que tratem da mesma matéria ou de assuntos vinculados por afinidade, pertinência ou conexão, com indicação precisa dos diplomas legais ou preceitos expressa ou implicitamente revogados;
-II - no prazo de noventa dias, contado da vigência desta Lei Complementar, as entidades da administração indireta adotarão, quanto aos diplomas legais relacionados com a sua competência, as mesmas providências determinadas no inciso anterior, remetendo os respectivos textos ao Ministério a que estão vinculadas, que os revisará e remeterá, juntamente com os seus, à Presidência da República, para encaminhamento ao Congresso Nacional nos sessenta dias subseqüentes ao encerramento do prazo estabelecido no inciso I;
-III - a Mesa do Congresso Nacional adotará todas as medidas necessárias para, no prazo máximo de cento e oitenta dias a contar do recebimento dos textos de que tratam os incisos I e II, ser efetuada a primeira publicação da Consolidação das Leis Federais Brasileiras.
+Art. 14. Para a consolidação de que trata o art. 13 serão observados os seguintes procedimentos:
+I - O Poder Executivo ou o Poder Legislativo procederá ao levantamento da legislação federal em vigor e formulará projeto de lei de consolidação de normas que tratem da mesma matéria ou de assuntos a ela vinculados, com a indicação precisa dos diplomas legais expressa ou implicitamente revogados;
+II - a apreciação dos projetos de lei de consolidação pelo Poder Legislativo será feita na forma do Regimento Interno de cada uma de suas Casas, em procedimento simplificado, visando a dar celeridade aos trabalhos;
+III - revogado.
+§ 1º Não serão objeto de consolidação as medidas provisórias ainda não convertidas em lei.
+§ 2º A Mesa Diretora do Congresso Nacional, de qualquer de suas Casas e qualquer membro ou Comissão da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional poderá formular projeto de lei de consolidação.
+§ 3º Observado o disposto no inciso II do caput, será também admitido projeto de lei de consolidação destinado exclusivamente à:
+I - declaração de revogação de leis e dispositivos implicitamente revogados ou cuja eficácia ou validade encontre-se completamente prejudicada;
+II - inclusão de dispositivos ou diplomas esparsos em leis preexistentes, revogando-se as disposições assim consolidadas nos mesmos termos do § 1º do art. 13.
+§ 4º (VETADO)

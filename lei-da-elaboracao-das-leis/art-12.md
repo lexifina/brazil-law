@@ -1,8 +1,9 @@
 Art. 12. A alteração da lei será feita:
 I - mediante reprodução integral em novo texto, quando se tratar de alteração considerável;
-II - na hipótese de revogação;
+II - mediante revogação parcial;
 III - nos demais casos, por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo, observadas as seguintes regras:
-a) não poderá ser modificada a numeração dos dispositivos alterados;
-b) no acréscimo de dispositivos novos entre preceitos legais em vigor, é vedada, mesmo quando recomendável, qualquer renumeração, devendo ser utilizado o mesmo número do dispositivo imediatamente anterior, seguido de letras maiúsculas, em ordem alfabética, tantas quantas forem suficientes para identificar os acréscimos;
-c) é vedado o aproveitamento do número de dispositivo revogado, devendo a lei alterada manter essa indicação, seguida da expressão "revogado";
-d) o dispositivo que sofrer modificação de redação deverá ser identificado, ao seu final, com as letras NR maiúsculas, entre parênteses.
+a) revogado;
+b) é vedada, mesmo quando recomendável, qualquer renumeração de artigos e de unidades superiores ao artigo, referidas no inciso V do art. 10, devendo ser utilizado o mesmo número do artigo ou unidade imediatamente anterior, seguido de letras maiúsculas, em ordem alfabética, tantas quantas forem suficientes para identificar os acréscimos;
+c) é vedado o aproveitamento do número de dispositivo revogado, vetado, declarado inconstitucional pelo Supremo Tribunal Federal ou de execução suspensa pelo Senado Federal em face de decisão do Supremo Tribunal Federal, devendo a lei alterada manter essa indicação, seguida da expressão 'revogado', 'vetado', 'declarado inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal', ou 'execução suspensa pelo Senado Federal, na forma do art. 52, X, da Constituição Federal;
+d) é admissível a reordenação interna das unidades em que se desdobra o artigo, identificando-se o artigo assim modificado por alteração de redação, supressão ou acréscimo com as letras 'NR' maiúsculas, entre parênteses, uma única vez ao seu final, obedecidas, quando for o caso, as prescrições da alínea "c".
+Parágrafo único. O termo 'dispositivo' mencionado nesta Lei refere-se a artigos, parágrafos, incisos, alíneas ou itens.
