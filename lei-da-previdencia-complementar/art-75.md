@@ -1,0 +1,1 @@
+Art. 75. Sem prejuízo do benefício, prescreve em cinco anos o direito às prestações não pagas nem reclamadas na época própria, resguardados os direitos dos menores dependentes, dos incapazes ou dos ausentes, na forma do Código Civil.

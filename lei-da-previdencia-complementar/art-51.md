@@ -1,0 +1,1 @@
+Art. 51. Serão obrigatoriamente levantados, na data da decretação da liquidação extrajudicial de entidade de previdência complementar, o balanço geral de liquidação e as demonstrações contábeis e atuariais necessárias à determinação do valor das reservas individuais.

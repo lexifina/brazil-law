@@ -1,0 +1,1 @@
+Art. 72. Compete privativamente ao órgão regulador e fiscalizador das entidades fechadas zelar pelas sociedades civis e fundações, como definido no art. 31 desta Lei Complementar, não se aplicando a estas o disposto nos arts. 26 e 30 do Código Civil e 1.200 a 1.204 do Código de Processo Civil e demais disposições em contrário.

@@ -1,0 +1,4 @@
+Art. 43. O órgão fiscalizador poderá, em relação às entidades abertas, desde que se verifique uma das condições previstas no art. 44 desta Lei Complementar, nomear, por prazo determinado, prorrogável a seu critério, e a expensas da respectiva entidade, um diretor-fiscal.
+§ 1º O diretor-fiscal, sem poderes de gestão, terá suas atribuições estabelecidas pelo órgão regulador, cabendo ao órgão fiscalizador fixar sua remuneração.
+§ 2º Se reconhecer a inviabilidade de recuperação da entidade aberta ou a ausência de qualquer condição para o seu funcionamento, o diretor-fiscal proporá ao órgão fiscalizador a decretação da intervenção ou da liquidação extrajudicial.
+§ 3º O diretor-fiscal não está sujeito à indisponibilidade de bens, nem aos demais efeitos decorrentes da decretação da intervenção ou da liquidação extrajudicial da entidade aberta.
