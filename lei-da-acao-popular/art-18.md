@@ -1,0 +1,1 @@
+Art. 18. A sentença terá eficácia de coisa julgada oponível "erga omnes", exceto no caso de haver sido a ação julgada improcedente por deficiência de prova; neste caso, qualquer cidadão poderá intentar outra ação com idêntico fundamento, valendo-se de nova prova.
