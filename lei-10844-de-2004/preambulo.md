@@ -1,0 +1,2 @@
+Dispõe sobre os créditos do Banco Central do Brasil contra instituição financeira credenciada a operar no Convênio de Pagamentos e Créditos Recíprocos - CCR, e dá outras providências.
+Faço saber que o Presidente da República adotou a Medida Provisória nº 142, de 2003, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
