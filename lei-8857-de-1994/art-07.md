@@ -4,5 +4,4 @@ Art. 7º Os produtos nacionais ou nacionalizados, que entrarem na Área de Livre
 I - armas e munições: capítulo 93;
 II - veículos de passageiros: posição 8703 do capítulo 87 exceto ambulâncias, carros funerários, carros celulares e jipes;
 III - bebidas alcoólicas: posições 2203 a 2206 e 2208 (exceto 2208.10 e 2208.90.0100) do capítulo 22;
-IV - produtos de perfumaria e de toucador, preparados e preparações cosméticas: posições 3303 a 3307 do capítulo 33;
 V - fumo e seus derivados: capítulo 24.
