@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 442, de 12 de agosto de 2004
+Disciplina a aquisição de automóveis com isenção do Imposto sobre Produtos Industrializados por pessoas portadoras de deficiência física, visual, mental severa ou profunda, ou autistas.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o que dispõe a Lei nº 8.989, de 24 de fevereiro de 1995, a Lei nº 10.182, de 12 de fevereiro de 2001, os arts. 2º, 3º e 5º da Lei nº 10.690, de 16 de junho de 2003, a Lei nº 10.754, de 31 de outubro de 2003, e a Portaria Interministerial SEDH/MS nº 2, de 21 de novembro de 2003, resolve:
