@@ -1,0 +1,1 @@
+Art. 10. A partir do exercício financeiro de 1989, as pessoas jurídicas pagarão o imposto de renda à alíquota de trinta por cento sobre o lucro real ou arbitrado, apurado em conformidade com a legislação tributária, sem prejuízo do adicional de que trata os arts. 1º e 2º do Decreto-Lei nº 2.462, de 30 de agosto de 1988.

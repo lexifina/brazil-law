@@ -1,0 +1,1 @@
+Art. 11. Em relação aos fatos geradores ocorridos entre 1º de janeiro e 31 de dezembro de 1989, fica alterada para 0,35% (trinta e cinco centésimos por cento) a alíquota de que tratam os itens II, III e V do art. 1º do Decreto-Lei nº 2.445, de 29 de junho de 1988, com a redação dada pelo Decreto-Lei nº 2.449, de 21 de julho de 1988.
