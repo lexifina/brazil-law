@@ -1,0 +1,1 @@
+Art. 8º - A empresa de trabalho temporário é obrigada a fornecer ao Departamento Nacional de Mão-de-Obra, quando solicitada, os elementos de informação julgados necessários ao estudo do mercado de trabalho.
