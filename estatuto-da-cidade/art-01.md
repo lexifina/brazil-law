@@ -1,0 +1,2 @@
+Art. 1º Na execução da política urbana, de que tratam os arts. 182 e 183 da Constituição Federal, será aplicado o previsto nesta Lei.
+Parágrafo único. Para todos os efeitos, esta Lei, denominada Estatuto da Cidade, estabelece normas de ordem pública e interesse social que regulam o uso da propriedade urbana em prol do bem coletivo, da segurança e do bem-estar dos cidadãos, bem como do equilíbrio ambiental.

@@ -1,0 +1,1 @@
+Art. 50. Os Municípios que estejam enquadrados na obrigação prevista nos incisos I e II do art. 41 desta Lei que não tenham plano diretor aprovado na data de entrada em vigor desta Lei, deverão aprová-lo no prazo de cinco anos.
