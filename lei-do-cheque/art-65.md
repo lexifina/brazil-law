@@ -1,0 +1,1 @@
+Art. 65 Os efeitos penais da emissão do cheque sem suficiente provisão de fundos, da frustração do pagamento do cheque, da falsidade, da falsificação e da alteração do cheque continuam regidos pela legislação criminal.

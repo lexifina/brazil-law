@@ -1,0 +1,1 @@
+Art. 27 O endosso posterior ao protesto, ou declaração equivalente, ou à expiração do prazo de apresentação produz apenas os efeitos de cessão. Salvo prova em contrário, o endosso sem data presume-se anterior ao protesto, ou declaração equivalente, ou à expiração do prazo de apresentação.

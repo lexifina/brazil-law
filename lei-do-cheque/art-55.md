@@ -1,0 +1,5 @@
+Art. 55 Quando disposição legal ou caso de força maior impedir a apresentação do cheque, o protesto ou a declaração equivalente nos prazos estabelecidos, consideram-se estes prorrogados.
+§ 1º O portador é obrigado a dar aviso imediato da ocorrência de força maior a seu endossante e a fazer menção do aviso dado mediante declaração datada e assinada por ele no cheque ou folha de alongamento. São aplicáveis, quanto ao mais, as disposições do art. 49 e seus parágrafos desta Lei.
+§ 2º Cessado o impedimento, deve o portador, imediatamente, apresentar o cheque para pagamento e, se couber, promover o protesto ou a declaração equivalente.
+§ 3º Se o impedimento durar por mais de 15 (quinze) dias, contados do dia em que o portador, mesmo antes de findo o prazo de apresentação, comunicou a ocorrência de força maior a seu endossante, poderá ser promovida a execução, sem necessidade da apresentação do protesto ou declaração equivalente.
+§ 4º Não constituem casos de força maior os fatos puramente pessoais relativos ao portador ou à pessoa por ele incumbida da apresentação do cheque, do protesto ou da obtenção da declaração equivalente.
