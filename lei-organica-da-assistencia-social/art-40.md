@@ -1,0 +1,2 @@
+Art. 40. Com a implantação dos benefícios previstos nos arts. 20 e 22 desta lei, extinguem-se a renda mensal vitalícia, o auxílio-natalidade e o auxílio-funeral existentes no âmbito da Previdência Social, conforme o disposto na Lei nº 8.213, de 24 de julho de 1991.
+Parágrafo único. A transferência dos beneficiários do sistema previdenciário para a assistência social deve ser estabelecida de forma que o atendimento à população não sofra solução de continuidade.
