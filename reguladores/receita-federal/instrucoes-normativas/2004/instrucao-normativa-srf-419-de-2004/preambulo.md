@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 419, de 10 de maio de 2004
+Dispõe sobre o cálculo, a utilização e a apresentação de informações do crédito presumido do IPI, instituído pela Lei nº 9.363, de 13 de dezembro de 1996.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto na Lei nº 9.363, de 13 de dezembro de 1996, no art. 15, inciso II, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, na Lei nº 10.637, de 30 de dezembro de 2002, na Lei nº 10.833, de 30 de dezembro de 2003, na Lei nº 10.865, de 30 de abril de 2004, e na Portaria MF nº 93, de 27 de abril de 2004, resolve:
