@@ -1,0 +1,5 @@
+Art. 22. Se determinado o prosseguimento da liquidação extrajudicial o liquidante fará publicar, no Diário Oficial da União e em jornal de grande circulação do local da sede da entidade, aviso aos credores para que declarem os respectivos créditos, dispensados desta formalidade os credores por depósitos ou por letras de câmbio de aceite da instituição financeira liquidanda.
+§ 1º No aviso de que trata este artigo, o liquidante fixará o prazo para a declaração dos créditos, o qual não será inferior a vinte, nem superior a quarenta dias, conforme a importância da liquidação e os interesses nela envolvidos.
+§ 2º Relativamente aos créditos dispensados de habilitação, o liquidante manterá, na sede da liquidanda, relação nominal dos depositantes e respectivos saldos, bem como relação das letras de câmbio de seu aceite.
+§ 3º Aos credores obrigados a declaração assegurar-se-á o direito de obterem do liquidante as informações, extratos de contas, saldos e outros elementos necessários à defesa dos seus interesses e à prova dos respectivos créditos.
+§ 4º O liquidante dará sempre recibo das declarações de crédito e dos documentos recebidos.
