@@ -1,0 +1,1 @@
+Art. 21. Todos os direitos de exploração e produção de petróleo e gás natural em território nacional, nele compreendidos a parte terrestre, o mar territorial, a plataforma continental e a zona econômica exclusiva, pertencem à União, cabendo sua administração à ANP.
