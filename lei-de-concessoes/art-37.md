@@ -1,0 +1,1 @@
+Art. 37. Considera-se encampação a retomada do serviço pelo poder concedente durante o prazo da concessão, por motivo de interesse público, mediante lei autorizativa específica e após prévio pagamento da indenização, na forma do artigo anterior.

@@ -1,0 +1,2 @@
+Art. 39. O contrato de concessão poderá ser rescindido por iniciativa da concessionária, no caso de descumprimento das normas contratuais pelo poder concedente, mediante ação judicial especialmente intentada para esse fim.
+Parágrafo único. Na hipótese prevista no caput deste artigo, os serviços prestados pela concessionária não poderão ser interrompidos ou paralisados, até a decisão judicial transitada em julgado.

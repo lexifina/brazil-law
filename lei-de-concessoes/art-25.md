@@ -1,0 +1,4 @@
+Art. 25. Incumbe à concessionária a execução do serviço concedido, cabendo-lhe responder por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade.
+§ 1º Sem prejuízo da responsabilidade a que se refere este artigo, a concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados.
+§ 2º Os contratos celebrados entre a concessionária e os terceiros a que se refere o parágrafo anterior reger-se-ão pelo direito privado, não se estabelecendo qualquer relação jurídica entre os terceiros e o poder concedente.
+§ 3º A execução das atividades contratadas com terceiros pressupõe o cumprimento das normas regulamentares da modalidade do serviço concedido.
