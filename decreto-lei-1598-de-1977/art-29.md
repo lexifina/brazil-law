@@ -5,3 +5,4 @@ III - a atualização monetária do orçamento e a diferença, posteriormente ap
 IV - se o custo efetivo foi inferior, em mais de 15%, ao custo orçado, aplicar-se-á o disposto no § 2º do artigo 28.
 § 1º - Se a venda for contratada com juros, estes deverão ser apropriados nos resultados dos exercícios sociais a que competirem.
 § 2º - Na venda contratada com cláusula de correção monetária do saldo credor do preço, a contrapartida da correção, nas condições estipuladas no contrato, da receita de vendas a receber será computada, no resultado do exercício, como variação monetária (art. 18), pelo valor que exceder da correção, segundo os mesmos critérios, do saldo do lucro bruto registrado na conta de resultados de exercícios futuros de que trata o item I do artigo 29.
+§ 3º A pessoa jurídica poderá registrar como variação monetária passiva as atualizações monetárias do custo contratado e do custo orçado, desde que o critério seja aplicado uniformemente.
