@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF05 nº 5, de 2 de fevereiro de 2005
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ EMENTA: ALIENAÇÃO DE ACERVO. RESULTADO NÃO-OPERACIONAL. CÁLCULO DO LUCRO DA EXPLORAÇÃO. É de natureza não operacional o resultado obtido na alienação de acervo líquido, devendo ser excluído esse efeito do lucro líquido do período-base no cálculo do lucro da exploração. DISPOSITIVOS LEGAIS: DISPOSITIVOS LEGAIS: Artigo 19, III, do Decreto-Lei n° 1.598, de 26.12.1977, Instrução Normativa SRF n° 22, de 22.02.2001, que aprovou o programa gerador da DIPJ 2001 e respectivo MAJUR.
+[arquivo anexo: SC Disit-SRRF05 nº 5-2005.pdf]
