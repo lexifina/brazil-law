@@ -1,0 +1,18 @@
+LEI Nº 906 - de 10 de Agosto de 1857
+Autorisa o Governo a depositar no Banco do Brasil e suas Caixas Filiaes as sommas disponiveis que tiver no Thesouro e Thesourarias de Fazenda.
+DOM Pedro Segundo, por Graça de Deos, e Unanime Acclamação dos Povos, Imperador Constitucional e Defensor Perpetuo do Brasil: Fazemos saber a todos os nossos subditos, que a Assembléa Geral Legislativa Decretou, e Nós Queremos a Lei seguinte:
+Art. Unico. Fica o Governo autorisado para depositar no Banco do Brasil e suas Caixas Filiaes as sommas disponiveis que tiver no Thesouro e Thesourarias de Fazenda das Provincias, contractando a abertura de contas correntes com juros.
+Mandamos, portanto, a todas as Autoridades, á quem o conhecimento e execução da referida Lei pertencer, que a cumprão, e fação cumprir e guardar tão inteiramente como nella se contêm. O Secretario d'Estado dos Negocios da Fazenda a faça imprimir, publicar e correr. Palacio do Rio de Janeiro em dez de Agosto de mil oitocentos cincoenta e sete, trigesimo sexto da Independencia e do Imperio.
+IMPERADOR Com Rubrica e Guarda.
+Bernardo de Sousa Franco.
+Carta de Lei pela qual Vossa Magestade Imperial Manda executar o Decreto da Assembléa Geral Legislativa, que Houve por bem Sanccionar, autorisando o Governo para depositar no Banco do Brasil e suas Caixas Filiaes as sommas disponiveis que tiver no Thesouro e Thesourarias de Fazenda, na forma ácima declarada.
+Para Vossa Magestade Imperial Ver.
+Augusto Frederico Colin a fez.
+Francisco Diogo Pereira de Vasconcellos.
+Sellada na Chancellaria do Imperio em vinte de Agosto de mil oitocentos cincoenta e sete. - No impedimento do Official-maior.
+Antonio Alves de Miranda Varejão.
+Registrada.
+Foi publicada a presente Lei na Secretaria d'Estado dos Negocios da Fazenda em 22 de Agosto de 1857.
+José Severiano da Rocha.
+Registrada a fl. 46 do Liv. de registro de Cartas de Lei, em vinte dous de Agosto de mil oitocentos cincoenta e sete.
+Luiz Plinio d'Oliveira.
