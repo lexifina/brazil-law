@@ -1,0 +1,2 @@
+Art. 35. A estipulação de novos benefícios tarifários pelo poder concedente, fica condicionada à previsão, em lei, da origem dos recursos ou da simultânea revisão da estrutura tarifária do concessionário ou permissionário, de forma a preservar o equilíbrio econômico-financeiro do contrato.
+Parágrafo único. A concessão de qualquer benefício tarifário somente poderá ser atribuída a uma classe ou coletividade de usuários dos serviços, vedado, sob qualquer pretexto, o benefício singular.

@@ -1,0 +1,1 @@
+Art. 10. Cabe ao poder concedente declarar a utilidade pública para fins de desapropriação ou instituição de servidão administrativa, das áreas necessárias à implantação de instalações concedidas, destinadas a serviços públicos de energia elétrica, autoprodutor e produtor independente.

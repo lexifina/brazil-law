@@ -1,0 +1,1 @@
+Art. 36. Sem prejuízo do disposto no inciso XII do art. 21 e no inciso XI do art. 23 da Constituição Federal, o poder concedente poderá, mediante convênio de cooperação, credenciar os Estados e o Distrito Federal a realizarem atividades complementares de fiscalização e controle dos serviços prestados nos respectivos territórios.

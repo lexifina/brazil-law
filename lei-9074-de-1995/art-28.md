@@ -1,0 +1,1 @@
+Art. 28. Nos casos de privatização, nos termos do artigo anterior, é facultado ao poder concedente outorgar novas concessões sem efetuar a reversão prévia dos bens vinculados ao respectivo serviço público.

@@ -1,0 +1,1 @@
+Art. 8º O aproveitamento de potenciais hidráulicos, iguais ou inferiores a 1.000 kW, e a implantação de usinas termelétricas de potência igual ou inferior a 5.000 kW, estão dispensadas de concessão, permissão ou autorização, devendo apenas ser comunicados ao poder concedente.

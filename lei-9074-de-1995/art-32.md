@@ -1,0 +1,3 @@
+Art. 32. A empresa estatal que participe, na qualidade de licitante, de concorrência para concessão e permissão de serviço público, poderá, para compor sua proposta, colher preços de bens ou serviços fornecidos por terceiros e assinar pré-contratos com dispensa de licitação.
+§ 1º Os pré-contratos conterão, obrigatoriamente, cláusula resolutiva de pleno direito, sem penalidades ou indenizações, no caso de outro licitante ser declarado vencedor.
+§ 2º Declarada vencedora a proposta referida neste artigo, os contratos definitivos, firmados entre a empresa estatal e os fornecedores de bens e serviços, serão, obrigatoriamente, submetidos à apreciação dos competentes órgãos de controle externo e de fiscalização específica.
