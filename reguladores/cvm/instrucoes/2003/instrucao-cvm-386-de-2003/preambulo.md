@@ -1,0 +1,4 @@
+Instrução CVM nº 386, de 2003
+INSTRUÇÃO CVM Nº 386, DE 28 DE MARÇO DE 2003.
+Dispõe sobre a auditoria independente nos fundos de investimento financeiro, fundos de aplicação em quotas de fundos de investimento financeiro e fundos de investimento no exterior.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada em 25 de março de 2003, tendo em vista o disposto nos arts.1o; 2o, inciso IX; 8o, inciso I; e 26 da Lei no 6.385, de 7 de dezembro de 1976, com a redação dada pela Lei no 10.303, de 31 de outubro de 2001; nas Circulares nos 2.616, de 18 de setembro de 1995, e 2.714, de 28 de agosto de 1996, do Banco Central do Brasil, e na Decisão-Conjunta no 10, de 2 de maio de 2002, do Banco Central do Brasil e da CVM, RESOLVEU baixar a seguinte Instrução:
