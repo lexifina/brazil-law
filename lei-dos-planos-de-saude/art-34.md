@@ -1,0 +1,1 @@
+Art. 34. As pessoas jurídicas que executam outras atividades além das abrangidas por esta Lei deverão, na forma e no prazo definidos pela ANS, constituir pessoas jurídicas independentes, com ou sem fins lucrativos, especificamente para operar planos privados de assistência à saúde, na forma da legislação em vigor e em especial desta Lei e de seus regulamentos.

@@ -1,0 +1,4 @@
+Art. 31. Ao aposentado que contribuir para produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei, em decorrência de vínculo empregatício, pelo prazo mínimo de dez anos, é assegurado o direito de manutenção como beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral.
+§ 1º Ao aposentado que contribuir para planos coletivos de assistência à saúde por período inferior ao estabelecido no caput é assegurado o direito de manutenção como beneficiário, à razão de um ano para cada ano de contribuição, desde que assuma o pagamento integral do mesmo.
+§ 2º Para gozo do direito assegurado neste artigo, observar-se-ão as mesmas condições estabelecidas nos §§ 2º, 3º, 4º, 5º e 6º do art. 30.
+§ 3º Para gozo do direito assegurado neste artigo, observar-se-ão as mesmas condições estabelecidas nos §§ 2º e 4º do art. 30.

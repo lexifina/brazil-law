@@ -1,0 +1,1 @@
+Art. 10-A. Cabe às operadoras definidas nos incisos I e II do § 1º do art. 1º desta Lei, por meio de sua rede de unidades conveniadas, prestar serviço de cirurgia plástica reconstrutiva de mama, utilizando-se de todos os meios e técnicas necessárias, para o tratamento de mutilação decorrente de utilização de técnica de tratamento de câncer.

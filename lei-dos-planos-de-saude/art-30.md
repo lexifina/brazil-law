@@ -1,0 +1,7 @@
+Art. 30. Ao consumidor que contribuir para produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei, em decorrência de vínculo empregatício, no caso de rescisão ou exoneração do contrato de trabalho sem justa causa, é assegurado o direito de manter sua condição de beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral.
+§ 1º O período de manutenção da condição de beneficiário a que se refere o caput será de um terço do tempo de permanência nos produtos de que tratam o inciso I e o § 1º do art. 1º, ou sucessores, com um mínimo assegurado de seis meses e um máximo de vinte e quatro meses.
+§ 2º A manutenção de que trata este artigo é extensiva, obrigatoriamente, a todo o grupo familiar inscrito quando da vigência do contrato de trabalho.
+§ 3º Em caso de morte do titular, o direito de permanência é assegurado aos dependentes cobertos pelo plano ou seguro privado coletivo de assistência à saúde, nos termos do disposto neste artigo.
+§ 4º O direito assegurado neste artigo não exclui vantagens obtidas pelos empregados decorrentes de negociações coletivas de trabalho.
+§ 5º A condição prevista no caput deste artigo deixará de existir quando da admissão do consumidor titular em novo emprego.
+§ 6º Nos planos coletivos custeados integralmente pela empresa, não é considerada contribuição a co-participação do consumidor, única e exclusivamente, em procedimentos, como fator de moderação, na utilização dos serviços de assistência médica ou hospitalar.

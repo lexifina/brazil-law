@@ -1,0 +1,1 @@
+Art. 35-J. O diretor técnico ou fiscal ou o liquidante são obrigados a manter sigilo relativo às informações da operadora às quais tiverem acesso em razão do exercício do encargo, sob pena de incorrer em improbidade administrativa, sem prejuízo das responsabilidades civis e penais.

@@ -1,0 +1,9 @@
+Art. 17. A inclusão como contratados, referenciados ou credenciados dos produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei, de qualquer entidade hospitalar, implica compromisso para com os consumidores quanto à sua manutenção ao longo da vigência dos contratos.
+§ 1º É facultada a substituição de entidade hospitalar, a que se refere o caput deste artigo, desde que por outro equivalente e mediante comunicação aos consumidores e à ANS com trinta dias de antecedência, ressalvados desse prazo mínimo os casos decorrentes de rescisão por fraude ou infração das normas sanitárias e fiscais em vigor.
+§ 2º Na hipótese de a substituição do estabelecimento hospitalar a que se refere o § 1º ocorrer por vontade da operadora durante período de internação do consumidor, o estabelecimento obriga-se a manter a internação e a operadora, a pagar as despesas até a alta hospitalar, a critério médico, na forma do contrato.
+§ 3º Excetuam-se do previsto no § 2º os casos de substituição do estabelecimento hospitalar por infração às normas sanitárias em vigor, durante período de internação, quando a operadora arcará com a responsabilidade pela transferência imediata para outro estabelecimento equivalente, garantindo a continuação da assistência, sem ônus adicional para o consumidor.
+§ 4º Em caso de redimensionamento da rede hospitalar por redução, as empresas deverão solicitar à ANS autorização expressa para tanto, informando:
+I - nome da entidade a ser excluída;
+II - capacidade operacional a ser reduzida com a exclusão;
+III - impacto sobre a massa assistida, a partir de parâmetros definidos pela ANS, correlacionando a necessidade de leitos e a capacidade operacional restante; e
+IV - justificativa para a decisão, observando a obrigatoriedade de manter cobertura com padrões de qualidade equivalente e sem ônus adicional para o consumidor.

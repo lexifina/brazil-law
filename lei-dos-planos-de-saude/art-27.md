@@ -1,0 +1,1 @@
+Art. 27. A multa de que trata o art. 25 será fixada e aplicada pela ANS no âmbito de suas atribuições, com valor não inferior a R$ 5.000,00 (cinco mil reais) e não superior a R$ 1.000.000,00 (um milhão de reais) de acordo com o porte econômico da operadora ou prestadora de serviço e a gravidade da infração, ressalvado o disposto no § 6º do art. 19.

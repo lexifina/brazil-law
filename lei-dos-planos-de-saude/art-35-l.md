@@ -1,0 +1,2 @@
+Art. 35-L. Os bens garantidores das provisões técnicas, fundos e provisões deverão ser registrados na ANS e não poderão ser alienados, prometidos a alienar ou, de qualquer forma, gravados sem prévia e expressa autorização, sendo nulas, de pleno direito, as alienações realizadas ou os gravames constituídos com violação deste artigo.
+Parágrafo único. Quando a garantia recair em bem imóvel, será obrigatoriamente inscrita no competente Cartório do Registro Geral de Imóveis, mediante requerimento firmado pela operadora de plano de assistência à saúde e pela ANS.
