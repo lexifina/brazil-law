@@ -1,0 +1,3 @@
+Art. 28. O inciso XV do art. 6º da Lei 7.713, de 22 de dezembro de 1988, passa a vigorar com a seguinte redação:
+"Art. 6º.
+XV - os rendimentos provenientes de aposentadoria e pensão, transferência para a reserva remunerada ou reforma, pagos pela Previdência Social da União, dos Estados, do Distrito Federal e dos Municípios, por qualquer pessoa jurídica de direito público interno, ou por entidade de previdência privada, até o valor de R$ 900,00 (novecentos reais), por mês, a partir do mês em que o contribuinte completar sessenta e cinco anos de idade, sem prejuízo da parcela isenta prevista na tabela de incidência mensal do imposto."

@@ -1,0 +1,1 @@
+Art. 26. Ficam isentas do imposto de renda as bolsas de estudo e de pesquisa caracterizadas como doação, quando recebidas exclusivamente para proceder a estudos ou pesquisas e desde que os resultados dessas atividades não representem vantagem para o doador, nem importem contraprestação de serviços.

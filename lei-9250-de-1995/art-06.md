@@ -1,0 +1,1 @@
+Art. 6º Os rendimentos recebidos de fontes situadas no exterior, sujeitos a tributação no Brasil, bem como o imposto pago no exterior, serão convertidos em Reais mediante utilização do valor do dólar dos Estados Unidos da América fixado para compra pelo Banco Central do Brasil para o último dia útil da primeira quinzena do mês anterior ao do recebimento do rendimento.

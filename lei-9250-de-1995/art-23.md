@@ -1,0 +1,1 @@
+Art. 23. Fica isento do imposto de renda o ganho de capital auferido na alienação do único imóvel que o titular possua, cujo valor de alienação seja de até R$ 440.000,00 (quatrocentos e quarenta mil reais), desde que não tenha sido realizada qualquer outra alienação nos últimos cinco anos.
