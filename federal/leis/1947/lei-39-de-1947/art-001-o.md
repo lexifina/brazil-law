@@ -1,0 +1,1 @@
+Art. 1º - O disposto no art. 1º do Decreto-lei nº 9.178, de 15 de abril de 1946, não se aplica às águas potáveis de mesa, colhidas em fontes ou poços, quando engarrafadas exclusivamente para uso da população local, que não disponha de serviço de abastecimento dágua.
