@@ -1,0 +1,1 @@
+Art. 9º - Asseguram-se os benefícios desta Lei ao empregador que proporcionar, por meios próprios ou contratados, em veículos adequados ao transporte coletivo, o deslocamento integral de seus trabalhadores.
