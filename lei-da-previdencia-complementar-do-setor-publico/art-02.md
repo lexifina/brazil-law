@@ -1,0 +1,1 @@
+Art. 2º As regras e os princípios gerais estabelecidos na Lei Complementar que regula o caput do art. 202 da Constituição Federal aplicam-se às entidades reguladas por esta Lei Complementar, ressalvadas as disposições específicas.

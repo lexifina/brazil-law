@@ -1,0 +1,1 @@
+Art. 26. As entidades fechadas de previdência complementar patrocinadas por empresas privadas permissionárias ou concessionárias de prestação de serviços públicos subordinam-se, no que couber, às disposições desta Lei Complementar, na forma estabelecida pelo órgão regulador e fiscalizador.

@@ -1,0 +1,3 @@
+Art. 11. A composição do conselho deliberativo, integrado por no máximo seis membros, será paritária entre representantes dos participantes e assistidos e dos patrocinadores, cabendo a estes a indicação do conselheiro presidente, que terá, além do seu, o voto de qualidade.
+§ 1º A escolha dos representantes dos participantes e assistidos dar-se-á por meio de eleição direta entre seus pares.
+§ 2º Caso o estatuto da entidade fechada, respeitado o número máximo de conselheiros de que trata o caput e a participação paritária entre representantes dos participantes e assistidos e dos patrocinadores, preveja outra composição, que tenha sido aprovada na forma prevista no seu estatuto, esta poderá ser aplicada, mediante autorização do órgão regulador e fiscalizador.

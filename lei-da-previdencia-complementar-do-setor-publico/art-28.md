@@ -1,0 +1,1 @@
+Art. 28. A infração de qualquer disposição desta Lei Complementar ou de seu regulamento, para a qual não haja penalidade expressamente cominada, sujeita a pessoa física ou jurídica responsável, conforme o caso e a gravidade da infração, às penalidades administrativas previstas na Lei Complementar que disciplina o caput do art. 202 da Constituição Federal.

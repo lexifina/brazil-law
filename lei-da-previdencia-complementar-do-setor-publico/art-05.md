@@ -1,0 +1,1 @@
+Art. 5º É vedado à União, aos Estados, ao Distrito Federal e aos Municípios, suas autarquias, fundações, empresas públicas, sociedades de economia mista e outras entidades públicas o aporte de recursos a entidades de previdência privada de caráter complementar, salvo na condição de patrocinador.

@@ -1,0 +1,2 @@
+Art. 22. A entidade de previdência complementar informará ao órgão regulador e fiscalizador o responsável pelas aplicações dos recursos da entidade, escolhido entre os membros da diretoria-executiva.
+Parágrafo único. Os demais membros da diretoria-executiva responderão solidariamente com o dirigente indicado na forma do caput pelos danos e prejuízos causados à entidade para os quais tenham concorrido.

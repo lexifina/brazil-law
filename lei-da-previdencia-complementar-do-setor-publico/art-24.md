@@ -1,0 +1,1 @@
+Art. 24. A fiscalização e controle dos planos de benefícios e das entidades fechadas de previdência complementar de que trata esta Lei Complementar competem ao órgão regulador e fiscalizador das entidades fechadas de previdência complementar.

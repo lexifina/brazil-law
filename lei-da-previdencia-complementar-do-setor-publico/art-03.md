@@ -1,0 +1,4 @@
+Art. 3º Observado o disposto no artigo anterior, os planos de benefícios das entidades de que trata esta Lei Complementar atenderão às seguintes regras:
+I - carência mínima de sessenta contribuições mensais a plano de benefícios e cessação do vínculo com o patrocinador, para se tornar elegível a um benefício de prestação que seja programada e continuada; e
+II - concessão de benefício pelo regime de previdência ao qual o participante esteja filiado por intermédio de seu patrocinador, quando se tratar de plano na modalidade benefício definido, instituído depois da publicação desta Lei Complementar.
+Parágrafo único. Os reajustes dos benefícios em manutenção serão efetuados de acordo com critérios estabelecidos nos regulamentos dos planos de benefícios, vedado o repasse de ganhos de produtividade, abono e vantagens de qualquer natureza para tais benefícios.

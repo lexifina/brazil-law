@@ -1,0 +1,3 @@
+Art. 19. A diretoria-executiva é o órgão responsável pela administração da entidade, em conformidade com a política de administração traçada pelo conselho deliberativo.
+§ 1º A diretoria-executiva será composta, no máximo, por seis membros, definidos em função do patrimônio da entidade e do seu número de participantes, inclusive assistidos.
+§ 2º O estatuto da entidade fechada, respeitado o número máximo de diretores de que trata o parágrafo anterior, deverá prever a forma de composição e o mandato da diretoria-executiva, aprovado na forma prevista no seu estatuto, observadas as demais disposições desta Lei Complementar.
