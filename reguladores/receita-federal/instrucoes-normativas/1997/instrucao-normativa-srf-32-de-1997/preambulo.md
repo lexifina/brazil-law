@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 32, de 9 de abril de 1997
+Dispõe sobre a cobrança da TRD como juros de mora, legitima a compensação de valores recolhidos da contribuição para o FINSOCIAL com a COFINS devida, explicita o alcance do art. 63 da Lei nº 9.430, de 27 de dezembro de 1996, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições, tendo em vista o disposto no art. 106 da Lei nº 5.172, de 25 de outubro de 1966, na Lei de Introdução ao Código Civil e nos arts. 3º, inciso I, 7º, 8º e 30 da Lei nº 8.218, de 29 de agosto de 1991, e 63 da Lei nº 9.430, de 27 de dezembro de 1996, resolve:
