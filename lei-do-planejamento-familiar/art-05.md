@@ -1,0 +1,1 @@
+Art. 5º - É dever do Estado, através do Sistema Único de Saúde, em associação, no que couber, às instâncias componentes do sistema educacional, promover condições e recursos informativos, educacionais, técnicos e científicos que assegurem o livre exercício do planejamento familiar.
