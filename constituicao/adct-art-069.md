@@ -1,0 +1,1 @@
+Art. 69. Será permitido aos Estados manter consultorias jurídicas separadas de suas Procuradorias-Gerais ou Advocacias-Gerais, desde que, na data da promulgação da Constituição, tenham órgãos distintos para as respectivas funções.
