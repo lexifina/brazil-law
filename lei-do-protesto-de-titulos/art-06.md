@@ -1,0 +1,1 @@
+Art. 6º Tratando-se de cheque, poderá o protesto ser lavrado no lugar do pagamento ou do domicílio do emitente, devendo do referido cheque constar a prova de apresentação ao Banco sacado, salvo se o protesto tenha por fim instruir medidas pleiteadas contra o estabelecimento de crédito.

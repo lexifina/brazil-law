@@ -1,0 +1,2 @@
+Art. 23. Os termos dos protestos lavrados, inclusive para fins especiais, por falta de pagamento, de aceite ou de devolução serão registrados em um único livro e conterão as anotações do tipo e do motivo do protesto, além dos requisitos previstos no artigo anterior.
+Parágrafo único. Somente poderão ser protestados, para fins falimentares, os títulos ou documentos de dívida de responsabilidade das pessoas sujeitas às conseqüências da legislação falimentar.
