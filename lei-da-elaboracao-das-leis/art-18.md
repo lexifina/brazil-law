@@ -1,0 +1,1 @@
+Art. 18. Eventual inexatidão formal de norma elaborada mediante processo legislativo regular não constitui escusa válida para o seu descumprimento.

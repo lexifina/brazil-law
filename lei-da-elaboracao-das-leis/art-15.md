@@ -1,0 +1,1 @@
+Art. 15. Na primeira sessão legislativa de cada legislatura, a Mesa do Congresso Nacional promoverá a atualização da Consolidação das Leis Federais Brasileiras, incorporando às coletâneas que a integram as emendas constitucionais, leis, decretos legislativos e resoluções promulgadas durante a legislatura imediatamente anterior, ordenados e indexados sistematicamente.

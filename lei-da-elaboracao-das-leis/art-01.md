@@ -1,0 +1,2 @@
+Art. 1º A elaboração, a redação, a alteração e a consolidação das leis obedecerão ao disposto nesta Lei Complementar.
+Parágrafo único. As disposições desta Lei Complementar aplicam-se, ainda, às medidas provisórias e demais atos normativos referidos no art. 59 da Constituição Federal, bem como, no que couber, aos decretos e aos demais atos de regulamentação expedidos por órgãos do Poder Executivo.
