@@ -15,7 +15,7 @@ XIII - decidir sobre o estabelecimento de sub-segmentações aos tipos de planos
 XIV - estabelecer critérios gerais para o exercício de cargos diretivos das operadoras de planos privados de assistência à saúde;
 XV - estabelecer critérios de aferição e controle da qualidade dos serviços oferecidos pelas operadoras de planos privados de assistência à saúde, sejam eles próprios, referenciados, contratados ou conveniados;
 XVI - estabelecer normas, rotinas e procedimentos para concessão, manutenção e cancelamento de registro dos produtos das operadoras de planos privados de assistência à saúde;
-XVII - autorizar reajustes e revisões das contraprestações pecuniárias dos planos privados de assistência à saúde, de acordo com parâmetros e diretrizes gerais fixados conjuntamente pelos Ministérios da Fazenda e da Saúde;
+XVII - autorizar reajustes e revisões das contraprestações pecuniárias dos planos privados de assistência à saúde, ouvido o Ministério da Fazenda;
 XVIII - expedir normas e padrões para o envio de informações de natureza econômico-financeira pelas operadoras, com vistas à homologação de reajustes e revisões;
 XIX - proceder à integração de informações com os bancos de dados do Sistema Único de Saúde;
 XX - autorizar o registro dos planos privados de assistência à saúde;
@@ -38,6 +38,19 @@ XXXVI - articular-se com os órgãos de defesa do consumidor visando a eficácia
 XXXVII - zelar pela qualidade dos serviços de assistência à saúde no âmbito da assistência à saúde suplementar;
 XXXVIII - administrar e arrecadar as taxas instituídas por esta Lei.
 XL - definir as atribuições e competências do Diretor Técnico, Diretor Fiscal, do liquidante e do responsável pela alienação de carteira.
+XLI - fixar as normas para constituição, organização, funcionamento e fiscalização das operadoras de produtos de que tratam o inciso I e o § 1º do art. 1º da Lei nº 9.656, de 3 de junho de 1998, incluindo:
+a) conteúdos e modelos assistenciais;
+b) adequação e utilização de tecnologias em saúde;
+c) direção fiscal ou técnica;
+d) liquidação extrajudicial;
+e) procedimentos de recuperação financeira das operadoras;
+f) normas de aplicação de penalidades;
+g) garantias assistenciais, para cobertura dos planos ou produtos comercializados ou disponibilizados;
+XLII - editar as normas, após a fixação das diretrizes gerais pelo CONSU, para implementação no setor de saúde suplementar de:
+a) assistência farmacêutica;
+b) ampliação das ações de prevenção e promoção à saúde;
+c) mobilidade de beneficiários entre operadoras e portabilidade de suas carências;
+XLIII - estipular índices e demais condições técnicas sobre investimentos e outras relações patrimoniais a serem observadas pelas operadoras de planos de assistência à saúde.
 § 1º A recusa, a omissão, a falsidade ou o retardamento injustificado de informações ou documentos solicitados pela ANS constitui infração punível com multa diária de R$ 5.000,00 (cinco mil reais), podendo ser aumentada em até vinte vezes, se necessário, para garantir a sua eficácia em razão da situação econômica da operadora ou prestadora de serviços.
 § 2º As normas previstas neste artigo obedecerão às características específicas da operadora, especialmente no que concerne à natureza jurídica de seus atos constitutivos.
-§ 3º O Presidente da República poderá determinar que os reajustes e as revisões das contraprestações pecuniárias dos planos privados de assistência à saúde, de que trata o inciso XVII, sejam autorizados em ato conjunto dos Ministros de Estado da Fazenda e da Saúde.
+§ 4º Estão subordinados às normas e à fiscalização da ANS quaisquer modalidades de plano, produto, serviço, contrato ou correlato que ofereçam garantia de prestação de serviço de saúde especializados, específicos ou auxiliares, para utilização futura ou eventual, tais como: cartão de desconto, cobertura de procedimento ou doença específica, UTI móvel ou remoção, cuidados domiciliares, dentre outros, conforme disciplinamento específico da ANS.
