@@ -1,0 +1,1 @@
+Art. 6º Sem prejuízo das competências constitucionais e legais de outros Poderes e órgãos da Administração Pública Federal, os órgãos integrantes do Sistema de Planejamento e de Orçamento Federal e as unidades responsáveis pelo planejamento e orçamento dos demais Poderes realizarão o acompanhamento e a avaliação dos planos e programas respectivos.

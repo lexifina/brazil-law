@@ -1,0 +1,1 @@
+Art. 16. O Sistema de Contabilidade Federal compreende as atividades de registro, de tratamento e de controle das operações relativas à administração orçamentária, financeira e patrimonial da União, com vistas à elaboração de demonstrações contábeis.

@@ -1,0 +1,1 @@
+Art. 38. O Poder Executivo disporá, em regulamento e no prazo de sessenta dias, sobre a competência, a estrutura e o funcionamento dos órgãos componentes dos Sistemas de que trata esta Lei, bem como sobre as atribuições de seus titulares e demais dirigentes.
