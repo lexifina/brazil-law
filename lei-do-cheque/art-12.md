@@ -1,0 +1,1 @@
+Art. 12 Feita a indicação da quantia em algarismos e por extenso, prevalece esta no caso de divergência. lndicada a quantia mais de uma vez, quer por extenso, quer por algarismos, prevalece, no caso de divergência, a indicação da menor quantia.
