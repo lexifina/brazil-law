@@ -1,0 +1,1 @@
+Acrescenta parágrafo único ao art. 488 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943, dispondo sobre o horário no período de aviso prévio, e dá outras previdências.
