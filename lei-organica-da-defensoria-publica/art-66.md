@@ -1,0 +1,1 @@
+Art. 66. Os Defensores Públicos do Distrito Federal de 2ª Categoria atuarão nos Núcleos das Cidades Satélites, junto aos Juízes de Direito e às instâncias administrativas do Distrito Federal e dos Territórios, ou em função de auxílio ou substituição nos Núcleos do Plano Piloto.

@@ -1,0 +1,1 @@
+Art. 68. Os Defensores Públicos do Distrito Federal e dos Territórios de Categoria Especial atuarão junto ao Tribunal de Justiça do Distrito Federal e Territórios, e aos Tribunais Superiores, quando couber (art. 22, parágrafo único).
