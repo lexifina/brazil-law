@@ -1,0 +1,1 @@
+Art. 31. As sementes e mudas deverão ser identificadas, constando sua categoria, na forma estabelecida no art. 23 e deverão, ao ser transportadas, comercializadas ou estocadas, estar acompanhadas de nota fiscal ou nota fiscal do produtor e do certificado de semente ou do termo de conformidade, conforme definido no regulamento desta Lei.

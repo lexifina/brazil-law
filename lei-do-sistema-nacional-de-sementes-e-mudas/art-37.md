@@ -1,0 +1,3 @@
+Art. 37. Estão sujeitas à fiscalização, pelo Mapa, as pessoas físicas e jurídicas que produzam, beneficiem, analisem, embalem, reembalem, amostrem, certifiquem, armazenem, transportem, importem, exportem, utilizem ou comercializem sementes ou mudas.
+§ 1º A fiscalização de que trata este artigo é de competência do Mapa e será exercida por fiscal por ele capacitado, sem prejuízo do disposto no art. 5º.
+§ 2º Compete ao fiscal exercer a fiscalização da produção, do beneficiamento, do comércio e da utilização de sementes e mudas, sendo-lhe assegurado, no exercício de suas funções, livre acesso a quaisquer estabelecimentos, documentos ou pessoas referidas no caput.

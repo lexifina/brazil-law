@@ -1,0 +1,1 @@
+Art. 45. As sementes produzidas de conformidade com o estabelecido no caput do art. 24 e denominadas na forma do caput do art. 22 poderão ser comercializadas com a designação de "sementes fiscalizadas", por um prazo máximo de 2 (dois) anos, contado a partir da data de publicação desta Lei.

@@ -1,0 +1,1 @@
+Art. 36. Compete ao Mapa orientar a utilização de sementes e mudas no País, com o objetivo de evitar seu uso indevido e prejuízos à agricultura nacional, conforme estabelecido no regulamento desta Lei.

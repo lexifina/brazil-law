@@ -1,0 +1,1 @@
+Art. 1º O Sistema Nacional de Sementes e Mudas, instituído nos termos desta Lei e de seu regulamento, objetiva garantir a identidade e a qualidade do material de multiplicação e de reprodução vegetal produzido, comercializado e utilizado em todo o território nacional.
