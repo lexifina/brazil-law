@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 98, de 5 de dezembro de 2001
+Dispõe sobre os procedimentos a serem adotados pelas pessoas jurídicas relativamente à tributação das contribuição para o PIS/Pasep e da Cofins nas operações de importação por conta e ordem de terceiros, nos termos da Instrução Normativa SRF n° 75, de 13 de setembro de 2001.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 190 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF n° 259, de 24 de agosto de 2001, e tendo em vista as disposições contidas no art. 81 da Medida Provisória n° 2.158-35, de 24 de agosto de 2001, no Parecer PGFN/CAT/n° 1.316, de 09 de julho de 2001 e na Instrução Normativa SRF n° 75, de 13 de setembro de 2001, resolve:
