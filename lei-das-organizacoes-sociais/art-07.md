@@ -1,0 +1,4 @@
+Art. 7º Na elaboração do contrato de gestão, devem ser observados os princípios da legalidade, impessoalidade, moralidade, publicidade, economicidade e, também, os seguintes preceitos:
+I - especificação do programa de trabalho proposto pela organização social, a estipulação das metas a serem atingidas e os respectivos prazos de execução, bem como previsão expressa dos critérios objetivos de avaliação de desempenho a serem utilizados, mediante indicadores de qualidade e produtividade;
+II - a estipulação dos limites e critérios para despesa com remuneração e vantagens de qualquer natureza a serem percebidas pelos dirigentes e empregados das organizações sociais, no exercício de suas funções.
+Parágrafo único. Os Ministros de Estado ou autoridades supervisoras da área de atuação da entidade devem definir as demais cláusulas dos contratos de gestão de que sejam signatários.
