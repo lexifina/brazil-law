@@ -1,0 +1,33 @@
+Art. 7º São direitos do advogado:
+I - exercer, com liberdade, a profissão em todo o território nacional;
+II - ter respeitada, em nome da liberdade de defesa e do sigilo profissional, a inviolabilidade de seu escritório ou local de trabalho, de seus arquivos e dados, de sua correspondência e de suas comunicações, inclusive telefônicas ou afins, salvo caso de busca ou apreensão determinada por magistrado e acompanhada de representante da OAB;
+III - comunicar-se com seus clientes, pessoal e reservadamente, mesmo sem procuração, quando estes se acharem presos, detidos ou recolhidos em estabelecimentos civis ou militares, ainda que considerados incomunicáveis;
+IV - ter a presença de representante da OAB, quando preso em flagrante, por motivo ligado ao exercício da advocacia, para lavratura do auto respectivo, sob pena de nulidade e, nos demais casos, a comunicação expressa à seccional da OAB;
+V - não ser recolhido preso, antes de sentença transitada em julgado, senão em sala de Estado Maior, com instalações e comodidades condignas, assim reconhecidas pela OAB, e, na sua falta, em prisão domiciliar;
+VI - ingressar livremente:
+a) nas salas de sessões dos tribunais, mesmo além dos cancelos que separam a parte reservada aos magistrados;
+b) nas salas e dependências de audiências, secretarias, cartórios, ofícios de justiça, serviços notariais e de registro, e, no caso de delegacias e prisões, mesmo fora da hora de expediente e independentemente da presença de seus titulares;
+c) em qualquer edifício ou recinto em que funcione repartição judicial ou outro serviço público onde o advogado deva praticar ato ou colher prova ou informação útil ao exercício da atividade profissional, dentro do expediente ou fora dele, e ser atendido, desde que se ache presente qualquer servidor ou empregado;
+d) em qualquer assembléia ou reunião de que participe ou possa participar o seu cliente, ou perante a qual este deva comparecer, desde que munido de poderes especiais;
+VII - permanecer sentado ou em pé e retirar-se de quaisquer locais indicados no inciso anterior, independentemente de licença;
+VIII - dirigir-se diretamente aos magistrados nas salas e gabinetes de trabalho, independentemente de horário previamente marcado ou outra condição, observando-se a ordem de chegada;
+IX - sustentar oralmente as razões de qualquer recurso ou processo, nas sessões de julgamento, após o voto do relator, em instância judicial ou administrativa, pelo prazo de quinze minutos, salvo se prazo maior for concedido;
+X - usar da palavra, pela ordem, em qualquer juízo ou tribunal, mediante intervenção sumária, para esclarecer equívoco ou dúvida surgida em relação a fatos, documentos ou afirmações que influam no julgamento, bem como para replicar acusação ou censura que lhe forem feitas;
+XI - reclamar, verbalmente ou por escrito, perante qualquer juízo, tribunal ou autoridade, contra a inobservância de preceito de lei, regulamento ou regimento;
+XII - falar, sentado ou em pé, em juízo, tribunal ou órgão de deliberação coletiva da Administração Pública ou do Poder Legislativo;
+XIII - examinar, em qualquer órgão dos Poderes Judiciário e Legislativo, ou da Administração Pública em geral, autos de processos findos ou em andamento, mesmo sem procuração, quando não estejam sujeitos a sigilo, assegurada a obtenção de cópias, podendo tomar apontamentos;
+XIV - examinar em qualquer repartição policial, mesmo sem procuração, autos de flagrante e de inquérito, findos ou em andamento, ainda que conclusos à autoridade, podendo copiar peças e tomar apontamentos;
+XV - ter vista dos processos judiciais ou administrativos de qualquer natureza, em cartório ou na repartição competente, ou retirá-los pelos prazos legais;
+XVI - retirar autos de processos findos, mesmo sem procuração, pelo prazo de dez dias;
+XVII - ser publicamente desagravado, quando ofendido no exercício da profissão ou em razão dela;
+XVIII - usar os símbolos privativos da profissão de advogado;
+XIX - recusar-se a depor como testemunha em processo no qual funcionou ou deva funcionar, ou sobre fato relacionado com pessoa de quem seja ou foi advogado, mesmo quando autorizado ou solicitado pelo constituinte, bem como sobre fato que constitua sigilo profissional;
+XX - retirar-se do recinto onde se encontre aguardando pregão para ato judicial, após trinta minutos do horário designado e ao qual ainda não tenha comparecido a autoridade que deva presidir a ele, mediante comunicação protocolizada em juízo.
+§ 1º Não se aplica o disposto nos incisos XV e XVI:
+1) aos processos sob regime de segredo de justiça;
+2) quando existirem nos autos documentos originais de difícil restauração ou ocorrer circunstância relevante que justifique a permanência dos autos no cartório, secretaria ou repartição, reconhecida pela autoridade em despacho motivado, proferido de ofício, mediante representação ou a requerimento da parte interessada;
+3) até o encerramento do processo, ao advogado que houver deixado de devolver os respectivos autos no prazo legal, e só o fizer depois de intimado.
+§ 2º O advogado tem imunidade profissional, não constituindo injúria, difamação ou desacato puníveis qualquer manifestação de sua parte, no exercício de sua atividade, em juízo ou fora dele, sem prejuízo das sanções disciplinares perante a OAB, pelos excessos que cometer.
+§ 3º O advogado somente poderá ser preso em flagrante, por motivo de exercício da profissão, em caso de crime inafiançável, observado o disposto no inciso IV deste artigo.
+§ 4º O Poder Judiciário e o Poder Executivo devem instalar, em todos os juizados, fóruns, tribunais, delegacias de polícia e presídios, salas especiais permanentes para os advogados, com uso e controle assegurados à OAB.
+§ 5º No caso de ofensa a inscrito na OAB, no exercício da profissão ou de cargo ou função de órgão da OAB, o conselho competente deve promover o desagravo público do ofendido, sem prejuízo da responsabilidade criminal em que incorrer o infrator.
