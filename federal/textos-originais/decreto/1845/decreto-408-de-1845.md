@@ -1,0 +1,13 @@
+# Decreto nº 408, de 28/05/1845
+
+DECRETO N. 408 - DE 28 MAIO DE 1845
+
+Manda observar os limites, que na inauguração da Villa de Rezende, pertencente á Provincia do Rio de Janeiro forão marcados a esta Villa.
+
+Constando na Minha Imperial Presença que se tem suscitado conflictos entre as Autoridades da Villa de Arêas, pertencente á Provincia de S. Paulo, e as da Villa de Rezende, pertencente á Provincio do Rio de Janeiro, pondo-se assim em perigo a segurança e a tranquillidade dos habitantes daquelles lugares, por se não haverem guardado entre o pé do Morro de Santa Anna, e o lugar denominado - Maximo -, os limites, que na inauguração desta ultima Villa forão a ella demarcados pelo Ouvidor da Comarca José Albano Fragoso, em vinte e nove de Setembro de mil oitocentos e um, época muito anterior á creação da Villa de Arêas, que teve lugar por Alvará de vinte e oito de Novembro de mil oitocentos e dezaseis, e deixou subsistentes aquelles limites; e Desejando occorrer com o conveniente remedio, para que não continuem os mencionados conflictos: Hei por bem, Tendo ouvido a Secção do Conselho de Estado dos Negocios do Imperio, que d'ora em diante se respeitem, e observem os ditos limites, os quaes ultimamente Mandei avivar por uma Commissão, composta do Doutor Antonio Manoel Fernandes Junior, do Major do Corpo de Engenheiros Joaquim José de Oliveira, do Segundo Tenente do mesmo Corpo Marcolino Rodrigues da Costa, e do Amanuense addido á Secretaria da Policia da Provincia do Rio de Janeiro Mathias Moreira Barreiros: tendo esta Commissão fixado, para maior clareza, e perduravel memoria dos mesmos limites, um marco no alto do Morro de Santa Anna, setecentas e cincoenta braças distantes do pé do mesmo Morro; outro na margem esquerda do regato Carropatinho, em distancia de quatro milhas do primeiro marco; e finalmente outro na margem esquerda do Rio Formoso, em distancia de quatro milhas e meia do segundo; comprehendendo a estrada em sua extensão oito milhas e meia, contadas pelas voltas do caminho, desde o Morro de Santa Anna, que divide a Freguezia de Barreiros da de Arêas, até ao Rio Formoso, que divide a Freguezia de Barreiros da do Bananal, como tudo se mostra do auto de avivamento de limites, que se lavrou, e do Mappa respectivo, os quaes se conservaráõ annexos ao presente Decreto.
+
+José Carlos Pereira de Almeida Torres, do Conselho de Estado, Ministro e Secretario de Estado dos Negocios do Imperio, assim o tenha entendido, e faça executar com os despachos necessarios. Palacio do Rio de Janeiro em vinte oito de Maio de mil oitocentos quarenta e cinco, vigesimo quarta da Independencia e do Imperio.
+
+Com a Rubrica de Sua Magestade o Imperador.
+
+José Carlos de Pereira de Almeida Torres.
