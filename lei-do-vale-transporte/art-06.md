@@ -1,0 +1,4 @@
+Art. 6º - A empresa operadora do sistema de transporte coletivo público fica obrigada a emitir e a comercializar o Vale-Transporte, ao preço da tarifa vigente, colocando-o à disposição dos empregadores em geral e assumindo os custos dessa obrigação, sem repassá-los para a tarifa dos serviços.
+§ 1º - A emissão e a comercialização do Vale-Transporte poderão também ser efetuadas pelo órgão de gerência ou pelo poder concedente, quando este tiver a competência legal para emissão de passes.
+§ 2º - Fica facultado à empresa operadora delegar a emissão e a comercialização do Vale-Trasporte, bem como consorciar-se em central de vendas, para efeito de cumprimento do disposto nesta Lei.
+§ 3º - Para fins de cálculo do valor do Vale-Transporte, será adotada a tarifa integral do deslocamento do trabalhador, sem descontos, mesmo que previstos na legislação local.
