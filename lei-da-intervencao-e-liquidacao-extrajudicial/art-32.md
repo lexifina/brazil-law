@@ -1,0 +1,1 @@
+Art. 32. Apurados, no curso da liquidação, seguros elementos de prova, mesmo indiciaria, da prática de contravenções penais ou crimes por parte de qualquer dos antigos administradores e membros do Conselho Fiscal, o liquidante os encaminhará ao órgão do Ministério Público para que este promova a ação penal.
