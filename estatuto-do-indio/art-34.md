@@ -1,0 +1,1 @@
+Art. 34. O órgão federal de assistência ao índio poderá solicitar a colaboração das Forças Armadas e Auxiliares e da Polícia Federal, para assegurar a proteção das terras ocupadas pelos índios e pelas comunidades indígenas.
