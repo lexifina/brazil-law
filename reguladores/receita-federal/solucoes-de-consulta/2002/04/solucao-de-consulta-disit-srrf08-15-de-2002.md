@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF08 nº 15, de 2 de fevereiro de 2002
+Assunto: Imposto sobre Produtos Industrializados - IPI Ementa: CRÉDITOS. COMPENSAÇÃO NA IMPORTAÇÃO. RECOF. Não é possível compensar créditos de IPI registrados na escrita fiscal com tributos devidos na importação (no ato do registro da DI, no SISCOMEX). O mesmo se aplica às mercadorias importadas que tenham sido admitidas no RECOF. Dispositivos Legais: IN SRF nº 21, de 1997, arts. 6º, 7º, 12 e 13; IN SRF nº 98, de 1997, art. 1º; IN SRF nº 34, de 1998, arts. 2º, § 2º, e 7º; IN SRF nº 35, de 1998, art. 16.
+[arquivo anexo: SC SRRF08-Disit nº 15-2002.pdf]
