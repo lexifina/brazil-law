@@ -1,0 +1,1 @@
+Art. 2º No mandado de segurança coletivo e na ação civil pública, a liminar será concedida, quando cabível, após a audiência do representante judicial da pessoa jurídica de direito público, que deverá se pronunciar no prazo de setenta e duas horas.
