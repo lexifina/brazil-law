@@ -1,0 +1,1 @@
+Art. 82. Os dirigentes, unidades ou órgãos de entidades de administração do desporto, inscritas ou não no registro de comércio, não exercem função delegada pelo Poder Público, nem são consideradas autoridades públicas para os efeitos desta Lei.

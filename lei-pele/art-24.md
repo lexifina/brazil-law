@@ -1,0 +1,2 @@
+Art. 24. As prestações de contas anuais de todas as entidades de administração integrantes do Sistema Nacional do Desporto serão obrigatoriamente submetidas, com parecer dos Conselhos Fiscais, às respectivas assembléias-gerais, para a aprovação final.
+Parágrafo único. Todos os integrantes das assembléias-gerais terão acesso irrestrito aos documentos, informações e comprovantes de despesas de contas de que trata este artigo.

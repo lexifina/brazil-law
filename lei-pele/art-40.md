@@ -1,0 +1,2 @@
+Art. 40. Na cessão ou transferência de atleta profissional para entidade de prática desportiva estrangeira observar-se-ão as instruções expedidas pela entidade nacional de título.
+Parágrafo único As condições para transferência do atleta profissional para o exterior deverão integrar obrigatoriamente os contratos de trabalho entre o atleta e a entidade de prática desportiva brasileira que o contratou.

@@ -1,0 +1,1 @@
+Art. 38. Qualquer cessão ou transferência de atleta profissional, na vigência do contrato de trabalho, depende de formal e expressa anuência deste, e será isenta de qualquer taxa que venha a ser cobrada pela entidade de administração.

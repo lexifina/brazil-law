@@ -1,0 +1,1 @@
+Art. 92. Os atuais atletas profissionais de futebol, de qualquer idade, que, na data de entrada em vigor desta Lei, estiverem com passe livre, permanecerão nesta situação, e a rescisão de seus contratos de trabalho dar-se-á nos termos dos arts. 479 e 480 da C.L.T.

@@ -1,0 +1,4 @@
+Art. 42. Às entidades de prática desportiva pertence o direito de negociar, autorizar e proibir a fixação, a transmissão ou retransmissão de imagem de espetáculo ou eventos desportivos de que participem.
+§ 1º Salvo convenção em contrário, vinte por cento do preço total da autorização, como mínimo, será distribuído, em partes iguais, aos atletas profissionais participantes do espetáculo ou evento.
+§ 2º O disposto neste artigo não se aplica a flagrantes de espetáculo ou evento desportivo para fins, exclusivamente, jornalísticos ou educativos, cuja duração, no conjunto, não exceda de três por cento do total do tempo previsto para o espetáculo.
+§ 3º O espectador pagante, por qualquer meio, de espetáculo ou evento desportivo equipara-se, para todos os efeitos legais, ao consumidor, nos termos do art. 2º da Lei nº 8.078, de 11 de setembro de 1990.

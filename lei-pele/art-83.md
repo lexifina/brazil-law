@@ -1,0 +1,1 @@
+Art. 83. As entidades desportivas internacionais com sede permanente ou temporária no País receberão dos poderes públicos o mesmo tratamento dispensado às entidades nacionais de administração do desporto.
