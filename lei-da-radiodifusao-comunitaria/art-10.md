@@ -1,0 +1,2 @@
+Art. 10. A cada entidade será outorgada apenas uma autorização para exploração do Serviço de Radiodifusão Comunitária.
+Parágrafo único. É vedada a outorga de autorização para entidades prestadoras de qualquer outra modalidade de Serviço de Radiodifusão ou de serviços de distribuição de sinais de televisão mediante assinatura, bem como à entidade que tenha como integrante de seus quadros de sócios e de administradores pessoas que, nestas condições, participem de outra entidade detentora de outorga para exploração de qualquer dos serviços mencionados.
