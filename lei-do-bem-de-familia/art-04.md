@@ -1,0 +1,3 @@
+Art. 4º Não se beneficiará do disposto nesta lei aquele que, sabendo-se insolvente, adquire de má-fé imóvel mais valioso para transferir a residência familiar, desfazendo-se ou não da moradia antiga.
+§ 1º Neste caso, poderá o juiz, na respectiva ação do credor, transferir a impenhorabilidade para a moradia familiar anterior, ou anular-lhe a venda, liberando a mais valiosa para execução ou concurso, conforme a hipótese.
+§ 2º Quando a residência familiar constituir-se em imóvel rural, a impenhorabilidade restringir-se-á à sede de moradia, com os respectivos bens móveis, e, nos casos do art. 5º, inciso XXVI, da Constituição, à área limitada como pequena propriedade rural.
