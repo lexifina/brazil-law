@@ -1,0 +1,3 @@
+Art. 36. O processo de planejamento e orçamento do Sistema Único de Saúde (SUS) será ascendente, do nível local até o federal, ouvidos seus órgãos deliberativos, compatibilizando-se as necessidades da política de saúde com a disponibilidade de recursos em planos de saúde dos Municípios, dos Estados, do Distrito Federal e da União.
+§ 1º Os planos de saúde serão a base das atividades e programações de cada nível de direção do Sistema Único de Saúde (SUS), e seu financiamento será previsto na respectiva proposta orçamentária.
+§ 2º É vedada a transferência de recursos para o financiamento de ações não previstas nos planos de saúde, exceto em situações emergenciais ou de calamidade pública, na área de saúde.
