@@ -1,0 +1,1 @@
+Art. 52. Enquanto não estiver aprovado e regulamentado o Plano Nacional de Recursos Hídricos, a utilização dos potenciais hidráulicos para fins de geração de energia elétrica continuará subordinada à disciplina da legislação setorial específica.
