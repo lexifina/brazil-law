@@ -1,0 +1,6 @@
+[arquivo anexo: Modelo do Formulário Declaração de Ajuste Anual Simplificada.doc]
+[arquivo anexo: Modelo do Formulário Declaração de Ajuste Anual.doc]
+[arquivo anexo: Modelo do Formulário Demonstrativo da Apuração dos Ganhos de Capital.doc]
+[arquivo anexo: Modelo do Formulário Resumo de Apuração de Ganhos - Renda Variável.doc]
+[arquivo anexo: Modelo do Formulário Atividade Rural.doc]
+[arquivo anexo: Modelo do Recibo da Entrega da Declaração de Ajuste Anual.doc]
