@@ -1,3 +1,7 @@
 Art. 27. O juiz indicará na sentença os fatos que motivaram o seu convencimento e deverá atender, especialmente, à estimação dos bens para efeitos fiscais; ao preço de aquisição e interesse que deles aufere o proprietário; à sua situação, estado de conservação e segurança; ao valor venal dos da mesma espécie, nos últimos cinco anos, e à valorização ou depreciação de área remanescente, pertencente ao réu.
-§ 1º A sentença que fixar o valor da indenização quando êste fôr superior ao preço oferecido, condenará o desapropriante a pagar honorários de advogado, sôbre o valor da diferença.
+§ 1º A sentença que fixar o valor da indenização quando este for superior ao preço oferecido condenará o desapropriante a pagar honorários do advogado, que serão fixados entre meio e cinco por cento do valor da diferença, observado o disposto no § 4º do art. 20 do Código de Processo Civil, não podendo os honorários ultrapassar R$ 151.000,00 (cento e cinqüenta e um mil reais).
 § 2º A transmissão da propriedade, decorrente de desapropriação amigável ou judicial, não ficará sujeita ao impôsto de lucro imobiliário.
+§ 3º O disposto no § 1º deste artigo se aplica:
+I - ao procedimento contraditório especial, de rito sumário, para o processo de desapropriação de imóvel rural, por interesse social, para fins de reforma agrária;
+II - às ações de indenização por apossamento administrativo ou desapropriação indireta.
+§ 4º O valor a que se refere o § 1º será atualizado, a partir de maio de 2000, no dia 1º de janeiro de cada ano, com base na variação acumulada do Índice de Preços ao Consumidor Amplo - IPCA do respectivo período.
