@@ -1,0 +1,2 @@
+Art. 9º Fica suspensa, até 31 de dezembro de 1999, a aplicação do disposto no caput do art. 22, e no seu § 2º, do Decreto-Lei nº 147, de 3 de fevereiro de 1967, na redação que lhes deram o art. 4º do Decreto-Lei nº 1.687, de 18 de julho de 1979, e o art. 10 do Decreto-Lei nº 2.163, de 19 de setembro de 1984.
+Parágrafo único. O Ministro de Estado da Fazenda estabelecerá cronograma, prioridades e condições para a remessa, às unidades da Procuradoria-Geral da Fazenda Nacional, dos débitos passíveis de inscrição em Dívida Ativa da União e cobrança judicial.

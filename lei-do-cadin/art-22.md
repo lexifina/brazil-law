@@ -1,0 +1,4 @@
+Art. 22. O pedido poderá ser homologado pelo juiz, pelo relator do recurso, ou pelo presidente do tribunal, ficando extinto o crédito tributário, até o limite dos depósitos convertidos.
+§ 1º Na hipótese de a homologação ser da competência do relator ou do presidente do tribunal, incumbirá ao autor peticionar ao juiz de primeiro grau que houver apreciado o feito, informando a homologação da renúncia para que este determine, de imediato, a conversão dos depósitos em renda da União, independentemente do retorno dos autos do processo ou da respectiva ação cautelar à vara de origem.
+§ 2º A petição de que trata o § 1º deverá conter o número da conta a que os depósitos estejam vinculados e virá acompanhada de cópia da página do órgão oficial onde tiver sido publicado o ato homologatório.
+§ 3º Com a renúncia da ação principal deverão ser extintas todas as ações cautelares a ela vinculadas, nas quais não será devida verba de sucumbência.
