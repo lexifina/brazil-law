@@ -1,0 +1,2 @@
+Art. 9º Os órgãos competentes do Poder Executivo, no âmbito de suas atribuições, tomarão as providências necessárias, em trinta dias, para o cumprimento do disposto nesta Lei.
+Parágrafo único. A partir das nove horas do dia 4 até às vinte e quatro horas do dia 11 de maio de 2000, os veículos de transporte rodoviário de carga terão livre circulação, sem pagamento da tarifa de pedágio, nas rodovias sob concessão federal.

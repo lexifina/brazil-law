@@ -1,0 +1,1 @@
+Art. 5º O descumprimento do disposto nesta Lei sujeitará o infrator à aplicação de multa administrativa de R$ 550,00 (quinhentos e cinqüenta reais) a R$ 10.500,00 (dez mil e quinhentos reais), a ser aplicada pelo órgão competente, na forma do regulamento.

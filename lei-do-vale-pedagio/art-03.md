@@ -1,0 +1,8 @@
+Art. 3º A partir de 12 de maio de 2000, o embarcador passará a antecipar o Vale-Pedágio obrigatório ao transportador, em modelo próprio ou em espécie, independentemente do valor do frete, ressalvado o disposto no § 5º deste artigo.
+§ 1º Quando o Vale-Pedágio obrigatório for expedido em modelo próprio, a aquisição, pelo embarcador, para fins de repasse ao transportador de carga, dar-se-á junto às concessionárias das rodovias, podendo a comercialização ser delegada a centrais de vendas ou a outras instituições, a critério da concessionária.
+§ 2º O Vale-Pedágio obrigatório deverá ser entregue ao transportador rodoviário autônomo no ato do embarque decorrente da contratação do serviço de transporte no valor necessário à livre circulação entre a sua origem e o destino.
+§ 3º Sendo o transporte efetuado por empresa comercial para um só embarcador, aplica-se o disposto no parágrafo anterior.
+§ 4º O rateio do valor do Vale-Pedágio obrigatório, no caso do transporte fracionado, será definido em regulamento.
+§ 5º No caso de transporte fracionado, efetuado por empresa comercial de transporte rodoviário, o rateio do Vale-Pedágio obrigatório será feito por despacho, destacando-se seu valor no conhecimento para quitação, pelo embarcador, juntamente com o valor do frete a ser faturado.
+§ 6º Até o dia 20 de julho de 2000, as concessionárias de rodovias que pratiquem a cobrança de pedágio informarão à Secretaria de Transportes Terrestres do Ministério dos Transportes o modelo próprio de Vale-Pedágio obrigatório que estejam disponibilizando aos interessados e os locais em que poderão ser adquiridos.
+§ 7º O descumprimento do que estabelece o parágrafo anterior implicará a aplicação de multa diária de R$ 550,00 (quinhentos e cinqüenta reais).
