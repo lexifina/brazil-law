@@ -1,0 +1,3 @@
+Art. 48. Os notários e os oficiais de registro poderão contratar, segundo a legislação trabalhista, seus atuais escreventes e auxiliares de investidura estatutária ou em regime especial desde que estes aceitem a transformação de seu regime jurídico, em opção expressa, no prazo improrrogável de trinta dias, contados da publicação desta lei.
+§ 1º Ocorrendo opção, o tempo de serviço prestado será integralmente considerado, para todos os efeitos de direito.
+§ 2º Não ocorrendo opção, os escreventes e auxiliares de investidura estatutária ou em regime especial continuarão regidos pelas normas aplicáveis aos funcionários públicos ou pelas editadas pelo Tribunal de Justiça respectivo, vedadas novas admissões por qualquer desses regimes, a partir da publicação desta lei.
