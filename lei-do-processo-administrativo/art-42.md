@@ -1,0 +1,3 @@
+Art. 42. Quando deva ser obrigatoriamente ouvido um órgão consultivo, o parecer deverá ser emitido no prazo máximo de quinze dias, salvo norma especial ou comprovada necessidade de maior prazo.
+§ 1º Se um parecer obrigatório e vinculante deixar de ser emitido no prazo fixado, o processo não terá seguimento até a respectiva apresentação, responsabilizando-se quem der causa ao atraso.
+§ 2º Se um parecer obrigatório e não vinculante deixar de ser emitido no prazo fixado, o processo poderá ter prosseguimento e ser decidido com sua dispensa, sem prejuízo da responsabilidade de quem se omitiu no atendimento.
