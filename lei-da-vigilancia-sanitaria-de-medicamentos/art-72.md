@@ -1,0 +1,3 @@
+Art. 72. A apuração das infrações, nos termos desta Lei, far-se-á mediante apreensão de amostras e interdição do produto ou do estabelecimento, conforme disposto em regulamento.
+§ 1º - A comprovação da infração dará motivo, conforme o caso, à apreensão e inutilização do produto, em todo o território nacional, ao cancelamento do registro e à cassação da licença do estabelecimento, que só se tornarão efetivos após a publicação da decisão condenatória irrecorrível no Diário Oficial da União.
+§ 2º - Darão igualmente motivo a apreensão, interdição e inutilização as alterações havidas em decorrência de causas, circunstâncias e eventos naturais ou imprevisíveis, que determinem avaria, deterioração ou contaminação dos produtos, tornando-os ineficazes ou nocivos à saúde.

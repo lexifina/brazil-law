@@ -1,0 +1,1 @@
+Art. 83. As drogas, os produtos químicos e os oficinais serão vendidos em suas embalagens originais e somente poderão ser fracionados, para revenda, nos estabelecimentos comerciais, sob a responsabilidade direta do respectivo responsável técnico.

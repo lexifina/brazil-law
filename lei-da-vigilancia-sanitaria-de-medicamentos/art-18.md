@@ -1,0 +1,1 @@
+Art. 18 - O registro de drogas, medicamentos e insumos farmacêuticos de procedência estrangeira dependerá, além das condições, das exigências e dos procedimentos previstos nesta Lei e seu regulamento, da comprovação de que já é registrado no país de origem.
