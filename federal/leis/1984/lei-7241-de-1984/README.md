@@ -1,0 +1,14 @@
+# Concede pensão especial ao Frei José Maria Carneiro de Lima - OSM (Lei nº 7.241, de 05/11/1984)
+
+L7241 · 1 versions, from 1984-11-06 (latest in force: 1984-11-06) · <https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-05;7241>
+
+Text: normas.leg.br (Congresso Nacional), CC BY 4.0, the text as published. Earlier versions are not in this record yet.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| art-001 | [art-001.md](art-001.md) | 0 |  |
+| art-002-o | [art-002-o.md](art-002-o.md) | 0 |  |
+| art-003-a | [art-003-a.md](art-003-a.md) | 0 |  |
+| art-004 | [art-004.md](art-004.md) | 0 |  |
+| art-005 | [art-005.md](art-005.md) | 0 |  |
+| preambulo | [preambulo.md](preambulo.md) | 0 |  |
