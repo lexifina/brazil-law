@@ -1,0 +1,1 @@
+Art. 27. Sem prejuízo do disposto no inciso XVII do artigo 30 do Código Eleitoral (Lei nº 4.737, de 15 de julho de 1965), o Tribunal Superior Eleitoral expedirá, dentro de 15 dias da data da publicação desta Lei, as instruções necessárias a sua execução.

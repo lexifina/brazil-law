@@ -1,0 +1,1 @@
+Art. 8º Somente a Justiça Eleitoral poderá, quando imprescindível, em face da absoluta carência de recursos de eleitores da zona rural, fornecer-lhes refeições, correndo, nesta hipótese, as despesas por conta do Fundo Partidário.

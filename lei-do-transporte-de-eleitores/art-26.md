@@ -1,0 +1,2 @@
+Art. 26. O Poder Executivo é autorizado a abrir o crédito especial de Cr$20.000.000,00 (vinte milhões de cruzeiros) destinado ao Fundo Partidário, para atender às despesas decorrentes da aplicação desta Lei na eleição de 15 de novembro de 1974.
+Parágrafo único. A abertura do crédito autorizado neste artigo será compensada mediante a anulação de dotações constantes no Orçamento para o corrente exercício, de que trata a Lei nº 5.964, de 10 de novembro de 1973.
