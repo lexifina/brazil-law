@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo SRF nº 4, de 16 de maio de 2002
+Dispõe sobre as contribuições para o PIS/Pasep e Cofins incidentes sobre receitas de atividade imobiliária.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, tendo em vista o disposto no art. 2º da Medida Provisória nº 2.221, de 4 de setembro de 2001, e observado o disposto no § 6º do art. 195 da Constituição Federal, resolve:
+Artigo único. O regime de reconhecimento de receitas previsto no art. 2º da Medida Provisória nº 2.221, de 2001, para efeito de incidência da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social (Cofins) sobre as receitas auferidas com a atividade imobiliária, na forma do art. 30 da Lei nº 8.981, de 20 de janeiro de 1995, será aplicado aos fatos geradores ocorridos a partir do dia 4 de dezembro de 2001.
+EVERARDO MACIEL
