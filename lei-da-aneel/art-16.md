@@ -1,0 +1,1 @@
+Art. 16. Os contratos de concessão referidos no artigo anterior, ao detalhar a cláusula prevista no inciso V do art. 23 da Lei nº 8.987, de 13 de fevereiro de 1995, poderão prever o compromisso de investimento mínimo anual da concessionária destinado a atender a expansão do mercado e a ampliação e modernização das instalações vinculadas ao serviço.
