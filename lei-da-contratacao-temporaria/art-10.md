@@ -1,0 +1,1 @@
+Art. 10. As infrações disciplinares atribuídas ao pessoal contratado nos termos desta Lei serão apuradas mediante sindicância, concluída no prazo de trinta dias e assegurada ampla defesa.
