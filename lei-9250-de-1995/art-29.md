@@ -1,0 +1,1 @@
+Art. 29. Estão isentos do imposto de renda na fonte os rendimentos pagos a pessoa física, residente ou domiciliada no exterior, por autarquias ou repartições do Governo brasileiro situadas fora do território nacional e que correspondam a serviços prestados a esses órgãos.

@@ -1,0 +1,1 @@
+Art. 15. Nos casos de encerramento de espólio e de saída definitiva do território nacional, o imposto de renda devido será calculado mediante a utilização dos valores da tabela progressiva anual de que trata o art. 11, calculados proporcionalmente ao número de meses do período abrangido pela tributação no ano-calendário.
