@@ -6,8 +6,6 @@ CAPÍTULO III
 Do Pagamento das Duplicatas
 CAPÍTULO IV
 Do Protesto
-CAPÍTULO V
-Da Ação para Cobrança da Duplicata
 DO PROCESSO PARA COBRANÇA DA DUPLICATA
 CAPÍTULO VI
 Da Escrita Especial
