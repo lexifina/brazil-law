@@ -1,0 +1,13 @@
+Art. 2º O dever de sigilo é extensivo ao Banco Central do Brasil, em relação às operações que realizar e às informações que obtiver no exercício de suas atribuições.
+§ 1º O sigilo, inclusive quanto a contas de depósitos, aplicações e investimentos mantidos em instituições financeiras, não pode ser oposto ao Banco Central do Brasil:
+I - no desempenho de suas funções de fiscalização, compreendendo a apuração, a qualquer tempo, de ilícitos praticados por controladores, administradores, membros de conselhos estatutários, gerentes, mandatários e prepostos de instituições financeiras;
+II - ao proceder a inquérito em instituição financeira submetida a regime especial.
+§ 2º As comissões encarregadas dos inquéritos a que se refere o inciso II do § 1º poderão examinar quaisquer documentos relativos a bens, direitos e obrigações das instituições financeiras, de seus controladores, administradores, membros de conselhos estatutários, gerentes, mandatários e prepostos, inclusive contas correntes e operações com outras instituições financeiras.
+§ 3º O disposto neste artigo aplica-se à Comissão de Valores Mobiliários, quando se tratar de fiscalização de operações e serviços no mercado de valores mobiliários, inclusive nas instituições financeiras que sejam companhias abertas.
+§ 4º O Banco Central do Brasil e a Comissão de Valores Mobiliários, em suas áreas de competência, poderão firmar convênios:
+I - com outros órgãos públicos fiscalizadores de instituições financeiras, objetivando a realização de fiscalizações conjuntas, observadas as respectivas competências;
+II - com bancos centrais ou entidades fiscalizadoras de outros países, objetivando:
+a) a fiscalização de filiais e subsidiárias de instituições financeiras estrangeiras, em funcionamento no Brasil e de filiais e subsidiárias, no exterior, de instituições financeiras brasileiras;
+b) a cooperação mútua e o intercâmbio de informações para a investigação de atividades ou operações que impliquem aplicação, negociação, ocultação ou transferência de ativos financeiros e de valores mobiliários relacionados com a prática de condutas ilícitas.
+§ 5º O dever de sigilo de que trata esta Lei Complementar estende-se aos órgãos fiscalizadores mencionados no § 4º e a seus agentes.
+§ 6º O Banco Central do Brasil, a Comissão de Valores Mobiliários e os demais órgãos de fiscalização, nas áreas de suas atribuições, fornecerão ao Conselho de Controle de Atividades Financeiras - COAF, de que trata o art. 14 da Lei nº 9.613, de 3 de março de 1998, as informações cadastrais e de movimento de valores relativos às operações previstas no inciso I do art. 11 da referida Lei.

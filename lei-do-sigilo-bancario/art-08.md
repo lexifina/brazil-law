@@ -1,0 +1,1 @@
+Art. 8º O cumprimento das exigências e formalidades previstas nos artigos 4º, 6º e 7º, será expressamente declarado pelas autoridades competentes nas solicitações dirigidas ao Banco Central do Brasil, à Comissão de Valores Mobiliários ou às instituições financeiras.
