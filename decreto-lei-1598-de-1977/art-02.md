@@ -1,5 +1,0 @@
-Art. 2º - Duas ou mais sociedades com sede no País podem optar pela tributação em conjunto, desde que satisfaçam aos seguintes requisitos:
-I - sejam a sociedade de comando e uma ou mais afiliadas de grupo de sociedades constituído nos termos do Capítulo XXI da Lei nº 6.404, de 15 de dezembro de 1976; ou.
-II - uma controle a outra, ou outras, e a controladora seja titular, direta ou indiretamente, de 80% ou mais do capital com direito a voto da sociedade ou sociedades controladas.
-§ 1º - Somente podem optar pela tributação em conjunto as sociedades cujos exercícios sociais terminem na mesma data, que estejam sujeitas à alíquota geral de 30% e que satisfaçam aos requisitos deste artigo no término do período-base da incidência do imposto anual e no início do exercício financeiro em que o imposto for devido.
-§ 2º - Não serão computadas, para efeito de determinar a porcentagem de que trata o item II, as ações com direito a voto em tesouraria, as quotas liberadas de sociedade por quotas de responsabilidade limitada, e, no caso de participação recíproca entre controladas, as ações com direito a voto ou quotas do capital de uma controlada possuídas pela outra.
