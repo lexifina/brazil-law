@@ -1,0 +1,4 @@
+Art. 10. Salvo no período de recesso, a medida cautelar na ação direta será concedida por decisão da maioria absoluta dos membros do Tribunal, observado o disposto no art. 22, após a audiência dos órgãos ou autoridades dos quais emanou a lei ou ato normativo impugnado, que deverão pronunciar-se no prazo de cinco dias.
+§ 1º O relator, julgando indispensável, ouvirá o Advogado-Geral da União e o Procurador-Geral da República, no prazo de três dias.
+§ 2º No julgamento do pedido de medida cautelar, será facultada sustentação oral aos representantes judiciais do requerente e das autoridades ou órgãos responsáveis pela expedição do ato, na forma estabelecida no Regimento do Tribunal.
+§ 3º Em caso de excepcional urgência, o Tribunal poderá deferir a medida cautelar sem a audiência dos órgãos ou das autoridades das quais emanou a lei ou o ato normativo impugnado.
