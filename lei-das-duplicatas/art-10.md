@@ -1,0 +1,1 @@
+Art. 10. No pagamento da duplicata poderão ser deduzidos quaisquer créditos a favor do devedor resultantes de devolução de mercadorias, diferenças de preço, enganos, verificados, pagamentos por conta e outros motivos assemelhados, desde que devidamente autorizados.
