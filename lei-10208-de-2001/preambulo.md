@@ -1,0 +1,2 @@
+Acresce dispositivos à Lei nº 5.859, de 11 de dezembro de 1972, que dispõe sobre a profissão de empregado doméstico, para facultar o acesso ao Fundo de Garantia do Tempo de Serviço - FGTS e ao seguro-desemprego.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 2.104-16, de 2001, que o Congresso Nacional aprovou, e eu, Jader Barbalho, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
