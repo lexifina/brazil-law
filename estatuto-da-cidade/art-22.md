@@ -1,0 +1,1 @@
+Art. 22. Em caso de alienação do terreno, ou do direito de superfície, o superficiário e o proprietário, respectivamente, terão direito de preferência, em igualdade de condições à oferta de terceiros.
