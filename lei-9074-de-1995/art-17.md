@@ -1,6 +1,6 @@
 Art. 17. O poder concedente deverá definir, dentre as instalações de transmissão, as que se destinam à formação da rede básica dos sistemas interligados, as de âmbito próprio do concessionário de distribuição e as de interesse exclusivo das centrais de geração.
 § 1º As instalações de transmissão, integrantes da rede básica dos sistemas elétricos interligados, serão objeto de concessão mediante licitação, e funcionarão na modalidade de instalações integradas aos sistemas e com regras operativas definidas por agente sob controle da União, de forma a assegurar a otimização dos recursos eletro-energéticos existentes ou futuros.
 § 2º As instalações de transmissão de âmbito próprio do concessionário de distribuição poderão ser consideradas pelo poder concedente parte integrante da concessão de distribuição.
-§ 3º As instalações de transmissão de interesse restrito das centrais de geração serão consideradas integrantes das respectivas concessões, permissões ou autorizações.
+§ 3º As instalações de transmissão de interesse restrito das centrais de geração poderão ser consideradas integrantes das respectivas concessões, permissões ou autorizações.
 § 4º As instalações de transmissão, existentes na data de publicação desta Lei, serão classificadas pelo poder concedente, para efeito de prorrogação, de conformidade com o disposto neste artigo.
 § 5º As instalações de transmissão, classificadas como integrantes da rede básica, poderão ter suas concessões prorrogadas, segundo os critérios estabelecidos nos arts. 19 e 22, no que couber.
