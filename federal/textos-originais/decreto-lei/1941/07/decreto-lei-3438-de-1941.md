@@ -1,0 +1,341 @@
+# Decreto-Lei nº 3.438, de 17/07/1941
+
+DECRETO-LEI 3DECRETO-LEI 3usuariomiriam201062002-04-09T19:59:00Z2002-04-19T16:21:00Z84059231370000.0000
+
+DECRETO-LEI N. 3.438 – DE 17 DE JULHO DE 1941
+
+Esclarece e amplia o decreto-lei n. 2.490, de 16 de agosto de 1940
+
+O Presidente da República, usando da atribuição que lhe confere e o artigo 180 da Constituição,
+
+decreta:
+
+Art. 1º São terrenos de marinha, em uma profundidade de 33 metros, medidos para a parte de terra, do ponto em que se passava a linha do preamar médio de 1831:
+
+a) os situados no continente, na costa marítima e nas margens dos rios e lagoas, até onde se faça sentir a influência das marés;
+
+b) os que contornam as ilhas situadas em zona onde se faça sentir a influência das marés.
+
+Parágrafo único. Para os efeitos deste artigo, a influência das, marés é caracterizada pela oscilação de cinco centímetros, pelo menos, do nivel das águas (atração luni- solar) que ocorra em qualquer época do ano.
+
+Art. 2º São terrenos acrescidos de marinha os que se tiverem formado, natural ou artificialmente, para o lado do mar ou dos rios e lagoas, em seguimento nos terrenos de marinha.
+
+Art. 3º A União não reconhece e tem por insubsistentes e nulas quaisquer pretensões sobre o domínio pleno de terrenos de marinha e seus acrescidos.
+
+§ 1º A Diretoria do Domínio da União providenciará quanto antes para que cesse de vez a posse mantida, a qualquer título, com fundamento naquelas pretensões.
+
+§ 2º Tratando-se de terrenos que os Estados ou Municípios tenham concedido em aforamento por supô-los de sua propriedade, ficam confirmadas as concessões havidas, desde que os foreiros, dentro de 6 meses, regularizem sua situação perante o Domínio da União.
+
+Art. 4º Tanto os terrenos de marinha como os seus acrescidos ficam subordinados ao regime de aforamento, salvos os que forem necessários aos logradouros e serviços públicos.
+
+Parágrafo único. O foro é de 0,6%, calculado sobre o valor do domínio pleno do terreno, deduzido o valor das benfeitorias porventura existentes.
+
+Art. 5º O aforamento será concedido a quem a ele tiver preferência.
+
+§ 1º Teem preferência ao aforamento:
+
+a) os que estejam pagando taxa de ocupação, relativamente aos terrenos ocupados;
+
+b) os que tiverem, nas testadas e frentes dos terrenos, estabelecimentos de sua propriedade, como trapiches, armazens, e outros semelhantes, dependentes do franco embarque e desembarque;
+
+c) os que estejam na posse dos terrenos, na suposição de que façam parte de suas propriedades contíguas;
+
+d) os posseiros de terrenos contíguos a terras devolutas, havendo benfeitorias;
+
+e) os concessionários de terrenos de marinha, em relação aos acrescidos que entestem com aqueles;
+
+f) os pescadores nacionais ou colônias de pescadores, que se obrigarem à criação de estabelecimentos de pesca ou de indústria correlata, quanto aos terrenos julgados apropriados;
+
+g) os concessionários de serviços portuários e de transporte, quanto aos terrenos julgados necessários a esses serviços.
+
+§ 2º As questões sobre propriedade, servidões e posse são da competência exclusiva dos tribunais judiciários.
+
+§ 3º Não havendo candidato com direito à preferência ou aparecendo dúvidas a respeito, este direito será alienado em concorrência pública (art. 16).
+
+Art. 6º Para a concessão do aforamento em face de direito preferencial preexistente, o pretendente apresentará seu requerimento ao chefe do Serviço Regional instruido com os documentos comprobativos da preferência e um esboço, em papel transparente, que identifique a situação do terreno.
+
+Neste requerimento indicará as dimensões aproximadas do terreno, os nomes dos confrontantes e as benfeitorias existentes.
+
+Art. 7º A seguir serão consultados, simultaneamente sobre a conveniência do aforamento, por meio de ofício do Serviço Regional:
+
+a) a Prefeitura Municipal do lugar em que estiver situado o terreno;
+
+b) o Ministério da Guerra, por intermédio da Região Militar;
+
+c) o Ministério da Marinha, por intermédio da Capitania do Porto;
+
+d) o Ministério da Agricultura, se tratar de terreno rural, por intermédio do orgão local competente;
+
+e) o Ministério da Viação e Obras Públicas, se nas proximidades do terreno requerido houver estradas de ferro ou de rodagem, ou obras portuárias, ou projetos de instalações de tais naturezas, por intermédio do orgão local competente;
+
+f) o Ministério da Aeronáutica, por intermédio do orgão competente.
+
+§ 1º Às consultas deverão ser dadas respostas dentro do prazo de 30 dias.
+
+O silêncio importará em assentimento.
+
+§ 2º Quando solicitado, o Serviço Regional do Domínio da União poderá prorrogar por 20 dias o prazo estabelecido no parágrafo anterior.
+
+§ 3º Em casos de grande relevância, minuciosa e diretamente justificados perante o diretor do Domínio da União, em caráter reservado quando envolver possiveis interesses da defesa nacional, poderá ser concedido o prazo que a autoridade consultada julgar necessário.
+
+§ 4º A impugnação da Prefeitura será atendida sempre que a concessão prejudicar a realização de melhoramentos públicos, inclusive os de urbanização e serviços de utilidade pública, em via de execução, projetados ou em estudos nas suas Repartições técnicas, cumprindo que, neste caso, seja indicada a espécie do melhoramento ou serviço.
+
+§ 5º A oposição ao aforamento deverá ser justificada, declarando-se se é irrestrita ou se a concessão pode ser condicionada.
+
+Art. 8º Não havendo impedimento para a concessão pleiteada, publicar-se-á edital com o prazo de 30 dias, notificando os interessados para que dentro dos 15 dias seguintes à extinção do mesmo prazo, reclamem o que for a bem dos seus direitos, sob pena de não mais serem atendidos.
+
+§ 1º O edital caracterizará devidamente o terreno e mencionará que quaisquer outros esclarecimentos serão prestados no serviço Regional.
+
+§ 2º Ao processo serão anexados exemplares do jornal que tiver publicado o edital e as reclamações porventura apresentadas.
+
+Art. 9º Não aparecendo impugnações e certificado isso no processo, ou desprezadas as que porventura aparecerem, far-se-á a diligência de medição, demarcação e avaliação do terreno.
+
+§ 1º A diligência, cuja data será comunicada por edital aos interessados, ficará a cargo de engenheiro da Diretoria do Domínio da União, designado pelo chefe do Serviço Regional.
+
+§ 2º Para a avaliação do terreno levar-se-á em consideração as características que lhe são próprias, sua situação e os preços de vendas recentes de terrenos próximos.
+
+§ 3º No valor do terreno não serão computados os de benfeitorias.
+
+§ 4º A despesa de transporte do pessoal, material e bagagem correrá por conta do requerente, ficando a cargo da Fazenda Nacional as diárias daquele pessoal.
+
+Art. 10. Concluida a diligência, o engenheiro dela encarregado lavrará imediatamente termo circunstanciado do que ocorrer, assinando-o com os interessados que o queiram e duas testemunhas.
+
+A esses interessados, assinar-se-á, no termo, o prazo de 10 dias para que apresentem os seus protestos ou impugnações.
+
+§ 1º O termo descreverá minuciosamente o terreno, mencionando sua situação, natureza, área, benfeitorias, confrontações e outros característicos.
+
+§ 2º Os protestos ou impugnações deverão ser apresentados, na capital do Estado diretamente no Serviço Regional e nos demais Municípios à repartição arrecadadora das rendas federais, que, imediatamente, por telegrama, se possivel, comunicará o ocorrido ao mesmo Serviço, ao qual, logo a seguir, tudo encaminhará.
+
+Art. 11. Ao processo serão juntos o termo mencionado no artigo anterior e 3 cópias da planta, organizada de acordo com o verificado na diligência de medição e demarcação.
+
+O original será arquivado na mapoteca do Serviço Regional.
+
+Parágrafo único. Quando o terreno tiver a configuração de um polígono irregular, será junto, também, o cálculo analítico da área.
+
+Art. 12. O chefe do Serviço Regional regulará o processo, concederá o aforamento e submeterá seu ato a aprovação do diretor do Domínio da União.
+
+Parágrafo único. Antes dessa aprovação serão recolhidas as taxas de ocupação e laudêmios porventura devidos à Fazenda Nacional.
+
+Art. 13. Aprovada a concessão lavrar-se-á o contrato de constituição da enfiteuse, de acordo com a minuta que previamente for elaborada por procurador da Fazenda e aprovada pelo chefe do Serviço Regional.
+
+§ 1º Constará especificadamente do contrato, alem dos elementos necessários à perfeita identificação do terreno:
+
+a) a importância anual do foro, que deverá ser paga adiantadamente até 31 de março de cada ano, sob pena de multa equivalente a 20% do valor da dívida;
+
+b) que o atraso no pagamento do foro por mais de 3 anos consecutivos importará na pena de comisso (art. 27);
+
+c) que o terreno não pode ser alienado sem prévia licença da Diretoria do Domínio da União (art. 24), sob pena de comisso;
+
+d) que se a Fazenda Nacional não comunicar ao foreiro no prazo de 30 dias que vai usar do direito de opção, cobrará o laudêmio de 5% sobre o preço da transferência ou sobre o valor do terreno e benfeitorias se com aquele não concordar;
+
+e) quaisquer outras obrigações a que tenha ficado subordinada a concessão do aforamento.
+
+§ 2º A União será representada no contrato pelo procurador fazendário competente.
+
+Art. 14. Aprovado o contrato e feito o seu registo pelo Tribunal de Contas, será entregue ao foreiro certidão do mesmo contrato. que será transcrita no Registo de Imoveis.
+
+Art. 15. O Serviço Regional sempre que tiver terreno que convenha aforar, convidará por edital os interessados que se julguem com preferência ao aforamento para que o requeiram dentro de 30 dias, sob pena de ser declarada a caducidade da preferência.
+
+Parágrafo único. Não aparecendo candidato, o Serviço Regional fará aquela declaração.
+
+Da decisão a respeito não haverá recurso.
+
+Art. 16. A preferência, verificada a hipótese do artigo anterior e procedendo-se, antes, às consultas do art. 6º, será alienada em concorrência pública.
+
+§ 1º Como base de licitação será fixada a importância correspondente a 60% do valor venal do terreno e das benfeitorias porventura existentes.
+
+§ 2º Não aparecendo concorrente na primeira, será aberta segunda concorrência com o abatimento de 20% sobre a base de licitação.
+
+§ 3º O concorrente juntara à sua proposta prova de ter caucionado em favor da União a importância correspondente a 3% da base da licitação.
+
+Perderá a caução se, aceita a proposta e aprovada a concorrência, não efetuar o pagamento nos 60 dias subsequentes ao convite que para este fim, e por edital, lhe for dirigido.
+
+Art. 17. Alienada a preferência ao aforamento, prosseguir-se-á na forma do prescrito nos arts. 9 a 14.
+
+Art. 18. À pessoa estrangeira, física ou jurídica, não serão aforados os terrenos de que se trata, exceto:
+
+a) se ao entrar em vigor o decreto-lei n. 2.490, de 16 de agosto de 1940, gozava da preferência para o aforamento nos termos do § 4º do art. 19 do decreto n. 14.595, de 31 de dezembro de 1920, estando o aforamento requerido;
+
+b) se houver autorização do Governo.
+
+§ 1º A perda de qualidade de brasileiro por quem seja titular de enfiteuse, constituida depois da publicação daquele decreto-lei, importa na extinção automática desse direito real, consolidando a União o seu domínio pleno sobre o terreno, indenizado o foreiro pelas benfeitorias nele existentes.
+
+§ 2º É proibida a sucessão de cônjuge estrangeiro nos bens de que se trata.
+
+Art. 19. Não será reconhecida ocupação de terreno de marinha ou seus acrescidos ocorrida depois da publicação do citado decreto-lei n. 2.490.
+
+§ 1º Em face da ocupação nessas condições a União, sumariamente, por intermédio da força pública local, requisitada à autoridade competente, por quem, no lugar, responder pelos seus serviços patrimoniais, reintegrar-se-á, em qualquer tempo, na posse do terreno.
+
+O ocupante perderá então, sem direito a indenização, tudo quanto tenha incorporado ao solo, aplicando-se-lhe, ainda o disposto nos artigos 513, 515 e 517, do Código Civil.
+
+§ 2º As ocupações anteriores continuarão sujeitas às taxas e ao processo para o seu lançamento e arrecadação estabelecido no citado decreto n. 14.595, até que o terreno seja aforado.
+
+§ 3º Na intercorrência do processo de aforamento, o ocupante poderá transferir sua ocupação, pago, previamente, o laudêmio de 5% sobre o valor da transação ou sobre o que tiver sido estimado pelo Domínio da União.
+
+Nesse caso, prosseguir-se-á no processo em nome do adquirente.
+
+Art. 20. Aos atuais posseiros e ocupantes é permitido regularizar sua situação, requerendo o aforamento do terreno até 16 de outubro do corrente ano.
+
+§ 1º Às entidades de esportes náuticos legalmente organizadas que, por qualquer título, concessão ou contrato com particulares ou poderes públicos, ocuparem atualmente terrenos de marinha, acrescidos ou de mangues, fica pelo presente decreto-lei, concedido o respectivo aforamento e a isenção do pagamento de taxas ou foros enquanto exercerem as suas atividades dentro dos objetivos sociais e não as interromperem por mais de dois anos consecutivos.
+
+§ 2º Se o interesse público exigir a ocupação de terrenos aforados nos termos do parágrafo anterior e demais disposições do presente decreto-lei, à entidade foreira será concedido o aforamento de outro terreno apropriado, que preencha as suas finalidades sociais. As benfeitorias acaso existentes, e que tenham sido realizadas pela entidade atingida, deverão ser indenizadas de acordo com a legislação que regula a desapropriação por interesse público.
+
+§ 3º Os benefícios dos parágrafos anteriores serão igualmente conferidos às entidades de esportes náuticos que se organizarem posteriormente, desde que os requeiram dentro do prazo de 120 dias, contados da data de sua legalização.
+
+Art. 21. Expirado o prazo a que se refere o artigo anterior, sem que os interessados iniciem o processo do aforamento, a Diretoria do Domínio providenciará para que a enfiteuse do terreno se faça em concorrência pública, observado o disposto nos arts. 16 e 17.
+
+§ 1º As benfeitorias que, por sua natureza, se hajam incorporado ao solo, serão vendidas em concorrência pública juntamente com a preferência ao aforamento, depois de avaliada pela Diretoria do Domínio, com a assistência da parte interessada ou seu representante legal.
+
+§ 2º Da avaliação a que se proceder será lavrado termo, de que constará a descrição minuciosa das benfeitorias e valor a cada uma atribuido.
+
+§ 3º A ausência do interessado, uma vez notificado do dia e hora em que se procederá à diligência, não invalidará a avaliação.
+
+§ 4º Assista ou não à diligência, o interessado terá o prazo de oito dias para dizer sobre o preço arbitrado às benfeitorias.
+
+§ 5º A falta de reclamação no prazo estabelecido importará na ausência do interessado.
+
+§ 6º Apresentada reclamação no prazo estabelecido, serão apreciados os motivos em que se baseia, mantendo-se, ou não, o valor arbitrado.
+
+Art. 22. O preço obtido pelas benfeitorias em concorrência será entregue ao interessado, deduzidas as despesas da diligência.
+
+Parágrafo único. Essas despesas constarão apenas de transporte e diárias ao pessoal incumbido da diligência, arbitradas, na forma da legislação vigente.
+
+Art. 23. Necessitando a União do terreno ocupado ou possuido por terceiro, imitir-se-á na posse dele, administrativamente, depositado em juizo, a favor de quem de direito, e previamente, o valor das benfeitorias porventura existentes.
+
+Art. 24. Os pedidos de licença para transferência de aforamento ou ocupação, dirigidos ao chefe do Serviço Regional do Domínio da União deverão mencionar expressamente o nome do adquirente e o preço ajustado da transação.
+
+§ 1º Tratando-se de transferência de aforamento concedido depois de 16 de agosto de 1940 ou de ocupação anterior a essa data, o pedido será acompanhado de prova de nacionalidade brasileira do adquirente.
+
+§ 2º As transferências de aforamento das faixas de marinhas não se processarão, sem que o interessado solicite prévia licença ao Serviço Regional, juntando ao pedido provas de aforamento e de quitação dos foros.
+
+§ 3º As transferências parciais ficam sujeitas a novo foro para a parte desmembrada, previamente demarcada em diligência que se efetuará imediatamente.
+
+§ 4º Pago o laudêmio estipulado, o chefe do Serviço Regional concederá licença para a transferência, expedindo-se alvará, válido por 90 dias da data da expedição, e dele constará:
+
+a) o pagamento do laudêmio;
+
+b) a descrição do terreno objeto do aforamento ou da ocupação por transferir;
+
+c) a importância do foro ou taxa de ocupação.
+
+Art. 25. Efetuada a transação, o adquirente, exibindo os documentos comprobatórios, deverá requerer, no prazo de 60 dias, que para o seu nome se transfiram as obrigações de foreiro ou ocupante.
+
+§ 1º O requerente ficará sujeito à multa de 1% sobre a importância paga a título de laudêmio, por mês ou fração, se for excedido o prazo fixado.
+
+§ 2º No caso de transferência do domínio util do terreno, a obrigação do foreiro somente está sujeita a registo do Tribunal de Contas, se tiver havido alteração na importância do foro.
+
+Art. 26. A transmissão por ato entre vivos do domínio util de terrenos aforados, ou mesmo da simples ocupação, somente poderá ser feita por escritura pública.
+
+Parágrafo único. Considerar-se-á nula de pleno direito a escritura que não contiver a transcrição integral da licença do Domínio para a transação.
+
+Art. 27. No caso de atraso do pagamento de foros por três anos consecutivos, o chefe do Serviço Regional, independente de outras formalidades, declarará caduco o aforamento.
+
+§ 1º Nos 90 dias seguintes à publicação desse ato, o foreiro poderá recorrer da decisão ou pedir que o aforamento seja revigorado, feita a avaliação do terreno para o novo cálculo do foro.
+
+§ 2º Deferido o requerimento, pagos os foros atrasados, e depois das diligências do parágrafo anterior, será lavrado termo de revigoração do aforamento, do qual constarão as cláusulas usadas para os termos de constituição desse direito real.
+
+§ 3º Do termo de revigoração do aforamento, depois de sua aprovação pelo diretor e de seu registo pelo Tribunal de Contas, será expedida certidão, que o foreiro fará averbar no Registo de Imoveis.
+
+§ 4º A União poderá negar a revigoração do aforamento se necessitar do terreno para serviço público.
+
+Art. 28. Tratando-se de ocupação inscrita no Serviço Regional para o pagamento da taxa, e se esta não tiver sido paga tambem por três anos consecutivos, a União considerar-se-á reintegrada na posse do terreno e poderá aforá-lo mediante concorrência pública, observando-se quanto às benfeitorias o disposto nos artigos 21 e 22.
+
+Art. 29. É da exclusiva e privativa competência da Diretoria do Domínio da União a determinação da posição da linha do preamar médio de 1831.
+
+§ 1º A determinação será feita onde se torne necessária à vista de documentos e plantas de autenticidade irrecusavel relativos a esse ano, ou, quando não obtidos, da época que do mesmo mais se aproxime.
+
+§ 2º Para a realização do trabalho, o Serviço Regional convidará os interessados, certos e incertos, por meio de edital, para que no prazo de 30 dias, a partir da última publicação, ofereçam a estudo. se assim lhes convier, plantas, documentos e outros esclarecimentos concernentes à natureza do terreno, confrontações e característicos.
+
+O edital indicará o lugar em que o terreno, se encontra e será publicado por três vezes, com intervalos não superiores a 10 dias, pela imprensa oficial do Estado ou, não havendo, pelo orgão que lhe publicar o expediente, ou no Diário Oficial, se se tratar de terreno situado no Distrito Federal.
+
+§ 3º De posse desses e outros documentos, que se esforçará por obter, o chefe do Serviço Regional determinará a posição da linha.
+
+A seguir, por edital publicado uma só vez, na forma do parágrafo anterior, dará aos interessados ciência do seu ato e assinarlhes-á o prazo de 15 dias para impugnações.
+
+§ 4º Tomando conhecimento das impugnações porventura havidas, o chefe do Serviço Regional proferirá a sua decisão recorrendo ex-officio para o diretor da Diretoria, sem prejuizo do recurso que o interessado poderá interpor concomitantemente.
+
+Se não houver impugnação, o chefe do Serviço submeterá seu ato à aprovoção daquele diretor.
+
+§ 5º Sempre que pela determinação da posição da linha se verificar que há terreno de marinha na posse do confrontante, o chefe do Serviço Regional fa-lo-á notificar, por carta, ou por edital, para que, no prazo do 90 dias, a contar da notificação, desocupe o terreno ou requeira o seu aforamento, sob pena de perda automática da preferência ao mesmo, passando, de então por diante, a pagar taxa de ocupação até que o aforamento se verifique em concorrência pública.
+
+Art. 30. Ninguem poderá explorar mangais existentes em terrenos de marinha e seus acrescidos que lhe não estejam aforados, ou se sobre os mesmos não tiver título que o autorize.
+
+§ 1º Salvo licença especial concedida pelo Ministério da Agricultura, o corte de mangais existente em terrenos de marinha e de acrescidos, não poderá ser feito em altura menor de 50 centímetros acima do preamar máximo.
+
+§ 2º A infração do disposto neste artigo será punida com multa de 1:000$0, elevado ao dobro na reincidência.
+
+Art. 31. Serão observados os artigos 21 e 22 sempre que a União tiver que indenizar o foreiro por construções que tenha definitivamente incorporado ao solo.
+
+Art. 32. Os editais mencionados neste decreto-lei serão afixados durante o prazo dos mesmos em lugar público do edifício em que funciona o Serviço Regional e na porta da repartição arrecadadora das rendas federais, no município em que estiver situado o terreno a que se refiram e logo publicados no orgão oficial do Estado ou no que lhe inserir o expediente.
+
+No Distrito Federal a publicação se fará no Diário Oficial.
+
+Parágrafo único. Tratando-se de aforamento a despesa com a publicação de editais correrá por conta do foreiro.
+
+Essa publicação será dispensada, a juizo do chefe do Serviço Regional, sempre que o valor do terreno não exceda de 1:000$0.
+
+Art. 33. Sempre que for declarada a caducidade ou o comisso de uma enfiteuse, o Serviço Regional deverá encaminhar ao juiz competente certidão da decisão havida, com a declaração de que a mesma transitou em julgado.
+
+Parágrafo único. Recebendo a certidão, providenciará o juiz para que no Registo de Imoveis, sem mais formalidades, se cancele a constituição daquele direito real.
+
+Art. 34. Dos despachos proferidos pelos chefes dos Serviços Regionais cabe recurso para o diretor.
+
+§ 1º O prazo para o recurso é de 20 dias, salvo o disposto no art. 27, parágrafo 1º, dos da publicação da decisão recorrida.
+
+§ 2º Em igual prazo, e pela mesma forma contado, poderá ser interposto recurso dos despachos do diretor da Diretoria do Domínio da União para o diretor geral da Fazenda Nacional.
+
+Art. 35. Os foreiros de terrenos de marinha e seus acrescidos situados no Distrito Federal, cujo aforamento tenham obtido da Prefeitura em época anterior ao decreto-lei n. 710, de 17 de setembro de 1938, ficam obrigados a submeter seus títulos, dentro de 120 dias, ao exame e registro do Serviço Regional da Diretoria do Domínio da União no mesmo Distrito, com prova de quitação do foro relativo ao ano de 1938.
+
+§ 1º O não cumprimento dessa exigência importa na confissão de não ter sido efetuado esse pagamento, e, consequentemente, o dos anos de 1939 e 1940, devendo, logo, o Serviço declarar em comisso o aforamento e providenciar para a realização de novo em concorrência pública, vendidas por conta dos ex-foreiros as construções e benfeitorias definitivamente incorporadas ao solo.
+
+§ 2º Exibidos os títulos, será o foreiro admitido, dentro dos 90 dias seguintes ao termo do prazo para a exibição, a liquidar sua dívida de foros para com a União, ainda que o atraso seja maior de três anos, assinando o foreiro, na Procuradoria do Domínio, termo de regularização de sua situação, conforme minuta que será previamente aprovada pelo chefe do Serviço.
+
+§ 3º Consideram-se válidos os pagamentos porventura efetuados à Prefeitura, de 1938 até a presente data, obrigados os foreiros a fazer essa prova, justamente com a da quitação do foro relativo ao ano de 1938.
+
+§ 4º À Prefeitura do Distrito Federal fica assegurado o direito à cobrança dos foros anteriores a 1939 e desobrigada de encaminhar à União os livros e documentos referentes aos terrenos de que se trata, conforme prescrição do art. 5º do citado decreto-lei n. 710; prestará entretanto, dentro de breve prazo, as informações sobre os aforamentos havidos e assuntos correlatos, sempre que lhe forem solicitados pelo Serviço Regional do Domínio da União no mesmo Distrito.
+
+Art. 36. A Prefeitura do Distrito Federal utilizará os acrescidos de marinha resultantes de aterros que tenha realizado ou venha a realizar, empregando para logradouros públicos os que tiver por convenientes, e preparando outros para que possam receber construções, em execução de planos urbanísticos.
+
+§ 1º A Prefeitura fica autorizada a, em nome da União, representando-a, alienar o direito de preferência (domínio util) dos terrenos de marinha, mangues da costa e acrescidos, juntamente com as benfeitorias que nele houver realizado, compreendidos nas áreas necessárias à realização de melhoramentos, quer provenham da correção de alinhamentos já existentes (recuos e investiduras), quer de projetos aprovados ou mesmo estudos de urbanização (loteamento e reloteamento das quadras existentes), desde que desnecessários a logradouros públicos, recebendo o preço da alienação, dando quitação deste e empregando-o, livremente, como fundos próprios que ficam sendo.
+
+§ 2º As transações realizadas serão submetidas ao conhecimento da União, para que esta regularize a situação das terras e outorgue as escrituras de aforamento.
+
+§ 3º Para que possa exercer os direitos que lhe são assegurados no presente decreto-lei, a Prefeitura do Distrito Federal:
+
+1º Solicitará, nas épocas oportunas, a entrega das áreas dos terrenos de marinha, mangues da costa e acrescidos a serem beneficiados, juntando planta dos mesmos no prazo máximo de dois anos;
+
+2º Apresentará plantas das áreas de marinhas, mangues da costa e acrescidos beneficiados por ela, até a data do presente decreto-lei;
+
+3º Incluirá nos editais de venda por hasta pública, cláusula que obrigue o arrematante a requerer à Diretoria do Domínio da União o aforamento da área adquirida, no prazo máximo de cinco dias após o recebimento do sinal, quando se tratar de caso que exija escritura pública, sob pena de ineficácia da arrematação, com perda do direito à restituição do sinal;
+
+4º Exigirá que o proprietário beneficiado pela investidura requeira o aforamento da mesma, dentro de cinco dias após a assinatura do respectivo termo;
+
+5º Enviará, no prazo máximo de sessenta dias, à Diretoria do Domínio da União, cópia dos elementos necessários ao aforamento das áreas alienadas, os quais tenham servido de base à hasta pública realizada ou à assinatura do respectivo termo de investidura ou doação.
+
+Art. 37. As disposições do presente decreto-lei, no que se refere a foro, laudêmio, avaliação, benfeitorias, comisso ou caducidade são aplicaveis ao aforamento de outros terrenos da União.
+
+Parágrafo único. Aplicar-se-á, tambem, a outros imoveis da União que estejam indevidamente na posse de terceiros o disposto no art. 19, § 1º, ouvida, previamente, a Procuradoria do Domínio.
+
+Art. 38. A Diretoria do Domínio da União baixará instruções aos seus Serviços Regionais para o cumprimento deste decreto-lei e mandará adotar modelos dos atos necessários ao processo de aforamento.
+
+Art. 39. Ficam, desde já, consideradas entregues à Prefeitura do Distrito Federal, as áreas de terrenos de marinha, mangues da costa e acrescidos, já beneficiados por ela, até a data do presente decreto-lei, aplicando-se às mesmas as exigências deste decreto, quanto ao aforamento, na parte ainda não alienada, ficando o aforamento da parte já alienada sujeito à regularização pela Diretoria do Domínio da União.
+
+Art. 40. O presente decreto-lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Rio de Janeiro, 17 de julho de 1941, 120º da Independência e 53º da República.
+
+GETULIO VARGAS.
+
+A. de Souza Costa.
+
+Francisco Campos.
+
+Eurico Gaspar Dutra.
+
+Henrique A. Guilhem.
+
+João de Mendonça Lima.
+
+Carlos de Souza Dantas.
+
+Joaquim Pedro Salgado Filho.
