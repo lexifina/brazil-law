@@ -6,15 +6,15 @@ CAPÍTULO II
 Da Organização e Estrutura dos Orçamentos
 CAPÍTULO III
 Das Diretrizes para os Orçamentos da União e suas Alterações
-Seção I
+SEÇÃO I
 Das Diretrizes Gerais
-Seção II
+SEÇÃO II
 Das Diretrizes Específicas do Orçamento Fiscal
-Seção III
+SEÇÃO III
 Das Diretrizes Específicas do Orçamento da Seguridade Social
-Seção IV
+SEÇÃO IV
 Das Diretrizes Específicas do Orçamento de Investimento
-Seção V
+SEÇÃO V
 Da Dívida Pública Federal
 CAPÍTULO IV
 Das Disposições Relativas às Despesas com Pessoal
