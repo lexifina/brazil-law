@@ -31,7 +31,7 @@ DA CONTRIBUIÇÃO DA EMPRESA
 CAPÍTULO V
 DA CONTRIBUIÇÃO DO EMPREGADOR DOMÉSTICO
 CAPÍTULO VI
-Da Contribuição do Produtor Rural, do Pescador e do Garimpeiro
+Da Contribuição do Produtor Rural e do Pescador
 CAPÍTULO VII
 DA CONTRIBUIÇÃO SOBRE A RECEITA DE CONCURSOS DE PROGNÓSTICOS
 CAPÍTULO VIII
