@@ -1,0 +1,4 @@
+Instrução CVM nº 216, de 1994
+Dispõe sobre o registro e o exercício da atividade de auditoria independente no âmbito do mercado de valores mobiliários, define os deveres e responsabilidades dos auditores independentes, bem como os casos em que o registro pode ser recusado, suspenso ou cancelado e revoga a Instrução CVM n.º 204, de 07 de dezembro de 1993.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM, torna público que o Colegiado, em reunião realizada em 27 de junho de 1994, com fundamento nos artigos 1º, inciso V, 22, parágrafo único, inciso IV e 26, parágrafos 1º e 2º, da Lei n.º 6.385, de 7 de dezembro de 1976, e tendo em vista o disposto no artigo 177, parágrafo 3º da Lei n.º 6.404, de 15 de dezembro de 1976, resolveu baixar a seguinte Instrução:
+REGISTRO, SUAS CATEGORIAS E CONDIÇÕES
