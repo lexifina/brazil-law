@@ -1,0 +1,1 @@
+Art. 12 - O Poder Executivo enviará à Assembléia Legislativa projeto de lei adaptando os fundos existentes às normas desta Lei, no prazo de 180 (cento e oitenta) dias contados da data de sua vigência, sob pena de extinção automática.

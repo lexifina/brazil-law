@@ -1,0 +1,1 @@
+Art. 2º- O fundo é uma entidade contábil, sem personalidade jurídica, criado por lei e constituído pelo produto de receitas específicas e elementos patrimoniais que se vinculam à realização de determinados objetivos ou serviços.

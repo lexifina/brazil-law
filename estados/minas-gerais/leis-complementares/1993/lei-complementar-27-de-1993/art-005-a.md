@@ -1,0 +1,1 @@
+Art. 5º- A Lei que criar o fundo poderá instituir normas específicas para sua fiscalização, sem prejuízo do controle interno, exercido pela Secretaria de Estado da Fazenda, e do externo, pela Assembléia Legislativa, com o auxílio do Tribunal de Contas.

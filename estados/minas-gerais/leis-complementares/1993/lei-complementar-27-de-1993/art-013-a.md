@@ -1,0 +1,1 @@
+Art. 13 - A lei que instituir fundo disporá sobre os demonstrativos financeiros e os critérios de prestação de contas, observadas as normas gerais sobre contabilidade pública e fiscalização financeira e orçamentária.
