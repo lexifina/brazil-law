@@ -1,0 +1,1 @@
+Art. 30. O disposto no art. 27 aplica-se, ainda, aos casos em que o concessionário de serviço público de competência da União for empresa sob controle direto ou indireto dos Estados, do Distrito Federal ou dos Municípios, desde que as partes acordem quanto às regras estabelecidas.
