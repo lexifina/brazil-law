@@ -1,1 +1,0 @@
-Art. 15. Regulamento próprio de cada Agência disporá sobre as atribuições específicas, a estruturação, a classificação e o respectivo salário dos empregos públicos de que trata o art. 2º, respeitados os limites remuneratórios definidos no Anexo III.
