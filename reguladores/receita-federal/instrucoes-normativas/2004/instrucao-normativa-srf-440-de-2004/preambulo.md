@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 440, de 11 de agosto de 2004
+Dispõe sobre a exclusão, para fins de incidência na fonte e no ajuste anual do imposto de renda da pessoa física, da quantia de R$ 100,00 (cem reais) mensais do total dos rendimentos tributáveis provenientes do trabalho assalariado pagos nos meses de agosto a dezembro do ano-calendário de 2004.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 1º da Medida Provisória nº 202, de 23 de julho de 2004, resolve:
