@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 86, de 26 de novembro de 1997
+Dispõe sobre as multas aplicáveis aos casos de irregularidades no preenchimento, atraso e falta de apresentação da DIRF.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições, e tendo em vista o disposto no art. 11 do Decreto-lei No 1.968, de 23 de novembro de 1982, com a redação dada pelo art. 10 do Decreto-lei No 2.065, de 26 de outubro de 1983, no art. 5o do Decreto-lei No 2.124, de 13 de junho de 1984, no art. 9o do Decreto-lei No 2.303, de 21 de novembro de 1986, no art. 30 da Lei No 9.249, de 26 de dezembro de 1995, e na Portaria MF No 118, de 28 de junho de 1984, resolve:
