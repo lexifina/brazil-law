@@ -1,0 +1,2 @@
+Art. 32. Fica transferido da Fundação Oswaldo Cruz, para a Agência Nacional de Vigilância Sanitária, o Instituto Nacional de Controle de Qualidade em Saúde, bem como suas atribuições institucionais, acervo patrimonial e dotações orçamentárias.
+Parágrafo único. A Fundação Osvaldo Cruz dará todo o suporte necessário à manutenção das atividades do Instituto Nacional de Controle de Qualidade em Saúde, até a organização da Agência.
