@@ -1,0 +1,2 @@
+Art. 8º A contribuição da União, de suas autarquias e fundações para o custeio do regime de previdência, de que trata o art. 40 da Constituição Federal, será o dobro da contribuição do servidor ativo, devendo o produto de sua arrecadação ser contabilizado em conta específica.
+Parágrafo único. A União é responsável pela cobertura de eventuais insuficiências financeiras do regime decorrentes do pagamento de benefícios previdenciários.

@@ -1,0 +1,1 @@
+Art. 18. Ficam revogados os §§ 3º, 4º, 5º, 6º e 7º do art. 2º, o art. 2º-A e o art. 4º da Lei nº 9.717, de 27 de novembro de 1998, o art. 8º da Medida Provisória nº 2.187-13, de 24 de agosto de 2001, na parte em que dá nova redação ao inciso X do art. 1º, ao art. 2º e ao art. 2º-A da Lei nº 9.717, de 27 de novembro de 1998, e a Lei nº 9.783, de 28 de janeiro de 1999.

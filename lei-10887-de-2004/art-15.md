@@ -1,0 +1,1 @@
+Art. 15. Os proventos de aposentadoria e as pensões de que tratam os arts. 1º e 2º desta Lei serão reajustados na mesma data em que se der o reajuste dos benefícios do regime geral de previdência social.
