@@ -1,0 +1,9 @@
+Art. 9º É permitida à pessoa juridicamente capaz dispor gratuitamente de tecidos, órgãos ou partes do próprio corpo vivo para fim de transplante ou terapêuticos.
+§ 1º (VETADO)
+§ 2º (VETADO)
+§ 3º Só é permitida a doação referida neste artigo quando se tratar de órgãos duplos, de partes de órgãos, tecidos ou partes do corpo cuja retirada não impeça o organismo do doador de continuar vivendo sem risco para a sua integridade e não represente grave comprometimento de suas aptidões vitais e saúde mental e não cause mutilação ou deformação inaceitável, e corresponda a uma necessidade terapêutica comprovadamente indispensável à pessoa receptora.
+§ 4º O doador deverá autorizar, preferencialmente por escrito e diante de testemunhas, especificamente o tecido, órgão ou parte do corpo objeto da retirada.
+§ 5º A doação poderá ser revogada pelo doador ou pelos responsáveis legais a qualquer momento antes de sua concretização.
+§ 6º O indivíduo juridicamente incapaz, com compatibilidade imunológica comprovada, poderá fazer doação nos casos de transplante de medula óssea, desde que haja consentimento de ambos os pais ou seus responsáveis legais e autorização judicial e o ato não oferecer risco para a sua saúde.
+§ 7º É vedado à gestante dispor de tecidos, órgãos ou partes de seu corpo vivo, exceto quando se tratar de doação de tecido para ser utilizado em transplante de medula óssea e o ato não oferecer risco à sua saúde ou ao feto.
+§ 8º O auto-transplante depende apenas do consentimento do próprio indivíduo, registrado em seu prontuário médico ou, se ele for juridicamente incapaz, de um de seus pais ou responsáveis legais.
