@@ -1,0 +1,1 @@
+Art. 3º - O preenchimento das vagas decorrentes desta Lei, por promoção, admissão, concurso ou inclusão, somente será realizado na proporção em que forem implantados os Órgãos, Cargos e Funções previstos nos Quadros da Organização, observados, nos casos de promoção, os interstícios estabelecidos na legislação específica.

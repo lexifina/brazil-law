@@ -1,0 +1,1 @@
+Art. 1º - O efetivo da Policia Militar do Território Federal de Roraima será fixado pelo seu Governador, ouvido o Ministério do Exército, dentro do limite máximo de 750 (setecentos e cinqüenta) homens.
