@@ -1,6 +1,7 @@
-Art. 5º - A pena de multa consiste no pagamento das seguintes quantias:
-I - nas infrações leves, de Cr$ 2.000,00 a Cr$ 10.000,00;
-II - nas infrações graves, de Cr$ 10.000,00 a Cr$ 20.000,00;
-III - nas infrações gravíssimas, de Cr$ 20.000,00 a Cr$ 80.000,00.
-§ 1º - Aos valores das multas previstas nesta Lei aplicar-se-á o coeficiente de atualização monetária referido no parágrafo único do art. 2º da Lei nº 6.205, de 29 de abril de 1975.
-§ 2º - Sem prejuízo do disposto nos artigos 4º e 6º desta Lei, na aplicação da penalidade de multa a autoridade sanitária competente levará em consideração a capacidade econômica do infrator.
+Art. 5º A pena de multa consiste no recolhimento de importância em dinheiro, variável segundo a gravidade da infração, conforme a classificação estabelecida no artigo anterior, a que correspondem os seguintes limites:
+I - para as do item I, entre NCz$ 500,00 e NCz$ 2.500,00;
+II - para as do item II, entre NCz$ 2.500,00 e NCz$ 5.000,00; e
+III - para as do item III, entre NCz$ 5.000,00 e NCz$ 20.000,00.
+§ 1º A multa será aplicada em dobro nas reincidências específicas e acrescidas da metade de seu valor, nas genéricas.
+§ 2º Sem prejuízo do disposto nos artigos 4º e 6º desta Lei, a autoridade sanitária levará em consideração, na aplicação da multa, a capacidade econômica do infrator.
+§ 3º Os valores estabelecidos neste artigo serão corrigidos com base na variação diária do Bônus do Tesouro Nacional (BTN) ou outro índice que venha a substituí-lo.
