@@ -1,0 +1,2 @@
+Reserva às empresas contratadas pela Itaipu Binacional o direito à exploração de substâncias mineirais de emprego imediato na construção civil e estabelece a possibilidade da imposição de restrições ao exercício da pesquisa e lavra das demais substâncias classificadas no Código de Mineração, na área que especifica.
+O PRESIDENTE DA REPÚBLICA, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
