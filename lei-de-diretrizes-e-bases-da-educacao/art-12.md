@@ -6,3 +6,4 @@ IV - velar pelo cumprimento do plano de trabalho de cada docente;
 V - prover meios para a recuperação dos alunos de menor rendimento;
 VI - articular-se com as famílias e a comunidade, criando processos de integração da sociedade com a escola;
 VII - informar os pais e responsáveis sobre a freqüência e o rendimento dos alunos, bem como sobre a execução de sua proposta pedagógica.
+VIII - notificar ao Conselho Tutelar do Município, ao juiz competente da Comarca e ao respectivo representante do Ministério Público a relação dos alunos que apresentem quantidade de faltas acima de cinqüenta por cento do percentual permitido em lei.
