@@ -1,0 +1,1 @@
+Art. 19-D. O servidor que exercer a função de secretário escolar das unidades de ensino receberá a remuneração do cargo efetivo, acrescida de uma gratificação fixada de acordo com a tipificação das escolas de que trata a Lei nº 3.141, de 2016, conforme tabela constante no Anexo VI, desta lei complementar. (Redação dada pela Lei Complementar nº 396, de 01/04/2022)

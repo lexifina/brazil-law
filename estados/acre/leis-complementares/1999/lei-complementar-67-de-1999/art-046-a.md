@@ -1,0 +1,1 @@
+Art. 46-A. Aos professores PS1, PS2, PS3 e P2, da carreira regulamentada por esta lei, será garantida uma promoção no mês de outubro de 2010, sem prejuízo das demais promoções, que ocorrerão regularmente, nos termos do art. 10 desta lei complementar. (Incluído pela Lei Complementar nº 213, de 18/06/2010)

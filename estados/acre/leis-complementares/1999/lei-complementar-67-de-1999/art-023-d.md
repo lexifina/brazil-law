@@ -1,0 +1,5 @@
+Art. 23-D Os profissionais do ensino público estadual, docentes e não docentes, dos quadros efetivo e temporário, que estejam em exercício nas unidades escolares e administrativas da Secretaria de Estado de Educação - SEE, terão direito ao Prêmio Anual de Valorização e Desenvolvimento Profissional – VDP, respeitados os valores máximos estabelecidos no Anexo V, desta lei, a partir de 1º de janeiro de 2015. (Incluído pela Lei Complementar nº 285, de 11/04/2014) (Vide Decreto nº 8.100, de 23 de fevereiro de 2021, que regulamentou o recebimento e a forma de pagamento do VDP) (Vide Decreto nº 11.005, de 21/02/2022, que excepcionou das regras estabelecidas pelo Decreto nº 8.100, de 23/02/2021 o VDP referente ao ano de 2021 )
+
+§ 1º Os critérios para o recebimento e a forma de pagamento do VDP, com vigência a partir de 1º de janeiro de 2015, serão estabelecidos em decreto do Poder Executivo. (Incluído pela Lei Complementar nº 285, de 11/04/2014)
+
+§ 2º As disposições contidas nos arts. 23-A, 23-B e 23-C, desta lei complementar, permanecem em vigor somente até dezembro de 2014. (Incluído pela Lei Complementar nº 285, de 11/04/2014)

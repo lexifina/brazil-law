@@ -1,0 +1,1 @@
+Art. 46-B. Fica assegurada aos servidores do quadro efetivo da SEE uma progressão excepcional para o mês de janeiro de 2014, sem prejuízo das demais progressões que ocorrerão regularmente, nos termos do art. 10, desta lei complementar. (Incluído pela Lei Complementar nº 274, de 09/01/2014)

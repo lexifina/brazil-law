@@ -1,0 +1,3 @@
+Art. 23-A. Os professores da rede pública estadual de educação básica, do quadro de pessoal e temporários, que estejam em efetiva regência de sala de aula, terão o direito ao Prêmio Anual de Valorização e Desenvolvimento Profissional – VDP, respeitados os valores máximos estabelecidos no Anexo IV. (Redação dada pela Lei Complementar nº 266, de 29/08/2013)
+
+Parágrafo único. Os critérios para o recebimento e a forma de pagamento do Prêmio Anual de Valorização e Desenvolvimento Profissional – VDP serão estabelecidos em decreto do Poder Executivo. (Incluído pela Lei Complementar nº 199, de 23/07/2009)

@@ -1,0 +1,3 @@
+Art. 19-B. O servidor que exercer a função de coordenador administrativo das unidades de ensino receberá a remuneração do cargo efetivo, acrescida de uma gratificação fixada de acordo com a tipificação das escolas de que trata a Lei nº 3.141, de 22 de julho de 2016, conforme tabela constante no Anexo V desta lei complementar. (Redação dada pela Lei Complementar nº 396, de 01/04/2022)
+
+Art. 19C. A remuneração dos profissionais em educação para o regime de trabalho de quarenta horas são as constantes nas tabelas do Anexo I desta lei complementar. (Incluído pela Lei Complementar nº 143, de 27/12/2004)
