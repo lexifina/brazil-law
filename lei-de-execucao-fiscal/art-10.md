@@ -1,0 +1,1 @@
+Art. 10 - Não ocorrendo o pagamento, nem a garantia da execução de que trata o artigo 9º, a penhora poderá recair em qualquer bem do executado, exceto os que a lei declare absolutamente impenhoráveis.

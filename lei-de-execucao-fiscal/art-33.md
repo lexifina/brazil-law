@@ -1,0 +1,1 @@
+Art. 33 - O Juízo, do Oficio, comunicará à repartição competente da Fazenda Pública, para fins de averbação no Registro da Dívida Ativa, a decisão final, transitada em julgado, que der por improcedente a execução, total ou parcialmente.
