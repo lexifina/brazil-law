@@ -1,0 +1,2 @@
+Artigo 7º - C - O servidor em Jornada Básica de Trabalho Médico-Odontológica poderá optar pela inclusão de seu cargo ou função-atividade em Jornada Reduzida de Trabalho Médico-Odontológica, mediante apresentação de requerimento ao dirigente da respectiva unidade, que deferirá ou não o pedido, observada a conveniência do serviço.
+Parágrafo único - A opção de que trata este artigo poderá ser feita uma única vez, permitida ao servidor a retratação da opção a qualquer tempo, desde que decorrido 1 (um) ano de sua inclusão na Jornada Reduzida de Trabalho Médico-Odontológica.

@@ -1,0 +1,1 @@
+Artigo 7º - B - A Jornada Reduzida de Trabalho Médico-Odontológica, de que trata o inciso II do artigo anterior, será cumprida, pelo servidor a ela sujeito, em períodos a serem definidos pelo dirigente da respectiva unidade.
