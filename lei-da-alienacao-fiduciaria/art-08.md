@@ -1,0 +1,1 @@
+Art. 8º O Conselho Nacional de Trânsito, no prazo máximo de 60 dias, a contar da vigência do presente Decreto lei, expedirá normas regulamentares relativas à alienação fiduciária de veículos automotores.
