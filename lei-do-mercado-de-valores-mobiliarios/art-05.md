@@ -1,1 +1,1 @@
-Art. 5º É instituída a Comissão de Valores Mobiliários, entidade autárquica, vinculada ao Ministério da Fazenda.
+Art. 5º É instituída a Comissão de Valores Mobiliários, entidade autárquica em regime especial, vinculada ao Ministério da Fazenda, com personalidade jurídica e patrimônio próprios, dotada de autoridade administrativa independente, ausência de subordinação hierárquica, mandato fixo e estabilidade de seus dirigentes, e autonomia financeira e orçamentária.
