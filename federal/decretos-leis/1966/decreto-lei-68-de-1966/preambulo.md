@@ -1,0 +1,10 @@
+DECRETO-LEI Nº 68 - DE 21 NOVEMBRO DE 1966
+Estende ao financiamento de programas concernentes à habitação, colonização, pecuária, integração e desenvolvimento urbano e regional e programas de alcance social a autorização para o Poder Executivo contratar créditos obtidos no exterior, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o parágrafo, único do art. 31 do Ato Institucional nº 2, de 27 de outubro de 1965, e o art. 2º do Ato Complementar nº 23, de 20 de outubro de 1966, e
+CONSIDERANDO que a Lei nº 1.518, de 24 de setembro de 1951, autoriza o Poder Executivo a contratar créditos ou dar a garantia do Tesouro Nacional a créditos obtidos no exterior para o financiamento de programas de reaparelhamento de portos, sistemas de transportes, aumento da capacidade de armazenamento, frigoríficos e matadouros, elevação do potencial de energia elétrica e desenvolvimento de indústrias básicas e agricultura;
+CONSIDERANDO que a Lei nº 4.457, de 6 de novembro de 1964, ampliou a autorização concedida na lei anterior, estendendo-a ao financiamento de programas de educação, saúde pública, saneamento urbano, e rural, comunicações, pesca, amparo à média e pequena indústria;
+CONSIDERANDO a conveniência a oportunidade de se estender aquela autorização ao financiamento de programas de desenvolvimento econômico que não tenham sido expressamente referidos naqueles diplamas legais;
+CONSIDERANDO que é de entender incluídas na autorização concedida pelas as mencionadas leis, tendo em vista as operações financeiras destinadas a custear despesas de pré-iveção;
+CONSIDERANDO que, ante os elevados custos concernentes à realização de estudos e à elaboração de projetos, entendimento em contrário frustraria o próprio objetivo visado pelo legislador, eis que inúmeros empreendimentos não poderiam realmente ser executados;
+CONSIDERANDO que a autorização para a prática de determinado ato abrange, necesàriamente, os atos indispensáveis à sua concretização
+deCreta:
