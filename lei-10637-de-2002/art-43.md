@@ -1,0 +1,1 @@
+Art. 43. Os dispêndios a que se referem os arts. 39 e 40 somente poderão ser deduzidos se pagos a pessoas físicas ou jurídicas residentes e domiciliadas no País, exceto os pagamentos destinados à obtenção e manutenção de patentes e marcas no exterior.
