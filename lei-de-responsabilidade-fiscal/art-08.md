@@ -1,0 +1,2 @@
+Art. 8º Até trinta dias após a publicação dos orçamentos, nos termos em que dispuser a lei de diretrizes orçamentárias e observado o disposto na alínea c do inciso I do art. 4º, o Poder Executivo estabelecerá a programação financeira e o cronograma de execução mensal de desembolso.
+Parágrafo único. Os recursos legalmente vinculados a finalidade específica serão utilizados exclusivamente para atender ao objeto de sua vinculação, ainda que em exercício diverso daquele em que ocorrer o ingresso.

@@ -1,0 +1,1 @@
+Art. 58. A prestação de contas evidenciará o desempenho da arrecadação em relação à previsão, destacando as providências adotadas no âmbito da fiscalização das receitas e combate à sonegação, as ações de recuperação de créditos nas instâncias administrativa e judicial, bem como as demais medidas para incremento das receitas tributárias e de contribuições.

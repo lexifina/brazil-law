@@ -1,0 +1,4 @@
+Art. 7º O resultado do Banco Central do Brasil, apurado após a constituição ou reversão de reservas, constitui receita do Tesouro Nacional, e será transferido até o décimo dia útil subseqüente à aprovação dos balanços semestrais.
+§ 1º O resultado negativo constituirá obrigação do Tesouro para com o Banco Central do Brasil e será consignado em dotação específica no orçamento.
+§ 2º O impacto e o custo fiscal das operações realizadas pelo Banco Central do Brasil serão demonstrados trimestralmente, nos termos em que dispuser a lei de diretrizes orçamentárias da União.
+§ 3º Os balanços trimestrais do Banco Central do Brasil conterão notas explicativas sobre os custos da remuneração das disponibilidades do Tesouro Nacional e da manutenção das reservas cambiais e a rentabilidade de sua carteira de títulos, destacando os de emissão da União.
