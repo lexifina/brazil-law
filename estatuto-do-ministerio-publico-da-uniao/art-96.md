@@ -1,0 +1,1 @@
+Art. 96. O Conselho Superior do Ministério Público do Trabalho reunir-se-á ordinariamente, uma vez por mês, em dia previamente fixado, e, extraordinariamente, quando convocado pelo Procurador-Geral do Trabalho ou por proposta da maioria absoluta de seus membros.

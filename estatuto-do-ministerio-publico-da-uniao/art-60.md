@@ -1,0 +1,1 @@
+Art. 60. As Câmaras de Coordenação e Revisão serão compostas por três membros do Ministério Público Federal, sendo um indicado pelo Procurador-Geral da República e dois pelo Conselho Superior, juntamente com seus suplentes, para um mandato de dois anos, dentre integrantes do último grau da carreira, sempre que possível.

@@ -1,0 +1,1 @@
+Art. 90. Compete ao Procurador-Geral do Trabalho exercer as funções atribuídas ao Ministério Público do Trabalho junto ao Plenário do Tribunal Superior do Trabalho, propondo as ações cabíveis e manifestando-se nos processos de sua competência.
