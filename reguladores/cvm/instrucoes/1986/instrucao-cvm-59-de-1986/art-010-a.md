@@ -1,0 +1,1 @@
+Art. 10 - A companhia poderá indicar, em nota explicativa, as subdivisões dos grupamentos do patrimônio líquido previstas nos artigos 5º, 6º e 7º caso a demonstração fique muito extensa para efeito de publicação, ou fazer uso de quadros analíticos.

@@ -1,0 +1,1 @@
+Art. 4º - O agrupamento do "capital realizado atualizado" será subdividido em três colunas, compreendendo o capital social subscrito, o capital a realizar (subtrativamente) e a correção monetária do capital realizado.
