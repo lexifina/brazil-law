@@ -1,0 +1,9 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+LEI Nº 2433 de 30/12/1996
+
+ESTIMA a Receita e fixa a Despesa do Estado para o exercício financeiro de 1997.
+
+DISPOSIÇÃO PRELIMINAR
