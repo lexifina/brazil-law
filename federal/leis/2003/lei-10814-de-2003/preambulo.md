@@ -1,2 +1,3 @@
 Estabelece normas para o plantio e comercialização da produção de soja geneticamente modificada da safra de 2004, e dá outras providências.
-O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+O PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
