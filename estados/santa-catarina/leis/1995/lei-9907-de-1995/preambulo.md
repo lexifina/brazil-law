@@ -1,0 +1,7 @@
+# LEI Nº 9.907, de 03 de agosto de 1995
+Altera limite de Gratificação de Produtividade e institui Adicional de Pós-graduação.
+O GOVERNADOR DO ESTADO DE SANTA CATARINA,
+Faço saber a todos os habitantes deste Estado que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+Art. lº valor da Gratificação ou Adicional de Produtividade das autarquias e fundações públicas a ser pago mensalmente aos ocupantes de cargo de provimento efetivo, a partir de 1º de junho de 1995, não poderá ser inferior ao percentual estabelecido para a Gratificação Complementar de Vencimento instituída pelo art. 1º da Lei nº 9.503, de 08 de março de 1994, com as alterações posteriores.
+§ 1º Fica assegurada complementação quando o resultado do cálculo das vantagens pecuniárias referidas no "caput" deste artigo, apurado na forma das leis que as instituíram, for inferior ao percentual previsto para a Gratificação Complementar de Vencimento.
+§ 2º Para os ocupantes de cargo de provimento em comissão, a Gratificação ou o Adicional de Produtividade incidirá sobre o respectivo vencimento e, quando optarem pelos vencimentos do cargo de provimento efetivo, a incidência se dará sobre a gratificação decorrente da opção, em ambos os casos no percentual apurado na forma da lei que os instituiu, até o limite fixado no art. 19 da Lei Complementar nº 112, de 31 de janeiro de 1994, não podendo entretanto ser inferior ao percentual apurado no mês de maio de 1995.
