@@ -1,0 +1,1 @@
+Art. 37. Relativamente aos fatos geradores ocorridos a partir de 1º de janeiro de 2003, a alíquota da Contribuição Social sobre o Lucro Líquido (CSLL), instituída pela Lei nº 7.689, de 15 de dezembro de 1988, será de 9% (nove por cento).
