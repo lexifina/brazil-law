@@ -1,0 +1,2 @@
+Art. 6º - Compete à Secretaria da Receita Federal a fiscalização do recolhimento das contribuições e seus acréscimos para o PIS e o PASEP.
+Parágrafo único - A Secretaria da Receita Federal poderá celebrar convênios com outros órgãos e entidades para a execução da fiscalização de que trata este artigo, inclusive quanto aos Estados, ao Distrito Federal, aos Municípios e aos Territórios, e a suas entidades da administração indireta e fundações, observadas as disposições legais pertinentes e a existência de dotação orçamentária própria.
