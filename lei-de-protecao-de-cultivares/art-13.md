@@ -1,0 +1,2 @@
+Art. 13. O pedido de proteção será formalizado mediante requerimento assinado pela pessoa física ou jurídica que obtiver cultivar, ou por seu procurador, e protocolado no órgão competente.
+Parágrafo único. A proteção, no território nacional, de cultivar obtida por pessoa física ou jurídica domiciliada no exterior, nos termos dos incisos I e II do art. 6º, deverá ser solicitada diretamente por seu procurador, com domicílio no Brasil, nos termos do art. 50 desta Lei.

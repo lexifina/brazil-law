@@ -1,0 +1,3 @@
+Art. 50. A pessoa física ou jurídica domiciliada no exterior deverá constituir e manter procurador, devidamente qualificado e domiciliado no Brasil, com poderes para representá-la e receber notificações administrativas e citações judiciais referentes à matéria desta Lei, desde a data do pedido da proteção e durante a vigência do mesmo, sob pena de extinção do direito de proteção.
+§ 1º A procuração deverá outorgar poderes para efetuar pedido de proteção e sua manutenção junto ao SNPC e ser específica para cada caso.
+§ 2º Quando o pedido de proteção não for efetuado pessoalmente, deverá ser instruído com procuração, contendo os poderes necessários, devidamente traduzida por tradutor público juramentado, caso lavrada no exterior.
