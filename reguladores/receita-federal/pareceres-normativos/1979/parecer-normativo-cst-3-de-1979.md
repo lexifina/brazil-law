@@ -1,0 +1,17 @@
+Parecer Normativo CST nº 3, de 24 de janeiro de 1979
+0. 20. 15. 00 – Legislação Tributária – Tratados e Convenções Internacionais Os atos que promulgam os tratados internacionais, celebrados pelo Brasil, geram efeitos "ex tunc" com relação às datas eventualmente previstas nos textos originais para vigência do acordo.
+É comum, sobretudo no âmbito da ALALC (Associação Latino Americana de Livre Comércio), determinados acordos internacionais, celebrados pelo Brasil, só serem objeto de promulgação em datas posteriores às previstas para início de vigência nos textos originais.
+1.2 Pergunta-se, em tais casos, sobre a retroatividade daqueles atos às datas previstas nos acordos internacionais para entrada em vigor.
+2. Analisada a matéria sob o ponto de vista do direito intertemporal, a conclusão pela não retroatividade seria imediata, em face do que dispõem os artigos 105 e 106 da Lei nº 5.172, de 25 de outubro de 1966 (CTN).
+3. Trazidos, todavia, à colação, como em seguida se faz, os aspectos doutrinários de direito internacional público, indispensáveis, dado o caráter das normas envolvidas, chega-se à análise da natureza jurídica da "promulgação dos tratados", e, daí à conclusão consoante a qual, embora em si irretroativos, geram tais atos efeitos "ex tunc" com relação às datas eventualmente previstas nos textos originais.
+4. Sabe-se que dentre as diversas fases que atravessam os tratados internacionais em seu processo de conclusão, das mais importantes, por ser exatamente a que o torna obrigatório, é a chamada de "ratificação", que Sette Câmara define como sendo "o ato pelo qual a autoridade nacional competente informa às autoridades correspondentes dos Estados cujos plenipotenciários concluiram, com os seus, um projeto de tratado, a aprovação que dá a este projeto e que o faz doravante um tratado obrigatório para o Estado que esta autoridade encarna nas relações internacionais".
+4.1 - Feitas as ratificações por todos os Estados contratantes e ultimado o depósito ou a troca de tais atos, ganha o tratado vigência no âmbito internacional, sujeitando-se inclusive os inadimplentes às sanções cabíveis.
+4.2 - A executoriedade do tratado, todavia, só será possível, em face do direito interno de cada Estado, através de publicação que leve ao conhecimento geral a existência daquela norma internacional que, repita-se, já era obrigatória antes da publicação. Tais atos, que em direito internacional público denominam-se promulgações, receberam de Hildebrando Accioly a seguinte conceituação: "o ato jurídico, de natureza interna, pelo qual o governo de um Estado afirma ou atesta a existência de um tratado por ele celebrado e o preenchimento das formalidades exigidas para sua conclusão, e, além disto, ordena sua execução dentro dos limites aos quais se estende a competência estatal".
+4.3 - Evidentemente, tanto tal "atestado", como tal "ordem de execução", hão de se referir ao tratado como um todo, abrangendo inclusive, se houver, a data acordada para início de vigência. Conseguintemente, se a promulgação somente se verificar em data posterior à prevista no acordo, o que se estará atestando é que o tratado já estava em vigência desde aquele termo, e o que se estará ordenando é que seus efeitos a ele retroajam.
+CST/ASSESSORIA, em 9 de janeiro de 1979.
+Murillo Forjaz Mathias
+Fiscal de Tributos Federais
+De acordo.
+Publique-se e, a seguir, encaminhem-se cópias às SS.RR.R.F. para conhecimento e ciência aos demais órgãos subordinados.
+Antonio Augusto de Mesquita Neto
+Coordenador
