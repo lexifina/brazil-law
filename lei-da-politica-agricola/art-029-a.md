@@ -1,0 +1,3 @@
+Art. 29-A. A inspeção industrial e sanitária de produtos de origem vegetal e animal, bem como a dos insumos agropecuários, será gerida de maneira que os procedimentos e a organização da inspeção se faça por métodos universalizados e aplicados eqüitativamente em todos os estabelecimentos inspecionados.
+§ 1º Na inspeção poderá ser adotado o método de análise de riscos e pontos críticos de controle.
+§ 2º Como parte do Sistema Unificado de Atenção à Sanidade Agropecuária, serão constituídos um sistema brasileiro de inspeção de produtos de origem vegetal e um sistema brasileiro de inspeção de produtos de origem animal, bem como sistemas específicos de inspeção para insumos usados na agropecuária.
