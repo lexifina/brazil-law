@@ -1,0 +1,1 @@
+Art. 530-B. Nos casos das infrações previstas nos §§ 1º, 2º e 3º do art. 184 do Código Penal, a autoridade policial procederá à apreensão dos bens ilicitamente produzidos ou reproduzidos, em sua totalidade, juntamente com os equipamentos, suportes e materiais que possibilitaram a sua existência, desde que estes se destinem precipuamente à prática do ilícito.
