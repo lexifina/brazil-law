@@ -1,0 +1,1 @@
+Art. 1º A desapropriação por interesse social será decretada para promover a justa distribuição da propriedade ou condicionar o seu uso ao bem estar social, na forma do art. 147 da Constituição Federal.
