@@ -1,0 +1,4 @@
+Art. 3º Constitui crime funcional contra a ordem tributária, além dos previstos no Decreto-Lei n° 2.848, de 7 de dezembro de 1940 - Código Penal (Título XI, Capítulo I):
+I - extraviar livro oficial, processo fiscal ou qualquer documento, de que tenha a guarda em razão da função; sonegá-lo, ou inutilizá-lo, total ou parcialmente, acarretando pagamento indevido ou inexato de tributo ou contribuição social;
+II - exigir, solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de iniciar seu exercício, mas em razão dela, vantagem indevida; ou aceitar promessa de tal vantagem, para deixar de lançar ou cobrar tributo ou contribuição social, ou cobrá-los parcialmente. Pena - reclusão, de 3 (três) a 8 (oito) anos, e multa.
+III - patrocinar, direta ou indiretamente, interesse privado perante a administração fazendária, valendo-se da qualidade de funcionário público. Pena - reclusão, de 1 (um) a 4 (quatro) anos, e multa.
