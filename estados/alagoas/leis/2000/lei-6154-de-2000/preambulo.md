@@ -1,0 +1,11 @@
+[pic]
+
+ESTADO DE ALAGOAS
+
+ASSEMBLÉIA LEGISLATIVA ESTADUAL
+
+A PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE ALAGOAS, no uso das atribuições que lhe confere o parágrafo 6º do artigo 89 da Constituição Estadual, promulga a seguinte Lei:
+
+LEI Nº 6.154, DE 23 DE MAIO DE 2000.
+
+ESTABELECE FORMAS DE AFIXAÇÃO DE PREÇOS E SERVIÇOS E DÁ PROVIDÊNCIAS CORRELATAS.
