@@ -1,0 +1,1 @@
+Art. 14. Para efeito de apuração do lucro real, fica vedada a exclusão, do lucro líquido do exercício, do valor do lucro da exploração de atividades monopolizadas de que tratam o § 2º do art. 2º da Lei nº 6.264, de 18 de novembro de 1975, e o § 2º do art. 19 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, com a redação dada pelo Decreto-Lei nº 1.730, de 17 de outubro de 1979.
