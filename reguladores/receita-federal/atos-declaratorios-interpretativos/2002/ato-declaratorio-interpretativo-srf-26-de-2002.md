@@ -1,0 +1,10 @@
+Ato Declaratório Interpretativo SRF nº 26, de 19 de dezembro de 2002
+Dispõe sobre a suspensão do Imposto sobre Produtos Industrializados (IPI) de que trata a Instrução Normativa SRF nº 235, de 31 de outubro de 2002.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista a Instrução Normativa SRF nº 235, de 31 de outubro de 2002, e o que consta do processo nº 10168.006163/2002-17, declara:
+Art. 1º Para fins da concessão do registro prévio, a que se referem os §§ 1º a 3º do art. 14 da Instrução Normativa SRF nº 235, de 2002:
+I - não se aplica o disposto no art. 60 da Lei nº 9.069, de 29 de junho de 1995;
+II - cabe às Divisões de Fiscalização (Difis) das Superintendências da Receita Federal (SRRF) a análise do pedido de registro prévio e a elaboração do Ato Declaratório Executivo (ADE) a ser submetido ao Superintendente Regional da Receita Federal.
+Art. 2º A suspensão do Imposto sobre Produtos Industrializados (IPI), de que trata a Instrução Normativa SRF nº 235, de 2002, não se aplica a estabelecimento equiparado a industrial.
+Parágrafo único. A vedação de que trata o caput não se aplica em relação ao art. 4º da IN SRF nº 235, de 2002, desde que o estabelecimento comercial, naquela operação, seja equiparado a estabelecimento industrial pela legislação do imposto.
+Art. 3º O desembaraço com suspensão do IPI a que se referem o art. 6º, o § 2º do art. 11 e o § 2º do art. 16 da IN SRF nº 235, de 2002, está condicionado à apresentação, pelo contribuinte, de cópia, com recibo de entrega, da informação de que tratam o art. 7º, o § 3º do art. 11 e o § 3º do art. 16 dessa mesma Instrução Normativa.
+Parágrafo único. A informação referida no caput será realizada pelo estabelecimento adquirente, sem formalização de processo, perante a Delegacia da Receita Federal (DRF) ou da Delegacia da Receita Federal de Fiscalização (Defic) de seu domicílio fiscal.
