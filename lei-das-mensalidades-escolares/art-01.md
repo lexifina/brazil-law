@@ -1,0 +1,5 @@
+Art. 1º O valor das anuidades ou das semestralidades escolares do ensino pré-escolar, fundamental, médio e superior, será contratado, nos termos desta Lei, no ato da matrícula ou da sua renovação, entre o estabelecimento de ensino e o aluno, o pai do aluno ou o responsável.
+§ 1º O valor anual ou semestral referido no caput deste artigo deverá ter como base a última parcela da anuidade ou da semestralidade legalmente fixada no ano anterior, multiplicada pelo número de parcelas do período letivo.
+§ 2º (VETADO)
+§ 3º O valor total, anual ou semestral, apurado na forma dos parágrafos precedentes terá vigência por um ano e será dividido em doze ou seis parcelas mensais iguais, facultada a apresentação de planos de pagamento alternativos, desde que não excedam ao valor total anual ou semestral apurado na forma dos parágrafos anteriores.
+§ 4º Será nula, não produzindo qualquer efeito, cláusula contratual de revisão ou reajustamento do valor das parcelas da anuidade ou semestralidade escolar em prazo inferior a um ano a contar da data de sua fixação, salvo quando expressamente prevista em lei.
