@@ -1,0 +1,2 @@
+Art. 11. Para assegurar compromissos assumidos junto aos participantes e assistidos de planos de benefícios, as entidades de previdência complementar poderão contratar operações de resseguro, por iniciativa própria ou por determinação do órgão regulador e fiscalizador, observados o regulamento do respectivo plano e demais disposições legais e regulamentares.
+Parágrafo único. Fica facultada às entidades fechadas a garantia referida no caput por meio de fundo de solvência, a ser instituído na forma da lei.

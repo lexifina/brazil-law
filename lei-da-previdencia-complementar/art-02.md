@@ -1,0 +1,1 @@
+Art. 2º O regime de previdência complementar é operado por entidades de previdência complementar que têm por objetivo principal instituir e executar planos de benefícios de caráter previdenciário, na forma desta Lei Complementar.

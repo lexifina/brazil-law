@@ -1,0 +1,2 @@
+Art. 40. As entidades abertas deverão levantar no último dia útil de cada mês e semestre, respectivamente, balancetes mensais e balanços gerais, com observância das regras e dos critérios estabelecidos pelo órgão regulador.
+Parágrafo único. As sociedades seguradoras autorizadas a operar planos de benefícios deverão apresentar nas demonstrações financeiras, de forma discriminada, as atividades previdenciárias e as de seguros, de acordo com critérios fixados pelo órgão regulador.

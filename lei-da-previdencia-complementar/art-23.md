@@ -1,0 +1,2 @@
+Art. 23. As entidades fechadas deverão manter atualizada sua contabilidade, de acordo com as instruções do órgão regulador e fiscalizador, consolidando a posição dos planos de benefícios que administram e executam, bem como submetendo suas contas a auditores independentes.
+Parágrafo único. Ao final de cada exercício serão elaboradas as demonstrações contábeis e atuariais consolidadas, sem prejuízo dos controles por plano de benefícios.

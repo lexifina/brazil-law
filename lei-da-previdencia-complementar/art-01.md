@@ -1,0 +1,1 @@
+Art. 1º O regime de previdência privada, de caráter complementar e organizado de forma autônoma em relação ao regime geral de previdência social, é facultativo, baseado na constituição de reservas que garantam o benefício, nos termos do caput do art. 202 da Constituição Federal, observado o disposto nesta Lei Complementar.

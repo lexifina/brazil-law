@@ -1,0 +1,2 @@
+Art. 17. As alterações processadas nos regulamentos dos planos aplicam-se a todos os participantes das entidades fechadas, a partir de sua aprovação pelo órgão regulador e fiscalizador, observado o direito acumulado de cada participante.
+Parágrafo único. Ao participante que tenha cumprido os requisitos para obtenção dos benefícios previstos no plano é assegurada a aplicação das disposições regulamentares vigentes na data em que se tornou elegível a um benefício de aposentadoria.
