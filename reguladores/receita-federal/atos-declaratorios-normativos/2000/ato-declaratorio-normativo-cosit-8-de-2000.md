@@ -1,0 +1,6 @@
+Ato Declaratório Normativo Cosit nº 8, de 9 de maio de 2000
+Dispõe sobre as alíquotas do Imposto de Renda Retido na Fonte aplicáveis nas hipóteses de remessa de recursos para o exterior que menciona.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o art 199, inciso IV, do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria Ministerial No 227, de 3 de setembro de 1998; e tendo em vista o disposto no art. 1o da Lei No 9.481, de 13 de agosto de 1997, c/c art. 8o da Lei No 9.779, de 19 de janeiro de 1999, e c/c art. 1o da Lei No 9.959, de 27 de janeiro de 2000, declara, em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados, que:
+As alíquotas de Imposto de Renda Retido na Fonte aplicáveis às remessas de recursos para o exterior nas hipóteses previstas no art. 1o da Lei No 9.481, de 1997, c/c art. 8o da Lei No 9.779, de 1999, e c/c art. 1o da Lei No 9.959, de 2000, são as abaixo relacionadas, ficando retificada a tabela constante dos Esclarecimentos Adicionais, página 63 do Manual do Imposto de Renda Retido na Fonte editado pela Secretaria da Receita Federal no corrente exercício:
+[arquivo anexo: tab.html]
+CARLOS ALBERTO DE NIZA E CASTRO
