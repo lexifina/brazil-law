@@ -31,4 +31,6 @@ XXI - as receitas auferidas por parques temáticos, e as decorrentes de serviço
 XXII - as receitas decorrentes da prestação de serviços postais e telegráficos prestados pela Empresa Brasileira de Correios e Telégrafos;
 XXIII - as receitas decorrentes de prestação de serviços públicos de concessionárias operadoras de rodovias;
 XXIV - as receitas decorrentes da prestação de serviços das agências de viagem e de viagens e turismo.
-Parágrafo único. Ficam convalidados os recolhimentos efetuados de acordo com a atual redação do inciso IX deste artigo.
+XXV - as receitas auferidas por empresas de serviços de informática, decorrentes das atividades de desenvolvimento de software e o seu licenciamento ou cessão de direito de uso, bem como de análise, programação, instalação, configuração, assessoria, consultoria, suporte técnico e manutenção ou atualização de software, compreendidas ainda como softwares as páginas eletrônicas.
+§ 1º Ficam convalidados os recolhimentos efetuados de acordo com a atual redação do inciso IX deste artigo.
+§ 2º O disposto no inciso XXV do caput deste artigo não alcança a comercialização, licenciamento ou cessão de direito de uso de software importado.
