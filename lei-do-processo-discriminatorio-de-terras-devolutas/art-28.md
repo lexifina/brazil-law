@@ -1,0 +1,5 @@
+Art. 28 - Sempre que se apurar, através de pesquisa nos registros públicos, a inexistência de domínio particular em áreas rurais declaradas indispensáveis à segurança e ao desenvolvimento nacionais, a União, desde logo, as arrecadará mediante ato do presidente do Instituto Nacional de Colonização e Reforma Agrária - INCRA, do qual constará:
+I - a circunscrição judiciária ou administrativa em que está situado o imóvel, conforme o critério adotado pela legislação local;
+II - a eventual denominação, as características e confrontações do imóvel.
+§ 1º - A autoridade que promover a pesquisa, para fins deste artigo, instruirá o processo de arrecadação com certidão negativa comprobatória da inexistência de domínio particular, expedida pelo Cartório de Registro de Imóveis, certidões do Serviço do Patrimônio da União e do órgão estadual competente que comprovem não haver contestação ou reclamação administrativa promovida por terceiros, quanto ao domínio e posse do imóvel.
+§ 2º - As certidões negativas mencionadas neste artigo consignarão expressamente a sua finalidade.

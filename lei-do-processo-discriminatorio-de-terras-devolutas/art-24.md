@@ -1,0 +1,1 @@
+Art. 24 - Iniciado o processo discriminatório, não poderão alterar-se quaisquer divisas na área discriminada, sendo defesa a derrubada da cobertura vegetal, a construção de cercas e transferências de benfeitorias a qualquer título, sem assentimento do representante da União.

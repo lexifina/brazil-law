@@ -1,0 +1,3 @@
+Art. 11 - Celebrado, em cada caso, o termo que couber, o presidente da Comissão Especial designará agrimensor para, em dia e hora avençados com os interessados, iniciar o levantamento geodésico e topográfico das terras objeto de discriminação, ao fim da qual determinará a demarcação das terras devolutas, bem como, se for o caso, das retificações objeto de acordo.
+§ 1º - Aos interessados será permitido indicar um perito para colaborar com o agrimensor designado.
+§ 2º - A designação do perito, a que se refere o parágrafo anterior, deverá ser feita até a véspera do dia fixado para início do levantamento geodésico e topográfico.

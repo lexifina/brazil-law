@@ -1,0 +1,2 @@
+Art. 23 - O processo discriminatório judicial tem caráter preferencial e prejudicial em relação às ações em andamento, referentes a domínio ou posse de imóveis situados, no todo ou em parte, na área discriminada, determinando o imediato deslocamento da competência para a Justiça Federal.
+Parágrafo único. Nas ações em que a União não for parte, dar-se-á, para os efeitos previstos neste artigo, a sua intervenção.

@@ -1,0 +1,1 @@
+Art. 8º - Reconhecida a existência de dúvida sobre a legitimidade do título, o presidente da Comissão Especial reduzirá a termo as irregularidades encontradas, encaminhando-o à Procuradoria do Instituto Nacional de Colonização e Reforma Agrária - INCRA, para propositura da ação competente.

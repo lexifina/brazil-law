@@ -1,0 +1,1 @@
+Art. 26 - No processo discriminatório judicial os vencidos pagarão as custas a que houverem dado causa e participarão pro rata das despesas da demarcação, considerada a extensão da linha ou linhas de confrontação com as áreas públicas.
