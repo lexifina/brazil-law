@@ -1,0 +1,1 @@
+Art. 17. Toda instituição que utilizar técnicas e métodos de engenharia genética ou realizar pesquisas com OGM e seus derivados deverá criar uma Comissão Interna de Biossegurança - CIBio, além de indicar um técnico principal responsável para cada projeto específico.
