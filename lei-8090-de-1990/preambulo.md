@@ -1,0 +1,2 @@
+Altera a estrutura básica da Secretaria da Ciência e Tecnologia da Presidência da República e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória n° 245, de 1990, que o Congresso Nacional aprovou, e eu, IRAM SARAIVA, 1° Vice-Presidente do Senado Federal, no exercício da Presidência, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
