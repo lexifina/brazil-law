@@ -1,0 +1,1 @@
+Art. 26. As ICT que contemplem o ensino entre suas atividades principais deverão associar, obrigatoriamente, a aplicação do disposto nesta Lei a ações de formação de recursos humanos sob sua responsabilidade.
