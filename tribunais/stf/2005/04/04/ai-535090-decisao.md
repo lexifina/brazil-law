@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de agravo contra decisão que negou
+   processamento a recurso extraordinário fundado no art. 102, III,
+   "a", da Constituição Federal, interposto em face de acórdão que
+   negou o reengajamento a militar temporário da marinha nos
+   seguintes termos: "O militar temporário só adquire estabilidade
+   se completar 10 (dez) anos de efetivo serviço militar a teor da
+   Lei nº 6.880/80. A administração tem legitimidade para licenciar
+   o militar não estável, ex officio, caso entender necessário,
+   observando-se os critérios de percentuais do efetivo fixado pelo
+   Ministro e dos critérios de oportunidade e conveniência".
+                Alega-se violação aos artigos 5º, caput e 37, caput, da
+   Carta Magna.
+                Embora a matéria discutida no recurso
+   extraordinário, de fls. 45/54, tenha sido argüida na petição do
+   recurso interposto para a Corte de origem (fls. 19/28), não houve
+   sua apreciação no acórdão recorrido (fls. 37/41). Tampouco foram
+   opostos embargos de declaração com o objetivo de provocar a
+   manifestação da Corte sobre a questão constitucional.
+                Diante da falta de prequestionamento, e com base na
+   jurisprudência desta Corte, consubstanciada nas Súmulas nº
+   282/STF e 356/STF, nego seguimento ao agravo (art. 557, caput, do
+   CPC).
+                Publique-se.
+                Brasília, 04 de abril de
+   2005.
+                Ministro GILMAR MENDES
+        Relator
