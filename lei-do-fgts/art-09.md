@@ -21,3 +21,4 @@ IV - prazo máximo de trinta anos.
 § 3º O programa de aplicações deverá destinar, no mínimo, 60 (sessenta) por cento para investimentos em habitação popular.
 § 4º Os projetos de saneamento básico e infra-estrutura urbana, financiados com recursos do FGTS, deverão ser complementares aos programas habitacionais.
 § 5º As garantias, nas diversas modalidades discriminadas no inciso I do caput deste artigo, serão admitidas singular ou supletivamente, considerada a suficiência de cobertura para os empréstimos e financiamentos concedidos.
+§ 8º É da União o risco de crédito nas aplicações efetuadas até 1º de junho de 2001 pelos demais órgãos integrantes do Sistema Financeiro da Habitação - SFH e pelas entidades credenciadas pelo Banco Central do Brasil como agentes financeiros, subrogando-se nas garantias prestadas à Caixa Econômica Federal.
