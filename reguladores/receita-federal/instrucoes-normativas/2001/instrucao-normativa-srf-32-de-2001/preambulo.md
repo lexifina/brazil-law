@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 32, de 30 de março de 2001
+Dispõe sobre os preços a serem praticados nas operações de compra e venda de bens e direitos, efetuadas por pessoa física ou jurídica residente ou domiciliada no Brasil, com pessoa física ou jurídica residente ou domiciliada no exterior, consideradas vinculadas.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 190 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 227, de 3 de setembro de 1998, e tendo em vista o disposto nas Leis nº 9.430, de 27 de dezembro de 1996, arts. 18 a 24 e 28, e nº 9.959, de 27 de janeiro de 2000, art. 2º, e na Portaria MF nº 95, de 30 de abril de 1997, resolve:
