@@ -1,0 +1,81 @@
+# Decreto-Lei nº 7.671, de 25/06/1945
+
+DECRETO-LEI NDECRETO-LEI Nusuariomiriam13332002-03-07T12:35:00Z2002-03-12T09:32:00Z13341908POlicentro0000.0000
+
+DECRETO-LEI N. 7.671 – DE 25 DE JUNHO DE 1945
+
+Autoriza o Ministro da Fazenda a mandar cunhar na Casa da Moeda a importância de Cr$ 300.000.000,00 em moedas auxiliares e divisionárias, e dá outras providências
+
+O Presidente da República, usando da atribuição que lhe confere o artigo 180 da Constituição,
+
+decreta:
+
+Art. 1º Fica o Ministro de Estado dos Negócios da Fazenda autorizado a mandar cunhar na Casa da Moeda a importância de trezentos milhões de cruzeiros (Cr$ 300.000.000,00) em moedas auxiliares e divisionárias de que trata o art. 3º do Decreto-lei nº 4. 791, de 5 de outubro de 1942.
+
+Parágrafo único. Far-se-á a cunhagem na seguinte base:
+
+Moeda
+
+Quantidade
+
+Importância
+
+Dez centavos (Cr$ 0,10) .............
+
+40.000.000
+
+Cr$
+
+4.000.000,00
+
+Vinte centavos (Cr$ 0,20) ...........
+
+80.000.000
+
+Cr$
+
+16.000.000,00
+
+Cinqüenta centavos (Cr$ 0,50) ...
+
+40.000.000
+
+Cr$
+
+20.000.000,00
+
+Um cruzeiro (Cr$ 1,00) ...............
+
+100.000.000
+
+Cr$
+
+100.000.000,00
+
+Dois cruzeiros (Cr$ 2,00) ............
+
+80.000.000
+
+Cr$
+
+160.000.000,00
+
+340.000.000
+
+Cr$
+
+300.000.000,00
+
+Art. 2º A cunhagem da importância referida no artigo anterior terá início imediatamente, em prosseguimento às de que tratam os Decretos-leis ns. 6.283 e 6.848, respectivamente, de 17 de fevereiro e 4 de setembro de 1944, obedecendo as moedas aos característicos estabelecidos nos Decretos-leis ns. 4.791, de 5 de outubro de 1942, 5.375, de 5 de abril de 1943, e 6.283 (art. 2º), de 17 de fevereiro de 1944.
+
+Art. 3º As moedas mandadas cunhar na conformidade dêste Decreto-lei destinam-se a trocos e substituição de seu equivalente em cédulas do papel-moeda dilaceradas, as quais serão recolhidas à Caixa de Amortização e incineradas, bem como à substituição de moedas metálicas do antigo cunho, de acôrdo com as instruções que, nos têrmos do art. 8º do Decreto-lei nº 4.791, de 5 de outubro de 1942, forem baixadas pelo Ministro de Estado dos Negócios da Fazenda.
+
+Art. 4º O presente Decreto-lei entrará em vigor na data de sua publicação.
+
+Art. 5º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 25 de junho de 1945, 124º da Independência e 57º da República.
+
+GETULIO VARGAS.
+
+A. de Souza Costa.
