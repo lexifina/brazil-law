@@ -1,0 +1,3 @@
+# LEI PROMULGADA Nº 663, de 25 de janeiro de 1961
+Concede auxílio de Cr$ 20.000,00 à Comissão Diretora da Capela Nossa Senhora da Conceição, Tubarão.
+O DEPUTADO RUY HÜLSE, PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SANTA CATARINA, de conformidade com o § 3º dos arts. 28 e 29, da Constituição do Estado, faz saber que a Assembléia Legislativa decretou e eu promulgo a seguinte lei:
