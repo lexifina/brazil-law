@@ -1,0 +1,1 @@
+Art. 26. As Agências Reguladoras já instaladas poderão, em caráter excepcional, prorrogar os contratos de trabalho temporários em vigor, por prazo máximo de vinte e quatro meses além daqueles previstos na legislação vigente, a partir do vencimento de cada contrato de trabalho.

@@ -1,0 +1,1 @@
+Art. 23. Os regulamentos próprios das Agências referidos nesta Lei serão aprovados por decisão da instância de deliberação superior de cada Autarquia, com ampla divulgação interna e publicação no Diário Oficial da União.
