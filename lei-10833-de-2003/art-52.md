@@ -1,5 +1,5 @@
 Art. 52. A pessoa jurídica industrial dos produtos referidos no art. 49 poderá optar por regime especial de apuração e pagamento das contribuições para o PIS/PASEP e da COFINS, no qual os valores das contribuições são fixados por unidade de litro do produto, respectivamente, em:
-I - refrigerantes classificados no código 2202 da TIPI, R$ 0,0212 (duzentos e doze décimos de milésimo do real) e R$ 0,0980 (noventa e oito milésimos do real);
+I - água e refrigerantes classificados nos códigos 22.01 e 22.02 da TIPI, R$ 0,0212 (duzentos e doze décimos de milésimo do real) e R$ 0,0980 (noventa e oito milésimos do real);
 II - bebidas classificadas no código 2203 da TIPI, R$ 0,0368 (trezentos e sessenta e oito décimos de milésimos do real) e R$ 0,1700 (dezessete centésimos do real);
 III - preparações compostas classificadas no código 2106.90.10, ex 02, da TIPI, para elaboração de bebida refrigerante do capítulo 22, R$ 0,1144 (um mil, cento e quarenta e quatro décimos de milésimo do real) e R$ 0,5280 (quinhentos e vinte e oito milésimos do real).
 § 1º A pessoa jurídica industrial que optar pelo regime de apuração previsto neste artigo poderá creditar-se dos valores das contribuições estabelecidos no art. 51 referentes às embalagens que adquirir, no período de apuração em que registrar o respectivo documento fiscal de aquisição.
