@@ -1,0 +1,1 @@
+Art. 18. A declaração de inelegibilidade do candidato à Presidência da República, Governador de Estado e do Distrito Federal e Prefeito Municipal não atingirá o candidato a Vice-Presidente, Vice-Governador ou Vice-Prefeito, assim como a destes não atingirá aqueles.
