@@ -7,3 +7,4 @@ IV - padrões de contabilidade; relatórios e pareceres de auditores independent
 V - informações que devam ser prestadas por administradores e acionistas controladores, relativas à compra, permuta ou venda de ações emitidas pela companhia e por sociedades controladas ou controladoras;
 VI - a divulgação de deliberações da assembléia geral e dos órgãos de administração da companhia, ou de fatos relevantes ocorridos nos seis negócios, que possam influir, de modo ponderável, na decisão dos investidores do mercado, de vender ou comprar valores mobiliários emitidos pela companhia;
 VII - as demais matérias previstas em lei.
+§ 2º O disposto nos incisos II e IV do parágrafo anterior não se aplica às instituições financeiras e demais entidades autorizadas a funcionar pelo Banco Central do Brasil, as quais continuam sujeitas às disposições da Lei nº 4.595, de 31 de dezembro de 1964, e aos atos normativos dela decorrentes.
