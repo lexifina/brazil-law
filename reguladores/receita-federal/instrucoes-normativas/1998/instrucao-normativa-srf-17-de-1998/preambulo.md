@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 17, de 16 de fevereiro de 1998
+Divulga atos emanados do Comitê Técnico de Valoração Aduaneira.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições e tendo em vista o Acordo sobre a Implementação do Artigo VII do Acordo Geral sobre Tarifas e Comércio - GATT 1994, constante do Anexo 1A ao Acordo Constitutivo da Organização Mundial de Comércio - OMC, promulgado pelo Decreto No 1.355, de 30 de dezembro de 1994, e considerando o disposto no Decreto No 2.498, de 13 de fevereiro de 1998 e no inciso III do art. 2o da Portaria No 28, 16 de fevereiro de 1998, do Ministro da Fazenda, resolve:
