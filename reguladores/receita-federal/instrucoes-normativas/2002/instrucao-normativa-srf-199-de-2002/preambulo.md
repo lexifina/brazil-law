@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 199, de 12 de setembro de 2002
+Dispõe sobre a incidência da contribuição para o PIS/Pasep e da Cofins sobre receitas auferidas no âmbito do Mercado Atacadista de Energia Elétrica e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto na Lei nº 10.433, de 24 de abril de 2002, no art. 14 da Lei nº 9.648, de 27 de maio de 1998, e no art. 32 da Medida Provisória nº 66, de 29 de agosto de 2002, resolve:
