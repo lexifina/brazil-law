@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF09 nº 52, de 23 de abril de 2001
+Assunto: Regimes Aduaneiros Ementa: O regime de admissão temporária de veículos de turistas dos países integrantes do Mercosul não abrange os brasileiros e os estrangeiros que têm domicílio ou residência no Brasil. Dispositivos Legais: Art. 32 da Lei n.º 3.071, de 01/01/1916 (Código Civil); Art. 8.º, § 1.º, do Decreto-Lei n.º 4.657, de 04/09/1942 (Lei de Introdução ao Código Civil); Art. 127, da Lei n.º 5.172, de 25/10/1966, (Código Tributário Nacional); art. 483, inciso I, do Decreto n.º 2.637, de 25/06/98 (Regulamento do IPI); Portaria MF n.º 16, de 11/01/1995; Portaria DECEX n.º 08/1991; Art. 23, inciso I, do Decreto-Lei n.º 1.455, de 07/04/1976.
+[arquivo anexo: SC SRRF09-Disit nº 52-2001.pdf]
