@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo SRF nº 28, de 22 de dezembro de 2004
+Dispõe sobre a vedação imposta às empresas resultantes de cisão ou qualquer outra forma de desmembramento em optar pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte (Simples).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e considerando o disposto no inciso XVII do art. 9º da Lei nº 9.317, de 5 de dezembro de 1996, e no processo nº 13748.000455/00-15, declara:
+Artigo único. Não pode optar pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte (Simples) a pessoa jurídica que seja resultante de cisão ou de qualquer outra forma de desmembramento, salvo em relação aos eventos ocorridos anteriormente a 1º de janeiro de 1997.
+Parágrafo único. O disposto no caput também se aplica às pessoas jurídicas remanescentes da cisão, ressalvada a hipótese de esta já ser optante pelo Simples.
