@@ -1,0 +1,1 @@
+Art. 65. É proibida a colocação de novas datas ou o reacondicionamento em novas embalagens de produtos cujo prazo de validade haja expirado, excetuados os soros terapêuticos que puderem ser redosados e refiltrados.
