@@ -1,0 +1,2 @@
+Dá nova redação aos arts. 6º e 9º da Lei nº 8.019, de 11 de abril de 1990, e acresce dispositivo à Lei nº 9.365, de 16 de dezembro de 1996.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 2.114-75, de 2001, que o Congresso Nacional aprovou, e eu, Antonio Carlos Magalhães, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
