@@ -10,12 +10,12 @@ a) o valor da mercadoria ou bem constante dos documentos de importação, observ
 b) imposto de importação;
 c) imposto sobre produtos industrializados;
 d) imposto sobre operações de câmbio;
-e) quaisquer despesas aduaneiras;
+e) quaisquer outros impostos, taxas, contribuições e despesas aduaneiras;
 VI - na hipótese do inciso X do art. 12, o valor da prestação do serviço, acrescido, se for o caso, de todos os encargos relacionados com a sua utilização;
 VII - no caso do inciso XI do art. 12, o valor da operação acrescido do valor dos impostos de importação e sobre produtos industrializados e de todas as despesas cobradas ou debitadas ao adquirente;
 VIII - na hipótese do inciso XII do art. 12, o valor da operação de que decorrer a entrada;
 IX - na hipótese do inciso XIII do art. 12, o valor da prestação no Estado de origem.
-§ 1º Integra a base de cálculo do imposto:
+§ 1º Integra a base de cálculo do imposto, inclusive na hipótese do inciso V do caput deste artigo:
 I - o montante do próprio imposto, constituindo o respectivo destaque mera indicação para fins de controle;
 II - o valor correspondente a:
 a) seguros, juros e demais importâncias pagas, recebidas ou debitadas, bem como descontos concedidos sob condição;
