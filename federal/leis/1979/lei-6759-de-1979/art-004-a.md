@@ -1,0 +1,1 @@
+Art. 4º - A doação tornar-se-á nula, sem direito a donatária a qualquer indenização, inclusive por benfeitorias realizadas, se ao imóvel, no todo ou em parte, vier a ser dada destinação diversa da prevista no art. 2º desta Lei, ou, ainda, se ocorrer inadimplemento de cláusula do contrato, a lavrar-se em livro próprio do Serviço do Patrimônio da União.
