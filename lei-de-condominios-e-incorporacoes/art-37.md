@@ -1,0 +1,1 @@
+Art. 37. Se o imóvel estiver gravado de ônus real ou fiscal ou se contra os alienantes houver ação que possa comprometê-lo, o fato será obrigatòriamente mencionado em todos os documentos de ajuste, com a indicação de sua natureza e das condições de liberação.
