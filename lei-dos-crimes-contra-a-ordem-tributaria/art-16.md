@@ -1,1 +1,2 @@
 Art. 16. Qualquer pessoa poderá provocar a iniciativa do Ministério Público nos crimes descritos nesta lei, fornecendo-lhe por escrito informações sobre o fato e a autoria, bem como indicando o tempo, o lugar e os elementos de convicção.
+Parágrafo único. Nos crimes previstos nesta Lei, cometidos em quadrilha ou co-autoria, o co-autor ou partícipe que através de confissão espontânea revelar à autoridade policial ou judicial toda a trama delituosa terá a sua pena reduzida de um a dois terços.
