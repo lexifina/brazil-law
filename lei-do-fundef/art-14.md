@@ -1,0 +1,1 @@
+Art. 14. A União desenvolverá política de estímulo às iniciativas de melhoria de qualidade do ensino, acesso e permanência na escola promovidos pelas unidades federadas, em especial aquelas voltadas às crianças e adolescentes em situação de risco social.
