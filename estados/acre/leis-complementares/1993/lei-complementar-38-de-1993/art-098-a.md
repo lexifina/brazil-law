@@ -1,0 +1,1 @@
+Art. 98-A. Fica instituído, no âmbito do Tribunal de Contas do Estado do Acre, o sistema eletrônico de processos por meio de autos, total ou parcialmente, digitais, utilizando-se, preferencialmente, a rede mundial de computadores e acesso por meio de redes internas e externas. (Incluído pela Lei Complementar nº 259, de 29/01/2013)

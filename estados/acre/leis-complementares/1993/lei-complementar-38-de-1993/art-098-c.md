@@ -1,0 +1,3 @@
+Art. 98-C. A validade jurídica dos dados, documentos e atos processuais na forma digital condiciona-se à assinatura eletrônica, na forma estabelecida no regimento interno. (Incluído pela Lei Complementar nº 259, de 29/01/2013)
+
+Parágrafo único. Os documentos produzidos eletronicamente e juntados aos processos eletrônicos, assim como os dados eletrônicos armazenados nos bancos de dados do Tribunal, com garantia de sua origem e de seu signatário, na forma estabelecida no regimento interno, serão considerados originais para todos os efeitos legais. (Incluído pela Lei Complementar nº 259, de 29/01/2013)

@@ -1,0 +1,1 @@
+Art. 98-B. O jurisdicionado enviará e receberá dados e documentos que o Tribunal de Contas do Estado repute necessários ao exercício da atividade de controle externo, na forma eletrônica, definidos em regimento interno e ato próprio do Tribunal. (Incluído pela Lei Complementar nº 259, de 29/01/2013)
