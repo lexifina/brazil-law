@@ -1,0 +1,2 @@
+Dispõe sobre a regularização, administração, aforamento e alienação de bens imóveis de domínio da União, altera dispositivos dos Decretos-Leis nos 9.760, de 5 de setembro de 1946, e 2.398, de 21 de dezembro de 1987, regulamenta o § 2º do art. 49 do Ato das Disposições Constitucionais Transitórias, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:

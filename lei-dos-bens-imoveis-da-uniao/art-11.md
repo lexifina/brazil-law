@@ -1,0 +1,7 @@
+Art. 11. Caberá à SPU a incumbência de fiscalizar e zelar para que sejam mantidas a destinação e o interesse público, o uso e a integridade física dos imóveis pertencentes ao patrimônio da União, podendo, para tanto, por intermédio de seus técnicos credenciados, embargar serviços e obras, aplicar multas e demais sanções previstas em lei e, ainda, requisitar força policial federal e solicitar o necessário auxílio de força pública estadual.
+§ 1º Para fins do disposto neste artigo, quando necessário, a SPU poderá, na forma do regulamento, solicitar a cooperação de força militar federal.
+§ 2º A incumbência de que trata o presente artigo não implicará prejuízo para:
+I - as obrigações e responsabilidades previstas nos arts. 70 e 79, § 2º, do Decreto-Lei nº 9.760, de 1946;
+II - as atribuições dos demais órgãos federais, com área de atuação direta ou indiretamente relacionada, nos termos da legislação vigente, com o patrimônio da União.
+§ 3º As obrigações e prerrogativas previstas neste artigo poderão ser repassadas, no que couber, às entidades conveniadas ou contratadas na forma dos arts. 1º e 4º.
+§ 4º Constitui obrigação do Poder Público federal, estadual e municipal, observada a legislação específica vigente, zelar pela manutenção das áreas de preservação ambiental, das necessárias à proteção dos ecossistemas naturais e de uso comum do povo, independentemente da celebração de convênio para esse fim.

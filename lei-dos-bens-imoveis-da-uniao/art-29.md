@@ -1,0 +1,1 @@
+Art. 29. As condições de que tratam os arts. 12 a 16 e 17, § 3º, poderão, a critério da Administração, ser aplicadas, no que couber, na venda do domínio pleno de imóveis de propriedade da União situados em zonas não submetidas ao regime enfitêutico.
