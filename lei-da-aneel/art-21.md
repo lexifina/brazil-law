@@ -1,0 +1,3 @@
+Art. 21. Na execução das atividades complementares de regulação, controle e fiscalização dos serviços e instalações de energia elétrica, a unidade federativa observará as pertinentes normas legais e regulamentares federais.
+§ 1º As normas de regulação complementar baixadas pela unidade federativa deverão se harmonizar com as normas expedidas pela ANEEL.
+§ 2º É vedado à unidade federativa conveniada exigir de concessionária ou permissionária sob sua ação complementar de regulação, controle e fiscalização obrigação não exigida ou que resulte em encargo distinto do exigido de empresas congêneres, sem prévia autorização da ANEEL.
