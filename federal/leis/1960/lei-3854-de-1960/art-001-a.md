@@ -1,0 +1,1 @@
+Art. 1º - A Escola de Farmácia e Odontologia de Alfenas, a que se refere o Decreto número 22.632, de 10 de abril de 1933, passa a integrar o Ministério da Educação e Cultura - Diretoria do Ensino Superior, incluída na categoria constante do ítem I, do artigo 3º da Lei número 1.254, de 4 de dezembro de 1950.
