@@ -1,3 +1,3 @@
-Art. 11 - Compete à SEMA propor ao CONAMA normas e padrões para implantação, acompanhamento e fiscalização do licenciamento previsto no artigo anterior, além das que forem oriundas do próprio CONAMA.
-§ 1º - A fiscalização e o controle da aplicação de critérios, normas e padrões de qualidade ambiental serão exercidos pela SEMA, em caráter supletivo da atuação do órgão estadual e municipal competentes.
+Art. 11. Compete ao IBAMA propor ao CONAMA normas e padrões para implantação, acompanhamento e fiscalização do licenciamento previsto no artigo anterior, além das que forem oriundas do próprio CONAMA.
+§ 1º A fiscalização e o controle da aplicação de critérios, normas e padrões de qualidade ambiental serão exercidos pelo IBAMA, em caráter supletivo da atuação do órgão estadual e municipal competentes.
 § 2º - Inclui-se na competência da fiscalização e controle a análise de projetos de entidades, públicas ou privadas, objetivando a preservação ou a recuperação de recursos ambientais, afetados por processos de exploração predatórios ou poluidores.
