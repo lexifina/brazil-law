@@ -1,0 +1,1 @@
+Art. 2º - O benefício instituído por esta Lei, devido a partir do mês de junho de 1977, é intransferível o inacumulável com quaisquer rendimentos recebidos dos cofres públicos, inclusive pensão previdenciária, ressalvado o direito de opção, e extinguir-se-á com a morte do beneficiário.
