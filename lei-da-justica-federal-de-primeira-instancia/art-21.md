@@ -3,7 +3,7 @@ I - certidão que comprove ter mais de vinte e oito e menos de cinqüenta anos d
 II - prova de estar em dia com as obrigações concernentes ao serviço militar;
 III - título de eleitor e prova de ter cumprido seus deveres eleitorais;
 IV - diploma de bacharel em direito, devidamente registrado;
-V - certidão que comprove o exercício, por quatro anos, de advocacia ou de cargo para o qual se exija diploma de bacharel em direito;
+V - certidão que comprove o exercício, por 2 (dois) anos, de advocacia ou de cargo para o qual se exija o diploma de bacharel em Direito;
 VI - certidão negativa dos distribuidores criminais dos lugares em que haja residido nos últimos cinco anos;
 VII - fôlha corrida;
 VIII - quaisquer títulos que entenda devam ser apreciados.
