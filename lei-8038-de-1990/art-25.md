@@ -1,0 +1,4 @@
+Art. 25 - Salvo quando a causa tiver por fundamento matéria constitucional, compete ao Presidente do Superior Tribunal de Justiça, a requerimento do Procurador-Geral da República ou da pessoa jurídica de direito público interessada, e para evitar grave lesão à ordem, à saúde, à segurança e à economia pública, suspender, em despacho fundamentado, a execução de liminar ou de decisão concessiva de mandado de segurança, proferida, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal.
+§ 1º - O Presidente pode ouvir o impetrante, em cinco dias, e o Procurador-Geral quando não for o requerente, em igual prazo.
+§ 2º - Do despacho que conceder a suspensão caberá agravo regimental.
+§ 3º - A suspensão de segurança vigorará enquanto pender o recurso, ficando sem efeito, se a decisão concessiva for mantida pelo Superior Tribunal de Justiça ou transitar em julgado.
