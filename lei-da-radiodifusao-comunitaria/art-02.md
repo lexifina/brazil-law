@@ -1,2 +1,2 @@
 Art. 2º O Serviço de Radiodifusão Comunitária obedecerá ao disposto no art. 223 da Constituição, aos preceitos desta Lei e, no que couber, aos mandamentos da Lei nº 4.117, de 27 de agosto de 1962, e demais disposições legais.
-Parágrafo único. Autorizada a execução do serviço, o Poder Concedente expedirá licença de funcionamento, em caráter provisório, que perdurará até a apreciação do ato de outorga pelo Congresso Nacional.
+Parágrafo único. Autorizada a execução do serviço e, transcorrido o prazo previsto no art. 64, §§ 2º e 4º da Constituição, sem apreciação do Congresso Nacional, o Poder Concedente expedirá autorização de operação, em caráter provisório, que perdurará até a apreciação do ato de outorga pelo Congresso Nacional.
