@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 163, de 7 de junho de 2002
+Dispõe sobre o despacho aduaneiro de exportação e de importação, nas situações que especifica.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 6º da Lei nº 9.826, de 23 de agosto de 1999, com as alterações promovidas pelo art. 30 da Medida provisória nº 38, de 14 de maio de 2002, e no art. 39 da Portaria MF nº 204, de 22 de agosto de 1996, resolve:
