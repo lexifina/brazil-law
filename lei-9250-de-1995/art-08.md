@@ -2,8 +2,8 @@ Art. 8º A base de cálculo do imposto devido no ano-calendário será a diferen
 I - de todos os rendimentos percebidos durante o ano-calendário, exceto os isentos, os não-tributáveis, os tributáveis exclusivamente na fonte e os sujeitos à tributação definitiva;
 II - das deduções relativas:
 a) aos pagamentos efetuados, no ano-calendário, a médicos, dentistas, psicólogos, fisioterapeutas, fonoaudiólogos, terapeutas ocupacionais e hospitais, bem como as despesas com exames laboratoriais, serviços radiológicos, aparelhos ortopédicos e próteses ortopédicas e dentárias;
-b) a pagamentos efetuados a estabelecimentos de ensino relativamente à educação pré-escolar, de 1º, 2º e 3º graus, cursos de especialização ou profissionalizantes do contribuinte e de seus dependentes, até o limite anual individual de R$ 1.700,00 (um mil e setecentos reais);
-c) à quantia de R$ 1.080,00 (um mil e oitenta reais) por dependente;
+b) a pagamentos efetuados a estabelecimentos de ensino relativamente à educação pré-escolar, de 1º, 2º e 3º graus, creches, cursos de especialização ou profissionalizantes do contribuinte e de seus dependentes, até o limite anual individual de R$ 1.998,00 (mil, novecentos e noventa e oito reais);
+c) à quantia de R$ 1.272,00 (mil, duzentos e setenta e dois reais) por dependente;
 1.
 2.
 3.
