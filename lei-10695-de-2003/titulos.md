@@ -1,0 +1,1 @@
+Altera e acresce parágrafo ao art. 184 e dá nova redação ao art. 186 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, alterado pelas Leis nos 6.895, de 17 de dezembro de 1980, e 8.635, de 16 de março de 1993, revoga o art. 185 do Decreto-Lei nº 2.848, de 1940, e acrescenta dispositivos ao Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal.
