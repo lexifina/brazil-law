@@ -1,0 +1,2 @@
+Art. 11. Quem, de qualquer modo, inclusive por meio de pessoa jurídica, concorre para os crimes definidos nesta lei, incide nas penas a estes cominadas, na medida de sua culpabilidade.
+Parágrafo único. Quando a venda ao consumidor for efetuada por sistema de entrega ao consumo ou por intermédio de outro em que o preço ao consumidor é estabelecido ou sugerido pelo fabricante ou concedente, o ato por este praticado não alcança o distribuidor ou revendedor.

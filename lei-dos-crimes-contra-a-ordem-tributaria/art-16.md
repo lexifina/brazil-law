@@ -1,0 +1,1 @@
+Art. 16. Qualquer pessoa poderá provocar a iniciativa do Ministério Público nos crimes descritos nesta lei, fornecendo-lhe por escrito informações sobre o fato e a autoria, bem como indicando o tempo, o lugar e os elementos de convicção.
