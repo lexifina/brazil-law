@@ -1,0 +1,2 @@
+Art. 13. Subordinam-se tecnicamente à Secretaria do Tesouro Nacional os representantes do Tesouro Nacional nos conselhos fiscais, ou órgãos equivalentes das entidades da administração indireta, controladas direta ou indiretamente pela União.
+Parágrafo único. Os representantes do Tesouro Nacional nos conselhos fiscais deverão ser, preferencialmente, servidores integrantes da carreira Finanças e Controle que não estejam em exercício nas áreas de controle interno no ministério ou órgão equivalente ao qual a entidade esteja vinculada.

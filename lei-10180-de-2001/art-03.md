@@ -1,0 +1,1 @@
+Art. 3º O Sistema de Planejamento e de Orçamento Federal compreende as atividades de elaboração, acompanhamento e avaliação de planos, programas e orçamentos, e de realização de estudos e pesquisas sócio-econômicas.

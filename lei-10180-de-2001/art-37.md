@@ -1,0 +1,1 @@
+Art. 37. A documentação comprobatória da execução orçamentária, financeira e patrimonial das unidades da Administração Federal direta permanecerá na respectiva unidade, à disposição dos órgãos e das unidades de controle interno e externo, nas condições e nos prazos estabelecidos pelo órgão central do Sistema de Contabilidade Federal.

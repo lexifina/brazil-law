@@ -1,0 +1,6 @@
+Art. 29. É vedada a nomeação para o exercício de cargo, inclusive em comissão, no âmbito dos Sistemas de que trata esta Lei, de pessoas que tenham sido, nos últimos cinco anos:
+I - responsáveis por atos julgados irregulares por decisão definitiva do Tribunal de Contas da União, do tribunal de contas de Estado, do Distrito Federal ou de Município, ou ainda, por conselho de contas de Município;
+II - punidas, em decisão da qual não caiba recurso administrativo, em processo disciplinar por ato lesivo ao patrimônio público de qualquer esfera de governo;
+III - condenadas em processo criminal por prática de crimes contra a Administração Pública, capitulados nos Títulos II e XI da Parte Especial do Código Penal Brasileiro, na Lei nº 7.492, de 16 de junho de 1986, e na Lei nº 8.429, de 2 de junho de 1992.
+§ 1º As vedações estabelecidas neste artigo aplicam-se, também, às nomeações para cargos em comissão que impliquem gestão de dotações orçamentárias, de recursos financeiros ou de patrimônio, na Administração direta e indireta dos Poderes da União, bem como para as nomeações como membros de comissões de licitações.
+§ 2º Serão exonerados os servidores ocupantes de cargos em comissão que forem alcançados pelas hipóteses previstas nos incisos I, II e III deste artigo.
