@@ -1,0 +1,31 @@
+# Decreto-Lei nº 5.046, de 05/12/1942
+
+DECRETO-LEI NDECRETO-LEI Nusuariomiriam842002-05-06T09:19:00Z2002-05-08T08:02:00Z1000000.0000
+
+DECRETO-LEI N. 5.046 – DE 5 DE DEZEMBRO DE 1942
+
+Abre, ao Ministério da Justiça e Negócios Interiores, o crédito suplementar de Cr$ 20. 000,00 à verba que especifica
+
+O Presidente da República, usando da atribuição que lhe confere o artigo 180 da Constituição,
+
+decreta:
+
+Artigo único. Fica aberto o crédito suplementar de Cr$ 20.000,00 (vinte mil cruzeiros), à seguinte dotação do Anexo 18 – Ministério da Justiça e Negócios Interiores, do Orçamento Geral da República (decreto-lei n. 3. 960, de 19 de dezembro de 1941) :
+
+VERBA 2 – MATERIAL
+
+Consignação III – Diversas Despesas
+
+Subconsignação 42 – Telefones, telefonemas, telegramas,
+
+radiogramas e portes de correio
+
+24 – Imprensa Nacional ............................................................... Cr$ 20.000,00
+
+Rio de Janeiro, 5 de dezembro de 1942, 121º da Independência e 54º da República.
+
+Getulio Vargas.
+
+Alexandre Marcondes Filho.
+
+A. de Sousa Costa.
