@@ -1,0 +1,1 @@
+Art. 34. Cessada a intervenção, se não for extinta a concessão, a administração do serviço será devolvida à concessionária, precedida de prestação de contas pelo interventor, que responderá pelos atos praticados durante a sua gestão.
