@@ -1,0 +1,2 @@
+Altera o art. 16 da Medida Provisória nº 2.181-45, de 24 de agosto de 2001, que dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.
+Faço saber que o Presidente da República adotou a Medida Provisória nº 120, de 2003, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
