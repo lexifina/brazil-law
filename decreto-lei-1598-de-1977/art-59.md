@@ -1,5 +1,5 @@
 Art. 59 - A companhia, cujo capital com direito a voto pertença, em sua maioria, a pessoas residentes ou domiciliadas no exterior, poderá deduzir, para efeito de determinar o lucro real, os dividendos fixos de ações preferenciais de sua emissão, de que sejam titulares pessoas residentes ou domiciliadas no exterior, desde que:
-I - as ações tenham sido criadas mediante capitalização de financiamento ou empréstimo externo registrado, até 31 de dezembro de 1977, pelo Banco Central do Brasil, e o requerimento de conversão seja apresentado a esse órgão até 31 de dezembro de 1978;
+I - as ações tenham sido criadas mediante capitalização de financiamento ou empréstimo externo registrado, até 31 de dezembro de 1978, pelo Banco Central do Brasil, e o requerimento de conversão seja apresentado a esse órgão até 31 de dezembro de 1979;
 II - tenham sido previamente aprovados pelo Banco Central do Brasil:
 a) a conversão do empréstimo ou financiamento em capital social;
 b) o montante, a forma, o prazo e outras condições relativas aos dividendos fixos e ao resgate ou amortização das ações;
