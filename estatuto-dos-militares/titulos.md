@@ -86,7 +86,6 @@ Idades
 58 anos
 56 anos
 54 anos
-52 anos
 Idades
 Capitão-de-Mar-e-Guerra
 Idades
