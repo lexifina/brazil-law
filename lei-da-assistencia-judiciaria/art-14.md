@@ -1,2 +1,3 @@
-Art. 14. Os advogados indicados pela assistência ou nomeados pelo Juiz serão obrigados, salvo justo motivo, a critério do Juiz, a patrocinar as causas dos necessitados, sob pena de multa de Cr$ 200,00 (duzentos cruzeiros) a Cr$ 1.000,00 (mil cruzeiros).
-Parágrafo único - As multas previstas nêste artigo reverterão em proveito do advogado que assumir o patrocínio da causa.
+Art. 14. Os profissionais liberais designados para o desempenho do encargo de defensor ou de perito, conforme o caso, salvo justo motivo previsto em lei ou, na sua omissão, a critério da autoridade judiciária competente, são obrigados ao respectivo cumprimento, sob pena de multa de Cr$ 1.000,00 (mil cruzeiros) a Cr$ 10.000,00 (dez mil cruzeiros), sujeita ao reajustamento estabelecido na Lei nº 6.205, de 29 de abril de 1975, sem prejuízo de sanção disciplinar cabível.
+§ 1º Na falta de indicação pela assistência ou pela própria parte, o juiz solicitará a do órgão de classe respectivo.
+§ 2º A multa prevista neste artigo reverterá em benefício do profissional que assumir o encargo na causa.
