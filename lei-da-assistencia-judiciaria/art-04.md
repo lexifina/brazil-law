@@ -1,0 +1,3 @@
+Art. 4º A parte, que pretender gozar os benefícios da assistência judiciária, requererá ao Juiz competente lhes conceda, mencionando, na petição, o rendimento ou vencimento que percebe e os encargos próprios e os da família.
+§ 1º - A petição será instruída por um atestado de que conste ser o requerente necessitado, não podendo pagar as despesas do processo. Êste documento será expedido, isento de selos e emolumentos, pela autoridade policial ou pelo prefeito municipal.
+§ 2º - Nas capitais dos Estados e no Distrito Federal, o atestado da competência do Prefeito poderá ser expedido por autoridade expressamente designada pelo mesmo.
