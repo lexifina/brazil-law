@@ -1,0 +1,29 @@
+Artigo 9º, na 4ª linha
+Onde se lê: ... Ipesp, leia-se: ... IPESP.
+Disposições Transitórias
+Artigo 1º, § 1º, 1º, na 5º linha Onde se lê: ..., de vantagem a que ... leia-se: ..., de vantagem pessoal a que ...
+§ 2º, na 8º linha
+Onde se lê: ... correspondestes à ..., leia-se: ... correspondestes a ...
+§ 3º, na 5º linha Onde se lê: ... cinquenta ..., leia-se: ... cinquenta ...
+Artigo 2º, na 3ª linha
+Onde se lê: ... intestício ..., leia-se: ... interstício ...
+LEI COMPLEMENTAR N. 720, DE 22 DE JUNHO DE 1993
+Dispõe sobre a extensão do disposto no Plano Geral de Cargos, Vencimentos e Salários ao Quadro de Apoio Escolar e dá providências correlatas.
+Retificação
+Disposições Transitórias
+Artigo 1º, § 2º, na 8ª linha
+onde se lê: ... correspondentes á ... leia-se: ... correspondentes a ...
+(Leis Complementares 1º Página)
+LEI COMPLEMENTAR N. 720, DE 22 DE JUNHO DE 1993
+Dispõe sobre a extensão do disposto no Plano Geral de Cargos, Vencimentos e Salários ao Quadro de Apoio Escolar e dá providências correlatas
+Retificações do D.O. de 23-6-93
+Artigo 1° - na 2° linha
+onde se lê: ... Lei 7698, ...
+leia-se: ... Lei n.° 7698, ...
+Artigo 5° - na 1ª linha
+onde se lê: .... Lei 7698, ...
+leia-se: ... Lei n.° 7698, ...
+LEI COMPLEMENTAR N. 720, DE 22 DE JUNHO DE 1993
+Dispõe sobre a extensão do disposto no Plano Geral de Cargos, vencimentos e Salários ao Quadro de Apoio Escolar e dá providências correlatas.
+Retificação do D.O. de 23-6-93
+Leia-se como segue e não como foi publicado.

@@ -1,0 +1,3 @@
+Artigo 3º - Os cargos de Secretário de Escola continuarão a ser providos pelo prazo máximo de 2 (dois) anos, contados da data de publicação desta lei complementar, mediante nomeação.
+§ 1º - O servidor público estadual que vier a ser nomeado, em decorrência de aprovação em concurso público para cargo de Secretário de Escola, terá esse cargo enquadrado no mesmo grau em que se encontrava no cargo ou na função-atividade anteriormente ocupados.
+§ 2º - Fica vedada, a partir da data da publicação desta lei complementar, a abertura de concursos públicos para provimento de cargos de que trata o "caput" deste artigo.
