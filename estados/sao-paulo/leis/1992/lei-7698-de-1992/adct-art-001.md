@@ -1,0 +1,2 @@
+## Disposições Transitórias
+Artigo 1.º - Os atuais funcionários e servidores ocupantes de cargos e funções-atividades de Inspetor de Alunos e de Secretário de Escola, do Quadro da Secretaria da Educação, ficam com os respectivos cargos e funções-atividades enquadrados na Escala de Vencimentos - Quadro de Apoio Escolar, a que se refere o Artigo 7.º desta Lei, mantido o nível em que se encontravam em 31 de julho de 1991.

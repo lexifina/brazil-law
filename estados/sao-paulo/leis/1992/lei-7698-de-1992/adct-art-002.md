@@ -1,0 +1,1 @@
+Artigo 2.º - Para os atuais funcionários e servidores em exercício nas unidades escolares da Secretaria da Educação, a exigência de escolaridade prevista nos incisos I e II do Artigo 4.º desta Lei poderá ser substituída por prova de experiência de trabalho.
