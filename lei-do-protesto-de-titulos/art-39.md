@@ -1,0 +1,1 @@
+Art. 39. A reprodução de microfilme ou do processamento eletrônico da imagem, do título ou de qualquer documento arquivado no Tabelionato, quando autenticado pelo Tabelião de Protesto, por seu Substituto ou Escrevente autorizado, guarda o mesmo valor do original, independentemente de restauração judicial.

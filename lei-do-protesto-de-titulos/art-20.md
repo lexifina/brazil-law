@@ -1,0 +1,1 @@
+Art. 20. Esgotado o prazo previsto no art. 12, sem que tenham ocorrido as hipóteses dos Capítulos VII e VIII, o Tabelião lavrará e registrará o protesto, sendo o respectivo instrumento entregue ao apresentante.

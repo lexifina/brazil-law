@@ -1,0 +1,1 @@
+Art. 38. Os Tabeliães de Protesto de Títulos são civilmente responsáveis por todos os prejuízos que causarem, por culpa ou dolo, pessoalmente, pelos substitutos que designarem ou Escreventes que autorizarem, assegurado o direito de regresso.

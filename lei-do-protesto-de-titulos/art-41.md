@@ -1,0 +1,1 @@
+Art. 41. Para os serviços previstos nesta Lei os Tabeliães poderão adotar, independentemente de autorização, sistemas de computação, microfilmagem, gravação eletrônica de imagem e quaisquer outros meios de reprodução.

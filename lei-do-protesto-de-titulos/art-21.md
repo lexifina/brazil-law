@@ -1,0 +1,5 @@
+Art. 21. O protesto será tirado por falta de pagamento, de aceite ou de devolução.
+§ 1º O protesto por falta de aceite somente poderá ser efetuado antes do vencimento da obrigação e após o decurso do prazo legal para o aceite ou a devolução.
+§ 2º Após o vencimento, o protesto sempre será efetuado por falta de pagamento, vedada a recusa da lavratura e registro do protesto por motivo não previsto na lei cambial.
+§ 3º Quando o sacado retiver a letra de câmbio ou a duplicata enviada para aceite e não proceder à devolução dentro do prazo legal, o protesto poderá ser baseado na segunda via da letra de câmbio ou nas indicações da duplicata, que se limitarão a conter os mesmos requisitos lançados pelo sacador ao tempo da emissão da duplicata, vedada a exigência de qualquer formalidade não prevista na Lei que regula a emissão e circulação das duplicatas.
+§ 4º Os devedores, assim compreendidos os emitentes de notas promissórias e cheques, os sacados nas letras de câmbio e duplicatas, bem como os indicados pelo apresentante ou credor como responsáveis pelo cumprimento da obrigação, não poderão deixar de figurar no termo de lavratura e registro de protesto.
