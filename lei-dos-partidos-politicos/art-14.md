@@ -1,0 +1,1 @@
+Art. 14. Observadas as disposições constitucionais e as desta Lei, o partido é livre para fixar, em seu programa, seus objetivos políticos e para estabelecer, em seu estatuto, a sua estrutura interna, organização e funcionamento.
