@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 387, de 20 de janeiro de 2004
+Institui o Demonstrativo de Apuração de Contribuições Sociais (Dacon).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF no 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 16 da Lei no 9.779, de 19 de janeiro de 1999, no art. 57 da Medida Provisória no 2.158-35, de 24 de agosto de 2001, nos arts. 1º a 11 da Lei no 10.637, de 30 de dezembro de 2002, e nos arts. 1º a 16 da Lei no 10.833, de 29 de dezembro de 2003, resolve:
