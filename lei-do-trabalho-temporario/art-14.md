@@ -1,0 +1,1 @@
+Art. 14 - As empresas de trabalho temporário são obrigadas a fornecer às empresas tomadoras ou clientes, a seu pedido, comprovante da regularidade de sua situação com o Instituto Nacional de Previdência Social.

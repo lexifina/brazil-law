@@ -1,0 +1,1 @@
+Art. 13 - Constituem justa causa para rescisão do contrato do trabalhador temporário os atos e circunstâncias mencionados nos artigos 482 e 483, da Consolidação das Leis do Trabalho, ocorrentes entre o trabalhador e a empresa de trabalho temporário ou entre aquele e a empresa cliente onde estiver prestando serviço.
