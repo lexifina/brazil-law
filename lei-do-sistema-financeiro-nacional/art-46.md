@@ -1,0 +1,1 @@
+Art. 46. Ficam transferidas as atribuições legais e regulamentares do Ministério da Fazenda relativamente ao meio circulante inclusive as exercidas pela Caixa de Amortização para o Conselho Monetário Nacional, e (VETADO) para o Banco Central da República do Brasil.

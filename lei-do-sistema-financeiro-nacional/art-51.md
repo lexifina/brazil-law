@@ -1,0 +1,2 @@
+Art. 51. Ficam abolidas, após 3 (três) meses da data da vigência desta Lei, as exigências de "visto" em "pedidos de licença" para efeitos de exportação, excetuadas as referentes a armas, munições, entorpecentes, materiais estratégicos, objetos e obras de valor artístico, cultural ou histórico.
+Parágrafo único. Quando o interesse nacional exigir, o Conselho Monetário Nacional, criará o "visto" ou exigência equivalente.

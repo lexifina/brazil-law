@@ -1,0 +1,1 @@
+Art. 60. O valor equivalente aos recursos financeiros que, nos termos desta lei, passarem a responsabilidade do Banco Central da República do Brasil, e estejam, na data de sua vigência em poder do Baco do Brasil S. A., será neste escriturado em conta em nome do primeiro, considerando-se como suprimento de recursos, nos termos do § 1º, do artigo 19, desta lei.

@@ -1,0 +1,1 @@
+Art. 23. O Banco Nacional do Desenvolvimento Econômico é o principal instrumento de execução de política de investimentos do Governo Federal, nos termos das Leis números 1628, de 20/06/1952 e 2973, de 26/11/1956.

@@ -1,0 +1,1 @@
+Art. 20. O Banco do Brasil S. A. e o Banco Central da República do Brasil elaborarão, em conjunto, o programa global de aplicações e recursos do primeiro, para fins de inclusão nos orçamentos monetários de que trata o inciso III, do artigo 4º desta lei.

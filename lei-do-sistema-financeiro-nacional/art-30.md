@@ -1,0 +1,2 @@
+Art. 30. As instituições financeiras de direito privado, exceto as de investimento, só poderão participar de capital de quaisquer sociedades com prévia autorização do Banco Central da República do Brasil, solicitada justificadamente e concedida expressamente, ressalvados os casos de garantia de subscrição, nas condições que forem estabelecidas, em caráter geral, pelo Conselho Monetário Nacional.
+Parágrafo único (Vetado)

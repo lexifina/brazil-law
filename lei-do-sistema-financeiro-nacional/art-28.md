@@ -1,0 +1,1 @@
+Art. 28. Os aumentos de capital que não forem realizados em moeda corrente, poderão decorrer da incorporação de reservas, segundo normas expedidas pelo Conselho Monetário Nacional, e da reavaliação da parcela dos bens do ativo imobilizado, representado por imóveis de uso e instalações, aplicados no caso, como limite máximo, os índices fixados pelo Conselho Nacional de Economia.

@@ -1,0 +1,2 @@
+Art. 24. As instituições financeiras públicas não federais ficam sujeitas às disposições relativas às instituições financeiras privadas, assegurada a forma de constituição das existentes na data da publicação desta lei.
+Parágrafo único. As Caixas Econômicas Estaduais equiparam-se, no que couber, às Caixas Econômicas Federais, para os efeitos da legislação em vigor, estando isentas do recolhimento a que se refere o art. 4º, inciso XIV, e à taxa de fiscalização, mencionada no art. 16, desta lei.

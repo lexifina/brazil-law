@@ -1,0 +1,1 @@
+Art. 59. É mantida, no Banco do Brasil S.A., a Carteira de Comércio Exterior, criada nos termos da Lei nº 2.145, de 29 de dezembro de 1953, e regulamentada pelo Decreto nº 42.820, de 16 de dezembro de 1957, como órgão executor da política de comércio exterior, (VETADO)

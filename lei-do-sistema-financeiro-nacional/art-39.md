@@ -1,0 +1,1 @@
+Art. 39. Aplicam-se às instituições financeiras estrangeiras, em funcionamento ou que venham a se instalar no País, as disposições da presente lei, sem prejuízo das que se contém na legislação vigente.
