@@ -1,0 +1,4 @@
+Art. 3º As concessões administrativas regem-se por esta Lei, aplicando-se-lhes adicionalmente o disposto nos arts. 21, 23, 25 e 27 a 39 da Lei nº 8.987, de 13 de fevereiro de 1995, e no art. 31 da Lei nº 9.074, de 7 de julho de 1995. ()
+§ 1º As concessões patrocinadas regem-se por esta Lei, aplicando-se-lhes subsidiariamente o disposto na Lei nº 8.987, de 13 de fevereiro de 1995, e nas leis que lhe são correlatas. ()
+§ 2º As concessões comuns continuam regidas pela Lei nº 8.987, de 13 de fevereiro de 1995, e pelas leis que lhe são correlatas, não se lhes aplicando o disposto nesta Lei.
+§ 3º Continuam regidos exclusivamente pela Lei nº 8.666, de 21 de junho de 1993, e pelas leis que lhe são correlatas os contratos administrativos que não caracterizem concessão comum, patrocinada ou administrativa.
