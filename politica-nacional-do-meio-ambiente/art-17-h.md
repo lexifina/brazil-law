@@ -1,4 +1,6 @@
-Art. 17-H. A TFA não recolhida até a data do vencimento da obrigação será cobrada com os seguintes acréscimos:
-I - juros de mora, contados do mês subseqüente ao do vencimento, à razão de 1% a.m. (um por cento ao mês), calculados na forma da legislação aplicável aos tributos federais;
-II - multa de mora de 0,33% (trinta e três centésimos por cento) ao dia de atraso, até o limite máximo de 20% (vinte por cento)
-Parágrafo único. Os débitos relativos à TFA poderão ser parcelados, a juízo do Ibama, de acordo com os critérios fixados em portaria do seu Presidente.
+Art. 17-H. A TCFA não recolhida nos prazos e nas condições estabelecidas no artigo anterior será cobrada com os seguintes acréscimos:
+I - juros de mora, na via administrativa ou judicial, contados do mês seguinte ao do vencimento, à razão de um por cento;
+II - multa de mora de vinte por cento, reduzida a dez por cento se o pagamento for efetuado até o último dia útil do mês subseqüente ao do vencimento;
+III - encargo de vinte por cento, substitutivo da condenação do devedor em honorários de advogado, calculado sobre o total do débito inscrito como Dívida Ativa, reduzido para dez por cento se o pagamento for efetuado antes do ajuizamento da execução.
+§ 1º-A. Os juros de mora não incidem sobre o valor da multa de mora.
+§ 1º Os débitos relativos à TCFA poderão ser parcelados de acordo com os critérios fixados na legislação tributária, conforme dispuser o regulamento desta Lei.

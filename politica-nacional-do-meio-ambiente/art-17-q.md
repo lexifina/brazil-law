@@ -1,0 +1,1 @@
+Art. 17-Q. É o Ibama autorizado a celebrar convênios com os Estados, os Municípios e o Distrito Federal para desempenharem atividades de fiscalização ambiental, podendo repassar-lhes parcela da receita obtida com a TCFA.
