@@ -1,0 +1,1 @@
+Altera dispositivos do Código Penal Militar (Decreto-lei nº 1.001, de 21 de outubro de 1969) e do Código de Processo Penal Militar (Decreto-lei nº 1.002, de 21 de outubro de 1969) e dá outras providências.
