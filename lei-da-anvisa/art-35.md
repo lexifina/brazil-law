@@ -1,0 +1,1 @@
+Art. 35. É vedado à ANVS contratar pessoal com vínculo empregatício ou contratual junto a entidades sujeitas à ação da Vigilância Sanitária, bem como os respectivos proprietários ou responsáveis, ressalvada a participação em comissões de trabalho criadas com fim específico, duração determinada e não integrantes da sua estrutura organizacional.

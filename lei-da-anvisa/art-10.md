@@ -1,0 +1,2 @@
+Art. 10. A gerência e a administração da Agência serão exercidas por uma Diretoria Colegiada, composta por até cinco membros, sendo um deles o seu Diretor-Presidente.
+Parágrafo único. Os Diretores serão brasileiros, indicados e nomeados pelo Presidente da República após aprovação prévia do Senado Federal nos termos do art. 52, III, "f", da Constituição Federal, para cumprimento de mandato de três anos, admitida uma única recondução.

@@ -1,0 +1,1 @@
+Art. 38. Em prazo não superior a cinco anos, o exercício da fiscalização de produtos, serviços, produtores, distribuidores e comerciantes, inseridos no Sistema Nacional de Vigilância Sanitária, poderá ser realizado por servidor requisitado ou pertencente ao quadro da ANVS, mediante designação da Diretoria, conforme regulamento.
