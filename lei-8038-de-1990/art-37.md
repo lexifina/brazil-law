@@ -1,0 +1,1 @@
+Art. 37 - Os recursos mencionados no artigo anterior serão interpostos para o Superior Tribunal de Justiça, aplicando-se-lhes, quanto aos requisitos de admissibilidade e ao procedimento, o disposto no Código de Processo Civil.

@@ -1,0 +1,1 @@
+Art. 30 - O recurso ordinário para o Superior Tribunal de Justiça, das decisões denegatórias de Habeas Corpus, proferidas pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, será interposto no prazo de cinco dias, com as razões do pedido de reforma.
