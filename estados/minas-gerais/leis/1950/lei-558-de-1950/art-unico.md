@@ -1,0 +1,9 @@
+Artigo único - Fica revogado o artigo 2º da Lei nº 341, de 28 de dezembro de 1948, entrando esta lei em vigor na data de sua publicação.
+
+Mando, portanto, a todas as autoridades, a quem o conhecimento e execução desta lei pertencer, que a cumpram e façam cumprir tão inteiramente como nela se contém.
+
+Dada no Palácio da Liberdade, Belo Horizonte, 17 de maio de 1950.
+
+MILTON SOARES CAMPOS
+
+José de Magalhães Pinto
