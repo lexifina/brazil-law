@@ -1,0 +1,1 @@
+Art. 76. Em qualquer hipótese de procedimento judicial instaurado por violação dos preceitos desta Lei, a responsabilidade do pagamento das custas processuais e honorários de advogado será da emprêsa.

@@ -1,0 +1,1 @@
+Art. 48. Em tudo o que não é regulado por norma especial desta Lei, o Código Penal e o Código de Processo Penal se aplicam à responsabilidade penal, à ação penal e ao processo e julgamento dos crimes de que trata esta Lei.

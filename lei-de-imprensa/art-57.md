@@ -1,0 +1,7 @@
+Art. 57. A petição inicial da ação para haver reparação de dano moral deverá ser instruída com o exemplar do jornal ou periódico que tiver publicado o escrito ou notícia, ou com a notificação feita, nos têrmos do art. 53, § 3º, à emprêsa de radiodifusão, e deverá desde logo indicar as provas e as diligências que o autor julgar necessárias, arrolar testemunhas e ser acompanhada da prova documental em que se fundar o pedido.
+§ 1º A petição inicial será apresentada em duas vias. Com a primeira e os documentos que a acompanharem será formado processo, e a citação inicial será feita mediante a entrega da segunda via.
+§ 2º O juiz despachará a petição inicial no prazo de 24 horas, e o oficial terá igual prazo para certificar o cumprimento do mandato de citação.
+§ 3º Na contestação, apresentada no prazo de 5 (cinco) dias, o réu exercerá a exceção da verdade, se fôr o caso, indicará as provas e diligências que julgar necessárias e arrolará as testemunhas. A contestação será acompanhada da prova documental que pretende produzir.
+§ 4º Contestada a ação, o processo terá o rito previsto no art. 685 do Código de Processo Civil.
+§ 5º Na ação para haver reparação de dano moral sòmente será admitada reconvenção de igual ação.
+§ 6º Da sentença do juiz caberá agravo de petição, que sòmente será admitido mediante comprovação do depósito, pelo agravante, de quantia igual à importância total da condenação. Com a petição de agravo, o agravante pedirá a expedição da guia para o depósito, sendo o recurso julgado deserto se no prazo do agravo não fôr comprovado o depósito.

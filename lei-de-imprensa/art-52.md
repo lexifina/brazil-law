@@ -1,0 +1,1 @@
+Art. 52. A responsabilidade civil da emprêsa que explora o meio de informação ou divulgação é limitada a dez vêzes as importâncias referidas no artigo anterior, se resulta de ato culposo de algumas das pessoas referidas no art. 50.

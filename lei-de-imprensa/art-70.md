@@ -1,0 +1,1 @@
+Art. 70. Os jornais e outros periódicos são obrigados a enviar, no prazo de cinco dias, exemplares de suas edições à Biblioteca Nacional e à oficial dos Estados, Territórios e Distrito Federal. As bibliotecas ficam obrigadas a conservar os exemplares que receberem.
