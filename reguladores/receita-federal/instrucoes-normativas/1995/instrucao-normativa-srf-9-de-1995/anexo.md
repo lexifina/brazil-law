@@ -1,0 +1,3 @@
+ANEXO
+ESPAÇO RESERVADO À AUTORIDADE DA SRF 1) Reconheço o direito 2) INDEFIRO o pleito tendo em à isenção/suspensão do vista que o(a) requerente não IPI prevista no art. 1º, preenche os requisitos exigidos inciso IV, da Medida para a fruição do referido be- Provisória nº __________ nefício. ou da Lei nº____ e auto- rizo a aquisição do veí- culo com o referido be- nefício fiscal. DRF/IRF Classe "A" em Razões: Data: Assinatura do Delegado DRF/IRF Classe "A" em ou Inspetor ou de quem tenha recebido expressa delegação de competência. Data: Matrícula nº Assinatura do Delegado ou Inspe- tor de quem tenha recebido ex- pressa delegação de competência. Matrícula nº
+[arquivo anexo: 1.htm]
