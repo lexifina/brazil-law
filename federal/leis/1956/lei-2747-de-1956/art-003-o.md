@@ -1,0 +1,1 @@
+Art. 3º - O pagamento do frete a que se refere o artigo anterior será feito pela Diretoria Regional dos Correios e Telégrafos a que estiver subordinada a repartição expedidora, para o qual fica o Poder Executivo autorizado a abrir, no corrente exercício, ao Ministério da Viação e Obras Públicas, o crédito especial de Cr$2.000.000,00 (dois milhões de cruzeiros).
