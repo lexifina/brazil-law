@@ -1,0 +1,1 @@
+Art. 84. Os discentes da educação superior poderão ser aproveitados em tarefas de ensino e pesquisa pelas respectivas instituições, exercendo funções de monitoria, de acordo com seu rendimento e seu plano de estudos.
