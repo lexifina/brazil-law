@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 296, de 6 de fevereiro de 2003
+Dispõe sobre o regime de suspensão do Imposto sobre Produtos Industrializados (IPI) nos casos que menciona.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições que lhe conferem o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e o art. 66 da Lei nº 10.637, de 30 de dezembro de 2002, e tendo em vista o disposto no art. 5º da Lei nº 9.826, de 23 de agosto de 1999, com a redação dada pelo art. 4º da Lei nº 10.485, de 3 de julho de 2002, no art. 29 da Lei nº 10.637, de 2002, resolve:
