@@ -1,0 +1,1 @@
+Art. 16. Aplica-se o disposto nos arts. 13 e 14 às contribuições arrecadadas pelo Instituto Nacional do Seguro Social (INSS), observada regulamentação editada por esse órgão, em especial quanto aos procedimentos no âmbito de seu contencioso administrativo.
