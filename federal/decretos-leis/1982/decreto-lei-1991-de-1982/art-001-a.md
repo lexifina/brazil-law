@@ -1,0 +1,2 @@
+Art. 1º - A gratificação especial de que trata o artigo 7º, § 3º, da Lei nº 4.341, de 13 de junho de 1964, sobre a qual incidirá o desconto previdenciário, será incorporada aos proventos dos funcionários que a estejam percebendo na data da aposentadoria.
+Parágrafo único - Nas aposentadorias com proventos proporcionais ao tempo de serviço, a gratificação a incorporar-se reduzir-se-á na mesma proporção do vencimento.
