@@ -1,0 +1,2 @@
+Art. 11 - Dentro de 120 (cento e vinte) dias, a contar da vigência desta Lei, a Caixa Econômica Federal submeterá à aprovação do Conselho Monetário Nacional o regulamento do Fundo, fixando as normas para o recolhimento e a distribuição dos recursos, assim como as diretrizes e os critérios para a sua aplicação.
+Parágrafo único - O Conselho Monetário Nacional pronunciar-se-á, no prazo de 60 (sessenta) dias, a contar do seu recebimento, sobre o projeto de regulamento do Fundo.
