@@ -1,0 +1,2 @@
+Art. 37. No caso de perda ou extravio do certificado das ações endossáveis, cabe ao respectivo titular, ou a seus sucessores, a ação de recuperação prevista nos arts. 336 e 341 do Código do Processo Civil, para obter a expedição de nôvo certificado em substituição ao extraviado.
+Parágrafo único. Até que os certificados sejam recuperados ou substituídos, as transferências serão averbadas sob condição e a sociedade emitente poderá exigir do titular ou cessionário, para o pagamento dos dividendos, garantia de sua eventual restituição, mediante fiança idônea.
