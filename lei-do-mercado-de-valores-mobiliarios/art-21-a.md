@@ -1,0 +1,1 @@
+Art. 21-A. A Comissão de Valores Mobiliários poderá expedir normas aplicáveis à natureza das informações mínimas e à periodicidade de sua apresentação por qualquer pessoa que tenha acesso a informação relevante. (Artigo
