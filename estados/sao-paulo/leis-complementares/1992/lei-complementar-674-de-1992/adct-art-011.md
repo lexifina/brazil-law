@@ -1,0 +1,3 @@
+Artigo 11 - Quando forem criados os cargos previstos nos incisos I, VII, VIII, IX, X, XI e XII do artigo 4º desta lei complementar e indicadas as unidades a que se destinam, os atuais cargos de comando das mencionadas unidades somente poderão vir a ser classificados em qualquer outra unidade, após a fixação dos padrões de lotação de que trata o artigo 18 da mesma lei complementar.
+§ 1º - O disposto neste artigo aplica-se aos cargos a que alude o § 29 do artigo anterior, na hipótese nele prevista.
+§ 2º - Serão automaticamente extintas as funções de serviço público retribuídas nos termos do artigo 28 da Lei nº 10.168, de 10 de julho de 1968, quando da criação e destinação dos cargos previstos nos incisos I, VII, VIII, IX, X, XI e XII do artigo 4º desta lei complementar.

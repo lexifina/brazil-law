@@ -1,0 +1,4 @@
+Artigo 12 - Excetuando-se os pagamentos relativos a vencimentos ou salários, as demais importâncias concedidas, a qualquer título e sob qualquer fundamento, em decorrência dos Convênios SUDS-SP, celebrados entre o Estado de São Paulo e a União, cessam em 29 de fevereiro de 1992.
+§ 1º - O disposto no "Caput" deste artigo aplica-se, também, às importâncias concedidas sob o título de "dificuldade de acesso" ou "produtividade" para atendimento de situações emergenciais.
+§ 2º - O pagamento das importâncias referidas neste artigo fica mantido até a percepção das gratificações ora instituídas.
+§ 3º - Dos pagamentos correspondentes às gratificações ora instituídas, a serem efetuados nos termos desta lei complementar, deduzir-se-ão as importâncias referidas no "caput" deste artigo, percebidas a partir de 1º de março de 1992.

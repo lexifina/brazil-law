@@ -1,0 +1,2 @@
+Artigo 6º - Até a expedição do decreto a que se refere o § 6º do artigo 11 desta lei complementar, fica mantida a atual identificação das funções de que trata o mesmo artigo.
+Parágrafo único - Expedida a norma regulamentar a que se refere o "caput" deste artigo, ficam revogados os decretos, resoluções e atos equivalentes que procederam à identificação, caracterização e classificação das funções "pró labore" das classes de Cirurgião-Dentista, Médico e Médico Sanitarista.

@@ -1,0 +1,1 @@
+Artigo 8º - Ficam dispensados do requisito contido no artigo 17 desta lei complementar os atuais servidores que tiverem, por ocasião do enquadramento de que trata o artigo 2º destas disposições transitórias, a denominação dos cargos ou funções-atividades de que são ocupantes alterada na forma indicada nos Anexos I e II que fazem parte integrante desta lei complementar.

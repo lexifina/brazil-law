@@ -1,0 +1,4 @@
+Artigo 14 - Para os servidores não alcançados pelo Sistema de Gratificações da Saúde - SGS, as quantias anteriormente recebidas, na conformidade do "caput" do artigo 12 destas disposições transitórias, ficam mantidas com os valores referentes ao mês de fevereiro de 1992.
+§ 1º - A importância pecuniária a que se refere o "caput" deste artigo será paga em código distinto como parcela suplementar nominal, não sofrendo revalorização de qualquer natureza.
+§ 2º - Na hipótese dos servidores de que trata o "caput" deste artigo virem a fazer jus a quaisquer das gratificações ora instituídas, o valor da parcela referida no parágrafo anterior será absorvida nos valores das mencionadas gratificações.
+§ 3º - Em decorrência do disposto no parágrafo anterior, se a somatória dos valores das gratificações a que o servidor fizer jus ainda resultar em quantia inferior ao valor da parcela suplementar nominal de que trata o § 1º, à diferença aplica-se o disposto no citado parágrafo.
