@@ -25,4 +25,4 @@ b) o art. 30 da Lei nº 4.506, de 30 de novembro de 1964;
 c) o § 1º do art. 260, da Lei nº 8.069, de 13 de julho de 1990;
 d) os §§ 1º a 4º do art. 40 da Lei nº 8.672, de 6 de julho de 1993;
 e) o art. 10 da Lei nº 9.477, de 1997;
-f) o art. 3º da Lei nº 7.418, de 16 de dezembro de 1985 (Vale-Transporte).
+f) o art. 3º da Lei nº 7.418, de 16 de dezembro de 1985, renumerado pelo art. 1º da Lei nº 7.619, de 30 de setembro de 1987.
