@@ -1,0 +1,3 @@
+Art. 53. A Diretoria da ANTT será composta por um Diretor-Geral e quatro Diretores e a Diretoria da ANTAQ será composta por um Diretor-Geral e dois Diretores.
+§ 1º Os membros da Diretoria serão brasileiros, de reputação ilibada, formação universitária e elevado conceito no campo de especialidade dos cargos a serem exercidos, e serão nomeados pelo Presidente da República, após aprovação pelo Senado Federal, nos termos da alínea f do inciso III do art. 52 da Constituição Federal.
+§ 2º O Diretor-Geral será nomeado pelo Presidente da República dentre os integrantes da Diretoria, e investido na função pelo prazo fixado no ato de nomeação.
