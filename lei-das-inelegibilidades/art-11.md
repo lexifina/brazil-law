@@ -1,0 +1,3 @@
+Art. 11. Na sessão do julgamento, que poderá se realizar em até 2 (duas) reuniões seguidas, feito o relatório, facultada a palavra às partes e ouvido o Procurador Regional, proferirá o Relator o seu voto e serão tomados os dos demais Juízes.
+§ 1º Proclamado o resultado, o Tribunal se reunirá para lavratura do acórdão, no qual serão indicados o direito, os fatos e as circunstâncias com base nos fundamentos do Relator ou do voto vencedor.
+§ 2º Terminada a sessão, far-se-á a leitura e a publicação do acórdão, passando a correr dessa data o prazo de 3 (três) dias, para a interposição de recurso para o Tribunal Superior Eleitoral, em petição fundamentada.
