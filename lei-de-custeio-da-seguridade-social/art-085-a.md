@@ -1,0 +1,1 @@
+Art. 85-A. Os tratados, convenções e outros acordos internacionais de que Estado estrangeiro ou organismo internacional e o Brasil sejam partes, e que versem sobre matéria previdenciária, serão interpretados como lei especial.

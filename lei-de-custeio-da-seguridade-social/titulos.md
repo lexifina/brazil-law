@@ -25,7 +25,7 @@ DA CONTRIBUIÇÃO DO SEGURADO
 Seção I
 Da Contribuição dos Segurados Empregado, Empregado Doméstico e Trabalhador Avulso
 Seção II
-Da Contribuição dos Segurados Trabalhador Autônomo, Empresário e Facultativo
+Da Contribuição dos Segurados Contribuinte Individual e Facultativo.
 CAPÍTULO IV
 DA CONTRIBUIÇÃO DA EMPRESA
 CAPÍTULO V
