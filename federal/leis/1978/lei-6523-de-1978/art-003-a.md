@@ -1,0 +1,1 @@
+Art. 3º - A doação efetivar-se-á mediante contrato, a ser lavrado em livro próprio do Serviço do Patrimônio da união, tornando-se nula, sem direitos a qualquer indenização e com a reversão do terreno, se a este for dada aplicação diversa da prevista no art. 2º desta Lei, ou se ocorrer inadimplemento de cláusula contratual.
