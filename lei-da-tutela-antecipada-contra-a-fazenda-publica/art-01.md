@@ -1,0 +1,1 @@
+Art. 1º Aplica-se à tutela antecipada prevista nos arts. 273 e 461 do Código de Processo Civil o disposto nos arts. 5º e seu parágrafo único e 7º da Lei nº 4.348, de 26 de junho de 1964, no art. 1º e seu § 4º da Lei nº 5.021, de 9 de junho de 1966, e nos arts. 1º, 3º e 4º da Lei nº 8.437, de 30 de junho de 1992.
