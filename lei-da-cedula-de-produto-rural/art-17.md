@@ -1,0 +1,1 @@
+Art. 17. Pratica crime de estelionato aquele que fizer declarações falsas ou inexatas acerca de bens oferecidos em garantia da CPR, inclusive omitir declaração de já estarem eles sujeitos a outros ônus ou responsabilidade de qualquer espécie, até mesmo de natureza fiscal.

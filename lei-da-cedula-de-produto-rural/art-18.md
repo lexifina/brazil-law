@@ -1,0 +1,1 @@
+Art. 18. Os bens vinculados à CPR não serão penhorados ou seqüestrados por outras dívidas do emitente ou do terceiro prestador da garantia real, cumprindo a qualquer deles denunciar a existência da cédula às autoridades incumbidas da diligência, ou a quem a determinou, sob pena de responderem pelos prejuízos resultantes de sua omissão.
