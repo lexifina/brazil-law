@@ -1,0 +1,4 @@
+Art. 524 - O agravo de instrumento será dirigido diretamente ao tribunal competente, através de petição com os seguintes requisitos:
+I - a exposição do fato e do direito;
+II - as razões do pedido de reforma da decisão;
+III - o nome e o endereço completo dos advogados, constantes do processo.
