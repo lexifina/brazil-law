@@ -4,7 +4,7 @@ Art. 24. O contribuinte submetido ao disposto no artigo anterior poderá optar p
 § 3º Resultando fração na apuração do número de BTN, considerar-se-ão as duas primeiras casas decimais, desprezando-se as outras.
 § 4º A soma das diferenças, em BTN, apuradas em cada um dos meses do ano, corresponderá ao imposto a pagar.
 § 5º O imposto a pagar poderá ser recolhido em até seis quotas iguais, mensais e sucessivas, observado o seguinte:
-a) nenhuma quota será inferior a trinta e cinco BTN e o imposto do valor inferior a setenta BTN será pago de uma só vez;
+a) nenhuma quota será inferior a trinta e cinco BTN e o imposto de valor inferior a setenta BTN será pago de uma só vez;
 b) a primeira quota ou quota única será paga no mês de abril do ano subseqüente ao da percepção dos rendimentos;
 c) as quotas vencerão no último dia útil de cada mês;
 d) fica facultado ao contribuinte antecipar, total ou parcialmente, o pagamento do imposto ou das quotas.
