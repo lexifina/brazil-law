@@ -1,0 +1,1 @@
+Art. 530-D. Subseqüente à apreensão, será realizada, por perito oficial, ou, na falta deste, por pessoa tecnicamente habilitada, perícia sobre todos os bens apreendidos e elaborado o laudo que deverá integrar o inquérito policial ou o processo.
