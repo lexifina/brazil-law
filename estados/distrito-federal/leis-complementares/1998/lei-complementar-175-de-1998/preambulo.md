@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 175, DE 31 DE DEZEMBRO DE 1998
+(Autor do Projeto: Deputado Distrital Edimar Pireneus)
+Desafeta área que menciona na Região Administrativa de Brazlândia - RA IV.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
