@@ -1,0 +1,9 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+LEI Nº 2625 de 26/12/2000
+
+Estima a Receita e Fixa a Despesa do Estado para o exercício financeiro de 2001.
+
+CAPÍTULO I DISPOSIÇÃO PRELIMINAR
