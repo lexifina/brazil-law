@@ -1,0 +1,1 @@
+Art. 37. O imposto a que se refere o art. 36 desta lei será convertido em número de OTN, pelo valor desta no mês de encerramento do período-base e deverá ser pago até o último dia útil do quarto mês subseqüente ao do encerramento do período-base.
