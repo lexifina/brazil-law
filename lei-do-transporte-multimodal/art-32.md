@@ -1,0 +1,5 @@
+Art. 32. O Poder Executivo regulamentará a cobertura securitária do transporte multimodal e expedirá os atos necessários a execução desta Lei no prazo de cento e oitenta dias, contados da data de sua publicação.
+§ 1º Enquanto não for regulamentado o disposto no § 3º do art. 17, será observado o limite de 666,67 DES (seiscentos e sessenta e seis Direitos Especiais de Saque e sessenta e sete centésimos) por volume ou unidade, ou de 2,00 DES (dois Direitos Especiais de Saque) por quilograma de peso bruto das mercadorias danificadas, avariadas ou extraviadas, prevalecendo a quantia que for maior.
+§ 2º Para fins de aplicação dos limites estabelecidos no parágrafo anterior, levar-se-á em conta cada volume ou unidade de mercadoria declarada como conteúdo da unidade de carga.
+§ 3º Se no Conhecimento de Transporte Multimodal for declarado que a unidade de carga foi carregada com mais de um volume ou unidade de mercadoria, os limites estabelecidos no parágrafo anterior serão aplicados a cada volume ou unidade declarada.
+§ 4º Se for omitida essa menção, todas as mercadorias contidas na unidade de carga serão consideradas como uma só unidade de carga transportada.

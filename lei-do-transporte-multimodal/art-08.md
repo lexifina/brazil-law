@@ -1,0 +1,1 @@
+Art. 8º O Conhecimento de Transporte Multimodal de Cargas evidencia o contrato de transporte multimodal e rege toda a operação de transporte desde o recebimento da carga até a sua entrega no destino, podendo ser negociável ou não negociável, a critério do expedidor.

@@ -1,0 +1,1 @@
+Art. 4º O Ministério dos Transportes é o órgão responsável pela política de Transporte Multimodal de Cargas nos segmentos nacional e internacional, ressalvada a legislação vigente e os acordos, tratados e convenções internacionais.

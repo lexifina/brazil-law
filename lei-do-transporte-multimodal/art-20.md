@@ -1,0 +1,1 @@
+Art. 20. O Operador de Transporte Multimodal não poderá valer-se de qualquer limitação de responsabilidade se for provado que a perda, dano ou atraso na entrega decorreram de ação ou omissão dolosa ou culposa a ele imputável.
