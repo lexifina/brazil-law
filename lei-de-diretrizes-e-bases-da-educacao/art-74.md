@@ -1,0 +1,2 @@
+Art. 74. A União, em colaboração com os Estados, o Distrito Federal e os Municípios, estabelecerá padrão mínimo de oportunidades educacionais para o ensino fundamental, baseado no cálculo do custo mínimo por aluno, capaz de assegurar ensino de qualidade.
+Parágrafo único. O custo mínimo de que trata este artigo será calculado pela União ao final de cada ano, com validade para o ano subseqüente, considerando variações regionais no custo dos insumos e as diversas modalidades de ensino.

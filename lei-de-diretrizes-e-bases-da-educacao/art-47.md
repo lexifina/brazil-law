@@ -1,0 +1,5 @@
+Art. 47. Na educação superior, o ano letivo regular, independente do ano civil, tem, no mínimo, duzentos dias de trabalho acadêmico efetivo, excluído o tempo reservado aos exames finais, quando houver.
+§ 1º As instituições informarão aos interessados, antes de cada período letivo, os programas dos cursos e demais componentes curriculares, sua duração, requisitos, qualificação dos professores, recursos disponíveis e critérios de avaliação, obrigando-se a cumprir as respectivas condições.
+§ 2º Os alunos que tenham extraordinário aproveitamento nos estudos, demonstrado por meio de provas e outros instrumentos de avaliação específicos, aplicados por banca examinadora especial, poderão ter abreviada a duração dos seus cursos, de acordo com as normas dos sistemas de ensino.
+§ 3º É obrigatória a freqüência de alunos e professores, salvo nos programas de educação a distância.
+§ 4º As instituições de educação superior oferecerão, no período noturno, cursos de graduação nos mesmos padrões de qualidade mantidos no período diurno, sendo obrigatória a oferta noturna nas instituições públicas, garantida a necessária previsão orçamentária.
