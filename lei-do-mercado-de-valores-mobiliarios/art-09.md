@@ -10,6 +10,7 @@ g) de outras pessoas quaisquer, naturais ou jurídicas, que participem do mercad
 II - intimar as pessoas referidas no inciso anterior a prestar informações ou esclarecimentos, sob pena de multa;
 III - requisitar informações de qualquer órgão público, autarquia ou empresa pública;
 IV - determinar às companhias abertas que republiquem, com correções ou aditamentos, demonstrações financeiras, relatórios ou informações divulgadas;
+V - apurar, mediante inquérito administrativo, atos ilegais e práticas não eqüitativas de administradores, membros do conselho fiscal e acionistas de companhias abertas, dos intermediários e dos demais participantes do mercado;
 VI - aplicar aos autores das infrações indicadas no inciso anterior as penalidades previstas no Art. 11, sem prejuízo da responsabilidade civil ou penal.
 § 1º Com o fim de prevenir ou corrigir situações anormais do mercado, como tais conceituadas pelo Conselho Monetário Nacional, a Comissão poderá:
 I - suspender a negociação de determinado valor mobiliário ou decretar o recesso de bolsa de valores;
