@@ -1,0 +1,2 @@
+Altera a redação do art. 3º da Lei nº 9.311, de 24 de outubro de 1996, para isentar de Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - CPMF os beneficiários de privilégios e imunidades diplomáticas e consulares.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
