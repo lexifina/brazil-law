@@ -1,1 +1,1 @@
-Art. 18. A desapropriação de edificações ou conjuntos de edificações abrangerá sempre a sua totalidade, com todas as suas dependências, indenizando-se os proprietários das unidades expropriadas.
+Art. 18. A aquisição parcial de uma edificação, ou de um conjunto de edificações, ainda que por fôrça de desapropriação, importará no ingresso do adquirente no condomínio, ficando sujeito às disposições desta lei, bem assim às da convenção do condomínio e do regulamento interno.
