@@ -6,4 +6,3 @@ II - dez centésimos por cento ao custeio da previdência social;
 III - oito centésimos por cento ao Fundo de Combate e Erradicação da Pobreza, de que tratam os arts. 80 e 81 deste Ato das Disposições Constitucionais Transitórias.
 § 3º A alíquota da contribuição de que trata este artigo será de:
 I - trinta e oito centésimos por cento, nos exercícios financeiros de 2002 e 2003;
-II - oito centésimos por cento, no exercício financeiro de 2004, quando será integralmente destinada ao Fundo de Combate e Erradicação da Pobreza, de que tratam os arts. 80 e 81 deste Ato das Disposições Constitucionais Transitórias.
