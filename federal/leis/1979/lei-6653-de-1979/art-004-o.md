@@ -1,0 +1,2 @@
+Art. 4º - O preenchimento dos cargos especificados nos artigos 2º e 3º será feito na forma da legislação em vigor.
+Parágrafo único - A fixação do número de cargos efetivos por classe, com as correspondentes referências, será feita por meio de ato da presidência do Superior Tribunal Militar, observada a lotação aprovada e percentuais aplicáveis, de acordo com as normas legais e regulamentares pertinentes ao sistema de classificação de cargos, vigente na área do Poder Executivo.
