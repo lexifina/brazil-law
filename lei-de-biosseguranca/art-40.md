@@ -1,0 +1,1 @@
+Art. 40. Os alimentos e ingredientes alimentares destinados ao consumo humano ou animal que contenham ou sejam produzidos a partir de OGM ou derivados deverão conter informação nesse sentido em seus rótulos, conforme regulamento.

@@ -1,0 +1,1 @@
+Art. 32. Permanecem em vigor os Certificados de Qualidade em Biossegurança, comunicados e decisões técnicas já emitidos pela CTNBio, bem como, no que não contrariarem o disposto nesta Lei, os atos normativos emitidos ao amparo da Lei nº 8.974, de 5 de janeiro de 1995.

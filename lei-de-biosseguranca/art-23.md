@@ -1,0 +1,5 @@
+Art. 23. As multas previstas nesta Lei serão aplicadas pelos órgãos e entidades de registro e fiscalização dos Ministérios da Agricultura, Pecuária e Abastecimento, da Saúde, do Meio Ambiente e da Secretaria Especial de Aqüicultura e Pesca da Presidência da República, referidos no art. 16 desta Lei, de acordo com suas respectivas competências.
+§ 1º Os recursos arrecadados com a aplicação de multas serão destinados aos órgãos e entidades de registro e fiscalização, referidos no art. 16 desta Lei, que aplicarem a multa.
+§ 2º Os órgãos e entidades fiscalizadores da administração pública federal poderão celebrar convênios com os Estados, Distrito Federal e Municípios, para a execução de serviços relacionados à atividade de fiscalização prevista nesta Lei e poderão repassar-lhes parcela da receita obtida com a aplicação de multas.
+§ 3º A autoridade fiscalizadora encaminhará cópia do auto de infração à CTNBio.
+§ 4º Quando a infração constituir crime ou contravenção, ou lesão à Fazenda Pública ou ao consumidor, a autoridade fiscalizadora representará junto ao órgão competente para apuração das responsabilidades administrativa e penal.
