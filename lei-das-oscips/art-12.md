@@ -1,0 +1,1 @@
+Art. 12. Os responsáveis pela fiscalização do Termo de Parceria, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade na utilização de recursos ou bens de origem pública pela organização parceira, darão imediata ciência ao Tribunal de Contas respectivo e ao Ministério Público, sob pena de responsabilidade solidária.
