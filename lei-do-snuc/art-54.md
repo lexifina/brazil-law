@@ -1,0 +1,1 @@
+Art. 54. O Ibama, excepcionalmente, pode permitir a captura de exemplares de espécies ameaçadas de extinção destinadas a programas de criação em cativeiro ou formação de coleções científicas, de acordo com o disposto nesta Lei e em regulamentação específica.

@@ -1,0 +1,2 @@
+Art. 46. A instalação de redes de abastecimento de água, esgoto, energia e infra-estrutura urbana em geral, em unidades de conservação onde estes equipamentos são admitidos depende de prévia aprovação do órgão responsável por sua administração, sem prejuízo da necessidade de elaboração de estudos de impacto ambiental e outras exigências legais.
+Parágrafo único. Esta mesma condição se aplica à zona de amortecimento das unidades do Grupo de Proteção Integral, bem como às áreas de propriedade privada inseridas nos limites dessas unidades e ainda não indenizadas.
