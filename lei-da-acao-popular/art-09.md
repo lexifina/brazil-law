@@ -1,0 +1,1 @@
+Art. 9º Se o autor desistir da ação ou der motiva à absolvição da instância, serão publicados editais nos prazos e condições previstos no art. 7º, inciso II, ficando assegurado a qualquer cidadão, bem como ao representante do Ministério Público, dentro do prazo de 90 (noventa) dias da última publicação feita, promover o prosseguimento da ação.
