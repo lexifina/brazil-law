@@ -1,0 +1,1 @@
+Art. 24. Proclamada a constitucionalidade, julgar-se-á improcedente a ação direta ou procedente eventual ação declaratória; e, proclamada a inconstitucionalidade, julgar-se-á procedente a ação direta ou improcedente eventual ação declaratória.
