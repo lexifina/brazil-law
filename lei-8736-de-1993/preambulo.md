@@ -1,0 +1,2 @@
+Altera o art. 2º da Lei nº 8.352, de 28 de dezembro de 1991, com a redação dada pela Lei nº 8.458, de 11 de setembro de 1992, que dispõe sobre as disponibilidades financeiras do Fundo de Amparo ao Trabalhador (FAT) e dá outras providências, autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde - Fundo Nacional de Saúde, crédito extraordinário no valor de Cr$ 35.000.000.000,00 (trinta e cinco bilhões de cruzeiros reais).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
