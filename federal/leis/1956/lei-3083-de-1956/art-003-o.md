@@ -1,0 +1,1 @@
+Art. 3º - O pagamento das subvenções extraordinárias e auxílios, consignados no orçamento atual e nos anteriores às entidades de que trata esta lei, será autorizado mediante juntada e exame dos comprovantes das despesas feitas à conta de dotações, orçamentárias ou não, anteriormente recebidas, observado o disposto no § 1º do art. 13 da Lei 1. 493, de 13 de dezembro de 1951.
