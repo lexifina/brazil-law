@@ -1,0 +1,2 @@
+Art. 34. As autoridades responsáveis pela distribuição da receita efetivamente arrecadada transferirão automaticamente ao Fundo Nacional de Saúde (FNS), observado o critério do parágrafo único deste artigo, os recursos financeiros correspondentes às dotações consignadas no Orçamento da Seguridade Social, a projetos e atividades a serem executados no âmbito do Sistema Único de Saúde (SUS).
+Parágrafo único. Na distribuição dos recursos financeiros da Seguridade Social será observada a mesma proporção da despesa prevista de cada área, no Orçamento da Seguridade Social.

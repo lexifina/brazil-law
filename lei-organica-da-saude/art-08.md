@@ -1,0 +1,1 @@
+Art. 8º As ações e serviços de saúde, executados pelo Sistema Único de Saúde (SUS), seja diretamente ou mediante participação complementar da iniciativa privada, serão organizados de forma regionalizada e hierarquizada em níveis de complexidade crescente.

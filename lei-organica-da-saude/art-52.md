@@ -1,0 +1,1 @@
+Art. 52. Sem prejuízo de outras sanções cabíveis, constitui crime de emprego irregular de verbas ou rendas públicas (Código Penal, art. 315) a utilização de recursos financeiros do Sistema Único de Saúde (SUS) em finalidades diversas das previstas nesta lei.

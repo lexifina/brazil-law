@@ -1,0 +1,1 @@
+Art. 41. As ações desenvolvidas pela Fundação das Pioneiras Sociais e pelo Instituto Nacional do Câncer, supervisionadas pela direção nacional do Sistema Único de Saúde (SUS), permanecerão como referencial de prestação de serviços, formação de recursos humanos e para transferência de tecnologia.

@@ -1,0 +1,1 @@
+Art. 30. As especializações na forma de treinamento em serviço sob supervisão serão regulamentadas por Comissão Nacional, instituída de acordo com o art. 12 desta Lei, garantida a participação das entidades profissionais correspondentes.

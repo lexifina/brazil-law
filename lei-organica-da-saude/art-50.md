@@ -1,0 +1,1 @@
+Art. 50. Os convênios entre a União, os Estados e os Municípios, celebrados para implantação dos Sistemas Unificados e Descentralizados de Saúde, ficarão rescindidos à proporção que seu objeto for sendo absorvido pelo Sistema Único de Saúde (SUS).

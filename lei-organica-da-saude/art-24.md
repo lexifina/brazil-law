@@ -1,0 +1,2 @@
+Art. 24. Quando as suas disponibilidades forem insuficientes para garantir a cobertura assistencial à população de uma determinada área, o Sistema Único de Saúde (SUS) poderá recorrer aos serviços ofertados pela iniciativa privada.
+Parágrafo único. A participação complementar dos serviços privados será formalizada mediante contrato ou convênio, observadas, a respeito, as normas de direito público.

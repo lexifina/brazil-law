@@ -1,0 +1,1 @@
+Art. 22. Na prestação de serviços privados de assistência à saúde, serão observados os princípios éticos e as normas expedidas pelo órgão de direção do Sistema Único de Saúde (SUS) quanto às condições para seu funcionamento.
