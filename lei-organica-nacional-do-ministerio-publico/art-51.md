@@ -1,0 +1,1 @@
+Art. 51. O direito a férias anuais, coletivas e individuais, do membro do Ministério Público, será igual ao dos Magistrados, regulando a Lei Orgânica a sua concessão e aplicando-se o disposto no art. 7º, inciso XVII, da Constituição Federal.

@@ -1,0 +1,1 @@
+Art. 49. Os vencimentos do Procurador-Geral de Justiça, em cada Estado, para efeito do disposto no § 1º do art. 39 da Constituição Federal, guardarão equivalência com os vencimentos dos Desembargadores dos Tribunais de Justiça.

@@ -1,0 +1,1 @@
+Art. 42. Os membros do Ministério Público terão carteira funcional, expedida na forma da Lei Orgânica, valendo em todo o território nacional como cédula de identidade, e porte de arma, independentemente, neste caso, de qualquer ato formal de licença ou autorização.
