@@ -1,0 +1,1 @@
+Art. 16. Os prazos a que se referem o art. 3º e seguintes desta lei complementar são peremptórios e contínuos e correm em secretaria ou Cartório e, a partir da data do encerramento do prazo para registro de candidatos, não se suspendem aos sábados, domingos e feriados.
