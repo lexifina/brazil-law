@@ -1,1 +1,0 @@
-Art. 13. Na determinação da base de cálculo sujeita à incidência mensal do imposto de renda poderão ser deduzidas as importâncias efetivamente pagas a título de alimentos ou pensões, em cumprimento de acordo ou decisão judicial, inclusive a prestação de alimentos provisionais.
