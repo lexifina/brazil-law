@@ -1,0 +1,1 @@
+Art. 21. As repartições federais, estaduais e municipais, ao receberem tributos relativos à atividade do representante comercial, pessoa física ou jurídica, exigirão prova de seu registro no Conselho Regional da respectiva região.
