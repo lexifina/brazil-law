@@ -1,0 +1,2 @@
+Art. 10 - O contrato entre a empresa de trabalho temporário e a empresa tomadora ou cliente, com relação a um mesmo empregado, não poderá exceder de três meses, salvo autorização conferida pelo órgão local do Ministério do Trabalho e Previdência Social, segundo instruções a serem baixadas pelo Departamento Nacional de Mão-de-Obra.
+§ 6º A contratação anterior ao prazo previsto no § 5º deste artigo caracteriza vínculo empregatício com a tomadora.
