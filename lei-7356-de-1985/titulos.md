@@ -1,0 +1,1 @@
+3º - Os pescadores que, sem vínculo empregatício, na condição de pequenos produtores, trabalhem individualmente ou em regime de economia familiar, fazendo da pesca sua profissão habitual ou meio principal de vida e estejam matriculados na repartição competente, poderão optar pela filiação ao regime desta Lei, na qualidade de trabalhadores autônomos.''
