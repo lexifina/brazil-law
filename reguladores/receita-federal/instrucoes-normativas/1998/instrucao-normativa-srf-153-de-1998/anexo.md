@@ -1,0 +1,5 @@
+ANEXO UNICO
+Relacao das instituicoes financeiras autorizadas a receber declaracoes de ajuste anual de pessoas fisicas do exercicio de 1999:
+Nome da instituicao Codigo na Camara financeira Nacional de Compensacao Banco do Brasil S.A. 001 Banco da Amazonia S.A. 003 Banco do Nordeste do Brasil S.A. 004 Banco Meridional do Brasil S.A. 008 Banco do Estado do Espirito Santo S.A. 021 Banco do Estado de Pernambuco S.A. 024 Banco do Estado de Santa Catarina S.A. 027 Banco do Estado da Bahia S.A. 028 Banco do Estado da Paraiba S.A. 030 Banco do Estado de Goias S.A. 031 Banco do Estado de Sao Paulo S.A. 033 Banco do Estado do Amazonas S.A. 034 Banco do Estado do Ceara S.A. 035 Banco do Estado do Maranhao S.A. 036 Banco do Estado do Para S.A. 037 Banco do Estado do Piaui S.A. 039 Banco do Estado do Rio Grande do Sul S.A. 041 Banco do Estado de Sergipe S.A. 047 Banco de Brasilia S.A. 070 Caixa Economica Federal 104 Nossa Caixa Nosso Banco S.A. 151 Banco CCF Brasil S.A. 168 Banco Mercantil Finasa S.A. 392 Banco Paulista S.A. 611 Banco Panamericano S.A. 623 Banco Interior de Sao Paulo S.A. 722 Banco Emblema S.A. 743
+[arquivo anexo: 14974a.htm]
+EVERARDO MACIEL
