@@ -1,0 +1,1 @@
+Art. 33. A designação do representante do importador e exportador pode recair no Operador de Transporte Multimodal, relativamente ao despacho aduaneiro de mercadorias importadas e exportadas, em qualquer operação de comércio exterior, inclusive no despacho de bagagem de viajantes, no tocante às cargas sob sua responsabilidade.
