@@ -1,6 +1,6 @@
 Art. 26. As sociedades por ações poderão emitir debêntures, ou obrigações ao portador ou nominativas endossáveis, com cláusula de correção monetária, desde que observadas as seguintes condições:
 I - prazo de vencimento igual ou superior a um ano;
-II - correção efetuada em períodos não inferiores a três meses, segundo os coeficientes aprovados pelo Conselho Nacional de Economia para a correção dos créditos fiscais;
+II - correção efetuada em períodos não inferiores a três meses, em bases idênticas às aplicáveis às Obrigações Reajustáveis do Tesouro Nacional;
 III - subscrição por instituições financeiras especialmente autorizadas pelo Banco Central, ou colocação no mercado de capitais com a intermediação dessas instituições.
 § 1º A emissão de debêntures nos têrmos dêste artigo terá por limite máximo a importância do patrimônio líquido da companhia, apurado nos têrmos fixados pelo Conselho Monetário Nacional.
 § 2º O Conselho Monetário Nacional expedirá, para cada tipo de atividade, normas relativas a:
