@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 174, de 16 de julho de 2002
+Dispõe sobre o reconhecimento da equivalência entre os produtos importados e exportados, para a extinção dos regimes de admissão temporária e de exportação temporária relativamente a partes, peças e componentes de aeronave.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso XVIII do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 8º do Decreto nº 2.889, de 20 de dezembro de 1999, e no § 2º do art. 21 da Medida Provisória nº 38, de 14 de maio de 2002, resolve:
