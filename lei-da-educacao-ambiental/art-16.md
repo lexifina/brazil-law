@@ -1,0 +1,1 @@
+Art. 16. Os Estados, o Distrito Federal e os Municípios, na esfera de sua competência e nas áreas de sua jurisdição, definirão diretrizes, normas e critérios para a educação ambiental, respeitados os princípios e objetivos da Política Nacional de Educação Ambiental.
