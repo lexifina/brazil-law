@@ -1,0 +1,16 @@
+Art. 5º As cláusulas dos contratos de parceria público-privada atenderão ao disposto no art. 23 da Lei nº 8.987, de 13 de fevereiro de 1995, no que couber, devendo também prever:
+I - o prazo de vigência do contrato, compatível com a amortização dos investimentos realizados, não inferior a 5 (cinco), nem superior a 35 (trinta e cinco) anos, incluindo eventual prorrogação;
+II - as penalidades aplicáveis à Administração Pública e ao parceiro privado em caso de inadimplemento contratual, fixadas sempre de forma proporcional à gravidade da falta cometida, e às obrigações assumidas;
+III - a repartição de riscos entre as partes, inclusive os referentes a caso fortuito, força maior, fato do príncipe e álea econômica extraordinária;
+IV - as formas de remuneração e de atualização dos valores contratuais;
+V - os mecanismos para a preservação da atualidade da prestação dos serviços;
+VI - os fatos que caracterizem a inadimplência pecuniária do parceiro público, os modos e o prazo de regularização e, quando houver, a forma de acionamento da garantia;
+VII - os critérios objetivos de avaliação do desempenho do parceiro privado;
+VIII - a prestação, pelo parceiro privado, de garantias de execução suficientes e compatíveis com os ônus e riscos envolvidos, observados os limites dos §§ 3º e 5º do art. 56 da Lei nº 8.666, de 21 de junho de 1993, e, no que se refere às concessões patrocinadas, o disposto no inciso XV do art. 18 da Lei nº 8.987, de 13 de fevereiro de 1995;
+IX - o compartilhamento com a Administração Pública de ganhos econômicos efetivos do parceiro privado decorrentes da redução do risco de crédito dos financiamentos utilizados pelo parceiro privado;
+X - a realização de vistoria dos bens reversíveis, podendo o parceiro público reter os pagamentos ao parceiro privado, no valor necessário para reparar as irregularidades eventualmente detectadas.
+§ 1º As cláusulas contratuais de atualização automática de valores baseadas em índices e fórmulas matemáticas, quando houver, serão aplicadas sem necessidade de homologação pela Administração Pública, exceto se esta publicar, na imprensa oficial, onde houver, até o prazo de 15 (quinze) dias após apresentação da fatura, razões fundamentadas nesta Lei ou no contrato para a rejeição da atualização.
+§ 2º Os contratos poderão prever adicionalmente:
+I - os requisitos e condições em que o parceiro público autorizará a transferência do controle da sociedade de propósito específico para os seus financiadores, com o objetivo de promover a sua reestruturação financeira e assegurar a continuidade da prestação dos serviços, não se aplicando para este efeito o previsto no inciso I do parágrafo único do art. 27 da Lei nº 8.987, de 13 de fevereiro de 1995;
+II - a possibilidade de emissão de empenho em nome dos financiadores do projeto em relação às obrigações pecuniárias da Administração Pública;
+III - a legitimidade dos financiadores do projeto para receber indenizações por extinção antecipada do contrato, bem como pagamentos efetuados pelos fundos e empresas estatais garantidores de parcerias público-privadas.

@@ -1,0 +1,2 @@
+Art. 21. É facultada a constituição de patrimônio de afetação que não se comunicará com o restante do patrimônio do FGP, ficando vinculado exclusivamente à garantia em virtude da qual tiver sido constituído, não podendo ser objeto de penhora, arresto, seqüestro, busca e apreensão ou qualquer ato de constrição judicial decorrente de outras obrigações do FGP.
+Parágrafo único. A constituição do patrimônio de afetação será feita por registro em Cartório de Registro de Títulos e Documentos ou, no caso de bem imóvel, no Cartório de Registro Imobiliário correspondente.
