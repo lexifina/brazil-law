@@ -1,0 +1,1 @@
+Art. 27. Fica o Fundo Nacional de Ação Comunitária (Funac), instituído pelo Decreto nº 91.970, de 22 de novembro de 1985, ratificado pelo Decreto Legislativo nº 66, de 18 de dezembro de 1990, transformado no Fundo Nacional de Assistência Social (FNAS).
