@@ -1,0 +1,1 @@
+Art. 41-A. O registro de medicamentos com denominação exclusivamente genérica terá prioridade sobre o dos demais, conforme disposto em ato da Diretoria Colegiada da Agência Nacional de Vigilância Sanitária.

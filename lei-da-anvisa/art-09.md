@@ -1,2 +1,2 @@
 Art. 9º A Agência será dirigida por uma Diretoria Colegiada, devendo contar, também, com um Procurador, um Corregedor e um Ouvidor, além de unidades especializadas incumbidas de diferentes funções.
-Parágrafo único. A Agência contará, ainda, com um Conselho Consultivo, na forma disposta em regulamento.
+Parágrafo único. A Agência contará, ainda, com um Conselho Consultivo, que deverá ter, no mínimo, representantes da União, dos Estados, do Distrito Federal, dos Municípios, dos produtores, dos comerciantes, da comunidade científica e dos usuários, na forma do regulamento.
