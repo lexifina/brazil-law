@@ -1,0 +1,1 @@
+Art. 19. Os acionistas controladores e os administradores das empresas incluídas no Programa Nacional de Desestatização adotarão, nos prazos estabelecidos, as providências que vierem a ser determinadas pelo Conselho Nacional de Desestatização, necessárias à implantação dos processos de alienação.

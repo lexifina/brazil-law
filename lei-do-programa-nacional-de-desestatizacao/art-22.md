@@ -1,0 +1,1 @@
+Art. 22. O Fundo Nacional de Desestatização será auditado por auditores externos independentes registrados na Comissão de Valores Mobiliários, a serem contratados mediante licitação pública pelo Gestor do Fundo.

@@ -1,0 +1,1 @@
+Art. 8º Sempre que houver razões que justifiquem, a União deterá, direta ou indiretamente, ação de classe especial do capital social da empresa ou instituição financeira objeto da desestatização, que lhe confira poderes especiais em determinadas matérias, as quais deverão ser caracterizadas nos seus estatutos sociais.
