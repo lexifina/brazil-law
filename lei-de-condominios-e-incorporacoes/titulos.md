@@ -16,6 +16,8 @@ Título II
 DAS INCORPORAÇÕES
 CAPÍTULO I
 Disposições Gerais
+CAPÍTULO I-A.
+DO PATRIMÔNIO DE AFETAÇÃO
 CAPÍTULO II
 Das Obrigações e Direitos do Incorporador
 CAPíTULO III
