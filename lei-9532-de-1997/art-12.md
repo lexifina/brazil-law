@@ -9,4 +9,4 @@ e) apresentar, anualmente, Declaração de Rendimentos, em conformidade com o di
 f) recolher os tributos retidos sobre os rendimentos por elas pagos ou creditados e a contribuição para a seguridade social relativa aos empregados, bem assim cumprir as obrigações acessórias daí decorrentes;
 g) assegurar a destinação de seu patrimônio a outra instituição que atenda às condições para gozo da imunidade, no caso de incorporação, fusão, cisão ou de encerramento de suas atividades, ou a órgão público;
 h) outros requisitos, estabelecidos em lei específica, relacionados com o funcionamento das entidades a que se refere este artigo.
-§ 3º Considera-se entidade sem fins lucrativos a que não apresente superávit em suas contas ou, caso o apresente em determinando exercício, destine referido resultado integralmente ao incremento de seu ativo imobilizado.
+§ 3º Considera-se entidade sem fins lucrativos a que não apresente superávit em suas contas ou, caso o apresente em determinado exercício, destine referido resultado, integralmente, à manutenção e ao desenvolvimento dos seus objetivos sociais.
