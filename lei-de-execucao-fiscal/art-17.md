@@ -1,0 +1,2 @@
+Art. 17 - Recebidos os embargos, o Juiz mandará intimar a Fazenda, para impugná-los no prazo de 30 (trinta) dias, designando, em seguida, audiência de instrução e julgamento.
+Parágrafo Único - Não se realizará audiência, se os embargos versarem sobre matéria de direito, ou, sendo de direito e de fato, a prova for exclusivamente documental, caso em que o Juiz proferirá a sentença no prazo de 30 (trinta) dias.
