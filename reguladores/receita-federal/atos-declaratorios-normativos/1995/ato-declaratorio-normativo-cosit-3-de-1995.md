@@ -1,0 +1,6 @@
+Ato Declaratório Normativo Cosit nº 3, de 24 de janeiro de 1995
+Os prazos de vigência das alterações de alíquotas do Imposto de Importação, efetivadas por Portaria do Ministro da Fazenda, com prazo determinado, são improrrogáveis, face ao art. 4º do Decreto nº 1.343/94.
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso da atribuição que lhe confere o art. 147, inciso III, do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria Ministerial nº 606, de 03 de setembro de 1992, e tendo em vista o disposto no art. 4º do Decreto nº 1.343, de 23 de dezembro de 1994,
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal e demais interessados, que a aplicação da norma constante do art. 4º do Decreto nº 1.343, de 23 de dezembro de 1994, não poderá importar em prorrogação dos prazos fixados para a vigência das alterações de alíquotas do Imposto de Importação, efetivadas por Portaria do Ministro da Fazenda, com prazo determinado.
+Em conseqüência, as referidas alterações vigorarão tão somente, até seu termo final, estabelecido nos atos ministeriais respectivos, o qual, se correspondente a data posterior a 31 de março de 1995, passará a coincidir com esta data-limite.
+ARISTÓFANES FONTOURA DE HOLANDA
