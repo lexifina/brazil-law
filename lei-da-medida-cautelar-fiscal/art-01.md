@@ -1,0 +1,1 @@
+Art. 1º O procedimento cautelar fiscal pode ser instaurado antes ou no curso da execução judicial da Dívida Ativa da União, dos Estados, do Distrito Federal, dos Municípios e respectivas autarquias e dessa execução é sempre dependente.
