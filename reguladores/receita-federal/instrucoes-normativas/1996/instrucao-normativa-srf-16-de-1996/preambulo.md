@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 16, de 28 de março de 1996
+Determina a revisão de ofício dos lançamentos do Imposto sobre a Propriedade Territorial Rural - ITR, referentes ao exercício de 1995, efetuados mediante notificações emitidas em janeiro e fevereiro de 1996.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições que lhe são conferidas pelo art. 140 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MEFP nº 606, de 3 de setembro de 1992, e tendo em vista o disposto nos arts. 142 e 149, inciso VIII, do Código Tributário Nacional, e na Portaria nº 649, de 14 de agosto de 1979, do Ministro da Fazenda, resolve:
