@@ -1,8 +1,8 @@
 Art. 6º O Conselho Monetário Nacional será integrado pelos seguintes membros:
-I - Ministro da Fazenda, que será o Presidente;
-II - Presidente do Banco do Brasil S.A; 1964
+I - Ministro da Fazenda que será o Presidente;
+II - Presidente do Banco do Brasil S. A.;
 III - Presidente do Banco Nacional do Desenvolvimento Econômico;
-IV - Seis (6) membros nomeados pelo Presidente da República, após aprovação do Senado Federal, escolhidos entre brasileiros de ilibada reputação e notória capacidade em assuntos econômicos-financeiros, com mandato de seis (6) anos podendo ser reconduzidos.
+IV - Sete (7) membros nomeados pelo Presidente da República, após aprovação do Senado Federal, escolhidos entre brasileiros de ilibada reputação e notória capacidade em assuntos econômico-financeiros, com mandato de sete (7) anos, podendo ser reconduzidos.
 § 1º O Conselho Monetário Nacional deliberará por maioria de votos, com a presença, no mínimo, de 6 (seis) membros, cabendo ao Presidente também o voto de qualidade.
 § 2º Poderão participar das reuniões do Conselho Monetário Nacional (VETADO) o Ministro da Indústria e do Comércio e o Ministro para Assuntos de Planejamento e Economia, cujos pronunciamentos constarão obrigatòriamente da ata das reuniões.
 § 3º Em suas faltas ou impedimentos, o Ministro da Fazenda será substituído, na Presidência do Conselho Monetário Nacional, pelo Ministro da Indústria e do Comércio, ou, na falta dêste, pelo Ministro para Assuntos de Planejamento e Economia.
