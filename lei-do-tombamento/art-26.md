@@ -1,0 +1,1 @@
+Art. 26. Os negociantes de antiguidades, de obras de arte de qualquer natureza, de manuscritos e livros antigos ou raros são obrigados a um registro especial no Serviço do Patrimônio Histórico e Artístico Nacional, cumprindo-lhes outrossim apresentar semestralmente ao mesmo relações completas das coisas históricas e artísticas que possuírem.

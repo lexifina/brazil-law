@@ -1,0 +1,4 @@
+Art. 13. O tombamento definitivo dos bens de propriedade partcular será, por iniciativa do órgão competente do Serviço do Patrimônio Histórico e Artístico Nacional, transcrito para os devidos efeitos em livro a cargo dos oficiais do registro de imóveis e averbado ao lado da transcrição do domínio.
+§ 1º No caso de transferência de propriedade dos bens de que trata êste artigo, deverá o adquirente, dentro do prazo de trinta dias, sob pena de multa de dez por cento sôbre o respectivo valor, fazê-la constar do registro, ainda que se trate de transmissão judicial ou causa mortis.
+§ 2º Na hipótese de deslocação de tais bens, deverá o proprietário, dentro do mesmo prazo e sob pena da mesma multa, inscrevê-los no registro do lugar para que tiverem sido deslocados.
+§ 3º A transferência deve ser comunicada pelo adquirente, e a deslocação pelo proprietário, ao Serviço do Patrimônio Histórico e Artistico Nacional, dentro do mesmo prazo e sob a mesma pena.

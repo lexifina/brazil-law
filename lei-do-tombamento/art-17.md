@@ -1,0 +1,2 @@
+Art. 17. As coisas tombadas não poderão, em caso nenhum ser destruidas, demolidas ou mutiladas, nem, sem prévia autorização especial do Serviço do Patrimônio Histórico e Artistico Nacional, ser reparadas, pintadas ou restauradas, sob pena de multa de cincoenta por cento do dano causado.
+Parágrafo único. Tratando-se de bens pertencentes á União, aos Estados ou aos municípios, a autoridade responsável pela infração do presente artigo incorrerá pessoalmente na multa.
