@@ -1,0 +1,2 @@
+Art. 9º A execução das receitas e despesas do consórcio público deverá obedecer às normas de direito financeiro aplicáveis às entidades públicas.
+Parágrafo único. O consórcio público está sujeito à fiscalização contábil, operacional e patrimonial pelo Tribunal de Contas competente para apreciar as contas do Chefe do Poder Executivo representante legal do consórcio, inclusive quanto à legalidade, legitimidade e economicidade das despesas, atos, contratos e renúncia de receitas, sem prejuízo do controle externo a ser exercido em razão de cada um dos contratos de rateio.
