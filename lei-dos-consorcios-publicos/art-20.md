@@ -1,0 +1,1 @@
+Art. 20. O Poder Executivo da União regulamentará o disposto nesta Lei, inclusive as normas gerais de contabilidade pública que serão observadas pelos consórcios públicos para que sua gestão financeira e orçamentária se realize na conformidade dos pressupostos da responsabilidade fiscal.

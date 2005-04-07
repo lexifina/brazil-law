@@ -1,0 +1,3 @@
+Art. 11. A retirada do ente da Federação do consórcio público dependerá de ato formal de seu representante na assembléia geral, na forma previamente disciplinada por lei.
+§ 1º Os bens destinados ao consórcio público pelo consorciado que se retira somente serão revertidos ou retrocedidos no caso de expressa previsão no contrato de consórcio público ou no instrumento de transferência ou de alienação.
+§ 2º A retirada ou a extinção do consórcio público não prejudicará as obrigações já constituídas, inclusive os contratos de programa, cuja extinção dependerá do prévio pagamento das indenizações eventualmente devidas.
