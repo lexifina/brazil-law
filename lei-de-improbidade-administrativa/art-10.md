@@ -12,3 +12,5 @@ X - agir negligentemente na arrecadação de tributo ou renda, bem como no que d
 XI - liberar verba pública sem a estrita observância das normas pertinentes ou influir de qualquer forma para a sua aplicação irregular;
 XII - permitir, facilitar ou concorrer para que terceiro se enriqueça ilicitamente;
 XIII - permitir que se utilize, em obra ou serviço particular, veículos, máquinas, equipamentos ou material de qualquer natureza, de propriedade ou à disposição de qualquer das entidades mencionadas no art. 1° desta lei, bem como o trabalho de servidor público, empregados ou terceiros contratados por essas entidades.
+XIV - celebrar contrato ou outro instrumento que tenha por objeto a prestação de serviços públicos por meio da gestão associada sem observar as formalidades previstas na lei;
+XV - celebrar contrato de rateio de consórcio público sem suficiente e prévia dotação orçamentária, ou sem observar as formalidades previstas na lei.
