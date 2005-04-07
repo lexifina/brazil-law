@@ -1,0 +1,1 @@
+Art. 19. O disposto nesta Lei não se aplica aos convênios de cooperação, contratos de programa para gestão associada de serviços públicos ou instrumentos congêneres, que tenham sido celebrados anteriormente a sua vigência.
