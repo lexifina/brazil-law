@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 535, de 8 de abril de 2005
+Aprova o Programa Pedido Eletrônico de Ressarcimento ou Restituição e Declaração de Compensação, versão 1.7 (PER/DCOMP 1.7).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 030, de 25 de fevereiro de 2005, e tendo em vista o disposto no art. 74 da Lei nº 9.430, de 27 de dezembro de 1996, com a redação determinada pelo art. 49 da Lei nº 10.637, de 30 de dezembro de 2002, pelo art. 17 da Lei nº 10.833, de 29 de dezembro de 2003, e pelo art. 4º da Lei nº 11.051, de 29 de dezembro de 2004, resolve:
