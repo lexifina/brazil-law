@@ -1,0 +1,9 @@
+Solução de Consulta Diana/SRRF07 nº 39, de 21 de fevereiro de 2005
+ASSUNTO: Classificação de Mercadorias
+CÓDIGO TEC Mercadoria 8
+521.90.90. Sistema de edição de Vídeo Digital não linear em disco rígido, por processo magnético em formato digital, padrão DV NTSC, marca registrada Apple, modelo Apple Vídeo System DNL-3600, tipo sistema baseado em computador, fabricado por Apple Computer, Inc.-EUA, utilizado por empresas que trabalham com processo de edição de imagem, vídeo e áudio com emissoras de TV, produtores de áudio e vídeo, filmmakers, agências de publicidade e fornecedores de Internet, denominado comercialmente “Apple Vídeo System DNL-3600”. CÓDIGO TEC Mercadoria
+8521.90.90. Sistema de edição de Vídeo Digital não linear em disco rígido, por processo magnético em formato digital, padrão DV NTSC, marca registrada Apple, modelo Apple Vídeo System DNL-4000, tipo sistema baseado em computador, fabricado por Apple Computer, Inc.-EUA, utilizado por empresas que possuem o processo de edição de imagem e de vídeo, com televisão, produtores de vídeo para televisão ou cinema, denominado comercialmente “Apple Vídeo System DNL-4000”.
+CÓDIGO TEC Mercadoria 8521.90.90.
+Sistema de edição de Vídeo Digital não linear em disco rígido, por processo magnético em formato digital, padrão DV NTSC, marca registrada Apple, modelo Apple Vídeo System DNL-5000, tipo sistema baseado em computador, fabricado por Apple Computer, Inc.-EUA, utilizado por empresas que possuem o processo de edição de imagem e vídeo, com televisão, produtores de vídeo para televisão ou cinema, denominado comercialmente “Apple Vídeo System DNL-5000”.
+DISPOSITIVOS LEGAIS: RGI 1ª (Texto da Posição 8521), RGI 6ª (Texto da Subposição 8521.90), e RGC-1, da TEC-Decreto nº 2376/1997.
+[arquivo anexo: SC SRRF07-Diana nº 39-2005.pdf]
