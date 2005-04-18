@@ -1,0 +1,52 @@
+DECISÃO: 1. Trata-se de recurso extraordinário interposto com
+   base no art. 102, III, a e b da CF, contra acórdão que, embora
+   reconhecendo legítima a cobrança da contribuição denominada
+   salário-educação, o fez determinando a restituição da diferença
+   entre as alíquotas de 1,4% da Lei n. 4.863/65 e de 2,5% do
+   Decreto n. 76.923/75, para isso reconhecendo a
+   inconstitucionalidade do art. 1º, § 2º do Decreto-lei n.
+   1.422/75.
+2.      O Plenário desta Corte decidiu que não há
+   incompatibilidade entre o art. 1º, § 2º, do Decreto-Lei nº
+   1.422/75, que dispôs sobre fixação da alíquota do
+   salário-educação, com a EC nº 01/69, nem com a atual Constituição
+   da República, no período que mediou até o início de vigência da
+   Lei nº 9.424/96 (cf. RE nº 290.079, Rel. Min. ILMAR GALVÃO, DJU
+   de 04.04.2003).
+        A razão básica é porque a contribuição não
+   tinha natureza tributária, de modo que estava a salvo do
+   princípio da legalidade estrita, a despeito de ter sido
+   incorporada ao depois ao texto da Emenda (art. 178), que lhe não
+   alterou o critério de fixação da alíquota, o qual, com as
+   inovações introduzidas por aquele Decreto-Lei, continuou a
+   depender de operações complexas, de alçada exclusiva dos agentes
+   do Poder Executivo, com base no custo atuarial. Daí, a necessária
+   atribuição de limitada competência ao Chefe do Poder
+   Executivo.
+        E, porque a Constituição em vigor acolheu o
+   salário-educação como fonte de recursos destinados ao
+   financiamento do serviço do ensino público fundamental e lhe
+   atribuiu caráter tributário, mas na forma que ostentava sob a
+   ordem jurídica anterior (art. 212, § 5º), tornou com isso sem
+   sentido toda discussão a respeito da categoria nomológica
+   adequada para a fixação da alíquota, sem recepcionar apenas a
+   delegação prevista no art. 1º, § 2º, do Decreto-Lei nº 1.422/75,
+   por força da sujeição do novel tributo ao princípio da
+   legalidade.
+        E, no julgamento da ADC nº 3, Rel. Min. NELSON
+   JOBIM, DJU de 09.05.2003, houve por bem esta Corte declarar, com
+   efeitos ex tunc, a constitucionalidade do art. 15 da Lei nº
+   9.424/96, com força vinculante e eficácia normativa erga
+   omnes.
+3.      Adotando, pois, os fundamentos destes precedentes,
+   e valendo-me do disposto no art. 557, § 1º-A, do Código de
+   Processo Civil, com a redação dada pela Lei nº 9.756/98 e pela
+   Lei 8.950/94, conheço do recurso extraordinário e dou-lhe
+   provimento, para indeferir a segurança.
+        Custas ex
+   lege.
+        Publique-se. Int..
+Brasília, 18 de abril de
+   2005.
+Ministro CEZAR PELUSO
+Relator
