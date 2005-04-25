@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF10 nº 46, de 31 de março de 2005
+ASSUNTO: Contribuição para o PIS/Pasep EMENTA: VENDAS PARA ESTALEIROS E EMPRESAS PROPRIETÁRIAS DE EMBARCAÇÕES (ARMADORES). ISENÇÃO. A receita relativa à venda de produtos para estaleiros e armadores para serem utilizados na conservação, modernização e reparo de embarcações pré-registradas e registradas no REB, não goza da isenção da Contribuição para o PIS/Pasep, por não estar contemplada dentre as hipóteses de isenção previstas em lei. DISPOSITIVOS LEGAIS: Art. 11, § 9º, da Lei nº 9.432, de 1997; art. 14 da MP nº 2.158-35, de 2001; art. 150, § 6º, da Constituição Federal; art. 97, inciso VI, e art. 111, inciso II, da Lei nº 5.172, de 1966 (CTN).
+[arquivo anexo: SC SRRF10-Disit nº 046-2005.pdf]
