@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 539, de 25 de abril de 2005
+Altera a Instrução Normativa SRF nº 480, de 15 de dezembro de 2004, que dispõe sobre a retenção de tributos e contribuições nos pagamentos efetuados pelas pessoas jurídicas que menciona a outras pessoas jurídicas pelo fornecimento de bens e serviços.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no art. 64 da Lei nº 9.430, de 27 de dezembro de 1996, e o art. 34 da Lei nº 10.833, de 29 de dezembro de 2003, resolve:
