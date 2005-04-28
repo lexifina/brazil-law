@@ -1,0 +1,6 @@
+Solução de Divergência Cosit nº 4, de 25 de abril de 2005
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF
+EMENTA: O Imposto de Renda Retido na Fonte (IRRF), quando o beneficiário for residente ou domiciliado no exterior, deve ser retido e recolhido no momento da ocorrência do fato gerador do imposto - pagamento, crédito, entrega, emprego ou remessa.A base de cálculo do IRRF será o valor em reais, das transferências para o exterior, apurado com base na cotação de venda, para a moeda, correspondente ao segundo dia útil imediatamente anterior ao da contratação da respectiva operação de câmbio ou, se maior, da operação de câmbio em si, quando os fatos geradores ocorreram nos seguintes períodos:a) no primeiro trimestre de 1999, aplicando-se às transferências efetuadas a partir de 26 de março de 1999;b) no ano-calendário de 2001, aplicando-se às transferências efetuadas a partir de 27 de setembro de 2001.
+DISPOSITIVOS LEGAIS: Decreto-Lei nº 5.844, de 23 de setembro de 1943; art. 100; Lei nº 3.470, de 28 de novembro de 1958, art. 77; Lei nº 8.981, de 20 de janeiro de 1995, art. 83, inciso I, alínea “b”; Lei nº 9.816, de 23 de agosto de 1999, art. 3º; Lei nº 10.305, de 7 de novembro de 2001, art. 3º; e Decreto nº 3.000, de 1999, art. 865, inciso I.
+Novo segmento
+[arquivo anexo: SD Cosit nº 04-2005.pdf]
