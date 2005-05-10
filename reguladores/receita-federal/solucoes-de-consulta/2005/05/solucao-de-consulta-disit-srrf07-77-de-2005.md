@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF07 nº 77, de 24 de março de 2005
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF EMENTA: MANUTENÇÃO DE ALÍQUOTA 0 (ZERO) NAS REPACTUAÇÔES DE EMPRÉSTIMOS EXTERNOS COM EMISSÃO DE “FLOATING RATES NOTES”. Fica mantida a alíquota 0% (zero) nas remessas de juros, nas repactuações de contratos que envolvem empréstimo em moeda estrangeira, mediante lançamento de “FLOATING RATES NOTES”, desde que a mesma atenda as condições as condições estabelecidas pelo BACEN. DISPOSITIVOS LEGAIS: Art. 1º. Da Lei no. 9.481/1997 art.20 da Lei no. 9.532/1997, art 8º., incisos VI e VII da Lei no. 9.779/99, art.1º. da Lei no. 9.9959/2000 , art.12 da Lei no. 10.925/2004 art 691 inciso IX do RIR/99.
+[arquivo anexo: SC SRRF07-Disit nº 77 - 2005.pdf]
