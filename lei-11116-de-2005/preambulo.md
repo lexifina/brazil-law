@@ -1,0 +1,2 @@
+Dispõe sobre o Registro Especial, na Secretaria da Receita Federal do Ministério da Fazenda, de produtor ou importador de biodiesel e sobre a incidência da Contribuição para o PIS/Pasep e da Cofins sobre as receitas decorrentes da venda desse produto; altera as Leis nºs 10.451, de 10 de maio de 2002, e 11.097, de 13 de janeiro de 2005; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
