@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 543, de 20 de maio de 2005
+Dispõe sobre o Demonstrativo de Apuração de Contribuições Sociais (Dacon) relativo a fatos geradores ocorridos no ano-calendário de 2005, aprova o programa gerador e as instruções para preenchimento do Dacon, versão 2.0, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
