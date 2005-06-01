@@ -1,0 +1,89 @@
+DECISÃO
+TAXAS DE COLETA DOMICILIAR DE LIXO E DE COMBATE A
+   SINISTROS - CONSTITUCIONALIDADE - PRECEDENTES DO PLENÁRIO -
+   IMPOSTO PREDIAL E TERRITORIAL URBANO - PROGRESSIVIDADE - RECURSO
+   EXTRAORDINÁRIO - CONHECIMENTO E PROVIMENTO PARCIAL NOS AUTOS DE
+   AGRAVO PROVIDO.
+1.      Discute-se, na espécie, a
+   constitucionalidade da exação do Imposto Predial e Territorial
+   Urbano com alíquotas progressivas, instituído pelo Município de
+   Campinas, bem como a harmonia das taxas de remoção de lixo
+   domiciliar e de combate a sinistros com a Carta da
+   República.
+Em relação à progressividade das alíquotas, a
+   decisão recorrida está em consonância com o Enunciado nº 668 da
+   Súmula de Jurisprudência dominante desta Corte:
+É
+   inconstitucional a lei municipal que tenha estabelecido, antes da
+   Emenda Constitucional 29/2000, alíquotas progressivas para o
+   IPTU, salvo se destinada a assegurar o cumprimento da função
+   social da propriedade urbana.
+Vale ressaltar que a distinção
+   entre alíquotas progressivas e diferenciadas envolve a
+   interpretação de normas locais, o que é vedado nessa esfera
+   recursal.
+A matéria relativa à taxa de coleta domiciliar de
+   lixo encontra-se pacificada nesta Corte, uma vez que, submetida
+   ao Pleno na ocasião do julgamento do Recurso Extraordinário nº
+   232.393/SP, restou adotado o seguinte
+   entendimento:
+CONSTITUCIONAL. TRIBUTÁRIO. TAXA DE COLETA
+   DE LIXO: BASE DE CÁLCULO. IPTU. MUNICÍPIO DE SÃO CARLOS, S.P.
+I.
+   - O fato de um dos elementos utilizados na fixação da base de
+   cálculo do IPTU  a metragem da área construída do imóvel  que é
+   o valor do imóvel (CTN, art. 33), ser tomado em linha de conta
+   na determinação da alíquota da taxa de coleta de lixo, não quer
+   dizer que teria essa taxa base de cálculo igual à do IPTU: o
+   custo do serviço constitui a base imponível da taxa. Todavia,
+   para o fim de aferir, em cada caso concreto, a alíquota,
+   utiliza-se a metragem da área construída do imóvel, certo que a
+   alíquota não se confunde com a base imponível do tributo. Tem-se,
+   com isto, também, forma de realização da isonomia tributária e
+   do princípio da capacidade contributiva: C.F., artigos 150, II,
+   145, § 1º.
+II. - R.E. não conhecido.
+Quanto à questão
+   alusiva à taxa de combate a sinistro, o Plenário, na sessão de 25
+   de fevereiro de 1999, julgando o Recurso Extraordinário nº
+   206.777-6-SP, relatado pelo Ministro Ilmar Galvão, a uma só voz,
+   concluiu pela constitucionalidade da cobrança da exação. Eis a
+   síntese do julgamento:
+        EMENTA: TRIBUTÁRIO. MUNÍCIPIO DE
+   SANTO ANDRÉ. IPTU PROGRESSIVO. TAXAS DE LIMPEZA PÚBLICA E DE
+   SEGURANÇA. LEIS MUNICIPAIS Nº 6.767/90 (ARTS. 2º E 3º); 6.580/89
+   (ARTS. 1º E 2º, INC. I, ALÍNEA A, E INC. II, ALÍNEAS A  E B); E
+   6.158/58. ACÓRDÃO QUE OS DECLAROU INEXIGÍVEIS. ALEGADA OFENSA AOS
+   ICNS. I E II E §§ 1 E 2º DO ART. 145; INC. I E § 1º, 2º, 4º,
+   INC. II, DO ART. 182 DA CONSTITUIÇÃO.
+Decisão que se acha em
+   conformidade com a orientação jurisprudência do STF no que tange
+   ao IPTU progressivo, declarado inconstitucional no julgamento do
+   RE 194.036, Min. Ilmar Galvão; e à taxa de limpeza urbana (arts.
+   1º e 2º, inc. I, a, e II, a e b, da Lei nº 6.580/89), exigida com
+   ofensa ao art. 145, inc. II e § 2º, da CF, porquanto a título de
+   remuneração de serviço prestado utiuniversi e tendo por base de
+   cálculo fatores que concorrem para formação da base de cálculos
+   do IPTU.
+Declaração da inconstitucionalidade dos dispositivos
+   enumerados, alusivos à taxa de limpeza urbana.
+Pechas que não
+   viciam a taxa de segurança, corretamente exigida para cobrir
+   despesas com a manutenção dos serviços de prevenção e extinção de
+   incêndios.
+Recurso conhecido em parte, para o de declarar a
+   legitimidade da última taxa mencionada.
+Conheço deste agravo
+   e o provejo, assentando o enquadramento do extraordinário no
+   permissivo da alínea "a" do inciso III do artigo 102 da
+   Constituição Federal. Ante o precedente do Plenário, aciono o
+   disposto nos artigos 544, §§ 3º e 4º, e 557, § 1º-A, do Código de
+   Processo Civil e aprecio, desde logo, o extraordinário,
+   conhecendo-o e provendo-o parcialmente para declarar a
+   exigibilidade da cobrança das taxas de coleta domiciliar de lixo
+   e de combate a sinistros.
+2.      Publique-se.
+Brasília, 1º de
+   junho de 2005.
+Ministro MARCO AURÉLIO
+Relator
