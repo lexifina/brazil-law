@@ -1,0 +1,2 @@
+Cria, na Carreira da Seguridade Social e do Trabalho, para lotação no Ministério da Saúde, os cargos que menciona; institui a Gratificação de Incentivo à Prestação de Assistência Integral à Saúde - GIPAS; altera o § 1º do art. 6º da Lei nº 8.745, de 9 de dezembro de 1993; revoga o art. 17 da Lei nº 10.483, de 3 de julho de 2002, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
