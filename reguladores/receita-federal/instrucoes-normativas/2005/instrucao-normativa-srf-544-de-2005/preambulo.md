@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 544, de 14 de junho de 2005
+Dispõe sobre a não incidência da CPMF na hipótese de não apresentação do Certificado de Entidade Beneficente de Assistência Social de que trata o § 2º do art. 1º da Instrução Normativa SRF nº 531, de 30 de março de 2005, e altera a Instrução Normativa SRF nº 497, de 24 de janeiro de 2005.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 030, de 25 de fevereiro de 2005, e tendo em vista o disposto nos arts. 3º, 11 e 19 da Lei nº 9.311, de 24 de outubro de 1996, e o disposto no § 5º do art. 1º e no § 4º do art. 2º da Lei nº 11.053, de 29 de dezembro de 2004, resolve:
