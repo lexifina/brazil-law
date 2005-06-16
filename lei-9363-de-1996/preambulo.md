@@ -1,0 +1,2 @@
+Dispõe sobre a instituição de crédito presumido do Imposto sobre Produtos Industrializados, para ressarcimento do valor do PIS/PASEP e COFINS nos casos que especifica, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.484-27, de 1996, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
