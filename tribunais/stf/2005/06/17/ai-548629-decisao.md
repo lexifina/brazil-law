@@ -1,0 +1,6 @@
+DECISÃO:  O princípio constitucional do respeito ao ato jurídico perfeito (e, portanto, ao direito adquirido) aplica-se também, segundo o entendimento desta Corte, às leis de ordem pública. Correto, pois, o acórdão recorrido, ao julgar que, no caso, houve afronta ao ato jurídico perfeito, porque, com relação à caderneta de poupança, há contrato de adesão entre o poupador e o estabelecimento financeiro, não podendo, assim, ser aplicada a esse contrato, durante o período para a aquisição de correção monetária mensal já iniciado, legislação que altere para menos o índice dessa correção.
+2. Ademais, em se tratando de índice de correção monetária a ser aplicado em conta de caderneta de poupança (Plano Verão), esta Corte tem entendido que, para se chegar à conclusão contrária à que chegou o acórdão recorrido, seria mister que se examinasse previamente a legislação infraconstitucional. Isso implica dizer que a alegação de ofensa à Carta Magna é indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido, em caso análogo ao presente, foi julgado o AI 289.010-AgR.
+3.  Do exposto, nego seguimento ao agravo.
+Brasília, 17 de junho de 2005.
+Ministro JOAQUIM BARBOSA
+Relator
