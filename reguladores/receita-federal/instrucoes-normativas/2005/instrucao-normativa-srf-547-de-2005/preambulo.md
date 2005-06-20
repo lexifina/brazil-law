@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 547, de 16 de junho de 2005
+Altera o Anexo I à Instrução Normativa SRF no 417, de 20 de abril de 2004, que dispõe sobre o Regime Aduaneiro Especial de Entreposto Industrial sob Controle Informatizado.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto nos arts. 89 e 90 do Decreto-lei nº 37, de 18 de novembro de 1966 e nos arts. 374 e 376 do Decreto nº 4.543, de 26 de dezembro de 2002, resolve:
