@@ -1,0 +1,4 @@
+Instrução CVM nº 420, de 2005
+INSTRUÇÃO CVM Nº 420, DE 24 DE JUNHO DE 2005.
+Dispõe sobre o recolhimento da Taxa de Fiscalização de Títulos e Valores Mobiliários instituída pela Lei nº 7.940, de 20 de dezembro de 1989, altera a Instrução CVM nº 110, de 28 de dezembro de 1989 e revoga a Instrução CVM nº 112, de 11 de janeiro de 1990, a Instrução CVM no 128, de 26 de junho de 1990, e a Instrução CVM no 219, de 15 de setembro de 1994.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada nesta data, com fundamento nas disposições da Lei no 7.940, de 20 de dezembro de 1989, e tendo em vista o disposto na Lei no 10.707, de 30 de julho de 2003, regulamentada pelo Decreto no 4.950, de 9 de janeiro de 2004, e na Instrução Normativa no 3, de 12 de fevereiro de 2004, da Secretaria do Tesouro Nacional, RESOLVEU baixar a seguinte Instrução:
