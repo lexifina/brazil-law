@@ -1,0 +1,34 @@
+DECISÃO: Trata-se de agravo contra decisão que negou
+   processamento a recurso extraordinário fundado no art. 102, III,
+   "a", da Constituição Federal.
+                O agravante não trasladou
+   cópia da petição do recurso extraordinário com o protocolo de
+   interposição legível. Impossível, portanto, a verificação da
+   tempestividade do apelo extremo.
+                Esta Corte firmou
+   entendimento segundo o qual a apresentação do protocolo legível
+   na petição do recurso extraordinário constitui elemento
+   indispensável no julgamento do agravo de instrumento, sendo o
+   juízo sobre a tempestividade do recurso uma preliminar ao exame
+   do mérito. Nesse sentido, o AgRAI 297.078-2, 1ª T., Rel. Ilmar
+   Galvão, DJ 04.05.01, assim ementado:
+"EMENTA: AGRAVO DE
+   INSTRUMENTO. CARIMBO DO PROTOCOLO NA PETIÇÃO DE RECURSO
+   EXTRAORDINÁRIO QUE SE APRESENTA ILEGÍVEL.
+Hipótese de incidência
+   da Súmula 288 desta Corte.
+Agravo desprovido."
+Ademais,
+   verifica-se que não foi transladada cópia do inteiro teor da
+   petição de recurso extraordinário, conforme determina o art. 544,
+   § 1º, do Código de Processo Civil. Trata-se de peça obrigatória
+   e essencial à compreensão da controvérsia.
+Incidem, portanto,
+   as Súmulas 288 e 639/STF.
+                Assim, não conheço do agravo
+   (art. 557, caput, do CPC).
+                Publique-se.
+                Brasília, 29
+   de junho de 2005.
+Ministro GILMAR MENDES
+Relator
