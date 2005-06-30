@@ -1,0 +1,1 @@
+Artigo 5º - A concessão das subvenções econômicas, inclusive a doação de sementes para adubação verde e a doação de mudas de espécies florestais nativas, previstas nestas Disposições Transitórias, dar-se-á mediante termo de compromisso firmado pelo beneficiário e comprovação das despesas efetuadas, exceto nos casos de doação de sementes e de mudas. (NR)

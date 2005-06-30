@@ -1,0 +1,7 @@
+Artigo 3º - As subvenções econômicas cobrirão parte dos dispêndios efetuados pelos produtores rurais com a execução das práticas de: (NR)
+I - construção de cercas para proteção dos mananciais; (NR)
+II - serviços de terraceamento mecânico; (NR)
+III - construção de faixas de retenção; (NR)
+IV - construção de abastecedouros comunitários; (NR)
+V - aquisição de escarificador/subsolador, distribuidor de calcário e roçadeira; (NR)
+VI - uso, manejo e conservação do solo e da água identificados nos planos das microbacias hidrográficas abrangidas pelo Programa de que trata o artigo 1º destas Disposições Transitórias. (NR)

@@ -1,0 +1,1 @@
+Artigo 2º - As subvenções econômicas e a doação de sementes e de mudas previstas no artigo 1º destas Disposições Transitórias limitar-se-ão ao montante de US$ 36,300,000.00 (trinta e seis milhões e trezentos mil dólares), no período de vigência do referido empréstimo. (NR)

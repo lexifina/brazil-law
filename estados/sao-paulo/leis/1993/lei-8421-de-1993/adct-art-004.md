@@ -1,0 +1,1 @@
+Artigo 4º - As subvenções econômicas serão concedidas por intermédio do Fundo de Expansão do Agronegócio Paulista - O Banco do Agronegócio Familiar, de que trata a Lei nº 7.964, de 16 de julho de 1992, e suas alterações, sob a forma de reembolso das despesas efetuadas pelos produtores. (NR)

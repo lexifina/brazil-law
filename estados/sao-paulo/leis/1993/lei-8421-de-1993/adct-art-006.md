@@ -1,0 +1,3 @@
+Artigo 6º - Do termo de compromisso previsto no artigo 5º destas Disposições Transitórias deverão constar, conforme o caso, além das atividades que visem a assegurar a continuidade de práticas conservacionistas e de uso e manejo do solo e da água, as obrigações de: (NR)
+I - disciplinar o uso de abastecedouros e equipamentos comunitários de forma a atender todos os filiados ao grupo beneficiado; (NR)
+II - restituir ao Fundo de Expansão do Agronegócio Paulista - O Banco do Agronegócio Familiar, o valor da subvenção econômica ou das sementes e mudas recebidas, com a devida atualização monetária, na hipótese de descumprimento das condições constantes do termo de compromisso. (NR)
