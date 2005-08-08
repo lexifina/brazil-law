@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 556, de 2 de agosto de 2005
+Aprova o Programa Multiplataforma para preenchimento da Declaração do Imposto sobre a Propriedade Territorial Rural do exercício de 2005 (DITR2005), para uso em computador que possua a máquina virtual Java (JVM) com versão 1.4.1 ou posterior instalada (Programa ITR2005 Java).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe conferem os incisos III e XVIII do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005 e, tendo em vista o disposto na Instrução Normativa SRF nº 554, de 12 de julho de 2005, resolve:
