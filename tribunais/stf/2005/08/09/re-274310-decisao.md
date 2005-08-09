@@ -1,0 +1,89 @@
+DECISÃO: Ao instituir a Contribuição Social sobre o lucro, a Lei n.
+   7.689/88 estabeleceu diferença entre as alíquotas que seriam
+   recolhidas pelas instituições financeiras (12%) e aquelas
+   cobradas das pessoas jurídicas em geral (8%). A legislação
+   superveniente manteve a distinção, fixando os seguintes
+   percentuais de incidência da contribuição sobre as instituições
+   financeiras e sobre as pessoas jurídicas, respectivamente: Lei n.
+   7.856/88, 10% e 14%; Lei n. 8.114/90, 10% e 15%; Lei n.
+   8.212/91, 10% e 15%; Lei Complementar n. 70/91, 10% e 23%; Emenda
+   Constitucional de Revisão n. 1/94, 30% para as financeiras; Lei
+   n. 9.249/95, 8% e 18%; Emenda Constitucional n. 10/96 (ADCT, art.
+   72, III), 30% para as financeiras; e Lei n. 9.316/96 (MP n.
+   1.516-1), 8% e 18%.
+2.      A tese que fundamenta a interposição do
+   recurso extraordinário está ancorada no argumento de que a
+   fixação de alíquotas variáveis violaria os princípios
+   constitucionais da isonomia, da anterioridade e da capacidade
+   contributiva, razão pela qual o valor da alíquota haveria de ser
+   equivalente para todas as pessoas jurídicas.
+3.      É o breve
+   relatório.
+4.      Conseqüências normativas decorrentes do eventual
+   deferimento do pedido contido no recurso extraordinário fazem com
+   que aspectos de ordem processual comprometam a análise da
+   questão de mérito posta a julgamento desta Corte. Uma vez aceita
+   a tese de que a cobrança de alíquotas superiores às instituições
+   financeiras violaria os princípios tributários veiculados pela
+   Constituição do Brasil, a declaração de inconstitucionalidade da
+   parte dos textos normativos que estabelece distinção entre as
+   alíquotas acarretaria ou a equiparação dos seus percentuais, ou a
+   sua supressão.
+5.      A primeira hipótese é inadmissível, visto
+   que a esta Corte é vedado atuar como legislador positivo. Pois
+   nela operar-se-ia alteração do  "sentido inequívoco da norma" (MS
+   n. 22.439, Relator o Ministro Maurício Corrêa, DJ de 11.4.2003).
+        Essa é já tradicional  jurisprudência do Supremo (v.g.,
+   Representação n. 1.451-7-DF (RTJ 127/789-808):
+"A
+   jurisprudência desta corte é firme no entendimento de que, por
+   via de declaração de inconstitucionalidade de parte da lei, não
+   pode ela alterar o sentido inequívoco desta, o que implicaria, em
+   última análise, criar lei nova, por diversa, em seu sentido, da
+   existente. Corte Constitucional só pode atuar como legislador
+   negativo, não, porém, como legislador positivo.").
+6.      Na
+   segunda hipótese --- supressão da alíquota --- o Tribunal, ao
+   afastar a exigibilidade da exação, estaria concedendo uma
+   "pseudo-isenção". Pois a retirada, do mundo jurídico, de norma
+   definidora de alíquota de incidência de contribuição importaria,
+   no âmbito do controle difuso de constitucionalidade, a concessão
+   de isenção do recolhimento do tributo ao sujeito passivo da
+   obrigação tributária; a contribuição não poderia ser cobrada sem
+   que a lei estabelecesse aquela alíquota.
+7.      Em suma, o Supremo
+   não pode fazer nem uma coisa (equiparar alíquotas), nem outra
+   (suprimir alíquotas). A concessão de isenção é matéria de lei,
+   não pode ser transferida ao autor da prestação jurisdicional.
+8.      Dado o paralelismo das situações, veja-se a ementa
+   decorrente do julgamento do RE n. 196.590, Relator o Ministro
+   Moreira Alves, DJ de 14.11.96:
+"EMENTA: Servidor Público.
+   Decreto-Lei 2.225/85. - Falta de prequestionamento da questão
+   relativa ao artigo 37, caput, da Carta Magna.
+- No tocante à
+   alegada violação ao artigo 5º, caput, da Carta Magna, o que
+   pretendem os recorrentes é que, com base no princípio
+   constitucional da igualdade, lhes seja estendida a transferência
+   determinada pelo Decreto-Lei 2.225/85. Ora, se esse Decreto fosse
+   inconstitucional nessa parte por violação do princípio da
+   igualdade, sua declaração de inconstitucionalidade teria o efeito
+   de tê-lo como nulo, não podendo, portanto, ser aplicado às
+   categorias por ele beneficiadas, e não o de estender a
+   transferência por ele concedida a outra categoria que ele não
+   alcança. Em se tratando de inconstitucionalidade de ato
+   normativo, o Poder Judiciário atua como legislador negativo,
+   jamais como legislador positivo. Portanto, a acolhida da
+   pretensão dos ora recorrentes é juridicamente impossível por
+   parte do Poder Judiciário. Recurso extraordinário não conhecido."
+9.      O acolhimento da pretensão almejada no recurso
+   extraordinário é juridicamente impossível. Não cabe a esta Corte
+   alterar o sentido do texto normativo ou distribuir favores
+   fiscais não definidos em lei.
+        Ante o exposto, nego seguimento
+   ao recurso, com fundamento no § 1ª do art. 21 do RISTF.
+        Publique-se.
+        Brasília, 9 de agosto de 2005.
+Ministro
+   Eros Grau
+- Relator -
