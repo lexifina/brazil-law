@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF08 nº 172, de 15 de julho de 2005
+Assunto: Normas Gerais de Direito Tributário
+Ementa: RETENÇÃO DE TRIBUTOS E CONTRIBUIÇÕES - Emissão de Documentos.
+Nos pagamentos de pedágio pelo sistema denominado “Sem Parar” efetuados pelos órgãos da administração federal direta, autarquias, fundações federais, empresas públicas, sociedades de economia mista e demais entidades em que a União, direta ou indiretamente detenha a maioria do capital social sujeito a voto, e que recebam recursos do Tesouro Nacional e estejam obrigadas a registrar sua execução orçamentária e financeira no Sistema Integrado de Administração Financeira do Governo Federal (Siafi), por intermédio de uma pessoa jurídica que arrecada os valores devidos pelos usuários e os repassa às empresas que administram a rodovia, a retenção dos tributos e contribuições (IRPJ, CSLL, Cofins e contribuição para o PIS/Pasep) deve ser feita sobre o total a pagar a cada empresa prestadora do serviço (concessionária).
+Neste caso, a pessoa jurídica intermediária deverá apresentar documento de cobrança aos órgãos públicos, autarquias, fundações federais e entidades da administração pública federal que efetuarem o pagamento, no qual deverá constar o nome e o número de inscrição no Cadastro Nacional de Pessoa Jurídica (CNPJ) da empresa que administra a rodovia (concessionária), a fim de que o ente pagador possa efetuar a retenção dos tributos e contribuições correspondentes às tarifas de pedágio devidas a cada concessionária.
+Dispositivos Legais: Art. 64 da Lei nº 9.430, de 27.12.1996; art. 34 da Lei nº 10.833, de 29.12.2003; e Instrução Normativa SRF nº 480, de 15.12.2004.
+Novo segmento
+[arquivo anexo: SC SRRF08-Disit nº 172-2005.pdf]
