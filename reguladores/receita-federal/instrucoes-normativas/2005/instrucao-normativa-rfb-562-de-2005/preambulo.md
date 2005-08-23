@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 562, de 19 de agosto de 2005
+Dispõe sobre a aplicação do regime aduaneiro de admissão temporária dos bens destinados a competições desportivas internacionais.
+O SECRETÁRIO-GERAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF no 30, de 25 de fevereiro de 2005, combinado com o disposto no art. 8o da Portaria MF no 275, de 15 de agosto de 2005, e no art. 1o da Portaria MF no 271, de 12 de agosto de 2005, e tendo em vista o disposto no art. 323 do Decreto nº 4.543, de 26 de dezembro de 2002, resolve:
