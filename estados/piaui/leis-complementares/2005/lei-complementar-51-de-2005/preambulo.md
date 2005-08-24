@@ -1,0 +1,5 @@
+LEI COM
+
+PUBLICADO NO D
+
+O GO FAÇO Lei:
