@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 564, de 24 de agosto de 2005
+Altera a Instrução Normativa SRF no 513, de 17 de fevereiro de 2005, que dispõe sobre a aplicação do regime aduaneiro especial de entreposto aduaneiro em plataformas destinadas à pesquisa e lavra de jazidas de petróleo e gás natural em construção ou conversão no País, contratadas por empresas sediadas no exterior.
+O SECRETÁRIO-GERAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF no 30, de 25 de fevereiro de 2005, combinado com o disposto no art. 1o da Portaria MF no 271, de 12 de agosto de 2005, resolve:
