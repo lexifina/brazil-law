@@ -1,0 +1,85 @@
+DECISÃO: 1. Trata-se de reclamação, com pedido de liminar,
+   proposta pela União contra decisão do Juízo da 1ª Vara Federal da
+   Seção Judiciária do Estado de Goiás, que, ao julgar duas ações
+   conexas, concedeu antecipação dos efeitos da tutela, consistente
+   no pagamento de vantagens funcionais em favor de Procuradores da
+   Fazenda Nacional
+        O pedido funda-se em que a decisão
+   ofenderia o provimento cautelar proferido por esta Corte na ADC
+   nº 4/DF.
+        Os demandantes pleiteiam o restabelecimento de
+   vantagem pecuniária, cuja percepção lhes teria sido garantida,
+   sob forma de vantagem pessoal nominalmente identificada, pelo
+   art. 6º, caput, da Lei Federal nº 10.549, de 13 de novembro de
+   2002. Alegam que a Nota Técnica nº 053/2002, da Secretaria de
+   Recursos Humanos do Ministério do Planejamento, Orçamento e
+   Gestão, teria, ilegalmente, determinado a extinção retroativa da
+   verba, desde 1º de março de 2002, bem como o desconto das
+   parcelas pagas em meses seguintes.
+        Em 01/09/2003, deferi a
+   liminar nos seguintes termos (Vol. I, fls. 137/138):
+                "
+   (...)
+        Tal ato decisório parece, deveras, afrontar os termos da
+   medida cautelar, concedida por esta Corte, na ADC nº 4/DF, Rel.
+   Min. SYDNEY SANCHES, dos quais resulta a inadmissibilidade de
+   tutela provisória contra o Poder Público, em hipóteses que
+   impliquem concessão de aumento, extensão de vantagens
+   pecuniárias, outorga ou acréscimo de vencimentos, pagamento de
+   vencimentos e vantagens pecuniárias a servidor público, ou
+   exaustão, total ou parcial, do objeto de demanda respeitante a
+   qualquer de tais casos (cf. Rcl nº 1.514/RS e Rcl nº 1.749/MS,
+   Rel. Min. CELSO DE MELLO).
+        Ora, a espécie está, pois,
+   abrangida, ao menos na aparência, pelo âmbito de eficácia da
+   medida cautelar, porque implica pagamento de vantagens
+   pecuniárias a servidores públicos em atividade, com insulto às
+   limitações impostas pelo art. 1º da Lei nº 9.494/97. E é claro o
+   risco de danos graves à reclamante.
+3.      Do exposto defiro a
+   medida liminar, para suspender até solução definitiva desta
+   reclamação, os efeitos da decisão impugnada, neles compreendida a
+   prática de todo ato processual relacionado com a tutela ora
+   inibida."
+        Interposto agravo regimental, o Pleno negou-lhe
+   provimento, por vu ( Vol. VI, fls.
+   1292/1296).
+2.      Insubsistente a reclamação.
+        Até há pouco,
+   em casos como este, inclinava-me a observar o entendimento da
+   Corte, que não distinguia entre concessão e restabelecimento de
+   vantagens pecuniárias, bastando se tivesse configurado hipótese
+   de ordem de pagamento, para acolher reclamação.
+        Rendo-me,
+   porém, como já o fiz, ao que assentou o Plenário, por vu, no
+   julgamento da Rcl nº 2482 (Rel. Min. SEPÚLVEDA PERTENCE, j. em
+   10/08/2005), quando, rediscutindo a matéria, decidiu que decisão
+   de subsistência de vencimentos ou vantagens não ofende a
+   autoridade do acórdão da ADC nº 4, como já se professava, antes,
+   num ou noutro caso (cf. Rcl nº 1.578, Rel. Min. ILMAR GALVÃO, DJ
+   de 26/06/2002, e Rcl nº 2.382, Rel. Min. CARLOS BRITTO, DJ de
+   07/05/2004). E não ofende, porque não é caso de deferir aumento,
+   vedado, senão de impedir redução de verbas remuneratórias. Da
+   ementa do acórdão do Plenário consta:
+        "RECLAMAÇÃO: ALEGAÇÃO
+   DE DESRESPEITO DO JULGADO DO SUPREMO TRIBUNAL FEDERAL NA ADC MC
+   4-6: IMPROCEDÊNCIA
+        Hipótese de manutenção de status quo
+   garantida por antecipação de tutela, que não traduz aumento, mas
+   impedimento judicial à redução de verbas salariais - que, mal ou
+   bem, se entendeu decorrer de indevida aplicação retroativa da
+   lei: questão de direito intertemporal, de todo estranha à decisão
+   na ADC 4, que, assim, não se pode pretender
+   desrespeitada".
+3.      Do exposto, julgo improcedente a
+   reclamação,  nos termos do art. 21, § 1º, do RISTF, cassando, em
+   conseqüência, a medida liminar (fls. 137/138).
+        Comunique-se,
+   com urgência, transmitindo-se cópia desta decisão à 1ª Vara
+   Federal da Seção Judiciária do Estado de Goiás. Arquivem-se
+   oportunamente os autos.
+Publique-se.
+Brasília, 31 de agosto
+   de 2005.
+Ministro CEZAR PELUSO
+Relator
