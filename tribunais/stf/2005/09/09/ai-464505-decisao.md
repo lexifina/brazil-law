@@ -1,0 +1,97 @@
+DECISÃO: Trata-se de agravo contra decisão que negou
+   processamento a recurso extraordinário interposto com fundamento
+   no art. 102, III, "a", da Constituição Federal, interposto em
+   face de  acórdão assim ementado (fl. 18):
+"ADMINISTRATIVO.
+   CÁLCULO EQUIVOCADO DE PARCELA SALARIAL. PAGAMENTO POR PRAZO
+   SUPERIOR A CINCO ANOS. REDUÇÃO INDEVIDA. AUSÊNCIA DO DEVIDO
+   PROCESSO LEGAL. APLICAÇÃO DOS INCISOS LIV E LV DO ART. 5o DA
+   CONSTITUIÇÃO FEDERAL E DOS PRINCÍPIOS DA SEGURANÇA E ESTABILIDADE
+   DAS RELAÇÕES JURÍDICAS. JUROS DE MORA.
+Por período superior a
+   cinco anos a autora recebeu o valor da GEFA (Gratificação de
+   Estímulo à Fiscalização e Arrecadação) calculada com base em
+   proventos integrais do instituidor da pensão, quando o correto
+   seria o cálculo proporcional a 27/35; não obstante, o fato
+   ocorreu em virtude de erro atribuível apenas à Administração,
+   sendo incontroversa a boa-fé da pensionista.
+A redução da
+   parcela, realizada na via administrativa, foi indevida tanto sob
+   o aspecto formal, pois não precedida do devido processo legal que
+   assegurasse o contraditório e a ampla defesa, quanto em
+   decorrência dos princípios da segurança e estabilidade das
+   relações jurídicas, dado o tempo em que a autora permaneceu
+   recebendo a vantagem integral por meio de ato com aparência de
+   legitimidade.
+Os juros moratórios são devidos à taxa de 1% ao
+   mês em face do caráter alimentar dos créditos. Precedentes do
+   STJ.
+Apelação e remessa oficial improvidas."
+                Alega-se
+   violação ao art. 37, da Carta Magna. Aduz-se que o art. 5o, LV,
+   da CF, não foi afrontado pois "não há necessidade de
+   contraditório para simples implementação de determinação legal. A
+   garantia constitucional é restrita às hipóteses em que há
+   processo disciplinar, pois a expressão 'processo administrativo'
+   foi utilizada no inciso LV do art. 5o no sentido de processo
+   disciplinar".
+O acórdão recorrido extraordinariamente está em
+   consonância com a jurisprudência desta Corte, conforme se
+   depreende no julgamento do MS 24.268, Pleno, DJ 17.09.04, do qual
+   fui redator para o acórdão, examinei o tema ora em exame,
+   restando à decisão assim ementada:
+"EMENTA: Mandado de
+   Segurança. 2. Cancelamento de pensão especial pelo Tribunal de
+   Contas da União. Ausência de comprovação da adoção por
+   instrumento jurídico adequado. Pensão concedida há vinte anos. 3.
+   Direito de defesa ampliado com a Constituição de 1988. Âmbito de
+   proteção que contempla todos os processos, judiciais ou
+   administrativos, e não se resume a um simples direito de
+   manifestação no processo. 4. Direito constitucional comparado.
+   Pretensão à tutela jurídica que envolve não só o direito de
+   manifestação e de informação, mas também o direito de ver seus
+   argumentos contemplados pelo órgão julgador. 5. Os princípios do
+   contraditório e da ampla defesa, assegurados pela Constituição,
+   aplicam-se a todos os procedimentos administrativos. 6. O
+   exercício pleno do contraditório não se limita à garantia de
+   alegação oportuna e eficaz a respeito de fatos, mas implica a
+   possibilidade de ser ouvido também em matéria jurídica. 7.
+   Aplicação do princípio da segurança jurídica, enquanto
+   subprincípio do Estado de Direito. Possibilidade de revogação de
+   atos administrativos que não se pode estender indefinidamente.
+   Poder anulatório sujeito a prazo razoável.  Necessidade de
+   estabilidade das situações criadas administrativamente. 8.
+   Distinção entre atuação administrativa que independe da audiência
+   do interessado e decisão que, unilateralmente, cancela decisão
+   anterior. Incidência da garantia do contraditório, da ampla
+   defesa e do devido processo legal ao processo administrativo. 9.
+   Princípio da confiança como elemento do princípio da segurança
+   jurídica. Presença de um componente de ética jurídica. Aplicação
+   nas relações jurídicas de direito público. 10. Mandado de
+   Segurança deferido para determinar observância do princípio do
+   contraditório e da ampla defesa (CF art. 5º LV)."
+        Vale
+   destacar, ainda, a orientação firmada pela 2a Turma, no
+   julgamento do RE 199.733, Rel. Marco Aurélio, DJ
+   30.04.99:
+"ATO ADMINISTRATIVO - REPERCUSSÕES - PRESUNÇÃO DE
+   LEGITIMIDADE - SITUAÇÃO CONSTITUÍDA - INTERESSES CONTRAPOSTOS -
+   ANULAÇÃO - CONTRADITÓRIO. Tratando-se de ato administrativo cuja
+   formalização haja repercutido no campo de interesses individuais,
+   a anulação não prescinde da observância do contraditório, ou
+   seja, da instauração de processo administrativo que enseje a
+   audição daqueles que terão modificada situação já alcançada.
+   Presunção de legitimidade do ato administrativo praticado, que
+   não pode ser afastada unilateralmente, porque é comum à
+   Administração e ao particular."
+A posição consolidada na 2a
+   Turma desta Corte mereceu, igualmente, a confirmação do Plenário
+   no julgamento do MS no 23.550, Red. para acórdão Min. Sepúlveda
+   Pertence, DJ 31.10.01.
+Assim, nego seguimento ao agravo (art.
+   557, caput, do CPC).
+Publique-se.
+Brasília, 09 de
+   setembro de 2005.
+Ministro GILMAR MENDES
+Relator
