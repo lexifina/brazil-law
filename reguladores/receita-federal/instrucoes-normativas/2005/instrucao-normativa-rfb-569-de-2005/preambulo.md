@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 569, de 19 de setembro de 2005
+Dispõe sobre o processo de consulta acerca da interpretação da legislação tributária e de classificação de mercadorias no âmbito da Receita Federal do Brasil.
+O SECRETÁRIO-GERAL DA RECEITA FEDERAL DO BRASIL, no uso das atribuições previstas no inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF no 30, de 25 de fevereiro de 2005, combinado com o disposto no art. 8o da Portaria MF no 275, de 15 de agosto de 2005, e tendo em vista o disposto nos arts. 46 a 53 do Decreto no 70.235, de 6 de março de 1972, nos arts. 48 a 50 da Lei no 9.430, de 27 de dezembro de 1996, e nos arts. 3o e 4o, §§ 4o e 5o da Medida Provisória no 258, de 21 de julho de 2005, resolve:
