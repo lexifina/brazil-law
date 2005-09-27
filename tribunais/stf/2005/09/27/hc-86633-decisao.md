@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JORGE ALBERTO ANDERS, tendo por autoridade coatora o Superior Tribunal de Justiça, que denegou a ordem impetrada no HC 42.870.
+Consta dos autos que o paciente foi denunciado, perante a 5ª Vara Federal da Seção Judiciária do Espírito Santo, como incurso no art. 1º, I, da Lei 4.729/1965 (denúncia de fls. 16-19). Ele aderira ao plano de parcelamento do débito tributário (PAES) instituído pela Lei 10.684/2003, cujo art. 9º foi declarado inconstitucional incidenter tantum pelo juiz federal na Ação Penal 2001.50.01.003021-9 (decisão de fls. 20-22). Na fase processual do art. 499 do Código de Processo Penal, tanto o Ministério Público Federal como a defesa do paciente requereram a expedição de ofício à Delegacia da Receita Federal, para que informasse se o réu estava vinculado ao programa de parcelamento e se havia sido quitado seu débito tributário. O magistrado, por entender que o atendimento de tal diligência seria irrelevante para a causa, uma vez que qualquer informação prestada por aquele órgão público em nada afetaria o julgamento da ação - exceto na eventual condenação por força do art. 65, III, b, do Código Penal -, indeferiu o pedido (fls. 28-29).
+Sustenta a impetrante que o constrangimento ilegal consiste na ausência de suspensão da pretensão punitiva do Estado, conforme previsto no art. 9º da Lei 10.684/2003, embora ainda fosse cabível a aplicação do benefício, mesmo o paciente tendo aderido ao plano de parcelamento do débito tributário depois de recebida a denúncia. Observa que o Supremo Tribunal Federal já reconheceu a constitucionalidade do mencionado dispositivo legal.
+Busca, liminarmente, a suspensão da ação penal promovida contra o paciente, até a integral quitação do débito tributário.
+É o relatório.
+Decido.
+A presente impetração traz diversas causas de pedir. A primeira trata da constitucionalidade do art. 9º da Lei 10.684/2003. A segunda é concernente à alegação de cerceamento de defesa. A terceira relaciona-se à comprovação da pertinência entre os débitos fiscais apontados e a ação penal a que responde o paciente.
+Quanto à causa de pedir referente à comprovação da pertinência dos débitos fiscais com a ação penal a que o paciente responde, trata-se de reiteração do HC 86.465 - também da minha relatoria, no qual se apontou como autoridade coatora o Superior Tribunal de Justiça (HC 42.870) -, com articulação dos mesmos fundamentos ali expostos. Naqueles autos, indeferi o pedido de liminar. O feito aguarda cumprimento de diligência pelo impetrante.
+No que concerne às demais causas de pedir, não foram elas apresentadas ao Superior Tribunal de Justiça, de sorte que o Supremo Tribunal Federal não tem competência para apreciá-las, sob pena de supressão de instância.
+Do exposto, nego seguimento ao habeas corpus, ficando prejudicado o pedido de liminar.
+Apensem-se estes autos aos do HC 86.465.
+Publique-se.
+Brasília, 27 de setembro de 2005.
+Ministro JOAQUIM BARBOSA
+Relator
