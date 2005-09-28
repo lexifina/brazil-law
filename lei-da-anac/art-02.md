@@ -1,0 +1,1 @@
+Art. 2º Compete à União, por intermédio da ANAC e nos termos das políticas estabelecidas pelos Poderes Executivo e Legislativo, regular e fiscalizar as atividades de aviação civil e de infra-estrutura aeronáutica e aeroportuária.

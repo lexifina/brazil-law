@@ -1,0 +1,1 @@
+Art. 12. Os diretores serão brasileiros, de reputação ilibada, formação universitária e elevado conceito no campo de especialidade dos cargos para os quais serão nomeados pelo Presidente da República, após serem aprovados pelo Senado Federal, nos termos da alínea f do inciso III do art. 52 da Constituição Federal.
