@@ -1,0 +1,1 @@
+Art. 27. As iniciativas ou alterações de atos normativos que afetem direitos de agentes econômicos, inclusive de trabalhadores do setor ou de usuários de serviços aéreos, serão precedidas de audiência pública convocada e dirigida pela ANAC.

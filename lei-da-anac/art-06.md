@@ -1,0 +1,2 @@
+Art. 6º Com o objetivo de harmonizar suas ações institucionais na área da defesa e promoção da concorrência, a ANAC celebrará convênios com os órgãos e entidades do Governo Federal, competentes sobre a matéria.
+Parágrafo único. Quando, no exercício de suas atribuições, a ANAC tomar conhecimento de fato que configure ou possa configurar infração contra a ordem econômica, ou que comprometa a defesa e a promoção da concorrência, deverá comunicá-lo aos órgãos e entidades referidos no caput deste artigo, para que adotem as providências cabíveis.

@@ -1,0 +1,1 @@
+Art. 24. Na estrutura dos cargos da ANAC, o provimento por um servidor civil, de Cargo Comissionado de Gerência Executiva, de Assessoria, de Assistência e de Técnico, implicará o bloqueio, para um militar, da concessão de uma correspondente Gratificação de Exercício em Cargo de Confiança e de Gratificação de Representação pelo Exercício de Função, e vice-versa.

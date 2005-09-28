@@ -1,0 +1,3 @@
+Art. 29. A ANAC fica autorizada a cobrar taxas pela prestação de serviços ou pelo exercício do poder de polícia, decorrentes de atividades inerentes à sua missão institucional, destinando o produto da arrecadação ao seu custeio e funcionamento.
+§ 1º A cobrança prevista no caput deste artigo recairá sobre as empresas concessionárias, permissionárias e autorizatárias de serviços aéreos, demais operadores de serviços aéreos, empresas exploradoras de infra-estrutura aeroportuária, agências de carga aérea, pessoas jurídicas que explorem atividades de fabricação, manutenção, reparo ou revisão de produtos aeronáuticos e outros usuários de aviação civil.
+§ 2º As taxas e seus respectivos fatos geradores são aqueles definidos no Anexo III desta Lei.
