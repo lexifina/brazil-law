@@ -1,0 +1,2 @@
+Art. 37. A ANAC poderá requisitar, com ônus, servidores e empregados de órgãos e entidades integrantes da Administração Pública.
+§ 1º Durante os primeiros 24 (vinte e quatro) meses subseqüentes a sua instalação, a ANAC poderá complementar a remuneração do servidor ou empregado público requisitado até o limite da remuneração do cargo efetivo ou emprego permanente ocupado no órgão ou na entidade de origem, quando a requisição implicar redução dessa remuneração. (Parágro único renumerado pela Lei nº 11.292, de 2006)

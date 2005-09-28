@@ -1,0 +1,1 @@
+Art. 45. O Comando da Aeronáutica prestará os serviços de que a ANAC necessitar, com ônus limitado, durante 180 (cento e oitenta dias) após sua instalação, devendo ser celebrados convênios para a prestação dos serviços após este prazo.

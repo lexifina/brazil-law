@@ -1,0 +1,1 @@
+Art. 4º A natureza de autarquia especial conferida à ANAC é caracterizada por independência administrativa, autonomia financeira, ausência de subordinação hierárquica e mandato fixo de seus dirigentes.

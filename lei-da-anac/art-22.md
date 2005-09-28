@@ -1,0 +1,1 @@
+Art. 22. Ficam criadas as Gratificações de Exercício em Cargo de Confiança e de Representação pelo Exercício de Função, privativas de militar, nos quantitativos e valores previstos no Anexo II desta Lei.

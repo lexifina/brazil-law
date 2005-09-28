@@ -1,0 +1,1 @@
+Art. 43. Aprovado seu regulamento, a ANAC passará a ter o controle sobre todas as atividades, contratos de concessão e permissão, e autorizações de serviços aéreos, celebrados por órgãos ou entidades da Administração direta ou indireta da União.

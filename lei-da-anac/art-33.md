@@ -1,0 +1,2 @@
+Art. 33. O Fundo Aeroviário, fundo de natureza contábil e de interesse da defesa nacional, criado pelo Decreto-Lei nº 270, de 28 de fevereiro de 1967, alterado pela Lei nº 5.989, de 17 de dezembro de 1973, incluídos seu saldo financeiro e seu patrimônio existentes nesta data, passa a ser administrado pela Agência Nacional de Aviação Civil.
+Parágrafo único. O Diretor-Presidente da ANAC passa a ser o gestor do Fundo Aeroviário.

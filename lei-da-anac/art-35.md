@@ -1,0 +1,1 @@
+Art. 35. O Poder Executivo regulamentará a distribuição dos recursos referidos no inciso I do art. 1º da Lei nº 8.399, de 7 de janeiro de 1992, entre os órgãos e entidades integrantes do Sistema de Aviação Civil na proporção dos custos correspondentes às atividades realizadas.

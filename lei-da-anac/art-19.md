@@ -1,0 +1,1 @@
+Art. 19. A Corregedoria fiscalizará a legalidade e a efetividade das atividades funcionais dos servidores e das unidades da ANAC, sugerindo as medidas corretivas necessárias, conforme disposto em regulamento.
