@@ -1,0 +1,1 @@
+Art. 20. O Conselho Consultivo da ANAC, órgão de participação institucional da comunidade de aviação civil na Agência, é órgão de assessoramento da diretoria, tendo sua organização, composição e funcionamento estabelecidos em regulamento.
