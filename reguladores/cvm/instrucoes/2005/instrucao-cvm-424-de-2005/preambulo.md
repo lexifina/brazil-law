@@ -1,0 +1,4 @@
+Instrução CVM nº 424, de 2005
+INSTRUÇÃO CVM No 424, DE 04 DE OUTUBRO DE 2005.
+Dispõe sobre o cadastramento de bancos comerciais, bancos múltiplos sem carteira de investimento na CVM, da Caixa Econômica Federal e das cooperativas de crédito, como condição para o exercício das atividades que menciona – Revoga a Instrução CVM nº 417, de 31 de março de 2005.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada nesta data, de acordo com o disposto no art. 8o, inciso I, da Lei no 6.385, de 7 dezembro de 1976, no art. 2o da Resolução no 3.261, de 28 de janeiro de 2005, e no art. 23, inciso VII, da Resolução no 3.106, de 25 de junho de 2003, com redação dada pela Resolução no 3.309, de 31 de agosto de 2005, todas do Conselho Monetário Nacional, RESOLVEU baixar a seguinte Instrução:
