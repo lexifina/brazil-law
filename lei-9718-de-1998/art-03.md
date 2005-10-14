@@ -20,7 +20,6 @@ IV - no caso de empresas de capitalização, os rendimentos auferidos nas aplica
 § 8º Na determinação da base de cálculo da contribuição para o PIS/PASEP e COFINS, poderão ser deduzidas as despesas de captação de recursos incorridas pelas pessoas jurídicas que tenham por objeto a securitização de créditos:
 I - imobiliários, nos termos da Lei nº 9.514, de 20 de novembro de 1997;
 II - financeiros, observada regulamentação editada pelo Conselho Monetário Nacional.
-III - agrícolas, conforme ato do Conselho Monetário Nacional.
 § 9º Na determinação da base de cálculo da contribuição para o PIS/PASEP e COFINS, as operadoras de planos de assistência à saúde poderão deduzir:
 I - co-responsabilidades cedidas;
 II - a parcela das contraprestações pecuniárias destinada à constituição de provisões técnicas;
