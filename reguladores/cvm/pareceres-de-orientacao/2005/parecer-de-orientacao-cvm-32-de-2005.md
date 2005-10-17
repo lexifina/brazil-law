@@ -1,0 +1,23 @@
+Parecer de Orientação CVM nº 32, de 2005
+PARECER DE ORIENTAÇÃO CVM Nº 32, DE 30 DE SETEMBRO DE 2005.
+Uso da Internet em ofertas de valores mobiliários e na intermediação de operações.
+O presente parecer de orientação tem por objetivo explicitar o entendimento da Comissão de Valores Mobiliários quanto à caracterização (i) de uma oferta de distribuição de valores mobiliários como pública, quando a Internet é utilizada como meio de comunicação, com base na interpretação do art. 19, §3º, III da Lei n.º 6.385/76, e (ii) de exercício de atividade sujeita à autorização da Comissão de Valores Mobiliários, quando a atividade é exercida por intermédio da Internet, nos termos do art. 16 da mesma lei.
+O problema da utilização da Internet no mercado de valores mobiliários relaciona-se diretamente com a realização de oferta de valores mobiliários emitidos em outros países e a prestação de serviços de negociação de valores mobiliários junto a pessoas residentes no Brasil por intermediários estrangeiros. Além disso, a utilização da Internet também atinge ofertas e atividades no mercado de valores mobiliários efetuadas integralmente no Brasil, por agentes locais.
+Deve-se notar, ainda, que a oferta de valores mobiliários emitidos em outros países e a intermediação de valores mobiliários junto a pessoas residentes no Brasil, por intermediários estrangeiros, ainda que não se utilizem da Internet, podem estar sujeitas à autorização da Comissão de Valores Mobiliários.
+Por esses motivos, esta Comissão decidiu tratar da utilização da Internet e do registro de ofertas e intermediários separadamente, em pareceres de orientação editados na mesma data (além deste Parecer de Orientação, o de nº 33/05).
+Esses dois pareceres devem ser lidos conjuntamente sempre que se pretender compreender o entendimento desta Autarquia no que respeita a ofertas de valores mobiliários e ao exercício de atividades sujeitas à autorização da própria Comissão de Valores Mobiliários, quando se utiliza a Internet como meio de comunicação (i) entre intermediário situado no exterior e investidores residentes, domiciliados ou constituídos no Brasil ou (ii) para oferta de valor mobiliário emitido no exterior àqueles investidores.
+1. Oferta Pública de Distribuição de Valores Mobiliários e Internet.
+O uso da Internet como meio para divulgar a oferta de valores mobiliários caracteriza tal oferta, via de regra, como pública, nos termos do inciso III do § 3º do art. 19 da Lei nº 6.385/76, uma vez que a Internet permite o acesso indiscriminado às informações divulgadas por seu intermédio. Esse entendimento já consta, inclusive, do art. 3º, IV, da Instrução 400/05.
+Dessa forma, salvo se medidas preventivas forem tomadas, ou situações especiais forem verificadas, faz-se necessário o prévio registro de tais ofertas perante a Comissão de Valores Mobiliários, nos termos do caput do artigo 19 da Lei nº 6.385/76.
+Dentre as medidas preventivas e as situações especiais que podem ser levadas em consideração para a descaracterização da oferta de distribuição de valores mobiliários feita por intermédio da Internet como pública estão as seguintes:
+a. medidas efetivas tomadas pelo patrocinador da página da Internet – information provider - para impedir que o público em geral tenha acesso ao conteúdo da página;
+b. inexistência de divulgação da página ao público pelo patrocinador da página da internet por meio de correio eletrônico não solicitado, em mecanismos de busca, salas de discussão, por propaganda em páginas na Internet ou revistas, etc.; e
+c. existência de indicação direta ou indireta, mas suficientemente clara, de que a página não foi criada para o público em geral.
+Não é necessária a coexistência de todos os fatores elencados acima para descaracterizar como pública a oferta de valores mobiliários realizada por intermédio da Internet. Outros fatores, que não os mencionados expressamente acima, podem ser necessários para que se considere a oferta como pública.
+A Comissão de Valores Mobiliários apurará a configuração como pública da oferta de valores mobiliários feita por intermédio da Internet, a partir da análise do caso concreto.
+2. Exercício de Atividade Sujeita à Autorização da Comissão de Valores Mobiliários e Internet.
+Na mesma linha, o uso da Internet para mediação ou corretagem de operações com valores mobiliários, distribuição de emissões no mercado ou para o exercício da atividade de aquisição de valores mobiliários para revendê-los por conta própria (incisos I a III do art. 16 da Lei 6.385/76) depende de prévia autorização da Comissão de Valores Mobiliários para o exercício da atividade.
+Aprovado pelo Colegiado em reunião do dia 28 de setembro de 2005.
+Original assinado por
+MARCELO FERNANDEZ TRINDADE
+Presidente
