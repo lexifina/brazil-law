@@ -1,0 +1,155 @@
+DECISÃO: Trata-se de recurso ordinário interposto contra acórdão,
+   que, emanado do E. Superior Tribunal de Justiça, denegou o
+   mandado de segurança impetrado pela parte ora recorrente.
+O
+   Ministério Público Federal, em parecer da lavra do eminente
+   Subprocurador-Geral da República, Dr. PAULO DE TARSO BRAZ LUCAS,
+   opinou pelo não-conhecimento do presente recurso (fls.
+   133/134).
+A conclusão a que chegou a douta Procuradoria-Geral
+   da República acha-se consubstanciada em parecer assim ementado
+   (fls. 133):
+"RECURSO ORDINÁRIO - MANDADO DE SEGURANÇA -
+   ENTIDADE DE FINS FILANTRÓPICOS - RECADASTRAMENTO DE REGISTRO E
+   RENOVAÇÃO DO CERTIFICADO - DECRETO Nº 752/93 - LEI Nº 8.212/91 -
+   PETIÇÃO RECURSAL PROTOCOLADA PREMATURAMENTE - PARECER PELO NÃO
+   CONHECIMENTO DO RECURSO." (grifei)
+Passo a apreciar a questão
+   preliminar ora suscitada pela douta Procuradoria-Geral da
+   República. E, ao fazê-lo, entendo assistir-lhe plena razão.
+É
+   que o presente recurso ordinário foi deduzido extemporaneamente,
+   eis que interposto em 13/06/2000 (fls. 105), data anterior àquela
+   em que o Superior Tribunal de Justiça fez publicar o acórdão em
+   questão (21/08/2000 - fls. 104).
+O cotejo das datas permite
+   constatar que o recurso ordinário em causa foi interposto
+   prematuramente, eis que deduzido quando sequer existia,
+   formalmente, o acórdão que a parte recorrente desejava
+   impugnar.
+Cabe assinalar, por necessário, que a
+   intempestividade dos recursos tanto pode derivar de impugnações
+   prematuras (que se antecipam, como na espécie, à publicação dos
+   acórdãos) quanto resultar de oposições tardias (que se registram
+   após o decurso dos prazos recursais).
+Em qualquer das duas
+   situações - impugnação prematura ou oposição tardia -, a
+   conseqüência de ordem processual é uma só: o não-conhecimento do
+   recurso, por efeito de sua extemporânea interposição.
+No caso,
+   como precedentemente referido, o recurso extraordinário em
+   questão foi deduzido antes da publicação formal do acórdão
+   emanado do E. Superior Tribunal de Justiça.
+Impende acentuar,
+   neste ponto, que o prazo para interposição de recurso contra
+   decisões colegiadas só começa a fluir da publicação da súmula do
+   acórdão no órgão oficial (CPC, art. 506, III). Na pendência dessa
+   publicação, qualquer recurso eventualmente interposto
+   considerar-se-á intempestivo.
+Daí a orientação que tem
+   prevalecido no âmbito desta Suprema Corte, cujas sucessivas
+   decisões, no tema, proclamam que "o prazo para recorrer só começa
+   a fluir com a publicação da decisão no órgão oficial, sendo
+   prematuro o recurso que a antecede" (AI 437.126-AgR/RS, Rel. Min.
+   CARLOS BRITTO - grifei).
+Com efeito, a simples notícia do
+   julgamento - mesmo tratando-se de decisão proferida em sede de
+   controle normativo abstrato -, além de não dar início à fluência
+   do prazo recursal, também não legitima a interposição de recurso,
+   por absoluta falta de objeto, conforme tem advertido o
+   magistério jurisprudencial firmado pelo Supremo Tribunal Federal
+   (RTJ 187/498, Rel. Min. CELSO DE MELLO - AI 152.091-AgR/SP, Rel.
+   Min. MOREIRA ALVES - AI 286.562/DF, Rel. Min. MAURÍCIO CORRÊA -
+   AI 406.483-AgR/SP, Rel. Min. GILMAR MENDES - HC 81.675-ED/SP,
+   Rel. Min. SYDNEY SANCHES - RE 194.090-ED/RS, Rel. Min. ILMAR
+   GALVÃO - RE 232.115-ED-AgR/CE, Rel. Min. ILMAR GALVÃO - RE
+   320.440-AgR/RJ, Rel. Min. ELLEN GRACIE, v.g.):
+"O termo
+   inicial do prazo para recorrer extraordinariamente pressupõe que
+   o acórdão tenha sido lavrado, assinado e publicadas as suas
+   conclusões, não bastando a simples publicação da notícia do
+   julgamento, ainda que em minuciosa súmula do decidido."
+(RTJ
+   88/1012, Rel. Min. CORDEIRO GUERRA - grifei)
+"A interposição
+   de recurso que se antecipe à própria publicação formal do acórdão
+   revela-se comportamento processual extemporâneo e destituído de
+   objeto. O prazo para interposição de recurso contra decisão
+   colegiada só começa a fluir, ordinariamente, da publicação da
+   súmula do acórdão no órgão oficial. Por isso mesmo, os
+   pressupostos de cabimento dos embargos de declaração -
+   obscuridade (...), contradição ou omissão - hão de ser aferidos
+   em face do inteiro teor do acórdão a que se referem. A simples
+   notícia do julgamento efetivado não dá início ao prazo
+   recursal."
+(RTJ 143/718-719, Rel. Min. CELSO DE
+   MELLO)
+"EMBARGOS DE DECLARAÇÃO. OPOSIÇÃO CONTRA ACÓRDÃO QUE
+   NÃO CONHECEU DE IDÊNTICO RECURSO, PORQUANTO INTERPOSTO ANTES DE
+   PUBLICADO O ACÓRDÃO QUE SE PRETENDIA IMPUGNAR.
+O acórdão
+   embargado não conheceu dos embargos de declaração, por haverem se
+   antecipado à publicação da decisão impugnada."
+(RE
+   204.378-ED-ED/RS, Rel. Min. ILMAR GALVÃO - grifei)
+"O prazo
+   para interposição de recurso se conta a partir da publicação do
+   acórdão. Não serve como termo inicial a mera notícia do
+   julgamento."
+(Pet 1.320-AgR-AgR/DF, Rel. Min. NELSON JOBIM -
+   grifei)
+Os fundamentos que dão suporte a essa orientação
+   jurisprudencial põem em evidência a circunstância de que a
+   publicação do acórdão gera efeitos processuais específicos, pois,
+   além de formalizar a integração dessa peça essencial ao
+   processo, confere-lhe existência jurídica e fixa-lhe o próprio
+   conteúdo material. É mediante a efetiva ocorrência dessa
+   publicação formal que se viabiliza, processualmente, a intimação
+   das partes, inclusive para efeito de interposição, "opportuno
+   tempore", dos recursos pertinentes.
+Daí a advertência feita
+   por MOACYR AMARAL SANTOS ("Primeiras Linhas de Direito Processual
+   Civil", vol. 3/26, 21ª ed., 2003, Saraiva), cuja lição, na
+   matéria ora em exame, ressalta que "É da publicação que se conta
+   o prazo para interposição do recurso" (grifei).
+Esse mesmo
+   entendimento é perfilhado por JOSÉ FREDERICO MARQUES ("Manual de
+   Direito Processual Civil", vol. 3/29, item n. 528, 9ª ed., 1987,
+   Saraiva), que, em magistério irrepreensível, acentua ser, a
+   publicação do pronunciamento jurisdicional do Estado, o fato
+   relevante "que lhe dá qualidade de ato do processo", passível,
+   então, a partir dessa formal divulgação no órgão oficial, de
+   todas as conseqüências autorizadas pelo ordenamento positivo,
+   notadamente aquelas de natureza recursal.
+Igual percepção do
+   tema é revelada por JOSÉ CARLOS BARBOSA MOREIRA ("Comentários ao
+   Código de Processo Civil", vol. V/693, item n. 377, 2005, 12ª
+   ed., Forense), cujo comentário, a respeito da indispensabilidade
+   da publicação do acórdão, enfatiza, considerado o que dispõe o
+   art. 506, III, do Código de Processo Civil, que é somente com a
+   publicação do acórdão que "começa a correr o prazo de
+   interposição de qualquer recurso porventura cabível
+   (...)".
+Cabe registrar, finalmente, que a parte ora recorrente
+   deixou de ratificar o recurso ordinário prematuramente deduzido,
+   embora lhe fosse lícito fazê-lo - consoante reconhecido pela
+   jurisprudência desta Suprema Corte (RTJ 191/392, Rel. Min.
+   SEPÚLVEDA PERTENCE - Rcl 2.833-ED/RR, Rel. Min. CARLOS BRITTO -
+   AI 502.004-    -AgR/MG, Rel. Min. CARLOS BRITTO - RE
+   318.635-AgR/SP, Rel. Min. ILMAR GALVÃO - RE 416.066-ED/AL, Rel.
+   Min. CEZAR PELUSO) -, desde que tal ratificação ocorresse dentro
+   do prazo recursal, iniciado, na espécie, com a publicação do
+   acórdão em referência.
+Sucede, no entanto, que o prazo em
+   questão findou-se em 05/09/2000, sem que, até esse termo final,
+   sobreviesse a necessária ratificação da petição recursal, o que
+   torna evidente a extemporaneidade do recurso ordinário ora em
+   análise.
+Sendo assim, e pelas razões expostas, não conheço,
+   por intempestivo, do presente recurso
+   ordinário.
+Publique-se.
+Brasília, 11 de novembro de
+   2005.
+Ministro CELSO DE MELLO
+Relator
