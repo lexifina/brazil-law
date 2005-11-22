@@ -1,0 +1,2 @@
+Art. 67. Fica o Poder Executivo autorizado a fixar, para o IPI relativo aos produtos classificados nos códigos NCM 71.13, 71.14, 71.16 e 71.17, alíquotas correspondentes às mínimas estabelecidas para o Imposto sobre Circulação de Mercadorias e Serviços - ICMS, nos termos do inciso VI do § 2º do art. 155 da Constituição Federal.
+Parágrafo único. As alíquotas do IPI fixadas na forma do caput deste artigo serão uniformes em todo o território nacional.

@@ -1,0 +1,4 @@
+Art. 2º É beneficiária do Repes a pessoa jurídica que exerça exclusivamente as atividades de desenvolvimento de software ou de prestação de serviços de tecnologia da informação, cumulativamente ou não, e que, por ocasião da sua opção pelo Repes, assuma compromisso de exportação igual ou superior a 80% (oitenta por cento) de sua receita bruta anual de venda de bens e serviços.
+§ 1º A receita bruta de que trata o caput deste artigo será considerada após excluídos os impostos e contribuições incidentes sobre a venda.
+§ 2º O disposto no caput deste artigo não se aplica à pessoa jurídica que tenha suas receitas, no todo ou em parte, submetidas ao regime de incidência cumulativa da Contribuição para o Programa de Integração Social - PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins.
+§ 3º Não se aplicam à pessoa jurídica optante pelo Repes as disposições do inciso XXV do art. 10 da Lei nº 10.833, de 29 de dezembro de 2003.

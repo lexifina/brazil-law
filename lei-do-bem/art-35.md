@@ -1,0 +1,3 @@
+Art. 35. O caput do art. 1º da Lei nº 11.051, de 29 de dezembro de 2004, passa a vigorar com a seguinte redação:
+" Art. 1º As pessoas jurídicas tributadas com base no lucro real poderão utilizar crédito relativo à Contribuição Social sobre o Lucro Líquido - CSLL, à razão de 25% (vinte e cinco por cento) sobre a depreciação contábil de máquinas, aparelhos, instrumentos e equipamentos, novos, relacionados em regulamento, adquiridos entre 1º de outubro de 2004 e 31 de dezembro de 2006, destinados ao ativo imobilizado e empregados em processo industrial do adquirente.
+........................................................................................" (NR)

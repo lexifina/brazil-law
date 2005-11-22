@@ -1,0 +1,5 @@
+Art. 40. Para a apuração da base de cálculo do imposto sobre a renda incidente sobre o ganho de capital por ocasião da alienação, a qualquer título, de bens imóveis realizada por pessoa física residente no País, serão aplicados fatores de redução (FR1 e FR2) do ganho de capital apurado.
+§ 1º A base de cálculo do imposto corresponderá à multiplicação do ganho de capital pelos fatores de redução, que serão determinados pelas seguintes fórmulas:
+I - FR1 = 1/1,0060 m1, onde "m1" corresponde ao número de meses-calendário ou fração decorridos entre a data de aquisição do imóvel e o mês da publicação desta Lei, inclusive na hipótese de a alienação ocorrer no referido mês;
+II - FR2 = 1/1,0035 m2, onde "m2" corresponde ao número de meses-calendário ou fração decorridos entre o mês seguinte ao da publicação desta Lei ou o mês da aquisição do imóvel, se posterior, e o de sua alienação.
+§ 2º Na hipótese de imóveis adquiridos até 31 de dezembro de 1995, o fator de redução de que trata o inciso I do § 1º deste artigo será aplicado a partir de 1º de janeiro de 1996, sem prejuízo do disposto no art. 18 da Lei nº 7.713, de 22 de dezembro de 1988.

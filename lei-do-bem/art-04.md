@@ -1,0 +1,7 @@
+Art. 4º No caso de venda ou de importação de bens novos destinados ao desenvolvimento, no País, de software e de serviços de tecnologia da informação, fica suspensa a exigência:
+I - da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a receita bruta da venda no mercado interno, quando os referidos bens forem adquiridos por pessoa jurídica beneficiária do Repes para incorporação ao seu ativo imobilizado;
+II - da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação, quando os referidos bens forem importados diretamente por pessoa jurídica beneficiária do Repes para incorporação ao seu ativo imobilizado.
+§ 1º Nas notas fiscais relativas à venda de que trata o inciso I do caput deste artigo, deverá constar a expressão "Venda efetuada com suspensão da exigência da Contribuição para o PIS/Pasep e da Cofins", com a especificação do dispositivo legal correspondente.
+§ 2º Na hipótese deste artigo, o percentual de exportações de que trata o art. 2º desta Lei será apurado considerando-se a média obtida, a partir do ano-calendário subseqüente ao do início de utilização dos bens adquiridos no âmbito do Repes, durante o período de 3 (três) anos-calendário.
+§ 3º O prazo de início de utilização a que se refere o § 2º deste artigo não poderá ser superior a 1 (um) ano, contado a partir da aquisição.
+§ 4º Os bens beneficiados pela suspensão referida no caput deste artigo serão relacionados em regulamento.
