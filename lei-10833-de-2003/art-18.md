@@ -2,4 +2,7 @@ Art. 18. O lançamento de ofício de que trata o art. 90 da Medida Provisória n
 § 1º Nas hipóteses de que trata o caput, aplica-se ao débito indevidamente compensado o disposto nos §§ 6º a 11 do art. 74 da Lei nº 9.430, de 27 de dezembro de 1996.
 § 2º A multa isolada a que se refere o caput deste artigo será aplicada no percentual previsto no inciso II do caput ou no § 2º do art. 44 da Lei nº 9.430, de 27 de dezembro de 1996, conforme o caso, e terá como base de cálculo o valor total do débito indevidamente compensado.
 § 3º Ocorrendo manifestação de inconformidade contra a não-homologação da compensação e impugnação quanto ao lançamento das multas a que se refere este artigo, as peças serão reunidas em um único processo para serem decididas simultaneamente.
-§ 4º A multa prevista no caput deste artigo também será aplicada quando a compensação for considerada não declarada nas hipóteses do inciso II do § 12 do art. 74 da Lei nº 9.430, de 27 de dezembro de 1996.
+§ 4º Será também exigida multa isolada sobre o valor total do débito indevidamente compensado, quando a compensação for considerada não declarada nas hipóteses do inciso II do § 12 do art. 74 da Lei nº 9.430, de 27 de dezembro de 1996, aplicando-se os percentuais previstos:
+I - no inciso I do caput do art. 44 da Lei nº 9.430, de 27 de dezembro de 1996;
+II - no inciso II do caput do art. 44 da Lei nº 9.430, de 27 de dezembro de 1996, nos casos de evidente intuito de fraude, definidos nos arts. 71, 72 e 73 da Lei nº 4.502, de 30 de novembro de 1964, independentemente de outras penalidades administrativas ou criminais cabíveis.
+§ 5º Aplica-se o disposto no § 2º do art. 44 da Lei nº 9.430, de 27 de dezembro de 1996, às hipóteses previstas no § 4º deste artigo.
