@@ -1,1 +1,0 @@
-Art. 11. As contribuições para o PIS/PASEP e para a COFINS, devidas pelas pessoas jurídicas, inclusive por equiparação, de que trata o art. 31 da Lei nº 8.981, de 20 de janeiro de 1995, seguirão o mesmo regime de reconhecimento de receitas previsto na legislação do imposto de renda.

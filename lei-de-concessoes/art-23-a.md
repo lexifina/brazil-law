@@ -1,0 +1,1 @@
+Art. 23-A. O contrato de concessão poderá prever o emprego de mecanismos privados para resolução de disputas decorrentes ou relacionadas ao contrato, inclusive a arbitragem, a ser realizada no Brasil e em língua portuguesa, nos termos da Lei nº 9.307, de 23 de setembro de 1996.

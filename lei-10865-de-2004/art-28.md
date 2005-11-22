@@ -5,4 +5,5 @@ III - produtos hortícolas e frutas, classificados nos Capítulos 7 e 8, e ovos,
 IV - aeronaves, classificadas na posição 88.02 da TIPI, suas partes, peças, ferramentais, componentes, insumos, fluidos hidráulicos, tintas, anticorrosivos, lubrificantes, equipamentos, serviços e matérias-primas a serem empregados na manutenção, conservação, modernização, reparo, revisão, conversão e montagem das aeronaves, seus motores, partes, componentes, ferramentais e equipamentos;
 V - semens e embriões da posição 05.11 da NCM.
 VI - livros, conforme definido no art. 2º da Lei nº 10.753, de 30 de outubro de 2003;
+VII - preparações compostas não alcoólicas, classificadas no código 2106.90.10 Ex 01 da Tipi, destinadas à elaboração de bebidas pelas pessoas jurídicas industriais dos produtos referidos no art. 49 da Lei nº 10.833, de 29 de dezembro de 2003.
 Parágrafo único. O Poder Executivo regulamentará o disposto no inciso IV do caput deste artigo.

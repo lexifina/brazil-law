@@ -26,7 +26,7 @@ I - 0,8% (oito décimos por cento), para a contribuição para o PIS/PASEP-Impor
 II - 3,2% (três inteiros e dois décimos por cento), para a COFINS-Importação.
 § 11. Fica o Poder Executivo autorizado a reduzir a 0 (zero) e a restabelecer as alíquotas do PIS/PASEP-Importação e da COFINS-Importação, incidentes sobre:
 I - produtos químicos e farmacêuticos classificados nos Capítulos 29 e 30 da NCM;
-II - produtos destinados ao uso em laboratório de anatomia patológica, citológica ou de análises clínicas classificados nas posições 30.02, 30.06, 39.26, 40.15 e 90.18 da NCM.
+II - produtos destinados ao uso em hospitais, clínicas e consultórios médicos e odontológicos, campanhas de saúde realizadas pelo Poder Público e laboratórios de anatomia patológica, citológica ou de análises clínicas, classificados nas posições 30.02, 30.06, 39.26, 40.15 e 90.18 da NCM.
 § 12. Ficam reduzidas a 0 (zero) as alíquotas das contribuições, nas hipóteses de importação de:
 I - partes, peças e componentes, destinados ao emprego na conservação, modernização e conversão de embarcações registradas no Registro Especial Brasileiro;
 II - embarcações construídas no Brasil e transferidas por matriz de empresa brasileira de navegação para subsidiária integral no exterior, que retornem ao registro brasileiro como propriedade da mesma empresa nacional de origem;
@@ -40,6 +40,7 @@ IX - gás natural destinado ao consumo em unidades termelétricas integrantes do
 X - produtos hortícolas e frutas, classificados nos Capítulos 7 e 8, e ovos, classificados na posição 04.07, todos da TIPI; e
 XI - semens e embriões da posição 05.11, da NCM.
 XII - livros, conforme definido no art. 2º da Lei nº 10.753, de 30 de outubro de 2003.
+XIII - preparações compostas não alcoólicas, classificadas no código 2106.90.10 Ex 01 da Tipi, destinadas à elaboração de bebidas pelas pessoas jurídicas industriais dos produtos referidos no art. 49 da Lei nº 10.833, de 29 de dezembro de 2003.
 § 13. O Poder Executivo regulamentará:
 I - o disposto no § 10 deste artigo; e
 II - a utilização do benefício da alíquota 0 (zero) de que tratam os incisos I a VII do § 12 deste artigo.
