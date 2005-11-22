@@ -1,0 +1,1 @@
+Art. 6º As suspensões de que tratam os arts. 4º e 5º desta Lei convertem-se em alíquota 0 (zero) após cumprida a condição de que trata o caput do art. 2º desta Lei, observados os prazos de que tratam os §§ 2º e 3º do art. 4º e o § 2º do art. 5º desta Lei.

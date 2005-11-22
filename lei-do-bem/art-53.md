@@ -1,0 +1,2 @@
+Art. 53. Somente poderá habilitar-se ao regime de que trata o art. 52 desta Lei a pessoa jurídica comercial que importe as embalagens nele referidas para revendê-las diretamente a pessoa jurídica industrial.
+Parágrafo único. A pessoa jurídica industrial será responsável solidária com a pessoa jurídica comercial importadora com relação ao pagamento da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação.

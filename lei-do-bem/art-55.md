@@ -1,0 +1,19 @@
+Art. 55. A venda ou a importação de máquinas e equipamentos utilizados na fabricação de papéis destinados à impressão de jornais ou de papéis classificados nos códigos 4801.00.10, 4801.00.90, 4802.61.91, 4802.61.99, 4810.19.89 e 4810.22.90, todos da Tipi, destinados à impressão de periódicos, serão efetuadas com suspensão da exigência:
+I - da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a receita bruta da venda no mercado interno, quando os referidos bens forem adquiridos por pessoa jurídica industrial para incorporação ao seu ativo imobilizado; ou
+II - da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação, quando os referidos bens forem importados diretamente por pessoa jurídica industrial para incorporação ao seu ativo imobilizado.
+§ 1º O benefício da suspensão de que trata este artigo:
+I - aplica-se somente no caso de aquisições ou importações efetuadas por pessoa jurídica que auferir, com a venda dos papéis referidos no caput deste artigo, valor igual ou superior a 80% (oitenta por cento) da sua receita bruta de venda total de papéis;
+II - não se aplica no caso de aquisições ou importações efetuadas por pessoas jurídicas optantes pelo Simples ou que tenham suas receitas, no todo ou em parte, submetidas ao regime de incidência cumulativa da Contribuição para o PIS/Pasep e da Cofins; e
+III - poderá ser usufruído nas aquisições ou importações realizadas até 30 de abril de 2008 ou até que a produção nacional atenda a 80% (oitenta por cento) do consumo interno.
+§ 2º O percentual de que trata o inciso I do § 1º deste artigo será apurado:
+I - após excluídos os impostos e contribuições incidentes sobre a venda; e
+II - considerando-se a média obtida, a partir do início de utilização do bem adquirido com suspensão, durante o período de 18 (dezoito) meses.
+§ 3º O prazo de início de utilização a que se refere o § 2º deste artigo não poderá ser superior a 3 (três) anos.
+§ 4º A suspensão de que trata este artigo converte-se em alíquota 0 (zero) após cumprida a condição de que trata o inciso I do § 1º deste artigo, observados os prazos determinados nos §§ 2º e 3º deste artigo.
+§ 5º No caso de não ser efetuada a incorporação do bem ao ativo imobilizado ou de sua revenda antes da redução a 0 (zero) das alíquotas, na forma do § 4º deste artigo, as contribuições não pagas em decorrência da suspensão de que trata este artigo serão devidas, acrescidas de juros e multa, de mora ou de ofício, na forma da lei, contados a partir da data da aquisição ou do registro da Declaração de Importação - DI, na condição de responsável, em relação à Contribuição para o PIS/Pasep e à Cofins, ou de contribuinte, em relação à Contribuição para o PIS/Pasep-Importação e à Cofins-Importação.
+§ 6º Nas notas fiscais relativas à venda de que trata o inciso I do caput deste artigo deverá constar a expressão "Venda efetuada com suspensão da exigência da Contribuição para o PIS/Pasep e da Cofins", com a especificação do dispositivo legal correspondente.
+§ 7º Na hipótese de não-atendimento do percentual de venda de papéis estabelecido no inciso I do § 1º deste artigo, a multa, de mora ou de ofício, a que se refere o § 5º deste artigo, será aplicada sobre o valor das contribuições não-recolhidas, proporcionalmente à diferença entre esse percentual de venda e o efetivamente alcançado.
+§ 8º A utilização do benefício da suspensão de que trata este artigo:
+I - fica condicionada à regularidade fiscal da pessoa jurídica adquirente ou importadora das máquinas e equipamentos, em relação aos tributos e contribuições administrados pela Receita Federal do Brasil; e
+II - será disciplinada pelo Poder Executivo em regulamento.
+§ 9º As máquinas e equipamentos beneficiados pela suspensão da exigência das contribuições, na forma deste artigo, serão relacionados em regulamento.

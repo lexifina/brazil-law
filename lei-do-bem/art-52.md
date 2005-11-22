@@ -1,0 +1,4 @@
+Art. 52. Fica instituído Regime Aduaneiro Especial de Importação de embalagens referidas na alínea b do inciso II do caput do art. 51 da Lei nº 10.833, de 29 de dezembro de 2003, que permite a apuração da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação utilizando-se as alíquotas previstas:
+I - na alínea b do inciso II do caput do art. 51 da Lei nº 10.833, de 29 de dezembro de 2003,, no caso de importação de embalagens destinadas ao envasamento de água e refrigerante;
+II - nos incisos I e II do caput do art. 8º da Lei nº 10.865, de 30 de abril de 2004, no caso de importação de embalagens destinadas ao envasamento de outros produtos.
+Parágrafo único. O Poder Executivo disciplinará, em regulamento, as condições necessárias para a habilitação ao regime de que trata o caput deste artigo.
