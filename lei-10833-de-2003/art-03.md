@@ -6,7 +6,7 @@ II - bens e serviços, utilizados como insumo na prestação de serviços e na p
 III - energia elétrica consumida nos estabelecimentos da pessoa jurídica;
 IV - aluguéis de prédios, máquinas e equipamentos, pagos a pessoa jurídica, utilizados nas atividades da empresa;
 V - valor das contraprestações de operações de arrendamento mercantil de pessoa jurídica, exceto de optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES;
-VI - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado adquiridos para utilização na produção de bens destinados à venda, ou na prestação de serviços;
+VI - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado, adquiridos ou fabricados para locação a terceiros, ou para utilização na produção de bens destinados à venda ou na prestação de serviços;
 VII - edificações e benfeitorias em imóveis próprios ou de terceiros, utilizados nas atividades da empresa;
 VIII - bens recebidos em devolução cuja receita de venda tenha integrado faturamento do mês ou de mês anterior, e tributada conforme o disposto nesta Lei;
 IX - armazenagem de mercadoria e frete na operação de venda, nos casos dos incisos I e II, quando o ônus for suportado pelo vendedor.
@@ -39,3 +39,4 @@ II - rateio proporcional, aplicando-se aos custos, despesas e encargos comuns a 
 I - pessoa física, transportador autônomo, poderá descontar, da Cofins devida em cada período de apuração, crédito presumido calculado sobre o valor dos pagamentos efetuados por esses serviços;
 II - pessoa jurídica transportadora, optante pelo SIMPLES, poderá descontar, da Cofins devida em cada período de apuração, crédito calculado sobre o valor dos pagamentos efetuados por esses serviços.
 § 20. Relativamente aos créditos referidos no § 19 deste artigo, seu montante será determinado mediante aplicação, sobre o valor dos mencionados pagamentos, de alíquota correspondente a 75% (setenta e cinco por cento) daquela constante do art. 2º desta Lei.
+§ 21. Não integram o valor das máquinas, equipamentos e outros bens fabricados para incorporação ao ativo imobilizado na forma do inciso VI do caput deste artigo os custos de que tratam os incisos do § 2º deste artigo.
