@@ -6,7 +6,7 @@ II - bens e serviços, utilizados como insumo na prestação de serviços e na p
 III - (VETADO)
 IV - aluguéis de prédios, máquinas e equipamentos, pagos a pessoa jurídica, utilizados nas atividades da empresa;
 V - valor das contraprestações de operações de arrendamento mercantil de pessoa jurídica, exceto de optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES;
-VI - máquinas e equipamentos adquiridos para utilização na fabricação de produtos destinados à venda, bem como a outros bens incorporados ao ativo imobilizado;
+VI - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado, adquiridos ou fabricados para locação a terceiros ou para utilização na produção de bens destinados à venda ou na prestação de serviços.
 VII - edificações e benfeitorias em imóveis de terceiros, quando o custo, inclusive de mão-de-obra, tenha sido suportado pela locatária;
 VIII - bens recebidos em devolução, cuja receita de venda tenha integrado faturamento do mês ou de mês anterior, e tributada conforme o disposto nesta Lei.
 IX - energia elétrica consumida nos estabelecimentos da pessoa jurídica.
@@ -31,4 +31,5 @@ I - apropriação direta, inclusive em relação aos custos, por meio de sistema
 II - rateio proporcional, aplicando-se aos custos, despesas e encargos comuns a relação percentual existente entre a receita bruta sujeita à incidência não-cumulativa e a receita bruta total, auferidas em cada mês.
 § 9º O método eleito pela pessoa jurídica será aplicado consistentemente por todo o ano-calendário, observadas as normas a serem editadas pela Secretaria da Receita Federal.
 § 12. Ressalvado o disposto no § 2º deste artigo e nos §§ 1º a 3º do art. 2º desta Lei, na aquisição de mercadoria produzida por pessoa jurídica estabelecida na Zona Franca de Manaus, consoante projeto aprovado pelo Conselho de Administração da Superintendência da Zona Franca de Manaus - SUFRAMA, o crédito será determinado mediante a aplicação da alíquota de 1% (um por cento).
+§ 13. Não integram o valor das máquinas, equipamentos e outros bens fabricados para incorporação ao ativo imobilizado na forma do inciso VI do caput deste artigo os custos de que tratam os incisos do § 2º deste artigo.
 § 14.
