@@ -7,6 +7,9 @@ II - produtos destinados ao uso em hospitais, clínicas e consultórios médicos
 § 12.
 XIII - preparações compostas não alcoólicas, classificadas no código 2106.90.10 Ex 01 da Tipi, destinadas à elaboração de bebidas pelas pessoas jurídicas industriais dos produtos referidos no art. 49 da Lei nº 10.833, de 29 de dezembro de 2003.
 ........................................................................................" (NR)
+"Art. 15.
+V - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado, adquiridos para locação a terceiros ou para utilização na produção de bens destinados à venda ou na prestação de serviços.
+........................................................................................" (NR)
 "Art. 28.
 VII - preparações compostas não alcoólicas, classificadas no código 2106.90.10 Ex 01 da Tipi, destinadas à elaboração de bebidas pelas pessoas jurídicas industriais dos produtos referidos no art. 49 da Lei nº 10.833, de 29 de dezembro de 2003.
 ........................................................................................" (NR)

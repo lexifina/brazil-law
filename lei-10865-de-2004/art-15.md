@@ -3,7 +3,7 @@ I - bens adquiridos para revenda;
 II - bens e serviços utilizados como insumo na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda, inclusive combustível e lubrificantes;
 III - energia elétrica consumida nos estabelecimentos da pessoa jurídica;
 IV - aluguéis e contraprestações de arrendamento mercantil de prédios, máquinas e equipamentos, embarcações e aeronaves, utilizados na atividade da empresa;
-V - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado, adquiridos para utilização na produção de bens destinados à venda ou na prestação de serviços.
+V - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado, adquiridos para locação a terceiros ou para utilização na produção de bens destinados à venda ou na prestação de serviços.
 § 1º O direito ao crédito de que trata este artigo e o art. 17 desta Lei aplica-se em relação às contribuições efetivamente pagas na importação de bens e serviços a partir da produção dos efeitos desta Lei.
 § 2º O crédito não aproveitado em determinado mês poderá sê-lo nos meses subseqüentes.
 § 3º O crédito de que trata o caput deste artigo será apurado mediante a aplicação das alíquotas previstas no caput do art. 2º das Leis nº s 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003, sobre o valor que serviu de base de cálculo das contribuições, na forma do art. 7º desta Lei, acrescido do valor do IPI vinculado à importação, quando integrante do custo de aquisição.
