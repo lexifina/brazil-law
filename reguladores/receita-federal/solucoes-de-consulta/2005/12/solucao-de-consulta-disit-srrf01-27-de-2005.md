@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF01 nº 27, de 27 de abril de 2005
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF
+EMENTA: Remessa para o exterior. As importâncias pagas, creditadas, entregues, empregadas ou remetidas pelo exportador a beneficiários residentes ou domiciliados no exterior que caracterizarem remuneração pela prestação de serviços, estão sujeitas à incidência do imposto de renda na fonte.A retenção do imposto de renda na fonte se aplica ainda que a remessa não seja efetiva, ou seja, quando ocorrer de o banqueiro, importador, preposto ou terceiro contratado abater, do valor total das exportações, o valor referente ao ressarcimento de despesas, sujeito à mencionada retenção. A comprovação dos valores pagos pelo exportador deve ser realizada de forma individualizada, sob pena de se presumir que o valor total se sujeita ao imposto de renda na fonte. Permanece a obrigação de exigir a comprovação do pagamento do tributo pela instituição financeira interveniente.
+DISPOSITIVOS LEGAIS: Arts. 685, 702, 716 e 880, todos do Decreto nº 3.000, de 26/03/1999.
+[arquivo anexo: SC SRRF01-Disit nº 27-2005.pdf]
