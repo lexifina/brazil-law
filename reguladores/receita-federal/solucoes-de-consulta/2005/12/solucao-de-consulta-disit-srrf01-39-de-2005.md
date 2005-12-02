@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF01 nº 39, de 19 de maio de 2005
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF
+EMENTA: Pagamentos Efetuados por Autarquia Federal a Pessoa Jurídica pela Prestação de Serviços.Prejuízos Fiscais. Não Suspensão da Retenção.A existência de prejuízos fiscais na pessoa jurídica prestadora do serviço não dá o direito de suspensão da retenção de imposto e contribuições sobre os pagamentos efetuados por autarquia federal pela prestação de serviços.Saldo Negativo de IRPJ ou CSLL. Restituição e Compensação.Após o encerramento do período de apuração do imposto de renda, trimestral ou anual (pagamento mensal por estimativa), o eventual saldo negativo do Imposto de Renda (IRPJ) ou Contribuição Social sobre o Lucro Líquido (CSLL) é passível de restituição, podendo o crédito também ser utilizado na compensação de débitos próprios relativos a quaisquer tributos e contribuições administrados pela Secretaria da Receita Federal (SRF).
+DISPOSITIVOS LEGAIS: . Lei do Ajuste Tributário (Lei 9.430, de 1996), art. 64; Regulamento do Imposto de Renda (RIR99) (Decreto nº 3000, de 1999), art. 722, parágrafo único; Parecer Normativo SRF nº 1, de 2002; Instrução Normativa SRF nº 517, de 25 de fevereiro de 2005, inciso IV, alíneas “a” e “b”.
+Novo segmento
+[arquivo anexo: SC SRRF01-Disit nº 39-2005.pdf]
