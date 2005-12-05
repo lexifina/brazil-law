@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 575, de 28 de novembro de 2005
+Dispõe sobre os efeitos tributários nas operações realizadas em mercados de liquidação futura e sobre a tributação, a compensação de perdas e a apuração do prazo médio das carteiras dos fundos de investimento.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e o art. 8º da Portaria MF nº 275, de 15 de agosto de 2005, e tendo em vista o disposto no art. 3º da Lei nº 10.426, de 24 de abril de 2002, no art. 3º da Lei nº 10.892, de 13 de julho de 2004, nos arts. 1º e 2º da Lei nº 11.033, de 21 de dezembro de 2004, e nos arts. 32 e 33 da Lei Nº 11.051, de 29 de dezembro de 2004, resolve:
+Operações em Mercados de Liquidação Futura
