@@ -10,3 +10,4 @@ II - no caso do inciso VI, alínea e, do art. 2º, desde que o prazo total não 
 III - nos casos dos incisos V e VI, alíneas a e h, do art. 2º, desde que o prazo total não exceda quatro anos;
 IV - no caso do inciso VI, alínea g, do art. 2º, desde que o prazo total não exceda cinco anos.
 V - no caso do inciso VII do art. 2º, desde que o prazo total não exceda 6 (seis) anos.
+VI - no caso do inciso I do caput do art. 2º desta Lei, pelo prazo necessário à superação da situação de calamidade pública, desde que não exceda 2 (dois) anos.
