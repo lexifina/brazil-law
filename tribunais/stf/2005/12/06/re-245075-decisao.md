@@ -1,0 +1,15 @@
+DECISÃO: RE, a, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (f. 281):
+             “SERVENTUÁRIO DA JUSTIÇA - Notários e Registradores - Aposentadoria Compulsória - Sujeição - Qualidade de servidor público do serventuário - Recurso provido para denegar a segurança impetrada.”
+            Alega o RE violação dos arts. 40, § 1o, II, e 236 da Constituição Federal.
+            Decido.
+            No julgamento definitivo da ADIn 2.602, Eros Grau, em 24.11.2005, o Supremo Tribunal Federal confirmou a cautelar anteriormente deferida e declarou a inconstitucionalidade do Provimento 55/01 do Tribunal de Justiça do Estado de Minas Gerais que determinava a aposentadoria compulsória de notários e registradores das serventias extrajudiciais.
+            Entendeu o Tribunal que o art. 40, § 1o, II, da Constituição (red. da EC 20/98), limita a aposentadoria compulsória aos servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos Municípios, hipóteses em que não se enquadrariam os notários e registradores, uma vez que exercem suas atividades em caráter privado por delegação do Poder Público, nos termos do art. 236 da Constituição.
+            No mesmo sentido, já se decidira a ADIn 2.891-MC/RJ, Pertence, RTJ 186/182.
+            Apesar de a decisão na ADIn 2.062 ser relativa ao Estado de Minas Gerais, seus fundamentos emanam diretamente da Constituição da República e, por isso, são pertinentes a todos os Estados.
+            No entanto, alguns dos substituídos pelo ora recorrente implementaram a idade para a aposentadoria compulsória antes da publicação da EC 20/98 (f. 13/17), o que impede o provimento total do recurso extraordinário, uma vez que, para esses, incide a jurisprudência do Supremo Tribunal sedimentada na vigência da redação original dos arts. 40, II, e 236 da Constituição, v.g., RREE 199.801, M. Aurélio, RTJ 167/329; 191.030-AgR, 05.12.97, 1a T, Gallotti; 189.736, 26.03.96, 1a T, Moreira; e 178.236, Gallotti, RTJ 162/772, assim ementado:
+             “Titular de Ofício de Notas da Comarca do Rio de Janeiro.
+             Sendo ocupantes de cargo público criado por lei, submetido à permanente fiscalização do Estado e diretamente remunerado à conta de receita pública (custas e emolumentos fixados por lei), bem como provido por concurso público - estão os serventuários de notas e de registro sujeitos à aposentadoria por implemento de idade (artigos 40, II, e 236, e seus parágrafos, da Constituição Federal de 1988).
+             Recurso de que se conhece pela letra c, mas a que, por maioria de votos, nega-se provimento.”
+            Na linha dos precedentes - com a ressalva de meu voto vencido no RE 178.236 -, dou parcial provimento ao recurso extraordinário (art. 557, § 1o-A, do C.Pr.Civil) para conceder a ordem aos substituídos do recorrente que só completaram setenta anos de idade após a publicação da EC 20/98.
+            Brasília, 06 de dezembro de 2005.
+    Ministro SEPÚLVEDA PERTENCE - Relator
