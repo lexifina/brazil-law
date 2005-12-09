@@ -1,0 +1,5 @@
+Art. 14-B. Fica o ACREPREVIDÊNCIA autorizado a contratar instituição financeira pública e/ou suas subsidiárias, mediante processo de credenciamento e apresentação de modelagem mais conveniente para a estruturação e administração de fundos de investimento adequados, exclusivos ou não, segundo a legislação vigente, objetivando a monetização dos bens e direitos de que trata o art. 1º desta lei. (Incluído pela Lei Complementar nº 301, de 22/07/2015)
+
+§ 1º As cotas dos fundos de investimentos estruturados com a finalidade de monetização dos bens e direitos do FPS, poderão ser integralizadas mediante a transferência direta da titularidade desses bens e direitos ao respectivo fundo. (Incluído pela Lei Complementar nº 301, de 22/07/2015)
+
+§ 2º As despesas decorrentes da estruturação dos fundos de investimentos de que trata este artigo poderão ser custeadas pelo Tesouro do Estado ou por recursos da taxa de administração de que trata o art. 24 da Lei n. 1.688, de 8 de dezembro de 2005, facultado o ressarcimento futuro pelos próprios fundos de investimentos. (Incluído pela Lei Complementar nº 301, de 22/07/2015)
