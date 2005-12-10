@@ -1,0 +1,31 @@
+ANEXO I
+
+(Arts. 13, § 10 e 15, VI)
+
+FAIXA ETÁRIA
+
+ALÍQUOTA
+
+0 A 17 ANOS
+
+1%
+
+18 A 29 ANOS
+
+1,3%
+
+30 A 39 ANOS
+
+1,6%
+
+40 A 49 ANOS
+
+1,7%
+
+50 A 59 ANOS
+
+2%
+
+> 60 ANOS
+
+2,5%
