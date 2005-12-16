@@ -1,0 +1,77 @@
+DECISÃO:        Trata-se de agravo de instrumento interposto de decisão
+   que inadmitiu recurso extraordinário (art. 102, III, a, da
+   Constituição Federal) contra acórdão, proferido pelo Tribunal de
+   Justiça do Estado de São Paulo, que, nos autos de ação ordinária
+   proposta por servidores públicos estaduais inativos,
+   garantiu-lhes a incidência da vantagem pecuniária denominada
+   "sexta-parte", prevista no art. 129 da Constituição estadual, a
+   ser calculada sobre seus vencimentos integrais, entendidos esses
+   como o valor principal e as vantagens pecuniárias que se integram
+   no padrão respectivo, conforme o art. 178, da Lei complementar
+   180/1978.
+2.      Em casos análogos ao presente, esta Corte firmou
+   entendimento no sentido de que a controvérsia envolve unicamente
+   questão de direito local (Súmula 280) e de que, se ofensa tivesse
+   havido à Constituição, teria sido ela indireta, reflexa, o que
+   inviabilizaria a via extraordinária. Confiram-se:
+"EMENTA:
+   SERVIDOR ESTADUAL. VANTAGENS FUNCIONAIS DISCIPLINADAS NA
+   CONSTITUIÇÃO E NA LEGISLAÇÃO INFRACONSTITUCIONAL PAULISTA.
+   ALEGADA AFRONTA AOS ARTS. 5º, II, e 39 DA CARTA FEDERAL.
+Estando-se diante de demanda decidida em torno de direito
+   local, não há como chegar-se ao exame das alegadas afrontas
+   constitucionais sem antes concluir-se pelo desacerto da
+   orientação adotada pelo Tribunal a quo. É o quanto basta para
+   evidenciar o descabimento do recurso extraordinário, certo que a
+   interpretação da lei local não é suscetível de exame pelo Supremo
+   Tribunal Federal, a teor da Súmula 280. De qualquer sorte, na
+   espécie, não se configuraria ofensa aos dispositivos da
+   Constituição, as tão-somente por via reflexa, não dando margem,
+   assim, ao cabimento do extraordinário.
+Recurso extraordinário
+   não conhecido."
+(RE 223.522, rel. min. Ilmar Galvão, Primeira
+   Turma, DJ 28.05.1999)
+"EMENTA: AGRAVO DE INSTRUMENTO -
+   CONCESSÃO DA VANTAGEM DA SEXTA-PARTE A SERVIDORES DO ESTADO DE
+   SÃO PAULO - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - DIREITO
+   LOCAL - INVIABILIDADE DO RECURSO EXTRAORDINÁRIO - AGRAVO
+   IMPROVIDO.
+- A situação de ofensa meramente reflexa ao texto
+   constitucional, quando ocorrente, não basta, só por si, para
+   viabilizar o acesso à via recursal extraordinária. Precedentes.
+- Revela-se inadmissível o recurso extraordinário, quando a
+   alegação de ofensa resumir-se ao plano do direito meramente local
+   (ordenamento positivo do Estado-membro ou do Município), sem
+   qualquer repercussão direta sobre o âmbito normativo da
+   Constituição da República."
+(AI 297.955-AgR, rel. min. Celso de
+   Mello, Segunda Turma, DJ 03.05.2002)
+"RECURSO EXTRAORDINÁRIO.
+   ADICIONAL DE SEXTA-PARTE. MATÉRIA PROCESSUAL. LEGISLAÇÃO LOCAL.
+   EC Nº 19/98.
+Ao rejeitar os embargos declaratórios que tratam
+   da superveniência da EC nº 19/98, o acórdão recorrido assentou-se
+   no fundamento infraconstitucional de que não incidiu no caso
+   qualquer das hipóteses previstas no artigo 535 do Código de
+   Processo Civil, tratando-se, portanto, de matéria processual,
+   insuscetível de ser apreciada por recurso extraordinário. Do
+   mesmo modo, ao reconhecer o direito dos autores ao cálculo do
+   adicional de sexta-parte sobre os vencimentos integrais, o
+   Tribunal a quo baseou-se exclusivamente em lei local.
+A
+   superveniência da EC nº 19/98, alterando o art. 37, XIV, da CF,
+   não afasta a exigência de ofensa direta à Constituição Federal
+   para que o recurso extraordinário seja conhecido (Súmula STF nº
+   280).
+Agravo regimental improvido."
+(RE 310.265-AgR, rel. min.
+   Ellen Gracie,  Primeira Turma, DJ 29.11.2002)
+3.      Ante o
+   exposto, nos termos do art. 557 do Código de Processo Civil e do
+   art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal,
+   nego seguimento ao presente agravo.
+Brasília, 16 de dezembro de
+   2005.
+Ministro JOAQUIM BARBOSA
+Relator
