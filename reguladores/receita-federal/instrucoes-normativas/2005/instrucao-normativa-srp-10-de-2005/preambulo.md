@@ -1,0 +1,4 @@
+Instrução Normativa SRP nº 10, de 13 de dezembro de 2005
+Dispõe sobre o parcelamento dos Municípios nos termos da Lei 11.196, de 21 de novembro de 2005.
+FUNDAMENTAÇÃO LEGAL: Lei Complementar nº 101, de 4 de maio de 2000; Lei nº 5.869, de 11 de janeiro de 1973; Lei nº 8.212, de 24 de julho de 1991; Lei nº 8.870, de 15 de abril de 1994 Lei nº 9.639, de 25 de maio de 1998; Lei nº 9.711, de 20 de novembro de 1998; Lei nº 10.406 de 10 de janeiro de 2002; Lei nº 10.684, de 30 de maio de 2003; Lei nº 11.196, de 21 de novembro de 2005; Medida Provisória nº 2.187-13, de 24 de agosto de 2001; Decreto nº 3.048, de 6 de maio de 1999; e Decreto nº 5.612, de 12 de dezembro de 2005.
+O SECRETÁRIO DA RECEITA PREVIDENCIÁRIA - INTERINO, no uso das atribuições conferidas pelos arts. 1º e 3º da Lei nº 11.098, de 13 de janeiro de 2005, e pelo inciso IV do art. 18 do Anexo I do Decreto nº 5.469, de 15 de junho de 2005, resolve:
