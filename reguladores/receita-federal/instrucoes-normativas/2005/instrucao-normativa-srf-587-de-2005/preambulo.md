@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 587, de 21 de dezembro de 2005
+Dispõe sobre a instalação de equipamentos medidores de vazão e condutivímetros de que trata o art. 36 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto nos arts. 36 a 38 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, e no art. 5º da Lei nº 11.051, de 29 de dezembro de 2004, resolve:
