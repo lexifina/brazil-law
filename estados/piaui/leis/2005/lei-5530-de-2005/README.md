@@ -1,0 +1,5 @@
+# Lei nº 5.530, de 26 de dezembro de 2005, do Estado do Piauí
+
+AUTORIZA O CHEFE DO PODER EXECUTIVO ESTADUAL A DOAR AO INSTITUTO DE COLONIZAÇÃO E REFORMA AGRÁRIA &#8211; INCRA AS ÁREAS DE TERRAS DO PATRIMÔNIO IMOBILIÁRIO ESTADUAL QUE ESPECIFICA, PARA O FIM DE UTILIZAÇÃO EM PROJETOS DE ASSENTAMENTO DE TRABALHADORES RURAIS PELO DONATÁRIO E PELO INSTITUTO DE TERRAS DO ESTADO DO PIAUÍ &#8211; INTERPI, E DÁ OUTRAS PROVIDÊNCIAS.
+
+Fonte: Assembleia Legislativa (sapl.al.pi.leg.br), <https://sapl.al.pi.leg.br/norma/411>; texto: <http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2005/411/411_texto_integral.pdf>
