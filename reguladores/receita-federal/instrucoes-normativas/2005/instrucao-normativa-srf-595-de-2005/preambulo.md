@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 595, de 27 de dezembro de 2005
+Dispõe sobre a suspensão da Contribuição para o PIS/Pasep e da Cofins incidentes sobre as receitas de vendas de matérias-primas, produtos intermediários e materiais de embalagem, adquiridos por pessoa jurídica preponderantemente exportadora.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e considerando o disposto na Lei nº 10.637 de 30 de dezembro de 2002, na Lei nº 10.833, de 29 de dezembro de 2003, no art. 40 da Lei nº 10.865, de 30 de abril de 2004, no art. 17 da Lei nº 10.833, de 29 de dezembro de 2003, no art. 16 da Lei nº 11.196, de 21 de novembro de 2005, e nos arts. 14 e 44 da Lei nº 11.196, de 21 de novembro de 2005, resolve:
+Do Regime de Suspensão
