@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 590, de 22 de dezembro de 2005
+Dispõe sobre o Demonstrativo de Apuração de Contribuições Sociais (Dacon) relativo a fatos geradores ocorridos a partir de 1º de janeiro de 2006.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e considerando o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 57 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, nos arts. 1º a 11 da Lei nº 10.637, de 30 de dezembro de 2002, nos arts. 1º a 16 da Lei nº 10.833, de 29 de dezembro de 2003, nos arts. 1º a 18 da Lei nº 10.865, de 30 de abril de 2004, nos arts. 8º, 9º e 15 da Lei nº 10.925, de 23 de julho de 2004, no art. 19 da Lei nº 11.051, de 29 de dezembro de 2004, e no art. 16 da Lei nº 11.116, de 18 de maio de 2005, resolve:
+Do Âmbito de Aplicação
