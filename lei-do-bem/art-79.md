@@ -1,0 +1,1 @@
+Art. 79. No caso de morte do participante ou segurado dos planos e seguros de que trata o art. 76 desta Lei, os seus beneficiários poderão optar pelo resgate das quotas ou pelo recebimento de benefício de caráter continuado previsto em contrato, independentemente da abertura de inventário ou procedimento semelhante.

@@ -1,0 +1,2 @@
+Art. 74. O art. 35 da Lei nº 10.833, de 29 de dezembro de 2003, passa a vigorar com a seguinte redação:
+"Art. 35. Os valores retidos na quinzena, na forma dos arts. 30, 33 e 34 desta Lei, deverão ser recolhidos ao Tesouro Nacional pelo órgão público que efetuar a retenção ou, de forma centralizada, pelo estabelecimento matriz da pessoa jurídica, até o último dia útil da quinzena subseqüente àquela quinzena em que tiver ocorrido o pagamento à pessoa jurídica fornecedora dos bens ou prestadora do serviço." (NR)

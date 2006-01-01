@@ -1,0 +1,3 @@
+Art. 78. O patrimônio dos fundos de investimento de que trata o art. 76 desta Lei não se comunica com o das entidades abertas de previdência complementar ou das sociedades seguradoras que os constituírem, não respondendo, nem mesmo subsidiariamente, por dívidas destas.
+§ 1º No caso de falência ou liquidação extrajudicial da entidade aberta de previdência complementar ou da sociedade seguradora, o patrimônio dos fundos não integrará a respectiva massa falida ou liquidanda.
+§ 2º Os bens e direitos integrantes do patrimônio dos fundos não poderão ser penhorados, seqüestrados, arrestados ou objeto de qualquer outra forma de constrição judicial em decorrência de dívidas da entidade aberta de previdência complementar ou da sociedade seguradora.

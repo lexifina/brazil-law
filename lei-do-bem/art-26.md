@@ -1,0 +1,1 @@
+Art. 26. O disposto neste Capítulo não se aplica às pessoas jurídicas que utilizarem os benefícios de que tratam as Leis nºs 8.248, de 23 de outubro de 1991, 8.387, de 30 de dezembro de 1991, e 10.176, de 11 de janeiro de 2001, observado o art. 27 desta Lei.

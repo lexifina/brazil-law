@@ -1,0 +1,1 @@
+Art. 81. O disposto no art. 80 desta Lei não afeta o direito dos participantes e segurados à portabilidade dos recursos acumulados para outros planos e seguros, estruturados ou não nos termos do art. 76 desta Lei.
