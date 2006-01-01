@@ -6,3 +6,5 @@ IV - exoneração do fiador;
 V - prorrogação da locação por prazo indeterminado, sendo a fiança ajustada por prazo certo;
 VI - desaparecimento dos bens móveis;
 VII - desapropriação ou alienação do imóvel.
+VIII - exoneração de garantia constituída por quotas de fundo de investimento;
+IX - liquidação ou encerramento do fundo de investimento de que trata o inciso IV do art. 37 desta Lei.

@@ -1,0 +1,1 @@
+Art. 90. Compete ao Banco Central do Brasil, à Comissão de Valores Mobiliários e à Superintendência de Seguros Privados, no âmbito de suas respectivas atribuições, dispor sobre os critérios complementares para a regulamentação deste Capítulo.

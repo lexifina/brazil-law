@@ -1,0 +1,2 @@
+Art. 82. A concessão de benefício de caráter continuado por plano ou seguro estruturado na forma do art. 76 desta Lei importará na transferência da propriedade das quotas dos fundos a que esteja vinculado o respectivo plano ou seguro para a entidade aberta de previdência complementar ou a sociedade seguradora responsável pela concessão.
+Parágrafo único. A transferência de titularidade de quotas de que trata o caput deste artigo não caracteriza resgate para fins de incidência do Imposto de Renda.

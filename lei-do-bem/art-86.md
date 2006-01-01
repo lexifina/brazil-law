@@ -1,0 +1,2 @@
+Art. 86. A garantia de que trata o art. 84 desta Lei será objeto de instrumento contratual específico, firmado pelo participante ou segurado, pela entidade aberta de previdência complementar ou sociedade seguradora e pela instituição financeira.
+Parágrafo único. O instrumento contratual específico a que se refere o caput deste artigo será considerado, para todos os efeitos jurídicos, como parte integrante do plano de benefícios ou da apólice, conforme o caso.

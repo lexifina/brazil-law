@@ -1,0 +1,1 @@
+Art. 80. Os planos de previdência complementar e os seguros de vida com cláusula de cobertura por sobrevivência comercializados até 31 de dezembro de 2005 poderão ser adaptados pelas entidades abertas de previdência complementar e sociedades seguradoras à estrutura prevista no art. 76 desta Lei.

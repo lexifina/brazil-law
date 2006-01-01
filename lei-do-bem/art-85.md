@@ -1,0 +1,1 @@
+Art. 85. É vedada às entidades abertas de previdência complementar e às sociedades seguradoras a imposição de restrições ao exercício da faculdade mencionada no art. 84 desta Lei, mesmo que o financiamento imobiliário seja tomado em instituição financeira não vinculada.
