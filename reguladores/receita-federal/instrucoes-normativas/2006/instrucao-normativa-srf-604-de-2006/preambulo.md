@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 604, de 4 de janeiro de 2006
+Estabelece procedimentos para habilitação ao Regime Aduaneiro Especial de Importação de embalagens referidas na alínea "b" do inciso II do art. 51 da Lei no 10.833, de 2003.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições previstas no inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto na Lei nº 10.833, de 29 de dezembro de 2003, art. 51, inciso II, alínea b, na Lei nº 11.196, de 21 de novembro de 2005, arts. 52 a 54 e no Decreto nº 5.652, de 29 de dezembro de 2005, art. 4o, resolve:
