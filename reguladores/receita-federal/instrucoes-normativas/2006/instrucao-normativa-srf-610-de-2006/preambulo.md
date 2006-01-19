@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 610, de 17 de janeiro de 2006
+Altera os arts. 14 e 24 da Instrução Normativa SRF nº 450, de 21 de setembro de 2004, que dispõe sobre a Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira (CPMF).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no art. 49 da Medida Provisória nº 2.158, de 24 de janeiro de 2001, e no art. 1º da Portaria MF nº 433, de 27 de dezembro de 2005, resolve:
