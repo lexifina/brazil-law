@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 700, DE 04 DE OUTUBRO DE 2004
+(Autoria do Projeto: Poder Executivo)
+Altera redação da Lei Complementar que menciona e dá outras providências.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
