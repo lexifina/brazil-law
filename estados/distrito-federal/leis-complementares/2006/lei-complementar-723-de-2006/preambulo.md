@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 723, DE 30 DE JANEIRO DE 2006
+(Autoria do Projeto: Poder Executivo)
+Dispõe sobre a criação, implantação e desenvolvimento do Pólo Industrial de Desenvolvimento de Microcomponentes Eletrônicos e Semicondutores no Distrito Federal.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
