@@ -1,0 +1,85 @@
+DECISÃO: 1. Trata-se de recurso extraordinário interposto
+   contra acórdão proferido pelo Tribunal de Justiça de São Paulo
+   que decidiu ser inconstitucional o sub-teto de vencimentos
+   instituído por lei estadual.
+Sustenta o recorrente, com base no
+   art. 102, III, a, a ocorrência de violação ao artigo 37, X e XI,
+   da Constituição Federal, e artigo 29 da Emenda Constitucional nº
+   19/98.
+2.      Consistente o recurso.
+        É que, esta Corte de há
+   muito assentou entendimento no sentido de que "a superveniência
+   da Emenda Constitucional 19/98, no ponto em que alterou a redação
+   do artigo 37, XI, da Constituição, não teve a virtude de revogar
+   as disposições legais que dispunham a respeito do teto ou do
+   sub-teto de vencimentos dos servidores públicos, dado que "só se
+   tornarão aplicáveis o novo art. 37, XI, e seus corolários, na EC
+   19/98, a partir da fixação por lei do subsídio mensal", ADI nº
+   1.898-MC, julgada em 21.10.98, Rel. Min. OCTÁVIO GALLOTTI,
+   Informativo/STF nº 128.
+        Donde se conclui que, enquanto não
+   houver a integralização do preceito constitucional, subsistirão
+   as normas estaduais que fixem o teto de vencimentos dos agentes
+   públicos e permanecerá a vedação de sujeitar as vantagens
+   pessoais de toda espécie ao limite remuneratório (ADI nº 14, DJ
+   de 03.9.89, Rel. Min. CÉLIO BORJA, RTJ 130/475, RE nº 141.788,
+   Rel. Min. SEPÚLVEDA PERTENCE, RTJ 152/243, dentre outros).
+        Por
+   outro lado, esta Casa, em casos análogos, declarou a
+   constitucionalidade da instituição dos sub-tetos de vencimentos,
+   mediante a edição de lei estadual específica. Cite-se a título de
+   exemplo o RE nº 228.080, Rel. Min. SEPÚLVEDA PERTENCE, DJ de
+   21.08.98:
+"...
+I - Servidor público estadual: teto
+   constitucional: equivalência entre os tetos (CF, art. 37,
+   XI).
+Se a remuneração do cargo de Secretário de Estado é
+   inferior à do cargo de Deputado Estadual, não pode o Judiciário,
+   a pretexto de cumprir a regra da equivalência entre os tetos (CF,
+   art. 37, XI), desconsiderar a diferença e adotar, como teto
+   remuneratório dos servidores do Poder Executivo, a remuneração
+   máxima paga no Legislativo. Precedentes: RMS 21.946 (Pertence,
+   RTJ 157/898), RMS 21.988 (Pertence, RTJ 160/466), RREE 191.394 w
+   210.976 (Pleno, j. 4.3.98, Corrêa).
+II - Teto: redução do limite
+   remuneratório (L.C. est. 43/92-SC): inexistência de direito
+   adquirido à manutenção do limite previsto na legislação revogada,
+   pois é axiomático não existir direito adquirido a regime
+   jurídico.
+III - Lícita a anterior fixação do teto local na
+   remuneração dos Secretários de Estado e dada a garantia
+   constitucional da irredutibilidade dos vencimentos, têm os
+   impetrantes direito a que, da incidência imediata da LC 43/92,
+   não poderá resultar o decréscimo da quantia que licitamente
+   percebessem, até o montante do teto anterior.
+IV - Teto
+   estadual: fixação em montante inferior ao previsto no art. 37,
+   XI, da Constituição: possibilidade.
+1.      V - No art. 37, XI, CF,
+   são previstos dois limites máximos a considerar na implementação
+   do sistema: o primeiro, já predeterminado pela Constituição, para
+   cada Poder; o segundo, a ser fixado por lei da União e de cada
+   unidade federação, contido, porém, pela observância do primeiro,
+   mas ao qual poderá ser inferior, excetuadas apenas as hipóteses
+   de teto diverso estabelecida na própria Constituição da República
+   (arts. 27, § 2º, e 93, V)."
+        E especificamente quanto à Lei
+   nº 6.995/90, também já se decidiu no mesmo sentido RE nº 419.862
+   - AgRg,  Rel. Min. SEPÚLVEDA PERTENCE, DJ 10.09.04 e decisão
+   monocrática do Min. EROS GRAU, RE nº 419.705, de
+   27.11.04.
+        Dessa maneira, legítima é a fixação do sub-teto de
+   vencimentos prevista em leis estaduais, observado na aferição e
+   no cálculo do limite da remuneração dos servidores públicos a
+   não-inclusão das vantagens pessoais de qualquer espécie, conforme
+   jurisprudência desta Corte.
+3.      Do exposto, e com fundamento
+   no art. 557, § 1º-A, do CPC, conheço do recurso e lhe dou
+   provimento, para indeferir o mandado de segurança. Custas "ex
+   lege".
+        Publique-se. Int..
+        Brasília, 2 de fevereiro de
+   2006.
+Ministro CEZAR PELUSO
+Relator
