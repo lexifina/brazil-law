@@ -1,4 +1,4 @@
-Art. 32. O ensino fundamental, com duração mínima de oito anos, obrigatório e gratuito na escola pública a partir dos seis anos, terá por objetivo a formação básica do cidadão mediante:
+Art. 32. O ensino fundamental obrigatório, com duração de 9 (nove) anos, gratuito na escola pública, iniciando-se aos 6 (seis) anos de idade, terá por objetivo a formação básica do cidadão, mediante:
 I - o desenvolvimento da capacidade de aprender, tendo como meios básicos o pleno domínio da leitura, da escrita e do cálculo;
 II - a compreensão do ambiente natural e social, do sistema político, da tecnologia, das artes e dos valores em que se fundamenta a sociedade;
 III - o desenvolvimento da capacidade de aprendizagem, tendo em vista a aquisição de conhecimentos e habilidades e a formação de atitudes e valores;
