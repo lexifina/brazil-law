@@ -1,0 +1,2 @@
+Autoriza o Poder Executivo a conceder subvenção econômica à Companhia de Navegação do São Francisco - FRANAVE.
+Faço saber que o Presidente da República adotou a Medida Provisória nº 159, de 2003, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
