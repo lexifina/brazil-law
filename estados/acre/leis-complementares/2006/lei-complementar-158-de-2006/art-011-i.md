@@ -1,0 +1,1 @@
+Art. 11-I. O Defensor Público Geral do Estado poderá, subsidiariamente, editar todos os atos necessários ao perfeito funcionamento do Fundo Orçamentário, criado por esta lei complementar. (Incluído pela Lei Complementar nº 216, de 30/08/2010)

@@ -1,0 +1,1 @@
+Art. 11-G. O material permanente adquirido com os recursos do Fundo Orçamentário será incorporado ao patrimônio do Estado, sob a administração da ESDPAC. (Redação dada pela Lei Complementar nº 425, de 04/01/2023, com efeitos a contar de 1º de fevereiro de 2023)

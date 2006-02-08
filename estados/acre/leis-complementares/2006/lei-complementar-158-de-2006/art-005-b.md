@@ -1,0 +1,1 @@
+Art. 5º-B Em caso de empate, será considerado eleito o mais antigo na categoria; persistindo o empate, o mais antigo na carreira; e, em caso de igualdade, o mais idoso. (Incluído pela Lei Complementar nº 216, de 30/08/2010)
