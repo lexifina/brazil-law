@@ -1,0 +1,1 @@
+Art. 61. O disposto no art. 33, § 2º, inciso I, do Decreto-Lei nº 1.593, de 21 de dezembro de 1977, também se aplica aos demais produtos sujeitos ao selo de controle a que se refere o art. 46 da Lei nº 4.502, de 30 de novembro de 1964.

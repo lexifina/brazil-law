@@ -1,0 +1,1 @@
+Art. 62. O percentual e o coeficiente multiplicadores a que se refere o art. 3º da Lei Complementar nº 70, de 30 de dezembro de 1991, e o art. 5º da Lei nº 9.715, de 25 de novembro de 1998, passam a ser de 169% (cento e sessenta e nove por cento) e 1,98 (um inteiro e noventa e oito centésimos), respectivamente.

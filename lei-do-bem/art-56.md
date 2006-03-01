@@ -1,0 +1,1 @@
+Art. 56. A Contribuição para o PIS/Pasep e a Cofins devidas pelo produtor ou importador de nafta petroquímica, incidentes sobre a receita bruta decorrente da venda desse produto às centrais petroquímicas, serão calculadas, respectivamente, com base nas alíquotas de 1% (um por cento) e 4,6% (quatro inteiros e seis décimos por cento).
