@@ -1,0 +1,1 @@
+Art. 79. As associações civis que venham a participar, de qualquer forma, das concessões florestais ou da gestão direta das florestas públicas deverão ser constituídas sob as leis brasileiras e ter sede e administração no País.

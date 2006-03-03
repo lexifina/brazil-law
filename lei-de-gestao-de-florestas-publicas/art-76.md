@@ -1,0 +1,1 @@
+Art. 76. Em 10 (dez) anos contados da data de publicação desta Lei, a área total com concessões florestais da União não poderá ultrapassar 20% (vinte por cento) do total de área de suas florestas públicas disponíveis para a concessão, com exceção das unidades de manejo localizadas em florestas nacionais criadas nos termos do art. 17 da Lei nº 9.985, de 18 de julho de 2000.

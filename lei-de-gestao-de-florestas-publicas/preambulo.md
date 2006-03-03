@@ -1,0 +1,2 @@
+Dispõe sobre a gestão de florestas públicas para a produção sustentável; institui, na estrutura do Ministério do Meio Ambiente, o Serviço Florestal Brasileiro - SFB; cria o Fundo Nacional de Desenvolvimento Florestal - FNDF; altera as Leis nºs 10.683, de 28 de maio de 2003, 5.868, de 12 de dezembro de 1972, 9.605, de 12 de fevereiro de 1998, 4.771, de 15 de setembro de 1965, 6.938, de 31 de agosto de 1981, e 6.015, de 31 de dezembro de 1973; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:

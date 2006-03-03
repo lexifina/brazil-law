@@ -1,0 +1,3 @@
+Art. 71. A licitação para a concessão florestal das unidades de manejo mencionadas no § 4º do art. 70 desta Lei, além de observar os termos desta Lei, deverá seguir as seguintes determinações:
+I - o vencedor da licitação, após firmar o contrato de concessão, deverá seguir o PMFS em execução, podendo revisá-lo nas condições previstas em regulamento;
+II - o edital de licitação deverá conter os valores de ressarcimento das benfeitorias e investimentos já realizados na área a serem pagos ao detentor do PMFS pelo vencedor do processo de licitação, descontado o valor da produção auferida previamente à licitação nos termos do § 8º do art. 70 desta Lei.

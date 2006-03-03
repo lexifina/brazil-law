@@ -1,0 +1,1 @@
+Art. 64. O SFB constituirá quadro de pessoal, por meio da realização de concurso público de provas, ou de provas e títulos, ou da redistribuição de servidores de órgãos e entidades da administração federal direta, autárquica ou fundacional.

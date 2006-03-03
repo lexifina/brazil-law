@@ -1,0 +1,2 @@
+Art. 69. Sem prejuízo do disposto nos incisos VI e VII do art. 23 da Constituição Federal, a execução das atividades relacionadas às concessões florestais poderá ser delegada pelos Estados, Distrito Federal e Municípios à União, bem como pela União aos demais entes federados, mediante convênio firmado com o órgão gestor competente.
+Parágrafo único. É vedado ao órgão gestor conveniado exigir do concessionário sob sua ação complementar de regulação, controle e fiscalização obrigação não prevista previamente em contrato.

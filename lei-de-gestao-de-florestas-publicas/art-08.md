@@ -1,0 +1,1 @@
+Art. 8º A publicação do edital de licitação de cada lote de concessão florestal deverá ser precedida de audiência pública, por região, realizada pelo órgão gestor, nos termos do regulamento, sem prejuízo de outras formas de consulta pública.

@@ -1,0 +1,1 @@
+Art. 47. O contrato de concessão poderá ser rescindido por iniciativa do concessionário, no caso de descumprimento das normas contratuais pelo poder concedente, mediante ação judicial especialmente intentada para esse fim.

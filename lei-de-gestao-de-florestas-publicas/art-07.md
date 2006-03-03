@@ -1,0 +1,2 @@
+Art. 7º A concessão florestal será autorizada em ato do poder concedente e formalizada mediante contrato, que deverá observar os termos desta Lei, das normas pertinentes e do edital de licitação.
+Parágrafo único. Os relatórios ambientais preliminares, licenças ambientais, relatórios de impacto ambiental, contratos, relatórios de fiscalização e de auditorias e outros documentos relevantes do processo de concessão florestal serão disponibilizados por meio da Rede Mundial de Computadores, sem prejuízo do disposto no art. 25 desta Lei.

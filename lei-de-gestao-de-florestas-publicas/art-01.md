@@ -1,0 +1,1 @@
+Art. 1º Esta Lei dispõe sobre a gestão de florestas públicas para produção sustentável, institui o Serviço Florestal Brasileiro - SFB, na estrutura do Ministério do Meio Ambiente, e cria o Fundo Nacional de Desenvolvimento Florestal - FNDF.

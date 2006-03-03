@@ -1,0 +1,1 @@
+Art. 77. Ao final dos 10 (dez) primeiros anos contados da data de publicação desta Lei, cada concessionário, individualmente ou em consórcio, não poderá concentrar mais de 10% (dez por cento) do total da área das florestas públicas disponíveis para a concessão em cada esfera de governo.

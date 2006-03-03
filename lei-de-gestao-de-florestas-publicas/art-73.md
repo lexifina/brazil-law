@@ -1,0 +1,3 @@
+Art. 73. As áreas públicas já ocupadas e convertidas para uso alternativo do solo na data de publicação desta Lei estarão excluídas das concessões florestais, desde que confirmada a sua vocação para o uso atual por meio do ZEE aprovado de acordo com a legislação pertinente.
+§ 1º Nos remanescentes das áreas previstas no caput deste artigo, o Poder Público poderá autorizar novos Planos de Manejo Florestal Sustentável, observada a legislação vigente.
+§ 2º Fica garantido o direito de continuidade das atividades econômicas realizadas, em conformidade com a lei, pelos atuais ocupantes em áreas de até 2.500ha (dois mil e quinhentos hectares), pelo prazo de 5 (cinco) anos a partir da data de publicação desta Lei.

@@ -1,0 +1,4 @@
+Art. 48. As concessões em florestas nacionais, estaduais e municipais devem observar o disposto nesta Lei, na Lei nº 9.985, de 18 de julho de 2000, e no plano de manejo da unidade de conservação.
+§ 1º A inserção de unidades de manejo das florestas nacionais, estaduais e municipais no Paof requer prévia autorização do órgão gestor da unidade de conservação.
+§ 2º Os recursos florestais das unidades de manejo de florestas nacionais, estaduais e municipais somente serão objeto de concessão após aprovação do plano de manejo da unidade de conservação, nos termos da Lei nº 9.985, de 18 de julho de 2000.
+§ 3º Para a elaboração do edital e do contrato de concessão florestal das unidades de manejo em florestas nacionais, estaduais e municipais, ouvir-se-á o respectivo conselho consultivo, constituído nos termos do art. 17, § 5º, da Lei nº 9.985, de 18 de julho de 2000, o qual acompanhará todas as etapas do processo de outorga.

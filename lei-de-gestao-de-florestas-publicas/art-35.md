@@ -1,0 +1,2 @@
+Art. 35. O prazo dos contratos de concessão florestal será estabelecido de acordo com o ciclo de colheita ou exploração, considerando o produto ou grupo de produtos com ciclo mais longo incluído no objeto da concessão, podendo ser fixado prazo equivalente a, no mínimo, um ciclo e, no máximo, 40 (quarenta) anos.
+Parágrafo único. O prazo dos contratos de concessão exclusivos para exploração de serviços florestais será de, no mínimo, 5 (cinco) e, no máximo, 20 (vinte) anos.

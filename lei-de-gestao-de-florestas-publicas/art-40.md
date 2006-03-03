@@ -1,0 +1,3 @@
+Art. 40. Os recursos financeiros oriundos dos preços de cada concessão florestal da União serão depositados e movimentados exclusivamente por intermédio dos mecanismos da conta única do Tesouro Nacional, na forma do regulamento.
+§ 1º O Tesouro Nacional, trimestralmente, repassará aos Estados e Municípios os recursos recebidos de acordo com o previsto nas alíneas a e b do inciso II do caput e nas alíneas b e c do inciso II do § 1º, ambos do art. 39 desta Lei.
+§ 2º O Órgão Central de Contabilidade da União editará as normas gerais relativas à consolidação das contas públicas aplicáveis aos recursos financeiros oriundos da concessão florestal e à sua distribuição.
