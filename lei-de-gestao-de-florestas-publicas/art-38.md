@@ -1,0 +1,1 @@
+Art. 38. O contrato de concessão referido no art. 27 desta Lei poderá prever o compromisso de investimento mínimo anual do concessionário, destinado à modernização da execução dos PMFS, com vistas na sua sustentabilidade.

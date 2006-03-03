@@ -1,0 +1,1 @@
+Art. 74. Os parâmetros para definição dos tamanhos das unidades de manejo a serem concedidas às pessoas jurídicas de pequeno porte, micro e médias empresas, na forma do art. 33 desta Lei, serão definidos em regulamento, previamente à aprovação do primeiro Paof.
