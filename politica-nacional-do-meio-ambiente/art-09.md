@@ -11,3 +11,4 @@ IX - as penalidades disciplinares ou compensatórias ao não cumprimento das med
 X - a instituição do Relatório de Qualidade do Meio Ambiente, a ser divulgado anualmente pelo Instituto Brasileiro do Meio Ambiente e Recursos Naturais Renováveis - IBAMA;
 XI - a garantia da prestação de informações relativas ao Meio Ambiente, obrigando-se o Poder Público a produzí-las, quando inexistentes;
 XII - o Cadastro Técnico Federal de atividades potencialmente poluidoras e/ou utilizadoras dos recursos ambientais.
+XIII - instrumentos econômicos, como concessão florestal, servidão ambiental, seguro ambiental e outros.
