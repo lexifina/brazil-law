@@ -1,0 +1,1 @@
+Art. 72. As florestas públicas não destinadas a manejo florestal ou unidades de conservação ficam impossibilitadas de conversão para uso alternativo do solo, até que sua classificação de acordo com o ZEE esteja oficializada e a conversão seja plenamente justificada.

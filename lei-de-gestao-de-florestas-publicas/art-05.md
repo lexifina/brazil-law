@@ -1,0 +1,3 @@
+Art. 5º O Poder Público poderá exercer diretamente a gestão de florestas nacionais, estaduais e municipais criadas nos termos do art. 17 da Lei nº 9.985, de 18 de julho de 2000, sendo-lhe facultado, para execução de atividades subsidiárias, firmar convênios, termos de parceria, contratos ou instrumentos similares com terceiros, observados os procedimentos licitatórios e demais exigências legais pertinentes.
+§ 1º A duração dos contratos e instrumentos similares a que se refere o caput deste artigo fica limitada a 120 (cento e vinte) meses.
+§ 2º Nas licitações para as contratações de que trata este artigo, além do preço, poderá ser considerado o critério da melhor técnica previsto no inciso II do caput do art. 26 desta Lei.

@@ -1,0 +1,1 @@
+Art. 17. Os produtos de uso tradicional e de subsistência para as comunidades locais serão excluídos do objeto da concessão e explicitados no edital, juntamente com a definição das restrições e da responsabilidade pelo manejo das espécies das quais derivam esses produtos, bem como por eventuais prejuízos ao meio ambiente e ao poder concedente.

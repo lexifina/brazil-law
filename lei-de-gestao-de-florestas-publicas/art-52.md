@@ -1,0 +1,2 @@
+Art. 52. A Comissão de Gestão de Florestas Públicas será composta por representantes do Poder Público, dos empresários, dos trabalhadores, da comunidade científica, dos movimentos sociais e das organizações não governamentais, e terá sua composição e seu funcionamento definidos em regulamento.
+Parágrafo único. Os membros da Comissão de Gestão de Florestas Públicas exercem função não remunerada de interesse público relevante, com precedência, na esfera federal, sobre quaisquer cargos públicos de que sejam titulares e, quando convocados, farão jus a transporte e diárias.
