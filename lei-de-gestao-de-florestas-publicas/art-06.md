@@ -1,0 +1,7 @@
+Art. 6º Antes da realização das concessões florestais, as florestas públicas ocupadas ou utilizadas por comunidades locais serão identificadas para a destinação, pelos órgãos competentes, por meio de:
+I - criação de reservas extrativistas e reservas de desenvolvimento sustentável, observados os requisitos previstos da Lei nº 9.985, de 18 de julho de 2000;
+II - concessão de uso, por meio de projetos de assentamento florestal, de desenvolvimento sustentável, agroextrativistas ou outros similares, nos termos do art. 189 da Constituição Federal e das diretrizes do Programa Nacional de Reforma Agrária;
+III - outras formas previstas em lei.
+§ 1º A destinação de que trata o caput deste artigo será feita de forma não onerosa para o beneficiário e efetuada em ato administrativo próprio, conforme previsto em legislação específica.
+§ 2º Sem prejuízo das formas de destinação previstas no caput deste artigo, as comunidades locais poderão participar das licitações previstas no Capítulo IV deste Título, por meio de associações comunitárias, cooperativas ou outras pessoas jurídicas admitidas em lei.
+§ 3º O Poder Público poderá, com base em condicionantes socioambientais definidas em regulamento, regularizar posses de comunidades locais sobre as áreas por elas tradicionalmente ocupadas ou utilizadas, que sejam imprescindíveis à conservação dos recursos ambientais essenciais para sua reprodução física e cultural, por meio de concessão de direito real de uso ou outra forma admitida em lei, dispensada licitação.

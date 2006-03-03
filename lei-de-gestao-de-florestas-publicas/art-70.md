@@ -1,0 +1,11 @@
+Art. 70. As unidades de manejo em florestas públicas com PMFS aprovados e em execução até a data de publicação desta Lei serão vistoriadas:
+I - pelo órgão competente do Sisnama, para averiguar o andamento do manejo florestal;
+II - pelo órgão fundiário competente, para averiguar a situação da ocupação, de acordo com os parâmetros estabelecidos na legislação específica.
+§ 1º As vistorias realizadas pelo órgão fundiário competente serão acompanhadas por representante do Poder Público local.
+§ 2º Nas unidades de manejo onde não for verificado o correto andamento do manejo florestal, os detentores do PMFS serão notificados para apresentar correções, no prazo estabelecido pelo órgão competente do Sisnama.
+§ 3º Caso não sejam atendidas as exigências da notificação mencionada no § 2º deste artigo, o PMFS será cancelado e a área correspondente deverá ser desocupada sem ônus para o Poder Público e sem prejuízo das demais penalidades previstas em lei.
+§ 4º As unidades de manejo onde o correto andamento do manejo florestal for verificado ou saneado nos termos do § 2º deste artigo serão submetidas a processo licitatório, no prazo de até 24 (vinte e quatro) meses a partir da data da manifestação dos órgãos a respeito da vistoria prevista no caput deste artigo, desde que não seja constatado conflito com comunidades locais pela ocupação do território e uso dos recursos florestais.
+§ 5º Será dada a destinação prevista no art. 6º desta Lei às unidades de manejo onde o correto andamento do manejo florestal for verificado e os detentores dos PMFS forem comunidades locais.
+§ 6º Até que sejam submetidas ao processo licitatório, as unidades de manejo mencionadas no § 4º deste artigo permanecerão sob a responsabilidade do detentor do PMFS, que poderá dar continuidade às atividades de manejo mediante assinatura de contrato com o poder concedente.
+§ 7º O contrato previsto no § 6º deste artigo terá vigência limitada à assinatura do contrato de concessão resultante do processo licitatório.
+§ 8º Findo o processo licitatório, o detentor do PMFS que der continuidade à sua execução, nos termos deste artigo, pagará ao órgão gestor competente valor proporcional ao preço da concessão florestal definido na licitação, calculado com base no período decorrido desde a verificação pelo órgão competente do Sisnama até a adjudicação do vencedor na licitação.

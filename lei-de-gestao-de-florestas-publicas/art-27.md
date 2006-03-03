@@ -1,0 +1,5 @@
+Art. 27. Para cada unidade de manejo licitada, será assinado um contrato de concessão exclusivo com um único concessionário, que será responsável por todas as obrigações nele previstas, além de responder pelos prejuízos causados ao poder concedente, ao meio ambiente ou a terceiros, sem que a fiscalização exercida pelos órgãos competentes exclua ou atenue essa responsabilidade.
+§ 1º Sem prejuízo da responsabilidade a que se refere o caput deste artigo, o concessionário poderá contratar terceiros para o desenvolvimento de atividades inerentes ou subsidiárias ao manejo florestal sustentável dos produtos e à exploração dos serviços florestais concedidos.
+§ 2º As contratações, inclusive de mão-de-obra, feitas pelo concessionário serão regidas pelo direito privado, não se estabelecendo qualquer relação jurídica entre os terceiros contratados pelo concessionário e o poder concedente.
+§ 3º A execução das atividades contratadas com terceiros pressupõe o cumprimento das normas regulamentares relacionadas a essas atividades.
+§ 4º É vedada a subconcessão na concessão florestal.
