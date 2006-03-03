@@ -1,0 +1,2 @@
+Art. 65. O SFB poderá requisitar, independentemente da designação para cargo em comissão ou função de confiança, e sem prejuízo dos vencimentos e vantagens a que façam jus no órgão de origem, servidores de órgãos e entidades integrantes da administração pública federal direta, autárquica e fundacional, observado o quantitativo máximo estabelecido em ato conjunto dos Ministros de Estado do Planejamento, Orçamento e Gestão e do Meio Ambiente.
+Parágrafo único. No caso de requisição ao Ibama, ela deverá ser precedida de autorização do órgão.
