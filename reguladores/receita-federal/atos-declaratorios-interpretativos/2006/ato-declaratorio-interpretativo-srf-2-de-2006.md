@@ -1,0 +1,7 @@
+Ato Declaratório Interpretativo SRF nº 2, de 6 de março de 2006
+Dispõe sobre o critério de cálculo da compensação fiscal pela divulgação gratuita da propaganda partidária ou eleitoral.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no Decreto nº 5.331, de 4 de janeiro de 2005, e o que consta do processo nº 10168.000559/2006-84, declara:
+Artigo único. A compensação fiscal de que trata o art. 1º do Decreto nº 5.331, de 2005, corresponde a oito décimos do somatório dos valores efetivamente praticados na mesma grade horária exibida no dia anterior à data de início de divulgação gratuita da propaganda partidária ou eleitoral.
+§ 1º Para efeito do caput, considera-se valor efetivamente praticado o resultado da multiplicação do preço do espaço comercializado pelo tempo de exibição da publicidade contratada.
+§ 2º Na hipótese de o tempo destinado à divulgação gratuita abranger apenas parte de um espaço comercializado do dia anterior ao de início da divulgação, o valor efetivamente praticado deverá ser apurado proporcionalmente ao tempo abrangido.
+§ 3º O disposto neste artigo aplica-se também em relação aos comunicados, às instruções e a outras requisições da Justiça Eleitoral, relativos aos programas partidários ou eleitorais.
