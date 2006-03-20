@@ -1,0 +1,27 @@
+Anexo I
+[arquivo anexo: vazio.htm]
+I - Solicitação de atos perante o CNPJ por meio da Internet
+Os pedidos de inscrição de matriz ou de filial, a alteração de dados cadastrais, a inclusão ou exclusão do SIMPLES e os eventos especiais devem ser efetuados por meio da Internet (ReceitaNet).
+II - Procedimentos do contribuinte - envio por meio do programa ReceitaNet
+Para efetuar a transmissão de sua solicitação via Internet, o contribuinte deverá adotar os seguintes procedimentos:
+a) o contribuinte deverá ter instalado em sua estação de trabalho o Programa Gerador de Documentos do CNPJ (PGD CNPJ) - e o aplicativo ReceitaNet;
+b) o PGD do CNPJ deverá ser usado para preencher os dados relativos ao pedido;
+c) após gravar no disquete do CNPJ, por meio da opção "Gravar Para Entrega à SRF" no menu "Documentos", ou gravar no disco rígido, o contribuinte deverá transmitir os dados, selecionando a opção "Transmitir via Internet", no mesmo menu, ou clicando no ícone respectivo na barra de ferramentas. Nesse momento aparecerá a tela principal do ReceitaNet. Acionar o botão "Enviar". A transmissão somente será possível se a estação de trabalho estiver conectada à Internet e estiver sido instalado o Programa ReceitaNet. Os dados enviados serão armazenados em um servidor da SRF que funcionará como uma base temporária;
+d) a transmissão efetuada com sucesso ensejará a gravação do Recibo de Entrega. O recibo de entrega deverá ser impresso, em uma via, por meio da opção "Imprimir" do PGD do CNPJ.
+e) o número constante do recibo de entrega (número do recibo / número de identificação) servirá como código de acesso, que permitirá ao contribuinte consultar o andamento do seu pedido na página da SRF na Internet, opção "Consulta da Situação do Pedido de CNPJ enviado pela Internet". Num primeiro momento o sistema realizará automaticamente pesquisa prévia que resultará em pendências ou não. Havendo pendências, estas serão disponibilizadas ao contribuinte na Internet para consulta, impressão e resolução. Não havendo pendências, disponibilizará para impressão o Documento Básico de Entrada no CNPJ (DBE) ou Protocolo de Transmissão, o qual conterá o número do recibo/número de identificação, e informará o endereço da unidade cadastradora para onde o contribuinte deverá encaminhar a documentação necessária (DBE com firma reconhecida ou Protocolo de Transmissão e, se for o caso, cópia autenticada do ato constitutivo / alterador / deliberativo).
+ATENÇÃO: DOCUMENTAÇÃO NECESSÁRIA - No caso de ato constitutivo / alterador / deliberativo não envie documentos originais e sim cópias autenticadas. Os documentos não serão devolvidos. O DBE deverá ser assinado pela pessoa física responsável ou procurador, contendo firma reconhecida em cartório. O reconhecimento de firma da assinatura no DBE é dispensado no caso de solicitação de órgão público ou de utilização de convênio com órgão de registro.
+Aprovado pela IN SRF nº 632, de 2006.
+Anexo II
+[arquivo anexo: vazio.htm]
+REPÚBLICA FEDERATIVA DO BRASIL CADASTRO NACIONAL DA PESSOA JURÍDICA NÚMERO DE INSCRIÇÃO COMPROVANTE DE INSCRIÇÃO E DE SITUAÇÃO CADASTRAL DATA DE ABERTURA NOME EMPRESARIAL TÍTULO DO ESTABELECIMENTO (NOME DE FANTASIA) CÓDIGO E DESCRIÇÃO DA ATIVIDADE ECONÔMICA PRINCIPAL CÓDIGO E DESCRIÇÃO DAS ATIVIDADES ECONÔMICAS SECUNDÁRIAS CÓDIGO E DESCRIÇÃO DA NATUREZA JURÍDICA LOGRADOURO NÚMERO COMPLEMENTO CEP BAIRRO/DISTRITO MUNICÍPIO UF SITUAÇÃO CADASTRAL DATA DA SITUAÇÃO CADASTRAL SITUAÇÃO ESPECIAL DATA DA SITUAÇÃO ESPECIAL Aprovado pela IN SRF nº 632, de 2006.
+[arquivo anexo: 2.htm]
+Anexo III
+[arquivo anexo: vazio.htm]
+REPÚBLICA FEDERATIVA DO BRASIL CADASTRO NACIONAL DA PESSOA JURÍDICA NÚMERO DE INSCRIÇÃO COMPROVANTE DE INSCRIÇÃO E DE SITUAÇÃO CADASTRAL DATA DE ABERTURA NOME EMPRESARIAL TÍTULO DO ESTABELECIMENTO (NOME DE FANTASIA) CÓDIGO E DESCRIÇÃO DA ATIVIDADE ECONÔMICA PRINCIPAL CÓDIGO E DESCRIÇÃO DAS ATIVIDADES ECONÔMICAS SECUNDÁRIAS CÓDIGO E DESCRIÇÃO DA NATUREZA JURÍDICA LOGRADOURO NÚMERO COMPLEMENTO CEP BAIRRO/DISTRITO MUNICÍPIO UF SITUAÇÃO CADASTRAL DATA DA SITUAÇÃO CADASTRAL SITUAÇÃO ESPECIAL DATA DA SITUAÇÃO ESPECIAL Aprovado pela IN SRF nº 632, de 2006.
+[arquivo anexo: 3.htm]
+Anexo IV
+REPÚBLICA FEDERATIVA DO BRASIL CADASTRO NACIONAL DA PESSOA JURÍDICA NÚMERO DE INSCRIÇÃO COMPROVANTE DE INSCRIÇÃO E DE SITUAÇÃO CADASTRAL DATA DE ABERTURA NOME EMPRESARIAL TÍTULO DO ESTABELECIMENTO (NOME DE FANTASIA) CÓDIGO E DESCRIÇÃO DA ATIVIDADE ECONÔMICA PRINCIPAL CÓDIGO E DESCRIÇÃO DAS ATIVIDADES ECONÔMICAS SECUNDÁRIAS CÓDIGO E DESCRIÇÃO DA NATUREZA JURÍDICA LOGRADOURO NÚMERO COMPLEMENTO CEP BAIRRO/DISTRITO MUNICÍPIO UF SITUAÇÃO CADASTRAL DATA DA SITUAÇÃO CADASTRAL SITUAÇÃO ESPECIAL DATA DA SITUAÇÃO ESPECIAL Aprovado pela IN SRF nº 632, de 2006.
+[arquivo anexo: 4.htm]
+Anexo V
+REPÚBLICA FEDERATIVA DO BRASIL CADASTRO NACIONAL DA PESSOA JURÍDICA (CNPJ) CERTIDÃO DE BAIXA DE INSCRIÇÃO NO CNPJ NÚMERO DO CNPJ DATA DA BAIXA DADOS DO CONTRIBUINTE NOME EMPRESARIAL ENDEREÇO LOGRADOURO NÚMERO COMPLEMENTO BAIRRO OU DISTRITO CEP MUNICÍPIO UF TELEFONE MOTIVO DA BAIXA Certifico a baixa da inscrição no CNPJ acima identificada, ressalvado aos órgãos convenentes o direito de cobrar quaisquer créditos tributários posteriormente apurados. Emitida para os efeitos da Instrução Normativa RFB nº 568, de 8 de setembro de 2005. Emitida às , horário de Brasília, do dia , via Internet. UNIDADE CADASTRADORA: Aprovado pela IN SRF nº 632, de 2006.
+[arquivo anexo: 5.htm]
