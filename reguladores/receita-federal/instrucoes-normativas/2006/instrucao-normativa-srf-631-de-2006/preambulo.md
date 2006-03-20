@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 631, de 15 de março de 2006
+Altera a Instrução Normativa SRF nº 96, de 27 de novembro de 2001, que dispõe sobre o pagamento de receitas federais por meio de Documento de Arrecadação de Receitas Federais (Darf) e de Documento de Arrecadação do Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte (Darf- Simples), impressos com código de barras.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, resolve:
