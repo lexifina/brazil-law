@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF10 nº 18, de 6 de fevereiro de 2006
+ASSUNTO: Imposto sobre a Renda de Pessoa Física - IRPF EMENTA: O acréscimo patrimonial decorrente da variação cambial dos saldos dos depósitos mantidos em instituições financeiras no exterior ocorrida durante o ano-calendário é isento do imposto de renda. Está sujeita a apuração do ganho de capital, na forma do art. 7º da IN SRF nº 118, de 2000, a alienação de moeda estrangeira depositada em conta corrente não remunerada mantida em instituições financeiras no exterior. DISPOSITIVOS LEGAIS: Art. 111, inciso II, do CTN; Arts. 7º e 11, § 2º da IN SRF nº 118, de 2000.
+[arquivo anexo: SC SRRF10-Disit nº 18-2006.pdf]
