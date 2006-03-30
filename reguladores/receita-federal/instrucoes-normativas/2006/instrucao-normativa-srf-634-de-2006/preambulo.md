@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 634, de 24 de março de 2006
+Estabelece requisitos e condições para a atuação de pessoa jurídica importadora em operações procedidas para revenda a encomendante predeterminado.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e nos incisos I e II do § 1º do art. 11 e nos arts. 12 a 14 da Lei nº 11.281, de 20 de fevereiro de 2006, resolve:
