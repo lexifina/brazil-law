@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 638, de 24 de março de 2006
+Acrescenta novos códigos NCM ao anexo II da Instrução Normativa SRF nº 422, de 17 de maio de 2004.
+O SECRETÁRIO RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e considerando o disposto na Lei nº 10.336, de 19 de dezembro de 2001, com as alterações posteriores, nos Decretos nº 4.565, de 1º de janeiro de 2003, nº 4.940, de 29 de dezembro de 2003, e nº 5.060, de 30 de abril de 2004, e no que consta do processo nº 11128.003680/2004-35, resolve:
