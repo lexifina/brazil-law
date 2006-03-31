@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 637, de 24 de março de 2006
+Dispõe sobre o tratamento tributário na transferência de registro de investimentos estrangeiros ingressados no País ao amparo do Anexo III à Resolução nº 1.289, de 1997.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto nos arts. 78 a 82 da Lei nº 8.981, de 20 de janeiro de 1995, e no art. 16 da Medida Provisória nº 2.189, de 23 de agosto de 2001, resolve:
