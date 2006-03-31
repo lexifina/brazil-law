@@ -1,0 +1,71 @@
+DECISÃO: A jurisprudência do Supremo Tribunal Federal firmou
+   entendimento no sentido de que a discussão em torno dos
+   requisitos de admissibilidade do recurso especial, dirigido ao
+   Superior Tribunal de Justiça, não viabiliza o acesso à via
+   recursal extraordinária, por tratar-se de tema de caráter
+   eminentemente infraconstitucional (AI 181.489-AgR/SP, Rel. Min.
+   SYDNEY SANCHES - AI 220.604/GO, Rel. Min. MAURÍCIO CORRÊA - AI
+   233.210/SP, Rel. Min. ILMAR GALVÃO, v.g.), exceto se o julgamento
+   emanado dessa Alta Corte judiciária apoiar-se em premissas que
+   conflitem, diretamente, com o que dispõe o art. 105, III, da
+   Carta Política (RTJ 154/207, Rel. Min. SEPÚLVEDA PERTENCE - RTJ
+   154/648, Rel. Min. CARLOS VELLOSO - RTJ 159/1002, Rel. Min.
+   MOREIRA ALVES - AI 161.370-AgR/RJ, Rel. Min. SYDNEY SANCHES - AI
+   210.444-AgR/SP, Rel. Min. MARCO AURÉLIO - AI  218.785-AgR/GO,
+   Rel. Min. ILMAR GALVÃO - AI 219.119-AgR/RJ, Rel. Min. MAURÍCIO
+   CORRÊA - AI 294.607-AgR/PR, Rel. Min. NELSON JOBIM - AI
+   302.241/SP, Rel. Min. CELSO DE MELLO - RE 256.428-AgR/SP, Rel.
+   Min. NELSON JOBIM):
+"A controvérsia sobre o cabimento, ou não,
+   do recurso especial, salvo hipótese em que se assente proposição
+   contrária ao disposto no art. 105, III, e alíneas, da
+   Constituição, estará, sempre, confinada ao plano
+   infraconstitucional, não ensejando recurso extraordinário."
+(AI
+   170.739-AgR-ED/SC, Rel. Min. ILMAR GALVÃO - grifei)
+O exame do
+   acórdão em questão torna evidente que não ocorre, no caso, a
+   situação excepcional, que, se registrada, legitimaria o acesso à
+   via recursal extraordinária, o que torna aplicável, em
+   conseqüência, à espécie dos autos, a orientação jurisprudencial
+   prevalecente nesta Suprema Corte:
+"ACÓRDÃO QUE NÃO ADMITIU
+   RECURSO ESPECIAL POR AUSÊNCIA DOS RESPECTIVOS PRESSUPOSTOS DE
+   ADMISSIBILIDADE.
+Questão circunscrita ao âmbito de interpretação
+   de normas de natureza infraconstitucional, relativas à hipótese
+   de cabimento do recurso especial, inexistindo espaço, por isso,
+   para seu exame, pelo STF, em recurso extraordinário."
+(AI
+   218.785-AgR/GO, Rel. Min. ILMAR GALVÃO - grifei)
+Esta Corte,
+   de outro lado, e no que concerne ao argumento  de desrespeito aos
+   postulados da legalidade, da motivação dos atos decisórios, do
+   contraditório, do devido processo legal, dos limites da coisa
+   julgada e da prestação jurisdicional, tem enfatizado que, em
+   princípio, tais alegações podem configurar, quando muito,
+   situações caracterizadoras de ofensa meramente reflexa ao texto
+   da Constituição (RTJ 147/251 - RTJ 159/328 - RTJ 161/284 - RTJ
+   170/627-628 - AI 126.187-AgR/ES, Rel. Min. CELSO DE MELLO - AI
+   153.310-AgR/RS, Rel. Min. SYDNEY SANCHES - AI 185.669-AgR/RJ,
+   Rel. Min. SYDNEY SANCHES - AI 192.995-AgR/PE, Rel. Min. CARLOS
+   VELLOSO - AI 257.310-AgR/DF, Rel. Min. CELSO DE MELLO - RE
+   254.948/BA, Rel. Min. CELSO DE MELLO, v.g.), o que não basta, só
+   por si, para viabilizar o acesso à via recursal
+   extraordinária.
+A espécie ora em exame não foge aos padrões
+   acima mencionados, refletindo, por isso mesmo, possível situação
+   de ofensa indireta às prescrições da Carta Política,
+   circunstância essa que impede - como precedentemente já
+   enfatizado - o próprio conhecimento do recurso extraordinário
+   (RTJ 120/912, Rel. Min. SYDNEY SANCHES - RTJ 132/455, Rel. Min.
+   CELSO DE MELLO).
+Sendo assim, e pelas razões expostas, nego
+   provimento ao presente agravo de instrumento, eis que se revela
+   inviável o recurso extraordinário a que ele se
+   refere.
+Publique-se.
+Brasília, 31 de março de
+   2006.
+Ministro CELSO DE MELLO
+Relator
