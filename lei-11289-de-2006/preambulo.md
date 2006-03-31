@@ -1,0 +1,2 @@
+Autoriza a União a prestar auxílio financeiro complementar aos Estados, ao Distrito Federal e aos Municípios, com o objetivo de fomentar as exportações do País.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 271, de 2005, que o Congresso Nacional aprovou, e eu, Renan Calheiros, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
