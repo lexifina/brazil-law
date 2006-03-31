@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 639, de 28 de março de 2006
+Prorroga o prazo de que trata o § 10 do art. 28 da Instrução Normativa RFB nº 568, de 8 de setembro de 2005, que dispõe sobre o Cadastro Nacional da Pessoa Jurídica (CNPJ).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no inciso XXII do art. 37 da Constituição Federal, alterado pela Emenda Constitucional nº 42, de 19 de dezembro de 2003, no art. 199 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional e no inciso II do art. 37 da Lei nº 9.250, resolve:
