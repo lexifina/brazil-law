@@ -1,0 +1,33 @@
+DECISÃO: Discute-se neste recurso extraordinário a
+   constitucionalidade da expedição de precatório
+   complementar.
+2.      O recorrente sustenta que o acórdão impugnado
+   viola o disposto no artigo 100 da Constituição do Brasil.
+3.      É o
+   breve relatório. Decido.
+4.      O recurso merece provimento. O
+   Supremo firmou entendimento afirmando ser necessária a expedição
+   de precatório, a ser processado na forma estabelecida no artigo
+   100 e parágrafos, da CB/88, sendo descabida a notificação, ao
+   Poder Público, no sentido de que proceda à complementação do
+   pagamento em prazo determinado pelo Juiz. Nesse sentido, RE n.
+   168.019, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; RE n.
+   193.966, Relator o Ministro Moreira Alves, DJ de 20.6.97, entre
+   outros.
+5.      O Supremo, no julgamento do AI n. 486.642, Relator o
+   Ministro Cezar Peluso, DJ de 15.2.2005, fixou entendimento no
+   sentido de que a "postura invariável, que exige expedição de novo
+   precatório, com citação da Fazenda Pública, funda-se em que todo
+   pagamento de débitos desta é disciplinado pelo art. 100 e §§ da
+   Constituição da República, mediante incidência do art. 730 do
+   Código de Processo Civil. A Emenda Constitucional nº 37/2002, que
+   introduziu o § 4º do art. 100 da Constituição, apenas positivou
+   a orientação fixada pela Corte, ao vedar expedição de precatório
+   complementar ou suplementar."
+        Dou provimento ao recurso com
+   fundamento no art. 557, § 1º-A, do Código de Processo
+   Civil.
+        Publique-se.
+        Brasília, 4 de abril de 2006.
+Ministro Eros Grau
+Relator
