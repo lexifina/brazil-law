@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF08 nº 34, de 17 de março de 2006
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ Ementa: São admitidos como custos ou despesas operacionais os juros abonados aos empréstimos e saldo credores de contas correntes de sócio, acionista, dirigente, administrador ou participante nos lucros de pessoa jurídica, desde que haja contrato escrito com cláusula expressa. As taxas percentuais ajustadas não poderão ser superiores às comumente utilizadas no mercado financeiro, e nem às relativas aos empréstimos menos onerosos obtidos pela pessoa jurídica. Dispositivos Legais: Arts. 282, 374 e 464, II do RIR/1999; Parecer Normativo CST n.º 168/75.
+[arquivo anexo: SC SRRF08-Disit nº 34-2006.pdf]
