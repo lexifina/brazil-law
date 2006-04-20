@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 647, de 18 de abril de 2006
+Altera a Instrução Normativa SRF nº 469, de 10 de novembro de 2004, que dispõe sobre a aplicação do regime aduaneiro especial de admissão temporária aos bens relacionados com a visita ao País de dignitários estrangeiros.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, tendo em vista o disposto nos arts. 29 e 56, § 4º, do Decreto nº 5.123, de 1º de julho de 2004, e nos arts. 310, parágrafo único, 316, 323 e 491, § 2º, inciso II, do Decreto nº 4.543, de 26 de dezembro de 2002, resolve:
