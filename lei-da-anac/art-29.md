@@ -1,3 +1,4 @@
-Art. 29. A ANAC fica autorizada a cobrar taxas pela prestação de serviços ou pelo exercício do poder de polícia, decorrentes de atividades inerentes à sua missão institucional, destinando o produto da arrecadação ao seu custeio e funcionamento.
-§ 1º A cobrança prevista no caput deste artigo recairá sobre as empresas concessionárias, permissionárias e autorizatárias de serviços aéreos, demais operadores de serviços aéreos, empresas exploradoras de infra-estrutura aeroportuária, agências de carga aérea, pessoas jurídicas que explorem atividades de fabricação, manutenção, reparo ou revisão de produtos aeronáuticos e outros usuários de aviação civil.
-§ 2º As taxas e seus respectivos fatos geradores são aqueles definidos no Anexo III desta Lei.
+Art. 29. Fica instituída a Taxa de Fiscalização da Aviação Civil - TFAC.
+§ 1º O fato gerador da TFAC é o exercício do poder de polícia decorrente das atividades de fiscalização, homologação e registros, nos termos do previsto na Lei nº 7.565, de 19 de dezembro de 1986 - Código Brasileiro de Aeronáutica.
+§ 2º São sujeitos passivos da TFAC as empresas concessionárias, permissionárias e autorizatárias de prestação de serviços aéreos comerciais, os operadores de serviços aéreos privados, as exploradoras de infra-estrutura aeroportuária, as agências de carga aérea, pessoas jurídicas que explorem atividades de fabricação, manutenção, reparo ou revisão de produtos aeronáuticos e demais pessoas físicas e jurídicas que realizem atividades fiscalizadas pela ANAC.
+§ 3º Os valores da TFAC são os fixados no Anexo III desta Lei.

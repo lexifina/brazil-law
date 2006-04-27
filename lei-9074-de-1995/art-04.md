@@ -9,9 +9,9 @@ II - de transmissão de energia elétrica;
 III - de venda de energia a consumidores de que tratam os arts. 15 e 16 desta Lei, exceto às unidades consumidoras localizadas na área de concessão ou permissão da empresa distribuidora, sob as mesmas condições reguladas aplicáveis aos demais consumidores não abrangidos por aqueles artigos, inclusive tarifas e prazos;
 IV - de participação em outras sociedades de forma direta ou indireta, ressalvado o disposto no art. 31, inciso VIII, da Lei nº 8.987, de 13 de fevereiro de 1995, e nos respectivos contratos de concessão; ou
 V - estranhas ao objeto da concessão, permissão ou autorização, exceto nos casos previstos em lei e nos respectivos contratos de concessão.
-§ 6º Não se aplica o disposto no § 5º deste artigo às concessionárias, permissionárias e autorizadas de distribuição:
+§ 6º Não se aplica o disposto no § 5º deste artigo às concessionárias, permissionárias e autorizadas de distribuição e às cooperativas de eletrificação rural:
 I - no atendimento a sistemas elétricos isolados;
-II - no atendimento ao seu mercado próprio, desde que este seja inferior a 500 (quinhentos) GWh/ano e a totalidade da energia gerada, sob o regime de serviço público, seja a ele destinada; e
+II - no atendimento ao seu mercado próprio, desde que seja inferior a 500 (quinhentos) GWh/ano e a totalidade da energia gerada seja a ele destinada;
 III - na captação, aplicação ou empréstimo de recursos financeiros destinados ao próprio agente ou a sociedade coligada, controlada, controladora ou vinculada a controladora comum, desde que destinados ao serviço público de energia elétrica, mediante anuência prévia da ANEEL, observado o disposto no inciso XIII do art. 3º da Lei nº 9.427, de 26 de dezembro de 1996, com redação dada pelo art. 17 da Lei nº 10.438, de 26 de abril de 2002, garantida a modicidade tarifária e atendido ao disposto na Lei nº 6.404, de 15 de dezembro de 1976.
 § 7º As concessionárias e as autorizadas de geração de energia elétrica que atuem no Sistema Interligado Nacional - SIN não poderão ser coligadas ou controladoras de sociedades que desenvolvam atividades de distribuição de energia elétrica no SIN.
 § 8º A regulamentação deverá prever sanções para o descumprimento do disposto nos §§ 5º, 6º e 7º deste artigo após o período estabelecido para a desverticalização.

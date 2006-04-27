@@ -40,7 +40,7 @@ XXXVIII - adquirir, administrar e alienar seus bens;
 XXXIX - apresentar ao Ministro de Estado da Defesa proposta de orçamento;
 XL - elaborar e enviar o relatório anual de suas atividades ao Ministério da Defesa e, por intermédio da Presidência da República, ao Congresso Nacional;
 XLI - aprovar o seu regimento interno;
-XLII - administrar os empregos públicos, os cargos comissionados e as gratificações de que trata esta Lei;
+XLII - administrar os cargos efetivos, os cargos comissionados e as gratificações de que trata esta Lei;
 XLIII - decidir, em último grau, sobre as matérias de sua competência;
 XLIV - deliberar, na esfera administrativa, quanto à interpretação da legislação, sobre serviços aéreos e de infra-estrutura aeronáutica e aeroportuária, inclusive casos omissos, quando não houver orientação normativa da Advocacia-Geral da União;
 XLV - deliberar, na esfera técnica, quanto à interpretação das normas e recomendações internacionais relativas ao sistema de segurança de vôo da aviação civil, inclusive os casos omissos;
