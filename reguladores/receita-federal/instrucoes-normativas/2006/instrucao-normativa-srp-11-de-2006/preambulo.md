@@ -1,0 +1,3 @@
+Instrução Normativa SRP nº 11, de 25 de abril de 2006
+Altera artigo da Instrução Normativa MPS/SRP nº 9, de 24 de novembro de 2005 e aprova o Manual de Instruções Para Preenchimento da Guia de Recolhimento do FGTS e Informações à Previdência Social GFIP, bem como o Sistema Empresa de Recolhimento do FGTS e Informações à Previdência Social - SEFIP, versão 8.2.
+A SECRETÁRIA DA RECEITA PREVIDENCIÁRIA - SUBSTITUTA, no uso das atribuições conferidas pelo inciso IV do art. 16 do Anexo I do Decreto nº 5.755, de 13 de abril de 2006 e pelo inciso IV do art. 85 do Regimento Interno da Secretaria da Receita Previdenciária, aprovado pela Portaria MPS nº 1.344, de 18 de julho de 2005, resolve:
