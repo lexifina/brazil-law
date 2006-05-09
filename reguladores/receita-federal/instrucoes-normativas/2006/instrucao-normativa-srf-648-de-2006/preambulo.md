@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 648, de 28 de abril de 2006
+Altera a Instrução Normativa RFB nº 560, de 19 de agosto de 2005, que disciplina o despacho aduaneiro de importação e de exportação de remessas expressas.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no parágrafo único do art. 52 do Decreto-Lei nº 37, de 18 de novembro de 1966, com a redação dada pelo art. 2º do Decreto-Lei nº 2.472, de 1º de setembro de 1998, e no art. 5º da Portaria MF nº 156, de 24 de junho de 1999, resolve:
