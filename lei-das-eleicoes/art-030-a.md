@@ -1,0 +1,3 @@
+Art. 30-A. Qualquer partido político ou coligação poderá representar à Justiça Eleitoral relatando fatos e indicando provas e pedir a abertura de investigação judicial para apurar condutas em desacordo com as normas desta Lei, relativas à arrecadação e gastos de recursos.
+§ 1º Na apuração de que trata este artigo, aplicar-se-á o procedimento previsto no art. 22 da Lei Complementar nº 64, de 18 de maio de 1990, no que couber.
+§ 2º Comprovados captação ou gastos ilícitos de recursos, para fins eleitorais, será negado diploma ao candidato, ou cassado, se já houver sido outorgado.
