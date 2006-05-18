@@ -1,0 +1,2 @@
+Altera os arts. 112, 114, 154, 219, 253, 305, 322, 338, 489 e 555 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, relativos à incompetência relativa, meios eletrônicos, prescrição, distribuição por dependência, exceção de incompetência, revelia, carta precatória e rogatória, ação rescisória e vista dos autos; e revoga o art. 194 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
