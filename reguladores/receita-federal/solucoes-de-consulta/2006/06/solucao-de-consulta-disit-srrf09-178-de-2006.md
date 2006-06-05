@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF09 nº 178, de 31 de maio de 2006
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ EMENTA: LUCRO PRESUMIDO. SERVIÇOS DE INFORMÁTICA. As pessoas jurídicas que prestam serviços na área de informática (assessoria e desenvolvimento de sistemas), podem utilizar o percentual de 16% (dezesseis por cento) sobre a receita bruta, na determinação do lucro presumido, desde que obedecidos os demais requisitos estabelecidos na legislação. DISPOSITIVOS LEGAIS: Lei nº 9.430/1996, arts. 1º e 25, I, Lei nº 9.249/1995, art. 15, § 1º, III, “a”, IN SRF nº 93/1997, art. 3º, inciso IV, "a", Lei nº 9.250/1995, art. 40 e Parecer Normativo CST nº 15/1983.
+[arquivo anexo: SC SRRF09-Disit nº 178-2006.pdf]
