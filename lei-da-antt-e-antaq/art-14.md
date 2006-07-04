@@ -9,6 +9,7 @@ b) o transporte rodoviário de passageiros, sob regime de afretamento;
 c) a construção e operação de terminais de uso privativo, conforme disposto na Lei nº 8.630, de 25 de fevereiro de 1993;
 d) (VETADO)
 e) o transporte aquaviário;
+f) o transporte ferroviário não regular de passageiros, não associado à exploração da infra-estrutura.
 IV - depende de permissão:
 a) o transporte rodoviário coletivo regular de passageiros;
 § 1º As outorgas de concessão ou permissão serão sempre precedidas de licitação, conforme prescreve o art. 175 da Constituição Federal.
