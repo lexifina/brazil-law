@@ -68,6 +68,8 @@ Subseção VI
 Do Adicional Noturno
 Subseção VII
 Do Adicional de Férias
+Subseção VIII
+Da Gratificação por Encargo de Curso ou Concurso
 Capítulo III
 Das Férias
 Capítulo IV
