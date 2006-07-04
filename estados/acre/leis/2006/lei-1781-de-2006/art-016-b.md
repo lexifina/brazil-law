@@ -1,0 +1,1 @@
+Art. 16-B. Integrará os vencimentos de todos os servidores efetivos, nos cargos de Técnico de Controle Externo e Agente de Controle Externo, adicional de função de apoio operacional e logístico, equivalente ao valor de R$ 750,00 (setecentos e cinquenta reais)”. (Incluído pela Lei nº 3.926, de 01/04/2022)

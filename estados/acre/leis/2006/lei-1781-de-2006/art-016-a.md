@@ -1,0 +1,3 @@
+Art. 16-A. Integrará os vencimentos dos servidores efetivos, no cargo de auditor de controle externo, a Gratificação de Incentivo à Qualificação e Resultados – GIQR, devido àqueles que realizam funções de auditoria, lotados e em efetivo exercício na Diretoria Financeira e Orçamentária - DAFO, no âmbito do TCE-AC, equivalente ao valor de R$ 1.500,00 (um mil e quinhentos reais); (Incluído pela Lei nº 3.926, de 01/04/2022)
+
+Parágrafo único. Resolução do TCE-AC disporá sobre as condições necessárias à percepção da gratificação de que trata o caput . (Incluído pela Lei nº 4.055, de 15/12/2022, com efeitos a contar de 1º de janeiro de 2023)
