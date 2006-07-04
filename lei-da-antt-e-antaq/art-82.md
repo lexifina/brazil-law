@@ -11,6 +11,10 @@ IX - declarar a utilidade pública de bens e propriedades a serem desapropriados
 X - elaborar o seu orçamento e proceder à execução financeira;
 XI - adquirir e alienar bens, adotando os procedimentos legais adequados para efetuar sua incorporação e desincorporação;
 XII - administrar pessoal, patrimônio, material e serviços gerais.
+XIII - desenvolver estudos sobre transporte ferroviário ou multimodal envolvendo estradas de ferro;
+XIV - projetar, acompanhar e executar, direta ou indiretamente, obras relativas a transporte ferroviário ou multimodal, envolvendo estradas de ferro do Sistema Federal de Viação, excetuadas aquelas relacionadas com os arrendamentos já existentes;
+XV - estabelecer padrões, normas e especificações técnicas para a elaboração de projetos e execução de obras viárias relativas às estradas de ferro do Sistema Federal de Viação;
+XVI - aprovar projetos de engenharia cuja execução modifique a estrutura do Sistema Federal de Viação, observado o disposto no inciso IX do caput deste artigo.
 XVII -
 § 1º As atribuições a que se refere o caput não se aplicam aos elementos da infra-estrutura concedidos ou arrendados pela ANTT e pela ANTAQ.
 § 2º No exercício das atribuições previstas neste artigo e relativas a vias navegáveis e instalações portuárias, o DNIT observará as prerrogativas específicas da Autoridade Marítima.
