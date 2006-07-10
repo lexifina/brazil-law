@@ -1,0 +1,2 @@
+Dispõe sobre o salário mínimo a partir de 1º de maio de 2004, e dá outras providências.
+Faço saber que o Presidente da República adotou a Medida Provisória nº 182, de 2004, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
