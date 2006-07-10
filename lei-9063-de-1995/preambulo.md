@@ -1,0 +1,2 @@
+Dispõe sobre o valor do salário mínimo, altera disposições das Leis nº 8.212 e nº 8.213, ambas de 24 de julho de 1991, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1002, de 1995, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
