@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF08 nº 181, de 30 de junho de 2006
+Assunto: Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - CPMF Ementa: DEBÊNTURES. LIQUIDAÇÃO. TÍTULOS. RENDA FIXA. Para fins de aplicação da legislação da CPMF, a liquidação de debêntures de emissão pública enquadra - se nas disposições legais e normativas atinentes a operações de mercado de renda fixa, tendo em vista que debêntures têm o caráter de valores mobiliários negociados no mercado de capitais de renda fixa. Dispositivos Legais: Lei nº 6.385, de 1976, art.2º; Lei nº 6.404, de 1976, art.52; Lei nº 9.311, de 1996; e Lei nº 10.303, de 2001, arts.1º e 4º.
+[arquivo anexo: SC SRRF08-Disit nº 181-2006.pdf]
