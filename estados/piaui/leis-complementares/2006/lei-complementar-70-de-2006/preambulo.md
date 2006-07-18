@@ -1,0 +1,7 @@
+LEI COMP
+
+PUBLICADO NO D
+
+GOVE
+
+FAÇO Lei Complementar:
