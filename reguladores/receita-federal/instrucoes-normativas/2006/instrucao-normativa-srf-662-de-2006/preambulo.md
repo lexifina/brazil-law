@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 662, de 19 de julho de 2006
+Aprova o Programa Gerador de Documentos do Cadastro Nacional da Pessoa Jurídica (PGD CNPJ - versão 1.3).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no inciso XXII do art. 37 da Constituição Federal, alterado pela Emenda Constitucional nº 42, de 19 de dezembro de 2003, no art. 199 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), e no inciso II do art. 37 da Lei nº 9.250, de 26 de dezembro de 1995, resolve:
