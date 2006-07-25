@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 664, de 21 de julho de 2006
+Aprova o Termo de Opção por Domicílio Tributário Eletrônico e o Termo de Cancelamento de Opção por Domicílio Tributário Eletrônico, para efeito de comunicação de atos oficiais por meio eletrônico no âmbito da Secretaria da Receita Federal.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto nos arts. 2º e 23 do Decreto nº 70.235, de 6 de março de 1972, com a redação do art. 113 da Lei nº 11.196, de 21 de novembro de 2005, e no art. 4º da Portaria SRF nº 259, de 13 de março de 2006, resolve:
