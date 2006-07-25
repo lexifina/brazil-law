@@ -1,0 +1,1 @@
+Art. 2º A formulação, gestão e execução da Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais serão articuladas, em todas as fases de sua formulação e implementação, com a política agrícola, na forma da lei, e com as políticas voltadas para a reforma agrária.
