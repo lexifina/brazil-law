@@ -1,7 +1,7 @@
 Art. 87. É instituída a Década da Educação, a iniciar-se um ano a partir da publicação desta Lei.
 § 1º A União, no prazo de um ano a partir da publicação desta Lei, encaminhará, ao Congresso Nacional, o Plano Nacional de Educação, com diretrizes e metas para os dez anos seguintes, em sintonia com a Declaração Mundial sobre Educação para Todos.
 § 2º O poder público deverá recensear os educandos no ensino fundamental, com especial atenção para o grupo de 6 (seis) a 14 (quatorze) anos de idade e de 15 (quinze) a 16 (dezesseis) anos de idade.
-§ 3º Cada Município e, supletivamente, o Estado e a União, deverá:
+§ 3º O Distrito Federal, cada Estado e Município, e, supletivamente, a União, devem:
 I - matricular todos os educandos a partir dos 6 (seis) anos de idade no ensino fundamental;
 a) (Revogado)
 b) (Revogado)
