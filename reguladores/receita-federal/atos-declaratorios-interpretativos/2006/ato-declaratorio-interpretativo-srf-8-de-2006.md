@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo SRF nº 8, de 2 de agosto de 2006
+Dispõe sobre a aquisição de ações fora de bolsa e sobre as modalidades de endosso para fins de incidência da CPMF.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no processo nº, declara:
+Art. 1º A aquisição de ações em oferta pública, realizada fora da bolsa de valores, prevista no inciso X do art. 8º da Lei nº 9.311, de 24 de outubro de 2006, acrescido pelo art. 4º da Lei nº 11.312, de 27 de junho de 2006, é modalidade de aplicação financeira não integrada à conta corrente de depósito para investimento de que trata a Lei nº 10.892, de 13 de julho de 2004.
+Art. 2º O endosso-recibo, o endosso-mandato e os demais tipos de endosso que não impliquem transferência efetiva da propriedade do título não devem ser considerados para fins de aplicação do disposto no inciso I do art. 17 da Lei nº 9.311, de 1996.
