@@ -1,0 +1,12 @@
+ANEXO I
+PEDIDO DE RETIFICAÇÃO DE DARF / DARF SIMPLES - REDARF
+Anexo I
+[arquivo anexo: Anexo I.pdf]
+ANEXO II
+DECLARAÇÃO DE INEXISTÊNCIA DE INVENTÁRIO OU ARROLAMENTO
+Anexo II
+[arquivo anexo: Anexo II.pdf]
+ANEXO III
+DECLARAÇÃO DE UNIÃO ESTÁVEL
+Anexo III
+[arquivo anexo: Anexo III.pdf]
