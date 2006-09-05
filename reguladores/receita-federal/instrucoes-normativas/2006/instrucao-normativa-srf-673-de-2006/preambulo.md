@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 673, de 1º de setembro de 2006
+Dispõe sobre a Declaração sobre a Opção de Tributação de Planos Previdenciários (DPREV), versão 1.0, aprova o programa aplicativo para seu preenchimento e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições que lhe conferem os incisos III e XVIII do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 57 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, e no § 5º do art. 1º da Lei nº 11.053, de 29 de dezembro de 2004, resolve:
