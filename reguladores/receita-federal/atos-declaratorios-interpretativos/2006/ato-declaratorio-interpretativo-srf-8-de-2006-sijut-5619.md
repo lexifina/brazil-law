@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo SRF nº 8, de 2 de agosto de 2006
+Retificação
+No Ato Declaratório Interpretativo SRF nº 8, de 2 de agosto de 2006, publicado no DOU nº 148, de 3 de agosto de 2006, Seção 1, pág. 15.
+Onde se lê: "O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no inciso I do art. 17 da Lei nº 9.311, de 24 de outubro de 1996, no art. 4º da Lei nº 11.312, de 27 de junho de 2006 e no processo nº , declara:"
+Leia-se: "O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no inciso I do art. 17 da Lei nº 9.311, de 24 de outubro de 1996, no art. 4º da Lei nº 11.312, de 27 de junho de 2006 e no processo nº 10168.002235/2006-81, declara:"
