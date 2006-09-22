@@ -1,0 +1,2 @@
+Art. 37. A defesa dos interesses e direitos transindividuais previstos nesta Lei poderá ser exercida, concorrentemente, pelo Ministério Público e por associação de atuação na área, regularmente constituída há pelo menos um ano, nos termos da legislação civil.
+Parágrafo único. O requisito da pré-constituição poderá ser dispensado pelo juiz quando entender que não há outra entidade com representatividade adequada para o ajuizamento da demanda coletiva.
