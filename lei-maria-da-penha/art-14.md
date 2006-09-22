@@ -1,0 +1,2 @@
+Art. 14. Os Juizados de Violência Doméstica e Familiar contra a Mulher, órgãos da Justiça Ordinária com competência cível e criminal, poderão ser criados pela União, no Distrito Federal e nos Territórios, e pelos Estados, para o processo, o julgamento e a execução das causas decorrentes da prática de violência doméstica e familiar contra a mulher.
+Parágrafo único. Os atos processuais poderão realizar-se em horário noturno, conforme dispuserem as normas de organização judiciária.
