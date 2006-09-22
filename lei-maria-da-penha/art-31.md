@@ -1,0 +1,1 @@
+Art. 31. Quando a complexidade do caso exigir avaliação mais aprofundada, o juiz poderá determinar a manifestação de profissional especializado, mediante a indicação da equipe de atendimento multidisciplinar.
