@@ -1,0 +1,4 @@
+Art. 19. As medidas protetivas de urgência poderão ser concedidas pelo juiz, a requerimento do Ministério Público ou a pedido da ofendida.
+§ 1º As medidas protetivas de urgência poderão ser concedidas de imediato, independentemente de audiência das partes e de manifestação do Ministério Público, devendo este ser prontamente comunicado.
+§ 2º As medidas protetivas de urgência serão aplicadas isolada ou cumulativamente, e poderão ser substituídas a qualquer tempo por outras de maior eficácia, sempre que os direitos reconhecidos nesta Lei forem ameaçados ou violados.
+§ 3º Poderá o juiz, a requerimento do Ministério Público ou a pedido da ofendida, conceder novas medidas protetivas de urgência ou rever aquelas já concedidas, se entender necessário à proteção da ofendida, de seus familiares e de seu patrimônio, ouvido o Ministério Público.

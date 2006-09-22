@@ -1,0 +1,3 @@
+Art. 3º Serão asseguradas às mulheres as condições para o exercício efetivo dos direitos à vida, à segurança, à saúde, à alimentação, à educação, à cultura, à moradia, ao acesso à justiça, ao esporte, ao lazer, ao trabalho, à cidadania, à liberdade, à dignidade, ao respeito e à convivência familiar e comunitária.
+§ 1º O poder público desenvolverá políticas que visem garantir os direitos humanos das mulheres no âmbito das relações domésticas e familiares no sentido de resguardá-las de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão.
+§ 2º Cabe à família, à sociedade e ao poder público criar as condições necessárias para o efetivo exercício dos direitos enunciados no caput.

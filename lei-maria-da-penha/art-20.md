@@ -1,0 +1,2 @@
+Art. 20. Em qualquer fase do inquérito policial ou da instrução criminal, caberá a prisão preventiva do agressor, decretada pelo juiz, de ofício, a requerimento do Ministério Público ou mediante representação da autoridade policial.
+Parágrafo único. O juiz poderá revogar a prisão preventiva se, no curso do processo, verificar a falta de motivo para que subsista, bem como de novo decretá-la, se sobrevierem razões que a justifiquem.
