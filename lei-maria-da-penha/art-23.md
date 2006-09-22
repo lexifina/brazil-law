@@ -1,0 +1,5 @@
+Art. 23. Poderá o juiz, quando necessário, sem prejuízo de outras medidas:
+I - encaminhar a ofendida e seus dependentes a programa oficial ou comunitário de proteção ou de atendimento;
+II - determinar a recondução da ofendida e a de seus dependentes ao respectivo domicílio, após afastamento do agressor;
+III - determinar o afastamento da ofendida do lar, sem prejuízo dos direitos relativos a bens, guarda dos filhos e alimentos;
+IV - determinar a separação de corpos.
