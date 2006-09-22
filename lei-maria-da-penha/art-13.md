@@ -1,0 +1,1 @@
+Art. 13. Ao processo, ao julgamento e à execução das causas cíveis e criminais decorrentes da prática de violência doméstica e familiar contra a mulher aplicar-se-ão as normas dos Códigos de Processo Penal e Processo Civil e da legislação específica relativa à criança, ao adolescente e ao idoso que não conflitarem com o estabelecido nesta Lei.

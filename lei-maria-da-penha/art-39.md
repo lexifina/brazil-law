@@ -1,0 +1,1 @@
+Art. 39. A União, os Estados, o Distrito Federal e os Municípios, no limite de suas competências e nos termos das respectivas leis de diretrizes orçamentárias, poderão estabelecer dotações orçamentárias específicas, em cada exercício financeiro, para a implementação das medidas estabelecidas nesta Lei.
