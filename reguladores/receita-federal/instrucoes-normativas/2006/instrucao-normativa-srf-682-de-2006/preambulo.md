@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 682, de 4 de outubro de 2006
+Dispõe sobre a auditoria de sistemas informatizados de controle aduaneiro, estabelecidos para os recintos alfandegados e para os beneficiários de regimes aduaneiros especiais.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, combinado com o disposto no art. 8º da Portaria MF nº 275, de 15 de agosto de 2005, e no art. 1º da Portaria MF nº 271, de 12 de agosto de 2005, e tendo em vista o disposto nos §§ 1º e 2º do art. 722 do Decreto nº 4.543, de 26 de dezembro de 2002 (Regulamento Aduaneiro), resolve:
