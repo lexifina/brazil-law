@@ -1,0 +1,1 @@
+Art. 25. As instituições da sociedade civil, sem fins lucrativos, com atuação nas áreas da atenção à saúde e da assistência social, que atendam usuários ou dependentes de drogas poderão receber recursos do Funad, condicionados à sua disponibilidade orçamentária e financeira.

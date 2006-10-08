@@ -1,0 +1,5 @@
+DA COOPERAÇÃO INTERNACIONAL
+Art. 65. De conformidade com os princípios da não-intervenção em assuntos internos, da igualdade jurídica e do respeito à integridade territorial dos Estados e às leis e aos regulamentos nacionais em vigor, e observado o espírito das Convenções das Nações Unidas e outros instrumentos jurídicos internacionais relacionados à questão das drogas, de que o Brasil é parte, o governo brasileiro prestará, quando solicitado, cooperação a outros países e organismos internacionais e, quando necessário, deles solicitará a colaboração, nas áreas de:
+I - intercâmbio de informações sobre legislações, experiências, projetos e programas voltados para atividades de prevenção do uso indevido, de atenção e de reinserção social de usuários e dependentes de drogas;
+II - intercâmbio de inteligência policial sobre produção e tráfico de drogas e delitos conexos, em especial o tráfico de armas, a lavagem de dinheiro e o desvio de precursores químicos;
+III - intercâmbio de informações policiais e judiciais sobre produtores e traficantes de drogas e seus precursores químicos.

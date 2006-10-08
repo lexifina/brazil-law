@@ -1,0 +1,1 @@
+Art. 46. As penas podem ser reduzidas de um terço a dois terços se, por força das circunstâncias previstas no art. 45 desta Lei, o agente não possuía, ao tempo da ação ou da omissão, a plena capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.

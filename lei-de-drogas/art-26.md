@@ -1,0 +1,1 @@
+Art. 26. O usuário e o dependente de drogas que, em razão da prática de infração penal, estiverem cumprindo pena privativa de liberdade ou submetidos a medida de segurança, têm garantidos os serviços de atenção à sua saúde, definidos pelo respectivo sistema penitenciário.

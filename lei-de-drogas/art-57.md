@@ -1,0 +1,2 @@
+Art. 57. Na audiência de instrução e julgamento, após o interrogatório do acusado e a inquirição das testemunhas, será dada a palavra, sucessivamente, ao representante do Ministério Público e ao defensor do acusado, para sustentação oral, pelo prazo de 20 (vinte) minutos para cada um, prorrogável por mais 10 (dez), a critério do juiz.
+Parágrafo único. Após proceder ao interrogatório, o juiz indagará das partes se restou algum fato para ser esclarecido, formulando as perguntas correspondentes se o entender pertinente e relevante.

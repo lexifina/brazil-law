@@ -1,0 +1,1 @@
+Art. 20. Constituem atividades de atenção ao usuário e dependente de drogas e respectivos familiares, para efeito desta Lei, aquelas que visem à melhoria da qualidade de vida e à redução dos riscos e dos danos associados ao uso de drogas.

@@ -1,0 +1,1 @@
+Art. 7º A organização do Sisnad assegura a orientação central e a execução descentralizada das atividades realizadas em seu âmbito, nas esferas federal, distrital, estadual e municipal e se constitui matéria definida no regulamento desta Lei.

@@ -1,0 +1,1 @@
+Art. 47. Na sentença condenatória, o juiz, com base em avaliação que ateste a necessidade de encaminhamento do agente para tratamento, realizada por profissional de saúde com competência específica na forma da lei, determinará que a tal se proceda, observado o disposto no art. 26 desta Lei.

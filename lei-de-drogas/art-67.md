@@ -1,0 +1,1 @@
+Art. 67. A liberação dos recursos previstos na Lei nº 7.560, de 19 de dezembro de 1986, em favor de Estados e do Distrito Federal, dependerá de sua adesão e respeito às diretrizes básicas contidas nos convênios firmados e do fornecimento de dados necessários à atualização do sistema previsto no art. 17 desta Lei, pelas respectivas polícias judiciárias.
