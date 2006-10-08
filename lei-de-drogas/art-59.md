@@ -1,0 +1,1 @@
+Art. 59. Nos crimes previstos nos arts. 33, caput e § 1º, e 34 a 37 desta Lei, o réu não poderá apelar sem recolher-se à prisão, salvo se for primário e de bons antecedentes, assim reconhecido na sentença condenatória.

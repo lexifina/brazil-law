@@ -1,0 +1,2 @@
+Art. 44. Os crimes previstos nos arts. 33, caput e § 1º, e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos.
+Parágrafo único. Nos crimes previstos no caput deste artigo, dar-se-á o livramento condicional após o cumprimento de dois terços da pena, vedada sua concessão ao reincidente específico.
