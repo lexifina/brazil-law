@@ -1,0 +1,1 @@
+Art. 68. A União, os Estados, o Distrito Federal e os Municípios poderão criar estímulos fiscais e outros, destinados às pessoas físicas e jurídicas que colaborem na prevenção do uso indevido de drogas, atenção e reinserção social de usuários e dependentes e na repressão da produção não autorizada e do tráfico ilícito de drogas.

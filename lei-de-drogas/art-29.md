@@ -1,0 +1,2 @@
+Art. 29. Na imposição da medida educativa a que se refere o inciso II do § 6º do art. 28, o juiz, atendendo à reprovabilidade da conduta, fixará o número de dias-multa, em quantidade nunca inferior a 40 (quarenta) nem superior a 100 (cem), atribuindo depois a cada um, segundo a capacidade econômica do agente, o valor de um trinta avos até 3 (três) vezes o valor do maior salário mínimo.
+Parágrafo único. Os valores decorrentes da imposição da multa a que se refere o § 6º do art. 28 serão creditados à conta do Fundo Nacional Antidrogas.

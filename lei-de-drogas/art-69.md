@@ -1,0 +1,7 @@
+Art. 69. No caso de falência ou liquidação extrajudicial de empresas ou estabelecimentos hospitalares, de pesquisa, de ensino, ou congêneres, assim como nos serviços de saúde que produzirem, venderem, adquirirem, consumirem, prescreverem ou fornecerem drogas ou de qualquer outro em que existam essas substâncias ou produtos, incumbe ao juízo perante o qual tramite o feito:
+I - determinar, imediatamente à ciência da falência ou liquidação, sejam lacradas suas instalações;
+II - ordenar à autoridade sanitária competente a urgente adoção das medidas necessárias ao recebimento e guarda, em depósito, das drogas arrecadadas;
+III - dar ciência ao órgão do Ministério Público, para acompanhar o feito.
+§ 1º Da licitação para alienação de substâncias ou produtos não proscritos referidos no inciso II do caput deste artigo, só podem participar pessoas jurídicas regularmente habilitadas na área de saúde ou de pesquisa científica que comprovem a destinação lícita a ser dada ao produto a ser arrematado.
+§ 2º Ressalvada a hipótese de que trata o § 3º deste artigo, o produto não arrematado será, ato contínuo à hasta pública, destruído pela autoridade sanitária, na presença dos Conselhos Estaduais sobre Drogas e do Ministério Público.
+§ 3º Figurando entre o praceado e não arrematadas especialidades farmacêuticas em condições de emprego terapêutico, ficarão elas depositadas sob a guarda do Ministério da Saúde, que as destinará à rede pública de saúde.

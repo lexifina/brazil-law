@@ -1,0 +1,1 @@
+Art. 66. Para fins do disposto no parágrafo único do art. 1º desta Lei, até que seja atualizada a terminologia da lista mencionada no preceito, denominam-se drogas substâncias entorpecentes, psicotrópicas, precursoras e outras sob controle especial, da Portaria SVS/MS nº 344, de 12 de maio de 1998.
