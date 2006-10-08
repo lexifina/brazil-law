@@ -1,0 +1,1 @@
+Art. 16. As instituições com atuação nas áreas da atenção à saúde e da assistência social que atendam usuários ou dependentes de drogas devem comunicar ao órgão competente do respectivo sistema municipal de saúde os casos atendidos e os óbitos ocorridos, preservando a identidade das pessoas, conforme orientações emanadas da União.

@@ -1,0 +1,2 @@
+Art. 34. Fabricar, adquirir, utilizar, transportar, oferecer, vender, distribuir, entregar a qualquer título, possuir, guardar ou fornecer, ainda que gratuitamente, maquinário, aparelho, instrumento ou qualquer objeto destinado à fabricação, preparação, produção ou transformação de drogas, sem autorização ou em desacordo com determinação legal ou regulamentar:
+Pena - reclusão, de 3 (três) a 10 (dez) anos, e pagamento de 1.200 (mil e duzentos) a 2.000 (dois mil) dias-multa.

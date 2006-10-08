@@ -1,0 +1,1 @@
+Art. 23. As redes dos serviços de saúde da União, dos Estados, do Distrito Federal, dos Municípios desenvolverão programas de atenção ao usuário e ao dependente de drogas, respeitadas as diretrizes do Ministério da Saúde e os princípios explicitados no art. 22 desta Lei, obrigatória a previsão orçamentária adequada.
