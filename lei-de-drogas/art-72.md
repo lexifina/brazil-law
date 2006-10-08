@@ -1,0 +1,1 @@
+Art. 72. Sempre que conveniente ou necessário, o juiz, de ofício, mediante representação da autoridade de polícia judiciária, ou a requerimento do Ministério Público, determinará que se proceda, nos limites de sua jurisdição e na forma prevista no § 1º do art. 32 desta Lei, à destruição de drogas em processos já encerrados.

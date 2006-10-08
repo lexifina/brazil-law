@@ -1,0 +1,1 @@
+Art. 21. Constituem atividades de reinserção social do usuário ou do dependente de drogas e respectivos familiares, para efeito desta Lei, aquelas direcionadas para sua integração ou reintegração em redes sociais.
