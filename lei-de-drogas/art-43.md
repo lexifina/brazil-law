@@ -1,0 +1,2 @@
+Art. 43. Na fixação da multa a que se referem os arts. 33 a 39 desta Lei, o juiz, atendendo ao que dispõe o art. 42 desta Lei, determinará o número de dias-multa, atribuindo a cada um, segundo as condições econômicas dos acusados, valor não inferior a um trinta avos nem superior a 5 (cinco) vezes o maior salário-mínimo.
+Parágrafo único. As multas, que em caso de concurso de crimes serão impostas sempre cumulativamente, podem ser aumentadas até o décuplo se, em virtude da situação econômica do acusado, considerá-las o juiz ineficazes, ainda que aplicadas no máximo.

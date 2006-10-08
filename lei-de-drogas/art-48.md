@@ -1,0 +1,7 @@
+DO PROCEDIMENTO PENAL
+Art. 48. O procedimento relativo aos processos por crimes definidos neste Título rege-se pelo disposto neste Capítulo, aplicando-se, subsidiariamente, as disposições do Código de Processo Penal e da Lei de Execução Penal.
+§ 1º O agente de qualquer das condutas previstas no art. 28 desta Lei, salvo se houver concurso com os crimes previstos nos arts. 33 a 37 desta Lei, será processado e julgado na forma dos arts. 60 e seguintes da Lei nº 9.099, de 26 de setembro de 1995, que dispõe sobre os Juizados Especiais Criminais.
+§ 2º Tratando-se da conduta prevista no art. 28 desta Lei, não se imporá prisão em flagrante, devendo o autor do fato ser imediatamente encaminhado ao juízo competente ou, na falta deste, assumir o compromisso de a ele comparecer, lavrando-se termo circunstanciado e providenciando-se as requisições dos exames e perícias necessários.
+§ 3º Se ausente a autoridade judicial, as providências previstas no § 2º deste artigo serão tomadas de imediato pela autoridade policial, no local em que se encontrar, vedada a detenção do agente.
+§ 4º Concluídos os procedimentos de que trata o § 2º deste artigo, o agente será submetido a exame de corpo de delito, se o requerer ou se a autoridade de polícia judiciária entender conveniente, e em seguida liberado.
+§ 5º Para os fins do disposto no art. 76 da Lei nº 9.099, de 1995, que dispõe sobre os Juizados Especiais Criminais, o Ministério Público poderá propor a aplicação imediata de pena prevista no art. 28 desta Lei, a ser especificada na proposta.
