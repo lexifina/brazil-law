@@ -1,0 +1,1 @@
+Art. 49. Tratando-se de condutas tipificadas nos arts. 33, caput e § 1º, e 34 a 37 desta Lei, o juiz, sempre que as circunstâncias o recomendem, empregará os instrumentos protetivos de colaboradores e testemunhas previstos na Lei nº 9.807, de 13 de julho de 1999.

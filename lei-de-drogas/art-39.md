@@ -1,0 +1,3 @@
+Art. 39. Conduzir embarcação ou aeronave após o consumo de drogas, expondo a dano potencial a incolumidade de outrem:
+Pena - detenção, de 6 (seis) meses a 3 (três) anos, além da apreensão do veículo, cassação da habilitação respectiva ou proibição de obtê-la, pelo mesmo prazo da pena privativa de liberdade aplicada, e pagamento de 200 (duzentos) a 400 (quatrocentos) dias-multa.
+Parágrafo único. As penas de prisão e multa, aplicadas cumulativamente com as demais, serão de 4 (quatro) a 6 (seis) anos e de 400 (quatrocentos) a 600 (seiscentos) dias-multa, se o veículo referido no caput deste artigo for de transporte coletivo de passageiros.
