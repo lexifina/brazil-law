@@ -1,0 +1,4 @@
+Art. 53. Em qualquer fase da persecução criminal relativa aos crimes previstos nesta Lei, são permitidos, além dos previstos em lei, mediante autorização judicial e ouvido o Ministério Público, os seguintes procedimentos investigatórios:
+I - a infiltração por agentes de polícia, em tarefas de investigação, constituída pelos órgãos especializados pertinentes;
+II - a não-atuação policial sobre os portadores de drogas, seus precursores químicos ou outros produtos utilizados em sua produção, que se encontrem no território brasileiro, com a finalidade de identificar e responsabilizar maior número de integrantes de operações de tráfico e distribuição, sem prejuízo da ação penal cabível.
+Parágrafo único. Na hipótese do inciso II deste artigo, a autorização será concedida desde que sejam conhecidos o itinerário provável e a identificação dos agentes do delito ou de colaboradores.

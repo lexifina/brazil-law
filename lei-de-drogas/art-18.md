@@ -1,0 +1,1 @@
+Art. 18. Constituem atividades de prevenção do uso indevido de drogas, para efeito desta Lei, aquelas direcionadas para a redução dos fatores de vulnerabilidade e risco e para a promoção e o fortalecimento dos fatores de proteção.
