@@ -52,6 +52,8 @@ Subseção II
 Das Diárias
 Subseção III
 Da Indenização de Transporte
+Subseção IV
+Do Auxílio-Moradia
 Seção II
 Das Gratificações e Adicionais
 Subseção I
