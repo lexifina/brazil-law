@@ -1,0 +1,1 @@
+Art. 60-D. O valor do auxílio-moradia é limitado a vinte e cinco por cento do valor do cargo em comissão ocupado pelo servidor e, em qualquer hipótese, não poderá ser superior ao auxílio-moradia recebido por Ministro de Estado.
