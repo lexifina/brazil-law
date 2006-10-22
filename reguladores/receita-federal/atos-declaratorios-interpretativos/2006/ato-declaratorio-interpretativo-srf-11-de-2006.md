@@ -1,0 +1,4 @@
+Ato Declaratório Interpretativo SRF nº 11, de 19 de outubro de 2006
+Dispõe sobre a isenção do imposto de renda incidente sobre os proventos de aposentadoria, reforma ou pensão dos portadores de fibrose cística.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no inciso XIV do art. 6º, da Lei nº 7.713, de 22 de dezembro de 1988, com a redação dada pela Lei nº 11.052, de 29 de dezembro de 2004, c/c o § 2º do art. 30 da Lei nº 9.250, de 26 de dezembro de 1995, e o que consta no processo nº 10168.003488/2006-71, declara:
+Artigo único. São isentos do imposto de renda os proventos de aposentadoria, reforma ou pensão dos portadores de fibrose cística (mucoviscidose), desde que observada a legislação pertinente à matéria.
