@@ -1,0 +1,3 @@
+Instrução Normativa Conjunta SRF / SRP nº 686, de 20 de outubro de 2006
+Altera a Instrução Normativa Conjunta SRP/SRF nº 629, de 10 de março de 2006.
+O SECRETÁRIO DA RECEITA FEDERAL e o SECRETÁRIO DA RECEITA PREVIDENCIÁRIA INTERINO, no uso de suas atribuições conferidas pelo inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal (SRF), aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e pelo inciso IV do art. 85 do Regimento Interno da Secretaria da Receita Previdenciária (SRP), aprovado pela Portaria MPS nº 1.344, de 18 de julho de 2005, e tendo em vista o Princípio da Economicidade inserido no dever de eficiência previsto no caput do art. 37 da Constituição Federal, resolve:
