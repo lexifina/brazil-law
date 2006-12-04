@@ -1,0 +1,2 @@
+Dá nova redação ao art. 4º da Lei nº 6.932, de 7 de julho de 1981, altera as tabelas de vencimento básico dos professores do ensino de 3º grau e dos professores de 1º e 2º graus, integrantes dos quadros de pessoal das instituições federais de ensino, e altera dispositivos da Lei nº 10.187, de 12 de fevereiro de 2001.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
