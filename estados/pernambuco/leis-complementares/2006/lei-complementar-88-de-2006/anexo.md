@@ -1,0 +1,89 @@
+ANEXO I
+
+CARGO
+
+QUANTITATIVO
+
+Desembargador
+
+02
+
+ANEXO II
+
+CARGOS DE PROVIMENTO EM COMISSÃO
+
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANTITATIVO
+
+Assessor Técnico Judiciário
+
+PJC-II
+
+04
+
+Secretário de Desembargador
+
+PJC-IV
+
+02
+
+Agente de Transporte e Segurança
+
+PJC-VI
+
+02
+
+ANEXO III
+
+CARGOS DE PROVIMENTO EFETIVO
+
+GRUPO JUDICIÁRIO
+
+DENOMINAÇÃO
+
+REFERÊNCIA
+
+QUANTITATIVO
+
+Analista Judiciário
+
+PJ-IV
+
+02
+
+Técnico Judiciário
+
+PJ-III
+
+04
+
+ANEXO IV
+
+FUNÇÕES GRATIFICADAS DE REPRESENTAÇÃO DE GABINETE
+
+DENOMINAÇÃO
+
+SIGLA
+
+QUANTITATIVO
+
+Auxiliar de Gabinete
+
+RG-3
+
+02
+
+Assistente de Gabinete
+
+RG-4
+
+04
+
+Motorista
+
+RG-3
+
+02
