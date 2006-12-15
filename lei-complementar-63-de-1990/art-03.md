@@ -1,7 +1,9 @@
 Art. 3º 25% (vinte e cinco por cento) do produto da arrecadação do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação serão creditados, pelos Estados, aos respectivos Municípios, conforme os seguintes critérios:
 I - 3/4 (três quartos), no mínimo, na proporção do valor adicionado nas operações relativas à circulação de mercadorias e nas prestações de serviços, realizadas em seus territórios;
 II - até 1/4 (um quarto), de acordo com o que dispuser lei estadual ou, no caso dos territórios, lei federal.
-§ 1º O valor adicionado corresponderá, para cada Município, ao valor das mercadorias saídas acrescido do valor das prestações de serviços, no seu território, deduzido o valor das mercadorias entradas, em cada ano civil.
+§ 1º O valor adicionado corresponderá, para cada Município:
+I - ao valor das mercadorias saídas, acrescido do valor das prestações de serviços, no seu território, deduzido o valor das mercadorias entradas, em cada ano civil;
+II - nas hipóteses de tributação simplificada a que se refere o parágrafo único do art. 146 da Constituição Federal, e, em outras situações, em que se dispensem os controles de entrada, considerar-se-á como valor adicionado o percentual de 32% (trinta e dois por cento) da receita bruta.
 § 2º Para efeito de cálculo do valor adicionado serão computadas:
 I - as operações e prestações que constituam fato gerador do imposto, mesmo quando o pagamento for antecipado ou diferido, ou quando o crédito tributário for diferido, reduzido ou excluído em virtude de isenção ou outros benefícios, incentivos ou favores fiscais;
 II - as operações imunes do imposto, conforme as alíneas a e b do inciso X do § 2º do art. 155, e a alínea d do inciso VI do art. 150, da Constituição Federal.
