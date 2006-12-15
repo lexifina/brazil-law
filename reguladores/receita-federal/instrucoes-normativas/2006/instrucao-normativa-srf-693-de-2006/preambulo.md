@@ -1,0 +1,4 @@
+Instrução Normativa SRF nº 693, de 7 de dezembro de 2006
+Revoga a Instrução Normativa SRF/SUSEP nº 1, de 8 de janeiro de 1990.
+O SECRETÁRIO DA RECEITA FEDERAL e o SUPERINTENDENTE DE SEGUROS PRIVADOS, no uso de suas atribuições e tendo em vista a instituição da Guia de Recolhimento da União (GRU) pela Secretaria do Tesouro Nacional (STN), por meio da Instrução Normativa STN nº 3, de 12 de fevereiro de 2004, com base no disposto no art. 98 da Lei nº 10.707, de 30 de julho de 2003, e no Decreto nº 4.950, de 9 de janeiro de 2004, e:
+Considerando que a receita com código 1009 - Taxa de Fiscalização dos Mercados de Seguros, de Capitalização e da Previdência Privada - deixou de ser arrecadada por meio de Documento de Arrecadação de Receitas Federais (Darf) e passou a ser arrecadada por meio de GRU, resolvem:
