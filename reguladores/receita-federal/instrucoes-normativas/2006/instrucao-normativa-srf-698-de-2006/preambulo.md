@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 698, de 20 de dezembro de 2006
+Estabelece normas para emissão de comprovantes de rendimentos pagos ou creditados a pessoas físicas e jurídicas decorrentes de aplicações financeiras, aprova modelo de Informe de Rendimentos Financeiros e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista as disposições do art. 86 da Lei nº 8.981, de 20 de janeiro de 1995, do art. 30 da Lei nº 9.249, de 26 de dezembro de 1995, e do art. 943 do Decreto nº 3.000, de 26 de março de 1999, resolve:
