@@ -1,0 +1,1 @@
+Art. 19. O corte eventual de vegetação primária ou secundária nos estágios médio e avançado de regeneração do Bioma Mata Atlântica, para fins de práticas preservacionistas e de pesquisa científica, será devidamente regulamentado pelo Conselho Nacional do Meio Ambiente e autorizado pelo órgão competente do Sisnama.

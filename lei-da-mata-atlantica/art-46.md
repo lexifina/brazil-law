@@ -1,0 +1,1 @@
+Art. 46. Os órgãos competentes adotarão as providências necessárias para o rigoroso e fiel cumprimento desta Lei, e estimularão estudos técnicos e científicos visando à conservação e ao manejo racional do Bioma Mata Atlântica e de sua biodiversidade.
