@@ -9,11 +9,12 @@ II - área tributável, a área total do imóvel, menos as áreas:
 a) de preservação permanente e de reserva legal, previstas na Lei nº 4.771, de 15 de setembro de 1965, com a redação dada pela Lei nº 7.803, de 18 de julho de 1989;
 b) de interesse ecológico para a proteção dos ecossistemas, assim declaradas mediante ato do órgão competente, federal ou estadual, e que ampliem as restrições de uso previstas na alínea anterior;
 c) comprovadamente imprestáveis para qualquer exploração agrícola, pecuária, granjeira, aqüícola ou florestal, declaradas de interesse ecológico mediante ato do órgão competente, federal ou estadual;
-d) as áreas sob regime de servidão florestal.
+d) sob regime de servidão florestal ou ambiental;
+e) cobertas por florestas nativas, primárias ou secundárias em estágio médio ou avançado de regeneração;
 III - VTNt, o valor da terra nua tributável, obtido pela multiplicação do VTN pelo quociente entre a área tributável e a área total;
 IV - área aproveitável, a que for passível de exploração agrícola, pecuária, granjeira, aqüícola ou florestal, excluídas as áreas:
 a) ocupadas por benfeitorias úteis e necessárias;
-b) de que tratam as alíneas "a", "b" e "c" do inciso II;
+b) de que tratam as alíneas do inciso II deste parágrafo;
 V - área efetivamente utilizada, a porção do imóvel que no ano anterior tenha:
 a) sido plantada com produtos vegetais;
 b) servido de pastagem, nativa ou plantada, observados índices de lotação por zona de pecuária;
