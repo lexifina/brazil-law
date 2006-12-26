@@ -1,0 +1,1 @@
+Art. 42. A ação ou omissão das pessoas físicas ou jurídicas que importem inobservância aos preceitos desta Lei e a seus regulamentos ou resultem em dano à flora, à fauna e aos demais atributos naturais sujeitam os infratores às sanções previstas em lei, em especial as dispostas na Lei nº 9.605, de 12 de fevereiro de 1998, e seus decretos regulamentadores.

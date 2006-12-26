@@ -1,0 +1,3 @@
+Art. 34. As infrações dos dispositivos que regem os benefícios econômicos ambientais, sem prejuízo das sanções penais e administrativas cabíveis, sujeitarão os responsáveis a multa civil de 3 (três) vezes o valor atualizado recebido, ou do imposto devido em relação a cada exercício financeiro, além das penalidades e demais acréscimos previstos na legislação fiscal.
+§ 1º Para os efeitos deste artigo, considera-se solidariamente responsável por inadimplência ou irregularidade a pessoa física ou jurídica doadora ou propositora de projeto ou proposta de benefício.
+§ 2º A existência de pendências ou irregularidades na execução de projetos de proponentes no órgão competente do Sisnama suspenderá a análise ou concessão de novos incentivos, até a efetiva regularização.

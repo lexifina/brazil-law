@@ -1,0 +1,2 @@
+Art. 24. O corte e a supressão da vegetação em estágio médio de regeneração, de que trata o inciso I do art. 23 desta Lei, nos casos de utilidade pública ou interesse social, obedecerão ao disposto no art. 14 desta Lei.
+Parágrafo único. Na hipótese do inciso III do art. 23 desta Lei, a autorização é de competência do órgão estadual competente, informando-se ao Ibama, na forma da regulamentação desta Lei.

@@ -1,0 +1,1 @@
+Art. 15. Na hipótese de obra ou atividade potencialmente causadora de significativa degradação do meio ambiente, o órgão competente exigirá a elaboração de Estudo Prévio de Impacto Ambiental, ao qual se dará publicidade, assegurada a participação pública.

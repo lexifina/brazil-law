@@ -1,0 +1,1 @@
+Art. 12. Os novos empreendimentos que impliquem o corte ou a supressão de vegetação do Bioma Mata Atlântica deverão ser implantados preferencialmente em áreas já substancialmente alteradas ou degradadas.

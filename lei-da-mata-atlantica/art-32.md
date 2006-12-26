@@ -1,0 +1,3 @@
+Art. 32. A supressão de vegetação secundária em estágio avançado e médio de regeneração para fins de atividades minerárias somente será admitida mediante:
+I - licenciamento ambiental, condicionado à apresentação de Estudo Prévio de Impacto Ambiental/Relatório de Impacto Ambiental - EIA/RIMA, pelo empreendedor, e desde que demonstrada a inexistência de alternativa técnica e locacional ao empreendimento proposto;
+II - adoção de medida compensatória que inclua a recuperação de área equivalente à área do empreendimento, com as mesmas características ecológicas, na mesma bacia hidrográfica e sempre que possível na mesma microbacia hidrográfica, independentemente do disposto no art. 36 da Lei nº 9.985, de 18 de julho de 2000.

@@ -1,0 +1,1 @@
+Art. 1º A conservação, a proteção, a regeneração e a utilização do Bioma Mata Atlântica, patrimônio nacional, observarão o que estabelece esta Lei, bem como a legislação ambiental vigente, em especial a Lei nº 4.771, de 15 de setembro de 1965.

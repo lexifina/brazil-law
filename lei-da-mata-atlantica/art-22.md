@@ -1,0 +1,1 @@
+Art. 22. O corte e a supressão previstos no inciso I do art. 21 desta Lei no caso de utilidade pública serão realizados na forma do art. 14 desta Lei, além da realização de Estudo Prévio de Impacto Ambiental, bem como na forma do art. 19 desta Lei para os casos de práticas preservacionistas e pesquisas científicas.

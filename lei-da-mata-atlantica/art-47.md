@@ -1,0 +1,1 @@
+Art. 47. Para os efeitos do inciso I do caput do art. 3º desta Lei, somente serão consideradas as propriedades rurais com área de até 50 (cinqüenta) hectares, registradas em cartório até a data de início de vigência desta Lei, ressalvados os casos de fracionamento por transmissão causa mortis.

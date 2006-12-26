@@ -1,0 +1,2 @@
+Art. 9º A exploração eventual, sem propósito comercial direto ou indireto, de espécies da flora nativa, para consumo nas propriedades ou posses das populações tradicionais ou de pequenos produtores rurais, independe de autorização dos órgãos competentes, conforme regulamento.
+Parágrafo único. Os órgãos competentes, sem prejuízo do disposto no caput deste artigo, deverão assistir as populações tradicionais e os pequenos produtores no manejo e exploração sustentáveis das espécies da flora nativa.
