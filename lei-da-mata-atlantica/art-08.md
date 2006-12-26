@@ -1,0 +1,1 @@
+Art. 8º O corte, a supressão e a exploração da vegetação do Bioma Mata Atlântica far-se-ão de maneira diferenciada, conforme se trate de vegetação primária ou secundária, nesta última levando-se em conta o estágio de regeneração.

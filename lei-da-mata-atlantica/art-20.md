@@ -1,0 +1,2 @@
+Art. 20. O corte e a supressão da vegetação primária do Bioma Mata Atlântica somente serão autorizados em caráter excepcional, quando necessários à realização de obras, projetos ou atividades de utilidade pública, pesquisas científicas e práticas preservacionistas.
+Parágrafo único. O corte e a supressão de vegetação, no caso de utilidade pública, obedecerão ao disposto no art. 14 desta Lei, além da realização de Estudo Prévio de Impacto Ambiental/Relatório de Impacto Ambiental - EIA/RIMA.

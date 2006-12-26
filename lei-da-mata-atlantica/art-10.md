@@ -1,0 +1,3 @@
+Art. 10. O poder público fomentará o enriquecimento ecológico da vegetação do Bioma Mata Atlântica, bem como o plantio e o reflorestamento com espécies nativas, em especial as iniciativas voluntárias de proprietários rurais.
+§ 1º Nos casos em que o enriquecimento ecológico exigir a supressão de espécies nativas que gerem produtos ou subprodutos comercializáveis, será exigida a autorização do órgão estadual ou federal competente, mediante procedimento simplificado.
+§ 2º Visando a controlar o efeito de borda nas áreas de entorno de fragmentos de vegetação nativa, o poder público fomentará o plantio de espécies florestais, nativas ou exóticas.
