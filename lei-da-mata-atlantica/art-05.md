@@ -1,0 +1,1 @@
+Art. 5º A vegetação primária ou a vegetação secundária em qualquer estágio de regeneração do Bioma Mata Atlântica não perderão esta classificação nos casos de incêndio, desmatamento ou qualquer outro tipo de intervenção não autorizada ou não licenciada.

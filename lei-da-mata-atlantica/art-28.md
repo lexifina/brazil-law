@@ -1,0 +1,1 @@
+Art. 28. O corte, a supressão e o manejo de espécies arbóreas pioneiras nativas em fragmentos florestais em estágio médio de regeneração, em que sua presença for superior a 60% (sessenta por cento) em relação às demais espécies, poderão ser autorizados pelo órgão estadual competente, observado o disposto na Lei nº 4.771, de 15 de setembro de 1965.

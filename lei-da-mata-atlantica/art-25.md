@@ -1,0 +1,2 @@
+Art. 25. O corte, a supressão e a exploração da vegetação secundária em estágio inicial de regeneração do Bioma Mata Atlântica serão autorizados pelo órgão estadual competente.
+Parágrafo único. O corte, a supressão e a exploração de que trata este artigo, nos Estados em que a vegetação primária e secundária remanescente do Bioma Mata Atlântica for inferior a 5% (cinco por cento) da área original, submeter-se-ão ao regime jurídico aplicável à vegetação secundária em estágio médio de regeneração, ressalvadas as áreas urbanas e regiões metropolitanas.
