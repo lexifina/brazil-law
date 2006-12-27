@@ -1,0 +1,5 @@
+Art. 41-A. O valor dos benefícios em manutenção será reajustado, anualmente, na mesma data do reajuste do salário mínimo, pro rata, de acordo com suas respectivas datas de início ou do último reajustamento, com base no Índice Nacional de Preços ao Consumidor - INPC, apurado pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE.
+§ 1º Nenhum benefício reajustado poderá exceder o limite máximo do salário-de-benefício na data do reajustamento, respeitados os direitos adquiridos.
+§ 2º Os benefícios serão pagos do 1º (primeiro) ao 5º (quinto) dia útil do mês seguinte ao de sua competência, observada a distribuição proporcional do número de beneficiários por dia de pagamento.
+§ 3º O 1º (primeiro) pagamento de renda mensal do benefício será efetuado até 45 (quarenta e cinco) dias após a data da apresentação pelo segurado da documentação necessária a sua concessão.
+§ 4º Para os benefícios que tenham sido majorados devido à elevação do salário mínimo, o referido aumento deverá ser compensado no momento da aplicação do disposto no caput deste artigo, de acordo com normas a serem baixadas pelo Ministério da Previdência Social.
