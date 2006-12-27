@@ -1,0 +1,2 @@
+Altera as Leis nºs 8.213, de 24 de julho de 1991, e 9.796, de 5 de maio de 1999, aumenta o valor dos benefícios da previdência social; e revoga a Medida Provisória nº 316, de 11 de agosto de 2006; dispositivos das Leis nºs 8.213, de 24 de julho de 1991, 8.444, de 20 de julho de 1992, e da Medida Provisória nº 2.187-13, de 24 de agosto de 2001; e a Lei nº 10.699, de 9 de julho de 2003.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
