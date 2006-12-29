@@ -1,0 +1,2 @@
+Altera os arts. 136, 137, 138, 139, 141 e 143 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para substituir a expressão "seqüestro" por "arresto", com os devidos ajustes redacionais.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
