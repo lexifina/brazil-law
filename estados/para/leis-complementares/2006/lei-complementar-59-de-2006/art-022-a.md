@@ -1,0 +1,5 @@
+Art. 22-A. Fica instituído o Conselho Estadual de Defesa do Contribuinte - CODECON, órgão de composição paritária, integrado por quatro representantes da Secretaria Executiva de Estado da Fazenda - SEFA, dois de entidades empresariais e dois de entidade de classe, e respectivos suplentes, com atuação na defesa dos interesses dos contribuintes, na forma desta Lei.
+§ 1º O Secretário Executivo de Estado da Fazenda, na qualidade de membro nato, é o Presidente do CODECON, cabendo-lhe indicar os demais representantes, titulares e suplentes, da SEFA.
+§ 2º Os membros, titulares e suplentes, representantes das entidades empresariais e de classe serão indicados em lista tríplice ao Secretário Executivo de Estado da Fazenda.
+§ 3º Os representantes da SEFA e das entidades empresariais e de classe indicados na forma dos parágrafos anteriores serão designados pelo Governador do Estado.
+§ 4º As entidades empresariais e de classe a serem representadas no CODECON serão indicadas pelo Secretário Executivo de Estado da Fazenda.
