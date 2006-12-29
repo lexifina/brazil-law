@@ -1,1 +1,0 @@
-Art. 14. Aplica-se o disposto no art. 67 da Lei nº 7.501, de 27 de julho de 1986, com a redação dada pelo art. 13 desta Lei, aos Auxiliares civis que prestam serviços aos órgãos de representação das Forças Armadas Brasileiras no exterior.
