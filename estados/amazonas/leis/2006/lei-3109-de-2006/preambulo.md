@@ -1,0 +1,7 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+LEI Nº 3109 de 27/12/2006
+
+ALTERA o Anexo II da Lei n° 3.013, de 14 de dezembro de 2005, e dá outras providências.
