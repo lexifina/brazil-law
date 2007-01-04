@@ -1,0 +1,2 @@
+Institui, na forma do art. 43 da Constituição Federal, a Superintendência do Desenvolvimento da Amazônia - SUDAM; estabelece sua composição, natureza jurídica, objetivos, área de competência e instrumentos de ação; dispõe sobre o Fundo de Desenvolvimento da Amazônia - FDA; altera a Medida Provisória nº 2.157-5, de 24 de agosto de 2001; revoga a Lei Complementar nº 67, de 13 de junho de 1991; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
