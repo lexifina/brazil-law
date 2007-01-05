@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 705, de 3 de janeiro de 2007
+Altera o § 6º do art. 4º da Instrução Normativa nº 450, de 21 de setembro de 2004, que dispõe sobre a CPMF.
+O SECRETÁRIO DA RECEITA FEDERAL - SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no art. § 10 do inciso I do art. 8º da Lei nº 9.311, de 24 de outubro de 1996, e no inciso III do art. 85 do Ato das Disposições Constitucionais Transitórias acrescido pelo art. 3º da Emenda Constitucional nº 37, de 12 de junho de 2005, resolve:
