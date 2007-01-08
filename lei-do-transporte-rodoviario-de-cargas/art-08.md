@@ -1,0 +1,2 @@
+Art. 8º O transportador é responsável pelas ações ou omissões de seus empregados, agentes, prepostos ou terceiros contratados ou subcontratados para a execução dos serviços de transporte, como se essas ações ou omissões fossem próprias.
+Parágrafo único. O transportador tem direito a ação regressiva contra os terceiros contratados ou subcontratados, para se ressarcir do valor da indenização que houver pago.

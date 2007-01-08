@@ -1,0 +1,1 @@
+Art. 1º Esta Lei dispõe sobre o Transporte Rodoviário de Cargas - TRC realizado em vias públicas, no território nacional, por conta de terceiros e mediante remuneração, os mecanismos de sua operação e a responsabilidade do transportador.
