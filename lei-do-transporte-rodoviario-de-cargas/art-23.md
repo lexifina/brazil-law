@@ -1,0 +1,1 @@
+Art. 23. Esta Lei entra em vigor na data de sua publicação, assegurando-se aos que já exercem a atividade de transporte rodoviário de cargas inscrição no RNTR-C e a continuação de suas atividades, observadas as disposições desta Lei.

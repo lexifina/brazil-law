@@ -1,0 +1,2 @@
+Art. 14. A responsabilidade do transportador por prejuízos resultantes de perdas ou danos causados às mercadorias é limitada ao valor declarado pelo expedidor e consignado no contrato ou conhecimento de transporte, acrescido dos valores do frete e do seguro correspondentes.
+Parágrafo único. Na hipótese de o expedidor não declarar o valor das mercadorias, a responsabilidade do transportador será limitada ao valor de 2 (dois) Direitos Especiais de Saque - DES por quilograma de peso bruto transportado.

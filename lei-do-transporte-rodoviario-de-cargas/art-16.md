@@ -1,0 +1,1 @@
+Art. 16. Os operadores de terminais, armazéns e quaisquer outros que realizem operações de transbordo são responsáveis, perante o transportador que emitiu o conhecimento de transporte, pelas perdas e danos causados às mercadorias no momento da realização das referidas operações, inclusive de depósito.
