@@ -1,0 +1,1 @@
+Art. 21. As infrações do disposto nesta Lei serão punidas com multas administrativas de R$ 550,00 (quinhentos e cinqüenta reais) a R$ 10.500,00 (dez mil e quinhentos reais), a serem aplicadas pela ANTT, sem prejuízo do cancelamento da inscrição no RNTR-C, quando for o caso.
