@@ -1,0 +1,2 @@
+Art. 10. O atraso ocorre quando as mercadorias não forem entregues dentro dos prazos constantes do contrato ou do conhecimento de transporte.
+Parágrafo único. Se as mercadorias não forem entregues dentro de 30 (trinta) dias corridos após a data estipulada, de conformidade com o disposto no caput deste artigo, o consignatário ou qualquer outra pessoa com direito de reclamar as mercadorias poderá considerá-las perdidas.

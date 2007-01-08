@@ -1,0 +1,1 @@
+Art. 6º O transporte rodoviário de cargas será efetuado sob contrato ou conhecimento de transporte, que deverá conter informações para a completa identificação das partes e dos serviços e de natureza fiscal.
