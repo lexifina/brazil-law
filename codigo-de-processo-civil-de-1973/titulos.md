@@ -292,11 +292,11 @@ Das Disposições Comuns às Seções Precedentes
 CAPÍTULO IV
 DA EXECUÇÃO POR QUANTIA CERTA CONTRA DEVEDOR SOLVENTE
 Seção I
-Da Penhora, da Avaliação e da Arrematação
+Da Penhora, da Avaliação e da Expropriação de Bens
 Subseção I
 Das Disposições Gerais
 Subseção II
-Da Citação do Devedor e da Nomeação de Bens
+Da Citação do Devedor e da Indicação de Bens
 Subseção III
 Da Penhora e do Depósito
 Subseção IV
@@ -305,18 +305,20 @@ Subseção V
 Da Penhora, do Depósito e da Administração de Empresa e de Outros Estabelecimentos
 Subseção VI
 Da Avaliação
+Subseção VI-A
+Da Adjudicação
+Subseção VI-B
+Da Alienação por Iniciativa Particular
 Subseção VII
-Da Arrematação
+Da Alienação em Hasta Pública
 Seção II
 Do Pagamento ao Credor
 Subseção I
 Das Disposições Gerais
 Subseção II
 Da Entrega do Dinheiro
-Subseção III
-Da Adjudicação de Imóvel
 Subseção IV
-Do Usufruto de Imóvel ou de Empresa
+Do Usufruto de Móvel ou Imóvel
 Seção III
 Da Execução Contra a Fazenda Pública
 CAPÍTULO V
@@ -328,10 +330,9 @@ DAS DISPOSIÇÕES GERAIS
 CAPÍTULO II
 DOS EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA
 CAPÍTULO III
-DOS EMBARGOS À EXECUÇÃO FUNDADA EM TÍTULO EXTRAJUDICIAL
+DOS EMBARGOS À EXECUÇÃO
 CAPÍTULO IV
-DOS EMBARGOS À ARREMATAÇÃO E À ADJUDICAÇÃO
-CAPÍTULO V
+DOS EMBARGOS NA EXECUÇÃO POR CARTA
 TÍTULO IV
 DA EXECUÇÃO POR QUANTIA CERTA CONTRA DEVEDOR INSOLVENTE
 CAPÍTULO I
@@ -352,8 +353,6 @@ CAPÍTULO VIII
 DA EXTINÇÃO DAS OBRIGAÇÕES
 CAPÍTULO IX
 DAS DISPOSIÇÕES GERAIS
-TÍTULO V
-DA REMIÇÃO
 TÍTULO VI
 DA SUSPENSÃO E DA EXTINÇÃO DO PROCESSO DE EXECUÇÃO
 CAPÍTULO I
