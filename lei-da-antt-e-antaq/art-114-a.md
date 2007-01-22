@@ -1,4 +1,3 @@
 Art. 114-A. Ficam criados os Quadros de Pessoal em Extinção na ANTT, na ANTAQ e no DNIT, com a finalidade exclusiva de absorver, a critério do Poder Executivo, empregados regidos pela Consolidação das Leis do Trabalho dos quadros de pessoal do Ministério dos Transportes, da RFFSA, do GEIPOT, das Administrações Hidroviárias e da Companhia de Docas do Rio de Janeiro - CDRJ, lotados no Instituto Nacional de Pesquisas Hidroviárias - INPH, na data de publicação desta Lei.
 § 1º O ingresso de pessoal no quadro de que trata o caput será feito por sucessão trabalhista, não caracterizando rescisão contratual.
-§ 2º Em caso de demissão, dispensa, aposentadoria ou falecimento do funcionário, fica extinto o emprego por ele ocupado.
 § 3º Os empregados absorvidos terão seus valores remuneratórios inalterados e seu desenvolvimento na carreira estabelecido pelo plano de cargos e salários em que estejam enquadrados em seus órgãos ou entidades de origem.
