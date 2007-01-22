@@ -15,4 +15,4 @@ IV - exigência de comprovação sistemática do cumprimento das obrigações tr
 V - controle especial da impressão e emissão de documentos comerciais e fiscais e da movimentação financeira.
 § 3º As medidas previstas neste artigo poderão ser aplicadas isolada ou cumulativamente, por tempo suficiente à normalização do cumprimento das obrigações tributárias.
 § 4º A imposição do regime especial não elide a aplicação de penalidades previstas na legislação tributária.
-§ 5º As infrações cometidas pela contribuinte durante o período em que estiver submetido a regime especial de fiscalização serão punidas com a multa de que trata o inciso II do art. 44.
+§ 5º Às infrações cometidas pela contribuinte durante o período em que estiver submetido a regime especial de fiscalização será aplicada a multa de que trata o inciso I do caput do art. 44, duplicando-se o seu percentual.
