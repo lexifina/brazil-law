@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 719, de 12 de fevereiro de 2007
+Aprova o programa multiplataforma para preenchimento da Declaração de Ajuste Anual do Imposto de Renda de Pessoa Física do exercício de 2007, ano-calendário de 2006, para uso em computador que possua máquina virtual Java (JVM), versão 1.4.1 ou superior, instalada.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso XVIII do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto na Instrução Normativa SRF nº 716, de 5 de fevereiro de 2007, resolve:
