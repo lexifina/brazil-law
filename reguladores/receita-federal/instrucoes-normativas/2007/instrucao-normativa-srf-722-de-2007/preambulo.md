@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 722, de 12 de fevereiro de 2007
+Altera a Instrução Normativa SRF nº 687, de 26 de outubro de 2006, que dispõe sobre a apresentação de informações relativas aos recursos em moeda estrangeira, decorrentes de recebimentos de exportações de mercadorias e serviços, mantidos no exterior.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no § 3º do art. 8º da Lei nº 11.371, de 28 de novembro de 2006, resolve:
