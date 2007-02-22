@@ -1,0 +1,1 @@
+Art. 6º O lixo originário de atividades comerciais, industriais e de serviços cuja responsabilidade pelo manejo não seja atribuída ao gerador pode, por decisão do poder público, ser considerado resíduo sólido urbano.

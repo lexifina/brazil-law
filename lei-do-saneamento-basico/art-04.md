@@ -1,0 +1,2 @@
+Art. 4º Os recursos hídricos não integram os serviços públicos de saneamento básico.
+Parágrafo único. A utilização de recursos hídricos na prestação de serviços públicos de saneamento básico, inclusive para disposição ou diluição de esgotos e outros resíduos líquidos, é sujeita a outorga de direito de uso, nos termos da Lei nº 9.433, de 8 de janeiro de 1997, de seus regulamentos e das legislações estaduais.

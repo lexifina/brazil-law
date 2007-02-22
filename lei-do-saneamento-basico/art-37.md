@@ -1,0 +1,1 @@
+Art. 37. Os reajustes de tarifas de serviços públicos de saneamento básico serão realizados observando-se o intervalo mínimo de 12 (doze) meses, de acordo com as normas legais, regulamentares e contratuais.
