@@ -1,0 +1,3 @@
+Art. 26. Deverá ser assegurado publicidade aos relatórios, estudos, decisões e instrumentos equivalentes que se refiram à regulação ou à fiscalização dos serviços, bem como aos direitos e deveres dos usuários e prestadores, a eles podendo ter acesso qualquer do povo, independentemente da existência de interesse direto.
+§ 1º Excluem-se do disposto no caput deste artigo os documentos considerados sigilosos em razão de interesse público relevante, mediante prévia e motivada decisão.
+§ 2º A publicidade a que se refere o caput deste artigo deverá se efetivar, preferencialmente, por meio de sítio mantido na rede mundial de computadores - internet.

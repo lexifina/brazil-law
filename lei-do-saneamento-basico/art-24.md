@@ -1,0 +1,1 @@
+Art. 24. Em caso de gestão associada ou prestação regionalizada dos serviços, os titulares poderão adotar os mesmos critérios econômicos, sociais e técnicos da regulação em toda a área de abrangência da associação ou da prestação.

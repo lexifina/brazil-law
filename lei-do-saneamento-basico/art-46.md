@@ -1,0 +1,1 @@
+Art. 46. Em situação crítica de escassez ou contaminação de recursos hídricos que obrigue à adoção de racionamento, declarada pela autoridade gestora de recursos hídricos, o ente regulador poderá adotar mecanismos tarifários de contingência, com objetivo de cobrir custos adicionais decorrentes, garantindo o equilíbrio financeiro da prestação do serviço e a gestão da demanda.
