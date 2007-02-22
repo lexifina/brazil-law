@@ -1,0 +1,1 @@
+Art. 5º Não constitui serviço público a ação de saneamento executada por meio de soluções individuais, desde que o usuário não dependa de terceiros para operar os serviços, bem como as ações e serviços de saneamento básico de responsabilidade privada, incluindo o manejo de resíduos de responsabilidade do gerador.
