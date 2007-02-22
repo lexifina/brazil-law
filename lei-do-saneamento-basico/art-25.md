@@ -1,0 +1,3 @@
+Art. 25. Os prestadores de serviços públicos de saneamento básico deverão fornecer à entidade reguladora todos os dados e informações necessários para o desempenho de suas atividades, na forma das normas legais, regulamentares e contratuais.
+§ 1º Incluem-se entre os dados e informações a que se refere o caput deste artigo aquelas produzidas por empresas ou profissionais contratados para executar serviços ou fornecer materiais e equipamentos específicos.
+§ 2º Compreendem-se nas atividades de regulação dos serviços de saneamento básico a interpretação e a fixação de critérios para a fiel execução dos contratos, dos serviços e para a correta administração de subsídios.
