@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 726, de 28 de fevereiro de 2007
+Dispõe sobre operações de câmbio e a manutenção de recursos no exterior, em moeda estrangeira, relativos a exportações de mercadorias e serviços, e institui a Declaração sobre a Utilização dos Recursos em Moeda Estrangeira Decorrentes do Recebimento de Exportações (Derex).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto nos arts. 1º, 8º, 9º e 10 da Lei nº 11.371, de 28 de novembro de 2006, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
