@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF05 nº 17, de 22 de fevereiro de 2007
+ASSUNTO: Normas Gerais de Direito Tributário
+EMENTA: Condomínio. Exploração de atividade hoteleira. Equiparação A pessoa jurídica.Princípios constitucionais como os da isonomia tributária, da capacidade contributiva e da livre concorrência, impõem que a tributação atinja de modo paritário as unidades de exploração de atividade econômica, independentemente da forma jurídica escolhida para organizar a atividade empresária. Nesse mesmo sentido regula a legislação infraconstitucional.O condomínio que, não se limitando às suas atividades usuais, explora atividade hoteleira configura-se como pessoa jurídica e se submete às obrigações tributárias principais e acessórias da pessoa jurídica.
+DISPOSITIVOS LEGAIS: CF, arts. 1º, IV, 145, §1º, 150, II, 170, IV, e 195, I; CTN, arts. 109, 116, parágrafo único, 118 e 126; LC 70/1991, art. 1º; Leis 9.430/1996, art. 28, 9.715/1998, art. 2º, I; e RIR/1999, arts. 146, §1º, e 155.
+[arquivo anexo: SC Disit-SRRF05 nº 17-2007.pdf]
