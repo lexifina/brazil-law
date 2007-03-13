@@ -1,0 +1,104 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO - EFEITO MODIFICATIVO.
+1.  O ministro Maurício Corrêa, a
+   quem sucedi na relatoria deste processo, proferiu a seguinte
+   decisão (folhas 270 e 271):
+Discute-se
+   nesses autos o direito do servidor público federal à conversão,
+   para fins de aposentadoria, do tempo de serviço prestado em
+   condições insalubres, em período anterior à instituição do Regime
+   Jurídico Único (Lei 8112/90).
+2. A legislação
+   previdenciária, vigente à época em que realizada a prestação do
+   serviço público, expressamente assegurava ao servidor que
+   trabalhou em atividade insalubre o direito à averbação do tempo
+   de serviço prestado nessas condições, com os acréscimos nela
+   previstas, para fins de aposentadoria. Importa anotar que a
+   Consolidação das Leis da Previdência Social, em seu artigo 84,
+   estabelecia orientação quanto ao tratamento que deveria ser
+   dispensado ante a constatação de tempo de serviço prestado em
+   condições insalubres, perigosas ou penosas. Por sua vez, o
+   parágrafo 2º do seu artigo 35 dispunha:
+"O
+   tempo de serviço exercido alternadamente em atividade que seja ou
+   venha a ser considerada perigosa, insalubre ou penosa é somado,
+   após a respectiva conversão, segundo critérios de equivalência
+   fixados pelo MPAS, para efeito de qualquer espécie de
+   aposentadoria".
+3. Tem-se, por isso, que tendo
+   exercido suas atividades funcionais em condições insalubres à
+   época em que submetido aos regimes celetistas e previdenciá3.
+   Tem-se, por isso, que tendo exercido suas atividades funcionais
+   em condições insalubres à época em que submetido aos regimes
+   celetistas e previdenciário, há direito adquirido do servidor
+   público à computação desse tempo de serviço, de forma
+   diferenciada e para fins de aposentadoria, haja vista que em cada
+   momento trabalhado se realizava o suporte fático previsto na
+   norma como suficiente a autorizar sua averbação.
+4. Assim
+   sendo, incorporado ao seu patrimônio jurídico o direito que a
+   legislação específica lhe assegurava como compensação pelo
+   serviço exercido em condições insalubres, periculosas ou penosas,
+   essa vantagem não lhe pode ser suprimida, tão-só em razão da
+   imposição de um novo regime jurídico que, apesar de prever a
+   edição de lei específica para regulamentar a concessão de
+   aposentadoria para os agentes públicos que exercerem atividades
+   em tais condições, não desconsiderou ou desqualificou o tempo de
+   serviço prestado nos moldes da legislação anterior (Lei 8112/90,
+   artigo 103, V).
+5. Recordo, ademais, que a Lei 8112/90
+   (Regime Jurídico Único), em seu artigo 100, expressamente dispôs
+   que "é contado para todos os efeitos o tempo de serviço público
+   federal, inclusive o prestado às Forças Armadas", matéria sobre a
+   qual há jurisprudência firmada pelo Pleno desta Corte, por
+   ocasião do julgamento do RE 209.899-RN, de que fui relator
+   (Sessão do dia 4.06.1998, acórdão pendente de publicação), quando
+   foi declarada a existência de direito adquirido do servidor
+   público celetista, transformado em estatutário, à contagem do
+   tempo de serviço que prestou nessa condição, para todos os fins.
+   E isto porque, "é adquirido todo direito que (...) nos termos da
+   lei sob o império da qual se verificou o fato de onde se origina,
+   entrou imediatamente a fazer parte do patrimônio de quem o
+   adquiriu" (Francesco Gabba, in Teoria della Retroattivitá delle
+   Leggi, Roma, 1891, 3ª Edição, volume I, pág. 191).
+Ante o
+   exposto, com base no artigo 21, § 1º, do RISTF, nego seguimento
+   ao recurso.
+Intime-se.
+ Nos embargos
+   de declaração de folha 278 a 281, os servidores alegam que, no
+   pronunciamento, foi reconhecido o direito adquirido à conversão
+   do tempo de serviço prestado em condições insalubres, em período
+   anterior à vigência da Lei nº 8.112/90, para fins de
+   aposentadoria. No entanto, negou-se seguimento ao recurso, quando
+   a conclusão seria o acolhimento do pleito nele formulado.
+   Requerem a retificação do ato e o saneamento da contradição.
+ A União, na impugnação de folha 228, limita-se a apontar o
+   não-cabimento dos declaratórios.
+2.  Na interposição destes
+   embargos, foram observados os pressupostos de recorribilidade. A
+   peça, subscrita por profissional da advocacia regularmente
+   credenciada (folhas 25 a 32 e 277), restou protocolada no prazo
+   legal.
+ Inicialmente, é de salientar que os embargos
+   declaratórios são cabíveis contra qualquer pronunciamento com
+   carga decisória, pouco importando a natureza do processo, do
+   procedimento, ou a circunstância de se tratar de ato de colegiado
+   ou individual. Impugnada decisão monocrática, compete ao órgão
+   julgador apreciar os embargos declaratórios.
+ No mais, há
+   evidente descompasso entre a fundamentação e a parte dispositiva
+   da decisão. Assim, nos termos do § 3º do artigo 96 do Regimento
+   Interno do Supremo, o erro material verificado pode ser corrigido
+   por ato do relator ou mediante apreciação de embargos
+   declaratórios manifestados pela parte interessada.
+3.  Por
+   todo o exposto, acolho os declaratórios interpostos e procedo à
+   alteração da conclusão do julgamento proferido pelo meu
+   antecessor, para dele constar que o recurso extraordinário foi
+   conhecido e provido.
+4.  Publiquem.
+Brasília, 13 de março de 2007.
+Ministro MARCO AURÉLIO
+Relator
+1
