@@ -1,0 +1,3 @@
+Art. 7º Da decisão judicial ou do ato administrativo que contrariar enunciado de súmula vinculante, negar-lhe vigência ou aplicá-lo indevidamente caberá reclamação ao Supremo Tribunal Federal, sem prejuízo dos recursos ou outros meios admissíveis de impugnação.
+§ 1º Contra omissão ou ato da administração pública, o uso da reclamação só será admitido após esgotamento das vias administrativas.
+§ 2º Ao julgar procedente a reclamação, o Supremo Tribunal Federal anulará o ato administrativo ou cassará a decisão judicial impugnada, determinando que outra seja proferida com ou sem aplicação da súmula, conforme o caso.

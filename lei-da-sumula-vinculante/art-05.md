@@ -1,0 +1,1 @@
+Art. 5º Revogada ou modificada a lei em que se fundou a edição de enunciado de súmula vinculante, o Supremo Tribunal Federal, de ofício ou por provocação, procederá à sua revisão ou cancelamento, conforme o caso.
