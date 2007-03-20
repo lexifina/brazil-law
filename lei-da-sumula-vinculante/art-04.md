@@ -1,0 +1,1 @@
+Art. 4º A súmula com efeito vinculante tem eficácia imediata, mas o Supremo Tribunal Federal, por decisão de 2/3 (dois terços) dos seus membros, poderá restringir os efeitos vinculantes ou decidir que só tenha eficácia a partir de outro momento, tendo em vista razões de segurança jurídica ou de excepcional interesse público.
