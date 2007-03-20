@@ -1,0 +1,3 @@
+Art. 9º A Lei nº 9.784, de 29 de janeiro de 1999, passa a vigorar acrescida dos seguintes arts. 64-A e 64-B:
+" Art. 64-A. Se o recorrente alegar violação de enunciado da súmula vinculante, o órgão competente para decidir o recurso explicitará as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso."
+" Art. 64-B. Acolhida pelo Supremo Tribunal Federal a reclamação fundada em violação de enunciado da súmula vinculante, dar-se-á ciência à autoridade prolatora e ao órgão competente para o julgamento do recurso, que deverão adequar as futuras decisões administrativas em casos semelhantes, sob pena de responsabilização pessoal nas esferas cível, administrativa e penal."
