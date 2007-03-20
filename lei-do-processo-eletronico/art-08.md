@@ -1,0 +1,2 @@
+Art. 8º Os órgãos do Poder Judiciário poderão desenvolver sistemas eletrônicos de processamento de ações judiciais por meio de autos total ou parcialmente digitais, utilizando, preferencialmente, a rede mundial de computadores e acesso por meio de redes internas e externas.
+Parágrafo único. Todos os atos processuais do processo eletrônico serão assinados eletronicamente na forma estabelecida nesta Lei.
