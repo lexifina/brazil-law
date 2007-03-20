@@ -1,0 +1,3 @@
+Art. 9º No processo eletrônico, todas as citações, intimações e notificações, inclusive da Fazenda Pública, serão feitas por meio eletrônico, na forma desta Lei.
+§ 1º As citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais.
+§ 2º Quando, por motivo técnico, for inviável o uso do meio eletrônico para a realização de citação, intimação ou notificação, esses atos processuais poderão ser praticados segundo as regras ordinárias, digitalizando-se o documento físico, que deverá ser posteriormente destruído.

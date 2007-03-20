@@ -1,0 +1,1 @@
+Art. 7º As cartas precatórias, rogatórias, de ordem e, de um modo geral, todas as comunicações oficiais que transitem entre órgãos do Poder Judiciário, bem como entre os deste e os dos demais Poderes, serão feitas preferentemente por meio eletrônico.
