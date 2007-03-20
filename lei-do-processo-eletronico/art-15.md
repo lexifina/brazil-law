@@ -1,0 +1,2 @@
+Art. 15. Salvo impossibilidade que comprometa o acesso à justiça, a parte deverá informar, ao distribuir a petição inicial de qualquer ação judicial, o número no cadastro de pessoas físicas ou jurídicas, conforme o caso, perante a Secretaria da Receita Federal.
+Parágrafo único. Da mesma forma, as peças de acusação criminais deverão ser instruídas pelos membros do Ministério Público ou pelas autoridades policiais com os números de registros dos acusados no Instituto Nacional de Identificação do Ministério da Justiça, se houver.
