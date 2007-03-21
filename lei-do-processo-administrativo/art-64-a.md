@@ -1,0 +1,1 @@
+Art. 64-A. Se o recorrente alegar violação de enunciado da súmula vinculante, o órgão competente para decidir o recurso explicitará as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso.
