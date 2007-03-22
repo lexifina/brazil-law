@@ -28,5 +28,6 @@ VIII - um especialista em saúde do trabalhador, indicado pelo Ministro do Traba
 § 6º Os membros da CTNBio devem pautar a sua atuação pela observância estrita dos conceitos ético-profissionais, sendo vedado participar do julgamento de questões com as quais tenham algum envolvimento de ordem profissional ou pessoal, sob pena de perda de mandato, na forma do regulamento.
 § 7º A reunião da CTNBio poderá ser instalada com a presença de 14 (catorze) de seus membros, incluído pelo menos um representante de cada uma das áreas referidas no inciso I do caput deste artigo.
 § 8º (VETADO)
+§ 8º-A As decisões da CTNBio serão tomadas com votos favoráveis da maioria absoluta de seus membros.
 § 9º Órgãos e entidades integrantes da administração pública federal poderão solicitar participação nas reuniões da CTNBio para tratar de assuntos de seu especial interesse, sem direito a voto.
 § 10. Poderão ser convidados a participar das reuniões, em caráter excepcional, representantes da comunidade científica e do setor público e entidades da sociedade civil, sem direito a voto.
