@@ -1,0 +1,1 @@
+Art. 41-A. 5% (cinco por cento) do total do Fundo Partidário serão destacados para entrega, em partes iguais, a todos os partidos que tenham seus estatutos registrados no Tribunal Superior Eleitoral e 95% (noventa e cinco por cento) do total do Fundo Partidário serão distribuídos a eles na proporção dos votos obtidos na última eleição geral para a Câmara dos Deputados.
