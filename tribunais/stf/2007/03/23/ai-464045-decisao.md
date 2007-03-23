@@ -1,0 +1,33 @@
+DECISÃO : Agravo de instrumento de decisão que
+   inadmitiu RE, a, contra acórdão assim ementado (f. 90):
+"ANULATÓRIA DE DÉBITO FISCAL - IMPOSTO SOBRE SERVIÇO (ISS) -
+   ART. 12 DO DEC. LEI N. 406/68 - LOCAL DE PRESTAÇÃO DO SERVIÇO -
+   EXEGESE.
+De acordo com o SUPERIOR TRIBUNAL DE JUSTIÇA (RESP
+   41867-4-RS)'EMBORA A LEI CONSIDERE LOCAL DA PRESTAÇÃO DE SERVIÇO,
+   O DO ESTABELECIMENTO PRESTADOR (ART. 12 DO DEC. LEI N. 406/68),
+   ELA PRETENDE QUE O ISS PERTENÇA AO MUNICÍPIO EM CUJO TERRITÓRIO
+   SE REALIZOU O FATO GERADOR.
+É O LOCAL DA PRESTAÇÃO DO SERVIÇO
+   QUE INDICA O MUNICÍPIO COMPETENTE PARA A IMPOSIÇÃO DO TRIBUTO
+   (ISS), PARA QUE SE NÃO VULNERE O PRINCÍPIO CONSTITUCIONAL
+   IMPLÍCITO QUE ATRIBUI ÀQUELE (MUNICÍPIO) O PODER DE TRIBUTAR AS
+   PRESTAÇÕES OCORRIDAS EM SEU TERRITÓRIO.
+A LEI MUNICIPAL NÃO
+   PODE SER DOTADA DE EXTRATERRITORIALIDADE, DE MODO A IRRADIAR
+   EFEITOS SOBRE UM FATO OCORRIDO NO TERRITÓRIO DE MUNICÍPIO ONDE
+   NÃO PODE TER VOGA.
+RECURSO PROVIDO INDISCREPATEMENTE."
+Alega o RE violação dos artigos 146, I e 156, III, da
+   Constituição Federal.
+Decido.
+Para divergir do
+   Tribunal a quo seria necessário o reexame das provas e fatos que
+   permeiam a lide, bem como da legislação infraconstitucional
+   pertinente - DL 406/68 e LC 56/87, ao que não se presta o RE.
+Nego provimento ao agravo.
+Brasília, 23 de março de
+   2007.
+Ministro SEPÚLVEDA PERTENCE - Relator
+1
+1
