@@ -1,0 +1,6 @@
+Ato Declaratório Interpretativo SRF nº 2, de 27 de março de 2007
+Dispõe sobre o tratamento tributário dos rendimentos decorrentes de locação de partes comuns de condomínio edilício.
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o que consta no processo nº 10980.010644/2005-96, declara:
+Artigo único. Na hipótese de locação de partes comuns de condomínio edilício, será observado o seguinte:
+I - os rendimentos decorrentes serão considerados auferidos pelos condôminos, na proporção da parcela que for atribuída a cada um, ainda que tais rendimentos sejam utilizados na composição do fundo de receitas do condomínio, na redução da contribuição condominial ou para qualquer outro fim;
+II - o condômino estará sujeito ao cumprimento de todas as exigências tributárias cabíveis, relativamente aos tributos administrados pela Secretaria da Receita Federal (SRF), especialmente no que tange às normas contidas na legislação do imposto sobre a renda referentes à tributação de rendimentos auferidos com a locação de imóveis.
