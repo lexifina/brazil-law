@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 730, de 22 de março de 2007
+Altera a Instrução Normativa SRF nº 695, de 14 de dezembro de 2006, que dispõe sobre a Declaração de Débitos e Créditos Tributários Federais (DCTF).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso das atribuições que lhe conferem os incisos III e XVIII do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto no inciso I do art. 157 e no inciso I do art. 158 da Constituição Federal, no art. 5o do Decreto-Lei no 2.124, de 13 de junho de 1984, no art. 64 da Lei nº 9.430, de 27 de dezembro de 1996, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
