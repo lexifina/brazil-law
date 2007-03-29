@@ -1,0 +1,2 @@
+Altera os incisos I e III do caput do art. 1º da Lei nº 9.991, de 24 de julho de 2000, prorrogando, até 31 de dezembro de 2010, a obrigação de as concessionárias e permissionárias de serviços públicos de distribuição de energia elétrica aplicarem, no mínimo, 0,50% (cinqüenta centésimos por cento) de sua receita operacional líquida em programas de eficiência energética no uso final.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
