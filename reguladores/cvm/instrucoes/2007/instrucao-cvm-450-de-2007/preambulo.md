@@ -1,0 +1,3 @@
+Instrução CVM nº 450, de 2007
+Altera as Instruções CVM nºs. 409, de 18 de agosto de 2004, 306, de 5 de maio de 1999, 387, de 28 de abril de 2003 e 391, de 16 de julho de 2003 e revoga as Instruções CVM nºs 316, de 15 de outubro de 1999, 322, de 14 de janeiro de 2000, 326, de 11 de fevereiro de 2000, 327, de 18 de fevereiro de 2000, 329, de 17 de março de 2000, 336, de 15 de maio de 2000, e 338, de 21 de junho de 2000.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada em 2 de março de 2007, tendo em vista o disposto nos arts. 2º e 19 da Lei nº 6.385, de 7 de dezembro de 1976, resolveu baixar a seguinte Instrução:
