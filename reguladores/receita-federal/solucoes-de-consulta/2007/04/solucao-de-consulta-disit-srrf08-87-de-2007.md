@@ -1,0 +1,10 @@
+Solução de Consulta Disit/SRRF08 nº 87, de 14 de março de 2007
+Assunto: Outros Tributos ou Contribuições
+Ementa: CONTRIBUIÇÃO PARA O DESENVOLVIMENTO DA INDÚSTRIA CINEMATOGRÁFICA NACIONAL - CONDECINE. ISENÇÃO. ART. 39, II, DA MEDIDA PROVISÓRIA Nº 2.228-1, DE 6 DE SETEMBRO DE 2001.
+Face à ausência de regulamentação acerca das isenções da Condecine, previstas no artigo 39 da Medida Provisória nº 2.228-1, de 2001, e, ainda, considerando-se que matéria envolvendo a outorga de isenção, de acordo com o artigo 111 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), enseja uma interpretação literal, lança-se mão da linguagem vernácula para se proceder à correta exegese do texto legal. Assim, conjugando-se as definições inseridas na norma e os significados vernaculares dos termos que esta utiliza, considera-se:
+OBRA VIDEOFONOGRÁFICA JORNALÍSTICA - aquela obra audiovisual cuja matriz original de captação é um meio magnético com capacidade de armazenamento de informações que se traduzem em imagens em movimento, com ou sem som, sendo que as informações armazenadas têm conteúdo jornalístico. Este conteúdo jornalístico vincula-se às atividades próprias do jornalismo, que implicam coletar, investigar, analisar e transmitir, periodicamente, ao público em geral, informações da atualidade, utilizando, entre outros meios, a televisão como veículo de comunicação; e
+EVENTOS ESPORTIVOS - os acontecimentos relativos ao esporte, organizados por especialistas, com objetivos institucionais, comunitários ou promocionais, considerando-se esporte cada um dos jogos ou atividades que requerem destreza física, com observância de regras específicas.
+As obras videofonográficas que se conformarem a tais conceitos, de "obra videofonográfica jornalística" e "eventos esportivos, fazem jus à isenção da Condecine prevista no artigo 39, inciso II, da Medida Provisória nº 2.228-1, de 2001.
+Dispositivos Legais: Artigos 1º, 32, 35, 38 e 39, inciso II, da Medida Provisória nº 2.228-1, de 6 de setembro de 2001
+Novo segmento
+[arquivo anexo: SC SRRF08-Disit nº 87-2007.pdf]
