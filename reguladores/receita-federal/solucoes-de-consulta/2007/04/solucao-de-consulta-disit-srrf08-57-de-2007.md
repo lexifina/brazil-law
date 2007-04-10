@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF08 nº 57, de 1º de março de 2007
+Assunto: Contribuição para o PIS/Pasep Ementa: PIS NÃO-CUMULATIVO. CRÉDITOS. INSUMOS. PRESTAÇÃO DE SERVIÇOS DE DIGITAÇÃO. O serviço de digitação prestado por microempresa optante pelo Simples, desde que diretamente relacionado com a atividade da tomadora do serviço e nela efetivamente consumido, pode ser considerado insumo para fins de apuração de seus créditos de PIS/Pasep não-cumulativo. Dispositivos Legais: Lei nº 10.637, de 2002, art. 3º; IN SRF nº 247, de 2002, art. 66, e IN SRF nº 358, de 2003.
+[arquivo anexo: SC SRRF08-Disit nº 57-2007.pdf]
