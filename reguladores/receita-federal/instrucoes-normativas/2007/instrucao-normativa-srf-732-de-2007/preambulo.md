@@ -1,0 +1,3 @@
+Instrução Normativa SRF nº 732, de 9 de abril de 2007
+Aprova o Programa Gerador da Declaração de Não-Incidência da CPMF - versão 3.0 (DCPMF-NI 3.0).
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto nos arts. 3º, 11 e 19 da Lei nº 9.311, de 24 de outubro de 1996, com a redação dada pelo art. 1º da Lei nº 10.306, de 8 de dezembro de 2001, nos arts. 46 e 47 da Medida Provisória nº 2.158, de 24 de agosto de 2001, e no art. 83 da Lei nº 10.833, de 29 de dezembro de 2003, resolve:
