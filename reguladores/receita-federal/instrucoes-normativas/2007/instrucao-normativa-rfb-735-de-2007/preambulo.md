@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 735, de 2 de maio de 2007
+Altera a Instrução Normativa SRF nº 438, de 28 de julho de 2004, que dispõe sobre a prova de regularidade fiscal de imóvel rural.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto na aliena "b" do inciso XXXIV do art. 5º da Constituição, nos arts. 205 e 206 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), no art. 21 da Lei nº 9.393, de 19 de dezembro de 1996, no art. 35 da Lei nº 10.522, de 19 de julho de 2002, e na Lei nº 11.457, de 16 de março de 2007, resolve:
