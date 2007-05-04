@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 740, de 2 de maio de 2007
+Dispõe sobre o processo de consulta relativo à interpretação da legislação tributária e aduaneira e à classificação de mercadorias no âmbito da Secretaria da Receita Federal do Brasil.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições previstas no art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 2 de maio de 2007, combinado com o disposto no art. 8º da Portaria MF nº 275, de 15 de agosto de 2005, e tendo em vista o disposto nos arts. 46 a 53 do Decreto nº 70.235, de 6 de março de 1972, nos arts. 48 a 50 da Lei nº 9.430, de 27 de dezembro de 1996, e no art. 25, inciso II e § 3º, da Lei no 11.457, de 16 de março de 2007, resolve:
