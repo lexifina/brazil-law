@@ -2,4 +2,4 @@ Art. 81. A esfera de atuação do DNIT corresponde à infra-estrutura do Sistema
 I - vias navegáveis;
 II - ferrovias e rodovias federais;
 III - instalações e vias de transbordo e de interface intermodal;
-IV - instalações portuárias.
+IV - instalações portuárias fluviais e lacustres, excetuadas as outorgadas às companhias docas.
