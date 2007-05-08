@@ -3,4 +3,4 @@ I - as políticas de desenvolvimento nacional, regional e urbano, de defesa naci
 II - as diretrizes para a integração física e de objetivos dos sistemas viários e das operações de transporte sob jurisdição da União, dos Estados, do Distrito Federal e dos Municípios;
 III - a promoção da competitividade, para redução de custos, tarifas e fretes, e da descentralização, para melhoria da qualidade dos serviços prestados;
 IV - as políticas de apoio à expansão e ao desenvolvimento tecnológico da indústria de equipamentos e veículos de transporte;
-V - a necessidade da coordenação de atividades pertinentes ao Sistema Federal de Viação e atribuídas pela legislação vigente aos Ministérios dos Transportes, da Defesa e da Justiça e à Secretaria Especial de Desenvolvimento Urbano da Presidência da República
+V - a necessidade da coordenação de atividades pertinentes ao Sistema Federal de Viação e atribuídas pela legislação vigente aos Ministérios dos Transportes, da Defesa, da Justiça, das Cidades e à Secretaria Especial de Portos da Presidência da República.
