@@ -1,0 +1,1 @@
+Art. 5º As atividades de cooperação federativa, no âmbito da Força Nacional de Segurança Pública, serão desempenhadas por militares e servidores civis dos entes federados que celebrarem convênio, na forma do art. 1º desta Lei.
