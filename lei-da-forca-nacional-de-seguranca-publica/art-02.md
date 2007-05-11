@@ -1,0 +1,2 @@
+Art. 2º A cooperação federativa de que trata o art. 1º desta Lei, para fins desta Lei, compreende operações conjuntas, transferências de recursos e desenvolvimento de atividades de capacitação e qualificação de profissionais, no âmbito da Força Nacional de Segurança Pública.
+Parágrafo único. As atividades de cooperação federativa têm caráter consensual e serão desenvolvidas sob a coordenação conjunta da União e do Ente convenente.

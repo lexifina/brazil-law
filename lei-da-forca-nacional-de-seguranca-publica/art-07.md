@@ -1,0 +1,2 @@
+Art. 7º O servidor civil ou militar vitimado durante as atividades de cooperação federativa de que trata esta Lei, bem como o Policial Federal, o Policial Rodoviário Federal, o Policial Civil e o Policial Militar, em ação operacional conjunta com a Força Nacional de Segurança Pública, farão jus, no caso de invalidez incapacitante para o trabalho, à indenização no valor de R$ 100.000,00 (cem mil reais), e seus dependentes, ao mesmo valor, no caso de morte.
+Parágrafo único. A indenização de que trata o caput deste artigo correrá à conta do Fundo Nacional de Segurança Pública.

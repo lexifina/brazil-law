@@ -1,0 +1,1 @@
+Art. 9º Ficam criados, no âmbito do Poder Executivo Federal, para atender às necessidades do Programa da Força Nacional de Segurança Pública, 9 (nove) cargos em comissão do Grupo Direção e Assessoramento Superiores DAS, sendo 1 (um) DAS-5, 3 (três) DAS-4 e 5 (cinco) DAS-3.

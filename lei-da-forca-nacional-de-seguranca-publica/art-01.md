@@ -1,0 +1,1 @@
+Art. 1º A União poderá firmar convênio com os Estados e o Distrito Federal para executar atividades e serviços imprescindíveis à preservação da ordem pública e da incolumidade das pessoas e do patrimônio.
