@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 744, de 25 de maio de 2007
+Altera Instrução Normativa SRF nº 252, de 2002, que dispõe sobre a incidência do imposto de renda na fonte sobre rendimentos pagos, creditados, empregados, entregues ou remetidos para pessoas físicas ou jurídicas residentes ou domiciliadas no exterior nas hipóteses que menciona.
+O SECRETÁRIO RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 2 de maio de 2007, e considerando o disposto noart. 9º da Medida Provisória nº 2.159-70, de 24 de agosto de 2001, e no Decreto nº 5.183, de 13 de agosto de 2004, resolve:
