@@ -2,17 +2,17 @@ Art. 8º A base de cálculo do imposto devido no ano-calendário será a diferen
 I - de todos os rendimentos percebidos durante o ano-calendário, exceto os isentos, os não-tributáveis, os tributáveis exclusivamente na fonte e os sujeitos à tributação definitiva;
 II - das deduções relativas:
 a) aos pagamentos efetuados, no ano-calendário, a médicos, dentistas, psicólogos, fisioterapeutas, fonoaudiólogos, terapeutas ocupacionais e hospitais, bem como as despesas com exames laboratoriais, serviços radiológicos, aparelhos ortopédicos e próteses ortopédicas e dentárias;
-b) a pagamentos de despesas com instrução do contribuinte e de seus dependentes efetuados a estabelecimentos de ensino, até o limite anual individual de R$ 2.373,84 (dois mil, trezentos e setenta e três reais e oitenta e quatro centavos), relativamente:
-1. à educação infantil, compreendendo as creches e as pré-escolas;
-2. ao ensino fundamental;
-3. ao ensino médio;
-4. à educação superior, compreendendo os cursos de graduação e de pós-graduação (mestrado, doutorado e especialização);
-5. à educação profissional, compreendendo o ensino técnico e o tecnológico;
-c) à quantia de R$ 1.516,32 (mil, quinhentos e dezesseis reais e trinta e dois centavos) por dependente;
-1.
-2.
-3.
-4.
+b) a pagamentos de despesas com instrução do contribuinte e de seus dependentes, efetuados a estabelecimentos de ensino, relativamente à educação infantil, compreendendo as creches e as pré-escolas; ao ensino fundamental; ao ensino médio; à educação superior, compreendendo os cursos de graduação e de pós-graduação (mestrado, doutorado e especialização); e à educação profissional, compreendendo o ensino técnico e o tecnológico, até o limite anual individual de:
+1. R$ 2.480,66 (dois mil, quatrocentos e oitenta reais e sessenta e seis centavos) para o ano-calendário de 2007;
+2. R$ 2.592,29 (dois mil, quinhentos e noventa e dois reais e vinte e nove centavos) para o ano-calendário de 2008;
+3. R$ 2.708,94 (dois mil, setecentos e oito reais e noventa e quatro centavos) para o ano-calendário de 2009;
+4. R$ 2.830,84 (dois mil, oitocentos e trinta reais e oitenta e quatro centavos) a partir do ano-calendário de 2010;
+5. (revogado);
+c) à quantia, por dependente, de:
+1. R$ 1.584,60 (mil, quinhentos e oitenta e quatro reais e sessenta centavos) para o ano-calendário de 2007;
+2. R$ 1.655,88 (mil, seiscentos e cinqüenta e cinco reais e oitenta e oito centavos) para o ano-calendário de 2008;
+3. R$ 1.730,40 (mil, setecentos e trinta reais e quarenta centavos) para o ano-calendário de 2009;
+4. R$ 1.808,28 (mil, oitocentos e oito reais e vinte e oito centavos) a partir do ano-calendário de 2010;
 d) às contribuições para a Previdência Social da União, dos Estados, do Distrito Federal e dos Municípios;
 e) às contribuições para as entidades de previdência privada domiciliadas no País, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios complementares assemelhados aos da Previdência Social;
 f) às importâncias pagas a título de pensão alimentícia em face das normas do Direito de Família, quando em cumprimento de decisão judicial ou acordo homologado judicialmente, inclusive a prestação de alimentos provisionais;

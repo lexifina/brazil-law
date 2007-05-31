@@ -1,1 +1,1 @@
-Art. 11. Terá suspensa a autorização para operar no seguro obrigatório de que trata o artigo 2º, sem prejuízo de outras penalidades previstas na legislação específica, a Sociedade Seguradora que infringir as disposições desta lei.
+Art. 11. A sociedade seguradora que infringir as disposições desta Lei estará sujeita às penalidades previstas no art. 108 do Decreto-Lei nº 73, de 21 de novembro de 1966, de acordo com a gravidade da irregularidade, observado o disposto no art. 118 do referido Decreto-Lei.
