@@ -2,8 +2,10 @@ CAPÍTULO I
 DA REGULARIZAÇÃO E UTILIZAÇÃO ORDENADA
 SEÇÃO I
 Da Celebração de Convênios e Contratos
-SEÇÃO II
-Do Cadastramento das Ocupações
+Seção II
+Do Cadastramento
+Seção II-A
+Da Inscrição da Ocupação
 SEÇÃO III
 Da Fiscalização e Conservação
 SEÇÃO IV
