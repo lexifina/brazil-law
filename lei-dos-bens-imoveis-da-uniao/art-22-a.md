@@ -1,2 +1,3 @@
-Art. 22-A.
-Parágrafo único.
+Art. 22-A. A concessão de uso especial para fins de moradia aplica-se às áreas de propriedade da União, inclusive aos terrenos de marinha e acrescidos, e será conferida aos possuidores ou ocupantes que preencham os requisitos legais estabelecidos na Medida Provisória nº 2.220, de 4 de setembro de 2001.
+§ 1º O direito de que trata o caput deste artigo não se aplica a imóveis funcionais.
+§ 2º Os imóveis sob administração do Ministério da Defesa ou dos Comandos da Marinha, do Exército e da Aeronáutica são considerados de interesse da defesa nacional para efeito do disposto no inciso III do caput do art. 5º da Medida Provisória nº 2.220, de 4 de setembro de 2001, sem prejuízo do estabelecido no § 1º deste artigo.
