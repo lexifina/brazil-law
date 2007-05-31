@@ -1,1 +1,1 @@
-Art. 6º-A.
+Art. 6º-A No caso de cadastramento de ocupações para fins de moradia cujo ocupante seja considerado carente ou de baixa renda, na forma do § 2º do art. 1º do Decreto-Lei nº 1.876, de 15 de julho de 1981, a União poderá proceder à regularização fundiária da área, utilizando, entre outros, os instrumentos previstos no art. 18, no inciso VI do art. 19 e nos arts. 22-A e 31 desta Lei.

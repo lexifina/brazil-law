@@ -7,3 +7,4 @@ V - conceder prazo de carência para início de pagamento das retribuições dev
 a) for necessária a viabilização econômico-financeira do empreendimento;
 b) houver interesse em incentivar atividade pouco ou ainda não desenvolvida no País ou em alguma de suas regiões; ou
 c) for necessário ao desenvolvimento de microempresas, cooperativas e associações de pequenos produtores e de outros segmentos da economia brasileira que precisem ser incrementados.
+VI - permitir a cessão gratuita de direitos enfitêuticos relativos a frações de terrenos cedidos quando se tratar de regularização fundiária ou provisão habitacional para famílias carentes ou de baixa renda.

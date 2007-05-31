@@ -1,1 +1,5 @@
 Art. 29. As condições de que tratam os arts. 12 a 16 e 17, § 3º, poderão, a critério da Administração, ser aplicadas, no que couber, na venda do domínio pleno de imóveis de propriedade da União situados em zonas não submetidas ao regime enfitêutico.
+§ 1º Sem prejuízo do disposto no caput deste artigo, no caso de venda do domínio pleno de imóveis, os ocupantes de boa-fé de áreas da União para fins de moradia não abrangidos pelo disposto no inciso I do § 6º do art. 18 desta Lei poderão ter preferência na aquisição dos imóveis por eles ocupados, nas mesmas condições oferecidas pelo vencedor da licitação, observada a legislação urbanística local e outras disposições legais pertinentes.
+§ 2º A preferência de que trata o § 1º deste artigo aplica-se aos imóveis ocupados até 27 de abril de 2006, exigindo-se que o ocupante:
+I - esteja regularmente inscrito e em dia com suas obrigações para com a Secretaria do Patrimônio da União;
+II - ocupe continuamente o imóvel até a data da publicação do edital de licitação.
