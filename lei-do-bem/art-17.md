@@ -19,3 +19,4 @@ II - o dobro do valor do benefício, nas demais regiões.
 § 8º A quota de depreciação acelerada de que trata o inciso III do caput deste artigo constituirá exclusão do lucro líquido para fins de determinação do lucro real e será controlada em livro fiscal de apuração do lucro real.
 § 9º O total da depreciação acumulada, incluindo a contábil e a acelerada, não poderá ultrapassar o custo de aquisição do bem.
 § 10. A partir do período de apuração em que for atingido o limite de que trata o § 9º deste artigo, o valor da depreciação registrado na escrituração comercial deverá ser adicionado ao lucro líquido para efeito de determinação do lucro real.
+§ 11. As disposições dos §§ 8º, 9º e 10 deste artigo aplicam-se também às quotas de amortização de que trata o inciso IV do caput deste artigo.
