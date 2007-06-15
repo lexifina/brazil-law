@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 747, de 14 de junho de 2007
+Estabelece procedimentos simplificados para a reimportação, reexportação e a aplicação dos regimes aduaneiros especiais de admissão e de exportação temporária de recipientes, embalagens, envoltórios, carretéis, separadores, racks, clip locks, termógrafos e outros bens com finalidade semelhante.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto nos arts. 491, 517, 518, 525 e 534 do Decreto nº 4.543, de 26 de dezembro de 2002, resolve:
