@@ -9,7 +9,7 @@ V - valor das contraprestações de operações de arrendamento mercantil de pes
 VI - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado, adquiridos ou fabricados para locação a terceiros ou para utilização na produção de bens destinados à venda ou na prestação de serviços.
 VII - edificações e benfeitorias em imóveis de terceiros, quando o custo, inclusive de mão-de-obra, tenha sido suportado pela locatária;
 VIII - bens recebidos em devolução, cuja receita de venda tenha integrado faturamento do mês ou de mês anterior, e tributada conforme o disposto nesta Lei.
-IX - energia elétrica consumida nos estabelecimentos da pessoa jurídica.
+IX - energia elétrica e energia térmica, inclusive sob a forma de vapor, consumidas nos estabelecimentos da pessoa jurídica.
 § 1º O crédito será determinado mediante a aplicação da alíquota prevista no caput do art. 2º desta Lei sobre o valor:
 I - dos itens mencionados nos incisos I e II do caput, adquiridos no mês;
 II - dos itens mencionados nos incisos IV, V e IX do caput, incorridos no mês;

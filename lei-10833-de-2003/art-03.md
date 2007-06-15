@@ -3,7 +3,7 @@ I - bens adquiridos para revenda, exceto em relação às mercadorias e aos prod
 a) nos incisos III e IV do § 3º do art. 1º desta Lei; e
 b) no § 1º do art. 2º desta Lei;
 II - bens e serviços, utilizados como insumo na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda, inclusive combustíveis e lubrificantes, exceto em relação ao pagamento de que trata o art. 2º da Lei nº 10.485, de 3 de julho de 2002, devido pelo fabricante ou importador, ao concessionário, pela intermediação ou entrega dos veículos classificados nas posições 87.03 e 87.04 da Tipi;
-III - energia elétrica consumida nos estabelecimentos da pessoa jurídica;
+III - energia elétrica e energia térmica, inclusive sob a forma de vapor, consumidas nos estabelecimentos da pessoa jurídica;
 IV - aluguéis de prédios, máquinas e equipamentos, pagos a pessoa jurídica, utilizados nas atividades da empresa;
 V - valor das contraprestações de operações de arrendamento mercantil de pessoa jurídica, exceto de optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES;
 VI - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado, adquiridos ou fabricados para locação a terceiros, ou para utilização na produção de bens destinados à venda ou na prestação de serviços;

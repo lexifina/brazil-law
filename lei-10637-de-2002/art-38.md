@@ -13,7 +13,7 @@ V - falta ou atraso no cumprimento de obrigação acessória.
 § 5º O período de 5 (cinco) anos-calendário será computado por ano completo, inclusive aquele em relação ao qual dar-se-á o aproveitamento do bônus.
 § 6º A dedução do bônus dar-se-á em relação à CSLL devida no ano-calendário.
 § 7º A parcela do bônus que não puder ser aproveitada em determinado período poderá sê-lo em períodos posteriores, vedado o ressarcimento ou a compensação distinta da referida neste artigo.
-§ 8º A utilização indevida do bônus instituído por este artigo implica a imposição da multa de que trata o inciso II do art. 44 da Lei nº 9.430, de 27 de dezembro de 1996, sem prejuízo do disposto em seu § 2º.
+§ 8º A utilização indevida do bônus instituído por este artigo implica a imposição da multa de que trata o inciso I do caput do art. 44 da Lei nº 9.430, de 27 de dezembro de 1996, duplicando-se o seu percentual, sem prejuízo do disposto no § 2º.
 § 9º O bônus será registrado na contabilidade da pessoa jurídica beneficiária:
 I - na aquisição do direito, a débito de conta de Ativo Circulante e a crédito de Lucro ou Prejuízos Acumulados;
 II - na utilização, a débito da provisão para pagamento da CSLL e a crédito da conta de Ativo Circulante referida no inciso I.

@@ -44,6 +44,7 @@ XIII - preparações compostas não alcoólicas, classificadas no código 2106.9
 I - o disposto no § 10 deste artigo; e
 II - a utilização do benefício da alíquota 0 (zero) de que tratam os incisos I a VII do § 12 deste artigo.
 § 14. Ficam reduzidas a 0 (zero) as alíquotas das contribuições incidentes sobre o valor pago, creditado, entregue, empregado ou remetido à pessoa física ou jurídica residente ou domiciliada no exterior, referente a aluguéis e contraprestações de arrendamento mercantil de máquinas e equipamentos, embarcações e aeronaves utilizados na atividade da empresa.
-§ 15. Na importação de nafta petroquímica, quando efetuada por centrais petroquímicas, as alíquotas são de:
+§ 15. Na importação de etano, propano e butano, destinados à produção de eteno e propeno, e de nafta petroquímica, quando efetuada por centrais petroquímicas, as alíquotas são de:
 I - 1,0% (um por cento), para a Contribuição para o Pis/Pasep-Importação; e
 II - 4,6% (quatro inteiros e seis décimos por cento), para a Cofins-Importação."
+§ 16. Na hipótese da importação de etano, propano e butano de que trata o § 15 deste artigo, não se aplica o disposto no § 8º deste artigo.
