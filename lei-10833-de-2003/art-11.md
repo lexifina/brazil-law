@@ -1,1 +1,1 @@
-Art. 11. A contribuição de que trata o art. 1º deverá ser paga até o último dia útil da 1ª (primeira) quinzena do mês subseqüente ao da ocorrência do fato gerador.
+Art. 11. A contribuição de que trata o art. 1º desta Lei deverá ser paga até o último dia útil do 2º (segundo) decêndio subseqüente ao mês de ocorrência do fato gerador.
