@@ -12,12 +12,12 @@ X - fixar critério e valor de remuneração para o exercício da fiscalização
 XI - divulgar, no Diário Oficial da União, todas as decisões proferidas pelo Conselho, bem como as contas do FGTS e os respectivos pareceres emitidos.
 XII - fixar critérios e condições para compensação entre créditos do empregador, decorrentes de depósitos relativos a trabalhadores não optantes, com contratos extintos, e débitos resultantes de competências em atraso, inclusive aqueles que forem objeto de composição de dívida com o FGTS.
 XIII - em relação ao Fundo de Investimento do Fundo de Garantia do Tempo de Serviço - FI-FGTS:
-a) aprovar a política de investimento do FI-FGTS, por proposta do Comitê de Investimento;
+a) aprovar a política de investimento do FI-FGTS por proposta do Comitê de Investimento;
 b) decidir sobre o reinvestimento ou distribuição dos resultados positivos aos cotistas do FI-FGTS, em cada exercício;
 c) definir a forma de deliberação, de funcionamento e a composição do Comitê de Investimento;
-d) estabelecer o valor da remuneração da Caixa Econômica Federal pela administração e gestão do fundo de investimento;
+d) estabelecer o valor da remuneração da Caixa Econômica Federal pela administração e gestão do FI-FGTS, inclusive a taxa de risco;
 e) definir a exposição máxima de risco dos investimentos do FI-FGTS;
-f) estabelecer o limite máximo de participação dos recursos do FI-FGTS por empreendimento, observados os requisitos técnicos aplicáveis;
-g) estabelecer o prazo mínimo de resgate das cotas e retorno dos recursos à conta vinculada;
+f) estabelecer o limite máximo de participação dos recursos do FI-FGTS por setor, por empreendimento e por classe de ativo, observados os requisitos técnicos aplicáveis;
+g) estabelecer o prazo mínimo de resgate das cotas e de retorno dos recursos à conta vinculada, observado o disposto no § 19 do art. 20 desta Lei;
 h) aprovar o regulamento do FI-FGTS, elaborado pela Caixa Econômica Federal; e
 i) autorizar a integralização de cotas do FI-FGTS pelos trabalhadores, estabelecendo previamente os limites globais e individuais, parâmetros e condições de aplicação e resgate.
