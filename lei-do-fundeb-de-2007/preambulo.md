@@ -1,0 +1,2 @@
+Regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, de que trata o art. 60 do Ato das Disposições Constitucionais Transitórias; altera a Lei nº 10.195, de 14 de fevereiro de 2001; revoga dispositivos das Leis n os 9.424, de 24 de dezembro de 1996, 10.880, de 9 de junho de 2004, e 10.845, de 5 de março de 2004; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:

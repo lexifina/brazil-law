@@ -1,0 +1,2 @@
+Art. 45. O ajuste da distribuição dos recursos referentes ao primeiro trimestre de 2007 será realizado no mês de abril de 2007, conforme a sistemática estabelecida nesta Lei.
+Parágrafo único. O ajuste referente à diferença entre o total dos recursos da alínea a do inciso I e da alínea a do inciso II do § 1º do art. 31 desta Lei e os aportes referentes a janeiro e fevereiro de 2007, realizados na forma do disposto neste artigo, será pago no mês de abril de 2007.

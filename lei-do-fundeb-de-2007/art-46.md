@@ -1,0 +1,1 @@
+Art. 46. Ficam revogados, a partir de 1º de janeiro de 2007, os arts. 1º a 8º e 13 da Lei nº 9.424, de 24 de dezembro de 1996, e o art. 12 da Lei nº 10.880, de 9 de junho de 2004, e o § 3º do art. 2º da Lei nº 10.845, de 5 de março de 2004.

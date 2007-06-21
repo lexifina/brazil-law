@@ -1,0 +1,2 @@
+Art. 38. A União, os Estados, o Distrito Federal e os Municípios deverão assegurar no financiamento da educação básica, previsto no art. 212 da Constituição Federal, a melhoria da qualidade do ensino, de forma a garantir padrão mínimo de qualidade definido nacionalmente.
+Parágrafo único. É assegurada a participação popular e da comunidade educacional no processo de definição do padrão nacional de qualidade referido no caput deste artigo.

@@ -1,0 +1,8 @@
+Art. 13. No exercício de suas atribuições, compete à Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade:
+I - especificar anualmente as ponderações aplicáveis entre diferentes etapas, modalidades e tipos de estabelecimento de ensino da educação básica, observado o disposto no art. 10 desta Lei, levando em consideração a correspondência ao custo real da respectiva etapa e modalidade e tipo de estabelecimento de educação básica, segundo estudos de custo realizados e publicados pelo Inep;
+II - fixar anualmente o limite proporcional de apropriação de recursos pelas diferentes etapas, modalidades e tipos de estabelecimento de ensino da educação básica, observado o disposto no art. 11 desta Lei;
+III - fixar anualmente a parcela da complementação da União a ser distribuída para os Fundos por meio de programas direcionados para a melhoria da qualidade da educação básica, bem como respectivos critérios de distribuição, observado o disposto no art. 7º desta Lei;
+IV - elaborar, requisitar ou orientar a elaboração de estudos técnicos pertinentes, sempre que necessário;
+V - elaborar seu regimento interno, baixado em portaria do Ministro de Estado da Educação.
+§ 1º Serão adotados como base para a decisão da Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade os dados do censo escolar anual mais atualizado realizado pelo Inep.
+§ 2º A Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade exercerá suas competências em observância às garantias estabelecidas nos incisos I, II, III e IV do caput do art. 208 da Constituição Federal e às metas de universalização da educação básica estabelecidas no plano nacional de educação.
