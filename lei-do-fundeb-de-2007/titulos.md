@@ -1,0 +1,27 @@
+CAPÍTULO I
+DISPOSIÇÕES GERAIS
+CAPÍTULO II
+DA COMPOSIÇÃO FINANCEIRA
+Seção I
+Das Fontes de Receita dos Fundos
+Seção II
+Da Complementação da União
+CAPÍTULO III
+DA DISTRIBUIÇÃO DOS RECURSOS
+Seção I
+Disposições Gerais
+Seção II
+Da Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade
+CAPÍTULO IV
+DA TRANSFERÊNCIA E DA GESTÃO DOS RECURSOS
+CAPÍTULO V
+DA UTILIZAÇÃO DOS RECURSOS
+CAPÍTULO VI
+DO ACOMPANHAMENTO, CONTROLE SOCIAL, COMPROVAÇÃO E
+FISCALIZAÇÃO DOS RECURSOS
+CAPÍTULO VII
+DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+Seção I
+Disposições Transitórias
+Seção II
+Disposições Finais
