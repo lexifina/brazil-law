@@ -1,0 +1,1 @@
+Art. 11. A apropriação dos recursos em função das matrículas na modalidade de educação de jovens e adultos, nos termos da alínea c do inciso III do caput do art. 60 do Ato das Disposições Constitucionais Transitórias - ADCT, observará, em cada Estado e no Distrito Federal, percentual de até 15% (quinze por cento) dos recursos do Fundo respectivo.

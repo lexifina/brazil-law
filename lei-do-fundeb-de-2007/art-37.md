@@ -1,0 +1,3 @@
+Art. 37. Os Municípios poderão integrar, nos termos da legislação local específica e desta Lei, o Conselho do Fundo ao Conselho Municipal de Educação, instituindo câmara específica para o acompanhamento e o controle social sobre a distribuição, a transferência e a aplicação dos recursos do Fundo, observado o disposto no inciso IV do § 1º e nos §§ 2º, 3º, 4º e 5º do art. 24 desta Lei.
+§ 1º A câmara específica de acompanhamento e controle social sobre a distribuição, a transferência e a aplicação dos recursos do Fundeb terá competência deliberativa e terminativa.
+§ 2º Aplicar-se-ão para a constituição dos Conselhos Municipais de Educação as regras previstas no § 5º do art. 24 desta Lei.

@@ -1,0 +1,1 @@
+Art. 43. Nos meses de janeiro e fevereiro de 2007, fica mantida a sistemática de repartição de recursos prevista na Lei nº 9.424, de 24 de dezembro de 1996, mediante a utilização dos coeficientes de participação do Distrito Federal, de cada Estado e dos Municípios, referentes ao exercício de 2006, sem o pagamento de complementação da União.
