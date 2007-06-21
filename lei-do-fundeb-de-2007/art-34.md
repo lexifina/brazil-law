@@ -1,0 +1,1 @@
+Art. 34. Os conselhos dos Fundos serão instituídos no prazo de 60 (sessenta) dias contados da vigência dos Fundos, inclusive mediante adaptações dos conselhos do Fundef existentes na data de publicação desta Lei.
