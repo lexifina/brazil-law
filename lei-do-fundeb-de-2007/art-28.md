@@ -1,0 +1,1 @@
+Art. 28. O descumprimento do disposto no art. 212 da Constituição Federal e do disposto nesta Lei sujeitará os Estados e o Distrito Federal à intervenção da União, e os Municípios à intervenção dos respectivos Estados a que pertencem, nos termos da alínea e do inciso VII do caput do art. 34 e do inciso III do caput do art. 35 da Constituição Federal.

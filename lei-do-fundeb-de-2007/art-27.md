@@ -1,0 +1,2 @@
+Art. 27. Os Estados, o Distrito Federal e os Municípios prestarão contas dos recursos dos Fundos conforme os procedimentos adotados pelos Tribunais de Contas competentes, observada a regulamentação aplicável.
+Parágrafo único. As prestações de contas serão instruídas com parecer do conselho responsável, que deverá ser apresentado ao Poder Executivo respectivo em até 30 (trinta) dias antes do vencimento do prazo para a apresentação da prestação de contas prevista no caput deste artigo.

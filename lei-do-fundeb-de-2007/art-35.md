@@ -1,0 +1,1 @@
+Art. 35. O Ministério da Educação deverá realizar, em 5 (cinco) anos contados da vigência dos Fundos, fórum nacional com o objetivo de avaliar o financiamento da educação básica nacional, contando com representantes da União, dos Estados, do Distrito Federal, dos Municípios, dos trabalhadores da educação e de pais e alunos.
