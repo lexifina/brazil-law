@@ -7,4 +7,5 @@ V - o servidor tenha se mudado do local de residência para ocupar cargo em comi
 VI - o Município no qual assuma o cargo em comissão ou função de confiança não se enquadre nas hipóteses do art. 58, § 3º, em relação ao local de residência ou domicílio do servidor;
 VII - o servidor não tenha sido domiciliado ou tenha residido no Município, nos últimos doze meses, aonde for exercer o cargo em comissão ou função de confiança, desconsiderando-se prazo inferior a sessenta dias dentro desse período; e
 VIII - o deslocamento não tenha sido por força de alteração de lotação ou nomeação para cargo efetivo.
+IX - o deslocamento tenha ocorrido após 30 de junho de 2006.
 Parágrafo único. Para fins do inciso VII, não será considerado o prazo no qual o servidor estava ocupando outro cargo em comissão relacionado no inciso V.
