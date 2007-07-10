@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 752, de 9 de julho de 2007
+Dispõe sobre o tratamento tributário aplicável na hipótese de mudança do regime de reconhecimento das receitas em função do recebimento para o regime de competência referente ao ano-calendário de 2007.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria nº 95, de 30 de abril de 2007, e tendo em vista o disposto no art. 13 da Lei nº 9.718, de 27 de novembro de 1998, e na Lei Complementar nº 123, de 14 de dezembro de 2006, resolve:
