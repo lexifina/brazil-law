@@ -1,0 +1,4 @@
+Ato Declaratório Interpretativo RFB nº 12, de 9 de julho de 2007
+Dispõe sobre a aplicação do regime aduaneiro especial de drawback para fornecimento no mercado interno.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 225 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no Parecer PGFN/CJU nº 515, de 15 de março de 2007, declara:
+Artigo único. O regime aduaneiro especial de drawback, na modalidade prevista no art. 5º da Lei nº 8.032, de 12 de abril de 1990, com a redação dada pela Lei nº 10.184, de 12 de fevereiro de 2001, somente se aplica quando o compromisso de fornecimento dos bens no mercado interno decorrer de concorrência pública internacional, conforme disciplinada na Lei nº 8.666, de 21 de junho de 1993.
