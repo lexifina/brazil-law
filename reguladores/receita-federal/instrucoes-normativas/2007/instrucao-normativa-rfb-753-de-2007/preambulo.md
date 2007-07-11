@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 753, de 10 de julho de 2007
+Estabelece normas para a tributação dos cigarros, classificados no código 2402.20.00 da Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF no 95, de 30 de abril de 2007, e tendo em vista o disposto no Decreto nº 4.544, de 26 de dezembro de 2002, Regulamento do Imposto sobre Produtos Industrializados (RIPI), e no Decreto nº 6.072, de 3 de abril de 2007, resolve:
