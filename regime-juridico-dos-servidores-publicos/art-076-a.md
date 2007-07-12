@@ -7,7 +7,7 @@ IV - participar da aplicação, fiscalizar ou avaliar provas de exame vestibular
 I - o valor da gratificação será calculado em horas, observadas a natureza e a complexidade da atividade exercida;
 II - a retribuição não poderá ser superior ao equivalente a 120 (cento e vinte) horas de trabalho anuais, ressalvada situação de excepcionalidade, devidamente justificada e previamente aprovada pela autoridade máxima do órgão ou entidade, que poderá autorizar o acréscimo de até 120 (cento e vinte) horas de trabalho anuais;
 III - o valor máximo da hora trabalhada corresponderá aos seguintes percentuais, incidentes sobre o maior vencimento básico da administração pública federal:
-a) 2,2% (dois inteiros e dois décimos por cento), em se tratando de atividade prevista no inciso I do caput deste artigo;
-b) 1,2% (um inteiro e dois décimos por cento), em se tratando de atividade prevista nos incisos II a IV do caput deste artigo.
+a) 2,2% (dois inteiros e dois décimos por cento), em se tratando de atividades previstas nos incisos I e II do caput deste artigo;
+b) 1,2% (um inteiro e dois décimos por cento), em se tratando de atividade prevista nos incisos III e IV do caput deste artigo.
 § 2º A Gratificação por Encargo de Curso ou Concurso somente será paga se as atividades referidas nos incisos do caput deste artigo forem exercidas sem prejuízo das atribuições do cargo de que o servidor for titular, devendo ser objeto de compensação de carga horária quando desempenhadas durante a jornada de trabalho, na forma do § 4º do art. 98 desta Lei.
 § 3º A Gratificação por Encargo de Curso ou Concurso não se incorpora ao vencimento ou salário do servidor para qualquer efeito e não poderá ser utilizada como base de cálculo para quaisquer outras vantagens, inclusive para fins de cálculo dos proventos da aposentadoria e das pensões.
