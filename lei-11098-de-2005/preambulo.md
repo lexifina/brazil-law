@@ -1,0 +1,2 @@
+Atribui ao Ministério da Previdência Social competências relativas à arrecadação, fiscalização, lançamento e normatização de receitas previdenciárias, autoriza a criação da Secretaria da Receita Previdenciária no âmbito do referido Ministério; altera as Leis nºs 8.212, de 24 de julho de 1991, 10.480, de 2 de julho de 2002, 10.683, de 28 de maio de 2003; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
