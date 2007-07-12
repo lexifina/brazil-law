@@ -1,0 +1,2 @@
+Modifica as competências e a estrutura organizacional da fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES, de que trata a Lei nº 8.405, de 9 de janeiro de 1992; e altera as Leis nos 8.405, de 9 de janeiro de 1992, e 11.273, de 6 de fevereiro de 2006, que autoriza a concessão de bolsas de estudo e de pesquisa a participantes de programas de formação inicial e continuada de professores para a educação básica.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
