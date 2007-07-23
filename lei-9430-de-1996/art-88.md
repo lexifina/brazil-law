@@ -14,7 +14,6 @@ XII - o Decreto-lei nº 2.227, de 16 de janeiro de 1985;
 XIII - os arts. 29 e 30 do Decreto-lei nº 2.341, de 29 de junho de 1987;
 XIV - os arts. 1º e 2º do Decreto-lei nº 2.397, de 21 de dezembro de 1987;
 XV - o art. 8º do Decreto-lei nº 2.429, de 14 de abril de 1988;
-XVI - o inciso II do art. 11 do Decreto-lei nº 2.452, de 29 de julho de 1988
 XVII - o art. 40 da Lei nº 7.799, de 10 de julho de 1989;
 XVIII - o § 5º do art. 6º da Lei nº 8.021, de 1990;
 XIX - o art. 22 da Lei nº 8.218, de 29 de agosto de 1991;
