@@ -13,3 +13,4 @@ II - produtos destinados à exportação pela pessoa jurídica preponderantement
 § 7º Para fins do disposto no inciso II do § 6º-A deste artigo, o frete deverá referir-se ao transporte dos produtos até o ponto de saída do território nacional.
 § 8º O disposto no inciso II do § 6º-A deste artigo aplica-se também na hipótese de vendas a empresa comercial exportadora, com fim específico de exportação.
 § 9º Deverá constar da nota fiscal a indicação de que o produto transportado destina-se à exportação ou à formação de lote com a finalidade de exportação, condição a ser comprovada mediante o Registro de Exportação - RE.
+§ 10. O percentual de que trata o § 1º deste artigo fica reduzido a sessenta por cento no caso de pessoa jurídica cuja receita de exportação dos produtos relacionados nos incisos do caput do art. 1º da Medida Provisória nº 382, de 24 de julho de 2007, for igual ou superior a noventa por cento do total das receitas de exportação.
