@@ -1,0 +1,4 @@
+Instrução Normativa RFB nº 758, de 25 de julho de 2007
+Dispõe sobre o Regime Especial de Incentivos para o Desenvolvimento da Infra-Estrutura (Reidi).
+O SECRETÁRIO RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto nos arts. 1º a 5º da Lei no 11.488, de 15 de junho de 2007, e no art. 16 do Decreto nº 6.144, de 3 de julho de 2007, resolve:
+Do Âmbito de Aplicação
