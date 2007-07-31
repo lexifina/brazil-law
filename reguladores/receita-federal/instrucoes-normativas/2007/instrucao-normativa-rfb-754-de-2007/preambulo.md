@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 754, de 13 de julho de 2007
+Altera a Instrução Normativa SRF nº 727, de 1º de março de 2007, que dispõe sobre o despacho aduaneiro de bens procedentes do exterior destinados à utilização nos XV Jogos Pan-americanos Rio 2007 e nos Jogos Parapan-americanos Rio 2007.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto nos arts. 323, 518 e 534 do Decreto nº 4.543, de 26 de dezembro de 2002, resolve:
