@@ -1,0 +1,9 @@
+# Lei Complementar nº 98, de 6 de agosto de 2007, do Estado de Minas Gerais
+
+DISPÕE SOBRE A APOSENTADORIA ESPECIAL DO SERVIDOR POLICIAL CIVIL,
+MEDIANTE ALTERAÇÃO DA LEI COMPLEMENTAR Nº 84, DE 25 DE JULHO DE 2005,
+QUE MODIFICA A ESTRUTURA DAS CARREIRAS POLICIAIS CIVIS, CRIA A CARREIRA
+DE AGENTE DE POLÍCIA E CRIA CARGOS NO QUADRO DE PESSOAL DA POLÍCIA
+CIVIL.
+
+Fonte: ALMG, Legislação Mineira (Dados Abertos), <https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/LCP/98/2007?formato=json>
