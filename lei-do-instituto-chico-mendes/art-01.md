@@ -1,0 +1,7 @@
+Art. 1º Fica criado o Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes, autarquia federal dotada de personalidade jurídica de direito público, autonomia administrativa e financeira, vinculada ao Ministério do Meio Ambiente, com a finalidade de:
+I - executar ações da política nacional de unidades de conservação da natureza, referentes às atribuições federais relativas à proposição, implantação, gestão, proteção, fiscalização e monitoramento das unidades de conservação instituídas pela União;
+II - executar as políticas relativas ao uso sustentável dos recursos naturais renováveis e ao apoio ao extrativismo e às populações tradicionais nas unidades de conservação de uso sustentável instituídas pela União;
+III - fomentar e executar programas de pesquisa, proteção, preservação e conservação da biodiversidade e de educação ambiental;
+IV - exercer o poder de polícia ambiental para a proteção das unidades de conservação instituídas pela União; e
+V - promover e executar, em articulação com os demais órgãos e entidades envolvidos, programas recreacionais, de uso público e de ecoturismo nas unidades de conservação, onde estas atividades sejam permitidas.
+Parágrafo único. O disposto no inciso IV do caput deste artigo não exclui o exercício supletivo do poder de polícia ambiental pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA.
