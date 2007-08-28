@@ -1,0 +1,2 @@
+Art. 13. A responsabilidade técnica, administrativa e judicial sobre o conteúdo de parecer técnico conclusivo visando à emissão de licença ambiental prévia por parte do Ibama será exclusiva de órgão colegiado do referido Instituto, estabelecido em regulamento.
+Parágrafo único. Até a regulamentação do disposto no caput deste artigo, aplica-se ao licenciamento ambiental prévio a legislação vigente na data de publicação desta Lei.
