@@ -1,0 +1,1 @@
+Art. 14. Os órgãos públicos incumbidos da elaboração de parecer em processo visando à emissão de licença ambiental deverão fazê-lo em prazo a ser estabelecido em regulamento editado pela respectiva esfera de governo.
