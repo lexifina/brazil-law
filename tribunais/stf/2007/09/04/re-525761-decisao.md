@@ -1,0 +1,123 @@
+DECISÃO
+TRIBUTÁRIO. CONTRIBUIÇÃO PARA O
+   FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS. REVOGAÇÃO DE ISENÇÃO
+   POR LEI ORDINÁRIA. RECURSO DA UNIÃO PROVIDO. SEGUIMENTO NEGADO
+   AO RECURSO DA 1ª RECORRENTE.
+Relatório
+1. Recurso
+   Extraordinário interposto pela O.P.F. Contabilidade S/C Ltda. com
+   fundamento no art. 102, inc. III, alínea a, da Constituição da
+   República, contra acórdão do Tribunal Regional Federal da 3ª
+   Região.
+Esse órgão judicial indeferiu pedido a ele
+   encaminhado para desobrigar a ora 1ª Recorrente do recolhimento
+   da Contribuição para o Financiamento da Seguridade Social -
+   Cofins.
+O fundamento do acórdão recorrido é o de que não
+   teria havido ofensa à Constituição da República com a revogação
+   pela Lei n. 9.430/96 da isenção determinada pela Lei Complementar
+   n. 70/91, em razão da adjetivação juridicamente ordinária de que
+   se dota o objeto de suas normas.
+A Recorrente alega que
+   teria havido ofensa ao princípio constitucional da hierarquia das
+   leis com a revogação da isenção estabelecida pelo art. 6º da Lei
+   Complementar n. 70/91, por ser aquela lei ordinária.
+2. 2.
+   O segundo Recurso Extraordinário interposto é contra a decisão
+   do Superior Tribunal de Justiça que deu provimento ao recurso
+   especial, apresentado, simultaneamente ao recurso extraordinário
+   pela 1ª Recorrente, para desobrigar a sociedade civil do
+   recolhimento da Contribuição para o Financiamento da Seguridade
+   Social - Cofins. Contra essa decisão do Superior Tribunal de
+   Justiça é que a União interpõe recurso extraordinário com base no
+   art. 102, inc. III, alínea a, da Constituição da República.
+Sustenta que não teria havido ofensa ao princípio
+   constitucional da hierarquia das leis com a revogação da isenção
+   estabelecida pelo art. 6º da Lei Complementar n. 70/91, pois esta
+   seria materialmente ordinária.
+Apreciada a matéria posta
+   em exame, DECIDO.
+3. Razão jurídica assiste à União.
+Pela identidade de elementos e tese debatidos no presente caso
+   com muitos outros já apreciados e decididos, tem ele solução
+   judicial antecipada, pela pacífica jurisprudência assentada pelo
+   Supremo Tribunal Federal, amplamente divulgada, conhecida e
+   reconhecida.
+4. O Supremo Tribunal Federal já decidiu ser a
+   Lei Complementar n. 70/91 materialmente ordinária pelo que o
+   tema prescinde de lei formalmente complementar para ser alterado.
+Confira-se, a propósito, excerto do voto do Ministro
+   Moreira Alves no julgamento da Ação Declaratória de
+   Constitucionalidade n. 1-DF (DJ 16.6.1995):
+"(...) Sucede,
+   porém, que a contribuição social em causa, incidente sobre o
+   faturamento dos empregadores, é admitida expressamente pelo
+   inciso I do artigo 195 da Carta Magna, não se podendo pretender,
+   portanto, que a Lei Complementar nº 70/91 tenha criado outra
+   fonte de renda destinada a garantir a manutenção ou a expansão da
+   seguridade social. Por isso mesmo, essa contribuição poderia ser
+   instituída por Lei ordinária. A circunstância de ter sido por
+   lei formalmente complementar - a Lei Complementar nº 70/91 - não
+   lhe dá, evidentemente, a natureza de contribuição nova, a que se
+   aplicaria o disposto no § 4º do artigo 195 da Constituição,
+   enquanto essa lei, com relação aos dispositivos concernentes à
+   contribuição social por ela instituída - que são objeto dessa
+   ação -, é materialmente ordinária, por não tratar, nesse
+   particular, de matéria reservada, por texto expresso da
+   Constituição, à lei complementar. A jurisprudência desta Corte,
+   sob o império da Emenda Constitucional nº 1/69 - e a Constituição
+   atual não alterou esse sistema -, se firmou no sentido de que só
+   se exige lei complementar para as matérias para cuja disciplina
+   a Constituição expressamente faz tal exigência, e, se porventura
+   a matéria, disciplinada por lei cujo processo legislativo
+   observado tenha sido o da lei complementar, não seja daquelas
+   para que a Carta Magna exige essa modalidade legislativa, os
+   dispositivos que tratam dela se têm como dispositivos de lei
+   ordinária" (grifos nossos).
+E ainda: AI 521.948, Rel. Min.
+   Cezar Peluso, DJ 23.6.2006; AI 591.923, Rel. Min. Cezar Peluso,
+   DJ 8.6.2006; e AI 526.159, Rel. Min. Cezar Peluso, DJ 27.3.2006.
+Conquanto essa matéria tenha voltado a ser objeto de
+   discussão no Plenário deste Supremo Tribunal, no julgamento dos
+   Recursos Extraordinários ns. 377.457 e 381.964, Rel. Min. Gilmar
+   Mendes, não há qualquer tendência à mudança da orientação fixada,
+   mesmo estando aqueles processos com o seu julgamento suspenso em
+   razão do pedido de vista do Min. Marco Aurélio.
+É que
+   nesse julgamento já foram proferidos oito votos confirmando a
+   orientação jurisprudencial sedimentada no sentido de que a Lei
+   Complementar n. 70, de 1991, tem natureza de lei ordinária, para
+   os fins específicos da fixação da isenção e, portanto, poderia
+   ter sido revogada, como o foi, pelo art. 56 da Lei n. 9.430, de
+   1996.
+Recentemente, por exemplo, em decisão monocrática, o
+   Min. Sepúlveda Pertence deferiu, ad referendum, a antecipação de
+   tutela em recurso extraordinário, para sobrestar os efeitos do
+   mandado de segurança concedido pelo Tribunal Regional Federal da
+   Primeira Região, pelo qual se garantia a escritórios de advocacia
+   a isenção da Contribuição para o Financiamento da Seguridade
+   Social - Cofins (AC 1.589, DJ 21.3.2007).
+5. Dessa
+   orientação pacificada divergiu o Superior Tribunal de Justiça ao
+   exarar a decisão, ora recorrida, e não divergiu o Tribunal
+   Regional Federal da 3ª Região.
+6. Pelo exposto, com
+   fundamento no art. 557, 1º-A, do Código de Processo Civil e no
+   art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal,
+   dou provimento ao recurso extraordinário da União, para reformar
+   o acórdão do Superior Tribunal de Justiça, segundo o qual
+   continuaria eficaz a isenção prevista na Lei Complementar n.
+   70/91 pela inocorrência de sua revogação, por contrariar o que
+   decidiu o Supremo Tribunal.
+7. Nego seguimento ao recurso
+   extraordinário da O.P.F. Contabilidade S/C Ltda. (art. 557,
+   caput, do Código de Processo Civil e art. 21, § 1º, do Regimento
+   Interno do Supremo Tribunal Federal).
+Ficam invertidos os
+   ônus da sucumbência, ressalvada eventual concessão de justiça
+   gratuita.
+Publique-se.
+Brasília, 4 de setembro de
+   2007.
+Ministra CÁRMEN LÚCIA
+Relatora
