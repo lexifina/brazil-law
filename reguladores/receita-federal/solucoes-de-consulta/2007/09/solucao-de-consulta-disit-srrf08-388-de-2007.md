@@ -1,0 +1,9 @@
+Solução de Consulta Disit/SRRF08 nº 388, de 7 de agosto de 2007
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+ISENÇÕES. ASSOCIAÇÕES CIVIS. APLICAÇÃO DE RECURSOS. São isentas do IRPJ as associações civis que prestem os serviços para os quais houverem sido instituídas e os coloquem à disposição do grupo de pessoas a que se destinam, sem fins lucrativos, observadas as condições estabelecidas nos parágrafos 2º a 5ºdo art. 174 do Decreto nº 3000, de 1999, Regulamento do Imposto de Renda em vigor. O gozo dessa isenção está, portanto, condicionado ao cumprimento pela respectiva entidade dos requisitos constantes do parágrafo 3º, incisos I a V, do art. 170 do mesmo regulamento, entre eles, conforme o inciso II desse dispositivo, o de aplicar integralmente seus recursos na manutenção e desenvolvimento de seus objetivos sociais. Não foi expressamente estabelecida para o gozo da isenção a obrigatoriedade de que tal aplicação de recursos se dê integralmente no País. Todavia, a eventual aplicação de recursos no exterior, embora em tese admissível, deve ser encarada com reservas e analisada em face das particularidades de cada caso concreto, sendo sua plausibilidade dependente de estar em estrita consonância com a execução dos objetivos sociais a que se propõe a respectiva entidade, pois, do contrário, não será satisfeita a própria essência do inciso II, acarretando a perda do benefício
+Dispositivos Legais: Constituição Federal de 1988, art. 150, inciso VI, "c", Lei nº 5.172, de 1966, art. 14; Lei nº 9.532, de 1997, arts. 12 e 15; Decreto nº 3000, de 1999, arts. 170 e 174
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+ISENÇÕES. ASSOCIAÇÕES CIVIS. As isenções do IRPJ instituídas pelo art. 15 da Lei nº 9.532, de 1997, observadas as mesmas condições e requisitos, aplicam-se também à CSLL.
+Dispositivos Legais: Lei nº 9.532, de 1997, art. 15, parágrafo 1º.
+Novo segmento
+[arquivo anexo: SC SRRF08-Disit nº 388-2007.pdf]
