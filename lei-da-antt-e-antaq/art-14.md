@@ -10,6 +10,8 @@ c) a construção e operação de terminais de uso privativo, conforme disposto 
 d) (VETADO)
 e) o transporte aquaviário;
 f) o transporte ferroviário não regular de passageiros, não associado à exploração da infra-estrutura.
+g) a construção e exploração de Estações de Transbordo de Cargas;
+h) a construção e exploração de Instalação Portuária Pública de Pequeno Porte;
 IV - depende de permissão:
 a) o transporte rodoviário coletivo regular de passageiros;
 b) o transporte ferroviário regular de passageiros não associado à infra-estrutura.

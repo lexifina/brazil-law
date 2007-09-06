@@ -3,7 +3,7 @@ I - promover estudos específicos de demanda de transporte aquaviário e de serv
 II - promover estudos aplicados às definições de tarifas, preços e fretes, em confronto com os custos e os benefícios econômicos transferidos aos usuários pelos investimentos realizados;
 III - propor:
 a) ao Ministério dos Transportes o plano geral de outorgas de exploração da infra-estrutura aquaviária e portuária fluvial e lacustre, excluídos os portos outorgados às companhias docas, e de prestação de serviços de transporte aquaviário; e
-b) à Secretaria Especial de Portos da Presidência da República o plano geral de outorgas de exploração da infra-estrutura portuária marítima e dos portos outorgados às companhias docas;
+b) à Secretaria Especial de Portos da Presidência da República o plano geral de outorgas de exploração da infra-estrutura e da superestrutura dos portos e terminais portuários marítimos, bem como dos outorgados às companhias docas;
 IV - elaborar e editar normas e regulamentos relativos à prestação de serviços de transporte e à exploração da infra-estrutura aquaviária e portuária, garantindo isonomia no seu acesso e uso, assegurando os direitos dos usuários e fomentando a competição entre os operadores;
 V - celebrar atos de outorga de permissão ou autorização de prestação de serviços de transporte pelas empresas de navegação fluvial, lacustre, de travessia, de apoio marítimo, de apoio portuário, de cabotagem e de longo curso, observado o disposto nos art. 13 e 14, gerindo os respectivos contratos e demais instrumentos administrativos;
 VI - reunir, sob sua administração, os instrumentos de outorga para exploração de infra-estrutura e de prestação de serviços de transporte aquaviário celebrados antes da vigência desta Lei, resguardando os direitos das partes;
@@ -26,6 +26,8 @@ XXII - autorizar a construção e a exploração de terminais portuários de uso
 XXIII - adotar procedimentos para a incorporação ou desincorporação de bens, no âmbito das outorgas;
 XXIV - autorizar as empresas brasileiras de navegação de longo curso, de cabotagem, de apoio marítimo, de apoio portuário, fluvial e lacustre, o afretamento de embarcações estrangeiras para o transporte de carga, conforme disposto na Lei nº 9.432, de 8 de janeiro de 1997;
 XXV - celebrar atos de outorga de concessão para a exploração da infra-estrutura aquaviária e portuária, gerindo e fiscalizando os respectivos contratos e demais instrumentos administrativos.
+XXVI - celebrar atos de outorga de autorização para construção e exploração de Estação de Transbordo de Carga;
+XXVII - celebrar atos de outorga de autorização para construção e exploração de Instalação Portuária Pública de Pequeno Porte.
 § 1º No exercício de suas atribuições a ANTAQ poderá:
 I - firmar convênios de cooperação técnica e administrativa com órgãos e entidades da Administração Pública Federal, dos Estados, do Distrito Federal e dos Municípios, tendo em vista a descentralização e a fiscalização eficiente das outorgas;
 II - participar de foros internacionais, sob a coordenação do Ministério dos Transportes.
