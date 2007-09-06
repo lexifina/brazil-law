@@ -1,7 +1,7 @@
 Art. 23. Constituem a esfera de atuação da ANTAQ:
 I - a navegação fluvial, lacustre, de travessia, de apoio marítimo, de apoio portuário, de cabotagem e de longo curso;
-II - os portos organizados;
-III - os terminais portuários privativos;
+II - os portos organizados e as Instalações Portuárias Públicas de Pequeno Porte;
+III - os terminais portuários privativos e as Estações de Transbordo de Cargas;
 IV - o transporte aquaviário de cargas especiais e perigosas.
 V - a exploração da infra-estrutura aquaviária federal.
 § 1º A ANTAQ articular-se-á com as demais Agências, para resolução das interfaces do transporte aquaviário com as outras modalidades de transporte, visando à movimentação intermodal mais econômica e segura de pessoas e bens.
