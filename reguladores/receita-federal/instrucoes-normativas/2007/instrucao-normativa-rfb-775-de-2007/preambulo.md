@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 775, de 14 de setembro de 2007
+Aprova o programa gerador e as instruções de preenchimento da Declaração Simplificada da Pessoa Jurídica - Simples 2008 (DSPJ - Simples 2008), relativa ao exercício de 2008.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no art. 7º da Lei nº 9.317, de 5 de dezembro de 1996, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
