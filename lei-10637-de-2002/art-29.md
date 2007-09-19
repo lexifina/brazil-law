@@ -12,4 +12,3 @@ II - pessoas jurídicas preponderantemente exportadoras.
 § 7º Para os fins do disposto neste artigo, as empresas adquirentes deverão:
 I - atender aos termos e às condições estabelecidos pela Secretaria da Receita Federal;
 II - declarar ao vendedor, de forma expressa e sob as penas da lei, que atende a todos os requisitos estabelecidos.
-§ 8º O percentual de que trata o § 3º deste artigo fica reduzido a sessenta por cento no caso de pessoa jurídica cuja receita de exportação dos produtos relacionados nos incisos do caput do art. 1º da Medida Provisória nº 382, de 24 de julho de 2007, for igual ou superior a noventa por cento do total das receitas de exportação.
