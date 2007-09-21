@@ -1,4 +1,4 @@
 Art. 5º O certificado de Registro de Arma de Fogo, com validade em todo o território nacional, autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou dependência desses, ou, ainda, no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa.
 § 1º O certificado de registro de arma de fogo será expedido pela Polícia Federal e será precedido de autorização do Sinarm.
 § 2º Os requisitos de que tratam os incisos I, II e III do art. 4º deverão ser comprovados periodicamente, em período não inferior a 3 (três) anos, na conformidade do estabelecido no regulamento desta Lei, para a renovação do Certificado de Registro de Arma de Fogo.
-§ 3º Os registros de propriedade, expedidos pelos órgãos estaduais, realizados até a data da publicação desta Lei, deverão ser renovados mediante o pertinente registro federal no prazo máximo de 3 (três) anos.
+§ 3º Os registros de propriedade expedidos pelos órgãos estaduais, realizados até a data da publicação desta Lei, deverão ser renovados mediante o pertinente registro federal até o dia 2 de julho de 2008.
