@@ -1,0 +1,1 @@
+Art. 95. Os nascidos no estrangeiro entre 7 de junho de 1994 e a data da promulgação desta Emenda Constitucional, filhos de pai brasileiro ou mãe brasileira, poderão ser registrados em repartição diplomática ou consular brasileira competente ou em ofício de registro, se vierem a residir na República Federativa do Brasil.
