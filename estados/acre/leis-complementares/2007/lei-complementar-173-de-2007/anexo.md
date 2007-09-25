@@ -1,0 +1,89 @@
+ANEXO I
+
+TABELA DE ENQUADRAMENTO DOS GRUPOS DA FUNDHACRE NOS GRUPOS DA SESACRE
+
+GRUPO FUNDHACRE
+
+GRUPO CORRESPONDENTE NA SESACRE
+
+I e II
+
+I
+
+III
+
+II
+
+IV e V
+
+III
+
+ANEXO II
+
+Grupo IV – FUNDHACRE
+
+REFERÊNCIA
+
+A
+
+B
+
+C
+
+D
+
+E
+
+ENQUADRAMENTO
+
+Ref. 1 a 2
+
+Ref. 3 e 4
+
+Ref. 5 e 6
+
+Ref. 7 e 8
+
+Ref. 9 e 10
+
+SALÁRIO BASE
+
+1.555,00
+
+1.710,50
+
+1.866,00
+
+2.021,00
+
+2.177,00
+
+F
+
+G
+
+H
+
+I
+
+J
+
+Ref. 11 e 12
+
+Ref. 13 e 14
+
+Ref. 15 e 16
+
+Ref. 17 e 18
+
+Ref. 19 e 20
+
+2.332,00
+
+2.488,00
+
+2.643,00
+
+2.799,00
+
+2.954,00
