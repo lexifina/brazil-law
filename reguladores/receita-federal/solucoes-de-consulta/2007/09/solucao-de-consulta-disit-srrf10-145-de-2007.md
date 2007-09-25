@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF10 nº 145, de 17 de agosto de 2007
+ASSUNTO: Outros Tributos ou Contribuições EMENTA: CONTRIBUIÇÃO PARA O PIS/PASEP-IMPORTAÇÃO. COFINS-IMPORTAÇÃO. INTERMEDIAÇÃO DE VENDAS NA EXPORTAÇÃO. PRESTADOR DOMICILIADO NO EXTERIOR. NÃO-INCIDÊNCIA. Não há incidência da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação na prestação, por pessoas físicas ou jurídicas domiciliadas no exterior, de serviços de intermediação de vendas, remunerados mediante comissões, concernentes às exportações realizadas pela pessoa jurídica. DISPOSITIVOS LEGAIS: Lei nº 10.865, de 2004, art. 1º, § 1º.
+[arquivo anexo: SC SRRF10-Disit nº 145-2007.pdf]
