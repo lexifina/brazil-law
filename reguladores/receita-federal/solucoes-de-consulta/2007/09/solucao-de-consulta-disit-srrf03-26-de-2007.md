@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF03 nº 26, de 30 de julho de 2007
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO IMPORTAÇÃO DE BENS. REGIME DE ADMISSÃO TEMPORÁRIA. DESTINAÇÃO. Somente é admissível a aplicação do regime de admissão temporária de bens, com suspensão do pagamento dos tributos incidentes na importação, quanto aos bens cuja destinação encontra-se prevista nos termos da legislação tributária. DISPOSITIVOS LEGAIS: Decreto-Lei nº 37, de 18 de novembro de 1966, art. 75; Decreto nº 4.543, de 26 de dezembro de 2002, arts. 308 e 323; e Instrução Normativa SRF nº 285, de 14 de janeiro de 2003, art. 4º.
+[arquivo anexo: SC SRRF03-Disit nº 26-2007.pdf]
