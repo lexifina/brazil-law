@@ -1,0 +1,2 @@
+Altera o art. 12 da Lei nº 10.666, de 8 de maio de 2003, tratando do prazo para apresentação de dados para fins de compensação financeira entre o regime geral de previdência social e os regimes próprios de previdência social, e o art. 4º da Lei nº 11.354, de 19 de outubro de 2006; e prorroga o prazo a que se refere o art. 33 da Lei nº 11.457, de 16 de março de 2007.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
