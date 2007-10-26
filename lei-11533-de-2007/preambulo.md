@@ -1,0 +1,2 @@
+Dá nova redação ao caput do art. 5º da Lei nº 10.195, de 14 de fevereiro de 2001, que institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 378, de 2007, que o Congresso Nacional aprovou, e eu, Alvaro Dias, Segundo Vice-Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
