@@ -1,0 +1,7 @@
+Solução de Consulta Cosit nº 10, de 26 de outubro de 2007
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+EMENTA: OPERAÇÃO DE DESMUTUALIZAÇÃO DAS BOLSAS DE VALORES. O instituto da cisão, disciplinado nos arts. 229 e segs. da Lei nº 6.404, de 1976, e no art. 1.122 da Lei nº 10.406, de 2002, só é aplicável às pessoas jurídicas de direito privado constituídas sob a forma de sociedade. Às bolsas de valores constituídas sob a forma de associações se aplica o regime jurídico estatuído nos arts. 53 a 61 da Lei nº 10.406, de 2002 (Código Civil de 2002). O art. 61 da Lei nº 10.406, de 2002, veda a destinação de qualquer parcela do patrimônio das bolsas de valores, constituídas sob a forma de associações, a entes com finalidade lucrativa. As sociedades corretoras devem avaliar as cotas ou frações ideais das bolsas de valores pelo custo de aquisição. O fato de a operação de "desmutualização" de associações não encontrar amparo no ordenamento jurídico não obsta a incidência do imposto de renda sobre a diferença entre o valor nominal das ações (da sociedade) recebidas pelos associados (sociedades corretoras) e o custo de aquisição das cotas ou frações ideais representativo do patrimônio segregado das bolsas de valores.
+DISPOSITIVOS LEGAIS: Lei nº 10.406, de 2002, art. 61; Lei nº 9.532, de 1997, arts. 16 e 17.
+[arquivo anexo: SC Cosit nº 10-2007.pdf]
+ADALTO LACERDA DA SILVA
+Coordenadora-Geral
