@@ -1,0 +1,2 @@
+Cria mil novecentos e cinqüenta e um cargos da Carreira da Previdência, da Saúde e do Trabalho, para o Quadro do Ministério do Trabalho e Emprego e extingue dois mil, cento e noventa e um cargos vagos disponíveis no Sistema de Pessoal Civil da Administração Federal - SIPEC, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
