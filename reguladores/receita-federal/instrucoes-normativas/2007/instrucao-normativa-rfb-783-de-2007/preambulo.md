@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 783, de 19 de novembro de 2007
+Altera a Instrução Normativa RFB nº 770, de 21 de agosto de 2007, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF no 95, de 30 de abril de 2007, e tendo em vista o disposto no art. 60 da Lei nº 11.196, de 21 de novembro de 2005, no art. 28, § 4º, da Lei nº 11.488, de 15 de junho de 2007, e nos arts. 223, 242 e 261 do Decreto nº 4.544, de 26 de dezembro de 2002, Regulamento do Imposto sobre Produtos Industrializados (RIPI), resolve:
