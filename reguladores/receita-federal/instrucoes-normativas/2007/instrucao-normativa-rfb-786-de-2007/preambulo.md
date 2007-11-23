@@ -1,0 +1,4 @@
+Instrução Normativa RFB nº 786, de 19 de novembro de 2007
+Dispõe sobre a Declaração de Débitos e Créditos Tributários Federais (DCTF).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVII do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no art. 5o do Decreto-Lei no 2.124, de 13 de junho de 1984, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 18 da Medida Provisória nº 2.189-49, de 23 de agosto de 2001, no art. 90 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, no art. 7º da Lei nº 10.426, de 24 de abril de 2002, e no art. 18 da Lei nº 10.833, de 29 de dezembro de 2003,
+RESOLVE:
