@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 777, de 19 de outubro de 2007
+Estabelece procedimentos de credenciamento de funcionários de entidades autorizadas a emitir certificados de origem, para fins de acesso ao sistema Mercosul Certificado, módulo de consulta a Certificados de Cumprimento da Política Tarifária Comum do Mercosul (CCPTC), gerados no Sistema Integrado de Comércio Exterior (Siscomex).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no art. 18 da Decisão MERCOSUL/CMC nº 37, de 8 de dezembro de 2005, internalizada pelo Decreto nº 5.738, de 30 de março de 2006, resolve:
