@@ -1,0 +1,99 @@
+ANEXO I
+
+Cronograma de Reenquadramento
+
+INÍCIO (MÊS)
+
+CATEGORIA PROFISSIONAL
+
+MARÇO/2008
+
+AUXILIAR/TÉCNICO DE ENFERMAGEM
+
+ABRIL/2008
+
+ENFERMAGEM – NÍVEL SUPERIOR
+
+MAIO/2008
+
+ODONTOLOGIA/FISIOTERAPIA
+
+JUNHO/2008
+
+FONOAUDIÓLOGO/FARMACÊUTICO/PSICÓLOGO/NUTRICIONISTA/ASSISTENTE SOCIAL/BIOMÉDICO/BIOQUÍMICO/BIÓLOGO
+
+JANEIRO/2009
+
+TÉCNICO DE RADIOLOGIA
+
+JANEIRO/2009
+
+MÉDICOS
+
+(Redação dada pela Lei Complementar nº 199, de 23/07/2009)
+
+ANEXO II GRUPO IV Ref.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+Enquadramento
+
+Ref 1
+
+Ref 2
+
+Ref 3
+
+Ref 4
+
+Ref 5
+
+Salário Base R$
+
+1.555,00
+
+1.710,50
+
+1.866,00
+
+2.021,50
+
+2.177,00
+
+F
+
+G
+
+H
+
+I
+
+J
+
+Ref 6
+
+Ref 7
+
+Ref 8
+
+Ref
+
+Ref
+
+2.332,50
+
+2.488,00
+
+2.643,50
+
+2.799,00
+
+2.954,50
