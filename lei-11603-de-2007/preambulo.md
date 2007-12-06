@@ -1,0 +1,2 @@
+Altera e acresce dispositivos à Lei nº 10.101, de 19 de dezembro de 2000.
+Faço saber que o Presidente da República adotou a Medida Provisória nº 388, de 2007, que o Congresso Nacional aprovou, e eu, Narcio Rodrigues, Primeiro Vice-Presidente da Mesa do Congresso Nacional, no exercício da Presidência, para efeitos do disposto no art. 62 da Constituição Federal, com redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
