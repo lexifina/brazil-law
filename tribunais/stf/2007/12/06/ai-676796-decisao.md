@@ -1,0 +1,53 @@
+DECISÃO
+TAXA DE LOCALIZAÇÃO, FUNCIONAMENTO E INSTALAÇÃO -
+   CONTRA-PRESTAÇÃO - INEXISTÊNCIA - INCOLUMIDADE DO INCISO II DO
+   ARTIGO 145 DA CONSTITUIÇÃO FEDERAL - AGRAVO DESPROVIDO.
+1.  A excepcionalidade do recurso
+   extraordinário, sempre a exigir o atendimento de pelo menos um
+   dos pressupostos específicos de recorribilidade previstos no
+   inciso III do artigo 102 da Constituição Federal, é conducente a
+   sopesar-se a moldura fática definida no acórdão impugnado.
+   Descabe o reexame dos elementos probatórios do autos para, à
+   mercê de contexto diverso, dizer-se da transgressão à Carta da
+   República e, portanto, da viabilidade do extraordinário. Esse
+   enfoque qualifica a atividade a ser desenvolvida como
+   extraordinária, a diferenciar-se daquela resultante da apreciação
+   de recurso de natureza ordinária, como é a apelação.
+ Pois bem, a Corte de origem, com esteio na prova produzida,
+   ressaltou o descompasso entre a taxa criada e o alegado exercício
+   do poder de polícia. Disse da inexistência deste último e, com
+   isso, homenageou, ao invés de contrariá-la, a norma do inciso II
+   do artigo 145 da Constituição Federal. A União, os Estados, o
+   Distrito Federal e os Municípios podem instituir taxa, mas hão de
+   ter presente o exercício do poder de polícia ou a utilização
+   efetiva ou potencial de serviços públicos específicos e
+   divisíveis prestados aos contribuintes ou postos à sua
+   disposição. Defeso é partir para a instituição de taxa que não
+   encontre base no dispositivo constitucional; defeso é proceder à
+   cobrança de certa quantia, sob o rótulo "taxa", visando à
+   renovaçã  Pois bem, a Corte de origem, com esteio na prova
+   produzida, ressaltou o descompasso entre a taxa criada e o
+   alegado exercício do poder de polícia. Disse da inexistência
+   deste último e, com isso, homenageou, ao invés de contrariá-la, a
+   norma do inciso II do artigo 145 da Constituição Federal. A
+   União, os Estados, o Distrito Federal e os Municípios podem
+   instituir taxa, mas hão de ter presente o exercício do poder de
+   polícia ou a utilização efetiva ou potencial de serviços públicos
+   específicos e divisíveis prestados aos contribuintes ou postos à
+   sua disposição. Defeso é partir para a instituição de taxa que
+   não encontre base no dispositivo constitucional; defeso é
+   proceder à cobrança de certa quantia, sob o rótulo "taxa",
+   visando à renovação de licença quando esta última não é operada,
+   não havendo qualquer prova da fiscalização que lhe seria
+   inerente. A toda evidência, o tributo taxa não fica justificado,
+   sob o ângulo constitucional, considerado o ato automático de
+   lançamento de um carimbo, tampouco deve ser utilizado como meio
+   de arrecadar receita objetivando despesas que não se enquadrem na
+   justificativa constitucional que lhe é própria.
+2.
+   Diante do quadro, conheço do pedido formulado neste agravo, mas
+   a ele nego acolhida.
+3.  Publiquem.
+Brasília, 6 de dezembro de 2007.
+Ministro MARCO AURÉLIO
+Relator
