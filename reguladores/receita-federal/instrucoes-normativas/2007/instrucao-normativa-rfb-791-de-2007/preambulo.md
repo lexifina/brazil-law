@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 791, de 10 de dezembro de 2007
+Altera o art. 27 e Anexo IV da Instrução Normativa SRF nº 480, de 15 de dezembro de 2004, e o Anexo I da Instrução Normativa SRF nº 459, de 18 de outubro de 2004.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no art. 15, da Lei nº 9.249, de 26 de dezembro de 1995, no art. 64 da Lei nº 9.430, de 27 de dezembro de 1996, nos arts. 30 e 34 da Lei nº 10.833, de 29 de dezembro de 2003, e na Lei Complementar nº 123, de 14 de dezembro de 2006, resolve:
