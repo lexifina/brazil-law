@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo RFB nº 20, de 13 de dezembro de 2007
+Dispõe sobre as operações de industrialização por encomenda, para fins de apuração das bases de cálculo do Imposto sobre a Renda da Pessoa Jurídica e da Contribuição Social sobre o Lucro Líquido.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no art. 15 da Lei nº 9.249, 26 de dezembro de 1995, e o que consta do processo nº 10168.002277/2007-01, declara:
+Art. 1º Para fins da apuração do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) e da base de cálculo da Contribuição Social sobre o Lucro Líquido (CSLL), considera-se prestação de serviço as operações de industrialização por encomenda quando na composição do custo total dos insumos do produto industrializado por encomenda houver a preponderância dos custos dos insumos fornecidos pelo encomendante.
+Art. 2º Fica revogado o ADN nº 18, de 27 de setembro de 2000.
