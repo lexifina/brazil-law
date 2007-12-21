@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 795, de 19 de dezembro de 2007
+Aprova o programa gerador e as instruções para preenchimento da Declaração de Débitos e Créditos Tributários Federais Mensal (DCTF Mensal) na versão " DCTF Mensal 1.4" .
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVII do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no art. 5º do Decreto-Lei nº 2.124, de 13 de junho de 1984, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
