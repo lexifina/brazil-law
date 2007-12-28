@@ -1,0 +1,1 @@
+Art. 9º-A É garantido a toda mulher o acesso a informações sobre as possibilidades e os benefícios da doação voluntária de sangue do cordão umbilical e placentário durante o período de consultas pré-natais e no momento da realização do parto.
