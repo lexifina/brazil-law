@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 800, de 27 de dezembro de 2007
+Dispõe sobre o controle aduaneiro informatizado da movimentação de embarcações, cargas e unidades de carga nos portos alfandegados.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no § 4º do art. 15 da Lei nº 9.611, de 19 de fevereiro de 1998, e no art. 64 da Lei nº 10.833, de 29 de dezembro de 2003, nos Decretos nº 660, de 25 de setembro de 1992, nº 3.411, de 12 de abril de 2000, e nº 4.543, de 26 de dezembro de 2002, resolve:
