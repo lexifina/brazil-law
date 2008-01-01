@@ -1,7 +1,0 @@
-Art. 3º-A. Fica a União autorizada a conceder auxílio financeiro ao prestador de serviço voluntário com idade de dezesseis a vinte e quatro anos integrante de família com renda mensal per capita de até meio salário mínimo.).
-§ 1º O auxílio financeiro a que se refere o caput terá valor de até R$ 150,00 (cento e cinqüenta reais) e será custeado com recursos da União por um período máximo de seis meses, sendo destinado preferencialmente:
-I - aos jovens egressos de unidades prisionais ou que estejam cumprindo medidas sócio-educativas; e.
-II - a grupos específicos de jovens trabalhadores submetidos a maiores taxas de desemprego.
-§ 2º O auxílio financeiro poderá ser pago por órgão ou entidade pública ou instituição privada sem fins lucrativos previamente cadastrados no Ministério do Trabalho e Emprego, utilizando recursos da União, mediante convênio, ou com recursos próprios.
-§ 3º É vedada a concessão do auxílio financeiro a que se refere este artigo ao voluntário que preste serviço a entidade pública ou instituição privada sem fins lucrativos, na qual trabalhe qualquer parente, ainda que por afinidade, até o 2º (segundo) grau.
-§ 4º Para efeitos do disposto neste artigo, considera-se família a unidade nuclear, eventualmente ampliada por outros indivíduos que com ela possuam laços de parentesco, que forme um grupo doméstico, vivendo sob o mesmo teto e mantendo sua economia pela contribuição de seus membros.
