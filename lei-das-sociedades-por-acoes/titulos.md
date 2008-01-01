@@ -281,7 +281,7 @@ Demonstração de Lucros ou Prejuízos Acumulados
 SEÇÃO V
 Demonstração do Resultado do Exercício
 SEÇÃO VI
-Demonstração das Origens e Aplicações de Recursos
+Demonstrações dos Fluxos de Caixa e do Valor Adicionado
 CAPÍTULO XVI
 Lucro, Reservas e Dividendos
 SEÇÃO I
@@ -295,10 +295,11 @@ Reservas e Retenção de Lucros
 Reserva Legal
 Reservas Estatutárias
 Reservas para Contingências
+Reserva de Incentivos Fiscais
 Retenção de Lucros
 Reserva de Lucros a Realizar
 Limite da Constituição de Reservas e Retenção de Lucros
-Limite do Saldo das Reservas de Lucros
+Limite do Saldo das Reservas de Lucro
 Reserva de Capital
 SEÇÃO III
 Dividendos
@@ -339,7 +340,7 @@ Incorporação, Fusão e Cisão
 Competência e Processo
 Protocolo
 Justificação
-Formação do Capital
+Transformação, Incorporação, Fusão e Cisão
 Incorporação
 Fusão
 Cisão
