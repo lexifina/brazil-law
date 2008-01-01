@@ -1,0 +1,1 @@
+Art. 195-A. A assembléia geral poderá, por proposta dos órgãos de administração, destinar para a reserva de incentivos fiscais a parcela do lucro líquido decorrente de doações ou subvenções governamentais para investimentos, que poderá ser excluída da base de cálculo do dividendo obrigatório (inciso I do caput do art. 202 desta Lei).
