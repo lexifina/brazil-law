@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 805, de 28 de dezembro de 2007
+Altera o art. 6º da Instrução Normativa SRF nº 81, de 11 de outubro de 2001, relativamente à Declaração Final de Espólio.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no Decreto-Lei nº 5.844, de 23 de setembro de 1943, com as alterações dadas pela Lei nº 154, de 25 de novembro de 1947, nos arts. 982 e 983 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil (CPC), com a redação dada pela Lei nº 11.441, de 4 de janeiro de 2007, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
