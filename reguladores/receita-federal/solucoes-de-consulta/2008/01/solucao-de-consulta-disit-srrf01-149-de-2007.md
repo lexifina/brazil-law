@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF01 nº 149, de 8 de novembro de 2007
+ASSUNTO: Normas Gerais de Direito Tributário EMENTA: As receitas auferidas por empresas de serviços de informática, decorrentes das atividades de desenvolvimento de software e o seu licenciamento ou cessão de direito de uso, bem como de análise, programação, instalação, configuração, assessoria, consultoria, suporte técnico e manutenção ou atualização de software, compreendidas ainda como softwares as páginas eletrônicas, submetem-se ao regime cumulativo da contribuição para o PIS/Pasep e da Cofins. DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 10, XXV e art. 15, V; Lei nº 11.051, de 2004, art. 25.
+[arquivo anexo: SC SRRF01-Disit nº 149-2007.pdf]
