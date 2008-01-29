@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 754, DE 28 DE JANEIRO DE 2008
+(Autoria do Projeto: Poder Executivo)
+Autoriza a doação à União de imóvel situado na EQNO 12/14 da Região Administrativa de Ceilândia - RA IX.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
