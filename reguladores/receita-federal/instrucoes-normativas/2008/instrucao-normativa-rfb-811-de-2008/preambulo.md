@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 811, de 28 de janeiro de 2008
+Institui a Declaração de Informações sobre Movimentação Financeira (Dimof) e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição conferida pelo art. 224, inciso III, do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no art. 5º da Lei Complementar nº 105, de 10 de janeiro de 2001, no Decreto nº 4.489, de 28 de novembro de 2002, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 30 da Lei nº 10.637, de 30 de dezembro de 2002, e na Instrução Normativa RFB nº 802, de 27 de dezembro de 2007, resolve:
