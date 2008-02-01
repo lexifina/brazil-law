@@ -1,0 +1,32 @@
+DECISÃO
+Vistos.
+União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Turma Recursal dos Juizados Especiais Federais do Rio de Janeiro, assim ementado:
+
+“ADMINISTRATIVO, SERVIDOR PÚBLICO. MORA LEGISLATIVA NA REGULAMENTAÇÃO DO ART. 37, X DA CRFB, QUE DISPÕE SOBRE REVISÃO ANUAL DA REMUNERAÇÃO DOS SERVIDORES, NO PERÍODO COMPREENDIDO ENTRE 1999 E 2001. DANO MATERIAL DECORRENTE DA OMISSÃO. DEVER DE INDENIZAR (ART. 37, § 6º, CRFB). APLICAÇÃO DO INPC (OU QUALQUER OUTRO ÍNDICE) INCABÍVEL POR FALTA DE PREVISÃO LEGAL. INTELIGÊNCIA DO ART. 61, § 1º, a DA CRFB. RECURSO PARCIALMENTE PROVIDO PARA JULGAR PARCIALMENTE PROCEDENTE O PEDIDO AUTORAL E CONDENAR A RÉ A PAGAR INDENIZAÇÃO NO VALOR RELATIVO AO TRIPLO DA REMUNERAÇÃO BÁSICA (VENCIMENTO + GAE) DA PARTE AUTORA NO MÊS DE DEZEMBRO DE 2001” (fl. 103).
+
+Opostos embargos de declaração (fls. 106 a 108), foram rejeitados (fls. 112/113). Opostos novos embargos (fls. 59 a 62), foram providos para, “mediante juízo de retratação, voto no sentido de CONHECER E DAR PROVIMENTO AOS EMBARGOS DA PARTE RÉ, para reformar o acórdão no que tange à aplicação de juros moratórios, que deverá ser de 6% ao ano, com fulcro no artigo 1º-F da Lei nº 9.494/1997” (fl. 123 a 125).
+Alega a recorrente afronta aos artigos 2º, 37, inciso X, 61, § 1º, inciso II, alíneas “a” e “c” e 169, § 1º e incisos I e II, da Constituição Federal, uma vez não ser cabível indenização pelas perdas salariais decorrentes da omissão do chefe do Poder Executivo em enviar ao Poder Legislativo projeto de lei prevendo a revisão geral e anual dos vencimentos dos servidores públicos.
+Sem contra-razões, o recurso extraordinário (fls. 128 a 143) foi admitido (fl. 149).
+Decido.
+Anote-se, primeiramente, conforme o termo de remessa fl. 126, a intimação da União efetivou-se em 27/4/07, não sendo exigível, conforme decidido na Questão de Ordem no AI 664.567, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+A jurisprudência dominante nas Turmas deste Tribunal é no sentido de que não cabe indenização por omissão do chefe do Poder Executivo no encaminhamento de projeto de lei de revisão geral e anual da remuneração dos servidores públicos, nos termos do artigo 37, inciso X, da Constituição Federal. Sobre o tema, anote-se recentes julgados da Corte:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REVISÃO GERAL ANUAL DE VENCIMENTOS. COMPETÊNCIA PRIVATIVA DO PODER EXECUTIVO. DEVER DE INDENIZAR. IMPOSSIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Não compete ao Poder Judiciário deferir pedido de indenização no tocante à revisão geral anual de servidores, por ser atribuição privativa do Poder Executivo” (RE 501.333-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 14/11/07).
+
+“PROCESSUAL CIVIL, CONSTITUCIONAL. POSSIBILIDADE DE APRECIAÇÃO DO RECURSO PELO RELATOR. SERVIDOR PÚBLICO. REVISÃO GERAL ANUAL. COMPETÊNCIA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. INDENIZAÇÃO. DESCABIMENTO. AGRAVO REGIMENTAL IMPROVIDO.
+I - É legítimo o julgamento, pelo Relator, do recurso extraordinário fundado em precedente da Corte, desde que, mediante recurso, seja possibilitada a apreciação da decisão pelo Colegiado.
+II - A iniciativa para desencadear o procedimento legislativo para a concessão da revisão geral anual aos servidores públicos é ato discricionário do Chefe do Poder Executivo, não cabendo ao Judiciário suprir sua omissão.
+III - Incabível indenização por representar a própria concessão de reajuste sem previsão legal.
+IV - Agravo improvido” (RE 652.004-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 14/11/07).
+
+“RECURSO EXTRAORDINÁRIO - SERVIDORES PÚBLICOS - REMUNERAÇÃO - REVISÃO GERAL ANUAL (CF, ART. 37, X) - ALEGADA INÉRCIA DO CHEFE DO PODER EXECUTIVO - PRETENDIDA INDENIZAÇÃO CIVIL EM FAVOR DO SERVIDOR PÚBLICO COMO DECORRÊNCIA DA OMISSÃO ESTATAL - NÃO-RECONHECIMENTO DESSE DIREITO - PRECEDENTES - RECURSO IMPROVIDO” (RE 556.925-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 9/11/07).
+
+“AGRAVO REGIMENTAL. SERVIDOR PÚBLICO. REVISÃO GERAL DE VENCIMENTO. COMPORTAMENTO OMISSIVO DO CHEFE DO EXECUTIVO. DIREITO À INDENIZAÇÃO POR PERDAS E DANOS. IMPOSSIBILIDADE. Esta Corte firmou o entendimento de que, embora reconhecida a mora legislativa, não pode o Judiciário deflagrar o processo legislativo, nem fixar prazo para que o chefe do Poder Executivo o faça. Além disso, esta Turma entendeu que o comportamento omissivo do chefe do Poder Executivo não gera direito à indenização por perdas e danos. Agravo regimental a que se nega provimento” (RE 519.577-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 28/9/07).
+
+O acórdão recorrido está em desacordo com essa orientação jurisprudencial.
+Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para reformar o acórdão recorrido, julgando improcedente o pedido inicial, com isenção dos ônus da sucumbência, nos termos do artigo 55 da Lei nº 9.099/95.
+Intime-se.
+Brasília, 1º de fevereiro de 2008.
+
+Ministro MENEZES DIREITO
+Relator
