@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 822, de 12 de fevereiro de 2008
+Altera o art. 8º da Instrução Normativa SRF nº 25, de 6 de março de 2001, que dispõe sobre o imposto de renda incidente nos rendimentos e ganhos líquidos auferidos em operações de renda fixa e de renda variável, e os arts. 6º e 7º da Instrução Normativa SRF nº 487, de 30 de dezembro de 2004, que dispõe sobre o imposto de renda incidente sobre os rendimentos e ganhos líquidos auferidos em operações de renda fixa e de renda variável e em fundos de investimentos.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, RESOLVE:
