@@ -1,0 +1,20 @@
+DECISÃO
+
+Vistos.
+Conflito negativo de competência estabelecido entre o Tribunal Superior do Trabalho, suscitante, e o Juízo de Direito da 2ª Vara da Fazenda Pública Estadual da Comarca de Manaus, suscitado, havendo dúvida acerca de qual Justiça é a competente para processar e julgar reclamação trabalhista movida por Maria das Graças Avelino Cardoso contra o Estado do Amazonas.
+A ação foi proposta perante o Juízo Laboral, sendo julgada parcialmente procedente (fls. 52 a 57). Desprovido o recurso ordinário perante o Tribunal Regional do Trabalho da 11ª Região (fls. 96 a 99). Embargos de declaração rejeitados (fls. 108 a 111). Interposto recurso de revista, provido no Tribunal Superior do Trabalho para declarar a incompetência da Justiça do Trabalho, anular todos os atos decisórios e determinar a remessa dos autos à Justiça Comum do Estado do Amazonas (fls. 137 a 144).
+O Juízo de Direito da 2ª Vara da Fazenda Pública Estadual da Comarca de Manaus também considerou-se incompetente e determinou a devolução dos autos à Justiça do Trabalho (fls. 161), que suscitou o presente conflito de competência (fl. 173).
+Parecer do Ministério Público Federal pelo conhecimento do conflito e declaração da competência da Justiça Estadual (fls. 181/182).
+Decido.
+O caso em apreço trata de controvérsia instaurada entre o Estado do Amazonas e servidor admitido em caráter temporário, submetido ao regime administrativo especial disciplinado pela Lei nº 1.674/84 daquele Estado.
+Sobre o tema esta Corte já tem posicionamento firmado, mesmo após a vigência da EC nº 45/2004, no sentido de que competente é o Juízo Estadual. Confira-se:
+
+“(...) Incompetência. - Esta Corte, ao julgar hipóteses análogas à presente em que se tratava de servidor estadual regido por regime especial disciplinado por lei local editada com fundamento no artigo 106 da Emenda Constitucional nº 1/69, firmou o entendimento (assim, a título exemplificativo, no CJ 6.829, nos RREE 130.540 e 215.819, e no RE 136.179-AgR) de que a competência para julgar as questões relativas a essa relação jurídica é da Justiça comum estadual e não da Justiça trabalhista. Dessa orientação divergiu o acórdão recorrido. Recurso extraordinário conhecido e provido' (RE nº 367.638/AM, Relator o Ministro MOREIRA ALVES, DJ de 28/03/2003). 12. Com efeito, a relação entre o servidor e o Estado é de natureza estatutária e não trabalhista. Trata-se, portanto, de servidor estadual regido por regime especial disciplinado por lei local, o que me leva a concluir que a competência para julgar as questões relativas a essa relação jurídica é da Justiça comum estadual e não da Justiça do Trabalho. 13. De outra parte, releva notar que o Ministério Público Federal traz ao debate a nova redação do art. 114 da Constituição do Brasil, dada pela EC 45, de 2004. Todavia, decidindo a ADI 3.395-MC/DF, o Ministro Nelson Jobim, Presidente da Corte Suprema, suspendeu, ad referendum, toda e qualquer interpretação dada ao inciso I do art. 114 da CB, na redação dada pela EC 45/2004, que inclua, na competência da Justiça do Trabalho, a '... apreciação ... de causas que ...sejam instauradas entre o Poder Público e seus servidores, a ela vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.' Ante essas circunstâncias, julgo improcedente o conflito e declaro a competência, no caso, MM. Juiz de Direito da 2ª Vara da Comarca de Tabatinga, Amazonas, mantido, destarte, o acórdão do Tribunal Superior do Trabalho. Publique-se. Remetam-se os autos ao Juízo suscitante...'” (CC 7.202-AM, relator o Mininistro Eros Grau, decisão monocrática, DJ 17.6.2005.
+
+Em caso idêntico, também menciono o CC nº 7.406-0/AM, Relatora a Ministra Carmen Lúcia, DJ de 03/05/07.
+Do exposto, conheço do conflito e, nos termos do artigo 120, parágrafo único, do Código de Processo Civil, declaro competente o Juiz de Direito da 2ª Vara da Fazenda Pública da Comarca de Manaus/AM.
+Intime-se. Comunique-se.
+Brasília, 14 de fevereiro de 2008.
+
+Ministro MENEZES DIREITO
+Relator
