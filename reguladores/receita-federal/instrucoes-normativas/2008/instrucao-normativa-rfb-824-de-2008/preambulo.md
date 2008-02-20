@@ -1,0 +1,4 @@
+Instrução Normativa RFB nº 824, de 19 de fevereiro de 2008
+Altera a Instrução Normativa SRF nº 504, de 3 de fevereiro de 2005, e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no art. 1º, § 6º, do Decreto-lei nº 1.593, de 21 de dezembro de 1977, com a redação dada pela Medida Provisória nº 2.158-35, de 24 de agosto de 2001, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 46 da Lei nº 4.502, de 30 de novembro de 1964, e nos arts. 223 e 261 do Decreto nº 4.544, de 26 de dezembro de 2002, Regulamento do Imposto sobre Produtos Industrializados (RIPI),
+RESOLVE:
