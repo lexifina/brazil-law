@@ -1,0 +1,18 @@
+DESPACHO: Vistos, etc.
+Trata-se de ação cível originária, por meio da qual o Estado do Rio Grande do Sul impugna, genericamente (“por quaisquer motivos ou causas”), as inscrições que tem contra si no Cadastro Único de Convênios (CAUC).
+2. Já esclareço que, em 29.12.2007, a Ministra Ellen Gracie deferiu a antecipação da tutela “com referência aos convênios relacionados às fls. 68-72”. Tais convênios, num total de 27 (vinte e sete), são aqueles que, segundo a inicial, “apresentaram problemas ou que estão em vias de apresentar” (fls. 24).
+3. Logo a seguir, alegando fato novo, o autor pediu que a decisão concessiva abarcasse mais dois convênios (fls. 699/711). Um de interesse do Tribunal de Contas (PG-074/91-00) e outro, do Departamento de Estradas de Rodagem (0010/2006-PROMOEX/UCP/SEGES/MP).
+4. Mais tarde, enfatizando que a lista inicial era “meramente exemplificativa” (fls. 32), dada a possível existência de muitos outros casos “ainda não identificados pela Administração estadual”, o postulante centrou seu pedido de extensão em outra pendência. Essa, atinente ao convênio (sem identificação) celebrado com o Ministério da Saúde. Cuida-se agora de inscrição que, se perdurar até 1º.03.2008, inviabilizará o empréstimo de um bilhão de reais pactuado com o Banco Mundial (BIRD) -- diz o requerente.
+5. Muito bem. Neste ponto, os autos me foram distribuídos e eu despachei ambas as petições no sentido de que o pedido de extensão (ou “reconsideração”) seria examinado após a citação da parte contrária. Citação já determinada no despacho inaugural de fls. 658/661.
+6. De qualquer forma, como o Estado sul-rio-grandense reiterou o caráter de urgência da medida, em razão da data acima mencionada, parece-me oportuno fazer as achegas que se seguem.
+7. Em primeiro lugar, vê-se que, de fato, o Código de Processo Civil admite o aditamento do pedido antes da citação (art. 294). Entretanto, não é menos verdade que, em regra, “o pedido deve ser certo ou determinado” (art. 286).
+8. Também é verdade que a antecipação da tutela pode ser parcial (art. 273), de acordo com o prudente arbítrio do magistrado. Certamente foi por isso que a eminente Ministra Ellen Gracie deferiu tal antecipação de molde a englobar todos os convênios relacionados na petição inicial (fls. 25/32), sem, contudo, conferir liminarmente um cheque em branco ao autor. Cheque a ser preenchido na medida em que surgirem outros empecilhos “ainda não identificados pela Administração estadual” (fls. 32).
+9. Parece-me claro que um provimento de tal envergadura -- com ampla carga declaratória, constitutiva ou mandamental -- só teria cabimento, se for o caso, ao final do processo. Ou, pelo menos, depois de completada a relação processual e exercido o contraditório, garantia que o próprio Estado invoca em suas petições.
+10. Enquanto tal não acontece, entendo prematuro o deferimento dos sucessivos pedidos de extensão, feitos desde o ajuizamento da causa. Principalmente no último caso, em que as alegações acerca do convênio com o Ministério da Saúde não se fazem acompanhar dos documentos pertinentes. Ou seja, no ponto, falta a “prova inequívoca” a que alude o citado art. 273.
+11. Também levo em consideração o fato de que no pólo passivo se encontra outra pessoa jurídica de direito público (a União), circunstância que, por lei, desencoraja qualquer prodigalidade na concessão de liminares e antecipações de tutela.
+12. Ante o exposto, ratifico o despacho que determinou a citação da parte contrária, reservando-me para examinar o pedido de extensão (ou “reconsideração) tão logo se complete a relação processual, com o oferecimento da defesa.
+Publique-se.
+Brasília, 26 de fevereiro de 2008.
+
+Ministro CARLOS AYRES BRITTO
+Relator
