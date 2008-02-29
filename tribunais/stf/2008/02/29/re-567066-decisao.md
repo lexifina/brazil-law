@@ -1,0 +1,29 @@
+DECISÃO
+Vistos.
+Marcos Antônio da Costa e outros interpõem recurso extraordinário, com fundamento nas alíneas "a" e “c” do permissivo constitucional, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+
+“CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. SERVIDORES PÚBLICOS ESTADUAIS. SENTENÇA QUE DEU PROCEDÊNCIA PARCIAL AO PEDIDO. APELAÇÃO CÍVEL. PRELIMINAR DE CONHECIMENTO DA REMESSA NECESSÁRIA SUSCITADA PELO APELANTE. ACOLHIMENTO. PRELIMINAR DE AUSÊNCIA DE INTERESSE DE AGIR SUSCITADA NA PEÇA CONTESTATÓRIA. REJEIÇÃO. PREJUDICIAL DE PRESCRIÇÃO TOTAL DO FUNDO DE DIREITO. NÃO ACOLHIMENTO. REMUNERAÇÃO DE SERVIDOR. PRESTAÇÃO DE TRATO SUSCESSIVO. PRESCRIÇÃO QUE SÓ ATINGE AS PARCELAS COM MAIS DE CINCO ANOS ANTERIORES AO AJUIZAMENTO DA AÇÃO. APLICAÇÃO DAS SÚMULAS 85 DO STJ E 443 DO STF. MÉRITO. ABONO. COMPLEMENTAÇÃO DA REMUNERAÇÃO COMO FORMA DE INTEGRALIZAÇÃO DO SALÁRIO MÍNIMO. CONSTITUCIONALIDADE. PRECEDENTES DO STF, STJ E DESTA CORTE DE JUSTIÇA. INCIDÊNCIA DAS VANTAGENS PESSOAIS SOBRE O VALOR DO ABONO. IMPOSSIBILIDADE. POSICIONAMENTO RECENTE FIRMADO PELO STF. VINCULAÇÃO CONSTITUCIONALMENTE VEDADA. INVERSÃO DOS ÔNUS SUCUMBENCIAIS. JUSTIÇA GRATUITA. SUSPENSÃO DO PAGAMENTO. REMESSA NECESSÁRIA E APELAÇÃO CÍVEL CONHECIDAS E PROVIDAS” (fls. 151/152).
+
+Opostos embargos de declaração (fls. 168 a 176), foram rejeitados (fls. 177 a 181).
+Alegam os recorrentes contrariedade aos artigos 5º, inciso LV, 7º, incisos IV, VI e VII, 39, § 3º, e 93, inciso IX, da Constituição Federal haja vista que “o referido abono tinha natureza salarial, o seu valor deveria ter sido computado para o cálculo das respectivas gratificações e vantagens, o que não configura vinculação ao salário mínimo, nem piso salarial” (fl.198).
+Contra-arrazoado (fls. 214 a 221), o recurso extraordinário (fls. 195 a 203), foi admitido (fls. 222/223).
+O Superior Tribunal de Justiça, em decisão transitada em julgado (fl. 259), negou seguimento ao recurso especial interposto paralelamente ao extraordinário.
+Decido.
+Anote-se, primeiramente, que o acórdão dos embargos de declaração, conforme expresso na certidão de fl. 181, foi publicado em 15/11/06, não sendo exigível, conforme decidido na Questão de Ordem no AI 664.567, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+Não merece prosperar a irresignação.
+A jurisprudência desta Corte firmou o entendimento não ser possível a inclusão do abono salarial em exame na base de cálculo de gratificações ou outras vantagens pessoais, uma vez que majorado o salário mínimo, o abono também o seria e, de forma reflexa, determinaria a elevação do valor das gratificações e vantagens pessoais, restando configurada a vinculação destas ao salário mínimo, o que é expressamente vedado pela parte final do artigo 7º, inciso IV, da Constituição Federal. Sobre o tema, anote-se:
+
+“I. Servidor público: salário mínimo. 1. É da jurisprudência do STF que a remuneração total do servidor é que não pode ser inferior ao salário mínimo (CF, art. 7º, IV). 2. Ainda que os vencimentos sejam inferiores ao mínimo, se tal montante é acrescido de abono para atingir tal limite, não há falar em violação dos artigos 7º, IV, e 39, § 2º, da Constituição. 3. Inviável, ademais, a pretensão de reflexos do referido abono no cálculo de vantagens, que implicaria vinculação constitucionalmente vedada (CF, art. 7º, IV, parte final). II. Agravo regimental: desprovimento: discussão acerca do valor relativo aos honorários advocatícios, tendo em vista a inversão dos ônus da sucumbência, que implicaria análise dos limites em que a lide foi decidida” (RE 511.986-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07).
+
+“VENCIMENTOS. SERVIDOR PÚBLICO ESTADUAL. SALÁRIO MÍNIMO. INCIDÊNCIA DO ABONO PARA EFEITO DE CÁLCULO DE GRATIFICAÇÕES E OUTRAS VANTAGENS. IMPOSSIBILIDADE. I - O cálculo das gratificações e outras vantagens não devem incidir sobre o vencimento acrescido do abono, utilizado para atingir o salário mínimo, por importar vinculação vedada pelo art. 7º, IV, da Constituição. II - Agravo regimental improvido” (RE 477.975-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 10/8/07).
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE. VENCIMENTOS. SALÁRIO MÍNIMO. COMPLEMENTAÇÃO POR ABONO. VANTAGENS PESSOAIS. INCIDÊNCIA SOBRE O VALOR DO ABONO. IMPOSSIBILIDADE. HONORÁRIOS DE ADVOGADO. FIXAÇÃO. § 4º, ART. 20, CPC. A decisão agravada está em conformidade com o entendimento firmado por ambas as Turmas desta Corte. A verba honorária foi fixada levando-se em consideração o § 4º do art. 20 do Código de Processo Civil. Agravos regimentais a que se nega provimento” (RE 527.898-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/8/07).
+
+AGRAVOS REGIMENTAIS NO RECURSO EXTRAORDINÁRIO. REMUNERAÇÃO TOTAL. SALÁRIO-MÍNIMO. ABONO. BASE DE CÁLCULO. VANTAGENS PESSOAIS. 1. Ambas as Turmas deste Tribunal firmaram entendimento segundo o qual "a pretensão de reflexos do referido abono no cálculo de vantagens implicaria vinculação constitucionalmente vedada" [RE n. 439.360-AgR, Relator o Ministro Sepúlveda Pertence, DJ de 2.9.05 e RE n. 436.368-AgR, Relator o Ministro Gilmar Mendes, DJ de 3.3.06]. 2. Nego provimento ao agravo regimental interposto por Maria Aparecida Leite. 3. Dou provimento ao agravo regimental interposto pelo DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DO RIO GRANDE DO NORTE, apenas para explicitar” (RE 493.642-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 29/6/07).
+
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Intime-se.
+Brasília, 26 de fevereiro de 2008.
+
+Ministro MENEZES DIREITO
+Relator
