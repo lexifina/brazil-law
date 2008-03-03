@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de agravo contra decisão que negou processamento a recurso extraordinário fundado no art. 102, III, a, da Constituição Federal.
+No caso dos autos, o Ministério Público do Distrito Federal e Territórios propôs ação civil pública com declaração de inconstitucionalidade incidenter tantum de lei distrital que autoriza a instalação de comércio, indústria e prestação de serviços em parcelamentos, condomínios ou loteamentos irregulares, mediante alvará de funcionamento a título precário. Na petição da ação civil pública, requer-se:
+“c) o julgamento pela procedência desta ação, declarando esse r. Juízo, incidenter tantum, a inconstitucionalidade da Lei Distrital no 697/94, e ilegalidade face à Lei Orgânica do DF e, de conseqüência, que V. Exa. MANDE (ação de efeito mandamental encerrando obrigação de não fazer) as autoridades públicas competentes do Distrito Federal, não expedir alvarás para as finalidades nela mencionadas, pena de multa de 10.000 (dez mil) URV por cada alvará expedido, sem prejuízo da apuração da responsabilidade civil e criminal correspondente.”
+Ao apreciar o recurso especial interposto em face de acórdão que afastou a legitimidade do Ministério Público para propor ação civil pública na qual se pede a declaração incidental de inconstitucionalidade de norma, o Superior Tribunal de Justiça deu-lhe provimento em acórdão cuja ementa assim dispõe (fl. 150):
+“PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE. LEI LOCAL. POSSIBILIDADE. LEGITIMIDADE DO MINISTÉRIO PÚBLICO.
+I - A Egrégia Primeira Seção, no julgamento dos EREsp nº 303.994/MG, Relator Ministro FRANCIULLI NETTO, na sessão de 25/06/2003, publicado no DJ de 01/09/2003, consolidou o entendimento de que é cabível, por meio de ação civil pública, a declaração incidental de inconstitucionalidade de lei, quando tal controvérsia for causa de pedir e não pedido, hipótese em que estará configurado controle difuso de constitucionalidade, passível de eventual correção via recurso extraordinário.
+II - Recurso especial provido.”
+ 		Alega-se violação aos arts. 5º, II, 102, I, a, 103, 125, § 2º, 127 e 129, III, da Carta Magna. Nas razões de recurso extraordinário, o recorrente assinala que “a utilização de ação civil pública, tendo como pedido principal a declaração incidenter tantum de inconstitucionalidade da Lei Local no 697/94, é juridicamente impossível, e fere o princípio da legalidade em face do especialíssimo efeito erga omnes de que é dotada a sentença proferida nesta ação.” (fl. 168).
+		O acórdão recorrido extraordinariamente está em consonância com a jurisprudência desta Corte, conforme se depreende do julgamento do RE 424.993, Pleno, Rel. Joaquim Barbosa, DJ 19.10.2007, cuja ementa assim dispõe:
+“EMENTA: RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. CONTROLE DE CONSTITUCIONALIDADE. OCUPAÇÃO DE LOGRADOUROS PÚBLICOS NO DISTRITO FEDERAL. PEDIDO DE INCONSTITUCIONALIDADE INCIDENTER TANTUM DA LEI 754/1994 DO DISTRITO FEDERAL. QUESTÃO DE ORDEM. RECURSO DO DISTRITIO FEDERAL DESPROVIDO. RECURSO DO MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL PREJUDICADO.
+Ação civil pública ajuizada pelo Ministério Público do Distrito Federal com pedidos múltiplos, dentre eles, o pedido de declaração de inconstitucionalidade incidenter tantum da lei distrital 754/1994, que disciplina a ocupação de logradouros públicos no Distrito Federal.
+Resolvida questão de ordem suscitada pelo relator no sentido de que a declaração de inconstitucionalidade da lei 754/1994 pelo Tribunal de Justiça do Distrito Federal não torna prejudicado, por perda de objeto, o recurso extraordinário.
+A jurisprudência do Supremo Tribunal Federal tem reconhecido que se pode pleitear a inconstitucionalidade de determinado ato normativo na ação civil pública, desde que incidenter tantum. Veda-se, no entanto, o uso da ação civil pública para alcançar a declaração de inconstitucionalidade com efeitos erga omnes.
+No caso, o pedido de declaração de inconstitucionalidade da lei 754/1994 é meramente incidental, constituindo-se verdadeira causa de pedir.
+Negado provimento ao recurso extraordinário do Distrito Federal e julgado prejudicado o recurso extraordinário ajuizado pelo Ministério Público do Distrito Federal.”
+ 		No mesmo sentido, o AI-AgR 504.856, 2ª T., Rel. Carlos Velloso, DJ 8.10.2004:
+“EMENTA: - CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. OFENSA À CONSTITUIÇÃO. MINISTÉRIO PÚBLICO. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE.
+I. - Somente a ofensa direta à Constituição autoriza a admissão do recurso extraordinário. No caso, o acórdão limita-se a interpretar normas infraconstitucionais.
+II. - Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional.
+III. - O Ministério Público tem legitimidade para propor ação civil pública, fundamentada em inconstitucionalidade de lei, na qual opera-se apenas o controle difuso ou incidenter tantum de constitucionalidade. Precedente.
+IV. - Agravo não provido.”
+	Assim, nego seguimento ao agravo (art. 557, caput, do CPC).
+	Publique-se.
+	Brasília, 3 de março de 2008.
+Ministro GILMAR MENDES
+Relator
