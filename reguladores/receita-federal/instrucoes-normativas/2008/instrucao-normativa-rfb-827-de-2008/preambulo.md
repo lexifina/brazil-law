@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 827, de 29 de fevereiro de 2008
+Aprova o programa multiplataforma para preenchimento da Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física referente ao exercício de 2008, ano-calendário de 2007 (IRPF2008), para uso em computador que possua a máquina virtual Java (JVM), versão 1.4.1 ou superior, instalada.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVII do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto na Instrução Normativa RFB nº 820, de 11 de fevereiro de 2008, resolve:
