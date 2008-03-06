@@ -1,0 +1,16 @@
+DECISÃO: Vistos, etc.
+
+Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão da relatora do HC 100693, no Superior Tribunal de Justiça. Decisão que indeferiu a liminar ali requestada, sob o fundamento de que:
+“(...)
+O nobre Desembargador Relator do writ impetrado perante o Tribunal a quo indeferiu a almejada tutela de urgência ao argumento de que os requisitos para a prisão cautelar do paciente estariam, ao menos em princípio, presentes e devidamente demonstrados diante do caso concreto.
+Portanto, realizando um exame sumário na decisão impugnada, não se percebe primo ictu oculi que ela carregue qualquer mácula ou se encontre carente de fundamentação (...)” (fls. 107).
+
+2. Pois bem, os impetrantes alegam, antes mesmo do julgamento de mérito dos HCs impetrados no TJ/SP e STJ, que o decreto de prisão preventiva, exarado em desfavor do paciente, carece da devida fundamentação. Isso porque embasado em meras presunções e na presunção de culpa, dele, paciente. O que, sustentam os impetrantes, é perceptível de plano, autorizando o provimento da medida cautelar pelo Superior Tribunal de Justiça. Daí a afirmação de que o indeferimento do pedido liminar ali ajuizado constitui ilegalidade a ser reparada na via processualmente contida deste habeas corpus.
+3. Feito este aligeirado relato do feito, decido. Fazendo-o, anoto que é pacífica a jurisprudência deste STF no sentido da inadmissibilidade de impetração sucessiva de habeas corpus, sem o julgamento definitivo do writ anteriormente impetrado (cf. HC 79.776, Rel. Min. Moreira Alves; HC 76.347-QO, Rel. Min. Moreira Alves; HC 79.238, Rel. Min. Moreira Alves; HC 79.748, Rel. Min. Celso de Mello; e HC 79.775, Rel. Min. Maurício Corrêa). Jurisprudência, essa, que foi sumulada no verbete nº 691, segundo o qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+4. É certo que tal jurisprudência comporta relativização, quando de logo avulta que o cerceio à liberdade de locomoção do paciente decorre de ilegalidade ou de abuso de poder (inciso LXVIII do art. 5º da CF/88). Mas não me parece ser este o caso dos autos, pois o decreto de prisão averba que “(...) os réus ROGÉRIO DE SOUZA PHELLIPE e JURANDIR PINHEIRO, tão logo se descobriram as práticas criminosas, fugiram do distrito da culpa” (fls. 55). Do que se extrai que, ao contrário do que sinalizado pela defesa, o paciente não fugiu para evitar os efeitos de um decreto prisional que entende ilegítimo. Antes disso, ao menos neste exame prefacial, a hipótese versada nos autos se aproxima daquelas situações em que este nosso Supremo Tribunal Federal entende cabível a prisão preventiva para garantia da aplicação da lei penal. O que impede enxergar, de plano, a flagrante ilegalidade apontada na petição inicial deste habeas corpus, a recomendar, então, que se aguarde o pronunciamento de mérito das instâncias judicantes competentes (no caso, o TJ/SP e o STJ).
+Sendo assim, nego seguimento ao pedido e determino o arquivamento dos autos (parágrafo 1º do art. 21 do RI/STF).
+Publique-se.
+Brasília, 06 de março de 2008.
+
+Ministro CARLOS AYRES BRITTO
+Relator
