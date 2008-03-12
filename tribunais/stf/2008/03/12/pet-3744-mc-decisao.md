@@ -1,0 +1,20 @@
+DECISÃO: Vistos, etc.
+A presente ação possessória foi ajuizada por Paulo César Justo Quartiero, em agosto de 2004, na condição de possuidor do imóvel denominado Fazenda Providência, situada na Reserva Indígena Raposa Serra do Sol.
+2. Na ocasião, o autor impugnou a Portaria nº 820/98, do Ministro de Estado da Justiça, que demarcou pela primeira vez a citada reserva.
+3. Mais tarde -- reconhecida a competência do Supremo Tribunal Federal -- os autos ascenderam a esta colenda Corte, ensejando o pedido de restauração da liminar concedida em primeira instância, que se tornara ineficaz por efeito do § 2º do art. 113 do CPC.
+4. Para tanto, as petições de fls. 595/605 e 609/612 noticiam que é iminente o emprego de “força pública para desalojar o Autor de sua posse” (fls. 595/605 e 609/612). Diante desse quadro é que se pede a manutenção do autor no imóvel, pelo menos até que seja indenizado pelas benfeitorias nele edificadas de boa-fé.
+5. Muito bem. Antes de examinar o pedido, parece-me oportuno esclarecer que o requerente figura como parte em outros processos relacionados com a mencionada reserva indígena. Refiro-me às Petições 3.861, 4.052, 4.054 e Ação Cautelar 823. Bem assim, às Petições 4.038, 4.129 e Ações Cautelares 1.867 e 1.868. As quatro primeiras já foram julgadas prejudicadas, com trânsito em julgado. As quatro últimas encontram-se em poder da Procuradoria-Geral da República. Portanto, nenhuma delas em meu Gabinete, no momento.
+6. Feito este esclarecimento, volto os olhos para as  petições de fls. 595/605 e 609/612. E, de pronto, reconheço que efetivamente a Constituição Federal assegura aos possuidores, em operações dessa natureza, indenização “quanto às benfeitorias derivadas da ocupação de boa-fé” (§ 6º do art. 231).
+7. Neste ponto é bom relembrar que o requerente possui dois imóveis na região: a Fazenda Depósito e a Fazenda Providência (fls. 512/513). Entretanto, apenas a última é objeto deste feito, segundo a inicial.
+8. Acontece que a FUNAI, pela respectiva comissão de sindicância, classificou como “derivadas de má-fé” as benfeitorias implantadas nessa última fazenda. Portanto, sem direito a qualquer indenização. É o que consta da Resolução nº 195/2007 (fls. 553).
+9. É claro que tal classificação -- ao lado de outras -- não é definitiva, pois está sob o crivo do Judiciário. Todavia, para efeito de liminar, há de se levá-la em consideração se comparada com o depoimento do próprio autor, prestado na Justiça Federal de Roraima no dia 14.09.2004.
+10. Naquela data -- prossigo o raciocínio --, o depoente afirmou que “é possuidor da Fazenda PROVIDÊNCIA há três anos” (fls. 62). Portanto, desde o ano de 2001. O que significa três anos depois da demarcação levada a efeito pela portaria ora atacada, nº 820/98.
+11. Em outras palavras, quando o postulante se apossou da Fazenda Providência ela já integrava a Reserva Indígena Raposa Serra do Sol. Neste cenário, a hipótese de futura desocupação do imóvel, sem o sobrepreço pelas eventuais benfeitorias, não poderia constituir nenhuma novidade para o adquirente.
+12. De qualquer forma, a mesma resolução que classificou como de má-fé tais benfeitorias (nº 195/2007) franqueou ao interessado o prazo de 30 (trinta) dias para impugná-la, mediante recurso administrativo (art. 2º). Mas não consta, nos autos, que essa impugnação foi feita. Consta -- isto sim -- que o autor assinou a notificação da FUNAI, de 22.03.2007, que lhe dava o prazo “até o dia 30 de abril de 2007” para desocupação da área, bem como para a retirada de “seus bens móveis e semoventes” (fls. 565/566).
+13. Ora, todo esse panorama, embora não induza o julgamento de mérito da questão, desaconselha qualquer provimento judicial que legitime, ainda que temporariamente, a manutenção do autor no imóvel. Provimento que, além do mais, poderia estimular a resistência de outros ocupantes desprovidos da mesma tutela e, com isso, “colocar mais lenha na fogueira” numa região já conflagrada em níveis preocupantes.
+14. Ante o exposto, indefiro o pedido de restabelecimento da liminar concedida pelo Juízo de primeiro grau.
+Publique-se.
+Brasília, 12 de março de 2008.
+
+Ministro CARLOS AYRES BRITTO
+Relator
