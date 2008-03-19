@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 828, de 17 de março de 2008
+Aprova o programa aplicativo para preenchimento da Declaração de Saída Definitiva do País relativa ao Imposto sobre a Renda da Pessoa Física referente ao exercício 2008, ano-calendário de 2008.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe conferem os incisos III e XVII do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto na Instrução Normativa SRF nº 208, de 27 de setembro de 2002, alterada pela Instrução Normativa SRF nº 711, de 31 de janeiro de 2007, resolve:
