@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 832, de 18 de março de 2008
+Aprova o programa aplicativo para preenchimento da Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física referente ao exercício de 2008, ano-calendário de 2007, para uso em computador com sistema operacional Windows (IRPF2008 Windows).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVII do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto na Instrução Normativa RFB nº 820, de 11 de fevereiro de 2008, resolve:
