@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - INTERPRETAÇÃO DE NORMAS LEGAIS - INVIABILIDADE.
+1.	O Tribunal Superior do Trabalho negou acolhida a pedido formulado em recurso ordinário, ante fundamentos assim sintetizados (folha 79):
+AÇÃO RESCISÓRIA. ANISTIA. LEI Nº 6.683/79. EFEITOS VIOLAÇÃO DE DISPOSITIVO DE LEI. MATÉRIA CONTROVERTIDA.
+Segundo as Súmulas nos 83 desta Corte e 343 do Supremo Tribunal Federal, não cabe ação rescisória, por violação de dispositivo de lei, se a decisão rescindenda estiver baseada em preceito legal de interpretação controvertida nos Tribunais. Na hipótese dos autos, a questão debatida gira em torno dos efeitos financeiros da Lei de Anistia nº 6.683/79. Entretanto, a matéria sub judice somente foi pacificada posteriormente à prolação da decisão rescindenda, com sua inclusão na Orientação Jurisprudencial nº 176 da SBDI-1 (atual Orientação Jurisprudencial nº 44 Transitória).
+VIOLAÇÃO DE DISPOSITIVO DE LEI. EMENDA CONSTITUCIONAL Nº 26/85. NÃO-OCORRÊNCIA. A procedência de pedido de corte rescisório com fundamento em violação de dispositivo de lei, nos termos do artigo 485, inciso V, do Código de Processo Civil, importa no reconhecimento de agressão direta e literal à norma apontada. Não há como acolher a tese do Recorrente quanto à violação do artigo 4º, § 3º, da Emenda Constitucional nº 26/85, com vistas à concessão de diferenças salariais aos anistiados pelo período compulsório de afastamento, porquanto, nos termos do parágrafo 5º deste mesmo dispositivo de lei, os efeitos da anistia passariam a existir após a promulgação da referida emenda, sendo vedada remuneração em caráter retroativo. Entendimento também preconizado pela Orientação Jurisprudencial nº 12 da SBDI-1, desta Corte. Portanto, a decisão rescindenda não conferiu ao artigo apontado como malferido interpretação diversa da sua literal exegese.
+Recurso ordinário desprovido.
+	O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para guindar a este Tribunal conflito de interesses cuja solução se exaure na Corte de origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor das decisões dos demais tribunais do País. Na espécie, a Corte de origem procedeu a julgamento fundamentando, de forma consentânea com a ordem jurídica, a parte dispositiva do pronunciamento.
+	Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+2.	Conheço do agravo e o desprovejo.
+3.	Publiquem.
+Brasília, 25 de março de 2008.
+Ministro MARCO AURÉLIO
+Relator
