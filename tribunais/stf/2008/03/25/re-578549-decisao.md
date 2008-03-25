@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto contra acórdão que, em execução fiscal, pronunciou, de ofício, a prescrição.
+Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação aos arts. 5º, XXXV, LIV e LV, da mesma Carta.
+Preliminarmente, verifico não ser necessário examinar a existência de repercussão geral das questões constitucionais discutidas no caso. É que, nos termos do art. 323, primeira parte, do Regimento Interno do STF, redação dada pela Emenda Regimental 21/2007, a verificação da ocorrência de repercussão geral apenas se dará “quando não for o caso de inadmissibilidade do recurso por outra razão”. No caso dos autos, há outro fundamento suficiente para a inadmissibilidade do recurso extraordinário.
+É que o acórdão recorrido decidiu a questão com base na legislação ordinária. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 453.614-AgR/DF, Rel. Min. Marco Aurélio; AI 467.307-AgR/DF, Rel. Min. Ellen Gracie; AI 608.769-AgR/SP, Rel. Min. Eros Grau; AI 564.519-AgR/MG, Rel. Min. Sepúlveda Pertence; AI 553.020-AgR/SP, Rel. Min. Cezar Peluso.
+Ademais, como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Isso posto, nego seguimento ao recurso (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 25 de março de 2008.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
