@@ -1,0 +1,16 @@
+DECISÃO
+
+REPERCUSSÃO GERAL ADMITIDA - CAPITALIZAÇÃO MENSAL DOS JUROS - MEDIDA PROVISÓRIA Nº 2.170/36 - ARTIGO 62 DA CONSTITUIÇÃO FEDERAL - PROCESSOS VERSANDO A MATÉRIA - SOBRESTAMENTO.
+
+1.	O Supremo, no Recurso Extraordinário nº 568.396-6/RS, concluiu pela repercussão geral do tema relativo à possibilidade de autorizar-se a capitalização de juros com periodicidade inferior a um ano.
+
+2.	Ante o quadro, considerado o fato de o recurso veicular a mesma matéria, tendo a intimação do acórdão da Corte de origem ocorrido anteriormente à vigência do sistema da repercussão geral, determino o sobrestamento deste processo.
+
+3.	À Assessoria, para o acompanhamento devido.
+
+4.	Publiquem.
+
+Brasília, 28 de março de 2008.
+
+Ministro MARCO AURÉLIO
+Relator
