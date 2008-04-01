@@ -1,0 +1,145 @@
+ANEXO ÚNICO QUADRO GLOBAL DE EFETIVO DA POLÍCIA MILITAR DO ESTADO DO ACRE
+
+POSTO OU GRADUAÇÃO
+
+QUADROS
+
+QOMEC
+
+QOPMS
+
+QOAPM
+
+QOPMM
+
+QOPMAS
+
+QPMEC
+
+QPPMM
+
+QPPMS
+
+TOTAL
+
+CORONEL PM
+
+6
+
+1
+
+7
+
+TENENTE CORONEL PM
+
+19
+
+2
+
+21
+
+MAJOR PM
+
+28
+
+4
+
+9
+
+1
+
+2
+
+44
+
+CAPITÃO PM
+
+51
+
+5
+
+22
+
+2
+
+3
+
+83
+
+1º TENENTE PM
+
+65
+
+6
+
+45
+
+3
+
+4
+
+123
+
+2º TENENTE PM
+
+82
+
+9
+
+66
+
+4
+
+5
+
+166
+
+SUBTENENTE PM
+
+105
+
+8
+
+6
+
+119
+
+1º SARGENTO PM
+
+210
+
+18
+
+9
+
+237
+
+2º SARGENTO PM
+
+340
+
+24
+
+14
+
+379
+
+3º SARGENTO PM
+
+3.477
+
+50
+
+29
+
+3.556
+
+CABO PM
+
+SOLDADO PM
+
+TOTAL GERAL
+
+4.734
+
+(Redação dada pela Lei Complementar nº 315, de 29/12/2015)
