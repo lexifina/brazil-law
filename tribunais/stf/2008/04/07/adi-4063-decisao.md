@@ -1,0 +1,9 @@
+DECISÃO: A Associação Brasileira das Empresas de Gastronomia, Hospedagem e Turismo propõe ação direta, com pedido de medida cautelar, objetivando a declaração de inconstitucionalidade da Medida Provisória n. 415, de 21 de janeiro de 2008, que proíbe a comercialização de bebidas alcoólicas em rodovias federais. A requerente alega que os atos normativos impugnados colidem com o disposto nos artigos 1º, inciso IV, 5º, caput e incisos XXI e LIV, 144, § 2º, 170, caput, e 173, todos da Constituição do Brasil.
+2.	A Confederação Nacional do Comércio, em 8 de fevereiro de 2.008, propôs ação direta de inconstitucionalidade que tem por objeto o mesmo preceito impugnado neste feito --- ADI n. 4.017. No dia 13 subseqüente apliquei a regra do artigo 12 da Lei n. 9.868/99.
+3.	As duas ações diretas --- ADI n. 4.017 e ADI n. 4.063 --- atacam o mesmo preceito. O trâmite de ações diretas com objetos idênticos foi analisado pelo Plenário no julgamento da ADI n. 1.460, Relator o Ministro SYDNEY SANCHES, DJ de 25.6.99, que determinou o seu apensamento e julgamento conjunto: “[o] Tribunal, ainda por votação unânime, resolveu que, nos casos em que houver ajuizamento de duas ou mais ações diretas de Inconstitucionalidade, cujo objeto de impugnação seja exatamente o mesmo (identidade total), dar-se-á o apensamento das ações subseqüentes aos autos da anteriormente ajuizada, para efeito de sua tramitação conjunta e posterior julgamento, sob o número de registro da primeira ação direta, incluindo-se, na autuação desta, a referência aos nomes dos autores que promovem as demais ações diretas a que alude esta resolução”.
+	Determino o apensamento destes autos aos da ADI n. 4.017, a fim de que o julgamento de ambos seja feito em conjunto.
+Publique-se.
+Brasília, 7 de abril de 2008.
+
+Ministro Eros Grau
+-Relator-
