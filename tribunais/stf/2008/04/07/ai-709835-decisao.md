@@ -1,0 +1,9 @@
+DECISÃO: Discute-se nestes autos a constitucionalidade da alíquota progressiva do IPTU --- em período anterior à vigência da EC 29/00 --- e das taxas de iluminação pública e de coleta de lixo e limpeza pública.
+2.	Este Tribunal firmou entendimento no sentido de que a Constituição de 1988 não recebeu o artigo 67 da Lei municipal n. 691/84, que estabelecia a progressividade da alíquota do IPTU no Município do Rio de Janeiro [RE n. 248.892, Relator o Ministro Maurício Corrêa, 2ª Turma, DJ de 31.3.00 e o RE n. 265.907, Relator o Ministro Ilmar Galvão, 1ª Turma, DJ de 7.12.00].
+3.	O STF, em recente pronunciamento, afastou a possibilidade de atribuir-se efeitos ex nunc às decisões que debatem a aplicação do preceito da lei local [Lei n. 691/84, artigo 67]. O Ministro Celso de Mello, no RE n. 395.902-AgR, 2ª Turma, DJ de 25.8.06, assim decidiu: “a necessária formulação de um juízo prévio de inconstitucionalidade, inocorrente na espécie, pois - insta-se - a norma em questão foi editada em momento anterior (1984) ao da vigência da Constituição de 1988, o que significa que a decisão que pronunciou esse juízo negativo de recepção somente 'surte efeitos a partir da promulgação da Constituição Federal (...)' (AI 482.017-AgR/RJ, Rel. Min. SEPÚLVEDA PERTENCE - grifei)”.
+4.	No que respeita à matéria relativa à TIP, o Supremo firmou entendimento no sentido de que o serviço de iluminação pública não pode ser remunerado mediante taxa [Súmula n. 670]. Quanto à TCLLP, o Supremo decidiu pela inexigibilidade da exação por configurar serviço público de caráter universal e indivisível. [RE n. 256.588-ED-EDv, Relatora a Ministra Ellen Gracie, Pleno, DJ de 3.10.03].
+	Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+	Publique-se.
+	Brasília, 7 de abril de 2008.
+Ministro Eros Grau
+- Relator -
