@@ -1,0 +1,33 @@
+DECISÃO: Vistos, etc.
+Trata-se de ação cível originária, com pedido de liminar, ajuizada pelo Conselho Federal de Medicina Veterinária contra a União, o Estado de Minas Gerais e três universidades mineiras (UNIFENAS, UNINCOR e UNIPAC).
+2. Já adianto que o objetivo do autor é anular os atos de autorização, credenciamento ou recredenciamento das instituições de ensino supramencionadas e, conseqüentemente, impedir que elas realizem vestibulares e expeçam diplomas de conclusão de seus cursos (Medicina Veterinária e Zootecnia).
+3. Para tanto, o requerente invoca dispositivos do Texto Magno (artigos 205, 209 e 211), bem como da Lei de Diretrizes e Bases (Lei nº 9.394/96), segundo a qual as instituições de direito privado -- caso dos autos -- fazem parte do Sistema Federal de Ensino (inciso II do art. 16). Por isso, essas entidades não podem ser credenciadas e supervisionadas pelo Estado-membro. O mesmo se diga no tocante ao reconhecimento dos cursos nelas ministrados, pena de usurpação de competência própria da União.  Usurpação cuja forma continuada potencializa o requisito atinente ao “perigo da demora”, pois, a cada ano, aumenta o número de médicos egressos de tais universidades, cujos registros profissionais poderão ser cassados, em prejuízo próprio e da sociedade.
+4. Prossigo neste reavivar dos fatos para esclarecer que, antes de debruçar-me sobre o pedido de liminar, determinei a intimação da União e do Estado, na forma do art. 2º da Lei nº 8.437/92. Deu-se que a primeira -- embora incluída no pólo passivo da demanda -- aderiu aos fundamentos e ao pedido do autor, para concluir que o credenciamento e a supervisão, nesses casos, cabem ao Ministério da Educação.
+5. Avanço neste relato com a anotação de que o Estado das Alterosas desenvolve raciocínio diferente. Para ele, as universidades requeridas, conquanto de natureza privada, foram criadas por lei estadual, particularidade que as exclui da regra constante do inciso II do art. 16 da Lei nº 9.394/96, em que se baseia o postulante.
+6. Mais do que isso -- finaliza a unidade federada --, o art. 82 do Ato das Disposições Constituições Transitórias da Constituição do Estado de Minas Gerais estabelece que as entidades de educação superior assim criadas ou autorizadas -- por lei estadual -- “integram o Sistema Estadual de Educação, sob a supervisão pedagógica do Conselho Estadual de Educação”. Sendo certo que este dispositivo permanece hígido, ante o indeferimento da liminar requerida na ADI 2.501, que o impugnou.
+7. Muito bem. Feita esta resenha da matéria, vê-se que o pomo da discórdia diz com a repartição de competências entre a União e os Estados, o que, em princípio, atrai a competência desta egrégia Corte, pela alínea “f” do inciso I do art. 102 da Carta Magna.
+8. Discórdia -- prossigo eu -- em torno do primado da educação, expressamente qualificada como direito social pelo art. 6º da Constituição Federal. Educação que volta a ser categorizada como “direito de todos e dever do Estado e da família” no art. 205 e sobre a qual podem legislar, concorrentemente, a União, os Estados e o Distrito Federal (inciso IX do art. 24). Daí porque, ao votar na ADI 3.098, exteriorizei o seguinte pensar:
+
+“Quando a Constituição habilita os Estados e o Distrito Federal a legislar concorrentemente com a União em matéria de educação, quero crer, Senhor Relator, que isso se justifica pelo fato de que os Estados, o Distrito Federal e até os Municípios são autorizados pela Constituição, até diria, são obrigados a manter sistemas próprios de ensino.”
+
+9. De todo modo, à frente dessa competência concorrente, desponta a competência privativa da União para legislar sobre “diretrizes e bases da educação nacional” (inciso XXIV do art. 22).
+10. Ora bem, descortinada a matriz constitucional, desço agora ao exame da Lei nº 9.394/96 (que “estabelece as diretrizes e bases da educação nacional”). Aqui, merece especial atenção o dispositivo em que se apóia o requerente. Refiro-me ao artigo 16 e inciso II que têm a seguinte legenda:
+
+“O sistema federal de ensino compreende:
+I - ...
+II- as instituições de educação superior criadas e mantidas pela iniciativa privada;
+III - ...”
+
+11. Observo agora que, para se extrair a norma que o dispositivo encerra, há de se levar em conta a presença, ali, de dois núcleos verbais indissociáveis, que se completam: criar e (conjunção aditiva) manter. Não se cogita de instituições de educação criadas ou mantidas pela iniciativa privada. Portanto, a norma inclusiva alcança tão-somente as instituições de natureza ontologicamente privada.
+12. Fixado este ponto, dou o passo seguinte para averbar que os documentos de fls. 102/118 comprovam que as entidades ora requeridas foram criadas por legislação estadual. Originariamente, são fundações instituídas pelo Poder Público estadual.
+13. Mais tarde, o art. 82 do Ato das Disposições Constituições Transitórias da Constituição mineira permitiu a alteração dos estatutos dessas unidades de ensino, de forma a extinguir seu vínculo originário com o Poder Público. Todavia, sem abdicar da “supervisão pedagógica do Conselho Estadual de Educação” e da “política educacional do Estado”. E o fato é que tal dispositivo -- junto com o art. 81 -- foi alvejado pela ADI 2.501, da relatoria do ministro Moreira Alves, mas sobreviveu ao exame da medida cautelar, feito em 15.05.2002.
+14. Naquela ocasião, o Plenário decidiu pela “falta de relevância jurídica no que diz respeito à alegação de inconstitucionalidade formal desses dois artigos, por invasão da competência privativa da União para legislar sobre diretrizes e bases da educação nacional”.
+15. Por tudo isso, concluo que, se a norma transitória da constituição mineira resiste, por enquanto, ao ataque recebido na via concentrada, não me é dado, no processo subjetivo, reconhecer liminarmente a ora alegada invasão de competência.
+16. De outra banda, no tocante ao perigo da demora, observo que ele atua dos dois lados. Quero dizer: se é verdade que a manutenção dos cursos de Medicina Veterinária e de Zootecnia pode engrossar a pilha de diplomas futuramente inválidos, não é menos verdade que o prematuro descredenciamento de tais universidades pode ter efeito contrário. Ou seja, pode inviabilizar temporariamente o exercício profissional de numerosos graduados, caso a presente ação seja, ao final, rejeitada.
+17. Ante o exposto, indefiro a liminar requerida, pela ausência de seus pressupostos legais, ainda que o pedido seja interpretado como antecipação de tutela, na forma do art. 273 do CPC.
+18. Transitada em julgado esta decisão, citem-se os requeridos que ainda não apresentaram contestação.
+Publique-se.
+Brasília, 07 de abril de 2008.
+
+Ministro CARLOS AYRES BRITTO
+Relator
