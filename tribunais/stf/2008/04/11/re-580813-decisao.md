@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS: COMPENSAÇÃO. CRÉDITOS ESCRITURAIS. ATUALIZAÇÃO MONETÁRIA. IMPOSSIBILIDADE. JURISPRUDÊNCIA DESTE SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRESUNÇÃO DE EXISTÊNCIA DA REPERCUSSÃO GERAL. RECURSO PROVIDO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O Tribunal de Justiça do Rio Grande do Sul julgou embargos infringentes em apelação cível em ação ordinária de repetição de indébito, nos termos seguintes:
+“EMBARGOS INFRINGENTES. TRIBUTÁRIO. ICMS. CRÉDITO FISCAL. CORREÇÃO MONETÁRIA. CRÉDITO NÃO UTILIZADO OPORTUNAMENTE E PERMITIDO COMPENSAR COM DÉBITOS EXISTENTES. Equivocado o entendimento do Fisco de que no período anterior à Lei n. 10.079, de janeiro de 1994, não incidia correção monetária sobre os créditos do ICMS. O que havia até então e com fundamento no princípio da não-cumulatividade consagrado na Constituição em seu art. 155, § 2º, I, ao admitir a compensação integral dos créditos, a betenização dos tributos do Estado, introduzida pela Lei Estadual n. 8.913/89, e que, por isonomia, também tinha que ser observado.
+EMBARGOS INFRINGENTES DESACOLHIDOS, POR MAIORIA” (fl. 344).
+2. O Recorrente alega que o Tribunal a quo teria afrontado os arts. 5º, caput, e inc. II, 37, caput, e 150, inc. II, da Constituição.
+Sustenta, em síntese, que, “de acordo com o voto norteador do aresto hostilizado, da lavra de seu Eminente Redator, não se cuida, na espécie, de atualização de créditos fiscais 'excedentes', mas de créditos reconhecidos pelo Estado e abatido apenas em valor histórico. Só que permissa máxima vênia de Sua Excelência, indigitados créditos fiscais, excedentes ou não, reconhecidos ou não pelo Estado, jamais deixaram de se caracterizar como meros créditos fiscais escriturais, a exemplo de seu reverso, tais os débitos fiscais de ICMS, igualmente escriturais” (fl. 363).
+Apreciada a matéria trazida nos autos, DECIDO.
+3. Inicialmente, é de se anotar que, apesar de ter sido o Recorrente intimado depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, § 1º, do Regimento Interno do Supremo Tribunal Federal - com a redação determinada pela Emenda Regimental n. 21/2007 -, esta se presume “quando o recurso (...) impugnar decisão contrária a súmula ou a jurisprudência dominante”.
+4. A matéria foi objeto de julgados do Supremo Tribunal Federal, que concluiu pela prevalência da tese defendida pelo Recorrente. Por isso a ele assiste razão, na forma do direito vigente.
+5. A jurisprudência deste Supremo Tribunal firmou-se no sentido da impossibilidade de correção monetária quanto aos créditos escriturais do ICMS.
+Nesse sentido:
+“RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. IMPOSSIBILIDADE DE EXIGÊNCIA DE CORREÇÃO MONETÁRIA DE CRÉDITOS ESCRITURAIS. PRECEDENTES DAS TURMAS DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO. 1. A incidência de correção monetária sobre o crédito foi objeto de apreciação anterior deste Supremo Tribunal, concluindo-se no sentido de que, em se tratando de irregular lançamento de crédito em decorrência do recolhimento do ICMS, não há incidência de correção no momento da compensação com o tributo devido. 2. Essas operações de creditamento têm natureza meramente contábil: são os chamados créditos escriturais. Aplica-se a eles técnica de contabilização para viabilizar a equação entre débitos e créditos, para fazer valer o princípio da não-cumulatividade” (RE 386.475, de que fui Relatora para acórdão, Tribunal Pleno, DJ 22.6.2007).
+6. O acórdão recorrido divergiu da jurisprudência deste Supremo Tribunal.
+7. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil). Ficam invertidos os ônus da sucumbência.
+Publique-se.
+Brasília, 11 de abril de 2008.
+Ministra CÁRMEN LÚCIA
+Relatora
