@@ -1,0 +1,61 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PENSIONISTA DE MAGISTRADO ESTADUAL. DIFERENÇA DE VENCIMENTOS. PARCELA AUTÔNOMA. RECURSO EXTRAORDINÁRIO CONHECIDO E PROVIDO.
+
+Relatório
+
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado da Segunda Câmara Cível do Tribunal de Justiça do Rio Grande do Norte:
+
+“ADMINISTRATIVO. APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. AÇÃO ORDINÁRIA. RESSALVA DAS PARCELAS NÃO RECLAMADAS ANTES DO QÜINQÜÊNIO ANTERIOR À PROPOSITURA DA AÇÃO. MAGISTRATURA ESTADUAL. DIFERENÇA DE VENCIMENTOS. PARCELA AUTÔNOMA. NATUREZA JURÍDICA DE VENCIMENTO. SENTENÇA MANTIDA.
+I - A natureza jurídica da parcela autônoma outra não é senão a de vencimento básico, já que não se enquadra como vantagem pecuniária, cujo direito restou consolidado pela Lei [Complementar estadual] n. 117/93, devendo incidir sobre tal parcela as demais verbas, quais sejam a gratificação de representação, auxílio transporte, férias e décimo-terceiro salário, reconhecendo-se serem devidas as diferenças referentes às parcelas vencidas e não prescritas, respeitado o prazo do art. 1º, do Decreto n. 20.910/32.
+II - Conhecimento e improvimento do Recurso de Apelação Cível e da Remessa Necessária” (Apelação Cível n. 2005.003602-4, fl. 139).
+
+2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 37, inc. XI, XII, XIII e XIV, 48, 93, inc. V, 96, inc. II, alínea b, 167 e 169 § 1º, inc. I e II, da Constituição da República.
+
+Sustenta, inicialmente, que a recorrida não é “servidor[a] pública, a ela não se aplicando a LEI COMPLEMENTAR ESTADUAL 122/94, no que se refere ao tratamento remuneratório dos servidores públicos civis strictu sensu do Estado do Rio Grande do Norte. (...). o Regime Jurídico dos Magistrados, em linhas gerais, ainda é a LOMAN - LEI DE ORGANIZAÇÃO DA MAGISTRATURA, Lei Complementar Federal n. 35, de 14.3.79” (fl. 149).
+
+Argumenta que, “além de inexistir LEI ESPECÍFICA para a previsão da incidência pretendida da parcela autônoma, da remuneração do recorrido, ainda que se prenda à espécie 'servidores públicos', o que é o caso do inciso X, do art. 37, da [Constituição da República], A INICIATIVA DE TAL LEI, conforme apontado (...) É do Presidente do SUPREMO TRIBUNAL FEDERAL (art. 93 da Constituição Federal), ou, no caso dos Estados, seguindo-se a simetria que deflui da Carta Federal (...) a iniciativa da lei respectiva é do Presidente do Tribunal de Justiça respectivo (art. 99, § 1º, da [Constituição da República], DESDE QUE DENTRO DOS LIMITES ESTIPULADOS COM OS DEMAIS PODERES, DA LEI DE DIRETRIZES ORÇAMENTÁRIAS - LDO)” (fl. 153, grifos no original).
+
+Observa que, “embora não seja servidor[a] públic[a] stricto sensu, ao recorrido aplica-se o inciso XIV do art. 37 da Constituição [da República], no que diz respeito ao fato de que os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores. Tal dispositivo é bastante claro quanto à proibição do chamado 'efeito cascata' remuneratório” (fl. 156, grifos no original).
+
+Por tudo quando expõe, pede o provimento do recurso extraordinário.
+
+Apreciada a matéria trazida na espécie, DECIDO.
+
+3. Razão jurídica assiste ao Recorrente.
+
+4. No julgamento da Ação Originária n. 755, o Plenário deste Supremo Tribunal Federal decidiu que a parcela autônoma de equivalência não há de ser incorporada ao vencimento básico dos magistrados:
+
+“EMENTA: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. COMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL (ART. 102, I, 'N'). MAGISTRATURA. VENCIMENTOS. PRETENSÃO À INCIDÊNCIA DA 'PARCELA AUTÔNOMA DE EQUIVALÊNCIA' SOBRE A VERBA DE REPRESENTAÇÃO.
+1.	É competente, originariamente, o Supremo Tribunal Federal para processar e julgar ação que trate de matéria de interesse privativo de toda a magistratura nacional (art. 102, I, 'n', da [Constituição da República]).
+2.	A verba de representação não incide sobre a 'Parcela Autônoma de Equivalência'. Precedentes do [Supremo Tribunal Federal].
+3.	Ação julgada improcedente” (Rel. Min. Sydney Sanches, unânime, DJ 25.4.2003).
+
+De igual modo, no julgamento da Ação Originária n. 666, Rel. Min. Moreira Alves, em que a Autora, magistrada, objetivava receber verba de representação incidente “sobre a totalidade de seus vencimentos, que inclui o chamado vencimento complementar, e não apenas sobre a parcela autônoma denominada vencimento do magistrado” (relatório da AO 666), a Primeira Turma deste Supremo Tribunal Federal assim deliberou:
+
+“...esta Corte, ao decidir sobre a remuneração de seus membros - e têm eles as mesmas vantagens de remuneração pagas à [Autora] -, firmou, em Sessão Administrativa realizada em 10.2.93, a orientação de que 'a natureza jurídica da parcela autônoma correspondente à diferença decorrente da Lei n. 8.448/92 (art. 1º, parágrafo único) (parcela autônoma de equivalência) é a de vencimento, que, somado ao vencimento básico e à representação, compõe os vencimentos dos Ministros do [Supremo Tribunal Federal], para todos os efeitos legais, exceto para cálculo da representação, que leva em conta apenas o vencimento básico'.
+Por isso, este Tribunal, seguindo essa orientação, tem, em várias ações diretas de inconstitucionalidade (assim, nas ADIMC's 2.094, 2.104, 2.103 e 2.106), deferido medida cautelar para suspender a eficácia de resoluções de Tribunais, que, com base no mesmo entendimento defendido pela impetrante, determinam a inclusão na base de cálculo da representação de parcela autônoma de equivalência ou de verba de representação” (trecho do voto, DJ 30.8.2002).
+
+Especificamente quanto à Lei Complementar n. 117/93, do Estado do Rio Grande do Norte, no julgamento do Recurso Extraordinário n. 382.334, decidiu a Ministra Ellen Gracie:
+
+1.	Trata-se de recurso extraordinário, alínea a, interposto contra aresto do Tribunal de Justiça do Rio Grande do Norte que considerou a parcela autônoma de equivalência integrante do vencimento básico percebido pelo magistrado estadual, ora recorrido, para efeito de incidência de outras vantagens, nos termos da Lei Complementar estadual 117/93 e da Lei local 7.892/00.
+2. 	O recorrente alega ofensa aos arts. 37, X, XI, XII, XIII, XIV, 48, 93, V, 96, II, b, 167, II, e 169 da Constituição Federal de 1988.
+3.	O apelo extremo merece prosperar. O aresto atacado está em desconformidade com a jurisprudência desta Corte. Em casos semelhantes, este Tribunal firmou o entendimento de que o art. 65 da Lei Complementar 35/79 (Loman) é taxativo, impossibilitando a incorporação da parcela autônoma de equiparação ao vencimento básico do magistrado para fins de cálculo da verba de representação.
+Nesse sentido, destaco os seguintes precedentes: AO 820-AgR, rel. Min. Celso de Mello, 2ª Turma, unânime, DJ de 05.12.2003; RE 392.876, rel. Min. Sepúlveda Pertence, decisão monocrática, DJ de 11.05.2004; RE 383.808, rel. Min. Gilmar Mendes, decisão monocrática, DJ de 09.02.2005; RE 387.057, rel. Min. Carlos Velloso, decisão monocrática, DJ de 28.04.2005; RE 397.313, rel. Min. Carlos Velloso, decisão monocrática, DJ de 28.04.2005; RE 368.401, rel. Min. Cezar Peluso, decisão monocrática, DJ de 09.05.2005; e RE 424.511, rel. Min. Joaquim Barbosa, decisão monocrática, DJ de 06.06.2005.
+4. 	Diante do exposto, com apoio no art. 557, § 1º-A, do [Código de Processo Civil], dou provimento ao recurso extraordinário para excluir a incorporação da parcela autônoma ao vencimento básico do recorrido” (decisão monocrática, DJ 8.11.2005).
+
+Nesse mesmo sentido, as seguintes decisões monocráticas que analisaram a incorporação da denominada parcela autônoma ao vencimento básico em face da Lei Complementar n. 117/93: RE 367.610, Rel. Min. Gilmar Mendes, DJ 2.12.05; RE 436.356, Rel. Min. Gilmar Mendes, DJ 27.9.05; RE 360.342, Rel. Min. Eros Grau, DJ 25.4.07; RE 369.812, Rel. Min. Eros Grau, DJ 27.3.2006; RE 387.268, Rel. Min. Eros Grau, DJ 24.3.2006; RE 385.966, Rel. Min. Eros Grau, DJ 27.3.2006; RE 386.009, Rel. Min. Ellen Gracie, DJ 20.10.2005; RE 397.313, Rel. Min. Carlos Velloso, DJ 28.4.05; e RE 368.401, Rel. Min. Cezar Peluso, DJ 9.5.2005.
+
+Dessa orientação divergiu o acórdão recorrido.
+
+5. Pelo exposto, conheço do recurso extraordinário e a ele dou provimento, nos termos do art. 557, § 1º-A, do Código de Processo Civil.
+Ficam invertidos os ônus sucumbenciais, com a ressalva de eventual concessão do benefício da assistência judiciária gratuita.
+
+Publique-se.
+
+Intime-se.
+
+Brasília, 14 de abril de 2008.
+
+Ministra CÁRMEN LÚCIA
+Relatora
