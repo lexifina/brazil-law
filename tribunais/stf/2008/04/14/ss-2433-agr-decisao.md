@@ -1,0 +1,10 @@
+1.	Trata-se de agravos regimentais interpostos por Alaor Caffe Alves e outros (fls. 845-865), e Armando Marcondes Machado Júnior e outros (fls. 884-912) da decisão (fls. 831-838) que deferiu o pedido de suspensão da execução das liminares concedidas pelo Presidente do Tribunal de Justiça do Estado de São Paulo nos autos dos Mandados de Segurança nºs 111.666.0/3, 111.000.0/5, 111.080.0/9, 111.186.0/2, 111.274.0/4, 111.130.0/8, 112.417.0/5, 113.536.0/5, 111.592.0/5, 111.239.0/5, 112.642.0/1, 112.030.0/9, 112.804.0/1, 112.802.0/2, 111.738.0/2, 111.628.0/0, 112.643.0/6 e 113.818.0/2.
+2.	O Órgão Especial do Tribunal de Justiça do Estado de São Paulo, ao apreciar os referidos writs, excluiu o Governador paulista do pólo passivo e determinou a remessa dos autos a Juízos de Primeiro Grau, tornando insubsistentes as liminares concedidas.
+3.	A Presidência do Tribunal de Justiça atuou nos mencionados writs em razão de figurar nos autos o Governador do Estado de São Paulo como autoridade coatora. Com o reconhecimento da ilegitimidade passiva do Chefe do Poder Executivo paulista, houve a distribuição dos feitos a Varas da Fazenda Pública.
+Entendo que, declarada a incompetência absoluta do Tribunal de Justiça do Estado de São Paulo para o julgamento dos mandados de segurança em apreço, a nulidade dos atos decisórios de sua Presidência se operou de imediato, nos termos do art. 113, § 2º, do Código de Processo Civil. Nesse sentido, foram as decisões proferidas pelo Plenário do Supremo Tribunal Federal nos Conflitos de Jurisdição 6.541/RS, rel. Min. Oscar Corrêa, DJ de 17.5.1985, e 6.923/SP, rel. Min. Octavio Gallotti, DJ de 14.4.1989, e na Reclamação 4.346/SP, de que fui relatora, DJ 07.6.2006.
+É dizer, não mais subsistem as decisões concessivas das liminares impugnadas na presente medida de contracautela, motivo por que não há mais que falar em sua suspensão.
+4.	Ante o exposto, julgo prejudicados os agravos regimentais interpostos, por perda superveniente de seus objetos (RISTF, art. 21, IX).
+Publique-se e arquive-se.
+Brasília, 14 de abril de 2008.
+Ministra Ellen Gracie
+Presidente
