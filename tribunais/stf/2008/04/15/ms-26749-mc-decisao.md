@@ -1,0 +1,24 @@
+DECISÃO
+
+Vistos.
+Tratam os autos de mandado de segurança impetrado por Ali Masloum, Juiz Federal, contra decisão do Conselho Nacional de Justiça, que julgou improcedente o Procedimento de Controle Administrativo, indeferindo, assim, a pretensão do impetrante de trancar o processo disciplinar em curso no Tribunal Regional Federal da 3ª Região.
+A liminar foi indeferida pelo Ministro Sepúlveda Pertence em 29 de junho de 2007 (fls. 168 a 171).
+Submetido os autos, em questão de ordem, ao Plenário desta Suprema Corte, em 2/8/07, após o voto do Ministro Sepúlveda Pertence no sentido de referendar a decisão de indeferimento da liminar e não conhecer do mandado de segurança, pediu vista o Ministro Cezar Peluso (fl. 774).
+Ingressou o impetrante, em 30/8/07, com a petição de nº 139.356, postulando fosse “reconsiderada a decisão denegatória da liminar” (fl. 179). Em 11/10/07, ingressou com outra petição, nº 165.458, requerendo a redistribuição do processo, tendo em vista a aposentadoria do Ministro Sepúlveda Pertence, que já proferiu voto no julgamento de 2/08/07. A Ministra Ellen Gracie, Presidente desta Corte, proferiu decisão no seguinte sentido:
+
+“(...)
+Verifico no controle de deslocamento do sistema de acompanhamento processual que, após a sessão de 02.08.2007, os autos transitaram entre a Secretaria e o Gabinete do Ministro Sepúlveda Pertence, onde permaneceram até a data da aposentadoria de S. Exa., em 17.08.2007. Pouco depois, procedeu-se em 11.09.2007, à substituição da relatoria de ambos os feitos, agora atribuída ao sucessor do Ministro Sepúlveda Pertence, o Ministro Menezes Direito.
+Por meio da presente petição, submetida a esta Presidência, o impetrante pondera que o atual relator dos feitos referidos, por não poder votar no julgamento em curso, 'tampouco poderá relatar em substituição'. Requer, assim a redistribuição do processo.
+Os mandados de segurança ora em exame estão, no momento, em julgamento colegiado de questão de ordem suscitada, na qual será definido se os pedidos de concessão de segurança deverão ou não ser conhecidos por esta Suprema Corte. Com a aposentadoria superveniente do relator, Ministro Sepúlveda Pertence, o futuro acórdão deverá ser lavrado pelo primeiro Ministro que vier a acompanhá-lo, caso seu voto prevaleça (RISTF, art. 38, I, IV, b) ou, ainda, pelo Ministro que primeiro abrir divergência, se vencido o entendimento daquele relator (RISTF, art. 135, § 4º).
+Dessa forma, é de se concluir que, até o término do julgamento em curso, o Ministro Sepúlveda Pertence permanece como relator dos processos aqui analisados, pois o voto inaugural na questão de ordem suscitada já foi devidamente proferido e computado. Reconheço, assim, a precocidade da substituição de relatoria levada a efeito no MS 26.710 e no MS 26.749, motivo pelo qual determino o seu cancelamento e a imediata remessa desses autos ao Gabinete do eminente Ministro Cezar Peluso, para que S. Exa., após o preparo de voto-vista, viabilize a retomada do julgamento iniciado no Plenário” (fls. 183/184).
+
+Em 14/04/08, protocolou o impetrante nova petição, de nº 51.071, postulando que fosse apreciado seu pedido de reconsideração, ressaltando que o interrogatório do impetrante no processo administrativo está marcado para o dia 16/4/08, às 10 horas (fls. 191 a 193). A Ministra Presidente, em 15/4/08, determinou que o pedido fosse submetido, com urgência, ao Ministro Cezar Peluso (fl. 189), que, na mesma data, encaminhou os autos ao meu gabinete, considerando o disposto no artigo 38, IV, “a”, do RISTF (fl. 196).
+Decido.
+Conforme bem ressaltado pela Ministra Ellen Gracie, com a aposentadoria superveniente do Ministro Sepúlveda Pertence, o acórdão a ser proferido será lavrado pelo Ministro que tiver prolatado o primeiro voto vencedor, acompanhando o Relator (art. 38, IV, “a”, do RISTF) ou, se o Relator for vencido, pelo Ministro que primeiro tiver instaurado a divergência (art. 135, § 4º, do RISTF). No caso presente, o pedido de vista feito pelo Ministro Cezar Peluso ocorreu logo após o voto proferido pelo Ministro Sepúlveda Pertence, que veio a se aposentar em 17/8/07.
+Por outro lado, tendo em vista a urgência, analiso o pedido de reconsideração formulado pelo impetrante. Considero, de primeira ordem, que o tema relativo à apreciação do pedido liminar já está submetido a julgamento no Plenário, com voto proferido pelo então Relator, em 2/8/08, no sentido de manter o indeferimento e não conhecer da segurança. O pedido de reconsideração foi formulado em 30/8/08, após o início do julgamento perante o Órgão Pleno da Corte, sendo, assim, manifestamente extemporâneo.
+Por essas razões, indefiro o pedido de reconsideração, determinando a remessa dos autos ao Ministro Cezar Peluso para oportuno prosseguimento do julgamento, tendo em vista o pedido de vista formulado por sua Excelência.
+Intime-se.
+Brasília, 15 de abril de 2008.
+
+Ministro MENEZES DIREITO
+(Art. 38, IV, a, do RISTF)
