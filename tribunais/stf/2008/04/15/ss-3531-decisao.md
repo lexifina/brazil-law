@@ -1,0 +1,24 @@
+1.	O Estado da Bahia, com fundamento no § 1° do art. 4º da Lei 4.348/64 e no art. 297 do RISTF, requer a suspensão de execução de medida liminar concedida pelo relator do mandado de segurança n.° 50.767-7/2007, em tramitação perante o egrégio Tribunal de Justiça daquele Estado, que suspendeu os efeitos da Portaria n.° 157/2007, do Secretário de Agricultura do Estado da Bahia, “(...) que determinou a intervenção no Mercado do Produtor do Município de Juazeiro e designou interventor” (fls. 08/09).
+O pedido vem embasado, em síntese, na necessidade de o Estado requerente proceder com a intervenção no Mercado do Produtor do Município de Juazeiro (art. 35 da Constituição Federal), diante de suas péssimas condições sanitárias do local e da ausência de prestação por parte daquela municipalidade (fls. 03/05).
+Razão pela qual, o requerente fundamenta seu pedido na:
+a) grave lesão à saúde pública, pois a suspensão dos efeitos da Portaria Estadual n.° 157/2007 “poderá levar a uma crise no abastecimento ou até mesmo acarretar a adoção de medidas sanitárias mais drásticas que impedirão o regular funcionamento  deste importante mercado” (fl. 05);
+b) grave lesão à ordem pública, considerada em termos de ordem administrativa, considerando que “(...), o convênio firmado pelo Município, através de seu anterior Prefeito, há de ser respeitado e importa no reconhecimento de que o estabelecimento integra o patrimônio público estadual, inclusive por não estar previsto na Lei Orgânica do Município e, tendo havido a mera cessão da gestão, mediante prestação de contas e administração adequadas.” (fl. 05);
+c) grave lesão à economia pública, porquanto a liminar questionada “(...)provocará prejuízos inúmeros, inclusive à economia do Estado que depende dos impostos e tributos incidentes sobre as operações mercantis atreladas à esse mercado produtor” (fl. 06).
+2.	A Procuradoria-Geral da República, em parecer de fls. 72/76, opina pelo deferimento do pedido de suspensão.
+3.	Ao Supremo Tribunal Federal compete apreciar os pedidos de suspensão de segurança quando a causa tiver por fundamento matéria constitucional (Lei 8.038/90, art. 25). Nessa linha, cito a SS 1.272-AgR, rel. Min. Carlos Velloso, Pleno, DJ 18.05.2001.
+
+	Esta não é a hipótese dos autos. Com efeito, em juízo mínimo de delibação, observo que a questão central do mandamus diz respeito apenas ao alegado descumprimento, pelo Poder Público municipal, do Convênio de Cooperação Técnica n.° 73/2006 - DIROP (fl.s 61/64), cujo objeto é a “transferência do gerenciamento do Mercado do Produtor Rural de Juazeiro” (fl. 61), inexistindo, portanto, qualquer implicação constitucional.
+	Da análise da peça inicial do mandado de segurança impetrado pelo Município de Juazeiro - que deu origem à medida liminar deferida pelo Tribunal de Justiça daquele Estado (fls. 10/54) -, percebe-se que a irresignação está fundamentada na expedição de ato administrativo (Portaria n.° 157/2007), que designou a intervenção do imóvel objeto daquele Convênio, norma de natureza infraconstitucional, o que inviabiliza, nesse primeiro exame, a interposição de eventual recurso extraordinário.
+	A leitura das informações prestadas pelo Secretário de Estado da Agricultura, Irrigação e Reforma Agrária denotam, inclusive, a discussão quanto à titularidade do imóvel objeto de Convênio, verbis:
+“(...)
+Em verdade, o Estado da Bahia detém a titularidade da exploração do Mercado Produtor, que é bem do domínio público estadual, não tendo jamais sido comprovada a titularidade do bem pelo impetrante; ademais, o convênio de cooperação firmado em 2006 importa no reconhecimento de que o estabelecimento integra o patrimônio público estadual, havendo a cessão da gestão, com a obrigação de prestação de contas e de adequada administração.
+(...).” (fl. 57)
+	Não se está, como visto, a discutir questões de índole constitucional, mas, sim, de legalidade, o que não enseja a competência desta Presidência para a apreciação do presente pedido de suspensão de segurança.
+4.	Vale ressaltar, ainda, ser irrelevante, para fixação da competência desta Suprema Corte, o fato de, no pedido de suspensão, ter sido suscitada ofensa a normas constitucionais. É que, “para a determinação da competência do Tribunal, o que se tem de levar em conta, até segunda ordem, é - segundo se extrai, mutatis mutandis, do art. 25 da Lei 8.038/90 - o fundamento da impetração: se este é de hierarquia infraconstitucional, presume-se que, da procedência do pedido, não surgirá questão constitucional de modo a propiciar recurso extraordinário” (Rcl 543, rel. Min. Sepúlveda Pertence, Pleno, DJ 29.09.1995).
+
+5.	Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao pedido.
+Publique-se e arquive-se.
+Brasília, 15 de abril de 2008.
+
+Ministra Ellen Gracie
+Presidente
