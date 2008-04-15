@@ -1,0 +1,18 @@
+DECISÃO: 1. Trata-se de pedidos de Extradição e de prisão preventiva, formulados pelo Governo de Portugal, com base no art. XII do Tratado de Extradição firmado com a República Federativa do Brasil em 07.05.1991 e promulgado pelo Decreto nº 1.325, de 02.12.1994.
+	Narra o pedido que o extraditando “encontra-se indiciado pela prática do crime de tráfico de estupefacientes, p. e p. pelos artigos 21º, nº 1 e 24º, alínea c) do D.L. nº 15/93, de 22 de Janeiro (na redacção da Lei 45/96 de 3 de Setembro), a que correspondee, em abstracto, a pena de 5 anos e 4 meses a 16 anos de prisão” (fls. 05).
+Detido o extraditando em 18.02.2008, deleguei competência ao Juiz Federal da Seção Judiciária do Maranhão a que o feito coubesse por distribuição, para que (i) lhe procedesse ao interrogatório e (ii) o intimasse para apresentação de defesa escrita, no prazo de 10 (dez) dias, nos termos dos arts. 210 e 211 do RISTF.
+Devidamente cumpridas tais determinações, vieram-me os autos conclusos em 11.04 p.p. (fls. 184).
+2. 	O extraditando está indefeso.
+	Tiro da defesa escrita, constante de fls. 155-158: “Diante do exposto, e tendo em vista que os requisitos necessários à concessão da extradição encontram-se presentes no caso em tela, REQUER com base nos arts. 210 e 211 do RISTF c/c art, 5º LI e LII da CF/88, que seja concedida a extradição de JOÃO BELO VILELA CALDEIRA”.
+	Ora, o disposto no art. 261 do Código de Processo Penal é consectário nevrálgico do princípio constitucional da ampla defesa (art. 5o, LV) e exige defesa técnica oportuna e efetiva. Quando falhe, compromete o justo processo da lei (art. 5º, LIV).
+	Daí, já ter decidido a Corte:
+“DEFESA - EFETIVIDADE. O princípio segundo o qual "nenhum acusado, ainda que ausente ou foragido, será processado ou julgado sem defensor" - artigo 261 do Código de Processo Penal - há de ter alcance perquirido considerada a realidade. Exsurgindo dos autos que o defensor designado teve desempenho simplesmente formal, em verdadeira postura contemplativa, forçoso e concluir que o réu esteve indefeso. "A defesa e órgão da administração da Justiça e não mero representante dos interesses do acusado. Isto porque ela se exerce, substancialmente, para a preservação e tutela de valores e interesses do corpo social, sendo, assim, garantia de proteção da própria sociedade" (Nilo Batista - Defesa Deficiente, Revista de Direito Penal, pagina 169) - Por outro lado, "se estiver evidente a inércia e desídia do defensor nomeado, o réu deve ser tido por indefeso e anulado o processo desde o momento em que deveria ter sido iniciado o patrocínio técnico no juízo penal" (Frederico Marques - Elementos do Direito Processual Penal - Volume II, página 423)” (HC nº 71.691, Rel. Min. MARCO AURÉLIO. Grifei).
+Entendo que a manifestação de fls. 155-158 traduz atuação meramente formal do defensor do extraditando, a qual não cumpre a exigência da lei e da Constituição.
+3. 	Assim, declaro o extraditando indefeso e determino remessa dos autos à Defensoria Pública da União, para que apresente, no prazo legal, defesa escrita (art. 210 do RISTF).
+	Determino, ainda, que se oficie:
+	a-) ao Juízo Federal da 1ª Vara Criminal da Seção Judiciária do Maranhão, para que providencie a remessa, a esta Corte, dos bens enumerados nos autos de apreensão de fls. 53-56 e 57-59 (apenso 01);
+	b-) ao Superintendente Regional do Departamento de Polícia Federal no Distrito Federal, para que providencie a transferência do extraditando, nos termos dos Ofício nº 2251/2008 (fls. 173) e nº 181/2008 (fls. 186), cujas cópias determino sigam anexa.
+Publique-se. Int. o extraditando e a Defensoria pessoalmente.
+Brasília, 15 de abril de 2008.
+Ministro CEZAR PELUSO
+Relator
