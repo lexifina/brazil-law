@@ -1,0 +1,2 @@
+Artigo 2º - A administração pública estadual direta e indireta destinará, anualmente, dotação orçamentária para as adaptações, eliminações e supressões de barreiras arquitetônicas existentes nos edifícios de uso público de sua propriedade e naqueles que estejam sob sua administração ou uso.
+Parágrafo único - A implementação das adaptações, eliminações e supressões de barreiras arquitetônicas referidas no "caput" deste artigo será completada no prazo estabelecido na Lei estadual n.º 11.263, de 12 de novembro de 2002.
