@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo RFB nº 26, de 25 de abril de 2008
+Dispõe sobre a caracterização de industrialização para fins de apuração das bases de cálculo do Imposto sobre a Renda da Pessoa Jurídica e da Contribuição Social sobre o Lucro Líquido.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no art. 15 da Lei nº 9.249, de 26 de dezembro de 1995, e o que consta do processo nº 10168.002277/2007-01, declara:
+Art. 1º Para fins de apuração das bases de cálculo do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL), consideram-se industrialização as operações definidas no art. 4º do Decreto nº 4.544, de 26 de dezembro de 2002, observadas as disposições do art. 5º c/c o art. 7º do referido decreto.
+Art. 2º Fica revogado o ADI RFB nº 20, de 13 de dezembro de 2007.
