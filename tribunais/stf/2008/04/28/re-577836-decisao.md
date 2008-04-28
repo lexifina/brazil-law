@@ -1,0 +1,13 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão do Tribunal Superior do Trabalho e assim ementado:
+“EMBARGOS . NULIDADE DO ACÓRDÃO PROFERIDO PELA TURMA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. A exposição, pelo órgão julgador, dos motivos reveladores de seu conhecimento, não obstante a parte desfavorecida pela decisão possa inconformar-se com a conclusão alcançada, não configura a hipótese de decisão desfundamentada. A mera contrariedade aos interesses da parte não dá suporte à alegação de nulidade do julgado. Embargos não conhecidos.
+TRANSAÇÃO. PDI. ITAIPU. QUITAÇÃO DAS PARCELAS E VALORES CONSTANTES DO RECIBO. ORIENTAÇÃO JURISPRUDENCIAL Nº 270 DA SBDI-1 DO TST. “A transação extrajudicial que importa rescisão do contrato de trabalho ante a adesão do empregado a plano de demissão voluntária implica quitação exclusivamente das parcelas e valores constantes do recibo”. Não se conhece de recurso de embargos interposto a decisão proferida em consonância com a jurisprudência iterativa, atual e notória desta Corte uniformizadora. Hipótese de incidência da Súmula nº 333 do TST. Recurso de Embargos não conhecido.”  (fl.306).
+A recorrente, com fundamento no art. 102, III, a, alega violação ao art. 5º, XXXVI, da Constituição Federal.
+
+2.	Inadmissível o recurso.
+É que o acórdão impugnado manteve decisão de não conhecimento de recurso de embargos, com base em norma infraconstitucional respeitante a requisito de admissibilidade. Ora, é pacífica a jurisprudência desta Corte, no sentido de se não admitir, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+	Ainda que superado este óbice, o recurso esbarraria na orientação assente na Corte segundo a qual “o direito adquirido, o ato jurídico perfeito e a coisa julgada encontram proteção em dois níveis: em nível infraconstitucional, na LICC, art. 6º, e em nível constitucional, art. 5º, XXXVI, CF. Todavia, o conceito de tais institutos não se encontra na Constituição, art. 5º, XXXVI, mas na lei ordinária, art. 6º da LICC. Assim, a decisão que dá pela ocorrência, ou não, no caso concreto, de tais institutos situa-se no contencioso de direito comum, que não autoriza a admissão do recurso extraordinário.” (AI nº 520942, Rel. Min. CARLOS VELLOSO, DJ 05-08-2005).
+3.	Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF, art. 38 da Lei nº 8.038, de 28.05.90, e art. 557 do CPC).
+	Publique-se. Int..
+Brasília, 28 de abril de 2008.
+Ministro CEZAR PELUSO
+Relator
