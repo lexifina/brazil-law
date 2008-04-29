@@ -1,0 +1,4 @@
+ANEXO ÚNICO
+NOMENCLATURA SIMPLIFICADA PARA A CLASSIFICAÇÃO DE MERCADORIAS
+Anexo Único
+[arquivo anexo: Anexo Único.htm]

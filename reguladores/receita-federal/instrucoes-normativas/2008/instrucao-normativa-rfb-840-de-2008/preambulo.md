@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 840, de 25 de abril de 2008
+Adota nomenclatura simplificada para a classificação e define alíquota aplicável sobre o valor arbitrado de mercadorias apreendidas e estabelece procedimentos especiais relativos a formalização de processo administrativo fiscal para a aplicação da pena de perdimento, nas situações que especifica.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no art. 65 da Lei nº 10.833, de 29 de dezembro de 2003, resolve:
