@@ -1,2 +1,3 @@
-Art. 3º A alíquota da contribuição é de oito por cento.
-Parágrafo único. No exercício de 1989, as instituições referidas no art. 1º do Decreto-Lei nº 2.426, de 7 de abril de 1988, pagarão a contribuição à alíquota de doze por cento.
+Art. 3º A alíquota da contribuição é de:
+I - quinze por cento, no caso das pessoas jurídicas de seguros privados, as de capitalização e as referidas nos incisos I a XII do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001;
+II - nove por cento, no caso das demais pessoas jurídicas.
