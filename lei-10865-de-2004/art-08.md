@@ -48,3 +48,5 @@ II - a utilização do benefício da alíquota 0 (zero) de que tratam os incisos
 I - 1,0% (um por cento), para a Contribuição para o Pis/Pasep-Importação; e
 II - 4,6% (quatro inteiros e seis décimos por cento), para a Cofins-Importação."
 § 16. Na hipótese da importação de etano, propano e butano de que trata o § 15 deste artigo, não se aplica o disposto no § 8º deste artigo.
+§ 17. O disposto no § 14 não se aplica aos valores pagos, creditados, entregues, empregados ou remetidos, por fonte situada no País, à pessoa física ou jurídica residente ou domiciliada no exterior, em decorrência da prestação de serviços de frete, afretamento, arrendamento ou aluguel de embarcações marítimas ou fluviais destinadas ao transporte de pessoas, para fins turísticos.
+§ 18. O disposto no § 17 aplicar-se-á também à hipótese de contratação ou utilização da embarcação em atividade mista de transporte de cargas e de pessoas para fins turísticos, independentemente da preponderância da atividade.
