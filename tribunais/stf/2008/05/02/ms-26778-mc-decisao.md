@@ -1,0 +1,63 @@
+DECISÃO: Trata-se de mandado de segurança, com pedido de medida liminar, impetrado contra decisão, que, proferida pelo E. Conselho Nacional do Ministério Público nos autos do Procedimento de Controle Administrativo (Processo CNMP nº 0.00.000.000501/2006-90), está assim ementada (fls. 807):
+
+“Procedimento de Controle Administrativo. Ministério Público Estadual. Decadência. Ato administrativo praticado há mais de cinco anos. O CNMP, na análise dos procedimentos de controle administrativo, deve observar as disposições do art. 54 da Lei 9.784, de 29 de janeiro de 1999, que regula o processo administrativo no âmbito da Administração Pública Federal, arquivando-se procedimento que busca rever ato administrativo praticado há mais de cinco anos.”
+
+A parte ora impetrante, ao deduzir a sua pretensão mandamental, apoiou-se, em síntese, nos seguintes fundamentos (fls. 03 e 17):
+
+“'In casu', tratou-se de representação perante o órgão acima descrito cujo objeto foi o pedido de afastamento do quadro do Ministério Público do Estado de Goiás, de representante ministerial 'readmitida' ao serviço público, sem o devido concurso exigido pela Constituição Federal de 1988.
+Referida representação foi julgada improcedente pelo r.  Conselho, cuja publicação do acórdão se deu em XXXXXXXXXX, violando, assim, DIREITO LÍQUIDO E CERTO, nos termos da CF/88, justificando, dessa forma, a autoridade coatora deste 'WRIT'.
+No dia 21 de abril de 1.989, a senhora IVANA FARINA NAVARRETE PENA, teve sua nomeação ao cargo de promotora de justiça, publicada no 'Diário Oficial' n.° 15.704, de 24.04.89, tendo assumido as funções de representante ministerial, na Comarca de Alexânia-GO, a partir de 08.05.89.
+Através da Apostila datada de 25.08.89, o então Procurador-Geral de Justiça do Ministério Público do Estado de Goiás - Amaury de Sena Aires, declara por Ato de 04.09.89, publicado no 'Diário Oficial', de n.° 15.803, de 15.09.89, que, a pedido, FORA EXONERADA do cargo de promotora de justiça de 1ª entrância da Comarca de Alexânia-GO, a partir de 01.09.89.
+O Procurador-Geral de Justiça em exercício, por ato datado de 05.04.90, publicado no Diário Oficial n.° 15.947, de 19.04.90, READMITIU a senhora doutora Ivana Farina para, em caráter efetivo, exercer o cargo de promotora de justiça da Comarca de 1ª entrância de Formoso-GO, tendo entrado em exercício aos 10.05.90.
+A senhora Ivana Farina vinha de concurso público, já regido pela atual Constituição da República, ingressou na carreira do Ministério Público do Estado de Goiás aos 21.04.89, tendo sido EXONERADA a pedido, do cargo de promotora de justiça de 1ª entrância aos 04.09.89, e READMITIDA, também a pedido, aos 05.04.90, porém sem se submeter a novo concurso público.
+.......................................................
+Conforme já exposto, o ato de READMISSAO de servidora já exonerada a pedido, fere a Constituição Federal de 1988, constituindo-se em direito líquido e certo do impetrante ver anulado referido ato administrativo readmissionário, sem concurso público, cujo direito deixou de ser observado pela autoridade coatora, ao julgar improcedente a Representação junto ao CNMP.”
+
+Entendo revelar-se insuscetível de conhecimento a presente ação de mandado de segurança. É que o Conselho Nacional do Ministério Público, na decisão que ora se impugna, não determinou a adoção de qualquer medida ou a execução de qualquer providência no caso em análise, não lhe sendo imputável, por isso mesmo, qualquer ato qualificável como lesivo ao direito vindicado pelo impetrante.
+
+Isso significa que a alegada violação ao postulado do concurso público não pode ser atribuída ao Conselho Nacional do Ministério Público, mas, isso sim, se fosse o caso, ao Ministério Público estadual a que se acha vinculada a ilustre Procuradora de Justiça em questão.
+
+Impõe-se reconhecer, desse modo, a evidente falta de competência do Supremo Tribunal Federal, para, em sede originária, processar e julgar este mandado de segurança.
+
+Sendo taxativas as hipóteses pertinentes à impetrabilidade originária de mandado de segurança perante o Supremo Tribunal Federal, revela-se evidente a incompetência absoluta desta Corte para apreciar o presente “writ”, eis que o órgão de que emanou a alegada transgressão constitucional não é o Conselho Nacional do Ministério Público, mas, como já ressaltado, o Ministério Público estadual, que não figura, contudo, dentre os órgãos previstos no rol exaustivo inscrito no art. 102, I, “d”, da Constituição da República.
+
+Cumpre rememorar, neste ponto, a advertência feita pelo eminente Ministro GILMAR MENDES no exame do pedido de medida cautelar no MS 27.077/DF, Rel. Min. CARLOS BRITTO, quando enfatizou, a propósito de situação idêntica à que se registra nesta sede mandamental, a questão pertinente à incognoscibilidade do mandado de segurança impetrado, naquele caso, contra o Conselho Nacional de Justiça:
+
+“É de se destacar a necessidade de proceder a uma redução do âmbito de proteção do art. 102, I, 'r', da Constituição de 1988 (tal como proposta pelo Min. Sepúlveda Pertence em QO nos MS nº 26710 e MS nº 26749), pois o Supremo Tribunal Federal não pode ser transformado em instância revisora das decisões do Conselho Nacional de Justiça. Nesse sentido, afirmava o Ministro Sepúlveda Pertence: '(...) é preciso distinguir as deliberações do CNJ que implicam intervenção na órbita da competência ordinária confiada, em princípio, aos juízos ou tribunais submetidos ao seu controle das que traduzem a recusa de intervir. Esclareceu, quanto às primeiras, as positivas, não haver dúvida de que o CNJ se torna responsável pela eventual lesão ou ameaça de lesão a direito conseqüentes, submetidas ao controle jurisdicional do Supremo, como, por exemplo, as que avoquem processos disciplinares em curso nos tribunais, apliquem sanções administrativas, desconstituam ou revejam decisões deles ou lhes ordene providências, mas que, diversamente, quanto às segundas, as negativas, o Conselho não substitui por ato seu o ato ou a omissão dos tribunais, objeto da reclamação, que, por conseguinte, remanescem na esfera de competência ordinária destes. MS 26710 QO/DF, rel. Min. Sepúlveda Pertence, 2.8.2007. (Informativo 474, 1º a 3 de agosto de 2007).'
+Assim, como no presente caso houve deliberação negativa por parte do Conselho Nacional de Justiça e estão pendentes de apreciação, pelo plenário deste Supremo Tribunal Federal, as Questões de Ordem nos MS nº 26.710 e MS nº 26.749, Rel. Min. Sepúlveda Pertence, nas quais o relator do feito levou à apreciação da Corte seu entendimento de que, nestes casos (deliberação negativa do CNJ), não cabe a esta Corte conhecer do mandado de segurança, apresenta-se, no mínimo, duvidosa a plausibilidade jurídica do pedido.
+Ora, em prevalecendo a tese do Min. Sepúlveda Pertence, haverá de se reconhecer a inexistência de qualquer ato coator praticado pelo CNJ em situações como a dos autos. Isso porque, na verdade, o ato que se busca reverter, no presente mandado de segurança, é uma Portaria do Tribunal de Justiça do Estado do Amazonas (Portaria nº 3.068/2007 - TJ/AM) (fl.38), o que não se admite.
+Ademais, ressalte-se que a ordem constitucional assegura ao Conselho Nacional de Justiça espectro de poder suficiente para o exercício de suas competências (art. 103-B, CF/88), não podendo esta Corte substituí-lo no exame discricionário dos motivos determinantes de suas decisões, quando estas não ultrapassem os limites da legalidade e da razoabilidade. (...).” (grifei)
+
+Torna-se claro, portanto, que, não obstante impetrado este mandado de segurança contra o Conselho Nacional do Ministério Público, a impugnação (se cabível) deveria insurgir-se, na realidade, não contra referido órgão, mas contra o Ministério Público estadual, pois é deste o ato que teria gerado a suposta inconstitucionalidade suscitada pela parte impetrante (readmissão, sem novo concurso público, de membro do Ministério Público exonerado a pedido).
+
+No caso em análise, a deliberação do Conselho Nacional do Ministério Público traduziu mero reconhecimento da decadência do direito de se questionar ato administrativo, nada determinando, nada impondo, nada avocando, nada aplicando, nada ordenando, nada invalidando, nem desconstituindo, a significar que o CNMP, órgão ora apontado como coator, não substituiu, por qualquer resolução sua, atos ou omissões imputáveis ao Ministério Público estadual.
+
+Desse modo, e pelo fato de o Supremo Tribunal Federal não dispor de competência originária para apreciar mandados de segurança que se insurjam, na realidade, contra o Ministério Público estadual, órgão estranho ao rol constante do art. 102, I, “d”, da Constituição, torna-se incognoscível a presente ação mandamental.
+
+Há, ainda, outro fundamento que impede o conhecimento da presente ação de mandado de segurança. Refiro-me ao fato de não haver, o ora impetrante, demonstrado, como lhe incumbia, mesmo que invocasse a sua condição de cidadão, o direito líquido e certo por ele alegadamente titularizado.
+
+O exame dos elementos constantes destes autos revela que o ora impetrante, ao fundamentar a sua pretensão, justificou a existência do alegado direito líquido e certo na suposta ocorrência de “dano real à administração de tão importante Instituição e, por extensão, à coletividade Goiana, para não dizer ao interesse público em geral”, dando ênfase, portanto, à sua posição de cidadão e membro responsável da comunidade.
+
+Não obstante o relevo da condição de cidadania, é imperioso reconhecer que o mandado de segurança não pode ser utilizado como sucedâneo de ação popular, consoante esta Suprema Corte tem advertido em sucessivos julgamentos (RTJ 116/71, Rel. Min. DJACI FALCÃO - RTJ 172/495-496, Rel. Min. SYDNEY SANCHES, v.g.), valendo referir, por necessário, a existência, neste Tribunal, da Súmula 101, cujo enunciado tem o seguinte conteúdo: “O mandado de segurança não substitui a ação popular”.
+
+Cumpre assinalar, finalmente, que também não há como acolher a argumentação do ora impetrante no sentido de que “os atos administrativos, de toda ordem, perpetrados pela representada (...), por serem absolutamente írritos, causaram e continuarão a causar, certamente, prejuízos, não só à Instituição do Ministério Público, como também aos seus particulares” (fls. 09).
+
+Ainda que eventualmente proclamada a nulidade do ato ora questionado, em sede processual adequada, não se pode desconhecer, no ponto, o magistério jurisprudencial que o Supremo Tribunal Federal firmou a propósito das questões surgidas em decorrência da investidura funcional “de facto”, orientando-se, esta Corte, no tema em causa, no sentido de fazer preservar, em respeito aos postulados da confiança e da boa-fé dos cidadãos, da segurança jurídica e da aparência do Direito, a integridade dos atos praticados pelo funcionário de fato:
+
+“A declaração de insubsistência da nomeação de magistrado que haja participado de julgamento não implica a nulidade deste. Milita, a favor da administração pública, a presunção de legitimidade dos respectivos atos, sendo o magistrado considerado como servidor público de fato.”
+(HC 71.834/RR, Rel. Min. MARCO AURÉLIO, Segunda Turma)
+
+Na realidade, como tenho sempre observado em tais decisões, a jurisprudência desta Corte Suprema tem advertido, no exame da controvérsia pertinente ao denominado servidor de fato, que, “Ainda que declarada a inconstitucionalidade da lei que permitiu a investidura de agentes do Executivo nas funções de Oficiais de Justiça, são válidos os atos por eles praticados” (RDA 126/216, Rel. Min. ALIOMAR BALEEIRO - grifei).
+
+Esse entendimento jurisprudencial - é sempre importante rememorar - nada mais reflete senão a orientação de autorizado magistério doutrinário (LÚCIA VALLE  FIGUEIREDO, “Curso de Direito Administrativo”, p. 257/260, itens ns. 3.2 a 4, 8ª ed., 2006, Malheiros; CELSO ANTÔNIO BANDEIRA DE MELLO, “Curso de Direito Administrativo”, p. 236, item n. 2, 22ª ed., 2007, Malheiros; JOSÉ DOS SANTOS CARVALHO FILHO, “Manual de Direito Administrativo”, p. 533/534, item n. 3, 12ª ed., 2005, Lumen Juris; MARIA SYLVIA ZANELLA DI PIETRO, “Direito Administrativo”, p. 471, item n. 12.1, 20ª ed., 2007, Atlas, v.g.), que reconhece, com fundamento na teoria da investidura aparente, “a legitimidade dos atos praticados por funcionários de fato (...)” (THEMÍSTOCLES BRANDÃO CAVALCANTI, “Tratado de Direito Administrativo”, vol. IV/84, 4ª ed., 1961, Freitas Bastos).
+
+Sendo assim, e tendo em consideração as razões expostas, não conheço da presente ação de mandado de segurança, ficando prejudicada, em conseqüência, a apreciação do pedido da medida liminar.
+
+Arquivem-se os presentes autos.
+
+Publique-se.
+
+Brasília, 02 de maio de 2008.
+
+Ministro CELSO DE MELLO
+Relator
