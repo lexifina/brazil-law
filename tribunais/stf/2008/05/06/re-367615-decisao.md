@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Município de Betim interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“Bancos. Tempo para atendimento a cliente. Lei Municipal. Competência da União. Os bancos, ainda que possuam agências em determinado Município, prestam serviços de interesse nacional, pelo que há ofensa à Constituição da República a fixação de normas, por meio de lei municipal, que estabeleçam o tempo para o atendimento aos clientes. Em reexame necessário, confirma-se a sentença” (fl. 109).
+Opostos embargos de declaração (fls. 117 a 119), foram rejeitados (fls. 123 a 126).
+Sustenta o recorrente violação do artigo 30, incisos I e II, da Constituição Federal, haja vista que “o interesse local deve ser aferido pela predominância do interesse o que torna o objeto da Lei Municipal 3.127 que busca normatizar o atendimento ao público, por parte das agências bancárias, inserido neste critério” (fls. 132/133).
+Alega que, “como a atividade bancária envolve uma relação de consumo é certo que a Lei de Defesa do Consumidor deve ser invocada a amparar esta relação, como é o caso da Lei Municipal” (fl. 134).
+Afirma que “o objetivo da lei municipal foi unicamente defender seus cidadãos, evitando que permaneçam horas em filas de banco, para quitar impostos e taxas, expostos a todos os tipos de riscos à sua integridade física” (fl. 136) e que “a Lei Municipal guerreada não afronta a Lei Federal que regula as atividades bancárias” (fl. 136).
+Contra-arrazoado (fls. 142 a 146), o recurso extraordinário (fls. 128 a 137) foi admitido (fls. 148/149).
+Decido.
+Anote-se, primeiramente, que o acórdão dos embargos de declaração, conforme expresso na certidão de folha 127, foi publicado em 20/11/01, não sendo exigível, conforme decidido na Questão de Ordem no AI 664.567, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário
+Merece prosperar a irresignação, uma vez que a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que o município, ao legislar sobre o tempo de atendimento ao público nas agências bancárias, exerceu competência a ele atribuída, nos termos do artigo 30, inciso I, da Constituição Federal.
+A matéria diz respeito a interesse local e não se confunde com a questão referente às atividades-fim das instituições financeiras. Nesse sentido:
+“CONSTITUCIONAL. COMPETÊNCIA. AGÊNCIAS BANCÁRIAS. TEMPO DE ATENDIMENTO AO PÚBLICO. LEI MUNICIPAL. INTERESSE LOCAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO. O Município tem competência para legislar sobre o tempo de atendimento ao público nas agências bancárias” (AI nº 427.373/RS-AgR, 1ª Turma, Relatora a Ministra Cármen Lúcia, DJ de 9/2/07).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AGÊNCIAS BANCÁRIAS. TEMPO DE ATENDIMENTO AO PÚBLICO. COMPETÊNCIA. MUNICÍPIO. ART. 30, I, CB/88. FUNCIONAMENTO DO SISTEMA FINANCEIRO NACIONAL. ARTS. 192 E 48, XIII, DA CB/88. 1. O Município, ao legislar sobre o tempo de atendimento ao público nas agências bancárias estabelecidas em seu território, exerce competência a ele atribuída pelo artigo 30, I, da CB/88. 2. A matéria não diz respeito ao funcionamento do Sistema Financeiro Nacional [arts. 192 e 48, XIII, da CB/88]. 3. Matéria de interesse local. Agravo regimental improvido” (RE nº 427463/RO-AgR, 1ª Turma, Relator o  Ministro Eros Grau, DJ de 19/5/06).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AGÊNCIAS BANCÁRIAS. TEMPO DE ATENDIMENTO AO PÚBLICO. COMPETÊNCIA. MUNICÍPIO. ART. 30, I, CB/88. 1. Ao legislar sobre o tempo de atendimento ao público nas agências bancárias estabelecidas em seu território, o município exerceu competência a ele atribuída pelo artigo 30, I, da CB/88. 2. Matéria de interesse local. Agravo regimental improvido” (RE nº 367.192/PB-AgR, 2ª Turma, Relator o  Ministro Eros Grau, DJ de 5/5/06).
+Ante o exposto, mos termos do artigo 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário e denego a segurança. Sem condenação em honorários, nos termos da súmula 512/STF. Custas ex-lege.
+Intime-se.
+Brasília, 6 de maio de 2008.
+Ministro MENEZES DIREITO
+Relator
