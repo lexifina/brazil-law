@@ -1,0 +1,17 @@
+Trata-se de dois recursos extraordinários interpostos por ITAUTINGA AGRO INDUSTRIAL S/A contra acórdãos proferidos pelo Tribunal de Justiça do Estado de Roraima.
+O primeiro RE (fls. 207-227) foi interposto de acórdão que julgou improcedente o incidente de inconstitucionalidade instaurado contra o art. 69, I, c, da Lei estadual 59/63, que prevê multa de 300% do valor do ICMS em caso de atraso no seu recolhimento. Funda-se o recurso no art. 102, III, a e c, da Constituição, em que se alega violação aos arts. 5º, XXII, e 150, IV, da mesma Carta, sustentando, em suma, a inconstitucionalidade do citado dispositivo local por possuir caráter confiscatório.
+No RE de fls. 267-280, interposto contra acórdão que deu parcial provimento à apelação cível para julgar parcialmente procedente a ação consignatória, novamente se requer a inconstitucionalidade da norma estadual mencionada, reiterando as razões do primeiro extraordinário. Ambos os recursos foram admitidos.
+O Subprocurador-Geral da República, entendendo que o segundo RE apenas reiterou o primeiro, opinou pela inadmissibilidade do recurso e, caso admitido, pelo seu provimento (fls. 337-341).
+A pretensão recursal merece acolhida. Esta Corte possui entendimento no sentido de considerar inconstitucional a multa fiscal com caráter confiscatório, como ocorre no presente caso. Nesse sentido foi o julgamento da ADI 1.075-MC/DF, Rel. Min. Celso de Mello, cujo trecho da ementa assim dispõe:
+“(...)
+A TRIBUTAÇÃO CONFISCATÓRIA É VEDADA PELA CONSTITUIÇÃO DA REPÚBLICA.
+- É cabível, em sede de controle normativo abstrato, a possibilidade de o Supremo Tribunal Federal examinar se determinado tributo ofende, ou não, o princípio constitucional da não-confiscatoriedade consagrado no art. 150, IV, da Constituição da República. Hipótese que versa o exame de diploma legislativo (Lei 8.846/94, art. 3º e seu parágrafo único) que instituiu multa fiscal de 300% (trezentos por cento).
+- A proibição constitucional do confisco em matéria tributária - ainda que se trate de multa fiscal resultante do inadimplemento, pelo contribuinte, de suas obrigações tributárias - nada mais representa senão a interdição, pela Carta Política, de qualquer pretensão governamental que possa conduzir, no campo da fiscalidade, à injusta apropriação estatal, no todo ou em parte, do patrimônio ou dos rendimentos dos contribuintes, comprometendo-lhes, pela insuportabilidade da carga tributária, o exercício do direito a uma existência digna, ou a prática de atividade profissional lícita ou, ainda, a regular satisfação de suas necessidades vitais básicas.
+- O Poder Público, especialmente em sede de tributação (mesmo tratando-se da definição do “quantum” pertinente ao valor das multas fiscais), não pode agir imoderadamente, pois a atividade governamental acha-se essencialmente condicionada pelo princípio da razoabilidade que se qualifica como verdadeiro parâmetro de aferição da constitucionalidade material dos atos estatais.
+(...)”
+No mesmo sentido: ADI 551/RJ, Rel. Min. Ilmar Galvão; RE 91.707/MG, Rel. Min. Moreira Alves; RE 81.550/MG, Rel. Min. Xavier de Albuquerque; RE 473.818/PE, Rel. Min. Cezar Peluso; RE 492.842/RN, Rel. Min. Joaquim Barbosa.
+Isso posto, com base nos precedentes acima mencionados, conheço do recurso extraordinário de fls. 267-280 e dou-lhe provimento (CPC, art. 557, § 1º-A) para restabelecer a sentença, prejudicado o recurso de fls. 207-227.
+Publique-se.
+Brasília, 6 de maio de 2008.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
