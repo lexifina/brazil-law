@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF09 nº 106, de 30 de abril de 2008
+Assunto: Regimes Aduaneiros O regime do Recof permite à empresa beneficiária importar ou adquirir no mercado interno, com suspensão do pagamento de tributos, mercadorias a serem submetidas à operação de montagem de centrais telefônicas classificadas nas NCMs 8517.62.22, 8517.62.23 e 8517.62.24. Na hipótese de acondicionamento e reacondicionamento para comercialização no mesmo estado em que importados, apenas os produtos que possam ser considerados como partes e peças de produto montado ao amparo desse regime poderão ser adquiridos com a suspensão de tributos. Dispositivos Legais: IN RFB nº 757, de 2007, art. 2º, § 1º.
+[arquivo anexo: SC SRRF09-Disit nº 106-2008.pdf]
