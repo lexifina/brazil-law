@@ -1,0 +1,43 @@
+DECISÃO
+
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Alex Brandão de Moura, buscando a absolvição do paciente, condenado pelo crime de receptação, pela aplicação do princípio da insignificância.
+Aponta como autoridade coatora o Ministro Napoleão Nunes Maia Filho, do Superior Tribunal de Justiça, que deu provimento ao Recurso Especial nº 1.008.948/RS, interposto pelo Ministério Público do Estado do Rio Grande do Sul.
+Sustenta, em síntese, que esta Suprema Corte tem precedente no sentido da possibilidade de aplicação do princípio da insignificância, no caso de furto de pequeno valor (RHC 89.624/RS, Relatora a Ministra Cármen Lúcia), e que, para a aplicação do princípio da insignificância, consideram-se somente os aspectos objetivos da infração praticada (AI nº 559.904/RS-QO, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 26/8/05).
+Ao final, requer “LIMINARMENTE a presente ORDEM DE HABEAS CORPUS [em favor do paciente], determinando a cassação da decisão recorrida com a absolvição do paciente em virtude da aplicação do princípio da insignificância dos bens tidos como receptados...”, ou, em caráter sucessivo, “seja dado ao final provimento ao presente habeas corpus, confirmando a liminar expedida e mantendo a absolvição do crime de receptação cometido em virtude da aplicação do princípio da insignificância, pois excludente da tipicidade que pode ser conhecido em qualquer processo e grau de jurisdição” (fl. 7/8 - grifos no original).
+Decido.
+Tem-se, nos autos, que o paciente foi condenado, em primeiro grau, à pena de 2 anos e 2 meses de reclusão, em regime inicialmente semi-aberto, pela prática do delito de receptação (art. 180, caput c/c art. 61, inc. I, ambos do Código Penal).
+Interposta apelação pela defesa, o Tribunal de Justiça do Estado do Rio Grande do Sul deu provimento parcial ao apelo e afastou a agravante da reincidência, readequando a pena privativa de liberdade para 1 ano e 10 meses de reclusão, mantida as demais cominações fixadas na sentença.
+Contra essa decisão, foi interposto recurso especial pelo Ministério Público estadual, sob a alegação de violação ao artigo 61, inc. I, do Código Penal, aduzindo que o aresto impugnado teria violado o mencionado dispositivo ao afastar a reincidência sob o pretexto de que esta perdeu a sua função teleológica. Alegou, ainda, dissídio interpretativo, levando a cotejo decisões proferidas por outros Tribunais.
+O Ministro Napoleão Nunes Maia Filho, monocraticamente, deu provimento ao recurso e determinou a remessa dos autos ao Tribunal de origem para o redimensionamento da pena imposta ao ora paciente.
+Daí o presente habeas corpus.
+Há óbice jurídico-processual para o conhecimento do writ.
+Pelo que se tem na decisão do Ministro Napoleão Nunes Maia Filho, a questão levada a julgamento perante aquele Superior Tribunal de Justiça é totalmente diversa da que está sendo trazida no presente habeas corpus. Lá, discutia-se a possibilidade ou não da aplicação da circunstância agravante prevista no art. 61, inc. I, do Código Penal (reincidência) e, aqui, a impetrante busca a absolvição do paciente pela aplicação do princípio da insignificância. Não há qualquer correlação entre os fundamentos do presente habeas corpus e do recurso especial decidido no Superior Tribunal de Justiça.
+Eis o teor daquela decisão:
+
+“8. Analisando o afastamento da reincidência pelo Tribunal a quo, sob a afirmativa de que tal instituto não se coaduna com a moderna situação do Direito Penal, cumpre ressaltar que o entendimento do aresto impugnado, além de se mostrar divergente com o entendimento adotado por este Colendo Superior Tribunal, nega vigência ao art. 61, I do CPB, que prevê expressamente o instituto como circunstância que sempre deve agravar a pena.
+9. Tem-se, pois, que as agravantes são de aplicação obrigatória, de sorte que o Julgador não pode deixar de majorar a pena, existindo discricionariedade tão-somente no tocante ao quantum a ser aplicado. Ora, se nem com base nas circunstâncias do caso concreto e nos elementos inerentes à pessoa do agente pode a agravante ser repelida, menos admissível ainda o seu afastamento calcado em considerações de lege ferenda, como o alegado fracasso teleológico do Estado.
+10. Transcreve-se, a propósito, o seguinte precedente:
+
+'PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. UTILIZAÇÃO DE 'MIXA'. INCIDÊNCIA DA QUALIFICADORA DE EMPREGO DE CHAVE FALSA. ART. 155, § 4º, III, DO CÓDIGO PENAL. REINCIDÊNCIA. ART. 61, I, DO CP. NEGATIVA DE VIGÊNCIA CONFIGURADA. NON BIS IN IDEM. RECURSO CONHECIDO E PROVIDO.
+(...).
+2. A Corte a quo, efetivamente, negou vigência ao art. 61, I, do Código Penal, que prevê a reincidência como circunstância legal que sempre deverá agravar a pena, sendo essa norma, portanto, de natureza cogente, ou seja, de aplicação obrigatória.
+3. Recurso conhecido e provido para redimensionar a pena privativa de liberdade imposta ao réu, fixando-a em 2 (dois) anos e 5 (cinco) meses de reclusão, a ser cumprida no regime aberto, mantida a pena pecuniária, nos termos propostos pelo Tribunal a quo (REsp. 841.774/RS, Rel. Min. ARNALDO ESTEVES LIMA, DJU 07.05.2007).
+
+11. Ante o exposto, com fundamento no art. 557, § 1º-A do CPC, c/c o art. 3º do CPP, conheço do recurso e dou-lhe provimento, determinando a remessa dos autos ao Tribunal a quo para o redimensionamento da pena imposta ao ora recorrido, de acordo com a fundamentação acima” (fls. 252/253 do apenso 2).
+
+Dessa forma, esta Suprema Corte está impedida de conhecer da impetração, sob pena de julgamento per saltum de questão não suscitada e julgada nas instâncias antecedentes, em flagrante violação às regras de competência.
+Nesse sentido, confira-se o julgado seguinte:
+
+“HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. TEMA QUE NÃO FOI SUSCITADO PERANTE O SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO-CONHECIMENTO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INEXISTÊNCIA. COMPLEXIDADE DA CAUSA. VÁRIOS RÉUS. EXPEDIÇÃO DE CARTAS PRECATÓRIAS. 1. A irresignação do impetrante quanto aos fundamentos do decreto de prisão preventiva não é de ser conhecida, dado que se trata de tema que não passou pelo crivo do Superior Tribunal de Justiça. A análise da matéria diretamente pelo Supremo Tribunal Federal, per saltum, implicaria indevida supressão de instância. Ação constitucional não conhecida, neste ponto específico. 2. Improcedência do alegado excesso de prazo na formação da culpa. Os elementos constantes dos autos não dão facilitada conta de que eventual demora na prestação jurisdicional é de ser debitada à inércia ou desídia do Poder Judiciário. O alongamento da custódia cautelar decorre da complexidade da causa. Causa a envolver 8 (oito) réus, necessidade da oitiva de várias testemunhas e a expedição de cartas precatórias para outros Estados da Federação. Observância do postulado da razoabilidade. 3. Habeas corpus parcialmente conhecido e, nesta parte, indeferido” (HC nº 92.202/RS, Primeira Turma, Relator o Ministro Carlos Britto, DJ de 11/4/08 - grifo nosso).
+
+“EMENTA: I - Embargos de declaração recebidos como agravo regimental. II - STF: competência originária para habeas-corpus contra decisão do STJ em recurso especial, limitada às questões nesse suscitadas. 1. Contra decisões proferidas em recurso de devolução integral da causa ou do incidente ao Tribunal ad quem - a exemplo do que sucede na apelação - o cabimento do habeas-corpus para a instância superposta independe de que o seu fundamento tenha sido expressamente suscitado ou repelido: precedentes. 2. Diversamente, contudo, se se trata de recurso de devolução restrita, o fundamento do habeas-corpus contra o acórdão que o haja decidido há de conter-se no âmbito da matéria devolvida ao Tribunal coator, a exemplo do que ocorre quando se impugna decisão do STJ em recurso especial, que só lhe devolve o conhecimento da questão federal respectiva: precedentes” (HC nº 85.858/RS-ED, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 26/8/05).
+
+E ainda: HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07; HC nº 90.162/RJ, Primeira Turma, Relator o Ministro Carlos Britto, DJ de 29/6/07; HC nº 90.312/PR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 27/4/07; e HC nº 86.997/DF, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 3/2/06, entre outros.
+Ante o exposto, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno desta Suprema Corte, nego seguimento ao presente habeas corpus.
+Intime-se.
+
+Brasília, 7 de maio de 2008.
+
+Ministro MENEZES DIREITO
+Relator
