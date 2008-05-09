@@ -1,0 +1,2 @@
+Altera as Leis nos 11.134, de 15 de julho de 2005, que dispõe sobre a remuneração devida aos militares da Polícia Militar do Distrito Federal e do Corpo de Bombeiros Militar do Distrito Federal, e 11.361, de 19 de outubro de 2006, que dispõe sobre os subsídios das carreiras de Delegado de Polícia do Distrito Federal e de Polícia Civil do Distrito Federal; e revoga as Leis nos 10.874, de 1º de junho de 2004, e 11.360, de 19 de outubro de 2006.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
