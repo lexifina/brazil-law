@@ -1,0 +1,3 @@
+ANEXO ÚNICO
+BENS QUE PODERÃO SER SUBMETIDOS AO REPETRO Embarcações destinadas às atividades de pesquisa e produção das jazidas de petróleo ou gás natural e as destinadas ao apoio e estocagem nas referidas atividades. Máquinas, aparelhos, instrumentos, ferramentas e equipamentos destinados às atividades de pesquisa e produção das jazidas de petróleo ou gás natural. Plataformas de perfuração e produção de petróleo ou gás natural, bem como as destinadas ao apoio nas referidas atividades. Veículos automóveis montados com máquinas, aparelhos, instrumentos, ferramentas e equipamentos destinados às atividades de pesquisa e produção das jazidas de petróleo ou gás natural. Estruturas especialmente concebidas para suportar plataformas.
+[arquivo anexo: tab.htm]
