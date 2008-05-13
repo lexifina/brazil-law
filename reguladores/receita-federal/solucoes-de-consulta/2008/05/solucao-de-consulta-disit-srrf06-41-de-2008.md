@@ -1,0 +1,9 @@
+Solução de Consulta Disit/SRRF06 nº 41, de 14 de abril de 2008
+ASSUNTO: Contribuição para o PIS/Pasep
+EMENTA: PREPONDERANTEMENTE EXPORTADORA. ACRÉSCIMOS LEGAIS Pessoa jurídica preponderantemente exportadora que der destino diverso de exportação a matérias-primas, produtos intermediários ou materiais de embalagem adquiridos com suspensão do PIS/Pasep, deve pagar, na condição de responsável, o PIS/Pasep não recolhido pelos fornecedores, com os seguintes acréscimos legais: a) multa de mora de 0,33% por dia de atraso, calculada a partir do dia seguinte ao da aquisição, limitada a 20%; b) juros de mora calculados à taxa referencial do Sistema Especial de Liquidação e Custódia-SELIC, a partir do primeiro dia do mês subseqüente à data de aquisição até o mês anterior ao do pagamento e de um por cento no mês de pagamento.
+DISPOSITIVOS LEGAIS: Lei nº 10.865/2004, art. 4º, § 5º; IN SRF nº 595/1995, arts. 9º e 10; Lei nº 9.430/1996, art. 61.
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins
+EMENTA: PREPONDERANTEMENTE EXPORTADORA. ACRÉSCIMOS LEGAIS Pessoa jurídica preponderantemente exportadora que der destino diverso de exportação a matérias-primas, produtos intermediários ou materiais de embalagem adquiridos com suspensão da Cofins, deve pagar, na condição de responsável, a Cofins não recolhida pelos fornecedores, com os seguintes acréscimos legais: a) multa de mora de 0,33% por dia de atraso, calculada a partir do dia seguinte ao da aquisição, limitada a 20%; b) juros de mora calculados à taxa referencial do Sistema Especial de Liquidação e CustódiaSELIC, a partir do primeiro dia do mês subseqüente à data de aquisição até o mês anterior ao do pagamento e de um por cento no mês de pagamento.
+DISPOSITIVOS LEGAIS: Lei nº 10.865/2004, art. 4º, § 5º; IN SRF nº 595/1995, arts. 9º e 10; Lei nº 9.430/1996, art. 61.
+Novo segmento
+[arquivo anexo: SC SRRF06-Disit nº 41-2008.pdf]
