@@ -1,3 +1,0 @@
-Art. 3º Para fins de controle da produção e da comprovação de que o contratante do serviço prestado seja residente ou domiciliado no exterior, o beneficiário do Repes utilizará programa de computador que permita o controle da produção dos serviços prestados.
-§ 1º A Receita Federal do Brasil terá acesso on line, pela internet, às informações e ao programa de que trata o caput deste artigo, para fins de auditoria, com controle de acesso mediante certificação digital.
-§ 2º Para fins de reconhecimento da utilização da infra-estrutura de software e hardware, o programa de que trata o caput deste artigo será homologado pela Receita Federal do Brasil, sendo-lhe facultado o acesso ao código-fonte.
