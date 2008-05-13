@@ -7,7 +7,7 @@ I - atender aos termos e às condições estabelecidos pela Secretaria da Receit
 II - declarar ao vendedor, de forma expressa e sob as penas da lei, que atende a todos os requisitos estabelecidos.
 § 5º A pessoa jurídica que, após adquirir matérias-primas, produtos intermediários e materiais de embalagem com o benefício da suspensão de que trata este artigo, der-lhes destinação diversa de exportação, fica obrigada a recolher as contribuições não pagas pelo fornecedor, acrescidas de juros e multa de mora, ou de ofício, conforme o caso, contados a partir da data da aquisição.
 § 6º As disposições deste artigo aplicam-se à Contribuição para o PIS/Pasep-Importação e à Cofins-Importação incidentes sobre os produtos de que trata o caput deste artigo.
-§ 6º-A A suspensão de que trata este artigo alcança as receitas relativas ao frete contratado no mercado interno para o transporte rodoviário dentro do território nacional de:
+§ 6º-A. A suspensão de que trata este artigo alcança as receitas de frete, bem como as receitas auferidas pelo operador de transporte multimodal, relativas a frete contratado pela pessoa jurídica preponderantemente exportadora no mercado interno para o transporte dentro do território nacional de:
 I - matérias-primas, produtos intermediários e materiais de embalagem adquiridos na forma deste artigo; e
 II - produtos destinados à exportação pela pessoa jurídica preponderantemente exportadora.
 § 7º Para fins do disposto no inciso II do § 6º-A deste artigo, o frete deverá referir-se ao transporte dos produtos até o ponto de saída do território nacional.
