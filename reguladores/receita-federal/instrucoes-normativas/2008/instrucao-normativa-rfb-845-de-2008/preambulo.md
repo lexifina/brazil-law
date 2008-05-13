@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 845, de 12 de maio de 2008
+Disciplina as aquisições de matérias-primas, produtos intermediários e materiais de embalagem, no mercado interno, por beneficiário do regime aduaneiro especial de drawback com suspensão do pagamento dos tributos incidentes.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto nos §§ 1º e 2º do art. 59 da Lei nº 10.833, de 29 de dezembro de 2003, resolve:
