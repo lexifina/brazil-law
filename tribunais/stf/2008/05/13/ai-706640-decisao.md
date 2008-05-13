@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROMOTOR DE JUSTIÇA: READMISSÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS EM RECURSO EXTRAORDINÁRIO: SÚMULA 279 DESTE SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O Superior Tribunal de Justiça julgou recurso ordinário em mandado de segurança, nos termos seguintes:
+“ADMINISTRATIVO. CONSTITUCIONAL. PROMOTOR DE JUSTIÇA. READMISSÃO. IMPOSSIBILIDADE. CONCURSO PÚBLICO. IMPRESCINDIBILIDADE. PARÁGRAFO 2º DO ARTIGO 37 DA CONSTITUIÇÃO FEDERAL. ENUNCIADO Nº. 473 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. VITALICIEDADE. INEXISTÊNCIA.
+1 - Esta Corte, perfilhando a orientação adotada pelo Supremo Tribunal Federal, vem decidindo que 'tratando-se de ato administrativo cuja formalização haja repercutido no campo de interesses individuais, a anulação não prescinde da observância do contraditório, ou seja, da instauração de processo administrativo que enseje a audição daqueles que terão modificada situação já alcançada' (RE nº. 199.733/MG, Relator o Ministro Marco Aurélio, DJU de 30/4/1999).
+2 - É de se notar, contudo, que a própria jurisprudência do Supremo Tribunal Federal já afastou essa orientação no caso de investidura sem concurso público, aplicando-se o entendimento consolidado no enunciado nº. 473, segundo o qual a Administração, valendo-se do seu poder de autotutela, pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos.
+3 - Vitaliciedade que não pode ser reconhecida em razão de não ter sido preenchido o requisito da regular aprovação em concurso público.
+4 - Recurso improvido.
+(...)
+Colhe-se das informações prestadas pela autoridade apontada como coatora que o Recorrente foi Promotor de Justiça no Estado do Ceará, no período compreendido entre 12/11/1974 e 27/2/1976, tendo pedido exoneração em decorrência de aprovação em concurso público para o cargo de Procurador da República, função que exerceu durante 21 (vinte e um) anos, até se aposentar.
+Em 7/11/1997, o impetrante formulou pedido de readmissão no cargo de Promotor de Justiça ao Procurador-Geral de Justiça do Estado do Ceará, pretensão que veio a ser indeferida pelo Conselho Superior do Ministério Público (fl. 38).
+Irresignado com essa decisão, o impetrante recorreu, tendo o então Procurador-Geral de Justiça, Dr. Nicéforo Fernandes de Oliveira, submetido o pedido ao Colégio de Procuradores que, por maioria de votos, emitiu parecer favorável, concedendo-se a readmissão por meio de resolução datada de 2 de abril de 1998, publicada no Diário da Justiça n. 55, de 6 de abril de 1998 (fl.39).
+(...)
+Contudo, é de se notar que a própria jurisprudência do Supremo Tribunal Federal já afastou essa orientação no caso de investidura sem concurso público, aplicando-se o entendimento consolidado no enunciado n. 473, segundo o qual a Administração, valendo-se do seu poder de autotutela, pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, por que deles não se originam direitos” (fls. 155-157 e 162).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula 279 deste Supremo Tribunal.
+4. O Agravante alega que “percebe-se, claramente, que não há necessidade de nova apreciação de fatos e prova. O que se intenta aqui é apenas a nova e melhor qualificação jurídica do fato já definido (e admitido pela parte) nos autos” (fl. 6).
+No recurso extraordinário, sustenta que o Tribunal a quo teria afrontado os arts. 5º, inc. LV, e 128, § 5º, inc. I, alínea a, da Constituição.
+Assevera, ainda, que, “para o reconhecimento da vitaliciedade do recorrente, é bastante considerar o seu continuado e ininterrupto exercício funcional por mais de dois anos, como literalmente exige o artigo 128, § 5º, inciso I, letra 'a', da Constituição Federal em vigor. E isso está amplamente provado e comprovado nos autos, donde a conclusão de que, data venia, obrou mal o acórdão recorrido, quando, alheio ao material cognitivo que dormita no processo, e não atentando para a melhor e mais sábia orientação doutrinária e jurisprudencial pertinente à espécie em comento, negou provimento ao recurso ordinário interposto” (fl. 182).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Para o deslinde da matéria posta à apreciação judicial, as instâncias originárias examinaram os elementos probatórios dos autos. Concluir de forma diversa demandaria, necessariamente, o reexame das provas contidas nos autos e devidamente apreciadas nas instâncias originárias, hipótese incabível em recurso extraordinário. Incide, na espécie, a Súmula 279 do Supremo Tribunal Federal.
+ Nesse sentido:
+“AGRAVO REGIMENTAL. INGRESSO NO SERVIÇO PÚBLICO, SEM CONCURSO, EM DATA ANTERIOR À PROMULGAÇÃO DA CONSTITUIÇÃO DE 1988. PRETENDIDO RECONHECIMENTO DA UNICIDADE DO CONTRATO DE TRABALHO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Alegação de violação direta e frontal do art. 5º, XXXV, LIV, LV, da Constituição federal. Ofensa reflexa ou indireta à Constituição. Inexistência de violação do art. 93, IX, da Constituição, pois o acórdão recorrido está devidamente fundamentado, ainda que com sua fundamentação não concorde a ora agravante. Agravo regimental a que se nega provimento” (AI 410.322-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 22.9.2006).
+7. Não existe, pois, divergência entre a decisão agravada, embasada nos dados do acórdão recorrido, e a jurisprudência deste Supremo Tribunal Federal, portanto, nada há a prover quanto às alegações da parte agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 13 de maio de 2008.
+Ministra CÁRMEN LÚCIA
+Relatora
