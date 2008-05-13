@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 847, de 12 de maio de 2008
+Altera o art. 2º da Instrução Normativa SRF nº 650, de 12 de maio de 2006, que estabelece procedimentos de habilitação de importadores, exportadores e internadores da Zona Franca de Manaus (ZFM) para operação no Sistema Integrado de Comércio Exterior (Siscomex) e credenciamento de seus representantes para a prática de atividades relacionadas ao despacho aduaneiro.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, resolve:
