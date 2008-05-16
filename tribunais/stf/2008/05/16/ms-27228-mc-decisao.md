@@ -1,0 +1,55 @@
+DECISÃO: Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Sérgio Fernandes Martins, contra decisão monocrática, que, emanada de Conselheiro-Relator do E. Conselho Nacional de Justiça, determinou, nos autos do Procedimento de Controle Administrativo nº 2007.10.00.001723-2, instaurado, de ofício, perante esse mesmo órgão estatal, “o afastamento do Doutor Sérgio Fernandes Martins do exercício das  funções inerentes ao cargo de Desembargador do Tribunal de Justiça  do Estado de Mato Grosso do Sul, até ulterior deliberação” (fls. 70).
+
+Sustenta-se, na presente sede mandamental, em síntese, o que se segue (fls. 12/31):
+
+	“Não suplanta o entendimento doutrinário e jurisprudencial o argumento do Conselheiro Altino Pedrozo dos Santos, de que o Tribunal de Justiça do Estado de Mato Grosso do Sul haveria de cumprir a Recomendação n. 13, de 6.11.2007, em razão dela mesma e porque o assunto já teria sido debatido no processo n. 2007.10.00.000497-3, e também no processo n. 2007.10.00.01053-5, que envolveu o mesmo colegiado, e que, 'é indispensável realçar que, a par da publicidade dada com a inserção no Diário da Justiça da União, a decisão mereceu destaque em inúmeros sítios da Internet, em especial, do próprio Conselho Nacional de Justiça, bem como por parte de órgãos da imprensa nacional'. É que, a publicação válida é aquela feita no órgão oficial - do ato jurídico que determina, ou que recomenda - e não a veiculada na imprensa midiática (todo suporte da difusão), seja escrita, falada, televisada ou internet.
+Mas não é só. No caso, como a Recomendação n. 13, de 6.11.2007, não estabeleceu data de entrada em vigor, motivo  pelo qual há de se aplicar, por analogia, o disposto no artigo 1º da Lei de Introdução ao Código Civil (Decreto-lei n. 4.657, de 4.9.1942), pelo que a sua vigência ocorre depois de passados quarenta e cinco dias da data da publicação, que se dará em 27 de dezembro de 2007, de sorte que o Tribunal de Justiça do Estado, também por isso, não estava obrigado a cumprir a determinação.
+.......................................................
+Sobre ser de índole política o ato de nomeação para cargos desta natureza, lembrava Ruy Barbosa em comentários à Constituição de 1891, no que é seguido por Cretella Júnior.
+Nesse contexto, se o ato de nomeação do impetrante pode ser classificado como um ato político, da lavra do Governador do Estado de Mato Grosso do Sul, a sua apreciação foge da competência do Conselho Nacional de Justiça - competente para o controle de legalidade dos atos administrativos do Poder Judiciário, somente -, e só poderá ser questionado perante o Poder Judiciário, a quem compete - de forma limitada, porque 'o controle dos motivos e da exatidão das circunstâncias ensejadoras dos mesmos estariam, assim, fora das atribuições irrogadas ao Judiciário' - apreciar eventual vulneração de direitos ou garantias constitucionais de um particular e a observância dos requisitos estabelecidos pela Constituição para a prática do ato.
+.......................................................
+Não fosse isso o bastante, o impetrante foi afastado do exercício de suas funções sem a observância das garantias constitucionais do devido processo legal (CF, art. 5º, LIV) e do contraditório (CF, art. 5º, LV) (...).” (grifei)
+
+Passo a examinar a postulação cautelar ora deduzida na presente sede mandamental. E, ao fazê-lo, entendo, em juízo de estrita delibação, acharem-se presentes os requisitos autorizadores da concessão do provimento cautelar ora postulado.
+
+Ao proferir decisão no MS 27.033-MC/DF, de que sou Relator, tive o ensejo de salientar que não cabe, ao Supremo Tribunal Federal, interditar o acesso dos cidadãos às sessões administrativas do Poder Judiciário, pois, nesse domínio, há de preponderar um valor maior, representado pela exposição, ao escrutínio público, das decisões administrativas dos Tribunais (CF, art. 93, inciso X).
+
+Se é certo, como referi em mencionada decisão, que os estatutos do poder, numa República fundada em bases democráticas, não podem privilegiar o mistério (MS 24.725-MC/DF, Rel. Min. CELSO DE MELLO, Informativo/STF nº 331), eis que a Constituição não sanciona, ordinariamente, o sigilo nem permite que este se transforme em “praxis” governamental, sob pena de grave ofensa ao princípio democrático (NORBERTO BOBBIO, “O Futuro da Democracia”, 1986, Paz e Terra), não é menos exato que o texto constitucional admite, embora excepcionalmente, a possibilidade do voto secreto, em determinadas situações, para a escolha de magistrados (CF, art. 119, I, e art. 120, § 1º, I).
+
+Impressiona-me, no entanto, a alegação - já anteriormente formulada nos autos do MS 27.033-MC/DF - de que o E. Conselho Nacional de Justiça teria agido “ultra vires”, excedendo os limites de sua competência material (CF, art. 103-B, § 4º), por haver deliberado, ainda que em sede monocrática, sobre “(...) ato administrativo complexo de um órgão da estrutura do Estado-membro, por outro, da União, em flagrante vulneração aos princípios da autonomia político-administrativa das unidades federativas (...) e da vedação de preferências entre os entes federativos (...)” (fls. 29/30).
+
+Sustenta-se, bem por isso, nesta sede mandamental, que atos dessa natureza - em cujo processo de formação intervêm órgãos e instituições estranhos ao Poder Judiciário (como o Governador do Estado e o Conselho Seccional da OAB) - refogem à esfera de atribuições institucionais do Conselho Nacional de Justiça, tal como acentuado pelo ora impetrante (fls. 30):
+
+“Nesse contexto, não se apresenta plausível a atividade do Conselho Nacional de Justiça, tendente a, como designam os autores tal modo de agir, retirar ou extinguir, desfazer, invalidar, desconstituir ou anular o ato administrativo em questão, competência restrita ao Poder Judiciário em razão do princípio da ubiqüidade (CF, art. 5º, XXXV).
+À Administração - e assim se enquadra a posição do CNJ no caso em debate - só é dado anular os seus próprios atos ou desconstituir os dos órgãos a ele vinculados ou subordinados, que não demandem, para a sua formação, a vontade de outro Poder do Estado ou de particulares, em relação a estes quando regidos pelo Direito Privado (...).” (grifei)
+
+Observo, ainda, que o autor do presente “writ” mandamental, além de nomeado, foi igualmente empossado no cargo de Desembargador do E. Tribunal de Justiça do Estado de Mato Grosso do Sul, vindo a ser dele afastado, no entanto - embora vitalício desde a posse (LOMAN, art. 22, I, “e”) -, por decisão monocrática de eminente Conselheiro do Conselho Nacional de Justiça, que, ao ordenar o afastamento desse ilustre Desembargador, justificou a necessidade de semelhante medida, sob a alegação de, com tal providência, impedir a ocorrência de prejuízos irreparáveis decorrentes do exercício irregular da jurisdição (fls. 87):
+
+“Neste passo, é indubitável que a permanência do empossado no exercício das funções inerentes ao cargo de Desembargador do Tribunal de Justiça do Estado de Mato Grosso do Sul, se julgado procedente o presente Procedimento de Controle Administrativo, acarretará prejuízos irreparáveis não só para a Administração, mas, e principalmente, para os administrados, dado que estará exercendo a jurisdição em decorrência de ato viciado na origem.
+É de rigor, portanto, seja suspenso o exercício das suas funções.” (grifei)
+
+Entendo, na linha de diversas decisões que tenho proferido nesta Suprema Corte (MS 26.669-MC/MA - MS 26.830-MC/DF - MS 26.970-MC/MS), que, ainda que eventualmente proclamada a nulidade dos atos de escolha e de nomeação em causa, não se pode desconhecer, no ponto, o magistério jurisprudencial que o Supremo Tribunal Federal firmou a propósito das questões surgidas em decorrência da investidura funcional “de facto”, orientando-se, esta Corte, no tema em referência, no sentido de fazer preservar, em respeito aos postulados da confiança e da boa-fé dos cidadãos, da segurança jurídica e da aparência do Direito, a integridade dos atos praticados pelo funcionário de fato:
+
+“A declaração de insubsistência da nomeação de magistrado que haja participado de julgamento não implica a nulidade deste. Milita, a favor da administração pública, a presunção de legitimidade dos respectivos atos, sendo o magistrado considerado como servidor público de fato.”
+(HC 71.834/RR, Rel. Min. MARCO AURÉLIO, Segunda Turma - grifei)
+
+Na realidade, como tenho sempre observado em tais decisões, a jurisprudência desta Corte Suprema tem advertido, no exame da controvérsia pertinente ao denominado servidor de fato, que, “Ainda que declarada a inconstitucionalidade da lei que permitiu a investidura de agentes do Executivo nas funções de Oficiais de Justiça, são válidos os atos por eles praticados” (RDA 126/216, Rel. Min. ALIOMAR BALEEIRO - grifei).
+
+Esse entendimento jurisprudencial - é sempre importante rememorar - nada mais reflete senão a orientação de autorizado magistério doutrinário (LÚCIA VALLE  FIGUEIREDO, “Curso de Direito Administrativo”, p. 257/260, itens ns. 3.2 a 4, 8ª ed., 2006, Malheiros; CELSO ANTÔNIO BANDEIRA DE MELLO, “Curso de Direito Administrativo”, p. 236, item n. 2, 22ª ed., 2007, Malheiros; JOSÉ DOS SANTOS CARVALHO FILHO, “Manual de Direito Administrativo”, p. 533/534, item n. 3, 12ª ed., 2005, Lumen Juris; MARIA SYLVIA ZANELLA DI PIETRO, “Direito Administrativo”, p. 471, item n. 12.1, 20ª ed., 2007, Atlas, v.g.), que reconhece, com fundamento na teoria da investidura aparente, “a legitimidade dos atos praticados por funcionários de fato (...)” (THEMÍSTOCLES BRANDÃO CAVALCANTI, “Tratado de Direito Administrativo”, vol. IV/84, 4ª ed., 1961, Freitas Bastos).
+
+Sendo assim, em face das razões expostas, e na linha de decisão que proferi nos autos do MS 27.033-MC/DF, de que sou Relator, defiro o pedido de medida liminar, em ordem a suspender, cautelarmente, até final julgamento da presente ação de mandado de segurança, a eficácia da deliberação emanada, no âmbito do Conselho Nacional de Justiça, do eminente Conselheiro-Relator do Procedimento de Controle Administrativo nº 2007.10.00.001723-2.
+
+Comunique-se, com urgência, transmitindo-se cópia da presente decisão à ilustre autoridade apontada como coatora e, ainda, ao E. Tribunal de Justiça do Estado de Mato Grosso do Sul.
+
+2. Requisitem-se, ainda, informações ao ilustre Conselheiro Altino Pedrozo dos Santos, Relator do Procedimento de Controle Administrativo nº 2007.10.00.001723-2, ora em curso perante o E. Conselho Nacional de Justiça.
+
+3. Por inexistir, entre a presente ação mandamental e o MS 27.033/DF, a tríplice identidade a que se refere o § 2º do art. 301 do CPC, inocorre, na espécie, situação de litispendência (CPC, art. 301, § 3º).
+
+Registra-se, no entanto, considerado o que dispõe o art. 103 do CPC, hipótese de conexão entre referidas ações, o que justifica sejam elas reunidas, para efeito de julgamento conjunto, em “simultaneus processus” (CPC, art. 105).
+
+Publique-se.
+
+Brasília, 16 de maio de 2008.
+
+Ministro CELSO DE MELLO
+Relator
