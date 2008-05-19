@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal Regional Federal da 4ª Região que, por maioria, negou provimento ao recurso em sentido estrito interposto pelo Ministério Público Federal, declarando a constitucionalidade e legalidade da criação de Vara Especializada para processar e julgar os crimes contra o sistema financeiro nacional e lavagem de dinheiro (fls. 127-134). Alega-se, no Recurso Extraordinário, a violação aos artigos 5°, II, XXXVII, LII, LIV, LXII; 22, inciso I e XVII; 24, inciso XI; 37, caput, 48, inciso IX; 68, parágrafo 1°, inciso I; 93, inciso VII; 96, inciso II, alínea “d”, e 110, caput, todos da Carta Magna.
+Segundo se depreende dos autos, tramitava investigação de suposto crime contra o sistema financeiro nacional perante o juízo federal da Subseção Judiciária de Brusque/SC. O magistrado considerou-se incompetente para conhecer do feito, afirmando a competência do juízo da Vara Criminal Especializada de Florianópolis/SC, nos termos do artigo 6° da Resolução n° 20/2003, do Tribunal Regional Federal da 4ª Região (fls. 34-35).
+O Ministério Público Federal sustentou no Recurso em Sentido Estrito a inconstitucionalidade da aludida Resolução, com base no artigo 96, II, “d”, da Constituição Federal e, ainda, violação ao princípio do juiz natural e do promotor natural (fls. 77-96).
+O acórdão recorrido foi assim ementado (fls. 134):
+“PENAL. PROCEDIMENTO CRIMINAL. COMPETÊNCIA. SISTEMA FINANCEIRO NACIONAL. “LAVAGEM” DE DINHEIRO. RESOLUÇÃO Nº 314/CJF. RESOLUÇÃO Nº 20/TRF-4ª REGIÃO.
+1. Tratando-se de procedimento criminal, a competência é determinada pela exegese das Resoluções nº 314 do Conselho da Justiça Federal e nº 20 desta Corte, com a especialização da 2ª Vara Criminal de Curitiba/PR para processar crimes contra o sistema financeiro nacional e de “lavagem” ou ocultação de bens, direitos e valores.
+2. Negado provimento ao recurso em sentido estrito.”
+O Pleno do Supremo Tribunal Federal, em recente julgamento ocorrido em 15.05.2008, no HC 88.660, rel. Min. Carmen Lúcia, ainda pendente de publicação, afirmou que o Poder Judiciário tem competência para dispor sobre especialização de varas, porque é matéria que se insere no âmbito da organização judiciária dos Tribunais. Na ocasião, ficou assentado que a mera especialização de vara federal para julgamento de crimes contra o sistema financeiro e lavagem de dinheiro, por meio de resolução, não ofende o princípio do juiz natural e não transgride o postulado da reserva de lei.
+Assim, está em consonância com o entendimento deste Tribunal o julgamento, pelo Tribunal Regional Federal da 4ª Região, do Recurso em Sentido Estrito.
+Do exposto, nego seguimento ao Recurso Extraordinário (artigo 557, caput, do CPC e art. 21, §1º, RISTF).
+Publique-se. Comunique-se com urgência ao TRF da 4ª Região.
+Brasília, 19 de maio de 2008.
+Ministro JOAQUIM BARBOSA
+Relator
