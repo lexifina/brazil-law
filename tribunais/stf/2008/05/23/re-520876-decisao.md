@@ -1,0 +1,18 @@
+DECISÃO: Discute-se no presente recurso extraordinário a constitucionalidade da cobrança da contribuição previdenciária --- instituída pela Lei n. 7.968/00, do Município de  Belo Horizonte/MG --- sobre os proventos dos servidores públicos inativos.
+2.	O Tribunal a quo decidiu que esse texto normativo é inconstitucional, vez que editado na vigência da EC 20/98, quando vedado o desconto de contribuição previdenciária sobre proventos e pensões.
+3.	Afirmou que a EC 41/03, que permite esse desconto, não recepciona a legislação editada na vigência da emenda constitucional anterior.
+4.	O recorrente alega que a EC 41/03 é dotada de aplicabilidade imediata, razão pela qual a contribuição previdenciária dos inativos é exigível, independentemente da data da publicação da lei que a instituiu.
+5.	Não assiste razão ao recorrente. O Supremo declarou a constitucionalidade da exigência da contribuição previdenciária sobre proventos de inativos e pensionistas, desde que fundada em lei posterior à EC 41/03:
+
+“AGRAVO REGIMENTAL. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE PROVENTOS DE INATIVOS E PENSIONISTAS. ILEGITIMIDADE APÓS A EMENDA CONSTITUCIONAL 20/1998. É inconstitucional a cobrança, após o advento da EC 20/1998, de contribuição previdenciária sobre os proventos de inativos e pensionistas, conforme jurisprudência firmada neste Supremo Tribunal Federal. Essa orientação aplica-se até o advento da Emenda Constitucional 41/2003, cujo art. 4º foi declarado constitucional por esta Corte, no julgamento das ADIs 3105 e 3128. Agravo regimental a que se nega provimento”
+[AI n. 466.191-AgR, Relator o Mininistro Joaquim Barbosa, DJ de 28.4.06].
+
+“[...]
+4. Tenho que o apelo extremo não merece acolhida. 5. Primeiramente, porque a norma inserta no § 2o do art. 102 da Lei Maior não passou pelo crivo da Corte de origem, nem mesmo por meio dos competentes embargos de declaração. Logo, o extraordinário carece do indispensável prequestionamento (Súmulas 282 e 356 do STF). Em segundo lugar, porque 'norma constitucional superveniente não pode constitucionalizar lei anterior, inconstitucional ao tempo de sua edição, ao menos enquanto vigorar o nosso conceito arraigado de inconstitucionalidade - nulidade' (voto do eminente Ministro Sepúlveda Pertence no julgamento do RE 346.084, Plenário, sem grifos no original). 6. De todo modo, cumpre observar que o aresto recorrido está em harmonia com a jurisprudência deste excelso Tribunal. De fato, esta colenda Corte já decidiu ser inconstitucional a incidência de contribuição previdenciária sobre os proventos da inatividade e as pensões dos servidores públicos, no período que sucedeu a Emenda Constitucional nº. 20/98. Vejam-se, a título de exemplo, os seguintes julgados: REs 372.356-AgR e 367.094-AgR, Relator Ministro Sepúlveda Pertence; RE 417.073-AgR, Relator Ministro Carlos Velloso; e RE 393.169, Relator Ministro Gilmar Mendes. 7. Portanto, bem decidiu a Corte mineira ao determinar a restituição dos valores indevidamente descontados dos recorridos com base na Lei municipal nº. 7.968/2000. Isso porque tal diploma, vindo a lume após a reforma promovida pela citada EC 20/98, já nasceu inconstitucional, no ponto em que fixa a cobrança de contribuição de inativos e pensionistas. Se já nasceu sem fundamento de validade, decerto que não poderia vir a ser recepcionado por emenda posterior, como defende a recorrente, pena de se subverter todo o arcabouço lógico-jurídico do sistema de controle de constitucionalidade, tão caro ao Estado Democrático de Direito” [grifei]
+[RE n. 490.658, Relator o Ministro Carlos Britto, DJ de 17.10.06].
+
+		  Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+		  Publique-se.
+Brasília, 23 de maio de 2008.
+Ministro Eros Grau
+- Relator -
