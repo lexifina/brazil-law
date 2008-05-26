@@ -1,0 +1,23 @@
+DECISÃO
+Vistos.
+Josefa Belo Souza interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Turma Recursal dos Juizados Especiais Federais do Estado de Pernambuco, assim ementado:
+“ADMINISTRATIVO. MILITAR. REVISÃO DE VENCIMENTOS E PROVENTOS. REAJUSTE DE 28.86%. SÚMULA 13 DA TNU. REESTRUTURAÇÃO SALARIAL. MP 2.131 DE 28/12/2000. PRESCRIÇÃO QÜINQÜENAL. RECURSO IMRPOVIDO.
+- Nos termos da Sumula 13 da TNU, o reajuste previsto nas Leis 8.622/93 e 8.627/93 (28,86%) constitui revisão geral dos vencimentos e, por isso, é devido também aos militares que não o receberam em sua integralidade, compensando o índice então concedido, observando como limite temporal desse reajuste o advento da MP 2.131/2000.
+- No entanto, deve ser observado que, conquanto se cuide de obrigação de trato sucessivo, a reestruturação salarial promovida pela MP 2.131/2000 constitui termo final do limite temporal do reajuste de 28,86% e, dessa forma, implica reconhecer que a postulação do reajuste somente poderia ocorrer até 28/12/2005 em razão da prescrição qüinqüenal.
+- Recurso inominado improvido.
+- Sem condenação em honorários advocatícios em face do benefício da justiça gratuita” (fl. 87).
+Pugna a recorrente, em suma, pela “incorporação do referido percentual de 28,86% aos proventos dos militares, considerando-se que o caso em tela versa sobre uma relação jurídica de trato sucessivo, significando que o fundo do direito não pode ser atingido pela prescrição” (fl. 91).
+Sem contra-razões (fl. 99), o recurso extraordinário (fls. 89 a 98) foi admitido (fl. 100).
+Decido.
+Anote-se, primeiramente, que o acórdão recorrido, conforme expresso na certidão de folha 88, foi publicado em 29/1/07, não sendo exigível, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+A irresignação não merece prosperar, haja vista que a jurisprudência de ambas as Turmas da Corte é no sentido de que o direito dos servidores militares à complementação do reajuste de 28,86%, concedido pelas Leis nºs 8.622/93 e 8.627/93, tem como termo final a Medida Provisória nº 2.131/2000, que reestruturou a carreira dos militares. Sobre o tema, anote-se:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO MILITAR. REAJUSTE DE 28,86%. EXTENSÃO. TERMO FINAL. MEDIDA PROVISÓRIA N. 2.131, DE 28 DE DEZEMBRO DE 2000. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 448.052-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 18/5/07).
+“Agravo regimental em recurso extraordinário. 2. Reajuste de 28,86%. Extensão aos militares. Compensação dos reajustes já concedidos. 3. Limitação temporal. MP no 2.131, de 28 de dezembro de 2000. Precedente. 4. Agravo regimental a que se nega provimento” (RE nº 491.8522-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 23/2/07).
+O acórdão recorrido, amparado nessa orientação jurisprudencial, considerou que, no caso da recorrente, o direito ao referido reajuste foi atingido pela prescrição qüinqüenal, questão restrita à interpretação da legislação infraconstitucional e ao reexame das provas dos autos, operações vedadas em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636 desta Corte. Nesse sentido:
+ “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRAZO PRESCRICIONAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. A discussão relativa ao prazo prescricional para propositura da ação situa-se no campo infraconstitucional. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE nº 485,013-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 13/4/07).
+“1. Recurso extraordinário: descabimento: questão relativa a pressuposto de admissibilidade de recurso trabalhista, restrita ao plano processual ordinário; inocorrência de negativa de prestação jurisdicional ou violação do princípio compreendido no artigo 93, IX, da Constituição. 2. Prescrição qüinqüenal: alegação de ofensa ao artigo 7º, XXIX, da Constituição, cuja verificação demandaria reapreciação de fatos e documentos, inviável no extraordinário (Súmula 279)” (AI nº 245.122-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 7/5/04).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Intime-se.
+Brasília, 26 de maio de 2008.
+Ministro MENEZES DIREITO
+Relator
