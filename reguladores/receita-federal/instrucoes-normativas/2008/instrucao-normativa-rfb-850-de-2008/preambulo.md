@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 850, de 23 de maio de 2008
+Altera a Instrução Normativa SRF nº 285, de 14 de janeiro de 2003, que dispõe sobre a aplicação do regime aduaneiro especial de admissão temporária.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no Decreto nº 6.419, de 1º de abril de 2008; e no art. 308, no parágrafo único do art. 310, no art. 316, no art. 323 e no art. 329 do Decreto nº 4.543, de 26 de dezembro de 2002, resolve:
