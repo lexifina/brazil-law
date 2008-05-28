@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que a ausência de norma de concessão da revisão geral anual da remuneração de servidores públicos, prevista no art. 37, X, da Constituição Federal, gera direito à indenização.
+Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se a impossibilidade de o Judiciário conceder indenização ante a competência privativa do Chefe do Poder Executivo estadual para a iniciativa de lei de revisão geral anual.
+Preliminarmente, deixo de examinar a repercussão geral das questões constitucionais discutidas no caso. É que esta Corte, reunida em Sessão Plenária, resolveu Questão de Ordem no AI 664.567, Rel. Min. Sepúlveda Pertence, ao entendimento de que “a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007” (Ata de julgamento publicada em 26/6/2007).
+A pretensão recursal merece acolhida. O Plenário desta Corte, no julgamento da ADI 2.492/SP, Rel. Min. Ilmar Galvão, fixou o seguinte entendimento:
+“EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE POR OMISSÃO. ART. 37, X, DA CONSTITUIÇÃO FEDERAL (REDAÇÃO DA EC N.º 19, DE 4 DE JUNHO DE 1998). ESTADO DE SÃO PAULO.
+Norma constitucional que impõe ao Governador do Estado o dever de desencadear o processo de elaboração da lei anual de revisão geral da remuneração dos servidores estaduais, prevista no dispositivo constitucional em destaque, na qualidade de titular exclusivo da competência para iniciativa da espécie, na forma prevista no art. 61, § 1.º, II, a, da Carta da República.
+Mora que, no caso, se tem por verificada, quanto à observância do preceito constitucional, desde junho de 1999, quando transcorridos os primeiros doze meses da data da edição da referida EC n.º 19/98.
+Não se compreende, a providência, nas atribuições de natureza administrativa do Chefe do Poder Executivo, não havendo cogitar, por isso, da aplicação, no caso, da norma  do  art. 103, § 2.º, in fine, que prevê a fixação de prazo para o mister.
+Procedência parcial da ação.”
+A despeito de ter sido declarada a mora do Poder Executivo, ao Judiciário não cabe determinar ao Chefe daquele Poder a observância daquele dispositivo constitucional; muito menos lhe é permitido deferir o pedido de indenização aos servidores, visto que representaria a própria concessão do reajuste dos vencimentos sem previsão legal, contrariando jurisprudência consolidada desta Corte, consubstanciada na Súmula 339 do STF.
+No mesmo sentido: RE 416.000-AgR/DF, Rel. Min. Carlos Britto; RE 457.129/MG, Rel. Min. Ellen Gracie; RE 438.066/RS, Rel. Min. Gilmar Mendes; RE 479.979/AM, Rel. Min. Eros Grau; RE 479.490-ED/AM, Rel. Min. Cezar Peluso; RE 502.368/SP, Rel. Min. Sepúlveda Pertence; RE 544.764/SP, Rel. Min. Joaquim Barbosa.
+Isso posto, conheço do recurso e dou-lhe provimento (art. 557, § 1º-A, do CPC), mantidos os ônus da sucumbência fixados na sentença de fls. 154-157.
+Publique-se.
+Brasília, 28 de maio de 2008.
+Ministro RICARDO LEWANDOWSKI
+					    - Relator -
