@@ -1,0 +1,4 @@
+# LEI Nº 13.032, DE 29 DE MAIO DE 2008
+Altera a Lei n. 6.606, de 20 de dezembro de 1989, que dispõe sobre o Imposto sobre a Propriedade de Veículos Automotores - IPVA
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
