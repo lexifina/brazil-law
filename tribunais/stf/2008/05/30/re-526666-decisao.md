@@ -1,0 +1,16 @@
+DECISÃO: Discute-se neste recurso extraordinário a possibilidade de servidor, cujo ato de adesão a programa de demissão voluntária fora anulado pelo Poder Legislativo, ser reintegrado ao cargo.
+2.	O Tribunal de Justiça do Estão do Piauí afirmou que “a omissão pura e simples da Administração Pública, resultando em descumprimento de ato normativo que, por sua vez, torna ineficaz ou anula o desligamento de servidores públicos que aderiam a programa criado para esse fim, sob o fundamento de ter havido vícios ou irregularidades em sua execução, implica lesão a direito líquido e certo daqueles cujos nomes constam do mesmo ato e não foram, ainda assim, reintegrados aos cargos que ocupavam antes da adesão. Segurança concedida” [fl. 75].
+3.	O recorrente sustenta que o provimento judicial violou preceitos da Constituição do Brasil, eis que “a usurpação de competência do Poder Executivo decorre do fato de que este Poder teve atos seus anulados inconstitucionalmente pelo Legislativo, que a Constituição Federal (art. 49, V) e a Constituição Estadual (art. 63, II) conferem a este último competência para 'sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar', exclusivamente, não abrangendo, portanto, outros atos” [fls. 113-125].
+4.	O recurso merece prosperar. O Supremo, ao julgar a ADI n. 2.364 - MC, Relator o Ministro Celso de Mello, DJ de 14.12.01, fixou o seguinte entendimento:
+
+“E M E N T A: AÇÃO DIRETA DE INCONSTITUCIONALIDADE - LEI ESTADUAL, DE INICIATIVA PARLAMENTAR, QUE INTERVÉM NO REGIME JURÍDICO DE SERVIDORES PÚBLICOS VINCULADOS AO PODER EXECUTIVO - USURPAÇÃO DO PODER DE INICIATIVA RESERVADO AO GOVERNADOR DO ESTADO - INCONSTITUCIONALIDADE - CONTEÚDO MATERIAL DO DIPLOMA LEGISLATIVO IMPUGNADO (LEI Nº 6.161/2000, ART. 70) QUE TORNA SEM EFEITO ATOS ADMINISTRATIVOS EDITADOS PELO GOVERNADOR DO ESTADO - IMPOSSIBILIDADE - OFENSA AO PRINCÍPIO CONSTITUCIONAL DA RESERVA DE ADMINISTRAÇÃO - MEDIDA CAUTELAR DEFERIDA, COM EFICÁCIA EX TUNC. PROCESSO LEGISLATIVO E INICIATIVA RESERVADA DAS LEIS.
+
+[...]
+
+RESERVA DE ADMINISTRAÇÃO E SEPARAÇÃO DE PODERES. - O princípio constitucional da reserva de administração impede a ingerência normativa do Poder Legislativo em matérias sujeitas à exclusiva competência administrativa do Poder Executivo. É que, em tais matérias, o Legislativo não se qualifica como instância de revisão dos atos administrativos emanados do Poder Executivo. Precedentes. Não cabe, desse modo, ao Poder Legislativo, sob pena de grave desrespeito ao postulado da separação de poderes, desconstituir, por lei, atos de caráter administrativo que tenham sido editados pelo Poder Executivo, no estrito desempenho de suas privativas atribuições institucionais. Essa prática legislativa, quando efetivada, subverte a função primária da lei, transgride o princípio da divisão funcional do poder, representa comportamento heterodoxo da instituição parlamentar e importa em atuação ultra vires do Poder Legislativo, que não pode, em sua atuação político-jurídica, exorbitar dos limites que definem o exercício de suas prerrogativas institucionais”.
+
+Dou provimento ao recurso com fundamento no disposto no artigo 557, § 1º-A, do CPC.
+Publique-se.
+Brasília, 30 de maio de 2008.
+Ministro Eros Grau
+- Relator -
