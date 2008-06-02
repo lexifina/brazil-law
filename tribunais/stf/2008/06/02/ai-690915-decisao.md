@@ -1,0 +1,32 @@
+DECISÃO
+Vistos.
+Pioneira Saneamento e Limpeza Urbana Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, incisos XXXIV, alínea “a”, e LV, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Décima Terceira Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+“Mandado de Segurança - Pretensão em ver reconhecida a ilegitimidade da exigência de depósito para recorrer em procedimento administrativo - Inexistência de afronta à Constituição Federal - Precedentes do Supremo Tribunal Federal - Apelo improvido” (fl. 80).
+
+Opostos embargos de declaração (fls. 85 a 91), foram rejeitados (fls. 92 a 94).
+Decido.
+Anote-se, primeiramente, que o acórdão dos embargos de declaração, conforme expresso na certidão de folha 95, foi publicado em 6/12/06, não sendo exigível, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+Merece prosperar a irresignação da recorrente.
+Em julgamentos recentes, o Plenário do Supremo Tribunal Federal firmou orientação no sentido de que as exigências do depósito prévio e do arrolamento de bens como condição de admissibilidade de recurso na esfera administrativa violam as garantias constitucionais do direito de petição, do contraditório e da ampla defesa. Sobre o tema, anote-se:
+
+“RECURSO ADMINISTRATIVO - DEPÓSITO - § 2º DO ARTIGO 33 DO DECRETO Nº 70.235/72 - INCONSTITUCIONALIDADE. A garantia constitucional da ampla defesa afasta a exigência do depósito como pressuposto de admissibilidade de recurso administrativo” (RE nº 388.359/PE, Relator o Ministro Marco Aurélio, DJ de 22/6/07).
+
+“RECURSO ADMINISTRATIVO - DEPÓSITO - §§ 1º E 2º DO ARTIGO 126 DA LEI Nº 8.213/1991 - INCONSTITUCIONALIDADE. A garantia constitucional da ampla defesa afasta a exigência do depósito como pressuposto de admissibilidade de recurso administrativo” (RE nº 389.383/SP, Relator o Ministro Marco Aurélio, DJ de 29/6/07).
+
+“Recurso administrativo: depósito prévio. 1. O Supremo Tribunal, revendo entendimento anterior, assentou que a exigência do depósito prévio do valor da multa questionada, como condição de admissibilidade de recurso administrativo, ofende o art. 5º, LV, da Constituição da República (RE 388.359, Pl, 28.03.07, M. Aurélio, Inf./STF 461). 2. Agravo regimental provido e convertido em recurso extraordinário, ao qual se dá provimento, conforme o precedente, com ressalva do voto vencido do Relator deste, para declarar a inconstitucionalidade do art. 250 do Dec-lei 5, de 15.3.1975, com as redações sucessivamente ditadas pela L. 3.188, de 22 fevereiro de 1999 e pela L. 3.344, de 29 de dezembro de 1999, todos do Estado do Rio de Janeiro” (AI nº 398.933/RJ-AgR, Relator o Ministro Sepúlveda Pertence, DJ de 29/6/07).
+
+No mesmo sentido: ADI nº 1.074/DF, Relator o Ministro Eros Grau, DJ de 25/5/07; ADI nº 1.976/DF, Relator o Ministro Joaquim Barbosa, DJ de 18/5/07; RE nº 390.513/SP, Relator o Ministro Marco Aurélio, DJ de 29/6/07; e AI nº 408.914/RJ-AgR, Relator o Ministro Sepúlveda Pertence, DJ de 29/6/07.
+As Turmas desta Corte, também, aplicam esse entendimento. A propósito:
+
+“1. Recurso extraordinário: conhecimento. Caso em que, apesar de constar da interposição do recurso extraordinário a alusão ao artigo 101, III, da Constituição Federal como regra constitucional a autorizar o seu cabimento, pelas razões recursais depreende-se claramente a alegação de violação do artigo 5º, XXXIV, a, e LV, da Constituição pelo acórdão recorrido, bem como a exposição dos fatos pertinentes ao deslinde da controvérsia. 2. Processo Administrativo: depósito da multa. Em recente julgamento, o Supremo decidiu que a exigência do depósito do valor da multa, como condição de admissibilidade do recurso na esfera administrativa, é inconstitucional, por violar as garantias constitucionais do direito de petição, do contraditório, e da ampla defesa (RREE 388.359, 389.383, e 390.513, M. Aurélio, e ADIns 1.922 e 1.976, Joaquim, Inf. 461 e 462)” (RE  nº 402.904/PE-AgRAgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 14/9/07).
+
+“RECURSO EXTRAORDINÁRIO - EXIGÊNCIA LEGAL DE PRÉVIO DEPÓSITO DO VALOR DA MULTA COMO CONDIÇÃO DE ADMISSIBILIDADE DO RECURSO ADMINISTRATIVO - OCORRÊNCIA DE TRANSGRESSÃO AO ART. 5º, LV, DA CONSTITUIÇÃO DA REPÚBLICA - NOVA ORIENTAÇÃO JURISPRUDENCIAL FIRMADA PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL - RECURSO DE AGRAVO PROVIDO. - A exigência legal de prévio depósito do valor da multa, como pressuposto de admissibilidade de recurso de caráter meramente administrativo, transgride o art. 5º, LV, da Constituição da República. Revisão da jurisprudência: RE 390.513/SP (Pleno)” (RE nº 504.288/BA-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 29/6/07).
+
+Ante o exposto, nos termos do art. 544, §§ 3º e 4º, do Código de Processo Civil, com a redação da Lei nº 9.756/98, conheço do agravo e dou provimento  ao recurso extraordinário para afastar a exigibilidade de depósito prévio como pressuposto de admissibilidade de recurso administrativo. Sem condenação em honorários, nos termos da Súmula nº 512/STF. Custas ex lege.
+Intime-se.
+Brasília, 2 de junho de 2008.
+
+Ministro MENEZES DIREITO
+Relator
