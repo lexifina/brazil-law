@@ -1,0 +1,3 @@
+## Disposições Transitórias
+Artigo 1º - Os atuais servidores que estiverem designados para o desempenho de atividades de supervisão nos Postos do "POUPATEMPO - Centrais de Atendimento ao Cidadão" passarão a exercer automaticamente as atividades próprias do Poder Público relativas a supervisão e orientação técnica, a que se refere o artigo 5º da Lei Complementar nº 847, de 16 de julho de 1998, com a redação dada por esta lei complementar, até a cessação da respectiva designação.
+Parágrafo único - A designação dos servidores de que trata este artigo poderá ser cessada a qualquer momento, por iniciativa do Secretário de Gestão Pública.
