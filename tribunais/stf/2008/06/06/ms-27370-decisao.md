@@ -1,0 +1,28 @@
+DECISÃO
+
+Vistos.
+Mandado de Segurança, com pedido liminar, impetrado por Luciene Fernandes Jacinto contra o Presidente do Tribunal de Contas da União e o Presidente do IBAMA - Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis.
+Afirma a impetrante, à fl. 3, que o Tribunal de Contas da União, por meio de diversas decisões, “dentre as quais os r. acórdãos nº 1.144/04, 1.689/05, 228/06, publicados no DOU, respectivamente, em 19/05/2004, 19/08/2005, 08/02/2006 e 10/10/2006”, determinou a supressão do percentual de 26,06% sobre os seus vencimentos, contrariando decisão judicial do TRT da 10ª Região, já transitada em julgado.
+Aduz a impetrante:
+
+“(...)
+No presente caso, são duas as autoridades coatoras, conforme anteriormente indicado na inicial. A primeira autoridade desrespeitou a coisa julgada ao proferir os acórdãos nº 1.144/04, 1.689/05, 228/06, entre outros, determinando ao IBAMA - Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - que cessasse todos os pagamentos decorrentes de decisões judiciais em que estivessem incluídos, dentre outros percentuais, os 26,06% (gatilho salarial) conferidos aos servidores daquela autarquia federal.
+A segunda autoridade coatora acatou os acórdãos do TCU   e, dando continuidade aos seus efeitos, praticou ato ilegal, retirando dos vencimentos da impetrante a vantagem assegurada pela coisa julgada. O Presidente do IBAMA, por meio do Coordenador Geral de Recursos Humanos do órgão, encaminhou à impetrante, no ano de 2006, uma notificação (nº 203/2006), informando que seriam retirados de seus vencimentos as referidas vantagens. Contudo, a efetiva retirada somente acorreu no pagamento do mês de abril de 2008, referente aos vencimentos do mês de março deste mesmo ano, após a apreciação pelo órgão de recurso administrativo (Processo 02001.004998/2006-41) apresentado  pela ora impetrante contra a referida notificação, bem como do Memorando nº 192/2007/GP/IBAMA e do Despacho nº 1762/2007 - GABIN/IBAMA” (fl. 04).
+
+Decido.
+Dos acórdãos do Tribunal de Contas da União apontados como coatores, o mais recente é o de nº 228/06, que foi publicado no Diário Oficial da União em 10/2/06 (fl. 240).
+A impetrante efetivamente tomou ciência da decisão do Tribunal de Contas da União em 12/6/06, conforme prova a notificação feita pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA (fl. 83). Posteriormente, a impetrante, em razão da notificação referida, chegou a protocolar junto ao IBAMA, em 1º/9/06, recurso administrativo para impugnar a aplicação, por esse órgão, do acórdão proferido pelo TCU (fls. 86 a 89), o qual foi indeferido em 12/04/07 (fl. 118).
+A petição do mandado de segurança foi protocolada nesta Corte em 02/6/2008, portanto, quando já decorrido, em muito, o prazo decadencial de 120 (cento e vinte) dias previsto no artigo 18 da Lei nº 1.533/51, contados da data em que tomou ciência do acórdão do Tribunal de Contas da União.
+Por outro lado, não merece acolhida a tese da impetrante de que o acórdão do TCU somente começou a produzir efeitos quando da efetiva retirada, pelo órgão empregador, IBAMA, do percentual de 26,06 dos vencimentos da impetrante, o que ocorreu em março/2008 (fl. 120). Segundo a jurisprudência da Corte, o prazo decadencial em questão tem início na data em que o ato apontado como coator está apto a produzir os seus efeitos, ou seja, na data de sua publicação. Vejamos:
+
+“- AGRAVO REGIMENTAL - MANDADO DE SEGURANÇA - DECLARAÇÃO EXPROPRIATÓRIA - PRAZO DE 120 DIAS - DIES A QUO - DECADÊNCIA - RECURSO IMPROVIDO. A DECLARAÇÃO EXPROPRIATÓRIA CARACTERIZA-SE TÍPICO ATO ESTATAL DE EFEITOS CONCRETOS. REVESTE-SE DE APTIDÃO PARA PRODUZIR IMEDIATAS CONSEQÜÊNCIAS NO PLANO JURÍDICO, DESDE O INSTANTE MESMO DE SUA PUBLICAÇÃO OFICIAL, O QUE A TORNA SUSCETÍVEL DE CONTROLE JURISDICIONAL PELA VIA DO MANDADO DE SEGURANÇA. - O TERMO INICIAL DO PRAZO DECADENCIAL DE 120 DIAS COMECA A FLUIR, PARA EFEITO DE IMPETRAÇÃO DO MANDADO DE SEGURANÇA, A PARTIR DA DATA EM QUE O ATO DO PODER PÚBLICO, FORMALMENTE DIVULGADO NO DIÁRIO OFICIAL, REVELA-SE APTO A GERAR EFEITOS LESIVOS NA ESFERA JURÍDICA DO INTERESSADO. NAS DESAPROPRIAÇÕES O DIES A QUO DESSE PRAZO COINCIDE COM O DA PUBLICAÇÃO DO DECRETO GOVERNAMENTAL CONSUBSTANCIADOR DA DECLARAÇÃO EXPROPRIATÓRIA (DECLARAÇÃO DE UTILIDADE OU DE NECESSIDADE PÚBLICA, OU DE INTERESSE SOCIAL), E NÃO COM O DA EFETIVAÇÃO, EM MOMENTO POSTERIOR, DO ATO CITATÓRIO NO PROCEDIMENTO JUDICIAL” (MS 21.167/DF-AgR, Pleno, Relator o Ministro Celso de Mello, DJ  de 20/4/95).
+
+“CONSTITUCIONAL. MANDADO DE SEGURANÇA. DECADÊNCIA. Lei 1.533/51, art. 18. I. - A publicação do ato impugnado no "Diário Oficial" constitui o termo inicial do prazo de cento e vinte dias para impetrar mandado de segurança (Lei 1.533/51, art. 18), contando-se o prazo a partir do primeiro dia útil seguinte à publicação. II. - Precedentes do STF: MS 21.356-AgR/DF, Brossard, Plenário, 12.9.91, RTJ 140/73; MS 22.303/RJ, Velloso, Plenário. III. - Mandado de segurança não conhecido. Agravo não provido” (MS 24.505/DF-AgR, Pleno, Relator o Ministro Carlos Velloso, DJ de 14/11/03).
+
+Cumpre esclarecer que não se aplicam ao caso em tela os precedentes de prestações de trato sucessivo, pois o ato coator sujeito a revisão nesta Corte é o proferido pelo TCU, que determinou ao IBAMA que fizesse cessar os pagamentos dos valores considerados indevidos. A decisão do IBAMA apenas deu cumprimento ao acórdão do TCU, não cabendo a esta Suprema Corte revê-la.
+Do exposto, denego a segurança.
+Intime-se.
+Brasília, 6 de junho de 2008.
+
+Ministro MENEZES DIREITO
+Relator
