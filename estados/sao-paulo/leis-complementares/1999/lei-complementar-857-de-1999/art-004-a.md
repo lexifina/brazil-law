@@ -1,0 +1,4 @@
+Artigo 4ºA - O Poder Executivo poderá converter, anualmente, em pecúnia, mediante requerimento, uma parcela de 30 (trinta) dias equivalente aos vencimentos mensais do benefício da licença -prêmio aos integrantes das carreiras da Polícia Civil, da Superintendência Técnico Científica e da Polícia Militar do Estado de São Paulo, em efetivo exercício, que a ele tiverem direito. (NR)
+§ 1º - Os meses restantes do período considerado, somente poderão ser fruídos em ano diverso daquele em que o beneficiário recebeu em dinheiro, até o prazo previsto no artigo 213, da Lei nº 10.261, de 28 de outubro de 1968. (NR)
+§ 2º - O policial que optar pela conversão em pecúnia prevista neste artigo, encaminhará ao órgão gerenciador de pessoal, requerimento devidamente instruído com a publicação que lhe concedeu o benefício e com a indicação de que não fruiu a parcela de licença -prêmio no ano considerado. (NR)
+- Artigo 4ºA acrescentado pela Lei Complementar nº 989, de 17/01/2006.

@@ -1,0 +1,1 @@
+Artigo 4ºB - O pagamento de que trata o artigo 4ºA será autorizado pelo Governador do Estado, mediante Decreto, identificando o período de vigência e tomando por base a necessidade do serviço policial e a disponibilidade do Tesouro. (NR)
