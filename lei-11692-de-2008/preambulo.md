@@ -1,0 +1,2 @@
+Dispõe sobre o Programa Nacional de Inclusão de Jovens - Projovem, instituído pela Lei nº 11.129, de 30 de junho de 2005; altera a Lei nº 10.836, de 9 de janeiro de 2004; revoga dispositivos das Leis nos 9.608, de 18 de fevereiro de 1998, 10.748, de 22 de outubro de 2003, 10.940, de 27 de agosto de 2004, 11.129, de 30 de junho de 2005, e 11.180, de 23 de setembro de 2005; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
