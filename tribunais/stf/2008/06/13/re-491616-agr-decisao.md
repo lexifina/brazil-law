@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo regimental interposto contra decisão que deu parcial provimento ao recurso extraordinário.
+2.	O agravante alega que “a v. decisão de fl., que deu parcial provimento ao recurso extraordinário, para excluir a incidência de juros compensatórios e moratórios sobre o parcelamento constitucional, sendo estes últimos devidos tão-somente no caso de inadimplemento da Fazenda Pública em relação ao vencimento das parcelas, incidiu em omissão, ao deixar de pronunciar-se sobre ponto expresso constante das razões recursais” e, ainda, “[n]a ocasião, ressaltou o recorrente a necessidade de citação prévia da Fazenda Pública para a expedição de ofício requisitório complementar, sob pena de violação às regras atinentes ao orçamento e à própria ordem cronológica de pagamento” [fl. 277].
+3.	Torno sem efeito essa decisão e julgo prejudicado o agravo regimental interposto, passando prontamente à análise do recurso extraordinário.
+4.	Nele se discute a inclusão de juros moratórios em precatório parcelado de acordo com o artigo 33 do ADCT, bem assim a necessidade de citação da Fazenda Pública para a expedição de precatório complementar.
+5.	O recorrente alega, ainda, prescrição quanto às sete primeiras parcelas já pagas.
+6.	Sobre a prescrição, o Supremo entendeu que a “controvérsia sobre a incidência, ou não, da prescrição cinge-se ao campo legal, descabendo concluir pela violência à Constituição Federal” [AI n. 453.614-AgR, Relator o Ministro Marco Aurélio, DJ de 3.9.04].
+7.	O STF decidiu que “o parcelamento previsto no art. 33 do ADCT se trata de uma moratória que a Constituição deu ao Poder Público, devendo a dívida ser consolidada na data da Constituição” [AI n. 525.171-AgR, Relator o Ministro Sepúlveda Pertence, 1ª Turma, DJ de 17.6.05].
+8.	No tocante aos juros, este Tribunal fixou o seguinte entendimento:
+
+“CONSTITUCIONAL. ADMINISTRATIVO. DESAPROPRIAÇÃO. PRECATÓRIO. PARCELAMENTO. ART. 33 DO ADCT. JUROS COMPENSATÓRIOS E MORATÓRIOS. EXCLUSÃO. INCIDÊNCIA DE JUROS MORATÓRIOS NO PAGAMENTO DE PARCELAS PAGAS EM ATRASO. EXPEDIÇÃO DE NOVO PRECATÓRIO. PRECEDENTES.
+I - Excluem-se os juros moratórios e compensatórios do pagamento de precatórios decorrentes de desapropriação, realizado conforme o art. 33 do ADCT, contanto que se observem as épocas próprias dos vencimentos das prestações. Os juros moratórios são cabíveis nos casos de inadimplência da Fazenda Pública no pagamento do parcelamento previsto no art. 33 do ADCT. RE 155.979/SP, Min. Marco Aurélio, 'DJ' de 23.02.2001; RE 400.413-AgR/SP, Min. Carlos Britto, 'DJ' de 08.11.2004, inter plures.
+II. - Agravo não provido”.
+[RE n. 459.057-AgR, Relator o Ministro Carlos Velloso, 2ª Turma, DJ de 9.12.05].
+
+9.	No mesmo sentido, o RE n. 446.694-AgR, Relator o Ministro Gilmar Mendes, 2ª Turma, DJ de 24.2.06; e o RE n. 402.892, Relator o Ministro Sepúlveda Pertence, 1ª Turma, DJ de 25.2.05, entre outros.
+10.	Por último, quanto à necessidade de nova citação da Fazenda estadual, esta Corte entende necessária a expedição de precatório, a ser processado na forma estabelecida no artigo 100, caput e §§, da Constituição de 1988, sendo descabida a notificação, ao Poder Público, no sentido de que proceda à complementação do pagamento em prazo determinado pelo Juiz. Nesse sentido, o RE n. 168.019, Relator o Ministro Ilmar Galvão, 1ª Turma, DJ de 2.8.96, e o RE n. 193.966, Relator o Ministro Moreira Alves, 1ª Turma, DJ de 20.6.97.
+11.	No julgamento do AI n. 486.642, Relator o Ministro Cezar Peluso, decisão monocrática, DJ de 15.2.05, estabeleceu-se que a “postura invariável, que exige expedição de novo precatório, com citação da Fazenda Pública, funda-se em que todo pagamento de débitos desta é disciplinado pelo art. 100 e §§ da Constituição da República, mediante incidência do art. 730 do Código de Processo Civil. A Emenda Constitucional nº 37/2002, que introduziu o § 4º do art. 100 da Constituição, apenas positivou a orientação fixada pela Corte, ao vedar expedição de precatório complementar ou suplementar”.
+	Dou parcial provimento ao recurso, com esteio no artigo 557, § 1º-A, do CPC, para: [i] excluir a incidência de juros moratórios sobre o parcelamento constitucional, sendo devidos tão-somente no caso de inadimplemento da Fazenda Pública em relação ao vencimento das parcelas e [ii] para que se realize nova citação da Fazenda Pública e a expedição de novo precatório, nos termos do disposto no artigo 100 e §§ da Constituição do Brasil e no artigo 730 do CPC.
+	Publique-se.
+	Brasília, 13 de junho de 2008.
+Ministro Eros Grau
+- Relator -
