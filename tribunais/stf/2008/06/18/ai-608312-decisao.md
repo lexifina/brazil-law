@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de Agravo de Instrumento interposto de decisão que inadmitiu RE, em matéria criminal, contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul (art. 102, III, 'a', da CF), em que se alega violação do disposto no artigo 5°, XI (a casa é asilo inviolável do indivíduo), XXXIX ('não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal'), XL ('a lei penal não retroagirá, salvo para beneficiar o réu'), XLI ('a lei punirá qualquer discriminação atentatória dos direitos e liberdades fundamentais'), LV (princípios do contraditório e da ampla defesa) e LVI (inadmissibilidade das provas obtidas por meios ilícitos), da Constituição Federal.
+Depreende-se dos autos que, em 21.09.2005, o agravante foi condenado pela prática de delito tipificado no artigo 12 da Lei n° 10.826/03 (posse de arma de fogo), à pena de um ano e seis meses de detenção e 15 dias-multa (fls. 158-160).
+O Tribunal de Justiça do Estado do Mato Grosso do Sul negou provimento à apelação, em acórdão assim ementado, verbis (fls. 189):
+“APELAÇÃO CRIMINAL - POSSE ILEGAL DE ARMA DE FOGO - ALEGAÇÃO DE QUE A CONDUTA É ATÍPICA EM FACE DO PRAZO CONCEDIDO PARA ENTREGA E REGULARIZAÇÃO NA ÉPOCA DOS FATOS E CONDENAÇÃO COM BASE EM PROVAS ILEGAIS - IMPROCEDÊNCIA - RÉU CONFESSO - ARMA UTILIZADA PARA FAZER AMEAÇAS - TIPICIDADE - IMPROVIMENTO.
+Não há falar em atipicidade da conduta nem em condenação com base em provas ilícitas, quando evidenciado que o agente confessou a prática do ilícito, sendo flagrado fazendo ameaças com revólver à sua companheira de convívio comum.”
+
+Dessa decisão houve interposição de RE, ao qual o Superior Tribunal de Justiça negou seguimento (fls. 15-18) e dessa decisão, houve a interposição do presente Agravo de Instrumento.
+No RE alega-se que a condenação do agravante pela prática de delito tipificado no artigo 12 da Lei n° 10.826/03 (posse de arma de fogo) não deve subsistir porque as leis n° 10.884/2004 e 11.118/2005 e a medida provisória 253/2005 prorrogaram o prazo para a entrega de armas, como tal inicialmente previsto no artigo 32 da lei n° 10.826/2003 (fls. 22-34).
+Em contra-razões ao RE o Ministério Público, entendendo correta a decisão que dá anistia àqueles que pratiquem o delito tipificado no caso em exame, até que termine o prazo dado pela Medida Provisória, requereu o seguimento do recurso e seu conseqüente exame pelo STF (fls. 94-102).
+É o relatório.
+Esta Corte estabeleceu a distinção entre posse e porte de arma, admitindo a abolitio criminis temporária nos casos dos crimes de posse de arma de fogo - hipótese idêntica a que se discute no presente recurso - mantendo hígida a tipicidade quanto ao porte, conforme ementa que transcrevo:
+
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PORTE DE ARMA. VACATIO LEGIS TEMPORÁRIA. ABOLITIO CRIMINIS. INOCORRÊNCIA. 1. Os artigos 30 e 32 do Estatuto do Desarmamento referem-se a possuidores e proprietários de armas de fogo. O artigo 29 e seu parágrafo único dispõem sobre a autorização para o porte de arma de fogo. Aos possuidores e proprietários a lei faculta, no artigo 30, a regularização, mediante comprovação da aquisição lícita, no prazo assinalado. O artigo 32 obriga, aos que não puderem demonstrar a aquisição lícita, a entrega da arma à Polícia Federal, no prazo que estipula. 2. O artigo 29 e seu parágrafo único, da Lei n. 10.826/2003, dizem respeito às pessoas autorizadas a portar armas de fogo. Dispõem sobre o término das autorizações já concedidas ( caput ) e a propósito da renovação (parágrafo único), desde que atendidas as condições estipuladas nos seus artigos 4º, 6º e 10. 3. O prazo legal estipulado para regularização das autorizações concedidas não configura vacatio legis , do que decorreria a abolitio criminis temporária, no que tange ao crime de porte de arma de fogo por pessoa não autorizada. 4. A vingarem as razões recursais, chegar-se-ia ao absurdo de admitir, no prazo fixado para regularização das autorizações, o porte de arma de fogo por pessoas e entidades não arroladas nos incisos I a IX do artigo 6º da Lei n. 10.826/2003. Recurso ordinário em habeas corpus a que se nega provimento. Isso posto, com base no art. 557, do CPC, nego seguimento ao recurso." (RHC 86.681/DF, Primeira Turma, Rel. Ministro Eros Grau, 6/12/2005.)
+
+O mesmo entendimento também foi sufragado pela 2ª Turma deste Tribunal, no julgamento do HC 88.594, rel. min. Eros Grau.
+A decisão recorrida diverge da orientação jurisprudencial desta Corte.
+
+Do exposto, e com base no art. 544, §§ 3º e 4º, do CPC, dou provimento ao agravo e o converto em recurso extraordinário, para, nos termos do art. 557, § 1º-A, do referido diploma legal, dele conhecendo, dar-lhe provimento, reconhecendo a atipicidade da conduta.
+Publique-se.
+Comunique-se.
+Brasília, 18 de junho de 2008.
+
+Ministro JOAQUIM BARBOSA
+Relator
