@@ -1,0 +1,2 @@
+Altera a Lei nº 9.503, de 23 de setembro de 1997, que 'institui o Código de Trânsito Brasileiro', e a Lei nº 9.294, de 15 de julho de 1996, que dispõe sobre as restrições ao uso e à propaganda de produtos fumígeros, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4º do art. 220 da Constituição Federal, para inibir o consumo de bebida alcoólica por condutor de veículo automotor, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
