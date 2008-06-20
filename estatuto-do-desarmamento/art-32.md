@@ -1,2 +1,1 @@
-Art. 32. Os possuidores e proprietários de armas de fogo poderão entregá-las, espontaneamente, mediante recibo e, presumindo-se de boa fé, poderão ser indenizados.
-Parágrafo único. O procedimento de entrega de arma de fogo de que trata o caput será definido em regulamento.
+Art. 32. Os possuidores e proprietários de arma de fogo poderão entregá-la, espontaneamente, mediante recibo, e, presumindo-se de boa-fé, serão indenizados, na forma do regulamento, ficando extinta a punibilidade de eventual posse irregular da referida arma.
