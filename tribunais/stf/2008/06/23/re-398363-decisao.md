@@ -1,0 +1,30 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+“CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. PROFESSOR SUBSTITUTO. PROCESSO SELETIVO. SUPRIMENTO DE CARGOS VAGOS. CANDIDATOS APROVADOS EM CONCURSO. IMPOSSIBILIDADE DO USO DA CONTRATAÇÃO TEMPORÁRIA. INTERESSE NO PROVIMENTO. PROIBIÇÃO - INAPLICABILIDADE. NOMEAÇÃO. DECISÕES EM MANDADO DE SEGURANÇA. AUTO-EXECUTORIEDADE.
+1. A necessidade temporária de excepcional interesse público não se faz presente para a contratação provisória de professor substituto, quando o processo é deflagrado para suprir vagas permanentes, havendo candidatos habilitados em concurso público aptos a ocupar o cargo.
+2. O propósito de cobrir a deficiência de vagas com servidores interinos, dispondo a Administração de outro meio para solucionar o problema, revela a existência de desvio de finalidade.
+3. A proibição de nomear servidores, prevista em Decreto Presidencial, não se aplica às universidades, em face da capacidade de auto-administração destas entidades, não podendo tal ato ser caracterizado como de supervisão ministerial, por ser manifesta a extrapolação dos limites legais.
+4. A ocorrência de vagas e a manifestação de interesse em provê-las origina para o concursado o direito à nomeação.
+5. As decisões proferidas em mandado de segurança possuem a característica da auto-executoriedade, devendo ser cumpridas imediatamente à notificação da autoridade coatora, determinada pelo juízo prolator do decisum, daí porque incabível a protelação de sua eficácia por imposição judicial.
+6. Apelação da UFRN improvida.
+7. Apelação da impetrante provida” (fl. 205).
+Neste RE, interposto com base no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 37, IX, e 207 da mesma Carta, ao argumento de que é legítima a contratação temporária pretendida pela recorrente, haja vista a existência de decreto presidencial proibindo a nomeação para cargo efetivo de candidato aprovado em concurso público.
+O Subprocurador-Geral da República Roberto Monteiro Gurgel Santos opinou pelo conhecimento e provimento do recurso.
+O recurso não merece acolhida.
+A questão em debate refere-se à possibilidade de a Universidade do Rio Grande do Norte - UFRN contratar temporariamente professor substituto, a despeito da existência de candidatos aprovados em concurso público para o provimento efetivo do referido cargo de professor.
+O acórdão recorrido assentou, com apoio no conjunto fático-probatório dos autos, a existência de vagas para o cargo de professor substituto da UFRN e de profissional aprovado em concurso público apto a exercer as funções do mencionado cargo.
+A jurisprudência desta Corte orienta no sentido de que o preenchimento temporário de cargo, uma vez comprovada a existência de vaga, configura preterição de candidato aprovado em concurso público. Nesse sentido, transcrevo a ementa de julgados de ambas as Turmas desta Corte:
+“1. Concurso público: terceirização da vaga: preterição de candidatos aprovados: direito à nomeação: uma vez comprovada a existência da vaga, sendo esta preenchida, ainda que precariamente, fica caracterizada a preterição do candidato aprovado em concurso.
+2. Recurso extraordinário: não se presta para o reexame das provas e fatos em que se fundamentou o acórdão recorrido: incidência da Súmula 279”. (AI 440.895-AgR/SE, Rel. Min. Sepúlveda Pertence, Primeira Turma).
+“Recurso extraordinário. Administrativo. Concurso Público. 2. Acórdão que negou provimento à apelação, assentando a inexistência de direito subjetivo à nomeação de candidatos aprovados em concurso para provimento de cargo de Professor Assistente. 3. Criação de dois cargos de Professor Assistente no Departamento de Filosofia e Teoria Geral do Direito, quando se encontrava em pleno curso o tempo de eficácia do concurso público. Ocorrência de contratação de professores e renovação de contrato. 4. Precedente da Turma no RE 192.569-PI, em que se assegurou a nomeação de concursados, eis que existentes vagas e necessidade de pessoal. 5. Constituição, art. 37, IV. Prequestionamento verificado. 6. Recurso extraordinário conhecido e provido” (RE 273.605/SP, Rel. Min. Néri da Silveira, Segunda Turma).
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 579.081/SC e RE 474.657/RN, Rel. Min. Cármen Lúcia; AI 454.882/SC, Rel. Min. Sepúlveda Pertence.
+Quanto ao argumento acerca da existência de decreto presidencial que proibia a nomeação de professores pela UFRN, o exame da questão demandaria a prévia análise do referido decreto e a verificação de sua aplicabilidade ou não às Universidades. Assim, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, cito o RE 436.912/RN, Rel. Min. Ellen Gracie.
+Por fim, ressalte-se que a UFRN ao interpor o presente recurso, em 11/12/2001, pretendia contratar temporariamente professor substituto em face da carência do referido profissional nos quadros na citada instituição de ensino. Assim, não há razoabilidade, ante a incontroversa necessidade de professores naquela universidade, em afastar o recorrido cuja nomeação foi determinada pelo acórdão recorrido em 23/10/2001. Nesse sentido, transcrevo a ementa do RE 283.620-AgR/RN, Rel. Min. Carlos Velloso:
+“CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO: CONCURSO PÚBLICO. DIREITO À NOMEAÇÃO. PRINCÍPIO DA RAZOABILIDADE.
+I. - Aprovação em concurso público: superveniência de decreto presidencial proibindo a nomeação de novos servidores: ocorrência de contratação temporária, por necessidade, no prazo de validade do concurso: nomeação para o cargo de professor assistente por sentença: exercício do cargo há quase uma década e realização de curso de doutorado com vencimentos pagos pela Universidade: princípio da razoabilidade.
+II. - Precedentes do STF.
+III. - Negativa de seguimento ao RE. Agravo não provido”.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 23 de junho de 2008.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
