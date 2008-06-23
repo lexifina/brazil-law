@@ -1,0 +1,3 @@
+Art. 38-A. O Ministério da Previdência Social desenvolverá programa de cadastramento dos segurados especiais, observado o disposto nos §§ 4º e 5º do art. 17 desta Lei, podendo para tanto firmar convênio com órgãos federais, estaduais ou do Distrito Federal e dos Municípios, bem como com entidades de classe, em especial as respectivas confederações ou federações.
+§ 1º O programa de que trata o caput deste artigo deverá prever a manutenção e a atualização anual do cadastro, e as informações nele contidas não dispensam a apresentação dos documentos previstos no art. 106 desta Lei.
+§ 2º Da aplicação do disposto neste artigo não poderá resultar nenhum ônus para os segurados, sejam eles filiados ou não às entidades conveniadas.
