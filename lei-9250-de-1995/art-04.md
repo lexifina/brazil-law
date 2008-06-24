@@ -1,6 +1,6 @@
 Art. 4º. Na determinação da base de cálculo sujeita à incidência mensal do imposto de renda poderão ser deduzidas:
 I - a soma dos valores referidos no art. 6º da Lei nº 8.134, de 27 de dezembro de 1990;
-II - as importâncias pagas a título de pensão alimentícia em face das normas do Direito de Família, quando em cumprimento de decisão ou acordo judicial, inclusive a prestação de alimentos provisionais;
+II - as importâncias pagas a título de pensão alimentícia em face das normas do Direito de Família, quando em cumprimento de decisão judicial, inclusive a prestação de alimentos provisionais, de acordo homologado judicialmente, ou de escritura pública a que se refere o art. 1.124-A da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil;
 III - a quantia, por dependente, de:
 a) R$ 132,05 (cento e trinta e dois reais e cinco centavos), para o ano-calendário de 2007;
 b) R$ 137,99 (cento e trinta e sete reais e noventa e nove centavos), para o ano-calendário de 2008;
