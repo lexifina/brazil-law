@@ -34,12 +34,15 @@ III - papel destinado à impressão de jornais, pelo prazo de 4 (quatro) anos a 
 IV - papéis classificados nos códigos 4801.00.10, 4801.00.90, 4802.61.91, 4802.61.99, 4810.19.89 e 4810.22.90, todos da TIPI, destinados à impressão de periódicos pelo prazo de 4 (quatro) anos a contar da data de vigência desta Lei ou até que a produção nacional atenda 80% (oitenta por cento) do consumo interno;
 V - máquinas, equipamentos, aparelhos, instrumentos, suas partes e peças de reposição, e películas cinematográficas virgens, sem similar nacional, destinados à indústria cinematográfica e audiovisual, e de radiodifusão;
 VI - aeronaves, classificadas na posição 88.02 da NCM;
-VII - partes, peças, ferramentais, componentes, insumos, fluidos hidráulicos, lubrificantes, tintas, anticorrosivos, equipamentos, serviços e matérias-primas a serem empregados na manutenção, reparo, revisão, conservação, modernização, conversão e montagem das aeronaves de que trata o inciso VI deste parágrafo, de seus motores, suas partes, peças, componentes, ferramentais e equipamentos;
+VII - partes, peças, ferramentais, componentes, insumos, fluidos hidráulicos, lubrificantes, tintas, anticorrosivos, equipamentos, serviços e matérias-primas a serem empregados na manutenção, reparo, revisão, conservação, modernização, conversão e industrialização das aeronaves de que trata o inciso VI deste parágrafo, de seus motores, suas partes, peças, componentes, ferramentais e equipamentos;
 IX - gás natural destinado ao consumo em unidades termelétricas integrantes do Programa Prioritário de Termelétricas - PPT;
 X - produtos hortícolas e frutas, classificados nos Capítulos 7 e 8, e ovos, classificados na posição 04.07, todos da TIPI; e
 XI - semens e embriões da posição 05.11, da NCM.
 XII - livros, conforme definido no art. 2º da Lei nº 10.753, de 30 de outubro de 2003.
 XIII - preparações compostas não alcoólicas, classificadas no código 2106.90.10 Ex 01 da Tipi, destinadas à elaboração de bebidas pelas pessoas jurídicas industriais dos produtos referidos no art. 49 da Lei nº 10.833, de 29 de dezembro de 2003.
+XIV - material de emprego militar classificado nas posições 87.10.00.00 e 89.06.10.00 da Tabela de Incidência do Imposto sobre Produtos Industrializados - Tipi;
+XV - partes, peças, componentes, ferramentais, insumos, equipamentos e matérias-primas a serem empregados na industrialização, manutenção, modernização e conversão do material de emprego militar de que trata o inciso XIV deste parágrafo;
+XVI - gás natural liquefeito - GNL.
 § 13. O Poder Executivo regulamentará:
 I - o disposto no § 10 deste artigo; e
 II - a utilização do benefício da alíquota 0 (zero) de que tratam os incisos I a VII do § 12 deste artigo.
@@ -48,5 +51,5 @@ II - a utilização do benefício da alíquota 0 (zero) de que tratam os incisos
 I - 1,0% (um por cento), para a Contribuição para o Pis/Pasep-Importação; e
 II - 4,6% (quatro inteiros e seis décimos por cento), para a Cofins-Importação."
 § 16. Na hipótese da importação de etano, propano e butano de que trata o § 15 deste artigo, não se aplica o disposto no § 8º deste artigo.
-§ 17. O disposto no § 14 não se aplica aos valores pagos, creditados, entregues, empregados ou remetidos, por fonte situada no País, à pessoa física ou jurídica residente ou domiciliada no exterior, em decorrência da prestação de serviços de frete, afretamento, arrendamento ou aluguel de embarcações marítimas ou fluviais destinadas ao transporte de pessoas, para fins turísticos.
-§ 18. O disposto no § 17 aplicar-se-á também à hipótese de contratação ou utilização da embarcação em atividade mista de transporte de cargas e de pessoas para fins turísticos, independentemente da preponderância da atividade.
+§ 17. O disposto no § 14 deste artigo não se aplica aos valores pagos, creditados, entregues, empregados ou remetidos, por fonte situada no País, à pessoa física ou jurídica residente ou domiciliada no exterior, em decorrência da prestação de serviços de frete, afretamento, arrendamento ou aluguel de embarcações marítimas ou fluviais destinadas ao transporte de pessoas para fins turísticos.
+§ 18. O disposto no § 17 deste artigo aplicar-se-á também à hipótese de contratação ou utilização da embarcação em atividade mista de transporte de cargas e de pessoas para fins turísticos, independentemente da preponderância da atividade.
