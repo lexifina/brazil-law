@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO. POSSE. IMPEDIMENTO. OCUPAÇÃO DE CARGO EFETIVO. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL.
+AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1.	 Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2.	O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“CONSTITUCIONAL - ADMINISTRATIVO - CONCURSO PÚBLICO - EDITAL - VAGAS PARA PORTADORES DE DEFICIÊNCIA - APROVAÇÃO E NOMEAÇÃO DO IMPETRANTE - RESOLUÇÃO SUPERVENIENTE PREVENDO NOVOS CRITÉRIOS PARA APURAÇÃO DA DEFICIÊNCIA. ILEGALIDADE DA RECUSA DA POSSE - CONFIGURAÇÃO DO DIREITO LÍQUIDO E CERTO.
+1- As regras relativas ao concurso público deve vir previamente estabelecidas no edital, a fim de garantir o tratamento isonômico entre os candidatos e a segurança de cada um frente À Administração Pública. Conquanto algumas jurisprudências admitam a posterior modificação de regras editalícias, isto só deve ocorrer em conformidade com o interesse público, respeitados os princípios fundamentais do direito administrativo.
+2 - Se o impetrante, concorreu para uma das vagas reservadas a portadores de deficiência, nos termos do edital do certame, e já fora aprovado e nomeado para o cargo correspondente na área de educação, revela-se ilegal o ato da Diretora da Superintendência Regional de Ensino que lhe nega o empossa mento no cargo, baseando-se em laudo médico que adotou critérios estranhos ao edital, e que foram estabelecidos em Resolução superveniente À própria homologação do concurso.
+3 - Sentença confirmada, em reexame necessário” (fl. 82).
+3.	A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a aplicação da Súmula 279 do Supremo Tribunal Federal.
+4.	O Agravante alega que teria sido contrariado o art. 37, inc. XVI, da Constituição da República
+Argumenta que o Agravado não poderia tomar posse “por ser detentor de dois cargos efetivos na condição de professor” (fl. 221).
+Aduz que não poderia “prosperar o entendimento de que a autoridade impetrada não teria 'comprovado' que o impetrante já era detentor de dois cargos de professor, uma vez que esta questão tornou-se incontroversa, já que, intimado o impetrante para dizer, objetivamente (tal como consta do despacho), se teria interesse no prosseguimento do feito em face das alegações apresentadas pela autoridade coatora e pelo Estado de Minas Gerais (inclusive em relação ao disposto no art. 37, XVI, da CF/88), o mesmo quedou-se inerte, conforme se infere da certidão de fls. 155” (fl. 224, grifos no original).
+Analisada a matéria posta à apreciação, DECIDO.
+5.	Quanto à preliminar, o Agravante foi intimado do acórdão recorrido antes de 3.5.2007, o que dispensa a demonstração da repercussão geral da questão constitucional em capítulo especial do recurso extraordinário, nos termos do que decidido pelo Plenário do Supremo Tribunal Federal no Agravo de Instrumento 664.567-QO, Relator Ministro Sepúlveda Pertence.
+6.	No mérito, o presente agravo não pode ter seguimento.
+Para o deslinde da matéria posta à apreciação judicial, o Tribunal de origem examinou os elementos probatórios dos autos para afirmar:
+“não merece prosperar a alegação da impetrada de que haveria outra circunstância impeditiva da posse do requerente, a saber, a ocupação de outro cargo efetivo no serviço público estadual. Com efeito, além de a Autoridade coatora ter-se limitado a juntar, como prova do alegado, alguns impressos sem grande valor probatório (f. 60/65), e que sequer possibilitam saber se esse outro cargo seria ou não de provimento efetivo, é vem de ver que a posse foi administrativamente negada ao impetrante so o fundamento de que 'a Certidão de Caracterização de Deficiência atestou não ser o mesmo portador de Deficiência” (fl. 189).
+Concluir de forma diversa demandaria, necessariamente, o reexame das provas contidas nos autos e devidamente apreciadas, hipótese incabível em recurso extraordinário. Incide, na espécie, a Súmula 279 do Supremo Tribunal Federal.
+Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. LEGISLAÇÃO LOCAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. A controvérsia foi decidida com fundamento na legislação local, incidência da Súmula n. 280 deste Tribunal. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 703.965-AgR/MG, Rel. Min. Eros Grau, Segunda Turma, DJ 23.5.2008).
+“EMENTA: PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO IMPROVIDO. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. I - As razões do agravo regimental não infirmam todos os fundamentos da decisão agravada, o que atrai a incidência da Súmula 287 do STF. II - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Agravo regimental improvido” (AI 563.409-AgR/DF, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 14.11.2007).
+“EMENTA: DIREITO CIVIL. CONTRATO DE FINANCIAMENTO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DO REEXAME DE PROVAS. AGRAVO REGIMENTAL DESPROVIDO” (AI 583.695/DF, de minha relatoria, Primeira Turma, DJ 9.2.2007).
+7.	Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 26 de junho de 2008.
+Ministra CÁRMEN LÚCIA
+Relatora
