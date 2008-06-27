@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário criminal.
+
+O agravo não merece acolhida. Bem examinados os autos, verifico que a parte agravante deixou de juntar a procuração originária outorgada pela parte agravante ao advogado substabelecente (fl. 25). O substabelecimento não é instrumento autônomo, necessário o mandato judicial originário para legitimar a atuação do advogado substabelecido (AI 129.024-AgR/RJ, Rel. Min. Sydney Sanches; AI 163.476-AgR/SP, Rel. Min. Celso de Mello).
+Segundo a jurisprudência deste Tribunal, o agravo de instrumento deve ser instruído com as peças obrigatórias e também com as necessárias ao exato conhecimento das questões discutidas (Súmula 288 do STF). A falta de qualquer delas autoriza o relator a negar seguimento ao agravo, com base no § 1º do art. 21 do RISTF e no art. 557 do CPC.
+Ainda que superado tal óbice, o recurso não prosperaria. Verifico que a parte agravante deixou de observar o disposto no art. 498 do Código de Processo Civil, com a redação dada pela Lei 10.352/01, que estabelece que quando no dispositivo do acórdão contiver julgamento por maioria de votos e julgamento unânime, ficará sobrestado o prazo para interposição do recurso extraordinário relativamente ao julgamento unânime, o que inviabiliza conhecimento do recurso extraordinário interposto anteriormente ao julgamento dos embargos infringentes, eis que referente à parte unânime do julgado.
+A parte agravante interpôs o primeiro recurso extraordinário (fls. 991-1.012) em 2/9/2005, antes, portanto, da ciência do julgamento dos embargos infringentes cuja publicação do acórdão ocorreu em 18/4/2007. Assim, o RE interposto antes de esgotada a prestação jurisdicional, não ratificado, é prematuro.
+Ademais, a interposição do segundo RE (fls. 1.013-1.052) ofende o princípio da unirrecorribilidade ou singularidade, que preceitua que contra uma decisão apenas é cabível a interposição de um recurso pela parte, e, em assim fazendo, torna preclusas as matérias não aduzidas naquela oportunidade, não cabendo a interposição de nova peça recursal com novas razões (RE 421.960-AgR-ED/RS e AI 477.905-AgR-AgR, ambos de relatoria do Min. Eros Grau). Admitir o contrário é atentar contra a organicidade do Direito processual (AI 256.057-AgR/CE e AI 249.470-AgR/BA, ambos de relatoria do Min. Marco Aurélio).
+Isso posto, nego provimento ao agravo regimental.
+Publique-se.
+Brasília, 27 de junho de 2008.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
