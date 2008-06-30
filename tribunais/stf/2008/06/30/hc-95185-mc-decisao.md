@@ -1,0 +1,52 @@
+DECISÃO
+HABEAS CORPUS. AUSÊNCIA DE PLAUSIBILIDADE JURÍDICA QUANTO À FALTA DE FUNDAMENTAÇÃO DA DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. QUESTÃO DE FUNDO REFERENTE À NULIDADE DO ACÓRDÃO QUE CASSOU DECISÃO ABSOLUTÓRIA DO TRIBUNAL DO JÚRI. MATÉRIA QUE EXIGE EXAME MAIS DETIDO. LIMINAR INDEFERIDA.
+Relatório
+1.	Habeas Corpus, com pedido de liminar, impetrado pela advogada PATRÍCIA MARIA VILLA LHACER em favor de FRANCISCO FILHO DA SILVA, contra decisão do eminente Ministro Nilson Naves, do Superior Tribunal de Justiça, que, em 31 de março de 2008, negou seguimento ao Habeas Corpus n. 41.947, nos termos seguintes:
+“Em favor de Francisco Filho da Silva, acusado por homicídio qualificado consumado e tentado, impetrou-se o presente habeas corpus. Pleiteia-se o restabelecimento da decisão do Júri, que absolveu o paciente.
+Ouvido, manifestou-se o Ministério Público Federal (Subprocurador-Geral Brasilino dos Santos) pela denegação da ordem; fê-lo nos termos seguintes:
+"Cuida-se de habeas corpus substitutivo de recurso ordinário com pedido de liminar, contra acórdão da Décima Câmara Criminal do Tribunal de Justiça do Estado de São Paulo, que, denegando o writ originalmente impetrado em favor de Francisco Filho da Silva, preservou o curso da ação penal a que responde o Paciente, incurso nas penas do art. 121, § 2º, IV (por quatro vezes), e no artigo 121, § 2º, incisos IV, c/c artigo 14, inciso II (por três vezes), ambos do Código Penal.
+Na hipótese dos autos, constata-se que o Paciente foi denunciado pela prática de um crime de homicídio qualificado nos termos seguintes (fls. 17/18):
+'No dia, hora e local descritos anteriormente, o grupo de malfeitores disparou arma de fogo contra Vanderlei de Oliveira Mota, Francisco Germano dos Santos, Manoel Lopes da Silva, José Batista dos Santos, Gerlan Conceição Leite, Eluciano Germano dos Santos e Willian Soares dos Santos, provocando, em conseqüência, a morte dos três primeiros, conforme laudos de exame necroscópico de fls. 45/54 e causando ferimentos nos demais, conforme atestados médicos de fls. 10/13 e laudos de exame de corpo de delito a serem oportunamente anexados, que somente não causaram a morte dos quatro últimos por circunstâncias alheias à vontade dos agressores, eis que as vítimas sobreviventes fingiram-se de mortas para impedir suas execuções.
+Segundo se apurou, munido de sentimento de vingança, eis que os criminosos sabiam que dentre as vítimas estavam testemunhas de crimes que haviam sido praticados por eles anteriormente, sob o pretexto de que procuravam por um marginal conhecido por 'Bá', os agressores barbaramente e tentando matar as demais, não logrando êxito, porém.
+Os indiciados concorreram de qualquer modo para a sanha delituosa, estando presente durante a execução, prestando auxílio e apoio moral, instigando e estimulando a ação dos comparsas.
+A ação criminosa demonstrou vileza, repugnância, torpeza, portanto. A conduta dos agentes demonstrou brutalidade incomum em contraste com o mais elementar sentimento de piedade para com o próximo, elementos reveladores de crueldade.
+A ação repentina, quando as vítimas não esperavam tão brutal comportamento e se encontravam desarmadas, impediu suas reações, dificultando-lhes a defesa.
+Os increpados agiram para assegurar a execução, a ocultação, a impunidade e a vantagem de outros crimes cometidos, objetivando com isso a denominada 'Queima de Arquivo.'
+O Paciente foi processado pela Vara do Tribunal do Júri de São Bernardo do Campo e absolvido, por maioria de votos, pelo Conselho de Sentença.
+O Ministério Público Estadual recorreu, manifestando-se contra a absolvição, porque a decisão dos jurados foi manifestamente contrária à prova autos.
+O Tribunal de Justiça deu 'provimento ao apelo ministerial para a realização de novo julgamento, afirmando que a decisão dos Jurados foi manifestamente contrária à prova dos autos' (fl. 03).
+Pede, entretanto, o paciente que 'seja recebido o presente Habeas Corpus e concedida a ordem para cassar o acórdão do Tribunal de Justiça do Estado de São Paulo, restabelecendo a decisão absolutória proferida pelo Corpo de Jurados, requerendo medida liminar para que não seja marcada sessão de julgamento pelo MM. Juiz Presidente do Tribunal do Júri da Comarca de São Bernardo do Campo, até a decisão que vier a ser lavrada neste mandamus' (fl. 16).
+Sustenta o Impetrante, na inicial deste habeas corpus:
+a) que o paciente negou a autoria dos crimes e, afinal, foi absolvido, por maioria, pelo Tribunal do Júri;
+b) que, no dia e horário dos fatos, o paciente estava numa Escola de Samba e, depois, no Bar do Justino, em companhia de amigos, e não no lugar do crime, conforme testemunhas que indica;
+c) que compareceu à Delegacia espontaneamente e foi preso, apesar de ser trabalhador e, de Ter carteira de trabalho assinada desde os 18 anos de idade;
+Segue fazendo profunda análise das provas produzidas pela defesa, para pedir que seja reconhecida a negativa da autoria como não contrária à prova dos autos.
+(...)
+Passa-se, então, a opinar.
+Consta dos autos que o paciente foi denunciado pela prática da conduta prevista no artigo 121, § 2º, IV (por quatro vezes), e no artigo 121, § 2º, inciso IV, c/c artigo 14, inciso II (por três vezes), ambos do Código Penal.
+Segundo narra a denúncia, em 24 de janeiro de 1998, na Rua Almeida Durão, no Jardim Laura, o paciente associou-se a outros indivíduos, a fim de cometer crimes por motivo de vingança e com a clara intenção de efetuar uma 'queima de arquivo', com vistas a 'assegurar a impunidade, ocultação e vantagem de outros crimes cometidos pelo bando.' (fl. 85).
+O Impetrante alega que a decisão exarada pelo Tribunal de Justiça de São Paulo na apelação usurpou a competência do Júri, eis que, 'havendo duas versões idôneas, deve prevalecer a decisão dos jurados' (fl. 05).
+Nesse sentido, o Egrégio Superior Tribunal de Justiça tem decidido que é permitida a anulação de decisão do Júri, desde que não oferecidas duas teses contrárias aos autos para os jurados escolherem.
+Entretanto, na sentença de pronúncia, sustenta-se a existência de 'indícios do engajamento do acusado na sanha delituosa testilhada'. Acrescentou, ainda, que 'conquanto o réu haja negado qualquer envolvimento no contexto (...), enfatizando, inclusive, estar num ensaio de escola de samba quando o evento ocorreu, certo é que outros elementos coligidos ao longo da persecução comprometem a negativa delineada, mesmo porque os álibis que apresentou em juízo (...) pouco convenceram, em considerando o modo categórico como se manifestaram sobre fatos passados há mais de oito meses, contudo nem mesmo se recordando do cotidiano recente em que inseridos' (fl. 104).
+Desse modo, em se tratando de agente que possui histórico criminal, assim como um elevado grau de periculosidade, deve ser mantido em regime fechado até o final do julgamento da causa, aliás, em conformidade com o Parecer exarado pelo Ministério Público Estadual.
+Isto porque, segundo os autos, 'munidos de sentimento de vingança, eis que os criminosos sabiam que dentre as vítimas estavam testemunhas de crimes que haviam sido praticados por eles anteriormente, sob o pretexto de que procuravam por um marginal conhecido como 'Bá', os agressores balearam todas as vítimas pelas costas, executando três delas barbaramente e tentando matar as demais, não logrando êxito, porém' (fl. 17).
+Além disso, é certo que 'ainda que existisse dúvida quanto à autoria do homicídio, nesta fase processual, a dúvida beneficia a sociedade e a pronúncia é medida de rigor' (fl. 89).
+Desse modo, perante todo o exposto, opina o Ministério Público Federal pela denegação da ordem."
+Corretos se me apresentam os fundamentos do parecer ministerial. Acolhendo-os, nego seguimento ao presente habeas corpus (arts. 38 da Lei nº 8.038/90 e 34, XVIII, do Regimento)” (fls. 20-23).
+2.	No presente habeas corpus, a Impetrante alega ausência de fundamentação da decisão questionada e reitera a afirmativa de que a decisão do Júri não teria sido manifestamente contrária à prova dos autos, pois os Jurados teriam se amparado em “uma das versões apresentadas ao longo do processo”, sendo que esta versão seria “plausível e com embasamento nos autos” (fl. 7).
+	3.	A Impetrante invoca precedentes deste Supremo Tribunal e formula os seguintes pedidos:
+“(...)
+1) Aguarda a paciente seja recebido o presente Habeas Corpus e concedida LIMINARMENTE a ordem para cassar o acórdão proferido pelo Superior Tribunal de Justiça no HC n. 41.947-SP diante da evidente falta de fundamentação do referido acórdão, cessando seus efeitos e o constrangimento ilegal sofrido pela paciente;
+2) Requer ainda que no mérito, seja concedida a ordem para cassar o acórdão proferido pelo Superior Tribunal de Justiça e consequentemente o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, restabelecendo a decisão absolutória proferida pelo Corpo de Jurados.
+3) Por derradeiro, requer ainda medida liminar para que não seja marcada sessão de julgamento pelo MM. Juiz Presidente do Tribunal do Júri da Comarca de São Bernardo do Campo ou, se marcada, seja determinado o seu adiamento até a decisão que vier a ser lavrada neste mandamus, evitando-se assim o conflito entre decisões judiciais” (fls. 18-19 - grifos no original).
+	Examinada a matéria posta à apreciação, DECIDO.
+4.	Num primeiro exame, não se pode ter como comprovada plausibilidade jurídica na alegação de ausência de fundamentação da decisão objeto da presente impetração.
+5.	Quanto à questão de fundo, a matéria impõe exame mais detido, que há de ser feito quando do julgamento de mérito do presente habeas corpus, depois de recebidas as informações a serem prestadas pelo Juízo local e obtido o parecer da Procuradoria-Geral da República.
+6.	Pelo exposto, indefiro a liminar.
+7.	Oficie-se ao eminente Presidente do Tribunal do Júri da Comarca de São Bernardo do Campo - SP, para que, com urgência e preferencialmente por fax: a) preste informações pormenorizadas quanto ao alegado na presente impetração; b) esclareça se a data prevista para o novo julgamento; e c) forneça a cópia de documentos que entender pertinentes.
+Remeta-se, com o ofício - a ser encaminhado também por fax -, a cópia do presente despacho, da inicial (fls. 2-19) e do acórdão de fls. 194-197.
+8.	Prestadas as informações, dê-se vista dos autos à Procuradoria-Geral da República.
+Publique-se.
+ Brasília, 30 de junho de 2008.
+Ministra CÁRMEN LÚCIA
+Relatora
