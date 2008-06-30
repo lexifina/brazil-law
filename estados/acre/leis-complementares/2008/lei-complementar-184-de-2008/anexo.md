@@ -1,0 +1,69 @@
+ANEXO I
+
+TABELA DE SUBSÍDIO
+
+Vigência a partir de abril de 2008
+
+ANEXO I
+
+TABELA DE SUBSÍDIO
+
+NÍVEL
+
+VALOR SUBSÍDIO R$
+
+V
+
+16.000,00
+
+IV
+
+14.000,00
+
+III
+
+12.000,00
+
+II
+
+10.000,00
+
+I
+
+8.000,00
+
+(Redação dada pela Lei Complementar nº 196, de 19/05/2009)
+
+ANEXO II
+
+TABELA DE ENQUADRAMENTO
+
+DATA DE INGRESSO
+
+NÍVEL
+
+VALOR R$
+
+a partir de 2005
+
+I
+
+7.000,00
+
+de 2001 a 2004
+
+II
+
+8.750,00
+
+de 1998 a 2000
+
+IV
+
+12.250,00
+
+até 1997
+
+V
+
+14.000,00
