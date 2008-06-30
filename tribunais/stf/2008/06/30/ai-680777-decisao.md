@@ -1,0 +1,21 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1.  Agravo de instrumento interposto contra decisão que não admitiu Recurso Extraordinário fundamentado no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Superior Tribunal de Justiça:
+“TRIBUTÁRIO E PROCESSUAL CIVIL. FUNRURAL. PRESCRIÇÃO. DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. FALTA DE PREQUESTIONAMENTO. 1. É vedada a esta Corte a análise, em recurso especial, de suposta contrariedade a dispositivo constitucional, pois tal matéria é de competência exclusiva do Supremo Tribunal Federal, nos termos do artigo 102 da Carta Magna. 2. Ausente a indicação precisa do dispositivo infraconstitucional tido por violado, incide o óbice da Súmula 284/STF. 3. Inexistência de carga decisória acerca dos arts. 2º, § 9º, da Lei nº 6.830/80 e 144 da Lei nº 3.807/60. Ausência de prequestionamento. Aplicação da Súmula 211/STJ. 4. Não basta para a admissibilidade do recurso especial que o acórdão dos embargos declaratórios afirme prequestionada a matéria, sem emitir juízo quanto às normas tidas como contrariadas. 5. Recurso especial não conhecido”(fl. 111).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ofensa indireta à Constituição (fls. 161-162).
+4. A Agravante alega que teria sido afrontado o art. 5°, caput, inc. II, XXXV, e LV, da Constituição da República.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão de direito não assiste ao Agravante.
+6. O Superior Tribunal de Justiça limitou-se ao exame do cabimento de recurso de sua competência. A jurisprudência predominante do Supremo Tribunal Federal é no sentido de que a aferição dos pressupostos de admissibilidade dos recursos da competência de Tribunal diverso não viabiliza o acesso ao recurso extraordinário, por se ater a espécie ao cuidado de matéria infraconstitucional. A ofensa à Constituição da República, se tivesse ocorrido, seria indireta.
+Nesse sentido:
+“PROCESSUAL CIVIL. ADMISSIBILIDADE DE RECURSO ESPECIAL. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. RECURSO EXTRAORDINÁRIO EXTEMPORÂNEO. AGRAVO REGIMENTAL DESPROVIDO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 449.425-AgR, de minha relatoria, DJ 16.2.2007).
+“RECURSO EXTRAORDINÁRIO - CONTROVÉRSIA SOBRE CABIMENTO DE RECURSO DA COMPETÊNCIA DE CORTE DIVERSA - ADEQUAÇÃO. Quando em questão controvérsia sobre cabimento de recurso da competência de Corte diversa, a via excepcional do recurso extraordinário apenas é aberta se do acórdão prolatado constar premissa contrária à Constituição Federal. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (AI 473.651-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJ 30.9.2005).
+“Recurso extraordinário: descabimento: controvérsia relativa ao cabimento de recurso decidida à luz de legislação infraconstitucional: alegada violação de dispositivos constitucionais que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636. Inexistência de negativa de prestação jurisdicional” (AI 563.520-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 17.3.2006).
+E, ainda: AI 630.828-AgR/MG, Rel. Min. Cezar Peluso, Segunda Turma, DJ 8.6.2007; AI 604.776-AgR/,RJ Rel. Min. Eros Grau, Segunda Turma, DJ 2.2.2007; AI 601.970-AgR/RJ, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 8.6.2006; e AI 561.086-AgR/,RJ Rel. Carlos Britto, Primeira Turma, DJ 24.11.2006.
+7. Pelo exposto, nego seguimento a este agravo, (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 30 de junho de 2008.
+Ministra CÁRMEN LÚCIA
+Relatora
