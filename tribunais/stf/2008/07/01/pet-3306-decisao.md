@@ -1,0 +1,20 @@
+1. 	Trata-se de requerimento formulado pelo Ministério Público Federal no sentido de determinar que o Senado Federal apresente todas as declarações de bens e valores apresentadas pelo Senador Marcelo Bezerra Crivella, bem como suas atualizações.
+Narra o requerente que, em representação apresentada ao Procurador-Geral da República, foi noticiado que o Deputado Federal João Batista Ramos da Silva seria sócio-gerente da TV Cabrália Ltda, concessionária de serviço de radiodifusão de sons e imagens.
+Assevera o Ministério Público Federal que, durante a apuração, constatou-se que outro parlamentar também participaria do quadro societário dessa empresa, o Senador Marcelo Bezerra Crivella. Além disso, o Senador Crivella também seria acionista majoritário da TV Record de Franca S/A.
+Esclarece que há vedação constitucional ao parlamentar de aceitar ou exercer cargo, função ou emprego remunerado em empresa concessionária de serviço público e, com maior razão, ser dono de empresa de tal espécie (art. 54, I, c/c II, a, da Constituição Federal).
+Informa a existência de indícios de que o referido senador teria omitido, em suas declarações de bens ao Senado Federal, a propriedade dessas empresas concessionárias, violando os deveres de honestidade e lealdade.
+Observa que o requerimento formulado tem finalidade investigatória e, por isso, dispensa o contraditório, sendo necessária a adoção da medida para as apurações realizadas pelo Ministério Público Federal.
+Ressalta, ao final, “que não é objeto do presente procedimento judicial a verificação da prática ou não de ato de improbidade pelo Senador Marcelo Bezerra Crivella”, certo que “busca-se aqui um provimento jurisdicional que possibilite ao Ministério Público Federal o acesso a informações submetidas a sigilo legal, sendo que a causa de pedir é a necessidade dessas informações para a apuração dos fatos” (fl. 14).
+2. 	O Juízo da 8ª Vara Federal da Seção Judiciária do Distrito Federal determinou o encaminhamento dos autos ao Supremo Tribunal Federal (fls. 1.424-1.425).
+3.	O presente processo foi distribuído, por prevenção, ao eminente Ministro Gilmar Mendes, por ser S. Exa. o relator do Inquérito 2.164/DF (fl. 1.427).
+4. 	A Procuradoria-Geral da República opinou pela devolução dos autos ao juízo de origem (fls. 1.430-1.439, 1.454-1.460 e 1.480-1.483).
+5.	Constato que o Ministério Público objetiva, em verdade, ter “acesso a informações submetidas a sigilo legal, sendo que a causa de pedir é a necessidade dessas informações para a apuração dos fatos” (fl. 14).
+É dizer, o Parquet busca subsídios para a apuração de fatos relativos à participação do Senador Marcelo Bezerra Crivella na TV Cabrália Ltda e na TV Record de Franca S/A, que configuraria desobediência à vedação inserta no art. 54, I, c/c II, a, da Constituição Federal.
+O próprio Ministério Público, em sua petição inicial, assevera textualmente que “não é objeto do presente procedimento judicial a verificação da prática ou não de ato de improbidade pelo Senador Marcelo Bezerra Crivella” (fl. 14).
+Ao julgar o mencionado inquérito, consignou o Ministro Gilmar Mendes, com apoio em parecer da Procuradoria-Geral da República, que o Senador Marcelo Bezerra Crivella, no momento de sua investidura no mencionado cargo, não mais integrava ou possuía cotas ou ações das referidas empresas concessionárias de serviços de radiodifusão de sons e imagens, motivo por que não houve descumprimento doloso do que dispõem os arts. 54, I, c/c II, a, da Constituição Federal e 38, parágrafo único, da Lei 4.117/92.
+Verifica-se, assim, que os fatos que o Parquet tenta apurar já foram devidamente esclarecidos nos autos do Inquérito 2.164/DF.
+6. 	Ante o exposto, não mais subsiste o interesse do Ministério Público Federal em obter as declarações de bens e valores apresentadas ao Parlamento pelo Senador Marcelo Bezerra Crivella, razão pela qual julgo extinto o presente processo, por perda superveniente do seu objeto (art. 21, IX, do RISTF).
+Publique-se e arquive-se.
+Brasília, 1º de julho de 2008.
+Ministra Ellen Gracie
+Relatora
