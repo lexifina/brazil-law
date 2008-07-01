@@ -1,0 +1,11 @@
+DECISÃO: Inviável, nesta fase processual, a concessão da medida cautelar postulada, eis que, se eventualmente deferido este pedido de “habeas corpus”, caberá ao magistrado sentenciante, e não a esta Suprema Corte, quantificar a redução penal decorrente do reconhecimento, na espécie, de uma nova circunstância atenuante genérica.
+Na realidade, somente incumbe, ao Supremo Tribunal Federal, no âmbito do presente “habeas corpus”, reconhecer a configuração, ou não, no caso, da confissão espontânea, para os fins e efeitos a que se refere o art. 65, inciso III, alínea “d”, do Código Penal.
+Sendo assim, e pelas razões expostas, indefiro o pedido de medida cautelar.
+2. Assinalo, a título de mero registro, que, consoante já decidiu esta Suprema Corte, “A confissão espontânea da autoria do crime, pronunciada voluntariamente, ou não, pelo réu, perante a autoridade pública, atua como circunstância que sempre atenua a pena, 'ex vi' do que dispõe o art. 65, III, 'd', do CP, com a redação que lhe deu a Lei 7.209/84” (RT 690/390, Rel. Min. CELSO DE MELLO).
+É importante acentuar, neste ponto, que a confissão espontânea, ainda que parcial, qualifica-se como circunstância de obrigatória atenuação da pena, pois a regra legal que contém essa determinação (CP, art. 65, III, “d”) - consoante adverte esta Corte Suprema (RTJ 144/850, Rel. Min. MARCO AURÉLIO - HC 77.653/MS, Rel. Min. ILMAR GALVÃO) - “não faz qualquer ressalva no tocante à maneira como o agente a pronunciou” (HC 82.337/RJ, Rel. Min. ELLEN GRACIE - grifei)
+Cumpre observar, no entanto, na linha do magistério jurisprudencial firmado pelo Supremo Tribunal Federal, que a incidência dessa circunstância atenuante genérica, motivada pela confissão espontânea, não poderá ”implicar redução da pena fixada no mínimo legal” (RTJ 114/1027 - RTJ 118/928 - RTJ 139/885 - HC 70.047/SP, Rel. Min. CELSO DE MELLO, v.g.), eis que “A  observância obrigatória de circunstância atenuante pressupõe a fixação da pena acima do mínimo previsto para o tipo” (RTJ 140/946, Rel. Min. MARCO AURÉLIO - grifei).
+3. Achando adequadamente instruída a presente impetração, ouça-se a douta Procuradoria-Geral da República.
+Publique-se.
+Brasília, 1º de julho de 2008.
+Ministro CELSO DE MELLO
+Relator
