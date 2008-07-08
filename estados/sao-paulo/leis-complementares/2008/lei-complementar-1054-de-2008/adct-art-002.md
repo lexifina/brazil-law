@@ -1,0 +1,2 @@
+Artigo 2° - O servidor público que, na data da publicação desta lei complementar, estiver em gozo de licença por adoção fará jus ao acréscimo de 60 (sessenta) dias de benefício, contados a partir do primeiro dia subseqüente ao término do período anteriormente concedido.
+Parágrafo único - Não se aplica o disposto no "caput" deste artigo à adoção por cônjuges ou companheiros, ambos servidores públicos, ficando assegurada a fruição dos períodos de licença concedidos de acordo com a legislação vigente até a edição desta lei complementar.
