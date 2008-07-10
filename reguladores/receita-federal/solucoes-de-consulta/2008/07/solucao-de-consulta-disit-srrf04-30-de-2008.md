@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF04 nº 30, de 17 de junho de 2008
+ASSUNTO: Contribuição para o PIS/Pasep
+EMENTA: Os custos ou despesas relativos a valores devidos pelos veículos de divulgação às agências de propaganda ou publicidade, a título de remuneração, somente podem ser utilizados na constituição de créditos, descontáveis na apuração não-cumulativa da contribuição para o PIS/Pasep do veículo de divulgação, quando a obrigação relativa a tais custos e despesas for, em decorrência de contrato ou disposição da legislação específica, do próprio veículo e tiver sido contraída em razão de serviços de propaganda ou publicidade diretamente aplicados ou consumidos na prestação de serviços do veículo de divulgação. Legislação: Lei nº 4.680, de 1965; Lei nº 10.637, de 2002; Decreto nº 57.690, de 1966; Instrução Normativa SRF nº 404, de 2004.
+DISPOSITIVOS LEGAIS: Lei nº 4.680, de 1965; Lei nº 10.833, de 2003; Decreto nº 57.690, de 1966; Instrução Normativa SRF nº 404, de 2004.
+[arquivo anexo: SC SRRF04-Disit nº 30-2008.pdf]
