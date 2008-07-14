@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de Petição apresentada por UNIBANCO - União de Bancos Brasileiros S/A -, pleiteando o destrancamento do Recurso Extraordinário n° 2008.134.4765, retido no Tribunal de Justiça do Estado do Rio de Janeiro (TJ/RJ), ao qual foi aplicado o art. 542, § 3º, do Código de Processo Civil.
+Consta dos autos que o Juiz de primeira instância manteve decisão que inverteu “o ônus da prova com base no CDC” (fl. 3). A referida decisão determinou a apresentação de extratos de contas dos seus clientes.
+O requerente alega que a plausibilidade jurídica de seu pedido é sustentada pela possibilidade de vir a ser condenado. A urgência sustenta-se no fato da “irreversibilidade do prejuízo decorrente do julgamento prematuro do feito sem que, antes, tenha se manifestado o judiciário sobre a questão suscitada pelo requerente” (fl.4). Por fim, requer o processamento imediato do recurso extraordinário n° 2008.134.4765, por se tratar de exceção à regra contida no art. 542, § 3º, do Código de Processo Civil.
+Passo a decidir o pedido de liminar.
+Em primeiro lugar, anoto que esta Corte tem admitido ações cautelares propostas com o objetivo de questionar a aplicação do art. 542, § 3o, do Código de Processo Civil, para viabilizar o processamento de recurso extraordinário retido. Assim ficou decidido no julgamento da Pet-QO n° 2.222-0/PR, Rel. Min. Sepúlveda Pertence, DJ 12.3.2004, cuja ementa possui o seguinte teor, verbis:
+
+“EMENTA: 1. Medida cautelar em recurso extraordinário: competência do Supremo Tribunal Federal para o julgamento de medidas cautelares de RE, quando nela se oponha o recorrente à aplicação do art. 542, § 3º, do C.Pr.Civil: incidência do disposto no parágrafo único do art. 800 do C.Pr.Civil ("interposto o recurso, a medida cautelar será requerida diretamente ao tribunal"): hipótese de medida cautelar que visa a afastar óbice ao processamento do recurso na instância a quo, diversa do problema do início da jurisdição cautelar do Supremo para conceder efeito suspensivo ao RE. 2. Medida cautelar: indeferimento: ausência de fumus boni juris: caso de recurso extraordinário contra decisão concessiva de tutela antecipada em ação civil pública, não cabível, por não se tratar de decisão definitiva: C. Pr. Civil, art. 273, § 4º.”
+
+Na ocasião, assim se manifestou o Min. Relator Sepúlveda Pertence:
+
+“Reexaminando a matéria, tenho como acertada a afirmação da competência do Tribunal para o julgamento de medidas cautelares de RE, quando nela se oponha o recorrente à aplicação do art. 542, § 3o, C. Pr. Civil.
+De fato, não se cuidará aí da atribuição de efeito suspensivo a recurso extraordinário pendente de apreciação na instância de origem, mas simplesmente de determinar o processamento do recurso nessa instância - isto é, a intimação da parte contrária para o oferecimento de contra-razões e a prolação do juízo de admissibilidade: logo, não há razão para afastar-se a incidência do disposto no parágrafo único do art. 800 C. Pr. Civil, segundo o qual 'interposto o recurso, a medida cautelar será requerida diretamente ao tribunal'.
+Nessas hipóteses, com efeito, a concessão da medida liminar não interfere minimamente na competência do Presidente do Tribunal a quo para decidir sobre a admissibilidade do RE, ao contrário do que ocorreria se o Tribunal concedesse efeito suspensivo a RE ainda não submetido a juízo de admissibilidade, caso em que, segundo se tem frisado, o Presidente do Tribunal a quo estaria compelido a admitir o recurso, qual acentuado pelo em. Min. Moreira Alves na Pet (QO) 1863.”
+
+O Tribunal também admite a reclamação contra decisão que determina a retenção de recurso extraordinário na instância a quo (Rcl-AgR 3.268/SP, Rel. Min. Cezar Peluso, DJ 9.6.2006; Rcl 1281/SP, Rel. Min. Joaquim Barbosa, DJ 10.2.2006; Rcl 3.475/MS, de minha relatoria, DJ 10.3.2006).
+Em todo caso, no entanto, deve-se questionar a existência de razões plausíveis justificadoras do afastamento da regra do art. 542, § 3o, do Código de Processo Civil.
+A regra prevista no parágrafo 3o do artigo 542 do Código de Processo Civil, acrescido pela Lei no 9.756, de 17 de dezembro de 1998, prevê a possibilidade de retenção do recurso extraordinário interposto contra decisão que tiver resolvido questão incidente em processo de conhecimento, cautelar ou embargos à execução.
+		Essa regra deve ser interpretada com temperamentos, pois não deve incidir indiscriminadamente sobre qualquer decisão interlocutória, que muitas vezes podem causar prejuízos irreparáveis às partes.
+		Assim, a regra do art. 542, § 3o, do Código de Processo Civil, poderá ser afastada nas hipóteses em que esteja comprovada a possibilidade de ocorrência de danos irreparáveis ou de difícil reparação às partes e demonstradas a viabilidade processual do recurso extraordinário e a plausibilidade das razões alegadas.
+No entanto, este não é o caso dos autos.
+Cumpre ressaltar que o recurso extraordinário foi interposto sob o argumento de violação ao art. 5º, XXXVI, da Constituição Federal, ou seja, por ofensa ao postulado do ato jurídico perfeito e ao princípio da irretroatividade das leis, sob o argumento de que o acórdão recorrido aplicou o Código de Defesa do Consumidor a fatos anteriores a 1991, exigindo a apresentação de extratos de conta poupança de que o Banco não mais dispõe.
+Sucede que a alegação de ofensa ao art. 5º, XXXVI, da Carta Magna, no caso dos autos, não é suficiente para demonstrar a fumaça do bom direito (fumus boni iuris) e a viabilidade do recurso extraordinário. A discussão sobre inversão do ônus da prova e aplicação do Código de Defesa do Consumidor ao caso, aparentemente, implica discussão sobre legislação infraconstitucional, não atraindo a hipótese de exceção supra referida.
+Diante do exposto, indefiro o pedido de liminar.
+Publique-se.
+Brasília, 14 de julho de 2008.
+
+Ministro GILMAR MENDES
+Presidente
+(Art. 13, VIII, RI/STF)
