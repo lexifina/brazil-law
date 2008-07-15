@@ -1,0 +1,66 @@
+DECISÃO: Trata-se de pedido de medida liminar em habeas corpus, impetrado por EDUARDO DE VILHENA TOLEDO, JOSÉ THOMAZ F. GONÇALVES DE OLIVEIRA e TICIANO FIGUEIREIDO, em favor de PAULO CÉSAR TIMPONI.
+O Ministério Público do Distrito Federal e Territórios ofereceu denúncia em face de Paulo César Timponi, por infração ao artigo 121, § 2º, I, III e IV, e ao artigo 129, caput, do Código Penal.
+O paciente teve sua prisão preventiva decretada em 18.10.2007, pelo Juiz Presidente do Tribunal do Júri de Brasília, com fundamento na necessidade de garantir a ordem pública e a aplicação da lei penal (Apenso 1, fls. 120-126).
+Ao apreciar o habeas corpus impetrado em face dessa decisão, o Tribunal de Justiça do Distrito Federal e Territórios entendeu pela necessidade de manutenção da prisão provisória, tendo em vista a necessidade de garantia da ordem pública, afastando, desta forma, o fundamento da garantia de aplicação da lei penal (Apenso 1, fls. 185-214).
+A defesa impetrou, então, o Habeas Corpus nº 99.257, com pedido de liminar, perante o Superior Tribunal de Justiça, cuja relatoria foi atribuída ao Min. Napoleão Nunes Maia Filho. Em 31.1.2008, o Vice-Presidente daquela Corte, no exercício da Presidência, deferiu o pedido de medida liminar para assegurar que o paciente permanecesse em liberdade até o julgamento do mérito do mandamus (Apenso 1, fls. 224-226).
+Em 9.4.2008, o relator do Habeas Corpus nº 99.257, ao reexaminar o pedido de liminar, revogou a liminar deferida pela Presidência do STJ, restabeleceu o acórdão do TJDF e determinou a expedição de mandado de prisão contra o paciente (Apenso 2, fls. 313-317), nos seguintes termos:
+[...]
+7. Em face das informações prestadas, chamo o feito a ordem, a fim de reexaminar o pedido de liminar.
+8. Em que pese a excelência da decisão proferida pelo eminente Ministro PEÇANHA MARTINS, peço vênia para abordar alguns pontos não versados em seu brilhante decisum.
+9. Inicialmente, anote-se que a segregação provisória foi determinada para garantir a ordem pública e para assegurar eventual aplicação da lei penal, de sorte que, ao revés do asseverado pelo impetrante, a motivação não consistiu em circunstâncias abstratas, como o clamor público, mas, foram elencadas justificativas deveras concretas, aptas a embasar a medida extrema. Do referido decreto extrai-se:
+
+A forma como ocorreu o crime revela um desvalor enorme do réu contra a integridade física e a própria vida de pessoas que trafegam pelas ruas da cidade. Tudo indica que trafegava em alta velocidade, havendo
+notícias de que participava de 'racha' na Ponte JK, que de ponto turístico e motivo de orgulho, pela beleza monumental, se transformou em local macabro e de triste lembrança.
+Aliás, um Promotor de Justiça, Dr. Paulo Roberto B., que trafegava por aquele local e hora, ouvido pela digna autoridade policial, ainda no ardor dos acontecimentos, esclareceu que 'estava voltando do Plano Piloto para sua casa, rumo ao Lago Sul, juntamente com sua filha ANA PAULA de 11 anos, sua mãe e sobrinho, também de 11 anos, quando mais ou menos na metade da ponte JK, trafegando na pista do meio, foi subitamente surpreendido pela 'cortada' de um veículo Golf que ultrapassou pela direita e adentrou a sua frente e, imediatamente também uma caminhonete S10 procedeu da mesma forma, sendo que os veículos estavam em altíssima velocidade.'
+A conduta do acusado, antes de todo ocorrido, não lhe favorece. Responde a algumas ações penais e foi condenado por tráfico ilícito de entorpecentes. Em seu automóvel foram encontradas substâncias entorpecentes: maconha e cocaína, além de uma garrafa de whisky. (fls. 194/196).
+
+10. Verifica-se, assim, que o decreto constritivo não se encontra carente de fundamentação, visto que a real periculosidade do paciente, evidenciada na sua conduta (praticar disputa automobilística, vulgarmente conhecida como racha em via pública em horário de grande movimento, com sinais de ingestão de bebida alcoólica e de outras substâncias entorpecentes ilícitas), aliado ao fato de o mesmo ter em seu nome diversas multas de trânsito por excesso de velocidade e responder a outras ações penais, tendo sido inclusive condenado por tráfico ilícito de entorpecentes, constitui motivação idônea e suficiente à manutenção da segregação provisória, como forma de garantir a ordem pública. É o que se depreende da jurisprudência deste Superior Tribunal de Justiça: HC 44.737/BA, Rel. Min. LAURITA VAZ, DJU 03.03.2008; HC 83.720/PB, Rel. Min. FELIX FISCHER, DJU 17.03.2008.
+11. Outrossim, em consulta realizada ao endereço eletrônico do Tribunal de Justiça do Distrito Federal e Territórios (www.tjdft.gov.br), verifica-se que, transitada em julgado a condenação por crime de tráfico, o ora paciente está no cumprimento de livramento condicional (Proc. 2004.01.1.068887-6).
+12. Por todo o exposto, peço vênia, ao eminente Ministro PEÇANHA MARTINS, para REVOGAR a liminar anteriormente deferida, restabelecendo, integralmente, o acórdão impugnado, que fora adotado por unanimidade, determinando-se, conseqüentemente, a expedição de mandado de prisão contra PAULO CESAR TIMPONI.
+13. Abra-se vista dos autos ao Ministério Público Federal, para o parecer de estilo; após, voltem-me conclusos.
+O mandado de prisão foi cumprido em 10.4.2008 quando o paciente apresentou-se espontaneamente perante o Tribunal do Júri da Circunscrição Especial Judiciária de Brasília (fl. 27).
+Contra a decisão que revogou a liminar anteriormente deferida, a defesa impetrou neste STF, o Habeas Corpus nº 94.893, com pedido de liminar. O relator, Min. Joaquim Barbosa, em 2.6.2008, negou-lhe conhecimento, por incidência da Súmula nº 691 deste Tribunal, verbis:
+
+Decido.
+Não vislumbro hipótese de decisão teratológica, que permita a superação do entendimento sumulado deste Supremo Tribunal Federal.
+O ato apontado como coator apresenta a seguinte fundamentação:
+
+“(...) o decreto constritivo não se encontra carente de fundamentação, visto que a real periculosidade do paciente, evidenciada na sua conduta (praticar disputa automobilística, vulgarmente conhecida como racha em via pública em horário de grande movimento, com sinais de ingestão de bebida alcoólica e de outras substâncias entorpecentes ilícitas), aliado ao fato de o mesmo ter em seu nome diversas multas de trânsito por excesso de velocidade e por responder a outras ações penais, tendo sido, inclusive, condenado por tráfico de entorpecentes, constitui motivação idônea e suficiente à manutenção da segregação provisória, como forma de garantir a ordem pública. É o que se depreende da jurisprudência desse Superior Tribunal de Justiça: HC 44737/BA, Rel. Min. Laurita Vaz, DJU 03.03.2008; HC 83720/PB, Rel. Min. Felix Fischer, DJU 17.03.08.
+Por todo o exposto, peço vênia ao eminente Ministro Peçanha Martins, para revogar a liminar anteriormente deferida, restabelecendo, integralmente, o acórdão impugnado, que fora adotado por unanimidade (...).”
+
+Como se nota, os fundamentos demonstrados pela autoridade apontada como coatora - periculosidade real do paciente e perigo para a ordem pública - estão em consonância com o art. 312 do Código de Processo Penal e com a jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal, não havendo motivo para, em supressão de instância, afastar a eficácia do decreto de prisão preventiva.
+Com efeito, a aparente plausibilidade do decreto prisional somente pode ser afastada por decisão do órgão colegiado competente.
+Do exposto, nos termos do que determina a Súmula n° 691 deste Supremo Tribunal Federal, NEGO CONHECIMENTO ao habeas corpus (art. 21, §1º, Regimento Interno do Supremo Tribunal Federal).
+Publique-se. Arquive-se.
+Em 20 de junho de 2008, a defesa juntou documentos aos autos do HC no 99.257/DF (Apenso 2, fls. 347-369), e requereu a reconsideração da decisão que revogou a liminar concedida (Apenso 2, fls. 374-380).
+Em 27 de junho de 2008, o Min. Napoleão Nunes Maia Filho, da Quinta Turma do Superior Tribunal de Justiça, nos autos do HC no 99.257/DF (DJ 5.8.2008), indeferiu o pedido de reconsideração nos seguintes termos (Apenso 2, fls. 362-363):
+
+Trata-se de pedido de reconsideração da decisão de fls. 313/317, em que se revogou a liminar anteriormente deferida em benefício de PAULO CÉSAR TIMPONI, restabelecendo a eficácia do acórdão impugnado do TJDFT, que entendeu pela idoneidade do decreto constritivo e determinando a expedição de mandado de prisão.
+2. A defesa alega, em síntese, que, ao contrário do que constou a referida decisão, o paciente não se encontra em período de livramento condicional. Aduz, ainda, que tal argumento não poderia ter sido erigido como fundamento para revogar a medida emergencial anteriormente concedida. Por fim, sustenta a ausência de motivação idônea para a manutenção da custódia cautelar.
+3. In casu, a manutenção da constrição cautelar foi fundada na necessidade de garantir a ordem pública e para assegurar a eventual aplicação da lei penal, de sorte que, ao revés do asseverado pelo impetrante, a motivação não consistiu apenas em circunstâncias abstratas, como o clamor público e a gravidade do crime, mas foram elencadas justificativas deveras concretas, aptas a embasar a medida constritiva.
+4. Não é demais lembrar que a preservação da ordem pública não se restringe às medidas preventivas da irrupção de conflitos e tumultos, mas abrange também a promoção daquelas providências de resguardo à integridade das instituições, à sua credibilidade social e ao aumento da confiança da população nos mecanismos oficiais de repressão às diversas formas de delinqüência.
+5. Assim, não há razão para a mudança de entendimento, uma vez que, em um exame perfunctório, destinado a esta fase emergencial, o que se verifica é que, ainda que o paciente não estivesse em período de livramento condicional, o decreto de prisão preventiva resta justificado na necessidade de se garantir a ordem pública e assegurar a eventual aplicação da lei penal.
+6. Ante o exposto, INDEFERE-SE o pedido de reconsideração.
+Este é o ato impugnado neste writ.
+No que concerne à plausibilidade jurídica do pedido (fumus boni iuris) e à urgência da pretensão cautelar (periculum in mora), a impetração sustenta:
+
+Ao erigir a garantia da aplicação da lei penal como argumento apto a justificar a manutenção da decisão que revogou a medida liminar deferida, o Ministro Relator agiu de forma, no mínimo, descuidada demonstrando desatenção e desconhecimento da causa, o que, por si só, demonstra a toda evidência, a flagrante ilegalidade de sua decisão.
+O Tribunal de Justiça do Distrito Federal, ao apreciar a legalidade do decreto de prisão exarado em desfavor do roa paciente, é expresso em reconhecer a sua ilegalidade quanto a esse fundamento, fazendo consignar, em ementa do acórdão, que o paciente sempre atendeu às decisões judiciais, tendo, em todas as oportunidades se apresentado espontaneamente à prisão, em uma demonstração inequívoca de acato e respeito a toda e qualquer decisão judicial [...].
+Não há como sustentar o decreto de prisão preventiva expedido em desfavor do ora paciente, nos termos em que se encontra fundamentado o decisum impugnado, com base, apenas, nas meras explicitações e conjecturas em torno dos requisitos trazidos pelo artigo 312 do Código de Processo Penal.
+[...]
+Os fundamentos da impetração demonstram, à saciedade, a presença do fumus boni iuris.
+Da mesma forma, é evidente a existência do periculum in mora, sobretudo pelo fato de que o paciente encontra-se preso por decisão, permissa venia, manifestamente teratológica, desfundamentada, que apenas explicita os termos dos requisitos constantes do art. 312 do CPP e agrega fatos inverídicos e já afastados do decreto  singular de prisão preventiva exarado em desfavor do paciente, além de fundamentar em fatos que sequer encontram-se contidos no âmbito temático da imputação que lhe é feita pela exordial acusatória. - (fls. 15-24).
+Por fim, a defesa requer:
+
+[...] a concessão de medida liminar a fim de que sejam sobrestados os efeitos do decreto de prisão preventiva exarado em desfavor do paciente, até o julgamento final do presente writ ou, alternativamente, que seja mantida a liminar anteriormente concedida, a fim de que sejam sobrestados os efeitos do decreto de segregação cautelar até o julgamento final do Habeas Corpus no 99.257/DF, em curso perante o Superior Tribunal de Justiça. - (fl. 24)
+Passo a decidir.
+Da análise dos autos, verifica-se que não há circunstância que justifique a impetração do presente habeas corpus perante este STF. A situação fática, o objeto e o pedido são os mesmos que deram ensejo à impetração do Habeas Corpus no 94.893, cuja relatoria foi atribuída ao Ministro Joaquim Barbosa.
+Desta forma, as alegações da defesa já foram examinadas por este Corte, sendo que, na oportunidade, o relator, Min. Joaquim Barbosa, entendeu não estar presente qualquer condição que pudesse afastar a aplicação da Súmula no 691 deste STF.
+Verifica-se, portanto, que a impetração busca, neste writ, tão-somente uma revisão da decisão proferida nos autos do HC no 94.893.
+Nesses termos, por se tratar de pedido manifestamente incabível, nego seguimento a este writ.
+Publique-se.
+Brasília, 15 de julho de 2008.
+
+Ministro GILMAR MENDES
+Presidente
+(art. 13, VIII, RISTF)
