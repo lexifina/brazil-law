@@ -1,0 +1,2 @@
+Art. 36-D. Os diplomas de cursos de educação profissional técnica de nível médio, quando registrados, terão validade nacional e habilitarão ao prosseguimento de estudos na educação superior.
+Parágrafo único. Os cursos de educação profissional técnica de nível médio, nas formas articulada concomitante e subseqüente, quando estruturados e organizados em etapas com terminalidade, possibilitarão a obtenção de certificados de qualificação para o trabalho após a conclusão, com aproveitamento, de cada etapa que caracterize uma qualificação para o trabalho.
