@@ -20,10 +20,12 @@ Seção III
 Do Ensino Fundamental
 Seção IV
 Do Ensino Médio
+Seção IV-A
+Da Educação Profissional Técnica de Nível Médio
 Seção V
 Da Educação de Jovens e Adultos
 CAPÍTULO III
-DA EDUCAÇÃO PROFISSIONAL
+Da Educação Profissional e Tecnológica
 CAPÍTULO IV
 DA EDUCAÇÃO SUPERIOR
 CAPÍTULO V
