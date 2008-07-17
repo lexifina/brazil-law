@@ -7,6 +7,4 @@ IV - serão incluídas a Filosofia e a Sociologia como disciplinas obrigatórias
 I - domínio dos princípios científicos e tecnológicos que presidem a produção moderna;
 II - conhecimento das formas contemporâneas de linguagem;
 III - (revogado).
-§ 2º O ensino médio, atendida a formação geral do educando, poderá prepará-lo para o exercício de profissões técnicas.
 § 3º Os cursos do ensino médio terão equivalência legal e habilitarão ao prosseguimento de estudos.
-§ 4º A preparação geral para o trabalho e, facultativamente, a habilitação profissional, poderão ser desenvolvidas nos próprios estabelecimentos de ensino médio ou em cooperação com instituições especializadas em educação profissional.
