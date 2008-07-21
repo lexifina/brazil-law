@@ -1,0 +1,13 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Rio de Janeiro e assim ementado:
+“Ação Civil Coletiva. Serviços de telefonia celular. Cobrança pela emissão de conta detalhada de serviços e de taxa pela mudança de plano durante o prazo de carência. Inexistência de litisconsórcio passivo ante a falta de interesse da Anatel na lide. Precedentes do STJ. Adequação do rito e evidente interesse de agir da autora. Aplicabilidade do Codecon, em caráter genérico, restringindo sua incidência a eventuais abusos acaso praticados pelas concessionárias de serviço de telefonia. COBRANÇA DO DETALHAMENTO DE LIGAÇÕES. Inexistência de abusividade na cobrança até a edição da Resolução 316/02. COBRANÇA DE TAXA OU TARIFA PARA MUDANÇA DE PLANO. Identificação de abusividade a autorizar a incidência das normas gerais do Codecon. A própria apelante admite a adoção, em determinados planos, a seu exclusivo critério, a necessidade de pagamento de valor para migração conduta que se revela abusiva por representar vantagem excessiva ao exclusivo arbítrio do fornecedor. Rejeição das preliminares. Parcial provimento ao recurso.” (fl.364).
+	Sustenta a recorrente, com base no art. 102, III, a, ter havido violação aos arts. 5º, II, 21, XI, 93, IX, 170, § único, e 174, da Constituição Federal.
+2.	Inadmissível o recurso.
+
+	Com efeito, apenas o tema referente ao art. 5º, II, da Constituição Federal, foi prequestionado. Os outros temas constitucionais agora suscitados não foram objeto de consideração no acórdão impugnado, faltando-lhes, assim, o requisito do prequestionamento, que deve ser explícito (súmulas 282 e 356).
+	Ademais, o acórdão impugnado decidiu a causa com base no conjunto fático-probatório e na legislação infraconstitucional pertinente, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta. Ora, é pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, pretensão de reexame de provas ou cláusulas contratuais (súmulas 279 e 454), aplicando-se, ainda, quanto ao princípio da legalidade, a súmula 636.
+	Por fim, transitou em julgado a decisão que não admitiu o recurso especial interposto, permanecendo, assim, incólume fundamento legal e bastante da decisão, o que inviabiliza o extraordinário ante os termos da súmula 283.
+3.	Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+	Publique-se. Int..
+	Brasília, 21 de julho de 2008.
+Ministro CEZAR PELUSO
+Relator
