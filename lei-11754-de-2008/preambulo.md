@@ -1,0 +1,2 @@
+Acresce, altera e revoga dispositivos da Lei nº 10.683, de 28 de maio de 2003, cria a Secretaria de Assuntos Estratégicos da Presidência da República, cria cargos em comissão; revoga dispositivos das Leis nos 10.869, de 13 de maio de 2004, e 11.204, de 5 de dezembro de 2005; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
