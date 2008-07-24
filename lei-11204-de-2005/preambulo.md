@@ -1,0 +1,2 @@
+Altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios; autoriza a prorrogação de contratos temporários firmados com fundamento no art. 23 da Lei nº 10.667, de 14 de maio de 2003; altera o art. 4º da Lei nº 8.745, de 9 de dezembro de 1993, e a Lei nº 11.182, de 27 de setembro de 2005; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
