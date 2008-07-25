@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF01 nº 16, de 30 de junho de 2008
+ASSUNTO: Imposto sobre a Renda de Pessoa Física - IRPF EMENTA: ALIENAÇÃO DE IMÓVEL RESIDENCIAL. GANHO DE CAPITAL. ISENÇÃO. A isenção do imposto de renda sobre o ganho de capital auferido por pessoa física que alienar imóvel residencial e, no prazo de 180 (cento e oitenta) dias, contado da data da celebração do contrato, aplicar o produto da alienação na aquisição de imóvel residencial não se aplica quando a venda do imóvel que motivou a compra do outro foi efetivada em data posterior à nova aquisição. DISPOSITIVOS LEGAIS: Lei n.º 11.196, de 21/11/2005, artigos 39; Código Tributário Nacional, art.11, inciso II.
+[arquivo anexo: SC SRRF01-Disit nº 16 - 2008.pdf]
