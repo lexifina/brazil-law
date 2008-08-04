@@ -1,0 +1,12 @@
+Solução de Consulta Disit/SRRF09 nº 182, de 9 de julho de 2008
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+APURAÇÃO NÃO-CUMULATIVA. CRÉDITOS. ARMAZENAGEM. DESPESAS PORTUÁRIAS. FRETE. EXPORTAÇÃO.
+Os gastos com fretes internacionais arcados pela vendedora, decorrentes de exportação de produtos de sua fabricação, somente dão direito a crédito para desconto dos valores devidos a título de Cofins, na sistemática de não-cumulatividade, se o transportador for pessoa jurídica domiciliada no País, e desde que sejam atendidos os demais requisitos normativos e legais, não se aplicando à hipótese a vedação do art. 3º, § 2º, II, da Lei nº 10.833, de 2003.
+Também dão direito a crédito as despesas de armazenagem de mercadoria na operação de venda, quando o ônus for suportado pelo vendedor, não podendo o conceito de armazenagem ser estendido para abarcar outras despesas portuárias como a carga e descarga ou a movimentação de mercadorias.
+Dispositivos Legais: Lei nº 10.833, de 2003, art. 3º, II e IX, e §§ 2º, II, e 3º, I e II, art. 6º, I, e art. 15, II; MP nº 2.158-35, de 2001, art. 14, II e V; IN SRF nº 404, de 2004, art. 8º, I, "b", e II, "e", e art. 9º.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP APURAÇÃO NÃO-CUMULATIVA. CRÉDITOS. ARMAZENAGEM. DESPESAS PORTUÁRIAS. FRETE. EXPORTAÇÃO.
+Os gastos com fretes internacionais arcados pela vendedora, decorrentes de exportação de produtos de sua fabricação, somente dão direito a crédito para desconto dos valores devidos a título de Contribuição ao PIS/Pasep, na sistemática de não-cumulatividade, se o transportador for pessoa jurídica domiciliada no País, e desde que sejam atendidos os demais requisitos normativos e legais, não se aplicando à hipótese as vedações do art. 3º, § 2º, II, da Lei nº 10.637, de 2002.
+Também dão direito a crédito as despesas de armazenagem de mercadoria na operação de venda, quando o ônus for suportado pelo vendedor, não podendo o conceito de armazenagem ser estendido para abarcar outras despesas portuárias como a carga e descarga ou a movimentação de mercadorias.
+Dispositivos Legais: Lei nº 10.637, de 2002, art. 3º, II, e §§ 2º, II, e 3º, I e II, e art. 5º, I; Lei nº 10.833, de 2003, art. 3º, IX, e art. 15, II; MP nº 2.158-35, de 2001, art. 14, II e V, e § 1º; IN SRF nº 247, de 2002, art. 66, "b" e § 5º, e art. 67; IN SRF nº 404, de 2004, art. 8º, I, "b" e II, "e", §§ 4º e 9º.
+Novo segmento
+[arquivo anexo: SC SRRF09-Disit nº 182-2008.pdf]
