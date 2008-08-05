@@ -1,0 +1,37 @@
+DECISÃO: Trata-se de mandado de segurança preventivo, com pedido de medida liminar, impetrado por Corcino Gomes da Silva Neto contra ato do Tribunal de Contas da União.
+Afirma que apresentou Recurso de Revisão contra o acórdão 1.173/2004-TCU-Plenário, prolatado nos autos da tomada de contas especial TC-012.176/1999-0, que julgou irregulares as contas do impetrante. Fundamenta seu recurso em suposto aproveitamento de provas ilícitas e na violação aos princípios do contraditório e da ampla defesa pelo TCU.
+Sustenta que, ultrapassados cinco dias da interposição do recurso, ainda não havia decisão no processo. Por outro lado, muito embora reconheça que, segundo o artigo 35 da lei 8.443/1993, o recurso de revisão não possui efeito suspensivo, afirma que deve ser aplicado ao caso, subsidiariamente, a lei 9.784/1999, cujo artigo 61, § 1º prevê a possibilidade de atribuição de efeito suspensivo aos recursos administrativos quando há justo receio de prejuízo de difícil reparação.
+Por fim, afirma que é candidato ao pleito de 2008 e não pode ser prejudicado pelas irregularidades cometidas pelo TCU.
+Requer a concessão da liminar para que se determine à autoridade coatora que “admita o recurso de revisão, concedendo o efeito suspensivo ao mesmo” ou a suspensão do processo administrativo até o julgamento final do mandamus.
+No mérito, requer a concessão da segurança para os mesmos fins.
+Ressalto que este é o terceiro mandado de segurança em que figura no pólo ativo o impetrante, visando obter, em síntese os mesmos fins.
+O MS 27.375, relator ministro Eros Grau, teve seu seguimento negado por não comprovação do direito líquido e certo.
+E no MS 27.417, de minha relatoria, indeferi a liminar por entender ausentes os pressupostos para a sua concessão.
+Encaminhados os autos do presente mandado de segurança à Presidência desta Corte para solucionar eventual prevenção do ministro Eros Grau, o ilustre Presidente da Corte, min. Gilmar Mendes, considerou não configurada a prevenção, razão por que os autos vieram-me conclusos.
+Em 30.07.2008, o impetrante peticiona informando que o Ministério Público e um vereador impugnaram o registro de sua candidatura, sendo um dos argumentos a rejeição da prestação de contas pelo TCU.
+A fls. 154-172, o Tribunal de Contas da União presta informações sustentando: (i) o não cabimento do pedido, tendo em vista que o recurso de revisão não tem efeito suspensivo por força de lei; (ii) que o presente mandado de segurança deveria ter sido impetrado contra o acórdão 1.173/2004 proferido pelo TCU, cujo prazo decadencial já se esgotou; (iii) que o recurso de revisão assemelha-se à ação rescisória, de modo que não lhe cabe emprestar efeito suspensivo; (iv) a legalidade do acórdão do TCU.
+É o relatório.
+Decido.
+Transcrevo o pedido do impetrante (fls. 22):
+“Posto isso, com a documentação comprobatória dos fatos e do direito esgrimidos, o impetrante requer, liminarmente, digne-se V. Exa. de determinar à autoridade coatora que admita o Recurso de Revisão, concedendo o efeito suspensivo ao mesmo, ou esta Corte suspenda, de plano, o andamento do Processo Administrativo, até o julgamento deste writ, sob pena de pagamento de multa.
+(...) e, em final sentença, requer seja confirmada a liminar e concedida a segurança, reconhecendo ser um direito líquido e certo do impetrante o recebimento do Recurso de Revisão, com o efeito suspensivo”.
+Como se vê, pleiteia o impetrante a concessão de efeito suspensivo ao recurso de revisão apresentado perante a Corte de Contas contra o acórdão 1.723/2004-TCU, já transitado em julgado.
+Observo, no entanto, que, segundo o art. 288 do Regimento Interno do Tribunal de Contas da União, o recurso de revisão tem natureza de ação rescisória e expressamente não se lhe atribui efeito suspensivo. Confira-se a redação do dispositivo mencionado:
+“Art. 288. De decisão definitiva em processo de prestação ou tomada de contas, mesmo especial, cabe recurso de revisão ao Plenário, de natureza similar à da ação rescisória, sem efeito suspensivo, interposto uma só vez e por escrito pela parte, seus sucessores, ou pelo Ministério Público junto ao Tribunal, dentro do prazo de cinco anos, contados na forma prevista no inciso IV do art. 183, e fundar-se-á:
+I - em erro de cálculo nas contas;
+II - em falsidade ou insuficiência de documentos em que se tenha fundamentado o acórdão recorrido;
+III - na superveniência de documentos novos com eficácia sobre a prova produzida”. (grifei)
+Esta Corte, no julgamento do MS 25.270, rel. min. Carlos Britto, DJ 03.08.2007, reconheceu essa similaridade do recurso de revisão com a ação rescisória. Colho do voto do relator:
+“Com efeito, nota-se que as hipóteses de cabimento do recurso de revisão são mais estritas, similares às da ação rescisória. Ademais, seja em razão do prazo de interposição, seja ante os rigorosos pressupostos de sua admissibilidade, é forçoso concluir pela natureza análoga dos dois mecanismos processuais”.
+Assim, o recurso de revisão visa a desconstituir acórdão do TCU já transitado em julgado, o que justifica a não atribuição, pela lei, de efeito suspensivo a ele. A eventual atribuição de efeito suspensivo ao mencionado recurso de revisão, na esfera administrativa, decorreria de juízo discricionário, pautado nos dados constantes do pedido de revisão, a ser feito pelo relator do processo. Esta Corte não tem competência para atribuir efeito suspensivo ao recurso de revisão de competência do Tribunal de Contas da União.
+O mesmo raciocínio se aplica à admissão ou não do recurso de revisão. A competência para apreciar os pressupostos de cabimento é do Tribunal de Contas da União.
+Por outro lado, esta Corte já assentou que a inclusão do nome na relação de responsáveis com contas irregulares pelo TCU para fins de inelegibilidade não constitui penalidade, destinando-se, apenas, a servir de possível subsídio que instruirá eventual impugnação de registro de candidatura, a ser decidida pela Justiça Eleitoral. Confira-se:
+EMENTA: - CONSTITUCIONAL. ELEITORAL. INELEGIBILIDADE. CONTAS DO ADMINISTRADOR PÚBLICO: REJEIÇÃO. Lei Complementar n. 64, de 1990, art. 1., I, "g". I. - Inclusão em lista para remessa ao órgão da Justiça Eleitoral do nome do administrador público que teve suas contas rejeitadas pelo T.C.U., além de lhe ser aplicada a pena de multa. Inocorrencia de dupla punição, dado que a inclusão do nome do administrador público na lista não configura punição. II. - Inelegibilidade não constitui pena. Possibilidade, portanto, de aplicação da lei de inelegibilidade, Lei Compl. n. 64/90, a fatos ocorridos anteriormente a sua vigencia. III. - A Justiça Eleitoral compete formular juízo de valor a respeito das irregularidades apontadas pelo Tribunal de Contas, vale dizer, se as irregularidades configuram ou não inelegibilidade. IV. - Mandado de segurança indeferido.
+MS 22.087, rel. min. Carlos Velloso, DJ 10.05.1996.
+EMENTA: Mandado de Segurança. 2. Ato do Tribunal de Contas da União. 3. Irregularidades nas contas de município. 4. Inelegibilidade de candidato a prefeito. 5. Juízo de competência da Justiça Eleitoral. 6. Ausência de constrangimento. 7. Precedente. 8. Ordem denegada.
+MS 24.991, rel. min. Gilmar Mendes. DJ 20.10.2006.
+De todo o exposto, com fundamento no art. 21, § 1º do Regimento Interno do Tribunal de Contas da União, nego seguimento ao presente mandado de segurança, ficando prejudicada a análise do pedido de medida liminar.
+Arquive-se.
+Brasília, 05 de agosto de 2008.
+Ministro JOAQUIM BARBOSA
+Relator
