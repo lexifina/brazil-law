@@ -1,0 +1,14 @@
+DESPACHO: Ao analisar o calendário de audiências que vem sendo organizado pelos juízos delegatários em coordenação com meu gabinete, percebi que, em algumas seções judiciárias, não foi observada a prevenção do juízo que havia realizado os interrogatórios na fase anterior, embora meu despacho tenha indicado a necessidade de observância desta regra.
+Tal medida é importante para possibilitar uma prestação jurisdicional de melhor qualidade, garantindo que as oitivas das testemunhas sejam realizadas, sempre que possível, pelos mesmos magistrados que tomaram os depoimentos dos réus.
+Neste sentido, note-se que os interrogatórios, em Brasília/Distrito Federal, foram realizados pela juíza titular da 10ª Vara Federal da Seção Judiciária do Distrito Federal, cumprindo a carta de ordem a ela livremente distribuída. Por outro lado, em Curitiba, os interrogatórios foram realizados pelo juiz titular da 3ª Vara Federal Criminal de Curitiba.
+Contudo, as cartas de ordem extraídas para a oitiva das testemunhas de acusação foram distribuídas sem observância da mencionada prevenção, aos Juízos da 12ª Vara Federal do Distrito Federal e da 2ª Vara Federal Criminal de Curiba, respectivamente.
+Assim, expeçam-se ofícios, inclusive via fax, aos Diretores do Foro da Justiça Federal das referidas Seções Judiciárias (Distrito Federal e Paraná), determinando que promovam a redistribuição das cartas de ordem atualmente em poder dos juízos da 12ª Vara Federal da Seção Judiciária do Distrito Federal e da 2ª Vara Federal de Curitiba (autos n° 2008.34.00.021.015-7, no Distrito Federal, e 2008.70.00.012.793-1, em Curitiba/PR), para que sejam encaminhadas aos juízos da 10ª Vara Federal da Seção Judiciária do Distrito Federal e da 3ª Vara Federal Criminal de Curitiba/PR, respectivamente, originariamente sorteados para a realização dos interrogatórios nos autos desta Ação Penal. Encaminhem-se cópias dos ofícios aos juízes da 10ª e da 12ª Varas Federais da Seção Judiciária do Distrito Federal e aos da 2ª e 3ª Varas Federais Criminais de Curitiba, Seção Judiciária do Paraná.
+Oficie-se, igualmente, inclusive via fax, aos demais Diretores de Foro da Justiça Federal nas seções judiciárias onde devam ser realizadas as diligências delegadas nestes autos, determinando que, salvo dificuldade incontornável, sempre mantenham a prevenção dos juízes para a realização de futuras diligências em delegação nos presentes autos. Encaminhem-se cópias aos Presidentes dos Tribunais Regionais Federais da 1ª e 3ª Regiões.
+Oficie-se, ainda, inclusive via fax, à 1ª Vara Federal de Umuarama/PR, determinando a remarcação da audiência agendada para o próximo dia 14 de agosto, em comunicação com meu gabinete, tendo em vista a excessiva proximidade em relação às audiências que serão realizadas, na véspera (dia 13), em Londrina, e no dia seguinte (dia 15), em Ponta Grossa.
+Cumpra-se.
+Publique-se.
+
+Brasília, 6 de agosto de 2008.
+
+Ministro JOAQUIM BARBOSA
+Relator
