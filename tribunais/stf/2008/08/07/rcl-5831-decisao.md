@@ -1,0 +1,33 @@
+Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Estado de Tocantins, em razão do processamento, perante a 1ª e 2ª Varas do Trabalho de Araguaína e 1ª, 2ª e 3ª Turmas do Tribunal Regional do Trabalho da 10ª Região, de reclamações trabalhistas, contra o Estado requerente, que têm por objeto contrato de trabalho de cunho jurídico-administrativo.
+O reclamante sustenta que o referido processamento teria ofendido a autoridade do julgamento proferido pelo Supremo Tribunal Federal na ADI 3.395/DF, pois “a questão envolve a nomeação em comissão de servidores públicos nos quadros da administração estadual, estes regrados pelo Estatuto dos Servidores Públicos Estaduais e por Leis próprias de exceção” (fl. 6).
+Afirma, ainda, que “a discussão não é de relação de trabalho regulada pela CLT, mas de relação servidor público e estado, em regra definido pela Carta Magna, pelo Estatuto dos Servidores Públicos do Estado do Tocantins e por leis especiais de contratação temporária” (fl. 12).
+Pede a concessão de medida liminar para suspender a tramitação do feito nas Reclamações trabalhistas 00909-2006-811-10-00-6, 00943-2007-811-10-00-1, 00933-2007-812-10-00-2, 00585-2007-812-10-00-3, 00554-2007-812-10-00-2, 00589-2007-812-10-00-1, 00452-2007-812-10-00-7, 00358-2006-851-10-00-0, 00689-2007-801-10-00-4, 00557-2007-821-10-00-7 e 00787-2007-821-10-00-6 que tramitam perante a 1ª e 2ª Varas do Trabalho de Araguaína/TO e Tribunal Regional do Trabalho da 10ª Região (fl. 16).
+Às fls. 194-196 deferi o pedido de medida liminar.
+É o relatório. Decido.
+Inicialmente, verifico que a Reclamação trabalhista 00909-2006-811-10-00-6, foi julgada procedente, e a decisão transitou em julgado no dia 16/10/2007 (fl. 232).
+Desse modo, nos termos da Súmula 734/STF “não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal”.
+Em relação às demais reclamações trabalhistas, constato que o processamento dos referidos feitos perante a Justiça do Trabalho afronta a decisão desta Corte proferida na ADI 3.395/DF, Rel. Min. Cezar Peluso.
+Com efeito, o Plenário deste Tribunal suspendeu, cautelarmente, qualquer interpretação do art. 114, I, da Constituição,
+“que inclua, na competência da Justiça do Trabalho, a (...) apreciação (...) de causas que (...) sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo”.
+Nesse sentido, destaco a seguinte decisão proferida pelo Ministro Celso de Mello nos autos do CC 7.253/AM:
+“Devo registrar, finalmente, que eminentes Ministros desta Suprema Corte, em razão desse mesmo entendimento, têm vislumbrado a ocorrência de transgressão à autoridade da decisão que a Presidência do Supremo Tribunal Federal proferiu, em sede cautelar, na já referida ADI 3.395/DF (Rcl 3.737/PA, Rel. Min. ELLEN GRACIE - Rcl 3.736/PA, Rel. Min. JOAQUIM BARBOSA - Rcl 3.814/PA, Rel. Min. ELLEN GRACIE), assentando, por tal motivo, a incompetência da Justiça do Trabalho para julgamento de causas instauradas entre o Poder Público e seus agentes, em decorrência de vínculos de natureza estatutária ou de caráter jurídico-administrativo, como sucede na espécie.
+Sendo assim, pelas razões expostas, tendo em consideração os precedentes mencionados, e nos termos do art. 120, parágrafo único, do CPC, conheço deste conflito negativo de competência e declaro competente o magistrado estadual que proferiu a decisão de fls. 154, a quem incumbirá processar e julgar a presente causa.
+Encaminhem-se, pois, a esse ilustre magistrado estadual (fls. 154), os presentes autos” (grifos no original).
+Por tal razão, o Plenário desta Suprema Corte, na Sessão de 25/6/2008, negou provimento ao agravo regimental interposto contra decisão que julgou procedente a Rcl 4.903/SE, de minha relatoria, por afronta ao decidido na ADI 3.395-MC/DF.
+O supracitado acórdão recebeu a seguinte ementa:
+“EMENTA. AGRAVO REGIMENTAL. RECLAMAÇÃO. CONSTITUCIONAL. AFRONTA AO DECIDIDO NA ADI 3.395-MC/DF. CABIMENTO DA RECLAMAÇÃO. VEROSIMILHANÇA ENTRE O DECIDIDO E A DECISÃO TIDA COMO AFRONTADA. AGRAVO IMPROVIDO.
+I - O provimento cautelar deferido, pelo Supremo Tribunal Federal, em sede de ação declaratória de constitucionalidade, além de produzir eficácia 'erga omnes', reveste-se de efeito vinculante, relativamente ao Poder Executivo e aos demais órgãos do Poder Judiciário.
+II - A eficácia vinculante, que qualifica tal decisão, legitima o uso da reclamação se e quando a integridade e a autoridade desse julgamento forem desrespeitadas.
+III - A questão tratada na reclamação guarda pertinência com o decidido na ADI 3.395-MC/DF.
+IV - Agravo interposto contra o decidido em sede de liminar prejudicado, porquanto decidida a questão de mérito.
+V - Agravo regimental improvido” (Rcl 4.903-AgR-AgR/SE, Rel. Min. Ricardo Lewandowski).
+No mesmo sentido, cito os seguintes julgados: Rcl 4.948-MC/MS, de minha Relatoria; Rcl 4.816-MC/GO, Rel. Min. Celso de Mello; Rcl 4.762/PR, Rel. Min. Cármen Lúcia.
+De outro lado, consoante verificou a Procuradoria-Geral da República às fls. 240-243,
+“ao reconhecerem suas competências para processarem e julgarem as mencionadas ações trabalhistas, os juízos reclamados afrontaram o pronunciamento desse Supremo Tribunal Federal, tendo em vista que aqueles autos cuidam exatamente de causa instaurada entre o poder público e servidoras a ele vinculado por relação de cunho jurídico-administrativo.
+Com efeito, verifica-se que as demandas versam sobre eventuais direitos de servidores investidos em cargo em comissão, regidos pelo Estatuto dos Servidores Públicos Civis do Estado do Tocantins, vale dizer, o vínculo estabelecido entre os autores das ações e o poder público estadual é de natureza estatutária ou jurídico-administrativa”.
+Isso posto, julgo procedente em parte a presente reclamação para, nos termos do decidido pelo Plenário desta Suprema Corte no julgamento da ADI 3.395-MC/DF, Rel. Min. Cezar Peluso, cassar os atos decisórios proferidos pelo juízo reclamado nos autos das Reclamações trabalhistas 00943-2007-811-10-00-1, 00933-2007-812-10-00-2, 00585-2007-812-10-00-3, 00554-2007-812-10-00-2, 00589-2007-812-10-00-1, 00452-2007-812-10-00-7, 00358-2006-851-10-00-0, 00689-2007-801-10-00-4, 00557-2007-821-10-00-7 e 00787-2007-821-10-00-6 que tramitam perante a 1ª e 2ª Varas do Trabalho de Araguaína/TO e Tribunal Regional do Trabalho da 10ª Região, em razão da sua incompetência para processar e julgar o feito. Prejudicado, em conseqüência, o exame do agravo regimental interposto.
+Arquivem-se os autos.
+Publique-se.
+Brasília, 7 de agosto de 2008.
+Ministro RICARDO LEWANDOWSKI
+ - Relator -
