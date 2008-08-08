@@ -1,0 +1,16 @@
+DECISÃO: 1. Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1a. Região, assim ementado:
+“PREVIDENCIÁRIO. CONVERSÃO DE TEMPO ESPECIAL EM COMUM. APOSENTADORIA POR TEMPO DE SERVIÇO. EXPOSIÇÃO A AGENTES INSALUBRES. TRABALHO PERMANENTE. NÃO OCASIONAL NEM INTERMITENTE. DECRETO 53.831/64. DECRETO Nº 83.080/79. REQUISITOS. POSSIBILIDADE. PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA REJEITADA.
+1. Insurgindo-se o impetrante contra o ato da autoridade impetrada que lhe negou aposentadoria por tempo de serviço e comprovados os fatos por documentos, é adequada a via processual escolhida. Preliminar rejeitada.
+2. Estando devidamente comprovado o exercício de atividade profissional considerada prejudicial à saúde, o segurado tem direito à conversão do tempo de atividade especial em tempo de atividade  comum para fins de aposentadoria.
+3. É considerada insalubre, para fins de contagem de tempo especial, atividade desenvolvida com exposição a ruídos acima de 80db, conforme o item 1.1.5 do Anexo ao Decreto nº 53.831/64. Com efeito, somente a partir de 5.3.97, data da entrada em vigor do Decreto nº 2.172/97, passou-se a exigir a exposição a nível superior a 90 db, nos temos do seu Anexo .
+4. O uso de equipamentos de proteção não descaracteriza a situação de agressividade ou nocividade à saúde ou à integridade física, no ambiente de trabalho.
+5. Apelação e remessa oficial a que se nega provimento (fl.246).
+	No recurso extraordinário, o recorrente, com base no art. 102, III, a, alega ter havido violação ao art. 5º, XXXV, LIV e LV, da Constituição Federal.
+2.	Inadmissível o recurso.
+	O acórdão impugnado encontra fundamentação na legislação infraconstitucional (Decretos nºs 53.831/64, 83.080/79 e 2.172/97) e no conjunto fático-probatório, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta. Ora, é pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, nem tampouco para reexame de provas (súmula 279).
+	Ainda que assim não fosse, suposta ofensa às garantias constitucionais do contraditório e da ampla defesa configuraria, aqui, ofensa meramente reflexa à Constituição da República, porque sua eventual caracterização dependeria de exame prévio de norma infraconstitucional, o que também é inadmissível, como já notou a Corte em casos análogos: "as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário" (AI nº 372.358- AgR, Rel. Min. CELSO DE MELLO, DJ de 11.06.02. Cf. ainda AI nº 360.265-AgR, Rel. Min. CELSO DE MELLO, DJ de 20.09.2002.
+3.	Ante o exposto, nego seguimento ao recurso extraordinário (art. 21, § 1º, do RISTF, art. 38 da Lei nº 8.038, de 28.05.90, e art. 557 do CPC).
+	Publique-se. Int..
+Brasília, 08 de agosto de 2008.
+Ministro CEZAR PELUSO
+Relator
