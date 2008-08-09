@@ -56,7 +56,7 @@ DO INTERROGATÓRIO DO ACUSADO
 CAPÍTULO IV
 DA CONFISSÃO
 CAPÍTULO V
-DAS PERGUNTAS AO OFENDIDO
+DO OFENDIDO
 CAPÍTULO VI
 DAS TESTEMUNHAS
 CAPÍTULO VII
@@ -117,15 +117,39 @@ DO PROCESSO COMUM
 CAPÍTULO I
 DA INSTRUÇÃO CRIMINAL
 CAPÍTULO II
-DO PROCESSO DOS CRIMES DA COMPETÊNCIA DO JÚRI
+DO PROCEDIMENTO RELATIVO AOS PROCESSOS DA COMPETÊNCIA DO TRIBUNAL DO JÚRI
+Seção I
+Da Acusação e da Instrução Preliminar
 Seção II
-Da função do jurado
+Da Pronúncia, da Impronúncia e da Absolvição Sumária
 Seção III
-Da organização do júri
+Da Preparação do Processo para Julgamento em Plenário
 Seção IV
-Do julgamento pelo júri
+Do Alistamento dos Jurados
 Seção V
-Das atribuições do Presidente do Tribunal do Júri
+Do Desaforamento
+Seção VI
+Da Organização da Pauta
+Seção VII
+Do Sorteio e da Convocação dos Jurados
+Seção VIII
+Da Função do Jurado
+Seção IX
+Da Composição do Tribunal do Júri e da Formação do Conselho de Sentença
+Seção X
+Da reunião e das sessões do Tribunal do Júri
+Seção XI
+Da Instrução em Plenário
+Seção XII
+Dos Debates
+Seção XIII
+Do Questionário e sua Votação
+Seção XIV
+Da sentença
+Seção XV
+Da Ata dos Trabalhos
+Seção XVI
+Das Atribuições do Presidente do Tribunal do Júri
 CAPÍTULO III
 DO PROCESSO E DO JULGAMENTO DOS
 CRIMES DA COMPETÊNCIA DO JUIZ SINGULAR
@@ -165,6 +189,8 @@ CAPÍTULO II
 DO RECURSO EM SENTIDO ESTRITO
 CAPÍTULO III
 DA APELAÇÃO
+CAPÍTULO IV
+DO PROTESTO POR NOVO JÚRI
 CAPÍTULO V
 DO PROCESSO E DO JULGAMENTO DOS RECURSOS EM SENTIDO ESTRITO
 CAPÍTULO VI
