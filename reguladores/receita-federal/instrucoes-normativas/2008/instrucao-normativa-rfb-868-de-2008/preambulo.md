@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 868, de 8 de agosto de 2008
+Aprova o programa multiplataforma para preenchimento da Declaração do Imposto sobre a Propriedade Territorial Rural (DITR) do exercício de 2008, para uso em computador que possua a máquina virtual Java (JVM), versão 1.4.1 ou posterior, instalada.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto na Instrução Normativa RFB nº 857, de 14 de julho de 2008, resolve:
