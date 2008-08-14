@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de habeas corpus, com pedido de liminar, em que é apontado como autoridade coatora o Conselho Nacional do Ministério Público.
+2.	O paciente, Promotor de Justiça, está sendo processado pelo Órgão Especial do Tribunal de Justiça de São Paulo pela prática de crime de homicídio, com julgamento agendado para o dia 20 de agosto de 2008.
+3.	 Os impetrantes alegam que a vitaliciedade obtida pelo paciente está sendo questionada em processo administrativo cujo julgamento, em embargos de declaração, pelo Conselho Nacional do Ministério Público, está pautado para o dia 18 de agosto de 2008.
+4.	Afirmam que o resultado do julgamento do processo administrativo já é de antemão conhecido, visto que alguns componentes do CNMP manifestaram intenção de voto pela cassação da vitaliciedade.
+5.	Sustentam, de outra banda, que a perda do cargo público somente é possível após decisão judicial transitada em julgado.
+6.	Requerem a concessão de liminar para suspender o Procedimento de Controle Administrativo n. 680/2007-46-SP, em trâmite no Conselho Nacional do Ministério Público, “impedindo, assim, a retomada do julgamento no dia 18 de agosto de 2008, ou qualquer outra data posterior, até o julgamento do mérito do presente habeas corpus”. Pugnam, no mérito, pela concessão da ordem “para que, reconhecida a ilegalidade do Procedimento de Controle Administrativo nº 680/2007-46-SP, do Conselho Nacional do Ministério Público, bem como a competência exclusiva do Poder Judiciário para desconstituir vitaliciamento de Promotor de Justiça com mais de dois anos de exercício (art. 60, § 2º, da Lei 8.625/93), nos termos do art. 128, § 5º, I, “a” da Constituição da República, seja assegurado ao paciente, através do trancamento do procedimento administrativo, a garantia do juiz natural no processo penal, no caso o Tribunal de Justiça do Estado de São Paulo, nos termos do art. 96, III, da Carta Magna” (fls. 17/18).
+7.	É o relatório.
+8.	Decido.
+9.	As razões da impetração não tem qualquer implicação com a ação penal a que responde o paciente. Respeitam a matéria administrativa, envolvendo controversia a propósito da perda, ou não, da vitaliciedade do cargo de Promotor de Justiça.
+10.	A alegação de direito adquirido à vitaliciedade não pode ser examinada em habeas corpus, pena de desvirtuamento desse instrumento de proteção do direito de ir e vir, qual decidiu esta Corte em várias oportunidades, v.g.:
+“HABEAS CORPUS. [...] INSURGÊNCIA CONTRA A DECRETAÇÃO DA PERDA DO CARGO PÚBLICO: VIA PROCESSUAL INADEQUADA. PRECEDENTES. [...]. 2. A decretação da perda do cargo público não se discute em habeas corpus por se tratar de via processual inadequada para discutir sua validade, dado que não representa ameaça à liberdade de locomoção. Precedentes. [...].” (HC 91.760/PI, Rel. Min. Cármen Lúcia, DJ de 29/2/08)
+“HABEAS CORPUS. [...]. EFEITOS SECUNDÁRIOS DA CONDENAÇÃO. PERDA DO CARGO PÚBLICO. IMPROPRIEDADE DA VIA ELEITA. ORDEM DENEGADA. 1. O habeas corpus, tal como tracejado pela Constituição Federal, tem por alvo a liberdade de locomoção dos indivíduos (inciso LXVIII do art. 5º). Inadequação da via eleita para preservação do paciente em cargo público. Precedentes. Writ não conhecido. [...].” (HC 91.641/MG, Rel. Min. Carlos Britto, DJ de 18/4/08).
+	Nego seguimento ao writ, com fundamento no art. 21, § 1º do RISTF.
+	Publique-se.
+	Brasília, 14 de agosto de 2008.
+Ministro Eros Grau
+- Relator -
