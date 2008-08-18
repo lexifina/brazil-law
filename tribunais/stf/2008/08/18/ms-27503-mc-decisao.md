@@ -1,0 +1,35 @@
+DECISÃO
+MANDADO DE SEGURANÇA. ATO DO TRIBUNAL DE CONTAS DA UNIÃO. DETERMINAÇÃO DE RESTITUIÇÃO AO ERÁRIO DE PARCELAS PERCEBIDAS INDEVIDAMENTE. ERRO NO PAGAMENTO DE HORAS EXTRAS E ADICIONAL NOTURNO POR PARTE DA UNIVERSIDADE FEDERAL DE UBERLÂNDIA/MG. ALEGAÇÃO DE BOA-FÉ DOS SERVIDORES. LIMINAR DEFERIDA. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+1. Mandado de segurança, com pedido de medida liminar, impetrado originalmente perante o Juízo da 1ª Vara Federal de Uberlândia/MG, em 2.6.2008, por João Alcides Ferraz de Carvalho e outros contra ato do Pró-Reitor de Recursos Humanos da Universidade Federal de Uberlândia/MG.
+O caso
+2. Em 16.2.2004, Amilton Ribeiro da Silva ajuizou ação de cobrança de horas extras contra a Universidade Federal de Uberlândia/MG perante a 1ª Vara Federal de Uberlândia/MG (fls. 75-77).
+Durante a instrução do processo, concluiu-se que a autarquia “paga[va] a seus servidores horas extras a partir da 36ª quando o correto seria a partir da 40ª, além de calcular erroneamente o adicional noturno” (fl. 118). Isso levou a Procuradoria da República em Minas Gerais a instaurar procedimento administrativo para apurar as irregularidades e, em seguida, oferecer representação ao Tribunal de Contas da União contra a ilegalidade que teria sido praticada (fls. 120-121).
+Em 12.6.2007, o Tribunal de Contas da União julgou procedente a Tomada de Contas n. 021.210/2005 e determinou “à Universidade Federal de Uberlândia que providenci[asse] o ressarcimento, na forma estabelecida no art. 46 da Lei n. 8.112/90, das importâncias recebidas irregularmente a título de horas extras e de adicionais noturnos por servidores do Hospital das Clínicas, em conformidade com a Súmula 235 da Jurisprudência deste Tribunal, a partir de agosto/1994 até a presente data” (Acórdão 1.471/2007, fl. 69).
+Por meio da CI 04/2007 - Proreh, o Pró-Reitor de Recursos Humanos da Universidade Federal de Uberlândia encaminhou aos servidores daquela Universidade as planilhas atualizadas dos valores a serem ressarcidos (fls. 34-44) e, em 24.4.2008, informou que o desconto da primeira parcela seria realizado no mês de maio de 2008 (fl. 45).
+3. Contra esse ato João Alcides Ferraz de Carvalho e outros impetraram o presente mandado de segurança, em 2.6.2008, inicialmente perante o Juízo da 1ª Vara Federal de Uberlândia/MG, que, reconhecendo ser a autoridade apontada como coatora mera executora da determinação emanada do Tribunal de Contas da União, determinou aos Impetrantes que indicassem eventual litisconsorte passivo e, em seguida, remeteu os autos a este Supremo Tribunal Federal (fl. 126).
+Os Impetrantes sustentam, em síntese, ser indevida a restituição dos valores recebidos a título de horas extras e adicional noturno, pois teriam eles sido recebidos de boa-fé.
+Acrescentam que o pagamento decorreu de “interpretação e aplicação errônea da lei pelo Órgão gestor, não cabendo aos servidores nenhuma responsabilidade pelo Ato” (fl. 7).
+Ressaltam que a Súmula 235 do Tribunal de Contas da União - que dispunha ser devida a restituição ao erário ainda que as parcelas fossem recebidas de boa-fé, excetuadas as hipóteses previstas na Súmula 106 daquele Tribunal - não seria aplicável ao caso, uma vez que fora revogada na Sessão Ordinária de 9.5.2007 (fl. 7).
+Argumentam que o “periculum in mora” (fl. 27) decorreria da quebra “do equilíbrio econômico-financeiro dos Impetrantes neste momento provocando-lhe a perda de tranqüilidade financeira familiar e insanável prejuízo material, caso prospere essa decisão da Administração de a qualquer custo proceder a tais descontos” (fl. 27, grifos no original) e que o “fumus boni iures” (fl. 29) estaria consubstanciado na relevância de seus argumentos, pois o desconto das parcelas careceria de respaldo legal.
+Requerem o deferimento de medida liminar para “que não sejam descontadas dos proventos dos servidores (...) as quantias relativas às horas extras e adicionais noturnos” (fl. 31) e, ainda, requerem a concessão do benefício da justiça gratuita. No mérito, pedem seja confirmada a segurança pleiteada.
+Examinados os elementos havidos nos autos, DECIDO.
+4. Os Impetrantes juntaram aos autos documentos que, nesse exame precário, próprio das liminares, conduzem ao reconhecimento de que teriam eles recebido de boa-fé valores referentes a horas extras e adicional noturno trabalhados.
+Em cumprimento ao que decidido pelo Tribunal de Contas da União nos autos da Tomada de Contas n. 021.210/2005, Acórdão n. 1471/2007, o Pró-Reitor de Recursos Humanos expediu ofício cujo teor é o seguinte:
+“OFÍCIO DA PROREH
+Of. 079/08 - Proreh (24/04/2008)
+Ref. Devolução ao erário de horas extras e adicional noturno pagos indevidamente.
+Informamos a V.Sª. que a partir do mês de maio/2008 (pagamento no início de junho) efetuaremos o primeiro desconto dos servidores que terão que repor ao erário, conforme determinação do TCU” (fl. 45).
+Os documentos carreados aos autos permitem inferir plausibilidade jurídica na argumentação que torna possível a suspensão - não certa, pois este é um exame inicial - da devolução imediata dos valores recebidos.
+A plena eficácia do acórdão do Tribunal de Contas da União importa em imediata alteração nos vencimentos dos Impetrantes, o que pode comprometer a sua situação jurídica e financeira, pela natureza alimentar de que se revestem aqueles valores.
+Ademais, os Impetrantes têm ciência de que poderão ter de restituir o que já receberam e o que vierem a receber, se, ao examinar o mérito desta ação, este Supremo Tribunal Federal denegar a ordem pleiteada, mantendo a decisão questionada.
+O que importa em agravo à situação dos Impetrantes - se tiverem que devolver imediatamente os valores recebidos a título de horas extras e adicional noturno - não se dá com a Universidade Federal de Uberlândia/MG, que não corre risco relativamente aos valores pagos, que terão de ser devolvidos, se indevidos.
+Daí a caracterização da eventual ineficácia da ordem de segurança, se ao final ela vier a ser concedida, o que há de ser resguardado pelo deferimento da medida.
+5. Pelo exposto, defiro a medida liminar, nos termos do art. 7º, inc. II, da Lei n. 1.533/1951, para determinar a suspensão dos efeitos da decisão proferida pelo Tribunal de Contas da União no Acórdão n. 1471/2007, apenas na parte referente à devolução dos valores percebidos de forma supostamente indevida pelos ora Impetrantes, até o julgamento final do presente Mandado de Segurança.
+6. Comunique-se esta decisão com urgência, inclusive por fax, ao Tribunal de Contas da União e aos órgãos responsáveis pelo cumprimento do ato questionado, inclusive por fax.
+7. Notifique-se o Tribunal de Contas da União, para, querendo, prestar as informações no prazo improrrogável de dez dias (art. 7º, inc. I, da Lei n. 1.533/1951 c/c o art. 203 do Regimento Interno do Supremo Tribunal Federal).
+8. Na seqüência, dê-se vista ao Procurador-Geral da República (art. 52, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 18 de agosto de 2008.
+Ministra CÁRMEN LÚCIA
+Relatora
