@@ -1,0 +1,26 @@
+Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Município de Campo Grande/RN, contra decisão proferida pelo juízo da Vara do Trabalho de Assu/RN, nos autos da Reclamação trabalhista 00581-2003-016-21-00-1 que teria afrontado o decidido por esta Suprema Corte nos autos da ADI 2.868/PI.
+Alega-se, na espécie, ofensa à autoridade da decisão deste Tribunal proferida nos autos da Ação Direta de Inconstitucionalidade 2.868/PI, Rel. Min. Carlos Britto, redator para o acórdão, Min. Joaquim Barbosa, cuja ementa possui o seguinte teor:
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI 5.250/2002 DO ESTADO DO PIAUÍ. PRECATÓRIOS. OBRIGAÇÕES DE PEQUENO VALOR. CF, ART. 100, § 3º. ADCT, ART. 87. Possibilidade de fixação, pelos estados-membros, de valor referencial inferior ao do art. 87 do ADCT, com a redação dada pela Emenda Constitucional 37/2002. Ação direta julgada improcedente”.
+Sustenta o reclamante, em síntese, que embora tenha editado a Lei municipal 46/2002, que fixa a importância de 2 (dois) salários mínimos para fins de pagamento de precatório judicial, o reclamado determinou o bloqueio de R$ 9.597,71 (nove mil, quinhentos e noventa e sete reais e setenta e um centavos), para o pagamento da indenização trabalhista (fl. 14).
+Requer a concessão de medida liminar para a suspensão dos efeitos do ato decisório impugnado por conta da negativa de eficácia à Lei municipal 46/2002 (fl. 10).
+Em 23/7/2008, foram solicitadas as informações pelo Vice-Presidente desta Suprema Corte (art. 13, VIII, combinado com o art. 14, ambos do RISTF). A autoridade reclamada quedou-se inerte conforme certidão de fl. 31.
+É o breve relatório. Decido.
+Inicialmente, verifico que o Município reclamante editou a Lei 46/2002, que fixa, como de pequeno valor, para fins de pagamento de precatório judicial, a quantia igual ou inferior a 2 (dois) salários mínimos.
+Com efeito, a matéria discutida na presente reclamação é idêntica àquela discutida na ADI 2.868/PI, qual seja, a possibilidade de fixação, pelos entes federativos, de valor referencial para pagamentos de precatórios inferior ao do art. 87 do ADCT, com a redação dada pela Emenda Constitucional 37/2002.1
+Entendeu o Plenário desta Corte, que o art. 100, § 5º, da Constituição,2 possibilita a fixação, mediante lei, de valores distintos como referencial apto a afastar a incidência do sistema de pagamentos por precatórios.
+Nesse sentido, destaco, do voto proferido pelo Rel. Min. Carlos Britto nos autos da ADI 2.868/PI, o seguinte trecho:
+“a Constituição Federal de 1988 não só autorizou a cada um dos entes da Federação que estabelecesse, mediante lei, seus débitos judiciais de pequeno valor, como possibilitou a fixação de três valores distintos na própria esfera administrativa de cada qual delas, isto é, débitos de pequeno valor para a Administração Pública Direta, para a Administração Pública Autárquica e para a Administração Pública Fundacional”.
+Evidentemente, a interpretação das normas constitucionais deve assegurar a autonomia e sobrevivência dos entes federativos, de maneira a observar as suas peculiaridades financeiras.3
+Nessa linha de intelecção, o referencial de pequeno valor, para afastamento do sistema de pagamentos por precatório, deve respeitar o princípio da proporcionalidade.
+Assim, em juízo perfunctório, tendo por demonstrado o fumus boni iuris e o periculum in mora, pressupostos para o deferimento da medida liminar.
+Ante o exposto, defiro o pedido de medida liminar para suspender o ato decisório reclamado (Reclamação trabalhista 00581-2003-016-21-00-1) em trâmite na Vara do Trabalho de Assu/RN, até o julgamento de mérito da presente reclamação (Cf. Rcl 4.250-MC/PE, Rel. Min. Cezar Peluso; Rcl 3.014-MC/SP, Rel. Min. Gilmar Mendes).
+Comunique-se com urgência.
+Reitere-se o pedido de informações. Após, ouça-se a Procuradoria-Geral da República.
+Publique-se.
+Brasília, 19 de agosto de 2008.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
+____________________________
+1 “Art. 87. Para efeito do que dispõem o § 3º do art. 100 da Constituição Federal e o art. 78 deste Ato das Disposições Constitucionais Transitórias serão considerados de pequeno valor, até que se dê a publicação oficial das respectivas leis definidoras pelos entes da Federação, observado o disposto no § 4º do art. 100 da Constituição Federal, os débitos ou obrigações consignados em precatório judiciário, que tenham valor igual ou inferior a: I - quarenta salários-mínimos, perante a Fazenda dos Estados e do Distrito Federal; II - trinta salários-mínimos, perante a Fazenda dos Municípios” (grifei).
+2 “Art. 100. À exceção dos créditos de natureza alimentícia, os pagamentos devidos pela Fazenda Federal, Estadual ou Municipal, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim. (...) § 5º. A lei poderá fixar valores distintos para o fim previsto no § 3o deste artigo, segundo as diferentes capacidades das entidades de direito público” (grifei).
+3 Cf. LEWANDOWSKI, Enrique Ricardo. Pressupostos Materiais e Formais da Intervenção Federal no Brasil. São Paulo: RT, 1994.
