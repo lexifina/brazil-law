@@ -10,3 +10,4 @@ V - (VETADO)
 VI - que tenha prole.
 § 4º O ensino da História do Brasil levará em conta as contribuições das diferentes culturas e etnias para a formação do povo brasileiro, especialmente das matrizes indígena, africana e européia.
 § 5º Na parte diversificada do currículo será incluído, obrigatoriamente, a partir da quinta série, o ensino de pelo menos uma língua estrangeira moderna, cuja escolha ficará a cargo da comunidade escolar, dentro das possibilidades da instituição.
+§ 6º A música deverá ser conteúdo obrigatório, mas não exclusivo, do componente curricular de que trata o § 2º deste artigo.
