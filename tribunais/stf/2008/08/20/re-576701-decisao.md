@@ -1,0 +1,10 @@
+DECISÃO: O Tribunal de Justiça do Rio Grande do Sul declarou a inconstitucionalidade do artigo 12, § 3º, da Lei 8.821/89.
+2.	O Estado do Rio Grande do Sul interpõe este recurso extraordinário, com fundamento no disposto no artigo 102, III, “a”, da CB/88.
+3.	A razão de ser das previsões contidas nas alíneas do artigo 102, III, da Constituição do Brasil, encontra-se na exigência de formalização adequada da impugnação recursal, que os operadores do direito têm o dever de observar [RE n. 201.749-AgR e RE n. 178.902-AgR, Relator o Ministro Maurício Corrêa, DJ de 11.12.98 e 9.5.97, respectivamente; AI n. 501.885 e AI n. 495.340, Relatores o Ministro Cezar Peluso e o Ministro Marco Aurélio, DJ de 6.8.04 e 17.12.04, respectivamente, e, de minha Relatoria, RE n. 452.957, DJ de 29.4.05].
+4.	Entretanto, em recente pronunciamento, a 2ª Turma desta Corte, no julgamento do AI n. 630.471-AgR, de que fui Relator, fixou entendimento no sentido de se conhecer do recurso nesses casos, mesmo havendo erro ou omissão do preceito, da Constituição, em que se fundou o recurso extraordinário  --- entre os casos previstos no artigo 102, inciso III, alíneas a, b, c e d, da Constituição do Brasil. Isso se dos fundamentos do acórdão recorrido e das razões recursais for possível identificá-lo.
+5.	No caso, portanto, seria o caso de conhecer-se do recurso pela alínea “b” do inciso III do artigo 102 da Constituição do Brasil. No entanto, o recorrente não juntou aos autos cópia do precedente invocado pelo acórdão impugnado --- que é fundamento do julgado --- circunstância que obsta o conhecimento do extraordinário. Este Tribunal fixou entendimento no sentido de que o acórdão do órgão competente que declarou a inconstitucionalidade de lei ou ato normativo, nos termos do disposto no artigo 97 da CB/88, é parte integrante da decisão recorrida, razão pela qual seu inteiro teor deve constar dos autos [RE n. 121.487, Relator o Ministro Sepúlveda Pertence, DJ de 14.9.90].
+	Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+	Publique-se.
+	Brasília, 20 de agosto de 2008.
+Ministro Eros Grau
+- Relator -
