@@ -1,0 +1,25 @@
+DECISÃO
+Vistos.
+O Prefeito do Município de Maripá e outros interpõem recurso extraordinário, com fundamento nas alíneas “b” do permissivo constitucional, contra acórdão da Terceira Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+“APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. LANÇAMENTO DO IMPOSTO COM BASE EM LEI MUNICIPAL. ADEQUAÇÃO DA VIA ELEITA. SENTENÇA CASSADA. ART. 515, §3º, DO CPC. PRELIMINARES DE ILEGITIMIDADE ATIVA E DO PREFEITO MUNICIPAL AFASTADAS. ILEGITIMIDADE DA CÂMARA MUNICIPAL ACOLHIDA. 'ISSQN' SOBRE SERVIÇOS DE REGISTROS PÚBLICOS, CARTORÁRIOS E NOTARIAIS. INADMISSIBILIDADE. SERVIÇO PÚBLICO DELEGADO. IMUNIDADE RECÍPROCA. NATUREZA JURÍDICA DE TAXA. IMPOSSIBILIDADE DE BI-TRIBUTAÇÃO. RECURSO CONHECIDO E PROVIDO.
+Os serviços de registros públicos, cartorários e notariais são imunes à incidência do 'ISSQN', visto tratar-se de serviços públicos prestados sob forma de delegação, conforme dispõe o art. 236 da CF/88, devendo ser aplicado o princípio da imunidade recíproca, previsto no art. 150, inciso VI, da Carta Magna, e ainda, por serem remunerados por taxa, é vedada a bi-tributação” (fls. 251/252).
+Opostos embargos de declaração (fls. 265 a 274), foram rejeitados (fls. 280 a 283).
+Sustentam os recorrentes que “a tese abraçada pela decisão recorrida declara a inconstitucionalidade da cobrança do ISSQN dos Cartórios e Registros Notariais” (fl. 296).
+Contra-arrazoado (fls. 320 a 352), o recurso extraordinário (fls. 287 a 309) foi admitido (fls. 356/357).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 10/11/06, conforme expresso na certidão de folha 284, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não há como prosperar o recurso extraordinário.
+Com efeito, o apelo extremo vem amparado, tão-somente, pela alínea “b” do permissivo constitucional. Ocorre que o acórdão recorrido não declarou a inconstitucionalidade de tratado ou lei federal, limitando-se a decidir com base na Lei Complementar Municipal nº 22/03. O aresto, nesse ponto, está assim fundamentado:
+“Os serviços de registro, cartorários e notariais, apesar de serem prestados por particulares, tratam-se de serviços delegados pelo Poder Público, nos termos do que dispõe o art. 236 da Constituição Federal. Desta forma, os emolumentos e custas pagos em virtude do serviço prestado constituem-se em taxa de serviço público, como já decidiu o Supremo Tribunal Federal:
+'DIREITO CONSTITUCIONAL E TRIBUTÁRIO. CUSTAS E EMOLUMENTOS: SERVENTIAS JUDICIAIS E EXTRAJUDICIAIS. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. RESOLUÇÃO Nº 7/95 DO TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ: ATO NORMATIVO. MEDIDA CAUTELAR.
+1.. A Ação Direta de Inconstitucionalidade, como proposta, pode ser examinada, ainda que impugnando apenas a última Resolução do Tribunal de Justiça do Paraná, que é a de nº 07/95, pois o ataque se faz em face da Constituição Federal de 1988. 2. A Resolução regula as custas e emolumentos nas serventias judiciais e extrajudiciais, que são tributos, mais precisamente taxas, e que só podem ser regulados por Lei formal, excetuada, apenas, a correção monetária dos valores, que não é o de que aqui se trata. (...)' (ADI - MC nº 1.444/PR, Rel. Min. Sydney Sanches, Tribunal Pleno, j. 26/02/1997).
+Assim, a legislação municipal ao pretender incidir o 'ISSQN' sobre serviço público delegado a um particular, padece de constitucionalidade porque pretende tributar atividade através de imposto quando é patente a natureza jurídica de taxa de tal exação.
+Desta forma, a referida atividade não pode ser tributada pelo 'ISSQN', visto que em se tratando de serviço público remunerado por taxa, nos termos do disposto no art. 145, § 2º, da Constituição Federal, é expressamente proibido que a taxa tenha base de cálculo própria de imposto. Assim sendo, invariavelmente, o imposto também não poderá ter base de cálculo própria de uma taxa.
+Destarte, ao se permitir esta hipótese, tem-se a incidência de um tributo sobre o outro, o que não é permitido em nosso ordenamento jurídico.
+Além disso, tratando-se de um serviço público delegado, a cobrança de 'ISSQN' sobre este tipo de serviço fere, ainda, o princípio da imunidade recíproca previsto no art. 150, VI, "a", da Constituição Federal, que dispõe de modo claro e preciso que é vedado a tributação do patrimônio entre os entes federados.”
+Destarte, ausente a declaração de inconstitucionalidade de tratado ou lei federal no caso em tela, incabível o trânsito do recurso extraordinário, interposto, conforme já mencionado, com base no artigo 102, inciso III, alínea “b”, da Constituição Federal.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Intime-se.
+Brasília, 21 de agosto de 2008.
+Ministro MENEZES DIREITO
+Relator
