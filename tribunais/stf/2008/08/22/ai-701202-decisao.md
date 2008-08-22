@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS. ISENÇÃO. RECEPÇÃO PELA CONSTITUIÇÃO DA REPÚBLICA DE 1988 DO ACORDO GERAL DE TARIFAS E COMÉRCIO. ART. 155, INC. III, DA CONSTITUIÇÃO. PRECEDENTE DO PLENÁRIO. AGRAVO E RECURSO PROVIDOS.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“ICMS. IMPORTAÇÃO. LEITE FLUIDO DO TIPO LONGA VIDA. PAÍS SIGNATÁRIO DO GATT. ACORDO INTERNACIONAL. VIGÊNCIA. ISENÇÃO NAS OPERAÇÕES INTERNAS. PRINCÍPIO DO TRATAMENTO EQÜIVALENTE. (...).
+1.2 - As isenções instituídas pela União, envolvendo tributos da competência dos Estados, do DF e dos Municípios não foram recepcionadas pela atual Constituição, conforme art. 151, III. Isso porém, não se aplica aos casos em que os Estados, mediante Convênio, celebrado com base na LC 24/75, instituem tratamento fiscal privilegiado para viger em todo o território nacional. (...) 1.4 - O tratamento equivalente refere-se ao dispensado em todo o território nacional, e não ao por certa unidade federativa para viger, obviamente, nas operações internas. De outro modo, chega-se ao inconcebível de, face às operações interestaduais, os produtos objeto de operações internacionais receberem tratamento privilegiado face aos provenientes de outras Unidades Federativas. 2. Embargos infringentes desacolhidos” (fl. 223).
+3. A decisão agravada adotou como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de não haver ofensa à Constituição (fls. 300-303).
+4. A Agravante alega que o Tribunal a quo teria afrontado os arts. 4º, inc. IX e parágrafo único, 5º, § 2º, e 152 da Constituição da República.
+Argumenta, em síntese, que “... procede à importação de produtos oriundos de países integrantes da OMC (...), ex-GATT, mais especificamente o Uruguai e a Argentina, de onde importa leite do tipo longa vida (objeto do presente feito), produto que dentro do Estado do Rio Grande do Sul é favorecido com a isenção da incidência do ICMS. Ocorre que, ao importar tal produto, ao contrário do que acontece com aqueles adquiridos dentro do país, vê-se a Agravante obrigada pelo Estado do Rio Grande do Sul a recolher o ICMS alegadamente incidente sobre a operação, não obstante o similar nacional seja isento do mesmo tributo....” (fls. 3-4).
+Apreciada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica assiste à Agravante.
+No julgamento do Recurso Extraordinário n. 229.096, de que fui Redatora para o acórdão, este Supremo Tribunal Federal decidiu que foi recepcionada pela Constituição da República de 1988 a isenção de tributos estaduais prevista no Acordo Geral de Tarifas e Comércio para as mercadorias importadas dos países signatários, quando o similar nacional tiver o mesmo benefício.
+Confira-se, a propósito, a ementa desse julgado:
+“EMENTA: DIREITO TRIBUTÁRIO. RECEPÇÃO PELA CONSTITUIÇÃO DA REPÚBLICA DE 1988 DO ACORDO GERAL DE TARIFAS E COMÉRCIO. ISENÇÃO DE TRIBUTO ESTADUAL PREVISTA EM TRATADO INTERNACIONAL FIRMADO PELA REPÚBLICA FEDERATIVA DO BRASIL. ARTIGO 151, INCISO III, DA CONSTITUIÇÃO DA REPÚBLICA. ARTIGO 98 DO CÓDIGO TRIBUTÁRIO NACIONAL. NÃO CARACTERIZAÇÃO DE ISENÇÃO HETERÔNOMA. RECURSO EXTRAORDINÁRIO CONHECIDO E PROVIDO.
+1. A isenção de tributos estaduais prevista no Acordo Geral de Tarifas e Comércio para as mercadorias importadas dos países signatários quando o similar nacional tiver o mesmo benefício foi recepcionada pela Constituição da República de 1988.
+2. O artigo 98 do Código Tributário Nacional 'possui caráter nacional, com eficácia para a União, os Estados e os Municípios' (voto do eminente Ministro Ilmar Galvão).
+3. No direito internacional apenas a República Federativa do Brasil tem competência para firmar tratados (art. 52, § 2º, da Constituição da República), dela não dispondo a União, os Estados-membros ou os Municípios. O Presidente da República não subscreve tratados como Chefe de Governo, mas como Chefe de Estado, o que descaracteriza a existência de uma isenção heterônoma, vedada pelo art. 151, inc. III, da Constituição.
+4. Recurso extraordinário conhecido e provido” (DJE 11.4.2008).
+E:
+“DECISÃO: Trata-se de recurso extraordinário, no qual se discute isonomia de tratamento tributário entre mercadoria importada, proveniente de país signatário do GATT, e seu similar nacional. O acórdão possui a seguinte ementa (...)'TRIBUTÁRIO. ISENÇÃO. ICMS. LEITE LONGA VIDA. GATT. TRATAMENTO IGUALITÁRIO. PRODUTO SIMILAR IMPORTADO DO URUGUAI. SIGNATÁRIO DO GATT. OCORRÊNCIA.(...). O acórdão recorrido extraordinariamente está em consonância com a jurisprudência desta Corte, conforme se depreende do julgamento do RE 229.096, Pleno, Rel. para o acórdão Cármen Lúcia, sessão de 16.8.2007...” (RE 554.682, Rel. Min. Gilmar Mendes, DJ 15.10.2007, trânsito em julgado em 7.11.2007).
+6. Pelo exposto, dou provimento a este agravo, na forma art. 544, §§ 3º e 4º, do Código de Processo Civil, e, desde logo, ao recurso extraordinário, nos termos do art. 557, § 1º-A, do mesmo diploma legal. Invertidos, nesse ponto, os ônus da sucumbência.
+Publique-se.
+Brasília, 22 de agosto de 2008.
+Ministra CÁRMEN LÚCIA
+Relatora
