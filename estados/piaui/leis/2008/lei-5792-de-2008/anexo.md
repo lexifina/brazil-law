@@ -1,0 +1,2163 @@
+ANEXO I
+
+PRIORIDADES E METAS
+
+ANEXO II
+
+METAS FISCAIS
+
+Demonstrativos I, II e III (Art. 4º, § 1º e 2º da Lei Complementar nº 101/2000)
+
+METAS ANUAIS
+
+Em cumprimento ao disposto na Lei Complementar nº 101, de 04 de maio de 2000, Lei de Responsabilidade Fiscal – LRF, o Anexo de Metas Anuais da Lei de Diretrizes Orçamentárias 2009 - LDO 2009, estabelece a meta de resultado primário do setor público consolidado como percentual do Produto Interno Bruto – PIB para o exercício e indica as metas de 2010 e 2011. A cada exercício, havendo mudanças no cenário macroeconômico, as metas são revistas objetivando manter uma política fiscal responsável.
+
+As metas de resultado primário são fixadas de modo a garantir a solvência intertemporal da dívida pública. De sua parte, o resultado nominal e o estoque da dívida pública são indicativos, uma vez que são influenciados por uma gama de fatores que fogem ao controle direto do governo.
+
+O objetivo primordial da política fiscal do governo é promover a gestão equilibrada dos recursos públicos, de forma a assegurar a manutenção do equilíbrio econômico-fiscal e o desenvolvimento sustentado do Estado. Essa política busca criar as condições necessárias para redução gradual do endividamento público em relação ao PIB e tem o compromisso de promover a melhoria dos resultados da gestão fiscal, com vistas à implementação de políticas sociais distributivas e à realização de investimentos em infra-estrutura.
+
+De outra parte, o governo vem se empenhando na melhoria da qualidade da tributação, no aperfeiçoamento dos mecanismos arrecadação, fiscalização e controle, o que tem reduzido a evasão e elisão fiscal, possibilitado o contínuo crescimento da receita tributária e, por conseqüência, o cumprimento das metas fiscais estabelecidas ano a ano.
+
+Em 2007, o Resultado Primário foi de 3,90% do PIB, superando substancialmente a meta estabelecida de 2,49%. As Receitas Primárias atingiram o patamar de 30,87% do PIB e as Despesas Primárias ficaram em 26,97% do PIB no exercício.
+
+Projeções para 2008 apontam um crescimento real do PIB da ordem de 5,00%. Para esse desempenho deverão contribuir o crescimento do consumo, estimulado pela expansão da massa salarial, do crédito pessoal em alta e do investimento privado que tem aumentado constantemente neste governo.
+
+Para 2009 a meta de Superávit Primário para o setor público está fixada em 2,20% do PIB, elevando-se para 2,29% e 2,39% nos dois anos seguintes. Essa meta é compatível com a relação dívida/PIB de aproximadamente 14%, conforme se verifica no demonstrativo de metas anuais do Anexo de Metas Fiscais.
+
+A Receita Fiscal do Estado deverá oscilar entre 32,04% e 34,84% do PIB no próximo triênio, o que representa variação positiva considerável relativamente ao exercício de 2007. Já a Despesa Primária deverá variar entre 29,84% e 32,45% do PIB. Esse desempenho possibilitará o cumprimento das metas de Resultado Primário estabelecido pelo Governo do Estado para o período.
+
+O estabelecimento do Superávit Primário nos níveis consignados e o crescimento da economia a uma taxa real de 5,00% no triênio 2009-2011 permitem uma relação constante da Dívida Consolidada Líquida como proporção do PIB, que deverá se situar em torno de 14% até 2011, caso se confirmem os parâmetros macroeconômicos adotados nesta Lei.
+
+As metas estabelecidas para o triênio 2009-2011 reafirmam o compromisso do governo do Estado com a responsabilidade fiscal, com o equilíbrio das contas públicas, com o crescimento sustentado da economia e com a inclusão social.
+
+METAS ANUAIS (Art. 4º, § 1º e 2º da Lei Complementar nº 101/2000)
+
+METODOLOGIA E MEMÓRIA DE CÁLCULO
+
+A previsão de valores futuros normalmente representa um grande desafio. Os fatores que influenciam a arrecadação são vários e podem ser alterados ao longo dos exercícios. Para muitos deles sequer se dispõe de metodologias seguras de estimativa e mensuração.
+
+Em sendo assim, qualquer exercício de projeção de valores futuros de séries temporais deve ser, em primeiro lugar, considerado como decorrente de métodos relativamente limitados. Os valores estimados não devem ser interpretados como precisos, mas sim um dado em torno do qual pode-se estabelecer uma probabilidade relativamente alta de ocorrência.
+
+I - RECEITA FISCAL - Para 2009 foi apurada conforme metodologia descrita abaixo.
+
+a) Tributos
+
+As projeções do ICMS, IPVA, ITCD e Taxas foram realizadas pela Coordenação de Estudos Econômico-Fiscais – COEFI / Unidade de Administração Tributária - UNATRI da Secretaria da Fazenda do Estado do Piauí, utilizando-se de premissas e de dados a seguir consignados.
+
+O passado observado de séries temporais normalmente revela um padrão em termos de tendência e ciclos que permite a extrapolação para valores futuros. Em função do exposto acima, esta extrapolação não deve necessariamente produzir valores exatos de previsão. Entretanto, ela representa o que de melhor se pode inferir acerca do comportamento futuro de uma variável, mediante padrões revelados em seu passado, sem a necessidade de se lançar mão de todas as informações que um modelo de descrição completo do comportamento dos agentes econômicos requeriria.
+
+Assim sendo, utilizou-se as funções de previsão do software Excel, da Microsoft, aplicadas a uma série histórica de 6 anos de tributos arrecadados, médias de crescimento e a tendência do período objeto das projeções.
+
+Além do método citado, considerou-se, ainda, as metas de crescimento do IPCA e dos PIB estadual e nacional, o esforço fiscal da Fazenda Estadual, bem como a modernização tecnológica em implantação, que tem permitido um maior e melhor controle sobre a arrecadação do Estado.
+
+b) Transferências correntes
+
+Relativamente às Transferências Correntes foram utilizados os dados disponibilizados pela Secretaria do Tesouro Nacional como referenciais, avaliação de uma série histórica de 6 anos e os indicadores do IPCA e PIB.
+
+c) Demais contas
+
+Para as demais rubricas lançamos mão das informações nos encaminhadas oficialmente tanto pelos órgãos da Administração Direta quanto indireta, inclusive fundações e empresas; da análise das receitas realizadas e sobre os valores apurados foram aplicados o IPCA e o PIB estimados para cada exercício.
+
+II - RESULTADO PRIMÁRIO - Diferença entre o total da receita e o total da despesa, excluídos os gastos relativos à dívida, no caso das despesas; e aplicações financeiras, operações de crédito, amortizações de empréstimos e alienação de bens, no caso das receitas.
+
+III - RESULTADO NOMINAL - Representa a diferença entre o saldo da dívida fiscal líquida em 31 de dezembro de determinado ano em relação ao apurado em 31 de dezembro do ano anterior.
+
+Demonstrativo VII Estimativa e Compensação da Renúncia de Receita (Art. 4º, § 2º, Inciso V da LC nº 101, de 04/05/2000)
+
+MEDIDAS COMPENSATÓRIAS
+
+As desonerações fiscais decorrem essencialmente da política tributária implementada pelo Governo Estadual, consoante leis próprias e Convênios firmados com as demais Unidades Federadas, objetivando os seguintes pontos básicos: a proteção ao mercado interno de oferta de mercadorias, a ampliação da oferta de emprego e geração de renda.
+
+Para formação da poupança interna, o Estado cria mecanismos tributários que visam atrair empresas obrigando-se, para tanto, a abdicar de parcela de receita potencial ou real. Por outro lado, outros compromissos decorrentes da política social do Governo precisam ser cumpridos dentro da execução orçamentária, fazendo-se necessário que se busque opções concretas de aumento de receitas tributárias que compensem as perdas verificadas em cada exercício.
+
+Cumprindo o que determina a Lei de Responsabilidade Fiscal são apresentados, a seguir, as medidas compensatórias da renúncia fiscal projetada, bem assim o seu impacto nas receitas do Estado estimadas para o exercício de 2009:
+
+a) Implantação do Sistema Corporativo: com o novo sistema de informática, os controles fiscais serão modernizados, a exemplo da instituição da Nota Fiscal Eletrônica e da Declaração de Informações Econômico-Fiscais-DIEF, bem como no que se refere ao acompanhamento em tempo real da arrecadação e do conta-corrente;
+
+b) Revisão das margens de agregação: adequação das margens de agregação fixadas na legislação tributária às mudanças de mercado;
+
+c) Revisão de Benefícios Fiscais - Comércio: adequação da carga tributária incidente sobre mercadorias que estão em desarmonia com o mercado;
+
+d) Ampliação da Substituição Tributária: a Substituição Tributária vem se tornando um mecanismo seguro de recebimento de receitas; a inclusão de novas mercadorias com difícil perfil de ação fiscal, implicará em menor custo de fiscalização e agilizará o recebimento dessa receita;
+
+e) Ampliação da Antecipação Parcial do ICMS: a Antecipação Parcial representa uma modalidade importante de obtenção de receita sem implicar em impacto negativo para o contribuinte. Esta ampliação compreende a criação de um percentual adicional, ainda que de valor diminuto;
+
+f) Intensificar a Fiscalização Itinerante: importante instrumento de ação fiscal, a fiscalização itinerante tem como principais objetivos a educação fiscal e o conseqüente incremento da receita do ICMS. Serão mantidas 18 equipes de agentes fazendários que terão como meta elevar em 20% a arrecadação direta;
+
+g) Aumentar em 20% o número de Contribuintes sob Ação Fiscal: este instrumento tem potencial elevado arrecadação que tem se confirmado nas auditorias realizadas e será utilizado baseado em critérios técnicos tais como: atividade econômica, porte do contribuinte, bem como prática contumaz de irregularidades;
+
+h) Monitorar Contribuintes que utilizam o PED (Processamento Eletrônico de Dados) com emissão de Notas Fiscais: mais um poderoso instrumento de ação fiscal proporcionado pela modernização tecnológica em curso na Secretaria da Fazenda do Estado, que permitirá um controle mais efetivo das operações realizadas pelos contribuintes;
+
+i) Implantação do Sistema Público de Escrituração Digital (SPED Fiscal): outro instrumento de controle que contribuirá de forma efetiva no incremento das Receitas Tributárias.
+
+ESTIMATIVA E COMPENSAÇÃO DA RENÚNCIA DE RECEITA
+
+Demonstrativo VII - Art. 4º, § 2º, Inciso V da LC nº 101, de 04/05/2000
+
+AGRICULTURA E PECUÁRIA 18.615.000 19.545.750 20.523.038
+
+INDÚSTRIA 74.460.000 78.183.000 82.092.150
+
+COMÉRCIO 31.025.000 32.576.250 34.205.063
+
+IPVA Contribuintes Diversos 3.581.693 3.760.777 3.948.816
+
+127.681.693 134.065.777 140.769.066 -
+
+TRIBUTO COMPENSAÇÃO MODALIDADE SETORES/ PROGRAMAS/
+
+BENEFICIÁRIO
+
+RENÚNCIA DE RECEITA PREVISTA
+
+Detalhamento abaixo ICMS IMPOSTO
+
+TOTAL
+
+MEDIDAS COMPENSATÓRIAS PARA 2009
+
+VALOR MÍNIMO
+
+43.003.194
+
+43.003.194
+
+56.269.322
+
+2.1 - Revisão das Margens de Agregação 10.188.999
+
+2.2 - Revisão de Benefícios Fiscais - Comércio 14.938.758
+
+2.3 - Ampliação da Substituição Tributária do ICMS 13.955.609
+
+2.4 - Ampliação da Antecipação Parcial do ICMS 17.185.956
+
+3.0 - Ações de Fiscalização 28.409.177
+
+3.1 - Intensificação da Fiscalização Itinerante 7.265.089
+
+3.2 - Aumento do nº de Contribuintes sob Ação de Fiscalização 15.998.516
+
+3.3 - Monitoramento de Contribuintes que utilizam o PED ( * ) - Sintegra e 5.145.572
+
+127.681.693 TOTAL
+
+1.0 - Controles Administrativos
+
+1.1 - Implantação do Sistema Corporativo ( SIAT )
+
+2.0 - Administração Tributaria
+
+( * ) PED - Processamento Eletrônico de Dados FONTE: SEFAZ-PI / Unidade de Administração Tributária -UNATRI
+
+Demonstrativo VIII Margem de Expansão das Despesas Obrigatórias de Caráter
+
+Continuado (Art. 4º, § 2º, Inciso V da LC nº 101, de 04/05/2000)
+
+A estimativa da Margem de Expansão das Despesas Obrigatórias de Caráter Continuado é requisito introduzido pela Lei de Responsabilidade Fiscal-LRF, Lei Complementar nº 101, de 04/05/2004, para assegurar que não haverá criação de nova despesa sem fontes consistentes de financiamento, entendidas estas como aumento permanente de receita ou redução permanente de despesa.
+
+O artigo 17 da LRF, em seu caput, define como obrigatória de caráter continuado a despesa corrente derivada de lei, medida provisória ou ato administrativo que fixe para o ente a obrigação legal de sua execução por um período superior a dois exercícios.
+
+De outra parte, considera-se aumento permanente de receita aquele proveniente de elevação de alíquotas, ampliação de base de cálculo, majoração ou criação de tributo ou contribuição (§ 3º do art. 17 da LRF).
+
+A presente estimativa está ancorada na ampliação da base de cálculo do ICMS e da Cota-Parte do FPE em 4,00%, levou em consideração o crescimento real do Produto Interno Bruto-PIB do Estado, estimado em 5,00% para o período, e, especialmente, a implantação do Sistema Integrado de Administração Tributária – SIAT, que possibilitará a execução, o acompanhamento e o controle da ação fiscal e tributária via on-line, inclusive o monitoramento de empresas sob ação fiscal. Este poderoso e eficaz instrumento, em franca operacionalização no corrente ano, seguramente afetará muito positivamente a receita própria do Estado.
+
+Assim, considerando-se algumas novas despesas específicas, a margem líquida de expansão estimada é da ordem de R$ 26,22 milhões, conforme demonstrativo a seguir:
+
+Demonstrativo VIII - LRF, art.4º, §2º, inciso V, Portaria STN Nº 575/2007 e Resolução TCE 1.604/2007
+
+Aumento Permanente da Receita 127.936.730
+
+(-) Transferências Constitucionais 13.633.506
+
+(-) Transferências ao FUNDEB 14.680.541
+
+Saldo Final do Aumento Permanente de Receita (I) 99.622.683
+
+Redução Permanente de Despesa (II) 0
+
+Margem Bruta (III) = (I+II) 99.622.683
+
+Saldo Utilizado da Margem Bruta (IV) 73.400.000
+
+Impacto do aumento do Salário Mínimo 7.000.000
+
+Reajsutes salariais / Promoções 29.500.000
+
+Planos de Cargos, Carreiras e Salários 11.000.000
+
+Novas contratações de Pessoal 25.000.000
+
+Manutenção e custeio de novos equipamentos 900.000
+
+Novas DOCC geradas por PPP -
+
+Margem Líquida de Expansão de DOCC (V) = (III-IV) 26.222.683
+
+EVENTOS Valor Previsto para 2009
+
+FONTE: SEFAZ-PI / Coordenação de Estudos Econômico Fiscais - COEFI e SEAD-PI / Unidade de Gestão de Pessoas Nota: (*) ampliação da base de cálculo do ICMS e da Cota-Parte do FPE em 4,0%.
+
+ANEXO III
+
+RISCOS FISCAIS
+
+ANEXO III - RISCOS FISCAIS
+
+Demonstrativo de Riscos Fiscais e Providências
+
+(Art. 4º, § 3º, da LC nº 101, de 04/05/2000)
+
+A Lei de Responsabilidade Fiscal – LRF estabeleceu que a Lei de Diretrizes Orçamentárias deve conter o Anexo de Riscos Fiscais, com a avaliação dos passivos contingentes e de outros riscos fiscais capazes de afetar as contas públicas quando da elaboração do orçamento anual.
+
+Riscos Fiscais são a possibilidade de ocorrência de eventos, que, por incertos, podem causar impacto negativo nas receitas públicas e são classificados em dois grupos: riscos orçamentários e riscos decorrentes da gestão da dívida.
+
+Os riscos orçamentários referem-se a frustração de arrecadação, a restituição de tributos não prevista ou prevista a menor, diminuição da atividade econômica e situações de calamidade pública, dentre outros.
+
+Os riscos de gestão da dívida referem-se a ocorrências externas à administração, tais como variação da taxa de câmbio e de juros que afetem as obrigações vincendas.
+
+Desse modo, sopesados as possíveis ocorrências, estimou-se um risco de aproximadamente R$ 35,25 milhões para o exercício de 2009, conforme demonstrativo que segue.
+
+LRF, art 4º, § 3º - Portaria STN 574/2007 e Resolução TCE Nº 1.604/2007
+
+Descrição Valor Descrição Valor -Estiagem prolongada e enchentes 10.000.000 15.000.000
+
+-Condenações Judiciais 250.000
+
+25.000.000 20.250.000 TOTAL 35.250.000 TOTAL 35.250.000
+
+RISCOS FISCAIS PROVIDÊNCIAS
+
+- Abertura de créditos adicionais a partir da Reserva de Contigência
+
+-Pagamento de Juros da dívida maior que o orçado - Abertura de créditos adicionais a partir de anulação de despesas
+
+FONTE: SEFAZ-PI / Coordenação de Estudos Econômico-Fiscais – COEFI
+
+LEI Nº , DE DE DE 2008
+
+ANEXO I - METAS E PRIORIDADES (ART. 165, § 2º DA CONSTITUIÇÃO FEDERAL)
+
+PODER LEGISLATIVO
+
+ASSEMBLÉIA LEGISLATIVA
+
+01 – PROCESSO LEGISLATIVO
+
+CRECHE DA ASSEMBLÉIA LEGISLATIVA (SERVIDORES E DEPENDENTES) UNIDADE 01
+
+CONSTRUÇÃO DE UM CENTRO MÉDICO DA ASSEMBLÉIA LEGISLATIVA UNIDADE 01
+
+AMPLIAÇÃO DA COBERTURA DO SINAL DA TV ASSEMBLÉIA ATRAVÉS DA CONSTRUÇÃO DE UM ESTÚDIO ESTÚDIO 01
+
+CONSTRUÇÃO DO PRÉDIO DA UNIVERSIDADE DO PARLAMENTO UNIDADE 01
+
+AQUISIÇÃO DE UM PLACAR ELETRÔNICO UNIDADE 01
+
+TRIBUNAL DE CONTAS DO ESTADO
+
+02 – FISCALIZAÇÃO FINANCEIRA E ORÇAMENTÁRIA EXTERNA
+
+CONSTRUÇÃO E INSTALAÇÃO DA ESCOLA DE CONTAS UNIDADE 01
+
+INTERIORIZAÇÃO DAS AÇÕES DO TCE - FISCALIZAÇÃO/TREINAMENTO UNIDADE 52
+
+FORTALECIMENTO E AMPLIAÇÃO DA OUVIDORIA - N/Q
+
+MODERNIZAÇÃO DO TRIBUNAL DE CONTAS / FMTC PERCENTUAL 70
+
+CONCURSO PÚBLICO VAGA 10
+
+PODER JUDICIÁRIO
+
+03 – PROCESSO JUDICIÁRIO
+
+CONCURSO PARA PROVIMENTO DO CARGO DE JUIZ DE DIREITO SUBSTITUTO VAGA 40
+
+CONCURSO PARA PROVIMENTO DE CARGOS DE CARREIRA DE SERVIDORES VAGA 30
+
+PAGAMENTO DE DIFERENÇA SALARIAL (URV) DE MAGISTRADOS E SERVIDORES PESSOAS 2.132
+
+INSTALAÇÃO DE NOVAS COMARCAS UNIDADE 05
+
+INSTALAÇÃO DE NOVAS VARAS JUDICIÁRIAS NAS COMARCAS DA CAPITAL E INTERIOR UNIDADE 05
+
+REFORMA E AMPLIAÇÃO DE FÓRUNS, JUIZADOS (CAPITAL E INTERIOR), PRÉDIO SEDE-
+
+ANEXO UNIDADE 15
+
+CONSTRUÇÃO DO FÓRUM CÍVIL E CRIMINAL DE TERESINA PERCENTUAL 100
+
+CAPACITAÇÃO DE SERVIDORES (QUALIFICAÇÃO, RECICLAGEM E ATUALIZAÇÃO) PESSOAS 55
+
+AQUISIÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PROGRAMAS DE SOFTWARES - (PRODAJUS), MÓVEIS, UTENSÍLIOS E MÁQUINAS DO SETOR GRÁFICO PERCENTUAL 50
+
+CONSTRUÇÃO DE FÓRUNS E JUIZADOS ESPECIAIS UNIDADE 05
+
+PODER EXECUTIVO
+
+MINISTÉRIO PÚBLICO DO ESTADO
+
+03 – PROCESSO JUDICIÁRIO
+
+CONSTRUIR E EQUIPAR PROMOTORIAS DE JUSTIÇA NA CAPITAL E NO INTERIOR PROMOTORIAS 10
+
+RENOVAÇÃO DA FROTA DE VEÍCULOS AUTOMOTORES VEÍCULOS 05
+
+INSTALAÇÃO DE PROCONS NAS COMARCAS DO INTERIOR UNIDADE 04
+
+07 - QUALIFICAÇÃO E VALORIZAÇÃO DO SERVIDOR
+
+CAPACITAÇÃO DOS PROMOTORES E PESSOAL DE APOIO PESSOAS 100
+
+REALIZAÇÃO DE CONCURSO PÚBLICO PARA PROMOTOR SUBSTITUTO E SERVIDORES ADMINISTRATIVO CONCURSO 01
+
+GOVERNADORIA DO ESTADO
+
+MODERNIZAÇÃO DO NÚCLEO DE ESTUDOS DE PROJETOS ESPECIAIS - NEPE PERCENTUAL 25
+
+06 - TRANSPARÊNCIA PARA O CIDADÃO
+
+IMPLEMENTAÇÃO DE OPINIÃO PÚBLICA CONSULTA 12
+
+19 – DEMOCRATIZAÇÃO DA CULTURA E DA PRODUÇÃO ARTÍSTICA
+
+DIVULGAÇÃO ARTÍSTICA, CULTURAL E DE POTENCIALIDADES DO PIAUÍ EM BRASÍLIA EVENTO 03
+
+28 – DIREITOS HUMANOS, DIREITO DE TODOS
+
+APOIO A IMIGRANTES PIAUIENSES PESSOAS N/Q
+
+SECRETARIA DE SEGURANÇA PÚBLICA
+
+32 – PREVENÇÃO E COMBATE À VIOLÊNCIA
+
+INTEGRAÇÃO DO SISTEMA DE SEGURANÇA E JUSTIÇA - N/Q MODERNIZAÇÃO DA ESTRUTURA FÍSICA E FUNCIONAL DAS UNIDADES DE SEGURANÇA UNIDADE 350
+
+ESPORTES AO ANOITECER UNIDADE 80
+
+MANUTENÇÃO DA FROTA E GRUPAMENTO AÉREO POLICIAL - N/Q
+
+REAPARELHAMENTO DAS POLÍCIAS CIVIL E MILITAR UNIDADE 140
+
+MANUTENÇÃO DA POLÍCIA JUDICIÁRIA - N/Q
+
+REAPARELHAMENTO DA POLÍCIA CIENTÍFICA UNIDADE 60
+
+34 - PREVENÇÃO E AÇÃO PARA EMERGÊNCIAS E DESASTRES
+
+REAPARELHAMENTO DO CORPO DE BOMBEIROS MILITAR UNIDADE 160
+
+SECRETARIA DA FAZENDA
+
+MODERNIZAÇÃO DA ADMINISTRAÇÃO DAS RECEITAS DA GESTÃO FISCAL, FINANCEIRA E PATRIMONIAL PERCENTUAL 100 COORDENAÇÃO DOS POSTOS FISCAIS DE FRONTEIRAS POSTOS 33
+
+PROFISCO - BID PERCENTUAL 100
+
+11- GESTÃO FISCAL E EFICIENTE
+
+TRANSPARÊNCIA E GESTÃO TRIBUTÁRIA RESPONSÁVEL PERCENTUAL 100
+
+SECRETARIA DA EDUCAÇÃO E CULTURA
+
+MELHORIA DA INFRA-ESTRUTURA ADMINISTRATIVA DE ESCOLAS UNIDADE 158
+
+ESCOLA EM REDE: CONEXÃO COM A REALIDADE UNIDADE 804
+
+GESTÃO DEMOCRÁTICA ESCOLAR - N/Q
+
+MELHORIA DAS INSTALAÇÕES FÍSICAS DAS UNIDADES ESCOLARES UNIDADE 25
+
+ADQUIRIR MATERIAL DIDÁTICO - PEDAGÓGICO E RECURSOS DE MULTIMÍDIA UNIDADE 30
+
+09 - MONITORAMENTO E AVALIAÇÃO DE POLÍTICAS PÚBLICAS
+
+ASSISTÊNCIA TÉCNICA AOS MUNICÍPIOS-FUDESCOLA UNIDADE 535
+
+SISTEMA ESTADUAL DE AVALIAÇÃO DA EDUCAÇÃO BÁSICA - SEAB UNIDADE 158
+
+15 - UNIVERSALIZAÇÃO DO ACESSO À EDUCAÇÃO BÁSICA
+
+APOIO AO EDUCANDO UNIDADE N/Q
+
+EXPANSÃO DA EDUCAÇÃO ESPECIAL: INCLUSÃO SEM BARREIRAS UNIDADE 100
+
+EXPANSÃO DO EJA UNIDADE 19.354
+
+GERENCIAMENTO DOS RECURSOS DO FUNDEB - N/Q
+
+EXPANSÃO DO ENSINO FUNDAMENTAL UNIDADE 1.000
+
+COMBATE AO ANALFABETISMO UNIDADE 50.000
+
+16 – QUALIFICAÇÃO DA EDUCAÇÃO BÁSICA
+
+CURSINHOS POPULARES UNIDADE 26.195
+
+REGULARIZAÇÃO DO FLUXO ESCOLAR UNIDADE 10.036
+
+FORMAÇÃO CONTEXTUALIZADA NA REGIÃO DO SEMI-ÁRIDO UNIDADE 1.250
+
+SISTEMA DE AVALIAÇÃO DA APRENDIZAGEM PERCENTUAL 100
+
+AVALIAÇÃO DE DESEMPENHO DOS PROFISSIONAIS DA EDUCAÇÃO BÁSICA UNIDADE 1.589
+
+INSTALAÇÃO DE BIBLIOTECAS UNIDADE 200
+
+LABORATÓRIOS DE INFORMÁTICA, CIÊNCIAS E ARTES NAS ESCOLAS DE ENSINO FUNDAMENTAL E MÉDIO ESCOLAS 250
+
+IMPLANTAÇÃO DE LABORATÓRIOS NAS ESCOLAS TÉCNICAS PROFISSIONALIZANTES LABORATÓRIO 30
+
+CONSTRUÇÃO E REFORMA DE QUADRAS DE ESPORTE NAS ESCOLAS DA REDE PÚBLICA ESTADUAL QUADRAS 145
+
+FORMAÇÃO CONTINUADA DOS PROFESSORES, EDUCADORES DE APOIO, SUPERVISORES E COORDENADORES UNIDADE 200
+
+CONSTRUÇÃO DE ESCOLAS DE ENSINO MÉDIO UNIDADE 03
+
+17 - EDUCAÇÃO PROFISSIONAL
+
+EDUCAÇÃO PROFISSIONAL INTEGRADA AO ENSINO MÉDIO UNIDADE 11.000
+
+FUNDAÇÃO UNIVERSIDADE ESTADUAL DO PIAUÍ – FUESPI
+
+18 – UNIVERSIDADE DE QUALIDADE PARA TODOS
+
+REFORMA, AMPLIAÇÃO E CONSTRUÇÃO NOS CAMPI DA UESPI PERCENTUAL 100
+
+AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO EXEMPLAR 13.500
+
+ENSINO DE PÓS-GRADUAÇÃO CURSO 01
+
+RECONHECIMENTO DE CURSOS CURSO 60
+
+PESQUISA E PÓS-GRADUAÇÃO PESQUISA 100
+
+EXTENSÃO UNIVERSITÁRIA E ASSISTÊNCIA COMUNITÁRIA PROJETOS 90
+
+INFORMATIZAÇÃO DA UESPI COMPUTADOR 60
+
+FUNDAÇÃO CULTURAL DO PIAUÍ – FUNDAC
+
+ACOMPANHAMENTO E FISCALIZAÇÃO DE OBRAS UNIDADE 20
+
+05 – MODERNIZAÇÃO ADMINISTRATIVA MODERNIZAÇÃO E MELHORIA DA INFRA-ESTRUTURA DA FUNDAC - CASAS DE CULTURA CASA 19
+
+09 - MONITORAMENTO E AVALIAÇÃO DE POLÍTICAS PÚBLICAS
+
+MONITORAMENTO E AVALIAÇÃO DAS AÇÕES DA FUNDAC
+
+19 – DEMOCRATIZAÇÃO DA CULTURA E DA PRODUÇÃO ARTÍSTICA DEMOCRATIZAÇÃO, QUALIFICAÇÃO E DIFUSÃO DAS ARTES E DA CULTURA PIAUIENSES ATIVIDADES 100
+
+REALIZAÇÃO DE FESTIVAIS REGIONAIS DE CULTURA EVENTO 08
+
+CONSTRUÇÃO DA BIBLIOTECA ESTADUAL DO PIAUÍ UNIDADE 01
+
+INSTALAÇÃO DE PONTOS DE CULTURA UNIDADE 60
+
+MANUTENÇÃO DAS UNIDADES DO CINE-MÓVEL UNIDADE 02
+
+MANUTENÇÃO DOS SISTEMAS ESTADUAIS DE BIBLIOTECAS E MUSEUS E CRIAÇÃO DO SISTEMA DE ARQUIVOS UNIDADE 02
+
+CRIAÇÃO DO SISTEMA ESTAUDAL DE ARQUIVOS UNIDADE 01
+
+DIFUSÃO DO PROJETO BOCA DA NOITE UNIDADE 10
+
+MELHORIA E EFETIVAÇÃO DO SISTEMA DE INCENTIVO ESTADUAL À CULTURA-SIEC UNIDADE 01
+
+20 – VALORIZAÇÃO DO PATRIMÔNIO CULTURAL MATERIAL E IMATERIAL
+
+PESQUISA E REGISTRO DO PATRIMÔNIO CULTURAL IMATERIAL PESQUISA 10
+
+FISCALIZAÇÃO DO PATRIMÔNIO CULTURAL MATERIAL INVENTARIADO UNIDADE 265
+
+FISCALIZAÇÃO DO PATRIMÔNIO CULTURAL MATERIAL TOMBADO UNIDADE 46
+
+TOMBAMENTO DO PATRIMÔNIO CULTURAL MATERIAL UNIDADE 10
+
+40 - DESENVOLVIMENTO DO TURISMO SUSTENTÁVEL
+
+VALORIZAÇÃO E DIFUSÃO DO PATRIMÔNIO CULTURAL MATERIAL E IMATERIAL UNIDADE 331 42 - DESENVOLVIMENTO EMPRESARIAL E INCENTIVO AO EMPREENDEDORISMO
+
+INCENTIVO AO COMÉRCIO DA MÚSICA POPULAR PIAUIENSE ATIVIDADE 05
+
+FUNDAÇÃO DOS ESPORTES DO PIAUÍ
+
+21– DESENVOLVIMENTO DO ESPORTE E LAZER
+
+PINTANDO A LIBERDADE QUANTIDADE 14.300
+
+COPA PIAUIENSE DE FUTEBOL AMADOR MASCULINO CLUBE 128
+
+COPA PIAUIENSE DE FUTEBOL AMADOR FEMININO CLUBE 60
+
+PROJETO SEGUNDO TEMPO JOVENS 36.000
+
+SELETIVA DA CORRIDA DE SÃO SILVESTRE PESSOA 6.000
+
+CONSTRUÇÃO E REFORMA DE QUADRAS ESPORTIVAS QUADRAS 11
+
+CONSTRUÇÃO E REFORMA DE CAMPOS DE FUTEBOL CAMPOS 12
+
+CONSTRUÇÃO E REFORMA DE GINÁSIOS POLIESPORTIVOS GINÁSIO 01
+
+CONSTRUÇÃO E REFORMA DE CENTROS ESPORTIVOS REGIONAIS UNIDADE 01
+
+CONSTRUÇÃO E REFORMA DE ESTÁDIOS MUNICIPAIS ESTÁDIO 01
+
+ESPORTE E LAZER DA CIDADE UNIDADE 8.000
+
+PROJETO VIDA SAUDÁVEL PESSOA 1.000
+
+JOGOS ABERTOS DA FUNDESPI PESSOA 7.600
+
+PROJETO VERÃO NO LITORAL PESSOA 3.000
+
+FUNDAÇÃO RÁDIO E TELEVISÃO EDUCATIVA DO PIAUÍ
+
+19 – DEMOCRATIZAÇÃO DA CULTURA E DA PRODUÇÃO ARTÍSTICA
+
+EXPANSÃO DO SINAL DA TV EDUCATIVA PARA POPULAÇÃO DO ESTADO MUNICÍPIOS 223
+
+IMPLANTAÇÃO DO SISTEMA DIGITAL DE TRANSMISSÃO DE TV UNIDADE 01
+
+INSTITUTO SUPERIOR DE EDUCAÇÃO ANTONINO FREIRE – ISEAF
+
+CONSTRUÇÃO DE RAMPAS DE ACESSO ÀS PESSOAS COM DEFICIÊNCIA UNIDADE 02
+
+07– QUALIFICAÇÃO E VALORIZAÇÃO DO SERVIDOR
+
+CURSO DE FORMAÇÃO CONTINUADA PARA PROFESSORES DA EDUCAÇÃO INFANTIL E SÉRIES INICIAIS DO ENSINO FUNDAMENTAL UNIDADE 300
+
+16 – QUALIFICAÇÃO DA EDUCAÇÃO BÁSICA
+
+QUALIFICAÇÃO PARA ALFABETIZADORES DE JOVENS E ADULTOS UNIDADE 1.000
+
+17– EDUCAÇÃO PROFISSIONAL
+
+IMPLEMENTAÇÃO DE LABORATÓRIOS PEDAGÓGICOS UNIDADE 03
+
+CURSO TÉCNICO PROFISSIONALIZANTE UNIDADE 350
+
+MELHORIA DO FUNCIONAMENTO DA BIBLIOTECA UNIDADE 450
+
+SECRETARIA DO DESENVOLVIMENTO RURAL
+
+INSTALAÇÃO DE UNIDADES REGIONAIS EM MUNICÍPIOS POLOS UNIDADE 47
+
+44 – FORTALECIMENTO DOS ARRANJOS PRODUTIVOS
+
+FORTALECIMENTO DAS CADEIAS PRODUTIVAS LOCAIS DE PECUÁRIA E PESCA UNIDADE 47
+
+FORTALECIMENTO DOS ARRANJOS PRODUTIVOS LOCAIS AGRÍCOLAS APL 70
+
+49 – DESENVOLVIMENTO DA AGRICULTURA FAMILIAR
+
+CONSOLIDAÇÃO DA AGRICULTURA FAMILIAR NO ESTADO UNIDADE 1.500
+
+DESENVOLVIMENTO SUSTENTÁVEL DA AGRICULTURA IRRIGADA NO ESTADO UNIDADE 8.000
+
+FORTALECIMENTO DA PECUÁRIA NA AGRICULTURA FAMILIAR DO ESTADO UNIDADE 2.000
+
+FORTALECIMENTO DA INFRA-ESTRUTURA HÍDRICA RURAL UNIDADE
+
+FUNDO DE DESENVOLVIMENTO RURAL FINANCIAMENTO N/Q
+
+INCENTIVO A HORTIFRUTICULTURA DO ESTADO UNIDADE 12.000
+
+CRÉDITO FUNDIÁRIO FAMÍLIAS 300
+
+GARANTIA SAFRA FAMÍLIAS 85.000
+
+50 – INCENTIVO AO AGRONEGÓCIO
+
+FORTALECIMENTO DO AGRONEGOCIO DO ESTADO UNIDADE 50
+
+53 – CONVIVÊNCIA COM O SEMI-ÁRIDO
+
+CONSTRUÇÃO DE SISTEMAS BARRAGINHAS - SEMI-ÁRIDO UNIDADE 5.000
+
+MANEJO ALIMENTAR: BANCO DE PROTEÍNAS - IMPLANTAÇÃO - SEMI-ÁRIDO UNIDADE 40
+
+INCENTIVO A PRODUÇÃO DE DEFUMADOS E EMBUTIDOS DE CAPRINOS E OVINOS - SEMI-ÁRIDO UNIDADE 10 CONSTITUIÇÃO DE NÚCLEO DE GESTÃO TÉCNICA E FINANCEIRA UNIDADE 01 ESTUDOS TEMÁTICOS 10 FORTALECIMENTO DA UNIDADE EXECUTORA 01 30 - SEGURANÇA ALIMENTAR E NUTRICIONAL COMPRA DIRETA LOCAL FAMÍLIAS 4.000 PROGRAMA DO LEITE FAMÍLIAS 35.000 AQUISIÇÃO E DISTRIBUIÇÃO DE MUDAS MUDAS 100.000
+
+AGÊNCIA DE DEFESA AGROPECUÁRIA DO ESTADO DO PIAUÍ - ADAPI
+
+IMPLANTAÇÃO DE ESCRITÓRIOS REGIONAIS UNIDADE 03
+
+52 – DEFESA ANIMAL E VEGETAL
+
+CONTROLE DA FEBRE AFTOSA - COBERTURA VACINAL PERCENTUAL 85
+
+PROFILAXIA E CONTROLE DAS PRAGAS DOS VEGETAIS - COBERTURA FISCAL PERCENTUAL 50
+
+CONTROLE DE TRÂNSITO DE PRODUTOS VEGETAIS - COBERTURA FISCAL PERCENTUAL 60 MANUTENÇÃO DE ÁREA LIVRE PARA SIGATOKA NEGRA DA BANANEIRA NO ESTADO PERCENTUAL 100
+
+EXECUÇÃO DO CONTROLE DOS PRODUTOS AGROTÓXICOS - COBERTURA FISCAL PERCENTUAL 70
+
+FISCALIZAÇÃO FITOSSANITÁRIA DO COMÉRCIO DE PLANTAS - COBERTURA PERCENTUAL 100
+
+CONTROLE DO TRÂNSITO DE ANIMAIS, PRODUTOS E SUBPRODUTOS - COBERTURA PERCENTUAL 60
+
+IMPLANTAÇÃO DE UNIDADES DE SAÚDE ANIMAL E VEGETAL UNIDADE 02
+
+INSTITUTO DE TERRAS DO PIAUÍ – INTERPI
+
+54 – REGULARIZALÇÃO FUNDIÁRIA E VIABILIZAÇÃO ECONÔMICA DOS ASSENTAMENTOS
+
+IMPLANTAÇÃO DE VARAS AGRÁRIAS UNIDADE 02
+
+CADASTRO E REGULARIZAÇÃO FUNDIÁRIA EM MUNICÍPIOS PIAUIENSES FAMÍLIAS 350
+
+IMPLANTAÇÃO DE ASSENTAMENTOS RURAIS UNIDADE 718
+
+REGULARIZAÇÃO FUNDIÁRIA E CADASTRO NACIONAL DE IMÓVEIS UNIDADE 300
+
+REESTRUTURAÇÃO DE ASSENTAMENTOS ESTADUAIS HECTARES 211.668
+
+INSTITUTO DE ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL DO ESTADO DO PIAUÍ – EMATER
+
+REESTRUTURAÇÃO DAS UNIDADES OPERATIVAS DO EMATER UNIDADE 15
+
+48 – ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL
+
+ASSISTÊNCIA TÉCNICA A AGRICULTORES FAMILIARES AGRICULTOR 145.000
+
+PROMOÇÃO DE ATER PARA ASSENTAMENTOS DE REFORMA AGRÁRIA E COMUNIDADES REMANESCENTES DE QUILOMBOS AGRICULTOR 145.000 51– INCENTIVO À CRIAÇÃO DE REBANHO
+
+INCENTIVO À EXPANSÃO E MELHORIA DE REBANHOS AGRICULTOR 145.000
+
+53 – CONVIVÊNCIA COM O SEMI-ÁRIDO
+
+ASSISTÊNCIA TÉCNICA PARA MELHORIA DA QUALIDADE DE VIDA NO SEMI-ÁRIDO AGRICULTOR 55.000
+
+SECRETARIA DE INFRA-ESTRUTURA
+
+CONSTRUÇÃO DA ADUTORA DO SUDESTE UNIDADE 01
+
+CONSTRUÇÃO DA BARRAGEM DE CASTELO PERCENTUAL 20
+
+CONSTRUÇÃO DE ADUTORAS E INFRA-ESTRUTURA HÍDRICA UNIDADE 04
+
+CONSTRUÇÃO DO AEROPORTO DE SÃO RAIMUNDO NONATO UNIDADE 01
+
+EXECUÇÃO DO PROJETO DE RESTAURAÇÃO DO PORTO DAS BARCAS EM PARNAÍBA - PRODETUR /NE/II UNIDADE 01
+
+EXECUÇÃO DO PROJETO DE URBANIZAÇÃO DA ORLA DA PRAIA DE ATALAIA -LUÍS CORREIA - PRODETUR /NE/II UNIDADE 01
+
+INFRA ESTRUTURA DE TRANSPORTES E TURISMO PERCENTUAL 30
+
+MELHORIA DO ACESSO AO AEROPORTO DE PARNAÍBA - PRODETUR /NE/II UNIDADE 01
+
+OBRAS DE ELETRIFICAÇÃO RURAL UNIDADE 20
+
+37 – SANEAMENTO É QUALIDADE DE VIDA
+
+IMPLANTAÇÃO E AMPLIAÇÃO DE SISTEMAS DE ABASTECIMENTO D'ÁGUA DOS MUNICÍPIOS DE ABRANGÊNCIA DO CORESA MUNICÍPIOS 6
+
+SANEAMENTO AMBIENTAL UNIDADE 05
+
+ÁGUAS E ESGOTOS DO PIAUÍ S/A- AGESPISA 37 – SANEAMENTO É QUALIDADE DE VIDA
+
+IMPLANTAÇÃO E AMPLIAÇÃO DE SISTEMAS DE ABASTECIMENTO D'ÁGUA - PAC
+
+POPULAÇÃO
+
+ATENDIDA 883.389
+
+IMPLANTAÇÃO E AMPLIAÇÃO DE SISTEMAS DE ESGOTO - PAC
+
+POPULAÇÃO
+
+ATENDIDA 397.717
+
+IMPLANTAÇÃO DE SISTEMA DE ESGOTO - PRODETUR
+
+POPULAÇÃO
+
+ATENDIDA 40.000
+
+IMPLANTAÇÃO, AMPLIAÇÃO E MELHORIA DE SISTEMAS DE ABASTECIMENTO DE ÁGUA E ESGOTO
+
+POPULAÇÃO
+
+ATENDIDA 370.312
+
+INSTITUTO DE DESENVOLVIMENTO DO PIAUÍ – IDEPI
+
+CONSTRUÇÃO DA BARRAGEM RIACHO FUNDO - SANTA CRUZ DO PIAUÍ PERCENTUAL 30
+
+CONSTRUÇÃO DA BARRAGEM ATALAIA - SEBASTIÃO BARROS PERCENTUAL 20
+
+CONSTRUÇÃO DA BARRAGEM VEREDA GRANDE - FLORIANO PERCENTUAL 05
+
+CONSTRUÇÃO DA BARRAGEM RANGEL - REDENÇÃO DO GURGUÉIA PERCENTUAL 10
+
+CONSTRUÇÃO DA BARRAGEM CONTRATO - MONTE ALEGRE PERCENTUAL 05
+
+CONSTRUÇÃO DA BARRAGEM BETÂNIA - BETÂNIA PERCENTUAL 05
+
+CONSTRUÇÃO DA BARRAGEM TINGUÍS - BRASILEIRA (CONTINUAÇÃO) PERCENTUAL 30
+
+CONSTRUÇÃO DE BARRAGEM NA SERRA DO SANTO ANTONIO - CAMPO MAIOR PERCENTUAL 01
+
+CONSTRUÇÃO DA BARRAGEM NA REGIÃO DO CRUZEIRO - RIO LONGÁ PERCENTUAL 01
+
+CONSTRUÇÃO DO SISTEMA ADUTOR, INCLUSIVE BARRAGEM, SANTA CRUZ DOS MILAGRES PERCENTUAL 20
+
+CONSTRUÇÃO DO SISTEMA ADUTOR, INCLUSIVE BARRAGEM, POÇO DO MARRUÁ PERCENTUAL 05
+
+CONSTRUÇÃO DA BARRAGEM SUSPIRANTE - ACAUÃ PERCENTUAL 05
+
+CONSTRUÇÃO DE PEQUENAS BARRAGENS NO SEMI-ÁRIDO PIAUIENSE PERCENTUAL 50
+
+PLANO DIRETOR DE MINERAÇÃO DO ESTADO PERCENTUAL 20
+
+INSTALAÇÃO DE CENTROS TECNOLÓGICOS DE LAPIDAÇÃO E ARTESANATO MINERAL EM PEDRO II, PARNAÍBA E SÃO RAIMUNDO NONATO UNIDADE 03
+
+INSTALAÇÃO DE CENTROS TECNOLÓGICOS DE PESQUISA MINERAL EM DIVERSOS MUNICÍPIOS MUNICÍPIOS 09
+
+CONSTRUÇÃO DE OBRAS ESTRUTURANTES NOS MUNICÍPIOS DO ESTADO PERCENTUAL 20
+
+CONSTRUÇÃO DA ESTAÇÃO DE PISCICULTURA NA BARRAGEM SALINA - SÃO FRANCISCO DO PIAUÍ PERCENTUAL 10
+
+CONSTRUÇÃO DO SISTEMA ANGICOS - PARNAGUÁ PERCENTUAL 05 MELHORAMENTO DA IMPLANTAÇÃO PI-372 - TRECHO PORTO ALEGRE/ MARCOS PARENTE PERCENTUAL 10
+
+CONSTRUÇÃO DA ADUTORA DA BARRAGEM MESA DE PEDRA PERCENTUAL 10
+
+CONSTRUÇÃO DA ADUTORA DA BARRAGEM CORREDORES PERCENTUAL 10
+
+INSTALAÇÃO DE ESTAÇÕES DE RECALQUE FLUTUANTES EM BARRAGENS NO ESTADO UNIDADE 100
+
+PERFURAÇÃO, RECUPERAÇÃO E EQUIPAMENTO DE POÇOS, CONSTRUÇÃO DE PEQUENAS REDES DE DISTRIBUIÇÃO DE ÁGUA DOMICILIAR NO ESTADO UNIDADE 50
+
+CONSTRUÇÃO DA BARRAGEM BAIXÃO DO MEIO - PAES LANDIM PERCENTUAL 05
+
+INSTALAÇÃO DOS EQUIPAMENTOS PARA INSPEÇÃO E AVALIAÇÃO DA SEGURANÇA DAS BARRAGENS PERCENTUAL 50
+
+SECRETARIA DA SAÚDE
+
+MODERNIZAÇÃO GERAL DA SESAPI (INFRA-ESTRUTURA FÍSICA, EQUIPAMENTOS, PROCESSOS DE TRABALHO, CAPACITAÇÃO, SISTEMAS DE INFORMAÇÃO ÓRGÃO 01
+
+22 – FORTALECIMENTO DA CAPACIDADE INSTITUCIONAL E DA GESTÃO DO SUS
+
+CITOX - CENTRO DE FORMAÇÃO TOXIOLÓGICA CENTRO 1
+
+CONSTRUÇÃO DE UNIDADES DE FISIOTERAPIA, FARMÁCIAS POPULARES, BASES DE ESTABILIZAÇÃO DO SAMU E UTI'S NOS MUNICÍPIOS UNIDADE N/Q
+
+ESTRUTURAÇÃO DA REDE ESTADUAL DE ATENÇÃO À PESSOA COM DEFICIÊNCIA UNIDADE 01
+
+INPLANTAÇÃO DA POLÍTICA DE SAÚDE DO TRABALHADOR DO ESTADO MUNICÍPIOS 223
+
+REESTRUTURAR E REEQUIPAR UNIDADES DE HEMOTERAPIA (HEMOREDE) NAS SEDES DE MACRO UNIDADE 06 CONTROLE SOCIAL DO SUS (CAPACITAÇÃO PARA CONSELHEIROS) CONSELHEIROS 500
+
+23 - FORTALECIMENTO DA ATENÇÃO INTEGRAL EM SAÚDE
+
+IMPLANTAÇÃO DOS NÚCLEOS DE VIGILÂNCIA HOSPITALAR NAS MACROREGIONAIS: PARNAÍBA, FLORIANO, BOM JESUS, PICOS E SÃO RAIMUNDO NONATO HOSPITAL 05
+
+PROMOÇÃO DA SAÚDE BUCAL - IMPLANTAÇÃO DE CONSULTÓRIO ODONTOLÓGICO EM MUNICÍPIOS CONSULTÓRIO 30
+
+CENTROS DE REFERÊNCIA EM ASSISTÊNCIA À MULHER CENTROS 05
+
+ASSISTÊNCIA NEONATAL, PREVENÇÃO E TRATAMENTO PREVALENTES NA INFÂNCIA E ADOLESCÊNCIA UNIDADE 06
+
+IMPLANTAÇÃO E IMPLEMENTAÇÃO DE COMPLEXOS REGULADORES NAS SEDES DE MACRO REGIÕES DE SAÚDE CENTROS 06
+
+IMPLEMENTAÇÃO DA REDE ESTADUAL DE ATENÇÃO À SAÚDE AUDITIVA UNIDADE 06
+
+PROMOÇÃO DA ASSISTÊNCIA E TRIAGEM NEONATAL NOS MUNICÍPIOS SEDES DE MACRO REGIÕES DE SAÚDE SERVIÇOS 06
+
+CONSTRUÇÃO EA MPLIAÇÃO DE SISTEMAS DE ABASTECIMENTO DE ÁGUA NA ZONA RURAL - PROSAR / KFW
+
+LIGAÇÕES DOMICILIARES 3000
+
+REDE ESTADUAL DE ATENÇÃO À SAÚDE MENTAL PESSOA N/Q REFORMA, ADEQUAÇÃO DE ESTRUTURA FÍSICA E AQUISIÇÃO DE EQUIPAMENTOS PARA UNIDADES DE SAÚDE DE REFERÊNCIA DA CAPITAL: HGV, IDTNP, HILP, MDER E HAA
+
+UNIDADE DE
+
+SAÚDE 05 REFORMA, AMPLIAÇÃO E ADEQUAÇÃO DE EQUIPAMENTOS PARA UNIDADES DE SAÚDE NAS SEDES DE MACRO, MICRO REGIÕES DE SAÚDE E MÓDULOS ASSISTENCIAIS
+
+UNIDADE DE
+
+SAÚDE 19
+
+CONSTRUÇÃO, E/OU ADEQUAÇÃO DE UNIDADES BÁSICAS DE SAÚDE SEGUNDO POLÍICA DE HOSPITAIS DE PEQUENO PORTE - HPP
+
+UNIDADE DE
+
+SAÚDE 60
+
+AQUISIÇÃO DE AMBULÂNCIAS PARA MUNICÍPIOS UNIDADE 06
+
+AQUISIÇÃO DE EQUIPAMENTOS PARA PROGRAMAS DE PREVENÇÃO E CONTROLE DE AGRAVOS À SAÚDE COLETIVA PROGRAMA 04
+
+AQUISIÇÃO DE EQUIPAMENTOS PARA O SERVIÇOS DE OUVIDORIA SERVIÇOS 17
+
+BANCO DO LEITE UNIDADE 01
+
+IMPLANTAR E AMPLIAR A CORBERTURA E ACESSIBILIDADE A SERVIÇOS USUÁRIO 4.800
+
+CAPACITAÇÃO DE RECURSOS HUMANOS DO ESTADO E MUNICÍPIOS CURSOS 85
+
+IMPLEMENTAR O FUNCIONAMENTO DA REDE ESTADUAL DE SAÚDE VISUAL
+
+24 - VIGILÂNCIAS EM SAÚDE
+
+FORTALECIMENTO DAS AÇÕES DE VIGILÂNCIA SANITÁRIA NOS MUNICÍPIOS MUNICÍPIOS 223
+
+IMPLEMENTAÇÃO DAS AÇÕES DE VIGILÂNCIA EM SAÚDE PESSOA 2.800
+
+PREVENÇÃO E CONTROLE DAS DOENÇAS IMUNOPREVENÍVEIS
+
+PERC. DA POP.
+
+VACINADA 95%
+
+SECRETARIA DO PLANEJAMENTO E PCPR
+
+IMPLEMENTAÇÃO DA CENTRAL DE PROJETOS PERCENTUAL 100
+
+APERFEIÇOAMENTO DO SISTEMA DE ELABORAÇÃO E EXECUÇÃO ORÇAMENTÁRIA PERCENTUAL 100
+
+08 – PLANEJAMENTO PARA O DESENVOLVIMENTO SUSTENTÁVEL
+
+PLANEJAMENTO TERRITORIAL PERCENTUAL 100
+
+APOIO AO PLANEJAMENTO E ACOMPANHAMENTO DE PROGRAMAS E AÇÕES EM REGIÕES DE NATUREZA ESPECIAL PERCENTUAL 100
+
+09 – MONITORAMENTO E AVALIAÇÃO DE POLÍTICAS PÚBLICAS
+
+MONITORAMENTO DE PROGRAMAS E AÇÕES PRIORITÁRIOS PROGRAMAS 40
+
+AVALIAÇÃO DE POLÍTICAS DE GOVERNO PERCENTUAL 100
+
+29 - DESENVOLVIMENTO COMUNITÁRIO
+
+FINANCIAMENTO DE SUBPROJETOS COMUNITÁRIOS FAMÍLIA 14.400
+
+CRÉDITO FUNDIÁRIO FAMÍLIA 4.500
+
+ELABORAÇÃO DO PROJETO DA ADUTORA DO LITORAL 2ª FASE - CODEVASF FAMÍLIA 4.500
+
+FUNDAÇÃO CENTRO DE PESQUISAS ECONÔMICAS E SOCIAIS – CEPRO
+
+ESTUDOS E PESQUISAS SÓCIO-ECONÔMICOS UNIDADE 463
+
+14 – DESENVOLVIMENTO DE TECNOLOGIAS DA INFORMAÇÃO
+
+COORDENAÇÃO DE ESTATÍSTICA E INFORMAÇÃO UNIDADE 19
+
+SECRETARIA DO DESENVOLVIMENTO ECONÔMICO E TECNOLÓGICO 05 – MODERNIZAÇÃO ADMINISTRATIVA
+
+INFORMATIZAÇÃO DO PRODART
+
+EQUIPAMENTO DE INFORMÁTICA 02 14 - DESENVOLVIMENTO DE TECNOLOGIAS DA INFORMAÇÃO
+
+INOVAÇÕES TECNOLÓGICAS DO ARRANJO PRODUTIVO DA MANDIOCA UNIDADE 10
+
+INSERÇÃO DO PIAUÍ NA SOCIEDADE TECNOLÓGICA CAPACITADOS 05
+
+INCLUSÃO DIGITAL SEMINÁRIOS 01 20 – VALORIZAÇÃO DO PATRIMÔNIO CULTURAL MATERIAL E IMATERIAL
+
+REVITALIZAÇÃO DAS CENTRAIS DE ARTESANATO EVENTOS 48 36 - INFRA-ESTRUTURA E LOGÍSTICA PARA O DESENVOLVIMENTO
+
+REFORMA, MANUTENÇÃO E PINTURA DAS CENTRAIS DE ARTESANATO REFORMA 01 41 – INCENTIVO À EXPORTAÇÃO
+
+ZONA DE PROCESSAMENTO DE EXPORTAÇÃO - ZPE PROJETO 01
+
+APOIO À ADEQUAÇÃO DE PRODUTOS E PROCESSOS
+
+PROCESSO ADEQUADO 05 42 - DESENVOLVIMENTO EMPRESARIAL E INCENTIVO AO EMPREENDEDORISMO
+
+CAPACITAÇÃO NOS PÓLOS DE ARTESANATO PESSOAS 40
+
+PROMOÇÃO E DIVULGAÇÃO DO PRODART
+
+MATERIAL DIVULGADO 01
+
+FOMENTO EMPRESARIAL FORMAL
+
+APOIO À COOPERATIVAS 05 CONSTRUÇÃO DE UNIDADE DE COMERCIALIZAÇÃO DE ARTESANATO – PRAIA DE ATALAIA OBRA 25 44 – FORTALECIMENTO DOS ARRANJOS PRODUTIVOS
+
+APOIO AOS ARRANJOS PRODUTIVOS NOVOS ARRANJOS 05
+
+APOIO AOS ARRANJOS PRODUTIVOS LOCAIS ARRANJOS 16 45 – DIVERSIFICAÇÃO DAS FONTES DE ENERGIA
+
+DESENVOLVIMENTO DA BIOENERGIA DO ESTADO BIOENERGIA 01
+
+46 - INCENTIVO À CIÊNCIA & TECNOLOGIA
+
+CENTRO TECNOLÓGICO DE BIODIVERSIDADE DO PIAUÍ
+
+PERCENTUAL DE
+
+INSTALAÇÃO 01
+
+ALFABETIZAÇÃO TECNOLÓGICA DO TRABALHADOR CURSOS 01
+
+JUNTA COMERCIAL DO ESTADO DO PIAUÍ – JUCEPI 42 - DESENVOLVIMENTO EMPRESARIAL E INCENTIVO AO EMPREENDEDORISMO
+
+CONSTRUÇÃO DO ANEXO DA JUCEPI PERCENTUAL 30
+
+DIGITALIZAÇÃO DO ACERVO DO REGISTRO DE EMPRESAS PERCENTUAL 100
+
+FUNDAÇÃO DE AMPARO Á PESQUISA DO PIAUÍ – FAPEPI 05 – MODERNIZAÇÃO ADMINISTRATIVA
+
+EXPANSÃO, MANUTENÇÃO E OPERACIONALIZAÇÃO DO PONTO DE PRESENÇA DA REDE NACIONAL DE PESQUISA - RNP BOLSAS 05
+
+46 - INCENTIVO À CIÊNCIA & TECNOLOGIA
+
+AUXÍLIO FINANCEIRO A EVENTOS, DIVULGAÇÃO E PUBLICAÇÃO CIENTÍFICA E TECNOLÓGICA NO ESTADO EVENTOS 40
+
+PROGRAMA DE DESENVOLVIMENTO CIENTÍFICO REGIONAL NO ESTADO PESQUISA 40
+
+CONCESSÃO DE BOLSAS DE APOIO TÉCNICO À PESQUISA BOLSA 30
+
+CONCESSÃO DE BOLSAS DE MESTRADO E DOUTORADO BOLSA 60
+
+FOMENTO À PESQUISA CIENTÍFICA E TECNOLÓGICA NO ESTADO DO PIAUÍ PESQUISA 150
+
+REDE DO MONITORAMENTO PLUVIOMÉTRICO PLUVIÔMETROS 20
+
+INSTALAÇÃO DE INFRA-ESTRUTURA PARA JOVENS PESQUISADORES NO ESTADO PESQUISA 45
+
+APOIO À INICIAÇÃO CIENTÍFICA JÚNIOR BOLSAS 200
+
+IMPLEMENTAÇÃO E CONCESSÃO DE AUXÍLIO FINANCEIRO A PROJETOS DE PESQUISA NO ESTADO PESQUISA 75
+
+COMPANHIA DE GÁS DO ESTADO DO PIAUÍ - GASPISA
+
+DISTRIBUIÇÃO DE GÁS NATURAL ATRAVÉS DO GASODUTO M³ / DIA 2.300
+
+INSTITUTO DE METROLOGIA DO ESTADO DO PIAUÍ – IMEPI 04 – APOIO ADMINISTRATIVO
+
+REFORMA E AMPLIAÇÃO DAS INSTALAÇÕES DO IMEPI REFORMA 01 05 – MODERNIZAÇÃO ADMINISTRATIVA
+
+ADEQUAÇÃO E INFORMATIZAÇÃO DA BASE DE VERIFICAÇÃO METROLÓGICA SERVIÇO N/Q
+
+47 – METROLOGIA LEGAL
+
+METROLOGIA LEGAL E AVALIAÇÃO DE CONFORMIDADE
+
+VERIFICAÇÃO METROLÓGICA 36.424
+
+SECRETARIA DA ADMINISTRAÇÃO 04 – APOIO ADMINISTRATIVO
+
+ADMINISTRAÇÃO DO FUNDO ROTATIVO DE MATERIAL - N/Q
+
+RECUPERAÇÃO E MANUTENÇÃO DO CENTRO ADMINISTRATIVO M² 3.400
+
+APOIO ÀS FAMÍLIAS DE SERVIDORES COM NECESSIDADES ESPECIAIS N/Q
+
+CONCESSÃO DE BOLSA ESTÁGIO PESSOAS 1.200
+
+MELHORIA NO ATENDIMENTO AO CIDADÃO
+
+CENTRAL DE ATENDIMENTO 03 05 – MODERNIZAÇÃO ADMINISTRATIVA
+
+FÓRUNS ESTADUAIS DE DESENVOLVIMENTO FÓRUM 13
+
+PIAUÍ DIGITAL
+
+SALAS INSTALADAS
+
+MODERNIZAÇÃO DA GESTÃO PÚBLICA E DO PLANEJAMENTO DO ESTADO - PNAGE PERCENTUAL 40
+
+MODERNIZAÇÃO E GOVERNO DIGITAL PERCENTUAL 25
+
+GESTÃO DE DOCUMENTOS
+
+ARQUIVO ORGANIZADO N/Q
+
+MELHORIA NO ATENDIMENTO AO CIDADÃO ATENDIMENTO 03
+
+CONCURSOS PÚBLICOS DO ESTADO N/Q 07 – QUALIFICAÇÃO E VALORIZAÇÃO DO SERVIDOR
+
+CAPACITAÇÃO E VALORIZAÇÃO DO SERVIDOR PESSOAS 10.000
+
+31 – INCLUSÃO E ASSESSIBILIDADE ÀS PESSOAS COM DEFICIÊNCIA
+
+PROMOÇÃO DA ACESSIBILIDADE DE PESSOAS COM DEFICIÊNCIA ELEVADORES 02
+
+INSTITUTO DE ASSISTÊNCIA E PREVIDÊNCIA DO ESTADO DO PIAUÍ – IAPEP 05 – MODERNIZAÇÃO ADMINISTRATIVA
+
+AMPLIAÇÃO DO PRÉDIO SEDE E ANEXOS DO IAPEP PERCENTUAL 50
+
+IMPLANTAÇÃO DE SISTEMA DE INFORMAÇÃO PERCENTUAL 50 07 – QUALIFICAÇÃO E VALORIZAÇÃO DO SERVIDOR
+
+FORMAÇÃO E QUALIFICAÇÃO DO SERVIDOR DO IAPEP SERVIDOR 80 12 – ASSISTÊNCIA À SAÚDE DO SERVIDOR
+
+IAPEP SAÚDE BENEFICIÁRIO 265.000
+
+IAPEP SAÚDE SUPLEMENTAR BENEFICIÁRIO 25.000
+
+FUNDO DE PREVIDÊNCIA DO ESTADO DO PIAUÍ 05 – MODERNIZAÇÃO ADMINISTRATIVA
+
+INFORMATIZAÇÃO DO FUNDO DE PREVIDÊNCIA PERCENTUAL 25
+
+MODERNIZAÇÃO DOS PROCESSOS ADMINISTRATIVOS PERCENTUAL 30
+
+READEQUAÇÃO FÍSICA DAS INSTALAÇÕES DO FUNDO DE PREVIDÊNCIA PERCENTUAL 25 07 – QUALIFICAÇÃO E VALORIZAÇÃO DO SERVIDOR
+
+FORMAÇÃO E QUALIFICAÇÃO DO SERVIDOR SERVIDOR 40
+
+AGÊNCIA DE TECNOLOGIA DA INFORMAÇÃO DO ESTADO DO PIAUÍ - ATI 05 – MODERNIZAÇÃO ADMINISTRATIVA
+
+REFORMA DE OBRAS E INSTALAÇÕES DA AGÊNCIA OBRA 02 14 – DESENVOLVIMENTO DE TECNOLOGIAS DA INFORMAÇÃO
+
+AMPLIAÇÃO E MANUTENÇÃO DOS RECURSOS DE INFORMÁTICA SERVIÇOS N/Q
+
+GESTÃO DE DOCUMENTOS ELETRÔNICOS E PROMOÇÃO DO GOVERNO ELETRÔNICO
+
+DOCUMENTOS ELETRÔNICOS 01
+
+CAPACITAÇÃO, TREINAMENTO E APERFEIÇOAMENTO TECNOLÓGICO PESSOA 40
+
+IMPLANTAÇÃO DA INFRA-ESTRUTURA MULTISERVIÇO DA REDE GOVERNO REDE DIGITAL 01
+
+PROMOÇÃO DA INCLUSÃO DIGITAL NO ESTADO UNIDADE 20
+
+CONSOLIDAÇÃO DA COMUNICAÇÃO EXTERNA DA AGÊNCIA CAMPANHA 03
+
+CERTIFICAÇÃO DIGITAL CERTIFICADO 01
+
+CENTRAL DE TELE-ATENDIMENTO PARA SERVIÇOS PÚBLICOS CENTRAL 01
+
+EMPRESA DE GESTÃO DE RECURSOS DO ESTADO DO PIAUÍ S/A - EMGERPI 05 – MODERNIZAÇÃO ADMINISTRATIVA
+
+IMPLEMENTAÇÃO DE INFRA-ESTRUTURA TECNOLÓGICA E MOBILIÁRIA DA EMGERPI PERCENTUAL 100 36 - INFRA-ESTRUTURA E LOGÍSTICA PARA O DESENVOLVIMENTO
+
+CONLUSÃO DE OBRAS INICIADAS POR ÓRGÃOS EXTINTOS E INCORPORADAS PELA EMGERPI PERCENTUAL 100
+
+SECRETARIA DA JUSTIÇA 16 – QUALIFICAÇÃO DA EDUCAÇÃO BÁSICA
+
+EDUCANDO PARA A LIBERDADE PESSOA 400 28 – DIREITOS HUMANOS, DIREITOS DE TODOS
+
+ASSISTÊNCIA PSICOLOGICA E SOCIAL DO REEDUCANDO E SEUS FAMILIARES PESSOA 3.000
+
+ASSISTÊNCIA JURÍDICA AO REEDUCANDO PESSOA 3.000
+
+ASSISTÊNCIA A SAÚDE DO REEDUCANDO PESSOA 3.000
+
+33 – MELHORIA DO SISTEMA PRISIONAL
+
+SERVIÇOS PENITENCIÁRIOS SERVIÇO 05
+
+CONSTRUÇÃO, REFORMA E AMPLIAÇÃO DO SISTEMA PRISIONAL DO ESTADO DO PIAUÍ UNIDADE 05
+
+SERVIÇOS DE SAÚDE NO SISTEMA PRISIONAL EQUIPE 05
+
+POLÍCIA MILITAR DO PIAUÍ 04 – APOIO ADMINISTRATIVO
+
+RENOVAÇÃO E AMPLIAÇÃO DA FROTA DE VEÍCULOS UTILIZADOS NO APOIO ADMINISTRATIVO UNIDADE 04
+
+AQUISIÇÃO DE VEÍCULO PARA O HOSPITAL DIRCEU ARCOVERDE (HPM) VEÍCULOS 02 CONSTRUÇÃO E REFORMA DE INSTALÇÕES FÍSICAS DA ACADEMIA DA POLÍCIA MILITAR 05 – MODERNIZAÇÃO ADMINISTRATIVA
+
+MODERNIZAÇÃO DA SEÇÃO DE INTELIGÊNCIA (UNIDADES DA CAPITAL E INTERIOR) EQUIPAMENTOS 30
+
+INFORMATIZAÇÃO DA POLÍCIA MILITAR DO PIAUÍ E MANUTENÇÃO DOS SISTEMAS UNIDADE 04
+
+AQUISIÇÃO DE EQUIPAMENTOS DE INFORMÁTICA EQUIPAMENTOS 170
+
+IMPLANTAÇÃO, INTERLIGAÇÃO E MANUTENÇÃO DOS NÚCLEOS DE ANÁLISE QUALITATIVA E QUANTITATIVA DAS AÇÕES OPERACIONAIS DA PMPI NÚCLEOS 04
+
+MODERNIZAÇÃO E REAPARELHAMENTO DOS CENTROS DE OPERAÇÕES DA POLÍCIA MILITAR CENTRO 05
+
+REESTRUTURAÇÃO DO HOSPITAL DIRCEU ACORVERDE HOSPITAL 01 07 – QUALIFICAÇÃO E VALORIZAÇÃO DO SERVIDOR
+
+ENSINO PROFISSIONAL DA POLÍCIA MILITAR O PIAUÍ (FORMAÇÃO POLÍCIA MILITAR) PESSOA 1.235
+
+CAPACITAÇÃO DOS RECURSOS HUMANOS PESSOA 50
+
+FOMENTO AO INTERCÂMBIO CULTURAL PESSOA 55
+
+TREINAMENTO E CAPACITAÇÃO DE SERVIDORES DAS ÁREAS TÉCNICAS PESSOA 30
+
+IMPLANTAÇÃO E MANUTENÇÃO DE UM NÚCLEO BIBLIOTECÁRIO VOLTADO PARA ÁREA DE SEGURANÇA PÚBLICA PERCENTUAL 100
+
+IMPLANTAÇÃO DE PÓS-GRADUAÇÃO EM NÍVEL DE MESTRADO, NA ÁREA DE SEGURANÇA PÚBLICA PESSOA 10
+
+QUALIFICAÇÃO TÉCNICA DOS SERVIDORES DO HOSPITAL DIRCEU ARCOVERDE CURSO 01 12 - ASSISTÊNCIA À SAÚDE DO SERVIDOR
+
+REAPARELHAMENTO DOS SETORES DE SAÚDE DO HOSPITAL DIRCEU ARCOVERDE EQUIPAMENTOS 20
+
+IMPLANTAÇÃO E MANUTENÇÃO DE UNIDADE DE TERAPIA INTENSIVA - UTI NO HOSPITAL DIRCEU ARCOVERDE UNIDADE 01
+
+IMPLANTAÇÃO DE UM CENTRO CIRÚRGICO NO SETOR ODONTOLÓGICO DO HOSPITAL DIRCEU ARCOVERDE CENTRO 01
+
+IMPLANTAÇÃO E MANUTENÇÃO DE CLÍNICA PARA RECUPERAÇÃO DE POLICIAIS MILITARES DEPENDENTES DE SUBSTÂNCIAS QUÍMICAS CLÍNICA 01 20 - VALORIZAÇÃO DO PATRIMÔNIO HISTÓRICO E CULTURAL
+
+IMPLANTAÇÃO E MANUTENÇÃO DO MEMORIAL DA POLÍCIA MILITAR DO PIAUÍ PERCENTUAL 100 32 – PREVENÇÃO E COMBATE À VIOLÊNCIA
+
+AMPLIAÇÃO E MANUTENÇÃO DO SISTEMA DE COMUNICAÇÃO E INFORMÁTICA NA ÁREA OPERACIONAL DA POLÍCIA MILITAR DO PIAUÍ EQUIPAMENTOS 120
+
+REEQUIPAMENTO BÉLICO E DE PROTEÇÃO INDIVIDUAL EQUIPAMENTOS 1.000
+
+IMPLANTAÇÃO E MANUTENÇÃO DO POLICIAMENTO TURÍSTICO GRUPO 04
+
+AQUISIÇÃO DE EQUIPAMENTOS DE PROTEÇÃO E CONTROLE DE DISTÚRBIOS EQUIPAMENTOS 140
+
+AQUISIÇÃO E MANUTENÇÃO DE SEMOVENTE UNIDADE 20
+
+REAPARELHAMENTO DA UNIDADE DE BIKE PATRULHAMENTO GRUPO 20 AQUISIÇÃO E MANUTENÇÃO DE AERONAVE PARA O PATRULHAMENTO AÉREO POLICIAL UNIDADE 05
+
+CONSTRUÇÃO E MANUTENÇÃO DE POSTO DE POLICIAMENTO NA MALHA RODOVIÁRIA ESTADUAL POSTO 06 CONSTRUÇÃO E REFORMA DE UNIDADES OPERACIONAIS DA POLÍCIA MILITAR DO PIAUÍ UNIDADE 29
+
+REVITALIZAÇÃO DO PELOTÃO MIRIM ALUNOS 80
+
+MANUTENÇÃO DO GRUPAMENTO AÉREO POLICIAL GRUPAMENTO 01
+
+RENOVAÇÃO E AMPLIAÇÃO DA FROTA DE VEÍCULOS DA POLÍCIA MILITAR VEÍCULOS 90
+
+MANUTENÇÃO DAS ATIVIDADES DO PROERD ALUNOS 1.700
+
+SECRETARIA DE MEIO AMBIENTE E DOS RECURSOS HÍDRICOS
+
+55 – GESTÃO INTEGRADA DO MEIO AMBIENTE
+
+ESTUDOS PARA O MACROZONEAMENTO ECOLÓGICO ECONÔMICO DAS ÁREAS ESPECÍFICAS E PARA O DETALHAMENTO DO USO DAS PRINCIPAIS ÁREAS DE INTERESSE ECONÔMICO E SÓCIO-AMBIENTAL DO ESTADO ESTUDO 01
+
+PROPOSIÇÃO E REGULAMENTAÇÃO DE MECANISMOS LEGAIS DE GESTÃO AMBIENTAL PLANO 01
+
+56 - EDUCAÇÃO AMBIENTAL
+
+GESTÃO VOLTADA À EDUCAÇÃO AMBIENTAL MUNICÍPIO 60
+
+57 - USO SUSTENTÁVEL DOS RECURSOS NATURAIS
+
+GESTÃO DE RECURSOS HÍDRICOS COMITÊ 01
+
+ELABORAÇÃO E IMPLANTAÇÃO DE PLANO DE GESTÃO, CRIAÇÃO E MANUTENÇÃO DAS UNIDADES ESTADUAIS DE CONSERVAÇÃO PERCENTUAL 40
+
+SISTEMATIZAÇÃO DE INFORMAÇÕES ACERCA DOS PRINCIPAIS RECURSOS NATURAIS DO ESTADO SISTEMA 01
+
+58 – RECUPERAÇÃO DE ÁREAS DEGRADADAS E COMBATE À DESERTIFICAÇÃO
+
+ELABORAÇÃO DE ESTUDOS E DIFUSÃO DE TÉCNICAS E PLANO ESTADUAL DE COMBATE À DESERTIFICAÇÃO PERCENTUAL 40 RECUPERAÇÃO E PROTEÇÃO DE NASCENTES, MATAS CILIARES E ÁREAS DEGRADADAS PROGRAMA 01
+
+59 – PROÁGUA
+
+IMPLANTAÇÃO DO SISTEMA ADUTOR DE BOCAINA PERCENTUAL 40
+
+IMPLANTAÇÃO DO SISTEMA ADUTOR DE PIAUS PERCENTUAL 40
+
+SECRETARIA DE ASSISTÊNCIA SOCIAL E CIDADANIA
+
+14 – DESENVOLVIMENTO DE TECNOLOGIAS DA INFORMAÇÃO
+
+PROJETO ESCOLA MÓVEL DE INCLUSÃO DIGITAL - CAMINHÃO DIGITAL PESSOA 9.090
+
+15 – UNIVERSALIZAÇÃO DO ACESSO À EDUCAÇÃO BÁSICA
+
+EDUCAÇÃO FORMAL À ADOLESCENTES EM CUMPRIMENTO DE MEDIDAS SOCIOEDUCATIVAS PERCENTUAL 100
+
+25 – PROTEÇÃO SOCIAL BÁSICA
+
+PROJETO CIDADÃO MIRIM CRIANÇA 180
+
+ECONOMIA SOLIDÁRIA - INCLUSÃO PRODUTIVA - FECOP GRUPOS 60
+
+MANUTENÇÃO DAS UNIDADES OPERACIONAIS: CENTROS SOCIAIS URBANOS E ESPAÇOS CIDADANIA UNIDADES 56
+
+PROJETO CIDADANIA ATIVA ATENDIMENTO 110.000
+
+CAPACITAÇÃO PROFISSIONAL DE JOVENS EM SITUAÇÃO DE VULNERABILIDADE PESSOA 2520
+
+26 – PROTEÇÃO SOCIAL ESPECIAL
+
+FORMAÇÃO DOS ATORES DO SISTEMA SOCIOEDUCATIVO SERVIDOR 300
+
+ATENDIMENTO EM CARÁTER EMERGENCIAL A PESSOAS EM ESTADO DE VULNERABILIDADE PESSOA 1.500
+
+MUNICIPALIZAÇÃO DAS MEDIDAS SÓCIO-EDUCATIVAS EM MEIO ABERTO (PSC/LA) MUNICÍPIO 13
+
+REGIONALIZAÇÃO DAS MEDIDAS SOCIEDUCATIVAS DE SEMILIBERDADE REGIÕES 02
+
+PROJETO CRAVO PESSOA 4.500
+
+MANUTENÇÃO DE ATENDIMENTO INTEGRAL ÀS CRIANÇAS E ADOLESCENTES UNIDADES 03
+
+ENFRENTAMENTO E COMBATE AO USO DE DROGAS MUNICÍPIO 15 CONSTRUÇÃO DE UNIDADES DE ATENDIMENTO SÓCIO-EDUCATIVO UNIDADE 02
+
+AMPLIAÇÃO/INSTALAÇÃO DO BANCO DE DADOS AVANÇADOS DO SISTEMA DE INFORMAÇÃO PARA INFÂNCIA E ADOLESCÊNCIA I E II MUNICÍPIO 225
+
+ACOMPANHAMENTO ÀS FAMÍLIAS DE ADOLESCENTES EM CUMPRIMENTO DE MEDIDAS SOCIOEDUCATIVAS E EGRESSOS FAMÍLIA 100 ASSISTÊNCIA A SAÚDE DE PESSOAS EM ESTADO DE VULNERABILIDADE PESSOA 200
+
+27 – FORTALECIMENTO DO SISTEMA ÚNICO DA ASSISTÊNCIA SOCIAL
+
+PLANO ESTADUAL DE ENFRETAMENTO E COMBATE AO TRABALHO INFANTIL E PLANO DE COMBATE À EXPLORAÇÃO SEXUAL FÓRUM 11 CONFERÊNCIAS ESTADUAIS DE POLÍTICAS PÚBLICAS E SETORIAIS EVENTO 03
+
+CO-FUNCIONAMENTO DAS AÇÕES DA PROTEÇÃO SOCIAL BÁSICA E PROTEÇÃO SOCIAL ESPECIAL MUNICÍPIO 225 ACOMPANHAMENTO , MONITORAMENTO E AVALIZAÇÃO DAS AÇÕES DO SUAS MUNICÍPIO 40
+
+MANUTENÇÃO DE INSTÂNCIAS DE PACTUAÇÃO E DELIBERAÇÃO SOBRE A POLÍTICA DE ASSISTÊNCIA SOCIAL
+
+CAPACITAÇÃO E ASSESSORAMENTO A MUNICÍPIOS NA ÁREA DA POLÍTICA A PESSOA COM DEFICIÊNCIAS - PCD'S MUNICÍPIO 225
+
+43 - INERMEDIAÇÃO E QUALIFICAÇÃO PROFISSIONAL
+
+PROFISSIONALIZAÇÃO DE ADOLESCENTES SOB MEDIDAS SÓCIO-EDUCATIVAS ADOLESCENTE 120
+
+COORDENADORIA DE COMUNICAÇÃO SOCIAL 05 – MODERNIZAÇÃO ADMINISTRATIVA
+
+MODERNIZAÇÃO E RENOVAÇÃO DE EQUIPAMENTOS E MÓVEIS
+
+MODERNIZAÇÃO E ADEQUAÇÃO DA CCOM COM OS MEIOS DE COMUNICAÇÃO
+
+06 – TRANSPARÊNCIA PARA O CIDADÃO
+
+COMUNICAÇÃO DE AÇÕES DO GOVERNO À SOCIEDADE
+
+GOVERNO TRANSPARENTE - CAMPANHAS EDUCATIVAS E INSTITUCIONAIS CARTILHAS 30.336
+
+PRODUÇÃO E DIFUSÃO DE INFORMAÇÕES
+
+07 - QUALIFICAÇÃO E VALORIZAÇÃO DO SERVIDOR
+
+CAPACITAÇÃO DOS SERVIDORES DA CCOM
+
+10 – FORTALECIMENTO DAS RELAÇÕES INSTITUCIONAIS
+
+QUALIFICAÇÃO DE COMUNICADORES POPULARES PESSOA 280
+
+ESTÍMULO À FORMAÇÃO DE CONSELHOS DE COMUNICAÇÃO NO ESTADO
+
+DEFENSORIA PÚBLICA DO ESTADO 05 – MODERNIZAÇÃO ADMINISTRATIVA
+
+INFORMATIZAÇÃO DA DEFENSORIA EQUIPAMENTO 40
+
+10 – FORTALECIMENTO DAS RELAÇÕES INSTITUCIONAIS
+
+FORTALECIMENTO DA ARTICULAÇÃO DA DEFENSORIA PÚBLICA COM OS DEMAIS ÓRGÃOS ESTADUAIS ARTICULAÇÃO 03
+
+15 – UNIVERSALIZAÇÃO DO ACESSO À EDUCAÇÃO BÁSICA
+
+IMPLANTAÇÃO DE NÚCLEO DE PROTEÇÃO À CRIANÇA E AO ADOLESCENTE UNIDADE 02
+
+28 – DIREITOS HUMANOS, DIREITOS DE TODOS
+
+FORTALECIMENTO DOS NÚCLEOS ESPECIALIZADOS DE DEFESA DA CRIANÇA E DO ADOLESCENTE EM CONFLITO COM A LEI NÚCLEO 02
+
+BALCÃO DE DIREITOS - ASSENTADOS E ACAMPADOS RURAIS ASSENTAMENTO 04
+
+AMPLIAÇÃO E REESTRUTURAÇÃO NÚCLEO ESPECIALIZADO DE DEFESA DO CONSUMIDOR NECESSITADO E INSTALAÇÃO DO NÚCLEO DE MEDIAÇÃO CONSUMIDOR 10.000
+
+REGIONALIZAÇÃO DA DEFENSORIA PÚBLICA NÚCLEO 18
+
+32 – PREVENÇÃO E COMBATE À VIOLÊNCIA
+
+IMPLANTAÇÃO DO NÚCLEO DE DEFESA DAS VÍTIMAS DE VIOLÊNCIA E DO CRIME PESSOA 33
+
+PROCURADORIA GERAL DO ESTADO
+
+IMPLANTAÇÃO DE NÚCLEOS SETORIAIS DA PGE NAS SECRETARIAS DO ESTADO NÚCLEO 07
+
+CONTROLADORIA GERAL DO ESTADO
+
+INFRA-ESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO DA CGE SISTEMA 01
+
+REESTRUTURAÇÃO FÍSICA, MOBILIÁRIA E DE EQUIPAMENTOS DA CGE PERCENTUAL 25
+
+09 – MONITORAMENTO E AVALIZAÇÃO DE POLÍTICAS PÚBLICAS
+
+AÇÕES DE CONTROLE INTERNO DOS ÓRGÃOS ESTADUAIS
+
+ATIVIDADES DE AUDITORIA NOS ÓRGÃOS, ENTIDADES E PROGRAMAS DO PODER EXECUTIVO ESTADUAL UNIDADE 70
+
+COORDENADORIA ESTADUAL PARA INTEGRAÇÃO DA PESSOA PORTADORA DE DEFICIÊNCIA – CEID
+
+31 – INCLUSÃO E ACESSIBILIDADE ÀS PESSOAS COM DEFICIÊNCIA
+
+CAPACITAÇÃO TÉCNICO-CIETÍFICA DOS AGENTES EVENTO 02
+
+MONITORAMENTO DA REDE ESTADUAL DE ACESSIBILIDADE N/Q
+
+PROMOÇÃO E DEFESA DOS DIREITOS DA PESSOA COM DEFICIÊNCIA MUNICÍPIO 12
+
+REDE ESTADUAL DE ACESSIBILIDADE - SOCIEDADE INCLUSIVA MUNICÍPIO 34
+
+COORDENADORIA DE SEGURANÇA ALIMENTAR E ERRADICAÇÃO DA FOME
+
+29 – DESENVOLVIMENTO COMUNITÁRIO
+
+UNIDADES PRODUTIVAS LOCAIS UNIDADE 12
+
+MONITORAMENTO DO PROGRAMA BOLSA FAMÍLIA MUNICÍPIO 223
+
+HORTA COMUNITÁRIA HORTA 12
+
+MONITORAMENTO DO PROGRAMA DO LEITE FLUÍDO MUNICÍPIO 100
+
+FOMENTO AOS CONSELHOS DE SEGURANÇA ALIMENTAR PESSOA 600
+
+FORTALECIMENTO DE GUARIBAS E ACAUÃ EQUIPAMENTOS 02
+
+30 – SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+FORTALECIMENTO DOS CONSAD'S FAMÍLIA 130
+
+UNIDADE PRODUTIVA DE EXTRATO HIDROSSOLÚVEL DE SOJA (LEITE DE SOJA) LITROS 576.000
+
+MULTIFUNCIONALIDADE DO RESTAURANTE POPULAR BETINHO OFICINAS 10
+
+DIAGNÓSTICO DE INSEGURANÇA ALIMENTAR PESQUISA 01
+
+EDUCAÇÃO ALIMENTAR PESSOA 1.800
+
+MANUTENÇÃO DO RESTAURANTE POPULAR PESSOA 1.200
+
+CORPO DE BOMBEIROS MILITAR
+
+APARELHAMENTO E EQUIPAMENTO PARA AS UNIDADES DO CORPO DE BOMBEIROS
+
+UNIDADES EQUIPADAS 125
+
+MELHORIA DO SISTEMA DE COMUNICAÇÃO EQUIPAMENTO 125 07 – QUALIFICAÇÃO E VALORIZAÇÃO DO SERVIDOR
+
+QUALIFICAÇÃO DE PESSOAL PESSOA 125
+
+34 – PREVENÇÃO E AÇÃO PARA EMERGÊNCIAS E DESASTRES
+
+CRIAÇÃO DO LABORATÓRIO DE PERÍCIA DE INCÊNDIOS EQUIPAMENTO 50
+
+CRIAÇÃO, APARELHAMENTO BÁSICO E CAPACITAÇÃO DE GRUPAMENTO CIVIL NAS PRINCIPAIS CIDADES PESSOA 23
+
+PREVENÇÃO CONTRA INCÊNCIO EM RESERVA AMBIENTAL
+
+CISTERNAS E
+
+BOMBAS 60
+
+SECRETARIA DAS CIDADES
+
+35 – HABITAR PIAUÍ
+
+CONSTRUÇÃO E MELHORIA DE UNIDADES HABITACIONAIS UNIDADE 325
+
+CONSTRUÇÃO DE PISTAS DE POUSO UNIDADE 05
+
+CONSTRUÇÃO, REFORMA E AMPLIAÇÃO DE TERMINAIS RODOVIÁRIOS UNIDADE 02
+
+INFRA-ESTRUTURA URBANA PARA O DESENVOLVIMENTO
+
+IMPLEMENTAÇÃO DA DRENAGEM URBANA M² 50.000
+
+IMPLEMENTAÇÃO DO MANEJO HIDROAMBIENTAL UNIDADE 05
+
+REORGANIZAÇÃO DO SISTEMA DE COLETA DE RESÍDUOS SÓLIDOS SISTEMA 05
+
+CONSTRUÇÃO DE PORTAIS IDENTIFICADORES NOS MUNICÍPIOS UNIDADE 10
+
+CONSTRUÇÃO, REFORMA E AMPLIAÇÃO DE QUADRAS POLIESPORTIVAS UNIDADE 04
+
+OBRAS DE INFRA-ESTRUTURA URBANA E RURAL NOS MUNICÍPIOS
+
+37 – SANEAMENTO E QUALIDADE DE VIDA
+
+CONSTRUÇÃO E MELHORIA DE UNIDADES SANITÁRIAS E ESGOTAMENTO SANITÁRIO UNIDADE 1.000
+
+CONSTRUÇÃO, REFORMA E AMPLIAÇÃO DE MATADOUROS UNIDADE 05
+
+AGENCIA DE DESENVOLVIMENTO HABITACIONAL DO PIAUÍ - ADH
+
+RENOVAÇÃO E REESTRUTURAÇÃO DOS MEIOS E PROCEDIMENTOS DA AGÊNCIA PERCENTUAL 100
+
+35 – HABITAR PIAUÍ
+
+AUTOFINANCIAMENTO HABITACIONAL UNIDADE 500
+
+MELHORIA HABITACIONAL UNIDADE 1.000
+
+PRO-MORADIA UNIDADE 3.000
+
+SEMEANDO MORADIAS UNIDADE 1.500
+
+FUNDO DE HABITAÇÃO DE INTERESSE SOCIAL UNIDADE 1.500
+
+REGULARIZAÇÃO E AVERBAÇÃO FUNDIÁRIA UNIDADE 1.000
+
+SECRETARIA DOS TRANSPORTES
+
+GERENCIAMENTO DE TERMINAIS MULTIMODAIS UNIDADE 15
+
+CONSOLIDAÇÃO INSTITUCIONAL DA SETRANS PERCENTUAL 30
+
+INFORMATIZAÇÃO DA SETRANS PERCENTUAL 30
+
+FISCALIZAÇÃO NAS RODOVIAS ESTADUAIS (PI'S) E FEDERAIS DELEGADAS PERCENTUAL 15
+
+INFORMATIZAÇÃO DA SETRANS - CONTROLE DE USO DA FAIXA DE DOMÍNIO DAS RODOVIAS ESTADUAIS PERCENTUAL 15
+
+IMPLANTAÇÃO E REFORMA DE OBRAS MULTIMODAIS UNIDADE 05
+
+PORTO DE LUÍS CORREIA PERCENTUAL 40
+
+IMPLANTAÇÃO E REFORMA DE OBRAS MULTIMODAIS UNIDADE 06
+
+RECUPERAÇÃO, PAVIMENTAÇÃO E IMPLANTAÇÃO DE RODOVIAS KM 800
+
+CONSERVAÇÃO DE RODOVIAS KM 500
+
+CONSTRUÇÃO E RECUPERAÇÃO DE OBRAS DE ARTES ESPECIAIS UNIDADE 30
+
+MARINA DO DELTA UNIDADE 01
+
+38 – DESENVOLVIMENTO DOS TRANSPORTES E INTEGRAÇÃO MULTIMODAL
+
+IMPLANTAÇÃO, REFORMA E/OU HOMOLOGAÇÃO DE AEROPORTOS E AERÓDROMOS UNIDADE 15
+
+FISCALIZAÇÃO NAS RODOVIAS ESTADUAIS (PI'S) E FEDERAIS DELEGADAS PERCENTUAL 20
+
+IMPLANTAÇÃO DE ESTRUTURA PORTUÁRIA FLUVIAL UNIDADE 10
+
+RECUPERAÇÃO DA MALHA FERROVIÁRIA PERCENTUAL 20
+
+HIDROVIA DOS RIOS PARNAÍBAS E POTY PERCENTUAL 20
+
+ESTUDOS , PROJETOS E DESAPROPRIAÇÃOES PERCENTUAL 30
+
+DEPARTAMENTO DE ESTRADAS E RODAGENS DO ESTADO DO PIAUÍ- DER/PI
+
+CONSOLIDAÇÃO INSTITUCIONAL DO DER-PI (DESENVOLVIMENTO DO SETOR RODOVIÁRIO DO PIAUÍ / BNDS) UNIDADE 05
+
+MANUTENÇÃO E OPERAÇÃO DE MÁQUINAS E EQUIPAMENTOS RODOVIÁRIOS UNIDADE 30
+
+38 – DESENVOLVIMENTO DOS TRANSPORTES E INTEGRAÇÃO MULTIMODAL
+
+CONSERVAÇÃO DE RODOVIAS KM 4.221
+
+CONSTRUÇÃO, RECUPERAÇÃO E CONSERVAÇÃO DE OBRAS D'ARTES ESPECIAIS METRO 793
+
+RESTAURAÇÃO, PAVIMENTAÇÃO E IMPLANTAÇÃO DE RODOVIAS KM 1.456,4
+
+CONSTRUÇÃO, MELHORAMENTO E PAVIMENTAÇÃO (DESENVOLVIMENTO DO SETOR RODOVIÁRIO DO PIAUÍ / BNDS) KM 1.000
+
+REALIZAÇÃO DE ESTUDOS E PROJETOS DE ENGENHARIA KM 1.000
+
+39 – INTEGRAÇÃO DA REDE RODOVIÁRIA
+
+PRESTAÇÃO DE ASSISTÊNCIA RODOVIÁRIA AOS MUNICÍPIOS KM 1.500
+
+COMPANHIA METROPOLITANA DE TRANSPORTES PÚBLICOS – CMTP
+
+38 - DESENVOLVIMENTO DOS TRANSPORTES E INTEGRAÇÃO MULTIMODAL
+
+LINHA 2 - ZONA SUL KM 1
+
+MODERNIZAÇÃO DE MATERIAL RODANTE UNIDADE 4
+
+RAMAL TERESINA - ALTOS KM 10
+
+ESTUDO DE VIABILIZAÇÃO TÉCNICA PARA EXPANSÃO DOS RAMAIS METROVIÁRIOS DE TERESINA PERCENTUAL 40
+
+LINHA ALTOS - PARNAÍBA KM 75
+
+MELHORIA DAS INSTALAÇÕES FÍSICAS DA SEDE ADMINISTRATIVA DA CMTP PERCENTUAL 100
+
+AMPLIAÇÃO E MELHORIA DO SISTEMA FERROVIÁRIO - N/Q
+
+SECRETARIA DO TURISMO
+
+40 – DESENVOLVIMENTO DO TURISMO SUSTENTÁVEL
+
+QUALIFICAÇÃO PROFISSIONAL PARA O TURISMO CURSO 100
+
+PROGRAMA DE CAPACITAÇÃO PROFISSIONAL E EMPRESARIAL - PRODETUR / NE II PESSOA 200
+
+PLANO DE DESENVOLVIMENTO DO TURISMO SUSTENTÁVEL DO PÓLO DAS ORÍGENS - PRODETUR II PERCENTUAL 100
+
+ESTRUTURAÇÃO DA PRODUÇÃO LOCAL ASSOCIADA AO TURISMO PRODUTO 04 FORTALECIMENTO DO ROTEIRO INTEGRADO JERI, DELTA, LENÇOIS - ROTA DAS EMOÇÕES ROTEIRO 04
+
+IMPLEMENTAÇÃO DA REGIONALIZAÇÃO DO TURISMO MUNICÍPIO 104
+
+CONSTRUÇÃO DE TERMINAIS TURÍSTICOS UNIDADE 10
+
+MELHORIA E IMPLANTAÇÃO DE NOVOS ACESSOS URBANOS MUNICÍPIO 10 MELHORIA E IMPLANTAÇÃO ILUMINAÇÃO PÚBLICA E ESPECIAL EM ATRATIVOS TURÍSTICO MUNICÍPIO 10
+
+IMPLEMENTAÇÃO DE PROCESSOS DE LIMPEZA PÚBLICA EM ÁREA URBANA MUNICÍPIO 10
+
+OBRAS DE INFRA-ESTRUTURA TURÍSTICA UNIDADE 20
+
+PIAUÍ TURISMO – PIEMTUR
+
+40 – DESENVOLVIMENTO DO TURISMO SUSTENTÁVEL
+
+PROMOÇÃO, MARKETING E APOIO AO TURISMO
+
+MATERIAL PROMOCIONAL 04
+
+CAPACITAÇÃO PROFISSIONAL NO SETOR TURÍSTICO CURSO 05
+
+EXECUÇÃO DO PROJETO DE SINALIZAÇÃO TURÍSTICA DO PÓLO COSTA DO DELTA - PRODETUR/NEII SINALIZAÇÃO 20
+
+SINALIZAÇÃO TURÍSTICA NOS MUNICÍPIOS MUNICÍPIO 04
+
+APOIO AOS EVENTOS TURÍSTICOS EVENTO 12
+
+REFORMA E MANUTENÇÃO DO CENTRO DE CONVENÇÕES PERCENTUAL 20
+
+SECRETARIA DO TRABALHO E EMPREENDEDORISMO
+
+09 – MONITORAMENTO E AVALIZAÇÃO DE POLÍTICAS PÚBLICAS
+
+CRIAÇÃO DE COMISSÕES DE EMPREGO COMISSÃO 53
+
+25 – PROTEÇÃO SOCIAL BÁSICA
+
+MANUTENÇÃO DO SEGURO DESEMPREGO PESSOA 15.000
+
+40 – DESENVOLVIMENTO DO TURISMO SUSTENTÁVEL
+
+FORTALECIMENTO DO PÓLO TURÍSTICO DO ESTADO PESSOA 3.210
+
+FORTALECIMENTO DO PÓLO TURÍSTICO DO POTY VELHO PESSOA 1.360
+
+FORTALECIMENTO DO PÓLO DE SAÚDE TERESINA PESSOA 1.620
+
+42 – DESENVOLVIMENTO EMPRESARIAL E INCENTIVO AO EMPREENDEDORISMO
+
+FOMENTO EMPRESARIAL EMPRESAS 800
+
+EMPREENDEDORISMO NO SETOR INFORMAL
+
+JOVEM EMPREENDEDOR - APOIO E CAPACITAÇÃO PESSOA 450
+
+PROJETO ESPECIAL DO EMPREENDEDOR JUVENIL PESSOA 1.000
+
+43 – INTERMEDICAÇÃO E QUALIFICAÇÃO PROFISSIONAL
+
+JUVENTUDE CIDADÃ PESSOA 10.000
+
+CENTRO DO TRABALHADOR AUTÔNOMO PESSOA 500
+
+QUALIFICAÇÃO PROFISSIONAL PESSOA 3.500
+
+INTERMEDIAÇÃO DE MÃO-DE-OBRA AO MERCADO DE TRABALHO PESSOA 6.000
+
+SINE MÓVEL
+
+JOVEM TRABALHADOR PESSOA 10.000
+
+BOLSA PROFISSIONALIZANTE PARA JOVENS BOLSA 500
+
+SECRETARIA DE DEFESA CIVIL
+
+34 – PREVENÇÃO E AÇÃO PARA EMERGÊNCIAS E DESASTRES
+
+ASSISTÊNCIAS ÀS PESSOAS ATINGIDAS POR DESASTRES FAMÍLIA 120
+
+APOIO A OBRAS PREVENTIVAS DE DESASTRES PERCENTUAL 100
+
+RECUPERAÇÃO DOS DANOS CAUSADOS POR DESASTRES PERCENTUAL 100
+
+CAPACITAÇÃO DE AGENTES DE DEFESA CIVIL PESSOA 1.338
+
+RECUPERAÇÃO DA INFRA-ESTRUTURA DO DESASTRE FAMÍLIA 100
+
+Demonstrativos I, II e III (Art. 4º, § 1º e 2º da Lei Complementar nº 101/2000)
+
+METAS ANUAIS
+
+Em cumprimento ao disposto na Lei Complementar nº 101, de 04 de maio de 2000, Lei de Responsabilidade Fiscal – LRF, o Anexo de Metas Anuais da Lei de Diretrizes Orçamentárias 2009 - LDO 2009, estabelece a meta de resultado primário do setor público consolidado como percentual do Produto Interno Bruto – PIB para o exercício e indica as metas de 2010 e 2011. A cada exercício, havendo mudanças no cenário macroeconômico, as metas são revistas objetivando manter uma política fiscal responsável.
+
+As metas de resultado primário são fixadas de modo a garantir a solvência intertemporal da dívida pública. De sua parte, o resultado nominal e o estoque da dívida pública são indicativos, uma vez que são influenciados por uma gama de fatores que fogem ao controle direto do governo.
+
+O objetivo primordial da política fiscal do governo é promover a gestão equilibrada dos recursos públicos, de forma a assegurar a manutenção do equilíbrio econômico-fiscal e o desenvolvimento sustentado do Estado. Essa política busca criar as condições necessárias para redução gradual do endividamento público em relação ao PIB e tem o compromisso de promover a melhoria dos resultados da gestão fiscal, com vistas à implementação de políticas sociais distributivas e à realização de investimentos em infraestrutura.
+
+De outra parte, o governo vem se empenhando na melhoria da qualidade da tributação, no aperfeiçoamento dos mecanismos arrecadação, fiscalização e controle, o que tem reduzido a evasão e elisão fiscal, possibilitado o contínuo crescimento da receita tributária e, por conseqüência, o cumprimento das metas fiscais estabelecidas ano a ano.
+
+Em 2007, o Resultado Primário foi de 3,90% do PIB, superando substancialmente a meta estabelecida de 2,49%. As Receitas Primárias atingiram o patamar de 30,87% do PIB e as Despesas Primárias ficaram em 26,97% do PIB no exercício.
+
+Projeções para 2008 apontam um crescimento real do PIB da ordem de 5,00%. Para esse desempenho deverão contribuir o crescimento do consumo, estimulado pela expansão da massa salarial, do crédito pessoal em alta e do investimento privado que tem aumentado constantemente neste governo.
+
+Para 2009 a meta de Superávit Primário para o setor público está fixada em 2,20% do PIB, elevando-se para 2,29% e 2,39% nos dois anos seguintes. Essa meta é compatível com a relação dívida/PIB de aproximadamente 14%, conforme se verifica no demonstrativo de metas anuais do Anexo de Metas Fiscais.
+
+A Receita Fiscal do Estado deverá oscilar entre 32,04% e 34,84% do PIB no próximo triênio, o que representa variação positiva considerável relativamente ao exercício de 2007. Já a Despesa Primária deverá variar entre 29,84% e 32,45% do PIB. Esse desempenho possibilitará o cumprimento das metas de Resultado Primário estabelecido pelo Governo do Estado para o período.
+
+O estabelecimento do Superávit Primário nos níveis consignados e o crescimento da economia a uma taxa real de 5,00% no triênio 2009-2011 permitem uma relação constante da Dívida Consolidada Líquida como proporção do PIB, que deverá se situar em torno de 14% até 2011, caso se confirmem os parâmetros macroeconômicos adotados nesta Lei.
+
+As metas estabelecidas para o triênio 2009-2011 reafirmam o compromisso do governo do Estado com a responsabilidade fiscal, com o equilíbrio das contas públicas, com o crescimento sustentado da economia e com a inclusão social.
+
+METAS ANUAIS (Art. 4º, § 1º e 2º da Lei Complementar nº 101/2000)
+
+METODOLOGIA E MEMÓRIA DE CÁLCULO
+
+A previsão de valores futuros normalmente representa um grande desafio. Os fatores que influenciam a arrecadação são vários e podem ser alterados ao longo dos exercícios. Para muitos deles sequer se dispõe de metodologias seguras de estimativa e mensuração.
+
+Em sendo assim, qualquer exercício de projeção de valores futuros de séries temporais deve ser, em primeiro lugar, considerado como decorrente de métodos relativamente limitados. Os valores estimados não devem ser interpretados como precisos, mas sim um dado em torno do qual pode-se estabelecer uma probabilidade relativamente alta de ocorrência.
+
+I - RECEITA FISCAL - Para 2009 foi apurada conforme metodologia descrita abaixo.
+
+a) Tributos
+
+As projeções do ICMS, IPVA, ITCD e Taxas foram realizadas pela Coordenação de Estudos Econômico-Fiscais – COEFI / Unidade de Administração Tributária - UNATRI da Secretaria da Fazenda do Estado do Piauí, utilizando-se de premissas e de dados a seguir consignados.
+
+O passado observado de séries temporais normalmente revela um padrão em termos de tendência e ciclos que permite a extrapolação para valores futuros. Em função do exposto acima, esta extrapolação não deve necessariamente produzir valores exatos de previsão. Entretanto, ela representa o que de melhor se pode inferir acerca do comportamento futuro de uma variável, mediante padrões revelados em seu passado, sem a necessidade de se lançar mão de todas as informações que um modelo de descrição completo do comportamento dos agentes econômicos requeriria.
+
+Assim sendo, utilizou-se as funções de previsão do software Excel, da Microsoft, aplicadas a uma série histórica de 6 anos de tributos arrecadados, médias de crescimento e a tendência do período objeto das projeções.
+
+Além do método citado, considerou-se, ainda, as metas de crescimento do IPCA e dos PIB estadual e nacional, o esforço fiscal da Fazenda Estadual, bem como a modernização tecnológica em implantação, que tem permitido um maior e melhor controle sobre a arrecadação do Estado.
+
+b) Transferências correntes
+
+Relativamente às Transferências Correntes foram utilizados os dados disponibilizados pela Secretaria do Tesouro Nacional como referenciais, avaliação de uma série histórica de 6 anos e os indicadores do IPCA e PIB.
+
+c) Demais contas
+
+Para as demais rubricas lançamos mão das informações nos encaminhadas oficialmente tanto pelos órgãos da Administração Direta quanto indireta, inclusive fundações e empresas; da análise das receitas realizadas e sobre os valores apurados foram aplicados o IPCA e o PIB estimados para cada exercício.
+
+II - RESULTADO PRIMÁRIO - Diferença entre o total da receita e o total da despesa, excluídos os gastos relativos à dívida, no caso das despesas; e aplicações financeiras, operações de crédito, amortizações de empréstimos e alienação de bens, no caso das receitas.
+
+III - RESULTADO NOMINAL - Representa a diferença entre o saldo da dívida fiscal líquida em 31 de dezembro de determinado ano em relação ao apurado em 31 de dezembro do ano anterior.
+
+Demonstrativo VII Estimativa e Compensação da Renúncia de Receita
+
+(Art. 4º, § 2º, Inciso V da LC nº 101, de 04/05/2000)
+
+MEDIDAS COMPENSATÓRIAS
+
+As desonerações fiscais decorrem essencialmente da política tributária implementada pelo Governo Estadual, consoante leis próprias e Convênios firmados com as demais Unidades Federadas, objetivando os seguintes pontos básicos: a proteção ao mercado interno de oferta de mercadorias, a ampliação da oferta de emprego e geração de renda.
+
+Para formação da poupança interna, o Estado cria mecanismos tributários que visam atrair empresas obrigando-se, para tanto, a abdicar de parcela de receita potencial ou real. Por outro lado, outros compromissos decorrentes da política social do Governo precisam ser cumpridos dentro da execução orçamentária, fazendo-se necessário que se busque opções concretas de aumento de receitas tributárias que compensem as perdas verificadas em cada exercício.
+
+Cumprindo o que determina a Lei de Responsabilidade Fiscal são apresentados, a seguir, as medidas compensatórias da renúncia fiscal projetada, bem assim o seu impacto nas receitas do Estado estimadas para o exercício de 2009:
+
+a) Implantação do Sistema Corporativo: com o novo sistema de informática, os controles fiscais serão modernizados, a exemplo da instituição da Nota Fiscal Eletrônica e da Declaração de Informações Econômico-Fiscais-DIEF, bem como no que se refere ao acompanhamento em tempo real da arrecadação e do conta-corrente;
+
+b) Revisão das margens de agregação: adequação das margens de agregação fixadas na legislação tributária às mudanças de mercado;
+
+c) Revisão de Benefícios Fiscais - Comércio: adequação da carga tributária incidente sobre mercadorias que estão em desarmonia com o mercado;
+
+d) Ampliação da Substituição Tributária: a Substituição Tributária vem se tornando um mecanismo seguro de recebimento de receitas; a inclusão de novas mercadorias com difícil perfil de ação fiscal, implicará em menor custo de fiscalização e agilizará o recebimento dessa receita;
+
+e) Ampliação da Antecipação Parcial do ICMS: a Antecipação Parcial representa uma modalidade importante de obtenção de receita sem implicar em impacto negativo para o contribuinte. Esta ampliação compreende a criação de um percentual adicional, ainda que de valor diminuto;
+
+f) Intensificar a Fiscalização Itinerante: importante instrumento de ação fiscal, a fiscalização itinerante tem como principais objetivos a educação fiscal e o conseqüente incremento da receita do ICMS. Serão montidas 18 equipes de agentes fazendários que terão como meta elevar em 20% a arrecadação direta;
+
+g) Aumentar em 20% o número de Contribuintes sob Ação Fiscal: este instrumento tem potencial elevado arrecadação que tem se confirmado nas auditorias realizadas e será utilizado baseado em critérios técnicos tais como: atividade econômica, porte do contribuinte, bem como prática contumaz de irregularidades;
+
+h) Monitorar Contribuintes que utilizam o PED (Processamento Eletrônico de Dados) com emissão de Notas Fiscais: mais um poderoso instrumento de ação fiscal proporcionado pela modernização tecnológica em curso na Secretaria da Fazenda do Estado, que permitirá um controle mais efetivo das operações realizadas pelos contribuintes;
+
+i) Implantação do Sistema Público de Escrituração Digital (SPED Fiscal): outro instrumento de controle que contribuirá de forma efetiva no incremento das Receitas Tributárias.
+
+ESTIMATIVA E COMPENSAÇÃO DA RENÚNCIA DE RECEITA
+
+Demonstrativo VII - Art. 4º, § 2º, Inciso V da LC nº 101, de 04/05/2000
+
+AGRICULTURA E PECUÁRIA 18.615.000 19.545.750 20.523.038
+
+INDÚSTRIA 74.460.000 78.183.000 82.092.150
+
+COMÉRCIO 31.025.000 32.576.250 34.205.063
+
+IPVA Contribuintes Diversos 3.581.693 3.760.777 3.948.816
+
+127.681.693 134.065.777 140.769.066 -
+
+TRIBUTO COMPENSAÇÃO MODALIDADE SETORES/ PROGRAMAS/
+
+BENEFICIÁRIO
+
+RENÚNCIA DE RECEITA PREVISTA
+
+Detalhamento abaixo ICMS IMPOSTO
+
+TOTAL
+
+MEDIDAS COMPENSATÓRIAS PARA 2009
+
+VALOR MÍNIMO
+
+43.003.194
+
+43.003.194
+
+56.269.322
+
+2.1 - Revisão das Margens de Agregação 10.188.999
+
+2.2 - Revisão de Benefícios Fiscais - Comércio 14.938.758
+
+2.3 - Ampliação da Substituição Tributária do ICMS 13.955.609
+
+2.4 - Ampliação da Antecipação Parcial do ICMS 17.185.956
+
+3.0 - Ações de Fiscalização 28.409.177
+
+3.1 - Intensificação da Fiscalização Itinerante 7.265.089
+
+3.2 - Aumento do nº de Contribuintes sob Ação de Fiscalização 15.998.516
+
+3.3 - Monitoramento de Contribuintes que utilizam o PED ( * ) - Sintegra e 5.145.572
+
+127.681.693 TOTAL
+
+1.0 - Controles Administrativos
+
+1.1 - Implantação do Sistema Corporativo ( SIAT )
+
+2.0 - Administração Tributaria
+
+( * ) PED - Processamento Eletrônico de Dados FONTE: SEFAZ-PI / Unidade de Administração Tributária -UNATRI
+
+Demonstrativo VIII Margem de Expansão das Despesas Obrigatórias de Caráter
+
+Continuado (Art. 4º, § 2º, Inciso V da LC nº 101, de 04/05/2000)
+
+A estimativa da Margem de Expansão das Despesas Obrigatórias de Caráter Continuado é requisito introduzido pela Lei de Responsabilidade Fiscal-LRF, Lei Complementar nº 101, de 04/05/2004, para assegurar que não haverá criação de nova despesa sem fontes consistentes de financiamento, entendidas estas como aumento permanente de receita ou redução permanente de despesa.
+
+O artigo 17 da LRF, em seu caput, define como obrigatória de caráter continuado a despesa corrente derivada de lei, medida provisória ou ato administrativo que fixe para o ente a obrigação legal de sua execução por um período superior a dois exercícios.
+
+De outra parte, considera-se aumento permanente de receita aquele proveniente de elevação de alíquotas, ampliação de base de cálculo, majoração ou criação de tributo ou contribuição (§ 3º do art. 17 da LRF).
+
+A presente estimativa está ancorada na ampliação da base de cálculo do ICMS e da Cota-Parte do FPE em 4,00%, levou em consideração o crescimento real do Produto Interno Bruto-PIB do Estado, estimado em 5,00% para o período, e, especialmente, a implantação do Sistema Integrado de Administração Tributária – SIAT, que possibilitará a execução, o acompanhamento e o controle da ação fiscal e tributária via on-line, inclusive o monitoramento de empresas sob ação fiscal. Este poderoso e eficaz instrumento, em franca operacionalização no corrente ano, seguramente afetará muito positivamente a receita própria do Estado.
+
+Assim, considerando-se algumas novas despesas específicas, a margem líquida de expansão estimada é da ordem de R$ 26,22 milhões, conforme demonstrativo a seguir:
+
+Demonstrativo VIII - LRF, art.4º, §2º, inciso V, Portaria STN Nº 575/2007 e Resolução TCE 1.604/2007
+
+Aumento Permanente da Receita 127.936.730
+
+(-) Transferências Constitucionais 13.633.506
+
+(-) Transferências ao FUNDEB 14.680.541
+
+Saldo Final do Aumento Permanente de Receita (I) 99.622.683
+
+Redução Permanente de Despesa (II) 0
+
+Margem Bruta (III) = (I+II) 99.622.683
+
+Saldo Utilizado da Margem Bruta (IV) 73.400.000
+
+Impacto do aumento do Salário Mínimo 7.000.000
+
+Reajsutes salariais / Promoções 29.500.000
+
+Planos de Cargos, Carreiras e Salários 11.000.000
+
+Novas contratações de Pessoal 25.000.000
+
+Manutenção e custeio de novos equipamentos 900.000
+
+Novas DOCC geradas por PPP -
+
+Margem Líquida de Expansão de DOCC (V) = (III-IV) 26.222.683
+
+EVENTOS Valor Previsto para 2009
+
+FONTE: SEFAZ-PI / Coordenação de Estudos Econômico Fiscais - COEFI e SEAD-PI / Unidade de Gestão de Pessoas Nota: (*) ampliação da base de cálculo do ICMS e da Cota-Parte do FPE em 4,0%.
+
+ANEXO III - RISCOS FISCAIS
+
+Demonstrativo de Riscos Fiscais e Providências
+
+(Art. 4º, § 3º, da LC nº 101, de 04/05/2000)
+
+A Lei de Responsabilidade Fiscal – LRF estabeleceu que a Lei de Diretrizes Orçamentárias deve conter o Anexo de Riscos Fiscais, com a avaliação dos passivos contingentes e de outros riscos fiscais capazes de afetar as contas públicas quando da elaboração do orçamento anual.
+
+Riscos Fiscais são a possibilidade de ocorrência de eventos, que, por incertos, podem causar impacto negativo nas receitas públicas e são classificados em dois grupos: riscos orçamentários e riscos decorrentes da gestão da dívida.
+
+Os riscos orçamentários referem-se a frustração de arrecadação, a restituição de tributos não prevista ou prevista a menor, diminuição da atividade econômica e situações de calamidade pública, dentre outros.
+
+Os riscos de gestão da dívida referem-se a ocorrências externas à administração, tais como variação da taxa de câmbio e de juros que afetem as obrigações vincendas.
+
+Desse modo, sopesados as possíveis ocorrências, estimou-se um risco de aproximadamente R$ 35,25 milhões para o exercício de 2009, conforme demonstrativo que segue.
+
+LRF, art 4º, § 3º - Portaria STN 574/2007 e Resolução TCE Nº 1.604/2007
+
+R$ 1,00
+
+Descrição Valor Descrição Valor -Estiagem prolongada e enchentes 10.000.000 15.000.000
+
+-Condenações Judiciais 250.000
+
+25.000.000 20.250.000 TOTAL 35.250.000 TOTAL 35.250.000
+
+RISCOS FISCAIS PROVIDÊNCIAS
+
+- Abertura de créditos adicionais a partir da Reserva de Contigência
+
+-Pagamento de Juros da dívida maior que o orçado - Abertura de créditos adicionais a partir de anulação de despesas
+
+FONTE: SEFAZ-PI / Coordenação de Estudos Econômico-Fiscais – COEFI
+
+METAS ANUAIS Demonstrativo I - LRF, art. 4º, § 1º - Portaria STN Nº 575/2007 e Resolução TCE/1.604/2007
+
+% PIB Valor Valor % PIB Valor Valor % PIB (a / PIB) Corrente Constante (b / PIB) Corrente Constante (c / PIB) x 100 (b) x 100 (c) x 100 Receita Total 4.404.244 4.214.587 32,88 4.822.647 4.614.973 34,29 5.280.798 5.053.396 35,76 Receitas Primárias (I) 4.290.881 4.106.107 32,04 4.698.515 4.496.187 33,41 5.144.874 4.923.325 34,84 Despesa Total 4.404.244 4.214.587 32,88 4.822.647 4.614.973 34,29 5.280.798 5.053.396 35,76 Despesas Primárias (II) 3.996.872 3.824.758 29,84 4.376.575 4.188.110 31,12 4.792.349 4.585.980 32,45
+
+Resultado Primário (III) = (I – II) 294.010 281.349 2,20 321.941 308.077 2,29 352.525 337.345 2,39 Resultado Nominal -74.357 -71.155 -0,56 -160.874 -153.946 -1,14 332.288 317.979 2,25 Dívida Pública Consolidada 2.236.625 2.140.311 16,70 2.449.104 2.343.641 17,41 2.547.069 2.425.780 17,25 Dívida Consolidada Líquida 1.851.135 1.771.421 13,82 2.026.993 1.939.706 14,41 2.108.073 2.007.688 14,28
+
+Valor Corrente
+
+(a) Valor Constante
+
+FONTE:
+
+1) SEFAZ-PI / COEFI - Projeções das receitas. A Receita Total é o resultado do somatório das Receitas Correntes, Receitas de Capital e Receitas Intra-orçamentárias (R$ 5.375.280.151), deduzidas as Transferências Constitucionais para os municípios e as Contribuições para o FUNDEB (R$ 971.036.453);
+
+2) SEFAZ-PI / Unidade de Controle Contábil - UNICON - Projeções dos Juros, Encargos e Amortização da Dívida; Resultado Nominal, Dívida Consolidada e Dívida Consolidada Líquida.
+
+Nota: O cálculo das metas foi realizado considerando-se os Parâmetros Macroeconômicos Projetados:
+
+VARIÁVEIS 2009 2010 2011
+
+5,00 5,00 5,00
+
+4,50 4,50 4,50
+
+1,85 1,91 1,94
+
+13.393.898 14.063.593 14.766.773
+
+Câmbio ( R$ / US$ - final de dezembro)
+
+PIB - Crescimento real (%)
+
+IPCA (%)
+
+PIB do Estado (R$ milhares) FONTE: LDO da União para 2009 e SEPLAN/SEFAZ-PI.
+
+AVALIAÇÃO DO CUMPRIMENTO DAS METAS FISCAIS DO EXERCÍCIO ANTERIOR Demonstrativo II - LRF, art. 4º, §2º, inciso I - Portaria STN Nº 575/2007 e Resolução TCE Nº 1.604/2007
+
+Valor %
+
+Receita Total 3.072.287 32,94 3.499.403 28,80 427.116 13,90
+
+Receitas Primárias (I) 2.775.799 29,76 3.750.553 30,87 974.754 35,12
+
+Despesa Total 3.072.287 32,94 3.771.611 31,05 699.324 22,76
+
+Despesas Primárias (II) 2.543.873 27,27 3.276.947 26,97 733.074 28,82
+
+Resultado Primário (III) = (I–II) 231.926 2,49 473.606 3,90 241.680 104,21
+
+Resultado Nominal 6.387 0,07 121.806 1,00 115.419 1.807,09
+
+Dívida Pública Consolidada - - 2.584.916 21,28 - -
+
+Dívida Consolidada Líquida - - 2.380.281 19,59 - -
+
+% PIB ESPECIFICAÇÃO Metas Previstas
+
+em 2007 (I) % PIB Metas Realizadas
+
+em 2007 (II)
+
+Variação (II-I)
+
+FONTE: LOA 2007, Balanço Geral 2007 e RREO 6º Bimestre de 2007.
+
+Nota: valores do PIB previsto para 2007, conforme abaixo:
+
+VARIÁVEIS Valor - R$ milhares
+
+PIB previsto em 2007 9.328.099
+
+PIB - previsão atual para 2007 12.148.660 FONTE: LDO 2008, FIBGE e Projeções SEFAZ/COEFI.
+
+METAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES
+
+Demonstrativo III - (LRF, art.4º, §2º, inciso II; Portaria STN Nº 575/2007 e Resolução TCE Nº 1.604/2007
+
+Receita Total 2.608.292 3.072.287 17,79 3.760.212 22,39 4.404.244 17,13 4.822.647 9,50 5.280.798 9,50 Receitas Primárias (I) 2.560.690 2.775.799 8,40 3.624.080 30,56 4.290.881 18,40 4.698.515 9,50 5.144.874 9,50 Despesa Total 2.608.292 3.072.287 17,79 3.760.212 22,39 4.404.244 17,13 4.822.647 9,50 5.280.798 9,50 Despesas Primárias (II) 2.433.032 2.543.873 4,56 3.383.458 33,00 3.996.872 18,13 4.376.575 9,50 4.792.349 9,50 Resultado Primário (III) 127.658 231.926 81,68 240.622 3,75 294.010 22,19 321.941 9,50 352.525 9,50 Resultado Nominal 34.548 6.387 -81,51 102.564 1.505,82 -74.357 -172,50 -160.874 116,35 332.288 306,55 Dívida Pública Consolida 2.684.755 2.539.702 -5,40 2.368.894 -6,73 2.236.625 -5,58 2.449.104 9,50 2.547.069 4,00 Dívida Consolidada Líqui 2.262.084 2.380.281 5,23 1.954.448 -17,89 1.851.135 -5,29 2.026.993 9,50 2.108.073 4,00
+
+%
+
+VALORES A PREÇOS CORRENTES
+
+% 2008 2010 2006 2007 % % 2009 2011 %
+
+Receita Total 2.528.885 2.939.988 16,26 3.598.289 22,39 4.214.587 17,13 4.614.973 9,50 5.053.396 9,50 Receitas Primárias (I) 2.482.732 2.656.267 6,99 3.468.019 30,56 4.106.107 18,40 4.496.187 9,50 4.923.325 9,50 Despesa Total 2.528.885 2.939.988 16,26 3.598.289 22,39 4.214.587 17,13 4.614.973 9,50 5.053.396 9,50 Despesas Primárias (II) 2.358.961 2.434.328 3,19 3.237.759 33,00 3.824.758 18,13 4.188.110 9,50 4.585.980 9,50 Resultado Primário (III) 123.772 221.939 79,31 230.260 3,75 281.349 22,19 308.077 9,50 337.345 9,50 Resultado Nominal 33.496 6.112 -81,75 98.147 1.505,82 -71.155 -172,50 -153.946 116,35 317.979 306,55 Dívida Pública Consolida 2.603.020 2.430.337 -6,63 2.266.884 -6,73 2.140.311 -5,58 2.343.641 9,50 2.425.780 3,50 Dívida Consolidada Líqui 2.193.217 2.277.781 3,86 1.870.285 -17,89 1.771.421 -5,29 1.939.706 9,50 2.007.688 3,50
+
+2006 2007 2008 2009 % % % % % 2010
+
+VALORES A PREÇOS CONSTANTES
+
+FONTE: LOAS's de 2006, 2007 e 2008; SEFAZ-PI / Coordenação de Estudos Econômico-Fiscais - COEFI e Unidade de Controle Contábil - UNICON Nota: Para o comparativo foram adotadas as metas fiscais estabelecidas nas Leis Orçamentárias Anuais.
+
+EVOLUÇÃO DO PATRIMÔNIO LÍQUIDO Demonstrativo IV - LRF, art.4º, §2º, inciso III, Portaria STN nº 575/2007 e Resolução TCE nº 1.604/2007
+
+Patrimônio/Capital (768.579) (100) (800.875) (100) (985.905) (100)
+
+Reservas - - - - - -
+
+Resultado Acumulado - - - - - -
+
+TOTAL (768.579) (100) (800.875) (100) (985.905) (100)
+
+PATRIMÔNIO LÍQUIDO 2007 % 2006 % 2005 %
+
+PATRIMÔNIO LÍQUIDO 2007 % 2006 % 2005 %
+
+Patrimônio (56.355) (100) (39.765) (100) 122.978 (100) Reservas - - - - - - Lucros ou Prejuízos Acumulados - - - - - -
+
+TOTAL (56.355) (100) (39.765) (100) 122.978 (100)
+
+REGIME PREVIDENCIÁRIO
+
+FONTE: SEFAZ-PI / Unidade de Controle Contábil - UNICON - Balanços do Estado e SIAFEM Nota: as situações negativas se devem ao fato de os bens serem registrados pelos valores de aquisição.
+
+ORIGEM E APLICAÇÃO DOS RECURSOS OBTIDOS COM A ALIENAÇÃO DE ATIVOS
+
+Demonstrativo V - LRF, art.4º, §2º, inciso III; Portaria STN Nº 575/2007 e Resolução TCE 1.604/2007
+
+RECEITAS DE CAPITAL 479,14 13.701,18 5.585,22 ALIENAÇÃO DE ATIVOS 479,14 13.701,18 5.585,22 Alienação de Bens Móveis 459,79 13.701,18 388,40 Alienação de Bens Imóveis 19,35 - 5.196,82 TOTAL 479,14 13.701,18 5.585,22
+
+RECEITAS REALIZADAS 2007 (a)
+
+2006 (d)
+
+APLICICAÇÃO DOS RECURSOS DA ALIENAÇÃO DE ATIVOS 808,61 13.701,18 5.585,22
+
+DESPESAS DE CAPITAL 808,61 13.701,18 5.585,22 Investimentos 808,61 13.701,18 5.585,22 Inversões Financeiras - - - Amortização da Dívida - - DESPESAS CORRENTES DOS REGIMES DE PREVIDÊNCIA - - - Regime Geral de Previdência Social - - - Regimes Próprios dos Servidores Públicos - - - TOTAL 808,61 13.701,18 5.585,22
+
+(c) = (a-b)+(f) (f)=(d-e)+(g) (g) (329,48) - -
+
+2007 (b)
+
+SALDO FINANCEIRO
+
+DESPESAS LIQUIDADAS
+
+2006 (e)
+
+FONTE: SEFAZ-PI / Unidade de Controle Contábil - UNICON / RREO - 6º Bimestre.
+
+RECEITAS E DESPESAS PREVIDENCIÁRIAS DO RPPS Demonstrativo VI - LRF, art.4º, §2º, inciso IV, alínea "a" - Portaria STN Nº 575/2007 e
+
+Resolução TCE 1.604/2007
+
+RECEITAS PREVIDENCIÁRIAS - RPPS (EXCETO INTRA-ORÇAMENTÁRIAS) 79.104,78 109.174,55 117.224,95 79.103,19 109.173,07 117.223,37
+
+78.263,93 106.129,25 114.283,23
+
+68.708,54 94.620,62 102.738,74
+
+9.555,39 11.508,62 11.544,49
+
+701,42 1.440,07 98,68
+
+137,84 1.603,76 2.841,46
+
+238,47 967,67
+
+137,84 1.365,30 1.873,79
+
+1,59 1,47 1,58
+
+Amortização de Empréstimos
+
+1,59 1,47 1,58
+
+RECEITAS PREVIDENCIÁRIAS - RPPS (INTRA-ORÇAMENTÁRIAS) 160.453,38 199.358,32 223.438,50
+
+160.453,38 199.358,32 223.438,50
+
+160.453,38 199.358,32 223.438,50
+
+140.501,84 178.009,35 200.200,93
+
+19.951,55 21.348,97 23.237,57
+
+Amortização de Empréstimos
+
+141.137,49 147.453,89 197.780,42
+
+OUTROS APORTES AO RPPS
+
+380.695,65 455.986,75 538.443,88
+
+DESPESAS PREVIDENCIÁRIAS - RPPS (EXCETO INTRA-ORÇAMENTÁRIAS) 265.049,52 642.392,39 565.019,28 172,71 1.477,66 39.367,63
+
+172,71 1.374,44 39.261,15
+
+0 103,22 106,48
+
+264.876,80 640.914,72 525.651,66
+
+220.563,03 640.914,72 525.651,66
+
+44.313,78 0 0
+
+DESPESAS PREVIDENCIÁRIAS - RPPS (INTRA-ORÇAMENTÁRIAS)
+
+RESERVA DO RPPS
+
+265.049,52 642.392,39 565.019,28
+
+115.646,13 -186.405,64 -26.575,41
+
+14.071,87 1.560,29 23.432,24
+
+RECEITAS PREVIDENCIÁRIAS 2005 2006 2007
+
+RECEITAS CORRENTES
+
+Receita de Contribuições
+
+Pessoal Civil
+
+Pessoal Militar
+
+Receita Patrimonial
+
+Receita de Serviços
+
+Outras Receitas Correntes
+
+Compensação Previdenciária do RGPS para o RPPS
+
+Demais Receitas Correntes
+
+RECEITAS DE CAPITAL
+
+Alienação de Bens
+
+Outras Receitas de Capital
+
+RECEITAS CORRENTES
+
+Receita de Contribuições
+
+Pessoal Civil
+
+Pessoal Militar
+
+Alienação de Bens
+
+Outras Receitas de Capital
+
+REPASSES PREVIDENCIÁR P/ COBERTURA DE DÉFICIT ATUARIAL - RPPS
+
+Contribuição Previdenciária para Cobertura de Déficit Atuarial
+
+Contribuição Previdenciária em Regime de Débitos e Parcelamentos
+
+Receita Patrimonial
+
+Outras Receitas Correntes
+
+RECEITAS DE CAPITAL
+
+ADMINISTRAÇÃO
+
+Despesas Correntes
+
+REPASSES PREVIDENCIÁR P/ COBERTURA DE DÉFICIT FINANCEIRO - RPPS
+
+TOTAL DAS RECEITAS PREVIDENCIÁRIAS (I)
+
+DESPESAS PREVIDENCIÁRIAS 2005 2006
+
+RESULTADO PREVIDENCIÁRIO (III) - (I – II)
+
+Outras Despesas Previdenciárias
+
+Compensação Previdenciária do RPPS para o RGPS
+
+Demais Despesas Previdenciárias
+
+ADMINISTRAÇÃO
+
+Despesas Correntes
+
+Despesas de Capital
+
+TOTAL DAS DESPESAS PREVIDENCIÁRIAS (II)
+
+Despesas de Capital
+
+PREVIDÊNCIA SOCIAL
+
+Pessoal Civil
+
+Pessoal Militar
+
+SALDO DAS DISPONIBILIDADES FINANCEIRAS E INVESTIMENTOS DO RPPS FONTE: SEFAZ-PI / Unidade de Controle Contábil - UNICON / RREO - 6º Bimestre.
+
+PROJEÇÃO ATUARIAL DO RPPS Demonstrativo VI. 1 - LRF, art.4º, § 2º, inciso IV, alínea 'a;' Portaria STN Nº
+
+575/2007 e Resolução TCE 1.604/2007
+
+R$ milhares RECEITAS PREVIDENCIÁRIAS
+
+DESPESAS PREVIDENCIÁRIAS
+
+RESULTADO PREVIDENCIÁRIO (a) (b) (c) = (a-b) 2006 226.404,50 431.291,93 -204.887,42 -204.887,42
+
+2007 292.512,93 418.828,41 -126.315,48 -331.202,90
+
+2008 283.965,80 636.892,75 -352.926,95 -684.129,85
+
+2009 284.008,18 648.163,04 -364.154,86 -1.048.284,71
+
+2010 284.014,79 664.056,58 -380.041,80 -1.428.326,51
+
+2011 283.769,55 680.780,26 -397.010,71 -1.825.337,22
+
+2012 283.603,67 696.594,43 -412.990,76 -2.238.327,98
+
+2013 283.400,66 713.175,18 -429.774,52 -2.668.102,49
+
+2014 283.133,77 728.272,71 -445.138,93 -3.113.241,43
+
+2015 283.090,79 740.727,01 -457.636,23 -3.570.877,65
+
+2016 282.985,91 750.609,94 -467.624,03 -4.038.501,68
+
+2017 282.956,77 759.409,24 -476.452,47 -4.514.954,15
+
+2018 282.814,73 767.976,25 -485.161,52 -5.000.115,67
+
+2019 282.979,21 778.651,67 -495.672,46 -5.495.788,13
+
+2020 282.751,41 791.251,11 -508.499,69 -6.004.287,82
+
+2021 282.771,37 801.565,06 -518.793,68 -6.523.081,51
+
+2022 282.827,34 805.926,98 -523.099,63 -7.046.181,14
+
+2023 282.805,93 810.452,58 -527.646,65 -7.573.827,79
+
+2024 282.758,99 812.837,42 -530.078,43 -8.103.906,22
+
+2025 282.617,06 816.635,49 -534.018,44 -8.637.924,66
+
+2026 282.729,68 816.032,38 -533.302,70 -9.171.227,36
+
+2027 282.964,40 814.781,78 -531.817,38 -9.703.044,74
+
+2028 283.608,37 820.225,20 -536.616,83 -10.239.661,57
+
+2029 283.527,48 822.950,08 -539.422,60 -10.779.084,17
+
+2030 283.525,64 827.014,98 -543.489,33 -11.322.573,50
+
+2031 283.601,82 828.553,28 -544.951,46 -11.867.524,97
+
+2032 283.517,76 827.386,61 -543.868,85 -12.411.393,82
+
+2033 283.718,36 829.353,86 -545.635,50 -12.957.029,31
+
+2034 283.678,45 828.829,84 -545.151,39 -13.502.180,70
+
+2035 283.696,19 828.728,98 -545.032,80 -14.047.213,50
+
+2036 283.594,13 827.436,34 -543.842,21 -14.591.055,71
+
+2037 283.649,12 830.499,15 -546.850,02 -15.137.905,73
+
+2038 283.433,87 834.041,87 -550.608,00 -15.688.513,73
+
+2039 282.847,94 835.629,29 -552.781,35 -16.241.295,07
+
+2040 282.610,67 838.832,99 -556.222,32 -16.797.517,40
+
+2041 281.998,71 839.427,04 -557.428,34 -17.354.945,73
+
+2042 281.345,62 834.396,58 -553.050,96 -17.907.996,69
+
+SALDO FINANC DO EXERCICIO
+
+(d) = "d" exercício anterior + "c" EXERCÍCIO
+
+FONTE: SEFAZ-PI / Unidade de Controle Contábil - UNICON / RREO - 6º Bimestre.
