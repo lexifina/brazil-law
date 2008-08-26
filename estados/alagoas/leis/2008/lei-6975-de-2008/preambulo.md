@@ -1,0 +1,5 @@
+LEI Nº 6.975, DE 25 DE AGOSTO DE 2008. Alterada pela Lei n° 7.406, de 23 de agosto de 2012. O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE ALAGOAS, no uso das atribuições que lhe confere o parágrafo 6º do artigo 89 da Constituição Estadual, promulga a seguinte Lei:
+
+INSTITUI A GRATIFICAÇÃO DE DEDICAÇÃO EXCEPCIONAL A SERVIDORES DO PODER LEGISLATIVO ESTADUAL E DÁ AOUTRAS PROVIDÊNCIAS.
+
+A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE ALAGOAS decreta:
