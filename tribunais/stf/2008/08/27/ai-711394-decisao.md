@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO E PROCESSUAL. EXECUÇÃO FISCAL. 1. COMPATIBILIDADE DO ART. 34 DA LEI N. 6.830/80 COM A CONSTITUIÇÃO DA REPÚBLICA DE 1988. PRECEDENTE. 2. EXTINÇÃO DO PROCESSO POR FALTA DE INTERESSE DE AGIR. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. 3. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“EXECUÇÃO FISCAL. VALOR ÍNFIMO. RECURSO CABÍVEL. EMBARGOS INFRINGENTES. ART. 34 DA LEF. O art. 34 da Lei de Execuções Fiscais, recepcionado pela Constituição de 1988, dispõe que, das sentenças de primeira instância proferidas em execuções de valor igual ou inferior a 50 (cinqüenta) Obrigações Reajustáveis do Tesouro Nacional - ORTN, só se admitirão embargos infringentes e de declaração. A extinção da ORTN não derrogou o art. 34 da LEF, pois é possível apurar o valor de alçada pela equivalência com os indexadores subseqüentes. Atualmente, 50 ORTN´s equivalem a 308,50 UFIRs, que, por sua vez, devem ser atualizados pelo IPCA-E após a extinção da UFIR em dezembro de 2000. No presente caso, não superado o valor de alçada recursal, não se pode conhecer da apelação interposta. Incabível a aplicação do princípio da fungibilidade, pois não há como reconhecer a escusabilidade do erro cometido pela recorrente a teor dos inúmeros precedentes acerca da matéria” (fl. 46).
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta.
+3. A Agravante alega que o Tribunal a quo teria contrariado o art. 108, inc. II, da Constituição da República.
+Argumenta que “exsurge, pois, à toda evidência, que, no plano da teoria da recepção constitucional, diante do estatuído no art. 108, II, da CF/88 operou-se a revogação tácita do art. 34 da Lei n. 6.830/80” (fl. 75).
+Requer seja declarada “a incompatibilidade do art. 34 da Lei n. 6.830/80 com a atual ordem constitucional” (fl. 76).
+Examinada a matéria posta à apreciação, DECIDO.
+4. Em preliminar, é de se ressaltar que, apesar de ter sido a parte recorrente intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso extraordinário.
+5. A jurisprudência deste Supremo Tribunal Federal firmou-se no sentido de que o art. 108, inc. II, da Constituição da República não revogou o art. 34 da Lei n. 6.830/80. Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONALIDADE DA LEI 6.830/80. SUPERVENIÊNCIA DO ARTIGO 108, II, DA CB/88. REVOGAÇÃO TÁCITA. NÃO OCORRÊNCIA. PRECEDENTE. 1. Este Supremo Tribunal Federal já decidiu que o artigo 108, inciso II, da Constituição do Brasil, não revogou tacitamente o disposto do artigo 34 da Lei 6.830/80. Agravo regimental a que se nega provimento” (AI 710.921-AgR, Rel. Min. Eros Grau, Segunda Turma, DJE 27.6.2008).
+6. Ainda que pudesse ser ultrapassado esse óbice - o que não se dá na espécie -, melhor sorte não acudiria o pleito da Agravante, pois o reexame do acórdão impugnado demandaria a análise prévia de legislação infraconstitucional. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. INTERESSE DE AGIR. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 599.258-AgR, de minha relatoria, Primeira Turma, DJ 21.9.2007).
+E ainda:
+“Agravo regimental. Execução fiscal. Extinção. Falta de interesse de agir. - Necessidade de exame prévio de norma infraconstitucional para a verificação de contrariedade ao Texto Maior. - Caracterização de ofensa reflexa ou indireta. Agravo regimental a que se nega provimento” (AI 327.033-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 12.11.2004).
+7. Nada há, pois, a prover quanto às alegações da parte agravante.
+8. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 27 de agosto de 2008.
+Ministra CÁRMEN LÚCIA
+Relatora
