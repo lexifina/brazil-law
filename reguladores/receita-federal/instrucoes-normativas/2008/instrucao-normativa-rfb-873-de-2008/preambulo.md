@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 873, de 26 de agosto de 2008
+Aprova o texto dos pareceres de classificação do Comitê do Sistema Harmonizado da Organização Mundial das Alfândegas (OMA) e adota decisões correspondentes.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e de acordo com o disposto no item 2 do artigo 3º, combinado com o item 2 do artigo 8º da Convenção Internacional sobre o Sistema Harmonizado de Designação e de Codificação de Mercadorias, aprovada no Brasil pelo Decreto Legislativo nº 71, de 11 de outubro de 1988, e promulgada pelo Decreto nº 97.409, de 23 de dezembro de 1988, resolve:
