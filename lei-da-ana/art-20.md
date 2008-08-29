@@ -9,5 +9,3 @@ VII - o produto resultante da arrecadação de multas aplicadas em decorrência 
 VIII - os valores apurados com a venda ou aluguel de bens móveis e imóveis de sua propriedade;
 IX - o produto da alienação de bens, objetos e instrumentos utilizados para a prática de infrações, assim como do patrimônio dos infratores, apreendidos em decorrência do exercício do poder de polícia e incorporados ao patrimônio da autarquia, nos termos de decisão judicial; e
 X - os recursos decorrentes da cobrança de emolumentos administrativos.
-XI - a taxa de fiscalização a que se refere o art. 19-A desta Lei, e outras receitas que vierem a ser instituídas em função da atuação da ANA na regulação e fiscalização dos serviços de adução de água bruta.
-Parágrafo único. Os recursos previstos no inciso XI deste artigo serão destinados ao custeio das despesas decorrentes das atividades de fiscalização e regulação referidas no art. 4º, inciso XIX, desta Lei.
