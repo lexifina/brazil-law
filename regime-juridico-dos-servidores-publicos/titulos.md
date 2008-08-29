@@ -100,6 +100,8 @@ Seção II
 Do Afastamento para Exercício de Mandato Eletivo
 Seção III
 Do Afastamento para Estudo ou Missão no Exterior
+Seção IV
+Do Afastamento para participação em programa de pós-graduação stricto sensu no país
 Do Afastamento para Participação em Programa de Pós-Graduação Stricto Sensu no País
 Capítulo VI
 Das Concessões
