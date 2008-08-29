@@ -1,0 +1,75 @@
+DESPACHO
+
+HABEAS CORPUS. NECESSIDADE DE INFORMAÇÕES ADICIONAIS ANTES DE SER APRECIADO O PEDIDO DE LIMINAR.
+
+						Relatório
+
+1.	Habeas Corpus, com pedido de liminar, impetrado pelo advogado LUIZ FERNANDO COMEGNO em favor de RODOLFO SAUL LORENÇO, contra decisão da eminente Ministra JANE SILVA, do Superior Tribunal de Justiça, que, em 1º de agosto de 2008, concedeu em parte a ordem requerida nos autos do Habeas Corpus n. 104.843, verbis:
+
+“Trata-se de habeas corpus substitutivo de recurso ordinário impetrado em benefício de RODOLFO SAUL LOURENÇO, no qual alegou suportar ilegal coação exercida pelo Tribunal de Justiça do Estado de São Paulo.
+Originalmente, o advogado Luiz Fernando Comegno impetrou ordem de habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, com pedido liminar, em favor de RODOLFO SAUL LOURENÇO, sob o fundamento de que sofria ele constrangimento ilegal por parte do MM. Juiz de Direito da 3a Vara Criminal da Comarca de Bauru, uma vez que, denunciado e processado por incurso no artigo 171, caput e artigo 171, § 2º, inciso I, ambos do Código Penal, não localizado para ser interrogado, teve decretada a prisão preventiva, embora não procurado em todos os endereços dos autos, o que tornou nulo o processo, de pleno direito.
+Aduziu, ainda, que em decorrência, reconhecida a revelia, o processo foi suspenso, assim como o prazo prescricional, e deferida a produção antecipada de provas, com base na Lei n° 9271/96.
+Alegou que o ato citatório foi concluído de forma irregular, pois constando nos autos 4 (quatro) endereços, só foi procurado em 1 (um), o que torna nulo o processo.
+O processo foi suspenso nos termos do art. 366 do CPP (fl. 374).
+A 9ª Câmara do 5ª Grupo da Seção Criminal do Tribunal de Justiça do Estado de São Paulo denegou a ordem nos seguintes termos:
+'(...) (o paciente) não foi localizado para citação pessoal, o que deu ensejo à citação editalícia, e decreto fundamentado de prisão preventiva. Declarado revel, suspenso o processo e o curso do prazo prescricional, a prova testemunhai foi antecipadamente colhida, nos termos da Lei n° 9.271/96, fls. 49/50. Posteriormente, o acusado constituiu defensor, o que ensejou a revogação da suspensão do processo, com regular prosseguimento do feito, agora, na fase do artigo 499, do Código de Processo Penal. (...)
+Ofertada e recebida a denúncia, expedido mandado para citação do paciente, onde constou como seu endereço residencial rua Jurandir Ladeira e Al. Flor do Amor, locais onde foi procurado e não encontrado, o que ensejou a citação por edital, com as conseqüências decorrentes. (...) Aliás, foi procurado nos dois endereços fornecidos nos autos, não se obtendo êxito em sua localização, autorizando-nos a conclusão de que se encontrava em lugar incerto e não sabido, tanto que não cumprido o mandado de prisão preventiva nos locais informados. Ainda, tinha o paciente conhecimento do processo, tanto que constituiu Defensor. (...) Na verdade, bem examinados os elementos do processo, salta aos olhos que a D. Autoridade impetrada diligenciou nos endereços fornecidos, de sorte que a citação edital sobrou como a última solução possível para que o processo tivesse seguimento normal.'
+O impetrante afirma que, não encontrado para citação pessoal, foi expedido edital de citação. Todavia, informa não terem sido esgotadas todas as tentativas de citação pessoal, sendo certo que havia nos autos outros endereços em que poderia ser encontrado. Acrescenta que sua prisão provisória já perdura por mais de noventa dias sem que tenha sido sequer interrogado.
+Alega, também, que os requisitos para sua prisão preventiva não se encontram presentes diante dos fatores concretos do processo. Aduz ser primário e possuidor de residência fixa e ocupação lícita. Requereu o deferimento da medida liminar a fim de que seja imediatamente expedido alvará de soltura em benefício do paciente.
+Indeferida a liminar, foram solicitadas informações ao Tribunal a quo a respeito dos motivos que o levaram a manter intacta a ação penal ajuizada contra o paciente. Após, foi dada vista à Subprocuradoria-Geral da República para parecer, que opinou pela denegação da ordem.
+Relatados, passo à decisão.
+Quanto à alegação de nulidade da citação por edital, verifiquei cuidadosamente as razões apresentadas pelo impetrante e, ao compará-las com a decisão ora impugnada, com as informações prestadas e com os documentos acostados aos autos, vejo que devo acolher sua pretensão.
+O mandado de citação de fl. 76 indicou apenas o endereço sito à Rua Jurandir Ladeira, enquanto que no inquérito existem pelo menos mais três endereços.
+Com base na certidão do oficial de justiça, o juízo de 1º grau decretou a prisão preventiva do paciente sob o fundamento de que seria potencial golpista, com antecedente criminal e respondendo a vários inquéritos e processos, além de ter se furtado à aplicação da lei penal, conforme demonstrava a citação por edital (fl. 82).
+A 9ª Câmara do 5ª Grupo da Seção Criminal do Tribunal de Justiça do Estado de São Paulo denegou a ordem sob o fundamento de que o paciente "foi procurado nos dois endereços fornecidos nos autos, não se obtendo êxito em sua localização, autorizando-nos a conclusão de que se encontrava em lugar incerto e não sabido, tanto que não cumprido o mandado de prisão preventiva nos locais informados".
+Segundo o impetrante, havia quatro endereços distintos nos autos referentes ao paciente, sendo que o Oficial de Justiça, antes de certificar que o acusado se encontrava em local incerto e não sabido, o procurou em apenas dois deles.
+De fato, das certidões referentes ao histórico criminal do paciente consta, dentre alguns outros, o endereço indicado pelo impetrante.
+Vale ressaltar que os agentes de polícia responsáveis pelo inquérito reportaram ao delegado de que a sogra do paciente havia informado que ele poderia ser encontrado na Rua Assumpção, 6-14 (fl. 70).
+Todavia, não obstante a existência de quatro endereços do paciente nos autos, ele foi procurado pelo Oficial de Justiça em apenas dois deles, conforme certificado à fl. 76-verso.
+Logo, está patente a flagrante nulidade do feito, nos moldes do disposto no artigo 564, III, “e” do Código de Processo Penal.
+Dispõe o artigo 361 do Código de Processo Penal que o réu somente será citado por edital caso não encontrado pelo Oficial de Justiça, pois a regra é a citação pessoal, via mandado judicial.
+Portanto, é imprescindível o esgotamento de todos os meios de localização do acusado para que a citação editalícia seja realizada, sob pena de ofensa ao citado dispositivo legal.
+(...)
+Ademais, a nulidade apontada na presente impetração, ora reconhecida, é absoluta e, portanto, insanável, tendo em vista afrontar diretamente as garantias constitucionais da ampla defesa e do contraditório, corolários do devido processo legal. Assim, constitui entendimento pacífico nesta Corte a configuração da aludida nulidade (...) (HC 91.950/SP, Rel. Ministro NILSON NAVES, SEXTA TURMA, julgado em 27.11.2007, DJ 28.04.2008 p. 1) (...) (HC 63.066/PR, Rel. Ministro HAMILTON CARVALHIDO, SEXTA TURMA, julgado em 13.03.2007, DJ 03.09.2007 p. 229) (...) (STJ - HC 49.348/MG - Rel. Min. Paulo Gallotti - Sexta Turma - Pub. No DJ em 20.08.2007, p. 307) (...) (RHC nº 17.983/ES, Relator o Ministro HÉLIO QUAGLIA BARBOSA, DJU de 6/11/2006)
+Quanto à alegação de excesso de prazo, já que o impetrante argumenta que o paciente se encontra preso há 90 dias sem ao menos ter sido interrogado, o tempo legal do processo submete-se ao princípio da razoabilidade, incompatível com o seu exame à luz de só consideração aritmética, sobretudo, por acolhida, no sistema de direito positivo, a força maior, como fato produtor da suspensão do curso dos prazos processuais.
+A espécie dos autos, ao que se tem, não se insere nos casos em que se deve reconhecer ultrapassado o horizonte da razoabilidade, para afirmar a caracterização de constrangimento ilegal numa prisão cautelar.
+A jurisprudência desta Corte demonstra que o critério para se apurar o excesso de prazo é a violação do princípio da razoabilidade, o que não ocorre no caso, uma vez que este foi preso em 12 de dezembro de 2007 em outro estado da federação, além do processo aguardar o cumprimento de carta precatória (fl. 143). Neste sentido: (...) (RHC nº 16.463/SP, Relator Ministro Arnaldo Esteves Lima, in DJ 29/11/2004). (...) (HC nº 27.883/PA, Relatora Ministra Laurita Vaz, in DJ 18/8/2003).
+Quanto à alegação de inexistência de motivos para a prisão preventiva, sem razão o impetrante.
+O juízo de 1º grau decretou a prisão preventiva do paciente sob o fundamento de que, além de ter se furtado à aplicação da lei penal, conforme demonstrava a citação por edital (fl.82), seria potencial golpista, com antecedente criminal e respondendo a vários inquéritos e processos espalhados em inúmeras cidades das redondezas. A decisão, é preciso relevar, cita as cidades em que o paciente responde por estelionato: São Bernardo do Campo, Santa Cruz do Rio Pardo, Santo André, São Caetano do Sul, Bauru, Brotas, Ipuã, Iacanga, Campos Novos Paulista, Guarulhos, além de cidades do Paraná.
+A real periculosidade do réu advinda do modus operandi dos crimes é motivação idônea capaz de justificar o decreto constritivo, por demonstrar a necessidade de se resguardar a ordem pública que ficaria vulnerada com a liberdade dos réus.
+A prisão cautelar, justificada no resguardo da ordem pública, visa prevenir a reprodução de fatos criminosos e acautelar o meio social, retirando do convívio da comunidade o indivíduo que diante do modus operandi demonstra ser dotado de alta periculosidade, pois a prática de crimes contra diversas vítimas pode evidenciar a possibilidade de reiteração criminosa, o que atenta contra a ordem pública.
+Vale ressaltar que eventuais condições pessoais favoráveis do recorrente não garantem o direito subjetivo à revogação da custódia cautelar, quando a prisão é mantida com observância do disposto no art. 312 do Código de Processo Penal (...) (HC 75.352/MT, Rel. Ministra MARIA THEREZA DE ASSIS MOURA,
+SEXTA TURMA, julgado em 25.02.2008, DJ 17.03.2008 p. 1) (...) (HC 95.325/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 22.04.2008, DJ 19.05.2008 p. 1) (...) (STJ - RHC 16.816/PR - Relator: Ministro Felix Fischer - Quinta
+Turma - DJ de 25.04.2005, p. 359). (Grifo nosso).
+A questão é, assim, costumeiramente decidida nesta Corte, conforme demonstram os precedentes, impondo-se, portanto, sua pronta decisão, agilizada a prestação jurisdicional.
+Portanto, é de concluir que, apesar da apontada nulidade da citação editalícia, não há que falar em concessão de liberdade do paciente, visto que a decisão que decretou sua prisão preventiva apontou motivos idôneos para a segregação cautelar, notadamente o risco para a ordem pública decorrente da possibilidade de reiteração delitiva, pois o paciente responde pela prática de estelionato em inquéritos e processos em São Bernardo do Campo, Santa Cruz do Rio Pardo, Santo André, São Caetano do Sul, Bauru, Brotas, Ipuã, Iacanga, Campos Novos Paulista, Guarulhos, além de cidades do Paraná.
+Ante tais fundamentos, concedo a ordem impetrada somente para anular o processo desde a citação editalícia, inclusive.
+Publique-se. Intimem-se. Transitado em julgado, arquive-se” (fls. 39-47 - grifos no original).
+
+	2.	Os Impetrantes reiteram, aqui, as alegações de excesso de prazo da prisão e defendem que a anulação do processo desde a citação contaminaria de nulidade a prisão preventiva, a qual, de resto, teria sido decretada sem a apresentação de fundamentação cautelar idônea.
+
+	Tem-se na impetração:
+
+“(...) se o processo encontra-se nulo desde o ato de citação do réu, todos os demais atos processuais que o sucederam também o estão, inclusive o decreto de prisão preventiva sub judice. De se reconhecer ainda, que a prisão do Paciente não tem razão de ser mantida cautelarmente porque: a) o crime que lhe é imputado (estelionato) não é daqueles cometidos com violência à pessoa; b) há excesso de prazo na formação de sua culpa (está preso já há mais de 08 meses e a instrução irá recomeçar); c) falta de fundamentação no decreto de prisão preventiva; d) ser o Paciente PRIMIÁRIO, trabalhador com profissão digna, com família constituída (2 filhos menores que de si dependem para o sustento e educação, endereço certo e bens de raízes na comarca da culpa); e) que já está preso preventivamente com lapso temporal para (se condenado for) cumprir pena em regime aberto” (fl. 30 - grifos no original).
+
+	3.	Este o teor dos pedidos:
+
+“a) Presentes os pressupostos autorizadores da concessão LIMINAR da ordem (...), seja o presente deferido, LIMINARMENTE, inaudita altera par's, para declarar nulo o decreto de prisão preventiva, eis que, fruit of the poisonous tree, ou, se assim não decidirem Vossas Excelências, que seja o decreto prisional revogado pelo manifesto excesso de prazo na formação da culpa do Paciente e/ou por total falta de fundamentação, concedendo ao Paciente o direito de aguardar em liberdade até o julgamento final do presente writ, onde espera-se que seja a liminar confirmada, revogando-se por conseqüência, o decreto de prisão preventiva do Paciente, comunicando-se a Autoridade-Coatora para seu imediato cumprimento;
+b) (...) em julgamento final, torne definitiva a liminar concedida (...)” (fls. 31-32).
+
+	4.	Examinada a matéria posta à apreciação, DECIDO.
+
+	5.	Antes de apreciar o pedido de liminar, entendo serem necessárias informações complementares.
+
+	6.	Pelo exposto, oficie-se ao Juízo da 3ª Vara Criminal de Bauru - SP, para que: a) preste informações pormenorizadas quanto ao alegado na impetração; b) informe o andamento processual completo e atualizado do processo a partir da data em que decretada a prisão do Paciente; e c) forneça, além de outros documentos que entender pertinentes, as cópias de todas as decisões referentes à prisão preventiva do Paciente.
+
+Remeta-se, com o ofício, a cópia da inicial e do presente despacho.
+
+7.	Prestadas as informações, apreciarei o pedido de liminar.
+
+Publique-se.
+
+Brasília, 29 de agosto de 2008.
+
+Ministra CÁRMEN LÚCIA
+Relatora
