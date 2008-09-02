@@ -1,0 +1,16 @@
+1. 	O Governo de Portugal formulou pedido de extensão da extradição relativamente ao nacional português Paulo Jorge Enes Gonçalves. O Procurador-Geral da República portuguesa assim se pronunciou:
+“No âmbito dos processos 51/03.3TAPRL, 94.03.7TACUB e 273/03.7TAAND, todos apensos ao Processo 12831/03.5TDLSB agora pendente na 6ª Vara Criminal de Lisboa, Paulo Jorge Enes Gonçalves encontra-se acusado pela prática de três crimes de peculato, p. e p. pelo artigo 375°, n° 1 do Código Penal, a que corresponde, em abstracto, a pena de 1 a 8 anos de prisão.
+(...)
+O pedido de ampliação satisfaz os requisitos estabelecidos no Tratado Bilateral de Extradição, de 7 de maio de 1991.”
+2. 	Manifestação do Procurador-Geral da República nos seguintes termos (fls. 670/671):
+“O pedido de extradição originário foi deferido por essa Corte em 11 de setembro de 2007, tendo ocorrido a entrega do extraditando ao Estado Requerente em 15 de outubro do mesmo ano (fls. 539/563 e 628, respectivamente).
+Essa Corte, interpretando a regra inscrita no art. VI do Tratado específico, já decidiu, em situação análoga, que mesmo que o fato objeto do pedido de extensão seja anterior ou contemporâneo ao que deu origem à Extradição, como na hipótese dos autos, deve-se dar prosseguimento ao pedido de extensão caso a ordem de prisão correspondente seja posterior ao pedido originário de extradição.
+Analisando os autos, observa-se que o extraditando não foi interrogado especificamente a respeito dos fatos que lhe são imputados no pedido de extensão e nem houve a apresentação de defesa escrita, tendo apenas se oposto à ampliação do pedido de extradição e declarado que não renuncia à regra da especialidade, conforme se extrai do Auto de Declarações às fls. 642/643.
+Dessarte, requeiro, nos termos dos arts. 85, § 2° da Lei n° 6.815/80 e XIV do Tratado específico, que seja solicitado ao Governo português, por via diplomática, que proceda ao interrogatório do extraditando PAULO ENES GONÇALVES em Portugal sobre os fatos narrados no pedido de extensão de sua extradição, bem como que seja devidamente intimado para apresentar defesa, possibilitando-lhe, inclusive, constituir advogado para defendê-lo no Brasil, se assim o desejar”.
+3. 	Esta Corte tem admitido o pedido de extensão da extradição, não sendo o princípio da especialidade obstáculo ao deferimento do pedido de extensão (Ext.-extensão 787/PT-Portugal, rel. Min. Eros Grau, Pleno, DJ 28.04.2008).
+E, como ressaltado na manifestação do Ministério Público, mesmo que o fato objeto do pedido de extensão seja anterior ou contemporâneo àquele que deu origem à extradição, é possível o processamento do pedido de extensão caso a ordem de prisão seja posterior ao pedido originário.
+4. 	Desse modo, defiro o requerimento do Senhor Procurador-Geral da República e, assim, solicito ao Governo de Portugal, por via diplomática, que providencie o interrogatório do extraditando Paulo Jorge Enes Gonçalves acerca dos fatos narrados no pedido de extensão, intimando-o para apresentar defesa, inclusive com expressa menção a respeito da possibilidade de constituição de advogado para defendê-lo no Brasil, se assim o desejar.
+Publique-se.
+Brasília, 02 de setembro de 2008.
+Ministra Ellen Gracie
+Relatora
