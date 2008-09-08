@@ -1,0 +1,17 @@
+DECISÃO: 1. Trata-se de mandado de segurança impetrado por Edmilson de Almeida Barros e outros, contra decisão do Conselho Nacional de Justiça, que possui a seguinte ementa:
+“RECLAMAÇÃO DISCIPLINAR. RECURSO ADMINISTRATIVO. PEDIDO DE ESCLARECIMENTOS. AUSÊNCIA DE OMISSÃO. NULIDADE DO JULGAMENTO NÃO CARACTERIZADA. AUSÊNCIAS DO PROCURADOR-GERAL DA REPÚBLICA E DO PRESIDENTE DO CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO BRASIL. ART.109 DO RICNJ.
+A ausência do Procurador-Geral da República e do Presidente do Conselho Federal da Ordem dos Advogados do Brasil no julgamento de processos junto ao Plenário do Conselho Nacional de Justiça não acarreta nulidade.
+Enquadrando-se a petição inicial, diante dos seus termos, na classificação de reclamação disciplinar, processa-se e julga-se o feito como tal, não havendo como aplicar, no caso presente, da norma do art. 109 do RICNJ, relativa a pedido de providências.
+Pedido recebido para efetuar esclarecimentos, mantendo-se o resultado do julgamento do recurso administrativo.” (fls. 69).
+Segundo alega o impetrante, “a presença do PROCURADO-GERAL DA REPÚBLICA e do PRESIDENTE DA OAB/CONSELHO FEDRAL é imprescindível ao julgamento afeto ao CNJ, mormente quando se tratar de julgamento por sua composição plenária. A única exceção constante, inclusive do REGIMENTO INTERNO DO CNJ, repita-se, é a possibilidade de representação por seus substitutos legais, fato que não dera na sessão do julgamento combatido” (fls.06/07).
+Aduz, ainda, que “a presença do presidente da OAB se sobressai necessária, na medida em que se discute o próprio direito do advogado em executar seus honorários, já que a magistrada recusa tanto a execução, quanto a ação ordinária de cobrança. Por sua vez, ao PGR caberia, como FISCAL DA LEI, analisar, no julgamento, a negação do acesso ao judiciário” (fls. 07).
+Requer, assim, que seja concedida a segurança pleiteada “no sentido de determinar ao CNJ a realização de novo julgamento, com as presenças essenciais do PROCURADOR-GERAL DA REPÚBLICA e do PRESIDENTE DA OAB/CONSELHO FEDERAL ou de seus substitutos legais” (fls.07).
+2.	Inviável o pedido.
+É que não há nulidade e ou ilegalidade na decisão do Conselho Nacional de Justiça, tendo em vista que inexiste a obrigatoriedade da presença do Procurador-Geral da República e do Presidente do Conselho Federal da Ordem dos Advogados do Brasil nas sessões plenárias daquele órgão, conforme se pode extrair da leitura do artigo 27 caput do Regimento Interno do CNJ, que assim dispõe:
+“Art. 27. De cada sessão plenária do Conselho será lavrada uma ata pelo Secretário-Geral ou por quem regularmente o substitua, contendo a data da reunião; os nomes do Presidente, do Relator ou, quando vencido, do que for designado; os nomes dos demais Conselheiros que tiverem participado do julgamento; os nomes do Procurador-Geral da República e do Presidente do Conselho Federal da Ordem dos Advogados do Brasil, quando presentes; os nomes dos Conselheiros que firmaram impedimento ou suspeição e os ausentes; os nomes dos advogados que tiverem realizado sustentação oral; e o registro sucinto dos debates e das deliberações adotadas.” (grifado e destacado).
+3.	Fica evidente, portanto, que se não caracteriza qualquer nulidade e ou ilegalidade na decisão objeto da presente impetração.
+4. 	Ante o exposto, denego a segurança, com base no art. 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 8 de setembro de 2008.
+Ministro CEZAR PELUSO
+Relator
