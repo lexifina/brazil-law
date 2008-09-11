@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF05 nº 51, de 20 de setembro de 2007
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins
+EMENTA: REVENDA PARA EMPRESA PROPONDERANTEMENTE EXPORTADORA. SUSPENSÃO. MANUTENÇÃO DO CRÉDITO A pessoa jurídica vendedora de MP, PI e ME, sujeita à incidência da Contribuição para o PIS/Pasep e da Cofins no regime de não-cumulatividade, pode manter e utilizar os créditos relativos aos produtos vendidos com suspensão na forma do art. 40 da Lei nº 10.865, de 30 de abril de 2004, com a redação dada pela Lei nº 10.925, de 2004. Assunto: Contribuição para o PIS/Pasep REVENDA PARA EMPRESA PROPONDERANTEMENTE EXPORTADORA. SUSPENSÃO. MANUTENÇÃO DO CRÉDITO A pessoa jurídica vendedora de MP, PI e ME, sujeita à incidência da Contribuição para o PIS/Pasep e da Cofins no regime de não-cumulatividade, pode manter e utilizar os créditos relativos aos produtos vendidos com suspensão na forma do art. 40 da Lei nº 10.865, de 30 de abril de 2004, com a redação dada pela Lei nº 10.925, de 2004.
+Novo segmento
+[arquivo anexo: SC Disit-SRRF05 nº 51-2007.pdf]
