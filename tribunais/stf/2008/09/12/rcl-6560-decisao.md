@@ -1,0 +1,31 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, proposta pelo Instituto Tocantinense Presidente Antônio Carlos - ITPAC contra ato do Juízo Substituto da 23ª Vara Federal da Seção Judiciária de Pernambuco - Garanhuns/PE, nos autos das Ações Civis Públicas n. 2008.83.05.000413-5 e 2008.83.05.000412-7.
+2.	o reclamante alega a decisão impugnada foi proferida nas ações civis públicas foram ajuizadas, uma pelo Ministério Público Federal contra o Instituto Tocantinense Antônio Carlos (ITPAC) e o Estado de Pernambuco e outra pela União, também contra o ITPAC --- mantenedor da Faculdade de Medicina do Município de Garanhuns. As ações civis públicas foram apensadas por ordem do mencionado do Juízo da 23ª Vara Federal da Seção Judiciária de Pernambuco.
+3.	Em 14 de julho passado a autoridade reclamada recebeu embargos de declaração opostos pela União e determinou ao réu, Instituto Tocantinense Presidente Antônio Carlos - ITPAC, “que se abstenha de praticar qualquer outro ato de organização, implantação e/ou funcionamento do curso de Medicina no município de Garanhuns até o julgamento final deste processo” [fl. 30].
+4.	O vestibular 2008/1 da Faculdade de Medicina de Garanhuns foi suspenso por decisão da autoridade reclamada. Contra esse ato o ITPAC interpôs agravo de instrumento contra essa decisão ao TRF 5ª Região. O recurso foi dotado de efeito suspensivo por decisão do relator.
+5.	O reclamante alega que o Juízo reclamada “ignorou as decisões de seus dois colegas juízes federais e substitutos da mesma 23ª Vara, do mesmo grau de jurisdição, que já haviam decidido os mesmos Embargos Declaratórios e Pedido de Reconsideração da União e do RMPF [...] e determinou, inusitadamente, sem publicação, através de mandado judicial, a suspensão não só das aulas, mas de toda e qualquer atividade da FAMEG e, ainda, culminou multa diária de R$ 10.000,00 (dez mil reais) em caso de descumprimento” [fl. 4].
+6.	Segundo a reclamante, a plausibilidade jurídica do pedido --- fumus boni iuris --- estaria configurada, vez que evidenciada a usurpação de competência desta Corte e demonstrada a existência de conflito federativo entre a União e o Estado de Pernambuco. Além disso, sustenta a violação do que decidido na ADI n. 2.501. O periculum in mora seria manifesto, pois as atividades de uma instituição de ensino superior foram suspensas e os prejuízos aos alunos seriam incalculáveis.
+7.	Requer a concessão de medida liminar para suspender qualquer ato que paralisou toda e qualquer atividade da Faculdade de Medicina do Município de Garanhuns.
+8.	É o relatório. Decido.
+9.	O reclamante afirma que a competência do Supremo Tribunal Federal estaria sendo usurpada pela autoridade reclamada que determinou a suspensão dos trabalhos da Faculdade de Medicina do Município de Garanhuns.
+10.	A discussão a propósito das autorizações de funcionamento concedidas pelos Estados-membros às instituições particulares de ensino é matéria em exame nesta Corte. Definida a existência de conflito entre a União e os Estados-membros, caberá ao Supremo Tribunal Federal definir se essas autorizações estaduais consubstanciam usurpação de competência atribuída à União pela Constituição do Brasil --- artigo 22, inciso XXIV. Proferi decisão nesse sentido na RCL n. 6.198, DJ de 27 de agosto passado.
+11.	O Ministro CARLOS BRITTO, recentemente, ao analisar o pedido de medida liminar, em ação cível originária na qual era pretendida a suspensão das atividades de instituições de ensino privado no Estado de Minas Gerais, afirmou:
+
+“Trata-se de ação cível originária, com pedido de liminar, ajuizada pelo Conselho Federal de Medicina Veterinária contra a União, o Estado de Minas Gerais e três universidades mineiras (UNIFENAS, UNINCOR e UNIPAC).
+2. Já adianto que o objetivo do autor é anular os atos de autorização, credenciamento ou recredenciamento das instituições de ensino supramencionadas e, conseqüentemente, impedir que elas realizem vestibulares e expeçam diplomas de conclusão de seus cursos (Medicina Veterinária e Zootecnia).
+	[...]
+12. Fixado este ponto, dou o passo seguinte para averbar que os documentos de fls. 102/118 comprovam que as entidades ora requeridas foram criadas por legislação estadual. Originariamente, são fundações instituídas pelo Poder Público estadual.
+[...]
+6. De outra banda, no tocante ao perigo da demora, observo que ele atua dos dois lados. Quero dizer: se é verdade que a manutenção dos cursos de Medicina Veterinária e de Zootecnia pode engrossar a pilha de diplomas futuramente inválidos, não é menos verdade que o prematuro descredenciamento de tais universidades pode ter efeito contrário. Ou seja, pode inviabilizar temporariamente o exercício profissional de numerosos graduados, caso a presente ação seja, ao final, rejeitada.
+17. Ante o exposto, indefiro a liminar.”
+[ACO/MC n. 1.132, Relator o Ministro CARLOS BRITTO, DJ de 8.4.2008]
+
+12.	O Instituto Tocantinense Presidente Antônio Carlos - ITPAC requer o deferimento de medida cautelar hábil a restabelecer  as atividades da Faculdade de Medicina do Município de Garanhuns. A delibação preliminar requer a presença do fumus boni iuris e do periculum in mora. Vislumbro os requisitos, como afirmei, a contrario sensu, na RCL n. 6.198. Como foi afirmado pelo Ministro CARLOS BRITTO, e posteriormente por mim, da paralisação das atividades da instituição de ensino resultam prejuízos para os estudantes. Diante de um possível confronto entre a usurpação de competência da União e as perdas referentes ao patrimônio acadêmico dos estudantes interessados, estas ultimas são mais nefastas. Afasta-se, destarte, a concessão de medida liminar para obstar o funcionamento de uma instituição de ensino.
+Defiro a medida liminar para suspender o ato reclamado, proferido pelo Juízo Substituto da 23ª Vara Federal da Seção Judiciária de Pernambuco - Garanhuns/PE, nos autos das Ações Civis Públicas n. 2008.83.05.000413-5 e 2008.83.05.000412-7.
+Comunique-se com urgência.
+Solicitem-se informações à autoridade reclamada.
+Após, dê-se vista dos autos à Procuradoria Geral da República [art. 16 da Lei n. 8.038/90 e art. 160 do RISTF].
+Publique-se.
+Brasília, 12 de setembro de 2008.
+
+Ministro Eros Grau
+- Relator -
