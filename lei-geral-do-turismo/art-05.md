@@ -1,0 +1,22 @@
+Art. 5º A Política Nacional de Turismo tem por objetivos:
+I - democratizar e propiciar o acesso ao turismo no País a todos os segmentos populacionais, contribuindo para a elevação do bem-estar geral;
+II - reduzir as disparidades sociais e econômicas de ordem regional, promovendo a inclusão social pelo crescimento da oferta de trabalho e melhor distribuição de renda;
+III - ampliar os fluxos turísticos, a permanência e o gasto médio dos turistas nacionais e estrangeiros no País, mediante a promoção e o apoio ao desenvolvimento do produto turístico brasileiro;
+IV - estimular a criação, a consolidação e a difusão dos produtos e destinos turísticos brasileiros, com vistas em atrair turistas nacionais e estrangeiros, diversificando os fluxos entre as unidades da Federação e buscando beneficiar, especialmente, as regiões de menor nível de desenvolvimento econômico e social;
+V - propiciar o suporte a programas estratégicos de captação e apoio à realização de feiras e exposições de negócios, viagens de incentivo, congressos e eventos nacionais e internacionais;
+VI - promover, descentralizar e regionalizar o turismo, estimulando Estados, Distrito Federal e Municípios a planejar, em seus territórios, as atividades turísticas de forma sustentável e segura, inclusive entre si, com o envolvimento e a efetiva participação das comunidades receptoras nos benefícios advindos da atividade econômica;
+VII - criar e implantar empreendimentos destinados às atividades de expressão cultural, de animação turística, entretenimento e lazer e de outros atrativos com capacidade de retenção e prolongamento do tempo de permanência dos turistas nas localidades;
+VIII - propiciar a prática de turismo sustentável nas áreas naturais, promovendo a atividade como veículo de educação e interpretação ambiental e incentivando a adoção de condutas e práticas de mínimo impacto compatíveis com a conservação do meio ambiente natural;
+IX - preservar a identidade cultural das comunidades e populações tradicionais eventualmente afetadas pela atividade turística;
+X - prevenir e combater as atividades turísticas relacionadas aos abusos de natureza sexual e outras que afetem a dignidade humana, respeitadas as competências dos diversos órgãos governamentais envolvidos;
+XI - desenvolver, ordenar e promover os diversos segmentos turísticos;
+XII - implementar o inventário do patrimônio turístico nacional, atualizando-o regularmente;
+XIII - propiciar os recursos necessários para investimentos e aproveitamento do espaço turístico nacional de forma a permitir a ampliação, a diversificação, a modernização e a segurança dos equipamentos e serviços turísticos, adequando-os às preferências da demanda, e, também, às características ambientais e socioeconômicas regionais existentes;
+XIV - aumentar e diversificar linhas de financiamentos para empreendimentos turísticos e para o desenvolvimento das pequenas e microempresas do setor pelos bancos e agências de desenvolvimento oficiais;
+XV - contribuir para o alcance de política tributária justa e equânime, nas esferas federal, estadual, distrital e municipal, para as diversas entidades componentes da cadeia produtiva do turismo;
+XVI - promover a integração do setor privado como agente complementar de financiamento em infra-estrutura e serviços públicos necessários ao desenvolvimento turístico;
+XVII - propiciar a competitividade do setor por meio da melhoria da qualidade, eficiência e segurança na prestação dos serviços, da busca da originalidade e do aumento da produtividade dos agentes públicos e empreendedores turísticos privados;
+XVIII - estabelecer padrões e normas de qualidade, eficiência e segurança na prestação de serviços por parte dos operadores, empreendimentos e equipamentos turísticos;
+XIX - promover a formação, o aperfeiçoamento, a qualificação e a capacitação de recursos humanos para a área do turismo, bem como a implementação de políticas que viabilizem a colocação profissional no mercado de trabalho; e
+XX - implementar a produção, a sistematização e o intercâmbio de dados estatísticos e informações relativas às atividades e aos empreendimentos turísticos instalados no País, integrando as universidades e os institutos de pesquisa públicos e privados na análise desses dados, na busca da melhoria da qualidade e credibilidade dos relatórios estatísticos sobre o setor turístico brasileiro.
+Parágrafo único. Quando se tratar de unidades de conservação, o turismo será desenvolvido em consonância com seus objetivos de criação e com o disposto no plano de manejo da unidade.
