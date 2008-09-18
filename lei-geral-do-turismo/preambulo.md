@@ -1,0 +1,2 @@
+Dispõe sobre a Política Nacional de Turismo, define as atribuições do Governo Federal no planejamento, desenvolvimento e estímulo ao setor turístico; revoga a Lei nº 6.505, de 13 de dezembro de 1977, o Decreto-Lei nº 2.294, de 21 de novembro de 1986, e dispositivos da Lei nº 8.181, de 28 de março de 1991; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:

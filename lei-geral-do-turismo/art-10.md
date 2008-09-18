@@ -1,0 +1,1 @@
+Art. 10. O poder público federal promoverá a racionalização e o desenvolvimento uniforme e orgânico da atividade turística, tanto na esfera pública como privada, mediante programas e projetos consoantes com a Política Nacional de Turismo e demais políticas públicas pertinentes, mantendo a devida conformidade com as metas fixadas no PNT.
