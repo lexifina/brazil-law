@@ -1,0 +1,2 @@
+Art. 4º A Política Nacional de Turismo é regida por um conjunto de leis e normas, voltadas ao planejamento e ordenamento do setor, e por diretrizes, metas e programas definidos no Plano Nacional do Turismo - PNT estabelecido pelo Governo Federal.
+Parágrafo único. A Política Nacional de Turismo obedecerá aos princípios constitucionais da livre iniciativa, da descentralização, da regionalização e do desenvolvimento econômico-social justo e sustentável.

@@ -1,0 +1,2 @@
+Art. 19. O Fungetur tem por objeto o financiamento, o apoio ou a participação financeira em planos, projetos, ações e empreendimentos reconhecidos pelo Ministério do Turismo como de interesse turístico, os quais deverão estar abrangidos nos objetivos da Política Nacional de Turismo, bem como consoantes com as metas traçadas no PNT, explicitados nesta Lei.
+Parágrafo único. As aplicações dos recursos do Fungetur, para fins do disposto neste artigo, serão objeto de normas, definições e condições a serem fixadas pelo Ministério do Turismo, em observância à legislação em vigor.

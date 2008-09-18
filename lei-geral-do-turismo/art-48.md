@@ -1,0 +1,1 @@
+Art. 48. Esta Lei entra em vigor na data de sua publicação, observado, quanto ao seu art. 46, o disposto no inciso I do caput do art. 106 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional.
