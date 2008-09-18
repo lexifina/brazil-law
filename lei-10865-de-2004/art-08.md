@@ -28,7 +28,7 @@ II - 3,2% (três inteiros e dois décimos por cento), para a COFINS-Importação
 I - produtos químicos e farmacêuticos classificados nos Capítulos 29 e 30 da NCM;
 II - produtos destinados ao uso em hospitais, clínicas e consultórios médicos e odontológicos, campanhas de saúde realizadas pelo Poder Público e laboratórios de anatomia patológica, citológica ou de análises clínicas, classificados nas posições 30.02, 30.06, 39.26, 40.15 e 90.18 da NCM.
 § 12. Ficam reduzidas a 0 (zero) as alíquotas das contribuições, nas hipóteses de importação de:
-I - partes, peças e componentes, destinados ao emprego na construção, conservação, modernização e conversão de embarcações registradas ou pré-registradas no Registro Especial Brasileiro;
+I - materiais e equipamentos, inclusive partes, peças e componentes, destinados ao emprego na construção, conservação, modernização, conversão ou reparo de embarcações registradas ou pré-registradas no Registro Especial Brasileiro;
 II - embarcações construídas no Brasil e transferidas por matriz de empresa brasileira de navegação para subsidiária integral no exterior, que retornem ao registro brasileiro como propriedade da mesma empresa nacional de origem;
 III - papel destinado à impressão de jornais, pelo prazo de 4 (quatro) anos a contar da data de vigência desta Lei, ou até que a produção nacional atenda 80% (oitenta por cento) do consumo interno;
 IV - papéis classificados nos códigos 4801.00.10, 4801.00.90, 4802.61.91, 4802.61.99, 4810.19.89 e 4810.22.90, todos da TIPI, destinados à impressão de periódicos pelo prazo de 4 (quatro) anos a contar da data de vigência desta Lei ou até que a produção nacional atenda 80% (oitenta por cento) do consumo interno;
@@ -43,6 +43,7 @@ XIII - preparações compostas não alcoólicas, classificadas no código 2106.9
 XIV - material de emprego militar classificado nas posições 87.10.00.00 e 89.06.10.00 da Tabela de Incidência do Imposto sobre Produtos Industrializados - Tipi;
 XV - partes, peças, componentes, ferramentais, insumos, equipamentos e matérias-primas a serem empregados na industrialização, manutenção, modernização e conversão do material de emprego militar de que trata o inciso XIV deste parágrafo;
 XVI - gás natural liquefeito - GNL.
+XVII - produtos classificados no código 8402.19.00 da Nomenclatura Comum do Mercosul-NCM, para utilização em Usinas Termonucleares - UTN geradoras de energia elétrica para o Sistema Interligado Nacional.
 § 13. O Poder Executivo regulamentará:
 I - o disposto no § 10 deste artigo; e
 II - a utilização do benefício da alíquota 0 (zero) de que tratam os incisos I a VII do § 12 deste artigo.
