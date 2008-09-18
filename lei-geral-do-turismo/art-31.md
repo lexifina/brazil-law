@@ -1,0 +1,1 @@
+Art. 31. Consideram-se parques temáticos os empreendimentos ou estabelecimentos que tenham por objeto social a prestação de serviços e atividades, implantados em local fixo e de forma permanente, ambientados tematicamente, considerados de interesse turístico pelo Ministério do Turismo.

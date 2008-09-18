@@ -1,0 +1,1 @@
+Art. 1º Esta Lei estabelece normas sobre a Política Nacional de Turismo, define as atribuições do Governo Federal no planejamento, desenvolvimento e estímulo ao setor turístico e disciplina a prestação de serviços turísticos, o cadastro, a classificação e a fiscalização dos prestadores de serviços turísticos.

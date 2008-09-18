@@ -1,0 +1,2 @@
+Art. 32. Consideram-se acampamentos turísticos as áreas especialmente preparadas para a montagem de barracas e o estacionamento de reboques habitáveis, ou equipamento similar, dispondo, ainda, de instalações, equipamentos e serviços específicos para facilitar a permanência dos usuários ao ar livre.
+Parágrafo único. O Poder Executivo discriminará, mediante regulamentação, os equipamentos mínimos necessários para o enquadramento do prestador de serviço na atividade de que trata o caput deste artigo.

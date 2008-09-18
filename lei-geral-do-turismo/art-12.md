@@ -1,0 +1,1 @@
+Art. 12. O Ministério do Turismo poderá buscar, no Ministério do Desenvolvimento, Indústria e Comércio Exterior, apoio técnico e financeiro para as iniciativas, planos e projetos que visem ao fomento das empresas que exerçam atividade econômica relacionada à cadeia produtiva do turismo, com ênfase nas microempresas e empresas de pequeno porte.
