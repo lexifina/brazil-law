@@ -1,3 +1,3 @@
-Art. 2º É beneficiária do REPES a pessoa jurídica que exerça preponderantemente as atividades de desenvolvimento de software ou de prestação de serviços de tecnologia da informação, e que, por ocasião da sua opção pelo REPES, assuma compromisso de exportação igual ou superior a sessenta por cento de sua receita bruta anual decorrente da venda dos bens e serviços de que trata este artigo.
+Art. 2º É beneficiária do Repes a pessoa jurídica que exerça preponderantemente as atividades de desenvolvimento de software ou de prestação de serviços de tecnologia da informação, e que, por ocasião da sua opção pelo Repes, assuma compromisso de exportação igual ou superior a 60% (sessenta por cento) de sua receita bruta anual decorrente da venda dos bens e serviços de que trata este artigo.
 § 1º A receita bruta de que trata o caput deste artigo será considerada após excluídos os impostos e contribuições incidentes sobre a venda.
-§ 2º O Poder Executivo poderá reduzir para até cinqüenta por cento e restabelecer o percentual de que trata o caput.
+§ 2º O Poder Executivo poderá reduzir para até 50% (cinqüenta por cento) o percentual de que trata o caput deste artigo.
