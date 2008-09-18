@@ -1,0 +1,2 @@
+Art. 3º Caberá ao Ministério do Turismo estabelecer a Política Nacional de Turismo, planejar, fomentar, regulamentar, coordenar e fiscalizar a atividade turística, bem como promover e divulgar institucionalmente o turismo em âmbito nacional e internacional.
+Parágrafo único. O poder público atuará, mediante apoio técnico, logístico e financeiro, na consolidação do turismo como importante fator de desenvolvimento sustentável, de distribuição de renda, de geração de emprego e da conservação do patrimônio natural, cultural e turístico brasileiro.
