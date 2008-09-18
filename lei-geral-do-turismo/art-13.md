@@ -1,0 +1,2 @@
+Art. 13. O Ministério do Turismo poderá buscar, no Ministério da Educação e no Ministério do Trabalho e Emprego, no âmbito de suas respectivas competências, apoio para estimular as unidades da Federação emissoras de turistas à implantação de férias escolares diferenciadas, buscando minorar os efeitos da sazonalidade turística, caracterizada pelas alta e baixa temporadas.
+Parágrafo único. O Governo Federal, por intermédio do Ministério do Turismo, poderá oferecer estímulos e vantagens especiais às unidades da Federação emissoras de turistas em função do disposto neste artigo.
