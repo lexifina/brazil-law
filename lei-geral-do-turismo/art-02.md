@@ -1,0 +1,2 @@
+Art. 2º Para os fins desta Lei, considera-se turismo as atividades realizadas por pessoas físicas durante viagens e estadas em lugares diferentes do seu entorno habitual, por um período inferior a 1 (um) ano, com finalidade de lazer, negócios ou outras.
+Parágrafo único. As viagens e estadas de que trata o caput deste artigo devem gerar movimentação econômica, trabalho, emprego, renda e receitas públicas, constituindo-se instrumento de desenvolvimento econômico e social, promoção e diversidade cultural e preservação da biodiversidade.
