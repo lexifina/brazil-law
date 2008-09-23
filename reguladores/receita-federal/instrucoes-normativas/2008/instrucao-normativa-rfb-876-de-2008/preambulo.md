@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 876, de 18 de setembro de 2008
+Aprova o aplicativo de opção pelo Regime Especial de Apuração e Pagamento da Contribuição para o PIS/Pasep e da Cofins incidentes sobre Combustíveis e Bebidas (Recob).
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no § 4º do art. 5º da Lei nº 9.718, de 27 de novembro de 1998, no art. 52 da Lei nº 10.833, de 29 de dezembro de 2003, no art. 23 da Lei nº 10.865, de 30 de abril de 2004, no art. 4º da Lei nº 11.116, de 18 de maio de 2005, e no art. 8º da Lei nº 11.727, de 23 de junho de 2008, resolve:
