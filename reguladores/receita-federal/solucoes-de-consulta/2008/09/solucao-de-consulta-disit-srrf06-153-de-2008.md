@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF06 nº 153, de 18 de setembro de 2008
+ASSUNTO: Imposto sobre Operações de Crédito, Câmbio e Seguros ou relativas a Títulos ou Valores Mobiliários - IOF
+EMENTA: MÚTUO DE RECURSOS FINANCEIROS POR MEIO DE CONTA-CORRENTE. BASE DE CÁLCULO Nas operações de crédito correspondentes a mútuo de recursos financeiros entre pessoas jurídicas ou entre pessoa jurídica e pessoa física, sem prazo, realizado por meio de conta-corrente, a base de cálculo do IOF será o somatório dos saldos devedores diários apurado no último dia de cada mês, nela computados os encargos debitados ao mutuário, a partir do dia subseqüente ao término do período a que se referirem. ALÍQUOTA ADICIONAL A partir de 3 de janeiro de 2008, o IOF incide nessas operações à alíquota adicional de trinta e oito centésimos por cento sobre o somatório mensal dos acréscimos diários dos saldos devedores.
+DISPOSITIVOS LEGAIS: Lei nº 9.779, de 1999, art. 13; Decreto nº 6.306, de 2008, art. 7º, I, "a", §§ 12, 13, 15 e 16; Ato Declaratório SRF nº 7, de 1999; Ato Declaratório SRF nº 030, de 1999; Nota MF/SRF/COSIT/DIMEF n° 47, de 1999; Nota MF/SRF/COSIT/DIMEF n° 91, de 1999.
+Novo segmento
+[arquivo anexo: SC SRRF06-Disit nº 153-2008.pdf]
