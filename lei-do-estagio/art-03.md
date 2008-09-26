@@ -1,0 +1,6 @@
+Art. 3º O estágio, tanto na hipótese do § 1º do art. 2º desta Lei quanto na prevista no § 2º do mesmo dispositivo, não cria vínculo empregatício de qualquer natureza, observados os seguintes requisitos:
+I - matrícula e freqüência regular do educando em curso de educação superior, de educação profissional, de ensino médio, da educação especial e nos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos e atestados pela instituição de ensino;
+II - celebração de termo de compromisso entre o educando, a parte concedente do estágio e a instituição de ensino;
+III - compatibilidade entre as atividades desenvolvidas no estágio e aquelas previstas no termo de compromisso.
+§ 1º O estágio, como ato educativo escolar supervisionado, deverá ter acompanhamento efetivo pelo professor orientador da instituição de ensino e por supervisor da parte concedente, comprovado por vistos nos relatórios referidos no inciso IV do caput do art. 7º desta Lei e por menção de aprovação final.
+§ 2º O descumprimento de qualquer dos incisos deste artigo ou de qualquer obrigação contida no termo de compromisso caracteriza vínculo de emprego do educando com a parte concedente do estágio para todos os fins da legislação trabalhista e previdenciária.
