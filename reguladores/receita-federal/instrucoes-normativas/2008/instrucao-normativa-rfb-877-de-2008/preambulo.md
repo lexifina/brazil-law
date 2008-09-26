@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 877, de 24 de setembro de 2008
+Dispõe sobre a tributação das microempresas (ME) e empresas de pequeno porte (EPP) optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas ME e EPP (Simples Nacional) relativamente ao período anterior ao início dos efeitos da opção por esse regime de tributação.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto na Lei nº 9.430, de 26 de dezembro de 1996, na Lei Complementar nº 123, de 14 de dezembro de 2006, e na Resolução CGSN nº 4, de 30 de maio de 2007, resolve:
