@@ -1,0 +1,2 @@
+Art. 8º É facultado às instituições de ensino celebrar com entes públicos e privados convênio de concessão de estágio, nos quais se explicitem o processo educativo compreendido nas atividades programadas para seus educandos e as condições de que tratam os arts. 6º a 14 desta Lei.
+Parágrafo único. A celebração de convênio de concessão de estágio entre a instituição de ensino e a parte concedente não dispensa a celebração do termo de compromisso de que trata o inciso II do caput do art. 3º desta Lei.
