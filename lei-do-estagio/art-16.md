@@ -1,0 +1,1 @@
+Art. 16. O termo de compromisso deverá ser firmado pelo estagiário ou com seu representante ou assistente legal e pelos representantes legais da parte concedente e da instituição de ensino, vedada a atuação dos agentes de integração a que se refere o art. 5º desta Lei como representante de qualquer das partes.
