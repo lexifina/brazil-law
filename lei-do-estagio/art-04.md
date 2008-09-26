@@ -1,0 +1,1 @@
+Art. 4º A realização de estágios, nos termos desta Lei, aplica-se aos estudantes estrangeiros regularmente matriculados em cursos superiores no País, autorizados ou reconhecidos, observado o prazo do visto temporário de estudante, na forma da legislação aplicável.
