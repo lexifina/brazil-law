@@ -1,0 +1,1 @@
+Art. 10-A. As medidas antidumping e compensatórias poderão ser estendidas a terceiros países, bem como a partes, peças e componentes dos produtos objeto de medidas vigentes, caso seja constatada a existência de práticas elisivas que frustrem a sua aplicação.
