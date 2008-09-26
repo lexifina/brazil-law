@@ -1,2 +1,2 @@
-Art. 82. Os sistemas de ensino estabelecerão as normas para realização dos estágios dos alunos regularmente matriculados no ensino médio ou superior em sua jurisdição.
-Parágrafo único. O estágio realizado nas condições deste artigo não estabelecem vínculo empregatício, podendo o estagiário receber bolsa de estágio, estar segurado contra acidentes e ter a cobertura previdenciária prevista na legislação específica.
+Art. 82. Os sistemas de ensino estabelecerão as normas de realização de estágio em sua jurisdição, observada a lei federal sobre a matéria.
+Parágrafo único. (Revogado).
