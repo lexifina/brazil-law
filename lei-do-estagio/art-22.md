@@ -1,0 +1,1 @@
+Art. 22. Revogam-se as Leis nos 6.494, de 7 de dezembro de 1977, e 8.859, de 23 de março de 1994, o parágrafo único do art. 82 da Lei nº 9.394, de 20 de dezembro de 1996, e o art. 6º da Medida Provisória nº 2.164-41, de 24 de agosto de 2001.
