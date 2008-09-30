@@ -1,0 +1,23 @@
+DECISÃO: Vasco Alves de Oliveira Júnior ajuizou reclamação sustentando violação à decisão proferida na ADPF n. 144, tendo em vista o indeferimento do pedido de registro de sua candidatura às eleições proporcionais para o mandato de Prefeito do Município de Vila Velha/ES.
+2.  O reclamante afirmou que os pressupostos processuais necessários ao deferimento da medida cautelar estariam configurados na medida em que se encontra impedido de realizar campanha eleitoral para a disputa do cargo de Prefeito daquele Município.
+3.     Requereu a concessão da medida liminar visando a que a decisão do Tribunal Regional Eleitoral do Estado do Espírito Santo, no processo n. 875 viesse a ser cassada.
+4.     Deferi a liminar às fls. 69/71.
+5.     A autoridade reclamada prestou informações às fls. 88/92. Esclarece que “o Colegiado decidiu, através nº 289, que ‘embora não deva prevalecer a alegação de que o recorrido possui ‘ficha suja’ – já que a decisão do Supremo Tribunal Federal na matéria é dotada de efeito vinculante -, é induvidosa a incidência da causa de inelegibilidade prevista no art. 1º, I, alínea ‘g’ da Lei Complementar nº 64/90”.
+6.  É o relatório. Decido.
+7.  O reclamante aponta como violada a decisão proferida na ADPF n. 144. Esta Corte, em 6 de agosto de 2008, por maioria, julgou improcedente a argüição de descumprimento de preceito fundamental n. 144, Relator o Ministro CELSO DE MELLO, na qual foi questionada a validade constitucional das interpretações emanadas do Tribunal Superior Eleitoral, interpretações referentes à inelegibilidade fundada na vida pregressa dos candidatos.
+8.  O Tribunal Regional do Estado do Espírito Santo indeferiu o pedido de registro de candidatura do reclamante com respaldo no entendimento fixado a partir da revisão do disposto na Súmula n. 1 do Tribunal Superior Eleitoral.
+9.  Não cumpre ao Supremo Tribunal Federal pronunciar-se sobre o acerto ou desacerto da decisão oriunda do TSE porque esta matéria sequer foi objeto de análise quando do julgamento da ADPF n. 144.
+10.  O Ministro CELSO DE MELLO, no julgamento da RCL n. 6.534-MC, ao negar seguimento a reclamação em que a decisão afrontada seria também a ADPF n. 114, observou o quanto segue: “tratando-se da causa de inelegibilidade fundada no art. 1º, I, ‘g’, da LC nº 64/90, (..) somente haveria desrespeito ao pronunciamento vinculante desta Corte, se e quando a Justiça Eleitoral denegasse o registro de candidatura, por entender incompatível, com os preceitos fundamentais da moralidade e da probidade administrativas, a utilização, pelo pré-candidato, da ressalva autorizadora de acesso ao Poder Judiciário”. Concluiu afirmando que “a decisão ora reclamada veiculou matéria de todo estranha à controvérsia examinada, por esta Suprema Corte, quando do julgamento final da ADPF 144/DF. [...] Esse fato, por si só, inviabiliza o próprio conhecimento da presente reclamação pelo Supremo Tribunal Federal”.
+11.    De outra banda, a Ministra CÁRMEN LÚCIA, na RCL n. 6.551, também negou seguimento a reclamação em tudo e por tudo semelhante à de que ora cuido. Entendeu S. Excia., referindo a ADPF n. 144, que “não se pretendeu, naquela ação, a discussão sobre o acerto ou não da orientação jurisprudencial ora impugnada. Limitou-se a Associação dos Magistrados Brasileiros a requerer no ponto, por meio do fenômeno jurídico da não-recepção da norma anterior à Constituição da República (ou à Emenda de Revisão n. 4/94, no caso), a retirada por inteiro da expressão ‘salvo se a questão houver sido ou estiver sendo submetida à apreciação do Poder Judiciário’, constante da alínea g do inc. I do art. 1º da Lei Complementar n. 64/90” .
+12.  A via estreita da reclamação pressupõe violação direta a julgado desta Corte ou clara usurpação de sua competência. Daí porque, após o exame mais detido do caso, tenho que a presente reclamação não pode ser conhecida. Não há identidade ou similitude de objeto entre o ato impugnado e a decisão, do Supremo Tribunal Federal, tida por desrespeitada. Refiro-me, em geral, a precedentes nos quais essa questão é considerada: RCL n. 3.768, Relator o Ministro CELSO DE MELLO, DJ de 20.10.05; RCL n. 3.324, Relator o Ministro MARCO AURÉLIO, DJ de 17.11.06, e RCL n. 3.960 e RCL n. 5.422, de que fui Relator, DJ de 5.12.05 e DJ de 28.8.07, respectivamente.
+13.  Sendo assim, reconsidero a decisão concessiva de liminar, cassando-a. Em face do quanto anotei linhas acima, nego seguimento à reclamação, nos termos do disposto no artigo 21, § 1º, do RISTF.
+14.  Julgo prejudicado o agravo regimental.
+ Arquivem-se os autos.
+         Comunique-se com urgência.
+ Publique-se.
+Brasília, 30 de setembro de 2008.
+
+Ministro Eros Grau
+- Relator -
+
+1
