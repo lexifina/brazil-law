@@ -5,7 +5,6 @@ Art. 1º A contribuição para o PIS/Pasep tem como fato gerador o faturamento m
 I - decorrentes de saídas isentas da contribuição ou sujeitas à alíquota zero;
 II - (VETADO)
 III - auferidas pela pessoa jurídica revendedora, na revenda de mercadorias em relação às quais a contribuição seja exigida da empresa vendedora, na condição de substituta tributária;
-IV - de venda de álcool para fins carburantes;
 V - referentes a:
 a) vendas canceladas e aos descontos incondicionais concedidos;
 b) reversões de provisões e recuperações de créditos baixados como perda, que não representem ingresso de novas receitas, o resultado positivo da avaliação de investimentos pelo valor do patrimônio líquido e os lucros e dividendos derivados de investimentos avaliados pelo custo de aquisição, que tenham sido computados como receita.

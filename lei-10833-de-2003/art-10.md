@@ -6,7 +6,6 @@ IV - as pessoas jurídicas imunes a impostos;
 V - os órgãos públicos, as autarquias e fundações públicas federais, estaduais e municipais, e as fundações cuja criação tenha sido autorizada por lei, referidas no art. 61 do Ato das Disposições Constitucionais Transitórias da Constituição;
 VI - sociedades cooperativas, exceto as de produção agropecuária, sem prejuízo das deduções de que trata o art. 15 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, e o art. 17 da Lei nº 10.684, de 30 de maio de 2003, não lhes aplicando as disposições do § 7º do art. 3º das Leis nºs 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003, e as de consumo;
 VII - as receitas decorrentes das operações:
-a) referidas no inciso IV do § 3º do art. 1º;
 b) sujeitas à substituição tributária da COFINS;
 c) referidas no art. 5º da Lei nº 9.716, de 26 de novembro de 1998;
 VIII - as receitas decorrentes de prestação de serviços de telecomunicações;
