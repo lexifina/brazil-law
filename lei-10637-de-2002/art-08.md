@@ -6,7 +6,6 @@ IV - as pessoas jurídicas imunes a impostos;
 V - os órgãos públicos, as autarquias e fundações públicas federais, estaduais e municipais, e as fundações cuja criação tenha sido autorizada por lei, referidas no art. 61 do Ato das Disposições Constitucionais Transitórias da Constituição de 1988;
 VI - (VETADO)
 VII - as receitas decorrentes das operações:
-a) referidas no inciso IV do § 3º do art. 1º;
 b) sujeitas à substituição tributária da contribuição para o PIS/Pasep;
 c) referidas no art. 5º da Lei nº 9.716, de 26 de novembro de 1998;
 VIII - as receitas decorrentes de prestação de serviços de telecomunicações;
