@@ -1,6 +1,6 @@
 Art. 3º Do valor apurado na forma do art. 2º a pessoa jurídica poderá descontar créditos calculados em relação a:
 I - bens adquiridos para revenda, exceto em relação às mercadorias e aos produtos referidos:
-a) nos incisos III e IV do § 3º do art. 1º desta Lei; e
+a) no inciso III do § 3º do art. 1º desta Lei; e.
 b) nos §§ 1º e 1º-A do art. 2º desta Lei;
 II - bens e serviços, utilizados como insumo na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda, inclusive combustíveis e lubrificantes, exceto em relação ao pagamento de que trata o art. 2º da Lei nº 10.485, de 3 de julho de 2002, devido pelo fabricante ou importador, ao concessionário, pela intermediação ou entrega dos veículos classificados nas posições 87.03 e 87.04 da TIPI;
 III - (VETADO)
