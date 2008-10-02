@@ -1,0 +1,21 @@
+DECISÃO: Vistos, etc.
+Cuida-se de recurso extraordinário, interposto com fundamento nas alíneas 'a' e 'c' do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul. Acórdão cuja ementa ficou assim redigida (fls. 193):
+
+'PENAL E PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE. MATERIALIDADE E AUTORIA COMPROVADAS. PROVAS CONTUNDENTES DE TRAFICÂNCIA. REDUÇÃO DA PENA DE MULTA. APELO DEFENSIVO PARCIALMENTE PROVIDO. UNÂNIME.'
+
+2. Pois bem, o recorrente sustenta, em síntese, que foram violados 'os princípios da presunção de inocência e do in dubio pro reo'. Afirma que 'está amplamente demonstrada a dependência que acomete o acusado, sendo comprovada pelo Laudo Psiquiátrico Legal nº 32.688 (fls. 20/27) dos autos em apenso'. Acrescenta que 'não há motivos para enquadrá-lo como pessoa que pratica a comercialização de entorpecentes'. Requer, alternativamente, 'seja concedido o direito à progressão de regime, estabelecendo o regime inicial fechado para cumprimento da pena privativa de liberdade'.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Wagner Gonçalves, opinou 'pelo não conhecimento do recurso; se conhecido, pelo provimento parcial, apenas para reconhecer o direito do recorrente à progressão prisional. Caso assim não se entenda, diante do não conhecimento, que se dê habeas corpus de ofício para reconhecer o direito à progressão'.
+4. Tenho que o apelo extremo não merece acolhida. Isso porque os temas constitucionais tidos por violados não foram objeto de análise por parte da Corte de origem, nem foram suscitados em sede de embargos declaratórios. Pelo que o recurso carece do indispensável prequestionamento (Súmulas 282 e 356 do Supremo Tribunal Federal).
+5. Por outra volta, anoto que, para se chegar à conclusão pretendida pela parte recorrente, se faz necessário o reexame do conjunto fático-probatório dos autos. Tal providência, entretanto, não tem lugar em sede extraordinária (Súmula 279 desta Suprema Corte).
+6. De mais a mais, o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição, o que inviabiliza o recurso extraordinário com fundamento na letra 'c' do dispositivo constitucional pertinente.
+7. Isso não obstante, no tocante à progressão de regime, é de ser concedido habeas corpus de ofício. É que o Plenário desta colenda Corte, no julgamento do HC 82.959, declarou a inconstitucionalidade do § 1º do art. 2º da Lei nº 8.072/90. Ao fazê-lo, entendeu (por votação majoritária) violada a garantia constitucional da individualização da pena. Garantia que, sem dúvida, inclui a fase de execução da pena aplicada. Naquela oportunidade, o Tribunal afirmou que a declaração de inconstitucionalidade não produz conseqüências quanto às penas já extintas.
+8. Ao compor a maioria vencedora, acrescentei que a progressão no regime de cumprimento de pena finca raízes na vontade objetiva da Constituição de 1988. É que a Magna Carta proíbe a pena de morte (salvo em caso de guerra declarada, nos termos do inciso XIX do art. 84) e o aprisionamento em caráter perpétuo (alíneas 'a' e 'b' do inciso XLVII do art. 5o). Tudo isso no pressuposto da regenerabilidade da pessoa que se encontre em regime de cumprimento de condenação penal.
+9. Nesse mesmo sentido, foram proferidas as seguintes decisões singulares, entre outras: REs 431.378, sob a relatoria do ministro Sepúlveda Pertence; 466.704, sob a relatoria do ministro Marco Aurélio; 471.237-AgR, sob a relatoria do ministro Ricardo Lewandowski; e 476.712, sob a relatoria do ministro Eros Grau; bem como AIs 519.047-EDv-AgR, sob a relatoria da ministra Ellen Gracie; e 559.919-EDv, sob a relatoria do ministro Cezar Peluso.
+Isso posto, e frente ao art. 38 da Lei n ° 8.038/90 e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso. Com base no § 2º do art. 654 do CPP, concedo a ordem de ofício, para remeter ao Juízo da execução a análise do preenchimento dos requisitos necessários à progressão de regime de cumprimento da pena, notadamente os de índole subjetiva.
+Publique-se.
+Brasília, 02 de outubro de 2008.
+
+Ministro CARLOS AYRES BRITTO
+Relator
+
+1
