@@ -1,0 +1,34 @@
+DECISÃO
+
+HABEAS CORPUS - LIMINAR – DENÚNCIA – ARTICULAÇÃO DE DEFEITO – FALTA DE JUSTA CAUSA – PROCESSO-CRIME – SUSPENSÃO – INDEFERIMENTO.
+
+1.  Eis como a Assessoria resumiu os parâmetros desta impetração:
+
+O Superior Tribunal de Justiça, no julgamento do Habeas Corpus nº 83.547, relatora ministra Laurita Vaz, ao indeferir a ordem, assentou: a) o trancamento da ação penal só é admissível quando se depreende do processo, de forma inequívoca, a inocência do acusado, a atipicidade da conduta ou a extinção da punibilidade, b) na denúncia, apontou-se para a participação do paciente no complexo esquema, desenvolvido por várias organizações criminosas, cuja finalidade seria a prática de sonegação fiscal, mediante a utilização de empresas constituídas em nome de interpostas pessoas, envolvendo diversos frigoríficos da região dos Grandes Lagos.
+
+No tocante à alegação de ausência de justa causa para a persecução penal do crime de sonegação fiscal, quando o suposto crédito tributário ainda pende de lançamento definitivo, destacou a distinção entre o precedente do Supremo – Habeas Corpus nº 81.611, relatado pelo ministro Sepúlveda Pertence – e o caso em exame. Realçou que, na espécie, não estava em discussão a existência de débito fiscal ou do quanto devido, mas a configuração, em tese, de crime contra a ordem tributária, imputando-se ao paciente o envolvimento em esquema fraudulento, como a falsificação de documentos e o uso de empresas “fantasmas” ou de “laranjas”, operações que tinham como objetivo lesar o Fisco. Em tais situações, não se exigiria processo administrativo-tributário, por terem sido utilizadas fraudes para suprimir ou reduzir o recolhimento de tributos, ficando a autoridade administrativa alheia à ação delituosa, por competir a apuração dos fatos ao Juízo Criminal (folhas 624 e 625).
+
+O habeas está voltado contra esse julgado. Os impetrantes pretendem o trancamento da Ação Penal nº 2006.61.024.001710-1, em que imputada ao paciente a prática de suprimir ou reduzir Imposto de Renda Pessoa Jurídica, PIS e COFINS, fraudando-se a fiscalização tributária, mediante a criação fictícia de empresa, fatos que teriam ocorrido no período de junho de 2001 a janeiro de 2005. Apontam a falta de justa causa para a ação penal e a inépcia da denúncia, por imputar-se ao paciente fato atípico. A conduta, segundo a denúncia oferecida, estaria enquadrada no artigo 1º, inciso II, da Lei nº 8.137/90 (seis vezes). Aduzem que os débitos fiscais, no entanto, seriam os declarados e não pagos, o que revelaria não tentativa de falsear ou omitir dados informados ao Fisco, mas inadimplência, a qual não estaria tipificada como crime. Afirmam que, se o delito descrito no artigo 1º da Lei nº 8.137/90 tem a fraude como elemento nuclear do tipo e, verificado que não ocorreu fraude e sim ausência de satisfação da obrigação tributária, não estaria configurado crime tributário. Daí a ilegalidade do entendimento adotado pelo Superior Tribunal de Justiça.
+
+Asseveram que, em relatório fiscal da Receita Federal elaborado a pedido do Juízo de Primeira Instância (documento 4), constaria a explicitação de jamais ter havido lançamento tributário contra a empresa CM4 PARTICIPAÇÕES e contra a COPERFRIGO, de titularidade do paciente. Dizem da ausência de demonstração da imputação de “transferência da movimentação entre as empresas”, por meio de fiscalização e lançamento, que pudesse ser objeto de averiguação pela Fiscalização Tributária. Não haveria lançamento de débito tributário, o que impediria o paciente, se quisesse fazê-lo, de pagar o “tributo” para ver extinta a punibilidade do crime fiscal. Argumentam que, não se evidenciando a presença do núcleo previsto no artigo 1º, inciso II, da Lei nº 8.137/90 – suprimir, reduzir ou omitir tributo –, descaberia falar em conduta incriminada e, conseqüentemente, a denúncia seria inepta, decorrendo, então, a ausência de justa causa para a ação penal.
+
+Afirmam que, ao contrário do consignado pelo Superior Tribunal de Justiça, o precedente do Supremo relativo ao Habeas Corpus nº 81.611, da relatoria do ministro Sepúlveda Pertence, publicado no Diário da Justiça de 13 de maio de 2005, tem inteira aplicação, pois falta justa causa à ação penal por crime tributário quando não houver o lançamento pela autoridade administrativa ou este não for definitivo. No caso, não se trataria de fraude para esconder do Fisco a ocorrência de fato gerador do tributo, mas inadimplência do imposto devido, escriturado e não pago.
+
+Acrescentam à causa de pedir da concessão da ordem o fato de não se verificar a figura do tipo previsto no artigo 299 do Código Penal, ante a inexistência de falsificação do ato constitutivo da empresa COPERFRIGO como meio para a prática dos supostos crimes contra a ordem tributária. O referido documento não seria exigido pelo Fisco e, portanto, não se apresentaria como a peça fiscal à qual se refere o inciso II do artigo 1º da Lei nº 8.137/90. Quanto à matéria, a denúncia também se mostraria inepta. Argumentam que, se houvesse a mencionada falsificação dos atos constitutivos, a conduta seria elemento causal da “supressão ou redução de tributo” e, como crime-meio, ficaria absorvido pelo crime-fim. Sob tal ângulo, também haveria ausência de justa causa para a ação penal.
+
+Pedem a concessão de liminar, tão-só para suspender a tramitação do processo envolvendo o paciente. No mérito, buscam o trancamento relativamente ao crime tributário, incluindo-se a falsidade tida como meio para a prática do aludido delito.
+
+Observo que, no Habeas Corpus nº 92.779-3, também houve referência à Ação Penal nº 2006.61.024.001710-1, ajuizada contra ALFEU CROZATO MOZAQUATRO, ora paciente. Naquela impetração, discutia-se a presença dos pressupostos e requisitos para a decretação da prisão preventiva. Este habeas tem causa de pedir e pedido distintos: aqui se cuida de inépcia da denúncia e atipicidade da conduta. Conseqüentemente, pede-se o trancamento da ação penal.
+
+2.  De início, surge descompasso entre o que veiculado como causas de pedir neste habeas e a minuciosa denúncia de folha 100 a 129. Não há, conforme ressaltado pelo Superior Tribunal de Justiça, como concluir, neste exame precário e efêmero, pelos vícios alegados pelos impetrantes. A denúncia refere-se não a simples sonegação de tributos, mas à existência de organização, em diversos órgãos, visando à prática de delitos, entre os quais sonegação fiscal, falsidade ideológica, lavagem de dinheiro, ocultação de bens e capitais, corrupção ativa e passiva, com frustração de direitos trabalhistas. Não se pode simplesmente queimar etapas. A procedência ou a improcedência do que articulado dependerá de prova robusta a ser feita pelo Ministério Público.
+
+3.  Indefiro a liminar.
+
+4.  Estando no processo as peças indispensáveis à compreensão da matéria, colham o parecer da Procuradoria Geral da República.
+
+5.  Publiquem.
+
+Brasília, 3 de outubro de 2008.
+
+Ministro MARCO AURÉLIO
+Relator
