@@ -1,0 +1,14 @@
+Solução de Consulta Disit/SRRF08 nº 342, de 22 de setembro de 2008
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+BASE DE CÁLCULO. EXCLUSÃO.
+A base de cálculo da contribuição é o faturamento, que corresponde à receita bruta da pessoa jurídica. Entende-se por receita bruta a totalidade das receitas auferidas, sendo irrelevante o tipo de atividade exercida e a classificação contábil adotada para as receitas, admitindo-se apenas as exclusões expressamente previstas na legislação que rege a matéria.
+ASSOCIAÇÕES SEM FINS LUCRATIVOS. ISENÇÕES.
+As receitas das atividades próprias das instituições de caráter filantrópico, recreativo, cultural e científico e das associações civis que prestem os serviços para os quais houverem sido instituídas e os coloquem à disposição do grupo de pessoas a que se destinam, sem fins lucrativos, estão isentas da Cofins, desde que tais entidades cumpram todos os requisitos legais para gozo da isenção do IRPJ e da CSLL.
+Consideram-se receitas das atividades próprias aquelas que não ultrapassam a órbita dos objetivos sociais das entidades sem fins lucrativos, alcançando especialmente as receitas tipicamente auferidas, tais como: doações, contribuições, inclusive a sindical e a assistencial, mensalidades e anuidades recebidas de profissionais inscritos, de associados, de mantenedores e de colaboradores, sem caráter contraprestacional direto, destinadas ao custeio e manutenção daquelas entidades e à execução de seus objetivos estatutários. Essa isenção não alcança as receitas que são próprias de atividades de natureza econômico-financeira ou empresarial, como as receitas auferidas com exploração de estacionamento de veículos; aluguel de imóveis; sorteio e exploração do jogo de bingo; comissões sobre prêmios de seguros; prestação de serviços e/ou venda de mercadoria, mesmo que exclusivamente para associados; aluguel ou taxa cobrada pela utilização de salões, auditórios, quadras, piscinas, campos esportivos, dependências e instalações; venda de ingressos para eventos promovidos pelas entidades; e receitas financeiras.
+Dispositivos Legais: Lei nº 9.718, de 27 de novembro de 1998, arts. 2º e 3º; Medida Provisória nº 2.158-35, de 2001, arts. 13, IV, e 14, X; Lei nº 10.833, art. 1º, § 3º, I, Instrução Normativa SRF nº 247, de 2002, art. 47, § 2º.
+Assunto: Contribuição para o PIS/Pasep
+ASSOCIAÇÃO CIVIL SEM FINS LUCRATIVOS.
+A associação civil sem fins lucrativos, que preencher as condições e requisitos previstos no art. 15 da Lei nº 9.532, de 1997, para o gozo de isenção do IRPJ e CSLL, é contribuinte do PIS/Pasep com base na folha de salários, à alíquota de 1% (um por cento).
+Dispositivos Legais: Medida Provisória nº 2.158-35, de 24/08/2001, art. 13, inciso IV e Instrução Normativa SRF nº 247, de 21/11/2002, arts. 9º e 47.
+Novo segmento
+[arquivo anexo: SC SRRF08-Disit nº 342-2008.pdf]
