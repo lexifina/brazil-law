@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF08 nº 354, de 30 de setembro de 2008
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+PRESTAÇÃO DE SERVIÇOS ENTRE VINCULADAS. PRESTADORA DOMICILIADA NO EXTERIOR. CONTRATOS DE RATEIO DE CUSTOS. INDEDUTIBILIDADE. BASES DE CÁLCULO DO IRPJ E DA CSLL.
+As despesas pagas ou incorridas por uma pessoa jurídica domiciliada no País, à matriz, domiciliada no exterior, em função da prestação de serviços de suporte administrativos a serem implementados por todas as demais unidades do grupo, são indedutíveis para fins de constituição das bases de cálculo do IRPJ e da CSLL, uma vez que tais despesas competem ao estabelecimento permanente situado fora do território nacional, e, em conseqüência, não devem impactar negativamente as bases de cálculo destes tributos no Brasil.
+Os valores pagos, creditados, remetidos ou empregados pela empresa brasileira, no contexto em questão, submetem-se à tributação do IRRF e da CIDE, às respectivas alíquotas de 15% e 10%, na medida em que revelam a natureza de receitas advindas da prestação de serviço administrativo ou semelhante, auferidas, no País, por um não residente.
+Dispositivos legais: Arts. 18 a 24 da Lei nº 9.430, de 27 de dezembro de 1996; art. 3º da Medida Provisória nº 2.159-70, de 24 de agosto de 2001; art. 2º, § 2º da Lei nº 10.168, de 29 de dezembro de 2000, com a redação dada pela Lei nº 10.332, de 19 de dezembro de 2001; art. 344 do Decreto nº 3.000, de 26 de março de 1999.
+[arquivo anexo: SC SRRF08-Disit nº 354-2008.pdf]
