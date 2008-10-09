@@ -1,0 +1,11 @@
+DECISÃO: A questão posta nestes autos quanto à constitucionalidade do § 1º do artigo 3º da Lei n. 9.718, de 27 de novembro de 1998, foi apreciada pelo Supremo Tribunal Federal ao julgar os Recursos Extraordinários ns. 346.084, 358.273, 357.950 e 390.840, publicados no DJ de 15.8.06.
+2.  O Tribunal entendeu que a Lei n. 9.718/98 ampliou o conceito de faturamento que estava expresso no artigo 2º da Lei Complementar n. 70 ao defini-lo como 'a totalidade das receitas auferidas pela pessoa jurídica, sendo irrelevantes o tipo de atividade por ela exercida e a classificação contábil adotada para as receitas'.
+3.  A redação original do artigo 195, I, da Constituição do Brasil, estabelecia que a contribuição incidiria sobre o faturamento. A EC 20/98 deu nova redação a esse preceito constitucional ao ampliar a incidência para a receita ou para o faturamento. A Lei n. 9.718/98, artigo 3º, inciso I, ofendeu o disposto no § 4º do artigo 195 da Constituição do Brasil ao criar a nova fonte de contribuição por não ter observado a técnica de competência residual da União [CB/88, artigo 154, I, c/c artigo 195, § 4º].
+4.  O Supremo declarou a inconstitucionalidade do § 1º do artigo 3º da Lei n. 9.718/98 na parte em que acrescentou receitas diversas daquelas do produto da venda de mercadoria, de mercadoria e serviços e de serviço de qualquer natureza ao conceito de receita bruta do contribuinte [LC 70/91, artigo 2º]. A instituição de nova fonte destinada à manutenção da seguridade social somente seria admissível pela via de lei complementar [CB/88, artigo 195, § 4º].
+5.  Recentemente, o Plenário do Supremo Tribunal Federal, na Sessão do dia 10 de setembro de 2008, ao apreciar questão de ordem no RE n. 585.235, Relator o Ministro Cezar Peluso, reafirmou este entendimento.
+ Assim, dou parcial provimento ao recurso, com esteio no artigo 557, § 1º-A, do CPC, para determinar a exclusão do alargamento da base de cálculo da COFINS prevista no § 1º do artigo 3º da Lei n. 9.718/98, pois declarada a inconstitucionalidade desse texto normativo por este Tribunal. Custas ex lege. Sem honorários advocatícios [Súmula n. 512/STF].
+ Publique-se.
+ Brasília, 9 de outubro de 2008.
+Ministro Eros Grau
+- Relator -
+1
