@@ -1,0 +1,3 @@
+Solução de Divergência Cosit nº 37, de 9 de outubro de 2008
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins EMENTA: Os combustíveis e lubrificantes utilizados ou consumidos no processo de produção de bens e serviços geram créditos do regime de apuração não-cumulativa da Cofins. DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3º, II e § 2º; Lei nº 10.865, de 2004, art. 40. ASSUNTO: Contribuição para o PIS/Pasep EMENTA: Os combustíveis e lubrificantes utilizados ou consumidos no processo de produção de bens e serviços geram créditos do regime de apuração não-cumulativa da Contribuição para o PIS/Pasep. DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 3º, II e § 2º; Lei nº 10.865, de 2004, art. 40.
+[arquivo anexo: SD Cosit nº 37-2008.pdf]
