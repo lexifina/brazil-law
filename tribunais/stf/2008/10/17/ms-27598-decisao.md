@@ -1,0 +1,121 @@
+DECISÃO
+
+MANDADO DE SEGURANÇA. ACÓRDÃO N. 2.322/2006 DO TRIBUNAL DE CONTAS DA UNIÃO. PEDIDO DE SUSPENSÃO DE EXECUÇÃO DO ACÓRDÃO IMPUGNADO ATÉ TRÂNSITO EM JULGADO DA AÇÃO N. 2004.01.1.107916-5 EM TRÂMITE NA JUSTIÇA COMUM. DECADÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DO DESACERTO DO ACÓRDÃO N. 2.322/2006. MANDADO DE SEGURANÇA AO QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+
+1. Mandado de segurança, com pedido de medida liminar, impetrado pela Confederação Brasileira do Desporto Universitário – CBDU, em 18.9.2008, contra o “acórdão nº 2322/2006, proferido pela 1ª Câmara do Tribunal de Contas da União [que] resultou em decisão desfavorável a pretensão da IMPETRANTE” (fl. 4, grifos no original).
+
+O caso
+
+2. A Impetrante explica que ajuizou “processo de declaração de responsabilidade contra a antiga diretoria da CBDU, que tramita na 2ª Vara Cível do Distrito Federal (...) autuado sob o nº 2004.01.1.107916-5 [e que] toda preocupação da atual diretoria da CBDU objetivava exclusivamente resguardar a CBDU de sanções judiciais resultantes de atos de má administração e irresponsabilidade da sua antiga administração” (fl. 11, grifos no original).
+
+Relata que, nos autos do Processo TC 019.201/2002-0, “em 22 de agosto de 2006 [a 1ª Câmara do Tribunal de Contas da União teria] proferido acórdão nº 2322/2006 (...) condenando a CBDU ao pagamento de R$ 58.731,57 (cinqüenta e oito mil, setecentos e trinta e um reais e cinqüenta e sete centavos) por ato ilegal, praticado pela administração da CBDU, à época da celebração do CONVÊNIO INDESP 035/1999, que ocasionou a TOMADA DE CONTAS ESPECIAL RELATIVA AO CONVÊNIO INDESP 035/199” (fl. 12).
+
+A Impetrante argumenta que “o presente mandado de segurança [seria] instrumento hábil para sanar o problema provocado pelo Poder Judiciário do Distrito Federal em atender adequadamente a solicitação da CBDU no processo n 2004.01.1.107916-5 que tramita junto à segunda vara cível” (fl. 18).
+
+Sustenta que “merece[ria] amparo a pretensão da requerente – CBDU, no presente mandado de segurança, pois não [seria] aceitável que pessoa jurídica utilizada de modo a contrariar a lei por seus antigos dirigentes irresponsáveis seja penalizada com a morte civil” (fl. 22).
+
+Reitera que “se utiliza do presente mandado de segurança como tentativa de evitar que sofra dano irreparável ou de difícil reparação, pois desde 05 de dezembro de 2007 impetrou junto ao Supremo Tribunal Federal – STF mandado de segurança requerendo a concessão do efeito suspensivo ao recurso de revisão interposto junto ao Tribunal de Contas da União e até a presente data o MS 27041 encontra[ria]-se com vista à Procuradoria Geral da República e [teria] h[avido] perda de objeto do Mandado de Segurança, ocorrendo dano a requerente CBDU, uma vez que o recurso de revisão supracitado [teria sido] julgado pelo TCU” (fl. 34).
+
+Requer, liminarmente, a “suspensão do proc. Nº 015.542/2008-0 gerado pelo processo nº 019.201/2002-0 junto ao Tribunal de Contas da União” e, ainda, a “suspensão dos efeitos do acórdão nº 2322/2006 do TCU, até o trânsito em julgado da decisão no processo nº 2004.01.1.107916-5, que tramita junto ao Tribunal de Justiça do Distrito Federal” (fl. 36, grifos no original).
+
+No mérito, pede “seja concedido o Mandado de Segurança confirmando a liminar ora rogada” (fl. 36, grifos no original).
+
+3. Em 13.10.2008, o Tribunal de Contas da União prestou informações no seguinte sentido:
+
+“EMENTA: Mandado de segurança, com pedido de medida liminar, impetrado pela Confederação Brasileira do Desporto Universitário, buscando a suspensão da decisão contida no Acórdão 2322/2006-TCU-1ª Câmara, que julgou as contas irregulares e imputou débito no valor de R$ 58.731,57, em função da não-aplicação de recursos de contrapartida para a execução do Convênio 035/99 (48° Jogos Universitários Brasileiros).
+1) Quando existe fundamento próprio para a condenação da pessoa jurídica, distinto da irregularidade da gestão, é legítima a imputação de débito quando da não-aplicação dos valores de contrapartida exigidos da Confederação. No caso concreto, a Confederação se obrigou a aplicar 20% de seus recursos próprios (contrapartida) para a execução do Convênio e, no entanto, deixou de aplicar seus recursos próprios.
+2) As irregularidades em gestões anteriores fundamentaram o julgamento de irregularidade e a condenação em débito dos valores indevidamente aplicados (item 9.1 do Acórdão). Diversamente, a condenação da impetrante, após o devido processo legal, referente ao segundo item, não está ligada à má administração do antigo gestor, mas, sim, à não aplicação de recursos de contrapartida no objeto conveniado.
+3) A decisão de mérito na mencionada ação judicial em nada modificará a condenação da Confederação por fundamento próprio e distinto da má aplicação dos recursos públicos.
+4) Não-cabimento da liminar, ante a ausência do fumus boni juris e do periculum in mora” (fl. 102).
+
+Examinados os elementos havidos nos autos, DECIDO.
+
+4. Apesar da falta de clareza no apontamento do ato coator e da prolixa e extensa petição inicial, pode-se concluir que o presente Mandado de Segurança insurge-se contra a execução do Acórdão n. 2.322/2006, proferido pelo Tribunal de Contas da União, em 22.8.2006, nos autos da Tomada de Contas Especial n. 019.201/2002-0:
+
+“TOMADA DE CONTAS ESPECIAL. CONVÊNIO. APLICAÇÃO PARCIAL DOS RECURSOS FEDERAIS. RESPONSÁVEL FALECIDO. NÃO-APLICAÇÃO DA CONTRAPARTIDA. CONTAS IRREGULARES.
+1. A ausência de comprovação da regular aplicação de parte dos recursos implica no julgamento pela irregularidade das contas do responsável e na condenação em débito, relativamente à parcela indevidamente despendida.
+2. Concluída a partilha dos bens do responsável falecido, a condenação em débito recai sobre os sucessores, proporcionalmente ao respectivo quinhão e até o limite do patrimônio transferido.
+3. A ausência de comprovação da aplicação da contrapartida implica no julgamento pela irregularidade das contas da entidade convenente e na condenação em débito, calculado na proporção do valor despendido exclusivamente com recursos federais” (DOU 29.8.2006).
+
+No voto condutor deste acórdão, o Ministro Valmir Campelo consignou:
+
+“Observa-se dos elementos constantes dos autos e da análise empreendida pela unidade técnica que o débito encontra-se devidamente caracterizado, tendo em vista as irregularidades elencadas no Relatório que precede este Voto.
+2. Restou demonstrado que despesas no montante de R$ 106.342,13 foram realizadas sem comprovação ou de forma ilegítima, fora do objeto pactuado entre o órgão concedente e a entidade beneficiária.
+3. Por sua vez, os elementos de defesa apresentados pela representante do espólio do responsável, a viúva do Sr. César Ferreira de Sousa, não lograram elidir as irregularidades, limitando-se a tecer argumentos sobre a boa reputação e o bom nome do falecido e sobre a impossibilidade de contestar a imputação feita ao responsável, por total desconhecimento dos fatos.
+4. Tendo em vista que foi concluída a partilha dos bens deixados pelo responsável falecido, a condenação ao pagamento deve recair sobre os sucessores, como bem identificado pela unidade técnica.
+5. Deixo, contudo, de endossar a proposta de encaminhamento de cópia dos autos ao Ministério Público da União porque, uma vez ocorrida a morte do responsável, inviável se mostra a persecução penal.
+6. Quanto à questão da contrapartida, entendo adequada a proposta da unidade técnica, com a qual se colocou de acordo o MP/TCU, devendo a Confederação Brasileira do Desporto Universitário/CBDU ser responsabilizada pela proporcionalidade dos valores que se comprometeu a aportar para a consecução do objeto do convênio e em relação aos quais não comprovou a efetiva aplicação.
+7. Ora, é inquestionável que o objeto da avença foi realizado, ou seja, foi efetivamente operacionalizada a realização dos 48º Jogos Universitários Brasileiros - JUB’s/99, na cidade de Natal-RN, no período de 28 de maio a 6 de junho de 1999.
+8. O que se questiona é o fato de que a despesa efetivamente destinada ao objeto avençado ter sido de R$ 293.657,87, já descontados os valores impugnados por ausência de comprovação ou por se referirem a gastos ilegítimos, fora do objeto pactuado, enquanto havia sido inicialmente previsto o esforço conjunto do Poder Público e da CBDU para a operacionalização do evento, no montante de R$ 500.000,00 e na proporção de aporte de recursos financeiros de 80% e 20% para cada parte, respectivamente. Assim, considerando o valor realmente aplicado (R$ 293.657,87), caberia à CBDU contribuir com R$ 58.731,57 a título de contrapartida, para que se mantivesse a proporção de 20%.
+9. Entretanto, a aplicação dessa proporção da contrapartida não foi comprovada, seja na prestação de contas do convênio, seja na oportunidade de defesa aberta à entidade beneficiária nestes autos.
+10. Resulta, portanto, que os valores aplicados foram oriundos exclusivamente dos recursos federais repassados. A CBDU deve, por conseguinte, restituir aos cofres federais a proporcionalidade da contrapartida que lhe cabia aplicar, em consonância com a Subcláusula Segunda da Cláusula Quarta do instrumento celebrado entre as partes, verbis:
+“Na hipótese de o objeto pactuado vir a ser satisfatoriamente concluído somente com a utilização dos recursos financeiros transferidos pelo CONCEDENTE, obriga-se a CONVENENTE a devolver os recursos financeiros correspondentes à sua contrapartida, que, observada a proporcionalidade de sua participação, conforme definida no caput desta Cláusula, deverá ser calculada sobre o valor despendido pelo CONCEDENTE e aplicado na consecução do objeto conveniado.
+(...)
+ACORDAM os Ministros do Tribunal de Contas da União, reunidos em Sessão da Primeira Câmara, ante as razões expostas pelo Relator, em:
+(...)
+9.2. com fundamento nos arts. 1º, inciso I; 16, inciso III, alínea ‘a’; 19, caput; e 23, inciso III, alínea ‘a’, todos da Lei nº 8.443/92; c/c o art. 214, inciso III, alínea ‘a’, do Regimento Interno do Tribunal, julgar irregulares as contas da Confederação Brasileira de Desporto Universitário - CBDU, CNPJ nº 42.467.787/0001-46, condenando-a ao pagamento da importância de R$ 58.731,57 (cinqüenta e oito mil, setecentos e trinta e um reais e cinqüenta e sete centavos), atualizada monetariamente e acrescida dos juros de mora devidos, nos termos da legislação vigente, a partir de 2/6/1999, até a efetiva quitação do débito, fixando-lhe o prazo de 15 (quinze) dias, a contar da ciência, para que comprove, perante o Tribunal, o recolhimento da referida importância ao Tesouro Nacional” (DOU 29.8.2006).
+
+Em razão da omissão da Impetrante quanto aos desdobramentos do que confusamente narrado, foi realizada consulta ao sítio do Tribunal de Contas da União no qual consta informação de que contra o Acórdão n. 2.322/2006 a Impetrante opôs embargos de declaração (Acórdão n. 246/2007, de 13.2.2007, DOU 16.2.2007 ), recurso de reconsideração (Acórdão n. 2.642/2007, de 4.9.2007, DOU 6.9.2007) e recurso de revisão (Acórdão n. 1.083/2008, de 11.6.2008, DOU 13.6.2008), nenhum deles conhecido.
+
+Nas 36 laudas em que reitera, por simplesmente 15 vezes, a imperiosidade de se suspender a execução do Acórdão 2.322/2006 (sob pena de lhe serem causados “danos irreparáveis”), extrai-se que o ato impugnado só pode ser o Acórdão n. 2.322/2006, proferido em 22.8.2006 e publicado em 29.8.2006.
+
+O artigo 18 da Lei n. 1.533/1951 estabelece:
+
+“Art. 18. O direito de requerer mandado de segurança extinguir-se-á decorridos cento e vinte dias contados da ciência, pela interessado, do ato impugnado”.
+
+Transcorridos mais de dois anos entre a data da publicação do ato tido como coator (29.8.2006) e a data da impetração deste mandado de segurança (18.9.2008), a espécie é manifestamente intempestiva, uma vez que o prazo decadencial não admite suspensão ou interrupção.
+
+E nem se há dizer que os recursos interpostos pela ora Impetrante teriam o condão de suspender os efeitos do Acórdão n. 2.322/2006. É que, de acordo com o Regimento Interno do Tribunal de Contas da União, apenas o recurso de reconsideração poderia suspender a execução dos efeitos do acórdão impugnado. Entretanto, este recurso sequer foi conhecido, por ser intempestivo, a evidenciar que, em 6.9.2007, data da publicação do Acórdão n. 2.642/2007, iniciou-se o prazo decadencial.
+
+5. Não fosse isso o suficiente para impedir o processamento deste mandado de segurança, de se ver também que a pretensão liminar da ora Impetrante nos autos do Mandado de Segurança n. 27.041/DF - no sentido de que fosse deferido efeito suspensivo ao recurso de revisão interposto contra o Acórdão n. 2.322/2006 - foi indeferida pelo Ministro Carlos Britto nos termos seguintes:
+
+“Trata-se de mandado de segurança, aparelhado com pedido de medida liminar, impetrado pela Confederação Brasileira do Desporto Universitário - CBDU, contra ato do Tribunal de Contas da União. Ato veiculado pelo Acórdão nº 2.642/2007-TCU-1ª Câmara, que não conheceu de recurso de reconsideração ali interposto.
+2. Informa a autora que: a) firmou convênio com o antigo Instituto Nacional do Desenvolvimento do Desporto (Indesp) para a realização dos 48º Jogos Universitários Brasileiros; b) o TCU, através do Acórdão nº 2.322/2006-TCU-1ª Câmara, julgou irregulares as contas do convênio e condenou a impetrante no pagamento de R$ 58.731,57 (cinqüenta e oito mil, setecentos e trinta e um reais e cinqüenta e sete centavos), referentes à contrapartida da CBDU; c) opôs embargos de declaração e recurso de reconsideração, ambos não-conhecidos pelo Tribunal de Contas da União.
+3. O que pretende a autora, com este mandado de segurança, é conferir efeito suspensivo ao recurso de revisão que veio de interpor perante o TCU. Para tanto, alega que a decisão tribunalícia contraria a prova dos autos e que sua execução imediata implicará dano irreparável à impetrante, associação sem fins lucrativos. Daí requerer, em sede de liminar, “se empreste excepcionalmente, efeito suspensivo ao RECURSO DE REVISÃO interposto contra Acórdão nº 2322/2006, proferido pela 1ª Câmara do Egrégio Tribunal de Contas da União”.
+4. É o relatório. Decido.
+5. São requisitos para a concessão da medida acauteladora a plausibilidade jurídica do pedido (fumus boni juris) e o perigo da demora na prestação jurisdicional (periculum in mora). No caso, tenho que o primeiro deles está ausente. É que a autora não trouxe qualquer prova (nem mesmo indício) de que o Acórdão do TCU estivesse equivocado.
+6. Explico melhor. Com base em auditoria feita pela Corte de Contas, chegou-se à conclusão de que, entre outras irregularidades mais graves, a CBDU não aplicou, na realização dos 48º Jogos Universitários Brasileiros, a contrapartida a que se obrigou por convênio. E o que fez a autora? Interpôs todos os recursos possíveis perante o TCU, sem trazer qualquer fundamento novo e descurando, inclusive, do prazo recursal. Atitude que deixa transparecer uma intenção meramente protelatória, parecendo este mandado de segurança um reprovável expediente (mais um) da tática de adiar, ao máximo, o pagamento do débito que lhe foi imposto.
+7. Este o quadro, indefiro a liminar, sem prejuízo de uma mais detida análise quando do julgamento do mérito da causa” (DJ 19.12.2007, grifos no original).
+
+Tal como no Mandado de Segurança n. 27.041/DF, a Impetrante deixa, deliberadamente, de juntar os documentos que comprovariam a existência do alegado direito líquido e certo de que seria titular.
+
+A pacífica jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que cabe ao impetrante juntar aos autos, no momento da impetração, provas pré-constituídas de seu direito.
+
+Na assentada de 11.3.2008, no julgamento do Recurso Ordinário em Mandado de Segurança n. 25.736/DF, Rel. Min. Marco Auré lio, Redator para o a córdão o Ministro Ricardo Lewandowski, a Primeira Turma decidiu:
+
+“EMENTA: RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACÓRDÃO PROFERIDO PELA TERCEIRA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA, QUE DENEGOU MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO DO MINISTRO DE ESTADO DO PLANEJAMENTO ORÇAMENTO E GESTÃO. DEMISSÃO DO QUADRO DE PESSOAL DA EXTINTA SUPERINTENDÊNCIA PARA O DESENVOLVIMENTO DA AMAZÔNIA - SUDAM. UTILIZAÇÃO DO CARGO EM PROVEITO DE OUTREM, PROCEDER DE FORMA DESIDIOSA, TER CONDUTA ÍMPROBA E PROVOCAR LESÕES AOS COFRES PÚBLICOS. I. O acórdão recorrido faz referência expressa ao parecer da Consultoria Jurídica do Ministério do Planejamento, Orçamento e Gestão e o adota como razão de decidir. O processo administrativo é um continuum, integrado por provas materiais, depoimentos pessoais, manifestações técnicas e outras informações, nos quais se lastreia a decisão final da autoridade competente para prolatá-la. II. Inocorrência de direito líquido e certo, que pressupõe fatos incontroversos apoiados em prova pré-constituída. Não se admite, pois, dilação probatória . III. Precedentes. IV. Recurso improvido” (DJ 18.4.2008).
+
+“(...) O PROCESSO MANDAMENTAL NÃO COMPORTA DILAÇÃO PROBATÓRIA. - O processo de mandado de segurança qualifica-se como processo documental, em cujo âmbito não se admite dilação probatória, pois a liquidez dos fatos, para evidenciar-se de maneira incontestável, exige prova pré-constituída, circunstância essa que afasta a discussão de matéria fática fundada em simples conjecturas ou em meras suposições ou inferências” (MS 23.652-DF, Rel. Min. Celso de Mello, Tribunal Pleno, DJ 16.2.2001, grifos nossos).
+
+“EMENTA: MANDADO DE SEGURANÇA. DESAPROPRIAÇÃO. JUNTADA DE DOCUMENTOS APÓS O TÉRMINO DA INSTRUÇÃO DO PROCESSO. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. Consoante a doutrina e jurisprudência dominantes, no mandado de segurança, as provas devem existir e ser apresentadas no momento da impetração, salvo se não-acessíveis às partes, quando, então, deve o juiz determinar que a Administração ou quem as detenha as apresente. Impossibilidade de dilação probatória na via estreita do mandado de segurança . (...)”   (MS 25.325-AgR/DF, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJ 7.4.2006).
+
+“ MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DUPLA APOSENTADORIA. ESPECIALISTA E CONTRATO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS. PROVA PRÉ-CONSTITUÍDA. 1. Não há que se confundir a simples nomenclatura de especialista, usada em decreto, com a relação contratual de prestação de serviços técnicos e especializados prevista na norma constitucional (art. 99, § 4º, CF/69). 2. Assim como a jurisprudência, também a doutrina é pacífica no sentido de que o mandamus não admite dilação probatória. A prova do alegado direito líquido e certo deve ser pré-constituída. 3. Agravo improvido ”   ( MS 25 . 054-AgR/DF , Rel. Min. Ellen Gracie, Tribunal Pleno , DJ 26 . 5 . 2006 , grifos nossos) .
+
+E, ainda: MS 26 . 284/DF , Rel. Min. Menezes Direito, Tribunal Pleno , DJ 13.6.2008; MS 24 . 964/DF , de minha relatoria, Tribunal Pleno , DJ 1º.2.2008; MS 24.928-DF, Rel. Min. Carlos Velloso, Tribunal Pleno, DJ 24.2.2006; RMS 24 . 537/DF , Rel. Min. Carlos Velloso , Segunda Turma , DJ 16 .1 2 . 2005 ; MS 24.719/DF, Rel. Min. Carlos Velloso, Tribunal Pleno, DJ 14.5.2004; e MS 22.724-MG, Rel. Min. Carlos Velloso, Tribunal Pleno, DJ 7.11.1997.
+
+6. Registre-se, por fim, inexistir, nos autos, notícia sobre os atos praticados no Processo n. 015.542/2008-0 (gerado pelo Processo n. 019.201/2002-0, fl. 35) no qual, supostamente, está sendo realizada a execução do Acórdão n. 2.233/2008. Sem tecer qualquer tipo de argumentação sobre esse processo, curiosamente, o pleito aqui formulado é no sentido de que seja determinada a sua suspensão até “o trânsito em julgado da decisão no processo n. 2004.01.1.107916-5 (...), por se[r] medida processual idônea capaz de livrá-la dos danos que virá a suportar” (fl. 35).
+
+A simples alegação de que teria ajuizado, em 2004, a Ação de Responsabilidade n. 2004.01.1.107916-5 perante a 2ª Vara Cível do Tribunal de Justiça do Distrito Federal e Territórios, com o objetivo de obter a exclusão da responsabilidade da pessoa jurídica – Confederação Brasileira do Desporto Universitário – CBDU, mostra-se igualmente inócua e não afasta os fundamentos amplamente debatidos e que vieram a ser adotados pelo Acórdão n. 2.233/2006 do Tribunal de Contas da União.
+
+É que, como esclarecido pelo Tribunal de Contas da União em suas informações, não há evidências de que o ato apontado como coator estaria equivocado:
+
+“(...) nos autos do processo de tomada de contas especial foram sindicados 2 (dois) problemas diferentes: a) a realização de despesas no montante de R$ 106.342,13, sem comprovação ou de forma ilegítima, fora do objeto pactuado entre o órgão concedente e a entidade beneficiária (item 2 do Voto) e b) não-aplicação dos valores de contrapartida que eram exigidos da Confederação e não foram aplicados.
+8. Quanto ao primeiro item (irregularidades do antigo gestor), o julgamento de irregularidade das contas e a conseqüente imputação de débito foram feitos diretamente ao responsável, conforme se extraí do item 9.1 do Acórdão originário (com os nossos destaques):
+9. Assim, a condenação da Confederação, após o devido processo legal, referente ao segundo item, não está liqada à má administração do antiqo gestor, mas, sim, à não-aplicação de recursos de contrapartida no objeto conveniado.
+Explica-se: no convênio firmado (Convênio 035/99), a União não concede a totalidade dos recursos, mas apenas uma determinada parcela, sendo que a convenente (CBDU) tinha a obrigação de aplicar recursos próprios na consecução dos objetivos daquela avença.
+10.  Também decorre da Subcláusula Segunda da Cláusula Quarta que a conclusão do objeto conveniado somente com recursos repassados pela União implica a devolução dos recursos referentes à contrapartida, observada a proporcionalidade da sua participação. Em outros termos: a proporção do repasse e dos gastos - 80% da União (Ministério da Educação) e 20% da Confederação - deve ser mantida, mesmo que a convenente venha a gastar menos recursos que aqueles acertados.
+11. No caso concreto, a decisão atacada pontua com meridiana clareza a responsabilidade própria da Confederação, pois, no total, o gestor anterior gastou de forma regular o valor de R$ 293.657,87 e, deste modo, a Confederação é obrigada a tirar, de seus recursos próprios (contrapartida), o quantitativo de 20% dos valores gastos:
+8. O que se questiona é o fato de que a despesa efetivamente destinada ao objeto avençado ter sido de R$ 293.657,87, já descontados os valores impugnados por ausência de comprovação ou por se referirem a gastos ilegítimos, fora do objeto pactuado, enquanto havia sido inicialmente previsto o esforço conjunto do Poder Público e da CBDU para a operacionalização do evento, no montante de R$ 500.000,00 e na proporção de aporte de recursos financeiros de 80% e 20% para cada parte, respectivamente. Assim, considerando o valor realmente aplicado (R$ 293.657,87), caberia à CBDU contribuir com R$ 58.731,57 a título de contrapartida, para que se mantivesse a proporção de 20%.
+12. Por fim, não importa à defesa da União abordar a impetração sob a ótica da independência de instâncias, pois o objeto da ação judicial e a condenação específica da entidade pelo TCU são coisas distintas: a análise perfunctória da ação judicial movida pela Confederação indica que o conflito ali instaurado, entre a Confederação e os gestores anteriores, em nada vai modificar o fato de que a entidade deixou de aplicar o valor de R$ 58.731,57, excluído os valores que foram impugnados pelo TCU e imputados diretamente ao antigo gestor (sr. César Ferreira de Souza).
+13. Deste modo, a decisão de mérito na mencionada ação judicial em nada modificará a condenação da Confederação por fundamento próprio e distinto da má aplicação dos recursos públicos. Ou seja, a superveniência daquela condenação judicial não afasta o fato de que a Confederação deve aplicar recursos próprios (contrapartida) para concluir os serviços propostos no Convênio” (fls. 105-107).
+
+7. Pelo exposto, nego seguimento ao presente mandado de segurança, ficando, por óbvio, prejudicada a medida liminar pleiteada (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+
+Brasília, 17 de outubro de 2008.
+
+Ministra CÁRMEN LÚCIA
+Relatora
