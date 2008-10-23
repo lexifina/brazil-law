@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF05 nº 6, de 10 de março de 2008
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins EMENTA: Na produção de determinado bem, a subcontratação de outra pessoa jurídica para produzi-lo não se caracteriza como insumo, não sendo possível o seu aproveitamento a título de crédito na apuração da Cofins na sistemática não-cumulativa. ASSUNTO: Contribuição para o PIS/Pasep EMENTA: Na produção de determinado bem, a subcontratação de outra pessoa jurídica para produzi-lo não se caracteriza como insumo, não sendo possível o seu aproveitamento a título de crédito para apuração da Contribuição para o PIS/PASEP na sistemática não-cumulativa.
+[arquivo anexo: SC Disit-SRRF05 nº 6-2008.pdf]
