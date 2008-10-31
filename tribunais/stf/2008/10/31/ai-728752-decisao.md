@@ -1,0 +1,11 @@
+DECISÃO: Vistos, etc.
+Trata-se de processo em que se discute a inclusão do ICMS na base de cálculo da COFINS e da contribuição ao PIS.
+2. Pois bem, na Sessão Plenária do dia 24.08.2006, o Supremo Tribunal Federal iniciou a apreciação da controvérsia (RE 240.785, sob a relatoria do ministro Marco Aurélio). Posteriormente, concluiu pela presença de repercussão geral na matéria em exame (RE 574.706, sob a relatoria da ministra Cármen Lúcia).
+3. Isso posto, dou provimento ao agravo de instrumento para admitir o recurso extraordinário. Com base no parágrafo único do art. 328 do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do Código de Processo Civil.
+Publique-se.
+Brasília, 31 de outubro de 2008.
+
+Ministro CARLOS AYRES BRITTO
+Relator
+
+1
