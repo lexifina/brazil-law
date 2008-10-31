@@ -1,0 +1,37 @@
+DECISÃO
+
+Vistos.
+Golden Cross Assistência Internacional de Saúde Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos XXXV, XXXVI e LV, e 170 da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Primeira Turma Recursal dos Juizados Especiais Cíveis do Estado do Rio de Janeiro que manteve, por seus próprios fundamentos, a sentença de primeiro grau
+Destaca-se do texto da referida decisão monocrática:
+
+“(...), é inegável que o aumento da mensalidade unilateralmente pela ré, configura-se extremamente abusivo, eis que da forma como foi imposto, coloca o consumidor em situação de extrema desvantagem na relação contratual, que assim, se torna demasiadamente onerosa para uma das partes, a hipossuficiente. Na verdade, a majoração de mensalidade, da forma como feita, constitui barreira impeditiva do cumprimento do dever contratual, inviabilizando por completo a continuidade do contrato, obstando até mesmo que o consumidor permaneça na condição de associado. Importante frisar que se por um lado, o valor da mensalidade obedece cálculos atuariais baseados no risco segurado, por outro lado, tais valores devem ser objeto de demonstração clara e precisa ao consumidor, previamente, de forma a permitir sua discussão e escolha por permanecer ou não como contratante. Na verdade, o procedimento da ré constitui variação unilateral e arbitrária do preço, sem a devida comprovação da alegada elevação dos custos operacionais. Assim, deve a parte ré ser compelida a manter o valor das mensalidades sem o reajuste referido, devendo apenas aumentar no patamar de 11,75%, entendendo este Julgador que todo e qualquer aumento acima deste patamar, seja a que título for. Entendo que a faixa etária só pode interferir no valor da cobrança quando da adesão ao plano e não durante a vigência do contrato” (fls. 119/120).
+
+Opostos embargos de declaração (fls. 139 a 142), foram rejeitados (fl. 144).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 7/11/05, conforme expresso na certidão de folha 144verso, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação.
+A jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição da República, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP – AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes.” (AI nº 360.265/RJ - AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+
+Por outro lado, o Tribunal de origem decidiu a controvérsia sobre o aumento das mensalidades do plano de saúde à luz do Código de Defesa do Consumidor. Assim, a alegada ofensa aos artigos 5º, inciso XXXVI, e 170 da Constituição Federal, se houvesse, seria indireta ou reflexa, pressupondo o prévio exame de legislação infraconstitucional e de cláusulas contratuais, o que não enseja reexame na via do recurso extraordinário. Incidência das Súmulas nºs 279 e 454 desta Corte. Nesse sentido, anote-se:
+
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRATO. PLANO DE SAÚDE. IMPOSSIBILIDADE DO EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULA DE ESTATUTO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 610.930/MS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 20/6/08).
+
+“Agravo regimental em agravo de instrumento. 2. Matéria prequestionada. 3. Contrato. Plano de saúde. Cláusula contratual. Aplicação da Súmula 454 do STF. Ofensa reflexa à CF/88. 4. Agravo regimental a que se nega provimento” (AI nº 498.374/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 14/3/08).
+
+“1. RECURSO. Agravo de instrumento. Inadmissibilidade. Falta de prequestionamento. Comprovação de que a discussão da matéria constitucional foi adequadamente provocada. Decisão agravada. Reconsideração. Demonstrada a existência do prequestionamento, deve ser reapreciado o recurso. 2. RECURSO. Extraordinário. Inadmissibilidade. Dano moral. Indenização. Reexame de fatos e provas. Aplicação das súmulas nº 279 e 454. Agravo regimental improvido. Não cabe recurso extraordinário que tenha por objeto o simples reexame de fatos e provas, nem a interpretação de cláusula contratual. 3. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Argumentação velha. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (AI nº 601.713/CE-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 22/6/07).
+
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. OFENSA REFLEXA. MATÉRIA FÁTICA E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. PLANO DE SAÚDE. DIREITO À INFORMAÇÃO. RELAÇÃO CONSUMERISTA. I - Decisão monocrática que negou seguimento ao agravo de instrumento em razão da ausência de prequestionamento, da configuração de ofensa reflexa à Constituição e da necessidade de reexame de matéria fática e de interpretação de cláusulas contratuais. II - Inexistência de novos argumentos capazes de afastar as razões expendidas na decisão ora atacada, que deve ser mantida. III - Agravo regimental improvido” (AI nº 560.316/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 6/10/06).
+
+Nego provimento ao agravo.
+Intime-se.
+Brasília, 31 de outubro de 2008.
+
+Ministro MENEZES DIREITO
+Relator
+
+1
