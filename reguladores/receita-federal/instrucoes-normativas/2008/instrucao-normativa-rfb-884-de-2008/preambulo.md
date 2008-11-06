@@ -1,0 +1,4 @@
+Instrução Normativa RFB nº 884, de 5 de novembro de 2008
+Dispõe sobre a celebração de convênio entre a Secretaria da Receita Federal do Brasil (RFB), em nome da União, o Distrito Federal e os Municípios para delegação das atribuições de fiscalização, inclusive a de lançamento de créditos tributários, e de cobrança do Imposto sobre a Propriedade Territorial Rural (ITR).
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, tendo em vista o disposto na Lei nº 11.250, de 27 de dezembro de 2005, e no Decreto nº 6.433, de 15 de abril de 2008, alterado pelo Decreto nº 6.621, de 29 de outubro de 2008, resolve:
+CAPÍTULO I DAS DISPOSIÇÕES GERAIS
