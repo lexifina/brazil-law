@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 886, de 6 de novembro de 2008
+Altera a Instrução Normativa RFB nº 757, de 25 de julho de 2007, que dispõe sobre o Regime Aduaneiro Especial de Entreposto Industrial sob Controle Informatizado (Recof).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto nos arts. 374 e 375 do Decreto nº 4.543, de 26 de dezembro de 2002, com a redação dada pelo Decreto nº 6.622, de 29 de outubro de 2008, resolve:
