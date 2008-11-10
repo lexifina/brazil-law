@@ -1,8 +1,8 @@
 Art. 18. Compete ao Conselho Nacional de Assistência Social:
 I - aprovar a Política Nacional de Assistência Social;
 II - normatizar as ações e regular a prestação de serviços de natureza pública e privada no campo da assistência social;
-III - observado o disposto em regulamento, estabelecer procedimentos para concessão de registro e certificado de entidade beneficente de assistência social às instituições privadas prestadoras de serviços e assessoramento de assistência social que prestem serviços relacionados com seus objetivos institucionais;
-IV - conceder registro e certificado de entidade beneficente de assistência social;
+III - acompanhar e fiscalizar o processo de certificação das entidades e organizações de assistência social junto ao Ministério do Desenvolvimento Social e Combate à Fome; Rejeitada
+IV - apreciar relatório anual que conterá a relação de entidades e organizações de assistência social certificadas como beneficentes e encaminhá-lo para conhecimento dos Conselhos de Assistência Social dos Estados, Municípios e do Distrito Federal; Rejeitada
 V - zelar pela efetivação do sistema descentralizado e participativo de assistência social;
 VI - a partir da realização da II Conferência Nacional de Assistência Social em 1997, convocar ordinariamente a cada quatro anos a Conferência Nacional de Assistência Social, que terá a atribuição de avaliar a situação da assistência social e propor diretrizes para o aperfeiçoamento do sistema;
 VII - (Vetado.)
@@ -13,4 +13,3 @@ XI - estabelecer diretrizes, apreciar e aprovar os programas anuais e plurianuai
 XII - indicar o representante do Conselho Nacional de Assistência Social (CNAS) junto ao Conselho Nacional da Seguridade Social;
 XIII - elaborar e aprovar seu regimento interno;
 XIV - divulgar, no Diário Oficial da União, todas as suas decisões, bem como as contas do Fundo Nacional de Assistência Social (FNAS) e os respectivos pareceres emitidos.
-Parágrafo único. Das decisões finais do Conselho Nacional de Assistência Social, vinculado ao Ministério da Assistência e Promoção Social, relativas à concessão ou renovação do Certificado de Entidade Beneficente de Assistência Social, caberá recurso ao Ministro de Estado da Previdência Social, no prazo de trinta dias, contados da data da publicação do ato no Diário Oficial da União, por parte da entidade interessada, do Instituto Nacional do Seguro Social - INSS ou da Secretaria da Receita Federal do Ministério da Fazenda.
