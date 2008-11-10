@@ -1,0 +1,26 @@
+DECISÃO: 1. Trata-se de mandado de segurança, com pedido de liminar, impetrado por servidor público aposentado da Fundação Universidade de Brasília, contra ato do Tribunal de Contas da União, do Secretário de Recursos Humanos da Secretaria de Estado da Administração e do Patrimônio do Ministério do Planejamento, Orçamento e Gestão e da Secretária de Recursos Humanos da Fundação Universidade de Brasília.
+
+O pedido de writ ataca os atos dessas autoridades, uma vez que ao Ministério do Planejamento coube comunicar à Universidade de Brasília que adotasse as providências explicitadas no Acórdão/TCU nº 814/2005, o qual determinou a suspensão, dentre os proventos do impetrante, “do pagamento da GADF – Gratificação de Atividade pelo Desempenho de Função, cumulativamente com a VPNI – Vantagem Pessoal Nominalmente Identificada, oriunda de parcelas de décimos ou quintos e vencimento da FG - Função Gratificada ou similares”.
+
+Alega o impte., em síntese: a) incorporação de tais vantagens, por força da legislação vigente à época de sua aposentadoria; b) desrespeito ao princípio da segurança jurídica, haja vista que a vantagem vem sendo percebida há mais de 14 anos; c) percepção de boa-fé das verbas até aqui pagas pelo órgão concedente; e, d) não observância das garantias do contraditório e da ampla defesa.
+
+Requer, liminarmente, a suspensão dos efeitos do Acórdão nº 814/2008 - TCU, com o restabelecimento das vantagens e a restituição do que, eventualmente, já lhe tenha sido retirado.
+
+2.  O caso é de liminar.
+
+ Colho das informações prestadas no MS nº 25.935, por força do qual este writ foi-me distribuído por prevenção, que o Acórdão nº 814/2005 foi exarado em sede de inspeção, realizada na Secretaria de Recursos Humanos do Ministério do Planejamento, Orçamento e Gestão, com o objetivo de apurar eventual pagamento indevido das gratificações, de forma cumulativa, a inativos e pensionistas, no âmbito do Sistema Integrado de Administração de Recursos Humanos – SIAPE. Determinou, então, a autoridade, em caráter geral, a expressivo rol de órgãos públicos, dentre os quais o Ministério da Saúde, que suspendessem o pagamento da GADF, cumulativamente com a VPNI, oriunda de parcelas de décimos ou quintos e vencimento da FG - Função Gratificada ou similares. Desse comando, foram excetuados, nos termos do item “9.2”, (1) os inativos que já tivessem suas aposentadorias registradas pelo TCU, (2) aqueles cujos atos foram julgados ilegais, mas que estivessem pendentes de recurso com efeito suspensivo, e, finalmente, (3) os que contassem com decisão judicial posterior à apreciação do ato. Já o rol dos nomes dos destinatários da ordem, como o impetrante, consta do corpo do Acórdão (itens “9.1.1” a “9.1.20”). E do item “10” do voto condutor da decisão extrai-se a inaplicabilidade da Súmula/TCU nº 106, já que a questão da boa-fé, que isentaria de restituição dos valores percebidos indevidamente, estará sujeita a análise de cada caso, no momento do registro.
+
+Daí se tiram logo, neste juízo prévio e sumário, ao menos duas coisas que vêm sendo reiteradas pela jurisprudência desta Corte.
+
+A primeira, que o Acórdão do TCU tem caráter impositivo, razão por que excluo do processo, por ilegitimidade passiva ad causam, desde logo, o Secretário de Recursos Humanos da Secretaria de Estado da Administração e do Patrimônio do Ministério do Planejamento, Orçamento e Gestão, e a Secretária de Recursos Humanos da Fundação Universidade de Brasília, enquanto meros executores do ato coator (cf. MS nº 21.519, Rel. Min. OCTAVIO GALLOTTI, Rel. p/ Acórdão, Min. MOREIRA ALVES, DJ de 29/08/97; Ms nº 24.001, Rel. Min. MAURÍCIO CORRÊA, DJ de 20/09/02, e MS nº 25.426, Rel. Min. EROS GRAU, DJ de 30/06/05, e MS nº 25.568, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 08/1105).
+
+A segunda – e esta só razão basta para o deferimento da liminar -, que ao impetrante se negara o devido processo legal, na medida em que lhe não foram assegurados o contraditório e a ampla defesa, como cumpre também em processo administrativo (cf. RE nº 158.543, Rel. Min. MARCO AURÉLIO, DJ de 06/10/95; MS nº 24.268, Pleno, Rel. Min. ELLEN GRACIE, Rel. p/ ac. Min. GILMAR MENDES, DJ de17/09/2004; e MS nº 20.999, Pleno, Rel. Min. CELSO DE MELLO, DJ de 21/03/90), como está agora consagrado na súmula vinculante nº 3.
+
+3.   Do exposto, observadas e anotadas as exclusões já dispostas, defiro a liminar, para suspender, até decisão final deste mandado de segurança, os efeitos do Acórdão nº 814/2005 do TCU. Comunique-se, com urgência, aos órgãos responsáveis pelo cumprimento da decisão. Após, à PGR.
+
+Publique-se. Int..
+
+Brasília, 10 de novembro de 2008.
+
+Ministro CEZAR PELUSO
+Relator
