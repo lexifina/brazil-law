@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF08 nº 359, de 7 de outubro de 2008
+Assunto: Regimes Aduaneiros
+DEPÓSITO AFIANÇADO. OPERAÇÕES REALIZADAS NOS TERMOS DO ART. 21 DA IN SRF nº 409, DE 2004.
+Empresa de catering que receber provisões de bordo de companhia aérea beneficiária de regime aduaneiro especial de depósito afiançado, DAF, em consonância com o previsto no art. 21 da IN SRF nº 409, de 2004, deverá escriturar normalmente as notas fiscais emitidas pelas remetentes, como exigido pela legislação dos tributos internos a que se encontra sujeita. Caso a remetente esteja reconhecidamente dispensada da emissão de nota fiscal nessa operação, a empresa de catering deverá emitir nota fiscal de entrada quando do recebimento das provisões, a qual será normalmente escriturada em seus livros fiscais. Na saída das provisões da empresa de catering, ainda que tenham sido objeto de simples acondicionamento, deve ela emitir nota fiscal, com todos os requisitos regulamentares, bem assim as informações específicas mencionadas no art. 21, § 3º, da IN SRF nº 409, de 2004.
+A adoção dos controles informatizados pela companhia aérea beneficiária do DAF, conforme exigido para sua habilitação nesse regime, não substitui, nem dispensa, de plano, a companhia de catering de observar todas as obrigações acessórias de emissão de documentos e escrituração de livros fiscais que lhe são próprias, conforme a legislação dos tributos internos a que se encontra sujeita, relativamente às operações realizadas nos termos do art. 21 da IN SRF nº 409, de 2004.
+Dispositivos legais: IN SRF nº 409, arts. 4º e 21; Convênio S/Nº de 1970, e alterações (SINIEF), arts. 6º, 54, 70 e 71; Decreto nº 4.544, de 2002, arts. 24, inciso I, e 420.
+Novo segmento
+[arquivo anexo: SC SRRF08-Disit nº 359-2008.pdf]
