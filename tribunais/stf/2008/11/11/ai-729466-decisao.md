@@ -1,0 +1,34 @@
+DECISÃO
+Vistos.
+Nagib Rodrigues Amim interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, caput e incisos XXXV, LIV e LV, 7º, incisos XXX, XXXI e XXXII, e 93, inciso IX, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Sexta Turma do Tribunal Superior do Trabalho, assim ementado:
+
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. SALÁRIO PRODUÇÃO. MATÉRIA FÁTICA. DESPROVIMENTO. Não pode ser provido o agravo de instrumento que tem por objetivo o processamento de recurso de revista, quando o que se pretende é o reexame do fato controvertido e da prova produzida. Entendimento consagrado nas Súmulas nºs 126 e 296 desta Colenda Corte” (fl. 332).
+
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece prosperar.
+Não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que o agravante teve acesso aos recursos cabíveis na espécie e a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Ressalte-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então agravante, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ 18/5/01).
+Por outro lado, a jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+
+O acórdão recorrido assentou que o recorrente não faz jus ao salário produção consignando que, in verbis: “O eg. Tribunal Regional concluiu, analisando a prova trazida, que a norma coletiva não assegurava ao reclamante o salário produção, uma vez que exercia a função de inspetor da guarda portuária. O pagamento diferenciado atendeu à natureza da função exercida pelo trabalho conforme acordo firmado com o sindicato representante da categoria profissional” (fls. 334/335).
+Esse ponto está restrito ao exame das provas dos autos e da norma coletiva de trabalho, operação vedada em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido:
+
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. REEXAME DE PROVAS E DE CLÁUSULAS DE CONVENÇÃO COLETIVA. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. A verificação, em cada caso concreto, da ocorrência, ou não, de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada situa-se no campo infraconstitucional. 3. Reexame de fatos e provas e de cláusulas de convenção coletiva. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI nº 648.990/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 17/8/07).
+
+“1. A discussão relativa a pressupostos de admissibilidade de recurso trabalhista, analisada pelo Tribunal a quo no regular exercício de sua competência, é de natureza infraconstitucional, hipótese inviável de apreciação em sede extraordinária. 2. A análise do apelo extremo demanda o reexame dos fatos e das provas da causa, em relação à aplicação das cláusulas da norma coletiva ao reclamante (Súmulas STF nºs 279 e 454). 3. Agravo regimental improvido” (AI nº 458.166/SE-AgR, Segunda Turma, Relator o Ministro Ellen Gracie, DJ de 26/8/05).
+
+“1. Recurso extraordinário: descabimento: acórdão recorrido que se limitou a aplicar legislação infraconstitucional pertinente ao caso: alegada ofensa ao texto constitucional, que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636. 2. Recurso extraordinário: inadmissibilidade: interpretação de cláusulas de convenção coletiva de trabalho pela Justiça do Trabalho, de reexame inviável no RE: precedentes” (AI nº 518.850/RJ-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 15/4/05).
+
+Nego provimento ao agravo.
+Intime-se.
+Brasília, 11 de novembro de 2008.
+
+Ministro MENEZES DIREITO
+Relator
+1
