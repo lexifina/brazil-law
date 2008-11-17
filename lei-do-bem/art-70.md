@@ -8,7 +8,7 @@ b) até o 3º (terceiro) dia útil subseqüente ao decêndio de ocorrência dos 
 2. prêmios, inclusive os distribuídos sob a forma de bens e serviços, obtidos em concursos e sorteios de qualquer espécie e lucros decorrentes desses prêmios; e
 3. multa ou qualquer vantagem, de que trata o art. 70 da Lei nº 9.430, de 27 de dezembro de 1996;
 c) até o último dia útil do mês subseqüente ao encerramento do período de apuração, no caso de rendimentos e ganhos de capital distribuídos pelos fundos de investimento imobiliário; e
-d) até o último dia útil do 1º (primeiro) decêndio do mês subseqüente ao mês de ocorrência dos fatos geradores, nos demais casos;
+d) até o último dia útil do segundo decêndio do mês subseqüente ao mês de ocorrência dos fatos geradores, nos demais casos;
 II - IOF:
 a) até o 3º (terceiro) dia útil subseqüente ao decêndio de ocorrência dos fatos geradores, no caso de aquisição de ouro, ativo financeiro; e
 b) até o 3º (terceiro) dia útil subseqüente ao decêndio da cobrança ou do registro contábil do imposto, nos demais casos.
