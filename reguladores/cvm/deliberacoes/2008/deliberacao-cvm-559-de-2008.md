@@ -1,0 +1,20 @@
+Deliberação CVM nº 559, de 2008
+DELIBERAÇÃO CVM No 559, DE 18 DE NOVEMBRO DE 2008
+Delega competência à Superintendência de Relações com Empresas para manifestar a opinião da CVM quanto ao reconhecimento de situações em que não se justifica a sua atuação para exigir o cumprimento de determinados requisitos no âmbito de operações de reestruturação societária, nos casos em que especifica.
+A PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS – CVM torna público que o Colegiado, em reunião realizada em 5 de agosto de 2008, tendo em vista os arts. 16, XI, e 17, XIII, do Regimento Interno, aprovado pela Portaria 327, de 11 de julho de 1977, do Ministro da Fazenda, e considerando que:
+a) é facultado às autoridades da Administração Pública delegar competência para a prática de atos administrativos, conforme dispõe o Decreto no 83.937, de 6 de setembro de 1979;
+b) a delegação de competência é utilizada como instrumento de descentralização administrativa, com o objetivo de assegurar maior rapidez e objetividade às decisões, situando-as na proximidade dos fatos, pessoas ou problemas a atender;
+c) o Colegiado da CVM, ao analisar determinadas operações de reestruturação societária, firmou entendimento de que não se justifica qualquer atuação da CVM no sentido de exigir o cumprimento de determinados requisitos do art. 264 da Lei nº 6.404, de 15 de dezembro de 1976, bem como dos arts. 2º e 12 da Instrução CVM nº 319, de 3 de dezembro de 1999, podendo-se citar como exemplo as decisões proferidas nos Processos RJ2005/3735, RJ2005/7838, RJ2007/2920, RJ2007/3465 e RJ2007/13459; e
+d) o trâmite das consultas formuladas pelas companhias abertas quanto à possibilidade de não observância dos requisitos constantes dos dispositivos mencionados no item anterior seria abreviado caso a análise desses pedidos fosse realizada pelo titular da própria Superintendência de Relações com Empresas, em consonância com as decisões anteriores do Colegiado,
+DELIBEROU:
+I – delegar competência à Superintendência de Relações com Empresas – SEP para manifestar a opinião da CVM reconhecendo situações em que não se justifica a sua atuação para exigir o cumprimento dos requisitos relacionados no inciso II, nas operações envolvendo companhia aberta relativas a incorporação de controlada por controladora, incorporação de controladora por controlada, fusão de companhia controladora com controlada, incorporação de ações de companhia controlada ou controladora, cisão de companhia aberta ou de sua controlada ou incorporação, fusão e incorporação de ações de sociedades sob controle comum, desde que presentes as seguintes circunstâncias:
+a) a(s) companhia(s) aberta(s) envolvida(s) não possua(m) dispersão acionária ou acionistas minoritários que necessitem de proteção, nem tampouco qualquer título ou valor mobiliário de sua emissão em circulação; ou
+b) a companhia aberta seja detentora de 100% (cem por cento) do capital social da empresa a ser incorporada ou da empresa incorporadora (no caso de incorporação de controladora por controlada), ou da empresa a ser cindida, desde que a versão de patrimônio seja para a própria companhia aberta, de modo que a operação não resulte em aumento de capital na companhia aberta, bem como não resulte em alteração de participação dos acionistas de companhia aberta.
+II – a manifestação objeto da presente delegação deverá versar apenas sobre a não observância dos seguintes requisitos:
+a) elaboração de laudo com base no valor do patrimônio líquido das ações da controladora e da controlada, avaliados os dois patrimônios segundo os mesmos critérios e na mesma data, a preços de mercado, nos termos do art. 264 da Lei nº 6.404, de 1976;
+b) publicação, na imprensa, do Fato Relevante de que trata o art. 2º da Instrução CVM n º 319, de 1999; e
+c) elaboração de demonstrações financeiras auditadas por auditor independente registrado na CVM, nos termos do art. 12 da Instrução CVM nº 319, de 1999.
+III – que esta Deliberação entra em vigor na data de sua publicação.
+Original assinado por
+MARIA HELENA DOS SANTOS FERNANDES DE SANTANA
+Presidente
