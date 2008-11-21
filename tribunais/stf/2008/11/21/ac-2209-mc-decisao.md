@@ -1,0 +1,38 @@
+DECISÃO : Trata-se da segunda ação acautelar ajuizada contra a União pela Cooperativa Nacional de Controle de Qualidade Ltda. – Coonai a fim de que seja concedido efeito suspensivo ao RE 451.106, de minha relatoria.
+Narra a requerente estar discutindo, nos autos do recurso extraordinário já referenciado, a constitucionalidade da incidência das Contribuições destinada ao Financiamento da Seguridade Social – Cofins e destinada ao Programa de Integração Social - PIS sobre operações que envolvam atos cooperados.
+Diz que a Secretaria da Receita Federal do Brasil está exigindo o recolhimento dos tributos, nos termos dos Processos Administrativos 10680.004556/2005-30 e 10680.004557/2005-84. Dada a discussão judicial da matéria, os órgãos administrativos de julgamento entenderam por bem considerar prejudicadas as impugnações apresentadas, circunstância que afasta a suspensão da exigibilidade do crédito tributário.
+A requerente também recorda o ajuizamento de ação cautelar que tinha por objeto o mesmo RE 451.106. Conforme interpreta a decisão a que chegou a Corte na AC 1.224-MC (a decisão monocrática foi publicada em 29.06.2006) “na medida liminar não fora decidida questão de mérito, ou melhor, da questão de fundo debatida nos autos do Recurso extraordinário em apreço: a incidência ou não de PIS/COFINS sobre os atos cooperativos” (Fls. 003).
+Para firmar o fumus boni juris, sustenta que os atos cooperados, nos termos de definição legal (infra-constitucional), “não implica operação de mercado, nem contrato de compra e venda de produto ou mercadoria” (Fls. 004). Portanto, os valores recebidos em contrapartida não poderiam ser considerados faturamento. Entende, também, que a tributação das entidades cooperativas viola o programa constitucional que estabelece a política de incentivo ao cooperativismo (arts. 5º, XVIII, 146, III, c e 174, § 2º da Constituição).
+Quanto ao periculum in mora, aponta que a rejeição dos recursos administrativos levará à exigibilidade dos tributos devidos (Fls. 007).
+Ante o narrado, pede a concessão de medida liminar suspender a exigibilidade dos créditos tributários relativos à Cofins e ao PIS em discussão nos processos administrativos já referenciados.
+É o relatório.
+
+Decido o pedido de medida liminar.
+Sem prejuízo de novo exame da matéria por ocasião do julgamento de fundo, considero ausentes os requisitos que ensejam a concessão da medida pleiteada.
+Como se lê na decisão que proferi nos autos da AC 1.226-MC, o quadro então examinado já fazia referência aos arts. 5º, XVIII, 174, § 2º, 146, III, c, 145, § 1º, 150, II, 154, I e 195, I, b da Constituição.
+
+Indeferi a medida liminar então requerida na extensão pretendida pela requerente (suspensão ampla da exigibilidade do crédito), isto é, de modo a afastar tão-somente a modificação da base de cálculo dos tributos promovida pelo art. 3º da Lei 9.718/1998, por considerar ausente o periculum in mora. Registro, textualmente, a fundamentação então adotada:
+
+“De início, observo que, como ambas as decisões de mérito proferidas pelos Tribunais de origem foram desfavoráveis às requerentes, a pretensão não equivale à atribuição de efeito suspensivo ao recurso extraordinário; o provimento seria, sim, análogo à própria antecipação da tutela requerida (cf., v.g., a Pet 2.798-QO, rel. min. Moreira Alves, Primeira Turma, DJ de 22.11.2002).
+Isso significa que a presunção de constitucionalidade e a exigibilidade das exações permaneceram íntegras durante toda prestação jurisdicional até este ponto. Portanto, seria necessário reconhecer-se a forte plausibilidade das teses invocadas para a concessão da medida pleiteada.
+Mas, em juízo preliminar, reputo presentes tais pressupostos apenas quanto à invalidade da tributação com base na receita bruta (fls. 07-08), em virtude da declaração, incidental e por maioria, da inconstitucionalidade do art. 3º, § 1º, da Lei 9.718/1998, pelo Plenário desta Corte (RE 357.950, RE 358.273, RE 390.840, rel. min. Marco Aurélio, j. 09.11.2005, cf. Informativo STF 408/2005).
+Por outro lado, não antevejo o necessário periculum in mora quanto aos demais aspectos das exações que estão sendo discutidos. Como observou o min. Sepúlveda Pertence, em decisão monocrática proferida na AC 1.192-MC (DJ de 16.05.2006), verbis:
+
+´[...] Como só recebidos com efeito devolutivo, a pendência do julgamento [do recurso extraordinário] acarreta percalços à empresa, pela eventual inscrição na dívida ativa, o que caracterizaria o periculum in mora, pressuposto necessário da medida cautelar que se pleiteia. Entretanto, trata-se de inconveniente comum a todos quantos se encontram sujeitos às conseqüências do efeito dos recursos extraordinários, agravado, certo, se se trata de obrigações tributárias de contribuinte dedicado a atividades empresariais. Mas o risco ordinário da falta de eficácia suspensiva não basta à concessão do efeito pretendido, senão toda interposição de recurso extraordinário por contribuinte reclamaria tal efeito. Mais razoável é, então, ser menos exigente na indagação do periculum in mora, se, só à primeira vista, ao recurso se possa atribuir densa probabilidade de conhecimento e provimento: nessa hipótese, a densidade do fumus boni juris aconselha que se obvie, de logo, os riscos, ainda que ordinários, da execução provisória do acórdão recorrido ou de seus consectários [...]´.
+
+Portanto, não basta a alegação quanto às conseqüências oriundas do inadimplemento do crédito tributário para a configuração do periculum in mora. É necessária a demonstração inequívoca da irreversibilidade do dano alegado, capaz de comprometer a própria efetividade da prestação jurisdicional.
+Ademais, no caso em exame, as então impetrantes requereram ao juízo de primeira instância permissão para efetuarem o depósito dos valores controvertidos, como forma de suspensão da exigibilidade do crédito tributário (art. 151, II, do CTN - fls. 58 dos autos do RE 451.106). Presume-se, portanto, que as requerentes possuíam capacidade econômica para realizar os depósitos, e, com a medida, afastar as conseqüências do inadimplemento das obrigações tributárias cuja validade se questiona.”
+
+Como a requerente não indica qualquer alteração do quadro fático que ensejasse novo exame do periculum in mora, as razões então expendidas continuam aplicáveis. Como já observado, a mera e singela exigibilidade do crédito tributário que se tem por inválido é insuficiente para que se reconheça o risco à efetividade da jurisdição.
+Também não considero, ao menos neste momento de juízo inicial, configurada a densa plausibilidade das teses invocadas. Não está afastada a predominância da interpretação de legislação federal para formar os conceitos de ato cooperado típico e respectiva remuneração (art. 79 da Lei 5.764/1971) e contrapô-los ao conceito de faturamento. Em relação à violação do dever de providenciar adequado tratamento tributário às cooperativas, lembro que o texto constitucional não pode ser interpretado de modo a firmar a imunidade das cooperativas, pois, como observou o eminente Ministro Moreira Alves durante o julgamento do RE 141.800, “até porque tratamento adequado não significa necessariamente tratamento privilegiado”. Sem profundo exame das questões de fundo, não é possível corroborar o juízo sobre a discrepância da tributação imposta aos demais contribuintes e a carga tributária das cooperativas.
+Ante o exposto, indefiro a medida liminar pleiteada.
+Certificado o trânsito em julgado desta decisão, junte-se cópia aos autos do RE 451.106.
+Arquivem-se os autos.
+Publique-se.
+
+Brasília, 21 de novembro de 2008.
+
+Ministro JOAQUIM BARBOSA
+Relator
+
+1
