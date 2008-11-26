@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 890, de 25 de novembro de 2008
+Substitui o Anexo II à Instrução Normativa SRF nº 120, de 28 de dezembro de 2000, que dispõe sobre o modelo de Comprovante de Rendimentos Pagos e de Retenção do Imposto de Renda na Fonte.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no art. 86 da Lei nº 8.981, de 20 de janeiro de 1995, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
