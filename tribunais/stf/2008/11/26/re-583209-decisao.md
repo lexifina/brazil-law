@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de recurso extraordinário em que se discute o pagamento de diárias a juíza federal designada para assumir titularidade plena de vara no interior, com comparecimento efetivo, todos os dias da semana. Discute-se, ainda, a competência originária do STF para julgar causas desse jaez, em que o interesse de um magistrado poderá repercutir em toda a magistratura.
+2.  O Tribunal a quo entendeu ser devida a complementação das diárias, afastando o disposto na resolução n. 22/99, do TRF da 2ª Região, que autorizava o auxílio de, no máximo, duas diárias por semana. Afirmou que “a espécie não se amolda à hipótese do art. 102, I, “n”, da Carta Política, haja vista a ausência de interesse específico da magistratura na causa, não importando se o julgamento possa criar precedente jurisprudencial favorável a outros juízes.” [fl. 65]
+3.  A recorrente alega que o acórdão impugnado violou o disposto no artigo 102, I, "n", da Constituição do Brasil. Sustenta a incompetência absoluta da Justiça Federal para julgar a causa em virtude do interesse de toda a Magistratura Federal da 2ª Região no precedente firmado.
+4.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+5.  Este Tribunal fixou entendimento no sentido de que a mera alegação do recorrente, de interesse da magistratura na questão, do que decorreria a atribuição de “generalidade” à causa, não permite, por si só, o deslocamento da competência do Tribunal Regional Federal da 2ª Região para o Supremo Tribunal Federal.
+6.  Nesse sentido os seguintes precedentes: Rcl n. 2.942-MC, Relator o Ministro Celso de Mello, DJ de 16.12.04; MS n. 25.509-AgR, Relator o Ministro Sepúlveda Pertence, DJ de 24.3.06; AO n. 1.153-AgR, Relator o Ministro Carlos Velloso, DJ de 30.9.05; AO n. 1.160-AgR, Relator o Ministro Cezar Peluso, DJ de 11.11.05; AO n. 973-AgR, Relatora a Ministra Ellen Gracie, DJ de 16.5.03; AO n. 583-QO, Relator o Ministro Moreira Alves, DJ de 2.3.01 e AO n. 611-QO, Relator o Ministro Moreira Alves, DJ de 20.10.00.
+ Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 26 de novembro de 2008.
+Ministro Eros Grau
+- Relator -
+1
