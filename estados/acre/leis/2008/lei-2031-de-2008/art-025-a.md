@@ -1,0 +1,1 @@
+Art. 25-A. O IGESAC fará publicar, no Diário Oficial do Estado, no prazo de 90 (noventa) dias após o registro do estatuto em cartório, os manuais de seleção e de compras aprovados pelo conselho de administração, que disciplinarão os procedimentos que deverá adotar. (Incluído pela Lei nº 3.636, de 15/06/2020)

@@ -1,0 +1,1 @@
+Art. 25-G. O IGESAC também poderá firmar contratos de gestão com outros entes da administração pública municipal, estadual e federal para a prestação de serviços, tudo nos termos previstos nesta Lei. (Incluído pela Lei nº 3.636, de 15/06/2020)

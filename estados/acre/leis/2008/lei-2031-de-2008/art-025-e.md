@@ -1,0 +1,1 @@
+Art. 25-E. Ficam mantidas no IGESAC as habilitações que já possuía o Serviço Social de Saúde do Acre - Pró-Saúde, bem como as qualificações e as certificações das unidades de saúde que administrar. (Incluído pela Lei nº 3.636, de 15/06/2020)

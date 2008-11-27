@@ -1,0 +1,1 @@
+Art. 25-C. O Conselho de Administração aprovará o regimento interno do IGESAC no prazo de 90 (noventa) dias após o registro do estatuto em cartório, observado o disposto em lei. (Incluído pela Lei nº 3.636, de 15/06/2020)
