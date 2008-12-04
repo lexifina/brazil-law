@@ -1,0 +1,20 @@
+DECISÃO: Vistos, etc.
+Trata-se de reclamação constitucional, aparelhada com pedido de medida liminar, proposta pelo Distrito Federal, contra ato do Juízo da 2ª Vara do Trabalho de Taguatinga/DF. Ato consubstanciado em decisão que não conheceu, por intempestividade, embargos à execução opostos pela Fazenda Pública.
+2. Afirma o autor que opôs, no prazo de 30 (trinta) dias, embargos à execução nos autos da Reclamação Trabalhista nº 00428-2007-102-10-00-3. Alega que o reclamado, declarando incidentalmente a inconstitucionalidade do art. 1º-B da Lei nº 9.494/97, não conheceu dos embargos. Daí sustentar violação ao acórdão deste Supremo Tribunal Federal na ADC 11-MC. Pelo que requer a concessão de liminar “para suspender imediatamente a execução na Reclamação Trabalhista nº 00428-2007-102-10-00-3”.
+ 3. Feito este aligeirado relato da causa, passo à decisão. Fazendo-o, pontuo, de saída, que o poder de cautela dos magistrados é exercido num juízo delibatório em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade jurídica do pedido (fumus boni juris) e do perigo da demora na prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que a este dão suporte, senão incorrendo em antecipação do próprio conteúdo da decisão definitiva.
+ 4. No caso, verifico estarem presentes os requisitos para a concessão da liminar. É que o art. 1º-B da Lei nº 9.494/97 alterou para trinta dias os prazos a que se referiam as cabeças dos arts. 730 do Código de Processo Civil e 884 da Consolidação das Leis do Trabalho. Dispositivo legal que foi objeto da ADC 11-MC, cuja ementa está assim redigida:
+
+“EMENTA: FAZENDA PÚBLICA. Prazo processual. Embargos à execução. Prazos previstos no art. 730 do CPC e no art. 884 da CLT. Ampliação pela Medida Provisória nº 2.180-35/2001, que acrescentou o art. 1º-B à Lei federal nº 9.494/97. Limites constitucionais de urgência e relevância não ultrapassados. Dissídio jurisprudencial sobre a norma. Ação direta de constitucionalidade. Liminar deferida. Aplicação do art. 21, caput, da Lei nº 9.868/99. Ficam suspensos todos os processos em que se discuta a constitucionalidade do art. 1º-B da Medida Provisória nº 2.180-35.” (Grifou-se)
+
+ 5. Pois bem, com a concessão da medida cautelar na ADC 11 por esta nossa Corte, ficaram suspensos todos os processos em que se discuta a constitucionalidade do art. 1º-B da Lei nº 9.494/97, acrescentado pela Medida Provisória nº 2.180-35/2001. O Juízo reclamado, no entanto, declarou a inconstitucionalidade desse mesmo dispositivo e não conheceu, por intempestividade, de embargos à execução opostos pelo reclamante, o que me parece configurar, neste juízo provisório, afronta à decisão deste STF. À mesma conclusão se chegou na Rcl 7.044-MC, de relatoria do Ministro Joaquim Barbosa, na Rcl 6.816-MC, de relatoria do Ministro Eros Grau, na Rcl 6.146-MC, sendo relator o Ministro Cezar Peluso, entre outras.
+ 6. O tempo decorrido da expedição da liminar por este Tribunal, porém, aliado à necessidade dos jurisdicionados, que se dirigem à Justiça do Trabalho, em regra, em busca de verbas de natureza alimentar e destinadas à subsistência, recomenda a abertura de via alternativa que não a simples suspensão da execução trabalhista. Suspensão operante como verdadeira sanção a quem não deu causa à reclamação constitucional.
+ 7. Ante o exposto, defiro a liminar para suspender a execução da Reclamação Trabalhista nº 00428-2007-102-10-00-3, facultando ao reclamado o conhecimento e processamento dos embargos à execução opostos pelo Distrito Federal.
+ 8. Solicitem-se informações ao reclamado. Após, encaminhem-se os autos ao Procurador-Geral da República.
+ Comunique-se.
+ Publique-se.
+Brasília, 04 de dezembro de 2008.
+
+Ministro CARLOS AYRES BRITTO
+Relator
+
+1
