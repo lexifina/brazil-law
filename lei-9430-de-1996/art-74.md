@@ -27,6 +27,7 @@ b) refira-se a "crédito-prêmio" instituído pela art. 1º do Decreto-Lei nº 4
 c) refira-se a título público;
 d) seja decorrente de decisão judicial não transitada em julgado; ou
 e) não se refira a tributos e contribuições administrados pela Secretaria da Receita Federal - SRF.
+f) tiver como fundamento a alegação de inconstitucionalidade de lei que não tenha sido declarada inconstitucional pela Supremo Tribunal Federal em ação direta de inconstitucionalidade ou em ação declaratória de constitucionalidade, nem tenha tido sua execução suspensa pela Senado Federal.
 § 13. O disposto nos §§ 2º e 5º a 11 deste artigo não se aplica às hipóteses previstas no § 12 deste artigo.
 § 14. A Secretaria da Receita Federal - SRF disciplinará o disposto neste artigo, inclusive quanto à fixação de critérios de prioridade para apreciação de processos de restituição, de ressarcimento e de compensação.
 § 15. Aplica-se o disposto no § 6º nos casos em que a compensação seja considerada não declarada.

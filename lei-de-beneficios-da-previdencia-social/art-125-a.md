@@ -1,0 +1,4 @@
+Art. 125-A. Compete ao Instituto Nacional do Seguro Social - INSS realizar, por meio dos seus próprios agentes, quando designados, todos os atos e procedimentos necessários à verificação do atendimento das obrigações não-tributárias impostas pela legislação previdenciária e à imposição da multa por seu eventual descumprimento.
+§ 1º A empresa disponibilizará a servidor designado por dirigente do INSS os documentos necessários à comprovação de vínculo empregatício, de prestação de serviços e de remuneração relativos a trabalhador previamente identificado.
+§ 2º Aplica-se ao disposto neste artigo, no que couber, o art. 126.
+§ 3º O disposto neste artigo não abrange as competências atribuídas em caráter privativo aos ocupantes do cargo de Auditor-Fiscal da Receita Federal do Brasil previstas no inciso I do art. 6º da Lei nº 10.593, de 6 de dezembro de 2002.

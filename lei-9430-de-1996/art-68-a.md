@@ -1,0 +1,1 @@
+Art. 68-A. O Poder Executivo poderá elevar para até R$ 100,00 (cem reais) os limites e valores de que tratam os arts. 67 e 68, inclusive de forma diferenciada por tributo, regime de tributação ou de incidência, relativos a utilização do Documento de Arrecadação de Receitas Federais, podendo reduzir ou restabelecer os limites e valores que vier a fixar.

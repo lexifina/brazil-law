@@ -1,0 +1,1 @@
+Art. 14-F. A Secretaria da Receita Federal do Brasil e a Procuradoria-Geral da Fazenda Nacional, no âmbito de suas competências, editarão atos necessários à execução do parcelamento de que trata esta Lei.
