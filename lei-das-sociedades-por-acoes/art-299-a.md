@@ -1,0 +1,1 @@
+Art. 299-A. O saldo existente em 31 de dezembro de 2008 no ativo diferido que, pela sua natureza, não puder ser alocado a outro grupo de contas, poderá permanecer no ativo sob essa classificação até sua completa amortização, sujeito à análise sobre a recuperação de que trata o § 3º do art. 183.
