@@ -275,6 +275,7 @@ Resultados de Exercícios Futuros
 Patrimônio Líquido
 Critérios de Avaliação do Ativo
 Critérios de Avaliação do Passivo
+Critérios de Avaliação em Operações Societárias
 Correção Monetária
 SEÇÃO IV
 Demonstração de Lucros ou Prejuízos Acumulados

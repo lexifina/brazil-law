@@ -1,5 +1,12 @@
 Art. 14. É vedada a concessão de parcelamento de débitos relativos a:
-I - tributos ou contribuições retidos na fonte ou descontados de terceiros e não recolhidos ao Tesouro Nacional;
+I - tributos passíveis de retenção na fonte, de desconto de terceiros ou de sub-rogação;
 II - Imposto sobre Operações de Crédito, Câmbio e Seguro e sobre Operações relativas a Títulos e Valores Mobiliários - IOF, retido e não recolhido ao Tesouro Nacional;
 III - valores recebidos pelos agentes arrecadadores não recolhidos aos cofres públicos.
-Parágrafo único. É vedada, igualmente, a concessão de parcelamento de débitos enquanto não integralmente pago parcelamento anterior, relativo ao mesmo tributo, contribuição ou qualquer outra exação.
+IV - tributos devidos no registro da Declaração de Importação;
+V - incentivos fiscais devidos ao Fundo de Investimento do Nordeste - FINOR, Fundo de Investimento da Amazônia - FINAM e Fundo de Recuperação do Estado do Espírito Santo - FUNRES;
+VI - crédito tributário ou outra exação objeto de ação judicial proposta pelo sujeito passivo com depósito do montante discutido;
+VII - pagamento mensal por estimativa do Imposto sobre a Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, na forma do art. 2º da Lei nº 9.430, de 27 de dezembro de 1996;
+VIII - recolhimento mensal obrigatório da pessoa física relativo a rendimentos de que trata o art. 8º da Lei nº 7.713, de 22 de dezembro de 1988;
+IX - tributo ou outra exação qualquer, enquanto não integralmente pago parcelamento anterior relativo ao mesmo tributo ou exação, salvo na hipótese prevista no art. 49-A do Decreto nº 70.235, de 6 de março de 1972, e nas hipóteses previstas no art. 14-A desta Lei;
+X - tributos devidos por pessoa jurídica com falência ou pessoa física com insolvência civil decretadas; e
+XI - créditos tributários devidos na forma do art. 4º da Lei nº 10.931, de 2 de agosto de 2004, pela incorporadora optante do Regime Especial Tributário do Patrimônio de Afetação.
