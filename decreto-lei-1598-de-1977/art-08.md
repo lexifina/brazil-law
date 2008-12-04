@@ -8,4 +8,7 @@ II - razão auxiliar em ORTN (art. 42).
 a) o lucro líquido do exercício do período-base de incidência;
 b) os lançamentos de ajuste do lucro líquido (art. 6º §§ 2º e 3º), com a indicação, quando for o caso, dos registros correspondentes na escrituração comercial ou fiscal;
 c) o lucro real.
-§ 2º - Os registros contábeis que forem necessários para a observância de preceitos da lei tributária relativos à determinação do lucro real, quando não devam, por sua natureza exclusivamente fiscal, constar da escrituração comercial, ou forem diferentes dos lançamentos dessa escrituração, serão feitos no livro de que trata o item I deste artigo ou em livros auxiliares.
+§ 2º Para fins da escrituração contábil, inclusive da aplicação do disposto no § 2º do art. 177 da Lei nº 6.404, de 15 de dezembro de 1976, os registros contábeis que forem necessários para a observância das disposições tributárias relativos à determinação da base de cálculo do imposto de renda e, também, dos demais tributos, quando não devam, por sua natureza fiscal, constar da escrituração contábil, ou forem diferentes dos lançamentos dessa escrituração, serão efetuados exclusivamente em:
+I - livros ou registros contábeis auxiliares; ou
+II - livros fiscais, inclusive no livro de que trata o inciso I do caput.
+§ 3º O disposto no § 2º será disciplinado pela Secretaria da Receita Federal do Brasil.

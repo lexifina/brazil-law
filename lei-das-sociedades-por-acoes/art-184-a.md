@@ -1,0 +1,1 @@
+Art. 184-A. A Comissão de Valores Mobiliários estabelecerá, com base na competência conferida pelo § 3º do art. 177, normas especiais de avaliação e contabilização aplicáveis à aquisição de controle, participações societárias ou segmentos de negócios.

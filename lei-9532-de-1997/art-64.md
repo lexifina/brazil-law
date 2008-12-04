@@ -1,5 +1,7 @@
 Art. 64. A autoridade fiscal competente procederá ao arrolamento de bens e direitos do sujeito passivo sempre que o valor dos créditos tributários de sua responsabilidade for superior a trinta por cento do seu patrimônio conhecido.
-§ 1º Se o crédito tributário for formalizado contra pessoa física, no arrolamento devem ser identificados, inclusive, os bens e direitos em nome do cônjuge, não gravados com a cláusula de incomunicabilidade.
+§ 1º No arrolamento, devem ser identificados também os bens e direitos:
+I - em nome do cônjuge, desde que não comunicáveis na forma da lei, se o crédito tributário for formalizado contra pessoa física; ou
+II - em nome dos responsáveis tributários de que trata o art. 135 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional.
 § 2º Na falta de outros elementos indicativos, considera-se patrimônio conhecido, o valor constante da última declaração de rendimentos apresentada.
 § 3º A partir da data da notificação do ato de arrolamento, mediante entrega de cópia do respectivo termo, o proprietário dos bens e direitos arrolados, ao transferi-los, aliená-los ou onerá-los, deve comunicar o fato à unidade do órgão fazendário que jurisdiciona o domicílio tributário do sujeito passivo.
 § 4º A alienação, oneração ou transferência, a qualquer título, dos bens e direitos arrolados, sem o cumprimento da formalidade prevista no parágrafo anterior, autoriza o requerimento de medida cautelar fiscal contra o sujeito passivo.
@@ -11,3 +13,4 @@ III - no Cartório de Títulos e Documentos e Registros Especiais do domicílio 
 § 7º O disposto neste artigo só se aplica a soma de créditos de valor superior a R$ 500.000,00 (quinhentos mil reais).
 § 8º Liquidado, antes do seu encaminhamento para inscrição em Dívida Ativa, o crédito tributário que tenha motivado o arrolamento, a autoridade competente da Secretaria da Receita Federal comunicará o fato ao registro imobiliário, cartório, órgão ou entidade competente de registro e controle, em que o termo de arrolamento tenha sido registrado, nos termos do § 5º, para que sejam anulados os efeitos do arrolamento.
 § 9º Liquidado ou garantido, nos termos da Lei nº 6.830, de 22 de setembro de 1980, o crédito tributário que tenha motivado o arrolamento, após seu encaminhamento para inscrição em Dívida Ativa, a comunicação de que trata o parágrafo anterior será feita pela autoridade competente da Procuradoria da Fazenda Nacional.
+§ 10. Fica o Poder Executivo autorizado a aumentar ou restabelecer o limite de que trata o § 7º.
