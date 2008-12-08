@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF08 nº 410, de 17 de novembro de 2008
+Assunto: Imposto sobre Produtos Industrializados - IPI
+O regime de suspensão do IPI nas aquisições de matérias-primas (MP), produtos intermediários (PI) e material de embalagem (ME), de que trata o art. 29, § 1º, inciso I, alínea a, da Lei nº 10.637, de 2002, disciplinado pelo art. 5º da IN SRF nº 296, de 2003, aplica-se às saídas de MP, PI e ME adquiridos por estabelecimentos industriais fabricantes, preponderantemente, de componentes, chassis, carroçarias, partes e peças para industrialização de veículos autopropulsados classificados nos Códigos 84.29, 8432.40.00, 8432.80.00, 8433.20, 8433.30.00, 8433.40.00, 8433.5 e 87.01 a 87.06 da Tipi/06. O regime em questão não pode ser estendido, por ausência de permissão legal expressa, a elos anteriores da cadeia produtiva, não se aplicando, portanto, às saídas de MP, PI e ME a serem empregados na industrialização de outros produtos, os quais, por sua vez, serão produto intermediário para a fabricação dos componentes, chassis, carroçarias, acessórios, partes ou peças dos veículos autopropulsados precitados.
+Dispositivos Legais: Lei nº 10.637, de 2002, art. 29, § 1º, inciso I, alínea a, e art. 66; Lei nº 10.485, de 2002, art. 1º; e IN SRF nº 296, de 2003, art. 5º; e ADI nº 11, de 2003.
+Novo segmento
+[arquivo anexo: SC SRRF08-Disit nº 410-2008.pdf]
