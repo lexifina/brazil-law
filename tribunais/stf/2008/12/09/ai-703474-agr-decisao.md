@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo regimental contra decisão que deu provimento a recurso extraordinário de acórdão que versa sobre a extensão, aos servidores inativos, da Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA, a partir da Lei 10.404/2002.
+O 1º Juizado Especial Federal de Resende julgou parcialmente procedente o pedido inicial, para condenar a União a corrigir a pontuação da autora, para fins da gratificação em exame, em 30 (trinta) pontos, desde a entrada em vigor da Lei 10.404/2002, até a entrada em vigor da Medida Provisória 198, de 15 de julho de 2004.
+A 2ª Turma Recursal do Rio de Janeiro, apreciando recurso da União, a ele deu parcial provimento, para reformar a sentença, apenas quanto aos juros de mora, mantendo, no mais, a sentença.
+Em recurso extraordinário, requereu a União que o pagamento aos inativos da Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA se desse no patamar de 10 (dez) pontos, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação. Da decisão que inadmitiu esse recurso foi interposto agravo de instrumento, ao qual dei provimento.
+A União sustenta, em agravo regimental, a ocorrência de reformatio in pejus, uma vez que, ao se aplicar ao caso a jurisprudência deste Tribunal, a decisão agravada lhe causou prejuízo, porquanto a sentença mantida pelo acórdão recorrido determinou o pagamento da GDATA à autora no patamar de 30 pontos no período de fevereiro de 2002 até julho de 2004, ao passo que, nos termos fixados pela Corte, a mencionada gratificação, em certo período é devida no patamar de 37,5 e, em outro, em 60 pontos.
+Conforme consignei na decisão agravada, o Plenário do Supremo Tribunal Federal, no julgamento do RE 476.279, rel. min. Sepúlveda Pertence, fixou o entendimento de que a Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA é devida “aos inativos, nos valores correspondentes a 37,5 pontos, no período de fevereiro a maio de 2002, e nos termos do art. 5º, parágrafo único, da Lei 10.404/2002, para o período de junho de 2002 até a chamada ‘conclusão dos efeitos do último ciclo de avaliação’, a que se refere o art. 1º da Medida Provisória 198/2004, convertida na Lei 10.971/2004, a partir da qual passa a ser de 60 pontos”, em observância ao disposto no art. 40, § 8º, da Constituição federal (na redação da EC 20/1998) e a regra de transição contida no art. 7º da EC 41/2003 (Informativo 463, de 25.04.2007).
+De fato, o acórdão recorrido divergiu em parte do entendimento da Corte, ao manter a sentença que condenara a União ao pagamento da GDATA em 30 pontos para todos os períodos.
+
+Entretanto, considerando que somente a União recorreu dessa decisão, o acórdão recorrido deve ser reformado somente na parte que lhe é desfavorável.
+Do exposto, com base no art. 557, § 1º, do Código de Processo Civil e no art. 317, § 2º, do RISTF, reconsidero a decisão de fls. 108, para retificar a parte dispositiva, a fim de que, no lugar de “dou provimento ao recurso extraordinário para julgar procedente em parte o pedido, nos moldes acima assinalados”, leia-se “dou parcial provimento ao recurso extraordinário, para que a GDATA seja deferida à parte autora nos valores correspondentes a 30 pontos no período de fevereiro a maio de 2002; a 10 pontos, no período de junho de 2002 a abril de 2004, nos termos do inciso II, da Lei 10.404/1002; e 30 pontos no período de maio de 2004 até a entrada em vigor da Medida Provisória 198/2004”.
+Os ônus da sucumbência devem ser proporcionalmente distribuídos e compensados entre as partes, ressalvada a hipótese de concessão do benefício da justiça gratuita.
+Intimem-se. Publique-se.
+Brasília, 9 de dezembro de 2008.
+
+Ministro JOAQUIM BARBOSA
+Relator
+
+1
