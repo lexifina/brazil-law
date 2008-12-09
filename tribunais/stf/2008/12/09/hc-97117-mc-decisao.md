@@ -1,0 +1,24 @@
+DECISÃO: Vistos, etc.
+
+Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão da relatora do HC 120.368, no Superior Tribunal de Justiça. Decisão que indeferiu a medida liminar ali requestada, nos termos seguintes:
+
+“(...) a teor do que se observa dos autos, a determinação da remessa da ação penal para a execução provisória da condenação decorre do esgotamento das instâncias ordinárias, sendo, assim, plenamente possível o cumprimento do mandado de prisão, pois, os recursos extraordinário e especial não possuem efeito suspensivo, a teor do entendimento consagrado pela Quinta Turma do Superior Tribunal de Justiça” (fls. 116)
+
+2. Pois bem, antes mesmo do julgamento do habeas corpus no STJ, o impetrante postula, aqui, a suspensão da execução provisória da pena imposta ao paciente. O que faz sob as alegações de que: a) o paciente respondeu, em liberdade, o processo-crime pelo delito de roubo; b) a sentença penal condenatória deferiu ao paciente o direito de apelar em liberdade; c) recentemente, ele, paciente, concluiu curso superior de informática, é primário e, à época dos fatos, era menor de 21 anos; d) ausente qualquer fundamento capaz de embasar, no artigo 312 do CPP, a segregação provisória. Daí o pedido de superação do óbice da Súmula 691/STF para permitir que Guilherme Rares de Souza aguarde, em liberdade, o julgamento dos recursos de natureza extraordinária, interpostos pela defesa.
+3. Feito este ligeiro apanhado da causa, decido. Fazendo-o, acentuo que é pacífica a jurisprudência deste STF no sentido da inadmissibilidade de impetração sucessiva de habeas corpus, sem o julgamento definitivo do writ anteriormente impetrado (cf. HC 79.776, Rel. Min. Moreira Alves; HC 76.347-QO, Rel. Min. Moreira Alves; HC 79.238, Rel. Min. Moreira Alves; HC 79.748, Rel. Min. Celso de Mello; e HC 79.775, Rel. Min. Maurício Corrêa). Jurisprudência, essa, que foi sumulada no verbete nº 691, segundo o qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+4. É certo que tal jurisprudência comporta relativização, quando de logo avulta que o cerceio à liberdade de locomoção do paciente decorre de ilegalidade, ou de abuso de poder (inciso LXVIII do art. 5º da CF/88). O que me parece ser o caso dos autos, em que pese a ausência de exame definitivo da causa pelas instâncias precedentes. É que o tema agitado nesta impetração (impossibilidade de execução provisória da pena) está afetado ao Plenário desta Suprema Corte (HC 91.676, Ministro Ricardo Lewandowski - Informativo nº 483). Sendo certo que há várias decisões liminares sustando os efeitos de mandados de prisão, expedidos por força do exaurimento das vias ordinárias (HC 93.184, Ministro Celso de Mello; HC 92.933, Ministro Ricardo Lewandowski; HC 92.441, Ministro Cezar Peluso; HC 92.589, Ministro Marco Aurélio; HC 92.657, Ministro Eros Grau). A sinalizar, neste exame prefacial da causa, a plausibilidade do direito invocado na inicial deste habeas corpus.
+5. Não é só! Na concreta situação dos autos, para além de o Juízo-Processante consignar, na sentença, a falta de “motivo que ampare a segregação, nesse momento cautelar”, o Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao apelo defensivo. O que fez para fixar o regime inicial semi-aberto para o cumprimento da sanção.
+6. Sucede que, em sede de execução provisória, o Juízo da 1ª Vara Distrital de Arujá/SP decretou a prisão do paciente. Leia-se:
+
+“Quanto ao réu Guilherme, expeça-se mandado de prisão contra o mesmo, uma vez que o regime carcerário imposto a ele é o semi-aberto” (fls. 34, verso).
+
+7. Ora bem, penso que o caso é daqueles que autorizam, de plano, a superação do óbice da Súmula 691/STF. Isso porque a ordem de prisão padece da falta de qualquer explicitado fundamento. O que ofende a garantia constitucional que se lê na segunda parte do inciso LXI do art. 5º e na parte inicial do inc. IX do art. 93 da Constituição. Vale dizer, não se enxerga no decreto prisional o conteúdo mínimo da garantia da fundamentação das decisões judiciais, sem o qual não se viabiliza a ampla defesa nem se afere o dever do juiz de se manter eqüidistante das partes processuais em litígio. O que me basta, neste exame prefacial da causa, para deferir a medida cautelar requestada. O que faço para suspender os efeitos do mandado de prisão, expedido nos autos do processo nº 963/03, até o julgamento deste habeas corpus.
+Solicitem-se informações à autoridade apontada como coatora. Oficie-se também ao Juízo de Direito 1ª Vara Distrital de Arujá/SP para que preste esclarecimentos sobre o alegado na inicial, cuja cópia seguirá em anexo.
+Prestadas as informações, voltem-me os autos conclusos.
+Publique-se.
+Brasília, 09 de dezembro de 2008.
+
+Ministro CARLOS AYRES BRITTO
+Relator
+
+1
