@@ -1,0 +1,51 @@
+DECISÃO : Trata-se de agravo de instrumento interposto pela Comunidade Evangélica Luterana de São Paulo ' CELSP para assegurar o trânsito e conhecimento de recurso extraordinário. O recurso extraordinário (art. 102, III, a da Constituição), por seu turno, foi interposto de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que considerou válido o processamento de ação monitória.
+
+Referido acórdão foi assim ementado:
+
+'APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. EMPRÉSTIMO INTERNACIONAL. CRÉDITO DECORRENTE DE CESSÃO HAVIDA ENTRE INSTITUIÇÕES BANCÁRIAS ESTRANGEIRAS, EM RAZÃO DE CONTRATO DE EMPRÉSTIMO REALIZADO POR INSTITUIÇÃO NACIONAL. PROVA ESCRITA. ART. 1102, a, DO CPC. ASSIGNMENT, FIGURA DO DIREITO ANGLO-SAXÃO EQUIPARADA À CESSÃO DE CRÉDITO. AGÊNCIA DE FOMENTO NORTE-AMERICANA COMO GARANTIDORA DO FINANCIAMENTO ENTABULADO PARA A AQUISIÇÃO DE EQUIPAMENTOS MÉDICOS E MOBILIÁRIO. INADIMPLEMENTO DA INSTITUIÇÃO MUTUÁRIA. PRELIMINARES REJEITADAS. a) Cerceamento de defesa por não ter sido oportunizada a produção de provas pericial e testemunhal. b) ausência de requisitos para a interposição da ação monitória (crédito líquido, certo e exigível); c) existência de questão de alta indagação. MÉRITO. Tentativa de inovar em grau de recurso. Alegação de conluio fraudulento entre o banco de fomento e a empresa prestadora de serviços e fornecedora do equipamento e de atuação de forma culposa do banco de fomento repelidas de pronto. Litigância de má-fé não evidenciada. SENTENÇA MANTIDA. REJEITARAM AS PRELIMINARES E, NO MÉRITO, NEGARAM PROVIMENTO AO APELO'.
+
+Interposto recurso de embargos de declaração, sobreveio acórdão com a seguinte ementa:
+
+'EMBARGOS DE DECLARAÇÃO. AÇÃO REVISIONAL. AUSÊNCIA DE OMISSÃO E CONTRADIÇÃO. REDISCUSSÃO DA MATÉRIA JÁ APRECIADA EM SEDE DE APELAÇÃO. NECESSIDADE DE SANAR OBSCURIDADE EM ALGUNS PONTOS.
+A questão foi bem discutida nos autos, decorrendo da decisão firmada, conclusão lógica sobre o melhor direito aplicável.
+Com efeito, a irresignação da embargante cinge-se quanto ao resultado do julgamento do recurso de apelação, demonstrando intenção de rediscutir o tema já apreciado no julgado, o que, diga-se, é inviável via embargos declaratórios.
+PREQUESTIONAMENTO. INTERPOSIÇÃO DE RECURSOS EXCEPCIONAIS. EMBARGOS DECLARATÓRIOS PARCIALMENTE ACOLHIDOS'.
+
+Em seu recurso extraordinário, narra o agravante ter sido citado para responder à ação monitória, tendente à cobrança de valores relativos a contrato de financiamento firmado com Northern Trust Company, para aquisição de equipamento médico que seria fornecido pela empresa Magna Medical Systems Inc, ambas entidades norte-americanas. O crédito fora cedido ao Export - Import Bank of the United States ' Eximbank, que propôs a ação monitória.
+Sustenta-se, em síntese, ofensa ao artigo 5º, LIV e LV, da Constituição, em razão do suposto cerceamento do direito de defesa e do devido processo legal. Segundo entende a agravante, a violação decorre da negativa para produção de provas, relativas à confirmação da certeza e da liquidez do crédito (cessão de direitos e pagamento - Fls. 3.813-3.815). Afirma-se, ainda, haver a necessidade de dilação probatória para a comprovação da inadimplência da empresa Magna Medical, circunstância que justificaria o inadimplemento reflexo da agravante (Fls. 3.815-3.820). Por fim, reitera que as questões em discussão são de alta indagação, circunstância que não recomendaria a utilização do procedimento monitório (Fls. 3.821-3.824).
+Sem razão a parte agravante.
+O deferimento de produção de provas pressupõe a utilidade da medida. Contudo, a análise sobre a presença do requisito não se esgota no exame da idoneidade das providências requeridas pela parte para afirmar, infirmar ou confirmar o quadro fático alegado (justificativa de pertinência da eficácia-técnica). Também é necessário que a interpretação dada às normas que incidirão sobre os fatos que se pretende provar seja plausível ou ao menos que não tenha sido afastada de plano pelo órgão jurisdicional (justificativa de pertinência da eficácia-jurídica). Se a tese jurídica arregimentada pela parte não for acolhida pelo julgador, a produção de provas acerca dos fatos que sofreriam a incidência das normas propostas fica prejudicada.
+No caso em exame, o Juízo de Primeira Instância não rejeitou, pura e simplesmente, a produção de provas destinadas a confirmar o inadimplemento da empresa Magna Medical. A sentença assenta que a alegada quebra dos deveres impostos à fornecedora dos equipamentos médicos não impedia que a agravante cumprisse suas próprias obrigações. Vale dizer, a sentença rejeitou expressamente a argumentação relativa ao inadimplemento da outra parte contratante como hipótese de escusa contratual (argumento de quadro jurídico, e não fático). A propósito, lê-se textualmente que:
+
+'Improcede a irresignação frente à suposta falta de demonstração do desembolso feito pelo autor; a questão, que, tratada como prefacial, é efetivamente de mérito, encontra fácil resposta nas peças de fls. 689/690 e 2673, inquestionavelmente comprobatórias e de tal desembolso e do correspondente importe.
+A alegação principal de mérito, por derradeiro, vale dizer, a `exceptio non adimpleti contractus' não merece considerar-se pela simples razão de que versa `res inter alios acta'; o negócio celebrado entre as partes deste feito é a garantia de um contrato de mútuo, como já dito firmado entre a CELSP e a Northern Trust, em cujos direitos, por força de haver honrado as obrigações que como garante assumira, se investiu o ora autor; se a ré se entende credora da Magna Medical Systems, de quem adquiriu, com o financiamento, equipamentos médicos, tal crédito não pode ao cessionário opor-se, como não poderia sê-lo ao cedente, já que nenhuma responsabilidade cabe ao financiador pelo sucesso ou insucesso dos negócios que com o numerário alcançado venha o financiado a realizar'. (Fls. 3.680).
+
+O acórdão recorrido, por seu turno, adotou a mesma linha, como se lê nos seguintes trechos:
+
+'Veja que mesmo após a oposição dos embargos, quando admitida a ampla produção de provas, deve o magistrado fiscalizar a atuação da embargante, para que não tente desviar os rumos da lide, de natureza executiva.
+A farta documentação acostada pelas partes autorizava o julgamento antecipado da lide, porquanto estava esta madura para a decisão e as provas requeridas pela apelante eram irrelevantes para o deslinde do feito, já que admitido pela apelante a contratação do empréstimo e a cessação do pagamento das parcelas.' (Fls. 3.747).
+
+'Há documentação hábil consubstanciando o direito de crédito do banco cessionário, que pagou o montante garantido ao Northern Trust Company em razão do inadimplemento da instituição apelante, subrogando-se nos direito do banco cedente, em face à apelante.
+Além da comprovação do direito de crédito, através do referido ´assignment´, restou perfeitamente identificado o montante devido, de US$ 37.303.368,42, já que embora assumida a dívida em dólares americanos, o apelado apresentou memória discriminada fazendo a conversão para reais, conforme exige a legislação brasileira ' vide memória de cálculo de fl. 837.' (Fls. 3.747v).
+
+'Após o início da execução do Contrato de Serviços e de Fornecimento com a empresa norte-americana Magna Medical Systems (fl. 904/906), surgiram sérios problemas na remessa das mercadorias.
+O teor do contrato de fl. 904/906, datado de 29/11/99, revela, especialmente na parte introdutória, a extrema confiança depositada pela apelante na referida empresa, que se comprometia a ser muito mais do que mera prestadora de serviços e fornecedora de equipamentos, mas uma verdadeira consultora da apelante, com ampla liberdade de atuação, inclusive, para obtenção do tão almejado empréstimo nos EUA.
+Assim, descabe renovar a tese de que o inadimplemento da empresa Magna Medical Systems autoriza a interrupção do pagamento do empréstimo captado, junto ao Northern Trust Company (cedente) e garantido pelo apelado (cessionário).
+[...]
+A apelante tenta inovar em grau de recurso, mais uma vez, sustentando a existência de fraude na negociação e insinuando o conluio do apelado.
+Vai prontamente repelida a assertiva, eis que restou devidamente evidenciado que a escolha da empresa Magna Medical Systems Inc. partiu da própria apelante, pois depositava grande confiança na empresa norte-americana.
+Até para dar consistência às suas alegações, deveria ter a apelante ter esclarecido o porquê da escolha da referida empresa, beneficiada com o adiantamento de 15% do valor total (US$ 5,225,179,50), até em razão do disposto nas cláusulas 4.2 a 6 do referido pacto de fls. 904-906).' (Fls. 3.348v-3.349v).
+
+A discussão acerca do cabimento da inadimplência de uma das partes contratantes como óbice à exigibilidade das obrigações e dos deveres assumidos por outra parte depende primordialmente da interpretação de textos legais infraconstitucionais, sem que se cogite de qualquer dilação probatória. Trata-se, portanto, de matéria eminentemente de direito, cujo escopo desafiaria, em princípio, a interpretação da legislação infraconstitucional aplicável à celebração e execução de contratos.
+Por demandar a prévia interpretação de legislação infraconstitucional relativa às hipóteses que permitem o sobrestamento da execução de contratos privados, a violação do princípio da ampla defesa e do contraditório, se existente, seria indireta ou meramente reflexa.
+Em sentido semelhante, o exame das questões pertinentes ao cabimento da ação monitória demandaria o prévio exame de legislação infraconstitucional de assento processual. Ademais, a ora agravante não indicou de maneira específica o dispositivo ou a forma como a Constituição poderia ter sido contrariada pelo Tribunal de origem (Fls. 3.821-3.823).
+Por fim, quanto ao exame da matéria relativa à produção de provas ligadas à liquidez e à certeza do crédito, a desconstituição do acórdão recorrido dependeria do revolvimento de fatos e provas, circunstância inviável no julgamento do recurso extraordinário (Súmula 279/STF), além do prévio exame de legislação infraconstitucional.
+Ante o exposto, nego seguimento ao agravo de instrumento.
+Intimem-se. Publique-se.
+
+Brasília, 15 de dezembro de 2008.
+
+Ministro JOAQUIM BARBOSA
+Relator
+
+1
