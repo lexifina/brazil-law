@@ -1,7 +1,11 @@
-Art. 3º Os danos pessoais cobertos pelo seguro estabelecido no art. 2º desta Lei compreendem as indenizações por morte, invalidez permanente e despesas de assistência médica e suplementares, nos valores que se seguem, por pessoa vitimada:
+Art. 3º Os danos pessoais cobertos pelo seguro estabelecido no art. 2º desta Lei compreendem as indenizações por morte, por invalidez permanente, total ou parcial, e por despesas de assistência médica e suplementares, nos valores e conforme as regras que se seguem, por pessoa vitimada:
 a) (revogada);
 b) (revogada);
 c) (revogada);
 I - R$ 13.500,00 (treze mil e quinhentos reais) - no caso de morte;
 II - até R$ 13.500,00 (treze mil e quinhentos reais) - no caso de invalidez permanente; e
 III - até R$ 2.700,00 (dois mil e setecentos reais) - como reembolso à vítima - no caso de despesas de assistência médica e suplementares devidamente comprovadas.
+§ 1º No caso da cobertura de que trata o inciso II do caput, deverão ser enquadradas na tabela anexa a esta Lei as lesões diretamente decorrentes de acidente e que não sejam suscetíveis de amenização proporcionada por qualquer medida terapêutica, classificando-se a invalidez permanente como total ou parcial, subdividindo-se a invalidez permanente parcial em completa e incompleta, conforme a extensão das perdas anatômicas ou funcionais, observado o disposto abaixo:
+I - quando se tratar de invalidez permanente parcial completa, a perda anatômica ou funcional será diretamente enquadrada em um dos segmentos orgânicos ou corporais previstos na tabela anexa, correspondendo a indenização ao valor resultante da aplicação do percentual ali estabelecido ao valor máximo da cobertura; e.
+II - quando se tratar de invalidez permanente parcial incompleta, será efetuado o enquadramento da perda anatômica ou funcional na forma prevista no inciso anterior, procedendo-se, em seguida, à redução proporcional da indenização que corresponderá a setenta e cinco por cento para as perdas de repercussão intensa, cinqüenta por cento para as de média repercussão, vinte e cinco por cento para as de leve repercussão, adotando-se ainda o percentual de dez por cento, nos casos de seqüelas residuais.
+§ 2º O seguro previsto nesta Lei não contempla as despesas decorrentes do atendimento médico ou hospitalar efetuado em estabelecimento ou em hospital credenciado ao Sistema Único de Saúde - SUS, mesmo que em caráter privado, sendo vedado o pagamento de qualquer indenização nesses casos.

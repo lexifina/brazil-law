@@ -22,3 +22,4 @@ a) pessoa jurídica estabelecida fora da Zona Franca de Manaus, que apure o impo
 b) pessoa jurídica estabelecida fora da Zona Franca de Manaus, que apure o imposto de renda com base no lucro real e que tenha sua receita, total ou parcialmente, excluída do regime de incidência não-cumulativa da Contribuição para o PIS/PASEP;
 c) pessoa jurídica estabelecida fora da Zona Franca de Manaus e que seja optante pelo Sistema Integrado de Pagamento de Impostos e Contribuições - SIMPLES; e
 d) órgãos da administração federal, estadual, distrital e municipal.
+§ 5º O disposto no § 4º também se aplica à receita bruta auferida por pessoa jurídica industrial estabelecida nas Áreas de Livre Comércio de que tratam as Leis nºs 7.965, de 22 de dezembro de 1989, 8.210, de 19 de julho de 1991, 8.256, de 25 de novembro de 1991, o art. 11 da Lei no 8.387, de 30 de dezembro de 1991, e a Lei no 8.857, de 8 de março de 1994.
