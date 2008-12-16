@@ -1,0 +1,41 @@
+DECISÃO
+Vistos.
+Empresa Santa Justa Ltda. interpõe recurso extraordinário, com fundamento na alínea 'a' do permissivo constitucional, contra acórdão da Quinta Turma do Tribunal Regional Federal da 2° Região, assim ementado:
+
+'DIREITO ADMINISTRATIVO. CLASSIFICAÇÃO DE IMÓVEL RURAL. ESTATUTO DA TERRA (LEI Nº 4.504-64). DILIGÊNCIAS REALIZADAS PELO INCRA. DESCLASSIFICAÇÃO DO IMÓVEL RURAL PARA `LATIFÚNDIO POR EXPLORAÇÃO'. OBSERVÂNCIA DO DEVIDO PROCESSO LEGAL.
+1 ' Legítimo e válido o ato administrativo praticado pelo INCRA no sentido da alteração da classificação do imóvel rural. Avaliação técnica acerca da inexistência dos requisitos para manutenção da classificação do imóvel na categoria de `empresa rural'.
+2 ' Ausência dos requisitos previstos no art. 19, par. 3º, da Lei nº 4.504-64. Mudança da classificação após procedimento administrativo com prova a respeito da falta dos requisitos. Confirmação em Juízo de ausência dos requisitos.
+3 ' Desnecessidade da realização da perícia para constatar a regularidade do ato administrativo. Observância do devido processo legal. Opção pela via judicial não vicia o procedimento administrativo.
+4 ' Apelação conhecida e provida, com a reforma integral da sentença' (fl. 294).
+
+Colhe-se do voto condutor:
+
+ '(...)
+Devido às divergências detectadas nos assentos do imóvel nos apontamentos do INCRA, e especialmente em razão da verificação da ausência dos requisitos e condições legais para que o imóvel rural pudesse ser considerado empresa rural, foi expedido o Ofício INCRA-SR (07) C-N nº 2.397, datado de 04 de dezembro de 1986, no sentido de comunicar à Apelada que houve providências no sentido da reclassificação do imóvel para latifúndio por exploração, facultando à mesma a oportunidade para eventual impugnação.
+A despeito de não existir prova inequívoca a respeito do recebimento do ofício mencionado pela Apelada, o certo é que em janeiro de 1987 a Apelada impetrou mandado de segurança contra suposto ato coator do Diretor Regional Leste Meridional do INCRA (fls. 51-64) demonstrando ter obtido as informações necessárias a respeito da reclassificação do imóvel. Ora, constata-se claramente que o ofício expedido pelo INCRA foi regularmente recebido pelos representantes da Apelada que, assim, tiveram condições de impetrar o mandado de segurança. É fundamental repisar que o Sr. Zomar Pontes havia sido anteriormente contatado durante os trabalhos de vistoria realizada pela equipe técnica no próprio imóvel.
+Constata-se, portanto, que o INCRA instaurou processo administrativo regular e válido, tendo sido facultada a apresentação de defesa no bojo do procedimento uma vez constatada a ausência dos requisitos para a classificação da Apelada como empresa rural. A confirmar a constatação feita pelo INCRA, foi apresentada cópia da declaração de rendimentos da Apelada relativa ao ano de 1986 (fls. 181 ' 185), em que ficou assentado que a pessoa jurídica não teve qualquer receita naquele exercício financeiro.
+Dessa forma, ao invés de se utilizar da via administrativa para apresentar sua defesa, a Apelada preferiu ingressar com mandado de segurança, deixando escoar o prazo de trinta dias para eventual impugnação na via administrativa. Constata-se, por conseguinte, que o INCRA agiu corretamente na condução das medidas administrativas adotadas para a correta classificação do imóvel rural, em perfeita consonância com a ordem jurídica brasileira, notadamente em atendimento ao princípio e valor da justiça social, especializado na função social da propriedade rural que não vinha sendo observada pela Apelada.
+Equivocou-se o magistrado sentenciante ao considerar que não houve oportunidade para a Apelada se manifestar no procedimento administrativo instaurado. A oportunidade lhe foi concedida, mas não foi aproveitada, conforme acima analisado. Houve estrito cumprimento dos princípios e garantias constitucionais, entre elas o devido processo legal e o princípio da ampla defesa e do contraditório' (fls. 296/298).
+
+Alega a recorrente violação do artigo 5º, incisos XXXIV, XXXV e LV, da Constituição Federal, uma vez que não foi assegurado o direito de ampla defesa no processo administrativo que reclassificou o imóvel rural de propriedade da recorrente.
+Contra-arrazoado (fls. 334 a 337), o recurso extraordinário (fls. 315 a 321) foi admitido (fls. 339).
+Foi interposto agravo de instrumento contra a decisão que negou seguimento ao recurso especial (fl. 340). Consultando o sítio do Superior Tribunal de Justiça na internet pelo nome das partes e pelo número de origem do processo, verifica-se que o STJ negou seguimento ao referido agravo, autuado naquele Tribunal como Ag n° 586.249/RJ.
+Decido.
+Anote-se, primeiramente, que o Incra, ora recorrido, ao se manifestar sobre a alegação da recorrente, formulada na petição de folhas 345/346, de que o imóvel rural objeto deste feito não se apresenta viável para desapropriação, o que implicaria o provimento do recurso extraordinário, consignou na petição de folhas 366/367 que não houve perda de interesse processual no presente feito e que deseja o julgamento e o desprovimento do apelo extremo. Assim, passo ao exame do recurso extraordinário.
+Ressalte-se, por oportuno, que o acórdão recorrido, conforme expresso na certidão de folha 302, foi publicado em 24/3/03, não sendo exigível, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+No que se refere aos incisos XXXIV e XXXV do artigo 5° da Constituição Federal, apontados como violados, carecem do devido prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidência das Súmulas n°s 282 e 356/STF.
+Por sua vez, não merece prosperar a irresignação quanto ao inciso LV do artigo 5° da Constituição Federal, uma vez que a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, se dependentes de o reexame dos fatos e das provas que permeiam a lide, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+
+'AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República' (AI n° 594.887/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+
+'AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes.' (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+
+Ressalta-se que ultrapassar o entendimento do Tribunal local de que a recorrente teve oportunidade de se manifestar no procedimento administrativo demandaria, induvidosamente, o reexame das provas dos autos, o que é incabível em sede de recurso extraordinário.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário .
+Publique-se.
+Brasília, 16 de dezembro de 2008.
+
+Ministro MENEZES DIREITO
+Relator
+
+1
