@@ -1,0 +1,11 @@
+DECISÃO: Vistos, etc.
+Cuida-se de agravo regimental, interposto contra decisão singular, proferida pelo Presidente do Supremo Tribunal Federal. Decisão que, ao negar seguimento ao presente HC, aplicou a Súmula 691 do STF e determinou o arquivamento dos autos.
+2. Pois bem, o paciente entende que o agravo é de ser acolhido. É que ele (agravante) tem o direito de aguardar, em liberdade, o trânsito em julgado da respectiva sentença condenatória. Argumenta que o Tribunal de Justiça do Estado de São Paulo determinou a expedição de mandado prisional sem declinar os motivos autorizadores, nos termos do artigo 312 do Código de Processo Penal. Além disso, anota que a referida Corte estadual de Justiça não observou a norma do inciso V do artigo 7º da Lei 8.906/94, quanto ao direito do paciente de ser recolhido em 'Sala de Estado Maior'.
+3. Abri vista dos autos à Procuradoria-Geral da República. Órgão que opinou pelo acolhimento parcial deste recurso. O que fez, tão-somente, para permitir que o acusado alcance o direito de ser recolhido em 'Sala de Estado Maior', conforme autorizado pelo inciso V do artigo 7º da Lei 8.906/84, cuja constitucionalidade já foi assentada pelo Plenário deste Supremo Tribunal Federal. No mais, o Parquet federal entendeu aplicável o óbice da Súmula 691.
+4. Bem vistas as coisas, tenho que o caso é de sobrestamento da presente ação constitucional. De saída, anoto que o pedido de recolhimento em 'Sala de Estado Maior' não era mesmo de ser conhecido, tal como anotou o Presidente. Isto porque se trata de matéria que não foi veiculada perante as instâncias judicantes competentes (TJ/SP e STJ). Logo, o imediato julgamento da causa, no ponto, caracteriza indevida supressão de instância, a impedir o conhecimento do writ.
+5. Por outra volta, averbo que o tema da execução provisória de sentença penal condenatória na pendência de recurso de natureza excepcional está afetado ao Plenário deste STF (HC 84.078, relator o Ministro Eros Grau). Motivo pelo qual determino o sobrestamento deste processo. O que faço até que a matéria nele tratada seja, definitivamente, resolvida pelo Tribunal Pleno.
+Publique-se.
+Brasília, 19 de dezembro de 2008.
+
+Ministro CARLOS AYRES BRITTO
+Relator
