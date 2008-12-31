@@ -1,0 +1,4 @@
+ANEXO ÚNICO
+REQUERIMENTO DE DESISTÊNCIA DE IMPUGNAÇÃO OU DE RECURSO ADMINISTRATIVO
+Anexo Único
+[arquivo anexo: Anexo Único.pdf]
