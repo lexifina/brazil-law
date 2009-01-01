@@ -1,0 +1,8 @@
+Art. 58-O. A opção pelo regime especial previsto no art. 58-J desta Lei poderá ser exercida até o último dia útil do mês de novembro de cada ano-calendário, produzindo efeitos a partir do primeiro dia do ano-calendário subseqüente ao da opção.
+§ 1º A opção a que se refere este artigo será automaticamente prorrogada para o ano-calendário seguinte, salvo se a pessoa jurídica dela desistir, nos termos e condições estabelecidos pela Secretaria da Receita Federal do Brasil.
+§ 2º A pessoa jurídica poderá desistir da opção a que se refere este artigo até o último dia útil do mês:
+I - de novembro de cada ano-calendário, hipótese em que a produção de efeitos dar-se-á a partir do dia primeiro de janeiro do ano-calendário subseqüente; ou
+II - anterior ao de início de vigência da alteração da alíquota específica, divulgada na forma do disposto no § 3º do art. 58-M desta Lei, hipótese em que a produção de efeitos dar-se-á a partir do primeiro dia do mês de início de vigência da citada alteração.
+§ 3º No ano-calendário em que a pessoa jurídica iniciar atividades de produção ou importação dos produtos elencados no art. 58-A desta Lei, a opção pelo regime especial poderá ser exercida em qualquer data, produzindo efeitos a partir do primeiro dia do mês subseqüente ao da opção.
+§ 4º A Secretaria da Receita Federal do Brasil divulgará, pela internet, o nome das pessoas jurídicas optantes na forma deste artigo, bem como a data de início da respectiva opção.
+§ 5º No ano calendário de 2008, a opção de que trata o caput poderá ser exercida até o último dia útil do mês de dezembro, produzindo efeitos a partir de 1º de janeiro de 2009.
