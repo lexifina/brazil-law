@@ -1,0 +1,1 @@
+Art. 58-V. O disposto no art. 58-A, em relação às posições 22.01 e 22.02 da TIPI, alcança, exclusivamente, água e refrigerantes, refrescos, cerveja sem álcool, repositores hidroeletrolíticos e compostos líquidos prontos para o consumo que contenham como ingrediente principal inositol, glucoronolactona, taurina ou cafeína.
