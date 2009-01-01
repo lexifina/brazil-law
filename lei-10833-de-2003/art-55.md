@@ -1,1 +1,0 @@
-Art. 55. O disposto nos arts. 49 e 52 aplica-se às pessoas jurídicas neles referidas, inclusive em operações de revenda dos produtos ali mencionados, admitido, neste caso, o crédito dos valores da contribuição para o PIS/PASEP e o da COFINS pagos na respectiva aquisição.

@@ -1,0 +1,1 @@
+Art. 58-S. Nas hipóteses de infração à legislação do IPI, da Contribuição para o PIS/Pasep e da Cofins, a exigência de multas e juros de mora dar-se-á em conformidade com as normas gerais desses tributos.

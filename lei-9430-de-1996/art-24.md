@@ -6,3 +6,4 @@ II - o preço relativo ao bem ou direito alienado, para efeito de apuração de 
 III - será considerado como rendimento tributável o preço dos serviços prestados apurado de conformidade com o disposto no art. 19;
 IV - serão considerados como rendimento tributável os juros determinados de conformidade com o art. 22.
 § 3º Para os fins do disposto neste artigo, considerar-se-á separadamente a tributação do trabalho e do capital, bem como as dependências do país de residência ou domicílio.
+§ 4º Considera-se também país ou dependência com tributação favorecida aquele cuja legislação não permita o acesso a informações relativas à composição societária de pessoas jurídicas, à sua titularidade ou à identificação do beneficiário efetivo de rendimentos atribuídos a não residentes.
