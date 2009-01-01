@@ -1,0 +1,6 @@
+Art. 58-M. Para os efeitos do regime especial:
+I - o Poder Executivo estabelecerá as alíquotas do IPI, por classificação fiscal; e
+II - as alíquotas da Contribuição para o PIS/Pasep e da Cofins serão de 2,5% (dois inteiros e cinco décimos por cento) e 11,9% (onze inteiros e nove décimos por cento), respectivamente;
+§ 1º O disposto neste artigo aplica-se às pessoas jurídicas referidas no art. 58-A desta Lei nas operações de revenda dos produtos nele mencionados, admitido, neste caso, o crédito dos valores da Contribuição para o PIS/Pasep e da Cofins pagos na respectiva aquisição.
+§ 2º O imposto e as contribuições, no regime especial optativo, serão apurados mediante alíquotas específicas determinadas pela aplicação das alíquotas previstas nos incisos I e II do caput deste artigo sobre o valor-base de que trata o art. 58-L desta Lei.
+§ 3º Para os efeitos do § 2º deste artigo, as alíquotas específicas do imposto e das contribuições serão divulgadas pela Secretaria da Receita Federal do Brasil por meio do seu sítio na internet, vigorando a partir do primeiro dia do segundo mês subseqüente ao da publicação, sendo dispensada, neste caso, a publicação de que trata o § 2º do art. 58-L desta Lei.
