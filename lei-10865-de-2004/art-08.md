@@ -16,7 +16,6 @@ I - 2% (dois por cento), para o PIS/PASEP-Importação; e
 II - 9,5% (nove inteiros e cinco décimos por cento), para a COFINS-Importação.
 § 6º A importação de embalagens para refrigerante e cerveja, referidas no art. 51 da Lei nº 10.833, de 29 de dezembro de 2003, e de embalagem para água fica sujeita à incidência do PIS/PASEP-Importação e da COFINS-Importação, fixada por unidade de produto, às alíquotas previstas naquele artigo, com a alteração inserida pelo art. 21 desta Lei.
 § 6º-A A importação das embalagens referidas no art. 51 da Lei nº 10.833, de 29 de dezembro de 2003, fica sujeita à incidência da Contribuição para o PIS/Pasep - Importação e da Cofins - Importação nos termos do § 6º deste artigo, quando realizada por pessoa jurídica comercial, independentemente da destinação das embalagens.
-§ 7º A importação de água, refrigerante, cerveja e preparações compostas, referidos no art. 49 da Lei nº 10.833, de 29 de dezembro de 2003, fica sujeita à incidência das contribuições de que trata esta Lei, fixada por unidade de produto, às alíquotas previstas no art. 52 da mencionada Lei, independentemente de o importador haver optado pelo regime especial de apuração e pagamento ali referido.
 § 8º A importação de gasolinas e suas correntes, exceto de aviação e óleo diesel e suas correntes, gás liquefeito de petróleo (GLP) derivado de petróleo e gás natural e querosene de aviação fica sujeita à incidência da contribuição para o PIS/PASEP e da COFINS, fixadas por unidade de volume do produto, às alíquotas previstas no art. 23 desta Lei, independentemente de o importador haver optado pelo regime especial de apuração e pagamento ali referido.
 § 9º Na importação de autopeças, relacionadas nos Anexos I e II da Lei nº 10.485, de 3 de julho de 2002, exceto quando efetuada pela pessoa jurídica fabricante de máquinas e veículos relacionados no art. 1º da referida Lei, as alíquotas são de:
 I - 2,3% (dois inteiros e três décimos por cento), para o PIS/PASEP-Importação; e
@@ -39,7 +38,7 @@ IX - gás natural destinado ao consumo em unidades termelétricas integrantes do
 X - produtos hortícolas e frutas, classificados nos Capítulos 7 e 8, e ovos, classificados na posição 04.07, todos da TIPI; e
 XI - semens e embriões da posição 05.11, da NCM.
 XII - livros, conforme definido no art. 2º da Lei nº 10.753, de 30 de outubro de 2003.
-XIII - preparações compostas não alcoólicas, classificadas no código 2106.90.10 Ex 01 da Tipi, destinadas à elaboração de bebidas pelas pessoas jurídicas industriais dos produtos referidos no art. 49 da Lei nº 10.833, de 29 de dezembro de 2003.
+XIII - preparações compostas não-alcoólicas, classificadas no código 2106.90.10 Ex 01 da Tipi, destinadas à elaboração de bebidas pelas pessoas jurídicas industriais dos produtos referidos no art. 58-A da Lei nº 10.833, de 29 de dezembro de 2003;
 XIV - material de emprego militar classificado nas posições 87.10.00.00 e 89.06.10.00 da Tabela de Incidência do Imposto sobre Produtos Industrializados - Tipi;
 XV - partes, peças, componentes, ferramentais, insumos, equipamentos e matérias-primas a serem empregados na industrialização, manutenção, modernização e conversão do material de emprego militar de que trata o inciso XIV deste parágrafo;
 XVI - gás natural liquefeito - GNL.
