@@ -5,7 +5,7 @@ II - dezesseis por cento:
 a) para a atividade de prestação de serviços de transporte, exceto o de carga, para o qual se aplicará o percentual previsto no caput deste artigo;
 b) para as pessoas jurídicas a que se refere o inciso III do art. 36 da Lei nº 8.981, de 20 de janeiro de 1995, observado o disposto nos §§ 1º e 2º do art. 29 da referida Lei;
 III - trinta e dois por cento, para as atividades de:
-a) prestação de serviços em geral, exceto a de serviços hospitalares;
+a) prestação de serviços em geral, exceto a de serviços hospitalares e de auxílio diagnóstico e terapia, patologia clínica, imagenologia, anatomia patológica e citopatologia, medicina nuclear e análises e patologias clínicas, desde que a prestadora destes serviços seja organizada sob a forma de sociedade empresária e atenda às normas da Agência Nacional de Vigilância Sanitária - Anvisa;
 b) intermediação de negócios;
 c) administração, locação ou cessão de bens imóveis, móveis e direitos de qualquer natureza;
 d) prestação cumulativa e contínua de serviços de assessoria creditícia, mercadológica, gestão de crédito, seleção de riscos, administração de contas a pagar e a receber, compra de direitos creditórios resultantes de vendas mercantis a prazo ou de prestação de serviços (factoring).

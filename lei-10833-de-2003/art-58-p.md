@@ -1,0 +1,1 @@
+Art. 58-P. Ao formalizar a opção, nos termos do art. 58-O desta Lei, a pessoa jurídica optante apresentará demonstrativo informando os preços praticados, de acordo com o disposto no § 7º do art. 58-J desta Lei.
