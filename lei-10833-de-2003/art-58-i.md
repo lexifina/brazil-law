@@ -1,0 +1,4 @@
+Art. 58-I. A Contribuição para o PIS/Pasep e a Cofins devidas pelos importadores e pelas pessoas jurídicas que procedam à industrialização dos produtos de que trata o art. 58-A desta Lei serão calculadas sobre a receita bruta decorrente da venda desses produtos, mediante a aplicação das alíquotas de 3,5% (três inteiros e cinco décimos por cento) e 16,65% (dezesseis inteiros e sessenta e cinco centésimos por cento), respectivamente.
+Parágrafo único. O disposto neste artigo:
+I - alcança a venda a consumidor final pelo estabelecimento industrial, de produtos por ele produzidos; e
+II - aplica-se às pessoas jurídicas industriais referidas no art. 58-A desta Lei nas operações de revenda dos produtos nele mencionados, admitido, neste caso, o crédito dos valores da Contribuição para o PIS/Pasep e da Cofins pagos na respectiva aquisição.

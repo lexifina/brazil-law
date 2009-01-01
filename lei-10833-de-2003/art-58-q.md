@@ -1,0 +1,2 @@
+Art. 58-Q. A pessoa jurídica que prestar de forma incorreta ou incompleta as informações previstas no § 7º do art. 58-J desta Lei ficará sujeita à multa de ofício no valor de 150% (cento e cinqüenta por cento) do valor do tributo que deixou de ser lançado ou recolhido.
+Parágrafo único. O disposto no caput deste artigo aplica-se inclusive nos casos em que o contribuinte se omitir de prestar as informações de que trata o § 7º do art. 58-J desta Lei.
