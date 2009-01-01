@@ -1,0 +1,4 @@
+Art. 58-G. Quando a industrialização se der por encomenda, o IPI será apurado e recolhido pelo encomendante, calculado mediante aplicação das alíquotas referidas no art. 58-D desta Lei sobre:
+I - o valor da operação de que decorrer a saída do produto de seu estabelecimento, apurado na qualidade de contribuinte equiparado na forma do inciso III do caput do art. 58-E desta Lei;
+II - 140% (cento e quarenta por cento) do valor referido no inciso I do caput deste artigo, relativamente ao imposto devido pelo estabelecimento equiparado na forma dos incisos I e II do art. 58-E desta Lei, apurado na qualidade de responsável.
+Parágrafo único. O IPI, apurado na qualidade de responsável na forma do inciso II do caput deste artigo, será devido pelo encomendante no momento em que der saída dos produtos de que trata o art. 58-A desta Lei.
