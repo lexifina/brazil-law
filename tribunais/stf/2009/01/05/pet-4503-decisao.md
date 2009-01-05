@@ -1,0 +1,21 @@
+DECISÃO: 1. Trata-se de pedido intitulado 'medida de urgência, com pedido de concessão de liminar', ajuizado por Francisco Carlos Chico Ferramenta Delfino e outro, que objetiva, em verdade, suspender a decisão liminar deferida, no TSE, pelo seu Presidente, Min. CARLOS AYRES BRITTO, no MS nº 4136, em 29/12/2008.
+
+ A ordem impugnada suspendeu os efeitos da decisão do Juízo da 131ª Zona Eleitoral (autos 1960/2008) e do Tribunal Regional Eleitoral de Minas Gerais (AC nº 117 ' Acórdão 5593/2008), determinando a diplomação e posse, no Município de Ipatinga, do candidato que tenha registro de candidatura deferido e que haja obtido a maioria dos votos válidos, 'sem prejuízo de nova proclamação e de nova posse, caso o julgamento do RESP eleitoral nº 35252, venha a alterar o presente resultado do pleito.'
+
+ Em cumprimento a tal determinação, o Juízo da 131ª Zona Eleitoral oficiou à Câmara Municipal de Ipatinga comunicando que foi tornada sem efeito a diplomação do ora peticionário (sem registro de candidatura), realizada em 18/12/2008, e que foi diplomado, para o cargo de Prefeito, o Sr. Sebastião de Barros Quintão, em 30/12/2008.
+
+2.  Decido, nos termos do art. 13, VIII, e 14 do RISTF. Incognoscível o pedido.
+
+ Na SS Nº 2281, Min. NELSON JOBIM, DJ de 03/12/2004, ficou assentado o entendimento da Corte, no sentido de que cabe ao Presidente do STF suspender a execução de liminares ou de sentenças concessivas de segurança, deferida por Tribunais Superiores, a pedido de pessoa jurídica de direito público, se a causa tiver fundamento constitucional, com base no art. 4º da Lei 4.348/64. É que esse diploma legal supriu a lacuna do art. 297 do RISTF e do art. 25 da Lei nº 8038/90. Confira-se:
+
+'Decido. A questão posta é esta: O Presidente do STF tem competência, ou não, para suspender liminares ou decisões concessivas de mandados de segurança no âmbito dos Tribunais Superiores, se a causa tiver fundamento constitucional? Examino a legislação. O Regimento Interno do STF (art. 297) autoriza o Presidente a suspender a execução de liminar ou decisão concessiva de mandado de segurança proferida em única ou última instância pelos Tribunais locais ou Federais. A Lei 8.038/90 (art. 25) dispõe que os Presidentes do STF e STJ podem suspender a execução de liminar ou de decisão concessiva de mandado de segurança proferida em única ou última instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, se o fundamento da causa for, respectivamente, constitucional e infraconstitucional. Assim, por essa lei, o STF pode suspender liminares e decisões contra o Poder Público no âmbito dos referidos Tribunais, observado o fundamento da causa. A Lei 8.038/90 não tratou das liminares e decisões concessivas de mandado de segurança perante os Tribunais Superiores. Ocorre que a Lei 4.348/64, com as alterações da MP 2180-35 de 24 de agosto de 2001, autoriza a pessoa jurídica de direito público a requerer a suspensão da execução de liminares e decisões em mandado de segurança contra o Poder Público. O art. 4º dessa norma outorga competência para suspender a execução de liminar ou de sentença concessiva de segurança ao "Presidente do Tribunal, ao qual couber o conhecimento do respectivo recurso". Essa norma supre a omissão da Lei 8.038/90 em relação aos Tribunais Superiores. Este Tribunal já decidiu que o STF pode suspender liminares concedidas contra o Poder Público em ações perante os Tribunais Superiores, com fundamento no art. 4º da Lei 4.348/64, se a causa tiver fundamento constitucional. Essa tese foi adotada no julgamento da Reclamação Nº 543 de relatoria de PERTENCE' ( SS nº 2281).
+
+ No caso, nem é necessário examinar se o fundamento da decisão liminar que se pretende suspender é, ou não, constitucional, porque basta, para inviabilizar a suspensão requerida, a ilegitimidade ativa ad causam. Noutras palavras, a medida foi pleiteada por pessoa física e não por pessoa jurídica de direito público, como o exige a legislação de regência.
+
+3.  Ante o exposto, com base no inciso IX e § 1º do artigo 21 do RISTF, no art. 38 da Lei 8.038, de 28.05.1990, e no art. 557 do CPC, não conheço do pedido. Arquivem-se oportunamente.
+
+Publique-se.
+Brasília, 05 de janeiro de 2009.
+
+Ministro CEZAR PELUSO
+Vice-Presidente (Art. 13, VIII, c.c. art. 14, RISTF)
