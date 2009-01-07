@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 906, de 6 de janeiro de 2009
+Altera a Instrução Normativa RFB nº 902, de 30 de dezembro de 2008.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no § 2º do art. 77 e no art. 79 da Lei Complementar nº 123, de 14 de dezembro de 2006, alterada pela Lei Complementar nº 127, de 14 de agosto de 2007, e nº 128, de 19 de dezembro de 2008, e nos arts. 7º, 8º, 20, 21, 22 e 23 da Resolução CGSN nº 4, de 30 de maio de 2007, alterada pela Resolução CGSN nº 50, de 22 de dezembro de 2008, resolve:
