@@ -10,6 +10,7 @@ VI - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado, ad
 VII - edificações e benfeitorias em imóveis de terceiros, quando o custo, inclusive de mão-de-obra, tenha sido suportado pela locatária;
 VIII - bens recebidos em devolução, cuja receita de venda tenha integrado faturamento do mês ou de mês anterior, e tributada conforme o disposto nesta Lei.
 IX - energia elétrica e energia térmica, inclusive sob a forma de vapor, consumidas nos estabelecimentos da pessoa jurídica.
+X - vale-transporte, vale-refeição ou vale-alimentação, fardamento ou uniforme fornecidos aos empregados por pessoa jurídica que explore as atividades de prestação de serviços de limpeza, conservação e manutenção.
 § 1º O crédito será determinado mediante a aplicação da alíquota prevista no caput do art. 2º desta Lei sobre o valor:
 I - dos itens mencionados nos incisos I e II do caput, adquiridos no mês;
 II - dos itens mencionados nos incisos IV, V e IX do caput, incorridos no mês;
