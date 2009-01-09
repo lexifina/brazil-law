@@ -10,6 +10,7 @@ VI - máquinas, equipamentos e outros bens incorporados ao ativo imobilizado, ad
 VII - edificações e benfeitorias em imóveis próprios ou de terceiros, utilizados nas atividades da empresa;
 VIII - bens recebidos em devolução cuja receita de venda tenha integrado faturamento do mês ou de mês anterior, e tributada conforme o disposto nesta Lei;
 IX - armazenagem de mercadoria e frete na operação de venda, nos casos dos incisos I e II, quando o ônus for suportado pelo vendedor.
+X - vale-transporte, vale-refeição ou vale-alimentação, fardamento ou uniforme fornecidos aos empregados por pessoa jurídica que explore as atividades de prestação de serviços de limpeza, conservação e manutenção.
 § 1º Observado o disposto no § 15 deste artigo, o crédito será determinado mediante a aplicação da alíquota prevista no caput do art. 2º desta Lei sobre o valor:
 I - dos itens mencionados nos incisos I e II do caput, adquiridos no mês;
 II - dos itens mencionados nos incisos III a V e IX do caput, incorridos no mês;
