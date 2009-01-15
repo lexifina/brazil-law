@@ -1,0 +1,4 @@
+Instrução Normativa RFB nº 909, de 14 de janeiro de 2009
+Altera a Instrução Normativa MPS/SRP nº 15, de 12 de setembro de 2006, que dispõe sobre a devolução de valores arrecadados pela Previdência Social com base na alínea "h" do inciso I do art. 12 da Lei nº 8.212, de 24 de julho de 1991, acrescentada pelo
+§ 1º do art. 13 da Lei nº 9.506, de 30 de outubro de 1997, sobre procedimentos relativos a créditos constituídos com base no referido dispositivo e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto na Resolução do Senado Federal nº 26, de 21 de junho de 2005, na Portaria MPS nº 133, de 2 de maio de 2006, e na Portaria Conjunta RFB/INSS nº 2.517, de 22 de dezembro de 2008, resolve:
