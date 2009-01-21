@@ -1,1 +1,1 @@
-<<ANEXO>>
+ANEXO
