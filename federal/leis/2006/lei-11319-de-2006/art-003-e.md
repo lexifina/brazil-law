@@ -1,0 +1,3 @@
+Art. 3º-E. Em caso de afastamentos e licenças considerados como de efetivo exercício, sem prejuízo da remuneração e com direito à percepção de gratificação de desempenho, o servidor continuará percebendo a GDATM em valor correspondente ao da última pontuação obtida, até que seja processada a sua primeira avaliação após o retorno.
+§ 1º O disposto no caput deste artigo não se aplica aos casos de cessão.
+§ 2º Até que seja processada a sua primeira avaliação de desempenho que venha a surtir efeito financeiro, o servidor que tenha retornado de licença sem vencimento ou cessão ou outro afastamento sem direito à percepção da GDATM no decurso do ciclo de avaliação receberá a gratificação no valor correspondente a 80 (oitenta) pontos.
