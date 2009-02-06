@@ -1,0 +1,1 @@
+Art. 39. A administração especial e a liquidação extrajudicial de administradora de consórcio são regidas pela Lei nº 6.024, de 13 de março de 1974, pelo Decreto-Lei nº 2.321, de 25 de fevereiro de 1987, pela Lei nº 9.447, de 14 de março de 1997, e por legislação superveniente aplicável às instituições financeiras, observado o disposto nesta Lei.

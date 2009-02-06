@@ -1,0 +1,1 @@
+Art. 48. Revogam-se os incisos I e V do art. 7º da Lei nº 5.768, de 20 de dezembro de 1971, os incisos I e V do art. 31 do Decreto nº 70.951, de 9 de agosto de 1972, o Decreto nº 97.384, de 22 de dezembro de 1988, o art. 10 da Lei nº 7.691, de 15 de dezembro de 1988, e o art. 33 da Lei nº 8.177, de 1º de março de 1991.

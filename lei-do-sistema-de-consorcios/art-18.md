@@ -1,0 +1,1 @@
+Art. 18. A assembléia geral ordinária será realizada na periodicidade prevista no contrato de participação em grupo de consórcio, por adesão, e destina-se a apreciação de contas prestadas pela administradora e a realização de contemplações.

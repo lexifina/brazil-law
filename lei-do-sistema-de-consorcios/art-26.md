@@ -1,0 +1,1 @@
+Art. 26. Os recursos dos grupos de consórcio, coletados pela administradora, a qualquer tempo, serão depositados em instituição financeira e devem ser aplicados na forma estabelecida pelo Banco Central do Brasil, desde a sua disponibilidade e enquanto não utilizados para as finalidades previstas no contrato de participação em grupo de consórcio, por adesão.
