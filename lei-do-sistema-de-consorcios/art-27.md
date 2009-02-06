@@ -1,0 +1,6 @@
+Art. 27. O consorciado obriga-se a pagar prestação cujo valor corresponde à soma das importâncias referentes à parcela destinada ao fundo comum do grupo, à taxa de administração e às demais obrigações pecuniárias que forem estabelecidas expressamente no contrato de participação em grupo de consórcio, por adesão.
+§ 1º As obrigações e os direitos do consorciado que tiverem expressão pecuniária são identificados em percentual do preço do bem ou serviço referenciado no contrato de participação em grupo de consórcio, por adesão.
+§ 2º O fundo de reserva, se estabelecido no grupo de consórcio, somente poderá ser utilizado para as finalidades previstas no contrato de participação, inclusive para restituição a consorciado excluído.
+§ 3º É facultado estipular no contrato de participação em grupo de consórcio, por adesão, a cobrança de valor a título de antecipação de taxa de administração, destinado ao pagamento de despesas imediatas vinculadas à venda de cotas de grupo de consórcio e remuneração de representantes e corretores, devendo ser:
+I - destacado do valor da taxa de administração que compõe a prestação, sendo exigível apenas no ato da assinatura do contrato de participação em grupo de consórcio, por adesão;
+II - deduzido do valor total da taxa de administração durante o prazo de duração do grupo.

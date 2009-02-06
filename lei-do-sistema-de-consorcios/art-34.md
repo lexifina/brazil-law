@@ -1,0 +1,1 @@
+Art. 34. A administradora de consórcio assumirá a condição de gestora dos recursos não procurados, os quais devem ser aplicados e remunerados em conformidade com os recursos de grupos de consórcio em andamento, nos termos estabelecidos no art. 26.

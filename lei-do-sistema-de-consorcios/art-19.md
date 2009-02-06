@@ -1,0 +1,1 @@
+Art. 19. A assembléia geral extraordinária será convocada pela administradora, por iniciativa própria ou por solicitação de 30% (trinta por cento) dos consorciados ativos do grupo, para deliberar sobre quaisquer outros assuntos que não os afetos à assembléia geral ordinária.

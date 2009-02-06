@@ -1,0 +1,1 @@
+Art. 1º O Sistema de Consórcios, instrumento de progresso social que se destina a propiciar o acesso ao consumo de bens e serviços, constituído por administradoras de consórcio e grupos de consórcio, será regulado por esta Lei.

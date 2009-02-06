@@ -1,0 +1,1 @@
+Art. 16. Considera-se constituído o grupo de consórcio com a realização da primeira assembléia, que será designada pela administradora de consórcio quando houver adesões em número e condições suficientes para assegurar a viabilidade econômico-financeira do empreendimento.

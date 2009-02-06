@@ -1,0 +1,1 @@
+Art. 35. É facultada a cobrança de taxa de permanência sobre o saldo de recursos não procurados pelos respectivos consorciados e participantes excluídos, apresentado ao final de cada mês, oriundos de contratos firmados a partir da vigência desta Lei, nos termos do contrato de participação em grupo de consórcio, por adesão.

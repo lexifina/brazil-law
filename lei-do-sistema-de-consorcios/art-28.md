@@ -1,0 +1,1 @@
+Art. 28. O valor da multa e de juros moratórios a cargo do consorciado, se previstos no contrato de participação em grupo de consórcio, por adesão, será destinado ao grupo e à administradora, não podendo o contrato estipular para o grupo percentual inferior a 50% (cinqüenta por cento).

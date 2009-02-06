@@ -1,0 +1,1 @@
+Art. 21. Para os fins do disposto nos arts. 19 e 20, é consorciado ativo aquele que mantém vínculo obrigacional com o grupo, excetuado o participante inadimplente não contemplado e o excluído, conforme definição do art. 29.

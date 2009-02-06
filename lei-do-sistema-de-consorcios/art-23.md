@@ -1,0 +1,1 @@
+Art. 23. A contemplação está condicionada à existência de recursos suficientes no grupo para a aquisição do bem, conjunto de bens ou serviços em que o grupo esteja referenciado e para a restituição aos excluídos.
