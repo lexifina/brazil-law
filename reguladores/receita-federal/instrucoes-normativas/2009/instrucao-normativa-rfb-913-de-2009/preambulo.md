@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 913, de 6 de fevereiro de 2009
+Aprova os formulários para a Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física relativa ao exercício de 2009, ano-calendário de 2008.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVII do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no caput do art. 7º Lei nº 9.250, de 26 de dezembro de 1995, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
