@@ -1,0 +1,38 @@
+DECISÃO: Trata-se de mandado de segurança impetrado pela Companhia Nacional de Abastecimento ' CONAB contra ato do Tribunal de Contas da União consubstanciado no Acórdão TCU n. 2.681/2008, que determinou a anulação de licitação realizada pela empresa pública.
+
+2.  O procedimento licitatório tinha por objeto a contratação de pessoa jurídica para a prestação de serviços especializados de advocacia perante a Justiça Federal, Justiça comum e Justiça do Trabalho no Estado de Goiás. O Edital n. 1/2008 adotou a modalidade concorrência do tipo técnica e preço.
+3.  O TCU anulou a licitação, entendendo que 'a principal irregularidade diz respeito aos requisitos técnicos, em especial a experiência forense em 1ª instância, 2ª instância, em instância superior e em ações rescisórias, requisitos para os quais o edital em tela atribui pontuação extra para licitantes que comprovarem atividade exercida em empresa pública e ainda mais pontos, se for comprovada experiência na prestação de serviços relacionados com o objeto finalístico previsto no estatuto da CONAB' [fls. 5/6].
+4.  Determinou que nos futuros editais fossem observadas 'a adequação e compatibilidade das comprovações requeridas com o objeto licitado, de modo a atribuir pontuação proporcional à relevância e à contribuição individual e conjunta de cada quesito para a execução contratual, observando-se, ainda, a pertinência deles em relação à técnica a ser valorada, de modo a não prejudicar a competitividade da disputa ou, ainda, sem relação de pertinência com os requisitos técnicos indispensáveis à boa execução dos serviços' [fls. 4/5]. Essas medidas, segundo a autoridade coatora, impediriam o favorecimento de licitantes que prestam ou prestaram serviços à CONAB.
+5.  A impetrante alega que o sistema de pontuação definido no edital prioriza a seleção de profissionais que demonstrem experiência na área em que desempenharão suas atividades. A demonstração de experiência forense com a atribuição de pontos extras seria razoável, em se tratando de concorrência do tipo técnica e preço.
+6.  A realização de novo certame demandará tempo e gastos desnecessários, prejudicando sua representação judicial nos mais de mil e trezentos feitos em tramitação. O periculum in mora é ainda mais evidente, ante a proximidade do término do contrato de prestação de serviços atual.
+7.  Requer, liminarmente, a suspensão do Acórdão TCU n. 2.681/2008, mantendo-se incólume a licitação disciplinada pelo Edital n. 1/2008, concedendo-se a ordem para reconhecer a legalidade do procedimento.
+8.  O Ministro-Presidente solicitou informações [fl. 149].
+9.  O Tribunal de Contas da União afirma que '[o] estabelecimento de critérios de pontuação relativos à técnica dos licitantes, em licitação do tipo técnica e preço, deve obedecer aos princípios da razoabilidade e da proporcionalidade, o que não ocorreu no caso concreto' [fl. 155].
+10.  Menciona dados estatísticos elaborados por sua Unidade Técnica que indicam desequilíbrio do sistema de pontuação estabelecido no edital, favorecendo determinada categoria de licitantes em detrimento dos demais.
+11.  É o relatório. Decido.
+12.  A concessão de medida liminar pressupõe a coexistência da plausibilidade do direito invocado pelo impetrante e do receio de dano irreparável pela demora na concessão da ordem.
+13.  A Lei n. 8.666/93 preconiza a observância da isonomia entre os participantes nos procedimentos licitatórios da Administração Pública. O preceito do art. 3º, § 1º, I, proíbe a inclusão de cláusulas, no edital, que restrinjam o caráter competitivo do certame, estabelecendo distinções impertinentes ao objeto do contrato.
+14.  A impetrante transcreve trechos de ementas de processos de que fui relator, nos quais afirmo a observância do princípio da isonomia no sentido que lhe foi atribuído desde Platão a Aristóteles, conferindo-se tratamento igual aos iguais e desigual aos desiguais.
+15.  A Administração pode, sem violação ao princípio da isonomia, distinguir situações, a fim de conferir a uma delas tratamento diverso do que atribui a outra. Para que possa fazê-lo, contudo, sem que tal violação se manifeste, é necessário que a discriminação guarde compatibilidade com o conteúdo do princípio.
+
+16.  De volta ao texto da lei de licitações, o art. 46, § 1º, I determina, quanto aos certames do tipo 'técnica e preço', que a avaliação e classificação das propostas devem pautar-se 'de acordo com os critérios pertinentes e adequados ao objeto licitado'. A rigidez desses critérios, porém, não pode reduzir os procedimentos licitatórios a um 'revezamento de adjudicações' entre uns poucos participantes, 'qualificados' segundo os termos do instrumento convocatório.
+
+17.  Os dados estatísticos elaborados pela Unidade Técnica do Tribunal de Contas da União indicam que houve excesso no edital quanto à pontuação atribuída à experiência pretérita dos licitantes em áreas jurídicas afetas à atuação da CONAB:
+
+ '15. Como se observa, experiência profissional somente na iniciativa privada, ainda que exercida por empresa de grande porte e que tenha trabalhado sempre para grandes corporações privadas e multinacionais, não é suficiente para o órgão, alijando empresas com essas características do processo licitatório, a continuarem as ponderações consignadas no edital.
+
+16. Empresas com histórico de prestação de serviços advocatícios para órgãos públicos de todas as esferas ou para empresas públicas estaduais ou municipais, ainda que atendam plenamente aos outros requisitos para pontuação, ficam com a participação na licitação comprometida, vez que quase um quarto da pontuação total possível lhe é excluída.
+17. Dessas empresas, ainda que já tenham atuado na representação de uma empresa pública federal, que não seja a Conab, torna-se dificultada a sua concorrência na licitação, ante o decréscimo de quase doze por cento da pontuação máxima que pode ser obtida.18. Nesses termos, verifica-se que as pontuações dos requisitos não estão devidamente sopesadas, favorecendo, de forma desarrazoada, tendo em vista as distorções nas ponderações estabelecidas no edital, as empresas que prestam ou prestaram serviço à Conab e, em menor grau, àquelas que atuaram na representação de uma empresa pública federal.
+19. A presença desses critérios desmedidos de pontuação técnica distorce a tabela de pontuação técnica, que não tem por objetivo avaliar custos (avaliados na proposta de preços) ou serviços a serem realizados (cujos padrões de aceitação devem ser estabelecidos no contrato, de acordo com as necessidades da contratante), mas a capacidade e experiência técnica específica dos licitantes para desempenhar os serviços nos níveis requeridos, bem como a qualidade técnica da proposta e a qualificação técnica das equipes que os executarão.
+20. No caso presente, a valoração inadequada dos requisitos para pontuação técnica pode levar a situações indesejáveis ao interesse público, como, por exemplo, a contratação de empresa advocatícia com preços elevados, face ao menor peso da nota de preço frente à nota técnica, por ter trabalhado algum dia para a Conab ou estar trabalhando em uma de suas dependências e regionais, atingido a pontuação máxima no quesito técnico, de forma a minimizar a importância do preço ofertado por ela, para efeito de classificação final no certame.'
+
+18.  A impetrante não demonstrou, concretamente, a ausência de tempo hábil para a realização de novo certame a partir das orientações definidas pelo Tribunal de Contas da União.
+ Indefiro o pedido de medida liminar. Remetam-se os autos à Procuradoria Geral da República para a elaboração de parecer.
+
+Publique-se.
+Brasília, 9 de fevereiro de 2009.
+
+Ministro Eros Grau
+- Relator -
+
+1
