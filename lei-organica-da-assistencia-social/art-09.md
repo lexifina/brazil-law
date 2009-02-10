@@ -1,4 +1,5 @@
 Art. 9º O funcionamento das entidades e organizações de assistência social depende de prévia inscrição no respectivo Conselho Municipal de Assistência Social, ou no Conselho de Assistência Social do Distrito Federal, conforme o caso.
 § 1º A regulamentação desta lei definirá os critérios de inscrição e funcionamento das entidades com atuação em mais de um município no mesmo Estado, ou em mais de um Estado ou Distrito Federal.
 § 2º Cabe ao Conselho Municipal de Assistência Social e ao Conselho de Assistência Social do Distrito Federal a fiscalização das entidades referidas no caput na forma prevista em lei ou regulamento.
+§ 3º A inscrição da entidade no Conselho Municipal de Assistência Social, ou no Conselho de Assistência Social do Distrito Federal, é condição essencial para o encaminhamento de pedido de registro e de certificado de entidade beneficente de assistência social junto ao Conselho Nacional de Assistência Social - CNAS. Rejeitada
 § 4º As entidades e organizações de assistência social podem, para defesa de seus direitos referentes à inscrição e ao funcionamento, recorrer aos Conselhos Nacional, Estaduais, Municipais e do Distrito Federal.
