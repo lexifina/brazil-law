@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, proposta pelo Estado do Sergipe, contra ato do Tribunal de Justiça local, que deferiu a antecipação dos efeitos da tutela em desfavor do reclamante, nos autos do Mandado de Segurança n. 2006112698 [Execução de Decisão n. 2008118730].
+2.  O Estado alega que a autoridade reclamada, ao determinar a nomeação e posse do interessado no cargo de Procurador do Estado de 2ª Classe, no prazo de 72 [setenta e duas] horas, sob pena de multa diária no valor de R$ 500,00, até o limite de R$ 50.000,00, afrontou a autoridade do acórdão prolatado por esta Corte na ADC/MC n. 4.
+3.  O requerente sustenta que 'a execução provisória co a respectiva nomeação de candidato, atenta contra expressa e indubitável disposição legal, em vilipêndio ao que decidido' [fl. 8].
+4.  Segundo o reclamante, a plausibilidade jurídica do pedido --- fumus boni iuris --- estaria configurada, já que a pretensão cautelar deferida na ADC/MC n. 4 garante a aplicação plena do artigo 1º da Lei n. 9.494 até o julgamento final da ação declaratória. O periculum in mora seria evidente, vez que o reclamante estaria compelido a cumprir decisão antecipatória de tutela, em que foi determinada a nomeação e posse do interessado no cargo de Procurador do Estado de 2ª Classe.
+5.  Requer a concessão de medida liminar para suspender os efeitos da decisão proferida pelo Tribunal de Justiça do Estado de Sergipe, nos autos do Mandado de Segurança n. 2006112698 [Execução de Decisão n. 2008118730].
+6.  É o relatório. Decido.
+7.  O reclamante aponta como violada a decisão liminar proferida na ADC/MC n. 4. A medida cautelar foi deferida, com efeitos ex nunc pelo Plenário, Relator o Ministro SYDNEY SANCHES [DJ de 21.05.99].
+8.  Na ocasião do julgamento da Ação Declaratória de Constitucionalidade n. 4, esta Corte afirmou a impossibilidade de deferimento de antecipação de tutela contra a Fazenda Pública, quando a decisão concessiva tivesse como pressuposto a inconstitucionalidade do artigo 1º da Lei n. 9.494/97. Resta vedada, portanto, a concessão do provimento antecipatório que vise ao pagamento de vencimentos e vantagens pecuniárias, o que se afigura exatamente no caso em exame. Em hipótese semelhante, esta Corte decidiu pela impossibilidade do pagamento em caráter liminar. Nesse sentido, RCL n. 1.498, Relatora a Ministra ELLEN GRACIE, DJ 28/06/02.
+9.  Ao examinar caso semelhante a este, em que a decisão afrontada seria a ADC/MC n. 4, o Ministro GILMAR MENDES, deferiu a medida cautelar. Tratava-se de ação reclamatória cujo objeto era decisão do Juízo Federal da 1ª Vara da Subseção Judiciária de Guaratinguetá/SP, mediante a qual foi determinada a promoção, com todas as vantagens pecuniárias pertinentes, de militar aprovado em curso de formação, entretanto reprovado em exame de aptidão psicológica. O Relator afirmou: '[à] primeira vista, demonstra-se plausível a tese de que a decisão reclamada afastou, ainda que de forma implícita, a constitucionalidade do disposto no art. 1o da Lei no 9.494, de 10 de setembro de 1997, uma vez que determinou, de modo expresso, a promoção do militar aprovado em curso de formação, com todas as vantagens pecuniárias decorrentes dessa decisão' [Rcl n. 4.960, DJ de 16.03.07].
+10.  Há ainda outras decisões monocráticas no mesmo sentido, a Rcl n. 4.696, Relator o Ministro JOAQUIM BARBOSA, DJ de 1.2.07; a Rcl n. 4.019-SP, Relator o Ministro GILMAR MENDES, de DJ de 8.2.06; e a Rcl n. 2.120, Relator o Ministro CARLOS VELLOSO, DJ de 23.6.04; Rcl n. 5.061, de que sou Relator, DJ de 11.4.07.
+Presentes os requisitos do fumus boni iuris e do periculum in mora, defiro a medida liminar para suspender os efeitos da decisão do Mandado de Segurança n. 2006112698 [Execução de Decisão n. 2008118730], em curso perante o Tribunal de Justiça do Estado de Sergipe.
+Solicitem-se informações à autoridade reclamada.
+Após, dê-se vista dos autos à Procuradoria Geral da República [art. 16 da Lei n. 8.038/90 e art. 160 do RISTF].
+Publique-se.
+Brasília, 10 de fevereiro de 2009.
+
+Ministro Eros Grau
+- Relator -
+
+1
