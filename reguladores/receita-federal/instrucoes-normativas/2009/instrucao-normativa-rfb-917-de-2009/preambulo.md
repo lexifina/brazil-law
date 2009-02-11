@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 917, de 9 de fevereiro de 2009
+Altera a Instrução Normativa RFB nº 834, de 26 de março de 2008, que dispõe sobre procedimentos fiscais dispensados aos consórcios constituídos nos termos dos arts. 278 e 279 da Lei nº 6.404, de 15 de dezembro de 1976.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto no § 2º do art. 177 e nos arts. 278 e 279 da Lei nº 6.404, de 15 de dezembro de 1976, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
