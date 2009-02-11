@@ -1,0 +1,32 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Estado de Rondônia, contra decisão proferida pela Segunda Turma do Tribunal Superior do Trabalho no processo ED-AIRR 1149/2001-141-14-00-2, que reconheceu a competência da justiça do trabalho para processar e julgar reclamação trabalhista ajuizada por ex-servidora contratada anteriormente à Constituição de 1988, submetida ao regime estatutário a partir de junho de 1988 e demitida com base na Lei Camata.
+Alega ofensa ao decidido por esta Corte na ADI 3.395-MC.
+Informações prestadas a fls. 50-82.
+O Ministério Público Federal, em parecer a fls. 87-89, manifesta-se pela procedência do pedido.
+É o relatório.
+
+Decido.
+Esta Corte firmou entendimento no sentido de que questões envolvendo servidores ou ex-servidores submetidos à contratação temporária, com base no estatuto jurídico dos servidores da localidade, são relações de natureza jurídico-administrativa, cuja competência para processo e julgamento é da justiça comum.
+Confira-se:
+
+EMENTA: AGRAVOS REGIMENTAIS EM RECLAMAÇÃO. ADI-MC 3.395/DF. CONTRATO TEMPORÁRIO. REGIME JURÍDICO-ADMINISTRATIVO. 2. No julgamento da medida cautelar na ADI n° 3.395/DF, entendeu o Tribunal que o disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária, entendida esta como a relação de cunho jurídico-administrativo. Os contratos temporários firmados pelo Poder Público com base no estatuto jurídico de seus servidores submetem-se ao regime jurídico-administrativo. 3. Não compete ao Tribunal, no âmbito estreito de cognição próprio da reclamação constitucional, analisar a regularidade constitucional e legal das contratações temporárias realizadas pelo Poder Público. 4. Agravos regimentais desprovidos, à unanimidade, nos termos do voto do Relator.
+Rcl-MC-AgR 4.990, rel. min. Gilmar Mendes, DJe 13.03.2008.
+
+No mesmo sentido, ao concluir o julgamento da Rcl 4.489-AgR (red. p/ acórdão min. Cármen Lúcia, Pleno, j. 21.08.2008) o Tribunal, por maioria, deu provimento a agravo regimental e julgou procedente reclamação ajuizada pelo Município de São Miguel do Guamá-PA, para deslocar para a Justiça Comum ações em trâmite na Justiça do Trabalho, em que se discute a validade de contratações celebradas sem prévia aprovação em concurso público. Inicialmente, esclareceu-se tratar-se de ações classificadas em dois grupos: 1) as relativas a contratações temporárias realizadas antes da CF/88, nas quais se sustenta a validade das mesmas, e se pretende a aplicação da Consolidação das Leis do Trabalho - CLT; 2) as concernentes a contratações temporárias feitas depois da CF/88, em que se alega a nulidade delas, por ofensa ao art. 37, II, da CF, e a conseqüente submissão dos casos a direitos típicos de uma relação trabalhista. Entendeu-se caracterizada a afronta à decisão proferida pelo Supremo na ADI 3.395 MC/DF (DJU de 10.11.2006), na qual referendada cautelar que suspendeu liminarmente toda e qualquer interpretação dada ao inciso I do art. 114 da CF, na redação dada pela EC 45/2004, que inclua, na competência da Justiça do Trabalho, a apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo (cf. Informativo/STF 516/2008).
+Referido precedente recebeu a seguinte ementa:
+
+'EMENTA: RECLAMAÇÃO CONSTITUCIONAL. AUTORIDADE DE DECISÃO PROFERIDA PELO SUPREMO TRIBUNAL FEDERAL: ARTIGO 102, INCISO I, ALÍNEA L, DA CONSTITUIÇÃO DA REPÚBLICA. MEDIDA CAUTELAR NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 3.395. CONTRATAÇÃO TEMPORÁRIA DE SERVIDORES PÚBLICOS: ARTIGO 37, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA. AÇÕES AJUIZADAS POR SERVIDORES TEMPORÁRIOS CONTRA A ADMINISTRAÇÃO PÚBLICA: COMPETÊNCIA DA JUSTIÇA COMUM. CAUSA DE PEDIR RELACIONADA A UMA RELAÇÃO JURÍDICO-ADMINISTRATIVA. AGRAVO REGIMENTAL PROVIDO E RECLAMAÇÃO PROCEDENTE. 1. O Supremo Tribunal Federal decidiu no julgamento da Medida Cautelar na Ação Direta de Inconstitucionalidade n. 3.395 que "o disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária". 2. Apesar de ser da competência da Justiça do Trabalho reconhecer a existência de vínculo empregatício regido pela legislação trabalhista, não sendo lícito à Justiça Comum fazê-lo, é da competência exclusiva desta o exame de questões relativas a vínculo jurídico-administrativo. 3. Se, apesar de o pedido ser relativo a direitos trabalhistas, os autores da ação suscitam a descaracterização da contratação temporária ou do provimento comissionado, antes de se tratar de um problema de direito trabalhista a questão deve ser resolvida no âmbito do direito administrativo, pois para o reconhecimento da relação trabalhista terá o juiz que decidir se teria havido vício na relação administrativa a descaracterizá-la. 4. No caso, não há qualquer direito disciplinado pela legislação trabalhista a justificar a sua permanência na Justiça do Trabalho. 5. Agravo regimental a que se dá provimento e reclamação julgada procedente.' (Rcl 4489 AgR, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 21/08/2008, DJe-222 DIVULG 20-11-2008 PUBLIC 21-11-2008 EMENT VOL-02342-01 PP-00177).
+
+Com efeito, o fato de o contrato de trabalho temporário ser nulo ' ou se ter tornado nulo em razão de sucessivas e ilegais prorrogações ' não transforma, automaticamente, o seu caráter jurídico-administrativo em celetista. A sua natureza é e continua sendo jurídico-administrativa, a atrair a competência da justiça comum, estadual ou federal.
+No presente caso, em se tratando de ex-servidora contratada temporariamente, com fundamento em normas locais, está configurada a natureza jurídico-administrativa da relação com o Poder Público.
+Caracterizada, portanto, a ofensa ao decidido por esta Corte na ADI 3.395-MC.
+Do exposto, com fundamento no art. 161, § 1º do Regimento Interno do Supremo Tribunal Federal, julgo procedente o pedido para cassar as decisões reclamadas, devendo os autos dos processos objeto da presente reclamação ser encaminhados à Justiça Comum. Fica prejudicada a análise do pedido de medida liminar.
+Intime-se. Comunique-se.
+Arquivem-se os autos.
+Publique-se.
+
+Brasília, 11 de fevereiro de 2009.
+
+Ministro JOAQUIM BARBOSA
+Relator
+
+1
