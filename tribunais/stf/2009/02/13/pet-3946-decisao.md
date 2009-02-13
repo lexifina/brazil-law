@@ -1,0 +1,39 @@
+DECISÃO: O Ministério Público Federal, em promoção subscrita pelo eminente Chefe do Ministério Público da União, Dr. ANTÔNIO FERNANDO BARROS E SILVA DE SOUZA, ao manifestar-se pelo retorno destes autos à 5ª Vara Criminal da comarca de Ribeirão Preto/SP, acentuou não vislumbrar a existência de indícios de autoria que pudessem justificar, quanto ao congressista detentor da prerrogativa de foro perante o Supremo Tribunal Federal, a formulação da 'opinio delicti', pronunciando-se nos seguintes termos (fls. 413/415):
+
+'O PROCURADOR-GERAL DA REPÚBLICA, em atenção ao despacho de fls. 410, vem expor e requerer o que segue.
+2. Trata-se de Petição na qual se apura suposto delito de inexigibilidade ilegal de licitação para contratação da empresa de publicidade MIC EDITORIAL LTDA pela Prefeitura Municipal de Ribeirão Preto-SP, no ano de 2002, quando ANTONIO PALOCCI FILHO exercia o mandato de Prefeito.
+3. Foram requeridas as seguintes diligências (fls. 75): a) expedição de ofício ao Tribunal de Contas do Estado de São Paulo, solicitando-lhe cópia integral dos autos do Processo TC ' 1005/006/2002; b) expedição de ofício à Prefeitura Municipal de Ribeirão Preto, solicitando-lhe todos os documentos relativos à contratação do serviço de publicidade da empresa MIC ' EDITORIAL LTDA, no ano de 2002; c) oitiva de ANTONIO PALOCCI FILHO, JUSCELINO ANTONIO DOURADO, JOSÉ HÉLIO PELISSARI e dos representantes da mencionada empresa.
+4. O Tribunal de Contas do Estado de São Paulo encaminhou cópia integral do Processo TC ' 1005/006/2002 (fls. 269/391).
+5. Por seu turno, a Prefeitura Municipal de Ribeirão Preto, através da Secretaria dos Negócios Jurídicos, enviou os documentos de fls. 204/262 - apenas notas de empenho, solicitações de empenho e notas fiscais dos serviços prestados ', informando que foram os únicos encontrados.
+6. Foram ouvidos JOSÉ HÉLIO PELISSARI, ex-coordenador de comunicação social do gabinete do Prefeito (fls. 171/172); MURILO SILVA PINHEIRO, sócio da empresa MIC EDITORIAL LTDA (fls. 174/175); JUSCELINO ANTONIO DOURADO, ex-Secretário da Casa Civil do Município; ISABEL DE FÁTIMA SANTOS FARIAS, sócia da empresa MIC EDITORIAL LTDA (fls. 174/175); ANTONIO ROSÁRIO DE ALMEIDA SEVERO, responsável pela elaboração do informativo `DIVIRTA-SE', que divulga eventos culturais em Ribeirão Preto (fls. 186/187).
+7. A única diligência pendente consiste na oitiva de ANTONIO PALOCCI FILHO, a qual se revela desnecessária em virtude dos motivos a seguir expostos. Ademais, o Parlamentar já se manifestou acerca dos fatos em questão, apresentando os documentos de fls. 83/140 e das petições PG/STF n° 64.387; 75.620 e 76.252/2008 (em anexo), nas quais nega ter qualquer responsabilidade em relação à contratação em tela, além de sustentar a sua legalidade.
+8. As provas colhidas revelam que JOSÉ HÉLIO PELISSARI e JUSCELINO ANTONIO DOURADO foram os responsáveis pela aludida contratação. Ambos afirmam que o então Prefeito ANTONIO PALOCCI FILHO não teve qualquer envolvimento na celebração do contrato.
+9. Nesse sentido, JOSÉ HÉLIO PELISSARI declara que:
+
+`(...) a decisão de contratar a empresa MIC foi uma decisão tomada em conjunto pelo Coordenador de Comunicação, no caso o Declarante e o Secretário da Casa Civil JUCELINO (sic) DOURADO; Que o prefeito ANTONIO PALLOCCI (sic) não teve nenhum (sic) participação na contratação da empresa MIC-EDITORIAL para divulgação da agenda cultural de Ribeirão Preto' (fls. 172) (...).
+
+10. Da mesma forma, ISABEL DE FÁTIMA SANTOS FARIA dá conta de que `tratou com HELIO PELISSARI, inicialmente da Comunicação Social Municipal e, posteriormente, com JUSCELINO DOURADO' (fls. 182). Ademais, afirma que `levou o projeto ao conhecimento da Comunicação Social e foi informada por HELIO PELISSARI, via telefone, que o mesmo havia sido aprovado' (fls. 182). Por fim, consta em seu depoimento que `ANTONIO PALOCCI não teve nenhum contato com a DECLARANTE para contratação dos serviços oferecidos pela sua empresa, já que as tratativas foram realizadas com a comunicação social do município' (fls. 183) (...).
+11. Acrescente-se que, além das provas testemunhais afastarem a hipótese de envolvimento do Deputado Federal ANTONIO PALOCCI FILHO nos fatos investigados, os documentos juntados não apresentam quaisquer indícios de autoria por parte do mesmo, vez que tanto nas solicitações de empenho, quanto nas notas fiscais, constam apenas as assinaturas de JOSÉ HÉLIO PELISSARI e JUSCELINO ANTONIO DOURADO (fls. 207; 209/211; 214/215; 217; 219/220; 222/223; 226/227; 230/231; 233/234; 236/237; 239/240; 242/243; 245/246; 248/249; 252/253; 255/256; 258/259; 261/262).
+12. Diante da ausência de provas contra o Parlamentar, e não possuindo os demais investigados foro por prerrogativa de função no Supremo Tribunal Federal, cumpre devolver os autos à instância ordinária.
+13. Ante o exposto, requeiro a devolução dos autos à  5ª  Vara Criminal da Comarca de Ribeirão Preto/SP, ressalvada a possibilidade de nova remessa ao Supremo Tribunal Federal caso surjam indícios concretos de envolvimento de ANTONIO PALOCCI FILHO.' (grifei)
+
+Inexistindo, nos autos deste procedimento, elementos que justifiquem o oferecimento de denúncia contra o Deputado Antônio Palocci Filho, como expressamente o reconhece o eminente Procurador- -Geral da República (que acentua não haver prova contra o parlamentar em questão), não pode, o Supremo Tribunal Federal, presente tal contexto, recusar o pedido de arquivamento (RTJ 57/155 - RTJ 69/6 ' RTJ 73/1 - RTJ 116/7, v.g.):
+
+'O PEDIDO DE ARQUIVAMENTO DE INQUÉRITO POLICIAL, MOTIVADO PELA AUSÊNCIA DE ELEMENTOS QUE PERMITAM AO PROCURADOR-GERAL DA REPÚBLICA FORMAR A `OPINIO DELICTI', NÃO PODE SER RECUSADO PELO SUPREMO TRIBUNAL FEDERAL.
+- Se o Procurador-Geral da República requer o arquivamento de inquérito policial, de peças de informação ou de expediente consubstanciador de `notitia criminis', motivado pela ausência de elementos que lhe permitam formar a `opinio delicti', por não vislumbrar a existência de infração penal (ou de elementos que a caracterizem), essa promoção não pode deixar de ser acolhida pelo Supremo Tribunal Federal, pois, em tal hipótese, o pedido emanado do Chefe do Ministério Público da União é de atendimento irrecusável. Doutrina. Precedentes.'
+(RTJ 192/873-874, Rel. Min. CELSO DE MELLO, Pleno)
+
+Cumpre advertir, no entanto, tal como enfatizado pelo eminente Senhor Procurador-Geral da República (fls. 415, item n. 13), que a persecução penal contra esse membro do Congresso Nacional poderá ser reaberta, retornando os autos, então, a esta Suprema Corte, se eventualmente surgirem, contra mencionado parlamentar, 'indícios concretos' de seu envolvimento na prática delituosa objeto deste procedimento.
+
+Cabe ter presente, no ponto, considerada a ressalva feita pelo eminente Chefe do Ministério Público da União, que a possibilidade de reabertura das investigações criminais, contra mencionado congressista, revelar-se-á legítima (CPP, art. 18 ' Súmula 524/STF), se, surgindo provas substancialmente novas contra ele (RTJ 91/831 ' RTJ 190/894 ' RT 540/393 ' RT 674/356, v.g.), a prescrição da pretensão punitiva do Estado ainda não houver ocorrido.
+
+Sendo assim, e tendo em consideração as razões expostas, acolho o pedido de arquivamento, quanto ao Deputado Antônio Palocci Filho, formulado pelo eminente Procurador-Geral da República (Lei nº 8.038/90, art. 3º, I).
+
+Havendo, no entanto, neste procedimento, outras pessoas sob investigação, que não dispõem de prerrogativa de foro perante esta Corte, determino, em acolhimento ao pleito formulado pelo eminente Procurador-Geral da República (fls. 415, item n. 13), a remessa dos presentes autos à 5ª Vara Criminal da comarca de Ribeirão Preto/SP, para os fins indicados em referida promoção.
+
+Publique-se.
+
+Brasília, 13 de fevereiro de 2009.
+
+Ministro CELSO DE MELLO
+Relator
