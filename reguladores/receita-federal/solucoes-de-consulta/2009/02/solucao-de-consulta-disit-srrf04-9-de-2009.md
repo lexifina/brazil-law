@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF04 nº 9, de 10 de fevereiro de 2009
+ASSUNTO: Normas de Administração Tributária
+EMENTA: PIS/Pasep. NÃO-CUMULATIVIDADE. VEÍCULO DE DIVULGAÇÃO. Os custos ou despesas relativos a valores devidos por veículo de divulgação às agências de propaganda ou publicidade, a título de remuneração, somente podem ser utilizados na constituição de créditos, descontáveis na apuração não-cumulativa da Contribuição para o PIS/Pasep do veículo de divulgação, quando a obrigação relativa a tais custos e despesas for, em decorrência de contrato ou disposição da legislação específica, do próprio veículo e tiver sido contraída em razão de serviços de propaganda ou publicidade diretamente aplicados ou consumidos na prestação de serviços do mesmo veículo . Legislação: Lei nº 4.680, de 1965; Lei nº 10.637, de 2002; Decreto nº 57.690, de 1966; Instrução Normativa SRF nº 404, de 2004
+DISPOSITIVOS LEGAIS: Lei nº 4.680, de 1965; Lei nº 10.637, de 2002; Decreto nº 57.690, de 1966; Instrução Normativa SRF nº 404, de 2004.
+[arquivo anexo: SC SRRF04-Disit nº 9-2009.pdf]
