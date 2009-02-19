@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+Teksid do Brasil Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso II, e 7º, incisos VI e XIV, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Terceira Turma do Tribunal Superior do Trabalho, assim ementado:
+
+'RECURSO DE REVISTA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. Havendo manifestação acerca da matéria suscitada, não há que se cogitar de negativa de prestação jurisdicional. Recurso de revista não conhecido. 2. DECISÃO MOLDADA À JURISPRUDÊNCIA UNIFORMIZADA DO TST. TURNOS ININTERRUPTOS DE REVEZAMENTO. Estando a decisão regional moldada à jurisprudência uniformizada do TST (Súmula 360/TST), não prospera recurso de revista (CLT, art. 896, § 4º). Recurso de revista não conhecido. 3. TRABALHO REALIZADO EM TURNOS ININTERRUPTOS DE REVEZAMENTO. EMPREGADO HORISTA. HORAS EXTRAS. FORMA DE REMUNERAÇÃO. DECISÃO MOLDADA À O.J. 275 DA SBDI-1. O entendimento do Regional está em conformidade com o disposto na O.J. 275 da SBDI-1/TST, esbarrando a revista no óbice do art. 896, § 4º, da CLT. Recurso de revista não conhecido. 4. HORAS EXTRAS. MINUTOS EXCEDENTES À JORNADA. "Não serão descontadas nem computadas como jornada extraordinária as variações de horário do registro de ponto não excedentes de cinco minutos, observado o limite máximo de dez minutos diários. Se ultrapassado esse limite, será considerada como extra a totalidade do tempo que exceder a jornada normal" (Súmula 366/TST). Imposição do óbice do art. 896, § 4º, da CLT. Recurso de revista não conhecido. 5. DIFERENÇAS DE HORAS EXTRAS E ADICIONAL NOTURNO. Interposto à deriva dos requisitos traçados pelo art. 896 da CLT, não merece conhecimento a revista. Recurso de revista não conhecido. 6. REFLEXOS. Aspecto não prequestionado escapa à jurisdição extraordinária (Súmula 297/TST). Recurso de revista não conhecido. 7. CORREÇÃO MONETÁRIA. Estando a decisão em conformidade com a Súmula 381 desta Corte, não merece conhecimento o apelo (art. 896, § 4º, da CLT). Recurso de revista não conhecido' (fls. 72/73).
+
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá 'quando não for o caso de inadmissibilidade do recurso por outra razão'.
+Não merece prosperar a irresignação.
+Os artigos 5º, inciso II, e 7º, inciso VI, da Constituição Federal, apontados como violados , carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidência das Súmulas n°s 282 e 356/STF.
+Demais disso, a jurisprudência desta Corte está consolidada no sentido de que a questão referente às horas extras de trabalhador horista submetido à jornada em turnos ininterruptos de revezamento é matéria restrita ao âmbito infraconstitucional. A alegada violação do artigo 7º, inciso XIV da Constituição Federal seria, se houvesse, indireta ou reflexa, que não enseja reexame em recurso extraordinário. Sobre o tema, anote-se:
+
+'AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. JORNADA DE TRABALHO. TURNO DE REVEZAMENTO. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO' (AI nº 619.285/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/2/08).
+
+'Agravo regimental em recurso extraordinário. 2. Jornada de Trabalho. Turnos de revezamento. Petroleiros. Lei no 5.811/72. Controvérsia infraconstitucional. 3. Alegação de violação ao art. 7º, XIV, da Carta Magna. Impossível inovar o feito em Agravo Regimental. Precedentes. 4. Agravo regimental a que se nega provimento' (RE nº 394.360/AM-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 24/2/06).
+
+'1. RECURSO. Extraordinário. Inadmissibilidade. Turno ininterrupto de revezamento. Horas extras. Lei nº 5.811/72. Alegação de ofensa aos arts. 5º, XXXVI, e 7º, XIV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Aplicação da súmula 279. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, de reexame de provas. 2. RECURSO. Extraordinário. Inadmissibilidade. Fundamentação do acórdão recorrido. Existência. Não há falar em ofensa ao art. 93, IX, da CF, quando o acórdão impugnado tenha dado razões suficientes, embora contrárias à tese do recorrente' (RE nº 248.100/BA-AgR, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 11/11/05).
+
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 19 de fevereiro de 2009.
+
+Ministro MENEZES DIREITO
+Relato
+1
