@@ -1,0 +1,20 @@
+DECISÃO: Vistos, etc.
+Trata-se de mandado de segurança, aparelhado com pedido de medida liminar, impetrado por Marlene Catarina de Oliveira Lopes Melo, contra ato do Tribunal de Contas da União. Ato consubstanciado no Acórdão nº 1.736/2008 ' Plenário, que determinou à Universidade Federal de Minas Gerais a instauração de procedimento administrativo 'com vistas à cobrança dos valores relativos ao adicional de dedicação exclusiva'.
+2. Argui a impetrante que exercia o cargo de professora da Universidade Federal de Minas Gerais e recebia o adicional de dedicação exclusiva. Afirma que, 'ao tempo de seu desligamento da entidade, passou a exercer atividades acadêmicas (entenda-se científicas, sem fins remuneratórios) junto à FACULDADES NOVOS HORIZONTES, participando de grupos de estudos com vistas ao aprofundamento intelectual'. Diz ter sido surpreendida com intimação da UFMG, dando conta de que o Tribunal de Contas da União havia determinado a instauração de procedimento administrativo para a cobrança dos valores referentes ao adicional de dedicação exclusiva.
+3. Reclama a autora de violação às garantias constitucionais do contraditório e da ampla defesa, pois não foi intimada do processo em trâmite no TCU. Invoca também o art. 54 da Lei nº 9.784/99 para defender a decadência do poder de a Administração Pública rever seus atos de que decorram efeitos favoráveis aos destinatários. Por fim, aduz ser legal o recebimento do adicional de dedicação exclusiva, porquanto não exerceria outra atividade remunerada. Daí requerer a concessão da liminar para suspender os efeitos do Acórdão nº 1.736/2008 ' Plenário, do Tribunal de Contas da União.
+4. Pois bem, antes de apreciar o pedido de medida liminar, solicitei informações ao impetrado. Informações que foram prestadas às fls. 327/346.
+ 5. Feito esse aligeirado relato da causa, passo à decisão. Fazendo-o, pontuo, de saída, que o poder de cautela dos magistrados é exercido num juízo provisório em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade jurídica do pedido (fumus boni juris) e do perigo da demora na prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que a este dão suporte, senão incorrendo em antecipação do próprio conteúdo da decisão definitiva.
+ 6. No caso, verifico estarem presentes os requisitos para a concessão da liminar. É que a impetrante não foi intimada do processo em trâmite no Tribunal de Contas da União. Processo que causou à autora prejuízo financeiro. E o fato é que este Supremo Tribunal Federal editou a Súmula Vinculante nº 3, segundo a qual, 'nos processos perante o Tribunal de Contas da União asseguram-se o contraditório e a ampla defesa quando da decisão puder resultar anulação ou revogação de ato administrativo que beneficie o interessado, excetuada a apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão'.
+ 7. Por fim, parece-me insuficiente a alegação do impetrado de que haveria contraditório e ampla defesa no processo administrativo instaurado pela UFMG. Isto porque o acórdão do TCU já considerou ilegal o pagamento à autora do adicional de dedicação exclusiva, sendo o processo administrativo apenas para a 'cobrança dos valores'. Em nenhum momento, portanto, teve a impetrante oportunidade de defender a legalidade desse pagamento.
+ 8. Ante o exposto, defiro a liminar para suspender, em relação à autora, os efeitos do Acórdão nº 1.736/2008 ' Plenário, do Tribunal de Contas da União.
+ 9. Intime-se o Advogado-Geral da União (art. 3º da Lei nº 4,348/64). Após, dê-se vista dos autos ao Procurador-Geral da República.
+ Comunique-se.
+ Publique-se.
+   Brasília, 20 de fevereiro de 2009.
+
+Ministro CARLOS AYRES BRITTO
+Relator
+
+1
+
+1
