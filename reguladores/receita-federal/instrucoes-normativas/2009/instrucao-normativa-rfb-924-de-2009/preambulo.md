@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 924, de 19 de fevereiro de 2009
+Aprova, para o ano-calendário de 2009, o programa multiplataforma Ganhos de Capital em Moeda Estrangeira, relativo ao Imposto sobre a Renda da Pessoa Física.
+O SECRETARIO DA RECEITA FEDERAL DO BRASIL/SUBSTITUTO, no uso das atribuições que lhe conferem os incisos III e XVII do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto na Instrução Normativa SRF nº 118, de 28 de dezembro de 2000, e na Instrução Normativa SRF nº 599, de 28 de dezembro de 2005, resolve:
