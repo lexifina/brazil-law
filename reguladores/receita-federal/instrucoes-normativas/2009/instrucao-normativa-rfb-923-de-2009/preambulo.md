@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 923, de 19 de fevereiro de 2009
+Aprova o programa multiplataforma para preenchimento da Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física referente ao exercício de 2009, ano-calendário de 2008 (IRPF2009), para uso em computador que possua a máquina virtual Java (JVM), versão 1.4.2 ou superior, instalada.
+O SECRETARIO DA RECEITA FEDERAL DO BRASIL/SUBSTITUTO, no uso das atribuições que lhe conferem os incisos III e XVII do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto na Instrução Normativa RFB nº 918, de 10 de fevereiro de 2009, resolve:
