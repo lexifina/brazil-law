@@ -1,0 +1,15 @@
+DECISÃO: Vistos, etc.
+O Ministério Público do Distrito Federal e Territórios maneja reclamação contra ' decisão do Governador do Distrito Federal, publicada no DODF de 10 de março de 1998, que desrespeitou o veredicto da E. 1ª Turma do Supremo Tribunal Federal, no RE 154.136-9'. Despacho, o do Governador, que determinou a efetivação das progressões funcionais ao cargo de Delegado de Polícia, realizadas em 1990 e 1994.
+2. Afirma, o reclamante, que as instâncias a quo deferiram a ordem em mandado de segurança, no sentido de garantir aos dez impetrantes a aprovação em concurso de progressão ao cargo de Delegado de Polícia (Edital 027/1990). Decisões motivadas na ilegalidade da fixação em sessenta pontos como nota mínima de aprovação em concurso, pelo que restaram aprovados candidatos com pontuação inferior à fixada no edital. Contra elas o próprio Distrito Federal recorreu a este Supremo. Entretanto, em que pese a pendência do recurso extraordinário, em 1992 o Distrito Federal editou as portarias concessivas da progressão funcional, em cumprimento a ofício do Tribunal de Justiça.
+3. Registra, o acionante, que, em 15/04/1998, 'ajuizou ação civil pública na qual requereu a nulidade do concurso regido pelo Edital n° 027/90', pendendo de julgamento no Superior Tribunal de Justiça. Ação, essa, que visa 'mais do quanto já definira o Supremo Tribunal e foi objeto do RE 134156/DF, agora objeto da Reclamação, o qual se limitara à impossibilidade de nomeação de Agentes de Polícia, que não passaram, no Concurso interno para Delegado de Polícia'.
+4. Após destacar que ' o cerne da presente reclamação é a não aprovação no concurso interno ' fosse ele inconstitucional ou não', requer, o autor, a declaração de nulidade do ato do Governador do Distrito Federal, 'determinando-se, em conseqüência, a invalidade da ascensão funcional concedida aos impetrantes pelo TJDFT, retornando os beneficiários a seus cargos originários'.
+5. Esse o relatório, passo a decidir. Fazendo-o, pontuo, de saída, que o pedido formulado pelo reclamante desborda do contexto do RE 154136. Como frisado na inicial, o Governador, no adversado despacho de 1998, deferiu pleito de 'candidatos ao cargo de delegado de polícia do Distrito Federal, todos participantes de outro concurso (Edital 019/94)'. Aqui, fundada a reclamação no RE 154136, poderiam ser impugnadas, mas não o foram, as portarias de progressão funcional, editadas em 1992.
+6. Prossigo, agora para averbar que o decidido por este nosso Tribunal no RE 154136 não apresenta o conteúdo dado pelo reclamante. O julgado deu provimento a recurso extraordinário do Distrito Federal, desobrigando-o de nomear os candidatos ali referenciados. Em palavras outras, o ente federado não foi condenado. Não se lhe impôs o dever de não nomear ou de desfazer os atos praticados em 1992. Portanto, o não desfazimento dos atos de progressão funcional não afronta o acórdão deste Supremo.
+7. É o quanto me basta para negar seguimento à presente ação, o que faço com fundamento no § 1º do art. 21 do RI/STF.
+Publique-se.
+Brasília, 26 de fevereiro de 2009.
+
+Ministro CARLOS AYRES BRITTO
+Relator
+
+1
