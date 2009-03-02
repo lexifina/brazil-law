@@ -1,0 +1,34 @@
+DECISÃO
+Vistos.
+Indústria Cataguases de Papel Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos II, V, X, XIII, XXXIV, XXXV, LIV, LV e LXXIV, 93, incisos IX e X, 98, inciso I, 170, incisos IV, V e XIII, e 173, § 4º, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Primeira Turma Recursal dos Juizados Especiais Cíveis do Estado do Rio de Janeiro que manteve, por seus próprios fundamentos, a sentença de 1º grau que entendeu devida indenização por danos morais em virtude de acidente ambiental configurado no vazamento de material poluente que causou prejuízo à atividade de pesca exercida pelo agravado.
+Opostos embargos de declaração (fls. 41 a 50), foram rejeitados (fl. 52).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá 'quando não for o caso de inadmissibilidade do recurso por outra razão'.
+Não merece prosperar a irresignação.
+No tocante aos artigos 170, incisos IV, V e VIII, e 173, § 4º, da Constituição Federal, apontados como violados, não houve o necessário prequestionamento, sendo certo que as referidas normas não foram examinadas pelo Tribunal de origem, nem, tampouco, objetos dos embargos de declaração opostos pela recorrente. Incidência das Súmulas nºs 282 e 356 desta Corte.
+Por outro lado, não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a agravante teve acesso aos recursos cabíveis na espécie e a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão da recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Ressalte-se, outrossim, que não viola a exigência constitucional de motivação a fundamentação do julgado de turma recursal que, na conformidade da lei, adota os fundamentos contidos na sentença recorrida. Anote-se:
+
+'DECISÃO - TURMA RECURSAL - FUNDAMENTAÇÃO. A Lei nº 9.099/95 viabiliza a adoção pela turma recursal dos fundamentos contidos na sentença proferida, não cabendo cogitar de transgressão do artigo 93, inciso IX, da Constituição Federal' (AI nº 453.483/PB-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJ de 8/6/07).
+
+'I. Decisão judicial: motivação suficiente: ausência de violação do artigo 93, IX, da Constituição Federal ou de negativa de prestação jurisdicional. 1. "O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional" (RE 140.370, Pertence, DJ 21.5.93). 2. Não viola a exigência constitucional a fundamentação que, na conformidade da lei, remete-se à da decisão recorrida. II. Recurso extraordinário: descabimento: controvérsia relativa à reparação de danos materiais e morais decorrentes de acidente de trânsito decidida com base na análise do conjunto probatório, insuscetível de reexame no RE: incidência da Súmula 279' (AI 612.861/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 13/4/07).
+
+No mesmo sentido: AI nº 624.713/RJ-ED, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 31/1/08; e AI nº 649.140/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 17/8/07.
+No que tange às questões referentes à necessidade de produção de prova pericial, ao critério de identificação da complexidade da causa para a definição da competência dos Juizados Especiais e ao entendimento do Tribunal de origem acerca dos fatos ensejadores dos danos ora indenizados, igualmente, não prospera o apelo, tendo em vista que a jurisprudência desta Corte entende que esses pontos estão restritos à interpretação da legislação infraconstitucional e ao reexame das provas dos autos, operações vedadas em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636 desta Corte. Nesse sentido:
+
+'EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. INDENIZAÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Indenização. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas (Súmula 279). 2. Competência dos Juizados Especiais. Complexidade da matéria. Controvérsia infraconstitucional. Precedentes. 3. Turma Recursal. Sentença mantida por seus próprios fundamentos. Inexistência de afronta ao art. 93, inc. IX, da Constituição da República. 4. Decisão de Ministro que determina a subida de recurso extraordinário para melhor exame não vincula outros Ministros do Supremo Tribunal Federal' (AI nº 624.713/RJ-ED, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1/2/08).
+
+'PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. REEXAME DE PROVA. SÚMULA 279 DO STF. MATÉRIA INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I - Matéria demanda o reexame de conjunto fático-probatório, o que atrai a incidência da Súmula 279 do STF. II - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. III - Embargos de declaração convertidos em agravo regimental, a que se nega provimento' (AI nº 653.967/RJ-ED, Primeira Turma, Relator o Ministro Ricardo Lewandowsky, DJ de 8/2/08).
+
+'Agravo regimental em agravo de instrumento. 2. Prequestionamento. Oposição de embargos declaratórios. Ausência da juntada do recurso inominado. Impossibilidade de verificação de omissão do Tribunal de origem. Incidência das Súmulas 282 e 288/STF. 3. Juizados Especiais. Competência. Complexidade da causa. Matéria adstrita ao âmbito da legislação infraconstitucional. Precedentes. 4. Agravo regimental a que se nega provimento' (AI nº 402.810/BA-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 2/5/03).
+
+Ademais, tenho entendido que o tema, como posto nos autos, está no plano infraconstitucional, sendo o recurso extraordinário impróprio para enfrentá-lo.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 2 de março de 2009.
+
+Ministro MENEZES DIREITO
+Relator
+
+1
