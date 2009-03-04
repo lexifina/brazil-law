@@ -1,0 +1,27 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que não admitiu processamento de recurso extraordinário interposto de acórdão do Superior Tribunal de Justiça e assim ementado:
+
+'AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO ' PROCESSUAL CIVIL - EXECUÇÃO - TÍTULO EXTRAJUDICIAL - AUSÊNCIA DE PREQUESTIONAMENTO - INCIDÊNCIA DA SÚMULA 282/STF - MATÉRIA CONSTITUCIONAL ' INVIABILIDADE DE APRECIAÇÃO NA VIA DO RECURSO ESPECIAL ' RECURSO IMPROVIDO' (fl. 242).
+
+Sustenta o recorrente, com fundamento no art. 102, III, a, violação ao disposto no art. 5º, II, XXXV, LIV, e LV, da Constituição Federal.
+
+Apresenta preliminar formal e fundamentada de repercussão geral, no forma do art. 543-A, § 2º, do CPC.
+
+2.  Conquanto admissível o agravo, inviável o recurso extraordinário.
+
+ Com efeito, os temas constitucionais suscitados no recurso extraordinário não foram objeto de consideração no acórdão recorrido, faltando-lhes, assim, o requisito do prequestionamento, que deve ser explícito (súmulas 282 e 356).
+
+ Ademais, a avaliação do acerto da decisão do Superior Tribunal de Justiça, quanto à aplicação dos requisitos de conhecimento e ao alcance do provimento do recurso especial, dependeria de reexame prévio de normas processuais. Ora, é pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+
+ De igual modo, é não menos aturada a jurisprudência da Corte no sentido de que lhe não compete reexaminar, em concreto, a existência, ou não, dos requisitos de admissibilidade de recurso especial, sob pena de se transformar em instância ordinária de revisão dos julgamentos do Superior Tribunal de Justiça, ao qual está reservada a tarefa (cf. AI nº 181.489-AgR, Rel. Min. SYDNEY SANCHES, DJ de 12.11.99; AI nº 233.210, Rel. Min. ILMAR GALVÃO, DJ de 21.6.2000; RE nº 249.319, Rel. Min. ILMAR GALVÃO, DJ de 9.8.2001; RE nº 209.140, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 29.9.2000; AI nº 139.810-AgR, Rel. Min. CARLOS VELLOSO, DJ de 1º.10.93).
+
+ Como se vê, a causa foi, nos seus limites originários, decidida à só luz da interpretação e aplicação de normas infraconstitucionais, cuja vigência e validez não foram postas em dúvida em nenhum passo da causa, de modo que não se pode tirar daí senão hipotética ofensa indireta, ou reflexa, à Constituição da República, como é de velhíssima jurisprudência da Corte, a qual se cansa de salientar que, se, para chegar à violação da Constituição, seja mister examinar primeiro a legislação subalterna, então esta é que conta, e não é caso de ofensa direta, capaz de fazer admissível o recurso extraordinário (cf. AI nº 153.943-AgR, Rel. Min. CARLOS VELLOSO, DJ de 10.5.96; AI nº 261.953-AgR, Rel. Min. MOREIRA ALVES, DJ de 15.12.2000; inter plures).
+
+ Não se excogita, pois, existência de repercussão geral, que só convém a questões constitucionais.
+
+3.  Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+
+Publique-se. Int..
+Brasília, 4 de março de 2009.
+
+Ministro CEZAR PELUSO
+Relator
