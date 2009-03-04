@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 801, DE 03 DE MARÇO DE 2009
+(Autoria do Projeto: Poder Executivo)
+Dispõe sobre doação de lote à União, na forma que especifica.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
