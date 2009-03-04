@@ -3,6 +3,7 @@ Art. 29. As matérias-primas, os produtos intermediários e os materiais de emba
 I - estabelecimentos industriais fabricantes, preponderantemente, de:
 a) componentes, chassis, carroçarias, partes e peças dos produtos a que se refere o art. 1º da Lei nº 10.485, de 3 de julho de 2002;
 b) partes e peças destinadas a estabelecimento industrial fabricante de produto classificado no Capítulo 88 da Tipi;
+c) bens de que trata o § 1º-C do art. 4º da Lei nº 8.248, de 23 de outubro de 1991, que gozem do benefício referido no caput do mencionado artigo;
 II - pessoas jurídicas preponderantemente exportadoras.
 § 2º O disposto no caput e no inciso I do § 1º aplica-se ao estabelecimento industrial cuja receita bruta decorrente dos produtos ali referidos, no ano-calendário imediatamente anterior ao da aquisição, houver sido superior a 60% (sessenta por cento) de sua receita bruta total no mesmo período.
 § 3º Para fins do disposto no inciso II do § 1º deste artigo, considera-se pessoa jurídica preponderantemente exportadora aquela cuja receita bruta decorrente de exportação para o exterior, no ano-calendário imediatamente anterior ao da aquisição, houver sido superior a 70% (setenta por cento) de sua receita bruta total de venda de bens e serviços no mesmo período, após excluídos os impostos e contribuições incidentes sobre a venda.
