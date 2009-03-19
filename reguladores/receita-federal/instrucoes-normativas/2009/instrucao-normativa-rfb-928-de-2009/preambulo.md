@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 928, de 18 de março de 2009
+Dispõe sobre a prorrogação do prazo de entrega do Demonstrativo de Apuração de Contribuições Sociais (Dacon) pelas pessoas jurídicas de que trata o art. 3º da Instrução Normativa SRF nº 590, de 22 de dezembro de 2005, relativo a fatos geradores ocorridos no segundo semestre de 2008.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 224 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista o disposto art. 16 da Lei nº 9.779, de 19 de janeiro de 1999,resolve:
