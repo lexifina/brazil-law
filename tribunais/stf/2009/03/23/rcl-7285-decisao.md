@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, proposta por Raul Bellens Jungmann Pinto contra ato do Juízo da 16ª Vara Federal da Seção Judiciária do Distrito Federal, nos autos da ação civil pública n. 2007.34.00.027772-7.
+2.  O reclamante afirma que tomou conhecimento do ajuizamento de uma ação civil pública contra si, ação cujo objeto seria a revogação e nulidade de contratos administrativos.
+3.  Sustenta que a autoridade reclamada não seria competente para a análise da mencionada ação civil pública, vez que, segundo o reclamante, estaria usurpando competência deste Tribunal.
+4.  Afirma que esta Corte, no julgamento da RCL n. 2.138, 'decidiu que os agentes políticos não se submetem ao regime de responsabilidade da Lei de Improbidade Administrativa' [fl. 4]. Diz, por fim, que está sendo processado por suposto ato de improbidade administrativa que teria sido cometido no exercício do cargo de Ministro de Estado e que atualmente exerce o cargo de Deputado Federal.
+5.  Segundo o reclamante, a plausibilidade jurídica do pedido --- fumus boni iuris --- estaria configurada, vez que evidenciada a usurpação de competência desta Corte. O periculum in mora seria manifesto, pois 'o processamento de uma ação perante o Juízo incompetente movimentaria de forma indevida a máquina judiciária, como também causa prejuízos diversos ao reclamante'.
+6.  Requer a concessão de medida liminar para que seja determinado sobrestamento da ação de improbidade n. 2007.34.00.027772-7.
+7.  A autoridade reclamada prestou informações às fls. 28/31. Sustentou que as ordens constritivas contra o reclamante e aquelas que resultaram no bloqueio de bens não subsistem, vez que o feito no qual deferidas foi extinto sem julgamento do mérito.
+8.  É o relatório. Decido.
+9.  O reclamante afirma que a competência do Supremo Tribunal Federal estaria sendo usurpada pelo Juízo da 16ª Vara Federal da Seção Judiciária do Distrito Federal, perante o qual foi ajuizada ação de improbidade proposta contra ele.
+10.  O processamento das ações civis públicas propostas contra agentes políticos pela eventual prática de atos de improbidade administrativa foi objeto de debate quando do julgamento da RCL n. 2.138.
+11.  Esta Corte afirmou, naquela ocasião, que o sistema constitucional brasileiro distingue o regime de responsabilidade dos agentes políticos dos demais agentes políticos.
+12.  A Ministra CARMÉN LÚICA recentemente analisou reclamação na qual era pretendida a suspensão do andamento de ação civil pública proposta contra atos supostamente praticados por agente político. Naquela hipótese, tal como nesta, alegava-se a violação da decisão proferida na RCL n. 2.138. A Relatora observou o seguinte:
+
+'[a]ssim, é incabível a reclamação em que se alega o descumprimento de decisão proferida em outra reclamação, que, por óbvio, não tem efeito vinculante. Em decisão monocrática da lavra do eminente Ministro Carlos Britto, nos autos da Reclamação n. 4.730, a questão ficou assim posta: 'a reclamação constitucional prevista na alínea l do inciso I do artigo 102 da Carta-cidadã se revela como uma importante ferramenta processual para o fim de preservar a competência desta colenda Corte e garantir a autoridade das suas decisões. Nesta última hipótese, contudo, sabe-se que as reclamatórias somente podem ser manejadas ante o descumprimento de decisórios proferidos, com efeito vinculante, nas ações destinadas ao controle abstrato de constitucionalidade, ou, então, nos processos de índole subjetiva (desde que, neste último caso, o eventual reclamante deles haja participado).' (DJ 31.10.2006, grifos nossos). Na mesma linha, posicionou-se o Ministro Joaquim Barbosa quando decidiu a Reclamação n. 2.723, nos seguintes termos: `na atual sistemática constitucional, entende-se que as decisões proferidas por este Tribunal em casos concretos, onde há uma real lide inter partes - como é o caso do habeas corpus -, têm eficácia restrita às partes envolvidas, não gozando, portanto, de efeito vinculante, tampouco tendo eficácia erga omnes, atributos típicos do controle concentrado de constitucionalidade. Dessas decisões proferidas em casos concretos, como é o caso do habeas corpus e do recurso extraordinário, por exemplo, permite-se o manejo da reclamação, tão-somente por aqueles que foram parte na decisão desta Corte cuja autoridade é tida por violada. A utilização da reclamação por aqueles que não foram parte no feito cuja decisão teve a autoridade supostamente violada só é possível em se tratando de controle abstrato e concentrado de constitucionalidade, em razão dos peculiares efeitos da decisão nesses casos (eficácia erga omnes e efeito vinculante).''
+[RCL n. 6.555, Relatora a Ministra CÁRMEN LÚCIA, DJe de 19.9.2008]
+
+13.  Não há falar-se, neste exame preliminar, em direito verossímil. A jurisprudência desta Corte não corrobora as alegações do reclamante quanto ao cabimento da reclamação.
+14.  No tocante ao periculum in mora a autoridade reclamada afirma que não há medida constritiva que tenha sido imposta ao reclamante. Esclarece que a decisão que bloqueava bens do reclamante não subsiste, vez que fora extinto sem julgamento do mérito o processo no qual deferida a cautelar. Observo, todavia, que o posterior deferimento de medidas que causem prejuízos ao reclamante poderá importar em reexame desta decisão.
+ A delibação preliminar requer a presença do fumus boni iuris e do periculum in mora. Não vislumbro os requisitos.
+Indefiro a medida liminar.
+Dê-se vista dos autos à Procuradoria Geral da República [art. 16 da Lei n. 8.038/90 e art. 160 do RISTF].
+Publique-se.
+Brasília, 23 de março de 2009.
+
+Ministro Eros Grau
+- Relator -
+
+1
