@@ -1,0 +1,17 @@
+DECISÃO: Vistos, etc.
+Cuida-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra ato imputado a Ministro do Superior Tribunal de Justiça.
+2. Pois bem, os impetrantes alegam que o presente habeas corpus se fundamenta no inciso LXXVIII do artigo 5º da CF/88. Sustentam que a denúncia oferecida contra a paciente imputou-lhe a autoria de crime contra a Previdência Social 'pelo só motivo dela figurar no contrato social da pessoa jurídica COLÉGIO OSWALDO CRUZ LTDA...'. Argumentam que o HC ajuizado no Superior Tribunal de Justiça, embora conte com parecer ministerial público desde 13/09/2007, ainda não foi levado a julgamento do órgão colegiado respectivo. A evidenciar uma injustificável demora, sendo certo que a ação penal a que responde a paciente já se encontra na fase das alegações finais. Daí o pedido de imediata suspensão do processo-crime Nº 1999.34.00.037162-5, em trâmite na 10ª Vara Federal da Seção Judiciária do Distrito Federal. No mérito, a defesa requer o deferimento do habeas corpus para que a autoridade apontada como coatora dê absoluta prioridade ao julgamento do mérito do HC 87.793, no STJ.
+3. Feita esta síntese do pedido, decido. De saída, acentuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo da demora na prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+4. No caso, não estão configurados, de plano, os pressupostos do provimento cautelar requestado. A par da clara complexidade desta causa, a primeira dificuldade que encontro para o deferimento do pedido liminar está na consideração de que é pacífica a jurisprudência deste Supremo Tribunal Federal, no sentido de que o trancamento da ação penal é medida excepcional. Medida que é de ser adotada, então, apenas quando de logo avulta ilegalidade ou abuso de poder. Isto é, sempre que evidenciada a ocorrência de uma das causas de rejeição liminar da denúncia, previstas no artigo 395 do Código de Processo Penal (inépcia da inicial acusatória, falta de pressuposto processual ou condição para o exercício da ação penal e ausência de justa causa para o exercício da ação penal).
+5. Por outra volta, averbo que eventual demora no julgamento da ação constitucional ajuizada no Superior Tribunal de Justiça é de ser examinada pela Primeira Turma deste STF. Isto porque se trata de matéria que diz respeito (exclusivamente) ao próprio mérito da impetração.
+6. Por tudo quanto posto, indefiro a liminar requestada; reservando-me, é claro, para um mais detido exame da causa por ocasião do julgamento de mérito deste habeas corpus.
+7. Requisitem-se, com a máxima urgência, informações ao Superior Tribunal de Justiça; facultada a prestação de esclarecimentos sobre a petição inicial desta ação constitucional (cuja cópia acompanhará o expediente).
+Publique-se.
+Brasília, 23 de março de 2009.
+
+Ministro CARLOS AYRES BRITTO
+Relator
+
+1
+
+1
