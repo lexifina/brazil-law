@@ -33,6 +33,8 @@ p) operações urbanas consorciadas;
 q) regularização fundiária;
 r) assistência técnica e jurídica gratuita para as comunidades e grupos sociais menos favorecidos;
 s) referendo popular e plebiscito;
+t) demarcação urbanística para fins de regularização fundiária;
+u) legitimação de posse.
 VI - estudo prévio de impacto ambiental (EIA) e estudo prévio de impacto de vizinhança (EIV).
 § 1º Os instrumentos mencionados neste artigo regem-se pela legislação que lhes é própria, observado o disposto nesta Lei.
 § 2º Nos casos de programas e projetos habitacionais de interesse social, desenvolvidos por órgãos ou entidades da Administração Pública com atuação específica nessa área, a concessão de direito real de uso de imóveis públicos poderá ser contratada coletivamente.
