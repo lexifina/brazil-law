@@ -1,0 +1,30 @@
+DECISÃO: Trata-se de ação cautelar proposta pela Usina Colombo S/A Açúcar e Álcool para conferir efeito suspensivo a agravo de instrumento.
+2.  A requerente obteve liminar para suspender a exigibilidade do crédito tributário discutido nos autos do mandado de segurança n. 98.0704378-6. A segurança foi denegada, mantida a sentença pelo TRF ' 3ª Região. O recurso extraordinário não foi admitido na origem. A requerente interpôs agravo de instrumento.
+3.  Afirma que o recurso de agravo, de que sou Relator, está concluso e o recurso especial já foi julgado pelo STJ, com acórdão transitado em julgado.
+4.  O acórdão recorrido teria violado o disposto nos arts. 153, § 3º; 151, I; 150, II; 153, § 1º e 150, I, da Constituição, ao admitir a constitucionalidade da cobrança do IPI sobre o açúcar com alíquota diferente de zero.
+5.  Sustenta que, em casos excepcionais, o Supremo tem conferido efeito suspensivo a recursos extraordinários nas ações cautelares em que estão presentes os requisitos para seu deferimento.
+6.  Alega que o 'fumus boni iuris é evidenciado pela tese esposada nas razões do recurso extraordinário, e principalmente pelo fato de inexistir jurisprudência pacificada e manifestação do Plenário deste E. STF, a respeito do assunto.' [fl. 5].
+7.  Aponta a existência do periculum in mora, consubstanciado no fato de que está na iminência de ser inscrita na dívida ativa e sofrer restrições para obter certidões negativas. A Receita Federal do Brasil já estaria cobrando o pagamento do crédito tributário discutido nos autos, acrescido de multa e juros de mora que alcançam valor elevadíssimo.
+8.  É o relatório. Decido.
+9.  A outorga de eficácia suspensiva ao recurso extraordinário --- que somente dispõe de efeito devolutivo, nos termos do art. 542, § 2º, do CPC, na redação que lhe foi conferida pela Lei nº 8.950/94 --- reveste-se, consoante entendimento do Tribunal, de excepcionalidade absoluta:
+
+'A concessão de eficácia suspensiva ao apelo extremo, para legitimar-se, supõe a conjugação necessária dos seguintes requisitos: (a) que tenha sido instaurada a jurisdição cautelar do Supremo Tribunal Federal (existência de juízo positivo de admissibilidade do recurso extraordinário, consubstanciado em decisão proferida pelo Presidente do Tribunal de origem ou resultante do provimento do recurso de agravo), (b) que o recurso extraordinário interposto possua viabilidade processual, caracterizada, dentre outras, pelas notas da tempestividade, do prequestionamento explícito da matéria constitucional e da ocorrência de ofensa direta e imediata ao texto da Constituição, (c) que a postulação de direito material deduzida pela parte recorrente tenha plausibilidade jurídica e (d) que se demonstre, objetivamente, a ocorrência de situação configuradora do 'periculum in mora'. Precedentes. Reconhecimento, pela Turma do Supremo Tribunal Federal, de que se acham presentes, na espécie, todos esses requisitos' [Pet n. 1.886 AgR-QO, Relator o Ministro CELSO DE MELLO, DJ de 31.3.06. Grifos no original].
+
+11.  Os precedentes que originaram as Súmulas ns. 634 e 635 desta Corte são claros ao afirmar que a competência do Supremo Tribunal Federal para a análise de pedido de concessão de efeito suspensivo a recurso extraordinário instaura-se após o juízo positivo de admissibilidade. Transcrevo, por todos, o seguinte precedente:
+'Esta Corte tem entendido que não cabe medida cautelar inominada para a obtenção de efeito suspensivo a recurso extraordinário que ainda não foi admitido no Tribunal de origem, não só porque a concessão dessa medida pressupõe necessariamente a existência de juízo positivo de admissibilidade do recurso extraordinário, mas também porque, em se tratando de recurso extraordinário, que demanda esse juízo de admissibilidade da competência da Presidência do Tribunal que prolatou o acórdão recorrido, não se aplica o disposto no parágrafo único do artigo 800 do C.P.C. pela singela razão de que, se fosse concedida a liminar para dar efeito suspensivo, pela relevância de sua fundamentação jurídica, a recurso dessa natureza ainda não admitido, a referida Presidência, em virtude da hierarquia jurisdicional, não poderia desconstituí-la com a não-admissão desse recurso, ficando, assim, adstrita - o que é incompatível com a sua competência para o juízo de admissibilidade - a ter de admiti-lo.' [PET n. 1.782, Relator o Ministro MOREIRA ALVES, DJ 10.04.2000 ' grifou-se].
+
+12.  Esse entendimento foi reafirmado na sessão plenária do último dia 12 de novembro, no julgamento da QO-AC n. 2.177, Relatora a Ministra ELLEN GRACIE, ajustando-a à reforma processual que introduziu entre nós o instituto da repercussão geral.
+13.  O Tribunal reiterou o enunciado das Súmulas ns. 634 e 635, ao decidir que, 'quando, reconhecida repercussão geral da matéria, for sobrestado recurso extraordinário sobre ela, admitido ou não na origem, é da competência do tribunal local conhecer e julgar ação cautelar tendente a dar-lhe efeito suspensivo' [Informativo n. 528].
+14.  Restringiu-se a atuação do Relator para a concessão de tutela cautelar, nos termos da observação feita pelo Ministro CELSO DE MELLO, aos casos urgentes em que o recurso, devidamente admitido, encontrar-se fisicamente no Supremo Tribunal Federal, ainda que sobrestado.
+Civil.
+15.  A matéria de fundo discutida no recurso extraordinário teve sua repercussão geral reconhecida nos autos do RE n. 567.948, Relator o Ministro MARCO AURÉLIO.
+16.  O recurso extraordinário da requerente não foi admitido na origem. O agravo de instrumento interposto foi provido para reconhecer a admissibilidade do extraordinário. Os autos, no entanto, permaneceram sobrestados na origem em virtude do disposto no art. 543-B do CPC.
+17.  A atual jurisprudência quanto à tutela cautelar do Supremo Tribunal Federal após a reforma processual iniciada pela Emenda Constitucional n. 45/04 e os novos preceitos do Código de Processo Civil quanto ao processamento do recurso extraordinário impedem o conhecimento da presente demanda.
+ Nego seguimento à ação cautelar [art. 21, § 1º, do RISTF].
+ Publique-se.
+ Brasília, 27 de março de 2009.
+
+Ministro Eros Grau
+- Relator -
+
+1
