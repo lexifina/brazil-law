@@ -1,4 +1,4 @@
-Art. 4º Para cada incorporação submetida ao regime especial de tributação, a incorporadora ficará sujeita ao pagamento equivalente a sete por cento da receita mensal recebida, o qual corresponderá ao pagamento mensal unificado dos seguintes impostos e contribuições:
+Art. 4º Para cada incorporação submetida ao regime especial de tributação, a incorporadora ficará sujeita ao pagamento equivalente a seis por cento da receita mensal recebida, o qual corresponderá ao pagamento mensal unificado dos seguintes impostos e contribuições:
 I - Imposto de Renda das Pessoas Jurídicas - IRPJ;
 II - Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP;
 III - Contribuição Social sobre o Lucro Líquido - CSLL; e
@@ -8,3 +8,6 @@ IV - Contribuição para Financiamento da Seguridade Social - COFINS.
 § 3º As receitas, custos e despesas próprios da incorporação sujeita a tributação na forma deste artigo não deverão ser computados na apuração das bases de cálculo dos tributos e contribuições de que trata o caput deste artigo devidos pela incorporadora em virtude de suas outras atividades empresariais, inclusive incorporações não afetadas.
 § 4º Para fins do disposto no § 3º deste artigo, os custos e despesas indiretos pagos pela incorporadora no mês serão apropriados a cada incorporação na mesma proporção representada pelos custos diretos próprios da incorporação, em relação ao custo direto total da incorporadora, assim entendido como a soma de todos os custos diretos de todas as incorporações e o de outras atividades exercidas pela incorporadora.
 § 5º A opção pelo regime especial de tributação obriga o contribuinte a fazer o recolhimento dos tributos, na forma do caput deste artigo, a partir do mês da opção.
+§ 6º Até 31 de dezembro de 2013, para os projetos de incorporação de imóveis residenciais de interesse social, cuja construção tenha sido iniciada a partir de 31 de março de 2009, o percentual correspondente ao pagamento unificado dos tributos de que trata o caput será equivalente a um por cento da receita mensal recebida.
+§ 7º Para efeito do disposto no § 6º consideram-se projetos de incorporação de imóveis de interesse social os destinados à construção de unidades residenciais de valor comercial de até R$ 60.000,00 (sessenta mil reais) no âmbito do Programa Minha Casa, Minha Vida - PMCMV, de que trata a Medida Provisória nº 459, de 25 de março de 2009.
+§ 8º As condições para utilização do benefício de que trata o § 6º serão definidas em regulamento.
