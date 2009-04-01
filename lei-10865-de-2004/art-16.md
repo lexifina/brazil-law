@@ -1,2 +1,3 @@
 Art. 16. É vedada a utilização do crédito de que trata o art. 15 desta Lei nas hipóteses referidas nos incisos III e IV do § 3º do art. 1º e no art. 8º da Lei nº 10.637, de 30 de dezembro de 2002, e nos incisos III e IV do § 3º do art. 1º e no art. 10 da Lei nº 10.833, de 29 de dezembro de 2003.
 § 1º Gera direito aos créditos de que tratam os arts. 15 e 17 a importação efetuada com isenção, exceto na hipótese de os produtos serem revendidos ou utilizados como insumo em produtos sujeitos à alíquota zero, isentos ou não alcançados pela contribuição.
+§ 2º A importação efetuada na forma da alínea "f" do inciso II do art. 9º não dará direito a crédito, em qualquer caso.
