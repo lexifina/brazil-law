@@ -1,0 +1,24 @@
+1.  O acórdão recorrido julgou improcedente a ação rescisória, com fundamento na Súmula STF 343.
+
+2.  Daí o RE no qual se sustenta, em síntese, a inaplicabilidade da referida súmula.
+
+3.  Admitido o recurso na origem (fl. 94), subiram os autos deste RE.
+
+4.  Preliminarmente, constato que o presente RE impugna as razões da improcedência da ação rescisória, o que se ajusta à jurisprudência do Supremo Tribunal Federal (AI 460.439/DF, Plenário, maioria, rel. Min. Carlos Velloso, DJ 09.03.2007, entre outros).
+
+5.  Ademais, esta Corte, ao apreciar, RE 328.812-ED/AM, rel. Min.Gilmar Mendes, Plenário, pub. DJE 02.5.2008, assim se pronunciou sobre a matéria em apreço:
+
+'6. Cabe ação rescisória por ofensa à literal disposição constitucional, ainda que a decisão rescindenda tenha se baseado em interpretação controvertida ou seja anterior à orientação fixada pelo Supremo Tribunal Federal.'
+
+ Nesse sentido: AI 555.806-AgR/MG, rel. Min. Eros Grau, 2ª Turma, unânime, pub. DJE 18.4.2008, e RE 500.043/GO, rel. Min. Cármen Lúcia, pub. DJE 20.10.2008.
+
+6.  Portanto, evidencia-se que o acórdão recorrido está em confronto com a jurisprudência desta Corte, motivo pelo qual dou provimento ao recurso extraordinário, com fundamento no art. 557, § 1º-A, do CPC, para que o Tribunal a quo julgue a ação rescisória, afastando-se, no caso, o óbice previsto na Súmula STF 343.
+
+Publique-se.
+
+Brasília, 02 de abril de 2009.
+
+Ministra Ellen Gracie
+Relatora
+
+1
