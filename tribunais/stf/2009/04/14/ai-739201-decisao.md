@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CABIMENTO DE MANDADO DE SEGURANÇA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA.  REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“ISSQN - Mandado de Segurança - Locação de bens móveis - Locação de bens não é serviço, mas cessão de uso e de fruição de parte do direito de propriedade - Obrigação de dar e não de fazer - Entretanto, verifica-se o caráter normativo da pretensão da impetrante - Impossibilidade - Além da falta de provas, não existe qualquer identificação do período - Afastada a r. decisão de primeiro grau, por não ser cabível a concessão da segurança - Custas pela impetrante, e sem honorários, aplicada a Súmula 512 do STF - Providos os recursos, voluntário e oficial, nos termos do acórdão” (fl. 62).
+3.  A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta.
+4. A Agravante alega que teriam sido contrariados os arts. 5º, inc. XXXV e LXIX, 30, 146, inc. III, e 156, inc. III, da Constituição da República.
+Argumenta que o Decreto-Lei n. 406/68, “ao invés de limitar-se a conceituar os serviços tributáveis segundo a materialidade imposta pelo texto constitucional, determinou a incidência do imposto municipal sobre a locação de bens móveis, inclusive arrendamento mercantil. Ou seja, conceituou como serviços o que não são serviços” (fl. 120).
+Afirma, ao final, que “pretende ver reconhecida a inconstitucionalidade do Decreto-Lei nº 406, de 31 de dezembro de 1968, com a nova redação dada à lista de serviços pela Lei Complementar nº 116/03, na parte em que possibilitou a incidência do imposto municipal sobre a locação de bens móveis” (fl. 125).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Em preliminar, é de se realçar que, apesar de ter sido a parte agravante intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, § 1º, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, a repercussão geral presume-se “quando o recurso (...) impugnar decisão contrária a súmula ou a jurisprudência dominante”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do agravo de instrumento.
+6. Embora no julgamento do Recurso Extraordinário n. 116.121, Redator para o acórdão o Ministro Marco Aurélio (DJ 24.5.2000), o Supremo Tribunal Federal tenha declarado a inconstitucionalidade da expressão “da locação de bens móveis”, constante do item 79 da Lista de Serviços a que se refere o Decreto-Lei n. 406/68, e concluído, pois, pela não-incidência do Imposto sobre Serviços de Qualquer Natureza sobre a atividade de locação de bens móveis, esse entendimento não se aplica ao presente caso.
+7. O Tribunal de origem limitou-se ao exame do cabimento de mandado de segurança para negar o pedido da Agravante, nos seguintes termos:
+“(...) Não existe prova da lesão e não existe qualquer identificação do período ou da atividade exercida. Com efeito, tal pretensão é absolutamente indefensável, posto não haver possibilidade de, na ação mandamental, conceder-se o writ em caráter normativo” (fl. 66).
+8. A jurisprudência predominante do Supremo Tribunal Federal firmou-se no sentido de que a aferição dos pressupostos de admissibilidade de mandado de segurança não viabiliza o acesso ao recurso extraordinário, por se ater a espécie ao cuidado de matéria infraconstitucional. A ofensa à Constituição da República, se tivesse ocorrido, seria indireta.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CABIMENTO DE MANDADO DE SEGURANÇA. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO DESPROVIDO” (AI 573.652-AgR, Primeira Turma, de minha relatoria, DJ 20.4.2007).
+E:
+“AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO. REQUISITO DE ORDEM PROCESSUAL. MATÉRIA INFRACONSTITUCIONAL. A jurisprudência desta Corte é no sentido de que o direito líquido e certo é pressuposto do mandado de segurança de ordem processual e nada tem a ver com o mérito da demanda. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição Federal. Agravo regimental a que se nega provimento” (AI 560.154-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 22.9.2006 - grifos nossos).
+Não há, pois, divergência entre a decisão agravada e a jurisprudência do Supremo Tribunal Federal, pelo que não há o que prover quanto às alegações da parte agravante.
+9.  Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 14 de abril de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
