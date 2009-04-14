@@ -24,3 +24,4 @@ XXII - Distribuição de Gás Canalizado: serviços locais de comercialização 
 XXIII - Estocagem de Gás Natural: armazenamento de gás natural em reservatórios próprios, formações naturais ou artificiais.
 XXIV - Biocombustível: combustível derivado de biomassa renovável para uso em motores a combustão interna ou, conforme regulamento, para outro tipo de geração de energia, que possa substituir parcial ou totalmente combustíveis de origem fóssil;.
 XXV - Biodiesel: biocombustível derivado de biomassa renovável para uso em motores a combustão interna com ignição por compressão ou, conforme regulamento, para geração de outro tipo de energia, que possa substituir parcial ou totalmente combustíveis de origem fóssil.
+XXVI - Indústria Petroquímica de Primeira e Segunda Geração: conjunto de indústrias que fornecem produtos petroquímicos básicos, a exemplo do eteno, do propeno e de resinas termoplásticas.
