@@ -1,0 +1,13 @@
+DECISÃO: Vistos, etc.
+Trata-se de processo em que se discute a autoaplicabilidade do § 2º do art. 78 do ADCT e a possibilidade de precatórios decorrentes de créditos de natureza alimentar poderem ser compensados com débitos tributários.
+2. Pois bem, o Supremo Tribunal Federal concluiu pela presença de repercussão geral na matéria em exame (RE 566.349, sob a relatoria da ministra Cármen Lúcia).
+3. Isso posto, e frente ao parágrafo único do art. 328 do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do Código de Processo Civil.
+Publique-se.
+Brasília, 14 de abril de 2009.
+
+Ministro CARLOS AYRES BRITTO
+Relator
+
+1
+
+1
