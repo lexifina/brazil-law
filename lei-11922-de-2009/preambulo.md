@@ -1,0 +1,2 @@
+Dispõe sobre a dispensa de recolhimento de parte dos dividendos e juros sobre capital próprio pela Caixa Econômica Federal; altera as Leis nos 11.124, de 16 de junho de 2005, 8.427, de 27 de maio de 1992, 11.322, de 13 de julho de 2006, 11.775, de 17 de setembro de 2008, e a Medida Provisória nº 2.185-35, de 24 de agosto de 2001; prorroga os prazos previstos nos arts. 5º e 30 da Lei nº 10.826, de 22 de dezembro de 2003; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
