@@ -1,0 +1,25 @@
+DECISÃO
+
+Vistos.
+Trata-se da ação cível originária proposta por Severino Teixeira Mendonça e outros em face da União e da Fundação Nacional do Índio – FUNAI objetivando indenização por desapropriação indireta de imóvel de que alegam ser titulares.
+Sustentando ter sido o bem adquirido do Estado de Goiás e, assim, fundados na possibilidade de sua evicção, ofereceram, ainda, em face desse, denunciação à lide (fls. 02/34).
+Citado, o litisdenunciado ofereceu contestação negando o cabimento da denunciação porquanto não presentes quaisquer das hipóteses contempladas no artigo 70 do CPC (fls. 174/181).
+O Ministério Público opinou pela rejeição da denunciação (fls. 256/259).
+É o relatório.
+Decido.
+A questão não é nova, tendo esta Suprema Corte, em diversas oportunidades, afastado o cabimento da denunciação à lide em hipótese como a que ora se apresenta, sem prejuízo de em ação própria o autor, regressivamente, exercer sua pretensão em face do alienante, como se vê do precedente a seguir:
+
+“Agravo Regimental. Ação de desapropriação indireta entre particulares e a União Federal e a FUNAI. Incompetência do Supremo Tribunal Federal para processá-la e julgá-la. - Esta Corte já firmou jurisprudência - assim, por exemplo, nas Ações Cíveis nºs 377, 385 e 355, em questões de ordem julgadas em 24.9.87, 7.4.88 e 14.4.88, respectivamente - de que ‘tratando-se, como se trata, de ação de indenização por desapropriação indireta, em que os autores são proprietários da gleba que alegam desapropriada indiretamente, não ocorre qualquer das três hipóteses previstas no artigo 70 do Código de Processo Civil’, razão por que, em casos como o presente, não tem admitido a denunciação da lide ao Estado-membro, e, conseqüentemente, se tem dado por incompetente para processar e julgar, originariamente, a ação proposta." - Pedido alternativo sucessivo que também não envolve Estado-membro. Agravo regimental a que se nega provimento.” (STF – Tribunal Pleno – ACO-AgR nº 446/MT – Rel. Min. Moreira Alves – julg. 26/11/1992 – DJ 18/12/1992).
+
+“QUESTÃO DE ORDEM EM AÇÃO CÍVEL ORIGINÁRIA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. INDENIZAÇÃO POR DESAPROPRIAÇÃO INDIRETA REQUERIDA CONTRA A UNIÃO E A FUNAI: DENUNCIAÇÃO DA LIDE AO ESTADO DO MATO GROSSO, NA QUALIDADE DE ALIENANTE. AÇÃO DECLARATORIA INCIDENTAL. 1. EM AÇÃO PROPOSTA POR PARTICULARES CONTRA A UNIÃO E A FUNAI PERANTE A JUSTIÇA FEDERAL DE 1A. INSTÂNCIA, TENDO POR BASE DESAPROPRIAÇÃO INDIRETA, NÃO CABE DENUNCIAÇÃO DA LIDE AO ESTADO ALIENANTE DO IMÓVEL PORQUE O CASO NÃO SE ADAPTA EM NENHUMA DAS TRÊS HIPÓTESES DO ART. 70 DO CPC, EIS QUE NÃO SE TRATA DE REIVINDICAÇÃO DE IMÓVEL PELA UNIÃO, NEM DE DENUNCIAÇÃO SUCESSIVA (ART. 73 DO CPC), MAS FEITA "PER SALTUM". PRECEDENTES. 2. QUANDO A DENUNCIAÇÃO IMPLICA NO DESLOCAMENTO DA COMPETÊNCIA PARA GRAU DE JURISDIÇÃO SUPERIOR (CF/69, ART. 119, I, "D", E CF/88, ART. 102, I, "F"), SÓ PODE SER ACOLHIDA QUANDO INDISPENSAVEL AO EXERCÍCIO DO DIREITO DE EVICÇÃO OU DA AÇÃO REGRESSIVA; CASO CONTRARIO, QUANDO NÃO HÁ PREJUIZO AO EXERCÍCIO DE TAIS DIREITOS, PODEM SER ELES EXERCIDOS APÓS A DECISÃO DA LIDE E EM AÇÃO PRÓPRIA, POIS DA DENUNCIAÇÃO DECORRERIA SUPRESSAO DE INSTANCIAS JULGADORAS, COM PREJUIZO AO PRINCÍPIO DO JUIZ NATURAL, DOS DIREITOS DO RÉU E DO DENUNCIADO. PRECEDENTES. 3. A FALTA DE DENUNCIAÇÃO, NO CASO, NÃO IMPLICA NA PERDA DE DIREITOS DOS AUTORES CONTRA OS ALIENANTES, QUE PODEM SER EXERCIDOS EM AÇÃO PRÓPRIA. 4. SENDO ABSOLUTA A COMPETÊNCIA EM RAZÃO DAS PESSOAS, SÓ E POSSIVEL A PROPOSITURA DE AÇÃO DECLARATÓRIA INCIDENTAL SE O JUIZ DA CAUSA PRINCIPAL TAMBÉM FOR COMPETENTE EM RAZÃO DAS PESSOAS (CPC, ARTS.109 E 470). PRECEDENTES. 5. QUESTÃO DE ORDEM DECIDIDA NO SENTIDO DE EXCLUIR O ESTADO DO MATO GROSSO, DENUNCIADO À LIDE, DO PROCESSO E DE INDEFERIR A INICIAL DA AÇÃO DECLARATÓRIA INCIDENTAL E, EM CONSEQUENCIA, SER DECLARADA A INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL E DETERMINAR A REMESSA DOS AUTOS AO JUIZ FEDERAL DE 1. GRAU DA SEÇÃO JUDICIÁRIA QUE OS REMETEU A ESTA CORTE.” (STF – Tribunal Pleno – ACO-QO nº 280/MT – Rel. Min. Maurício Corrêa – julg. 18/10/1995 – DJ 24/11/1995).
+
+“Ação cível originária movida contra a União Federal e a FUNAI. Desapropriação indireta. Parque Nacional do Xingu. Denunciação à lide do Estado de Mato Grosso. Recusa pelo Estado. Não se caracteriza, na espécie, a hipótese do art. 70, I, do CPC. Dá-se na desapropriação indireta, por parte do autor, na impossibilidade de exigir o domínio do Poder Público, em via reivindicatória, tão-só, a súplica de justa indenização pela perda do bem. Exclusão do Estado de Mato Grosso da relação processual. Incompetência do STF. Não conhecimento da ação, devolvendo-se os autos à Justiça Federal de Primeira Instância.” (STF – Tribunal Pleno – ACO nº 363/MT – Rel. Min. Néri da Silveira – julg. 23/02/1989 – DJ 04/09/1992).
+
+Pelo exposto, excluo da relação processual o Estado de Goiás e, por conseqüência, diante da incompetência do Supremo Tribunal Federal para julgar a causa, determino a remessa dos autos à Justiça Federal de 1ª instância em Goiás.
+Publique-se.
+
+Brasília, 15 de abril de 2009
+
+Ministro MENEZES DIREITO
+Relator
+1
