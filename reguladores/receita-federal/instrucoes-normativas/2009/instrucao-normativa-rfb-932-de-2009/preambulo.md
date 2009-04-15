@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 932, de 14 de abril de 2009
+Adota tabelas de códigos a serem utilizadas na formalização da Escrituração Fiscal Digital (EFD) e nas emissões da Nota Fiscal Eletrônica (NF-e), nas situações que especifica.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 04 de março de 2009, e tendo em vista o Convênio ICMS nº 143, de 15 de dezembro de 2006, o Ajuste SINIEF nº 07, de 30 de setembro de 2005, e o Decreto nº 6.022, de 22 de janeiro de 2007, resolve:
