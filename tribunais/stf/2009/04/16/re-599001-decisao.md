@@ -1,0 +1,29 @@
+DECISÃO
+
+Vistos.
+Empresa Brasileira de Correios e Telégrafos - ECT interpõe recurso extraordinário, com fundamento na alínea "a" do permissivo constitucional, contra acórdão da Subseção I Especializada em Dissídios Individuais do Tribunal Superior do Trabalho, assim ementado:
+
+“EXECUÇÃO. JUROS DA MORA. CRÉDITO TRABALHISTA. ENTE PÚBLICO. LEI Nº 9.494/97. ARTIGO 1º-F (MEDIDA PROVISÓRIA Nº 2.180-35). VIOLAÇÃO DO ARTIGO 896 DA CONSOLIDAÇÃO DAS LEIS DO TRABALHO NÃO CONFIGURADA. Não demonstrada a alegada violação direta e literal de dispositivo da Constituição da República, única hipótese autorizada pelo legislador ordinário para o processamento do recurso de revista nos feitos em execução, resulta forçoso concluir pelo acerto da decisão proferida pela Turma que, com fundamento no § 2º do artigo 896 da Consolidação das Leis do Trabalho e consoante orientação da Súmula n.º 266 deste Tribunal Superior, não conheceu do recurso de revista empresarial. O entendimento sufragado pela Corte de origem relativo à aplicação dos juros da mora fixados no artigo 1º-F da Lei n.º 9.494/97, inserido pela Medida Provisória n.º 2.180-35/2001, aos créditos trabalhistas da Fazenda Pública - não afronta de forma direta e literal o disposto no artigo 62, § 1º, b, da Constituição da República, que trata da faculdade conferida ao Presidente da República de, em caso de relevância e urgência, editar medidas provisórias com força de lei. Recurso de embargos não conhecido” (fl. 672).
+
+Alega a recorrente contrariedade aos artigos 5o, inciso XXXVI, 21, inciso X, 62, § 1º, alínea “b”, 84, inciso XXVI, e 97 da Constituição Federal, uma vez ser constitucional o dispositivo legal que fixa a taxa de juros moratórios em 6% ao ano, ou 0,5% ao mês, no caso de verbas remuneratórias devidas pela Fazenda Pública a servidores e empregados públicos federais.
+Sem contrarrazões (fl. 697), o recurso extraordinário (fls. 686 a 697) foi admitido (fls. 701/702).
+Decido.
+A Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao artigo 102 da Constituição Federal, criou a exigência da demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário. A matéria foi regulamentada pela Lei nº 11.418/06, que introduziu os artigos 543-A e 543-B ao Código de Processo Civil, e o Supremo Tribunal Federal, através da Emenda Regimental nº 21/07, dispôs sobre as normas regimentais necessárias à sua execução. Prevê o artigo 323 do Regimento Interno do Supremo Tribunal Federal, na redação da Emenda Regimental nº 21/07, que, quando não for o caso de inadmissibilidade do recurso extraordinário por outra razão, haverá o procedimento para avaliar a existência de repercussão geral na matéria objeto do recurso.
+Esta Corte, com fundamento na mencionada legislação, quando do julgamento da Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, firmou o entendimento de que os recursos extraordinários interpostos contra acórdãos publicados a partir de 3/5/07, data da publicação da Emenda Regimental nº 21/07, deverão demonstrar, em preliminar do recurso, a existência da repercussão geral das questões constitucionais discutidas no apelo.
+No caso em tela, o recurso extraordinário possui a referida preliminar e o apelo foi interposto contra acórdão publicado em 8/8/08 (fl. 683), quando já era plenamente exigível a demonstração da repercussão geral.
+Os artigos 543-A, § 3º, do Código de Processo Civil e 323, § 1º, in fine, do RISTF, na redação da Emenda Regimental nº 21/07, prevêem que haverá repercussão geral sempre que o recurso impugnar decisão contrária a súmula ou jurisprudência dominante desta Corte, o que, efetivamente, ocorre no caso dos autos.
+A irresignação merece prosperar.
+No julgamento do Recurso Extraordinário nº 453.740/RJ, Relator o Ministro Gilmar Mendes, DJ de 24/8/07, o Plenário do Supremo Tribunal Federal declarou a constitucionalidade do artigo 1º-F da Lei nº 9.494/97, introduzido pela Medida Provisória nº 2.180-35/01, que determinou que os juros de mora, nas condenações impostas à Fazenda Pública para pagamento de verbas remuneratórias devidas a servidores e empregados públicos, não poderão ultrapassar o percentual de seis por cento ao ano. Nesse mesmo sentido, anote-se:
+
+“JUROS DE MORA. Condenação Judicial. Fazenda Pública. Verbas remuneratórias devidas a servidores e empregados públicos. Limitação em 0,5% (meio por cento) ao mês, ou 6% (seis por cento) ao ano. Constitucionalidade reconhecida do art. 1º-F da Lei nº 9.494/97. Precedente do Plenário. Embargos acolhidos. Recurso extraordinário parcialmente provido. É constitucional o disposto no art. 1º-F da Lei nº 9.494/97” (RE nº 466.920/RJ-AgR-ED, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 20/4/07).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. JUROS DE MORA. FAZENDA PÚBLICA. 1. O Pleno do STF, na Sessão do dia 28.2.07, ao julgar o RE n. 453.740, Relator o Ministro Gilmar Mendes, declarou a constitucionalidade do artigo 1º-F da Lei n. 9.494, de 1.997, com a redação que lhe foi conferida pela MP 2.180-35. Isso porque "[o]s débitos da Fazenda Pública, como regra, são fixados em 6% ao ano, a exemplo do que se dá na desapropriação, nos títulos da dívida pública e na composição dos precatórios. Portanto, não há discriminação, muito menos discriminação arbitrária entre credores da Fazenda Pública". Agravo regimental a que se dá provimento” (RE nº 466.832/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 4/5/07).
+
+Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para, reconhecendo a constitucionalidade do disposto no artigo 1º-F da Lei nº 9.494/97, na redação da Medida Provisória nº 2.180-35/01, fixar os juros de mora em 6% (seis por cento) ao ano.
+Publique-se.
+Brasília, 16 de abril de 2009.
+
+Ministro MENEZES DIREITO
+Relator
+
+1
