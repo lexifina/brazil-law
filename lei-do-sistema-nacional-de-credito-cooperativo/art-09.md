@@ -1,0 +1,2 @@
+Art. 9º É facultado às cooperativas de crédito, mediante decisão da assembléia geral, compensar, por meio de sobras dos exercícios seguintes, o saldo remanescente das perdas verificadas no exercício findo.
+Parágrafo único. Para o exercício da faculdade de que trata o caput deste artigo, a cooperativa deve manter-se ajustada aos limites de patrimônio exigíveis na forma da regulamentação vigente, conservando o controle da parcela correspondente a cada associado no saldo das perdas retidas.

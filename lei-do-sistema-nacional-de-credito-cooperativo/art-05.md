@@ -1,0 +1,1 @@
+Art. 5º As cooperativas de crédito com conselho de administração podem criar diretoria executiva a ele subordinada, na qualidade de órgão estatutário composto por pessoas físicas associadas ou não, indicadas por aquele conselho.

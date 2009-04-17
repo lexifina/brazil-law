@@ -1,0 +1,2 @@
+Art. 4º O quadro social das cooperativas de crédito, composto de pessoas físicas e jurídicas, é definido pela assembléia geral, com previsão no estatuto social.
+Parágrafo único. Não serão admitidas no quadro social da sociedade cooperativa de crédito pessoas jurídicas que possam exercer concorrência com a própria sociedade cooperativa, nem a União, os Estados, o Distrito Federal e os Municípios bem como suas respectivas autarquias, fundações e empresas estatais dependentes.

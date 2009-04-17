@@ -1,0 +1,1 @@
+Art. 15. As confederações constituídas de cooperativas centrais de crédito têm por objetivo orientar, coordenar e executar atividades destas, nos casos em que o vulto dos empreendimentos e a natureza das atividades transcenderem o âmbito de capacidade ou a conveniência de atuação das associadas.

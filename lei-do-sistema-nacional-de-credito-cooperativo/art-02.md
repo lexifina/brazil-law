@@ -1,0 +1,6 @@
+Art. 2º As cooperativas de crédito destinam-se, precipuamente, a prover, por meio da mutualidade, a prestação de serviços financeiros a seus associados, sendo-lhes assegurado o acesso aos instrumentos do mercado financeiro.
+§ 1º A captação de recursos e a concessão de créditos e garantias devem ser restritas aos associados, ressalvadas as operações realizadas com outras instituições financeiras e os recursos obtidos de pessoas jurídicas, em caráter eventual, a taxas favorecidas ou isentos de remuneração.
+§ 2º Ressalvado o disposto no § 1º deste artigo, é permitida a prestação de outros serviços de natureza financeira e afins a associados e a não associados.
+§ 3º A concessão de créditos e garantias a integrantes de órgãos estatutários, assim como a pessoas físicas ou jurídicas que com eles mantenham relações de parentesco ou negócio, deve observar procedimentos de aprovação e controle idênticos aos dispensados às demais operações de crédito.
+§ 4º A critério da assembléia geral, os procedimentos a que se refere o § 3º deste artigo podem ser mais rigorosos, cabendo-lhe, nesse caso, a definição dos tipos de relacionamento a serem considerados para aplicação dos referidos procedimentos.
+§ 5º As cooperativas de crédito, nos termos da legislação específica, poderão ter acesso a recursos oficiais para o financiamento das atividades de seus associados.

@@ -1,0 +1,1 @@
+Art. 7º É vedado distribuir qualquer espécie de benefício às quotas-parte do capital, excetuando-se remuneração anual limitada ao valor da taxa referencial do Sistema Especial de Liquidação e de Custódia - Selic para títulos federais.
