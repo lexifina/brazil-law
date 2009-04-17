@@ -1,0 +1,1 @@
+Art. 10. A restituição de quotas de capital depende, inclusive, da observância dos limites de patrimônio exigíveis na forma da regulamentação vigente, sendo a devolução parcial condicionada, ainda, à autorização específica do conselho de administração ou, na sua ausência, da diretoria.
