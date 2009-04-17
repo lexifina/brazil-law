@@ -1,0 +1,1 @@
+Art. 11. As cooperativas centrais de crédito e suas confederações podem adotar, quanto ao poder de voto das filiadas, critério de proporcionalidade em relação ao número de associados indiretamente representados na assembléia geral, conforme regras estabelecidas no estatuto.
