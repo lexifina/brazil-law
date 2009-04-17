@@ -1,0 +1,1 @@
+Art. 18. Ficam revogados os arts. 40 e 41 da Lei nº 4.595, de 31 de dezembro de 1964, e o § 3º do art. 10, o § 10 do art. 18, o parágrafo único do art. 86 e o art. 84 da Lei nº 5.764, de 16 de dezembro de 1971.

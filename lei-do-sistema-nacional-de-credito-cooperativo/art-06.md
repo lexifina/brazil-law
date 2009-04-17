@@ -1,0 +1,1 @@
+Art. 6º O mandato dos membros do conselho fiscal das cooperativas de crédito terá duração de até 3 (três) anos, observada a renovação de, ao menos, 2 (dois) membros a cada eleição, sendo 1 (um) efetivo e 1 (um) suplente.

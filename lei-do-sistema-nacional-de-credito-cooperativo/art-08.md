@@ -1,0 +1,1 @@
+Art. 8º Compete à assembléia geral das cooperativas de crédito estabelecer a fórmula de cálculo a ser aplicada na distribuição de sobras e no rateio de perdas, com base nas operações de cada associado realizadas ou mantidas durante o exercício, observado o disposto no art. 7º desta Lei Complementar.
