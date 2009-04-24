@@ -1,0 +1,11 @@
+DECISÃO: O Supremo Tribunal Federal, apreciando o RE 589.490, rel. min. Menezes Direito, não reconheceu a repercussão geral do tema tratado no presente processo (Processual. Assistência judiciária gratuita. Pessoas jurídicas. Requisitos para concessão do benefício).
+Do exposto, nos termos dos arts. 543-A, caput, e § 5º; 557, caput, do Código de Processo Civil e do art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao agravo de instrumento.
+
+Publique-se.
+
+Brasília, 24 de abril de 2009.
+
+Ministro JOAQUIM BARBOSA
+Relator
+
+1
