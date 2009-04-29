@@ -1,0 +1,4 @@
+Instrução Normativa RFB nº 934, de 27 de abril de 2009
+Dispõe sobre o regime especial de tributação aplicável às incorporações imobiliárias e sobre o pagamento unificado de tributos aplicável às construções de unidades habitacionais contratadas no âmbito do Programa Minha Casa, Minha Vida.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto nas Leis nº 4.591, de 16 de dezembro de 1964, e nº 10.931, de 2 de agosto de 2004, no art. 111 da Lei nº 11.196, de 21 de novembro de 2005, e nas Medidas Provisórias nº 459, de 25 de março de 2009, e nº 460, de 30 de março de 2009, resolve:
+Seção I Do Regime Especial de Tributação
