@@ -1,7 +1,0 @@
-Art. 62. No caso de reincidência da infração prevista no art. 61, inciso II, praticada pelo mesmo jornal ou periódico, pela mesma emprêsa, ou por periódicos ou emprêsas diferentes, mas que tenham o mesmo diretor responsável, o juiz, além da apreensão regulada no art. 61, poderá determinar a suspensão da impressão, circulação ou distribuição do jornal ou periódico.
-§ 1º A ordem de suspensão será submetida ao juiz competente, dentro de 48 (quarenta e oito) horas, com a justificação da medida.
-§ 2º Não sendo cumprida pelo responsável a suspensão determinada pelo juiz, êste adotará as medidas necessárias à observância da ordem, inclusive mediante a apreensão sucessiva das suas edições posteriores, consideradas, para efeitos legais, como clandestinas.
-§ 3º Se houver recurso e êste fôr provido, será levantada a ordem de suspensão e sustada a aplicação das medidas adotadas para assegurá-la.
-§ 4º Transitada em julgado a sentença, serão observadas as seguintes normas:
-a) reconhecendo a sentença final a ocorrência dos fatos que justificam a suspensão, serão extintos os registros da marca comercial e de denominação da emprêsa editôra e do jornal ou periódico em questão, bem como os registros a que se refere o art. 9º desta Lei, mediante mandado de cancelamento expedido pelo juiz da execução;
-b) não reconhecendo a sentença final os fatos que justificam a suspensão, a medida será levantada, ficando a União ou o Estado obrigado à reparação das perdas e danos, apurados em ação própria.

@@ -1,1 +1,0 @@
-Art. 33. Reformada a decisão do juiz em instância superior, a emprêsa que tiver cumprido a ordem judicial de publicação ou transmissão da resposta ou retificação terá ação executiva para haver do autor da resposta o custo de sua publicação, de acôrdo com a tabela de preços para os seus serviços de divulgação.

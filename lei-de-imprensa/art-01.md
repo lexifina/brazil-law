@@ -1,3 +1,0 @@
-Art. 1º É livre a manifestação do pensamento e a procura, o recebimento e a difusão de informações ou idéias, por qualquer meio, e sem dependência de censura, respondendo cada um, nos têrmos da lei, pelos abusos que cometer.
-§ 1º Não será tolerada a propaganda de guerra, de processos de subversão da ordem política e social ou de preconceitos de raça ou classe.
-§ 2º O disposto neste artigo não se aplica a espetáculos e diversões públicas, que ficarão sujeitos à censura, na forma da lei, nem na vigência do estado de sítio, quando o Govêrno poderá exercer a censura sôbre os jornais ou periódicos e emprêsas de radiodifusão e agências noticiosas nas matérias atinentes aos motivos que o determinaram, como também em relação aos executores daquela medida.

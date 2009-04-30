@@ -1,1 +1,0 @@
-Art. 63. Nos casos dos incisos I e II do art. 61, quando a situação reclamar urgência, a apreensão poderá ser determinada, independentemente de mandado judicial, pelo Ministro da Justiça e Negócios Interiores.

@@ -1,1 +1,0 @@
-Art. 5º As proibições a que se referem o § 2º do art. 3º e o § 1º do artigo 4º não se aplicam aos casos de contrato de assistência técnica, com emprêsa ou organização estrangeira, não superior a seis meses e exclusivamente referente à fase de instalação e início de funcionamento de equipamento, máquinas e aparelhamento técnicos.

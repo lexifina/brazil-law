@@ -1,5 +1,0 @@
-Art. 43. A denúncia ou queixa será instruída com exemplar do jornal ou periódico e obedecerá ao disposto no art. 41 do Código de Processo Penal, contendo a indicação das provas que o autor pretendia produzir. Se a infração penal tiver sido praticada através de radiodifusão, a denúncia ou queixa será instruída com a notificação de que trata o art. 57.
-§ 1º Ao despachar a denúncia ou queixa, o juiz determinará a citação do réu para que apresente defesa prévia no prazo de cinco dias.
-§ 2º Não sendo o réu encontrado, será citado por edital com o prazo de quinze dias. Decorrido êsse prazo e o qüinqüídio para a defesa prévia, sem que o réu haja contestado a denúncia ou queixa, o juiz o declarará revel e lhe nomeará defensor dativo, a quem se dará vista dos autos para oferecer defesa prévia.
-§ 3º Na defesa prévia, devem ser argüidas as preliminares cabíveis, bem como a exceção da verdade, apresentando-se, igualmente, a indicação das provas a serem produzidas.
-§ 4º Nos processos por ação penal privada será ouvido a seguir o Ministério Público.

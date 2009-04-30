@@ -1,4 +1,0 @@
-Art. 46. Demonstrada a necessidade de certidões de repartições públicas ou autárquicas, e a de quaisquer exames, o juiz requisitará aquelas e determinará êstes, mediante fixação de prazos para o cumprimento das respectivas diligências.
-§ 1º Se dentro do prazo não fôr atendida, sem motivo justo, a requisição do juiz, imporá êste a multa de Cr$ 10.000 (dez mil cruzeiros) a Cr$ 100.000 (cem mil cruzeiros) ao funcionário responsável e suspenderá a marcha do processo até que em nôvo prazo seja fornecida a certidão ou se efetue a diligência. Aos responsáveis pela não-realização desta última, será aplicada a multa de Cr$10.000 (dez mil cruzeiros) a Cr$ 100.000 (cem mil cruzeiros). A aplicação das multas acima referidas não exclui a responsabilidade por crime funcional.
-§ 2º Vetado.
-§ 3º A requisição de certidões e determinação de exames ou diligências, serão feitas no despacho de recebimento da denúncia ou queixa.

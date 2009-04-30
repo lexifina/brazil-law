@@ -1,1 +1,0 @@
-Art. 69. Na interpretação e aplicação desta Lei, o juiz, na fixação do dolo e da culpa, levará em conta as circunstâncias especiais em que foram obtidas as informações dadas como infringentes da norma penal.

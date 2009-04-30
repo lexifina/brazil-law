@@ -1,1 +1,0 @@
-Art. 65. As emprêsas estrangeiras autorizadas a funcionar no País não poderão distribuir notícias nacionais em qualquer parte do território brasileiro, sob pena de cancelamento da autorização por ato do Ministro da Justiça e Negócios Interiores.
