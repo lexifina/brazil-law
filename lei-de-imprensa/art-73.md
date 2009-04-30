@@ -1,1 +1,0 @@
-Art. 73. Verifica-se a reincidência quando o agente comete nôvo crime de abuso no exercício da liberdade de manifestação do pensamento e informação, depois de transitar em julgado a sentença que, no País, o tenha condenado por crime da mesma natureza.

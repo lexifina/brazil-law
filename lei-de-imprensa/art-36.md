@@ -1,1 +1,0 @@
-Art. 36. A resposta do acusado ou ofendido será também transcrita ou divulgada em pelo menos um dos jornais, periódicos ou veículos de radiodifusão que houverem divulgado a publicação motivadora, preferentemente o de maior circulação ou expressão. Nesta hipótese, a despesa correrá por conta do órgão responsável pela publicação original, cobrável por via executiva.

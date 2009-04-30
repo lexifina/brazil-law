@@ -1,2 +1,0 @@
-Art. 66. O jornalista profissional não poderá ser detido nem recolhido prêso antes de sentença transitada em julgado; em qualquer caso, sòmente em sala decente, arejada e onde encontre tôdas as comodidades.
-Parágrafo único. A pena de prisão de jornalistas será cumprida em estabelecimento distinto dos qus são destinados a réus de crime comum e sem sujeição a qualquer regime penitenciário ou carcerário.

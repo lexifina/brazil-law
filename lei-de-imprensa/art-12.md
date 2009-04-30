@@ -1,2 +1,0 @@
-Art. 12. Aquêles que, através dos meios de informação e divulgação, praticarem abusos no exercício da liberdade de manifestação do pensamento e informação ficarão sujeitos às penas desta Lei e responderão pelos prejuízos que causarem.
-Parágrafo único. São meios de informação e divulgação, para os efeitos dêste artigo, os jornais e outras publicações periódicas, os serviços de radiodifusão e os serviços noticiosos.

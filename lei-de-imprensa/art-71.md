@@ -1,1 +1,0 @@
-Art. 71. Nenhum jornalista ou radialista, ou, em geral, as pessoas referidas no art. 25, poderão ser compelidos ou coagidos a indicar o nome de seu informante ou a fonte de suas informações, não podendo seu silêncio, a respeito, sofrer qualquer sanção, direta ou indireta, nem qualquer espécie de penalidade.

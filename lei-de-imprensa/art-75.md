@@ -1,2 +1,0 @@
-Art. 75. A publicação da sentença cível ou criminal, transitada em julgado, na íntegra, será decretada pela autoridade competente, a pedido da parte prejudicada, em jornal, periódico ou através de órgão de radiodifusão de real circulação, ou expressão, às expensas da parte vencida ou condenada.
-Parágrafo único. Aplica-se a disposição contida neste artigo em relação aos têrmos do ato judicial que tenha homologado a retratação do ofensor, sem prejuízo do disposto no § 2º, letras a e b, do art. 26.

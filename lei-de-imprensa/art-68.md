@@ -1,3 +1,0 @@
-Art. 68. A sentença condenatória nos processos de injúria, calúnia ou difamação será gratuitamente publicada, se a parte o requerer, na mesma seção do jornal ou periódico em que apareceu o escrito de que se originou a ação penal, ou, em se tratando de crime praticado por meio do rádio ou televisão, transmitida, também gratuitamente, no mesmo programa e horário em que se deu a transmissão impugnada.
-§ 1º Se o jornal ou periódico ou a estação transmissora não cumprir a determinação judicial, incorrerá na pena de multa de um a dois salários-mínimos da região, por edição ou programa em que se verificar a omissão.
-§ 2º No caso de absolvição, o querelado terá o direito de fazer, à custa do querelante, a divulgação da sentença, em jornal ou estação difusora que escolher.

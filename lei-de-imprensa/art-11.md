@@ -1,1 +1,0 @@
-Art. 11. Considera-se clandestino o jornal ou outra publicação periódica não registrado nos têrmos do art. 9º, ou de cujo registro não constem o nome e qualificação do diretor ou redator e do proprietário.

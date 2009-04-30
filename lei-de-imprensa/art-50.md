@@ -1,1 +1,0 @@
-Art. 50. A emprêsa que explora o meio de informação ou divulgação terá ação regressiva para haver do autor do escrito, transmissão ou notícia, ou do responsável por sua divulgação, a indenização que pagar em virtude da responsabilidade prevista nesta Lei.

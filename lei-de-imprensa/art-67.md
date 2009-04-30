@@ -1,1 +1,0 @@
-Art. 67. A responsabilidade penal e civil não exclui a estabelecida em outras leis, assim como a de natureza administrativa, a que estão sujeitas as emprêsas de radiodifusão, segundo a legislação própria.
