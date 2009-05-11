@@ -1,0 +1,17 @@
+DECISÃO: Vistos, etc.
+Trata-se de reclamação constitucional, aparelhada com pedido de medida liminar, proposta pelo Estado do Rio Grande do Norte contra decisão do Juízo da 5ª Vara da Fazenda Pública de Natal/RN. Decisão que deferiu pedido de isenção de custas processuais nos autos da Ação Ordinária nº 001.09.000416-8.
+2. Argui o autor violação ao acórdão deste Supremo Tribunal Federal na ADI 3.260, que declarou a inconstitucionalidade do art. 271 da Lei Complementar nº 141/96, do Estado do Rio Grande do Norte. Dispositivo legal que, a seu turno, concedia isenção, aos membros do Ministério Público, do pagamento de custas judiciais, notariais, cartorárias e quaisquer taxas ou emolumentos. No caso, segundo o reclamante, o Juízo reclamado, ao aplicar o art. 240 da Lei Complementar estadual nº 165/99, que concede igual isenção aos membros e servidores do Poder Judiciário, haveria afrontado os motivos determinantes da decisão desta nossa Corte. Daí requerer a concessão da liminar para suspender os efeitos da decisão reclamada.
+3. Pois bem, antes de apreciar o pedido de medida liminar, solicitei informações ao reclamado. Informações que foram prestadas às fls. 38/39.
+4. Feito esse aligeirado relato da causa, passo à decisão. Fazendo-o, pontuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade jurídica do pedido (fumus boni juris) e do perigo da demora na prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que a este dão suporte, senão incorrendo em antecipação do próprio conteúdo da decisão definitiva.
+5. No caso, não tenho como presentes, de plano, os requisitos necessários à concessão da medida liminar. É que, no julgamento da ADI 3.260 —— decisão tida por desrespeitada ——, este Supremo Tribunal examinou a validade constitucional da Lei Complementar estadual nº 141/96. Diploma legislativo que concedeu, aos membros do Ministério Público do Estado do Rio Grande do Norte, isenção de custas judiciais e de quaisquer taxas ou emolumentos. Sucede que a decisão reclamada se fundamentou no art. 240 da Lei Complementar nº 165/99, do Estado do Rio Grande do Norte. Logo, o deferimento da liminar —— e porque não dizer até o próprio cabimento desta reclamatória —— teria de passar pela atribuição de efeitos transbordantes aos motivos determinantes da decisão tomada na referida ADI 3.260. E o fato é que, no julgamento da Rcl 4.219, este colendo Tribunal retomou a discussão quanto à aplicabilidade da chamada “transcendência dos fundamentos determinantes”, oportunidade em que cinco ministros externaram entendimento negativo à adoção desse transbordamento. Ademais, o Plenário deste Supremo Tribunal Federal já rejeitou a tese da eficácia vinculante dos motivos determinantes das decisões em ações de controle abstrato de constitucionalidade, nos seguintes arestos: Rcl 2.475-AgR, Rel. Min. Carlos Velloso; Rcl 2.990-AgR, Rel. Min. Sepúlveda Pertence; Rcl 4.448-AgR, Rel. Min. Ricardo Lewandowski.
+6. Ante o exposto, indefiro a liminar.
+7. Dê-se vista dos autos ao Procurador-Geral da República.
+Publique-se.
+Brasília, 11 de maio de 2009.
+
+Ministro CARLOS AYRES BRITTO
+Relator
+
+1
+
+1
