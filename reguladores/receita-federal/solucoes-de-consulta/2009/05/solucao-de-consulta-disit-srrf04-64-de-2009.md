@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF04 nº 64, de 8 de maio de 2009
+ASUNTO: Contribuições Sociais Previdenciárias EMENTA: A retenção de 11% (onze por cento) incidente sobre o valor bruto da nota fiscal ou fatura de prestação de serviços, a título de contribuição previdenciária, não se aplica aos serviços de "catering", ainda que executados por meio de empreitada de mão-de-obra, desde que não sejam prestados mediante cessão desta. DISPOSITIVOS LEGAIS: Lei nº 8.212/91, art. 31, e alterações; Decreto nº 3.048/99, art. 219; IN SRP nº 3, de 2005, arts. 143 a 147.
+[arquivo anexo: SC SRRF04-Disit nº 64-2009.pdf]
