@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF04 nº 65, de 8 de maio de 2009
+ASUNTO: Contribuições Sociais Previdenciárias
+EMENTA: A Lei nº 11.457, de 2007, que criou a Secretaria da Receita Federal do Brasil, outorgou (transferiu) a este órgão a competência, que outrora era da extinta Secretaria da Receita Previdenciária, para planejar, executar, acompanhar e avaliar as atividades relativas à tributação, fiscalização, arrecadação, cobrança e recolhimento das contribuições previdenciárias, inclusive àquelas destinadas às outras entidades e fundos - os terceiros. A Lei nº 11.457, de 2007, não alterou as disposições concernentes às contribuições sociais devidas às outras entidades ou fundos, os terceiros, apenas outorgou (transferiu) a competência desta matéria de cunho previdenciário, que era da extinta Secretaria da Receita Previdenciária, para a recém criada Secretaria da Receita Federal do Brasil.
+DISPOSITIVOS LEGAIS: Lei nº 11.457/2007, arts. 2º e 3º; Decreto nº 494/62, art. 50; Decreto nº 57.375/65, art. 49, § 2º; IN MPS/SRP nº 03/2005, art. 139, § 2º.
+[arquivo anexo: SC SRRF04-Disit nº 65-2009.pdf]
