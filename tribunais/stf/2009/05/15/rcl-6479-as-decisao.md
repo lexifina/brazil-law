@@ -1,0 +1,20 @@
+DECISÃO : Com a petição de fls. 674-699, Pimentel Advogados postula sua admissão nestes autos como assistente do reclamante, a reconsideração da decisão com a qual deferi parcialmente o pedido de medida liminar de fls. 303-305 ou, se não atendida a reforma da decisão, o processamento de agravo regimental.
+Para justificar seu interesse jurídico no desate da questão posta ao crivo da Corte, narra o postulante ter sido contratado para “gerenciar os interesses jurídicos, comerciais e financeiros” (Fls. 676) da Fundação José Pelúcio Ferreira, entidade por seu turno contratada pela Prefeitura de Campos dos Goytacazes/RJ, em caráter emergencial, para prestação de serviços técnicos especializados e fomento de infra-estrutura de diversos órgãos da administração municipal. Ocorre que a Ação Civil Pública que é objeto desta reclamação redundou na homologação judicial de Termo de Ajustamento de Conduta que impede o pagamento dos valores que lhe são devidos por força do contrato de assessoramento, suporte e gestão das obrigações contratuais assumidas pela entidade perante a municipalidade.
+Assim, por ser gestora da relação entre a entidade fundacional e a municipalidade, além de ter interesse econômico direto na resolução da demanda, entende ter legitimidade à participação na relação processual desta reclamação, nos termos do art. 47 e do art. 50, par. ún., do Código de Processo Civil.
+A postulante apresenta argumentos acerca da nulidade da decisão reclamada (litisconsórcio necessário ignorado – fls. 677, incompetência da Justiça do Trabalho e violação de ato jurídico perfeito – fls. 680, além de violação da competência de ente público e da livre disposição da vontade privada – fls. 681) e do cabimento da reclamação, para sustentar pedido de reversão da decisão monocrática para concessão integral da medida liminar, com a nulidade total do Termo de Ajustamento de conduta.
+O Ministério Público Federal opinou pelo indeferimento da postulação (Fls. 821).
+É o relatório.
+
+Decido o pedido de ingresso nos autos na qualidade de assistente simples.
+Inicialmente, observo inaplicável o art. 47 do Código de Processo Civil à postulação. No exercício da competência originária prevista no art. 102, I, l da Constituição, o Supremo Tribunal Federal estabelece relação direta com o órgão ou entidade responsável pela usurpação de sua competência ou pela violação da autoridade de uma de suas decisões. O início do controle exercido pela Corte pode ser provocado por qualquer legitimado, assim considerado nos termos da jurisprudência da Corte, sem que se cogite da participação obrigatória de todos os potenciais interessados (cf., e.g., a Rcl 3.375-AgR, rel. min. Gilmar Mendes, Pleno, DJ de 19.12.2006 e a Rcl 499-AgR, rel. min. Celso de Mello, Pleno, DJ de 21.12.1997).
+Observo, também, que o interesse do postulante na resolução da demanda não ultrapassa as respectivas pretensões econômicas. Como dito pela postulante à fls. 699, o Termo de Ajustamento de Conduta violaria os contratos firmados entre a postulante e a entidade fundacional, circunstância que confirmaria seu interesse “como gestora do contrato da Fundação José Pelúcio e [comprovaria] seu interesse econômico na causa”. Inicialmente, observo que a postulante não pode, em nome próprio, substituir-se à entidade fundacional, ainda que sua alegada gestora. Ademais, a configuração de interesse econômico é, tão-somente por si, insuficiente para caracterizar interesse jurídico. Por outro lado, como bem observado pelo Ministério Público Federal, não se discutem nesta reclamação vicissitudes inerentes ao contrato firmado entre as entidades privadas. Também não está em jogo qualquer questão relativa à validade do procedimento executado pela autoridade reclamada que não se refira exclusivamente à violação da autoridade do acórdão prolatado durante o julgamento da ADI 3.395-MC.
+Ante o exposto, não admito o ingresso da postulante como assistente nos autos desta reclamação.
+Em conseqüência, fica prejudicado o exame do pedido de reconsideração e do subseqüente agravo regimental.
+Publique-se.
+
+Brasília, 15 de maio de 2009.
+
+Ministro JOAQUIM BARBOSA
+Relator
+
+1
