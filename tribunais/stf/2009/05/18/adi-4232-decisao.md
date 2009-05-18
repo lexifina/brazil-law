@@ -1,0 +1,60 @@
+DECISÃO
+
+Vistos.
+
+Ação direta de inconstitucionalidade ajuizada pela Associação Nacional dos Magistrados Estaduais - ANAMAGES, em face dos incisos XI e XII do art. 2º, e da expressão “Poder Judiciário” contida no art. 1º, inciso III, e no art. 2º, inciso XX, alínea “c”, todos da Lei nº 5.388/09, do Estado do Rio de Janeiro.
+
+A requerente discorre sobre a sua legitimidade ativa e acerca da pertinência temática para propor a ação contra os citados dispositivos da Lei Estadual nº 5.388/09, os quais ofenderiam “de forma direta direitos e prerrogativas da Magistratura Estadual carioca” (fl. 6).
+No mérito, sustenta o seguinte:
+
+“A Carta Constitucional prevê que todos os magistrados brasileiros estão submetidos a um mesmo Estatuto da Magistratura, cujos preceitos básicos estão previstos no art. 93 da Constituição.
+Como bem ressaltado pelo Exmo. Governador do Estado do Rio de Janeiro ao vetar o projetor que deu origem à norma ora impugnada, cabe ao Supremo Tribunal Federal, a propositura de Lei complementar que disponha sobre o Estatuto da Magistratura, seara adequada à imposição de obrigações funcionais e à criação de situações de perda de cargo dos magistrados.
+A norma impugnada, cuja iniciativa é do Deputado Estadual Jorge Picciani, cria imposições aos Magistrados Estaduais do Estado do Rio de Janeiro que não estão previstas na Lei Orgânica da Magistratura (LOMAN).
+Ora, se, nos termos do art. 93 da Constituição de 1988, a iniciativa da propositura de Leis que visem a imposição de obrigações funcionais e criação de situações de perda de cargo dos magistrados é exclusiva do Supremo Tribunal Federal, a obrigatoriedade apresentar declaração de bens e rendas imposta aos Desembargadores e Juízes de Direito pela Lei Fluminense, de iniciativa de parlamentar estadual, é inconstitucional.
+Nesse sentido, já decidiu o Próprio Supremo Tribunal Federal, nos autos da ADI nº 2.420, oportunidade em que declarou a inconstitucionalidade de lei estadual que, de iniciativa parlamentar, tornava obrigatória a apresentação de declaração de bens e valores patrimoniais no ato de posse dos servidores públicos da administração direta, das autarquias e das fundações do Estado do Espírito Santo:
+
+‘AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI COMPLEMENTAR Nº 191/00, DO ESTADO DO ESPÍRITO SANTO. DOCUMENTOS DE APRESENTAÇÃO OBRIGATÓRIA NA POSSE DE NOVOS SERVIDORES. MATÉRIA RELATIVA AO PROVIMENTO DE CARGO PÚBLICO. LEI DE INICIATIVA PARLAMENTAR. OFENSA AO ART. 61, § 1º, II, C DA CONSTITUIÇÃO FEDERAL. 1. O art. 61, § 1º, II, c da Constituição Federal prevê a iniciativa privativa do Chefe do Executivo na elaboração de leis que disponham sobre servidores públicos, regime jurídico, provimento de cargos, estabilidade e aposentadoria. Por outro lado, é pacífico o entendimento de que as regras básicas do processo legislativo da União são de observância obrigatória pelos Estados, ‘por sua implicação com o princípio fundamental da separação e independência dos Poderes’. Precedente: ADI 774, rel. Min. Sepúlveda Pertence, DJ 26.02.99. 2. A posse, matéria de que tratou o Diploma impugnado, complementa e completa, juntamente com a entrada no exercício, o provimento de cargo público iniciado com a nomeação do candidato aprovado em concurso. É, portanto, matéria claramente prevista no art. 61, § 1º, II, c da Carta Magna, cuja reserva legislativa foi inegavelmente desrespeitada. 3. Ação direta cujo pedido se julga procedente’ (ADI 2420/ES. Relatora: Min. ELLEN GRACIE. Julgamento: 24/02/2005. Órgão Julgador: Tribunal Pleno. Publicação: DJ 08-04-2005).
+
+Além do vício de iniciativa, como o art. 93 da Constituição determina que todos os magistrados brasileiros estão submetidos a uma mesma Lei Complementar que instituiu o Estatuto da Magistratura (LOMAN), a Assembléia Legislativa do Estado do Rio de Janeiro não é competente para votar matérias que dizem respeito aos interesses dos magistrados.
+Diante disso, novamente é forçoso concluir que a Lei Estadual nº 5388 do Rio de Janeiro é inconstitucional, por afronta direta ao art. 93 da Constituição de 1988.
+Há que se consignar também, que a norma se apresenta como inconstitucional ao tipificar nova hipótese de infração político-administrativa, que ocorrerá no caso de ‘não-apresentação da declaração, a falta e atraso de remessa de sua cópia à Assembléia Legislativa do Estado do Rio de Janeiro, ou a declaração dolosamente inexata.’
+É que, como resultado pelo Governador do Estado do Rio de Janeiro, ao dispor nesse sentido a Lei violou o preceito contido no art. 22, I, da Carta Federal, que outorga à União competência privativa para legislar sobre Direito Penal. Reforça o argumento o teor da Súmula nº 722 do STF, que estabelece que ‘são da competência legislativa da União a definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo e julgamento’. Não é demais lembrar que o Tribunal já deixou expresso que as infrações político-administrativas podem, ‘na tradição do direito brasileiro, ser denominadas crimes de responsabilidade’ (Pleno, HC nº 60.671/PI, Rel. Min. Carlos Velloso, DJ de 19/05/1995).
+Ademais, a referida norma se apresenta inconstitucional por ofensa direta ao art. 2º da Constituição da República, pois, insurge em face da independência do Poder Judiciário, assim como do Ministério Público e do Poder Executivo.
+Há que se ressaltar também a falta de razoabilidade da proposta ressaltada pelo Governador do Estado do Rio de Janeiro nas Razões do seu veto, no que se refere ao critério da necessidade, já que os Membros do Poder Judiciário são obrigados a prestar informações fiscais em caso de investigação de fundo disciplinar.
+Da mesma forma, a execução da medida imposta pela Lei nº 5388/09 implantaria um insólito banco de dados, com centenas de milhares de declarações anuais para serem compulsadas, o que inflaria a Administração Pública, em oposição ao que enuncia o principio da eficiência.
+Por fim, a inconstitucionalidade da Lei Estadual nº 5388/09 é patente por ofensa ao art. 5º XII da CR/88, que reza ser inviolável o sigilo dos dados da pessoa.
+É que na declaração de imposto de renda há informações que nada se relacionam com o exercício da Magistratura ou de qualquer outra função pública, não sendo o Magistrado obrigado a expor a sua vida particular para exercer a função pública. No caso, poderia uma lei formalmente constitucional impor ao magistrado o dever de declarar de próprio punho que não há qualquer conduta que macule sua reputação, jamais expor toda sua vida particular independente de qualquer motivo determinante para tanto” (fls. 11/13).
+
+Tendo em vista a identidade de objetos, determinei que a presente ação fosse apensada à ADI nº 4.203, na qual também é impugnada a Lei Estadual nº 5.388/09.
+A seguir neste relato, colho as informações e demais manifestações prestadas na ADI nº 4.203.
+A Assembléia Legislativa defendeu a constitucionalidade da norma impugnada, haja vista a sua competência constitucional de fiscalização da Administração Pública.
+O Advogado-Geral da União sustentou que a Lei, na parte que trata do Ministério Público, é formalmente inconstitucional, porque a matéria seria própria de Lei Complementar estadual, de iniciativa do Procurador-Geral da Justiça, tal como dispõe o art. 128, §5º, da Constituição Federal.
+O Procurador-Geral da República apontou a incompetência da Assembléia Legislativa para fiscalização criada na norma impugnada. Verbis:
+
+“o que não se pode admitir, tendo em conta o arcabouço constitucional montado pelo art. 71, é que o Poder Legislativo assuma a posição de ordinária e desinteressado controlador externo dos demais poderes e instituição de estatura constitucional, no que de convencional lhes ocorra”.
+
+Vislumbrou, ainda, um vício formal na Lei Estadual:
+
+“O regime jurídico dos servidores do Poder Executivo (CRF, art. 61, §1º, II, “c”), assim como o estatuto dos agentes que servem ao Judiciário (CRF, art. 93), são temas que devem ser deflagrados pelos membros desses Poderes. O mesmo pensamento vale para as previsões que digam sobre os servidores e os membros do Ministério Público (CRF, arts. 127, §2º, e 128, §5º).
+Todas as referências que a Lei Estadual 5.388/09 faz a outros poderes, que não ao Legislativo, falham no confronto com a Constituição, por vício de ordem formal” (fl. 108).
+
+Decido.
+A presente ação direta de inconstitucionalidade possui objeto similar ao da ADI nº 4.203, na qual é impugnada a íntegra da Lei Estadual nº 5.399/09. Aqui, entretanto, o pedido é mais restrito, eis que somente se requer a declaração de inconstitucionalidade dos incisos XI e XII do art. 2º, e da expressão “Poder Judiciário” contida no art. 1º, inciso III, e no art. 2º, inciso XX, alínea “c”, da Lei nº 5.388/09, do Estado do Rio de Janeiro, de modo a afastar a obrigação de entrega de declaração de bens à Assembléia Legislativa apenas pelos magistrados estaduais.
+Tendo em vista, a proximidade do prazo previsto no art. 7º da Lei Estadual impugnada, segundo o qual até o dia 30 de junho os magistrados deverão apresentar suas respectivas declarações de bens, e a impossibilidade de submeter o feito a tempo para apreciação do Plenário, aprecio, excepcionalmente, a medida cautelar pleiteada.
+
+Neste juízo provisório, chama a atenção a outorga, à Assembléia Legislativa do Estado do Rio de Janeiro, desta competência para fiscalizar, de modo rotineiro e indiscriminado, a evolução patrimonial de diversos agentes públicos estaduais, especialmente dos magistrados estaduais.
+Com efeito, uma análise dos dispositivos constitucionais que regulam os meios de fiscalização direta da Administração Pública pelo Poder Legislativo (dentre os quais os arts. 49; 50, §§1º e 2º; 58, §3º, da Constituição Federal) evidencia que nenhum deles dá margem a um controle semelhante ao instituído pela Lei Estadual nº 5.388/09.
+De se notar que nem sequer a previsão do art. 49, X, da Constituição, segundo a qual “é da competência exclusiva do Congresso Nacional: (...) fiscalizar e controlar, diretamente, ou por qualquer de suas Casas, os atos do Poder Executivo, incluídos os da administração indireta”, autoriza a pretendida competência fiscalizadora, porque, evidentemente, a evolução patrimonial dos agentes públicos não se confunde, de modo algum, com “atos do Poder Executivo” ou da Administração Indireta.
+Na minha compreensão, no âmbito do Poder Legislativo, somente as Comissões Parlamentares de Inquérito poderiam determinar a apresentação da declaração de bens dos agentes públicos, assim como a quebra do seu respectivo sigilo fiscal. Ainda assim, as determinações das CPI’s pressupõem uma devida e individualizada fundamentação, diante de um quadro fático que legitime, concreta e especificamente, a invasão da privacidade do investigado, até mesmo porque, como já afirmou o Ministro Celso de Mello nesta Corte, em voto que proferiu no MS nº 23.851, DJ de 21/6/02, “a ruptura da esfera de intimidade de qualquer pessoa – quando ausente a hipótese configuradora de causa provável – revela-se incompatível com o modelo consagrado na Constituição da República, pois a quebra de sigilo não pode ser manipulada de modo arbitrário, pelo Poder Público ou por seus agentes”.
+Não encontro, portanto, ao menos neste exame preliminar, fundamento constitucional para esta competência de fiscalização instituída pela Lei Estadual nº 5.388/09; e não poderia, evidentemente, a Assembléia Legislativa outorgar-se a si mesma competência que não encontra previsão na Constituição Federal.
+Ante o exposto, defiro a medida cautelar pleiteada, ad referendum do Plenário, para suspender a eficácia dos incisos XI e XII do art. 2º, e da expressão “Poder Judiciário” contida no art. 1º, inciso III, e no art. 2º, inciso XX, alínea “c”, da Lei nº 5.388/09, do Estado do Rio de Janeiro, de modo a afastar a obrigação de entrega de declaração de bens à Assembléia Legislativa pelos magistrados estaduais.
+
+Em virtude da identidade de objetos, dispenso a solicitação de novas informações, as quais já foram devidamente prestadas na ADI nº 4.203.
+Publique-se.
+
+Brasília, 18 de maio de 2009.
+
+Ministro MENEZES DIREITO
+Relator
+
+1
