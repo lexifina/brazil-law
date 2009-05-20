@@ -1,0 +1,19 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal Regional Federal de 1ª Região. Acórdão, cuja ementa é a seguinte, na parte que interessa (fls. 284):
+“PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. CRITÉRIOS DE REAJUSTE DE BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO FEDERAL DE 1988. SÚMULA N. 260 DO EXTINTO TFR. ART. 58 DO ADCT. EQUIVALÊNCIA SALARIAL. APLICAÇÃO NO PERÍODO DE 05/04/89 A 04/04/91. ART. 41, II, DA LEI 8.213/91 E LEGISLAÇÃO SUPERVENIENTE A PARTIR DE 05/04/91. SÚMULA 36 DO TRF/1ª REGIÃO.
+[...]
+3. A partir de 05 de abril de 1991, os benefícios dos autores devem ser reajustados nos moldes do art. 41, II, da Lei n. 8.213/91, com base na variação do INPC, observadas, ainda, a Lei n. 8.542, de 23 de dezembro de 1992, que vinculou o reajuste dos benefícios ao IRSM; a Lei n. 8.880/94, que indexou os benefícios previdenciários à URV; e a legislação superveniente, que asseguram o reajuste dos benefícios de modo a preservar-lhes o valor real, conforme o teor da Súmula n. 36 deste e. TRF/1ª Região. (Súmula 36 do TRF/1ª Região).
+4. É pacífico o entendimento desta Corte no sentido de que o art. 41, II da Lei 8.213/91 é compatível com as normas constitucionais que asseguram o reajuste dos benefícios para preservação de seu valor real. Com a edição da Lei n. 8.213/91, o benefício será reajustado nos termos do art. 41, ou seja, mensalidades mantidas e reajustadas pela variação integral do INPC, ou outro critério, na mesma ocasião em que o salário mínimo for alterado, buscando a preservação do seu valor real.
+5. Remessa oficial e apelação a que se dá provimento para, reformando a sentença, julgar improcedente a ação.”
+(sem destaque no original)
+2. Pois bem, a parte recorrente alega, em síntese, violação ao parágrafo único do art. 194 e ao § 2º do art. 201 da Magna Carta.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra da Subprocuradora-Geral Sandra Cureau, opina pelo “conhecimento parcial do recurso e, nesta parte, pelo desprovimento” (fls. 396).
+3. Tenho que o apelo extremo não merece acolhida. Isso porque a decisão impugnada afina com a jurisprudência do Supremo Tribunal Federal. Confira-se, a propósito, o RE 231.395, sob a relatoria do ministro Sepúlveda Pertence, que redigiu a ementa da seguinte maneira:
+“Previdenciário: reajuste inicial de benefício concedido nos termos do art. 202, caput, da Constituição Federal: constitucionalidade do disposto no art. 41, II, da L. 8213/91.
+Ao determinar que ‘os valores dos benefícios em manutenção serão reajustados, de acordo com as suas respectivas datas, com base na variação integral do INPC’, o art. 41, II, da L. 8213/91 (posteriormente revogado pela L. 8542/92), não infringiu o disposto nos arts. 194, IV, e 201, § 2°, CF, que asseguram, respectivamente, a irredutibilidade do valor dos benefícios e a preservação do seu valor real: se na fixação da renda mensal inicial já se leva em conta o valor atualizado da média dos trinta e seis últimos salários de contribuição (CF, art. 202, caput), não há justificativa para que se continue a aplicar o critério previsto na Súmula 260 do extinto Tribunal Federal de Recursos (‘no primeiro reajuste do benefício previdenciário, deve-se aplicar o índice integral do aumento verificado, independentemente do mês de concessão’).”
+4. Outras decisões no mesmo sentido: AIs 486.631-AgR, sob a relatoria da ministra Ellen Gracie; 540.956-AgR, sob a relatoria do ministro Gilmar Mendes; 545.022-AgR, sob a relatoria do ministro Cezar Peluso; e 563.464-AgR, sob a relatoria do ministro Eros Grau.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 20 de maio de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
