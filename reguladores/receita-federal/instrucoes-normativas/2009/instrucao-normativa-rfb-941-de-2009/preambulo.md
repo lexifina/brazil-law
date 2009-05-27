@@ -1,0 +1,11 @@
+Instrução Normativa RFB nº 941, de 25 de maio de 2009
+Altera a Instrução Normativa RFB nº 844, de 9 de maio de 2008, que dispõe sobre a aplicação do regime aduaneiro especial de exportação e importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e de gás natural (Repetro).
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 462 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
+Art.1ºOs arts.5º e 17 da Instrução Normativa RFB nº 844, de 9 de maio de 2008, passam a vigorar com a seguinte redação:
+"Art.5º.................................................................................... ...................................................................................................
+§ 3º O fornecimento de bens pela pessoa jurídica mencionada no inciso II do § 1º poderá estar previsto em contrato de afretamento, de aluguel, de arrendamento operacional ou de empréstimo, o qual deverá ter execução simultânea com o de prestação de serviços.
+§ 4º Poderá ser habilitada ao Repetro empresa com sede no País formalmente designada pela pessoa jurídica de que trata o inciso I do § 1º, para promover a importação dos bens que sejam objeto de afretamento, de aluguel, de arrendamento operacional ou de empréstimo, desde que vinculados à execução de contrato de prestação de serviços celebrado entre elas, relacionado às atividades a que se refere o art. 1º." (NR)
+"Art. 17. ...................................................................................
+§1º.......................................................................................... ...................................................................................................
+III - cópia do contrato de afretamento, de arrendamento operacional, de aluguel ou de empréstimo, para os bens constantes do Anexo Único, acompanhada do respectivo ato de designação, na hipótese prevista no § 4º do art.5º; e
+........................................................................................" (NR)
