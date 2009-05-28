@@ -1,2 +1,5 @@
 Art. 48. São instrumentos de transparência da gestão fiscal, aos quais será dada ampla divulgação, inclusive em meios eletrônicos de acesso público: os planos, orçamentos e leis de diretrizes orçamentárias; as prestações de contas e o respectivo parecer prévio; o Relatório Resumido da Execução Orçamentária e o Relatório de Gestão Fiscal; e as versões simplificadas desses documentos.
-Parágrafo único. A transparência será assegurada também mediante incentivo à participação popular e realização de audiências públicas, durante os processos de elaboração e de discussão dos planos, lei de diretrizes orçamentárias e orçamentos.
+Parágrafo único. A transparência será assegurada também mediante:.
+I - incentivo à participação popular e realização de audiências públicas, durante os processos de elaboração e discussão dos planos, lei de diretrizes orçamentárias e orçamentos;.
+II - liberação ao pleno conhecimento e acompanhamento da sociedade, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira, em meios eletrônicos de acesso público;.
+III - adoção de sistema integrado de administração financeira e controle, que atenda a padrão mínimo de qualidade estabelecido pelo Poder Executivo da União e ao disposto no art. 48-A.
