@@ -1,5 +1,4 @@
 Art. 3º O faturamento a que se refere o artigo anterior corresponde à receita bruta da pessoa jurídica.
-§ 1º Entende-se por receita bruta a totalidade das receitas auferidas pela pessoa jurídica, sendo irrelevantes o tipo de atividade por ela exercida e a classificação contábil adotada para as receitas.
 § 2º Para fins de determinação da base de cálculo das contribuições a que se refere o art. 2º, excluem-se da receita bruta:
 I - as vendas canceladas, os descontos incondicionais concedidos, o Imposto sobre Produtos Industrializados - IPI e o Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, quando cobrado pelo vendedor dos bens ou prestador dos serviços na condição de substituto tributário;
 II - as reversões de provisões e recuperações de créditos baixados como perda, que não representem ingresso de novas receitas, o resultado positivo da avaliação de investimentos pelo valor do patrimônio líquido e os lucros e dividendos derivados de investimentos avaliados pelo custo de aquisição, que tenham sido computados como receita;
