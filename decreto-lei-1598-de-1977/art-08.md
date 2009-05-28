@@ -10,5 +10,5 @@ b) os lançamentos de ajuste do lucro líquido (art. 6º §§ 2º e 3º), com a 
 c) o lucro real.
 § 2º Para fins da escrituração contábil, inclusive da aplicação do disposto no § 2º do art. 177 da Lei nº 6.404, de 15 de dezembro de 1976, os registros contábeis que forem necessários para a observância das disposições tributárias relativos à determinação da base de cálculo do imposto de renda e, também, dos demais tributos, quando não devam, por sua natureza fiscal, constar da escrituração contábil, ou forem diferentes dos lançamentos dessa escrituração, serão efetuados exclusivamente em:
 I - livros ou registros contábeis auxiliares; ou
-II - livros fiscais, inclusive no livro de que trata o inciso I do caput.
-§ 3º O disposto no § 2º será disciplinado pela Secretaria da Receita Federal do Brasil.
+II - livros fiscais, inclusive no livro de que trata o inciso I do caput deste artigo.
+§ 3º O disposto no § 2º deste artigo será disciplinado pela Secretaria da Receita Federal do Brasil.
