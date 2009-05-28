@@ -1,6 +1,10 @@
-Art. 11. O parcelamento terá sua formalização condicionada:
-I - ao prévio pagamento da primeira prestação, conforme o montante do débito e o prazo solicitado, observado o disposto no § 1º do art. 13;
-II - ao oferecimento, pelo devedor, de garantia real ou fidejussória, inclusive fiança bancária, idônea e suficiente para o pagamento do débito, observados os limites e as condições estabelecidos no ato de que trata o art. 14-F.
-§ 1º O disposto no inciso II não se aplica aos pedidos de parcelamento de optantes do Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional, instituído pela Lei Complementar nº 123, de 14 de dezembro de 2006.
-§ 2º Para efeito do disposto no inciso II, poderão também ser oferecidos como garantia o faturamento ou os rendimentos do devedor.
-§ 3º Descumprido o parcelamento garantido por faturamento ou rendimentos do devedor, poderá a Fazenda Nacional realizar a penhora preferencial destes na execução fiscal, que consistirá em depósito mensal à ordem do Juízo, ficando o devedor obrigado a comprovar o valor do faturamento ou rendimentos no mês, mediante documentação hábil.
+Art. 11. O parcelamento terá sua formalização condicionada ao prévio pagamento da primeira prestação, conforme o montante do débito e o prazo solicitado, observado o disposto no § 1º do art. 13 desta Lei.
+§ 1º Observados os limites e as condições estabelecidos em portaria do Ministro de Estado da Fazenda, em se tratando de débitos inscritos em Dívida Ativa, a concessão do parcelamento fica condicionada à apresentação, pelo devedor, de garantia real ou fidejussória, inclusive fiança bancária, idônea e suficiente para o pagamento do débito, exceto quando se tratar de microempresas e empresas de pequeno porte optantes pela inscrição no Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - Simples, de que trata a Lei nº 9.317, de 5 de dezembro de 1996.
+§ 2º Enquanto não deferido o pedido, o devedor fica obrigado a recolher, a cada mês, como antecipação, valor correspondente a uma parcela.
+§ 3º O não-cumprimento do disposto neste artigo implicará o indeferimento do pedido.
+§ 4º (Revogado).
+§ 5º (Revogado).
+§ 6º (Revogado).
+§ 7º (Revogado).
+§ 8º (Revogado).
+§ 9º (Revogado).

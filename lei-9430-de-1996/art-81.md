@@ -1,4 +1,4 @@
-Art. 81. Poderá ser declarada inapta, nos termos e condições definidos pela Secretaria da Receita Federal do Brasil, a inscrição no CNPJ da pessoa jurídica que, estando obrigada, deixar de apresentar declarações e demonstrativos em dois exercícios consecutivos.
+Art. 81. Poderá ser declarada inapta, nos termos e condições definidos pela Secretaria da Receita Federal do Brasil, a inscrição no CNPJ da pessoa jurídica que, estando obrigada, deixar de apresentar declarações e demonstrativos em 2 (dois) exercícios consecutivos.
 § 1º Será também declarada inapta a inscrição da pessoa jurídica que não comprove a origem, a disponibilidade e a efetiva transferência, se for o caso, dos recursos empregados em operações de comércio exterior.
 § 2º Para fins do disposto no § 1º, a comprovação da origem de recursos provenientes do exterior dar-se-á mediante, cumulativamente:
 I - prova do regular fechamento da operação de câmbio, inclusive com a identificação da instituição financeira no exterior encarregada da remessa dos recursos para o País;

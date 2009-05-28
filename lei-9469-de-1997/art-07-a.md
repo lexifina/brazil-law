@@ -1,0 +1,1 @@
+Art. 7º-A. As competências previstas nesta Lei aplicam-se concorrentemente àquelas específicas existentes na legislação em vigor em relação às autarquias, às fundações e às empresas públicas federais não dependentes.
