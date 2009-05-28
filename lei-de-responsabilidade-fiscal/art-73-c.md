@@ -1,0 +1,1 @@
+Art. 73-C. O não atendimento, até o encerramento dos prazos previstos no art. 73-B, das determinações contidas nos incisos II e III do parágrafo único do art. 48 e no art. 48-A sujeita o ente à sanção prevista no inciso I do § 3º do art. 23.

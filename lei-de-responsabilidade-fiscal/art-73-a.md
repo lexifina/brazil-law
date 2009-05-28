@@ -1,0 +1,1 @@
+Art. 73-A. Qualquer cidadão, partido político, associação ou sindicato é parte legítima para denunciar ao respectivo Tribunal de Contas e ao órgão competente do Ministério Público o descumprimento das prescrições estabelecidas nesta Lei Complementar.
