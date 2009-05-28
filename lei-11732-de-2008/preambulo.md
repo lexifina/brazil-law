@@ -1,0 +1,2 @@
+Altera as Leis nos 11.508, de 20 de julho de 2007, que dispõe sobre o regime tributário, cambial e administrativo das Zonas de Processamento de Exportação, e 8.256, de 25 de novembro de 1991, que cria áreas de livre comércio nos municípios de Boa Vista e Bonfim, no Estado de Roraima; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
