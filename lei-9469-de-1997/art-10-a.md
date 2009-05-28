@@ -1,0 +1,1 @@
+Art. 10-A. Ficam convalidados os acordos ou transações, em juízo, para terminar o litígio, realizados pela União ou pelas autarquias, fundações ou empresas públicas federais não dependentes durante o período de vigência da Medida Provisória nº 449, de 3 de dezembro de 2008, que estejam de acordo com o disposto nesta Lei.

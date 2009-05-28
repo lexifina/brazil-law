@@ -1,1 +1,1 @@
-Art. 14-E. Mensalmente, a Secretaria da Receita Federal do Brasil e a Procuradoria-Geral da Fazenda Nacional divulgarão, em seus sítios na Internet, demonstrativos dos parcelamentos concedidos no âmbito de suas competências.
+Art. 14-E. Mensalmente, a Secretaria da Receita Federal do Brasil e a Procuradoria-Geral da Fazenda Nacional divulgarão, em seus sítios na internet, demonstrativos dos parcelamentos concedidos no âmbito de suas competências.

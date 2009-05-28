@@ -1,0 +1,1 @@
+Art. 37-C. A Advocacia-Geral da União poderá celebrar os convênios de que trata o art. 46 da Lei nº 11.457, de 16 de março de 2007, em relação às informações de pessoas físicas ou jurídicas que tenham débito inscrito em Dívida Ativa das autarquias e fundações públicas federais.

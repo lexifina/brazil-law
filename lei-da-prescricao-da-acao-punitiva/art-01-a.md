@@ -1,0 +1,1 @@
+Art. 1º-A. Constituído definitivamente o crédito não tributário, após o término regular do processo administrativo, prescreve em 5 (cinco) anos a ação de execução da administração pública federal relativa a crédito decorrente da aplicação de multa por infração à legislação em vigor.

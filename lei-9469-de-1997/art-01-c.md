@@ -1,0 +1,1 @@
+Art. 1º-C. Verificada a prescrição do crédito, o representante judicial da União, das autarquias e fundações públicas federais não efetivará a inscrição em dívida ativa dos créditos, não procederá ao ajuizamento, não recorrerá e desistirá dos recursos já interpostos.
