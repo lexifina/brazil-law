@@ -19,12 +19,13 @@ IV - o início da entrega da energia objeto dos CCEARs poderá ser antecipado, m
 I - energia elétrica proveniente de empreendimentos de geração existentes;
 II - energia proveniente de novos empreendimentos de geração; e
 III - fontes alternativas.
-§ 6º Entendem-se como novos empreendimentos de geração aqueles que até o início do processo licitatório para a expansão em curso:
+§ 6º Entendem-se como novos empreendimentos de geração aqueles que até o início de processo público licitatório para a expansão e comercialização da oferta de energia elétrica:
 I - não sejam detentores de outorga de concessão, permissão ou autorização; ou
 II - sejam parte de empreendimento existente que venha a ser objeto de ampliação, restrito ao acréscimo de capacidade.
-§ 7º A licitação para a expansão da oferta de energia prevista no inciso II do § 5º deste artigo deverá ser específica para novos empreendimentos ou ampliações, sendo vedada a participação de empreendimentos de geração existentes, ressalvado o disposto no art. 17 desta Lei.
+§ 7º A licitação para a expansão da oferta de energia prevista no inciso II do § 5º deste artigo deverá ser específica para novos empreendimentos ou ampliações, sendo vedada a participação de empreendimentos de geração existentes, ressalvado o disposto no § 7º-A.
 § 7º-A. Poderão participar das licitações, para expansão da oferta de energia, os empreendimentos de geração que tenham obtido outorga de autorização da Aneel ou de concessão oriunda de sistema isolado, desde que atendam aos seguintes requisitos:
 I - não tenham entrado em operação comercial; ou
+II - (VETADO)
 § 8º No atendimento à obrigação referida no caput deste artigo de contratação da totalidade do mercado dos agentes, deverá ser considerada a energia elétrica:
 I - contratada pelas concessionárias, pelas permissionárias e pelas autorizadas de distribuição de energia elétrica até a data de publicação desta Lei; e
 II - proveniente de:
@@ -38,3 +39,5 @@ c) Itaipu Binacional.
 § 13. Nas licitações definidas no § 3º deste artigo poderão participar os concessionários, permissionários e autorizados de geração e comercialização.
 § 14. A ANEEL deverá garantir publicidade aos dados referentes à contratação de que trata este artigo.
 § 15. No exercício do poder regulamentar das matérias deste art. 2º, será observado o disposto no art. 1º desta Lei.
+§ 16. Caberá à Aneel dirimir conflitos entre compradores e vendedores de energia elétrica, que tenham celebrado CCEARs, utilizando lastro em contratos de importação de energia elétrica ou à base de gás natural, cujas obrigações tenham sido alteradas em face de acontecimentos extraordinários e imprevisíveis, decorrentes de eventos alheios à vontade do vendedor, nos termos do inciso V do art. 3º da Lei nº 9.427, de 26 de dezembro de 1996.
+§ 17. No exercício da competência de que trata o § 16 deste artigo, a Aneel, reconhecendo a extraordinariedade e a imprevisibilidade dos acontecimentos, poderá garantir neutralidade aos agentes envolvidos, no limite de suas responsabilidades.
