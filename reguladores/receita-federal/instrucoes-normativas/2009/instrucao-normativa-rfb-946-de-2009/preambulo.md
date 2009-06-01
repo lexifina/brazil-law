@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 946, de 29 de maio de 2009
+Dispõe sobre a apresentação de Declaração de Informações Econômico-Fiscais da Pessoa Jurídica (DIPJ) relativa a evento de extinção, cisão, fusão ou incorporação.
+O SECRETÁRIO ADJUNTO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso I do art. 262 e o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 5º da Lei nº 9.959, de 27 de janeiro de 2000 e nos arts. 235, 810 e 811 do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto de Renda (RIR/99), resolve:
