@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 944, de 29 de maio de 2009
+Dispõe sobre outorga de poderes para fins de utilização, mediante certificado digital, dos serviços disponíveis no Centro Virtual de Atendimento ao Contribuinte (e-CAC) da Secretaria da Receita Federal do Brasil (RFB).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto na Instrução Normativa SRF nº 580, de 12 de dezembro de 2005, resolve:
