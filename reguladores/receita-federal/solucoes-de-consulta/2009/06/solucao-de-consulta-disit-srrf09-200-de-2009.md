@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF09 nº 200, de 25 de maio de 2009
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins TELEATENDIMENTO. SUPORTE TÉCNICO. CUMULATIVIDADE. Permanecem sujeitas à sistemática da cumulatividade, entre outras, as receitas decorrentes de prestação de serviços das empresas de teleatendimento em geral, bem como as receitas auferidas por empresas de serviços de informática, decorrentes das atividades de suporte técnico e manutenção de software. Não se enquadra nessas hipóteses o suporte técnico in loco em hardware. Dispositivos Legais: Lei nº 10.833, de 2003, art. 10, XIX, XXV.
+[arquivo anexo: SC SRRF09-Disit nº 200-2009.pdf]
