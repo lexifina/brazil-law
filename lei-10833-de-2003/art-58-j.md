@@ -18,5 +18,5 @@ II - o produto vendido, a Contribuição para o PIS/Pasep e a Cofins incidirão 
 § 12. (VETADO)
 § 13. A propositura pela pessoa jurídica optante de ação judicial questionando os termos deste regime especial implica desistência da opção.
 § 14. O Poder Executivo poderá estabelecer alíquota específica mínima por produto, marca e tipo de embalagem.
-§ 15. A pessoa jurídica industrial que optar pelo regime de apuração previsto neste artigo poderá creditar-se dos valores das contribuições estabelecidos nos incisos I a III do art. 51, referentes às embalagens que adquirir, no período de apuração em que registrar o respectivo documento fiscal de aquisição.
-§ 16. O disposto no § 15 aplica-se, inclusive, na hipótese da industrialização por encomenda, desde que o encomendante tenha feito a opção de que trata este artigo.
+§ 15. A pessoa jurídica industrial que optar pelo regime de apuração previsto neste artigo poderá creditar-se dos valores das contribuições estabelecidos nos incisos I a III do art. 51 desta Lei, referentes às embalagens que adquirir, no período de apuração em que registrar o respectivo documento fiscal de aquisição.
+§ 16. O disposto no § 15 deste artigo aplica-se, inclusive, na hipótese da industrialização por encomenda, desde que o encomendante tenha feito a opção de que trata este artigo.
