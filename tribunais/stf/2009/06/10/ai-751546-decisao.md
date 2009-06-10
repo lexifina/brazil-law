@@ -1,0 +1,15 @@
+DECISÃO: Deixo de apreciar a existência da repercussão geral, vez que o artigo 323, § 1º, do RISTF dispõe que "[t]al procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+2.  O agravo não merece provimento. O acórdão recorrido não apreciou a controvérsia à luz dos preceitos constitucionais que o recorrente indica como violados. Além disso, os embargos de declaração são ineficazes para ventilar matéria não argüida oportunamente. Aqui incidem as Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+3.  O prequestionamento, no entendimento pacificado deste Tribunal, deve ser explícito [AI n. 215.724-AgR, Relator o Ministro Sydney Sanches, 1ª Turma, DJ de 15.10.99, e RE n. 192.031-AgR, Relator o Ministro Néri da Silveira, 2ª Turma, DJ de 4.6.99].
+4.  Ademais, a jurisprudência do STF, relativamente ao “Plano Verão” e “Plano Bresser”, fixou-se no sentido de reconhecer a depositantes em caderneta de poupança direito à correção monetária do saldo de suas contas pelo índice vigente no início do período contratual. Nesse sentido: RE n. 200.514, Relator o Ministro Moreira Alves, DJ de 18.10.96; RE n. 203.762, Relator o Ministro Marco Aurélio, DJ de 18.4.97; RE n. 204.769, Relator o Ministro Celso de Mello, DJ de 14.3.97, RE n. 175.127-AgR, Relator o Ministro Sepúlveda Pertence, DJ de 6.2.98, RE n. 278.980, Relator o Ministro Sydney Sanches, DJ de 27.6.02; RE n. 473.095, Relator o Ministro Sepúlveda Pertence, DJ de 10.4.06, e AI n. 456.985-AgR, Relator o Ministro Sepúlveda Pertence, DJ de 6.2.04, cuja ementa transcrevo:
+
+“EMENTA: 1. Caderneta de poupança: L. 7.730/89 (Plano Verão).Relativamente à incidência da L. 7.730/89 (“Plano Verão”), a jurisprudência do STF firmou-se no sentido de reconhecer a depositantes em caderneta de poupança direito à correção monetária do saldo de suas contas pelo índice vigente no início do período contratual: precedentes. Inviabilidade da pretensão do agravante no sentido de responsabilizar a União e o Banco Central do Brasil por eventuais danos causados aos correntistas.” [Grifei].
+
+5.  Por fim, a jurisprudência deste Tribunal fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 541.361-AgR, de que fui relator, 1ª Turma, DJ de 3.2.06, e AI n. 238.917-AgR, Relator o Ministro Celso de Mello, 2ª Turma, DJ de 20.10.00, entre outros julgados].
+ Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 10 de junho de 2009.
+Ministro Eros Grau
+- Relator -
+
+1
