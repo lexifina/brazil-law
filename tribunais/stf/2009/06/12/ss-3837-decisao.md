@@ -1,0 +1,61 @@
+DECISÃO: Trata-se de Suspensão de Segurança ajuizada pelo Estado do Amazonas contra o acórdão proferido no Mandado de Segurança 2008.001027-0, em tramitação no Tribunal de Justiça daquele Estado.
+
+Na origem, a impetrante do mencionado writ postula o recebimento de sua pensão sem a incidência do teto constitucional previsto no inciso XI do art. 37 da Constituição Federal.
+
+O acórdão, que concedeu a segurança pleiteada, restou assim ementado:
+“MANDADO DE SEGURANÇA – CONSTITUCIONAL E ADMINISTRATIVO – REDUÇÃO DA PENSÃO PREVIDENCIÁRIA – APLICAÇÃO INDEVIDA DA RESTITUIÇÃO DO TETO – DIREITO ADQUIRIDO – EXISTÊNCIA INEQUÍVOCA DA LIQUIDEZ E CERTEZA DO DIREITO – SEGURANÇA CONCEDIDA – PRELIMINARES REJEITADAS.
+1.Não há falar-se em ausência de interesse de agir pelo fato de que a impetrante objetiva o restabelecimento de seus proventos no patamar que vinha percebendo antes de ser levado a efeito o ato coator, não se confundindo com aquisição de efeitos patrimoniais.
+2. Afasta-se a tese de que ocorreu a decadência da impetração, haja vista tratar-se in casu de relação jurídica de trato sucessivo em que a ilegalidade se renova mês a mês com o pagamento dos proventos da impetrante. Preliminares rejeitadas.
+3. O Decreto nº 24.022/04, bem como a Emenda Constitucional nº 41/03, não podem efetivamente violar os direitos dos servidores sejam eles ativos ou inativos, que já vinham recebendo seus vencimentos com base em leis vigentes à época que se beneficiaram, posto que se trata, in casu, de um ato jurídico perfeito e de direito adquirido.
+4. Existência, nesse sentido, de direito líquido e certo capaz de ser amparado pela via sumária deste writ.
+5. Segurança concedida.” (fls. 96-102)
+
+Contra esta decisão, o Estado do Amazonas opôs embargos de declaração (fls. 103-112), os quais foram rejeitados (fls. 113-117).
+
+Contra esta decisão, o Estado do Amazonas apresenta o presente pedido de suspensão. Alega, em síntese, que a execução imediata do acórdão impugnado, afastando-se a aplicação do teto remuneratório previsto no inciso XI do art. 37 da Constituição Federal, afronta a ordem, a segurança e a economia públicas.
+
+Afirma, ademais, o potencial efeito multiplicador do provimento judicial impugnado, apto a gerar graves prejuízos às finanças estaduais.
+
+Assevera que o art. 9º da Emenda Constitucional 41/2003, ao determinar a aplicação do art. 17 do Ato das Disposições Constitucionais Transitórias, impede a invocação de direito adquirido quanto a vencimentos, remuneração, proventos de aposentadoria, vantagens e adicionais percebidos em desconformidade com a Constituição.
+
+Pede, ao final, a suspensão dos efeitos do acórdão impugnado.
+
+Decido.
+
+A base normativa que fundamenta o instituto da suspensão (Leis 4.348/64, 8.437/92, 9.494/97 e art. 297 do RISTF) permite que a Presidência do Supremo Tribunal Federal, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas, suspenda a execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, quando a discussão travada na origem for de índole constitucional.
+
+Assim, é a natureza constitucional da controvérsia que justifica a competência do Supremo Tribunal Federal para apreciar o pedido de contracautela, conforme a pacificada jurisprudência desta Corte, destacando-se os seguintes julgados: Rcl-AgR 497, Rel. Carlos Velloso, DJ 6.4.2001; SS-AgR 2.187, Rel. Maurício Corrêa, DJ 21.10.2003; e SS 2.465, Rel. Nelson Jobim, DJ 20.10.2004.
+
+No mandado de segurança de origem, discute-se a aplicação do art. 37, XI, da Constituição Federal, introduzido pela Emenda Constitucional 41/2003, frente ao princípio constitucional do direito adquirido. Não há dúvida, portanto, de que a matéria discutida na origem reveste-se de índole constitucional.
+
+Feitas essas considerações preliminares, passo à análise do pedido, o que faço apenas e tão-somente com base nas diretrizes normativas que disciplinam as medidas de contracautela. Ressalte-se, não obstante, que, na análise do pedido de suspensão de decisão judicial, não é vedado ao Presidente do Supremo Tribunal Federal proferir um juízo mínimo de delibação a respeito das questões jurídicas presentes na ação principal, conforme tem entendido a jurisprudência desta Corte, da qual se destacam os seguintes julgados: SS 846-AgR/DF, rel. Ministro Sepúlveda Pertence, DJ 29.5.96; SS 1.272-AgR/RJ, rel. Ministro Carlos Velloso, DJ 18.5.2001.
+
+Na hipótese, é de se aplicar o entendimento pacificado por esta Corte de que a lesão à ordem pública resta configurada no caso de descumprimento da regra do art. 37, XI, da Constituição da República. Nesse sentido, os seguintes julgados: o SS-AgR 2.583; SS-AgR 2.973; SS-AgR 2.663; SS-Agr 2.932; e SS-AgR 2.447, Rel. Ellen Gracie, DJ 25.4.2008, este último com ementa assim anotada:
+
+AGRAVO REGIMENTAL. SUSPENSÃO DE SEGURANÇA. OCORRÊNCIA DE GRAVE LESÃO À ORDEM PÚBLICA, CONSIDERADA EM TERMOS DE ORDEM JURÍDICO-CONSTITUCIONAL. TETO. SUBTETO. ART. 37, XI, DA CONSTITUIÇÃO DA REPÚBLICA, REDAÇÃO DA EMENDA CONSTITUCIONAL 41/03. DECRETO ESTADUAL 48.407/04.
+1. Os agravantes não lograram infirmar ou mesmo elidir os fundamentos adotados para o deferimento do pedido de suspensão.
+2. No presente caso, a imediata execução da decisão impugnada impede, em princípio, a aplicação da regra inserta no art. 37, XI, da Constituição da República, que integra o conjunto normativo estabelecido pela Emenda Constitucional 41/2003.
+3. Na suspensão de segurança não se aprecia o mérito do processo principal, mas tão-somente a ocorrência dos aspectos relacionados à potencialidade lesiva do ato decisório em face dos interesses públicos relevantes consagrados em lei, quais sejam, a ordem, a saúde, a segurança e a economia públicas.
+4. Possibilidade de ocorrência do denominado "efeito multiplicador".
+5. Precedentes do Plenário.
+
+6. Agravo regimental improvido.
+
+É de se esclarecer, ainda, que no MS 24.875, Rel. Sepúlveda Pertence, DJ 6.10.2006, o Tribunal apenas determinou a concessão da segurança para que os impetrantes percebessem o acréscimo previsto no art. 184, III, da Lei 1.711/52, de 20% sobre os proventos da aposentadoria, até sua ulterior absorção pelo subsídio dos Ministros do Supremo Tribunal Federal determinado em lei.
+
+Ademais, também está presente a probabilidade de concretização do denominado “ efeito multiplicador ” (SS-AgR 1.836, Rel. Carlos Velloso, DJ 11.10.2001), ante a possibilidade de multiplicação de demandas que contenham o mesmo objeto.
+
+Ante o exposto, defiro o pedido para suspender os efeitos do acórdão formalizado no Mandado de Segurança 2008.001027-0, em tramitação no Tribunal de Justiça do Estado do Amazonas.
+
+Publique-se.
+
+Comunique-se com urgência.
+
+Brasília, 12 de junho de 2009.
+
+Ministro GILMAR MENDES
+Presidente
+
+1
+
+1
