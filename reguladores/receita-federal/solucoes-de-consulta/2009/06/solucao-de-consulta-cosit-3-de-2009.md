@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 3, de 8 de junho de 2009
+ASSUNTO: Regimes Aduaneiros EMENTA: REGIME ADUANEIRO DE ADMISSÃO TEMPORÁRIA - AUTORIZAÇÃO PARA REMESSA DE MERCADORIA AO EXTERIOR PARA REPARO OU RESTAURAÇÃO - PORTOS SECOS. Remessa ao exterior, para reparo ou restauração, de bem submetido a regime aduaneiro especial de admissão temporária deverá ser autorizada somente por chefe de unidade da Secretaria da Receita Federal do Brasil onde se der a saída física dos bens do País. DISPOSITIVOS LEGAIS: art. 3º da IN SRF nº 740, de 2 de maio de 2007; arts. 10, 14 e 15 da IN SRF nº 285, de 14 de janeiro de 2003; art. 7º da IN SRF nº 55, de 23 de maio de 2000.
+[arquivo anexo: SC Cosit nº 3-2009.pdf]
