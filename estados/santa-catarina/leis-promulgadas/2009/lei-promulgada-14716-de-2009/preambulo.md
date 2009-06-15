@@ -1,0 +1,3 @@
+# LEI Nº 14.716, de 10 de junho de 2009
+Altera dispositivos da Lei nº 14.532, de 2008, que autoriza o Poder Executivo a contratar operação de empréstimo junto ao Banco Interamericano de Desenvolvimento - BID, para o Programa de Investimentos na Implantação e Pavimentação de Rodovias Estaduais e no Fortalecimento do Departamento Estadual de Infra-Estrutura - DEINFRA.
+Faço saber que o Governador do Estado de Santa Catarina, de acordo com o art. 51 da Constituição Estadual, adotou a Medida Provisória nº 154, de 21 de maio de 2009, e eu, Deputado Jorginho Mello, Presidente da Assembléia Legislativa do Estado, para os efeitos do disposto no § 8º do art. 315 do Regimento Interno, promulgo a seguinte Lei:
