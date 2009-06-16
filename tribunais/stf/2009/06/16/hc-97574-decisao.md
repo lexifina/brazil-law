@@ -1,0 +1,37 @@
+DECISÃO: O Subprocurador-Geral da República Wagner Gonçalves manifesta-se nestes termos (fls. 92/96):
+
+“1. Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Washington da Cunha Menezes, Delegado de Polícia Federal, ‘contra ato de omissão do Presidente do Superior Tribunal de Justiça (...), que deixou de prestar o serviço jurisdicional em não decidir a liminar no pedido de habeas corpus protocolizado naquele Tribunal Superior sob o nº 126.180’. (fls. 02/03).
+2. Consta dos autos que o paciente foi condenado à pena de quatro anos e oito meses de reclusão, em regime inicialmente fechado, pela prática do delito descrito no art. 316 (concussão), c/c art. 71, caput, ambos do Código Penal. Pugnando pelo direito de recorrer em liberdade, o paciente impetrou habeas corpus ao Tribunal Regional Federal da Terceira Região, que considerou devidamente fundamentada, pela sentença condenatória, a necessidade de manutenção da segregação do condenado. A ordem, naquela oportunidade, foi parcialmente concedida apenas para permitir ao paciente a expedição da guia de execução provisória (fls. 91/98 do apenso).
+3. Inconformada, a defesa impetrou o HC nº 126.180 junto ao Superior Tribunal de Justiça, reiterando o pedido para que o paciente aguardasse solto o julgamento da apelação, não só em decorrência da ‘falta de fundamentação da sentença condenatória’, mas, também, porque a referida sentença não transitou em julgado, razão pela qual não se deve admitir a execução provisória da pena.
+4. Em seguida, sem que houvesse o julgamento sequer do pedido liminar do HC impetrado no Eg. STJ, a defesa impetrou o presente writ, no qual reitera os mesmos argumentos anteriormente defendidos. Requer a expedição de alvará de soltura em favor do paciente.
+5. A liminar foi indeferida à fl. 89.
+É o breve relatório.
+6. Em primeiro lugar, cumpre observar que a presente impetração insurge-se contra a alegada omissão da Corte Superior de Justiça que, ‘desidiosamente’, ainda não teria julgado sequer o pedido liminar do HC nº 126.180, lá impetrado. Ocorre que, contrariamente ao alegado pela defesa, não se verifica, por parte do Eg. STJ, nenhum constrangimento ilegal.
+7. Com efeito, o HC 126.180 foi impetrado junto àquela Corte em 14 de janeiro de 2009 e o presente writ chegou a este Pretório Excelso em 26 de janeiro de 2009 (!). Ora, como pode o impetrante reclamar um ‘excesso de prazo para julgamento’ – que efetivamente não aconteceu -, ‘concedendo’ ao STJ apenas doze dias para decidir?
+8. De se observar, também, que, conforme informações prestadas às fls. 84/86, o e. Ministro Felix Fischer indeferiu, em 06 de fevereiro de 2009, a medida liminar pleiteada nos autos do HC impetrado no STJ. Em consulta ao andamento processual do referido writ, todavia, verifica-se que o julgamento do mérito ainda não ocorreu. Tal fato inviabiliza o conhecimento da presente impetração.
+9. Com efeito, uma vez que a discussão trazida à baila ainda não foi objeto de análise pelo Eg. STJ, fica esse Pretório Excelso impedido de conhecer do writ, sob pena de supressão de instância.
+10. Como é deveras sabido, as competências desse Supremo Tribunal Federal – fixadas pelo Constituinte de 1988 – são exaustivas, não comportando interpretação ampliativa/extensiva como a que o impetrante busca aplicar. Apenas a decisão colegiada de mérito do Superior Tribunal de Justiça pode ser submetida à apreciação da Corte Superior. Defender o contrário, ao argumento de que o habeas corpus é garantia constitucional absoluta, implica subversão do sistema jurídico constitucional. Neste sentido, são diversos os precedentes:
+
+‘Execução penal. Progressão de regime. Cognição pelo STJ, em habeas corpus. Inadmissibilidade. Matéria originariamente suscitada, noutros habeas corpus, perante o Tribunal de Justiça local e o Superior Tribunal de Justiça, que dela não conheceram. Supressão de instâncias. Inadmissibilidade. Agravo improvido. Não se conhece de habeas corpus cuja matéria não tenha sido apreciada pelas instâncias ordinárias.’ – grifo nosso (HC-AGR nº 92.727/SP, 2ª Turma, Rel. Min. Cezar Peluso, unânime, DJ 20.6.2008).
+
+No mesmo sentido: RHC 86.822, Rel. Min. Gilmar Mendes, DJ 6.9.2007; HC AgR 88.100 – MT, Rel. Min. Gilmar Mendes, DJ 14.9.2007, pg. 79: HC 86.123, Relator p/ o acórdão o Min. Menezes de Direito, DJ 25.4.2008; HC 93.872/SP, Rel. Min. Cezar Peluso, 2ª. Turma, unânime, DJ 27.6.2008; e HC 93.991/SP, Rel. Min. Ricardo Lewandowski, DJ 27.6.2008.
+
+11. Ademais, não há, in casu, evidente abuso de poder, ilegalidade ou teratologia, que possa justificar o conhecimento do presente HC. Caso assim não entenda, a ordem deve ser denegada.
+12. Como visto, o direito do paciente de recorrer em liberdade, ao argumento de que inexiste fundamentação concreta para a manutenção do édito constritivo. Sustenta também a impossibilidade de execução provisória da pena antes do trânsito em julgado da condenação.
+13. Ocorre que, como bem decidiu o TRF/3ª Região, a sentença hostilizada fundamentou satisfatoriamente a necessidade da continuação da constrição cautelar impugnada, especialmente para a preservação da ordem pública e a garantia da aplicação da lei (fl. 46 do apenso). A decisão destacou o desvalor da conduta do paciente e sua personalidade ‘voltada à pratica criminosa (...) tendo em vista tratar-se de delegado de polícia, cuja tarefa é zelar pelo cumprimento da lei, buscando coibir seu desrespeito’. (fl. 44 do apenso). Salientou que o paciente ‘valeu-se de sua função, outrossim, para obter vantagem indevida, afrontando a administração pública e, indiretamente, lesionando o interesse particular. Noutras palavras: a conduta do réu afronta aquilo que ele deveria buscar proteger, provocando um alto grau de censurabilidade ante o cargo que ocupava, que lhe conferia maior poder para intimidar’ (fl. 44 do apenso).
+14. Com efeito, tendo o paciente permanecido preso durante a instrução criminal, e persistindo os motivos que autorizaram a sua segregação preventiva (quais sejam, a necessidade de preservação da ordem pública e da aplicação da lei penal), com mais razão deve permanecer preso após sua condenação. Além disso, conforme se verifica à fl. 93 do apenso, ‘há indícios de autoria e prova da materialidade de inúmeros crimes praticados pelo paciente (...): peculato (...); extorsão (...) e quadrilha ou bando armado’. Tal circunstância, por óbvio, reforça a necessidade de segregação do paciente.
+15. Por fim, há que se ressaltar que as alegações do impetrante quanto à pretendida inocência do paciente, em vista da retratação da testemunha chave, não devem ser analisadas no presente remédio heróico que, por ser ação de rito célere, não admite dilação probatória. Tais questões deverão ser analisadas no julgamento da apelação defensiva.
+16. Ex positis, opina a Procuradoria-Geral da República pelo não conhecimento do writ, se conhecido, pela denegação da ordem.”
+
+2.  O impetrante alega omissão do Presidente do Superior Tribunal de Justiça, que não teria decidido a liminar requerida, em 14 de janeiro do corrente ano, no HC n. 126.180. Proferida a decisão, em 6 de fevereiro, esta impetração restou prejudicada.
+3.  A pretensão de que esta Corte examine as questões de mérito submetidas ao Superior Tribunal de Justiça traduz supressão de instância.
+ Acolho o parecer ministerial, no que tange ao não conhecimento da impetração.
+ Nego seguimento ao writ, com fundamento no art. 38 da Lei n. 8.038/90.
+ Publique-se.
+
+ Brasília, 16 de junho de 2009.
+
+Ministro Eros Grau
+- Relator -
+
+1
