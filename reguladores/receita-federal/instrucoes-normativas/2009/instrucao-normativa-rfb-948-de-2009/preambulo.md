@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 948, de 15 de junho de 2009
+Disciplina a suspensão do Imposto sobre Produtos Industrializados (IPI) de que tratam o art. 5º da Lei nº 9.826, de 23 de agosto de 1999, e o art. 29 da Lei nº 10.637, de 30 de dezembro de 2002.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o que dispõe o art. 5º da Lei nº 9.826, de 23 de agosto de 1999, o § 5º do art. 17 da Medida Provisória nº 2.189-49, de 23 de agosto de 2001, o art. 4º da Lei nº 10.485, de 3 de julho de 2002, e o art. 29 da Lei nº 10.637, de 30 de dezembro de 2002, resolve:
