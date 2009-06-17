@@ -1,0 +1,2 @@
+Art. 28. A fiscalização da aplicação dos recursos financeiros relativos à execução do PDDE é de competência do FNDE e dos órgãos de controle externo e interno do Poder Executivo da União e será feita mediante realização de auditorias, inspeções e análise dos processos que originarem as respectivas prestações de contas.
+Parágrafo único. Os órgãos incumbidos da fiscalização dos recursos destinados à execução do PDDE poderão celebrar convênios ou acordos, em regime de mútua cooperação, para auxiliar e otimizar o controle do Programa.
