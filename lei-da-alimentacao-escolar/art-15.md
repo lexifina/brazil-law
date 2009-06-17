@@ -1,0 +1,1 @@
+Art. 15. Compete ao Ministério da Educação propor ações educativas que perpassem pelo currículo escolar, abordando o tema alimentação e nutrição e o desenvolvimento de práticas saudáveis de vida, na perspectiva da segurança alimentar e nutricional.

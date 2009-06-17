@@ -1,0 +1,1 @@
+Art. 25. Os Estados, o Distrito Federal e os Municípios deverão inscrever, quando couber, nos respectivos orçamentos os recursos financeiros destinados aos estabelecimentos de ensino a eles vinculados, bem como prestar contas dos referidos recursos.

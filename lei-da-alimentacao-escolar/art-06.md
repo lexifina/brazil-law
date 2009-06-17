@@ -1,0 +1,2 @@
+Art. 6º É facultado aos Estados, ao Distrito Federal e aos Municípios repassar os recursos financeiros recebidos à conta do PNAE às unidades executoras das escolas de educação básica pertencentes à sua rede de ensino, observando o disposto nesta Lei, no que couber.
+Parágrafo único. O Conselho Deliberativo do FNDE expedirá normas relativas a critérios de alocação de recursos e valores per capita, bem como para organização e funcionamento das unidades executoras e demais orientações e instruções necessárias à execução do PNAE.
