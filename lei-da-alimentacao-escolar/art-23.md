@@ -1,0 +1,1 @@
+Art. 23. Os recursos financeiros repassados para o PDDE serão destinados à cobertura de despesas de custeio, manutenção e de pequenos investimentos, que concorram para a garantia do funcionamento e melhoria da infraestrutura física e pedagógica dos estabelecimentos de ensino.

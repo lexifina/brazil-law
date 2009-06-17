@@ -1,0 +1,2 @@
+Art. 24. O Conselho Deliberativo do FNDE expedirá normas relativas aos critérios de alocação, repasse, execução, prestação de contas dos recursos e valores per capita, bem como sobre a organização e funcionamento das unidades executoras próprias.
+Parágrafo único. A fixação dos valores per capita contemplará, diferenciadamente, as escolas que oferecem educação especial de forma inclusiva ou especializada, de modo a assegurar, de acordo com os objetivos do PDDE, o adequado atendimento às necessidades dessa modalidade educacional.

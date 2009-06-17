@@ -1,0 +1,1 @@
+Art. 10. Qualquer pessoa física ou jurídica poderá denunciar ao FNDE, ao Tribunal de Contas da União, aos órgãos de controle interno do Poder Executivo da União, ao Ministério Público e ao CAE as irregularidades eventualmente identificadas na aplicação dos recursos destinados à execução do PNAE.

@@ -1,0 +1,1 @@
+Art. 7º Os Estados poderão transferir a seus Municípios a responsabilidade pelo atendimento aos alunos matriculados nos estabelecimentos estaduais de ensino localizados nas respectivas áreas de jurisdição e, nesse caso, autorizar expressamente o repasse direto ao Município por parte do FNDE da correspondente parcela de recursos calculados na forma do parágrafo único do art. 6º.

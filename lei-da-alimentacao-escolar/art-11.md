@@ -1,0 +1,1 @@
+Art. 11. A responsabilidade técnica pela alimentação escolar nos Estados, no Distrito Federal, nos Municípios e nas escolas federais caberá ao nutricionista responsável, que deverá respeitar as diretrizes previstas nesta Lei e na legislação pertinente, no que couber, dentro das suas atribuições específicas.

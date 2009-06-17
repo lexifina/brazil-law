@@ -1,0 +1,1 @@
+Art. 13. A aquisição dos gêneros alimentícios, no âmbito do PNAE, deverá obedecer ao cardápio planejado pelo nutricionista e será realizada, sempre que possível, no mesmo ente federativo em que se localizam as escolas, observando-se as diretrizes de que trata o art. 2º desta Lei.

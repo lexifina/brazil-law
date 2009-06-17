@@ -1,0 +1,2 @@
+Art. 12. Os cardápios da alimentação escolar deverão ser elaborados pelo nutricionista responsável com utilização de gêneros alimentícios básicos, respeitando-se as referências nutricionais, os hábitos alimentares, a cultura e a tradição alimentar da localidade, pautando-se na sustentabilidade e diversificação agrícola da região, na alimentação saudável e adequada.
+Parágrafo único Para efeito desta Lei, gêneros alimentícios básicos são aqueles indispensáveis à promoção de uma alimentação saudável, observada a regulamentação aplicável.
