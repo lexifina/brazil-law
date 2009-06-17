@@ -1,0 +1,1 @@
+Art. 29. Qualquer pessoa, física ou jurídica, poderá denunciar ao FNDE, ao Tribunal de Contas da União, aos órgãos de controle interno do Poder Executivo da União e ao Ministério Público irregularidades identificadas na aplicação dos recursos destinados à execução do PDDE.
