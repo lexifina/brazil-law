@@ -1,0 +1,2 @@
+Art. 9º O FNDE, os entes responsáveis pelos sistemas de ensino e os órgãos de controle externo e interno federal, estadual e municipal criarão, segundo suas competências próprias ou na forma de rede integrada, mecanismos adequados à fiscalização e ao monitoramento da execução do PNAE.
+Parágrafo único. Os órgãos de que trata este artigo poderão celebrar convênios ou acordos, em regime de cooperação, para auxiliar e otimizar o controle do programa.

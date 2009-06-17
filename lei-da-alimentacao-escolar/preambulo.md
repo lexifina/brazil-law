@@ -1,0 +1,2 @@
+Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica; altera as Leis nos 10.880, de 9 de junho de 2004, 11.273, de 6 de fevereiro de 2006, 11.507, de 20 de julho de 2007; revoga dispositivos da Medida Provisória nº 2.178-36, de 24 de agosto de 2001, e a Lei nº 8.913, de 12 de julho de 1994; e dá outras providências.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
