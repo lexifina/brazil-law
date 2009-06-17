@@ -1,0 +1,11 @@
+Trata-se agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que entendeu devida a atualização monetária de saldo existente em caderneta de poupança em virtude dos diversos planos econômicos.
+O RE foi interposto com base no art. 102, III, a, da Constituição.
+O agravo não merece acolhida. Bem examinados os autos, verifico que a parte recorrente, na petição de recurso extraordinário, não indicou o dispositivo constitucional violado, o que caracteriza a deficiência de sua fundamentação, tornando inviável o conhecimento do recurso a teor da Súmula 284 do STF. No mesmo sentido: AI 636.405/DF, de minha relatoria; AI 488.500-AgR/SP e AI 582.519/PE, Rel. Min. Sepúlveda Pertence; AI 541.541/AL, Rel. Min. Gilmar Mendes; AI 552.131-AgR/SP, Rel. Min. Carlos Britto.
+Ainda que superado esse óbice, melhor sorte não assistiria ao recorrente. O acórdão recorrido encontra-se em harmonia com a jurisprudência da Corte, como se vê da ementa do AI 392.018-AgR/SP, Relator para o acórdão o Min. Sepúlveda Pertence, que segue transcrita:
+“1. Caderneta de poupança: correção monetária: "Plano Verão" e "Plano Bresser": firmou-se a jurisprudência do STF no sentido de reconhecer a depositantes em caderneta de poupança direito à correção monetária do saldo de suas contas pelo índice vigente no início do período contratual. 2.Caderneta de poupança: "Plano Collor": atualização monetária das quantias "bloqueadas": critério imposto pela Medida Provisória 168/90, convertida na L. 8.024/90, de correção do saldo das contas pelo BTN fiscal, que, segundo orientação firmada pelo plenário do Tribunal (RE 206.048, T. Pleno, 15.08.2001, Nelson Jobim, Inf./STF 237) - trilhada por numerosas decisões individuais e de ambas as Turmas -, não contraria os princípios constitucionais do direito adquirido e da isonomia”.
+Nesse sentido, menciono as seguintes decisões, entre outras: RE 200.514/RS, Rel. Min. Moreira Alves; RE 203.762/RS, Rel. Min. Marco Aurélio; RE 204.769/RS, Rel. Min. Celso de Mello; RE 278.980/RS, Rel. Min. Sydney Sanches; AI 482.583/SP, Rel. Min. Cezar Peluso; RE 175.127-AgR/SP, RE 170.228/RS e AI 624.513/SP, Rel. Min. Sepúlveda Pertence; RE 289.396-ED/PR, Rel. Min. Carlos Velloso.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 17 de junho de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
