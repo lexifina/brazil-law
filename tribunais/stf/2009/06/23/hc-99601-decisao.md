@@ -1,0 +1,29 @@
+DECISÃO: Vistos, etc.
+
+Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão da relatora do HC 135.966, no Superior Tribunal de Justiça. Decisão que não conheceu da ação constitucional ali ajuizada. Confira-se:
+
+“(...)
+Inicialmente, cumpre ressaltar que, consoante o posicionamento aplicado pelos Tribunais Superiores, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância, o que tem inclinado o Supremo Tribunal Federal a sequer conhecer da impetração, a teor do verbete sumular n.º 691: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No entanto, a despeito do óbice processual, têm entendido as Cortes Superiores que, nesses casos excepcionais, deve preponderar a necessidade de garantir a efetividade da prestação da tutela jurisdicional de urgência, a fim de preservar o direito à liberdade, tarefa a ser desempenhada caso a caso.
+Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior, suprimindo a competência da Corte a quo, subvertendo a regular ordem do processo.
+No caso, não há na decisão ora impugnada, que faço juntar aos autos, ilegalidade patente que autorize a mitigação da Súmula n.º 691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados deste Superior Tribunal de Justiça.
+(...)
+Sem embargo das ponderações lançadas pela Impetrante, reserva-se, portanto, primeiramente ao Tribunal a quo a análise meritória, ventilada no habeas corpus originário, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte Estadual, mormente se o writ está sendo regularmente processado.
+Sobretudo na presente hipótese - onde se pretende o trancamento de ação penal recém iniciada, eventual constrangimento ilegal decorrente da negativa da ordem pretendida pela Corte Estadual poderá, sem qualquer prejuízo ao Paciente, ser oportunamente discutida nesse Superior Tribunal de Justiça.
+Nesse diapasão, mormente porque não se constata o periculum in mora, descabe suprimir instância para adentrar prematuramente no mérito da impetração, hipótese excepcionalíssima, adstrita aos casos em que, de plano e estreme de dúvidas, constatar-se a ilegalidade do ato coator”.
+
+2. Pois bem, o impetrante reitera, aqui, a tese de que o caso é de trancamento da ação penal a que responde a paciente. O que faz, em suma, sob as alegações de que: a) a denúncia não encontra base empírica nos elementos indiciários até então apurados; b) as condutas narradas na inicial acusatória são atípicas; c) a denúncia padece de vício formal incontornável, pois inepta e carecedora de justa causa.
+3. Feito este breve relato da causa, decido. Fazendo-o, acentuo que é pacífica a jurisprudência deste STF no sentido da inadmissibilidade de impetração sucessiva de habeas corpus, sem o julgamento definitivo do writ anteriormente impetrado (cf. HC 79.776, Rel. Min. Moreira Alves; HC 76.347-QO, Rel. Min. Moreira Alves; HC 79.238, Rel. Min. Moreira Alves; HC 79.748, Rel. Min. Celso de Mello; e HC 79.775, Rel. Min. Maurício Corrêa). Jurisprudência, essa, que foi sumulada no verbete nº 691, segundo o qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+4. É certo que tal jurisprudência comporta relativização, quando de logo avulta que o cerceio à liberdade de locomoção do paciente decorre de ilegalidade ou de abuso de poder (inciso LXVIII do art. 5º da CF/88). Mas não me parece ser este o caso dos autos. Caso em que a autoridade apontada como coatora negou seguimento ao pedido por entender ausente qualquer excepcionalidade que justificasse o abrandamento da Súmula 691/STF. A afastar, neste exame sumário dos autos, a alegação de que se trata de uma decisão teratológica.
+5. Não é só: tenho que incide, no caso, a pacífica jurisprudência deste Supremo Tribunal Federal. Jurisprudência no sentido de que o trancamento da ação penal, pela via processualmente acanhada do habeas corpus, é medida excepcional. Medida que só é de ser adotada, então, quando de imediato sobressai ilegalidade ou abuso de poder. Isto é, quando os fatos narrados na denúncia não consubstanciam crime, quando ocorrente a prescrição, ou quando se constatar defeito de forma, considerada a peça inicial acusatória (HC 86.786, Rel. Min. Carlos Ayres Britto; HC 84.841, Rel. Min. Marco Aurélio). O que, em linha de princípio, também não se evidencia, neste exame provisório da causa.
+6. À derradeira, averbo que a pretensão do acionante em demonstrar a inocorrência dos delitos de quadrilha e de estelionato é matéria que não encontra espaço na verdadeira via de atalho em que consiste a ação constitucional do habeas corpus. Garantia constitucional que pressupõe, para o seu adequado manejo, uma ilegalidade ou um abuso de poder tão flagrante que pode ser revelado de pronto; isto é, sem a necessidade de minucioso exame das provas contidas nos autos (inciso LXVIII do art. 5º da Magna Carta Federal). A dificultar a superação do óbice da Súmula 691 do STF e recomendar que se aguarde o pronunciamento definitivo do Tribunal de Justiça do Estado do Rio de Janeiro e do Superior Tribunal de Justiça sobre o mérito da controvérsia.
+Isso posto, nego seguimento ao habeas corpus e determino o seu arquivamento (§ 1º do artigo 21 do RI/STF).
+Publique-se.
+Brasília, 23 de junho de 2009.
+
+Ministro CARLOS AYRES BRITTO
+Relator
+
+1
+
+1
