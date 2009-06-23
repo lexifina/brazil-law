@@ -1,0 +1,24 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE.
+
+1.  O Tribunal Superior do Trabalho negou acolhida a pedido formulado em recurso ordinário, mantendo a conclusão em torno da improcedência de pedido formulado em ação rescisória. Eis o resumo do julgado (folhas 123 e 124):
+
+RECURSO ORDINÁRIO. AÇÃO RESCISÓRIA. DEFERIMENTO DE LICENÇA-PRÊMIO E COMPLEMENTAÇÃO DE APOSENTADORIA. PREVISÃO EM LEI DO ESTADO DE SÃO PAULO (4.819/58). COMPETÊNCIA MATERIAL DA JUSTIÇA DO TRABALHO. O pedido de extensão de benefícios contidos em lei Estadual, notadamente aquele concernente à futura complementação de aposentadoria a ser pago com recursos do poder público, teve como causa um contrato de trabalho regido pelas disposições da CLT, fato que, à luz do art. 114 da Constituição Federal de 1988, na redação vigente à época em que apreciado o feito, fixa a competência desta Justiça Especializada. A demanda não restou decidida sob o enfoque específico das normas contidas nos artigos 1º da Lei 7.730/89, 5º, II e XXXVI, 22, I, e 37, XVI e XVII, da CF, de sorte que o pedido de corte rescisório, no particular, encontra óbice na Súmula 298 do TST. O vício de ausência de fundamentação capaz de macular a decisão judicial ocorre quando o julgador não expõe os motivos pelos quais acolhe ou rejeita os pedidos formulados. Na hipótese, a sentença rescindenda, ainda que de modo sucinto, foi bem clara ao afirmar que estava deferindo as vantagens pleiteadas porque elas foram estendidas ao então Reclamante mediante norma interna da Empresa, que aderiu, de modo irrevogável, ao seu contrato de trabalho. Cumprida, pois, a exigência do art. 93, IX, da CF/88, afasta-se a violação argüida. O art. 460 do Código de Processo Civil proíbe a condenação do réu em quantidade “superior ou em objeto diverso do que lhe foi demandado” bem como veda ao juiz proferir sentença de natureza diferente da que foi pedida, sendo certo que nenhuma dessas hipóteses ocorreu na Reclamação Trabalhista, já que o juiz, no particular, ao deferir os pedidos, reportou-se à inicial, condenando a Empresa a satisfazer os pedidos de letras “a”, “b” e “c” ali contidos. Dito de outro modo, tendo integrado o decisum a parte contida na exordial relativa aos pedidos, tem-se que o julgado jamais poderia ser atingido pela pecha a ele imputada, visto que, apesar de não ser tecnicamente a forma mais correta de se deferir pedidos, sempre limita a execução aos termos da inicial. Doutro lado, a forma como será executado o julgado, no caso, deverá ser questionada na liquidação de sentença, em que se fará a interpretação do que restou decidido. A invocação de violação da Lei 4.819/58 do Estado de São Paulo não impulsiona o acolhimento do pedido de corte rescisório à míngua de indicação expressa e específica dos seus dispositivos que entende violados.
+ERRO DE FATO. ENQUADRAMENTO DO ENTÃO RECLAMANTE NAS DISPOSIÇÕES DA LEI ESTADUAL 4.819/58. NÃO-PREENCHIMENTO DE REQUISITOS. DATA DE ADMISSÃO NOS QUADROS FUNCIONAIS DA RECLAMADA. EXISTÊNCIA DE CONTROVÉRSIA E PRONUNCIAMENTO JUDICIAL. Do enquadramento do então Reclamante na Lei Estadual que criou benefícios para empregados públicos dependia a procedência dos pedidos de concessão de licença-prêmio e de direito à complementação de aposentadoria, de modo que sobre a questão houve intensa controvérsia e pronunciamento, tendo o julgador afirmado categoricamente a presença dos pressupostos autorizadores do acolhimento da pretensão, destacando, inclusive, o fato de que foi a própria Autora quem “admitiu extensão de direitos não só a seus prestadores de serviços diretos, como também aos empregados admitidos por diversas interpostas, dentre elas a contratante do autor” (fl. 221).
+Recurso Ordinário a que se nega provimento.
+
+ O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+
+ A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+
+ Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+
+2.  Conheço do agravo e o desprovejo.
+
+3.  Publiquem.
+
+Brasília, 23 de junho de 2009.
+
+Ministro MARCO AURÉLIO
+Relator
