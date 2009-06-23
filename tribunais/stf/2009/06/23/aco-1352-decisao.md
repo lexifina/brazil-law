@@ -1,0 +1,28 @@
+DECISÃO : Trata-se de ação cível originária ajuizada contra o Município de Vitória/ES pela Empresa Brasileira de Infra-Estrutura Aeroportuária - Infraero.
+Narrou a empresa-autora sofrer constantes autuações lavradas pelo município-réu em razão do não recolhimento do Imposto sobre Serviços de Qualquer Natureza - ISSQN. Ainda segundo a empresa-autora, o município-réu exige-lhe o cumprimento de diversas obrigações acessórias, que redundam na manutenção de rigorosa escrituração fiscal.
+Segundo argumentou-se, a atividade desenvolvida pela Infraero é de interesse público, sem o predomínio de atividade econômica (implantação, administração, operação e exploração industrial e comercial da infra-estrutura aeroportuária - Lei 5.862/1972). Por se tratar de atividade estatal desenvolvida fora do regime de concorrência que deve reger as relações de cunho econômico (art. 173 da Constituição), os serviços prestados pela empresa-autora seriam, em seu entender, imunes à tributação (imunidade recíproca - art. 150, VI, a da Constituição).
+
+O pedido para antecipação da tutela foi parcialmente deferido (Fls. 225-228).
+Foram interpostos dois recursos de agravo regimental, pela empresa-autora (Fls. 240-246) e pelo município-réu (Fls. 271-286).
+O município-réu apresentou contestação (Fls. 325-347).
+
+É o relatório.
+
+Decido.
+Em exame mais aprofundado da matéria, considero que esta Corte não tem competência originária para conhecer dos pedidos formulados pela empresa-autora.
+Dispõe o art. 102, I, f da Constituição que compete originariamente ao Supremo Tribunal Federal processar e julgar “as causas e os conflitos entre a União e os Estados, a União e o Distrito Federal, ou entre uns e outros, inclusive as respectivas entidades da administração indireta”.
+No caso em exame, a empresa-autora alega ser instrumentalidade da União, no exercício da competência que é atribuída ao ente federado para manutenção dos serviços de infraestrutura aeroportuária (art. 21, XII, c da Constituição). Ocorre que a ação foi ajuizada contra município, para discussão sobre a validade ou não da tributação com a cobrança de impostos.
+O texto do art. 102, I, f da Constituição não menciona os municípios entre as entidades cujos litígios com outros entes políticos de direito público interno evocam a competência originária desta Corte.
+É certo que, por ocasião do julgamento da ACO 765-QO (rel. Min. MARCO AURÉLIO, red. p/ acórdão: Min. EROS GRAU, Tribunal Pleno, julgado em 01/06/2005, DJe-211 DIVULG 06-11-2008 PUBLIC 07-11-2008 EMENT VOL-02340-01 PP-00141), esta Corte, por maioria, considerou competente o Supremo Tribunal Federal para conhecer de litígio a envolver a Empresa Brasileira de Correios e Telégrafos – ECT e o Estado do Rio de Janeiro, sobre o alcance da imunidade tributária recíproca. No caso em exame, contudo, a pretensão da empresa-autora se volta contra município.
+Ademais, a orientação desta Corte tende a considerar a intensidade do risco ao pacto federativo, causado pela lide, para examinar a atração ou não da demanda ao âmbito de competência originária do Supremo Tribunal Federal (cf. ACO 518-QO, Relator(a): Min. JOAQUIM BARBOSA, Tribunal Pleno, julgado em 24/06/2004, DJ 20-08-2004 PP-00036 EMENT VOL-02160-01 PP-00015 RTJ VOL-00191-03 PP-00771; ACO 641 AgR, Relator(a): Min. CELSO DE MELLO, Tribunal Pleno, julgado em 24/04/2003, DJ 03-06-2005 PP-00004 EMENT VOL-02194-01 PP-00007 LEXSTF v. 27, n. 320, 2005, p. 19-28 RTJ VOL-00194-03 PP-00743; ACO 379 QO, Relator(a): Min. ILMAR GALVÃO, Relator(a) p/ Acórdão: Min. GILMAR MENDES, Tribunal Pleno, julgado em 29/05/2003, DJ 05-09-2003 PP-00030 EMENT VOL-02122-01 PP-00022; ACO 622 QO, Relator(a): Min. ILMAR GALVÃO, Tribunal Pleno, julgado em 07/11/2007, DJe-026 DIVULG 14-02-2008 PUBLIC 15-02-2008 DJ 15-02-2008 EMENT VOL-02307-02 PP-00216; ACO 765 QO, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. EROS GRAU, Tribunal Pleno, julgado em 01/06/2005, DJe-211 DIVULG 06-11-2008 PUBLIC 07-11-2008 EMENT VOL-02340-01 PP-00141; ACO 485, Relator(a): Min. CARLOS BRITTO, Tribunal Pleno, julgado em 11/03/2004, DJ 02-04-2004 PP-00007 EMENT VOL-02146-01 PP-00017 RTJ VOL 00192-01 PP-00025).
+Em especial, no julgamento da ACO 641-AgR, esta Corte considerou que o “Supremo Tribunal Federal não dispõe de competência originária para processar e julgar causas instauradas, contra Estado-membro, por iniciativa de autarquia federal, especialmente se esta dispuser de "estrutura regional de representação no território estadual respectivo" (RTJ 133/1059), pois, em tal hipótese, revela-se inaplicável a norma inscrita no art. 102, I, ´f´, da Constituição, eis que ausente qualquer situação capaz de introduzir instabilidade no equilíbrio federativo ou de ocasionar ruptura da necessária harmonia entre as entidades integrantes do Estado Federal” (ACO 641 AgR, Relator(a): Min. CELSO DE MELLO, Tribunal Pleno, julgado em 24/04/2003, DJ 03-06-2005 PP-00004 EMENT VOL-02194-01 PP-00007 LEXSTF v. 27, n. 320, 2005, p. 19-28 RTJ VOL-00194-03 PP-00743).
+Confiram-se, ainda, a ACO 1.364-TA (rel. Min. CELSO DE MELLO, julgado em 06/05/2009, publicado em DJe-087 DIVULG 12/05/2009 PUBLIC 13/05/2009), a ACO 1.351 (rel. Min. ELLEN GRACIE, julgado em 16/03/2009, publicado em DJe-054 DIVULG 20/03/2009 PUBLIC 23/03/2009) e a ACO 1.353 (rel. min. Ricardo Lewandowski, decisão monocrática, DJe 56, divulgado em 24.03.2009).
+Ante o exposto, não conheço desta ação cível originária, por ausência de competência originária do Supremo Tribunal Federal (art. 21, § 1º do RISTF). Fica cassada a antecipação de tutela outrora deferida. Fica prejudicado o exame dos agravos regimentais interpostos.
+Publique-se.
+
+Brasília, 23 de junho de 2009.
+
+Ministro JOAQUIM BARBOSA
+Relator
+
+1
