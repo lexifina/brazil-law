@@ -1,0 +1,2 @@
+Altera o art. 36 da Lei nº 5.991, de 17 de dezembro de 1973, que dispõe sobre o controle sanitário do comércio de drogas, medicamentos, insumos farmacêuticos e correlatos, para proibir a captação de receitas contendo prescrições magistrais e oficinais por outros estabelecimentos de comércio de medicamentos que não as farmácias e vedar a intermediação de outros estabelecimentos.
+O PRESIDENTE DA REPÚBLIC Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
