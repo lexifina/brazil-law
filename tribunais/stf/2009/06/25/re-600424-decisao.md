@@ -1,0 +1,14 @@
+DECISÃO: Discute-se no presente recurso extraordinário a constitucionalidade da cobrança da contribuição do salário-educação no período anterior à vigência da Lei n. 9.424/96.
+2.  O Tribunal de origem decidiu que essa cobrança --- efetuada com respaldo no decreto-lei n. 1.422/75 --- é constitucional.
+3.  A recorrente alega violação do disposto no artigo 21, caput e § 2º, inciso I, da CB/67-69, bem como nos artigos 25 e 34, § 5º, do ADCT.
+4.  O recurso não merece prosperar. O Supremo, no julgamento do AI n. 487.654-AgR, Relator o Ministro Carlos Velloso, DJ de 7.5.04, fixou o seguinte entendimento:
+
+“EMENTA: CONSTITUCIONAL. SALÁRIO-EDUCAÇÃO: LEGITIMIDADE DE SUA COBRANÇA ANTES E APÓS A C.F./88. I. - O Supremo Tribunal Federal, pelo seu Plenário, julgando procedente pedido formulado em ação declaratória de constitucionalidade, declarou a ‘constitucionalidade, com força vinculante, com eficácia erga omnes e com efeito ex tunc, do art. 15, § 1º, incisos I e II, e § 3º da Lei nº 9.424, de 24/12/96’ (ADC 3-DF, Ministro Nelson Jobim, "D.J." de 14.12.99). Frise-se, ainda, que o Supremo Tribunal Federal, pelo seu Plenário, não conheceu do recurso extraordinário, interposto pelo contribuinte, que versava a respeito da cobrança da contribuição do salário-educação posteriormente à Lei 9.424/96 (RE 272.872/RS, Relator Ministro Ilmar Galvão, D.J. de 19.4.2001). Finalmente, em 17.10.2001, o Supremo Tribunal Federal, pelo seu Plenário, não conheceu do recurso extraordinário, interposto pelo contribuinte, em que se questionava a cobrança da citada contribuição na vigência da Constituição Federal de 1988, mas em período anterior à Lei 9.424/96. É dizer, o Supremo Tribunal Federal, no citado julgamento, deu pela constitucionalidade do DL 1.422/75, art. 1º, §§ 1º e 2º, e pela recepção, pela C.F./88, da alíquota de 2,5% fixada pelo Decreto 87.043, de 22.3.82, que perdurou até ter vigência a Lei 9.424, de 24.12.96 (RE 290.079/SC, Relator Ministro Ilmar Galvão). II. - Caso em que deve ser a agravante condenada ao pagamento de multa: CPC, art. 557, § 2º, redação da Lei 9.756/98. III. - Agravo não provido”.
+
+    Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+      Publique-se.
+Brasília, 25 de junho de 2009.
+Ministro Eros Grau
+- Relator -
+
+1
