@@ -1,0 +1,2 @@
+Art. 13. Os requisitos para a regularização fundiária dos imóveis de até 4 (quatro) módulos fiscais serão averiguados por meio de declaração do ocupante, sujeita a responsabilização nas esferas penal, administrativa e civil, dispensada a vistoria prévia.
+Parágrafo único. É facultado ao Ministério do Desenvolvimento Agrário ou, se for o caso, ao Ministério do Planejamento, Orçamento e Gestão determinar a realização de vistoria de fiscalização do imóvel rural na hipótese prevista no caput deste artigo.

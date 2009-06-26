@@ -1,0 +1,1 @@
+Art. 35. A implementação das disposições desta Lei será avaliada de forma sistemática por comitê instituído especificamente para esse fim, assegurada a participação de representantes da sociedade civil organizada que atue na região amazônica, segundo composição e normas de funcionamento definidas em regulamento.

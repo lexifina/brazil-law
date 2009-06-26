@@ -1,0 +1,1 @@
+Art. 36. Os Estados da Amazônia Legal que não aprovarem, mediante lei estadual, o respectivo Zoneamento Ecológico-Econômico - ZEE no prazo máximo de 3 (três) anos, a contar da entrada em vigor desta Lei, ficarão proibidos de celebrar novos convênios com a União, até que tal obrigação seja adimplida.

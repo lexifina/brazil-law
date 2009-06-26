@@ -1,0 +1,2 @@
+Art. 1º Esta Lei dispõe sobre a regularização fundiária das ocupações incidentes em terras situadas em áreas da União, no âmbito da Amazônia Legal, definida no art. 2º da Lei Complementar nº 124, de 3 de janeiro de 2007, mediante alienação e concessão de direito real de uso de imóveis.
+Parágrafo único. Fica vedado beneficiar, nos termos desta Lei, pessoa natural ou jurídica com a regularização de mais de uma área ocupada.

@@ -1,0 +1,1 @@
+Art. 27. A doação e a concessão de direito real de uso a um mesmo Município de terras que venham a perfazer quantitativo superior a 2.500ha (dois mil e quinhentos hectares) em 1 (uma) ou mais parcelas deverão previamente ser submetidas à aprovação do Congresso Nacional.

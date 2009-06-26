@@ -1,0 +1,2 @@
+Art. 11. Na ocupação de área contínua de até 1 (um) módulo fiscal, a alienação e, no caso previsto no § 4º do art. 6º desta Lei, a concessão de direito real de uso dar-se-ão de forma gratuita, dispensada a licitação, ressalvado o disposto no art. 7º desta Lei.
+Parágrafo único. O registro decorrente da alienação ou concessão de direito real de uso de que trata este artigo será realizado de ofício pelo Registro de Imóveis competente, independentemente de custas e emolumentos.

@@ -1,0 +1,1 @@
+Art. 24. Quando necessária a prévia arrecadação ou a discriminação da área, o Incra ou, se for o caso, o Ministério do Planejamento, Orçamento e Gestão procederá à sua demarcação, com a cooperação do Município interessado e de outros órgãos públicos federais e estaduais, promovendo, em seguida, o registro imobiliário em nome da União.
