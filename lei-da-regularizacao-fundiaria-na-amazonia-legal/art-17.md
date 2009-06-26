@@ -1,0 +1,4 @@
+Art. 17. O valor do imóvel fixado na forma do art. 12 será pago pelo beneficiário da regularização fundiária em prestações amortizáveis em até 20 (vinte) anos, com carência de até 3 (três) anos.
+§ 1º Sobre o valor fixado incidirão os mesmos encargos financeiros adotados para o crédito rural oficial, na forma do regulamento, respeitadas as diferenças referentes ao enquadramento dos beneficiários nas linhas de crédito disponíveis por ocasião da fixação do valor do imóvel.
+§ 2º Poderá ser concedido desconto ao beneficiário da regularização fundiária, de até 20% (vinte por cento), no pagamento à vista.
+§ 3º Os títulos emitidos pelo Incra entre 1º de maio de 2008 e 10 de fevereiro de 2009 para ocupantes em terras públicas federais na Amazônia Legal terão seus valores passíveis de enquadramento ao previsto nesta Lei, desde que requerido pelo interessado e nos termos do regulamento.

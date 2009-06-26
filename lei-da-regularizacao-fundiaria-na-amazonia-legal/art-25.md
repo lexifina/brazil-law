@@ -1,0 +1,2 @@
+Art. 25. No caso previsto no § 2º do art. 21 desta Lei, o Ministério do Planejamento, Orçamento e Gestão lavrará o auto de demarcação.
+Parágrafo único. Nas áreas de várzeas, leitos de rios e outros corpos d'água federais, o auto de demarcação será instruído apenas pela planta e memorial descritivo da área a ser regularizada, fornecidos pelo Município, observado o disposto no inciso I do § 2º do art. 18-A do Decreto-Lei nº 9.760, de 5 de setembro de 1946.

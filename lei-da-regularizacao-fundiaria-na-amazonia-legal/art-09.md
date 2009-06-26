@@ -1,0 +1,2 @@
+Art. 9º A identificação do título de domínio destacado originariamente do patrimônio público será obtida a partir de memorial descritivo, assinado por profissional habilitado e com a devida Anotação de Responsabilidade Técnica - ART, contendo as coordenadas dos vértices definidores dos limites do imóvel rural, georreferenciadas ao Sistema Geodésico Brasileiro.
+Parágrafo único. O memorial descritivo de que trata o caput será elaborado nos termos do regulamento.

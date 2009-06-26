@@ -1,0 +1,1 @@
+Art. 34. O Ministério do Desenvolvimento Agrário e o Ministério do Planejamento, Orçamento e Gestão criarão sistema informatizado a ser disponibilizado na rede mundial de computadores - internet, visando a assegurar a transparência sobre o processo de regularização fundiária de que trata esta Lei.
