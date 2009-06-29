@@ -1,0 +1,20 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. COBERTURA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DE ANÁLISE DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DESTE SUPREMO TRIBUNAL AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O Tribunal de Justiça do Rio Grande do Sul julgou apelação em ação ordinária, nos termos seguintes:
+“Apelação cível. Ação ordinária de anulação e cumprimento de cláusula contratual cumulada com danos morais. Plano de saúde. Negativa de cobertura de hemodiálise. Agravo retido. Ilegitimidade ‘ad causam’. Desacolhimento, porque o beneficiário do contrato de plano de saúde tem legitimidade para discutir suas cláusulas. Preliminar. Cerceamento de defesa inocorrente. Mérito. Aplicação do CDC aos contratos de seguro. Contrato realizado antes da vigência da Lei nº 9.656/98, com periódicas renovações. Necessidade de adaptação do contrato à legislação pertinente à matéria, segundo a qual não pode ser excluída da cobertura o tratamento de hemodiálise. A operadora de plano de saúde não pratica ato ilícito gerador de dano moral, por si só, ao negar a cobertura de gastos decorrentes de hemodiálise, segundo sua interpretação contratual. Agravo retido desprovido; preliminar rejeitada e apelo parcialmente provido” (fl. 253).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência, na espécie, das Súmulas 279 e 454 deste Supremo Tribunal e a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta.
+4. A Agravante argumenta que, “ao contrário do entendimento da r. decisão agravada, portanto, resta evidente que o acórdão proferido pelo Tribunal Gaúcho violou frontalmente a norma constitucional constante do art. 5º, XXXVI, da Carta Magna, na medida em que modificou o contrato firmado pelas partes, que obedecia a legislação vigente e vinha sendo cumprido pelas partes, de maneira que é evidente a necessidade de reforma da r. decisão agravada para o fim de que seja determinado o seguimento do apelo especial equivocadamente obstado. De outra banda, igualmente equivocada a alegação da douta decisão recorrida de que o dispositivo constitucional violado não teria sido objeto de análise e prequestionamento, o que faria incidir na espécie o verbete da súmula n. 282 do STF” (fls. 7-8).
+No recurso extraordinário, alega que o Tribunal a quo teria afrontado o art. 5º, inc. XXXVI, da Constituição.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicável à espécie, do contrato celebrado entre as partes e do conjunto probatório constante dos autos. Assim, a alegada afronta à Constituição, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incidem, na espécie, as Súmulas 279 e 454 deste Supremo Tribunal.
+Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. DIREITO DO CONSUMIDOR. CONTRATO DE PLANO DE SAÚDE. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS (SÚMULAS 279 E 454). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 722.542-ED, de minha relatoria, Primeira Turma, DJe 27.2.2009 - grifei).
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, não divergiu da jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da parte agravante.
+6. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 29 de junho de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
