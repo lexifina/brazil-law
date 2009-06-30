@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário que tem como violados os arts. 5º, II e XXXVI, e 7º, XXIX, da Constituição federal.
+O Tribunal a quo negou provimento ao agravo de instrumento em recurso de revista ao concluir que (a) a Justiça do Trabalho é competente para apreciar controvérsias referentes à multa de 40% sobre os depósitos do FGTS e os expurgos inflacionários; (b) que o empregador é responsável pelo pagamento da diferença da multa de 40% sobre os depósitos do FGTS decorrente da atualização monetária em face dos expurgos inflacionários; (c) que a transação efetuada através do PDV (plano de desligamento voluntário) somente alcança as parcelas e valores expressamente constantes do recibo (cf. OJ 270/SBDI-1/TST); e (d) que o direito ao pagamento das diferenças ao acréscimo do FGTS é mera conseqüência da Lei Complementar 110/2001.
+É o relatório. Decido.
+A Segunda Turma do Supremo Tribunal Federal fixou entendimento sobre o tema:
+“Trabalhador. Plano de demissão voluntária. Controvérsia adstrita à interpretação de matéria processual. Debate restringido ao plano infraconstitucional. Regimental não provido.” (AI 416.471-AgR, rel. min. Nelson Jobim, DJ de 04.04.2003.)
+No mesmo sentido, cf. as decisões monocráticas proferidas nos AI 468.022 (rel. min. Gilmar Mendes, DJ de 04.06.2004) e 473.234 (rel. min. Sepúlveda Pertence, DJ de 21.06.2004).
+Visto que a matéria em análise demandaria exame prévio da legislação infraconstitucional, a ofensa ao texto constitucional, se existisse, seria indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário, por aplicação da Súmula 636 desta Corte.
+Por outro lado, o recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 7º, XXIX, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Ademais, afasto a alegação de afronta ao contido nos arts. 5o, II e XXXVI, da Constituição federal, tal como veiculada no apelo extraordinário. É que a discussão acerca da responsabilidade do empregador pelo pagamento da diferença na multa compensatória de 40% incidente sobre as diferenças decorrentes dos expurgos inflacionários não creditados nas contas vinculadas do FGTS situa-se no âmbito da legislação infraconstitucional, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 580.313-AgR, rel. min. Sepúlveda Pertence, DJ 04.08.2006; AI 585.522-AgR, rel. min. Sepúlveda Pertence, DJ 04.08.2006; AI 566.638-AgR, rel. min. Cezar Peluso, DJ 09.06.2006; AI 585.987, rel. min. Sepúlveda Pertence, DJ 10.04.2006; AI 606.175, rel. min. Ricardo Lewandowski, DJ 26.10.2006; AI 585.610, rel. min. Carlos Britto, DJ 03.04.2006; AI 546.019, rel. min. Celso de Mello, DJ 15.06.2006.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 30 de junho de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
