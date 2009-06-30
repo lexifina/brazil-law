@@ -1,1 +1,1 @@
-Art. 1º-F. Os juros de mora, nas condenações impostas à Fazenda Pública para pagamento de verbas remuneratórias devidas a servidores e empregados públicos, não poderão ultrapassar o percentual de seis por cento ao ano.
+Art. 1º-F. Nas condenações impostas à Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, remuneração do capital e compensação da mora, haverá a incidência uma única vez, até o efetivo pagamento, dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
