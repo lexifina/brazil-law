@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de mandado de segurança, com pedido de medida liminar, impetrado contra deliberação que o Conselho Nacional de Justiça proferiu nos autos do Procedimento de Controle Administrativo nº 200810000008454, Rel. Cons. JORGE ANTÔNIO MAURIQUE, consubstanciada em acórdão assim ementado (fls. 303/304):
+“RECURSO ADMINISTRATIVO NO PROCEDIMENTO DE CONTROLE ADMINISTRATIVO – INTERDIÇÃO DE ESTABELECIMENTOS PRISIONAIS – NATUREZA JURÍDICA – COMPETÊNCIA – ENFOQUE MACRO DO PROBLEMA PRISIONAL – IMPROVIMENTO.
+I. A decisão que decreta a interdição de estabelecimentos prisionais é de natureza administrativa e não jurisdicional, não sendo desafiável por meio do recurso de agravo em execução (art. 197 da LEP), consoante entendimento do STJ (MC nº 5220/MG e RMS nº 4059/RS). Analogia com a natureza jurídica da decisão que transfere presos, igualmente consubstanciadora de ato administrativo (STF: HC nº 64347/SP e HC nº 67221/PR; STJ: CC nº 40326/RJ).
+II. Sendo administrativo, submete-se ao controle hierárquico da Administração e compete ao juízo da execução criminal, desde que observadas as formalidades e procedimentos, caso regulamentados, do Tribunal de origem. Exegese conjugada dos arts. 65 e 66, VIII, da LEP.
+III. O enfoque a ser dado ao problema da superpopulação prisional transcende os limites pontuais em cada caso, porquanto é macro, sistêmico, mundial e complexo. Não pode ser abordado isoladamente, mas sim receber tratamento conjunto de todos os órgãos setoriais envolvidos dos Poderes Judiciário e Executivo, por meio dos canais competentes, sob pena de usurpação da competência originária para formulação das políticas públicas de Administração Penitenciária, ocasionando violação ao princípio da separação dos Poderes (art. 2º da CF/88) e à cláusula da reserva do possível (APDF nº 45).
+IV. A situação em tela trata à toda evidência de hipótese de interdição, independentemente do ‘nomen juris’ que seja conferido pela requerente (‘regularização do funcionamento da unidade prisional’), porquanto o resultado prático é rigorosamente o mesmo que o resultado objurgado no julgamento citado.
+V. Recurso administrativo a que se conhece, por tempestivo, mas se nega provimento.” (grifei)
+O exame dos fundamentos do ato ora apontado como coator, emanado do Conselho Nacional de Justiça, parece descaracterizar – ao menos em juízo de estrita delibação - a plausibilidade jurídica da pretensão cautelar deduzida nesta sede processual.
+É importante rememorar, neste ponto, que o deferimento da medida liminar, resultante do concreto exercício do poder cautelar geral outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos pressupostos referidos no art. 7º, II, da Lei nº 1.533/51: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+Sem que concorram esses dois requisitos - que são necessários, essenciais e cumulativos -, não se legitima a concessão da medida liminar, consoante enfatiza a jurisprudência do Supremo Tribunal Federal:
+“Mandado de segurança. Liminar. Embora esta medida tenha caráter cautelar, os motivos para a sua concessão estão especificados no art. 7º, II da Lei nº 1.533/51, a saber: a) relevância do fundamento da impetração; b) que do ato impugnado possa resultar a ineficácia da medida, caso seja deferida a segurança.
+Não concorrendo estes dois requisitos, deve ser denegada a liminar.”
+(RTJ 112/140, Rel. Min. ALFREDO BUZAID - grifei)
+Sendo assim, em juízo de estrita delibação, e sem prejuízo de ulterior reexame da pretensão mandamental deduzida na presente sede processual, indefiro o pedido de medida liminar.
+2. Ouça-se a douta Procuradoria-Geral da República.
+Publique-se.
+Brasília, 1º de julho de 2009.
+Ministro CELSO DE MELLO
+Relator
