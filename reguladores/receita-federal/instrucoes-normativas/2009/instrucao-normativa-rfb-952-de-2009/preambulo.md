@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 952, de 2 de julho de 2009
+Dispõe sobre a fiscalização, o despacho e o controle aduaneiros de bens em Zonas de Processamento de Exportação (ZPE).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 20 da Lei nº 11.508, de 20 de julho de 2007, no parágrafo único do art. 313 do Decreto nº 6.759, de 5 de fevereiro de 2009, e nos arts. 2º, 3º, 4º e 13 do Decreto nº 6.814, de 6 de abril de 2009, resolve:
