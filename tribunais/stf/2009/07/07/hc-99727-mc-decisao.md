@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de pedido de medida liminar em habeas corpus impetrado por LUIZ CARLOS DA SILVA NETO em favor de JORGE FERREIRA.
+Nestes autos, a defesa questiona acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça (STJ) no Habeas Corpus nº 100.665/RJ, de relatoria do ministro Jorge Mussi (DJ 22.6.2009). Eis o teor da ementa do acórdão impugnado:
+“HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS. CRIMES COMETIDOS ANTES DA EDIÇÃO DA LEI 8.930 / 94. DECRETO 4.495 / 02. INDULTO. IMPOSSIBILIDADE. NATUREZA DO DELITO AFERIDA NO MOMENTO DA ENTRADA EM VIGOR DO DIPLOMA PRESIDENCIAL. ORDEM DENEGADA.
+1. A concessão do indulto é vedada ao condenado pela prática de crime considerado hediondo, mesmo que perpetrado em data anterior a sua adjetivação mais gravosa, porquanto se trata de ato discricionário do Presidente da República, a quem compete a definição e a extensão do benefício, sem que a providência adotada configure violação do princípio constitucional da irretroatividade da lei penal mais gravosa.
+2. É assente na jurisprudência deste Tribunal o entendimento no sentido de que a natureza do ilícito é aferida no momento da entrada em vigor do Diploma Presidencial.
+3. A vedação expressa contida no art. 7°, I, do Decreto n. 4.495 / 02, no sentido de não ser possível a concessão do indulto aos condenados por crimes hediondos, mostra-se perfeitamente aplicável à espécie.
+4. Ordem denegada.”
+O paciente foi condenado como incurso nas penas do art. 121, § 2º, incisos I e IV, do Código Penal, por 4 vezes, à pena de 53 anos de reclusão em regime inicialmente fechado, por crime praticado em 11 de maio de 1991 (fls. 12/22), estando preso desde 15 de maio daquele ano (fl. 35).
+Em 21 de fevereiro de 1995, sua Apelação Criminal foi desprovida pela 3ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro (fls. 23/24).
+Em 3 de marco de 2004, o Juízo da Vara de Execuções Penais deferiu o requerimento de indulto formulado pelo apenado, com fundamento no Decreto nº 4.495/2002 (fls. 91/95):
+“Deste modo, conclui-se que o injusto praticado pelo apenado não possui natureza hedionda, uma vez que o mesmo foi praticado em 11/05/1991 e, malgrado a lei de crimes hediondos tenha entrado em vigor no ano de 1990, o mencionado crime só passou a possuir esta natureza em 1994 com o surgimento da Lei 8930”. (fl. 93)
+Contra essa decisão, o Ministério Público estadual interpôs agravo em execução, que foi provido pela 3ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro em 21 de setembro de 2004, cassando-se a decisão concessiva de indulto (fls. 105/107).
+Impetrou-se habeas corpus perante o Superior Tribunal de Justiça, denegado à unanimidade pela Quinta Turma daquela Corte (fls. 135/142).
+Em face dessa última decisão, a defesa impetrou o presente habeas corpus perante o Supremo Tribunal Federal, sustentando a impossibilidade de aplicação do art. 7º, inciso I, do Decreto nº 4.495/2002 aos condenados por crime praticado antes da entrada em vigor da lei definidora do crime como hediondo.
+Passo a decidir tão-somente o pedido de medida liminar.
+Registro que a Primeira Turma, no julgamento do RE nº 452.991/RS, entendeu que é aplicável o indulto aos crimes hediondos praticados antes do advento da Lei nº 8.072/90, sob pena de violação ao art. 5º, XL, da CF, conforme consta do Informativo nº 541:
+“Por considerar violado o art. 5º, XL, da CF (“a lei penal não retroagirá, salvo para beneficiar o réu;”), a Turma deu provimento a recurso extraordinário para afastar o óbice vislumbrado ao indulto e à comutação de penas a condenado por homicídio qualificado, latrocínio e atentado violento ao pudor cometidos antes do advento da Lei 8.072/90. No caso, a Corte de origem negara, ao recorrente, os citados benefícios previstos no Decreto natalino 4.011/2001 ao fundamento de que a vedação nele disposta abarcaria todos os delitos mencionados na Lei de Crimes Hediondos, independentemente de terem sido praticados antes ou depois da edição dessa mesma lei. De início, salientou-se que não se trataria, no caso, de elucidar a retroação, ou não, do decreto, mas da lei que servira de base para o afastamento do que nele contido. Aduziu-se que, diferentemente do Decreto natalino 2.002/96, que explicitou sua abrangência em relação aos crimes perpetrados anteriormente à vigência da Lei 8.072/90, o decreto envolvido nos autos silenciara sobre essa retroação. Em razão disso, entendeu-se que a retroação da aludida Lei 8.072/90, para alcançar a situação jurídica do recorrente, mostrar-se-ia prejudicial. Determinou-se, por conseguinte, que o juízo da execução proceda a novo exame da espécie sem levar em conta a lei mais gravosa, qual seja, a Lei 8.072/90. (RE 452991/RS, rel. Min. Marco Aurélio, 7.4.2009).”
+O Decreto nº 4.495/2002 não previu a aplicação de suas disposições aos crimes praticados anteriormente à vigência das Leis 8.072/90 e 8.930/94. Assim, na esteira do entendimento referido, viola o art. 5º, XL, da CF a não extensão do benefício do indulto aos condenados por crimes praticados antes de sua definição legal como hediondos.
+No caso dos autos, trata-se de homicídio qualificado (CP, art. 121, § 2º, incisos I e IV) praticado em 1991, sua previsão como crime hediondo ocorreu apenas em 6 de setembro de 1994, com a Lei nº 8.930.
+Resta configurado, portanto, o fumus boni júris necessário à concessão da medida liminar. Da mesma forma, o periculum in mora, consistente no status libertatis et dignitatis do paciente.
+Ante os fundamentos expostos, defiro o pedido de medida liminar para determinar que o paciente aguarde em liberdade o julgamento de mérito do presente habeas corpus.
+Abra-se vista ao Procurador-Geral da República (RI/STF, art. 192).
+Comunique-se.
+Publique-se.
+Brasília, 7 de julho de 2009
+Ministro GILMAR MENDES
+Presidente
+(RISTF, art. 13, VIII)
+1
