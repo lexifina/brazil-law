@@ -1,0 +1,1 @@
+Art. 2º O PMCMV tem como finalidade criar mecanismos de incentivo à produção e à aquisição de novas unidades habitacionais pelas famílias com renda mensal de até 10 (dez) salários mínimos, que residam em qualquer dos Municípios brasileiros.

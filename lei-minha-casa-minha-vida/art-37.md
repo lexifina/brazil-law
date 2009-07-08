@@ -1,0 +1,1 @@
+Art. 37. Os serviços de registros públicos de que trata a Lei nº 6.015, de 31 de dezembro de 1973, observados os prazos e condições previstas em regulamento, instituirão sistema de registro eletrônico.

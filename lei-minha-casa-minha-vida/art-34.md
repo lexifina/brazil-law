@@ -1,0 +1,1 @@
+Art. 34. A concessão da subvenção de equalização de juros obedecerá aos limites e normas operacionais a serem estabelecidos pelo Conselho Monetário Nacional, especialmente no que diz respeito a custos de captação e de aplicação dos recursos.

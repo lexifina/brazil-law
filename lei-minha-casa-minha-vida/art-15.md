@@ -1,0 +1,1 @@
+Art. 15. O Poder Executivo regulamentará o disposto nesta Seção, especialmente no que concerne à definição das diretrizes e condições gerais de operação, gestão, acompanhamento, controle e avaliação do PNHR.
