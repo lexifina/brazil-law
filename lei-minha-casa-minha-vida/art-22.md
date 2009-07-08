@@ -1,0 +1,1 @@
+Art. 22. O FGHab não pagará rendimentos a seus cotistas, assegurando-se a qualquer deles o direito de requerer o resgate total ou parcial de suas cotas, correspondente ao montante de recursos financeiros disponíveis ainda não vinculados às garantias já contratadas, fazendo-se a liquidação com base na situação patrimonial do Fundo.

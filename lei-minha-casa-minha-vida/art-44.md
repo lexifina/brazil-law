@@ -1,0 +1,1 @@
+Art. 44. Os cartórios que não cumprirem o disposto nos arts. 42 e 43 ficarão sujeitos à multa no valor de até R$ 100.000,00 (cem mil reais), bem como a outras sanções previstas na Lei nº 8.935, de 18 de novembro de 1994.
