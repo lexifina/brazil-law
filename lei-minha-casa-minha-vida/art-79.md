@@ -1,0 +1,6 @@
+Art. 79. O art. 2º da Medida Provisória nº 2.197-43, de 24 de agosto de 2001, passa a vigorar com a seguinte redação:
+"Art. 2º Os agentes financeiros do SFH somente poderão conceder financiamentos habitacionais com cobertura securitária que preveja, no mínimo, cobertura aos riscos de morte e invalidez permanente do mutuário e de danos físicos ao imóvel.
+§ 1º Para o cumprimento do disposto no caput, os agentes financeiros, respeitada a livre escolha do mutuário, deverão:
+I - disponibilizar, na qualidade de estipulante e beneficiário, uma quantidade mínima de apólices emitidas por entes seguradores diversos, que observem a exigência estabelecida no caput;
+II - aceitar apólices individuais apresentadas pelos pretendentes ao financiamento, desde que a cobertura securitária prevista observe a exigência mínima estabelecida no caput e o ente segurador cumpra as condições estabelecidas pelo Conselho Nacional de Seguros Privados - CNSP, para apólices direcionadas a operações da espécie.
+§ 2º Sem prejuízo da regulamentação do seguro habitacional pelo CNSP, o Conselho Monetário Nacional estabelecerá as condições necessárias à implementação do disposto no § 1º deste artigo, no que se refere às obrigações dos agentes financeiros." (NR)

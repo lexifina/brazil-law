@@ -1,0 +1,3 @@
+Art. 33. Fica a União autorizada a conceder subvenção econômica ao BNDES, sob a modalidade de equalização de taxas de juros e outros encargos financeiros, especificamente nas operações de financiamento de linha especial para infraestrutura em projetos de habitação popular.
+§ 1º O volume de recursos utilizado para a linha de que dispõe o caput deste artigo não pode superar R$ 5.000.000.000,00 (cinco bilhões de reais).
+§ 2º A equalização de juros de que trata o caput deste artigo corresponderá ao diferencial entre o custo da fonte de captação do BNDES e o custo da linha para a instituição financeira oficial federal.
