@@ -1,0 +1,1 @@
+Art. 2°-B. Os valores relativos às contribuições apurados, para efeito de atualização monetária, serão convertidos em quantidade de Unidades Padrão Fiscal do Estado de Rondônia - UPF/RO. na data do vencimento da contribuição, fazendo-se a reconversão em moeda corrente pelo valor daquele indexador na data do efetivo pagamento.
