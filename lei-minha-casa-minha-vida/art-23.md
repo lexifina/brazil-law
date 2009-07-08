@@ -1,0 +1,1 @@
+Art. 23. Os rendimentos auferidos pela carteira do FGHab não se sujeitam à incidência de imposto de renda na fonte, devendo integrar a base de cálculo dos impostos e contribuições devidos pela pessoa jurídica, na forma da legislação vigente, quando houver o resgate de cotas, total ou parcial, ou na dissolução do Fundo.
