@@ -6,3 +6,4 @@ c) do valor cadastral do imóvel, para fins de lançamento do impôsto territori
 d) não tendo havido a atualização a que se refere o inciso c, o juiz fixará independente de avaliação, a importância do depósito, tendo em vista a época em que houver sido fixado originàlmente o valor cadastral e a valorização ou desvalorização posterior do imóvel.
 § 2º A alegação de urgência, que não poderá ser renovada, obrigará o expropriante a requerer a imissão provisória dentro do prazo improrrogável de 120 (cento e vinte) dias.
 § 3º Excedido o prazo fixado no parágrafo anterior não será concedida a imissão provisória.
+§ 4º A imissão provisória na posse será registrada no registro de imóveis competente.

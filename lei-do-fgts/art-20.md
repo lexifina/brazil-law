@@ -8,7 +8,7 @@ a) o mutuário conte com o mínimo de 3 (três) anos de trabalho sob o regime do
 b) o valor bloqueado seja utilizado, no mínimo, durante o prazo de 12 (doze) meses;
 c) o valor do abatimento atinja, no máximo, 80 (oitenta) por cento do montante da prestação;
 VI - liquidação ou amortização extraordinária do saldo devedor de financiamento imobiliário, observadas as condições estabelecidas pelo Conselho Curador, dentre elas a de que o financiamento seja concedido no âmbito do SFH e haja interstício mínimo de 2 (dois) anos para cada movimentação;
-VII - pagamento total ou parcial do preço da aquisição de moradia própria, observadas as seguintes condições:
+VII - pagamento total ou parcial do preço de aquisição de moradia própria, ou lote urbanizado de interesse social não construído, observadas as seguintes condições:
 a) o mutuário deverá contar com o mínimo de 3 (três) anos de trabalho sob o regime do FGTS, na mesma empresa ou empresas diferentes;
 b) seja a operação financiável nas condições vigentes para o SFH;
 VIII - quando o trabalhador permanecer três anos ininterruptos, a partir de 1º de junho de 1990, fora do regime do FGTS, podendo o saque, neste caso, ser efetuado a partir do mês de aniversário do titular da conta.
