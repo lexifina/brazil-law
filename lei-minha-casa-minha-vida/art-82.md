@@ -1,0 +1,1 @@
+Art. 82. Fica autorizado o financiamento para aquisição de equipamento de energia solar e contratação de mão de obra para sua instalação em moradias cujas famílias aufiram no máximo renda de 6 (seis) salários mínimos.

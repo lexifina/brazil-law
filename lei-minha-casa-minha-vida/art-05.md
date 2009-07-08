@@ -1,0 +1,2 @@
+Art. 5º Fica a União autorizada a conceder subvenção econômica no âmbito do PNHU até o montante de R$ 2.500.000.000,00 (dois bilhões e quinhentos milhões de reais).
+Parágrafo único. Enquanto não efetivado o aporte de recursos de que trata o caput, caso o agente operador do Fundo de Garantia do Tempo de Serviço - FGTS tenha suportado ou venha a suportar, com recursos das disponibilidades atuais do referido fundo, a parcela da subvenção econômica de que trata o caput, terá direito ao ressarcimento das quantias desembolsadas, devidamente atualizadas pela taxa Selic.

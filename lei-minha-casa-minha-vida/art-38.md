@@ -1,0 +1,2 @@
+Art. 38. Os documentos eletrônicos apresentados aos serviços de registros públicos ou por eles expedidos deverão atender aos requisitos da Infraestrutura de Chaves Públicas Brasileira - ICP e à arquitetura e-PING (Padrões de Interoperabilidade de Governo Eletrônico), conforme regulamento.
+Parágrafo único. Os serviços de registros públicos disponibilizarão serviços de recepção de títulos e de fornecimento de informações e certidões em meio eletrônico.

@@ -1,0 +1,8 @@
+Art. 56. O poder público responsável pela regularização fundiária de interesse social poderá lavrar auto de demarcação urbanística, com base no levantamento da situação da área a ser regularizada e na caracterização da ocupação.
+§ 1º O auto de demarcação urbanística deve ser instruído com:
+I - planta e memorial descritivo da área a ser regularizada, nos quais constem suas medidas perimetrais, área total, confrontantes, coordenadas preferencialmente georreferenciadas dos vértices definidores de seus limites, bem como seu número de matrícula ou transcrição e a indicação do proprietário, se houver;
+II - planta de sobreposição do imóvel demarcado com a situação da área constante no registro de imóveis; e
+III - certidão da matrícula ou transcrição da área a ser regularizada, emitida pelo registro de imóveis, ou, diante de sua inexistência, das circunscrições imobiliárias anteriormente competentes.
+§ 2º Na possibilidade de a demarcação urbanística abranger área pública ou com ela confrontar, o poder público deverá notificar previamente os órgãos responsáveis pela administração patrimonial dos demais entes federados, para que informem se detêm a titularidade da área, no prazo de 30 (trinta) dias.
+§ 3º Na ausência de manifestação no prazo previsto no § 2º, o poder público dará continuidade à demarcação urbanística.
+§ 4º No que se refere a áreas de domínio da União, aplicar-se-á o disposto na Seção III-A do Decreto-Lei nº 9.760, de 5 de setembro de 1946, inserida pela Lei nº 11.481, de 31 de maio de 2007, e, nas áreas de domínio dos Estados, Distrito Federal ou Municípios, a sua respectiva legislação patrimonial.

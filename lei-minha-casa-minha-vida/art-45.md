@@ -1,0 +1,1 @@
+Art. 45. Regulamento disporá sobre as condições e as etapas mínimas, bem como sobre os prazos máximos, a serem cumpridos pelos serviços de registros públicos, com vistas na efetiva implementação do sistema de registro eletrônico de que trata o art. 37.
