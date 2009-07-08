@@ -1,0 +1,2 @@
+Dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV e a regularização fundiária de assentamentos localizados em áreas urbanas; altera o Decreto-Lei nº 3.365, de 21 de junho de 1941, as Leis nos 4.380, de 21 de agosto de 1964, 6.015, de 31 de dezembro de 1973, 8.036, de 11 de maio de 1990, e 10.257, de 10 de julho de 2001, e a Medida Provisória nº 2.197-43, de 24 de agosto de 2001; e dá outras providências.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:

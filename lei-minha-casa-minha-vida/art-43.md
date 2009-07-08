@@ -1,0 +1,4 @@
+Art. 43. Não serão devidas custas e emolumentos referentes a escritura pública, quando esta for exigida, ao registro da alienação de imóvel e de correspondentes garantias reais, e aos demais atos relativos ao primeiro imóvel residencial adquirido ou financiado pelo beneficiário com renda familiar mensal de até 3 (três) salários mínimos.
+Parágrafo único. As custas e emolumentos de que trata o caput, no âmbito do PMCMV, serão reduzidos em:
+I - 80% (oitenta por cento), quando os imóveis residenciais forem destinados a beneficiário com renda familiar mensal superior a 6 (seis) e até 10 (dez) salários mínimos; e
+II - 90% (noventa por cento), quando os imóveis residenciais forem destinados a beneficiário com renda familiar mensal superior a 3 (três) e igual ou inferior a 6 (seis) salários mínimos.

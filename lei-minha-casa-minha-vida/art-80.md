@@ -1,0 +1,1 @@
+Art. 80. Até que a quantidade mínima a que se refere o inciso II do § 1º do art. 2º da Medida Provisória nº 2.197-43, de 24 de agosto de 2001, seja regulamentada pelo Conselho Monetário Nacional, os agentes financeiros poderão oferecer apenas uma apólice ao mutuário.

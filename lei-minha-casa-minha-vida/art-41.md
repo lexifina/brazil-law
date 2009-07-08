@@ -1,0 +1,1 @@
+Art. 41. A partir da implementação do sistema de registro eletrônico de que trata o art. 37, os serviços de registros públicos disponibilizarão ao Poder Executivo federal, por meio eletrônico e sem ônus, o acesso às informações constantes de seus bancos de dados, conforme regulamento.
