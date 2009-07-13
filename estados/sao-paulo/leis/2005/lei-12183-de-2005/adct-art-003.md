@@ -1,0 +1,1 @@
+Artigo 3º - O Comitê da Bacia Hidrográfica do Alto Tietê deverá destinar, pelo período de 10 (dez) anos, no mínimo 50% (cinqüenta por cento) dos recursos de investimento oriundos da cobrança para conservação, proteção e recuperação das áreas de mananciais que atendam a sua área de atuação.

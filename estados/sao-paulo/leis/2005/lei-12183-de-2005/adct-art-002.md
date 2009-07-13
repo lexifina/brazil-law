@@ -1,0 +1,3 @@
+Artigo 2º - O Poder Executivo deverá propor, dentro dos 24 (vinte e quatro) meses seguintes à aprovação desta lei, as leis específicas, previstas na Lei nº 9.866/97, referentes às Áreas de Proteção e Recuperação de Mananciais das Sub-Bacias do Guarapiranga, Cotia, Billings, Tietê-Cabeceiras e Juqueri-Cantareira, nos limites da Unidade de Gerenciamento de Recursos Hídricos do Alto Tietê.
+Parágrafo único - Na hipótese de não encaminhamento das leis referidas no 'caput' deste artigo no prazo estipulado, o montante arrecadado para a Unidade de Gerenciamento de Recursos Hídricos do Alto Tietê ficará retido na respectiva subconta do Fundo Estadual de Recursos Hídricos - FEHIDRO. (NR)
+- Parágrafo único com redação dada pela Lei nº 13.579, de 13/07/2009.
