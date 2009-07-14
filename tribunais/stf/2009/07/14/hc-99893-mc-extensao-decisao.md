@@ -1,0 +1,13 @@
+DECISÃO
+HABEAS CORPUS – LIMINAR DEFERIDA – EXTENSÃO – RESSALVA DE ENTENDIMENTO PESSOAL.
+1.  A Assessoria assim retratou o pedido de extensão formalizado:
+O Ministro Gilmar Mendes deferiu, em parte, o pedido de liminar formulado em favor do paciente Manoel Adail Amaral Pinheiro, para sustar os efeitos da ordem de condução coercitiva emitida pela Comissão Parlamentar de Inquérito da Pedofilia, mantendo-se, porém, o efeito convocatório para comparecimento à audiência designada para o dia 14 de julho de 2009. Assegurou-lhe também o direito de ser tratado com a necessária urbanidade durante o depoimento (folha 77).
+Por meio da petição de folhas 83 à 86, os advogados Hector Ribeiro Freitas e Daniel Naves de Carvalhos pedem a extensão dos efeitos do provimento cautelar em favor de Maria Landia Rodrigues dos Santos, assegurando-lhe o direito de permanecer em silêncio, considerado o princípio constitucional da não autoincriminação, excluindo-se a possibilidade de ser submetida a qualquer medida privativa de liberdade ou restritiva de direito em razão do exercício desta garantia constitucional, bem assim de fazer-se acompanhada de advogado durante o depoimento, ser tratada com respeito e urbanidade pelos membros da referida Comissão. Pedem, também, seja vedado à Comissão Parlamentar de Inquérito fazer referência a dados sigilosos colhidos durante a investigação policial denominada “Operação Vorax”.
+A audiência está designada para o dia 14 de julho de 2009, às 14 horas.
+2.  Em casos semelhantes, tenho indeferido a medida acauteladora. Assim procedo ante a circunstância de, em primeiro lugar, não se ter no ofício de convocação do presidente da Comissão Parlamentar de Inquérito da Pedofilia a qualificação daquele que deve comparecer para prestar depoimento. Em segundo lugar, não se pode presumir o excepcional, ou seja, que em se tratando de envolvido nas investigações, deixe a Comissão Parlamentar de Inquérito de observar não o texto constitucional quanto ao direito ao silêncio, como também a ordem natural das coisas, que é a condução dos trabalhos com urbanidade, e reiterados pronunciamentos desta Corte sobre a primeira matéria.
+ No caso, o titular da presidência deferiu, em situação idêntica, a liminar ao paciente Manoel Adail Amaral Pinheiro, cabendo então observar o disposto no artigo 580 do Código de Processo Penal – No caso de concurso de agentes (Código Penal, artigo 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros. Faço-o ressalvando o entendimento sobre o tema.
+3.  Publiquem.
+Brasília – residência –, 14 de julho de 2009, 16h05.
+Ministro MARCO AURÉLIO
+Presidente, em exercício
+(RISTF, art. 37, I, c/c art. 13, VIII)
