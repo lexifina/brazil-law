@@ -1,0 +1,2 @@
+Acrescenta artigos à Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para estabelecer mecanismos para a veiculação de mensagens educativas de trânsito, nas modalidades de propaganda que especifica, em caráter suplementar às campanhas previstas nos arts. 75 e 77.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
