@@ -1,0 +1,1 @@
+Art. 139-B. O disposto neste Capítulo não exclui a competência municipal ou estadual de aplicar as exigências previstas em seus regulamentos para as atividades de moto-frete no âmbito de suas circunscrições.
