@@ -1,0 +1,2 @@
+Altera os arts. 1.211-A, 1.211-B e 1.211-C da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, e acrescenta o art. 69-A à Lei nº 9.784, de 29 de janeiro de 1999, que regula o processo administrativo no âmbito da administração pública federal, a fim de estender a prioridade na tramitação de procedimentos judiciais e administrativos às pessoas que especifica.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
