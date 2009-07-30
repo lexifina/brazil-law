@@ -1,0 +1,1 @@
+Art. 77-A. São assegurados aos órgãos ou entidades componentes do Sistema Nacional de Trânsito os mecanismos instituídos nos arts. 77-B a 77-E para a veiculação de mensagens educativas de trânsito em todo o território nacional, em caráter suplementar às campanhas previstas nos arts. 75 e 77.
