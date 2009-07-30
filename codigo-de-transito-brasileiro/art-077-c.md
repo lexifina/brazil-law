@@ -1,0 +1,1 @@
+Art. 77-C. Quando se tratar de publicidade veiculada em outdoor instalado à margem de rodovia, dentro ou fora da respectiva faixa de domínio, a obrigação prevista no art. 77-B estende-se à propaganda de qualquer tipo de produto e anunciante, inclusive àquela de caráter institucional ou eleitoral.

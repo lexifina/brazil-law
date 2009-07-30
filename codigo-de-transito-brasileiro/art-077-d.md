@@ -1,0 +1,1 @@
+Art. 77-D. O Conselho Nacional de Trânsito (Contran) especificará o conteúdo e o padrão de apresentação das mensagens, bem como os procedimentos envolvidos na respectiva veiculação, em conformidade com as diretrizes fixadas para as campanhas educativas de trânsito a que se refere o art. 75.
