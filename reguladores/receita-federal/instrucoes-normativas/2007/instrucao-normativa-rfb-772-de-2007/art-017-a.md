@@ -1,0 +1,1 @@
+Art. 17-A. O disposto no inciso I do art. 14 e no § 2º do art. 14-A da Lei nº 10.522, de 19 de julho de 2002, não se aplica aos parcelamentos estabelecidos nesta Instrução Normativa, requeridos na forma dos arts. 4º-A e 10-A.
