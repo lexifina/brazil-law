@@ -1,0 +1,70 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. DESMEMBRAMENTO E CRIAÇÃO DE SINDICATOS. ALEGAÇÃO DE AFRONTA AO PRINCÍPIO DA LIBERDADE SINDICAL (INC. II E III DO ART. 8º DA CONSTITUIÇÃO DA REPÚBLICA). PRECEDENTES. RECURSO EXTRAORDINÁRIO PROVIDO.
+
+Relatório
+
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+
+“AÇÃO DECLARATÓRIA. PRETENSÃO DE VER RECONHECIDO O DIREITO DE ASSISTIR AS ENTIDADES FILANTRÓPICAS E BENEFICENTES EM TODO O ESTADO DO RIO DE JANEIRO E EXCLUIR O SINDICATO APELADO DA ASSISTÊNCIA ÀS CATEGORIAS PROFISSIONAIS QUE HÁ LONGOS ANOS VÊM SENDO POR ELE PRESTADAS. PRINCÍPIO DO CONDICIONAMENTO. PROIBIÇÃO DE CRIAÇÃO DE NOVO SINDICATO EM ÁREA EM QUE JÁ EXISTIA OUTRO EM FUNCIONAMENTO. VEDAÇÃO DA CRIAÇÃO SIMULTÂNEA OU SUCESSIVA DE MAIS DE UM SINDICATO NA MESMA ÁREA TERRITORIAL. ARTIGO 8º, INCISO II, DA CONSTITUIÇÃO FEDERAL. CONHECIMENTO E IMPROVIMENTO DO RECURSO” (fl. 530).
+
+ Consta do voto do Relator:
+
+“(...) O juiz de primeiro grau considerou o entendimento de que a liberdade sindical de associação profissional ou sindical não chegou a ponto de suprimir o princípio da unicidade sindical e que em cada base territorial deve haver um único sindicato a cada categoria. Julga improcedente o pedido inicial, posto que, no caso dos autos, a pretensão do Sindicato/Autor é a obtenção de representatividade e legitimidade para assistir categorias profissionais que há longos anos vêm sendo assistidas pelo Sindicato/Réu.
+Com efeito, a regra constitucional em vigor determina um Sindicato em cada área territorial – art. 8º, inc. II, da Carta Magna. É o que se denomina de ‘condicionamento sindical’, ou seja, a proibição de criação de um novo Sindicato em área que já exista outro em funcionamento, sendo vedada a criação simultânea ou sucessiva de mais de um Sindicato, na mesma área territorial.
+No meu entendimento, a Constituição optou claramente pela unicidade sindical, razão pela qual não poderá haver, na mesma base territorial, mais de um Sindicato, no mesmo grau, representativo da categoria profissional ou econômica.
+Ante o exposto, conheço do recurso e nego-lhe provimento, mantida íntegra a sentença recorrida” (fls. 532-533).
+
+2. Os embargos de declaração opostos pelo Sindicato das Misericórdias e Entidades Filantrópicas e Beneficentes do Estado do Rio de Janeiro, ora Recorrente, foram rejeitados (fl. 541).
+
+3. O Recorrente alega que o Tribunal a quo teria contrariado o art. 8º, caput, inc. II e III, da Constituição da República.
+
+Argumenta que “o objeto de julgamento deste recurso delimita-se em extrair a correta interpretação da norma insculpida no inciso II do artigo 8º da Constituição Federal e da observância do princípio da liberdade sindical, previsto no caput do mesmo artigo. O cerne da questão se refere à antinomia (ainda que aparente) existente entre o princípio da liberdade sindical, estabelecida no caput do artigo 8º da Constituição Federal, e a norma que restringe este princípio, estabelecida do inciso II do citado artigo e que dispõe sobre a unicidade sindical” (fl. 600).
+
+Sustenta que “foi mencionada e comprovada a divergência de interesses entre o Sindicato Recorrido e os hospitais filantrópicos e beneficentes, inclusive em contradição ao artigo 8º, inciso III, da Constituição, o Recorrido não poderia servir a duas categorias totalmente diferenciadas” (fl. 601).
+
+Afirma, também, que “não resta dúvida de que a tese acolhida no acórdão recorrido é o da prevalência absoluta do princípio da unicidade sindical em detrimento do princípio da liberdade sindical. A extensão que o acórdão dá àquele princípio está explicitada no trecho onde diz que a ‘pretensão do Sindicato/Autor é a obtenção de representatividade e legitimidade para assistir categorias profissionais que há longos anos vêm sendo assistidas pelo Sindicato/Réu’. Em outras palavras: não admite que a natureza filantrópica do Recorrente permita o desmembramento do Sindicato/Recorrido” (fl. 606).
+
+Requer o provimento do presente recurso para reformar o acórdão recorrido no sentido de reconhecer a “representatividade sindical dos hospitais filantrópicos e beneficentes ao ora Recorrente” (fl. 606).
+
+4.   O Subprocurador-Geral da República opinou pelo provimento do presente recurso, nos seguintes termos:
+
+“ (...) É certo que não se pode negar a possibilidade de cisão de organizações sindicais em razão de interesses econômicos diversos, tal como assentou o E. Supremo Tribunal Federal no Recurso Extraordinário n. 217.328-8, Rio Grande do Sul, Relator o Ministro Octavio Gal l otti, DJ de 9.6.2000: (...).
+Não resta dúvida de que a ausência de intuito de lucro diferencia de forma cabal as duas categorias, pois como bem ressaltou o Recorrente: ‘A mero título exemplificativo, é possível citar a atual legislação que determina que os Sindicatos devem prever em cláusula dissidial a distribuição de lucros para os trabalhadores, sendo que, por outro lado, as entidades filantrópicas e beneficentes são expressamente proibidas de distribuírem seus lucros aos funcionários’ (fl. 601).
+Devem ser trazidas à baila as considerações do E. Min. Octavio Gal l otti no acórdão acima mencionado, ao admitir a referida cisão, adotando como fundamento do seu voto a diversidade de interesses e a própria possibilidade de conflito entre eles.
+Finalmente, parece-nos correta a conclusão da doutrina preconizada por Mozart Victor Russomano, renomado jurista especializado na matéria, quando, em substancioso parecer, diz: ‘A funda diversidade de interesses entre hospitais com fins l ucrativos e os hospitais benemer entes cria uma categoria econômica específica , circunstância que exclui qualquer ofensa ao princípio da unicidade sindical, pois, in casu , na mesma base territorial, o sindicato dos hospitais com fins lucrativos e o Sindicato Consulente representam interesses diversos de categorias diferentes’ (fls. 398-424) ” ( fls. 719-722 - grifo no original) .
+
+Apreciada a matéria trazida na espécie, DECIDO .
+
+5. Razão jurídica assiste ao Sindicato Recorrente.
+
+6. Na espécie vertente, o Tribunal de origem manteve sentença que decidira a controvérsia sobre a legitimidade do Sindicato dos Hospitais e Estabelecimentos de Saúde no Estado do Rio de Janeiro para representar os hospitais filantrópicos e beneficentes daquele Estado com base unicamente em critério temporal – o Sindicato Recorrido fora constituído há mais de 50 anos, conforme informado na sentença (fl. 511).
+
+O Recorrente insurge-se contra a circunstância de ter sido privilegiado exclusivamente o princípio da unicidade sindical em detrimento do princípio da liberdade sindical, pois as instâncias de origem ignoraram o desejo dos hospitais filantrópicos e beneficentes do Estado do Rio de Janeiro de serem representados por entidade sindical específica, diferenciada da dos hospitais com fins lucrativos.
+
+7. Quanto aos princípios da unicidade e da liberdade sindical, previstos no art. 8º, inc. II e III, da Constituição da República, a jurisprudência do Supremo Tribunal Federal firmou-se no seguinte sentido:
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DESMEMBRAMENTO DE SINDICATO. ENTIDADE PRÉ-EXISTENTE. MONOPÓLIO DA REPRESENTAÇÃO SINDICAL EM DETERMINADA BASE TERRITORIAL. PRINCÍPIO DA UNICIDADE SINDICAL. POSSIBILIDADE DE CISÃO. NORMAS DA CONSOLIDAÇÃO DAS LEIS DO TRABALHO. 1. Acolhendo o princípio da não-intervenção e não-interferência estatal na organização sindical (CF, artigo 8º,I), o legislador constituinte outorgou aos trabalhadores e empregadores interessados a capacidade para definir a base territorial da entidade que não poderá ser inferior à área de um Município, afastando a competência do Ministério do Trabalho para delimitá-la na forma prevista no artigo 517, § 1º da Consolidação das Leis do Trabalho. 2. Unicidade sindical. A norma constitucional estabelece que é livre a associação profissional ou sindical, vedando à lei a exigência de autorização estatal para a instituição de sindicato, ressalvado o seu registro no órgão competente (Ministério do Trabalho) a quem cumpre zelar pela observância do princípio da unicidade sindical em atuação conjunta com os terceiros interessados (sindicatos), de conformidade com as disposições contidas nas Instruções Normativas ns. 5/90 e 9/90, que lhes facultam, no prazo nelas fixado, a impugnação do registro de fundação da entidade, competindo à Administração Pública anular o ato se julgada procedente a alegação. 3. Artigo 571 c/c o artigo 570, parágrafo único, da Consolidação das Leis do Trabalho. Possibilidade de cisão do sindicato principal com o objetivo de constituir entidade sindical específica, desde que observados os requisitos impostos pela norma trabalhista. 3.1. Em face das disposições contidas nos incisos I e II do artigo 8º da Constituição Federal não mais prevalecem as restrições previstas na CLT. 4. Criação de sindicato por meio de desmembramento da entidade sindical preexistente. Verificação da regular decisão tomada pelos trabalhadores e comprovação de que a base territorial da nova entidade não é inferior à área de um Município. Reexame de provas. Incidência da Súmula 279/STF. Agravo regimental não provido” (RE 207.910-AgR, Rel. Min. Maurício Corrêa, Segunda Turma, DJ 26.6.1998 – grifei).
+
+“REPRESENTAÇÃO SINDICAL. TRABALHADORES EM POSTOS DE SERVIÇO DE COMBUSTÍVEIS E DERIVADOS DE PETRÓLEO (‘FRENTISTAS’). ORGANIZAÇÃO EM ENTIDADE PRÓPRIA, DESEMBRADA DA REPRESENTATIVA DA CATEGORIA DOS TRABALHADORES NO COMÉRCIO DE MINÉRIOS E DERIVADOS DE PETRÓLEO. ALEGADA OFENSA AO PRINCÍPIO DA UNICIDADE SINDICAL. Improcedência da alegação, posto que a novel entidade representa categoria específica que, até então, se achava englobada pela dos empregados congregados nos sindicatos filiados à Federação Nacional dos Trabalhadores no Comércio de Minérios e Derivados de Petróleo, hipótese em que o desmembramento, contrariamente ao sustentando no acórdão recorrido, constituía a vocação natural de cada classe de empregados, de per si, havendo sido exercida pelos ‘frentistas’, no exercício da liberdade sindical consagrada no art. 8º, II, da Constituição. Recurso conhecido e provido” (RE 202.097, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 4.8.2000 – grifei).
+
+“UNICIDADE SINDICAL MITIGADA. CATEGORIA. SEGMENTOS AGRUPADOS. DESMEMBRAMENTO. VIABILIDADE. ARTIGOS 5º, INCISO XVII, 8º, INCISO II, DA CONSTITUIÇÃO FEDERAL, 570, PARÁGRAFO ÚNICO, E 571 DA CONSOLIDAÇÃO DAS LEIS DO TRABALHO. RECEPÇÃO. A liberdade de associação, observada, relativamente às entidades sindicais, a base territorial mínima - a área de um município -, é predicado do Estado Democrático de Direito. Recepção da Consolidação das Leis do Trabalho pela Carta da República de 1988, no que viabilizados o agrupamento de atividades profissionais e a dissociação, visando a formar sindicato específico” (RMS 24.069, Rel. Min. Marco Aurélio, Primeira Turma, DJ 24.6.2005 – grifei).
+
+“I. Sindicato: unicidade e desmembramento. 1. O princípio da unicidade sindical (CF, art. 8º, II, da Constituição) não garante por si só ao sindicato a intangibilidade de sua base territorial: ao contrário, a jurisprudência do STF está consolidada no sentido da legitimidade constitucional do desmembramento territorial de um sindicato para constituir outro, por deliberação dos partícipes da fundação deste, desde que o território de ambos não se reduza a área inferior à de um município (v.g., MS 21.080, Rezek, DJ 1º.10.93; RE 191.231, Pertence, DJ 06.08.99; RE 153.534; Velloso, DJ 11.06.99; AgRgRE 207.910, Maurício, DJ 4.12.98; RE 207.780, Galvão, DJ 17.10.97; RE 180.222, Galvão, DJ 29.08.00). 2. No caso, o Tribunal a quo assentou que não houve superposição sindical total, mas apenas um desmembramento que originou novas organizações sindicais regionais cuja área de atuação é menor do que a do agravante, o que não ofende a garantia constitucional da unicidade. II. Recurso extraordinário: descabimento: ausência de prequestionamento do art. 5º, XXXVI, da Constituição Federal: incidência das Súmulas 282 e 356” (RE 154.250-AgR, Rel. Min. Sepúlveda Pertence, DJe 8.6.2007 – grifei).
+
+ E, ainda, o recente julgamento proferido pela Primeira Turma do Supremo Tribunal:
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SINDICATO. DESMEMBRAMENTO. ALEGAÇÃO DE AFRONTA AO PRINCÍPIO DA UNICIDADE SINDICAL. IMPROCEDÊNCIA. Caso em que determinada categoria profissional - até então filiada a sindicato que representava diversas categorias, em bases territoriais diferentes - forma organização sindical específica, em base territorial de menor abrangência. Ausência de violação ao princípio da unicidade sindical. Precedente. Agravo regimental desprovido” (RE 433.195-AgR, Rel. Min. Carlos Britto, DJe 19.9.2008 – grifo nosso).
+
+8. Esses precedentes evidenciam que tanto o princípio da unicidade territorial quanto o da liberdade sindical têm de ser considerados para a apreciação de casos como o dos autos.
+
+O acórdão recorrido tomou como premissa absoluta o princípio da unicidade territorial, deixando de lado o princípio da liberdade sindical, ou seja, não foi apreciado se o novo sindicato decorreu da manifestação de vontade das entidades que o formaram de serem representadas por instituição sindical própria, diversa do sindicato mais antigo e abrangente. Essa manifestação de vontade, se existente, é suficiente para a criação de sindicato representativo da categoria, ainda que na mesma base territorial do sindicato mais antigo, cuja representatividade ficaria reduzida e limitada a categoria diversa.
+
+9. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal) para que os autos retornem à origem a fim de que o Tribunal de Justiça do Rio de Janeiro reexamine a matéria tendo em vista as premissas estabelecidas por este Supremo Tribunal Federal, conforme os precedentes mencionados nesta decisão.
+
+Publique-se.
+
+Brasília, 3 de agosto de 2009.
+
+Ministra CÁRMEN LÚCIA
+Relatora
