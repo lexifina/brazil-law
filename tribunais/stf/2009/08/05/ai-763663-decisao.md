@@ -1,0 +1,23 @@
+DECISÃO
+Vistos.
+O Ministério Público do Estado do Rio Grande do Sul interpõe agravo de instrumento contra decisão (fls. 19 a 23) que não admitiu recurso extraordinário, assentado em contrariedade ao artigo 5º, inciso II, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão proferido pela Quinta Câmara Criminal do Tribunal de Justiça estadual no julgamento do Agravo em Execução nº 70018277004, assim fundamentado:
+“AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REGIME CARCERÁRIO. REQUISITOS: ART. 112, DA LEP. VALORAR OUTROS REQUISITOS É AGREDIR A LEGALIDADE EM PREJUÍZO DO CIDADÃO-APENADO. DERAM PROVIMENTO AO RECURSO DEFENSIVO (UNÂNIME)” (fl. 25).
+Não foram opostos embargos de declaração.
+O agravante, nas razões do extraordinário, alega, em síntese, que o Tribunal de origem, “ao entender que a comprovação do elemento subjetivo à progressão de regime carcerário, mediante laudos psiquiátricos ou psicológicos, não encontra suporte legal, vindo em prejuízo do cidadão, porque viola o princípio da legalidade”, acabou por contrariar o artigo 5º, inciso II, da Constituição Federal (fls. 37).
+Decido.
+Anote-se, inicialmente, que o recorrente foi intimado do acórdão recorrido em 1º/3/07, conforme certidão de folha 30, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no AI nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação, no entanto, não merece prosperar, uma vez que a suposta afronta ao mencionado dispositivo constitucional depende do reexame prévio de legislação infraconstitucional, a saber, o artigo 112 da Lei nº 7.210/84 com a nova redação dada pela Lei nº 10.792/03. Portanto, afronta à Constituição Federal, se ocorresse, seria indireta ou reflexa, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido, sobre o tema, destaco excerto da decisão monocrática proferida pelo eminente Ministro Joaquim Barbosa no AI nº 643.988/RS, DJ de 1º/2/08:
+“(...)
+Por outro lado, o v. acórdão recorrido baseou-se no exame do quadro à luz da nova redação dada ao artigo 112 da Lei n° 7.210/84, pela Lei n° 10.729/2003. A matéria se restringe ao âmbito da legislação infraconstitucional e, portanto, é insuscetível de conhecimento no âmbito do recurso extraordinário. Para se chegar à conclusão diversa, seria necessário interpretar normas infraconstitucionais, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional...” (Grifos no original).
+No mesmo sentido, de minha relatoria, as seguintes decisões monocráticas: AI nº 716.515/RS, DJ de 13/8/08; AI nº 658.611/RS, DJ de 20/5/08; e AI nº 650.481/RS, DJ de 20/5/08, entre outros
+De outra parte, a jurisprudência desta Suprema Corte é firme no sentido de que “a obrigatoriedade do exame criminológico e do parecer multidisciplinar da Comissão Técnica de Classificação, para fins de progressão de regime de cumprimento de pena, foi abolida pela Lei [10.792/03]. Nada impede, no entanto, que, facultativamente, seja requisitado o exame pelo Juízo das Execuções, de modo fundamentado, dadas as características de cada caso concreto...” (HC nº 86.631/PR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 20/10/06).
+Perfilhando esse entendimento, destaco o precedente seguinte:
+“LEI - INTERPRETAÇÃO - NORMAS A REVELAREM EXCEÇÃO. Preceitos que encerram exceções hão de ser interpretados de forma estrita e têm alcance considerado o que neles expressamente se contém. CRIME DE QUADRILHA - ARTIGO 14 DA LEI Nº 6.368/76 - NÃO-INCIDÊNCIA DA LEI Nº 8.072/90. O crime tipificado no artigo 14 da Lei nº 6.368/76 não está alcançado pela Lei nº 8.072/90. Precedentes: Habeas Corpus nº 75.978-8/SP, relatado pelo ministro Sepúlveda Pertence na 1ª Turma, Diário da Justiça de 19 de junho de 1998, e Habeas Corpus nº 73.119-8/SP, relatado pelo ministro Carlos Velloso na 2ª Turma, Diário da Justiça de 19 de abril de 1996. PENA - CUMPRIMENTO - LIVRAMENTO CONDICIONAL. As balizas para se aferir o atendimento dos requisitos próprios ao livramento condicional estão na lei, notando-se a abolição do exame criminológico - Lei nº 10.792/03. ALTERAÇÃO DOS ARTIGOS 83 E 112, RESPECTIVAMENTE DO CÓDIGO PENAL - DECRETO-LEI Nº 3.689/41 - E DA LEI DE EXECUÇÃO CRIMINAL - LEI Nº 7.210/84. Descabe levar em conta a participação em organização criminosa, ou seja, fato integrante do tipo penal envolvido na condenação” (HC nº 83.700/AC, Primeira Turma, Relator o Ministro Marco Aurélio, DJ de 17/12/04 - grifos nossos).
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Brasília, 5 de agosto de 2009.
+Ministro MENEZES DIREITO
+Relator
+1
