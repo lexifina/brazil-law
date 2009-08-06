@@ -1,0 +1,4 @@
+Art. 4º-A. Sem prejuízo das normas adicionais expedidas pela autoridade marítima, é obrigatório o uso de proteção no motor, eixo e quaisquer outras partes móveis das embarcações que possam promover riscos à integridade física dos passageiros e da tripulação.
+§ 1º O tráfego de embarcação sem o cumprimento do disposto no caput deste artigo sujeita o infrator às medidas administrativas previstas nos incisos I e II do caput do art. 16, bem como às penalidades previstas no art. 25, desta Lei.
+§ 2º Em caso de reincidência, a penalidade de multa será multiplicada por 3 (três), além de ser apreendida a embarcação e cancelado o certificado de habilitação.
+§ 3º A aplicação das medidas administrativas e das penalidades previstas neste artigo não exime o infrator da devida responsabilização nas esferas cível e criminal.
