@@ -1,0 +1,43 @@
+1.  Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Distrito Federal, com fundamento no art. 102, I, l, da Constituição Federal, em face do Juízo da 11ª Vara do Trabalho de Brasília - DF, que, nos autos de execução trabalhista (Processo 00811-2007-011-10-00-4), julgou intempestivos os embargos à execução opostos pelo ora reclamante.
+
+O reclamante sustenta, em síntese, que o juízo reclamado afrontou o acórdão proferido pelo Plenário do Supremo Tribunal Federal no julgamento da Medida Cautelar na Ação Declaratória de Constitucionalidade 11/DF, rel. Min. Cezar Peluso, DJ 29.6.2007.
+
+Ressalta, ainda, a existência do perigo na demora, pois a Fazenda Pública perdeu a principal oportunidade de defesa na execução em questão. Além disso, não haveria qualquer garantia de que a importância a ser paga à autora da demanda trabalhista retornará aos cofres públicos, casos os embargos à execução sejam julgados procedentes.
+
+Requer, ao final, a concessão de liminar para que seja suspenso o processamento da mencionada execução trabalhista.
+
+2.  Requisitaram-se informações (fl. 18), que foram devidamente prestadas (fls. 23-25).
+
+3.  Passo a apreciar o pedido de medida liminar.
+
+Entendo, neste juízo prévio, que a decisão ora reclamada, ao considerar intempestivos os embargos à execução opostos pelo Distrito Federal, afrontou o acórdão proferido no julgamento da Medida Cautelar na Ação Declaratória de Constitucionalidade 11/DF.
+
+É que o Plenário desta Corte, ao julgar a Ação Declaratória de Constitucionalidade 11-MC/DF, rel. Min. Cezar Peluso, determinou a suspensão de todos os processos em que se discuta a constitucionalidade do art. 1º-B da Medida Provisória 2.180-35/2001, em acórdão que porta a seguinte ementa:
+
+“ FAZENDA PÚBLICA . Prazo processual. Embargos à execução. Prazos previstos no art. 730 do CPC e no art. 884 da CLT. Ampliação pela Medida Provisória nº 2.180-35/2001, que acrescentou o art. 1º-B à Lei federal nº 9.494/97. Limites constitucionais de urgência e relevância não ultrapassados. Dissídio jurisprudencial sobre a norma. Ação direta de constitucionalidade. Liminar deferida. Aplicação do art. 21, caput, da Lei nº 9.868/99. Ficam suspensos todos os processos em que se discuta a constitucionalidade do art. 1º-B da Medida Provisória nº 2.180-35.” (DJ 29.6.2007)
+
+Em seu voto, o eminente relator, Ministro Cezar Peluso, asseverou o seguinte:
+
+“Nesse juízo prévio e sumário, estou em que o Chefe do Poder Executivo não transpôs os limites daqueles requisitos constitucionais, na edição da Medida Provisória nº 2.180-35, em especial no que toca ao art. 1º-B, objeto desta demanda. Com efeito, é dotada de verossimilhança a alegação de que as notórias insuficiências da estrutura burocrática de patrocínio dos interesses do Estado, aliadas ao crescente volume de execuções contra a Fazenda Pública, tornavam relevante e urgente a ampliação do prazo para ajuizamento de embargos.
+Tal alteração parece não haver ultrapassado os termos de razoabilidade e proporcionalidade que devem pautar a outorga de benefício jurídico-processual à Fazenda Pública, para que se não converta em privilégio e dano da necessária paridade de armas entre as partes no processo, a qual é inerente à cláusula due process of law (arts. 5º, incs. I e LIV; CPC, art. 125) (ADI nº 1.753-MC, Rel. Min. SEPÚLVEDA PERTENCE , DJ de 12.06.1998).
+A observação é, aliás, sobremodo conveniente ao caso do art. 884 da CLT, cujo prazo se aplica a qualquer das partes, não apenas à Fazenda Pública.
+Além disso, faz muito foi apresentado, com igual propósito, o projeto de lei nº 2.689/96 (fls. 52/53), sem que até agora fosse objeto de deliberação, enquanto mais um elemento expressivo da relevância e da urgência da edição da Medida Provisória nº 2.180-35, cujo art. 1º-D, que exime a Fazenda Pública do pagamento de honorários advocatícios nas execuções não embargadas, a Corte já deu incidenter tantum por constitucional, no julgamento do RE nº 420.816.
+E o requisito do periculum in mora, também esse se faz presente. Como demonstrado pelo autor, é já caracterizada a desavença jurisprudencial sobre a constitucionalidade da norma, e cuja incerteza implica riscos evidentes de gravame ao interesse público. Basta pensar que inúmeros embargos à execução, opostos sob confiança da validez dos textos legais, podem reputar-se intempestivos.
+E não se cingem ao Poder Público os perigos dessa instabilidade: a ninguém interessa a multiplicação de recursos sobre a validade constitucional do art. 1º-B da Medida Provisória nº 2.180-35, os quais só agravarão o congestionamento da máquina judiciária e o conseqüente retardo no desfecho dos processos.” (DJ 29.6.2007)
+
+Quanto ao perigo na demora, verifico que a Fazenda Pública poderá ser executada por quantia superior à devida, na medida em que perdeu a principal oportunidade de defesa na execução em questão.
+
+Nesse sentido foram as decisões proferidas nas Reclamações 5.665-MC/RS, rel. Min. Menezes Direito, DJ 27.11.2007; 5.758-MC/SP, de que fui relatora, DJ 07.02.2008; 5.815-MC/RS, rel. Min. Celso de Mello, DJ 03.3.2008; 5.816-MC/RS, rel. Min. Gilmar Mendes, DJ 18.02.2008; e 6.095-MC/PR, rel. Min. Eros Grau, DJ 09.6.2008.
+
+4.  Ante o exposto, defiro o pedido de liminar para suspender a tramitação da Execução Trabalhista 00811-2007-011-10-00-4.
+
+Comunique-se e publique-se.
+
+Após, abra-se vista à Procuradoria-Geral da República (arts. 16 da Lei 8.038/90 e 160 do RISTF).
+
+Brasília, 6 de agosto de 2009.
+
+Ministra Ellen Gracie
+Relatora
+
+1
