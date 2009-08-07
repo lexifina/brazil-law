@@ -1,0 +1,32 @@
+DECISÃO: Trata-se, na origem, de ação de ressarcimento ajuizada pela União em face do Distrito Federal, objetivando o ressarcimento dos valores desembolsados pela União para o pagamento dos vencimentos de servidor que ficou à disposição da Secretaria de Saúde do Distrito Federal (art. 93, § 1º, da lei 8.112.1990), no período de novembro de 2005 a agosto de 2006 (fls. 05).
+Defesa do Distrito Federal a fls. 47-72, em que se sustenta, preliminarmente, a incompetência do juiz federal para processar e julgar o feito, tendo em vista que a demanda foi instaurada entre a União e o Distrito Federal. Invocou-se a aplicação do art. 102, I, f da CF/88.
+A fls. 74-75, acolhendo a manifestação do réu, o juiz declinou de sua competência e determinou a remessa dos autos ao Superior Tribunal de Justiça.
+Embargos de declaração opostos pela União a fls. 80-87, sustentando a inexistência de conflito federativo a justificar a competência do Supremo Tribunal Federal para processar e julgar a lide.
+A fls. 94-95, o juiz monocrático acolheu parcialmente os embargos, tão-somente para determinar a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+
+Decido.
+Não está caracterizado o conflito federativo que serve de pressuposto ao reconhecimento da competência originária desta Corte para conhecer de lide instaurada entre dois entes federados.
+Nos termos do art. 102, I, f da Constituição, compete ao Supremo Tribunal Federal processar e julgar, originariamente, as causas e os conflitos entre a União e os Estados, a União e o Distrito Federal, ou entre uns e outros, inclusive as respectivas entidades da administração indireta.
+Ao interpretar o texto constitucional mencionado, expressiva parcela da jurisprudência desta Corte considera relevante para o reconhecimento da competência originária desta Corte a intensidade do risco de ruptura à harmonia federativa causada pela lide.
+Registro, nesse sentido, as ementas de alguns precedentes:
+
+“EMENTA: COMPETÊNCIA. AÇÃO CÍVEL ORIGINÁRIA. AÇÃO DE REPARAÇÃO DE DANOS DA UNIÃO CONTRA O ESTADO DE MATO GROSSO DO SUL. ACIDENTE DE TRÂNSITO. Questão patrimonial que não implica conflito federativo. Precedente. Questão de ordem resolvida para determinar o retorno dos autos ao juízo de origem.” (ACO 518 QO, Relator(a): Min. JOAQUIM BARBOSA, Tribunal Pleno, julgado em 24/06/2004, DJ 20-08-2004 PP-00036 EMENT VOL-02160-01 PP-00015 RTJ VOL-00191-03 PP-00771);
+
+“E M E N T A: AÇÃO CIVIL PÚBLICA MOVIDA PELO CONSELHO FEDERAL DE FARMÁCIA CONTRA O ESTADO DO ACRE - INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - INTELIGÊNCIA DO ART. 102, I, "F", DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE CONFLITO FEDERATIVO - RECURSO DE AGRAVO IMPROVIDO. - O art. 102, I, "f", da Constituição confere, ao Supremo Tribunal Federal, a posição eminente de Tribunal da Federação, atribuindo-lhe, nessa condição de órgão de cúpula do Poder Judiciário, competência para dirimir as controvérsias que irrompam no seio do Estado Federal, opondo as unidades federadas umas às outras, e de que resultem litígios cuja potencialidade ofensiva revele-se apta a vulnerar os valores que informam o princípio fundamental que rege, em nosso ordenamento jurídico, o pacto da Federação. Doutrina. Jurisprudência. - O Supremo Tribunal Federal não dispõe de competência originária para processar e julgar causas instauradas, contra Estado-membro, por iniciativa de autarquia federal, especialmente se esta dispuser de "estrutura regional de representação no território estadual respectivo" (RTJ 133/1059), pois, em tal hipótese, revela-se inaplicável a norma inscrita no art. 102, I, "f", da Constituição, eis que ausente qualquer situação capaz de introduzir instabilidade no equilíbrio federativo ou de ocasionar ruptura da necessária harmonia entre as entidades integrantes do Estado Federal. Precedentes.” (ACO 641 AgR, Relator(a): Min. CELSO DE MELLO, Tribunal Pleno, julgado em 24/04/2003, DJ 03-06-2005 PP-00004 EMENT VOL-02194-01 PP-00007 LEXSTF v. 27, n. 320, 2005, p. 19-28 RTJ VOL-00194-03 PP-00743);
+
+“EMENTA: Ação Cível Originária. 2. Questão de ordem. 3. Estado da Paraíba contra a União. 4. Ressarcimento de prejuízos sofridos em decorrência de acidente de trânsito entre veículos dos litigantes. 5. A competência do Supremo Tribunal Federal apenas se configura em relação a conflitos federativos que possam afetar o equilíbrio da própria Federação brasileira. Precedentes. 6. A hipótese dos autos versa sobre questão estritamente patrimonial, sem qualquer fundamento político. 7. Incompetência do Supremo Tribunal Federal. 8. Devolução dos autos ao juízo de origem.” (ACO 379 QO, Relator(a):  Min. ILMAR GALVÃO, Relator(a) p/ Acórdão:  Min. GILMAR MENDES, Tribunal Pleno, julgado em 29/05/2003, DJ 05-09-2003 PP-00030 EMENT VOL-02122-01 PP-00022).
+
+“EMENTA: AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS. AQUISIÇÃO, DE BOA-FÉ, DE VEíCULO QUE FORA OBJETO DE FURTO. DOCUMENTAÇÃO ADULTERADA. DEMANDA QUE ENVOLVE PESSOAS FÍSICAS (COMPRADOR E VENDEDOR) E PESSOAS JURíDICAS DE DIREITO PÚBLICO (ESTADO DO PARANÁ, ESTADO DO RIO DE JANEIRO E DETRAN/RJ). CONSTITUIÇÃO FEDERAL, ART. 102, INCISO I, LETRA "F". INEXISTÊNCIA DE CONFLITO FEDERATIVO. A controvérsia dos autos envolve questão meramente patrimonial, sem nenhum substrato político que possa caracterizar conflito federativo ou, de qualquer forma, afetar o equilíbrio da Federação brasileira. Incompetência do Supremo Tribunal Federal. Ação não conhecida. Devolução dos autos ao Juízo de origem. Precedentes.” (ACO 485, Relator(a): Min. CARLOS BRITTO, Tribunal Pleno, julgado em 11/03/2004, DJ 02-04-2004 PP-00007 EMENT VOL-02146-01 PP-00017 RTJ VOL 00192-01 PP-00025).
+
+Confiram-se, ainda, a ACO 1.182 (rel. min. Ellen Gracie, decisão monocrática, DJ de 17.06.2008) e a ACO 788 (rel. min. Carlos Velloso, decisão monocrática, DJ de 28.10.2005).
+No caso em exame, a lide, instaurada entre a União e o Distrito Federal, versa sobre o ressarcimento de despesas referentes ao pagamento de servidor cedido ao Distrito Federal, situação comum que não atinge, em princípio, a harmonia do pacto federativo. Observo, ainda, que ambos os litigantes não manifestaram a existência de elementos específicos que pudessem configurar o litígio como potencial risco ao pacto federativo.
+Ante o exposto, reconheço a incompetência desta Corte para conhecer originariamente da ação ordinária e determino o retorno dos autos ao juízo de origem.
+Publique-se.
+
+Brasília, 07 de agosto de 2009.
+
+Ministro JOAQUIM BARBOSA
+Relator
+
+1
