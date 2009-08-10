@@ -1,0 +1,1 @@
+Art. 29. Revogam-se as Leis nos 1.533, de 31 de dezembro de 1951, 4.166, de 4 de dezembro de 1962, 4.348, de 26 de junho de 1964, 5.021, de 9 de junho de 1966; o art. 3º da Lei nº 6.014, de 27 de dezembro de 1973, o art. 1º da Lei nº 6.071, de 3 de julho de 1974, o art. 12 da Lei nº 6.978, de 19 de janeiro de 1982, e o art. 2º da Lei nº 9.259, de 9 de janeiro de 1996.
