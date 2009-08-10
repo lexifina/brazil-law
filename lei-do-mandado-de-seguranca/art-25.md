@@ -1,0 +1,1 @@
+Art. 25. Não cabem, no processo de mandado de segurança, a interposição de embargos infringentes e a condenação ao pagamento dos honorários advocatícios, sem prejuízo da aplicação de sanções no caso de litigância de má-fé.
