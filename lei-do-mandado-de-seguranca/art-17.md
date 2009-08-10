@@ -1,0 +1,1 @@
+Art. 17. Nas decisões proferidas em mandado de segurança e nos respectivos recursos, quando não publicado, no prazo de 30 (trinta) dias, contado da data do julgamento, o acórdão será substituído pelas respectivas notas taquigráficas, independentemente de revisão.

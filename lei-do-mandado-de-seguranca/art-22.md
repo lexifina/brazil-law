@@ -1,0 +1,3 @@
+Art. 22. No mandado de segurança coletivo, a sentença fará coisa julgada limitadamente aos membros do grupo ou categoria substituídos pelo impetrante.
+§ 1º O mandado de segurança coletivo não induz litispendência para as ações individuais, mas os efeitos da coisa julgada não beneficiarão o impetrante a título individual se não requerer a desistência de seu mandado de segurança no prazo de 30 (trinta) dias a contar da ciência comprovada da impetração da segurança coletiva.
+§ 2º No mandado de segurança coletivo, a liminar só poderá ser concedida após a audiência do representante judicial da pessoa jurídica de direito público, que deverá se pronunciar no prazo de 72 (setenta e duas) horas.

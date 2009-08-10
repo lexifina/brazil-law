@@ -1,0 +1,1 @@
+Art. 26. Constitui crime de desobediência, nos termos do art. 330 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940, o não cumprimento das decisões proferidas em mandado de segurança, sem prejuízo das sanções administrativas e da aplicação da Lei nº 1.079, de 10 de abril de 1950, quando cabíveis.
