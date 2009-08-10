@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 961, de 7 de agosto de 2009
+Aprova o programa multiplataforma para preenchimento da Declaração do Imposto sobre a Propriedade Territorial Rural do exercício de 2009, para uso em computador que possua a máquina virtual Java (JVM), versão 1.4.2 ou superior, instalada.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, INTERINO, no uso das atribuições que lhe conferem os incisos III e XVII do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto na Instrução Normativa RFB nº 959, de 23 de julho de 2009, resolve:
