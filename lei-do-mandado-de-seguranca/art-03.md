@@ -1,0 +1,2 @@
+Art. 3º O titular de direito líquido e certo decorrente de direito, em condições idênticas, de terceiro poderá impetrar mandado de segurança a favor do direito originário, se o seu titular não o fizer, no prazo de 30 (trinta) dias, quando notificado judicialmente.
+Parágrafo único. O exercício do direito previsto no caput deste artigo submete-se ao prazo fixado no art. 23 desta Lei, contado da notificação.
