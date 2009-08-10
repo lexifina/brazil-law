@@ -1,0 +1,2 @@
+Altera o Título VI da Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, e o art. 1º da Lei nº 8.072, de 25 de julho de 1990, que dispõe sobre os crimes hediondos, nos termos do inciso XLIII do art. 5º da Constituição Federal e revoga a Lei nº 2.252, de 1º de julho de 1954, que trata de corrupção de menores.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
