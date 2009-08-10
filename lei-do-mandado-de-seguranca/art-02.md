@@ -1,0 +1,1 @@
+Art. 2º Considerar-se-á federal a autoridade coatora se as consequências de ordem patrimonial do ato contra o qual se requer o mandado houverem de ser suportadas pela União ou entidade por ela controlada.
