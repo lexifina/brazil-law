@@ -3,8 +3,8 @@ I - homicídio (art. 121), quando praticado em atividade típica de grupo de ext
 II - latrocínio (art. 157, § 3º, in fine);
 III - extorsão qualificada pela morte (art. 158, § 2º);
 IV - extorsão mediante seqüestro e na forma qualificada (art. 159, caput, e §§ lº, 2º e 3º);
-V - estupro (art. 213 e sua combinação com o art. 223, caput e parágrafo único);
-VI - atentado violento ao pudor (art. 214 e sua combinação com o art. 223, caput e parágrafo único);
+V - estupro (art. 213, caput e §§ 1º e 2º);
+VI - estupro de vulnerável (art. 217-A, caput e §§ 1º, 2º, 3º e 4º);
 VII - epidemia com resultado morte (art. 267, § 1º).
 VII-A - (VETADO)
 VII-B - falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais (art. 273, caput e § 1º, § 1º-A e § 1º-B, com a redação dada pela Lei nº 9.677, de 2 de julho de 1998).
