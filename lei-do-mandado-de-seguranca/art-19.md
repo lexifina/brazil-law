@@ -1,0 +1,1 @@
+Art. 19. A sentença ou o acórdão que denegar mandado de segurança, sem decidir o mérito, não impedirá que o requerente, por ação própria, pleiteie os seus direitos e os respectivos efeitos patrimoniais.
