@@ -1,0 +1,1 @@
+Art. 27. Os regimentos dos tribunais e, no que couber, as leis de organização judiciária deverão ser adaptados às disposições desta Lei no prazo de 180 (cento e oitenta) dias, contado da sua publicação.

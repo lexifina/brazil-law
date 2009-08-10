@@ -1,0 +1,1 @@
+Art. 18. Das decisões em mandado de segurança proferidas em única instância pelos tribunais cabe recurso especial e extraordinário, nos casos legalmente previstos, e recurso ordinário, quando a ordem for denegada.

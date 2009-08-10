@@ -1,0 +1,1 @@
+Art. 11. Feitas as notificações, o serventuário em cujo cartório corra o feito juntará aos autos cópia autêntica dos ofícios endereçados ao coator e ao órgão de representação judicial da pessoa jurídica interessada, bem como a prova da entrega a estes ou da sua recusa em aceitá-los ou dar recibo e, no caso do art. 4º desta Lei, a comprovação da remessa.
