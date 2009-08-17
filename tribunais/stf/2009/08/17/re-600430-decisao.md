@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. LEI N. 9.718, ART. 3º, § 1º. JULGADO RECORRIDO EM DESARMONIA COM O ENTENDIMENTO DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL. RECURSO PARCIALMENTE PROVIDO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 3ª Região:
+“TRIBUTÁRIO. COFINS. LEI N. 9.718/98. BASE DE CÁLCULO E ALÍQUOTA. CONSTITUCIONALIDADE.
+1. Não há incompatibilidade da definição de faturamento constante na Lei n. 9.718/98 em relação à legislação precedente, pois não houve inovação legal.
+2. Também não há contrariedade com o disposto no artigo 195, inciso I da Constituição Federal. Durante a fluição (sic) da anterioridade nonagesimal, adveio a Emenda Constitucional 20/98, a qual afastou qualquer dúvida sobre a constitucionalidade da novel legislação.
+3. A Lei Complementar n. 70/91 materialmente tem natureza de lei ordinária, o que não demanda a edição de lei complementar para modificá-la.
+4. O conceito de faturamento equivale à receita bruta – STF -ADCON n. 1-1/DF.
+5. Reconhecida a constitucionalidade da Lei n. 9.718/98, resta prejudicada a compensação autorizada na sentença, objeto de devolução oficial.
+6. Provimento da remessa Oficial e do recurso de Apelação interposto pela União Federal” (fl. 293).
+2. A Recorrente afirma que o Tribunal a quo teria ofendido os arts. 5º, inc. XXXVI, 59, 145, § 1º, 150, inc. II, e 195, inc. I (redação originária), da Constituição da República.
+Alega que “eivada de inconstitucionalidade se apresenta a ampliação da base de cálculo da COFINS e do PIS e a majoração da alíquota da primeira procedida pela Lei n. 9.718/98” (fl. 378).
+Requer a devolução do autos ao Tribunal de origem “para que julgue todos os outros pontos da apelação, notadamente quanto à compensação, incidência de juros, prescrição” (fl. 411).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica assiste em parte à Recorrente.
+4. O Tribunal a quo contrariou o entendimento adotado pelo Plenário do Supremo Tribunal Federal no sentido da inconstitucionalidade do § 1º do art. 3º da Lei n. 9.718/98:
+“EMENTA: RECURSO. Extraordinário. Tributo. Contribuição social. PIS. COFINS. Alargamento da base de cálculo. Art. 3º, § 1º, da Lei nº 9.718/98. Inconstitucionalidade. Precedentes do Plenário (RE nº 346.084/PR, Rel. orig. Min. ILMAR GALVÃO, DJ de 1º.9.2006; REs 357.950/RS, 358.273/RS e 390.840/MG, Rel. Min. MARCO AURÉLIO, DJ de 15.8.2006) Repercussão Geral do tema. Reconhecimento pelo Plenário. Recurso improvido. É inconstitucional a ampliação da base de cálculo do PIS e da COFINS prevista no art. 3º, § 1º, da Lei nº 9.718/98” (RE 585.235, Rel. Min. Cezar Peluso, Tribunal Pleno, DJE 28.11.2008 – grifos nossos).
+5. Quanto ao art. 8º da Lei n. 9.718/98, o julgado recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal:
+“O Tribunal reafirmou sua jurisprudência no sentido da inconstitucionalidade do § 1º do art. 3º da Lei 9.718/98, no que ampliara o conceito de receita bruta — para envolver a totalidade das receitas auferidas por pessoas jurídicas — em descompasso com a noção conceitual de faturamento prevista no art. 195, I, da CF, na redação original. Assim, proveu-se parcialmente recurso extraordinário em que empresa contribuinte sustentava, também, a inconstitucionalidade do art. 8º, caput, da mesma lei, que elevou de 2% para 3% a alíquota da COFINS. Alegava a recorrente que a Lei 9.718/98 teria criado novas exações que apenas encontrariam fundamento de validade, quando da edição desse diploma legal, no art. 195, § 4º, da CF, não havendo que se falar em majoração da alíquota da COFINS, mas sim em fixação de uma nova alíquota para um novo tributo, a reclamar a edição de lei complementar. Reiterou-se que a Corte assentara, com eficácia erga omnes, a sinonímia entre as expressões receita bruta e faturamento, jungindo-as à venda de mercadorias, de serviços ou de mercadorias e serviços (ADC 1/DF, DJU de 16.6.95). Dessa forma, tendo em conta que estabelecido que a contribuição em exame possuiria como base de incidência o faturamento e, afastado o disposto no § 1º do art. 3º da Lei 9.718/98, enfatizou-se que a COFINS estaria alcançada pelo preceito incerto no art. 195, I, da CF, o que tornaria dispensável cogitar-se de lei complementar para o aumento da alíquota. Aduziu-se que esse argumento também já teria sido analisado pelo STF” (RE 527.602, Rel. Min. Eros Grau, Redator para o acórdão o Ministro Marco Aurélio, Tribunal Pleno, julgado em 5.8.2009 – Informativo n. 454 do Supremo Tribunal Federal – grifos nossos)
+6. Pelo exposto, dou parcial provimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal), para afastar a aplicação do § 1º do art. 3º da Lei n. 9.718/98 e determinar que o Tribunal a quo julgue as questões infraconstitucionais eventualmente pendentes.
+Publique-se.
+Brasília, 17 de agosto de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
