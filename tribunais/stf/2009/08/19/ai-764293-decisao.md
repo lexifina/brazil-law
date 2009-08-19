@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MILITAR. REVISÃO DO BENEFÍCIO DA PENSÃO POR MORTE. VERIFICAÇÃO DE AFRONTA AO DIREITO ADQUIRIDO: IMPOSSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Ceará:
+“PENSÃO POR MORTE. PERCEPÇÃO A MENOR. IMPOSSIBILIDADE. INTELIGÊNCIA DA SÚMULA N. 23 – TJCE. I – Uma vez comprovada a redução da remuneração de pensionista militar sem razão plausível para tanto, há que ser restabelecido os vencimentos originários. II – Súmula n. 23 – TJCE. ‘Os vencimentos do inativo e as pensões por morte devem corresponder à totalidade do que percebia o militar, se estivesse em atividade ou se vivo fosse, estendendo-se aos inativos e aos pensionistas quaisquer benefícios ou vantagens posteriormente concedidos aos militares ativos, ainda que não sejam de caráter geral.’ III – Segurança Concedida” (fl. 57).
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 114-116).
+3. O Agravante alega que o Tribunal a quo teria contrariado os arts. 5º, caput e inc. XXXVI, e 37, caput e inc. XIV, da Constituição da República.
+Argumenta que “quando da interposição do recurso extraordinário que teve seu seguimento denegado, o Estado do Ceará demonstrou de modo fundamentado a violação ao instituto do direito adquirido” (fl. 4).
+Sustenta que “a Carta da República vigente não alberga a pretensão da suplicante, restando, assim, diretamente violado o dispositivo encartado no art. 5º, caput e inciso XXXVI, da Constituição Federal, pelo que perfeitamente cabível o recurso extraordinário para restabelecer sua fiel aplicação” (fls. 4-5).
+Analisados os elementos havidos nos autos, DECIDO.
+4. Em preliminar, é de se ressaltar que, apesar de ter sido a parte recorrente intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso extraordinário.
+5. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do direito adquirido, do ato jurídico perfeito e da coisa julgada, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa reflexa à Constituição da República.
+Nesse sentido, os seguintes julgados:
+“Arts. 5º, XXXVI, e 37, XIV, da CF/88. OFENSA INDIRETA. I - A Corte tem se orientado no sentido de que o conceito dos institutos do direito adquirido, do ato jurídico perfeito e da coisa julgada não se encontram na Constituição, mas na legislação ordinária (Lei de Introdução ao Código Civil, art. 6º). Assim, está sob a proteção constitucional a garantia desses direitos, e não seu conteúdo material (RE 437.384-AgR/RS, Rel. Min. Carlos Velloso; AI 135.632-AgR/RS, Rel. Min. Celso de Mello). II - A apreciação do recurso extraordinário, no que concerne à alegada ofensa ao art. 37, XIV, da Constituição, encontra óbice na Súmula 279 do STF. III - A ofensa à Constituição, acaso existente, seria reflexa, o que inviabiliza o recurso extraordinário. IV - Agravo regimental improvido” (RE 461.286-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 15.9.2006).
+E:
+“3. A verificação, no caso concreto, da ocorrência, ou não, de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada situa-se no campo infraconstitucional. Agravo regimental a que se nega provimento” (AI 745.970-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 7.8.2009).
+6. Nada há, pois, a prover quanto às alegações do Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 19 de agosto de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
