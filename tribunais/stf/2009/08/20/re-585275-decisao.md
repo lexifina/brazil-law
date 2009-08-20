@@ -1,0 +1,40 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. ACUMULAÇÃO DE PROVENTOS E REMUNERAÇÃO. CONTROVÉRSIA SOBRE COMPATIBILIDADE DE HORÁRIOS. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+“ADMINISTRATIVO. CONSTITUCIONAL. ACUMULAÇÃO. PROVENTOS DE PROFESSOR DE UNIVERSIDADE E VENCIMENTOS DE PROFESSOR DE ENSINO DE 1º E 2º GRAUS. POSSIBILIDADE. ART. 11 DA EC Nº 20/98. DESCABIMENTO DE REDUÇÃO DE CARGA HORÁRIA.
+1. Corroboração da r. sentença. Possibilidade de que o Autor acumule os proventos de aposentadoria referentes ao cargo de professor da Universidade Federal de Sergipe com os vencimentos
+referentes ao cargo de professor da Escola Técnica Federal de Sergipe. Inteligência do Art. 11 da EC nº 20/98. Precedente.
+2. Apelação e Remessa Oficial, tida por interposta, improvidas” (fl. 81).
+Tem-se no voto condutor do julgado recorrido:
+“Da r. decisão objurgada trago o seguinte escólio:
+‘Ora, na situação concreta dos autos, restou incontroverso o fato de que o demandante é professor aposentado pela UFS (Universidade Federal de Sergipe), desde 31/03/1998 e que acumulava este cargo com o de ‘Professor de Ensino de 1º e 2º Graus, NS, Classe E, Nível 01, do Quadro de Pessoal Permanente’ da Escola Técnica Federal de Sergipe, consoante nos atesta o doc. de fl. 08, o qual também demonstra que a ampliação da carga horária do Autor para quarenta horas semanais, ocorreu, realmente, após a sua aposentação.
+Resta claro que, diante do art. 11, da EC nº 20, carece de sustentação a fundamentação, baseada no art. 118, § 3º, de que tal acumulação está vedada porque há incompatibilidade entre as
+cargas horárias consideradas para o cargo no qual se aposentou e a que presta, após 27/04/1998, data em que foi deferido o pedido de ampliação da mesma’ (fl. 55).
+Corroboro os doutos fundamentos acima expendidos. Da análise da
+legislação acima ventilada, bem como da r. sentença susorreferida, verifico que é possível que o Autor acumule os proventos de aposentadoria referentes ao cargo de professor da Universidade Federal de Sergipe com os vencimentos referentes ao cargo de professor da Escola Técnica Federal de Sergipe, posto que o caso do Autor se subsume ao art. 11 da EC nº 20/98” (fls. 76-77 – grifos nossos).
+2. A Recorrente afirma que o Tribunal a quo teria ofendido o art. 37, inc. XVI e § 10, da Constituição da República.
+Alega que:
+“Da análise dos autos, percebe-se que os cargos não poderiam ser acumuláveis para quem os exercesse simultaneamente, ou seja, caso se tratasse de dois cargos públicos de professor, em exercício, jamais poderiam ser exercidos em conjunto, vez que o exercido na Escola Técnica Federal de Sergipe é realizado em regime de dedicação exclusiva, o que inviabiliza qualquer outro tipo de atividade, em virtude de sua peculiaridade, mesmo assim, contrariando a lei, o acórdão de fls. Reiterou os termos da sentença (...).
+(...)
+Ora, os cargos acumuláveis na forma da Constituição estão explicitados no inciso XVI do art. 37, que aduz que a acumulação será permitida, como dito anteriormente, quando houver compatibilidade de horários. Não se pode fugir a essa regra, na interpretação do art. 11 da emenda constitucional citada: não havendo compatibilidade de horários, segundo o dispositivo constitucional e infraconstitucional, o servidor estará fora do alcance daquela norma.
+(...)
+Desta forma, a única alternativa para a Administração pública, e a que deveria ter sido adotada pelo acórdão recorrido, é reduzir a carga horária do Autor/Recorrido (...)” (fls. 102-104 – grifos nossos).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste à Recorrente.
+4. O Tribunal a quo expressamente afirmou que o aumento na carga horária do cargo de professor de ensino médio exercido na Escola Técnica Federal de Sergipe (Recorrente) ocorreu após a aposentadoria do Recorrido no cargo de professor da Universidade Federal de Sergipe, o que sugere que não haveria incompatibilidade de horários quando os dois cargos eram exercidos concomitantemente.
+Para se concluir de modo diverso seria imprescindível o reexame de fatos e provas, o que é vedado pela Súmula 279 do Supremo Tribunal Federal.
+Além disso, a questão relativa ao suposto regime de dedicação exclusiva relativo ao cargo de professor de ensino médio pressupõe a análise da norma infraconstitucional que o regulamenta, o que também não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta.
+Confiram-se, a propósito, os seguintes julgados:
+“EMENTA: 1. RECURSO. Extraordinário. Inadmissibilidade. Reexame de fatos e provas. Aplicação das súmulas nº 279. Agravo regimental improvido. Não cabe recurso extraordinário que tenha por objeto o simples reexame de fatos e provas. 2. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte. 3. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (RE 330.907-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJE 9.5.2008 – grifos nossos).
+“RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL DESPROVIDO. O Tribunal a quo decidiu a controvérsia com fundamento em norma infraconstitucional e nas provas contidas nos autos” (RE 376.599-AgR, de minha relatoria, DJ 2.2.2007).
+“EMENTA: PROFESSOR. REGIME DE DEDICAÇÃO EXCLUSIVA. EXERCÍCIO CUMULATIVO DE FUNÇÃO GRATIFICADA. O acórdão recorrido afastou a ocorrência de acumulação vedada mediante consistente interpretação de dispositivo constitucional, inatacado no recurso extraordinário. Mostra-se, ademais, inadmissível o recurso extraordinário por se estar diante de ofensa indireta à Constituição. Recurso não conhecido” (RE 203.066, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 7.5.1999 – grifos nossos).
+5. Ressalte-se, ainda, que a alegação da Recorrente de que a interpretação do art. 11 da Emenda Constitucional n. 20/98 estaria vinculada à observância do requisito de compatibilidade de horários contraria a disposição literal ali contida de afastamento da regra do § 10 do art. 37 da Constituição, o qual, por sua vez, remete ao inc. XVI do mesmo artigo, que disciplina a acumulação de cargos públicos.
+Confira-se, a propósito, o seguinte julgado:
+“EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. ACUMULAÇÃO DE PROVENTOS COM VENCIMENTOS. SUPERVENIÊNCIA DA EC-20/98. Servidor público. Acumulação de cargos. Nomeação e posse antes da promulgação da Emenda Constitucional 20/98. Observância do disposto no artigo 11 da referida emenda constitucional, que exclui da vedação de acumular proventos e vencimentos a situação dos servidores inativos que tenham ingressado novamente no serviço público por concurso de provas ou de provas e títulos, e pelas demais formas previstas na Constituição, até a data de sua publicação. Convalidação de atos administrativos anteriormente praticados em desacordo com as disposições do artigo 37, XVI, da Constituição do Brasil. Precedentes. Agravo regimental não provido” (RE 190.326-AgR, Rel. Min. Eros Grau, Primeira Turma, DJ 24.6.2005 – grifos nossos).
+6. Nada há, pois, a prover quanto às alegações da Recorrente.
+7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 20 de agosto de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
