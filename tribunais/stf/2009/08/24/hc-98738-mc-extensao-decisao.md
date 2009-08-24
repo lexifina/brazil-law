@@ -1,0 +1,36 @@
+DECISÃO
+HABEAS CORPUS – LIMINAR – EXCESSO DE PRAZO – EXTENSÃO A CORRÉU - DEFERIMENTO.
+1.  Eis como a Assessoria resumiu o quadro relativo ao pleito de extensão formalizado:
+Vossa Excelência deferiu o pedido de medida acauteladora mediante a seguinte decisão (folha 129 a 131):
+PROCESSO-CRIME – JÚRI – PRISÃO PREVENTIVA – PROJEÇÃO NO TEMPO – EXCESSO DE PRAZO – HABEAS CORPUS – LIMINAR DEFERIDA.
+1. A Assessoria assim revelou a situação deste processo:
+Vossa Excelência, às folhas 59 e 60, proferiu o seguinte despacho:
+HABEAS CORPUS - INFORMAÇÕES.
+1. O impetrante alega estar o paciente submetido a constrangimento ilegal por encontrar-se preso desde 6 de janeiro de 2005. Diz que, apesar de a defesa não ter contribuído para a demora da entrega da prestação jurisdicional, o agente só foi pronunciado em 5 de março de 2008 e o julgamento pelo Tribunal Popular ocorrerá somente em 11 de maio de 2010 (folha 52). Sustenta a ilegalidade do ato que resultou na custódia processual.
+Consoante o documento de folha 22, o Tribunal de Justiça do Estado de São Paulo não acolheu o pedido de medida acauteladora formulado no Habeas Corpus nº 990.043570-4, mediante o qual se buscou o afastamento do ato de prisão preventiva, considerado o excesso de prazo. Formalizou-se, então, impetração no Superior Tribunal de Justiça - de nº 130.375/SP. O Ministro Arnaldo Esteves Lima indeferiu liminarmente a petição inicial, tendo em conta o óbice revelado no Verbete nº 691 da Súmula do Supremo. É essa a decisão ora atacada.
+2. Este habeas está dirigido, até mesmo presente a competência do Supremo, contra pronunciamento do Superior Tribunal de Justiça. Daí a necessidade de retificar a autuação, afastando-se, como coatores, o juiz da Vara do Júri da Comarca de Osasco e o Tribunal de Justiça do Estado de São Paulo. À Judiciária, para as providências cabíveis.
+3. O processo não está instruído com cópia da petição do habeas formalizado perante o Superior Tribunal de Justiça, da inicial da impetração apreciada pelo Tribunal de Justiça do Estado de São Paulo, da decisão de não-acolhimento do pleito acautelador, do ato de custódia preventiva e do mandado de prisão devidamente cumprido. À míngua de elementos, não há como examinar o pedido de concessão de medida liminar.
+4. Oficiem ao Superior Tribunal de Justiça, ao Tribunal de Justiça do Estado de São Paulo e ao Juízo da Comarca de Osasco onde tramita a Ação Penal nº 27/05-A, para prestarem informações a respeito dos fatos noticiados na impetração e providenciarem a remessa das peças mencionadas, necessárias à apreciação do pleito formulado.
+5. Ao impetrante, para, querendo, antecipar-se quanto às providências.
+6. Publiquem.
+Brasília, 28 de abril de 2009.
+O impetrante, por meio da petição de folha 66 a 68, noticia que o Juízo Criminal, em 1º de abril de 2009, determinou o remembramento dos processos, redesignando a data de julgamento, pelo Tribunal do Júri, para 24 de setembro de 2009.
+O Juízo da Vara do Júri e Execuções Criminais da Comarca de Osasco/SP informa ter sido o paciente preso, em flagrante delito, no dia 6 de janeiro de 2005. A peça acusatória foi recebida em 19 de janeiro de 2005 e, finda a instrução, adveio a sentença de pronúncia por infração aos artigos 121, § 2º, incisos I e IV, e 121, § 2º, incisos I e IV, combinado com o artigo 14, inciso II (por sete vezes), do Código Penal.
+Esclarece ter anotado a data de 11 de maio de 2010 para o julgamento pelo Tribunal do Júri. Contudo, porque designado o dia 24 de setembro de 2009 para o julgamento dos corréus Robson Alexandre dos Santos e Jaqueline da Silva Lira, houve remembramento dos processos (folha 79 a 81). A sentença de pronúncia, juntada à folha 87 à 92, refere-se apenas ao paciente, porque proferida em processo antes desmembrado – Ação Penal nº 27/05. Está expresso na sentença que, “tendo em vista a gravidade dos crimes anunciados e a necessidade da custódia do réu para garantia da ordem pública e futura aplicação da lei penal, não poderá aguardar o julgamento em liberdade. Recomende-se o réu na prisão em que se encontra”.
+O Superior Tribunal de Justiça prestou informações (folha 121), acompanhadas de cópia da decisão mediante a qual indeferida a medida acauteladora requerida no Habeas Corpus nº 130.375.
+2. Confirma-se a data da prisão provisória do paciente – 6 de janeiro de 2005. Encontra-se sob a custódia do Estado, sem culpa formada, há mais de quatro anos. Esta situação já se fazia presente quando o relator no Superior Tribunal de Justiça, procedendo mediante atuação monocrática, veio a indeferir liminarmente a inicial do Habeas Corpus nº 130.375/SP. Diante desse quadro, vê-se a configuração de ilegalidade.
+3. Defiro a medida acauteladora para expedir-se o alvará de soltura, a ser cumprido com as cautelas próprias, vale dizer, caso o paciente não esteja preso por motivo diverso da prisão preventiva decretada no processo em curso no Juízo de Direito da Vara do Júri e Execuções Criminais da Comarca de Osasco.
+4. Colham o parecer da Procuradoria Geral da República.
+5. Publiquem.
+Brasília – residência –, 14 de junho de 2009, às 10h30.
+Por meio da Petição/STF nº 85.695/2009, os advogados Lindenberg Pessoa de Assis e Paula Adriana Pires, evocando o princípio da isonomia e o disposto no artigo 580 do Código de Processo Penal, requerem, em favor do corréu Robson Alexandre dos Santos, a extensão dos efeitos do referido pronunciamento, determinando-se a expedição de alvará de soltura, pois, afirmam, resta evidenciado o excesso de prazo de prisão sem a formação da culpa. Dizem responder o beneficiário à mesma ação penal e, tendo sido pronunciado, estar a aguardar a realização da sessão do Tribunal do Júri designada para 24 de setembro de 2009, consoante anotado na decisão concessiva da providência cautelar, à vista da documentação que instrui o processo.
+Vossa Excelência determinou fosse requisitado o processo, que se encontrava na Procuradoria Geral da República, para exame do pedido (folha 156).
+O impetrante deste habeas também apresentou pedido de extensão dos efeitos da liminar em favor do referido corréu (folha 159 a 162). O pleito veio acompanhado de certidão (folha 149), dela constando que o pretenso beneficiário da extensão encontra-se preso preventivamente desde 3 de fevereiro de 2005, em virtude de decisão proferida no Processo-Crime nº 27/2005, no qual figura como réu o paciente.
+Anoto também terem sido pronunciados os réus Gilberto Vieira da Silva, Rafael Aparecido dos Santos e Salvador Vieira da Silva Sobrinho. Contudo, não há, no processo, documento comprobatório da data em que efetivados os mandados de prisão preventiva expedidos contra eles.
+2.  O paciente foi preso em 6 de janeiro de 2005 e o corréu em 3 de fevereiro do mesmo ano. A diferença não afasta a incidência do disposto no artigo 580 do Código de Processo Penal. O que se nota é praticamente a identidade de situações, com configuração do excesso de prazo.
+3.  Estendo a liminar deferida ao corréu Robson Alexandre dos Santos. Observem a cautela contida no item 3 do ato objeto de extensão.
+4.  Devolvam o processo à Procuradoria Geral da República.
+5.  Publiquem.
+Brasília – residência –, 24 de agosto de 2009, às 19h50.
+Ministro MARCO AURÉLIO
+Relator
