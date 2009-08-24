@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. 2. EXECUÇÃO JUDICIAL. PENHORA. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL SUSCITADA. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“PROCESSUAL CIVIL. EXECUÇÃO POR TÍTULO JUDICIAL. DEFERIMENTO DE OFÍCIO À SECRETARIA DA RECEITA FEDERAL E AO DETRAN EM BUSCA DE BENS DA EXECUTADA QUE INDICOU BENS JÁ GRAVADOS QUE FORAM RECUSADOS. AGRAVO. 1. Se, chamada a cumprir sentença condenatória a devedora não o fez e indicou à penhora bens imóveis já gravados por outras penhoras e não tinha saldo em conta corrente quando foi tentada a penhora on line, justifica-se plenamente a expedição de ofício a Receita Federal e ao DETRAN em busca de bens livres e penhoráveis, pois o objetivo da execução é a realização do crédito do exequente e não a proteção dos bens do executado. 2. Agravo de instrumento a que se nega provimento” (fl. 95).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário: a) a ausência de prequestionamento da matéria constitucional suscitada; b) a necessidade de exame de matéria infraconstitucional; e c) a incidência da Súmula 279 do Supremo Tribunal Federal na espécie (fls. 217-218).
+ 4. A Agravante alega que teria sido contrariado o art. 5º, inc. XII, da Constituição da República.
+Argumenta que “a matéria foi prequestionada, (...) não havia necessidade de que fossem apresentados embargos de declaração para tal finalidade” (fl. 9).
+Afirma, também, que teria havido ofensa direta à Constituição da República e que não haveria necessidade do reexame da matéria fática e do conjunto probatório dos autos.
+Analisada a matéria posta à apreciação, DECIDO.
+5. Em preliminar, é de se ressaltar que, apesar de ter sido a Agravante intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso.
+6. Razão jurídica não assiste à Agravante.
+7. A matéria constitucional suscitada no recurso extraordinário – art. 5º, inc. XII - não foi objeto de exame e debate prévios no Tribunal de origem. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento.
+É de se anotar que o cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria, o que ocorre em momento processual adequado, nos termos da legislação vigente.
+A jurisprudência do Supremo Tribunal firmou-se no sentido de que, ainda que surgida a alegada ofensa constitucional no acórdão recorrido, é necessária a oposição de embargos de declaração, se não houver a análise da ofensa pelo órgão judicante. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência do Supremo Tribunal firmou-se no sentido de que, ainda que surgida a alegada ofensa constitucional no acórdão recorrido, é necessária a oposição de embargos de declaração, se não houver a análise da ofensa pelo órgão judicante. Precedentes. 2. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 724.601-AgR, de minha relatoria, Primeira Turma, DJe 3.4.2009).
+E
+“PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. SÚMULAS STF 282 E 356. FUNDAMENTO INFRACONSTITUCIONAL PRECLUSO. SÚMULA STF 283. 1. Não tendo sido apreciadas, pela instância a quo, as questões constitucionais em que se apóia o extraordinário, é imprescindível a oposição de embargos de declaração para suprir o prequestionamento. Súmulas STF 282 e 356. 2. O Supremo Tribunal não admite o ‘prequestionamento implícito’ da questão constitucional. AI 413.963-AgR/SC, rel. Min. Celso de Mello, DJ 1º.04.2005. (...) 4. Agravo regimental improvido” (RE 556.688-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 27.2.2009).
+Nada há, pois, a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 24 de agosto de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
