@@ -1,0 +1,2 @@
+Insere inciso III no art. 3º da Lei nº 8.038, de 28 de maio de 1990, para prever a possibilidade de o relator de ações penais de competência originária do Superior Tribunal de Justiça e do Supremo Tribunal Federal convocar desembargador ou juiz para a realização de interrogatório e outros atos de instrução.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
