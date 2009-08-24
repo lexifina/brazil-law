@@ -1,0 +1,28 @@
+1. A Confederação Nacional das Profissões Liberais – CNPL propôs a edição de súmula vinculante que, na interpretação dos artigos 22 e 24 do Estatuto da Advocacia (Lei Federal 8.906/94), reconheça, sem qualquer distinção, a natureza alimentar do crédito proveniente de honorários advocatícios convencionados, fixados por arbitramento judicial ou decorrentes da sucumbência.
+
+Encerrado o prazo, assinalado em edital, para a manifestação de interessados, determinei que a Secretaria submetesse os autos, sucessivamente, aos demais integrantes desta Comissão, para que pudessem se manifestar sobre a adequação formal da presente proposta externa, tudo conforme o art. 1º da Resolução STF 388, de 05.12.2008 (fl. 130).
+
+O eminente Ministro Ricardo Lewandowski, em sua douta manifestação, considerou preenchidos todos os requisitos formais da presente proposta (fls. 134-135). O eminente Ministro Joaquim Barbosa, por sua vez, apontando a ilegitimidade ativa da proponente e a falta de concretude finalística do pedido formulado, manifestou-se pela ausência de adequação formal da proposta ora em análise (fls. 137-142).
+
+2. Conforme dispõem o art. 103-A, § 2º, da Constituição Federal, e o art. 3º da Lei 11.417/2006, somente estão autorizadas a propor a edição de súmula vinculante as autoridades e entidades legitimadas a ajuizar ações diretas de inconstitucionalidade (art. 103 da Constituição), bem como o Defensor Público-Geral da União, os Tribunais Superiores, os Tribunais de Justiça dos Estados e do Distrito Federal, os Tribunais Regionais Federais, do Trabalho e Eleitorais, os Tribunais Militares e os Municípios, nos processos em que sejam parte (art. 3º, VI e XI, da Lei 11.417/2006).
+
+Tal como enfatizado pelo eminente Ministro Joaquim Barbosa, desponta, no presente procedimento, a ilegitimidade ativa ad causam da proponente. É que, não obstante seu enquadramento como entidade sindical de terceiro grau voltada à defesa dos interesses de todos os profissionais liberais, a matéria tratada nesta proposta diz respeito, exclusivamente, aos advogados brasileiros, cujos interesses devem ser defendidos pela Ordem dos Advogados do Brasil.
+
+3. No julgamento de mérito da ADI 2.522, rel. Min. Eros Grau, DJ de 18.08.2006, esta Suprema Corte, ao isentar os advogados da obrigatoriedade do pagamento da contribuição sindical, asseverou que a OAB ampara todos os inscritos, empregados ou não. Fixou, também, que, com relação aos advogados, as funções que são normalmente desempenhadas pelos sindicatos “foram atribuídas à Ordem dos Advogados”.
+
+Note-se que a referida ADI 2.522, também proposta pela ora proponente, foi obviamente conhecida por ter como objeto norma que previa a isenção do pagamento de contribuição de natureza sindical. Todavia, no presente caso, a matéria em discussão – natureza alimentar dos honorários advocatícios – interessa, apenas e tão-somente, aos profissionais da Advocacia.
+
+Possuindo o Conselho Federal da Ordem dos Advogados do Brasil igual legitimidade para ajuizar ações diretas de inconstitucionalidade (art. 103, VII), é esta entidade que deve, à luz da jurisprudência citada e dos arts. 103-A, § 2º, da Constituição Federal, e 3º da Lei 11.417/2006, propor a edição, a modificação ou o cancelamento de súmula vinculante de exclusivo interesse dos advogados brasileiros.
+
+4. Ausente, dessa forma, requisito de legitimação da entidade sindical proponente, também eu manifesto-me pela inadequação formal da presente proposta externa de edição de súmula vinculante.
+
+Encerrada a atuação desta Comissão de Jurisprudência, encaminhem-se os presentes autos à Presidência do Supremo Tribunal Federal.
+
+Publique-se.
+
+Brasília, 24 de agosto de 2009.
+
+Ministra Ellen Gracie
+Presidente da Comissão de Jurisprudência
+
+1
