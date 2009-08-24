@@ -1,0 +1,15 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Pará. Acórdão cuja ementa é a seguinte (fls. 98/99):
+“AÇÃO ORDINÁRIA DE COBRANÇA. REEXAME DE SENTENÇA. AUSÊNCIA DE LICITAÇÃO. OBRIGATORIEDADE PREVISTA NO ART. 14, DA LEI 5.416/87. CAUSA ALHEIA À VONTADE DO VENDEDOR. IRREGULARIDADES CAUSADAS PELA PRÓPRIA ADMINISTRAÇÃO PÚBLICA, A QUEM INCUBE A OBRIGAÇÃO DE PROMOVER A ALUDIDA LICITAÇÃO. ATO ADMINISTRATIVO QUE PRODUZIU SEUS JURÍDICOS E LEGAIS EFEITOS DE COMPRA E VENDA, RESULTANDO NA OBRIGAÇÃO DO ESTADO DE EFETUAR A DEVIDA CONTRAPRESTAÇÃO, QUE É O PAGAMENTO. O NÃO PAGAMENTO PELO ESTADO CONSTITUIR-SE-Á EM ENRIQUECIMENTO ILÍCITO, QUE CONTRARIA O PRINCÍPIO DA MORALIDADE ADMINISTRATIVA, PRINCÍPIO CONSTITUCIONAL EMANADO NO ART. 37 DO CF/88. OUTROSSIM, SEGUNDO INTELIGÊNCIA DO ART. 243, DO CPC, A NULIDADE ARGUIDA PELA ADMINISTRAÇÃO NÃO PODE LHE APROVEITAR, PORQUE FOI ESTA QUEM LHE DEU CAUSA. RECURSO CONHECIDO, MAS NÃO PROVIDO. SENTENÇA MANTIDA. DECISÃO UNÂNIME.”
+2. Pois bem, a parte recorrente alega ofensa ao caput e inciso XXI do art. 37 da Magna Carta.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Francisco Adalberto Nóbrega, opina pelo conhecimento e desprovimento do recurso.
+4. Tenho que a insurgência não merece acolhida. É que a parte recorrente não atacou as razões utilizadas pelo Tribunal de origem para decidir a controvérsia (princípios da vedação ao enriquecimento sem causa e da moralidade administrativa). Pelo que persistem os fundamentos autônomos e suficientes para a manutenção do acórdão recorrido. O que atrai a Súmula 283 do STF.
+5. Não bastasse, anoto que o Tribunal paraense, soberano na interpretação das provas e fatos pertinentes à controvérsia, concluiu que as mercadorias constantes das notas fiscais sob exame foram efetivamente entregues à Administração Pública. Para cimentar meu ponto de vista, reproduzo o seguinte trecho do voto condutor do aresto impugnado (fls. 101):
+“As Notas Fiscais das mercadorias ora cobradas foram efetivamente recebidas pela SEDUC; caso contrário não teriam sido devidamente empenhadas, como foram, todas, em número de 6.
+Ademais, às fls. 20, 22, 25 e 28, verifica-se que foram juntadas novas cópias das Notas Fiscais de nºs 2279, 2303, 2305 e 2307, em cujos versos está o carimbo do Departamento de Administração de Material da SEDUC, recebendo as mercadorias constantes das aludidas notas, onde aparece a assinatura da senhora Cláudia Vinagre Mello, chefe do referido Departamento.”
+6. Nessa contextura, para se chegar a conclusão diversa desse entendimento, faz-se necessário o reexame do acervo fático-probatório dos autos. Providência vedada na instância extraordinária, a teor da Súmula 279 desta colenda Corte.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 24 de agosto de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
