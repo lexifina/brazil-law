@@ -1,0 +1,36 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. 1. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. 2. DISCUSSÃO SOBRE A MAJORAÇÃO DA MÉDIA DE PONTUAÇÃO NO CERTAME: IMPOSSIBILIDADE NA VIA EXTRAORDINÁRIA. REEXAME DE PROVAS E ANÁLISE DE NORMAS EDITALÍCIAS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Superior Tribunal de Justiça:
+“RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ARREDONDAMENTO DE NOTA. INVIABILIDADE. ISONOMIA RESPEITADA. RECURSO DESPROVIDO.
+I – A alteração de nota de concurso público decorrente de correção de prova não se identifica com mero arredondamento, especialmente quando este não encontra respaldo no edital do certame.
+II – O princípio da isonomia não resta violado quando as razões apresentadas pela recorrente com vistas ao arredondamento de nota diferem-se daquelas consideradas pela banca examinadora no que diz respeito aos demais candidatos que obtiveram elevação de suas notas. Recurso desprovido” (fl. 747).
+ Consta do voto condutor do julgado recorrido:
+“as razões do recurso administrativo apresentado pela mencionada candidata estão nos autos. Lá está escrito (fls. 194/197), entre outros fundamentos, que a banca examinadora teria deixado de considerar determinados argumentos apresentados na prova de sentença e, dessa forma, far-se-ia necessária a alteração da pontuação que lhe foi atribuída.
+Constato, portanto, que tal situação - ausência de apreciação de argumento constante de prova e não apreciado pela banca - não se identifica com a da recorrente, uma vez que esta, como bem enfatizado nas razões recursais, pretende alteração de sua média à luz do fundamento de que a pontuação dos títulos deveria ser antecipada para fins de média final. Situações, evidentemente, diversas. O mesmo se verifica em relação aos demais candidatos citados na exordial, como, v. g., Juracy José da Silva. A decisão da banca quanto que recurso administrativo desse candidato é expresso ao reconhecer erro material. Eis o que afirmou a banca examinadora: (...). Não é diferente a situação do candidato Marcelo Ferraz Volpato: (...). As razões do recurso administrativo do candidato Eliezer Mattos Scherrer Júnior (fls. 402/415) apontam no mesmo sentido, ou seja, não se identificam com os argumentos apresentados pela recorrente.
+Não há, pois, como cogitar de afronta a isonomia.
+Cabe destacar, ainda, que a correção das notas de tais candidatos se deu em relação a uma das provas, por razões de erro material em uma prova, enquanto a recorrente pretende arredondamento da média de todas as provas, a partir da consideração de títulos.
+Evidente a discrepância entre as situações.
+(...) Mutatis mutandi, na espécie, como visto, as razões apresentadas pela recorrente não se identificam com as consideradas pela banca examinadora no que diz respeito aos demais candidatos que obtiveram elevação de suas notas. Dessa forma, nego provimento ao presente recurso ordinário” (fls. 747-750 – grifos nossos).
+2. Ambos os recursos de embargos de declaração opostos pela ora Recorrente foram rejeitados (fls. 767 e 785).
+3. A Recorrente alega que o Tribunal a quo teria contrariado os arts. 5º, caput, 37, caput, 93, IX, da Constituição da República.
+Argumenta que “os títulos da Recorrente não foram admitidos, na contramão do princípio da razoabilidade, com esteio no que dispõe o art. 23 do mesmo Edital, o qual exige que o candidato obtenha média 6 (seis) para prosseguir no certame com a apresentação dos títulos – da fase IV do concurso” (fl. 833).
+Sustenta que “postulou a aplicação do princípio da isonomia, uma vez que outros candidatos que participaram do mesmo certame obtiveram a majoração de suas notas, em situação vedada pelo Edital do concurso” (fl. 834).
+Apreciada a matéria trazida na espécie, DECIDO .
+4. Em preliminar, é de se ressaltar que, apesar de ter sido a Recorrente intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso.
+5. A alegação de nulidade dos acórdãos dos embargos de declaração por ofensa ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da Recorrente, os acórdãos recorridos apresentaram suficiente fundamentação.
+Como afirma a jurisprudência do Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional”(RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+6. Razão jurídica não assiste à Recorrente.
+7. Na espécie vertente, o Superior Tribunal de Justiça negou provimento ao recurso ordinário em mandado de segurança, com base na análise das cláusulas do edital e das decisões proferidas pela banca do certame nos recursos administrativos apresentados pela ora Recorrente e por outros candidatos.
+Para se concluir de modo diverso do acórdão recorrido, seriam necessários a análise das normas editalícias e o reexame do conjunto probatório dos autos, procedimentos não admitidos em recurso extraordinário, o que faz incidir as Súmulas 279 e 454 no Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXAME DE APTIDÃO FÍSICA. IMPOSSIBILIDADE DA ANÁLISE DAS NORMAS EDITALÍCIAS E DO REEXAME DE PROVAS: INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 716.174-AgR, de minha relatoria, Primeira Turma, DJe 14.8.2009).
+E
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. INTERPRETAÇÃO DAS CLÁUSULAS EDITALÍCIAS. IMPOSSIBILIDADE. Critério de classificação de candidatos. Interpretação das cláusulas editalícias e reexame da matéria fático-probatória. Súmulas 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 726.001-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 28.11.2008).
+Não há, pois, o que prover quanto às alegações da Recorrente.
+8. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 26 de agosto de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
