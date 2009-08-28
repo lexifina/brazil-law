@@ -1,0 +1,19 @@
+DECISÃO: Vistos, etc.
+Trata-se de recursos extraordinários, interpostos pelo Município de Vitória/ES e pela União, com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão da Turma Recursal dos Juizados Especiais Federais, da Seção Judiciária do Espírito Santo. Acórdão cuja ementa é a seguinte (fls. 193):
+“CONSTITUCIONAL. ADMINISTRATIVO. DIREITO À SAÚDE. ACOMPANHAMENTO CLÍNICO E PSICOLÓGICO DESTINADO A AFERIR A VIABILIDADE DE CIRURGIA DE TRANSGENITALIZAÇÃO. COMISSÃO MULTIDISCIPLINAR. INTERRUPÇÃO. ALEGADOS ÓBICES AO PROSSEGUIMENTO. INCONSISTÊNCIA. CARÁTER TERAPÊUTICO. PROTEÇÃO À VIDA E À DIGNIDADE DA PESSOA HUMANA, GARANTIA DE TRAMENTO ISONÔMICO. REVISÃO DE MÉRITO ADMINISTRATIVO. IMPERTINÊNCIA RECURSO PARCIALMENTE PROVIDO.
+1. Consagração da saúde como direito fundamental da pessoa humana, evidenciada pelos artigos 196 e seguintes da Constituição da República de 1988. Solidariedade entre os Réus, todos legitimados, quanto à gestão das políticas de saúde e à responsabilidade pela sua implementação. Competência da Justiça Federal.
+2. Os fatos e fundamentos apresentados pelos Réus revelam-se frágeis, incapazes de justificar a interrupção do programa experimental previamente desenvolvido pelo HUCAM e ao qual se encontrava o Autor devidamente cadastrado.
+3. Conforme propriamente delineado, não há que se falar, no caso concreto, em revisão do mérito administrativo ou interferência indevida do Poder Judiciário sobre o juízo discricionário da Administração Pública, impondo-se, por seu turno, a proteção à vida e à dignidade da pessoa humana, bem como a restauração da isonomia, claramente comprometida em fundação da interrupção do programa, dotado de finalidade terapêutica, não estética.
+4. Recurso conhecido e parcialmente provido, para condenar os Réus, solidariamente, a prosseguir o acompanhamento do paciente previamente cadastrado, a ser empreendido por Comissão Multidisciplinar adequadamente composta, a quem caberá emitir o parecer a cerca da adequação física e psicológica necessária para a realização da cirurgia, a ser realizada, no caso da conclusão em sentido positivo, no HUCAM, em outro hospital público (porventura provido de melhores recursos) ou mesmo em estabelecimento privado, às expensas do SUS.
+5. Sem condenação em custas ou honorários.”
+2. Pois bem, o Município de Vitória alega, em síntese, violação aos arts. 6º, 196 e 200 da Constituição Federal; e a União, ao art. 2º, ao caput do art. 37 e ao inciso I do art. 198, todos da Carta Magna.
+3. A Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Wagner de Castro Mathias Netto, opina pelo provimento dos apelos extremos.
+4. Tenho que os recursos não merecem acolhida. De saída, observo que os arts. 6º, caput do art. 37 e 200 da Constituição da República não foram objetos de análise pelo aresto impugnado, não havendo sido opostos embargos declaratórios para suprir eventual omissão. É dizer: no ponto, o recurso carece do indispensável prequestionamento (Súmulas 282 e 356 do STF).
+5. Quanto à questão de fundo, observo que entendimento diverso do adotado pelo aresto impugnado exigiriam o reexame da legislação infraconstitucional pertinente, bem como a análise do conjunto fático-probatório dos autos (Súmula 279 do STF), providências vedadas na instância extraordinária.
+6. À derradeira, anoto que o acórdão recorrido afina com a jurisprudência desta colenda Corte no tocante à extensão do direito à saúde. Confiram-se, a propósito, os REs 195.192, da relatoria do Ministro Marco Aurélio; 223.835, da relatoria do Ministro Ilmar Galvão; e 271.286-AgR, da relatoria do Ministro Celso de Mello.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1o do art. 21 do RI/STF, nego seguimento aos recursos.
+Publique-se.
+Brasília, 28 de agosto de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
+1
