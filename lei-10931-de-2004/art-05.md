@@ -1,2 +1,2 @@
-Art. 5º O pagamento unificado de impostos e contribuições efetuado na forma do art. 4º deverá ser feito até o décimo dia do mês subseqüente àquele em que houver sido auferida a receita.
+Art. 5º O pagamento unificado de impostos e contribuições efetuado na forma do art. 4º deverá ser feito até o 20º (vigésimo) dia do mês subsequente àquele em que houver sido auferida a receita.
 Parágrafo único. Para fins do disposto no caput, a incorporadora deverá utilizar, no Documento de Arrecadação de Receitas Federais - DARF, o número específico de inscrição da incorporação no Cadastro Nacional das Pessoas Jurídicas - CNPJ e código de arrecadação próprio.
