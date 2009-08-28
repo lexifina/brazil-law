@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA EM DINHEIRO. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL E DA EFETIVA PRESTAÇÃO JURISDICIONAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. PENHORA DE DINHEIRO. CEEE. REPRODUÇÃO DA INCONFORMIDADE. Mostrando-se correta a decisão atacada pelo agravo, do que não há discrepância, justifica-se a negativa liminar de seguimento. Reprodução da inconformidade. Razões não suficientes para justificar a reforma da decisão. Agravo desprovido” (fl. 73).
+2. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência, na espécie, das Súmulas 282 e 356 do Supremo Tribunal Federal e a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 120-121).
+3. A Agravante alega o Tribunal a quo teria contrariado os arts. 5º, inc. LIV e LV, e 93, inc. IX, da Constituição da República.
+Sustenta que “a omissão reiterada do órgão julgador em se manifestar sobre as ofensas a dispositivos de lei federal e da Constituição constitui ainda um forma oblíquo de cercear o direito à ampla defesa da parte, limitando seu acesso aos recursos constitucionais (especial e extraordinário). Importa, assim, contrariedade à garantia constitucional da ampla defesa, insculpida no art. 5º, LV, da Carta Magna” (fl. 9).
+Apreciada a matéria trazida na espécie, DECIDO.
+4. Razão de direito não assiste à Agravante.
+5. Quanto à matéria de que cuida o art. 93, inc. IX, da Constituição da República, é de se ponderar que não se exige do órgão judicante manifestação sobre todos os argumentos de defesa apresentados pela Agravante, mas apenas fundamentação das razões que entendeu suficientes à formação de seu convencimento (RE 463.139-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 3.2.2006; e RE 181.039-AgR, Rel. Min. Ellen Gracie, Primeira Turma, DJ 18.5.2001).
+6. O Tribunal de origem manteve a sentença que assentou que “o dinheiro é o primeiro item da escala de prioridades estabelecidas pelo artigo 655 do CPC” (fl. 59-v.).
+A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa reflexa à Constituição da República. Nesse sentido:
+“A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJE 8.5.2009).
+E ainda:
+“EMENTA: 1. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. 2. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 93, IX, da Constituição Federal. Ofensa constitucional indireta. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI 508.047-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJE 21.11.2008 ).
+7. Não há, pois, a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de agosto de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
