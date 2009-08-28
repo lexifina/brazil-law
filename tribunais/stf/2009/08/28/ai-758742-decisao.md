@@ -1,0 +1,22 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que concluiu pela competência da Justiça Federal para decidir a respeito da existência ou não de interesse da União para intervir no processo, relativo à desapropriação de construção residencial erguida por particular em terreno da marinha, cujo trecho da ementa transcrevo:
+“Constitucional e processual civil. Ação rescisória. Desapropriação de construção residencial erguida por particular em terreno de marinha. Preliminares de decadência. Competência da Justiça Federal para decidir sobre a existência de interesse jurídico da União que justifique sua presença no processo. Ausência de demonstração do legítimo interesse jurídico da União no deslinde da demanda. Inexistência de violação a literal disposição de lei. Improcedência do pedido rescisório.”
+2.  Preliminarmente, a parte recorrente alega, em síntese, ofensa ao art. 93, IX, da CF, sustentando que o acórdão proferido em grau de embargos de declaração deve ser anulado, nestes termos:
+“o r. voto condutor do aresto complementar limitou-se a afirmar ter ocorrido a improcedência do pedido, justamente porque ‘o interesse jurídico da União não foi demonstrado’, mas apenas alegado” . Disso resulta, portanto, a omissão apontada, para efeito de exame do mérito” (fl. 524).
+No mérito, sustenta violação ao art. 109, I, da CF, e requer, ao final, o provimento do recurso para que seja reconhecida a competência exclusiva da Justiça Federal do Estado do Maranhão para processar e julgar a ação de desapropriação.
+3.  Ressalto que a preliminar levantada pela parte, relativa ao reexame do julgamento proferido na Corte de origem, para fins de nulidade, por suposta ausência ide fundamentação, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade ao disposto no art. 93, IX, da Constituição Federal. Veja-se o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002, o qual assentou em sua ementa:
+“ CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO: ALEGAÇÃO DE OFENSA AO DEVIDO PROCESSO LEGAL E DE QUE O ACÓRDÃO NÃO ESTARIA FUNDAMENTADO. C.F., arts. 5º, II, XXXV, LIV e LV, e 93, IX .
+I. – Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional.
+II. – Decisão contrária ao interesse da parte não configura negativa de prestação jurisdicional (...)”
+4.  Quanto à questão de fundo, o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte, segundo a qual cabe apenas à Justiça Federal o exame da presença ou de interesse da União em determinada causa.
+ Nesse sentido, RE 140.480, rel. Min. Carlos Velloso, 2ª. Turma, unânime, DJ 12.02.93; e RE 144.880, rel. Min. Celso de Mello, 1ª. Turma, unânime, DJ 02.03.2001, cujo trecho da ementa deste último transcrevo:
+“ RECURSO EXTRAORDINÁRIO - AÇÃO DE USUCAPIÃO - IMÓVEL USUCAPIENDO QUE CONFRONTA COM TERRENO DE MARINHA - INTERVENÇÃO DA UNIÃO FEDERAL - DESLOCAMENTO DA CAUSA PARA O ÂMBITO DA JUSTIÇA FEDERAL (CF, ART. 109, I) - INCOMPETÊNCIA ABSOLUTA DO TRIBUNAL DE JUSTIÇA ESTADUAL PARA JULGAR RECURSO DA UNIÃO FEDERAL CONTRA DECISÃO DO MAGISTRADO LOCAL QUE NEGOU A REMESSA DO PROCESSO À JUSTIÇA FEDERAL - RECURSO EXTRAORDINÁRIO CONHECIDO E PROVIDO.
+A COMPETÊNCIA DA JUSTIÇA FEDERAL ESTÁ SUJEITA A REGIME JURÍDICO DEFINIDO NA CONSTITUIÇÃO DA REPÚBLICA.
+- A competência outorgada à Justiça Federal possui extração constitucional e reveste-se, por isso mesmo, de caráter absoluto e improrrogável, expondo-se, unicamente, às derrogações fixadas no texto da Constituição da República.
+SOMENTE À JUSTIÇA FEDERAL COMPETE DIZER SE, EM DETERMINADA CAUSA, HÁ, OU NÃO, INTERESSE DA UNIÃO FEDERAL.
+- A legitimidade do interesse jurídico manifestado pela União só pode ser verificada, em cada caso ocorrente, pela própria Justiça Federal (RTJ 101/881), pois, para esse específico fim, é que a Justiça Federal foi instituída: para dizer se, na causa, há, ou não, interesse jurídico da União (RTJ 78/398).
+Este Tribunal, em decisões mais recente (RE 196.792/SC, rel. Min. Sepúlveda Pertence, DJ 05.10.2004; e AI 447.972/RS, rel. Min. Cármen Lúcia, DJe 25.05.2009), tem confirmado esse mesmo entendimento.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 28 de agosto de 2009.
+Ministra Ellen Gracie
+Relatora
