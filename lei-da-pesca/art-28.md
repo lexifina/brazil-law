@@ -1,0 +1,1 @@
+Art. 28. As colônias de pescadores poderão organizar a comercialização dos produtos pesqueiros de seus associados, diretamente ou por intermédio de cooperativas ou outras entidades constituídas especificamente para esse fim.
