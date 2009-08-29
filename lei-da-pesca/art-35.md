@@ -1,0 +1,3 @@
+Art. 35. A autoridade competente, nos termos da legislação específica e sem comprometer os aspectos relacionados à segurança da navegação, à salvaguarda da vida humana e às condições de habitabilidade da embarcação, poderá determinar que os proprietários, armadores ou arrendatários das embarcações pesqueiras mantenham a bordo da embarcação, sem ônus para a referida autoridade, acomodações e alimentação para servir a:
+I - observador de bordo, que procederá à coleta de dados, material para pesquisa e informações de interesse do setor pesqueiro, assim como ao monitoramento ambiental;
+II - cientista brasileiro que esteja realizando pesquisa de interesse do Sistema Nacional de Informações da Pesca e Aquicultura.

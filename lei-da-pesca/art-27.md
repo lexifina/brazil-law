@@ -1,0 +1,3 @@
+Art. 27. São considerados produtores rurais e beneficiários da política agrícola de que trata o art. 187 da Constituição Federal as pessoas físicas e jurídicas que desenvolvam atividade pesqueira de captura e criação de pescado nos termos desta Lei.
+§ 1º Podem ser beneficiários do crédito rural de comercialização os agentes que desenvolvem atividades de transformação, processamento e industrialização de pescado, desde que atendido o disposto no § 1º do art. 49 da Lei nº 8.171, de 17 de janeiro de 1991.
+§ 2º Fica o Poder Executivo autorizado a criar sistema nacional de informações sobre a pesca e a aquicultura, com o objetivo de coletar, agregar, intercambiar e disseminar informações sobre o setor pesqueiro e aquícola nacional.

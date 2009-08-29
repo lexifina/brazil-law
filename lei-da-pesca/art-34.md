@@ -1,0 +1,1 @@
+Art. 34. O órgão responsável pela gestão do uso dos recursos pesqueiros poderá solicitar amostra de material biológico oriundo da atividade pesqueira, sem ônus para o solicitante, com a finalidade de geração de dados e informações científicas, podendo ceder o material a instituições de pesquisa.
