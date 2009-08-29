@@ -1,0 +1,2 @@
+Art. 4º A atividade pesqueira compreende todos os processos de pesca, explotação e exploração, cultivo, conservação, processamento, transporte, comercialização e pesquisa dos recursos pesqueiros.
+Parágrafo único. Consideram-se atividade pesqueira artesanal, para os efeitos desta Lei, os trabalhos de confecção e de reparos de artes e petrechos de pesca, os reparos realizados em embarcações de pequeno porte e o processamento do produto da pesca artesanal.
