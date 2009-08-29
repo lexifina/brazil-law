@@ -1,0 +1,2 @@
+Art. 31. A fiscalização da atividade pesqueira abrangerá as fases de pesca, cultivo, desembarque, conservação, transporte, processamento, armazenamento e comercialização dos recursos pesqueiros, bem como o monitoramento ambiental dos ecossistemas aquáticos.
+Parágrafo único. A fiscalização prevista no caput deste artigo é de competência do poder público federal, observadas as competências estadual, distrital e municipal pertinentes.

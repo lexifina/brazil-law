@@ -1,0 +1,2 @@
+Art. 11. As embarcações brasileiras de pesca terão, no curso normal de suas atividades, prioridades no acesso aos portos e aos terminais pesqueiros nacionais, sem prejuízo da exigência de prévia autorização, podendo a descarga de pescado ser feita pela tripulação da embarcação de pesca.
+Parágrafo único. Não se aplicam à embarcação brasileira de pesca ou estrangeira de pesca arrendada por empresa brasileira as normas reguladoras do tráfego de cabotagem e as referentes à praticagem.
