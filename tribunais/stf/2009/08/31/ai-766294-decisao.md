@@ -1,0 +1,17 @@
+DECISÃO: Vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Pernambuco. Acórdão cuja ementa é a seguinte (fls. 275/276):
+“DIREITO CONSTITUCIONAL E ADMINISTRATIVO. PENSIONISTA DE SERVIDOR PÚBLICO MUNICIPAL. CONVÊNIO ENTRE ESTADO E MUNICÍPIO. EXTINÇÃO. LEI Nº 9.717/98. REPASSE DOS VALORES DAS CONTRIBUIÇÕES DOS MUNICÍPIOS AOS ESTADOS. PAGAMENTO AOS SEGURADOS PELOS INSTITUTOS DE PREVIDÊNCIA DO ESTADO. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Antes do advento da citada lei, face à inexistência de Instituto de Previdência próprios dos Municípios, a responsabilidade pelo pagamento das aposentadorias e pensões dos servidores públicos municipais recaía sobre o Instituto de Previdência dos servidores Públicos do Estado de Pernambuco - IPSEP, por força de convênio firmado entre o Estado de Pernambuco e os Municípios, através do qual a Edilidade repassava ao Estado os valores das contribuições prestadas pelos servidores, e, em contrapartida, o IPSEP, sucedido pelo Instituto de Recursos Humanos de Pernambuco - IRH/PE, a partir de setembro de 2000, efetuava o pagamento dos benefícios aos aposentados e pensionistas.
+2. Reconhece-se, ademais, com a entrada em vigor da Lei Federal nº 9.717/98, restaram obstados os convênios e consórcios entre os entes da federação para fins de pagamento de benefícios previdenciários. 3. Todavia, dito óbice não é absoluto, tendo em vista a ressalva feita pelo artigo 10 da lei em apreço que, expressamente, determinou a permanência da responsabilidade do ente instituidor do sistema previdenciário pelos pagamentos dos benefícios já concedidos, assim como pelos casos em que os requisitos necessários à sua concessão já houvessem sido implementados.
+4. Nas hipóteses, pois, em que o Instituto de Previdência dos Servidores do Estado de Pernambuco, ao longo de sucessivos anos, percebeu as contribuições dos servidores públicos municipais, nada mais justo que arque com o ônus decorrente do pagamento e conseqüente reajuste dos benefícios das aposentadorias e/ou pensões deste servidor e seus dependentes.
+5. À unanimidade de votos, negou-se provimento ao presente recurso.”
+2. Tenho que o recurso não merece acolhida. De saída, anoto que o art. 1º, o art. 18, o art. 25, o inciso II do § 7º e o § 8º do art. 40, todos da Constituição Republicana, não foram apreciados pela Corte de origem, nem foram suscitados nos embargos declaratórios opostos. É dizer: no ponto, o recurso carece do indispensável prequestionamento (Súmula 282 do STF).
+3. Não bastasse, a controvérsia foi decidida centralmente com base na legislação infraconstitucional pertinente (Lei nº 9.717/98). Logo, ofensa ao Magno Texto, se existente, ocorreria de modo indireto ou reflexo, o que não autoriza a abertura da via extraordinária.
+4. Por outra volta, pontuo que o acórdão adotou fundamento suficiente, que ficou precluso ante a não interposição de recurso especial para o Superior Tribunal de Justiça, o que atrai a incidência da Súmula 283 do Supremo Tribunal Federal. Súmula cuja dicção é a seguinte:
+ “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.”
+Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 31 de agosto de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
+1
