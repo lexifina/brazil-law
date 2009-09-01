@@ -1,0 +1,67 @@
+Trata-se de reclamação, com pedido de medida liminar, proposta pelo Instituto Estadual do Meio Ambiente - INEA, contra decisão do Juiz da 3ª Vara do Trabalho da Comarca do Rio de Janeiro que, ao não conhecer dos embargos à execução apresentados na Reclamação Trabalhista 199/92, teria afrontado o quanto decidido por esta Corte na ADC 11/DF, Rel. Min. Cezar Peluso.
+
+            Alega o reclamante que
+
+             “Em vista da violação, em suma, do quanto dispunha norma especial contida no artigo 1-B, da Lei 9.494/1997, lá introduzido pela MP 2.180-35/2001, a SERLA, com o intuito de preservar seus direitos assegurados no ordenamento jurídico pátrio, interpôs o pertinente agravo de petição destinado a modificá-la (...), encontrando-se o recurso ainda pendente de julgamento na C. 9ª Turma na instância ad quem, conforme se verifica no andamento processual respectivo.
+
+             (...)
+
+             Como se vê, além de contrariar os efeitos erga omnes inerentes às decisões proferidas pelo Excelso STF em sede de Ações Declaratórias de Constitucionalidade, o que por si só já determinaria a plausibilidade do direito invocado pela Reclamante, a supra indigitada decisão monocrática, ao afastar a tempestividade de seus embargos à execução impõe indiretamente injusta e ilegal sobrecarga financeira ao valor devido pela SERLA na execução, eis que implica a cobrança de juros moratórios em percentual superior ao teto de 6% a.a., no artigo 1º-F da Lei 9.494/97”.
+
+            Aduz presentes os requisitos ensejadores da concessão da medida liminar.
+
+            Pugna pelo seu deferimento para suspender os efeitos da decisão ora atacada e, no mérito, requer a procedência desta reclamação
+
+             “(...) a fim de que seja cassada a decisão que deixou de dar seguimento aos embargos à execução do Reclamante, garantindo-se a autoridade da decisão proferida por esse Excelso Pretório”.
+
+            Às fls. 58-61, deferi o pedido de medida liminar tão somente para que os embargos à execução opostos pelo reclamante fossem recebidos pelo juízo a quo, nos seguintes termos:
+
+             “Examinados os autos, verifico que o Plenário deste Supremo Tribunal Federal, ao suspender todos os processos em que se discutia a constitucionalidade do artigo 1-B da MP 2.180-35, referiu-se às execuções contra a Fazenda Pública.
+
+              Isso porque o acórdão proferido pelo Plenário desta Corte nos autos da ADC-MC 11/DF, Rel. Min. Cezar Peluso, recebeu a seguinte ementa:
+
+             ‘FAZENDA PÚBLICA. Prazo processual. Embargos à execução. Prazos previstos no art. 730 do CPC e no art. 884 da CLT. Ampliação pela Medida Provisória nº 2.180-35/2001, que acrescentou o art. 1º-B à Lei federal nº 9.494/97. Limites constitucionais de urgência e relevância não ultrapassados. Dissídio jurisprudencial sobre a norma. Ação direta de constitucionalidade. Liminar deferida. Aplicação do art. 21, caput, da Lei nº 9.868/99. Ficam suspensos todos os processos em que se discuta a constitucionalidade do art. 1º-B da Medida Provisória nº 2.180-35’.
+
+             À ocasião, o Relator Ministro Cezar Peluso observou que
+
+             ‘é dotada de verossimilhança a alegação de que as notórias insuficiências da estrutura burocrática de patrocínio dos interesses do Estado, aliadas ao crescente volume de execuções contra a Fazenda Pública, tornavam relevante e urgente a ampliação do prazo para ajuizamento de embargos’.
+
+             Durante os debates, o Ministro Gilmar Mendes ressaltou o seguinte:
+
+             ‘Trouxe, aqui, apenas no que diz respeito à Fazenda Pública Federal, a indicação da PGFN de que existem quatro milhões, seiscentos e vinte e oito mil, novecentos e doze processos de execução para cerca de mil e duzentos Procuradores. Disso que estamos a falar.
+
+             Basta esse dado para verificarmos que, neste caso, não se pode cogitar de lesão ao princípio da isonomia se estivermos a tratar de execução e de possíveis embargos à execução. Mesmo que se estime que haja, por exemplo, dez, vinte ou trinta por cento de embargos à execução, ainda será uma quantidade expressiva. Certamente - a Ministra Cármen Lúcia poderá também declinar a sua experiência na Procuradoria de Minas Gerais - situação semelhante ocorre nas demais Procuradorias estaduais’.
+
+             Ademais, como bem observou o Ministro Celso de Melo em seu voto
+
+             ‘o Senhor Presidente da República observou os pressupostos legitimadores da edição da MP nº 2.180/35, de 24/08/2001, que introduziu, na Lei nº 9.494/97, o art. 1º-B, autorizador da ampliação do prazo de embargos à execução oponíveis pela Fazenda Pública’ (grifos nossos).
+
+             Constato que esse é o caso em comento. Entretanto, entendo que o pedido formulado para a concessão da medida liminar, em um juízo de cognição sumária, é demasiado amplo, porquanto pleiteia a reclamante a suspensão do processo, e não apenas o recebimento dos embargos por ela opostos nos autos da execução trabalhista.
+
+             Isso posto, por entender estarem presentes os requisitos necessários para a concessão de medida liminar, defiro-a apenas para determinar que a autoridade reclamada receba os embargos do devedor opostos pela Reclamante, nos autos da 199/92”.
+
+            A Procuradoria-Geral da República opinou pela procedência da reclamação, em parecer que porta a seguinte ementa:
+
+             “RECLAMAÇÃO. PROCESSO DE EXECUÇÃO. PRAZO PARA OFERECIMENTO DE EMBARGOS DO DEVEDOR. LEI Nº 9.494/97. ALEGAÇÃO DE OFENSA À DECISÃO DO STF PROFERIDA NA ADC Nº11. MEDIDA LIMINAR DEFERIDA. PARECER PELA PROCEDÊNCIA DA RECLAMAÇÃO” (fl. 113).
+
+            É o relatório.
+
+            Passo a decidir.
+
+            Com efeito, o Plenário desta Corte, por ocasião da apreciação das Reclamações 5.758/SP e 6.428/SP, Rel. Min. Cármen Lúcia, julgou procedentes os pedidos formulados pela União, nos casos em que se discutia a eficácia vinculante da decisão proferida na ADC 11-MC/DF, para determinar o imediato processamento dos embargos à execução opostos.
+
+            Naquela ocasião asseverou o Plenário que não seria plausível que se determinasse a suspensão de processos há muitos anos em tramitação, sob pena de afronta ao princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal.
+
+            Em consulta ao sítio do Tribunal Regional do Trabalho da 1ª Região, constato que o interessado foi intimado para contestar os embargos à execução.
+
+            Dessa forma, os efeitos da liminar de fls. 58-61 foram atingidos uma vez que os embargos foram recebidos pelo juízo reclamado.
+
+            Ante o exposto, entendo que a liminar deferida possui natureza satisfativa, razão pela qual julgo procedente em parte esta reclamação, para ratificar os efeitos da decisão liminar, nos termos nos quais foi proferida.
+
+            Publique-se.
+
+            Brasília, 1º de setembro de 2009.
+
+Ministro RICARDO LEWANDOWSKI
+
+- Relator -
