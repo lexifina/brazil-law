@@ -1,0 +1,14 @@
+DECISÃO: Em parecer de fls. 209/210, a Comissão de Jurisprudência manifestou-se pelo arquivamento da presente proposta de edição de súmula vinculante, nos seguintes termos:
+1. Trata-se de proposta de súmula vinculante subscrita pelo presidente do Sindicato Nacional dos Auditores Fiscais da Receita Federal do Brasil – Unafisco Sindical, na qual requer a edição de enunciado que proclame o caráter geral – e, portanto, a sua extensibilidade aos servidores inativos e pensionistas das carreiras de Auditor Fiscal da Receita Federal, Auditor Fiscal da Previdência Social e Fiscal do Trabalho – da Gratificação de Desempenho de Atividade Tributária – GDAT.
+Encerrado o prazo, assinalado em edital, para a manifestação de interessados, determinei que a Secretaria submetesse os autos, sucessivamente, aos demais integrantes desta Comissão, para que pudessem se manifestar sobre a adequação formal da presente proposta externa, tudo conforme o art. 1º da Resolução STF 388, de 05.12.2008 (fl. 197).
+Os eminentes Ministros Ricardo Lewandowski e Joaquim Barbosa, em suas manifestações (fls. 201-202 e 205-206), apontaram deficiência formal da proposta, consubstanciada na falta de capacidade postulatória do subscritor da peça inicial e de legitimidade ativa da entidade proponente.
+2. Conforme dispõem o art. 103-A, § 2º, da Constituição Federal, e o art. 3º da Lei 11.417/2006, somente estão autorizadas a propor a edição de súmula vinculante as autoridades e entidades legitimadas a ajuizar ações diretas de inconstitucionalidade (art. 103 da Constituição), bem como o Defensor Público-Geral da União, os Tribunais Superiores, os Tribunais de Justiça dos Estados e do Distrito Federal, os Tribunais Regionais Federais, do Trabalho e Eleitorais, os Tribunais Militares e os Municípios, nos processos em que sejam parte (art. 3º, VI e XI, da Lei 11.417/2006).
+Verifica-se, inicialmente, que a petição inicial parece não ter sido subscrita por profissional da Advocacia legalmente habilitado, não tendo o peticionário feito prova de sua capacidade para postular perante esta Suprema Corte por seu próprio nome. Além disso, conforme enfatizaram os eminentes Ministros Ricardo Lewandowski e Joaquim Barbosa, a Unafisco Sindical é entidade cuja legitimidade para a propositura de ação direta de inconstitucionalidade não tem sido reconhecida pela jurisprudência desta Suprema Corte.
+3. Ante o exposto, por não terem sido satisfeitos os requisitos formais necessários para sua regular tramitação, também eu manifesto-me pela inadequação formal da presente proposta externa de edição de súmula vinculante e, por conseguinte, pelo seu imediato arquivamento.
+Ante o exposto, acolho o parecer da Comissão de Jurisprudência e determino o arquivamento desta proposta de edição de súmula vinculante.
+Publique-se.
+Arquive-se.
+Brasília, 3 de setembro de 2009.
+Ministro GILMAR MENDES
+Presidente
+1
