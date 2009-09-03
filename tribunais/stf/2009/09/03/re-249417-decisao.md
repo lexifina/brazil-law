@@ -1,0 +1,31 @@
+DECISÃO: Trata-se de recursos extraordinários interpostos de acórdão proferido pelo Tribunal Regional Federal da 4ª Região cuja ementa é do seguinte teor (fls. 135):
+“CONSTITUCIONAL E TRIBUTÁRIO. PIS. EXIGÊNCIA TRIBUTÁRIA FUNDADA EM MEDIDA PROVISÓRIA SUCESSIVAMENTE REEDITADA E AINDA NÃO CONVERTIDA EM LEI. MP Nº 1.249, DE 14-12-95. EMPRESAS PRESTADORAS DE SERVIÇOS.
+1. Tendo em vista o disposto no parágrafo único do artigo 62 da CF, que preceitua a perda de eficácia da medida provisória não convertida em lei, havendo sucessivas reedições de medidas provisórias para a criação ou modificação de contribuição social destinada à Seguridade Social, enquanto nenhuma delas for convertida em lei tem-se por suspensa a imposição tributária, pois há vedação constitucional (artigo 195, § 6º) à exigência de contribuições sociais destinadas à Seguridade Social antes de decorrido o prazo de 90 dias da publicação da lei ou da medida provisória (desde que convertida em lei) que as houver instituído ou modificado.
+2. No tocante ao PIS devido pelas empresas de serviços, a Medida Provisória nº 1.249/95 trouxe modificação substancial à Lei Complementar nº 7/70, o que redundou na criação de uma nova imposição fiscal, sujeita, assim, aos limites constitucionais impostos ao poder tributante.
+3. Diante disso, e considerando-se que a Lei Complementar nº 7/70 fora expressamente recepcionada pelo artigo 239 da Carta de 1988, resta que a base de cálculo e o fato gerador do PIS, em relação às empresas de serviços, passou a ter, a partir de 5 de outubro de 1998, status constitucional, não se podendo ter como legítima, em conseqüência, a sua alteração por lei ordinária, e menos ainda por medida provisória que sequer veio a ser convertida em lei.”
+O recurso extraordinário do contribuinte (art. 102, III, a, da Constituição) aponta violação dos arts. 5º, LIV e LV e 97 da Constituição. Requer a nulidade do acórdão recorrido por entender que a declaração de inconstitucionalidade da Medida Provisória 1.212/1995 e das subseqüentes deveria ser apreciada pelo Plenário do tribunal a quo, para que o regime da Lei Complementar 7/70 continue a ser aplicável aos recorrentes.
+O recurso da União (art. 102, III, a, da Constituição) sustenta que o acórdão recorrido viola os arts. 62, parágrafo único; 97; 154, I; 195, § 4º e § 6º; e 239, todos da Constituição.
+Decido.
+Este Tribunal, no julgamento da ADI 1.417 (rel. min. Octavio Gallotti, DJ de 23.03.2001), entendeu pela constitucionalidade das regras instituídas pela Medida Provisória 1.212/1995, convertida na Lei 9.715/1998:
+“EMENTA: Programa de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP. Medida Provisória. Superação, por sua conversão em lei, da contestação do preenchimento dos requisitos de urgência e relevância.
+Sendo a contribuição expressamente autorizada pelo art. 239 da Constituição, a ela não se opõem as restrições constantes dos artigos 154, I e 195, § 4º, da mesma Carta.
+Não compromete a autonomia do orçamento da seguridade social (CF, art. 165, § 5º, III) a atribuição, à Secretaria da Receita Federal de administração e fiscalização da contribuição em causa.
+Inconstitucionalidade apenas do efeito retroativo imprimido à vigência da contribuição pela parte final do art. 18 da Lei nº 8.715-98.”
+Em relação ao termo a quo para a contagem do prazo da exigibilidade do tributo (anterioridade nonagesimal ou “mitigada”), registro o seguinte precedente da Corte:
+“EMENTA: CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. PIS-PASEP. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL: MEDIDA PROVISÓRIA: REEDIÇÃO.
+I. - Princípio da anterioridade nonagesimal: C.F., art. 195, § 6º: contagem do prazo de noventa dias, medida provisória convertida em lei: conta-se o prazo de noventa dias a partir da veiculação da primeira medida provisória.
+II. - Inconstitucionalidade da disposição inscrita no art. 15 da Med. Prov. 1.212, de 28.11.95 "aplicando-se aos fatos geradores ocorridos a partir de lº de outubro de l995" e de igual disposição inscrita nas medidas provisórias reeditadas e na Lei 9.715, de 25.11.98, artigo 18.
+III. - Não perde eficácia a medida provisória, com força de lei, não apreciada pelo Congresso Nacional, mas reeditada, por meio de nova medida provisória, dentro de seu prazo de validade de trinta dias.
+IV. - Precedentes do S.T.F.: ADIn 1.617-MS, Ministro Octavio Gallotti, "DJ" de 15.8.97; ADIn 1.610-DF, Ministro Sydney Sanches; RE nº 221.856-PE, Ministro Carlos Velloso, 2ª T., 25.5.98.
+V. - R.E. conhecido e provido, em parte.” (RE 232.896, rel. min. Carlos Velloso, Pleno, DJ de 01.10.1999).
+Observo ainda que, por ocasião do julgamento do RE 390.840 (rel. min. Marco Aurélio, Pleno, DJ de 15.08.2006), a Corte entendeu que o art. 239 da Constituição não implicou o engessamento da contribuição ao PIS. Registro, nesse sentido, o seguinte trecho do voto do eminente ministro-relator, Marco Aurélio:
+“No mais, a norma do artigo 239 em análise não implicou o engessamento do Programa de Integração Social. O teor do preceito revela, isso sim, a destinação do que arrecadado sem fazer alusão explícita à base de incidência, que continuou a ser a prevista na Lei Complementar nº 7, de 7 de setembro de 1970. Daí a inviabilidade de se dizer que houve, no caso, o empréstimo de envergadura constitucional aos parâmetros da citada contribuição.”
+Confira-se, em sentido semelhante, o RE 400.320-AgR (rel. min. Carlos Britto, Primeira Turma, DJ de 02.02.2007).
+Dessa orientação divergiu o acórdão recorrido.
+Dessa forma, a alegação de nulidade do acórdão recorrido por inobservância da cláusula de reserva de plenário fica superada, uma vez que o Plenário do Supremo Tribunal Federal, nos julgamentos acima mencionados, firmou a constitucionalidade da norma questionada. Nesse sentido, pela desnecessidade de devolução dos autos à origem: AI 636.557 (rel. min. Cármen Lúcia, DJe de 03.08.2009) e RE 520.461 (rel. min. Gilmar Mendes, DJ de 07.03.2007).
+Do exposto, dou provimento ao recurso interposto pela União e nego seguimento ao recurso interposto pelo contribuinte, para denegar a segurança (art. 557, caput e § 1º-A, do Código de Processo Civil).
+Custas ex lege. Sem honorários (Súmula 512 do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 3 de setembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
