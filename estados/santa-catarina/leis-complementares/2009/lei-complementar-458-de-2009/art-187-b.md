@@ -1,0 +1,3 @@
+Art. 187-B. Os servidores do Quadro do Magistério Público Estadual, estáveis, poderão atuar em projetos especiais que envolvam a Secretaria de Estado da Educação, o Ministério da Educação ou Instituição de Avaliação de Projetos Educacionais de atuação nacional ou internacional, na Associação Catarinense das Fundações Educacionais e na Associação de Mantenedores Particulares de Educação Superior de Santa Catarina, representativas do sistema universitário fundacional e privado catarinense, respectivamente, com prazo de duração de até dois anos, prorrogável por igual período."
+Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.
+Florianópolis, 08 de setembro de 2009

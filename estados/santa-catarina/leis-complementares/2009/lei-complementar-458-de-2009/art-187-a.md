@@ -1,0 +1,2 @@
+Art. 187-A. Os servidores pertencentes ao Quadro das Fundações Educacionais, instituídas pelo poder público, quando nomeados para o exercício de cargo em comissão na esfera estadual, perceberão seus vencimentos de origem ressarcidos pelo órgão da administração pública.
+Parágrafo único. A Secretaria de Estado da Educação fica autorizada a ressarcir à Fundações Educacionais os valores correspondentes à remuneração de servidores de seus quadros que estejam no exercício de cargos comissionados desde 1º de maio de 2007.
