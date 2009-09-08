@@ -1,0 +1,38 @@
+DECISÃO: Trata-se de reclamação formulada com o objetivo de fazer preservar a autoridade de decisão, que, referendada pelo Plenário do Supremo Tribunal Federal (ADI 3.395-MC/DF, Rel. Min. CEZAR PELUSO), suspendeu, cautelarmente, qualquer interpretação do art. 114, I, da Constituição Federal (na redação dada pela EC  nº  45/2004) “(...) que inclua, na competência da Justiça do Trabalho, a ‘(...) apreciação (...) de causas que (...) sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo’” (grifei).
+
+A parte ora reclamante alega que o órgão jurisdicional reclamado (RT nº 00663-2009-013-08-00) - ao reconhecer-se competente para apreciar litígio alcançado pelos efeitos da providência cautelar emanada desta Suprema Corte – teria desrespeitado a eficácia vinculante que é inerente aos pronunciamentos do Supremo Tribunal Federal em sede de fiscalização normativa abstrata (ADI 3.395/DF), comprometendo, desse modo, a integridade de tal ato decisório.
+
+O Supremo Tribunal Federal tem enfatizado, em sucessivas  decisões, que a reclamação reveste-se de idoneidade jurídico-processual, quando utilizada, como na espécie, com o objetivo de fazer prevalecer a autoridade decisória dos julgamentos emanados desta Corte, notadamente quando impregnados de eficácia  vinculante, como sucede com aqueles que deferem provimentos cautelares em sede de fiscalização normativa abstrata (RTJ 169/383-384 – RTJ 183/1173-1174):
+
+“O DESRESPEITO À EFICÁCIA VINCULANTE, DERIVADA DE DECISÃO EMANADA DO PLENÁRIO DA SUPREMA CORTE, AUTORIZA O USO DA RECLAMAÇÃO.
+- O descumprimento, por quaisquer juízes ou Tribunais, de decisões proferidas com efeito vinculante, pelo Plenário do Supremo Tribunal Federal, em sede de ação direta de inconstitucionalidade ou de ação declaratória de constitucionalidade, autoriza a utilização da via reclamatória, também vocacionada, em sua específica função processual, a resguardar e a fazer prevalecer, no que concerne à Suprema Corte, a integridade, a autoridade e a eficácia subordinante dos comandos que emergem de seus atos decisórios. Precedente: Rcl 1.722/RJ, Rel. Min. CELSO DE MELLO (Pleno).”
+(RTJ 187/151, Rel. Min. CELSO DE MELLO, Pleno)
+
+Cabe examinar, de outro lado, se terceiros – que não intervieram no processo objetivo de controle normativo abstrato – dispõem, ou não, de legitimidade ativa para o ajuizamento de reclamação perante o Supremo Tribunal Federal, quando promovida com o objetivo de fazer restaurar o “imperium” inerente às decisões emanadas desta Corte, proferidas em sede de ação direta de inconstitucionalidade ou de ação declaratória de constitucionalidade.
+
+O Plenário do Supremo Tribunal Federal, a propósito de tal questão, ao analisar o alcance da norma inscrita no art. 28 da Lei  nº 9.868/99 (Rcl 1.880-AgR/SP, Rel. Min. MAURÍCIO CORRÊA), firmou orientação que reconhece, a terceiros, qualidade para agir, em sede reclamatória, quando necessário se torne assegurar o efetivo respeito aos julgamentos desta Suprema Corte, proferidos no âmbito de processos de controle normativo abstrato:
+
+“(...) LEGITIMIDADE ATIVA PARA A RECLAMAÇÃO NA HIPÓTESE DE INOBSERVÂNCIA DO EFEITO VINCULANTE.
+- Assiste plena legitimidade ativa, em sede de reclamação, àquele – particular ou não – que venha a ser afetado, em sua esfera jurídica, por decisões de outros magistrados ou Tribunais que se revelem contrárias ao entendimento fixado, em caráter vinculante, pelo Supremo Tribunal Federal, no julgamento dos processos objetivos de controle normativo abstrato instaurados mediante ajuizamento, quer de ação direta de inconstitucionalidade, quer de ação declaratória de constitucionalidade. Precedente. (...).”
+(RTJ 187/151, Rel. Min. CELSO DE MELLO, Pleno)
+
+Vê-se, portanto, que assiste, à parte ora reclamante, plena legitimidade ativa “ad causam” para fazer instaurar este processo reclamatório.
+
+Cumpre verificar, agora, se a situação exposta na presente reclamação pode traduzir, ou não, hipótese de ofensa à autoridade do julgamento que o Supremo Tribunal Federal proferiu, com eficácia vinculante, em sede de fiscalização normativa abstrata.
+
+Ao proceder a tal indagação, devo registrar que eminentes Ministros desta Suprema Corte, em contexto rigorosamente idêntico ao que emerge deste processo (contratações temporárias), têm vislumbrado a possível ocorrência de transgressão à autoridade da decisão que o Supremo Tribunal Federal proferiu, em sede cautelar, na ADI 3.395/DF (Rcl 4.091-MC/GO, Rel. Min. ELLEN GRACIE - Rcl 4.494--MC/GO, Rel. Min. ELLEN GRACIE – Rcl 4.528-MC/GO, Rel. Min. JOAQUIM BARBOSA - Rcl 4.807-MC/GO, Rel. Min. CÁRMEN LÚCIA - Rcl 4.816-MC/GO, Rel. Min. CELSO DE MELLO, v.g.), o que confere plausibilidade jurídica à pretensão ora deduzida pela parte reclamante.
+
+O Plenário do Supremo Tribunal Federal, em recentes julgamentos, e apreciando controvérsia idêntica à versada na presente reclamação, entendeu ocorrente, naqueles casos, situação de desrespeito à autoridade da decisão que esta Corte proferiu no exame da ADI 3.395-MC/DF, Rel. Min. CEZAR PELUSO, vindo, em conseqüência, a julgar procedentes as reclamações ajuizadas perante este Tribunal – que tratavam de questões referentes a contratações temporárias e por tempo determinado (Rcl 4.489-AgR/PA, Rel. p/ o acórdão Min. CÁRMEN LÚCIA – Rcl 4.501/BA, Rel. Min. CARLOS BRITTO – Rcl 4.904/SE, Rel. Min. CÁRMEN LÚCIA), inclusive aquelas efetuadas pela ANATEL (Rcl 5.171/DF, Rel. Min. CÁRMEN LÚCIA – Rcl 5.264/DF, Rel. Min. CÁRMEN LÚCIA – Rcl 5.475/DF, Rel. Min. CÁRMEN LÚCIA – Rcl 5.548/DF, Rel. Min. CÁRMEN LÚCIA), a ações civis públicas propostas pelo Ministério Público do Trabalho (Rcl 4.012-AgR/MT, Rel. p/ o acórdão Min. CÁRMEN LÚCIA – Rcl 4.054-AgR/AM, Rel. p/ o acórdão Min. CÁRMEN LÚCIA – Rcl  4.872/GO, Rel. p/ o acórdão Min. MENEZES DIREITO) e a nomeação para cargo em comissão (Rcl 4.752/SE, Rel. Min. CÁRMEN LÚCIA).
+
+Sendo assim, em face das razões expostas e em juízo de estrita delibação, defiro o pedido de medida cautelar, em ordem a suspender a tramitação da RT nº 00663-2009-013-08-00, ora em curso perante o Juízo da 13ª Vara do Trabalho de Belém/PA.
+
+Comunique-se, com urgência, transmitindo-se cópia da  presente decisão ao Juízo da 13ª Vara do Trabalho de Belém/PA (RT nº 00663-2009-013-08-00).
+
+2. Requisitem-se informações ao Juízo da 13ª Vara do Trabalho de Belém/PA (RT nº 00663-2009-013-08-00).
+
+Publique-se.
+
+Brasília, 08 de setembro de 2009.
+
+Ministro CELSO DE MELLO
+Relator
