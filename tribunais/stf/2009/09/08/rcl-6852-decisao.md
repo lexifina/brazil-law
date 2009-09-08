@@ -1,0 +1,37 @@
+DECISÃO : Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Ministério Público do Estado de São Paulo em face de decisão proferida pela 7ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juiz de Direito da 2ª Vara de Execuções Penais da Comarca de São Paulo, nos autos de execução contra Cláudio de Moura Moreno, reconheceu o cometimento de falta grave, determinou a perda dos dias remidos pelo trabalho e o reinício da contagem do prazo de cumprimento da pena para fins de benefícios executórios.
+Na seqüência, a defesa do reclamante interpôs agravo em execução, que foi provido a fim de ”restabelecer 03 (três) dias remidos perdidos em razão da falta, determinando a elaboração de novo cálculo, observada a data do início do cumprimento da pena” (fls. 53-58).
+Desse acórdão, o Ministério Público de São Paulo ajuizou a presente reclamação, na qual pede a cassação do acórdão em debate, determinando ao reclamado que realize novo julgamento do agravo em execução 993.07.038241-4.
+Alega que o acórdão ora impugnado violou o disposto na súmula vinculante 09 desta Suprema Corte, que possui a seguinte redação:
+
+“O disposto no artigo 127 da Lei nº 7.210/1984 (Lei de Execução Penal) foi recebido pela ordem constitucional vigente, e não se lhe aplica o limite temporal previsto no caput do artigo 58.”
+
+O pedido de medida liminar foi deferido às fls. 92-93.
+O Ministério Público Federal ratificou a petição inicial lavrada pelo Ministério Público do Estado de São Paulo, avocou a iniciativa da demanda a fim de ser admitido como seu autor e, por fim, pediu a procedência da reclamação para cassar o acórdão reclamado (fls. 106-112).
+O Tribunal de Justiça do Estado de São Paulo prestou informações às fls. 115-116.
+É o relatório.
+
+Decido.
+O reclamante alega, em síntese, que o acórdão impugnado viola o disposto na súmula vinculante nº 09 desta Corte.
+Inicialmente, da leitura do parecer do Ministério Público Federal (fls. 106-112), verifico que o Procurador-Geral da República ressalvou a ilegitimidade ativa do Ministério Público do Estado de São Paulo para atuar originalmente perante esta Corte, salientando que o art. 103, § 1º, da Constituição Federal e o art. 46 da Lei Complementar nº 75/1993, não deixam dúvidas de que as atribuições típicas do Ministério Público junto ao Supremo Tribunal Federal são exercidas exclusivamente pelo Procurador-Geral da República.
+No tocante às argumentações colacionadas pelo Procurador-Geral da República, é firme a jurisprudência desta Corte no sentido de que os Ministérios Públicos Estaduais não possuem legitimidade para atuar originariamente perante os tribunais superiores (AI 629.676/RS, Rel. Min. Ellen Gracie, DJ 9.10.2008; SS 3.738/GO, Rel. Min. Gilmar Mendes, DJ 11.2.2009 e MS 27.779/DF, Rel. Min. Ellen Gracie, decisão monocrática, DJ 9.3.2009).
+Dessa forma, a hipótese seria de extinção do processo sem resolução do mérito, conforme determina o art. 267, VI, do Código de Processo Civil, ante a inobservância da condição da ação inerente à legitimidade para propositura da reclamação.
+Contudo, compulsando os autos, observo que o Procurador-Geral da República, na manifestação de fls. 106-112, ratificou os termos da petição inicial e declarou interesse em assumir a iniciativa da demanda, requerendo, para tanto, sua admissão como parte autora da reclamação.
+Nesse ponto, entendo ser plausível a alegação do Procurador-Geral da República.
+Extinguir a presente reclamação sob o fundamento de ilegitimidade da parte autora, mesmo com a ratificação da petição inicial feita pelo Procurador-Geral da República, serviria apenas para prolongar os efeitos de uma decisão que contraria súmula vinculante desta Corte e ensejaria a repetição da reclamação pelo PGR, provocando nova mobilização dos meios administrativos e judiciários, além de retardar desnecessariamente a prestação jurisdicional desejada.
+Ademais, visando à economicidade e à efetividade processual, e considerando os princípios institucionais ministeriais da unidade e da indivisibilidade previstos no art. 127, § 1º, da Constituição Federal, entendo ser viável prosseguir no feito com a admissão do Procurador-Geral da República como parte ativa da demanda, de forma que o óbice da irregularidade na legitimidade ativa para propor a presente reclamação seja afastado.
+Superada a questão da legitimidade ativa, vislumbro que de fato há uma contradição entre o acórdão impugnado (fls. 53-58) e a súmula vinculante nº 09 desta Corte.
+O Tribunal de Justiça do Estado de São Paulo violou o teor da referida súmula vinculante ao dar provimento ao agravo em execução 993.07.038241-4, para determinar o restabelecimento dos dias remidos do executado Cláudio de Moura Moreno, apesar do ora reclamante ter cometido falta grave.
+É entendimento sedimentado desta Corte que a declaração da perda dos dias remidos decorrente do cometimento de falta grave não viola direito adquirido do apenado, ainda que a falta grave tenha ocorrido após a declaração de remição pelo juízo de execução. Neste sentido, destaco o HC 94.768 (rel. min. Carlos Britto, DJ de 27.03.2009), cuja ementa possui o seguinte teor:
+
+“HABEAS CORPUS. EXECUÇÃO CRIMINAL. PRÁTICA DE FALTA GRAVE. FUGA. REINÍCIO DA CONTAGEM DO REQUISITO OBJETIVO PARA A PROGRESSÃO DE REGIME. PERDA DOS DIAS REMIDOS. SÚMULA VINCULANTE Nº 09. ORDEM DENEGADA. 1. O Supremo Tribunal Federal perfilha o entendimento do reinício da contagem do lapso temporal de 1/6 do cumprimento da pena para a concessão da progressão de regime, no caso de cometimento de falta grave. 2. "O disposto no artigo 127 da Lei nº 7.210/84 foi recebido pela ordem constitucional vigente e não se lhe aplica o limite temporal previsto no caput do art. 58" (Súmula Vinculante nº 09). 3. A leitura dos autos não permite enxergar nenhuma ilegalidade, ou abuso de poder, que evidencie uma desproporcionalidade no próprio enquadramento do fato empírico (fuga) como falta grave (inciso II do art. 50 da LEP). 4. Ordem denegada”.
+
+No mesmo sentido, cito, dentre outros tantos, os seguintes julgados: RCL-MC 7.100 (rel. min. Ricardo Lewandowski, DJe-224 de 25.11.2008); RCL-MC 6.947 (rel. min. Cezar Peluso, DJe-215 de 13.11.2008); HC 92.790 (rel. min. Ricardo Lewandowski, DJ de 24.10.2008); HC 94.497 (rel. min. Ellen Gracie, DJ de 26.09.2008); e HC 89.784 (rel. min. Cármen Lúcia, DJ de 02.02.2007).
+Ante todo o exposto, reconheço a validade da ratificação da petição inicial nos termos propostos pelo Procurador-Geral da República na manifestação de fls. 106-112, admitindo-o como legitimado ativo deste feito, e julgo procedente a presente reclamação para determinar a cassação do acórdão impugnado (art. 161, III, do RISTF).
+
+Brasília, 08 de setembro de 2009.
+
+Ministro JOAQUIM BARBOSA
+Relator
+
+1
