@@ -1,0 +1,50 @@
+DECISÃO
+RECURSOS EXTRAORDINÁRIOS. TRIBUTÁRIO. ICMS. ÍNDICE DE ATUALIZAÇÃO DA UFESP. PRIMEIRO RECURSO: NECESSIDADE DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. OFENSA CONSTITUCIONAL INDIRETA. SEGUNDO RECURSO: MANUTENÇÃO DO ACÓRDÃO PROFERIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. PERDA SUPERVENIENTE DE OBJETO. NEGA-SE SEGUIMENTO AO PRIMEIRO RECURSO E JULGA-SE PREJUDICADO O SEGUNDO RECURSO EXTRAORDINÁRIO.
+Relatório
+1. Recursos extraordinários, o primeiro interposto pelo Estado de São Paulo, com base no art. 102, inc. III, alínea a, da Constituição da República, contra acórdão do Superior Tribunal de Justiça, que julgou recurso especial, nos termos seguintes:
+“ICM – BASE DE CÁLCULO – COMPETÊNCIA ESTADUAL – UFESP – INPC.
+A Constituição assegurou autonomia aos Estados e lhes conferiu competência para legislar, concorrentemente, sobre direito tributário e financeiro. A União estabelece somente normas gerais. A Fazenda Estadual não pode é aplicar índice não criado por lei federal.
+Recurso provido para reformar o venerando aresto e declarar que a UFESP deve ser atualizada pelo INPC e não pelo IPC da FIPE” (fl. 234).
+Foram opostos embargos declaratórios que restaram assim decididos:
+(...)
+Dois são os embargos de declaração a serem apreciados. Os de fls. 567/568, da Usina da Barra S/A Açúcar e Álcool e os do Estado de São Paulo (fls. 573/578). Nos primeiros, assiste razão à embargante. Constou do voto condutor do acórdão, de minha lavra (fls. 558/559), que: ‘A base de cálculo do tributo só pode ser estabelecida por lei (artigo 97, inciso IV do CTN) e, no caso do ICM ela é o valor da operação de que decorrer a saída da mercadoria (Decreto-lei n. 406/68, artigo 2º, inciso I e Lei Estadual n. 440/74, artigo 19, inciso I). Não pode a recorrida, por simples portaria e resolução, fixar este valor com base em pauta de valor fiscal, ao arrepio da legislação citada que fixa a base de cálculo como sendo o valor da operação’ (fls. 558).
+Assim, foi reconhecido não poder a Fazenda Estadual, por simples Portaria e Resolução, fixar este valor, com base em pauta de valor fiscal, ao arrepio da legislação que fixa a base de cálculo como sendo o valor da operação. Nesta parte, o recurso especial procede, devendo o resultado final ser: Dou provimento ao recurso para reformar o v. aresto recorrido e declarar que não pode a recorrida, por simples Portaria ou Resolução, fixar este valor, com base em pauta de valor fiscal e declarar que a UFESP deve ser atualizada pelo INP e não pelo IPC da FIPE.
+Com referência à questão abordada pelo Estado, não há no acórdão embargado nenhuma obscuridade, dúvida, contradição ou omissão. Está claro pelo voto condutor do acórdão, de minha relatoria (fls. 557/562), que o Estado de São Paulo pode atualizar os seus créditos pela Unidade Fiscal do Estado de São Paulo – UFESP, mas não pode aplicar índice não criado por lei federal, por competir privativamente à União legislar sobre sistema monetário (art. 22, VI da CF), não podendo reajustar os seus créditos com o IPC da FIPE.
+Na realidade, pretende o Estado sejam dados efeitos modificativos a seus embargos, mas isso só é possível em casos excepcionais e nestes não se inclui a hipótese vertente
+Rejeito os embargos” (fls. 585-586).
+2. O Estado de São Paulo alega que o Superior Tribunal de Justiça teria afrontado os arts. 1º, 5º, inc. LV, 24, inc. I, 25, 146 e 163, da Constituição.
+Argumenta que:
+“Com a adoção do IPC da FIPE como padrão de atualização da UFESP, o Decreto 32.951/91 só veio atender, como lhe competia, o comando legal superior a que está adstrito, já que, abolido o índice que antes servia de base para a correção da UFESP, o Poder Executivo não só estava autorizado, como deveria (‘fixará...’) eleger outro, em condições de substituí-lo, dentro das mesmas finalidades, ou seja, manter o fluxo normal da arrecadação, garantindo, ao mesmo tempo, o restabelecimento do valor real do débito corroído pelo processo inflacionário” (fl. 604).
+3. O segundo recurso extraordinário foi interposto pela Usina da Barra S/A Açúcar e Álcool, com base no art. 102, inc. III, alíneas a e c, da Constituição da República, contra acórdão do Tribunal de Justiça de São Paulo que julgou apelação em embargos à execução, nos termos seguintes:
+“(...)
+Pelos mesmos fundamentos aduzidos na erudita manifestação da ilustrada Procuradoria Geral de Justiça, afasta-se a pretendida ilegalidade da base de cálculo adotada pela Fazenda do Estado para exigir o imposto sonegado e de há muito repassado ao consumidor final.
+No que diz respeito à correção monetária do crédito fiscal, hoje não mais se discute sobre a legitimidade da adoção dos índices de variação da UFESP para esse fim.
+(...)
+Por último, a verba honorária, de 15% sobre o valor do débito atualizado foi arbitrado com moderação e, assim, fica mantido. Se pelo simples ajuizamento da execução a devedora foi condenada a pagar 10% de honorários advocatícios, o douto prolator da sentença impugnada foi até parcimonioso em acrescer apenas 5% pela sucumbência nos embargos.
+Ante o exposto, nega-se provimento ao recurso” (fls. 302-303).
+4. A Usina da Barra S/A Açúcar e Álcool alega que o Tribunal de Justiça de São Paulo teria afrontado os arts. 5º, inc. II e 150, inc. I, da Constituição.
+Sustenta que:
+“Como se vê, pretende a Fazenda arrecadar o ICM da cana calculando-o, não com base no valor da operação de venda de cana, mas sim mediante a fixação de um montante por saca de açúcar.
+Vale dizer, presumindo que para todos os contribuintes do Estado, em todas as operações realizadas, e mesmo que a cana tivesse sido adquirida há meses e por preços distintos, o ICM respectivo seria sempre o mesmo, uniformemente devido.
+Ao assim dispor, criou-se figura em tudo semelhante às pautas fiscais já derrubadas pelo judiciário, com a agravante que, no caso concreto, nem mesmo se determina o cálculo do ICM com base em elementos atinentes à aquisição de cana mas sim, determinando-se o pagamento por saca de açúcar vendida sem estabelecer-se perfeita correspondência entre a tonelagem de cana adquirida e o número de sacas de açúcar com ela fabricados.
+Assim, tem-se como diretamente infringido o princípio constitucional da legalidade.
+(...)
+Portanto, não sendo o IPC-FIPE índice oficial, desatendendo desta forma o disposto no art. 113, parágrafo 1º da Lei n. 6.374/89, e ainda por não existir lei estadual que o institua como indexador oficial da UFESP, não pode o mesmo ser aplicado para a finalidade a que vem sendo, de forma que merece se afastado de plano.
+A exigência de correção monetária calculada de acordo com o IPC do FIPE é, portanto, ilegal” (fls. 381-382 e 387).
+Apreciadas as matérias trazidas na espécie, DECIDO.
+5. Primeiramente, analiso o recurso extraordinário interposto pelo Estado de São Paulo.
+Razão jurídica não assiste ao Recorrente.
+O reexame do acórdão impugnado demandaria a análise prévia da legislação infraconstitucional aplicável à espécie. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido:
+“Agravo regimental. - O acórdão recorrido, a luz apenas do exame em face a legislação infraconstitucional, orientou-se no sentido de que os índices calculados pela FIPE eram oficiais e que por isso podiam servir de base a UFESP para a correção monetária do ICMS. - Assim, sendo esses índices oficiais, podem eles, com base na competência concorrente dos Estados para legislar sobre direito tributário, financeiro e econômico (art. 24, I, da Constituição Federal), ser usados para a correção monetária do ICMS devido ao Estado-membro, porquanto, não tendo havido, por parte de legislação federal, a desindexação total dos tributos, podem os Estados-membros, a falta de índice especifico federal, adotar índices oficiais próprios (e isso foi decidido, apenas com base na legislação infraconstitucional, como salientei acima) para essa correção, sem violação ao sistema monetário federal, que continuou a admitir a indexação. Agravo a que se nega provimento” (AI 161.793-AgR, Rel. Min. Moreira Alves, Primeira Turma, DJ 13.6.1995 – grifei).
+Não há, pois, o que prover quanto às alegações do Estado de São Paulo.
+6. Passo, agora, ao exame do recurso extraordinário interposto pela Usina da Barra S/A Açúcar e Álcool, em respeito ao princípio da celeridade processual.
+Por ser inviável o recurso extraordinário interposto contra o acórdão do Superior Tribunal de Justiça, o recurso extraordinário interposto pela União da Barra está prejudicado, por perda superveniente do objeto, pois o Recurso Especial 81.684, interposto concomitantemente àquele recurso foi provido, operando a substituição do acórdão do Tribunal de Justiça de São Paulo, nos termos do art. 512 do Código de Processo Civil.
+Nesse sentido:
+“RECURSO EXTRAORDINÁRIO E RECURSO ESPECIAL. INTERPOSIÇÃO SIMULTANEA. PROVIMENTO DO RECURSO ESPECIAL PELO SUPERIOR TRIBUNAL DE JUSTIÇA. PERDA DE OBJETO DO EXTRAORDINÁRIO. CPC, ART. 512. Provido o recurso especial interposto contra acórdão de segunda instância, o recurso extraordinário simultaneamente interposto, versando a mesma matéria, perdeu objeto, posto que a decisão contra a qual fora ajuizado resultou reformada pelo aresto do Superior Tribunal de Justiça, tendo havido substituição do provimento judicial a que se refere o art. 512 do Código de Processo Civil. Agravo Regimental improvido” (AI 142.696-AgR, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 17.3.1995 - grifei).
+Nada há a prover, portanto, quanto às alegações da parte recorrente.
+7. Pelo exposto, nego seguimento ao recurso extraordinário interposto pelo Estado de São Paulo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal) e, consequentemente, julgo prejudicado o recurso extraordinário interposto pela Usina da Barra S/A Açúcar e Álcool, por perda superveniente de objeto (art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 9 de setembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
