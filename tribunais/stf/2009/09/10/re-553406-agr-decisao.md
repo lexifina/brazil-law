@@ -1,0 +1,19 @@
+DECISÃO: Tratam-se de agravos regimentais interpostos pelo Estado do Rio Grande do Norte e por Adelany Cordeiro de Freitas e outros em face de decisão por mim proferida, na qual, aplicando precedentes desta Corte, dei provimento ao extraordinário formalizado pelos servidores recorrentes para afastar a limitação temporal na aplicação da diferença de 11,98%, referente a erro na conversão para URV dos respectivos vencimentos.
+No agravo interposto por Adelany Cordeiro de Freitas e outros, pleiteiam-se a reforma da decisão monocrática, sustentando que não foi apreciada questão relativa à compensação de reajustes remuneratórios do índice a ser apurado na liquidação. Alegam, assim, afronta ao inciso IX do art. 93, da CF/88. Citam precedentes.
+Quanto ao agravo regimental interposto pelo Estado do Rio Grande do Norte, alega-se que o ato monocrático merece reforma, em face dos seguintes argumentos:
+“4.   Em primeiro lugar, é oportuno salientar que não poderia o recurso extraordinário do(a)(s) agravado(a)(s) ser conhecido pela alínea ‘a’ do permissivo constitucional, pois a questão da limitação temporal das perdas decorrentes do Plano Real não guarda nenhuma relação lógico-jurídica com os dispositivos citados pelo(a)(s) mesmo(a)(s), quais sejam: arts. 5º, XXXV, e LV, 22, VI, 7º, VI c/c o 39, §3º, e 93.
+5. Neste sentido, o agravante requer seja apontado qual destes dispositivos teria sido violado pelo reconhecimento da limitação temporal, pois NÃO PODE O SIGNATÁRIO IDENTIFICAR A NORMA CONSTITUCIONAL QUE A VEDARIA, cabendo destacar que NÃO CABE RECURSO EXTRAORDINÁRIO POR DIVERGÊNCIA JURISPRUDENCIAL, ao contrário do que ocorre com o recurso especial.
+6. Se isto é verdade e se é verdade que o recurso especial veio fundamentado apenas na alínea ‘a’, forçoso é reconhecer que a irresignação não poderia ultrapassar a barreira do conhecimento, eis que deficientemente fundamentado, impondo-se, por conseguinte, a reforma da decisão agravada.
+7. Sucessivamente, requer o Agravante seja restabelecida a limitação no tempo dos eventuais valores devidos pela aplicação do percentual a que supostamente faz(em) jus o(a)(s) agravado(a)(s) em obediência à decisão proferida na ADI 1797.
+8. É que não faz nenhum sentido excluir os servidores do Estado do Rio Grande do Norte da eficácia do que decidido pelo Supremo Tribunal Federal no julgamento da ADI 1.797, pois as decisões proferidas em sede de controle de constitucionalidade são vinculantes não apenas em relação ao dispositivo, mas, também, com relação aos fundamentos do decisum, isto é, ao parâmetro interpretativo fixado pelo Supremo Tribunal Federal.”
+Nas contra-razões ao agravo regimental de Adelany Cordeiro de Freitas e outro, o Estado do Rio Grande no Norte alega:
+“4. Por conseguinte, é totalmente despropositada a pretensão recursal dos recorrentes, devendo, sob qualquer enfoque, ser reformada sim a decisão agravada, mas no sentido de restabelecer o acórdão recorrido, no ponto em que deferiu a limitação temporal e a implícita compensação face às reestruturações posteriores dos padrões remuneratórios dos autores.”
+     Passo a decidir.
+      Inicialmente, verifica-se que as questões debatidas nestes autos, compensação e limite temporal relativos à correção de 11,98% no vencimento, considerado o erro na respectiva conversão para URV, teve seu entendimento revisto por esta Corte ao examinar, em sede de liminar, a Ação Direta de Inconstitucionalidade 2.323-3/DF.
+     Em 12.12.2007, o Plenário virtual do Supremo reconheceu que o tema constitucional versado tem repercussão geral. O extraordinário afetado ao Plenário, o RE nº 561.836/RN, é da relatoria do ministro Eros Grau.
+Ante o exposto, reconsidero a decisão de fl. 336 e determino a baixa destes autos ao Tribunal de origem para que seja observado o art. 543-B do Código de Processo Civil, nos termos do artigo 328, parágrafo único, do RISTF.
+Publique-se.
+Brasília, 10 de setembro de 2009.
+Ministro GILMAR MENDES
+Relator
+1
