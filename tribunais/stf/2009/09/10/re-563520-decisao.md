@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. LEI COMPLEMENTAR N. 8/70. 1. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL: DESNECESSIDADE. INTIMAÇÃO DO ACÓRDÃO RECORRIDO ANTERIOR A 3.5.2007. 2. OBRIGATORIEDADE DE CONTRIBUIÇÃO DOS MUNICÍPIOS PARA O PROGRAMA DE FORMAÇÃO DO PATRIMÔNIO DO SERVIDOR - PASEP. PRECEDENTES. RECURSO EXTRAORDINÁRIO PROVIDO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+“CONSTITUCIONAL E TRIBUTÁRIO. AÇÃO ORDINÁRIA. PASEP. MUNICÍPIO. LEI COMPLEMENTAR N. 08/70. FPM. RETENÇÃO.
+1. A Constituição Federal de 1988 manteve a participação nos programas PIS e PASEP apenas para os empregados (públicos ou privados) de entidades que aderissem ao respectivo programa.
+2. O artigo 8º da Lei Complementar n. 08/70 permanece compatível com a atual Constituição, sendo recepcionada pela nova ordem constitucional.
+3. As contribuições sociais e os impostos somente podem ter como contribuintes aqueles que participam direta ou indiretamente do fato gerador. Se os servidores não são beneficiados do programa (PASEP), não podem ser considerados como contribuintes.
+4. O princípio isonômico permite a desequiparação e tratamentos desiguais (servidor de municípios não aderentes), sem que isto corresponda a qualquer ofensa ao citado preceito constitucional.
+5. Imprescindível a publicação de lei municipal, aquiescendo com a participação da urbe no citado programa, para tornar exequível a cobrança do PASEP, em respeito à autonomia municipal conferida pela atual Carta Política.
+6. Apelação do município e remessa oficial providas” (fl. 217).
+2. A Recorrente alega que o Tribunal a quo teria contrariado o art. 239 da Constituição da República.
+Argumenta que, “em face da nova ordem instituída pela Constituição de 1988, o PASEP passou a integrar o elenco das contribuições sociais, constituindo, assim, uma obrigação de natureza tributária, cujo cumprimento reveste-se de compulsoriedade. Donde se concluir que a necessidade de edição de lei municipal, consoante expresso no art. 8º da LC n. 08/70, não foi recepcionada pela novel ordem constitucional” (fl. 258).
+Apreciada a matéria trazida na espécie, DECIDO .
+3. Inicialmente, quanto à preliminar de repercussão geral, é de se anotar que a então Recorrente foi intimada do acórdão recorrido antes de 3.5.2007, o que dispensa a demonstração da repercussão geral da questão constitucional em capítulo especial do recurso extraordinário, nos termos do que decidido pelo Plenário do Supremo Tribunal Federal no Agravo de Instrumento 664.567-QO, Relator o Ministro Sepúlveda Pertence.
+4. Razão jurídica assiste à Recorrente.
+5. No julgamento da Ação Cível Originária 585, Relator o Ministro Sydney Sanches, o Plenário do Supremo Tribunal Federal firmou o entendimento de que o art. 239 da Constituição da República de 1988 tornou obrigatória a contribuição ao Programa de Formação do Patrimônio do Servidor - Pasep, criado pela Lei Complementar n. 8/70:
+“DIREITO CONSTITUCIONAL E PREVIDENCIÁRIO. CONTRIBUIÇÃO PARA O PASEP. AÇÃO CÍVEL ORIGINÁRIA, PROPOSTA PELO ESTADO DO MATO GROSSO DO SUL, AUTARQUIAS E FUNDAÇÕES ESTADUAIS, CONTRA A UNIÃO FEDERAL, VISANDO À DECLARAÇÃO DE INEXISTÊNCIA DE VINCULAÇÃO AO SISTEMA DE CONTRIBUIÇÃO AO PROGRAMA DE FORMAÇÃO DO PATRIMÔNIO DO SERVIDOR PÚBLICO - PASEP, INSTITUÍDO PELO ART. 8º, DA LEI COMPLEMENTAR FEDERAL Nº 8, DE 03 DE DEZEMBRO DE 1970. 1. O artigo 239 da Constituição Federal de 1988 constitucionalizou o PASEP, criado pela Lei Complementar nº 8, de 3 de dezembro de 1970, dando-lhe caráter eminentemente nacional, com as alterações nele enunciadas (§§ 1º, 2º, 3º e 4º). Dessa forma, tornou obrigatória a contribuição, que antes era facultativa. O mais foi objeto da Lei, que encomendou, ou seja, a de nº 7.998, de 11/01/1990. 2. Precedente: ACO n° 471. 3. Ação julgada improcedente. 4. Plenário. Decisão unânime” (DJ 2.5.2003).
+No mesmo sentido:
+“A Lei Complementar 8/70, em seu artigo 8º, previa a faculdade de adesão ao Programa de Formação do Patrimônio do Servidor Público - PASEP, de natureza não tributária, instituído com o objetivo de distribuir a receita entre os servidores da União, Estados, Municípios e o Distrito Federal. 2. O advento da nova ordem constitucional transmudou a natureza da contribuição, que passou à categoria de tributo, tornando-se obrigatória. Arrecadação que, na atual destinação, tem por objeto o financiamento do seguro-desemprego e o abono devido aos empregados menos favorecidos (CF, artigo 239, § 3º). Precedente. 3. O PASEP, sendo contribuição instituída pela própria Carta da República, não se confunde com aquelas que a União pode criar na forma dos seus artigos 149 e 195, nem se lhe aplicam quaisquer dos princípios ou restrições constitucionais que regulam as contribuições em geral. Improcedência da ação” (ACO 580, Rel. Min. Maurício Corrêa, Plenário, DJ 25.10.2002).
+O acórdão recorrido divergiu dessa orientação.
+6. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal), invertidos os ônus da sucumbência.
+Publique-se.
+Brasília, 10 de setembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
