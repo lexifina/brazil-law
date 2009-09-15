@@ -1,0 +1,9 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido porta a seguinte ementa:
+“CONSTITUCIONAL E ADMINISTRATIVO – SERVIDOR PÚBLICO - ACRÉSCIMOS PECUNIÁRIOS - ARTIGO 37, INCISO XIV, DA CONSTITUIÇÃO FEDERAL - NORMA DE EFICÁCIA LIMITADA - AUSÊNCIA DE REGULAMENTAÇÃO ESPECÍFICA - RESOLUÇÃO Nº 007/1999 – INAPLICABILIDADE ‘A norma contida no art. 37, inciso XIV, da Constituição da República, segundo a qual ‘os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos posteriores tem eficácia limitada, dependendo de regulamentação para que esteja apta a produzir os seus regulares efeitos. A alteração da base de cálculo, por força da Resolução nº 007/1999, para efeito de incidência dos adicionais por tempo de serviço do servidor, encontra-se à margem da Constituição da República, possuindo o agente fiscal o direito ao cálculo do qüinqüênio sobre a remuneração (vencimento básico + GEPI)” (fl. 112).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, caput e XIV, da mesma Carta.
+No caso, o recurso extraordinário versa sobre matéria - se a base de cálculo de adicional por tempo de serviço é a remuneração ou vencimento básico - cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (RE 563.708-RG/MS, Rel. Min. Cármen Lúcia).
+Isso posto, preenchidos os demais requisitos de admissibilidade, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com base no art. 328, parágrafo único do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado, quanto ao recurso extraordinário, o disposto no art. 543-B do CPC, visto que nele discute-se questão idêntica à apreciada no RE 563.708-RG/MS.
+Publique-se.
+Brasília, 15 de setembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
