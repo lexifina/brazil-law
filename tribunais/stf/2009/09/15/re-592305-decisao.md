@@ -1,0 +1,13 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão que manteve sentença, para conceder a servidor público do Departamento de Estradas de Rodagem de Minas Gerais (DER/MG) o direito ao reajuste remuneratório previsto no Decreto estadual nº 36.829/95.
+O julgado está assim ementado:
+“ADMINISTRATIVO - AÇÃO ORDINÁRIA - REAJUSTE DE 10% - DECRETO ESTADUAL Nº 36.829/95 - DER/MG - CONVERSÃO DA URV - LEI Nº 11.510/94 - INCONSTITUCIONALIDADE - PREJUÍZO - AUSÊNCIA DE PROVA - IMPROCEDÊNCIA DO PEDIDO. 1 - Ausente a demonstração do prejuízo sofrido pelo autor em decorrência da aplicação da Lei Estadual nº 11.510/94 na conversão de seus vencimentos do Cruzeiro Real para o Real, impõe-se a improcedência dos pedidos de reposição. 2 - Os servidores do Departamento de Estradas de Rodagem estão incluídos entre aqueles beneficiados com o aumento estabelecido no Decreto nº 36.829/95, pois aquela entidade foi expressamente mencionada no Decreto nº 36.033/94, Anexo III-O, em que se baseou a norma majorante para eleger os destinatários do reajuste remuneratório. 3 - Recursos não providos”   (fl. 15) .
+ Alega o recorrente, com base no art. 102, III, a, da Constituição da República, violação aos seus arts. 2º, 61, § 1º, II, a, 37 e 169, bem como ofensa ao enunciado da súmula 339. Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC.
+2.  Inviável o recurso.
+O aresto impugnado decidiu a causa com base em normas infraconstitucionais (Decretos nos 36.033/94 e 36.829/95). Ora, é pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de direito local, seria apenas indireta à Constituição da República (súmula 280).
+ Esta Corte não tem dado ouvidos a pretensões idênticas (cf. AI nº 729.137-AgR, Rel. CÁRMEN LÚCIA, DJE de 19.6.2009 e, as decisões monocráticas: AI nº 639.458, Rel. Min. CÁRMEN LÚCIA, DJE de 15.5.2008, AI nº 576.454, Rel. Min. MARCO AURÉLIO, DJ de 6.4.2006, AI nº 532.755, Rel. Min. EROS GRAU, DJ de 20.4.2005; AI nº 537.535, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 15.4.2005; AI nº 529.604, da minha relatoria, DJ de 23.9.2005, AI nº 500.083, Rel. Min. CARLOS BRITTO, DJ de 14.12.2004; AI nº 512.925, Rel. Min. CARLOS VELLOSO, DJ de 13.12.2004).
+ Não se excogita, pois, existência de repercussão geral, que só convém a questões constitucionais.
+3.  Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+Brasília, 11 de setembro de 2009.
+Ministro CEZAR PELUSO
+Relator
