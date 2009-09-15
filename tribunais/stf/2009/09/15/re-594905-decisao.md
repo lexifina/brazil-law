@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. DIREITO À DIFERENÇA DE REMUNERAÇÃO ENTRE O CARGO EFETIVO E O CARGO EXERCIDO. PRECEDENTES. RECURSO EXTRAORDINÁRIO PROVIDO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. PROFESSORAS ESTADUAIS. DESVIO DE FUNÇÃO. PRINCÍPIO DA LEGALIDADE.
+- O desempenho de funções diversas daquelas para as quais foram investidas as servidoras, por meio de aprovação em concurso público, fere o princípio constitucional da legalidade. Incabível o pedido de diferenças vencimentais como decorrência do desvio de função, eis que este não gera quaisquer direitos ao servidor público. Precedentes” (fl. 270).
+2. As Recorrentes alegam que o Tribunal a quo teria contrariado o art. 37, inc. II, da Constituição da República.
+Esclarecem que não pretendem “ver-se enquadradas na categoria de psicólogas, para o que seria imprescindível o concurso público de provas e títulos (que realizaram, com aprovação, mas sem nomeação). Não pretendem igualmente ver incorporadas em seus proventos as diferenças mês a mês e ad infinitum no equivalente à função desempenhada, mas tão comente no período em que efetivamente se viram e estão sendo desviadas de suas atividades ordinárias, para assumir uma série de obrigações vinculadas à atividade de psicólogas para grande proveito da sociedade, em primeiro lugar, e da administração em particular” (fls. 341-342).
+Sustentam que “O que se procura, portanto, através da presente demanda é evitar que o Estado obtenha um enriquecimento sem causa, uma vez que repassou às recorrentes importâncias condizentes com as funções de professoras e em troca recebeu serviços próprios da função de psicólogas, explorando as demandantes, em benefício da sociedade, sem a devida contrapartida” (fl. 343).
+Apreciada a matéria trazida na espécie, DECIDO .
+3. Razão jurídica assiste às Recorrentes.
+4. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que o desvio de função não permite o reenquadramento, sob pena de afronta ao art. 37, inc. II, da Constituição da República, mas autoriza o recebimento de diferenças de remuneração para se evitar o enriquecimento ilícito da Administração.
+Nesse sentido:
+“Servidor público: firmou-se o entendimento do Supremo Tribunal, no sentido de que o desvio de função ocorrido em data posterior à Constituição de 1988 não pode dar ensejo ao reenquadramento. No entanto, tem o servidor direito de receber a diferença das remunerações, como indenização, sob pena de enriquecimento sem causa do Estado: precedentes” (AI 339.234-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 4.2.2005).
+“EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. INDENIZAÇÃO. POSSIBILIDADE. I. - O servidor público desviado de suas funções, após a promulgação da Constituição, não pode ser reenquadrado, mas tem direito ao recebimento, como indenização, da diferença remuneratória entre os vencimentos do cargo efetivo e os daquele exercido de fato. Precedentes. II. - A análise dos reflexos decorrentes do recebimento da indenização cabe ao juízo de execução. III. - Embargos de declaração convertidos em agravo regimental. Agravo não provido” (RE 486.184-ED, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 16.2.2007).
+“DESVIO DE FUNÇÃO - CONSEQÜÊNCIA REMUNERATÓRIA - ENRIQUECIMENTO SEM CAUSA - AFASTAMENTO. O sistema da Constituição Federal obstaculiza o enriquecimento sem causa, especialmente o do Estado. Longe fica de vulnerar a Carta Política acórdão que, diante de desvio de função, implica o reconhecimento do direito à percepção, como verdadeira indenização, do valor maior, sem estampar enquadramento no cargo, para o que seria indispensável o concurso público” (RE 275.840, Redator para o acórdão o Ministro Marco Aurélio, Segunda Turma, DJ 1º.6.2001).
+O acórdão recorrido divergiu dessa orientação.
+5. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal), para reconhecer o direito das Recorrentes à diferença remuneratória entre os vencimentos do cargo efetivo e do cargo exercido, invertidos os ônus da sucumbência.
+Publique-se.
+Brasília, 15 de setembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
