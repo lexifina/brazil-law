@@ -1,0 +1,10 @@
+1.  Trata-se de recurso extraordinário contra acórdão do
+Tribunal Regional Federal da 5ª. Região, no qual se discute a inconstitucionalidade dos artigos 3º, § 1º, e 8º, da Lei 9.718/98.
+2.  O Plenário do Supremo Tribunal Federal, resolvendo questão de ordem formulada no RE 585.235/MG, Rel. Min. Cezar Peluso, DJe de 28.11.2008, quanto ao alargamento da base de cálculo da COFINS, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa, e, na mesma oportunidade, reafirmou a jurisprudência desta Corte sobre o tema, proferindo decisão consubstanciada em acórdão assim ementado:
+“RECURSO . Extraordinário. Tributo. Contribuição social. PIS. COFINS . Alargamento da base de cálculo. Art. 3º, § 1º, da Lei nº 9.718/98. Inconstitucionalidade. Precedentes do Plenário (RE 346.084/PR, Rel. orig. Min. ILMAR GALVÃO, DJ de 1º.9.2006; REs nºs 357.950/RS, 358.273/RS e 390.840/MG, Rel. Min. MARCO AURÉLIO , DJ de 15.8.2006) Repercussão Geral do tema. Reconhecimento pelo Plenário. Recurso improvido. É inconstitucional a ampliação da base de cálculo do PIS e da COFINS prevista no art. 3º, § 1º, da Lei nº 9.718/98.”
+3.  Quanto à majoração da alíquota da COFINS por lei ordinária, esta Corte, também reconheceu a existência de repercussão geral da matéria no AI 715.423-QO/RS, de minha relatoria, DJe 05.09.2008 e, posteriormente, no RE 527.602/SP, rel. para o acórdão Min. Marco Aurélio (INFORMATIVO STF 554 - 5.08.2009), confirmou a jurisprudência desta Corte, para rejeitar a alegação de inconstitucionalidade da art. 8º da Lei 9.718/98 – o qual determinava a majoração da alíquota de 2% para 3% – reputando descabida a argumentação relativa à necessidade de lei complementar, uma vez que a exação ocorreu nos termos do art. 195, I, da Constituição Federal.
+3.  Diante do exposto, dou parcial provimento ao recurso extraordinário (art. 557, § 1º-A, do CPC) para reformar o acórdão na parte em que julgou constitucional a ampliação do conceito de faturamento (art. 3º, § 1º, da Lei 9.718/98). Sem honorários (Súmula STF 512).
+Publique-se.
+Brasília, 15 de setembro de 2009.
+Ministra Ellen Gracie
+Relatora
