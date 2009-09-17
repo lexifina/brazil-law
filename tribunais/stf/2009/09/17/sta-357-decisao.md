@@ -1,0 +1,20 @@
+DESPACHO: Trata-se de pedido de suspensão de tutela antecipada formulado pela Agência Nacional de Transportes Terrestres, com a finalidade de sustar os efeitos dos acórdãos proferidos pelo Tribunal Regional Federal da 1ª Região, nos autos da Apelação Cível nº 2005.34.00.031063-1 e da Medida Cautelar Inominada nº 2009.01.00.022902-4, e pelo Tribunal Regional Federal da 4ª Região, nas Apelações Cíveis nº 2005.70.05.002969-1 e nº 2005.72.01.005408-3 e nos Agravos de Instrumento nº 2008.04.00.044631-1 e nº 2008.04.00.046236-5. Por intermédio dessas decisões, empresas foram judicialmente autorizadas a explorar o serviço público de transporte interestadual de passageiros.
+Segundo o relato da petição inicial, diversas empresas ajuizaram demandas em face da Agência Nacional de Transportes Terrestres – ANTT, a fim de que lhes fosse garantida a exploração de determinados trechos rodoviários.
+Afirmam as mencionadas empresas possuir o direito à prestação do serviço público de transporte rodoviário interestadual de passageiros, a despeito da oposição da autarquia federal responsável pela regulação do setor, em virtude do fato de, há anos, prestarem o mencionado serviço público.
+Sustentam, ademais, que a paralisação de suas atividades traria enormes prejuízos às populações atendidas pelo serviço.
+A pretensão das referidas empresas foi acolhida pelos Tribunais Regionais Federais da 1ª e da 4ª Região, nos autos dos processos acima mencionados.
+A presente suspensão de segurança baseia-se em argumentos de lesão à ordem, segurança e economia públicas.
+Afirma o requerente que as decisões impugnadas teriam violado a ordem pública, na medida em que teriam usurpado a competência da União para exercer, diretamente ou, mediante concessão, permissão ou autorização, o serviço público de transporte rodoviário interestadual e internacional de passageiros.
+Sustenta, ademais, que as referidas decisões judiciais colocariam em risco a gestão do Sistema Nacional de Transportes, ao impedir o planejamento global da distribuição das linhas pelo território nacional.
+Por fim, assevera que a decisão impugnada criaria óbice ao exercício do poder de polícia pela ANTT, em detrimento dos usuários e da segurança pública.
+Às fls. 1.010/1.039, uma das interessadas, Transporte Coletivo Brasil Ltda., sustenta possuir autorização para a prestação do referido serviço público, a qual lhe teria sido concedida, há mais de vinte e três anos, pelo extinto DNER.
+No seu entender, a ANTT, ao não incluí-la no rol das empresas que receberam autorização para a prestação do serviço sob regime especial (Resolução/ANTT nº 2.868/08), teria violado o princípio da isonomia, tendo em vista inexistir quaisquer diferenças entre a sua situação e a das demais empresas.
+Cumpre registrar que, em virtude da existência de programa, denominado “Plano Nacional de Outorgas” e acompanhado de perto pelo Tribunal de Contas da União e pelo Ministério Público Federal, para a licitação em prazo razoável (dezembro de 2009) e de forma concatenada, de todos os trechos rodoviários cuja outorga à iniciativa privada deu-se de forma irregular ou precária, deferi os pedidos formulados na Suspensão de Tutela Antecipada nº 322, DJ 19.5.2009, e na Suspensão de Liminar nº 279, DJ 18.5.2009.
+Há, no entanto, notícias de que, até a presente data, nenhuma providência teria sido tomada pela requerente no sentido de dar efetividade à referida programação. Afirma-se, inclusive, que as autorizações especiais concedidas pela Resolução/ANTT nº 2.868/2008 seriam postergadas até o final de 20 10 , pois, somente nesta data, seriam ultimadas as licitações.
+Ante o exposto, determino a intimação da Agência Nacional de Transportes Terrestres (ANTT), a fim de que informe o andamento do referido “Plano Nacional de Outorgas” e, mais especificamente, se os cronogramas estão sendo cumpridos. Em caso negativo, quais seriam os óbices à conclusão das licitações até o final do ano de 2009.
+Comunique-se com urgência.
+Publique-se.
+Brasília, 17 de setembro de 2009.
+Ministro GILMAR MENDES
+Presidente
+1
