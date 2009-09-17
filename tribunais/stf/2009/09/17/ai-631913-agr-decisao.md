@@ -1,0 +1,15 @@
+1.  Trata-se de agravo regimental (fls. 125-128) de decisão proferida em 1.3.2007, que conheceu do agravo de instrumento e o converteu em recurso extraordinário, dando-lhe provimento (fls. 121-122), referente à discussão quanto ao reconhecimento do direito ao aproveitamento de crédito-prêmio do Imposto sobre Produtos Industrializados - IPI de que trata o Decreto-lei 491/69, em face do art. 41, § 1º, do ADCT.
+2.  O Plenário do Supremo Tribunal Federal, em 13.8.2009, ao julgar os RE 561.485/RS e RE 577.348/RS, rel. Min. Ricardo Lewandowski, com repercussão geral reconhecida, nos termos da Lei 11.418/2006 (DJe 02.5.2008), concluiu que o incentivo fiscal – de natureza setorial, uma vez que protege o setor exportador – deixou de vigorar dois anos após a promulgação da Constituição Federal de 1988, como determinou o art. 41 do Ato das Disposições Constitucionais Transitórias, pois não foi confirmado por lei extinguindo-se, desta forma, em 1990. Neste sentido, a ementa do RE 577.348/RS:
+TRIBUTÁRIO. IPI. CRÉDITO-PRÊMIO. DECRETO-LEI 491/1969 (ART. 1º). ADCT, ART. 41, § 1º.INCENTIVO FISCAL DE NATUREZA SETORIAL. NECESSIDADE DECONFIRMAÇÃO POR LEI SUPERVENIENTE À CONSTITUIÇÃO FEDERAL.PRAZO DE DOIS ANOS. EXTINÇÃO DO BENEFÍCIO. RE CONHECIDO EDESPROVIDO.
+I - A declaração de inconstitucionalidade do art. 1º do Decreto-Lei 1.724, de 7/12/1979, bem como do inc. I do art. 3º do Decreto-Lei 1.894, de 16/12/1981, pelo Supremo Tribunal Federal, foi fundada na delegação inconstitucional de poderes ao Ministro da Fazenda, razão pela qual se circunscreveu a esse aspecto das normas impugnadas.
+II – A declaração de inconstitucionalidade pelo STF dos referidos dispositivos levou à revogação do crédito-prêmio do IPI, pois manteve intactos os dispositivos remanescentes. Aplicação dos princípios da conservação dos atos jurídicos e da boa-fé objetiva.
+III - O crédito-prêmio de IPI constitui um incentivo fiscal de natureza setorial de que trata o do art. 41, caput, do Ato das Disposições Transitórias da Constituição.
+IV – Como o crédito-prêmio de IPI não foi confirmado por lei superveniente no prazo de dois anos, após a publicação da Constituição Federal de 1988, segundo dispõe o § 1º do art. 41 do ADCT, deixou ele de existir.
+V – Por essa razão, o crédito-prêmio de IPI Foi extinto em 5 de outubro de 1990.
+VI - Recurso conhecido e desprovido. (Portal STF, Notícias STF do dia 13.8.2009).
+3.  Portanto, a decisão agravada merece reforma diante do atual entendimento desta Corte, conforme menção no item 2 desta decisão. A sustentação da agravada de que continua em vigor o crédito-prêmio de IPI, na forma disciplinada pelo Decreto-Lei 491/69 e o provimento do agravo de instrumento vão de encontro ao que foi decidido pelo Plenário do Supremo Tribunal Federal, em 13.8.2009.
+4.  Ante o exposto, reconsidero a decisão agravada de fls. 121-122, com fundamento no art. 557, § 1º, do CPC e nego seguimento ao agravo de instrumento da ora agravada (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 17 de setembro de 2009.
+Ministra Ellen Gracie
+Relatora
