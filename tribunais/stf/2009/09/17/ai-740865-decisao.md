@@ -1,0 +1,20 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário contra acórdão assim ementado:
+“ APELAÇÃO CÍVEL. AÇÕES REVISIONAIS DE ALIMENTOS. ART. 1.699 CCB. VALOR DOS ALIMENTOS DE ACORDO COM O BINÔMINO NECESSIDADE/POSSIBILIDADE. PEDIDO DE REDUÇÃO. POSSIBILIDADE. A fixação dos alimentos resulta da análise das possibilidades do alimentante e das necessidades de quem pede os alimentos. Ocorrendo modificação na situação econômica de quem paga ou recebe alimentos é possível a exoneração, redução ou majoração do encargo, art. 1.699 do Código Civil. No caso, demonstrado que houve redução das possibilidades do alimentante, impõe-se reduzir os alimentos para valor compatível com os seus rendimentos. À fixação dos alimentos também deve ser respeitado, tanto quanto possível, o princípio constitucional de igualdade dos filhos (art. 227, §6º, CF). Assim, considerando o pagamento de alimentos para outro filho do apelante no equivalente a 70% do salário mínimo, tal valor deve ser arbitrado em prol da apelada.
+Recurso provido em parte” (fl. 31).
+2.  O aresto proferido nos embargos de declaração, para afastar a alegada omissão quanto ao fundamento constitucional do art. 227,§ 6º, assim se pronunciou:
+“O fato de ter mencionado, nos fundamentos da decisão do acórdão, a princípio constitucional de igualdade dos filhos, previsto no § 6º do art. 227 da CF, não significa que a embargada deve receber exatamente o que o outro filho do embargante Carlos Miguel recebe, porque os alimentos são fixados de acordo com o binômio necessidade/possibilidade das partes, requisitos analisados em cada caso concreto.
+Tal princípio foi usado apenas para justificar a redução dos alimentos de um(01) para 70% do salário mínimo, importância recebida por Carlos Miguel.” (fl. 41)
+3.  No RE, alega a parte recorrente ofensa ao art. 226, § 6º, da Constituição Federal, sustentando em síntese:
+“A decisão vergastada, ao invocar o artigo 227, parágrafo 6º, da CF/88, para justificar a revisão dos alimentos e, assim mesmo privilegiar a recorrida com um plano de saúde que não é percebido pelo menor Carlos Miguel, atenta contra a igualdade absoluta entre os filhos, visto que se instituiu evidente benefício.” (fl. 56)
+4.  Inviável o presente recurso, porque para se concluir de forma diversa da Corte de origem, seria necessário o reexame de elementos fáticos-probatórios, procedimento vedado na via extraordinária pela incidência da Súmula STF 279, além da prévia análise de legislação infraconstitucional (art. 1.699 do Código Civil), o que impede o trânsito do recurso extraordinário, por ser indireta a alegada ofensa à Constituição Federal.
+ Ademais, não ofende o mencionado dispositivo constitucional (art. 227, § 6º), decisão que, com base na situação de desigualdade de cada um dos filhos, acolhe ou não pedido de revisão de alimentos, em face da análise da situação financeira do alimentante e dos alimentados (“binômio necessidade/ possibilidade”).
+ Nesse sentido, em caso similar, o RE 163.167/SC, rel. Min. Ilmar Galvão, 1ª. Turma, unânime, DJ 31.10.1997, cujo acórdão está assim ementado:
+“ DIREITO DAS SUCESSÕES. FILHOS ADOTIVOS. PRETENDIDA HABILITAÇÃO NA QUALIDADE DE HERDEIROS DOS DE CUJUS. INDEFERIMENTO CALCADO NO FATO DE A ABERTURA DA SUCESSÃO HAVER OCORRIDO ANTES DO ADVENTO DA NOVA CARTA, QUE ELIMINOU O TRATAMENTO JURÍDICO DIFERENCIADO ENTRE FILHOS LEGÍTIMOS E FILHOS ADOTIVOS, PARA FINS SUCESSÓRIOS. ALEGADA OFENSA AO PRINCÍPIO DA ISONOMIA E AO ART. 227, § 6º, DA CONSTITUIÇÃO.
+Inconstitucionalidade inexistente.
+A sucessão regula-se por lei vigente à data de sua abertura, não se aplicando a sucessões verificadas antes do seu advento a norma do art. 227, § 6º, da Carta de 1988, que eliminou a distinção, até então estabelecida pelo Código Civil (art. 1.605 e § 2º), entre filhos legítimos e filhos adotivos, para esse efeito. Discriminação que, de resto, se assentava em situações desiguais, não afetando, portanto, o princípio da isonomia.
+Recurso não conhecido.”
+5.  Do exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 17 de setembro de 2009.
+Ministra Ellen Gracie
+Relatora
