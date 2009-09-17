@@ -1,0 +1,34 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRANSPORTE COLETIVO. DESCONTO A ESTUDANTE. 1. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL: DESNECESSIDADE. INTIMAÇÃO DO ACÓRDÃO RECORRIDO ANTERIOR A 3.5.2007. 2. CONFLITO DA MEDIDA PROVISÓRIA N. 2.208/01 COM LEI MUNICIPAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL: INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“Ação Civil Pública. Transporte coletivo. Concessão de descontos. Passe escolar. Exigência de cadastramento do usuário/estudante que extrapola norma federal. Inocorrência de dano moral. Recursos improvidos. Sentença mantida” (fl. 86).
+Tem-se no julgamento da apelação:
+“No que pertine à declaração incidental de inconstitucionalidade da Medida Provisória 2.208/01, ao fundamento de que estaria a União invadindo competência estrita do Município, quer me parecer, respeitosamente, que tal declaração incidental, que importaria em deslocamento do julgamento para a Corte Superior, por falecer competência a esta Câmara para o seu pronunciamento, quer-me parecer, repito, desinfluente diante do advento da lei municipal.
+(...)
+Permito-me breves considerações: o sistema de transporte não é numerus clausus. A competência é simétrica. O fato de a União legislar não derroga, não ab-roga a competência municipal. Cada um com seu cada qual. Entendo que o Município pode legislar de acordo com suas atribuições e a União também.
+(...)
+A MP 2.208/91, em que pese prever a necessidade de comprovação da condição de estudante para fazer jus ao benefício, mediante a apresentação de documento de identificação estudantil expedido pelos correspondentes estabelecimentos de ensino ou pela associação ou agremiação estudantil a que pertence, acompanhado do comprovante de matrícula ou de freqüência escolar, não prevê o cadastramento.
+Tal exigência mostra-se incompatível com norma federal, que não impõe qualquer restrição no sentido de se exigir o cadastramento dos estudantes/beneficiários” (fls. 88-94).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento.
+4. A Agravante, no recurso extraordinário, alega que teria sido contrariado o art. 30, inc. V, da Constituição da República.
+Argumenta que:
+“a controvérsia surgida na espécie dos autos, ante tal circunstância, leva necessariamente à confrontação entre tal competência genérica e aquela bem particular (ou especial!) do município prevista no art. 30, V, do texto constitucional, sendo útil, assim, reproduzir o questionado § único do art. 1º da MP 2.208/2001 (...) Repare-se que tal norma federal limitou-se a conceituar (ou a construir!) um modelo legal de estudante para efeito dos benefícios que lhes são próprios enquanto apresentarem tal qualidade. Em singelas palavras, na realidade se deu a definição em lei de certa qualificação jurídica, bastando que a pessoa nela enquadrada comprove sua condição de estudante, sendo certo, porém, que em relação ao transporte coletivo público se exigiu algo mais de que a simples ‘carteira de identificação do estudante’, é necessário também a prova da frequência em ‘sala de aula’ ou de ao menos da matrícula nesta ou naquela escola. A legislação municipal, in casu, ao conceder o desconto de 30% da tarifa aos estudantes de Governador Valadares/MG, por sua vez, foi mais específica e detalhada, como aliás garantido pelo art. 30, V, da CF/88, exigindo o prévio cadastramento dos beneficiários de tal benesse ‘tarifária’, em especial após a implantação do sistema de bilhetagem eletrônica com o Decreto municipal n. 8.154/2004 – ver. fl. 172, mas que de qualquer maneira jamais negou ou confrontou aquele tipo legal de estudante previsto na MP 2.208/2001” (fls. 124-125 – grifos nossos).
+Afirma que:
+“sempre suscitou a inconstitucionalidade da pretensão de se negar qualquer validade à legislação municipal que trata sobre a concessão do benefício tarifário do ‘passe escolar’ e a forma para sua obtenção, dando em consequência plena e exclusiva eficácia ao § único do art. 1º da MP 2.208/2001. (...) se de um lado a União Federal possui competência para ‘tipificar’ o estudante, de outro o Município também possui a competência para organizar e racionalizar a concessão de benefícios tarifários de tal categoria de beneficiários, o que na espécie ocorreu conforme os ditames do inciso V do art. 30 da Carta Magna” (fls. 126-127 – grifos nossos).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Inicialmente, afasto o fundamento da decisão agravada, pois a matéria alegada pela Agravante foi debatida no acórdão recorrido.
+6. Quanto à preliminar de repercussão geral, é de se anotar que a então Agravante foi intimada do acórdão recorrido antes de 3.5.2007, o que dispensa a demonstração da repercussão geral da questão constitucional em capítulo especial do recurso extraordinário, nos termos do que decidido pelo Plenário do Supremo Tribunal Federal no Agravo de Instrumento 664.567-QO, Relator o Ministro Sepúlveda Pertence.
+7. Razão jurídica não assiste à Agravante.
+8. A controvérsia restringe-se à declaração pelo Tribunal a quo de incompatibilidade da Lei municipal n. 3.345/91 com as disposições da Medida Provisória n. 2.208/01 referentes à comprovação da qualidade de estudante para recebimento de desconto em transporte coletivo municipal.
+Para verificar se as normas mencionadas são compatíveis, seria necessária a análise de seus dispositivos. Assim, a afronta à Constituição da República, se existente, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide, na espécie, a Súmula 280 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. (...) IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 599.167-AgR, de minha relatoria, Primeira Turma, DJ 21.8.2009).
+“RECURSO. Extraordinário. Inadmissibilidade. (...) Interpretação de normas locais. Ofensa constitucional indireta. Agravo regimental não provido. Aplicação da súmula 280. Não cabe RE que tenha por objeto alegação de ofensa indireta à Constituição por má aplicação de direito local” (RE 556.125-AgR-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJ 30.4.2009).
+Nada há, pois, a prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 17 de setembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
