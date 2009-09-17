@@ -1,0 +1,46 @@
+1.  Trata-se de agravo de instrumento de decisão que negou trânsito a recurso extraordinário manejado contra acórdão proferido pelo Tribunal de Justiça do Estado do Piauí, que, por maioria de votos, deu provimento à apelação em mandado de segurança, por concluir que o ora agravado, ex-Prefeito do Município agravante, teria direito adquirido ao restabelecimento do pagamento de pensão vitalícia nos termos da Lei Municipal 017/87, editada sob a égide da CF/67, a qual o Tribunal a quo considerou recepcionada pela nova ordem constitucional. Este acórdão está assim ementado:
+“ PROCESSUAL CIVIL. MANDADO DE SEGURANÇA COM PEDIDO DE LIMINAR (INAUDITA ALTERA PARS). APELAÇÃO CÍVEL.
+1. É de ser provido o recurso de apelação em Mandado de Segurança com base em Lei Municipal anterior à Constituição Federal de 1988 (Inteligência dos artigos 1º e 2º da Lei nº 17/87, do Município de Matias Olimpio-PI).
+2. Recurso conhecido e provido. Por maioria dos membros da Câmara.”
+2.  Preliminarmente, alega o Município de Matias Olímpio ofensa ao art. 93, IX, da CF, sob a pretensão de nulidade do acórdão proferido nos embargos de declaração, sustentando que houve omissão em relação à questão disposta nos artigos 24, XII, 195, § 5º, 22, XXIII, da CF, e 17 do ADCT da CF/88.
+ No mérito, alega afronta aos artigos 5º. XXXVI; 22; 29; 194; e 195, § 5º, da CF, sustentando, em síntese:
+“A pretensão do recorrido, por se tratar de benefício previdenciário, encontra óbice nesses comandos constitucionais, pois o benefício pretendido não tem nenhuma fonte de custeio e não resulta de nenhuma contribuição do beneficiário.” (fl. 197)
+.................................................................................
+Na verdade, o Tribunal de Justiça do Piauí conferiu interpretação totalmente equivocada ao art. 5º, XXXVI, da CF, ao asseverar que há direito adquirido decorrente de norma legal não recepcionada pela atual Carta Magna, pois esta, como se sabe, proíbe a concessão de benefício de natureza previdenciária por ente municipal (i. é pelo Município, que não detém competência para legislar) e a quem não contribuiu.
+Não se pode falar em direito adquirido, pois a figurada jurídica em questão somente se faz presente quando o direito adquirido em voga é recepcionado pela Constituição Federal de 1988, o que não aconteceu.
+Ademais, é importante salientar que esse Pretório Excelso decidiu que as chamadas “pensões de graças” concedidas a Prefeitos e suas viúvas já padeciam de inconstitucionalidade quando da vigência da CF/67.” (fls. 198/199))
+3.  Ressalto que a preliminar levantada pela parte, relativa ao reexame do julgamento proferido na Corte de origem, para fins de nulidade, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade ao disposto no art. 93, IX, da Constituição Federal. Veja-se o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002, o qual assentou em sua ementa:
+“ CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO: ALEGAÇÃO DE OFENSA AO DEVIDO PROCESSO LEGAL E DE QUE O ACÓRDÃO NÃO ESTARIA FUNDAMENTADO. C.F., arts. 5º, II, XXXV, LIV e LV, e 93, IX .
+I. – Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional.
+II. – Decisão contrária ao interesse da parte não configura negativa de prestação jurisdicional (...)”
+4.  Quanto à questão de fundo, verifico que à exceção dos artigos 5º, XXXVI; e 195, § 5º, os demais dispositivos constitucionais não foram prequestionados, porque não abordados pelo acórdão recorrido, e, embora suscitados nos embargos a ele opostos, não foram apontados oportunamente nas contra-razões de apelação (fls. 106-112).
+5.  No que tange à ofensa ao direito adquirido, o aresto atacado está em consonância com a jurisprudência desta Corte. Nesse sentido, cito o RE 186.388, rel. Min. Sydney Sanches, Plenário, unânime, DJ 19.12.96, cujos trechos da ementa transcrevo:
+2.    “Sendo as Leis instituidoras do benefício anteriores à Constituição Federal de 05.10.1988, não é de ser acolhida a alegação de que violaram o caput de seu artigo 37, no ponto em que determina a observância do princípio da moralidade. Se é certo que esse princípio se encontrava ínsito na CF de 1967 e na EC nº 1/69, verdade também é, por outro lado, que o RE do Município, quanto a esse ponto, não indica, como violadas, as normas respectivas, que o contrariam.
+3.    O que mais importa, então, tanto no julgamento do RE do Município de Porto Alegre, quanto no do RE do Fundo e demais autores, é a verificação de ocorrência, ou não, de violação ao princípio constitucional tutelar do direito adquirido, ou seja, se o acórdão recorrido violou o inciso XXXVI do art. 5º da CF de 1988, seja ao reconhecer a existência desse direito, no caso, seja ao fazê-lo nos termos em que o fez.
+4.    Como demonstram os acórdãos da Apelação e dos Embargos Declaratórios, a interpretação e a aplicação das Leis novas não podiam atingir os autores que já haviam preenchido os requisitos para a obtenção do benefício, segundo a legislação contemporânea, pois tinham direito adquirido a esse respeito.”
+Essa orientação tem sido seguida, neste Tribunal, pela Segunda Turma. Veja-se o RE 221.902-AgR/ M|G, rel. Min. Nelson Jobim, unânime, DJ 02.06.2000.
+ E, mais recentemente, em caso similar, no qual se discutia pensão graciosa devida em razão de falecimento de deputado estadual, veja-se o RE 460.737, rel. Min. 2ª Turma, unânime, DJe de 30.11.2007, assim ementado:
+“ RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. MINAS GERAIS. PENSÃO. VIÚVA DE DEPUTADO ESTADUAL. ART. 5º, XXXVI DA CONSTITUIÇÃO. DIREITO ADQUIRIDO.
+Viúva de deputado estadual que vinha percebendo pensão, com base na lei estadual 8.393/1983, correspondente a 2/3 do valor do subsídio pago a deputado estadual.
+Não pode a lei posterior (lei estadual 9.886/1989) reduzir o quantum da pensão deferida sob a égide de legislação anterior, para o montante de 35% do atual subsídio pago a deputado estadual.
+Ofensa ao direito adquirido configurada.
+Recurso extraordinário conhecido e provido.
+   E, em conclusão do julgamento desse último julgado, após o pedido de vista formulado pelo meu antecessor, Ministro Gilmar Mendes, ficou assim decidido:
+“Daí concluir Moreira Alves que o princípio do direito adquirido “se aplica a toda e qualquer lei infraconstitucional, sem qualquer distinção entre lei de direito público e lei de direito privado, ou entre lei de ordem pública e lei dispositiva” (ADI nº 493, Relator: Ministro Moreira Alves, RTJ 143, p. 724 (746).
+............................................................
+Com essas reflexões, assento que a lei nova, em relação ao presente caso, ao instituir causa de redução de beneficio, não retroage, de modo a afetar situação anteriormente constituída, a exemplo da circunstância evidenciada neste extraordinário.”
+A recorrente implementou direito com a lei que a ela concedeu pensão. A circunstância qualifica a aquisição do direito, por parte do recorrente, que se vê protegido pelo art. 5º, XXXVI, do texto constitucional.
+Assim, conheço do recurso e dou-lhe provimento, para determinar que ao pagamento da pensão seja aplicada a legislação em vigor à época da sua concessão.”
+6.  Quanto ao art. 195, § 5º, CF, no RE 202.294/SP, de minha relatoria, 2ª Turma, unânime, DJ 19.12.2003, assim me pronunciei:
+“Esta norma, também adotada na Carta de 1988 (art. 195, § 5º), tem como objetivo evitar o déficit nas contas da Previdência Social, com a criação indiscriminada de benefícios, sem a correspondente fonte de custeio. Não se pode, contudo, a partir da leitura do citado dispositivo, interpretar que a majoração de alíquotas de contribuições sociais só se mostra possível, quando houver instituição de novos benefícios ou aumento dos já existentes, conforme pretendem os recorrentes.
+Foi essa a conclusão a que chegou a Primeira Turma ao apreciar o RE 231.538, rel. Min. Ilmar Galvão, unânime, DJ 21/02/2003. O precedente, que contou com meu voto, tem sua ementa assim redigida:
+“ EMENTA: PREVIDÊNCIA SOCIAL. CONTRIBUIÇÃO DO EMPREGADOR. LIMITE DE VINTE VEZES O MAIOR SALÁRIO MÍNIMO. EXTINÇÃO PELO DL N.º 2.318/86. ALEGADA OFENSA AOS ARTIGOS 43, X; 55, II; 165, PARÁGRAFO ÚNICO, DA EC 01/69.
+Ausência de prequestionamento da matéria alusiva aos dois primeiros dispositivos.
+No tocante ao último, é de considerar-se que não estabeleceu ele, nos termos pretendidos, regra de paridade ou qualquer tipo de vinculação conceitual, ou de outra natureza, entre o custeio e os benefícios previdenciários.
+Recurso não conhecido.”
+Dessa forma, o fato de a pensão ser graciosa, como alega o agravante ao sustentar “por se tratar de benefício previdenciário, encontra óbice nesses comandos constitucionais, pois o benefício pretendido não tem nenhuma fonte de custeio e não resulta de nenhuma contribuição do beneficiado,” (fl. 197) não afasta o direito adquirido do ora agravado.
+7.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 17 de setembro de 2009.
+Ministra Ellen Gracie
+Relatora
