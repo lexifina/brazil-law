@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de recurso extraordinário interposto com fundamento no artigo 102, inciso III, alíneas “a” e “c”, da Constituição do Brasil, contra acórdão do Tribunal de Justiça de Santa Catarina, ementado nos seguintes termos:
+“MANDADO DE SEGURANÇA – PROFESSORA READAPTADA – CÁLCULO DO PERÍODO DE READAPTAÇÃO COMO TEMPO DE SERGVIÇO – APOSENTADORIA ESPECIAL – POSSIBILIDADE – SEGURANÇA CONCEDIDA.
+A readaptação funcional, por se tratar de situação semelhante à licença para tratamento de saúde, direito este previsto no Estatuto do Magistério Público do Estado de Santa Catarina (Lei n. 6.844/86, arts. 100 a 111), permite ao professor além do afastamento, o recebimento da sua remuneração de forma integral (art. 13, da Lei n. 1.139/92). Assim, o período referente a tal afastamento deve ser calculado para a concessão de aposentadoria especial, eis legalmente autorizado.”
+2.  Alega-se, no recurso extraordinário, ofensa ao disposto no artigo 40, § 5º, da Constituição do Brasil.
+3.  O recurso não merece provimento. Para dissentir-se do acórdão impugnado seria necessária a análise da legislação local que disciplina a espécie, bem como o reexame da matéria fático-probatória que o orientou. Incide aqui as Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido, o RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; o AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; o AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+4.  Ademais, o Pleno do Supremo Tribunal Federal ao julgar a ADI n. 3.772, Redator para o acórdão o Ministro Ricardo Lewandowski, DJe de 27.3.09, fixou o seguinte entendimento:
+“EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE MANEJADA CONTRA O ART. 1º DA LEI FEDERAL 11.301/2006, QUE ACRESCENTOU O § 2º AO ART. 67 DA LEI 9.394/1996. CARREIRA DE MAGISTÉRIO. APOSENTADORIA ESPECIAL PARA OS EXERCENTES DE FUNÇÕES DE DIREÇÃO, COORDENAÇÃO E ASSESSORAMENTO PEDAGÓGICO. ALEGADA OFENSA AOS ARTS. 40, §4º, E 201, § 1º, DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA. AÇÃO JULGADA PARCIALMENTE PROCEDENTE, COM INTERPRETAÇÃO CONFORME.
+I - A função de magistério não se circunscreve apenas ao trabalho em sala de aula, abrangendo também a preparação de aulas, a correção de provas, o atendimento aos pais e alunos, a coordenação e o assessoramento pedagógico e, ainda, a direção de unidade escolar.
+II - As funções de direção, coordenação e assessoramento pedagógico integram a carreira do magistério, desde que exercidos, em estabelecimentos de ensino básico, por professores de carreira, excluídos os especialistas em educação, fazendo jus aqueles que as desempenham ao regime especial de aposentadoria estabelecido nos arts. 40, § 4º, e 201, § 1º, da Constituição Federal.
+III - Ação direta julgada parcialmente procedente, com interpretação conforme, nos termos supra.”
+ Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 18 de setembro de 2009.
+Ministro Eros Grau
+- Relator -
