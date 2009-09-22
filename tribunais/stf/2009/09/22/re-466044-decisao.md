@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONTROVÉRSIA SOBRE O FUNDAMENTO DE VALIDADE DE DECRETO ESTADUAL: OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Mato Grosso do Sul:
+“MANDADO DE SEGURANÇA. BINGO PERMANENTE. AUTORIZAÇÃO POR PRAZO DETERMINADO. REVOGAÇÃO. DECRETO ESTADUAL N. 11.554/2004, FUNDADO EM MEDIDA PROVISÓRIA NÃO CONVALIDADA. ATO VINCULADO. OFENSA AO DIREITO LÍQUIDO E CERTO. ORDEM CONCEDIDA.
+A revogação de autorização para atividade de bingo permanente, através de decreto estadual fundado em medida provisória, é ato vinculado, e não discricionário do Poder público. Logo, não convalidada a medida provisória, a manutenção da revogação ofende direito líquido e certo, reparável pelo writ” (fl. 445).
+Tem-se no voto condutor do julgado recorrido:
+“O decreto combatido pela presente via interrompeu as atividades do Impetrante com base e fundamento na Medida Provisória 168, que proibia jogos de bingo.
+No entanto, dita MP, através de Ato Declaratório do Presidente do Senado, foi arquivada, caindo por terra os efeitos visados com a sua geração. Em sendo assim, o Decreto do Estado n. 11.544/04 igualmente perdeu sua eficácia, porque foi expedido, fundado naquela.
+(...) Como a motivação de cancelamento da autorização deu-se pela edição da medida provisória, a não convalidação dessa acarreta a ilegalidade no ato de cassação das atividades da Impetrante” (fl. 440 – grifos nossos).
+2. O Recorrente afirma que o Tribunal a quo teria ofendido os arts. 1º, 2º, 5º, inc. XXXVI, 18, 25 e 37, caput, da Constituição da República.
+Assevera que:
+“A Lei Estadual n. 788/87 (editada em consonância com o princípio federativo e com a capacidade de autolegislação das unidades federadas – arts. 1º, 18 e 25, CF) é o fundamento de validade tanto dos decretos permissivos, quanto do decreto que os revogou, não subsistindo a afirmação de que a Medida Provisória n. 168 era o fundamento de validade desse último, vinculando-o à validade da MP” (fls. 478-479).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+4. A controvérsia sobre o fundamento de validade do Decreto n. 11.554/2004 do Estado do Mato Grosso do Sul não tem natureza constitucional – a sua solução demandaria o reexame dessa norma infralegal e das normas legais que serviriam de suporte a ela.
+Assim, eventual ofensa constitucional seria indireta, o que não viabiliza o recurso extraordinário. Nesse sentido:
+“EMENTA: Embargos declaratórios em agravo regimental em recurso extraordinário. 2. Pretensão de efeito infringente a partir da mera reprodução dos argumentos já refutados. 3. Constitucionalidade do art. 3º, I, da Lei 8.200 reconhecida pela Corte. Precedentes. 4. Normas infralegais de execução da Lei 8.200/91. Matéria estranha ao campo do recurso extraordinário. 5. Embargos declaratórios rejeitados” (RE 372.328-AgR-ED, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 30.6.2006 – grifos nossos).
+“EMENTA: 1. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. 2. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 93, IX, da Constituição Federal. Ofensa constitucional indireta. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI 508.047-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 21.11.2008 – grifos nossos).
+“Recurso extraordinário: descabimento, quando fundado na alegação de ofensa reflexa à Constituição. 1. Tem-se violação reflexa a Constituição, quando o seu reconhecimento depende de rever a interpretação dada a norma ordinária pela decisão recorrida, caso em que e a hierarquia infraconstitucional dessa última que define, para fins recursais, a natureza de questão federal. 2. Admitir o recurso extraordinário por ofensa reflexa ao princípio constitucional da legalidade seria transformar em questões constitucionais todas as controvérsias sobre a interpretação da lei ordinária, baralhando as competências repartidas entre o STF e os tribunais superiores e usurpando até a autoridade definitiva da Justiça dos Estados para a inteligência do direito local” (AI 134.736-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 17.2.1995).
+E ainda: A I 339.362-AgR , Rel. Min. Sydney Sanches , DJ 9.5.2003; AI 531.361-AgR , Rel. Min. Carlos Velloso , DJ 30.9.2005; RE 425.734-AgR , Rel. Min. Ellen Gracie , DJ 28.10.2005; e AI 548.288-AgR , Rel. Min. Celso de Mello , DJ 24.3.2006 .
+5. Nada há, pois, a prover quanto às alegações do Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 22 de setembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
