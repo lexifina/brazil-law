@@ -1,0 +1,11 @@
+Solução de Consulta Disit/SRRF04 nº 87, de 26 de agosto de 2009
+ASSUNTO: Contribuição Social sobre o Lucro Líquido - CSLL
+EMENTA: O ganho de capital auferido na venda de imóvel de associação civil, sem fins lucrativos, beneficiada pela isenção de que trata o art. 15 da Lei nº 9.532, de 1997, quando essa operação não constituir ato de natureza econômico-financeira, não está sujeito à incidência da CSLL. Todavia, por outro lado, a prática da operação de loteamento ou desmembramento de terrenos provoca a perda da citada isenção, visto extravasar a órbita dos objetivos sociais da instituição, desvirtuando-os, ao concorrer com empresas que não gozam do privilégio fiscal.
+DISPOSITIVOS LEGAIS: Art. 111, II, do CTN (Lei nº 5.172, de 1966); arts. 174 e 410 do RIR/1999 (Decreto nº 3.000, de 1999): PN CST nº 162, de 1974: Parecer CST nº 1.588, de 1981.
+ASSUNTO: Imposto sobre a Renda de Pessoa Física - IRPF
+EMENTA: A diferença entre o valor em dinheiro ou o valor dos bens e dieitos recebidos de instituição isenta, por pessoa física, a título de devolução de patrimônio, e o valor em dinheiro ou o valor dos bens e direitos que esta tiver entregado para a formação do referido patrimônio, sujeita-se à incidência do IRPF à alíquota de quinze por cento.
+DISPOSITIVOS LEGAIS: Art. 17 da Lei nº 9.532, de 1997; arts. 143 e 239 do RIR/1999 (Decreto nº 3.000, de 1999).
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+EMENTA: O ganho de capital auferido na venda de imóvel de associação civil, sem fins lucrativos, beneficiada pela isenção de que trata o art. 15 da Lei nº 9.532, de 1997, quando essa operação não constituir ato de natureza econômico-financeira, não está sujeito à incidência do IRPJ. Todavia, por outro lado, a prática da operação de loteamento ou desmembramento de terrenos provoca a perda da citada isenção, visto extravasar a órbita dos objetivos sociais da instituição, desvirtuando-os, ao concorrer com empresas que não gozam do privilégio fiscal.
+DISPOSITIVOS LEGAIS: Art. 111, II, do CTN (Lei nº 5.172, de 1966); arts. 174 e 410 do RIR/1999 (Decreto nº 3.000, de 1999): PN CST nº 162, de 1974: Parecer CST nº 1.588, de 1981.
+[arquivo anexo: SC SRRF04-Disit nº 87-2009.pdf]
