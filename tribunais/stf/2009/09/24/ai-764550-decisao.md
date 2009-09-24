@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. PRESCRIÇÃO E DECADÊNCIA. RESERVA À LEI COMPLEMENTAR. ARTS. 45 E 46 DA LEI N. 8.212/91: INCONSTITUCIONALIDADE. SÚMULA VINCULANTE N. 8 DO SUPREMO TRIBUNAL FEDERAL. JULGADO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+'PROCESSUAL CIVIL E PREVIDENCIÁRIO ' REJEIÇÃO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE ARGUIDA POR EMPRESA SÓCIA DA EMPRESA EXECUTADA (PRESCRIÇÃO, FALTA DE INTIMAÇÃO PARA DEFESA ADMINISTRATIVA, ILETIGIMIDADE PASSIVA) ' SEGUIMENTO NEGADO ' AGRAVO INTERNO NÃO PROVIDO.
+1- O prazo prescricional para a cobrança da contribuição previdenciárias, segundo o STJ , se define em função da data do fato gerador: `O prazo prescricional das contribuição previdenciárias sofreram oscilações ao longo do tempo: a) até a EC 08/77 ' prazo qüinqüenal (CTN); b) após a EC 08/77 ' prazo de trinta anos (Lei 3.807/60); c) após o advento da Constituição de 1988, tornando indiscutível a natureza tributária das referidas contribuições, o prazo prescricional retornou às regras do CTN (5 anos); d) após a Lei 8.212/93, prazo de dez anos.' (STJ, AgRg no REsp n. 703692/PE, Rel. Min. LUIZ FUX).
+2 ' A ausência de intimação da agravante para o processo administrativo-fiscal contra empresa devedora não é causa de nulidade do crédito previdenciário uma vez que a devedora principal ' Itasider Siderúrgica Itaminas S/A ' teve a oportunidade de defender-se. Constituído definitivamente o crédito, os demais co-obrigados solidários são chamados apenas para saldá-lo, por força da solidariedade que decorre da lei, que não exige nem prevê que os sócios participem do processo administrativo tributário.
+3 ' A excipiente, em momento algum fez prova de suas alegações de que à época dos fatos geradores não mais pertencia ao quadro societário da executada, pois as Atas das assembléias juntadas ao agravo (f. 38/41) tratam somente de substituição do Diretor-Presidente (38/40) e de alteração do capital social (f. 41/42). A `Tela Sociedade ' Confronto' (f. 43/6) traz o histórico das reuniões da devedora principal Itasider Siderúrigica Itaminas S/A, não indica, entretanto, a data de entrada ou saída da agravante da sociedade.
+4 ' À míngua de prova cabal de sua não participação na sociedade à época dos fatos geradores das contribuições permanecem hígidas as informações constantes da CDA que instrui a EF.
+5 ' Agravo interno não provido.
+6 ' Peças liberadas pelo Relator, em 31/10/2006, para publicação do acórdão.' (fl. 112).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência, na espécie, das Súmulas 282 e 356 do Supremo Tribunal Federal (fls. 195).
+4. A Agravante alega que o Tribunal a quo teria afrontado o art. 5º, inc. LIV; 93, inc. IX; e 146, inc. III, al. b, da Constituição da República.
+Apreciada a matéria posta em exame, DECIDO.
+5. Inicialmente, cumpre afastar os fundamento da decisão agravada de que a matéria não estaria prequestionada, pois a matéria foi devidamente prequestionada nas instâncias ordinárias, pois, omisso o Tribunal a quo sobre a matéria constitucional arguida na causa, a ora Agravante opôs embargos declaratórios, os quais cumprem o papel de demonstrar a ocorrência do prequestionamento, não obstante a sua rejeição.
+Confiram-se, a propósito, os seguintes julgados: AI 580.465-AgR, de minha relatoria, Primeira Turma, DJ 19.9.2008; e RE 210.638, Rel. Min. Sepúlveda Pertence, DJ 19.6.1998.
+Dessa forma, foi devidamente atendido o requisito do prequestionamento.
+6. No mérito, em 11 de junho de 2008, o Plenário do Supremo Tribunal Federal julgou o Recurso Extraordinário n. 559.943, de minha relatoria, com repercussão geral reconhecida, e concluiu que apenas lei complementar pode dispor sobre normas gerais em matéria tributária, incluindo-se aí a relativa às contribuições, donde a inconstitucionalidade dos arts. 45 e 46 da Lei n. 8.212/1991, nos quais havia sido fixado o prazo de dez anos para a prescrição das contribuições da seguridade social e a decadência do direito à sua cobrança.
+Naquela assentada, nos Recursos Extraordinários ns. 560.626 e 556.664, Relator o eminente Ministro Gilmar Mendes, foi reafirmada a declaração de inconstitucionalidade dos arts. 45 e 46 da Lei n. 8.212/91, e foi também afirmada a incompatibilidade constitucional do parágrafo único do artigo 5º do Decreto-Lei n. 1.569/77, que determinava que o arquivamento das execuções fiscais de créditos tributários de pequeno valor seria causa de suspensão do curso do prazo prescricional.
+Em 12 de junho de 2008, o Supremo Tribunal editou a Súmula com efeito vinculante n. 8, na qual se tem:
+'São inconstitucionais o parágrafo único do artigo 5º do Decreto-lei 1569/77 e os artigos 45 e 46 da Lei 8.212/91, que tratam de prescrição e decadência de crédito tributário'.
+7. Dessa orientação jurisprudencial divergiu o julgado recorrido.
+8. Pelo exposto, dou provimento a este agravo, na forma do art. 544, §§ 3º e 4º, do Código de Processo Civil, e, desde logo, ao recurso extraordinário, nos termos do art. 557, § 1º-A, do mesmo diploma legal, para que, considerando a inconstitucionalidade dos artigos 45 e 46 da Lei n. 8.212/91, o Tribunal de origem aprecie a matéria como entender de direito.
+Publique-se.
+Brasília, 24 de setembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
