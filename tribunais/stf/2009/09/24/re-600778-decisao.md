@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+“TRIBUTÁRIO E PROCESSUAL CIVIL. SINDICATO. EXECUÇÃO DE SENTENÇA. LEGITIMIDADE.
+A legitimidade de sindicato para defender interesse da categoria, na condição de substituto processual, limita-se ao processo de conhecimento, tendo em vista que na execução de sentença há necessidade de individualização dos beneficiários para que se apure o montante efetivamente devido, ainda mais quando se tem notícia de que parte dos sindicalizados, listados na ação principal, em razão de vários motivos não fazem jus à restituição” (fl. 221).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXV e LV, 8º, III, e 93, IX, da mesma Carta, sob o argumento de que os sindicatos têm legitimidade para atuar na defesa de todo e qualquer direito de seus membros, inclusive no processo de execução.
+Preliminarmente, verifico que a questão constitucional versada no presente recurso oferece repercussão geral, porquanto impugna decisão contrária à jurisprudência dominante do Tribunal (CPC, art. 543-A, § 3º, e RISTF, art. 323, § 1º).
+A pretensão recursal merece acolhida.
+O acórdão recorrido está em dissonância com a jurisprudência dominante do Supremo Tribunal Federal, que, no julgamento do RE 210.029/RS, Plenário, Redator para o acórdão o Ministro Joaquim Barbosa, deu interpretação ao art. 8º, III, da Constituição e decidiu que os sindicatos têm legitimidade processual para atuar na defesa de todos e quaisquer direitos subjetivos individuais e coletivos dos integrantes da categoria por ele representada, inclusive para a liquidação e a execução da decisão prolatada. Por oportuno, transcrevo a ementa do referido julgado do Plenário desta Corte:
+“PROCESSO CIVIL. SINDICATO. ART. 8º, III DA CONSTITUIÇÃO FEDERAL. LEGITIMIDADE. SUBSTITUIÇÃO PROCESSUAL. DEFESA DE DIREITOS E INTERESSES COLETIVOS OU INDIVIDUAIS. RECURSO CONHECIDO E PROVIDO. O artigo 8º, III da Constituição Federal estabelece a legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam. Essa legitimidade extraordinária é ampla, abrangendo a liquidação e a execução dos créditos reconhecidos aos trabalhadores. Por se tratar de típica hipótese de substituição processual, é desnecessária qualquer autorização dos substituídos. Recurso conhecido e provido”.
+Isso posto, conheço do recurso e dou-lhe provimento, para reconhecer a legitimidade processual do Sindicato recorrente para defender os diretos e interesses coletivos ou individuais da categoria que representa, inclusive no processo de execução.
+Publique-se.
+Brasília, 24 de setembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+   - Relator -
