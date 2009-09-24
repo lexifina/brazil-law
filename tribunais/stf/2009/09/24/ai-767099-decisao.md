@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“PROCESSUAL CIVIL E ADMINISTRATIVO. PRELIMINARES DE PRESCRIÇÃO DE FUNDO DE DIREITO E DECADÊNCIA. PRESTAÇÃO DE TRATO SUCESSIVO. SÚMULA 85 DO SUPERIOR TRIBUNAL DE JUSTIÇA E 443 DO SUPREMO TRIBUNAL FEDERAL. NÃO CARACTERIZAÇÃO. PRECEDENTES DESTE TRIBUNAL. MÉRITO. SERVIDOR PÚBLICO DO PODER JUDICIÁRIO. PRETENSÃO DE PAGAMENTO DA GRATIFICAÇÃO DE TÉCNICO DE NÍVEL SUPERIOR, PREVISTA NA LEI 6.373/93 E ALTERAÇÕES POSTERIORES CONTIDAS NAS LEIS 6.485/93, 6.570/94 E 6.719/94. ARGUIÇÃO DE INCOSTITUCIONALIDADE DA LEI 6.373/93 POR VIOLAÇÃO AO INCISO XIV DO ART. 37 DA CF. REJEIÇÃO. REUNIÃO DOS REQUISITOS LEGAIS PELO IMPETRANTE. DIREITO LÍQUIDO E CERTO À PERCEPÇÃO DA VANTAGEM CARACTERIZADO. PRETENSÃO QUE NÃO SE CIRCUNSCREVE À VEDAÇÃO CONTIDA NA LEI DE RESPONSABILIDADE FISCAL. IMPLANTAÇÃO DA GRATIFICAÇÃO APÓS TRÂNSITO EM JULGADO. CONCESSÃO PARCIAL DA SEGURANÇA” (fls. 69-70).
+No RE, interposto com base no art. 102, III, a e c, da Constituição, alegou-se violação aos arts. 37, caput, X, XI, XII, XIV, 167, II e 169, § 1º, I e II, da mesma Carta.
+O agravo não merece acolhida. Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF, conforme se vê do julgamento do AI 733.200-AgR/RN, cuja ementa segue transcrita:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. LEI N. 6.373/93 E LEI COMPLEMENTAR 242/02. OFENSA INDIRETA. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. PRECEDENTES. A controvérsia foi decidida com fundamento na legislação local. Incidência da Súmula n. 280 deste Tribunal. Agravo regimental a que se nega provimento”.
+Além disso, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Por fim, verifico que o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição. Nesse sentido: AI 559.324/RJ; AI 488.107/SP, entre outros.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 24 de setembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
