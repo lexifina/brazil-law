@@ -1,0 +1,9 @@
+DECISÃO: O Tribunal de Justiça do Estado de São Paulo refutou a alegação de inconstitucionalidade da Lei municipal n. 11.722/95, na parte em que determina a incidência retroativa do texto normativo ao primeiro dia do mês em que foi editada. Em decorrência, julgou improcedente o pedido formulado pelos autores e denegou o direito à atualização de seus salários segundo a sistemática prevista nas Leis municipais ns. 10.688/88 e 10.722/89.
+2.  Os servidores interpõem o presente recurso extraordinário. Sustentam a inconstitucionalidade das disposições retroativas da Lei municipal n. 11.722/95. Afirmam ainda que a decisão impugnada afronta o disposto nos artigos 5º, XXXVI, e 37, XV, ambos da Constituição do Brasil.
+3.  Deixo de apreciar a existência da repercussão geral, vez que o artigo 323, § 1º, do RISTF dispõe que "[t]al procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+4.  As alegações dos recorrentes são procedentes. O Pleno deste Tribunal declarou a inconstitucionalidade do artigo 2º e, no artigo 7º, da expressão “retroagindo os efeitos do disposto no artigo 1º, a 1º de fevereiro de 1995”, ambos da Lei municipal n. 11.722/95. Entendeu que esses preceitos violam o direito adquirido e o princípio da irredutibilidade de vencimentos dos servidores públicos [RE n. 258.980, Relator o Ministro Ilmar Galvão, DJ de 6.10.03].
+ Dou provimento ao recurso com fundamento no disposto no artigo 557, § 1º-A, do CPC, para julgar improcedentes os embargos à execução opostos pelo Município de São Paulo. Declaro invertidos os ônus da sucumbência.
+ Publique-se.
+ Brasília, 24 de setembro de 2009.
+Ministro Eros Grau
+- Relator -
