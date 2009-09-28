@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. GUARDA MUNICIPAL. INCORPORAÇÃO DE GRATIFICAÇÃO DE RISCO DE VIDA. IMPOSSIBILIDADE DE INTERPRETAÇÃO DA LEI LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL: DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“APELAÇÃO CÍVEL. SERVIDOR PÚBLICO MUNICIPAL. GUARDA MUNICIPAL. GRATIFICAÇÃO A TÍTULO DE RISCO DE VIDA PREVISTA PARÁGRAFO ÚNICO, DO ART. 8º, DA LEI MUNICIPAL 3.611/2004. DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ARTIGO 15, DA REFERIDA LEI, QUE ESTENDIA O BENEFÍCIO DA GRATIFICAÇÃO POR RISCO DE VIDA AOS INTEGRANTES DA GUARDA MUNICIPAL, PELO TRIBUNAL PLENO DO TJRS. PRETENSÃO DE INCORPORAÇÃO E PAGAMENTO DE DIFERENÇA. IMPOSSIBILIDADE ANTE O JULGAMENTO DA ADIN, NOS TERMOS DO ART. 211, DO REGIMENTO INTERNO DESTE TRIBUNAL. Negaram provimento ao apelo. Unânime” (fl. 204).
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência na espécie da Súmula 280 do Supremo Tribunal Federal (fls. 252-254).
+3. O Agravante alega que o Tribunal a quo teria afrontado os arts. 5º, 37, inc. X, e 39, § 1º, da Constituição da República.
+Argumenta que “ingressou com ação ordinária, postulando a incorporação da gratificação de 140% a título de risco de vida, conforme preceitua a Lei 3.611/2004 em seu artigo 8º, bem como o pagamento das diferenças incidentes nos proventos resultantes da incorporação” (fl. 5).
+Sustenta que “se enquadra na lei 3.611/2004, já que é concursado para o cargo de guarda de trânsito, com todos os requisitos que a lei exige, já que o concurso que prestou também previa o uso de arma de fogo” (fl. 10).
+Apreciada a matéria trazida à espécie, DECIDO.
+4. Em preliminar, é de se ressaltar que, apesar de ter sido a parte recorrente intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso extraordinário.
+5. O Tribunal a quo assentou que “o autor exerce função diversa da instituída pela Lei 3.611/04, visto que ao prestar concurso realizou provas apenas escritas, conforme dispõe o item 3, do edital 01/96 (fl. 18), enquanto que, para a admissão na função de Guarda Municipal, nos termos da lei antes mencionada, necessário, além da realização de prova escrita, avaliação física, intelectual e psicológica, bem como a obtenção de credencial da Guarda Municipal junto ao órgão de segurança pública do Estado do Rio Grande do Sul” (fl. 206)
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria a análise prévia de legislação local aplicável à espécie (Lei municipal n. 3.611/2004). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal.
+Nesse sentido, os seguintes julgados:
+“EMENTA: SERVIDOR PÚBLICO INATIVO. GRATIFICAÇÃO. INCORPORAÇÃO AOS PROVENTOS. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, bem como o conjunto fático-probatório constante dos autos, o que inviabiliza o extraordinário, a teor das Súmulas 279 e 280 do STF. Precedentes. II - Agravo regimental improvido” (AI 733.499-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 13.3.2009).
+E:
+“EMENTA: Agravo regimental em agravo de instrumento. 2. Gratificação de função. Incorporação. Matéria circunscrita à análise de norma infraconstitucional. Ofensa reflexa à CF/88. Precedentes. 3. Agravo regimental a que se nega provimento” (AI 448.176-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 12.11.2004).
+6. Nada há, pois, a prover quanto às alegações do Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de setembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
