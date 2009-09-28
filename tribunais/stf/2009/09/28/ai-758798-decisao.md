@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO ESPECIAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de Instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Superior Tribunal de Justiça:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. CRÉDITOS ESCRITURAIS. CORREÇÃO MONETÁRIA. MATÉRIA CONSTITUCIONAL E DE DIREITO LOCAL. RECURSO INCAPAZ DE INFIRMAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+1. Não viola o art. 535 do CPC, tampouco nega a prestação jurisdicional, o acórdão que adota fundamentação suficiente para decidir de modo integral a controvérsia.
+2. A Primeira Seção desta Corte firmou o entendimento segundo o qual não é cabível discussão, em sede de recurso especial, acerca da possibilidade de incidir correção monetária sobre os créditos escriturais de ICMS, por envolver apreciação de matéria de cunho constitucional e de direito local. Aplica-se, assim, por analogia, a Súmula 280/STF.
+3. Agravo Regimental desprovido” (fl. 168).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que o acórdão recorrido teria se limitado a analisar pressupostos de admissibilidade de recurso especial, razão pela qual, a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 214-215).
+4. A Agravante alega que teriam sido contrariados os arts. 5º, caput, e LV, e 150, inc. II, da Constituição da República, além dos princípios constitucionais da compensação, da não cumulatividade e da estrita legalidade.
+Afirma que o acórdão recorrido seria nulo por não ter o Tribunal de origem analisado todas as questões que lhe foram submetidas.
+Assevera, ainda, que “A não correção dos créditos de ICMS implica aumento da carga tributária, significando maior receita para o fisco. Isto configura enriquecimento ilícito (que só se evita pela correção). Os desembolsos do contribuinte devem ser nos montantes estritamente decorrentes do esquema constitucional, tal como legalmente estabelecido” (fl. 193).
+Apreciada a matéria trazida nos autos, DECIDO.
+5. Em preliminar, é de se destacar que, apesar de ter sido a Agravante intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso.
+6. Razão de direito não assiste à Agravante.
+7. O acórdão recorrido não entrou no mérito da controvérsia, vale dizer, não se manifestou quanto ao cabimento da atualização monetária sobre os créditos escriturais do Imposto sobre Circulação de Mercadorias e Serviços – ICMS, limitando-se a manifestar-se sobre a impossibilidade de discussão dessa questão em recurso especial em razão de sua natureza constitucional.
+A jurisprudência predominante do Supremo Tribunal Federal é no sentido de que a aferição dos pressupostos de admissibilidade de recurso da competência de Tribunal diverso não viabiliza o acesso ao recurso extraordinário, por se ater a espécie ao cuidado de matéria infraconstitucional. Assim, a pretensa afronta à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Confiram-se, a propósito, os seguintes julgados:
+“PROCESSUAL CIVIL. ADMISSIBILIDADE DE RECURSO ESPECIAL. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. RECURSO EXTRAORDINÁRIO EXTEMPORÂNEO. AGRAVO REGIMENTAL DESPROVIDO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 449.425-AgR, de minha relatoria, Primeira Turma, DJ 16.2.2007).
+“RECURSO EXTRAORDINÁRIO - CONTROVÉRSIA SOBRE CABIMENTO DE RECURSO DA COMPETÊNCIA DE CORTE DIVERSA - ADEQUAÇÃO. Quando em questão controvérsia sobre cabimento de recurso da competência de Corte diversa, a via excepcional do recurso extraordinário apenas é aberta se do acórdão prolatado constar premissa contrária à Constituição Federal. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (AI 473.651-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJ 30.9.2005).
+8. Quanto à alegada afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, a jurisprudência deste Supremo Tribunal firmou-se no sentido de que essas, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa reflexa à Constituição da República. Nesse sentido:
+“EMENTA: PROCESSUAL CIVIL. MATÉRIA CONSTITUCIONAL NÃO PREQUESTIONADA. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO” (AI 575.048-AgR, de minha relatoria, DJ 20.4.2007).
+Não há, pois, o que prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de setembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
