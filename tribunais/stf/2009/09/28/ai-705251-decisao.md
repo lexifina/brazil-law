@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário contra acórdão do Tribunal Regional Federal da 2ª Região no sentido de confirmar a sentença para determinar a remoção de servidor com fundamento no artigo 84, § 2º, da Lei n. 8.112/90 e 226, da Constituição Federal.
+2.  O agravo não merece provimento. O Tribunal a quo decidiu a controvérsia à luz de legislação infraconstitucional pertinente --- Lei n. 8.112/90. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário [AI n. 204.153-AgR, Relator o Ministro Sydney Sanches, DJ de 30.6.00, e AI n. 231.836-AgR, Relator o Ministro Néri da Silveira, DJ de 3.9.99].
+3.  O entendimento deste Tribunal é firme no sentido de que “a ofensa à Constituição, que autoriza admissão do recurso extraordinário, é a ofensa direta, frontal, e não a ofensa indireta, reflexa. Se, para demonstrar a contrariedade à Constituição, tem-se, antes, de demonstrar a ofensa à norma infraconstitucional, é esta que conta para a admissibilidade do recurso” [AI n. 204.153–AgR, 1ª Turma, DJ de 30.6.00, e AI n. 231.836–AgR, 2ª Turma, DJ de 3.9.99].
+4.  Por fim, a jurisprudência deste Tribunal fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 541.361-AgR, de que fui relator, 1ª Turma, DJ de 3.2.06, e AI n. 238.917-AgR, Relator o Ministro Celso de Mello, 2ª Turma, DJ de 20.10.00, entre outros julgados].
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 28 de setembro de 2009.
+Ministro Eros Grau
+- Relator -
