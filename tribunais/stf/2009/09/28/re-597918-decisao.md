@@ -1,0 +1,41 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS E COFINS. INCONSTITUCIONALIDADE DAS LEIS NS. 10.637/2002 E 10.833/2003 COM BASE NOS FUNDAMENTOS DA DECLARAÇÃO DE INCONSTITUCIONALIDADE DO § 1º DO ART. 3º DA LEI N. 9.718/98. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTE SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O Tribunal Regional Federal da 4ª Região julgou apelação em mandado de segurança, nos termos seguintes:
+“PIS. COFINS. ALARGAMENTO DA BASE DE CÁLCULO. MAJORAÇÃO DE ALÍQUOTA. LEI Nº 9.718/98. LEIS Nº 10.637/2002 E 10.833/2003. COMPENSAÇÃO. CORREÇÃO MONETÁRIA.
+O Supremo Tribunal Federal entendeu que o § 1º do artigo 3º da Lei nº 9.718, alterando as Leis Complementares ns. 07 e 70, ampliou a base de cálculo do PIS e da COFINS criando nova fonte de custeio da seguridade, o que somente pode ser feito por meio de lei complementar, nos termos do parágrafo 4º do artigo 195 do texto constitucional. O conceito de receita bruta ou faturamento deve ser entendido como o que decorrer da venda de mercadorias, de mercadorias e serviços ou da venda de serviços.
+Não se diga que a edição da emenda constitucional nº 20 convalidou a Lei nº 9.718/98. Isso porque trata-se de lei com vício de origem, ao contrário do que ocorre com as normas anteriores ao novo diploma constitucional que são por ele recepcionadas.
+A inconstitucionalidade do artigo 3º, § 1º, da Lei nº 9.718 não se estende às Leis nº 10.637/2002 e 10.833/2003. É que estas últimas possuem fundamento de validade no artigo 195, I, alínea b, da Constituição com a redação dada pela Emenda Constitucional nº 20/98, já transcrito. Consoante a nova orientação do texto constitucional, é legítima a cobrança do PIS e da COFINS tendo como base de cálculo o total das receitas auferidas pela pessoa jurídica, independentemente de sua denominação ou classificação contábil.
+O STF (RE 357.950) declarou inconstitucional somente o § 1º do art. 3º da Lei nº 9.718/98, permanecendo legítima a majoração da alíquota prevista naquele normativo.
+Considerando que a expressão ‘receita’ introduzida no art. 195, I, alínea b, da CF, pela EC 20/98, não implicou em significativa modificação do texto constitucional, visto que, os conceitos de faturamento e receita bruta são equivalentes, não há impedimento das Medidas Provisórias nº 66/2002 e 135/2003 estabelecerem normas relativas ao PIS e à COFINS, não incidindo a coibição do art. 246 da Constituição.
+Juntamente com a majoração da alíquota de 3% para 7,6%, e de 0,65% para 1,65% para as empresas optantes pela tributação considerado o lucro real, as Leis nº 10.637 e 10.833 instituíram a não-cumulatividade das contribuições e o direito ao aproveitamento de créditos. Estas medidas, sem a conseqüente majoração das alíquotas acarretariam, na prática, a redução da carga tributária desses contribuintes.
+Tanto na fixação da alíquota, em 7,6% e 1,65% (art. 2º), como nos creditamentos admitidos para definição da base de cálculo (art. 3º), as Leis nº 10.833/2003 e 10.637/2002 exerceram sua competência sem ofensa à Constituição Federal. O artigo 195, § 12, da Carta Magna confere à lei a competência para definir os setores de atividade econômica para os quais a COFINS passa a ser não cumulativa. O parágrafo 9º do mesmo artigo, com a redação conferida pela EC nº 20/98, já permitia a diferenciação tanto da alíquota quanto da base de cálculo com base na atividade econômica do contribuinte.
+Após o trânsito em julgado da sentença, cabível a compensação das quantias recolhidas a maior a título de PIS e da COFINS com as próprias contribuições ou outros tributos e contribuições administrados pela Secretaria da Receita Federal.
+Aplicação da SELIC, a partir de 1º.01.1996, substituindo a indexação monetária e os juros” (fls. 212 e 212v).
+3. Os Recorrentes alegam que o Tribunal a quo teria afrontado os arts. 195, inc. I, alínea b, e 246, da Constituição.
+Argumentam que:
+“Ao se ter utilizado do conectivo disjuntor excludente ‘ou’, o texto constitucional – de rigidez inigualável no campo de outorga de competência tributária impositiva – impôs ao legislador das Leis n. 10.637/2002 e 10.833/03 uma única possibilidade, quando fosse eleger a base de cálculo possível para a contribuição em causa: ou uma base de cálculo (no caso, a ‘receita’), ou a outra base de cálculo (no caso, o faturamento’). Jamais as duas ao mesmo tempo (‘receita’ e ‘faturamento’); e jamais qualquer uma delas manipulada, distorcida (‘faturamento’ considerando-se o ‘total das receitas/todas as demais receitas’).
+Deveras, também no texto das Leis n. 10.637/2002 e 10.833/03 (tal como na Lei n. 9.718/1998), a escolha que se fez foi pelo ‘faturamento’.
+(...)
+Tenha-se ainda presente que as Leis n. 10.637/02 e n. 10.833/03 são conversão das MPs 66/2002 e 135/2003, que, ao pretender regular o artigo 195, I, da Constituição da República, violaram o artigo 246 do mesmo texto, motivo pelo qual os enunciados das referidas Leis, atinentes ao PIS/COFINS – dentre os quais se inclui a alíquota – são inconstitucionais.
+Daí, portanto, a manifesta inconstitucionalidade das Leis ns. 10.637/02 e 10.833/03, no que diz respeito à alteração da base de cálculo e, por consequência, da alíquota da contribuição ao PIS/COFINS, por ofensa direta aos artigos 246 e 195, I, ‘b’, da Constituição” (fl. 253).
+Apreciada a matéria trazida na espécie, DECIDO.
+4. Razão jurídica não assiste aos Recorrentes.
+O Desembargado Relator consignou em seu voto condutor que:
+“A inconstitucionalidade do artigo 3º, § 1º, da Lei nº 9.718 não se estende às Leis nº 10.637/2002 e 10.833/2003. É que estas últimas possuem fundamento de validade no artigo 195, I, alínea b, da Constituição com a redação dada pela Emenda Constitucional nº 20/98, já transcrito. Consoante a nova orientação do texto constitucional, é legítima a cobrança do PIS e da COFINS tendo como base de cálculo o total das receitas auferidas pela pessoa jurídica, independentemente de sua denominação ou classificação contábil.
+O STF (RE 357.950) declarou inconstitucional somente o § 1º do art. 3º da Lei nº 9.718/98, permanecendo legítima a majoração da alíquota prevista naquele normativo” (fl. 212).
+É entendimento deste Supremo Tribunal de que às Leis ns. 10.637/02 e 10.833/03 não se aplicam os fundamentos de inconstitucionalidade do § 1º do art. 3º da Lei 9.718/98.
+Nesse sentido:
+“Embargos declaratórios. Efeito Infringente. Conhecimento dos embargos como agravo regimental. 2. COFINS. Lei 9.718/98. RREE 336.134 e 357.950. 3. Aplicação, no tempo, dos efeitos da proclamação de inconstitucionalidade do § 1º do art. 3º da Lei 9.718/98. Leis 10.637/02 e 10.833/03. Identidade de fundamentos. Inexistência. Legislação posterior à EC 20/98. 4. Agravo regimental a que se nega provimento.
+(...)
+Contudo, é óbvio, a partir da simples leitura dos pronunciamentos da Corte em torno da inconstitucionalidade do § 1º do art. 3º da Lei n. 9.718/98, que os fundamentos conducentes a esta interpretação encontram suporte, exclusivamente, na redação do inciso I do art. 195 da Constituição anteriormente ao advento da EC n. 20/98.
+Portanto, sem adentrar em qualquer outra consideração em torno das Leis ns. 10.637/02 e 10.833/03, pode-se seguramente afirmar, pela data de sua edição – já na vigência da EC n. 20/98 – que a elas não se aplicam os mesmos fundamentos de inconstitucionalidade afirmados pela Corte em torno do § 1º do art. 3º da Lei n. 9.718/98” (RE 379.243-ED, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 9.6.2006 – grifei).
+E, ainda:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COFINS. LEI 9.718/98. LEI 10.833/03. 1. Identidade de fundamentos. Inexistência. Legislação posterior à EC 20/98. Precedentes. 2. Agravo regimental a que se nega provimento” (RE 483.213-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 18.5.2007 – grifei).
+O acórdão recorrido está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da parte recorrente.
+5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de setembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
