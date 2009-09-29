@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto em face do acórdão assim ementado:
+“ EXECUÇÃO DE SENTENÇA – condenação do município ao pagamento de diferenças de vencimentos aos autores – falecimento de dois deles – insurgência contra os pagamentos, aos sucessores, relativos aos períodos posteriores ao falecimento – ausência de amparo legal – o pagamento das diferenças implica automaticamente na elevação do valor dos vencimentos dos servidores – esse valor, por outro lado, exerce influência no pagamento da pensão aos dependentes – legalidade do cálculo efetuado – recurso improvido” (fl. 208).
+2.  No RE, a parte recorrente alega ofensa aos arts. 5º, XXXV; e 195, §5º, da Constituição Federal (fls. 213-230).
+3.  Não merece prosperar o presente recurso, dado que o acórdão recorrido decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie (Leis Municipais 1.591/67 e 4.172/94). Assim, eventual ofensa à Constituição Federal seria indireta e reflexa. Nesse sentido cito casos análogos ao presente:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. APOSENTADORIA. LEIS N. 1.591/67 E N. 4.172/94 DO MUNICÍPIO DE SÃO BERNARDO DO CAMPO. PREJUDICIALIDADE DO RE. PRECLUSÃO LÓGICA. DIREITO LOCAL. SÚMULA 280. O provimento dos embargos infringentes torna prejudicado o exame do recurso extraordinário, eis que, no caso, a pretensão contida em um recurso exclui a do outro em face da preclusão lógica. Ademais, o acórdão prolatado pelo tribunal de origem baseou-se estritamente na interpretação de normas de direito local, incidindo, assim, a vedação contida no Enunciado n. 280 da Súmula desta corte. Agravo regimental a que se nega provimento.” (RE 379.215-AgR/ SP, rel. Min. Eros Grau, 2ª Turma, unânime, pub. DJ 13.05.2005)
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA DE SERVIDORES DO MUNICÍPIO DE SÃO BERNARDO DO CAMPO. CASO EM QUE ENTENDIMENTO DIVERSO DO ADOTADO PELO ARESTO IMPUGNADO EXIGIRIA O REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. 1. A ofensa à Carta da República, se existente, ocorreria de forma reflexa ou indireta, o que não enseja a abertura da via extraordinária. Precedentes: REs 323.995, 349.589 e 379.215-AgR. 2. Agravo regimental desprovido” ( RE 375.661-AgR/ SP, rel. Min. Carlos Britto, 1ª Turma, unânime, pub. DJe 25.09.2009).
+4.  Do exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 29 de setembro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
