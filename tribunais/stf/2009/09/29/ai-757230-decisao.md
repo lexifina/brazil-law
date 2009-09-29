@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto em face do acórdão assim ementado:
+“DIREITO PREOCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. RECORRENTE QUE ALEGA QUE TEVE SUA GRATIFICAÇÃO DE ESCOLARIDADE ABRUPTAMENTE RETIRADA. ATO ADMINISTRATIVO QUE OCORREU HÁ NOVE ANOS. PRESCRIÇÃO. ARTIGO 1º DO DECRETO 20910/32. AGRAVO DE INSTRUMENTO CONHECIDO E IMPROVIDO, DECLARANDO A EXTINÇÃO DA AÇÃO EM PRIMEIRO GRAU, COM RESOLUÇÃO DO MÉRITO. DECISÃO UNÂNIME.”  (fl. 214)
+2.  No RE, a parte recorrente alega ofensa aos arts. 37; e 194, parágrafo único e IV, da Constituição Federal   (fls. 264-273).
+3.    Não merece prosperar o presente recurso, dado que o acórdão recorrido decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie (Decreto 20.910/32). Assim, eventual ofensa à Constituição Federal seria indireta ou reflexa, o que elide o processamento do recurso extraordinário. Nesse sentido:
+“PRESCRIÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO . Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 662.747-AgR/RS, rel. Min. Cármen Lúcia, 1ª Turma, pub. DJe 15.05.2009).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PRESCRIÇÃO. DECRETO N. 20.910/32. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. A controvérsia relativa ao reconhecimento da prescrição da pretensão dos agravantes de cobrar diferenças de correção monetária sobre os valores mantidos em contas individualizadas do PIS/PASEP, com fundamento no Decreto n. 20.910/32, é matéria de índole infraconstitucional, circunstância que impede a admissão do recurso extraordinário. Precedentes. Agravo regimental a que se nega provimento” (AI 556.501-AgR/SP, rel. Min. Eros Grau, 2ª Turma, pub. DJ 01.09.2006).
+4.  Ademais, cabe registrar que os dispositivos constitucionais aos quais se alegou violação não foram prequestionados, porque, ainda que a apontada ofensa tivesse surgido no próprio acórdão recorrido, seria necessária a sua provocação por meio de embargos de declaração, para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356). Vejam-se o AI 300.772-AgR, STF, rel. Min. Moreira Alves, 1ª Turma, unânime, DJ de 18.05.01; e o AI 254.903-AgR, STF, rel. Min. Celso de Mello, 2ª Turma, unânime, DJ de 09.03.01.
+5.  Do exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 29 de setembro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
