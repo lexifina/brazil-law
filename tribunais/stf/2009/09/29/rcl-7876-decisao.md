@@ -1,0 +1,15 @@
+DECISÃO: Reclamação, com pedido de medida liminar, proposta por Comercial Automotiva Ltda. contra decisão proferida pelo Juízo da 4ª Vara da Fazenda Pública do Distrito Federal nos autos da Ação Civil Pública n. 2004.01.1.101528-6, na qual o Ministério Público pleiteia a declaração de nulidade do Termo de Acordo de Regime Especial (TARE), relativo a apuração e recolhimento de ICMS, firmado entre a reclamante e o GDF.
+2.  A reclamante alega que a autoridade reclamada, ao ter prolatado sentença de mérito na ação civil pública em 30 de junho de 2008, afrontou a decisão do Plenário do Supremo Tribunal Federal que, em 11 de junho de 2008, no julgamento da Questão de Ordem no RE n. 576.155, determinou o sobrestamento de todas as causas relativas ao TARE, até que esta Corte se pronuncie sobre a legitimidade do Ministério Público para propor ação civil pública em defesa da ordem tributária.
+3.  Informa ter peticionado ao Juízo reclamado, sustentando a nulidade da sentença prolatada nos autos da ação civil pública, em face da decisão do Supremo Tribunal Federal que determinara o sobrestamento da causa. O Juiz negou o pedido, sob o fundamento de que o sobrestamento determinado pelo STF referiria-se tão-somente aos processos em curso nas instâncias recursais.
+4.  Foram opostos embargos de declaração à sentença, os quais foram rejeitados pelo Juízo reclamado. Opostos novos embargos, também esses foram rejeitados.
+5.  A reclamante requer a concessão de medida liminar para determinar a suspensão dos efeitos dos atos processuais praticados na Ação Civil Pública n. 2004.01.1.1001528-6, em data posterior ao do julgamento da Questão de Ordem no RE n. 576.155, ou o sobrestamento do trâmite da ação civil pública. No mérito, requer sejam cassados todos os atos processuais praticados na ação civil pública posteriormente à determinação do Supremo Tribunal Federal de sobrestamento das causas relativas ao TARE, determinando o sobrestamento do feito até julgamento final no RE n. 576.155.
+6.  A autoridade reclamada prestou informações [fls. 571/573], noticiando decisão nos autos da ação civil pública de seguinte teor: “[...] anulo a publicação de fls. 482, que tinha por objetivo intimar as partes da rejeição dos embargos dos embargos e suspendo o curso processual, sendo que aquela decisão só deve ser republicada depois que o STF julgar definitivamente o RE” [fl. 573].
+7.  O Ministério Público Federal manifestou-se pelo não-conhecimento da reclamação.
+8.  É o relatório. Decido.
+9.  A autoridade reclamada informou o sobrestamento da ação civil pública, cujo trâmite é objeto desta reclamação. O pedido de medida liminar está prejudicado.
+10.  Quanto ao mérito, entendo que o exame desta reclamação deve aguardar o desfecho do debate da matéria --- ilegitimidade do Ministério Público para ajuizar ação civil pública em matéria tributária --- que está submetida à apreciação do Plenário deste Tribunal, nos autos do RE n. 576.155, Relator o Ministro RICARDO LEWANDOWSKI.
+ Determino o sobrestamento deste feito até o julgamento do aludido recurso.
+ Publique-se.
+ Brasília, 29 de setembro de 2009.
+Ministro Eros Grau
+- Relator -
