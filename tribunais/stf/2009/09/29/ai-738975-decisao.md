@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. LEGITIMIDADE DE ASSOCIAÇÃO PARA PROPOSITURA DE AÇÃO CIVIL PÚBLICA EM DEFESA DOS CONSUMIDORES. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL: DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“Ilegitimidade ‘ad causam’ – Associação representativa dos consumidores – Ação Civil Pública – Televisão por assinatura – Propositura visando o reconhecimento da ilegalidade na cobrança de taxa de instalação e mensalidade referente a ponto adicional – Legitimidade – Previsão estatutária – Interesse configurado – Direitos individuais homogêneos – Recurso improvido” (fl. 471).
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que “a alegada vulneração ao dispositivo não restou demonstrada, eis que as exigências constitucionais na solução das questões de fato e de direito da lide foram atendidas pelo acórdão ao declinar, no julgado, as premissas nas quais assentada a decisão” (fl. 618).
+3. A Agravante alega que o Tribunal a quo teria contrariado o art. 5º, inc. XXI, da Constituição da República.
+Argumenta que “o v. acórdão recorrido entendeu que a Agravada, mesmo sendo associação civil, tem poderes de representação processual de toda a coletividade consumidora e não apenas em nome de seus associados, de sorte que ela poderia ajuizar ação civil pública cuja sentença produz efeitos para toda a coletividade consumidora e não apenas para seus associados” (fls. 6-7).
+Sustenta que “é verdade que o Código de Defesa do Consumidor e a Lei de Ação Civil Pública permitem a propositura de ação civil pública por associação civil que atue, em juízo, na defesa de seus filiados (hipótese de substituição processual, na medida em que a associação está autorizada a demandar na defesa de direitos que não são seus mas, sim, de seus filiados” (fl. 7).
+Analisada a matéria posta à apreciação, DECIDO.
+4. Em preliminar, é de se ressaltar que, apesar de ter sido a parte recorrente intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso extraordinário.
+5. O Tribunal a quo assentou que “a associação em questão é legitimada para a causa, posto que preenche os requisitos necessários para propositura da ação civil pública, estabelecidos pelo artigo 82, inciso IV do Código de Defesa do Consumidor, uma vez que constituída há mais de um ano, no caso, em 1999, conforme estatuto à fl. 43/52, e há previsão, no artigo 3º, inciso XII do mesmo documento, como um dos objetivos da entidade, a defesa dos direitos dos consumidores” (fl. 472).
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria a análise prévia de legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor e Estatuto da Associação). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Confiram-se, a propósito, os seguintes julgados:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ASSOCIAÇÃO DE DEFESA DO CONSUMIDOR: LEGITIMIDADE ATIVA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 642.194-AgR, de minha relatoria, Primeira Turma, DJe 13.3.2009).
+E:
+“EMENTA: Ação civil pública. Associação de consumidores. Legitimidade. Ausência de prequestionamento (Súmulas 282 e 356). Controvérsia infraconstitucional. Ofensa indireta à CF. Regimental não provido” (AI 452.825-AgR, Rel. Min. Nelson Jobim, Segunda Turma, DJ 6.2.2004).
+6. Nada há, pois, a prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 29 de setembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
