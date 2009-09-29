@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário contra acórdão que entendeu que a contratação irregular de servidor pela Administração Pública não afasta o direito do contratado ao recebimento das verbas trabalhistas referentes às férias integrais e proporcionais, ao 13º salário integral e proporcional, e ao abono do PIS.
+Neste RE, fundado no art. 102, III, a da Constituição, alegou-se ofensa ao art. 37, II, IX e § 2º, da mesma Carta.
+Preliminarmente, verifico que a questão constitucional em debate oferece repercussão geral, porquanto o recurso impugna decisão contrária à jurisprudência dominante do Tribunal (CPC, art. 543-A, § 3º, e RISTF, art. 323, § 1º).
+A pretensão recursal merece acolhida.
+Ambas as Turmas deste Tribunal têm seguido a orientação de que “a nulidade de contrato de trabalho firmado com entidade da Administração Pública sem a prévia realização de concurso público – por afronta do artigo 37, II, da Constituição – não gera efeitos trabalhistas, sendo devido apenas o saldo de salários pelos dias efetivamente trabalhados” (AI 361.878-AgR, Rel. Min. Sepúlveda Pertence, 1ª Turma). No mesmo sentido, transcrevo ementa do AI 753.568-AgR/RS, Rel. Min. Eros Grau, julgado pela 2ª Turma:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRAÇÃO PÚBLICA INDIRETA. SOCIEDADE DE ECONOMIA MISTA. CONCURSO PÚBLICO. INOBSERVÂNCIA. NULIDADE DO CONTRATO DE TRABALHO. EFEITOS. SALDO DE SALÁRIO. 1. Após a Constituição do Brasil de 1988, é nula a contratação para a investidura em cargo ou emprego público sem prévia aprovação em concurso público. Tal contratação não gera efeitos trabalhistas, salvo o pagamento do saldo de salários dos dias efetivamente trabalhados, sob pena de enriquecimento sem causa do Poder Público. Precedentes. 2. A regra constitucional que submete as empresas públicas e sociedades de economia mista ao regime jurídico próprio das empresas privadas --- art. 173, §1º, II da CB/88 --- não elide a aplicação, a esses entes, do preceituado no art. 37, II, da CB/88, que se refere à investidura em cargo ou emprego público. Agravo regimental a que se nega provimento”.
+Com idêntico entendimento, cito ainda as seguintes decisões: AI 677.753-AgR/RS, de minha relatoria; AI 680.939-AgR/RS, Rel. Min. Eros Grau; RE 259.113/PR, Rel. Min. Joaquim Barbosa; AI 761.776/RS e AI 707.534/MG, Rel. Min. Cármen Lúcia; AI 743.712-AgR/RS, Rel. Min. Celso de Mello.
+Isso posto, forte no disposto no art. 557, § 1º-A, do CPC, conheço do recurso extraordinário e dou-lhe provimento. Honorários a serem fixados pelo Juízo da origem, nos termos da legislação processual.
+Publique-se.
+Brasília, 29 de setembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
+1
