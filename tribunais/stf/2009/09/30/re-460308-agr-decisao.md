@@ -1,0 +1,28 @@
+Trata-se de agravo regimental interposto contra decisão que julgou prejudicado o recurso extraordinário.
+O agravante sustenta, em suma, que:
+“a fim de que posteriormente não surjam eventuais discussões acerca i) da subsistência do direito à nomeação do ora Recorrido mesmo após o término do prazo de validade do processo seletivo e dos contratos temporários dele decorrentes ou ii) de eventual conversão da obrigação de fazer imposta ao DF pelo acórdão do TJDFT em perdas e danos, mostra-se salutar a reconsideração da r. decisão agravada e o julgamento do mérito do recurso extraordinário manejado pelo Distrito Federal ” (fl. 227).
+Eis o teor da decisão agravada:
+“Trata-se de recurso extraordinário contra acórdão que entendeu que, na realização de concursos públicos, a Administração deve reservar percentual de vagas destinadas a deficientes físicos, independentemente de a seleção de candidatos ser para cargo, emprego ou função temporária.
+O referido acórdão deu provimento à apelação para que o autor, portador de deficiência, fosse admitido para o desempenho das atribuições do cargo de professor temporário da Secretaria de Estado da Educação do Distrito Federal, em virtude de sua aprovação na seleção para contratação temporária regulada pelo Edital 3/DF, de 15/3/2001.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, caput, e 37, caput e VII, da mesma Carta. Requereu-se a improcedência do pedido de imediata posse do autor no cargo de professor para o qual foi aprovado em processo seletivo simplificado.
+A pretensão recursal não merece acolhida.
+Em 27/6/2008 e 9/9/2008, determinei a intimação do recorrente para que informasse a situação administrativa do recorrido (fl. 194), bem como se ainda vigoravam os contratos decorrentes do processo seletivo em discussão (fl. 202).
+Às fls. 199-200 e 210, foi noticiado que o recorrido não mantém contrato temporário com a Secretaria de Estado da Educação do Distrito Federal e que os contratos referentes ao Edital 3/DF, de 15/3/2001, duraram o prazo improrrogável de um ano e, portanto, já expiraram.
+Verifica-se, assim, que o recurso extraordinário interposto com o propósito de invalidar a posse do ora recorrido no cargo de professor temporário da Secretaria de Estado da Educação do Distrito Federal perdeu o objeto, visto que, consoante informações prestadas pelo recorrente, não há qualquer vínculo entre o Distrito Federal e o autor da presente ação. Dessa forma, o provimento deste recurso extraordinário não surtiria qualquer efeito prático.
+Evidencia-se, desse modo, a perda superveniente de objeto, o que acarreta a prejudicialidade do presente recurso extraordinário.
+Isso posto, julgo prejudicado o recurso (RISTF, art. 21, IX)” (fls. 219-220).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que o recorrente não aduziu novos argumentos capazes de afastar as razões nela expendidas.
+A decisão agravada assentou-se no fundamento de que, consoante informações prestadas pelo recorrente, não haveria qualquer vínculo entre o Distrito Federal e o autor da presente ação. Dessa forma, o provimento deste recurso extraordinário não surtiria qualquer efeito prático. Evidenciada, assim, a perda superveniente de objeto, foi julgada a prejudicialidade do recurso extraordinário.
+Entretanto, observa-se que, na petição de agravo regimental (fls. 223-228), o agravante não atacou os fundamentos da decisão agravada, limitando-se a alegar que
+“o acórdão proferido pelo Tribunal a quo deu provimento à apelação do candidato, tendo-lhe garantido o direito de concorrer às vagas do certame na qualidade de deficiente” e que “mostra-se salutar a reconsideração da r. decisão agravada e o julgamento do mérito do recurso extraordinário”.
+Incumbe ao agravante o dever de impugnar, de forma específica, cada um dos fundamentos da decisão atacada, sob pena de não conhecimento do recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 283 do STF. Nesse sentido, menciono as seguintes decisões, dentre outras: RE 548.094-AgR/DF e RE 561.869-AgR/RJ, Rel. Min. Cezar Peluso; RE 452.272-AgR/SE, Rel. Min. Sepúlveda Pertence; AI 469.221-AgR/SP, Rel. Min. Cármen Lúcia; AI 672.744-AgR/BA, Rel. Min. Ellen Gracie; RE 544.591-AgR/RN e AI 634.686-AgR/RJ, de minha relatoria.
+Ressalte-se, ainda, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 30 de setembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
+1
