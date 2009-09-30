@@ -1,0 +1,18 @@
+DECISÃO : Trata-se de recurso extraordinário interposto de acórdão prolatado pelo Tribunal de Justiça de Minas Gerais que, ao reformar parcialmente a sentença para aplicar o art. 166 do Código Tributário Nacional ao quadro (Súmula STF 546), considerou inconstitucionais as regras de tributação diferenciada para as operações interestaduais, em relação ao Imposto sobre Circulação de Mercadorias – ICM (Convênio ICM 44/1976, Portaria 313/1976, Resolução SF 7/1980 e Portaria 685/1980 – Fls. 10/471-474).
+O estado-recorrente sustenta que o acórdão-recorrido, ao considerar inconstitucional a cobrança do ICM pela alíquota máxima fixada pelo Senado Federal, nas operações em que a mercadoria não era destinada à industrialização ou comercialização, aplicou equivocadamente a orientação firmada na Súmula 569/STF.
+Segundo argumenta, se houvesse o tratamento discriminatório apontado pela empresa-recorrida dispensado pelo art. 1º, III da Resolução 129/Senado (Resolução 07/1980), a inconstitucionalidade do texto normativo deveria levar à aplicação da alíquota maior ou normal, pela eliminação de todo o dispositivo (Fls. 491). Nesse sentido, a aplicação da alíquota reduzida somente seria cabível nas operações interestaduais que destinassem a mercadoria à industrialização ou à comercialização (“operações intermediárias”). Assim, sustenta-se violação do art. 23, § 5º da Constituição de 1967, tal como emendada em 1969.
+O Ministério Público Federal, em parecer elaborado pelo suprocurador-geral da República, Dr. Paulo de Tarso Braz Lucas, opina pelo conhecimento e pelo provimento do recurso extraordinário (Fls. 602-604).
+O recurso extraordinário merece provimento.
+Esta Corte firmou orientação no sentido da inconstitucionalidade da discriminação de alíquotas do imposto de circulação de mercadorias nas operações interestaduais, em razão de o destinatário ser, ou não, contribuinte (Súmula 569/STF).
+Não obstante, esta Corte também decidiu, ainda sob o sistema constitucional tributário baseado na Constituição de 1967 (EC 01/1969), que a declaração de inconstitucionalidade das Resoluções 129/1979, 7/1980 e 364/1983 não permitia a aplicação de alíquota mais favorável.
+Nesse sentido, registro os seguintes precedentes:
+“- A DISCRIMINAÇÃO DE ALIQUOTAS DO ICM, EM RELAÇÃO AS OPERAÇÕES COM CONSUMIDORES FINAIS, PREVISTA PELAS RESOLUÇÕES N. 129-79, N.7-80 E N. 364-83, MESMO DECLARADA INCONSTITUCIONAL (RE 102.553), NÃO AUTORIZA O CONTRIBUINTE A INVOCAR O BENEFICIO DA ALIQUOTA MENOR, PARA FINS DE PAGAMENTO DO TRIBUTO. ALEGAÇÃO IMPRODUTIVA DE OFENSA AO ARTIGO 23, PARAGRAFO 5., DA CONSTITUIÇÃO FEDERAL. DISSIDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO IMPROVIDO.” (AI 113727 AgR, Relator(a):  Min. OCTAVIO GALLOTTI, PRIMEIRA TURMA, julgado em 31/10/1986, DJ 14-11-1986 PP-22159 EMENT VOL-01441-04 PP-00930);
+Confiram-se, ainda, o AI 113.727-AgR (rel. min. OCTAVIO GALLOTTI, PRIMEIRA TURMA, julgado em 31/10/1986, DJ 14-11-1986 PP-22159 EMENT VOL-01441-04 PP-00930), o RE 106.692 (rel. min. Maurício Corrêa, decisão monocrática, DJ de 19.02.1997), o RE 115.734 (rel. min. Néri da Silveira, decisão monocrática, DJ de 17.04.1998), o RE 203.449 (rel. min. Marco Aurélio, decisão monocrática, DJ de 20.05.1997), o RE 187.798 (rel. min. Néri da Silveira, decisão monocrática, DJ de 30.04.1999) e o RE 188.689 (rel. min. Néri da Silveira, decisão monocrática, DJ de 39.09.1997).
+Dessa orientação divergiu o acórdão recorrido.
+Ante o exposto, conheço e dou provimento ao recurso extraordinário, para julgar improcedente o pedido declaratório formulado na ação ordinária.
+Ficam invertidos os ônus da sucumbência.
+Publique-se.
+Brasília, 30 de setembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
