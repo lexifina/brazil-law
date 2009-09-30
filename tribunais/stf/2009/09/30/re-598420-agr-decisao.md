@@ -1,0 +1,28 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao recurso extraordinário.
+A agravante sustenta, em suma, violação aos princípios do acesso à justiça e da ampla defesa.
+Este o teor da decisão agravada:
+“Trata-se de recurso extraordinário contra acórdão que manteve sentença que declarou resolvido contrato de compra e venda de veículo tido por defeituoso. Destaco o seguinte trecho da decisão recorrida:
+“(...) nenhum documento foi apresentado nos autos pela ré, presumindo-se, em conseqüência, a existência dos defeitos apontados pela autora, que tornaram o produto inadequado ao fim a que estava destinado (CDC, artigo 18)” (fl. 45).
+Neste RE, interposto com base no art. 102, III, a, da Constituição, sustentou-se, em suma, que a decisão fundamentou-se tão-somente nas alegações da recorrida, sem considerar a defesa e os documentos juntados aos autos pela recorrente. Alegou-se, ainda, que a recorrente sanou, sem ônus para a recorrida, os problemas ocorridos com o veículo, e que, por isso, estaria protegida pelo art. 18 do Código de Defesa do Consumidor, que permite a substituição do produto por outro da mesma espécie, em perfeitas condições de uso, somente se o vício não houver sido sanado em trinta dias.
+O Tribunal, ao julgar Questão de Ordem no AI 664.567/RS, Rel. Min. Sepúlveda Pertence, decidiu que
+“a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007” (Ata de julgamento publicada em 26/6/2007).
+No mesmo sentido decidiu o Plenário desta Corte, no julgamento do RE 569.476-AgR/SC, Rel. Min. Ellen Gracie.
+No caso, a intimação do acórdão recorrido deu-se em 31/10/2008 (fl. 100-v), data posterior àquela fixada no referido julgamento.
+Ainda que superado esse óbice, a pretensão recursal não prosperaria.
+Verifico que a recorrente, na petição de recurso extraordinário, não indicou o dispositivo constitucional violado, o que caracteriza a deficiência de sua fundamentação, tornando inviável o conhecimento do recurso a teor da Súmula 284 do STF. No mesmo sentido: AI 636.405/DF, de minha relatoria; AI 488.500-AgR/SP e AI 582.519/PE, Rel. Min. Sepúlveda Pertence; AI 541.541/AL, Rel. Min. Gilmar Mendes.
+Além disso, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Por fim, a apreciação do recurso extraordinário, no caso, depende do prévio exame de norma infraconstitucional e do conjunto fático-probatório dos autos. Assim, a afronta à Constituição, se ocorrente, seria indireta, esbarrando o exame do recurso, ainda, no óbice da Súmula 279 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono os seguintes precedentes, entre outros: RE 573.782/SP, AI 625.166/SC, Rel. Min. Cármen Lúcia; AI 725.131/SP e AI 649.581-AgR/SP, Rel. Min. Carlos Britto.
+Isso posto, nego seguimento ao recurso (art. 557, caput, do CPC)” (fls. 119-120).
+Bem examinados os autos, e em que pesem os ponderáveis argumentos em contrário, verifica-se que a decisão recorrida deve subsistir por seus próprios fundamentos.
+Como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, XXXV e LV, da Constituição, pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário.
+Ademais, importa destacar que as razões do presente agravo regimental não atacam os fundamentos, suficientes para a manutenção da decisão agravada, referentes à falta de preliminar de repercussão geral e às Súmulas 279, 282, 284 e 356, desta Corte, o que impede o seu conhecimento, a teor da Súmula 283 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: RE 548.094-AgR/DF, Rel. Min. Cezar Peluso; RE 452.272-AgR/SE, Rel. Min. Sepúlveda Pertence; AI 469.221-AgR/SP, Rel. Min. Cármen Lúcia; AI 634.686-AgR/RJ, de minha relatoria.
+Observe-se, ainda, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 30 de setembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
+1
