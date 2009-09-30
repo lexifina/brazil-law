@@ -1,1 +1,5 @@
 Art. 41-A. Ressalvado o disposto no art. 26 e seus incisos, constitui captação de sufrágio, vedada por esta Lei, o candidato doar, oferecer, prometer, ou entregar, ao eleitor, com o fim de obter-lhe o voto, bem ou vantagem pessoal de qualquer natureza, inclusive emprego ou função pública, desde o registro da candidatura até o dia da eleição, inclusive, sob pena de multa de mil a cinqüenta mil Ufir, e cassação do registro ou do diploma, observado o procedimento previsto no art. 22 da Lei Complementar nº 64, de 18 de maio de 1990.
+§ 1º Para a caracterização da conduta ilícita, é desnecessário o pedido explícito de votos, bastando a evidência do dolo, consistente no especial fim de agir.
+§ 2º As sanções previstas no caput aplicam-se contra quem praticar atos de violência ou grave ameaça a pessoa, com o fim de obter-lhe o voto.
+§ 3º A representação contra as condutas vedadas no caput poderá ser ajuizada até a data da diplomação.
+§ 4º O prazo de recurso contra decisões proferidas com base neste artigo será de 3 (três) dias, a contar da data da publicação do julgamento no Diário Oficial.

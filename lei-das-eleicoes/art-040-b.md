@@ -1,0 +1,2 @@
+Art. 40-B. A representação relativa à propaganda irregular deve ser instruída com prova da autoria ou do prévio conhecimento do beneficiário, caso este não seja por ela responsável.
+Parágrafo único. A responsabilidade do candidato estará demonstrada se este, intimado da existência da propaganda irregular, não providenciar, no prazo de quarenta e oito horas, sua retirada ou regularização e, ainda, se as circunstâncias e as peculiaridades do caso específico revelarem a impossibilidade de o beneficiário não ter tido conhecimento da propaganda.

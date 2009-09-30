@@ -1,0 +1,2 @@
+Art. 96-A. Durante o período eleitoral, as intimações via fac-símile encaminhadas pela Justiça Eleitoral a candidato deverão ser exclusivamente realizadas na linha telefônica por ele previamente cadastrada, por ocasião do preenchimento do requerimento de registro de candidatura.
+Parágrafo único. O prazo de cumprimento da determinação prevista no caput é de quarenta e oito horas, a contar do recebimento do fac-símile.

@@ -1,0 +1,1 @@
+Art. 233-A. Aos eleitores em trânsito no território nacional é igualmente assegurado o direito de voto nas eleições para Presidente e Vice-Presidente da República, em urnas especialmente instaladas nas capitais dos Estados e na forma regulamentada pelo Tribunal Superior Eleitoral.

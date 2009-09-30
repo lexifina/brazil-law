@@ -1,0 +1,1 @@
+Art. 58-A. Os pedidos de direito de resposta e as representações por propaganda eleitoral irregular em rádio, televisão e internet tramitarão preferencialmente em relação aos demais processos em curso na Justiça Eleitoral.
