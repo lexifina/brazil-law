@@ -1,0 +1,24 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao agravo de instrumento.
+O agravante sustentou, em suma, que a decisão agravada deve ser reformada e insistiu, dessa forma, no processamento do recurso extraordinário.
+Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+‘SERVIDOR PÚBLICO. MILITAR. INCAPACIDADE PARA O EXERCÍCIO DA FUNÇÃO. MOLÉSTIA DE ORIGEM NÃO PROFISSIONAL. REFORMA COM PROVENTOS PROPORCIONAIS. LEGALIDADE. INTELIGÊNCIA DO ART. 40, § 1°, INCISO I DA CR/88. – Confirmado por prova pericial realizada em juízo que o policial militar é portador de incapacidade física definitiva para o exercício de atividade militar por doença não catalogada na alínea “b” do inciso I do art. 44 da Lei Delegada n° 37/89, nem decorrente de moléstia profissional ou acidente de serviço, somente, faz jus à reforma com soldos proporcionais ao tempo de serviço. – Se o militar é portador de incapacidade definitiva para o exercício da atividade militar consoante constatado por laudo médico oficial, impõe-se que seja reformado com soldos proporcionais “secundum legis” regente da espécie’ (fl. 43).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, 37, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais (Lei Delegada 37/89). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+Ademais, para dissentir da conclusão a que chegou o acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Além disso, quanto ao art. 5º, XXXV, da Constituição, observe-se que julgamento contrário aos interesses da parte não basta à configuração da negativa de prestação jurisdicional.
+Por fim, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso” (fls. 107-108).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que o recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Ressalta-se, ainda, que a apreciação dos temas constitucionais demanda o exame de normas infraconstitucionais. Nesse sentido: RE 334.201/MG, Rel. Min. Ellen Gracie. Incide também a Súmula 279 do STF, conforme se vê de trecho extraído do acórdão recorrido, abaixo transcrito:
+“Os documentos e laudos acostados aos autos informam que o apelante é incapaz para as funções típicas de policial-militar (laudo de fl. 23), sendo que tal incapacidade não foi motivada por acidente no serviço ou moléstia profissional, tampouco pelas doenças especificadas em lei a autorizar o pagamento de proventos integrais; entretanto, é capaz para os atos da vida civil (laudo medico e pericial de fl. 234), afastando assim a alegação de que a doença de que é acometida possa ser enquadrada no conceito de alienação mental, não obstante seja portador de transtornos psiquiátricos” (fl. 49).
+Observe, ainda, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º do RISTF).
+Publique-se.
+Brasília, 30 de setembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
+1
