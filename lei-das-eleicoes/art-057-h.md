@@ -1,0 +1,1 @@
+Art. 57-H. Sem prejuízo das demais sanções legais cabíveis, será punido, com multa de R$ 5.000,00 (cinco mil reais) a R$ 30.000,00 (trinta mil reais), quem realizar propaganda eleitoral na internet, atribuindo indevidamente sua autoria a terceiro, inclusive a candidato, partido ou coligação.

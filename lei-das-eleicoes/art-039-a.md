@@ -1,0 +1,5 @@
+Art. 39-A. É permitida, no dia das eleições, a manifestação individual e silenciosa da preferência do eleitor por partido político, coligação ou candidato, revelada exclusivamente pelo uso de bandeiras, broches, dísticos e adesivos.
+§ 1º É vedada, no dia do pleito, até o término do horário de votação, a aglomeração de pessoas portando vestuário padronizado, bem como os instrumentos de propaganda referidos no caput, de modo a caracterizar manifestação coletiva, com ou sem utilização de veículos.
+§ 2º No recinto das seções eleitorais e juntas apuradoras, é proibido aos servidores da Justiça Eleitoral, aos mesários e aos escrutinadores o uso de vestuário ou objeto que contenha qualquer propaganda de partido político, de coligação ou de candidato.
+§ 3º Aos fiscais partidários, nos trabalhos de votação, só é permitido que, em seus crachás, constem o nome e a sigla do partido político ou coligação a que sirvam, vedada a padronização do vestuário.
+§ 4º No dia do pleito, serão afixadas cópias deste artigo em lugares visíveis nas partes interna e externa das seções eleitorais.
