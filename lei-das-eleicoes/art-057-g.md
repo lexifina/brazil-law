@@ -1,0 +1,2 @@
+Art. 57-G. As mensagens eletrônicas enviadas por candidato, partido ou coligação, por qualquer meio, deverão dispor de mecanismo que permita seu descadastramento pelo destinatário, obrigado o remetente a providenciá-lo no prazo de quarenta e oito horas.
+Parágrafo único. Mensagens eletrônicas enviadas após o término do prazo previsto no caput sujeitam os responsáveis ao pagamento de multa no valor de R$ 100,00 (cem reais), por mensagem.
