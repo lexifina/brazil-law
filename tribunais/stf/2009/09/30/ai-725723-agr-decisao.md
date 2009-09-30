@@ -1,0 +1,22 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao agravo de instrumento.
+O agravante sustentou, em suma, que a decisão agravada deve ser reformada e insistiu, dessa forma, no processamento do recurso extraordinário.
+Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que acolheu representação de inconstitucionalidade da Lei 4.941/06 a qual isenta determinada categoria de funcionários públicos de quaisquer taxas estaduais relativas à renovação da Carteira Nacional de Habilitação.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 150, II, da mesma Carta.
+O agravo não merece acolhida. Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Lei Estadual 4.941/06), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF.
+Ademais, o acórdão recorrido está em consonância com a jurisprudência da Corte no sentido de que isenção concedida à determinada categoria viola o princípio da igualdade de tratamento aos contribuintes. Nesse sentido, trago à colação a ADI 3.260/RN, Rel. Min. Eros Grau, cuja ementa segue transcrita:
+‘AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 271 DA LEI ORGÂNICA E ESTATUTO DO MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE --- LEI COMPLEMENTAR N. 141/96. ISENÇÃO CONCEDIDA AOS MEMBROS DO MINISTÉRIO PÚBLICO, INCLUSIVE OS INATIVOS, DO PAGAMENTO DE CUSTAS JUDICIAIS, NOTARIAIS, CARTORÁRIAS E QUAISQUER TAXAS OU EMOLUMENTOS. QUEBRA DA IGUALDADE DE TRATAMENTO AOS CONTRIBUINTES. AFRONTA AO DISPOSTO NO ARTIGO 150, INCISO II, DA CONSTITUIÇÃO DO BRASIL. 1. A lei complementar estadual que isenta os membros do Ministério Público do pagamento de custas judiciais, notariais, cartorárias e quaisquer taxas ou emolumentos fere o disposto no artigo 150, inciso II, da Constituição do Brasil. 2. O texto constitucional consagra o princípio da igualdade de tratamento aos contribuintes. Precedentes. 3. Ação direta julgada procedente para declarar a inconstitucionalidade do artigo 271 da Lei Orgânica e Estatuto do Ministério Público do Estado do Rio Grande do Norte --- Lei Complementar n. 141/96’.
+Isso posto, nego seguimento ao recurso” (fls. 77-78).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que a recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Observa-se que na petição de agravo regimental (fls. 82-102) a agravante não atacou todos os fundamentos da decisão agravada. Incumbe à agravante impugnar, de forma específica, cada um deles, sob pena de não conhecimento do recurso (AI 589.978-AgR/DF, Rel. Min. Carmén Lúcia).
+Assim, a inescusável deficiência na elaboração da peça recursal faz incidir, ainda, o teor da Súmula 287 do Supremo Tribunal Federal, uma vez que a agravante não atacou, de forma específica, o argumento de que a isenção concedida à determinada categoria viola o princípio da igualdade de tratamento aos contribuintes, conforme jurisprudência do STF.
+Observe, ainda, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º do RISTF).
+Publique-se.
+Brasília, 30 de setembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
+1
