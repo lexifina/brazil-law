@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. 1) PROCESSUAL CIVIL. RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DOS FUNDAMENTOS DO JULGADO RECORRIDO: INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. 2) CONSTITUCIONAL E TRIBUTÁRIO. MEDIDA PROVISÓRIA N. 399/1993. AUMENTO DE ALÍQUOTA DO IMPOSTO TERRITORIAL RURAL OCORRIDO EM JANEIRO DE 1994. EXIGIBILIDADE DO AUMENTO APENAS EM 1995. JULGADO RECORRIDO EM HARMONIA COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 3ª Região:
+“PROCESSO CIVIL – EMBARGOS À EXECUÇÃO FISCAL - ITR E CONTRIBUIÇÕES SOCIAIS AGREGADAS; EXERCÍCIO DE 1994 – FIXAÇÃO DO REGIME DE ALÍQUOTA POR ADITAMENTO À MP Nº. 399/93, SUCEDIDA PELA LEI 8.847/94, EM 07 DE JANEIRO/94 - INCIDÊNCIA AFASTADA PARA O PRÓPRIO ANO DE 1994, ANTE A ANTERIORIDADE TRIBUTÁRIA – INCONSTITUCIONALIDADE DA COBRANÇA EM TAIS MOLDES – ILEGITIMIDADE (EM EXTENSÃO) DE COBRANÇA DAS CONTRIBUIÇÕES SOCIAIS DO EMPREGADOR E SENAR, ANTE A COINCIDÊNCIA COM A BASE DE CÁLCULO DO ITR - PROCEDÊNCIA AOS EMBARGOS.
+(...)
+2. Propôs a apelante os presentes embargos, insurgindo-se contra a cobrança do ITR, referente ao exercício de 1994 e às contribuições sociais a ele agregadas.
+3. Visando o dogma da anterioridade a proporcionar segurança às relações jurídicas praticadas junto ao meio social, evitando-se
+surpresas aos contribuintes, descumpre tal mensagem constitucional a intenção fazendária em tela, de fazer incidir sistemática de alíquotas, para o ano de 1994, surgida a partir de aditamento, em 7.1.94, a uma Medida Provisória de 1993.
+Traduzindo-se a alíquota no componente aritmético fulcral à relação obrigacional, a ser veiculada por lei (inciso IV do art 97, CTN), a desfrutar de estatura constitucional (§ 1º. do art. 153, CF, “ie”), patente a impossibilidade de se intencionar sua incidência, exacerbando-se a cobrança tributária, no mesmo exercício no qual publicada a norma veiculadora a respeito, o que já não se admitia, segundo o regime constitucional original, nem se concebe a partir da EC 42/03, respectivamente consoante alínea b e c do inciso III do art 150, CF.
+De todo ilegítima a pretensão estatal de imediata cobrança a respeito, acerta a tese contribuinte em se afastar tal exigência, para aquele ano de 1994. Precedentes” (fl. 277).
+3. No recurso extraordinário, a Agravante alega que “não houve violação ao princípio da anterioridade, esculpido no artigo 150, III, b, da Constituição Federal de 1988, pois a Lei n. 8.847/94 foi publicada em exercício tributário antecedente ao lançamento fiscal” (fl. 284).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a harmonia do julgado recorrido com a jurisprudência do Supremo Tribunal Federal (fls. 310-311).
+A Agravante afirma que a decisão agravada teria extrapolado os limites do juízo de admissibilidade do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. O Tribunal a quo expressamente asseverou que houve aumento da alíquota do Imposto Territorial Rural – ITR em janeiro de 1994, razão pela qual esse aumento somente poderia ser cobrado a partir de 1995.
+No entanto, a Agravante não impugnou esse fundamento, apenas alegou que a Lei n. 8.847/94 teria sido publicada no ano anterior ao lançamento do tributo - ocorrido em 1994 –, o que, evidentemente, seria impossível.
+Essa circunstância atrai a incidência da Súmula 284 do Supremo Tribunal Federal e não viabiliza o recurso extraordinário.
+Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DEFICIENTE: RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA VERSADA NO JULGADO RECORRIDO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 740.817-AgR, de minha relatoria, Primeira Turma, DJe 1º.7.2009 – grifos nossos).
+“EMENTA: PROCESSUAL CIVIL. RAZÕES DO RECURSO QUE NÃO ATACAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 284 DO STF. I - As razões do presente recurso não atacam os fundamentos da decisão agravada, o que impede o seu conhecimento, a teor da Súmula 284 do STF. II - Agravo regimental não conhecido” (RE 457.688-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 23.2.2007 – grifos nossos).
+“EMENTA: AGRAVO REGIMENTAL. RAZÕES DE APELO EXTREMO QUE SE ENCONTRAM DISSOCIADAS DO THEMA DECIDENDUM. Caso em que não há como afastar o óbice da Súmula 284 desta Suprema Corte. Necessidade de reexame do conjunto fático-probatório dos autos para chegar a conclusão diversa da adotada pelo Tribunal de origem. Incidência, também, da Súmula 279 desta colenda Corte. Agravo regimental desprovido” (RE 279.242-AgR, Rel. Min. Carlos Britto, Primeira Turma, DJ 29.9.2006 – grifos nossos)
+“EMENTA: 1. RECURSO. Embargos de declaração. Deficiência na fundamentação do recurso. Súmula 284. Embargos rejeitados. Há fundamentação deficiente de recurso, quando não revele correlação entre as suas razões e os fundamentos da decisão recorrida. 2. RECURSO. Embargos de declaração. Caráter meramente protelatório. Litigância de má-fé. Imposição de multa. Aplicação do art. 538, § único, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a oposição de embargos de declaração manifestamente protelatórios, deve o Tribunal condenar o embargante a pagar multa ao embargado” (RE 511.693-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJe 19.12.2008 – grifos nossos).
+7. Ainda que assim não fosse, o julgado recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal:
+“EMENTA: Recurso extraordinário. 2. Tributário. ITR. 3. A nova configuração do ITR disciplinada pela MP 399 somente se aperfeiçoou com sua reedição de 07.01.94, a qual por meio de seu anexo alterou as alíquotas do referido imposto. 4. A exigência do ITR sob esta nova disciplina, antes de 01 de janeiro de 1995, viola o princípio constitucional da anterioridade tributária (Art. 150, III, "b"). 5. Recurso extraordinário a que se nega provimento” (RE 448.558, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 16.12.2005).
+8. Nada há, pois, a prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 1º de outubro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
