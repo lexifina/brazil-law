@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL. PLANO DE PREVIDÊNCIA PRIVADA. MIGRAÇÃO PARA NOVO PLANO. IMPOSSIBILIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido teve como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. MIGRAÇÃO DE PLANO. REG/REPLAN SALDADOS. TERMO DE ADESÃO. NULIDADE DE CLÁUSULAS. SEXTA, SÉTIMA, OITAVA E NONA. PRELIMINARES AFASTADAS.
+1. Afastada preliminar de inépcia da inicial.
+2. A adesão ao novo plano oferecido pela entidade previdenciária acarreta aos associados sua subordinação aos termos da dita transação em seu conjunto e consequentemente ao novo Regulamento do novo plano.
+3. A transação efetuada entre as partes tem o condão de gerenciar benefícios futuros advindos dessa relação contratual, mas não de tolher a parte-autora (associada da entidade previdenciária) de perceber os benefícios já devidos e impagos.
+4. Nulidade das cláusulas sexta e sétima do termo de transação dos associados do REG/REPLAN.
+5. Negado provimento ao apelo” (fl. 596).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula 454 do Supremo Tribunal Federal e a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fl. 720 e v.).
+4. A Agravante alega que o Tribunal a quo teria afrontado os arts. 5º, inc. XXXV, LIV e LV, 195, § 5º, e 202, caput, § 2º, da Constituição da República.
+Afirma que, “In casu, as partes firmaram ‘Termo de Adesão às regras de Saldamento do REG/REPLAN e Novação de Direitos Previdenciários’, pelo qual os recorridos aderiram às novas condições contratuais mais favoráveis. Por tal renunciaram e deram quitação a hipotéticos direitos do plano antigo, absolutamente incompatíveis, do ponto de vista econômico e atuarial, com o novo plano que aderiram” (fl. 704).
+Argumenta que, “se houve transação entre a recorrente e os recorridos, ambos plenamente capazes, sobre objetos lícitos (direitos e obrigações) e juridicamente possíveis, não há como contestar o fato de que a transação ocorrida traduz ato jurídico perfeito, conceito amplamente difundido no direito pátrio como sinônimo de segurança jurídica às partes que nele estão envolvidas, de modo que não poderia o acórdão recorrido desconsiderá-lo, a ponto de suspender seus efeitos, sem observar as regras atinentes à relação jurídica em liça” (fl. 706).
+Sustenta, ainda, que “A decisão recorrida, contrariamente ao estabelecido na Constituição (artigo 202, caput), mesclou dois planos previdenciários em benefício da recorrida, lhe gerando vantagens não previstas aos demais participantes e gerando déficit nas contas do fundo, em prejuízo de todos os demais associados” (fl. 707).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Em preliminar, é de se realçar que, apesar de ter sido a Agravante intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso.
+6. Razão de direito não assiste à Agravante.
+O Tribunal a quo decidiu a controvérsia com base na análise dos contratos celebrados. Para se concluir de forma diversa, seria necessário reexame das cláusulas contratuais, procedimento incabível de ser adotado validamente no recurso extraordinário, conforme dispõe a Súmula 454 do Supremo Tribunal Federal.
+Nesse sentido, os seguintes julgados:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - AUSÊNCIA DE PREQUESTIONAMENTO - PEDIDO DECORRENTE DE CONTRATO DE PREVIDÊNCIA PRIVADA - NECESSIDADE DE ANÁLISE DAS CLÁUSULAS CONTRATUAIS - SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL - PRECEDENTES - AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 574.515-AgR, de minha relatoria, Primeira Turma, DJ 16.3.2007).
+“EMENTA: Recurso extraordinário: descabimento: questão referente à incidência do Código de Defesa do Consumidor aos contratos de seguro, de natureza infraconstitucional, bem como à interpretação de cláusulas contratuais, insusceptíveis de reexame no RE; inocorrência de negativa de prestação jurisdicional ou violação dos princípios constitucionais invocados no extraordinário” (RE 422.595-AgR/SP, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 13.8.2004).
+7. Ademais, a jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa reflexa à Constituição da República. Nesse sentido:
+“2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+8. Nada há, pois, a prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 1º de outubro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
