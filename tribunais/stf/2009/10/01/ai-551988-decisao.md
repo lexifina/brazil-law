@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – ACUMULAÇÃO.
+1.  O acórdão proferido pela Corte de origem não padece de vício de procedimento. Encontra-se devidamente fundamentado, viabilizando o questionamento na via do extraordinário. Houve a entrega da prestação jurisdicional, muito embora de forma contrária aos interesses do Estado. Admitiu-se como possível a acumulação do cargo de técnico em enfermagem no Hospital da Universidade Federal do Rio de Janeiro com a atuação como sargento do Corpo de Bombeiro Militar, no exercício da especialidade de enfermeiro da corporação – defesa civil, ante a compatibilidade de horários. Enfrentou a Corte os argumentos de índole constitucional apresentados pelo Estado e ressaltou que a vedação do § 3º, inciso II, do artigo 142 da Carta Federal desaguaria não na obrigatoriedade de opção, mas na passagem do militar para a reserva, mesmo assim remetendo-se aos termos da lei que não teria sido, até então, editada.
+ Mais do que isso, a Corte teve o preceito como aplicável, exclusivamente, aos militares das Forças Armadas, não se estendendo ao ora agravado, e fez ver que a situação dos médicos propriamente ditos, inclusive das Forças Armadas, veio a ser ressalvada pelo artigo 17, § 2º, do Ato das Disposições Constitucionais Transitórias, sendo que, com a Emenda Constitucional nº 34/2001, a possibilidade de acumulação deixou de ser específica quanto a cargos de médico, alcançando cargos ou empregos privativos de profissionais da saúde. Levando em conta a situação concreta do agravado, não se tem a adoção de entendimento que se possa considerar conflitante com o texto constitucional.
+2.  Conheço deste agravo e o desprovejo.
+3.  Publiquem.
+Brasília, 1º de outubro de 2009, às 20h10.
+Ministro MARCO AURÉLIO
+Relator
