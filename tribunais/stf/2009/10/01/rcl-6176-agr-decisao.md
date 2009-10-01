@@ -1,0 +1,20 @@
+DECISÃO: Agravo regimental em que o agravante demonstra o equívoco da decisão monocrática que julgou prejudicado o pedido formulado na presente reclamação sob o argumento de que o processo n. 2008.10.00.000198-8 fora arquivado. Daí que torno sem efeito a decisão de folha 135 e passo à análise da reclamação.
+2.   Reclamação proposta por Wolfgang Jorge Coelho, com pedido de medida cautelar, contra decisão proferida pelo Conselho Nacional de Justiça nos autos do Procedimento de Controle Administrativo – PCA n. 2008.10.00.000198-8.
+3.  O reclamante nele impugnou itens dos Editais ns. 2 e 3/2007 do Concurso Público para Ingresso e Remoção de Provas e Títulos para Delegação dos Serviços de Tabelionato e de Registros do Estado de Minas Gerais.
+4.  Sustenta que a autoridade reclamada, ao não acolher o pedido especificado como “contagem de tempo de serviço como notário e/ou registrador para fins de titulação”, afrontou o entendimento proferido por esta Corte nos autos da ADI n. 3.522/RS.
+5.  Afirma que “na Ação Direta o controle de constitucionalidade é de natureza abstrata, a um tempo que as decisões, liminares ou de mérito, proferidas na mesma ação impõem sua observância generalizada, nos termos dos arts. 102, § 2º, da CF, e 28, § único, da Lei nº 9.868/99, ou seja, são dotadas de ‘eficácia vinculante transcendente’, na feliz expressão adotada pelo eminente Ministro CEZAR PELUSO na decisão da Reclamação nº 4.692-3, no trecho antes já transcrito” [fl. 6].
+6.  Requer a concessão de medida liminar.
+7.  É o relatório. Decido.
+8.  No julgamento do Processo de Controle Administrativo n. 2008.10.00.000198-8, o Conselho Nacional de Justiça, ao não acolher o pedido do reclamante, justificou sua decisão nos seguintes termos:
+“a) Contagem de tempo de serviço como notário e/ou registrador para fins de titulação.
+Quanto a este pedido, não assiste razão ao requerente. Inobstante o Supremo Tribunal Federal, no julgamento dos Embargos de Declaração na ADIN 3522, fazer a ressalva quanto à contagem do tempo para fins de remoção, o fato é que o inciso I do artigo 17 da Lei Mineira 12.919/98, que previa titulação do ‘tempo de serviço prestado como titular, interino, substituto ou escrevente em serviço notarial ou de registro’, está suspenso por decisão do Supremo Tribunal Federal na ADIN 3580, sem nenhuma reserva, estando, portanto, a matéria, judicializada, não podendo, assim, ser objeto de controle pelo CNJ” [fl. 14].
+9.  A decisão cautelar na ADI n. 3.580/MG foi proferida no sentido de suspender a eficácia dos incisos I e II do art. 17 da Lei n. 12.919/1998, do Estado de Minas Gerais, que versavam sobre a apresentação dos seguintes títulos: “tempo de serviço prestado como titular, interino, substituto ou escrevente em serviço notarial e de registro” e “apresentação de temas em congressos relacionados com os serviços notariais e registrais”. Eis a ementa:
+“EMENTA: Ação Direta de Inconstitucionalidade. Art. 17, I e II, da Lei n° 12.919, de 29 de junho de 1998, do Estado de Minas Gerais. 2. Concurso Público de Ingresso e Remoção nos Serviços Notarias e de Registro. 3. Apresentação dos seguintes títulos: a) ‘tempo de serviço prestado como titular, interino, substituto ou escrevente em serviço notarial e de registro’ (art. 17, I); b) ‘apresentação de temas em congressos relacionados com os serviços notariais e registrais’ (art. 17, II). 4. Violação ao princípio constitucional da isonomia. 5. Precedentes: ADI n° 3.522/RS; ADI 3.443/MA; ADI n° 2.210/AL. 6. Medida cautelar julgada procedente”.
+[ADI n. 3.580/MG, Relator o Ministro Gilmar Mendes, DJ de 10.3.06]
+10.  Tem-se, destarte, que o concurso público regulamentado por edital que não considerou para fins de titulação o tempo de serviço como notário e/ou registrador está de acordo com a decisão cautelar proferida por esta Corte na ADI n. 3.580
+ Nego seguimento à reclamação, nos termos do disposto no artigo 21, § 1º, do RISTF, prejudicados o pedido de medida liminar e o agravo regimental interposto às fls. 137/138.
+Arquivem-se os autos.
+Publique-se.
+Brasília, 1º de outubro de 2009.
+Ministro Eros Grau
+- Relator –
