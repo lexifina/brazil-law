@@ -1,0 +1,30 @@
+DECISÃO (Petições STF ns. 109.540 e 111.044/2009)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA. DESISTÊNCIA DA AÇÃO E RENÚNCIA AO DIREITO SOBRE O QUAL SE FUNDA A AÇÃO. HOMOLOGAÇÃO. EXTINÇÃO DO PROCESSO, COM RESOLUÇÃO DO MÉRITO (ART. 269, INC. V, DO CÓDIGO DE PROCESSO CIVIL).
+1. Em 2 de setembro de 2009, por meio destas petições, Planfact – Planejamento e Consultoria Ltda. e outros, ora Embargantes, requereram a desistência do mandado de segurança e a renúncia ao direito sobre o qual se funda a ação, pelos termos seguintes:
+“A Lei 11.941/09, regulamentada pela Portaria PGFN/RFB 06/09, instituiu novo programa de pagamento e parcelamento de débitos tributários federais, os quais também alcançam a situação de processos judiciais em curso, como o presente.
+Desta forma, para que possa se valer das prerrogativas legais contidas na novel legislação, as Recorrentes desistem, em caráter irrevogável e irretratável, da presente ação mandamental (e, consequentemente, dos recursos interpostos), e renunciam ao direito em que ela se funda, devendo a mesma ser extinta, com resolução de mérito, nos termos do inc. V do art. 269 do Código de Processo Civil c/c os art. 1º, § 2º, da Lei 11.941/2009 e art. 13, § 2ª, da PGFN/RFB 06/09.
+As Recorrentes informam, outrossim, que a sua opção de pagamento dos débitos relacionados ao writ é à vista e, uma vez que eles estão garantidos por depósitos judiciais, a Recorrente requer a sua conversão em pagamento definitivo, limitado ao valor devido com os benefícios legais, e o levantamento do saldo remanescente, tudo nos termos do art. 10, e parágrafo único, da Lei 11.941/09 c/c os arts. 13, § 6º, e 32, parágrafo único, da Portaria PGFN/RFB 06/09. Os procedimentos relacionados a esse item serão levados a efeito perante o Juízo de origem e a instância administrativa” (fls. 418-419 – grifos nossos).
+ 2. As advogadas subscritoras da petição têm poderes especiais para desistir e renunciar (fl. 405).
+Analisada a matéria posta à apreciação, DECIDO.
+3. A desistência da ação de mandado de segurança pode ocorrer, na lição de Hely Lopes Meireles, "a qualquer tempo, independentemente de consentimento do impetrado" (Mandado de segurança. Ação popular. Ação civil pública. Mandado de injunção. Habeas data. Ação direta de inconstitucionalidade. Ação declaratória de constitucionalidade. Arguição de descumprimento de preceito fundamental. O controle incidental de normas no direito brasileiro. 26. ed. atualizada por Arnold Wald e Gilmar Ferreira Mendes, São Paulo: Malheiros, 2003, p. 116), não se aplicando, portanto, o que dispõe o art. 267, § 4º, do Código de Processo Civil ao processo de mandado de segurança.
+Também debatendo o tema, Sérgio Ferraz anota que a desistência da ação de mandado de segurança pode ser livremente exercida pelo impetrante, "sem dependência da vontade da parte contrária ou da do julgador, e até contra elas, podendo ser manifestada a qualquer tempo, mesmo após a sentença favorável" (Mandado de segurança - individual ou coletivo - aspectos polêmicos, 3. ed., São Paulo: Malheiros, 1996, p. 37).
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. DESISTÊNCIA. POSSIBILIDADE A QUALQUER TEMPO. DESNECESSIDADE DE ANUÊNCIA DO IMPETRADO. PRECEDENTES. AGRAVO PROVIDO.
+I - A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido de que o impetrante pode desistir do writ a qualquer momento antes do término do julgamento.
+II - Precedentes: AI-AgR-ED 377.361/DF, Rel. Min. Ellen Gracie; RE-AgR 349.603/SC, Rel. Min. Carlos Britto; RE 394.940/MG, Rel. Min. Celso de Mello.
+III - Agravo regimental provido” (MS 24.584-AgR, Redator para o acórdão o Ministro Ricardo Lewandowski, Tribunal Pleno, DJe 9.8.2007).
+“A jurisprudência do Supremo Tribunal Federal admite a desistência do mandado de segurança, sem anuência da parte contrária, mesmo quando já proferida a decisão de mérito. Embargos conhecidos, mas rejeitados” (RE 167.263-ED-EDv, Redator para o acórdão o Ministro Sepúlveda Pertence, Tribunal Pleno, DJ 10.12.2004).
+E
+“PROCESSO CIVIL. DESISTÊNCIA DA AÇÃO APÓS O JULGAMENTO DO RECURSO E ANTES DE SUA PUBLICAÇÃO. HOMOLOGAÇÃO. MANDADO DE SEGURANÇA: POSSIBILIDADE. FIXAÇÃO DE VERBA HONORÁRIA EM MANDADO DE SEGURANÇA: IMPOSSIBILIDADE. SÚMULA STF 512.
+1. A jurisprudência desta Corte consolidou-se no sentido de que o impetrante pode desistir da ação mandamental em qualquer tempo e grau de jurisdição, mesmo em sede extraordinária e sem anuência da outra parte. Precedentes.
+2. Entendimento que deve ser aplicado mesmo quando a desistência tenha sido apresentada após o julgamento do recurso extraordinário, mas antes de sua publicação. Precedentes.
+3. ‘Não cabe condenação em honorários de advogado na ação de mandado de segurança’: Súmula STF 512.
+4. Agravo regimental da União improvido. Provimento do agravo regimental da FIPECQ” (RE  231.671-AgR-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 28.4.2009).
+E ainda, no mesmo sentido, as seguintes decisões monocráticas: RE 550.258, Rel. Min. Menezes Direito, DJe 4.9.2009; RE 388.084-AgR, Rel. Min. Joaquim Barbosa, DJe 18.8.2009; RE 176.950, Rel. Min. Celso de Mello, DJe 18.12.2008; RE 475.685, Rel. Min. Carlos Britto, DJe 18.9.2009; RE 410.515-AgR-ED, DJe 4.9.2009 e RE 487.468-AgR, DJe 31.8.2009, ambos de minha relatoria.
+4. De se enfatizar, ao final, que a competência do Supremo Tribunal Federal está limitada à análise do tema constitucional suscitado no recurso extraordinário, devendo os demais incidentes processuais ser resolvidos pelas instâncias ordinárias.
+5. Pelo exposto, homologo a desistência do mandado de segurança e a renúncia ao direito sobre o qual se funda a ação, para julgar extinto o processo nos termos do art. 269, inc. V, do Código de Processo Civil.
+Após o trânsito em julgado, remetam-se os autos à origem, para a apreciação dos pedidos relativos à conversão do depósito judicial em pagamento e ao levantamento do valor remanescente.
+Publique-se.
+Brasília, 1º de outubro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
