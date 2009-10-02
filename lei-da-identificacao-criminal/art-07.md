@@ -1,0 +1,1 @@
+Art. 7º No caso de não oferecimento da denúncia, ou sua rejeição, ou absolvição, é facultado ao indiciado ou ao réu, após o arquivamento definitivo do inquérito, ou trânsito em julgado da sentença, requerer a retirada da identificação fotográfica do inquérito ou processo, desde que apresente provas de sua identificação civil.
