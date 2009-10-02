@@ -1,0 +1,2 @@
+Inclui dispositivo na Lei nº 8.078, de 11 de setembro de 1990, para determinar que constem, nos documentos de cobrança de dívida encaminhados ao consumidor, o nome, o endereço e o número de inscrição no Cadastro de Pessoas Físicas - CPF ou no Cadastro Nacional de Pessoa Jurídica - CNPJ do fornecedor do produto ou serviço.
+O VICE - PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
