@@ -1,0 +1,13 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça de São Paulo e assim ementado:
+“Embargos infringentes. Ação de consignação em pagamento. Contrato de seguro-saúde. Exclusão de dependente por cancelamento do contrato pela segurada principal. Inadmissibilidade. Aplicabilidade do Código de Defesa do Consumidor. Inexistência de obrigação acessória e de estipulação em favor de terceiro. Hipótese de obrigação principal que vincula o dependente à empresa prestadora de serviços mediante o pagamento de contra-prestação. Rejeição dos embargos” (fl. 301).
+ Opostos embargos de declaração, foram rejeitados (fl. 278).
+A recorrente alega, com fundamento no art. 102, III, a, violação ao art. 5º, XXXVI, da Constituição Federal.
+Aduz, ainda, que, no caso em comento, não seriam aplicáveis as regras e princípios norteadores do Código de Defesa do Consumidor, já que o contrato foi firmado em 14.9.87, ou seja, anteriormente à promulgação da Lei nº 8.078/90.
+2.  Consistente o recurso.
+ É que, em caso semelhante, esta Corte já assentou entendimento acerca da impossibilidade de aplicação retroativa do Código de Defesa do Consumidor, como se pode ver à seguinte ementa:
+“Compromisso de compra e venda. Rescisão. Alegação de ofensa ao artigo 5º, XXXVI, da Constituição. - Sendo constitucional o principio de que a lei não pode prejudicar o ato jurídico perfeito, ele se aplica também às leis de ordem publica. De outra parte, se a clausula relativa a rescisão com a perda de todas as quantias já pagas constava do contrato celebrado anteriormente ao Código de Defesa do Consumidor, ainda quando a rescisão tenha ocorrido após a entrada em vigor deste, a aplicação dele para se declarar nula a rescisão feita de acordo com aquela clausula fere, sem duvida alguma, o ato jurídico perfeito, porquanto a modificação dos efeitos futuros de ato jurídico perfeito caracteriza a hipótese de retroatividade mínima que também é alcançada pelo disposto no artigo 5º, XXXVI, da Carta Magna. Recurso extraordinário conhecido e provido” (RE nº 205.999, Rel. Min. MOREIRA ALVES, Primeira Turma, DJ de 3.3.2000. Nesse sentido: AI nº 318.778, Rel. Min. SEPÚLVEDA PERTECE, DJ de 16.3.2004).
+3.   Adotando, pois, os fundamentos dos precedentes e valendo-me do art. 557, § 1º -A, do Código de Processo Civil, com a redação dada pela Lei nº 9.756, de 17.12.98, conheço do recurso extraordinário e dou-lhe provimento, para que o Tribunal de Justiça de São Paulo rejulgue o recurso, sem a aplicação do Código de Defesa do Consumidor, invertidos, no ponto, o ônus da sucumbência, ressalvado eventual benefício da justiça gratuita.
+ Publique-se. Int..
+ Brasília, 2 de outubro de 2009.
+Ministro CEZAR PELUSO
+Relator
