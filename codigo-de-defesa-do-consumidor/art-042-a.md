@@ -1,0 +1,1 @@
+Art. 42-A. Em todos os documentos de cobrança de débitos apresentados ao consumidor, deverão constar o nome, o endereço e o número de inscrição no Cadastro de Pessoas Físicas - CPF ou no Cadastro Nacional de Pessoa Jurídica - CNPJ do fornecedor do produto ou serviço correspondente.
