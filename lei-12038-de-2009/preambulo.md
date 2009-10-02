@@ -1,0 +1,2 @@
+Altera o art. 250 da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para determinar o fechamento definitivo de hotel, pensão, motel ou congênere que reiteradamente hospede crianças e adolescentes desacompanhados dos pais ou responsáveis, ou sem autorização.
+O VICE - PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
