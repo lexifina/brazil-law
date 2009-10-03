@@ -1,0 +1,20 @@
+DECISÃO
+UNIVERSIDADE – SISTEMA DE COTAS – RECURSO EXTRAORDINÁRIO ADMITIDO – INTERRUPÇÃO DO CURSO – EFEITO SUSPENSIVO ATIVO IMPLEMENTADO.
+1.  A Assessoria prestou as seguintes informações:
+A autora pretende obter, incidentalmente, medida acauteladora para emprestar efeito suspensivo a recurso extraordinário (folha 10 a 22), admitido na origem (folha 24), no qual se discute a competência das universidades públicas para disciplinar o tema relativo a vagas destinadas a estudantes sob o regime de cotas raciais.
+Na origem, a autora, via mandado de segurança, apontou a ofensa ao princípio da igualdade e da reserva de lei federal para disciplinar a matéria, considerada a discriminação criada. Aprovada no 86º lugar para o total de 90 vagas para o curso de odontologia, foi desclassificada por conta do regime de cotas raciais. A liminar deferida pelo Juízo, viabilizando a matrícula e o início dos estudos, acabou revogada. O Tribunal Regional Federal da 4ª Região confirmou a sentença de mérito, no sentido da improcedência.
+A autora articula com a nulidade do acórdão recorrido, por negativa de vigência aos artigos 5º, cabeça, e 21, inciso XXIV, da Carta Federal. É que o Regional reconheceu a legalidade e a constitucionalidade da Resolução do Conselho Universitário, disciplinadora do sistema seletivo - presente a autonomia universitária -, por meio da qual se modificaram os critérios de oferta de vagas, mediante reserva, para garantir igualdade material de condições entre os candidatos.
+Sob o ângulo do risco, afirma que, nada obstante a pendência do julgamento do extraordinário, a Universidade Federal de Santa Catarina adiantou-se, sem razoabilidade, afastando-a do quadro discente (folha 35), após um ano e meio de participação no curso superior (folha 30 a 33). Sublinha a plausibilidade do direito ante o reconhecimento da repercussão geral da matéria no Recurso Extraordinário nº 597.285/RS, a qual será discutida em audiência pública designada para o período de 3 a 5 de março de 2010. Requer a concessão de medida acauteladora para, emprestando efeito suspensivo ao extraordinário, determinar, até a decisão final do recurso, a manutenção da matrícula na Faculdade de Odontologia.
+Acompanham a inicial os documentos de folha 9 a 36. Não há cópias da petição inicial do mandado de segurança, da sentença formalizada pelo Juízo e da peça reveladora da apelação.
+Admitido na origem, sem efeito suspensivo, o extraordinário aguarda remessa ao Supremo.
+O processo encontra-se concluso para o exame do pedido de medida acauteladora.
+2.  Inicialmente, corrijam a autuação. Está-se diante de ação cautelar objetivando imprimir efeito suspensivo ativo a recurso extraordinário. Há de adotar-se, para designar as partes, os vocábulos tradicionais – autor e réu – e não requerente e requerido.
+ No mais, o recurso extraordinário foi admitido na origem. Surge a necessidade de preservar-se a permanência da autora no curso, presente a liminar obtida no mandado de segurança impetrado. O Supremo está para apreciar a matéria e, enquanto não proclama o alcance da Carta da República, tudo recomenda sejam repelidas situações que possam resultar em prejuízo maior para o jurisdicionado. É o que ocorre neste caso em que, repito, a autora vem estudando odontologia há um ano e meio.
+3.  Imprimo a eficácia suspensiva ativa pretendida, afastando, até o julgamento final do extraordinário, a possibilidade de haver a interrupção do curso de odontologia.
+4.  Citem a Universidade Federal de Santa Catarina.
+5.  Vindo ao processo a manifestação, colham o parecer da Procuradoria Geral da República.
+6.  Remetam cópia desta decisão ao Tribunal Regional Federal da 4ª Região para a juntada ao processo em que interposto o extraordinário e que, na origem, recebeu o número 2008.72.00.000437-0/SC, tendo como recorrente Danielle Flor da Costa e como recorrida a Universidade Federal de Santa Catarina – UFSC.
+7.  Publiquem.
+Brasília – residência –, 3 de outubro de 2009, às 17h30.
+Ministro MARCO AURÉLIO
+Relator
