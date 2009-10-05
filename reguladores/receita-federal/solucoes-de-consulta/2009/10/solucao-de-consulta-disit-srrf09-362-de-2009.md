@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF09 nº 362, de 16 de setembro de 2009
+Assunto: Regimes Aduaneiros ENTREPOSTO ADUANEIRO. COBERTURA CAMBIAL. IMPORTAÇÃO POR CONTA E ORDEM. Como o art. 407 do RA/09 não é auto-aplicável (cf. art. 418 do RA/09), a admissão no regime de entreposto aduaneiro de mercadoria importada com cobertura cambial só é permitida nas hipóteses regulamentadas pela RFB. O regime de entreposto aduaneiro é incompatível com a importação por conta e ordem de terceiros. Dispositivos Legais: RA/09, arts. 407 e 418; IN SRF nº 225, de 2002; IN SRF nº 241, de 2002.
+[arquivo anexo: SC SRRF09-Disit nº 362-2009.pdf]
