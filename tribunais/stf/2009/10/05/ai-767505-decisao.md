@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO DO PODER EXECUTIVO. REQUISIÇÃO POR ÓRGÃO DO PODER JUDICIÁRIO. INCORPORAÇÃO DE QUINTOS. FUNÇÃO COMISSIONADA EFETIVAMENTE EXERCIDA. LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1.  Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Superior Tribunal de Justiça:
+“RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL DO PODER EXECUTIVO. FUNÇÃO COMISSIONADA EXERCIDA NO PODER JUDICIÁRIO. VPNI. CORRELAÇÃO COM OS VALORES PAGOS PELO PODER CEDENTE. RECURSO ESPECIAL PROVIDO.
+1. Consoante jurisprudência assentada nas Turmas que integram a Terceira Seção do Superior Tribunal de Justiça, os quintos incorporados quando do exercício de função comissionada junto ao Poder Judiciário devem ser reajustados nos valores determinados pela Lei nº 9.421/96 e, após, sujeitos, exclusivamente, à atualização geral da remuneração dos servidores públicos federais.
+2. O pagamento da Vantagem Pessoal Nominalmente Identificada (VPNI) decorrente de incorporação de quintos, deve ser feito com base nos valores das funções efetivamente exercidas, vedada a sua redução com base na correlação de cargos.
+3. Recurso especial conhecido e provido, para reformar o acórdão recorrido, invertendo-se o ônus da sucumbência” (fl. 199).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fl. 282).
+4. A Agravante alega que teriam sido contrariados os arts. 2º, 5º, inc. XXXVI, 37, caput e inc. XV, 61, § 1º, inc. II, alínea a, 97, 167, inc. II, e 169, § 1º, inc. I e II, da Constituição da República.
+Sustenta que “ao Judiciário não é dado atender pleito de extensão ou concessão de vantagem e consequente aumento de remuneração, com base em alegações de ferimento a direito adquirido, ou redutibilidade de vencimento, pois não pode atuar como legislador positivo” (fl. 14).
+Argumenta, ainda, que, “ao conceder a manutenção da vantagem com base na função exercida no Poder Judiciário, com valores sabidamente maiores daqueles pagos pelo Poder Executivo, a decisão atacada suscitará um comprometimento do erário com despesas não previstas no orçamento” (fl. 15).
+Assevera também que, “sem que o eg. Superior Tribunal de Justiça aponte o precedente em que a já revogada Lei n. 8.911/94 tenha sido regularmente julgada inconstitucional, o afastamento da incidência da regra da lei ao caso em exame vulnera, data venia, o principio da reserva de plenário inscrito no art. 97 da CF” (fl. 15).
+Examinada a matéria posta à apreciação, DECIDO.
+5. Em preliminar, é de se destacar que, apesar de ter sido a Agravante intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal - com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso.
+6. Razão jurídica não assiste à Agravante.
+7. Como assentado na decisão agravada, o Superior Tribunal de Justiça decidiu a controvérsia sobre a incorporação de quintos de função comissionada com base na legislação infraconstitucional aplicável à espécie (Leis ns. 9.421/96 e 9.527/97). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido:
+“Magistrado. Quintos. Incorporação. Exercício de funções comissionadas. Questão infraconstitucional. Ofensa constitucional indireta. Agravo regimental não provido. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI 467.957-AgR, Rel. Min. Cezar Peluso, Primeira Turma, DJ 20.4.2006 – grifos nossos).
+“Servidor público. Cargo em comissão. Controvérsia que demanda exame de normas infraconstitucionais. Ofensa indireta à CF. Regimental não provido” (AI 410.684-AgR, Rel. Min. Nelson Jobim, Segunda Turma, DJ 30.9.2003).
+8. Ademais, não há falar, na espécie, em ofensa ao art. 97 da Constituição nem em incidência da Súmula Vinculante n. 10 do Supremo Tribunal, pois o Superior Tribunal de Justiça não declarou inconstitucional ou afastou, por julgar inconstitucional, a Lei n. 8.911/94, apenas interpretou essa norma utilizando-se dos dispositivos correspondentes à matéria em debate.
+Nesse sentido:
+“ PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. TRIBUTÁRIO. TRIBUTO DECLARADO INCONSTITUCIONAL PELO STF. COMPENSAÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA AO ART. 97 DA CF. INOCORRÊNCIA. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. II - Não houve declaração de inconstitucionalidade de diploma legislativo por parte de órgão fracionário . III - Embargos de declaração convertidos em agravo regimental, a que se nega provimento” (AI 654.893-ED, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 26.9.2008 - grifos nossos ).
+E:
+“1. O Tribunal a quo (...) limitou-se a interpretar normas infraconstitucionais (...). Não há, assim, que se falar em declaração de inconstitucionalidade, tampouco, em ofensa ao art. 97 da CF/88 . 2. Agravo regimental improvido” (RE 369.256-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJ 19.9.2003 – grif os nossos ).
+9. Nada há, pois, a prover quanto às alegações da Agravante.
+10. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 5 de outubro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
