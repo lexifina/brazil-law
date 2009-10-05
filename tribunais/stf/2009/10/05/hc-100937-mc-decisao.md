@@ -1,0 +1,27 @@
+DECISÃO : Trata-se de habeas corpus, com pedido de medida liminar, impetrado em favor de ZULMA RODRIGUES RILLO contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça no Agravo Regimental no Recurso Especial nº 989.175-RS, que foi assim ementado:
+“AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. ESTELIONATO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE.
+1. Inexistindo qualquer fundamento apto a afastar as razões consideradas no julgado ora agravado, deve ser a decisão mantida por seus próprios fundamentos.
+2. A aplicação do Princípio da Insignificância só ocorre nos casos em que houver mínima ofensividade do agente no cometimento do delito, nenhuma periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada, o que não ocorreu na presente hipótese.
+3. Agravo regimental desprovido.”
+Informam os autos que o Juízo de Direito da 2ª Vara Criminal da Comarca de Uruguaiana/RS julgou procedente a denúncia em desfavor da paciente, condenado-a ao cumprimento da pena de 02 anos de reclusão, em regime aberto, e ao pagamento de 10 dias-multa, como incursa no art. 171, caput, do Código Penal, substituindo a pena privativa de liberdade por restritivas de direito.
+A denúncia descreveu a conduta da paciente da seguinte forma:
+“Nos dias 30 de julho de 2001, e 03, 04, 12, 14 e 17 de setembro de 2001, em diversos horários, no interior da Farmácia Panvel, localizada na Rua Domingos de Almeida, em Uruguaiana, a denunciada, mediante artifício e ardil, obteve, para si, vantagem ilícita no montante de R$ 125,97, em prejuízo de Jeferson Elton Soares e Paulo César Freitas de Medeiros” (fl. 02 do apenso).
+Inconformada com a sentença condenatória, a defesa interpôs recurso de apelação, ao qual foi dado provimento para, reconhecendo a hipótese de aplicação do princípio da insignificância, absolver a então apelante com base no artigo 386, III, do Código de Processo Penal.
+Em seguida, o Ministério Público do Estado do Rio Grande do Sul interpôs recurso especial ao STJ, ao qual foi dado provimento para, cassando o acórdão recorrido, restabelecer a sentença condenatória.
+Sobreveio, então, o presente habeas corpus, no qual se pede, liminarmente, a “suspensão da ação penal em curso ou sustar a eficácia da sentença penal condenatória nela proferida” até o julgamento final do presente writ. No mérito, requer a “anulação de todo processo criminal em que a paciente fora denunciada e condenada, por força da aplicação do princípio da insignificância, ou, assim não entendendo, pela diminuição da pena em face da configuração do estelionato privilegiado, com a conseqüente prescrição da pena aplicada” (fl. 06).
+É o relatório.
+Decido.
+Tenho por presentes os requisitos autorizadores da tutela de urgência.
+Com efeito, o perigo da demora decorre do fato de o paciente estar na iminência de cumprir pena, em decorrência do acórdão proferido no recurso especial que cassou o acórdão recorrido e restabeleceu a sentença condenatória.
+A fumaça do bom direito, por sua vez, deriva da plausibilidade da tese da impetrante, que se acha em harmonia com precedentes desta Corte.
+No que concerne à causa de pedir referente à incidência do princípio da insignificância, ressalto que a aplicação de tal postulado há de ser criteriosa, casuística, mediante análise individualiza e atenta a todas as circunstâncias que envolveram o fato delituoso (HC nº 70.747, rel. Min. Francisco Rezec, DJ de 7.6.96).
+No ponto, também é importante ressaltar que o entendimento dessa Corte é no sentido de que o princípio da insignificância possui como vetores a mínima ofensividade da conduta do agente, a ausência de periculosidade social da ação, o reduzidíssimo grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada (HC nº 84.412, rel. Min. Celso de Mello, Dj nº 222, de 19.11.2004).
+No julgamento do HC 92.946/RS (rel. min. Cezar Peluso, DJe 15.05.2009) a 2ª Turma desta Corte, por unanimidade, concedeu a ordem para cassar acórdão proferido pelo STJ e restabelecer decisão absolutória do Tribunal de Justiça do Rio Grande do Sul, ante o reconhecimento da atipicidade da conduta, considerando que “as circunstâncias que envolviam o delito atribuído ao paciente – prejuízo avaliado em R$ 80,00 (oitenta reais), e o pouco valor social e jurídico da conduta, reconhecido por todos os graus de jurisdição – autorizam aplicação do princípio da insignificância” no delito de estelionato. Eis a ementa do citado habeas corpus:
+“AÇÃO PENAL. Justa causa. Inexistência. Delito de estelionato. Aquisição de mercadoria. Lesão patrimonial de valor insignificante. Crime de bagatela. Aplicação do princípio da insignificância. Atipicidade reconhecida. Absolvição do réu. HC concedido para esse fim. Precedentes. Verificada a objetiva insignificância jurídica do ato tido por delituoso, é de ser extinto o processo da ação penal, ou absolvido o réu, por atipicidade do comportamento e conseqüente inexistência de justa causa.” (grifei)
+A similitude fática entre a hipótese sob exame e o julgado acima abre espaço para o reconhecimento da atipicidade material da conduta do paciente.
+Daí por que defiro o pedido de liminar, a fim de suspender os efeitos do acórdão hostilizado, até o julgamento final do presente habeas corpus.
+Considerando que o feito está suficientemente instruído, dispenso a requisição de informações.
+Dê-se vista à Procuradoria-Geral da República.
+Brasília, 05 de outubro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
