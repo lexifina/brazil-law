@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário contra acórdão que, nos termos da Súmula 343 do STF, entendeu ser inadmissível ação rescisória proposta com fundamento no art. 485, V, do CPC.
+Eis a ementa do acórdão recorrido:
+'CIVIL E PROCESSUAL CIVIL ' AÇÃO RESCISÓRIA ' PETIÇÃO INICIAL APTA ' SUPOSTA VIOLAÇÃO A LITERAL PRECEITO DE LEI ' PEDIDO IMPROCEDENTE, UNÂNIME.
+A inicial, nos precisos da lei, não é inepta e por isso haverá de transpor e alcançar o objetivo litigioso. A questão controvertida, ao tempo do seu exame, desde que debatida, faz incabível o pleito rescisório, por não configurar, na espécie, violação a literal preceito de lei. Nesta hipótese, a improcedência é de rigor' (fl. 241).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 5º, II e XXXVI, da mesma Carta, sob o fundamento da inaplicabilidade da súmula 343 do STF em matéria constitucional.
+A pretensão recursal merece acolhida. Esta Corte consolidou o entendimento no sentido de ser inaplicável, em matéria constitucional, a Súmula 343 do STF, conforme se observa do RE 328.812-ED/AM, Rel. Min. Gilmar Mendes, que porta a seguinte ementa:
+'Embargos de Declaração em Recurso Extraordinário. 2. Julgamento remetido ao Plenário pela Segunda Turma. Conhecimento. 3. É possível ao Plenário apreciar embargos de declaração opostos contra acórdão prolatado por órgão fracionário, quando o processo foi remetido pela Turma originalmente competente. Maioria. 4. Ação Rescisória. Matéria constitucional. Inaplicabilidade da Súmula 343/STF. 5. A manutenção de decisões das instâncias ordinárias divergentes da interpretação adotada pelo STF revela-se afrontosa à força normativa da Constituição e ao princípio da máxima efetividade da norma constitucional. 6. Cabe ação rescisória por ofensa à literal disposição constitucional, ainda que a decisão rescindenda tenha se baseado em interpretação controvertida ou seja anterior à orientação fixada pelo Supremo Tribunal Federal' (grifei).
+Quanto ao tema de fundo, este Tribunal firmou sua jurisprudência no sentido de que não há direito adquirido às diferenças salariais decorrentes do Plano Bresser, conforme se observa do julgamento do AI 535.374-AgR/RJ, Rel. Carlos Velloso, assim ementado:
+'CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. TRABALHISTA. REAJUSTE. PLANO BRESSER. AÇÃO RESCISÓRIA. CABIMENTO. OFENSA À CONSTITUIÇÃO. I. - Inexistência de direito adquirido às diferenças salariais decorrentes do Plano Bresser. Precedente. (...) III. - Agravo não provido' (grifei).
+Isso posto, conheço do recurso extraordinário e dou-lhe provimento, para julgar procedente a ação rescisória (CPC, art. 557, § 1º-A). Honorários a serem fixados pelo Juízo de Execução, nos termos da legislação processual.
+Publique-se.
+Brasília, 5 de outubro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
