@@ -1,0 +1,16 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto por ofensa ao art. 37, § 6º, da Constituição Federal. O acórdão recorrido afastou a responsabilidade civil da Administração pelo acidente em serviço por ausência de nexo causal, nos seguintes termos (fls. 11-19):
+“ APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL MILITAR. REFORMA EM FACE DE DOENÇA INCAPACITANTE PARA O EXERCÍCIO DAS FUNÇÕES. DANO MORAL. INOCORRÊNCIA.
+- Autor inativado em face de incapacidade para o exercício das funções na Brigada Militar. Não constatada invalidez para toda e qualquer atividade da vida civil não fazendo jus à promoção a que se refere o § único do art. 118 da Lei nº 10.990/97. Precedente desta Corte.
+- Para que esteja configurada a responsabilidade civil do Estado nos termos do art. 37, § 6º, da Constituição Federal é necessária a prova do fato gerador do dano e do nexo de causalidade entre a ação ou omissão administrativa, não se perquirindo acerca da existência de culpa, face à adoção da teoria do risco administrativo.
+- Na espécie não restou apurada ação ou omissão estatal capaz de causar dano ao autor, mormente porque quando do atendimento da ocorrência que lhe causou as lesões estava portando os equipamentos de segurança necessários, afastada portanto a responsabilidade civil do Estado.”
+O Tribunal de origem concluiu que a questão é infraconstitucional e depende do reexame do conjunto fático-probatório dos autos (fls. 36-37).
+2.  O agravante sustenta violação ao art. 37, § 6º, da Constituição Federal. Afirma, em síntese, que estava a serviço do Estado quando sofreu o acidente que causou o seu afastamento das funções, o que evidencia a existência do nexo causal, a ensejar a responsabilidade objetiva da agravada.
+3.  Esta Corte reiteradamente tem assentado que os elementos que fazem incidir a responsabilidade objetiva do Estado são: a) existência do dano; b) existência de ação ou omissão administrativa; c) ocorrência do nexo de causalidade entre a ação ou omissão administrativa e o dano observado (RE 130.764/PR, 1ª Turma, rel. Min. Moreira Alves, unânime, DJ 07.08.1992; RE 109.615, 1ª Turma, rel. Min. Celso de Mello, unânime, DJ 02.08.1996; e RE 178.806, 2ª Turma, rel. Min. Carlos Velloso, unânime, DJ 30.06.1995).
+4.  O agravo de instrumento não merece prosperar, pois, verifica-se que o Tribunal de origem, fundado legislação infraconstitucional (Lei 10.990/97) e nas provas contidas nos autos, as quais não se reexaminam em sede de recurso extraordinário, concluiu pela inexistência de nexo causal entre o acidente no qual se envolveu o autor e qualquer ação ou omissão estatal a ensejar o direito de reparação por parte da Administração.
+Ademais, rever a decisão da instância de origem, para concluir de modo diverso, implicaria o reexame de fatos e de provas, o que é vedado em via extraordinária (Súmula STF 279). Veja-se: RE 558.036-AgR/RJ, rel. Min. Eros Grau, 2ª Turma, DJ 09.05.2008; AI 645.864-ED/RJ, rel. Min. Gilmar Mendes, 2ª Turma, DJ 18.04.2008; e AI 655.792-ED/RJ, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 08.02.2008.
+5.  Ante o exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 05 de outubro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
