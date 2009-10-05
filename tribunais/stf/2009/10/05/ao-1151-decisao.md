@@ -1,0 +1,27 @@
+DECISÃO
+ABONO – LEI Nº 10.474/2002 – CORREÇÃO MONETÁRIA – DECISÃO ADMINISTRATIVA – REVOGAÇÃO – AÇÃO CÍVEL ORIGINÁRIA – PERDA DE OBJETO – EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO.
+1.  Adoto como relatório o que tive a oportunidade de consignar na decisão que implicou o deferimento da liminar pleiteada (folha 57):
+COMPETÊNCIA – ARTIGO 102, INCISO I, ALÍNEA “N”, DA CONSTITUIÇÃO FEDERAL – LIMINAR DEFERIDA.
+1. A articulação da inicial é relevante, notando-se o risco, a persistir o quadro, caso não deferida a tutela antecipada.
+Está em jogo a correção monetária do que percebido, a título de abono, pelos magistrados vinculados ao Tribunal Regional do Trabalho da 12ª Região.
+O interesse, considerado o diploma regedor do abono – Lei nº 10.474/2002 -, é peculiar. Sob o ângulo da relevância, cumpre destacar o teor do § 3º do artigo 2º da referida lei, ao balizar a forma de satisfação do abono:
+Art. 2º O valor do abono variável concedido pelo art. 6º da Lei nº 9.655, de 2 de junho de 1998, com efeitos financeiros a partir da data nele mencionada, passa a corresponder à diferença entre a remuneração mensal percebida por Magistrado, vigente à data daquela Lei, e a decorrente desta Lei.
+§ 1º Serão abatidos do valor da diferença referida neste artigo todos e quaisquer reajustes remuneratórios percebidos ou incorporados pelos Magistrados da União, a qualquer título, por decisão administrativa ou judicial, após a publicação da Lei nº 9.655, de 2 de junho de 1998.
+§ 2º Os efeitos financeiros decorrentes deste artigo serão satisfeitos em 24 (vinte e quatro) parcelas mensais e sucessivas, a partir do mês de janeiro de 2003.
+§ 3º O valor do abono variável da Lei nº 9.655, de 2 de junho de 1998, é inteiramente satisfeito na forma fixada neste artigo.
+2. Defiro a tutela antecipada para afastar, até o julgamento final desta ação, a eficácia da decisão proferida pelo Tribunal Regional do Trabalho da 12ª Região – Santa Catarina – no Processo PA–MAD-00016-2005-000-12-00-0.
+3. Dê-se ciência desta decisão àquela Corte.
+4. Citem-se o acionado e os autores do requerimento que deu origem à decisão, inserindo-os na autuação como partes passivas.
+5. Publique-se.
+ A Associação dos Magistrados do Trabalho da 12ª Região – AMATRA 12, atuando como representante dos interessados, argúi, à folha 123 à 129, preliminar de incompetência do Supremo para conhecer do pedido formulado na inicial, tendo em conta a matéria envolvida – incidência de correção monetária sobre o abono variável - não ser de interesse peculiar dos membros da magistratura a atrair a regência do artigo 102, inciso I, alínea “n”, da Constituição da República.
+ No mérito, sustenta que o ato impugnado não afronta o disposto na alínea “b” do inciso II do artigo 96 da Carta Federal e na Lei nº 10.474/2002, visto que não se trata de fixação de subsídios, mas de pagamentos de correções monetárias decorrentes de verbas remuneratórias já reconhecidas, o que prescinde de lei, conforme consta do Parecer Normativo nº GQ 111, aprovado pelo Presidente da República, publicado no Diário Oficial da União de 24 de setembro de 1996. Alude a precedentes da Corte e requer a reforma da tutela antecipada, ofertando a peça também a título de agravo regimental contra a liminar deferida. Com a contestação vieram os documentos de folha 131 a 198.
+ A liminar foi referendada pelo Pleno (folha 202), decisão contra a qual não foi interposto recurso (folha 224).
+ Aberta oportunidade às partes para o oferecimento de razões finais, o Tribunal Regional do Trabalho da 12ª Região, à folha 231, juntou o acórdão que revogou a decisão administrativa questionada neste processo.
+ A União, à folha 237, ratifica os termos da inicial, assinalando que a forma de pagamento prevista no § 3º do artigo 2º da Lei nº 10.474/2002 satisfaz integralmente o que era devido a título de abono variável, descabendo o acréscimo decorrente de atualização monetária. Menciona como precedente o acórdão proferido na Medida Cautelar na Ação Originária nº 1.149-3/PE, relator Ministro Nelson Jobim, publicado no Diário da Justiça de 15 de fevereiro de 2005.
+ O Procurador-Geral da República, à folha 253, pugna pela extinção do processo por perda do objeto, ante a revogação do ato questionado antes da efetivação dos pagamentos da verba discutida e, de forma sucessiva, havendo o prosseguimento do processo, sustenta a competência do Supremo para conhecer da matéria, considerado o envolvimento de interesse de toda a magistratura trabalhista do Estado de Santa Catarina. No mérito, opina pela procedência parcial do pedido, afirmando ser ilegítima a atualização implementada pelo requerido, sendo devida, entretanto, a incidência de correção monetária para atualizar os valores das vinte e quatro parcelas mensais em que foi desdobrado o pagamento do abono, evitando a perda do valor real, deduzidas as quantias porventura pagas aos beneficiários.
+2.  Mediante a decisão de folha 232 a 235, o Tribunal Regional do Trabalho veio a revogar o ato objeto desta ação cujos efeitos foram suspensos por meio de liminar referendada pelo Plenário, que reportou-se à óptica do Tribunal quanto à matéria envolvida na espécie – correção monetária do abono previsto na Lei nº 10.474/2002. Assim, procede a perda de objeto aventada pelo Procurador-Geral da República.
+3.  Declaro-a.
+4.  Publiquem.
+Brasília – residência –, 5 de outubro de 2009, às 15h15.
+Ministro MARCO AURÉLIO
+Relator
