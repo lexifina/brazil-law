@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MAGISTÉRIO. CONTAGEM DE TEMPO DE SERVIÇO PRESTADO FORA DA SALA DE AULA PARA APOSENTADORIA ESPECIAL: POSSIBILIDADE. MUDANÇA DA ORIENTAÇÃO JURISPRUDENCIAL DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTE. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRESUNÇÃO DE EXISTÊNCIA DA REPERCUSSÃO GERAL. AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido teve como objeto o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios:
+“DIREITO CONSTITUCIONAL E ADMINISTRATIVO. PROFESSORA. TEMPO DE SERVIÇO. FUNÇÃO DE DIRETORA ESCOLAR. CONTAGEM PARA APOSENTADORIA ESPECIAL. IMPOSSIBILIDADE.
+1. A aposentadoria especial do professor, nos moldes do art. 40, § 5º, da CF, exige o efetivo exercício da função de magistério em sala de aula, não podendo ser computado, para tal, o tempo de exercício na função de diretora escolar. 2. Aplicação da Súmula 726, do Supremo Tribunal Federal. Precedentes do STJ e TJDFT. 3. Recurso conhecido e desprovido” (fl. 19).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que o acórdão recorrido estaria em harmonia com a jurisprudência do Supremo Tribunal Federal (fls. 43-44).
+4. A Agravante alega que teria sido contrariado o art. 40, § 5º, da Constituição da República.
+Afirma que o Supremo Tribunal Federal teria alguns julgados favoráveis à sua pretensão e que a Súmula 726 não teria natureza vinculante.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Em preliminar, é de se realçar que, apesar de ter sido a Agravante intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, § 1º, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esta se presume “quando o recurso (...) impugnar decisão contrária a súmula ou a jurisprudência dominante”. Esta é a situação dos autos, conforme se tem a seguir demonstrado.
+A matéria foi objeto de julgados do Supremo Tribunal, que concluiu pela prevalência da tese defendida pela Agravante. Por isso a ela assiste razão, na forma do direito vigente.
+6. O Supremo Tribunal Federal firmara entendimento no sentido de que a aposentadoria especial de professor, com vencimentos integrais, limitar-se-ia às situações nas quais se demonstrasse efetivo exercício das funções de magistério pelo servidor, assim considerada a atividade-fim que lhe dá nome.
+Nesse sentido, os seguintes julgados: ADI 2.253, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJ 7.5.2004; AI 606.222-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 14.11.2007; RE 199.160-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 11.3.2005; RE 276.040-AgR, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 19.10.2001; AI 499.278-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJ 3.2.2006; e AI 474.078-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 23.9.2005.
+7. No entanto, no julgamento da Ação Direta de Inconstitucionalidade 3.772, Redator para o acórdão o Ministro Ricardo Lewandowski, o Plenário do Supremo Tribunal Federal, por maioria de votos, mudou o entendimento então consolidado para afirmar que a função de magistério não se circunscreve apenas ao trabalho desenvolvido em sala de aula, fazendo jus ao regime especial de aposentadoria o professor que exerce atividades administrativas no estabelecimento de ensino.
+Confira-se, a propósito, excerto do julgado:
+“I - A função de magistério não se circunscreve apenas ao trabalho em sala de aula, abrangendo também a preparação de aulas, a correção de provas, o atendimento aos pais e alunos, a coordenação e o assessoramento pedagógico e, ainda, a direção de unidade escolar. II - As funções de direção, coordenação e assessoramento pedagógico integram a carreira do magistério, desde que exercidos, em estabelecimentos de ensino básico, por professores de carreira, excluídos os especialistas em educação, fazendo jus aqueles que as desempenham ao regime especial de aposentadoria estabelecido nos arts. 40, § 4º, e 201, § 1º, da Constituição Federal” (ADI 3.772, Redator para o acórdão o Ministro Ricardo Lewandowski, Plenário, DJe 27.3.2009).
+8. Embora vencida nesse julgamento, adoto o que nele decidido.
+9. Pelo exposto, dou provimento a este agravo, na forma do art. 544, §§ 3º e 4º, do Código de Processo Civil, e, desde logo, ao recurso extraordinário, nos termos do art. 557, § 1º-A, do mesmo diploma legal.
+Ficam invertidos os ônus da sucumbência.
+Publique-se.
+Brasília, 6 de outubro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
