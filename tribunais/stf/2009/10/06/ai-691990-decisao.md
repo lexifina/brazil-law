@@ -1,0 +1,12 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão da Quarta Câmara de Direito Público do Tribunal de Justiça de São Paulo e assim ementado:
+“VEÍCULO – TRANSPORTE CLANDESTINO DE PASSAGEIROS – APREENSÃO – LEGALIDADE PORQUE DECORRENTE DO PODER DE POLÍCIA MUNICIPAL – LIBERDADE CONDICIONADA APENAS AO PAGAMENTO DAS DESPESAS DE REMOÇÃO E ESTADIA, EXCETUANDO-SE A MULTA – INDENIZAÇÃO POR DANOS MORAL E MATERIAL INCABÍVEL NA ESPÉCIE DIANTE DA ILICITUDE DO PROCEDIMENTO ADOTADO PELA MUNICIPALIDADE. AUSÊNCIA DE NEXO DE CAUSALIDADE ENTRE A PRÁTICA DE ATO LESIVO E INJUSTO ATRIBUÍDA AOS AGENTES PÚBLICOS E O SUPOSTO DANO SUPORTADO PELO AUTOR A ENSEJÁ-LA – RECURSOS OFICIAL E MUNICIPALIDADE DE SÃO PAULO PARCIALMENTE PROVIDOS, NA CONFORMIDADE DO ACÓRDÃO” (fl. 35).
+Sustenta o recorrente, com base no art. 102, III, a, violação ao art. 30, V, da Constituição Federal.
+Alega, em síntese, que “o v. Acórdão ao alterar a previsão constante na Lei local sobre as obrigações do transportador clandestino (sem autorização), limitando o número de diárias de estacionamento do veículo apreendido, como no caso destes autos, quando a norma municipal assim não o fez, evidenciou indubitavelmente a ofensa em que incorreu ao próprio artigo 30, V, retro indicado, maculando a competência constitucional do Município” (fl. 52).
+2.  Conquanto admissível o agravo, inviável o recurso extraordinário.
+O acórdão impugnado decidiu a causa com base em legislação infraconstitucional local (Lei nº 12.893/99), de modo que eventual ofensa à Carta Magna seria, aqui, apenas indireta (súmula 280). É o que já decidiu esta Corte em caso análogo (AI nº 736675, Rel. Min. MENEZES DIREITO, DJe 26.3.2009).
+ Ademais, o acórdão recorrido decidiu a causa, mutatis mutantis, de acordo com a orientação já assentada por esta Corte, no sentido de que a imposição, ao arbítrio da autoridade fiscal, de restrições de caráter punitivo, devido à inadimplência do contribuinte, contraria as súmulas 70, 323 e 547. Nesse sentido, menciono, inter plures, o RE nº 216.983-AgR (Rel. Min. CARLOS VELLOSO, DJ de 13.11.98) e a Pet nº 2.772-MC (Rel. Min. CELSO DE MELLO, DJ de 24.10.2002).
+3.  Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+ Brasília, 6 de outubro de 2009.
+Ministro CEZAR PELUSO
+Relator
