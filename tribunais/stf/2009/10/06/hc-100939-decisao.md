@@ -1,0 +1,28 @@
+1.  Trata-se de habeas corpus impetrado contra acórdão que negou provimento a recurso especial anteriormente aforado no Superior Tribunal de Justiça (Resp. 1.112.384/PR).
+Narra a inicial que o acórdão atacado confirmou outro proferido pelo Tribunal Regional Federal da 4ª Região em sede de recurso em sentido estrito, para determinar o recebimento de denúncia oferecida em desfavor do paciente, outrora rejeitada pelo Juízo da 2ª Vara Federal Criminal de Foz do Iguaçu/PR.
+A denúncia in casu refere-se a suposto crime de descaminho, no qual o valor dos tributos ilididos seria de R$ 3.879,30 (três mil oitocentos e setenta e nove reais e trinta centavos).
+O impetrante alega que incide na espécie o princípio da insignificância penal ao descaminho quando o valor dos tributos ilididos não ultrapassa o valor de R$ 10.000,00 (dez mil reais), com fundamento no art. 20 da Lei 10.522/02, com a redação da Lei 11.033/04.
+Assim, requer o provimento de medida liminar, para trancar a ação penal na 2ª Vara Federal Criminal de Foz do Iguaçu/PR até o julgamento deste writ, e, ao final, a concessão da ordem, para anular a decisão anterior, que deu provimento ao recurso especial.
+2.  A relatora do acórdão, Min. Laurita Vaz, abraçou a tese “de que o melhor parâmetro para afastar a relevância penal da conduta é justamente aquele utilizado pela Administração Fazendária para extinguir o débito fiscal, consoante dispõe o art. 18, § 1º, da Lei n.º 10.522/2002, que determina o cancelamento da dívida tributária igual ou inferior a R$ 100.00 (cem reais)”.
+3.  Por outro lado, o art. 20 da Lei 10.522/02 determina o arquivamento das execuções fiscais, sem baixa na distribuição, quando os débitos inscritos como dívida ativa da União forem iguais ou inferiores a R$ 10.000,00 (valor modificado pela Lei nº 11.033/04).
+Ambas as Turmas desta Suprema Corte tem precedentes no sentido de que falta justa causa para a ação penal por crime de descaminho quando a quantia sonegada não ultrapassar o valor previsto no art. 20 da Lei 10.522/02. Nesse sentido, transcrevo os seguintes julgados:
+“ HABEAS CORPUS. CONTITUCIONAL. PENAL E PROCESSUAL PENAL. TRANCAMENTO DA AÇÃO PENAL. PACIENTE PROCESSADO PELA INFRAÇÃO DO ART. 334, CAPUT, DO CÓDIGO PENAL (DESCAMINHO). ALEGAÇÃO DE INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. EXISTÊNCIA DE PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL FAVORÁVEL À TESE DA IMPETRAÇÃO. HABEAS CORPUS CONCEDIDO PARA DETERMINAR O TRANCAMENTO DA AÇÃO PENAL.
+1. O descaminho praticado pelo Paciente não resultou em dano ou perigo concreto relevante, de modo a lesionar ou colocar em perigo o bem jurídico reclamado pelo princípio da ofensividade. Tal fato não tem importância relevante na seara penal, pois, apesar de haver lesão a bem juridicamente tutelado pela norma penal, incide, na espécie, o princípio da insignificância, que reduz o âmbito de proibição aparente da tipicidade legal, e, por conseqüência, torna atípico o fato denunciado.
+2. A análise quanto à incidência, ou não, do princípio da insignificância na espécie deve considerar o valor objetivamente fixado pela Administração Pública para o arquivamento, sem baixa na distribuição, dos autos das ações fiscais de débitos inscritos como Dívida Ativa da União (art. 20 da Lei n. 10.522/02), que hoje equivale à quantia de R$ 10.000,00, e não o valor relativo ao cancelamento do crédito fiscal (art. 18 da Lei n. 10.522/02), equivalente a R$ 100,00.
+3. É manifesta a ausência de justa causa para a propositura da ação penal contra o ora Paciente. Não há se subestimar a natureza subsidiária, fragmentária do Direito Penal, que só deve ser acionado quando os outros ramos do direito não sejam suficientes para a proteção dos bens jurídicos envolvidos.
+4. Ordem concedida. (HC 96.309/RS, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 24.04.2009).”
+“DIREITO PENAL. HABEAS CORPUS. CRIME DE DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. VALOR SONEGADO INFERIOR AO FIXADO NO ART. 20 DA LEI Nº 10.522/02. ATIPICIDADE DA CONDUTA. ORDEM CONCEDIDA.
+1. A questão de direito tratada neste writ, consoante a tese exposta pela impetrante na petição inicial, é a suposta atipicidade da conduta realizada pela paciente com base no princípio da insignificância.
+2. No caso concreto, a paciente foi denunciada por transportar mercadorias de procedência estrangeira sem pagar quaisquer impostos, o que acarretou a sonegação de tributos no valor de R$ 1.715,99 (mil setecentos e quinze reais e noventa e nove centavos).
+3. O art. 20 da Lei nº 10.522/02 determina o arquivamento das execuções fiscais, sem baixa na distribuição, quando os débitos inscritos como dívida ativa da União forem iguais ou inferiores a R$ 10.000,00 (valor modificado pela Lei nº 11.033/04).
+4. Esta Colenda Segunda Turma tem precedentes no sentido de que falta justa causa para a ação penal por crime de descaminho quando a quantia sonegada não ultrapassar o valor previsto no art. 20 da Lei nº 10.522/02.
+5. Ante o exposto, concedo a ordem de habeas corpus. (HC 96.374/PR, de minha relatoria, 2ª Turma, unânime, DJe 24.04.2009).”
+Portanto, em sede de juízo prefacial, vislumbro, in casu, a presença de constrangimento ilegal, já que a decisão atacada é manifestamente contrária à jurisprudência consolidada por esta Suprema Corte.
+4.  Ante o exposto, defiro parcialmente o pedido de liminar, somente para suspender, cautelarmente, a ação penal a que se refere o recurso em sentido estrito 2007.70.02.005930-6/PR, do Tribunal Regional Federal da 4ª Região, que determinou o recebimento da denúncia contra o paciente, até o julgamento de mérito do presente writ.
+Comunique-se.
+Após, colha-se a manifestação da Procuradoria-Geral da República.
+Publique-se.
+Brasília, 06 de outubro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
