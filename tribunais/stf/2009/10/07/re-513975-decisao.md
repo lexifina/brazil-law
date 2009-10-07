@@ -1,0 +1,17 @@
+DECISÃO: 1. Trata-se de recursos extraordinários interpostos de acórdão do Tribunal de Justiça do Estado do Paraná e assim ementado:
+“MANDADO DE SEGURANÇA. SISTEMA DE SEGURIDADE, INSTITUÍDO POR LEI, PARA OS FUNCIONÁRIOS PÚBLICOS ESTADUAIS EM ATIVIDADE. MAJORAÇÃO DA CONTRIBUIÇÃO PREVIDENCIÁRIA E DESCONTO DE PERCENTUAL RELATIVO A FUNDO DE SAÚDE MÉDICO-HOSPITALAR. IMPETRAÇÃO OBJETIVANDO O AFASTAMENTO DA CONTRIBUIÇÃO COMPULSÓRIA EXIGIDO DE ACORDO COM A LEI Nº 12.938/98. ACOLHIMENTO INADMISSIBILIDADE DA EXIGÊNCIA CONTRIBUTIVA, EM QUE SE VIU ENVOLVIDO O SERVIDOR ESTADUAL, NO NOVO SISTEMA PREVIDENCIÁRIO.
+Segurança concedida.” (fl. 460/469).
+O primeiro recorrente, Estado do Paraná, alega, com base no art. 102, III, a, violação aos arts. 40, caput e §12, 195, II, e 154, I, da Constituição Federal.
+O segundo recorrente, PARANÁPREVIDÊNCIA, alega, com base no art. 102, III, a, violação aos arts. 5º, 37, XV, 40, caput e §12, 150, II e IV, 170, IV e 195, II, da Constituição Federal.
+2.  Inviáveis os recursos extraordinários.
+ Como se vê, o acórdão impugnado decidiu a causa com base na interpretação de norma subalterna e apreciação dos fatos à luz da prova, de modo que, para dissentir de sua conclusão, quanto ao caráter confiscatório da majoração da alíquota do desconto previdenciário, seria mister rever essas premissas, o que é inviável no âmbito do recurso extraordinário (súmulas 279 e 280).
+ Ainda que superado este óbice, a irresignação não prosperaria. É que a postura do acórdão está em conformidade com a jurisprudência da Corte que, no julgamento da ADI nº 2.010-MC (Rel. Min. CELSO DE MELLO, DJ de 12.4.2002), assentou que a instituição de alíquotas progressivas para a contribuição previdenciária dos servidores públicos ofende o princípio da vedação à utilização de qualquer tributo com efeito de confisco (art. 150, IV, da Constituição), devendo tal entendimento ser estendido aos Estados e Municípios. Esta orientação está bem refletida nas seguintes ementas:
+“RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. ALÍQUOTA PROGRESSIVA.
+1. O acórdão recorrido está em consonância com o entendimento do Plenário deste Supremo Tribunal que, no julgamento da ADI 2.010-MC, assentou que a instituição de alíquotas progressivas para a contribuição previdenciária dos servidores públicos ofende o princípio da vedação à utilização de qualquer tributo com efeito de confisco (art. 150, IV, da Constituição). Tal entendimento estende-se aos Estados e Municípios.
+2. Agravo regimental improvido” (RE nº 414.915-AgR, Rel. MIn. ELLEN GRACIE, DJ de 20.4.2006).
+“Contribuição previdenciária sobre vencimentos de servidores em atividade: acórdão recorrido que decidiu pela inconstitucionalidade da progressividade das alíquotas, na linha do entendimento firmado pelo plenário da Corte, no julgamento da ADI MC 2.010,Celso de Mello, DJ 12/4/2002, quando se deferiu medida cautelar para suspender a eficácia do art. 2º e seu parágrafo único, da L. 9.783/99, à vista “do relevo jurídico da tese segundo a qual o legislador comum, fora das hipóteses taxativamente indicadas no texto da Carta Política, não pode valer-se da progressividade na definição das alíquotas pertinentes à contribuição de seguridade social devida por servidores públicos em atividade” (RE nº 397.338, Rel. Min. SEPÚLVEDA PERTENCE , DJ de 14.11.2003).
+3.  Ante o exposto, nego seguimento aos recursos (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+Publique-se. Int..
+Brasília, 7 de outubro de 2009.
+Ministro CEZAR PELUSO
+Relator
