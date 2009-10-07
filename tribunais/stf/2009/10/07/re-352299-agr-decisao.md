@@ -1,0 +1,26 @@
+1.  Trata-se de agravo regimental interposto de decisão (fls. 664-667) que deu provimento ao recurso extraordinário sob o entendimento de que, por não se tratar de exame de legalidade, não compete ao Poder Judiciário examinar o conteúdo das questões formuladas para aferir ou não a sua compatibilidade com os temas que integram o programa do concurso visando anular as formulações que não lhe parecerem corretas em virtude desse exame. O concurso em apreço visa ao provimento do cargo de Auditor-Fiscal do Tesouro Nacional.
+2.  A parte agravante alega que não se trata de apreciação de critério de correção e pontuação de provas, mas sim de exame e avaliação de candidato com base em critérios subjetivos ou em critérios que não são revelados.
+ Aduz, também, que houve violação ao art. 5º, XXXV, da Constituição Federal, na medida em que exclui do Poder Judiciário a possibilidade de apreciação da lesão ou ameaça a direito do candidato, já que é impossível a análise do acerto ou do desacerto de tais critérios.
+ Destaca, ademais, que da análise da prova pericial e documental trazida aos autos, concluiu-se que o conteúdo exigido nas questões em evidência não se encontrava previsto no respectivo edital, transbordando assim seus limites objetivos.
+3.  Determinou-se a expedição de ofício à Secretaria do Tesouro Nacional para que se manifestasse sobre a situação dos candidatos, ora recorridos, no concurso em tela (fl. 679). Às fls. 692 e 693, respectivamente, há declarações da Receita Federal do Brasil, consignando que José Bonifácio de Souza é Técnico da Receita Federal, em 07.10.2005, bem como que Roberto Jacob Nicolau Mussi Filho, em 10.10.2005, “é advogado militante (...) e não exerce qualquer atividade, seja como funcionário concursado ou comissionado, junto à União Federal”.
+4.  Instada a se manifestar, a parte agravada pugnou pela manutenção do julgado (fls. 907-911).
+5.  Com efeito, em razão dos fundamentos utilizados pelo acórdão recorrido, tem razão a parte agravante.
+ Portanto, reconsidero a decisão de fls. 664-667 e passo a apreciar o recurso extraordinário de fls. 629-637.
+6.  Trata-se de recurso extraordinário contra acórdão que deu provimento aos embargos infringentes opostos para anular todas as questões destoantes dos critérios estabelecidos no edital do concurso.
+7.  O Ministério Público Federal opinou pelo provimento do recurso (fls.659-662).
+8.  Como se nota do aresto impugnado, o Tribunal a quo concluiu pelo provimento dos embargos infringentes, tendo como base a conclusão a que chegou o laudo pericial de fls. 353-358, o qual concluiu que os critérios utilizados pela Administração transbordaram os limites estreitos do edital do concurso, visto que as afirmativas lançadas nas questões impugnadas estavam fora do conteúdo do programa, conforme ementa a seguir transcrita:
+“ADMINISTRATIVO. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÕES.
+POSSIBILIDADE. MATÉRIA FORA DO PROGRAMA.
+1. Embargos Infringentes providos para anular as questões de n°s 39, 40, 41 porque ficou comprovado, por meio de laudo pericial, que a matéria discutida nas referidas questões extravasaram do programa.
+2. Inafastável as conclusões da prova pericial, uma vez que elaborada por pessoa com conhecimento especializado sobre a matéria em debate.
+3. Da análise da prova pericial e documental carreada aos autos, verifica-se que a Administração não pautou sua conduta dentro dos limites do Edital.(fl. 607)
+ Assim, depreende-se ser incontroversa a conclusão do acórdão proferido pela Segunda Seção do TRF da 4ª Região, no sentido de que, no caso, não se trata de examinar o conteúdo das questões formuladas no concurso público, mas, repita-se, o exame de legalidade concernente ao fato de que as assertivas contidas nas questões extravasaram os limites previstos no programa objeto do edital do certame.
+  Além disso, segundo reiterado entendimento sumulado desta Corte, em se tratando de julgados cujos fundamentos se assentam em contexto fático-probatório, o Tribunal recorrido é soberano, não estando autorizada a interposição de recurso extraordinário que vise reabrir a discussão fundada neste aspecto (Súmula STF 279).
+ Por outro lado, ainda que fosse possível superar o óbice apontado, julgados recentes apontam no sentido que afasta a pretensão da parte recorrente. Nesse sentido o RE 526.600-AgR/SP, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 03.8.2007; e o RE 440.335-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 01.8.2008. Ambos os precedentes se reportam ao RE 434.708/RS, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 09.9.2005, cuja acórdão ficou assim ementado:
+“Concurso público: controle jurisdicional admissível, quando não se cuida de aferir da correção dos critérios da banca examinadora, na formulação das questões ou na avaliação das respostas, mas apenas de verificar que as questões formuladas não se continham no programa do certame, dado que o edital - nele incluído o programa - é a lei do concurso.”
+9.  Ante o exposto, reconsidero a decisão de fls. 664-667 (art. 557, § 1º, do CPC) e nego seguimento ao recurso extraordinário da União, com fundamento no art. 557, caput, do CPC.
+Publique-se.
+Brasília, 07 de outubro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
