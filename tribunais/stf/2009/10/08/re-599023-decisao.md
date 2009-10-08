@@ -1,0 +1,25 @@
+DECISÃO: Discute-se no presente recurso extraordinário a constitucionalidade do artigo 13 da Lei n. 9.506/97, a legitimidade da instituição de cobrança ao SAT via lei ordinária, a responsabilidade solidária da ora recorrente, nos termos do artigo 15, I, da Lei 8.212/91, a aplicação da taxa SELIC para correção das dívidas para com a autarquia previdenciária, e se a União pode condicionar a entrega de recursos do FPM à prova de quitação de seus créditos.
+2.  Alega-se, no recurso extraordinário, violação do disposto nos artigos 18; 84, IV; 160, e 195, da Constituição do Brasil.
+3.    Relativamente à constitucionalidade da contribuição social destinada ao custeio do SAT, o Supremo fixou entendimento no sentido de que:
+“AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO SOCIAL. SAT. TRABALHADORES AVULSOS.
+1. O Plenário desta Corte, ao julgar o RE 343.446, rel. Min. Carlos Velloso, unânime, DJ de 04.04.2003, julgou constitucionais o art. 3º, II, da Lei 7.787/89 e o art. 22, II, da Lei 8.212/91, com a redação da Lei 9.732/98, assentando a legitimidade da cobrança da contribuição ao SAT incidente sobre o total das remunerações pagas tanto aos empregados quanto aos trabalhadores avulsos.
+2. Agravo regimental improvido”.
+[RE n. 450.061-AgR, Relatora a Ministra Ellen Gracie, DJ de 31.3.06]
+4.  No que respeita à responsabilidade solidária da ora recorrente, o STF, ao apreciar a repercussão geral da questão, no AI n. 751.763, Relator o Ministro Cezar Peluso, entendeu tratar-se de matéria de índole infraconstitucional.
+5.  Quanto à aplicação da taxa SELIC como índice de débitos fiscais vencidos, a questão é dotada de caráter nitidamente infraconstitucional. Nesse sentido, o RE n. 440-AgR, de que fui Relator, DJ de 25.8.06.
+6.  No que concerne à constitucionalidade da retenção de cotas relativas ao Fundo de Participação dos Municípios, este Tribunal fixou o seguinte entendimento:
+“EMENTA: CONSTITUCIONAL. FUNDO DE PARTICIPAÇÃO DOS ESTADOS: RETENÇÃO POR PARTE DA UNIÃO:
+I – PASEP: sua constitucionalização pela CF/88, art. 239. Inconstitucionalidade da Lei 10.533/93, do Estado do Paraná, por meio da qual este desvinculou-se da referida contribuição do PASEP: ACO 471/PR, Relator o Ministro S. Sanches, Plenário, 11.4.2003.
+II – Legitimidade da retenção, por parte da União, de crédito do Estado – cota do fundo de Participação dos Estados – em razão de o Estado-membro não ter se manifestado no sentido do recolhimento das contribuições retidas enquanto perdurou a liminar deferida na ACO 471/PR. C.F., art. 160, parág. Único, I.
+III – Mandado de segurança indeferido”.
+[MS n. 24.269, Relator o Ministro Carlos Velloso, Plenário, DJ de 13.12.02].
+“EMENTA: agravo regimental em recurso extraordinário. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Contribuição para o PASEP. Bloqueio do fundo de participações dos Municípios. Possibilidade. Precedente. 4. Agravo regimental a que se nega provimento”.
+[RE n. 371.857-AgR, Relator o Ministro Gilmar Mendes, 2ª Turma, DJ de 7.4.06].
+7.  Por fim, passo a análise da constitucionalidade do artigo 13 da Lei n. 9.506/97, que trata da exigibilidade da contribuição previdenciária sobre subsídios dos agentes políticos municipais. Nessa parte o recurso merece provimento, como se pode depreender da ementa do RE n. 351.717, Relator o Ministro Carlos Velloso, DJ de 21.11.03:
+“EMENTA: CONSTITUCIONAL. TRIBUTÁRIO. PREVIDÊNCIA SOCIAL. CONTRIBUIÇÃO SOCIAL: PARLAMENTAR: EXERCENTE DE MANDATO ELETIVO FEDERAL, ESTADUAL ou MUNICIPAL. Lei 9.506, de 30.10.97. Lei 8.212, de 24.7.91. C.F., art. 195, II, sem a EC 20/98; art. 195, § 4º; art. 154, I. I. - A Lei 9.506/97, § 1º do art. 13, acrescentou a alínea h ao inc. I do art. 12 da Lei 8.212/91, tornando segurado obrigatório do regime geral de previdência social o exercente de mandato eletivo, desde que não vinculado a regime próprio de previdência social. II. - Todavia, não poderia a lei criar figura nova de segurado obrigatório da previdência social, tendo em vista o disposto no art. 195, II, C.F. Ademais, a Lei 9.506/97, § 1º do art. 13, ao criar figura nova de segurado obrigatório, instituiu fonte nova de custeio da seguridade social, instituindo contribuição social sobre o subsídio de agente político. A instituição dessa nova contribuição, que não estaria incidindo sobre ‘a folha de salários, o faturamento e os lucros’ (C.F., art. 195, I, sem a EC 20/98), exigiria a técnica da competência residual da União, art. 154, I, ex vi do disposto no art. 195, § 4º, ambos da C.F. É dizer, somente por lei complementar poderia ser instituída citada contribuição. III. - Inconstitucionalidade da alínea h do inc. I do art. 12 da Lei 8.212/91, introduzida pela Lei 9.506/97, § 1º do art. 13. IV. - R.E. conhecido e provido”.
+ Dou parcial provimento ao recurso com fundamento no disposto no artigo 557, § 1º-A, do CPC, para afastar a incidência de contribuição previdenciária sobre os subsídios dos agentes políticos municipais. Honorários e custas, na proporção da sucumbência.
+ Publique-se.
+ Brasília, 8 de outubro de 2009.
+Ministro Eros Grau
+- Relator -
+1
