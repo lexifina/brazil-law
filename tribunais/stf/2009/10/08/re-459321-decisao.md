@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário contra acórdão que porta a seguinte ementa:
+“ADMINISTRATIVO - PROFESSORES EM READAPTAÇÃO - LEI ESTADUAL N. 1.139/92, ARTS. 10 E 11 (COM AS ALTERAÇÕES DA LEI N. 9.847/95) – ‘GRATIFICAÇÃO DE INCENTIVO À REGÊNCIA DE CLASSE’ - CONCESSÃO DA ORDEM - EFEITOS PRETÉRITOS - SÚMULA 271 DO STF – INAPLICABILIDADE IN CASU
+1. Mesmo considerando como revogado o art. 49 da Lei n. 6.844/86, permanece hígido aos membros do magistério público estadual, ainda que readaptados, o direito à percepção das gratificações de ‘incentivo à regência de classe’, ‘incentivo à ministração de aulas’ ou ‘pelo exercício de função especializada de magistério’.
+A readaptação caracteriza condição análoga à licença para tratamento de saúde, situação que, nos termos do art. 13 da Lei n. 1.139/92, autoriza a continuidade da percepção da benesse legal.
+2. Se concedido o mandado de segurança, o direito violado deve ser restabelecido em sua plenitude. Noutros termos, corrigem-se todos os efeitos lesivos resultantes do ato impugnado, sem que isso implique afronta ao estabelecido na Súmula n. 271 do Supremo Tribunal Federal, pois a repercussão patrimonial não se dá a título de cobrança, mas sim como conseqüência direta da reparação da ilicitude.
+‘À vista do disposto no § 3º do art. 100 da Constituição da República e no art. 87 do Ato das Disposições Constitucionais Transitórias, não mais subsiste a vedação contida na Lei 5.021/66 - que restringe os efeitos patrimoniais pretéritos da sentença concessiva de mandado de segurança impetrado por servidor público - quando o débito, que tem natureza alimentar, se contiver nos limites que o caracterizam como de 'pequeno valor'.
+Impetrado mandado de segurança 'contra ato considerado ilegal por ter suprimido reajuste dos vencimentos dos servidores, que consideram-no devido, não há que se falar em aplicação da Súmula 269 e 271 do STF' (REsp n. 206.413, Min. Felix Fischer; REsp n. 87.339, Min. Vicente Leal; REsp n. 29.950, Min. Vicente Cernicchiaro). [...] Se a lei concede prazo de cento e vinte dias para propositura do mandado de segurança, é razoável e de justiça que os efeitos patrimoniais decorrentes da sua concessão, quando superiores aos limites estabelecidos no art. 87 do Ato das Disposições Constitucionais Transitórias, retroajam até a data do ato coator, não podendo, porém, retroceder além do prazo extintivo do direito à impetração’ (MS n. 2003.010937-4, Des. Newton Trisotto)” (fl. 55).
+Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 100, § 3º, da mesma Carta, bem como ao art. 87 do ADCT.
+A pretensão recursal merece acolhida. Isso porque o mandado de segurança não é substitutivo da ação de cobrança e, por isso, a sentença concessiva do writ não produz efeitos patrimoniais pretéritos, nos termos das Súmulas 269 e 271 do STF.
+Isso posto, dou provimento ao recurso (CPC, art. 557, § 1º-A) apenas para reformar o acórdão recorrido na parte em que concedeu efeitos pretéritos ao mandado de segurança.
+Publique-se.
+Brasília, 8 de outubro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
+1
