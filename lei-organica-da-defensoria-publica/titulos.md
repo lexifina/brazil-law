@@ -1,11 +1,11 @@
 TÍTULO I
-Das Disposições Preliminares
+Disposições Gerais
 TÍTULO II
 Da Organização da Defensoria Pública da União
 CAPÍTULO I
 Da Estrutura
 SEÇÃO I
-Do Defensor Publico-Geral e do Subdefensor Publico-Geral da União
+Do Defensor Público-Geral Federal e do Subdefensor Público-Geral Federal
 SEÇÃO II
 Do Conselho Superior da Defensoria Pública da União
 SEÇÃO III
@@ -15,7 +15,7 @@ Da Defensoria Pública da União nos Estados, no Distrito Federal e nos Territó
 SEÇÃO V
 Dos Núcleos da Defensoria Pública da União nos Estados, no Distrito Federal e nos Territórios
 SEÇÃO VI
-Dos Defensores Públicos da União
+Dos Defensores Públicos Federais
 CAPÍTULO II
 Da Carreira
 SEÇÃO I
@@ -94,6 +94,7 @@ SEÇÃO I
 Do Defensor Publico-Geral e do Subdefensor Publico-Geral do Estado
 SEÇÃO III
 Da Corregedoria-Geral da Defensoria Pública do Estado
+Seção III-A
 Da Ouvidoria-Geral da Defensoria Pública do Estado
 SEÇÃO IV
 Da Defensoria Pública do Estado
