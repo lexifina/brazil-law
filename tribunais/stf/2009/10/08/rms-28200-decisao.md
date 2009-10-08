@@ -1,0 +1,39 @@
+DECISÃO : Trata-se de recurso ordinário (art. 102, II, a da Constituição) interposto de acórdão prolatado pelo Superior Tribunal de Justiça que denegou a segurança pretendida para proteger alegado direito líquido e certo à renovação do Certificado de Entidade Beneficente de Assistência Social – CEBAS.
+O acórdão recorrido recebeu a seguinte ementa:
+“PREVIDENCIÁRIO. ENTIDADE DE ASSISTÊNCIA SOCIAL. ISENÇÃO. IMUNIDADE.
+CEBAS. DIREITO ADQUIRIDO. INEXISTÊNCIA. DILAÇÃO PROBATÓRIA.
+IMPOSSIBILIDADE.
+1. A alegada incompetência da autoridade fiscal que representou ao Conselho Nacional de Assistência Social - CNAS não foi comprovada nos autos. Ademais, a ratificação por autoridade superior, inquestionavelmente competente, afasta o suposto vício.
+2. O entendimento mais recente do STJ é de que a) inexiste direito adquirido a regime jurídico-fiscal, de modo que a imunidade da contribuição previdenciária patronal assegurada às entidades filantrópicas, prevista no art. 195, § 7º da Constituição, tem sua manutenção subordinada ao atendimento das condições previstas na legislação superveniente; b) é legítima a exigência prevista no art. 3º, VI, do Decreto 2.536/98, no que se refere à demonstração de aplicação de um mínimo de 20% da receita bruta anual em gratuidade.
+Precedentes: MS 10.558/DF, 1ª Seção, Min. José Delgado, julgado em 11.10.2006 e MS 10.758/DF, rel. para acórdão Min. Teori Zavascki, j. 25/10/2006.
+3. Inviável a discussão, em Mandado de Segurança, sobre o cumprimento da exigência de aplicação de percentual mínimo em gratuidade pela entidade filantrópica (Decretos 752/93 e 2.536/98), que exigiria dilação probatória. Resguardada a faculdade de o impetrante demonstrar seu direito por via própria, desde que cumpridos os requisitos específicos. Precedente: MS 11.394/DF, Rel. Ministro Luiz Fux, j. 14.02.2007, DJ 02.04.2007.
+4. A remissão prevista pela Lei do ProUni (art. 11, § 2º, da Lei 11.096/2005) refere-se exclusivamente às entidades que não cumpriram o percentual de 20% com gratuidade, não abarcando o descumprimento das demais exigências legais (art. 55 da Lei 8.212/91), em especial a de não-distribuição de benefícios aos diretores, ou a finalidade exclusivamente assistencial (razões para o cancelamento do CEBAS, na hipótese presente).
+5. O julgamento do mandamus prejudica os Embargos de Declaração opostos contra decisão que cassou a liminar.
+6. Segurança denegada.” (MS 10629/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 12/03/2008, DJe 19/12/2008).
+Em síntese, sustenta-se:
+1) Violação do direito adquirido à renovação do CEBAS, nos termos da Lei 3.577/1959 e do Decreto-lei 1.572/1977;
+2) Insubmissão ao regramento posto na Lei 8.212/1991, por violação da reserva de lei complementar de normas gerais para dispor sobre limitações ao poder de tributar (art. 146, II da Constituição);
+3) Aplicação do disposto na Lei 11.096/2005, dado o impetrante ter aderido ao Prouni;
+4) Direito à renovação automática do CEBAS, nos termos da MP 446/2008.
+O Ministério Público Federal, em parecer elaborado pelo subprocurador-geral da República, Dr. Paulo da Rocha Campos, opina pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Razão não assiste ao recorrente.
+Esta Corte firmou orientação no sentido da inexistência de direito adquirido a regime jurídico, ainda que relativo à exoneração tributária.
+Registro, nesse sentido, as seguintes ementas:
+“EMENTA: RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÕES SOCIAIS. IMUNIDADE. CERTIFICADO DE ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL - CEBAS. RENOVAÇÃO PERIÓDICA. CONSTITUCIONALIDADE. DIREITO ADQUIRIDO. INEXISTÊNCIA. OFENSA AOS ARTIGOS 146, II e 195, § 7º DA CB/88. INOCORRÊNCIA. 1. A imunidade das entidades beneficentes de assistência social às contribuições sociais obedece a regime jurídico definido na Constituição. 2. O inciso II do art. 55 da Lei n. 8.212/91 estabelece como uma das condições da isenção tributária das entidades filantrópicas, a exigência de que possuam o Certificado de Entidade Beneficente de Assistência Social - CEBAS, renovável a cada três anos. 3. A jurisprudência desta Corte é firme no sentido de afirmar a inexistência de direito adquirido a regime jurídico, razão motivo pelo qual não há razão para falar-se em direito à imunidade por prazo indeterminado. 4. A exigência de renovação periódica do CEBAS não ofende os artigos 146, II, e 195, § 7º, da Constituição. Precedente [RE n. 428.815, Relator o Ministro SEPÚLVEDA PERTENCE, DJ de 24.6.05]. 5. Hipótese em que a recorrente não cumpriu os requisitos legais de renovação do certificado. Recurso não provido.” (RMS 27093, Relator(a): Min. EROS GRAU, Segunda Turma, julgado em 02/09/2008, DJe-216 DIVULG 13-11-2008 PUBLIC 14-11-2008 EMENT VOL-02341-02 PP-00244).
+“EMENTA: AGRAVO REGIMENTAL EM MEDIDA LIMINAR EM RECLAMAÇÃO CONTRA DECISÃO QUE DEFERIU A MEDIDA LIMINAR PARA SUSPENDER ACÓRDÃO DO TRIBUNAL DE JUSTIÇA A QUO QUE DEFERIU A NÃO-INCIDÊNCIA DA CONTRIBUIÇÃO PREVIDENCIÁRIA DOS AGRAVANTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Magistrados e pensionistas de magistrados aposentados que entraram na magistratura quando vigente a Constituição da República de 1946. Reiteração dos argumentos de que as Emendas Constitucionais ns. 20/98 e 41/03 não alcançariam os servidores que ingressaram na carreira antes da promulgação da Constituição da República de 1988. 2. Ausência de norma de imunidade tributária absoluta que assegure aos Agravantes o direito adquirido de não se sujeitarem à contribuição previdenciária. 3. Descumprimento da Ação Direta de Inconstitucionalidade n. 3.105. Precedentes. 4. Agravo Regimental ao qual se nega provimento.” (Rcl 4486 MC-AgR, Relator(a): Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 28/08/2008, DJe-182 DIVULG 25-09-2008 PUBLIC 26-09-2008 EMENT VOL-02334-01 PP-00198);
+Confiram-se, ainda, o RMS 27.977 (rel. min. RICARDO LEWANDOWSKI, julgado em 30/06/2009, publicado em DJe-144 DIVULG 31/07/2009 PUBLIC 03/08/2009); e o RMS 27.184 AgR-AgR (rel. min. RICARDO LEWANDOWSKI, julgado em 23/06/2009, publicado em DJe-119 DIVULG 26/06/2009 PUBLIC 29/06/2009).
+Dessa orientação não divergiu o acórdão recorrido.
+Em relação à alegada inconstitucionalidade da Lei 8.212/1991, observo que o acórdão recorrido foi expresso em reconhecer que a recorrente não atendia ao requisito da ausência de pagamento de benefícios aos seus diretores. Transcrevo, por oportuno, a seguinte passagem do acórdão recorrido:
+“Na verdade, como bem apontado pelo Ministério Público, em seu judicioso parecer, o cancelamento do CEBAS, no caso dos autos, deu-se exatamente por conta da distribuição de benefícios aos diretores, além de que sua finalidade assistencial não seria exclusiva (fl. 377).” (Fls. 442).
+Para que fosse possível contrariar a afirmativa, seria necessário ampliar a dilação probatória, procedimento inadequado no curso do mandado de segurança. Ademais, vale lembrar que a não distribuição de qualquer parcela de patrimônio ou rendas da entidade é requisito que transcende a legislação tida por inconstitucional (cf. art. 14, I do Código Tributário Nacional).
+Incabível, pois, a ação de mandado de segurança para discutir o ponto controverso.
+Em sentido semelhante, a alegada violação da Lei 11.096/2005 (adesão ao Prouni) esbarra na necessidade de instauração de fase instrutória completa para afastamento da constatação de que houve “distribuição de benefícios aos diretores, além de que sua finalidade assistencial não seria exclusiva”.
+Em relação à renovação automática do Certificado, prevista na MP 446, vale lembrar que o diploma legal foi rejeitado pelo Plenário da Câmara dos Deputados (DOU de 12.02.2009).
+Ante o exposto, nego seguimento ao recurso (art. 21, § 1º do RISTF e art. 38 da Lei 8.038/1990).
+Publique-se.
+Brasília, 08 de outubro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
