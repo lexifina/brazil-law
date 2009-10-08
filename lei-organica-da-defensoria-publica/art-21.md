@@ -1,1 +1,1 @@
-Art. 21. Os Defensores Públicos da União de 1ª Categoria atuarão junto aos Tribunais Regionais Federais, aos Tribunais Regionais do Trabalho e aos Tribunais Regionais Eleitorais.
+Art. 21. Os Defensores Públicos Federais de 1ª Categoria atuarão nos Tribunais Regionais Federais, nas Turmas dos Juizados Especiais Federais, nos Tribunais Regionais do Trabalho e nos Tribunais Regionais Eleitorais.

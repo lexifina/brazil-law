@@ -13,4 +13,5 @@ XI - deliberar sobre a organização de concurso para ingresso na carreira e des
 XII - organizar os concursos para provimento dos cargos da carreira de Defensor Público do Distrito Federal e dos Territórios e os seus respectivos regulamentos;
 XIII - recomendar correições extraordinárias;
 XIV - indicar os seis nomes dos membros da classe mais elevada da carreira para que o Presidente da República nomeie, dentre estes, o Subdefensor Publico-Geral e o Corregedor-Geral.
+XV - editar as normas regulamentando a eleição para Defensor Público-Geral.
 Parágrafo único. As decisões do Conselho Superior serão motivadas e publicadas, salvo as hipóteses legais de sigilo.

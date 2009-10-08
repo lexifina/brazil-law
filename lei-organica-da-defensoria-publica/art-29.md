@@ -1,1 +1,1 @@
-Art. 29. Os Defensores Públicos da União serão lotados e distribuídos pelo Defensor Publico-Geral, assegurado aos nomeados para os cargos iniciais o direito de escolha do órgão de atuação, desde que vago e obedecida a ordem de classificação no concurso.
+Art. 29. Os Defensores Públicos Federais serão lotados e distribuídos pelo Defensor Público-Geral Federal, assegurado aos nomeados para os cargos iniciais o direito de escolha do órgão de atuação, desde que vago e obedecida a ordem de classificação no concurso.
