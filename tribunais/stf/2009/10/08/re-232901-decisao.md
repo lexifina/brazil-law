@@ -1,0 +1,14 @@
+DECISÃO : Trata-se de recurso extraordinário (art. 102, III, c da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo que considerou válida norma local que estabelecia, em termos práticos, a atualização monetária do valor de operação faturada para entrega futura (art. 116 do Decreto 33.118/1991 – Regulamento do Imposto sobre Operações de Circulação de Mercadorias e Serviços – ICMS).
+Sustenta-se, em síntese, violação da regra da legalidade (art. 150, I da Constituição) e da competência para instituir o tributo (ausência de fato gerador no momento da emissão da fatura – art. 155, II, b da Constituição).
+O Ministério Público Federal, em parecer elaborado pelo então subprocurador-geral da República, Dr. Roberto Monteiro Gurgel Santos, opina pelo não conhecimento do recurso (Fls. 268).
+Por ocasião do julgamento do RE 210.876, esta Corte decidiu que a base de cálculo do ICMS em vendas para entrega futura é o valor recebido pelo alienante, ou seja, sem quaisquer correções ou atualizações monetárias. Eis a ementa do referido acórdão:
+“RECURSO EXTRAORDINÁRIO - TRÂNSITO. O trancamento de recurso extraordinário calcado nas alíneas ´a´ e ´c´ do inciso III do artigo 102 da Constituição Federal implica usurpação da competência do Supremo Tribunal Federal. Apreciação do tema de fundo ante o provimento de agravo. ICMS - BASE DE INCIDÊNCIA - CORREÇÃO - VENDA PARA ENTREGA FUTURA - OPERAÇÃO VERSUS FATO GERADOR. A consideração do tributo a partir do valor do negócio jurídico, atualizado na data da saída da mercadoria do estabelecimento, além de alimentar a nefasta cultura inflacionária, discrepa da ordem natural das coisas, resultando em indevido acréscimo ao total da operação, porque não querido pelas partes, e em violência ao princípio da não-cumulatividade. O figurino constitucional do tributo impõe, como base de cálculo, o montante da operação relativa à circulação da mercadoria, à quantia recebida pelo vendedor . (RE 210.876, rel. min. MARCO AURÉLIO, Tribunal Pleno, julgado em 05/09/2002, DJ 08-11-2002 PP-00026 EMENT VOL-02090-04 PP-00723 - grifei).
+No ponto, o acórdão recorrido diverge da orientação firmada no precedente indicado.
+Por outro lado, em relação à alegada violação da regra da legalidade, aplica-se a orientação firmada na Súmula 636/STF, na medida em que se discute a incompatibilidade de decreto regulamentador às disposições previstas ou à ausência em lei.
+Ante o exposto, conheço do recurso extraordinário e dou-lhe parcial provimento, para julgar parcialmente procedente o pedido formulado na inicial, para considerar incabível a correção monetária do valor dos créditos tributários no período compreendido entre o “simples faturamento” e a saída efetiva da mercadoria.
+Ficam compensados os ônus da sucumbência.
+Publique-se.
+Brasília, 08 de outubro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
