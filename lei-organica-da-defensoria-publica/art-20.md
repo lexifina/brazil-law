@@ -1,1 +1,1 @@
-Art. 20. Os Defensores Públicos da União de 2ª Categoria atuarão junto aos Juízos Federais, às Juntas de Conciliação e Julgamento, às Juntas e aos Juízes Eleitorais, aos Juízes Militares, nas Auditorias Militares, ao Tribunal Marítimo e às instâncias administrativas.
+Art. 20. Os Defensores Públicos Federais de 2ª Categoria atuarão junto aos Juízos Federais, aos Juízos do Trabalho, às Juntas e aos Juízes Eleitorais, aos Juízes Militares, às Auditorias Militares, ao Tribunal Marítimo e às instâncias administrativas.

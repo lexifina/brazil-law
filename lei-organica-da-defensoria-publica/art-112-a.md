@@ -1,0 +1,1 @@
+Art. 112-A. Aos aprovados no concurso deverá ser ministrado curso oficial de preparação à Carreira, objetivando o treinamento específico para o desempenho das funções técnico-jurídicas e noções de outras disciplinas necessárias à consecução dos princípios institucionais da Defensoria Pública.

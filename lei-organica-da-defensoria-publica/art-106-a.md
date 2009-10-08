@@ -1,0 +1,1 @@
+Art. 106-A. A organização da Defensoria Pública do Estado deve primar pela descentralização, e sua atuação deve incluir atendimento interdisciplinar, bem como a tutela dos interesses individuais, difusos, coletivos e individuais homogêneos.

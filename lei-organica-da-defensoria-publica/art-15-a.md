@@ -1,0 +1,1 @@
+Art. 15-A. A organização da Defensoria Pública da União deve primar pela descentralização, e sua atuação deve incluir atendimento interdisciplinar, bem como a tutela dos interesses individuais, difusos, coletivos e individuais homogêneos.

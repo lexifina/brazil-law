@@ -1,2 +1,2 @@
-Art. 22. Os Defensores Públicos da União de Categoria Especial atuarão junto ao Superior Tribunal de Justiça, ao Tribunal Superior do Trabalho, ao Tribunal Superior Eleitoral e ao Superior Tribunal Militar.
+Art. 22. Os Defensores Públicos Federais de Categoria Especial atuarão no Superior Tribunal de Justiça, no Tribunal Superior do Trabalho, no Tribunal Superior Eleitoral, no Superior Tribunal Militar e na Turma Nacional de Uniformização dos Juizados Especiais Federais.
 Parágrafo único. (VETADO).

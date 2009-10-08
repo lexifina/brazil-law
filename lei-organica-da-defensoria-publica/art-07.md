@@ -1,2 +1,2 @@
-Art. 7º O Defensor Publico-Geral será substituído, em suas faltas, impedimentos, licenças e férias pelo Subdefensor Publico-Geral, nomeado pelo Presidente da República, dentre os integrantes da Categoria Especial da carreira, escolhidos pelo Conselho Superior, para mandato de dois anos.
-Parágrafo único. A União poderá, segundo suas necessidades, ter mais de um Subdefensor Publico-Geral.
+Art. 7º O Defensor Público-Geral Federal será substituído, em suas faltas, impedimentos, licenças e férias, pelo Subdefensor Público-Geral Federal, nomeado pelo Presidente da República, dentre os integrantes da Categoria Especial da Carreira, escolhidos pelo Conselho Superior, para mandato de 2 (dois) anos.
+Parágrafo único. A União poderá, segundo suas necessidades, ter mais de um Subdefensor Público-Geral Federal.

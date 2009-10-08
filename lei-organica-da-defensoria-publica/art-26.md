@@ -1,3 +1,3 @@
 Art. 26. O candidato, no momento da inscrição, deve possuir registro na Ordem dos Advogados do Brasil, ressalvada a situação dos proibidos de obtêla, e comprovar, no mínimo, dois anos de prática forense, devendo indicar sua opção por uma das unidades da federação onde houver vaga.
-§ 1º Considerase como prática forense o exercício profissional de consultoria, assessoria, o cumprimento de estágio nas Defensorias Públicas e o desempenho de cargo, emprego ou função, de nível superior, de atividades eminentemente jurídicas.
+§ 1º Considera-se como atividade jurídica o exercício da advocacia, o cumprimento de estágio de Direito reconhecido por lei e o desempenho de cargo, emprego ou função, de nível superior, de atividades eminentemente jurídicas.
 § 2º Os candidatos proibidos de inscrição na Ordem dos Advogados do Brasil comprovarão o registro até a posse no cargo de Defensor Público.
