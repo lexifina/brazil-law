@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N° 817, DE 07 DE OUTUBRO DE 2009.
+(Autoria do Projeto: Poder Executivo)
+Altera a Lei Complementar nº 757, de 17 de março de 2008, e dá outras providências.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
