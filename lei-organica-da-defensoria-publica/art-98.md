@@ -9,3 +9,4 @@ a) as Defensorias Públicas do Estado;
 b) os Núcleos da Defensoria Pública do Estado;
 III - órgãos de execução:
 a) os Defensores Públicos do Estado.
+IV - órgão auxiliar: Ouvidoria-Geral da Defensoria Pública do Estado.

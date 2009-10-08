@@ -1,3 +1,5 @@
-Art. 99. A Defensoria Pública do Estado tem por chefe o Defensor Publico-Geral, nomeado pelo Governador do Estado, dentre integrantes da carreira maiores de trinta e cinco anos, na forma disciplinada pela legislação estadual.
-§ 1º O Defensor Publico-Geral será substituído em suas faltas, licenças, férias e impedimentos pelo Subdefensor Publico-Geral, nomeado pelo Governador do Estado, dentre os integrantes da carreira, na forma da legislação estadual.
+Art. 99. A Defensoria Pública do Estado tem por chefe o Defensor Público-Geral, nomeado pelo Governador do Estado, dentre membros estáveis da Carreira e maiores de 35 (trinta e cinco) anos, escolhidos em lista tríplice formada pelo voto direto, secreto, plurinominal e obrigatório de seus membros, para mandato de 2 (dois) anos, permitida uma recondução.
+§ 1º O Defensor Público-Geral será substituído em suas faltas, licenças, férias e impedimentos pelo Subdefensor Público-Geral, por ele nomeado dentre integrantes estáveis da Carreira, na forma da legislação estadual.
 § 2º Os Estados, segundo suas necessidades, poderão ter mais de um Subdefensor Publico-Geral.
+§ 3º O Conselho Superior editará as normas regulamentando a eleição para a escolha do Defensor Público-Geral.
+§ 4º Caso o Chefe do Poder Executivo não efetive a nomeação do Defensor Público-Geral nos 15 (quinze) dias que se seguirem ao recebimento da lista tríplice, será investido automaticamente no cargo o Defensor Público mais votado para exercício do mandato.

@@ -8,4 +8,4 @@ II - órgãos de atuação:
 a) as Defensorias Públicas da União nos Estados, no Distrito Federal e nos Territórios;
 b) os Núcleos da Defensoria Pública da União;
 III - órgãos de execução:
-a) os Defensores Públicos da União nos Estados, no Distrito Federal e nos Territórios.
+a) os Defensores Públicos Federais nos Estados, no Distrito Federal e nos Territórios.
