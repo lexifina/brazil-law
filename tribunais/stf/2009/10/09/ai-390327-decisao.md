@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) que tem como violados os arts. 5º, II, XXXV e XXXVI, e 7º, VI, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 110):
+“AÇÃO RESCISÓRIA. ADICIONAL DE PERICULOSIDADE. LEI Nº 7.923/89. Não incidência sobre contrato de trabalho. Violação de dispositivos legais e constitucionais não demonstrada. Reexame necessário e recurso ordinário a que se nega provimento.”
+Sustenta-se no recurso extraordinário que a não-incidência da Lei 7.923/1989 ofendeu os princípios da legalidade, da isonomia e da irredutibilidade dos vencimentos ao passo que a redução do percentual do adicional de periculosidade – de 30% para 7,5% - está prevista em lei, é aplicável a todos os servidores públicos e que a nova fórmula é mais vantajosa, pois houve ampliação da base de cálculo. Além disso, alega-se que a matéria foi devidamente prequestionada.
+É o breve relatório. Decido.
+Destaco o seguinte trecho do acórdão recorrido (fls. 112):
+“De início, afastam-se as violações dos dispositivos constitucionais apontados, vez que o Regional não se manifestou sobre a matéria neles versada. Portanto, aplicáveis os termos do Enunciado 298 do TST para afastar a possibilidade de violação dos artigos 5º, XXXVI e 7º, VI, da Constituição Federal.
+Não restou caracterizada violação do inciso VIII do § 5º do artigo 2º da Lei 7.923/89, pois, é certo que este dispositivo não se aplicava ao contrato de trabalho do então Reclamante, vez que o vínculo entre as partes era regido à época pela Consolidação das Leis do Trabalho, que dispõe expressamente sobre o adicional de periculosidade. Ademais, ao contrário do que entende a Recorrente o dispositivo supracitado não apresenta regra mais benéfica ao empregado, pois reduziu o percentual de 30% para 7,5% e estabeleceu como base de cálculo o vencimento ou o salário (§ 6º do artigo 2º da Lei 7.923/89), mesma base de cálculo prevista no artigo 193, § 1º, da CLT.” (Grifei.)
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Igualmente, impossível chegar a conclusão diversa sem o exame prévio da legislação infraconstitucional. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide, mutatis mutandis, na Súmula 636 desta Corte.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 9 de outubro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
