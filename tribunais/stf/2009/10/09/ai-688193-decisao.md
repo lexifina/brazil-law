@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) em que se alega violação ao art. 5º, XXIV e LVII, da Carta Magna.
+Consta dos autos que o ora agravante foi condenado como incurso no art. 302 da Lei 9.503/1997, à pena de 02 (dois) anos de detenção e suspensão da habilitação pelo prazo de 02 (dois) meses, sendo a pena privativa de liberdade substituída por pena restritiva de direitos.
+Interposto recurso de apelação, a 1ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná negou provimento ao apelo, em acórdão cuja ementa tem o seguinte teor:
+“PROCESSO PENAL. APELAÇÃO. HOMICÍDIO CULPOSO. CONDENAÇÃO. 1. NULIDADE. AUSÊNCIA DE PROPOSTA DE SUSPENSÃO CONDICIONAL DO PROCESSO (ART. 89, L. 9.099/95). INCABÍVEL. PENA MÁXIMA COMINADA EM ABSTRATO DE 4 ANOS. 2. TIPICIDADE DA CONDUTA. RESPONSABILIDADE PENAL. CONDENAÇÃO MANTIDA. 3. PERDÃO JUDICIAL. INEXISTÊNCIA DE SOFRIMENTO MORAL CONSIDERÁVEL. CONDENAÇÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não há que se falar em nulidade do processo pela ausência de oferecimento da suspensão condicional do processo (art. 89, L. 9.099/95), eis que o benefício somente é passível de oferecimento aos crimes de menor potencial ofensivo, em que a pena máxima, em abstrato, não supera 02 (dois) anos. Portanto, incabível ao crime de homicídio culposo, decorrente de acidente de trânsito, cuja pena máxima em abstrato é de 04 (quatro) anos de detenção (art. 302, L. 9.503/97).
+2. Deve ser mantida a condenação do apelante, uma vez comprovada a culpa deste no acidente automobilístico, não podendo subsistir a pretendida absolvição, eis que restou comprovada a tipicidade de sua conduta, que culminou com a morte da vítima.
+3. O perdão judicial deve ser concedido quando as conseqüências da infração atinjam o agente com intensidade tal que a imposição de uma reprimenda se revestiria de total desnecessidade, vindo, até mesmo, a ser desumana, por exacerbar o seu já agudo sofrimento, situação esta, que não restou comprovada nos autos.” (fls. 08-09).
+No recurso extraordinário, alega-se a ausência de provas suficientes para a condenação, pelo que o juiz deveria ter observado o princípio do in dubio pro reo.
+Decido.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende os referidos preceitos, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Ademais, a análise das questões suscitadas nas razões recursais implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Por fim, é firme a orientação do Supremo Tribunal Federal no sentido de que constitui ônus da parte agravante infirmar todos os fundamentos em que se baseou a decisão agravada para negar seguimento ao recurso extraordinário. Confira-se, a título exemplificativo, os seguintes julgados:
+“Agravo regimental em agravo de instrumento. 2. Matéria criminal. Recurso especial. STJ. Pena-base acima do mínimo legal. Art. 59 do CP. Competência da Corte Superior. 3. Ofensa reflexa à CF/88 e ausência de prequestionamento da matéria constitucional (art. 5º, inc. LV). 3. Fundamento inatacado. Art. 317, § 1º, do RISTF. 4. Agravo regimental a que se nega provimento.” (AI 417.058, rel. min. Gilmar Mendes, DJ de 04.04.2003)
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO MONOCRÁTICA. Inviável o agravo regimental quando não são atacados, de forma convincente, cada um dos fundamentos da decisão que obsta o processamento do recurso (art. 317, § 1º, RI/STF).” (AI 540.250, rel. min. Ellen Gracie, DJ de 31.03.2006)
+No mesmo sentido, os seguintes precedentes: AI 488.369 (rel. min. Sepúlveda Pertence, DJ de 02.04.2004), AI 488.975 (rel. min. Gilmar Mendes, DJ de 31.05.2004), AI 482.984 (rel. min. Cezar Peluso, DJ de 20.05.2004) e AI 503.582 (rel. min. Nelson Jobim, DJ de 25.05.2004).
+No presente recurso, o agravante não impugnou a assertiva de ausência de prequestionamento. Disso decorre que o agravante não logrou desincumbir-se do ônus que lhe cabia, conforme exigência do art. 317, § 1º, do RISTF, limitando-se a repetir as razões do recurso extraordinário.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 9 de outubro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
