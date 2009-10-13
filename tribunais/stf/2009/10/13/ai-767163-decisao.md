@@ -1,0 +1,50 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO CONCURSO PÚBLICO. TESTE DE APTIDÃO FÍSICA. NECESSIDADE DO REEXAME DE PROVAS E DA ANÁLISE PRÉVIA DE CLÁUSULAS EDITALÍCIAS. IMPOSSIBILIDADE. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 454 DESTE SUPREMO TRIBUNAL. ALEGADA OFENSA AOS PRINCÍPIOS DA LEGALIDADE, DA AMPLA DEFESA, DO CONTRADITÓRIO, DA EFETIVA PRESTAÇÃO JURISDICIONAL E DA COMPLETA FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS. NECESSIDADE DA ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 636 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. ACÓRDÃO RECORRIDO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O Tribunal de Justiça do Distrito Federal e dos Territórios julgou apelação em ação ordinária, nos termos seguintes:
+“CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. CORPO DE BOMBEIROS MILITAR. CANDIDATA REPROVADA EM TESTE DE APTIDÃO FÍSICA. PREVISÃO EDITALÍCIA. VINCULAÇÃO. OFICIAL MILITAR-CIRURGIÃO DENTISTA. FORÇA AUXILIAR DO EXÉRCITO BRASILEIRO. PRINCÍPIO DA ISONOMIA. PRECEDENTES. SENTENÇA MANTIDA.
+1 – De acordo com o previsto na Constituição Federal e no Estatuto dos Militares, os Corpos de Bombeiros Militares são forças auxiliares do Exército Brasileiro, podendo ser convocados para atuar na defesa da Pátria, em tempos de guerra ou de paz. Tal fato justifica a exigência de rigorosa aptidão física, inclusive dos patenteados das carreiras médico-militares que, de igual modo, se submetem ao regime de convocação previsto em lei.
+2 – Sob enfoque do direito administrativo, o teste de aptidão física é de cunho eliminatório e de caráter geral e impessoal. Se forem expressamente previstos no edital os limites mínimos para aprovação, é legítima a eliminação do candidato que não os atingiu.
+3 – Inadmissível a alegação de violação ao princípio da isonomia, da proporcionalidade ou da razoabilidade, quando candidato pretende obter tratamento diferenciado contra literal disposição expressa em norma interna com a qual se obrigou.
+Precedentes deste Tribunal de Justiça.
+Apelação Cível desprovida” (fl. 393).
+Os embargos declaratórios opostos foram julgados nos seguintes termos:
+“PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. CONTRADIÇÃO. OMISSÃO. AUSÊNCIA DE DEFEITOS NO JULGADO. ATRIBUIÇÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ARESTO MANTIDO.
+1 – ‘Omissão’ é a ausência de abordagem sobre questão debatida nos autos e necessária para a formação do silogismo.
+2 – ‘Contradição’ somente ocorre quando existirem duas ou mais conclusões conflitantes sobre o mesmo tema.
+3 – Os Embargos de Declaração devem subsumir-se a quaisquer das hipóteses previstas no artigo 535 do CPC, não se prestando, assim, a reagitar os argumentos trazidos à baila pelas razões recursais, ou inverter resultado do julgamento, já que restrito a sanar os vícios elencados no dispositivo referido.
+4 – Quando a valoração dos fatos em debate e a interpretação da norma que disciplina a matéria estão em desacordo com os interesses da parte insatisfeita, não há como se cogitar de defeito no julgado.
+Embargos de Declaração rejeitados” (fl. 419).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta.
+4. A Agravante argumenta que:
+“In casu, o Desembargador Presidente inadmitiu o recurso extraordinário com base em fundamento de mérito, vale dizer, sob o argumento de que a Recorrente não faria jus ao direito pleiteado.
+Ocorre que tal expediente somente pode ser levado a efeito pelo Tribunal ‘a quo’ em casos deveras excepcionais, quando a jurisprudência da Suprema Corte esteja pacificada quanto a uma determinada matéria. Aí sim, em face da total e evidente improcedência dos argumentos defendidos no recurso extraordinário, que certamente seria desprovido na Corte Constitucional, poder-se-ia admitir o indeferimento da sua subida na origem.
+Não é esse o caso dos autos. Como restou demonstrado, o Supremo apresenta diversos precedentes favoráveis à pretensão recursal deduzida pela Recorrente, merecendo destaque as questões constitucionais debatidas na hipótese” (fl. 27).
+No recurso extraordinário, alega que o Tribunal a quo teria afrontado os arts. 5º, caput, inc. I, II, XXXV e LV, 37, inc. I e II, e 93, inc. IX, da Constituição.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão de direito não assiste à Agravante.
+O Desembargador Relator consignou em seu voto condutor que:
+“No mérito, padece de razão a Apelante, mostrando-se desnecessários reparos no decisum monocrático.
+(...)
+In casu, apesar de ser submetida a teste de aptidão física, a candidata/Apelante não atendeu aos requisitos exigidos pelo edital para que lograsse aprovação no concurso público pretendido, já que das 18 (dezoito) flexões de braço exigidas, realizou tão-somente 4 (quatro), não cumprindo, dessa forma, o número mínimo de flexões corretas a que fora submetida, como determina o subitem 5.2.8., aliena ‘b’ (fl. 316-v)(...).
+(...)
+Despiciendo, aliás, concluir que o candidato que não atingir o desempenho mínino exigido no teste de flexão do EAF, será considerado inapto e, conseqüentemente, eliminado do certame, não podendo, inclusive, prosseguir nas etapas posteriores, conforme previsão dos subitens 5.2.9 e 5.2.9.1, ainda que tenha logrado êxito em todas elas (fls. 349 e 352).
+(...)
+Impõe-se, assim, a observância ao princípio da vinculação as regras dispostas no Edital nº 09/2006, destinado ao provimento no cargo de Cirurgião Dentista – Área: Odontopediatra do Quadro de Saúde do Corpo de Bombeiro Militar do DF, pois foi neste que a Administração consignou, de forma manifesta, que candidato não aprovado em teste de aptidão física será eliminado automaticamente do certame, sem nenhuma ressalva” (fls. 398, 400-401).
+Conforme se verifica, o Tribunal de origem decidiu com base nos elementos fático-probatórios constantes dos autos e na análise das cláusulas editalícias. Para se concluir de forma diversa, seria necessário o reexame das provas contidas nos autos e do edital do concurso público, já devidamente analisados, o que não viabiliza o processamento do recurso extraordinário. Incidem, na espécie, as Súmulas 279 e 454 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXAME PSICOTÉCNICO. CONCURSO PÚBLICO. NECESSIDADE DE CRITÉRIOS OBJETIVOS. REEXAME DE PROVAS E DE CLÁUSULAS DO EDITAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Supremo Tribunal Federal fixou jurisprudência no sentido de que o exame psicotécnico pode ser estabelecido para concurso público desde que por lei, tendo por base critérios objetivos de reconhecido caráter científico, devendo existir, inclusive, a possibilidade de reexame. Precedentes. 2. Reexame de fatos e provas e de clausulas editalícias. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 473.719-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 1.8.2008 - grifei).
+6. Ressalte-se, também, que a alegada afronta ao art. 5º, inc. II, da Constituição da República encontra óbice na Súmula 636 deste Supremo Tribunal, que dispõe que “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DA LEGALIDADE, DO ATO JURÍDICO PERFEITO E DA COISA JULGADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a alegação de afronta ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta” (AI 684.188-AgR, de minha relatoria, Primeira Turma, DJe 18.9.2009 – grifei).
+7. Anote-se, ainda, que a jurisprudência deste Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa reflexa à Constituição da República.
+Nesse sentido:
+“A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009 - grifei).
+8. Verifica-se, por fim, que não prospera a alegação de nulidade do acórdão recorrido por falta de fundamentação. O Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do Agravante.
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da parte agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 13 de outubro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
