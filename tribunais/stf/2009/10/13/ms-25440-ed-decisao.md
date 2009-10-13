@@ -1,0 +1,39 @@
+Trata-se de embargos de declaração opostos contra decisão que denegou a ordem no mandado de segurança em razão de inexistir prova sobre o exercício do cargo de Professora em período anterior à reintegração decorrente de anistia.
+A embargante sustenta, em suma, omissão quanto: i) à contagem em dobro das licenças não gozadas; ii) à alegada violação ao ato jurídico perfeito consubstanciado na reintegração; iii) à natureza da aposentadoria da impetrante; iv) à irretroatividade da lei; v) ao art. 19 da Lei 10.559/2002; e, vi) à aplicação da Súmula 74 do TCU.
+Houve, ainda, a interposição de agravo regimental contra decisão do Min. Carlos Velloso, então Relator, que indeferiu pedido de adiamento do julgamento do feito (fl. 215).
+No regimental, afirma a agravante que o julgamento deve ser renovado, uma vez que foi violado o seu direito à sustentação oral e que, no mínimo, deveria ter sido publicada nova pauta após o adiamento do julgamento marcado para 7/12/2005.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, observo a existência de um vício processual insanável, a saber, não consta dos autos procuração outorgada ao advogado subscritor do agravo regimental e dos embargos de declaração.
+Ainda que assim não fosse, a sustentação oral não se apresenta como um direito processual da parte. Cuida-se apenas de uma faculdade assegurada pelo Regimento Interno do Supremo Tribunal Federal.
+Ademais, diante da impossibilidade de comparecimento de um defensor, poder-se-ia constituir outro para a realização da sustentação oral.
+Não se apresentam, portanto, motivos para renovação do julgamento.
+Passo à análise dos embargos de declaração.
+Conforme preceitua o art. 535, I e II, do Código de Processo Civil, os embargos de declaração visam sanar omissão, obscuridade ou contradição de decisão judicial. O Acórdão ora embargado não apresenta qualquer desses vícios.
+A análise dos autos demonstra que a decisão examinou de forma adequada a matéria e apreciou, inteiramente, as questões que se apresentavam. As razões de decidir, adotadas por ocasião da prolação da decisão, são suficientes para afastar a pretensão do embargante.
+Com efeito, o acórdão ora impugnado não entendeu que a ora embargante não possui o direito pleiteado, ao contrário, firmou-se no sentido da necessidade de dilação probatória para comprovar o direito da impetrante e, consequentemente, na inadequação do mandado de segurança para satisfazer a sua pretensão.
+É que não consta dos autos, como bem verificado pelo Tribunal de Contas da União, qualquer documento que registre o início do exercício pela impetrante do cargo de Professora na Universidade de Brasília – UnB.
+Assim, não se mostra possível aferir o termo inicial para a contagem do tempo de serviço necessário à concessão de aposentadoria e, ante essa impossibilidade, aferir os períodos aquisitivos das licenças cuja contagem, pretende a ora embargante, em dobro.
+Como se observa, portanto, não se está a questionar a validade do ato que determinou a reintegração aos quadros da Universidade de Brasília da impetrante, não havendo, assim, que falar em ofensa ao ato jurídico perfeito, mas, tão somente, a existência de prova pré-constituída a embasar a pretensão da ora embargante ao deferimento da ordem.
+Isso porque a via judicial eleita pela impetrante não admite, de acordo com pacífica jurisprudência do Supremo Tribunal Federal, dilação probatória para aferir-se a eventual presença do direito líquido e certo.
+Com efeito, esta Corte, em sucessivas decisões, a exemplo daquela proferida no RE 269.464/DF, Rel. Min. Celso de Mello, já assinalou que o direito líquido e certo, capaz de autorizar o ajuizamento do mandado de segurança, “é, tão somente, aquele que concerne a fatos incontroversos, constatáveis de plano, mediante prova literal inequívoca”.
+A pretensão da impetrante, portanto, extrapola os estreitos limites do mandado de segurança, ante a ausência de liquidez e certeza do direito pleiteado. Nesse sentido, como bem lembrou Celso Antônio Bandeira de Mello
+“Considera-se ‘líquido e certo’ o direito, ‘independentemente de sua complexidade’, quando os fatos a que se deva aplicá-lo sejam demonstráveis de ‘plano’; é dizer, quando independam de instrução probatória, sendo comprováveis por documentação acostada quando da impetração da segurança ou, então, requisitada pelo juiz a instâncias do impetrante, se o documento necessário estiver em poder de autoridade que recuse fornecê-lo (art. 5º, parágrafo único, da Lei 1.533)” (MELLO, Celso Antônio Bandeira de. Curso de Direito Administrativo. 10. ed. São Paulo: Malheiros, 1998. p. 145).
+Ressalta-se que a suposta excepcionalidade do caráter da aposentadoria da impetrante não possui o condão de permitir que se dê sem a devida contagem do tempo de serviço para tal fim.
+Verifico, ainda, que a aposentadoria da impetrante não se deu em função de anistia, mas em razão do suposto atendimento aos requisitos para a concessão à professora da aposentadoria especial prevista no art. 40, § 5º, da Constituição Federal.
+Assim, por inexistir documentação probatória sobre o início do exercício da atividade, o acórdão recorrido remeteu a questão às vias ordinárias. Portanto, não é cabível a discussão sobre a natureza indenizatória da aposentadoria decorrente de anistia.
+Por fim, quanto à possibilidade de aplicação, in casu, da Súmula 74 do TCU, observa-se nas informações prestadas pela autoridade coatora (fls. 149-163) que a jurisprudência daquela Corte de Contas excepciona a aplicação da Súmula em casos de aposentadoria especial. Transcrevo:
+“A Súmula TCU nº 74 expressamente exclui a possibilidade de contagem do período de inatividade com vistas a completar o tempo de 35 anos para aposentadoria integral ou a obter qualquer outra vantagem, vedação que indubitavelmente impede sua aplicação no sentido de se conseguir a aposentadoria especial para professores” (fl. 150 – grifos no original).
+Verifico, por outro lado, que a pretensão da embargante de que seja aplicada a Súmula 74 para a transformação da aposentadoria especial em aposentadoria por tempo de serviço não pode ser acolhida por existir óbice intransponível à pretendida transformação.
+É que a jurisprudência desta Corte é no sentido de que, no julgamento da legalidade do ato de concessão de aposentadoria, o Tribunal de Contas da União não pode inovar, modificando o ato sob julgamento. Nesse mesmo sentido, cito, entre outras, as seguintes decisões: MS 25.538-MC/DF, Rel. Min. Cezar Peluso; MS 21.466/DF, Rel. Min. Celso de Mello.
+Por fim, a jurisprudência desta Corte reconhece a competência do Relator para examinar admissibilidade dos embargos declaratórios, mesmo que opostos contra decisão colegiada.
+Nesse sentido, cito, entre outros, os seguintes julgados: ADI 1.138-ED/RJ, Rel. Min. Carlos Britto, MS 22.899-ED/SP, Rel. Min. Eros Grau, AI 414.533-AgR-ED-ED-EDv-AgR-ED/RN, MI 698-AgR-ED/DF e MS 25.893-AgR-ED/DF, de minha relatoria, AI 436.868-AgR-ED/RJ e RE 509.588-ED/SP e Ext 855-ED/CL, Rel. Min. Celso de Mello, AI 609.912-ED/BA, Rel. Min. Cezar Peluso, HC 89.906, Rel. Min. Cármen Lúcia.
+Nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Os embargos de declaração opostos possuem caráter manifestamente protelatório, por refletir inconformismo injustificado da parte com o resultado da causa.
+Isso posto, não conheço o agravo regimental nem os embargos declaratórios (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 13 de outubro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
+1
