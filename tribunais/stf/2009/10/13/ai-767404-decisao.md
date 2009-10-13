@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO E TRABALHISTA. IMPOSTO DE RENDA: INCIDÊNCIA SOBRE GRATIFICAÇÃO PAGA POR LIBERALIDADE DA EMPRESA. 1. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL: DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. 2. NATUREZA DAS PARCELAS PAGAS EM DECORRÊNCIA DA RESCISÃO DO CONTRATO DE TRABALHO: MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 2ª Região:
+“IMPOSTO DE RENDA. INCIDÊNCIA SOBRE GRATIFICAÇÃO PAGA POR LIBERALIDADE DA EMPRESA. NÃO INCIDÊNCIA SOBRE FÉRIAS NÃO GOZADAS E CONVERTIDAS EM ESPÉCIE. INCIDÊNCIA SOBRE DÉCIMO TERCEIRO SALARIO E PARTICIPAÇÃO NOS LUCROS NA EMPRESA.
+1. A quantia paga sob a rubrica “liberalidade compensável” teve por finalidade gratificar financeiramente o impetrante, em razão do contrato de trabalho haver sido rescindido unilateral e injustificadamente pelo empregador. Assim, nos termos do art. 43 do CTN, configura-se o fato gerador do Imposto de Renda sobre a citada verba. O fato de o empregador ter resolvido recompensar a mais o trabalhador pelo período em que este laborou atendendo aos interesses da empresa não afasta a característica de liberalidade do ato, tampouco reveste de indenizatória a verba percebida. Precedentes do STJ.
+2. Não incide imposto de renda sobre as verbas recebidas a título de férias não gozadas, simples ou proporcionais, em virtude do caráter indenizatório desses valores (Súmula nº 125/STJ).
+3. Os valores recebidos a título de 13º salário e aqueles provenientes da participação dos empregados nos lucros da empresa, ainda que em virtude de adesão a programa de demissão incentivada, possuem natureza remuneratória, enquadrando-se no conceito de ‘renda’ previsto no art. 43 do CTN.
+4. Remessa necessária e apelação não providas” (fl. 164).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta.
+4. No recurso extraordinário, o Agravante alega que o Tribunal a quo teria contrariado os arts. 7º, inc. I, 150, inc. II, e 153, inc. III, da Constituição da República e o art. 10, inc. I, do Ato das Disposições Constitucionais Transitórias.
+Argumenta que “não há como deixar de se reconhecer que as verbas pagas ao recorrente por sua ex-empregadora, notadamente a ‘liberalidade compensável’, férias, 13º salário e participação nos lucros, em decorrência de rescisão contratual sem justa causa, tem natureza indenizatória, nos termos do art. 7º, inciso I, da Constituição Federal, devendo ser afastada da espécie o conceito de renda, previsto no artigo 153, I, da CRFB” (fl. 229).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Em preliminar, é de se ressaltar que, apesar de ter sido o Agravante intimado depois de 3.5.2007 e constar do recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso.
+6. O presente agravo não pode ter seguimento.
+7. O Tribunal a quo, ao decidir, analisou a natureza jurídica das verbas pagas ao Agravante, em decorrência de rescisão de contrato de trabalho. Para concluir de forma diversa do acórdão recorrido, seria necessária a análise da legislação trabalhista aplicável à espécie. Assim, a afronta à Constituição da República, se existente, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO DE RENDA DE PESSOAS FÍSICAS. INCIDÊNCIA SOBRE VERBAS RESCISÓRIAS TRABALHISTAS. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO” (AI 671.765-AgR, de minha relatoria, Primeira Turma, DJ 14.8.2009).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA. INCIDÊNCIA. MATÉRIA INFRACONSTITUCIONAL. 1. Para dissentir-se do acórdão impugnado quanto ao caráter da verba percebida --- indenizatória ou remuneratória --- seria necessária a análise da legislação infraconstitucional que disciplina a espécie. Agravo regimental a que se nega provimento”(RE 344.021-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 1º.8.2008).
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, não diverge da jurisprudência do Supremo Tribunal Federal, não havendo, pois, o que prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 13 de outubro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
