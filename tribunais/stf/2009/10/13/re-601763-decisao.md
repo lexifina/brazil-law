@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+“CONSTITUCIONAL. ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. TRANSFORMAÇÃO DO CARGO CC-4 EM CSD PELA LEI COMPLEMENTAR Nº 20/99 COM AS MESMAS ATRIBUIÇÕES E RESPONSABILIDADES DO CARGO ANTERIOR. OBSERVAÇÃO DO PRINCÍPIO DA IGUALDADE. INCORPORAÇÃO DE VANTAGEM COM FULCRO NO ART. 76, INCISO III, DA LEI ORGÂNICA MUNICIPAL E PARÁGRAFO ÚNICO DO ART. 17 DA LEI Nº 4.108/92. PRECEDENTES DESTA CORTE. SENTENÇA MANTIDA EM TODOS OS SEUS TERMOS. CONHECIMENTO E IMPROVIMENTO DO APELO” (fl. 217).
+Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 5º, I, e 40, § 8º, da mesma Carta.
+A pretensão recursal merece acolhida.
+O Plenário do Supremo Tribunal Federal, no julgamento do RE 563.965-RG/RN, Rel. Min. Cármen Lúcia, reconheceu a repercussão geral do tema em debate e confirmou a sua jurisprudência no sentido de que não há direito adquirido à forma de cálculo de remuneração. Salientou, ainda, a legitimidade de lei superveniente que, sem causar decesso remuneratório, desvincule o cálculo da vantagem incorporada dos vencimentos do cargo em comissão ou função de confiança outrora ocupado pelo servidor, passando a quantia a ela correspondente a ser reajustada segundo os critérios das revisões gerais de remuneração do funcionalismo. O acórdão do referido julgado foi assim ementado:
+“DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE. 1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico. 2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, conseqüentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração. 3. Recurso extraordinário ao qual se nega provimento”.
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 526.878-AgR/RN, Rel. Min. Cármen Lúcia; RE 534.773/RN, Rel. Min. Carlos Britto; RE 526.212-AgR/RN, Rel. Min. Sepúlveda Pertence.
+Isso posto, conheço do recurso extraordinário e dou-lhe provimento (CPC, art. 557, § 1º-A). Honorários a serem fixados pelo Juízo de Execução, nos termos da legislação processual.
+Publique-se.
+Brasília, 13 de outubro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
+1
