@@ -1,1 +1,4 @@
 Art. 62. A formação de docentes para atuar na educação básica far-se-á em nível superior, em curso de licenciatura, de graduação plena, em universidades e institutos superiores de educação, admitida, como formação mínima para o exercício do magistério na educação infantil e nas quatro primeiras séries do ensino fundamental, a oferecida em nível médio, na modalidade Normal.
+§ 1º A União, o Distrito Federal, os Estados e os Municípios, em regime de colaboração, deverão promover a formação inicial, a continuada e a capacitação dos profissionais de magistério.
+§ 2º A formação continuada e a capacitação dos profissionais de magistério poderão utilizar recursos e tecnologias de educação a distância.
+§ 3º A formação inicial de profissionais de magistério dará preferência ao ensino presencial, subsidiariamente fazendo uso de recursos e tecnologias de educação a distância.
