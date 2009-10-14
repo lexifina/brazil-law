@@ -48,3 +48,4 @@ II - os ganhos do FI-FGTS e do Fundo de Investimento em Cotas - FIC, de que trat
 § 20. A Comissão de Valores Mobiliários estabelecerá os requisitos para a integralização das cotas referidas no § 19 deste artigo, devendo condicioná-la pelo menos ao atendimento das seguintes exigências:
 I - elaboração e entrega de prospecto ao trabalhador; e
 II - declaração por escrito, individual e específica, pelo trabalhador de sua ciência quanto aos riscos do investimento que está realizando.
+§ 21. As movimentações autorizadas nos incisos V e VI do caput serão estendidas aos contratos de participação de grupo de consórcio para aquisição de imóvel residencial, cujo bem já tenha sido adquirido pelo consorciado, na forma a ser regulamentada pelo Conselho Curador do FGTS.
