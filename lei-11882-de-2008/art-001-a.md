@@ -1,0 +1,2 @@
+Art. 1º-A. Os créditos do Banco Central do Brasil decorrentes de operações de redesconto ou de empréstimo não serão alcançados pela decretação de intervenção, liquidação extrajudicial ou falência da instituição financeira.
+Parágrafo único. Os ativos recebidos pelo Banco Central do Brasil em operações de redesconto ou em garantia de operações de empréstimo não integrarão a massa, nem terão seu pagamento obstado pela suspensão da fluência do prazo das obrigações da instituição sob intervenção.
