@@ -1,0 +1,2 @@
+Art. 2º-B. É facultada a constituição de patrimônio de afetação, para a cobertura de cada projeto beneficiado pelo FGCN, o qual não se comunicará com o restante do patrimônio daquele Fundo, ficando vinculado exclusivamente à garantia da respectiva cobertura, não podendo ser objeto de penhora, arresto, sequestro, busca e apreensão ou qualquer ato de constrição judicial decorrente de outras obrigações do Fundo.
+Parágrafo único. A constituição do patrimônio de afetação será feita por registro em cartório de registro de títulos e documentos.

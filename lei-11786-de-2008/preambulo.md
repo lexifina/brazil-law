@@ -1,0 +1,2 @@
+Autoriza a União a participar em Fundo de Garantia para a Construção Naval - FGCN para a formação de seu patrimônio; altera as Leis nos 9.365, de 16 de dezembro de 1996, 5.662, de 21 de junho de 1971, 9.019, de 30 de março de 1995, 11.529, de 22 de outubro de 2007, 6.704, de 26 de outubro de 1979, e 9.818, de 23 de agosto de 1999; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
