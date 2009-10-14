@@ -12,3 +12,4 @@ II - 60 (sessenta) prestações mensais e consecutivas, se relativos às contrib
 § 10. Para o início do pagamento dos débitos referidos no caput deste artigo, os Municípios terão uma carência de:
 I - 6 (seis) meses para aqueles que possuem até 50.000 (cinquenta mil) habitantes, contados da data a que se refere o § 6º;
 II - 3 (três) meses para aqueles que possuem mais de 50.000 (cinquenta mil) habitantes, contados da data a que se refere o § 6º.
+§ 11. Os Municípios que não conseguirem optar pelo parcelamento no prazo estipulado pelo § 6º terão um novo prazo para adesão que se encerrará no dia 30 de novembro de 2009.
