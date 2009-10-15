@@ -1,0 +1,27 @@
+DECISÃO : Trata-se de reclamação, com pedido de medida liminar, ajuizada pela União contra decisão liminar proferida pelo Juízo da 5ª Vara Federal da Seção Judiciária do Rio Grande do Norte, nos autos do Processo 2009.84.00.005374-5, por violação da autoridade da Súmula Vinculante 08.
+Narra a reclamante ter o interessado Município de Jucurutu/RN ajuizado ação ordinária com o objetivo de reconhecer a inexistência de relação jurídica tributária relativa aos débitos anteriores a cinco anos da data em que celebrado parcelamento administrativo com a Receita Federal do Brasil – RFB, de modo a afastar a retenção do repasse de cotas do Fundo de Participação dos Municípios.
+Segundo entende a reclamante, ao conceder tutela antecipada, a autoridade-reclamada violou o sentido da Súmula Vinculante 08, na medida em que deixou de aplicar efeitos meramente prospectivos à declaração de inconstitucionalidade dos arts. 45 e 46 da Lei 8.212/1991.
+Para firmar o fumus boni juris, diz que a modulação temporal dos efeitos da decisão que reconheceu a inconstitucionalidade dos mencionados textos legais foi afrontada de modo inequívoco.
+Quanto ao periculum in mora, argumenta temer pelo risco de irreversibilidade do provimento e pelos prejuízos advindos ao Erário.
+Ante o exposto, pede-se a concessão de medida liminar, para suspender os efeitos da decisão reclamada. No mérito, pede-se a cassação do ato.
+É o relatório.
+Decido o pedido de medida liminar.
+Sem prejuízo de novo exame por ocasião do julgamento final, considero presentes os requisitos que ensejam a concessão da medida liminar pleiteada.
+Conforme registra a reclamante, por ocasião do julgamento dos leading cases que deram origem à Súmula Vinculante 08, esta Corte modulou no tempo os efeitos da declaração de inconstitucionalidade dos arts. 45 e 46 da Lei 8.212/1991.
+Registro, por oportuno, o seguinte trecho do voto do Ministro Gilmar Mendes, relator do RE 556.664:
+“Estou acolhendo parcialmente o pedido de modulação de efeitos, tendo em vista a repercussão e a insegurança jurídica que se pode ter na hipótese; mas estou tentando delimitar esse quadro de modo a afastar a possibilidade de repetição de indébito de valores recolhidos nestas condições, com exceção das ações propostas antes da conclusão do julgamento.
+Nesse sentido, eu diria que o Fisco está impedido, fora dos prazos de decadência e prescrição previstos no CTN, de exigir as contribuições da seguridade social. No entanto, os valores já recolhidos nestas condições, seja administrativamente, seja por execução fiscal, não devem ser devolvidos ao contribuinte, salvo se ajuizada a ação antes da conclusão do presente julgamento.
+Em outras palavras, são legítimos os recolhimentos efetuados nos prazos previstos nos arts. 45 e 46 e não impugnados antes da conclusão deste julgamento.” (grifei).
+Nos termos do voto do Ministro Gilmar Mendes, relator do RE 556.664, a declaração de inconstitucionalidade dos arts. 45 e 46 da Lei 8.212/1991 por esta Corte não justifica a repetição de indébito tributário para as ações ajuizadas após a conclusão do julgamento. Obviamente, a restrição atinge a pretensão de restituição dos créditos tributários cujos valores foram recolhidos em prazo superior a cinco anos, contados da data do pagamento indevido, nos termos do Código Tributário Nacional.
+Ao menos neste momento de juízo inicial, próprio dos provimentos de urgência, é adequado reconhecer que a restrição apenas se aplica aos pedidos de devolução do que foi recolhido indevidamente. Se não houve constituição do crédito tributário, a Fazenda não pode lançar no prazo de dez anos previsto no art. 45. Se houve o lançamento, mas não houve a cobrança do crédito, a Fazenda não pode ajuizar ação de execução fiscal no prazo de dez anos, previsto no art. 46 da Lei 8.212/1991. Em ambas as hipóteses, a vedação se aplica independentemente da impugnação administrativa ou judicial eventualmente feita pelo sujeito passivo.
+No caso em exame, a decisão reclamada determinou a revisão de parcelamento, para “alocar as parcelas já quitadas para o pagamento das contribuições previdenciárias vencidas nos cinco anos que antecederam o parcelamento administrativo [...]” (Fls. 149 do apenso).
+Ora, parcelamento não é hipótese de extinção ou de exclusão do crédito tributário (arts. 156 e 175 do CTN), mas de suspensão de sua exigibilidade (art. 151, VI do CTN). O recolhimento de quantias no curso do parcelamento equivale a pagamento. Ao determinar a alocação de valores já recolhidos para pagamento de créditos atingidos pela decadência ou pela prescrição, é plausível assumir que a decisão reclamada (i) reconheceu a existência de indébito tributário e (ii) obrigou sua restituição. Assim, a decisão reclamada contrariou a orientação fixada na Súmula Vinculante 08, ao obrigar a restituição de pretensos indébitos tributários no curso de ação ajuizada após a sessão de julgamento dos leading cases.
+Ante o exposto, e reservando-me novo exame por ocasião da sobrevinda das informações e da manifestação do Ministério Público Federal, concedo a medida liminar pleiteada, para suspender a eficácia da decisão que antecipou a tutela pedida no Processo 2009.84.00.005374-5.
+Solicitem-se informações à autoridade reclamada, que devem ser prestadas no prazo de dez dias.
+Recebidas as informações, ou certificado o transcurso do prazo para tanto, abra-se vista dos autos ao procurador-geral da República.
+Comunique-se.
+Publique-se.
+Brasília, 15 de outubro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
