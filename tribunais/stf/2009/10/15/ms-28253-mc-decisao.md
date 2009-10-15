@@ -1,0 +1,24 @@
+1.  O Estado de Pernambuco e o Tribunal de Justiça do Estado de Pernambuco impetram o presente mandado de segurança contra ato do Exmo. Sr. Presidente do Conselho Nacional de Justiça, consubstanciado na decisão proferida na Reclamação para Garantia das Decisões n. 2009.10.00001659-5 , e identifica, como litisconsortes, a Associação dos Magistrados do Estado de Pernambuco – AMEPE – e o Exmo. Sr. Juiz de Direito, Dr. Pierre Souto Maior Amorim.
+ Com vistas a questionar o Provimento n. 4/2008 do Conselho de Magistratura do Tribunal de Justiça do Estado de Pernambuco, o qual regulamentava os afastamentos dos magistrados naquele Estado ao expediente forense, sobreveio, através do Conselho Nacional da Justiça, o procedimentos de controle administrativos n.s 2008.10.00002718-7 e 2008.10.00.0003325-4. Naquela ocasião, firmou-se termo de conciliação (fls. 96-98), resultando na edição do Provimento n. 4/2009, em que se permite o afastamento do magistrado, desde que mediante prévia e fundamentada comunicação ao Conselho da Magistratura.
+ Nesse contexto, insurgem-se os impetrantes contra a decisão proferida pelo Plenário do CNJ que declarou nulo o ato colegiado do Conselho da Magistratura do TJ/PE (fls. 105-108), ao afastar-lhe o fundamento de não estar devidamente justificada a ausência do magistrado Pierre Souto Maior de Amorim (fl. 04), comunicada por intermédio de Ofício em que indicava, como fundamento para sua ausência, a participação em reunião desenvolvida pela Diretoria da AMEPE.
+Os impetrantes sustentam, em síntese, ofensa aos ao art. 35, VI, da LOMAN c/c o art. 96, inc. I, alíneas a e b, da Constituição Federal, porquanto evidenciado ilícito disciplinar consubstanciado na não observância do dever do magistrado em não se ausentar injustificadamente ao expediente forense (fls. 05-10)
+Requerem o restabelecimento de sua competência correcional, mediante a concessão de medida liminar apta a suspender os efeitos da decisão proferida na Reclamação para Garantia das Decisões n. 2009.10.00.003325-4, permitindo que os fatos envolvendo a ausência ao expediente forense do juiz Pierre Souto Maior sejam devidamente investigados pela Corregedoria-Geral do Tribunal de Justiça do Estado de Pernambuco (fls. 11-12)
+2.  Notificada, a União requer seu ingresso no presente feito (fl. 85).
+3.  Requisitaram-se informações nos autos do Processo n. 2009.10. 00003325-4 , que foram devidamente prestadas pelo Presidente do Conselho Nacional de Justiça, Ministro Gilmar Mendes (fls. 88-95).
+4 .  Passo a apreciar, tão-somente, o pedido de medida liminar.
+ N uma análise superficial, tenho que a fumaça do bom direito não se encontra evidenciada, diante da densidade jurídica das informações prestadas pelo CNJ, dos quais destaco excerto da fundamentação do acórdão proferido nos autos da Reclamação para Garantia das Decisões   n. 2009.10. 00003325-4, que bem estabeleceu a dimensão do tema :
+“(...)
+Como adequadamente indica o Provimento n. 4/2008, já com a redação emprestada pelo Provimento n. 4/2009, expedido para adaptação da norma aos termos do acordo homologado no CNJ, serão injustificadas as ausências não requeridas ou não comunicadas (...). A contrário sensu, as ausências requeridas ou comunicadas traduzirão, em princípio, ausências justificadas, salvo se vier a ser constatada pela Corregedoria o exagero de ausências ou a irrelevância ou a falsidade do motivo alegado nas comunicações (...).
+Portanto, equivocou-se o TJ/PE ao indicar a ausência de justificativa. Ademais, escapole dos limites de atuação do Tribunal enveredar em saber se era, ou não, importante a presença o magistrado na dita reunião.
+(...)
+Em suma, o ato administrativo fundou-se na ausência de justificativa. Ocorre que ela foi dada, objetivamente. Não se trata de aniquilar a competência de controle dos órgãos locais, mas adequá-los aos parâmetros de jurisdicidade delineados na conciliação celebrada. Em homenagem ao princípio dos motivos determinantes, tal equivoco fulmina o ato praticado. Declaro-o nulo.
+(...)” (fls. 107-108).
+ Assim, em juízo prefacial, a mim me parece, não existirem, no presente caso, elementos que permitam aferir a apontada negativa de vigência à legislação federal, mormente violação ao exercício, pelo Conselho de Magistratura daquela unidade federada, à atividade administrativa correcional , nos termos   do art. 35, VI, da LOMAN c/c o art. 96, inc. I, alíneas a e b, da Constituição Federal.
+ Finalmente, também em juízo prefacial, não vislumbro, na espécie, o alegado comprometimento ao funcionamento dos serviços do egrégio Tribunal de Justiça do Estado de Pernambuco , tendo em vista a ausência de irr eversibilidade do ato impugnado .
+5 .  Ante o exposto, indefiro a liminar.
+6 .  Abra-se vista à Procuradoria-Geral da República (RISTF, art. 52, IX).
+Publique-se.
+Brasília, 15 de outubro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
