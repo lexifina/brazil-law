@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSO – AÇÃO PENAL – PRERROGATIVA DE FORO – INSUBSISTÊNCIA DE DENÚNCIA E DE ATO A RECEBENDO.
+INQUÉRITO – DILIGÊNCIA – DEFERIMENTO.
+1.  A Assessoria assim retratou as balizas destes autos:
+O procedimento investigatório foi instaurado para apurar se o Deputado Federal Edmar Batista Moreira e Júlia Fernandes Moreira, na condição de sócios administradores da Ronda Empresa de Segurança e Vigilância Ltda., praticaram crime contra a ordem tributária (folha 3 a 5). A Secretaria da Receita Federal formalizou a Representação Fiscal para Fins Penais nº 19515.001531/2008-11 em face da referida empresa, originando o Procedimento Administrativo nº 19515.001528/2008-90 (folha 10 a 12). A contribuinte teria deixado de recolher, na forma e no prazo legal, os valores do Imposto de Renda Retido na Fonte sobre rendimentos de salários e de aluguéis pagos a diversas pessoas naturais no ano-calendário de 2005, totalizando o valor de R$ 244.792,42 (duzentos e quarenta e quatro mil, setecentos e noventa e dois reais e quarenta e dois centavos).
+O Ministério Público Federal ofereceu denúncia contra Edmar Batista Moreira e Júlia Fernandes Moreira, em 5 de dezembro de 2008, imputando-lhes a prática do crime previsto no artigo 2º, inciso II, da Lei nº 8.137/90 (Crime contra a Ordem Tributária – Sonegação de Tributo). O Juízo da 8ª Vara Federal Criminal da 1ª Subseção Judiciária de São Paulo, em 15 de dezembro de 2008, recebeu a denúncia (folha 78). Ante o fato de o indiciado Edmar Batista Moreira estar investido no mandato de Deputado Federal, o Juiz Federal declinou da competência para o Supremo (folha 94).
+Vindo a esta Corte, os autos foram remetidos à Procuradoria Geral da República. Consoante afirma na manifestação de folha 102 a 104, a denúncia foi oferecida por órgão que não detinha a atribuição e recebida por Juízo incompetente, porquanto a diplomação do indiciado Edmar Batista Moreira ocorreu em 19 de dezembro de 2006. Além disso, diante da data de formalização da representação fiscal - 6 de maio de 2008 -, faz-se necessária a juntada de informações atualizadas sobre o crédito fiscal, para atender ao disposto no artigo 9º, § 2º, da Lei nº 10.684/03. Requer a realização das diligências a seguir indicadas (folhas 103 e 104):
+a) expedição de ofício à JUCESP para que remeta cópia do contrato social e alterações da pessoa jurídica RONDA EMPRESA DE SEGURANÇA E VIGILÂNCIA LTDA., CNPJ 52.904.521/0001-77;
+b) expedição de ofício à Secretaria da Receita Federal do Brasil para que preste informações atualizadas sobre o crédito tributário apurado no auto de infração contido no Processo Administrativo nº 19.515.001528/2008-90;
+c) oitiva de JÚLIA FERNANDES MOREIRA, sócia de RONDA EMPRESA DE SEGURANÇA E VIGILÂNCIA LTDA., acerca de suas atribuições na administração da empresa;
+d) oitiva, a convite, do Deputado Federal EDMAR BATISTA MOREIRA, acerca de suas atribuições na administração da sociedade RONDA EMPRESA DE SEGURANÇA E VIGILÂNCIA LTDA.
+2.  Conforme ressaltado pelo Procurador-Geral da República, surgem insubsistentes a denúncia apresentada e o recebimento respectivo ante o fato de, à época em que formalizados os atos, já contar o envolvido Edmar Batista Moreira com a qualidade de Deputado Federal.
+ No mais, hão de ser implementadas as diligências objetivando o esclarecimento dos fatos. Defiro o que requerido pelo Procurador-Geral da República nos itens “a” a “d” acima transcritos.
+3.  Providenciem, inclusive baixando os autos à Polícia Federal para as audições pretendidas.
+4.  Publiquem.
+Brasília – residência –, 19 de outubro de 2009, às 15h10.
+Ministro MARCO AURÉLIO
+Relator
