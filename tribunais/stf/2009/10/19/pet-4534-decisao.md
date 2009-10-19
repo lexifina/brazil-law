@@ -1,0 +1,16 @@
+DECISÃO
+AÇÃO PENAL – BEM IMÓVEL – INDISPONIBILIDADE – LEI Nº 8.429/92 – PROMITENTE COMPRADOR – AUSÊNCIA DE DOCUMENTAÇÃO NO REGISTRO DE IMÓVEIS – LIBERAÇÃO – INDEFERIMENTO.
+1.  A Assessoria assim retratou o pedido formulado pelo cidadão Tércio José de Araújo:
+O requerente busca obter alvará judicial para autorizar a transferência da propriedade do imóvel onde reside, o qual teria sido adquirido mediante compromisso particular de compra e venda, firmado em 17 de maio de 1997 (folhas 8 e 9). O bem foi declarado indisponível, em 19 de maio de 2000, pelo Juízo de Direito da Comarca de Itaruma/MG, em inquérito policial instaurado para investigar possível delito cometido por Francisco Antônio de Freitas Neto (folha 12), promitente vendedor no instrumento negocial e proprietário do bem perante o registro de imóveis (folhas 10 e 11), que já havia formulado idêntico pedido, indeferido pelo Juízo (folhas 13 e 14).
+Alega ser terceiro de boa-fé, porquanto teria adquirido o imóvel antes da constrição. Diz da possibilidade de prejuízo, levando em conta os valores pagos a título de entrada e de prestações relativas ao saldo devedor da hipoteca do imóvel na Caixa Econômica Federal.
+O Juízo, ao declinar da competência em favor do Supremo, ante a eleição do réu Aelton José Freitas ao Senado Federal (folha 15), determinou a remessa do processo à Corte - Ação Penal nº 341/MG, da relatoria de Vossa Excelência -, com denúncia recebida. O agravo de instrumento interposto contra a decisão veio a ser desprovido (folha 70 a 75).
+Distribuído por dependência à Ação Penal nº 341/MG (folha 79), o processo foi remetido ao Ministério Público (folha 101). O Procurador-Geral da República, às folhas 104 e 105, opina pelo indeferimento do pedido formulado, presente a ausência de transcrição, no Registro de Imóveis, a teor dos artigos 1.227 do Código Civil e 167, inciso II, item 3, da Lei nº 6.015/73, da transferência do bem, ato necessário para gerar efeitos em relação a terceiros, no caso, o Poder Público.
+O processo está concluso para o exame do pedido de expedição de alvará judicial.
+A Ação Penal nº 341/MG encontra-se na Procuradoria Geral da República.
+2.  Consoante ressaltado pelo Procurador-Geral da República, a indisponibilidade se fez considerada a Lei nº 8.429/92 e a matrícula do imóvel. Muito embora o pronunciamento judicial de constrição tenha sido averbado em 22 de maio de 2000 e a promessa de compra e venda firmada pelo requerente Francisco Antônio de Freitas Neto date de 17 de maio de 1997, vê-se que não houve a averbação no registro de imóveis, deixando, assim, de gerar efeitos quanto a terceiros. Por ora, não cabe a liberação pretendida e que, conforme pedido formalizado no item 12 da inicial, visa a regularizar a legítima compra junto ao ofício de imóveis e a credora hipotecária Caixa Econômica Federal.
+3.  Sem prejuízo do exame da questão quando do julgamento da ação penal, indefiro o pedido formulado, tal como procedera o Juízo quanto ao requerimento formalizado pelo vendedor Francisco de Freitas Neto.
+4.  Anexem esta petição ao processo da ação penal a que diz respeito – Ação Penal nº 341/MG - tão logo retorne da Procuradoria Geral da República.
+5.  Publiquem.
+Brasília – residência –, 19 de outubro de 2009, às 14h30.
+Ministro MARCO AURÉLIO
+Relator
