@@ -1,0 +1,18 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão do TRF da 3ª Região no qual se discute controvérsia relativa à averbação do tempo de trabalho em atividades especiais para fins de aposentadoria, referente aos períodos anterior e posterior à vigência da Lei 8.112/90 (RJU).
+2.  O recurso, entretanto, não merece prosperar. Verifico que não foi atacado de forma convincente um dos fundamentos da decisão agravada, cujo teor destaco:
+“Com efeito, a recorrente limita-se a sustentar a inadequação da via do mandado de segurança para os casos em que o direito invocado exige dilação probatória, e discorre vagamente sobre o mérito da ação, consustanciando seu inconformismo em fundamentação expendida de forma desordenada, não logrando infirmar as razões de decidir contidas na decisão vergastada.
+Aplicável ao caso, portanto, a Súmula 284 do STF, que dispõe: “É inadmissível o Recurso Extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia” (fl. 92).”
+3.  A parte recorrente, na petição do recurso de agravo, assim se reportou a tal fundamento:
+“O r. despacho de fls. 347 e seguintes entendeu pela inadmissibilidade do recurso extraordinário interposto com relação aos pontos relativos à impropriedade da via eleita (ação mandamental) para o pleito, bem como à ausência de direito líquido e certo de plano comprovada e à necessidade ausência de prova pericial, ao argumento de que o reexame de tais pontos implicaria revolvimento de matéria fática.
+Permissa vênia, mesmo sem revolver a matéria fática, verifica-se que os Recorridos não fazem jus à via mandamental eleita, e, muito menos, à segurança concedida, já que o direito líquido e certo não foi demonstrado de plano, na forma exigida pelo artigo 5º, inciso LXIX, CF e artigo 1º, da Lei 1.533/52, restando, assim, caracterizada a falta de interesse processual, pela inadequação da via, segundo o binômio necessidade-adequação, na forma do artigo 267, inciso VI CPC, justamente pela inadequação da via eleita – mandado de segurança para veicular a natureza do pedido concernente à averbação de tempo de trabalho prestado sob condição insalubre ou perigosa, posto que apenas medidante prova pericial, produzida em ação de cognição plena, poderia ser inequivocamente verificada condição especial no local de trabalho.
+Contudo, ainda que assim se entenda, o que se admite “ad argumentadum tantum” insiste-se no recurso interposto ao menos no ponto relativo à contrariedade do v. acórdão recorrido aos termos do artigo 40, parágrafo 4º CF” (fl. 09).
+A parte recorrente não logrou, portanto, afastar a incidência da Súmula STF 284, apenas insistindo na inadequação da via eleita.
+ Veja-se o AI 540.250-AgR/SP, de minha relatoria, 2ª Turma, unânime, DJ 31.03.2006, cujo acórdão está assim ementado:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO MONOCRÁTICA . Inviável o agravo regimental quando não são atacados, de forma convincente, cada um dos fundamentos da decisão que obsta o processamento do recurso (art. 317, § 1º, RI/STF).”
+Nesse mesmo sentido, AI 542.004-AgR/SP, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 17.03.2006; AI 549.854-AgR/SP, rel. Min. Eros Grau, 1ª Turma, unânime, DJ 07.04.2006; AI 708.309/RS, rel. Min. Joaquim Barbosa, DJe 03.08.2009; e AI 179.541/SC, rel. Min. Sepúlveda Pertence, DJ 29.11.2004.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 20 de outubro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
