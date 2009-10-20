@@ -1,0 +1,38 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PROGRESSÃO HORIZONTAL. NECESSIDADE DA INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido teve como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“SERVIDOR TJMG - REPOSICIONAMENTO QUANDO DETENTOR DE MERA FUNÇÃO PÚBLICA - IMPOSSIBILIDADE - RESOLUÇÃO 367/2001, LEI 10.961/92 E DECRETO 36.033/94. O reposicionamento somente é assegurado ao servidor público no exercício efetivo do cargo, não lhe sendo assegurado esse direito enquanto detentor de função pública, mormente quando a lei assim o especifica” (fl. 37).
+2. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento da matéria constitucional e a incidência na espécie das Súmulas 280 e 636 deste Supremo Tribunal Federal (fls. 101-102).
+3. O Agravante alega que teriam sido contrariados os art. 5º, inc. II, 37, caput e § 6º, da Constituição da República.
+Argumenta que “o Agravado, através de seu agente público do TJMG, contrariou o princípio constitucional da legalidade administrativa ao não conceder (...) desde a data de sua posse (1º.8.2003), o seu direito ao reposicionamento na carreira com o acréscimo de um padrão de vencimento (PJ), vez que não atuou nos parâmetros determinados pela Lei e pela Resolução do TJMG, agindo contra legem, contra o disposto no art. 1º da Lei Estadual n. 13.467/2000 c/c os art. 19 e 20 da Resolução TJMG n. 367/2001, os quais asseguram referido benefício na carreira àqueles detentores de função pública, que passaram após a aprovação em concurso público, para um cargo de provimento efetivo e, comprovaram, na data da posse no novo cargo, interstício mínimo de 1095 (mil e noventa e cinco) dias de efetivo exercício no cargo anterior a título precário” (fl. 6).
+Sustenta, ainda, que “arcou com o efeito danoso produzido pelo agente administrativo do Estado de Minas Gerais que, através de um ato desrespeitoso ao princípio constitucional administrativo da legalidade, extirpou o [seu] direito em ser reposicionado na carreira com acréscimo de um padrão de vencimento (PJ) desde a data de sua posse, ocorrida em 1º.8.2003. (...) Eis, então, Exa., configurado o nexo de causalidade entre a conduta do agente público e o prejuízo que esta ocasionou” (fl. 7).
+Apreciada a matéria trazida na espécie, DECIDO.
+4. Razão jurídica não assiste ao Agravante.
+5. Em preliminar, é de se destacar que, apesar de ter sido o Agravante intimado depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso.
+6. Cumpre anotar que a matéria constitucional suscitada no recurso extraordinário foi objeto de debate e decisão prévios no Tribunal de origem.
+A jurisprudência do Supremo Tribunal firmou-se no sentido de que o requisito do prequestionamento não exige a menção expressa do dispositivo constitucional em exame. É suficiente que o Tribunal a quo examine a questão constitucional objeto do recurso extraordinário. Nesse sentido: RE 469.054-AgR, de minha relatoria, Primeira Turma, DJ 2.2.2007.
+Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão do Agravante.
+7. O Tribunal a quo assentou que:
+“A Portaria nº 05/2000 designou o ora apelante para exercer o cargo de agente judiciário a título precário em 05.07.2000, conforme documento de f. 29.
+Ocorre que, posteriormente, em virtude de aprovação em concurso público, o apelante passou a exercer o cargo de Oficial de Apoio Judiciário D, em 1º de agosto de 2003.
+A progressão horizontal é a ascensão do servidor efetivo dentro do mesmo cargo da carreira, por meio de vantagens financeiras acrescidas aos seus vencimentos desde que respeitados os requisitos legais para tanto.
+(...) conclui-se que somente após a efetivação do servidor é que este terá direito de ingresso ao plano de carreira, não tendo este direito enquanto mero detentor de função pública.
+(...)
+Verifica-se que esta lei [Lei 11.617/94] não menciona a necessidade de efetivo serviço no cargo, porém, tal exigência se encontra presente na Resolução 367/2001 do TJMG supra mencionada, bem como na Lei 10.961/92.
+(...)
+O Decreto 36.033/94 confirmou o disposto pela Lei 10.961/92 ao estabelecer a exigência de efetivo exercício no cargo para concessão da progressão, em nada o contrariando.
+Dessa forma, como o servidor somente passou a exercer efetivo exercício no cargo quando de sua aprovação no concurso público, não faz jus à concessão do reposicionamento no período em que era detentor de função pública” (fls. 39-44).
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria a análise prévia de legislação local aplicável à espécie (Leis estaduais ns. 10.961/92 e 11.617/94, Resolução 367/2001 e Decreto 36.033/94). Assim, a alegada contrariedade à Constituição, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 deste Supremo Tribunal Federal.
+Nesse sentido, os julgados seguintes:
+“AGRAVO REGIMENTAL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VENCIMENTOS. DECRETOS ESTADUAIS 36.033/1994 E 36.829/1995. INTERPRETAÇÃO DE DIREITO LOCAL. ÓBICE DA SÚMULA 280 DO STF. O Tribunal a quo decidiu a questão em debate com base na interpretação dada aos Decretos estaduais 36.033/1994 e 36.585/1994. Assim, para se chegar a conclusão diversa, seria necessária a análise de normas locais, o que não é permitido em recurso extraordinário, à luz da Súmula 280 desta Corte. Agravo regimental a que se nega provimento” (AI 559.401-AgR, Rel. Min. Joaquim Barbosa, DJe 6.3.2009).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROMOÇÃO. LEI ESTADUAL N. 7.109/77. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 715.389-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+8. Ademais, a alegada afronta ao art. 5º, inc. II, da Constituição da República encontra óbice na Súmula 636 deste Supremo Tribunal, que dispõe que “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+Nada há a prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 20 de outubro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
