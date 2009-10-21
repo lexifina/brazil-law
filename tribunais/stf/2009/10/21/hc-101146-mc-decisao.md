@@ -1,0 +1,32 @@
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido de medida liminar, impetrado pelo Ministério Público Militar em favor de LEONARDO MACHADO DE MATOS, contra acórdão proferido pelo Superior Tribunal Militar que cassou liminar concedida no HC 2009.01.034703-8 e restabeleceu a custódia do paciente.
+A inicial narra que, em 6/5/2009, “durante o acampamento do período básico promovido pelo 63º BI”, o paciente foi preso em flagrante pela prática, em tese, do delito de recusa de obediência, uma vez que evadiu-se da área do acampamento, contrariando ordem direta do Comandante da Unidade Militar.
+Assevera o impetrante que, por ocasião da sessão de qualificação e interrogatório do acusado, deliberou-se por sua submissão a incidente de sanidade mental, bem como comutou-se a prisão preventiva por “menagem em quartel”.
+Destaca que, contudo, em 8/6/2009, o paciente “evadiu-se do aquartelamento, sob alegação de que havia recebido instruções do líder espiritual da seita ‘O Caminho da Graça’, para deslocar-se a Brasília/DF, sede da citada seita, a fim de iniciar a ‘pregação do evangelho’” (fl. 8). Segundo a impetrante, essa fuga teria motivado o estabelecimento da prisão preventiva.
+O impetrante afirma que o paciente é portador de doenças mentais diagnosticadas por dois Oficiais Médicos peritos, nomeados pela autoridade judicial competente.
+Aduz, que, em 7/10/2009, LEONARDO MACHADO DE MATOS foi submetido à inspeção de saúde para ser verificada sua capacidade física e mental a fim de prosseguir no serviço militar ativo, tendo sido diagnosticadas doenças preexistentes à data de sua incorporação. Diz, mais, que, em consequência, o Comandante do 63º BI comunicou ao Ministério Público Militar que o paciente seria desincorporado das fileiras do Exército e que, a partir daquela data, permaneceria em seu domicílio aguardando o trâmite administrativo.
+Afirma que o Ministro Flávio Flores da Cunha Bierrenbach, do Superior Tribunal Militar, concedeu liminar ao paciente para proporcionar-lhe o direito de apelar em liberdade.
+Ressalta que, no entanto, o STM, ao julgar o mérito do habeas corpus denegou a ordem requerida e cassou a liminar concedida para restabelecer a custódia de LEONARDO MACHADO DE MATOS, sendo que este já estaria preso em regime fechado.
+Prossegue a inicial detalhando e afirmando que, ante o contexto fático-clínico, o impetrante, Ministério Público Militar, requereu a absolvição de LEONARDO MACHADO DE MATOS, uma vez que se verificou significativa dúvida acerca da presença do dolo e da capacidade de autocontrole do paciente.
+Alega que falta justa causa e fundamentação para negar ao paciente o direito de aguardar o julgamento da ação penal em liberdade, ao argumento de que o restabelecimento da prisão cautelar ocorreu antes de ser juntado aos autos o laudo de exame de sanidade mental, no qual foi diagnosticado transtornos mentais e comportamentais devido ao uso de canabbis, transtorno psicótico agudo e transitório e transtorno de personalidade não especificado.
+Destaca que os peritos médicos sugeriram que “mantê-lo sob serviço militar seria um teste quanto à sua capacidade psíquica de resiliência, podendo desencadear quadros permanentes de transtornos psiquiátricos” (fl. 16).
+Argumenta que esse novo contexto fático não foi avaliado e que, portanto, não há fundamento suficiente a justificar a segregação cautelar.
+Cita precedentes do Supremo Tribunal Federal e do Superior Tribunal Militar para corroborar a tese suscitada no writ.
+Registra que o paciente está preso há mais de cinco meses, restando pouco mais de sete meses para o cumprimento integral da pena que seria imposta.
+Insiste no argumento de que o acusado não possui condições físicas e mentais para prosseguir no serviço militar, e que sua manutenção no cárcere compromete a saúde mental, decorrendo daí a necessidade de se lhe reconhecer o direito de apelar em liberdade ou a possibilidade de seu recolhimento à prisão domiciliar. Nestes termos, pede a concessão de medida liminar, e, no mérito, sua confirmação.
+É o breve relatório. Decido.
+Bem examinados os autos, tenho que o caso é de concessão da liminar.
+No juízo que se faz possível nessa análise perfunctória do caso, entendo que se mostra desproporcional a prisão cautelar do paciente, haja vista o tempo em que se encontra segregado e a pena que lhe foi imposta, ou seja, um ano de detenção (fl. 91). É dizer, já houve o cumprimento de quase metade da pena imposta, sem que tenha, no caso, direito à eventual progressão de regime prisional.
+É de se levar em consideração, também, a existência de laudo médico que atesta ser o paciente acometido por transtornos mentais preexistentes à época do fato delituoso, conforme consignado no ofício assinado pelo Comandante do 63º Batalhão de Infantaria (fls. 99-101).
+Impende ressaltar, ainda, que o Plenário desta Corte, na Sessão de 5/2/2009, ao julgar o HC 84.078/MG, Rel. Min. Eros Grau, firmou orientação no sentido de que ofende o princípio da não culpabilidade a execução da pena privativa de liberdade antes do trânsito em julgado da sentença condenatória, ressalvada a hipótese de prisão cautelar do réu, desde que presentes os requisitos autorizadores previstos no art. 312 do Código de Processo Penal (Informativo/STF 534).
+Este Tribunal decidiu rever o entendimento até então adotado, no sentido de que não haveria óbice à execução da sentença quando pendentes apenas recursos sem efeito suspensivo.
+Esclareceu a Corte que os preceitos veiculados pela Lei de Execuções Penais (arts. 105, 147 e 164) estão em consonância com o disposto na Constituição Federal, em especial no seu art. 5º, LVII, além de se sobreporem, temporal e materialmente, ao estabelecido no art. 637 do Código de Processo Penal, que prescreve que o recurso extraordinário não tem efeito suspensivo.
+No caso concreto, contudo, não vislumbro, pelo menos no exame que se faz possível nessa fase, repito, a presença dos requisitos autorizadores da prisão cautelar.
+Isso posto, defiro a medida liminar para assegurar ao paciente o direito de aguardar em liberdade o julgamento da apelação interposta.
+Expeça-se alvará de soltura.
+Comunique-se.
+Solicitem-se informações à autoridade apontada como coatora para que encaminhe cópia do acórdão proferido no HC 2009.01.034703-8/PR. Após, encaminhem-se os autos à Procuradoria-Geral da República para oferecer o respectivo parecer.
+Publique-se.
+Brasília, 21 de outubro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
+1
