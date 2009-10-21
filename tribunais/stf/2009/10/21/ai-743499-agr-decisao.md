@@ -1,0 +1,17 @@
+DECISÃO: Tendo em vista o erro material verificado, torno sem efeito a decisão de fl. 256 e passo a nova análise do agravo de instrumento.
+2.  Trata-se de agravo de instrumento contra decisão que não admitiu o recurso extraordinário interposto em oposição a acórdão que decidiu pela ilegalidade da exclusão da recorrida do Programa de Recuperação Fiscal – REFIS, através de notificação no Diário Oficial da União e publicação de lista na internet.
+3.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+4.  O recurso não merece provimento. Para dissentir-se do acórdão impugnado seria necessária a análise da legislação infraconstitucional que disciplina a espécie. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido, o RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; o AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; o AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+5.  Ademais, a jurisprudência do Supremo fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+6.  No mesmo sentido, o RE n. 476.530-AgR, Relator o Ministro Carlos Britto, DJe de 30.11.07, e o RE n. 582.558-AgR, Relator o Ministro Menezes Direito, Primeira Turma, DJe 22.5.09, cujas ementas transcrevo:
+“EMENTA: CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. EXCLUSÃO DO REFIS (LEI Nº 9.964/2000). ALEGADA VIOLAÇÃO AO INCISO LV DO ART. 5º DA CONSTITUIÇÃO FEDERAL.
+Ofensa à Carta Magna que, se existente, ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via extraordinária. Precedentes.
+Caso em que, para se chegar a conclusão diversa da adotada pela Corte de origem, se faz necessário o reexame do conjunto probatório dos autos. Aplicação da Súmula 279 do Supremo Tribunal Federal.
+Incidência da Súmula 283 desta Suprema Corte, ante a preclusão dos fundamentos infraconstitucionais do acórdão recorrido.”
+“Agravo regimental no recurso extraordinário. Exclusão do REFIS. Legislação infraconstitucional. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Precedentes. 1. As questões referentes à exclusão de contribuinte do Programa REFIS são adstritas ao âmbito da legislação infraconstitucional. 2. As alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição da República. 3. Agravo regimental desprovido” [grifei].
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 21 de outubro de 2009.
+Ministro Eros Grau
+- Relator -
+1
