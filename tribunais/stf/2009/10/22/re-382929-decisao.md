@@ -1,0 +1,12 @@
+DECISÃO: Trata-se recurso extraordinário interposto de acórdão em agravo de instrumento que considerou competente a Justiça Comum estadual para julgar ações de indenização por danos materiais e morais decorrentes de acidente de trabalho e que não reconheceu a prescrição bienal.
+No que tange à controvérsia da prescrição, consigno que a reforma do capítulo que no Código de Processo Civil disciplina os recursos para o Supremo Tribunal Federal e Superior Tribunal de Justiça buscou racionalizar o procedimento relativo à interposição e julgamento desses recursos, visando à celeridade e efetividade da prestação jurisdicional. A regra do § 3º, inserido no art. 542, busca cumprir esses objetivos, na medida em que remete para depois da decisão final e condiciona à persistência do interesse em recorrer o processamento dos recursos excepcionais contra interlocutória que não põe termo ao processo.
+Ambas as Turmas desta Corte, com fundamento na referida regra processual, têm sustado o conhecimento de recursos extraordinários que incidem na hipótese e determinado o retorno dos autos à origem, para aguardar a decisão definitiva das causas (cf. RE 446.844, rel. min. Carlos Velloso, DJ de 13.04.2005; RE 333.890, rel. min. Ellen Gracie, DJ de 14.04.2005; RE 265.023, rel. min. Nelson Jobim, DJ de 02.05.2000, e RE 257.261, rel. min. Ilmar Galvão, DJ de 17.12.1999).
+Por outro lado, a questão da competência foi decidida em definitivo pelo Supremo Tribunal Federal no julgamento do CC 7.204 (rel. min. Carlos Britto, DJ de 09.12.2005). Na ocasião, ficou estabelecido que, desde 08 de dezembro de 2004, data que marca o início da vigência da Emenda Constitucional 45, a Justiça do Trabalho é competente para o julgamento das referidas ações.
+Essa orientação alcança os processos em tramitação na Justiça Comum estadual, desde que não tenha havido julgamento de mérito, devendo ser aproveitados pela Justiça do Trabalho todos os atos praticados na Justiça Estadual.
+Por seu turno, as ações em que tenha sido proferida sentença de mérito pela Justiça Comum estadual antes da promulgação da Emenda Constitucional 45 devem prosseguir dentro do âmbito de competência da Justiça Estadual até o trânsito em julgado e a correspondente execução.
+Do exposto, dou provimento ao recurso extraordinário para reconhecer a competência da Justiça do Trabalho para o processamento e julgamento do feito, desde que não tenha sido proferida sentença de mérito pela Justiça estadual.
+Publique-se.
+Brasília, 22 de outubro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
