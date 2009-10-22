@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário contra acórdão que reconheceu o direito do contribuinte de creditar valor a título de Imposto sobre Produtos Industrializados - IPI em decorrência da aquisição de insumos isentos, não tributados ou sujeitos à alíquota zero.
+Neste RE, interposto com base no art. 102, III, a, da Constituição, requer-se a correção monetária dos créditos escriturais, o aproveitamento do crédito mediante compensação tributária e o afastamento da prescrição qüinqüenal.
+A pretensão recursal não merece acolhida. Verifica-se, inicialmente, que o recurso extraordinário é intempestivo. É que o acórdão recorrido foi publicado em 27/9/2001 (fl. 376) e o RE foi interposto apenas em 15/10/2001 (fl. 404), após o término do prazo de 15 dias, ocorrido em 12/10/2001. Inviável, assim, o recurso.
+Ainda que superado tal óbice melhor sorte não teriam os recorrentes. Isso porque a controvérsia relativa à compensação dos créditos de IPI foi dirimida pelo Tribunal a quo à luz da Lei 9.430/1996. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+No tocante ao prazo prescricional, o acórdão recorrido decidiu a questão referente com base na legislação infraconstitucional (Decreto 20.910/32). A apreciação de temas constitucionais, no caso, depende do prévio exame da legislação ordinária. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido: AI 630.724/SP, Rel. Min. Eros Grau; AI 559.868/SP, Rel. Min. Sepúlveda Pertence; AI 592.110/RJ, Rel. Min. Cezar Peluso; AI 645.007/RS, Rel. Min. Cármen Lúcia; AI 524.388/RS, Rel. Min. Marco Aurélio.
+Por fim, quanto à negativa de incidência da correção monetária, o acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 562.212/RS, de minha relatoria; AI 592.110/RJ, Rel. Min. Cezar Peluso; AI 645.007/RS, Rel. Min. Cármen Lúcia; AI 524.388/RS, Rel. Min. Marco Aurélio.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 22 de outubro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
+1
