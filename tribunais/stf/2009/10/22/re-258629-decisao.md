@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça estadual que afastou as vantagens pessoais do cômputo do teto remuneratório.
+Lembro, inicialmente, que a controvérsia é anterior à Emenda Constitucional 41, de 19.12.2003, de modo que não cabe falar na aplicação de seu art. 8º.
+Como se sabe, esta Corte, em sessão administrativa de 24.06.1998, entendeu que as normas da EC 19/1998 referentes a teto remuneratório não possuíam auto-aplicabilidade. Assim, a regulamentação anterior à emenda seria válida até que lei fixando o subsídio dos ministros desta Corte fosse editada, conforme estabelece o art. 48, XV, da Constituição federal.
+Neste contexto, o Supremo Tribunal Federal já reconheceu a exclusão, mesmo após o advento da EC 19/1998, das parcelas de cunho pessoal para efeito de fixação de teto remuneratório dos servidores públicos. Confira-se, nesse sentido, o RE 362.211-AgR (rel. min. Cezar Peluso, DJ 04.03.2005), cuja ementa, na parte que interessa, transcrevo:
+“1. Servidor Público. Vencimentos. Teto. Vantagens pessoais percebidas pelo servidor público inativo. Exclusão. Art. 37, XI, da Constituição Federal, anterior à EC nº 19/98. Ainda após o advento da EC nº 19/98, continua vigente o sistema anterior excluindo-se do limite do teto as vantagens de caráter pessoal, por não editada a lei a que se refere o art. 48, XV, da Constituição.”
+Na mesma esteira, o AI 396.750 (rel. min. Sepúlveda Pertence, DJ 03.11.2004).
+Quanto à inclusão dos honorários no cômputo para o teto remuneratório, reporto-me ao decidido pelo Plenário, no julgamento do RE 220.397 (rel. min. Ilmar Galvão, DJ 18.06.1999:
+“EMENTA: ADMINISTRATIVO. PROCURADORES DO MUNICÍPIO DE SÃO PAULO. LEI Nº 10.430, DE MARÇO DE 1988, ART. 42. TETO REMUNERATÓRIO. GRATIFICAÇÃO DE GABINETE, ADICIONAL DE FUNÇÃO E HONORÁRIOS ADVOCATÍCIOS. Legitimidade do teto remuneratório, na forma fixada pelo dispositivo legal sob enfoque. Preceito que não foi recebido pela CF/88, no ponto em que fixou teto para a remuneração bruta, a qualquer título, dos servidores municipais. Orientação assentada pelo STF, na ADI 14, Rel. Min. Célio Borja, no sentido de que deverão ser excluídas do cálculo do teto previsto no art. 37, XI, da CF/88, as vantagens pessoais, como tais, entretanto, consideradas apenas as decorrentes de situação funcional própria do servidor e as que representem uma situação individual ligada à natureza ou às condições do seu trabalho. Hipótese a que não se subsume a última das vantagens em destaque. Ausência, nos autos, de elementos que permitam a identificação da natureza jurídica da segunda delas. Recurso conhecido e parcialmente provido.”
+Do exposto, dou provimento parcial ao recurso extraordinário da Universidade de São Paulo para excluir as parcelas de cunho pessoal para efeito de fixação de teto remuneratório e mantendo a “verba honorária” no cômputo do teto.
+Custas ex lege. Sem honorários advocatícios (Súmula 512 do Supremo Tribunal Federal.
+Publique-se.
+Brasília, 22 de outubro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
