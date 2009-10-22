@@ -1,0 +1,104 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. DESAPROPRIAÇÃO. VALOR DA INDENIZAÇÃO. JULGADO RECORRIDO FUNDAMENTADO NO EXAME DE FATOS E PROVAS E NA LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+
+“CONSTITUCIONAL E ADMINISTRATIVO. DESAPROPRIAÇÃO. REFORMA AGRÁRIA. AGRAVO RETIDO. EXAME PERICIAL ALÉM DAS QUESTÕES IMPUGNADAS. POSSIBILIDADE. COBERTURA FLORÍSTICA. INDENIZAÇÃO EM SEPARADO. IMPOSSIBILIDADE. TERRA NUA. AJUSTAMENTO DO PREÇO COM BASE EM NOTA AGRONÔMICA. POSSIBILIDADE. INDENIZAÇÃO DA REDE ELÉTRICA. CABIMENTO. DIVISÃO DO IMÓVEL EM MÉDIA E/OU PEQUENA PROPRIEDADE POSTERIOR À VISTORIA E ANTES DO DECRETO. IRRELEVÂNCIA” (fl. 796 – grifos nossos)
+
+Tem-se no voto condutor do julgado recorrido:
+
+“Afirmam os Expropriados que antes da expedição do decreto expropriatório dividiram o imóvel em 3(três) médias e/ou pequenas propriedades rurais, razão pela qual a indenização deve ser totalmente em dinheiro.
+Adoto, como razão de decidir, o seguinte trecho do parecer do MPF, verbis:
+‘Quanto às alegações de aquisição condominial e posterior divisão amigável, mister se faz ressaltar, que a referida divisão tão apregoada pelo patrono dos expropriados, deu-se, CURIOSAMENTE, no mesmo dia em que foi publicado o Decreto Expropriatório, conforme se constata da averbação contida na matrícula nº 32.781 do Cartório do 2º Ofício do Registro de Imóveis da Comarca de Ituiutaba/MG.
+Note-se, também, que consta na mesma averbação a informação de que a divisão do imóvel deu-se através de escritura pública lavrada no dia 24/07/1998, às fls. 138/140 do Livro 311-E do 1º Tabelionato de Notas da mesma cidade.
+Ora, presume-se, que os expropriados subestimem o olhar atento da Justiça, pois, em anexo à exordial, encontram-se cópias de certidões do mesmo Cartóro de registro de Imóveis – CRI 2º Ofício (fls. 09/12) confirmando a data de 06 (seis) de maio de 1998, que o imóvel expropriado era de propriedade conjunta dos três irmãos. Evidentemente, é preciso observar as circunstâncias e os agentes integrantes do processo. Nota-se, claramente, que são os expropriados, pessoas de relevância social naquela cidade, e mais, particularmente, na comunidade jurídica e notarial, já que um dos expropriados é Juiz Federal e um outro, advogado, como se constata dos mandatos insertos no processo. Deve-se presumir, portanto, que quando o INSTITUTO DE COLONIZAÇÃO E REFORMA AGRÁRIA busca informações acerca de um latifúndio em um CRI, a notícia do fato, iniludivelmente, acabará por acostar-se aos proprietários, alertando-os de pronto.
+Não bastando esse argumentos, trago à baila a previsão legal do § 2º do art. 2º da Lei 8.629/93 à época sem alteração da MP 2.183-56/2001:
+‘Art. 2º - A propriedade rural que não cumprir a função social prevista no art. 9º é passível de desapropriação, nos termos desta lei, respeitados os dispositivos constitucionais.
+§ 1º - Omissis.
+§ 2º - Para fins deste artigo, fica a União, através do órgão federal competente, autorizada a ingressar no imóvel de propriedade particular, para levantamento de dados e informações, com prévia notificação’ (Grifei).
+Ocorre, que os proprietários da Fazenda Engenho da Serra foram notificados pelo INCRA através de correspondências com avisos de recebimento expedidas em 17/04/1998 (fls. 187/192 v), de que o Instituto promoveria o levantamento in loco de informações pertinentes ao imóvel, buscando apurar se este cumpria sua função social. Depreende-se, portanto, que este fato, de per si foi o impulsionador da referida divisão amigável suscitada pelos expropriados.
+Restando descaracterizada a referida divisão amigável, não há que se falar em indenização total em espécie, posto que as glebas tornaram-se média e pequenas propriedades rurais através de procedimento sob suspeita”. (fls. 729/730).
+Assim, mantenho a indenização da terra nua em TDAs, uma vez que a divisão posterior à vistoria administrativa não descaracterizou a condição de grande propriedade improdutiva aferida por ocasião da vistoria administrativa.
+O justo preço na indenização deve ser o que mais se ajuste ao preço de mercado praticado ao tempo da desapropriação que, conforme precedentes recentes desta e. Turma, abrange, igualmente, a cobertura vegetal, sem a necessidade de que se atribua um plus a este título. Neste diapasão, colhem-se os seguintes julgados, um deles da minha relatoria:
+‘ADMINISTRATIVO. DESAPROPRIAÇÃO POR INTERESSE SOCIAL PARA FINS DE REFORMA AGRÁRIA. INDENIZAÇÃO. COBERTURA FLORÍSTICA. JUROS COMPENSATÓRIOS E MORATÓRIOS. MEDIDA PROVISÓRIA 1.577/97. INAPLICABILIDADE.
+1. A indenização da cobertura vegetal já está contemplada com a estimativa do imóvel pelo preço de mercado.
+2. ‘Se a imissão de posse se deu antes da edição da Medida Provisória nº 1.577/97, os juros compensatórios, na ação expropriatória, devem ser aplicados à base de doze por cento ao ano, nos termos da Súmula nº 618, do STF’(AGA 305.108/Ministro Delgado). 3. Juros moratórios devidos a partir do trânsito em julgado da sentença, no percentual de 6% ao ano.
+4. Mantida a verba honorária, arbitrada em 4% da diferença apurada entre o depósito inicial corrigido e o valor da indenização”.
+5. Apelo parcialmente provido’ (AC 2000.01.00.069681-7 /MT, Des. Federal Hilton Queiroz, Quarta Turma DJ 20.08.2002).
+‘ADMINISTRATIVO. DESAPROPRIAÇÃO. VALOR DA TERRA NUA. COBERTURA VEGETAL . JUROS COMPENSATÓRIOS. CORREÇÃO MONETÁRIA.
+1. Imóvel abandonado e ocupado por posseiros, gerando direito a usucapião, fica desvalorizado no mercado imobiliário, sendo legitima a redução de 50% fixada pela sentença.
+2. Ao fixar o valor da cobertura vegetal deve ser considerado o preço final fixado, de forma a que a indenização não ultrapasse o valor que o bem teria no mercado.
+3. Os juros compensatórios são devidos a partir da imissão de posse uma vez que visam indenizar o expropriado pelo apossamento prematuro da coisa, independendo da utilização que vinha sendo feita do bem, sendo irrelevante a sua capacidade de produção de rendimentos. Precedentes’ (AC 91.01.15706-0/MA, Rel. Juiz Osmar Tognolo. DJ 20/10/94. AC 93.01.18474-5/MA, Rel. Juiz Vicente Leal, DJ 20/10/94).
+4. Recente orientação firmada pelo STF suspendeu a eficácia de artigos da MP n. 2027 que, entre outras alterações, limitavam a incidência de juros compensatórios às hipóteses de perda comprovada pelo proprietário, bem como os juros compensatórios em 6% ao ano, restabelecendo o teto de 12% anteriormente fixado. (ADI MC 2.332-DF, Informativo 240, de 3 a 7 de setembro de 2001).
+5. Os juros moratórios fixados em 0,5% ao mês a partir do trânsito em julgado da sentença.
+6. A correção monetária é devida a partir do depósito inicial, de forma a repor as perdas sofridas na desvalorização da moeda’ (AC 1997.01.00.003384-1 /AC, Des. Carlos Olavo, Quarta Turma, DJ 05.05.2002, P. 168).
+Ademais, o STJ, no julgamento do Resp Nº 443669/GO, publicado em 02/06/2003, Relator Ministro Franciulli Netto, assim decidiu:
+‘Com a edição da Medida Provisória n. 1.577, de 11 de junho de 1997, e suas sucessivas reedições, alterou-se o artigo 12 da Lei 8.629/93, que, em seu § 2º, passou a dispor que ‘integram o preço da terra as florestas naturais, matas nativas e qualquer outro tipo de vegetação natural, não podendo o preço apurado superar, em qualquer hipótese, o preço de mercado do imóvel’. Dessarte, faz-se mister a incidência do ius superveniens à espécie, para que se aplique à hipótese dos autos a nova redação dada ao artigo 12 pela Medida Provisória susomencionada.
+Da leitura da nova redação dada ao artigo 12 da Lei n. 8.629/93, conclui-se que, não havendo exploração econômica efetiva da propriedade, o valor correspondente à cobertura florestal não deve ser separado do valor atribuído à terra nua. No caso dos autos, conforme explicitado no laudo pericial, os proprietários das fazendas expropriadas não as exploravam economicamente e nem tinham intenção de fazê-lo.
+Mais a mais, a teor do que dispõe a Constituição Federal em seu artigo 185, são insuscetíveis de desapropriação para fins de reforma agrária as propriedades produtivas, o que acentua o fato de que não havia efetiva exploração econômica das fazendas desapropriadas, mostrando-se incabível a fixação de indenização em separado da cobertura florística.
+A hipótese vertente não trata de matéria puramente de fato. Em verdade, cuida-se de qualificação jurídica dos fatos, que se não confunde com matéria de fato.
+Recurso especial provido, determinando-se o retorno dos autos ao Tribunal a quo, para, realizada nova avaliação, sejam, após, examinadas as apelações interpostas pelas partes à luz da nova redação dada ao artigo 12 da Lei n. 8.629/93 pela Medida Provisória n. 1.577, de 11 de junho de 1997, e suas sucessivas reedições’ (RESP 443669/GO; RECURSO ESPECIAL 2002/0077613-0; DJ 02/06/2003; MIN. FRANCISCO NETTO).
+A par da referida orientação jurisprudencial, não é demais acentuar que o art. 12 da Lei 8.629/93 não encerra qualquer inconstitucionalidade ao estatuir a pesquisa de mercado como critério norteador da justa indenização, na medida em que esta, essencialmente, repõe o patrimônio expropriado. Não pode, em linha de conseqüência, ser fator de locupletamento da parte expropriada em detrimento do Estado, não se podendo conceber que, diferentemente dos negócios privados, onde a cobertura vegetal do imóvel compõe o preço de mercado dos bens em áreas onde estejam presentes os pressupostos para tal, na desapropriação, mereça o expropriado um quantum destacado ao referido título. Ademais os autos não encerram elementos que provem a ocorrência de exploração florestal autorizada.
+Atenta à mencionada ressalva, a c. Terceira Turma deste c. Tribunal Regional Federal, em reiterados precedentes vem negando a indenização destacada da cobertura vegetal, afirmando:
+‘PROCESSUAL CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO INDIRETA. IMÓVEL RURAL. AGRAVOS RETIDOS. CERCEAMENTO DE DEFESA. DOMÍNIO. COBERTURA FLORESTAL NATURAL. HONORÁRIOS ADVOCATÍCIOS.
+1. Inexiste cerceamento de defesa se a irresignação se dirige contra prova irrelevante para o desfecho da lide.
+2. Descabe o pagamento de indenização por desapropriação indireta a quem não possui o regular domínio da área, já que adquirida em violação a normas de ordem pública inafastáveis e que se sobrepõem a negócios jurídicos celebrados entre particulares.
+3. Ademais, integram o preço de mercado da terra as florestas naturais e as matas nativas, como acessões (acessórios) do solo (principal), ressalvada a possibilidade de indenização separada, quando houver exploração econômica autorizada, tendo por base inventário florestal e projeto de manejo sustentado, devendo o pagamento, se firmada a hipótese, ser feito na razão direta do proveito financeiro frustrado pela desapropriação, devidamente demonstrado nos autos, com a dedução dos custos de exploração. Hipótese de ausência de comprovação do aludido proveito econômico.
+4. Nos termos do parágrafo quarto do artigo 20 do CPC, nas causas onde não houver condenação, os honorários advocatícios serão fixados consoante apreciação eqüitativa do Juiz, atendidos o grau de zelo do profissional, o lugar da prestação do serviço e a natureza e importância da causa, além do trabalho realizado pelo advogado e o tempo exigido para o seu serviço. Redução da verba honorária para 0,5% (meio por cento) do valor atualizado da causa, observando-se as circunstâncias do caso.
+5. Apelação provida em parte. Agravos retidos improvidos’ (AC 2001.01.00.034470-9/RR; REL. DESEMBARGADOR FEDERAL OLINDO MENEZES; REL. JUIZ SAULO JOSÉ CASALI BAHIA (CONV.); TERCEIRA TURMA; DJ 13 /09 /2002 P.79; UNÂNIME).
+Pelo exposto, incabível o acolhimento do apelo do expropriado, neste particular” (fls. 784-788 – grifos nossos).
+
+2. Os Recorrentes alegam que:
+
+“O v. acórdão recorrido determinou que a indenização decorrente da presente desapropriação fosse paga em TDAs, por entender que a divisão do imóvel expropriado em três médias e/ou pequenas propriedades rurais teria sido posterior à vistoria administrativa, em virtude do que não estaria descaracterizada a condição de grande propriedade improdutiva constatada naquela ocasião.
+Contrariamente a esse entendimento, deve a indenização ser paga em moeda corrente nacional, e não em títulos da dívida agrária, de acordo com o mandamento constitucional, da justa e prévia indenização, consagrado no artigo 5º, inciso XXIV, da Constituição Federal.
+Os Recorrentes adquiriram a área objeto da ação em condomínio, em decorrência do falecimento de seus avós, ocorrido muitos anos antes de se iniciar o procedimento administrativo que culminou na presente desapropriação.
+(...) Ao ser divulgado o laudo administrativo que caracteriza o imóvel como improdutivo, o mesmo já havia sido invadido pelo ‘Movimento dos Sem Terra’, razão porque deve a indenização deve ser paga em moeda corrente nacional (...).
+(...)
+Também ao excluir o valor da cobertura vegetal do montante indenizatório, o v. acórdão recorrido negou vigência a esse mandamento constitucional, bem como ao previsto no inciso XXII, que consagra o direito de propriedade. É que o conceito de justa indenização é bem amplo, compreendendo não só o valor da totalidade da terra nua abrangida, mas também o de todas as benfeitorias, acessões ou qualquer outro decorrente do desfalque patrimonial sofrido pelos expropriados, inclusive o da cobertura vegetal” (fls. 821-830 – grifos nossos).
+
+Analisados os elementos havidos nos autos, DECIDO.
+
+3. Razão jurídica não assiste aos Recorrentes.
+
+4. A análise das alegações de que o imóvel desapropriado teria sido adquirido por sucessão hereditária e invadido antes da vistoria pelo Incra – as quais, a propósito, não foram apreciadas pelo Tribunal de origem - atrai a incidência da Súmula 279 do Supremo Tribunal Federal e não viabiliza o recurso extraordinário. Nesse sentido:
+
+“EMENTA: 1. RECURSO. Extraordinário. Inadmissibilidade. Reexame de fatos e provas. Aplicação das súmulas nº 279. Agravo regimental improvido. Não cabe recurso extraordinário que tenha por objeto o simples reexame de fatos e provas. 2. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte. 3. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (RE 330.907-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 9.5.2008 – grifos nossos).
+
+“RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL DESPROVIDO. O Tribunal a quo decidiu a controvérsia com fundamento em norma infraconstitucional e nas provas contidas nos autos” (RE 376.599-AgR, de minha relatoria, DJ 2.2.2007).
+
+5. O Tribunal a quo asseverou expressamente que a cobertura vegetal teria sido considerada na fixação do valor da indenização, tomando-se como parâmetro o valor de mercado do imóvel.
+
+Ademais, com base na interpretação e na aplicação do art. 12 da Lei n. 8.629/93, o Tribunal de origem concluiu que não seria viável a indenização em separado da cobertura vegetal, pois não teria sido comprovada a sua exploração econômica.
+
+Essas circunstâncias também não ensejam o recurso extraordinário, pois seria imprescindível a reinterpretação daquela norma legal – eventual ofensa constitucional seria indireta - e o reexame de fatos e provas (Súmula 279 do Supremo Tribunal Federal).
+
+Confiram-se os seguintes julgados:
+
+“RECURSO EXTRAORDINÁRIO. OFENSA REFLEXA À CF/88. INADMISSIBILIDADE. 1. O acórdão de origem, a partir da interpretação da Lei 8.629/93, considerou válida a emissão de TDA com data em que o preço foi oferecido, devendo o prazo para resgate ser contado da data do depósito. 2. É inadmissível o recurso extraordinário no qual, a pretexto de ofensa a dispositivos constitucionais, pretende-se a exegese de legislação ordinária. Ofensa à Constituição meramente reflexa ou indireta, de exame inviável nesta sede recursal. 3. Agravo regimental improvido” (RE 337.081-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.6.2005 – grifos nossos).
+
+“1. RECURSO. Extraordinário. Inadmissibilidade. Prequestionamento. Falta. Agravo regimental não provido. Aplicação das súmulas 282 e 356. Não se admite recurso extraordinário quando falte prequestionamento da matéria constitucional invocada. 2. RECURSO. Extraordinário. Inadmissibilidade. Desapropriação. Indenização. Cobertura vegetal. Exploração econômica. Questão infraconstitucional. Matéria fática. Agravo regimental improvido. Súmula 279. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, nem tampouco que dependa de reexame de provas. 3. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (AI 212.141-AgR, Rel. Min. Cezar Peluso, Primeira Turma, DJ 4.2.2005 – grifos nossos).
+
+“EMBARGOS DE DECLARAÇÃO. DESAPROPRIAÇÃO. COBERTURA VEGETAL SUJEITA A LIMITAÇÃO LEGAL. INDENIZAÇÃO. APURAÇÃO DO VALOR. INSTÂNCIA ORDINÁRIA. EMBARGOS DA FAZENDA PÚBLICA. PRETENSÃO DE CONFERIR EFEITOS INFRINGENTES: IMPOSSIBILIDADE. 1. Desapropriação. Reconhecida a necessidade de indenização das matas sujeitas à preservação permanente, a apuração de seu valor justo e real depende de reavaliação do contexto probatório, o que deve ser realizado na instância ordinária. 2. As razões deduzidas pela Fazenda Estadual revelam a sua pretensão de reexame da causa, a partir da mera alegação de que os precedentes citados no voto são inadequados. Acórdão com fundamentação própria e suficiente, não se verificando qualquer omissão, contradição ou obscuridade. Embargos de declaração com efeitos infringentes. Não-cabimento. Embargos de declaração rejeitados” (RE 267.817-ED, Rel. Min. Maurício Corrêa, Segunda Turma, DJ 25.4.2003 – grifos nossos).
+
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. LAUDO PERICIAL. IMPOSSIBILIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 494.388-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009 – grifos nossos).
+
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. RECONHECIMENTO DE PRECLUSÃO DO PEDIDO PELO TRIBUNAL A QUO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 581.642-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009 – grifos nossos)
+
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE PROVAS. OFENSA INDIRETA. PRECEDENTES. 1. O Supremo Tribunal Federal fixou entendimento no sentido de que o exame de contrariedade dos princípios da justa indenização e da preservação do valor real restringe-se ao âmbito infraconstitucional. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 717.016-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 19.9.2008 – grifos nossos).
+
+“Impossível verificar se a indenização paga aos agravantes em razão da desapropriação de seu imóvel corresponde aos ditames da Constituição, sem o revolvimento dos laudos periciais apresentados nas instâncias ordinárias, o que se mostra inviável em sede extraordinária (Súmula 279). Agravo regimental desprovido” (AI 354.281-AgR, Rel. Min. Ellen Gracie, Primeira Turma, DJ 21.6.2002).
+
+6. Nada há, pois, a prover quanto às alegações dos Recorrentes.
+
+7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+
+Brasília, 22 de outubro de 2009.
+
+Ministra CÁRMEN LÚCIA
+Relatora
