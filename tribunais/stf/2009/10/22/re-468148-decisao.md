@@ -1,0 +1,14 @@
+DECISÃO: A controvérsia suscitada no presente recurso extraordinário já foi dirimida por ambas as Turmas do Supremo Tribunal Federal (RE 492.087/SP, Rel. Min. CARLOS BRITTO):
+“Recurso extraordinário. 2. Transação criminal proposta e ratificada em audiência a que não compareceu o Ministério Público, embora previamente houvesse pedido transferência do ato, o que foi indeferido. 3. Ofensa ao art. 129, I, da CF/88. 4. Parecer da P.G.R. pelo provimento do recurso. 5. O MP é o titular da ação penal pública incondicionada. A lei reserva ao MP a iniciativa de propor a transação com a aplicação imediata de pena restritiva de direitos ou multa a ser especificada na proposta. Se aceita pelo autor da infração e seu defensor, será submetida à apreciação do Juiz, a teor do art. 76 e seu § 3º, da Lei n.º 9.099/95. Acolhendo a proposta do MP, aceita pelo autor da infração, o Juiz aplicará a pena restritiva de direitos ou multa, consoante o § 4º do mesmo art. 76. 6. Recurso extraordinário conhecido e provido para anular a audiência em que proposta e ratificada pelo Juiz a transação, sem participação do MP, bem como o processo, a partir desse ato, sem prejuízo de sua renovação, se ainda não extinta a punibilidade, o que será verificado no juízo de origem.”
+(RE 296.185/RS, Rel. Min. NÉRI DA SILVEIRA)
+“Transação penal homologada em audiência realizada sem a presença do Ministério Público: nulidade: violação do art. 129, I, da Constituição Federal.
+1. É da jurisprudência do Supremo Tribunal - que a fundamentação do ‘leading case’ da Súmula 696 evidencia: HC  75.343, 12.11.97, Pertence, RTJ 177/1293 -, que a imprescindibilidade do assentimento do Ministério Público quer à suspensão condicional do processo, quer à transação penal, está conectada estreitamente à titularidade da ação penal pública, que a Constituição lhe confiou privativamente (CF, art. 129, I).
+2. Daí que a transação penal - bem como a suspensão condicional do processo - pressupõe o acordo entre as partes, cuja iniciativa da proposta, na ação penal pública, é do Ministério Público.”
+(RE 468.161/GO, Rel. Min. SEPÚLVEDA PERTENCE)
+Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte, a propósito de questão idêntica à que ora se examina nesta sede recursal (RE 468.150/GO, Rel. Min. GILMAR MENDES – RE 468.151/GO, Rel. Min. MARCO AURÉLIO – RE 476.720/GO, Rel. Min. SEPÚLVEDA PERTENCE – RE 514.529/SP, Rel. Min. CÁRMEN LÚCIA, v.g.).
+O exame da presente causa evidencia que o acórdão ora impugnado diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+Sendo assim, pelas razões expostas, conheço e dou provimento  ao presente recurso extraordinário (CPC, art. 557, § 1º-A).
+Publique-se.
+Brasília, 22 de outubro de 2009.
+Ministro CELSO DE MELLO
+Relator
