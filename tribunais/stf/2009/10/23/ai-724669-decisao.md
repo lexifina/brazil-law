@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por ofensa ao art. 5º, LXIX, da Constituição Federal. O acórdão recorrido concluiu que houve cerceamento do direito de defesa dos servidores exonerados após citação ficta, nos seguintes termos (fls. 154-159):
+“ APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA – ATO ADMINISTRATIVO – ANULAÇÃO – INTERESSES INDIVIDUAIS – PROCESSO ADMINISTRATIVO – NECESSIDADE – INOBSERVÂNCIA – OCORRÊNCIA – APELO IMPROVIDO.
+A Administração pode rever seus atos, inclusive ex officio, mas, tratando-se de anulação de ato administrativo cuja formalização repercuta no campo de interesses individuais, a anulação dever ser precedida de processo administrativo, com observância do contraditório e da ampla defesa. Inobservância, na espécie. Ilegalidade caracterizada. Apelo improvido.” (fl. 124).
+2.  A Corte de origem asseverou que a análise da alegada ofensa à norma constitucional exige o reexame do conjunto fático-probatório dos autos (fls. 51-54).
+3.  O agravante alega que o objeto do presente recurso não é o exame das provas dos autos, mas sim a ausência de direito líquido e certo dos agravados, questão que, apesar de suscitada no curso do processo, foi omitida pelo Tribunal a quo. Afirma que, por outro lado, como a exoneração foi acolhida pelo Poder Judiciário, não há que falar em ato coator praticado pelo Prefeito Municipal, o que evidencia sua ilegitimidade passiva.
+4.  Inicialmente, quanto à ilegitimidade da autoridade tida como coatora, essa Corte possui entendimento no sentido de que, por tratar-se de pressuposto do mandado de segurança, possui natureza processual infraconstitucional, de inviável apreciação por meio de recurso extraordinário. Veja-se AI 560.154-AgR/RS, rel. Min. Joaquim Barbosa, 2ª Turma, DJ 22.09.2006.
+5.  Quanto à questão de fundo, também não merece prosperar a insurgência. O acórdão recorrido decidiu a questão com fundamento no contexto fático-probatório da matéria, como posta nos autos. Eventual ofensa à Constituição Federal, se existisse, seria indireta e reflexa, o que elide o processamento do recurso extraordinário. Assim foi decidido pela Ministra Cármen Lúcia, em matéria idêntica a essa, no AI 711.557/BA, DJe 12.08.2008; e no AI 719.973-AgR/BA, 1ª Turma, DJe 12.06.2009, este assim ementado:
+“ AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REINTEGRAÇÃO. IMPOSSIBILIDADE DO REEXAME DE PROVAS NA VIA EXTRAORDINÁRIA. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.”
+6.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 23 de outubro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
