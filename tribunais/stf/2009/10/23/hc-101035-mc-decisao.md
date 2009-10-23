@@ -1,0 +1,34 @@
+DECISÃO:  1. Trata-se de habeas corpus impetrado em favor de HENRIQUE MENDES DOS SANTOS contra decisão do Min. NILSON NAVES, que negou seguimento ao HC nº 69.841 do Superior Tribunal de Justiça.
+O paciente foi denunciado como incurso na prática do art. 219 (duas vezes) c/c art. 71, e art. 308, na forma do art. 69, todos do Código Penal, por ter raptado duas menores “ludibriadas por promessas de serem lançadas como modelos e conseguirem empregos bem remunerados” (fl. 20).
+O juízo de primeiro grau condenou o paciente à pena de 7 (sete) anos e 4 (quatro) meses de reclusão. A defesa interpôs recurso de apelação, o qual foi parcialmente provido para reduzir a pena imposta para 3 (três) anos e 6 (seis) meses de reclusão, reconhecendo, ainda, a prescrição da pretensão punitiva referente ao delito previsto no art. 308 do CP.
+Em virtude da entrada em vigor da Lei nº 11.106/05, que revogou os arts. 219 a 222 do Código Penal, ocorrida após o trânsito em julgado da condenação, a defesa ingressou com pedido de writ perante o Superior Tribunal de Justiça, lá registrado sob o nº 69.841, em que alegou a ocorrência de abolitio criminis e pugnou fosse declarada a extinção da punibilidade do paciente.
+A liminar foi concedida para suspender o mandado de prisão até o julgamento final daquele writ. Mas, em decisão monocrática, negou-se provimento ao habeas corpus, nos seguintes termos:
+“Neste habeas corpus, impetrado em favor de Henrique Mendes dos Santos – condenado, por rapto mediante fraude, à pena de 3 (três) anos e 6 (seis) meses de reclusão em regime semi-aberto –, alega-se que ‘‘raptar mulher honesta, mediante violência, grave ameaça ou fraude’, deixou de ser crime, em virtude do art. 5º da Lei nº 11.106, de 28 de março de 2005 revogar expressamente os delitos de adultério, sedução de menores e rapto’ (sic).
+Ouvido, manifestou-se o Ministério Público Federal (Subprocuradora-Geral Célia Regina) pela denegação da ordem; fê-lo nos termos seguintes:
+‘Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Henrique Mendes dos Santos, impugnando o acórdão proferido pela Terceira Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro que, por maioria, deu parcial provimento ao apelo manejado pela defesa, 'para reconhecer o concurso ideal de tipos, quanto aos crimes de raptos, acomodando as penas do apelante Henrique em 3 anos e 6 meses de reclusão e no uso de documento de identidade alheio às penas ficam reduzidas aos mínimos legais, 6 meses de detenção e 20 DM, modificando-se o regime prisional para o semi-aberto'. (fl. 09)
+Alega o impetrante a ocorrência da abolitio criminis com relação ao delito de rapto, uma vez que o art. 5°, da Lei n.° 11.106/05, teria revogado expressamente tal crime, requerendo que seja recolhido o mandado de prisão expedido contra o paciente, assim como declarada extinta a pretensão executória do Estado, cessando-se os efeitos da sentença penal condenatória.
+A liminar foi deferida à fl. 12, 'para sustar, até o julgamento deste habeas corpus , o cumprimento do mandado de prisão expedido na Apelação Criminal n° 1.547/02 do Tribunal de Justiça do Rio de Janeiro'.
+É o relatório.
+O paciente foi condenado por infração ao art. 219 do Código Penal, que previa como crime 'raptar mulher honesta, mediante violência, grave ameaça ou fraude, para fim libidinoso'. Esse dispositivo foi revogado expressamente pelo art. 5° da Lei 11.106/05, mas isto não implica em abolitio criminis como sustenta o impetrante.
+É que a conduta descrita no tipo penal revogado foi prevista pela mesma lei, de forma mais abrangente, com a redação dada ao artigo 148, §1°, V, do Código Penal que assim dispõe:
+'Art. 148: Privar alguém de sua liberdade, mediante seqüestro ou carcére privado:
+§1° - A pena é de reclusão de dois a cinco anos:
+(...)
+V – se o crime é praticado com fins libidinosos.'
+Confrontando-se o revogado art. 219 com o art. 148, § 1º, V, verifica-se que o fato anteriormente descrito como rapto está contido na descrição do seqüestro com fins libidinosos, que incrimina a conduta independentemente da vítima ser mulher honesta, e da fraude, bastando a retenção que caracteriza o cárcere privado.
+A abolitio criminis ocorre quando a lei nova retira do campo penal a conduta anteriormente incriminada, mas isto, como se viu, não ocorreu na hipótese em exame. No caso, a conduta pela qual foi o paciente condenado continuou a ser prevista como criminosa, integrando um outro tipo penal mais abrangente.
+Ante o exposto, opina o Ministério Público Federal pela denegação do habeas corpus.’
+Correta se me afigura a manifestação ministerial. Acolhendo-a, revogo a liminar anteriormente concedida e nego seguimento ao pedido de habeas corpus (Lei nº 8.038/90, art. 38, e Regimento, art. 34, XVIII).” (fls. 25-26)
+Alega o impetrante que “a conduta do Paciente, subsumida à fraude não pode ser desqualificada para o crime de seqüestro ou cárcere privado que pressupõe a prática de violência ou grave ameaça” (fl. 10).
+Alega, ainda, que “as adolescentes não poderiam ser vítimas do crime de seqüestro ou cárcere privado, já que elas somente poderiam andar em companhia de seus responsáveis ou de quem fizesse as vezes deles” (fl. 10), ressalvando que “a fraude foi praticada contra os pais das ofendidas, e não contra as adolescentes” (fl. 11).
+Requer, liminarmente, o recolhimento do mandado de prisão expedido em desfavor do paciente e, no mérito, a declaração de extinção da pretensão executória do Estado, em decorrência da abolitio criminis.
+2.  Não é caso de liminar.
+Centra-se a questão em saber se a edição da Lei nº 11.106/05, que revogou o art. 219 e acrescentou o inciso V ao § 1º do art. 148 do Código Penal, deslocou para o crime de seqüestro e cárcere privado todas as condutas antes subsumidas ao crime de rapto. A relevância jurídica da tese é clara: o paciente foi denunciado – e, posteriormente, condenado – por rapto mediante fraude, mas, segundo alega a defesa, o novo tipo penal abrange tão-só o rapto cometido mediante violência ou grave ameaça.
+A outra tese da defesa está em que, ainda que se considere possível a prática do crime previsto no art. 148 do Código Penal mediante fraude, o ardil foi dirigido à pessoa diversa das vítimas, não se aperfeiçoando o tipo penal.
+O decreto de prisão expedido contra o paciente, no entanto, decorre de condenação transitada em julgado, que somente poderá ser anulada após o eventual pronunciamento definitivo da Corte que reconheça a atipicidade da conduta. Impossível, pois, fazê-lo em sede liminar, sob pena de este relator substituir-se à Turma, órgão competente para o julgamento do mérito da questão.
+3.   Ante ao exposto, indefiro a liminar.
+Estando os autos devidamente instruídos, dê-se vista, com urgência, à Procuradoria-Geral da República.
+Publique-se. Int..
+Brasília, 23 de outubro de 2009.
+Ministro CEZAR PELUSO
+Relator
