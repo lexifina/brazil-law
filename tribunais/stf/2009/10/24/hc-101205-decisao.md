@@ -1,0 +1,15 @@
+DECISÃO
+PENA DE RECLUSÃO – SUBSTITUIÇÃO POR RESTRITIVA DE DIREITO – ÓBICE LEGAL – ARTIGO 44 DA LEI Nº 11.343/2006 – INCONSTITUCIONALIDADE ARTICULADA – CRIVO DO PLENÁRIO – EFICÁCIA DO ACÓRDÃO PROFERIDO SUSPENSA.
+1.  A Assessoria assim retratou as balizas deste habeas corpus:
+O paciente foi condenado, como incurso nas penas do artigo 33 da Lei nº 11.343/2006 (tráfico de drogas), a cinco anos e oito meses de reclusão, inicialmente em regime fechado, e ao pagamento de quinhentos dias-multa. O Tribunal de Justiça do Estado do Rio Grande do Sul, ao julgar o recurso interposto pela defesa, deu-lhe parcial provimento, reduzindo a pena para o mínimo legal – três anos de reclusão.
+Houve formalização de pedido de habeas corpus – de nº 133.687/RS - no Superior Tribunal de Justiça, visando à substituição da pena privativa de liberdade pela restritiva de direito. A ordem foi indeferida (folha 12). A Quinta Turma assentou que o artigo 44 da Lei nº 11.343/2006 veda, expressamente, a substituição aos sentenciados por crime de tráfico de drogas.
+Este habeas volta-se contra esse julgado. A impetrante sustenta a inconstitucionalidade do artigo 44 da referida lei, tendo em consideração o disposto no artigo 5º, incisos XXXV (inafastabilidade de apreciação pelo Judiciário de lesão ou ameaça de lesão a direito), XLVI (individualização da pena) e LIV (razoabilidade), ante o fato de inexistir vedação constitucional, ainda que implícita, ao deferimento da substituição da pena privativa de liberdade pela restritiva de direito. Desse modo, não poderia o Magistrado furtar-se à apreciação do caso concreto presente o texto constitucional, relegando ao segundo plano o princípio da individualização da pena e a razoabilidade na aplicação do direito.
+Pede a concessão da medida liminar, para determinar a suspensão dos efeitos do acórdão proferido pelo Superior Tribunal de Justiça. No mérito, pleiteia o deferimento da ordem, para substituir ou determinar a substituição da pena privativa de liberdade pela restritiva de direito.
+2.  O tema veiculado neste habeas ainda não foi submetido ao Plenário. Tem-se questionamento sobre a constitucionalidade do artigo 44 da Lei nº 11.343/2006, que veda a substituição da pena privativa de liberdade pela restritiva de direitos considerado o tráfico de drogas. No caso, o Tribunal de Justiça do Estado do Rio Grande do Sul reduziu a pena imposta pelo Juízo ao patamar mínimo referente ao tipo. Ao fazê-lo, ressaltou (folhas 50-verso e 51):
+Primário, sem antecedentes, pessoa pobre, provavelmente também usuário, empregado. Daí porque, alterando a sentença, voto no sentido de reduzir para três anos de reclusão a pena privativa de liberdade imposta ao condenado, mantidas as demais cominações da decisão recorrida.
+ Tudo recomenda seja afastada a execução da pena, aguardando-se o crivo do Colegiado Maior, ao qual, desde logo, fica afetado o julgamento desta impetração.
+3.  Defiro a liminar nos termos referidos.
+4.  Publiquem.
+Brasília – residência –, 24 de outubro de 2009, às 17h25.
+Ministro MARCO AURÉLIO
+Relator
