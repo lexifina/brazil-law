@@ -1,0 +1,24 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao agravo de instrumento.
+A agravante sustentou, em suma, que as decisões de mérito que reconheceram a legitimidade da empresa recorrente de promover a compensação das quantias pagas indevidamente a título de PIS efetuados entre julho de 1993 e outubro de 1995, não está sendo discutida nos autos do recurso extraordinário sobrestado. Alegou, ainda, que o Tribunal de origem ofendeu o art. 5º, XXXVI, da Constituição ao negar o pedido de declaração de trânsito em julgado da decisão parcial referente ao período precluso (entre julho de 1993 e outubro de 1995).
+Eis o teor da decisão agravada:
+”Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+‘RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. CERTIDÃO DE PARCIAL TRÂNSITO EM JULGADO. PRESCRIÇÃO EM RELAÇÃO A DETERMINADO PERÍODO.
+1. Cuidando o recurso extraordinário do tema pertinente à prescrição, a ser apreciado pelo Supremo Tribunal Federal, a quem compete delimitar a verdadeira extensão das suas decisões, monocráticas ou colegiadas, descabe ao Superior Tribunal de Justiça certificar o trânsito em julgado em relação a determinado período. Referida certidão implica antecipar os limites de uma decisão ainda não proferida pelo Tribunal competente.
+2. Agravo regimental desprovido’ (Fl. 165).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 5°, XXXVI, da mesma Carta.
+O agravo não merece acolhida. É que o acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não-cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 562.212/RS, de minha relatoria; AI 592.110/RJ, Rel. Min. Cezar Peluso; AI 645.007/RS, Rel. Min. Cármen Lúcia; AI 524.388/RS, Rel. Min. Marco Aurélio.
+Ademais, o acórdão recorrido está em harmonia com a orientação da Corte que reconheceu a repercussão geral da matéria veiculada no recurso extraordinário, qual seja, a aplicabilidade do prazo prescricional previsto nos arts. 3° e 4° da LC 118/05 (RE 561.908/RS, Rel. Min. Marco Aurélio), razão pela qual os autos devem permanecer na origem até o julgamento do mérito, conforme disposto no art. 543-B do CPC.
+Isso posto, nego seguimento ao recurso” (fl. 223).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que a recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Outrossim, conforme assentado na decisão agravada, o acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não-cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta.
+Além disso, o acórdão recorrido está em harmonia com a orientação da Corte que reconheceu a repercussão geral da matéria veiculada no recurso extraordinário, qual seja, a aplicabilidade do prazo prescricional previsto nos arts. 3° e 4° da LC 118/05 (RE 561.908/RS, Rel. Min. Marco Aurélio), razão pela qual os autos devem permanecer na origem até o julgamento do mérito, conforme disposto no art. 543-B do CPC.
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 27 de outubro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
+1
