@@ -1,0 +1,4 @@
+Art. 12-F. Em caso de excepcional urgência e relevância da matéria, o Tribunal, por decisão da maioria absoluta de seus membros, observado o disposto no art. 22, poderá conceder medida cautelar, após a audiência dos órgãos ou autoridades responsáveis pela omissão inconstitucional, que deverão pronunciar-se no prazo de 5 (cinco) dias.
+§ 1º A medida cautelar poderá consistir na suspensão da aplicação da lei ou do ato normativo questionado, no caso de omissão parcial, bem como na suspensão de processos judiciais ou de procedimentos administrativos, ou ainda em outra providência a ser fixada pelo Tribunal.
+§ 2º O relator, julgando indispensável, ouvirá o Procurador-Geral da República, no prazo de 3 (três) dias.
+§ 3º No julgamento do pedido de medida cautelar, será facultada sustentação oral aos representantes judiciais do requerente e das autoridades ou órgãos responsáveis pela omissão inconstitucional, na forma estabelecida no Regimento do Tribunal.
