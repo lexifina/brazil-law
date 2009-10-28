@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recursos extraordinários interpostos contra acórdão em que se discute a constitucionalidade do disposto nos artigos 8º e 3º, § 1º, da Lei n. 9.718/98.
+2.  O Supremo Tribunal Federal, ao julgar os Recursos Extraordinários ns. 346.084, 358.273, 357.950 e 390.840, declarou a inconstitucionalidade do § 1º do artigo 3º da Lei n. 9.718/98 na parte em que acrescentou receitas diversas daquelas do produto da venda de mercadoria, de mercadoria e serviços e de serviço de qualquer natureza ao conceito de receita bruta ao contribuinte. Eis o teor da ementa:
+“CONSTITUCIONALIDADE SUPERVENIENTE – ARTIGO 3º, § 1º, DA LEI Nº 9.718, DE 27 DE NOVEMBRO DE 1998 – EMENDA CONSTITUCIONAL Nº 20, DE 15 DE DEZEMBRO DE 1998. O sistema jurídico brasileiro não contempla a figura da constitucionalidade superveniente.
+TRIBUTÁRIO – INSTITUTOS – EXPRESSÕES E VOCÁBULOS – SENTIDO. A norma pedagógica do artigo 110 do Código Tributário Nacional ressalta a impossibilidade de a lei tributária alterar a definição, o conteúdo e o alcance de consagrados institutos, conceitos e formas de direito privado utilizados expressa ou implicitamente. Sobrepões-se ao aspecto formal o princípio da realidade, considerados os elementos tributários.
+CONTRIBUIÇÃO SOCIAL – PIS – RECEITA BRUTA – NOÇÃO – INCONSTITUCIONALIDADE DO § 1º DO ARTIGO 3º DA LEI Nº 9.718/98. A jurisprudência do Supremo, ante a redação do artigo 195 da Carta Federal anterior à Emenda Constitucional nº 20/98, consolidou-se no sentido de tomar as expressões receita bruta e faturamento como sinônimas, jungindo-as à venda de mercadorias, de serviços ou de mercadorias e serviços. É inconstitucional o § 1º do artigo 3º da Lei n º 9.718/98, no que ampliou o conceito de receita bruta para envolver a totalidade das receitas auferidas por pessoas jurídicas, independentemente da atividade por elas desenvolvida e da classificação contábil adotada.”
+3.  Esse entendimento foi confirmado pelo Pleno desta Corte na Sessão do dia 10 de setembro de 2008, ao apreciar questão de ordem no RE n. 585.235, Relator o Ministro Cezar Peluso.
+4.  No que respeita ao artigo 8º da Lei n. 9.718/98 --- majoração da alíquota de 2% para 3% ---, o Supremo Tribunal Federal, em recente pronunciamento, ao apreciar o RE n. 527.602, de que fui Relator, com ressalva de meu entendimento, fixou entendimento no sentido da validade jurídico-constitucional do referido dispositivo.
+ Afasto o sobrestamento e nego seguimento aos recursos extraordinários com fundamento no disposto no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 28 de outubro de 2009.
+Ministro Eros Grau
+- Relator -
+1
