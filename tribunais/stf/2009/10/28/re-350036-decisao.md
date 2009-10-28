@@ -1,0 +1,31 @@
+DECISÃO
+Vistos.
+Estado do Rio de Janeiro interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Nona Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+
+“DIREITO ADMINISTRATIVO – GRATIFICAÇÃO DE ENCARGOS ESPECIAIS – CORONÉIS DA POLICIA MILITAR ESTADUAL – NATUREZA DE CARÁTER GERAL – EXTENSÃO QUE ALCANÇA A TODAS AS CLASSES ATIVAS DA COOPERAÇÃO – AUMENTO DE VENCIMENTOS AINDA QUE MASCARADO SOB A NOMENCLATURA DE GRATIFICAÇÃO – DECISÃO QUE REPELE DIIRETO POSTULADO POR MILITAR ATIVO DE GRADUAÇÃO INFERIOR – SENTENÇA DEFERE DIREITO SUSTENTADO EM FIEL OBSERVÂNCIA DA REGULAR OBSERVÂNCIA DO PRINCÍPIO DA ISONOMIA – APELO PROVIDO – DECISÃO REFORMADA” (fl. 89).
+
+Opostos embargos de declaração (fls. 92 a 94), foram rejeitados (fls. 97/98).
+Alega o recorrente violação dos artigos 5º, inciso LV, e 37, inciso XIII, da Constituição Federal.
+Contra-arrazoado (fls. 114 a 118), o recurso extraordinário (fls. 101 a 111) foi admitido (fls. 129 a 132).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 16/2/01, conforme expresso na certidão de folha 99, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação.
+No que se refere ao artigo 5º, inciso LV, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte.
+Por outro lado, a jurisprudência desta Corte está consolidada no sentido de que a possibilidade de extensão aos outros servidores militares da gratificação de encargos especiais, concedida por processo administrativo apenas a um grupo de oficiais em atividade na Polícia Militar do Estado do Rio de Janeiro, é matéria de âmbito infraconstitucional local, incabível de reexame em sede de recurso extraordinário. Incidência da Súmula nº 280/STF. Anote-se:
+
+“ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO DE ENCARGO ESPECIAL. POLÍCIA MILITAR DO RIO DE JANEIRO. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. 1. O Tribunal a quo, interpretando legislação estadual que trata da matéria, entendeu que a gratificação de encargos especiais não poderia ser estendida aos demais militares. 2. Para se concluir, como pretende a parte agravante, necessário seria o reexame de legislação local. Precedentes. 3. Agravo regimental improvido” (RE nº 584.022/RJ-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJE de 30/6/09).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO POR ENCARGOS ESPECIAIS. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. A controvérsia foi decidida com fundamento na legislação local. Incidência da Súmula n. 280 deste Tribunal. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE nº 594.515/RJ–AgR, Segunda Turma, Relator o Ministro Eros Grau, DJE de 16/4/09).
+
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. PROCESSO ADMINISTRATIVO N. E-12/790/94. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INADMISSIBILIDADE DA ATUAÇÃO DO PODER JUDICIÁRIO COMO LEGISLADOR POSITIVO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 680.224/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJE de 12/3/09).
+
+“CONSTITUCIONAL. MILITAR. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 do STF. AGRAVO IMPROVIDO. I - A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais locais aplicáveis à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. II - Agravo regimental improvido” (RE nº 535.003/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 9/5/08).
+
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 28 de outubro de 2009.
+
+Ministro DIAS TOFFOLI
+Relator
+
+1
