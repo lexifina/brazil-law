@@ -1,0 +1,25 @@
+DECISÃO: 1. Trata-se de agravo regimental contra decisão do teor seguinte:
+“1. Trata-se agravo de instrumento interposto contra acórdão que, em mandado de segurança, concedeu a procuradores autárquicos aposentados, igualdade de vencimentos com os procuradores do Estado de São Paulo.
+2.  Consistente o recurso.
+A postura do acórdão impugnado está em aberta desconformidade com a jurisprudência da Corte sobre o tema, segundo a qual a Constituição da República não concedeu isonomia direta às carreiras jurídicas, que deve, pois, ser viabilizada mediante edição de lei específica (cf. ADIn nº 171, rel. Min. SEPÚLVEDA PERTENCE, in RTJ 153/361; RE nº 192.963, rel. Min. CARLOS VELLOSO, DJ de 04.04.97; RE nº 179.156, rel. Min. ILMAR GALVÃO, DJ de 20.09.96; AI nº 413974, rel. Min. ELLEN GRACIE, DJ 02.12.03).
+Ante o exposto, com base no art. 557, § 1º-A, do Código de Processo Civil, com a redação dada pela Lei nº 9.756, de 17.12.1998, conheço do recurso e dou-lhe provimento, para indeferir a segurança. Custas “ex lege” (fl. 302. Grifos no original).
+ A parte recorrente pede o provimento do recurso, pelas razões de fls. 396-426, que, em síntese, contrapõem-se ao argumento da decisão impugnada.
+2.  Assiste-lhe razão.
+Com efeito, trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça de São Paulo que, em mandado de segurança, reconheceu aos recorrentes, procuradores autárquicos aposentados, direito à manutenção do valor da vantagem denominada “verba honorária”, reduzida em razão da Lei Complementar estadual nº 827/97.
+Sustenta o Estado, com base no art. 102, III, a, da Constituição da República, violação aos seus arts. 37, XIII, 39, § 1º da Constituição Federal e 17 do Dispositivo Transitório.
+ Às fls. 947-961, informam os recorrentes que o Tribunal de Justiça declarou a inconstitucionalidade da Lei Complementar nº 827/97.
+3.  Inconsistente o recurso.
+Esta Corte firmou orientação no sentido de que o cotejo da Lei Complementar nº 827/97 com a legislação estadual local (LC nº 93/74; LC nº 478/88; LC nº 560/88; LC nº 677/92; LC nº 724/93 e Decreto 26.233/86) envolve discussão de índole infraconstitucional, que atrai a incidência da súmula 280.
+Na oportunidade, ressaltou que a declaração de inconstitucionalidade do art. 101 da Constituição estadual paulista, que equiparava procuradores autárquicos aos estaduais, não alcançaria, automaticamente, a legislação infraconstitucional anterior, que amparava o direito dos ora recorrentes.
+“EMENTA: AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PROCURADOR AUTÁRQUICO. ESTADO DE SÃO PAULO. PROVENTOS. REDUÇÃO. DIREITO LOCAL. SÚMULA Nº 280 DO STF. PRECEDENTE.
+1. No julgamento da ADIn 1434, esta Corte entendeu que a inconstitucionalidade do art. 101 da Constituição do Estado de São Paulo não acarreta a automática redução de proventos ou vencimentos que tinham por fundamento legislação anterior. Acórdão recorrido que, com base em interpretação de direito local, entendeu haver direito líquido e certo do ora agravante de não ter seus proventos reduzidos. Incidência da súmula nº 280 do STF.
+2. Agravo improvido” (AI nº 456.356-AgR, Rel. Min. ELLEN GRACIE, DJ de 1.7.2005. No mesmo sentido: AI nº 591.041-AgR, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 7.12.2006).
+E, no julgamento da ADI nº 1.434 (Rel. Min. SEPÚLVEDA PERTENCE, DJ de 25.2.2000), decidiu que
+“(...) o art. 37, XIII, [da Constituição Federal] ‘não proíbe a existência de eventual igualdade de vencimentos, ou remuneração de pessoal do serviço público; apenas impede que essa igualdade resulte de imperativa vinculação ou equiparação’, alude a il. Subprocuradora-Geral Anadyr Rodrigues ao problema suscitado a partir da afirmação - iterativamente posta na discussão da causa, com repercussão no voto do em. Ministro Celso de Mello no julgamento liminar - de que o pagamento dos valores então percebidos pelos Procuradores Autárquicos não decorriam da norma constitucional estadual questionada, mas sim de legislação complementar anterior (LC n. 93/74, art. 55, e §§ c/c o art. 82; LC n. 478/86; LC n. 560/88; LC n. 677/92, art. 18; LC n. 724/93, art. 3º, I, e art. 17).
+Ademais, o julgado consigna que a nova forma de cálculo da verba honorária implicou diminuição dos proventos dos servidores. A respeito, é assente a jurisprudência deste Tribunal;
+“não há direito adquirido do servidor público estatutário à inalterabilidade do regime jurídico pertinente à composição dos vencimentos, desde que a eventual modificação introduzida por ato legislativo superveniente preserve o montante global da remuneração e, em conseqüência, não provoque decesso de caráter pecuniário” (RE nº 238.122-AgR, Rel. Min. CELSO DE MELLO, DJ de 4.8.2000).
+4.  Ante o exposto, atendo ao agravo regimental e reconsidero a decisão de fl. 302, para, com base no art. 544, §§ 3º e 4º, do Código de Processo Civil, com a redação dada pelas Leis nos 9.756/98 e 8.950/94, negar seguimento ao recurso.
+ Publique-se. Int..
+ Brasília, 28 de outubro de 2009.
+Ministro CEZAR PELUSO
+Relator
