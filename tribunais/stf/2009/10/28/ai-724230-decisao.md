@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Município de Salvador interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 145, inciso II, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Câmara Especializada do Tribunal de Justiça do Estado da Bahia, assim ementado:
+“CONSTITUCIONAL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. OPOSIÇÃO POR INSTITUIÇÃO DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS. TAXA DE LIMPEZA PÚBLICA. COBRANÇA INDEVIDA. INCONSTITUCIONALIDADE. PRECEDENTES JURISPRUDENCIAIS. PROCEDÊNCIA. APELAÇÃO. PRESENÇA DOS PRESSUPOSTOS DE ADMISSIBILIDADE. SENTENÇA PROFERIDA EM CONSONÂNCIA COM ELEMENTOS CARREADOS PARA OS AUTOS E LEGISLAÇÃO EM VIGOR. RECURSO IMPROVIDO.
+A presença dos pressupostos de admissibilidade do recurso impõe seu conhecimento.
+‘Não é legítima a cobrança de taxa quando vinculada não apenas à coleta de lixo domiciliar, mas também à limpeza de logradouros públicos, em benefício da população em geral, sem possibilidade de individualização dos respectivos usuários.’ (AG.RG N° 478549, MIN. CARLOS VELOSO, J. 16/03/2004).
+Não merece reforma a sentença proferida com fundamentação, e em sintonia com elementos carreados para os autos e legislação em vigor” (fl. 9).
+Contra-arrazoado (fls. 55 a 68), o recurso extraordinário (fls. 25 a 32) foi admitido (fls. 70 a 72).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 2/9/06, conforme expresso na certidão de folha 11 verso, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação do recorrente, uma vez que o acórdão recorrido se ajusta ao entendimento já sedimentado por esta Corte no sentido de somente ser legítima a cobrança de taxa de limpeza pública se vinculada apenas à contraprestação efetiva de serviço específico e divisível de coleta domiciliar de lixo. Sobre o tema, anote-se:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TAXA DE COLETA DE LIXO. CONSTITUCIONALIDADE. DÉBITOS DA FAZENDA PÚBLICA. JUROS E CORREÇÃO MONETÁRIA. NECESSIDADE DE LEGISLAÇÃO QUE DISCIPLINE A MATÉRIA. SUCUMBÊNCIA. JUÍZO DA EXECUÇÃO. 1. A taxa de limpeza pública, quando não vinculada a limpeza de ruas e de logradouros públicos, constitui tributo divisível e específico, atendido ao disposto no artigo 145, II, da CB/88. Precedentes. 2. O fato de um dos elementos utilizados na fixação da base de cálculo do IPTU ser considerado quando da determinação da alíquota da taxa de coleta de lixo não significa que ambos tenham a mesma base de cálculo. Precedentes. 3. A correção monetária e a incidência de juros sobre os débitos da Fazenda Pública dependem de lei que regulamente a matéria. Precedentes. 4. Os honorários de sucumbência devem ser decididos no juízo da execução. Agravo regimental a que se nega provimento” (RE nº 532.940/PR-AgR , Segunda Turma, Relator o Ministro Eros Grau, DJ de 14/8/08 ).
+“TRIBUTÁRIO. TAXA DE LIMPEZA PÚBLICA (TLP). INEXIGIBILIDADE. ATIVIDADE ESTATAL QUE NÃO SE REVESTE DAS CARACTERÍSTICAS DE ESPECIFICIDADE E DIVISIBILIDADE. É assente nesta colenda Corte que a taxa de limpeza pública, cuida-se de atividade estatal que se traduz em prestação de utilidade inespecífica, indivisível e insuscetível de ser referida a determinado contribuinte, não podendo ser custeada senão por meio do produto da arrecadação dos impostos gerais. Nego provimento ao agravo” (AI nº 460.195/MG-AgR, Primeira Turma, Relator o Ministro Carlos Britto, DJ de 9/12/05).
+“1. É pacífica a jurisprudência desta Corte no sentido de ser inviável a cobrança da Taxa de Limpeza Pública, instituída pela Lei 5.641/89, pelo Município de Belo Horizonte, por se tratar de taxa vinculada não somente à coleta domiciliar de lixo, mas, também, à limpeza de logradouros públicos, serviço de caráter universal e indivisível. 2. Decisão fundamentada, embora contrária aos interesses da parte, não configura negativa de prestação jurisdicional. 3. Agravo regimental improvido” (AI nº 476.945/MG-AgR , Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 24/3/06).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 28 de outubro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
