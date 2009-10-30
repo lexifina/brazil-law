@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF05 nº 27, de 14 de agosto de 2009
+ASSUNTO: Normas Gerais de Direito Tributário
+EMENTA: Os débitos relativos ao pagamento mensal por estimativa do Imposto sobre a Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL não podem ser objeto de compensação pelo sujeito passivo, inclusive nos casos em que o sujeito passivo reduza o valor da estimativa mensal por meio de balanços ou balancetes mensais de redução, no período da vigência da MP 449 de 2008. A partir da vigência da Lei Nº11.941, de 2009, que não contemplou as alterações da MP 449 de 2008 ao § 3º do art. 74 da Lei Nº 9430 de 1996, o consulente pode apresentar declaração de compensação de débito de estimativa, estando o programa PER/DCOMP apto para a transmissão. Persiste a vedação a retificadoras de DCOMP transmitidas originalmente no período de vigência da MP 449 (de 4 de dezembro de 2008 a 27 de maio de 2009) para a inclusão de débito vedado pela MP.
+DISPOSITIVOS LEGAIS: Lei Nº 9.430, de 1996, arts. 1º, 2º, 3º, e 74, §3º, IX; MP Nº 449, de 2008, art. 29, Lei Nº 11.941, de 2009.
+[arquivo anexo: SC Disit-SRRF05 nº 27-2009.pdf]
