@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF10 nº 65, de 30 de setembro de 2009
+ASSUNTO: Outros Tributos ou Contribuições EMENTA: COFINS-IMPORTAÇÃO. CONTRIBUIÇÃO PARA O PIS/PASEP-IMPORTAÇÃO. INCIDÊNCIA. ROYALTIES. O pagamento, o crédito, a entrega, o emprego ou a remessa de valores a residentes ou domiciliados no exterior a título de royalties por direitos autorais e pelo uso de marcas sujeita-se à incidência da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação. DISPOSITIVOS LEGAIS: Lei Nº 10.865, de 2004, art. 1º, § 1º, art. 3º, II, e art. 7º, II.
+[arquivo anexo: SC SRRF10-Disit nº 65-2009.pdf]
