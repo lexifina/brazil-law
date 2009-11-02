@@ -1,0 +1,1 @@
+Art. 199-E. O Ministério Público poderá requerer a instauração de procedimento para apuração de responsabilidades se constatar o descumprimento das providências e do prazo previstos nos artigos anteriores.

@@ -1,0 +1,1 @@
+Art. 199-A. A sentença que deferir a adoção produz efeito desde logo, embora sujeita a apelação, que será recebida exclusivamente no efeito devolutivo, salvo se se tratar de adoção internacional ou se houver perigo de dano irreparável ou de difícil reparação ao adotando.

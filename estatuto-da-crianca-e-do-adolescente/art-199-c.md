@@ -1,0 +1,1 @@
+Art. 199-C. Os recursos nos procedimentos de adoção e de destituição de poder familiar, em face da relevância das questões, serão processados com prioridade absoluta, devendo ser imediatamente distribuídos, ficando vedado que aguardem, em qualquer situação, oportuna distribuição, e serão colocados em mesa para julgamento sem revisão e com parecer urgente do Ministério Público.

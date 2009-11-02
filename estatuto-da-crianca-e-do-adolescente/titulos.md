@@ -112,7 +112,7 @@ Dos Procedimentos
 Seção I
 Disposições Gerais
 Seção II
-Da Perda e da Suspensão do Pátrio Poder
+Da Perda e da Suspensão do Poder Familiar
 Seção III
 Da Destituição da Tutela
 Seção IV
@@ -124,6 +124,7 @@ Seção VI
 Da Apuração de Irregularidades em Entidade de Atendimento
 Seção VII
 Da Apuração de Infração Administrativa às Normas de Proteção à Criança e ao Adolescente
+Seção VIII
 Da Habilitação de Pretendentes à Adoção
 Capítulo IV
 Dos Recursos
