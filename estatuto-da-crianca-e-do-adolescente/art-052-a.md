@@ -1,0 +1,2 @@
+Art. 52-A. É vedado, sob pena de responsabilidade e descredenciamento, o repasse de recursos provenientes de organismos estrangeiros encarregados de intermediar pedidos de adoção internacional a organismos nacionais ou a pessoas físicas.
+Parágrafo único. Eventuais repasses somente poderão ser efetuados via Fundo dos Direitos da Criança e do Adolescente e estarão sujeitos às deliberações do respectivo Conselho de Direitos da Criança e do Adolescente
