@@ -1,0 +1,1 @@
+Art. 52-D. Nas adoções internacionais, quando o Brasil for o país de acolhida e a adoção não tenha sido deferida no país de origem porque a sua legislação a delega ao país de acolhida, ou, ainda, na hipótese de, mesmo com decisão, a criança ou o adolescente ser oriundo de país que não tenha aderido à Convenção referida, o processo de adoção seguirá as regras da adoção nacional.
