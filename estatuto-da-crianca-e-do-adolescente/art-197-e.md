@@ -1,0 +1,3 @@
+Art. 197-E. Deferida a habilitação, o postulante será inscrito nos cadastros referidos no art. 50 desta Lei, sendo a sua convocação para a adoção feita de acordo com ordem cronológica de habilitação e conforme a disponibilidade de crianças ou adolescentes adotáveis.
+§ 1º A ordem cronológica das habilitações somente poderá deixar de ser observada pela autoridade judiciária nas hipóteses previstas no § 13 do art. 50 desta Lei, quando comprovado ser essa a melhor solução no interesse do adotando.
+§ 2º A recusa sistemática na adoção das crianças ou adolescentes indicados importará na reavaliação da habilitação concedida.
