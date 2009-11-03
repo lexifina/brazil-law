@@ -1,0 +1,13 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal Regional Federal da 5ª Região.
+2. Da leitura dos autos, observo que a Instância Judicante de origem manteve integralmente a sentença que assegurou ao ora recorrido, candidato à vaga de Policial Rodoviário Federal reprovado no exame psicotécnico, o direito de prosseguir no certame. E o fez sob o fundamento de que é necessário que os exames psicotécnicos “sejam realizados em moldes nitidamente objetivos, possibilitando aos candidatos que não lograram êxito o conhecimento do resultado e a interposição de recurso” (fls. 107).
+3. A seu turno, a União aponta violação aos incisos XIV e XXXIII do art. 5º, aos incisos I e II e ao inciso II do § 3º do art. 37, todos da Magna Carta Federal.
+4. Tenho que a insurgência não merece acolhida. De saída, anoto que o inciso XIV do art. 5º e o inciso II do § 3º do art. 37 da Constituição Republicana não foram apreciados pela Corte de origem. Tampouco foram opostos embargos declaratórios para suprir eventual omissão. Falta, portanto, o necessário prequestionamento, a teor das Súmulas 282 e 356 do STF.
+5. Quanto ao mais, a controvérsia está centrada na eliminação de candidato do certame, após a reprovação em exame psicotécnico, este pautado em critérios subjetivos e irrecorríveis. Vejamos.
+6. Os atos administrativos praticados na condução de concurso para provimento de cargos públicos não se curvam apenas à legalidade. Devem ainda pautar-se por critérios objetivos. Isso para permitir ao candidato a compreensão e eventual impugnação do resultado que lhe foi atribuído em cada etapa do certame. Tal entendimento, por certo, é de ser aplicado ao exame psicotécnico.
+7. Com efeito, a jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta, é firme no sentido de que o exame psicotécnico é de: a) estar previsto em lei (RE 294.633-AgR, sob a relatoria do ministro Carlos Velloso; e AI 510.524, sob a relatoria do ministro Gilmar Mendes); b) ser pautado em critérios objetivos (RE 243.926, sob a relatoria do ministro Moreira Alves); c) viabilizar a recorribilidade de seus resultados (AI 265.933-AgR, sob a relatoria do ministro Sepúlveda Pertence; AI 467.616-AgR, sob a relatoria do ministro Celso de Mello; e RE 326.349-AgR, sob a relatoria do ministro Gilmar Mendes).
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 03 de novembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
