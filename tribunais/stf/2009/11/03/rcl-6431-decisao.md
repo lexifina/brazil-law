@@ -1,0 +1,24 @@
+DECISÃO: Reclamação, com pedido de medida liminar, proposta pelo Estado do Piauí contra ato da 1ª Vara dos Feitos da Fazenda Pública da Comarca de Teresina/PI nos autos do processo n. 13.593.2008.
+2.  O Estado afirmou que a autoridade reclamada afrontou acórdão prolatado por esta Corte na ADC n. 4/DF, vez que deferiu, em sede de antecipação de tutela, a promoção dos interessados ao Posto de 2º e 1º Tenente condicionada à ordem de classificação intelectual obtida no curso realizado.
+3.  Sustentou que “por obra daquele decisum os autores tiveram sua situação funcional modificada, alterando-se, além de sua posição na escala hierárquica da Polícia Militar do Piauí, a própria remuneração a que fazem jus”. [fl. 7].
+4.  Deferi a medida liminar para determinar a suspensão dos efeitos da antecipação de tutela concedida pelo Juízo da 1ª Vara dos Feitos da Fazenda Pública da Comarca de Teresina/PI, nos autos do processo n. 13.593.2008.
+5.  O Ministério Público Federal opinou pela procedência do pedido, reconhecendo a ofensa à autoridade da decisão proferida nos autos da ADC n. 4/DF [fls. 132/136].
+6.  É o relatório. Decido.
+7.  A Ministra CÁRMEN LÚCIA, ao decidir questão idêntica a ora em análise, RCL n. 8.183, DJe de 14.5.09, julgou procedente a reclamação por entender que:
+   “[...]
+No presente caso, não há parâmetro de identidade entre o que decidido no julgamento da Ação Declaratória de Constitucionalidade n. 4-DF e a situação descrita nos autos e objeto da presente reclamação. O pedido formulado na Ação Ordinária n. 11922009, ajuizada por Ocimar de Sousa Silva e outros, ora Interessados, diz respeito à ordem de classificação das notas obtidas por eles no curso de formação.
+É que a classificação intelectual - a posição alcançada em razão da nota obtida - determina a antiguidade dos Oficiais e, segundo estabelece o art. 14 da Lei n. 3.936/1984 (Lei de Promoções de Oficiais), o acesso ao posto.
+A promoção ao posto de Primeiro Tenente dos ora Interessados (que se deu em 21.4.2008) teria sido feita, segundo alegaram, sem observância de sua ordem de classificação intelectual, o que prejudicaria suas chances de concorrerem às promoções previstas para o dia 21.4.2009. Por isso, pediram fosse feita a reorganização dessa ordem, o que foi deferido pela autoridade reclamada, que determinou ao Reclamante que “condicion[asse] a promoção ao Posto de 1º Tenente, já ocorrida, à ordem de classificação intelectual obtida no respectivo curso, nos termos do artigo 14 da Lei de Promoção de Oficiais” (fl. 69, grifos nossos).
+Essa decisão não importa na reclassificação vedada pelo art. 1º da Lei 9.494/1997 c/c o art. 5º da Lei n. 4.348/1964, pois aquela se refere à movimentação do servidor na carreira, e não, como se dá no caso, à sua posição na lista de notas obtidas no curso de formação. Da decisão reclamada também não decorre aumento de vantagens ou vencimentos, uma vez que não determina a promoção dos Interessados, apenas lhes assegura seja observada a ordem em que essa promoção deverá ocorrer”.
+8.  Ademais, este Tribunal fixou o entendimento no sentido de que a antecipação de tutela contra a Fazenda Pública para os fins de nomeação em cargo público não ofende o decidido na ADC n. 4, vez que o pagamento de vencimentos consubstanciaria tão somente efeito secundário da investidura. Assim a ementa da Rcl n. 5.983-AgR, Relator o Ministro CEZAR PELUSO, DJe de 6.2.09:
+“EMENTA: SERVIDOR PÚBLICO. Cargo. Concurso público. Candidato aprovado. Nomeação e posse. Antecipação de tutela contra a Fazenda Pública para estes fins. Admissibilidade. Pagamento consequente de vencimentos. Irrelevância. Efeito secundário da decisão. Inaplicabilidade do acórdão da ADC nº 4. Reclamação indeferida liminarmente. Agravo improvido. Precedentes. Não ofende a autoridade do acórdão proferido na ADC nº 4, a decisão que, a título de antecipação de tutela, assegura a candidato aprovado em concurso a nomeação e posse em cargo público”
+No mesmo sentido:
+“EMENTA: ANTECIPAÇÃO DE TUTELA. Concessão contra a Fazenda Pública. Cargo público. Concurso público de Admissão ao Estágio de Adaptação à Graduação de Sargentos. Inscrição de candidato. Garantia em igualdade de condições dos demais, quanto às fases subseqüentes e matrícula no curso, em caso de aprovação. Decisão liminar não compreendida pelo art. 1º da Lei nº 9.494/97. Ofensa à autoridade da decisão proferida na ADC nº 4. Não ocorrência. Reclamação inviável. Seguimento negado. Agravo improvido. Precedentes. Não ofende a decisão liminar proferida na ADC nº 4, a antecipação de tutela que garante a inscrição de candidato em concurso público, ainda que da aprovação lhe resultem vantagens financeiras”
+[RCL n. 5.042-AgR, Relator o Ministro CEZAR PELUSO, DJ de 5.2.09].
+ Julgo improcedente a reclamação, nos termos do disposto no artigo 161, parágrafo único, do RISTF.
+ Arquivem-se os autos.
+ Publique-se.
+ Brasília, 3 de novembro de 2009.
+Ministro Eros Grau
+- Relator -
+1
