@@ -1,0 +1,10 @@
+DECISÃO: Reconsidero a decisão de fls. 252/253, restando prejudicado, em conseqüência, o exame do recurso interposto a fls. 266/274.
+Passo a examinar, desse modo, o presente agravo de instrumento.
+O Plenário do Supremo Tribunal Federal, ao apreciar o AI 715.423-QO/RS, Rel. Min. ELLEN GRACIE, firmou entendimento, posteriormente confirmado no julgamento do RE 540.410-QO/RS, Rel. Min. CEZAR PELUSO, no sentido de que também se aplica o disposto no art. 543-B do Código de Processo Civil aos recursos deduzidos contra acórdãos publicados antes de 03 de maio de 2007 e que veiculem tema em relação ao qual já foi reconhecida a existência de repercussão geral.
+Esta Suprema Corte, em sessão realizada por meio eletrônico, apreciando o RE 582.461/SP, Rel. Min. CEZAR PELUSO, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide, em todos os seus aspectos, com as mesmas controvérsias jurídicas ora versadas na presente causa.
+Os temas objeto do recurso extraordinário representativo de mencionadas controvérsias jurídicas, passíveis de se reproduzirem em múltiplos feitos, referem-se à discussão em torno da possibilidade de o montante pertinente ao ICMS integrar a própria base de cálculo desse tributo estadual, da aplicação da taxa SELIC como fator de correção de dívida tributária e do caráter alegadamente confiscatório da multa imposta por lei.
+Sendo assim, e pelas razões expostas, dou provimento ao presente agravo de instrumento, para admitir o recurso extraordinário a que ele se refere, impondo-se, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem, para que, neste, seja observado o disposto no art. 543-B e respectivos parágrafos do CPC (Lei nº 11.418/2006).
+Publique-se.
+Brasília, 04 de novembro de 2009.
+Ministro CELSO DE MELLO
+Relator
