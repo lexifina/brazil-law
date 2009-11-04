@@ -1,0 +1,22 @@
+1.  Trata-se de reclamação, com pedido de medida liminar, ajuizada pela Universidade Federal de Goiás – UFG, com fundamento nos arts. 102, I, l, da Constituição Federal; 14, II, da Lei 8.038/90; e 156 e seguintes do RISTF, contra a decisão proferida pelo Juízo da 6ª Vara Federal da Seção Judiciária do Estado de Goiás nos autos do Mandado de Segurança 1998.35.00.014390-0 (fls. 106-108).
+Noticia a reclamante que a decisão impugnada, apreciando embargos de declaração, condenou a Procuradora Federal Deusmary Rodrigues Campos, solidariamente com a UFG, ao pagamento da multa de 1% (um por cento) sobre o valor da causa, sob o entendimento de que tal recurso seria protelatório (art. 538, parágrafo único, do Código de Processo Civil).
+Diz a reclamante que interpôs agravo de instrumento contra essa decisão (fls. 174-184), que foi improvido monocraticamente (fl. 135), decisão mantida em agravo regimental (fls. 166-170), razão pela qual opôs embargos de declaração, ainda pendentes de julgamento.
+Sustenta, em síntese, que a atuação do juízo reclamado se mostra atentatória à autoridade da decisão proferida pelo Plenário desta Corte no julgamento da Ação Direta de Inconstitucionalidade 2.652/DF, rel. Min. Maurício Corrêa, DJ 14.11.2003, que deu interpretação conforme a Constituição Federal ao parágrafo único do art. 14 do Código de Processo Civil e declarou que a ressalva contida na parte inicial desse dispositivo alcança todos os advogados, independentemente de estarem sujeitos a outros regimes jurídicos.
+Alega que o parágrafo único do art. 14 do Código de Processo Civil excluiu a responsabilização do causídico na hipótese de eventual violação do art. 14, V, do CPC.
+Salienta também a existência do perigo na demora, consubstanciado no fato de que o agravo de instrumento não possui efeito suspensivo, podendo a multa processual em questão ser executada desde logo.
+Requer, ao final, a concessão de medida liminar, determinando-se a imediata suspensão da execução da decisão impugnada.
+2.  Reputo atendidos os requisitos necessários à concessão de medida liminar no presente caso.
+Vislumbro, neste juízo prévio, o confronto entre o ato emanado do juízo reclamado e a decisão proferida pelo Plenário desta Corte no julgamento da Ação Direta de Inconstitucionalidade 2.652/DF, rel. Min. Maurício Corrêa, assim ementada:
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE. IMPUGNAÇÃO AO PARÁGRAFO ÚNICO DO ARTIGO 14 DO CÓDIGO DE PROCESSO CIVIL, NA REDAÇÁO DADA PELA LEI 10358/2001. PROCEDÊNCIA DO PEDIDO.
+1. Impugnação ao parágrafo único do artigo 14 do Código de Processo Civil, na parte em que ressalva ‘os advogados que se sujeitam exclusivamente aos estatutos da OAB’ da imposição de multa por obstrução à Justiça. Discriminação em relação aos advogados vinculados a entes estatais, que estão submetidos a regime estatutário próprio da entidade. Violação ao princípio da isonomia e ao da inviolabilidade no exercício da profissão. Interpretação adequada, para afastar o injustificado discrímen.
+2. Ação Direta de Inconstitucionalidade julgada procedente para, sem redução de texto, dar interpretação ao parágrafo único do artigo 14 do Código de Processo Civil conforme a Constituição Federal e declarar que a ressalva contida na parte inicial desse artigo alcança todos os advogados, com esse título atuando em juízo, independentemente de estarem sujeitos também a outros regimes jurídicos.” (DJ 14.11.2003, destaquei).
+Quanto ao perigo na demora, verifico que o agravo de instrumento em comento não possui efeito suspensivo.
+Nesse sentido foram as decisões proferidas nas Reclamações 5.133/MG e 7.181/CE, rel. Min. Cármen Lúcia, Plenário, DJe 21.8.2009; e 7.944-MC/GO, rel. Min. Menezes Direito, DJe 06.4.2009.
+3.  Ante o exposto, defiro o pedido de liminar para suspender a aplicação da multa determinada na decisão proferida, em 23.01.2009, pelo Juízo da 6ª Vara Federal da Seção Judiciária do Estado de Goiás nos autos do Mandado de Segurança 1998.35.00.014390-0, apenas e tão-somente em relação à Procuradora Federal Deusmary Rodrigues Campos, sem prejuízo da continuidade do processamento do mencionado feito.
+Comunique-se a autoridade reclamada, requisitando-lhe informações, que deverão ser prestadas no prazo de 10 (dez) dias.
+Publique-se.
+Após o encaminhamento das informações, abra-se vista ao Procurador-Geral da República (arts. 16 da Lei 8.038/90 e 160 do RISTF).
+Brasília, 4 de novembro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
