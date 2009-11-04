@@ -1,0 +1,17 @@
+DECISÃO
+AGRAVO REGIMENTAL – JUÍZO DE RETRATAÇÃO – EMBARGOS DECLARATÓRIOS – MULTA - AUSÊNCIA DE RECOLHIMENTO – ADEQUAÇÃO – RECURSO ESPECIAL PROVIDO COM EXCLUSÃO DA MULTA.
+1.  À folha 334, proferi decisão do seguinte teor:
+RECURSO – MULTA – AUSÊNCIA DE RECOLHIMENTO - AGRAVO DESPROVIDO.
+1. A análise das peças trasladadas revela que o agravo está subscrito por profissional da advocacia regularmente constituído, veio acompanhado dos documentos previstos no artigo 544, § 1º, do Código de Processo Civil e foi protocolado no prazo legal. Ocorre, no entanto, que a parte agravante deixou de satisfazer o valor alusivo à multa estabelecida no artigo 538, parágrafo único, do mesmo diploma, a ela imposta pelo Tribunal de origem. Os pronunciamentos são reiterados no sentido da obrigatoriedade do recolhimento, sob pena de não-conhecimento do recurso interposto. Tratando-se de pressuposto recursal, de preliminar do recurso, incumbe o exame independentemente de provocação da parte e de pronunciamento do Juízo primeiro de admissibilidade.
+2. Conheço do agravo e o desprovejo.
+3. Publiquem.
+Brasília, 6 de maio de 2009.
+ No agravo regimental de folha 337 a 350, sustenta-se ter sido a multa excluída da condenação mediante o provimento parcial do especial simultaneamente protocolado. De qualquer forma, argumenta-se que o não recolhimento de multa apenas enseja o não conhecimento de recurso interposto na sequência, na hipótese de reiteração de embargos de declaração protelatórios. Passa-se a discorrer sobre a demonstração de ofensa frontal à Constituição Federal, a justificar o processamento do extraordinário.
+ A agravada apresentou a contraminuta de folha 391 a 394. Sustenta que, apesar de o Superior Tribunal de Justiça haver afastado a multa, as agravantes enquadraram-se na condição de litigantes de má-fé. Aduz gerar o não recolhimento da multa, na ocasião da protocolação do extraordinário, a deserção apontada. Tece considerações sobre o tema de fundo, afirmando terem as agravantes reconhecido a dívida objeto da controvérsia.
+2.  Na interposição deste agravo, observaram-se os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente constituído (folha 232 a 235), foi protocolada no prazo assinado em lei. Conheço.
+ No mais, realmente procede a alegada dualidade quanto ao parágrafo único do artigo 538 do Código de Processo Civil. A exigibilidade do recolhimento da multa para admitir-se outro recurso está jungida aos segundos declaratórios, à reiteração prevista no citado preceito. É sabença geral que norma restritiva de direito apenas viabiliza a interpretação estrita. Descabe dar alcance ao parágrafo único do artigo 538 do Código de Processo Civil a ponto de colocar, na mesma vala, situação concreta em que protocolizados os primeiros declaratórios e imposta a multa, que não pode exceder a 1% sobre o valor da causa, daquela outra em que ocorre a reiteração de embargos protelatórios. Mais do que isso tem-se revelado nestes autos. Quando prolatada a decisão alvo deste agravo regimental, já estava esgotada a jurisdição do Superior Tribunal de Justiça. A Corte conheceu do especial, adotando, ao que tudo indica, a óptica sobre o alcance do parágrafo único do artigo 538 do Código de Processo Civil, e veio a reformar o acórdão por meio do qual imposta a multa. O quadro é conducente a retratação.
+3.  Implemento-a para, conhecendo do agravo, provê-lo a fim de que o extraordinário tenha regular trânsito.
+4.  Publiquem.
+Brasília, 4 de novembro de 2009.
+Ministro MARCO AURÉLIO
+Relator
