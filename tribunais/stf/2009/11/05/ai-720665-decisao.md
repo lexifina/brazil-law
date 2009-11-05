@@ -1,0 +1,32 @@
+DECISÃO
+Vistos.
+O Estado do Maranhão interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 155, §2º, inciso I, da Constituição Federal de 1988 e 23, inciso II, da Constituição Federal de 1967, com a redação dada pela Emenda Constitucional de 1969 e acrescida pela Emenda Constitucional nº 23/83.
+Insurge-se, no apelo extremo, contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado do Maranhão, assim ementado:
+“APELAÇÃO CÍVEL. RESTAURAÇÃO DE AUTOS DE AÇÃO DECLARATÓRIA DE CRÉDITO DE ICMS ESCRITURADO. BENEFÍCIO DE ISENÇÃO ANTERIOR À CF/88, BEM COMO O AJUIZAMENTO DA AÇÃO. APLICAÇÃO DO PRINCÍPIO DA NÃO CUMULATIVIDADE. ADMISSIBILIDADE. CORREÇÃO MONETÁRIA DEVIDA. PRESCRIÇÃO INTERCORRENTE NÃO CONFIGURADA EM RAZÃO DA PARTE NÃO TER DADO CAUSA AO EXTRAVIO DO PROCESSO.
+I – A prescrição não pode correr quando a parte não deu causa ao extravio dos autos.
+II – Em razão do princípio da não-cumulatividade a empresa tem direito à declaração dos créditos escriturados referente à compra de matérias-primas, produtos intermediários e embalagens que foram adquiridos no período em que a empresa gozou do incentivo fiscal de isenção de imposto.
+III – Aplica-se a correção monetária aos créditos escriturados, já que o ente público impôs resistência ao aproveitamento dos créditos.
+IV – Apelo provido” (fl. 375).
+Opostos embargos de declaração (fls. 386 a 393), foram rejeitados (fls. 397 a 400).
+Da liminar de prescrição intercorrente, rejeitada, por maioria, foram interpostos embargos infringentes (fls. 402 a 408), não-providos pelo Tribunal de origem.
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos infringentes foi publicado em 26/9/06, conforme expresso na certidão de folha 480, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação.
+O Tribunal de origem ao analisar o direito de creditamento ao ICMS, assim consignou:
+“(...)
+Constata-se pela análise dos que a autora, ora apelante, restou beneficiada pelo Governo do Estado do Maranhão pela isenção fiscal correspondente a ‘totalidade dos impostos e taxas estaduais ora existentes ou que venham a ser posteriormente criados e que incidam ou venham a incidir sobre referida empresa e ou produtos de sua fabricação e comércio que utilizem como matéria-prima minérios existentes no Estado’, concedido através do Decreto nº 3.874 de 03 de março de 1969, em conformidade com o disposto na Lei nº 2885 de 10 de junho de 1968.
+Observa-se, ainda, que o incentivo foi concedido até o valor máximo correspondente aos impostos, devendo ser atendido pela autora, para tanto, alguns requisitos, tais como os previstos nos arts. 4° e 12 do mencionado Decreto. Segundo o apelado, não existem nos autos provas acerca do cumprimento de tais exigências, o que, segundo o meu entendimento, não pode ser óbice para o reconhecimento do direito, eis que restou amplamente provada a efetivação da isenção.
+Desse modo, cumpre-me verificar se a apelante tem direito de creditar-se do tributo que suportou durante as operações de entradas de matérias-primas, produtos intermediários e embalagens, ou se tal reconhecimento seria inviável, conforme afirma o recorrido, haja vista que na entrada de tais produtos a empresa não possui ônus tributário, já que o valor do tributo é transferido para o adquirente do produto final.
+Constata-se que razão assiste à recorrente em ter seu direito ao crédito declarado, pois a isenção fiscal não obsta o direito ao crédito escriturado, referente às mercadorias que adquiriu e recolheu imposto incidente sobre sua circulação e que é destacado nas notas de compras, vez que a aquisição anterior da mercadoria, que agora é objeto de operação não tributada, revela a operação de crédito e débito da pessoa industrial ou comerciante, a quem é dirigido o incentivo fiscal.
+Dessa forma, tem o direito de gozar do abatimento no momento que tiver de recolher o imposto incidente sobre o produto dirigido ao adquirente final, que se dará após o término do prazo da isenção, iniciado em 26 de novembro de 1973 até dia 25 de novembro de 1988, pois não poderia se valer do creditamento enquanto estava sendo beneficiada com o incentivo fiscal.
+Ressalte-se que a isenção e a ação declaratória ocorreram na vigência da Constituição Federal de 1967/69 e suas emendas, na qual previa que o ICM e o IPI não eram cumulativos, permitindo, portanto, a compensação entre as operações anteriores, o que também foi preservado pela atual Constituição através do princípio da não-cumulatividade.
+Embora o art. 34 do Ato das Disposições Transitórias tenha inserido o Sistema Tributário Nacional que substituiu a EC nº 01/69 e vedou a utilização de créditos acumulados em operações anteriores, no caso de isenção, declarando nulos esses créditos acumulados a partir de 1° de março de 1989, tal vedação não pode ser aplicada ao presente caso, haja vista que a ação declaratória foi ajuizada em 26.02.87, ou seja, antes desta modificação, o que possibilita o reconhecimento ao direito da apelante de se utilizar do crédito para abater o montante do imposto que deverá recolher quando findo o incentivo fiscal” (fls. 379/380).
+Nesse caso, para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame da legislação local e das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte. Nesse sentido, anote-se:
+“Recurso extraordinário: descabimento: ausência de prequestionamento do artigo 150, § 6º, da Constituição, tido por violado (Súmulas 282 e 356), decidida a questão à luz de legislação infraconstitucional local (L.est. 7.l37/99), a cujo reexame não se presta o recurso extraordinário: incidência da Súmula 280” (AI nº 444.267/MT-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 3/8/07).
+“O julgamento do recurso extraordinário está a depender do reexame de fatos e provas e da legislação do Estado de São Paulo, encontrando, assim, óbice nas Súmulas STF nº 279 e 280. Agravo regimental improvido” (RE nº 363.318/SP-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 4/4/03).
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 5 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
