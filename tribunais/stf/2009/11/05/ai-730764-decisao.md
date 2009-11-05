@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão denegatória de recurso extraordinário interposto contra acórdão assim ementado:
+“ POLICIAIS MILITARES – Gratificação de Indenização por Regime Especial de Trabalho Policial – IRETP – Lei Complementar nº 731/93 – Redução do percentual – Admissibilidade – Inocorrência de ofensa a direito adquirido e ao princípio da irredutibilidade de vencimentos – Precedentes – Recurso desprovido.” (fl. 160)
+No RE, alega-se ofensa aos arts. 5º, XXVI; e 7º, VI, da Constituição Federal (fls. 165-174).
+2.  O recurso não merece prosperar. Para divergir da conclusão a que chegou o Tribunal a quo, cumpriria examinar a legislação local (Lei Complementar 731/93), o que é defeso nesta fase recursal, nos termos da Súmula/STF 280. Nesse sentido:
+“ RECURSO . Extraordinário. Inadmissibilidade. Servidor Público. Vencimentos. Vantagens devidas: Gratificação do Regime Especial de Trabalho Policial - RETP, adicionais por tempo de serviço e sexta-parte. Interpretação de lei local. Agravo regimental não provido. Aplicação da súmula nº 280. Não cabe RE que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de direito local, seria apenas indireta à Constituição da República.” (AI 224.807-AgR/SP, rel. Min. Cezar Peluso, 1ª Turma, unânime, pub. DJ 05.03.2004).
+3.  Quanto à alegação de ofensa ao art. 5º e seu inciso, da Constituição Federal, além de o fato de decisão contrária aos interesses da parte não caracterizar violação aos dispositivos constitucionais apontados, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008 e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+4.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 05 de novembro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
