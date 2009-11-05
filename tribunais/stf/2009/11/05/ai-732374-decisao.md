@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão denegatória de recurso extraordinário interposto contra acórdão assim ementado:
+“AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. LEI Nº 12.585/1996 DO ESTADO DO CEARÁ. GRATIFICAÇÃO DE DESEMPENHO FAZENDÁRIO. SUPRESSÃO. LEI DE EFEITOS CONCRETOS. PRESCRIÇÃO DO PRÓPRIO FUNDO DE DIREITO. RECONHECIMENTO.” (fl. 276).
+No RE, alega-se ofensa aos arts. 5º, XXXVI; e 93, IX, da Constituição Federal (fls. 290-301).
+2.  O recurso não merece prosperar. Para divergir da conclusão a que chegou o Tribunal a quo, cumpriria examinar a legislação local (Lei Estadual 12.585/96), o que é defeso nesta fase recursal, nos termos da Súmula/STF 280. Nesse sentido:
+“O acórdão recorrido concedeu a segurança para determinar o pagamento da Gratificação de Desempenho Fazendário incidente sobre cargos em comissão incorporados, que havia sido retirada dos servidores ora agravados, com base no disposto na Emenda Constitucional Estadual nº 21/95, bem como na Lei 12.582/96, a qual instituiu novo Plano de Cargos e Carreiras aos servidores do Grupo TAF. (...) A decisão é de ser mantida. Para analisar a ofensa ao direito adquirido ter-se-ia, antes, que analisar a controvérsia sob o enfoque da matéria infraconstitucional, local, o que atrai a incidência da Súmula 280-STF.” (AI 335.502/CE, rel. Min. Carlos Velloso, pub. DJ 10.10.2001).
+3.  Quanto à alegação de ofensa ao art. 5º e seus incisos, e ao 93, IX, da Constituição Federal, além de o fato de decisão contrária aos interesses da parte não caracterizar violação aos dispositivos constitucionais apontados, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008 e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+4.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 05 de novembro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
