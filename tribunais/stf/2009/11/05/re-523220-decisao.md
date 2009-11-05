@@ -1,0 +1,71 @@
+DECISÃO: 1. Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça de São Paulo e assim ementado:
+
+“Ação Direta de Inconstitucionalidade. Lei Municipal que autorizou o Município a permutar imóveis por serviços, sem licitação. Violação dos artigos 111, 117 e 144 da Constituição do Estado de São Paulo. Ação procedente” (fl. 141) (grifou-se).
+
+Opostos embargos de declaração, foram rejeitados (fl. 206).
+
+Sustenta o recorrente, com base no art. 102, III, a, violação ao art. 102, I, a, da Constituição Federal, reproduzido na Constituição Estadual no art. 74, VI c.c art. 90, por impossibilidade de argüição direta de inconstitucionalidade de lei dotada de efeitos concretos.
+
+Aduz, em síntese, que a Lei Municipal nº 9.227/04 não se revestiria de generalidade e abstração próprias de ato legislativo, passível de ser controlado pela via concentrada, por versar permuta de imóveis para construção de uma unidade de saúde de família (USF), a ser executado por empresa de engenharia, ato que se esgotaria com a sua concretização.
+
+2.  Inconsistente o recurso.
+
+Trata-se de representação de inconstitucionalidade argüida pela Procuradoria-Geral de Justiça, com objetivo de ver declarada inconstitucional a Lei Municipal nº 9.227/04, que autorizou o Município a permutar imóvel de sua propriedade com prédio da unidade de saúde familiar (USF), a ser edificado por empresa de construções e incorporações, em terreno institucional da Prefeitura, de acordo com os valores das avaliações do imóvel e da obra, por afronta aos artigos 111, 117, caput, e 144 da Constituição Estadual.
+
+Os artigos 111, 117, caput, e 144 da Constituição Estadual dispõem, respectivamente:
+
+“Artigo 111 – A administração pública direta, indireta ou fundacional, de qualquer dos Poderes do Estado, obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade, razoabilidade, finalidade, motivação, interesse público e eficiência.
+
+Artigo   117 - Ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações.
+
+Parágrafo único - É vedada à administração pública direta e indireta, inclusive fundações instituídas ou mantidas pelo Poder Público, a contratação de serviços e obras de empresas que não atendam às normas relativas à saúde e segurança no trabalho.
+
+Artigo 144 - Os Municípios, com autonomia política, legislativa, administrativa e financeira se auto-organizarão por Lei Orgânica, atendidos os princípios estabelecidos na Constituição Federal e nesta Constituição.”
+
+O recorrente aponta violação aos artigos 102, I, a, da Constituição Federal, cujo teor encontra-se reproduzido nos arts. 74, VI c.c art. 90, da Constituição Estadual, e nos quais estão previstas as regras do controle abstrato de constitucionalidade naquela esfera federativa.
+
+Consta da Lei Municipal nº 9.227/04, objeto da impugnação na via abstrata perante o Tribunal Estadual, autorização para permuta de imóveis da Prefeitura com obras e serviços de engenharia, a ser executada e custeada por Grupofort Construções e Incorporações Ltda., “para a construção de um equipamento público (unidade de saúde da família) no Jardim Maria Lúcia, obra esta cujo valor estimado é de R$ 317.934,28 (trezentos e dezessete mil, novecentos e trinta e quatro reais e vinte e oito centavos), conforme planilha de custo que integra a presente lei” (fl. 4).
+
+O Tribunal de origem conheceu e proveu a ação direta de inconstitucionalidade estadual por reputar admissível controle abstrato da referida lei, uma vez que “no caso dos autos, interessa, acima de tudo, saber se a lei é ou não inconstitucional, pouco importando se ela tem ou se já produziu efeitos concretos” (fl. 147).
+
+Cite-se, por oportuno, quanto ao ponto, fundamento constante do voto vencedor:
+
+“(...) Realmente, quanto à questão da lei de efeitos concretos ser proclamada ou não inconstitucional, o legislador não distingue ente leis dotadas de generalidade e abstração, daquelas sem esses atributos. Como atos formais, editadas sob comando legal, não se mostra razoável que o intérprete as subtraia (chamadas de efeitos concretos) do controle abstrato de normas, inclusive em virtude da relevância que possam ter no contexto social, a demandar a jurisdição de sua constitucionalidade” (fl. 149).
+
+O entendimento não destoa da jurisprudência desta Corte no sentido de que norma ou lei de efeito concreto pode ser objeto de controle abstrato de constitucionalidade, em ação direta de inconstitucionalidade. Cite-se, a título de exemplo, o acórdão da ADI nº 4.048 (Rel. Min. GILMAR MENDES, Dje 22.8.2008), assim ementado:
+
+“MEDIDA CAUTELAR EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MEDIDA PROVISÓRIA N° 405, DE 18.12.2007. ABERTURA DE CRÉDITO EXTRAORDINÁRIO. LIMITES CONSTITUCIONAIS À ATIVIDADE LEGISLATIVA EXCEPCIONAL DO PODER EXECUTIVO NA EDIÇÃO DE MEDIDAS PROVISÓRIAS. I. MEDIDA PROVISÓRIA E SUA CONVERSÃO EM LEI. Conversão da medida provisória na Lei n° 11.658/2008, sem alteração substancial. Aditamento ao pedido inicial. Inexistência de obstáculo processual ao prosseguimento do julgamento. A lei de conversão não convalida os vícios existentes na medida provisória. Precedentes. II. CONTROLE ABSTRATO DE CONSTITUCIONALIDADE DE NORMAS ORÇAMENTÁRIAS. REVISÃO DE JURISPRUDÊNCIA. O Supremo Tribunal Federal deve exercer sua função precípua de fiscalização da constitucionalidade das leis e dos atos normativos quando houver um tema ou uma controvérsia constitucional suscitada em abstrato, independente do caráter geral ou específico, concreto ou abstrato de seu objeto. Possibilidade de submissão das normas orçamentárias ao controle abstrato de constitucionalidade. III. LIMITES CONSTITUCIONAIS À ATIVIDADE LEGISLATIVA EXCEPCIONAL DO PODER EXECUTIVO NA EDIÇÃO DE MEDIDAS PROVISÓRIAS PARA ABERTURA DE CRÉDITO EXTRAORDINÁRIO. Interpretação do art. 167, § 3º c/c o art. 62, § 1º, inciso I, alínea "d", da Constituição. Além dos requisitos de relevância e urgência (art. 62), a Constituição exige que a abertura do crédito extraordinário seja feita apenas para atender a despesas imprevisíveis e urgentes. Ao contrário do que ocorre em relação aos requisitos de relevância e urgência (art. 62), que se submetem a uma ampla margem de discricionariedade por parte do Presidente da República, os requisitos de imprevisibilidade e urgência (art. 167, § 3º) recebem densificação normativa da Constituição. Os conteúdos semânticos das expressões "guerra", "comoção interna" e "calamidade pública" constituem vetores para a interpretação/aplicação do art. 167, § 3º c/c o art. 62, § 1º, inciso I, alínea "d", da Constituição. "Guerra", "comoção interna" e "calamidade pública" são conceitos que representam realidades ou situações fáticas de extrema gravidade e de conseqüências imprevisíveis para a ordem pública e a paz social, e que dessa forma requerem, com a devida urgência, a adoção de medidas singulares e extraordinárias. A leitura atenta e a análise interpretativa do texto e da exposição de motivos da MP n° 405/2007 demonstram que os créditos abertos são destinados a prover despesas correntes, que não estão qualificadas pela imprevisibilidade ou pela urgência. A edição da MP n° 405/2007 configurou um patente desvirtuamento dos parâmetros constitucionais que permitem a edição de medidas provisórias para a abertura de créditos extraordinários. IV. MEDIDA CAUTELAR DEFERIDA. Suspensão da vigência da Lei n° 11.658/2008, desde a sua publicação, ocorrida em 22 de abril de 2008” (No mesmo sentido: RE nº 457.455, da minha relatoria, 24.8.2009; ADI nº 4.049 MC, Rel  Min. CARLOS BRITTO, Tribunal Pleno, DJe 08.5.2009; ADI nº 1.729, Rel.  Min. EROS GRAU, Tribunal Pleno, DJ 02.2.2007; ADI nº 3.603, Rel.  Min. EROS GRAU, Tribunal Pleno, DJ 02.2.2007; ADI nº 2.990, Rel. Min. JOAQUIM BARBOSA, Rel. p/ acórdão Min. EROS GRAU, Tribunal Pleno, 24.8.2007; ADI nº 3.626 MC, Rel.  Min. MARCO AURÉLIO, Tribunal Pleno, DJe 17.8.2007; ADI nº 13, Rel. Min. JOAQUIM BARBOSA, Tribunal Pleno, DJe 28.9.2007).
+
+É dizer, leis de efeitos concretos, se inconstitucionais, podem causar tanto dano à ordem jurídica como qualquer outra lei.
+
+Nesse sentido, menciono fundamento adotado pelo Relator da ADI nº 4.048:
+
+“(...) A extensão da jurisprudência, desenvolvida para afastar do controle abstrato de normas os atos administrativos de efeito concreto, às chamadas leis formais suscita, sem dúvida, alguma insegurança, porque coloca a salvo do controle de constitucionalidade um sem-número de leis.
+Não se discute que os atos do Poder Público sem caráter de generalidade não se prestam ao controle abstrato de normas, porquanto a própria Constituição elegeu como objeto desse processo os atos tipicamente normativos, entendidos como aqueles dotados de um mínimo de generalidade e abstração.
+Ademais, não fosse assim, haveria uma superposição entre a típica jurisdição constitucional e a jurisdição ordinária.
+Outra há de ser, todavia, a interpretação, se se cuida de atos editados sob a forma de lei. Nesse caso, houve por bem o constituinte não distinguir entre leis dotadas de generalidade e aqueloutras, conformadas sem o atributo da generalidade e abstração. Essas leis formais decorrem ou da vontade do legislador ou do desiderato do próprio constituinte, que exige que determinados atos, ainda que de efeito concreto, sejam editados sob a forma de lei (v.g, lei de orçamento, lei que institui empresa pública, sociedade de economia mista, autarquia e fundação pública).
+Ora, se a Constituição submete a lei ao processo de controle abstrato, até por ser este o meio próprio de invocação da ordem jurídica e o instrumento adequado de concretização da ordem constitucional, não parece admissível que o intérprete debilite essa garantia da Constituição, isentando um número elevado de atos aprovados sob a forma de lei do controle abstrato de normas e, muito provavelmente, de qualquer forma de controle. É que muitos desses atos, por não envolverem situações subjetivas, dificilmente poderão ser submetidos a um controle de legitimidade no âmbito da jurisdição ordinária.
+Ressalte-se que não se vislumbram razões de índole lógica ou jurídica contra a aferição da legitimidade das leis formais no controle abstrato de normas, até porque abstrato – isto é, não vinculado ao caso concreto – há de ser o processo e não o ato legislativo submetido ao controle de constitucionalidade. (...)
+Os estudos e análises no plano da teoria do direito indicam que tanto se afigura possível formular uma lei de efeito concreto – lei casuística – de forma genérica e abstrata quanto seria admissível apresentar como lei de efeito concreto regulação abrangente de um complexo mais ou menos amplo de situações (...)”.
+
+Por sua vez, constam da fundamentação do acórdão impugnado, os seguintes argumentos para a declaração da inconstitucionalidade da lei municipal:
+
+“(...) a) a dispensa de licitação, nos termos do art. 108, I, da Lei Orgânica do Município, no caso de permuta, está condicionada a permuta por outro imóvel destinado ao atendimento das finalidades precípuas da Administração, cujas necessidades de instalação e localização condicionem a sua escolha, desde que o preço seja compatível com o valor de mercado. Nesse sentido, o artigo 17 da Lei Federal 8.666/93; b) o objeto do projeto de lei em exame não se enquadra na dispensa da licitação constantes dos artigos 108, I, da LOM e 17, I, ‘c’, e 24, X, da Lei Federal 8.666/93, com suas alterações posteriores, pois, trata-se de permuta de imóveis por serviços e obras de engenharia; c) dispõem o artigo 2º e parágrafo único da Lei 8.666/93 e o artigo 37, XXI da Constituição Federal que, ‘ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações (...)” (fl. 145).
+
+O Pleno desta Corte já enfrentou, na ADI nº 927-3 MC (Rel.  Min. CARLOS VELLOSO, DJ 11.11.1994), tema análogo à questão ora em análise. Veja-se, no que interessa, trecho da decisão, que não destoa do acórdão recorrido:
+
+“No que toca à permuta de bens imóveis – art. 17, I, ‘c’ – não vejo ocorrer o problema posto na inicial. O que ali está disposto, ao que penso, é que será dispensada a licitação, tratando-se de permuta de imóvel, quando ocorrer ela por outro imóvel que atenda aos requisitos do inciso X do art. 24, vale dizer, quando se tratar de ‘imóvel destinado ao serviço público, cujas necessidades de instalação e localização condicionem a sua escolha, desde que o preço seja compatível com o valor de mercado segundo avaliação prévia’. Fora daí, parece-me razoável a exigência de licitação.”
+
+Portanto, à luz da jurisprudência desta Corte, a permuta de imóveis, sem realização de licitação, somente seria possível se realizada com outros imóveis, à luz da legislação federal (art. 17, da Lei nº 8.666/93), por versar norma de observância obrigatória aos demais entes da federação.
+
+Neste sentido, não merece reforma o acórdão proferido pela Corte a quo, que, ao declarar inconstitucional lei municipal, em face da Constituição Estadual, por dispensa de procedimento licitatório em situação distinta daquela permitida na lei federal, observou o entendimento firmado pela Corte no julgamento da suso mencionada ADI nº 927-3 MC.
+
+É que, a Constituição Federal, em seu art. 37, XXI, estabeleceu como regra, a obrigatoriedade da licitação, no que concerne à contratação de obras, serviços, compras e alienações.
+
+3.  Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+
+Publique-se. Int..
+Brasília, 05 de novembro de 2009.
+
+Ministro CEZAR PELUSO
+Relator
