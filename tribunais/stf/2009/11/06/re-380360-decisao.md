@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Empresa Brasileira de Correios e Telégrafos interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“TRIBUTÁRIO. IMUNIDADE. EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS. DECRETO-LEI 509/69.
+A Empresa Brasileira de Correios e Telégrafos – ECT não mais goza de imunidade tributária recíproca na vigência da atual Constituição Federal, uma vez que a Carta Política não assegura tal privilégio tributário às empresas públicas, abarcando somente autarquias e fundações. Não se pode reconhecer que o art. 12 do Decreto-Lei 509/69 garante tal benefício aos Correios. Apelação desprovida” (fl. 363).
+Alega a recorrente contrariedade aos artigos 5º, incisos II e LIV, 100 e 165, §5º, da Constituição Federal. Afirma que “a recorrente é empresa pública criada pelo Decreto-Lei nº 509, de 10 de março de 1969, com capital constituído integralmente pela União Federal (art. 6º), gozando de privilégios equivalentes aos da Fazenda Pública” (fl. 398).
+Sem contrarrazões (fl. 424), o recurso extraordinário (fls. 392 a 401) foi admitido (fl. 427).
+Decido.
+Anote-se, primeiramente, que o acórdão recorrido, conforme expresso na certidão de folha 364, foi publicado em 12/6/02, não sendo exigível, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+Decido.
+A irresignação merece prosperar.
+A jurisprudência deste Supremo Tribunal pacificou entendimento no sentido de que as empresas públicas prestadoras de serviço público em geral e a recorrente em particular são beneficiárias da imunidade recíproca de que trata o artigo 150, inciso VI, “a”, § 2º, da Constituição Federal. Nesse sentido, confira-se:
+“Tributário. Imunidade recíproca. Art. 150, VI, ‘a’, da Constituição Federal. Extensão. Empresa pública prestadora de serviço público. Precedentes da Suprema Corte. 1. Já assentou a Suprema Corte que a norma do art. 150, VI, ‘a’, da Constituição Federal alcança as empresas públicas prestadoras de serviço público, como é o caso da autora, que não se confunde com as empresas públicas que exercem atividade econômica em sentido estrito. Com isso, impõe-se o reconhecimento da imunidade recíproca prevista na norma supracitada. 2. Ação cível originária julgada procedente” (ACO nº 765/RJ, Tribunal Pleno, Redator para o acórdão o Ministro Menezes Direito, DJE de 4/9/09).
+“CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMUNIDADE RECÍPROCA. EMPRESA PÚBLICA PRESTADORA DE SERVIÇOS PÚBLICOS (ECT). AGRAVO REGIMENTAL DESPROVIDO. I - O acórdão recorrido encontra-se em harmonia com o entendimento da Corte no sentido de que a imunidade recíproca dos entes políticos é extensiva à empresa pública prestadora de serviço público (RE 354.897/RS, Rel. Min. Carlos Velloso). II - Agravo regimental a que se nega provimento” (AI nº 690.242/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 17/4/09).
+ “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. IMUNIDADE TRIBUTÁRIA RECÍPROCA. IPTU. EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS. ABRANGÊNCIA. PRECEDENTES. O Plenário do Supremo Tribunal Federal declarou a compatibilidade do Decreto-lei n. 509/69 – que dispõe sobre a impenhorabilidade dos bens da ECT e os benefícios fiscais outorgados a essa Empresa – com a Constituição do Brasil. Agravo regimental a que se nega provimento” (AI nº 718.646/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 24/10/08).
+Na mesma linha os acórdãos nos Recursos Extraordinários nºs 364.202/RS, 424.227/SC, 354.897/RS e 398.630/SP, todos da Segunda Turma e de Relatoria do Ministro Carlos Velloso e os julgamentos da ACO nº 811/DF-AgR, Tribunal Pleno, Relator o Ministro Gilmar Mendes e da ACO nº 865/DF, Relator o Ministro Eros Grau.
+Ante o exposto, nos termos do artigo 557, §1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para julgar procedente o pedido formulado na inicial. Invertidos os ônus da sucumbência.
+Publique-se.
+Brasília, 6 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
