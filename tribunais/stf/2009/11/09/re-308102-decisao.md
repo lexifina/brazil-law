@@ -1,0 +1,13 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com base nas alíneas “a” e “b” do inciso III do art. 102 da Constituição Federal, contra acórdão da Primeira Turma Recursal Cível da Capital/RJ. Acórdão assim ementado (fls. 126):
+“Energia Elétrica. Serviço essencial. Taxa de Manutenção de Rede Elétrica – TMRI. Cobrança aglutinada em serviço público essencial. Ofensa aos direitos do cidadão/consumidor. Cobrança de taxa por concessionária de serviço público, em flagrante desrespeito à função precípua da empresa. Concessionária que extravasa a relação contratual estabelecida, não comprovando a condição que alega. Contrato paralelo, desconhecido do consumidor que o atinge frontalmente, de forma prejudicial, suprimindo-lhe as garantias constitucionais do devido processo legal, do contraditório e da ampla defesa. Conduta que se configura mais gravosa na medida em que impede ao consumidor/cidadão insurgir-se de plano contra a cobrança, vez que não pode prescindir da energia elétrica. Menosprezo demonstrado pela recorrente às regras dispostas na Carta Magna e no CODECON. Inteligência dos art. 5º, XXXII, da CF e arts. 1º, 4º, 39, I, III, IV, 42, parágrafo único, 46 e 51, III, todos da Lei 8078/90.”
+2. Pois bem, a parte recorrente alega violação ao art. 1º, aos incisos I e III do art. 3º, aos incisos XXXII, XXXV e LIV do art. 5º, ao art. 97 e ao inciso V do art. 170, todos da Magna Carta de 1988, bem como ao art. 48 do ADCT.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Haroldo Ferraz da Nóbrega, opina pelo não conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. De saída, observo que os temas constitucionais tidos por violados, à exceção do inciso XXXII do art. 5º, não foram apreciados pela Instância Judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Falta, portanto, o necessário prequestionamento (Súmulas 282 e 356 do STF).
+5. Noutro giro, pontuo que entendimento diverso do adotado pela Corte de origem exigiria o reexame da legislação infraconstitucional pertinente (Código de Defesa do Consumidor) e a análise de cláusulas contratuais (Súmula 454 do STF). Providências vedadas na instância extraordinária. Precedente: RE 536.130-AgR, da relatoria do ministro Cezar Peluso.
+6. À derradeira, anoto que o aresto impugnado afina com a jurisprudência do Supremo Tribunal Federal, no sentido de que o serviço de iluminação pública não é de ser remunerado mediante taxa (Súmula 670 do STF).
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 09 de novembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
