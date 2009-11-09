@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+João Alberto Roso interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, incisos X e XII, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Quinta Câmara Cível do Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+“RESPONSABILIDADE CIVIL. INDENIZAÇÃO. DANOS MORAIS, QUEBRA DE SIGILO BANCÁRIO. INCLUSÃO EQUIVOCADA, POR PARTE DA AUTORIDADE FISCAL, DO NOME E CPF DO RESPONSÁVEL PELA EMPRESA, NO PEDIDO DE INFORMAÇÕES. LEGITIMIDADE PASSIVA. Não possui legitimidade para figurar no pólo passivo da ação a instituição financeira que procede na quebra do sigilo bancário, fornecendo informações em relação ao autor, a partir da solicitação da autoridade fiscal. Descabe ao Banco averiguar se as pessoas – físicas e jurídicas – nominadas no memorando em que solicitadas informações correspondem as que estão sendo objeto de auditoria. Base legal ao cumprimento da solicitação de quebra de sigilo, inclusive com cominação de multa para o caso de não atendimento por parte das instituições financeiras. PRELIMINAR ACOLHIDA, APELO PROVIDO. PREJUDICADO O RECURSO DO AUTOR” (fl. 347).
+Opostos embargos de declaração (fls. 353 a 364), foram rejeitados (fls. 367 a 371).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 3/2/05, conforme expresso na certidão de folha 372, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, uma vez que a jurisprudência pacífica desta Corte é no sentido de que a discussão acerca da existência ou não de legitimidade passiva está restrita ao plano da legislação processual ordinária, cujo exame não é possível em recurso extraordinário. Sobre o tema, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. LEGITIMIDADE PASSIVA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 720.735/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/2/09)
+“Processual. Legitimidade passiva. Controvérsia infraconstitucional. Ofensa indireta à CF. Regimental não provido” (AI nº 438.115/SP-AgR, Segunda Turma, Relator o Ministro Nelson Jobim, DJ de 17/10/03).
+Por outro lado, para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 636 desta Corte. Sobre o tema, anote-se:
+“RE: descabimento: debate relativo à existência de nexo de causalidade a justificar indenização por dano material e moral, que reclama o reexame de fatos e provas: incidência da Súmula 279” (AI nº 359.016/DF-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 7/5/04).
+“AGRAVO REGIMENTAL. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO. DANO MORAL. REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. 1. A via extraordinária não é adequada para se questionarem as circunstâncias fáticas que ensejaram o afastamento da condenação em danos morais e se fazer processar, como se pretende no presente agravo regimental, reexame de matéria probatória reservada às instâncias ordinárias de mérito. 2. Incidência da Súmula 279 do Supremo Tribunal Federal. 3. Agravo ao qual se nega provimento” (AI nº 565.159/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 16/2/07).
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 9 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
