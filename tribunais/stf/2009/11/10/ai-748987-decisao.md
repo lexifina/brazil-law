@@ -1,0 +1,27 @@
+DECISÃO
+Vistos.
+União interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário, assentado em contrariedade ao artigo 150, inciso II, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão proferido pela Sexta Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+“TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. LEIS NS.º 9.469/97 E 10.522/02. PORTARIA N.º 49/04. DÉBITO INFERIOR A R$ 10.000 (DEZ MIL REAIS). EXTINÇÃO. FALTA DE INTERESSE PROCESSUAL.
+1. O r. juízo a quo julgou extinta a execução fiscal, nos termos dos arts. 267, VI do Código de Processo Civil, sob o fundamento de falta de interesse processual, por ser de pequena monta o débito exeqüendo.
+2. Revejo posicionamento firmado desde o julgamento da AC n.º 1999.61.11.010373-4 pela 2ªSeção desta Corte (j. 06.05.2003, DJU 04.07.2003, p. 674), e acolho a orientação favorável à extinção do feito. Atende ao interesse público a extinção da execução fiscal de pequeno valor, tendo em vista o custo da movimentação da máquina judiciária.
+3. O Colendo Supremo Tribunal Federal já assentou a legitimidade da extinção dos executivos fiscais, nos casos de pequena expressão econômica da dívida ativa, em face dos princípios constitucionais da isonomia e do acesso à Justiça (STF, RE n.º 252965/SP, Rel. p/ acórdão Min. Celso de Mello, DJ 29.09.2000, p. 98).
+4. Cabe ao magistrado aferir o interesse processual, com base nos parâmetros normativos fixados, e determinar, se for o caso, a extinção da execução fiscal com fulcro no art. 267, VI, do Estatuto Processual Civil (STJ, 2ª Turma, REsp n.º 200200463266/PR, Rel. Min. Castro Meira, j. 16.11.04, DJU 14.03.05, p. 248).
+5. Quanto ao valor do débito exeqüendo a ser considerado para tal fim deve ser adotado o atual patamar de R$ 10.000,00 (dez mil reais), com base nos parâmetros normativos estabelecidos para dívidas ativas da Fazenda Nacional, que é a hipótese dos autos.
+6. Perfilho o entendimento de que não se justifica a discrepância de tratamento dispensado a débitos situados dentro de igual patamar. Enquanto a vigente Portaria MF n.º 49/04 autoriza o não ajuizamento das execuções fiscais de valor atualizado não superior a R$ 10.000,00, o art. 20, § 1º da Lei n.º 10.522/02, em sua redação atual, prevê o arquivamento, sem baixa na distribuição, do débito exeqüendo dentro deste mesmo patamar.
+7. Cabe ao Poder Judiciário coibir situações atentatórias ao princípio da isonomia (art. 150, II da Constituição Federal), impondo-se a extinção da execução fiscal promovida pela Fazenda Nacional de valor atualizado igual ou inferior ao patamar atualmente em vigor (R$ 10.0000,00), com baixa na distribuição.
+8. No presente caso, sendo o valor consolidado do débito em face da Fazenda Nacional inferior a R$ 10.000,00 (dez mil reais), deve ser mantida a r. sentença que adequadamente extinguiu o processo sem julgamento do mérito, por falta de interesse processual (CPC, art. 267, VI).
+9. Precedente desta C. 6ª Turma: AC n.º 1999.03.99.027893-6, Rel. Des. Fed. Regina Helena Costa, j. 14.12.2005, v.u..
+10. Apelação improvida” (fls. 76/77).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07 (fl. 1.008), quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema (fl.1013), não é de se proceder o exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece prosperar, haja vista ser pacífica a jurisprudência desta Corte no sentido de que a existência ou não de interesse de agir é questão de Direito Processual, cujo exame não é possível em recurso extraordinário. Sobre o tema, anote-se:
+“CONSTITUCIONAL. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXTINÇÃO POR FALTA DE INTERESSE DE AGIR. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - Esta Corte firmou o entendimento de que a extinção da execução fiscal, por falta de interesse de agir, em virtude do pequeno valor, constitui questão infraconstitucional. II - Agravo regimental improvido” (AI nº 713.190/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 19/2/09).
+“EXECUÇÃO FISCAL - VALOR MÍNIMO - EXTINÇÃO DO PROCESSO - MATÉRIA LEGAL. Na dicção da ilustrada maioria, entendimento em relação ao qual guardo reservas, o tema referente ao valor mínimo para efeito de execução é disciplinado por normas estritamente legais. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (RE nº 539.500/RN-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 19/3/09)
+Nesse mesmo sentido: AI nº 765.143/SP, Relatora a Ministra Carmen Lúcia, DJe de 9/11/09; e AI nº 766.532/SP, Relator o Ministro Ricardo Lewandowski, DJe de 16/9/09.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 10 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
