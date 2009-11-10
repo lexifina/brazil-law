@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de recurso extraordinário interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição do Brasil, contra acórdão do Tribunal de Justiça de Santa Catarina, ementado nos seguintes termos [fl. 80]:
+“MANDADO DE SEGURANÇA – PROFESSORA READAPTADA – SUPRESSÃO DA GRATIFICAÇÃO DE REGÊNCIA DE CLASSE – ILEGITIMIDADE DO ATO COMBATIDO – ART. 13 DA LEI N. 1.139/92 – SITUAÇÃO EQUIVALENTE – IRRELEVÂNCIA DA REVOGAÇÃO DO ART. 49 DA LEI N. 6.844/86 (ESTATUTO DO MAGISTÉRIO) – APLICABILIDADE DO ART. 36 DO ESTATUTO DOS FUNCIONÁRIOS CIVIS DO ESTADO DE SANTA CATARINA (LEI N. 6.745/85) – DIREITO LÍQUIDO E CERTO – ORODEM CONCEDIDA.
+Professor afastado por motivo de readaptação possui o direito de continuar recebendo a Gratificação de Regência de Classe, vez que trata-se de situação equivalente à licença para tratamento de saúde, conforme o disposto no art. 13 da Lei n. 1.139/92, que permite a continuidade do recebimento do benefício.
+Afigura-se irrelevante a revogação do art. 49 da Lei n. 6.844/86, porquanto o art. 219 desse diploma legal autoriza a aplicação subsidiária aos membros do magistério do Estatuto dos Funcionários Públicos Civis Lei 6.745/85, em cujo art. 36 contém norma idêntica à revogada, que veda, o decesso remuneratório em virtude de readaptação.”
+2.  Alega-se, no recurso extraordinário, violação do disposto nos artigos 100, § 3º, da CB/88 e 87 do ADCT.
+3.  O recurso não merece provimento. A controvérsia foi decidida com fundamento na legislação local que disciplina a matéria. Incide aqui a Súmula n. 280 do Supremo Tribunal Federal. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido, o RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; o AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; o AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+4.  Nesse sentido, a manifestação do Ministério Público Federal, através do parecer de fls. 174-175, subscrito pelo Subprocurador-Geral da República, Dr. Paulo de Tarso Braz Lucas, nos seguintes termos:
+“[o] recurso não merece prosperar, cabendo destacar antes de mais nada que o E. Tribunal a quo decidiu a causa à luz de norma legal de ordem local vedatória de redução de remuneração nas hipóteses de readaptação, o que faria a pretensão recursal, se quanto a esse ponto houvesse impugnação, esbarrar no óbice de que trata a Súmula 280-STF (‘Por ofensa a direito local não cabe recurso extraordinário’).
+Por outro lado, se a Corte de origem mandou que se observasse em qualquer caso o limite previsto no art. 87 do ADCT/88, evidentemente não o contrariou, e tampouco ao art. 100, § 3º, da CF/88, sendo igualmente óbvio, de resto, que a questão sobre a definição do termo a quo para cálculo dos atrasados tampouco possui a dimensão constitucional pretendida”.
+ Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 10 de novembro de 2009.
+Ministro Eros Grau
+- Relator -
+1
