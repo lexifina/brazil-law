@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. DEVOLUÇÃO DE VALORES INDEVIDAMENTE RECEBIDOS. IMPOSSIBILIDADE. BOA-FÉ. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTE SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O Tribunal Regional Federal da 2ª Região julgou apelação em mandado de segurança, nos termos seguintes:
+“ADMINISTRATIVO – MANDADO DE SEGURANÇA – SERVIDOR PÚBLICO INATIVO – GRATIFICAÇÃO DE ATIVIDADE PELO DESEMPENHO DE FUNÇÃO (GADF) – SÚMULAS 235 E 106 DO TCU.
+1- Os servidores ativos e inativos, e pensionistas, são obrigados, por força de lei, a restituir ao erário as importâncias que lhes foram indevidamente pagas. A referida obrigação não se impõe quando tais valores foram recebidos de boa-fé, conforme orientam as Súmulas ns. 235 e 106 do TCU, sendo esta a hipótese dos autos;
+2- Não obstante se reconheça à Administração Pública o poder-dever de anular seus próprios atos, quando eivados de vícios que os tornem ilegais (Súmula nº 473 do STF), assinale-se que tal prerrogativa lhe assegura apenas a possibilidade de fazer cessar os efeitos do ato ilegal, na linha da auto-executoriedade dos atos administrativos; o que não lhe autoriza, no entanto, à míngua de determinação judicial ou anuência do funcionário ou pensionista, invadir a esfera patrimonial de seus servidores, com o objetivo de se ressarcir de eventuais prejuízos, relacionados a valores pretéritos;
+3- Apenas as parcelas que foram descontadas a partir do ajuizamento do writ poderão ser executadas nestes autos, e as anteriores poderão ser pleiteadas em ação própria;
+4- Remessa ex-officio a que se nega provimento.
+3. A Recorrente alega que o Tribunal a quo teria afrontado os arts. 2º e 37, caput, da Constituição.
+Argumenta que:
+“(...) o acórdão recorrido não pode e não deve obrigar a UNIRIO, ora Recorrente, a deixar de efetuar a devolução dos valores recebidos indevidamente pelos recorridos, pois o pagamento não era legalmente autorizado. Porém, quando passou a existir a autorização, o legislador impôs expressamente à aplicação da Lei n. 8.538/92 uma limitação temporal a ser obedecida pelo administrador público.
+Assim sendo, os descontos realizados pela UNIRIO, a fim de devolver aos cofres públicos os valores pagos indevidamente, são legítimos pelo amparo legal, cumprindo o disposto no artigo 37, caput, da Constituição.
+(...)
+Inadmissível prevalecer o teor das Súmulas 235 e 106 do TCU sobre a norma constitucional que sequer faz parte da estrutura do Poder Judiciário, pois, repita-se, a Administração Pública é submissa aos dispositivos da lei, conforme o artigo 37, caput, da Constituição Federal” (fls. 166 e 172).
+Apreciada a matéria trazida na espécie, DECIDO.
+4. Razão jurídica não assiste à Recorrente.
+O Desembargador Federal Relator consignou em seu voto condutor que:
+“O cerne da controvérsia reside no recebimento pelos impetrantes, da GADF no período anterior à edição da Medida Provisória nº 311, assim retroagindo os efeitos financeiros a agosto de 1992.
+É de se ressaltar que, muito embora estejam os servidores ativos e inativos, e pensionistas, obrigados, por força de lei, a restituir ao erário as importâncias que lhes foram indevidamente pagas, impende destacar que tal não se impõe aos valores recebidos de boa-fé, conforme orientam as Súmulas ns. 235 e 106 do TCU (...)”
+Conforme se verifica, o acórdão recorrido está em harmonia com a jurisprudência deste Supremo Tribunal, que firmou jurisprudência no sentido de que a restituição à Administração Pública de valores indevidamente recebidos por servidor depende da comprovação da má-fé de quem os recebeu.
+Nesse sentido:
+“MANDADO DE SEGURANÇA. ATO DO TRIBUNAL DE CONTAS DA UNIÃO QUE CONSIDEROU ILEGAL APOSENTADORIA E DETERMINOU A RESTITUIÇÃO DE VALORES. ACUMULAÇÃO ILEGAL DE CARGOS DE PROFESSOR. AUSÊNCIA DE COMPATIBILIDADE DE HORÁRIOS. UTILIZAÇÃO DE TEMPO DE SERVIÇO PARA OBTENÇÃO DE VANTAGENS EM DUPLICIDADE (ARTS. 62 E 193 DA LEI N. 8.112/90). MÁ-FÉ NÃO CONFIGURADA. DESNECESSIDADE DE RESTITUIÇÃO DOS VALORES PERCEBIDOS. INOCORRÊNCIA DE DESRESPEITO AO DEVIDO PROCESSO LEGAL E AO DIREITO ADQUIRIDO. 1. A compatibilidade de horários é requisito indispensável para o reconhecimento da licitude da acumulação de cargos públicos. É ilegal a acumulação dos cargos quando ambos estão submetidos ao regime de 40 horas semanais e um deles exige dedicação exclusiva. 2. O § 2º do art. 193 da Lei n. 8.112/1990 veda a utilização cumulativa do tempo de exercício de função ou cargo comissionado para assegurar a incorporação de quintos nos proventos do servidor (art. 62 da Lei n. 8.112/1990) e para viabilizar a percepção da gratificação de função em sua aposentadoria (art. 193, caput, da Lei n. 8.112/1990). É inadmissível a incorporação de vantagens sob o mesmo fundamento, ainda que em cargos públicos diversos. 3. O reconhecimento da ilegalidade da cumulação de vantagens não determina, automaticamente, a restituição ao erário dos valores recebidos, salvo se comprovada a má-fé do servidor, o que não foi demonstrado nos autos. 4. A jurisprudência do Supremo Tribunal Federal tem-se firmado no sentido de que, no exercício da competência que lhe foi atribuída pelo art. 71, inc. III, da Constituição da República, o Tribunal de Contas da União cumpre os princípios do contraditório, da ampla defesa e do devido processo legal quando garante ao interessado - como se deu na espécie - os recursos inerentes à sua defesa plena. 5. Ato administrativo complexo, a aposentadoria do servidor, somente se torna ato perfeito e acabado após seu exame e registro pelo Tribunal de Contas da União. 6. Segurança parcialmente concedida” (MS 26.085, de minha relatoria, DJe 12.6.2008, Tribunal Pleno – grifos nossos).
+Nada há a prover quanto às alegações da parte recorrente.
+5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 10 de novembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
