@@ -1,0 +1,61 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PREVIDENCIÁRIO. MAGISTRADOS APOSENTADOS ANTES DA VIGÊNCIA DA EMENDA CONSTITUCIONAL N. 41/2003. DIREITO ADQUIRIDO À NÃO TRIBUTAÇÃO: INEXISTÊNCIA. JULGADO RECORRIDO EM DESARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO PROVIDO.
+
+Relatório
+
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Mato Grosso do Sul:
+
+“MANDADO DE SEGURANÇA – MAGISTRADOS APOSENTADOS E PENSIONISTAS – INSURGÊNCIA CONTRA O DESCONTO DE 11% EM SEUS PROVENTOS, PROMOVIDO PELO ARTIGO 12, DA LEI N. 2.964/2004 (...) ILEGALIDADE DO DESCONTO PREVIDENCIÁRIO – MAGISTRADOS QUE JÁ PREENCHIAM AS CONDIÇÕES DE APOSENTAREM-SE NOS TERMOS DAS CONSTITUIÇÕES DE 1946 E 1967 – APOSENTADORIA QUE SE REGE PELA LEI DO TEMPO EM QUE REUNIDAS AS CONDIÇÕES PARA O INGRESSO NA INATIVIDADE – SEGURANÇA CONCEDIDA.
+(...)
+O desconto de 11% nos proventos dos magistrados aposentados e pensionistas, previsto no artigo 12, da Lei n. 2.964/2004, é ilegal porque os impetrantes não são beneficiários do Regime da Previdência do Estado de Mato Grosso do Sul e também porque os impetrantes preenchiam as condições de se aposentarem ou já estavam aposentados nos termos e exigências previstas na Constituição Federal de 1946 e Constituição Federal de 1967 e, em termos de aposentadoria, vige a lei do tempo. Ordem concedida, por maioria” (fl. 165).
+
+Tem-se no julgado recorrido:
+
+“Vê-se que o que eles sustentam é que, não tendo sido beneficiários deste sistema de previdência estadual, não poderão ficar sujeitos ao desconto dos 11% (onze por cento) estabelecido no artigo 10, § 1º, Lei Estadual n. 2.964 de 23 de dezembro de 2004. Quando sustentam que não estão obrigados a este desconto, eles sustentam com fundamento de que se aposentaram ou já tinham condições de fato e de lei, de se aposentarem pelo regime de Lei Federal, Constituição de 46, no mesmo sentido a Constituição de 67.
+Firmado entendimento que decorre da letra expressa da Lei de que a contribuição foi instituída para os inativos e pensionistas do regime geral de previdência social do Estado, resta analisar se os impetrantes estão subordinados a este regime. Os documentos constantes dos autos demonstram que os impetrantes ingressaram sob a égide da Constituição de 46 que, no artigo 95, § 1º e 2º dispõe que:
+“§ 1º - A aposentadoria será compulsória aos setenta anos de idade ou por invalidez comprovada, e facultativa após trinta anos de serviço público, contados na forma da lei.
+§ 2º - A aposentadoria, em qualquer desses casos, será decretada com vencimentos integrais”.
+A mesma disposição que a Constituição de 1967 manteve no § 2º do artigo 113. Temos estas duas disposições de natureza federal e temos uma outra norma que podemos dizer inteiramente aplicável ao caso: a aposentadoria rege-se pela lei do tempo. Sob a égide da Constituição de 46, mantida na legislação da Constituição de 67, eles tinham o direito de se aposentar naquelas condições.
+Todos os impetrantes preencheram estas condições e, com o preenchimento destas condições e como este é o cerne da questão, entendo que este desconto é ilegal e estou concedendo a segurança, que vai produzir os seus efeitos, obstando o desconto de 11% a partir da sua concessão, retroagindo até a data da propositura do mandado de segurança.
+(...)
+Entendo que os impetrantes têm direito adquirido ao regime anterior porque nele cumpriram, integralmente, as disposições legais previstas para tanto. Não se trata de expectativa de direito ainda não alcançado na sua fase de transição, é uma situação diferente.
+Uma outra questão que está se fazendo: falou-se que o regime de previdência seria solidário. Como diziam os Romanos, modus in rebus, solidário até certo ponto porque, evidentemente, numa visão atuarial da questão, na medida em que todos contribuem, todos se beneficiam. O sistema posto pela Constituição de 46, e isso é perfeitamente possível, é que a partir do momento em que eu contribuí por um determinado tempo, estou fora desta contribuição, é um direito que adquiri e nem por isso o sistema vai quebrar, nem deve dizer que o sistema deixou de ser solidário, ou seja, cada geração ou cada grupo a seu tempo que cumpra com a sua parte. Tirar do cidadão que estava com o direito adquirido aquela situação adquirida constitucionalmente e fazer com que ele volte a contribuir, isso eu digo que as garantias constitucionais estão sendo violadas, pelo menos daquele conceito que eu aprendi, a menos que eu tenha entendido mal as coisas.
+(...)
+Nota-se, portanto, a necessidade de examinar a aplicação da Emenda 41 ante os fatos concretos, tais como o servidor que, no regime jurídico da redação original da Constituição de 1988 teve a sua aposentadoria deferida ou, então, teve obtido o direito a ela, direito que tanto a Emenda 20, como a 41 ressalvou, inclusive premiando se o servidor não utilizasse, na época, o direito à aposentadoria, mas ao mesmo tempo deferindo-lhe o direito de obtê-la nos termos do sistema anterior.
+Em oposição à aplicação restrita da Emenda 41, argumenta-se que não há imunidade tributária vitalícia, de forma que pouco ou nada importa a situação jurídica anterior, pois a Constituição com a referida emenda não retroagiu, mas tal conclusão pode ferir o princípio fundamental da segurança jurídica. Sobre esse postulado, assim se manifestou o eminente Ministro Gilmar Mendes no julgamento das Ações Diretas de Inconstitucionalidade 3.105 e 3.128, redator para o acórdão o Min. Cezar Peluso, DJ 18.2.05:
+“(...) o princípio da segurança jurídica traduz a proteção da confiança que se deposita na subsistência de um dado modelo legal (Schutz des Vertrauens). A idéia da segurança jurídica tornaria imperativa a adoção de cláusulas de transição nos casos de mudança radical de um dado instituto ou estatuto jurídico. Daí por que se considera, em muitos sistemas jurídicos, que, em casos de mudança de regime jurídico, a ausência de cláusulas de transição configura uma omissão inconstitucional.”
+Com a devida vênia dos que assim raciocinam, tenho que a imposição constitucional da contribuição dos aposentados pelo regime anterior, bem como dos pensionistas, pode violar o outro princípio inserido pela referida Emenda: a solidariedade: “é assegurado regime de previdência com caráter contributivo e solidário”.
+(...)
+Conclui-se, facilmente, que a Emenda Constitucional 41 não pode ser aplicada aos servidores que, à época da edição da Emenda 20, já possuíam direito à aposentadoria, isto porque o sistema previdenciário dos servidores, criado por aquela Emenda e aperfeiçoado pela Emenda 41, tem como base o “caráter contributivo e solidário”.
+(...)
+Impor a contribuição àqueles que aposentaram, ou adquiriram o direito de se aposentarem, no regime vigente até a promulgação da Emenda 20 de 1998, por força do que dispõe a Emenda 41, é destruir a segurança jurídica protegida pelo direito adquirido, pois impossível é aplicar, compulsoriamente, um sistema que venha a criar algo até então inexistente para as situações jurídicas consolidadas pela lei anteriormente vigente.
+(...)
+Deve respeitar porque impossível juridicamente aplicar um novo sistema, “contributivo e solidário”, às pessoas que, pela idade, tem o direito de receberem da família, da sociedade e do Estado, proteção especial” (fls. 184-198 – grifos nossos).
+
+2. O Recorrente afirma que o Tribunal a quo teria contrariado os arts. 3º, 5º, inc. XXXVI, 7º, 37, caput, 40, 93, 146, 149, 150 e 195 da Constituição da República, o art. 4º da Emenda Constitucional n. 41/2003 e o art. 17 do Ato das Disposições Constitucionais Transitórias.
+
+Assevera que teria sido afrontado o entendimento adotado pelo Supremo Tribunal Federal no julgamento da Ação Direta de Inconstitucionalidade 3.105.
+
+Apreciada a matéria trazida na espécie, DECIDO.
+
+3. Razão jurídica assiste ao Recorrente.
+
+4. No julgamento da Ação Direta de Inconstitucionalidade 3.105, Redator para o acórdão o Ministro Cezar Peluso, DJ 18.2.2005, o Supremo Tribunal Federal declarou a constitucionalidade do art. 4º da Emenda Constitucional n. 41/2003 e reafirmou o entendimento consolidado de que não há direito adquirido à não tributação:
+
+“1. Inconstitucionalidade. Seguridade social. Servidor público. Vencimentos. Proventos de aposentadoria e pensões. Sujeição à incidência de contribuição previdenciária. Ofensa a direito adquirido no ato de aposentadoria. Não ocorrência. Contribuição social. Exigência patrimonial de natureza tributária. Inexistência de norma de imunidade tributária absoluta. Emenda Constitucional nº 41/2003 (art. 4º, caput). Regra não retroativa. Incidência sobre fatos geradores ocorridos depois do início de sua vigência. Precedentes da Corte. Inteligência dos arts. 5º, XXXVI, 146, III, 149, 150, I e III, 194, 195, caput, II e § 6º, da CF, e art. 4º, caput, da EC nº 41/2003. No ordenamento jurídico vigente, não há norma, expressa nem sistemática, que atribua à condição jurídico-subjetiva da aposentadoria de servidor público o efeito de lhe gerar direito subjetivo como poder de subtrair ad aeternum a percepção dos respectivos proventos e pensões à incidência de lei tributária que, anterior ou ulterior, os submeta à incidência de contribuição previdencial. Noutras palavras, não há, em nosso ordenamento, nenhuma norma jurídica válida que, como efeito específico do fato jurídico da aposentadoria, lhe imunize os proventos e as pensões, de modo absoluto, à tributação de ordem constitucional, qualquer que seja a modalidade do tributo eleito, donde não haver, a respeito, direito adquirido com o aposentamento. 2. Inconstitucionalidade. Ação direta. Seguridade social. Servidor público. Vencimentos. Proventos de aposentadoria e pensões. Sujeição à incidência de contribuição previdenciária, por força de Emenda Constitucional. Ofensa a outros direitos e garantias individuais. Não ocorrência. Contribuição social. Exigência patrimonial de natureza tributária. Inexistência de norma de imunidade tributária absoluta. Regra não retroativa. Instrumento de atuação do Estado na área da previdência social. Obediência aos princípios da solidariedade e do equilíbrio financeiro e atuarial, bem como aos objetivos constitucionais de universalidade, equidade na forma de participação no custeio e diversidade da base de financiamento. Ação julgada improcedente em relação ao art. 4º, caput, da EC nº 41/2003. Votos vencidos. Aplicação dos arts. 149, caput, 150, I e III, 194, 195, caput, II e § 6º, e 201, caput, da CF. Não é inconstitucional o art. 4º, caput, da Emenda Constitucional nº 41, de 19 de dezembro de 2003, que instituiu contribuição previdenciária sobre os proventos de aposentadoria e as pensões dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações” (grifos nossos).
+
+Esse entendimento foi reafirmado pelo Plenário do Supremo Tribunal Federal no julgamento do Agravo Regimental na Media Cautelar na Reclamação 4.486, de minha relatoria, DJe 26.9.2008:
+
+“AGRAVO REGIMENTAL EM MEDIDA LIMINAR EM RECLAMAÇÃO CONTRA DECISÃO QUE DEFERIU A MEDIDA LIMINAR PARA SUSPENDER ACÓRDÃO DO TRIBUNAL DE JUSTIÇA A QUO QUE DEFERIU A NÃO INCIDÊNCIA DA CONTRIBUIÇÃO PREVIDENCIÁRIA DOS AGRAVANTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Magistrados e pensionistas de magistrados aposentados que entraram na magistratura quando vigente a Constituição da República de 1946. Reiteração dos argumentos de que as Emendas Constitucionais ns. 20/98 e 41/03 não alcançariam os servidores que ingressaram na carreira antes da promulgação da Constituição da República de 1988. 2. Ausência de norma de imunidade tributária absoluta que assegure aos Agravantes o direito adquirido de não se sujeitarem à contribuição previdenciária. 3. Descumprimento da Ação Direta de Inconstitucionalidade n. 3.105. Precedentes. 4. Agravo Regimental ao qual se nega provimento” (grifos nossos).
+
+5. Dessa orientação jurisprudencial divergiu o julgado recorrido.
+
+6. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+
+Brasília, 10 de novembro de 2009.
+
+Ministra CÁRMEN LÚCIA
+Relatora
