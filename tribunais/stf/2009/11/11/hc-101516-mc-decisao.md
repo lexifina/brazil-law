@@ -1,0 +1,35 @@
+DECISÃO
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado pelo advogado Gilson Moraes em favor de José Roberto Miranda dos Santos, condenado pelo crime de homicídio, buscando a fixação do regime inicial semiaberto para o cumprimento da pena imposta ao paciente.
+O habeas corpus foi, inicialmente, dirigido ao Superior Tribunal de Justiça e volta-se contra acórdão da Segunda Câmara Criminal do Tribunal de Justiça do Estado de Pernambuco, que, acolhendo os embargos declaratórios opostos contra o acórdão que dera parcial provimento à apelação do paciente, reduziu a pena de 9 para 6 anos de reclusão e manteve o regime inicial fechado imposto na sentença condenatória (Processo nº 0102397-8/01), Relator na apelação o então Desembargador Og Fernandes, agora Ministro do STJ, e nos embargos a Desembargadora Convocada Sandra de Arruda Beltrão.
+O impetrante sustenta, em síntese, que, segundo a jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal, “se o condenado preenche os requisitos para o cumprimento da pena em regime semi-aberto, diante da quantidade da pena imposta e das circunstâncias favoráveis, não cabe a imposição de regime mais gravoso com base em fundamentação restrita a gravidade do delito praticado” (fl. 5).
+O Ministro Arnaldo Esteves Lima, do Superior Tribunal de Justiça, ao despachar a inicial, indeferiu liminarmente o habeas corpus, por “manifesta incompetência deste STJ”, determinando a remessa dos autos a esta Suprema Corte, “para a adoção, se o caso, das providências cabíveis que entender de direito” (fl. 52), nos seguintes termos:
+“Não obstante as razões deduzidas na inicial (fls. 2/8), não vejo como dar seguimento ao presente writ, tendo em vista tratar-se de insurgência, de fato – embora sob nova roupagem –, contra manifesta decisão deste Superior Tribunal de Justiça, isso porque, a questão ora trazida a exame (regime inicial de cumprimento da pena) já restou apreciada por esta Corte quando do julgamento do Ag 928744/PE.
+A insurgência, portanto, ataca decisum desta 5ª Turma do STJ.
+Assim, diante do disposto no art. 105, inciso I, letra c, da Constituição Federal, flagrante é a incompetência desta Corte Superior de Justiça para processar e julgar originariamente este habeas corpus, conforme reiteradas decisões (AGRHC 36.705/SP, Rel. Min. LAURITA VAZ, Quinta Turma, DJ de 13/9/2004, p. 274, HC 41.759/RJ, Rel. Min. GILSON DIPP, Quinta Turma, DJ 29/8/2005, p. 383, dentre outros).
+Por oportuno, convém destacar que o Regimento Interno do Superior Tribunal de Justiça possui status de lei federal e prevê:
+Art. 210 – Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+Ante o exposto, com base nos arts. 38 da Lei 8.038/90 e 210 do RISTJ, indefiro liminarmente a petição inicial deste habeas corpus por manifesta incompetência deste STJ.
+Intime-se.
+Cientifique-se o Ministério Público Federal.
+Após, encaminhem-se os autos ao Egrégio Supremo Tribunal Federal para a adoção, se o caso, das providências cabíveis que entender de direito (art. 102, I, i, da CF/88)” (fl. 52)
+Contra essa decisão, o impetrante interpôs agravo regimental (fls. 55 a 70), desprovido pela Quinta Turma daquela Corte, nos termos da ementa seguinte:
+“PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. MODIFICAÇÃO DO REGIME PRISIONAL FIXADO NA CONDENAÇÃO. AGRAVO DE INSTRUMENTO NÃO-CONHECIDO PELO RELATOR. CONDENAÇÃO TRANSITADA EM JULGADO.  MATÉRIA IMPRÓPRIA PARA APRECIAÇÃO PELA VIA ELEITA. INCOMPETÊNCIA DO STJ PARA PROCESSAR E JULGAR O WRIT. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte vem reiteradamente aceitando a utilização do habeas corpus, inclusive como substitutivo de recurso próprio e em respeito ao princípio constitucional da celeridade processual, para o reconhecimento de nulidades (error in procedendo), inclusive após o trânsito em julgado da ação penal, desde que ainda não cumprida a condenação e a prova se mostre de plano.
+2. De modo diverso, a via mandamental se apresenta imprópria, como regra, para o só reexame da condenação (error in judicando) quando já transitada em julgado, uma vez que a preservação da coisa julgada é imprescindível à própria existência do discurso jurídico.
+3. Já tendo a questão sido afeta ao STJ por Agravo de Instrumento, é ele  incompetente para processar e julgar o habeas corpus posteriormente impetrado, uma vez que a insurgência ataca, de fato, decisão desta Corte Superior que confirmou a condenação, ainda que proferida pelo relator.
+4. Agravo regimental improvido, mantida a decisão que indeferiu liminarmente o habeas corpus” (fl. 85).
+Examinados os autos, decido.
+O deferimento de liminar em habeas corpus, como se sabe, constitui medida excepcional por sua própria natureza, justificada apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou se a situação apresentada nos autos representar flagrante constrangimento ilegal, o que não é possível verificar na hipótese presente.
+Aliás, neste primeiro exame, parece haver óbice jurídico-processual ao próprio conhecimento do writ por esta Suprema Corte.
+Com efeito, o Supremo Tribunal Federal não é competente para processar e julgar habeas corpus impetrado contra atos de Tribunais de Justiça estaduais ou Tribunais Regionais Federais, não tendo a paciente, no caso presente, foro por prerrogativa de função nesta Corte para efeito de ações penais por crimes comuns ou de responsabilidade (art. 102, inc. I, alíneas “d” e “i”, da CF).
+Ademais, tenho que não está configurada a reiteração de pedidos, o que, de fato, impediria que o habeas corpus fosse conhecido no Superior Tribunal de Justiça. Mas disso não se trata. Pelo que se tem na decisão proferida no Agravo de Instrumento nº 928.744/PE (fl. 73) e no respectivo agravo regimental (fls. 75 a 77), o recurso não foi conhecido por ausência de peças. Não houve, portanto, qualquer pronunciamento sobre o mérito da questão (fixação de regime prisional), o que legitimaria o conhecimento do habeas por aquele Tribunal. Por consequência, o conhecimento da impetração por esta Suprema Corte implica, em princípio, indevida supressão de instância.
+De todos os modos, tendo a Quinta Turma do Superior Tribunal de Justiça determinado a remessa do habeas corpus, para que, aqui, seja sanado eventual constrangimento ilegal praticado contra o paciente, entendo ser prudente a completa instrução do feito e a sua submissão ao órgão colegiado, para que lá sejam analisadas todas as preliminares de conhecimento e, se for o caso, o mérito da questão trazida a julgamento.
+Ante o exposto, indefiro o pedido de liminar.
+Por estarem os autos devidamente instruídos com as peças relativas aos julgamentos proferidos no Superior Tribunal de Justiça, dispenso as informações daquela Corte.
+Oficie-se, no entanto, ao juízo de origem para que informe a atual situação prisional do paciente.
+Publique-se.
+Brasília, 11 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
