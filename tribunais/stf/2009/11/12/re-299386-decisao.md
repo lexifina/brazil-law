@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. RECEPÇÃO DO NOVO SISTEMA TRIBUTÁRIO. ALÍQUOTAS DE ICMS. RESOLUÇÃO N. 129/79 DO SENADO FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso Extraordinário interposto com fundamento no art. 102, inc. III, alíneas a e c, da Constituição da República contra o seguinte julgado da Segunda Câmara Cível do Tribunal de Justiça do Rio Grande do Sul:
+“TRIBUTÁRIO. IMPOSTO DE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS. Princípio da recepção que autoriza o Estado-membro a aplicar a alíquota máxima da Resolução n. 129/79 do Senado Federal no período que mediou entre a vigência do novo Sistema Tributário implantado pela CF-88 e a Resolução n. 22 de 19.5.89, do Senado. Constitucionalidade da legislação estadual que fixou a alíquota em 13% naquele período, mesmo percentual fixado na nova Resolução do Senado. Apelo improvido” (fl. 116).
+2. O Recorrente sustenta que foram ofendidos os arts. 5º, inc. II, 150, inc. I, e 155, inc. IV, § 2º, da Constituição da República.
+Alegou que, “entre 1º de março de 1989, data em que entrou em vigor o sistema tributário nacional insculpido no Texto Constitucional de 1988, e 1º de junho de 1989, data em que começou a vigorar a alíquota do ICMS incidente sobre as exportações, inexistiu alíquota aplicável a estas operações, o que enseja a restituição do ICMS indevidamente recolhido. Afirm[ou] que, se a norma editada sob a égide da Constituição anterior houvesse sido recepcionada, não haveria necessidade de legislação estadual fixando a alíquota do imposto nas operações de exportação” (fl. 178).
+Pediu que fosse reconhecida “a inconstitucionalidade do inciso II do art. 29 do Decreto Estadual n. 33.178/89 [e] reformada a decisão de segunda instância, conden[ando-se] o Recorrido a devolver à Recorrente os valores recolhidos a título de ICMS incidente sobre as exportações de soja por ela realizadas no período durante o qual inexistiu alíquota válida do imposto, qual seja, entre o dia 1º de março de 1989 e 31 de maio de 1989” (fl. 156).
+3. O Procurador-Geral da República manifestou-se pelo desprovimento do recurso extraordinário.
+Analisada a matéria posta à apreciação, DECIDO.
+4. Razão de direito não assiste à Recorrente.
+A jurisprudência deste Supremo Tribunal Federal firmou-se pela validade constitucional da Resolução n. 129/1979 até a edição da Resolução n. 22/1989:
+“I. ICMS: alíquota do imposto incidente nas operações de exportação: L. 6374/89, do Estado de São Paulo.
+Na falta de alíquota fixada pelo Senado Federal (CF, art. 155, § 2º, IV), era lícito aos Estados adotar, nas operações de exportação, a alíquota máxima anteriormente fixada pelo Senado Federal, no exercício da competência prevista no art. 23, § 5º, da Carta de 1969 (Resolução nº 129/79).
+II. ICMS: exportação de produto semi-elaborado.
+Firmou-se o entendimento do STF, no sentido da validade da definição provisória do conceito de produto semi-elaborado, mediante convênio firmado pelos Estados, nos termos do art. 34, § 8º, ADCT (RE 205.634, Pleno, 7.8.97).” (RE 200.799, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 6.8.1999)
+“2. Tributo. ICMS. Produtos semi-elaborados destinados à exportação. Alíquota. Período compreendido entre a entrada em vigor do sistema tributário nacional (art. 34, § 5º, do ADCT) e o advento da Resolução nº 22/89 do Senado Federal. Observância da Resolução nº 129/79. Embargos rejeitados. Precedentes. É assente o entendimento da Corte, no sentido da aplicabilidade da Res. SF nº 129/79 quanto ao período que antecedeu a entrada em vigor da Res. SF nº 22/89” (RE 179.075-AgR-ED, Relator o Ministro Cezar Peluso, Primeira Turma, DJe 24.10.2008).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SISTEMA TRIBUTÁRIO NACIONAL. VIGÊNCIA. ARTIGO 34, § 5º DO ADCT. ICMS. OPERAÇÃO DE EXPORTAÇÃO. ALÍQUOTA. RESOLUÇÃO N. 129/79 DO SENADO FEDERAL. OFENSA AO ARTIGO 155, § 2º, IV, DA CB/88. ALEGAÇÃO INSUBISITENTE. 1. O Supremo Tribunal Federal fixou entendimento, à luz do artigo 34, § 5º, do ADCT, no sentido de que, não havendo alíquota fixada pelo Senado Federal --- período que antecedeu a edição da resolução n. 22/89 ---, a adoção, pelos Estados-membros, nas operações de exportação, da alíquota máxima anteriormente fixada pelo Senado no exercício da competência prevista no artigo 23, § 5º, da Constituição de 1969 [resolução n. 129/79] não ofende o artigo 155, § 2º, IV, da CB/88. Precedentes. Agravo regimental a que se nega provimento”. (RE 501.189-AgR, Relator o Ministro Eros Grau, Segunda Turma, DJe 6.6.2008)
+Dessa orientação não divergiu o acórdão recorrido.
+5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 12 de novembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
