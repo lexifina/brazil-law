@@ -1,5 +1,5 @@
-Art. 103-B. O Conselho Nacional de Justiça compõe-se de quinze membros com mais de trinta e cinco e menos de sessenta e seis anos de idade, com mandato de dois anos, admitida uma recondução, sendo:
-I - um Ministro do Supremo Tribunal Federal, indicado pelo respectivo tribunal;
+Art. 103-B. O Conselho Nacional de Justiça compõe-se de 15 (quinze) membros com mandato de 2 (dois) anos, admitida 1 (uma) recondução, sendo:
+I - o Presidente do Supremo Tribunal Federal;
 II - um Ministro do Superior Tribunal de Justiça, indicado pelo respectivo tribunal;
 III - um Ministro do Tribunal Superior do Trabalho, indicado pelo respectivo tribunal;
 IV - um desembargador de Tribunal de Justiça, indicado pelo Supremo Tribunal Federal;
@@ -12,8 +12,8 @@ X - um membro do Ministério Público da União, indicado pelo Procurador-Geral 
 XI - um membro do Ministério Público estadual, escolhido pelo Procurador-Geral da República dentre os nomes indicados pelo órgão competente de cada instituição estadual;
 XII - dois advogados, indicados pelo Conselho Federal da Ordem dos Advogados do Brasil;
 XIII - dois cidadãos, de notável saber jurídico e reputação ilibada, indicados um pela Câmara dos Deputados e outro pelo Senado Federal.
-§ 1º O Conselho será presidido pelo Ministro do Supremo Tribunal Federal, que votará em caso de empate, ficando excluído da distribuição de processos naquele tribunal.
-§ 2º Os membros do Conselho serão nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal.
+§ 1º O Conselho será presidido pelo Presidente do Supremo Tribunal Federal e, nas suas ausências e impedimentos, pelo Vice-Presidente do Supremo Tribunal Federal.
+§ 2º Os demais membros do Conselho serão nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal.
 § 3º Não efetuadas, no prazo legal, as indicações previstas neste artigo, caberá a escolha ao Supremo Tribunal Federal.
 § 4º Compete ao Conselho o controle da atuação administrativa e financeira do Poder Judiciário e do cumprimento dos deveres funcionais dos juízes, cabendo-lhe, além de outras atribuições que lhe forem conferidas pelo Estatuto da Magistratura:
 I - zelar pela autonomia do Poder Judiciário e pelo cumprimento do Estatuto da Magistratura, podendo expedir atos regulamentares, no âmbito de sua competência, ou recomendar providências;
