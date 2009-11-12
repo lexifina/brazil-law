@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que a Gratificação de Desempenho de Atividade Técnico-Administrativa (GDATA), instituída pela Lei 10.404, de 09 de janeiro de 2002, é devida aos servidores públicos inativos no valor correspondente a 50 (cinquenta) pontos até a entrada em vigor da Medida Provisória 198/94, a partir da qual passa a ser devida no valor de 60 (sessenta) pontos.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 2º, 5º, II, 37, X, 61, II e § 1º, e 169, § 1º, da mesma Carta. Requereu-se, ainda, a concessão de medida liminar, nos termos dos arts. 14 e 15 da Lei 10.259/2001.
+A pretensão recursal merece parcial acolhida. O Plenário desta Corte, no julgamento dos recursos extraordinários 476.279/DF, Rel. Min. Sepúlveda Pertence, e 476.390/DF, Rel. Min. Gilmar Mendes, fixou entendimento no sentido de ser a GDATA devida aos servidores inativos nos seguintes termos:
+“Gratificação de Desempenho de Atividade Técnico- -Administrativa - GDATA - instituída pela L. 10.404/2002: extensão a inativos: pontuação variável conforme a sucessão de leis regentes da vantagem.
+RE conhecido e provido, em parte, para que a GDATA seja deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e nos termos do art. 5º, parágrafo único, da L. 10.404/2002, para o período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o art. 1º da MPv. 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.” (RE 476.279/DF)
+Ademais, a orientação acima citada foi devidamente sedimentada por meio da edição da Súmula Vinculante 20, com o seguinte teor:
+“A GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA – GDATA, INSTITUÍDA PELA LEI Nº 10.404/2002, DEVE SER DEFERIDA AOS INATIVOS NOS VALORES CORRESPONDENTES A 37,5 (TRINTA E SETE VÍRGULA CINCO) PONTOS NO PERÍODO DE FEVEREIRO A MAIO DE 2002 E, NOS TERMOS DO ARTIGO 5º, PARÁGRAFO ÚNICO, DA LEI Nº 10.404/2002, NO PERÍODO DE JUNHO DE 2002 ATÉ A CONCLUSÃO DOS EFEITOS DO ÚLTIMO CICLO DE AVALIAÇÃO A QUE SE REFERE O ARTIGO 1º DA MEDIDA PROVISÓRIA NO 198/2004, A PARTIR DA QUAL PASSA A SER DE 60 (SESSENTA) PONTOS”.
+Isso posto, forte no disposto no art. 557, § 1º-A, do CPC, conheço do recurso extraordinário e dou-lhe parcial provimento, nos termos da Súmula Vinculante 20. Julgo prejudicado, por conseqüência, o exame do pedido de medida liminar.
+Honorários a serem fixados pelo Juízo da Execução, nos termos da legislação processual.
+Publique-se.
+Brasília, 12 de novembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
