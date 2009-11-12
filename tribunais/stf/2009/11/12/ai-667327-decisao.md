@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E PROCESSUAL CIVIL. COMPETÊNCIA PARA JULGAMENTO DE AÇÃO DE IMPROBIDADE. INCONSTITUCIONALIDADE DOS §§ 1º E 2º DO ART. 84 DO CÓDIGO DE PROCESSO PENAL, ACRESCIDOS PELA LEI 10.628/2002. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“IMPROBIDADE - COMPETÊNCIA - JUÍZO SINGULAR - INCONSTITUCIONALIDADE DO ARTIGO 84, § 2º, DO CPP - INSTALAÇÃO DE INCIDENTE - DESNECESSIDADE - ARGUIÇÃO IRRELEVANTE - PRELIMINAR DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL - MÉRITO A FAVOR DA PARTE A QUEM APROVEITA - REJEIÇÃO - AFASTAMENTO DO PREFEITO - MEDIDA DRÁSTICA - REQUISITOS NÃO PRESENTES - INDISPONIBILIDADE DE BENS - INEXISTÊNCIA DE PROVA QUANTO AO INTUITO DE DILAPIDAÇÃO e/ou TRANSFERÊNCIA DO PATRIMÔNIO - PROVIMENTO DO RECURSO. 1 - O artigo 84, § 2º, do Código de Processo Penal, acrescentado pela Lei nº 10.628/02, padece de inconstitucionalidade, na medida que invade matéria cuja disciplina é reservada à Constituição da República” (fl. 267).
+3. No recurso extraordinário, o Agravante sustenta que:
+“O art. 84, § 2º, do CPP, com a redação da Lei n. 10.628/02, combinado com o art. 29, X, da CF/88, estabelece como originariamente competente para julgar prefeito municipal, por alegado ato de improbidade, o egrégio Tribunal de Justiça (...).
+Logo, o v. acórdão recorrido, na parte em que, por unanimidade, rechaçou essa prefacial de incompetência absoluta daquele MM. juiz de 1º grau, ofendeu literalmente, data venia, o disposto no citado art. 5º, LIII, c/c o art. 29, X, da CF/88” (fl. 297).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a harmonia do julgado recorrido com a jurisprudência do Supremo Tribunal Federal (fls. 331-332).
+O Agravante assevera que, “a despeito da decisão que foi tomada no julgamento das ADIs 2.797 e 2.860, mister ressaltar que aquele entendimento do STF não foi objeto de súmula vinculante, posto que (sic) não foi observado, naquele julgamento, o quórum de dois terços exigido pela Emenda Constitucional n. 45” (fl. 6).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. O Supremo Tribunal Federal declarou a inco nstitucionalidade d os § § 1º e 2º do art. 84 do Código de Processo Penal , acrescidos pela Lei n. 10.628/ 2002 :
+“ III. Foro especial por prerrogativa de função: extensão, no tempo, ao momento posterior à cessação da investidura na função dele determinante. Súmula 394/STF (cancelamento pelo Supremo Tribunal Federal). Lei 10.628/2002, que acrescentou os §§ 1º e 2º ao artigo 84 do C. Processo Penal: pretensão inadmissível de interpretação autêntica da Constituição por lei ordinária e usurpação da competência do Supremo Tribunal para interpretar a Constituição: inconstitucionalidade declarada”   (ADI 2.797, Rel. Min. Sepú lveda Pertence, Tribunal Pleno, DJ 19. 12 . 2006).
+“ I - É inconstitucional o art. 1º da Lei 10.628/02, porquanto, ao se tratar de ação civil pública por ato de improbidade administrativa, quer de ocupante de cargo público, quer de titular de mandato eletivo, ainda que no exercício de suas funções, a competência para seu processamento e julgamento é do juiz de primeiro grau ” ( AI 637 . 566-AgR , Rel . Min. Ricardo Lewandowski , Primeira Turma , DJe 12.9. 2008 ).
+“ AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. PROCESSUAL PENAL. LEI N. 10.628/02, QUE ACRESCENTOU OS §§ 1º E 2º AO ART. 84 DO CÓDIGO DE PROCESSO PENAL. FORO POR PRERROGATIVA DE FUNÇÃO. INCONSTITUCIONALIDADE. ADI N. 2.797 E ADI N. 2.860. 1. O Plenário do Supremo, ao julgar a ADI n. 2.797 e a ADI n. 2.860, Relator o Ministro Sepúlveda Pertence, Sessão de 15.9.05, declarou a inconstitucionalidade da Lei n. 10.628/02, que acrescentou os §§ 1º e 2º ao art. 84 do Código de Processo Penal. 2. Orientação firmada no sentido de que inexiste foro por prerrogativa de função nas ações de improbidade administrativa. Agravo regimental a que nega provimento ” ( AI 538 . 389-AgR , Rel . Min. Eros Grau , Segunda Turma , DJ 29.9. 2006 – grifos nossos).
+7 . Dessa orientação jurisprudencial não divergiu o julgado recorrido .
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 12 de novembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
