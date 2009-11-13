@@ -1,0 +1,12 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Pernambuco. Acórdão assim ementado (fls. 180):
+“APELAÇÃO CÍVEL. RESSARCIMENTO DE DANOS. COLISÃO DE VEÍCULO PARTICULAR COM VIATURA DA POLÍCIA MILITAR ESTADUAL. 1. Em se tratando de acidente de trânsito envolvendo veículo oficial, a responsabilidade civil apura-se, de primeiro, no plano subjetivo, para o fim de verificar quem efetivamente causou o evento danoso, sendo certo que, se revelada a culpa do condutor do veículo oficial, a responsabilidade do ente público exsurgirá, no plano objetivo, derivada do ato do seu agente ou preposto. 2. O conjunto probatório indica que a responsabilidade pelo acidente é imputável ao veículo oficial, restando evidenciada a responsabilidade do Estado para com o acidente em foco. 3. Apelo provido para condenar o Estado a ressarcir ao autor/apelante a quantia por este suportada para reparar o seu automóvel no valor de R$ 6.987,90 (seis mil, novecentos e oitenta e sete reais e noventa centavos), quantia esta a ser monetariamente atualizada a partir da data do pagamento (05 de novembro de 2003), e acrescida dos juros moratórios legais contados a partir da citação. 4. Fixada a verba honorária em 10% sobre o valor da condenação.”
+2. Pois bem, a parte recorrente aponta violação ao § 6º do art. 37 da Magna Carta. Sustenta que o “fato de não poder se determinar qual dos dois condutores dos veículos colididos foi o agente causador do dano, já é o bastante para afastar a responsabilidade objetiva em reparar tal dano” (fls. 203). Aduz que, “mesmo considerando a suposta responsabilidade objetiva do Estado, não restou demonstrado que o ato ilícito (colisão de veículos por avanço de sinal) foi causado pelo agente do Estado, não se evidenciando, assim, de forma clara, a responsabilidade do ente público” (fls. 205).
+3. Tenho que insurgência não merece acolhida. Isso porque, para se chegar à conclusão pretendida pela parte recorrente, se faz necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do Supremo Tribunal Federal.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1o do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 13 de novembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
+1
+1
