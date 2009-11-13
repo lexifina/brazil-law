@@ -1,0 +1,16 @@
+DECISÃO
+Vistos.
+O Estado de São Paulo interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Sétima Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“AGRAVO – Execução Fiscal – Desnecessidade de nova citação da Fazenda do Estado e expedição de precatório complementar – Decisão monocrática – Admissibilidade – Estando a execução em andamento não há como iniciar-se outra, citando-se a devedora para complementação do pagamento do débito, nos termos do art. 730 do CPC) – Precatório já foi expedido – Na decisão recorrida não houve afronta ao artigo 557 do Código de Processo Civil – Foi seguida a orientação unânime dos integrantes desta 7ª Câmara de Direito Público. Recurso improvido” (fl. 158).
+Alega o recorrente violação do artigo 100 da Constituição Federal, uma vez que “se trata do pagamento de dinheiro público, pelo que deve ser observado estritamente todo o rito constitucional para permitir a ampla defesa” (fl. 174).
+Contra-arrazoado (fls. 204 a 216), o recurso extraordinário (fls. 170 a 175) foi admitido (fl. 228).
+O Superior Tribunal de Justiça, em decisão transitada em julgado (fl. 266), negou seguimento ao recurso especial interposto paralelamente ao extraordinário (fls. 259 s 264).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 23/10/06, conforme expresso na certidão de folha 168, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, uma vez que o acórdão recorrido decidiu a questão relativa à desnecessidade de nova citação da Fazenda Pública para a expedição de precatório complementar com base nas normas processuais legais aplicáveis à espécie (artigo 730 do Código de Processo Civil). Assim, para acolher a pretensão do recorrente seria necessário o reexame da legislação infraconstitucional pertinente o que não viabiliza a interposição do recurso extraordinário. A alegada ofensa à Constituição da República, se ocorresse, seria indireta. Nesse sentido, anote-se:
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. FAZENDA PÚBLICA. EXECUÇÃO. PRECATÓRIO COMPLEMENTAR. NOVA CITAÇÃO. ALEGADA OFENSA AOS ARTS. 5º, XXXV, LIV E LV, E 100, DA CF. OFENSA REFLEXA. AGRAVO IMPROVIDO I - A discussão sobre a necessidade de nova citação do devedor no processo executório envolve exame de matéria infraconstitucional. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - A alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária. Precedentes. III - Agravo regimental improvido” (AI nº 744.220/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 8/10/09).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 13 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
