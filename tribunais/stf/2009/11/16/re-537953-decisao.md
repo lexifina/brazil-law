@@ -1,0 +1,25 @@
+1.  Trata-se de recursos extraordinários interpostos contra acórdão do TRF 3ª Região (fls. 316-323) no qual se discute a possibilidade de dedução integral dos prejuízos fiscais e base de cálculo negativa em face da Lei 8.981/95, que estabeleceu a limitação de 30%.
+2.  No RE do contribuinte (fls. 326-351), alega-se violação aos arts. 5º, XXXVI, 148, 150, 153, III, e 195, I, da Constituição Federal.
+ Afirma o contribuinte que o princípio da irretroatividade alberga não só a proteção ao direito adquirido diante da lei nova, mas também qualquer direito incorporado ao seu patrimônio, não se tratando, assim, de mera expectativa de direito, pois o mero fato da geração de prejuízo acarreta o direito de compensá-lo.
+ Assevera que há violação ao princípio da anterioridade em razão da circulação do Diário Oficial da União ter ocorrido somente em 02 de janeiro de 1995.
+ Alerta que a adoção da sistemática imposta pela Lei 8.981/95 obriga ao recolhimento dos tributos sem que os prejuízos possam interferir na base tributável em montante superior a 30%, havendo típico empréstimo compulsório disfarçado.
+ Ressalta, por fim, que só há de se falar em tributação de renda e lucro em face de concreto acréscimo patrimonial, o que envolve, necessariamente, a prévia compensação dos prejuízos acumulados.
+3.  A União, nas contra-razões de fls. 541-544, requer a manutenção do acórdão recorrido.
+4.  Admitidos os recursos, subiram os atos.
+5.  Não merecem acolhimento as razões do contribuinte. Por ocasião do julgamento do RE 344.994/PR, relator para o acórdão o Min. Eros Grau (DJe 28.8.2009), externei meu posicionamento sobre o tema ao alertar que a Lei 8.981/95 modificou “mera expectativa de direito”, motivo pelo qual não cabe a impetração.
+5.  Isso porque o conceito de lucro é aquele que a lei define, não necessariamente o que corresponde às perspectivas societárias ou econômicas.
+Ora, o Regulamento do Imposto de Renda – RIR, que antes autorizava o desconto de 100% dos prejuízos fiscais, para efeito de apuração do lucro real, foi alterado pela Lei 8.981/95, que limitou tais compensações a 30% do lucro real apurado no exercício correspondente.
+7.  A rigor, as empresas deficitárias não têm “crédito” oponível à Fazenda Pública. Lucro e prejuízo são contingências do mundo dos negócios. Inexiste direito líquido e certo à “socialização” dos prejuízos, como a garantir a sobrevivência de empresas ineficientes.
+É apenas por benesse da política fiscal - atenta a valores mais amplos como o da estimulação da economia e o da necessidade da criação e manutenção de empregos - que se estabelecem mecanismos como o que ora examinamos, mediante o qual é autorizado o abatimento dos prejuízos verificados, mais além do exercício social em que constatados. Como todo favor fiscal, ele se restringe às condições fixadas em lei. É a lei vigente para o exercício fiscal que definirá se o benefício será calculado sobre 10, 20 ou 30%, ou mesmo sobre a totalidade do lucro líquido. Mas, até que encerrado o exercício fiscal, ao longo do qual se forma e se conforma o fato gerador do Imposto de Renda, o contribuinte tem mera expectativa de direito quanto à manutenção dos patamares fixados pela legislação que regia os exercícios anteriores.
+Não se cuida, como parece claro, de qualquer alteração de base de cálculo do tributo, para que se invoque a exigibilidade de lei complementar. Menos ainda de empréstimo compulsório.
+Não há, por isso, violação aos dispositivos constitucionais apontados.
+Com efeito, a Lei 8.981/95 não incide sobre fatos geradores ocorridos antes do início de sua vigência. Os prejuízos ocorridos em exercícios anteriores não constituem fato gerador algum. Trata-se de meras deduções cuja projeção para exercícios futuros foi autorizada. E autorizada nos termos da lei, que poderá, naturalmente, ampliar ou reduzir a proporção de seu aproveitamento.
+8.  Esse entendimento consolidou-se, como disse, com o julgamento do RE 344.994/PR, assim ementado:
+“RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE RENDA. DEDUÇÃO DE PREJUÍZOS FISCAIS. LIMITAÇÕES. ARTIGOS 42 E 58 DA LEI N. 8.981/95. CONSTITUCIONALIDADE. AUSÊNCIA DE VIOLAÇÃO DO DISPOSTO NOS ARTIGOS 150, INCISO III, ALÍNEAS "A" E "B", E 5º, XXXVI, DA CONSTITUIÇÃO DO BRASIL. 1. O direito ao abatimento dos prejuízos fiscais acumulados em exercícios anteriores é expressivo de benefício fiscal em favor do contribuinte. Instrumento de política tributária que pode ser revista pelo Estado. Ausência de direito adquirido 2. A Lei n. 8.981/95 não incide sobre fatos geradores ocorridos antes do início de sua vigência. Prejuízos ocorridos em exercícios anteriores não afetam fato gerador nenhum. Recurso extraordinário a que se nega provimento.”
+9.  Portanto, o acórdão recorrido está em harmonia com essa orientação, razão por que, com fundamento no art. 557, caput, do CPC, nego seguimento ao recurso extraordinário interposto pelo Banco JP Morgan S/A.
+10.  Posteriormente, retornem-me os autos conclusos para apreciação do RE de fls. 515-521.
+Publique-se.
+Brasília, 16 de novembro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
