@@ -1,0 +1,15 @@
+DESPACHO (Petição n. 100.383/2009)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PEDIDO DE RECONSIDERAÇÃO DE MULTA PROCESSUAL. IMPOSSIBILIDADE. BAIXA À ORIGEM APÓS CERTIFICADO O TRÂNSITO EM JULGADO.
+1. Em 9.6.2009, a Primeira Turma deste Supremo Tribunal Federal negou provimento ao agravo regimental no agravo de instrumento com aplicação de multa (fl. 204).
+O acórdão foi publicado no Diário da Justiça eletrônico de 7.8.2009.
+2. Em 14.8.2009, por meio de petição, Prospecta Fomento Mercantil S/A, ora Agravante, requereu a reconsideração da multa arbitrada no julgamento do presente recurso e informou que “não se utilizou da via recursal de modo protelatório, com má-fé ou falta de lealdade, pelo contrário, visava ao pronunciamento do colegiado sobre a matéria versada na decisão monocrática que negou seguimento ao agravo de instrumento” (fl. 211).
+Afirmou, ainda, que “tanto o Agravo de instrumento quanto o Agravo regimental não possuem razões opostas a entendimento pacificado deste Egrégio Tribunal, só foram julgados improcedentes por entender a D. Relatora que o tema não ofenderia diretamente a Constituição Federal e demandaria exame de normas infraconstitucionais, o que, por si só, já descaracteriza qualquer má-fé ou falta de lealdade da Requerente” (fls. 211-212).
+3. Nada há a prover. A multa arbitrada em 5% do valor corrigido da causa foi aplicada pela Primeira Turma do Supremo Tribunal, nos termos do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil. Portanto, somente esta poderia retirá-la.
+O Requerente utiliza meio inadequado para a sua pretensão, pois a petição avulsa com pedido de reconsideração da multa não é instrumento processual viável a possibilitar questionamento, menos ainda a reforma do julgado por órgão colegiado do Supremo Tribunal Federal. Nesse sentido:
+“Pedido de reconsideração. No caso, a decisão recorrida não é despacho que tenha rejeitado embargos de declaração, mas, sim, decisão da Primeira Turma desta Corte que os rejeitou. Ora, em se tratando de acórdão de Turma do Tribunal não é cabível pedido de reconsideração, que não é suscetível sequer de conversão em novos embargos de declaração, uma vez que a interposição desse pedido de reconsideração traduz erro crasso. Pedido de reconsideração não conhecido” (AI 331.409-AgR-ED, Rel. Min. Moreira Alves, Primeira Turma, DJ 2.5.2003 – grifos nossos).
+Cumpre advertir ao Agravante que, apesar dos “esclarecimentos” feitos, o que se tem, aqui, é reiteração de providências processuais ética e juridicamente indevidas. Medidas como a presente são inadequadas e têm o óbvio e inadequado propósito de postergar o final do processo, o que lhe poderá resultar na imposição de outros gravames, nos termos da legislação processual vigente (arts. 14, inc. III e IV, 17, inc. VI, e 18, caput, do Código de Processo Civil).
+4. À Secretaria Judiciária, para, após certificar o trânsito em julgado da decisão proferida, baixar os autos à origem (art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de novembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
