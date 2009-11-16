@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+“ APELAÇÃO CÍVEL – SERVIDOR PÚBLICO – APOSENTADORIA EM CLASSE MAIS ELEVADA – LEI Nº 13.666/2002 QUE REESTRUTURA OS CARGOS – REENQUADRAMENTO EM CLASSE INICIAL – IMPOSSIBILIDADE – DIREITO ASSEGURADO PELOS ARTIGOS 40, §8º, DA CONSTITUIÇÃO DA REPÚBLICA (REDAÇÃO DA EC 20/98) E 7º DA EC 41/2003 – VANTAGENS CONCEDIDAS AOS SERVIDORES ATIVOS – EXTENSÃO AOS SERVIDORES INATIVOS.” (Fl. 20)
+2.  No RE, alega-se ofensa ao artigo 40, §8º, da Constituição Federal (fls. 32-47).
+3.  Assiste razão a parte agravante. A jurisprudência do Supremo Tribunal Federal firmou entendimento de que servidor público não tem direito adquirido a regime jurídico, podendo ser reenquadrado em outro nível da carreira, ainda que tenham sido aposentados no último nível desta.
+ Esta Corte, em diversas oportunidades, já tratou da matéria presente nos autos. Nesse sentido:
+“(...) Esta Corte firmou jurisprudência no sentido de que não há direito adquirido do servidor público a inalterabilidade do regime jurídico ou da composição ou estrutura legal dos vencimentos e proventos, uma vez preservado o valor pecuniário total destes, anterior à lei que tenha alterado aquele (RE nº 238.122 - AgRg, Rel. Min. CELSO DE MELLO, DJ 04.08.00. No mesmo sentido: RE nº 563.965, Rel. Min. CÁRMEN LÚCIA, DJe 20.03.2009; RE nº 116.683, Rel. Min. CELSO DE MELLO, DJ de 13.03.1992; RE nº 159.196, Rel. Min. ILMAR GALVÃO , DJ de 22.09.1995). Logo, o fato de a Lei nº 13.666/02 ter ampliado o número de referências do quadro funcional a que pertenciam os recorrentes, fixando requisitos para os servidores da ativa, não lhes confere direito adquirido ao enquadramento em último nível de referência, só pelo fato de, à época, se terem aposentado no final da carreira, razão pela qual há que se reconhecer a violação ao art. 40, § 8º, da Constituição Federal.” (AI 766.794/PR, rel. Min. Cezar Peluso, pub. DJe 28.10.2009).
+“ AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO APOSENTADO. RECLASSIFICAÇÃO – LEI ESTADUAL N. 13.666/2002. MANUTENÇÃO DO NÍVEL FUNCIONAL HIERÁRQUICO: AUSÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PRECEDENTES. AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS.”  (AI 720.887/PR, rel. Min. Cármen Lúcia, pub. DJe 01.07.2009).
+4.  Ante o exposto, com fundamento no art. 544, § 4º, do Código de Processo Civil, estando o acórdão recorrido em confronto com a orientação firmada por este Tribunal, conheço do agravo e, desde logo, dou provimento ao recurso extraordinário. Determino a inversão dos ônus da sucumbência, ressalvada a hipótese de concessão da justiça gratuita.
+Publique-se.
+Brasília, 16 de novembro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
