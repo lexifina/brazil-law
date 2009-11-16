@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PRECATÓRIO. INCIDÊNCIA DE JUROS DE MORA ENTRE A DATA DA INCLUSÃO NO ORÇAMENTO E O EFETIVO PAGAMENTO: IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA VINCULANTE N. 17 DO SUPREMO TRIBUNAL FEDERAL. RECURSO PROVIDO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“EMBARGOS DE DECLARAÇÃO. CABIMENTO. PRECATÓRIO COMPLEMENTAR. ATUALIZAÇÃO DE CONTA. JUROS MORATÓRIOS. INCLUSÃO. DETERMINAÇÃO TRANSITADA EM JULGADO DETERMINANDO A INCLUSÃO. A lei processual define com clareza as hipóteses de cabimento dos embargos declaratórios, pelo que, ocorrente pelo menos uma delas, devem os mesmos ser acolhidos. A despeito do entendimento de que não são devidos os juros moratórios em sede de atualização de conta para fins de precatório complementar, no caso específico dos autos, havendo sentença transitada em julgado determinando a sua inclusão, é de ser mantida em obediência ao que determina o CPC nos seus artigos 468 e 471” (fl. 267).
+2. A Recorrente alega que o Tribunal a quo teria afrontado o art. 100, §§ 1º e 2º, com alteração da Emenda Constitucional n. 30/00, da Constituição da República e o art. 33 do Ato das Disposições Constitucionais Transitórias.
+Argumenta que “não importa para o deslinde da questão, o tempo da constituição do título, daí não há que se falar em coisa julgada” (fl. 282).
+Sustenta que “descabem, definitivamente, os juros de mora, porque na atualização somente se pode cogitar de correção monetária, a qual, deve-se salientar, originalmente é aplicada também sobre os juros de mora legitimamente devidos e já agregados ao montante do precatório anterior” (fl. 284).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão de direito assiste à Recorrente.
+4. Cumpre ressaltar, inicialmente, que a condenação ao pagamento de juros moratórios firmada em sentença transitada em julgado não impede a incidência da jurisprudência do Supremo Tribunal Federal que afastou a caracterização da mora para pagamento de precatórios no prazo constitucional.
+No julgamento do Recurso Extraordinário 591.085, Relator o Ministro Ricardo Lewandowski, DJe 20.2.2009, o Plenário do Supremo Tribunal Federal reconheceu a repercussão geral da questão constitucional objeto deste recurso e confirmou a jurisprudência consolidada no sentido da inconstitucionalidade da incidência de juros de mora no período entre a inclusão do precatório em orçamento até o efetivo pagamento:
+“EMENTA: CONSTITUCIONAL. PRECATÓRIOS. JUROS DE MORA. INCIDÊNCIA DURANTE O PRAZO PREVISTO NA CONSTITUIÇÃO PARA SEU PAGAMENTO. IMPOSSIBILIDADE. ART. 100, § 1º (REDAÇÃO ORIGINAL E REDAÇÃO DADA PELA EC 30/2000), DA CONSTITUIÇÃO. I - QUESTÃO DE ORDEM. MATÉRIA DE MÉRITO PACIFICADA NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE O MESMO TEMA. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 579.431-QO/RS, RE 582.650-QO/BA, RE 580.108-QO/SP, MIN. ELLEN GRACIE; RE 591.068-QO/PR, MIN. GILMAR MENDES; RE 585.235-QO/MG, REL. MIN. CEZAR PELUSO. II – Julgamento de mérito conforme precedentes. III – Recurso provido”
+5. Confiram-se, a propósito, os seguintes julgados:
+“E M E N T A: AGRAVO DE INSTRUMENTO - PRECATÓRIOS JUDICIAIS - NÃO-INCIDÊNCIA DE JUROS MORATÓRIOS DURANTE O PERÍODO A QUE SE REFERE O ART. 100, § 1º, DA CONSTITUIÇÃO DA REPÚBLICA, NA REDAÇÃO ANTERIOR AO ADVENTO DA EC Nº 30/2000 - DIRETRIZ JURISPRUDENCIAL FIRMADA PELO SUPREMO TRIBUNAL FEDERAL - EMBARGOS DE DECLARAÇÃO RECEBIDOS. - Tratando-se de precatórios judiciais, não cabe a incidência de juros de mora durante o período a que alude o § 1º do art. 100 da Constituição da República (na redação anterior à EC nº 30/2000), pois, enquanto não superado o prazo estabelecido em referida norma constitucional, a entidade de direito público não poderá ser considerada em estado de inadimplemento obrigacional. Precedentes” (AI 396.790-AgR-ED, Rel. Min. Celso de Mello, Segunda Turma, DJe 6.3.2009).
+E:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRECATÓRIO COMPLEMENTAR. JUROS DE MORA. NÃO-INCIDÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 492.784–AgR, de minha relatoria, Primeira Turma, DJ 7.12.2007).
+Nesse sentido, o Supremo Tribunal Federal editou a Súmula Vinculante n. 17 com o teor seguinte: “durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos”.
+6. Dessa orientação jurisprudencial divergiu o acórdão recorrido.
+7. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de novembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
