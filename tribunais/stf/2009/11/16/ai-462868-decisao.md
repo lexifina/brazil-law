@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que determinou a retenção do recurso extraordinário (art. 542, § 3º, do CPC).
+A decisão agravada está assim redigida (fls. 86-87):
+“Considerando que as normas processuais têm aplicação imediata e tendo em vista, neste passo, as alterações introduzidas pela Lei Federal nº 9.756/98 no Código de Processo Civil, em especial a relativa ao artigo 542, acrescentando o parágrafo 3º, e dispondo que ‘o recurso extraordinário, ou o recurso especial, quando interpostos contra decisão interlocutória em processo de conhecimento, cautelar, ou embargos à execução ficará retido nos autos e somente será processado se o reiterar a parte, no prazo para a interposição do recurso contra a decisão final, ou para as contra-razões’, situação que se inserem estes recursos, determino a sua baixa à origem, para o devido apensamento ao processo subjacente no qual foi proferida a decisão interlocutória impugnada.”
+O Ministério Público estadual requer seja determinado o imediato processamento do recurso extraordinário, afastando-se a retenção, pois “no caso em estudo, o processo foi extinto sem julgamento do mérito, de forma que não é possível que o recurso extraordinário seja apensado aos autos da ação e fique retido, pois não haverá decisão em primeiro grau de jurisdição, e, assim, jamais haverá possibilidade de sua reiteração” (fls. 06).
+A jurisprudência deste Supremo Tribunal Federal firmou-se no sentido da inadmissibilidade de recurso extraordinário contra decisão interlocutória em processo de conhecimento, por não configurar, de regra, provimento definitivo, que põe termo ao processo. Contudo, na hipótese dos autos, verifica-se que já houve decisão definitiva da causa posta em juízo, uma vez que o Tribunal a quo deu provimento ao recurso para extinguir o processo sem julgamento do mérito, com fundamento no art. 267, VI, do Código de Processo Civil (fls. 56-67).
+Do exposto, dou provimento ao agravo para afastar a retenção firmada às fls. 86-87, determinando que o Tribunal de origem prossiga na análise do juízo de admissibilidade do recurso extraordinário.
+Publique-se.
+Brasília, 16 de novembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
