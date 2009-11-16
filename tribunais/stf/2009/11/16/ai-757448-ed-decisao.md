@@ -1,0 +1,23 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO - INEXISTÊNCIA DE VÍCIO – DESPROVIMENTO.
+1.  Por meio da decisão de folha 466, neguei provimento ao agravo, consignando:
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE.
+1.  O Tribunal Regional do Trabalho da 13ª Região negou acolhida a pedido formulado em agravo, ante fundamentos assim resumidos (folha 292):
+AGRAVO DE INSTRUMENTO. DESPACHO QUE DENEGOU SEGUIMENTO AO AGRAVO DE PETIÇÃO. EMBARGOS DE TERCEIRO. CUSTAS PROCESSUAIS. NÃO-RECOLHIMENTO. DESERÇÃO. OCORRÊNCIA. É deserto agravo de petição interposto contra decisão de embargos de terceiro, quando não recolhidas as custas processuais em face da natureza cognitiva da ação.
+Agravo desprovido.
+O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+2.  Acresce que, no caso dos autos, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nºs 282 e 356 da Súmula desta Corte. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+3.  Conheço do agravo e o desprovejo.
+4.  Publiquem.
+Brasília, 16 de novembro de 2009.
+O embargante, nos declaratórios de folha 475 a 478, sustenta que a conclusão do Tribunal Regional do Trabalho da 13ª Região, em torno de deserção do recurso tempestivamente interposto, implicou cerceamento de defesa. Salienta que o artigo 789-A, da Consolidação das Leis do Trabalho, determina serem as custas, em processo de execução, “sempre de responsabilidade do executado e pagas ao final do processo” (folha 476).
+A parte embargada, apesar de intimada, não apresentou contrarrazões (certidão de folha 484).
+2.  Na interposição destes embargos, foram observados os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente constituído (folha 22), foi protocolada no prazo assinado em lei.
+ Atentem para o que decidido pela Corte de origem. O Tribunal Regional do Trabalho da 13ª Região consignou ser deserto o agravo “interposto contra decisão de embargos de terceiro, quando não recolhidas as custas processuais em face da natureza cognitiva da ação” (folha 292). O deslinde da controvérsia deu-se sob o ângulo estritamente legal e não considerada a Carta da República. A conclusão adotada no acórdão prolatado pela Corte de origem fez-se alicerçada em interpretação conferida à Consolidação das Leis do Trabalho. Está-se diante de conflito de interesses que tem desfecho na Corte de origem, não ensejando campo ao acesso ao Supremo.
+ No mais, os dispositivos constitucionais tidos por violados não foram enfrentados pelo órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nºs 282 e 356 da Súmula desta Corte. Atentem não para o apego à literalidade do Verbete nº 356, também da Súmula desta Corte, mas para a razão de ser do prequestionamento e, mais ainda, para o teor do Verbete nº 282 da referida Súmula. O instituto do prequestionamento significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se a decisão impugnada nada contém sobre o que versado no recurso, descabe assentar o enquadramento deste no permissivo constitucional. Assim decidiu o Supremo no julgamento do Agravo Regimental no Agravo de Instrumento nº 541.696-6/DF, de que fui relator, com acórdão publicado no Diário da Justiça de 24 de fevereiro de 2006, sintetizado na seguinte ementa:
+RECURSO EXTRAORDINÁRIO – PREQUESTIONAMENTO – CONFIGURAÇÃO – RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido argüida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou entendimento explícito a respeito do fato jurígeno veiculado nas razões recursais, inviabilizada fica a conclusão sobre a violência ao preceito evocado pelo recorrente.
+3.  Ante o exposto, ausente omissão, obscuridade ou contradição na decisão embargada, desprovejo os embargos de declaração.
+4.  Publiquem.
+Brasília, 15 de abril de 2010.
+Ministro MARCO AURÉLIO
+Relator
