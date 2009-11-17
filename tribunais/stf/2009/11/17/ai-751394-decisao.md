@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Unimed Belo Horizonte – Cooperativa de Trabalho Médico Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, inciso XXXVI, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Turma da Décima Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“AÇÃO ANULATÓRIA, C/C CONDENATÓRIA – VALOR DA CAUSA – PLANO DE SAÚDE – PRESTAÇÃO DE SERVIÇO – CDC – TRANSPARÊNCIA CONTRATUAL – CLÁUSULA RESTRITIVA DE DIREITOS – CONHECIMENTO PRÉVIO NÃO COMPROVADO – PRINCÍPIO DE PROTEÇÃO AO CONSUMIDOR. O valor da causa deve corresponder ao valor do pedido, que reflete o benefício econômico perseguido pelo autor da demanda. As cláusulas contratuais são interpretadas de maneira mais favorável ao consumidor e, quando restritivas, são interpretadas contra aquele que as estipulou, a ele impondo-se provar ter dado conhecimento prévio e inequívoco ao consumidor. Agravo retido e Apelação não providos” (fl. 19).
+Opostos embargos de declaração (fls. 31 a 34), foram rejeitados (fls. 37 a 40).
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 24/3/07, conforme expresso na certidão de folha 41, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+O Tribunal de origem decidiu a controvérsia sobre a validade da cláusula que prevê a exclusão de cobertura de próteses em contrato de plano de saúde com base no Código de Defesa do Consumidor. Assim, a alegada ofensa ao dispositivo constitucional apontado, se houvesse, seria indireta ou reflexa, pressupondo o prévio exame da referida legislação infraconstitucional, além do reexame de cláusulas contratuais e das provas dos autos, o que não enseja reexame na via do recurso extraordinário. Incidência das Súmulas nºs 279 e 454 desta Corte. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRATO. PLANO DE SAÚDE. IMPOSSIBILIDADE DO EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULA DE ESTATUTO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 610.930/MS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 20/6/08).
+“Agravo regimental em agravo de instrumento. 2. Matéria prequestionada. 3. Contrato. Plano de saúde. Cláusula contratual. Aplicação da Súmula 454 do STF. Ofensa reflexa à CF/88. 4. Agravo regimental a que se nega provimento” (AI nº 498.374/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 14/3/08).
+ “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. OFENSA REFLEXA. MATÉRIA FÁTICA E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. PLANO DE SAÚDE. DIREITO À INFORMAÇÃO. RELAÇÃO CONSUMERISTA. I - Decisão monocrática que negou seguimento ao agravo de instrumento em razão da ausência de prequestionamento, da configuração de ofensa reflexa à Constituição e da necessidade de reexame de matéria fática e de interpretação de cláusulas contratuais. II - Inexistência de novos argumentos capazes de afastar as razões expendidas na decisão ora atacada, que deve ser mantida. III - Agravo regimental improvido” (AI nº 560.316/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 6/10/06).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 17 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
