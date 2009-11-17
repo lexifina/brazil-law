@@ -1,0 +1,11 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão que negou pedido de anistia, formulado por ex-praça da Força Aérea Brasileira, pois não fora licenciado por ato de exceção e não seria perseguido político.
+No recurso extraordinário, sustenta o recorrente, com base no art. 102, III, a, da Constituição da República, violação ao art. 8º, do Dispositivo Transitório. Aduz que a Portaria 1104/GM3-64, expediente administrativo que lhe determinou a baixa dos quadros da Aeronáutica, seria ato de exceção, uma vez que teria sido editado em pleno período ditatorial.
+2.  Conquanto admissível o agravo, Inviável o recurso extraordinário.
+Diante da impossibilidade de, em recurso extraordinário, rever a Corte as premissas de fato em que, para decidir a causa, se assentou o Tribunal de origem, reconhecendo omissão do Estado, à luz da prova dos autos, é evidente que, para adotar outra conclusão, seria mister reexame prévio do conjunto fático-probatório, coisa de todo inviável (súmula 279).
+ Ademais, o Tribunal de origem consignou que o autor ingressou nas Forças Armadas em 1970, foi licenciado, em 1978, pela Portaria 1104/GM3-64 que, “apesar de editada durante a ditadura militar, tal fato não tem o condão de dar-lhe conteúdo exclusivamente político, nem de ato de exceção” (fl. 147). Nesse sentido, o acórdão impugnado está em conformidade com a jurisprudência desta Corte e bem refletiva nesta ementa:
+“ANISTIA POLÍTICA. Anulação. Validez. Servidor público militar. Praça. Cabo da Aeronáutica. Ingresso na Força Aérea já na vigência da Portaria nº 1.104/64. Inexistência de direito subjetivo. Situação diversa dos admitidos anteriormente. Segurança denegada. Recurso extraordinário não conhecido. Agravo improvido. Precedentes. A Portaria nº 1.104/1964, da Aeronáutica, só permite sejam anistiados os cabos que, ao tempo de sua edição, já eram praças da Força Aérea” (RMS nº 25.642-AgR, da minha relatoria, DJE de 7.8.2009) .
+3.  Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+ Brasília, 17 de novembro de 2009.
+Ministro CEZAR PELUSO
+Relator
