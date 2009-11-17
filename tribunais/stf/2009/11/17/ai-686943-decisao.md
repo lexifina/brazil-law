@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+União interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 142, 149, 150, inciso I, e 195, §§ 4º e 6º, da Constituição Federal.
+Insurge-se, no apelo extremo, contra decisão referendada pela Segunda Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado do Rio de Janeiro/RJ, assim fundamentada, na parte que interessa:
+“(...)
+A contribuição dos militares para os Fundos de Saúde foi inicialmente prevista pela Lei n°. 5.787/72, Lei de Remuneração dos Militares, que dispunha, no art. 81, parágrafo único, a respeito da contribuição no percentual de 3% incidente sobre o soldo do militar. Nesta parte, o ato normativo foi regulamentado pelo Dec. 92.512/1986 (ato administrativo que estabelece normas, condições de atendimento e indenizações para a assistência médico-hospitalar ao militar e seus dependentes), art. 14.
+Ocorre que, após a Constituição de 1988, que impôs à contribuição natureza tributária, a Lei n°. 5.787/72 foi revogada pela nova Lei de Remuneração dos Militares, Lei N° 8.237/91 que, apesar de tratar da matéria no art. 75, II, não definiu um dos elementos básicos da tributação – a alíquota.
+Assim, a partir da entrada em vigor da Lei no. 8.237/91, a legislação militar deixou de atender ao princípio da reserva legal tributária, o que tornou a exação inconstitucional” (fl. 44).
+Opostos embargos de declaração (fls. 48/49), foram acolhidos apenas para “retificar a decisão para aplicar a taxa Selic sobre o montante a ser pago e considerar como termo final do pagamento das parcelas a competência de fevereiro de 2001, ressalvada a prescrição qüinqüenal, mantidos os demais termos da decisão” (fl. 51).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 18/10/06, conforme expresso na folha 40, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação, uma vez que a jurisprudência desta Corte se firmou no sentido de que a controvérsia relativa à contribuição para o fundo de saúde dos militares é de natureza infraconstitucional. Assim, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+“I. Contribuição para o Fundo de Saúde de Militares: ilegitimidade: ausência de previsão da respectiva alíquota na lei que a instituiu: recurso extraordinário: descabimento: controvérsia restrita ao âmbito infraconstitucional: a alegada violação dos dispositivos constitucionais invocados, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636. II. Agravo regimental: inviabilidade para o exame de questões novas, que não foram objeto da decisão impugnada” (RE nº 489.269/RJ-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07).
+“RECURSO EXTRAORDINÁRIO - CONTRIBUIÇÃO PARA O FUNDO DE SAÚDE DOS MILITARES - LEI Nº 8.237/91 - REVOGAÇÃO DA LEI Nº 5.787/72 - DECRETO Nº 92.512/86 - MERO REGULAMENTO EXECUTIVO DA LEI Nº 5.787/72 - PRETENDIDA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA (CF, ART. 5º, LIII E LIV, E ARTS. 142, 149 E 150, I) - ALEGADA INCOMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL FEDERAL - MATÉRIA DE CARÁTER INFRACONSTITUCIONAL - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - INVIABILIDADE DO RECURSO EXTRAORDINÁRIO - AGRAVO IMPROVIDO” (RE nº 482.848/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 11/6/06).
+“RECURSO. Extraordinário. Inadmissibilidade. Contribuição para o fundo de saúde dos militares. FUSEX, FUNSA e FUSMA. Matéria Infraconstitucional. Ofensa indireta. Ausência de razões novas. Decisão mantida. Agravo regimental não provido. Precedentes. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte” (RE nº 480.470/RJ-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 1/2/08).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 17 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
