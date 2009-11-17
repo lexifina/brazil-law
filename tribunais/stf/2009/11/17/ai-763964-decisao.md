@@ -1,0 +1,15 @@
+DECISÃO
+Vistos.
+A União interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado na alínea “a” do permissivo constitucional.
+Vê-se, porém, que não se observou o prazo para a interposição do agravo de instrumento, conforme estabelece o caput do artigo 544 do Código de Processo Civil, com a alteração da Lei n.º 8.950, de 13/12/94.
+A agravante foi intimada da decisão que negou seguimento ao recurso extraordinário no dia 12 de março de 2009, quinta-feira (fl. 95). Iniciada a contagem do prazo - em dobro, conforme artigo 188 do Código de Processo Civil - no dia 13 de março de 2009, sexta-feira, o prazo terminou no dia 1ª de abril de 2009, quarta-feira. A petição de agravo de instrumento, todavia, foi protocolada somente em 7 de abril de 2009, terça-feira (fl. 2), após o término do prazo. É, portanto, intempestivo.
+Ressalte-se, por oportuno, que ambas as Turmas desta Corte firmaram entendimento no sentido de que os embargos de declaração opostos contra a decisão do Presidente do Tribunal de origem que não admitiu o recurso extraordinário, por serem incabíveis, não suspendem o prazo para interposição de outro recurso. Nesse sentido, anote-se:
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INTRUMENTO. AGRAVO DE INSTRUMENTO. EXTEMPORANEIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I - Os embargos de declaração opostos à decisão monocrática que inadmitiu o extraordinário não suspendem ou interrompem o prazo para interposição de outro recurso. II - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. III - A apreciação do recurso extraordinário demanda o exame de matéria de fato e a interpretação de cláusulas contratuais, o que atrai a incidência das Súmulas 279 e 454 do STF. IV - Agravo regimental improvido” (AI nº 685.665/RS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 20/5/08).
+“Agravo regimental em agravo de instrumento. 2. Embargos de declaração interposto da decisão de inadmissibilidade do recurso extraordinário. Recurso incabível. 3. Intempestividade do agravo. Precedentes. 4. Agravo regimental a que se nega provimento” (AI nº 550.025/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 6/11/07).
+“DECISÃO DE INADMISSIBILIDADE DE RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE EMBARGOS DECLARATÓRIOS INCABÍVEIS. NÃO INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. O agravo de instrumento é intempestivo, porquanto prevalece nesta Corte o entendimento de que os embargos de declaração opostos da decisão do Presidente do Tribunal de Origem que nega seguimento a recurso extraordinário, por serem manifestamente incabíveis, não suspendem ou interrompem o prazo para a interposição de recurso. Agravo Regimental a que se nega provimento” (AI nº 602.116/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 26/6/07).
+Não conheço do agravo.
+Publique-se.
+Brasília, 17 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
