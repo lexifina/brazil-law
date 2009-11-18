@@ -1,0 +1,31 @@
+Trata-se de agravo regimental interposto contra decisão que, em sede de agravo regimental, reconsiderou decisão para dar parcial provimento ao recurso extraordinário nos seguintes termos:
+“Trata-se de agravo regimental contra decisão (fl. 272) que conheceu do recurso extraordinário da União e deu-lhe provimento ao entendimento de que não incidem juros de mora entre a data da inscrição do precatório e o seu respectivo pagamento, se não há atraso na satisfação do débito.
+No regimental, Cavalcante & Bezerra Ltda sustenta, em suma, que a decisão agravada deve ser reformada, porquanto não houve comprovação de pagamento do precatório dentro do prazo estipulado, e que tal exame não poderia ser feito em recurso extraordinário
+Assiste razão, em parte, ao agravante. Reconsidero a decisão de fl. 272 e passo a apreciar o recurso extraordinário.
+Trata-se de recurso extraordinário interposto contra acórdão que, ao entender devido o pagamento de juros de mora nos cálculos de precatório complementar, até a integral satisfação da dívida, negou provimento ao agravo de instrumento da Fazenda Nacional. Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 100, § 1º, da mesma Carta. Requereu-se, em suma, que o precatório complementar seja expedido sem o cômputo de juros de mora.
+A pretensão recursal merece parcial acolhida. O Plenário do Supremo Tribunal Federal, ao julgar o RE 298.616/SP, Rel. Min. Gilmar Mendes, conheceu e deu provimento ao RE do Instituto Nacional do Seguro Social ao entendimento de que, não havendo atraso na satisfação do débito, não incidem juros moratórios entre a data da expedição e a data do efetivo pagamento do precatório, nos termos da ementa a seguir transcrita:
+‘Recurso Extraordinário. 2. Precatórios. Juros de mora. 3. Art. 100, § 1º, da Constituição Federal. Redação anterior à Emenda 30, de 2000. 4. Inclusão no orçamento das entidades de direito público. Apresentação de 1º de julho, data em que terão seus valores atualizados. 5. Prazo constitucional de pagamento até o final do exercício seguinte. 6. Descaracterização da mora, quando não há atraso na satisfação dos débitos. 7. Recurso extraordinário provido’.
+A decisão que deu origem ao agravo de instrumento, de cujo julgamento recorreu a União, ao analisar o conjunto fático-probatório constante dos autos, assim se manifestou:
+‘No que se refere aos juros moratórios, improcede a inconformidade, eis que são devidos, até o efetivo pagamento, vez que retardado por parte da Fazenda Pública’ (grifos nossos - fl. 11).
+Destaco, também, do acórdão ora recorrido, que negou provimento ao agravo de instrumento interposto pela União, mantendo o decidido pela decisão de fls. 11-13:
+‘No tocante aos juros de mora, pacificou-se na 4ª Turma a diretriz segundo a qual são eles devidos, pela Fazenda Pública, até a integral satisfação da dívida’ (fl. 127).
+Evidenciada a ocorrência de mora, devem incidir juros, mas apenas no período que extrapolou o prazo fixado no art. 100, § 1º, da CF.
+Importa destacar que não há incidência de juros moratórios no período constitucionalmente previsto para pagamento do precatório (art. 100, § 1º, da CF), visto que a mora só se configura com o descumprimento do prazo estipulado no dispositivo mencionado.
+Isso posto, com base no art. 557, § 1º-A, do CPC, conheço do recurso e dou-lhe parcial provimento para determinar a incidência de juros moratórios apenas no período que extrapolou o prazo determinado pelo art. 100, § 1º, da Constituição.
+Publique-se.
+Brasília, 2 de abril de 2008” (fls. 278-279).
+A agravante sustenta, em suma, a necessidade de reforma da decisão, uma vez que “a aplicação de juros de mora no período que extrapolou o prazo determinado pelo art. 100, par. 1º da Constituição destoa da jurisprudência do STF” (fl. 283).
+Bem reexaminada a questão, verifica-se que a decisão não merece reforma, visto que a parte recorrente não aduz novos argumentos capazes de afastar as razões expendidas na decisão ora atacada, que deve ser mantida por seus próprios fundamentos.
+Como já ressaltado na decisão agravada, o entendimento da Corte é no sentido de que não incidem juros moratórios no período a que se refere o art. 100, § 1º, da Constituição Federal, o que se infere, por óbvio, que a mora se configura com o descumprimento do referido prazo.
+Ademais, conforme assentado anteriormente, parte-se da premissa de que a Fazenda Pública, no presente caso, encontra-se em mora porque o efetivo pagamento foi retardado, atraso esse reconhecido pelo juízo a quo (fl. 11).
+Observo, também, que a parte agravante, na petição do agravo regimental, se embasou em jurisprudência acerca da não configuração de mora por parte da Fazenda Pública no período da elaboração da conta e a expedição do precatório, que nada tem a ver com a discussão dos autos. Desse modo, ela não atacou os fundamentos da decisão impugnada, o que caracteriza a deficiência de sua fundamentação, tornando inviável o conhecimento do recurso a teor da Súmula 284 do STF.
+Por fim, o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 18 de novembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
+1
