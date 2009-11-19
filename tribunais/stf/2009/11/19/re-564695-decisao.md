@@ -1,0 +1,15 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão da Primeira Turma Recursal do Rio Grande do Sul que concedeu, parcialmente, a ordem em mandado de segurança, para manter determinação judicial de realização de justificação administrativa, com base no art. 108 da Lei nº 8.213/91, para fins de comprovação de tempo de atividade rural exercida por agricultor que pleiteia concessão do benefício da aposentadoria.
+ Alega o recorrente, com base no art. 102, III, a e b, violação aos arts. 2º e 5º, LIV e 37, caput, da Constituição Federal. Requer seja declarada insubsistente a ordem tida por ilegal.
+2.  Inconsistente o recurso.
+ É que o acórdão impugnado decidiu a causa com base em legislação infraconstitucional (Lei nº 8.213/91), de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta. Ora, é pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, aplicando-se, quanto ao princípio da legalidade, a súmula 636.
+ Ainda que superado esse óbice, quanto à alegada ofensa ao art. 2º da Constituição Federal, o acórdão impugnado decidiu em conformidade com a orientação desta Corte, que, no julgamento do RE nº 170.782 (Rel. Min. MOREIRA ALVES, DJ de 2.6.2000), assim decidiu:
+“(...)
+- A única questão constitucional prequestionada foi a da alegada ofensa ao princípio da separação de Poderes.
+- Inexistência dessa violação, porquanto, no caso, o Poder Judiciário, por ter considerado o ato da Administração como ilegal e abusivo, fundamentando essa conclusão, se limitou a situar-se no terreno de sua competência.- Recurso extraordinário não conhecido”.
+ No que tange ao art. 5º, LIV, observo que suposta violação à garantia constitucional do devido processo legal configuraria, aqui, ofensa meramente reflexa à Constituição da República, porque sua eventual caracterização dependeria de exame prévio de norma infraconstitucional, o que também é inadmissível, como já notou a Corte em casos análogos: “As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário” (AI nº 372.358-AgR, Rel. Min. CELSO DE MELLO, DJ de 11.6.2002. Cf., ainda, AI nº 360.265-AgR, Rel. Min. CELSO DE MELLO, DJ de 20.9.2002).
+ Por fim, a interposição do extraordinário pela alínea b mostra-se infundada, pois o acórdão recorrido não declarou inconstitucionalidade de tratado nem de lei federal.
+3.  Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+ Brasília, 19 de novembro de 2009.
+Ministro CEZAR PELUSO
+Relator
