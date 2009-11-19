@@ -1,0 +1,22 @@
+DECISÃO
+Vistos.
+Rute Maria Rodrigues de Almeida Rocha interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Primeira Seção do Tribunal Regional Federal, assim ementado:
+“CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDORES PÚBLICOS. REAJUSTE DE VENCIMENTOS (28,86%). LEIS 8.622/93 E 8.627/93. PEDIDO DE COMPENSAÇÃO COM O REPOSICIONAMENTO DA LEI 8.627/93. PEDIDO RESCISÓRIO PROCEDENTE.
+1. A despeito da regra do art. 485 do CPC, que cuida do cabimento de ação rescisória de sentença/acórdão, na espécie, a r. decisão rescindenda efetivamente analisou o mérito da lide, deferindo o próprio direito material postulado pela ora ré. Assim, a aludida decisão faz coisa julgada material e, por conseguinte, desafia o ajuizamento de ação rescisória. Preliminar rejeitada.
+2. Objetivando a União a rescisão de julgado referente ao reajuste de 28,86%, que não determinou a compensação, a ação rescisória não encontra embaraço no enunciado da Súmula 343 do STF, uma vez que se trata de matéria constitucional, qual seja, a observância ao princípio da isonomia previsto no art. 37, X, da Constituição Federal.
+3. A jurisprudência do colendo STF orientou-se no sentido de que o reajuste de vencimentos de 28,86%, concedido aos militares pelas Leis 8.622/93 e 8.627/93, é extensivo aos servidores públicos federais civis, determinando, entretanto, a compensação dos percentuais de reajuste deferidos por força do reposicionamento funcional concedido aos servidores públicos federais civis, pelos arts. 1º e 3º da Lei 8.627/93 (Embargos de Declaração no Recurso Ordinário em Mandado de Segurança 22.307-7/DF, rel. para o acórdão o Min. Ilmar Galvão, Pleno, STF, maioria, in DJ de 26.6.98, p. 08).
+4. Ação rescisória julgada procedente” (fl. 253).
+Alega a recorrente violação do artigo 37, inciso X, da Constituição Federal, uma vez que “o acórdão ora hostilizado forçou a lógica jurídica, ao alegar, ‘que o não deferimento da compensação no reajuste de 28,86% do eventual índice já percebido pela ora ré por força da Lei 8.727/93 acarretará a quebra do princípio da isonomia previsto no artigho 37, X, da CF/88, possibilitando a ela o recebimento de reajuste superior ao índice a que efetivamente faz jus’” (fl. 275).
+Contra-arrazoado (fls. 291 a 295), o recurso extraordinário (fls. 273 a 276) foi admitido (fls. 299 a 300).
+O Superior Tribunal de Justiça negou provimento ao recurso especial interposto paralelamente ao extraordinário (fls. 335 a 338).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 15/9/06, conforme expresso na certidão de folha 254, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, uma vez que o acórdão recorrido aplicou corretamente a jurisprudência desta Corte no sentido de que assiste aos servidores militares o direito à complementação do reajuste de 28,86%, concedido pelas Leis nºs 8.622/93 e 8.627/93, facultado à Administração Pública a possibilidade de proceder à compensação desse reajuste com os acréscimos decorrentes do reposicionamento resultante dos diplomas legislativos mencionados. Nos termos do que decidido por este Tribunal, a referida reposição tem como termo final a Medida Provisória nº 2.131/2000, que reestruturou o sistema remuneratório dos militares. Sobre o tema, anote-se:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO MILITAR. REAJUSTE DE 28,86%. EXTENSÃO. TERMO FINAL. MEDIDA PROVISÓRIA N. 2.131, DE 28 DE DEZEMBRO DE 2000. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (RE nº 448.052/PE-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 18/5/07).
+“Agravo regimental em recurso extraordinário. 2. Reajuste de 28,86%. Extensão aos militares. Compensação dos reajustes já concedidos. 3. Limitação temporal. MP no 2.131, de 28 de dezembro de 2000. Precedente. 4. Agravo regimental a que se nega provimento” (RE nº 491.852/RS-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 23/2/07).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 19 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
