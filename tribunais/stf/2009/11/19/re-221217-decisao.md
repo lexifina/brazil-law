@@ -1,0 +1,18 @@
+DECISÃO : Trata-se de recurso extraordinário contra acórdão proferido em ação que pleiteava a fixação de honorários devidos em virtude de contrato verbal de prestação de serviços de advocacia.
+O acórdão deu provimento à apelação dos recorridos para fixar os honorários pleiteados em 35 salários mínimos. Transcrevo o voto:
+“Tenho para mim que no caso presente é de ser aplicado, em conjunto, o § 4º, do art. 20, do CPC, com o art. 22, § 2º, da Lei n. 8.906/94, que dispõe sobre o Estatuto da Ordem dos Advogados do Brasil, portanto, norma de ordem pública e de aplicação imediata. O § 4º do art. 20 do Código de Processo Civil é cotejado porque diz que nas causas em que não houver condenação, os honorários serão fixados de forma equitativa pelo Juiz, justamente o que ocorreu nos mandados de segurança onde funcionou o causídico, não deixando de esquecer que mesmo se houvesse condenação não se poderia perder de vista a Súmula 512, do STF, que assevera não caber condenação em honorários advocatícios em ações mandamentais.
+Já no art. 22, e seu § 2º, da Lei n. 8.906/94 (Estatuto da Ordem dos Advogados do Brasil), prevê o seguinte:
+Art. 22. A prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e aos de sucumbência.
+§ 2º Na falta de estipulação ou acordo, os honorários são fixados por arbitramento judicial, em remuneração compatível com o trabalho e o valor econômico da questão, não podendo ser inferiores ao estabelecidos na tabela organizada pelo Conselho Seccional da OAB.
+Para se aferir o trabalho desenvolvido pelo profissional de advocacia, nada mais resta do que citar o trecho do parecer ministerial, que nos dá com exatidão o que ocorreu nas duas ações mandamentais que o causídico prestou informações, defendendo os interesses dos réus, quando assim o doutor Darcilo Melo Costa se expressa:
+‘(...) Mas, como dizíamos, a par destes critérios legais – objetivos e subjetivos conjugados nas citadas disposições processuais e do Estatuto – há um critério objetivo, constante da tabela da Ordem dos Advogados – art. 22, § 2º do novo Estatuto – Lei n. 8.906 de 04 de julho de 1994. Parece-nos mais seguro segui-lo. Destarte, nos inclinamos em sua adoção ao presente caso em julgamento nessa superior instância. Assim, nos pronunciamos para dotar o critério do Conselho Seccional da OAB, podendo chegar-se até o seu dobro, em homenagem ao autor, grande e renomado advogado sergipano.’
+Concordo quase com a totalidade do parecer ministerial, discordando apenas quando o ilustre Procurador entende que devem ser arbitrados os honorários em 08 (oito) salários mínimos; 04 (quatro) salários para cada ação mandamental, dobrando-os, para se ter, como arbitrados, em 16 (dezesseis) salários mínimos.
+Pelo exposto, não só em homenagem ao autor, mas por achar justo, arbitro os honorários, para as duas ações mandamentais, em 35 (trinta e cinco) salários mínimos, provendo parcialmente o apelo dos réus e improvendo o apelo do autor, devendo, com referência ao ônus da sucumbência da presente demanda ser aplicado o dispositivo do art. 21 do Código de Processo Civil.”
+O recorrente é o autor da demanda. Alega violação ao art. 7º, IV, da Constituição.
+A tabela da seccional da Ordem dos Advogados tinha por objetivo regulamentar o disposto no Estatuto da Advocacia. Assim, a violação constitucional apontada pressupõe apreciar a conformidade da referida tabela com o Estatuto. Trata-se de violação constitucional meramente reflexa (Súmula 280).
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 16 de novembro de 2009
+Ministro JOAQUIM BARBOSA
+Relator
+1
