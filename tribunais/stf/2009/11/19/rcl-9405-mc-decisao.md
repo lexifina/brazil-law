@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Reclamação, com pedido de liminar, que o MUNICÍPIO DE PATOS (fls. 2 a 9), interpõe contra o JUÍZO DA VARA FEDERAL DO TRABALHO daquela cidade, na qual se alega contrariedade à autoridade de decisão desta Corte, proferida na Adi 3395-MC/DF, ao dar-se por competente para o processamento de diversas ações ajuizadas contra o reclamante, por servidores que contratou para o exercício da função de agentes comunitários de saúde.
+Alega o reclamante, em petição acompanhada dos documentos de fls. 11 a 1705, que no mês de julho de 1979, foi editada a Lei Municipal que dispôs sobre o estatuto dos funcionários públicos do município de Patos, a qual optou por um regime jurídico misto para a contratação dos servidores, preponderantemente estatutário, mas que reserva o regime celetista para obras ou contratos de funções de natureza técnica ou especializada. Como, porém, essa parte da legislação não foi recepcionada pela Constituição Federal de 1988, foi editada a Lei Municipal nº 2.493, que autorizou o Poder Executivo a realizar, excepcionalmente, contratos temporários, o que, de fato, foi feito, com relação à contratação de agentes comunitários de saúde.
+Porém, no início deste ano, foram ajuizadas contra o reclamante 193 ações trabalhistas, por servidores ocupantes do cargo de agente comunitário, e o reclamado, ao recebê-las, ao invés de reconhecer sua incompetência absoluta para processá-las, deu regular andamento aos processos, determinado a citação do reclamante.
+Discorreu sobre a regularidade dos contratos que assim celebrou, bem como sobre a incompetência da Justiça do Trabalho para a discussão dessa matéria, postulando a concessão de liminar, para a imediata suspensão dos efeitos de tais decisões, dada a plausibilidade dos prejuízos que seu efetivo cumprimento pode acarretar ao reclamante.
+É o relatório.
+A alegação em que fundamentada a presente reclamação diz com a suposta contrariedade à autoridade de decisão desta Corte, representada pelo posicionamento assumido pelo Juízo da Vara Federal do Trabalho de Patos (PB), ao reconhecer sua competência para o processamento de processos ajuizados contra o reclamante por servidores temporários que contratou para o exercício da função de agentes comunitários de saúde.
+Asseverou que, em razão da matéria em discussão naqueles processos, o reclamado seria absolutamente incompetente para tanto, o que deveria ter reconhecido tão logo recebeu tais feitos para despacho inicial.
+Contudo, não há nestes autos elementos capazes de justificar a pretendida imediata suspensão dos efeitos de tais decisões, sendo certo que o próprio reclamante tampouco demonstrou que chegou a arguir, diretamente junto ao reclamado, a almejada incompetência da Justiça Federal do Trabalho, posto que, dentro os inúmeros documentos que acostou aos autos, nenhum desses se refere às defesas que teria então apresentado, ou mesmo sobre eventuais decisões proferidas pelo reclamado, reconhecendo, de forma cabal, sua competência para o processamento dos feitos.
+Mostra-se de todo conveniente, ainda, que se comprove qual o atual andamento dos processos contra os quais se volta a presente reclamação, pois “Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal” (Súmula 734 do Supremo Tribunal Federal).
+Ante o exposto, indefiro a medida liminar, com a ressalva de ulterior revisão do quadro, após prestadas as informações, que devem ser solicitadas junto ao reclamado, com encaminhamento de cópia desta decisão (art.157, RISTF).
+Após, vista à douta Procuradoria-Geral da República (art.160, RISTF).
+Publique-se.
+Brasília, 19 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
