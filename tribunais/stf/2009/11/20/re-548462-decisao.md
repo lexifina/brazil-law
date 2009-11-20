@@ -1,0 +1,16 @@
+1.  Trata-se de recurso extraordinário interposto com amparo no art. 102, III, a, da CF, contra acórdão do Tribunal Regional Federal da 4ª Região que entendeu pelo afastamento do imposto de renda incidente de uma só vez sobre o somatório de prestações mensais pagas em razão de decisão prolatada em reclamatória trabalhista (Lei 7.713/88).
+2.  Alega a parte recorrente, em síntese, ofensa aos arts. 5º, 37 e 97 da Constituição Federal.
+3.  Admitido o RE (fl. 104), subiram os autos.
+4.  O Ministério Público Federal opinou pelo não-conhecimento do recurso; e se conhecido, pelo desprovimento (fls. 117-124).
+5.  Não merece prosperar o presente recurso, dado que o acórdão recorrido decidiu a questão em tela com fundamento na legislação infraconstitucional aplicável à espécie (Lei 7.713/88). Assim, eventual ofensa à Constituição Federal seria indireta e reflexa, o que incide a Súmula STF 636.
+ Nesse sentido, em casos análogos, RE 587.422/SC, rel. Min. Ricardo Lewandowski, DJe 28.5.2009; RE 593.890/SC, rel. Min. Cármen Lúcia, DJe 24.6.2009; e AI 636.303/SC, rel. Min. Cármen Lúcia, DJe 26.8.2008.
+6.  Corroborando esse entendimento, destaco do Parecer do Ministério Público Federal:
+ “  Além disso, a argumentação da recorrente, relativa à suposta afronta a preceitos constitucionais, apóia-se, à evidência, em preceitos infraconstitucionais, especialmente quanto à interpretação conferida ao art. 12 da Lei Nº 7.713/88. Como é cediço, a jurisprudência desse Excelso Pretório firmou-se no sentido de não admitir, no bojo de recurso extraordinário, alegação de afronta à Carta Política por inadequada interpretação ou aplicação de normas infraconstitucionais. De se ressaltar, ainda, que, sendo necessário o exame prévio de legislação infraconstitucional para que se possa debater a violação ao texto constitucional, resta configurada a ofensa meramente reflexa, incompatível com a via extraordinária. (...)
+ É importante mencionar, ainda, que a querela, por estar, em sua maior parte, na alçada de questões infraconstitucionais, foi levada ao Superior Tribunal de Justiça, mediante recurso especial, ao qual se negou seguimento (fls. 108/111), por estar o acórdão impugnado em consonância com a orientação jurisprudencial dominante naquela Corte. Este fato também comprova a natureza não constitucional das pretensões trazidas a esse Tribunal pela recorrente.
+ De mais a mais, ao contrário do que afirma a União, o acórdão combatido não declarou a inconstitucionalidade do art. 12 da Lei 7.713/88, mas conferiu-lhe interpretação condizente com os princípios da eqüidade e da isonomia tributária. O Tribunal a quo, na verdade, deu interpretação razoável ao citado dispositivo, sem considerá-lo inconstitucional. Como já decidiu essa Colenda Corte, a ‘interpretação que restringe a aplicação de uma norma a alguns casos, mantendo-a com relação a outros, não se identifica com a declaração de inconstitucionalidade de norma que é a que se refere o art. 97 da Constituição’ (RE 184093/SP, rel. Min. Moreira Alves, DJ 05/09/1997).”(fls. 117-124)
+7.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 20 de novembro de 2009.
+Ministra Ellen Gracie
+Relatora
+1
