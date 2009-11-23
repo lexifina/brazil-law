@@ -1,0 +1,17 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 92):
+“CERTIDÃO. Trânsito. Veículo. Registro da condição de proprietário. Documento indispensável à tutela judicial de direito. Expedição condicionada a pagamento de taxa. Ilegalidade. Ato gratuito. Provimento ao recurso. Segurança concedida. Inteligência e aplicação do art. 5º, XXXIV, b, da CF. A expedição para tutela ou exercício de direito é sempre gratuita: independe do pagamento de imposto, taxa, preço público e de qualquer outra prestação pecuniária.”
+2. Pois bem, a parte recorrente alega ofensa à alínea “b” do inciso XXXIV do art. 5º e aos arts. 145 e 175 da Carta Magna de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Roberto Monteiro Gurgel Santos, opina pelo não conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. Isso porque os arts. 145 e 175 do Texto Magno foram suscitados de modo inaugural nos embargos de declaração opostos ao aresto recorrido, o que não atende ao requisito do prequestionamento. Precedentes: AIs 133.690-AgR, da relatoria do ministro Celso de Mello; e 502.659-AgR, da relatoria do ministro Sepúlveda Pertence.
+5. Por outra volta, anoto que a Constituição Federal assegura aos brasileiros e aos estrangeiros residentes no País a obtenção gratuita de certidões em repartições públicas, desde que para o fim de defesa de direitos ou esclarecimento de situações de interesse pessoal. Nesse mesmo sentido o Plenário desta nossa Corte já decidiu, ao julgar a ADI 2.969, da minha relatoria. Leia-se trecho do voto que proferi:
+“14. No tema, penso que, ao garantir a obtenção gratuita de certidões em repartições públicas, o Texto Magno impôs limite material à atividade legislativa do Estado. É que, por meio da alínea ‘b’ do inciso XXXIV do artigo 5º, a Constituição de 1988 terminou por instituir uma espécie de imunidade tributária e, dessa forma, impediu qualquer exação que tenha por fundamento o fornecimento, pelo Poder Público, de certidões que visem à defesa de direitos e ao esclarecimento de situações de interesse pessoal do requerente.
+15. Nesse contexto, é possível conciliar as coisas. Penso que a ‘taxa de segurança pública’ a que alude o art. 178 da LC 19/97 não é inconstitucional, se se entender que não recai sobre as certidões expedidas para defesa de direitos e esclarecimento de situações de interesse pessoal. Cabendo ao interessado, naturalmente, ao postular a certidão, declinar a finalidade do seu requerimento.
+16. Daqui se segue que a minha proposta de ponderado equacionamento do feito passa pelo manejo da técnica de controle de constitucionalidade que atende pelo nome de ‘interpretação conforme’. É dizer: contendo o texto impugnado mais de uma base significativa ou relato deôntico, sou pela recusa à exegese que insira no âmbito de incidência material do dispositivo a extração e o fornecimento de certidões administrativas para os encarecidos fins de defesa de direitos, ou esclarecimento de situações de interesse pessoal.”
+Isso posto, e frente ao caput do art. 557 do CPC, e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de novembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
+1
+1
