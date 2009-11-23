@@ -1,0 +1,18 @@
+DECISÃO: Agravo regimental interposto contra decisão que negou seguimento ao recurso extraordinário por incidência do óbice da Súmula 735 do STF.
+2.  O agravante sustenta que “pela simples verificação do contexto normativo e jurisprudencial que envolve a inadmissibilidade de recursos extraordinários em face de decisões interlocutórias, é possível perceber-se que tal entendimento simplesmente não se aplica aos apelos interpostos em sede de controle normativo abstrato de constitucionalidade perante as Cortes estaduais” [fls. 253-260].
+3.  Sem entrar no mérito da aplicabilidade, ou não, do Código de Processo Civil ao controle concentrado, tenho que, sendo definitivo o acórdão prolatado pelo STJ --- diferentemente daquele oriundo do TJDFT, que concedeu a medida cautelar nos autos da ADI --- a decisão agravada merece ser reconsiderada. A ela não se aplica o óbice da Súmula 735.
+4.  Quanto ao recurso extraordinário de folhas 220-229, o Superior Tribunal de Justiça prolatou acórdão afirmativo de que o Governador do Distrito Federal não tem legitimidade para interpor, pessoalmente, recurso nos autos de ação direta de inconstitucionalidade, dado que a legitimidade recursal nos processos objetivos seria do ente estatal acionado [fls. 164-169].
+5.  O recorrente sustenta que o provimento judicial violou o disposto no artigo 103, caput e inciso V, da Constituição do Brasil.
+6.  Deixo de considerar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Inexistindo questão constitucional não há como pretender-se seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [artigo 102, III, § 3º, da CB/88].
+7.  A análise deste recurso extraordinário encontra-se prejudicada em face de óbice intransponível que impede a apreciação do seu mérito.
+8.  De resto, este RE é oriundo de recurso especial interposto contra acórdão prolatado pelo TJDFT em sede de ação direta de inconstitucionalidade distrital.
+9.  Em que pese o Superior Tribunal de Justiça não se ter manifestado quanto ao cabimento de recurso especial em sede de controle concentrado de constitucionalidade estadual, a hipótese não encontra amparo no direito positivo.
+10.  O artigo 125, § 2º, da Constituição do Brasil estabelece caber aos Estados instituir a representação de inconstitucionalidade das leis ou atos normativos estaduais ou municipais em face da Constituição estadual, circunstância que leva à conclusão de que o controle de constitucionalidade estadual --- com exceção apenas da interposição de RE por violação de norma de repetição obrigatória da Constituição do Brasil --- encerra-se no âmbito da jurisdição dos Tribunais de Justiça locais.
+11.  Daí que a interposição de recurso especial sob o fundamento de que o acórdão prolatado pelo TJDFT violou preceitos de lei federal, a Lei n. 9.868/99, não encontra esteio no direito positivo.
+12.  Não obstante essa lei seja aplicada subsidiariamente ao controle de constitucionalidade no DF, por expressa disposição da sua Lei de Organização Judiciária, dela própria consta a previsão de que o único recurso cabível contra o acórdão prolatado nos autos do controle concentrado é o dos embargos de declaração. O recurso especial do qual se originou este RE era incabível, razão pela qual --- e isso decorre da conjugação dessas premissas --- o recurso extraordinário está viciado na origem, circunstância que o torna manifestamente inadmissível.
+ Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF. Julgo prejudicado o agravo regimental.
+Publique-se.
+Brasília, 23 de novembro de 2009.
+Ministro Eros Grau
+- Relator -
+1
