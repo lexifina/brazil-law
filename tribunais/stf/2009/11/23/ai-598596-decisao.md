@@ -1,0 +1,21 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. PREJUÍZO DECORRENTE DE ATIVIDADE DE INVESTIMENTO DENOMINADA DAY TRADE: DEDUÇÃO DA BASE DE CÁLCULO DO IMPOSTO SOBRE A RENDA. LIMITAÇÃO IMPOSTA PELO ART. 76, § 3º, DA LEI N. 8.981/95. AGRAVO PROVIDO PARA DETERMINAR A SUBIDA DO RECURSO EXTRAORDINÁRIO. VISTA AO PROCURADOR-GERAL DA REPÚBLICA.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 2ª Região:
+“TRIBUTÁRIO – PREJUÍZOS DECORRENTES DE ATIVIDADE DE INVESTIMENTO – NÃO DEDUÇÃO BASE DE CÁLCULO IMPOSTO – RISCO INERENTE À PRÓPRIA ATIVIDADE DE CORRETAGEM DE VALORES MOBILIÁRIOS.
+I – Na atividade-fim da empresa que se dedica a investimento, mesmo que ele seja no mesmo dia – aplicação diária -, se a empresa perde na especulação ou assumindo o risco inerente ao próprio investimento, à própria atividade-fim, ela não pode, em regresso, atribuir ao Fisco esse prejuízo, através de dedução fiscal. Agora, se ela não obtém lucro, evidentemente, não há o que se pagar.
+II – Quanto à dedução fiscal dos prejuízos, reconheço – e é consabido – que, na atividade de investimento, existe o risco inerente a essa atividade. Assumindo o investidor esse risco, ele não pode, por regresso ou por cascata, fazer regredir na fonte tributária aquilo que é inerente à sua função” (fl. 161).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que: “a recorrente utilizou razões quase idênticas na interposição concomitante dos recursos especial e extraordinário, deixando assim de atender à regularidade formal exigida pela inteligência do artigo 541 do CPC c/c com os artigos 102 e 105 da Constituição Federal, considerando-se que cada qual tem a sua finalidade processual específica” (fl. 269).
+4. A Agravante alega que teriam sido contrariados os arts. 150, inc. II e IV, 153, inc. III, da Constituição da República.
+Argumenta que “a limitação ao pleno exercício do direito à dedução das perdas incorridas em aplicações de renda variável em operações iniciadas e encerradas no mesmo dia, imposta pelo parágrafo 3º do artigo 76 da Lei n. 8.981/95 não pode prosperar, tendo em vista a exacerbação da competência tributária conferida pelo artigo 153, III, da Constituição da República, ao distorcer o conceito de renda para fins de tributação, em flagrante ofensa também ao artigo 110 do CTN” (fl. 10).
+Analisada a matéria posta à apreciação, DECIDO.
+5. É de se anotar que a Agravante foi intimada do acórdão recorrido antes de 3.5.2007, o que dispensa a demonstração da repercussão geral da questão constitucional em capítulo especial do recurso extraordinário, nos termos do que decidido pelo Plenário do Supremo Tribunal Federal no Agravo de Instrumento 664.567-QO, Relator o Ministro Sepúlveda Pertence.
+6. A Agravante alega que a limitação imposta pelo art. 76, § 3º, da Lei n. 8.981/95 configuraria tributação sobre o patrimônio e não sobre a renda. Dessa forma, o legislador ordinário teria extrapolado da competência a ele atribuída pelo art. 153, inc. III, da Constituição da República, pois teria distorcido o conceito de renda para fins de tributação.
+Este Supremo Tribunal Federal reconheceu a repercussão geral de tema análogo, no Recurso Extraordinário n. 591.340, Relator o Ministro Marco Aurélio, no qual se discute, sob os mesmos fundamentos do presente recurso, as limitações impostas pelos arts. 42 e 58 da Lei n. 8.981/95, relativas à incidência de imposto de renda sobre as operações de swap protegidas por hedge.
+7. Pelo exposto, sem prejuízo de uma posterior e aprofundada análise do preenchimento dos requisitos para o cabimento do recurso extraordinário, dou provimento a este agravo. Subam os autos para apreciação do recurso extraordinário (art. 21, inc. VI, e art. 316 do Regimento Interno do Supremo Tribunal Federal).
+Autuado e distribuído o recurso extraordinário, vista ao Procurador-Geral da República (art. 103, § 1º, da Constituição da República e art. 52, inc. XIV, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 23 de novembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
