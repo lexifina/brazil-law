@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Estado do Amazonas interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso XXXVI, 40, § 8º, e 61, § 1º, inciso II, alínea “a”, da Constituição Federal.
+Vê-se, porém, que não se observou o prazo para a interposição do agravo de instrumento, conforme estabelece o caput do artigo 544 do Código de Processo Civil, com a alteração da Lei n.º 8.950, de 13/12/94.
+A decisão agravada foi publicada no dia 19 de setembro de 2006, terça-feira (fl. 349). Iniciada a contagem do prazo - em dobro, conforme disposto no artigo 188 do Código de Processo Civil - no dia 20 de setembro de 2006, quarta-feira, o prazo terminou no dia 9 de outubro de 2006, segunda-feira. A petição de agravo de instrumento, todavia, foi protocolada somente em 23 de outubro de 2006, terça-feira (fl. 2), após o término do prazo. É, portanto, intempestivo.
+Ressalte-se ser insuficiente para afastar a intempestividade do recurso a alegação presente na petição do agravo de instrumento de que “o Estado do Amazonas NÃO foi intimado pessoalmente” (fl. 3). Ocorre que o prazo processual para o Estado recorrer começa a fluir após a publicação da decisão no Diário Oficial. É o que o artigo 236 do Código de Processo Civil dispõe: “No Distrito Federal e nas Capitais dos Estados e dos Territórios, consideram-se feitas as intimações pela só publicação dos atos no órgão oficial”. Sobre o tema, anote-se:
+“RECURSO - PRAZO - INTIMAÇÃO FICTA VERSUS PESSOAL. Não sendo pessoal, a intimação ocorre normalmente com a ciência a ser dada ao representante do Estado - um procurador. A expedição de mandado não tem o condão de reabrir o prazo recursal considerada a intimação ficta mediante a publicação do ato no Diário Oficial. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (AI nº 590.561/SP-Agr, Primeira Turma, Relator o Ministro Marco Aurélio, DJ de 23/2/07).
+No mesmo sentido, a seguinte decisão monocrática: RE nº 469.371/GO, Relatora a Ministra Cármen Lúcia, DJ de 11/4/07.
+Essa norma comporta exceções, dentre elas a prevista na Lei nº 4.348/64, que estabelece normas processuais relativas ao mandado de segurança, in verbis:
+“Art. 3º Os representantes judiciais da União, dos Estados, do Distrito Federal, dos Municípios ou de suas respectivas autarquias e fundações serão intimados pessoalmente pelo juiz, no prazo de 48 (quarenta e oito) horas, das decisões judiciais em que suas autoridades administrativas figurem como coatoras, com a entrega de cópias dos documentos nelas mencionados, para eventual suspensão da decisão e defesa do ato apontado como ilegal ou abusivo de poder”.
+Desse modo, a intimação pessoal deve ocorrer para a “eventual suspensão da decisão e defesa do ato apontado como ilegal ou abusivo de poder”, o que não se aplica à decisão impugnada, que apesar de proferida nos autos de mandado de segurança, limitou-se a não admitir o seguimento do recurso extraordinário.
+Anote-se, por fim, que o Plenário desta Corte, na sessão de 8/10/08, ao julgar o RE nº 536.881/MG-AgR, Relator o Ministro Eros Grau, ratificou a orientação de ser incabível neste Supremo Tribunal Federal o suprimento de eventuais falhas ou realização de diligências com o objetivo de viabilizar o conhecimento de recurso interposto nas demais instâncias.
+Não conheço do agravo.
+Publique-se.
+Brasília, 23 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
