@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal), de acórdão cuja ementa apresenta o seguinte teor (fls. 257):
+“AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TERCEIROS QUE, FILHOS DO EXECUTADO, PRETENDEM A SUSPENSÃO DA HASTA PÚBLICA, SOB ALEGAÇÕES DE VÍCIOS DE FORMA E DE IMPENHORABILIDADE. AUSÊNCIA DE INTERESSE JURÍDICO. ILEGITIMIDADE RECURSAL MANIFESTA. ART. 6º DO CPC. Terceiros que alegam mero interesse econômico na manutenção do bem em poder da família não têm legitimação para embaraçar atos executivos, mormente quando pretendem, em nome próprio, pleitear direito alheio. LITIGÂNCIA DE MÁ FÉ EVIDENTE, DADO O CARÁTER PROTELATÓRIO DO RECURSO. Sendo temerários o incidente e o recurso, devem os recorrentes responder como litigantes de má fé, arcando não só com a multa prevista no art. 18, caput, do CPC, mas também pelo ressarcimento à parte agravada das despesas processuais que haverão de ser repetidas em função do inicial deferimento do efeito suspensivo. AGRAVO NÃO CONHECIDO”.
+No recurso extraordinário se alega violação do disposto nos arts. 5º, II, XXXV, LIV e LV; e 93, IX, da Carta Magna.
+As questões constitucionais debatidas no recurso extraordinário não foram ventiladas no acórdão recorrido nem foram objeto de embargos de declaração. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Ainda que superado referido óbice, o recurso extraordinário não poderia ser admitido, pois o Tribunal a quo apreciou a demanda à luz da legislação infraconstitucional pertinente,   de modo que se trata de ofensa reflexa não passível de exame em recurso extraordinário. Nesse sentido: RE 597.400-AgR (rel. min. Cármen Lúcia, DJe de 13.11.2009), AI 436.788-AgR (rel. min. Carlos Britto, DJ de 03.02.2006) e RE 103.227-AgR (rel. min. Ellen Gracie, DJe de 06.03.2009).
+Por outro lado, no que se refere à aplicação de multa por litigância de má-fé, a análise das questões constitucionais suscitadas implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida e da legislação infraconstitucional. Isso inviabiliza o processamento do recurso, ante as vedações contidas nos enunciados das Súmulas 279 e 636 desta Corte (cf. AI 486.424-AgR, rel. min. Sepúlveda Pertence, DJ de 13.08.2004).
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 23 de novembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
