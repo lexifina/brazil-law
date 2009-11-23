@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. INTEGRALIDADE DA PENSÃO POR MORTE. AUTOAPLICABILIDADE DO ART. 40, § 5º (ATUAL § 7º), DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. RECURSO PROVIDO.
+Relatório
+1. Recurso extraordinário interposto com fundamento no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+“PENSÃO. São Bernardo do Campo. Servidor falecido em atividade. LM nº 4.828/99, art. 9º, § único. CF, art. 40 § 3º e 7º. Nos termos do § 7º, que prevalece na hipótese sobre o § 3º, do art. 40 da CF, a pensão por morte será igual ao valor dos proventos do servidor falecido ou ao valor dos proventos a que teria direito o servidor em atividade na data de seu falecimento. O marido da autora faleceu em atividade com 4 anos de serviço; correta a fixação da pensão em 4/35 dos vencimentos que o servidor recebia. Sentença que concedeu a segurança. Reexame necessário e apelo do Município providos para denegar a segurança” (fl. 227).
+2. A Recorrente alega que teria sido contrariado o art. 40, §§ 3º e 7º, da Constituição da República.
+Sustenta que
+“tem direito a recorrente a receber a pensão por morte de seu marido, correspondente a 100% (cem por cento) de seus vencimentos, pois referido direito está expressamente disciplinado na Constituição Federal bem como na legislação municipal. (...) Ademais, a questão em tela, que suscitava debates, já está pacificada pela Excelsa Corte, no sentido de que o art. 40, § 5º (hoje § 7º), da Constituição Federal é auto-aplicável, sendo que a lei nele referida não pode ser outra senão aquela que fixa o limite de remuneração dos servidores em geral, na forma do art. 37, XI, da Carta Magna (RE 197.482-2-SP, rel. Min. Moreira Alves, j. 18.06.96; RE 195.331-4-SP, rel. Min. Marco Aurélio, j. 18.3.96)” (fl. 248).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica assiste à Recorrente.
+4. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido da autoaplicabilidade do artigo 40, § 5º, atual § 7º, da Constituição da República. Esse dispositivo determina a fixação da pensão por morte de servidor público no valor correspondente à totalidade dos vencimentos e proventos que receberia se vivo fosse.
+Nesse sentido:
+“II. Pensão por morte de servidor público (CF/88, art. 40, § 7º): plena correspondência de valores à totalidade dos vencimentos ou proventos do servidor falecido, conforme entendimento do STF firmado a partir do julgamento do MI 211 (Marco Aurélio, RTJ 157/411): não inclusão de parcelas que nem o servidor falecido receberia caso estivesse aposentado, em razão da sua natureza pro labore faciendo e do não cumprimento de requisitos previstos na legislação ordinária” (RE 444.814-ED, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 9.2.2007).
+“2. Pensão por morte de servidor público (CF/88, art. 40, § 5º): plena correspondência de valores à totalidade dos vencimentos ou proventos do servidor falecido, conforme entendimento do STF firmado a partir do julgamento do MI 211 (Marco Aurélio, RTJ 157/411): inclusão, com fundamento no artigo 40, §§ 7º e 8º (redação da EC 20/98), de vantagens remuneratórias de caráter geral e extensivas a todos os servidores em atividade: precedentes” (RE 377.357-AgR, Rel. o Min. Sepúlveda Pertence, Primeira Turma, DJ 19.2.2007).
+“E M E N T A: AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE PREQUESTIONAMENTO EXPLÍCITO DA MATÉRIA CONSTITUCIONAL – AUTO-APLICABILIDADE DA NORMA INSCRITA NO ART. 40, § 5º, DA CONSTITUIÇÃO FEDERAL (NA REDAÇÃO ANTERIOR À PROMULGAÇÃO DA EC 20/98) - CORRESPONDÊNCIA DO VALOR DA PENSÃO À TOTALIDADE DOS VENCIMENTOS OU PROVENTOS DO SERVIDOR FALECIDO - REVISÃO DOS VALORES NA MESMA DATA E NA MESMA PROPORÇÃO DA REMUNERAÇÃO DOS SERVIDORES EM ATIVIDADE - DIRETRIZ JURISPRUDENCIAL FIRMADA PELO SUPREMO TRIBUNAL FEDERAL - RECURSO IMPROVIDO” (AI 533.899-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 2.6.2006).
+5. Dessa orientação jurisprudencial divergiu o acórdão recorrido.
+6. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal).
+Considerando-se a Súmula 512 do Supremo Tribunal Federal, deixo de condenar ao pagamento de honorários advocatícios de sucumbência.
+Publique-se.
+Brasília, 23 de novembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
