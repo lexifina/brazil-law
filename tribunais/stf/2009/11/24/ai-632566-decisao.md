@@ -1,0 +1,23 @@
+DECISÃO
+Vistos.
+Hernani Monteiro Portella e outros interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, inciso XXXVI, da Constituição Federal.
+Insurgem-se, no apelo extremo, contra acórdão da Quinta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“AÇÃO DECLARATÓRIA – Pensão por morte – Filhas solteiras de servidores públicos que teriam direito, após o óbito de seus pais, de receberem semelhante benefício – Lei superveniente que veio a revogar tal possibilidade – Alegação de direito adquirido – Inocorrência – Mera expectativa de direito, que não impede a aplicação imediata da lei, aos casos ainda não consolidados. Recurso voluntário desprovido” (fl. 20).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 28/4/06, conforme expresso na certidão de folha 26, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+No julgamento dos Recursos Extraordinários nºs 415.454/SC e 416.827/SC, realizado em 8/2/07, Relator o Ministro Gilmar Mendes, o Plenário do Supremo Tribunal Federal reafirmou o entendimento de que não há direito adquirido a regime jurídico e, quanto à aplicação da lei previdenciária no tempo, confirmou julgados deste Tribunal que consagram a aplicação do princípio tempus regit actum às relações previdenciárias, dentre eles, anote-se: MS nº 24.958/DF, Tribunal Pleno, Relator o Ministro Marco Aurélio, DJ de 1º/4/05, RE nº 310.159/RS-AgR, Segunda Turma, Relator o Gilmar Mendes, DJ de 6/8/04, RE nº 269.407/RS-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de2/8/02, RE nº 258.570/RS-AgR, Primeira Turma, Relator o Ministro Moreira Alves, DJ 19/4/02.
+O acórdão recorrido julgou improcedente a pretensão dos autores de manterem suas filhas solteiras como beneficiárias da pensão por morte, sob os seguintes fundamentos:
+ “Não havendo direito subjetivo desde logo exercitável 0 isso porque as pseudo-beneficiárias é que teriam o direito à percepção da pensão e isso só, ao depois, da morte do genitor contribuinte, o que, felizmente, ainda não ocorreu, circunstância esta que exsurge como condição sine qua non para a obtenção da pretensão.
+Nesse passo, não havendo direito adquirido a ser protegido, a lei superveniente pode regularmente coactar os efeitos da lei ab-rogada, para ser aplicada imediatamente nas situações ainda não definidas, devendo assegurar obrigatoriamente somente aqueles direitos já consolidados” (fl. 22).
+Desse modo, no caso em questão não há falar em direito adquirido à regime jurídico anterior à data do momento da implementação do benefício da pensão por morte, ou seja, o óbito do instituidor. Nesse sentido, os seguintes precedentes:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PENSÃO. PESSOA DESIGNADA. DIREITO INTERTEMPORAL. PRECEDENTES. 1. O óbito do instituidor é o marco temporal para definição do regime jurídico a que está sujeita a concessão do benefício: MS 21.540/RJ, rel. Min. Octávio Gallotti, DJ 14.05.96. 2. Inexistência de preterição a direito adquirido da autora de receber benefício com base em normas não recepcionadas pelo atual sistema constitucional: ADI 762/RJ, da minha relatoria, DJ 14.05.2004. 3. Agravo regimental improvido” (RE nº 436.995/RJ-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 28/11/08).
+“AGRAVO DE INSTRUMENTO - EX-COMBATENTE - PENSÃO - REVERSÃO DO BENEFÍCIO À FILHA - NECESSÁRIA OBSERVÂNCIA DA LEI VIGENTE À ÉPOCA DO ÓBITO DO EX-COMBATENTE - RECURSO DE AGRAVO IMPROVIDO” (AI nº 438.772/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 30/11/07).
+“PREVIDENCIÁRIO. EMBARGOS DECLARATÓRIOS OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. PENSÃO POR MORTE. LEI NOVA. AUMENTO DO BENEFÍCIO. RETROAÇÃO. IMPOSSIBILIDADE. I - O benefício previdenciário da pensão por morte deve ser regido pela lei vigente à época do óbito de seu instituidor. II - Impossibilidade de retroação de lei nova para alcançar situações pretéritas. III - Embargos de declaração convertidos em agravo regimental a que se nega provimento” (Re nº 428.866/PB-AgR-ED, Primera Turma, Relator o Ministro Ricardo Lewandowski, DJ de 9/11/07).
+No mesmo sentido as seguintes decisões monocráticas: RE nº 596.408/RJ, Relatora a Ministra Cármen Lúcia, DJ de 9/3/09, RE nº 494.673/PE, Relator o Ministro Ricardo Lewandowski, DJ de 12/9/07.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 24 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
