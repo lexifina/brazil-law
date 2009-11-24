@@ -1,0 +1,26 @@
+DECISÃO: Vistos, etc.
+Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão do relator do HC 140525, no Superior Tribunal de Justiça. Decisão que indeferiu a medida liminar ali requestada, nos termos seguintes:
+“Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido de liminar, impetrado em favor de Edílson Aparecido Queiroz, contra decisão proferida pelo Desembargador Relator do HC-990.09.149372-4, que indeferiu a liminar lá pleiteada.
+Consta dos autos que o paciente, juntamente com outras pessoas, foi denunciado pela suposta prática dos crimes previstos no art. 158, § 1º, e 288, ambos do Código Penal. Em decorrência disso, em 4.5.09, foi decretada sua prisão preventiva.
+Buscando fosse revogada a prisão, a defesa impetrou habeas corpus, tendo a liminar sido indeferida pelo Desembargador Relator.
+Neste writ, sustenta o impetrante faltar efetiva fundamentação à decisão que decretou a prisão preventiva.
+Sustenta, mais, ser o paciente primário, portador de bons antecedentes, residência fixa e ocupação lícita.
+Pede, ao final, seja o paciente colocado em liberdade.
+Decido.
+Da análise dos autos, em sede de cognição sumária, não verifico manifesta ilegalidade a ensejar o deferimento da medida de urgência, uma vez que o constrangimento não se revela de plano, impondo uma análise mais detalhada dos elementos de convicção trazidos aos autos, o que ocorrerá por ocasião do julgamento do mérito.
+Ante o exposto, indefiro o pedido liminar.
+Solicitem-se informações à autoridade apontada coatora e à Terceira Vara Criminal da Comarca de Santos.”
+2. Pois bem, antes mesmo do julgamento do mérito dos habeas corpus ajuizados no Tribunal de Justiça do Estado de São Paulo e no Superior Tribunal de Justiça, o impetrante postula a imediata expedição de alvará de soltura do paciente. O que faz sob o fundamento de ausência dos requisitos da prisão preventiva. Argumenta, ainda, que o acusado possui residência fixa e trabalho honesto, além de ser primário. Tudo a autorizar o abrandamento da Súmula 691/STF e a revogação da custódia preventiva de Edilson Aparecido Queiroz.
+3. Prossigo neste relato da causa para anotar que, no período de férias forenses, o Ministro Presidente deste Supremo Tribunal Federal solicitou informações ao Juízo Processante e determinou a remessa dos autos à Procuradoria-Geral da República. Procuradoria que opinou pelo não conhecimento do habeas corpus (79/88).
+4. Ultimada esta síntese do pedido, decido. Fazendo-o, relembro a pacífica jurisprudência deste STF no sentido da inadmissibilidade de impetração sucessiva de habeas corpus, sem o julgamento definitivo do HC anteriormente impetrado (cf. HC 79.776, Rel. Min. Moreira Alves; HC 76.347-QO, Rel. Min. Moreira Alves; HC 79.238, Rel. Min. Moreira Alves; HC 79.748, Rel. Min. Celso de Mello; e HC 79.775, Rel. Min. Maurício Corrêa). Jurisprudência, essa, que deu origem à Súmula 691/STF, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+5. É certo que tal jurisprudência comporta relativização, quando de logo avulta que o cerceio à liberdade de locomoção do paciente decorre de ilegalidade ou de abuso de poder (inciso LXVIII do art. 5º da CF/88). Mas não me parece ser este o caso dos autos. E a primeira dificuldade que encontro está na consideração de que a decisão singular impugnada não se me afigura teratológica, ou patentemente desfundamentada. O que dificulta a pronta superação do óbice da Súmula 691 deste STF. Noutro dizer: a decisão impugnada se limitou a indeferir a liminar por não entender configurada a flagrante ilegalidade suscitada na inicial. Não cabendo a este Supremo Tribunal Federal se substituir ao Superior Tribunal de Justiça quanto ao acerto ou desacerto daquele juízo.
+6. Acresce que não é possível derruir, neste exame prefacial da causa, as premissas em que se louvou o Juízo Processante, bem mais próximo à realidade fática da causa, para decretar a prisão preventiva do paciente, policial civil que se acha processado pelos delitos de extorsão e formação de quadrilha. Premissas assim lançadas (fls. 112 do vol. 1 do apenso):
+“Pelos elementos colhidos até o momento pela autoridade policial verifica-se que efetivamente existem indícios de autoria em relação aos denunciados Fábio José Ascenso e Edilson Aparecido Queiroz, sendo que face a gravidade do delito e do risco que ambos, em liberdade, possam vir a ameaçar a vítima e testemunhas, justifica-se a custódia para garantia da ordem pública, bem como por conveniência da instrução criminal, especialmente para que vítima e testemunhas possam comparecer em audiência e narrar os fatos sem receio ou constrangimento, o que poderá não ocorrer estando Fábio e Edilson em liberdade.”
+7. Presente esta moldura, acolho o parecer ministerial público e nego seguimento ao habeas corpus (§ 1º do artigo 21 do RI/STF). O que faço até para impedir que eventual denegação da ordem impossibilite a defesa de rediscutir as matérias veiculadas nestes autos perante as instâncias judicantes competentes (no caso, o TJ de São Paulo e o STJ).
+Publique-se.
+Arquive-se.
+Brasília, 24 de novembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
+1
+1
