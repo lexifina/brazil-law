@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRABALHISTA. ESTABILIDADE PROVISÓRIA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido teve como objeto o seguinte julgado do Tribunal Superior do Trabalho:
+“RECURSO DE EMBARGOS. INSTRUMENTO COLETIVO PREVENDO ESTABILIDADE NO EMPREGO POR NOVENTA DIAS. VALIDADE DA CLÁUSULA À LUZ DO ART. 7.°, XXVI, DA CONSTITUIÇÃO FEDERAL. No presente Recurso de Embargos, calcado em violação dos arts. 896, c , da CLT e 7.º, I e III, da CF e em divergência jurisprudencial, o Embargante sustenta a impossibilidade de fixar-se estabilidade provisória no emprego por meio de instrumento coletivo, pois, no seu ver, a Constituição Federal somente autoriza a fixação de estabilidade provisória por meio de lei complementar, inexistente no caso em exame. O Apelo não se sustenta à luz da Súmula 333 desta Corte, pois a jurisprudência sedimentada na Orientação Jurisprudencial 41 da SBDI-1 do TST admite não só a fixação de estabilidade no emprego por meio de norma coletiva, como também empresta efeitos ultra-ativos à cláusula que garante o emprego provisoriamente. Ademais, como ressaltado pela egr. Turma, o ajuste coletivo prevendo estabilidade no emprego deve ser reconhecido e respeitado pelo Judiciário, conforme o art. 7.°, XXVI, da CF. Recurso de Embargos não conhecido” (fl. 125).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que “a fixação de estabilidade provisória por meio de instrumento coletivo decorreu de ampla negociação coletiva, não tem pertinência a alegação de ofensa ao art. 7º, I e III, da Constituição Federal” (fls. 169-170).
+4. A Agravante alega que teria sido contrariado o art. 7°, inc. I e III, da Constituição da República e o art. 10, caput e inc. I, do Ato das Disposições Constitucionais Transitórias.
+Afirma que “a garantia de emprego perseguida pelas reclamantes e deferida em juízo não foi estabelecida em disposição legal cogente, mas sim em cláusula de norma coletiva, isto é, não tem origem nas únicas e exclusivas fontes formais de direito hábeis a emanar garantia válida de emprego (Constituição Federal, ADCTs e lei complementar)” (fl. 145).
+Examinada a matéria posta à apreciação, DECIDO.
+5. Inicialmente, é de se ressaltar que, apesar de ter sido o Agravante intimado depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso.
+6. Razão de direito não assiste ao Agravante.
+O Tribunal a quo julgou a controvérsia com base na análise de normas infraconstitucionais e de acordo coletivo de trabalho. Assim, a alegada ofensa à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 454 do Supremo Tribunal Federal.
+Confiram-se, a propósito, os seguintes julgados:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. ESTABILIDADE PROVISÓRIA. APLICAÇÃO DE ACORDO COLETIVO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE INTERPRETAÇÃO DE CLÁUSULA DE ACORDO COLETIVO (SÚMULA 454). OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 719.914-AgR, de minha relatoria, Primeira Turma, DJe 13.3.2009).
+“EMENTA: Trabalhista. Estabilidade provisória. Controvérsia infraconstitucional. Regimental não provido” (AI 390.455-AgR, Rel. Min. Nelson Jobim, Segunda Turma, DJ 18.10.2002).
+Nada há a prover quanto às alegações do Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 24 de novembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
