@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+Guinaldo Souza de Lima e outros interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 37 da Constituição Federal.
+Insurgem-se, no apelo extremo, contra acórdão da Primeira Turma Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+“APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER – SELEÇÃO INTERNA PARA O CURSO DE FORMAÇÃO DE SARGENTOS DA POLÍCIA MILITAR DO ESTADO DE MATO GROSSO DO SUL – CONTEÚDO PROGRAMÁTICO – LÍNGUA PORTUGUESA – INTERPRETAÇÃO DE TEXTO – MATÉRIA IMPLÍCITA – SENTENÇA MANTIDA – RECURSO IMPROVIDO.
+Encontra-se implícita a interpretação de texto em todo e qualquer tipo de prova, por demandar avaliação e compreensão daquilo que se leu, portanto, não há falar em ofensa ao princípio da vinculação da Administração ao Edital, o fato de não constar a terminologia “interpretação de texto” no conteúdo programático do edital da seleção interna do curso de formação de sargentos” (fl. 353).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não merece prosperar a irresignação, uma vez que o acórdão recorrido decidiu a controvérsia interpretando o edital do certame impugnado e as provas dos autos. Do julgado extrai-se o seguinte excerto:
+“Cinge-se a controvérsia ao fato de não ter constado no Edital do Concurso para Seleção Interna do Curso de Formação de Sargentos da Polícia Militar, no conteúdo programático da disciplina de Português, a matéria de interpretação de texto.
+Extrai-se do caderno probatório que no conteúdo programático do Edital nº 001/PMMS/2004, não consta a terminologia “interpretação de texto”. No entanto, perfilho o entendimento de que tal ausência não tem o condão de implicar em ofensa ao princípio da vinculação ao edital, uma vez que a exigência de interpretação de texto é implícita em todo e qualquer tipo de prova utilizado para analisar o conhecimento do concursando de matérias como a de Língua Portuguesa, Geografia, História e Matemática.
+Aliás, tal matéria se torna imprescindível ao concursando para a interpretação e compreensão de cada pergunta para se alcançar a resposta correta no concurso.
+Portanto, a meu sentir, a interpretação de texto é elemento acessório não só da matéria de Português, como também das demais disciplinas, por ensejar avaliação e compreensão daquilo que se leu, de modo que o fato de não constar no edital não implica necessariamente ofensa aos princípios da legalidade e da vinculação ao edital, como pretende o recorrente.
+(...)
+Sendo assim, como a interpretação de texto é decorrência do conhecimento da Língua Portuguesa, matéria prevista no edital da seleção interna, não merece reparo a sentença objurgada” (fls. 355/356)
+Nesse sentido, para acolher as alegações dos recorrentes e ultrapassar os fundamentos adotados pelo Tribunal de origem seria necessário o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Sobre o tema, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONCURSO PÚBLICO. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI nº 720.769/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 17/10/08).
+“AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E DA LEGISLAÇÃO INFRACONSTITUCIONAL. INADMISSIBILIDADE. SÚMULA 279 DO STF. A solução da controvérsia passa, necessariamente, pelo reexame do conjunto probatório dos autos e da legislação infraconstitucional pertinente. Caso em que a ofensa à Carta de Outubro, se existente, dar-se-ia de forma reflexa ou indireta, não ensejando a abertura da via extraordinária. Incidência da Súmula 279 desta colenda Corte. Agravo regimental a que se nega provimento” (RE nº 435.861/MG-AgR, Primeira Turma, Relator o Ministro Carlos Britto, DJ de 10/3/06).
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 24 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
