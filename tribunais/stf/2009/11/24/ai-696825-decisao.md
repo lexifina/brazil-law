@@ -1,0 +1,23 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que reconheceu o direito do contribuinte de creditar-se do IPI na aquisição de insumos sob o regime de isenção, não tributação ou sujeitos à alíquota zero.
+Nesse mesmo julgamento, entendeu-se pela não incidência da correção monetária em relação aos créditos reconhecidos, bem como pela impossibilidade do direito à compensação. Entendeu-se, ainda, pela aplicação do prazo prescricional de cinco anos.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, que os créditos de IPI reconhecidos nos autos devem ser corrigidos monetariamente.
+Sustentou-se, ainda, o seu direito à compensação tributária, bem como o prazo decadencial de dez anos para o aproveitamento do crédito.
+O agravo merece acolhida em parte.
+Observe-se, inicialmente, que a controvérsia em relação à constitucionalidade do direito ao credito de IPI objeto dos autos está sendo discutida em recurso extraordinário interposto pela União (RE 427.317/SC, de minha relatoria).
+Com relação à discussão sobre a incidência de correção monetária aos eventuais créditos que forem reconhecidos nos autos, não é de se aplicar a jurisprudência do Tribunal que, ressalvada a previsão em legislação local, entende indevida a correção monetária dos créditos regularmente escriturados.
+É que a Corte admite a incidência da correção monetária referente ao período em que se reconheceu ilegítima a resistência do Estado em possibilitar o aproveitamento dos créditos mencionados, a exemplo do que ocorreu no julgamento do RE 282.120/PR, Rel. Min. Maurício Corrêa, cuja ementa transcrevo a seguir:
+“RECURSO EXTRAORDINÁRIO. PREQUESTIONAMENTO. EXPORTAÇÃO. PRODUTOS INDUSTRIALIZADOS. ICMS. MATÉRIA-PRIMA E OUTROS INSUMOS. COMPENSAÇÃO. AUTORIZAÇÃO LEGAL. SUSPENSÃO LIMINAR. CRÉDITO IMPOSSIBILITADO. CONSTITUCIONALIDADE RECONHECIDA POSTERIORMENTE. RETORNO DA SITUAÇÃO AO STATUS QUO ANTE. CORREÇÃO MONETÁRIA. CABIMENTO.
+1.  Prequestionamento. Ausente o interesse de recorrer, por falta de sucumbência, basta para o atendimento do requisito que a tese jurídica suscitada como causa de pedir tenha sido objeto das contra-razões apresentadas pela parte por ocasião dos recursos de apelação e extraordinário, e também tratada nos embargos de declaração.
+2.  ICMS. Compensação autorizada pelo artigo 3º da Lei Complementar federal 65/91. Regra legal suspensa liminarmente. Julgamento de mérito superveniente que reconheceu a constitucionalidade do dispositivo (ADI 600, DJ 30/06/95). Efeitos ex-tunc da decisão.
+3.  Créditos escriturais não realizados no momento adequado por óbice do Fisco, em observância à suspensão cautelar da norma autorizadora. Retorno da situação ao status quo anterior. Garantia de eficácia da lei desde sua edição. Correção monetária devida, sob pena de enriquecimento sem causa da Fazenda Pública.
+4.  Atualização monetária que não advém da permissão legal de compensação, mas do impedimento causado pelo Estado para o lançamento na época própria. Hipótese diversa da mera pretensão de corrigir-se, sem previsão legal, créditos escriturais do ICMS. Acórdão mantido por fundamentos diversos.
+Recurso extraordinário não conhecido”.
+Nessa mesma esteira de pensamento, anoto, ainda, os seguintes precedentes: RE 200.379-ED-ED-EDv/SP, Rel. Min. Sepúlveda Pertence; RE 301.753-AgR/PR, Rel. Min. Ellen Gracie.
+No tocante à controvérsia relativa à compensação dos créditos e do prazo prescricional a serem aplicados ao presente feito, verifico que o Tribunal a quo dirimiu a questão com base na legislação infraconstitucional aplicável às espécies (Lei 9.430/96, Código Tributário Nacional e Decreto 20.910/32). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido: AI 669.579-AgR/SP e RE 572.487-AgR/PR, Rel. Min. Cármen Lúcia; RE 499.944-AgR-ED/PR e RE 356.280-AgR/PR, Rel. Min. Joaquim Barbosa; RE 487.767-ED/SP, Rel. Min. Gilmar Mendes; RE 468.408-AgR-ED/PR, Rel. Min. Cezar Peluso; RE 480.191-AgR/SP, Rel. Min. Carlos Britto; AI 562.411-AgR/SP, de minha relatoria.
+Isso posto, com base no art. 544, § 3º e § 4º, do CPC, dou provimento ao agravo de instrumento para, desde logo, conhecer do recurso extraordinário e dar-lhe parcial provimento, apenas para limitar a correção monetária dos eventuais créditos que forem reconhecidos nos autos ao período compreendido entre a ilegítima resistência do Fisco em permitir seu aproveitamento e o trânsito em julgado da decisão que possibilitar esse direito.
+Honorários a serem fixados pelo Juízo de Execução, nos termos da legislação processual.
+Publique-se.
+Brasília, 24 de novembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
+1
