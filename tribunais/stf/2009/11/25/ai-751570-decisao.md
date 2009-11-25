@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. 1. VERIFICAÇÃO DA CONSTITUCIONALIDADE DE LEI COMPLEMENTAR MUNICIPAL. 2. ALEGAÇÃO DE AFRONTA AO PRINCÍPIO DA RESERVA DO PLENÁRIO PELO TRIBUNAL DE ORIGEM. AGRAVO PROVIDO. CONVERSÃO DOS AUTOS EM RECURSO EXTRAORDINÁRIO. POSTERIOR SUBMISSÃO DO RECURSO AO PROCEDIMENTO DE REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alíneas a e c, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Santa Catarina:
+“ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. AVALIAÇÃO POR DESEMPENHO. PREVISÃO EM LEI MUNICIPAL. PODER-DEVER DA ADMINISTRAÇÃO DE SUA REALIZAÇÃO NÃO INSERTO NA ESFERA DO SEU PODER DE DISCRICIONARIEDADE. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. COMPETÊNCIA DO JUDICIÁRIO DE CORRIGIR ILEGALIDADES. LEI DE RESPONSABILIDADE FISCAL, DE IGUAL FORMA, QUE NÃO EXIME A ADMINISTRAÇÃO DA EFETIVAÇÃO DOS DIREITOS DE SEUS SERVIDORES. CUMULAÇÃO ILEGAL DE VANTAGENS. INEXISTÊNCIA. FATOS GERADORES DISTINTOS. INCONSTITUCIONALIDADE DA LEI RECHAÇADA. PROFESSOR. AULAS EXCEDENTES MINISTRADAS. PLEITO DE PAGAMENTO DE HORAS EXTRAS. DEVER QUE SE IMPÕE. ENCARGOS DA MORA. TAXA SELIC INAPLICÁVEL. EXISTÊNCIA DE DISPOSIÇÃO ESPECIAL. SENTENÇA REFORMADA SOMENTE NESTE PARTICULAR. APELO DESPROVIDO E REMESSA PARCIALMENTE PROVIDA” (fl. 17).
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que, “inexiste comprovação de que o subscritor da peça recursal, o Dr. Denilson Zanon, OAB/SC 11.904, seja servidor público municipal” (fl. 12).
+3. No recurso extraordinário, o Agravante alega que o Tribunal a quo teria contrariado os arts. 37, inc. XIV, e 97 da Constituição da República.
+Argumenta que “o presente Recurso Extraordinário tem seu cabimento fundamentado no art. 102, inciso II, alínea ‘c’, da Constituição Federal, já que o v. acórdão julgou válidos os artigos 19, inciso I e 20 da Lei Complementar Municipal n. 127/96, contestados em face do artigo 37, inciso XIV, da Constituição Federal” (fl. 53).
+Sustenta que, “mantida a promoção por desempenho na forma prevista na lei municipal, todas as futuras promoções e acréscimos pecuniários a serem recebidos pelo servidor serão concedidos com base na sua referência obtida com a promoção por desempenho, ou seja, incidirão sobre esta última (uma sobre a outra)” (fl. 55).
+Afirma que “no acórdão recorrido foi declarada a inconstitucionalidade do parágrafo único do art. 270 da Lei Complementar Municipal n. 01/90, tendo em vista que foi adotado como fundamento da decisão a sentença proferida em primeira instância” (fl. 61).
+Assevera que “o reconhecimento de eventual inconstitucionalidade da norma municipal deveria ter sido proferido pelo Tribunal Pleno e não pelo Órgão fracionário, motivo pelo qual o acórdão ora recorrido é nulo de pleno direito, por ofensa direta ao art. 97 da Constituição Federal” (fl. 64).
+4. No agravo de instrumento, ressalta que “os procuradores municipais estão dispensados de exibirem procuração, bem como, o ato de designação, lotação ou número de matrícula, bastando, tão-somente, a indicação do número da inscrição na Ordem dos Advogados do Brasil (OAB) para atuarem em favor da municipalidade” (fl. 7).
+Examinados os elementos havidos nos autos, DECIDO.
+5. Cumpre, inicialmente, afastar o fundamento da decisão agravada, pois os procuradores municipais não estão obrigados a juntar aos autos o instrumento de mandato para atuar em nome do Município. Nesse sentido, o seguinte julgado:
+“Não é obrigatório formar o instrumento do agravo com cópia do mandato outorgado a procuradores municipais, pois estes são desobrigados de apresentar procuração para estar em juízo em nome do ente que representam” (AI 710.411-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 9.10.2009).
+Na espécie vertente, o advogado teve o cuidado de assinar a petição do recurso extraordinário se identificando como Procurador do Município (fls. 46-65).
+6. A controvérsia trazida nos autos, inconstitucionalidade da Lei Complementar municipal n. 127/96, que teria permitido que as vantagens pecuniárias recebidas por servidor público servissem de base de cálculo para fins de concessão de acréscimos ulteriores deve ser mais bem analisado, pois, inclusive, pode vir a ser objeto de julgamento colegiado neste Supremo Tribunal Federal.
+7. Pelo exposto, conheço deste agravo e dou provimento a ele, nos termos dos §§ 3º e 4º do art. 544 do Código de Processo Civil, e determino a sua conversão em recurso extraordinário para submissão ao procedimento de repercussão geral.
+À Secretaria, para nova autuação e distribuição na forma regimental.
+Publique-se.
+Brasília, 25 de novembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
