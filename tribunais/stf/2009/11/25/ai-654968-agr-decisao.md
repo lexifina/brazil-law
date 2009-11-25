@@ -1,0 +1,12 @@
+DECISÃO
+Vistos.
+Agravo regimental contra decisão que negou provimento a agravo de instrumento, não admitindo recurso extraordinário no qual se discute a necessidade de observância, por parte dos estados, da Lei Federal nº 8.880/94, quando da conversão da remuneração de seus servidores para URV.
+Nas Questões de Ordem suscitadas no AI nº 715.423/RS e no RE nº 540.410/RS, o Plenário deste Supremo Tribunal Federal concluiu pela possibilidade da aplicação da norma do artigo 543-B do Código de Processo Civil aos recursos extraordinários e agravos de instrumento que tratem de matéria constitucional com repercussão geral reconhecida por esta Corte, independentemente da data de interposição do apelo extremo.
+Na sessão do Pleno de 20/8/08, no julgamento da Questão de Ordem suscitada pelo Ministro Cezar Peluso, Relator, no Recurso Extraordinário nº 540.410/RS, este Tribunal decidiu, em situação similar à anterior, pela devolução dos autos ao Tribunal local para fins do disposto no artigo 543-B do Código de Processo Civil.
+A Segunda Turma desta Corte, por sua vez, na análise da Questão de Ordem suscitada no RE nº 483.994/RN, Relatora a Ministra Ellen Gracie, decidiu adotar para os agravos regimentais e embargos de declaração interpostos contra decisões monocráticas de mérito o mesmo procedimento relativo à devolução dos autos à origem. Aplicando essa orientação destacam-se os seguintes julgados: RE nº 466.567/RS-AgR, Relator o Ministro Carlos Britto, DJe de 16/10/09; AI nº 762.906/GO-AgR, Relator o Ministro Celso de Mello, DJe 21/10/09; RE nº 570.485/RS-AgR, Relatora a Ministra Cármen Lúcia, DJe de 19/10/09; e RE nº 492.001/DF-AgR, Relator o Ministro Ricardo Lewandowski, DJe de 2/9/09.
+Com efeito, os autos ora em exame revelam tema cuja repercussão geral foi reconhecida na análise do RE nº 561.836/RN, Relator o Ministro Eros Grau.
+Ante o exposto, afasto o sobrestamento do feito, reconsidero a decisão agravada, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, nos termos do artigo 328 do Regimento Interno do Supremo Tribunal Federal, determino a devolução destes autos ao Tribunal de origem para que sejam apensados aos autos originais, devendo ser aplicado, quanto ao apelo extremo ora admitido, o disposto no artigo 543-B do Código de Processo Civil, restando prejudicado o agravo regimental.
+Publique-se.
+Brasília, 25 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
