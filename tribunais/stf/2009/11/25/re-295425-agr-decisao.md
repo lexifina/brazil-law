@@ -1,0 +1,25 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao recurso extraordinário.
+A parte agravante sustentou, em suma, que a decisão agravada deve ser reformada, insistindo, dessa forma, no processamento do recurso extraordinário.
+Este o teor da decisão ora agravada:
+“Trata-se de recurso extraordinário contra acórdão que reconheceu o direito à repetição de indébito de valores recolhidos a título de ICMS, nos meses de março a maio de 1989, incidente sobre a exportação de café, por julgar ilegítima a alíquota fixada nos termos do art. 1º, I, das Disposições Transitórias da Lei estadual 6.374/89 e da Resolução 129/79 do Senado Federal.
+Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 6°, 18, 24, 155, § 2°, IV, da mesma Carta e 5°, caput, e 34 do ADCT.
+O Subprocurador-Geral da República Paulo de Tarso Braz Lucas opinou pelo provimento do recurso do (fls. 485-488).
+A pretensão recursal merece prosperar. O acórdão recorrido diverge da orientação da Corte, como se vê do julgamento do RE 161.352/SP, Rel. Min. Sepúlveda Pertence, cuja ementa segue transcrita:
+‘ICMS: alíquota do imposto incidente nas operações de exportação: L. 6374/89, do Estado de São Paulo.
+Na falta de alíquota fixada pelo Senado Federal (art. 155, §2º, IV) era lícito aos Estados adotar, nas operações de exportação, a alíquota máxima fixada pelo Senado Federal, no exercício da competência prevista no art. 23, § 5º, da Carta de 1969 (Resolução nº 129/79).’
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 185.716/SP, Rel. Ministro Moreira Alves; RE 200.799/SP, Rel. Min. Sepúlveda Pertence; AI 314.587-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, dou provimento ao recurso (CPC, art. 557, § 1º-A), condenado o vencido ao pagamento da verba honorária de 10% (dez por cento) do valor da causa” (fls. 492-493).
+Bem reexaminada a questão, verifica-se que a decisão não merece reforma, visto que a parte recorrente não aduz novos argumentos capazes de afastar as razões expendidas na decisão ora atacada, que deve ser mantida por seus próprios fundamentos.
+Conforme já mencionado na decisão agravada, o acórdão recorrido embasou-se em jurisprudência pacífica do Supremo Tribunal Federal, como se constata de recentes julgados da Primeira e Segunda Turma, quais sejam, RE 179.075 AgR-ED/SP, Rel. Min. Cezar Peluso, e RE 501.189 AgR/MG, Rel. Min. Eros Grau, cujas ementas seguem transcritas, respectivamente:
+ “1. (...) 2. Tributo. ICMS. Produtos semi-elaborados destinados à exportação. Alíquota. Período compreendido entre a entrada em vigor do sistema tributário nacional (art. 34, § 5º, do ADCT) e o advento da Resolução nº 22/89 do Senado Federal. Observância da Resolução nº 129/79. Embargos rejeitados. Precedentes. É assente o entendimento da Corte, no sentido da aplicabilidade da Res. SF nº 129/79 quanto ao período que antecedeu a entrada em vigor da Res. SF nº 22/89”.
+ “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SISTEMA TRIBUTÁRIO NACIONAL. VIGÊNCIA. ARTIGO 34, § 5º DO ADCT. ICMS. OPERAÇÃO DE EXPORTAÇÃO. ALÍQUOTA. RESOLUÇÃO N. 129/79 DO SENADO FEDERAL. OFENSA AO ARTIGO 155, § 2º, IV, DA CB/88. ALEGAÇÃO INSUBISITENTE. 1. O Supremo Tribunal Federal fixou entendimento, à luz do artigo 34, § 5º, do ADCT, no sentido de que, não havendo alíquota fixada pelo Senado Federal --- período que antecedeu a edição da resolução n. 22/89 ---, a adoção, pelos Estados-membros, nas operações de exportação, da alíquota máxima anteriormente fixada pelo Senado no exercício da competência prevista no artigo 23, § 5º, da Constituição de 1969 [resolução n. 129/79] não ofende o artigo 155, § 2º, IV, da CB/88. Precedentes. Agravo regimental a que se nega provimento”.
+Observe-se, também, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 25 de novembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
+1
