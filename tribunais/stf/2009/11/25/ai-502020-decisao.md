@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a e c, da Constituição) que tem como violados os arts. 2º; 5º, caput, II, XII, XXII, XXXV, XXXVII, LIII, LIV, LV, LXIX, §§ 1º e 2º; 93, IX; e 146, III, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 100):
+“AGRAVO - MANDADO DE SEGURANÇA - DESCABIMENTO - EXISTÊNCIA DE RECURSO PRÓPRIO - SÚMULA Nº 267 DO STF. Não merece reparos o despacho-agravado, tendo em vista o entendimento pacífico desta Corte (Orientação Jurisprudencial nº 92 da SBDI-2 do TST) e sumulado do STF (Súmula nº 267), no sentido de que descabe mandado de segurança quando a hipótese comportar impugnação por instrumento processual específico previsto em lei, a teor do art. 5º, II, da Lei nº 1.533/51, dispositivo que foi recepcionado pela Constituição Federal de 1988.
+Agravo a que se nega provimento, com aplicação de multa.”
+Sustenta-se no recurso extraordinário o cabimento do mandado de segurança e a ausência de fundamento para aplicação da multa do art. 557 § 2º, do Código de Processo Civil.
+É o relatório. Decido.
+A análise dos requisitos para concessão ou denegação do mandado de segurança cinge-se à norma processual que disciplina o exercício da ação constitucional - no caso, a Lei 1.533/1951 -, hipótese em que não se admite o recurso extraordinário. Nesse sentido: AI 573.652-AgR, rel. min. Cármen Lúcia, DJ de 20.04.2007; AI 629.562-AgR, rel. min. Sepúlveda Pertence, DJ de 25.05.2007; AI 565.661-AgR, rel. min. Carlos Britto, DJ de 10.08.2006; AI 489.109-AgR, rel. min. Ellen Gracie, DJ de 20.04.2006.
+Igualmente, a controvérsia acerca da análise da aplicação da multa requer sejam previamente examinadas as regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. Isto porque, verificar se os embargos declaratórios possuíam ou não conteúdo protelatório é matéria de índole processual, que se resolve à luz das normas constantes do Código de Processo Civil. A jurisprudência do Supremo Tribunal Federal concluiu que essa circunstância inviabiliza o processamento do recurso extraordinário (cf., entre outros, AI-AgR 614.139, rel. min. Sepúlveda Pertence, DJ de 13.04.2007; RE 371.123, rel. min. Cezar Peluso, DJ de 30.09.2004 e AI 585.461, minha relatoria, DJ de 25.05.2006).
+Ademais, o recurso extraordinário, ao alegar que o acórdão recorrido ofende os preceitos dos arts. 2º; 5º, caput, XII, XXII, XXXVII, LIII, §§ 1º e 2º; e 146, III, versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Por fim, em relação à interposição do apelo extraordinário com base no art. 102, III, alínea c, verifico que o acórdão recorrido em momento algum julgou válida lei ou ato de governo local contestado em face da Constituição federal.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 25 de novembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
