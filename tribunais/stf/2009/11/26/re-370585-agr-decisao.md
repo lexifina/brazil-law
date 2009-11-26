@@ -1,0 +1,10 @@
+DECISÃO
+Vistos.
+O Plenário desta Corte concluiu, em sessão realizada por meio eletrônico, no exame do RE nº 593.849/MG, Relator o Ministro Ricardo Lewandowski, pela existência da repercussão geral da matéria constitucional versada nestes autos. Trata-se de discussão acerca da possibilidade de restituição do ICMS pago antecipadamente no regime de substituição tributária, com base no artigo 150, § 7º, da Constituição Federal, quando for apurada diferença entre a base de cálculo presumida e o valor efetivo de venda ao consumidor final.
+Nas Questões de Ordem suscitadas no AI nº 715.423/RS e no RE nº 540.410/RS, o Plenário deste Supremo Tribunal Federal concluiu pela possibilidade da aplicação da norma do artigo 543-B do Código de Processo Civil aos recursos extraordinários e agravos de instrumento que tratem de matéria constitucional com repercussão geral reconhecida por esta Corte, independentemente da data de interposição do apelo extremo.
+A Segunda Turma desta Corte, por sua vez, na análise da Questão de Ordem suscitada no RE nº 483.994/RN, Relatora a Ministra Ellen Gracie, decidiu adotar para os agravos regimentais e embargos de declaração interpostos contra decisões monocráticas de mérito o mesmo procedimento relativo à devolução dos autos à origem. Aplicando essa orientação destacam-se os seguintes julgados: RE nº 466.567/RS-AgR, Relator o Ministro Carlos Britto, DJe de 16/10/09; AI nº 762.906/GO-AgR, Relator o Ministro Celso de Mello, DJe 21/10/09; RE nº 570.485/RS-AgR, Relatora a Ministra Cármen Lúcia, DJe de 19/10/09; e RE nº 492.001/DF-AgR, Relator o Ministro Ricardo Lewandowski, DJe de 2/9/09
+Ante o exposto, afasto o sobrestamento do feito, reconsidero a decisão agravada e, com fundamento no artigo 328 do RISTF, determino a devolução dos autos ao Tribunal de origem para que seja aplicado o disposto no artigo 543-B do Código de Processo Civil, restando prejudicado o agravo regimental.
+Publique-se.
+Brasília, 26 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
