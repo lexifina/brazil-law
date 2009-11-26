@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Município de Piracicaba interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 41 da Constituição Federal e 19 do Ato das Disposições Constitucionais Transitórias.
+Insurge-se, no apelo extremo, contra acórdão da Subseção I Especializada em Dissídios Individuais do Tribunal Superior do Trabalho, assim ementado:
+“SERVIDOR PÚBLICO CELETISTA. ESTABILIDADE. ARTIGO 41 DA CONSTITUIÇÃO DA REPÚBLICA. A Decisão da Turma está em consonância com a iterativa, notória e atual jurisprudência da Corte, consubstanciada na Orientação Jurisprudencial nº 22 da SDI-II, encontrando óbice o apelo no Enunciado nº 333/TST. Embargos não conhecidos” (fl. 37).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 11/10/02, conforme expresso na certidão de folha 40, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação.
+O artigo 19 do Ato das Disposições Constitucionais Transitórias, apontado como violado, carece do devido prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidência das Súmulas n°s 282 e 356/STF.
+Demais disso, o acórdão recorrido se ajusta ao entendimento já sedimentado por esta Corte no sentido de que aos empregados públicos da administração direta, das autarquias e das fundações públicas, aprovados em concurso público e que tenham cumprido o estágio probatório, é assegurada a estabilidade prevista no artigo 41 da Constituição Federal. Sobre o tema, anote-se:
+“CONSTITUCIONAL. EMPREGADO DE FUNDAÇÃO PÚBLICA. APROVAÇÃO EM CONCURSO PÚBLICO EM DATA ANTERIOR À EC 19/98. DIREITO À ESTABILIDADE. I - A estabilidade prevista no caput do art. 41 da Constituição Federal, na redação anterior à EC 19/98, alcança todos os servidores da administração pública direta e das entidades autárquicas e fundacionais, incluindo os empregados públicos aprovados em concurso público e que tenham cumprido o estágio probatório antes do advento da referida emenda, pouco importando o regime jurídico adotado. II - Agravo regimental improvido” (AI nº 628.888/SP-AgR , Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 19/12/07).
+“1. RECURSO. Agravo de instrumento. Ofensa constitucional. Caracterização. Recurso conhecido. Deve ser conhecido agravo de instrumento quando a questão de fundo é eminentemente constitucional, mas sem que isso implique consistência do recurso extraordinário. 2. RECURSO. Extraordinário. Inadmissibilidade. Ofensa ao art. 41 da Constituição Federal. Inexistência. Empregado público. Aprovação em concurso público e cumprimento do estágio probatório antes da EC 19/98. Estabilidade. Precedentes. Agravo regimental não provido. Faz jus à estabilidade prevista no art. 41 da Constituição Federal, em sua redação original, o empregado público que foi aprovado em concurso público e cumpriu o período de estágio probatório antes do advento da EC nº 19/” (AI nº 510.994/SP-AgR, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 24/3/06).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO CONVERTIDO EM RECURSO EXTRAORDINÁRIO. EMPREGADO PÚBLICO. APROVAÇÃO EM CONCURSO PÚBLICO ANTERIOR À EC 19/98. ESTABILIDADE. A garantia da estabilidade, prevista no artigo 41 da Constituição, estende-se aos empregados públicos celetistas, admitidos em período anterior ao advento da EC n. 19/98. Agravo regimental a que se dá provimento” (AI nº 472.685/BA-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 7/11/08).
+No mesmo sentido as seguintes decisões monocráticas: AI nº 567.357/SP, Relatora a Ministra Cármen Lúcia, DJ de 15/5/08; e AI nº 580.946/SP, Relator o Ministro Celso de Mello, DJ de 17/3/06.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 26 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
