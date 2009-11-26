@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que afastou a exigibilidade da Taxa de Controle e Fiscalização dos Serviços Públicos Delegados, instituída pela Lei estadual 11.073/1997 e regulamentada pelo Decreto estadual 39.228/1998, por entender que o faturamento das empresas de transporte não poderia ser utilizado como base de cálculo da taxa, porque não refletiria o custo do exercício do poder de polícia.
+Alega-se violação do disposto nos arts. 145, II; 150, II, e 156, I, da Carta Magna.
+O Plenário desta Corte, ao concluir o julgamento da ADI 1.948 (rel. min. Gilmar Mendes, DJ de 07.02.2003), reconheceu a constitucionalidade da referida exação, pois o faturamento é utilizado apenas como critério para a incidência da taxa, que incide sobre o exercício do poder de polícia. Confira-se:
+“(1) Ação Direta de Inconstitucionalidade. (2) Art. 1º, II, da Lei nº 11.073, de 30.12.1997, que acrescentou os §§ 7º e 8º ao art. 6º da Lei nº 8.109, de 1985, do Estado do Rio Grande do Sul; Art. 1º, VI, da Lei nº 11.073, de 1997, que inseriu o inciso IX na Tabela de Incidência da Lei nº 8.109, de 1985; Decreto estadual nº 39.228, de 29.12.1998, que regulamentou a incidência da taxa impugnada. (3) Alegada violação aos arts. 145, II e 145, § 2º, da Constituição. (4) Taxa de Fiscalização e Controle de Serviços Públicos Delegados, instituída em favor da Agência Estadual de Regulação dos Serviços Públicos Delegados do Rio Grande do Sul - AGERGS, autarquia estadual. (5) O faturamento, no caso, é apenas critério para incidência da taxa, não havendo incidência sobre o faturamento. Precedente (RE 177.835, Rel. Min. Carlos Velloso) (6) Improcedência da ação direta quanto aos dispositivos legais e não conhecimento quanto ao Decreto nº 39.228, de 1988.”
+Nesse sentido: RE 389.263 (rel. min. Ricardo Lewandowski, DJe de 08.06.2009); RE 407.834 (rel. min. Celso de Mello, DJ de 25.04.2005) e AI 480.683 (rel. min. Carlos Britto, DJ de 30.09.2004).
+Do exposto, dou provimento ao recurso extraordinário para denegar a segurança.
+Sem honorários (Súmula 512 do Supremo Tribunal Federal). Custas ex lege.
+Publique-se.
+Brasília, 26 de novembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
