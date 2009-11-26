@@ -1,0 +1,30 @@
+DECISÃO
+Vistos.
+LUIZ CLÁUDIO DE SOUZA PADILHA E OUTROS interpõem recurso extraordinário (folhas 410 a 423) contra acórdão proferido pela Sexta Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+“PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE PROVA TESTEMUNHAL OU PERICIAL: DESNECESSIDADE DE ALEGAÇÕES FINAIS. SENTENÇA DESFAVORÁVEL À UNIÃO. REMESSA NÃO-DETERMINADA. RECURSO VOLUNTÁRIO DO ENTE PÚBLICO. AUSÊNCIA DE NULIDADE. CONCURSO PÚBLICO. LITISCONSÓRCIO: INCIDÊNCIA DO ART. 249, § 2º, do CPC. IMPUGNAÇÃO DO PROCEDIMENTO. PRESCRIÇÃO.
+1. As alegações finais são próprias de procedimento em que se produz prova testemunhal ou pericial, sendo descabidas se a demandada teve acesso todas as provas já por ocasião da contestação.
+2. Por meio do recurso de apelação entrega-se o exame da matéria ao Tribunal, prejudicando a argüição de nulidade da sentença por não-previsão da remessa oficial.
+3. O juiz não pronunciará a nulidade nem mandará repetir o ato, ou suprir-lhe a falta, se puder decidir do mérito a favor da parte a quem a declaração daquela aproveite (§ 2º do art. 249 do CPC). Desnecessidade, em tal circunstância, de chamamento dos litisconsortes passivos. Nulidade não-reconhecida.
+4. Prescreve em um ano, contado da data em que for publicada a homologação do resultado final, a pretensão de impugnar atos relativos a concursos para provimento de cargos e empregos na Administração Federal Direta e nas Autarquias Federais (art. 1º da Lei nº 7.144/83).
+5. Apelação da União Federal provida.
+6. Remessa oficial prejudicada” (fl. 258).
+Interpostos embargos de declaração (fls. 260 a 262), foram rejeitados (folhas. 265 a 268).
+Insurgem-se, no apelo extremo, fundado na alínea “a” do permissivo constitucional, contra alegada contrariedade ao artigo 37 da Constituição Federal, bem como ao artigo 10º da Lei nº 8.112/90.
+O recurso foi contra-arrazoado (folhas 535 a 551) e admitido, na origem (fl. 555).
+Por fim, o parecer da douta Procuradoria-Geral da República é pelo provimento do recurso (folhas 561 a 566).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 31/1/03, conforme expresso na certidão de folha 269, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, não devendo o presente recurso sequer ser conhecido, pois o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, tampouco por ocasião da interposição de embargos de declaração. Incide na espécie a Súmula nºs 282 desta Corte.
+Inviável, destarte, seu conhecimento, citando-se, para exemplificar, o seguinte precedente assim dispondo:
+“CONSTITUCIONAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. SÚMULA 280 DO STF. INCIDÊNCIA. ALEGADA VIOLAÇÃO AO ART. 5º, XXXVI, LIV E LV, DA CONSTITUIÇÃO. AGRAVO IMPROVIDO. I - Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF. II - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. III - A alegada violação ao art. 5º, XXXVI, LIV e LV, da Constituição, em regra, configura situação de ofensa meramente reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. IV - Agravo regimental improvido” AI nº 630495 AgR / AM, Primeira Turma, Relator o Ministro, Ricardo Lewandowski,DJ de  17/4/09).
+Por outro lado, o Tribunal de origem, ao decidir, ateve-se ao exame do prazo prescricional para o ajuizamento da ação em tela, com base nos ditames da lei que se entendeu aplicável ao caso, bem assim do próprio edital do concurso que os recorrentes prestaram.
+Tais questões estão circunscritas à legislação infraconstitucional e não desafiam recurso extraordinário, haja vista que a afronta ao texto constitucional se daria, caso houvesse, de forma indireta ou reflexa. Nesse sentido, pacífica a jurisprudência deste Supremo tribunal Federal, conforme os seguintes precedentes:
+“Concurso público: prescrição: termo a quo: recurso extraordinário: descabimento: ausência de prequestionamento dos dispositivos constitucionais dados por violados (Súmulas 282 e 356); controvérsia decidida à luz de legislação infraconstitucional pertinente ao caso e do edital, de reexame inviável no recurso extraordinário: incidência, mutatis mutandis, da Súmula 636” (AI nº 584325/DF, Relator o Ministro Sepúlveda Pertence, DJe de 10/8/07).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PRESCRIÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO, DA AMPLA DEFESA E DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”  (AI 745947/RS, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe-152 de 14/8/09).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRESCRIÇÃO. TERMO INICIAL. MATÉRIA AFETA À NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO E REEXAME DE PROVAS. IMPOSSIBILIDADE DE CONHECIMENTO DO EXTRAORDINÁRIO. Para que o recurso extraordinário possa ser conhecido, a vulneração da norma constitucional há de ser direta e frontal e não a que exige o prévio exame da legislação ordinária e reexame de provas. Agravo regimental a que se nega provimento” (RE 586977/Agr-RS, Segunda Turma, Relator o Ministro Eros Grau, DJe-059 de 27/3/09).
+Não conheço do recurso.
+Publique-se.
+Brasília, 26 de novembro de 2009.
+MINISTRO DIAS TOFFOLI
+Relator
+1
