@@ -1,0 +1,12 @@
+DECISÃO : Trata-se de recurso extraordinário (art. 102, III, a da Constituição) que considerou incluir-se no conceito de faturamento os valores recebidos por empresa que se dedica a venda de veículos em consignação, sem a dedução das quantias devidas à montadora (“receitas destinadas a terceiros”).
+Sustenta-se, em síntese, violação dos arts. 5º, caput e II, 145, § 1º, 149, 150, I, II e IV e 195, I da Constituição.
+A controvérsia sobre a composição da base de cálculo da Cofins e da Contribuição ao PIS no que se refere às operações com veículos se resolve no campo infraconstitucional, de modo que eventual violação constitucional, se existente, seria indireta ou reflexa.
+Confiram-se, nesse sentidos, os seguintes precedentes:
+“EMBARGOS DE DECLARAÇÃO. PIS E COFINS. BASE DE CÁLCULO. NÃO-FATURAMENTO. VEÍCULOS NOVOS. OMISSÃO. 1. Ocorrência de omissão quanto à controvérsia discutida no apelo extremo, referente à incidência do PIS e COFINS sobre o faturamento de veículos novos, adquiridos das montadoras e revendidos para consumidores finais, sob o enfoque da Lei 9.716/98. 2. Questão relativa ao conceito de faturamento insuscetível de apreciação nesta Corte, por ser de nível infraconstitucional. Precedentes. 3. Embargos de declaração acolhidos para suprir omissão, sem modificação do julgado.” (AI 514.550-AgR-EDcl, rel. min. Ellen Gracie, Segunda Turma, DJe-171 DIVULG 10-09-2009 PUBLIC 11-09-2009);
+“EMENTA: EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. TRIBUTÁRIO. PIS E COFINS. COMERCIALIZAÇÃO DE VEÍCULOS: NATUREZA DA ATIVIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 673.234-EDcl, rel. min. Cármen Lúcia, Primeira Turma, DJe-121 DIVULG 30-06-2009 PUBLIC 01-07-2009); EMENT VOL-02367-11 PP-02122);
+“EMENTA: Recurso extraordinário: descabimento: questão relativa à incidência da contribuição ao PIS e da COFINS sobre os valores repassados às montadoras pelas concessionárias de veículos decidida à luz de legislação infraconstitucional: a alegada violação do artigo 150, I, da Constituição Federal, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636.” (AI 443.234-AgR, rel. min. Sepúlveda Pertence, Primeira Turma, DJe-082 DIVULG 16-08-2007 PUBLIC 17-08-2007 DJ 17-08-2007 PP-00038 EMENT VOL-02285-06 PP-01284).
+Ante o exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 26 de novembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
