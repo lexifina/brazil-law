@@ -1,0 +1,12 @@
+DECISÃO: A decisão questionada, com fundamento em orientação jurisprudencial firmada por esta Suprema Corte (RE 453.740/RJ, Rel. Min. GILMAR MENDES), conheceu e deu provimento ao recurso extraordinário deduzido pela parte ora agravada, atendendo o pedido de fls. 145 “(...) para determinar, por conseqüência, a incidência de juros moratórios, a partir de 27 de agosto de 2001, no percentual de 0,5%.”.
+No presente recurso de agravo, a parte agravante requer, “(...) que a aplicação da taxa estabelecida no artigo 1º-F da Lei nº 9.494/97 incida apenas a partir de 27 de agosto de 2001” (fls. 169).
+O recurso em questão é insuscetível de conhecimento.
+Com efeito, a decisão ora questionada, ao resolver a controvérsia suscitada nos presentes autos, determinou o acolhimento da pretensão de direito material deduzida pela parte ora agravada.
+Vê-se, desse modo, que, embora o agravante não houvesse sucumbido nesse específico ponto, mesmo assim recorreu, indevidamente, da decisão por mim proferida (fls. 162/163), transgredindo, com tal comportamento, diretriz processual básica, segundo a qual somente se legitima o interesse de recorrer, quando efetivamente concretizada hipótese configuradora de sucumbência.
+Como se sabe, a sucumbência qualifica-se como pressuposto recursal genérico, comum a qualquer recurso, caracterizada pela ocorrência, em maior ou em menor grau, de lesividade à situação jurídica da parte a quem foi desfavorável a resolução judicial do litígio.
+Isso significa, portanto, que é do estado de sucumbência que resulta o interesse jurídico legitimador do exercício do direito de recorrer, de tal modo que, inexistente a situação de sucumbência, nada justifica - precisamente em face da ausência desse pressuposto geral de recorribilidade - o próprio cabimento do recurso eventualmente interposto (VICENTE GRECO FILHO, “Direito Processual Civil Brasileiro”, vol. 2/260 e 266-267, item n. 61, 4ª ed., 1989, Saraiva; JOSÉ FREDERICO MARQUES, “Manual de Direito Processual Civil”, vol. III/171-172, item n. 599, 2ª ed., 1998, Millennium; HUMBERTO THEODORO JÚNIOR, “Curso de Direito Processual Civil”, vol. I/554, item n. 528, 25ª ed., 1998, Forense; NELSON NERY JÚNIOR/ROSA MARIA ANDRADE NERY, “Código de Processo Civil Comentado”, p. 963, item n. 17, 4ª ed., 1999, RT, v.g.).
+Sendo assim, pelas razões expostas, não conheço do presente recurso de agravo.
+Publique-se.
+Brasília, 26 de novembro de 2009.
+Ministro CELSO DE MELLO
+Relator
