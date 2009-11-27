@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, que entendeu indevido o pagamento de adicional de insalubridade. Para tanto, considerou-se que o fornecimento à requerente de equipamento de proteção individual (EPI) faz cessar o direito de gratificação previsto pelo art. 107 da Lei Complementar estadual 10.098/1994.
+A recorrente sustenta, preliminarmente, ofensa ao disposto nos arts. 5º, XXXV, LIV e LV; 93, IX. No mérito, aponta violação aos arts. 2º; 7º, XXIII; 37, caput; 170, caput, e 196 da Carta Magna.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o disposto nos arts. 2º; 170, caput, e 196 da Constituição versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Verifico, de início, que inexiste a alegada ofensa aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição, porquanto o Tribunal de origem prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Quanto ao mérito, o tema debatido nos autos está adstrito à interpretação de norma de direito local (Lei Complementar estadual 10.098/1994), o que inviabiliza a abertura da via extraordinária, ante o óbice contido na Súmula 280. Não é outro o entendimento firmado pelas Turmas da Corte em casos análogos ao presente, como se pode constatar do julgamento do AI 438.909-AgR (rel. min. Cezar Peluso, Primeira Turma, DJ de 17.06.2005), cuja ementa transcrevo:
+“1. RECURSO. Extraordinário. Inadmissibilidade. Servidor Público. Magistério. Adicional de insalubridade: Lei Complementar estadual nº 10.098/94. Requisitos não preenchidos. Interpretação de lei local. Agravo regimental não provido. Aplicação da súmula nº 279 e 280. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de direito local, seria apenas indireta à Constituição da República, e, muito menos, de reexame de provas.
+(...)”
+Na mesma linha, confiram-se os seguintes precedentes: AI 475.568-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJ de 16.02.2007), AI 508.123-AgR (rel. min. Carlos Velloso, Segunda Turma, DJ de 01.07.2005), AI 494.651-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJ de 24.06.2005), AI 465.628-AgR (rel. min. Carlos Velloso, Segunda Turma, DJ de 03.12.2004).
+Ademais, concluir diversamente do acórdão recorrido demandaria reexame do quadro fático-probatório, o que é vedado no âmbito do recurso extraordinário, em razão do disposto na Súmula 279 desta Corte.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 27 de novembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
