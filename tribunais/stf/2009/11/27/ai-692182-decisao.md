@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+Benedito José Pires e outra interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso XXXVI, e 93, inciso IX, da Constituição Federal.
+Insurgem-se, no apelo extremo, contra acórdão da Nona Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“PENSÃO PREVIDENCIÁRIA para Filha Solteira.
+PRELIMINARES de falta de interesse de agir e ausência de interesse processual, afastadas.
+MÉRITO Redação original do art. 147 inciso II da Lei Complementar n° 180/1978. Filhas solteiras, beneficiárias obrigatórias. Pensão devida até o casamento. Dispositivo alterado pela Lei Complementai n° 698/1992, que excluiu do rol de beneficiários obrigatórios a filha solteira. CF/1988, que aboliu o amparo paternalista que era conferido às filhas solteiras até o casamento, embora maiores. Pretensão dos autores que afronta o princípio da isonomia. Sentença reformada. Preliminares rejeitadas, recurso provido e reexame necessário, considerado interposto, acolhido” (fl. 124).
+Opostos embargos de declaração pelos autores (fls. 131 a 133) e pelo IPESP – Instituto de Previdência do Estado de São Paulo (fls. 135/136), foram rejeitados (fls. 142/143).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 25/4/07, conforme expresso na certidão de folha 145, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Não houve negativa de prestação jurisdicional, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão dos recorrentes, tendo o Tribunal de origem justificado suas razões de decidir.
+Ressalte-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelos então agravantes, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ 18/5/01).
+Por outro lado, a jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+Demais disso, o Tribunal de origem decidiu pela inexistência do direito da segunda recorrente ao benefício da pensão por morte do segurado, em face da revogação do artigo 147, inciso II, da Lei Complementar estadual nº 180/78 pela Lei Complementar estadual nº 698/92. Nesse caso, a alegada violação do artigo 5º, inciso XXXVI, da Constituição Federal seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Anote-se:
+“PREVIDENCIÁRIO. PENSÃO POR MORTE À FILHA SOLTEIRA. NORMAS LOCAIS. IMPOSSIBILIDADE DE EXAME. SÚMULA 280 DESTE SUPREMO TRIBUNAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO” (AI nº 576.770/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 9/2/07).
+“Processual. Legislação local (Súmula 280). Controvérsia infraconstitucional. Regimental não provido” (AI nº 417.355/RS-AgR, Segunda Turma, Relator o Ministro Nelson Jobim, DJ de 13/6/03).
+No mesmo sentido, a seguinte decisão monocrática: AI nº 275.380/SP, Relator o Ministro Cezar Peluso, DJ de 4/4/06.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 27 de novembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
+1
