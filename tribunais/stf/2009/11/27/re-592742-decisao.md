@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA DE PESSOA JURÍDICA. DEMONSTRAÇÕES FINANCEIRAS. RECURSO ESPECIAL PROVIDO. RECURSO EXTRAORDINÁRIO PREJUDICADO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea b, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 3ª Região:
+“TRIBUTÁRIO. EXECUÇÃO FISCAL. EMBARGOS DO DEVEDOR. SISTEMA I E PROTOCOLO INTEGRADO. POSSIBILIDADE DE UTILIZAÇÃO. PENHORA. PEDIDO DE REFORÇO. PROVA NÃO JUNTADA. AUSÊNCIA DE PREJUÍZO PARA A PARTE ADVERSA. IMPOSTO DE RENDA. PAGAMENTO A MAIOR. DEMONSTRAÇÕES FINANCEIRAS, CORREÇÃO MONETÁRIA, INCONSTITUCIONALIDADE DO INCISO I ART. 3º DA LEI 8.200 DE 28 DE JUNHO DE 1991. ILEGALIDADE DO DEC-LEI N. 332/91, ARTS. 39 A 41.
+1 - Tratando-se de procedimento incidental desconstitutivo do título executivo, são os embargos dependentes da ação executiva originária, assim, não se aplicam àqueles as razões que vedam, no âmbito da Justiça Estadual, o ingresso pelo sistema integrado de protocolo, cuja existência é justificada em prol do amplo acesso à tutela jurisdicional.
+2 - Se os valores dos bens oferecidos no curso da execução mostrarem-se defasados, caberá à exequente demonstrar o fato e requerer o que de direito.
+3 - O fato de a embargante-apelada não ter comprovado fato impeditivo da pretensão executiva (suspensão e desconstituição da exigibilidade do crédito), em nada prejudicou a parte adversa, pois a matéria da ação foi exclusivamente de direito.
+4 - O Eg. Órgão Especial deste Tribunal, no julgamento da Argüição de Inconstitucionalidade na remessa oficial em Mandado de Segurança registro n. 94.03.47561, rel. Juiz SILVEIRA BUENO, entendendo ter sido criado espécie de empréstimo compulsório e moratório unilateral por parte da União, com a impossibilidade do contribuinte em compensar, de uma só vez, as diferenças reconhecidas pelo executivo e verificadas entre os índices do BTN e o IPC, quando da apuração do lucro real no balanço das empresas, declarou, por maioria, a inconstitucionalidade do inciso I art. 3º da Lei 8.200 de 28 de junho de 1991.
+5 - O Decreto n. 332/91, que pretensamente teria vindo regulamentar a Lei n. 8.200/91, contém injuridicidade, a qual implica flagrante lesão à lei. Em alguns de seus artigos, o ato presidencial inova, ultrapassando as balizas da Lei n. 8.200, ao dispor sobre gravames que esta não previu.
+6 - Matéria preliminar rejeitada. Apelação e remessa oficial, tida por ocorrida, não providas” (fl. 141).
+2.   Contra essa decisão a Recorrente interpôs recursos especial e extraordinário, ambos admitidos na origem (fls. 256-257).
+Apreciada a matéria trazida na espécie, DECIDO .
+3. O recurso extraordinário está prejudicado, por perda superveniente do objeto.
+4.  Ao julgar o Recurso Especial 358.617, interposto pela Recorrente, o Superior Tribunal de Justiça a ele deu provimento, nos termos seguintes:
+“TRIBUTÁRIO. IMPOSTO DE RENDA DE PESSOA JURÍDICA. DEMONSTRAÇÕES FINANCEIRAS. ANO-BASE DE 1990. CORREÇÃO MONETÁRIA PELO IPC. LIMITAÇÕES IMPOSTAS PELO ART. 32, INCISO I, DA LEI N. 8200/91. LEGALIDADE.
+1. Com o julgamento pela Suprema Corte do Recurso Extraordinário n. 201.465/MG, pacificou-se, no âmbito do Superior Tribunal de Justiça, o entendimento acerca da legalidade das rotinas de devolução escalonada das diferenças havidas em virtude da variação dos índices de correção monetária no ano-base de 1990, conforme estipulado no art. 3º, inciso I, da Lei n. 8.200/91 e nos arts. 39 e 41 do Decreto n. 332/91.
+2. Recurso especial provido” (fl. 278).
+5. Essa decisão transitou em julgado em 29.8.2008 (fl. 362). O acórdão proferido pelo Tribunal Regional Federal da 3ª Região foi substituído pela decisão do Superior Tribunal de Justiça (art. 512 do Código de Processo Civil). Assim, o recurso extraordinário interposto contra o julgado do Tribunal Regional ficou prejudicado, por perda superveniente de objeto.
+Confira-se, a propósito, o seguinte julgado:
+“EMENTA: PROCESSUAL CIVIL. SUBSTITUIÇÃO DO ARESTO IMPUGNADO PELA DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. PERDA DE OBJETO DO APELO EXTREMO. O Superior Tribunal de Justiça deu provimento ao recurso especial interposto simultaneamente com o apelo extremo. Decisão essa que substituiu o acórdão proferido pelo Tribunal de origem. Logo, o recurso extraordinário se encontra prejudicado. Precedente: AI 227.510, sob a relatoria do ministro Marco Aurélio. Agravo regimental manifestamente infundado, ao qual se nega provimento. Condenação da parte agravante a pagar à parte agravada multa de 10% (dez por cento) do valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito do respectivo valor. Isso com lastro no § 2º do art. 557 do Código de Processo Civil” (RE 529.439-AgR, Rel. Min. Carlos Britto, Primeira Turma, DJe 17.10.2008).
+6. Pelo exposto, julgo prejudicado o presente recurso extraordinário, por perda de objeto, e determino a baixa dos autos à origem (art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+7. Em razão da perda de objeto e consequente prejuízo do recurso, não cabe ao Supremo Tribunal Federal examinar as petições de fls. 388-390 e 391-393, original e cópia, respectivamente, pelas quais a Recorrida requer “a renúncia ao direito à continuidade dos presentes autos” ao argumento de que “procedeu à liquidação da obrigação junto à Procuradoria-Geral da Fazenda Nacional”.
+Publique-se.
+Brasília, 27 de novembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
