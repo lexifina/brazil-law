@@ -1,0 +1,2 @@
+Dispõe sobre prorrogação de prazo para renovação de Certificado de Entidades de Fins Filantrópicos e de recadastramento junto ao Conselho Nacional de Assistência Social - CNAS e anulação de atos emanados do Instituto Nacional do Seguro Social - INSS contra instituições que gozavam de isenção da contribuição social, pela não apresentação do pedido de renovação do certificado em tempo hábil.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
