@@ -1,0 +1,17 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO – FAC-SÍMILE – ORIGINAL – APRESENTAÇÃO – PRAZO – CONTAGEM – OMISSÃO – INEXISTÊNCIA.
+1.  Por meio da decisão de folha 271, neguei seguimento a agravo regimental, consignando:
+FAC-SÍMILE – ORIGINAL – APRESENTAÇÃO – PRAZO – CONTAGEM – TÉCNICA.
+1.  Contra a decisão de folhas 207 e 208 veio a ser interposto, via fac-símile, agravo regimental. Ocorre que a apresentação dos originais se fez de forma extemporânea. O ato impugnado teve notícia veiculada no Diário da Justiça de 1º de fevereiro de 2007 (quinta-feira). O fac-símile foi recebido em 6 imediato (terça-feira), ou seja, no quinto dia alusivo ao agravo. A protocolação do original deu-se somente em 15 seguinte (quinta-feira). Em síntese, ao considerar os cinco dias para apresentação do original, a agravante adotou a regra de exclusão do primeiro dia. Acontece que o artigo 2º da Lei nº 9.800, de 26 de maio de 1999, encerra simples acréscimo no prazo relativo à prática do ato, não cogitando de nova dilação propriamente dita capaz de atrair a regra da exclusão do primeiro dia e inclusão do último, como se fosse dada ciência ao interessado quando da entrega dos originais. Nesse sentido decidiu a Turma, revelando que o acréscimo dos cinco dias, atinentes à juntada, é contínuo - Embargos de Declaração nos Embargos de Declaração no Agravo Regimental no Agravo de Instrumento nº 421.944-6/SP, relator ministro Carlos Britto, com acórdão publicado no Diário da Justiça de 26 de maio de 2006.
+2.  Ante a intempestividade, nego seguimento ao agravo.
+3.  Publiquem.
+Os embargantes, nos declaratórios de folha 285 a 290, afirmam ter apresentado os originais do agravo regimental no dia 7 de fevereiro de 2007, perante o Superior Tribunal de Justiça, no prazo assinado em lei.
+A parte embargada apresentou as contrarrazões de folhas 298 e 299, apontando o acerto do ato atacado.
+2.  Na interposição destes embargos, foram observados os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente credenciada (folhas 24 e 25), foi protocolada no prazo assinado em lei.
+ Improcede o inconformismo dos embargantes. Em síntese, ao considerar os cinco dias para apresentação do original, o artigo 2º da Lei nº 9.800, de 26 de maio de 1999, encerra simples acréscimo no prazo relativo à prática do ato, não cogitando de nova dilação propriamente dita capaz de atrair a regra da exclusão do primeiro dia e inclusão do último, como se fosse dada ciência ao interessado quando da entrega dos originais. Nesse sentido decidiu a Turma, revelando que o acréscimo dos cinco dias, atinentes à juntada, é contínuo - Embargos de Declaração nos Embargos de Declaração no Agravo Regimental no Agravo de Instrumento nº 421.944-6/SP, relator ministro Carlos Britto, com acórdão publicado no Diário da Justiça de 26 de maio de 2006.
+ Acresce que os atos das partes hão de ser praticados perante a Corte. Ao contrário do que acontece, por exemplo, com o agravo de instrumento visando a infirmar o pronunciamento interlocutório do Juízo, inexistente norma a viabilizar a consideração, para saber-se da oportunidade do ato, do dia em que encaminhados os originais ao Superior Tribunal de Justiça. Prevalece, no caso, a data do recebimento da peça, ou seja, a alusiva ao protocolo.
+3.  Ante o exposto, conheço dos embargos de declaração e os desprovejo.
+4.  Publiquem.
+Brasília, 30 de novembro de 2009.
+Ministro MARCO AURÉLIO
+Relator
