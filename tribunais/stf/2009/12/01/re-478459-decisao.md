@@ -1,0 +1,14 @@
+DECISÃO: O Plenário desta Suprema Corte, ao julgar o RE 426.059/SC, Rel. Min. GILMAR MENDES, firmou orientação sobre a controvérsia ora em análise, proferindo decisão consubstanciada em acórdão assim ementado:
+“Recurso Extraordinário. 2. Servidor Público Estadual. Gratificação Complementar de Vencimento. Lei Estadual nº 9.503, de 1994. 3. Base de cálculo. Vinculação ao salário mínimo. Ofensa ao art. 7º, IV, da Constituição Federal. 4. Recurso Extraordinário conhecido e provido.” (grifei)
+Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, monocráticos e colegiados, proferidos no âmbito desta Corte (AI 581.623/SC, Rel. Min. CELSO DE MELLO - AI 581.665/SC, Rel. Min. CÁRMEN LÚCIA – RE 422.833-AgR/SC, Rel. Min. SEPÚLVEDA PERTENCE - RE 426.060-AgR/SC, Rel. Min. CARLOS BRITTO - RE 432.722/SC, Rel. Min. GILMAR MENDES – RE 433.233/SC, Rel. Min. GILMAR MENDES - RE 442.093-AgR/SC, Rel. Min. CARLOS VELLOSO - RE 521.363-AgR/SC, Rel. Min. EROS GRAU – RE 539.252/SC, Rel. Min. MARCO AURÉLIO, v.g.).
+Cabe enfatizar, neste ponto, que o Pleno do Supremo Tribunal Federal, após julgar o RE 565.714/SP, Rel. Min. CÁRMEN LÚCIA, veio a editar a Súmula Vinculante nº 4, cujo enunciado possui o seguinte conteúdo:
+“Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial.” (grifei)
+Não foi por outra razão que esta Corte, em recente julgamento, reconheceu a plena legitimidade da postulação recursal que o Estado de Santa Catarina deduziu em causa idêntica à que ora se examina, nela proferindo decisão consubstanciada em acórdão assim ementado:
+“(...) 3. SERVIDOR PÚBLICO. Vencimentos. Vantagem pecuniária. Gratificação Complementar. Inconstitucionalidade do § 6º do art. 1º da Lei estadual nº 9.503/94, de Santa Catarina. Vinculação da base de cálculo ao salário mínimo. Inadmissibilidade. Ofensa ao art. 7º, IV, da Constituição Federal. Súmula vinculante. 4. Recurso provido. Vinculação da base de cálculo de vantagem pecuniária ao salário mínimo viola o art. 7º, IV, da Constituição Federal.”
+(RE 422.141-AgR-ED/SC, Rel. Min. CEZAR PELUSO - grifei)
+O exame da presente causa evidencia que o acórdão ora questionado diverge da orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+Sendo assim, pelas razões expostas, conheço e dou provimento ao presente recurso extraordinário (CPC, art. 557, § 1º-A), em ordem a determinar seja observada a orientação plenária firmada no julgamento do RE 426.059/SC. No que concerne à verba honorária, revela-se aplicável o enunciado constante da Súmula 512/STF.
+Publique-se.
+Brasília, 01 de dezembro de 2009.
+Ministro CELSO DE MELLO
+Relator
