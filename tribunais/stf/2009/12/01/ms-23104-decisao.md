@@ -1,0 +1,20 @@
+DECISÃO: 1. Trata-se de mandado de segurança, impetrado por Fábio Augusto de Souza Araújo, em face de ato praticado pelo Presidente da Mesa Diretora da Câmara dos Deputados.
+Narra o impetrante, em síntese, que ocupava o cargo de Secretário Parlamentar desde 03.08.1988, lotado no Gabinete do Deputado Francisco Diógenes de Araújo, por contrato por prazo indeterminado regido pela CLT, vindo a ser demitido, sem justa causa, em 19.02.1991, “pois ocorreu a mudança do regime de seu contrato de trabalho, até então disciplinado pela Consolidação das Leis do Trabalho”. Ainda, que, “na realidade, não houve demissão, mas simples mudança de regime, pois, a partir do dia 20.02.91, sem qualquer descontinuidade da sua posição de servidor público, as condições de seu contrato de trabalho passaram a ser disciplinadas pelo Regime Jurídico Único do Servidores Civis da União (Lei nº 8.112, de 11.12.90). (fl. 03).
+Aduz que, com a renúncia do Deputado Federal titular, assumiu seu suplente que, imediatamente o dispensou, sem direito à defesa, em razão da inexistência do devido processo administrativo.
+Alega que “as funções exercidas pelo Secretário Parlamentar reputam-se de caráter permanente, atividade meio, de interesse da Câmara dos Deputados, indispensável a estrutura organizacional, não se confundindo com funções de confiança” (fl. 03).
+Requer seja reconhecida “sua condição de servidor público federal, (...) em conseqüência, enquadramento deste no Regime Jurídico Único, a partir de 11.12.90, na forma do que dispõe o art. 143 – in fine da Lei 8.112/90” e sua reintegração e posse imediata no cargo de Secretário Parlamentar. (fl. 08).
+ Indeferida a liminar (fl. 32).
+ Foram prestadas informações fls. 37/44.
+ A PGR é pelo não indeferimento do mandado de segurança (fls. 98/105).
+2.  Inconsistente o pedido.
+ Carece, o impetrante, de direito subjetivo capaz de sustentar a concessão da segurança.
+ O texto expresso do art. 19, § 2º, do ADCT, bem como do art. 243, § 2º, da Lei nº 8.112/90, não deixa dúvida quanto à possibilidade de demissão ad nutun do ocupante do cargo de Secretário Parlamentar, em razão de sua natureza de função de confiança, transformada em cargo em comissão com a implantação do Regime Jurídico Único dos Servidores Civis da União (Lei nº 8.112/90).
+ Este, aliás, o entendimento da Corte em questões análogas à dos autos:
+ADMINISTRATIVO. SENADO FEDERAL. SECRETÁRIO PARLAMENTAR CONTRATADO EM 1º.02.87, NA FORMA DO ATO Nº 12/78 DA MESA DIRETORA. Quando da edição da Lei nº 8.112/90, a referida função, até então exercida na forma de emprego de confiança, ficou transformada em cargo em comissão (art. 243, § 2º). Legitimidade, por isso, da exoneração ocorrida em 1º.02.95, quando findou o mandato do senador em cujo Gabinete servia. Mandado de Segurança indeferido. (MS nº. 22.979, Min. Rel. Ilmar Galvão, DJ de 07/11/2003)
+SECRETARIO PARLAMENTAR. ESTABILIDADE PREVISTA NO ART. 19, 'CAPUT', DO ATO DAS DISPOSIÇÕES TRANSITORIAS DA CONSTITUIÇÃO FEDERAL DE 1988. INEXISTÊNCIA DO DIREITO. SENDO O SECRETARIO PARLAMENTAR CONTRATADO PARA EMPREGO DE CONFIANCA, NÃO TEM DIREITO A ESTABILIDADE PREVISTA NO 'CAPUT' DO ART. 19 DO A.D.C.T. DA C.F. DE 1988, APLICANDO-SE-LHE A NORMA EXCEPCIONANTE DO PARAGRAFO 2. DO MESMO DISPOSITIVO. MANDADO DE SEGURANÇA INDEFERIDO. (MS nº. 20.933, Min. Rel. Sydney Sanches, DJ de 08/09/1989)
+ Ressente-se, pois, o pedido, de um dos requisitos essenciais para a concessão da segurança, o direito líquido e certo. O impetrante não possui direito a reconhecimento do vínculo por previsão legal. Escusaria lembrar que é aturada jurisprudência da Corte no sentido da denegação da segurança por faltar de direito líquido e certo (MS nº 23.632, Min. Rel. Carlos Britto, DJ de 13.11.2008; MS nº 25.483, Min. Rel. Carlos Britto, DJ de 13.09.2007; RMS nº 24.537, min. Rel. Carlos Velloso, DJ de 16.12.2005; RMS nº 24.361, Min. Rel. Maurício Corrêa, DJ de 14.11.2003; RMS nº 22.252, DJ de 20.09.2007, de minha relatoria).
+3.  Do exposto, denego a segurança, com base nos art. 269, I, do CPC e 21, § 1º, do RISTF.
+ Publique-se. Int..
+Brasília, 1º de dezembro de 2009.
+Ministro CEZAR PELUSO
+Relator
