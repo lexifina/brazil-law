@@ -1,0 +1,15 @@
+DECISÃO: 1. Trata-se de ação originária (mandado de segurança), interposto pela Caixa Econômica Federal - CEF, contra sentença do juízo da 16ª Vara Federal da Seção Judiciária de São Paulo, proferida em ação cautelar ajuizada pelo Sindicato dos Empregados em Estabelecimentos Bancários de São José dos Campos, na qual foi determinada a percepção de reajuste mensal nos salários de seus associados, correspondentes à variação da URP nos meses de abril e maio de 1988.
+Após regular tramitação, foram os autos remetidos a esta Corte pela decisão de fls. 123, fundada no art. 102, inciso I, aliena “n” da Constituição Federal.
+A Procuradoria-Geral da República é pelo não conhecimento da ação e pela declaração de incompetência da Justiça Federal (fl. 139/144).
+2.  Incompetente esta Corte.
+Em princípio, a competência do STF para apreciação deste feito não estaria fundada na existência de interesse exclusivo da magistratura, mas, sim, no fato de que mais da metade dos integrantes do Tribunal Regional Federal da 3ª Região se deu por suspeita para julgar causas que versem sobre a aplicação da URP (fls. 120/123). Logo, irrelevante a análise da espécie do direito pleiteado na causa, já que o Tribunal de origem está impedido de julgar a demanda, ainda que esta envolva interesses comuns a outras categorias funcionais.
+Mas outro motivo processual impede o reconhecimento da competência originária desta Corte para apreciação do presente mandado de segurança.
+Com efeito, consta dos autos a informação do juízo impetrado de que a ação cautelar, na qual a decisão impugnada foi proferida, foi remetida à Justiça do Trabalho, por força do reconhecimento da sua incompetência absoluta para apreciação da matéria (fl. 118).
+Diante dessa decisão, ainda que admitida a desconsideração da nulidade prevista no art. 113, § 2º, do CPC, por ser tratar de medida de urgência, inerente às ações cautelares, a decisão impetrada necessariamente deve ser novamente analisada pelo juízo laboral, para ser convalidada ou revogada.
+E todo e qualquer recurso ou remédio processual usado pelas partes litigantes no curso da demanda perante o juízo absolutamente incompetente deve ser objeto de análise pelo Tribunal Regional do Trabalho da respectiva região e não mais pelo órgão recursal hierarquicamente superior ao juízo que reconheceu sua incompetência. Tal modificação atinge não só a causa originária, mas também todos os recursos e remédios processuais que estão a ela vinculados.
+Dessa forma, a modificação da competência em primeiro grau afasta a possibilidade de apreciação da matéria pelo Tribunal Regional Federal e, por conseqüência, torna irrelevante o fato de mais da metade de seus integrantes se terem dado por suspeitos para o julgamento como causa da competência originária desta Corte.
+3.  Ante o exposto, deixo de conhecer o mandado de segurança (art. 21, § 1º, do RISTF) por incompetência originária do STF, e determino a remessa dos autos ao Tribunal Regional do Trabalho da 2ª Região.
+Publique-se. Int..
+Brasília, 1º de dezembro de 2009.
+Ministro CEZAR PELUSO
+Relator
