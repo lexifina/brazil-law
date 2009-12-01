@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. MAJORAÇÃO DE ALÍQUOTA DA CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDENTE SOBRE A REMUNERAÇÃO PAGA AOS ADMINISTRADORES, AUTÔNOMOS E AVULSOS. REVOGAÇÃO DA LEI COMPLEMENTAR N. 84/96 PELA LEI N. 9.876/99. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTE SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O Tribunal Regional Federal da 5ª Região julgou apelação em mandado de segurança, nos termos seguintes:
+“TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. LEGALIDADE DA LEI 9.876/99.
+1. É constitucional a majoração de alíquota efetuada pela Lei nº 9.876/99 quanto à contribuição incidente sobre autônomos, administradores e avulsos.
+2. A L.C. nº 84/96, embora formalmente complementar, no que se refere à impugnação, é materialmente ordinária; daí poder ser alterada também por lei ordinária (Precedente do Eg. STF – ADIn 2.110-9).
+3. Sentença mantida.
+4. Apelação improvida” (fl. 77).
+3. A Recorrente alega que o Tribunal a quo teria afrontado o art. 59 da Constituição.
+Argumenta que:
+“Não poderia o legislador ordinário, no intuito de majorar a alíquota da contribuição em tela, revogar a lei complementar mediante uma lei hierarquicamente inferior, ante o fato de estar infringindo a segurança do ordenamento jurídico pátrio, uma vez que o legislador estipulou a alíquota de 15% (quinze por cento) mediante lei complementar, só podendo ser revogada por uma lei de igual ou superior hierarquia”.
+4. Em seu parecer de fls. 98-99, a Procuradoria-Geral da República opinou nos seguintes termos:
+“RECURSO EXTRAORDINÁRIO – CONTRIBUIÇÃO PREVIDENCIÁRIA – LEI COMPLEMENTAR N. 84/96 – SUA REVOGAÇÃO PELA LEI N. 9.876/99 – VALIDADE, TENDO EM VISTA AS INOVAÇÕES RESULTANTES DA EC N. 20/98 – ALEGAÇÃO DE CONTRARIEDADE AO ART. 59 DA CF/88 – ARGUIÇÃO JÁ REPELIDA POR ESSE PRETÓRIO EXCELSO – PARECER PELO IMPROVIMENTO DO RECURSO” (fl. 98).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste à Recorrente.
+Anote-se, inicialmente, que correto é o parecer da Procuradoria-Geral da República, que acolhe a jurisprudência deste Supremo Tribunal na matéria.
+6. A Recorrente intenta o recolhimento da contribuição previdenciária para administradores, autônomos e avulsos nos moldes da Lei Complementar n. 84/96, e não da Lei n. 9.876/99.
+7. Na Ação Direta de Inconstitucionalidade 2.110, então Relator o Ministro Sydney Sanches, os partidos políticos autores questionaram a revogação da Lei Complementar n. 84, de 18.1.96, pelo art. 9º da Lei n. 9.876/99.
+Segundo os Autores, “de acordo com o que dispõe o art. 59 da [Constituição da República], que trata do processo legislativo, uma lei ordinária não pode revogar uma Lei Complementar, tendo em vista o respeito ao princípio da hierarquia das normas e, consequentemente, ao princípio do devido processo legal, inscrito no inciso LIV do art. 5º [da Constituição da República], aplicável integralmente ao processo legislativo” (ADI 2.110, fl. 32).
+8. Ao julgar a referida Medida Cautelar, o Plenário deste Supremo Tribunal indeferiu, à unanimidade, o pedido de suspensão cautelar dos arts. 6º, 7º e 9º da Lei n. 9.876/99, esse último na parte em que revoga a Lei Complementar n. 84/96, nos seguintes termos:
+“DIREITO CONSTITUCIONAL E PREVIDENCIÁRIO. PREVIDÊNCIA SOCIAL. CÁLCULO DOS BENEFÍCIOS. FATOR PREVIDENCIÁRIO. SALÁRIO-MATERNIDADE: CARÊNCIA. SALÁRIO-FAMÍLIA. REVOGAÇÃO DE LEI COMPLEMENTAR POR LEI ORDINÁRIA. AÇÃO DIRETA DE INCONSTITUCIONALIDADE: A) DOS ARTIGOS 25, 26, 29 E 67 DA LEI Nº 8.213, DE 24.07.1991, COM A REDAÇÃO QUE LHES FOI DADA PELO ART. 2º DA LEI Nº 9.876, DE 26.11.1999; B) DOS ARTIGOS 3º, 5º, 6º, 7º E 9º DA LEI Nº 9.876, DE 26.11.1999, ESTE ÚLTIMO NA PARTE EM QUE REVOGA A LEI COMPLEMENTAR 84, DE 18.01.1996; C) DO ARTIGO 67 DA LEI Nº 8.213, DE 24.07.1991, NA PARTE EM QUE CONTÉM ESTAS EXPRESSÕES: ‘E À APRESENTAÇÃO ANUAL DE ATESTADO DE VACINAÇÃO OBRIGATÓRIA’. ALEGAÇÃO DE VIOLAÇÃO AOS ARTIGOS 6º, 7º, XXIV, 24, XII, 193, 201, II, IV, E SEUS PARÁGRAFOS 1º, 3º E 7º, DA CONSTITUIÇÃO FEDERAL. MEDIDA CAUTELAR. 1. Na ADI nº 2.111 já foi indeferida a suspensão cautelar do arts. 3º e 2° da Lei nº 9.876, de 26.11.1999 (este último na parte em que deu nova redação ao art. 29 da Lei n° 8.213, de 24.7.1991). 2. O art. 5º da Lei 9.876/99 é norma de desdobramento, que regula o cálculo do salário-de-benefício, mediante aplicação do fator previdenciário, cujo dispositivo não foi suspenso na referida ADI n° 2.111. Pelas mesmas razões não é suspenso aqui. 3. E como a norma relativa ao ‘fator previdenciário’ não foi suspensa, é de se preservar, tanto o art. 6º, quanto o art. 7º da Lei nº 9.876, de 26.11.1999, exatamente para que não se venha, posteriormente, a alegar a violação de direitos adquiridos, por falta de ressalva expressa. 4. Com relação à pretendida suspensão dos artigos 25, 26 e de parte do art. 67 da Lei nº 8.213/91, em sua redação originária e também na que lhe foi dada pela Lei nº 9.876/99, bem como do artigo 9º desta última, os fundamentos jurídicos da inicial ficaram seriamente abalados com as informações do Congresso Nacional, da Presidência da República e, sobretudo, com o parecer da Consultoria Jurídica do Ministério da Previdência e Assistência Social, não se vislumbrando, por ora, nos dispositivos impugnados, qualquer afronta às normas da Constituição. 5. Medida cautelar indeferida, quanto a todos os dispositivos impugnados
+(...)
+SENHOR MINISTRO SEPÚLVEDA PERTENCE: Sr. Presidente, penso que, neste ponto, a argüição é de rombuda improcedência. É claro que, quando uma matéria deixa de estar reservada pela Constituição à lei complementar, a lei complementar que dela tratava se transforma em lei ordinária. E como lei ordinária, que passou a ser, por lei ordinária pode ser revogada” (DJ 16.3.2000 – grifei).
+O acórdão recorrido está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da parte recorrente.
+9. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 1º de dezembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
