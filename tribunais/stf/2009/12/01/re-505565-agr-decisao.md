@@ -1,0 +1,18 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao recurso extraordinário nos seguintes termos:
+“Trata-se de recurso extraordinário interposto de acórdão que julgou procedente a exclusão de vantagens pessoais, para fins de limitação do teto, dos proventos de servidores públicos municipais aposentados. O acórdão possui a seguinte ementa:
+“O inciso XI do art. 37 da CF, com a redação dada pela Emenda Constitucional nº 19/98, ainda depende de regulamentação, pois condicionada à edição de lei a ser editada na forma prevista pelo inciso XV da art. 48 da CF. Recursos improvidos” (fl. 496).
+Neste RE, interposto com base no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 37, XI, da Constituição, bem como ao art. 17 do ADCT.
+A pretensão recursal não merece acolhida. O acórdão recorrido encontra-se em harmonia com a jurisprudência deste Tribunal, que, no julgamento, pelo Plenário, da ADI 1.898-MC/DF, entendeu que o art. 37, XI, da Constituição - com a redação dada pela EC 19/98 - não é auto-aplicável, porquanto depende da promulgação de lei fixando o subsídio de Ministro do Supremo Tribunal Federal.
+Assim, a jurisprudência de ambas as Turmas desta Corte entende que, nos termos do art. 37, XI, da CF, em sua redação original, as vantagens de natureza pessoal estão excluídas do cálculo do teto constitucional, permanecendo em vigor esta regra mesmo após a nova redação que foi dada ao referido dispositivo pela EC 19/98, tendo em vista a ausência de lei regulamentadora específica, conforme previsto no art. 48, XV, da CF. Nesse sentido: RE 452.574-AgR/SP, Rel. Min. Ellen Gracie; RE 362.211-AgR/SP, Rel. Min. Cezar Peluso.
+Cabe ressaltar, porém, que esse entendimento se aplica aos casos anteriores à Emenda Constitucional 41/03, que deu nova redação ao art. 37, XI, da Constituição.
+Isso posto, com base nos precedentes acima mencionados, nego seguimento ao recurso (CPC, art. 557, caput)” (fls. 569-570).
+A agravante sustenta, em suma, que, a despeito do acórdão recorrido encontrar-se em harmonia com a jurisprudência desta Corte Suprema, a controvérsia envolvendo as normas constitucionais previstas no artigo 37, XI, da Constituição Federal de 1988 e no art. 17 do ADCT ainda suscita polêmicas e isso, por si só, justifica o julgamento colegiado do caso (fls. 574-575).
+Bem reexaminada a questão, verifica-se que a decisão não merece reforma, visto que a parte recorrente não aduz novos argumentos capazes de afastar as razões expendidas na decisão ora atacada, que deve ser mantida por seus próprios fundamentos.
+Como já afirmado, a jurisprudência de ambas as Turmas desta Corte entende que, nos termos do art. 37, XI, da CF, em sua redação original, as vantagens de natureza pessoal estão excluídas do cálculo do teto constitucional, permanecendo em vigor esta regra mesmo após a nova redação que foi dada ao referido dispositivo pela EC 19/98, tendo em vista a ausência de lei regulamentadora específica, conforme previsto no art. 48, XV, da CF. Ressalta-se, ainda, que esse entendimento se aplica somente aos casos anteriores à Emenda Constitucional 41/03.
+Ademais, verifico que a parte agravante, na petição do agravo regimental, limitou-se a afirmar que há controvérsia envolvendo as normas constitucionais previstas no art. 37, XI, da Constituição Federal e no art. 17 do ADCT. Ela não atacou os fundamentos da decisão impugnada, o que caracteriza a deficiência de sua fundamentação, tornando inviável o conhecimento do recurso a teor da Súmula 284 do STF.
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 1º de dezembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
+1
