@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo que considerou aplicável a imunidade tributária ao Imposto sobre Circulação de Mercadorias e Serviços de Comunicação e de Transporte Interestadual e Intermunicipal – ICMS incidente sobre operações com “chapas fotográficas de alumínio sensibilizadas em uma face, não impressionadas para imagem monocromática” (Fls. 278).
+Sustenta-se, em síntese, violação dos arts. 5º, LXIX e 155, I, b e IX, a da Constituição.
+A orientação firmada pelo Supremo Tribunal Federal considera objetiva a imunidade dos livros, jornais, periódicos e do papel destinado à sua impressão. Assim, embora a salvaguarda possa abranger diversas etapas do processo de elaboração e circulação do material protegido (RE 102.141 - RTJ 116/268), bem como comporte ampla interpretação a densidade do objeto (imunidade de álbum de figurinhas – cromos autocolantes - RE 221.239, rel. min. Ellen Gracie, Segunda Turma, DJ de 06.08.2004 e das listas telefônicas - RE 101.441, rel. min. Sydney Sanches, Pleno, DJ de 19.08.1988), a imunidade não abrange elementos que fujam à estrita classificação como livros, jornais ou periódicos.
+Nesse sentido, não há proteção constitucional à prestação de serviços de composição gráfica (RE 229.703, rel. min. Moreira Alves, Primeira Turma, DJ de 17.05.2002), às capas duras auto-encadernáveis utilizadas na distribuição de obras para o fim de incrementar a venda de jornais (RE 325.334-AgR, rel. min. Carlos Velloso, Segunda Turma, DJ de 19.09.2003), à tinta para impressão de livros, jornais, revistas e periódicos (RE 265.025, rel. min. Moreira Alves, Primeira Turma, DJ de 21.09.2001), às peças de reposição (RE 238.570 - RTJ 171/356 – cf., ainda o RE 230.782, rel. min. Ilmar Galvão, Primeira Turma, DJ de 10.11.2000) ou à importação de bens para montagem de parque gráfico (AI 530.911-AgR, rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 31.03.2006).
+Para o caso em exame, chapas fotográficas de alumínio não se confundem com papel destinado à impressão de livros, jornais ou periódicos.
+Dessa orientação divergiu o acórdão recorrido.
+Ante o exposto, conheço do recurso extraordinário e dou-lhe provimento, para cassar a segurança.
+Sem honorários (Súmula 512/STF).
+Publique-se.
+Brasília, 02 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
