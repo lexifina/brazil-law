@@ -1,0 +1,35 @@
+DECISÃO
+HABEAS CORPUS. INDEFERIMENTO DE LIMINAR PELO SUPERIOR TRIBUNAL DE JUSTIÇA. REITERAÇÃO DA ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO CAUTELAR IDÔNEA DA PRISÃO DO PACIENTE. ALEGAÇÃO, AINDA, DE EXCESSIVA DEMORA PARA O JULGAMENTO DO HABEAS CORPUS NO SUPERIOR TRIBUNAL DE JUSTIÇA. SOLICITAÇÃO DE INFORMAÇÕES ANTES DE SER APRECIADA A LIMINAR.
+Relatório
+1. Habeas Corpus, com pedido de liminar, impetrado por EDMILSON MARTINS DE OLIVEIRA, em benefício próprio, contra os “fundamentos declinados no Habeas Corpus nº 92602 em trâmite na Sexta Turma do Superior Tribunal de Justiça” (fl. 2). Em 09 de outubro de 2007, a eminente Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, expôs o caso e indeferiu a liminar requerida nos autos do Habeas Corpus n. 92.602, nos termos seguintes:
+“(...)
+Trata-se de habeas corpus, com pedido de liminar, impetrado por
+EDMILSON MARTINS DE OLIVEIRA, em seu próprio favor, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Da confusa impetração apresentada, depreende-se que o paciente-impetrante, atualmente, estaria respondendo por ação penal, na qual é dado como incurso nas sanções dos arts. 288 e 297, ambos do Código Penal, pela suposta prática de fatos já tratados em anterior ação penal, cujo trancamento foi determinado pelo Tribunal de Justiça do Estado de São Paulo, e, sendo assim, estaria sendo prejudicado em razão da ocorrência do bis in idem.
+Aduz, ainda, que em sentença proferida em primeira instância foi decretada sua prisão preventiva com base tão somente nas alegações da autoridade policial e do Ministério Público, sendo que estes não teriam trazido aos autos nenhuma prova da participação do paciente-impetrante no suposto crime. Ademais, aduz que não estariam presentes os requisitos do artigo 312 do Código de Processo Penal para decretação da prisão preventiva, vez que o paciente é primário, de bons antecedentes, tem profissão e residência fixa.
+Por ocasião do julgamento do prévio writ, a autoridade apontada como coatora assentou:
+‘Os crimes imputados ao paciente, de formação de quadrilha ou bando, e falsificação de documentos públicos, só de longe guardam relação com o que foi decidido no habeas corpus nº 1.021.373-3/8, sendo nenhum o risco de que a ação penal instaurada fira a coisa julgada.
+Naquele habeas corpus o que se decidiu foi a inexistência do crime de estelionato que a Justiça Pública imputava ao paciente, eis que constava haver mantido pessoas em erro, mediante fraude consistente em fazer inserir declaração falsa em documento público, com isso obtendo vantagem ilícita.
+Já no processo em apreço, o que consta é que ele faria parte de quadrilha organizada para falsificar documentos públicos - certidões de nascimento e casamento -, tudo com o intuito de possibilitar a pessoas que não tinham origem nipônica, alterar seus patronímicos para então criar a condição de obterem autorização de imigração para o Japão.
+Indícios há de que o paciente participaria do esquema aparentemente desvendado pela Polícia e o Ministério Público da comarca de Registro, não sendo possível se adentrar mais profundamente na prova, como sugere a inicial.
+São crimes graves, e estão presentes os requisitos da prisão preventiva, já que nos termos da decisão de 1ª instância profligada, algumas testemunhas manifestaram temor quanto à reação dos acusados em razão da colaboração que prestaram à apuração dos crimes (fls. 137), constando, inclusive, conforme se depreende da representação da autoridade policial pela prisão temporária inicialmente decretada (fls. 46), que teria sido aventada a participação mesmo de policiais civis da cidade de Sete Barras (2º §), o que demonstra a necessidade de providências concretas que evitem o perecimento da prova.
+De outro lado, o fato de o impetrante alegar, sem provar, que há 18 anos mora na cidade de Sorocaba, de outro constando que os crimes foram todos perpetrados na cidade de Registro e Sete Barras, também sugere a necessidade da prisão como garantia da aplicação da lei, fato que a própria situação do impetrante, que até o momento não foi localizado, sendo no feito citado por edital (fls. 147/148) corrobora.’ (fls. 33/34).
+Pretende, liminarmente, o trancamento da ação penal instaurada, e, subsidiariamente, a revogação da prisão preventiva para que possa responder à ação penal em liberdade. No mérito, requer a confirmação da liminar.
+É o relatório.
+De início, cumpre frisar que perante esta Corte já havia sido impetrado prévio writ em favor de co-réu do paciente, autuado como HC n.º 80.957/SP, cuja petição inicial foi indeferida liminarmente, tendo em vista que pretendia desconstituir decisão que indeferiu medida liminar pleiteada em prévio writ, sem, contudo, demonstrar flagrante ilegalidade a excepcionar a aplicação da Súmula n.º 691 do Supremo Tribunal Federal.
+Da análise destes autos, ao menos num juízo perfunctório, não vislumbro a manifesta ilegalidade apontada, eis que a necessidade da prisão cautelar do paciente, primo occuli, foi justificada com arrimo em fatos concretos extraídos dos autos, não se podendo afirmar que seja totalmente desprovida de fundamentação, mormente porque restou consignado que o paciente ainda não foi localizado.
+É cediço que o deferimento do pleito liminar em sede de habeas corpus, em razão da sua excepcionalidade, enseja a comprovação, de plano, do alegado constrangimento ilegal, o que não se verifica no caso em apreço. E ainda, o que se pleiteia na cognição sumária confunde-se com o próprio mérito da impetração, cuja resolução demanda análise dos autos e julgamento pelo Órgão Colegiado.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações à autoridade apontada como coatora.
+Após, remetam-se os autos ao Ministério Público Federal para parecer (...)” (www.stj.jus.br).
+2. No presente habeas corpus, o Impetrante reitera as questões suscitadas na instância antecedente, acrescentando a alegação de excessiva demora no julgamento do Habeas Corpus n. 92.602.
+3.  Requer “o exame do presente recurso em razão do excesso de prazo para o julgamento de mérito do HC 92602”, a “revogação da prisão e a expedição de alvará de soltura em seu favor que está preso no Centro de Detenção Provisória de Sorocaba/SP” (fl. 6, transcrição conforme o original).
+Examinada a matéria posta à apreciação, DECIDO.
+3. Antes de apreciar o pedido de liminar, faz-se necessária a apresentação de informações pela eminente Relatora do Habeas Corpus n. 92.602, Ministra Maria Thereza de Assis Moura.
+4. Pelo exposto, oficie-se à eminente Ministra Maria Thereza de Assis Moura, do Superior Tribunal, para que, com urgência, preste informações quanto ao alegado na presente impetração, devendo esclarecer a data prevista para o julgamento do Habeas Corpus n. 92.602.
+Remeta-se, com o ofício – a ser enviado, com urgência e por fax, diretamente ao Gabinete da Ministra Maria Thereza de Assis Moura –, a cópia da inicial (fls. 2-5) e do presente despacho.
+5. Prestadas as informações, analisarei o pedido de liminar.
+Publique-se.
+Brasília, 2 de dezembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
