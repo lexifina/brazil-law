@@ -1,0 +1,15 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“Ação civil pública. Alegação de ilegalidade e abuso no reajuste de mensalidades de serviços de assistência médico-hospitalar. Reconvenção. Sentença de improcedência da ação e reconvenção. Apelos das partes visando à reforma da sentença. Acordo celebrado pela ré com a União Federal, regularizando os índices de reajustes, homologado pela Justiça Federal. Extinção de ação por perda de objeto e da reconvenção por incabível, prejudicados os recursos.” (Fl. 50).
+2.  A parte agravante, no recurso extraordinário, alega ofensa aos artigos 5º, XXXV e XXXVI; e 93, IX e X, da CF.
+3.  Ressalto que a preliminar levantada pela parte, relativa ao reexame do julgamento proferido em sede de embargos de declaração, por suposta ausência de fundamentação e negativa de prestação jurisdicional, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade ao disposto nos artigos 5º, XXXV, e 93, IX e X, da CF. Veja-se o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002, o qual assentou em sua ementa:
+“ CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO: ALEGAÇÃO DE OFENSA AO DEVIDO PROCESSO LEGAL E DE QUE O ACÓRDÃO NÃO ESTARIA FUNDAMENTADO. C.F. , arts. 5º, II, XXXV, LIV e LV, e 93, IX.
+I. – Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional.
+II. – Decisão contrária ao interesse da parte não configura negativa de prestação jurisdicional (...)”
+4.  No mérito, o recurso também não merece prosperar. Verifico que o art. 5º, XXXVI, da CF não se encontra prequestionado porque, embora suscitado na petição dos embargos de declaração (fls. 68-70), a falta, no traslado, do teor das razões da apelação impede a verificação de suposta omissão do acórdão, não se podendo, assim, constatar a ocorrência do prequestionamento. Nesse sentido: AI 716.928/SC, rel. Min. Cármen Lúcia, DJe 12.5.2009; AI 683.680-AgR/GO, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 13.2.2009; e AI 495.652-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJ 9.9.2005.
+5.  Ademais, limitou-se o acórdão recorrido a extinguir a ação, sem julgamento do mérito, em virtude de acordo homologado pela Justiça Federal, matéria de nível infraconstitucional. Assim, a alegada contrariedade ao art. 5º, XXXVI, da CF somente poderia ocorrer de forma indireta, a depender do exame da legislação infraconstitucional, sem margem para o acesso à via extraordinária.
+ Dessa forma, mostra-se também incabível a invocação de tal dispositivo, na espécie, para discutir reajuste de mensalidade de serviços de assistência médico-hospitalar.
+6.  Ante o exposto, nego seguimento ao agravo (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 02 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
