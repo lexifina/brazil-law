@@ -1,0 +1,18 @@
+DECISÃO : Trata-se, na origem, de reclamação trabalhista contra a União, ajuizada por servidor do Tribunal Regional do Trabalho da 10ª Região (TRT10), para o fim específico de obter equiparação salarial.
+A reclamação foi proposta em abril de 1989. O reclamante, ora recorrido, relata que foi admitido em 1º de abril de 1986, como secretário especializado, de acordo com o Decreto 77.242/76. Em junho de 1988, foi designado para a função de assistente administrativo. Apontou como paradigma servidor do próprio TRT10 que trabalhou nas mesmas funções. Juntou cópia de sua carteira de trabalho. Pleiteou indenização das diferenças recebidas pelo paradigma na função de secretário especializado entre 01.04.1986 e 01.06.1988 e o pagamento das diferenças recebidas a partir de 02.06.1988, no cargo de assistente administrativo.
+A ação foi julgada procedente sob fundamento de isonomia:
+“O legislador constituinte demonstrou especial preocupação em garantir a efetiva igualdade, prevista no caput do art. 5º, procurando corrigir distorções, que estabelecem odiosa discriminação, entre os que exercem atividades iguais ou assemelhadas. Para isso, determinou, no art. 39, a instituição de regime único e planos de carreira para os servidores e, em seu § 1º, assegurou a isonomia de vencimentos para os funcionários públicos, mediante lei ordinária.
+Se a constituição ampara essa isonomia, que, no momento, ainda não conta com lei específica, com maior razão resguarda a isonomia pretendida pelo recorrente, vez que já conta co a previsão legal insculpida no art. 461 da CLT.”
+O Tribunal Superior do Trabalho negou provimento ao recurso de revista interposto pela União. A manifestação definitiva sobre a matéria foi exarada nos seguintes termos:
+“Com razão a Agravante em relação à inaplicabilidade do Enunciado no 221/TST para o afastamento de violação a dispositivos constitucionais.
+Entretanto, melhor sorte não a espera, uma vez que a v. decisão regional em nenhum momento decidiu contrariamente aos termos do artigo 5º, caput, 37, inciso XIII, 98, parágrafo único, da Constituição de 1969. Não ofendeu a Carta Magna, também, a egrégia Turma ao consignar que a matéria foi corretamente apreciada pela r. decisão recorrida em relação às violações ao texto constitucional. A ofensa constitucional só se caracteriza se esta for literal, frontal e direta.”
+No presente recurso extraordinário, a União reitera as alegações.
+A Procuradoria Geral da República opina pelo provimento do recurso. Aponta precedente em que a Corte decidiu que a vedação contida no art. 98, parágrafo único, da Emenda 1 de 1969 aplica-se aos servidores regidos pela Consolidação das Leis do Trabalho – CLT (RE 95.751, rel. min. Aldir Passarinho, Pleno, DJ 13.04.1984).
+Tem razão a PGR quando indica que a jurisprudência desta Corte, interpretando a Emenda 1/69, concluiu pela impossibilidade de equiparação salarial de servidores públicos, ainda que regidos pela CLT. Além do RE 95.751, já mencionado, veja-se também o RE 115.897, rel. min. Octavio Gallotti, Primeira Turma, DJ 02.09.1988:
+“Ao restabelecer equiparação ou vinculação, entre os salários dos reclamantes e os vencimentos de cargo do fisco estadual, a Justiça do Trabalho contrariou o disposto no art. 98, parágrafo único, da Constituição Federal, também aplicável aos servidores da administração direta e autarquias, regidas pela C.L.T. Precedentes do supremo tribunal. Recurso extraordinário provido.”
+No período posterior à Constituição de 1988, a vedação à equiparação é conseqüência do art. 37, XIII e da Súmula 339.
+Do exposto, nos termos do art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário.
+Publique-se.
+Brasília, 2 de dezembro de 2009
+Ministro JOAQUIM BARBOSA
+Relator
