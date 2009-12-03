@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. CRITÉRIOS DE ATUALIZAÇÃO. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra julgado da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária da Paraíba que manteve sentença de primeira instância, a qual julgou improcedente o pedido de aplicação do INPC/IBGE para correção de benefício previdenciário.
+2. O Recorrente alega que teria sido contrariado o art. 201, § 4º, da Constituição da República.
+Afirma que “A aplicação do INPC/IBGE garante a aplicabilidade do artigo 201, § 4º, da Constituição Federal, primeiramente, por se tratar de instituição idônea que habitualmente estuda a evolução inflacionária. Ademais, impede que a Previdência Social aplique índices que apenas atendam a seus interesses e prejudiquem os segurados e beneficiários”.
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+4. Ao julgar improcedente o pedido de revisão de benefício previdenciário do Recorrente, o Juízo a quo fundamentou-se unicamente na interpretação e na aplicação de normas infraconstitucionais. Assim, eventual ofensa constitucional seria indireta, o que não viabiliza o recurso extraordinário.
+Nesse sentido:
+“EMENTAS: 1. RECURSO. Extraordinário. Inadmissibilidade. Reajuste de benefício previdenciário. Interpretação de legislação infraconstitucional. Ofensa indireta à Constituição. Agravo regimental não provido. Não se tolera, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República. 2. PREVIDÊNCIA SOCIAL. Reajuste de benefício de prestação continuada. Índices aplicados para atualização do salário-de-benefício. Arts. 20, § 1º e 28, § 5º, da Lei nº 8.212/91. Princípios constitucionais da irredutibilidade do valor dos benefícios (Art. 194, IV) e da preservação do valor real dos benefícios (Art. 201, § 4º). Não violação. Precedentes. Agravo regimental improvido. Os índices de atualização dos salários-de-contribuição não se aplicam ao reajuste dos benefícios previdenciários de prestação continuada” (AI 590.177-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 26.4.2007 – grifos nossos).
+“EMENTA: DIREITO CONSTITUCIONAL, PREVIDENCIÁRIO E PROCESSUAL CIVIL. REAJUSTE DE BENEFÍCIOS PREVIDENCIÁRIOS. ACÓRDÃO REGIONAL QUE APLICOU O CRITÉRIO DO REAJUSTE COM BASE NO ART. 41, II, DA LEI 8.213/91. ALEGAÇÃO DE OFENSA AOS ARTS. 194, PARÁGRAFO ÚNICO, INCISO IV, E 201, § 2º, DA CONSTITUIÇÃO FEDERAL. PREQUESTIONAMENTO (SÚMULAS 282 E 356 DO STF). AGRAVO. 1. Não conseguiu o agravante demonstrar o desacerto da decisão que, na instância de origem, indeferiu o processamento do Recurso Extraordinário, nem da que negou seguimento ao Agravo de Instrumento. 2. No mais, como já salientado, é pacífica a jurisprudência do Supremo Tribunal Federal, no sentido de não admitir, em R.E., alegação de ofensa indireta à Constituição Federal, por má interpretação ou aplicação e mesmo inobservância de normas infraconstitucionais. 3. Agravo improvido” (AI 235.928-AgR, Rel. Min. Sydney Sanches, Primeira Turma, DJ 2.5.2003 – grifos nossos).
+Não há, pois, o que prover quanto às alegações do Recorrente.
+5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 3 de dezembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
