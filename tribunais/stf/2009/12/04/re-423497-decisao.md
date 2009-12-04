@@ -1,0 +1,22 @@
+DECISÃO
+Vistos.
+O Ministério Público do Estado de Santa Catarina interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+“AGRAVO DE INSTRUMENTO – ARRENDAMENTO MERCANTIL – LEASING – AÇÃO CIVIL PÚBLICA – MINISTÉRIO PÚBLICO – ILEGITIMIDADE ATIVA – DIREITOS INDIVIDUAIS DISPONÍVEIS – INTERESSE COLETIVO INEXISTENTE – EXTINÇÃO DO PROCESSO.
+1. Se a ‘defesa de um interesse, ainda que apenas coletivo ou individual homogêneo, convier direta ou indiretamente à coletividade como um todo, não se há de recusar o Ministério Público de assumir sua tutela. Quando, porém, se tratar de defesa dos interesses coletivos ou individuais homogêneos, de pequenos grupos, sem características de indisponibilidade nem suficiente abrangência social, pode não se justificar a iniciativa do Ministério Público. Por fim, na defesa de interesses estritamente individuais, de consumidores, raramente se justificará a iniciativa da instituição’ (Hugo N. Mazzilli). Outra conclusão equivaleria a ‘transformar o Ministério Público em defensor de interesses individuais disponíveis, quando sua atribuição institucional é mais relevante’ (Kazuo Watanabe).
+‘Não interessa à ‘coletividade como um todo’ a demanda aforada em defesa dos que celebraram contrato de arrendamento mercantil com cláusula de reajuste das prestações de acordo com a variação do dólar.
+‘2. Não tem o Ministério Público legitimidade ativa para propor ação civil pública para defesa de interesses individuais plúrimos, que não se confundem com interesses coletivos’ (REsp n.º 59.164, MIn. César Asfor Rocha), definidos, no Código de Defesa do Consumidor, como ‘os transindividuais de natureza indivisível’ (art. 81, II).’ (Agravo de Instrumento n. 99.002426-1, da Capital, Relator: Des. Newton Trisotto)” (fl. 13).
+Alega o recorrente contrariedade aos artigos 127, caput, 129, inciso III, da Constituição Federal. Afirma que “a Ação Civil Pública não buscou a tutela de simples direito individual homogêneo, mas de direito coletivo e interesse difuso” (fl. 41).
+Contrarrazões às fls. 53 a 66.
+O recurso extraordinário (fls. 31 a 52) foi inadmitido pelo Tribunal de origem (fls. 67 a 68). Entretanto, o Ministro Sepúlveda Pertence deu provimento ao agravo de instrumento interposto pelo Parquet, determinando a sua conversão em extraordinário (fl. 271).
+A Subprocuradoria-Geral da República opina pelo provimento do recurso (fls. 277 a 281).
+Decido.
+Anote-se, primeiramente, que o acórdão recorrido, conforme expresso na certidão de folha 30, foi publicado em 18/4/2000, não sendo exigível, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+A irresignação merece prosperar.
+Esta Corte já decidiu, em casos análogos ao dos autos, que o Ministério Público possui legitimidade ativa para a defesa, em juízo, dos interesses individuais homogêneos daqueles que se encontram na condição de consumidores, não importando a espécie do contrato celebrado:
+“1. Ministério Público: contrato de leasing: legitimidade para propor ação civil pública quando se trata de direitos individuais homogêneos em que seus titulares se encontram na situação ou na condição de consumidores, ou quando houver uma relação de consumo. É indiferente a espécie de contrato firmado, bastando que seja uma relação de consumo: precedentes. 2. Recurso extraordinário: descabimento: dispositivos constitucionais apontados no extraordinário não examinados no acórdão recorrido, ao qual não foram opostos embargos de declaração (Súmulas 282 e 356)” (AI nº 491.195/SC-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 7/5/04).
+No mesmo sentido, confira-se as seguintes decisões monocráticas: AI nº 449.565/SC, Relator o Ministro Gilmar Mendes, DJ de 9/4/07 e AI nº 447.934/SC, Relator o Ministro Celso de Mello, DJ de 22/6/06.
+Ante o exposto, nos termos do art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário para cassar o acórdão recorrido, reconhecendo a legitimidade ativa do Ministério Público e determinando o retorno dos autos ao Tribunal de origem para prosseguir no julgamento do mérito da ação proposta.
+Publique-se.
+Brasília, 4 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
