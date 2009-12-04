@@ -1,0 +1,14 @@
+DECISÃO DO SENHOR MINISTRO CELSO DE MELLO: Esta decisão é por mim proferida em face da ausência eventual, nesta Suprema Corte, da eminente Relatora da presente causa (fls. 21) e de seu substituto imediato (fls. 23), justificando-se, em conseqüência, a aplicação da norma inscrita no art. 38, I, do RISTF.
+O Governo da República da Bolívia, mediante Nota Verbal regularmente apresentada por sua Missão Diplomática ao Governo brasileiro (fls. 04), requer a decretação da prisão cautelar de Muhammed Dhia Jaffer, ora submetido, naquele País, a atos de investigação penal, por suposta prática dos crimes de “tráfico internacional de drogas e lavagem de dinheiro” (fls. 04).
+O suporte jurídico deste pedido de prisão preventiva repousa em Acordo multilateral de Extradição entre os Estados Partes do MERCOSUL e a República da Bolívia e a República do Chile, celebrado pelo Brasil, pela Argentina, pelo Paraguai, pelo Uruguai, pela Bolívia e pelo Chile, em 1998, e incorporado ao nosso sistema de direito positivo interno, desde a sua promulgação pelo Decreto nº 5.867/2006.
+Esse Acordo multilateral de Extradição autoriza que qualquer das Altas Partes Contratantes solicite, por meio do seu agente diplomático, a decretação da prisão preventiva da pessoa reclamada (Artigo 29, nº 1).
+A República da Bolívia instrui este pedido com cópia de mandado de prisão preventiva expedido por autoridade judiciária competente (fls. 05).
+O súdito estrangeiro em causa é portador do passaporte  306848157, expedido pelo Reino Unido da Grã-Bretanha e Irlanda do Norte (fls. 04, 14 e 17), cabendo assinalar que os fatos delituosos que motivaram o decreto judicial de sua prisão parecem satisfazer, ao menos em princípio - e ressalvada a análise ulterior dessa questão -, a exigência imposta pelo postulado da dupla tipicidade.
+Os ilícitos penais em causa, de outro lado, não parecem incidir  nas restrições, que, estabelecidas pela lei brasileira (Lei nº 6.815/80, art. 77) e pelo Acordo de Extradição existente entre os Estados Partes e Associados do Mercosul (Capítulo III), impediriam, caso ocorrentes, a efetivação da própria entrega extradicional.
+Sendo assim, decreto a prisão preventiva de Muhammed Dhia Jaffer (fls. 03).
+Expeça-se o respectivo mandado de prisão. A execução desta ordem judicial, tão logo efetuada, deverá ser comunicada a esta Suprema Corte.
+2. Comunique-se o teor desta decisão ao Senhor Ministro da Justiça e, para efeito de cientificação formal da Missão Diplomática da República da Bolívia, ao Senhor Ministro das Relações Exteriores. Os ofícios em questão deverão ser encaminhados com cópia desta decisão.
+3. A presente decisão somente deverá ser publicada, depois de efetivada a prisão do súdito estrangeiro em questão.
+Brasília, 04 de dezembro de 2009.
+Ministro CELSO DE MELLO
+(RISTF, art. 38, I)
