@@ -1,0 +1,18 @@
+DECISÃO: Vistos, etc.
+Cuida-se de ação cautelar, aparelhada com pedido de liminar, proposta por José Vitarelli, com o objetivo de atribuir efeito suspensivo ao Recurso Extraordinário 431.380.
+2. De acordo com a inicial, o Juiz Diretor do Foro da Comarca de Belo Vale/MG determinou que o autor fosse afastado da titularidade do 2o Ofício de Notas, Registro de Títulos e Documentos, Registro Civil de Pessoas Jurídicas, Registro de Protesto de Títulos e Registro de Imóveis daquela comarca.
+3. Inconformado, o requerente impetrou mandado de segurança, que foi denegado pelo Tribunal de Justiça do Estado de Minas Gerais. Na sequência, o Superior Tribunal de Justiça negou provimento ao recurso ordinário manejado pelo autor.
+4. Daí é que surgiu o apelo extremo, em que o requerente alegou violação ao inciso XXXVI do art. 5o, aos incisos XVI e XXV do art. 22, ao inciso II do § 1o e ao § 3o do art. 40, e ao caput e aos §§ 1o e 3o do art. 236, todos da Carta Magna de 1988.
+5. Prossigo para anotar que, em 03.09.2007, neguei seguimento ao recurso extraordinário. Ao fazê-lo, assentei que a aposentadoria compulsória é aplicável aos titulares de serviços notariais e de registro que hajam completado 70 (setenta) anos de idade antes da Emenda Constitucional nº 20/98. Naquela ocasião, mencionei, como precedentes, o RE 245.075, sob a relatoria do ministro Sepúlveda Pertence; e o AI 446.111-AgR, sob a relatoria do ministro Gilmar Mendes.
+6. Averbo, agora, que o autor opôs embargos declaratórios à mencionada decisão monocrática. Recurso pendente de julgamento até a presente data.
+7. Muito bem. Na cautelar em exame, o autor sustenta que “foi errônea e injustamente afastado de suas atribuições, deixando de perceber seus essenciais rendimentos, que consistiam nos emolumentos pelos atos praticados à frente da serventia”. Mais: requer a permanência na titularidade do serviço notarial e de registro, “até a decisão final desta Suprema Corte”, dado que se encontra “em situação degradante e desumana”.
+8. Feito esse o resumo dos acontecimentos, passo a decidir. De saída, pontuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade jurídica do pedido (fumus boni juris) e do perigo da demora na prestação jurisdicional (periculum in mora), perceptíveis de plano (primo oculi, portanto). Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que a este dão suporte, senão incorrendo em antecipação do próprio conteúdo da decisão definitiva.
+9. No caso, tenho como ausente a plausibilidade jurídica do pedido. Isso porque, segundo anotei, a decisão de mérito proferida no apelo extremo é contrária aos interesses do autor. E os embargos declaratórios pendentes de apreciação “não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais” (AI 436.801-AgR-ED-ED, sob a relatoria da ministra Ellen Gracie).
+10. Por outra volta, anoto que os autos do recurso extraordinário (fls. 296) dão conta de que o requerente é servidor aposentado do Tribunal de Justiça do Estado de Minas Gerais. O que enfraquece a alegação de que o autor se encontra “em situação degradante e desumana”.
+Isso posto, indefiro a liminar requerida.
+Publique-se.
+Brasília, 04 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
+1
+1
