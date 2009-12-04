@@ -1,0 +1,16 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, manejado contra acórdão do Tribunal Superior do Trabalho. Acórdão de cuja fundamentação se lê (fls. 266):
+“O Eg. Tribunal assim se posicionou sobre a questão:
+‘As convenções coletivas juntadas aos autos previam a compensação de horário (fls. 46, 57 e 73/74) e os cartões de ponto consignam labor nos horários informados na defesa, sendo que eventual labor aos sábados e o extrapolamento da jornada em poucos minutos não denotam a intenção da empresa de desvirtuar a compensação levada a efeito entre as partes, não se justificando a nulidade do ajuste, em flagrante enriquecimento sem causa do autor.
+Por outro lado, os instrumentos convencionais não abarcam o período de novembro/1999 a janeiro/2000 e não houve acordo escrito para a compensação, sendo que o C. TST reputa inválido o acordo tácito para esta fim (Orientação Jurisprudencial nº 223, da SDI-I do c. TST). Entrementes, também em relação a este interregno a compensação foi observada, incidindo o contido na Súmula 85 da mesma Corte’ (fl. 155).
+Não se vislumbra a alegada ofensa ao art. 7º, inciso XXVI, da Constituição Federal, uma vez que houve o reconhecimento das convenções e acordos coletivos de trabalho, uma vez que o Eg. Tribunal se posicionou no sentido de que as convenções coletivas juntadas aos autos previam a compensação de horário e que estes instrumentos convencionais não abarcavam o período de novembro de 1999 a janeiro de 2000, excluindo da condenação apenas as horas extras relativas ao período não prescrito até outubro de 1999 e a partir de fevereiro de 2000, compreendidas na compensação.
+Também não há falar em contrariedade à Súmula nº 85, itens I e II, do c. TST, mas sim na sua correta aplicação, uma vez que o Eg. Tribunal Regional manteve a condenação em horas extras no período não abarcado pelos instrumentos coletivos, conforme se vislumbra no trecho acima transcrito.”
+2. Pois bem, a parte recorrente sustenta ofensa aos incisos XXXV, LIV, LV do art. 5º e ao inciso XXVI do art. 7º da Carta Magna de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do então Subprocurador-Geral Roberto Monteiro Gurgel Santos, opinou pelo não conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. É que o Supremo Tribunal Federal entende ser incabível na via extraordinária o reexame de cláusula de acordo ou convenção coletiva. Isso porque a interpretação de tais instrumentos normativos demanda o revolvimento de matéria fática, atinente à realidade de trabalho própria de cada categoria, incluindo a ponderação, caso a caso, das vantagens e desvantagens oriundas da estipulação de determinadas condições de trabalho pelas partes acordantes. Pelo que incidem as Súmulas 279 e 454 desta nossa Corte.
+5. Por outra volta, observo que a jurisdição foi prestada de forma completa, embora em sentido contrário aos interesses da parte agravante, o que não configura cerceamento de defesa.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 04 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
