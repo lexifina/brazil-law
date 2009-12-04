@@ -1,0 +1,11 @@
+1.  O Tribunal Regional Federal da 5ª Região concluiu que o segurado trabalhou alternativamente em atividade comum e especial e, por isso, tem direito à conversão do tempo de serviço especial incompleto, para efeitos de concessão de aposentadoria por tempo de serviço, não podendo, entretanto, utilizar-se do período posterior a dezembro de 1998 sem submeter-se aos requisitos da EC 20/98 (fls. 111-122).
+2.  O recorrente interpôs recurso extraordinário no qual alega, em síntese (fls. 160-167), ofensa ao art. 5º, XXXVI, da Constituição Federal.
+3.  Admitido o recurso, subiram os autos.
+4.  A insurgência não merece prosperar. O Tribunal de origem concluiu pelo direito do segurado à conversão do tempo de serviço especial incompleto para efeito de aposentadoria, nos termos do § 5º do art. 57 da Lei 8.213/91 e do parágrafo único do art. 70 do Decreto 3.213/91. Asseverou, entretanto, que o autor não pode utilizar-se do período posterior a dezembro de 1998 sem submeter-se aos requisitos da EC 20/98.
+5.  Verifica-se que o aresto impugnado encontra-se em consonância com a jurisprudência do Supremo Tribunal Federal, consolidada pelo Plenário da Corte, ao julgar o mérito da repercussão geral reconhecida no RE 575.089/RS, rel. Min. Ricardo Lewandowski, DJ 24.10.2008, cujo acórdão contém a seguinte ementa:
+“INSS. APOSENTADORIA. CONTAGEM DE TEMPO. DIREITO ADQUIRIDO. ART. 3º DA EC 20/98. CONTAGEM DE TEMPO DE SERVIÇO POSTERIOR A 16.12.1998. POSSIBILIDADE. BENEFÍCIO CALCULADO EM CONFORMIDADE COM NORMAS VIGENTES ANTES DO ADVENTO DA REFERIDA EMENDA. INADMISSIBILIDADE. RE IMPROVIDO . I - Embora tenha o recorrente direito adquirido à aposentadoria, nos termos do art. 3º da EC 20/98, não pode computar tempo de serviço posterior a ela, valendo-se das regras vigentes antes de sua edição. II - Inexiste direito adquirido a determinado regime jurídico, razão pela qual não é lícito ao segurado conjugar as vantagens do novo sistema com aquelas aplicáveis ao anterior. III - A superposição de vantagens caracteriza sistema híbrido, incompatível com a sistemática de cálculo dos benefícios previdenciários. IV - Recurso extraordinário improvido.”
+6.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 4 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
