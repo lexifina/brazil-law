@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário de acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 32):
+“APELAÇÃO. FALÊNCIA. SISTEMA FINANCEIRO IMOBILIÁRIO. ADQUIRENTES PROMITENTES DE UNIDADES RESIDENCIAIS DADAS EM HIPOTECA MESMO SENDO PÚBLICO QUE A INCORPORADORA PASSAVA POR ENORMES DIFICULDADES FINANCEIRAS. OFENSA AOS PRINCÍPIOS DA BOA-FÉ CONSAGRADOS NO C.D.C. Não prevalece diante do terceiro adquirente de boa-fé a hipoteca constituída pela incorporadora junto a instituição financeira porque a estrutura não só do Código de Defesa do Consumidor, como também, do próprio sistema habitacional, foi consolidada para respeitar o direito do consumidor. O fato de constar do registro a hipoteca da unidade edificada em favor do agente financiador da construtora não tem o efeito que se lhe procura atribuir, para atingir também o terceiro adquirente, pois que ninguém que tenha adquirido imóvel pelo SFH assumiu a responsabilidade de pagar a sua dívida e mais a dívida da construtora perante o seu financiador. Apelo improvido.”
+No recurso extraordinário, a parte ora agravante alega violação do disposto no art. 5º, XXXVI, da Constituição federal. Argumenta, em síntese, que a hipoteca foi constituída antes da celebração dos contratos de promessa de compra e venda e que, nos termos da legislação civil, mesmo com a falência da incorporadora a garantia real continua válida.
+É o breve relatório. Decido.
+Sem razão a parte agravante.
+Em casos idênticos ao presente, a Corte concluiu que eventual violação ao texto constitucional demandaria o exame prévio da legislação infraconstitucional e das cláusulas contratuais, de modo que se trata de alegação de violação indireta ou reflexa da Constituição. É o que se observa nos seguintes julgados:
+“EMENTA: DIREITO CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. INCORPORAÇÃO E CONSTRUÇÃO DE PRÉDIO RESIDENCIAL MEDIANTE FINANCIAMENTO GARANTIDO POR HIPOTECA. ACÓRDÃO QUE CONSIDEROU AS RESPECTIVAS UNIDADES HABITACIONAIS IMUNES AOS EFEITOS DA GARANTIA, EM FACE DO DISPOSTO NAS LEIS N.°S 8.009/90 E 4.864/64 E DO PRINCÍPIO DA BOA-FÉ. ALEGADA OFENSA AOS PRINCÍPIOS DA LEGALIDADE E DO ATO JURÍDICO PERFEITO.
+O recurso, pela alegação de ofensa ao princípio da legalidade, seria de ser provido, em face do último fundamento do acórdão que, no ponto, estaria a impor ao credor hipotecário obrigação não prevista em lei, ou seja, a de abster-se de exercitar o direito de seqüela que constitui o principal atributo da hipoteca.
+Irresignação, todavia, insuscetível de ser apreciada, quanto ao mais, pelo STF, na via do recurso extraordinário, tendo em vista não apenas o óbice da Súmula 454, mas também a circunstância de que eventual contrariedade à Constituição teria ocorrido, no caso, de forma reflexa e indireta, não ensejando o apelo extremo.
+Recurso não conhecido.” (RE 354.257, rel. min. Ilmar Galvão, DJ de 21.02.2003.)
+“EMENTA: Agravo regimental em agravo de instrumento. 2. Penhora de bem vinculada a cédula de crédito comercial. Matéria restrita ao âmbito da legislação infraconstitucional. Ofensa reflexa. Precedentes. 3. Agravo regimental a que se nega provimento.” (AI 524.840-AgR, rel. min. Gilmar Mendes, DJ de 03.02.2006.)
+Nesse sentido, AI 578.001 (rel. min. Cezar Peluso, DJ de 04.04.2006), AI 588.596 (rel. min. Sepúlveda Pertence, DJ de 27.04.2006), AI 522.843 (rel. min. Marco Aurélio, DJ de 21.03.2007), AI 576.734 (rel. min. Cármen Lúcia, DJe de 13.11.2007), entre outros.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 7 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
+1
