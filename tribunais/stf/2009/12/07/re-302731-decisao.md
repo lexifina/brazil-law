@@ -1,0 +1,14 @@
+DESPACHO : Trata-se de recurso extraordinário (art. 102, III, a e b da Constituição) interposto de acórdão prolatado pelo Tribunal Regional Federal da 1ª Região assim ementado:
+“TRIBUTÁRIO. CONTRIBUIÇÃO PARA A SEGURIDDE SOCIAL. VERBAS INDENIZATÓRIAS. INSTITUIÇÃO POR MEDIDA PROVISÓRIA. INCONSTITUCIONALIDADE. PRINCÍPIO DA ANTERIORIDADE.
+1. Esta Corte tem entendido ser inconstitucional a instituição de tributos através das medidas provisórias não convertidas em lei, dada a impossibilidade do cumprimento do prazo nonagesimal, pelo curto prazo de vigência das Medidas Provisórias (30 dias).
+2. A conversão da Medida Provisória nº 1.596, de 10/11/97, na Lei nº 9.258/97 tornou impossível, com a revogação do § 2º do art. 22 da Lei 8.212/91, a incidência de Contribuição social sobre verbas de caráter indenizatório.” (Fls. 95).
+Sustenta-se, em síntese, violação dos arts. 62, caput, 195, I e 201, § 4º da Constituição.
+Sucede que a controvertida declaração de inconstitucionalidade foi proferida por órgão fracionário do Tribunal de origem. Com efeito, o que em verdade pretende o recorrente é a revisão de uma decisão proferida no controle difuso de constitucionalidade, possível somente se o extraordinário estiver fundado na alínea b do inciso III do art. 102 da Constituição. De se notar que o cabimento do recurso nessa hipótese pressupõe a observância do procedimento preconizado pelo art. 97 da Carta Magna. Assim, o que poderia e deveria ter sido questionado com base na alínea a do permissivo constitucional - e, diga-se, não o foi - é se o procedimento adotado pelo acórdão recorrido observou o princípio da reserva de plenário, a que se refere o já citado dispositivo constitucional. É o que se extrai da jurisprudência da Corte:
+“EMENTA: AGRAVO REGIMENTAL. INCONSTITUCIONALIDADE DECLARADA POR ÓRGÃO FRACIONÁRIO DO TRIBUNAL A QUO. Caso em que a jurisprudência desta colenda Corte é firme no sentido de apenas admitir o recurso extraordinário com fundamento na alínea ‘a’ por violação ao art. 97 da Carta Magna. Precedente: RE 342.249-AgR, Relatora Ministra Ellen Gracie. Agravo regimental desprovido. ” (RE 254.977-AgR, rel. min. Carlos Britto)
+No mesmo sentido, os seguintes precedentes: AI 473.019 (rel. min. Sepúlveda Pertence), AI 467.694-AgR (rel. min. Gilmar Mendes) e RE 342.249-AgR (rel. min. Ellen Gracie).
+Por outro lado, o recurso extraordinário não atacou fundamento específico, consistente no juízo de ser “indevida a cobrança de contribuição social sobre as veras previdenciárias objeto desse mandamus, [pois] a conversão da indigitada medida provisória na Lei nº 9.528/97 tornou impossível tal exação com a revogação do referido § 2º do art. 22 da Lei 8.212/91” (Fls. 92).
+Ante o exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 07 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
