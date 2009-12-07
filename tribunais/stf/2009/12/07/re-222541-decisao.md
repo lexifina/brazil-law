@@ -1,0 +1,16 @@
+DECISÃO: União recorre da extensão a aposentados da Marinha dos efeitos financeiros de reposicionamento deferido ao pessoal da ativa em data anterior à Constituição de 1988.
+O acórdão recorrido, proferido pelo Superior Tribunal de Justiça em 10 de novembro de 1992, possui a seguinte ementa:
+“MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDORES CIVIS INATIVOS. REPOSICIONAMENTO QUE BENEFICIOU OS FUNCIONARIOS EM ATIVIDADE. REVISÃO DOS PROVENTOS. CONSTITUIÇÃO FEDERAL (ARTIGO 40) E ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITORIAS (ARTIGO 20). PRELIMINARES DE DECADENCIA E ILEGITIMIDADE PASSIVA, AMBAS REPELIDAS. SEGURANÇA CONCEDIDA.
+- Tratando-se de ato omissivo, no caso, não ha que falar em decadência do direito a impetração da segurança.
+- Afasta-se, igualmente, a ilegitimidade passiva, tendo em vista caber ao impetrado determinar o pagamento das vantagens devidas.
+- Configurada a omissão, com evidente prejuízo aos aposentados, cumpre assegurar a estes quaisquer benefícios ou vantagens posteriormente concedidas aos servidores da ativa.”
+A União aponta violação aos dispositivos constitucionais mencionados na ementa, alegando que só poderiam ser aplicados aos fatos ocorridos no período posterior à Constituição.
+As duas Turmas desta Corte já firmaram entendimento de que é indevida a extensão do reposicionamento em até doze referências com base no art. 40, § 4º (atual § 8º), conforme se extrai das seguintes decisões:
+“CONSTITUCIONAL. ADMINISTRATIVO. FUNCIONÁRIO. APOSENTADORIA. PROVENTOS: IGUALDADE COM OS VENCIMENTOS DO PESSOAL EM ATIVIDADE. C.F., art. 40, PAR. 4.. I. - As normas inscritas no PAR. 4. do art. 40 da Constituição, consistentes em três comandos distintos, não demandam normatização ulterior, vale dizer, são de aplicabilidade imediata. II. - Se o que houve foi mero reposicionamento dos cargos, com a progressão de servidores em referencia, o que não se confunde com reclassificação de cargos, não há invocar, em favor de servidores inativos, a extensão preconizada no PAR. 4. do art. 40 da Constituição. III. - Recurso não provido.” (RMS 21.665, rel. min. Carlos Velloso, Segunda Turma, DJ de 08.04.1994)
+“CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. REPOSICIONAMENTO DE SERVIDORES ATIVOS NO NÍVEL DA CARREIRA. EXTENSÃO AOS APOSENTADOS. IMPOSSIBILIDADE. 1. Não se encontra prequestionado o tema relativo à suposta ocorrência de prescrição da pretensão dos recorridos (Súmulas STF nº 282 e 356). 2. É inviável estender a servidores inativos as vantagens pecuniárias decorrentes de reposicionamento, na carreira, dos servidores da ativa, com fundamento no art. 40 § 4º (redação original) da CF/88. Precedentes: RMS 21.665, DJ de 08/04/1994 e RE 194.647, DJ de 03/04/1998. 3. Recurso extraordinário conhecido em parte e, nesta parte, provido”. (RE 323.857, rel. min. Ellen Gracie, Segunda Turma, DJ de 06.08.2004)
+Nesse sentido, confiram-se também: RE 194.647 (rel. min. Nelson Jobim, DJ de 03.04.1998); AI 443.381 (rel. min. Gilmar Mendes, DJ de 09.08.2005); RE 507.652 (rel. min. Cezar Peluso, DJe de 07.08.2009); RE 522.570-AgR (rel. min. Ricardo Lewandowski, Primeira Turma, DJe de 05.06.2009).
+Do exposto, com base no art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário.
+Publique-se.
+Brasília, 7 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
