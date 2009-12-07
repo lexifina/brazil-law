@@ -1,0 +1,15 @@
+DECISÃO : Trata-se de recurso extraordinário (art. 102, III, a e c da Constituição) interposto pelos contribuintes LISA DORA DE CASTRO LOPES, MARIA ANGELICA QUEIROZ BATISTA, MARIA APARECIDA DE ALMEIDA ALVES, MARLUCIA ALVES VIANA, RAIMUNDO ROCHA BRASA, SONIA REGINA DINIZ CESAR, WAGNER ALEXANDRE WANDERLEY DE MELO, WILMALICE S. DOS SANTOS MELO, MARCIA PEREIRA DO COUTO, MARCIA ELIZABETH SANTOS DE OLIVEIRA de acórdão prolatado Tribunal de Justiça do Distrito Federal e Territórios assim ementado:
+“DIREITO CONSTITUCIONAL, TRIBUTÁRIO E ADMINIS-TRATIVO. MAJORAÇÃO DE ALÍQUOTAS DE CONTRIBUI-ÇÕES PREVIDENCIÁRIAS DE SERVIDORES DO DISTRITO FEDERAL DE 6% PARA 11% ATRAVÉS DE MEDIDA PRO-VISÓRIA. INCONSTITUCIONALIDADE. A LEI Nº 260/92 NÃO É AUTO-APLICÁVEL. PEDIDO DE DEVOLUÇÃO DAS QUANTIAS PAGAS A MAIOR JULGADO PROCEDENTE. PROVIMENTO PARCIAL DA REMESSA PARA QUE O TERMO A QUO DA DEVOLUÇÃO SEJA 01.07.94.
+I - Como a Lei nº 260/92 depende de regulamentação, suspensos ficam sua obrigatoriedade e efeitos. Ademais, o § 5º do art. 193 da Constituição Federal deixa claro não ser possível a criação de benefícios previdenciários sem a respectiva fonte de custeio para mantê-los.
+II - As contribuições sociais, que possuem natureza tributária, obedecem às regras do regime jurídico tributário, aplicando-se-lhes, por conseguinte, as limitações ao poder de tributar.
+III - A Constituição Federal, em seu art. 150, I, estabelece o princípio da reserva legal como garantia constitucional contra o poder de tributar, impedindo a edição de medidas provisórias em matéria tributária, que apenas pode ser objeto de lei complementar ou lei ordinária.
+IV - A inidoneidade da medida provisória, com o fito de regular matéria tributária, exsurge, também, da incompatibilidade de sua natureza urgente, que produz efeitos imediatos, com a vacatio legis necessária, em regra, às normas tributárias, em virtude da aplicação do princípio da anterioridade, e, no caso, da anterioridade mitigada.
+V - Sendo inconstitucional a utilização de medida provisória para majorar a alíquota da contribuição previdenciária, por ser meio absolutamente inidôneo para tal, desnecessário o exame da validade de suas reedições.
+VI - A Lei nº 8.688/93 teve vigência até 30.06.94, portanto o termo a quo para a devolução das diferenças é 01.07.94, data esta que passou a ter validade a MP nº 560/94.” (Fls. 197).
+Sustenta-se, em síntese, violação dos arts. 32, 149, par. ún., 150, I e 195, § 6º da Constituição, na medida em que o Tribunal de origem não poderia ter utilizado a Lei federal 8.688/1993 para suprir lacuna aplicável aos servidores do Distrito Federal (“autonomia política e administrativo do ente federado” – fls. 253), na medida em que havia norma local para regulamentar a matéria.
+A matéria não foi versada no acórdão recorrido. As partes-recorrentes, por seu turno, também não interpuseram recurso de embargos de declaração, com o objetivo de prequestionar a matéria. Ante o exposto, aplica-se a orientação consolidada nas Súmulas 282 e 356/STF.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 07 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
