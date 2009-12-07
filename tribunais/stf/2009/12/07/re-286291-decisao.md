@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto pela União de acórdão de Tribunal Regional Federal assim ementado:
+“TRIBUTÁRIO E PROCESSUAL CIVIL – IMPOSTO SOBRE ENERGIA ELÉTRICA – INSTITUTOS DE EDUCAÇÃO – ISENÇÃO – ART. 150, VI, LETRA ‘C’ DA CONSTITUIÇÃO FEDERAL – ART.20, § 4°DO CÓDIGO DE PROCESSO CIVIL.
+I – Não bastasse o art. 150, VI, ‘c’ da Constituição Federal dispor quanto a estar a União Federal limitada em seu poder de tributar as ‘instituições de educação’, e o Ato n° 354 do Delegado da Receita Federal no Rio de Janeiro isto o declara.
+II – O § 4°do art. 20 do Código de Processo Civil dispõe que os honorários devem ser fixados de forma compatível com o desgaste ou esforço despendido pela parte.” (fls. 138)
+A recorrente, sustentando violação do disposto nos arts. 5°, LV, e 150, VI, c, da Carta Magna, alega preliminarmente que haveria nulidade processual em razão da ausência de intimação pessoal de seu procurador, conforme o disposto no arts. 38 da Lei Complementar federal 73/1993 e 247 do Código de Processo Civil. No mérito, sustenta que a recorrida não teria direito à imunidade em relação ao extinto Imposto Único sobre Energia Elétrica – IUEE, pois referida exação não incidiria sobre patrimônio, rendas e serviços da entidade.
+A alegada ofensa ao art. 5, LV, da Constituição, na forma em que foi formulada pela recorrente, é indireta ou reflexa, pois demanda o prévio exame da legislação infraconstitucional que disciplina a prática de atos processuais. Trata-se, portanto, de matéria que só poderia ser apreciada na via própria do recurso especial, perante o Superior Tribunal de Justiça.
+Ademais, observo que a alegada ofensa ao art. 150, VI, c, da Constituição, por suposta interpretação extensiva de suas hipóteses de incidência, é questão estranha à controvérsia, versada originalmente nos embargos de declaração. Incide, no caso, o óbice das Súmulas 282 e 356 desta Corte. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ de 15.09.2000), cujo acórdão ficou assim ementado:
+“- Não tem razão a agravante. Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento.
+Agravo a que se nega provimento.”
+Do exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 7 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
