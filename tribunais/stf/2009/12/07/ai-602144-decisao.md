@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI. 1. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. 2. INEXISTINDO O DIREITO AO CREDITAMENTO DO IPI INCIDENTE SOBRE OS INSUMOS DE PRODUTOS ISENTOS É INÓCUA A DISCUSSÃO SOBRE A PRESCRIÇÃO E A CORREÇÃO MONETÁRIA DESTE SUPOSTO CRÉDITO TRIBUTÁRIO. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“TRIBUTÁRIO. IPI. PRODUTO ISENTO, NÃO-TRIBUTADO OU COM ALÍQUOTA ZERO. CREDITAMENTO. APROVEITAMENTO. PRESCRIÇÃO. CORREÇÃO MONETÁRIA. 1. Correção monetária da data da negativa do aproveitamento até o trânsito em julgado da ação, porquanto não se trata, no caso, de créditos escriturais, mas de valores que decorrem de reconhecimento judicial e que só poderão ser lançados contabilmente e aproveitados após o trânsito em julgado. 2. Não se discutindo, no caso, pagamento indevido ou a maior, mas apenas de aproveitamento de crédito decorrente da observância do princípio da não-cumulatividade, a prescrição a ser aproveitada é quinquenal. 3. Precedente da 1ª Seção desta Corte” (fl. 87).
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fl. 156).
+3. A Agravante alega que o Tribunal a quo teria contrariado o art. 153, § 3º, inc. II, da Constituição da República.
+Argumenta que “a matéria em debate é constitucional, posto que está se discutindo a não cumulatividade do IPI, inserta no art. 153, parágrafo 3º, II, da CRFB/88” (fl. 3).
+Sustenta que “o prazo de aproveitamento de créditos de IPI decorrentes da ampla interpretação do art. 153, parágrafo 3º, II, da CRFB/88 deve guardar compatibilidade com o próprio dispositivo constitucional, razão pela qual para que não ocorra a violação a integridade do comando constitucional, deve o mesmo guardar paridade com o prazo aplicado aos tributos por homologação de forma geral pelo Judiciário” (fl. 4).
+Apreciada a matéria trazida na espécie, DECIDO .
+4. Razão jurídica não assiste à Agravante.
+5. O Tribunal de origem assentou que:
+“como não se está a tratar de pagamento indevido ou a maior, mas apenas de reconhecer o aproveitamento de crédito advindo da regra constitucional da não-cumulatividade, é inaplicável o disposto no art. 167 do CTN, que deve ceder passo ao Decreto-Lei n. 20.910/32, c/c o Decreto-Lei n. 4.597/42” (fl. 84).
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria a análise prévia de legislação infraconstitucional aplicável à espécie (Decreto n. 20.910/32 e Decreto-lei n. 4.597/42). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido, os seguintes julgados:
+“Agravo regimental em agravo de instrumento. 2. Recurso que não demonstra o desacerto da decisão agravada. 3.Prazo prescricional. Termo inicial. Legislação infraconstitucional. Ofensa reflexa à CF/88. Precedentes. 4. Decisão devidamente fundamentada. 5. Agravo regimental a que se nega provimento (AI 565.634-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 1º.9.2006).
+E:
+“RECURSO - ADEQUAÇÃO - DISCIPLINA. A definição do recurso cabível não possui estatura constitucional, exaurindo-se a jurisdição sem o acesso ao Supremo Tribunal Federal. PRESCRIÇÃO - DISCIPLINA. A controvérsia sobre a incidência, ou não, da prescrição, cinge-se ao campo legal, descabendo concluir pela violência à Constituição Federal. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (AI 430.992-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJ 27.8.2004).
+Correta, portanto, a decisão agravada que acolhe a jurisprudência do Supremo Tribunal sobre a matéria.
+6. Além disso, na espécie vertente, trata-se de ação proposta para o reconhecimento do direito ao creditamento do Imposto sobre Produtos Industrializado – IPI incidente sobre matérias primas utilizadas em produtos isentos, não tributados ou tributados à alíquota zero, entre dezembro de 1989 e dezembro de 1998.
+O Tribunal Regional Federal da 4ª Região reconheceu o direito da Agravante ao creditamento do IPI na saída do produto tributado e assegurou “a incidência de correção monetária nos créditos gerados nos anos anteriores ao ajuizamento da ação” (fl. 86).
+Contra essa decisão foram interpostos recursos extraordinários pela União e pela ora Agravante, ambos inadmitidos na origem (fls. 154-155). Interpostos agravos de instrumentos, vieram-me conclusos por prevenção (AI 602.144 e 602.253 (fl. 163).
+7. Em 7 de dezembro de 2009, dei provimento ao agravo de instrumento 602.253, interposto pela União, pois no julgamento do Recurso Extraordinário 475.551, do qual fui Redatora para o acórdão, DJe 13.11.2009, o Plenário do Supremo Tribunal Federal firmou o entendimento no sentido de que a Constituição não confere o direito ao creditamento do IPI aos contribuintes adquirentes de insumos ou matérias-primas tributados e utilizados na industrialização de produtos cuja saída do estabelecimento industrial é isenta, não tributada ou sujeita à alíquota zero.
+Afastado o direito do contribuinte do IPI de creditar-se do valor do tributo na fabricação de produtos isentos, não tributados ou sujeitos à alíquota zero, nada há a prover quanto ao prazo prescricional de creditamento e à correção monetária sobre os referidos créditos, em razão do caráter acessório dessas questões.
+8. Nada há, pois, a prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 7 de dezembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
