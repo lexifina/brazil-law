@@ -1,0 +1,10 @@
+DECISÃO : Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que teve a seguinte ementa:
+“Servidores apostilados.Vantagem funcional. Gratificação de comissionamento. Prescrição qüinqüenal Relações jurídicas de trato sucessivo. Não caracterização. Extinção do próprio fundo de direito. Direito não pleiteado em tempo hábil. Tendo sido pelo Estado negado o direito em si, que afirmamos Apelados possuírem, a perceber a gratificação de comissionamento, caracteriza-se a prescrição, se o direito de impugnar aquele ato e reclamar demais direitos decorrentes não foi exercido no prazo qüinqüenal. Negativa ao direito caracterizada pela lei que extinguiu a gratificação de comissionamento, contando-se a partir da edição da mesma o prazo.” (fls. 168)
+Sustenta a parte agravante violação do disposto no artigo 5º, XXXVI, da Constituição. Afirma, em síntese, que não ocorreu a prescrição do fundo do direito pleiteado, mas apenas das parcelas da obrigação de trato sucessivo.
+Não prospera o recurso.
+O Tribunal a quo, analisando as provas dos autos, concluiu que “(...) o prazo prescricional se iniciou a partir do momento em que a gratificação de Comissionamento não mais se fez presente nos vencimentos dos Apelados, vindo a findar exatamente cinco anos depois, no ano de 1998, conforme legislação administrativa pátria.Tendo os apelados manejado a presente ação somente no ano de 2000, fizeram-no fora do prazo prescricional, o que demanda a extinção do processo” (fls. 170). Ora, resta claro que uma eventual modificação desse entendimento implica, necessariamente, o reexame da legislação infraconstitucional que disciplina a prescrição e, também dos fatos e provas que fundamentaram as conclusões do acórdão recorrido. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 7 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
