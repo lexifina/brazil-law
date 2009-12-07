@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto de decisão do Primeiro Tribunal de Alçada Civil do Estado de São Paulo cuja ementa tem o seguinte teor:
+“HIPOTECA – Sistema Financeiro da Habitação – Garantia em favor do financiador da construtora – Promitente comprador da unidade que pagou integralmente o preço não é atingido pelo ônus real – Cláusula abusiva de autorização do gravame na promessa de compra e venda – Dívida e inadimplemento da construtora, não do promitente comprador – Negligência do credor hipotecário que não adverte os promitentes compradores das dificuldades financeiras da construtora e não torna efetiva a cessão fiduciária do direito creditório avençada – Demanda relativa a contrato bancário de financiamento da edificação – Honorários advocatícios arbitrados segundo prudente apreciação eqüitativa – Ação de desconstituição da hipoteca procedente – Agravo retido dos autores improvido – Apelações do banco réu improvida e dos autores provida em parte.” (Fls. 164)
+No recurso extraordinário, a parte ora agravante alega violação do disposto nos arts. 3º, II; 5º, II, e 6º da Constituição federal. Argumenta, em síntese, a prevalência da hipoteca constituída antes da celebração dos contratos de promessa de compra e venda.
+Decido.
+Sem razão a parte agravante.
+Em casos idênticos ao presente, a Corte concluiu que eventual violação ao texto constitucional demandaria o exame prévio da legislação infraconstitucional e das cláusulas contratuais, de modo que se trata de alegação de violação indireta ou reflexa da Constituição. É o que se observa nos seguintes julgados:
+“EMENTA: DIREITO CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. INCORPORAÇÃO E CONSTRUÇÃO DE PRÉDIO RESIDENCIAL MEDIANTE FINANCIAMENTO GARANTIDO POR HIPOTECA. ACÓRDÃO QUE CONSIDEROU AS RESPECTIVAS UNIDADES HABITACIONAIS IMUNES AOS EFEITOS DA GARANTIA, EM FACE DO DISPOSTO NAS LEIS N.°S 8.009/90 E 4.864/64 E DO PRINCÍPIO DA BOA-FÉ. ALEGADA OFENSA AOS PRINCÍPIOS DA LEGALIDADE E DO ATO JURÍDICO PERFEITO.
+O recurso, pela alegação de ofensa ao princípio da legalidade, seria de ser provido, em face do último fundamento do acórdão que, no ponto, estaria a impor ao credor hipotecário obrigação não prevista em lei, ou seja, a de abster-se de exercitar o direito de seqüela que constitui o principal atributo da hipoteca.
+Irresignação, todavia, insuscetível de ser apreciada, quanto ao mais, pelo STF, na via do recurso extraordinário, tendo em vista não apenas o óbice da Súmula 454, mas também a circunstância de que eventual contrariedade à Constituição teria ocorrido, no caso, de forma reflexa e indireta, não ensejando o apelo extremo.
+Recurso não conhecido.” (RE 354.257, rel. min. Ilmar Galvão, DJ de 21.02.2003.)
+“EMENTA: Agravo regimental em agravo de instrumento. 2. Penhora de bem vinculada a cédula de crédito comercial. Matéria restrita ao âmbito da legislação infraconstitucional. Ofensa reflexa. Precedentes. 3. Agravo regimental a que se nega provimento.” (AI 524.840-AgR, rel. min. Gilmar Mendes, DJ de 03.02.2006.)
+Nesse sentido: AI 538.332 (rel. min. Sepúlveda Pertence, DJ de 05.05.2005), AI 578.001 (rel. min. Cezar Peluso, DJ de 04.04.2006), AI 588.596 (rel. min. Sepúlveda Pertence, DJ de 27.04.2006), AI 522.843 (rel. min. Marco Aurélio, DJ de 21.03.2007), AI 576.734 (rel. min. Cármen Lúcia, DJe de 13.11.2007), AI 426.381 (minha relatoria, DJ de 10.10.2005), entre outros.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 7 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
