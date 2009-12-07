@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, em que se alega ofensa ao art. 40, § 5º, da Constituição.
+O acórdão recorrido está assim ementado:
+“Servidor Público Estadual – Pensão por morte – Totalidade dos vencimentos ou proventos do servidor falecido – Jurisprudência pacífica da Suprema Corte nesse sentido – Ação procedente – Recursos improvidos.” (fls. 107)
+O Supremo Tribunal Federal já firmou entendimento desde o julgamento dos mandados de injunção nºs 211 e 263 de que o § 5º (renumerado pela EC nº 20/98 como § 7º) do art. 40 da Constituição Federal é auto-aplicável, correspondendo à pensão por morte do servidor civil ou militar à totalidade da remuneração do servidor falecido, observados os limites de remuneração dos servidores em geral, na forma do art. 37, inciso XI, da Carta Magna e o disposto no § 4º do art. 40 (renumerado pela EC nº 20/98, como § 8º), que determina que os proventos da aposentadoria serão revistos, na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos aposentados e aos pensionistas quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão, na forma da lei.
+Em sentido semelhante, o RE 593.926-AgR (rel. min. Eros Grau, DJe de 24.04.2009); RE 160969 (rel. min. Celso de Mello, DJ de 23.05.1997) e RE 204.313 (rel. min. Marco Aurélio, DJ de 26.09.1997), este último assim ementado:
+“PENSÃO - LIMITE. A norma inserta na Constituição Federal sobre o cálculo de pensão, levando-se em conta a totalidade dos vencimentos ou proventos do servidor falecido, tem aplicação imediata, não dependendo, assim, de regulamentação. A expressão contida no § 5º do artigo 40 do Diploma Maior (‘até o limite estabelecido em lei’) refere-se aos tetos também impostos aos proventos e vencimentos dos servidores. Longe está de revelar permissão a que o legislador ordinário limite o valor da pensão. Precedente: agravo regimental no mandado de injunção nº 274-6/DF, em que funcionei como Relator, cujo acórdão foi publicado em 3 de dezembro de 1993.”
+Dessas orientações não divergiu o acórdão recorrido.
+ Em face do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 7 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
