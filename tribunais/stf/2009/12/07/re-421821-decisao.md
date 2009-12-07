@@ -1,0 +1,17 @@
+DECISÃO : Trata-se de recurso extraordinário (art. 102, III, a da Constituição) interposto de acórdão prolatado pelo Tribunal Regional Federal da 1ª Região assim ementado:
+“CONSTITUCIONAL E TRIBUTÁRIO. MEDIDA PROVISÓRIA 517 E REEDIÇÕES. LEI 9.701/98 ADEQUAÇÃO COM O TEXTO DA ADCT. INOCORRÊNCIA DE VIOLAÇÃO DO ART. 246 DA CONSTITUIÇÃO E 73 DO ADCT.
+1. A eficácia do art. 72, V, do ADCT, que trata da incidência do PIS, para fins da composição do Fundo Social de Emergência, foi assegurada pela legislação pré-existente do IR, que já consagrava a definição de receita bruta operacional em dispositivos legais (Lei 4.506/64, art. 44) e Decreto-Lei 1.598/77, art. 12) e regulamentares (Decreto 1.041/94, art. 226, caput e parágrafos).
+2. Em face da legislação mencionada, a Medida Provisória 517 e reedições, convertida a última na Lei 9.701/98, não modificaram a base de cálculo do PIS, tal como prevista no art. 72, V, do ADCT, não se lhes aplicando, destarte, a proibição constante do art. 246 da Carta Constitucional e 73 do ADCT.
+3. Apelação e Remessa Oficial providas.
+4. Invertido o ônus de sucumbência.” (Fls. 96).
+Sustenta-se, em síntese, violação do princípio da hierarquia das leis (art. 146, III, a da Constituição), impossibilidade de modificação da estrutura da Contribuição ao PIS (art. 239 da Constituição), contrariedade à regra da anterioridade (art. 195, § 6º da Constituição) e inadmissibilidade do uso de medida provisória (art. 246 da Constituição e 73 do ADCT).
+Em relação à alegada violação do art. 146, III, a da Constituição, a matéria não foi debatida pelo Tribunal de origem e também não foi objeto do necessário recurso de embargos de declaração. Aplica-se ao caso a orientação firmada nas Súmulas/STF 282 e 356.
+Quanto ao uso de medida provisória para regular matéria que foi objeto de emenda constitucional (art. 246 da Constituição) e para modificar a estrutura da Contribuição ao PIS, observo que esta Corte já firmou precedentes no sentido da possibilidade de utilização do instrumento normativo para dispor sobre a Contribuição ao PIS (cf., e.g., o RE 493.344-EDcl, rel. min. Joaquim Barbosa, Segunda Turma, DJe 241 PUBLIC 19.12.2008 e a ADI 1.417, rel. min. Octavio Gallotti, Pleno, DJ de 23.03.2001). Assim, é necessário distinguir entre (a) a adoção de medida provisória para regular o Fundo Social de Emergência (art. 246 da Constituição e art. 73 do ADCT) e a adoção de medida provisória para instituir ou aumentar tributo (cf., e.g., o RE 433.077, rel. min. Cármen Lúcia, DJe 178 PUBLIC 22.09.2009).
+Dessas orientações não divergiu o acórdão recorrido.
+Por fim, no que se refere à regra da anterioridade nonagesimal, especial ou mitigada (art. 195, § 6º da Constituição), o acórdão recorrido não discrepa da orientação firmada pela Segunda Turma do Supremo Tribunal Federal, como se lê na seguinte ementa:
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. PIS. EC 17/97. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL. O termo "a quo" do prazo de anterioridade previsto no art. 195, § 6º, da CB/88 flui da data da publicação da medida provisória, que não perde a eficácia, se não convertida em lei, mas editado outro provimento da mesma espécie, dentro do prazo de validade de trinta dias. Precedentes. Agravo regimental a que se nega provimento.” (RE 595.673-AgR, rel. min. Eros Grau, Segunda Turma, DJe 148 PUBLIC 07.08.2009).
+Ante o exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 07 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
