@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PREVIDENCIÁRIO. ART. 25 DA LEI N. 8.212/91. EMPREGADOR RURAL PESSOA FÍSICA. ALEGAÇÃO DE INCONSTITUCIONALIDADE DA CONTRIBUIÇÃO À SEGURIDADE SOCIAL INCIDENTE SOBRE A RECEITA BRUTA PROVENIENTE DA COMERCIALIZAÇÃO DA PRODUÇÃO. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL RECONHECIDA NO RECURSO EXTRAORDINÁRIO 596.177. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Relatório
+1. Recursos extraordinários interpostos com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDENTE SOBRE A PRODUÇÃO AGRÍCOLA. FUNRURAL. RECEPÇÃO PELA CONSTITUIÇÃO FEDERAL DE 1988. EMPREGADOR RURAL. LEIS NºS 8.212/91, 8.540/92 E 8.870/94.
+No regime da Lei Complementar nº 11/71, a previdência dos trabalhadores rurais era custeada por duas modalidades de contribuição ao FUNRURAL, quais sejam, a devida pelos produtores rurais, incidente sobre o valor comercial dos produtos rurais (Lei Complementar 11/71, art. 15, I, c/c Lei 6.195/74, art. 5º), e a devida pelas empresas vinculadas à previdência social urbana, incidente sobre a folha de salários (Lei Complementar 11/71, art. 15, II).
+A Lei nº 7.787/89 extinguiu a contribuição das empresas urbanas sobre a folha de salários em favor dos trabalhadores rurais, mas não a incidente sobre a comercialização de produtos rurais, que foi recepcionada pela Constituição de 1988 e permaneceu exigível com advento da Lei nº 8.212/91.
+A nova lei apenas reduziu o campo de abrangência das contribuições sobre o resultado da produção rural, limitando-a aos produtores que desenvolviam a atividade sem empregados, denominados de segurados especiais. Com o advento das Leis 8.540/92 e 8.870/94, foi alargada a base de incidência das contribuições sobre a produção rural, sendo extensível aos produtores empregadores - pessoas físicas e jurídicas - que ficaram desonerados da contribuição sobre a folha de salários de seus empregados” (fl. 356 – grifos nossos).
+2. A Recorrente sustenta que a instituição de Contribuição à Seguridade Social incidente sobre a receita bruta da comercialização da produção do empregador rural pessoa física (arts. 12, inc. V, alínea a, e 25 da Lei n. 8.212/91) ofenderia os arts. 150, inc. II, 154, inc. I, 195, inc. I e §§ 4º e 8º, da Constituição da República.
+Assevera que:
+“O § 8º do art. 195 da Constituição Federal prevê que a Contribuição à Seguridade Social é devida apenas pelo produtor rural que exerça atividades em regime de economia familiar, não alcançando os produtores rurais empregadores.
+(...)
+Não obstante a Constituição Federal tenha contemplado apenas aos segurados especiais o dever de contribuir, tendo como base de cálculo o resultado da comercialização de sua produção, a Lei n. 8.212/91, com redação original dada pela Lei n. 8.540/92, mantida pela Lei n. 9.528/97, inovou ao acrescentar os empregadores rurais pessoas físicas com o auxílio de empregados.
+(...)
+Porém, da leitura do dispositivo constitucional mencionado acima, já se viu que efetivamente não podem ser exigidas contribuições sociais sobre o resultado da comercialização da produção, a não ser que o produtor se encontre em regime de economia familiar ou trabalhe individualmente. E então, diante da impossibilidade de se contribuir de outra maneira, já que, por não possuir empregados, não lhe caberia contribuir sobre folha de salários, e ainda, não haveria que se falar em faturamento ou lucro” (fls. 370-373 – grifos nossos).
+Analisados os elementos havidos nos autos, DECIDO.
+3. No julgamento eletrônico do Recurso Extraordinário 596.177, Relator o Ministro Ricardo Lewandowski, DJe 9.10.2009, o Supremo Tribunal Federal reconheceu a existência de repercussão geral da questão constitucional discutida nestes autos, nos seguintes termos:
+“CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL PREVIDENCIÁRIA. EMPREGADOR RURAL PESSOA FÍSICA. INCIDÊNCIA SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO. ART. 25 DA LEI 8.212/91, NA REDAÇÃO DADA A PARTIR DA LEI 8.540/92. RE 363.852/MG, REL. MIN. MARCO AURÉLIO, QUE TRATA DA MESMA MATÉRIA E CUJO JULGAMENTO JÁ FOI INICIADO PELO PLENÁRIO. EXISTÊNCIA DE REPERCUSSÃO GERAL”.
+Reconhecida a repercussão geral do tema, os autos deverão retornar à origem para aguardar o julgamento do mérito e, após a decisão, observar o disposto no art. 543-B do Código de Processo Civil.
+4. No julgamento do Recurso Extraordinário 540.410, Relator o Ministro Cezar Peluso, DJe 17.10.2008, o Supremo Tribunal Federal resolveu questão de ordem no sentido de que o art. 543-B do Código de Processo Civil também se aplica aos recursos extraordinários interpostos contra julgados publicados antes de 3.5.2007, como na espécie vertente.
+5. Pelo exposto, determino a devolução destes autos ao Tribunal a quo para que seja observado o art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+Publique-se.
+Brasília, 9 de dezembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
