@@ -1,0 +1,20 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao recurso extraordinário nos seguintes termos:
+“Trata-se de recurso extraordinário interposto contra acórdão que entendeu pela legitimidade do cálculo do adicional de insalubridade de servidora pública municipal com base no salário mínimo, nos termos do art. 86, II, da Lei 2.663/98 do Município de Viamão/RS.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 7º, IV, da mesma Carta. Sustentou-se, em suma, que a base de cálculo do adicional de insalubridade fosse calculada sobre a totalidade da remuneração.
+A pretensão recursal não merece acolhida. Isso porque na Sessão Plenária de 30/4/2008, esta Corte aprovou a Súmula Vinculante 4, in verbis:
+‘Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial’.
+No entanto, naquela mesma Sessão, no julgamento do RE 565.714-RG/SP, Rel. Min. Cármen Lúcia, o Plenário entendeu que o adicional de insalubridade não pode ser calculado sobre o total da remuneração dos servidores, uma vez que ‘não cabe ao Poder Judiciário atuar como legislador positivo para substituir os critérios legais de cálculo’ (Informativo 510).
+Concluiu-se, assim, pela manutenção da base de cálculo estabelecida na LC 432/85 até que nova lei seja editada.
+Nesse mesmo sentido deve-se concluir quanto à manutenção da base de cálculo estabelecida na Lei 2.663/98 do Município de Viamão/RS.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput)” (fls. 215-216).
+A agravante sustenta, em suma, a necessidade de reforma da decisão.
+Bem reexaminada a questão, verifica-se que a decisão não merece reforma, visto que a parte recorrente não aduz novos argumentos capazes de afastar as razões expendidas na decisão ora atacada, que deve ser mantida por seus próprios fundamentos.
+Conforme assentado na decisão agravada, este Tribunal, no julgamento do RE 565.714/SP, Rel. Min. Cármen Lúcia, firmou entendimento no sentido de que as normas infraconstitucionais que utilizam o salário mínimo como indexador de base de cálculo do adicional de insalubridade violam o art. 7º, IV, da Constituição.
+Naquele julgamento, ficou consignado, ainda, que é defeso ao Judiciário, que não tem função típica legislativa, estabelecer novos parâmetros para base de cálculo do adicional de insalubridade.
+Assim, tendo em vista a impossibilidade de o Poder Judiciário atuar como legislador positivo, apesar de reconhecida a inconstitucionalidade da vinculação do adicional de insalubridade ao salário mínimo, essa base de cálculo deve ser mantida até que seja editada nova lei que discipline o assunto.
+No mesmo sentido, as seguintes decisões, entre outras: AI 469.332-AgR/SP e RE 488.240-AgR/ES, Rel. Min. Ellen Gracie; RE 585.483-AgR-ED-ED/RS, Rel. Min. Eros Grau; RE 452.445-AgR/ES, Rel. Min. Joaquim Barbosa; AI 610.243-AgR/ES, Rel. Min. Marco Aurélio.
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 9 de dezembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
