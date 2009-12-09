@@ -1,0 +1,12 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão do Tribunal Regional Federal da 2ª Região que decidiu a respeito da exigibilidade da Taxa de Saúde Suplementar.
+A recorrente, com base no art. 102, III, a, alega violação ao disposto nos arts. 5º, II, 145, II e §2º, 146, III, a, 150, I e III, b, 154, I, e 199, da Constituição Federal.
+2.  Inadmissível o recurso.
+ É que o acórdão impugnado decidiu a causa com base em interpretação de legislação infraconstitucional, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta.
+ Ora, é pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+ É o que já notou esta Corte em caso análogo:
+“Trata-se de agravo contra decisão que negou processamento a recurso extraordinário fundado no art. 102, III, ‘a’, da Constituição Federal, no qual se discute a exigibilidade da Taxa de Saúde Suplementar, instituída pela Lei nº. 9.961, de 28 de janeiro de 2000. Alega-se violação ao artigo 145, § 2o, da Carta Magna. O Subprocurador-Geral da República, Roberto Monteiro Gurgel Santos, em parecer de fls. 72-76, opina pelo desprovimento do agravo. A controvérsia está restrita ao âmbito da legislação infraconstitucional. A ofensa à Constituição Federal, se existente, seria reflexa. Nesse sentido, o AgRAI 491.961, 1ª T., Rel. Eros Grau, DJ 13.05.05, assim ementado: ‘EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. OFENSA INDIRETA. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento.’ Assim, nego seguimento ao agravo (art. 557, caput, do CPC)” (AI nº 496.550, Rel. Min. GILMAR MENDES, DJ de 16.8.2005. No mesmo sentido: AI nº 505.636, Rel. Min. CÁRMEN LÚCIA, 1ª Turma, DJ de 26.06.2009; RE nº 524.336, Rel. Min. ELLEN GRACIE, 2ª Turma, DJ de 06.03.2009; RE nº 430.267, Rel. Min. EROS GRAU, 2ª Turma, DJ de 06.06.2008; AI nº 660.203, Rel. Min. GILMAR MENDES, 2ª Turma, DJ de 07.03.2008; AI nº 496.550, Rel. Min. GILMAR MENDES, 2ª Turma, DJ de 19.10.2007).
+3.  Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+ Brasília, 9 de dezembro de 2009.
+Ministro CEZAR PELUSO
+Relator
