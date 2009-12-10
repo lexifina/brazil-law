@@ -1,0 +1,20 @@
+Trata-se de agravo regimental interposto contra decisão que, em 25/8/2009, negou seguimento ao agravo de instrumento. Este o teor do julgado atacado:
+“Trata-se de agravo de instrumento interposto contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido entendeu pela obrigatoriedade no fornecimento, pelo agravante, de prótese total de quadril com vista à realização de cirurgia na agravada.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, XXXVI, da mesma Carta.
+O agravo não merece acolhida. É que a apreciação do RE demanda o exame de legislação infraconstitucional aplicável à espécie, de cláusulas contratuais e do conjunto fático-probatório constante nos autos. Assim, a alegada afronta à Constituição, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incidem, na espécie, as Súmulas 279 e 454 deste Supremo Tribunal. Nesse sentido: AI 758.904/RS e AI 630.839/SP, Rel. Min. Cármen Lúcia; RE 577.165/RS, Rel. Min. Cezar Peluso.
+Isso posto, nego seguimento ao recurso” (fl. 196).
+O agravante sustentou, em suma, a necessidade de sobrestar este feito até o julgamento do RE 578.801, Rel. Min. Cármen Lúcia, cuja repercussão geral da matéria foi reconhecida por esta Corte.
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que o recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Isso porque, o Tribunal de origem manteve por seus próprios e jurídicos fundamentos decisão que julgou a causa nos seguintes termos:
+“A autora não colocou um quadril novo, mas sim uma prótese meio de forma a permitir a cirurgia e, na verdade, o quadril da autora permaneceu o mesmo sem qualquer alteração estética. A prótese é funcional e não estética, necessária para a realização da cirurgia, nos termos da própria recomendação médica. O que o contrato exclui da cobertura é a prótese estética. Aliás, trata-se de contrato de adesão, cujas cláusulas foram impressas unilateralmente pela ré e as cláusulas obscuras devem ser interpretadas em favor do contratante aderente” (grifos meus – fl. 50).
+Assim, a alegação da repercussão geral reconhecida no RE 578.801, Rel. Min. Cármen Lúcia, não se adéqua ao caso, pois a apreciação do RE demanda necessariamente a análise de cláusulas contratuais. N ão se excogita, neste passo, a existência de repercussão geral, que só convém a questões constitucionais.
+Além disso, a apreciação dos temas constitucionais depende do exame de legislação ordinária, no caso, o Código de Defesa do Consumidor - CDC. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, anote-se: AI 763.364/RJ, Rel. Min. Cármen Lúcia.
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 10 de dezembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
