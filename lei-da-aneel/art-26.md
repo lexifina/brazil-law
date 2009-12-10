@@ -1,7 +1,7 @@
 Art. 26. Cabe ao Poder Concedente, diretamente ou mediante delegação à ANEEL, autorizar:
 I - o aproveitamento de potencial hidráulico de potência superior a 1.000 kW e igual ou inferior a 30.000 kW, destinado a produção independente ou autoprodução, mantidas as características de pequena central hidrelétrica;
 II - a compra e venda de energia elétrica, por agente comercializador;
-III - a importação e exportação de energia elétrica, bem como a implantação dos respectivos sistemas de transmissão associados;
+III - a importação e exportação de energia elétrica, bem como a implantação das respectivas instalações de transmissão associadas, ressalvado o disposto no § 6º do art. 17 da Lei nº 9.074, de 7 de julho de 1995;
 IV - a comercialização, eventual e temporária, pelos autoprodutores, de seus excedentes de energia elétrica.
 V - os acréscimos de capacidade de geração, objetivando o aproveitamento ótimo do potencial hidráulico.
 VI - o aproveitamento de potencial hidráulico de potência superior a 1.000 (mil) kW e igual ou inferior a 50.000 (cinquenta mil) kW, destinado à produção independente ou autoprodução, independentemente de ter ou não características de pequena central hidrelétrica.

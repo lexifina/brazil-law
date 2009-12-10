@@ -16,7 +16,8 @@ XV - promover processos licitatórios para atendimento às necessidades do merca
 XVI - homologar as receitas dos agentes de geração na contratação regulada e as tarifas a serem pagas pelas concessionárias, permissionárias ou autorizadas de distribuição de energia elétrica, observados os resultados dos processos licitatórios referidos no inciso XV do caput deste artigo;
 XVII - estabelecer mecanismos de regulação e fiscalização para garantir o atendimento à totalidade do mercado de cada agente de distribuição e de comercialização de energia elétrica, bem como à carga dos consumidores que tenham exercido a opção prevista nos arts. 15 e 16 da Lei nº 9.074, de 7 de julho de 1995;
 XVIII - definir as tarifas de uso dos sistemas de transmissão e distribuição, sendo que as de transmissão devem ser baseadas nas seguintes diretrizes:
-a) assegurar arrecadação de recursos suficientes para cobertura dos custos dos sistemas de transmissão; e
+a) assegurar arrecadação de recursos suficientes para a cobertura dos custos dos sistemas de transmissão, inclusive das interligações internacionais conectadas à rede básica;
 b) utilizar sinal locacional visando a assegurar maiores encargos para os agentes que mais onerem o sistema de transmissão;
 XIX - regular o serviço concedido, permitido e autorizado e fiscalizar permanentemente sua prestação.
+XX - definir adicional de tarifas de uso específico das instalações de interligações internacionais para exportação e importação de energia elétrica, visando à modicidade tarifária dos usuários do sistema de transmissão ou distribuição.
 Parágrafo único. No exercício da competência prevista nos incisos VIII e IX, a ANEEL deverá articular-se com a Secretaria de Direito Econômico do Ministério da Justiça.
