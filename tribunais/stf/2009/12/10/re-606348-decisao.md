@@ -1,0 +1,15 @@
+DECISÃO
+Vistos.
+O Ministério Público do Estado do Rio Grande do Sul interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Sexta Câmara Criminal do Tribunal de Justiça estadual, assim ementado:
+“EXECUÇÃO PENAL. FALTA GRAVE. BRIGA NA PRISÃO. PRESO CUMPRINDO PENA EM REGIME FECHADO. HIPÓTESE EM QUE SE DARIA REGRESSÃO DO REGIME. RETIFICAÇÃO DA DATA-BASE. IMPOSSIBILIDADE POR NÃO EXISTIR NOVA CONDENAÇÃO. REMIÇÃO. ART. 127 DA LEI DE EXECUÇÃO PENAL. INAPLICABILIDADE POR INCOMPATIBILIDADE MATERIAL COM A CONSTITUIÇÃO FEDERAL DE 1988. A perda da remição afronta a Constituição Federal no que tange ao direito social ao trabalho, o princípio da proporcionalidade e da isonomia, bem como afeta direito adquirido do apenado. Não incidência da regra do art. 127 da LEP, vez que não recepcionado pela CF/88. Precedentes deste Colegiado. Agravo provido” (fl. 46).
+O recorrente sustenta, basicamente, que “o aresto ora fustigado equivocou-se ao declarar que a perda dos dias remidos pelo trabalho não foi recepcionada pela Constituição Federal, porquanto a perda dos dias remidos não vai de encontro ao instituto do direito adquirido previsto no inciso XXXVI do artigo 5º da Constituição Federal, tampouco choca-se com o princípio da proporcionalidade-individualização da pena, previsto no inciso XLVI do artigo 5º da Constituição Federal, ou da dignidade do trabalhador, previstos nos artigos 1º, inciso IV, 6º da Constituição Federal” (fl. 82).
+Requer o provimento do presente recurso para reformar o “decisum proferido pela SEXTA CÂMARA CRIMINAL DO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, para o fim de que sejam excluídos os dias remidos anteriormente à data do cometimento da falta grave pelo recorrido” (fl. 90 – grifos no original).
+Sucede que o Recurso Especial nº 817.012/RS interposto ao Superior Tribunal de Justiça (fls. 58 a 76) foi conhecido e parcialmente provido (fls. 132 a 138), monocraticamente, pelo eminente Relator, o Ministro Nilson Naves, para determinar a perda dos dias remidos anteriores à data da falta grave.
+Essa decisão transitou em julgado em 16/11/09, conforme certidão de folha 141.
+Com efeito, a apreciação da pretensão formulada no presente recurso extraordinário encontra-se, assim, prejudicada pela decisão havida no julgamento do recurso especial.
+Anote-se que a jurisprudência deste Supremo Tribunal é assente no sentido de que, nos casos como o presente, há o prejuízo do recurso extraordinário ou do respectivo agravo de instrumento interpostos. Nesse sentido as seguintes decisões monocráticas: RE nº 588.768/RS, Relator o Ministro Menezes Direito, DJ de 23/6/08; RE nº 434.133/DF, Relator o Ministro Carlos Velloso, DJ de 27/9/04; e RE nº 432.537/RJ, Relator o Ministro Sepúlveda Pertence, DJ de 10/9/04, entre outros.
+Ante o exposto, nos termos dos artigos 21, inciso IX, do RISTF, e 38 da Lei nº 8.038/90, julgo prejudicado o recurso extraordinário.
+Publique-se.
+Brasília, 10 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
