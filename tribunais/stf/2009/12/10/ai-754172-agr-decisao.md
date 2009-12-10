@@ -1,0 +1,25 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao agravo de instrumento.
+A agravante sustentou, em suma, que a decisão agravada deve ser reformada e insistiu, dessa forma, no processamento do recurso extraordinário.
+Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento interposto contra decisão que negou seguimento a recurso extraordinário.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 145, II, da mesma Carta.
+O agravo não merece acolhida. O acórdão recorrido encontra-se em harmonia com a larga jurisprudência do Supremo Tribunal Federal no sentido de que a liberação, a fiscalização e o controle quanto à prática de atividades profissionais e econômicas e quanto à localização, às instalações e ao funcionamento de estabelecimentos em geral, quando realizados dentro da competência de quaisquer dos entes federados e objetivando o atendimento da respectiva legislação, caracterizam exercício regular do poder de polícia passível de sujeição ao pagamento de taxa.
+Por oportuno, transcrevo a ementa do acórdão do RE 276.564/SP, Rel. Min. Ilmar Galvão:
+“TRIBUTÁRIO. MUNICÍPIO DE SÃO MANUEL. TAXA DE FISCALIZAÇÃO DE LOCALIZAÇÃO E FUNCIONAMENTO. ESTABELECIMENTO COMERCIAL. CONSTITUCIONAL.
+O Supremo Tribunal Federal tem sistematicamente reconhecido a legitimidade da exigência, anualmente renovável, pelas Municipalidades, da taxa em referência, pelo exercício do poder de polícia.
+Recurso extraordinário conhecido e provido”.
+Seguindo essa orientação destaco, ainda, os seguintes precedentes, de ambas as Turmas: AI 527.814-AgR/MG, Rel. Min. Carlos Britto; AI 511.807/SP, Rel. Min. Cármen Lúcia; RE 216.259-AgR/CE, Rel. Min. Celso de Mello; AI 554.035-AgR/MG e AI 480.941-AgR/PB, Rel. Min. Cezar Peluso; RE 453.649-AgR/PR e RE 222.252-AgR/SP, Rel. Min. Ellen Gracie; AI 618.150-AgR/MG e AI 581.503-AgR/MG, Rel. Min. Eros Grau; AI 618.346-AgR/MG e ADI 453/DF, Rel. Min. Gilmar Mendes; RE 558.985-AgR/MG, Rel. Min. Joaquim Barbosa; AI 525.838/MG, Rel. Min. Marco Aurélio; RE 416.601/DF e RE 177.835/PE, Rel. Min. Carlos Velloso; RE 116.518/SP e RE 220.316/MG, Rel. Min. Ilmar Galvão; RE 222.246-AgR/SP, Rel. Min. Néri da Silveira; RE 188.908-AgR/SP, Rel. Min. Sepúlveda Pertence; RE 581.922/SP e RE 553.294/MG, de minha relatoria.
+Isso posto, nego seguimento ao recurso” (fls. 142-143).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que a recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Ressalte-se, que esta Corte, em decisões recentes de ambas as Turmas, manteve entendimento no sentido de que a Taxa de renovação anual de licença para localização é constitucional. Conforme se vê das ementas do RE 571.511-AgR/SP, Rel. Min. Cármen Lúcia e do AI 631.940-AgR/ES, Rel. Min. Gilmar Mendes, a seguir transcritas:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TAXA DE FISCALIZAÇÃO DE LOCALIZAÇÃO, DE INSTALAÇÃO E DE FUNCIONAMENTO. RENOVAÇÃO ANUAL. CONSTITUCIONALIDADE. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Argumento de inexistência de previsão legal para a cobrança anual da taxa: ausência de prequestionamento. Súmulas 282 e 356 do Supremo Tribunal Federal”.
+“Agravo regimental em agravo de instrumento. 2. Taxa de renovação anual de licença para localização, instalação e funcionamento de estabelecimentos comerciais e similares. Legalidade. Precedentes. Formação do agravo de instrumento. Peças de traslado obrigatório. Art. 544, § 1o, do CPC. Conformidade. 3. Agravo regimental a que se nega provimento”.
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifos meus).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 10 de dezembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
