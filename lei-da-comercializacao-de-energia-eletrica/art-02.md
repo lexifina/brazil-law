@@ -31,7 +31,8 @@ I - contratada pelas concessionárias, pelas permissionárias e pelas autorizada
 II - proveniente de:
 a) geração distribuída, observados os limites de contratação e de repasse às tarifas, baseados no valor de referência do mercado regulado e nas respectivas condições técnicas;
 b) usinas que produzam energia elétrica a partir de fontes eólicas, pequenas centrais hidrelétricas e biomassa, enquadradas na primeira etapa do Programa de Incentivo às Fontes Alternativas de Energia Elétrica - PROINFA; ou
-c) Itaipu Binacional.
+c) Itaipu Binacional; ou
+d) Angra 1 e 2, a partir de 1º de janeiro de 2013.
 § 9º No processo de licitação pública de geração, as instalações de transmissão de uso exclusivo das usinas a serem licitadas devem ser consideradas como parte dos projetos de geração, não podendo os seus custos ser cobertos pela tarifa de transmissão.
 § 10. A energia elétrica proveniente dos empreendimentos referidos no inciso II do § 8º deste artigo não estará sujeita aos procedimentos licitatórios para contratação regulada previstos neste artigo.
 § 11. As licitações para contratação de energia elétrica de que trata este artigo serão reguladas e realizadas pela Agência Nacional de Energia Elétrica - ANEEL, observado o disposto no art. 3º-A da Lei nº 9.427, de 26 de dezembro de 1996, com a redação dada por esta Lei, que poderá promovê-las diretamente ou por intermédio da Câmara de Comercialização de Energia Elétrica - CCEE.
@@ -41,3 +42,4 @@ c) Itaipu Binacional.
 § 15. No exercício do poder regulamentar das matérias deste art. 2º, será observado o disposto no art. 1º desta Lei.
 § 16. Caberá à Aneel dirimir conflitos entre compradores e vendedores de energia elétrica, que tenham celebrado CCEARs, utilizando lastro em contratos de importação de energia elétrica ou à base de gás natural, cujas obrigações tenham sido alteradas em face de acontecimentos extraordinários e imprevisíveis, decorrentes de eventos alheios à vontade do vendedor, nos termos do inciso V do art. 3º da Lei nº 9.427, de 26 de dezembro de 1996.
 § 17. No exercício da competência de que trata o § 16 deste artigo, a Aneel, reconhecendo a extraordinariedade e a imprevisibilidade dos acontecimentos, poderá garantir neutralidade aos agentes envolvidos, no limite de suas responsabilidades.
+§ 18. Caberá à Aneel, em um prazo de 180 (cento e oitenta) dias, decidir de ofício, ou por provocação das partes, acerca das questões de que trata o § 16 deste artigo.
