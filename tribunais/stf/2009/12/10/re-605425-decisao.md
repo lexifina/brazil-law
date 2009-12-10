@@ -1,0 +1,12 @@
+DECISÃO: O presente recurso extraordinário não se mostra processualmente viável.
+Com efeito, a pretensão recursal ora deduzida revela-se inacolhível, eis que a análise do acórdão recorrido evidencia que, na espécie, não houve qualquer declaração de inconstitucionalidade de diploma legislativo ou de ato normativo a ele equivalente, em clara demonstração de que se revela impertinente, na espécie, a fundamentação com que a parte ora recorrente pretendeu justificar a interposição do recurso extraordinário.
+No caso em análise, como já enfatizado, não houve qualquer declaração de inconstitucionalidade, tanto que o acórdão impugnado em sede recursal extraordinária resultou de julgamento efetuado por órgão fracionário do E. Tribunal Regional Federal da 2ª Região, considerada, na espécie, a inaplicabilidade da cláusula inscrita no art. 97 da Constituição da República, cuja prescrição – ressalte-se – somente incidirá na hipótese de a decisão do Tribunal importar em proclamação da invalidade constitucional de determinado ato estatal (RTJ 95/859 – RTJ 96/1188 – RT 508/217 – RF 193/131):
+“Nenhum órgão fraccionário de qualquer Tribunal dispõe de competência, no sistema jurídico brasileiro, para declarar a inconstitucionalidade de leis ou atos emanados do Poder Público. Essa magna prerrogativa jurisdicional foi atribuída, em grau de absoluta exclusividade, ao Plenário dos Tribunais ou, onde houver, ao respectivo Órgão Especial. Essa extraordinária competência dos Tribunais é regida pelo princípio da reserva de Plenário, inscrito no artigo 97 da Constituição da República.
+Suscitada a questão prejudicial de constitucionalidade perante órgão fraccionário de Tribunal (Câmaras, Grupos, Turmas ou Seções), a este competirá, em acolhendo a alegação, submeter a controvérsia jurídica ao Tribunal Pleno.”
+(RTJ 150/223-224, Rel. Min. CELSO DE MELLO)
+Vê-se, portanto, que não se revela viável o recurso extraordinário interposto pela parte ora recorrente, em face da própria ausência de declaração de inconstitucionalidade, efetivamente inexistente na espécie ora em exame.
+Sendo assim, e pelas razões expostas, não conheço do presente recurso extraordinário.
+Publique-se.
+Brasília, 10 de dezembro de 2009.
+Ministro CELSO DE MELLO
+Relator
