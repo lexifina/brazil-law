@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento criminal interposto contra decisão que negou seguimento a recurso extraordinário em oposição a acórdão da Segunda Turma Recursal Criminal do Estado de Minas Gerais, assim ementado [fl. 08]:
+“Contravenção Penal – Não ocorre nulidade pela ausência do acusado na audiência de instrução e julgamento, na qual ele foi devidamente assistido por defensor constituído, por haver provas nos autos de que ele se ocultou para não ser intimado por várias vezes – Prática de Jogo de Azar – Prova pericial – Laudo realizado de acordo com a legislação vigente – Confissão extrajudicial em consonância em as provas produzidas em juízo – Eficácia dos depoimentos dos policiais – Autoria e materialidade comprovadas – recurso improvido.”
+2.  O agravante alega, no recurso extraordinário, ofensa ao disposto no artigo 5º, LIV e LV, da CB/88. A defesa sustenta a reforma do decreto condenatório invocando a preliminar de nulidade por ausência de intimação do acusado para audiência de oitiva de testemunhas. No mérito insurge-se contra a sentença proferida, requerendo sua absolvição por faltas de provas.
+3.  O agravo não merece provimento. A parte recorrente não apresentou preliminar formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais debatidas no caso, não tendo sido observado o disposto no artigo 543-A, § 2º, do Código de Processo Civil, introduzido pela Lei n. 11.418/06.
+4.  Este Tribunal, no julgamento da Questão de Ordem no AI n. 664.567, Relator o Ministro Sepúlveda Pertence, DJ de 6.9.07, fixou entendimento no sentido de que “a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007”.
+5.  Por fim, para dissentir-se do acórdão impugnado, seria necessário o reexame da matéria fático-probatória, providência vedada nesta instância mercê de incidência da Súmula n. 279 do Supremo Tribunal Federal.
+Nego seguimento ao agravo com fundamento no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 11 de dezembro de 2009.
+Ministro Eros Grau
+- Relator -
