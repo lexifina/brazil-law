@@ -1,0 +1,14 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 4ª Região. Acórdão assim ementado (fls. 84-verso):
+“MANDADO DE SEGURANÇA. CONTRIBUIÇÕES SOCIAIS. FUNDO DE ESTABILIZAÇÃO FISCAL. ARTIGOS 71, 72 E 76 DO ADCT.
+As contribuições ao PIS, COFINS e CSLL, ao terem parte de sua destinação alterada temporariamente, não deixaram de ser contribuições sociais, porquanto continuaram com suas funções primordiais no sentido de atender os objetivos da Seguridade Social fixados no art. 194, caput da CF/88, quais sejam ‘assegurar os direitos relativos à saúde, à previdência e à assistência social’.”
+2. Pois bem, a parte recorrente alega violação ao caput do art. 37, ao § 1º do art. 145, ao inciso I do art. 150, ao art. 153, ao inciso I do art. 154 e ao art. 195, todos da Magna Carta de 1988. Sustenta a inconstitucionalidade dos incisos IV e V do art. 72 e do caput do art. 76 do ADCT, alterados pelas Emendas Constitucionais nºs 01/94 e 27/00.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Francisco Adalberto Nóbrega, opina pelo não conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. De saída, observo que, à exceção do inciso I do art. 195, os demais dispositivos constitucionais tidos por violados não foram apreciados pelo aresto impugnado, tampouco foram suscitados nos embargos opostos declaratórios. Falta, portanto, o necessário prequestionamento, a teor da Súmula 282 do STF.
+5. Por outra volta, anoto que a destinação de 20% (vinte por cento) da arrecadação de contribuições sociais para o Fundo Social de Emergência, instituída por meio de emendas constitucionais, não afrontou nenhuma cláusula pétrea de nosso Ordenamento Maior — tese que nem fora sustentada pela parte recorrente. No caso, os recursos do Fundo sob exame “serão aplicados prioritariamente no custeio das ações dos sistemas de saúde e educação, incluindo a complementação de recursos de que trata o § 3º do art. 60 do Ato das Disposições Constitucionais Transitórias, benefícios previdenciários e auxílios assistenciais de prestação continuada, inclusive liquidação de passivo previdenciário, e despesas orçamentárias associadas a programas de relevante interesse social e econômico” (caput do art. 71 do ADCT).
+6. Nessa contextura, a mudança da destinação de parte dos recursos arrecadados não desnatura a finalidade das contribuições sociais em questão (PIS, Cofins e CSLL), que permanece sendo a de financiar a seguridade social, conforme estabelece o caput do art. 195 do Magno Texto.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 11 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
