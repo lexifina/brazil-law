@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“ CORREÇÃO MONETÁRIA – Caderneta de Poupança – Cobrança de diferença de remuneração decorrente de incidência de novo indexador – Inadmissibilidade de denunciação à lide para a União Federal ou para o Banco Central – Não configuração de fato do príncipe – Princípio da Proteção Judiciária quanto ao ato jurídico perfeito – Ação procedente – Recurso desprovido.” (Fl. 167) .
+2.  A parte recorrente, no recurso extraordinário interposto com base no art. 102, II, a e b, da CF, alega ofensa aos artigos 5º, XXIV e XXV; 37, § 6º; e 97, da CF, sustentando, em síntese, que:
+“Ao reconhecer a responsabilidade do Recorrente, pessoa jurídica de direito privado, por parte da indenização eventualmente devida pelo Banco Central, ao qual foram transferidos os recursos ou pela União Federal, que foi a expropriante, violou o acórdão o art. 5º, XXIV e XXV que, nos casos de desapropriação e de requisição, impõe ao Poder Público o dever de ressarcir o titular dos bens e direitos que foram expropriados ou requisitados, como ocorreu no caso ‘sub judice’ em relação ao uso do dinheiro do dependente.” (Fl. 227)
+3.     A discussão relativa à ilegitimidade passiva da parte recorrente é de natureza infraconstitucional. Assim, a alegada ofensa à Constituição, se existente, seria indireta, a depender do exame da legislação ordinária (Lei 8.024/90), insuscetível de ensejar o trânsito do recurso extraordinário. Nesse sentido, AI 552.501-AgR/SP, rel. Min. Cezar Peluso, 2ª Turma, unânime, DJ 08.09.2206; e AI 674.713-AgR/SP, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 22.02.2008.
+4.  Mostra-se impertinente, na hipótese dos autos, a invocação do art. 97 da Constituição Federal e da alínea b do permissivo constitucional (art. 102, III), uma vez que não houve, no acórdão recorrido, declaração de inconstitucionalidade de tratado ou lei federal, sem margem, portanto, para o cabimento do recurso extraordinário. Veja-se o AI 551.153-AgR/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 09.10.2009.
+5.  Ademais, na petição do presente agravo não foi atacado o fundamento da decisão que negou seguimento ao apelo extremo relativo ao não-cabimento desse recurso com base na alínea b.
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 11 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
