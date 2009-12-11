@@ -1,0 +1,24 @@
+DECISÃO: Reclamação, com pedido de medida liminar, proposta pelo Município de Itabaiana/PB contra ato do Tribunal de Contas do Estado da Paraíba.
+2.  O reclamante objetiva “demonstrar que o Tribunal de Contas do Estado da Paraíba está, data vênia, desrespeitando decisão do STF, ao fiscalizar possíveis dívidas do Município de Itabaiana junto ao INSS, reprovando prestações de contas anuais por débitos que os auditores do TCE/PB levantam, sem nenhuma participação do Instituto Nacional de Seguridade Social”.
+3.  Alega que haveria usurpação de função pública vez que caberia à Receita Federal, e não ao TCE/PB, a fiscalização de valores referentes a contribuições previdenciárias. E que o julgamento de contas referentes ao exercício de 2007 estaria marcado para a sessão do próximo dia 14.
+4.  Afirma que teria havido violação à decisão desta Corte proferida na ADI n. 523. “A fumaça do bom direito, no presente caso, encontra guarida na decisão do STF utilizada como paradigma para demonstrar que a autoridade das decisões do Supremo Tribunal Federal está sofrendo, data vênia, violação por parte do Tribunal de Contas do Estado da Paraíba, especificamente a Ação Direta de Inconstitucionalidade 523” [fl. 12].
+5.  A plausibilidade jurídica do pedido --- fumus boni iuris --- resultaria configurada na circunstância de que o TCE/PB estaria realizando atividade estranha à sua competência, o que afrontaria decisão desta Corte. O periculum in mora seria evidente, vez que o reclamante estaria sujeito a decisões que poderiam lhe causar prejuízos.
+6.  Requer a concessão de medida liminar para suspender o curso do Processo T.C 02135/08, que tramita no Tribunal de Contas do Estado da Paraíba.
+7.  É o relatório. Decido.
+8.  O reclamante aponta como violada a decisão proferida na ADI n. 523, da qual fui relator. Nessa ação direta foi reconhecida a inconstitucionalidade de ato normativo, do Estado do Paraná, que atribuía ao Tribunal de Contas a apreciação de recursos interpostos contra decisões tomadas em processos administrativos nos quais se debatia questão tributária. Transcrevo a ementa:
+“EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 78, § 3º, DA CONSTITUIÇÃO DO ESTADO DO PARANÁ. POSSIBILIDADE DE REEXAME, PELO TRIBUNAL DE CONTAS ESTADUAL, DAS DECISÕES FAZENDÁRIAS DE ÚLTIMA INSTÂNCIA CONTRÁRIAS AO ERÁRIO. VIOLAÇÃO DO DISPOSTO NO ARTIGO 2º E NO ARTIGO 70 DA CONSTITUIÇÃO DO BRASIL.
+1.  A Constituição do Brasil --- artigo 70 --- estabelece que compete ao Tribunal de Contas auxiliar o Legislativo na função de fiscalização a ele designada. Precedentes.
+2.  Não cabe ao Poder Legislativo apreciar recursos interpostos contra decisões tomadas em processos administrativos nos quais se discuta questão tributária.
+3.  Ação direta julgada procedente para declarar a inconstitucionalidade do § 3º do artigo 78 da Constituição do Estado do Paraná”.
+9.  A decisão prolatada pelo Supremo Tribunal Federal na ação direta de inconstitucionalidade referida pelo reclamante não guarda pertinência com o ato impugnado nesta reclamação. Na hipótese destes autos o Tribunal de Contas Estadual julgará as prestações de contas anuais apresentadas pelo Município --- entre elas a adimplência no que toca ao parcelamento de dívidas do Município reclamante junto ao INSS.
+10.  A hipótese dos autos não consubstancia descumprimento de decisão proferida por esta Corte em ações de controle concentrado de constitucionalidade.
+11.  Por outro lado, o Plenário deste Tribunal ainda não firmou entendimento no sentido de afirmar a transcendência das razões de decidir nas ações constitucionais. Por ora persiste a convicção, do Colegiado, de que a ausência de identidade “perfeita” entre o ato impugnado e a decisão apontada como violada é circunstância que inviabiliza o conhecimento da reclamação.
+12.  Lembro, neste passo, observação do Ministro MAURÍCIO CORRÊA: “[i]nexistindo identidade ou mesmo similitude de objetos entre o ato impugnado e a decisão tomada por esta Corte [...], não há falar em violação à autoridade desta, sendo incabível o uso da reclamação” [Rcl n. 1.852-AgR/RN, DJ de 8.3.02].
+13.  A preservação da competência desta Corte e a garantia da autoridade de suas decisões não estão presentes no caso.
+14.  Daí porque a reclamação não pode ser conhecida. Não há identidade ou similitude de objeto entre os atos impugnados e as decisões tidas por desrespeitadas. Nesse sentido, entre outras, a RCL n. 3.768, Relator o Ministro CELSO DE MELLO, DJ de 20.10.05; e as RCL n. 3.960 e RCL n. 5.422, de que fui Relator, DJ de 5.12.05 e DJ de 28.8.07, respectivamente.
+15.  A preservação da competência desta Corte e a garantia da autoridade de suas decisões [artigo 102, I, "l", da CB/88], circunstâncias que autorizam a propositura de reclamação, não estão presentes no caso.
+ Nego seguimento à reclamação, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 11 de dezembro de 2009.
+Ministro Eros Grau
+ - Relator -
