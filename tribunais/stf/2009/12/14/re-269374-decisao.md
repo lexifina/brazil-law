@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de recurso extraordinário interposto pelo Conselho da Ordem dos Advogados do Brasil, Seção de Minas Gerais, contra acórdão do Tribunal de Justiça daquele Estado, que julgou improcedente ação direta de inconstitucionalidade proposta pelo recorrente em face do art. 113 da Lei estadual n.º 6.763, de 26.12.1975, modificada pela Lei n.º 12.425, de 27.12.1996, que instituiu taxa de segurança pública a ser cobrada pelo serviço operacional de polícia ostensiva em eventos relacionados a reunião ou aglomeração de pessoas.
+O relator consignou em seu voto (fls. 149-150):
+“Na verdade, as taxas têm como fato gerador o exercício regular do poder de polícia, ou a utilização, efetiva ou potencial de serviço público específico e divisível, prestado ao contribuinte ou posto à sua disposição (art. 77, caput, do CTN).
+São elas divisíveis porque cada um dos usuários se beneficiam de tais serviços e têm de dar a contrapartida e arcar com o pagamento correspondente a este serviço a eles prestado e posto à sua disposição.
+Esses serviços são específicos e divisíveis e podem ser utilizados separadamente pelos usuários.
+In casu, conclui-se que a taxa de segurança pública incide sobre eventos relacionados com direito de reunião, assegurado constitucionalmente.”
+Alega-se violação ao art. 145, II, da Constituição Federal. Nas razões de recurso extraordinário, sustenta-se que (fls. 224-248):
+“No caso dos autos, o fato de que, em se tratando de eventos que envolvam reunião ou aglomeração de pessoas demandem policiamento redobrado, não se constitui em justificativa para a cobrança de uma taxa. A presença de um maior número de policiais nestes locais é atividade normal, uma vez que nessas circunstâncias torna-se iminente a potencialidade em ocorrer algum ato delituoso ou qualquer outra ocorrência, que coloque em risco a segurança das pessoas ali presentes. Esta circunstância é totalmente previsível, fazendo parte do policiamento comum, como do serviço de manutenção da ordem e da segurança pública, pois trata-se de um dever do Estado.
+(...)
+Sendo assim, não é a atividade do contribuinte, tampouco o acontecimento (eventos), que devem ser específicos e divisíveis, mas sim o serviço público prestado que deve sê-lo, para que então se possa instituir uma taxa. O serviço público é que deve ser caracterizado como específico e divisível, e no caso em tela, o serviço de segurança pública, por sua própria natureza, não pode ser assim considerado.”
+A Procuradoria-Geral da República, em parecer de fls. 281-282, manifestou-se pelo provimento do recurso, por entender que o acórdão recorrido está contrário à orientação desta Corte.
+Decido.
+A Ordem dos Advogados do Brasil, Seção de Minas Gerais, propôs ação direta de inconstitucionalidade contra o artigo 113 da Lei estadual n.º 6.763/75, modificada pela Lei n.º 12.425/96, que instituiu a cobrança de taxa de segurança pública pelo serviço de polícia ostensiva em eventos relacionados à reunião ou aglomeração de pessoas.
+O Tribunal de Justiça estadual julgou improcedente a ação, por concluir que a taxa de segurança pública incide sobre eventos relacionados com direito de reunião.
+O acórdão recorrido divergiu do entendimento firmado pelo Pleno desta Corte no julgamento da ADI-MC 1.942, Rel. Moreira Alves, DJ 22.10.1999, cuja ementa assim dispõe:
+EMENTA: Ação direta de inconstitucionalidade. Art. 2º e Tabela V, ambos da Lei 6.010, de 27 de dezembro de 1996, do Estado do Pará. Medida Liminar.
+- Em face do artigo 144, ‘caput’, inciso V e parágrafo 5º, da Constituição, sendo a segurança pública, dever do Estado e direito de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através, entre outras, da polícia militar, essa atividade do Estado só pode ser sustentada pelos impostos, e não por taxa, se for solicitada por particular para a sua segurança ou para a de terceiros, a título preventivo, ainda quando essa necessidade decorra de evento aberto ao público.
+- Ademais, o fato gerador da taxa em questão não caracteriza sequer taxa em razão do exercício do poder de polícia, mas taxa pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, o que, em exame compatível com pedido de liminar, não é admissível em se tratando de segurança pública.
+- Ocorrência do requisito da conveniência para a concessão da liminar.
+Pedido de liminar deferido, para suspender a eficácia ‘ex nunc’ e até final julgamento da presente ação, da expressão ‘serviço ou atividade policial-militar, inclusive policiamento preventivo’ do artigo 2º, bem como da Tabela V, ambos da Lei 6.010, de 27 de dezembro de 1996, do Estado do Pará.”
+No mesmo sentido, a ADI 2.424, de minha relatoria, DJ 18.6.2004, cuja ementa é a seguinte:
+“Ação Direta de Inconstitucionalidade. 2. Lei nº 13.084, de 29.12.2000, do Estado do Ceará. Instituição de taxa de serviços prestados por órgãos de Segurança Pública. 3. Atividade que somente pode ser sustentada por impostos. Precedentes. 4. Ação julgada procedente.”
+Assim, conheço do recurso extraordinário e dou-lhe provimento para afastar a cobrança da taxa de segurança pública, em face da inconstitucionalidade do art. 113 da Lei estadual n.º 6.763/75, modificada pela Lei n.º 12.425/96.
+Brasília, 14 de dezembro de 2009.
+Ministro GILMAR MENDES
+Relator
