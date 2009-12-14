@@ -1,0 +1,21 @@
+DECISÃO: Vistos, etc.
+Trata-se de recursos extraordinários, interpostos com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal.
+2. O primeiro deles, de Hamilton Thá e outros, insurge-se contra acórdão do Tribunal de Justiça do Estado do Paraná, que julgou improcedente pedido de indenização pelo ato de criação do Parque de Preservação Ambiental de Marumbi (Serra do Mar) nas suas propriedades.
+3. O segundo apelo, do Estado do Paraná, é contra acórdão do Superior Tribunal de Justiça, que deu provimento ao recurso especial simultaneamente manejado com o primeiro apelo extremo. O acórdão está assim ementado (fls. 877):
+“ADMINISTRATIVO - AGRAVO REGIMENTAL – DESAPROPRIAÇÃO INDIRETA - CRIAÇÃO DE PARQUES DE PRESERVAÇÃO AMBIENTAL – SERRA DO MAR PARQUE DE MARUMBI - PRECEDENTES.
+1. A criação de parques de preservação ambiental devem respeitar o direito à propriedade.
+2. A limitação administrativa que impede o uso, gozo e disposição da totalidade de uma determinada área desnatura-se em uma verdadeira desapropriação indireta, diferentemente das limitações do Código Florestal, relacionadas às matas de preservação permanente. Precedentes.
+3. Agravo regimental improvido.”
+4. O Estado do Paraná sustenta violação ao § 4º do art. 225 da Magna Carta de 1988. A seu turno, Hamilton Thá e outros alegam ofensa aos incisos I, XXII e XXIV do art. 5º da mesma Carta.
+5. A Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo não conhecimento de ambos os recursos e, caso conhecidos, pelo provimento do apelo extremo de Hamilton Thá e Outros.
+6. Tenho que a insurgência do Estado do Paraná não merece acolhida. Isso porque o aresto impugnado afina com a jurisprudência desta nossa Corte, que me parece juridicamente correta. Leia-se, na parte que interessa, a ementa do RE 134.297, da relatoria do ministro Celso de Mello:
+“RECURSO EXTRAORDINÁRIO - ESTAÇÃO ECOLÓGICA - RESERVA FLORESTAL NA SERRA DO MAR - PATRIMÔNIO NACIONAL (CF, ART. 225, § 4º) - LIMITAÇÃO ADMINISTRATIVA QUE AFETA O CONTEÚDO ECONÔMICO DO DIREITO DE PROPRIEDADE - DIREITO DO PROPRIETÁRIO À INDENIZAÇÃO - DEVER ESTATAL DE RESSARCIR OS PREJUÍZOS DE ORDEM PATRIMONIAL SOFRIDOS PELO PARTICULAR - RE NÃO CONHECIDO.
+- Incumbe ao Poder Público o dever constitucional de proteger a flora e de adotar as necessárias medidas que visem a coibir práticas lesivas ao equilíbrio ambiental. Esse encargo, contudo, não exonera o Estado da obrigação de indenizar os proprietários cujos imóveis venham a ser afetados, em sua potencialidade econômica, pelas limitações impostas pela Administração Pública.
+- A proteção jurídica dispensada às coberturas vegetais que revestem as propriedades imobiliárias não impede que o dominus venha a promover, dentro dos limites autorizados pelo Código Florestal, o adequado e racional aproveitamento econômico das árvores nelas existentes. A jurisprudência do Supremo Tribunal Federal e dos Tribunais em geral, tendo presente a garantia constitucional que protege o direito de propriedade, firmou-se no sentido de proclamar a plena indenizabilidade das matas e revestimentos florestais que recobrem áreas dominiais privadas objeto de apossamento estatal ou sujeitas a restrições administrativas impostas pelo Poder Público. Precedentes.”
+7. Outros precedentes: AI 529.698-AgR e RE 471.110-AgR, da relatoria do ministro Sepúlveda Pertence; e RE 267.187, da relatoria do ministro Maurício Corrêa.
+8. Nessa contextura, mantida a decisão do Superior Tribunal de Justiça, anoto que essa substituiu o acórdão prolatado pela Instância Judicante de origem (art. 512 do Código de Processo Civil). Desse modo, o acórdão impugnado não mais subsiste, ficando prejudicado o primeiro apelo extremo. Vejam-se, nesse mesmo sentido, os REs 267.490, da relatoria do ministro Marco Aurélio; e 182.317-AgR, da relatoria do ministro Octavio Gallotti, entre outros.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso do Estado do Paraná. E, ante ao caput do art. 557 do CPC e ao inciso IX do art. 21 do RI/STF, julgo prejudicado o apelo de Hamilton Thá e outros.
+Publique-se.
+Brasília, 14 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
