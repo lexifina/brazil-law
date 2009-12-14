@@ -1,0 +1,18 @@
+DECISÃO: Mandado de segurança impetrado pelo Sindicato dos Servidores do Poder Judiciário do Estado da Bahia - SINPOJUD contra ato do Conselho Nacional de Justiça, ato consubstanciado na Resolução n. 88, de 8 de setembro de 2009.
+2.  A resolução dispõe sobre a jornada de trabalho no âmbito do Poder Judiciário, o preenchimento de cargos em comissão e o limite de servidores requisitados.
+3.  O impetrante sustenta que o Conselho Nacional de Justiça, ao determinar a elaboração pelos Tribunais de Justiça de projeto de lei para adequação da jornada de trabalho às regras fixadas na Resolução, teria invadido a competência definida no artigo 96 da Constituição.
+4.  Alega que “[a] Carta Magna assevera quanto à competência privativa dos Tribunais ‘dispor sobre os seus órgãos jurisdicionais e administrativos e organizar suas secretarias e serviços auxiliares’, art. 96, I, letras a e b, sendo assegurado ao Poder Judiciário autonomia administrativa e financeira, art. 99, caput” [fl. 10].
+5.  Requer a concessão de medida liminar para que a autoridade coatora “se abstenha de exigir do Tribunal de Justiça da Bahia o envio de projeto de lei tendente a aumentar/alterar a carga horária dos servidores do Tribunal de Justiça da Bahia, ou seja, aumentar jornada de trabalho prevista legalmente na legislação estadual da Bahia” [fl. 15].
+6.  No mérito, pede a concessão da ordem, para anular a Resolução n. 88/09.
+7.  A autoridade coatora informa que “a Resolução/CNJ n.º 88 foi editada pelo Conselho Nacional de Justiça no exercício da competência que lhe foi outorgada pelo artigo 103-B, § 4º, inciso I, da Constituição Federal, visando fixar parâmetros uniformes para o funcionamento dos órgãos do Poder Judiciário quanto à jornada de trabalho de seus servidores, disciplinando, ainda, sobre o preenchimento de cargos em comissão e o limite de servidores requisitados” [fl. 113].
+8.  É o relatório. Decido.
+9.  O ato impugnado disciplina situações gerais e abstratas cuja aplicabilidade depende da edição de outros atos normativos, no âmbito de cada Estado-membro. Não é possível, nestas circunstâncias, a impetração de mandado de segurança.
+10.  Nesse sentido, a jurisprudência desta Corte:
+ “EMENTA: AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. RESOLUÇÃO N. 7/2005 DO CONSELHO NACIONAL DE JUSTIÇA. CARÁTER NORMATIVO. MEDIDA CAUTELAR DEFERIDA NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE N. 12/DF. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA CONHECER DO MANDADO DE SEGURANÇA CONTRA ATO DE DESEMBARGADORA DO TRIBUNAL REGIONAL DO TRABALHO DA 16ª REGIÃO. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO PARA DECLINAR DA COMPETÊNCIA PARA O TRIBUNAL A QUO. 1. Conforme assentado no julgamento da Medida Cautelar na Ação Declaratória de Constitucionalidade n. 12/DF, a Resolução n. 07/05 do Conselho Nacional de Justiça reveste-se dos atributos da generalidade, da impessoalidade e da abstratividade. Incidência da Súmula 266 do Supremo Tribunal Federal. 2. Incompetência do Supremo Tribunal Federal para processar e julgar, originariamente, mandado de segurança contra ato da Presidente do Tribunal Regional do Trabalho da 16ª Região. 3. Agravo Regimental parcialmente provido para declinar da competência para o Tribunal a quo.” [MS n. 25.615, Relatora a Ministra CÁRMEN LÚCIA, DJ de 27.3.09].
+11.  A hipótese assemelha-se à da impetração do writ contra lei em tese, vedada pela jurisprudência [Súmula 266].
+12.  Não há, no caso, ato administrativo de efeitos concretos que ameace eventuais direitos dos impetrantes.
+ Nego seguimento ao presente writ com fundamento no art. 21, § 1º do RISTF.
+Publique-se.
+Brasília, 14 de dezembro de 2009.
+Ministro Eros Grau
+- Relator -
