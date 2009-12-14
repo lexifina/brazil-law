@@ -1,0 +1,12 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 4a Região.
+2. Da leitura dos autos, observo que a Instância Judicante de origem, em sede de embargos à execução fiscal, concluiu pela validade da cobrança de contribuições previdenciárias dos servidores do Município de Paranavaí/PR, alusivos ao período de fevereiro de 1991 a julho de 1993. O que fez por entender ausente, no regime previdenciário próprio, o requisito da implementação de sistema de custeio total.
+3. Pois bem, a parte recorrente aponta violação ao § 3o do art. 40 (redação anterior à EC 20/98) e ao parágrafo único do art. 149 (redação anterior à EC 41/03) da Magna Carta de 1988. Sustenta que a exigência de fonte de custeio para a instituição de regime próprio de previdência se deu apenas com a EC 20/98. Daí o novo texto constitucional referir-se a “tempo de contribuição”, em lugar de “tempo de serviço”. Se assim o é, o Município defende que, anteriormente à reforma de 1998, a simples existência de tempo de serviço, atrelada à previsão legal de benefícios em favor dos servidores, era suficiente para caracterizar um regime próprio de previdência, ainda que não existissem as correspondentes contribuições.
+4. A seu turno, o então Subprocurador-Geral da República Roberto Monteiro Gurgel Santos, reportando-se ao parecer emitido pela Subprocuradora-Geral Delza Curvello Rocha, opina pelo desprovimento do recurso.
+5. Tenho que a insurgência merece acolhida. Isso porque somente a partir da EC nº 20/98 é que o sistema previdenciário dos servidores públicos assumiu caráter contributivo-retributivo, baseado não no tempo de serviço, mas no tempo de contribuição, o que implicou, de certo modo, a necessidade de correlação entre custo e benefício. Precedente: ADI 2.010-MC, da relatoria do ministro Celso de Mello.
+6. Nessa contextura, observo que o Instituto Nacional do Seguro Social não possui legitimidade para cobrar contribuição previdenciária de servidor público municipal vinculado a regime próprio de previdência social, no qual não há previsão de contribuição para o custeio do sistema (período anterior ao advento da EC nº 20/98). Nesse mesmo sentido, veja-se o RE 590.714, da relatoria do ministro Eros Grau.
+Isso posto, e frente ao § 1º-A do art. 557 do CPC, dou provimento ao recurso.
+Publique-se.
+Brasília, 14 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
