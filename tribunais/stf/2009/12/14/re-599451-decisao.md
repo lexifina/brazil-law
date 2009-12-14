@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra acórdão que manteve a sentença que restabeleceu o pagamento de auxílio-invalidez ao ora recorrido .
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 2º, 5º, XXXIV, XXXV, XXXVI, LIV e LV, 37, XV, 93, IX, e 142, da mesma Carta.
+A pretensão recursal não merece acolhida.
+À exceção do art. 5º, XXXVI, os dispositivos constitucionais tidos por violados não se encontram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+Outrossim, como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Ademais, verifica-se que o acórdão recorrido dirimiu a questão dos autos com apoio no conjunto fático-probatório constante dos autos e na legislação infraconstitucional aplicável à espécie, consoante se observa da ementa do aresto impugnado:
+“MILITAR. ETAPA DE ALIMENTAÇÃO. TUBERCULOSE ATIVA. AUXÍLIO-INVALIDEZ. SUPRESSÃO DO BENEFÍCIO. VIOLAÇÃO AO PRINCÍPIO DO DIREITO ADQUIRIDO.
+1. O benefício que era percebido pelo autor, etapa de alimentação (nos termos da Lei-2283/54, ART-3, prevista para o asilado que sofria de moléstia contagiosa e incurável), em razão de sua reforma provocada pela tuberculose pulmonar ativa em 1946, foi substituído pelo auxílio-invalidez, nos termos dos ART-141 e ART-182 do DEL-728/69, com a redação que lhes deu o DEL-957/69.
+2. Ainda que o autor não preencha os requisitos necessários à concessão do benefício novo, que veio em substituição àquele de que era beneficiário, deve-se-lhe conceder o auxílio-invalidez. O autor adquiriu o direito ao benefício, à época da concessão não se exigia o que se exige para o benefício substituto, e, não sendo viável o restabelecimento de benefício suprimido da legislação, correta a decisão que condena a Administração a pagar-lhe o auxílio-invalidez.
+3. Apelação e remessa oficial improvidas” (fl. 98).
+Assim, o exame do recurso extraordinário requer a prévia análise das provas dos autos - o que é inviável, nos termos da Súmula 279 do STF - e de normas infraconstitucionais, sendo certo que a ofensa á Constituição, se ocorrente, seria apenas indireta.
+Por fim, com a negativa de provimento ao recurso especial pelo Superior Tribunal de Justiça (fls. 246-253, com trânsito em julgado certificado à fl. 255), tornaram-se definitivos os fundamentos infraconstitucionais suficientes para a manutenção do acórdão recorrido. Incide, no caso, a Súmula 283 do STF.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 14 de dezembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
