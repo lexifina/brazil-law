@@ -1,0 +1,19 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 1ª Região. Acórdão assim ementado (fls. 227):
+“PROCESSUAL CIVIL. CONSTITUCIONAL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS. BLOQUEIO. LEGALIDADE. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO FISCAL. IMPOSSIBILIDADE. AUSÊNCIA DE REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL. FALTA DE DEPÓSITO NA AÇÃO ANULATÓRIA.
+1. O que determina a exclusão do servidor público do Regime Geral de Previdência Social não é somente a adoção pelos Estados e Municípios de Regime Jurídico Único, mas também, e principalmente, a condição de estarem amparados por um sistema de previdência próprio.
+2. Considera-se regime próprio de previdência aquele que assegura os direitos mínimos previdenciários previstos no art. 40 da CF/88, ou seja, aposentadoria e pensão.
+3. A redação primitiva do art. 160 da CF/88 previa a impossibilidade de retenção do Fundo de Participação dos Municípios. Após a nova redação do parágrafo único do art. 160, que veio com a Emenda Constitucional nº 03/93, surgiu, salvo em relação àquele parcelamento de débito vencido até 30/06/88, cujas condições tenham sido descumpridas (art. 57, § 4º, do ADCT), a possibilidade de bloqueio da verba destinada ao Município inadimplente para com as autarquias federais.
+4. O Tesouro Nacional poderá, respaldando-se na nova redação do parágrafo único do art. 160 da Carta Política, bloquear as cotas do Fundo de Participação dos Municípios, obrigando-se a saldar suas dívidas.
+5. ‘A propositura de ação anulatória, desacompanhada do depósito prévio, não suspende a exigibilidade do crédito tributário, ainda que se trate de pessoa constitucional. Precedentes deste Tribunal’ (AMS 1999.01.00.050918-4/MG, 2ª Turma Suplementar, Rel. JUÍZA IVANI SILVA DA LUZ (Conv), DJU de 15/04/2002, p. 112).
+6. Apelação e remessa oficial providas.”
+2. Pois bem, a parte recorrente alega violação ao art. 159 e ao parágrafo único do art. 160 da Magna Carta de 1988. Afirma que: a) é inadmissível o bloqueio do Fundo de Participação dos Municípios — FPM, quando ainda pendente discussão judicial sobre o assunto; b) o Superintendente do Instituto Nacional do Seguro Social — INSS não tem competência para ordenar tal medida.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo não conhecimento do recurso e, se conhecido, pelo seu desprovimento. Leia-se da manifestação ministerial (fls. 293-296):
+“10. Com relação ao mérito, melhor sorte não assiste o Recorrente, haja vista que, segundo a nova redação dada ao parágrafo único e aos incisos do art. 160 da Lei Magna de 1988 pela Emenda Constitucional nº 29, de setembro de 2000, a vedação de a União reter ou restringir o repasse de verbas constitucionalmente destinadas aos Estados e Municípios não impede tais entes federados de condicionar a entrega dos referidos recursos ‘ao pagamento de seus créditos, inclusive de suas autarquias’.
+11.    Ademais, descabida é a tese de que o Superintendente do INSS em Minas Gerais é incompetente para requerer ao Tesouro Nacional o bloqueio de cotas do Recorrente no FPM, pois, além de não haver vedação legal ou constitucional nesse sentido, a vingar tal entendimento a União acabaria por ter hercúleas dificuldades em investigar quais os entes federativos em mora para com todas as suas autarquias em todo o país, algo que, em perfunctório exame, mostra-se despropositado.”
+4. Tenho como irretocável o parecer do Ministério Público Federal, que adoto como razão de decidir.
+Isso posto, e frente ao caput do art. 577 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 14 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
