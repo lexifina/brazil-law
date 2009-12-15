@@ -1,0 +1,18 @@
+Trata-se de agravo regimental contra decisão que conheceu do recurso extraordinário interposto pelo Sindicato dos Empregados em Estabelecimentos Bancários de Ribeirão Preto e Região e lhe deu provimento. Eis o teor da decisão agravada:
+“Trata-se de recurso extraordinário interposto contra acórdão que decidiu que o art. 8º, III, da Constituição não assegura ao sindicato recorrente a substituição processual da categoria por ele representada, nos termos em que pleiteada.
+Irresignada, a parte recorrente interpôs o presente RE, com base no art. 102, III, a, da Constituição, em que sustenta a sua legitimidade processual para atuar na defesa de todo e qualquer direito de seus membros.
+A pretensão recursal merece acolhida. O acórdão recorrido está em dissonância com a jurisprudência do Supremo Tribunal Federal, que, no julgamento do RE 210.029/RS, sessão Plenária de 12.6.2006, Relator para acórdão o eminente Ministro Joaquim Barbosa, deu interpretação ao art. 8º, III, da Constituição e decidiu que os sindicatos têm legitimidade processual para atuar na defesa de todos e quaisquer direitos subjetivos individuais e coletivos dos integrantes da categoria por ele representada (Informativo 431 do STF).
+Isso posto, conheço do recurso e dou-lhe provimento, para reconhecer a legitimidade ativa ad causam do sindicato como substituto processual da categoria que representa e determinar que os autos retornem ao Tribunal de origem para que aprecie o mérito, como entender de direito” (fl. 427).
+O agravante sustenta, em suma, que a discussão restringe-se ao âmbito infraconstitucional, relativa à admissibilidade de recursos trabalhistas, e que não houve o prequestionamento explícito da matéria.
+A pretensão não merece acolhida.
+Isso porque a jurisprudência pacífica desta Corte é no sentido de que o sindicato tem legitimidade para atuar na defesa de todos e quaisquer direitos subjetivos individuais e coletivos dos integrantes da categoria que representa, tal como assentado na decisão recorrida.
+Destaco, ainda, a existência de diversos julgados no mesmo sentido proferidos por ambas as Turmas deste Tribunal, entre eles: RE 565.265-AgR/RJ, RE 555.720-AgR/MG e RE 514.954-AgR/RS, todos de relatoria do Min. Gilmar Mendes; RE 547.223-AgR/RS e AI 453.031-AgR/SP, ambos de relatoria da Min. Cármen Lúcia; AI 422.148-AgR/MG, de minha relatoria e AI 672.406-AgR/BA, Rel. Min, Eros Grau.
+Observe-se, também, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 15 de dezembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
