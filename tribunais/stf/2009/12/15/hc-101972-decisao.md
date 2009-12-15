@@ -1,0 +1,30 @@
+DECISÃO: Vistos, etc.
+Cuida-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão singular do Ministro Presidente do Superior Tribunal de Justiça (HC 125.600). Decisão que indeferiu o provimento cautelar ali requestado, à falta dos respectivos pressupostos (fls. 281/282 do apenso).
+2. Pois bem, o impetrante sustenta, em causa própria, e antes mesmo do julgamento de mérito do HC ajuizado no Superior Tribunal de Justiça, a ilegalidade do decreto prisional. Decreto que “apenas mencionou a gravidade abstrata do crime, o clamor público causado pelo estardalhaço da mídia, a suposta prova da materialidade do crime e indícios de autoria, e a presumida mas não provada periculosidade do paciente” (fls. 06). Estes os centrais fundamentos da impetração: a) ofensa ao devido processo legal (inciso LIV do artigo 5º da CF/88; b) incompetência do Juízo processante da causa (inciso LIII do artigo 5º da CF/88); c) violação à presunção de não-culpabilidade, de que trata o inciso LVII do referido artigo 5º. Daí pugnar pela imediata expedição de alvará de soltura, não obstante o conteúdo da Súmula 691 do STF. No mérito, a defesa pugna pela concessão da ordem para que: I) se reconheça a incompetência do Juízo da 1ª Vara Cível e Penal da Comarca de Bragança/PA; II) o acusado aguarde, em liberdade, o desfecho do processo-crime.
+3. Feito este aligeirado relato do processo, decido. Fazendo-o, anoto que é pacífica a jurisprudência deste STF no sentido da inadmissibilidade de impetração sucessiva de habeas corpus, sem o julgamento definitivo do HC anteriormente impetrado (cf. HC 79.776, Rel. Min. Moreira Alves; HC 76.347-QO, Rel. Min. Moreira Alves; HC 79.238, Rel. Min. Moreira Alves; HC 79.748, Rel. Min. Celso de Mello; e HC 79.775, Rel. Min. Maurício Corrêa). Jurisprudência, essa, que deu origem à Súmula 691/STF, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+4. É certo que tal jurisprudência comporta relativização, quando de logo avulta que o cerceio à liberdade de locomoção do paciente decorre de ilegalidade ou de abuso de poder (inciso LXVIII do art. 5º da CF/88). Mas não me parece ser este o caso dos autos. E a primeira dificuldade que encontro está na consideração de que a decisão impugnada não se me afigura teratológica ou totalmente desprovida de válida fundamentação. Para cimentar meu ponto de vista colho a seguinte passagem da referida decisão (fls. 281/282 do apenso):
+“(...)
+Incide, em princípio, a orientação do verbete n. 691 da Súmula do Supremo Tribunal Federal, observada pelo Superior Tribunal de Justiça, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar”.
+Tal entendimento só pode ser atenuado em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder, o que, aparentemente, não é o caso, tendo em vista a fundamentação da decisão impugnada, lançada nos seguintes termos:
+‘A concessão de liminar no writ se impõe quando o constrangimento ilegal incidente sobre o paciente estiver indiscutivelmente delineado na própria impetração e nos elementos de prova que o acompanham.
+Em análise preliminar dos autos, não encontro razões para nesta oportunidade conceder a liberdade ao paciente, pelo que indefiro a liminar requerida.
+Solicitem-se, de ordem, informações da autoridade coatora acerca das razões suscitadas pelo impetrante, as quais devem ser prestadas nos termos do art. 2º da Resolução n. 04/2003/GP no prazo de 48 (quarenta e oito horas), constando:
+1. Síntese dos fatos nos quais se articula a acusação;
+2. Exposição da causa ensejadora da medida constritiva;
+3. Informações acerca dos antecedentes criminais e primariedade do paciente, e, sendo possível, sua conduta social e personalidade;
+4. Informações concernentes ao lapso temporal da medida constritiva;
+5. Indicação da fase em que se encontra o procedimento;
+6. Juntada, quando indispensável, de cópias dos documentos processuais, tais como: denúncia, prisão preventiva, certidões, etc.’ (fl. 32).
+Ante o exposto, indefiro a liminar”
+5. Acresce que o quadro empírico da causa também não favorece o imediato acatamento das teses defensivas. Quadro, esse, assim retratado pelo Tribunal de Justiça do Estado do Pará (fls. 305 do apenso):
+“(...)
+Analisamos os autos, e diante das informações prestadas pela Autoridade Coatora, constatamos que não deve prosperar a alegação da impetrante, de que a sentença de pronúncia não está devidamente fundamentada, tendo em vista que não houve mudança no quadro fático, persistindo portanto a fundamentação do decreto preventivo que justifica a necessidade em manter a custódia cautelar do paciente, com fulcro no art. 93 IX da Constituição Federal e art. 315 do Código de Processo Penal Brasileiro.
+Por outro lado se encontra comprovada a materialidade e autoria delitiva, ambas apontadas para o acusado. É o que depreende das fls. 13 destes autos, quando a criança CARLINE, assistida de curador declara da insistência do paciente em retirá-la de sua casa e ao ser furtado em suas intenções, ouviu uma arrancada brusca de carro e em seguida o desaparecimento de seu irmão PETRUS.
+In casu, por se tratar de um crime de homicídio triplamente qualificado, fica evidenciado a periculosidade do agente, pelos requintes de crueldade praticados contra a vítima menor de idade, deixando-a impossibilitada de se defender, bem como pelo clamor público devido ampla divulgação em meios de comunicação.
+(...)”
+(Sem destaques no original)
+6. Por tudo quanto posto, nego seguimento ao habeas corpus e determino o seu arquivamento (§ 1º do artigo 21 do RI/STF). O que faço até para impedir que eventual denegação da ordem impossibilite o paciente de rediscutir as matérias veiculadas neste HC perante a instância judicante competente (no caso, o STJ).
+Publique-se.
+Brasília, 15 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
