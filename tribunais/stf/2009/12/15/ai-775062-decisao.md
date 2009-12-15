@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 5º, LV e 93, IX, da mesma Carta.
+O agravo não merece acolhida. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Além disso, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Além disso, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Ainda que superado tal óbice, verifico que o agravante não atacou todos os fundamentos da decisão agravada, relativo à incidência da Súmula 282 do STF. Inviável, portanto, o recurso, a teor da Súmula 287 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 580.361-AgR/RS, de minha relatoria; AI 407.427/SP, Rel. Min. Cezar Peluso; AI 590.913-AgR/RS, Rel. Min. Eros Grau; AI 466.398-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+Por fim, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. No mesmo sentido, trago à colação ementa do RE 419.623-AgR/RR, Rel. Min. Cármen Lúcia:
+”AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL OBJETIVA. PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 15 de dezembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
