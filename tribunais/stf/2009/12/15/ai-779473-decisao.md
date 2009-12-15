@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“Apelação Cível. Recurso Adesivo. Processo Civil. Imutabilidade de Regime Jurídico. Inexistência. Vantagem Incorporada ao Patrimônio Jurídico do Servidor. Impossibilidade de Supressão. Ofensa Ao Direito Adquirido. Redução da Verba Advocatícia Fixada. Recurso Adesivo. Falta de Preparo. Deserção. Não Conhecimento” (fl. 162).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, XXXVI, 37, caput, XIV e XV, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. À exceção do art. 5º, XXXVI, da Constituição, os demais dispositivos não foram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+Ainda que superado tal óbice o recurso não prosperaria. É que para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Lei 3.803/80 do Estado da Bahia), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Nesse sentido, menciono as seguintes decisões: AI 622.747-AgR/BA, Rel. Min. Cármen Lúcia; AI 618.737-AgR/BA, Rel. Min. Carlos Britto; AI 751.485-AgR/BA, de minha relatoria.
+Além disso, como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, XXXV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, observa-se que, com a negativa de provimento ao agravo regimental pelo Superior Tribunal de Justiça (Ag 1.022.770/BA, com trânsito em julgado em 22/9/2009) tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 15 de dezembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
