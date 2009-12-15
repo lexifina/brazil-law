@@ -1,0 +1,22 @@
+DECISÃO
+Vistos.
+Distrito Federal interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso II, e 37, caput, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Quinta Turma Cível do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+“ADMINISTRATIVO E PROCESSUAL CIVIL – SERVIDOR PÚBLICO – ABANDONO DE CARGO – PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR [SINDICÂNCIA] – ABSOLVIÇÃO – FALTAS JUSTIFICADAS – PERCEPÇÃO DE VENCIMENTOS – POSSIBILIDADE” (fl. 392).
+Opostos embargos de declaração (fls. 411 a 414), foram rejeitados (fls. 423 a 433).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não merece prosperar a irresignação.
+No tocante ao artigo 5º, inciso II, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+Por outro lado, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INFRACONSTITUCIONAL. AMPLA DEFESA. PRODUÇÃO DE PROVAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. 2. O acórdão que mantém o indeferimento de diligência probatória tida por desnecessária não ofende o artigo 5º, LV, da Constituição do Brasil. Precedentes. 3. Reexame da matéria fático-probatória. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI n° 692.834/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJE de 6/2/09).
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INDEFERIMENTO DE PROVA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”
+(AI n° 654.463/SP-AgR, Primeira Turma, Relatora a  Ministra Cármen Lúcia, DJE de 12/12/08).
+Anote-se que o acórdão recorrido, citando parecer exarado pelo Ministério Público, assim consignou:
+“(...) o parágrafo único do art. 44, da Lei 8.112/90, esclareceria que as faltas justificadas decorrentes de caso fortuito ou de força maior, poderiam vir a ser compensadas a critério da chefia imediata, sendo assim considerados de efetivo exercício. Admitiria pois, o texto legal, a justificativa das faltas, o que certamente levaria à remuneração dos dias às mesmas correspondentes” (fl. 403).
+Destarte, para ultrapassar o entendimento do acórdão recorrido e acolher a pretensão do recorrente acerca da possibilidade de desconto da remuneração da servidora das faltas justificadas seria necessário o exame da legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 15 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
