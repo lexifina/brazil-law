@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Estado do Ceará interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Plenário do Tribunal de Justiça do Estado do Ceará, assim ementado:
+“MANDADO DE SEGURANÇA PREVENTIVO. CONSTITUCIONAL. PROCESSUAL CIVIL. GRATIFICAÇÃO DE ESPECIALIZAÇÃO. DECRETO REGULAMENTAR.
+I – A demora da autoridade em decidir sobre o pleito do servidor enseja justo receio do seu não acolhimento, o que autoriza a impetração do writ preventivo.
+II – Não pode o Decreto, a título de regulamentar disposição de lei, estabelecer exigências nela não previstas, sob pena de malferir os princípios da supremacia da lei e da reserva legal (art. 5º., inciso II da C.F.), mormente quando a providência exigida colide frontalmente com outro princípio constitucional, no caso, a autonomia didático-científica das universidades (art. 207 da C.F.)
+III – Ordem concedida” (fl. 110).
+Opostos embargos de declaração (fls. 118 a 121), foram rejeitados (fls. 139 a 141).
+Sustenta o recorrente contrariedade aos artigos 5º, inciso II, 84, inciso IV, e 207 da Constituição Federal, tendo em vista que o Decreto estadual n.º 23.197/94, que determinou que as especializações ministradas por universidades sediadas fora do Estado do Ceará devam ser validadas pelas universidades locais ou pela Escola de Saúde Pública, apenas estabeleceu norma procedimental, regulamentando a Lei estadual n.º 12.287/94. Deste modo, seria perfeitamente válida a exigência de que os recorridos tenham seus certificados submetidos a uma das referidas instituições, antes de viabilizarem o percebimento da gratificação.
+Sem contrarrazões (fl. 168), o recurso extraordinário (fls. 155 a 162) foi admitido (fls. 172 e 173).
+Opina o Ministério Público Federal, com parecer do Ilustrado Subprocurador-Geral da República, Dr. Paulo de Tarso Braz Lucas, pelo improvimento do recurso (fls. 196 e 197).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 16/3/98, conforme expresso na certidão de folha 142, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+O acórdão recorrido decidiu a questão com base na análise de normas infraconstitucionais locais, ao entender que o Decreto estadual nº 23.193/94, ao instituir a exigência de convalidação do diploma por outras instituições como condição para o recebimento da gratificação, extrapolou os limites estabelecidos pela Lei estadual 12.287/94. Assim, a afronta à Constituição, se ocorresse, seria indireta, sendo incabível, portanto, o recurso extraordinário. Nesse sentido:
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE. DECRETO Nº 3.721, DE 8.01.2001, QUE ALTERA OS ARTIGOS 20, II E 31, INCISOS IV E V DO DECRETO Nº 81.240, DE 20.01.78. LEI Nº 6.435, DE 15.07.77, QUE DISCIPLINA O FUNCIONAMENTO DAS ENTIDADES FECHADAS DE PREVIDÊNCIA FECHADA. DECRETO AUTÔNOMO. INEXISTÊNCIA. É firme a jurisprudência deste Supremo Tribunal no sentido de que a questão relativa ao decreto que, a pretexto de regulamentar determinada lei, extrapola o seu âmbito de incidência, é tema que se situa no plano da legalidade, e não no da constitucionalidade. No caso, o decreto em exame não possui natureza autônoma, circunscrevendo-se em área que, por força da Lei nº 6.435/77, é passível de regulamentação, relativa à determinação de padrões mínimos adequados de segurança econômico-financeira para os planos de benefícios ou para a preservação da liquidez e da solvência dos planos de benefícios isoladamente e da entidade de previdência privada no seu conjunto. Ação direta de inconstitucionalidade não conhecida” (ADI nº 2.387/DF, Tribunal Pleno, Redatora para o acórdão a Ministra Ellen Gracie, DJ de 5/12/03).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 15 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
