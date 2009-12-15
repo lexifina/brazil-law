@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRABALHISTA. VIA RECURSAL NÃO ESGOTADA NA ORIGEM: SÚMULA 281 DO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra a sentença da 3ª Vara do Trabalho de Cascavel/PR:
+“Esta Justiça especializada é competente para dirimir questões afetas não só a relação de emprego, como também aquelas relativas a relações de trabalho, lato sensu, por força da alteração promovida pela Emenda Constitucional n. 45/2004 nos incisos constantes do artigo 114 da Constituição da República.
+Havendo alegação da existência de relação de trabalho, sob qualquer das suas formas, cumprido está o requisito abstrato suficiente para viabilizar a análise do mérito do pleito, em atenção à teoria da asserção que orienta a análise das condições da ação.
+O reclamado não nega a existência da relação de trabalho, embora questione a sua natureza jurídica.
+Afastada a alegação do reclamado no sentido da incompetência desta Justiça Especializada, e verificando-se a inexistência de impugnação aos fatos apontados pela autora em sua petição inicial, bem como em relação aos valores ali elencados, defere-se o pagamento dos honorários advocatícios relativos aos serviços dativos efetuados pela autora no Juízo de Direito da 2ª Vara Criminal da Comarca de Cascavel – PR, no importe de R$ 400,00 (quatrocentos reais), na forma estabelecida na certidão de fl. 6, que deverão ser atualizados a partir de 18.10.2007, data da prolação da sentença que os arbitrou” (fls. 47-49).
+2. O Recorrente alega que teria sido contrariado o art. 114, inc. I, da Constituição da República.
+Assevera que, “tendo em vista que a ligação existente entre o Estado e o advogado dativo é de natureza jurídico-administrativa, (...) a competência para dirimir eventual pendenga envolvendo os dois atores é da justiça comum estadual” (fl. 57).
+Sustenta que “o reconhecimento da competência da justiça do trabalho para ações de cobrança de honorários de advogado dativo nomeado para efetuar a defesa judicial de cidadãos com insuficientes recursos para tanto viola o entendimento dado pela Adin 3395-6 ao artigo 114, inc. I, da CF” (fls. 59-60).
+Examinados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+4. Em preliminar, é de se ressaltar que, apesar de ter sido a parte recorrente intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso extraordinário.
+5. O recurso não pode ter seguimento, pois a decisão recorrida não é de única ou última instância. O recurso extraordinário foi interposto contra decisão do Juízo da 3ª Vara do Trabalho de Cascavel/PR, que julgou reclamação trabalhista procedente. Não ocorreu, pois, o esgotamento da jurisdição trabalhista.
+A jurisprudência predominante do Supremo Tribunal Federal firmou-se no sentido de que a decisão possibilitadora do recurso extraordinário é aquela proferida em única ou última instância, porque a exigência, insculpida no inc. III do art. 102 da Constituição da República, visa ao esgotamento da jurisdição na origem. Incide na espécie a Súmula 281 do Supremo Tribunal Federal.
+Confira-se, por oportuno, o Agravo Regimental no Agravo de Instrumento 650.164, Relator o Ministro Ricardo Lewandowski, DJ 7.12.2007:
+“MATÉRIA TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ACÓRDÃO PROFERIDO POR TRIBUNAL REGIONAL DO TRABALHO. RECURSO EXTRAORDINÁRIO. DESCABIMENTO. SÚMULA 281 DO STF. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. AGRAVO IMPROVIDO. I - Não cabe recurso extraordinário para o Supremo Tribunal Federal contra quaisquer decisões proferidas por Tribunais Regionais do Trabalho. II - O acesso a esta Corte, pela via recursal extraordinária, nos processos trabalhistas, só será possível quando se tratar de decisões proferidas pelo Tribunal Superior do Trabalho. III - A Corte tem se orientado no sentido de que, em regra, a alegação de violação aos princípios do devido processo legal, contraditório e ampla defesa caracteriza ofensa reflexa à Constituição Federal, o que inviabiliza o recurso extraordinário. IV- Agravo regimental improvido” (grifos nossos).
+E ainda:
+“Recurso extraordinário: descabimento: acórdão proferido por Tribunal Regional do Trabalho: incidência da Súmula 281: precedentes” (RE 250.773, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 7.5.2004).
+6. Ademais, o art. 2º, § 3º, da Lei 5.584/70, utilizado como argumento para interposição do presente recurso, determina que somente caberá recurso das sentenças proferidas nos dissídios de alçada caso haja discussão de matéria constitucional.
+Não significa, todavia, que o recurso cabível seria o extraordinário para o Supremo Tribunal Federal.
+Nesse sentido:
+“É que, segundo a Lei 5.584, de 26.6.70, § 4º do art. 2º, nenhum recurso caberá das sentenças proferidas nos dissídios de alçada, salvo se versarem sobre matéria constitucional. É dizer, se a sentença versar matéria constitucional, a causa cai no sistema de recursos da CLT: recurso ordinário para o TRT e recurso de revista para o TST” (RE 230.739, Rel. Min. Carlos Velloso, Segunda Turma, DJ 6.2.2004).
+7. Não há, pois, o que prover quanto às alegações do Recorrente.
+8. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 15 de dezembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
