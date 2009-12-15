@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+Arthur Rezende Júnior interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 37, inciso II, da Constituição Federal e aos princípios da legalidade, da hierarquia das normas e da moralidade administrativa.
+Insurge-se, no apelo extremo, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+“ADMINISTRATIVO – AGRAVO INTERNO – CONCURSO PÚBLICO – DELEGADO DE POLÍCIA FEDERAL – EDITAL – CORREÇÃO DA PROVA DISCURSIVA – LIMITAÇÃO A TRÊS VEZES O NÚMERO DE VAGAS – CONVENIÊNCIA E OPORTUNIDADE DA ADMINISTRAÇÃO – ATO DISCRICIONÁRIO
+I – O edital constitui a lei do concurso e se aplica indistintamente a todos os candidatos. Sendo assim, tanto a Administração quanto os candidatos devem observar as normas editalícias.
+II – Não tendo o Autor se classificado dentro da regra estabelecida no edital, não foi corrigida a prova que realizou.
+III – Não se observa qualquer ilegalidade no edital ao se restringir a correção da prova discursiva dos candidatos classificados nas provas objetivas em até três vezes o número de vagas oferecidas no certame.
+IV – Todos aqueles que se inscreveram no concurso em comento, e não se classificaram dentro das vagas previamente estipuladas no edital, foram eliminados do certame. Permitir que o Autor seja favorecido e participe das demais etapas do certame, consistiria em violação ao princípio da isonomia e da impessoalidade.
+V – Os critérios estabelecidos para a seleção de candidatos, de acordo com a conveniência e oportunidade da Administração, fogem à apreciação do Juiz, em função do caráter discricionário dos atos administrativos.
+VI – Não há como pretender que o Poder Judiciário substitua o Poder Executivo no exercício de competências que lhes são inerentes, sob pena de se comprometer, irreversivelmente, o Estado de Direito que tem, na separação das funções soberanas do Estado, um dos seus mais importantes pilares.
+VII – Agravo interno desprovido” (fl. 190).
+Opostos embargos de declaração (fls. 102/103), não foram acolhidos (folhas 104 a 109).
+Insurge-se, no apelo extremo, contra a suposta ilegalidade da previsão, constante do edital regulador do concurso público em questão que estaria violando os dispositivos constitucionais acima elencados. Aduz que “foi regularmente aprovado nas provas objetivas; porém, à conta da arbitrariedade inserta no subitem 10.6 do edital do certame, foi impedido de prosseguir na competição e ter sua redação regularmente corrigida, já que não se classificou dentro do triplo do número de vagas previsto” (fl. 114).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não merece prosperar a irresignação, haja vista que o Tribunal de origem, ao decidir, ateve-se ao exame da aplicação, à situação pessoal do autor da ação, do disposto nas normas que regem o concurso público que o ora agravante estava participando.
+Tal questão se circunscreve à legislação infraconstitucional e não desafia recurso extraordinário, posto que a afronta ao texto constitucional se daria, caso houvesse, de forma indireta ou reflexa. Nesse sentido, pacífica a jurisprudência deste Supremo Tribunal Federal, conforme os seguintes precedentes, específicos para o tema ora em análise:
+“AGRAVO REGIMENTAL. CONCURSO PÚBLICO. PROVA DE TÍTULOS. CARÁTER ELIMINATÓRIO. REGRA CONSTANTE DO EDITAL. MATÉRIA INFRACONSTITUCIONAL. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. REEXAME DE FATOS E PROVAS. Os requisitos estabelecidos em edital de concurso constituem matéria de âmbito infraconstitucional. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição federal. Reexame de fatos e provas vedado pela Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI nº 521.421/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 22/9/06).
+“1. Concurso para ingresso na carreira de defensor público; recurso extraordinário: descabimento: pretensão ao exame do preenchimento dos requisitos do edital e à interpretação de legislação infraconstitucional ( Súmulas 279 e 636 ). 2. Recurso extraordinário: deficiência da fundamentação: incidência da Súmula 284” (RE nº 464.104/RS-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 16/6/06).
+“Administrativo. Concurso Público. Ausência de prequestionamento e controvérsia infraconstitucional. Regimental não provido” (AI nº 402.854/GO-AgR, Segunda Turma, Relator o Ministro Nelson Jobim, DJ de 19/12/02).
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 15 de dezembro de 2009.
+MINISTRO DIAS TOFFOLI
+Relator
