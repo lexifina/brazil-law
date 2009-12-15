@@ -1,0 +1,23 @@
+Trata-se de agravo regimental interposto contra decisão que, em 27/3/2008, negou seguimento ao agravo de instrumento. Eis o teor do julgado atacado:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, caput, e 40, § 7º, da mesma Carta.
+O agravo não merece acolhida. O acórdão recorrido decidiu a causa à luz da legislação local (Leis estaduais 1.386/51 e 4.819/58), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: RE 168.046-EDv/SP, Rel. Min. Ilmar Galvão; AI 533.240/SP, Rel. Min. Joaquim Barbosa; AI 568.155/SP, Rel. Min. Eros Grau; AI 578.240/SP, Rel. Min. Sepúlveda Pertence; AI 592.164/SP, Rel. Min. Cezar Peluso.
+Isso posto, nego seguimento ao recurso” (fl. 531).
+O agravante sustentou, em suma, que o tema é eminentemente constitucional, sendo absolutamente despicienda a verificação da legislação local para a determinação do âmbito eficacial das normas constitucionais.
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que o recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Isso porque, é pacífica a jurisprudência desta Corte no sentido de que as questões relativas à complementação de aposentadoria nos termos da Lei Estadual nº 4.819/58 e da Lei Complementar nº 200/74 do Estado de São Paulo restringem-se ao plano do direito local, insusceptíveis de reapreciação no recurso extraordinário. Incidência da Súmula nº 280/STF. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL. COMPLEMENTAÇÃO DE APOSENTADORIA DE SERVIDORES DO ESTADO DE SÃO PAULO. CASO EM QUE ENTENDIMENTO DIVERSO DO ADOTADO PELO ARESTO IMPUGNADO EXIGIRIA O REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE (LEIS ESTADUAIS Nºs 4.819/58 E 200/74). 1. A ofensa à Carta da República, se existente, ocorreria de forma reflexa ou indireta, o que não enseja a abertura da via extraordinária. Precedentes: RE 168.046, AIs 392.289-AgR, 406.185-AgR, 455.048-AgR e 481.833-AgR e RE 168.046-EDv. 2. Agravo regimental desprovido” (AI nº 666.163-AgR/SP, Rel. Min. Carlos Britto, Primeira Turma).
+“1. Análise do recurso extraordinário que envolve interpretação de direito local (Leis nºs 1.386/51, 1.974/52, 4.819/58 e 200/74, do Estado de São Paulo). Incidência da Súmula STF nº 280.
+2. Agravo regimental improvido” (RE 421.453/SP, Rel. Min. Ellen Gracie, Segunda Turma).
+Além disso, o Tribunal de origem decidiu a questão nos seguintes termos:
+“A tese segundo a qual os funcionários da SABESP não são servidores públicos, sujeitos ao regime geral da previdência social dos trabalhadores privados, não se lhes aplicando a pretendida disposição constitucional não pode ser referendada. Garantiu-se aos aposentados da SABESP o direito de receber os proventos assegurados aos demais servidores ou funcionários do Estado. Houve equiparação de direito, dando-se àqueles o direito de receber o mesmo que estes recebem, inclusive no que toca ao valor da pensão” (grifos meus - fl. 249)
+Assim, para se concluir de forma diversa do acórdão recorrido, faz-se necessário analisar normas infraconstitucionais, o que inviabiliza o recurso extraordinário.
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifos meus).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 15 de dezembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
