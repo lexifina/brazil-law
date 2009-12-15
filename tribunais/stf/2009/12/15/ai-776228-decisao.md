@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INTIMAÇÃO DO JULGADO RECORRIDO POSTERIOR A 3.5.2007. INSUFICIÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL. NÃO ATENDIMENTO AO DISPOSTO NO § 2º DO ART. 543-A DO CÓDIGO DE PROCESSO CIVIL E NO ART. 327 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O Tribunal de Justiça de Sergipe julgou apelação em mandado de segurança, nos termos seguintes:
+“APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA PREVENTIVO – PEDIDO DE CONTINUAÇÃO NO CERTAME SEM A REALIZAÇÃO DE TESTE DE BARRA PREVISTO NO EDITAL DO CONCURSO DA FUNDAÇÃO RENASCER DO ESTADO DE SERGIPE PARA O EMPREGO DE AGENTE DE SEGURANÇA DE UNIDADE DE EXECUÇÃO DE MEDIDA SÓCIO-EDUCATIVA – SENTENÇA DENEGATÓRIA – LEGALIDADE E RAZOABILIDADE DO TESTE DE BARRA – REITERADOS PRECEDENTES DO TRIBUNAL DE JUSTIÇA DE SERGIPE – RECURSO DESPROVIDO – DECISÃO UNÂNIME” (fl. 5).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que não teria sido cumprido o requisito da preliminar de repercussão geral da questão constitucional suscitada.
+4. O Agravante argumenta que:
+“Data venia, fácil se observar, mediante a leitura atenta das razões da peça recursal, onde se verifica, antes da discussão do mérito e após a sinopse fática da relação processual a explícita referência à Repercussão Geral, traduzida na enorme insegurança jurídica quanto a prevalência dos direitos fundamentais previstos na Constituição Federal, colocando os jurisdicionados sob a ameaça da violação expressa desses direitos, diante inclusive da desobediência aos princípios constitucionais, sintetizada na importância das garantias que estes princípios propiciam ao cidadão, as quais também são uma forma de segurança, traduzida na máxima garantia do indivíduo frente ao poder, por isso mesmo respeitá-los é respeitar a todos.
+Desta forma, sendo certo que o Tribunal de Justiça do Estado de Sergipe deve entender como requisito de admissibilidade do Recurso Extraordinário a argüição de preliminar de Repercussão Geral, e ainda, tendo os recorrentes explicitamente arguido tal pressuposto, e, mesmo assim, entendeu restar impossível o seguimento do referido recurso, decidiu a E. Corte contra ela mesma, o que implica na possibilidade da correção da medida injusta pelo Tribunal ad quem” (fls. 3-4).
+No recurso extraordinário, alega que o Tribunal a quo teria afrontado os arts. 5º, II e LIV, e 37, inc. I, da Constituição.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+A intimação do acórdão recorrido ocorreu no dia 22.6.2009 (fl. 17), e, nos termos do que decidido pelo Supremo Tribunal Federal no Agravo de Instrumento 664.567-QO, Relator o Ministro Sepúlveda Pertence, Tribunal Pleno, “a exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007”.
+A verificação do atendimento ao requisito de demonstração de repercussão geral da questão constitucional em preliminar formal da petição recursal antecede a análise dos demais pressupostos de admissibilidade do recurso extraordinário.
+6. Na espécie vertente, o Agravante limitou-se a afirmar que:
+“A repercussão geral de tal decisão é temerária, pois trará à sociedade enorme insegurança jurídica quanto a prevalência dos direitos fundamentais previstos na Constituição Federal, colocando os jurisdicionados sob ameaça da violação expressa desses direitos” (fl. 20).
+7. O § 1º do art. 543-A do Código de Processo Civil dispõe que, “para efeito da repercussão geral, será considerada a existência, ou não, de questões relevantes do ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos da causa”. Não basta, portanto, dizer que o tema tem repercussão geral, sendo ônus exclusivo da parte recorrente demonstrar, com argumentos substanciais, que há no caso relevância econômica, política, social ou jurídica.
+A ausência de fundamentação expressa, formal e objetivamente articulada pela parte agravante para demonstrar, nas razões do recurso extraordinário, a existência de repercussão geral da matéria constitucionalmente arguida inviabiliza o exame do recurso.
+8. Assim, embora tenha mencionado a existência, no caso vertente, de repercussão geral, o Agravante não desenvolveu argumentos suficientemente convincentes para cumprir o objetivo da exigência constitucional.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. INTIMAÇÃO DOS RECORRENTES APÓS 3.5.2007. NECESSIDADE DE DEMONSTRAÇÃO FORMAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Repercussão geral da questão constitucional: demonstração insuficiente. 2. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 700.923-AgR, de minha relatoria, Primeira Turma, DJe 17.4.2009 - grifei).
+A decisão agravada está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da parte agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 15 de dezembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
