@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE.
+1.  O Tribunal Regional Federal da 2ª Região pedido formulado em apelação ante fundamentos assim sintetizados (folha 29):
+ ADMINISTRATIVO – RESSARCIMENTO AO SUS – LEI Nº 9.656/98 – NATUREZA NÃO TRIBUTÁRIA – ASSISTÊNCIA À SAÚDE – DEVER DO ESTADO – ARTIGOS 195 E 196 DA CONTITUIÇÂO FEDERAL DE 1988.
+ I – O ressarcimento ao Sistema Único de Saúde – SUS, previsto no art. 32 da Lei nº 9.656/98, ostenta natureza jurídica restitutória, de caráter indenizatório e não tributário. Visto que o legislador, com este comando, não objetivou criar nova receita para os Cofres Públicos, inexistindo, deste modo, razões para perquirir quanto à suposta afronta a princípios constitucionais tributários.
+ II – Não é razoável a Agência Nacional de Saúde Suplementar, órgão devidamente aparelhado para o exercício de seu poder de polícia, munido de elementos aptos a uma aferição precisa, real, concreta e efetiva dos fatos por ele apreciados, valha-se de mera presunção de descumprimento de obrigação contratual para compelir determinada operadora de planos de saúde a promover o ressarcimento ao SUS.
+ III – Ainda que se considere válida a tese de enriquecimento sem causa da operadora de plano privado de assistência à saúde, convém registrar que este se deu em detrimento de seu associado, o qual pagou pela prestação de serviço médico-hospitalar que lhe foi negado, e não do Estado, cujo dever de assistência à saúde é intransferível, inescusável, e de relevo constitucional. Ademais, se houver descumprimento de cláusula contratual, trata-se de questão afeta, única e exclusivamente, à relação jurídica estabelecida entre operadora e beneficiário, da qual, ressalte-se, é o Estado parte estranha,cabendo tão-somente ao associado, caso assim deseje, socorrer-se da tutela jurisdicional para preparação do dano sofrido.
+ IV – Os serviços médico-hospitalares prestados pelas instituições vinculadas ao SUS já são devidamente custeados pela sociedade, ex vi do art. 195 da Constituição Federal, não havendo, portanto, razões para se impor às operadoras de planos de saúde qualquer tipo de obrigação de caráter ressarcitório.
+ V – A transferência para as operadoras de planos de saúde dos serviços prestados pelo SUS aos seus beneficiários implica instituição de assistência médico-hospitalar estatal de natureza onerosa, o que não encontra respaldo na Lei Maior, bem como na tentativa do Estado de, por via transversa, atribuir caráter de complementaridade e excepcionalidade ao seu mister, passando para o particular um munus publicum que a Constituição Federal originariamente lhe conferiu.
+ VI – Recurso provido.
+2.  O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+ Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo órgão julgador. Apesar da interposição de embargos declaratórios, não houve debate e decisão prévios sobre a alegada violação dos artigos 196, 197 e 199 § 2º, da Constituição Federal. Vale frisar, por oportuno, que o recorrente não arguiu o vício de procedimento.
+ Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de outro processo.
+3.  Conheço do agravo e o desprovejo.
+4.  Publiquem.
+Brasília, 15 de dezembro de 2009.
+Ministro MARCO AURÉLIO
+Relator
