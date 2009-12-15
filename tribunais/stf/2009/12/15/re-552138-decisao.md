@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+Trata-se de recurso extraordinário (folhas 336 a 346) interposto por MINERAÇÃO GRADAÚS LTDA, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Terceira Seção do Tribunal Regional Federal da 1ª Região, assim ementado:
+“CONSTITUCIONAL E PROCESSUAL CIVIL. AÇÃO RESCISÓRIA DE JULGADO PROFERIDO POR TRIBUNAL DE JUSTIÇA ESTADUAL. INCOMPETÊNCIA DOS TRIBUNAIS REGIONAIS FEDERAIS (CF. ART. 108, I, b).
+I – Nos termos do art. 108, I, b, da Constituição Federal/88, não está inserido na competência dos Tribunais Regionais Federais o processamento e julgamento de ação rescisória objetivando rescindir julgado proferido por Tribunal de Justiça Estadual, cabendo a este apreciar eventual interesse da União Federal no deslinde da demanda original e, caso o reconheça, ante a nulidade da decisão rescindenda por ausência de citação do ente federal como litisconsorte passivo necessário, rescindir o julgado e determinar a remessa dos autos à Justiça Federal.
+II – Incompetência deste eg. Tribunal declarada. Remessa dos autos ao egrégio Tribunal de Justiça do Estado do Pará” (folha 316).
+Interpostos embargos de declaração (folhas 319 a 326), não foram providos (folhas 328 a 332).
+Alega o recorrente, em suma, que a decisão recorrida violou o disposto no artigo 144, incisos I e § 1º, incisos I a IV, da Constituição Federal, ao deixar de reconhecer a competência da Justiça Federal para o processamento da ação rescisória que ajuizou.
+Processado, sem contrarrazões (folha 349v), o recurso foi admitido, na origem (folhas 82 a 83), e subiu a esta Suprema Corte.
+Por fim, o parecer da douta Procuradoria-Geral da República, é pelo provimento do recurso.
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração, foi publicado em 18/12/06, não sendo exigível, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+Merece prosperar a irresignação do recorrente, tendo em vista que o acórdão proferido pelo Tribunal de origem não está em sintonia com a jurisprudência desta Corte, que firmou entendimento no sentido de que, uma vez identificado, nos autos, interesse da União, a competência para o processamento do feito passa a ser da Justiça Federal.
+Assim, tem-se que interposta a ação rescisória perante o Tribunal de Justiça do Estado do Pará, vez que a decisão que se pretendia ver rescindida fora proferida pela Primeira Câmara Cível daquela Corte de Justiça Estadual, dada a natureza do conflito em disputa, foi determinada a intimação da União, a qual declinou ter interesse no andamento do processo.
+Então, os autos foram remetidos ao Tribunal Regional Federal que detém competência territorial para a análise da questão, o qual, porém, não procedeu à intimação da União, para confirmar seu real interesse no feito, proferindo, ao revés, a decisão ora recorrida, determinando o retorno dos autos ao mencionado Tribunal de Justiça do Estado do Pará.
+Sem razão, contudo.
+Muito embora a decisão que se pretende ver rescindida não tenha sido proferida pelo referido Tribunal Regional Federal e, sim, por outra Corte de Justiça, o certo é que a ação ora em análise tem por objetivo a desconstituição daquela decisão exatamente porque a União não teria integrado a lide, o que, ao ver da recorrente, seria de rigor, fato a justificar, sempre segundo seu entendimento, a rescisão do acórdão já proferido, para que se reiniciasse a instrução do feito, agora com a presença da União em seu pólo passivo.
+Bem por isso, a União foi instada a se manifestar, ocasião em que declinou expresso interesse em intervir no feito, o que ensejou a remessa dos autos à Justiça Federal competente.
+E tal providência se mostrava mesmo de rigor, pois consoante pacífica jurisprudência desta Suprema Corte, conforme bem observado no parecer apresentado nos autos, pelo Procurador da República oficiante, a competência da Justiça Federal é de natureza absoluta e apenas aos órgãos desse ramo da justiça incumbe dizer se há interesse da União, a determinar sua competência para processamento do feito.
+Trata-se de matéria pacificada igualmente no âmbito do Superior Tribunal de Justiça, de cujo repertório oficial de jurisprudência (RSTJ 30/66), colhe-se o seguinte precedente:
+“Competência. Ação rescisória. Ingresso no feito da Caixa Econômica Federal por motivo superveniente. Comparecendo à lide como litisconsorte necessária a empresa pública federal, competente para apreciar a ação rescisória, intentada com o objetivo de desconstituir julgado da Corte Estadual é o Tribunal Regional Federal e não o prolator do acórdão rescindendo. Precedentes do STF. Conflito conhecido, declarado competente o suscitante” (Conflito de Competência nº 1.968/ES, Relator, o Ministro Barros Monteiro).
+Forte em tais precedentes e nos termos do artigo 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso, para cassar a decisão recorrida, determinando que o Tribunal Regional Federal da 1ª Região prossiga no julgamento da ação rescisória em tela, como de direito, em seus ulteriores termos.
+Publique-se.
+Brasília, 15 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
