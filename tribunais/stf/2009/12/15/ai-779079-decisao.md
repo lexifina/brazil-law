@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO CONSTITUCIONAL SUPOSTAMENTE OFENDIDO: INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Superior Tribunal de Justiça:
+“PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA. LIMITES. EXCEÇÃO DE SUSPEIÇÃO. ART. 135, I, DO CPC. INIMIZADE CAPITAL ENTRE MAGISTRADO E MINISTÉRIO PÚBLICO. INADEQUAÇÃO. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
+1. A interpretação do art. 538, parágrafo único, do Código de Processo Civil permite afirmar que: a) quando os embargos de declaração tiverem caráter manifestamente protelatórios, o julgador condenará o embargante ao pagamento de multa não excedente a 1% sobre o valor da causa; b) havendo a reiteração de embargos protelatórios, após a imposição da primeira multa, o julgador elevará a multa a até 10% do valor da causa e a interposição de qualquer recurso subseqüente ficará condicionada ao depósito do referido valor. Hipótese não configurada no caso examinado.
+2. Nesse sentido, os seguintes precedentes desta Corte Superior: REsp 231.455/SP, 4ª Turma, Rel. Min. Aldir Passarinho Junior, DJ de 29.5.2006, p. 249; REsp 299.363/SP, 1ª Turma, Rel. Min. Humberto Gomes de Barros, DJ de 15.3.2004, p. 153; AgRg no Ag 488.311/RJ, 2ª Turma, Rel. Min. João Otávio de Noronha, DJ de 6.10.2003, p. 258.
+3. Não obstante a existência de julgados desta Corte Superior admitindo a possibilidade de oposição de exceção de suspeição por representante do Ministério Público com base no art. 135, I, do Código de Processo Civil, no caso examinado, o Tribunal de origem acolheu a alegação da configuração de inimizade capital entre o juiz excepto e o Ministério Público sem nenhuma explicitação no sentido de a suspeição atingir ações de autoria do Parquet Estadual, ou especificamente em relação a algum membro da instituição, o que, em tese, poderia ser admitido. Houve, portanto, o reconhecimento de inimizade capital entre o magistrado e o Ministério Público, o que é incompatível com os limites traçados pelo art. 135, I, do Código de Processo Civil.
+4. Recurso especial conhecido e parcialmente provido, a fim de reduzir a multa fixada nos embargos de declaração para 1% sobre o valor da causa, e julgar improcedente a exceção de suspeição oposta pelo Ministério Público do Estado de Goiás” (fl. 482).
+Os embargos declaratórios opostos contra o julgado recorrido foram rejeitados nos seguintes termos:
+“No caso dos autos, não há falar em omissão, pois a questão de ordem suscitada pelo embargante (fls. 430/431) foi analisada, em preliminar, por ocasião do julgamento do recurso especial, conforme consta expressamente da certidão de julgamento do acórdão embargado, ao consignar que a ‘Turma, por unanimidade, preliminarmente, rejeitou a questão de ordem suscitada pelo assistente do Recorrido’ (fl. 467). Tal consideração permite reconhecer a inexistência de omissão no julgado embargado” (fl. 518).
+3. No recurso extraordinário, o Agravante afirma que o Tribunal a quo teria ofendido o art. 93, inc. IX, da Constituição da República, ao argumento de que “não há qualquer fundamentação nem justificativa para a sumária rejeição da questão de ordem suscitada” (fl. 530).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta (fls. 552-553).
+O Agravante sustenta contrariedade direta à Constituição da República.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Inicialmente, cumpre afastar o fundamento da decisão agravada de que a solução da controvérsia demandaria o exame de legislação infraconstitucional, pois a matéria é de natureza constitucional.
+Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão do Agravante.
+6. O dispositivo suscitado no recurso extraordinário não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+7. Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 15 de dezembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
