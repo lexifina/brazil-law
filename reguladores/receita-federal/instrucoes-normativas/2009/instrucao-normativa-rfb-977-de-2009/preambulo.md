@@ -1,0 +1,4 @@
+Instrução Normativa RFB nº 977, de 14 de dezembro de 2009
+Dispõe sobre a suspensão da exigibilidade da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social (Cofins) incidentes sobre a venda de produtos pecuários e sobre o crédito presumido decorrente da aquisição desses produtos, na forma dos arts. 32 a 37 da Lei Nº 12.058, de 13 de outubro de 2009, e altera a Instrução Normativa SRF Nº 660, de 17 de julho de 2006.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVIII do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF Nº 125, de 4 de março de 2009, e tendo em vista o disposto nos arts. 32 a 37 da Lei Nº 12.058, de 13 de outubro de 2009, resolve:
+CAPÍTULO I DO ÂMBITO DE APLICAÇÃO
