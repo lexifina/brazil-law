@@ -1,0 +1,14 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte nas alíneas “a” e “c” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 161):
+“ DECLARATÓRIA – ICMS – Art. 158, p. único, inciso I da CF – Correção do Índice de participação do Município no produto de arrecadação do ICMS – Remessa de álcool carburante do estabelecimento produtor ao estabelecimento distribuidor – Pretensão que visa à inclusão das quantias relativas às saídas do Município para fins do valor adicionado – Hipótese de substituição tributária – ICMS recolhido pelo estabelecimento distribuidor – Cálculo correto da Secretaria da Fazenda – Sentença de improcedência – Apelação improvida.”
+2. Pois bem, a parte recorrente alega ofensa ao inciso IV do art. 158 e ao inciso I do art. 161 da Magna Carta de 1988. Requer o provimento do extraordinário para “determinar à recorrida que acate o preenchimento das DIPAMs pelos contribuintes com os valores do respectivo ICMS incidente nas operações de remessa de álcool carburante do estabelecimento produtor (Município A) para o estabelecimento do distribuidor (Município B)”.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo de Tarso Braz Lucas, opina pelo não conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. Isso porque a controvérsia foi decidida centralmente à luz da legislação infraconstitucional pertinente (Lei Complementar nº 63/90 e Resoluções SF-30/95 e SF-44/95). Logo, afronta ao Magno Texto, se existente, apenas ocorreria de modo indireto ou reflexo, o que não autoriza a abertura da via extraordinária. Para cimentar meu entendimento, reproduzo o seguinte trecho do voto condutor do acórdão impugnado :
+“A sentença demonstrou, ademais, de forma irrespondível, que do art. 3º, § 1º, da Lei Complementar nº 63/90, resulta que o valor adicionado obtém-se em função da base de cálculo do ICMS, não devido à soma do valor e do tributo devido, de maneira que o cálculo da quota devida ao Município, com exclusão do ICMS, está de acordo com o preceito legal.”
+5. Não bastasse, pontuo que Superior Tribunal de Justiça negou seguimento ao recurso especial manejado simultaneamente ao apelo extremo. Nessa contextura, permanecem incólumes os fundamentos infraconstitucionais do aresto impugnado, o que atrai a incidência da Súmula 283 desta nossa Corte. Súmula cuja dicção é a seguinte:
+“É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.”
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 16 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
