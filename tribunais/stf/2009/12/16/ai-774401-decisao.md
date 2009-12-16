@@ -1,0 +1,19 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“EMENTA – APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA – CURSO DE FORMAÇÃO DE SARGENTOS DA POLÍCIA MILITAR DO ESTADO DO MATO GROSSO DO SUL – INGRESSO NEGADO – CONDENAÇÃO NA JUSTIÇA – DISCRIMINAÇÃO INJUSTIFICÁVEL – IDONEIDADE MORAL – ATESTADA – REQUISITOS PREVISTOS UNICAMENTE EM DECRETO-LEI – SUBSERVIÊNCIA PRESCINDÍVEL – ESTATUTO DOS POLICIAIS MILITARES – LEI COMPLEMENTAR QUE SE MOSTRA IMPERATIVA – DIREITO DE O POLICIAL PARTICIPAR DE CURSOS DE FORMAÇÃO OU APERFEIÇOAMENTO – DECISÃO REFORMADA – RECURSO PROVIDO.
+(...)” (fl. 211).
+No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se violação aos arts. 5º, XXXV, LV, LIX, 22, XXI, 42, § 1º, 93, IX e 144, § 6º, da mesma Carta.
+O agravo não merece acolhida. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+Além disso, a apreciação do RE demanda o exame da matéria de fato constante dos autos, bem como normas infraconstitucionais locais (Lei Complementar Estadual Nº 53/90) o que atrai a incidência das Súmulas 279 e 280 do STF. Trago por oportuno trecho do acórdão recorrido:
+“No julgamento do Agravo de Instrumento n. 2004.014919-1, já havia exteriorizado o entendimento de que o impetrante fazia jus à matrícula no curso de formação e aperfeiçoamento. Vejamos:
+‘(...)
+É importante salientar que não houve qualquer questionamento acerca da sua adequação às exigências técnicas previstas no Edital, tendo em vista que, encontra-se o recorrente devidamente aprovado para iniciar aludido curso.
+A norma contida no artigo 12 do Estatuto dos Policiais Militares (Lei Complementar Estadual Nº 53/90) estabelece que: ‘Para matrícula nos estabelecimentos de ensino policial-militar, destinados à formação de policiais-militares, além das condições relativas à nacionalidade, idade, aptidão intelectual, capacidade física e idoneidade moral, é necessário que o candidato não exerça nem tenha exercido atividades prejudiciais ou perigosas à Segurança Nacional’
+Já a regra prevista no inciso VI do artigo 47 do mesmo Estatuto, garante aos policiais militares: ‘a promoção e o direito de freqüentar cursos e estágios de formação e aperfeiçoamento, independentemente de estar em condição de indiciado ou sub-judice’.(...)
+Dessa maneira advém da análise conjunta dos trasladados artigos que a participação em cursos de formação é um direito do policial, ainda que o requisito idoneidade moral deva ser observado” (grifos no original - fls. 213-215).
+Outrossim, como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, XXXV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, observa-se que, com a negativa de provimento ao agravo regimental pelo Superior Tribunal de Justiça (Ag 1.156.871/MS, com trânsito em julgado em 30/9/2009) tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 16 de dezembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
