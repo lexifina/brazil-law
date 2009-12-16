@@ -1,7 +1,7 @@
 Art. 20. Fica a União autorizada a participar, até o limite de R$ 2.000.000.000,00 (dois bilhões de reais), de Fundo Garantidor da Habitação Popular - FGHab, que terá por finalidades:
 I - garantir o pagamento aos agentes financeiros de prestação mensal de financiamento habitacional, no âmbito do Sistema Financeiro da Habitação, devida por mutuário final, em caso de desemprego e redução temporária da capacidade de pagamento, para famílias com renda mensal de até 10 (dez) salários mínimos; e
 II - assumir o saldo devedor do financiamento imobiliário, em caso de morte e invalidez permanente, e as despesas de recuperação relativas a danos físicos ao imóvel para mutuários com renda familiar mensal de até 10 (dez) salários mínimos.
-§ 1º As condições e os limites das coberturas de que tratam os incisos I e II deste artigo serão definidos no estatuto do FGHab.
+§ 1º As condições e os limites das coberturas de que tratam os incisos I e II deste artigo serão definidos no estatuto do FGHab, que poderá estabelecer os casos em que será oferecida somente a cobertura de que trata o inciso II.
 § 2º O FGHab terá natureza privada e patrimônio próprio dividido em cotas, separado do patrimônio dos cotistas.
 § 3º Constituem patrimônio do FGHab:
 I - os recursos oriundos da integralização de cotas pela União e pelos agentes financeiros que optarem por aderir às coberturas previstas nos incisos I e II do caput deste artigo;
