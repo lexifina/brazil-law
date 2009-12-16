@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil.
+2.  Alega-se, no extraordinário, ofensa ao disposto nos artigos 2º, 5º, II, XXXV e LV, 24, II, 93, IX, e 195, I, “b”, da CB/88.
+3.  Deixo de apreciar a existência da repercussão geral, vez que o artigo 323, § 1º, do RISTF dispõe que "[t]al procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+4.  O agravo não merece provimento. O acórdão recorrido está em consonância com o entendimento, deste Tribunal, fixado no julgamento do RE n. 585.235-RG-QO, Relator o Ministro Cezar Peluso, DJe de 28.11.08, cuja ementa transcrevo:
+“EMENTA: RECURSO. Extraordinário. Tributo. Contribuição social. PIS. COFINS. Alargamento da base de cálculo. Art. 3º, § 1º, da Lei nº 9.718/98. Inconstitucionalidade. Precedentes do Plenário (RE nº 346.084/PR, Rel. orig. Min. ILMAR GALVÃO, DJ de 1º.9.2006; REs nos 357.950/RS, 358.273/RS e 390.840/MG, Rel. Min. MARCO AURÉLIO, DJ de 15.8.2006) Repercussão Geral do tema. Reconhecimento pelo Plenário. Recurso improvido. É inconstitucional a ampliação da base de cálculo do PIS e da COFINS prevista no art. 3º, § 1º, da Lei nº 9.718/98.”
+5.  Quanto à alegação de ofensa ao disposto nos artigos 5º, II, XXXV, e LV, e 93, IX, da Constituição do Brasil, a jurisprudência deste Tribunal fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 16 de dezembro de 2009.
+Ministro Eros Grau
+- Relator –
