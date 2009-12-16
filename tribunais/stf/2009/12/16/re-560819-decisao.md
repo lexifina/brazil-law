@@ -1,0 +1,11 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Rio Grande do Sul que negou o direito de professora do Magistério estadual, extranumerária, de incorporar aos seus vencimentos a complementação Premem (Programa de Expansão e Melhoria de Ensino Médio), instituída pela Lei gaúcha nº 6.534/73.
+Sustenta a recorrente, com base no art. 102, III, a, violação ao art. 37, caput e XV, da Constituição Federal. Aduz, que a vantagem pecuniária suprimida seria inerente ao próprio exercício do cargo para o qual fora contratada, razão pela qual, incorrera em equívoco o julgado, ao confirmar alegação que não regeria classe em escola polivalente, que seria, em última análise, a justificativa para o recebimento da referida vantagem.
+2.  Inadmissível o recurso.
+ Diante da impossibilidade de, em recurso extraordinário, rever a Corte as premissas de fato em que, para decidir a causa, se assentou o Tribunal de origem, à luz da prova dos autos, é evidente que, para adotar outra conclusão, seria mister reexame prévio do conjunto fático-probatório, coisa de todo inviável perante o teor da súmula 279.
+ Ademais, examinando questão idêntica, decidiu a Primeira Turma, no julgamento do AI nº 513.975-AgR (Rel. Min. CARLOS BRITTO, DJE de 25.9.2009):
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. COMPLEMENTAÇÃO PREMEM. INCORPORAÇÃO AOS PROVENTOS DE SERVIDORES INATIVOS. ACÓRDÃO PROFERIDO PELO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, QUE DECIDIU A CONTROVÉRSIA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL PERTINENTE. INCIDÊNCIA DA SÚMULA 280 DESTA CORTE. 1. Entendimento diverso do adotado pelo aresto impugnado exigiria o reexame da legislação infraconstitucional pertinente (Lei estadual nº 6.534/73), providência inviável na instância extraordinária. 2. Precedentes: AIs 449.846, da relatoria do ministro Marco Aurélio; 459.828, da minha relatoria; 491.288, da relatoria do ministro Carlos Velloso; e 490.490, da relatoria do ministro Eros Grau. 3. Agravo regimental desprovido”.
+3.  Adotando, pois, os fundamentos dos precedentes, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+ Brasília, 16 de dezembro de 2009.
+Ministro CEZAR PELUSO
+Relator
