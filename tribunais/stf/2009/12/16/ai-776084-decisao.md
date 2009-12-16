@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil.
+2.  Alega-se, no extraordinário, ofensa ao disposto no artigo 5º, XXXVI, da CB/88.
+3.  O agravo não merece provimento. O acórdão recorrido não apreciou a controvérsia à luz dos preceitos constitucionais que o recorrente indica como violados. Além disso, não foram opostos embargos de declaração. Aqui incidem as Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+4.  O prequestionamento, no entendimento pacificado deste Tribunal, deve ser explícito [AI n. 215.724-AgR, Relator o Ministro Sydney Sanches, 1ª Turma, DJ de 15.10.99, e RE n. 192.031-AgR, Relator o Ministro Néri da Silveira, 2ª Turma, DJ de 4.6.99].
+5.  Ademais, para dissentir-se do acórdão recorrido, seria necessário o reexame de cláusulas de contrato [Súmula n. 454 do STF], o que resulta inviável na via extraordinária.
+6.  Quanto à alegação de ofensa ao disposto no artigo 5º, XXXVI, da Constituição do Brasil, a jurisprudência deste Tribunal fixou-se no sentido de que a verificação, em cada caso concreto, da ocorrência, ou não, de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada situa-se no campo infraconstitucional [AI n. 135.632-AgR, Relator o Ministro Celso de Mello, DJ de 3.9.99, AI n. 551.002-AgR, Relator o Ministro Carlos Velloso, DJ de 16.12.05].
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 16 de dezembro de 2009.
+Ministro Eros Grau
+- Relator –
