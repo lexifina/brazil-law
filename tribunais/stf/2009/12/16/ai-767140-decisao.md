@@ -1,0 +1,36 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. TAXA DE LICENÇA ONEROSA. ALEGAÇÃO DE BASE DE CÁLCULO SEMELHANTE À DE IMPOSTO. POSSIBILIDADE DA UTILIZAÇÃO DE UM DOS ELEMENTOS DO IMPOSTO TERRITORIAL URBANO. PRECEDENTES. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea c, da Constituição da República.
+2. O recurso inadmitido teve como objeto o seguinte julgado do Tribunal de Justiça de Goiás:
+“APELAÇÃO CÍVEL. TRIBUTÁRIO. TAXA DE LICENÇA ONEROSA. BASE DE CÁLCULO. CONSTITUCIONALIDADE.
+O valor a ser pago pela outorga da taxa de licença onerosa é o produto da multiplicação do valor venal do metro quadrado natural pela quantidade de metros quadrados de solo criado, enquanto que a base de cálculo do ITU considera apenas o valor venal do imóvel. Portanto, não há que se falar em ofensa ao art. 145, parágrafo 2º, da Constituição Federal, muito menos em inconstitucionalidade dos artigos 25 e 26 da Lei Complementar Municipal n. 31/94.
+APELO IMPROVIDO” (fl. 355).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que “não restou demonstrado que o acórdão atacado tenha julgado válida lei local contestada em face da Constituição Federal” (fl. 23).
+4. No recurso extraordinário, alega que teriam sido contrariados os arts. 145, § 2º, inc. II, e 150, inc. IV, da Constituição.
+Afirma que:
+“o r. acórdão (doc. XII) que julgou a apelação já declarara válido o art. 26, parágrafo único, da Lei Complementar Municipal nº 31/94, contestado em face do art. 45, § 2º, da Constituição Federal, fato que por si só já impunha ao Excelentíssimo Senhor Desembargador Presidente do Egrégio Tribunal a quo reconhecer a harmonia do Recurso Extraordinário com o permissivo constitucional consubstanciado no art. 102, inc. III, alínea ‘c’, do Diploma Fundamental para lhe dar seguimento” (fl. 12).
+Argumenta, ainda, que a taxa em questão teria base de cálculo de imposto, que seu valor seria ofensivo ao princípio da proporcionalidade e que o Estado não exerceria, nesse caso, o poder de polícia necessário à cobrança de taxas.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Em preliminar, é de se realçar que, apesar de ter sido a Agravante intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso.
+6. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois o acórdão recorrido manifestou-se expressamente no sentido de que os arts. 25 e 26 da Lei Complementar estadual n. 31/1994 não seriam ofensivos à Constituição.
+Todavia, a superação desse óbice não permite acolher a pretensão da Agravante, pois a ela não assiste razão na forma do direito vigente.
+7. O Tribunal a quo asseverou que:
+“In casu, alega a apelante que a cobrança de taxa de licença mostra-se inconstitucional, uma vez que possui base de cálculo própria de imposto, tomando por base o valor venal do metro quadrado do terreno, utilizado no cálculo do ITU, o que ofende o § 2º do art. 145 da Carta Magna. Entretanto, mostra-se equivocada a tese esboçada pela autora/apelante, pois a vedação constitucional de que as taxas não podem ter base de cálculo própria de imposto é evidente e expressa. Porém, no caso em exame não se verifica tal proibição. Isto porque, a base de cálculo da referida Taxa de Licença, tomando por base o valor venal do metro quadrado do terreno, constitui apenas um dos elementos levados em consideração na base de cálculo do ITU (Imposto Territorial Urbano). (...) Assim, não há dúvidas no tocante as substanciais diferenças entre os critérios usados como base de cálculo do ITU e da Taxa de Licença Onerosa questionada nos autos. Portanto, deve a sentença vergastada ser mantida, dada a ausência de afronta ao disposto no art. 145, § 2º, da Carta Magna, inexistindo qualquer inconstitucionalidade quanto ao art. 26, parágrafo único, da Lei Complementar nº 31/94” (fls. 348-349 – grifos nossos).
+8. Esse entendimento está em harmonia com a jurisprudência firmada no Supremo Tribunal Federal nos julgamentos proferidos em ações que questionavam a constitucionalidade da taxa de coleta de lixo, a partir da existência de elemento semelhante àquele utilizado na base de cálculo do Imposto Predial e Territorial Urbano – IPTU.
+O Supremo Tribunal firmou, então, entendimento no sentido de que “O fato de um dos elementos utilizados na fixação da base de cálculo do IPTU - a metragem da área construída do imóvel - que é o valor do imóvel (CTN, art. 33), ser tomado em linha de conta na determinação da alíquota da taxa de coleta de lixo, não quer dizer que teria essa taxa base de cálculo igual à do IPTU” (RE 232.393, Rel. Min. Carlos Velloso, Tribunal Pleno, DJ 5.4.2002).
+No mesmo sentido, ainda, os seguintes julgados:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TAXA: POSSIBILIDADE DE UTILIZAÇÃO DE ELEMENTOS DA BASE DE CÁLCULO  DO IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA -  IPTU. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 336.782-AgR, de minha relatoria, Primeira Turma, DJe 1º.7.2009).
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TAXA DE COLETA DE LIXO. CONSTITUCIONALIDADE. DÉBITOS DA FAZENDA PÚBLICA. JUROS E CORREÇÃO MONETÁRIA. NECESSIDADE DE LEGISLAÇÃO QUE DISCIPLINE A MATÉRIA. SUCUMBÊNCIA. JUÍZO DA EXECUÇÃO.
+1. A taxa de limpeza pública, quando não vinculada a limpeza de ruas e de logradouros públicos, constitui tributo divisível e específico, atendido ao disposto no artigo 145, II, da CB/88. Precedentes.
+2. O fato de um dos elementos utilizados na fixação da base de cálculo do IPTU ser considerado quando da determinação da alíquota da taxa de coleta de lixo não significa que ambos tenham a mesma base de cálculo. Precedentes.
+3. A correção monetária e a incidência de juros sobre os débitos da Fazenda Pública dependem de lei que regulamente a matéria. Precedentes.
+4. Os honorários de sucumbência devem ser decididos no juízo da execução.
+Agravo regimental a que se nega provimento” (RE 532.940-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 15.8.2008 – grifos nossos).
+Dessa orientação jurisprudencial não divergiu o acórdão recorrido. Não há, pois, o que prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de dezembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
