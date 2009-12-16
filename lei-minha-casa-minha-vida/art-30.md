@@ -1,5 +1,9 @@
-Art. 30. As coberturas do FGHab, descritas no art. 20, serão prestadas às operações de financiamento habitacional que obedeçam às seguintes condições:
-I - aquisição de imóveis novos, com valores de financiamento limitados aos definidos no estatuto do Fundo;
-II - cobertura para somente um único imóvel financiado por mutuário no âmbito do Sistema Financeiro da Habitação; e
-III - previsão da cobertura pelo FGHab expressa em cláusula específica dos contratos celebrados entre os agentes financeiros e os mutuários finais.
-Parágrafo único. O estatuto do FGHab definirá o prazo das coberturas oferecidas pelo Fundo.
+Art. 30. As coberturas do FGHab, descritas no art. 20, serão prestadas às operações de financiamento habitacional nos casos de:
+I - produção ou aquisição de imóveis novos em áreas urbanas;
+II - requalificação de imóveis já existentes em áreas consolidadas no âmbito do Programa Nacional de Habitação Urbana - PNHU; ou
+III - produção de moradia no âmbito do Programa Nacional de Habitação Rural - PNHR.
+§ 1º A contratação das coberturas de que trata o caput está sujeita às seguintes condições:
+I - os valores de financiamento devem obedecer aos limites definidos no estatuto do Fundo;
+II - a cobertura do FGHab está limitada a um único imóvel financiado por mutuário no âmbito do SFH; e
+III - a previsão da cobertura pelo FGHab deve estar expressa em cláusula específica dos contratos celebrados entre os agentes financeiros e os mutuários.
+§ 2º O estatuto do FGHab definirá o prazo das coberturas oferecidas pelo Fundo.
