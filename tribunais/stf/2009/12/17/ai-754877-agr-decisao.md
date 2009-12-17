@@ -1,0 +1,27 @@
+Trata-se de agravo regimental interposto contra decisão que, em 21/10/2009, negou seguimento ao agravo de instrumento. Eis o teor do julgado atacado:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+‘RECURSO ESPECIAL. AGRAVO REGIMENTAL. ADMINISTRATIVO. INCORPORAÇÃO DE QUINTOS. SERVIDOR DO PODER EXECUTIVO CEDIDO PARA O PODER JUDICIÁRIO. INCORPORAÇÃO COM BASE NA FUNÇÃO EFETIVAMENTE EXERCIDA. RECURSO ESPECIAL PROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo a compreensão firmada pelo Superior Tribunal de Justiça, o pagamento da Vantagem Pessoal Nominalmente Identificada (VPNI) decorrente da incorporação de quintos, deve ser feito com base nos valores das funções efetivamente exercidas, vedada a sua redução com base na correlação de cargos.
+2. Agravo regimental a que se nega provimento’ (fl. 100).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 2º, 5º, XXXVI, 37, caput e XV, 61, § 1º, II, a, 97, 167, II, e 169, § 1º, I e II, da mesma Carta.
+O agravo não merece acolhida. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+Além disso, o acórdão recorrido dirimiu a questão dos autos com apoio unicamente nas normas infraconstitucionais pertinentes ao caso. Assim, a ofensa a Constituição, se ocorrente, seria indireta, o que inviabiliza o recurso extraordinário.
+Por fim, não procede a alegação de ofensa ao art. 97 da CF/88. É que, no caso, não houve declaração de inconstitucionalidade de lei por órgão fracionário de Tribunal nem o afastamento de norma por fundamentos extraídos da Constituição. Na verdade, o acórdão impugnado cingiu-se a mencionar a jurisprudência do STJ alusiva à hipótese em exame, sem fazer qualquer juízo acerca de dispositivos da Constituição.
+Isso posto, nego seguimento ao recurso” (fls. 229-230).
+A agravante sustentou, em suma, que a matéria encontra-se afetada ao Plenário do STF no AI 410.946-AgR/DF, Rel. Min. Celso de Mello, que houve o prequestionamento e que há ofensa direta aos dispositivos constitucionais.
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que a recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Isso porque, a decisão agravada está de acordo com entendimento adotado por ambas as Turmas desta Corte, que consolidaram a jurisprudência no sentido de que a questão da incorporação de quintos demanda análise de normas infraconstitucionais e, por isso, a afronta à Constituição, se ocorrente, seria indireta, conforme se observa no julgamento do
+RE 586.148-AgR/DF, Rel. Min. Cármen Lúcia, cuja ementa transcrevo a seguir:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO: INCORPORAÇÃO DE QUINTOS E DÉCIMOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+No mesmo sentido, menciono as seguintes decisões, entre outras: AI 410.684-AgR/DF, Rel. Min. Nelson Jobim; RE 467.957-AgR/DF, Rel. Min. Cezar Peluso; AI 563.313/DF, Rel. Min. Carlos Velloso; RE 358.309/DF, Rel. Min. Sepúlveda Pertence.
+Ademais, o Tribunal a quo, ao analisar o caso concreto, não declarou a inconstitucionalidade de lei ou afastou a sua aplicação, mas apenas aplicou a jurisprudência do STJ interpretando a legislação infraconstitucional aplicável à espécie. Assim, não há qualquer violação ao art. 97 da Constituição.
+Outrossim, a matéria do presente feito não tem pertinência com o que está sendo discutido no AI 410.946-AgR/DF, Rel. Min. Celso de Mello, que diz respeito ao direito adquirido à manutenção de vantagens incorporadas quando o servidor toma posse em novo cargo efetivo na Administração Pública.
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifos meus).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 17 de dezembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
