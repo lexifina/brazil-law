@@ -1,0 +1,13 @@
+Trata-se de agravo regimental interposto contra decisão que julgou prejudicado o recurso extraordinário por perda de objeto, uma vez que o Superior Tribunal de Justiça deu provimento ao recurso especial para reconhecer a inconstitucionalidade do art. 3º, § 1º, da Lei 9.718/98 e determinou o retorno dos autos ao Tribunal de origem para apreciar as demais questões pendentes.
+A agravante sustentou, em suma, que a decisão agravada deve ser reformada, ao argumento de que o STJ não analisou a questão da majoração da alíquota da COFINS, prevista no art. 8º da Lei 9.718/98, ou seja, há matéria constitucional de mérito remanescente que deve ser apreciada por esta Corte.
+Bem reexaminados os autos, verifico que assiste razão à agravante. Passo a decidir o recurso extraordinário.
+Preliminarmente, cumpre salientar que o presente recurso perdeu o objeto em relação à discussão sobre a legitimidade do art. 3º, § 1º, da referida lei.
+Quanto à majoração da alíquota, o Plenário do Supremo Tribunal Federal, ao julgar os Recursos Extraordinários 346.084/PR, Rel. orig. Min. Ilmar Galvão, 357.950/RS, 358.273/RS e 390.840/MG, Rel. Min. Marco Aurélio, concluiu pela constitucionalidade do caput do art. 8º da Lei 9.718/98, que majorou a alíquota da COFINS anteriormente prevista na LC 70/91, ao fundamento de que essas leis dispuseram sobre aumento de alíquota de contribuição instituída com base no inciso I do art. 195 da CF - matéria reservada à lei ordinária - e não de um novo tributo criado nos termos do § 4º deste artigo - faculdade só exercida por lei complementar.
+No entanto, a alteração da alíquota é exigível somente a partir de 1º/2/99, consoante o art. 195, § 6º, da CF.
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 386.457-AgR/PR, Rel. Min. Celso de Mello; RE 419.903-AgR/PE, Rel. Mn. Carlos Britto; RE 399.482-AgR/BA, Rel. Min. Cezar Peluso; RE 441.465-AgR/DF, Rel. Min. Joaquim Barbosa; RE 436.846-AgR-ED/PR, Rel. Min. Eros Grau; RE 389.847-AgR/RS e RE 393.938-AgR/MG, Rel. Min. Cármen Lúcia; RE 451.524-AgR/SP, Rel. Min. Gilmar Mendes; RE 419.010-AgR/RJ e RE 523.943-ED/SP, Rel. Min. Sepúlveda Pertence; RE 378.877-ED/GO, de minha relatoria.
+Essa jurisprudência pela constitucionalidade do referido dispositivo foi reafirmada recentemente pelos Ministros desta Corte ao julgar o RE 527.602/SP, Rel. para o Acórdão Min. Marco Aurélio.
+Isso posto, dou provimento ao agravo regimental para reconsiderar a decisão de fl. 717 e negar seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 17 de dezembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
