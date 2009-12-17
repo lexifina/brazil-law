@@ -1,0 +1,26 @@
+DECISÃO: Reclamação, com pedido de medida liminar, contra acórdão do Tribunal de Justiça do Estado de São Paulo nos autos do Sequestro n. 114.669.0.
+2.   O Presidente do TJ/SP reconheceu a quebra da ordem cronológica para pagamento de precatório referente à indenização por desapropriação e determinou o sequestro de verbas do Município de São Bernardo do Campo.
+3.  Dessa decisão o Município interpôs agravo regimental, provido, por maioria de votos, pelo Tribunal de Justiça do Estado de São Paulo.
+4.  Os reclamantes sustentam que esse provimento jurisdicional, ao excluir dos cálculos do precatório a incidência de juros moratórios e compensatórios, teria afrontado a decisão do Supremo Tribunal Federal na ADI n. 1.098, no sentido de que, “[c] onstatado erro material ou inexatidão nos cálculos, compete ao Presidente do Tribunal determinar as correções, fazendo-o a partir dos parâmetros do título executivo judicial, ou seja, da sentença exeqüenda” [ADI n. 1.098, Relator o Ministro MARCO AURÉLIO, DJ de 25.10.96] .
+5.  Sustenta que a inclusão dos juros compensatórios e moratórios no precatório é matéria que fora debatida na ação de desapropriação e que a coisa julgada só poderia ser desconstituída por via judicial, não em procedimento de pagamento de precatório, que teria índole administrativa.
+6.  Solicitei informações à autoridade reclamada [fls. 102 e 114], que esclareceu que “com a ressalva do entendimento pessoal deste Presidente, o E. Órgão Especial modificou orientação anterior, para determinar a exclusão de juros moratórios e compensatórios, sem vinculação à alegada coisa julgada, que pode ser flexibilizada quando contrariar comando constitucional ou jurisprudência formada perante o E. Supremo Tribunal Federal” [fl. 132].
+7.  O Ministério Público Federal manifestou-se pela improcedência do pedido [fls. 123/127].
+8.  O Município de São Bernardo do Campo alegou perda de objeto da presente reclamação “porquanto a Municipalidade foi intimada a prestar informações acerca do sequestro perpetuado em suas rendas, sob pretexto de falta de pagamento das diferenças verificadas nos décimos constitucionais até então pagos, porém, sem a inclusão dos juros em continuação, seguindo o entendimento desta Suprema Corte” [fls. 240/241].
+9.  A reclamante sustentou que o despacho a que faz referência o Município interessado, que ainda não teria sido cumprido, deferiu aos reclamantes o sequestro apenas da parte incontroversa, excluídos os juros compensatórios, o que não implica a perda de objeto da reclamação [fls. 249/254].
+10.  Em nova petição a reclamante reitera o pedido de medida liminar e informa que, em procedimentos de sequestro similares, a Presidência do TJ/SP, em despachos de reconsideração, tem restabelecido ordens de sequestro ao fundamento de não ser possível, em atividade administrativa, a exclusão de juros moratórios e compensatórios [fls. 372/410].
+11.  É o relatório. Decido.
+12.  O Supremo manifestou-se no sentido de que a decisão proferida por Presidente de Tribunal em processamento de precatório tem caráter eminentemente administrativo, de índole não jurisdicional. Lê-se na ementa do RE n. 213.696-AgR, Tribunal Pleno, Relator o Ministro CARLOS VELLOSO, DJ de 6.2.98:
+“EMENTA: CONSTITUCIONAL. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. PRECATÓRIO: PROCESSAMENTO DO TRIBUNAL: ATIVIDADE ADMINISTRATIVA.
+I. - A atividade desenvolvida pelo Presidente do Tribunal, no processamento do precatório, não é jurisdicional, mas administrativa. Também é administrativa a decisão do Tribunal tomada em agravo regimental interposto contra despacho do Presidente na mencionada atividade. Precedente do STF: ADIn 1098-SP.
+II. - O recurso extraordinário pressupõe a existência de causa decidida em única ou última instância por órgão do Poder Judiciário no exercício de função jurisdicional. Proferida a decisão em sede administrativa, não há falar em causa. Não cabimento do recurso extraordinário.
+III - R.E. admitido na origem. Negativa de trânsito por decisão do Relator. Agravo não provido.”
+13.  O Supremo Tribunal Federal decidiu ainda, nos autos da ADI n. 1.098, que a competência do Presidente do Tribunal para determinar correções de cálculo de atualização de precatório está limitada aos parâmetros do título executivo judicial.
+14.  Ademais, segundo a jurisprudência deste Tribunal, os juros moratórios são cabíveis na hipótese de inadimplemento da Fazenda Pública no pagamento do parcelamento previsto no artigo 33 do ADCT [RE n. 459.057-AgR, Relator o Ministro CARLOS VELLOSO, DJ de 9.12.05; RE n. 603.920, de que fui relator, DJ de 23.11.09].
+15.  O Tribunal de Justiça do Estado de São Paulo não poderia, ao rever decisão do Presidente daquele Tribunal em procedimento administrativo, examinar o acerto ou desacerto da imposição de juros moratórios e/ou compensatórios constante no título judicial, questão que só poderia ser suscitada e dirimida em âmbito jurisdicional. No mesmo sentido, a Rcl n. 6296-MC, Relatora a Ministra CÁRMEM LÚCIA, DJ de 17.9.08.
+ Julgo procedente a reclamação para cassar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo nos autos do Sequestro n. 114.669.0 [artigo 161, parágrafo único, do RISTF].
+ Arquivem-se estes autos.
+ Comunique-se.
+ Publique-se.
+ Brasília, 17 de dezembro de 2009.
+Ministro Eros Grau
+- Relator -
