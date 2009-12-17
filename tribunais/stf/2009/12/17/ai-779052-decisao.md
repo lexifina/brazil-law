@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1. AUSÊNCIA DE PREQUESTIONAMENTO: INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2. ALEGAÇÃO DE OFENSA AO ART. 5º, INC. XXXV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. 3. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL: DESNECESSIDADE. INTIMAÇÃO DO ACÓRDÃO RECORRIDO ANTERIOR A 3.5.2007. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com fundamento no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido teve como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“Embargos do devedor. Acolhimento parcial. Sucumbência recíproca. Existência. Repartição entre as partes. Possibilidade.
+1. Verificada a sucumbência recíproca, pela procedência parcial dos embargos do devedor, que geraram a redução substancial do débito executado, a sua repartição entre as partes é imperativo legal.
+2. Sentença mantida, em reexame necessário, ficando prejudicado o recurso voluntário” (fl. 84).
+3. No recurso extraordinário, o Agravante alega que o Tribunal a quo teria ofendido o art. 5º, inc. XXXV e LV, da Constituição da República.
+Argumenta que “é fato incontroverso nos autos que, no momento do pagamento, aplica-se o percentual reduzido da multa, como previsto legalmente, independentemente de decisão judicial, o que também autoriza o entendimento de que (...) não sucumbiu, sequer parcialmente” (fl. 112).
+Sustenta que “não ocorreu [su]a sucumbência parcial (...), por via de consequência, incabível sua condenação ao pagamento rateado de honorários advocatícios, aplicando-se à espécie também o caput do art. 20 e 21 do Código de Processo Civil” (fl. 113).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento e a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 137-138).
+Examinada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Quanto à preliminar de repercussão geral, é de se anotar que o Agravante foi intimado do acórdão recorrido antes de 3.5.2007 (fl. 99), o que dispensa a demonstração da repercussão geral da questão constitucional em capítulo especial do recurso extraordinário, nos termos do que decidido pelo Plenário do Supremo Tribunal Federal no Agravo de Instrumento 664.567-QO, Relator o Ministro Sepúlveda Pertence.
+7. A matéria constitucional suscitada nas razões recursais, tida como afrontada, não foi objeto de debate e decisão prévios no Tribunal de origem, requisito indispensável ao conhecimento do recurso extraordinário. Também não fora suscitada nos embargos de declaração opostos de modo a se ter por provocado o prequestionamento da matéria constitucional. Incidem na espécie as Súmulas 282 e 356 do Supremo Tribunal Federal.
+8. Ainda que pudesse ser ultrapassado esse óbice - o que não se dá na espécie -, melhor sorte não acudiria ao pleito do Agravante. O Supremo Tribunal Federal firmou o entendimento de que a alegação de afronta ao art. 5º, inc. XXXV, LIV e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (Código de Processo Civil e Lei n. 12.729/97), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta.
+Nesse sentido:
+“PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DESTE SUPREMO TRIBUNAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência deste Supremo Tribunal firmou-se no sentido de que "os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada". Precedentes. 2. O Supremo Tribunal Federal firmou jurisprudência no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República. Precedentes. 3. Agravo regimental desprovido” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2008).
+“RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+9. Não há, pois, o que prover quanto às alegações do Agravante.
+10. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 17 de dezembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
