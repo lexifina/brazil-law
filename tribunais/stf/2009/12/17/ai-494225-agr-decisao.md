@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. SALÁRIO PROFISSIONAL. VEDAÇÃO DE VINCULAÇÃO AO SALÁRIO MÍNIMO. INCIDÊNCIA DA SÚMULA VINCULANTE N. 4. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. ANÁLISE, DESDE LOGO, DO AGRAVO DE INSTRUMENTO. AGRAVO E RECURSO PROVIDOS.
+Relatório
+1. Em 5 de novembro de 2008, dei provimento ao agravo de instrumento e parcial provimento ao recurso extraordinário interpostos pelo Instituto de Assistência Técnica e Extensão Rural do Piauí - EMATER, para determinar “a remessa dos autos ao Tribunal a quo, para que fixe o valor do salário profissional dos autores engenheiros agrônomos após a extinção do salário mínimo de referência (fls. 288-295).
+2. Publicada essa decisão no DJe de 24.11.2008 (fl. 296), interpõe o Instituto de Assistência Técnica e Extensão Rural do Estado do Piauí - EMATER, ora Agravante, em 2.12.2008, tempestivamente, agravo regimental (fls. 298-302).
+3. Alega o Agravante que “é defeso ao Judiciário atuar como legislador positivo, fixando vencimentos de servidores públicos, vedação que atinge inclusive a fixação de indexadores dos vencimentos” (fl. 300).
+Requer a reconsideração da decisão agravada ou o provimento do presente recurso.
+4. Houve erro material na decisão agravada, razão pela qual reconsidero a decisão de fls. 288-295, ficando prejudicadas as razões do agravo regimental. Passo ao exame, desde logo, do agravo de instrumento.
+5. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+6. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Piauí:
+“Apelação Cível. Ação ordinária. Emater. Engenheiros agrônomos. Piso salarial conferido pela Lei n. 4.950-A/66 c/c art. 11 da Lei Estadual n. 4.572/93. Afastado incidente de inconstitucionalidade e rejeitada a preliminar de mérito. Confirmada, em parte, a sentença monocrática atacada” (fl. 9).
+7. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas 279 e 284 do Supremo Tribunal Federal.
+8. Alega o Agravante que teriam sido afrontados os arts. 7º, inc. IV, 37, inc. XIII, e 39, § 3º, da Constituição da República e o art. 17 do Ato das Disposições Constitucionais Transitórias.
+Sustenta que, “ao fixar, como salário base o valor de seis salários mínimos, [a mencionada lei teria afrontado a Constituição da República, que veda] (...) a vinculação do salário mínimo para qualquer fim” (fl. 32).
+Afirma que a Lei n. 4.950-A/66 “não foi recepcionada pela atual” Constituição da República, “pelo que não se pode invocar direito adquirido ou percepção de excesso a qualquer título” (fl. 37).
+Analisada a matéria posta à apreciação, DECIDO.
+9. Razão jurídica assiste ao Agravante.
+10. Inicialmente, afasto os fundamentos da decisão agravada de que incidiriam, na espécie, as Súmulas 279 e 284 do Supremo Tribunal Federal. A análise do recurso extraordinário não demanda o reexame da matéria fático-probatória, e da leitura das razões recursais é possível compreender a controvérsia e a irresignação do Agravante.
+11. No Julgamento da Representação n. 716, Rel. Min. Eloy da Rocha, o Tribunal Pleno do Supremo Tribunal Federal declarou a inconstitucionalidade da Lei n. 4.950-A/66, em relação aos servidores públicos estatutários:
+“REPRESENTAÇÃO DE INCONSTITUCIONALIDADE. SALÁRIO MÍNIMO E REMUNERAÇÃO DO TRABALHO NOTURNO DE PROFISSIONAIS DIPLOMADOS EM ENGENHARIA, QUÍMICA, ARQUITETURA, AGRONOMIA E VETERINÁRIA. PEDIDO PREJUDICADO, COM REFERÊNCIA A REMUNERAÇÃO MÍNIMA DE ENGENHEIROS, ARQUITETOS E ENGENHEIROS AGRÔNOMOS, EM FACE DO JULGAMENTO DA REPRESENTAÇÃO N. 745, EM 13.03.1968. PROCEDÊNCIA DA REPRESENTAÇÃO, PARA DECLARAÇÃO DE INCONSTITUCIONALIDADE DA L. 4.950-A, DE 24.04.1966” (DJ 13.3.1970).
+12. Ademais, o Supremo Tribunal Federal, por unanimidade, consolidou jurisprudência sobre a vedação constitucional de indexação ao salário-mínimo. Confira-se, a propósito, excerto do seguinte julgado:
+“1. O sentido da vedação constante da parte final do inc. IV do art. 7º da Constituição impede que o salário-mínimo possa ser aproveitado como fator de indexação; essa utilização tolheria eventual aumento do salário-mínimo pela cadeia de aumentos que ensejaria se admitida essa vinculação (RE 217.700, Ministro Moreira Alves). A norma constitucional tem o objetivo de impedir que aumento do salário-mínimo gere, indiretamente, peso maior do que aquele diretamente relacionado com o acréscimo. Essa circunstância pressionaria reajuste menor do salário-mínimo, o que significaria obstaculizar a implementação da política salarial prevista no art. 7º, inciso IV, da Constituição da República. O aproveitamento do salário-mínimo para a formação da base de cálculo de qualquer parcela remuneratória ou com qualquer outro objetivo pecuniário (indenizações, pensões, etc.) esbarra na vinculação vedada pela Constituição do Brasil” (RE 565.714, de minha relatoria, Plenário, DJe 8.8.2008).
+13. Entretanto, apesar de reconhecer a proibição constitucional de vinculação de qualquer vantagem ao salário mínimo, o Tribunal decidiu que não seria possível julgar procedente o pedido dos servidores para que a base de cálculo do adicional de insalubridade fosse calculada sobre o total da remuneração, ante a impossibilidade de atuar como legislador positivo.
+Na mesma sessão de julgamento foi aprovada a edição da Súmula Vinculante n. 4, com o seguinte teor:
+“Salvo os casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial.”
+14. Pelo exposto, dou provimento a este agravo, na forma do art. 544, §§ 3º e 4º, do Código de Processo Civil, e, desde logo, ao recurso extraordinário, nos termos do art. 557, § 1º-A, do mesmo diploma legal, invertidos os ônus da sucumbência, com a ressalva de eventual concessão do benefício da justiça gratuita.
+Publique-se.
+Brasília, 17 de dezembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
