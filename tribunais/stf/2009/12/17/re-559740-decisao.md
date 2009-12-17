@@ -1,0 +1,14 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Rio Grande do Sul que versa sobre o benefício da pensão por morte, paga a filha solteira de segurado ferroviário, com base na Lei estadual nº 7.672/82.
+ Alega o recorrente, com base no art. 102, III, a, violação aos arts. 5º, XXXV, XXXVI e LV, 40 e 201, da Constituição Federal. Aduz, em suma, negativa de prestação jurisdicional pelo Tribunal a quo, desrespeito à coisa julgada e ofensa ao princípio contributivo.
+2.  Inviável o recurso.
+ Dissentir do julgado exigiria reexame de fatos e provas, a cuja luz foi a causa decidida, o que é vedado na instância extraordinária (súmula 279).
+ De igual modo, suposta violação às garantias constitucionais do contraditório e da ampla defesa configuraria, aqui, ofensa meramente reflexa à Constituição da República, porque sua eventual caracterização dependeria de exame prévio de norma infraconstitucional, o que também é inadmissível, como já notou a Corte em casos análogos:
+“(...) As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário” (AI nº 372.358-AgR, Rel. Min. CELSO DE MELLO, DJ de 11.6.2002. Nesse sentido: AI nº 360.265-AgR, Rel. Min. CELSO DE MELLO, DJ de 20.9.2002).
+ Ademais, o acórdão impugnado limitou-se a aplicar a legislação infraconstitucional pertinente ao caso. Ora, é pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República. Menciono, nesse sentido, as seguintes ementas exemplares:
+“PREVIDENCIÁRIO. PENSÃO POR MORTE À FILHA SOLTEIRA. NORMAS LOCAIS. IMPOSSIBILIDADE DE EXAME. SÚMULA 280 DESTE SUPREMO TRIBUNAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO” (AI nº 576.770-AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJ de 9.2.2007);
+“PREVIDENCIÁRIO. PENSÃO. FILHAS SOLTEIRAS MAIORES DE 21 ANOS. LEI 7.672/1982 DO ESTADO DO RIO GRANDE DO SUL. EXAME DE MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA AO TEXTO CONSTITUCIONAL. Necessidade de exame prévio de norma infraconstitucional para a verificação de contrariedade ao Texto Maior. Caracterização de ofensa reflexa ou indireta. Agravo regimental a que se nega provimento” (AI nº 481.272-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJ de 30.3.2007).
+3.  Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+Brasília, 17 de dezembro de 2009.
+Ministro CEZAR PELUSO
+Relator
