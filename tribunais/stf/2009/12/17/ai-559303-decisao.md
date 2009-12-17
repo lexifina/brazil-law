@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que rejeitou embargos de declaração interpostos pela ora agravante.
+A agravante aponta, no recurso extraordinário, violação dos arts. 5º, LIV e LX, e 93, IX, da Constituição federal. Sustenta que o tribunal a quo teria ofendido os princípios da publicidade, da ampla defesa e do devido processo legal, uma vez que os advogados não foram intimados da data da sessão de julgamento dos embargos de declaração.
+A análise da suposta violação dos referidos dispositivos constitucionais demanda o exame prévio da legislação processual infraconstitucional que rege o julgamento de embargos de declaração (em especial o art. 537 do Código de Processo Civil), de modo que se trata de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário. No mesmo sentido: AI 366.898-AgR (rel. min. Ellen Gracie, DJ 02.04.2004); AI 467.780-AgR (rel. min. Cármen Lúcia, DJ 22.06.2007); AI 437.612-AgR (rel. min. Joaquim Barbosa, DJ 26.11.2004).
+Por outro lado, inexiste a alegada ofensa aos arts. 5º, LIV e LV e 93, IX, da Constituição, porquanto o Tribunal de origem prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a ora agravante.
+Por fim, com o trânsito em julgado da decisão do Superior Tribunal de Justiça que conheceu do agravo de instrumento e deu parcial provimento ao recurso especial apenas para afastar a multa por embargos protelatórios (cf. consulta à internet, Ag 622.283, rel. min. Menezes Direito, DJ de 24.02.2005), permanece suficiente o fundamento infraconstitucional adotado pelo acórdão recorrido. Essa situação inviabiliza o recurso extraordinário, nos termos da Súmula 283/STF.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 17 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
