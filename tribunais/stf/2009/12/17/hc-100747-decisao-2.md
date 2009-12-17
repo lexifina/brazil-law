@@ -1,0 +1,22 @@
+DECISÃO
+HABEAS CORPUS – LIMINAR – AUSÊNCIA DE RISCO - INDEFERIMENTO.
+1.  A Assessoria assim resumiu esta impetração:
+O impetrante, no habeas formalizado perante o Superior Tribunal de Justiça – de nº 145.105/SP –, sustentou estar o paciente submetido a constrangimento ilegal em virtude de ato omissivo ocorrido no âmbito do Tribunal de Justiça do Estado de São Paulo ' a apresenta ção de proposta de suspensão condicional do processo. Pleiteou, assim, a concessão de liminar, para suspender os efeitos do julgamento proferido pelo Órgão Especial da Corte estadual e, no mérito, requereu a determinação de manifestação fundamentada do Ministério Público sobre o benefício previsto no artigo 89 da Lei nº 9.099/95.
+A Ministra Laurita Vaz indeferiu o pedido acautelador, por não vislumbrar, de plano, a excepcionalidade do caso a respaldar a medida de urgência (folhas 133 e 134). O impetrante interpôs agravo regimental, que não foi conhecido (folhas 135 e 136).
+Este habeas volta-se contra essa decisão. Preliminarmente, o impetrante sustenta a possibilidade de ser conhecida a pretensão veiculada neste processo, por entender evidente a ilegalidade do ato ora impugnado, o qual, segundo alega, acaba por ratificar o vício apontado no julgamento realizado pelo Órgão Especial do Tribunal de Justiça de São Paulo. Afirma cuidar-se de hipótese viabilizadora da flexibilização do óbice revelado no Verbete nº 691 da Súmula do Supremo. Quanto ao tema de fundo, reitera a tese de cabimento da proposta de suspensão do processo, consoante os termos do artigo 89 da Lei nº 9.099/95.
+Pede a concessão de liminar, para suspenderem-se, até a apreciação do mérito do habeas corpus em curso no Superior Tribunal de Justiça, os efeitos e os prazos recursais, considerando-se o julgamento verificado no Tribunal estadual. Alfim, busca ver confirmada a providência e, se entender esta Corte, examinado, desde logo, o mérito da impetração, concedendo-se a ordem de ofício, para anular o acórdão proferido pelo Tribunal de Justiça, e determinando-se a obrigatória e prévia manifestação do Ministério Público quanto à formulação da proposta de suspensão condicional do processo.
+Ante a deficiência da instrução processual, Vossa Excelência determinou fosse oficiado ao Superior Tribunal de Justiça e ao Tribunal de Justiça do Estado de São Paulo, para prestarem informações (folha 110). Antecipando a notícia, o impetrante requereu a juntada das peças que faltavam (folha 116 a 123).
+Em face do silêncio do Presidente da Corte estadual, houve determinação no sentido de se reiterarem os termos do ofício de folha 114.
+A Ministra Laurita Vaz, nas informações de folha 132, registrou haver designado a data de 27 de setembro de 2009 para o julgamento do habeas formalizado no Superior Tribunal. Não vieram os esclarecimentos solicitados ao Tribunal de Justiça do Estado de São Paulo.
+O impetrante, por meio da petição de folhas 142 (fac-símile) e 149 (original), informa ter impetrado, no Supremo, novo habeas corpus – de nº 101.412. Desta vez, o pedido está relacionado com o mérito da pretensão deduzida perante a autoridade apontada como coatora.
+Do processo não consta a cópia do inteiro teor do acórdão proferido pela Quinta Turma do Superior Tribunal no Habeas Corpus nº 145.105/SP. Consulta ao sítio daquela Corte revelou que a impetração não foi conhecida. Assentou-se somente ser cabível a via processual eleita quando alguém sofrer ou se achar na iminência de sofrer violação ou coação ilegal à liberdade de ir e vir. Segundo consignou-se, tendo o Tribunal de Justiça do Estado de São Paulo declarado extinta a punibilidade pela prescrição da pretensão punitiva, não havia sequer a possibilidade de conceder-se a ordem pleiteada.
+Registro que o mencionado Habeas Corpus nº 101.412 foi remetido à residência, com informação.
+2.  Ante o fato de haver sido reconhecida a prescrição da pretensão punitiva, não existe risco maior a ensejar a atuação precária e efêmera do relator como porta-voz do Colegiado. Há de aguardar-se o julgamento final da impetração.
+3.  Indefiro a liminar.
+4.  Apensem este habeas ao de nº 101.412/SP.
+5.  Solicitem ao Superior Tribunal de Justiça cópia do acórdão proferido no Habeas Corpus nº 145.105/SP.
+6.  Após a juntada da referida peça ao processo, colham o parecer da Procuradoria Geral da República.
+7.  Publiquem.
+Brasília – residência –, 17 de dezembro de 2009, às 11h20.
+Ministro MARCO AURÉLIO
+Relator
