@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. LIMITAÇÃO DO HORÁRIO DE FUNCIONAMENTO DAS FARMÁCIAS. 1. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL: DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. 2. ASSUNTO DE INTERESSE LOCAL. COMPETÊNCIA MUNICIPAL. PRECEDENTES. RECURSO EXTRAORDINÁRIO PROVIDO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+“FARMÁCIA – Funcionamento aos sábados, domingos e feriados, independentemente dos plantões fixados pelo Município – Competência do Município para legislar sobre assuntos de interesse local – Necessidade, no entanto, de subordinar-se, no exercício desta competência, aos princípios constitucionais – Violação, com a limitação imposta, dos princípios constitucionais da livre iniciativa, do direito à saúde e da isonomia – Ilegalidade da restrição – Segurança denegada – Recurso provido” (fl. 112).
+2.  O Recorrente alega que o Tribunal a quo teria contrariado o art. 30, inc. I e VIII, da Constituição da República.
+Argumenta que é “Indubitável a competência do Município para ordenação das atividades urbanas que afetam a vida da cidade e o bem estar de sua população, porque isto é matéria de seu peculiar interesse, atribuído constitucionalmente à administração local” (fl. 130).
+Sustenta que “O regime de plantões inclui todas as farmácias, inclusive os estabelecimentos da Recorrida, em tratamento perfeitamente isonômico. Tal isonomia ainda mais se demonstra por dar igualdade de oportunidade a todos os estabelecimentos sejam eles integrantes de grandes redes, sejam pequenos” (fl. 131).
+Assevera que “não se pode falar em violação ao princípio da livre iniciativa, se todos os estabelecimentos se subordinam à mesma escala de plantões em rodízio e se submetem às mesmas regras” (fl. 131).
+Analisada a matéria posta à apreciação, DECIDO.
+3. Em preliminar, é de se ressaltar que, apesar de ter sido o Recorrente intimado depois de 3.5.2007 e constar do recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso.
+4. Razão de direito assiste ao Recorrente.
+5. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que compete aos municípios fixar os horários de funcionamento das farmácias.
+Nesse sentido, os seguintes julgados:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. CONSTITUCIONAL. LIMITAÇÃO DO HORÁRIO DE FUNCIONAMENTO DAS FARMÁCIAS: COMPETÊNCIA DO MUNICÍPIO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 729.307-ED, de minha relatoria, Primeira Turma, DJ 4.12.2009).
+“RECURSO EXTRAORDINÁRIO. FARMÁCIA. FIXAÇÃO DE HORÁRIO DE FUNCIONAMENTO. ASSUNTO DE INTERESSE LOCAL. A fixação de horário de funcionamento para o comércio dentro da área municipal pode ser feita por lei local, visando o interesse do consumidor e evitando a dominação do mercado por oligopólio. Precedentes. Recurso extraordinário não conhecido” (RE 189.170/SP, Rel. Min. Marco Aurélio, Segunda Turma, DJ 8.8.2003).
+“DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. FARMÁCIA: HORÁRIO DE FUNCIONAMENTO. MATÉRIA DE COMPETÊNCIA MUNICIPAL. PRECEDENTE DO PLENÁRIO. RECURSO EXTRAORDINÁRIO: PRESSUPOSTOS DE ADMISSIBILIDADE. AGRAVO. 1. Como salientado na decisão agravada, "o Plenário do Supremo Tribunal Federal já decidiu, por unanimidade, no julgamento do RE 237.965-SP, publicado no DJ, 31.03.00, Rel. Ministro MOREIRA ALVES, que a fixação de horário de funcionamento para farmácias é matéria de competência municipal, não procedendo, portanto, as alegações de violação aos princípios constitucionais da isonomia, da livre iniciativa, da livre concorrência, da liberdade de trabalho, da busca do pleno emprego e ao direito do consumidor". 2. Os fundamentos desse precedente foram resumidos na decisão agravada, que mencionou outros, e não infirmados pela agravante. 3. Agravo improvido” (RE 321.796-AgR, Rel. Min. Sydney Sanches, Primeira Turma, DJ 9.11.2002).
+O acórdão recorrido divergiu dessa orientação.
+6.  Pelo exposto, dou provimento ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal).
+Considerando-se a Súmula 512 do Supremo Tribunal Federal, deixo de condenar ao pagamento de honorários advocatícios de sucumbência.
+Publique-se.
+Brasília, 17 de dezembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
