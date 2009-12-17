@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário interposto contra acórdão que versa sobre a Gratificação Especial de Localidade – GEL, instituída pela Lei 8.270/91 e regulamentada pelo Decreto 432/92.
+O recurso extraordinário não poderia ser admitido, pois a alegada ofensa demandaria o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional.
+Nesse sentido o RE 293.680 – AgR, rel. min. Cezar Peluso, Primeira Turma, DJ 04.02.2005:
+“RECURSO. Extraordinário. Inadmissibilidade. Servidor Público. Vencimentos. Gratificação especial de localidade (GEL). Lei nº 8.270/91. Decreto-lei nº 493/92. Reexame de normas infraconstitucionais. Ofensa indireta à Constituição. Agravo regimental não provido. Precedentes. Não cabe recurso extraordinário que tenha por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República. 2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado . ”
+E ainda o RE 282.950 – AgR, rel. Min. Celso de Mello, Segunda Turma, DJ 19.12.2002:
+“RECURSO EXTRAORDINÁRIO - ALEGADA VIOLAÇÃO A PRECEITO INSCRITO NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA AO TEXTO CONSTITUCIONAL - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. - A controvérsia referente ao direito à percepção da Gratificação Especial de Localidade, instituída em favor de servidores lotados em zona de fronteira, qualifica-se como matéria de caráter infraconstitucional. Precedentes. - A suposta transgressão ao texto constitucional, acaso existente, por implicar necessário exame prévio da legislação comum, traduzirá, quando muito, hipótese de ofensa meramente reflexa, cuja ocorrência, não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes.”
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 17 de setembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
