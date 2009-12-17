@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto contra acórdão do Tribunal de Justiça do Distrito Federal que versava sobre a contribuição previdenciária dos servidores do Distrito Federal.
+No que se refere aos servidores do Distrito Federal, ambas as Turmas da Corte vêm decidindo pela aplicabilidade a eles da Medida Provisória 560 e reedições, conforme se verifica das seguintes ementas:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. MP 560/94 E REEDIÇÕES SUCESSIVAS. PRAZO NONAGESIMAL. TERMO INICIAL.
+1. O termo a quo do prazo de anterioridade previsto no artigo 195, § 6º, da Constituição do Brasil, flui a partir da publicação da medida provisória, que não perde a eficácia se acaso não convertida em lei, desde que no prazo de trinta dias da sua vigência seja editado outro provimento da mesma espécie. Precedente.
+2. Legislação federal. Aplicação no âmbito do Distrito Federal ex vi da Lei Distrital n. 119/90 dispondo sobre o regime jurídico dos servidores distritais, por remissão às disposições do Regime Jurídico dos Servidores Públicos Federais, até que lei distrital específica venha disciplinar a matéria.
+Agravo regimental não provido.” (RE 382.880-AgR, rel. min. Eros Grau, DJ de 08.04.2005)
+“CONSTITUCIONAL. TRIBUTÁRIO. SERVIDOR PÚBLICO. CONTRIBUIÇÕES: ALÍQUOTAS PROGRESSIVAS. Med. Prov. 560/94.
+I. - Constitucionalidade do sistema de alíquotas progressivas da contribuição social do servidor público, objeto da Med. Prov. 560/94 e posteriores reedições, respeitado o princípio da anterioridade nonagesimal (C.F., art. 195, § 6º). É dizer, a partir da Med. Prov. 560, de 26.7.94, será observado o princípio da vacatio legis de noventa dias.
+II. - Aplicabilidade aos servidores do Distrito Federal.
+III. - Precedentes do STF.
+IV. - Agravo não provido.” (RE 430.353-AgR, rel. min. Carlos Velloso, DJ de 22.10.2004)
+Quanto à possibilidade de as contribuições sociais serem instituídas mediante medida provisória, esta Corte em diversas oportunidades já se posicionou em sentido afirmativo. Confira-se, a respeito, o decidido no RE 197.790 (rel. min. Ilmar Galvão) e no RE 181.664 (red. para o acórdão min. Ilmar Galvão).
+No que tange especificamente ao tema ora em exame, o Plenário desta Corte, no julgamento da ADI 1.135 (red. para o acórdão min. Sepúlveda Pertence, DJ 05.12.1997), assim decidiu:
+“Previdência Social: contribuição social do servidor público: restabelecimento do sistema de alíquotas progressivas pela MProv. 560, de 26.7.94, e suas sucessivas reedições, com vigência retroativa a 1/7/94 quando cessara à da L. 8.688/93, que inicialmente havia instituído: violação, no ponto, pela MProv. 560/94 e suas reedições, da regra de anterioridade mitigada do art. 195, § 6º, da Constituição; conseqüente inconstitucionalidade da mencionada regra de vigência que, dada a solução de continuidade ocorrida, independe da existência ou não de majoração das alíquotas em relação àquelas fixadas na lei cuja vigência já se exaurira.”
+Nessa ação direta de inconstitucionalidade, com eficácia erga omnes inclusive para o Supremo Tribunal Federal, esta Corte entendeu que a MP 560/1994 reviveu constitucionalmente a contribuição social dos servidores públicos ao estabelecer nova tabela progressiva de alíquotas, o que valeu pela própria reinstituição do tributo. Deve, portanto, ser observada a regra da anterioridade mitigada do art. 195, § 6º, da Constituição, o que implica dizer que essa contribuição, com base na referida medida provisória e suas sucessivas reedições, só pode ser exigida após o decurso de noventa dias da data de sua publicação.
+Por outro lado, no julgamento do RE 232.896 (rel. min. Carlos Velloso), o Pleno acentuou que “não perde eficácia a medida provisória, com força de lei, não apreciada pelo Congresso Nacional, mas reeditada, por meio de nova medida provisória, dentro de seu prazo de validade de trinta dias” (RTJ 170/993).
+Observo que o período de noventa dias para o atendimento da exigência da anterioridade mitigada do art. 195, § 6º, da Constituição, contado a partir da MP 560, de julho de 1994 – contagem essa que prosseguiu no período de vigência das medidas provisórias que a reeditaram -, já de há muito havia fluído por ocasião da impetração, em outubro de 1997, não se destinando o mandado de segurança à restituição do recolhimento efetuado anteriormente ao momento da impetração.
+Do exposto, conheço do presente recurso em parte e, nessa parte, dou-lhe provimento, para julgar procedente a ação apenas na parte relativa ao desconto referente aos noventa dias a partir da data da publicação da MP 560/1994.
+Custas ex lege.
+Publique-se.
+Brasília, 17 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
