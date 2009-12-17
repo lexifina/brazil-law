@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Celso Luiz Schneider interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+“RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. COMUNICAÇÃO DE FATO CRIMINOSO A AUTORIDADE POLICIAL. Noticiar, à autoridade policial, a ocorrência de um crime e mencionar determinadas suspeitas, não se configura como ilícito civil, pois se enquadra como exercício regular de um direito, não se podendo falar em responsabilização cível do informante, mesmo que ocorra a absolvição criminal. O dever de indenizar só surge na hipótese de a ‘denúncia’ ser absolutamente infundada, leviana e irresponsável, com intuito único de prejudicar determinada pessoa. Hipótese de má-fé não configurada.
+APELAÇÃO DA RÉ PROVIDA, E A DO AUTOR JULGADA PREJUDICADA” (fl. 285).
+Colhe-se do voto vencedor:
+“A notícia de suspeita de um crime à polícia é um direito-dever do cidadão e, logicamente, não pode dar ensejo a uma indenização, mesmo sendo o denunciado absolvido em processo criminal ou, como no caso, sequer denunciado pelo Ministério Público, ressalvados os casos em que a ação do informante é movida por má-fé, com intuito único de prejudicar o denunciado, através de notícia infundada, leviana e irresponsável. E, como já dito, não é o que se vislumbra no caso em tela, em que sequer houver menção ao nome dos autores seja na ocorrência policial ou nas notícias publicadas pela imprensa” (fl. 289).
+Opostos embargos de declaração (fls. 300 a 304), foram rejeitados (fls. 307 a 311).
+Alega o recorrente a violação do artigo 5º, inciso X, da Constituição Federal. Sustenta que “o direito de a Recorrida, noticiar uma conduta, ao seu entender criminosa à autoridade policial, há de se ressaltar, que no caso em análise a má-fé da Recorrida se mostra evidente, posto que, em represália ao patrono de adverso, formulou ‘notitia criminis’, contra este, com a simples alegação de que seus irmãos e sobrinhos estariam subtraindo bens de sua propriedade, sob orientação dos procuradores daqueles” (fl. 343).
+Contra-arrazoado (fl. 352), o recurso extraordinário (fls. 334 a 347) foi admitido (fls. 354/355).
+Decido.
+Anote-se, primeiramente, que o acórdão   dos embargos de declaração, conforme expresso na certidão de folha 312, foi publicado em 28/4/04, não sendo exigível, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+A irresignação não merece prosperar.
+O Tribunal de origem entendeu que a recorrida agiu no exercício regular de um direito, não existindo má-fé na sua conduta, o que não caracteriza o seu ato como ilícito, assim, não há qualquer dever indenizatório a ser imputado. Para chegar a entendimento diverso do expresso no acórdão recorrido seria necessário o reexame de fatos e provas que permeiam a lide, inadmissível no recurso extraordinário. Incidência da Súmula nº 279 desta Corte.  Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. DANO MORAL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. SÚMULA 279 DO STF. 2. A hipótese dos autos impõe o reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Precedentes. Agravo regimental a que se nega provimento” (AI nº 688.568/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 11/4/08).
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEXO DE CAUSALIDADE ENTRE A CONDUTA E O DANO. MATÉRIA FÁTICA. SÚMULA 279 DO STF. A verificação do nexo causal entre a conduta do agente e os danos sofridos pela vítima se situa no mundo dos fatos, imperscrutável na via extraordinária (Súmula 279 do STF). Precedentes: RE 346.978, RE 235.524-AgR, RE 234.093-AgR, RE 224.907-AgR, RE 286.444-AgR, RE 313.915, RE 215.981 e AI 343.129-AgR. Agravo regimental desprovido” (RE nº 452.438/SP-AgR, Primeira Turma, Relator o Ministro Carlos Britto, DJ de 25/8/06).
+Ante o exposto, nos termos do artigo 557, caput , do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 17 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
