@@ -1,0 +1,19 @@
+DECISÃO : Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão no qual o Tribunal Regional Federal da 2ª Região entendeu que a impetrante não deveria pagar COFINS, pois como explora energia elétrica, a imunidade prevista no art. 155, § 3º, da Constituição impede tal tributação.
+Sustenta a recorrente que o acórdão recorrido viola o art. 155, § 3º, da Constituição.
+O acórdão recorrido destoou da orientação firmada pelo Supremo Tribunal Federal quanto à incidência da COFINS sobre as operações com energia elétrica, como se depreende da leitura da Súmula 659 da Corte, verbis:
+“ É LEGÍTIMA A COBRANÇA DA COFINS, DO PIS E DO FINSOCIAL SOBRE AS OPERAÇÕES RELATIVAS A ENERGIA ELÉTRICA, SERVIÇOS DE TELECOMUNICAÇÕES, DERIVADOS DE PETRÓLEO, COMBUSTÍVEIS E MINERAIS DO PAÍS.”
+Confiram-se, em sentido semelhante, os seguintes precedentes, v.g.:
+“ EMENTA: PIS E COFINS. EMPRESAS PRESTADORAS DE SERVIÇOS DE TELECOMUNICAÇÕES. INCIDÊNCIA. ARTS. 155, § 3º; E 195, CAPUT, DA CONSTITUIÇÃO FEDERAL. O Supremo Tribunal Federal (sessão do dia 1º.07.99), concluindo o julgamento dos Recursos Extraordinários nºs 205.355 (Ag.Rg); 227.832; 230.337; e 233.807, Rel. Min. Carlos Velloso, abrangendo as contribuições representadas pela COFINS, pelo PIS e pelo FINSOCIAL sobre as operações relativas a energia elétrica, a serviços de telecomunicações, e a derivados de petróleo, combustíveis e minerais, entendeu que, sendo elas contribuições sociais sobre o faturamento das empresas, destinadas ao financiamento da seguridade social, nos termos do art. 195, caput, da Constituição Federal, não lhes é aplicável a imunidade prevista no art. 155, § 3º, da Lei Maior. Recurso conhecido e provido. ” (RE 259.541, rel. min. Ilmar Galvão, Primeira Turma, DJ de 28.04.2000);
+“EMENTA: - PIS. Imunidade. Art. 155, § 3º, da Constituição. - O Plenário desta Corte, ao julgar o RE 233.807, assim decidiu: "CONSTITUCIONAL. TRIBUTÁRIO. COFINS. DISTRIBUIDORAS DE DERIVADOS DE PETRÓLEO, MINERADORAS, DISTRIBUIDORAS DE ENERGIA ELÉTRICA E EXECUTORAS DE SERVIÇOS DE TELECOMUNICAÇÕES. C. F., art. 155, § 3º. Lei Complementar nº 70, de 1991.
+I - Legítima a incidência da COFINS sobre o faturamento da empresa. Inteligência do disposto no § 3º do art. 155, C.F., em harmonia com a disposição do art. 195, caput, da mesma Carta. Precedente do STF: RE 144.971- DF, Velloso, 2ª T., RTJ 162/1075.
+II - R.E. conhecido e provido". Dessa orientação - que o Plenário aplicou também ao FINSOCIAL (AGRRE 205.355) e ao PIS (RE 230.337) - divergiu o acórdão recorrido. Recurso extraordinário conhecido e provido.” (RE 233.884, rel. min. Moreira Alves, DJ de 08.03.2002);
+“ EMENTA: CONSTITUCIONAL. TRIBUTÁRIO. FINSOCIAL. IMPOSTO ÚNICO SOBRE MINERAIS. CF/67, art. 21, IX. INCIDÊNCIA DO FINSOCIAL FRENTE AO DISPOSTO NO ART. 155, § 3º.
+I. - Legítima a incidência do FINSOCIAL, sob o pálio da CF/67, não obstante o princípio do Imposto Único sobre Minerais (CF, 1967, art. 21, IX). Também é legítima a incidência do mencionado tributo sob a CF/88, art. 155, § 3º.
+II. - Agravo não provido. ” (RE 205.355-AgR, rel. min. Carlos Velloso, Pleno, DJ de 08.11.2002).
+Ante o exposto, com base no art. 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e dou-lhe provimento, denegando a segurança pleiteada.
+Sem honorários advocatícios (Súmula 512 do Supremo Tribunal Federal).
+Custas ex lege.
+Publique-se.
+Brasília, 17 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
