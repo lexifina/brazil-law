@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento interposto contra decisão que negou seguimento a recurso extraordinário apresentado com fundamento no art. 102, III, “a”, da Constituição que busca a reforma de acórdão do Tribunal de Alçada de Minas Gerais, assim ementado [fl. 333]:
+“EMENTA: SINDICATO. UNICIDADE. ENQUADRAMENTO SINDICIAL. ATIVIDADE PREPONDERANTE. REGISTRO.
+- O princípio da liberdade de associação profissional ou sindical, estabelecido pelo art. 8º da Constituição Federal, só tem limite nas exceções estabelecidas pelos seus incisos I a VIII, nestes se incluindo o da unicidade, consistente na vedação à criação de mais de um sindicato, em qualquer grau, de uma mesma categoria profissional e econômica, na mesma base territorial.
+- O enquadramento sindical, na hipótese da existência de categorias assemelhadas na mesma base territorial, regula-se pela atividade profissional ou econômica preponderante da empresa, nos termos do art. 581, parágrafo 1º, da CLT
+- Além do arquivamento dos respectivos estatutos no Registro Civil das Pessoas Jurídicas, para efeito de atribuição válida do sindicato exige ainda, como condição de órgão representativo sindical, o arquivamento de seu ato constitutivo na repartição competente do Ministério do Trabalho.”
+2.  Alega-se, no extraordinário, que houve ofensa aos arts. 5º, LV, 8º, III, e 93, IX, da Constituição do Brasil.
+3.  O recurso não merece provimento. Para dissentir-se do acórdão recorrido seria necessária a análise da legislação infraconstitucional que disciplina a espécie. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido: o RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; o AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; o AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+4.   Quanto à alegação de ofensa ao disposto nos artigos 5º, LV, e 93, IX, da Constituição do Brasil, a jurisprudência deste Tribunal fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+5.  Por fim, entendimento diverso do adotado pelo acórdão recorrido implicaria, necessariamente, o reexame da matéria fático-probatória que o orientou, providência vedada nesta instância, em face da incidência da Súmula n. 279 do Supremo Tribunal Federal.
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 17 de dezembro de 2009.
+Ministro Eros Grau
+- Relator -
