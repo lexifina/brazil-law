@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - IMPOSTO SOBRE SERVIÇOS – LISTA ANEXA AO ARTIGO 8º DO DECRETO-LEI Nº 406/68 – ROL LIMITATIVO.
+TAXA DE FISCALIZAÇÃO E FUNCIONAMENTO - ALCANCE - ARTIGO 145, § 2º, DA CONSTITUIÇÃO FEDERAL – PRECEDENTES – PROVIMENTO PARCIAL.
+1.  O recurso extraordinário cujo trânsito busca-se alcançar foi interposto com alegado fundamento na alínea “a” do permissivo constitucional, contra o acórdão de folhas 581 a 590, complementado pelo acórdão de folhas 725 a 730, proferidos pelo Tribunal de Justiça do Estado de Minas Gerais e assim resumidos (folhas 581 e 725):
+AUTARQUIA ESTADUAL – IMUNIDADE TRIBUTÁRIA – EXPLORAÇÃO DE ATIVIDADES ECONÔMICAS – ISSQN – LISTA ANEXA AO DECRETO-LEI Nº 406/68 – TAXATIVIDADE – IMPOSSIBILIDADE DE COBRANÇA DO IMPOSTO SOBRE OS SERVIÇOS NÃO ESPECIFICADOS NA LISTA – TAXA DE FISCALIZAÇÃO LOCALIZAÇÃO E FUNCIONAMENTO – COBRANÇA NOS EXERCÍCIOS POSTERIORES AO DA INSTALAÇÃO DA EMPRESA – IMPOSSIBILIDADE.
+Não basta ao órgão da administração pública indireta ser autarquia para gozar da imunidade tributária constitucional com relação aos impostos. Além disso, faz-se necessária a demonstração de que este órgão não se enquadra nas exceções previstas no § 3° do artigo 150 da CF.
+A lista anexa ao Decreto-lei nº 406/68 é taxativa, sendo vedado à lei municipal estabelecer a tributação de itens nela não previstos.
+Por ter força de lei complementar, o referido Decreto-lei apenas dispõe sobre normas gerais de direito tributário com relação à matéria tratada, sem instituir indevidamente qualquer isenção de tributos municipais.
+A cobrança da Taxa de Fiscalização Localização e Funcionamento só se justifica na instalação do estabelecimento industrial comercial ou de serviços, posto que nos exercícios posteriores não se verifica o poder de polícia por parte da administração municipal necessário à ocorrência do fato gerador.
+Súmula 157 do STJ.
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADES E OMISSÕES EM ACÓRDÃO PROFERIDO NA APELAÇÃO. ANULAÇÃO DE DÉBITOS DO ISSQN RELATIVOS A SERVIÇOS NÃO COMPREENDIDOS NA LISTA ANEXA AO DECRETO-LEI Nº 406/68, COM NOVA REDAÇÃO DADA PELA LEI COMPLEMENTAR Nº 56/87. MENÇÃO EXPRESSA AOS DÉBITOS ANULADOS. INCONSTITUCIONALIDADE DA TAXA DE FISCALIZAÇÃO, LOCALIZAÇÃO E FUNCIONAMENTO. CANCELAMENTO DAS OBRIGAÇÕES TRIBUTÁRIAS ACESSÓRIAS. DECISÃO CASSADA PELO STJ. DETERMINAÇÃO DE NOVO JULGAMENTO. ACOLHIMENTO DOS EMBARGOS.
+2.  A matéria relativa ao Imposto sobre Serviços – ISS encontra-se pacificada nesta Corte, no sentido de não ser admitida a tributação quando a atividade não estiver prevista na relação dos serviços tributáveis. Confira–se com a ementa do Recurso Extraordinário nº 105.477–8/PE, relator ministro Francisco Rezek e publicada no Diário da Justiça de 06 de setembro de 1985:
+ISS. SERVIÇOS BANCÁRIOS: “TRANSFERÊNCIA DE FUNDOS”, “GARANTIAS PRESTADAS”, “RENDAS DIVERSAS E OUTROS SERVIÇOS”.
+É limitativa – e não simplesmente exemplificativa – a lista anexa ao artigo 8º do Decreto–lei 406/68, na redação resultante do Decreto–lei 834/69; embora cada um de seus tópicos comporte interpretação ampla.
+Não é legítima a exigência do ISS no caso dos tópicos versados no presente feito, porque estranhos à referida lista.
+Recurso provido.
+ E, ainda, com o julgamento dos Recursos Extraordinários nos 105.267–8/SP e 111.941–1/PR, ambos relatados pelo ministro Octavio Gallotti e publicados, respectivamente, no Diário da Justiça de 18 de abril de 1986 e de 27 de março de 1987; dos Recursos Extraordinários nos 104.571–0/PE e 108.665–3/SP, relatados pelo ministro Oscar Corrêa e publicados, respectivamente, no Diário da Justiça de 24 de maio de 1985 e de 16 de maio de 1986.
+ Ressalto que não procede a alegação do recorrente de que se previu, no Decreto-Lei nº 406/68, hipótese de isenção heterônoma, imposta pela União relativamente a tributo de competência do Município, e que, portanto, não fora recepcionada pela Constituição Federal de 1988. O Plenário desta Corte, no julgamento dos Recursos Extraordinários nos 220.323–3/MG e 236.604–7/PR, ambos relatados pelo ministro Carlos Velloso, fixou o entendimento de que o Decreto–Lei nº 406/68 foi recebido pela Carta atual como lei complementar, não tratando os preceitos ora questionados de tal espécie de isenção.
+3.  No tocante à taxa de fiscalização e funcionamento, o acórdão recorrido contraria precedente desta Corte exsurgido com o julgamento do Recurso Extraordinário nº 220.316-7, relatado pelo ministro Ilmar Galvão e assim sintetizado:
+MUNICÍPIO DE BELO HORIZONTE. TAXA DE FISCALIZAÇÃO, LOCALIZAÇÃO E FUNCIONAMENTO. ALEGADA OFENSA AO ART. 145, § 2º, DA CONSTITUIÇÃO.
+Exação fiscal cobrada como contrapartida ao exercício do poder de polícia, sendo calculada em razão da área fiscalizada, dado adequadamente utilizado como critério de aferição da intensidade e da extensão do serviço prestado, não podendo ser confundido com qualquer dos fatores que entram na composição da base de cálculo do IPTU, razão pela qual não se pode ter por ofensivo ao dispositivo constitucional em referência, que veda a bitributacão.
+Serviço que, no caso, justamente em razão do mencionado critério pode ser referido a cada contribuinte em particular, e de modo divisível, porque em ordem a permitir uma medida tanto quanto possível justa, em termos de contraprestação.
+Recurso não conhecido.
+4.  Ante o precedente, com fundamento no artigo 557, § 1º-A, do Código de Processo Civil, conheço deste recurso bem como lhe dou parcial provimento, para, reformando o acórdão recorrido, declarar a exigibilidade da taxa de localização e funcionamento.
+5.  Publiquem.
+Brasília, 17 de dezembro de 2009.
+Ministro MARCO AURÉLIO
+Relator
