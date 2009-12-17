@@ -1,0 +1,1 @@
+Art. 2º-B As funções de confiança da estrutura organizacional do ISE adotarão os mesmos parâmetros de remuneração e simbologia daqueles previstos na lei que dispõe sobre a estrutura administrativa do Poder Executivo estadual, no que couber. (Incluído pela Lei Complementar nº 428, de 16/02/2023, com efeitos a contar de 1º de março de 2023)

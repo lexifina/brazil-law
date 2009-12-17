@@ -1,0 +1,1 @@
+Art. 8º-B. O candidato ao cargo de Agente Socioeducativo quando for convocado e matriculado no curso de formação na forma do edital, fará jus a uma bolsa de estudo, durante sua permanência, em percentual igual a 50% (cinquenta por cento) da remuneração da Classe Inicial do cargo de Agente Socioeducativo. (Incluído pela Lei nº 3.649, de 10/09/2020)
