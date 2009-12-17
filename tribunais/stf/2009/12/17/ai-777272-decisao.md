@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento criminal interposto contra decisão que negou seguimento a recurso extraordinário em oposição a acórdão do Tribunal Regional Federal da 4ª Região, assim ementado [fl. 48]:
+“AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. PROCESSUAL CIVIL. TUTELA ANTECIPADA. REVOGAÇÃO.
+1. Revogada a antecipação da tutela em virtude da improcedência do pedido, impõe-se de regra, a restituição do que o beneficiário já houver percebido, a fim de que seja evitado o enriquecimento sem causa. Tal entendimento faz-se pertinente, também, às antecipações cassadas em virtude de decisão definitiva, já que o provimento de urgência, mutatis mutandis, também guarda sua autoridade, presumindo-se legítimo até decisão final.
+2.Contudo, tratando-se de benefício previdenciário, deve-se ter em conta o inegável caráter alimentar dos valores percebidos, bem como a boa-fé da parte, sendo inviável a devolução das referidas verbas”
+2.  O agravante alega, no recurso extraordinário, ofensa ao disposto nos artigos 5º, II, 37, 97 e 105, III, da CB/88.
+3.  Deixo de apreciar a existência da repercussão geral, vez que o artigo 323, § 1º, do RISTF dispõe que "[t]al procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+4.  O agravo não merece provimento. A controvérsia foi decidida no plano da legislação infraconstitucional. Trata-se, portanto, de ofensa indireta à Constituição, insuficiente para desafiar a via extraordinária.
+5.  Este Tribunal fixou jurisprudência no sentido de que “a ofensa à Constituição, que autoriza admissão do recurso extraordinário, é a ofensa direta, frontal, e não a ofensa indireta, reflexa. Se, para demonstrar a contrariedade à Constituição, tem-se, antes, de demonstrar a ofensa à norma infraconstitucional, é esta que conta para a admissibilidade do recurso” [AI n. 204.153–AgR, 1ª Turma, DJ de 30.6.00, e AI n. 231.836–AgR, 2ª Turma, DJ de 3.9.99].
+6.  Ademais, a jurisprudência do Supremo fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+7.  Nesse sentido o AI n. 746.442-AgR, Relatora a Ministra Cármen Lúcia, DJ de 11.9.09, em acórdão assim ementado:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO E PREVIDENCIÁRIO. 1. DEVOLUÇÃO DE VALORES RECEBIDOS DE BOA-FÉ PELA PARTE BENEFICIÁRIA EM RAZÃO DE ANTECIPAÇÃO DE TUTELA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. 2. O JULGAMENTO PELA ILEGALIDADE DO PAGAMENTO DO BENEFÍCIO PREVIDENCIÁRIO NÃO IMPORTA NA OBRIGATORIEDADE DA DEVOLUÇÃO DAS IMPORTÂNCIAS RECEBIDAS DE BOA-FÉ. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 17 de dezembro de 2009.
+Ministro Eros Grau
+- Relator -
