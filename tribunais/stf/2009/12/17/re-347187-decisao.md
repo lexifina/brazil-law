@@ -1,0 +1,26 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal Superior do Trabalho. Acórdão assim ementado (fls. 243):
+“PRELIMINAR DE NULIDADE DO V. ACÓRDÃO TURMÁRIO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+Estando a decisão impugnada em conformidade com o preceituado no artigo 832 da CLT, não há que se falar em nulidade do julgado, por negativa de prestação jurisdicional.
+Embargos não conhecidos.
+ADICIONAL DE HORAS EXTRAS – PROFESSOR – AULAS EXCEDENTES.
+A jornada de trabalho do professor está limitada ao máximo de quatro aulas consecutivas ou seis intercaladas, na forma preconizada pelo art. 318 da CLT. O que exceder desse limite é serviço extraordinário que, por força do disposto no art. 7º, inciso XVI, da Carta Magna, deve ter remuneração superior, no mínimo, em 50% à normal, sob pena de ofensa ao princípio da isonomia, insculpido no art. 5º, ‘caput’, da Constituição Federal/88.
+Recurso de embargos conhecidos e desprovidos.”
+2. Pois bem, a parte recorrente sustenta violação ao caput e aos incisos XXXV e LV do art. 5º, ao inciso XVI do art. 7º e ao inciso IX do art. 93, todos da Magna Carta Federal.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra da Subprocuradora-Geral Ela Wiecko V. de Castilho, opina pelo desprovimento do recurso. Pinço da manifestação ministerial (fls. 300/302):
+“No que concerne à suposta ofensa ao art. 7º, XVI, e caput, o acórdão é de ser mantido em sua integralidade. O ponto nodal da irresignação é saber se é devido ou não ao professor o pagamento do adicional de 50% da remuneração da hora normal, a título extraordinário (art. 7º, XVI, da CF), em razão do excesso de aulas ministradas, tendo em vista os limites de jornada estatuídos no art. 318 da CLT para o magistério.
+Os arts. 317 a 323 da CLT regulam o exercício remunerado do magistério em estabelecimentos particulares de ensino. Outrossim, a jornada de trabalho do professor está limitada ao máximo de quatro aulas consecutivas ou seis intercaladas, na forma preconizada pelo art. 318 da CLT. Portanto, o que ultrapassar esse limite é trabalho extraordinário que, por força do art. 7º, XVI, da Constituição Federal, deve ter remuneração superior a, no mínimo, 50% da hora normal.
+No entendimento do Recorrente, as aulas que excederam ao limite previsto no art. 318 da CLT devem ser pagas, mas sem o adicional de 50%, eis que os professores não estão abrangidos na regra do art. 7º, XVI, da Constituição, que se destinaria tão-somente aos trabalhadores sujeitos ao cumprimento de carga horária de trabalho. Ora, como bem salientado no acórdão, esse entendimento é que viola o princípio da isonomia e não o adotado no acórdão. Afinal, devem os professores ficar submetidos aos ditames do empregador, podendo esse exigir, ao seu bel-prazer, que se ministre aulas além do limite previsto na CLT, sem o pagamento do adicional de 50%, diferentemente de qualquer outro trabalhador? A resposta, certamente, é não, até porque a norma que determina o pagamento do adicional ‘visa justamente desestimular a prática repetitiva de exigir-se do empregado a prestação de serviços além do limite fixado pela lei’ (fls. 212).
+Ressalte-se que o dispositivo constitucional não fez qualquer distinção entre serviço extraordinário prestado por trabalhadores sujeitos ao cumprimento de carga horária de trabalho e profissionais, de forma que ‘as necessidades inadiáveis que obriguem o empregador a violar essa limitação darão ao trabalhador direito ao recebimento de salário acrescido, no mínimo, à razão de cinqüenta por cento sobre o salário-hora normal (o que, hoje, é regra geral, ex vi do art. 7º, inc. XVI, da Constituição Federal)1.
+Ademais, ‘a norma inserida no art. 321 da CLT, ao dispor sobre o acréscimo de aulas à grade horária do professor, não exclui, de forma alguma, a percepção do adicional de trabalho extraordinário de 50% pela categoria’ (fls. 248), até porque o exercício da profissão ‘ – limitada nesses termos – na verdade é extenuante e, na maioria das vezes, excessiva, apenas se admitindo tal medida como expediente para proporcionar aos professores aos estabelecimentos particulares de ensino – quase sempre muito mal remunerados – oportunidade de ganhar melhor salário’2. A razão de ser do pagamento superior às horas extras trabalhadas, portanto, mantém-se ainda com mais razão no caso dos professores.
+Nesses termos, opino pelo conhecimento e improvimento do Recurso Extraordinário.”
+________________________
+ RUSSOMANO, Mozart Victor. Curso de Direito do Trabalho. Curitiba: Juruá, 2003, p. 301.
+2 Ob. cit., p. 307
+4. Tenho como irretocável o parecer do Ministério Público Federal, que adoto como razões de decidir.
+5. À derradeira, pontuo que a jurisdição foi prestada de forma completa, em decisão devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante, não se configurando o alegado cerceamento de defesa.
+Isso posto, e frente ao caput do art. 577 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 17 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
