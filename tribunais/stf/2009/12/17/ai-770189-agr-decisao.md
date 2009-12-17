@@ -1,0 +1,28 @@
+Trata-se de agravo regimental interposto contra decisão que, em 27/10/2009, negou seguimento ao agravo de instrumento. Eis o teor do julgado atacado:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, V, X, XXXV, LIV e LV, 105, III, c, e 192 da mesma Carta.
+O agravo não merece acolhida. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+Além disso, o acórdão recorrido decidiu a questão com base na legislação ordinária, no caso, o Código de Defesa do Consumidor - CDC. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido: AI 349.529/RS, Rel. Min. Cezar Peluso; AI 537.096/RS, Rel. Min. Carlos Velloso; AI 613.681-AgR/RJ, Rel. Min. Eros Grau; AI 587.196-AgR/MG, Rel. Min. Cármen Lúcia.
+Ademais, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame de normas contratuais, o que atrai a incidência da Súmula 454 do STF.
+Isso posto, nego seguimento ao recurso” (fl. 166).
+A agravante sustentou, em suma, a desnecessidade de prévia interpretação de norma infraconstitucional.
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que a recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Isso porque, a apreciação dos temas constitucionais depende do exame de legislação ordinária, no caso, o Código de Defesa do Consumidor - CDC. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Por oportuno trago trecho da ementa do acórdão recorrido:
+“(...)
+1. A cláusula contratual que prevê, em caso de desistência do consorciado, a devolução dos valores pagos após o encerramento do grupo é abusiva, eivada de nulidade, nos termos do art. 51, IV, do Código de Defesa do Consumidor, legislação que se sobrepõe às disposições contidas na Circular nº 3.084/2002 do Banco Central” (fl. 90).
+Ademais, a orientação desta Corte é no sentido de que as alegações de violação aos princípios do devido processo legal, do contraditório e da ampla defesa podem configurar, quando muito, situação de ofensa reflexa ao texto constitucional, o que impede a utilização do recurso extraordinário.
+Nesse sentido, transcrevo a ementa do AI 649.191-AgR/DF, Rel. Min. Cármen Lúcia:
+“PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL: OFENSA INDIRETA À CONSTITUIÇÃO. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO. 1. Apesar dos argumentos do Agravante, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, entre outros, configuram ofensa reflexa à Constituição da República. 2. Agravo Regimental ao qual se nega provimento”
+Nesse sentido, menciono, ainda, os seguintes julgados: AI 742.808-AgR/DF, de minha relatoria; AI 730.781-AgR/RJ, Rel. Min. Cármen Lúcia; AI 710.663-AgR/RJ, Rel. Min. Carlos Britto.
+Outrossim, cabe ressaltar que a matéria alegada no RE demanda a interpretação de cláusulas contratuais, o que atrai a incidência da Súmula 454 do STF. Por oportuno, cito trecho do referido recurso:
+“... não há como devolver a suposta quantia paga antes do término do grupo, porquanto inexiste qualquer ilegalidade no ato ou na cláusula contratual” (fl. 131).
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifos meus).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 17 de dezembro de 2009.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
