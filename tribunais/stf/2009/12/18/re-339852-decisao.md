@@ -1,0 +1,13 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+2. Da leitura dos autos, observo que a Instância Judicante de origem assegurou à recorrente o direito à nomeação e à posse no cargo de Auxiliar Administrativo de Escola, atos não praticados pela Administração mesmo depois do trânsito em julgado da decisão que reputou discriminatória a limitação de idade imposta no edital do certame. Por outro lado, negou provimento ao pedido de indenização por danos morais e patrimoniais decorrentes do fato de a servidora não haver sido nomeada no momento oportuno.
+3. Pois bem, a parte recorrente aponta violação ao inciso X do art. 5o e ao § 6o do art. 37 da Magna Carta Federal.
+4. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo não conhecimento do recurso, e, se conhecido, pelo seu provimento.
+5. Tenho que a insurgência merece parcial acolhida. É que, no tocante aos danos materiais, esta Corte, ao julgar casos análogos ao presente, decidiu pela procedência do pedido de indenização, ante a demora na nomeação e posse de servidor, decorrente de óbice imposto pelo Estado, declarado inconstitucional pelo Poder Judiciário.
+6. Precedentes: REs 188.093, da relatoria do ministro Maurício Corrêa; 194.657, da relatoria do ministro Sepúlveda Pertence; 221.170, da relatoria do ministro Moreira Alves; 222.746, da relatoria do ministro Ilmar Galvão; e 405.815, de minha relatoria.
+7. Por outra volta, quanto à configuração dos danos morais pleiteados, seria indispensável a análise da legislação infraconstitucional pertinente, bem como o reexame do acervo fático-probatório dos autos (Súmula 279 do STF). Providências vedadas neste momento processual.
+Isso posto, e frente ao § 1º-A do art. 557 do CPC, dou parcial provimento ao recurso para: a) condenar o Estado do Rio Grande do Sul a pagar à recorrente, a título de indenização por danos patrimoniais, exclusivamente “os valores referentes à diferença entre o que perceberia no cargo pleiteado e o que recebeu no cargo que ora ocupa” (item “f” do rol de pedidos constantes da inicial – fls. 06/07); b) eximir a recorrente do pagamento da multa que lhe foi aplicada pelo Tribunal de origem, na decisão de fls. 118/120; e c) inverter integralmente os ônus da sucumbência, fixando os honorários advocatícios em 5% sobre o valor da condenação (§ 4o do art. 20 do CPC).
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
