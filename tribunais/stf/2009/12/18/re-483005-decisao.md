@@ -1,0 +1,14 @@
+DECISÃO
+Vistos.
+COMPARECAFÉ – Comércio, Padronização e Representações de Café e Cereais Ltda. interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Terceira Turma do Tribunal Regional Federal da 3ª Região que declarou constitucional a ampliação da base de cálculo do PIS e da COFINS, na forma do artigo 3º, § 1º, da Lei 9.718/98, e julgou válida a majoração da alíquota da COFINS de 2% para 3%, prevista no artigo 8º, caput e § 1º, da Lei nº 9.718/98.
+Alega a recorrente contrariedade dos artigos 195, inciso I, § 4º, e 154, inciso I, da Constituição Federal. Sustenta, em síntese, a inconstitucionalidade das referidas alterações impostas pela Lei nº 9.718/98.
+Decido.
+Ressalte-se, inicialmente, que o Plenário deste Supremo Tribunal Federal, na sessão de 10/9/08, ao apreciar Questão de Ordem no Recurso Extraordinário nº 585.235/MG, Relator o Ministro Cezar Peluso, reconheceu a existência de repercussão geral da matéria referente à base de cálculo do PIS e da COFINS e reafirmou a jurisprudência desta Corte acerca do tema. Em 11/6/08, no exame da Questão de Ordem no Agravo de Instrumento nº 715.423/RS, da relatoria da Ministra Ellen Gracie, concluiu pela existência da repercussão geral do tema referente à majoração da alíquota da COFINS.
+A irresignação merece prosperar, em parte.
+No julgamento do RE nº 527.602/SP, Redator para o acórdão o Ministro Marco Aurélio, o Plenário deste Supremo Tribunal Federal reafirmou a jurisprudência assentada no julgamento dos Recursos Extraordinários nºs 346.084/PR, Relator o Ministro Ilmar Galvão, DJ de 1º/9/06, e 357.950/RS, 358.273/RS e 390.840/SC, Relator o Ministro Marco Aurélio, DJ de 15/8/06, no sendido da constitucionalidade da majoração da alíquota da COFINS prevista no artigo 8º da Lei nº 9.718/98 e, também, quanto à inconstitucionalidade do artigo 3o, § 1o, da Lei nº 9.718/98, por entender que a ampliação da base de cálculo da contribuição ao PIS e da COFINS, na forma prevista no referido dispositivo legal, violou a redação original do artigo 195, inciso I, da Constituição Federal.
+Ao julgar constitucional a ampliação da base de cálculo da COFINS e do PIS, promovida pelo artigo 3º, § 1º, da Lei nº 9.718/98, o Tribunal de origem divergiu da orientação fixada pelo Plenário desta Corte.
+Ante o exposto, nos termos do artigo 557, caput e § 1º-A, do Código de Processo Civil, conheço parcialmente o recurso extraordinário e, nessa parte, dou-lhe provimento para reformar o acórdão recorrido na parte em que declara a constitucionalidade do artigo 3º, § 1º, da Lei nº 9.718/98, que ampliou a base de cálculo do PIS e da COFINS. Sem condenação em honorários, nos termos da Súmula nº 512/STF. Custas ex lege.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
