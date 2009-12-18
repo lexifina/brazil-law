@@ -1,0 +1,36 @@
+DECISÃO
+Vistos.
+Ibiá Engenharia e Comércio Ltda. interpõe recurso extraordinário, com fundamento na   alínea “a” do permissivo constitucional, contra acórdão da Segunda Turma Suplementar do Tribunal Regional Federal da 1ª Região, assim ementado:
+“CONSTITUCIONAL, TRIBUTÁRIO E PROCESSUAL CIVIL. IMPOSTO DE RENDA. CORREÇÃO MONETÁRIA DAS CONTAS REPRESENTATIVAS DO CUSTO DOS IMÓVEIS NÃO CLASSIFICADOS NO ATIVO PERMANENTE. LEI 7.799, DE 10 DE JULHO DE 1989, ART. 4º, I, B.
+I. Tratando-se de demanda relativa à correção monetária das contas representativas do custo dos imóveis colocados em estoque, não é extra petita pelo fato de, nas razões do julgado, reportar-se o juiz sentenciante, ilustrativamente, à reavaliação do ativo.
+II. A correção monetária das demonstrações financeiras, em consonância com o disposto no art. 3º da Lei 7.799/89, tem por objetivo expressar, em valores reais, os elementos patrimoniais e a base de cálculo do Imposto de Renda de cada período base.
+III. Não viola o objeto constitucional do Imposto de Renda, bem como a respectiva hipótese de incidência, a correção monetária das contas representativas do custo de imóveis não classificados no ativo permanente (Lei 7.799/89, art. 4º, I, b), haja vista que o mesmo diploma legal assegura a apuração do acréscimo patrimonial, determinando a correção das contas do patrimônio líquido (art. 4º, I, e). Da diferença positiva da correção monetária é que surge o saldo credor de correção monetária, que integra a base de cálculo do citado tributo.
+IV. Também não é hipótese de violação do Princípio da Igualdade Tributária e da Limitação Constitucional de Vedação de Confisco, de vez que não há comprovação, nos autos, da ocorrência de situação de absorção inconstitucional e discriminatória do patrimônio pela incidência da tributação.
+V. Apelação improvida” (fl.115).
+Opostos embargos de declaração (fls. 119 a 122), foram rejeitados (fls. 125 a 130).
+Alega o recorrente violação dos artigos 5º, incisos XXXV e LV, 93, inciso IX, 146, inciso III, “a”, 150, incisos I, II e IV, da Constituição Federal.
+Contra-arrazoado (fls. 160 a 162), o recurso extraordinário (fls. 142 a 157) foi admitido (fl. 169).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 1º/2/02, conforme expresso na certidão de folha 131, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Não houve negativa de prestação jurisdicional, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão da recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Ressalte-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então agravante, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ 18/5/01).
+Por outro lado, colhe-se do voto condutor do acórdão:
+“Na hipótese, a Impetrante assim qualifica a inclusão da correção monetária das contas representativas do custo de imóveis não classificados como ativo permanente. Resta, pois, saber-se, por esse instrumento, a Fazenda estaria tributando capital. Parece-me que não. A correção monetária foi introduzida nos balanços patrimoniais das empresas, exatamente, para corrigir as distorções geradas pela inflação e, assim, permitir que a imposição fiscal recaia sobre elementos que traduzam a realidade das demonstrações daquelas. Nesse diapasão, estabelecem os arts. 153, 154, 155 e 172 do RIR/80 (Decreto 85.450/80):
+...........................................................................................
+Assim, a atualização monetária de conta do ativo das empresas só poderia ser considerada tributação sobre o capital se, igualmente, não estivesse sendo corrigido o patrimônio líquido das mesmas. Mas, a leitura do integral teor do dispositivo questionado não permite essa conclusão, haja vista que a alínea ‘e’ do mesmo inciso prevê a incidência da correção monetária sobre as contas integrantes do patrimônio líquido” (fl. 112).
+Nesse caso, para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame da legislação infraconstitucional e das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte.
+No mesmo sentido, ao analisar questão idêntica à dos presentes autos, a Ministra Carmen Lúcia decidiu nos seguintes termos:
+“3. Razão jurídica não assiste à Recorrente.
+4. O Tribunal a quo asseverou que “a inclusão da correção monetária dos imóveis em estoque na base de cálculo do Imposto de Renda, Contribuição Social e Imposto sobre o Lucro Líquido não pode ser caracterizada como confisco, ferindo o art. 150, IV da Carta Magna. Apenas almeja o legislador a correção monetária sobre as demonstrações financeiras sem, entretanto, modificar o conceito de renda e, ademais, o fato gerador do imposto, como bem discrimina a Lei n. 7.799/89, é o lucro real” (fl. 85).
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria a análise prévia de legislação infraconstitucional aplicável à espécie (Lei n. 7.799/89). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido, os seguintes julgados:
+‘E M E N T A: RECURSO EXTRAORDINÁRIO - EXIGIBILIDADE DO RECOLHIMENTO DO IMPOSTO DE RENDA ANTES DA OCORRÊNCIA DO FATO GERADOR - DECRETO-LEI Nº 2.354/87, LEI Nº 7.787/89 E LEI Nº 7.799/89 - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - INVIABILIDADE DO APELO EXTREMO - RECURSO DE AGRAVO IMPROVIDO. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes’ (RE 228.196-AgR, Rel. Min. Celso De Mello, Segunda Turma, DJ 2.2.2007).
+E:
+‘EMENTA: ACÓRDÃO QUE CONCLUIU PELA VALIDADE DA COBRANÇA ANTECIPADA DE IMPOSTO DE RENDA E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO, NOS TERMOS DO DECRETO-LEI Nº 2.354/87 E DA LEI Nº 7.799/89. Matéria circunscrita ao âmbito de interpretação de normas de natureza infraconstitucional, significando que eventual ofensa à Carta somente se daria de forma reflexa e indireta. Questão, ademais, insuscetível de apreciação em sede extraordinária ante a falta de prequestionamento dos temas constitucionais invocados. Agravo regimental desprovido’ (AI 238.846-AgR, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 16.2.2001).
+5. Nada há, pois, a prover quanto às alegações da Recorrente.” (RE nº 566.112/MG, DJe de 26/8/09).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
