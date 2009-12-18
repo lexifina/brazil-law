@@ -1,0 +1,20 @@
+DECISÃO: Vistos, etc.
+Cuida-se de recurso extraordinário criminal, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais. Tribunal que rejeitou denúncia criminal, considerando avaliação probatória da Justiça Eleitoral:
+“PREFEITO MUNICIPAL – CRIME DE RESPONSABILIDADE – DECRETO LEI Nº 201/1967 – ARTIGO 1º, INCISO II – UTILIZAR-SE, INDEVIDAMENTE, EM PROVEITO PRÓPRIO OU ALHEIO, DE BENS, RENDAS OU SERVIÇOS PÚBLICOS – DENÚNCIA – Rejeição – Necessidade, por não encontrar fundamento probatório razoável – Falta de justa causa – Decisão da Justiça Eleitoral, em relação aos mesmos fatos contidos na exordial, pela insubsistência dos elementos de convicções reunidos – Maior rigor exigido para a valoração da prova em sede de processo penal – A justa causa, considerada como condição da ação penal, está intrinsecamente relacionada à existência de suporte mínimo de prova a alicerçar a acusação – Denúncia rejeitada.”
+2. Pois bem, a parte recorrente sustenta, em síntese, violação aos § 1º e 4º do art. 37, bem como ao inciso IX do art. 93 da Carta Magna Federal.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Wagner Gonçalves, opina pelo conhecimento parcial do recurso e, na parte conhecida, pelo seu provimento, “para que, reformado o acórdão recorrido, seja recebida a denúncia”.
+4. Tenho que o recurso merece acolhida. Isso porque o aresto impugnado destoa da jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta. Confiram-se, a propósito, o MS 23.625, sob a relatoria do ministro Maurício Corrêa; o HC 85.953, sob minha relatoria; e o RHC 91.110, sob a relatoria da ministra Ellen Gracie, que redigiu a ementa da seguinte maneira:
+“DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. MATÉRIA ELEITORAL. ALEGAÇÃO DE AUSÊNCIA DE JUSTA CAUSA. INDEPENDÊNCIA DAS INSTÂNCIAS. AÇÃO DE IMPUGNAÇÃO DE MANDATO ELETIVO E AÇÃO PENAL. IMPROVIMENTO.
+[...]
+2. Nas próprias razões do recurso ordinário em habeas corpus há nítida argumentação que associa a falta de justa causa para a deflagração da ação penal à narração dos fatos, tal como realizada na denúncia. Obviamente que o Tribunal Superior Eleitoral não formulou juízo de recebimento da denúncia, eis que a matéria somente foi analisada no tópico da fundamentação do julgamento de habeas corpus impetrado pelo próprio recorrente.
+3. O tema envolve a relativa independência das instâncias (civil e criminal), não sendo matéria desconhecida no Direito brasileiro. De acordo com o sistema jurídico brasileiro, é possível que de um mesmo fato (aí incluída a conduta humana) possa decorrer efeitos jurídicos diversos, inclusive em setores distintos do universo jurídico. Logo, um comportamento pode ser, simultaneamente, considerado ilícito civil, penal e administrativo, mas também pode repercutir em apenas uma das instâncias, daí a relativa independência.
+[...]
+5. Somente haveria impossibilidade de questionamento em outra instância caso o juízo criminal houvesse deliberado categoricamente a respeito da inexistência do fato ou acerca da negativa de autoria (ou participação), o que evidencia a relativa independência das instâncias (Código Civil, art. 935). No caso em tela, a improcedência do pedido deduzido na ação de impugnação de mandato eletivo se relaciona à responsabilidade administrativo-eleitoral e, consequentemente, se equipara à idéia de responsabilidade civil, a demonstrar a incorreção da tese levantada no habeas corpus impetrado.
+[...]
+7. A denúncia apresenta um conjunto de fatos conhecidos e provados que, tendo relação com a possível prática de atos de corrupção eleitoral, autoriza, por indução, concluir-se pela existência de relação de causalidade material entre as condutas dos denunciados, entre eles o paciente.
+8. Recurso ordinário improvido.”
+Isso posto, dou provimento ao recurso.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
