@@ -1,0 +1,21 @@
+DECISÃO
+RECLAMAÇÃO. ADVOGADO. PRERROGATIVA PROFISSIONAL. PRISÃO DOMICILIAR. ALEGADA AFRONTA AO DECIDIDO NO JULGAMENTO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE 1.127/DF E NA RECLAMAÇÃO N. 4.535/ES. PROVIDÊNCIAS PROCESSUAIS.
+1. Reclamação, com pedido de medida liminar, ajuizada por Bruno Schroeder, em 7.2.2008, contra decisões proferidas pelo Juiz Corregedor dos Presídios de Curitiba/PR e pelos relatores dos Habeas Corpus ns. 360.550-9, 399.784-0 e 456.303-3, em trâmite no Tribunal de Justiça do Paraná, que, ao manterem o Reclamante preso em cela comum, teriam afrontado a autoridade das decisões proferidas nos autos da Ação Direta de Inconstitucionalidade n. 1.127/DF e da Reclamação n. 4.535/ES.
+2. Em 15.2.2008, o saudoso Ministro Menezes Direto, à época relator deste feito, indeferiu a liminar requerida e requisitou informações (fls. 65-75), as quais foram prestadas pelo Presidente do Tribunal de Justiça do Paraná em 12.3.2008 (fls. 83-90).
+3. Em 6.11.2008, a Procuradoria-Geral da República manifestou-se pela improcedência da presente Reclamação (fls. 95-99).
+4. Em 26.9.2009, por meio da Petição STF n. 70.741, o Reclamante noticiou ter sido condenado a 53 (cinqüenta e três) anos e 3 (três) meses de reclusão e que a apelação por ele interposta estaria pendente de julgamento (fls. 123-125). Informou, ainda, ter sido transferido para o Centro de Operações Especiais Policiais da Polícia Civil – COPE e solicitou “preferência para a análise e julgamento do recurso para deferir ao paciente a prisão domiciliar até o trânsito em julgado da sentença” (fl. 124).
+5. Em 3.8.2009, diante da notícia de remoção do Reclamante para o Centro de Operações Especiais Policiais da Polícia Civil – COPE, o Ministro Menezes Direito determinou fosse o Tribunal de Justiça do Paraná oficiado para esclarecer “as condições de prisão do reclamante, especificando se ele está encarcerado em cela especial e afastado dos demais presos” (fl. 306, DJ 19.8.2009).
+6. Em 24.9.2009, a presente Reclamação foi a mim redistribuída, nos termos da Portaria n. 174/2009 (fl. 309).
+7. Em 12.11.2009, o Reclamante requereu a juntada da “informação da vistoria realizada pela Procuradoria da Ordem dos Advogados do Brasil – Seção do Paraná, em Curitiba, relativamente às instalações onde se contra preso (...), isto é, no Centro de Operações Especiais da Polícia Civil – COPE, nesta capital, através [d]a qual concluiu-se que o paciente não se encontra preso em sala de Estado-Maior, não sendo respeitado o art. 7º, V, da Lei 8.906/94” (Petição/STF 135.489/2009).
+8. Em suas informações, prestadas por fax em 1º.12.2009, o Tribunal de Justiça do Paraná esclareceu:
+“Em atendimento ao contido no Ofício nº 8569/R (...), informo a Vossa Excelência que, conforme informação prestada pela Delegada de Polícia Adjunta do Centro de Operações Policiais Especiais, Dra. Vanessa Alice, o custodiado Bruno Schroeder está recolhido em cela especial composta por quarto, cozinha e banheiro, cujas descrições constam no Ofício nº 0555/2009-gab/va em anexo. Além disso, consigna o referido ofício que, desde a data de 29/10/2009, Bruno Schroeder está dividindo as acomodações com o custodiado André dos Santos Damas, advogado recolhido no Centro de Operações Policiais Especiais, por determinação judicial”.
+9. A Delegada de Polícia Adjunta do Centro de Operações Policiais Especiais/PR, Vanessa Alice, no Ofício 0555/2009-gab/va, informou as condições do local em que está preso o Reclamante:
+“Quarto com acomodações, ventilado, medindo 3m30cm/3m20cm, totalizando 10,24 metros quadrados, sem grades e/ ou trancas;
+Cozinha com fogão, geladeira, pia e prateleira, ventilada, medindo 2.15/2.15, totalizando 4.62 metros quadrados, sem grades e/ou trancas;
+Banheiro com ventilação, chuveiro elétrico, vaso sanitário e pia, medindo 2.00/2.00, totalizando 4.00 metros quadrados, sem grades e/ou trancas”.
+A alteração do quadro fático relativo ao local e às condições em que o Reclamante está recolhido recomenda nova manifestação do Ministério Público Federal.
+10. Vista ao Procurador-Geral da República (art. 160 do Regimento Interno do Supremo Tribunal Federal e art. 16 da Lei n. 8.038/90).
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministra CÁRMEN LÚCIA
+Relatora
