@@ -1,0 +1,20 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, com base na alínea “a” do inciso III do art. 102 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+2. Da leitura dos autos, observo que Instância Judicante de origem reconheceu legítimas as restrições temporais ao creditamento do ICMS recolhido sobre as operações de aquisição de bens destinados ao ativo fixo de estabelecimento empresarial, de energia elétrica e sobre serviços de telecomunicações, em período posterior à vigência da Lei Complementar nº 102/00.
+3. Pois bem, a parte recorrente alega violação aos incisos II e LV do art. 5º, ao art. 59, ao inciso IX do art. 93, ao inciso I e à alínea “b” do inciso III do art. 150, ao art. 152 e ao inciso I do § 2º do art. 155, todos da Magna Carta Federal.
+4. A seu turno, a Procuradoria-Geral da República, em parecer da lavra da Subprocuradora-Geral Sandra Cureau, opina pelo “parcial conhecimento do recurso e, na parte conhecida, pelo seu desprovimento.
+5. Tenho que a insurgência não merece acolhida. Isso porque a decisão impugnada afina com a jurisprudência do Supremo Tribunal Federal. Leia-se, a propósito, a ementa do RE 392.991-AgR, sob a relatoria do ministro Eros Grau:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. LEI COMPLEMENTAR N. 87/96. SUPERVENIÊNCIA DA LC N. 102/2000. CRÉDITO DE ICMS. LIMITAÇÃO TEMPORAL À SUA EFETIVAÇÃO. VULNERAÇÃO DO PRINCÍPIO DA NÃO-CUMULATIVIDADE.
+Imposto sobre Circulação de Mercadorias e Serviços. Crédito. Compensação. Aproveitamento integral do crédito decorrente das aquisições para o ativo permanente. Superveniência da Lei Complementar n. 102/2000. Limitação temporal para o aproveitamento ao longo do período de 48 meses. Restrição à possibilidade de o contribuinte recuperar o imposto pago, como contribuinte de fato, na aquisição de bens para o ativo fixo dentro do período de vida útil. Vulneração ao princípio da não-cumulatividade. Inexistência. Precedente: ADI n. 2.325, Relator o Ministro Marco Aurélio, Sessão Plenária do dia 23.9.2004.
+Agravo regimental não provido.”
+6. Precedentes: AIs 683.745-AgR, sob a relatoria do ministro Celso de Mello; e 684.734-AgR, sob a relatoria do ministro Marco Aurélio; bem como REs 429.087-AgR, sob a relatoria do ministro Gilmar Mendes; e 457.078-AgR, sob a relatoria da ministra Cármen Lúcia.
+7. De mais a mais, anoto que a alegada afronta às garantias constitucionais do processo, se existente, ocorreria de modo reflexo ou indireto. Nesse mesmo sentido é a jurisprudência desta nossa Corte, que me parece juridicamente correta. A título de exemplo, reproduzo a ementa do AI 517.643-AgR, sob a relatoria do ministro Celso de Mello:
+“AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, XXXV E LV, E NO ART. 93, IX, TODOS DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+- As alegações de desrespeito aos postulados da inafastabilidade do controle jurisdicional, do devido processo legal, da motivação dos atos decisórios e da plenitude de defesa, por dependerem de exame prévio e necessário da legislação comum, podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes.”
+8. Não bastasse, pontuo que o aresto impugnado está devidamente fundamentado. Note-se que “a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, da relatoria do ministro Sepúlveda Pertence).
+9. À derradeira, incide no caso a Súmula 636 do STF.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
