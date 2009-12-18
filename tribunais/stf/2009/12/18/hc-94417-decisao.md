@@ -1,0 +1,16 @@
+DECISÃO: Vistos, etc.
+Cuida-se de habeas corpus, impetrado contra acórdão proferido pelo Superior Tribunal de Justiça. Acórdão que rechaçou a tese de falta de justa causa para a instauração da ação penal, em curso no Tribunal Regional Federal da 3ª Região.
+2. Pois bem, o impetrante sustenta a manifesta ausência de justa causa para a ação penal proposta contra o paciente. Isto porque se trata de uma acusação criminal que não conta com indícios mínimos de autoria e de materialidade delitiva. Noutras palavras: a ausência de provas capazes de comprovar a responsabilidade penal do acusado impede o recebimento da denúncia. Denúncia acolhida exclusivamente com base em “presunções e conjecturas”. Pelo que é de se declarar a nulidade do acórdão que recebeu a acusação ministerial pública pelos delitos de corrupção passiva (artigo 317 do CP) e de prevaricação (artigo 319 do CP). Daí o pedido de concessão da ordem para que se determine o trancamento da Ação Penal nº 181/TRF da 3ª Região, ajuizada contra João Carlos da Rocha Mattos.
+3. Na seqüência, a Procuradoria-Geral da República opinou pela denegação da ordem.
+4. Decido. Fazendo-o, anoto o prejuízo da impetração. Isto porque as informações prestadas pelo Tribunal Regional Federal da 3ª Região dão conta da superveniência da sentença condenatória do paciente (fls. 82/96). A prejudicar, portanto, o exame do pedido veiculado na impetração. Neste sentido, reproduzo a ementa do HC 88.963, de minha relatoria (Primeira Turma):
+“EMENTA: HABEAS CORPUS. CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. INÉPCIA DA DENÚNCIA: INOCORRÊNCIA. AUSÊNCIA DE JUSTA CAUSA PARA A AÇÃO PENAL E FUNDAMENTOS DA PRISÃO PREVENTIVA: PREJUDICIALIDADE DA IMPETRAÇÃO.
+1. A peça inicial acusatória bem satisfaz às exigências do art. 41 do CPP, sem incidir nas hipóteses de rejeição do art. 43 do mesmo diploma processual. Paciente denunciado pelo crime de associação para o tráfico (art. 14 da Lei 6.368/76), na companhia de outros 33 (trinta e três) acusados. Incumbência de ingressar em estabelecimento prisional, portando arma de fogo para repasse aos membros presos da quadrilha, bem como manter a comunicação destes com os demais integrantes do grupo supostamente criminoso, ainda em liberdade. Denúncia que, ao descrever minuciosamente a conduta delituosa imputada ao paciente, não é de se ter por inepta.
+2. Prejuízo da impetração quanto à alegada ausência de justa causa para a ação penal, dada a superveniência de sentença condenatória. Título jurídico que afasta a dúvida quanto à existência de elementos suficientes não só para a inauguração do processo penal como também para a própria condenação. Precedentes: HC 88.292, Relator Ministro Eros Grau (Segunda Turma); e HC 86.362, deste Relator (Primeira Turma).
+(...)
+4. Habeas Corpus indeferido, no tocante à inépcia da denúncia, e prejudicado tanto com relação à ausência de justa causa para a ação penal quanto aos fundamentos da prisão preventiva.”
+(Sem destaques no original)
+8. Esse o quadro, julgo prejudicado o pedido e determino o arquivamento dos autos. O que faço nos termos do art. 38 da Lei nº 8.038/90, combinado com o inciso IX do artigo 21 do RI/STF.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
