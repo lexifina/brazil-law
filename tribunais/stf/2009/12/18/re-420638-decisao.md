@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de recurso extraordinário interposto de acórdão do Tribunal Regional Federal da 4ª Região que versa sobre a contribuição ao Programa de Formação do Patrimônio do Servidor Público-Pasep. O acórdão recorrido entendeu ser indevido o bloqueio das cotas do Fundo de Participação do Município em decorrência do não-recolhimento do PASEP.
+No recurso extraordinário, a União alega ofensa ao disposto no art. 160, parágrafo único, da Carta Magna.
+No que concerne à legitimidade da retenção das quotas do Fundo de Participação do Município por parte da União, o Plenário deste Tribunal, em caso análogo, no julgamento do MS 24.269 (rel. min. Carlos Velloso, DJ de 13.12.2002), firmou o seguinte entendimento:
+“CONSTITUCIONAL. FUNDO DE PARTICIPAÇÃO DOS ESTADOS: RETENÇÃO POR PARTE DA UNIÃO: LEGITIMIDADE : C.F., art. 160, parágrafo único, I. I. - PASEP: sua constitucionalização pela CF/88, art. 239. Inconstitucionalidade da Lei 10.533/93, do Estado do Paraná, por meio da qual este desvinculou-se da referida contribuição do PASEP: ACO 471/PR, Relator o Ministro S. Sanches, Plenário, 11.4.2002. II. - Legitimidade da retenção, por parte da União, de crédito do Estado cota do Fundo de Participação dos Estados em razão de o Estado-membro não ter se manifestado no sentido do recolhimento das contribuições retidas enquanto perdurou a liminar deferida na ACO 471/PR. C.F., art. 160, parág.único , I. III. - Mandado de segurança indeferido.” (Grifei)
+No mesmo sentido: RE 446.536-AgR (rel. min. Eros Grau, Segunda Turma, DJe de 15.08.2008); RE 371.857-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJ de 07.04.2006); RE 376.082-AgR (rel. min. Carlos Velloso, Segunda Turma, DJ de 29.08.2003) e RE 461.186 (rel. min. Cármen Lúcia, decisão monocrática, DJe de 04.02.2009).
+Do exposto, e com base no art. 557, § 1º-A, do Código de Processo Civil, conheço e dou provimento ao recurso extraordinário. Ficam mantidos os ônus da sucumbência.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
