@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 980, de 17 de dezembro de 2009
+Altera a Instrução Normativa RFB Nº 971, de 13 de novembro de 2009, que dispõe sobre normas gerais de tributação previdenciária e de arrecadação das contribuições sociais destinadas à Previdência Social e as destinadas a outras entidades ou fundos, administradas pela Secretaria da Receita Federal do Brasil (RFB).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF Nº 125, de 4 de março de 2009, e tendo em vista o disposto na Lei Nº 11.457, de 16 de março de 2007, resolve:
