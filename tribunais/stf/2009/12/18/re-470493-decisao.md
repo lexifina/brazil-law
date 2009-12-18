@@ -1,0 +1,19 @@
+DECISÃO
+Vistos.
+Município do Rio de Janeiro interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Décima Quarta Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro que, em caso anterior às Emendas Constitucionais nºs 29/2000 e 39/02, julgou inconstitucional a cobrança do IPTU progressivo, da taxa de iluminação pública e da taxa de coleta de lixo e limpeza pública do Município do Rio de Janeiro, nos termos da seguinte ementa:
+“EMBARGOS INFRINGENTES. DIREITO TRIBUTÁRIO. MEDIDA CAUTELAR DE DEPÓSITO E AÇÃO PRINCIPAL, OBJETIVANDO A DESCONSTITUIÇÃO DO LANÇAMENTO DE TRIBUTOS. TAXA DE COLETA DE LIXO E LIMPEZA PÚBLICA – TCLLP, IMPOSTO PREDIAL E TERRITORIAL URBANO – IPTU E TAXA DE ILUMINAÇÃO PÚBLICA – TIP. MANUTENÇÃO DO ACÓRDÃO, POR SEUS PRÓPRIOS FUNDAMENTOS, À EXCEÇÃO DO QUE DISPÔS EM RELAÇÃO À TIP, POR SER ESTA DECISÃO CONSIDERADA INCONSTITUCIONAL E ILEGAL. INFRAÇÃO DO ARTIGO 145, INCISO II E § 2º, DA CARTA MAGNA DE 1988. PROVIMENTO DO RECURSO DA EMPRESA AUTORA/EMBARGANTE. IMPROVIMENTO DOS EMBARGOS INFRINGENTES OPOSTOS PELO MUNICÍPIO” (fl. 465).
+Opostos embargos de declaração (fls. 474 a 477), foram rejeitados (fls. 480 e 481).
+Aduz o Município contrariedade aos artigos 30, inciso III, 145, inciso II, e 150, inciso III, alínea “b”, da Constituição Federal. Sustenta, em síntese, a constitucionalidade das referidas taxas e das alíquotas do IPTU.
+Contra-arrazoado (fls. 616 a 622), o recurso extraordinário (fls. 524 a 561) foi admitido (fls. 631 a 640).
+O Superior Tribunal de Justiça, em decisão transitada em julgado (fl. 652), não conheceu do recurso especial interposto paralelamente ao recurso extraordinário.
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 17/4/98, conforme expresso na certidão de folha 482, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação, uma vez que a jurisprudência desta Corte é pacífica no sentido de ser inconstitucional lei municipal que tenha estabelecido, antes da Emenda Constitucional nº 29/2000, alíquotas progressivas do IPTU, salvo se destinadas a assegurar o cumprimento da função social da propriedade urbana (Súmula nº 668/STF), o que não é o caso. Esse entendimento foi reafirmado pelo Plenário desta Corte quando da apreciação da Questão de Ordem suscitada no Agravo de Instrumento nº 712.743/SP, em 12/3/09, Relatora a Ministra Ellen Gracie, ocasião em que ficou assentada a existência de repercussão geral do tema e foi reafirmada a orientação jurisprudencial já firmada neste Tribunal.
+No que tange à cobrança da taxa de coleta de lixo e limpeza pública, este Tribunal já pacificou o entendimento de ser ilegítima a referida exação. Sobre o tema, assim decidiu o Plenário desta Corte:
+“SERVIÇO DE LIMPEZA DE LOGRADOUROS PÚBLICOS E DE COLETA DOMICILIAR DE LIXO. UNIVERSALIDADE. COBRANÇA DE TAXA. IMPOSSIBILIDADE. Tratando-se de taxa vinculada não somente à coleta domiciliar de lixo, mas, também, à limpeza de logradouros públicos, que é serviço de caráter universal e indivisível, é de se reconhecer a inviabilidade de sua cobrança. Precedente: RE 206.777. Embargos de divergência conhecidos e providos” (RE nº 256.588/RJ-EDv, Relatora a Ministra Ellen Gracie, DJ de 3/10/03).
+No tocante à taxa de iluminação pública, em caso anterior à EC nº 39/02, incide a Súmula nº 670 desta Corte, que assim dispõe, in verbis: “O serviço de iluminação pública não pode ser remunerado mediante taxa”.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
