@@ -1,0 +1,23 @@
+DECISÃO
+Vistos.
+Augusto Debastiani interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quinta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“PREVIDENCIÁRIO. PENSÃO POR MORTE DE TRABALHADORA RURAL. ÓBITO ANTERIOR À LEI 8.213/91. NÃO DEMONSTRADA CONDIÇÃO DE CHEFE DE FAMÍLIA. VERBA HONORÁRIA. CUSTAS PROCESSUAIS.
+1. Tendo o óbito da trabalhadora rural ocorrido anteriormente à edição da Lei 8.213/91, cumpre observar a legislação à época vigente que exigia ser a falecida esposa chefe ou arrimo da unidade familiar para a concessão do benefício de pensão por morte ao cônjuge. 2. Não sendo a falecida trabalhadora rural chefe de família, incabível a concessão do pensionamento. 3. Ante à ausência de impugnação por parte do demandante, fica mantida a verba honorária em 15% sobre o valor atribuído à causa. 4. Demanda isenta e custas (art. 128 da Lei 8.213/91)” (fl. 150).
+Alega o recorrente contrariedade aos artigos 5º, inciso I, 201, inciso V, e 226, § 5º, da Constituição Federal. Sustenta a inconstitucionalidade das restrições impostas pelo Decreto nº 83.080/79 que exigem da instituidora da pensão a condição de chefe de família para a concessão de pensão por morte ao cônjuge varão. Afirma, também, que “uma vez existente o benefício da pensão para o marido inválido, tal restrição ‘inválido’ também não foi recepcionada na Carta de 1.988” (fl. 164).
+Sem contrarrazões (fl. 168verso), o recurso extraordinário (fls. 160 a 167) foi admitido (fl. 169).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 16/1/02, conforme expresso na certidão de folha 150verso, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação merece prosperar, uma vez que o acórdão recorrido não está em sintonia com a jurisprudência desta Corte, consolidada no julgamento do RE nº 385.397-AgR, Plenário, Relator o Ministro Sepúlveda Pertence, publicado no DJ de 6/9/07, assim ementado:
+“I. Recurso extraordinário: descabimento. Ausência de prequestionamento do art. 5º, XXXVI, da Constituição Federal, tido por violado: incidência das Súmulas 282 e 356.
+II. Pensão por morte de servidora pública estadual, ocorrida antes da EC 20/98: cônjuge varão: exigência de requisito de invalidez que afronta o princípio da isonomia.
+1. Considerada a redação do artigo 40 da Constituição Federal antes da EC 20/98, em vigor na data do falecimento da servidora, que não faz remissão ao regime geral da previdência social, impossível a invocação tanto do texto do artigo 195, § 5º - exigência de fonte de custeio para a instituição de benefício -, quanto o do art. 201, V - inclusão automática do cônjuge, seja homem ou mulher, como beneficiário de pensão por morte.
+2. No texto anterior à EC 20/98, a Constituição se preocupou apenas em definir a correspondência entre o valor da pensão e a totalidade dos vencimentos ou proventos do servidor falecido, sem qualquer referência a outras questões, como, por exemplo os possíveis beneficiários da pensão por morte (Precedente: MS 21.540, Gallotti, RTJ 159/787).
+3. No entanto, a lei estadual mineira, violando o princípio da igualdade do artigo 5º, I, da Constituição, exige do marido, para que perceba a pensão por morte da mulher, um requisito - o da invalidez - que, não se presume em relação à viúva, e que não foi objeto do acórdão do RE 204.193, 30.5.2001, Carlos Velloso, DJ 31.10.2002.
+4. Nesse precedente, ficou evidenciado que o dado sociológico que se presume em favor da mulher é o da dependência econômica e não, a de invalidez, razão pela qual também não pode ela ser exigida do marido. Se a condição de invalidez revela, de modo inequívoco, a dependência econômica, a recíproca não é verdadeira; a condição de dependência econômica não implica declaração de invalidez.
+5. Agravo regimental provido, para conhecer do recurso extraordinário e negar-lhe provimento”.
+No mesmo sentido, em caso idêntico ao dos presentes autos, anote-se a seguinte decisão monocrática: RE nº 539.975/RS, Relator o Ministro Carlos Britto, DJ de 11/12/08.
+Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para reconhecer o direito do autor receber a pensão por morte decorrente do falecimento da segurada, cônjuge, invertendo o ônus da sucumbência. Custas e honorários advocatícios fixados em 10% sobre o valor da condenação pelo réu, vencido.
+Publique-se.
+Brasília, 14 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
