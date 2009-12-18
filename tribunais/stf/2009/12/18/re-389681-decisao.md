@@ -1,0 +1,12 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Amazonas. Acórdão de cuja fundamentação reproduzo (fls. 93/94):
+“Na espécie fática, o Impetrante, ao aposentar-se, adquiriu vantagens pessoais que, incorporadas nos seus proventos, dentre eles a gratificação-prêmio de 20% (vinte por cento) (art. 139-II, da Lei nº. 1.762/86), passaram a ser intocáveis, posto que direito adquirido, agasalhado pelos efeitos da lei vigente ao tempo que se constitui definitivamente a sua situação jurídica. Essa assertiva está calcada na jurisprudência do Supremo Tribunal Federal, cristalizada na Súmula 359, verbis: ‘Ressalvada a revisão em lei, os proventos da inatividade regulam-se pela lei vigente ao tempo em que o militar ou servidor civil, reuniu os requisitos necessários, inclusive a apresentação do requerimento, quando a inatividade for voluntária.’ Em sendo assim, tenho que se o Impetrante teve, de forma legal, incorporado aos seus proventos – prêmio de aposentadoria – concedida pelo art. 139-II, da Lei nº 1.762/86, vigente ao tempo que se deu a mudança da sua situação jurídica, adquiriu o direito permanente à percepção da vantagem pessoal, ficando a salvo dos efeitos da Lei nº 2.531/99, que extinguiu aquela gratificação.
+[...]”
+2. Pois bem, o Estado do Amazonas aponta violação aos incisos LV e XXXVI do art. 5º da Constituição Republicana. Sustenta, em síntese, que “o art. 139, II da Lei Estadual n.º 1.762/86, é desde o nascedouro, materialmente inconstitucional, quanto ao prêmio, pois sua edição afrontou a Magna Carta de 67, que era a lei fundamental vigente até 1988” (sic, fls. 113).
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo desprovimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. Isso porque o recorrente sustenta a tese de inconstitucionalidade da Lei estadual nº 1.762/86 ante a Constituição pretérita — questão que não foi abordada no aresto impugnado. Tampouco foram opostos embargos declaratórios para sanar eventual omissão. Pelo que é de incidir no caso a Súmula 282 do STF.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro AYRES BRITTO
+Relator
