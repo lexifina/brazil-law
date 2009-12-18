@@ -1,0 +1,14 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário com suporte nas alíneas “a” e “c” do inciso III do art. 102 da Constituição da República, manejado contra acórdão do Tribunal de Justiça do Estado do Paraná. Acórdão assim ementado (fls. 827/828):
+“APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - ICMS - OPERAÇÕES COM PRODUTOS INTEGRANTES DA CESTA BÁSICA - CREDITAMENTO DE SALDO POSITIVO DE OPERAÇÕES ANTERIORES - POSSIBILIDADE - REDUÇÃO NA ALÍQUOTA - NÃO CARACTERIZAÇÃO DE ISENÇÃO - INCONSTITUCIONALIDADE DAS NORMAS PROIBITIVAS DE CREDITAMENTO INTEGRAL - APELO NÃO PROVIDO. SENTENÇA MANTIDA EM SEDE DE REEXAME NECESSÁRIO.
+RECURSO ADESIVO - PLEITO PELA MAJORAÇÃO DA VERBA HONORÁRIA DE R$ 3.000,00 (TRÊS MIL REAIS) PARA 10% (DEZ POR CENTO) SOBRE O VALOR ATUALIZADO DA AÇÃO - DESCABIMENTO - APRECIAÇÃO EQÜITATIVA DO JULGADOR - INTELIGÊNCIA DO § 4º, ART. 20 DO CPC - RECURSO NÃO PROVIDO.”
+2. Pois bem, a parte recorrente alega ofensa às alíneas “a” e “b” do inciso II do § 2º do art. 155 da Carta Magna de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do então Subprocurador-Geral Roberto Monteiro Gurgel Santos, opinou pelo conhecimento e provimento do apelo extremo.
+4. Tenho que a insurgência merece acolhida. É que a decisão recorrida destoa do entendimento firmado pelo Plenário desta nossa Corte no julgamento do RE 174.478, relator para o acórdão o ministro Cezar Peluso. Eis a ementa do julgado:
+“TRIBUTO. Imposto sobre Circulação de Mercadorias. ICMS. Créditos relativos à entrada de insumos usados em industrialização de produtos cujas saídas foram realizadas com redução da base de cálculo. Caso de isenção fiscal parcial. Previsão de estorno proporcional. Art. 41, inc. IV, da Lei estadual nº 6.374/89, e art. 32, inc. II, do Convênio ICMS nº 66/88. Constitucionalidade reconhecida. Segurança denegada. Improvimento ao recurso. Aplicação do art. 155, § 2º, inc. II, letra ‘b’, da CF. Voto vencido. São constitucionais o art. 41, inc. IV, da Lei nº 6.374/89, do Estado de São Paulo, e o art. 32, incs. I e II, do Convênio ICMS nº 66/88."
+5. Outros precedentes: AIs 526.737-AgR, sob a relatoria do ministro Joaquim Barbosa; 633.841, sob a relatoria do ministro Sepúlveda Pertence; 693.262, sob a relatoria do ministro Gilmar Mendes; 693.993, sob a relatoria da ministra Cármen Lúcia; e 724.046, sob a relatoria do ministro Celso de Mello; bem como REs 548.267, sob a relatoria do ministro Marco Aurélio; 581.242, sob a relatoria do ministro Ricardo Lewandowski; 591.948, sob a relatoria do ministro Menezes Direito; e 593.381, sob a relatoria do ministro Eros Grau.
+Isso posto, e frente ao § 1º-A do art. 557 do CPC, dou provimento ao recurso. Ficam invertidos os ônus da sucumbência.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
