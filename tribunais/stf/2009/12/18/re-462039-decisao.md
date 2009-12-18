@@ -1,0 +1,19 @@
+DECISÃO
+Vistos.
+Banco Mercantil de São Paulo S.A. – FINASA interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Câmara do Primeiro Tribunal de Alçada Civil do Estado de São Paulo, assim ementado:
+“EXECUÇÃO – ISSQN – SERVIÇOS BANCÁRIOS – A LISTA A QUE SE REFERE O DECRETO-LEI Nº 406/68, COM A NOVA REDAÇÃO DO DECRETO-LEI Nº 834/69 É TAXATIVA, EMBORA PERMITA INTERPRETAÇÃO EXTENSIVA – EXERCÍCIOS DOS ANOS DE 1.983 A 1.988 – INCIDÊNCIA SOMENTE SOBRE OS SERVIÇOS CONSTANTES DO ITEM 62, DESSA LISTA, ISTO É, O DE COBRANÇA E SOBRE OS ACRESCIDOS PELA LEI COMPLEMENTAR Nº 56/87 – POSSIBLIDADE DE FIXAÇÃO DA ALÍQUOTA PELA MUNICIPALIDADE, NÃO MAIS PREVALECENDO A RESTRIÇÃO CONTIDA NO ART. 9º, DO ATO COMPLEMENTAR Nº 34, DE 30.1.67 – EMBARGOS JULGADOS IMPROCEDENTES – RECURSO PROVIDO, EM PARTE, PARA SE JULGAR OS EMBARGOS PROCEDENTES, EM PARTE” (fl. 226).
+Alega o recorrente violação dos artigos 21, inciso VI, e 24, inciso II, da Constituição Federal de 1967, com a redação da Emenda Constitucional nº 1/69.
+Contra-arrazoado (fls. 275 a 283), o recurso extraordinário (fls. 254 a 262) foi admitido (fl. 287).
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Paulo de Tarso Braz Lucas, “pelo não conhecimento do presente recurso extraordinário” (fls. 362/363).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 10/4/97, conforme expresso na certidão de folha 242, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no AI 664.567, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, haja vista que para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame da legislação infraconstitucional em debate e das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA - ISSQN. SERVIÇOS BANCÁRIOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO. O Tribunal de origem concluiu que o serviço prestado pela instituição financeira enquadrava-se na lista de serviços anexa ao Decreto-Lei n. 406/68 com as alterações da Lei Complementar n. 56/87” (AI nº 631.995/PR-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 18/9/09).
+“TRIBUTÁRIO. ISS. INCIDÊNCIA. SERVIÇOS BANCÁRIOS. DL 406/68. LC 56/87. INTERPRETAÇÃO. MATÉRIA INFRACONSTITUCIONAL. I - O acórdão recorrido decidiu a questão com base no DL 406/68 e LC 56/87. A afronta à Constituição, se ocorrente, seria indireta. II - Agravo regimental improvido” (AI nº 672.478/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 20/2/09),
+“RECURSO EXTRAORDINÁRIO - MOLDURA FATICA. Na apreciação do enquadramento do recurso extraordinário em um dos permissivos constitucionais, parte-se da moldura fatica delineada pela Corte de origem. Impossivel e pretender substitui-la para, a partir de fundamentos diversos, chegar a conclusão sobre o desrespeito a dispositivo da Lei Basica Federal” (AI nº 166.450/SP-AgR, Segunda Turma, Relator o Ministro Marco Aurélio, DJ de 16/2/96).
+No mesmo sentido as recentes decisões monocráticas: RE nº 412.577/RS, Relatora a Ministra Ellen Gracie, DJe de 18/12/09; RE nº 281.450/SP, Relatora a Ministra Cármen Lúcia, DJe de 2/12/09; e RE nº 389.274/SP, Relator o Ministro Ricardo Lewandowski, DJe de 29/10/09.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
