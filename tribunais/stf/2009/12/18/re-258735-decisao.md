@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Estado de São Paulo Interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Câmara “JANEIRO/98” de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“ICMS- Créditos tributários não aproveitamento a tempo – Correção monetária cabível na compensação a ser operada – Artigo 155, parágrafo 2º, inciso I, da Constituição Federal – Lei 6374, artigo 38, e Decreto 38.355/94 – Sentença de procedência parcial mantida – Recursos não providos” (fl. 88).
+Opostos embargos de declaração (fls. 94/95), foram rejeitados (fls. 99 a 101).
+Argúi o recorrente afronta aos artigos 2º, caput, 5º, caput e inciso II, e 155, § 2º, inciso I, da Constituição Federal, sustentando, em síntese, a impossibilidade de correção monetária de créditos escriturais de ICMS, uma vez que a regra da não-cumulatividade “determina que esse imposto incida sobre valor acrescido a cada operação, de forma que a incidência global do tributo seja idêntica à multiplicação da alíquota pela base de cálculo da última operação, de maneira que o valor resultado não seja nem superior nem inferior ao da soma do imposto incidente em cada operação” (fl. 154).
+Conclui que “tal princípio estaria sendo frontalmente infringido, pois os contribuintes que estivessem situados mais longe do início do ciclo econômico beneficiar-se-iam, em detrimento dos outros, mais próximos” (fl.155).
+Contra-arrazoado (fls. 170 a 172), o recurso extraordinário (fls. 149 a 162) foi admitido (fls. 180 a 183).
+O Superior Tribunal de Justiça, em decisão transitada em julgado (fls.189 a 192 e 194) negou seguimento ao recurso especial interposto paralelamente ao extraordinário.
+Opina o Ministério Público Federal, em parecer da lavra do, à época, Subprocurador-Geral da República, Dr. Roberto Monteiro Gurgel Santos, pelo provimento do recurso extraordinário.
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração fui publicado em 06/5/98, como expresso na certidão da folha 102, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Conheço do recurso apenas quanto ao debate da não-cumulatividade, porquanto nas demais alegações incidem as Súmulas nºs 282 e 356 desta Suprema Corte.
+Na parte conhecida, tem razão o recorrente. No caso, o acórdão recorrido diverge de posição firmada por este Supremo Tribunal Federal, a saber:
+“CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ICMS. CORREÇÃO MONETÁRIA DE CRÉDITOS EXTEMPORÂNEOS. INADMISSIBILIDADE. PRINCÍPIO DA NÃO-CUMULATIVIDADE. A jurisprudência do Supremo Tribunal Federal não admite a correção monetária dos créditos escriturais de ICMS, quando não existir previsão legal para essa correção. Precedentes. Agravo regimental a que se nega provimento. Condenação da agravante a pagar à parte agravada multa de 1% (um por cento) do valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao recolhimento do respectivo valor. Isso com lastro no § 2º do artigo 557 do Código de Processo Civil” (RE nº 523.087/SP-AgR, Primeira Turma, Relator o  Ministro Carlos Britto, DJe de 24/8/07).
+“TRIBUTO. Imposto sobre Circulação de Mercadorias e Serviços - ICMS. Inadmissibilidade - ICMS. Crédito escritural. Correção monetária. Não incidência. Art. 155, § 2º, I, da CF/88. Recurso extraordinário não admitido. Agravo regimental improvido. Precedentes. Contribuinte do ICMS não tem direito a correção monetária dos créditos escriturais” (AI nº 487.391/SP-AgR, Segunda Turma , Relator o Ministro Cezar Peluso, DJe de 18/4/08) .
+Ante o exposto, nos termos do artigo 557, caput e § 1º-A, do Código de Processo Civil, conheço parcialmente do recurso extraordinário e, nessa parte, dou-lhe provimento para, reformando o acórdão recorrido, julgar totalmente improcedente o pedido inicial. Custas e honorários advocatícios fixados em 10% sobre o valor da causa pelo autor, vencido.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
