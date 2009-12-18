@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Fisa Construções e Agropecuária Ltda. interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“TRIBUTÁRIO. ANULAÇÃO DE AUTO DE INFRAÇÃO EM DECORRÊNCIA DE NFLD INVALIDADA.
+A NFLD de nº 1402722 foi anulada em decorrência de vícios formais, não comprometendo o mérito da mesma, que restou absolutamente correto.
+Não é possível associar-se esta NFLD invalidada com as demais notificações como se estas decorressem da primeira” (fl. 248).
+Opostos embargos de declaração (fls. 250 a 255), foram rejeitados (fls. 259 a 262).
+Alega a recorrente violação do   artigo 5º, incisos XXXIV, XXXV, LIV e LV, da Constituição Federal, uma vez que “a emissão das Notificações Fiscais de Lançamento de Débito acima enumeradas somente poderia ter ocorrido após o advento de decisão administrativa definitiva em relação à procedência ou não do auto de Infração nº 1402722. O fato de não ter a Gerência de Arrecadação e Fiscalização Ctba II aguardado esta decisão definitiva corresponde à prática atentatória aos princípios constitucionais relativos aos direitos e garantias fundamentais do cidadão” (fl. 268).
+Contra-arrazoado (fl. 295 a 297), o recurso extraordinário (fls. 269 a 292) foi admitido (fl. 298).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 15/6/01, conforme expresso na certidão de folha 264, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, uma vez que a jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+Demais disso, para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
