@@ -1,0 +1,22 @@
+DECISÃO: A parte ora recorrente, ao deduzir o presente apelo extremo, sustentou que a decisão questionada teria vulnerado o princípio atinente à soberania do veredicto do Conselho de Sentença (CF, art. 5º, XXXVIII, “c”).
+Sob tal perspectiva, revela-se absolutamente inviável o presente recurso extraordinário.
+Com efeito, a matéria, tal como suscitada e exposta na petição recursal extraordinária, exige, para efeito de seu exame, o necessário cotejo entre a norma legal inscrita no art. 593, III, “d”, do CPP, e o texto constitucional (art. 5º, XXXVIII, “c”), cuja transgressão é sustentada pela parte ora recorrente.
+Vê-se que a controvérsia jurídica em questão poderá traduzir, quando muito, ofensa meramente reflexa ao que dispõe a Constituição Federal.
+Isso significa, portanto, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria - para que se configurasse - a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando, pois, de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência do Supremo Tribunal Federal (RTJ 120/912, Rel. Min. SYDNEY SANCHES - RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se insuscetível de conhecimento o presente recurso extraordinário.
+Nem se alegue, neste ponto, que o E. Tribunal de Justiça do Estado do Ceará, ao julgar o recurso interposto pela parte ora recorrente, teria incidido em ofensa ao princípio da legalidade.
+Não se pode desconsiderar, quanto a tal postulado, a orientação firmada pelo Supremo Tribunal Federal, cuja jurisprudência vem proclamando, a propósito desse tema, que o procedimento hermenêutico do Tribunal inferior - quando examina o quadro normativo positivado pelo Estado e dele extrai a interpretação dos diversos diplomas legais que o compõem, para, em razão da inteligência e do sentido exegético que lhes der, obter os elementos necessários à exata composição da lide - não transgride, diretamente, o princípio da legalidade (AI 161.396-AgR/SP, Rel. Min. CELSO DE MELLO - AI 192.995-AgR/PE, Rel. Min. CARLOS VELLOSO – AI 307.711/PA, Rel. Min. CELSO DE MELLO).
+É por essa razão - ausência de conflito imediato com o texto da Constituição - que a jurisprudência desta Corte vem enfatizando que “A boa ou má interpretação de norma infraconstitucional não enseja o recurso extraordinário, sob color de ofensa ao princípio da legalidade (CF, art. 5º, II)” (RTJ 144/962, Rel. Min. CARLOS VELLOSO - grifei):
+“E é pacífica a jurisprudência do S.T.F., no sentido de não admitir, em R.E., alegação de ofensa indireta à Constituição Federal, por má interpretação de normas infraconstitucionais, como as trabalhistas e processuais (...).”
+(AI 153.310-AgR/RS, Rel. Min. SYDNEY SANCHES - grifei)
+“A alegação de ofensa ao princípio da legalidade, inscrito no art. 5º, II, da Constituição da República, não autoriza, só por si, o acesso à via recursal extraordinária, pelo fato de tal alegação tornar indispensável, para efeito de sua constatação, o exame prévio do ordenamento positivo de caráter infraconstitucional, dando ensejo, em tal situação, à possibilidade de reconhecimento de hipótese de mera transgressão indireta ao texto da Carta Política. Precedentes.”
+(RTJ 189/336-337, Rel. Min. CELSO DE MELLO)
+Não foi por outro motivo que o eminente Ministro MOREIRA ALVES, Relator, ao apreciar o tema pertinente ao postulado da legalidade, em conexão com o emprego do recurso extraordinário, assim se pronunciou:
+“A alegação de ofensa ao artigo 5º, II, da Constituição, por implicar o exame prévio da legislação infraconstitucional, é alegação de infringência indireta ou reflexa à Carta Magna, não dando margem, assim, ao cabimento do recurso extraordinário.”
+(AI 339.607/MG, Rel. Min. MOREIRA ALVES - grifei)
+Cumpre acentuar, neste ponto, que essa orientação acha-se presentemente sumulada por esta Corte, como resulta claro da Súmula 636 do Supremo Tribunal Federal, cuja formulação possui o seguinte conteúdo:
+“Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.” (grifei)
+Sendo assim, e considerando as razões expostas, não conheço do presente recurso extraordinário.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro CELSO DE MELLO
+Relator
