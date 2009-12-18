@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal), em matéria de concurso público, que tem como violados os arts. 7º, XXX; 37, I; 39, § 3º; e 142, § 3º, X, da Carta Magna.
+O Tribunal de Justiça do Estado de Minas Gerais manteve sentença concessiva de segurança, em acórdão cuja ementa tem o seguinte teor (fls. 186):
+“MANDADO DE SEGURANÇA – CONCURSO PÚBLICO – OFICIAL MÉDICO DA PMMG – LIMITE DE IDADE – PRINCÍPIO DA RAZOABILIDADE NÃO ATENDIDO. O direito do cidadão fixado no art. 7º, XXX, da CR, sobre a limitação do interesse público, possibilitando à Administração Pública impor limitações ao ingresso a certos cargos, dada a sua natureza, a teor do seu art. 142, § 3º, X, porém, tais exigências, inclusive, quanto a idade, hão de ser razoáveis com as atribuições a serem exercidas. Assim, revela-se descabido o limite de idade à assunção ao cargo de oficial médico da PMMG, ante a inexistência de motivos fáticos hábeis para demonstrarem a suposta razoabilidade do limite de idade definido no edital do certame. Sentença confirmada no seu reexame necessário. Recurso voluntário prejudicado.”
+No recurso extraordinário, argumenta a parte recorrente que a natureza e as atribuições do cargo a que o recorrido pretende aceder exigem o limite de idade especificado em leis estaduais, limite esse que não poderia ter sido afastado por decisão judicial.
+Em contrarrazões, o recorrido alega que a aplicação de limites etários deverá sempre ser embasada no princípio constitucional da razoabilidade e que, como não há no exercício do cargo de médico, qualquer atividade que demanda jovialidade do servidor, como a necessidade de empreender esforços físicos, não pode haver limitação de idade ao ingresso do candidato, sob pena de ofensa ao princípio constitucional da isonomia.
+Decido.
+Ora, é fácil perceber que, no presente caso, antes de apreciar a matéria constitucional, é necessário interpretar normas infraconstitucionais, o que torna inviável o recurso extraordinário.
+Mesmo que fosse possível adentrar o mérito da controvérsia, a jurisprudência não socorre o recorrente. Isso porque está consolidado no âmbito desta Corte o entendimento segundo o qual, embora seja permitida a fixação legal de um limite de idade em concursos públicos, a discriminação em razão da idade deve ser analisada a partir do critério da razoabilidade. Precedentes: RMS 21.406 (DJ de 14.11.1991) e RMS 21.045 (DJ de 30.09.1994).
+Dessa orientação não divergiu o acórdão recorrido.
+Do exposto, nego seguimento ao recurso extraordinário.
+Brasília, 18 de dezembro de 2009.
+Ministro JOAQUIM BARBOSA
+Relator
