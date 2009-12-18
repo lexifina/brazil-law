@@ -1,0 +1,29 @@
+DECISÃO
+Vistos.
+Estado do Paraná interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+“EMBARGOS À EXECUÇÃO – ICM – COMPRA DE CAFÉ AO IBC – DIREITO DE CRÉDITO – CORREÇÃO MONETÁRIA – INCIDÊNCIA – JULGAMENTO ANTECIPADO – CERCEAMENTO DE DEFESA.
+O julgamento antecipado da lide não importa em cerceamento de defesa, de vez que o feito está suficientemente instruído com documentos hábeis para o deslinde da questão eminentemente de direito.
+Face o que estabelece o art. 23, inciso II da Constituição Federal e levando–se em consideração o que consta da Súmula 571 do S.T.F. é inquestionável o direito do comprador de creditar-se ao valor real do I.C.M., quando pela aquisição de café em grão junto ao I.B.C.
+Sendo a correção monetária simples técnica de recomposição do valor original, defasado pela inflação, deve ela ser aplicada ao crédito reconhecido, sob pena de frustrar-se o mesmo, no instante de seu reconhecimento” (fl. 286).
+Alega o recorrente violação dos artigos 153, § 1º, da Constituição Federal de 1967, com a redação da Emenda Constitucional nº 1/69, e 5º, inciso I, da Constituição Federal de 1988. Sustenta, em suma, o que se segue:
+“A autora adquiriu café ao IBC, para torrefação. Conforme a jurisprudência do Supremo tem direito ao crédito do ICM incidente sobre a operação anterior, nos termos da Súmula 571. Todavia, não utilizou-se desses créditos na época própria, mas tardiamente.
+...........................................................................................
+Daí que o v. acórdão não podia a pretexto de tratamento isonômico, conceder a correção monetária ao crédito tardio em conta gráfica. Por isso mesmo a jurisprudência do STF não admite correção monetária do creditamento de ICM nas situações em que o fisco não exigiu o tributo, vale dizer, quando a falta de creditamento ocorreu por fato do contribuinte, como é o caso” (fls. 325/328).
+Contra-arrrazoado (fls. 344/345), o recurso extraordinário (fls. 324 a 330) foi admitido (fls. 347 a 349).
+O Superior Tribunal de Justiça, em decisão transitada em julgado (fls. 396 e 385 a 394), não conheceu do recurso especial interposto paralelamente ao extraordinário.
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Arthur de Castilho Neto, pelo conhecimento e provimento do recurso (fls. 411 a 414).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 22/9/89, conforme expresso na certidão de folha 290, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Merece prosperar a irresignação.
+A jurisprudência da Corte já decidiu pela impossibilidade da incidência de correção monetária no creditamento escritural do Imposto sobre Circulação de Mercadorias e Serviços – ICMS, inclusive quando efetuado extemporaneamente, in verbis:
+“RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. IMPOSSIBILIDADE DE EXIGÊNCIA DE CORREÇÃO MONETÁRIA DE CRÉDITOS ESCRITURAIS. PRECEDENTES DAS TURMAS DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO. 1. A incidência de correção monetária sobre o crédito foi objeto de apreciação anterior deste Supremo Tribunal, concluindo-se no sentido de que, em se tratando de irregular lançamento de crédito em decorrência do recolhimento do ICMS, não há incidência de correção no momento da compensação com o tributo devido. 2. Essas operações de creditamento têm natureza meramente contábil: são os chamados créditos escriturais. Aplica-se a eles técnica de contabilização para viabilizar a equação entre débitos e créditos, para fazer valer o princípio da não-cumulatividade” (RE nº 386.475, Primeira Turma, Relatora para o acórdão a Ministra Cármen Lúcia, Tribunal Pleno, DJ de 22/6/07).
+No mesmo sentido, os seguintes precedentes das Turmas:
+“CONSTITUCIONAL. ICMS. CRÉDITO. INCIDÊNCIA DE CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - A jurisprudência desta Corte reconhece a impossibilidade de incidência de correção monetária em créditos de ICMS. Cito precedentes. II - Agravo regimental improvido” (AI nº 535.224/RS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 17/4/09).
+“TRIBUTO. Imposto sobre Circulação de Mercadorias e Serviços - ICMS. Inadmissibilidade - ICMS. Crédito escritural. Correção monetária. Não incidência. Art. 155, § 2º, I, da CF/88. Recurso extraordinário não admitido. Agravo regimental improvido. Precedentes. Contribuinte do ICMS não tem direito a correção monetária dos créditos escriturais” (AI nº 487.391/SP, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 18/4/08).
+“ICMS: aproveitamento de créditos extemporâneos ou acumulados de ICMS: correção monetária: inadmissibilidade em face do princípio da não-cumulatividade (CF, art. 155, § 2º, I): precedentes” (AI nº 228.372/RS-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 24/8/07).
+Anote-se que esse também era o entendimento adotado quando da vigência da Constituição de 1967. Sobre o tema:
+“CRÉDITO DE ICM. AÇÃO DECLARATORIA. EMBARGOS DE DIVERGENCIA. DIVERGENCIA COMPROVADA QUANTO A NÃO-INCIDENCIA DE CORREÇÃO MONETÁRIA. CONHECIMENTO E RECEBIMENTO” (RE n 107.782/SP-EDv, Tribunal Pleno, Relator o Ministro Francisco Rezek, DJ de 20/11/87).
+Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para restabelecer a sentença de primeiro grau, inclusive quanto aos ônus da sucumbência. Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
