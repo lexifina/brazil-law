@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSO ADMINISTRATIVO EM CURSO – PLURALIDADE DE INTERESSADOS – ATO DO CONSELHO NACIONAL DE JUSTIÇA - DESMEMBRAMENTO – RELEVÂNCIA E RISCO NÃO DEMONSTRADOS – INDEFERIMENTO DA LIMINAR.
+1.  Eis as informações prestadas pelo Gabinete:
+Com a inicial de folha 2 a 23, acompanhada dos documentos de folha 24 a 103, a impetrante, associação de classe representante dos serventuários da Justiça do Estado do Paraná, busca anular a decisão do Conselho Nacional de Justiça, formalizada, em 9 de outubro de 2009, no Procedimento de Controle Administrativo nº 200910000023630 – CNJ (folha 53). Mediante o ato questionado, o relator, Conselheiro Milton Augusto de Brito Nobre, indeferiu o pedido de desmembramento do processo visando a individualizá-lo em três centenas, para a análise da situação de cada serventuário titular das serventias judiciais exercidas em caráter privado no Estado do Paraná. O recurso administrativo interposto contra a decisão interlocutória não foi conhecido (folha 69 a 72). O motivo seria o não cabimento de recurso contra pronunciamento interlocutório, em face da ausência de previsão no artigo 115 do Regimento Interno do Conselho Nacional de Justiça.
+Conforme alega a impetrante, a recusa à individualização do procedimento ofende as garantias do contraditório, da ampla defesa e do devido processo legal, a teor dos incisos LIV e LV do artigo 5º da Constituição Federal, bem como à Lei nº 9.784/99 e traduz inobservância ao Verbete Vinculante nº 3 da Súmula do Supremo. Menciona como precedentes, entre outros, os acórdãos do Recurso Ordinário no Mandado de Segurança nº 24.823/DF, publicado no Diário da Justiça de 19 de maio de 2006, e do Mandado de Segurança nº 24.268/MG, veiculado no Diário da Justiça de 5 de fevereiro de 2004, ambos da relatoria da Ministra Ellen Gracie.
+Sob o ângulo do risco, aponta iminente prejuízo à defesa dos representados, associados da impetrante, ante a determinação de intimações para se manifestarem os interessados no processo administrativo único, que contaria com mais de cinquenta mil páginas (folha 76). Pede o deferimento de liminar, suspendendo-se, até o julgamento final deste mandado de segurança, a tramitação do procedimento administrativo. No mérito, requer seja a decisão definitivamente cassada e determinado o reinício do procedimento mediante a instauração de processos individualizados relativamente a cada um dos trezentos serventuários interessados.
+O processo está concluso para o exame do pedido de medida acauteladora.
+2.  A princípio, não há relevância maior a ditar o sobrestamento do processo administrativo em curso. Caberá ao Conselho Nacional de Justiça, ante a possível diversidade de defesas, proceder, se for o caso, ao desmembramento pretendido, que, conforme consta da inicial, poderá fazer surgir três centenas de processos. Também não se verifica risco imediato, especialmente sob o ângulo da irreversibilidade.
+3.  Indefiro a liminar.
+4.  Solicitem informações ao Conselho Nacional de Justiça.
+5.  Com a manifestação, colham o parecer da Procuradoria Geral da República.
+6.  Publiquem.
+Brasília – residência –, 18 de dezembro de 2009.
+Ministro MARCO AURÉLIO
+Relator
