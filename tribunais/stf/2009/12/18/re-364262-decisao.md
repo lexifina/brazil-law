@@ -1,0 +1,19 @@
+DECISÃO
+Vistos.
+Rosa de Souza Soares interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Sexta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“SERVIDOR PÚBLICO. APOSENTADORIA. TEMPO DE SERVIÇO INSALUBRE PRESTADO SOB O REGIME DA CLT. INEXISTÊNCIA DE DIREITO ADQUIRIDO À MANUTENÇÃO DE REGIME JURÍDICO.
+1. Não há direito adquirido à manutenção de regime jurídico. A aposentadoria somente passa a ser direito adquirido no momento em que são preenchidos os requisito legais para a sua concessão, inclusive no que se refere à efetiva prestação da integralidade do tempo de serviço previsto na lei. Enquanto tal não ocorrer, nada impede que o legislador constituinte – estabeleça mudanças no regime, seja no que se refere à quantidade, como também à qualificação do tempo mínimo necessário.
+2. Atualmente, para efeito de aposentadoria do servidor público, o tempo de serviço cumprido é o artigo 40 e seus parágrafos da Constituição Federal, com a redação dada pela Emenda 20, de 1998, nos quais não se contempla o cômputo qualificado e parcial de atividade prestada em condições insalubres” (fl. 148).
+Alega a recorrente contrariedade aos artigos 5º, inciso XXXVI, 202, §2º (redação originária), da Constituição Federal, sustentando que “é inaceitável, sob pena inclusive de mácula a princípios expressos na Carta vigente, que o Estado desconsidere o direito adquirido pelo servidor, que trabalhou sujeito a condições que lhe deixam seqüelas, a contar de forma diferenciada seu tempo de serviço” (fl. 184).
+Sem contrarrazões, o recurso extraordinário (fls. 170 a 187) foi admitido (fls. 191/192).
+Decido.
+Preliminarmente, assinalo que o acórdão recorrido foi publicado em 14/2/02, conforme expresso na certidão da folha 149, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece êxito, uma vez que o resultado do acórdão recorrido está em sintonia com a jurisprudência dessa Corte.
+Na espécie, conforme relatado, para o fim de revisar o valor seu benefício previdenciário, pretende a recorrente totalizar o tempo de serviço considerado, conjugando fatores de contagem inerentes a regimes jurídicos distintos.
+Com efeito, em direção oposta à pretensão da recorrente, ao julgar feito representativo da repercussão geral que contempla a hipótese suscitada, este Supremo Tribunal Federal assentou ser inadmissível a conjugação de regimes para efeito de contagem de tempo, a saber:
+“INSS. APOSENTADORIA. CONTAGEM DE TEMPO. DIREITO ADQUIRIDO. ART. 3º DA EC 20/98. CONTAGEM DE TEMPO DE SERVIÇO POSTERIOR A 16.12.1998. POSSIBILIDADE. BENEFÍCIO CALCULADO EM CONFORMIDADE COM NORMAS VIGENTES ANTES DO ADVENTO DA REFERIDA EMENDA. INADMISSIBILIDADE. RE IMPROVIDO. I - Embora tenha o recorrente direito adquirido à aposentadoria, nos termos do art. 3º da EC 20/98, não pode computar tempo de serviço posterior a ela, valendo-se das regras vigentes antes de sua edição. II - Inexiste direito adquirido a determinado regime jurídico, razão pela qual não é lícito ao segurado conjugar as vantagens do novo sistema com aquelas aplicáveis ao anterior. III - A superposição de vantagens caracteriza sistema híbrido, incompatível com a sistemática de cálculo dos benefícios previdenciários. IV - Recurso extraordinário improvido” (RE nº 575.089/RS, Tribunal Pleno, Relator o Ministro Ricardo Lewandowski, DJe de 24/10/08).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
