@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+União interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 2º, 5º, caput e incisos XXIV, XXV, XXXV, XXXVI, LIV, LV e LVIII, 37, caput, 97 e 170, incisos III, V e VI, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, assim ementado:
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO AJUIZADA ANTES DA EDIÇÃO DA MP 2.180-35/01. JUROS DE MORA DE 12% AO ANO (DOZE POR CENTO) AO ANO.
+1. O Superior Tribunal de Justiça possui entendimento firmado no sentido de que os juros moratórios deverão ser calculados no percentual de 12% ao ano, quando a ação for ajuizada em data anterior à edição da Medida Provisória nº 2.180-35/01.
+2. Agravo desprovido” (fl. 74).
+Opostos embargos de declaração (fls. 77 a 81), foram rejeitados (fls.83 a 86).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece prosperar uma vez que a jurisprudência desta Corte é pacifica no sentido de que não se admite recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça no qual se suscita questão constitucional resolvida na decisão de segundo grau. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ACÓRDÃO DO TRIBUNAL DE SEGUNDO GRAU. NÃO-INTERPOSIÇÃO DO RECURSO EXTRAORDINÁRIO NO MOMENTO PRÓPRIO. ACÓRDÃO DO STJ. PRECLUSÃO DA QUESTÃO CONSTITUCIONAL. 2. O STF fixou jurisprudência no sentido de que, no atual sistema constitucional, que prevê o cabimento simultâneo de recurso extraordinário e recurso especial contra o mesmo acórdão dos tribunais de segundo grau, decorre que, da decisão do STJ no recurso especial, só se admitirá recurso extraordinário se a questão constitucional objeto do último for diversa da que já tiver sido resolvida pela instância ordinária. Precedentes. 3. A questão constitucional que serviu de fundamento ao acórdão do Tribunal de segundo grau deve ser atacada no momento próprio, sob pena de preclusão. Agravo regimental a que se nega provimento” (RE nº 518.257/PR-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 19/12/07).
+“Agravo regimental no agravo de instrumento. Ausência de RE interposto concomitantemente ao recurso especial. Preclusão.
+1. Não se admite recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, no qual se suscita questão constitucional resolvida na decisão de 2º grau.
+2. Agravo regimental desprovido” (AI nº 666.003/DF-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 19/12/07).
+“Recurso extraordinário: interposição de decisão do STJ em recurso especial: inadmissibilidade, se a questão constitucional de que se ocupou o acórdão recorrido já fora suscitada e resolvida na decisão de segundo grau e, ademais, constitui fundamento suficiente da decisão da causa.
+1. Do sistema constitucional vigente, que prevê o cabimento simultâneo do recurso extraordinário e de recurso especial contra o mesmo acórdão dos tribunais de segundo grau, decorre que da decisão do STJ, no recurso especial só se admitirá recurso extraordinário se a questão constitucional objeto do último for diversa da que já tiver sido resolvida pela instância ordinária.
+2. Não se contesta que, no sistema difuso de controle de constitucionalidade, o STJ, a exemplo de todos os demais órgãos jurisdicionais de qualquer instância, tenha o poder de declarar incidentemente a inconstitucionalidade da lei, mesmo de ofício; o que não é dado àquela Corte, em recurso especial, é rever a decisão da mesma questão constitucional do tribunal inferior; se o faz, de duas uma: ou usurpa a competência do STF, se interposto paralelamente o extraordinário ou, caso contrário, ressuscita matéria preclusa” (AI nº 145.589/RJ-AgR, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 24/6/94).
+Anote-se que o STJ se limitou a negar seguimento ao recurso especial, mantendo incólume o acórdão do Tribunal Regional Federal da 2ª Região que ratificou a parte da sentença que fixou juros moratórios de 1 % (um por cento) ao mês.
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 18 de dezembro de 2009.
+Ministro DIAS TOFFOLI
+Relator
