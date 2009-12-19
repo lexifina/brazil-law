@@ -1,0 +1,19 @@
+DECISÃO
+SURSIS – TRÁFICO DE DROGAS – ARTIGO 44 DA LEI Nº 11.343/2006 – OBSERVÂNCIA NA ORIGEM – HABEAS CORPUS – RELEVÂNCIA NÃO DEMONSTRADA – LIMINAR INDEFERIDA.
+1.  A Assessoria prestou as seguintes informações:
+O paciente, preso em flagrante delito, no dia 11 de outubro de 2007, pela suposta prática de crime previsto no artigo 33 da Lei nº 11.343/2006 (tráfico de entorpecentes), foi condenado à pena de um ano, onze meses e cinco dias de reclusão, em regime inicialmente fechado, e ao pagamento de cento e noventa e cinco dias-multa.
+O Tribunal de Justiça do Estado de Minas Gerais deu parcial provimento à apelação protocolada pela defesa, para conceder ao réu o benefício do sursis (folha 134 a 141).
+O Ministério Público estadual interpôs recurso especial, sustentando ter o acórdão recorrido violado o disposto no artigo 44 da Lei nº 11.343/2006, o qual veda expressamente a concessão de suspensão condicional da pena em caso como o da espécie. A Quinta Turma do Superior Tribunal de Justiça deu provimento ao recurso, para restabelecer a sentença (folha 6 a 12).
+Segundo afirma a Defensoria Pública da União, na inicial, a Lei nº 11.343/2006, ao lado de coibir e versar penas mais severas, procedeu à separação de condutas mais drásticas que, embora caracterizem prática prevista como traficância, não se enquadram no perfil de um traficante perigoso. Daí a necessidade de se fazer uma leitura sistemática do texto da lei, para afastar o impedimento à concessão do sursis quando incidente o § 4º do artigo 33 da Lei nº 11.343/2006, como ocorrido no caso em exame, em que comprovado ter o acusado levado a droga para a cadeia local com a finalidade de entregá-la a um preso e cuidar-se de tráfico privilegiado de entorpecente.
+Consoante assevera, a Segunda Turma desta Corte, no julgamento do Habeas Corpus nº 101.291/SP, presente idêntico crime, concedeu a ordem requerida, determinando ao Tribunal de Justiça a substituição da pena privativa de liberdade por outra restritiva de direito ou, havendo reversão, o início do cumprimento da pena privativa de liberdade no regime aberto. Na ocasião, acrescenta, ficou assentado que a quantidade da pena imposta – três anos -, não constando circunstâncias desfavoráveis ao paciente, o qual não registrava antecedentes criminais, permitiria não só que a pena iniciasse no regime aberto (Código Penal, artigo 33, § 2ª, alínea “c”), como também a substituição por pena restritiva de direitos (Código Penal, artigo 44, § 2º, segunda parte). Conforme assevera, o ora paciente teve jus à redução da pena no grau máximo, preenchendo os requisitos do § 4º do artigo 33 da Lei nº 11.343/2006, e foi condenado a pena compatível com a concessão do sursis.
+Busca o acolhimento do pedido de liminar, para suspenderem-se os efeitos do acórdão proferido pelo Superior Tribunal de Justiça. No mérito, pleiteia o deferimento da ordem, no sentido de ser restabelecida a decisão prolatada pelo Tribunal de Justiça do Estado de Minas Gerais, mediante a qual foi deferido ao paciente o benefício da suspensão condicional da pena.
+2.  Observem o artigo 44 da Lei nº 11.343/2006:
+Art. 44. Os crimes previstos nos arts. 33, caput e § 1º, e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos.
+Parágrafo único. Nos crimes previstos no caput deste artigo, dar-se-á o livramento condicional após o cumprimento de dois terços da pena, vedada sua concessão ao reincidente específico.
+ Como então versar a relevância ante a clareza da lei e a circunstância de o paciente ter sido condenado como incurso no artigo 33 da Lei nº 11.343/2006, em que pese haver sido beneficiado pelo disposto no artigo 40, inciso III, nela contido?
+3.  Indefiro a liminar.
+4.  Colham o parecer da Procuradoria Geral da República.
+5.  Publiquem.
+Brasília – residência –, 19 de dezembro de 2009, às 20h35.
+Ministro MARCO AURÉLIO
+Relator
