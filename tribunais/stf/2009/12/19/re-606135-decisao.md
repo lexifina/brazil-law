@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de recurso extraordinário contra acórdão do TJ/RN ementado nos seguintes termos [fl. 175]:
+“PROCESSUAL CIVIL E ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. POLICIAL MILITAR TRANSFERIDO PARA RESERVA REMUNERADA. AUXÍLIO PECUNIÁRIO PREVISTO NA LEGISLAÇÃO MILITAR COMO DEVIDO AOS PORTADORES DAS MOLÉSTIAS ELENCADAS NA LEI ESTADUAL Nº 3.375/69 E DECRETO ESTADUAL Nº 5.262/70, NO VALOR DO SOLDO. A SER PAGO EM PARCELA ÚNICA. EXEGESE CONDIZENTE COM A NATUREZA DO AUXÍLIO QUE NÃO SE CONFUNDE COM O BENEFÍCIO PREVIDENCIÁRIO DENOMINADO AUXÍLIO-DOENÇA. CONHECIMENTO E IMPROVIMENTO DO RECURSO”.
+2.  Alega-se, no recurso extraordinário, violação do disposto nos artigos 5º, II, XXXVI e LV, 37, caput, XV e XXXVI, e 93, IX, da Constituição do Brasil.
+3.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [artigo 102, III, § 3º, da CB/88].
+4.  O recurso não merece provimento. A controvérsia foi decidida com fundamento na legislação local que disciplina a espécie --- Lei estadual n. 3.375/69 e decreto estadual n. 5.262/70 ---, circunstância que impede a admissão do extraordinário. Incide o óbice da Súmula n. 280 do Supremo Tribunal Federal. Eventual ofensa à Constituição dar-se-ia de forma indireta. Nesse sentido, o RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; o AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; o AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+5.  Cabe enfatizar que "a ofensa à Constituição, que autoriza admissão do recurso extraordinário, é a ofensa direta, frontal, e não a ofensa indireta, reflexa. Se, para demonstrar a contrariedade à Constituição, tem-se, antes, de demonstrar a ofensa à norma infraconstitucional, é esta que conta para a admissibilidade do recurso" [AI n. 204.153-AgR, 1ª Turma, DJ de 30.6.00, e AI n. 231.836-AgR, 2ª Turma, DJ de 3.9.99].
+ Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 16 de dezembro de 2009.
+Ministro Eros Grau
+- Relator -
