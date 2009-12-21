@@ -1,0 +1,27 @@
+1.  Trata-se de recurso extraordinário interposto do acórdão, de cuja ementa destaco:
+“ TRIBUTÁRIO. EXECUÇÃO FISCAL. EMBARGOS. PRESCRIÇÃO. MEMÓRIA DISCRIMINADA DO CÁLCULO. ATUALIZAÇÃO DO DÉBITO. MULTA FISCAL. TR/TRD. POSSIBILIDADE. TAXA SELIC. CABIMENTO .” (fl. 119)
+ Os embargos de declaração com propósito de prequestionamento foram acolhidos (fls. 126-127).
+2.  Admitido o recurso na origem (fl. 249), subiram os autos (fl. 249).
+3.  A parte recorrente alega, em síntese, ofensa aos arts. 5º, XXXVI; e 150, III e IV, da Constituição Federal (fls. 222-233).
+4.  Preliminarmente, quanto ao prazo prescricional, não merece prosperar o presente recurso extraordinário, dado que o acórdão recorrido decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie. Assim, eventual ofensa à Constituição Federal seria indireta ou reflexa, o que elide o processamento do recurso extraordinário. Nesse sentido: AI 713.295-AgR/SP, rel. Min. Eros Grau, 2ª Turma, DJe 15.8.2008; e RE 593.311-AgR/RS, rel. Min. Cármen Lúcia, 1ª Turma, DJe 18.9.2009, este último assim ementado:
+“ AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO: SUSPENSÃO E INTERRUPÇÃO. LEI N. 6.830/80. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO .”
+5.  Em relação à alegada natureza confiscatória da multa, rever a decisão do Tribunal a quo, para concluir de modo diverso, implicaria o reexame de fatos e de provas, o que é vedado em via extraordinária (Súmula STF 279). Nesse sentido cito o AI 505.908-AgR/MG, rel. Min. Joaquim Barbosa, 2ª Turma, assim ementado:
+“AGRAVO REGIMENTAL. TAXA SELIC. INCIDÊNCIA SOBRE DÉBITOS TRIBUTÁRIOS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA OU INDIRETA À CONSTITUIÇÃO FEDERAL. IMPOSIÇÃO DE MULTA PELO DESCUMPRIMENTO DE OBRIGAÇÃO TRIBUTÁRIA. ALEGAÇÃO DE EFEITO CONFISCATÓRIO E DE OFENSA AO PRINCÍPIO DA CAPACIDADE CONTRIBUTIVA. SÚMULA 279 DO STF.
+De acordo com a orientação firmada neste Tribunal, a controvérsia relativa à aplicação da taxa SELIC como índice de atualização de débitos tributários encontra-se no âmbito infraconstitucional. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição Federal.
+Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, quanto à alegada ofensa aos princípios da capacidade contributiva e da vedação ao confisco, seria necessário o reexame de fatos e provas, o que encontra óbice na Súmula 279 do STF.
+Agravo regimental a que se nega provimento.”
+6.  Ademais, o acórdão recorrido encontra-se em consonância com a jurisprudência deste Supremo Tribunal Federal no sentido da incidência, a partir de fevereiro de 1991, da TRD sobre impostos, multas e demais obrigações fiscais e parafiscais. Nesse sentido o RE 589.190/MG, rel. Min. Eros Grau, DJe 08.6.2009 e o RE 282.066-AgR/RS, rel. Min. Eros Grau, 1ª Turma, DJ 15.4.2005, este último assim ementado:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. LEI N. 8.177/91, ALTERADA PELA LEI N. 8.218/91. INCIDÊNCIA DA TAXA REFERENCIAL DIÁRIA - TRD. IRRETROATIVIDADE.
+Medida provisória n. 294, que resultou na Lei n. 8.177/91, já determinava a incidência, a partir de fevereiro de 1991, da TRD sobre impostos, multas e demais obrigações fiscais e parafiscais. Lei n. 8.218/91, artigo 30. Aplicação retroativa. Inexistência.
+Agravo regimental não provido.”
+7.  Corroborando este entendimento, cito o parecer do Ministério Público Federal na parte que interessa:
+“No que diz respeito à aludida prescrição no curso do procedimento administrativo fiscal, tal questão situa-se no plano infraconstitucional, pelo que, neste ponto, é inviável o conhecimento do presente recurso pela alínea “a”, do inciso III, do art. 102, do Texto Constitucional. (...)
+.................................................................................
+Outrossim, a alegação de afronta ao artigo 150, IV e ao artigo 192, § 3º, da Constituição Federal não prescinde do exame das Leis n. 8.177/91 e n. 8.218/91, pelo que também é inviável o conhecimento do apelo extremo recurso pela alínea “a”, do inciso III, do artigo 102, da Constituição Federal. De fato, tem-se violação reflexa a Constituição, quando o seu reconhecimento depende de rever a interpretação dada a norma ordinária pela decisão recorrida, caso em que é a hierarquia infraconstitucional dessa última que define, para fins recursais, a natureza de questão federal. (...)
+.................................................................................
+Noutro giro, quanto à apontada ofensa aos artigos 5º, XXXVI, e 150, III, da Carta Magna, é dever observar que o Supremo Tribunal Federal se firmou no sentido de que não houve a afronta à garantia constitucional do ato jurídico perfeito e do direito adquirido, na medida em que a Medida Provisória n. 294, que resultou na Lei 8.177/91, já determinada a incidência, a partir de fevereiro de 1991, da TRD sobre os impostos, multas e demais obrigações fiscais e parafiscais, e o artigo 30 da Lei 8.218/91, sem alterar o retro citado diploma, estipula a incidência de juros de mora sobre contribuições previdenciárias equivalentes à TRD. (...)” (fls. 280-282)
+8.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 21 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
