@@ -1,0 +1,5 @@
+Instrução Normativa RFB nº 983, de 18 de dezembro de 2009
+Dispõe sobre a Declaração do Imposto sobre a Renda Retido na Fonte (Dirf) e o programa gerador da Dirf 2010.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 11 do Decreto-Lei nº 1.968, de 23 de novembro de 1982, com a redação dada pelo art. 10 do Decreto-Lei nº 2.065, de 26 de outubro de 1983, na Lei nº 8.981, de 20 de janeiro de 1995, na Lei nº 9.249, de 26 de dezembro de 1995, na Lei nº 9.250, de 26 de dezembro de 1995, na Lei nº 9.311, de 24 de outubro de 1996, na Lei nº 9.430, de 27 de dezembro de 1996, na Lei nº 9.779, de 19 de janeiro de 1999, na Medida Provisória nº 2.158-35, de 24 de agosto de 2001, na Lei nº 10.426, de 24 de abril de 2002, e na Lei nº 10.833, de 29 de dezembro de 2003, resolve:
+CAPÍTULO I
+Da Obrigatoriedade de entrega da Dirf
