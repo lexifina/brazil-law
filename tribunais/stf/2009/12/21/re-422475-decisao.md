@@ -1,0 +1,13 @@
+1.  Trata-se de recurso extraordinário tirado de acórdão que concluiu ser inconstitucional a antecipação parcial do pagamento do ICMS nas aquisições de mercadorias interestaduais.
+2.  No RE, sustenta-se ofensa ao artigo 150, § 7º, da Constituição Federal (fls. 64-75).
+3.  Admitido o recurso na origem (fls. 82-84), subiram os autos.
+4.  O Ministério Público Federal opinou pelo provimento (fls. 90-92).
+5.  O recurso merece prosperar, pois o acórdão recorrido afronta a jurisprudência do Supremo Tribunal Federal. O Plenário desta Corte, no julgamento da ADI 3.426/BA, rel. Min. Sepúlveda Pertence, DJe 1º.06.2007, entendeu ser constitucional o regime de antecipação parcial do ICMS. Veja-se a ementa do acórdão:
+ “I. ADIn: prejuízo inexistente, quando a alteração legislativa superveniente não acarretou modificação na norma questionada: possibilitou somente apenas a exigência da antecipação parcial com relação às operações com álcool. II. Ação direta de inconstitucionalidade: art. 12-A acrescentado à L. est. 7014/96 (Lei Básica do ICMS) pela L. est. 8.967, de 29.12.2003, do Estado da Bahia, que regula a antecipação parcial do ICMS nas aquisições interestaduais de mercadoria para fins de comercialização: alegação de violação aos artigos 1º, inciso IV; art. 19, inciso III; art. 22, inciso VIII; art. 150, incisos IV e V e § 7º; art. 152, art. 155, § 2º, IV; art. 170; IV e IX; art. 179, todos da Constituição Federal: improcedência. II. ICMS; redução da base de cálculo nas operações internas com álcool não destinado ao uso automotivo, observadas as condições definidas pelo regulamento, determinada pelo § 4º do art. 16 da L. est. 7014/06, acrescentado pela L. est. 8967/2003: ação direta não conhecida.”
+6.  Corroborando este entendimento, cito o parecer do Ministério Público Federal na parte que interessa:
+ “Com efeito, tanto o regime da antecipação tributária, como o da substituição tributária, constituem matérias de constitucionalidade já reconhecida por esse Pretório Excelso, ao fundamento de que atenderiam os postulados constitucionais da capacidade contributiva, da não-cumulatividade da legalidade e da tipicidade, não havendo que se falar em confisco, já que, na venda ao consumidor final, o substituído se reembolsaria do que pagara antecipadamente, sendo certo que a cobrança por estimativa do ICMS constitui mero recolhimento cautelar enquanto não há o negócio jurídico de circulação, em que a regra jurídica, quanto ao imposto, incide.”(Fl. 91)
+7.  Ante o exposto, com fundamento no art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário. Sem honorários (art. 25 da Lei 12.016/2009).
+Publique-se.
+Brasília, 21 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
