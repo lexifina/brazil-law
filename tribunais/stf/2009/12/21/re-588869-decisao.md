@@ -1,0 +1,19 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, com base na alínea “a” do inciso III do art. 102 da Constituição Republicana, manejado contra acórdão do Tribunal Regional Federal da 1ª Região. Acórdão assim ementado (fls. 78):
+“PROCESSUAL CIVIL. CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO. RAZÕES DIVORCIADAS DA MATÉRIA DECIDIDA. NÃO CONHECIMENTO. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA. LEI 9.678/98, ART. 5º, ISONOMIA. CF/88, ART 40, § 4º. APOSENTADOS E PENSIONISTAS. NÃO INFRINGÊNCIA. APELAÇÃO NÃO CONHECIDA. REMESSA OFICIAL IMPROVIDA.
+1. Sentença concessiva de segurança parcial para determinar o pagamento da Gratificação de Estímulo à Docência. Apelação cujas razões advogam a constitucionalidade da contribuição previdenciárias dos servidores inativos. Razões recursais divorciadas da matéria decidida. Apelação que não se conhece.
+2. O artigo 40, parágrafo 4º, da Constituição Federal/88, em sua redação anterior à EC 20/98, não assegurava a equiparação absoluta entre servidores ativos, inativos e pensionistas. Garantia a equivalência de vencimentos e vantagens somente quando se tratasse de verbas de caráter genérico e impessoal, não associadas ao exercício efetivo da função.
+3. O artigo 5º, § 1º, da Lei 9.678/98, que limitou em 60% (sessenta por cento) do máximo de pontos fixados em seu artigo 1º, § 1º, para fins de pagamento da Gratificação de Estímulo à Docência aos servidores inativos e pensionistas das instituições federais de ensino, não ofendeu o princípio constitucional geral da isonomia, contido no art. 5º caput, da Carta Magna, nem o preceito que garantia a isonomia entre servidores ativos, inativos e pensionistas (art. 40, § 4º, CF/88, redação vigente na ocasião), uma vez que a GED está associada ao exercício efetivo da função e concedida em decorrência da produtividade aferida no serviço. Precedente: (AMS 2001.38.00.020333-8/MG, Rel. Des. Federal Antônio Sávio de Oliveira Chaves, DJ 05/09/05, pág. 44).
+4. Sentença que reconheceu o direito à Gratificação de Estímulo à Docência, nos estritos termos em que quantificada pelo art. 5º, § 1º, da Lei 9.678/98, para os servidores inativos, que se confirma.
+5. Apelação não conhecida. Remessa oficial improvida.”
+2. Pois bem, a parte recorrente aponta violação ao art. 2º, ao § 4º do art. 40 (redação originária), à alínea “a” do inciso II do § 1º do art. 61 e ao § 1º do art. 169, todos da Magna Carta de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do então Subprocurador-Geral Roberto Monteiro Gurgel Santos, opinou pelo não conhecimento da apelo extremo.
+4. Tenho que a insurgência não merece acolhida. De saída, pontuo que, à exceção do § 4º do art. 40 Constituição Federal, os demais dispositivos tidos por violados não foram apreciados pelo aresto impugnado. De mais a mais, a jurisprudência desta nossa Corte se orienta no sentido de que os embargos declaratórios não servem para prequestionar ofensa ao Magno Texto não ventilada nos autos anteriormente. Logo, é de incidir no ponto a Súmula 282 do STF.
+5. Confiram-se, a propósito, o AI 454.763-AgR, da minha relatoria; bem como os REs 205.455, da relatoria do ministro Sepúlveda Pertence; e 268.553-AgR, da relatoria do ministro Carlos Velloso.
+6. Por outra volta, anoto que entendimento diverso do adotado pela Instância Judicante de origem exigiria o reexame da legislação infraconstitucional aplicada (Lei nº 9.678/98), providência vedada neste momento processual, a teor da Súmula 280 do Supremo Tribunal Federal.
+7. Nesse mesmo sentido, vejam-se os REs 374.996, da minha relatoria; 404.278-AgR, da relatoria do ministro Carlos Velloso; e 449.043-AgR, da relatoria do ministro Cezar Peluso.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 21 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
