@@ -1,0 +1,14 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com base na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 181):
+“DIREITO ADMINISTRATIVO – SERVIDOR PÚBLICO MUNICIPAL – MANDADO DE SEGURANÇA C/C PEDIDO DE LIMINAR – CARGO – DEMISSÃO IMOTIVADA – INADMISSIBILIDADE – REINTEGRAÇÃO – O autor ingressou no serviço público através de concurso público de provas e títulos na vigência original dos arts. 37 e 39 da CF/1988, quando vigia o Regime Jurídico Único – Exercício do cargo por mais de dois anos – Estabilidade – Necessidade de processo administrativo com ampla defesa e contraditório para a sua demissão – Inteligência da CF/1988, arts. 5º, LV; 37, II; 39, caput, 41, caput, §§ 1º e 2º - Reintegração ordenada – Dá-se provimento ao recurso.”
+2. Pois bem, a parte recorrente alega violação aos incisos II, XXXV e LV do art. 5º, ao art. 41, ao inciso X do art. 48 e à alínea “a” do inciso II do § 1º do art. 61, todos da Carta Magna de 1988.
+3. Tenho que a insurgência não merece acolhida. De saída, consigno que os incisos II e XXXV do art. 5º, o inciso X do art. 48 e a alínea “a” do inciso II do § 1º do art. 61 da Constituição Federal não foram apreciados pela Instância Judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Falta, portanto, o necessário prequestionamento, a teor das Súmulas 282 e 356 do STF.
+4. Por outra volta, anoto que o entendimento adotado pela Corte paulista afina com a jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta. Jurisprudência, essa, no sentido da imprescindibilidade de prévia instauração de processo administrativo, em que sejam assegurados o contraditório e a ampla defesa, para a exoneração de servidor admitido por concurso público. Nesse mesmo sentido, leia-se a ementa do RE 351.489, sob a relatoria do ministro Gilmar Mendes:
+“Recurso extraordinário. 2. Concurso público. Irregularidades. Anulação do concurso anterior à posse dos candidatos nomeados. 3. Necessidade de prévio processo administrativo. Observância do contraditório e da ampla defesa. 4. Recurso extraordinário conhecido e provido.”
+5. Outros precedentes: REs 222.523, sob a relatoria do ministro Sepúlveda Pertence; 223.904, sob a relatoria da ministra Ellen Gracie; 452.721, sob a relatoria do ministro Gilmar Mendes; e 574.469, sob a minha relatoria.
+6. Quanto ao mais, pontuo que, para chegar à conclusão pretendida pela parte recorrente, se faz necessário o reexame do conjunto fático-probatório dos autos. Providência vedada pela Súmula 279 desta nossa Corte.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 21 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
