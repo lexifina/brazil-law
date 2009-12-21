@@ -1,0 +1,13 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado (fls. 168):
+“ADMINISTRATIVO/PREVIDENCIÁRIO. PENSÃO POR MORTE DE SEGURADO. COBRANÇA DE DIFERENÇAS APURADAS ENTRE OS VALORES DEVIDOS E OS EFETIVAMENTE PAGOS. São de aplicabilidade imediata as normas constitucionais que determinam o pagamento de pensão por morte na integralidade dos vencimentos que seriam percebidos pelo falecido segurado, caso na ativa estivesse, inclusive a GEPI (art. 40, § 7° da CF/88, com redação dada pela EC n° 20/98 e art. 40, § 5°, com redação original). O art. 195, § 5° da CF/88 aplica-se tão-somente aos casos de criação de benefícios previdenciários e não naqueles em que se pretende o pagamento de benefício na forma estatuída pela CF/88. Não viola a lei de Responsabilidade Fiscal a determinação pelo Poder Judiciário, do pagamento de verbas devidas de acordo com o texto constitucional.”
+2. Pois bem, a parte recorrente aponta violação ao inciso LV do art. 5º, ao inciso XIII do art. 37, aos §§ 7º e 8º do art. 40, bem como ao inciso IV do art. 167, todos da Carta Magna de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do então Subprocurador-Geral Roberto Monteiro Gurgel Santos, opinou pelo não conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. Isso porque entendimento diverso do adotado pela Instância Judicante de origem demandaria a análise da legislação estadual pertinente. Pelo que a ofensa à Constituição Republicana, se existente, ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via extraordinária.
+5. Por outra volta, anoto que, para se chegar à conclusão pretendida pela parte recorrente, se faz necessário o reexame do conjunto fático-probatório dos autos. Providência vedada pela Súmula 279 do STF.
+6. No mesmo sentido, vejam-se os AIs 592.190-AgR, sob a relatoria do ministro Celso de Mello; 606.044-AgR, sob a relatoria do ministro Sepúlveda Pertence; 695.141, sob a relatoria do ministro Gilmar Mendes; 695.638-AgR, sob a relatoria do ministro Eros Grau; 695.676, sob a relatoria do ministro Menezes Direito; 709.020, sob a relatoria da ministra Cármen Lúcia; e 715.173, sob a relatoria do ministro Ricardo Lewandowski; bem como o RE 578.776, sob a minha relatoria.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 21 de dezembro de 2009.
+Ministro CARLOS AYRES BRITTO
+Relator
