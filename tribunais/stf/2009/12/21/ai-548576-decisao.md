@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão, nos autos de ação de execução, que deu parcial provimento ao recurso dos ora agravados, no qual se discutia a respeito de penhora de quotas sociais de empresa.
+2.  Nas razões do RE interposto com fundamento no artigo 102, III, da CF, alíneas a e c, sustenta-se ofensa ao art. 5º, LV, da CF.
+3.  Verifico que não se encontra prequestionado tal dispositivo constitucional, porque não abordado pelo acórdão recorrido e porque não opostos embargos de declaração pelo ora agravante a fim de suscitar a matéria (Súmulas STF 282 e 356). É pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142-AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.09.2001, e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+4.  Ademais, esta Corte possui entendimento consolidado de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do contraditório, da ampla defesa, e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  O recurso também se revela incabível conforme a alínea c, uma vez que o aresto atacado não julgou válida lei ou ato normativo local contestado em face da Constituição Federal (Súmula STF 284).
+6.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 21 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
