@@ -1,0 +1,3 @@
+# LEI PROMULGADA Nº 14.996, de 21 de dezembro de 2009
+Altera dispositivo da Lei nº 14.693, de 2009, que autoriza o Poder Executivo a reestruturar o saldo da dívida do Estado de Santa Catarina com o Banco Nacional de Desenvolvimento Econômico e Social - BNDES, vinculada ao Contrato nº 080/PGFN/CAF, de 27 de setembro de 2001, e a prestar as necessárias garantias.
+Faço saber que o Governador do Estado de Santa Catarina, de acordo com o art. 51 da Constituição Estadual, adotou a Medida Provisória nº 162, de 17 de novembro de 2009, e eu, Deputado Jorginho Mello, Presidente da Assembleia Legislativa do Estado, para os efeitos do disposto no § 8º do art. 315 do Regimento Interno, promulgo a seguinte Lei:
