@@ -1,0 +1,14 @@
+1.  Trata-se de recurso extraordinário tirado de acórdão proferido pelo Tribunal Regional Federal da 1ª Região, o qual declarou legítima e exigível as contribuições instituídas pelos artigos 1º e 2º da Lei Complementar 110/2001, exceto em relação aos fatos imponíveis ocorridos antes de 1º.01.2002.
+2.  Daí o RE interposto às fls. 316-322, no qual a parte recorrente solicita o seu provimento para não proceder ao recolhimento das contribuições não apenas no exercício de 2001 e a partir de 2004, mas também nos exercícios de 2002 e 2003.
+3.  Admitido o recurso, subiram os autos (fl. 341).
+4.  Preliminarmente, indefiro o pedido de fls. 332-333, em face da ausência de poderes para renunciar. Apesar de intimada para regularização de sua representação (fl. 335), esta permaneceu irregular uma vez que o instrumento juntado às fls. 337-339 não traz o subscritor do pedido de renúncia como um dos outorgados.
+5.  Não há razão a amparar a pretensão da parte recorrente. Quanto ao período que antecede o exercício de 2002, verifico que a sentença que concedeu parcialmente a segurança (fls. 161-169) foi mantida pelo acórdão recorrido, visto que as apelações interpostas foram desprovidas. Assim, tendo sido o pedido da parte recorrente, neste ponto, acolhido pelo Tribunal a quo, falta-lhe interesse em recorrer pela via extraordinária, razão pela qual o recurso extraordinário, quanto a este pedido, não pode ser conhecido.
+6.  Quanto aos demais períodos, ao julgar a ADI 2.556-MC, rel. Min. Moreira Alves, DJ de 08.08.2003, o Plenário desta Suprema Corte rejeitou a alegação de inconstitucionalidade de dispositivos da Lei Complementar federal 110/01.
+Na ocasião, ficou assentado que a natureza jurídica dos dois tributos instituídos por essa lei em causa é de “contribuições sociais gerais”, submetidas à regra do art. 149 da Constituição, e não à do artigo 195 da Carta Magna. Verificou-se ainda a inexistência de plausibilidade jurídica quanto às alegadas ofensas aos arts. 145, § 1º, 154, I, 157, II, e 167, IV, da Constituição.
+ Reconheceu-se, entretanto, a plausibilidade jurídica da argüição de inconstitucionalidade da expressão “produzindo efeitos”, constante do caput do art. 14 e seus incisos I e II da Lei Complementar 110/01, por se tratar de tributo submetido ao princípio da anterioridade previsto no art. 150, III, b, da CF/88.
+7.  Esta Corte tem aplicado esse entendimento aos recursos extraordinários em que se impugnam as exações tratadas nos autos. Confiram-se: RE 445.935/CE, rel. Min. Carlos Velloso, DJ 23.8.2005, RE 413.129/PR, de minha relatoria, DJ 30.3.2006 e RE 526.947/SP, rel. Min. Sepúlveda Pertence, DJ 28.02.2007.
+8.  Isto posto, conheço em parte do recurso para, nessa parte, negar-lhe seguimento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 21 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
