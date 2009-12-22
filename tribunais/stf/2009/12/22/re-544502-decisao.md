@@ -1,0 +1,15 @@
+1.  O Tribunal de Justiça do Estado de Minas Gerais confirmou sentença (fls. 375-379) que anulou o ato de exoneração dos autores sem o devido processo legal e determinou sua reintegração aos cargos antes ocupados, com direito à remuneração do cargo desde a data do afastamento, em acórdão assim ementado (fls. 411-415):
+“ ADMINISTRATIVO – SERVIDOR PÚBLICO – EXONERAÇÃO – REINTEGRAÇÃO – LEGALIDADE – Comprovado que os autores, após admitidos a cargo público através de concurso, ainda que em estágio probatório, restando ainda evidenciado que foram exonerados sem observância dos termos e procedimentos respectivos, correta a sentença que concluiu pela nulidade do ato e decretou a reintegração dos mesmos nos cargos ocupados anteriormente à exoneração, com o conseqüente ressarcimento de todos os direitos e vantagens inerentes.”
+Os embargos de declaração opostos foram rejeitados (fls. 427-429).
+2.   Daí o recurso extraordinário por alegada ofensa ao art. 41, caput e § 2º, da Constituição Federal (fls. 432-443). O Município afirma que não há que falar em estabilidade, pois “na instrução processual restou demonstrado que os Recorridos foram aprovados em concurso público, entretanto, em nenhum momento comprovou-se nem a nomeação, nem a posse, capaz de concretizar a investidura nos cargos públicos”.
+3.  Inadmitido o extraordinário (fls. 450-452), subiram os autos em virtude de provimento do AI 622880/MG.
+4.  O Tribunal a quo reconheceu que os recorridos atendiam aos pressupostos para a reintegração no serviço público. Conforme documentos apresentados nos autos, apesar de escassos, foram suficientes para reconhecer-se que a investidura apresentara-se legítima e regular, pois decorrera de aprovação em concurso público.
+5.  Verifica-se, outrossim, que o entendimento adotado perfilha com o da Suprema Corte, que já consolidou jurisprudência nesse sentido. Cito, para ilustrar, o RE 248.064-AgR/DF, 2ª Turma, rel. Min. Maurício Corrêa, DJ 20.08.99; e o RE 158.543/RS, rel. Min. Marco Aurélio, 2ª Turma, DJ 06.10.95, este assim ementado:
+“ ATO ADMINISTRATIVO. REPERCUSSÕES. PRESUNÇÃO DE LEGITIMIDADE. SITUAÇÃO CONSTITUÍDA. INTERESSES CONTRAPOSTOS. ANULAÇÃO. CONTRADITÓRIO.
+Tratando-se de anulação de ato administrativo cuja formalização haja repercutido no campo de interesses individuais, a anulação não prescinde da observância do contraditório, ou seja, da instauração de processo administrativo que enseje a audição daqueles que terão modificada situação já alcançada. Presunção de legitimidade do ato administrativo praticado, que não pode ser afastada unilateralmente, porque comum a Administração e ao particular.”
+6.  Assim, o apelo extraordinário não merece seguimento, pois, para se concluir de forma diversa, seria imprescindível o reexame da matéria fática dos autos, o que inviabiliza o trânsito do recurso, dada a incidência da Súmula STF 279.
+7.  Ante o exposto, com fundamento no art. 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
