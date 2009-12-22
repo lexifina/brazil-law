@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão (fl. 100) que negou provimento a recurso inominado, mantendo sentença de parcial procedência que decretou a revelia do ora recorrente, condenando-o ao pagamento de indenização por danos materiais.
+2.  Nas razões do RE, sustenta-se ofensa aos artigos 5º, II, LIV e LV, da Constituição Federal.
+ O recorrente alega, em síntese:
+ a) “houve uma irregularidade de representação processual, mas isso não configura a revelia, haja vista que foi juntado aos autos tempestivamente e antes da sentença a carta de preposição devidamente regularizada, não incidindo o disposto no art. 13, II do CPC. (...) Ademais, a revelia não importa reconhecimento automático da procedência do pedido, sendo lícito ao juiz considerar não provados os fatos não contestados, uma vez que a presunção de veracidade não é absoluta” (fl. 125);
+ b) “tendo em vista as provas acostadas aos autos pelo Autor (extratos bancários), cristalino que não houve qualquer arbitrariedade por parte da instituição financeira. Uma vez que o Recorrido utiliza-se de diversos serviços fornecidos pela instituição financeira” (fl. 128).
+3.  O recurso não merece prosperar. Para divergir da conclusão do acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos, hipótese inviável em sede extraordinária (Súmula STF 279).
+4.  Ademais, quanto à alegação de ofensa ao art. 5º e seus incisos, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, CPC).
+Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
