@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto de acórdão assim ementado:
+ “ AGRAVO DE INSTRUMENTO. AÇÃO DE REVISÃO DE CONTRATO DE CARTÃO DE CRÉDITO. TRÂNSITO EM JULGADO. NULIDADE SUSCITADA. ALEGAÇÃO DE QUE HOUVE JULGAMENTO À REVELIA NÃO OBSTANTE TENHA SIDO TEMPESTIVAMENTE APRESENTADA A CONTESTAÇÃO . Tendo havido o trânsito em julgado da decisão desta Corte em que foi apreciado o mérito da ação revisional, não há como ser reconhecida a nulidade suscitada pela demandada através de simples petição. Cabimento de ação rescisória. DESPROVIMENTO .” (Fl. 222).
+ Os embargos de declaração opostos foram rejeitados (fls. 233-255).
+2.  No RE, sustenta-se ofensa ao artigo 5º, LV, da Constituição Federal (fls. 248-253).
+3.  O recurso não merece prosperar. Primeiramente, verifico que o dispositivo constitucional, ao qual se alegou violação, não foi prequestionado, porque não abordado pelo acórdão recorrido, (Súmulas STF 282).
+4.  Em segundo lugar, observo que, para divergir da conclusão a que chegou o Tribunal a quo, seria necessária o prévio exame de legislação infraconstitucional e a análise de fatos e provas (Súmula STF 279), como pode ser constatado no seguinte trecho extraído das razões do recorrente:
+ “Contudo, ao contrário do certificado nos autos, em 26/12/2006, o ora Recorrente apresentou contestação e juntou os documentos pertinentes, todavia os mesmos foram extraviados pelo Departamento de Protocolo do Fórum Central, conforme certidão constante nos autos.
+ Assim, em que pese não ter sido intimado de nenhum ato durante o trâmite processual, em 29/08/2006, o ora Recorrente protocolou petição, apresentado cópia da contestação que havia sido tempestivamente protocolada em 26/12/2006, requerendo a nulidade de todos os atos processuais, conforme art. 236, § 1º do CPC. ”(Fls. 249-250).
+5.  Finalmente, quanto à alegação de ofensa ao art. 5º, LV, da Constituição Federal, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008 e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+6.  Ante o exposto, nego seguimento ao agravo (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
