@@ -1,0 +1,9 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+ “ AÇÃO ORDINÁRIA- PRELIMINAR – ILEGITIMIDADE ATIVA- SENTENÇA ULTRA PETITA – INOCORRÊNCIA – CONTRATO ANTERIOR À LEI 9.656/98 – IRRETROATIVIDADE – CDC – APLICABILIDADE – AFASTAMENTO DE CLÁUSULA ABUSIVA. Presente a legitimidade ativa do consumidor quando ele pretende revisar contratos nos quais as cláusulas implicaram prestação onerosa, excessiva ou desvantajosa para ele, inobstante se tratar adesão a plano coletivo. Sendo de adesão de contrato de prestação de serviços médico-hospitalares, sujeita-se aos princípios, fundamentos e dispositivos da Lei nº 8.078/90, devendo suas cláusulas serem interpretadas de maneira mais favorável ao consumidor. Aos contratos de plano de saúde anteriores à Lei 9.656/98, esta não se aplica, conforme orientação emanada do STF, cabendo, contudo, a incidência do Código de Defesa do Consumidor para que sejam afastadas abusividades e atualizações unilaterais e desproporcionais.” (Fls. 81-93).
+2.  No RE, sustenta-se ofensa ao artigo 5º, II, da Constituição Federal (fls. 108-121).
+3.  Não merece prosperar o presente recurso extraordinário, dado que o acórdão recorrido, conforme se verifica claramente de sua ementa, decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie (CDC). Assim, eventual ofensa à Constituição Federal seria indireta ou reflexa, o que elide o processamento do recurso extraordinário. Incide, no caso, a Súmula STF 636: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+4.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
