@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que decidiu pela legitimidade passiva da ora recorrente, a partir da fundamentação abaixo transcrita:
+“Embora a UNIMED RIO COOPERATIVA DE TRABALHO MÉDICO DO RIO DE JANEIRO LTDA. e a UNIMED PAULISTANA sejam pessoas jurídicas distintas, ambas fazem parte do Complexo Empresarial Cooperativo Unimed, tanto o é que no site ‘UNIMED’ pode ser constatado que esta se intitula ‘COMPLEXO UNIMED’ oferecendo serviços em todas as unidades da Federação, sendo incontroverso que o atendimento possa ser feito em todas as partes do País, de modo que a diferença de CNPJ’s não significa a inexistência de vínculo.
+As fornecedoras, ainda que não integrem o mesmo grupo societário, estão consorciadas para a prestação de serviços; incidindo a regra do artigo 28, §3º do CDC, atraindo a solidariedade entre os fornecedores. As normas de proteção ao consumidor, justamente para afastar essas ciladas jurídicas, estabeleceram a solidariedade entre os fornecedores consorciados; visto que atuam sob a marca comercial ‘UNIMED’, que atrai a clientela com a promessa de atendimento médico com ‘credenciamento nacional’. O consumidor que adquire serviços oferecidos pelo grupo UNIMED não pode ser impedido de ver garantido o seu direito ao argumento de que contratou com UNIMED diversa dessa ou daquela que lhe presta assistência.” (Fl. 377).
+2.  Nas razões do RE, sustenta-se ofensa aos artigos 5º, II e XXXV, e 196 da Constituição Federal.
+ Afirma a recorrente que “a recorrida era usuária da Aliança Cooperativista Nacional UNIMED, pessoa jurídica que sequer faz parte do Sistema UNIMED. Na realidade, foi demonstrado que a Unimed - Rio fora arrolada de forma equivocada no pólo passivo da demanda, uma vez que não possui, nem nunca possuiu qualquer relação contratual com a Recorrida” (fl. 411).
+3.  O recurso não merece prosperar. Para divergir da conclusão a que chegou o Tribunal a quo, seria necessária a análise de fatos e provas, hipótese inviável em sede extraordinária (Súmula STF 279).
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
