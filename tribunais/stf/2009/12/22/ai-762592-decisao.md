@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário, o qual foi recebido “sem o comprovante do pagamento da multa aplicada com base no artigo 557, § 2º, do Código de Processo Civil” (fl. 209).
+2.  Esta Corte possui entendimento no sentido de que a imposição de multa conforme o art. 557, § 2º, do Código de Processo Civil, condiciona a interposição de qualquer outro recurso ao depósito do respectivo valor. Nesse sentido: AI 550.480/RS, rel. Min. Marco Aurélio, DJe 09.9.2009 e AI 567.171-AgR-ED-EDv-ED/SE, rel. Min. Celso de Mello, Plenário, DJe 06.2.2009, de cuja ementa destaco:
+“ O DEPÓSITO PRÉVIO DA MULTA CONSTITUI PRESSUPOSTO OBJETIVO DE ADMISSIBILIDADE DE NOVOS RECURSOS.
+- O agravante - quando condenado pelo Tribunal a pagar, à parte contrária, a multa a que se refere o § 2º do art. 557 do CPC - somente poderá interpor “qualquer outro recurso”, se efetuar o depósito prévio do valor correspondente à sanção pecuniária que lhe foi imposta.
+A ausência de comprovado recolhimento do valor da multa importará em não-conhecimento do recurso interposto, eis que a efetivação desse depósito prévio atua como pressuposto objetivo de recorribilidade. Doutrina. Precedente.
+- A exigência pertinente ao depósito prévio do valor da multa, longe de inviabilizar o acesso à tutela jurisdicional do Estado, visa a conferir real efetividade ao postulado da lealdade processual, em ordem a impedir que o processo judicial se transforme em instrumento de ilícita manipulação pela parte que atua em desconformidade com os padrões e critérios normativos que repelem atos atentatórios à dignidade da justiça (CPC, art. 600) e que repudiam comportamentos caracterizadores de litigância maliciosa, como aqueles que se traduzem na interposição de recurso com intuito manifestamente protelatório (CPC, art. 17, VII).
+A norma inscrita no art. 557, § 2º, do CPC, na redação dada pela Lei nº 9.756/98, especialmente quando analisada na perspectiva dos recursos manifestados perante o Supremo Tribunal Federal, não importa em frustração do direito de acesso ao Poder Judiciário, mesmo porque a exigência de depósito prévio tem por única finalidade coibir os excessos, os abusos e os desvios de caráter ético-jurídico nos quais incidiu o “improbus litigator”. Precedentes.”
+3.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
