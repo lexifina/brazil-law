@@ -1,0 +1,14 @@
+1.  Trata-se de recurso extraordinário de acórdão que concluiu pela inexistência de direito à indenização decorrente da alegada ocorrência de desequilíbrio econômico-financeiro no contrato de permissão, por entender que a exigência legal de prévia licitação não foi cumprida.
+2.  No RE, sustenta-se ofensa aos arts. 5º; 37, caput e § 6º; 102, III, a; 105, III, a; e 175 da Constituição Federal de 1988. Alega-se, ainda, violação do artigo 157, § 8º, da CF de 1967 e do art. 163, caput, da EC 1/69 (fls. 1.024-1.042).
+3.  Admitido o recurso extraordinário na origem, subiram os autos (fls. 1.080-1.081).
+4.  O recurso não merece prosperar. Primeiramente, observo que o artigo 157, § 8º, da CF de 1967 e o art. 163, caput, da EC 1/69, tidos como violados não foram prequestionados, porque não abordados pelo acórdão recorrido, nem suscitados mediante embargos de declaração para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+5.  Em segundo lugar, constato que para divergir do entendimento firmado pelo acórdão recorrido sobre a inexistência de violação dos artigos 5º e 37 da CF/88, seria necessária a análise da legislação infraconstitucional (Leis 8.666/93 e 8.987/95) e das cláusulas contratuais para verificar a ocorrência de desequilíbrio econômico-financeiro do contrato (Súmula STF 454), hipóteses inviáveis em sede extraordinária.
+6.  Em terceiro lugar, verifico que, no tocante à alegada ofensa ao artigo 175 da Constituição Federal, esta Corte, no julgamento do RE 140.989/RJ, rel. Min. Octavio Gallotti, 1ª Turma, DJ 27.08.1993, caso semelhante ao destes autos, concluiu pela necessidade de prévia licitação para a exploração de transporte rodoviário. Eis a ementa do referido acórdão:
+ “Exploração de transporte urbano, por meio de linha de ônibus. Necessidade de prévia licitação para autorizá-la, quer sob a forma de permissão quer sob a de concessão. Recurso extraordinário provido por contrariedade do art. 175 da Constituição Federal.”
+ Nesse mesmo sentido, cito o AI 637.782-ED/RJ, rel. Min. Gilmar Mendes, 2ª Turma, unânime, DJe 21.11.2008.
+7.  Finalmente, não há falar em ofensa aos artigos 102, III, a; e 105, III, a, da Constituição Federal, dado que o Superior Tribunal de Justiça nada mais fez do que exercer, precipuamente, seu mister constitucional, vale dizer, o contencioso de direito infraconstitucional. Frise-se, ainda, que o recurso especial de fls. 894-908 foi interposto pela própria recorrente, com fundamento em violação aos artigos 55, II, d e § 6º, e 49 do Decreto-lei 2.300/86; 42, § 2º da Lei 8.987/95; 6º da LICC; 59 da Lei 8.666/93; e 535 do CPC, evidenciando-se, portanto, a discussão infraconstitucional, o que ocorreu conforme acórdão da 2ª Turma daquela Corte (fls. 1.009-1.022).
+8.  Ante o exposto, nego seguimento ao recurso (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
