@@ -1,0 +1,19 @@
+1.  Trata-se de recurso extraordinário tirado de acórdão que, em ação civil pública, reformou a sentença para julgar improcedente o pedido formulado pelo Ministério Público para que o Município de Mutum construísse um matadouro e instituísse um serviço de vigilância sanitária.
+2.  No RE alega-se violação aos arts. 2º, 5º, XXXV; e 196 da Constituição Federal.
+3.  Admitido na origem, subiram os autos.
+4.  A Procuradoria Geral da República opinou pelo provimento do recurso (fls. 360-369).
+5.  O acórdão recorrido, ao negar provimento à apelação, considerou que nem o Ministério Público, nem o Poder Judiciário estão autorizados a escolher os meios de conveniência e de oportunidade para o estabelecimento de mecanismos de defesa da saúde pública coletiva e de inspeção sanitária e industrial de produtos agropecuários, uma vez que são funções de competência exclusiva do Poder Executivo.
+ A parte recorrente entendeu, a seu turno, que a condenação do Município em obrigação de fazer não representa violação à independência entre os Poderes, uma vez que qualquer ato administrativo, omissivo ou comissivo, que cause dano está sujeito à apreciação do Poder Judiciário.
+ O Ministério Público de Minas Gerais ressalta também que, se a defesa e a proteção do direito à saúde são obrigações do Poder Público em razão de norma constitucional, o dever de agir para preservação desse direito não é ato discricionário, mas sim vinculado, ou seja, a execução do ato administrativo é vinculada à obrigação legal imposta ao Poder Público.
+ Assim, o magistrado pode exercer o controle do ato administrativo, atuando em conformidade com o princípio constitucional de que nenhuma lesão a direito pode ser excluída da apreciação do Poder Judiciário (fl. 347).
+ Por fim, a parte recorrente ressalta que o Estado não pode eximir-se da implantação das políticas públicas que a Constituição dota de caráter absolutamente prioritário, pois a hierarquização normativa suplanta o juízo de conveniência e oportunidade.
+6.  A Procuradoria Geral da República, ao opinar pelo provimento do recurso, reconhece não haver interferência do Poder Judiciário no Poder Executivo, uma vez que “o objetivo pretendido na ação civil pública foi, apenas e tão somente, a concretização de uma máxima efetividade a alguma normas e garantias constitucionais, impregnadas de um sentido de essencial fundamentalidade, já previstas no Texto de 1988, que, como direitos de segunda geração, importam em um facere ou praestare.” (fl. 363).
+7.  O recurso extraordinário deve ser provido. Quanto ao direito à saúde, o STF reconheceu que a sua jurisdição constitucional possui uma dimensão política que lhe impõe o “gravíssimo encargo de tornar efetivos os direitos econômicos sociais e culturais – que se identificam, enquanto direitos de segunda geração, com as liberdades positivas, reais ou concretas –, sob pena de o Poder Público, por violação positiva ou negativa da Constituição, comprometer, de modo inaceitável, a integridade da própria ordem constitucional.” (ADPF 45/DF, rel. Min. Celso de Mello, DJ 04.5.2004).
+     No caso, o objetivo da ação civil pública era impor ao Município de Mutum uma obrigação de fazer consistente na construção de um matadouro público a fim de regular a inspeção sanitária e industrial de produtos de origem animal, providência de irrefutável matiz constitucional, nos termos do art. 196.
+8.  Corroborando os entendimentos supracitados, destaco, por fim, do parecer da Procuradoria Geral da República:
+“a finalidade do Estado, com a Carta de 1988, em especial, é a promoção do bem-estar do cidadão, sendo a saúde uma meta fundamental a ser perquerida.” (fl. 365).
+9.  Ante o exposto, com fundamento no art. 557, § 1º-A, do CPC, dou provimento ao recurso extraordinário. Determino a inversão dos ônus da sucumbência.
+Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
