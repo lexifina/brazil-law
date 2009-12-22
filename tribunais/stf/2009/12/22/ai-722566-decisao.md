@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário em que se discute a estabilidade provisória no emprego, segundo o previsto nas convenções coletivas, quando os atestados médicos do INSS comprovam acidente de trabalho ou doença profissional.
+ No RE, alega-se ofensa aos artigos 5º, XXXV; 7º, XXVI; e 93, IX, da Constituição Federal (fls. 376-388).
+2.  O presente recurso não merece prosperar, dado que o acórdão recorrido decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie (Convenção Coletiva de Trabalho). Nesse sentido:
+“AGRAVO DE INSTRUMENTO. MATÉRIA LEGAL E CONTRATUAL. OFENSA CONSTITUCIONAL INDIRETA OU REFLEXA. (...) 4. Ademais, a decisão que se pretende reformar examinou a controvérsia à luz da legislação infraconstitucional e interpretou cláusula de acordo coletivo de trabalho. Portanto, não há cogitar de ofensa direta ao texto constitucional. Incidência, na espécie, das Súmulas 454 e 505 do Supremo Tribunal Federal.” (AI 609.993/SP, rel. Min. Cármen Lúcia, pub. DJ 07.03.2007).
+3.  Quanto à alegação de ofensa ao art. 5º e seu inciso, e ao 93, IX, da Constituição Federal, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008 e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
