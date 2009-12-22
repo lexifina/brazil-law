@@ -1,0 +1,6 @@
+Artigo 1º-A - Aplicam-se também as penalidades previstas nos incisos I e IV do artigo 1º sempre que for constatado qualquer artifício capaz de produzir lesão aos interesses dos consumidores e do fisco, em especial, nas seguintes situações: (NR)
+I - a violação do mecanismo medidor de vazão para fornecer combustível em quantidade menor que a indicada no painel da bomba de combustível; (NR)
+II - a existência de equipamentos ou mecanismos de comunicação de fluxo de combustíveis entre tanques ou bombas não levados ao conhecimento do órgão regulador competente; (NR)
+III - a utilização de quaisquer equipamentos ou mecanismos de uso não autorizado para armazenagem ou abastecimento de combustíveis; (NR)
+IV - a utilização de programas aplicativos desenvolvidos para acionar equipamentos ou mecanismos com capacidade de alterar o fluxo de combustíveis entre tanques ou bombas de modo a propiciar a alternativa de fornecimento de combustível em desconformidade com as especificações fixadas pelo órgão regulador competente. (NR)
+Parágrafo único - A violação prevista no inciso I deverá ser atestada pelos órgãos fiscalizadores competentes; (NR)
