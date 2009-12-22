@@ -1,0 +1,9 @@
+1.  Trata-se de agravo de instrumento da decisão que inadmitiu recurso extraordinário deduzido em agravo de instrumento em recurso de revista.
+2.  O acórdão recorrido limitou-se a tratar de matéria processual, relativa a pressuposto de admissibilidade de recurso trabalhista, a teor do que dispõe o art. 896 da CLT. Assim, a alegada contrariedade aos dispositivos constitucionais apontados somente poderia ocorrer de forma indireta, a depender do exame da legislação infraconstitucional, sem margem para o acesso à via extraordinária.
+Aliás, sobre o tema ambas as Turmas desta Corte têm reiterado esse entendimento: AI 486.403-AgR/RS, rel. Min. Carlos Britto, 1ª Turma, pub. DJ 22.4.2005; AI 437.622-AgR/MG, rel. Min. Joaquim Barbosa, 2ª Turma, pub. DJ 10.6.2005; AI 480.496-AgR/PE, rel. Min. Celso de Mello, 2ª Turma, pub. DJ 17.02.2006; e RE 574.197-AgR/RS, de minha relatoria, 2ª Turma, pub. DJe 03.4.2009.
+3.  Por fim, ressalto que o Plenário desta Corte, em 05.12.2008, decidiu pela inexistência de repercussão geral quanto à matéria (RE 584.608/SP, de minha relatoria, Plenário Virtual, maioria, pub. DJe 13.08.2009).
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
