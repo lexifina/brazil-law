@@ -1,0 +1,18 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que julgou improcedente o pedido do ora agravante de conversão de licença-prêmio em pecúnia, reformando a sentença a partir da seguinte fundamentação:
+“O direito à licença-prêmio foi estipulado no Estatuto dos Funcionários Públicos Civis do Estado de São Paulo e inicialmente havia a possibilidade de fruição de 45 dias de licença e conversão do tempo restante em pecúnia. No entanto esse direito era exclusivo dos servidores com pelo menos 15 anos de serviço.
+Do tempo em que o apelado foi admitido (1984) até o período em que completou o direito à licença-prêmio, não se contam 15 anos de serviço, o que significa que nunca houve direito à conversão em pecúnia de nem mesmo metade do período da licença.
+(...)
+E em nada ajuda ao apelado a menção à Lei Complementar 857/99.
+Essa legislação proíbe a conversão em pecúnia dos períodos de licença-prêmio, embora preserve o direito adquirido até sua promulgação.
+O diploma mencionado não modifica a situação do servidor porque, preservando o direito adquirido, conserva o que o apelado já não tinha: não tinha direito à conversão e, depois da Lei Complementar 857/99, continua não o tendo.” (Fls. 69/70).
+2.  Nas razões do RE, sustenta-se ofensa ao artigo 5º, caput, XXXVI, LIII, LIV e LV da Constituição Federal.
+ O recorrente afirma a evidência do seu direito à conversão de parte de seu período de licença-prêmio, demonstrado “não só pelo seu período aquisitivo adquirido até 31.12.1999, mas também pela previsão legal disposta no Artigo Único das Disposições Transitórias da Lei Complementar 857/99” (fl. 135/136).
+ Alega, ainda, ofensa direta ao artigo 134 do Código de Processo Civil, pelo impedimento tanto da juíza relatora quanto dos demais juízes membros componentes da Câmara Julgadora, que participaram do julgamento, pois “conheciam da causa, já tendo proferido sentenças em outros processos análogos em primeira instância” (fl. 139).
+3.  O Tribunal a quo decidiu a questão com base no conjunto fático-probatório dos autos e na legislação infraconstitucional local (Lei Estadual 10.261/68 – Estatuto dos Funcionários Públicos Civis do Estado de São Paulo, e Leis Complementares Estaduais 644/89 e 857/99), cuja análise é defesa nesta fase recursal (Súmulas STF 279 e 280).
+ Quanto à alegação de ofensa ao art. 5º, LIII da Constituição, devido a suposto impedimento dos julgadores da instância a qua, a ofensa constitucional, se existente, seria meramente reflexa ou indireta, demandando análise de legislação infraconstitucional (CPC).
+4.  Ademais, quanto à alegação de ofensa ao art. 5º e seus incisos, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
