@@ -1,0 +1,9 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que entendeu ser abusiva a cláusula contratual que priva o contratante de todos os efeitos do contrato (fls. 114-121).
+2.  No RE, sustenta-se ofensa aos artigos 5º, XXXVI, e 37, § 6º, da Constituição Federal (fls. 125-131).
+3.  Verifico que o recurso não merece seguimento, pois os dispositivos constitucionais aos quais se apontou violação não foram debatidos na instância de origem. Falta-lhe, portanto, o necessário prequestionamento, a teor da Súmula STF 282. Nesse sentido: RE 449.137-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.4.2008; AI 706.449-AgR/SC, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 07.11.2008; AI 631.711-AgR/BA; rel. Min. Ricardo Lewandowski; 1ª Turma, unânime, DJe 21.11.2008; e AI 663.687-AgR/DF, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 20.2.2009.
+4.  Ademais, quanto à alegação de ofensa ao art. 5º, XXXVI, da Constituição Federal, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008 e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
