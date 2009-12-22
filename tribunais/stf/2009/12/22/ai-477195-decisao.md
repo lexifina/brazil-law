@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto pelo Ministério Público do Estado de São Paulo contra acórdão assim ementado:
+“Ação Civil Pública – Rodovia – Recuperação – Manutenção – Ato discricionário – Cabe à Administração Pública proceder de acordo com seus recursos financeiros, segundo sua conveniência e oportunidade, não cabendo ao Poder Judiciário substituí-la – Impossibilidade constitucional do Judiciário imiscuir-se na esfera de competência exclusiva do Executivo – Recurso improvido.” (Fl. 51).
+2.  A parte recorrente, no recurso extraordinário, alega ofensa aos artigos 5º, XXXV, e 23, I, da Constituição Federal, argumentando, em síntese, que, “como se pretende apenas o controle da legalidade de ato da Administração, com a presente ação, não se pode dizer que com esta haveria interferência do Poder Judiciário na apreciação de conveniência e oportunidade” (Fl. 56).
+3.  O Ministério Público Federal opinou pelo conhecimento e provimento do recurso (fls. 115-117).
+4.  O recurso não merece prosperar, porquanto correta a decisão que negou seguimento ao RE por entender que os dispositivos dados como violados não foram prequestionados.
+  O Tribunal a quo, ao confirmar a sentença, entendeu não caber ao Poder Judiciário apreciar a conveniência e oportunidade do ato discricionário, que na hipótese dos autos se refere à reparação de rodovia e a sua manutenção periódica (fl. 52), apenas com enfoque no art. 2º da CF (princípio constitucional da independência dos Poderes), cujo dispositivo não foi apontado como afrontado no apelo extremo.
+ Embora tenha o acórdão recorrido (fl. Fl. 51) adotado o relatório da sentença (fls. 30/31) como razão de decidir, no qual há referência ao art. (23, I, da CF), este não foi objeto de discussão no aresto impugnado e nem foram opostos embargos de declaração para suprir eventual omissão.
+ Ressalte-se que não há prequestionamento quando o dispositivo ao qual se alegou violação foi apenas citado no relatório do acórdão recorrido (fl. 329). Nesse sentido: RE 175.505-AgR/SP, rel. Min. Marco Aurélio, 2ª Turma, unânime, DJ 12.5.95, assim ementado:
+“1. RECURSO PREQUESTIONAMENTO . O prequestionamento não exsurge de mera referência à matéria versada no relatório do acórdão impugnado. Diz-se prequestionado determinado tema quando o Órgão Julgador haja emitido juízo explícito a respeito de forma clara, porquanto o conhecimento do recurso não pode ficar ao sabor da capacidade intuitiva dos integrantes do Órgão, muito menos deve alicerçar-se na presunção do extraordinário – de decisão implícita contra expresso dispositivo legal.”
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
