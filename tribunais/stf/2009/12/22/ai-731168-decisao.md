@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por alegada ofensa ao art. 58 do Ato das Disposições Constitucionais Transitórias/88 contra acórdão que concluiu pela improcedência do pedido de retroação da data do início do benefício (DIB) à data de entrada do requerimento (DER), nos seguintes termos (fls. 116-122):
+“(...) as regras aplicáveis à concessão dos benefícios são as vigentes na data em que são implementados os requisitos para a sua concessão. Por sua vez, as disposições gerais da Lei nº 8.213/91, dentre as quais a que dispensa o desligamento do emprego como condição para a concessão da aposentadoria, retroagem apenas até 5.4.1991 (art. 145 da Lei 8.213/91), não alcançando os benefícios requeridos em data anterior.”
+O Presidente da Segunda Turma Recursal da Seção Judiciária do Estado de Santa Catarina asseverou a ausência de controvérsia constitucional porque a discussão é infraconstitucional. Assim, a alegada ofensa às normas constitucionais, se existisse, seria indireta (fls. 141-142).
+2.  O agravante aponta direito adquirido à retroação do benefício à data do requerimento administrativo, pois, se na data do requerimento já havia implementado todas as condições para receber o benefício, não há razão para ser concedido em momento posterior, mesmo depois de protocolado o pedido de aposentadoria.
+3.  O agravo não merece prosperar. Para o reexame das violações alegadas, seria necessária a análise de fatos e provas da causa (Súmula STF 279) e da legislação infraconstitucional na qual se fundou a Corte de origem (Leis 6.950/81 e 8.213/91 e Decreto 89.312/84), hipóteses inviáveis em sede extraordinária. A suposta ofensa ao texto constitucional, se existisse, seria meramente reflexa ou indireta. Nesse sentido, para ilustrar: AI 673.730-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, DJe 23.10.2009.
+4.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
