@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário contra acórdão que, ao manter a sentença, reconheceu o direito da agravada à revisão do valor da pensão por morte, que recebe em virtude de falecimento de seu marido, ex-servidor autárquico do Instituto de Assistência Técnica e Extensão Rural do Estado do Piauí – EMATER, nos termos da Lei 4.950-A/66, que assegura o piso salarial de seis salários mínimos e o adicional de 50% deste valor.
+2.  O Instituto de Assistência Técnica e Extensão Rural do Estado do Piauí – EMATER, no recurso extraordinário, alega ofensa aos artigos 5º, XXXVI; 7º, IV; 18; 37, X e XIII; 39, §3º; 61, § 1º, II, a; e 114, todos da CF.
+3.  O parecer da Procuradoria Geral da República é pelo desprovimento do agravo (439-440).
+4.  O recurso merece prosperar. Este Tribunal, mesmo antes da atual Constituição Federal, apreciou a constitucionalidade do art. 5º da referida Lei 4.950-A/66, na Representação 716, rel. Min. Eloy da Rocha, DJ 26.02.69, quando reconheceu a inconstitucionalidade da norma quanto aos servidores públicos autárquicos, como é o caso dos autos (fl. 222).
+ A atual jurisprudência desta Corte tem confirmado tal jurisprudência ao assentar ser impossível a vinculação de salário profissional a múltiplos de salário mínimo, por ofender o disposto no art. 7º, IV, da CF/88. Nesse sentido, AI 357.477/PR, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 14.10.2005; AI 763.641/PE, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.12.2009, entre outros.
+ Vejam-se, em caso similar ao presente recurso, o RE 545.566/PI, rel. Min. Cezar Peluso, 2ª Turma, unânime, DJe 14.11.2008; a Rcl 9.399/PI, rel. Min. Dias Toffoli, DJe 25.11.2009; e a ADPF 53/PI, rel. Min. Gilmar Mendes, DJe 05.05.2008.
+5.  Finalmente, cabe registrar que o Supremo Tribunal Federal, no julgamento do RE 565.714/SP, Plenário, rel. Min. Cármen Lúcia, DJe 07.5.2008, aprovou, de acordo com o art. 103-A da Constituição Federal, a Súmula Vinculante 4, com a seguinte redação:
+“Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial” (DJe 09.5.2008).
+6.  Ante o exposto, com fundamento no art. 544, § 4º, do CPC, conheço do agravo e, desde logo, dou provimento ao recurso extraordinário para julgar improcedente a ação ordinária. Condeno a recorrida ao pagamento das custas e dos honorários advocatícios, estes fixados em dez por cento do valor da causa, ressalvada a hipótese de concessão da justiça gratuita.
+ Publique-se.
+   Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
