@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que concluiu pela prescrição total de pedido de complementação de aposentadoria referente às parcelas deferidas judicialmente e nunca percebidas no curso da relação de emprego.
+2.  Nas razões do RE, sustenta-se ofensa aos artigos 5º, XXXV, LIV e LV; 7º, XXIX; e 93, IX, da Constituição Federal.
+3.  A jurisprudência desta Corte é firme no sentido de que a análise da espécie de prescrição a ser aplicada, se total ou parcial, restringe-se ao âmbito infraconstitucional, não ensejando, portanto, o reexame em recurso extraordinário.
+ Nesse sentido: AI 750.097/ES, rel. Min. Menezes Direito, DJe 1º.09.2009; AI 753.726/BA, rel. Min. Cezar Peluso, DJe 22.06.2009; AI 654.261-AgR/RS, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 20.3.2009; e AI 732.179-AgR/RS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 21.8.2009, este último assim ementado:
+“ TRABALHO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIFERENÇAS DE COMPLEMENTAÇÃO DE APOSENTADORIA. PRESCRIÇÃO TOTAL OU PARCIAL. MATÉRIA INFRACONSTITUCIONAL.  OFENSA INDIRETA. AGRAVO IMPROVIDO .
+I - A Corte tem se orientado no sentido de que a discussão acerca da incidência da prescrição total ou parcial no pedido de devolução de valores descontados mensalmente da complementação de aposentadoria situa-se no âmbito infraconstitucional. Precedentes. Aplicação de multa.
+II - Agravo regimental improvido.”
+4.  Ademais, quanto à alegação de ofensa ao art. 5º e seus incisos, e ao 93, IX, da Constituição Federal, além de o fato de decisão contrária aos interesses da parte não caracterizar violação aos dispositivos constitucionais apontados, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal, do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008 e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
