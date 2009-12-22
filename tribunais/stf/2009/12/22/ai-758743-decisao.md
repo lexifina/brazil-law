@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+“APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PRETENSÃO DE EXTINÇÃO DA EXECUÇÃO. ALEGAÇÃO DO DEVEDOR NO SENTIDO DE QUE NÃO TERIA RECEBIDO O VALOR CONSTANTE COMO MUTUADO EM ESCRITURA POR INSTRUMENTO PÚBLICO, QUE DISPÕE SOBRE AS PARTES CONTRATANTES, O VALOR MUTUADO E A FORMA DE PAGAMENTO. CONDIÇÃO SUSPENSIVA DE ENTREGA DE PARTE DO NUMERÁRIO CUMPRIDA REGULARMENTE. CÓPIA DE CHEQUE RECEBIDO PELO EMBARGANTE E ENDOSSADO A TERCEIRO. NOTA PROMISSÓRIA QUE NÃO CIRCULOU COMERCIALMENTE. SENTENÇA QUE REJEITA OS EMBARGOS. MANUTENÇÃO QUE SE IMPÕE. RECURSO DE APELAÇÃO CONHECIDO E IMPROVIDO PARA MANTER A SENTENÇA.”  (Fl. 232).
+2.  Nas razões do RE, sustenta-se ofensa ao art. 5º, LV, da Constituição Federal.
+ O próprio recorrente afirma que “a matéria em debate não era só de direito, mas sim carecia, como até hoje carece, de dilação probatória” (fl. 314).
+ Alega que o cheque apresentado “não tem as características que demonstram ter sido ele compensado e nem se justificaria o endosso que nele se vê transferindo sua titularidade para empresa coligada da autora” (fl. 315).
+3.  Vê-se, portanto, que, para divergir da conclusão a que chegou o Tribunal a quo, seria necessário o reexame do conjunto fático-probatório dos autos, hipótese inviável em sede extraordinária (Súmula STF 279).
+4.  Ademais, quanto à alegação de ofensa ao art. 5º e seus incisos, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 22 de dezembro de 2009.
+Ministra Ellen Gracie
+Relatora
