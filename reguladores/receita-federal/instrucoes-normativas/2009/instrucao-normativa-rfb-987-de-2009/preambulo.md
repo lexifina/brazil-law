@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 987, de 22 de dezembro de 2009
+Disciplina a aquisição, com isenção do Imposto sobre Produtos Industrializados, de veículo destinado ao transporte autônomo de passageiros (táxi).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto na Lei nº 8.989, de 24 de fevereiro de 1995, no art. 6º da Lei nº 10.593, de 6 de dezembro de 2002, na Lei nº 10.690, de 16 de junho de 2003, no art. 77 da Lei nº 11.941, 27 de maio de 2009, e na Portaria Conjunta RFB/INSS nº 2, de 27 de abril de 2009, resolve:
