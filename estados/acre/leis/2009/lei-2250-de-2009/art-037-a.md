@@ -1,0 +1,3 @@
+Art. 37-A. Os policiais civis em atividade, ao preencherem todos os requisitos para a aposentadoria, serão reenquadrados nas referências por tempo de serviço, na forma do Anexo XIII desta Lei, a partir da data de seu ingresso na Polícia Civil, sem prejuízo do disposto no caput e §§ 1º, 2º e 3º do art. 37. (Incluído pela Lei Complementar nº 293, de 30/12/2014)
+
+Parágrafo único. O policial civil, atendidos os requisitos a que se refere o caput , fará jus ao direito ali previsto, ainda que opte por permanecer na atividade, não podendo ser compelido a se aposentar contra a sua vontade, salvo nos casos de aposentadoria compulsória, previstos na legislação. (Incluído pela Lei nº 3.108, de 29/12/2015)
