@@ -1,0 +1,1 @@
+Art. 8º As instituições financeiras oficiais disponibilizarão linhas de crédito e financiamento específicas para desenvolver ações e atividades que atendam aos objetivos desta Lei e voltadas para induzir a conduta dos agentes privados à observância e execução da PNMC, no âmbito de suas ações e responsabilidades sociais.
