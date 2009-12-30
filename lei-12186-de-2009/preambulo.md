@@ -1,0 +1,2 @@
+Dispõe sobre os valores das parcelas remuneratórias dos integrantes das Carreiras e do Plano Especial de Cargos do DNIT, de que trata a Lei nº 11.171, de 2 de setembro de 2005, da Carreira de Analista de Infraestrutura e do cargo isolado de Especialista em Infraestrutura Sênior, de que trata a Lei nº 11.539, de 8 de novembro de 2007; altera as Leis nos 11.171, de 2 de setembro de 2005, e 11.539, de 8 de novembro de 2007; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
