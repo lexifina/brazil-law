@@ -1,0 +1,1 @@
+Art. 9º O Mercado Brasileiro de Redução de Emissões - MBRE será operacionalizado em bolsas de mercadorias e futuros, bolsas de valores e entidades de balcão organizado, autorizadas pela Comissão de Valores Mobiliários - CVM, onde se dará a negociação de títulos mobiliários representativos de emissões de gases de efeito estufa evitadas certificadas.
