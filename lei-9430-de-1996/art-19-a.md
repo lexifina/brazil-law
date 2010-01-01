@@ -1,0 +1,1 @@
+Art. 19-A. O Ministro de Estado da Fazenda poderá fixar margens de lucro diferentes por setor ou ramo de atividade econômica para fins de apuração dos preços parâmetros relativos aos métodos de que tratam os arts. 18 e 19.
