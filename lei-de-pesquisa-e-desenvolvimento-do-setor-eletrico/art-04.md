@@ -1,4 +1,4 @@
-Art. 4º Os recursos para pesquisa e desenvolvimento, previstos nos artigos anteriores, deverão ser distribuídos da seguinte forma:
+Art. 4º Os recursos para pesquisa e desenvolvimento, previstos nos arts. 1º a 3º, exceto aquele previsto no parágrafo único do art. 1º, deverão ser distribuídos da seguinte forma:
 I - 40% (quarenta por cento) para o Fundo Nacional de Desenvolvimento Científico e Tecnológico - FNDCT, criado pelo Decreto-Lei nº 719, de 31 de julho de 1969, e restabelecido pela Lei nº 8.172, de 18 de janeiro de 1991;
 II - 40% (quarenta por cento) para projetos de pesquisa e desenvolvimento, segundo regulamentos estabelecidos pela Agência Nacional de Energia Elétrica - ANEEL;
 III - 20% (vinte por cento) para o MME, a fim de custear os estudos e pesquisas de planejamento da expansão do sistema energético, bem como os de inventário e de viabilidade necessários ao aproveitamento dos potenciais hidrelétricos.
