@@ -1,6 +1,6 @@
 Art. 4º O dever do Estado com educação escolar pública será efetivado mediante a garantia de:
 I - ensino fundamental, obrigatório e gratuito, inclusive para os que a ele não tiveram acesso na idade própria;
-II - progressiva extensão da obrigatoriedade e gratuidade ao ensino médio;
+II - universalização do ensino médio gratuito;
 III - atendimento educacional especializado gratuito aos educandos com necessidades especiais, preferencialmente na rede regular de ensino;
 IV - atendimento gratuito em creches e pré-escolas às crianças de zero a seis anos de idade;
 V - acesso aos níveis mais elevados do ensino, da pesquisa e da criação artística, segundo a capacidade de cada um;

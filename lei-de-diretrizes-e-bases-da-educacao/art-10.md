@@ -4,6 +4,6 @@ II - definir, com os Municípios, formas de colaboração na oferta do ensino fu
 III - elaborar e executar políticas e planos educacionais, em consonância com as diretrizes e planos nacionais de educação, integrando e coordenando as suas ações e as dos seus Municípios;
 IV - autorizar, reconhecer, credenciar, supervisionar e avaliar, respectivamente, os cursos das instituições de educação superior e os estabelecimentos do seu sistema de ensino;
 V - baixar normas complementares para o seu sistema de ensino;
-VI - assegurar o ensino fundamental e oferecer, com prioridade, o ensino médio.
+VI - assegurar o ensino fundamental e oferecer, com prioridade, o ensino médio a todos que o demandarem, respeitado o disposto no art. 38 desta Lei;
 VII - assumir o transporte escolar dos alunos da rede estadual.
 Parágrafo único. Ao Distrito Federal aplicar-se-ão as competências referentes aos Estados e aos Municípios.
