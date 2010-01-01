@@ -13,4 +13,7 @@ XI - veículos e carros blindados de combate, novos, armados ou não, e suas par
 XII - material de defesa, classificado nas posições 87.10.00.00 e 89.06.10.00 da Tipi, além de partes, peças, componentes, ferramentais, insumos, equipamentos e matérias-primas a serem empregados na sua industrialização, montagem, manutenção, modernização e conversão;
 XIII - equipamentos de controle de produção, inclusive medidores de vazão, condutivímetros, aparelhos para controle, registro, gravação e transmissão dos quantitativos medidos, quando adquiridos por pessoas jurídicas legalmente obrigadas à sua utilização, nos termos e condições fixados pela Secretaria da Receita Federal do Brasil, inclusive quanto às suas especificações técnicas.
 XIV - produtos classificados na posição 87.13 da Nomenclatura Comum do Mercosul-NCM.
-Parágrafo único. O Poder Executivo regulamentará o disposto nos incisos IV, X, XIII e XIV do caput deste artigo.
+XV - artigos e aparelhos ortopédicos ou para fraturas classificados no código 90.21.10 da NCM;
+XVI - artigos e aparelhos de próteses classificados no código 90.21.3 da NCM;
+XVII - almofadas antiescaras classificadas nos Capítulos 39, 40, 63 e 94 da NCM.
+Parágrafo único. O Poder Executivo poderá regulamentar o disposto nos incisos IV, X, XIII e XIV a XVII do caput deste artigo.

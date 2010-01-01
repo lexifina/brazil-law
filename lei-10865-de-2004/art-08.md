@@ -43,9 +43,13 @@ XIV - material de emprego militar classificado nas posições 87.10.00.00 e 89.0
 XV - partes, peças, componentes, ferramentais, insumos, equipamentos e matérias-primas a serem empregados na industrialização, manutenção, modernização e conversão do material de emprego militar de que trata o inciso XIV deste parágrafo;
 XVI - gás natural liquefeito - GNL.
 XVII - produtos classificados no código 8402.19.00 da Nomenclatura Comum do Mercosul-NCM, para utilização em Usinas Termonucleares - UTN geradoras de energia elétrica para o Sistema Interligado Nacional.
-§ 13. O Poder Executivo regulamentará:
+XVIII - produtos classificados na posição 87.13 da Nomenclatura Comum do Mercosul - NCM;
+XIX - artigos e aparelhos ortopédicos ou para fraturas classificados no código 90.21.10 da NCM;
+XX - artigos e aparelhos de próteses classificados no código 90.21.3 da NCM;
+XXI - almofadas antiescaras classificadas nos Capítulos 39, 40, 63 e 94 da NCM.
+§ 13. O Poder Executivo poderá regulamentar:
 I - o disposto no § 10 deste artigo; e
-II - a utilização do benefício da alíquota 0 (zero) de que tratam os incisos I a VII do § 12 deste artigo.
+II - a utilização do benefício da alíquota 0 (zero) de que tratam os incisos I a VII e XVIII a XXI do § 12 deste artigo.
 § 14. Ficam reduzidas a 0 (zero) as alíquotas das contribuições incidentes sobre o valor pago, creditado, entregue, empregado ou remetido à pessoa física ou jurídica residente ou domiciliada no exterior, referente a aluguéis e contraprestações de arrendamento mercantil de máquinas e equipamentos, embarcações e aeronaves utilizados na atividade da empresa.
 § 15. Na importação de etano, propano e butano, destinados à produção de eteno e propeno, e de nafta petroquímica, quando efetuada por centrais petroquímicas, as alíquotas são de:
 I - 1,0% (um por cento), para a Contribuição para o Pis/Pasep-Importação; e
