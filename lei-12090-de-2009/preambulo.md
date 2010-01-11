@@ -1,0 +1,2 @@
+Altera a Lei nº 9.782, de 26 de janeiro de 1999, para dispor sobre a cooperação institucional entre a Agência Nacional de Vigilância Sanitária e instituições de ensino superior e de pesquisa mantidas pelo poder público e organismos internacionais com os quais o Brasil tenha acordos de cooperação técnica.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
