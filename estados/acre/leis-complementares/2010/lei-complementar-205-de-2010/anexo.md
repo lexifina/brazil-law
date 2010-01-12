@@ -1,0 +1,271 @@
+ANEXO ÚNICO
+
+ANEXO VIII
+
+(Lei Complementar n. 105/2002)
+
+TABELA DE VENCIMENTOS
+
+GRUPOS OCUPACIONAIS
+
+CLASSE
+
+PADRÃO
+
+PJ-NM-100
+
+PJ-NM-200
+
+PJ-NS-300
+
+C
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+1.822,12
+
+1.769,04
+
+1.717,51
+
+1.667,50
+
+1.618,92
+
+2.067,40
+
+2.007,18
+
+1.948,72
+
+1.891,96
+
+1.836,85
+
+3.929,94
+
+3.815,48
+
+3.704,35
+
+3.596,46
+
+3.491,70
+
+B
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+1.571,77
+
+1.525,99
+
+1.481,54
+
+1.438,39
+
+1.396,50
+
+1.783,36
+
+1.731,41
+
+1.680,98
+
+1.632,02
+
+1.584,48
+
+3.390,00
+
+3.291,26
+
+3.195,41
+
+3.102,34
+
+3.011,98
+
+A
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+1.355,82
+
+1.316,33
+
+1.278,00
+
+1.240,78
+
+1.204,63
+
+1.538,34
+
+1.493,53
+
+1.450,03
+
+1.407,79
+
+1.366,79
+
+2.924,24
+
+2.839,08
+
+2.756,39
+
+2.676,10
+
+2.598,16
+
+ANEXO IX
+
+(Lei Complementar n. 105/2002)
+
+TABELA DE VENCIMENTOS
+
+CARGOS DE PROVIMENTO EM COMISSÃO DE DIREÇÃO E
+
+ASSESSORAMENTO SUPERIOR – D A S
+
+CÓDIGO
+
+VALOR EM R$
+
+DAS – 101.4
+
+4.507,07
+
+DAS – 101.3
+
+3.219,36
+
+DAS – 101.2
+
+2.682,81
+
+DAS – 101.1
+
+2.234,76
+
+ANEXO X
+
+(Lei Complementar n. 105/2002)
+
+TABELA DE VALORES DAS FUNÇÕES DE CONFIANÇA
+
+FUNÇÃO DE CONFIANÇA
+
+VALOR EM R$
+
+FC 6
+
+1.128,69
+
+FC 5
+
+1.015,81
+
+FC 4
+
+902,94
+
+FC 3
+
+790,08
+
+FC 2
+
+677,20
+
+FC 1
+
+564,33
+
+ANEXO XI
+
+(Lei Complementar n. 105/2002)
+
+TABELA DE VENCIMENTOS
+
+CARGOS DE PROVIMENTO EM COMISSÃO DE NATUREZA ESPECIAL
+
+CARGO
+
+VENCIMENTO
+
+GRATIFICAÇÃO DE DESEMPENHO
+
+Diretor-geral
+
+8.129,75
+
+6.765,00
+
+Diretor
+
+6.503,79
+
+6.160,00
+
+Assessor
+
+6.503,79
+
+2.970,00
+
+Chefe de gabinete da presidência
+
+6.503,79
+
+2.970,00
+
+Secretário de câmara
+
+4.097,35
+
+2.970,00
+
+Coordenador
+
+4.097,35
+
+2.970,00
+
+Assessor chefe de núcleo
+
+6.503,79
+
+2.970,00
+
+Assessor técnico de núcleo
+
+4.097,35
+
+2.970,00
