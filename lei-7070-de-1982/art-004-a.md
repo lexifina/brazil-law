@@ -1,0 +1,2 @@
+Art. 4º-A. Ficam isentos do imposto de renda a pensão especial e outros valores recebidos em decorrência da deficiência física de que trata o caput do art. 1º desta Lei, observado o disposto no art. 2º desta Lei, quando pagos ao seu portador.
+Parágrafo único. A documentação comprobatória da natureza dos valores de que trata o caput deste artigo, quando recebidos de fonte situada no exterior, deve ser traduzida por tradutor juramentado.
