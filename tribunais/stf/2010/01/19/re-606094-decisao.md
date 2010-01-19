@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. LIMITES OBJETIVOS DA COISA JULGADA. 1. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL: DESNECESSIDADE. INTIMAÇÃO DO ACÓRDÃO RECORRIDO ANTERIOR A 3.5.2007. 2. AUSÊNCIA DE PREQUESTIONAMENTO: INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 3. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+“PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CADERNETA DE POUPANÇA. CORREÇÃO MONETÁRIA. EXCESSO DE EXECUÇÃO.
+Rejeição da preliminar de intempestividade dos embargos do devedor.
+Prova do excesso cobrado, mediante os cálculos apurados pela Contadoria do Foro quanto à correção monetária de saldo de caderneta de poupança” (fl. 254).
+2. O Recorrente alega que o Tribunal a quo teria contrariado o princípio da coisa julgada e o art. 170, inc. II, da Constituição da República.
+Argumenta que “A respeitável decisão, ao preferir aplicar o valor depreciado do saldo da caderneta de poupança do recorrente, em detrimento aos cálculos oficiais, provoca prejuízos e fere o direito à propriedade privada” (fl. 281).
+Sustenta que “os decretos judiciais até aqui vêm consagrando entendimentos que afetam o direito do poupador, afastam prova existente nos autos e, por fim, não emprestam aplicação à coisa julgada, porque modificam o valor do saldo de uma das cadernetas de poupança, diminuindo o valor da soma total das contas em descumprimento do que restou julgado, vale repetir, o reconhecimento da aplicação idônea de índice de correção monetária, sobre os saldos de seis contas de poupança das oito que fizeram parte do pedido inicial” (fls. 283-284).
+Apreciada a matéria trazida na espécie, DECIDO .
+3. Inicialmente, quanto à preliminar de repercussão geral, é de se anotar que o então Recorrente foi intimado do acórdão recorrido antes de 3.5.2007, o que dispensa a demonstração da repercussão geral da questão constitucional em capítulo especial do recurso extraordinário, nos termos do que decidido pelo Plenário do Supremo Tribunal Federal no Agravo de Instrumento 664.567-QO, Relator o Ministro Sepúlveda Pertence.
+4. Razão jurídica não assiste ao Recorrente.
+5. A configuração jurídica do prequestionamento - que traduz elemento indispensável ao conhecimento do recurso extraordinário - decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. O art. 170, inc. II, da Constituição da República, não foi objeto de debate e decisão prévios no Tribunal de origem. Tampouco foi objeto dos embargos de declaração opostos, de modo a se ter por demonstrado o necessário prequestionamento da matéria constitucional. Incidem na espécie as Súmulas 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido os seguintes julgados:
+“1. A jurisprudência do Supremo Tribunal firmou-se no sentido de que, ainda que surgida a alegada ofensa constitucional no acórdão recorrido, é necessária a oposição de embargos de declaração, se não houver a análise da ofensa pelo órgão judicante. Precedentes. 2. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 646.853-AgR, de minha relatoria, Primeira Turma, DJe 13.2.2009).
+“A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário” (AI 413.963-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 1º.4.2005).
+6. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos limites da coisa julgada, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa reflexa à Constituição da República.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA: INADMISSIBILIDADE. LIMITES DA COISA JULGADA: IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 645.926-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009).
+“RECURSO. Extraordinário. Inadmissibilidade. Ofensa ao art. 5º, XXXVI, da Constituição Federal. Limites objetivos da coisa julgada. Contencioso de direito comum. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental não provido. A discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária”   (RE 591.998-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 21.11.2008).
+Não há, pois, o que prover quanto às alegações do Recorrente.
+7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 19 de janeiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
