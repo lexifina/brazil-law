@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI. CORREÇÃO MONETÁRIA DOS CRÉDITOS ESCRITURAIS. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Superior Tribunal de Justiça:
+“TRIBUTÁRIO – IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS CREDITAMENTO – PRESCRIÇÃO – CORREÇÃO MONETÁRIA DOS CRÉDITOS ESCRITURAIS – SÚMULA 282/STF.
+1. Aplica-se o teor da Súmula 282/STF relativamente a dispositivo de lei não apreciado, sequer implicitamente, pelo Tribunal de origem.
+2. Questão jurídica que trata de duas situações distintas envolvendo o IPI incidente sobre a compra de insumos e matéria prima utilizados em produtos isentos ou tributados à alíquota zero: 1°) o reconhecimento de aproveitamento de créditos de IPI ainda não escriturados pela empresa e 2°) a repetição de valores já regularmente registrados na escrita fiscal, mas que foram posteriormente objeto de estorno de crédito, na forma dos arts. 25, da Lei 4.502/64 e 174, I, "a", do RIPI/1998 - Decreto 2.637/98.
+3. Na primeira hipótese, por não se tratar de repetição de indébito tributário, deve incidir a prescrição qüinqüenal do Decreto 20.910/32.
+4. Na segunda hipótese, como os créditos do IPI não decorrem de escrituração, em função do estorno legal de créditos do tributo, incide a tese do pagamento indevido, do art. 165, do CTN e a tese da prescrição pelo lançamento por homologação ("cinco mais cinco", no caso de homologação tácita).
+5. A jurisprudência do STJ e do STF é no sentido de ser indevida a correção monetária dos créditos escriturais de IPI, relativos a operações de compra de matérias-primas e insumos empregados na fabricação de produto isento ou beneficiado com alíquota zero. Todavia, é devida a correção monetária de tais créditos quando o seu aproveitamento, pelo contribuinte, sofre demora em virtude resistência oposta por ilegítimo ato administrativo ou normativo do Fisco. Precedente da Primeira Seção no EREsp 468.926/SC.
+6. Aplicação dos seguintes índices: a) a ORTN, de 1964 a fevereiro/86; b) o IPC, no período de março/86 a janeiro/91; c) o INPC de fevereiro/91 a dezembro/1991; d) a UFIR, de janeiro/1992 a 31/12/95; e e) a partir de 01/01/96, a taxa SELIC, devendo-se aplicar, em substituição aos índices oficiais: 14,36% - fevereiro/86 (REsp's 31.127/SP, 6.677/SP, 58.352/SP); 26,06% - junho/87 (REsp 69.982/DF); 42,72% - janeiro/89 (REsp 43.055/SP); 10,14% - fevereiro/89 (EREsp 70.903/DF e REsp 206.503/SP) e 21,87% - fevereiro/91 (REsp's 353.396/SP e 756.116/SP), observando-se o início da incidência da correção monetária no caso concreto.
+7. Recurso especial provido em parte” (fl. 374).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula 282 do Supremo Tribunal Federal.
+4. No recurso extraordinário, a Agravante alega que o Tribunal a quo teria contrariado os arts. 2º, 5º, inc. II, 102, inc. III, 105, inc. III, e 153, § 3º, inc. II, da Constituição da República.
+Argumenta que, “se o Superior Tribunal de Justiça desrespeita os limites de conhecimento do recurso especial, que lhe são impostos pelo art. 105, III, da CF/88, e reforma acórdão do TRF que possui fundamentação exclusivamente constitucional, é inequívoco que usurpa competência do Supremo Tribunal Federal e viola diretamente o art. 102, III, da CF/88” (fl. 398).
+Sustenta que, “na técnica de creditamento escritural do IPI para que se atenda ao princípio constitucional da não cumulatividade previsto no artigo 153, § 3º, II, da Constituição Federal, cujo artigo 49 do CTN constitui mera repetição, não pode haver incidência de correção monetária, ainda quando o creditamento tenha sido feito extemporaneamente por óbice do Fisco” (fl. 399).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Inicialmente, cumpre afastar o fundamento da decisão agravada de ausência de prequestionamento, pois a Agravante suscitou os dispositivos constitucionais tidos por afrontados nos embargos de declaração opostos.
+Todavia, razão jurídica não assiste à Agravante.
+6. A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido de que a questão relativa à correção monetária dos créditos escriturais do Imposto sobre Produtos Industrializados - IPI é infraconstitucional, o que não viabiliza o recurso extraordinário.
+Nesse sentido:
+“TRIBUTÁRIO. IPI. CORREÇÃO MONETÁRIA DOS CRÉDITOS ESCRITURAIS. NATUREZA INFRACONSTITUCIONAL. OFENSA MERAMENTE REFLEXA À CONSTITUIÇÃO. AGRAVO IMPROVIDO. I - A discussão acerca da correção monetária dos créditos escriturais do IPI possui natureza infraconstitucional, a cujo exame não se presta o recurso extraordinário. Precedentes. II - Agravo regimental improvido” (RE 405.349-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 17.10.2008).
+“Agravo regimental no agravo de instrumento. Imposto sobre Produtos Industrializados. Operações isentas. Matéria não impugnada. Créditos escriturais. Correção monetária. Matéria infraconstitucional. Precedentes. 1. A questão relativa à ‘exclusão de IPI nas operações isentas’ não foi analisada pela decisão agravada, tendo em vista que não foi objeto do pedido feito no recurso extraordinário. 2. A jurisprudência da Primeira Turma desta Corte é no sentido de que a questão relativa à incidência de correção monetária sobre os créditos escriturais do Imposto sobre Produtos Industrializados é matéria de índole infraconstitucional. 3. Agravo regimental desprovido” (AI 586.423-AgR, Rel. Min. Menezes Direito, Primeira Turma, DJ 26.9.2008).
+Nada há, pois, a prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 19 de janeiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
