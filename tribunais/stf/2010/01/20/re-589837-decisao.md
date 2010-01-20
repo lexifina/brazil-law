@@ -1,0 +1,22 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão do Tribunal Regional Federal da 3ª Região e assim ementado:
+“TRIBUTÁRIO. IMUNIDADE. ENTIDADES SEM FINS LUCRATIVOS. ART. 150, INCISO IV, ALÍNEA C, DA CF. ART. 14 DO CTN. LEI 9.532/97
+1. Para gozar da imunidade estipulada no art. 150, os contribuintes devem ser entidades de educação e assistência social sem fins lucrativos. Devem, ainda, preencher os requisitos estipulados no art. 14 do CTN.
+2. Enquadrando-se no patamares estabelecidos, a instituição tem direito à imunidade, não podendo, o ente público, exigir dela outros pressupostos elem desses já previstos em lei.
+3. O parágrafo primeiro do art. 12 da Lei 9.532/97 impede, expressamente, que a imunidade compreenda os rendimentos e ganhos de capital auferidos em aplicações financeiras de renda fixa ou de renda variável.
+4. A vedação, entretanto, além de conter vício formal por disciplinar limitação ao poder de tributar por meio de lei ordinária, contém uma visão distorcida sobre as aplicações financeiras realizadas pelas instituições sem fins lucrativos.
+5. A pessoa jurídica não pode ter como finalidade ou objetivo lucrar, mas isso não significa que esteja impedida de otimizar suas atividades, auferindo renda que possa ser revertida para proveito e incremento da própria instituição.
+6. O STF pacificou o entendimento de que o §1º do art. 12, assim como o art. 13, caput, e o art. 14 da Lei 9.532/97 não podem ser aplicados ao suspender a eficácia de tais dispositivos legais.
+7. Remessa oficial desprovida.” (fl. 126).
+ A recorrente, com fundamento no art. 102, III, a e b, alega violação ao art. 150, VI, c, da Constituição Federal.
+2.   Inconsistente o recurso.
+ O acórdão impugnado decidiu a causa em perfeita sintonia com a jurisprudência assentada da Corte, como se vê à seguinte ementa exemplar:
+“ I. Ação direta de inconstitucionalidade: Confederação Nacional de Saúde: qualificação reconhecida, uma vez adaptados os seus estatutos ao molde legal das confederações sindicais; pertinência temática concorrente no caso, uma vez que a categoria econômica representada pela autora abrange entidades de fins não lucrativos, pois sua característica não é a ausência de atividade econômica, mas o fato de não destinarem os seus resultados positivos à distribuição de lucros.
+II. Imunidade tributária (CF, art. 150, VI, c, e 146, II): “instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei”: delimitação dos âmbitos da matéria reservada, no ponto, à intermediação da lei complementar e da lei ordinária: análise, a partir daí, dos preceitos impugnados (L. 9532/97, arts. 12 a 14): cautelar parcialmente deferida.
+1. Conforme precedente no STF ( RE 93.770, Muñoz, RTJ 102/304) e na linha da melhor doutrina, o que a Constituição remete à lei ordinária, no tocante à imunidade tributária considerada, é a fixação de normas sobre a constituição e o funcionamento da entidade educacional ou assistencial imune: não, o que diga respeito aos lindes da imunidade, que, quando susceptíveis de disciplina infraconstitucional, ficou reservado à lei complementar.
+2. À luz desse critério distintivo, parece ficarem incólumes à eiva da inconstitucionalidade formal argüida o art. 12 e §§ 2º (salvo a alínea f)e 3º, assim como o parág. único do art. 13; ao contrário, é densa a plausibilidade da alegação de invalidez dos arts. 12, § 2º, f; 13, caput, e 14 e, finalmente, se afigura chapada a inconstitucionalidade não só formal mas também material do §1º do art. 12, da lei questionada.
+3. Reserva à decisão definitiva de controvérsias acerca do conceito da entidade de assistência social, para o fim da declaração da imunidade discutida – como as relativas à exigência ou não da gratuidade dos serviços prestados ou à compreensão ou não das instituições beneficentes de clientelas restritas e das organizações de previdência privada: matérias que, embora não suscitadas pela requerente, dizem com a validade do art. 12, caput, da L. 9.532/97 e, por isso, devem ser consideradas na decisão definitiva, mas cuja deliberação não é necessária à decisão cautelar da ação direta” (ADI nº 1.802-MC, Rel. Min. SEPÚLVEDA PERTENCE, Plenário, DJ de 13.2.2004).
+ 3.  Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int.
+Brasília, 20 de janeiro de 2010.
+Ministro CEZAR PELUSO
+Relator
