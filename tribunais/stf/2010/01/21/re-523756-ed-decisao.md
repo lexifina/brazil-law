@@ -1,0 +1,34 @@
+DECISÃO: 1. Trata-se de embargos de declaração contra decisão do teor seguinte:
+“1. Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Espírito Santo e assim ementado:
+“MANDADO DE SEGURANÇA – FORNECIMENTO DE MEDICAMENTO – DIREITO ASSEGURADO CONSTITUCIONALMENTE A TODO CIDADÃO – PRINCIPALMENTE QUANDO DEMONSTRA A IMPOSSIBILIDADE ECONÔMICA DE ADQUIRI-LOS – SEGURANÇA CONCEDIDA.
+1 - O medicamento é adequado e indispensável à patologia do impetrante, pois trata-se de medicação específica para o seu caso.
+2 – A lei Fundamental estabelece no seu artigo 196 que saúde é direito de todos e dever do Estado.
+3 – Estando o direito à vida e à saúde acima de quaisquer outros, é inadmissível a negativa do medicamento pelo Estado garantidor.
+4 – Ordem concedida. (fls. 83)
+No recurso extraordinário, o recorrente alega violação ao disposto nos arts. 2º, 5º, LIV, 196, da Constituição Federal.
+2. Inadmissível o recurso.
+A recusa do Estado em fornecer o medicamento coloca em risco a saúde de paciente necessitado e representa desrespeito ao disposto no art. 196 da Constituição Federal, que determina ser a saúde direito de todos e dever do Estado.
+Essa regra constitucional tem por destinatários todos os entes políticos que compõem a organização federativa do Estado brasileiro.
+Em caso análogo, decidiu a Segunda Turma no julgamento do RE nº 271.286-AgR, rel. Min. CELSO DE MELLO. Da ementa do acórdão consta:
+“EMENTA: PACIENTE COM HIV/AIDS – PESSOA DESTITUÍDA DE RECURSOS FINANCEIROS – DIREITO À VIDA E À SAÚDE – FORNECIMENTO GRATUITO DE MEDICAMENTOS – DEVER CONSTITUCIONAL DO PODER PÚBLICO (CF, ARTS. 5º, CAPUT, E 196) – PRECEDENTES (STF) – RECURSO DE AGRAVO IMPROVIDO.
+O DIREITO À SAÚDE REPRESENTA CONSEQÜÊNCIA CONSTITUCIONAL INDISSOCIÁVEL DO DIREITO À VIDA.
+- O direito público subjetivo à saúde representa prerrogativa jurídica indisponível assegurada à generalidade das pessoas pela própria Constituição da República (art. 196) . Traduz bem jurídico constitucionalmente tutelado, por cuja integridade deve velar, de maneira responsável, o Poder Público, a quem incumbe formular – e implementar – políticas sociais e econômicas idôneas que visem a garantir, aos cidadãos, inclusive àqueles portadores do vírus HIV, o acesso universal e igualitário à assistência farmacêutica e médico-hospitalar.
+- O direito à saúde – além de qualificar-se como direito fundamental que assiste a todas as pessoas – representa conseqüência constitucional indissociável do direito à vida. O Poder Público, qualquer que seja a esfera institucional de sua atuação no plano da organização federativa brasileira, não pode mostrar-se indiferente ao problema da saúde da população, sob pena de incidir, ainda que por censurável omissão, em grave comportamento inconstitucional.
+A INTERPRETAÇÃO DA NORMA PROGRAMÁTICA NÃO PODE TRANSFORMÁ-LA EM PROMESSA CONSTITUCIONAL INCONSEQÜENTE.
+- O caráter programático da regra inscrita no art. 196 da Carta Política – que tem por destinatários todos os entes políticos que compõem, no plano institucional, a organização federativa do Estado brasileiro – não pode converter-se em promessa constitucional inconseqüente, sob pena de o Poder Público, fraudando justas expectativas nele depositadas pela coletividade, substituir, de maneira ilegítima, o cumprimento de seu impostergável dever, por um gesto irresponsável de infidelidade governamental ao que determina a própria Lei Fundamental do Estado.
+DISTRIBUIÇÃO GRATUITA DE MEDICAMENTOS A PESSOAS CARENTES.
+- O reconhecimento judicial da validade jurídica de programas de distribuição gratuita de medicamentos a pessoas carentes, inclusive àquelas portadoras do vírus HIV/AIDS, dá efetividade a preceitos fundamentais da Constituição da República (arts. 5º, caput, e 196) e representa, na concreção do seu alcance, um gesto reverente e solidário de apreço à vida e à saúde das pessoas, especialmente daquelas que nada têm e nada possuem, a não ser a consciência de sua própria humanidade e de sua essencial dignidade. Precedentes do STF.”
+No mesmo sentido, confiram-se: AI nº 418.320, rel. Min. CARLOS VELLOSO; RE nº 259.415, rel. Min. SEPÚLVEDA PERTENCE; RE nº 198.263, rel. Min. SYDNEY SANCHES; RE nº 242.859, rel Min. ILMAR GALVÃO.
+Por outro lado, dissentir do julgado, exigiria, pois, como é óbvio, reexame de provas, a cuja luz foi à causa decidida, o que é vedado na instância extraordinária (súmula 279).
+3. Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF, art. 38 da Lei nº 8.038, de 28.05.90, e art. 557 do CPC).” (fls. 421-423).
+O embargante argúi omissão do julgado quanto à necessidade de sua intimação da decisão que deferiu a medida liminar. Ademais, alega que a “(...) intimação tardia do ente federativo, realizada em relação ao acórdão ora recorrido, resultou em ofensa ao princípio do contraditório, posto que [sic] restringidos os possíveis argumentos utilizáveis em sua defesa” (fl. 133), razão pela qual pugna pela procedência do recurso extraordinário.
+2.  Inconseqüentes os embargos.
+ Esta Corte já assentou que é nulo o processo de mandado de segurança a partir da falta de intimação, quanto à sentença, da pessoa jurídica de direito público, que é a legitimada passiva para a causa.
+ É que as informações, prestadas pelo agente administrativo, na qualidade de substituto processual anômalo da pessoa jurídica que deva suportar os eventuais efeitos da sentença mandamental, não fazem as vezes de contestação, donde sua falta não tem o condão de induzir os efeitos da revelia, como se vê à seguinte ementa exemplar:
+“MANDADO DE SEGURANÇA. Legitimidade passiva para a causa. Pessoa jurídica de direito público a que pertence a autoridade. Representante processual do ente público. Falta de intimação da decisão concessiva da segurança. Violação do justo processo da lei (due process of law) Nulidade processual absoluta. Pronúncia. Jurisprudência assentada. Decisão mantida. Agravo regimental improvido. Aplicação do art. 3º da Lei nº 4.348/64, com a redação da Lei nº 10.910/2004. Inteligência do art. 5º, incs. LIV e LV, da Constituição da República. É nulo o processo de mandado de segurança a partir da falta de intimação, quanto à sentença, da pessoa jurídica de direito público, que é a legitimada passiva para a causa” (AI nº 431.246 – AgR, da minha relatoria, DJe de 22.11.2007).
+ O caso, porém, é de intimação por ciência inequívoca, que, inferida a certo ato ou fato revelador de conhecimento efetivo, torna dispensável intimação formal (cf. LUIZ GUILHERME MARINONI e DANIEL MITIDIERO, “Código de Processo Civil”, SP, Ed. RT, 2008, p. 233, nº 1). É o que se deduz do termo de vista de fl. 96 e da tempestiva interposição do recurso extraordinário (fl. 97). Não há, pois, lesividade que legitime o recurso.
+3.  Do exposto, rejeito os embargos.
+Publique-se. Int..
+Brasília, 21 de janeiro de 2010.
+Ministro CEZAR PELUSO
+Relator
