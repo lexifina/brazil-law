@@ -1,0 +1,12 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Paraná que declarou nula execução promovida pelo Ministério Público estadual contra ex-vereador, por considerar ilegítima a parte exeqüente, ação esta ajuizada com base em condenação imposta pelo Tribunal de Contas daquela unidade da Federação.
+Opostos embargos de declaração, foram rejeitados (fl. 116)
+Sustenta o recorrente, com base no art. 102, III, a, ter havido ofensa aos arts. 71, § 3º, e 129, III, da Constituição da República. Aduz que
+“(...) a questão da ilegitimidade vem mesclada com a suposta falta de executividade da decisão do Tribunal de Contas, não resistindo, entretanto, a uma simples leitura do art. 71, § 3º, da Carta Magna (...)” (fl. 150) .
+2.  Inconsistente o recurso.
+É que o acórdão recorrido está conforme a orientação assente na Corte, como se vê à seguinte ementa exemplar:
+“RECURSO EXTRAORDINÁRIO. TRIBUNAL DE CONTAS DO ESTADO DE SERGIPE. COMPETÊNCIA PARA EXECUTAR SUAS PRÓPRIAS DECISÕES: IMPOSSIBILIDADE. NORMA PERMISSIVA CONTIDA NA CARTA ESTADUAL. INCONSTITUCIONALIDADE. 1. As decisões das Cortes de Contas que impõem condenação patrimonial aos responsáveis por irregularidades no uso de bens públicos têm eficácia de título executivo (CF, artigo 71, § 3º). Não podem, contudo, ser executadas por iniciativa do próprio Tribunal de Contas, seja diretamente ou por meio do Ministério Público que atua perante ele. Ausência de titularidade, legitimidade e interesse imediato e concreto. 2. A ação de cobrança somente pode ser proposta pelo ente público beneficiário da condenação imposta pelo Tribunal de Contas, por intermédio de seus procuradores que atuam junto ao órgão jurisdicional competente. 3. Norma inserida na Constituição do Estado de Sergipe, que permite ao Tribunal de Contas local executar suas próprias decisões (CE, artigo 68, XI). Competência não contemplada no modelo federal. Declaração de inconstitucionalidade, incidenter tantum, por violação ao princípio da simetria (CF, artigo 75). Recurso extraordinário não conhecido." (RE nº 223.037, Rel Min. MAURÍCIO CORRÊA, Plenário, DJ de 2.8.2002. No mesmo sentido: RE-AgR nº 510.034, Rel. Min. EROS GRAU, Segunda Turma, DJe de 15.8.2008) .
+3.  Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF, art. 38 da Lei nº 8.038, de 28.05.90, e art. 557 do CPC).
+Publique-se. Int..
+Brasília, 22 de janeiro de 2010.
+Ministro CEZAR PELUSO
+Relator
