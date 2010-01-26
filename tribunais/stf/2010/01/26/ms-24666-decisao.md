@@ -1,0 +1,18 @@
+DECISÃO: 1. Trata-se de mandado de segurança impetrado pelo então Senador da República José de Almeida Lima, contra ato do Presidente da Comissão de Constituição, Justiça e Cidadania do Senado Federal, que consubstanciado na interrupção da leitura de voto em separado de sua lavra durante as deliberações realizadas na 32ª Reunião Ordinária da daquela Comissão, no dia 24/09/2003, onde se discutiu a PEC 67/2003 (PEC 40/2003 – CD), que versava sobre a Reforma da Previdência.
+Alega o impetrante, em síntese, que o Presidente da Comissão, ao negar-lhe o direito de proferir o voto em separado, feriu diretamente o art. 5º, XXXV e art. 53 da Constituição Federal, bem como o Regimento Interno do Senado Federal nos seus artigos 132, §6º, I e 412, I, III e IV.
+Pretende o impetrante seja declarada a nulidade da deliberação da PEC 67/2003 (PEC 40/2003 – CD).
+Foram prestadas informações (fls. 373/390)
+A liminar foi indeferida em 22/10/2009 (fls. 539).
+A PGR é pelo não conhecimento do writ (fls. 542/546).
+2.  Inviável o pedido.
+Carece, o impetrante, de direito subjetivo capaz de sustentar a concessão da segurança.
+É que, abstraídos outros aspectos consideráveis, não teria o impetrante, em primeiro lugar, legitimação para exigir observância de suposto direito de proferir voto em separado, porque, ostentando apenas a qualidade de suplente na Comissão de Constituição, Justiça e Cidadania do Senado Federal, só poderia fazê-lo quando previamente convocado, nos termos regimentais (art. 84, § 1º, do RISF), para substituir o único membro titular do Partido, Senador Jefferson Peres, o qual teria estado presente e participado dos trabalhos, na mesma sessão, conforme informações prestadas pela autoridade apontada como coatora (fls. 372/390). Trata-se de poder privativo do membro da Comissão (art. 132, § 6º, I) e que, como tal, não teria sido violado na espécie.
+Em segundo lugar, porque, já não fora suficiente tal razão, consta das mesmas informações e documentos instrutores que o impetrante, posto não convocado para substituir o membro titular presente à sessão, nela teria, durante encaminhamento do recurso interposto ao Plenário, pelo Senador Romero Jucá, usado da palavra, destinando seu tempo à leitura de voto em separado, sem interrupção nem cassação da palavra. Isto é, teria exercitado, na prática, prerrogativa que a rigor lhe não pertenceria como mero membro suplente da Comissão, mas argúi desrespeitada como se lhe pertencera.
+Assim, não houve violação a direito subjetivo do impetrante, que, na condição de suplente de parlamentar, não viu frustrado nem cerceado o exercício de nenhum dos poderes que lhe confere o ordenamento.
+Ademais, esta Corte já assentou que lhe não compete conhecer de alegada vulneração a preceito regimental, quando, suposta sua existência, dela não resulte lesão nem ameaça de lesão, sequer teórica, a direito subjetivo. Sói dizer-se, aí, que, incidindo normas regimentais de caráter só ordinatório, o conflito envolve questões interna corporis, que, sob pena de fratura grave ao princípio da separação, só podem encontrar resposta no âmbito mesmo do Poder Legislativo, a salvo de cognição jurisdicional, cuja garantia de universalidade pressupõe ameaça ou lesão a direito subjetivo (cf. MS nº 24.616, rel. Min. CEZAR PELUSO, DJ de 04/12/2003; MS nº 22.503, rel. Min. MARCO AURÉLIO, DJ de 06/06/1997; MS-AgR nº 21.754, rel. Min. MARCO AURÉLIO, Pleno, DJ de 21/02/1997).
+3.  Do exposto, denego a segurança, nos termos dos arts. 269, I, do CPC e 21, § 1º, do RISTF.
+Publique-se. Int..
+Arquive-se.
+Brasília, 26 de janeiro de 2010.
+Ministro CEZAR PELUSO
+Relator
