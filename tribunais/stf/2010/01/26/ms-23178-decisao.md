@@ -1,0 +1,14 @@
+DECISÃO: 1. Trata-se de mandado de segurança, impetrado por Francisco de Oliveira Ramos, em face de ato praticado pelo Presidente da República, que através do Decreto de 27 de fevereiro de 1998 (fl. 539), aplicou-lhe pena de demissão do quadro de funcionários da Fundação Nacional do Índio – FUNAI.
+ Alegando violação ao princípio do contraditório e da ampla defesa, aduz o impetrante que o processo administrativo disciplinar encontra-se viciado, posto que o cerceamento de defesa em diversas de suas fases acarretaria sua nulidade. Ao final, alega que as infrações a ele imputadas não foram comprovadas de modo inquestionável, devendo, assim, ser anulada a penalidade que lhe foi imposta.
+ Não houve pedido de liminar.
+ Prestadas as informações às fls. 40-453.
+ A Procuradoria Geral da República, em parecer de fls. 546-551, manifestou-se pela denegação da segurança.
+2.  Inviável o pedido.
+ As alegações de existência de vícios procedimentais capazes de nulificar o processo administrativo disciplinar que culminou com a pena de demissão não merecem prosperar. Nas informações prestadas pela Advocacia Geral da União, acompanhadas de farta documentação, está comprovada a plena observância dos procedimentos determinados pela Lei nº 8.112/90, não havendo que se falar em violação aos princípios do contraditório e da ampla defesa. Neste ponto, há jurisprudência pacífica desta Corte no seguinte sentido:
+“Mandado de segurança. Ato do Sr. Presidente da República. Decreto que demitiu impetrante do cargo de Fiscal do Trabalho do Quadro de Pessoal do Ministério do Trabalho. 2. Sustentação de nulidade do processo administrativo disciplinar, por inobservância dos princípios constitucionais da ampla defesa. 3. Informações solicitadas. Liminar indeferida. 4. Parecer da Procuradoria-Geral da República pelo indeferimento do mandado de segurança. 5. O processo administrativo seguiu o rito legal, assegurados o devido processo, ampla defesa e o contraditório. Incabível reapreciar fatos e provas em mandado de segurança. Inocorrência de cerceamento de defesa ou ofensa ao princípio do contraditório. 6. Mandado de segurança indeferido, ressalvadas ao impetrante as vias ordinárias.” (MS nº 22.737, Min. Rel. NÉRI DA SILVEIRA, DJ de 06/08/08)
+ Ademais, perquirir se as infrações imputadas ao impetrante foram ou não cabalmente comprovadas, é matéria sujeita a dilação probatória, inviável nesta sede. Nesse sentido, as decisões proferidas nos seguintes julgados: MS nº 24.383, Rel. Min. ELLEN GRACIE, DJ de 25.11.2002; MS nº 25.795, Rel. Min. EROS GRAU, DJ de 21.02.2006; MS nº 26.160, Rel. Min. CARLOS BRITTO, DJ de 14.11.2006 e MS nº 26.527, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 25.04.2007.
+3.     Do exposto, nos termos do art. 21, § 1º, do RISTF, denego a segurança.
+ Publique-se. Int..
+Brasília, 26 de janeiro de 2010.
+Ministro CEZAR PELUSO
+Relator
