@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. AUTARQUIA. IMUNIDADE RECÍPROCA. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS INCIDENTE SOBRE SERVIÇOS DE ENERGIA ELÉTRICA E TELEFONIA. 1. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL: DESNECESSIDADE. INTIMAÇÃO DO ACÓRDÃO RECORRIDO ANTERIOR A 3.5.2007. 2. INEXISTÊNCIA DE IMUNIDADE. PRECEDENTES. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+“UNIVERSIDADE FEDERAL DE PERNAMBUCO – UFPE. AUTARQUIA FEDERAL. IMUNIDADE. ICMS INCIDENTE NAS FATURAS MENSAIS DE SUAS TARIFAS DE ENERGIA ELÉTRICA E TELEFONE. LEGITIMIDADE DA COBRANÇA.
+- A imunidade conferida às autarquias e fundações instituídas e mantidas pelo Poder Público (art. 150, § 2º, CF) não abrange o ICMS incidente sobre a prestação de serviços de energia elétrica e telefonia, com efeito o imposto é indireto e não repercute juridicamente nas pessoas jurídicas de direito público, senão nas entidades concessionárias, prestadoras dos serviços.
+- O sujeito passivo da obrigação jurídico-tributária em comento é o prestador do respectivo serviço, não o tomador, ainda que para ele seja repassado o ônus financeiro da exação, como parte do preço. Precedentes.
+- Remessa e apelação improvidas” (fl. 317).
+2. A Recorrente alega que o Tribunal a quo teria contrariado o art. 150, inc. VI, alínea a, e § 2º, da Constituição da República.
+Argumenta que “Não se pode arguir (...) contra a imunidade tributária, que o contribuinte do ICMS é a empresa concessionária do serviço público, que simplesmente repassa o imposto pelo fenômeno da ‘repercussão tributária’, posto que, no caso da UFPE (autarquia educacional), que depende exclusivamente dos recursos oriundos do Tesouro Nacional, não existe o repasse do imposto a outros consumidores, pois a Universidade é o consumidor final, absorvendo integralmente o ônus tributário do imposto” (fl. 330).
+Apreciada a matéria trazida na espécie, DECIDO .
+3. Inicialmente, quanto à preliminar de repercussão geral, é de se anotar que a então Recorrente foi intimada do acórdão recorrido antes de 3.5.2007, o que dispensa a demonstração da repercussão geral da questão constitucional em capítulo especial do recurso extraordinário, nos termos do que decidido pelo Plenário do Supremo Tribunal Federal no Agravo de Instrumento 664.567-QO, Relator o Ministro Sepúlveda Pertence.
+4. Razão jurídica não assiste à Recorrente.
+5. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a imunidade tributária pressupõe a instituição de imposto incidente sobre serviço, patrimônio ou renda do ente da administração pública direta ou indireta, o que não ocorre quanto ao imposto incidente sobre fornecimento de energia elétrica ou serviços de telefonia, pois, nesses casos, o contribuinte é a concessionária.
+Nesse sentido os seguintes julgados:
+“CONSTITUCIONAL. TRIBUTÁRIO. ANÁLISE DE LEGISLAÇÃO ORDINÁRIA. OFENSA INDIRETA À CONSTITUIÇÃO. ICMS. MUNICÍPIO. CONTRIBUINTE DE FATO. IMUNIDADE TRIBUTÁRIA RECÍPROCA. INAPLICÁVEL. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão com base na legislação ordinária e na jurisprudência do STJ. A ofensa à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. II - A imunidade de que trata o art. 150, VI, a, da Constituição somente se aplica ao imposto incidente sobre serviço, patrimônio ou renda. III - Como não é contribuinte de direito do ICMS relativo a serviços de energia elétrica e telefonia, o Município não é beneficiário da imunidade prevista no art. 150, VI, a, da Constituição. Precedentes. IV - Agravo regimental improvido” (AI 634.050-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 14.8.2009).
+“CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMUNIDADE. ICMS. ENERGIA ELÉTRICA. ART. 150, VI, a, DA CF. MUNICÍPIO DE SANTARÉM. SERVIÇO PRESTADO POR CONCESSIONÁRIA. INAPLICABILIDADE. 1. A imunidade tributária pressupõe a instituição de imposto incidente sobre serviço, patrimônio ou renda do próprio Município, o que não ocorre no caso, já que o fornecimento de energia elétrica é prestado por intermédio da concessionária. Precedentes. 2. Agravo regimental improvido” (AI 574.042-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJ 29.10.2009).
+Dessa orientação não divergiu o acórdão recorrido.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 27 de janeiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
