@@ -1,0 +1,25 @@
+DECISÃO: 1. Trata-se de agravo regimental contra decisão do teor seguinte:
+“1. Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de São Paulo que determinou a incidência de juros moratórios sobre precatório submetido ao regime do art. 33 do ADCT, mas pago fora do prazo constitucionalmente previsto.
+Opostos embargos de declaração, foram rejeitados (fl. 170).
+O recorrente sustenta, com base no art. 102, III, a, violação ao disposto nos arts. 100, § 4º, da Constituição da República, e 33 do ADCT.
+2.  Inconsistente o recurso.
+É que o Plenário desta Corte ao julgar o RE nº 155.979, Rel. Min. MARCO AURÉLIO, DJ 23.02.01, não só admitiu a aplicação da norma do artigo 33 do ADCT da Constituição Federal aos precatórios decorrentes de desapropriação, mas também decidiu no sentido da exclusão dos juros moratórios e compensatórios relacionados ao período posterior à promulgação da referida Carta Magna. O aresto está sintetizado na ementa:
+“JUROS – DÉBITO DA FAZENDA – ARTIGO 33 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. O preceito no artigo 33 do Ato das Disposições Constitucionais Transitórias encerra uma nova realidade. Faculta-se ao Estado a satisfação dos valores pendentes de precatórios, neles incluídos os juros remanescentes. Observadas as épocas próprias das prestações – vencimentos – impossível é cogitar da mora, descabendo, assim, a incidência dos juros, no que pressupõem inadimplemento e, portanto, a “mora solvendi”. Os compensatórios têm incidência cessada em face da referência apenas aos remanescentes e às parcelas tidas como iguais e sucessivas.”
+Por decorrência lógica, tal entendimento conduz às seguintes conclusões: 1ª) o inadimplemento que autoriza a incidência dos juros moratórios somente pode ser reconhecido após a fluência do prazo constitucionalmente assegurado ao Poder Público para o cumprimento da obrigação; e 2ª) sobrevindo situação de atraso no pagamento do precatório no prazo constitucionalmente estabelecido – seja por falta de pagamento ou pagamento insuficiente –, configurada estará a mora do Poder Público, o que autorizará, a partir de então, a incidência de juros moratórios sobre a parcela não adimplida.
+Dessa orientação não divergiu o acórdão recorrido.
+3.  Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF, art. 38 da Lei nº 8.038, de 28.05.90, e art. 557 do CPC).” (fls. 228-229) .
+Alega o recorrente que a decisão agravada estaria em confronto com a jurisprudência desta Corte. Transcreve precedentes em sentido contrário ao da decisão atacada.
+2.  Com razão o agravante.
+Noto que o acórdão recorrido está em desconformidade com o entendimento assentado e ratificado pelo Plenário da Corte, nos termos desta ementa, que o sintetiza:
+“AGRAVO REGIMENTAL NA INTERVENÇÃO FEDERAL. CRÉDITO DE NATUREZA ALIMENTAR. DEPÓSITO PARCIAL. CÁLCULO COMPLEMENTAR DE LIQUIDAÇÃO. NECESSIDADE DA EXPEDIÇÃO DE NOVO PRECATÓRIO. PRECEDENTES.
+1. Precatório de natureza alimentar. Complementação do depósito para quitação do débito, somente quando comprovada a existência de erro material, aritmético ou de inexatidão dos cálculos. Precedente.
+2. Eventual diferença apurada no cálculo complementar da liquidação. Pagamento imediato. Impossibilidade. Exigência da expedição de novo precatório.
+3. Hipótese anterior à Emenda Constitucional 37/2002, que veda a expedição de precatório complementar ou suplementar de valor pago.
+Agravo regimental a que se nega provimento” (IF nº 4.211-AgR, Rel. Min. MAURÍCIO CORRÊA, DJ de 28.5.2004. No mesmo sentido: IF nº 3.065-AgR, Rel. Min. MAURÍCIO CORRÊA, DJ de 6.2.2004; RE nº 168.019, Rel. Min. ILMAR GALVÃO, DJ de 2.8.96; AI nº 449.596, Rel. Min. ELLEN GRACIE, DJ de 19.11.2003; RE nº 413.084, Rel. Min. NELSON JOBIM, DJ de 11.3.2004; RE nº 428.664, Rel. Min. CARLOS BRITTO, DJ de 15.10.2004) .
+Essa postura invariável, que exige expedição de novo precatório, funda-se em que todo pagamento de débitos da Fazenda Pública é disciplinado pelo art. 100 e §§ da Constituição da República. A Emenda Constitucional nº 37/2002, que introduziu o § 4º do art. 100 da Constituição, apenas positivou a orientação fixada pela Corte, ao vedar expedição de precatório complementar ou suplementar.
+É o entendimento assente da Corte, que decidiu, no julgamento da ADI nº 2.924 (Rel. Min. CARLOS VELLOSO, Pleno, DJ de 21.9.2007), com nosso voto vencedor declarado, que há necessidade de expedição de novo precatório e nova citação da devedora no processo executório, exceto nas hipóteses de inexatidão aritmética, erro material ou substituição de índice já extinto (No mesmo sentido: AI nº 534.539-AgR, Rel. Min. GILMAR MENDES, DJ de 14.9.2007).
+3.  Ante o exposto, atendo ao agravo regimental e reconsidero a decisão de fls. 228-229, para conhecer do recurso extraordinário e dar-lhe provimento, determinando a expedição de precatório e nova citação da devedora, nos termos dos arts. 100, § 1º, da Constituição, e 730 do CPC.
+Publique-se. Int..
+Brasília, 28 de janeiro de 2010.
+Ministro CEZAR PELUSO
+Relator
