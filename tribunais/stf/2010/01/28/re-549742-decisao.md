@@ -1,0 +1,16 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça da Bahia e assim ementado:
+“APELAÇÃO CÍVEL. PROCEDIMENTO SUMÁRIO. DIFERENÇA SALARIAL. A alegação do Apelante de que a Lei nº 101/1998, ao fixar o salário base da Apelada em R$ 360,00 (trezentos e sessenta) reais revogou dispositivos de leis anteriores, é despicienda para afastar o direito da Apelada, haja vista que, mesmo inexistindo o dispositivo legal que lhe garantia salário em dobro do percebido pelo professor com carga horária de 20 horas, tal direito não seria afastado, porquanto, em sendo o mínimo legal a remuneração salarial para esta carga horária, obrigatoriamente, a remuneração da Apelante teria que corresponder ao dobro, porquanto, em dobro sua carga horária, independentemente de vinculação pela legislação municipal.
+Tendo sido a Lei Municipal nº 101/1998, anterior ao reajuste do salário mínimo, de abril de 2002, que o elevou para R$ 200,00 (duzentos) reais, obviamente, que a remuneração devida pelo Município aos professores com carga horária de 20 (vinte) horas foi automaticamente reajustada para o mínimo legal, por força do disposto no inciso IV do art. 7º da Constituição Federal. Assim sendo, os professores que prestavam serviço em carga horária correspondente ao dobro, ou seja, 40 (quarenta) horas semanais, teriam a sua remuneração em dobro, ou seja, R$ 400,00 (quatrocentos) reais, independentemente de previsão em legislação municipal, pois caberia ao Município editar imediatamente lei adequando a sua legislação à nova realidade salarial em face do comando constitucional. Negou-se provimento ao apelo.” (fl. 55).
+ Sustenta o recorrente, com base no art. 102, III, a, ofensa ao art, 7º, IV, da Constituição Federal.
+2.  Consistente o recurso.
+ A orientação desta Corte é assente, no sentido de que a fixação do piso salarial de servidor público em múltiplos do salário mínimo ofende o art. 7º, IV, da Constituição Federal, que, de eficácia imediata, vedou a vinculação do salário mínimo para qualquer fim (cf. RE nº 233.622, Rel. Min. ILMAR GALVÃO, DJ de 25.6.99).
+ Nem pode o Judiciário conceder a servidor público vantagem não prevista em lei, com suporte no princípio da isonomia, como, em caso análogo, já decidiu esta Corte:
+“ADMINISTRATIVO. ESTADO DO PARÁ. ENGENHEIROS AGRÔNOMOS DA SECRETARIA DE AGRICULTURA. PRETENDIDOS VENCIMENTOS CORRESPONDENTES A OITO VEZES E MEIA O VALOR DO SALÁRIO MÍNIMO, COMO RECONHECIDO A PARTE DA CATEGORIA PELA JUSTIÇA DO TRABALHO.
+O princípio constitucional da separação dos poderes impede que os Juízes e Tribunais – que não dispõem de função legislativa – contemplem servidores públicos com vantagens não previstas em lei, a título de aplicação do princípio da isonomia.
+Orientação jurisprudencial do STF consagrada na Súmula nº 339.
+Recurso conhecido e provido” (RE nº 242.968, Rel. Min. ILMAR GALVÃO, DJ de 29.10.99).
+3.  Do exposto, e com fundamento no art. 557, § 1º-A, do CPC, com a redação dada pela Lei nº 9.756/98, conheço do recurso e dou-lhe provimento, para julgar improcedente a ação, invertidos os ônus da sucumbência. O valor dos honorários será fixado pelo juízo na execução do julgado, à vista do valor da causa.
+ Publique-se. Int..
+Brasília, 28 de janeiro de 2010.
+Ministro CEZAR PELUSO
+Relator
