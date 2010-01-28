@@ -1,0 +1,19 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal Superior do Trabalho e assim ementado:
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. 1. ADICIONAL DE PERICULOSIDADE. O Regional, amparado na prova pericial, concluiu que o reclamante estava exposto à condição de risco enquanto exerceu suas atividades. Incidência da Súmula nº 126 do TST como óbice ao conhecimento da revista.
+2. DIFERENÇAS DO PDI. REFLEXOS DO ADICIONAL DE PERICULOSIDADE. O regional observou estritamente os termos contidos no memorando do diretor de recursos humanos acostado aos autos, de forma que a integração do adicional de periculosidade na indenização decorrente do plano não viola o artigo 114 do CCB.
+3. REFLEXOS DO ADICIONAL DE PERICULOSIDADE NAS HORAS EXTRAS. O acórdão recorrido encontra-se em consonância com a Súmula nº 132, I, do TST, não havendo que se falar em violação do artigo 193 da CLT ou em divergência jurisprudencial válida em face do disposto no artigo 896, § 4º, da CLT.
+4. HORAS EXTRAS. BASE DE CÁLCULO. Como asseverado no despacho agravado, não houve sucumbência da reclamada em relação a este tópico. Assim, fica prejudicado o recurso nesse particular.
+5. HONORÁRIOS PERICIAIS. A investigação a respeito do grau de complexidade envolvido no trabalho desenvolvido pelo “expert”, com vista à fixação da remuneração respectiva, constitui a natureza extraordinária do recurso de revista, porquanto envolve o exame do conjunto probatório, a atrair a aplicação da Súmula 126/TST. Agravo de instrumento não-provido.” (fl. 276)
+Sustenta o recorrente, com base no art. 102, III, a, violação aos arts. 5º, LIV e LV e 93, IX, da Constituição da República.
+2.  Conquanto admissível o agravo, inviável o recurso extraordinário.
+ Observa-se claramente que o acórdão impugnado limitou-se a aplicar a legislação processual pertinente ao caso. Ora, é pacífica a jurisprudência desta Corte, no sentido de se não admitir, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+ De igual modo, suposta violação às garantias constitucionais do contraditório e da ampla defesa configuraria, aqui, ofensa meramente reflexa à Constituição da República, porque sua eventual caracterização dependeria de exame prévio de norma infraconstitucional, o que também é inadmissível, como já notou a Corte em casos análogos:
+“(...) as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário” (AI nº 372.358-AgR, Rel. Min. CELSO DE MELLO, DJ de 11.6.2002. Nesse sentido: AI nº 360.265-AgR, Rel. Min. CELSO DE MELLO, DJ de 20.9.2002).”
+ E, quanto à alegação de ofensa ao art. 93, IX, da Constituição da República, observo que o acórdão está devidamente fundamentado, e é o que basta, pois, como se decidiu no RE nº 140.370 (Rel. Min. SEPÚLVEDA PERTENCE, DJ de 21.5.93):
+“(...)
+O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional”.
+3.  Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC)
+Publique-se. Int..
+Brasília, 28 de janeiro de 2010.
+Ministro CEZAR PELUSO
+Relator
