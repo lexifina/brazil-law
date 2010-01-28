@@ -1,0 +1,21 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão que manteve deferimento de pedido de demissão voluntária de oficial do quadro do Exército, independentemente do pagamento das despesas realizadas pela administração militar com a sua formação profissional.
+O julgado está assim ementado:
+“ADMINISTRATIVO – PROCESSUAL CIVIL – MILITAR - DEMISSÃO DE OFICIAL – CONDICIONAMENTO A PAGAMENTO DE INDENIZAÇÃO POR DESPESAS COM FORMAÇÃO – IMPOSSIBILIDADE – FIXAÇÃO DE DIRETRIZES PARA O CÁLCULO – JULGAMENTO EXTRA PETITA
+I - A Administração Militar não pode se negar a conceder a demissão de militar sob o argumento de que o mesmo não ressarciu as despesas com sua formação, eis que se trata de cerceamento inconstitucional.
+II – A União dispõe de meios próprios para cobrança dos créditos referentes ao ressarcimento das despesas com o aperfeiçoamento do militar.
+III – Configura julgamento extra petita a exclusão, no cálculo da indenização, das despesas de caráter individual se a parte autora não deduziu pedido nesse sentido, limitando-se a requerer a declaração do seu direito de discutir o débito a ser cobrado em ação própria” (fl. 141).
+Alega a recorrente, com base no art. 102, III, a, da Constituição da República, violação aos seus arts. 5º, II e XIII e 142, X. Aduz, nesse sentido, que, pela atribuição constitucional, os membros das Forças Armadas formariam uma categoria especial e peculiar de servidores, porquanto suas ações seriam norteadas pelos princípios da hierarquia e da disciplina.
+Assim, aqueles que se engajam na carreira castrense e que, eventualmente, participassem de curso de formação teriam conhecimento, prévio de que o licenciamento a pedido somente seria deferido mediante indenização das despesas efetuadas pelo Exército.
+2.  Inconsistente o recurso.
+O ilustre Subprocurador-Geral da República WAGNER DE CASTRO MATHIAS NETTO, cujo parecer adoto como razões de decidir, resumiu a hipótese e, em seguida, opinou, nos seguintes termos:
+“(...) Com efeito, não pode o Exército [Brasileiro] condicionar o desligamento voluntário do militar ao pagamento de qualquer indenização, eis que tal ato obstaculiza o exercício dos direitos fundamentais assegurados na Lei Maior, não se coadunando com os postulados que regem o Estado de Direito, cumprindo a Administração tomar as providências necessárias ao ressarcimento dos prejuízos decorrentes di investimento na formação especializada.
+Assim, ao contrário do que se alega, o decisum hostilizado extraiu correta aplicação do artigo 5º, incisos II e XII da Carta Política, não merecendo qualquer reparo.” (fl. 183).
+Noutras palavras, o procedimento administrativo adotado pelo Estado em vincular o desligamento, a pedido, de militar dos quadros das Forças Armadas, ao ressarcimento de despesas com sua formação profissional, esbarra na jurisprudência assentada desta Corte, bem refletida, mutatis mutandis, nas súmulas 70, 323 e 547, no sentido de negar validade à imposição, ao arbítrio da autoridade fiscal, de restrições de caráter punitivo à inadimplência do contribuinte, mormente porque dispõe de meios eficazes para cobrança.
+Nesse sentido, entre outros, menciono o RE nº 216.983-AgR (Rel. Min. CARLOS VELLOSO, DJ de 13.11.98):
+“CONSTITUCIONAL. TRIBUTÁRIO. ICMS: REGIME ESPECIAL. RESTRIÇÕES DE CARÁTER PUNITIVO. LIBERDADE DE TRABALHO. CF/67, art. 153, § 23; CF/88, art. 5º, XIII. I. - Regime especial de ICM, autorizado em lei estadual: restrições e limitações, nele constantes, à atividade comercial do contribuinte, ofensivas à garantia constitucional da liberdade de trabalho (CF/67, art. 153, § 23; CF/88, art. 5º, XIII), constituindo forma oblíqua de cobrança do tributo, assim execução política, que a jurisprudência do Supremo Tribunal Federal sempre repeliu (Súmulas nºs 70, 323 e 547). II. - Precedente do STF: ERE 115.452-SP, Velloso, Plenário, 04.10.90, _DJ_ de 16.11.90. III. - RE não admitido. Agravo não provido.”
+No presente caso, tem-se a mesma razão que governou o precedente. Deve incidir, pois, o princípio enunciado nas súmulas aí citadas.
+3.  Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+ Brasília, 28 de janeiro de 2010.
+Ministro CEZAR PELUSO
+Relator
