@@ -1,0 +1,22 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão do Superior Tribunal de Justiça e assim ementado:
+“PROCESSO CIVIL. ADMINISTRATIVO. SERVIÇO NOTARIAL E REGISTRAL. MANDADO DE SEGURANÇA. PRAZO DECADENCIAL. RECURSO ADMINISTRATIVO. INCIDÊNCIA DA SÚMULA 430/STF. RECURSO ORDINÁRIO CONHECIDO E IMPROVIDO.
+1. Consoante firme posicionamento da jurisprudência do Superior Tribunal de Justiça, o prazo decadencial para impetração do mandado de segurança não se interrompe nem se suspende em razão de pedido de reconsideração ou da interposição de recurso administrativo ao qual não seja dado efeito suspensivo. Precedentes. 2. Na hipótese, o recorrente teve ciência inequívoca do ato que teria violado seu direito líquido e certo de ser efetivado na titularidade do Cartório de Registro Geral de Imóveis da 2ª Circunscrição da Comarca de Anápolis/GO em 17/1/2001; porém o presente mandado de segurança somente foi impetrado em 26/11/2001, de modo que é forçoso reconhecer a decadência. 3. Recurso ordinário conhecido e improvido.” (fl. 183).
+ Não foram opostos embargos de declaração.
+ O recorrente sustenta, com base no art. 102, III, a, violação aos arts. 5º, II e XXXV, da Constituição da República.
+2.  Inadmissível o recurso.
+ Com efeito, os temas constitucionais suscitados no recurso extraordinário não foram objeto de consideração no acórdão recorrido, faltando-lhes, assim, o requisito do prequestionamento, que deve ser explícito (súmulas 282 e 356).
+ Ademais, já assentou esta Corte que,
+“ainda que a questão constitucional surja originariamente no acórdão, para que haja o prequestionamento dela (...), se faz mister que seja ela alegada em embargos de declaração, sob o fundamento de que houve omissão na apreciação da questão sob o ângulo constitucional, para que se possibilite ao Tribunal a quo que se manifeste sobre esse ponto” (AI nº 242.317-AgR, Rel. Min. MOREIRA ALVES, DJ de 10.12.99).
+ Isso significa que, para se configurar o prequestionamento, não basta que o acórdão impugnado haja apreciado originariamente a questão, mas que o tenha feito já sob o prisma e à luz da norma constitucional que, no recurso extraordinário, se argúi ofendida. Se o não fez, então seria mister oposição de embargos declaratórios que provocassem o tribunal a reexaminar a questão, agora do ponto de vista constitucional. Sem tal oportunidade, não há como falar em questionamento prévio de matéria constitucional.
+ Ainda que assim não fosse, melhor sorte não teria o recurso. É que para decidir a causa, o acórdão recorrido baseou-se em exame do conjunto fático-probatório, como se verifica do seguinte excerto:
+“Na hipótese, diante do falecimento do titular do Cartório de Registro Geral de Imóveis da 2ª Circunscrição da Comarca de Anápolis/GO em 27/10/2000, o recorrente, suboficial e substituto do titular, requereu administrativamente sua efetivação na titularidade da referida serventia. O pedido foi indeferido pelo Presidente do tribunal de Justiça de Goiás em decisão publicada em 71/1/2001. Dessa decisão, o recorrente interpôs recurso administrativo, ao qual foi negado provimento pelo órgão Especial daquele tribunal em acórdão publicado no dia 26/9/2001.
+(...)
+Assim, tendo em vista a ausência de efeito suspensivo para o recurso administrativo interposto pelo recorrente e os precedentes citados acima, forçoso reconhecer a decadência na espécie, já que o presente mandado de segurança somente foi impetrado em 26/11/2001. (...)” (fl. 183).
+ Dissentir dessas avaliações factuais, que levaram ao teor decisório do julgado, exigiria, como é óbvio, reexame de fatos e provas, a cuja luz foi a causa decidida, o que é vedado na instância extraordinária (súmula 279).
+ Por fim, quanto à alegação de ofensa ao art. 5º, XXXV, da Carta Magna, é de todo aplicável a jurisprudência desta Corte, no sentido de que
+“(...) as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário” (AI nº 372.358-AgR, Rel. Min. CELSO DE MELLO, DJ de 11.6.2002).
+3.  Do exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+ Brasília, 28 de janeiro de 2010.
+Ministro CEZAR PELUSO
+Relator
