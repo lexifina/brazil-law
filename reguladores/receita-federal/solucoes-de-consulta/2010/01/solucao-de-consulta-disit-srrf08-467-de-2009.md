@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF08 nº 467, de 15 de dezembro de 2009
+Assunto: Imposto sobre Produtos Industrializados - IPI ESTABELECIMENTO EQUIPARADO A INDUSTRIAL POR OPÇÃO. Equiparam-se a estabelecimento industrial por opção os estabelecimentos comerciais que derem saída a bens de produção, aí incluídas as matérias-primas, para estabelecimentos industriais ou revendedores. O exercício da opção será formalizado mediante alteração dos dados cadastrais do estabelecimento, no Cadastro Nacional da Pessoa Jurídica -CNPJ, para sua inclusão como contribuinte do imposto. Dispositivos Legais: Decreto nº 4.544, de 2002 -Ripi/02, arts. 11 a 13 e 519, inciso I.
+[arquivo anexo: SC SRRF08-Disit nº 467-2009.pdf]
