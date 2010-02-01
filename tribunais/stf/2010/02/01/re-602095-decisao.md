@@ -1,0 +1,35 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. 1) CONTROVÉRSIA SOBRE A INTERPRETAÇÃO DO ART. 192 DA LEI N. 8.112/90: OFENSA CONSTITUCIONAL INDIRETA. 2) NECESSIDADE DE REEXAME DE PROVA: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“CONSTITUCIONAL. ADMINISTRATIVO. APOSENTADORIA. PROVENTOS. TETO CONSTITUCIONAL. ART. 37, XI, DA CONSTITUIÇÃO FEDERAL. EXCLUSÃO DE VANTAGENS PESSOAIS. ART. 192 DA LEI 8.112/90. ART. 5 LEI 8.852/94. CONSECTÁRIOS LEGAIS.
+. Segundo precedentes dos Tribunais Superiores, os proventos da aposentadoria dos servidores públicos estão sujeitos ao teto máximo da Carta Política, previsto no art. 37, XI, excluídas as vantagens de caráter pessoal.
+. A vantagem do art. 192, II, da Lei nº 8.112/90 é considerada de caráter pessoal, devendo ser excluída da remuneração para aferição do teto, assim como os valores percebidos por força do art. 5º da Lei nº 8.852/94 e de decisão judicial.
+. Regra não aplicável à Gratificação por Desempenho de Atividade Judiciária, por constituir parcela remuneratória inerente ao exercício do cargo e com alcance a toda a carreira.
+. Correção monetária fixada na esteira dos precedentes da Turma.
+. Juros de mora, a contar da citação, fixados em 12% ao ano, pois revogado, pelo Código Civil de 2002, o art. 1º-F da Lei nº 9.494/97, acrescentado pela Medida Provisória nº 2.180-35/2001. Precedentes do STJ.
+. Sucumbindo o autor de parte mínima do pedido, o pagamento dos honorários advocatícios incumbe à ré.
+. Prequestionamento quanto à legislação invocada estabelecido pelas razões de decidir.
+.Apelação parcialmente provida” (fl. 209 – grifos nossos).
+2. A Recorrente afirma que o Tribunal a quo teria ofendido o art. 37, inc. XI, da Constituição da República.
+Alega que:
+“A ausência de regulamentação do inciso XI do artigo 37 da Constituição Federal, sobre o limite da remuneração do funcionalismo público federal, faz com que ela continue regida pelas Leis ns. 8.448/92 e 8.852/94, excluindo-se o somatório, para tais efeitos, das parcelas de caráter pessoal (...).
+(...) A leitura do artigo 192, incisos I e II, da Lei n. 8.112/90, leva à conclusão de que a parcela em tela não traduz vantagem individual (...).
+(...) Conforme se comprova pelas fichas financeiras anexas, a Autora, desde janeiro de 2001, não sofre mais limite da remuneração do funcionalismo público federal” (fls. 216-217 – grifos nossos).
+Apreciada a matéria trazida na espécie, DECIDO .
+3. Razão jurídica não assiste à Recorrente.
+4. A controvérsia sobre a natureza jurídica da parcela remuneratória prevista no art. 192, inc. II, da Lei n. 8.112/90 não enseja o recurso extraordinário, pois eventual ofensa constitucional seria indireta.
+Além disso, a necessidade de reexame de fichas financeiras atrai a incidência da Súmula 279 do Supremo Tribunal Federal e também não viabiliza o recurso extraordinário.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROVENTOS. SERVIDOR PÚBLICO. CÁLCULO. ARTIGO 192 DA LEI N. 8.112/90. MATÉRIA INFRACONSTITUCIONAL. 1. A questão relativa ao cálculo dos proventos de inatividade de servidor público está adstrita à análise da legislação infraconstitucional que disciplina a espécie. Agravo regimental a que se nega provimento” (RE 408.788-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 27.6.2008).
+“RECURSO. Extraordinário. Inadmissibilidade. Agravo de instrumento. Não conhecimento. Interpretação do artigo 192, II, da Lei nº 8.112/90. Ofensa constitucional indireta. Aplicação da súmula 279. Agravo regimental não provido. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, de reexame de provas” (AI 551.047-AgR, Rel. Min. Cezar Peluso, Primeira Turma, DJ 9.6.2006).
+“Agravo regimental em agravo de instrumento. 2. Servidores públicos federais aposentados. Vantagem prevista no art. 192, II, da Lei no 8.112/90. Matéria restrita ao âmbito da legislação infraconstitucional. Ofensa reflexa à Constituição. Precedentes. 3. Agravo regimental a que se nega provimento” (AI 484.757-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 14.10.2005).
+“Recurso extraordinário: descabimento: questão relativa ao cálculo de proventos de inatividade de servidor público, decidida à luz do art. 192, II, da L. 8.112/90: alegada ofensa ao texto constitucional que, além de não prequestionada (Súmula 282), seria, se ocorresse, indireta ou reflexa, que não enseja reexame no RE: incidência, mutatis mutandis, da Súmula 636” (AI 495.833-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 3.9.2004).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. 2. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 93, IX, da Constituição Federal. Ofensa constitucional indireta. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI 508.047-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 21.11.2008 – grifos nossos).
+“Recurso extraordinário: descabimento, quando fundado na alegação de ofensa reflexa à Constituição. 1. Tem-se violação reflexa a Constituição, quando o seu reconhecimento depende de rever a interpretação dada a norma ordinária pela decisão recorrida, caso em que e a hierarquia infraconstitucional dessa última que define, para fins recursais, a natureza de questão federal. 2. Admitir o recurso extraordinário por ofensa reflexa ao princípio constitucional da legalidade seria transformar em questões constitucionais todas as controvérsias sobre a interpretação da lei ordinária, baralhando as competências repartidas entre o STF e os tribunais superiores e usurpando até a autoridade definitiva da Justiça dos Estados para a inteligência do direito local” (AI 134.736-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 17.2.1995).
+5. Não há, pois, o que prover quanto às alegações da Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
