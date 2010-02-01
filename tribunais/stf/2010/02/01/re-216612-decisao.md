@@ -1,0 +1,17 @@
+DECISÃO : Na inicial da ação que deu origem ao presente recurso extraordinário, o autor, ora recorrido, narra que passou à reserva em 25 de agosto de 1977, compulsoriamente, por ter completado seis anos no posto de capitão do Exército.
+Os proventos foram concedidos na proporção 24/30 do soldo, por contar à época com apenas 23 anos e 9 nove meses de serviço. As demais parcelas recebidas passaram a incidir sob 24/30 do soldo.
+Em 1981, entrou em vigor a lei 6.880/1980, que deferiu aos que fossem compulsoriamente transferidos à reserva o direito de receberem proventos calculados sob o soldo integral do posto ou graduação. Este direito não foi estendido aos militares que já se encontravam na reserva antes da publicação da lei 6.880/1980.
+O autor alega que a lei 6.880/1980, na parte em que excluiu da sua aplicação os militares transferidos para a reserva antes da referida lei, foi revogada pela Constituição de 1988 (art. 40, § 4º, c/c art. 42, § 10, na redação original). Requer que a ação seja julgada procedente para reconhecer o direito de receber os proventos calculados sobre o soldo integral do posto de capitão, a partir de 1º de abril de 1989, com repercussão nas gratificações a que tem direito, mencionadas às fls. 14.
+Na contestação, a União fez referência à Súmula 359 deste Supremo.
+A sentença julgou improcedente o pedido.
+O acórdão recorrido possui a seguinte ementa:
+     “MILITAR. ADMINISTRATIVO. PROVENTOS DA RESERVA REMUNERADA. INTEGRALIDADE. 1. O militar que passou para a reserva remunerada, por limite de permanência no posto que ocupava, antes de 1.1.81, início da vigência da Lei no 6.880/80, art. 50, III, tem direito à revisão dos seus proventos para adequá-los, quanto aos cálculos, aos ditames consagrados nos dispositivos legais supra citados. 2. Expressão exercível, portanto de imediato cumprimento, é a contida no art. 40, § 4º, c/c 10º, art. 42, ADCT, tudo da Carta Magna.  3. O princípio da igualdade não permite que se estabeleça discriminação quanto aos proventos de militares transferidos para a reserva remunerada, em situação idêntica, independentemente do tempo em que tal ato ocorre. 4. Apelação provida.”
+No recurso extraordinário, a União defende que o art. 40, § 4º c/c o art. 42, § 10, da Constituição não autorizam a aplicação de legislação posterior ao cálculo dos proventos do recorrido.
+A Procuradoria Geral da República opinou pelo provimento do recurso.
+Filio-me à conclusão a que chegou a Segunda Turma no julgamento do RE 193.124, rel. min. Marco Aurélio, DJ 20.03.1998. O art. 40, § 4º não pode ser aplicado de forma retroativa, de forma a justificar revisão do cálculo dos proventos já concedidos tomando-se por base legislação posterior à inatividade e anterior à Constituição. Reproduzo a ementa daquele acórdão:
+“PROVENTOS DA APOSENTADORIA - IGUALAÇÃO - ARTIGO 40, § 4º, DA CONSTITUIÇÃO FEDERAL. O disposto no § 4º do artigo 40 da Constituição Federal pressupõe benefício outorgado aos servidores da ativa após a promulgação da Carta de 1988. Descabe confundir aplicação imediata do preceito com a retroativa, solapando, com isso, a almejada segurança jurídica.”
+Do exposto, nos termos do art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso para restabelecer a sentença de primeiro grau. Fixo os honorários em R$ 1.000,00. Custas ex lege.
+Publique-se.
+Brasília, 1º de fevereiro de 2010
+Ministro JOAQUIM BARBOSA
+Relator
