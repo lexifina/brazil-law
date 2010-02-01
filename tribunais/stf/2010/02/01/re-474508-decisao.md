@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário contra acórdão que possui a seguinte ementa:
+“Administrativo. Servidor. Policial militar. Transferência para a reserva remunerada. Decreto-lei Estadual. Vantagens e tempo de serviço. Inconstitucionalidade” (fl. 744).
+Os embargos de declaração opostos foram rejeitados.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXV e LV, 37, 40, § 4º, 42, § 10, 70, 102, I, a, e 129, III, todos da mesma Carta.
+A pretensão recursal não merece acolhida. Como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, XXX e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário.
+Ademais, a jurisprudência desta Corte firmou-se no sentido de que o Ministério Público possui legitimidade para promover ação civil pública para proteção do patrimônio público, conforme se observa do julgamento do RE 208.790/SP, Rel. Min. Ilmar Galvão, que porta a seguinte ementa:
+“CONSTITUCIONAL. MINISTÉRIO PÚBLICO. AÇÃO CIVIL PÚBLICA PARA PROTEÇÃO DO PATRIMÔNIO PÚBLICO. ART. 129, III, DA CF. Legitimação extraordinária conferida ao órgão pelo dispositivo constitucional em referência, hipótese em que age como substituto processual de toda a coletividade e, conseqüentemente, na defesa de autêntico interesse difuso, habilitação que, de resto, não impede a iniciativa do próprio ente público na defesa de seu patrimônio, caso em que o Ministério Público intervirá como fiscal da lei, pena de nulidade da ação (art. 17, § 4º, da Lei nº 8.429/92). Recurso não conhecido”.
+Além disso, o acórdão recorrido está em consonância com a jurisprudência deste Tribunal no sentido de que se pode pleitear a inconstitucionalidade de determinado ato normativo na ação civil pública, desde que incidenter tantum, conforme se observa do julgamento do RE 424.993/DF, Rel. Min. Joaquim Barbosa, cuja ementa segue transcrita:
+“EMENTA: RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. CONTROLE DE CONSTITUCIONALIDADE. OCUPAÇÃO DE LOGRADOUROS PÚBLICOS NO DISTRITO FEDERAL. PEDIDO DE INCONSTITUCIONALIDADE INCIDENTER TANTUM DA LEI 754/1994 DO DISTRITO FEDERAL. QUESTÃO DE ORDEM. RECURSO DO DISTRITO FEDERAL DESPROVIDO. RECURSO DO MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL PREJUDICADO.
+Ação civil pública ajuizada pelo Ministério Público do Distrito Federal com pedidos múltiplos, dentre eles, o pedido de declaração de inconstitucionalidade incidenter tantum da lei distrital 754/1994, que disciplina a ocupação de logradouros públicos no Distrito Federal.
+Resolvida questão de ordem suscitada pelo relator no sentido de que a declaração de inconstitucionalidade da lei 754/1994 pelo Tribunal de Justiça do Distrito Federal não torna prejudicado, por perda de objeto, o recurso extraordinário.
+A jurisprudência do Supremo Tribunal Federal tem reconhecido que se pode pleitear a inconstitucionalidade de determinado ato normativo na ação civil pública, desde que incidenter tantum. Veda-se, no entanto, o uso da ação civil pública para alcançar a declaração de inconstitucionalidade com efeitos erga omnes.
+No caso, o pedido de declaração de inconstitucionalidade da lei 754/1994 é meramente incidental, constituindo-se verdadeira causa de pedir.
+Negado provimento ao recurso extraordinário do Distrito Federal e julgado prejudicado o recurso extraordinário ajuizado pelo Ministério Público do Distrito Federal” (grifei).
+Nesse mesmo sentido cito, dentre outros, os seguintes precedentes: AI 504.856-AgR/DF, Rel. Min. Carlos Velloso; RE 438.328-AgR/DF, Rel. Min. Eros Grau; RE 379.212/DF, Rel. Min. Celso de Mello; AI 547.069/DF, Rel. Min. Gilmar Mendes.
+Por fim, o exame da alegada ofensa à Constituição demanda a interpretação de normas infraconstitucional local (Decreto-Lei 09-A/82), o que inviabiliza o recurso a teor da Súmula 280 do STF. Nesse sentido, entre outras, as seguintes decisões: AI 567.813/RO, Rel. Min. Cármen Lúcia; AI 741.381/RO, Rel. Min. Eros Grau; RE 440.004/RO, Rel. Min. Sepúlveda Pertence.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
