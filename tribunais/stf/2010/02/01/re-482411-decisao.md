@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão que determinou a extensão, aos servidores inativos ora representados pela recorrida, do reajuste previsto no art. 2º da Lei Estadual cearense 13.155/2001.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 37, XIII, e 40, § 7º e § 8º, da mesma Carta.
+A pretensão recursal merece acolhida. O acórdão recorrido está em confronto com a jurisprudência desta Corte, que, em casos similares, tem adotado entendimento favorável à parte recorrente, conforme se observa do julgamento do RE 226.462/SC, Rel. Min. Sepúlveda Pertence, cuja ementa segue transcrita:
+“I. Recurso extraordinário: a aplicação de norma ou princípio a situação por eles não alcançada vale por contrariá-los.
+II. ‘Estabilidade financeira’: inexistência de direito adquirido de servidores ativos e inativos à permanência do regime legal de reajuste de vantagem correspondente.
+1. Pacífico no STF a inexistência de conflito entre a chamada ‘estabilidade financeira’ e o art. 37, XIII, CF, que proíbe vinculação entre vencimentos (cf. precedentes citados), daí não se segue, contudo, o direito adquirido do servidor beneficiário da vantagem à preservação do regime legal de atrelamento do valor dela ao vencimento do respectivo cargo em comissão: donde a legitimidade e a aplicabilidade imediata da lei que desvincule o reajuste futuro da vantagem àqueles vencimentos do cargo em comissão, submetendo-a aos critérios das revisões gerais dos vencimentos do funcionalismo.
+2. Nessa hipótese, o paradigma do inativo aposentado com a ‘estabilidade financeira’, para os efeitos do art. 40, § 4º, CF, não é o ocupante atual do respectivo cargo em comissão, mas sim o servidor efetivo igualmente beneficiário, na ativa, da vantagem decorrente do exercício anterior dele.
+3. Dada a garantia de irredutibilidade, da alteração do regime legal de cálculo ou reajuste de vencimentos ou vantagens funcionais jamais poderá ocorrer a diminuição do quanto já percebido conforme o regime anterior, não obstante a ausência de direito adquirido à sua preservação.
+III. Recurso extraordinário: inconstitucionalidade reflexa ou mediata e direito local.
+Como é da jurisprudência iterativa, não cabe o RE, a, por alegação de ofensa mediata ou reflexa à Constituição, decorrente da violação da norma infraconstitucional interposta; mas o bordão não tem pertinência aos casos em que o julgamento do RE pressupõe a interpretação da lei ordinária, seja ela federal ou local: são as hipóteses do controle da constitucionalidade das leis e da solução do conflito de leis no tempo, que pressupõem o entendimento e a determinação do alcance das normas legais cuja validade ou aplicabilidade se cuide de determinar” (grifos meus).
+No mesmo sentido, menciono as seguintes decisões, entre outras: AI 560.894-AgR/GO e RE 563.221-AgR/CE, Rel. Min. Cármen Lúcia; RE 446.767-AgR/PE, Rel. Min. Carlos Britto; RE 423.886-AgR/PE, Rel. Min. Carlos Velloso; RE 324.344-AgR/PE e RE 438.032/CE, Rel. Min. Ellen Gracie.
+Ressalto, ainda, que este Tribunal, no julgamento do mérito do RE 563.965–RG/RN, após o reconhecimento de repercussão geral, manteve esse mesmo entendimento.
+Além disso, vale ressaltar que a Lei Estadual cearense 11.171/86, que possibilitou a incorporação da gratificação, previa em seu art. 4º a vinculação da “Vantagem Pessoal” atrelada aos aumentos que recebesse a gratificação que lhe dera origem. Todavia, essa parte do dispositivo foi declarada inconstitucional pelo Supremo Tribunal Federal por meio da Representação 1.391/CE.
+Assim, o reajuste da gratificação que deu origem a “Vantagem Pessoal” de servidores ativos e inativos não pode ser estendido a esta.
+Isso posto, com base no art. 557, § 1º-A, do CPC, conheço do recurso extraordinário e dou-lhe provimento. Sem honorários (Súmula 512 do STF).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
