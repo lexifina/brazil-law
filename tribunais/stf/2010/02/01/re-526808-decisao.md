@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário contra acórdão assim ementado:
+“CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. APOSENTADORIA. CONTAGEM DE TEMPO DE SERVIÇO PRESTADO EM EMPRESA PÚBLICA TRANSFORMADA EM AUTARQUIA. ADMINISTRAÇÃO INDIRETA. PREVISÃO NA LEI Nº 6.486/93. POSSIBILIDADE. INCORPORAÇÃO DE VANTAGEM DENOMINADA QUINTOS. DECISÃO DO SUPREMO TRIBUNAL FEDERAL DECLARANDO A INCONSTITUCIONALIDADE DO ARTIGO 28, § 4º, DA CONSTITUIÇÃO ESTADUAL POR VÍCIO DE INICIATIVA. LEI COMPLEMENTAR ESTADUAL 122/94. NORMA CORRELATA DE HIERARQUIA INFERIOR. LEI COMPLEMENTAR ESTADUAL 162/99. LEI INFRACONSTITUCIONAL REVOGADORA, QUE RESSALVA AS SITUAÇÕES ANTERIORMENTE CONSOLIDADAS. DIREITO ADQUIRIDO. CONCESSÃO DA SEGURANÇA.
+I - Havendo o Impetrante incorporado a vantagem pecuniária denominada quintos, perde sentido a alegação de que ele seria ocupante de cargo em empresa pública, posto que a Lei 6.486/1993 transformou a EMATER em autarquia, assegurando-lhe todos os direitos, inclusive a contagem de tempo de serviço em questão e, via de conseqüência, a mantença da vantagem dos quintos, já incorporada ao seu patrimônio, por ocasião de sua aposentadoria.
+II - Deve-se reconhecer o direito do servidor público estadual à incorporação de vencimentos em virtude do exercício de funções comissionadas por tempo previsto em norma infraconstitucional, ainda que esta tenha sido posteriormente revogada, cuja norma revogadora ressalvou o direito adquirido.
+III - A decisão do Supremo Tribunal Federal, que declara inconstitucional norma da Constituição Estadual, não atinge norma infraconstitucional que lhe é correlata e que não foi objeto da impugnação em sede de controle concentrado” (fls. 226-227).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, II e XXXVI, 18, 25, 37, caput, 61, § 1º, II, a e c, 102, III, § 2º, 173, todos da mesma Carta.
+A pretensão recursal não merece acolhida. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada, à exceção do art. 5º, XXXVI, da Constituição, não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+É certo, ainda, que para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Lei Complementar Estadual 122/94 e Lei Estadual 6.486/93), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF.
+Isso posto, nego seguimento ao recurso (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
