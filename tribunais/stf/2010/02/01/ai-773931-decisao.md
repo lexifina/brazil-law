@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil.
+2.  Alega-se, no extraordinário, ofensa ao disposto nos artigos 37, XI e XV, 39, § 4º, e 40, § 2º, § 3º, § 7º e § 8º, da CB/88.
+3.  Deixo de apreciar a existência da repercussão geral, vez que o artigo 323, § 1º, do RISTF dispõe que "[t]al procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+4.  O agravo não merece provimento. O acórdão recorrido está em consonância com o entendimento deste Tribunal, fixado no julgamento do RE n. 544.652, Relator o Ministro Cezar Peluso, DJe de 18.12.09, cuja ementa transcrevo:
+“EMENTAS: 1. RECURSO. Extraordinário. Inadmissibilidade. Servidor público. Previdência Social. Benefício. Pensão por morte. Valor integral. Auto-aplicabilidade do art. 40, § 7º, da CF. A pensão por morte de servidor público deve corresponder à totalidade dos vencimentos ou proventos que percebia ou perceberia, se vivo estivesse. 2. RECURSO. Extraordinário. Inadmissibilidade. Servidor público. Vencimentos. Proventos. Vantagem pecuniária. Gratificação devida aos funcionários em atividade. Extensão aos aposentados. Rediscussão do caráter geral sob fundamento de ofensa ao art. 40, § 8º, da CF. Impossibilidade. Questão infraconstitucional. Recurso não conhecido. Aplicação das súmulas 279, 280 e 636. Reconhecido ou negado pelo tribunal a quo o caráter geral de gratificação funcional ou de outra vantagem pecuniária, perante os termos da legislação local que a disciplina, não pode o Supremo, em recurso extraordinário, rever tal premissa para estender ou negar aquela aos servidores inativos com base no art. 40, § 8º, da Constituição da República.”
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 1º de fevereiro de 2010.
+Ministro Eros Grau
+- Relator –
