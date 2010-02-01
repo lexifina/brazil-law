@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. 1. ANISTIADO POLÍTICO. PAGAMENTO RETROATIVO DA REPARAÇÃO ECONÔMICA: IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. 2. MANDADO DE SEGURANÇA: NÃO SUBSTITUTIVO DE AÇÃO DE COBRANÇA. PRECEDENTES. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Superior Tribunal de Justiça:
+“ADMINISTRATIVO. MANDADO DE SEGURANÇA. ANISTIA. OMISSÃO DA AUTORIDADE IMPETRADA QUANTO AO PAGAMENTO DA PARCELA CORRESPONDENTE AOS EFEITOS RETROATIVOS DA PORTARIA QUE RECONHECE A CONDIÇÃO DE ANISTIADO POLÍTICO. ATO OMISSO QUE SE RENOVA CONTINUAMENTE. MANDADO DE SEGURANÇA. VIA ADEQUADA. PRECEDENTE DO STF. SEGURANÇA CONCEDIDA.
+1. O impetrante não se insurge contra um ato concreto de efeitos permanentes. A suscitada omissão da autoridade impetrada, quanto ao descumprimento parcial da portaria que reconheceu a condição de anistiado político, renova-se continuamente. Desse modo, não há decadência para impetração do mandado de segurança. Precedentes. Ressalvada a posição do Relator.
+2. ‘O Supremo Tribunal Federal, nos autos do RMS 24.953/DF, assentou que não consubstancia ação de cobrança o mandado de segurança que visa sanar omissão da autoridade coatora quanto ao cumprimento integral da portaria que reconhece a condição de anistiado político, inclusive no tocante ao pagamento da parcela relativa a valores pretéritos, cujo montante devido encontra-se ali expressamente previsto’. Precedentes. Ressalvada a posição do Relator.
+3. A suscitada omissão do Ministro da Defesa restou comprovada, porquanto superado o prazo de 60 (sessenta) dias para cumprimento da portaria – expedida pelo Ministro da Justiça, que reconhecera a condição de anistiado político ao impetrante – no concernente ao pagamento da parcela correspondente aos valores retroativos da reparação econômica, nos termos do arts. 12, § 4º, e 18 da Lei 10.559/2002. Precedentes.
+4. Segurança concedida” (fl. 61).
+Os embargos de declaração opostos foram rejeitados (fl. 95).
+2. A Agravante alega que teriam sido contrariados os arts. 5º, 100, caput, 167, inc. II, e 169, § 1º, inc. I e II, da Constituição da República.
+Argumenta que “há uma situação em que a Administração encontra-se compelida, via decisão judicial, ao cumprimento das Portarias por ela editadas em total descompasso com sua ‘capacidade orçamentária’ (inexistência de recursos suficientes). Não se levou em conta a impossibilidade do cumprimento efetivo da Portaria que reconhece a condição de anistiado político, tendo em vista a insuficiência de disponibilidade financeira; o recurso liberado com a edição da Lei nº 10.726/2003, repita-se, foi suficiente apenas para iniciar a implementação das reparações econômicas a serem pagas em prestações mensais, permanentes e continuadas” (fl. 121).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão de direito não assiste à Recorrente.
+4. O Superior Tribunal de Justiça decidiu a controvérsia examinando portaria editada pela própria Administração Pública e concluiu que o seu cumprimento importa no pagamento retroativo de determinado parcela remuneratória. Para se concluir de forma diversa, seria necessária a análise da norma infralegal, situação que não pode ser acolhida e apreciada no recurso extraordinário. A pretensa ofensa à Constituição, se tivesse ocorrido, seria indireta.
+Nesse sentido:
+“AGRAVO REGIMENTAL. INSTITUIÇÃO DE ENSINO SUPERIOR. COBRANÇA PELO ESTÁGIO OBRIGATÓRIO INSTITUÍDO PELA PORTARIA 1886/1994 DO MINISTÉRIO DA EDUCAÇÃO. ALEGAÇÃO DE INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. Controvérsia decidida à luz de legislação infraconstitucional. A alegada ofensa à Constituição, se existente, seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário. Ademais, para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário o reexame de cláusulas contratuais, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 454/STF. Tratando-se de recurso extraordinário, qualquer questão nele apresentada deverá ter sido objeto de discussão no Tribunal de origem, ou, em caso de omissão, ter sido objeto de embargos de declaração, ainda que se trate de matéria de ordem pública. Agravo regimental a que se nega provimento” (RE 432.121-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 28.11.2008 – grifos nossos).
+E ainda: RE 545.983, Rel. Min. Cezar Peluso, DJ 11.4.2008; RE 572.932, Rel. Min. Ricardo Lewandowski, DJ 7.2.2008; RE 554.857, Rel. Min. Gilmar Mendes, DJ 14.11.2007.
+5. É de se anotar, também, que o entendimento do Superior Tribunal de Justiça de que o caso em pauta não consubstancia ação de cobrança está em harmonia com a jurisprudência deste Supremo Tribunal. Confira-se o julgado seguinte:
+“CONSTITUCIONAL. ADMINISTRATIVO. MILITAR: ANISTIA. MANDADO DE SEGURANÇA.
+I. - A hipótese não consubstancia ação de cobrança, mas tem por finalidade sanar omissão da autoridade coatora, que não deu cumprimento integral às Portarias do Ministro de Estado da Justiça. Cabimento do mandado de segurança. Liquidez e certeza do direito dos impetrantes, que se apóiam em fatos incontroversos.
+II. - Recurso provido” (RMS 24.953, Rel. Min. Carlos Velloso, DJ 1º.10.2004).
+Não há, pois, o que prover quanto às alegações da Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
