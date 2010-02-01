@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. HORAS EXTRAS E ADICIONAL NOTURNO. 1) CONTROVÉRSIA SOBRE A APLICABILIDADE DE LEIS LOCAIS: INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL.  2) NECESSIDADE DE REEXAME DE PROVA: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Sergipe:
+“Embargos infringentes - Administrativo. Servidor Público. Horas extras. Adicional Noturno. Devidos. Acórdão desconstituído. Embargos acolhidos. - Mantido merece o decisum singular que conclui, com base na prova dos autos e porque direito de matriz constitucional, por conceder aos embargados horas extras e adicional noturno. - Infringentes acolhidos, para desconstituir o acórdão embargado” (fl. 233 – grifos nossos).
+Tem-se no voto condutor do julgado recorrido:
+“Tais direitos [horas extras e adicional noturno], data venia do entendimento do voto majoritário, em cuja tese se embasa o Estado embargado, não são compensados pelas horas de descanso e pelo adicional de produtividade.
+(...) Equivoca-se o [Embargado] quando considera o sábado e o domingo repouso semanal remunerado, como compensação do excesso da carga horária semanal trabalhada pelos Senhores Fiscais.
+Depois, igualmente improcedente a alegação de que seria inaplicável aos [Embargantes] a regra do art. 243 do Estatuto dos Funcionários de 1977, sob o argumento de que a carga horária ali prevista (seis horas diárias ou trinta semanais) fora fixada para os exercentes de cargos burocráticos na Administração Estadual.
+(...) Só a lei ou o contrato poderia excepcionar os servidores da Administração Fazendária, de atribuição técnica e burocrática especializada, da regra geral à qual submetidos todos os servidores civis estaduais. Inexistente norma ou ato jurídico de exceção, submetem-se os Fiscais de Tributos ao disposto no art. 243, retromencionado, restando ao Estado de Sergipe tão somente indenizá-los pelas horas trabalhadas acima da carga horária de 30 horas semanais.
+(...)
+Mas como afirmar que a gratificação de produtividade fiscal possui tal escopo se, da dicção legal – ex vi art. 3º da Lei n. 2.270/80 – assim não se conclui, posto referir-se unicamente ao fato de estar exercendo atividade fiscal. Ora, há funcionários que exercem atividade fiscal fora do regime de plantão em comento e que, ainda assim, percebem aludida verba. Logo, não há como se concluir, nem ao menos pelo seu aspecto teleológico, que possua a vantagem tal finalidade” (fls. 234-236 – grifos nossos).
+2. O Recorrente afirma que o Tribunal a quo teria ofendido o art. 7º, inc. I, XI, XIII e XVII, da Constituição da República.
+Assevera que:
+“É a Lei Estadual n. 4.262, de 27/6/2000, que veda a concessão de qualquer pagamento de horas extras ou adicional noturno ao servidor em gozo de folgas compensatórias.
+(...) A jornada de trabalho dos fiscais de tributos é diferenciada dos servidores públicos civis comuns, não se aplicando aos mesmos, assim, a regra do art. 243 da Lei Estadual n. 2.148/77 (...).
+(...) Não há jornada extraordinária de fiscal de tributos, assim como as horas trabalhadas são efetivamente remuneradas. (...)
+De relação ao adicional noturno, é de se ter em mente que o fundamento de seu descabimento é o mesmo, ou seja, jornada de trabalho diferenciada aliada à falta de prova documental nesse sentido” (fls. 281-290 - grifos nossos).
+Apreciada a matéria trazida na espécie, DECIDO .
+3. Razão jurídica não assiste ao Recorrente.
+4. A controvérsia sobre a interpretação e a aplicabilidade de normas locais atrai a incidência da Súmula 280 do Supremo Tribunal Federal e não viabiliza o recurso extraordinário.
+Além disso, as alegações de que os Recorridos não teriam realizado horas extras e de que não haveria prova documental de trabalho noturno não ensejam o recurso extraordinário (Súmula 279 do Supremo Tribunal Federal). Nesse sentido:
+“SERVIDOR PÚBLICO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. Precedentes. II - Agravo regimental improvido” (AI 689.921-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 20.2.2009).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. A controvérsia foi decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 594.028-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 27.2.2009).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Reexame de fatos e provas. Aplicação das súmulas nº 279. Agravo regimental improvido. Não cabe recurso extraordinário que tenha por objeto o simples reexame de fatos e provas. 2. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte. 3. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (RE 330.907-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 9.5.2008 – grifos nossos).
+“RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL DESPROVIDO. O Tribunal a quo decidiu a controvérsia com fundamento em norma infraconstitucional e nas provas contidas nos autos” (RE 376.599-AgR, de minha relatoria, DJ 2.2.2007).
+5. Não há, pois, o que prover quanto às alegações do Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
