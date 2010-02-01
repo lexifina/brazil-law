@@ -1,0 +1,22 @@
+Trata-se de recursos extraordinários contra acórdão assim ementado:
+“Administrativo. Reintegração de servidor credenciado cujo vínculo empregatício com o extinto INAMPS fora reconhecido por sentença transitada em julgado. Ilegalidade da dispensa procedida após a edição da Lei 8.112/90 e sem a prévia apuração de falta em procedimento administrativo. Apuração do padrão vencimental. Apelo e remessa oficial improvidos” (fl. 174).
+No RE interposto por Iucema Santana Santos, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 41, § 2º, da mesma Carta, bem como ao art. 19 do ADCT. Requereu-se, em suma, seja determinada a sua reintegração no cargo efetivo de cirurgiã-dentista, com o pagamento da remuneração, férias e gratificação natalina, conforme os vencimentos deste cargo.
+No RE interposto pela União, também fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 37, II, da mesma Carta, bem como ao art. 19 do ADCT. Aduziu-se que à autora da ação não poderia ter sido reconhecido o direito de ingresso no serviço público como servidora efetiva.
+A Subprocuradora-Geral da República Sandra Cureau opinou pelo não conhecimento dos recursos, e, caso conhecidos, pelo improvimento dos mesmos.
+As pretensões recursais não merecem acolhida.
+No que diz respeito ao pedido de Iucema Santana Santos, de ser enquadrada no serviço publico em cargo efetivo, não merece acolhida a pretensão recursal. Tal pretensão encontra óbice no instituto da coisa julgada, em decorrência de sentença proferida em instância trabalhista. Ademais, o Tribunal a quo foi claro, às fls. 170 e 171, ao dispor que:
+“no que toca à alegação da autora, de que a sentença deveria dispor sobre a sua reintegração no cargo de cirurgiã dentista, tal não decorre da sentença trabalhista, que condenara o antigo INAMPS ao pagamento de férias, natalinas e FGTS, mantendo, portanto, o sistema de remuneração por unidade de serviço. Inviabiliza-se a determinação de reincorporação em cargo que não era ocupado pela servidora e com remuneração que não era a sua”.
+Assim, para chegar a entendimento diverso do acórdão recorrido seria necessário o reexame dos fatos e das provas que envolvem a matéria, o que é inadmissível em recurso extraordinário. Incide, portanto, a Súmula 279 do STF.
+Com relação à pretensão da União, melhor sorte não assiste à recorrente. O acórdão recorrido, ao contrário do que afirmado, não determinou a reintegração da autora da ação em cargo efetivo, mas na condição funcional em que se encontrava na época em que se deu o seu desligamento. Incide, no caso, a Súmula 284 do STF.
+Ademais, quanto à alegada ofensa ao art. 19 do ADCT, o Supremo Tribunal Federal, no julgamento do RE 154.258/MG, Rel. Min. Moreira Alves, decidiu que a concessão da estabilidade prevista no art. 19 do ADCT está condicionada à comprovação do exercício, pelo servidor, de pelo menos cinco anos ininterruptos no mesmo ente público. O acórdão restou assim ementado:
+“Recurso extraordinário. Servidor público. Interpretação do artigo 19 do ADCT da Constituição.
+- O destinatário do artigo 19 do ADCT da Constituição, no tocante ao requisito do exercício, na data da promulgação da Carta Magna, há pelo menos cinco anos continuados, é aquele que esteja vinculado a uma das pessoas jurídicas de direito público ali relacionadas na qualidade de servidor público, embora não admitido na forma regulada no art. 37 da parte permanente da Constituição, sem hiatos quanto a essa relação jurídica, ainda que a títulos diversos, desde que se sucedam sem solução de continuidade.
+Recurso extraordinário não conhecido”.
+No caso dos autos, restou comprovado o preenchimento do requisito necessário para a concessão da estabilidade prevista no art. 19 do ADCT, conforme destacado do acórdão ora recorrido:
+“É inegável que restou reconhecido o vínculo empregatício, a partir da data da admissão. Quando da promulgação da Constituição Federal de 1988 a autora já tinha mais de cinco anos de serviço, gozando, portanto, da estabilidade de que dispõe o art. 19 do Ato das Disposições Constitucionais Transitórias” (fl. 170).
+Por fim, restou inatacado fundamento do acórdão que entendeu que a recorrida não poderia ser desligada do serviço público sem prévio processo administrativo que lhe assegurasse ampla defesa. Incide, no caso, a Súmula 283 do STF.
+Isso posto, nego seguimento aos recursos (CPC, art. 557, caput).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
