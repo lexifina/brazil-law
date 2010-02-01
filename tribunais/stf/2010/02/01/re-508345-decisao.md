@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto pelo Ministério Público do Distrito Federal e Territórios, com fundamento no art. 102, III, a, b e c, da Constituição Federal, contra acórdão proferido pela Terceira Turma Cível do Tribunal de Justiça local, que recebeu a seguinte ementa:
+“AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E DOS TERRITÓRIOS. TRIBUTÁRIO. ILEGITIMIDADE ATIVA. FALTA DE INTERESSE DE AGIR. INADEQUAÇÃO DA VIA ELEITA. INDEFERIMENTO DA INICIAL. DESPROVIMENTO DO RECURSO.
+A Ação Civil Pública não é adequada para a declaração de inconstitucionalidade de lei ou ato normativo, em tese, tendo em vista que os efeitos nela produzidos são erga omnes, resultando que somente pode ser objeto de Ação Direta, proposta pelo eminente Procurador-Geral de Justiça, e perante o egrégio Conselho Especial, sendo manifesta a ausência de atribuição do Dr. Promotor de Justiça e a falta de competência do Juiz de Primeiro Grau” (fl. 147).
+Neste Recurso Extraordinário, alegou-se ofensa aos artigos 5º, XXXV, e 129, III e IX, da Constituição Federal.
+O Plenário desta Corte, em 20/8/2008, ao apreciar Questão de Ordem suscitada no RE 540.410/RS, Rel. Min. Cezar Peluso, decidiu estender a aplicação do art. 543-B do Código de Processo Civil aos recursos cujo tema constitucional apresente repercussão geral reconhecida pelo Plenário, ainda que interpostos contra acórdãos publicados antes de 3 de maio de 2007.
+No caso, o recurso extraordinário versa sobre matéria - legitimidade do Ministério Público para propor ação civil pública com o objetivo de anular Termo de Acordo de Regime Especial – TARE firmado entre o Poder Público e empresa privada - cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal em 3/4/2008 (RE 576.155-RG/DF, sob minha relatoria).
+Isso posto, determino, com fundamento no art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do Código de Processo Civil, visto que no presente extraordinário discute-se questão idêntica à apreciada no RE 576.155-RG/DF.
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
