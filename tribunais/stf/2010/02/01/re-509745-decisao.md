@@ -1,0 +1,9 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que afronta a Constituição Federal lei complementar (LC estadual 202/2004) que fixa alíquota previdenciária sobre o total da remuneração dos servidores estaduais da ativa e da inatividade sujeita à tributação. Concluiu o acórdão que o cálculo deve incidir apenas sobre o excedente do teto previdenciário, conforme prevê o regime geral de previdência social.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 40, § 18, da mesma Carta. Sustentou-se que a LC estadual 202/2004 estabeleceu distinções entre os beneficiários que preencheram, antes e depois de 31/12/2003, os requisitos para se aposentarem, enquadrando-se o recorrido no inc. II do art. 2º daquela lei, devendo, portanto, contribuir sobre a totalidade de seu benefício.
+O recurso não merece acolhida. A apreciação do tema constitucional, no caso, depende do prévio exame de legislação ordinária. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+Ademais, o acórdão recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal, pacificada no sentido de que é constitucional a cobrança da contribuição previdenciária sobre os proventos de inativos e pensionistas dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, após o advento da EC 41/2003 (art. 4º, caput). Nesse sentido: ADI 3.105/DF e ADI 3.128/DF, Rel. para acórdão Min. Cezar Peluso. Nesse julgamento, destacou-se que a contribuição deve incidir tão somente sobre a parcela dos proventos e pensões que superar o teto estabelecido no art. 5º da EC 41/2003.
+Isso posto, com base no art. 557, caput, do CPC, nego seguimento ao recurso.
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
