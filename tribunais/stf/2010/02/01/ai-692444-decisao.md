@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+“ EMBARGOS À EXECUÇÃO – Execução Fiscal – Multa ambiental – CETESB – Queima da palha da cana-de-açúcar – Embargos acolhidos – CETESB tem delegação para agir em nome do Estado – Multas ambientais constitui-se em crédito fazendário e podem ser inscritas na dívida ativa e executadas – Legitimidade da Fazenda Estadual – Constitucionalidade do Decreto nº 8.468/76 – Artigo 26 não criou novas situações, apenas procurou regular o tratado na lei – CDA presunção de liquidez, certeza e exigibilidade – Autorização para proceder a queimada não demonstrada – Recursos providos com a inversão do ônus da sucumbência.” (Fl. 251)
+2.  Nas razões do RE, sustenta-se ofensa aos artigos 22, II e 173, §1º, II da Constituição Federal.
+ A recorrente alega que “a sociedade de economia mista, e a CETESB é uma delas, não poderá valer-se de interposta pessoa de direito público, no caso a Fazenda do Estado, para cobrar seu crédito, mormente através da execução forçada, prevista na Lei n. 6.830/80, sob pena de afronta, principalmente, ao art. 173, § 1º, II, da Constituição Federal” (fl. 281).
+3.  Pela fundamentação do acórdão recorrido, sabe-se que “a CETESB, Companhia de Tecnologia de Saneamento Ambiental, é a agência do Governo do Estado de São Paulo responsável pelo controle, fiscalização, monitoramento e licenciamento de atividades geradoras de poluição, com a preocupação fundamental de preservar e recuperar a qualidade das águas, do ar e do solo e para atingir seus desideratos exerce, inclusive, poder de polícia. E ela tem tal delegação para agir em nome do Estado e não próprio, de sorte que as multas ambientais por ela aplicadas constituem-se em crédito da Fazenda, e que podem ser, conquanto não de natureza tributária, inscritas na dívida ativa e executadas” (fl. 252).
+ O Tribunal a quo tratou da questão referente à utilização ou não da Lei 6.830/80 para a cobrança de multa aplicada por sociedade de economia mista delegatária de serviço público estatal. Assim, eventual ofensa à Constituição Federal, se existente, seria meramente indireta ou reflexa, o que inviabiliza o trânsito do recurso extraordinário.
+ Nesse sentido, decidindo caso idêntico ao dos autos, o AI 691.937/SP, rel. Min. Cármen Lúcia, DJe 30.06.2009.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
