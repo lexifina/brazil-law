@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PROCESSUAL. AFASTAMENTO DO ART. 44 DA LEI N. 9.430/96 POR ÓRGÃO FRACIONÁRIO DE TRIBUNAL: OFENSA AO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA (RESERVA DE PLENÁRIO). SÚMULA VINCULANTE 10 DO SUPREMO TRIBUNAL FEDERAL. RECURSO PROVIDO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+“EMENTA: TRIBUTÁRIO. IMPOSTO DE RENDA. HORAS EXTRAS. INCIDÊNCIA. NATUREZA REMUNERATÓRIA. MULTA 75%. CARÁTER CONFISCATÓRIO. LEI 8.383/91, ART. 59. SELIC. LEI 9.430/96, ART. 61, § 3º. - O pagamento de horas extras, não tem natureza indenizatória, pois apesar de haver sido feito serodiamente, configura renda, que se sujeita, portanto, à incidência de Imposto de Renda, na forma do art. 43, do CTN. Entendimento que consona com o firmado pelo órgão plenário do Tribunal, no julgamento do Incidente de Uniformização de Jurisprudência suscitado na AC 318295-RN. - Impossibilidade de aplicação, em face do caráter confiscatório, da multa de 75% (setenta e cinco por cento) sobre o valor não declarado pelo contribuinte. Sanção pecuniária que deve ser cominada em 20% (vinte por cento), na forma do art. 59, da Lei 8.383/91. - Aplicação da taxa SELIC, como fator de correção do débito, face ao comando do art. 61, § 3º, da Lei nº 9.430/96. Apelação improvida. Sem condenação em honorários, em face dos benefícios da assistência judiciária” (fl. 165).
+Opostos embargos de declaração contra essa decisão, o Tribunal de origem esclareceu que:
+“O acórdão, ora embargado, reduziu a multa cobrada em auto de infração para 20%, ao reconhecer como legítima a incidência de Imposto de Renda sobre valores recebidos a título de hora extra, pagos a destempo pela Petrobrás.
+A incidência de penalidade pecuniária, no percentual de 75%, estabelecida no art. 44, da Lei 9.430/96, encontra-se em divergência com o princípio constitucional da vedação do confisco, previsto no art. 150, IV, da Constituição da República. Trata-se, pois, de uma exigência exorbitante. O mencionado dispositivo constitucional preceitua, in verbis:
+‘Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios: ... IV – utilizar tributo com efeito de confisco’,
+O afastamento da aplicação da multa exigida pela Fazenda Nacional de 75% para 20% não significa que houve Controle de Constitucionalidade sobre o art. 44, I, da Lei 9.430/96, pois em nenhum momento foi pronunciada a impossibilidade de aplicação ou inconstitucionalidade do referido texto legal.
+Portanto, inexistiu o controle difuso da constitucionalidade da legislação acima aludida” (fl. 182).
+2. A Recorrente afirma que o Tribunal a quo teria ofendido os arts. 5º, inc. XXXVI e LV, 93, inc. IX, 97 e 150, inc. IV, da Constituição da República.
+Argumenta que, “da leitura do v. acórdão proferido por ocasião do julgamento dos embargos de declaração, verifica-se, de modo irrefutável, que o mesmo, ignorando as razões da ora Recorrente, persistiu na omissão, posto que não analisou a questão atinente à necessidade de observância do art. 97 da Constituição Federal” (fl. 200).
+Sustenta que “é de se reconhecer o desacerto do v. acórdão recorrido, que, ao declarar a inconstitucionalidade do art. 44, I, da Lei n. 9.430/96 sem observância do art. 97 da Constituição vigente, findou por contrariar manifestamente referido dispositivo, incorrendo em nulidade insanável. Em consequência, impõe-se a reforma do r. acórdão vergastado, a fim de ajustá-lo aos dispositivos constitucionais pertinentes à espécie” (fl. 206).
+Assevera que “o acórdão recorrido, ao considerar confiscatório o valor da multa aplicada com base no art. 44, I, da Lei n. 9.430/96, fundamentando tal entendimento no disposto no art. 150, IV, da CF/88, restou por violar tal dispositivo constitucional” (fl. 207).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica assiste à Recorrente.
+4. No julgamento do Recurso Extraordinário 240.096, Relator o Ministro Sepúlveda Pertence, DJ 30.3.1999, a Primeira Turma do Supremo Tribunal Federal consolidou o entendimento de que se considera “declaratório de inconstitucionalidade o acórdão que – embora sem o explicitar – afasta a incidência da norma ordinária pertinente à lide para decidi-la sob critérios alegadamente extraídos da Constituição”, e de que, se esse tipo de julgado for produzido por órgão fracionário de tribunal, haverá ofensa ao art. 97 da Constituição da República.
+5. Em 18 de junho de 2008, o Supremo Tribunal Federal editou a Súmula com efeito vinculante 10, com o seguinte teor:
+“Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+No mesmo sentido o Recurso Extraordinário 570.823, de minha relatoria, com trânsito em julgado em 6.11.2009.
+6. Dessa orientação jurisprudencial divergiu o julgado recorrido.
+7. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal), anulo o julgado recorrido e determino a devolução dos autos ao Tribunal Regional Federal da 5ª Região, para que decida como entender de direito.
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
