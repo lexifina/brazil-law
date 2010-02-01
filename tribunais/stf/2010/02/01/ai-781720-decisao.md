@@ -1,0 +1,21 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONDENAÇÃO PELOS CRIMES MILITARES DE RESISTÊNCIA E INJÚRIA QUALIFICADA EM RAZÃO DE OFENSA AO SUPERIOR HIERÁRQUICO NA PRESENÇA DE OUTRAS PESSOAS. 1. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. 2. ACÓRDÃO RECORRIDO FUNDAMENTADO. 3. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS DOS AUTOS: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Santa Catarina:
+“CRIME MILITAR. RESISTÊNCIA (CPM, ART. 177, ‘CAPUT’) E INJÚRIA QUALIFICADA, EM RAZÃO DE OFENSA AO SUPERIOR HIERÁRQUICO, NA PRESENÇA DE OUTRAS PESSOAS (CPM, ART. 216 C/C O ART 218, INCS. II E IV). NEGATIVA DAS IMPUTAÇÕES, IRRELEVANTE, FACE ÀS PROVAS CARREADAS AOS AUTOS. DOLO ESPECÍFICO CONFIGURADO. ABSOLVIÇÃO. INVIABILIDADE. RECURSO NÃO PROVIDO” (fl. 83).
+3. Os embargos de declaração opostos pelo Agravante foram rejeitados (fls. 142-146).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário o óbice da Súmula 279 do Supremo Tribunal e a circunstância de que a ofensa à Constituição da República seria, se houvesse, indireta ou reflexa (fls. 162-164).
+5. Em seu recurso extraordinário, o Agravante alega ofensa ao art. 93, inc. IX, da Constituição da República e argumenta, entre outras questões, que:
+“[E]m nítida consonância com o texto constitucional, inescondível que, ao simplesmente aventar a existência dos delitos imputados e, sem enfrentar diretamente as questões ventiladas pela Defesa em sede de apelação, a r. decisão objurgada incorreu em franca nulidade, não podendo assim prosperar, pois meramente assentou ser desnecessária a análise profunda do caso, com a apreciação de todas as teses defensivas e as provas correlatas, desde que tivesse concluído, ao final, por decisão condenatória” (fl. 158).
+Examinada a matéria posta à apreciação, DECIDO.
+6. Razão jurídica não assiste ao Agravante.
+7. Preliminarmente, é de se ressaltar que, apesar de ter sido o Agravante intimado depois de 3.5.2007 e constar no recurso extraordinário a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outros fundamentos suficientes para a inadmissibilidade do recurso.
+8. Cumpre afastar a alegação de nulidade por ofensa ao art. 93, inc. IX, da Constituição da República. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresenta suficiente fundamentação. Como afirma a jurisprudência do Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (Recurso Extraordinário n. 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+9. Ademais, para se decidir de forma diversa do Tribunal a quo, seria imprescindível adotar outra versão dos fatos e das provas que não aquela utilizada para fundamentar o acórdão recorrido, o que só seria possível mediante reexame do conjunto probatório que permeia a lide, ao que não se presta o recurso extraordinário (Súmula 279 do Supremo Tribunal Federal).
+10. Pelo exposto, nego seguimento a este agravo (art. 38 da Lei 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
