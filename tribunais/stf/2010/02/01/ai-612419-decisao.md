@@ -1,0 +1,9 @@
+DESPACHO
+AGRAVO DE INSTRUMENTO. SEGURANÇA PÚBLICA. POLÍCIA MILITAR. PENSÃO. LEI COMPLEMENTAR ESTADUAL N. 53/90. ADI 1.542. PENDÊNCIA. IDENTIDADE DE MATÉRIA. RECURSO SOBRESTADO.
+1. Discute-se nos autos a possibilidade de pagamento de pensão a dependente de policial militar expulso da corporação, nos termos da Lei Complementar estadual n. 53/1990 do Mato Grosso do Sul.
+2. A matéria é idêntica à discutida na Ação Direta de Inconstitucionalidade n. 1.542, Relator o Ministro Eros Grau, que está pendente de julgamento pelo Plenário deste Tribunal.
+3. Pelo exposto, determino o sobrestamento do feito até o julgamento da Ação Direta de Inconstitucionalidade n. 1.542.
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
