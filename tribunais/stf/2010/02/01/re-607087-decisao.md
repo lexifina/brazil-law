@@ -1,0 +1,10 @@
+Trata-se de recurso extraordinário contra acórdão que considerou possível o cancelamento e a restituição dos descontos sobre proventos de militar inativo, para custeio de pensão militar, a partir de quando manifestada a opção pela desistência dos benefícios da lei anterior.
+Neste RE, alegou-se, em suma, ofensa aos arts. 5º, II, LIV e LV, 37, caput e 93, IX, da Constituição Federal.
+Preliminarmente, verifico não ser necessário examinar a existência de repercussão geral das questões constitucionais discutidas no caso. É que, nos termos do art. 323, primeira parte, do Regimento Interno do STF, redação dada pela Emenda Regimental 21/2007, a verificação da ocorrência de repercussão geral apenas se dará “quando não for o caso de inadmissibilidade do recurso por outra razão”. No caso dos autos, há outros fundamentos suficientes para a inadmissibilidade do recurso extraordinário.
+A pretensão recursal não merece acolhida. Como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Além disso, esta Corte entende não ser cabível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
