@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário contra acórdão que porta a seguinte ementa:
+“TRIBUTÁRIO. EXCLUSÃO DO REFIS. EFEITO SUSPENSIVO. INEXISTÊNCIA RECURSO ADMINISTRATIVO. NEGATIVA DE SEGUIMENTO. INOCORRÊNCIA DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. APELO E RECURSO OFICIAL PROVIDOS.
+1. O art. 5º, § 3º, da Resolução CG/ REFIS nº 9/2001, com a redação dada pela Resolução nº 20/2001 do REFIS, veda expressamente o efeito suspensivo do ato de exclusão do programa de recuperação fiscal.
+2. Havendo cientificação do contribuinte acerca do ato de exclusão do REFIS, bem como oportunização de defesa, não há falar em violação dos postulados do contraditório e da ampla defesa.
+3. Conforme informação prestada pela Secretaria Executiva do Comitê Gestor do Programa de Recuperação Fiscal (REFIS), a exclusão da empresa do mencionado programa restou confirma nos autos da AMS 2002.34.00.010212-8/DF, e, portanto, mesmo houvesse o processamento do recurso administrativo, a conclusão não seria em prol da pretensão da recorrente.
+4. Inexistência de comprovação nos autos acerca dos alegados adimplementos pontuais dos débitos consolidados no REFIS, nos termos do art. 2º da Lei nº 9.964/2000, sendo certo que a via estreita do mandado de segurança exige prova pré-constituída.
+5. Apelação e remessa oficial providas” (fl. 272).
+Neste RE, fundado no art. 102, III, a e c, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, caput, II, XXXIV, a, LIV, LV e 37, caput, 150, II, da mesma Carta, ao argumento de que a empresa recorrente foi excluída do REFIS independente de prévia notificação para defesa e tendo em conta débitos suspensos ou já adimplidos, bem como pela inexistência da previsão de recurso administrativo da decisão que determinou sua exclusão.
+A pretensão recursal não merece acolhida.
+Em relação à alegação de contrariedade ao princípio da isonomia, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Além disso, ainda que afastado tal óbice e também em relação aos demais dispositivos tidos como violados, o acórdão recorrido decidiu a questão com apoio no conjunto fático-probatório dos autos e nas normas infraconstitucionais pertinentes ao caso. Assim, o exame do recurso extraordinário esbarra no óbice da Súmula 279 do STF, sendo ainda certo que a ofensa à Constituição, se ocorrente, seria indireta. Nesse sentido transcrevo a ementa do RE 489.983-AgR/DF, Rel. Min. Cármen Lúcia:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PROGRAMA DE RECUPERAÇÃO FISCAL - REFIS: EXCLUSÃO. LEI N. 9.964/2000 E RESOLUÇÕES. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil”.
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 551.476-AgR/DF, Rel. Min. Menezes Direito; AI 730.701-AgR/DF, Rel. Min. Eros Grau; RE 490.228-AgR/DF e RE 476.530-AgR/DF, Rel. Min. Carlos Britto; AI 675.421-AgR/RS, Rel. Min. Cármen Lúcia; RE 416.574-AgR/DF, Rel. Min. Cezar Peluso; RE 420.349/DF, Rel. Min. Dias Toffoli; AI 730.525-AgR/DF e RE 473.155-AgR/DF, de minha relatoria.
+É certo, ainda, que o acórdão recorrido assentou-se em mais de um fundamento suficiente e o recurso extraordinário não se voltou contra todos. Incide, portanto, a Súmula 283 do STF.
+Com efeito, as razões do extraordinário não abordaram a assertiva de que falta interesse à recorrente no provimento do presente feito, considerando o julgamento de outro mandado de segurança, que teria confirmado a exclusão da empresa do REFIS.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
