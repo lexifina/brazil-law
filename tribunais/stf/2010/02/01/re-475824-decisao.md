@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário contra acórdão que rejeitou a preliminar de incompetência da Justiça Comum e manteve sentença que anulou ato administrativo, determinando a reincorporação de gratificação aos vencimentos do ora recorrido, nos seguintes termos:
+“CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DE ANULAÇÃO DE ATO ADMINISTRATIVO. PRELIMINAR DE NULIDADE DA SENTENÇA POR INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA COMUM. REJEIÇÃO. MÉRITO: SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO POR SERVIÇOS TÉCNICOS PERCEBIDA PELO AUTOR SOB O REGIME DA CLT. INCORPORAÇÃO AOS SEUS VENCIMENTOS ANTES DO INÍCIO DA VIGÊNCIA DO REGIME ESTATUTÁRIO. ATO ADMINISTRATIVO QUE RETIROU A REFERIDA GRATIFICAÇÃO DOS VENCIMENTOS DO SERVIDOR POR OCASIÃO DE SUA APOSENTADORIA. ILEGALIDADE. DIREITO ADQUIRIDO. VIOLAÇÃO DO ARTIGO 5º, INCISO XXXVI, DA CONSTITUIÇÃO FEDERAL. ANULAÇÃO DO ATO ADMINISTRATIVO. REINCORPORAÇÃO DA GRATIFICAÇÃO AOS VENCIMENTOS DO AUTOR QUE SE IMPÕE. SENTENÇA CONFIRMADA. IMPROVIMENTO DA REMESSA NECESSÁRIA E DA APELAÇÃO CÍVEL” (fl. 109).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXVI, e 114, da mesma Carta.
+O Subprocurador-Geral da República Edson Oliveira de Almeida opinou pelo não conhecimento do recurso (fls. 211-214).
+A pretensão recursal não merece acolhida. Quanto à alegada ofensa aos arts. 5º, XXXVI, e 114, da Constituição, o acórdão recorrido dirimiu a questão dos autos com apoio no conjunto fático probatório constante dos autos e na legislação infraconstitucional aplicável à espécie, consoante se observa do seguinte trecho da ementa do aresto impugnado:
+“(...)
+O documento de fl. 13, item b, informa que a gratificação por ‘ Trabalho Científico, Técnico ou Administrativo ’ , foi instituída pela Lei Estadual n.º 4.683 de 08.11.1977. No mesmo documento a Administração informa que o autor percebeu por mais de dois anos a referida gratificação, conforme folhas de pagamentos do período de janeiro/89 a março/91.
+ O documento de fl. 12 comprova que o autor teve incorporado aos seus vencimentos, a gratificação   percebida por mais de dois anos, nos termos do art. 457, § 1º, da CLT e das Súmulas 207 do STF e 76 do TST.
+Porém, estando já consolidada a incorporação da gratificação , foi emitido parecer de fls. 48/67 pela Procuradoria do Estado reconhecendo ser impossível o cômputo da vantagem, em virtude de tal procedimento ter se dado em desconformidade com os preceitos legais e, assim, poderia a administração invalidar o ato.
+Houve equívoco por parte da administração ao invalidar o ato concessivo da gratificação .
+No momento da aposentadoria do servidor, já se encontrava em vigor a Lei Complementar nº 122/94, que instituiu o regime jurídico dos servidores públicos estaduais  e sob o manto do qual foi o autor aposentado.
+Deste modo, infere-se que a incorporação anterior não poderia de forma alguma ter sido afetada pela nova situação jurídica decorrente da lei estatutária, pois foi a própria Lei Complementar n.º 122/94 que determinou que os servidores públicos estaduais regidos pela CLT passariam a partir do seu advento, a ser por ela regidos” (fl. 113).
+Assim, o exame do recurso extraordinário requer a prévia análise das provas dos autos - o que é inviável, nos termos da Súmula 279 do STF - e de normas infraconstitucionais, sendo certo que a ofensa à Constituição, se ocorrente, seria apenas indireta.
+É certo, ainda, que para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF.
+Por fim, com a negativa de seguimento ao recurso especial pelo Superior Tribunal de Justiça (fls. 182-186 e 197-202, com trânsito em julgado à fl. 205), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+Isso posto, nego seguimento ao recurso (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
