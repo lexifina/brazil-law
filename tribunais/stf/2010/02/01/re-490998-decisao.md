@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra acórdão que assim ementado:
+“ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. INQUÉRITO CIVIL. COMPETÊNCIA. ART. 14, § 3º E ART. 22 DA LEI 8.429/92. INQUÉRITO CIVIL PÚBLICO . MINISTÉRIO PÚBLICO. IMPOSSIBILIDADE.
+. A Constituição assegura ao Ministério Público o direito de promover o inquérito civil e a ação civil pública, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos.
+. Não se tratando de investigação para o ajuizamento de tal ação, por não haver espaço para isso, reconhecida a competência do Ministério Público para requisitar a instauração de inquérito policial ou procedimento administrativo para apurar ato de improbidade administrativa, inviável interpretação que pudesse justificar o inquérito civil público questionado, pois uma coisa é requisitar outra é instaurar.
+. A Lei 8.429, de 2 de junho de 1992, que trata da improbidade administrativa - lei especial - não prevê a hipótese questionada, sendo taxativa no sentido de determinar a apuração dos fatos na forma prevista nos arts. 148 a 182 da Lei 8.112/90 e, em se tratando de servidor militar, de acordo com os respectivos regulamentos (art. 14, § 3º).
+. Apuração dos fatos que só pode ser procedida, mesmo que por requisição ou provocação do Ministério Público, pela autoridade administrativa competente a que estiver subordinado o servidor (art. 22 do mesmo diploma legal).
+. Se o inquérito policial já foi instaurado, a lei especial impede a instauração do inquérito civil público pelo Ministério Público, mas nada obsta que seja também deflagrado o inquérito administrativo, desde que atendida a competência antes fixada.
+. Fundamentos acrescidos daqueles constantes das notas taquigráficas, para conceder a segurança, na forma do pedido e para os fins pretendidos” (fl. 190).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 127, caput, e 129, III, VI e § 1º, da mesma Carta. Sustentou-se, em suma, a possibilidade do Ministério Público promover o inquérito civil e ação civil pública para apurar a prática de ato de improbidade administrativa.
+A Procuradoria-Geral manifestou-se pelo provimento do recurso (fls. 340-342).
+A pretensão recursal merece acolhida. A jurisprudência desta Corte firmou-se no sentido de que o Ministério Público possui legitimidade para promover ação para apurar ato de improbidade administrativa, conforme se observa do julgamento do AI 497.618-ED/SP, Rel. Min. Carlos Velloso, que porta a seguinte ementa:
+“PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO DO RELATOR: CONVERSÃO EM AGRAVO REGIMENTAL. CONSTITUCIONAL. MINISTÉRIO PÚBLICO. AÇÃO CIVIL PÚBLICA PARA PROTEÇÃO DO PATRIMÔNIO PÚBLICO. LEGITIMIDADE. CF, art. 129, III. I. - Embargos de declaração opostos à decisão singular do Relator. Conversão dos embargos em agravo regimental. II. - Somente a ofensa direta à Constituição autoriza a admissão do recurso extraordinário. No caso, o acórdão limita-se a interpretar normas infraconstitucionais. III. - O entendimento da Corte é no sentido de que o Ministério Público está legitimado à propositura de ação civil pública em defesa do patrimônio público. Precedentes. IV. - Embargos de declaração convertidos em agravo regimental. Não provimento desse”.
+Isso posto, dou provimento ao recurso (CPC, art. 557, § 1º-A). Sem honorários (Súmula 512 do STF).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
