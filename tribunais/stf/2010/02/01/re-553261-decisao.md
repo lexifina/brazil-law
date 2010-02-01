@@ -1,0 +1,12 @@
+DECISÃO: 1. Trata-se de recurso extraordinário interposto de acórdão que, com base nas Leis estaduais nos 1.386/51, 4.819/58 e na Lei Complementar estadual nº 200/74, negou pedido de complementação de aposentadoria.
+ Sustenta o recorrente, com base no art. 102, III, a, ofensa ao art. 5º, XXXVI, LV40, § 8º, da Constituição Federal.
+2.  Inadmissível o recurso.
+ O Plenário desta Corte, ao julgar o RE nº 168.046-Edv (Rel. Min. ILMAR GALVÃO, DJ de 2.5.2003), decidiu que a controvérsia não envolvia questão de direito adquirido, limitando-se à interpretação de lei local, que não pode ser revista em recurso extraordinário (súmula 280).
+ E, bem por isso, pretensões idênticas têm sido aqui repelidas. Cite-se, a título de exemplo, o AI nº 494.425-AgR (da minha relatoria, DJ de 12.11.2004), assim ementado:
+“1. RECURSO. Extraordinário. Inadmissibilidade. Servidor público. Aposentadoria. Complementação. Questão infraconstitucional. Ofensa constitucional indireta. Agravo regimental não provido. Súmulas 280. A questão relativa à complementação de aposentadoria fundada nas Leis estaduais nºs 1.386/51, 4.819/58 e na Lei Complementar estadual nº 200/74, é infraconstitucional, cujo reexame não é admitido em recurso extraordinário. 2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (No mesmo sentido: AI nº 565.437-AgR, Rel. Min. CÁRMEN LÚCIA, DJ de 31.7.2008; AI nº 607.504-AgR, Rel. Min. GILMAR MENDES, DJ de 26.10.2007).
+ Ademais, dissentir das avaliações factuais que, como premissas necessárias, levaram ao teor decisório do julgado, seria mister reexame prévio do conjunto fático-probatório, coisa de todo inviável perante o teor da súmula 279.
+3.  Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Intimem-se.
+Brasília, 1° de fevereiro de 2010.
+Ministro CEZAR PELUSO
+Relator
