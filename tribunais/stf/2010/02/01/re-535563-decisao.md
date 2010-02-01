@@ -1,0 +1,29 @@
+DECISÃO
+RECURSOS EXTRAORDINÁRIOS. TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI. CORREÇÃO MONETÁRIA DOS CRÉDITOS ESCRITURAIS. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. NEGATIVA DE SEGUIMENTO AO RECURSO INTERPOSTO PELA CONTRIBUINTE. RECURSO DA UNIÃO PREJUDICADO.
+Relatório
+1. Recurso extraordinário interposto pela União com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“TRIBUTÁRIO. CRÉDITO DE IPI. RESTITUIÇÃO ADMINISTRATIVA. CORREÇÃO MONETÁRIA COM BASE NA UFIR. INCIDÊNCIA DE JUROS.
+A correção monetária, seja na hipótese de restituição do que se pagou indevidamente, seja na hipótese de ressarcimento, tem o condão apenas de atualizar o valor nominal da moeda, corroída pela inflação. Nada se acrescenta ao capital, tratando-se de mera atualização. Não se corrigindo os valores, haverá enriquecimento indevido pela União” (fl. 135 – grifos nossos).
+2. No recurso extraordinário (admitido à fl. 191), a União sustenta contrariedade ao art. 153, § 3º, inc. II, da Constituição, ao argumento de que “[não] há que se falar em perda de valor, a legitimar a sua atualização, sendo o débito e o crédito escriturais quantias expressas em moeda corrente” (fl. 185).
+3. Concomitantemente ao recurso extraordinário, a União interpôs recurso especial, que foi provido pelo Superior Tribunal de Justiça, nos seguintes termos:
+“TRIBUTÁRIO. RECURSO ESPECIAL. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS (IPI). CRÉDITOS ESCRITURAIS. CORREÇÃO MONETÁRIA. PRECEDENTES.
+1. A correção monetária de créditos escriturais de IPI somente é devida nas hipóteses em que o seu não aproveitamento pelo contribuinte, em tempo oportuno, tenha ocorrido em decorrência de medidas ilegais perpetradas pelo fisco.
+2. Não caracterizada a conduta ilegítima da Fazenda, torna-se indevida a correção monetária por falta de previsão legal.
+3. Recurso especial conhecido e provido” (fl. 201 – grifos nossos).
+Tem-se no voto condutor desse julgado:
+“Oportuno salientar que a hipótese dos autos não comporta encaixe na regra jurisprudencial exceptiva da não correção monetária dos créditos, sendo certo que, já na inicial, assevera a autora, ora recorrida, que os pedidos de ressarcimento foram, desde o primeiro momento, deferidos pelo fisco.
+Ante o exposto, conheço do recurso e dou-lhe provimento para afastar a incidência da correção monetária nos créditos escriturais do IPI” (fl. 199 – grifos nossos) .
+4. Contra esse julgado Mecânica Vanzin Ltda. interpõe recurso extraordinário com base no art. 102, inc. III, alínea a, da Constituição, no qual alega ofensa aos arts. 5º, caput, 37, caput e § 6º, 150, inc. IV, 153, § 3º, inc. II, e 170, inc. II, da Constituição da República.
+Assevera que “houve resistência por parte do Fisco, na medida em que não reconheceu o direito do contribuinte (...). Devido a essa resistência injustificada do Fisco, decorre a necessidade de se corrigir o crédito da Recorrente” (fl. 235).
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste a Mecânica Vanzin Ltda.
+6. O Supremo Tribunal Federal firmou entendimento no sentido de que a questão relativa à correção monetária dos créditos escriturais do Imposto sobre Produtos Industrializados é infraconstitucional, o que não viabiliza o recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS. CORREÇÃO MONETÁRIA. CRÉDITOS ESCRITURAIS. MATÉRIA INFRACONSITUCIONAL. IMPOSSIBILIDADE. O Supremo Tribunal Federal fixou jurisprudência no sentido de que a questão a respeito da correção monetária dos créditos escriturais do IPI possui caráter infraconstitucional, a cujo exame não se presta o recurso extraordinário. Precedentes. Agravo regimental a que se nega provimento” (RE 495.789-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 13.11.2009 – grifos nossos).
+“TRIBUTÁRIO. IPI. CORREÇÃO MONETÁRIA DOS CRÉDITOS ESCRITURAIS. NATUREZA INFRACONSTITUCIONAL. OFENSA MERAMENTE REFLEXA À CONSTITUIÇÃO. AGRAVO IMPROVIDO. I - A discussão acerca da correção monetária dos créditos escriturais do IPI possui natureza infraconstitucional, a cujo exame não se presta o recurso extraordinário. Precedentes. II - Agravo regimental improvido” (RE 405.349-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 17.10.2008).
+“Agravo regimental no agravo de instrumento. Imposto sobre Produtos Industrializados. Operações isentas. Matéria não impugnada. Créditos escriturais. Correção monetária. Matéria infraconstitucional. Precedentes. 1. A questão relativa à ‘exclusão de IPI nas operações isentas’ não foi analisada pela decisão agravada, tendo em vista que não foi objeto do pedido feito no recurso extraordinário. 2. A jurisprudência da Primeira Turma desta Corte é no sentido de que a questão relativa à incidência de correção monetária sobre os créditos escriturais do Imposto sobre Produtos Industrializados é matéria de índole infraconstitucional. 3. Agravo regimental desprovido” (AI 586.423-AgR, Rel. Min. Menezes Direito, Primeira Turma, DJ 26.9.2008).
+7. O recurso extraordinário interposto pela União está prejudicado, por perda superveniente de objeto, em virtude do provimento do Recurso Especial 395.661 (fls. 196-201). Nesse sentido: RE 429.799-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJ 26.8.2005; e RE 252.245, Rel. Min. Carlos Velloso, Segunda Turma, DJ 6.9.2001.
+8. Pelo exposto, nego seguimento ao recurso extraordinário interposto por Mecânica Vanzin Ltda. (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal) e julgo prejudicado o recurso extraordinário interposto pela União (art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 1º de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
