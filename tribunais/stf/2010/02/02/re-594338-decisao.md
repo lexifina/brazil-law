@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. DESAPROPRIAÇÃO. FAIXA DE FRONTEIRA. DOMÍNIO DA UNIÃO. REEXAME DO CONJUNTO PROBATÓRIO: IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“ADMINISTRATIVO. DESAPROPRIAÇÃO POR INTERESSE SOCIAL REFORMA AGRÁRIA. REGULARIZAÇÃO FUNDIÁRIA DO IMÓVEL TRACUTINGA, SITUADO NO MUNICÍPIO DE DIONÍSIO CERQUEIRA/SC. FAIXA DE FRONTEIRA DE 66 KM. ALIENAÇÃO A NON DOMINO. EXPROPRIADA QUE NÃO INTEGROU A RELAÇÃO JURÍDICO-MATERIAL DA DESAPROPRIAÇÃO. INEXISTÊNCIA DE DIREITO À INDENIZAÇÃO.
+Apelação conhecida e desprovida” (fl. 183).
+2. O Recorrente alega que teria sido contrariado o art. 5º, inc. XXII, XXIV, XXXVI, LIV e LV, da Constituição da República.
+Argumenta que “esse domínio da União sobre o imóvel em questão é mera alegação destituída de prova (...) no caso em comento existe o título privado, sobre o qual repousa absoluta presunção de legitimidade, e, além de inexistir prova da dominicalidade do bem, a União e o INCRA teriam desconhecido o domínio alheio, mediante a edição do Decreto Expropriatório” (fl. 206).
+Assevera, ainda, que “a decisão recorrida transcende – contradiz, a causa de pedir desapropriatória; macula o princípio da ampla defesa; rechaça o devido processo legal, e não tem arrimo probatório, motivos pelos quais não serviria a afastar o direito à justa indenização” (fls. 206-207).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+4. Tem-se no voto condutor do acórdão proferido pelo Tribunal de origem:
+“A desapropriação em questão possui contornos que são de todo próprios: a terra ‘desapropriada’ pertence à União Federal e a ação visou, por vias oblíquas, por fim a um sangrento conflito social que se instalara na faixa de fronteira situada no oeste dos Estados do Paraná e de Santa Catarina. Tal fato explica tais ajuizamentos atípicos, tendo em vista o alcance social e a premente necessidade que os motivaram.
+Assim, é perfeitamente detectável que o objeto da ação, em que pese expropriatória, abrange a totalidade da dominialidade de tais terras e, consequentemente, a validade ou não dos títulos de propriedade outorgados pelo Estado de Santa Catarina.
+Em suma, o Apelante detinha título de propriedade nulo, que, por deferência da União e, posteriormente, pelo legislador ordinário, poderia vir a ser ratificado, caso estivesse na posse e efetiva exploração do bem, o que não ocorreu. Logo, andou bem, a r. sentença ao barrar a indenização” (fl. 172 v. – grifos nossos).
+É de se realçar que o Tribunal a quo decidiu a controvérsia sobre a titularidade dos imóveis objeto de desapropriação com base nos elementos probatórios constantes nos autos. Para se concluir de forma diversa, seria necessário o reexame dessas provas, procedimento incabível de ser adotado validamente no recurso extraordinário. Incide na espécie a Súmula 279 do Supremo Tribunal.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. DESAPROPRIAÇÃO: INDENIZAÇÃO. RETITULAÇÃO DO IMÓVEL. IMPOSSIBILIDADE DO REEXAME DE PROVAS NA VIA EXTRAORDINÁRIA. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 394.423-AgR, de minha relatoria, Primeia Turma, DJe 26.6.2009).
+“EMENTA: CONSTITUCIONAL. ADMINISTRATIVO. USUCAPIÃO DE DOMÍNIO ÚTIL. TERRENO DE MARINHA. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279 DO STF. OFENSA INDIRETA À CONSTITUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. I - O julgamento do RE demanda o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF. II - O acórdão recorrido dirimiu a controvérsia com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. III - Ausência de prequestionamento da questão constitucional suscitada. Incidência das Súmulas 282 e 356 do STF. IV - Agravo regimental improvido” (RE 534.546-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 19.9.2008).
+5. Além disso, a jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa reflexa à Constituição da República. Nesse sentido:
+“A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+Não há, pois, o que prover quanto às alegações do Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
