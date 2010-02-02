@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido reconheceu à Empresa Brasileira de Correios e Telégrafos – ECT a imunidade tributária prevista no art. 150, VI, a, da Constituição, para excluir a cobrança do Imposto Predial e Territorial Urbano – IPTU.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, caput, 150, VI, a, e 173, § 1º e § 2º, da mesma Carta.
+O agravo não merece acolhida. O acórdão recorrido encontra-se em consonância com a jurisprudência do Supremo Tribunal Federal ratificada no recente julgamento da ACO 765-QO/RJ, Red. p/ acórdão Min. Menezes Direito, no sentido de que a Empresa Brasileira de Correios e Telégrafos - ECT está abrangida pela imunidade tributária recíproca prevista no art. 150, VI, a, da Constituição (Informativo 546 do STF). No mesmo sentido, transcrevo a ementa da ACO 959, Rel. Min. Menezes Direito:
+“Tributário. Imunidade recíproca. Art. 150, VI, ‘a’, da Constituição Federal. Extensão. Empresa pública prestadora de serviço público. Precedentes da Suprema Corte. 1. Já assentou a Suprema Corte que a norma do art. 150, VI, ‘a’, da Constituição Federal alcança as empresas públicas prestadoras de serviço público, como é o caso da autora, que não se confunde com as empresas públicas que exercem atividade econômica em sentido estrito. Com isso, impõe-se o reconhecimento da imunidade tributária prevista no art. 150, VI, a da Constituição Federal. 2. Ação cível originária julgada procedente”.
+Ressalta-se que esse entendimento tem sido reiteradamente consolidado por esta Corte, consoante se observa dos seguintes precedentes: AI 690.242-AgR, de minha relatoria; AI 718.646-AgR/SP, Rel. Min. Eros Grau; AI 454.929/RS, Rel. Min. Joaquim Barbosa; ACO 1.095-MC-AgR/GO, Rel. Min. Gilmar Mendes; RE 424.227/SC e RE  354.897/RS, Rel. Min. Carlos Velloso; AI 707.112/SP, Rel. Min. Cármen Lúcia.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 2 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
