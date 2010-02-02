@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“AÇÃO ORDINÁRIA – SERVIDOR PÚBLICO ESTADUAL – POLÍCIA CIVIL – LEI ORGÂNICA – ADICIONAL NOTURNO INDEVIDO. Os integrantes das carreiras da Polícia Civil do Estado de Minas Gerais, ocupantes de cargos de natureza estritamente policial, que laboram em regime de plantão, não fazem jus ao adicional noturno, porquanto ainda que o artigo 39, §3º da CR/88 não faça restrições a servidores públicos, aplicável à espécie o estatuto próprio dos policiais civis, que não previu o pagamento do adicional mencionado” (fl. 74).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 7º, IX e 39, § 3º, da mesma Carta.
+O agravo não merece acolhida. É que para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como a análise de normas infraconstitucionais locais (Lei Estadual 10.745/92) o que atrai a incidência das Súmulas 279 e 280 do STF. Trago por oportuno trecho do acórdão recorrido:
+“Por sua vez, a norma prevista no artigo 39, §3º da Constituição assegura a aplicação de referido dispositivo aos servidores ocupantes de cargo público, ao que se acresce que o artigo 12 da Lei Estadual nº 10.745/92, que ‘dispõe o reajustamento dos símbolos, dos níveis de vencimento e dos proventos do pessoal civil e militar do Poder Executivo’, estabelece que ‘o serviço noturno, prestado em horário compreendido entre as 22 (vinte e duas) horas de um dia e as 5 (cinco) horas do dia seguinte, será remunerado com o valor-hora normal de trabalho acrescido de 20% (vinte por cento), nos termos de regulamento’.
+Todavia, não obstante a previsão constitucional do adicional noturno aos servidores públicos estaduais, não se pode perder de vista que a situação dos autos guarda uma peculiaridade, na medida em que o postulante é policial civil ocupante do cargo de detetive (fl. 11), laborando, portanto, em condições especiais, havendo que se lhe aplicar a legislação específica, qual seja, a Lei Orgânica da Polícia Civil do Estado de Minas Gerais” (fl. 77).
+No mesmo sentido, cito os seguintes precedentes, entre outros: AI 554.896-AgR/MG, Rel. Min. Ellen Gracie; AI 769.131-AgR/MG, Rel. Min. Cármen Lúcia; AI 622.718-AgR/DF, Rel. Min. Gilmar Mendes; AI 537.366-AgR/DF, Rel. Min. Eros Grau.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 2 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
