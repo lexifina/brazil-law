@@ -1,0 +1,23 @@
+DECISÃO
+Vistos.
+Ministério Público do Estado de Minas Gerais interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 127, 129, inciso II, 196 e 197 da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, de cujo voto do relator, destaca-se o seguinte trecho:
+“O ilustre Juiz a quo indeferiu a petição inicial e julgou extinto o processo, sem julgamento do mérito, com fundamento na ilegitimidade ativa ad causam, nos termos do art. 267, I e 295, II, do CPC.
+E, contra a decisão que negou seguimento ao recurso de apelação nº 1.0079.04.141718-3/001, o Ministério Público interpôs agravo regimental, alegando o ilustre Procurador de Justiça, Dr. Antônio Sérgio Rocha de Paula, que ‘a legitimidade do Ministério Público decorre da própria preservação dos valores constitucionais cuja defesa foi outorgada à Instituição. Sendo a saúde direito fundamental indisponível, legitimado está o Ministério Público a promover ação civil pública para obrigar o Estado a dispensar o tratamento médico adequado ao cidadão necessitado...’(f.69).
+Com a devida vênia do ilustre Procurador de Justiça, Dr. Antônio Sérgio Rocha de Paula,mantenho a decisão agravada...” (fl. 86).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 19/8/04, conforme expresso na certidão de folha 92, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação merece prosperar.
+A jurisprudência desta Corte fixou entendimento no sentido de que o texto constitucional qualifica o direito à saúde como individual e indisponível, além das ações e serviços de saúde como prestações de relevância pública, legitimando, portanto, a atuação do Ministério Público para a propositura de ação em sua defesa. Nesse sentido, anote-se:
+“Tenho que o apelo extremo não merece acolhida. É que o acórdão impugnado: a) não destoa da jurisprudência desta colenda Corte, segundo a qual ‘o direito à saúde – além de qualificar-se como direito fundamental que assiste a todas as pessoas – representa conseqüência constitucional indissociável do direito à vida’ (RE 271.286-AgR, sob a relatoria do ministro Celso de Mello); b) afina com disposto no inciso II do art. 129 da Constituição Federal, in verbis: ‘II – zelar pelo efetivo respeito dos Poderes Públicos e dos serviços de relevância pública aos direitos assegurados nesta Constituição, promovendo as medidas necessárias a sua garantia’. Inciso, esse, que densifica a parte final do caput do art. 127 da mesma Constituição de 1988, a saber: ‘O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis’.
+5. Qualificando-se, portanto, o direito à saúde como individual indisponível, legitima-se o Ministério Público para a propositura de ação em sua defesa. Precedentes: REs 394.820, sob a relatoria do ministro Carlos Velloso; 507.927, sob a relatoria do ministro Gilmar Mendes; e 512.889, sob a relatoria do ministro Eros Grau. A propósito, leia-se a ementa do RE 554.088, também sob relatoria do ministro Eros Grau:
+‘AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FORNECIMENTO DE MEDICAMENTOS. MINISTÉRIO PÚBLICO. LEGITIMIDADE ATIVA. DEFESA DE DIREITOS SOCIAIS E INDIVIDUAIS INDISPONÍVEIS. PRECEDENTES.
+1.  A Constituição do Brasil, em seu artigo 127, confere expressamente ao Ministério Público poderes para agir em defesa de interesses sociais e individuais indisponíveis, como no caso de garantir o fornecimento de medicamentos a hipossuficiente.
+2.  Não há que se falar em usurpação de competência da defensoria pública ou da advocacia privada.
+Agravo regimental a que se nega provimento’” (RE nº 575.631/RS, Relator o Ministro Carlos Britto, DJE de 2/12/08).
+No mesmo sentido, a seguinte decisão monocrática: AI nº 723.987/RS, Relator o Ministro Marco Aurélio, DJ de 20/4/09.
+Ante o exposto, nos termos do artigo 544, § 3º, do Código de Processo Civil, com a redação da Lei nº 9.756/98, conheço do agravo e dou provimento ao recurso extraordinário para declarar a legitimidade ativa do Ministério Público Estadual para o ajuizamento do feito, determinando o regular processamento.
+Publique-se.
+Brasília, 2 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
