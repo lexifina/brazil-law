@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que negou provimento à apelação.
+2.  Nas razões do RE, sustenta-se ofensa ao art. 5º, XLVI, LIV, LV e LVII, da Constituição Federal, sob o fundamento de que a supressão da fase de diligências finais, insculpida no art. 499 do Código de Processo Penal, resultou em afronta aos princípios do contraditório e da ampla defesa.
+ Aduz, ainda, que o julgado, ao considerar como maus antecedentes processos em curso, nos quais o recorrente foi absolvido ou resultou extinta sua punibilidade, acabou por afrontar os princípios da não-culpabilidade, da individualização da pena e da proporcionalidade.
+3.  Este Tribunal entendeu que, em regra, a alegação de desrespeito aos postulados do devido processo legal, da ampla defesa e do contraditório, se existentes, seriam meramente reflexa ou indireta, cujo exame se mostra inviável nesta sede recursal. Nesse sentido, o AI 372.358-AgR, rel. Min. Celso de Mello, 2ª Turma, DJ 28.06.2002.
+4.  A suposta ofensa à Constituição, se houvesse, seria indireta, a depender de análise da legislação infraconstitucional (Código Penal e Código de Processo Penal), além de requerer o reexame dos fatos e das provas da causa (Súmula STF 279), hipóteses inviáveis de apreciação em sede extraordinária.
+5.  No que concerne à possibilidade de processos em curso serem considerados maus antecedentes, esta Corte reconheceu a existência de repercussão geral da matéria no RE 591.054, rel. Min. Marco Aurélio, DJe 14.11.2008.
+6.  No julgamento do RE 540.410-QO, rel. Min. Cezar Peluso, DJe 16.10.2008, e do AI 715.423-QO, de minha relatoria, DJe 04.09.2008, esta Corte decidiu que, nos casos de matérias com repercussão geral reconhecida, é possível a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais de origem, para os fins previstos no art. 543-B, § 3º, do CPC.
+7.  Dessa forma, dou provimento ao agravo de instrumento para admitir o recurso extraordinário em relação à possibilidade de processos em cursos serem considerados maus antecedentes e, nos termos do art. 328 do RISTF, determino a devolução dos presentes autos ao Tribunal de origem, bem como a observância, no tocante ao apelo extremo interposto, das disposições do art. 543-B do Código de Processo Civil, e nego seguimento ao agravo quanto às demais alegações (CPC, art. 557, caput).
+Publique-se.
+Brasília, 2 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
