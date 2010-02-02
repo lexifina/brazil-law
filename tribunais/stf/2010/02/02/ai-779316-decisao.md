@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se violação aos arts. 5º, XXXV, LV, 61, § 1º, II, 63, I e 93, IX, da mesma Carta.
+O agravo não merece acolhida. Isso porque, à exceção do art. 93, IX da Constituição, os demais dispositivos não foram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ainda que superado tais óbices o recurso não prosperaria. É que para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Lei estadual 5.810/94), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Nesse sentido: AI 492.199-AgR/PA, Rel. Min. Cezar Peluso; AI 565.588/PA, Rel. Min. Eros Grau; RE 367.746/PA, Rel. Min. Ellen Gracie; AI 396.483/PA, Rel. Min. Sepúlveda Pertence.
+Outrossim, como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, XXXV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. No mesmo sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, verifico que o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição. Nesse sentido: AI 559.324/RJ; AI 488.107/SP, entre outros.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 2 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
