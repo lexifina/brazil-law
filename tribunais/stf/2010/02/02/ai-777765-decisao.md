@@ -1,0 +1,18 @@
+1.  Trata-se de agravo de decisão que inadmitiu recurso extraordinário interposto contra acórdão que julgou prejudicada a apelação da defesa e, de ofício, decretou a nulidade do feito e, consequentemente, a extinção da punibilidade pela prescrição.
+2.  Nas razões do RE, sustenta-se ofensa aos arts. 5º, LIV e LV, e 93, IX, da Constituição Federal, sob o fundamento de que não há nulidade nos casos em que o advogado não é intimado da expedição da carta precatória para oitiva de testemunha. Salienta, ainda, que a sentença não padece de nulidade por falta de fundamentação, pois foram devidamente apreciadas as teses apresentadas pela defesa.
+3.  No julgamento da apelação, o Tribunal a quo assim se manifestou a respeito das questões recursais suscitadas:
+ “No caso em exame, uma carta precatória foi expedida para a Comarca de Porto Alegre (expedida às fls. 107/108), a fim de colher o depoimento da vítima, sendo que o Ministério Público e o defensor do réu foram intimados da expedição da mesma (fl. 108v) e da audiência designada pelo juízo deprecado (fl. 109v).
+ Todavia, não se procedeu à intimação do réu da expedição da mesma, nem mesmo – aqui o vital – da data da audiência no juízo deprecado, tanto que não se fez presente (fls. 114/116). E, estando preso – embora não por este feito, tem-se que todas as intimações ocorreram na Penitenciária Modulada de Osório – não foi sequer requisitado para a audiência. Logo, agredida a ampla defesa.
+ (...)
+ Na espécie, a defesa, em alegações finais, levantou a tese do “estado de necessidade”, encampando argumentação do réu no seu interrogatório judicial (autodefesa).
+ No entanto, dita tese não restou enfrentada na setença. Logo, nula o é.
+ Nula, portanto, a audiência das fls. 114/116, bem como a sentença.”
+4.  O Plenário desta Corte reconheceu a existência de repercussão geral da matéria no RE 602.543, rel. Min. Cezar Peluso, e, ao julgar o mérito do recurso, reafirmou o entendimento no sentido da inexistência de nulidade pela ausência de requisição de réu preso para comparecer à audiência realizada por meio de precatória, conforme se depreende da decisão proferida em sessão de julgamento de 19.11.2009:
+“O Tribunal, por maioria, vencidos os Senhores Ministros Marco Aurélio e Celso de Mello, reconheceu a existência de repercussão geral, reafirmou a jurisprudência da Corte acerca da inexistência de nulidade pela ausência, em oitiva de testemunha por carta precatória, de réu preso que não manifestou expressamente intenção de participar da audiência e negou provimento ao recurso, nos termos do voto do Relator. Votou o Presidente, Ministro Gilmar Mendes. Ausentes, justificadamente, o Senhor Ministro Eros Grau e, neste julgamento, o Senhor Ministro Carlos Britto. Plenário, 19.11.2009.”
+5.  O acórdão recorrido decidiu em sentido contrário da orientação firmada por esta Corte.
+6.  Em relação à alegada contrariedade ao disposto no art. 93, IX, da Constituição Federal, o fato de a decisão ter sido contrária aos interesses da parte não caracteriza violação ao dispositivo constitucional apontado. Nesse sentido, AI 662.319-AgR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 05.03.2009; AI 682.065-AgR, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 03.04.2008, entre outros julgados.
+7.  Ante o exposto, com fundamento no art. 544, § 4º, do CPC, dou provimento ao recurso extraordinário e determino a devolução dos autos ao tribunal de origem para o prosseguimento do julgamento do recurso de apelação e nego seguimento ao agravo em relação às demais alegações (CPC, art. 557, caput).
+Publique-se.
+Brasília, 2 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
