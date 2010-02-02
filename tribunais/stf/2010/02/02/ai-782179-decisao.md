@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão proferido pelo Tribunal Superior do Trabalho que porta a seguinte ementa:
+“AGRAVO DE INSTRUMENTO. Nega-se provimento ao agravo de instrumento quando as razoes, mediante as quais se pretende demonstrar que o recurso de revista atende aos pressupostos de admissibilidade inscritos no art. 896 da CLT, não conseguem infirmar os fundamentos do despacho agravado” (fl. 126).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, XXXV, LIV, LV e 37, caput, da mesma Carta.
+O agravo não merece acolhida. É que o acórdão recorrido decidiu a causa à luz da legislação trabalhista e da jurisprudência do TST. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 742.294-AgR/SP, de minha relatoria; AI 707.140-AgR/RS, Rel. Min. Cármen Lúcia.
+Outrossim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional, à exceção do art. 5º, II, da Constituição, suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ainda que superado tais óbices, o recurso não prosperaria. É que a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, este Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva o reexame de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 2 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
