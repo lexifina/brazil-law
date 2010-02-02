@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. ABONOS SALARIAIS. EXTENSÃO AOS INATIVOS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS (SÚMULA 454 DO SUPREMO TRIBUNAL FEDERAL). INAPLICABILIDADE DO ART. 195, § 5°, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL: DESNECESSIDADE. INTIMAÇÃO DO ACÓRDÃO RECORRIDO ANTERIOR A 3.5.2007. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado da Primeira Turma de Recursos de Santa Catarina:
+“Cobrança. Previdência privada. Complementação de aposentadoria. Abono salarial. Natureza remuneratória. Extensão aos inativos. Suplementação de benefícios. Fonte de custeio.
+1. O abono pago pela Caixa Econômica Federal aos seus empregados da ativa integra salários, posto que tem caráter salarial, por força do artigo 457, § 1º, da CLT e deve ser estendido aos servidores inativos, a cargo da entidade securitária privada responsável pela complementação salarial;
+2. A norma inserida no artigo 195, § 5º, da CF se aplica às entidades de previdência oficial, e não às de previdência privada;
+3. Os contratos produzem efeitos às partes, não podem ceifar direitos a terceiros.
+Recurso improvido” (fl. 352).
+2. A Agravante alega que o acórdão recorrido teria contrariado os arts. 7º, inc. XXVI, 93, inc. IX, 195, § 5º, da Constituição da República.
+Sustenta que “os abonos concedidos não caracterizam reajuste salarial, não integram as remunerações dos funcionários da ativa, conforme consignado nos próprios acordos e/ou dissídios coletivos, e o seu repasse aos aposentados filiados à Fundação que ora recorre caracteriza violação ao art. 7º, XXVI, da CF” (fl. 382).
+Assevera que “tanto a previdência oficial quanto a previdência privada (...) estão impedidas, constitucionalmente, de criar, majorar ou estender qualquer benefício ou serviço de seguridade, sem a correspondente fonte de custeio total” (fl. 401).
+Examinada a matéria posta à apreciação, DECIDO.
+3. Razão jurídica não assiste à Agravante.
+4. Quanto à preliminar de repercussão geral, é de se anotar que a Agravante foi intimada do acórdão recorrido antes de 3.5.2007 (fl. 373), o que dispensa a demonstração da repercussão geral da questão constitucional em capítulo especial do recurso extraordinário, nos termos do que decidido pelo Plenário do Supremo Tribunal Federal no Agravo de Instrumento 664.567-QO, Relator o Ministro Sepúlveda Pertence.
+5. Inicialmente, cumpre anotar que não prospera a alegação de nulidade do acórdão por falta de fundamentação. O Tribunal a quo apreciou as questões suscitadas e fundamentou-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses da Recorrente.
+6. O Tribunal de origem examinou a controvérsia sobre a extensão dos abonos aos inativos à luz de legislação infraconstitucional aplicável à espécie e da interpretação de cláusulas do regulamento da entidade de previdência privada e de acordo e convenção coletivos de trabalho. O reexame da questão demandaria a adoção de idêntico procedimento, o que é inviável em recurso extraordinário. Incide na espécie a Súmula 454 do Supremo Tribunal Federal.
+Nesse sentido:
+“PREVIDÊNCIA PRIVADA. ABONO SALARIAL. EXTENSÃO AOS APOSENTADOS. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. SÚMULAS 279 E 454 DO STF. I - Matéria de índole meramente processual, em regra, não autoriza o conhecimento do recurso extraordinário, porquanto eventual afronta à Constituição seria indireta. II - RE que demanda o exame de matéria de fato e análise de cláusulas contratuais, bem como de legislação ordinária, o que inviabiliza o RE, a teor das Súmulas 279 e 454 do STF.. III - Ausência de novos argumentos. IV - Agravo regimental improvido” (RE 524.569-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 19.12.2007).
+7. Ademais, o Supremo Tribunal Federal firmou entendimento no sentido de que o art. 195, § 5º, da Constituição da República diz respeito somente à seguridade social financiada por toda a sociedade, sendo alheio às entidades de previdência privada.
+Confira-se, a propósito, o seguinte julgado:
+“1. RECURSO. Agravo de instrumento. Intempestividade. Comprovação de que o recurso foi interposto no prazo legal. Recurso conhecido. Provada a tempestividade do recurso, deve este ser conhecido, presentes os demais requisitos de admissibilidade. 2. RECURSO. Extraordinário. Inadmissibilidade. Previdência privada. Complementação de aposentadoria. Alegação de ofensa ao art. 195, § 5º, da Constituição da República. Dispositivo que versa sobre a previdência social. Precedente. Agravo regimental não provido. O disposto no art. 195, § 5º, da Constituição da República, diz respeito apenas à previdência social, não se impondo ao regramento dos planos privados. 3. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 201 da Constituição da República. Prequestionamento. Ausência. Aplicação das súmulas 282 e 356. Agravo regimental não provido. Não se admite recurso extraordinário quando falte prequestionamento da matéria constitucional invocada” (AI 598.382-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 30.4.2009 – grifos nossos).
+8. Nada há, pois, a prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
