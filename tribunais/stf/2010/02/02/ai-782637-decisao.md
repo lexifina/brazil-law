@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido porta a seguinte ementa:
+“EMBARGOS DO DEVEDOR. REPETIÇÃO DO INDÉBITO. DECLARAÇÃO DE INCONSTITUCIONALIDADE EM CONTROLE DIFUSO. EFEITOS EX TUNC. IMPOSSIBILIDADE. PRECEDENTES DO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO. PREVALÊNCIA DA COISA JULGADO NO PROCESSO DE CONHECIMENTO. INTERPRETAÇÃO EQUIVOCADA DO JULGADO. SENTENÇA REFORMADA. RECURSO PROVIDO” (fl. 82).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXVI, e LIV, 6º, e 30, I, III, V, VI, e VII, da mesma Carta.
+O agravo não merece acolhida. Isso porque, à exceção do art. 5º, XXXVI, e LIV, da Constituição, os demais dispositivos não foram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Outrossim, a Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 602.832-ED/SC, Rel. Min. Sepúlveda Pertence; AI 608.978-AgR/RS, Rel. Min. Eros Grau; AI 536.022-AgR/SP, Rel. Min. Carlos Britto; AI 590.021-AgR/PI, Rel. Min. Cezar Peluso; AI 451.773-AgR/DF, Rel. Min. Gilmar Mendes.
+É certo, ainda, que a jurisprudência deste Tribunal firmou-se no sentido de que, em regra, a alegação de ofensa ao princípio do devido processo legal pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, o que impede a utilização do recurso extraordinário (AI 360.265-AgR/RJ, Rel. Min. Celso de Mello; AI 534.862/PA, Rel. Min. Carlos Velloso; AI 584.592/RJ, Rel. Min. Cezar Peluso).
+Por fim, observa-se que, com a negativa de provimento ao agravo de instrumento pelo Superior Tribunal de Justiça (Ag 1.143.462/RJ, com trânsito em julgado em 17/8/2009) tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 2 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
