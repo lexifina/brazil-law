@@ -1,0 +1,40 @@
+1.   Trata-se de recurso extraordinário interposto contra acórdão proferido nos autos do Agravo em Execução 70014252225 pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 79):
+“ AGRAVO EM EXECUÇÃO. NOVA CONDENAÇÃO. NÃO REGRESSÃO DE REGIME. Não tendo transitado em julgado sentença em outro processo instaurado contra o apenado e, observado o princípio da inocência, não cabe ao juízo da execução alterar a situação do apenado no processo em execução. Decisão mantida. PREQUESTIONAMENTO . A decisão judicial não negou vigência às disposições legais. AGRAVO   IMPROVIDO .”
+Argumenta o recorrente, Ministério Público do Estado do Rio Grande do Sul, que o acórdão impugnado “equivocou-se ao entender que o disposto nos artigos 52, 118, I, e 127, todos da Lei de Execuções Penais viola o princípio da presunção de inocência”, previsto no art. 5º, LVII, da Constituição Federal de 1988 (fl. 108).
+Sustenta ainda que a Corte Estadual “ponderou ser necessário, para o reconhecimento de falta grave – decorrente da prática de crime doloso – sentença condenatória transitada em julgado” (fl. 109).
+Requer o provimento do apelo extremo para o fim de cassar o acórdão recorrido, determinando-se a perda dos dias remidos e a regressão do regime prisional.
+2.  O recurso extraordinário foi admitido pela Presidência do Tribunal de Justiça (fls. 123-126).
+3.  O acórdão impugnado, fundamentado no voto da relatora do agravo em execução, Desembargadora Genacéia da Silva Alberton, foi proferido nos seguintes termos:
+“Trata-se agravo em execução interposto pelo Ministério Público contra decisão que deixou de determinar a regressão de regime carcerário do apenado e a perda dos dias remidos em razão de nova condenação sob a alegação de não ter transitado em julgado a sentença referente ao novo delito.
+Não prospera o recurso interposto pelo órgão ministerial.
+Pelo exame do postulado, verifica-se que a irresignação se dá em decorrência da não determinação de regressão de regime carcerário e perda dos dias remidos pelo apenado.
+Ao não acolher o pedido ministerial, a MM. Juíza de Direito da Vara das Execuções Criminais da Comarca de Cruz Alta, Dra. Stefânia Frighetto fundamentou a decisão nos seguintes termos:
+“A apuração de novo fato criminoso (flagrante), a que se refere o Ministério Público, transcende a competência da Administração Prisional, porque ocorreu, em tese, fora dos muros do cárcere, razão pela qual deixo de homologar o PAD. Se for constatada a existência de crime com sentença transitada em julgado, então será caso para análise de sanção administrativa e concomitante sanção em sede de execução criminal. Nesta esteira, o art. 118, inciso I, da LEP deve ser interpretado de forma sistemática com o art. 5º, inciso LVII, da CF/88, que lhe sucedeu, sob pena de violação do princípio fundamental da não culpabilidade prévia (presunção de inocência).”
+Bem andou a magistrada no caso em exame.
+Observado o princípio da presunção de inocência, não cabe ao juízo da execução alterar a situação do apenado no processo de execução tendo em vista a existência de outro processo.
+Portanto, entendo inexistir causa a ensejar a reforma da decisão agravada.
+Quanto ao prequestionamento em relação ao artigo 118, inc. I, da Lei 7.210/84, nada há a considerar, eis que a decisão não negou vigência à referida norma, apenas se coaduna com disposição constitucional.
+Voto, pois, no sentido de negar provimento ao recurso, mantendo a decisão hostilizada.” (Fls. 81-83).
+4.  Entretanto, a jurisprudência desta Suprema Corte já assentou que a Lei de Execução Penal não exige o trânsito em julgado de sentença condenatória para a regressão de regime, bastando, para tanto, que o condenado tenha “praticado” fato definido como crime doloso (art. 118, I, da LEP).
+ Nesse sentido, destaco os seguintes julgados:
+“PROCESSUAL PENAL. HABEAS CORPUS. REGRESSÃO DE REGIME PRISIONAL. FALTA GRAVE. FATO DEFINIDO COMO CRIME. SOMA OU UNIFICAÇÃO DE PENAS. BENEFÍCIOS DA EXECUÇÃO. ARTS. 111 E 118 DA LEI 7.210/84. REMIÇÃO. SÚMULA VINCULANTE 9 DO SUPREMO TRIBUNAL FEDERAL. PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. DIGNIDADE DA PESSOA HUMANA. VETOR ESTRUTURAL. ORDEM DENEGADA NA PARTE CONHECIDA.
+I - A prática de falta grave pode resultar, observado o contraditório e a ampla defesa, em regressão de regime.
+II - A prática de "fato definido como crime doloso", para fins de aplicação da sanção administrativa da regressão, não depende de trânsito em julgado da ação penal respectiva.
+III - A natureza jurídica da regressão de regime lastreada nas hipóteses do art. 118, I, da Lei de Execuções Penais é sancionatória, enquanto aquela baseada no incido II tem por escopo a correta individualização da pena.
+IV - A regressão aplicada sob o fundamento do art. 118, I, segunda parte, não ofende ao princípio da presunção de inocência ou ao vetor estrutural da dignidade da pessoa humana.
+V - Incidência do teor da Súmula vinculante nº 9 do Supremo Tribunal Federal quando à perda dos dias remidos.
+VI - Ordem denegada.” (HC 93.782/RS, rel. Min. Ricardo Lewandowski, DJe 17.10.2008).
+“HABEAS CORPUS. PROCESSUAL PENAL. FALTA GRAVE. PERDA DOS DIAS REMIDOS: APLICAÇÃO DO ART. 118 DA LEI DE EXECUÇÕES PENAIS. PRECEDENTES. HABEAS CORPUS DENEGADO. 1. É entendimento pacífico neste Supremo Tribunal que não há ilegalidade na consideração de crime doloso cometido no decurso da execução penal como elemento de avaliação da regressão de regime prisional. Precedentes. 2. Habeas corpus denegado.” (HC 96.366/RS, rel. Min. Cármem Lúcia, DJe 27.02.2009).
+5.  Ademais, registro que o cometimento de falta grave, durante a execução da pena privativa de liberdade, implica a regressão de regime e a necessidade de reinício da contagem do prazo para obtenção da progressão no regime de cumprimento da pena (RHC 85.605, rel. Min. Gilmar Mendes, DJ 14.10.2005).
+ Em tese, se a pessoa que cumpre pena privativa de liberdade em regime menos severo, ao praticar falta grave, pode ser transferida para regime prisional mais gravoso (regressão prisional), logicamente é do sistema jurídico que a pessoa que cumpre a pena corporal em regime fechado (o mais gravoso) deve ter reiniciada a contagem do prazo de 1/6, levando em conta o tempo ainda remanescente de cumprimento da pena.
+A data-base para a contagem do novo período aquisitivo do direito à progressão do regime prisional é a data do cometimento da última infração disciplinar grave (ou, em caso de fuga, da sua recaptura), computado do período restante de pena a ser cumprida.
+Logo, a recontagem e o novo termo inicial da contagem do prazo para a concessão de benefícios, tal como na progressão de regime, decorrem de interpretação sistemática das regras legais existentes, não havendo violação ao princípio da legalidade.
+6.  Quanto à perda dos dias remidos, registro que o tema já foi objeto de consolidação da orientação desta Corte através da edição do enunciado da Súmula Vinculante 9, in verbis:
+“O disposto no art. 127 da Lei n° 7.210/1984 (Lei de Execução Penal) foi recebido pela ordem constitucional vigente, e não se lhe aplica o limite temporal previsto no caput do art. 58”.
+7.  O cometimento de falta grave, durante a execução da pena privativa de liberdade, implica a perda dos dias remidos pelo trabalho, inexistindo motivo para se cogitar de eventual violação a direito adquirido (HC 89.784/RS, rel. Min. Cármen Lúcia, DJ 02.02.2007).
+Além disso, a perda do direito ao benefício da remição dos dias trabalhados em decorrência da falta grave não atenta contra o princípio da individualização da pena (AI-ED 601.909/RS, rel. Min. Ricardo Lewandowski, DJ 06.10.2006), bem como não viola os princípios da isonomia, da dignidade da pessoa humana (AI-AgR 580.543/RS, rel. Min. Gilmar Mendes, DJ 01.06.2007) e da presunção de inocência (HC 93.782/RS, rel. Min. Ricardo Lewandowski, DJe 16.10.2008).
+8.  Ante o exposto, conheço e dou provimento ao presente recurso extraordinário (CPC, art. 557, § 1º-A).
+Publique-se.
+Brasília, 02 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
