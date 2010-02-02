@@ -1,0 +1,16 @@
+DECISÃO
+Vistos.
+União interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 2º; 5º, inciso II; 37; 61, §1º, inciso II, alínea “a”, e 169, §1º, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Turma Recursal dos Juizados Especiais Federais do Estado do Espírito Santo que, no julgamento de embargos de declaração, concluiu que:
+“O Supremo Tribunal Federal no julgamento do RE – 476279, de 19/04/2007 (conforme noticiado no informativo 463), por maioria de votos, deu parcial provimento ao recurso para que a GDATA seja deferida, aos inativos, nos valores correspondentes a 37,5 pontos, no período de fevereiro a maio de 2002 e, nos termos do art. 5º, parágrafo único, da Lei nº 10.404/2002, para o período de junho de 2002 até a chamada ‘conclusão dos efeitos do último ciclo de avaliação’ a que se refere o artigo 1º da MP 198/2004, convertida na Lei nº 10.971/2004, a partir da qual passa a ser de 60 pontos.
+Sucede que ao contrário do que alegado pela União federal em seus embargos a decisão acima referida do E. STF, no período de maio de 2002 a novembro de 2004, garantiu 30 pontos e, não, 10, conforme redação dada ao artigo 5º, II, da Lei 10.404/2002 pela Lei nº 10.971/2004. Ademais, a lei 11.357/2006 não aboliu a Gdata, mas a manteve para as carreiras mencionadas em seus artigo 31” (fl. 89).
+Decido.
+O Plenário deste Supremo Tribunal Federal, na sessão de 19 de fevereiro de 2009, ao apreciar a Questão de Ordem suscitada pelo Ministro Presidente no Recurso Extraordinário nº 597.154/PB, reconheceu a existência de repercussão geral da matéria tratada nestes autos.
+A irresignação merece prosperar, em parte, haja vista que esta Corte, na sessão plenária de 29/10/09, aprovou a Súmula Vinculante nº 20 consolidando o direito de servidores inativos receberem a Gratificação de Desempenho de Atividade Técnico-Administrativa (GDATA), nesses termos, in verbis:
+“A Gratificação de Desempenho de Atividade Técnico-Administrativa- GDATA, instituída pela Lei 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete virgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do art. 5º, parágrafo único, da Lei 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o art. 1º da Medida Provisória 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.”
+Sobre o tema, e enfatizando que no período de junho de 2002 a abril de 2004 a referida gratificação deve ser aplicada no patamar de 10 pontos, anote-se as seguintes decisões monocráticas: AI 686.553/RJ-AgR, Relator o Ministro Ayres Britto, DJe de 18/3/09; e RE nº 598.363/RJ, Relator o Ministro Celso de Mello, DJe de 17/4/09.
+Ante o exposto, nos termos do artigo 544, § 3º, do Código de Processo Civil, com a redação da Lei nº 9.756/98, conheço do agravo e dou provimento parcial ao recurso extraordinário para reformar o acórdão recorrido e fixar em 10 pontos a GDATA no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória 198/2004. Com isenção dos ônus da sucumbência, nos termos do artigo 55 da Lei nº 9.099/95.
+Publique-se.
+Brasília, 2 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
