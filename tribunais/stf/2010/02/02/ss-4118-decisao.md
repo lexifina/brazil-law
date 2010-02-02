@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de pedido de suspensão (fls. 2-28) dos efeitos de anterior pedido de suspensão de segurança, deferido pelo Superior Tribunal de Justiça, nos autos da Suspensão Segurança n.º 2312.
+Segundo relata-se no pedido de suspensão, o Tribunal de Justiça do Maranhão deferiu liminar em Mandado de Segurança para determinar o retorno de Leocádio Olímpio Rodrigues, ora requerente, ao exercício do mandato eletivo de Prefeito Municipal de Serrano/MA.
+Inconformado, o Município de Serrano ajuizou pleito de suspensão perante o Superior Tribunal de Justiça, tendo o Ministro Hamilton Carvalhido, no exercício da Presidência, deferido a suspensão (fls. 150-157).
+Assim, o Prefeito afastado do Município de Serrano pede a suspensão da decisão do Superior Tribunal de Justiça perante o Supremo Tribunal Federal, com base em argumentos de grave lesão à ordem, à economia, à saúde e à segurança públicas.
+Decido.
+A base normativa que fundamenta o instituto da suspensão (Leis 12.016/09, 8.437/92, 9.494/97 e art. 297 do RI-STF) permite que a Presidência do Supremo Tribunal Federal, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas, suspenda a execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, quando a discussão travada na origem for de índole constitucional.
+Assim, é a natureza constitucional da controvérsia que justifica a competência do Supremo Tribunal Federal para apreciar o pedido de contracautela, conforme a pacificada jurisprudência desta Corte, destacando-se os seguintes julgados: Rcl 497-AgR/RS, rel. Min. Carlos Velloso, Plenário, DJ 06.4.2001; SS 2.187-AgR/SC, rel. Min. Maurício Corrêa, DJ 21.10.2003; e SS 2.465/SC, rel. Min. Nelson Jobim, DJ 20.10.2004.
+No presente caso, entendo incabível o pedido de suspensão de liminar. Eis o que dispõe o art. 5º, caput e § 1º, da Lei n.º 12.016/09:
+Art. 15. Quando, a requerimento de pessoa jurídica de direito público interessada ou do Ministério Público e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas, o presidente do tribunal ao qual couber o conhecimento do respectivo recurso suspender, em decisão fundamentada, a execução da liminar e da sentença, dessa decisão caberá agravo, sem efeito suspensivo, no prazo de 5 (cinco) dias, que será levado a julgamento na sessão seguinte à sua interposição.
+A redação literal do referido dispositivo não deixa dúvida de que o pedido de suspensão, em qualquer instância, somente é admitido ante a existência de uma decisão liminar ou de sentença em execução antes do trânsito em julgado, entendimento este também aplicável às tutelas antecipadas e cautelares concedidas.
+Isso significa que, uma vez inexistente liminar ou tutela antecipada deferida, não se preenche o requisito restritivo do art. 15, caput, da Lei n.º 12.016/09.
+Entendimento contrário soa estranho à sistemática da suspensão de segurança, que deve ser interpretada de maneira restritiva, por se tratar de um regime de contracautela, tratado por regras uniformes, aplicáveis igualmente aos processos das suspensões de segurança, de liminar e de tutela antecipada.
+No caso, verifica-se que a decisão ora impugnada suspendeu os efeitos da decisão liminar anteriormente concedida pelo Tribunal de Justiça do Estado do Maranhão. Dessa forma, inexiste decisão liminar ou de antecipação de tutela em curso a ter seus efeitos suspensos. Portanto, incabível é o presente pedido de suspensão, nos termos do art. 15, caput e § 1º, da Lei n.º 12.016/09 (Cf. SL 252 e SL 253, de minha relatoria, DJ 4.12.2008 e DJ 5.8.2008).
+Ante o exposto, nego seguimento ao pedido (art. 21, § 1º, RI-STF).
+Publique-se.
+Após o trânsito em julgado, arquivem-se os autos.
+Brasília, 3 de fevereiro de 2010.
+Ministro GILMAR MENDES
+Presidente
