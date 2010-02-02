@@ -1,0 +1,14 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão proferido pelo Tribunal Superior do Trabalho que porta a seguinte ementa:
+“RECURSO ORDINÁRIO EM AÇÃO RESCISÓRIA. DECISÃO RESCINDENDA EM FOTOCÓPIA NÃO AUTENTICADA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. INTLIGÊNCIA DA OJ 84 DA SBDI-2.
+A falta de autenticação da decisão rescindenda apresentada em fotocópia corresponde à sua inexistência nos autos, a teor do artigo 830 da consolidação das Leis do Trabalho. Cuida-se de irregularidade que não pode ser relevada, tampouco sanada, em fase recursal, em virtude do entendimento firmado por esta Corte, no sentido de que, verificada a ausência do referido documento, cumpre ao relator do recurso ordinário, de ofício, extinguir o processo por falta de pressuposto de constituição e desenvolvimento válido e regular do feito, conforme se depreende da Orientação Jurisprudencial nº 84 da SDBI-2.
+Processo extinto, sem a resolução do mérito” (fl. 221).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 3º, I, 5º, II, XXXV, LIV e LV, da mesma Carta.
+O agravo não merece acolhida. É que o acórdão recorrido decidiu a causa à luz da legislação trabalhista e da jurisprudência do TST. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 742.294-AgR/SP, de minha relatoria; AI 707.140-AgR/RS, Rel. Min. Cármen Lúcia.
+Outrossim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+Ainda que superado tal óbice, o recurso não prosperaria. É que a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, este Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva o reexame de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 2 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
