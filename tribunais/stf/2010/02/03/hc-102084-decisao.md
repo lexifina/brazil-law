@@ -1,0 +1,38 @@
+DECISÃO
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Adair dos Santos Freitas, buscando a extinção da punibilidade do paciente pela ocorrência da prescrição da pretensão punitiva.
+Aponta como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que deu provimento ao REsp nº 1.073.522/RS, Relator o Ministro Jorge Mussi, interposto pelo Ministério Público Estadual, para afastar o reconhecimento da prescrição e determinar que o Tribunal de Justiça do Estado do Rio Grande do Sul aprecie a apelação interposta pela defesa (fl. 54).
+Sustenta a impetrante, em síntese, que:
+“(...) o entendimento do E. Superior Tribunal de Justiça de que o estelionato previdenciário é crime permanente não deve prosperar, vez que a conduta fraudulenta (elementar do tipo) é única: apresentação de documentos falsos para obtenção de benefício previdenciário.
+Gize-se que os recebimentos reiterados dos benefícios configuram o exaurimento do crime, que se estendem temporalmente, e não a sua consumação.
+Uma vez praticada a fraude, o agente nada mais faz para que os pagamentos dos benéficos ocorram sucessivamente, ainda mais que os mesmos são depositados em conta-corrente automaticamente. Logo, os resultados posteriores independem de ações do agente” (fl. 5).
+Requer o deferimento da liminar para suspender os efeitos do acórdão “proferido nos autos do Recurso Especial nº 1.073.522/RS, mantendo-a, assim, suspensa a execução penal, até decisão final (...) do presente Habeas Corpus” (fl. 9). No mérito, pede a concessão da ordem para declarar a extinção da punibilidade, pela prescrição da pretensão punitiva (fl. 10).
+Examinados os autos, decido.
+O writ não deve ser conhecido.
+É que a Secretaria desta Suprema Corte informou a existência de outro habeas corpus impetrado em favor do ora paciente (fl. 58). Trata-se do HC nº 101.999/RS, de minha relatoria, DJe de 1º/2/10, no qual deferi a liminar, nos termos seguintes:
+“Vistos.
+Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Adair dos Santos Freitas, buscando a extinção da punibilidade do paciente pela ocorrência da prescrição da pretensão punitiva.
+Aponta como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que deu provimento ao REsp nº 1.073.522/RS, Relator o Ministro Jorge Mussi, interposto pelo Ministério Público Estadual, para afastar o reconhecimento da prescrição e determinar que o Tribunal de Justiça do Estado do Rio Grande do Sul aprecie a apelação interposta pela defesa (fl. 31).
+Sustenta a impetrante, em síntese, que ‘o delito imputado ao paciente consumou-se com a concessão do benefício, em novembro de 1992, quando reuniram-se todos os elementos do tipo – emprego de meio fraudulento, induzindo em erro, vantagem ilícita e prejuízo alheio –, realizando-se, de forma perfeita, a figura típica descrita no art. 171 do Código Penal, com a causa de aumento de pena prevista no § 3º’ (fl. 7). Cita precedente desta Suprema Corte nesse sentido.
+Requer o deferimento da liminar para suspender os efeitos do acórdão do STJ até o julgamento final do presente habeas corpus (fl. 7). No mérito, pede a concessão da ordem para “declarar a extinção da punibilidade, pela prescrição da pretensão punitiva, na modalidade retroativa intercorrente” (fl. 8).
+Examinados os autos, decido.
+Narra a impetrante, na inicial, que:
+‘(...)
+Conforme narrado na denúncia, o paciente teria recebido, indevidamente, aposentadoria do INSS, pelo período de novembro de 1992 a maio de 1998.
+Importante destacar que a denúncia foi recebida em 31 de agosto de 2000 e a sentença condenatória recorrível foi publicada em 01 de agosto de 2007. Ao final da instrução processual, o réu foi condenado a uma pena de 1 ano e 4 meses. Desta forma, a prescrição da pretensão punitiva estatal se opera quando decorridos 4 anos entre os marcos interruptivos.
+Entre a consumação do crime e o recebimento da denúncia decorreram quase 8 anos, estando, portanto, extinta a punibilidade do réu já no nascedouro da ação’ (fl. 4).
+O acórdão ora questionado tem a seguinte ementa:
+‘RECURSO ESPECIAL. PENAL. ESTELIONATO. PREVIDÊNCIA SOCIAL. APOSENTADORIA IRREGULAR. PERCEPÇÃO DE BENEFÍCIO. CRIME DE NATUREZA PERMANENTE. PRESCRIÇÃO. LAPSO QUE SE INICIA A PARTIR DA CESSAÇÃO DO RECEBIMENTO DA VANTAGEM INDEVIDA. INTELIGÊNCIA DO ART. 111, III, DO CP. DISSÍDIO COMPROVADO.
+1. Dissente da orientação adotada neste Tribunal decisão que declara extinta a punibilidade, pela ocorrência da prescrição da pretensão punitiva, considerando que o ilícito de estelionato praticado contra a Previdência Social, mediante o recebimento de aposentadoria de forma irregular, é crime instantâneo.
+2. Nos termos do inciso III do art. 111 do CP o lapso prescricional referente aos delitos que se protraem no tempo inicia-se a partir da cessação da permanência, no caso, com a última percepção do benefício indevido, e não do recebimento da primeira parcela da prestação previdenciária.
+3. Recurso especial conhecido e provido para reformar o acórdão impugnado, afastando-se o reconhecimento da prescrição e determinando-se que o Tribunal a quo aprecie a apelação interposta pela defesa’ (fl. 31).
+Como se sabe, a concessão de liminar em habeas corpus constitui medida de caráter excepcional, justificada apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou os autos demonstrarem flagrante constrangimento ilegal.
+Na hipótese vertente, tenho por presentes os requisitos necessários ao deferimento da liminar. É que a tese da impetrante, neste juízo de cognição sumária, encontra respaldo jurídico na jurisprudência desta Suprema Corte, que firmou entendimento no sentido de que “é crime instantâneo de efeitos permanentes o chamado estelionato contra a Previdência Social (art. 171, § 3º, do Código Penal) e, como tal, consuma-se ao recebimento da primeira prestação do benefício indevido, contando-se daí o prazo de prescrição da pretensão punitiva” (HC nº 90.684/RJ, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 14/9/07).
+Perfilhando esse entendimento, destaco os seguintes precedentes: HC nº 82.965/RN, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 28/3/08; HC nº 85.601/SP, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 30/11/07; HC nº 86.467/RS, Tribunal Pleno, Relator o Ministro Marco Aurélio, DJ de 22/6/07; e HC nº 84.998/RS, Primeira Turma, Relator o Ministro Marco Aurélio, DJ de 16/9/05. No mesmo sentido, ainda, a seguinte decisão monocrática: HC nº 94.724/CE-MC, Relator o Ministro Eros Grau, DJe de 27/5/08; HC nº 98.194/RS-MC, Relator o Ministro Menezes Direito, DJe de 31/3/09. Presente, portanto, o fumus boni iuris.
+Ante o exposto, defiro a liminar para suspender, até o julgamento final desta impetração, o andamento da ação penal à qual responde o paciente.”
+Com efeito, verifica-se que a presente impetração apresenta o mesmo objetivo do HC nº 101.999/RS, o que caracteriza mera reiteração. Tal circunstância conduz, inevitavelmente, ao não conhecimento do writ. Nesse sentido as seguintes decisões monocráticas: HC nº 97.731/SP, Relator o Ministro Ricardo Lewandowski, DJe de 10/2/09; HC nº 96.776/BA, Relator o Ministro Menezes Direito, DJe de 21/11/08; HC nº 83.131/SP-MC, Relator o Ministro Celso de Mello, DJ de 15/8/03; e HC nº 80.636/MG, Relator o Ministro Nelson Jobim, DJ de 5/9/01, entre outros.
+Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus e determino o arquivamento dos autos, ficando, por consequência, prejudicado o pedido de liminar.
+Publique-se.
+Brasília, 3 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
