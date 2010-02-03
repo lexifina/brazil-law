@@ -1,0 +1,20 @@
+1.  Trata-se de habeas corpus impetrado contra julgamento colegiado do Superior Tribunal de Justiça em outro writ anteriormente aforado perante aquela Corte (HC 135.407/SP).
+Narra a inicial que o paciente foi condenado à pena de 1 (um) ano, 5 (cinco) meses e 15 (quinze) dias de detenção, substituída por duas penas restritivas de direito, pela prática do crime tipificado no art. 303 do Código de Trânsito Brasileiro, por duas vezes, combinado com art. 70 do Código Penal.
+A decisão condenatória foi mantida, em sede de apelação criminal, pelo Tribunal de Justiça do Estado de São Paulo. Inconformada, a defesa do ora paciente impetrou o HC 135.407/SP perante o Superior Tribunal de Justiça, que denegou a ordem pleiteada.
+Alega o impetrante, em síntese, a ausência de fundamentação idônea para dosimetria da pena acima do mínimo legal.
+Assim, requer a concessão de provimento liminar, para que seja anulada a “quantificação errônea da pena-base, determinando-se ao magistrado de primeiro grau que reformule a fixação da pena-base no mínimo legal (uma vez), aplicando então as majorantes do passo seguinte e não dobrando a pena-base como ilegalmente se fez no presente caso” (fl. 10).
+2.  O Superior Tribunal de Justiça, ao julgar o HC 135.407/SP, denegou a ordem nos termos do voto proferido pelo eminente relator, Ministro Napoleão Nunes Maia Filho (fl. 179 do apenso). Eis o teor da ementa:
+“ HABEAS CORPUS. LESÃO CORPORAL GRAVE E GRAVÍSSIMA NO TRÂNSITO EM CONCURSO FORMAL (ART. 303, CAPUT, DUAS VEZES, C/C ART. 70 DO CPB). DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL (1 ANO E 3 MESES DE DETENÇÃO) DEVIDAMENTE JUSTIFICADA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS (CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO DELITO). AUMENTO DE 1/6 EM RAZÃO DO CONCURSO FORMAL. PENA CONCRETIZADA: 1 ANO, 5 MESES E 15 DIAS DE DETENÇÃO, SUBSTITUÍDA POR 2 RESTRITIVAS DE DIREITO (PRESTAÇÃO DE SERVIÇOS À COMUNIDADE E PRESTAÇÃO PECUNIÁRIA). AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. REVISÃO CRIMINAL. IMPOSSIBILIDADE DE SUSPENSÃO DA EXECUÇÃO DA PENA. PARECER DO MPF PELA DENEGAÇÃO DA ORDEM. ORDEM DENEGADA.
+1. A revisão da pena imposta pelas instâncias ordinárias na Ação de Habeas Corpus, segundo a jurisprudência pacífica desta Corte, somente é admitida em situações excepcionais, quando constatado evidente abuso ou ilegalidade, sendo insuficiente o mero descontentamento do apenado com a sanção imposta pelo Juízo condenatório.
+2. Na hipótese, a pena-base foi estabelecida acima do mínimo legal em vista do reconhecimento de circunstâncias judiciais desfavoráveis, especialmente as relativas às circunstâncias (alta velocidade do veículo desenvolvido pelo paciente) e conseqüências do delito (um dos atingidos necessitou enxerto ósseo e muscular e outro teve uma perna amputada), inexistindo, só por isso, qualquer constrangimento ilegal.
+3. O pedido de Revisão Criminal, por não ser dotado de efeito suspensivo, não obsta a execução da sentença condenatória transitada em julgado. Precedentes do STJ e STF.
+4. Ordem denegada, em conformidade com o parecer ministerial.”
+   Com efeito, da leitura do acórdão impugnado na inicial, verifico que o ato se encontra devidamente motivado, apontando as razões de convencimento da Corte no sentido da fixação da pena acima do mínimo legal.
+3.  Ressalto que, para fins de apreciação do pedido de medida liminar, é necessário avaliar se o acórdão atacado teve o condão de caracterizar patente constrangimento ilegal. Na hipótese dos autos, as razões do aresto hostilizado mostram-se relevantes e, num primeiro exame, sobrepõem-se aos argumentos lançados no writ.
+4.  Desse modo, não vislumbro a presença do requisito do fumus boni iuris para a concessão da tutela pleiteada.
+5.  Ademais, a liminar pleiteada tem caráter nitidamente satisfativo, confundindo-se com o mérito da matéria posta em debate, que, pela sua complexidade, merece um exame mais detido, possível quando do julgamento pelo órgão colegiado.
+6.  Diante do exposto, indefiro o pedido de liminar. Colha-se a manifestação da Procuradoria-Geral da República.
+Publique-se.
+Brasília, 03 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
