@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão denegatória de recurso extraordinário (fls. 49-66) interposto por ofensa ao art. 5º, V, X, XXXV, LIV e LV, da Constituição Federal. O 3º Colégio Recursal da Comarca da Capital do Estado de São Paulo asseverou a ausência de prequestionamento da questão constitucional (fls. 68-69).
+2.  O presente agravo não merece prosperar. Primeiramente, verifica-se que as normas constitucionais alegadas como violadas não foram prequestionadas porque não abordadas pelo acórdão recorrido, ao qual não foram opostos embargos de declaração, não sendo satisfeito, assim, o requisito do prequestionamento (Súmulas STF 282 e 356).
+É pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142-AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.09.2001; e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+3.  Ademais, rever a decisão da instância de origem para concluir de modo diverso implicaria o reexame de fatos e de provas, o que é vedado em sede extraordinária (Súmula STF 279). Veja-se, para ilustrar, o RE 558.036-AgR/RJ, rel. Min. Eros Grau, 2ª Turma, DJ 09.05.2008; e o AI 655.792-ED/RJ, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 08.02.2008.
+4.  Ressalte-se que a questão relativa ao reexame do julgamento proferido na Corte de origem, por suposta negativa de prestação jurisdicional e ofensa aos princípios do contraditório, da ampla defesa e do devido processo legal, pode configurar, quando muito, situação de ofensa meramente reflexa ao texto da Constituição, pois reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade ao disposto no art. 5º, XXXV, LIV e LV, da Constituição Federal. Veja-se o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002, cujo acórdão está assim ementado:
+“ CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO: ALEGAÇÃO DE OFENSA AO DEVIDO PROCESSO LEGAL E DE QUE O ACÓRDÃO NÃO ESTARIA FUNDAMENTADO. C.F., arts. 5º, II, XXXV, LIV e LV, e 93, IX .
+I. – Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional.
+II. – Decisão contrária ao interesse da parte não configura negativa de prestação jurisdicional (...)”.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 04 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
