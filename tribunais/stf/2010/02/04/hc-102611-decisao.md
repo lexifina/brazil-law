@@ -1,0 +1,20 @@
+1.  Trata-se de habeas corpus com pedido de liminar impetrado contra julgamento colegiado da 5ª Turma do Superior Tribunal de Justiça no HC 108.867/PR, de relatoria do E. Ministro Jorge Mussi.
+Segundo consta na inicial, o paciente foi denunciado pela suposta prática dos crimes tipificados no art. 121, § 2º, incisos III, IV e V (homicídio qualificado), e 288, § 1º (quadrilha armada), ambos do Código Penal; e no art. 1º, inciso II, da Lei 9.455/97 (tortura), com a causa de aumento prevista no § 4º, inciso III, do mesmo dispositivo legal, ocorridos no município de Almirante Tamandaré/PR.
+A prisão preventiva do paciente foi decretada pelo juiz da causa para o resgate da ordem pública e conveniência da instrução criminal. O habeas corpus impetrado em favor do paciente teve seu pedido denegado pelo Tribunal de Justiça do Estado do Paraná.
+Neste writ, o impetrante busca a soltura do paciente, argumentando que não houve fundamentação idônea para a decretação de seu recolhimento cautelar e alega que a decisão pautou-se apenas na gravidade objetiva do delito. Aduz também tratar-se de paciente primário, sem antecedentes, com residência fixa e ocupação lícita.
+Assim, requer a concessão liminar da ordem de habeas corpus para que o paciente possa responder ao processo em liberdade, expedindo-se o competente alvará de soltura.
+2.  O Superior Tribunal de Justiça, ao julgar o HC 108.867/PR, relatado pelo Ministro Jorge Mussi, denegou a ordem nos termos da seguinte ementa (fl. 17):
+“HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO TRIPLAMENTE QUALIFICADO E FORMAÇÃO DE QUADRILHA. MODUS OPERANDI. GRAVIDADE CONCRETA. AGENTE VOLTADO À PRÁTICA DE DELITOS VIOLENTOS. PERICULOSIDADE. FUGA DO DISTRITO DA CULPA. NECESSIDADE DA CUSTÓDIA CAUTELAR DEMONSTRADA A BEM DA ORDEM PÚBLICA E PARA GARANTIA DA APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CONSTRANGIMENTO ILEGAL AUSENTE.
+1. Evidenciada a periculosidade do agente, decorrente da forma extremamente violenta com que foi cometido o ilícito e ainda da informação de seu envolvimento em outros crimes contra a pessoa, e comprovada a sua fuga do distrito da culpa, logo após a prática delitiva, mostra-se inviável a revogação da custódia cautelar, pois presentes motivos concretos a indicar a necessidade de sua manutenção.
+2. Condições pessoais, mesmo que realmente favoráveis, em princípio não têm o condão de, por si sós, garantirem a revogação da preventiva, se há nos autos elementos suficientes a demonstrar a sua imprescindibilidade.
+3. Ordem denegada.”
+Com efeito, da leitura do acórdão impugnado na inicial, verifico que o ato se encontra devidamente motivado, apontando as razões de convencimento da Corte para a denegação do pedido de habeas corpus.
+3.  Como já decidiu esta Corte, “a garantia da ordem pública, por sua vez, visa, entre outras coisas, evitar a reiteração delitiva, assim resguardando a sociedade de maiores danos” (HC 84.658/PE, rel. Min. Joaquim Barbosa, DJ 03/06/2005). Nessa linha deve-se considerar também o “perigo que o agente representa para a sociedade como fundamento apto à manutenção da segregação” (HC 90.398/SP, rel. Min. Ricardo Lewandowski, DJ 18/05/2007).
+4.  Ressalto que, para fins de apreciação do pedido de medida liminar, é necessário avaliar se o acórdão atacado teve o condão de caracterizar patente constrangimento ilegal. Na hipótese dos autos, as razões do aresto hostilizado mostram-se relevantes e, num primeiro exame, sobrepõem-se aos argumentos lançados no writ.
+5.  Acrescento, ao fim, que “primariedade, bons antecedentes, residência fixa e profissão lícita” são “circunstâncias que, por si sós, não afastam a possibilidade da preventiva” (HC 84.341, rel. Min. Gilmar Mendes, DJ 04.03.2005).
+6.  Desse modo, não vislumbro a presença do requisito do fumus boni iuris para a concessão da tutela pleiteada.
+7.  Ante o exposto, indefiro o pedido de liminar. Solicitem-se informações ao Juízo de Direito da Vara Criminal do Foro Regional da Comarca de Almirante Tamandaré/PR. Após, colha-se a manifestação da Procuradoria-Geral da República.
+Publique-se.
+Brasília, 04 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
