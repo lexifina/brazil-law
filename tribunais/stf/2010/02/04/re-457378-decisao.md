@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Estado de São Paulo interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“ICMS. Crédito tributário aproveitado extemporâneamente. Admissibilidade de incidência da correção monetária, com a utilização do mesmo índice de correção utilizado pela Fazenda, para a atualização dos débitos tributários. Procedência da ação. Sentença mantida. Reexame necessário não provido” (fl. 45).
+Opostos embargos de declaração (fls. 49 a 50), foram rejeitados (fls. 51 a 53).
+Alega o recorrente violação aos artigos 2º, 5º, inciso II, 155, § 2º, inciso I e XII, alínea “c” da Constituição Federal, uma vez ser incabível a correção monetária dos créditos pleiteados na petição inicial.
+Contra-arrrazoado (fls. 65 a 70), o recurso extraordinário (fls. 55 a 64) não foi admitido (fls. 66 a 70), tendo seguimento por força de agravo de instrumento provido por decisão da lavra do Ministro Sepúlveda Pertence (fl. 86).
+Opina o Ministério Público Federal, em parecer da lavra do então Subprocurador-Geral da República, Dr. Roberto Monteiro Gurgel Santos, “pelo provimento do recurso” (fls. 98 a 99).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 23/3/2001, conforme expresso na certidão de folha 54, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Merece prosperar a irresignação, uma vez que a jurisprudência da Corte já decidiu pela impossibilidade da incidência de correção monetária no creditamento escritural do Imposto sobre Circulação de Mercadorias e Serviços – ICMS, inclusive quando efetuado extemporaneamente, in verbis:
+“RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. IMPOSSIBILIDADE DE EXIGÊNCIA DE CORREÇÃO MONETÁRIA DE CRÉDITOS ESCRITURAIS. PRECEDENTES DAS TURMAS DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO. 1. A incidência de correção monetária sobre o crédito foi objeto de apreciação anterior deste Supremo Tribunal, concluindo-se no sentido de que, em se tratando de irregular lançamento de crédito em decorrência do recolhimento do ICMS, não há incidência de correção no momento da compensação com o tributo devido. 2. Essas operações de creditamento têm natureza meramente contábil: são os chamados créditos escriturais. Aplica-se a eles técnica de contabilização para viabilizar a equação entre débitos e créditos, para fazer valer o princípio da não-cumulatividade” (RE nº 386.475, Primeira Turma, Relatora para o acórdão a Ministra Cármen Lúcia, Tribunal Pleno, DJ de 22/6/07).
+No mesmo sentido, os seguintes precedentes das Turmas:
+“CONSTITUCIONAL. ICMS. CRÉDITO. INCIDÊNCIA DE CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - A jurisprudência desta Corte reconhece a impossibilidade de incidência de correção monetária em créditos de ICMS. Cito precedentes. II - Agravo regimental improvido” (AI nº 535.224/RS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 17/4/09).
+“TRIBUTO. Imposto sobre Circulação de Mercadorias e Serviços - ICMS. Inadmissibilidade - ICMS. Crédito escritural. Correção monetária. Não incidência. Art. 155, § 2º, I, da CF/88. Recurso extraordinário não admitido. Agravo regimental improvido. Precedentes. Contribuinte do ICMS não tem direito a correção monetária dos créditos escriturais” (AI nº 487.391/SP, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 18/4/08).
+“ICMS: aproveitamento de créditos extemporâneos ou acumulados de ICMS: correção monetária: inadmissibilidade em face do princípio da não-cumulatividade (CF, art. 155, § 2º, I): precedentes” (AI nº 228.372/RS-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 24/8/07).
+Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para reformar o acórdão recorrido e julgar improcedente a ação. Custas e honorários advocatícios fixados em R$ 1.500,00 (mil e quinhentos reais) pela autora, vencida.
+Publique-se.
+Brasília, 4 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
