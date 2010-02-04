@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E TRIBUTÁRIO. INSCRIÇÃO NO CADASTRO NACIONAL DE PESSOA JURÍDICA – CNPJ. 1. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL: DESNECESSIDADE. INTIMAÇÃO DO ACÓRDÃO RECORRIDO ANTERIOR A 3.5.2007. 2. IMPOSSIBILIDADE DE APLICAÇÃO DE RESTRIÇÕES PARA COMPELIR CONTRIBUINTE AO CUMPRIMENTO DE OBRIGAÇÃO TRIBUTÁRIA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 3ª Região:
+“ADMINISTRATIVO. MANDADO DE SEGURANÇA. CADASTRO NACIONAL DE PESSOA JURÍDICA – CNPJ. INSCRIÇÃO. INDEFERIMENTO. ILEGALIDADE DAS IN/SRF.
+1. As instruções normativas apresentam dispositivos de manifesta ilegalidade, na medida em que constituem uma tentativa da Administração de cobrar seus créditos fiscais por via oblíqua não prevista em lei, além de imporem restrições ao livre exercício profissional assegurado pela Constituição (art. 5º, XIII).
+2. A Administração dispõe de meios jurídicos, observado o devido processo legal e o princípio do contraditório, para efetuar a cobrança de eventual crédito tributário contra o contribuinte, tornando inviável a utilização de meios coercitivos indiretos para a realização de seus créditos.
+3. Precedentes. Súmulas 70, 323 e 547 do STF.
+4. Apelação e remessa oficial improvidas” (fl. 107).
+2. A Recorrente alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XIII, XXXIV, alínea a, e XXXV, e 170 da Constituição da República.
+Argumenta que “O TRF da 3ª Região (...) negou a prestação jurisdicional postulada pela União, ao não conhecer os embargos de declaração, o que enseja a declaração de nulidade do decisum” (fl. 139).
+Sustenta que, “se há inconstitucionalidade em se negar o registro no CNPJ pelo descumprimento de obrigação tributária principal, o mesmo não pode ser dito em relação ao descumprimento de obrigação tributária acessória (o dever de prestar as declarações fiscais), possibilitando-se, assim, a fiscalização” (fl. 139).
+Apreciada a matéria trazida na espécie, DECIDO .
+3. Inicialmente, quanto à preliminar de repercussão geral, é de se anotar que a então Recorrente foi intimada do acórdão recorrido antes de 3.5.2007, o que dispensa a demonstração da repercussão geral da questão constitucional em capítulo especial do recurso extraordinário, nos termos do que decidido pelo Plenário do Supremo Tribunal Federal no Agravo de Instrumento 664.567-QO, Relator o Ministro Sepúlveda Pertence.
+4. Razão jurídica não assiste à Recorrente.
+5. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de exame prévio de normas infraconstitucionais, configuram, apenas, ofensa reflexa à Constituição da República.
+Nesse sentido os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. (...) ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL E DA INAFASTABILIDADE DA PRESTAÇÃO JURISDICIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 733.954-AgR, de minha relatoria, Primeira Turma, DJ 14.8.2009).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ELEITORAL. INDEFERIMENTO DE REGISTRO DE CANDIDATURA. MATÉRIA INFRACONSTITUCIONAL. SÚMULA 279/STF. 1. Controvérsia decidida à luz de norma infraconstitucional. Ofensa indireta à Constituição do Brasil. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. 3. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de violação meramente reflexa do texto da Constituição. Agravo regimental a que se nega provimento” (AI 734.869-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 17.4.2009).
+6. O Supremo Tribunal Federal firmou o entendimento de que não é possível a aplicação de restrições para compelir de forma indireta o contribuinte inadimplente a cumprir obrigação tributária principal ou acessória.
+Nesse sentido:
+“Nota-se a tomada de empréstimo de meio coercitivo, objetivando a satisfação de débito tributário. Em síntese, a legislação local submete o contribuinte à exceção de emitir notas fiscais individualizadas, quando em débito para com o Fisco. Entendo conflitante com a Carta da República o procedimento adotado. A Fazenda há de procurar o Judiciário visando à cobrança, via executivo fiscal, do que devido, mostrando-se impertinente recorrer a métodos que acabem inviabilizando a própria atividade econômica, como é o relativo à proibição de as empresas em débito, no tocante a obrigações, principal e acessórias, vir a emitir documentos considerados como incluídos no gênero fiscal” (RE 413.782, Rel. Min. Marco Aurélio, Tribunal Pleno, DJ 3.6.2005).
+Especificamente quanto à aplicação de restrições à inscrição da pessoa jurídica no Cadastro Nacional de Pessoas Jurídicas – CNPJ, para fins de compelir o contribuinte a cumprir obrigação tributária:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. INSCRIÇÃO NO CADASTRO NACIONAL DE PESSOA JURÍDICA. IMPOSSIBILIDADE DE APLICAÇÃO DE RESTRIÇÕES PARA COMPELIR O CONTRIBUINTE INADIMPLENTE A PAGAR O TRIBUTO DEVIDO. PRECEDENTES. INSCRIÇÃO INAPTA: NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 677.242-AgR, de minha relatoria, Primeira Turma, DJ 13.11.2009).
+E as seguintes decisões monocráticas: AI 633.419, Rel. Min. Ricardo Lewandowski, DJ 7.8.2007; AI 556.481, Rel. Min. Sepúlveda Pertence, DJ 14.9.2005; AI 637.272, Rel. Min. Celso de Mello, DJ 11.5.2007; AI 653.379, Rel. Min. Eros Grau, DJ 12.11.2007; AI 363.753, Rel. Min. Gilmar Mendes, DJ 31.5.2007.
+Incidem na espécie, ainda, as Súmulas 70, 323 e 547 do Supremo Tribunal Federal.
+7. Dessa orientação não divergiu o acórdão recorrido.
+8. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 4 de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
