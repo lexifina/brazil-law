@@ -1,0 +1,25 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao agravo de instrumento.
+O agravante sustentou, em suma, que a decisão agravada deve ser reformada e insistiu, dessa forma, no processamento do recurso extraordinário.
+Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+‘APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO SERVIDOR PÚBLICO ESTADUAL. MAGISTÉRIO. PROMOÇÃO RETROATIVA. PERÍODO POSTERIOR À APOSENTADORIA. A promoção não implica provimento em novo cargo, mas apenas ascensão na carreira, de acordo com as classes existentes no cargo. No caso dos autos, a recorrida, exerceu o cargo de professora, pelo que faz jus à integralidade das diferenças relativas à promoção da classe C para a D, inclusive do período posterior à sua aposentadoria. Precedentes.
+(...)’ (fl. 22).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 40, § 1º, III, da mesma Carta, assim como ao art. 2º, II, da EC 41/2003. Sustentou-se, em suma, que ocorreu a violação porque a Constituição exige cinco anos de efetivo exercício no cargo em que se pretende aposentar, no caso, a promoção por acesso é provimento em novo cargo e, portanto, a servidora não teria os cinco anos necessários para a aposentadoria no cargo para o qual foi promovida.
+O agravo não merece acolhida. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a promoção por acesso do servidor constitui forma de provimento derivado e não representa ascensão a cargo diferente daquele em que já estava efetivado. Nesse sentido, cito o AI 651.838/MG, Rel. Min. Eros Grau, Segunda Turma, cuja ementa segue transcrita:
+‘AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. REEXAME DE PROVAS E DE LEGISLAÇÃO LOCAL. SÚMULAS 279 E 280 DO STF. PROFESSOR. PROMOÇÃO POR ACESSO. CARGO DE CLASSE SUPERIOR. MESMA CARREIRA. ARTIGO 37, II, DA CB/88. OFENSA INOCORRENTE. 1. Reexame de fatos e provas e de legislação local. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 280 do Supremo Tribunal Federal. 2. O Supremo fixou entendimento no sentido de que a promoção por acesso de professor da rede estadual de ensino não contraria o artigo 37, II, da CB/88, quando ocorre dentro da mesma carreira, não se tratando de ascensão à carreira diversa daquela para a qual o servidor ingressou no serviço público. 3. Agravo regimental a que se nega provimento.’
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 209.174/ES, Rel. Min. Sepúlveda Pertence; RE 446.077-AgR/MG, Rel. Min. Carlos Velloso.
+Portanto, o acórdão recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal quando reconhece o direito da agravada de se aposentar com os proventos referentes à promoção por acesso, por não ter sido promovida a cargo diferente daquele que já exercia efetivamente.
+Ademais, para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF.
+Isso posto, nego seguimento ao recurso” (fls. 86-87).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que o recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Ressalte-se que como consignado na decisão agravada, o acórdão recorrido está em consonância com a jurisprudência desta Corte, conforme os precedentes citados na referida decisão.
+Ademais, para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF.
+Observe, ainda, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º do RISTF).
+Publique-se.
+Brasília, 4 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
