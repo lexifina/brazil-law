@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. ART. 155, § 2º, INC. X, ALÍNEA A. IMUNIDADE QUE NÃO ABRANGE O TRANSPORTE INTERESTADUAL OU INTERMUNICIPAL DE MERCADORIAS DESTINADAS AO EXTERIOR. PRECEDENTES. RECURSO PROVIDO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Mato Grosso:
+“REEXAME NECESSÁRIO DE SENTENÇA COM APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA – EXPORTAÇÃO – ICMS – PORTARIA IMPONDO INSCRIÇÃO EM REGIME ESPECIAL – LEGALIDADE – IMPOSTO SOBRE O TRANSPORTE DA MERCADORIA – NÃO INCIDÊNCIA – EXPRESSA DISPOSIÇÃO DO ART. 155, § 2º, X, ‘A’, DA CF/88 – REDAÇÃO DADA PELA EC N. 42/03 – PROVIMENTO PARCIAL DO RECURSO. 1- Não se reveste de ilegalidade a criação de Regime Especial para fiscalização das operações de exportação, por meio de Portaria editada pelo Secretário de Estado de Fazenda. 2- A não-incidência do ICMS sobre operações de exportação alcança a prestação de serviços de transporte interestadual dos produtos. Atual disposição do texto constitucional, com a redação dada pela EC n. 42/03. Recurso provido, parcialmente” (fl. 113).
+2. O Recorrente afirma que o Tribunal a quo teria contrariado o art. 155, § 2º, inc. IV e X, alínea a, com alteração da Emenda Constitucional n. 42/03, da Constituição da República.
+Argumenta que, “como razão de decidir, o voto condutor do v. acórdão recorrido invocou o fundamento constitucional do art. 155, § 2º, IV, X, ‘a’, da CR/88, com redação que lhe deu a Emenda Constitucional n. 42/03, firmando entendimento no sentido de reconhecer imunidade do ICMS na prestação de serviço de transporte interestadual” (fl. 143).
+Sustenta que “o v. acórdão recorrido, que acentuou não constituir hipótese de incidência do ICMS o serviço de transporte interno da mercadoria a ser exportada, contrariou o disposto no artigo 155, § 2º, X, alínea ‘a’, da Carta Magna, ao qual a Emenda Constitucional n. 42/2003 não alterou, substancialmente” (fl. 148).
+Requer seja declarada “a incidência do ICMS sobre o serviço de transporte interno da mercadoria levada à exportação” (fl. 152).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica assiste ao Recorrente.
+4. O Supremo Tribunal Federal firmou o entendimento de que a imunidade prevista no art. 155, § 2º, inc. X, alínea a, da Constituição não abrange o serviço de transporte interestadual ou intermunicipal das mercadorias destinadas à exportação.
+Confiram-se, a propósito, os seguintes julgados:
+“TRIBUTÁRIO. SERVIÇO UTILIZADO NO TRANSPORTE INTERESTADUAL OU INTERMUNICIPAL DE PRODUTOS INDUSTRIALIZADOS DESTINADOS AO EXTERIOR. PRETENDIDA NÃO-INCIDÊNCIA DO ICMS. ART. 155, § 2º, X, A, DA CONSTITUIÇÃO FEDERAL. Benefício restrito às operações de exportação de produtos industrializados, não abrangendo o serviço utilizado no transporte interestadual ou intermunicipal dos referidos bens. Recurso não conhecido” (RE 196.527, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 13.8.1999).
+E:
+“CONSTITUCIONAL. TRIBUTÁRIO. ICMS: PRODUTOS INDUSTRIALIZADOS DESTINADOS AO EXTERIOR: IMUNIDADE. OPERAÇÕES E PRESTAÇÕES DE SERVIÇO: DISTINÇÃO. C.F., art. 155, II, § 2º, IV, X, a, XII, e. I. - ICMS: hipóteses de incidência distintas: a) operações relativas à circulação de mercadorias; b) prestações de serviço interestadual e intermunicipal e de comunicações: C.F., art. 155, II. II. - A Constituição Federal, ao conceder imunidade tributária, relativamente ao ICMS, aos produtos industrializados destinados ao exterior, situou-se, apenas, numa das hipóteses de incidência do citado imposto: operações que destinem ao exterior tais produtos, excluídos os semi-elaborados definidos em lei complementar: art. 155, § 2º, X, a. III. - Deixou expresso a C.F., art. 155, § 2º, XII, e, que as prestações de serviços poderão ser excluídas, nas exportações para o exterior, mediante lei complementar. IV. - Incidência do ICMS sobre a prestação de serviço de transporte interestadual, no território nacional, incidindo a alíquota estabelecida por resolução do Senado Federal: C.F., art. 155, § 2º, IV. V. - R.E. conhecido e provido” (RE 212.637, Rel. Min. Carlos Velloso, Segunda Turma, DJ 17.9.1999).
+No mesmo sentido: AI 392.314, Rel. Min. Celso de Mello, decisão monocrática, DJ 9.11.2005; RE 192.093, Rel. Min. Sepúlveda Pertence, decisão monocrática, DJ 6.10.2005; AI 388.062-AgR, Rel. Min. Cezar Peluso, decisão monocrática, DJ 22.6.2005.
+5. Dessa orientação jurisprudencial divergiu o acórdão recorrido.
+6. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal).
+Considerando-se a Súmula 512 do Supremo Tribunal Federal, deixo de condenar ao pagamento de honorários advocatícios de sucumbência.
+Publique-se.
+Brasília, 5 de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
