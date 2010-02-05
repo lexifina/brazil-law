@@ -1,0 +1,35 @@
+DECISÃO
+Vistos.
+Habeas corpus eletrônico, com pedido de liminar, impetrado pelo advogado Paulo Roberto Franco em favor de André Aparecido Antônio, buscando a revogação da prisão preventiva do paciente.
+Aponta como autoridade coatora o Ministro Napoleão Nunes Maia Filho, do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 141.490/SP, impetrado àquela Corte.
+O impetrante sustenta o constrangimento ilegal imposto ao paciente, tendo em o excesso de prazo da sua segregação cautelar. Aduz, para tanto, que “ o Paciente teve sua prisão preventiva decretada e se encontra recluso na Cadeia Pública de São Manuel/SP, desde a data de 05/03/2009, ou seja, já está preso há mais de 285 dias, pela prática, a priori, do delito de tráfico de entorpecentes, nos termos do artigo 33, § 1º, III, última parte, da Lei n.º 11.343/06” (fl. 4 da inicial).
+Argumenta a ausência dos pressupostos autorizadores daquela prisão cautelar decretada em desfavor do paciente (fls. 7 a 12 da inicial).
+Aduz, ainda, ser o paciente de bons antecedentes, com residência fixa no distrito da culpa e emprego lícito (fls. 12/13 da inicial).
+No mais, assevera excessiva demora na entrega da prestação jurisdicional, uma vez que o habeas corpus em curso pelo Superior Tribunal de Justiça foi distribuído, em 8/7/09, ou seja, há 5 meses, sem que, até presente data, tenha se pronunciado sobre o mérito (fl. 19 da inicial).
+Pede, ao final, o deferimento de liminar para revogar “a prisão preventiva do Paciente ou lhe ser concedido o pleno gozo do direito constitucional de responder ao processo em liberdade, sem prejuízo do reconhecimento do excesso de prazo na formação da culpa” (fl. 21 da inicial – grifos no original) e, no mérito, a sua confirmação.
+Examinados os autos, decido.
+O writ não merece seguimento.
+No caso, trata-se de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 do Supremo Tribunal Federal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de ‘habeas corpus’ impetrado contra decisão do Relator que, em ‘habeas corpus’ requerido a tribunal superior, indefere a liminar”.
+É certo que a jurisprudência desta Suprema Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia, o que não ocorre na espécie.
+O Ministro do Superior Tribunal de Justiça indeferiu a liminar pelos fundamentos seguintes:
+“Trata-se de Habeas Corpus, com pedido liminar, impetrado em favor de ANDRÉ APARECIDO ANTONIO, preso preventivamente no dia 05/03/2009, por suposta prática do delito de tráfico de entorpecentes, contra acórdão do Tribunal de Justiça do Estado de São Paulo, o qual denegou o writ originário, mantendo a prisão preventiva decretada pelo Juízo da 1ª Vara Judicial da Comarca de São Miguel/SP.
+Alega o Impetrante, inicialmente, ausência de fundamentação do decreto de prisão preventiva, excesso de prazo na formação da culpa e ‘incredibilidade da prova produzida’ (fl. 11). Sustenta, ainda, a desnecessidade da constrição cautelar, na medida em que o Paciente é primário, possuidor de bons antecedentes, residência fixa no distrito da culpa. Acrescenta, por fim ser inconstitucional a proibição genérica da liberdade provisória para crimes hediondos.
+Requer, assim, liminarmente, a revogação da prisão preventiva e expedição de alvará de soltura.
+É o breve relatório inicial.
+Decido.
+Na hipótese, observa-se da acurada leitura dos autos que o writ foi deficitariamente instruído, pois não foram colacionadas as peças processuais imprescindíveis à compreensão da controvérsia, sobretudo a decisão que decretou a prisão preventiva, bem como inteiro teor do acórdão impugnado.
+Sendo assim, em juízo de cognição sumária, ante a deficiente instrução do presente habeas corpus, não há verificar, de plano, a excepcionalidade do caso e o fumus boni juris do pedido urgente.
+Ante o exposto, INDEFIRO o pedido liminar”.
+Na hipótese vertente, verifica-se, de forma evidenciada a inviabilidade do próprio conhecimento da presente impetração, pois não se constata situação de flagrante ilegalidade  apta a ensejar o afastamento, excepcional, da Súmula nº 691 desta Suprema Corte. Pode e deve o Magistrado, ao apreciar o pedido inicial, pautar-se no poder geral de cautela para buscar outros elementos formadores das razões de decidir além daqueles trazidos pela impetração, sem que isso caracterize constrangimento ilegal, abuso de poder ou teratologia.
+O descontentamento pela falta de êxito no pleito submetido ao Superior Tribunal de Justiça, ainda em exame precário e inicial, não pode ensejar o conhecimento deste writ, sob pena supressão de instância e de grave violação das regras de competência.
+Nesse sentido, por exemplo:
+“COMPETÊNCIA CRIMINAL. Habeas corpus. Impetração contra decisão monocrática que, em habeas corpus requerido ao STJ, indeferiu liminar. Não ocorrência de flagrante constrangimento ilegal. Não conhecimento. Aplicação da súmula 691. Em princípio, não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere liminar, se o caso não é de flagrante constrangimento ilegal” (HC nº 100.600/SP, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 23/10/09);
+“HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO DOMICILIAR. SÚMULA 691 DO STF. INADEQUAÇÃO. ILEGALIDADE MANIFESTA. INOCORRÊNCIA. NÃO CONHECIMENTO. I - O indeferimento de liminar em habeas corpus pelo Superior Tribunal de Justiça encontra amparo na Súmula 691 do Supremo Tribunal Federal, que somente admite mitigação na presença de flagrante ilegalidade, abuso de poder ou teratologia. II - Incidência da mencionada Súmula, sob pena de dupla supressão de instância. III - Habeas corpus não conhecido” (HC nº 96.992/SE, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16/10/09).
+Ainda, na mesma linha, as seguintes decisões monocráticas: HC nº 101.290/RS, da minha relatoria, DJe de 6/11/09; HC nº 101.141/SP, Relator o Ministro Joaquim Barbosa, DJe 27/10/09; HC nº 101.112/GO, Relator o Ministro Carlos Britto, DJe de 23/10/09; e HC nº 101.062/SP, Relatora a Ministra Cármen Lúcia, DJe de 22/10/09, entre outros.
+Ademais, entendo que não há nenhum ato configurador de flagrante constrangimento ilegal praticado contra o paciente advindo da decisão que decretou a sua prisão cautelar, não sendo os fundamentos ora apresentados suficientes para colocar o paciente em liberdade, liminarmente e per saltum, como pretende a impetração.
+Assim, entendo não existir haver nenhuma ilegalidade flagrante a justificar a superação do enunciado da Súmula nº 691 desta Suprema para colocar o paciente em liberdade.
+Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento ao presente habeas corpus, por ser flagrantemente inadmissível e, ainda, por contrariar a jurisprudência predominante desta Suprema Corte.
+Publique-se.
+Brasília, 5 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
