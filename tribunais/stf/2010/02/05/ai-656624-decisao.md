@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por alegada ofensa ao art. 5º, LV, da Constituição Federal (fls. 47-64). O Tribunal de origem deu parcial provimento ao recurso do ora agravado para reduzir o valor da indenização por danos morais decorrente de inclusão do nome da autora no cadastro de devedores (fls. 31-43).
+2.  A agravante afirma, em síntese, que houve cerceamento de defesa, pois da intimação das partes para se manifestarem sobre produção de provas, a autora apresentou documentos que comprovariam os danos materiais. Porém, o juiz julgou antecipadamente a lide.
+3.  O agravo não merece seguimento. A alegada violação ao mencionado dispositivo constitucional, se existisse, seria de forma reflexa, a depender da prévia análise da legislação infraconstitucional, o que torna incabível o acesso à via recursal extraordinária.
+A jurisprudência desta Corte está sedimentada no sentido de que “(...) as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário”. Veja-se: o AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, DJe 26.06.2002; o AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.03.2009; e o AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, DJe 04.04.2008.
+4.  Ademais, rever a decisão recorrida, para concluir de forma diversa da Corte de origem, como pretende a autora, implica, além de reexame de normas infraconstitucionais, análise dos fatos e das provas em que se baseou o Tribunal a quo, o que é vedado em sede extraordinária (Súmula STF 279). Nesse sentido, o AI 477.071-AgR/DF, rel. Min. Joaquim Barbosa, 2ª Turma, DJ 28.04.2006.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 5 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
