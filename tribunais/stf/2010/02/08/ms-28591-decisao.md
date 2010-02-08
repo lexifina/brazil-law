@@ -1,0 +1,12 @@
+DECISÃO: 1. Trata-se de mandado de segurança coletivo, com pedido de liminar, impetrado pela Associação dos Notários e Registradores do Brasil - ANOREG, contra ato do Conselho Nacional de Justiça e editado pelo Corregedor Nacional de Justiça, o qual, em 22 de janeiro do presente ano, tornou pública “relação provisória de serventias extrajudiciais consideradas vagas em cada unidade da federação” e estabeleceu prazo de 15 (quinze) dias para impugnação pelos eventuais interessados.
+Alega, a autora, falta de intimação pessoal dos ocupantes das serventias extrajudiciais indicadas, em afronta ao art. 26, § 3°, da Lei nº 9784/99, bem como ao art. 8º, § 5º, do RICNJ. Pede, assim, (i) que se determine à autoridade coatora a promoção da intimação pessoal supostamente não realizada, (ii) a suspensão, para efeitos de contagem de prazo de impugnação, do ato administrativo atacado, e (iii) a publicação pela autoridade coatora de devidos esclarecimentos (fls. 8-9).
+Solicitei informações ao CNJ, devidamente prestadas às fls. 248-251, em que se reputam falsas as alegações da autora. Foram apresentados documentos que comprovariam a expedição de 6.658 cartas de intimação pessoal, com aviso de recebimento, no dia 29 de janeiro de 2010, tendo como destinatários todos os titulares das serventias extrajudiciais atingidos pela declaração de vacância (fls. 249-250). Consta também que, com base no art. 2°, parágrafo único, da Resolução CNJ n° 80 (DJ 16.06.2009), a contagem do prazo para impugnação da inclusão de vaga na resolução provisória teria início apenas a contar da ciência do interessado.
+2.  Inviável o pedido.
+ É que a pretensão da autora, longe de demonstrar fato de que se lhe irradiasse direito líquido e certo, vai, antes, de encontro ao que está provado nos autos como coisa contrária, qual seja, a efetiva ocorrência de intimação pessoal dos interessados.
+Não há excogitar ofensa ao contraditório, a outra cláusula qualquer do devido processo legal, nem a dispositivos legais que exigem a ciência pessoal de interessados, quando há prova inequívoca da expedição, pelo Conselho, de milhares de cartas de intimação pessoal a todos os titulares de serventias extrajudiciais atingidos pela declaração de vacância.
+Não há direito subjetivo por tutelar.
+3.  Do exposto, nos termos do art. 21, §1° do RISTF, nego seguimento ao pedido, prejudicado de liminar. Oportunamente, arquivem-se os autos.
+Publique-se.
+Brasília, 8 de fevereiro de 2010.
+Ministro CEZAR PELUSO
+Relator
