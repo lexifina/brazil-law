@@ -1,0 +1,9 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que concluiu pela impossibilidade da criação de sistema híbrido de aposentadoria que conjugaria as vantagens de três sistemas distintos (Lei 8.213/91, EC 20/98 e Lei 9.876/99).
+2.  No RE, sustenta-se ofensa ao art. 5º, XXXVI, da Constituição Federal e ao art. 3º da Emenda Constitucional 20/98 (fls. 51-57).
+3.  O recurso não merece prosperar. O Plenário do Supremo Tribunal Federal, ao julgar o mérito da repercussão geral reconhecida no RE 575.089/RS, rel. Min. Ricardo Lewandowski, DJe 24.10.2008, confirmou a jurisprudência desta Corte, consolidando o entendimento de que inexiste direito adquirido a determinado regime jurídico e que a superposição de vantagens caracteriza sistema híbrido incompatível com a sistemática de cálculo dos benefícios previdenciários. Eis a sua ementa:
+ “ INSS. APOSENTADORIA. CONTAGEM DE TEMPO. DIREITO ADQUIRIDO. ART. 3º DA EC 20/98. CONTAGEM DE TEMPO DE SERVIÇO POSTERIOR A 16.12.1998. POSSIBILIDADE. BENEFÍCIO CALCULADO EM CONFORMIDADE COM NORMAS VIGENTES ANTES DO ADVENTO DA REFERIDA EMENDA. INADMISSIBILIDADE. RE IMPROVIDO . I - Embora tenha o recorrente direito adquirido à aposentadoria, nos termos do art. 3º da EC 20/98, não pode computar tempo de serviço posterior a ela, valendo-se das regras vigentes antes de sua edição. II - Inexiste direito adquirido a determinado regime jurídico, razão pela qual não é lícito ao segurado conjugar as vantagens do novo sistema com aquelas aplicáveis ao anterior. III - A superposição de vantagens caracteriza sistema híbrido, incompatível com a sistemática de cálculo dos benefícios previdenciários. IV - Recurso extraordinário improvido .”
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 08 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
