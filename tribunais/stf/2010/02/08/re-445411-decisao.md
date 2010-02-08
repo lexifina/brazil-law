@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Vito Errante e outra interpõem recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“Ação ordinária de indenização – Precatório – Retenção de imposto de renda na fonte apenas sobre honorários, e não sobre juros – Atualização monetária que deve ser feita, segundo a sentença, pela variação das OTNs – Impossibilidade de aplicação da Tabela Prática no que divergir dessa orientação – Moratória autorizada pelo art. 78 do ADCT que na poderá beneficiar aqueles que já utilizaram favor similar, previsto no art. 33 desse mesmo diploma – Agravo parcialmente provido’’ (fl. 44).
+Houve embargos de declaração opostos pelo Município de São Bernardo do Campo que, recebidos, resultaram em acórdão assim ementado:
+“Ação ordinária – Precatório – Benefício previsto no art. 78 do ADCT – Impossibilidade para aquele que já utilizou moratória pelo art. 33 – Se isto não ocorreu, nada impede que a devedora pleiteie o novo benefício – Declaratórios recebidos para explicitar esse ponto” (fl. 58).
+Opostos embargos de declaração pelos oras recorrentes (fls. 61 a 64), foram rejeitados (fls. 67/68). Colhe-se da fundamentação do julgado: “(...) restando certo que se o devedor valeu-se do artigo 33 do ADCT não teria direito a novo benefício, dessa vez com amparo no art. 78 desse mesmo diploma. A posição não deixa margem a dúvida, devendo o interessado requerer o que de direito junto ao juízo de execução” (fl. 68).
+Alegam contrariedade aos artigos 5º, incisos XXXV, XXXVI, e LIV, 150, inciso VI, alínea “a”, 153, inciso III, e 158, inciso I, da Constituição Federal.
+ Contra-arrazoado (fls. 86 a 91), o recurso extraordinário (fls. 70 a 81) foi admitido (fl. 91).
+Opina o Ministério Público Federal, com parecer da Subprocuradora-Geral da República, Dra. Maria Caetana Cintra Santos, “pelo não conhecimento do apelo extremo” (fls. 134 a 137).
+Decido.
+Anote-se, inicialmente, que o acórdão dos segundos embargos de declaração foi publicado em 21/3/03, conforme expresso na certidão de folha 69, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no AI nº 664.567, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+No que se refere aos artigos 5º, incisos XXXV e LIV, 150, inciso VI, alínea “a”, 153, inciso III, e 158, inciso I, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pelos recorrentes. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+Por outro lado, a alegação dos recorrentes de que o acórdão embargado não se manifestou “em sua decisão se a municipalidade tem o direito ao benefício de parcelar o precatório em 10 (dez) anos, instituída pela Emenda Constitucional nº 30, levando-se em consideração que já foi beneficiada anteriormente da moratória de forma indireta em outro anos” (fl. 74) não é pertinente. Ocorre que o Tribunal de origem decidiu em conformidade com a pretensão dos ora recorrentes no sentido de que “a posição da turma julgadora ficou suficientemente clara no V. Acórdão de fls. 75/77, complementado pelo de fls. 98/99, restando certo que se o devedor valeu-se do artigo 33 do ADCT não teria o direito a novo benefício, dessa vez com amparo no art. 78 desse mesmo diploma” (fl. 68). Com efeito, consignou que a possibilidade ou não da Fazenda Pública gozar do referido parcelamento, nos termos do explicitado, será analisada no caso concreto na ocasião do juízo da execução.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 8 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
