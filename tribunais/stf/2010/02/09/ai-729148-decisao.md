@@ -1,0 +1,18 @@
+DECISÃO: 1.  Trata-se de agravo de instrumento interposto de decisão que indeferiu processamento de recurso extraordinário contra acórdão do Colégio Recursal de Adamantina- São Paulo e assim ementado:
+“CADERNETA DE POUPANÇA – índices não considerados nos ativos financeiros em decorrência dos Planos Bresser, Verão, Collor I e Collor II, com os correspondentes reflexos. Legitimidade do banco depositário, já consagrada na jurisprudência de construção do Egrégio Superior Tribunal de Justiça. Dever de recompor as perdas, da mesma forma, já registrado em inúmeros Precedentes.
+POUPANÇA – ATUALIZAÇÃO PELO IPC – LEGITMIDADE PASSIVA AD CAUSAM DA INSTITUIÇÃO FINANCEIRA DEPOSITÁRIA – PRESCRIÇÃO – Qualquer alteração desse contrato por parte do depositário fere o ato jurídico perfeito e o direito adquirido do depositante de ter seus depósitos atualizados na mesma proporção da desvalorização da moeda naquele período. Em matéria de correção monetária dos saldos existentes em conta poupança, o prazo prescricional é vintenário e não qüinqüenal.
+DIREITO ADQUIRIDO – Ao efetuar, depositante e depositário, o contrato de depósito bancário, que vigoraria por um período de 30 dias, estabeleceram desde logo o critério de correção a ser adotado. Qualquer alteração desse contrato por parte do depositário fere o ato jurídico perfeito e o direito adquirido do depositante de ter seus depósitos atualizados na mesma proporção da desvalorização da moeda naquele período. Negócio jurídico de trato sucessivo, aplicando-se no caso o princípio ‘pacta sunt servanda’ e não há ignorar que a lei jamais prejudicará o direito adquirido.
+CORREÇÃO MONETÁRIA – 2ª QUINQUENA – Caderneta de poupança – Janeiro/89 – Incidência do IPC integral, ainda que o aniversário das contas tenha sido em data posterior à edição da Medida Provisória 32/89, convertida na Lei 7730/89 – Hipótese de prorrogação automática do contrato, caracterizado ato jurídico perfeito, de caráter continuativo – Inocorrente violação a literal disposição de lei.
+Inocorrência de violação ao artigo 5º, incisos XXV e XLV, da Constituição da República. A uma, porque não se questiona os valores quando em poder do Banco Central do Brasil, mas enquanto sob a custódia do banco depositário, com alusão expressa aos pertinentes reflexos. A duas, porque o inciso XLV nada tem a ver com a hipótese dos autos.
+Não demonstrado o concurso do dolo, não se aplicam as sanções pela litigância de má-fé (RSTJ 17/363).
+Os juros de que trata o artigo 406 do Código Civil de 2002 incidem desde sua vigência e são aqueles estabelecidos pelo artigo 161, § 1º do Código Tributário Nacional. ” (fl. 177)
+Opostos embargos de declaração, foram rejeitados (fl. 208).
+O recorrente sustenta, com base no art. 102, III, a, violação aos arts. 5º, caput, XXXVII, LIV e LV, da Constituição da República.
+2.   Inadmissível o recurso.
+ Era ônus do recorrente apresentar preliminar formal e fundamentada de repercussão geral, consoante o disposto nos arts. 543-A, § 2º, do Código de Processo Civil, e 327, caput e § 1º, do RISTF, demonstrando a existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa. Dele não se desincumbiu, pois se limitou à alegação de ofensa à Constituição da República.
+ Desse modo, nem se excogita, pois, existência de repercussão geral, que só convém a questões constitucionais.
+3.  Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+Brasília, 9 de fevereiro de 2010.
+Ministro CEZAR PELUSO
+Relator
