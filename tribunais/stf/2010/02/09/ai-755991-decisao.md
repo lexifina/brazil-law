@@ -1,0 +1,14 @@
+DECISÃO: 1.  Trata-se de agravo de instrumento interposto de decisão que indeferiu processamento de recurso extraordinário contra acórdão do Superior Tribunal do Trabalho e assim ementado:
+“RECURSO DE REVISTA. COMPLEMENTAÇÃO DE APOSENTADORIA. VANTAGENS CONCEDIDAS SOMENTE AOS EMPREGADOS DA ATIVA. NORMA COLETIVA. OBSERVÂNCIA RESTRITA.
+As condições ajustadas em normas coletivas que não violem dispositivo de lei devem prevalecer, em face do disposto no artigo 7º, inciso XXVI, da Constituição Federal. Na hipótese em tela, a norma em que se pactuara a concessão de vantagens somente aos empregados em atividade é oriunda de negociação coletiva, espécie de ajuste de interesses, da qual participara o sindicato representativo da categoria profissional. A flexibilização do Direito do Trabalho, fundada na autonomia coletiva privada, permite a obtenção de benefícios para os empregados, com concessões recíprocas. Se as partes decidem, mediante acordo coletivo, estabelecer o pagamento de vantagens apenas aos empregados em atividade, não é possível estendê-las aos aposentados e pensionistas, nem conferir natureza jurídica diversa da então ajustada, sob pena de afronta ao artigo 7º, XXVI, da Constituição da República. Inteligência da Orientação Jurisprudencial 346 da SBDI-1. Precedentes do TST. Recurso de revista não conhecido. ” (fl. 163)
+Opostos embargos de declaração, foram rejeitados (fl. 176).
+Os recorrentes sustentam, com base no art. 102, III, a, violação aos arts. 5º, XXXVI, 7º, VI e 114, § 2º, da Constituição da República. Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC.
+2.  Conquanto admissível o agravo, inviável o recurso extraordinário.
+É que o acórdão impugnado manteve decisão de inadmissibilidade de recurso de revista, com base em norma infraconstitucional respeitante a requisito de admissibilidade. Ora, é pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+ No que tange à validade da convenção coletiva firmada pelos recorrentes, o Tribunal a quo não deixou de reconhecê-la, senão que a declarou com base na legislação infraconstitucional, reexame é inadmissível na via extraordinária. Cabe ressaltar que o preceito do art. 7º, XXVI, não confere presunção absoluta de validade aos acordos e convenções coletivos, podendo a Justiça Trabalhista revê-los, caso se verifique afronta à lei.
+ Não se excogita, pois, existência de repercussão geral, que só convém a questões constitucionais.
+3.  Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+Brasília, 9 de fevereiro de 2010.
+Ministro CEZAR PELUSO
+Relator
