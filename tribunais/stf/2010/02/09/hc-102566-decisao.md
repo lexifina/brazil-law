@@ -1,0 +1,15 @@
+1.  Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu pedido de liminar do writ anteriormente aforado perante o Superior Tribunal de Justiça (HC 152.506/ES, rel. Min. Jorge Mussi).
+ Examinando os autos, verifico que o Juiz de Direito da Vara Criminal da Comarca de Aracruz/ES decretou a prisão preventiva em desfavor do paciente.
+ Contra tal decisão, impetrou-se pedido de habeas corpus ao Tribunal de Justiça do Estado do Espírito Santo, que indeferiu o pleito. Irresignada, a defesa impetrou o HC 152.506/ES ao Superior Tribunal de Justiça. O pedido de liminar foi indeferido pelo eminente relator, Min. Jorge Mussi.
+ Alega a impetrante, em síntese: a) inexistência de fundamentação idônea da decisão que decretou a segregação cautelar do paciente; b) inexistência dos pressupostos autorizadores da prisão preventiva; c) nulidade da citação por edital.
+ Assim, requer a concessão de provimento liminar, “sendo determinada o recolhimento do mandado de prisão expedido contra o paciente” e, no mérito, a revogação do decreto de prisão preventiva (fl. 06).
+2.  A decisão impugnada pelo presente habeas corpus, da lavra do Ministro Jorge Mussi, assentou que a “concessão de liminar em sede de habeas corpus reserva-se aos casos excepcionais de ofensa manifesta ao direito de ir e vir do paciente e desde que preenchidos os pressupostos legais, que são o fumus boni iuris e o periculum in mora” (fl. 22 do apenso).
+ Registrou ainda que, “de um exame perfunctório do aresto impugnado, não há como se reconhecer ao menos nessa etapa, em juízo cautelar, a ocorrência do alegado constrangimento ilegal de que estaria sendo vítima o paciente” (fl. 22 do apenso).
+ Por fim, asseverou que, “demonstrada, a princípio, a presença dos requisitos autorizadores para a prisão preventiva, não se verifica ilegalidade a ser sanada de plano, devendo as teses levantadas pelo impetrante ser melhor discutidas quando da apreciação e julgamento do mérito do mandamus, até porque a motivação que dá suporte ao pedido liminar com este se confunde.”
+3.  Vale frisar que o rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+4.  Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de supressão de instância.
+5.  Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
+Brasília, 09 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
