@@ -1,0 +1,10 @@
+DECISÃO: Vistos, etc.
+O agravo não merece acolhida. É que a controvérsia foi decidida centralmente com base em interpretação conferida à legislação infraconstitucional pertinente (Código de Processo Civil e Regimento Interno do Tribunal Regional Federal da 1ª Região). Logo, a adoção de entendimento diverso demandaria o reexame da legislação ordinária pertinente, providência vedada na instância extraordinária.
+Por outra volta, ofensa às garantias constitucionais do processo, se existente, ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência desta nossa Corte, de que é exemplo o AI 517.643-AgR, sob a relatoria do ministro Celso de Mello. Esta a ementa do julgado:
+“AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, XXXV E LV, E NO ART. 93, IX, TODOS DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+- As alegações de desrespeito aos postulados da inafastabilidade do controle jurisdicional, do devido processo legal, da motivação dos atos decisórios e da plenitude de defesa, por dependerem de exame prévio e necessário da legislação comum, podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes.”
+Isso posto, e frente ao art. 38 da Lei n ° 8.038/90 e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 09 de fevereiro de 2010.
+Ministro AYRES BRITTO
+Relator
