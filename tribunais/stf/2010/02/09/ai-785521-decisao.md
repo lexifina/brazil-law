@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que deu provimento à apelação da defesa e determinou a anulação do processo a partir da audiência de instrução e julgamento.
+2.  Nas razões do RE, sustenta-se que o julgado incorreu em ofensa ao artigo 103-A, “caput”, da Constituição Federal, por aplicar equivocadamente a Súmula Vinculante 11/STF.
+3.  O acórdão recorrido restou assim ementado:
+“Roubos. Preliminares de nulidade. 1. Presentes, na audiência de instrução e julgamento, as partes, o fato de o Juiz ter se antecipado no questionar as testemunhas e vítimas sobre os fatos importa em mera irregularidade. Eqüidistância do Juiz preservada, na espécie. Situação diversa daquela em que, por ausente o Ministério Público, o Juiz, ainda que obliquamente, termina assumindo as vezes do acusador e por ele passa a produzir a prova. 2. Réu retirado da sala de audiências a pedido da(s) vítima(s). Procedimento comum e em conformidade com dispositivo legal (art. 217, CPP). Cerceamento de defesa não caracterizado. 3. Réu mantido algemado durante a audiência de instrução e julgamento. Medida justificada pela “precariedade das dependências do foro”. Motivação genérica, impessoal e insuficiente. Descumprimento da Súmula Vinculante nº 11 do STF. Perfil do acusado a indicar não se tratar de pessoa perigosa ou violenta. Ausência de risco de fuga e/ou à integridade física própria ou de outrem. Nulidade acolhida. Apelo provido para anular a instrução criminal. Unânime.”
+4.  A respeito do uso de algemas, esta Suprema Corte aprovou, de acordo com o art. 103-A da Constituição Federal, a Súmula Vinculante 11, com a seguinte redação:
+“Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.”
+5.     Para modificar o acórdão recorrido, a pretexto de ofensa ao mencionado dispositivo constitucional, seria necessário o reexame de fatos e provas da causa (Súmula STF 279), hipótese inadmissível de apreciação em sede extraordinária.
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 09 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
