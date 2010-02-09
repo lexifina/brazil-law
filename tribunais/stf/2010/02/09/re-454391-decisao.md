@@ -1,0 +1,25 @@
+DECISÃO
+Vistos.
+Universidade de São Paulo - USP interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Turma do Tribunal Superior do Trabalho, assim ementado:
+“AGRAVO DE INSTRUMENTO DO RECLAMANTE.
+RECURSO DE REVISTA. A invocação expressa, quer na revista, quer nos embargos, dos preceitos legais ou constitucionais tidos como violados não significa exigir da parte a utilização das expressões “contrariar”, “ferir”, “violar”, etc. Orientação Jurisprudencial nº 257 da SDI-1 do TST. Agravo conhecido e provido.
+RECURSO DE REVISTA DO RECLAMANTE .
+ESTABILIDADE. O servidor público celetista da administração direta, autárquica ou fundacional é beneficiário da estabilidade prevista no art. 41 da Constituição Federal. Orientação Jurisprudencial 265 da SDI-1 do TST. Recurso de revista conhecido e provido.
+RECURSO DE REVISTA DA RECLAMADA .
+A reintegração torna prejudicada a condenação na multa, sem necessidade de apreciação deste recurso. Não conheço” (fl. 66)
+Opostos embargos de declaração (fls. 74 a 76), foram acolhidos para prestar esclarecimentos, estando o acórdão assim fundamentado:
+“No mérito, o acórdão embargado optou pela conveniência jurisdicional de perfilhar a orientação jurisprudencial do TST, a qual, no caso específico dos autos, baseia-se no entendimento de que o art. 41 mencionado, no contexto em que está inserido, refere-se também aos servidores regidos pela CLT.
+Esta interpretação é a atual de dispositivos que já estavam em vigor antes da edição da 0.J. nº 265/SDI-1 e ao tempo da relação de emprego do embargado. Por isso e por não ser norma, a 0. J., tal como a súmula, não tem limitação intertemporal dentro da vigência do dispositivo que ela interpreta” (fl. 79)
+Alega a recorrente violação do artigo 41 da Constituição Federal, uma vez que “o recorrido foi admitido sob o regime celetista, optando pelo Fundo de Garantia pelo Tempo de Serviço e tendo ao longo da duração do contrato de trabalho, sido regido pela Consolidação das Leis do Trabalho, razão pela qual, não há como aplicar-se como feito pela decisão recorrida, que certamente será reformada pelo C. STF, os preceitos constantes no artigo 41 da Constituição Federal” (fl. 88).
+Contra-arrazoado (fls. 114 a 122), o recurso extraordinário (fls. 85 a 103) foi admitido (fl. 124).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 12/3/04, conforme expresso na certidão de folha 81, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, uma vez que o acórdão recorrido está em sintonia com a jurisprudência desta Corte no sentido de que, independentemente do regime jurídico adotado, os empregados públicos da administração direta, das autarquias e das fundações públicas, aprovados em concurso público, em data anterior a Emenda Constitucional nº 19/98, e que tenham cumprido o estágio probatório, fazem jus à estabilidade prevista no art. 41, caput, da Constituição da República. Nesse sentido, anote-se:
+“CONSTITUCIONAL. EMPREGADO DE FUNDAÇÃO PÚBLICA. APROVAÇÃO EM CONCURSO PÚBLICO EM DATA ANTERIOR À EC 19/98. DIREITO À ESTABILIDADE. I - A estabilidade prevista no caput do art. 41 da Constituição Federal, na redação anterior à EC 19/98, alcança todos os servidores da administração pública direta e das entidades autárquicas e fundacionais, incluindo os empregados públicos aprovados em concurso público e que tenham cumprido o estágio probatório antes do advento da referida emenda, pouco importando o regime jurídico adotado. II - Agravo regimental improvido” (AI nº 628.888/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 19/12/07).
+“1. RECURSO. Agravo de instrumento. Ofensa constitucional. Caracterização. Recurso conhecido. Deve ser conhecido agravo de instrumento quando a questão de fundo é eminentemente constitucional, mas sem que isso implique consistência do recurso extraordinário. 2. RECURSO. Extraordinário. Inadmissibilidade. Ofensa ao art. 41 da Constituição Federal. Inexistência. Empregado público. Aprovação em concurso público e cumprimento do estágio probatório antes da EC 19/98. Estabilidade. Precedentes. Agravo regimental não provido. Faz jus à estabilidade prevista no art. 41 da Constituição Federal, em sua redação original, o empregado público que foi aprovado em concurso público e cumpriu o período de estágio probatório antes do advento da EC nº 19/98” (AI nº 510.994/SP-AgR, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 24/3/06).
+Seguindo esses precedentes a seguinte decisão monocrática: AI nº 567.365/SP, Relator o Ministro Joaquim Barbosa, DJ de 17/12/09.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 9 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
