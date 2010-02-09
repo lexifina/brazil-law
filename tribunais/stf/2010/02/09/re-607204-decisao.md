@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de recurso extraordinário interposto com fundamento no artigo 102, inciso III, alíneas “a” e “b”, da Constituição do Brasil, contra acórdão proferido pelo TRF da 4º Região, assim ementado [fl. 866]:
+“EMBARGOS INFRINGENTES. TELECOMUNICAÇÕES. AUTORIZAÇÃO PARA UTILIZAÇÃO DE CANAIS DE UHF. INTERRUPÇÃO UNILATERAL. DEVIDO PROCESSO LEGAL.
+Manutenção da utilização do canal 55 UHF pela embargada, com limitação de potência em 1.000 Watts. Descabimento da interrupção abrupta das transmissões com o lacre dos equipamentos por afronta a garantia do devido processo legal, bem como por comprovado o desvio de finalidade no procedimento. Improcedência dos embargos.”
+2.  Alega-se, no recurso extraordinário, ofensa ao disposto nos artigos 2º, 5º, XXXIX, XXXV e LV, 21, XII, ‘a’, 220, e 223 da Constituição do Brasil.
+3.  O recurso não merece provimento. O acórdão recorrido não apreciou a controvérsia à luz dos preceitos constitucionais que o recorrente indica como violados. Além disso, os embargos de declaração são ineficazes para ventilar matéria não arguida oportunamente. Aqui incidem as Súmulas ns. 282 e 356 do STF.
+4.  O prequestionamento, no entendimento pacificado deste Tribunal, deve ser explícito [AI n. 215.724-AgR, Relator o Ministro Sydney Sanches, 1ª Turma, DJ de 15.10.99; e RE n. 192.031-AgR, Relator o Ministro Néri da Silveira, 2ª Turma, DJ de 4.6.99].
+5.  Para dissentir-se do acórdão impugnado seria necessária a análise da legislação infraconstitucional que disciplina a espécie. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido, o RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; o AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; o AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+6.  Ademais, a jurisprudência do Supremo fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+7.  Cabe salientar, que entendimento diverso do adotado pelo acórdão recorrido implicaria, necessariamente, o reexame da matéria fático-probatória que o orientou, providência vedada nesta instância, em face da incidência da Súmula n. 279 do Supremo Tribunal Federal.
+8.  Por fim, relativamente à interposição do extraordinário com fundamento na alínea “b”, do artigo 102, III, da Constituição do Brasil, melhor sorte não assiste à recorrente. O acórdão impugnado não declarou a inconstitucionalidade de tratado ou lei federal.
+ Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 9 de fevereiro de 2010.
+Ministro Eros Grau
+- Relator -
