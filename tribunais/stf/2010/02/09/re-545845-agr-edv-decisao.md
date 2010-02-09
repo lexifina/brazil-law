@@ -1,0 +1,26 @@
+DECISÃO
+EMBARGOS DE DIVERGÊNCIA. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. CREDITAMENTO. CONVÊNIO ICMS 66/88. CORREÇÃO MONETÁRIA. INEXISTÊNCIA DE DIVERGÊNCIA: DECISÃO EMBARGADA NO MESMO SENTIDO DO ENTENDIMENTO DO PLENÁRIO. ART. 332 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. EMBARGOS NÃO ADMITIDOS.
+Relatório
+1. Embargos de divergência opostos contra o seguinte julgado da Segunda Turma do Supremo Tribunal Federal:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ICMS. CREDITAMENTO. CONVÊNIO ICMS 66/88. CORREÇÃO MONETÁRIA. LEGISLAÇÃO LOCAL. CARACTERIZAÇÃO DOS PRODUTOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO.
+1. O Supremo Tribunal Federal fixou jurisprudência no sentido de que o contribuinte não possui direito de crédito de ICMS quando recolhido em razão de operações de consumo de energia elétrica, de bens destinados ao ativo fixo e de materiais de uso e consumo, no período em que vigente o Convênio ICMS 66/88, antes, portanto, da Lei Complementar n. 87/96. Precedentes.
+2. Reexame de gatos e provas e de legislação local. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 280 do Supremo Tribunal Federal.
+Agravo regimental a que se nega provimento” (fl. 2.751).
+2. O Embargante alega que, “partindo da diretriz constitucional da não-cumulatividade, resta inequívoco o direito de creditamento dos valores pagos a título de ICMS quando da aquisição dos produtos intermediários consumidos e utilizados durante o processo de industrialização ou que integram o produto final, sob pena de permitir-se a incidência em cascata do imposto, justamente o que a regra constitucional visa coibir” (fl. 2.810).
+Afirma, também, que, “se o artigo constitucional prevê a exigibilidade de tributação sobre bens destinados a ativo, a fiscalização estadual não poderia negar-se à autorização do creditamento do pagamento realizado pelo princípio da não cumulatividade derivado do artigo 155, § 2º, I da Constituição Federal de 1988” (fl. 2.811).
+Requer o conhecimento e o provimento dos embargos de divergência para reformar o acórdão recorrido, a fim de se reconhecer “o direito ao crédito de ICMS pago quando da aquisição dos materiais intermediários consumidos ou utilizados no processo de industrialização, em função do princípio constitucional da não-cumulatividade” (fl. 2.813).
+Examinada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica não assiste ao Embargante.
+Os embargos de divergência são cabíveis de decisão de Turma do Supremo Tribunal que divergir de julgado de outra Turma ou do Plenário (art. 330 do Regimento Interno do Supremo Tribunal Federal).
+4. Na espécie vertente, a Segunda Turma decidiu que o contribuinte não tem direito de crédito de ICMS quando recolhido em razão de operações de consumo de energia elétrica, de utilização de serviços de comunicação ou, ainda, de aquisição de bens destinados ao ativo fixo e de materiais de uso e consumo, no período de vigência do Convênio ICMS 66/88, antes, portanto, da Lei Complementar n. 87/96.
+A Primeira Turma do Supremo Tribunal tem posicionamento idêntico:
+“TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO, CREDITAMENTO DE ICMS. ENERGIA ELÉTRICA. OFENSA AO PRINCÍPIO DA NÃO-CUMULATIVIDADE. INOCORRÊNCIA. ALEGADA VIOLAÇÃO AO ART. 5º, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – Não há ofensa ao princípio da não-cumulatividade a situação de inexistência de direito a crédito de ICMS pago em razão de operações de consumo de energia elétrica, de utilização de serviços de comunicação ou de aquisição de bens destinados ao ativo fixo e de materiais de uso e consumo. Precedentes. II – A alegada violação ao art. 5º, LIV e LV, da Constituição, em regra, configura situação de ofensa meramente reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. III – Agravo regimental improvido” (AI 720.254-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 21.8.2009).
+E:
+“ICMS: Creditamento. Firme o entendimento do Supremo Tribunal de não reconhecer o direito de creditamento do valor do ICMS, quando pago em razão de operações de consumo de energia elétrica, ou de utilização de serviço de comunicação ou, ainda, de aquisição de bens destinados ao uso e/ou à integração, no ativo fixo, do seu próprio estabelecimento. Precedentes” (AI 355.683-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 20.4.2006).
+5. O Embargante invoca como julgado divergente o Recurso Extraordinário 103.102, de relatoria do Ministro Oscar Corrêa, julgado em 10.12.1984. Entretanto, o entendimento desse acórdão paradigma está superado e, atualmente, pacificado no Supremo Tribunal Federal, como se confirma nos julgados mencionados acima.
+6. Assim, ausente a pretensa divergência, incabíveis os presentes embargos, nos termos do art. 332 do Regimento Interno do Supremo Tribunal Federal: “Não cabem embargos, se a jurisprudência do Plenário ou de ambas as Turmas estiver firmada no sentido da decisão embargada”.
+7. Pelo exposto, não admito os embargos de divergência por serem manifestamente incabíveis (art. 557, caput, do Código de Processo Civil e art. 335 do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 9 de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
