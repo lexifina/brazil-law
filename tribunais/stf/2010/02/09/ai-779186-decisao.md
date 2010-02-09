@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, ementado nos seguintes termos [fl. 08]:
+“Agravo interno na apelação cível. Previdenciário. Acidente de trabalho. Revisão de benefício. Auxílio-suplementar previsto na Lei nº 6.367/76. Autora-agravante que pretende reajuste do benefício de modo a alcançar um salário mínimo. Impossibilidade. Benefício de caráter indenizatório que não substitui a contribuição previdenciária ou a renda do trabalhador. Interpretação dos dispositivos correlatos da CF/88, da Lei nº 6.367/76, do Decreto nº 79.037/76, da Lei nº 8.213/91 e dos Decretos nº 2.172/97 e 3.048/99. Precedentes do STJ e do TJRJ. Desprovimento do recurso”.
+2.  Alega-se, no recurso extraordinário, violação do disposto no artigo 201, § 2º, da Constituição do Brasil.
+3.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+4.  Para dissentir-se do acórdão impugnado seria necessária a análise da legislação infraconstitucional que disciplina a espécie. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido, AI 439.136-AgR, Relator o Ministro Cezar Peluso, 1ª Turma, DJ de 19.8.05, AI 490.365-AgR, Relator o Ministro Sepúlveda Pertence, 1ª Turma, DJ de 31.3.06, AI 523.796-AgR, Relator o Ministro Carlos Velloso, 2ª Turma, DJ de 29.4.05, e AI 471.265-AgR, Relatora a Ministra Ellen Gracie, 2ª Turma, DJ de 3.2.06, entre outros julgados.
+ Nego seguimento ao agravo com fundamento no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 9 de fevereiro de 2010.
+Ministro Eros Grau
+- Relator -
