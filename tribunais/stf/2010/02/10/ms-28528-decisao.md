@@ -1,0 +1,38 @@
+DECISÃO
+Vistos.
+Cuida-se de mandado de segurança, com pedido de liminar, impetrado por SÔNILANGE BORGES DE ARAÚJO MATOS em face do colendo CONSELHO NACIONAL DE JUSTIÇA, por conta de realização de concurso público para ingresso em serventia cartorária.
+A inicial apresenta os seguintes argumentos:
+a) o colendo CONSELHO NACIONAL DE JUSTIÇA determinou ao Estado do Maranhão, no bojo do PCA no 200710000008759, que realizasse concurso para provimento de serventias extrajudiciais, no prazo de 120 (cento e vinte) dias;
+b) na prática, a determinação do c. CNJ implicou a desconstituição das “nomeações efetivadas pelo Tribunal de Justiça do Estado do Maranhão a diversos titulares de serventias extrajudiciais, atingindo, assim, os ora Impetrantes”;
+c) o e. TJMA, em obediência à determinação do c. CNJ, abriu o concurso para as serventias, de entre as quais a da impetrante, o que implica a iminente ocupação desses ofícios pelos aprovados no certame;
+d) o ato do c. CNJ representou a violação do direito adquirido e do ato jurídico perfeito, que fundamentam o direito da impetrante, pois, na prática, ela “está na iminência de perder a sua função sem a devida intimação e sem o imprescindível e prévio processo administrativo”;
+e) na verdade, a decisão do c. CNJ, no mencionado PCA, foi tomada sem que a impetrante recebesse notificação pessoal, dada a forma editalícia de conhecimento de seu conteúdo, o que a torna nula e inconstitucional;
+f) o próprio c. CNJ, ao alterar seu Regimento Interno, acolheu a obrigatoriedade das intimações pessoais.
+Pede-se, em liminar, que seja suspenso o ato coator do c. CNJ, consistente na decisão proferida no PCA no 200710000008759, para que se determine a continuidade dos atos de delegação em favor da impetrante.
+No mérito, que se declare a nulidade do PCA no 200710000008759.
+A liminar não foi apreciada no período de recesso, ante a ausência de pressupostos que assim o determinassem.
+Posteriormente, determinou-se a distribuição à minha relatoria, por prevenção em face da Reclamação no 9.6981.
+É o relatório.
+A impetração, oriunda do Estado do Maranhão, é realizada por uma titular de serventia extrajudicial, nomeada em caráter precário, que se diz atingida pelos efeitos do PCA no 200710000008759, do c. CNJ, que determinou ao Tribunal de Justiça respectivo que realizasse concurso público para as unidades cartorárias identificadas como vacantes.
+Este mandamus é, na verdade, uma nova modalidade de irresignação apresentada pela autora sobre as mesmas bases fático-jurídicas da Reclamação no 9.691, por mim despachada e cujo pedido de liminar foi indeferido. Transcrevo excertos da fundamentação utilizada naquela ação constitucional:
+“A reclamante é tabeliã de notas no Estado do Maranhão. Seu exercício da titularidade desse cartório, ao estilo da certidão de folha 74, data de 11.03.1994, graças à designação pela autoridade judiciária, sem concurso público.
+Por meio da reclamação, na qual invoca o desrespeito a três ações diretas declaratórias de inconstitucionalidade (ADI no 3519/RN-MC, ADI no 3580/MG-MC e ADI nº 865/MA-MC), a autora diz-se interessada e passível de sofrer efeitos reflexos de decisões do CNJ e do TJMA, relativas a concursos públicos em serventias ocupadas por pessoas designadas precariamente para sua ocupação.
+Tenho que há absoluto desvirtuamento da figura jurídica da reclamação, o que, prima facie, só não dá azo à sua denegação pura e simples por respeito à complexidade da matéria deduzida. Com efeito, a reclamação é meio excepcional. Deve ser utilizada subsidiariamente, à míngua de instrumentos recursais, pois não se apresenta como sucedâneo dessa espécie.
+...........................................................................................
+A reclamante, acaso realmente tivesse direito líquido e certo, teria condições de manejar a ação de segurança contra atos supostamente coativos do TJMA. A concretude do ato material e sua proximidade à esfera jurídica da parte, por si sós, são causas determinantes do afastamento da reclamação na espécie. Não se concebe a acrobacia intelectual realizada pela reclamante para fazer conexão entre as mencionadas decisões em controle concentrado e o direito da parte, que nem submetido a juízo foi ainda.
+A pretensão da reclamante implica o barateamento da importância do STF e da própria função constitucional do incidente. Se assim o fosse, estar-se-ia abrindo as portas do Pretório Excelso a toda e qualquer sorte de interesses subjetivos, em detrimento da conservação da autoridade e da eficácia das decisões desta Corte.
+..........................................................................................
+Além de sucedâneo recursal, o meio utilizado tem o demérito de provocar o exame per saltum de questão a ser desenvolvida pelos meios ordinários e respectivos graus.”
+A postura da impetrante, que se utilizou da reclamação com idênticos fins, é digna de todo o reproche, especialmente quando o advogado é o mesmo em ambas as ações.
+O que se registrou na reclamação é igualmente válido neste writ para se repudiar sua pretensão.
+O ato que em tese poderia interferir em sua esfera jurídica foi praticado pelo e. Tribunal de Justiça do Estado do Maranhão, devendo-se desenvolver o contencioso naquela esfera jurisdicional. E, após sucessivas tramitações, percorridos os graus de jurisdição competentes, de modo eventual, poderia ser levado ao conhecimento deste Pretório Excelso. Uma vez mais, a autora vale-se da provocação per saltum da competência do STF, o que não se admite técnica ou eticamente.
+Ademais, a impetração data de 21.12.2009, enquanto o ato supostamente coator foi publicado no DJU de 18/3/2008, informação que nem consta dos documentos apresentados e foi obtida por consulta eletrônica. Se a causa imediata da aparente violação do direito da autora foi esse decisum colegiado do c. CNJ tem-se a passagem de mais de um ano entre sua prática e o ajuizamento da ação. Em tudo e por tudo, está configurada a decadência, nos termos do art. 23 Lei nº 12.016, de 7 de agosto de 2009 (“O direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado”). A esse respeito, a doutrina assinala que: “O prazo, acentua a maior parte da doutrina, é decadencial. Trata-se de perder o direito ao mandado de segurança.” (BUENO, Cassio Scarpinella. A nova Lei do Mandado de Segurança. São Paulo: Saraiva, 2009. p. 141).
+Some-se a isso o fato de que a autoridade impetrada é absolutamente ilegítima. Como já salientado, a existência (eventual) de lesão a direito é determinada pelo concurso público. A responsabilidade pelo edital e pelos desdobramentos do certame é do TJMA. Não há como se reconhecer o liame direto entre a atuação do CNJ e os efeitos concretos da suposta perda da serventia. E, em assim o fazendo, não se teria como analisar o writ, dada a imperatividade da decadência. De uma forma ou de outra, restaria impossível o exame do mandamus.
+Não é adequado baratear a competência deste Tribunal, convertendo-o em grau jurisdicional ordinário, como deseja a impetrante, desta vez por meio de mandado de segurança. A existência de eventual direito subjetivo à continuidade no cartório , a respeito da qual não há qualquer certeza ou liquidez, deve ser objeto de discussão em sede própria, na qual serão examinados todos os seus argumentos.
+A insistência da impetrante nesse caminho, assim como a de outros expedientes de semelhante natureza, implicará a oportuna aplicação de sanções processuais.
+Ante o exposto, denego a segurança, prejudicado o exame da liminar.
+Publique-se.
+Arquive-se.
+Brasília, 10 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
