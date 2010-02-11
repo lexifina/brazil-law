@@ -1,0 +1,17 @@
+1.  Trata-se de recurso extraordinário interposto de acórdão de cuja ementa destaco:
+“ APLICAÇÃO FINANCEIRA – PLANOS ECONÔMICOS – REQUERIMENTO DE RECEBIMENTO COM CORREÇÃO PLENA – JANEIRO DE 1991 – ÍNDICE DE 42,72% - ADOÇÃO DO IPC/IBGE (ATÉ A SUA EXTINÇÃO EM JANEIRO DE 1991) E DO IPC/FGV – CAPITALIZAÇÃO ANUAL DE JUROS – ADMISSIBILIDADE – PARTE FINAL DO ART. 4º DO DECRETO 22.626/33 – SUCUMBÊNCIA – RATEIO PROPORCIONAL AO DECAIMENTO DE CADA UMA DAS PARTES .” (fl. 1.489)
+ Os embargos de declaração opostos foram rejeitados (fls. 1.513-1.516).
+2.  Inadmitido o recurso na origem (fls. 1.709-1.711), subiram os autos em virtude de provimento de agravo de instrumento.
+3.  A parte recorrente alega, em síntese, ofensa ao art. 5º, XXXV, XXXVI, LIV e LV da Constituição Federal (fls. 1.569-1.587).
+4.  O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 1.7691-1.770).
+5.  Não merece prosperar o presente recurso extraordinário, dado que o acórdão recorrido decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie. Assim, eventual ofensa à Constituição Federal seria indireta ou reflexa, o que elide o processamento do recurso extraordinário.
+Ademais, rever a decisão do Tribunal a quo, para concluir de modo diverso, implicaria o reexame de fatos e de provas, o que é vedado em via extraordinária (Súmula STF 279).
+6.  Corrobora com esse entendimento o parecer do MPF, o qual transcrevo na parte que interessa:
+“A solução da controvérsia, projetada sobre a incidência dos índices de correção monetária, verificação dos limites objetivos da coisa julgada e iliquidez da sentença exeqüenda, aspectos abordados explicitamente pelo Tribunal a quo, implicaria o revolvimento do contexto infraconstitucional de regência, bem como de elementos fáticos subjacentes à demanda, propósitos incompatíveis com a via eleita.
+A tanto, é de ressaltar que o órgão julgador, não estando obrigado a manifestar-se sobre todos os argumentos trazidos pelos litigantes, fundamentou adequadamente sua decisão, exprimindo o sentido geral do julgamento. Apesar de contrário à tese defendida, deu solução à quaestio a partir de substrato jurídico expresso, não se caracterizando negativa de prestação jurisdicional.” (fl. 1.770)
+7.  Frise-se, ainda, que a alegação de ofensa ao art. 5º e seus incisos, da Constituição Federal, além de o fato de decisão contrária aos interesses da parte não caracterizar violação aos dispositivos constitucionais apontados, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008 e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+8.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 11 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
