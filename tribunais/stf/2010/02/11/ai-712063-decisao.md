@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro que negou provimento à apelação interposta pelo Município de Angra dos Reis (fls. 72-81).
+A Corte de origem asseverou a incidência da Súmula STF 284 (fls. 119-123).
+2.  O agravo não merece prosperar. Preliminarmente, não houve prequestionamento das normas constitucionais apontadas como violadas, porque não abordadas pelo acórdão recorrido, ao qual não foram opostos embargos de declaração (Súmulas STF 282 e 356).
+ Ressalte-se que a jurisprudência sedimentada desta Corte não admite o chamado “prequestionamento implícito”. Nesse sentido, colaciono, entre muitos outros, os seguintes julgados: AI 508.555- AgR/MG, rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 14.10.2005; RE 217.849-AgR/ES, rel. Min. Eros Grau, 1 ª Turma, DJ 05.08.2005; AI 413.963-AgR/SC, rel. Min. Celso de Mello, 2ª Turma, DJ 1º.04.2005; e AI 253.566-AgR/RS, 1ª Turma, rel. Min. Sepúlveda Pertence, DJ 03.03.2000, este último com a seguinte ementa:
+“Recurso extraordinário: prequestionamento “explícito”: exigibilidade. O requisito do prequestionamento assenta no fato de não ser aplicável à fase de conhecimento do recurso extraordinário o princípio jura novit curia: instrumento de revisão in jure das decisões proferidas em única ou última instância, o RE não investe o Supremo de competência para vasculhar o acórdão recorrido, à procura de uma norma que poderia ser pertinente ao caso, mas da qual não se cogitou. Daí a necessidade de pronunciamento explícito do Tribunal a quo sobre a questão suscitada no recurso extraordinário: Sendo o prequestionamento, por definição, necessariamente explícito, o chamado “prequestionamento implícito” não é mais do que uma simples e inconcebível contradição em termos.”
+3.  Ademais, o agravante não expôs suas razões de modo a ensejar a plena compreensão da controvérsia, razão pela qual o processamento do recurso extraordinário é inviável, pois não ataca, com a objetividade necessária, os motivos do acórdão recorrido nos termos do que dispõe a Súmula 284 STF: “É inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+Veja-se AI 708.309/RS, rel. Min. Joaquim Barbosa, DJe 03.08.2009; e AI 488.369/RS, rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 14.05.2004, assim ementado:
+“1. Agravo de instrumento que não ataca todos os fundamentos da decisão que não admitiu o extraordinário: inviabilidade.
+2. Agravo regimental manifestamente infundado: aplicação de multa de 5% (cinco por cento) sobre o valor corrigido da causa (C. Pr. Civil, art. 557, § 2º).”
+4.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 11 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
