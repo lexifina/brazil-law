@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDORES PÚBLICOS. REENQUADRAMENTO. LEIS COMPLEMENTARES MUNICIPAIS N. 162/1995 E 214/1996. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL E REEXAME DE PROVAS: IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido teve como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“Servidores públicos. Município de Santos. Pretensão ao recebimento das diferenças de proventos decorrentes do reenquadramento previsto no Decreto 2.724/96, em razão da opção feita pelo Plano de Cargos, Carreiras e Salários, com base nas Leis Complementares 162/95 e 214/96. Recurso oficial parcialmente provido e improvidos os demais” (fl. 32).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 72-73).
+4. O Agravante alega que teriam sido contrariados os arts. 2º, 5º, inc. I, 18, 30, 37, caput, inc. X e XIV, e 169 da Constituição da República.
+Argumenta que “A lei complementar, em comento, não disfarça ser uma forma de majorar salários ou remuneração (vez que inexiste qualquer plano de cargos e carreiras), e, por isso, por qualquer ângulo que a vemos, a isonomia foi violada” (fl. 52).
+Sustenta que “a Lei Complementar 162/95, em seus artigos 11 e 13, com a redação determinada pela Lei Complementar 214/96, c/c o art. 17 do Decreto 2.724/96 (revogado que foi pelo Decreto 3750/01), está a violar o inciso XIV do art. 37 da CF, bem como o artigo 115, inciso XVI, da Constituição Paulista” (fl. 58).
+Analisados os elementos havidos nos autos, DECIDO.
+5. Em preliminar, é de se ressaltar que, apesar de ter sido o Agravante intimado depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso.
+6. Razão de direito não assiste ao Agravante.
+7. O Tribunal a quo asseverou que “A própria apelante certificou às fls. 07 acerca da avaliação de desempenho da autora a ser considerada a referência VI, que corresponde a 111,38% do salário-base, o pretendido por ela. Assim, a Municipalidade, ora apelante, não pode ir contra essa certidão, ao passo que ela mesma a emitiu” (fls. 33-34).
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria o reexame do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, conforme dispõe a Súmula 279 do Supremo Tribunal Federal.
+A modificação do julgado demandaria, ainda, a análise prévia da legislação infraconstitucional aplicável à espécie (Leis Complementares municipais n. 162/1995 e 214/1996). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal.
+Nesse sentido, em casos análogos aos dos autos, em que o ora Agravante foi parte, os seguintes julgados:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO: REENQUADRAMENTO. FALTA DE PREQUESTIONAMENTO (SÚMULAS 282 E 356). IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL E DO REEXAME DE PROVAS (SÚMULAS 279 E 280). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 605.780-AgR, de minha relatoria, Primeira Turma, DJE 13.03.2009).
+“EMENTA: SERVIDOR PÚBLICO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. Precedentes. II - Agravo regimental improvido” (AI 689.921-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 20.2.2009).
+A decisão agravada não diverge da jurisprudência do Supremo Tribunal Federal, pelo que nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 11 de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
