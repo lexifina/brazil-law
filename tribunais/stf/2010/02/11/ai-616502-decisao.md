@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+ “A embriaguez do segurado, verificada em insuspeito exame toxicológico, em taxa muito superior ao parâmetro do Código de Trânsito Brasileiro e em grau tal que sequer permite considerar suscetibilidade maior ou menor de indivíduo para indivíduo, caracteriza evidente agravamento do risco. Daí a perda do “direito ao seguro” (Código Civil de 1916, art. 1.454), a dispensar análise mais detida sobre cláusula idêntica constante da apólice, que não infringe a qualquer preceito do Código do Consumidor. Por isso, fica mantido o acolhimento de embargos de seguradora à execução da apólice de seguro. ”(FL. 75).
+2.  No RE sustenta-se ofensa ao art. 5º, LIV e LV, da Constituição Federal (fls. 121-127).
+3.  O recurso não merece prosperar. Verifico que para divergir do acórdão recorrido seria necessária a análise de fatos e provas (Súmula STF 279) e legislação infraconstitucional, hipóteses inviáveis em sede extraordinária.
+ Ademais, quanto à alegação de ofensa ao art. 5º LIV e LV, da Constituição Federal a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal, do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008 e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 11 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
