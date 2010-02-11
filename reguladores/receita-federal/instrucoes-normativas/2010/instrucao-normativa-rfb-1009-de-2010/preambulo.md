@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1009, de 10 de fevereiro de 2010
+Adota Tabelas de Códigos a serem utilizadas na formalização da Escrituração Fiscal Digital (EFD) e nas emissões da Nota Fiscal Eletrônica (NF-e), nas situações que especifica, e revoga a Instrução Normativa RFB nº 978, de 16 de dezembro de 2009.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o Convênio ICMS nº 143, de 15 de dezembro de 2005, e o disposto no Decreto nº 6.022, de 22 de janeiro de 2007, resolve:
