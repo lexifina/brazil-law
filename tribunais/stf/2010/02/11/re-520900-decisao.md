@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal Regional Federal da 5ª Região, cuja ementa encontra-se vazada nos seguintes termos:
+“TRIBUTÁRIO. IMPOSTO DE EXPORTAÇÃO. FATO GERADOR. OCORRÊNCIA. ALÍQUOTA. MAJORAÇÃO. MP´S NºS 655/94, 708/94 e 862/94. RESOLUÇÃO Nº 2.112/94.
+- O fato de haver autorização governamental para que ocorresse a exportação contratada (registro da venda junto ao SISCOMEX), bem como a exteriorização no mundo jurídico da ocorrência do fato gerador do tributo com o registro da exportação são aspectos relevantes quando da aplicação da norma.
+- Há ofensa aos princípios de respeito ao direito adquirido e ao da não aplicação retroativa da norma, quando ocorre a cobrança do imposto de exportação com alíquota alterada por legislação posterior, que não atinge mais a referida exportação pactuada.
+-Remessa oficial e apelação improvidas.”(fls.110)
+Assim, partiu-se da premissa de que a majoração de alíquota do imposto de exportação não pode atingir exportação quando já ocorrido o registro de venda junto ao Sistema Integrado de Comércio Exterior (SISCOMEX), sob pena de afronta aos princípios do direito adquirido e da irretroatividade da norma tributária.
+No recurso extraordinário a Fazenda Nacional sustenta a violação do art. 153, § 1º, da Constituição federal. Afirma que o fato gerador ocorre apenas com o registro da exportação junto ao SISCOMEX, e não com o registro de venda, como entendeu o acórdão vergastado. Ademais alega que a majoração das alíquotas de exportação ocorreu depois do registro de venda, mas antes do registro de exportação.
+É o relatório.
+Esta Corte já firmou entendimento de que o registro de venda junto ao SISCOMEX não é suficiente para a caracterização da ocorrência do fato gerador do imposto de exportação, sendo necessário o registro de exportação junto ao referido sistema. Assentou, também, que eventuais majorações de tributo só não podem alcançar exportações quando já ocorrido o fato gerador. Nesse sentido os precedentes de ambas as turmas, cuja ementa reproduzo :
+TRIBUTÁRIO. IMPOSTO DE EXPORTAÇÃO. AÇÚCAR. RESOLUÇÕES N.°S 2.112/94 E 2.136/94, DO CONSELHO MONETÁRIO NACIONAL. ALEGADA OFENSA AO PRINCÍPIO DA IRRETROATIVIDADE DA LEI TRIBUTÁRIA.
+A Medida Provisória n.° 655 de 14 de outubro de 1994, convertida, após sucessivas reedições, na Lei n.º 9.019/95, teve o efeito de revogar, a partir de sua edição -- na conformidade da jurisprudência pacífica do STF --, o § 3.° do art. 1.° do DL n.° 1.578/77, que autorizava o Poder Executivo a relacionar os produtos sujeitos ao imposto em apreço, generalizando, por esse modo, a incidência do tributo, salvo hipótese prevista na Constituição (inciso II do § 3.° do art. 153).
+Regulamentando a norma do § 1.° do art. 1.° do referido DL n.° 1.578/77, estabeleceu o Decreto n.° 660/92 equiparação entre a guia de exportação e o registro informatizado da exportação no SISCOMEX (§ 1.° do art. 6.°), para efeito de identificação do fato gerador.
+No presente caso, os registros de exportação foram realizados em fevereiro e abril/95, posteriormente, portanto, à edição da MP n.° 655/94 e da Resolução n.° 2.136/94, do BACEN, que fixou a alíquota do IE em 2% para açúcares de cana, não havendo espaço para falar-se em incidência retroativa da lei tributária.
+Registre-se, por fim, ser irrelevante que, no caso, a venda do açúcar houvesse sido registrada no SISCOMEX antes da edição da MP 655/94, já que não se trata de ato equiparado à guia de exportação, para o efeito acima mencionado.
+O acórdão recorrido, dissentindo do entendimento exposto, não pode subsistir.
+Recurso conhecido e provido.” (RE 235.858, rel. min. Ilmar Galvão, Primeira Turma, DJ de 13.12.2002)
+CONSTITUCIONAL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPOSTO DE EXPORTAÇÃO. FATO GERADOR: REGISTRO NO SISTEMA INTEGRADO DE COMÉRCIO EXTERIOR - SISCOMEX.
+1. A matéria constitucional trazida pelo recurso extraordinário foi efetivamente apreciada, uma vez que os pontos nodais do acórdão recorrido situam-se sobre o fato gerador do imposto de exportação previsto no art. 153, II, bem como sobre o princípio da irretroatividade tributária, com assento nos arts. 150, III, e 5º, XXXVI, todos da Constituição da República, sendo ainda certo que a União manejou os competentes embargos declaratórios objetivando prequestionar os dispositivos constitucionais ofendidos.
+2. Não é qualquer registro no SISCOMEX que corresponde à expedição do documento equivalente à guia de exportação prevista no § 1º, in fine, do art. 1º do Decreto-lei 1.578/77, como determinante da ocorrência do fato gerador do tributo. Somente o Registro de Exportação corresponde e se equipara à Guia de Exportação.
+3. Editada a Resolução 2.112/94 do Banco Central do Brasil depois dos registros de venda, mas antes dos registros de exportação, submetem-se as operações respectivas às alíquotas nelas fixadas, visto que tal fixação se dera antes da ocorrência do fato gerador. Precedentes.
+4. Agravo regimental improvido, prejudicado o pedido cautelar formulado.” (AI 578.372-AgR, rel. min. Ellen Gracie, Segunda Turma, DJ de 12.03.2010)
+Seguindo idêntico entendimento: RE 223.796, rel. min. Ellen Gracie, Primeira Turma, DJ de 14.12.2001 e RE 231.383, rel. min. Gilmar Mendes, DJ de 23.02.2006.
+Dessa orientação divergiu o acórdão recorrido.
+Ante o exposto, dou parcial provimento ao recurso extraordinário, assegurando ao impetrante tão somente o direito de exportar o açúcar, sem a exigência do imposto de exportação, cujos registros de exportação tenham se verificado em data anterior à majoração do tributo. A aferição dessa condição haverá que ser realizada pela autoridade competente.
+Sem honorários (Súmula 512). Custas ex lege.
+Publique-se.
+Brasília, 11 de fevereiro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
