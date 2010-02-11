@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+“ PREVIDÊNCIA PRIVADA . Restituição das reservas de poupança. Contribuições pessoais. Diferenças de correção monetária. Aplicação de correção plena, por índice que recomponha a efetiva desvalorização da moeda, sob pena de locupletamento ilícito. Inocorrência de violação ao art. 5º, XXXVI, da CF. Súmula 289 do Superior Tribunal de Justiça. Diferenças devidas. Sentença que julga parcialmente procedente o pedido. Recurso improvido.” (Fl. 14).
+2.  A Fundação Sistel de Seguridade Social, no RE, alega ofensa aos arts. 1º, IV; 5º, II, XXII, XXXVI; 170, II, parágrafo único; 195, § 5º; 201 e 202 da CF.
+3.  Entretanto, o recurso não merece prosperar, pois o Tribunal de origem, com base na Súmula STJ 289, ao concluir pela correção monetária plena das contribuições devolvidas, por ocasião do desligamento do ora agravado da entidade agravante, baseou-se na interpretação de cláusulas contratuais e na legislação infraconstitucional, nestes termos:
+“Ademais, não há que invocar ofensa ao art. 42, V, e 47 da Lei 6.435/77 e aos arts. 201 e 202 da CF pois a própria ré prevê em seu estatuto (art. 49, parágrafo 1º) e regulamento (art. 19, parágrafo 1º) a devolução das contribuições sociais corrigidas monetariamente. Mais uma razão para afastar a alegada violação ao art. 31, VII, § 1º, do Decreto 81.240/78, com redação do Decreto 2111/96. As disposições atinentes ao balanço (arts. 43 e 47 da Lei 6435/77 e arts. 29 e 30 do Estatuto) não excluem, evidentemente, a atualização dos valores a restituir.” (Fl. 18)
+ A controvérsia, assim, além de encontrar óbice na Súmula STF 454, também não dá margem ao cabimento do extraordinário, porquanto eventual ofensa à Carta Federal, se existente, seria apenas indireta. Nesse sentido é a jurisprudência do Supremo Tribunal Federal. Vejam-se o AI 629.223-AgR/RJ, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 08.6.2007; o AI 691.330-AgR/RJ, rel. Min. Celso de Mello, unânime, DJe 14.3.2008; o RE 579.512/DF, Min. Cezar Peluso, DJ 14.11.2008; e o RE 408.741/DF, rel. para o acórdão Min. Cármen Lúcia, este último assim ementado:
+“RECURSO EXTRAORDINÁRIO. CABIMENTO. ÍNDICE DE CORREÇÃO MONETÁRIA EM PLANO DE PREVIDÊNCIA PRIVADA. MATÉRIA INFRACONSTITUCIONAL. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO.
+1. É infraconstitucional o tema relativo à dúvida quanto ao índice de correção monetária correto a ser aplicado no cálculo das contribuições a serem devolvidas em decorrência do desligamento de associado de entidade de previdência privada.
+2. Recurso extraordinário não conhecido.”
+4.  Do exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 11 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
