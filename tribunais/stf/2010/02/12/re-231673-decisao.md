@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Massa Falida do Banco do Progresso S.A. e outro interpõem recurso extraordinário, com fundamento nas alíneas “a” e “c” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+“TRIBUTÁRIO E CONSTITUCIONAL – AUMENTO DE ALÍQUOTA DA CONTRIBUIÇÃO SOCIAL PARA AS INSTITUIÇÕES FINANCEIRAS: LEI COMPLEMENTAR N. 70/91.
+1. Majoração tributária que não agride os princípios da isonomia e da capacidade contributiva, porque imposta aos contribuintes dotados de maior poder gerador de riqueza.
+2. Recurso improvido” (fl. 84).
+Sustentam os recorrentes violação do artigo 150, inciso II, da Constituição Federal, uma vez que a Constituição Federal “veda tratamento desigual entre contribuintes em situação equivalente e proíbe qualquer distinção em razão de ocupação profissional ou função por eles exercida” (fl. 93).
+Contra-arrazoado (fls. 98 a 103), o recurso extraordinário (fls. 88 a 94) foi admitido (fl. 105).
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. João Batista de Almeida, pelo não conhecimento do recurso extraordinário.
+Decido.
+Anote-se, primeiramente, que acórdão recorrido foi publicado em 11/9/97, conforme expresso na certidão de folha 85, não sendo exigível, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+A irresignação não merece prosperar, uma vez que esta Corte firmou entendimento no sentido de considerar juridicamente impossível o pedido que tenha como conseqüência a supressão de alíquotas ou a equiparação de alíquotas de tributos recolhidos por instituições financeiras àquelas pagas pelas empresas em geral, haja vista que é vedado ao Supremo Tribunal Federal atuar como legislador positivo. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. INSTITUIÇÕES FINANCEIRAS. ALÍQUOTAS DIFERENCIADAS. ISONOMIA. EQUIPARAÇÃO OU SUPRESSÃO. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. 1. A declaração de inconstitucionalidade dos textos normativos que estabelecem distinção entre as alíquotas recolhidas, a título de contribuição social, das instituições financeiras e aquelas oriundas das empresas jurídicas em geral teria como conseqüência normativa ou a equiparação dos percentuais ou a sua supressão. Ambas as hipóteses devem ser afastadas, dado que o STF não pode atuar como legislador positivo nem conceder isenções tributárias. Daí a impossibilidade jurídica do pedido formulado no recurso extraordinário. Agravo regimental a que se nega provimento” (RE nº 370.590/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJE de 16/5/08).
+Com relação à alínea “c” do permissivo constitucional, igualmente, não prospera o apelo, uma vez que o acórdão recorrido não julgou válida lei local, contestada em face da Constituição Federal, razão pela qual fica inviabilizado o processamento do recurso extremo. Nesse sentido, anote-se:
+“CONSTITUCIONAL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282 DO STF. MATÉRIA INFRACONSTITUCIONAL. ALÍNEA C, DO ART. 102, III, DA CF/88. AGRAVO IMPROVIDO. I - Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. II - A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto o recurso extraordinário. III - O acórdão não julgou válida lei ou ato de governo local contestado em face da Constituição, incabível, portanto, o conhecimento do recurso pela alínea c, do art. 102, III, da CF. IV - Agravo regimental improvido” (AI nº 666.493/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 13/6/08).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 12 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
