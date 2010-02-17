@@ -1,0 +1,16 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão de Tribunal Regional Federal e assim ementado:
+“EMBARGOS À EXECUÇÃO DE SENTENÇA. APLICAÇÃO DO PERCENTUAL DE 3,17%. LIMITAÇÃO. REMUNERAÇÃO. LEI 8.880/94.
+- Por força do disposto na Medida Provisória nº 2.225-45/2001, a incidência do percentual de 3,17% se dá até a reorganização/reestruturação de cargos. In casu, a limitação se dará até a data da publicação da Medida Provisória nº 2.048, de 29 de junho de 2000, quando os cargos dos embargados foram reestruturados.
+- No que se refere à incidência ou não do percentual de 3,17% sobre a remuneração dos autores, o título judicial impõe a correta aplicação da Lei 8.880/94, instituidora de reajuste geral de remuneração quanto à data base de janeiro de 1995. Sendo inafastável a natureza remuneratória das parcelas em questão, sobre elas incide o percentual objeto da ação coletiva por força da coisa julgada. O esforço doutrinário empreendido pela Procuradoria da União, lastreado no Ofício 162/COGJU/SRH/MP, não prospera, haja vista que deveria ter sido empreendido quando do julgamento do mérito da causa, restando a discussão preclusa em sede de embargos do devedor.” (fl. 133)
+ Sustentam os recorrentes, com base no art. 102, III, a, violação ao art. 5º, XXXVI, da Constituição Federal. Aduz, em suma, que a limitação temporal imposta (data de reorganização ou reestruturação da carreira), ofenderia a coisa julgada.
+2.  Inviável o recurso.
+ Dissentir do julgado exigiria reexame de fatos e provas, a cuja luz foi a causa decidida, o que é vedado na instância extraordinária (súmula 279).
+Ademais, é assente o entendimento que, por expressa disposição legal, após janeiro de 1995, eventual majoração do padrão de vencimento de cargos objeto de reestruturação, implicaria absorção dos 3,17% incorporado à antiga remuneração.
+Nesse sentido, a superveniência de legislação geraria alteração substancial da realidade fática que culminara na procedência do pedido inicial de pagamento do saldo devedor, pois, naquele momento, a remuneração dos servidores estaria sendo paga a menor.
+Noutras palavras, a coisa julgada, como situação jurídica (res) regulada pela sentença como norma singular e concreta (iudicata), alcança apenas o estado de coisas sobre o qual incidira a sentença, não se estendendo a inovações supervenientes, como a que, no caso e, por exemplo, decorra de lei ulterior que altere a organização ou a estrutura de cargos e carreiras, cujo regime jurídico não é imutável e perpétuo, nem gera direito adquirido à sua eterna permanência ou subsistência.
+Assim, a limitação temporal não viola a coisa julgada, porque, uma vez implementada mudança na política salarial, não há falar em continuidade de pagamento de novos reajustes, nos termos da sentença. Essa pretensão esbarra na jurisprudência desta Corte, que não reconhece direito adquirido do servidor público a regime jurídico-funcional, nem à permanência do regime legal de reajuste de vantagem (RE nº 294.009-AgR, da minha lavra, DJ de 2.3.2004).
+3.  Ante o exposto, nego seguimento ao recurso (artigos 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.05.1990, e 557 do CPC).
+ Publique-se. Int..
+Brasília, 17 de fevereiro de 2010.
+Ministro CEZAR PELUSO
+Relator
