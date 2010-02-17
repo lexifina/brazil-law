@@ -1,0 +1,40 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. COMPENSAÇÃO FINANCEIRA PELA EXPLORAÇÃO DE RECURSOS MINERAIS – CFEM INCIDENTE SOBRE A EXPLORAÇÃO DE FONTE DE ÁGUA MINERAL. NECESSIDADE DA ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL: IMPOSSIBILIDADE. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O Tribunal Regional Federal da 5ª Região julgou apelação em mandado de segurança, nos termos seguintes:
+“CFEM. COBRANÇA. ÁGUA MINERAL. MINÉRIO. ART. 20, § 1º, DA CF/88. LEI 7.790/89.
+- Quando prevê a possibilidade de cobrança de CFEM na exploração de ‘outros recursos minerais’ a norma inserta no art. 20, § 1º da CF/88 pretende abranger também, porque minério, a água mineral. Não está, assim, a água mineral incluída no conceito de recurso hídrico, já que este é relativo às águas comuns, do qual difere a água mineral.
+- A Compensação financeira prevista no art. 20, § 1º da CF/88 possui caráter indenizatório, o qual decorre do ressarcimento pela exploração dos recursos minerais do território do Estado (AC 104.212, Rel. Des. Federal Ridalvo Costa e AC 99.310, Rel. Juiz Francisco Falcão). Ora, como ocorre com os demais minérios, o Estado também dever ser ressarcido, através da cobrança da CFEM, pela extração da água mineral, como recurso mineral que é.
+- Apelação e Remessa oficial providas. Sentença Reformada” (fl. 156).
+Os embargos declaratórios opostos foram julgados nos seguintes termos:
+“PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE.
+I. Não é possível, em sede de embargos declaratórios, reabrir discussão acerca de questão já discutida e decidida.
+II. Deve-se rejeitar embargos que não sejam fundamentados nas hipóteses previstas no Código de Processo Civil que condiciona o seu cabimento à existência de omissão, contradição ou obscuridade no acórdão embargado.
+III. Embargos rejeitados” (fl. 198).
+3. O Recorrente alega que o Tribunal a quo teria afrontado os arts. 5º, inc. II, 20, § 1º, e 37, caput, da Constituição.
+Argumenta que:
+“é empresa industrial do ramo de refrigerantes, que também engarrafa água mineral para fins alimentares, a qual é extraída em fonte de sua propriedade, comercializando-a sem nenhum tipo de beneficiamento. Não obstante, o Recorrido quer impor o recolhimento de valores referentes à CFEM a qualquer custo, mesmo contrariando a hipótese prevista na Carta Magna.
+Só que a água prospectada e engarrafada pela Recorrente para fins alimentares não se sujeita à referida CFEM. É que, pelo § 1º do art. 20 da Constituição Federal, a exação só pode ser exigida, no caso da exploração de recursos hídricos, quando estes sejam destinados à geração de energia elétrica, o que não é nem tangencialmente o caso, que diz respeito a recursos hídricos destinados à alimentação humana.
+(...)
+Pior é que da Douta Sentença Monocrática foi reformada pela 1ª Turma do egrégio TRF da 5ª Região, sob o inusitado fundamento de que, a água, quando qualificada como mineral por sua propriedade medicamentosa, deixa de ser considerada recurso hídrico para receber o tratamento legal exclusivo de recurso mineral, aplicando uma interpretação restritiva ao significado de recurso hídrico, como sendo apenas as águas comuns e de superfície, afastando deste conceito a água dita mineral.
+(...)
+E não se extrai da leitura do texto legal referente à CFEM, ainda que tangencialmente, qualquer sinal da pretensão do legislador constitucional ou ordinário em restringir o sentido de recurso hídrico como sendo unicamente as águas referentes aos rios e lagos, ou de atribuir os mesmos significados para as expressões recursos minerais e água mineral” (fls. 215 e 217).
+Apreciada a matéria trazida na espécie, DECIDO.
+4. Razão jurídica não assiste ao Recorrente.
+O Desembargador Federal Relator consignou em seu voto condutor que:
+“Com efeito, dúvida não há quanto à caracterização da água mineral como minério. O próprio Código de Águas Minerais, nos Capítulos referentes à autorização de pesquisa e lavra da água mineral remete a sua regulamentação ao Código de Minas e submete a fiscalização ao Departamento Nacional de Produção Mineral.
+(...)
+Uma vez caracterizada a água mineral como minério, a esta urge que se apliquem todas as disposições legais referentes aos outros minérios, inclusive no que se refere à CFEM. Não há como se confundir, como pretende o impetrante, água mineral com os demais recursos hídricos, nos quais se incluem as águas comuns e de superfície como rios e lagos” (fls. 145-146).
+Conforme se verifica, o reexame do acórdão impugnado demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Decreto n. 24.643/34 – Código de Águas). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido:
+“AGRAVO REGIMENTAL. INCIDÊNCIA DO ICMS SOBRE O FORNECIMENTO DE ÁGUA TRATADA. ALEGADA VIOLAÇÃO AO INCISO II DO ARTIGO 155 DA CARTA DE OUTUBRO. A Corte de origem elegeu como base única do seu decidir a legislação infraconstitucional aplicável ao caso. Logo, a ofensa à Carta de Outubro, se existente, dar-se-ia de modo reflexo ou indireto, circunstância que não autoriza a abertura da via extraordinária. Agravo regimental a que se nega provimento. Condenação da parte agravante a pagar aos agravados multa de 1% (um por cento) do valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao recolhimento do valor respectivo, na forma do § 2º do artigo 557 do Código de Processo Civil.
+(...)
+Tenho que o agravo não merece acolhida. É que o Tribunal a quo fez menção ao dispositivo constitucional tido por violado pelo recurso extraordinário (inciso II do art. 155). Entretanto, o Tribunal de origem elegeu como base única do seu decidir a legislação infraconstitucional aplicável ao caso. Confira-se, a propósito, o seguinte trecho do aresto recorrido: (...) O art. 155, II, da Constituição Federal, instituiu o imposto sobre a circulação de mercadorias, regulamentando-o em seu parágrafo 2º. Por sua vez, o Decreto-Lei n. 406, de 31 de dezembro de 1968, ao definir o fato gerador do tributo, em seu art. 1º, fê-lo, também, sempre no sentido de uma movimentação de mercadorias. Logo, para saber da possibilidade de incidência do tributo na espécie, é necessário que se verifique se a água pode ser identificada como mercadoria. O Código de Águas dispõe: Art. 44. A concessão para o aproveitamento das águas que se destinam a um serviço público será feita mediante concorrência pública, salvo os casos em que leis ou regulamento a dispensem. Art. 46. A concessão não importa, nunca, a alienação parcial das águas públicas, que são inalienáveis, mas no simples direito ao uso destas águas. Ora, ao assim dispor, deixa a lei muitíssimo claro que a concessionária não é proprietária das águas que entrega ao usuário final, que delas também não é proprietário, diga-se, todos podendo apenas delas se utilizarem. (...) As águas não são produzidas pela distribuidora e, já se viu, também não ser por ela adquiridas, por estarem fora do comércio, nos termos do art. 46 supra citado. Logo, no seu estado bruto, jamais poderão, ex vi legis, ser conceituadas como mercadorias.
+7. Ora bem, apenas com a prévia análise da legislação infraconstitucional é que se poderia, eventualmente, concluir pela violação à Constituição. Em palavras outras, a contrariedade à Magna Carta, se existente, dar-se-ia de modo reflexo ou indireto. Tal circunstância, de acordo com a pacífica jurisprudência desta excelsa Corte, não enseja a abertura da via extraordinária” (RE 450.496-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJ 16.12.2005 – grifei).
+Nada há a prover quanto às alegações da parte recorrente.
+5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 17 de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
