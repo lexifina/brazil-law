@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. JULGAMENTO ANTECIPADO DA LIDE. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido teve como objeto o seguinte julgado do Tribunal de Justiça do Pará:
+“Execução – Cédula de Crédito Industrial, com Garantia de Hipoteca Cedular de 1º grau. Embargos à Execução interpostos, julgados improcedentes. Inconformismo. Recurso de Apelação, objetivando, reforma da r. sentença. Irregularidades apontadas de infringência ao disposto no art. 614, II, do Código de Processo Civil. Excesso de Execução e desconstituição do contrato mencionado como título executivo extrajudicial. Inocorrência.
+1 – Em virtude da obrigatoriedade da convenção que as partes, de comum acordo estipularam e reciprocamente aceitaram, enseja o dever de cumprir o contrato por completo, nos moldes de como foi ajustado.
+2 – Os acréscimos cobrados na Execução, livremente acordados pelas partes, não constituem excesso de execução, em face da expressa autorização da Lei nº 4.595/64, que afasta a idéia de ilegalidade.
+3 – Correta a decisão monocrática, acatando a pretensão do Embargado, quando cobra o principal, acrescendo ao valor nominal do título, os encargos sobre ele incidentes.
+4 – Recurso conhecido, mas improvido. Decisão unânime” (fl. 38).
+3. No recurso extraordinário, o Agravante alega que teriam sido contrariados os arts. 5º, inc. II, LIV e LV, e 93, inc. IX, da Constituição da República.
+Sustenta que o reconhecimento judicial de validade do “demonstrativo precário da dívida”, juntado aos autos pelo Exequente, afronta os princípios constitucionais da legalidade, da ampla defesa e do contraditório (fl. 34).
+Argumenta, ainda, que “é forçoso reconhecer, no mínimo, que o princípio do contraditório e da ampla defesa (CF, art. 5º, LV) [foi] novamente violado pelo motivo a seguir. O juízo a quo, de forma precipitada, julgou antecipadamente a lide, impedindo a produção de perícia, essencial para a apuração do débito” (fl. 35).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição da República, se tivesse ocorrido, seria indireta e a incidência das Súmulas 279, 282 e 356 do Supremo Tribunal Federal (fls. 20-22).
+5. No agravo de instrumento, reiteram-se as razões do recurso extraordinário (fls. 2-15).
+Apreciada a matéria trazida na espécie, DECIDO.
+6. Razão jurídica não assiste ao Agravante.
+7. Inicialmente, cumpre afastar a alegação de nulidade do acórdão por ofensa ao art. 93, inc. IX, da Constituição da República. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação. E tal como se firmou na jurisprudência do Supremo Tribunal: “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+8. No mérito, o Supremo Tribunal Federal firmou o entendimento de que a alegação de afronta ao art. 5º, inc. LV, da Constituição da República, se dependente do exame da legislação infraconstitucional – na espécie vertente, do art. 330 do Código de Processo Civil -, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“E M E N T A: AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS - JULGAMENTO ANTECIPADO DA LIDE - DESNECESSIDADE DE DILAÇÃO PROBATÓRIA - PRUDENTE DISCRIÇÃO DO MAGISTRADO SENTENCIANTE - POSSIBILIDADE - INOCORRÊNCIA DE CERCEAMENTO DE DEFESA - CONTENCIOSO DE MERA LEGALIDADE - OFENSA INDIRETA À CONSTITUIÇÃO - REEXAME DE FATOS E PROVAS - INVIABILIDADE - SÚMULA 279/STF - RECURSO IMPROVIDO. A decisão judicial, que, motivada pela existência de outras provas e elementos de convicção constantes dos autos, considera desnecessária a realização de determinada diligência probatória e julga antecipadamente a lide, não ofende a cláusula constitucional da plenitude de defesa. Precedentes. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes. - Não cabe recurso extraordinário, quando interposto com o objetivo de discutir questões de fato ou de examinar matéria de caráter probatório” (AI 752.176-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 20.11.2009).
+“EMENTA: Recurso extraordinário: descabimento: questão decidida à luz da legislação infraconstitucional que regula o julgamento antecipado da lide e a produção de provas; alegação de ofensa reflexa à Constituição, de exame inviável no extraordinário: incidência, mutatis mutandis, da Súmula 636” (AI 501.445-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 30.9.2004).
+Não há, pois, o que prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 17 de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
