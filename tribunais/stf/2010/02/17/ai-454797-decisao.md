@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+Vepasa Veículos S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 93, inciso IX, 145, § 1º, 150, incisos I e IV, 153, inciso III, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Primeira Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“TRIBUTÁRIO – CORREÇÃO MONETÁRIA DE BALANÇO PATRIMONIAL.
+As regras de indexação monetária não constituem matéria de direito tributário, inserindo-se no campo da economia nacional e das finanças públicas. Desta forma, não se sujeitam aos princípios gerais tributários, sendo que, conforme o art. 97 do CTN, a mudança de índice de correção monetária não implica majoração do tributo” (fl. 129).
+Opostos embargos de declaração (fls. 134 a 138), foram rejeitados (fls. 140 a 144).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 1º/9/99, conforme expresso na certidão de folha 145, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+O Tribunal de origem decidiu sobre o índice de atualização monetária a ser utilizado com base na legislação infraconstitucional aplicável à espécie (Código Tributário Nacional). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido, os seguintes julgados:
+“ACÓRDÃO QUE DECIDIU CONTROVÉRSIA RELATIVA À ADOÇÃO DE ÍNDICE PARA ATUALIZAÇÃO MONETÁRIA DE DEMONSTRAÇÕES FINANCEIRAS COM BASE EXCLUSIVAMENTE NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. Questão insuscetível de ser apreciada senão por via da legislação infraconstitucional reguladora da matéria, procedimento inviável em sede extraordinária, em que não cabe a aferição de ofensa reflexa e indireta à Constituição Federal. Incidência, ademais, do óbice da Súmula 282 desta Corte. Agravo regimental desprovido” (AI nº 260.290/RS-AgR, Relator o Ministro Ilmar Galvão, Primeira Turma, DJ 9/2/01).
+“RECURSO EXTRAORDINÁRIO - EXIGIBILIDADE DO RECOLHIMENTO DO IMPOSTO DE RENDA ANTES DA OCORRÊNCIA DO FATO GERADOR - DECRETO-LEI Nº 2.354/87, LEI Nº 7.787/89 E LEI Nº 7.799/89 - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - INVIABILIDADE DO APELO EXTREMO - RECURSO DE AGRAVO IMPROVIDO. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes” (RE nº 228.196/MG-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJ 2/2/07).
+Ademais, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que não cabe ao Poder Judiciário substituir o indexador previsto em lei. Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CORREÇÃO MONETÁRIA. NÃO CABE AO PODER JUDICIÁRIO SUBSTITUIR O INDEXADOR PREVISTO EM LEI. PRECEDENTES. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.” (RE nº 347.854/RS-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 21/ 8/09).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE RENDA. TABELAS. CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. 1. O Supremo Tribunal Federal fixou jurisprudência no sentido de que a correção monetária, em matéria fiscal, é sempre dependente de lei que a preveja, não sendo facultado ao Poder Judiciário aplicá-la onde a lei não a determina, sob pena de substituir-se ao legislador. Precedentes. Agravo regimental a que se nega provimento” (RE nº 452.930/DF-AgR, Relator o Ministro Eros Grau, Segunda Turma, DJe 1º/8/08).
+Por fim, não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Anote-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então agravante, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 17 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
