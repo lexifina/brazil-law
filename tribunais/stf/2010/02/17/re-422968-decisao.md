@@ -1,0 +1,35 @@
+DECISÃO
+Vistos.
+Estado do Rio de Janeiro interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Sexta Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+“Direito Administrativo. Concurso Público. Polícia Militar. Aprovação em todas as fases do certame exceto em entrevista pessoal pois quando indagado se já havia utilizado substância entorpecente o candidato respondeu tão-só ter experimentado. Exclusão do candidato pela presunção de inaptidão para o cargo. Violação ao Princípio da Legalidade e Razoabilidade.
+A fundamentação de que o candidato não tem aptidão para exercer a cargo de policial militar, por ter admitido que experimentou substância entorpecente, retrocede à punição por ato cometido no passado que sequer foi apurado criminalmente, A presunção da Administrarão da falta de aptidão deste candidato retrocede ao tipo de autor, ande não haviam condutas na adequação ao tipo, sendo a tipicidade alcançada pelas características pessoais que a pessoa apresentava, no caso a presunção de ser inidôneo para o cargo por ter admitido experimentar substância entorpecente.
+A adoção de critérios subjetivos pelo avaliador das provas, entrevistas e exames conduz a um julgamento arbitrário, que há muito vem sendo vedado em nosso sistema, Pela jurisprudência dos Tribunais Superiores.
+‘Administrativo. Recurso especial. Concurso público. Exame psicotécnico. Critério subjetivo. Inviabilidade.
+- A jurisprudência dos nossos tribunais tem admitido a exigência da aprovação em exame psicotécnico no edital de concurso público para provimento de certos cargos, com vistas a avaliação intelectual e profissional do candidato, desde que prevista em lei, renegando, todavia, a sua realização segundo critérios subjetivos do avaliador, susceptível de ocorrer procedimento seletivo discriminatório.
+- Na espécie, ainda que a legislação que disciplina a carreira de policial federal exija a aprovação em exame psicotécnico, vedado e seu desdobramento em fase de entrevista restrita as conclusões exclusivas do avaliador, que avalia a aptidão do candidato por meio de critérios subjetivos, passíveis de ocorrência de arbítrio. Recurso especial não conhecido’ (STJ, 6ª Turma REsp nº 150.615/CE, Min. Vicente Leal).
+Presente, portanto, o direito líquido e Certo de continuar as fases do concurso, pois sua desclassificação foi ilegal, posto que sem fundamentação e todo ato administrativo que imponha uma sanção deve ser fundamentado.
+Provimento do recurso” (fls. 155 a 156).
+Opostos embargos de declaração (fls. 161 a 164), foram rejeitados (fls. 167 a 169).
+Colhe-se do voto condutor dos embargos o seguinte excerto:
+“Não houve invasão do mérito administrativo, nem afronta ao princípio da Separação dos Poderes. Houve o exame da legalidade do próprio ato, pois a adoção de critérios subjetivos pelo avaliador das provas, entrevistas e exames conduz a um julgamento arbitrário, que há muito vem sendo vedado em nosso sistema, pela jurisprudência dos Tribunais Superiores” (fl. 168).
+Alega o recorrente violação dos artigos 2º e 37, inciso IV, da Constituição Federal, uma vez que “o Poder Judiciário, no exame dos atos administrativos tem de se ater à análise da eventual ocorrência de ilegalidade cometida pelo administrador, afastando-a, se verificada. Mas, jamais poderá o magistrado tomar o lugar do administrador, analisando a justiça ou a injustiça do ato, como verificado no caso em apreço” (fl. 178).
+Contra-arrazoado (fls. 182 a 190), o recurso extraordinário (fls. 171 a 180) foi admitido (fls. 198 a 199).
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Francisco Adalberto Nóbrega, pelo desprovimento do recurso extraordinário (fls. 204 a 207).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 8/8/03, conforme expresso na certidão de folha 170, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação.
+O Tribunal de origem concedeu a segurança para o impetrante ingressar no curso de formação de soldado, estando o acórdão recorrido assim fundamentado:
+“A decisão da Administração em reprovar o candidato representa o retrocesso ao tipo de autor, utilizado no regime nazista para punir as pessoas não por suas condutas, mas sim pela qualidade que apresentam, no caso a presunção de que o candidato ostenta personalidade dissociada ao exercício da função militar, por ter experimentado substância entorpecente e que se frise não resultou em inquérito, nem processo judicial.
+Este subjetivismo há muito vem sendo vedado pela jurisprudência dos Tribunais Superiores, pois o ato administrativo que importe em sanção deve ser fundamentado, o que não ocorreu no caso, revelando-se arbitrário e nulo, eis que ilegal” (fls. 158).
+O recorrente, por sua vez, sustenta, in verbis:
+(...)
+Como esclarecido anteriormente, a comprovação da idoneidade moral dos candidatos, pressupõe, além de entrevista e questionário previamente preenchido, diligências realizadas no seu ambiente social e doméstico, conforme estabelecido no Edital.
+Assim, com base nos dados objetivos colhidos, realiza-se avaliação da qualidade do candidato no tocante a sua idoneidade e conduta. Para que se proceda a tal avaliação sempre haverá certo grau de discricionariedade, isto porque a aferição de determinado comportamento ou conduta, à luz dos conceitos de moral e idoneidade que se deve exigir de um policial militar, não se pode dar hermeticamente. Eis aqui o que a doutrina convencionou chamar de ‘conceitos indeterminados’, a serem preenchidos pelo administrador, observados, naturalmente, os parâmetros da razoabilidade e do bom senso, bem como a sua aplicação indistinta a todos os candidatos.
+Feita esta breve introdução, cumpre passar ao cerne do presente recurso que reside na flagrante violação ao disposto nos artigos 2º e 37 da Constituição Federal, que consagram, respectivamente, os princípios da separação dos poderes e da legalidade.
+A r. decisão recorrida, ao anular a reprovação do impetrante, por entender que o uso de substância entorpecente por candidato ao cargo de Soldado Policial Militar não constitui conduta incompatível com o exercício da atividade policial, inegavelmente terminou por substituir a banca examinadora quanto aos critérios utilizados na avaliação dos candidatos” (fls. 177/178).
+ Nesse caso, para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame do conjunto fático-probatório dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 17 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
