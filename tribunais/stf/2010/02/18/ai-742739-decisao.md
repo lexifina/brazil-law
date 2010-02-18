@@ -1,0 +1,13 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que manteve sentença, para possibilitar a cumulação da Gratificação de Atividade Policial – GAP com a Gratificação de Habilitação, porquanto fundadas em situações fáticas e legais diversas.
+Sustenta o recorrente, com base no art. 102, III, a, violação aos arts. 5º, XXXVI e 37, X, XIV, 61, § 1º, e 93, IX, da Constituição da República.
+2.  Conquanto admissível o agravo, inviável o recurso extraordinário.
+ Com efeito, à exceção do art. 5º, XXXVI, da Constituição Federal, os demais temas constitucionais agora suscitados não foram objeto de consideração no acórdão impugnado, faltando-lhes, assim, o requisito do prequestionamento, que deve ser explícito (súmulas 282 e 356).
+Ainda que assim não fosse, melhor sorte não teria o recurso. É que o acórdão impugnado decidiu a causa com base no conjunto fático-probatório e na legislação infraconstitucional pertinente, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas reflexa.
+Ora, é pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de norma de âmbito infraconstitucional, seria apenas indireta à Constituição da República e, muito menos, pretensão de reexame de provas (súmulas 279 e 280).
+E, bem por isso, pretensões idênticas têm sido aqui repelidas. Cite-se, a título de exemplo, o AI nº 719.069   AgR (Rel. Min. ELLEN GRACIE, DJ de 25.9.2009), assim ementado:
+"ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL E GRATIFICAÇÃO DE HABILITAÇÃO. INTERPRETAÇÃO DAS LEIS ESTADUAIS 7.145/97 E 3.803/80. SÚMULA STF 280. 1. O Tribunal a quo, interpretando legislação estadual que trata da matéria, entendeu ser devida a Gratificação de Atividade Policial - GAP e a Gratificação de Habilitação. 2. Para se concluir, como pretende a parte agravante, necessário seria o reexame de legislação local, o que é defeso nesta via extraordinária (Súmula STF 280). Precedentes. 3. Agravo regimental improvido”.   No mesmo sentido: AI nº 762.351, Rel. Min. CÁRMEN LÚCIA, DJe 16.10.2009; RE nº 598.250, Rel. Min. CARLOS BRITTO, DJe 15.5.2009; AI nº 731.645, Rel. Min. MARCO AURÉLIO, Dje 20.4.2009; AI nº 666.272, Rel. Min. MENEZES DIREITO, DJe 16.4.2009).
+3.  Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+Brasília, 18 de fevereiro de 2010.
+Ministro CEZAR PELUSO
+Relator
