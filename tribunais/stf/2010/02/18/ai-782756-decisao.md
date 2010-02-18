@@ -1,0 +1,9 @@
+DECISÃO: O protocolo em que figura a data de interposição do recurso extraordinário está ilegível, de modo que é impossível verificar se este foi interposto tempestivamente. Isso implica dizer que falta ao instrumento elemento essencial para sua correta formação - cuja fiscalização cabe ao agravante -, o que acarreta o não-conhecimento do agravo.
+Ademais, observo que o recurso extraordinário está fundamentado em suposta afronta ao art. 5°, XXXVI, da Constituição federal, afirmando-se, em preliminar, que “A matéria versa sobre direito adquirido de filha solteira, nascida em 23/11/1947 (hoje, com 61 anos de idade) a conservar a pensão por morte do pai, que ingressou no serviço público, antes de janeiro de 1974 e, que faleceu em 23/08/2003. A decisão atacada, além de contrariar os artigos 5°, inciso XXXVI da Constituição Federal, também contraria dispositivos federais, entre eles o artigo 3° da Lei 10.741. Além de desconsiderar um direito adquirido da Autora, a permanecer recebendo a pensão por morte de seu pai, porque atendidos os pressupostos para tanto, também desconsidera estar se tratando de pessoa com mais de 60 (sessenta) anos de idade, solteira, com problemas sérios de coração e que nunca trabalhou. Portanto, a questão é de extrema relevância, com vasta repercussão, sobre o ponto de vista social, econômico, jurídico e político, que ultrapassam os limites subjetivos da causa.” (fls. 222/223)
+É patente, pois, que a parte não desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância — do ponto de vista econômico, político, social ou jurídico — das questões constitucionais aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza.
+Nesse sentido: AI 709.995, rel. min. Cármen Lúcia, DJe de 24.06.2008.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 18 de fevereiro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
