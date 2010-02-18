@@ -1,0 +1,29 @@
+DECISÃO
+Vistos.
+União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado na parte que interessa:
+“CONSTITUCIONAL E ADMINISTRATIVO. EX-COMBATENTE. PENSÃO ESPECIAL. ART. 53 DO ADCT. ALCANCE DA LEI Nº 5.315/67. ACUMULABILIDADE COM O BENEFÍCIO PREVIDENCIÁRIO – TERMO INICIAL. CORREÇÃO MONETÁRIA. JUROS MORATÓRIOS. SUCUMBÊNCIA.
+1. O art. 53 do ADCT da Constituição Federal de 1988 adotou conceito de ex-combatente contido na Lei nº 5.315/67, motivo pelo qual o benefício por ele concedido alcança militares que participaram de operações de guerra na Itália.
+2. O Diploma da Medalha de Campanha expedido pelo Ministro da Guerra ao integrante da Força Expedicionária Brasileira por participação de operação de guerra na Itália, é prova bastante da condição de ex-combatente da Segunda Guerra Mundial para fins de percepção da pensão especial de que trata o art. 53, II, do ADCT.
+3. O lançamento dos registros nos assentamentos dos militares é atribuição exclusiva da Administração, a essa não aproveitando o argumento de omissão ao fim de afastar o direito à pensão especial pelo requerente.
+4. A aposentadoria de servidor público consubstancia benefício de natureza previdenciária e portanto, expressa exceção legal pertinente, não obsta a cumulação com a pensão especial devida ao ex-combatente.
+5. O direito à pensão especial de ex-combatente pode ser requerido a qualquer tempo (ADCT, art. 53, II), sendo, por isso, imprescritível. Pelo igual motivo, dependendo de requerimento do interessado, não incumbindo à Administração implantá-lo ex officio, o benefício só é devido a partir do pedido do beneficiário, sem produção retroativa.
+6. As diferenças remuneratórias a cargo da parte requerida ficam sujeitas à correção monetária, a partir de quando devida cada parcela, com base nos indexadores oficiais.
+7. Por força do disposto no art. 1º-F da lei nº 9.494/97, com a redação dada pela Medida provisória nº 2.180-35 de 24.08.2001, os juros de mora nas condenações impostas à Fazenda Pública para pagamento de verba remuneratória devidas a servidores públicos, sendo a ação aforada ulteriormente à edição daquele diploma legal, não poderão ultrapassar o percentual de 6% ao ano.
+8. Advindo da imposição sentencial obrigação de efeito pecuniário, sobre a condenação é que devem ser computados os honorários da sucumbência, não o transmudando o fato de ser vencida a Fazenda Pública (CPC, art.20, §§ 3º e 4º)” (fls. 111/112).
+Opostos embargos de declaração (fls. 114 a 119), foram rejeitados (fls. 134 a 139).
+Alega a recorrente violação dos artigos 5º, incisos XXXV, LIV e LV, 93, inciso IX, 100, § 1º, da Constituição Federal, sustentando ser incabível a fixação dos honorários advocatícios em 10% sobre o valor da condenação, bem como que “o precatório, no lapso temporal de aguardo para pagamento, não configura mora para a Fazenda Pública devedora” (fl. 164).
+Contra-arrazoado (fls. 203 a 209), o recurso extraordinário (fls. 154 a 167) foi admitido (fl. 213).
+O Superior Tribunal de Justiça, em decisão transitada em julgado (fl. 239), deu provimento ao recurso especial interposto paralelamente ao extraordinário para “determinar que a verba honorária tenha por base de cálculo a soma das prestações vencidas, desde o ajuizamento da ação, mais uma anualidade das prestações vincendas, consoante o disposto no art. 260 do Código de Processo Civil” (fl. 225).
+Decido.
+A irresignação merece prosperar, em parte.
+No que diz respeito aos honorários advocatícios, o recurso especial encontra-se prejudicado, uma vez que, como visto, o recurso especial da União foi conhecido e provido, implicando a alteração da base de cálculo dos honorários que passaram a ser a soma das prestações vencidas, desde o ajuizamento da ação, mais uma anualidade das prestações vincendas.
+No tocante aos juros moratórios, ressalte-se que o Plenário desta Corte, em sessão realizada por meio eletrônico, concluiu, no exame do Recurso Extraordinário nº 591.085/MS-QO, Relator o Ministro Ricardo Lewandowski, pela existência da repercussão geral do tema constitucional versado no presente feito, qual seja, a possibilidade de incidência de juros de mora sobre os precatórios, no período compreendido entre a sua expedição e o seu pagamento, quando realizado até o final do exercício seguinte.
+Ao apreciar o mérito, o Plenário confirmou a jurisprudência consolidada nesta Corte no sentido da inconstitucionalidade da incidência de juros de mora no período entre a inclusão do precatório em orçamento até o prazo constitucional previsto para seu pagamento, qual seja, até o final do exercício seguinte. O julgamento restou assim ementado:
+“CONSTITUCIONAL. PRECATÓRIOS. JUROS DE MORA. INCIDÊNCIA DURANTE O PRAZO PREVISTO NA CONSTITUIÇÃO PARA SEU PAGAMENTO. IMPOSSIBILIDADE. ART. 100, § 1º (REDAÇÃO ORIGINAL E REDAÇÃO DADA PELA EC 30/2000), DA CONSTITUIÇÃO.
+I - QUESTÃO DE ORDEM. MATÉRIA DE MÉRITO PACIFICADA NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE O MESMO TEMA. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 579.431-QO/RS, RE 582.650-QO/BA, RE 580.108-QO/SP, MIN. ELLEN GRACIE; RE 591.068-QO/PR, MIN. GILMAR MENDES; RE 585.235-QO/MG, REL. MIN. CEZAR PELUSO. II – Julgamento de mérito conforme precedentes.
+III – Recurso provido” (DJe de 19/2/09)
+Ante o exposto, nos termos do artigo 557, caput e § 1º-A, do Código de Processo Civil, conheço parcialmente do recurso extraordinário e, nesta parte, lhe dou provimento para afastar a incidência de juros moratórios entre a data de inclusão do precatório no orçamento e o prazo constitucional previsto para seu pagamento, qual seja, até o final do exercício seguinte.
+Publique-se.
+Brasília, 18 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
