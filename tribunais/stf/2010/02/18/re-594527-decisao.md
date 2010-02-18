@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Turma do Tribunal Regional Federal da 5ª Região, assim ementado na parte que interessa:
+“ADMINISTRATIVO E CONSTITUCIONAL. ART. 53 II DO ADCT. PENSÃO DE EX-COMBATENTE. PREEMNCHIMENTO DOS REQUISITOS LEGAIS.
+1. Considera-se ex-combatente, para efeito de pagamento de pensão especial, não apenas aquele que participou da Segunda Guerra Mundial no Teatro de Operações da Itália, mas também aquele que, comprovadamente, cumpriu missões de vigilância e segurança do litoral brasileiro naquela época, como integrante da guarnição de ilhas oceânicas ou de unidades que se deslocaram de suas sedes para o cumprimento de suas missões. (STJ, REsp. 273.377-PE, Rel. Min. FÉLIX FISHER, DJU 10.03.03, p. 273).
+2. Comprovação, mediante certidão fornecida pelo Ministério do Exército (7a. Região), de que o de cujus cumpriu missões de vigilância e segurança no litoral do Rio Grande do Norte no período de 05.12.44 a 20.12.44.
+3. A certidão expedida por Organização Militar no período de vigência da Portaria 19/68 é apta a comprovar os requisitos necessários ao deferimento da Pensão Especial. Precedentes REsp.420.544-SC).
+(...)” (fls. 90/91).
+Alega a recorrente violação do artigo 53, caput, do Ato das Disposições Constitucionais Transitórias, uma vez que “somente a Diretoria de Cadastro e Avaliação do Exército tem competência para fornecer a Certidão de Tempo de Serviço Militar que se considere ex-combatente, por ser o único órgão a dispor do acervo documental relativo ao citado conflito mundial. No caso do Ministério da Marinha, somente a Diretoria de Portos e Costa – DPC tem igual competência” (fl. 126).
+Contra-arrazoado (fls. 142 a 147), o recurso extraordinário (fls. 121 a 130) foi admitido (fl. 164).
+O Superior Tribunal de Justiça, em decisão transitada em julgado (fl. 201), negou provimento ao recurso especial interposto paralelamente ao extraordinário (fls. 193 a 199).
+Decido.
+Anote-se, inicialmente, que a recorrente foi intimada do acórdão recorrido em 29/8/06, como expresso na certidão de folha 93, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece trânsito a irresignação.
+O Tribunal de origem decidiu a controvérsia relativa à caracterização da condição de ex-combatente para efeito de concessão da pensão especial com fundamento na legislação infraconstitucional e na prova documental dos autos. Sobre o tema o acórdão recorrido assim consignou:
+“(...)
+4. In casu, foi comprovado que o apelado participou efetivamente da Segunda Guerra Mundial, pois se deslocou de sua sede, por ordem do escalão superior, para cumprimento de missões de vigilância e segurança do litoral, na região de Pirangi/RN, no período de 05.12.44 a 20.12.44, conforme atesta a certidão de fls. 12, fornecida pelo Ministério do Exército na data de 28.09.78.
+5. A certidão apresentada revela, claramente, que o conceito de ex-combatente, delimitado pela legislação acima apontada, encontra-se perfeitamente satisfeito pela prova documental apresentada pelo apelado, o que implica no reconhecimento de sua condição de ex-combatente” (fl. 82).
+Nesse caso, a alegada violação do dispositivo constitucional invocado seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Anote-se:
+“1. RECURSO. Extraordinário. Inadmissibilidade. Pensionista. Condição de ex-combatente para fins de percepção de pensão especial. Interpretação da Lei nº 5.315/67. Matéria infraconstitucional. Agravo regimental não provido. Precedentes. Não cabe recurso extraordinário que tenha por objeto alegação de ofensa indireta à Constituição Federal, por má aplicação de norma infraconstitucional. 2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (AI nº 565.169/RJ-AgR, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 11/11/05).
+“CONSTITUCIONAL. MILITAR. EX-COMBATENTE: CONCEITO. PENSÃO ESPECIAL. ADCT/88, art. 53, II. Lei 5.315, de 1967. I. - O ADCT/88, art. 53, caput, não conceitua o ex-combatente, deixando para a Lei 5.315/67 defini-lo. É na Lei 5.315/67, portanto, que se deve buscar o conceito de ex-combatente que fará jus aos benefícios inscritos nos incisos do citado art. 53, ADCT. A questão, pois, de índole infraconstitucional, não integra o contencioso constitucional. II. - Caso em que poderia ocorrer ofensa indireta ao art. 53, ADCT, o que não autoriza a admissão do recurso extraordinário. III. - Agravo não provido” (AI nº 478.472/SC-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 3/12/04).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 18 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
