@@ -1,0 +1,19 @@
+1.  Trata-se de recursos extraordinários interpostos contra acórdão do Tribunal Regional Federal da 1ª Região que, ao confirmar decisão que deferiu liminar em ação de reintegração de posse, negou provimento ao agravo da Fundação Nacional do Índio – FUNAI e da União, cujo aresto está assim ementado:
+“ AGRAVO DE INSTRUMENTO. AÇÃO POSSESSÓRIA. INVASÃO DE TERRAS DE DOMÍNIO PRIVADO POR ÍNDIOS. AUSÊNCIA DE ESTUDOS E PROVIDÊNCIAS CONCRETAS PARA CARACTERIZAR A ÁREA COMO “TERRA TRADICIONALMENTE OCUPADA POR ÍNDIOS.”
+1 – A outorga da proteção possessória pelo juiz pressupõe, necessariamente, a comprovação da posse do autor, o esbulho ou a turbação pelo réu e a data em que tal violência se tornou efetiva (CPC, art. 927). Caso em que tais requisitos se acham demonstrados nos autos.
+2 – Incensurável a decisão que defere liminar em ação de reintegração de posse, resguardando o direito de quem exercia pacificamente a posse e a teve turbada ou esbulhada de um momento para outro. Medida que se impõe, inclusive, para garantir a continuidade das atividades de economia rural exercidas no imóvel de domínio privado, restabelecendo-se, assim, o status quo ante.
+3 – Agravo a que se nega provimento, por maioria.” (Fl. 138).
+2.  Admitidos os recursos na origem (fls. 487 e 488), subiram os autos.
+3.  O Ministério Público Federal opinou, preliminarmente, pela prejudicialidade dos recursos em razão da perda superveniente de seus objetos, e, no mérito, pelo provimento (fls. 633-635), nestes termos:
+“Prima facie, sobrevindo a sentença nos autos da ação possessória, com a confirmação da liminar impugnada nesta sede, verifica-se a superveniente perda do objeto da iniciativa recursal, cujo provimento não terá o condão de retirar a eficácia da decisão de mérito.
+Ultrapassado o óbice, o recurso é de ser provido.” (Fl. 634).
+.................................................................................
+“Nesse contexto, é flagrantemente inconstitucional a decisão que acatou a primazia da posse civil sobre a indígena, desconsiderando as evidências do caráter tradicional da terra, inclusive a demarcação da área realizada em 1937 – que, per se, inverte a lógica do decisum, fazendo pesar sobre a posse do recorrido vício insanável e, portanto, insuscetível de qualquer proteção possessória. A hipótese assume maior gravidade em face da dimensão precária e restrita do provimento liminar, evidentemente inadequado para a análise do tema.” (Fl. 635).
+4.  Os recursos, entretanto, não merecem prosperar. A jurisprudência do Supremo Tribunal Federal, consolidada pela Súmula STF 735, assentou que não cabe recurso extraordinário contra decisões que concedem ou que denegam a antecipação dos efeitos da tutela jurisdicional ou provimentos liminares. Tais atos decisórios – precisamente porque fundados em mera verificação não conclusiva da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada – não veiculam qualquer juízo definitivo de constitucionalidade. Não se ajustam, em conseqüência, às hipóteses consubstanciadas no art. 102, III, da Constituição Federal.
+ No caso, o Juiz Federal da Vara Única de Ilhéus/BA deferiu liminar de reintegração do ora recorrido na posse das áreas das Fazendas do Conjunto Serra Verde e Serrana do Ouro, ocupadas pelos índios da Comunidade Pataxó (fls. 26-36), decisão que foi mantida pelo acórdão recorrido (fls. 75-138), em decorrência do desprovimento do agravo de instrumento.
+ A esse respeito cito o RE 263.038/PE, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 28.04.2000; AI 597.618-AgR/SP, rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 29.06.2007; e AI 552.178-AgR/MG, rel. Min. Cezar Peluso, 2ª Turma, unânime, DJ 28.11.2008.
+5.  Por tais razões, nego seguimento aos recursos extraordinários (art. 21, § 1º, RISTF).
+Publique-se.
+Brasília, 19 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
