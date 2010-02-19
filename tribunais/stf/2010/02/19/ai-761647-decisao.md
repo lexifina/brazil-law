@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Rio de Janeiro, que deu parcial provimento ao recurso da ora agravada, no qual pleiteara diferenças de índices aplicados em contas de poupança (Planos Bresser e Verão), decorrentes dos expurgos de planos econômicos, para determinar a aplicação do índice da caderneta de poupança à correção monetária (fls. 139-148).
+2.  O Tribunal de origem asseverou que a alegada ofensa à Constituição Federal, se existisse, seria indireta (fls. 208-211).
+3.  A insurgência não merece prosperar. Primeiramente, a alegação de ofensa ao art. 5º da Constituição Federal, além de o fato de decisão contrária aos interesses da parte não caracterizar violação aos dispositivos constitucionais apontados, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+4.  Mostra-se também impertinente, na hipótese dos autos, a invocação do art. 97 da Constituição Federal e da alínea b do permissivo constitucional (art. 102, III), uma vez que não houve, no acórdão recorrido, declaração de inconstitucionalidade de tratado ou lei federal, sem margem, portanto, para o cabimento do recurso extraordinário.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 19 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
