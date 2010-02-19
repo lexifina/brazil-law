@@ -1,0 +1,15 @@
+1.  Trata-se de recurso extraordinário por ofensa ao art. 30, V, da Constituição Federal, bem como a normas contidas no Código de Trânsito Brasileiro, contra acórdão que concluiu pela inadmissibilidade de se condicionar a liberação do veículo, legalmente retido, ao recolhimento da multa aplicada, assim ementado (fls. 115-119):
+“ ANULAÇÃO DE ATO ADMINISTRATIVO – TRANSPORTE DE PASSAGEIROS SEM AUTORIZAÇÃO DO PODER PÚBLICO – APREENSÃO DO VEÍCULO – INCIDÊNCIA DE MULTA E TAXAS DE REMOÇÃO E ESTADIA – LEGALIDADE DO ATO QUESTIONADO – COMPETÊNCIA DA MUNICIPALIDADE PARA LEGISLAR, FISCALIZAR E IMPOR PENALIDADES – INTELIGÊNCIA DO ART. 30, V, CF, LEI 9.503/97 E ART. 34 DA LEI MUNICIPAL Nº 13.241/01 – INADMISSÍVEL, PORÉM, NOS TERMOS DA SÚMULA 323 DO STF, CONDICIONAR A LIBERAÇÃO DO VEÍCULO AO PRÉVIO PAGAMENTO DA MULTA – RECURSO DA MUNICIPALIDADE PARCIALMENTE PROVIDO. ”
+2.  Inadmitido o recurso (flS. 166-168), subiram os autos em virtude de provimento de agravo de instrumento.
+3.  A Procuradoria-Geral da República opinou pelo não-conhecimento do recurso (fls. 183-189).
+4.  Com efeito, o presente recurso extraordinário não merece prosperar. Da leitura do acórdão recorrido, infere-se que foi reconhecida a competência do recorrente para legislar sobre transporte coletivo de passageiros, nos seguintes termos (fl. 117): “a Lei nº 13.241/2001 do Município de São Paulo ao dispor sobre a criação da modalidade de transporte público coletivo através de lotação, praticado por veículo tipo perua ou assemelhados, não fere o disposto no art. 22, inciso XI, da Constituição Federal, pelo contrário, atende ao disposto no art. 30, inciso V da Carta Magna.”
+5.  Por outro lado, quanto à liberação do veículo, asseverou o seguinte (fl. 118):
+“A retenção do veículo até o pagamento das taxas de remoção e estadia é legítima, pois remunera as despesas efetivadas pela Municipalidade na guarda do bem apreendido.
+O mesmo não pode ser dito quanto ao prévio pagamento da multa. A teor do entendimento consignado na Súmula 323 do Supremo Tribunal Federal, embora devida a penalidade, inadmissível condicionar a liberação do veículo ao seu recolhimento.”
+6.    Vê-se, portanto, que a competência legislativa do município para legislar (CF/88, art. 30) não foi o fundamento utilizado pelo Tribunal a quo para determinar a liberação do veículo apreendido. Valeu-se a Corte de origem, na realidade, de outros argumentos, como a aplicação da Súmula STF 323: “É inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de tributos”.
+7.  Assim, o apelo extremo revela-se inadmissível, pois nele não foram atacados os reais motivos adotados pela Corte de origem para ordenar a liberação do veículo, independentemente do pagamento da multa aplicada. Incide, na espécie, o óbice da Súmula STF 283: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento e o recurso não abrange todos eles”.
+8.  Diante do exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 19 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
