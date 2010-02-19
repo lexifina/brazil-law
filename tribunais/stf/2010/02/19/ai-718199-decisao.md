@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+“ PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. APONTADA ILEGALIDADE NA COBRANÇA DE MULTA, JUROS E INDEXAÇÃO EM PARCELAMENTO DE DÉBITO FISCAL. ISS. DENÚNCIA ESPONTÂNEA QUE NÃO SE CARACTERIZA EM RAZÃO DA NATUREZA DO LANÇAMENTO – POR HOMOLOGAÇÃO. LAUDO PERICIAL QUE NADA REVELOU DE ILEGAL QUANTO AOS ÍNDICES APLICADOS. IMPOSSIBILIDADE DE O JUDICIÁRIO ORDENAR OU ESTABELECER REPARCELAMENTO, OU MESMO FIXAR PARCELAS, PORQUANTO SE TRATA DE QUESTÃO RESERVADA À DISCRICIONARIEDADE ADMINISTRATIVA. IMPROVIMENTO AO RECURSO.”  (Fl. 391).
+2.  Nas razões do RE, sustenta-se ofensa aos artigos 5º, LIV e LV; 150, IV; e 173, da Constituição Federal.
+3.  O recurso não merece prosperar. Verifico que os artigos 150, IV e 173, da Constituição Federal não se encontram prequestionados, porque não abordados pelo acórdão recorrido e, embora suscitados na petição dos embargos de declaração a ele opostos, não foram apontados oportunamente no recurso de apelação (fl. 319-332). O artigo 5º, LIV e LV, por sua vez, sequer foram argüidos nos embargos declaratórios.
+ Incide, pois, o óbice das Súmulas STF 282 e 356.
+4.  Ademais, ressalte-se que, quanto à alegação de ofensa ao art. 5º e seus incisos, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 19 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
