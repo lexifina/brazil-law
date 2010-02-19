@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão denegatória de recurso extraordinário interposto contra acórdão que concluiu pela desnecessidade de produção probatória, uma vez que o que constava nos autos já era o bastante para formação do convencimento do julgador.
+2.  Nas razões do RE, sustenta-se ofensa ao artigo 5º, LV, da Constituição Federal, alegando-se, em síntese:
+“Inicialmente, pode-se observar que o MM Juiz a quo, ao proferir a sentença que negou a produção de prova anteriormente deferida, afirmou, às fls. 264, que a pretendida prova testemunhal nada acrescentaria à solução da demanda porque o ora Recorrente não foi punido por manter relações sexuais em horário de serviço, mas por desfavorecer todo um planejamento previamente executado ao desguarnecer seu setor.
+(...)
+Ao contrário do que afirma o MM. Magistrado sentenciante, por toda a leitura dos autos e inclusive pela do Libelo Acusatório, o fato imputado ao Recorrente foi fundamentado principalmente pelo fato de ter adentrado nas dependências do motel, e não por abandono de posto, uma vez que a punição não foi tipificada no art. 195 do Código Penal Militar e sim no artigo 30, inciso I, alíneas ‘a’, ‘b’, ‘c’ do Decreto 254R (RDME).” (Fls. 85/86).
+3.  O recurso não merece prosperar. Verifico que seria necessário o reexame do conjunto fático-probatório dos autos, para divergir da conclusão a que chegou o Tribunal a quo acerca da desnecessidade de produção de provas (Súmula STF 279).
+4.  Ademais, quanto à alegação de ofensa ao art. 5º e seus incisos, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  No que tange ao pedido de assistência judiciária gratuita, julgo-o prejudicado, tendo em vista que a sentença de fls. 48-52 já concedeu tal benefício ao ora agravante.
+6.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 19 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
