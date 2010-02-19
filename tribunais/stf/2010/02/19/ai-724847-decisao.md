@@ -1,0 +1,14 @@
+1.  O Superior Tribunal de Justiça concluiu que a questão apresentada pelo Estado do Paraná envolveria revolvimento do conjunto fático-probatório dos autos e negou provimento ao seu recurso especial. Por outro lado, deu provimento ao especial dos expropriados e determinou o retorno dos autos à origem para nova apreciação do mérito da demanda (fls. 478-487).
+2.  Daí a interposição de recurso extraordinário (fls. 490-498), em que se alega afronta ao art. 5º, XXIV, LV e LXXVIII, da Constituição Federal. O recorrente afirma que a determinação de retorno dos autos à origem “pode sinalizar para a inconcebível determinação de perícia (inviável faticamente, decorrido grande lapso temporal), culminando, talvez, com uma descabida fixação de indenização àquele que não é proprietário”, o que ofende diretamente a Carta Magna.
+3.  O extraordinário não foi admitido porque, segundo asseverou a Corte de origem, a alega ofensa à Constituição Federal, se existiu, foi de modo indireto (fls. 538-539).
+4.  O presente agravo não prospera. Inicialmente, o Supremo Tribunal entende que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da ampla defesa e do contraditório, se existentes, seriam meramente reflexas ou indiretas, cujo exame se mostra inviável nesta sede recursal. Nesse sentido, o AI 372.358-AgR/SP, rel. Min. Celso de Mello, 2ª Turma, DJ 28.06.2002.
+5.  Ademais, as alegadas ofensas à Constituição Federal envolvem o exame de legislação que rege a matéria (Lei 9.871/99, Decreto-Lei 3.365/41 e CPC), bem como o reexame de fatos e provas, o que é defeso nesta fase recursal, em razão do óbice da Súmula STF 279 e por ser indireta a alegada ofensa à Constituição Federal.
+Trata-se de questão infraconstitucional prejudicial ao julgamento do extraordinário. Observe-se que, no julgamento do recurso especial, que decidiu favoravelmente à pretensão dos recorridos, foi reconhecido óbice de natureza processual a impedir a confirmação da conclusão da instância ordinária. É o que se depreende dos seguintes trechos do aresto proferido pelo Tribunal de origem:
+“A jurisprudência do STJ, interpretando o art. 34 do Decreto-lei 3.365/41, não tem admitido, em sede de ação expropriatória, discussão em torno do domínio, considerando necessária e indispensável a utilização de ação específica para anulação de título translativo de propriedade.
+(...)
+Assim, ainda que não tenha ocorrido julgamento extra petita, a partir da premissa adotada pelo Tribunal de que houve pedido de nulidade dos títulos dominiais, esse pedido não pode ser analisado na via eleita. Prejudicada, pois, a análise de contrariedade ao art. 4º, da Lei 9.871/99 e reconhecido o interesse de agir do INCRA dentro dos limites da ação expropriatória.”
+6.     Ante o exposto, nego seguimento ao agravo (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 19 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
