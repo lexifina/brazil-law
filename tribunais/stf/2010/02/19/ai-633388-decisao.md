@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que negou seguimento a recurso extraordinário por negativa de vigência ao art. 129, IX, da Constituição Federal (fls. 27-40). O acórdão recorrido, além de declarar a nulidade do procedimento de licitação para contratação de advogado para defesa do então prefeito municipal, condenou o ora agravante como incurso nos arts. 11 e 12, III, da Lei 8.429/92, por ato de improbidade administrativa (fls. 20-24).
+O Tribunal de origem asseverou que não houve prequestionamento e que a questão foi dirimida à luz dos fatos e das provas dos autos (fls. 16-17).
+2.  Com efeito, o presente agravo não merece prosperar. A alegada ofensa ao inciso LV do art. 5º da Constituição Federal, além de demandar o revolvimento de fatos e provas (Súmula STF 279), se existisse, seria indireta, a depender de análise da legislação infraconstitucional, hipóteses de apreciação inviável em sede extraordinária. Para ilustrar, veja-se o RE 487.236- AgR/DF, 1ª Turma, rel. Min. Carlos Britto, DJ 31.08.2007; e o AI 587.525/MG, rel. Min. Joaquim Barbosa, 2ª Turma, DJ 16.02.2007.
+3.  Quanto à questão de fundo, também não tem amparo a alegada contrariedade ao art. 129, IX, da Lei Maior, sob a alegação de que tal dispositivo não confere legitimidade ativa ao Ministério Público para a defesa do patrimônio público contra atos de improbidade administrativa.  Com efeito, o acórdão impugnado, ao entender pela legitimidade do Parquet para a propositura dessa ação que visava à proteção do patrimônio público, decidiu de acordo com a jurisprudência desta Corte. É o que se depreende do RE 208.790/SP, rel. Min. Ilmar Galvão, Plenário, unânime, DJ 15.12.2000, cuja ementa transcrevo:
+“ CONSTITUCIONAL. MINISTÉRIO PÚBLICO. AÇÃO CIVIL PÚBLICA PARA PROTEÇÃO DO PATRIMÔNIO PÚBLICO. ART. 129, III, DA CF.
+Legitimação extraordinária conferida ao órgão pelo dispositivo constitucional em referência, hipótese em que age como substituto processual de toda a coletividade e, conseqüentemente, na defesa de autêntico interesse difuso, habilitação que, de resto, não impede a iniciativa do próprio ente público na defesa de seu patrimônio, caso em que o Ministério Público intervirá como fiscal da lei, pena de nulidade da ação (art. 17, § 4º, da Lei nº 8.429/92).
+Recurso não conhecido.”
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 19 de fevereiro de 2010.
+Ministra Ellen Gracie
+Relatora
