@@ -1,0 +1,26 @@
+Petição/STF nº 6.173/2010
+DECISÃO
+APOSENTADORIA COMPULSÓRIA – TRANSFORMAÇÃO EM REMOÇÃO – REVISÃO DISCIPLINAR – MANDADO DE SEGURANÇA – JULGAMENTO DEFINITIVO – LIMINAR INDEFERIDA.
+1.  A Assessoria assim revelou o que se contém neste processo:
+Este mandado de segurança está voltado contra ato do Conselho Nacional de Justiça na Revisão Disciplinar nº 0000325-53.2010.2.00.0000 (folha 424 a 429), que, acolhendo pedido formalizado pelo Presidente do Tribunal de Justiça do Estado do Pará, suspendeu os efeitos do pronunciamento do Tribunal de Justiça do Estado do Pará que dera provimento ao recurso administrativo, convertendo em remoção a pena de aposentadoria compulsória imposta ao impetrante (folha 389 a 409). A condenação decorreu das seguintes infrações constatadas pela Corregedoria da Justiça (folha 135 a 199):
+a) existência de processos com tempo de tramitação superior ao previsto em lei;
+b) nomeação de servidores e de terceiros, sem relação com a lide, como fiéis depositários;
+c) homologação de acordos e realização de transações penais em favor do Poder Judiciário;
+d) não encaminhamento de armas de fogo, acessórios ou munições apreendidas;
+e) ausência de correição ordinária anual;
+f) não realização de visitas carcerárias;
+g) inobservância da celeridade processual em processos de réus presos, idosos, crianças e adolescentes; e,
+h) descumprimento de deveres de magistrado.
+O Conselho indeferiu o pleito de adiamento do referendo da liminar formulado pelo impetrante – mediante o qual visava a produção de provas (folhas 430 e 431) - e referendou a decisão ora questionada em 26 de janeiro de 2010 (folha 432). O motivo seria a ilegalidade do pronunciamento do Tribunal de Justiça, que, ao acolher o pedido de revisão do magistrado, fundamentado em injustiça, abrandou-lhe a pena sem que fosse alegado fato novo (folha 389 a 408), deixando de observar os artigos 174 da Lei nº 8.112/90 e 65 da Lei nº 9.784/99, que autorizam a revisão de processo disciplinar somente quando calcado em elementos novos.
+O impetrante sustenta a existência de matéria prejudicial à decisão impugnada e a incompetência do Conselho para atuar na questão, porquanto judicializada mediante impetração formalizada em 7 de maio de 2009, perante o Tribunal de Justiça do Estado do Pará (folha 258 a 291, sem carimbo do protocolo). Ressalta a ilegitimidade do requerente do Pedido de Revisão – o Presidente do Tribunal de Justiça -, considerado o rol de legitimados disposto nos artigos 82 do Regimento Interno do Conselho Nacional de Justiça, 9º da Lei nº 9.784/99 e 487 e 499 do Código de Processo Civil. Diz da legalidade do ato do Tribunal de Justiça revisto pelo Conselho, porquanto apresentadas circunstâncias novas – satisfação de seis das oito irregularidades apontadas na correição – a assegurar-lhe a atenuação da pena, a teor do artigo 128 da Lei nº 8.112/90 (folha 296 a 365). Afirma que o pagamento de proventos proporcionais da aposentadoria, enquanto afastado o magistrado na pendência de pronunciamento definitivo no processo disciplinar, ofende as normas do § 3º do artigo 27 da Loman e dos artigos 8º e 75 da Resolução nº 30 do Conselho Nacional de Justiça. Alega inobservância à garantia do contraditório e ao devido processo legal, ante o indeferimento do pedido de manifestação do magistrado e de produção de provas antes do referendo da liminar.
+Sob o ângulo do risco, aponta o prejuízo da subsistência familiar ante a redução dos vencimentos pela inatividade forçada, com proventos proporcionais. Evoca como precedente da Corte, entre outros, a decisão proferida no Mandado de Segurança nº 28.306-0/DF, Relator Ministro Ricardo Lewandowski, veiculada no Diário da Justiça de 9 de outubro de 2009. Requer o deferimento de medida acauteladora para suspender os efeitos do ato atacado – restabelecendo-se o acórdão do Tribunal de Justiça que reviu a pena de aposentadoria - e, alfim, a concessão da segurança para anular o processo de Revisão Disciplinar nº 0000325-53.2010.2.00.0000-CNJ.
+Acompanharam a inicial os documentos de folha 52 a 441.
+Na Petição/STF nº 6.173/2010 (pendente de juntada), o impetrante requer o aditamento do pleito formulado na inicial para incluir o Presidente do Tribunal de Justiça do Estado do Pará, Desembargador Rômulo José Ferreira Nunes, na condição de litisconsorte passivo desta impetração.
+O processo está concluso para o exame do pedido de liminar.
+2.  Está-se diante de situação a ensejar o julgamento definitivo deste mandado de segurança. Após o Tribunal de Justiça haver transformado aposentadoria compulsória em remoção, o Presidente da própria Corte requereu ao Conselho Nacional de Justiça a revisão do pronunciamento. Então, deu-se o implemento de liminar para restabelecer a decisão anterior, aludindo o integrante do Conselho Nacional de Justiça à inexistência de modificação do quadro probatório a ponto de levar à referida guinada. Restabeleceu, repita-se, a decisão primitiva do próprio Tribunal de Justiça até que examinado o processo revelador da revisão disciplinar. Esse ato foi ratificado pelo Conselho.
+3.  Indefiro a liminar.
+4.  Colham o parecer do Procurador-Geral da República.
+5.  Publiquem.
+Brasília – residência –, 22 de fevereiro de 2010, às 19h10.
+Ministro MARCO AURÉLIO
+Relator
