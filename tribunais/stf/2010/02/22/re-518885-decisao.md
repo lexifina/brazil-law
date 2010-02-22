@@ -1,0 +1,19 @@
+DECISÃO
+Vistos.
+Maria Auxiliadora de Almeida Silva interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quinta Turma Especializada do Tribunal Regional Federal da 2ª Região, assim ementado:
+“DIREITO CONSTITUCIONAL E ADMINISTRATIVO. PENSÃO ESPECIAL DE EX-COMBATENTE. FILHA MAIOR DE VINTE E UM ANOS. DESCABIMENTO, NO CASO. ART. 53, INCISO III, DO A.D.C.T/88. LEI Nº 8.095/90. LEI Nº 4242/63.
+I – A Lei nº 8.059/90, relativamente às filhas maiores de vinte e um anos, apenas garantiu direito adquirido das pensionistas que já vinham recebendo o benefício, na forma da Lei 4.242/63 que, em seu art. 30, previa a concessão da pensão apenas aos ex-combatentes que não podiam prover os próprios meios de subsistência e não percebiam qualquer importância dos cofres públicos, o que não era o caso do pai da impetrante.
+II – A Constituição Federal de 1988 ampliou substancialmente os direitos do ex-combatente, pois além de elevar o valor da pensão de segundo sargento para segundo-tenente, deixou de condicionar a concessão à sua incapacidade, permitindo, ainda, a acumulação do benefício com outro de natureza previdenciária, recebido até mesmo dos cofres públicos. Relativamente à dependente filha, entretanto, ocorreu uma sensível limitação de direitos, pois deixa ela, nos termos do art. 5º da Lei nº 8.059/90, de receber a pensão ao completar vinte e um anos de idade, se não for inválida.
+III – Ressalva do art. 17 da Lei nº 8.059/90 não aplicável ao caso, eis que a impetrante nunca teve direito de receber a pensão prevista no art. 30 da Lei 4.242/63.
+IV – Remessa necessária e apelação providas” (fl. 69).
+Alega a recorrente violação do artigo 53 do Ato de Disposições Transitórias, uma vez que “o pai das impetrantes, instituidor do benefício perquerido, faleceu em momento em que a legislação de regência era a constante da Lei 4242/63, fato que, em decorrência da posição do Pretório Excelso, assegura indubitavelmente o direito à percepção da pensão especial de ex-combatente correspondente a de segundo-sargento das forças armadas, em homenagem ao preceito constitucional do direito adquirido” (fl. 72).
+Contra-arrazoado (fl. 74 a 76), o recurso extraordinário (fls. 71/72) foi admitido (fls. 82/83).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 20/4/06, conforme expresso na certidão de folha não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação merece prosperar, uma vez que a jurisprudência da Corte é firme no sentido de que o direito à pensão é regido pelas leis vigentes à data do óbito do ex-combatente, inclusive nos casos em que o benefício é revertido em razão do falecimento do co-dependente da pensão.
+No presente caso, o óbito do instituidor ocorreu em 16/2/89, isto é, quando da vigência do artigo 53 do ADCT, mas antes da edição da Lei 8.059/90, que veio regulamentar o dispositivo constitucional. Nesse passo, a análise da qualidade de dependente da recorrente deve ser feita de acordo com a legislação então vigente, Leis nº 33.764/60 e 4.262/63, visto que a revogação desta normas somente após a vigência da Lei nº 8.059/90. Nesse sentido, as seguintes decisões monocráticas: AI nº 696.855/PR, Relatora a Ministra Cármen Lúcia, DJe de 02/05/2008; AI nº 637.640/RJ, Relator o Ministro Gilmar Mendes, DJe de 30/05/2007; e AI nº 532.940/RJ, Relator o Ministro Sepúlveda Pertence, DJ de 26/04/2005.
+Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário para restabelecer a sentença de primeiro grau concedeu a segurança pleiteada, inclusive quanto aos ônus da sucumbência.
+Publique-se.
+Brasília, 22 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
