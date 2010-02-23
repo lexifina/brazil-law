@@ -1,0 +1,27 @@
+Trata-se de agravo regimental interposto contra decisão que, em 8/9/2009, negou seguimento ao agravo de instrumento. Este o teor do julgado atacado:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, a, da Constituição, requer, em suma, que os juros de mora sejam reduzidos para 6% ao ano.
+O agravo merece acolhida. Quanto aos juros moratórios, assiste razão à agravante. Isso porque esta Corte, na Sessão Plenária de 28/2/2007, declarou a constitucionalidade do art. 1º-F da Lei 9.494/97, o qual limita em 6% ao ano os juros de mora nas condenações impostas à Fazenda Pública para pagamento de verbas remuneratórias devidas a servidores e empregados públicos (RE 453.740/RJ, Rel. Min. Gilmar Mendes).
+Isso posto, dou provimento ao agravo de instrumento para desde logo, conhecer do recurso extraordinário e dar-lhe provimento (art. 544, § 3º e § 4º, do CPC) para que a taxa de juros moratórios seja fixada nos termos do art. 1º-F da Lei 9.494/97” (fl. 331).
+O agravante sustentou, em suma, que
+“(...) é imperioso reconhecer que a aplicação imediata da respectiva Medida Provisória aos processos que já se encontravam em trâmite, quando da sua edição, conforme determinado pela v. decisão outrora recorrida, viola frontalmente o artigo 5º, XXXVI, da CF/88, porquanto retira da parte vencedora direito adquirido material que se encontrava no seu patrimônio jurídico” (fl. 336).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que os recorrentes não aduzem novos argumentos capazes de afastar as razões nela expendidas.
+Isso porque, ambas as Turmas desta Corte fixaram entendimento no sentido de que a norma do art. 1º-F, da Lei 9.494/97, modificada pela Medida Provisória 2.180-35/2001, é aplicável a processos em curso. Confira-se:
+“RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. JUROS DE MORA. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ART. 1º-F DA LEI 9.494/97 COM REDAÇÃO DA MP 2.180-35. CONSTITUCIONALIDADE. EFICÁCIA IMEDIATA. 1. É constitucional a limitação de 6% (seis por cento) ao ano dos juros de mora devidos em decorrência de condenação judicial da Fazenda Pública para pagamento de verbas remuneratórias devidas a servidores e empregados públicos. Precedentes. 2. Aplicação imediata da lei processual aos processos em curso. 3. Agravo regimental improvido” (RE 559.445-AgR/PR, Rel. Min. Ellen Gracie, Segunda Turma).
+“EMENTA: ADMINISTRATIVO. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. ART.1º-F. LEI 9.494/97. CONSTITUCIONALIDADE. AGRAVO IMPROVIDO.
+I - A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes.
+II - Matéria que demanda a análise de fatos e provas, o que atrai a incidência da Súmula 279 do STF.
+III - Em Sessão Plenária de 28/2/2007, o Supremo Tribunal Federal declarou a constitucionalidade do art. 1º-F da Lei 9.494/97, o qual limita a 6% ao ano os juros de mora nas condenações impostas à Fazenda Pública para pagamento de verbas remuneratórias devidas a servidores e empregados públicos.
+IV - Agravo regimental improvido” (AI 622.204-AgR/RS, de minha relatoria, Primeira Turma).
+Extrai-se do voto condutor desse último julgado:
+“Ressalta-se, ainda, que a norma do art. 1º-F, da Lei 9.494/97, modificada pela Medida Provisória 2.180-35/2001, é aplicável a processos em curso. O dispositivo é claro ao afirmar que ‘os juros de mora, nas condenações impostas à Fazenda Pública (...)’ (art.1º-F, Lei 9.494/97) não poderão ultrapassar seis por cento ao ano”.
+Verifico, ainda, que, embora a ação principal tenha sido ajuizada antes do início da vigência da MP 2.180-35/2001, datada de 24/8/2001, aplica-se, na espécie, a citada Medida Provisória, porquanto lei de natureza processual, regida pelo princípio do tempus regit actum, de forma a alcançar os processos pendentes .
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 23 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
