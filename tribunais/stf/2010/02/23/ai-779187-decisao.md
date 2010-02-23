@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXCESSO DE EXECUÇÃO. 1. REEXAME DE PROVAS: IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. 2. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido teve como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO. SENTENÇA E ACÓRDÃO.
+Excesso de execução não comprovado. Cálculo em consonância com a decisão. Improcedência dos embargos. Sentença confirmada.
+NEGARAM PROVIMENTO À APELAÇÃO” (fl. 103).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 164-166).
+4. A Agravante alega que teriam sido contrariados os arts. 5º, inc. XXXVI, e 93, inc. IX, da Constituição da República.
+Sustenta que “evidente é o excesso da execução, no montante de R$ 4.869,31, referente aos juros que, além de não terem sido determinados pela decisão transitada em julgado, ainda foram por ela afastados. Por outro lado, ainda olvidou-se o percentual de perdimento, estabelecido pela anterior decisão colegiada (título executivo), no patamar de 10% sobre o valor a ser devolvido pela embargante” (fl. 148).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. Inicialmente, cumpre afastar a alegação de nulidade do acórdão por ofensa ao art. 93, inc. IX, da Constituição da República. Embora em sentido contrário à pretensão da Agravante, o acórdão recorrido apresentou suficiente fundamentação. E tal como se firmou na jurisprudência do Supremo Tribunal: “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+7. O Tribunal a quo asseverou que “o cálculo apresentado pelo exequente mostra-se correto, por acompanhar a sentença e o acórdão, determinando a devolução de 18,4869 CUB’as mais os juros legais” (fl. 104 v.).
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria o reexame do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, conforme o que dispõe a Súmula 279 do Supremo Tribunal Federal. Confira-se, a propósito, o seguinte julgado:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. EXCESSO DE EXECUÇÃO. IMPOSSIBILIDADE DE REEXAME DE PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 593.396-ED, de minha relatoria, Primeira Turma, DJe 1º.2.2008).
+Além disso, a matéria em debate é regida pela legislação ordinária de forma que eventual afronta à Constituição, se tivesse ocorrido, seria indireta, o que também afasta o cabimento do recurso extraordinário. Nesse sentido o seguinte julgado:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. VIOLAÇÕES DEPENDENTES DE EXAME PRÉVIO DE NORMAS INFERIORES. OFENSA INDIRETA. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de exame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. Agravo regimental a que se nega provimento” (AI 542.715-AgR, Rel. Min. Eros Grau, Primeira Turma, DJ 9.12.2005).
+8. Ressalte-se, ainda, que a jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa reflexa à Constituição da República. Nesse sentido:
+“A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+Não há, pois, divergência entre a decisão agravada, embasada nos dados constantes do acórdão recorrido, e a jurisprudência do Supremo Tribunal Federal.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 23 de fevereiro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
