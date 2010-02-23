@@ -1,0 +1,28 @@
+DECISÃO
+Vistos.
+Lourdes Maria Frozi Soares interpõe recurso extraordinário, com fundamento na alínea "a" do permissivo constitucional, contra acórdão da Terceira Câmara do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+“ADMINISTRATIVO E CONSTITUCIONAL. SERVIDOR PÚBLICO. Demanda ajuizada por servidora estadual do Quadro do Magistério objetivando a percepção de gratificação por risco de vida. Atividades de psicóloga exercidas pela demandante, em Centro de Atendimento ao Educando, que evidenciam desvio de função, obstaculizando o direito pleiteado. Inteligência e aplicação da Lei Estadual nº 8.804/89 e Decreto nº 33.331/89. Princípio da legalidade no meio administrativo. Desconto em folha da gratificação percebida indevidamente. Poder de autotutela da Administração, respeitado o artigo 81 da Lei Complementar nº 10.098/94. Inaplicabilidade, no caso, dos ditames constitucionais que vedam a ofensa ao direito adquirido, bem como aquele concernente ao princípio da irredutibilidade dos vencimentos. Alegação feita em sede recursal, relativa aos princípios do contraditório e da ampla defesa, que não pode ser conhecida neste momento processual, já que não se constituíram em fundamento jurídico da peça vestibular. Vedação à quebra do princípio da estabilidade objetiva da demanda. PEDIDO JULGADO IMPROCEDENTE NO PRIMEIRO GRAU. RECURSO DE APELAÇÃO IMPROVIDO” (fl. 31).
+Opostos embargos de declaração (fls. 36 a 39), foram rejeitados (fls. 40 a 44).
+Alega a recorrente contrariedade aos artigos 5º, inciso LV, e 37, caput e inciso XV, da Constituição Federal, haja vista que “entende a recorrente que a ela se aplica a regra do artigo 1º, da Lei nº 8.704/88, alterada pela Lei nº 8804/88, cujo texto está transcrito na inicial, o que corresponde com exatidão às especificações do artigo 1º do decreto nº 33.331/89” (fl. 48).
+Contra-arrazoado (fls. 51 a 54), o recurso extraordinário (fls. 46 a 50) não foi admitido (fls. 55 a 58), dando ensejo a agravo de instrumento que, provido, determinou a conversão do agravo em recurso extremo (fl. 68).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 16/6/01, conforme expresso na certidão de folha 45, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece trânsito a irresignação.
+Os artigos 5º, inciso LV, e 37, inciso XV, da Constituição Federal, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela ora recorrente. Incidência das Súmulas nºs 282 e 356 desta Corte.
+O Tribunal de origem decidiu a controvérsia relativa à percepção da gratificação por risco de vida pela recorrente com fundamento na legislação infraconstitucional e na prova documental dos autos. Sobre o tema o acórdão recorrido assim consignou:
+“A questão prejudicial relativa ao status funcional da demandante foi solvida pelo Magistrado ‘a quo’ com acerto. A autora qualifica-se, na vestibular, como professora estadual (fl. 02). No mesmo sentido o documento de fl. 18, subscrito pela demandante, onde esclarece que seu cargo é de “professora, do Ensino Médio I M-3”. Não faz parte, pois, do Quadro de Técnicos-Científicos e, como exerce as funções de psicóloga, estava em desvio de função, como ela mesmo admite em seu depoimento pessoal (fl. 74).
+A gratificação de risco de vida, no percentual de 60%, foi estendida pela Lei Estadual nº 8.804/89 aos “(...) membros do magistério referidos na letra ‘d’ do item I do artigo 70 da Lei nº 6.672, de 22 de abril de 1974, bem como os integrantes do Quadro dos Funcionários Técnicos-Científicos do Estado, lotados e em exercício nos Centros de Atendimento e Escolas Especiais” (artigo 1º).
+O referido dispositivo do Estatuto do Magistério está assim redigido:
+“Art. 70 - Além da gratificação referida no artigo anterior, o membro do Magistério fará jus a:
+“I - gratificações:
+“(...) d) pelo exercício em escola ou classe de alunos excepcionais;”
+Por sua vez, o artigo 1º do Decreto 33.331/89 estabelece:
+“Art. 1º- A gratificação prevista no artigo 70, alínea "d", da Lei 6.672/74 é concedida ao membro do Magistério Público Estadual designado exclusivamente para exercer atividades educacionais, curriculares, extracurriculares e técnico-pedagógicas no atendimento aos deficientes, superdotados e/ou talentosos.”
+Não há que se falar em contrariedade deste Decreto com a Lei que instituiu a gratificação. Tal ato normativo apenas especifica quais as atividades que geram o direito à vantagem.
+Temos, pois, que a regra da Lei Estadual nº 8.803/89 não se aplica à recorrente. A uma, pois laborando em Centro de Atendimento ao Educando (CAE) não se trata de servidora do Quadro de Técnicos-Científicos. A duas, na medida em que como professora não exercia o magistério (entenda-se atividades educacionais, curriculares, extracurriculares e técnico-pedagógicas) em escola ou classe de alunos excepcionais” (fls. 27/28).
+Nesse caso, para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame da legislação local e das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 280 desta Corte.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 23 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
