@@ -1,0 +1,16 @@
+DECISÃO:  1. Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça de São Paulo e assim ementado:
+“COISA JULGADA – Ação indenização visando ressarcimento por período de 153 dias, saldo de prazo excedente ao prazo de 60 dias, previsto para análise de pedido de aposentadoria – Demanda anterior procedente, com o mesmo intuito, porém na busca de somente 119 dias excedentes – Não abrangência da coisa julgada da demanda anterior – Recurso provido – Se, em ação anterior, servidora obteve o ressarcimento do parte de período excedente (119 dias) ao prazo legal estabelecido para o exame de seu pedido de aposentadoria, a coisa julgada não atinge nova demanda, visando a indenização do saldo restante (153 dias).
+SERVIDOR PÚBLICO MUNICIPAL – Pedido de aposentadoria – Morosidade no exame – Prazo legal de 60 dias superado (art. 101, da Lei Orgânica do Município de São Paulo) – Indenização cabível referente ao período de excesso – A morosidade no exame do pedido de aposentadoria de servidor público municipal de São Paulo superado o prazo legal de 60 dias (art. 101, da Lei Orgânica do Município de São Paulo), autoriza o pleito de ressarcimento atinente ao período de excesso, ante o evidente prejuízo causado (fl. 100).
+ Sustenta o recorrente, com base no art. 102, III, a, violação aos arts. 5º, XXXVI, 37, caput, XVI e 40, § 11, da Constituição Federal.
+2.   Inadmissível o recurso extraordinário.
+Os temas constitucionais neste suscitados, à exceção dos princípios da legalidade e anterioridade tributária, não foram objeto de consideração no acórdão recorrido, faltando-lhes, assim, o requisito do prequestionamento, que deve ser explícito (súmulas 282 e 356).
+Ainda que assim não fosse, melhor sorte não assistiria ao recorrente.
+A decisão impugnada assentou a mora administrativa na concessão da aposentadoria da recorrida, que já perfazia os requisitos legais à época do pedido, razão pela qual entendeu devido o ressarcimento.
+Ora, dissentir desse juízo, como é óbvio, exigiria reexame prévio de certo fato à luz da legislação infraconstitucional, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta (súmulas 279 e 280).
+ Não é outro o entendimento da Corte, que, em situação análoga, assim decidiu:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO. ARTIGO 37 § 6º, DA CONSTITUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência da Súmula n. 282 do Supremo Tribunal Federal. 2. Indenização por demora na concessão da aposentadoria de servidor. Responsabilidade civil objetiva do Estado. Precedentes. 3. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI nº 667.973-AgR, Rel. Min. EROS GRAU, Segunda Turma, DJ de 28.3.2008. No mesmo sentido: AI nº 518417-AgR, Rel. Min. CARLOS VELLOSO,  Segunda Turma, DJ de 1º.7.2005).
+3.  Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+Publique-se. Int..
+Brasília, 23 de fevereiro de 2010.
+Ministro CEZAR PELUSO
+Relator
