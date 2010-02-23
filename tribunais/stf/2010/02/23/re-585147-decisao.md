@@ -1,0 +1,11 @@
+Trata-se de recursos extraordinários interpostos contra acórdão que entendeu que a declaração de inexigibilidade de título executivo pelo Supremo Tribunal Federal, nos termos do art. 741, parágrafo único, do CPC, não atinge os títulos judiciais advindos de decisões com anterior trânsito em julgado. Ademais, em embargos infringentes, determinou-se a aplicação do art. 29-C da Lei 8.036/90.
+No RE interposto pela Caixa Econômica Federal, fundado no art. 102, III, a, da Constituição, requereu-se o reconhecimento da inexigibilidade do título executivo.
+Quanto ao RE interposto pelos fundistas, também fundado no art. 102, III, a, da Constituição, requereu-se a condenação da Caixa Econômica Federal em honorários advocatícios.
+O Plenário desta Corte, em 20/8/2008, ao apreciar Questão de Ordem suscitada no RE 540.410/RS, Rel. Min. Cezar Peluso, decidiu estender a aplicação do art. 543-B do Código de Processo Civil aos recursos cujo tema constitucional apresente repercussão geral reconhecida pelo Plenário, ainda que interpostos contra acórdãos publicados antes de 3 de maio de 2007.
+No caso, o recurso extraordinário interposto pela Caixa Econômica Federal versa sobre matéria - a aplicação do parágrafo único do art. 741 do CPC e a extensão de precedentes do Supremo Tribunal Federal aos casos com trânsito em julgado - cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (RE 586.068-RG/PR, Rel. Min. Ellen Gracie).
+Já o recurso extraordinário interposto por Sebastião Machado de Souza e outros, por sua vez, versa sobre matéria – constitucionalidade do art. 29-C da Lei 8.036/90, introduzido pela Medida Provisória 2.164/2001, que veda a condenação em honorários advocatícios nas ações entre o FGTS e os titulares de contas vinculadas, bem como naquelas em que figurem os respectivos representantes ou substitutos processuais – cuja repercussão geral também já foi reconhecida pelo Supremo Tribunal Federal (RE 581.160-RG/MG, de minha relatoria).
+Isso posto, determino, com fundamento no art. 328, parágrafo único, do RISTF, a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que nestes recursos discutem-se questões idênticas às apreciadas no RE 586.068-RG/PR e no RE 581.160-RG/MG.
+Publique-se.
+Brasília, 23 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
