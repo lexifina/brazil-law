@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, ementado nos seguintes termos:
+“EMENTA: APELAÇÃO CÍVEL. 1) ATIVIDADE. EFETIVA PRESTAÇÃO DE SERVIÇO. INCIDÊNCIA DO ISSQN. PREVISÃO NA LISTA DO DECRETO-LEI Nº 406/68. 2) BINGO. MODALIDADE DE JOGO. PROCESSO ELETRÔNICO OU MANUAL. IRRELEVÂNCIA. ENQUADRAMENTO COMO ‘JOGO ELETRÔNICO’ OU ‘DIVERSÕES PÚBLICAS’. 3) CONTRATO SOCIAL. PRESTAÇÃO DE SERVIÇOS DE DIVERSÃO PÚBLICA. INTERPRETAÇÃO DIVERSA. DESCABIMENTO. RECURSO IMPROVIDO.”
+2.  O recurso não merece provimento. A controvérsia foi decidida no plano da legislação infraconstitucional. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário [AI n. 204.153-AgR, DJ de 30.6.00, e AI n. 231.836-AgR, DJ de 3.9.99].
+3.  Este Tribunal fixou jurisprudência no sentido de que “a ofensa à Constituição, que autoriza admissão do recurso extraordinário, é a ofensa direta, frontal, e não a ofensa indireta, reflexa. Se, para demonstrar a contrariedade à Constituição, tem-se, antes, de demonstrar a ofensa à norma infraconstitucional, é esta que conta para a admissibilidade do recurso” [AI n. 204.153–AgR, 1ª Turma, DJ de 30.6.00, e AI n. 231.836–AgR, 2ª Turma, DJ de 3.9.99].
+4.  Por fim, a não interposição do recurso especial tornou definitivo o fundamento infraconstitucional e é suficiente para a manutenção da decisão exarada pelo Tribunal de origem. Dessa maneira, é inócuo eventual provimento do recurso extraordinário porque subsistiria a exegese adotada pelo juízo a quo. Incide na espécie a Súmula n. 283 do Supremo Tribunal Federal. Nesse sentido, o RE n. 570.295 e o AI n. 688.767, Relatora a Ministra Cármen Lúcia, DJe de 25.2.08 e de 19.2.08; o RE n. 507.991, Relator o Ministro Sepúlveda Pertence, DJe de 11.12.07, e o RE n. 541.079-AgR, Relator o Ministro Carlos Britto.
+ Nego seguimento ao recurso extraordinário com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 23 de fevereiro de 2010.
+Ministro Eros Grau
+- Relator -
