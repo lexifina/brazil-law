@@ -1,0 +1,21 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“PROCESSUAL CIVIL. EMBARGOS INFRINGENTES. DIREITO ECONÔMICO. CORREÇÃO MONETÁRIA DOS SALDOS DE POUPANÇA BLOQUEADOS. PLANO COLLOR. ILEGITIMIDADE PASSIVA ‘AD CAUSAM’ DO BACEN PARA MARÇO/90 (84,32%). APLICAÇÃO DO BTNF. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1 – Impende assentar, inicialmente, que em relação ao percentual de 84,32%, referente à primeira quinzena de março/90, a r. sentença deu pela ilegitimidade passiva do réu (BACEN) para por ela responder, decisão que não foi objeto de impugnação pelos ora embargantes.
+2 – Quanto ao mérito dos presentes embargos, tem-se que a Medida Provisória nº 168/90, convertida na Lei nº 8.024/90, teve seu início em 16 de março de 1990, passando a vigorar o BTNF como índice de atualização monetária dos depósitos bloqueados e o BACEN passou a ser o gestor das contas de poupança com a conversão dos Cruzados Novos para anteriormente sob a responsabilidade dos bancos depositários. Precedentes desta Corte e do C. Superior Tribunal de Justiça.
+3 – Não há falar-se em violação ao princípio da irretroatividade da lei, uma vez que a Medida Provisória em discussão não recaiu sobre o ato jurídico perfeito, sobre o direito adquirido nem, tampouco, sobre a coisa julgada. Seus efeitos foram exclusivamente futuros” (fl. 293).
+No RE, fundado com base no art. 102, III, a, da Constituição, alegou em suma, violação ao art. 5º, XXXVI, da mesma Carta.
+O agravo não merece acolhida.
+É que o Tribunal de origem decidiu a causa nos seguintes termos:
+“A Medida Provisória nº 168/90 convertida na Lei nº 8.024/90, teve seu início em 16 de março de 1990 e começou a produzir seus efeitos, no que tange ao índice de correção monetária BTNF, a partir da data de aniversário da aplicação posterior à sua edição, ou seja, abril de 1990.
+Para melhor análise do caso, deve-se salientar que o critério de atualização monetária dos depósitos das cadernetas de poupança até 15 de março de 1990, tinha como regra estabelecida pela Lei nº 7.730/89, que determinava, em seu artigo 17, III, que os saldos das contas de poupança seriam atualizados, a partir do mês de maio de 1989, com a aplicação dos Índices de Preços ao Consumidor – IPC, verificada no mês anterior.
+Por sua vez, a referida norma, em seu artigo 10, determinava que o IPC seria calculado a partir de março de 1989, com base na média de preços apurados entre o início da segunda quinzena do mês anterior e o término da primeira quinzena do mês de referência.
+Com o advento da Medida Provisória nº 168/90, de 15 de março de 1990, convertida na Lei nº 8.024/90, houve contundentes modificações referentes às contas de caderneta de poupança e seus índices de atualização” (fl. 290).
+Ou seja, o acórdão recorrido decidiu a questão com base na legislação ordinária. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 515.939-AgR/RS, Rel. Min. Cezar Peluso; AI 410.674-AgR/SP, Rel. Min. Ellen Gracie; AI 494.188-AgR/SP, Rel. Min. Carlos Velloso; AI 545.885-AgR/RJ, Rel. Min. Nelson Jobim.
+Além disso, o acórdão ora atacado encontra-se em harmonia com a jurisprudência da Corte, como se vê da ementa do RE 206.048/RS, Relator para o acórdão o Min. Nelson Jobim, que segue transcrita:
+“EMENTA: Constitucional. Direito Econômico. Caderneta de poupança. Correção Monetária. Incidência de Plano Econômico (Plano Collor). Cisão da caderneta de poupança (MP 168/90). Parte do depósito foi mantido na conta de poupança junto à instituição financeira, disponível e atualizável pelo IPC. Outra parte – excedente de NCz$ 50.000,00 – constituiu-se em uma conta individualizada junto ao BACEN, com liberação a iniciar-se em 15 de agosto de 1991 e atualizável pelo BTN Fiscal. A MP 168/90 observou os princípios da isonomia e do direito adquirido. Recurso não conhecido”.
+Nesse sentido, menciono as seguintes decisões, entre outras: AI 482.583/SP, Rel. Min. Cezar Peluso; RE 170.228/RS e AI 624.513/SP, Rel. Min. Sepúlveda Pertence; RE 289.396-ED/PR, Rel. Min. Carlos Velloso.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
