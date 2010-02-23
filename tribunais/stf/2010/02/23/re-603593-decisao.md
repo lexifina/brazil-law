@@ -1,0 +1,10 @@
+DECISÃO: O Tribunal de Justiça do Estado de Mato Grosso prolatou acórdão segundo o qual “não há que se anular um julgamento proferido pelo Tribunal do Júri tão-somente pelo fato de ele ter acolhido tese contrária àquela defendida pelo representante estadual do Parquet, mormente se a referida tese encontra plena guarida com o conjunto probatório carreado nos autos”.
+2.  Afirmou ser o caso de conferir-se “atenção ao princípio da soberania dos veredictos, que só torna passível de reforma a decisão emanada do Conselho de Sentença quando apresenta total discrepância dos elementos contidos no caderno processual” [fl. 179].
+3.  O Ministério Público estadual sustenta que o provimento judicial violou o disposto no artigo 5º, XXXVIII, da Constituição do Brasil. Assevera que “o compulsar detido dos autos, revela que a atuação do autor do delito, deu-se desprovida do requisito da atualidade a justificar a tese da legítima defesa, esposada pela defesa e acolhida pelo Conselho de Sentença” [fl. 237].
+4.  O Ministério Público Federal, no parecer subscrito pelo Subprocurador-Geral da República Dr. Edson Oliveira de Almeida, opina pelo não conhecimento do recurso com respaldo no argumento de que “o caso não vai além da alegação de ofensa reflexa pois, para afirmar a manifesta contrariedade à prova dos autos e determinar a realização do novo júri, seria necessário, antes, ingressar na matéria infraconstitucional, a partir da possível negativa de vigência do art. 593, III, ‘d’, do Código de Processo Penal e do art. 25 do Código Penal, o que já foi afastado no Superior Tribunal de Justiça” [fl. 273].
+5.  O recurso não merece prosperar. Além dos fundamentos veiculados pelo Ministério Público Federal, para reconhecer a ausência, ou não, do requisito da legítima defesa como fator determinante da conduta do acusado, seria necessária a reapreciação dos fatos e provas constantes dos autos, hipótese inadmissível na via extraordinária por incidência do óbice da Súmula 279 do Supremo.
+ Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 23 de fevereiro de 2010.
+Ministro Eros Grau
+- Relator -
