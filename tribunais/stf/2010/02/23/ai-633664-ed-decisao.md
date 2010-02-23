@@ -1,0 +1,21 @@
+Trata-se de embargos de declaração opostos de decisão que negou seguimento a agravo de instrumento (fl. 152), por entender que o acórdão recorrido, proferido pelo Tribunal Regional Federal da 3ª Região, encontra-se em consonância com a jurisprudência desta Corte, consolidada na Súmula 725 do STF.
+Eis o teor da decisão embargada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido decidiu pela validade do índice adotado pela Lei 8.024/90 para a atualização dos saldos em caderneta de poupança.
+No RE, fundado no art. 102, III, a e c, da Constituição Federal, alegou-se ofensa ao art. 5º, XXXVI, da mesma Carta.
+O agravo não merece acolhida. O Supremo Tribunal Federal, no julgamento do RE 206.048/RS, Relator para o acórdão o Ministro Nelson Jobim, decidiu que os critérios de atualização monetária dos ativos financeiros bloqueados, impostos pela Lei 8.024/90, não contrariam os princípios da isonomia e do direito adquirido (AI 542.681-ED/BA, Rel. Min. Sepúlveda Pertence; AI 475.101-AgR/SP, Rel. Min. Eros Grau; AI 379.082-AgR/SP, Rel. Min. Ellen Gracie; RE 241.324-AgR/PR, Rel. Min. Celso de Mello; RE 241.140-AgR/PR, Rel. Min. Maurício Corrêa).
+Essa orientação da Corte restou consubstanciada na Súmula 725, aprovada na sessão Plenária de 26/11/2003, in verbis:
+‘É Constitucional o § 2º do art. 6º da Lei 8.024/1990, resultante da conversão da Medida Provisória 168/1990, que fixou o BTN fiscal como índice de correção monetária aplicável a depósitos bloqueados pelo Plano Collor I.’
+Por fim, verifico que o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição. Nesse sentido: AI 559.324/RJ; AI 488.107/SP, entre outros.
+Isso posto, nego seguimento ao recurso” (fl. 152).
+Insurgiram-se os embargantes contra supostas omissões na decisão embargada, por entenderem que não houve manifestação sobre a alegada coisa julgada material e a inconstitucionalidade da TR como taxa destinada ao cálculo da remuneração dos depósitos em caderneta de poupança, nos termos dos arts. 7º e 12 da Lei 8.177/91 e 7º da Lei 8.660/93.
+Os embargos não merecem acolhida.
+Como se sabe, os embargos de declaração visam sanar omissão, obscuridade ou contradição de decisão judicial. A decisão ora embargada não apresenta qualquer desses vícios.
+É que o acórdão recorrido não analisou as matérias apontadas como omitidas na decisão embargada. No caso da Lei 8.177/91, ressalte-se que o Tribunal a quo examinou a questão sem, contudo, debater acerca de sua inconstitucionalidade frente ao art. 5º, XXXVI, da Constituição, bem como, não se manifestou acerca dos arts. 7º e 12 da referida lei. Trata-se, no caso, de inovação, incabível em sede de embargos declaratórios. Nesse sentido trago à colação ementa do RE 263.013-AgR-ED-ED/GO, Rel. Min. Ellen Gracie:
+“EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. INOVAÇÃO EM SEDE DE EMBARGOS DECLARATÓRIOS. 1. Incabível a inovação da discussão dos autos em sede de embargos declaratórios. 2. Decisão fundamentada, embora contrária aos interesses da parte, não configura negativa de prestação jurisdicional. 3. Embargos de declaração rejeitados”.
+Quanto à existência de coisa julgada material, a despeito da oposição de embargos declaratórios no Tribunal a quo, a ausência, nos presentes autos, de cópia do recurso de apelação impede a aferição de que a matéria foi efetivamente devolvida à segunda instância. Incidência, na espécie, do óbice da Súmula 288 do STF. Nesse mesmo sentido, AI 137.811-AgR/SP, Rel. Min. Francisco Rezek, cuja ementa segue transcrita:
+“AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. AFRONTA AO ARTIGO 5º-XXXVI DA CARTA. SÚMULA 288. Não é possível, em recurso extraordinário, o exame, in concreto, dos limites objetivos da coisa julgada. Ausentes do traslado peças necessárias à verificação da afronta apontada pela parte, incide na espécie a Súmula 288. Agravo regimental a que se nega provimento”.
+Isso posto, rejeito os embargos declaratórios (RISTF, art. 21, § 1º).
+Publique-se.
+Brasília, 23 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
