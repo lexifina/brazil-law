@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XVII, e 174, § 2º, da mesma Carta.
+O agravo não merece acolhida. Bem examinados os autos, verifico que o presente agravo foi interposto intempestivamente. A decisão agravada foi publicada em 21/9/2006 (fl. 212) e o agravo de instrumento foi protocolizado em 3/10/2006 (fl. 2), após o decurso do prazo legal.
+É dever processual da parte comprovar no ato da interposição do recurso que este preenche todos os requisitos necessários ao seu conhecimento, dentre eles o da tempestividade. Nesse sentido, menciono as seguintes decisões, entre outras: RE-AgR-AgR 321.212/SP, Rel. Min. Maurício Corrêa; AI-AgR 416.974/PR, Rel. Min. Joaquim Barbosa.
+Além disso, não há a possibilidade de juntada posterior de documento com a finalidade de aferir a tempestividade do recurso interposto. Incide, na espécie, as Súmulas 288 e 639 do STF. Nesse sentido, o entendimento de ambas as Turmas desta Corte, consubstanciado nos seguintes julgados mencionados a seguir:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO INTEMPESTIVO. JUNTADA POSTERIOR DE DOCUMENTO QUE COMPROVA A TEMPESTIVIDADE. PRAZO EM DOBRO: ART. 191 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A tempestividade do recurso em razão de feriado local ou suspensão de prazos processuais pelo Tribunal a quo deve ser demonstrada no momento da sua interposição, não sendo possível a juntada posterior de documento que comprova a sua tempestividade. 2. A jurisprudência deste Supremo Tribunal Federal firmou-se no sentido de ser incabível a aplicação do prazo em dobro - art. 191 do Código de Processo Civil - quando apenas um dos litisconsortes recorre. Precedentes” (AI 593.221-AgR/SP, Rel. Min. Cármen Lúcia, Primeira Turma).
+“RECURSO EXTRAORDINÁRIO - EXTEMPORANEIDADE -PRODUÇÃO TARDIA DO DOCUMENTO COMPROBATÓRIO DA ALEGADA TEMPESTIVIDADE RECURSAL - IMPOSSIBILIDADE DE JUNTADA POSTERIOR, NO SUPREMO TRIBUNAL FEDERAL, DE TAL PEÇA DOCUMENTAL, DESDE QUE JÁ EXISTENTE À ÉPOCA DA INTERPOSIÇÃO DO APELO EXTREMO - RECURSO DE AGRAVO IMPROVIDO” (RE 434.231-AgR/AM, Rel. Min. Celso de Mello, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
