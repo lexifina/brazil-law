@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, com esta ementa:
+“Apelação Cível – Ação de Cobrança visando o pagamento de importância referente ao somatório de redutor salarial aplicado com base na Lei Complementar 61/01. Alegação de Coisa Julgada diante do Mandado de Segurança interposto pelo SINTESE e ausência do interesse de agir. – Inexistência – Aplicação do redutor salarial de 4,83% (quatro vírgula oitenta e três por cento) viola explicitamente o contido no art. 37, inciso XV da Constituição Federal. Respeito ao direito do servidor quanto à irredutibilidade de vencimentos. Precedentes deste Tribunal – A incidência dos juros moratórios deve ser feita a partir da citação – Recurso que se conhece para lhe dar parcial provimento”.
+2.  Os autos principais subiram a esta Corte, por força do agravo de instrumento provido, para melhor exame da matéria [AI n. 684.580].
+3.  A questão encontra-se pacificada nesta Corte.
+“EMENTA: APOSENTADORIA. AGRAVO REGIMENTAL. LEI COMPLEMENTAR ESTADUAL 61/2001. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissilidade do RE, ante a incidência da Súmula 280 do STF. II – Para dissentir da conclusão a que chegou o acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III – Agravo regimental improvido.” [AI n. 699.824-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJ de 20.11.08].
+“EMENTA: AGRAVO DE INSTRUMENTO – ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA – DIREITO LOCAL – INVIABILIDADE DO RECURSO EXTRAORDINÁRIO – AGRAVO IMPROVIDO. – Revela-se inadmissível o recurso extraordinário, quando a alegação de ofensa resumir-se ao plano do direito meramente local (ordenamento positivo do Estado-membro ou do Município), sem qualquer repercussão direta ou sobre o âmbito normativo da Constituição da República”. [AI n. 620.579-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJ de 21.2.08].
+4.  O reexame do acórdão recorrido demandaria a análise prévia da legislação infraconstitucional aplicável à espécie.
+Nego seguimento ao recurso extraordinário, com fundamento no artigo 21, § 1º do RISTF.
+Publique-se.
+Brasília, 23 de fevereiro de 2010.
+Ministro Eros Grau
+- Relator -
