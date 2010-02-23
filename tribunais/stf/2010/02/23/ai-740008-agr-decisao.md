@@ -1,0 +1,21 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao agravo de instrumento (fl. 244).
+O agravante sustentou, em suma, que a decisão agravada deve ser reformada e insistiu, dessa forma, no processamento do recurso extraordinário.
+Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, 5º, caput, 44, caput, 48, caput, 59, II, 194, parágrafo único e III, e 201, caput e § 7º, da mesma Carta.
+O agravo não merece acolhida. Bem examinados os autos, verifico que do acórdão recorrido foram interpostos pedido de uniformização de jurisprudência (fl. 193) e recurso extraordinário em 18/1/2007 (fl. 227). O julgamento do incidente de uniformização ocorreu somente em 10/10/2007 (fls. 231-232).
+A Corte firmou entendimento no sentido de se considerar extemporâneo o RE interposto antes da publicação da decisão do incidente de uniformização de interpretação de lei. Somente após o pronunciamento da Turma de Uniformização estaria esgotada a prestação jurisdicional, que daria ensejo à interposição do recurso extremo. Nesse sentido, menciono as seguintes decisões, entre outras: RE 468.365-AgR/AM, Rel. Min. Carlos Britto; RE 468.259-AgR/AM, de minha relatoria; RE 445.169/TO, Rel. Min. Carlos Velloso; RE 355.497-AgR/SP, Rel. Min. Maurício Corrêa; RE 427.704-AgR/RJ, Rel. Min. Carlos Velloso.
+Isso posto, nego seguimento ao recurso” (fl. 244).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que o recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Ademais, o acórdão que admitiu o pedido de uniformização e o recurso extraordinário determinou que se aguardasse a decisão a ser proferida nos autos do Incidente de Uniformização (fls. 231-232), logo, não se está diante de decisão de única ou última instância.
+A jurisprudência desta Corte é pacífica no sentido de se considerar extemporâneo o RE interposto antes da publicação da decisão do incidente de uniformização de interpretação de lei. Nesse sentido além dos precedentes já mencionados na decisão agravada, cito ainda: AI 687.601-AgR/MG, Primeira Turma, de minha relatoria e RE 468.365/AM, Rel. Min. Carlos Britto, cuja ementa segue transcrita:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. SÚMULA 281 DO STF. Consoante a jurisprudência sumulada do Supremo Tribunal Federal, ‘é inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada’ (Súmula 281 do STF). Admitido Incidente de Uniformização em face de acórdão de Turma Recursal dos Juizados Especiais Federais, resta demonstrada a ausência de decisão de única ou última instância. Pelo que incabível, concomitantemente, a interposição do apelo extremo. Agravo Regimental desprovido”.
+Observe, ainda, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º do RISTF).
+Publique-se.
+Brasília, 23 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
