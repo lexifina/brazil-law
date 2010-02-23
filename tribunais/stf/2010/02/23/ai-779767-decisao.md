@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário em oposição a acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado [fl. 83]:
+“EMBARGOS DE TERCEIROS. EXECUÇÃO ORIGINADA DE DÉBITO DE CONDOMÍNIO. ALEGAÇÃO DE BEM DE FAMÍLIA. IMPOSSIBILIDADE. INDEFERIMENTO DE PROVA ORAL. AGRAVO RETIDO INFUNDADO. PRETENSÃO A CONDENAÇÃO EM CUSTAS E HONORÁRIOS A BENEFICIÁRIO DE GRATUIDADE DE JUSTIÇA. REJEIÇÃO DO AGRAVO RETIDO E IMPROVIMENTO DA APELAÇÃO PRINCIPAL. ACOLHIMENTO DA APELAÇÃO ADESIVA PARA CONDENAÇÃO NAS CUSTAS E HONORÁRIOS, COM RESSALVA DO ART. 12 DA LEI 1.060 E LITIGÂNCIA DE MÁ-FÉ”.
+2.  Alega-se, no extraordinário, violação do disposto nos artigos 5º, XXXV, e 6º da Constituição do Brasil.
+3.  Deixo de apreciar a existência da repercussão geral, vez que o artigo 323, § 1º, do RISTF, dispõe que "[t]al procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+4.  O agravo não merece provimento. O acórdão recorrido está em consonância com o entendimento desta Suprema Corte conforme se depreende do julgamento do RE n. 407.688, Relator o Ministro Cezar Peluso, Sessão do dia 8.2.06, no qual se decidiu que a penhora do bem de família do fiador está em consonância com o disposto no artigo 6º da CB/88, “já que é modalidade de viabilização do direito à moradia — o qual não deve ser traduzido, necessariamente, como o direito à propriedade imobiliária ou o direito de ser proprietário de imóvel — porquanto, atendendo à própria ratio legis da exceção prevista no art. 3º, VII, da Lei 8.009/90, facilita e estimula o acesso à habitação arrendada, constituindo reforço das garantias contratuais dos locadores, e afastando, por conseguinte, a necessidade de garantias mais onerosas, tais como a fiança bancária” [Informativo n. 415].
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 23 de fevereiro de 2010.
+Ministro Eros Grau
+- Relator -
