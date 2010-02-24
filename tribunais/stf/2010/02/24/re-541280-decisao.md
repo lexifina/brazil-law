@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário contra acórdão assim ementado:
+“PROCESSO CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. ADICIONAL DE INATIVIDADE. DECISÃO MONOCRÁTICA DO RELATOR NEGANDO SEGUIMENTO AO RECURSO COM BASE NO ENTENDIMENTO JURISPRUDENCIAL DOMINANTE. ART. 557 DO CPC. RECURSO IMPROVIDO. 1. Não tem o recorrente direito a continuar percebendo adicional de inatividade ante a nova política salarial determinada pela MP 2.131/2001, sendo garantido ao servidor o quantum remuneratório, mas não o regime de composição vencimental. 2. Agravo Interno improvido” (fl. 132).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXXVI, e 37, XV, da mesma Carta.
+A pretensão recursal não merece acolhida.
+A verificação da procedência do argumento da recorrente no sentido de que a supressão do pagamento do adicional de inatividade acarretou redução em seus vencimentos demandaria o revolvimento do conjunto fático-probatório dos autos, o que inviabiliza o recurso extraordinário, nos termos da Súmula 279 do STF.
+Além disso, o acórdão recorrido encontra-se em harmonia com a jurisprudência da Corte, no sentido de que não há direito adquirido do servidor público a regime jurídico pertinente à composição dos vencimentos, desde que a eventual modificação introduzida por ato legislativo superveniente preserve o montante global da remuneração e, em consequência, não provoque decesso de caráter pecuniário (AI 609.997-AgR/DF, Rel. Min. Cezar Peluso; AI 658.866-AgR/RJ, de minha relatoria; AI 678.032-AgR/RJ, Rel. Min. Gilmar Mendes).
+Por oportuno, transcrevo ementas de julgados de ambas as Turmas desta Corte sobre a questão em exame:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MILITAR. ADICIONAL DE INATIVIDADE: EXTINÇÃO. MEDIDA PROVISÓRIA N. 2.131/2000. INEXISTÊNCIA DE AFRONTA AOS PRINCÍPIOS DO DIREITO ADQUIRIDO E DA IRREDUTIBILIDADE DE VENCIMENTOS. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO”. (AI 605.454-AgR/RJ, Rel. Min. Cármen Lúcia, Primeira Turma).
+“RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO MILITAR. INATIVOS. PENSIONISTAS. ADICIONAL DE INATIVIDADE. SUPRESSÃO. DIREITO ADQUIRIDO. INEXISTÊNCIA. 1. Pacificou-se, nesta Suprema Corte, o entendimento de que descabe alegar direito adquirido a regime jurídico, bem como de que não há infringência ao princípio da irredutibilidade de vencimentos quando preservado o valor nominal dos vencimentos dos servidores, ao ensejo da supressão de parcela anteriormente percebida. 2. Na hipótese em comento, não se verificou decréscimo no montante percebido pela agravante, que, inclusive, reconheceu tal circunstância. 3. Agravo regimental improvido”. (RE 409.846-AgR/DF, Rel. Min. Ellen Gracie, Segunda Turma).
+Isso posto, com apoio nos precedentes acima mencionados, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 24 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
