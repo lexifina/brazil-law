@@ -1,0 +1,26 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do artigo 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul. Acórdão assim ementado (fls. 5.446):
+“Agravo de instrumento.
+Preliminar de ilegitimidade para recorrer.
+Rejeita-se a preliminar posto que a decisão recorrida causa manifesto prejuízo, no sentido jurídico do termo, à recorrente. Segundo PONTES DE MIRANDA, ‘a legitimação ativa ao recuso funda-se no interesse em recorrer. Têm pretensão a usar do recurso todos aqueles que sofrem com a resolução judicial’.
+Limites objetivos da coisa julgada.
+O acórdão exeqüendo proclamou o direito da autora-exequente de subscrever ações preferenciais, não tendo afirmado direito à subscrição de ações ordinárias. Segundo acórdão da 4ª Turma do STJ, ‘a coisa julgada incide apenas sobre o dispositivo propriamente dito da sentença, não sobre seus motivos ou sobre questão prejudicial – CPC, art. 469, I e III, salvante no alusivo a esta segunda hipótese, se proposta ação declaratória incidental’.
+O artigo 118, § 3º, da Lei das Sociedades Anônimas não atribui a acordo de acionistas força de título executivo extrajudicial. Para promover a ‘execução específica das obrigações assumidas’ é preciso que o interessado ajuíze um processo de conhecimento para a obtenção de um título judicial.
+Provimento do recurso quanto aos limites objetivos da coisa julgada, ficando decidido que os limites da execução são aqueles resultantes da coisa julgada que se formou no acórdão exeqüendo.
+Posição da agravante como acionista da Companhia executada.
+Segundo o Instrumento Particular de 28ª alteração de contrato social de PRIMERA – INDÚSTRIA E COMÉRCIO LTDA. esta é a nova denominação de ATOCHEM do BRASIL – INDÚSTRIA E COMÉRCIO LTDA. De qualquer forma, para obter o pretendido afastamento da PRIMERA dos Conselhos e Assembléias da Companhia executada, a agravada teria que promover uma ação apropriada, posto que o tema relativo à transferência do controle acionário não podia ser decidido ‘incidenter tantum’ na execução de sentença.
+Provimento do recurso quanto ao ponto, ficando cassada a decisão agravada no tópico em que entendeu que a PRIMERA não é acionista da Companhia executada.
+Não conhecimento do agravo quanto à pretensão recursal posta na letra f de sua síntese final. Voto vencido quanto ao ponto.”
+2. Pois bem, a parte recorrente aponta violação ao inciso XXXVI do art. 5º da Magna Carta Federal. Sustenta que o “acórdão recorrido mudou completamente o rumo da execução imprópria em andamento, afastando-se por inteiro dos comandos já imutáveis e indiscutíveis contidos em pronunciamentos anteriores da Eg. 4ª Câmara Cível e até, por incrível que possa parecer, das próprias determinações emanadas da mesma Eg. 6ª Câmara Cível, que por diversas vezes resolvera questões iguais em agravos de instrumento e mandados de segurança manejados por Petroquisa e Primera”. Alega que o “âmbito subjetivo e objetivo da execução já fora exatamente definido, a impossibilitar qualquer alteração ou modificação, pelo menos segundo os princípios que informam o direito brasileiro”. Conclui que, segundo assentado pelo Relator na Instância Judicante de origem, Desembargador Cacildo de Andrade Xavier, “em cada processo procurava-se rediscutir tudo de novo, com clara afronta à coisa julgada” (fls. 5.461).
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Francisco Adalberto Nóbrega, opina pelo não conhecimento do apelo extremo e, caso conhecido, pelo seu desprovimento.
+4. Tenho que a insurgência não merece acolhida. Isso porque a controvérsia acerca dos limites objetivos e subjetivos da coisa julgada pertence ao plano infraconstitucional.
+5. No mesmo sentido, vejam-se os AIs 587.396-AgR, da relatoria do ministro Sepúlveda Pertence; 710.529-AgR, da relatoria do ministro Ricardo Lewandowski; 754.994-AgR, da minha relatoria; 765.612-AgR, da relatoria da ministra Cármen Lúcia; 767.968-AgR, da relatoria do ministro Joaquim Barbosa; e 733.272-AgR, da relatoria do ministro Celso de Mello, este com a seguinte ementa, na parte que interessa:
+“AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE PREQUESTIONAMENTO - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+[...]
+- A discussão em torno da integridade da coisa julgada, por reclamar análise prévia e necessária dos requisitos legais, que, em nosso sistema jurídico, conformam o fenômeno processual da ‘res judicata’, torna incabível o recurso extraordinário.
+É que, em tal hipótese, a indagação em torno do que dispõe o art. 5º, XXXVI, da Constituição - por supor o exame, ‘in concreto’, dos limites subjetivos (CPC, art. 472) e/ou objetivos (CPC, arts. 468, 469, 470 e 474) da coisa julgada - traduz matéria revestida de índole infraconstitucional, podendo caracterizar situação de eventual conflito indireto com o texto da Carta Política (RTJ 182/746), circunstância que pré-exclui a possibilidade de adequada utilização do recurso extraordinário. Precedentes.”
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 24 de fevereiro de 2010.
+Ministro AYRES BRITTO
+Relator
