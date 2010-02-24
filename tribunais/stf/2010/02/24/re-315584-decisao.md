@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Município de Belo Horizonte interpõe recurso extraordinário, com fundamento nas alíneas “a” e “c” do permissivo constitucional, contra acórdão da Quarta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“Para se atribuir validade ao convênio celebrado pelo Estado de Minas Gerais, o Município de Belo Horizonte e a Copasa/MG, bastaria somente o ´referendum’ conferido pelos Legislativos Estadual e Municipal, o que se verificou mediante a edição das Resoluções n. 265/73 e n. 1065/73, resultando daí a legalidade da isenção fiscal concedida com relação aos tributos municipais” (fl. 340).
+Sustenta o recorrente violação do artigo 19, § 1°, da Constituição Federal de 1967, com a redação da Emenda Constitucional nº 1/69, e do artigo 150, §§ 3° e 6°, da Constituição Federal, uma vez que “a isenção tributária, ainda que prevista contratualmente, deve decorrer sempre, de lei, o que não ocorreu” (fl. 354).
+Contra-arrazoado (fls. 393 a 407), o recurso extraordinário (fls. 351 a 369) foi admitido (fls. 586 a 588).
+O Tribunal de origem (fls. 589 a 591) não admitiu o recurso especial interposto paralelamente ao extraordinário.
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Francisco Adalberto Nóbrega, pelo não conhecimento do recurso extraordinário.
+Decido.
+Anote-se, primeiramente, que o acórdão recorrido foi publicado em 4/4/2000, como expresso na certidão de folha 350, não sendo exigível, conforme decidido na Questão de Ordem no AI n° 664.567, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+A irresignação, todavia, não merece prosperar, uma vez que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventuais omissões no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte.
+Demais disso,  o Tribunal de origem decidiu a controvérsia acerca da legalidade da isenção fiscal concedida por meio de convênio com base na legislação infraconstitucional pertinente (artigo 176 do Código Tributário Nacional, Resoluções nºs 265/73 e 1065/73). Assim, eventuais ofensas aos dispositivos constitucionais invocados, se ocorressem, seriam indiretas ou reflexas, o que não enseja a interposição do recurso extraordinário. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. CONCESSÃO DE ISENÇÃO TRIBUTÁRIA PREVISTA POR CONVÊNIO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 352.838/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJE de 18/9/09).
+“CONSTITUCIONAL. TRIBUTÁRIO. ISENÇÃO FISCAL CONCEDIDA POR CONVÊNIO APROVADO POR RESOLUÇÃO DA CÂMARA MUNICIPAL DE BELO HORIZONTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. I - Ausência de prequestionamento da questão constitucional suscitada. Incidência das Súmulas 282 e 356 do STF. II - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. III - Agravo regimental improvido” (RE nº 391.938/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 25/8/06).
+Com relação à alínea “c” do permissivo constitucional, igualmente, não prospera o apelo, uma vez que o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição Federal, razão pela qual fica inviabilizado o processamento do recurso extremo.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 24 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
