@@ -1,0 +1,12 @@
+DECISÃO: Vistos, etc.
+Trata-se de habeas corpus, impetrado pela Defensoria Pública da União em favor de Reginaldo Crescencio de Matos contra ato da ministra do Superior Tribunal de Justiça Maria Thereza de Assis Moura (relatora do HC 106.887/MG), sob a alegação de demora injustificada no julgamento do writ.
+2. Pois bem, em resumo, a impetrante aduz que a medida foi distribuída à autoridade apontada como coatora em 27/05/2008 e que, apesar de juntadas as informações prestadas e de o Ministério Público Federal haver apresentado o respectivo parecer, o processo está concluso à impetrada, sem previsão de julgamento, desde 10/08/2009. Afirma que a demora no julgamento fere os princípios constitucionais da razoável duração do processo e da dignidade da pessoa humana. Sustenta, por fim, com base no art. 192 do RISTF, a possibilidade de concessão monocrática da ordem pelo Relator, argumentando cuidar-se de tema cuja jurisprudência já estaria consolidada nesta Casa.
+3. Feito esse breve relato da impetração, decido. Não é caso de julgamento monocrático da ação constitucional.
+4. Com efeito, embora a jurisprudência desta nossa Casa entenda configurador de constrangimento ilegal, por descumprimento da norma constitucional da razoável duração do processo (inciso LXXVIII do art. 5º), a demora excessiva, injustificada, na realização de julgamento pelo Poder Judiciário, viabilizando, excepcionalmente, a concessão de habeas corpus, tal constrangimento pressupõe que o impetrante haja se desincumbido do seu dever processual de pré-constituir a prova de que se encontra padecente de “violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder” (inciso LXVIII do art. 5º da Constituição Federal). (Cf. HC 96.504/SP, Primeira Turma, de relatoria da ministra Cármen Lúcia, DJ 23/10/2009; HC 91.041/PE, Primeira Turma, de minha relatoria para o acórdão, DJ 17/08/2007.)
+5. Prossigo para pontuar que a prova pré-constituída necessária à caracterização do constrangimento ilegal não se circunscreve apenas ao fator temporal propriamente dito, dado que a aferição do que se deve entender por demora no julgamento do processo não é de ser considerada de maneira isolada e descontextualizada do caso concreto.
+6. Isso posto, indefiro o pedido de julgamento liminar da ordem.
+7. Requisitem-se, com a máxima urgência, informações à autoridade impetrada. Prestadas essas, abra-se vista à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 24 de fevereiro de 2010.
+Ministro AYRES BRITTO
+Relator
