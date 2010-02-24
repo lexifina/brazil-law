@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Viação Itapemirim S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso XXXVI, 7º, caput e incisos XIII, XV e XXVI, e 8º, incisos III e VI, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Subseção Especializada em Dissídios Coletivos do Tribunal Superior do Trabalho, assim ementado:
+“RECURSO ORDINÁRIO EM AÇÃO ANULATÓRIA. PEDIDO CONDENATÓRIO. OBRIGAÇÃO DE FAZER E NÃO-FAZER. CUMULAÇÃO INVIÁVEL.
+Conforme jurisprudência desta Corte Superior, a natureza declaratória da ação anulatória não comporta a cumulação de pedido condenatório, no caso, referente à obrigação dos Sindicatos-Réus de se absterem de incluir nas futuras negociações as cláusulas declaradas nulas e de garantirem condição adequada à legislação pertinente.
+REPOUSO SEMANAL REMUNERADO. CONCESSÃO AOS DOMINGOS. PREFERÊNCIA.
+Considerando serem sete os dias da semana, a estipulação em norma coletiva de que o descanso semanal recaia sobre os domingos no máximo a cada sete semanas não atende à preferência garantida no art. 7º, XV, da CF, com a qual deve se harmonizar a escala de revezamentos exigida pela especificidade da atividade do setor.
+Recurso ordinário parcialmente provido” (fl. 410).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não merece prosperar a irresignação.
+Os artigos 5º, inciso XXXVI, e 7º, caput, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidência das Súmulas n°s 282 e 356/STF.
+Demais disso, é pacífica a jurisprudência desta Corte no sentido de não admitir, em recurso extraordinário, alegação de ofensa indireta à Constituição Federal, por má interpretação, aplicação ou mesmo inobservância de normas infraconstitucionais. No caso em tela, para que se pudesse decidir de forma diversa do acórdão recorrido acerca da nulidade da cláusula do acordo coletivo que permite o gozo do descanso semanal remunerado aos domingos de sete em sete semanas seria imprescindível o reexame de termos firmados na referida norma coletiva de trabalho e da legislação infraconstitucional (Lei nº 605/49), ao que não se presta o recurso extraordinário. Neste sentido, anote-se:
+ “Agravo regimental em agravo de instrumento. 2. Interpretação de cláusula de acordo coletivo. Matéria circunscrita à análise de norma infraconstitucional. Aplicação da Súmula 454 do STF. Ofensa reflexa à Constituição Federal de 1988. Precedentes. 3. Princípios da ampla defesa e do contraditório. Em regra, ofensa reflexa à Constituição Federal. Precedentes. 4. Agravo regimental a que se nega provimento” (AI nº 670.752/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 24/4/08).
+“I. Recurso extraordinário: descabimento: controvérsia sobre validade de cláusula de acordo coletivo de trabalho decidida à luz de legislação infraconstitucional pertinente, de reexame inviável no RE: incidência, mutatis mutandis, da Súmula 636. II. O artigo 7º, XXVI, da Constituição Federal, não elide a declaração de nulidade de cláusula de acordo coletivo de trabalho à luz da legislação ordinária. III. Improcedência das alegações de negativa de prestação jurisdicional e de violação das garantias do artigo 5º, XXXV, XXXVI, LIV, da Constituição Federal” (AI nº 657.176/MG-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 31/8/07).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 24 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
