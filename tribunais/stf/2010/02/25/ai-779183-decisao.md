@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil em oposição a acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado [fl. 111]:
+“ADMINISTRATIVO E PROCESSUAL CIVIL. CONCURSO PÚBLICO. TESTE DE APTIDÃO FÍSICA. CORRIDA. QUEBRA DA PARIDADE.
+Restou evidenciado que, no segundo dia de realização da prova de capacidade física, em que exigido teste de corrida de doze minutos, a respectiva pista, ao contrário do dia anterior, ostentava lamentáveis condições, em face de forte precipitação pluviométrica, o que prejudicou o desempenho dos candidatos, alguns inclusive, com lesão, promovendo a respectiva ocorrência policial. A hipótese, assim, é de efetiva quebra da paridade, já que os candidatos que realizaram o teste no dia 06, como os impetrantes, o fizeram em condições adversas, não obstante outros candidatos tenham logrado aprovação.
+Caracterizada a ofensa ao princípio da isonomia e do direito líquido e certo de que tratam os arts. 5º, LXIX, da CF e 1º da Lei n. 1.533/51. Ordem deferida em parte, para determinar que os impetrantes sejam submetidos a novo teste de capacitação física”.
+2.  Alega-se, no extraordinário, ofensa ao disposto nos artigos 5º, “caput”, II e LV, e 37, I e II, da CB/88.
+3.  Deixo de apreciar a existência da repercussão geral, vez que o artigo 323, § 1º, do RISTF dispõe que "[t]al procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+4.  O agravo não merece provimento. As questões relativas ao cabimento do mandado de segurança estão disciplinadas no Código de Processo Civil e na Lei n. 1.533/51, normas infraconstitucionais. Eventual ofensa à Constituição, dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido, AI n. 289.030-AgR, Relator o Ministro Moreira Alves, 1ª Turma, DJ de 15.12.00, e AI n. 489.109-AgR, Relatora a Ministra Ellen Gracie, 2ª Turma, DJ de 20.4.06, entre outros julgados.
+5.  Além disso, não cabe recurso extraordinário por ofensa ao princípio da legalidade quando necessária a revisão da interpretação conferida a textos normativos infraconstitucionais [Súmula n. 636/STF].
+6.  Por fim, para dissentir-se do acórdão impugnado, seria necessário o reexame da matéria fático-probatória e de cláusulas do edital, providência vedada nesta instância mercê de incidência das Súmulas ns. 279 e 454 do Supremo Tribunal Federal.
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 25 de fevereiro de 2010.
+Ministro Eros Grau
+- Relator –
