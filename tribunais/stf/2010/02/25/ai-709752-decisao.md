@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido entendeu que a redução da alíquota do ICMS é espécie de isenção parcial do tributo, configurando a exceção ao princípio da não-cumulatividade do imposto prevista no art. 155, § 2º, II, da Constituição, impossibilitando o direito ao crédito integral pelo contribuinte.
+No RE, interposto com base no art. 102, III, a e c, da Constituição, alegou-se ofensa aos arts. 5º, II, 93, IX e 155, § 2º, I e III, da mesma Carta.
+O agravo não merece acolhida. O acórdão recorrido está em harmonia com a orientação da Corte que, no julgamento do RE 174.478/SP, Relator para o acórdão o Ministro Cezar Peluso, reformulou o seu entendimento quanto ao aproveitamento do ICMS relativo a operações realizadas com redução de base de cálculo. É o que se vê da ementa a seguir transcrita:
+“TRIBUTO. Imposto sobre Circulação de Mercadorias. ICMS. Créditos relativos à entrada de insumos usados em industrialização de produtos cujas saídas foram realizadas com redução da base de cálculo. Caso de isenção fiscal parcial. Previsão de estorno proporcional. Art. 41, inc. IV, da Lei estadual nº 6.374/89, e art. 32, inc. II, do Convênio ICMS nº 66/88. Constitucionalidade reconhecida. Segurança denegada. Improvimento ao recurso. Aplicação do art. 155, § 2º, inc. II, letra ‘b’, da CF. Voto vencido. São constitucionais o art. 41, inc. IV, da Lei nº 6.374/89, do Estado de São Paulo, e o art. 32, incs. I e II, do Convênio ICMS nº 66/88”.
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 437.833/RS, Rel. Min. Carlos Britto; RE 477.765/RS, Rel. Min. Sepúlveda Pertence; RE 400.782/RS, Rel. Min. Cezar Peluso.
+Ademais, como se sabe, este Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva o reexame de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Por fim, não há contrariedade ao art. 93, IX, da Constituição, quando o acórdão recorrido encontra-se suficientemente fundamentado. Cito os seguintes julgados, entre outros: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 25 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
