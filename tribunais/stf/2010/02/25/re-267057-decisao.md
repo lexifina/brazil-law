@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado de Minas Gerais, o qual reconheceu à parte ora agravada a estabilidade excepcional prevista no art. 19 do Ato das Disposições Constitucionais Transitórias (ADCT). Eis a ementa:
+“ESTABILIDADE – SERVIÇO PÚBLICO – ART. 19 DO ADCT – RECONHECIMENTO – SERVIDOR – COMPROVAÇÃO – PRESTAÇÃO DE SERVIÇOS – ADMINISTRAÇÃO DIRETA – ORGÃO INTERMEDIADOR – CONTRATAÇÃO DOS SERVIÇOS. – Faz jus ao reconhecimento da estabilidade no serviço público, conferida pelo art. 19 do ADCT, o servidor que comprovar a prestação de serviços à Administração Direta por cinco ou mais anos, retroativamente à data da promulgação da Constituição de 1988, devendo-se aí incluir a hipótese de serviços prestados diretamente ao ente público e cuja contraprestação seja por ele paga, ainda que contratados mediante a intermediação de outro órgão que seja mantido pelo próprio Poder Público.” (Fls. 263)
+ A parte recorrente, ao apontar vulneração do art. 19 do ADCT, alega que o recorrido não atendera ao requisito temporal para obtenção da estabilidade prevista na norma transitória, pois fora admitido de forma precária no quadro de servidores municipais em 01.04.1984. Enfatiza a impossibilidade de incluir, no computo do qüinqüênio necessário à obtenção da estabilidade anômala, o período no qual o recorrido prestara serviços “(...) como guarda- mirim contratado pelo SOS, pessoa jurídica de direito privado, quando tinha entre onze e dezesseis anos de idade.” (Fls. 297).
+Impossível chegar a conclusão diversa sem o reexame de fatos e provas, o que dá margem ao descabimento do recurso extraordinário (Súmula 279).
+Do exposto, nego seguimento ao presente recurso.
+Publique-se.
+Brasília, 25 de fevereiro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
