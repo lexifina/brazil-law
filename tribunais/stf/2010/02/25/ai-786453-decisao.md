@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil.
+2.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [artigo 102, III, § 3º, da CB/88].
+3.  Alega-se, no recurso extraordinário, ofensa ao disposto nos artigos 5º, LV, e 192, § 3º, da CB/88.
+4.  O agravo não merece provimento. A controvérsia relativa à aplicação da taxa SELIC sobre débitos tributários foi decidida à luz da legislação infraconstitucional que disciplina a espécie. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. No mesmo sentido, entre outros, os seguintes acórdãos: RE n. 496.271-AgR, Relator o Ministro Sepúlveda Pertence, 1ª Turma, DJ de 10.11.06; AI n. 348.803-AgR, Relator o Ministro Néri da Silveira, 2ª Turma, DJ de 19.12.01; RE n. 422.005-ED, Relatora a Ministra Ellen Gracie, 2ª Turma, DJ de 20.4.06; e AI n. 586.182-AgR, de que fui Relator, 2ª Turma, DJ de 1º.9.06.
+5.  Além disso, a jurisprudência deste Tribunal fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 541.361-AgR, de que fui relator, 1ª Turma, DJ de 3.2.06, e AI n. 238.917-AgR, Relator o Ministro Celso de Mello, 2ª Turma, DJ de 20.10.00, entre outros julgados].
+ Nego seguimento ao agravo com fundamento no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 25 de fevereiro de 2010.
+Ministro Eros Grau
+- Relator -
