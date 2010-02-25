@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Trata-se de ação cível originária ajuizada pela Empresa Brasileira de Infra-Estrutura Aeroportuária – INFRAERO contra o MUNICÍPIO DE SÃO PAULO, pedindo o reconhecimento da imunidade tributária prevista no art. 150, VI, a, da Constituição Federal com relação aos impostos deste Município e da inexistência de relação jurídica tributária que “a obrigue a recolher quaisquer dos impostos municipais cobrados pelo Município de São Paulo que guardem relação com os serviços por ela prestados, em especial o Imposto Sobre Serviços de Qualquer Natureza (ISS)”, além do direito à repetição do indébito referente aos impostos recolhidos ao longo dos anos anteriores e o direito de eximir-se do pagamento das exações inscritas em dívida ativa e do cumprimento de obrigações acessórias ou deveres instrumentais (fl. 31).
+O pedido de antecipação da tutela foi deferido pelo saudoso Ministro Menezes Direito nos termos dos itens a e b da inicial (fls. 251-254).
+Foram interpostos recurso de agravo regimental, pelo MUNICÍPIO DE SÃO PAULO (fls. 267 273) e Embargos de Declaração pela INFRAERO (fls. 276 a 290).
+O município-réu apresentou contestação (fls. 292 a 308) e, às fls. 376 a 379, peticionou requerendo a extinção do presente feito sem resolução do mérito, por não ser competência deste Supremo Tribunal processar e julgar causas entre empresa pública federal e município, nos termos da decisão proferida pela Ministra Ellen Gracie na ACO nº 1.351. Em réplica (fls. 386 e 387), reitera todo o contido em sua contestação, pugnado pela extinção do feito sem julgamento de mérito ou caso assim não entenda esta Corte, requer seja a presente ação julgada improcedente.
+A INFRAERO apresentou réplica às folhas 389 a 394, requerendo o prosseguimento do feito e, ao final, o deferimento dos pedidos formulados na inicial.
+É o relatório.
+Decido.
+Com efeito, assiste razão ao município-réu, não merecendo a presente ação ser conhecida, uma vez que esta Corte não tem competência originária para conhecer dos pedidos formulados pela empresa-autora em face de município.
+Nos termos do art. 102, I, f da Constituição da República, compete originariamente ao Supremo Tribunal Federal processar e julgar “as causas e os conflitos entre a União e os Estados, a União e o Distrito Federal, ou entre uns e outros, inclusive as respectivas entidades da administração indireta”. Portanto, o texto constitucional não menciona os municípios entre as entidades cujos litígios evocam a competência originária desta Corte.
+Assim, até mesmo em face da literalidade da norma inscrita no art. 102, I, f, da Carta Maior, não compete a esta Corte, em sede originária, processar e julgar causas que antagonizem determinada empresa pública federal a certo município, como sucede na espécie ora em exame.
+Nesse sentido foram as decisões proferidas, em casos análogos ao ora analisado, envolvendo a INFRAERO e municípios: ACO nº 1.352/ES, Relator o Ministro Joaquim Barbosa, DJ de 1/7/09; ACO nº 1.364/SE, Relator o Ministro Celso de Mello, DJ de 13/5/09; ACO nº 1.351/MG, Relatora a Ministra Ellen Gracie, DJ de 23/3/09; ACO nº 1.353/RJ, Relator o Ministro Ricardo Lewandowski, DJ de 19/3/09; ACO nº 829/GO, Relator o Ministro Celso de Mello, DJ de 5/10/06).
+Ante o exposto, não conheço desta ação cível originária, por ausência de competência originária do Supremo Tribunal Federal (art. 21, § 1º do RISTF). Fica cassada a antecipação de tutela antes deferida e prejudicado, ainda, o exame do agravo regimental e o embargo de declaração interpostos.
+Publique-se.
+Brasília, 25 de fevereiro de 2010.
+Ministro DIAS TOFFOLI
+Relator
