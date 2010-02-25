@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVI, 195, § 2º e 202, caput, da mesma Carta.
+O agravo não merece acolhida. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Além disso, o acórdão atacado encontra-se em harmonia com a jurisprudência da Corte, como se vê da ementa do AI 392.018-AgR/SP, Relator para o acórdão o Min. Sepúlveda Pertence, que segue transcrita:
+“1. Caderneta de poupança: correção monetária: "Plano Verão" e "Plano Bresser": firmou-se a jurisprudência do STF no sentido de reconhecer a depositantes em caderneta de poupança direito à correção monetária do saldo de suas contas pelo índice vigente no início do período contratual. 2.Caderneta de poupança: "Plano Collor": atualização monetária das quantias "bloqueadas": critério imposto pela Medida Provisória 168/90, convertida na L. 8.024/90, de correção do saldo das contas pelo BTN fiscal, que, segundo orientação firmada pelo plenário do Tribunal (RE 206.048, T. Pleno, 15.08.2001, Nelson Jobim, Inf./STF 237) - trilhada por numerosas decisões individuais e de ambas as Turmas -, não contraria os princípios constitucionais do direito adquirido e da isonomia”.
+Nesse sentido, menciono as seguintes decisões, entre outras: RE 200.514/RS, Rel. Min. Moreira Alves; RE 203.762/RS, Rel. Min. Marco Aurélio; RE 204.769/RS, Rel. Min. Celso de Mello, RE 175.127-AgR/SP, Rel. Min. Sepúlveda Pertence, RE 278.980/RS, Rel. Min. Sydney Sanches; AI 482.583/SP, Rel. Min. Cezar Peluso; RE 170.228/RS e AI 624.513/SP, Rel. Min. Sepúlveda Pertence; RE 289.396-ED/PR, Rel. Min. Carlos Velloso.
+Por fim, o acórdão recorrido decidiu a questão com base na legislação ordinária, no caso, o Código de Defesa do Consumidor - CDC. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido: AI 349.529/RS, Rel. Min. Cezar Peluso; AI 537.096/RS, Rel. Min. Carlos Velloso; AI 613.681-AgR/RJ, Rel. Min. Eros Grau; AI 587.196-AgR/MG, Rel. Min. Cármen Lúcia.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 25 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
