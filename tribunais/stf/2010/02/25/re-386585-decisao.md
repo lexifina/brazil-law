@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo que versou sobre a exigência do prévio pagamento de multas de trânsito para a obtenção do licenciamento anual de veículos, sobre a necessidade de notificação para defesa prévia das autuações lavradas e acerca dos limites da delegação aos agentes da Companhia de Engenharia de Tráfego-CET.
+A parte recorrente sustenta ter havido afronta aos arts. 2º; 5º, II, LIV e LV; 22, XI e parágrafo único; 23, II, VI e parágrafo único e 24, VI e parágrafos, da Carta Magna.
+Não merece seguimento o recurso. O acórdão recorrido decidiu com base na interpretação dada à legislação de trânsito, matéria de índole infraconstitucional, sendo que eventual ofensa à Constituição, se existente, seria indireta ou reflexa, hipótese em que não se admite o recurso extraordinário. Nesse sentido: RMS 7.371 (rel. min. Ribeiro da Costa, Tribunal Pleno, ADJ de 20.08.1962); AI 366.231-AgR (rel. min. Nelson Jobim, Segunda Turma, DJ de 18.10.2002); AI 441.182-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJ de 10.12.2004); RE 583.247 (rel. min. Cármen Lúcia, DJe de 25.08.2009) e AI 471.656-AgR (rel. min. Gilmar Mendes, Segunda Turma DJ de 04.03.2005), este último assim ementado:
+“EMENTA: Agravo regimental em agravo de instrumento. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Licenciamento de veículo sem o pagamento de multa. Controvérsia infraconstitucional. Ofensa reflexa à CF/88. Precedente. 4. Legitimidade dos agentes da CET. Matéria infraconstitucional. Ofensa reflexa. Precedente. 5. Agravo regimental a que se nega provimento.”
+Quanto à notificação, o Tribunal de origem assentou que a autoridade de trânsito promoveu a devida notificação da infratora. Impossível chegar a conclusão diversa sem reexame de prova, o que dá margem ao descabimento do recurso extraordinário (Súmula 279 do Supremo Tribunal Federal).
+Do exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 25 de fevereiro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
