@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão, proferido pelo Tribunal Regional Federal da 5ª Região, que, apesar de reconhecer a inconstitucionalidade dos Decretos-Leis 2.445/88 e 2.449/88, estabeleceu a legitimidade da incidência do PIS, nos termos da pela Lei Complementar 07/1970.
+Sustenta-se a violação dos arts. 43, X e 165, V, da Constituição de 1967; e arts. 7º, XI; 195, I e 239 da Constituição federal.
+Não pode prosperar a pretensão da recorrente. O Supremo Tribunal Federal tem entendimento firme no sentido de que a inconstitucionalidade dos Decretos-Leis 2.445 e 2.449/1988 não implicou em um vácuo legislativo. Não há que se falar em repristinação, pois a inconstitucionalidade dos Decretos-Leis 2.445 e 2.449/1988 fez com que eles nunca houvessem alterado a Lei Complementar 07/1970. Dessa forma, é válida a incidência da contribuição para o PIS, nos termos da Lei Complementar 07/1970, no período anterior a março de 1996.
+Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO. OBSCURIDADE NO ARESTO QUE ENTENDEU PELA LEGITIMIDADE DA COBRANÇA DO PIS NO "QUANTUM" E NOS PRAZOS PREVISTOS NA LEI COMPLEMENTAR 7/70. DECLARAÇÃO DE INCONSTITUCIONALIDADE DOS DECRETOS-LEIS NºS 2.445 E 2.449/88. ÔNUS DA SUCUMBÊNCIA. FIXAÇÃO. 1. Legítima a cobrança do PIS na forma disciplinada pela Lei Complementar 07/70, vez que inconstitucionais os Decretos-Leis nºs 2.445 e 2.449/88, por violação ao princípio da hierarquia das leis. 2. Ônus da sucumbência. Fixação. Tendo sido a recorrente vencida e vencedora, o ônus da sucumbência há de ser proporcionalmente compensado e distribuído entre as partes. Embargos de declaração recebidos.” (RE 181.165-ED-ED, rel. min. Maurício Corrêa, Segunda Turma, DJ de 19.12.1996)
+“EMENTA: Embargos de declaração em agravo de instrumento. 2. Decisão monocrática do relator. Embargos de declaração recebidos como agravo regimental. 3. PIS. Decretos-Leis 2.445 e 2.449. Inconstitucionalidade. Legitimidade da cobrança do PIS nos termos da Lei Complementar nº 07, de setembro de 1970 e alteração posterior. Lei Complementar nº 17, de 12 de dezembro de 1973. 4. Agravo regimental a que se nega provimento.” (AI 488.865-ED, rel. min. Gilmar Mendes, Segunda Turma, DJ de 03.03.2006)
+Com idêntico entendimento: RE 172.950 (rel. min. Ilmar Galvão, Primeira Turma, DJ de 25.11.1994).
+Dessa orientação não divergiu o acórdão recorrido.
+Do exposto, com base no art. 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 25 de fevereiro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
