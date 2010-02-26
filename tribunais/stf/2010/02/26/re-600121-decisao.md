@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de recurso extraordinário interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição do Brasil contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, ementado nos seguintes termos:
+“Apelação cível. Previdência privada. Apelado que busca o direito de receber adicional de aposentadoria, conforme regras do Regulamento OO4, vigente à época de sua adesão ao plano de previdência da apelante, o que foi reconhecido pela sentença. Os benefícios de aposentadoria regem-se pelas normas vigentes na data em que ela ocorrer. Aposentadoria ocorrida em 2001, após a Constituição Federal de 1988 e da modificação do plano de benefício, excluída a vinculação ao salário-mínimo. Inexistência de direito adquirido e de ato jurídico perfeito. Reforma da sentença. Recurso provido.”
+2.  Alega-se, no recurso extraordinário, violação do disposto no artigo 5º, XXXVI, da Constituição do Brasil.
+3.  A jurisprudência do Supremo é firme no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+4.  Ademais, para dissentir-se do acórdão impugnado seria necessária a análise da legislação infraconstitucional que disciplina a espécie. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão dos extraordinários. Nesse sentido, o AI n. 532.412, Relator o Ministro Sepúlveda Pertence, DJ de 6.4.06, o RE n. 476.889, Relator o Ministro Carlos Britto, DJ de 5.5.06, entre outros.
+ Nego seguimento ao recurso com esteio no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 26 de fevereiro de 2010.
+Ministro Eros Grau
+- Relator -
