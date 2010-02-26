@@ -1,0 +1,9 @@
+DECISÃO: Discute-se no presente recurso extraordinário a constitucionalidade da exigência de prévia interposição de requerimento administrativo como condição para o ajuizamento de ação ordinária contra o Instituto Nacional do Seguro Social – INSS, para pleitear a concessão de benefício previdenciário.
+2.  O Tribunal a quo afirmou que “o ato judicial combatido seguiu entendimento sumulado nesta Turma Recursal, segundo o qual ‘[é] carente de ação o segurado que ingressa em juízo com ação objetivando a concessão de benefício de aposentadoria, sem, antes, ter formulado tal pretensão na via administrativa’(Súmula nº 2).”
+3.  O recorrente alega violação do disposto no artigo 5º, XXXV, da Constituição do Brasil.
+4.  Este Tribunal decidiu que “[n]ão há previsão, na Lei Fundamental, de esgotamento da fase administrativa como condição para o acesso, ao Poder Judiciário, por aquele que pleiteia o reconhecimento de direito previdenciário. Ao contrário da Carta pretérita, a atual não agasalha cláusula em branco, a viabilizar a edição de norma ordinária com disposição em tal sentido. A própria Constituição Federal contempla as limitações ao imediato acesso ao Judiciário, quando, no tocante ao dissídio coletivo, a cargo da Justiça do Trabalho, estabelece ser indispensável o término da fase de negociação e, relativamente a conflito sobre competição ou disciplina, preceitua que o interessado deve antes provocar a Justiça Desportiva - artigos 114, § 2º, e 217, § 1º, ambos do Diploma Maior” [AI n. 525.766, Relator o Ministro Marco Aurélio, DJ de 1º.3.07].
+ Dou provimento ao recurso com fundamento no disposto no artigo 557, § 1º-A, do CPC para determinar que o Tribunal de origem aprecie o direito do recorrente à percepção da pensão por morte.
+ Publique-se.
+Brasília, 26 de fevereiro de 2010.
+Ministro Eros Grau
+- Relator -
