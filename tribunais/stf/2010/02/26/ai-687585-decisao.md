@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário em oposição a acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado [fl. 288]:
+“AÇÃO DE INDENIZAÇÃO – RESPONSABILIDADE CIVIL – DANOS MATERIAIS E MORAIS – PAGAMENTO DE INDENIZAÇÃO TÍTULO DE DANOS MATERIAIS JÁ APRECIADO E JULGADO EM OUTRA AÇÃO ORDINÁRIA – INCIDÊNCIA DA COISA JULGADA – DANO MORAL – PRELIMINAR DE PRESCRIÇÃO – INOCORRÊNCIA – OFENSA À HONRA SUBJETIVA – INDENIZAÇÃO POR DANOS MORAIS – DEVIDA – RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO”
+2.  Alega-se, no recurso extraordinário, violação do disposto nos artigos 5º, II, LV e 93, IX, da Constituição do Brasil. Sustenta que foi cerceado o direito de defesa, uma vez que fora indeferido o pedido de produção de provas.
+3.  O agravo não merece provimento. A controvérsia foi decidida no plano da legislação infraconstitucional. Trata-se, portanto, de ofensa indireta à Constituição, insuficiente para desafiar a via extraordinária.
+4.  Este Tribunal fixou jurisprudência no sentido de que “a ofensa à Constituição, que autoriza admissão do recurso extraordinário, é a ofensa direta, frontal, e não a ofensa indireta, reflexa. Se, para demonstrar a contrariedade à Constituição, tem-se, antes, de demonstrar a ofensa à norma infraconstitucional, é esta que conta para a admissibilidade do recurso” [AI n. 204.153–AgR, 1ª Turma, DJ de 30.6.00, e AI n. 231.836–AgR, 2ª Turma, DJ de 3.9.99].
+5.  Além disso, a jurisprudência deste Tribunal fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].  Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 26 de fevereiro de 2010.
+Ministro Eros Grau
+- Relator -
