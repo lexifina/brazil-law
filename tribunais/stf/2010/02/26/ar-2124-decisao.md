@@ -1,0 +1,58 @@
+Trata-se de ação rescisória, com pedido de medida liminar, ajuizada por Angelina Scardua e Silva contra o Estado do Espírito Santo, com o objetivo de rescindir a decisão proferida no AI 196.727/ES, Rel. Min. Sepúlveda Pertence, com trânsito em julgado em 12/3/2007.
+Cuidava-se, no referido caso, de recurso extraordinário inadmitido na origem e interposto contra acórdão do Tribunal de Justiça do Espírito Santo, que deferiu mandado de segurança para assegurar à ora autora a percepção de adicional por tempo de serviço e gratificação de assiduidade.
+O Relator proveu o agravo de instrumento, convertendo-o em RE para, desde logo, dar-lhe provimento, sob o argumento de que o acórdão então recorrido estaria em confronto com a jurisprudência da Corte, notadamente o RE 216.214/ES, Rel. Min. Sidney Sanches, em que ficou assentado não caber ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento da isonomia (súmula 339).
+A autora desta ação rescisória sustenta que a decisão rescindenda teria sido proferida em violação a literal disposição de lei (arts. 5º, XXXVI e LIV, da Constituição e 557, § 1º-A, do CPC), além de estar fundada em erro de fato.
+O erro de fato teria ocorrido, pois a decisão rescindenda
+“considerou, em suas razões de decidir, que a Autora se enquadraria na hipótese de serventuário não oficializado aposentado antes da Constituição Federal de 1988, para afastar o direito à percepção de gratificação de assiduidade concedida aos servidores públicos em atividade, já que neste contexto não se aplicaria o princípio da isonomia.
+(...)
+De plano, convém chamar atenção para o fato de que a Autora não estava aposentada à época do pedido lá formulado, e ainda não está”.
+Alega também que há violação ao art. 557, § 1º-A, do CPC, uma vez que
+“é justamente o entendimento consubstanciado no referido RE 235.623/ES que representa a jurisprudência consolidada nesta Suprema Corte, sobre os fatos que circundam o direito questionado pela ora autora nos autos em que proferida a decisão rescindenda e não o entendimento contido no RE 216.215, utilizado como razões de decidir pela referida decisão rescindenda” (fl. 23).
+Sustenta, ademais, que a decisão rescindenda afronta o princípio da segurança jurídica, bem como o seu direito adquirido de computar o tempo de serviço prestado à serventia do foro judicial antes da oficialização desta.
+Afirma, ainda, que o Estado do Espírito Santo passou a descontar mensalmente determinado valor dos vencimentos por ela percebidos, a título de restituição, como consequência lógica da revogação dos atos que concederam as vantagens antes pleiteadas.
+Aduz que tal fato lhe impõe graves danos, pois
+“implica na sensível redução dos vencimentos percebidos há anos, interferindo, portanto, diretamente, em sua subsistência, eis que tal quantia contribuía para o adimplemento de suas despesas mensais” (fl. 29).
+Requer, desse modo, a concessão da medida liminar para suspender a decisão rescindenda, restabelecendo-se o pagamento das vantagens antes adquiridas. Alternativamente, pede que o Estado se abstenha de descontar dos seus vencimentos qualquer valor a título de restituição.
+Às fls. 74-76, indeferi a liminar.
+O Estado do Espírito Santo apresentou contestação, sustentando
+“a inconstitucionalidade e a ilegalidade da pretensão de percepção de vantagem em apreço, posto que a autora era serventuária de Cartório privado, sendo descabido pretender aplicar-lhes normas pertinentes a funcionários públicos ante a dicção do art. 236 da Carta Política” (fl. 175).
+Alega, ainda, que a autora nunca recebeu remuneração paga pelos cofres públicos, sendo-lhe, portanto, vedado perceber as vantagens mencionadas.
+Além disso, afirma que o acórdão reformado pela decisão rescindenda violou o art. 71, III, da Constituição Federal.
+É o relatório. Decido.
+Nos termos do art. 330, I, do CPC, tratando-se de questão unicamente de direito impõe-se o julgamento antecipado da lide.
+O objeto desta ação é a rescisão do julgamento proferido no AI 196.727/ES, Rel. Min. Sepúlveda Pertence.
+Na origem, cuidava-se de mandado de segurança contra ato do Tribunal de Contas do Estado do Espírito Santo – TCE/ES que negou registro aos atos da Corregedoria Geral do Tribunal de Justiça local, os quais deferiram à ora autora a percepção de adicional por tempo de serviço e gratificação de assiduidade.
+A autora, titular de serventia do foro judicial do Cartório da Comarca de Baixo Gandu/ES, sustentou no referido writ a incompetência do Tribunal de Contas para examinar a legalidade do ato, bem como o seu direito de ter computado o tempo de serviço prestado à cartório não estatizado, para todos os fins, nos termos das Leis Estaduais 3.200/1978 e 3.526/1982.
+O acórdão recorrido concedeu a segurança sob o fundamento de que o TCE/ES era incompetente para analisar o ato de concessão das vantagens. Além disso, assentou que a Lei 3.526/1982 mandava aplicar aos serventuários de cartório não oficializados os mesmos direitos dos servidores públicos.
+Contra essa decisão foi interposto recurso extraordinário que não foi admitido por intempestividade.
+Manejado agravo de instrumento para processar o extraordinário (AI 196.727/ES, Rel. Min. Sepúlveda Pertence), este foi convertido em RE e provido com fundamento na contrariedade ao entendimento desta Corte firmado no RE 216.214/ES, Rel. Sydney Sanches, que porta a seguinte ementa:
+“DIREITO CONSTITUCIONAL E ADMINISTRATIVO.
+SERVENTUÁRIA DA JUSTIÇA (DE CARTÓRIO NÃO OFICIALIZADO). APOSENTADORIA. GRATIFICAÇÃO DE ASSIDUIDADE (LEI Nº 3.200/78). PRINCÍPIO DA ISONOMIA (SÚMULA 339).  RECURSO EXTRAORDINÁRIO.
+1.  A 1ª Turma do Supremo Tribunal Federal, no julgamento do RE nº 197.227, decidiu no sentido de que ‘ao reconhecer a serventuário de cartório aposentado antes do advento da Constituição Federal e sob a égide de lei vigente, a percepção do adicional por assiduidade previsto em relação aos servidores da Administração, ante a alegação de que a Carta Magna os equiparou para todos os efeitos, o acórdão violou o que assentado pelo Supremo Tribunal Federal, no sentido de que não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia (Súmula 339). A aposentadoria é ato administrativo sujeito ao controle do Tribunal de Contas, que detém competência constitucional para examinar a legalidade do ato e recusar o registro quando lhe faltar base legal’.
+2.  O mesmo entendimento foi firmado pela 2ª Turma, no julgamento do RE nº 223.544: ‘I - Servidor de cartório não oficializado, aposentado anteriormente à CF/88: não faz jus à percepção de gratificação de assiduidade concedida aos servidores estrito, a menos que a lei concessiva da vantagem a tivesse estendido, expressamente, aos serventuários de cartórios não oficializados, aposentados, que eram remunerados mediante emolumentos pagos pelas partes; II - Competência do Tribunal de Contas para propor a exclusão da gratificação indevida (C.F., art. 71, III, c/c art. 75)’.
+3.  Adotados os fundamentos deduzidos nesses precedentes, o R.E. é conhecido e provido, para o indeferimento do Mandado de Segurança. Custas ‘ex-lege’” (grifei).
+Referido recurso extraordinário (RE 216.214/ES, Rel. Sydney Sanches), que travava de ação intentada por serventuária de da Justiça aposentada, contra ato do Presidente do Tribunal de Contas do Estado do Espírito Santo, que negou, nos proventos da autora, a inclusão da Gratificação de Assiduidade, foi provido com fundamentos nos seguintes precedentes desta Corte: RE 197.227/ES, Rel. Min. Ilmar Galvão e RE 223.544/ES, Rel. Min. Carlos Velloso.
+Em tais recursos extraordinários a discussão também era se serventuários de cartórios não oficializados aposentados antes da Constituição de 1988 teriam direito à adicional por assiduidade, previsto em relação aos servidores da administração, por força do art. 40, § 4º, da Constituição (na redação originária).
+A decisão proferida no AI 196.727/ES, Rel. Min. Sepúlveda Pertence é combatida sob o fundamento de que houve erro de fato, nos termos do art. 485, IX, do CPC, verbis:
+“Art. 485. A sentença de mérito, transitada em julgado, pode ser rescindida quando:
+(...)
+IX - fundada em erro de fato, resultante de atos ou de documentos da causa;
+§ 1o Há erro, quando a sentença admitir um fato inexistente, ou quando considerar inexistente um fato efetivamente ocorrido.
+§ 2o É indispensável, num como noutro caso, que não tenha havido controvérsia, nem pronunciamento judicial sobre o fato”.
+Nos termos do CPC, então, o erro de fato caracteriza-se pela admissão de um fato inexistente.
+E foi o que ocorreu no caso destes autos. A decisão rescindenda aplicou precedentes para prover o recurso extraordinário que tratavam de serventuária de cartório não oficializados e que se aposentou antes da Constituição de 1988.
+O caso da ora autora é diverso, porém. Isso porque por ocasião do ajuizamento da ação ela era servidora de cartório estatizado e não era aposentada.
+Mediante a ação mandamental, buscava a ora autora, garantir seu direito a contagem do tempo de serviço prestado quando o cartório ainda não era estatizado, para fins de concessão de adicional por tempo de serviço e gratificação de assiduidade. Esses fatos são fundamentais para o deslinde da causa.
+Isso porque ao tempo do julgamento a jurisprudência deste Tribunal, conforme precedente do próprio Relator, Min. Sepúlveda Pertence (RE 245.171/ES), era no sentido de que não violava a Constituição a lei estadual que mandava computar para o cálculo do adicional do tempo de serviço o tempo em que o servidor foi serventuário contratado de cartório não estatizado.
+Eis a ementa do referido julgado:
+“Adicional por tempo de serviço: não sendo a vantagem prevista nem disciplinada na Constituição Federal, não a viola a lei estadual que manda computar para o seu cálculo o tempo em que o servidor fora serventuário contratado de cartório não oficializado: o regime privado da atividade notarial e de registro, estabelecido pelo art. 236 da Lei Fundamental, não impede que o tempo de serviço nela cumprido seja tido, por lei, como fato aquisitivo do direito ao adicional”.
+À ocasião assentou o Relator:
+“O regime privado da atividade notarial e de registro não impede, com efeito, que o tempo de serviço nela prestado seja tido, por lei, como fato aquisitivo do direito ao adicional por tempo de serviço; a lei que assim estabeleça não publiciza o regime privado sob o qual deve ser executada essa atividade, nem transforma em funcionário público o empregado contratado para exercê-la. Em suma, o art. 236 da Constituição não é óbice ao direito postulado pelo recorrido”.
+Verifica-se, assim, que a decisão rescindenda fundou-se em erro de fato, pois ao aplicar o precedente do RE 216.214/ES, Rel. Sydney Sanches tratou a discussão como de serventuário aposentado antes da Constituição de 1988 e que pedia a concessão de adicional por força do art. 40, § 4º, da Constituição (na redação originária).
+Por estas razões, julgo procedente esta ação, para rescindir a decisão proferida no AI 196.727/ES, Rel. Min. Sepúlveda Pertence.
+Quanto à analise do AI 196.727/ES, não merece prosperar a pretensão do recorrente, uma vez que, como já afirmado, a jurisprudência do Tribunal é no sentido de que não viola a Constituição a lei estadual que manda computar para o cálculo do adicional do tempo de serviço o tempo em que o servidor foi serventuário contratado de cartório não estatizado.
+Condeno o réu nas custas e na verba honorária que arbitro em 10% (dez por cento) sobre o valor corrigido da causa.
+Publique-se e intime-se.
+Brasília, 26 de fevereiro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
