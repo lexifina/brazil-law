@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+“ DESAPROPRIAÇÃO – IMISSÃO PROVISÓRIA – Necessidade de depósito prévio do valor de indenização a ser fixado em avaliação provisória – Art. 5º, XXIV, da CF – Derrogação dos parágrafos do artigo 15 do Dec. lei 3365/41 reconhecida, devido à incompatibilidade com os preceitos constitucionais da prévia e justa indenização – Decisão agravada pautada em laudo prévio – Recurso improvido.” (Fl. 108).
+2.  Nas razões do RE, interposto com base no artigo 102, III, a e b, sustenta-se ofensa aos artigos 5º, XXIV e 97 da Constituição Federal.
+ O recorrente requer “o conhecimento e provimento do presente Recurso Extraordinário, para que, com o reconhecimento da ofensa ao artigo 97 da Constituição Federal e à Súmula Vinculante nº 10, seja anulado o v. acórdão do Tribunal de Justiça, e, no mérito, reafirmada a conformidade do artigo 15, §1º, ‘c’ com a Constituição Federal e determinada a imediata imissão provisória na posse do imóvel, providência essa estabelecida na lei prevista constitucionalmente (art. 5º, XXIV)” (fl. 128).
+3.  Quanto ao artigo 97 da Constituição, não houve o devido prequestionamento, uma vez que, embora a ofensa tenha surgido no próprio acórdão recorrido, não foram opostos embargos de declaração para cumprimento do referido requisito de admissibilidade (Súmulas STF 282 e 356).
+4.  No que tange ao mérito, assiste razão ao recorrente. O acórdão recorrido está em dissonância com a jurisprudência pacífica desta Suprema Corte, consolidada na Súmula STF 652, cujo teor transcrevo:
+“NÃO CONTRARIA A CONSTITUIÇÃO O ART. 15, § 1º, DO DECRETO-LEI 3365/1941 (LEI DA DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA)”.
+ Ainda no sentido da compatibilidade dos parágrafos do artigo 15 do Decreto-Lei 3.365/1941 com o artigo 5º, XXIV, da Constituição Federal, afastando a exigência de pagamento prévio e integral da indenização, para ser deferida a imissão provisória na posse do bem expropriado, cito os seguintes precedentes: RE 259.319/RJ, rel. Min. Joaquim Barbosa, DJe 08.02.2010; RE 185.804/SP, rel. Min. Sepúlveda Pertence, DJ 24.11.2005; RE 191.078/SP, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 20.06.2008; e RE 184.069/SP, rel. Min. Néri da Silveira, 2ª Turma, unânime, DJ 08.03.2002.
+5.  Ante o exposto, com fundamento no art. 544, § 4º, do Código de Processo Civil, estando o acórdão recorrido em confronto com a orientação firmada por este Tribunal, conheço do agravo e, desde logo, dou parcial provimento ao recurso extraordinário.
+Publique-se.
+Brasília, 1º de março de 2010.
+Ministra Ellen Gracie
+Relatora
