@@ -1,0 +1,9 @@
+DECISÃO: O Plenário desta Suprema Corte, ao julgar o RE 174.478/SP, Rel. p/ o acórdão Min. CEZAR PELUSO, firmou orientação sobre a controvérsia ora em análise, proferindo decisão consubstanciada em acórdão assim ementado:
+“TRIBUTO. Imposto sobre Circulação de Mercadorias. ICMS. Créditos relativos à entrada de insumos usados em industrialização de produtos cujas saídas foram realizadas com redução da base de cálculo. Caso de isenção fiscal parcial. Previsão de estorno proporcional. Art. 41, inc. IV, da Lei estadual nº 6.374/89, e art. 32, inc. II, do Convênio ICMS nº 66/88. Constitucionalidade reconhecida. Segurança denegada. Improvimento ao recurso. Aplicação do art. 155, § 2º, inc. II, letra ‘b’, da CF. Voto vencido. São constitucionais o art. 41, inc. IV, da Lei nº 6.374/89, do Estado de São Paulo, e o art. 32, incs. I e II, do Convênio ICMS nº 66/88.”
+Cabe ressaltar, neste ponto, que essa orientação plenária - que se reflete em julgamentos emanados de ambas as Turmas do Supremo  Tribunal Federal (AI 497.755-ED/PR, Rel. Min. CARLOS VELLOSO – AI 552.306-AgR-AgR/MG, Rel. Min. RICARDO LEWANDOWSKI - RE 154.179-AgR-ED/SP, Rel. Min. GILMAR MENDES - RE 334.819-AgR/SP, Rel. Min. SEPÚLVEDA PERTENCE) - tem sido igualmente observada em sucessivas decisões proferidas por eminentes Juízes desta Corte (AI 389.119/SP, Rel. Min. CELSO DE MELLO – AI 547.624/RS, Rel. Min. CÁRMEN LÚCIA – RE 423.782/MG, Rel. Min. ELLEN GRACIE - RE 526.700/RS, Rel. Min. EROS GRAU, v.g.).
+O acórdão impugnado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou no exame da matéria ora em análise.
+Sendo assim, e pelas razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+Publique-se.
+Brasília, 1º de março de 2010.
+Ministro CELSO DE MELLO
+Relator
