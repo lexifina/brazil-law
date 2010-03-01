@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+“ DIREITO CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. TRANSPORTE PÚBLICO COLETIVO. CURSO PROFISSIONALIZANTE. VENDA DE PASSES ESTUDANTIS. RECUSA. OBRIGATORIEDADE DE FORNECIMENTO. AUSÊNCIA DE DISTINÇÃO QUANTO AO ESTABELECIMENTO DE ENSINO. EXIGÊNCIA DE REQUISITOS. COMPROVAÇÃO. FONTE DE RECURSOS NÃO INDICADA. RECURSO IMPROVIDO. SENTENÇA MANTIDA. ” (fl. 54)
+ Os embargos de declaração opostos foram rejeitados (fls. 68-71).
+2.  No RE, sustenta-se ofensa aos arts. 5º, II, XXXV, LIV, LV; 22, XXVII; 93, IX; 170; e 175, I e III, da Constituição Federal (fls. 74-88).
+3.  Verifico que o recurso não merece prosperar. Para divergir da conclusão a que chegou o Tribunal a quo, cumpriria examinar a legislação local, o que é defeso nesta fase recursal, nos termos da Súmula STF 280. Nesse sentido, em casos análogos: AI 626.297/DF, rel. Min. Sepúlveda Pertence, DJ 22.2.2007; AI 532.087/DF, rel. Min. Cezar Peluso, DJe 11.3.2008; e RE 575.927/DF, rel. Min. Carlos Britto, DJe 04.8.2009.
+4.  Ademais, quanto à alegação de ofensa ao art. 5º e seus incisos, e ao 93, IX, da Constituição Federal, além de o fato de decisão contrária aos interesses da parte não caracterizar violação aos dispositivos constitucionais apontados, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 1º de março de 2010.
+Ministra Ellen Gracie
+Relatora
