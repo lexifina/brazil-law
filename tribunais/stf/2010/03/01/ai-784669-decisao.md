@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1) AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS CONSTITUCIONAIS SUPOSTAMENTE OFENDIDOS: INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2) RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DOS FUNDAMENTOS DO JULGADO RECORRIDO: INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alíneas a e b, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. SÓCIOS. INADIMPLEMENTO. NOME DO SÓCIO NA CDA.
+1. Não é possível o redirecionamento do feito ao responsável pela empresa devedora de tributo, a menos que o inadimplemento resulte de atos praticados com excesso de poderes ou infração à lei, aos estatutos ou ao contrato social, evidenciados a contento por prova robusta.
+2. Hipótese em que sequer houve alegação de ocorrência de dissolução irregular da empresa, não havendo falar na inclusão de qualquer dos sócios no pólo passivo da execução fiscal.
+3. A presença do nome do sócio na CDA sinaliza tão somente contra quem a execução poderá vir a ser dirigida no caso de impossibilidade da executada principal não efetuar o pagamento. Não autoriza o redirecionamento automático da ação executiva.
+4. Agravo de instrumento desprovido” (fl. 50).
+3. No recurso extraordinário, a Agravante afirma que o Tribunal a quo teria descumprido os arts. 5º, inc. LIV e LV, e 93, inc. IX, da Constituição da República, ao não apreciar questões por ela suscitadas.
+No mérito, assevera que, “na arguição de inconstitucionalidade adotada como fundamento do acórdão recorrido, considerou-se que lei ordinária (art. 13 da lei n. 8.620/93) estaria invadindo a competência reservada constitucionalmente à lei complementar (...). Entendeu-se que o citado dispositivo padece de inegável vício de constitucionalidade” (fl. 73).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento dos dispositivos constitucionais supostamente ofendidos (fls. 149-150).
+A Agravante alega que teria havido o prequestionamento da matéria constitucional.
+Examinada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. As alegações de constitucionalidade do art. 13 da Lei n. 8.620/93 e de contrariedade aos arts. 5º, inc. LIV e LV, e 93, inc. IX, da Constituição da República não foram objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+7. O Tribunal de origem fundamentou-se na interpretação e na aplicação do art. 135 do Código Tributário Nacional e concluiu que o redirecionamento da execução contra os sócios do Agravado não seria automático, pois dependeria da prova da prática de atos com excesso de poderes ou infração à lei.
+Ao contrário do que afirma a Agravante, o julgado recorrido não se embasou na suposta inconstitucionalidade do art. 13 da Lei n. 8.620/93, o que revela a falta de correlação entre as razões do recurso extraordinário e os fundamentos do julgado recorrido.
+Assim, incide na espécie vertente a Súmula 284 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DEFICIENTE: RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA VERSADA NO JULGADO RECORRIDO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 740.817-AgR, de minha relatoria, Primeira Turma, DJe 1º.7.2009 – grifos nossos).
+“PROCESSUAL CIVIL. RAZÕES DO RECURSO QUE NÃO ATACAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 284 DO STF. I - As razões do presente recurso não atacam os fundamentos da decisão agravada, o que impede o seu conhecimento, a teor da Súmula 284 do STF. II - Agravo regimental não conhecido” (RE 457.688-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 23.2.2007 – grifos nossos).
+“AGRAVO REGIMENTAL. RAZÕES DE APELO EXTREMO QUE SE ENCONTRAM DISSOCIADAS DO THEMA DECIDENDUM. Caso em que não há como afastar o óbice da Súmula 284 desta Suprema Corte. Necessidade de reexame do conjunto fático-probatório dos autos para chegar a conclusão diversa da adotada pelo Tribunal de origem. Incidência, também, da Súmula 279 desta colenda Corte. Agravo regimental desprovido” (RE 279.242-AgR, Rel. Min. Carlos Ayres Britto, Primeira Turma, DJ 29.9.2006 – grifos nossos)
+“1. RECURSO. Embargos de declaração. Deficiência na fundamentação do recurso. Súmula 284. Embargos rejeitados. Há fundamentação deficiente de recurso, quando não revele correlação entre as suas razões e os fundamentos da decisão recorrida. 2. RECURSO. Embargos de declaração. Caráter meramente protelatório. Litigância de má-fé. Imposição de multa. Aplicação do art. 538, § único, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a oposição de embargos de declaração manifestamente protelatórios, deve o Tribunal condenar o embargante a pagar multa ao embargado” (RE 511.693-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJe 19.12.2008 – grifos nossos).
+8. Não há, pois, o que prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 1º de março de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
