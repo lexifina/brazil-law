@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão denegatória de recurso extraordinário interposto contra acórdão de fls. 105-107 que, com base nas provas dos autos, deu provimento ao recurso inominado do ora agravado, condenando os agravantes, solidariamente, ao pagamento de quantia referente à corretagem de venda do seu imóvel.
+2.  Nas razões do RE, sustenta-se ofensa aos artigos 5º, X, XXXV, LIV, LV e LVI, e 93, IX, da Constituição Federal.
+ Os recorrentes alegam ter o acórdão se fundamentado em prova ilícita, uma vez que o diálogo utilizado como prova, “ainda que tivesse existido, foi obtido clandestinamente, sem o conhecimento de um dos interlocutores, mais precisamente o 2º recorrente” (fl. 132).
+3.  O recurso não merece prosperar. O Plenário do Supremo Tribunal Federal, ao julgar o RE 583.937/RJ, rel. Min. Cezar Peluso, DJe 18.12.2009, com repercussão geral reconhecida, “reafirmou a jurisprudência da Corte acerca da admissibilidade do uso, como meio de prova, de gravação ambiental realizada por um dos interlocutores”.
+ Dessa orientação não divergiu o acórdão recorrido.
+4.  Ademais, quanto à necessidade de se comprovar a veracidade da gravação, isso demandaria a análise de fatos e provas, hipótese inviável em sede extraordinária (Súmula STF 279).
+5.  Por fim, quanto à alegação de ofensa ao art. 5º e seus incisos, e ao 93, IX, da Constituição Federal, além de o fato de decisão contrária aos interesses da parte não caracterizar violação aos dispositivos constitucionais apontados, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+6.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 1º de março de 2010.
+Ministra Ellen Gracie
+Relatora
