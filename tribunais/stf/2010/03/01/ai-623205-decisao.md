@@ -1,0 +1,13 @@
+DECISÃO: A controvérsia jurídica objeto deste processo já foi dirimida pelo Plenário do Supremo Tribunal Federal, que, ao julgar a ADI 2.666/DF, Rel. Min. ELLEN GRACIE (RTJ 187/524-525), fixou entendimento consubstanciado em acórdão assim ementado:
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONTRIBUIÇÃO PROVISÓRIA SOBRE MOVIMENTAÇÃO OU TRANSMISSÃO DE VALORES E DE CRÉDITOS E DIREITOS DE NATUREZA FINANCEIRA-CPMF (ARTS. 84 E 85, ACRESCENTADOS AO ADCT PELO ART. 3º DA EMENDA CONSTITUCIONAL Nº 37, DE 12 DE JUNHO DE 2002).
+.......................................................
+2 -  Proposta de emenda que, votada e aprovada na Câmara dos Deputados, sofreu alteração no Senado Federal, tendo sido promulgada sem que tivesse retornado à Casa iniciadora para nova votação quanto à parte objeto de modificação. Inexistência de ofensa ao art. 60, § 2º da Constituição Federal no tocante à supressão, no Senado Federal, da expressão ‘observado o disposto no § 6º do art. 195 da Constituição Federal’, que constava do texto aprovado pela Câmara dos Deputados em 2 (dois) turnos de votação, tendo em vista que essa alteração não importou em    mudança substancial do sentido do texto (Precedente: ADC nº 3, rel. Min. Nelson Jobim). Ocorrência de mera prorrogação da Lei nº 9.311/96, modificada pela Lei nº 9.539/97, não tendo aplicação ao caso o disposto no § 6º do art. 195 da Constituição Federal. O princípio da anterioridade nonagesimal aplica-se somente aos casos de instituição ou modificação da contribuição social, e não ao caso de simples prorrogação da lei que a houver instituído ou modificado.
+.......................................................
+4 - Ação direta julgada improcedente.”
+Cumpre ressaltar, por necessário, que essa orientação plenária vem sendo observada em sucessivas decisões, que, proferidas no âmbito desta Corte, versaram questão essencialmente idêntica à que ora se examina nesta sede recursal (AI 440.274-AgR/PR, Rel. Min. SEPÚLVEDA PERTENCE – AI 463.518-AgR/PR, Rel. Min. CARLOS VELLOSO – AI 497.177/PR, Rel. Min. GILMAR MENDES – AI 512.679/SC, Rel. Min. CEZAR PELUSO – RE 382.470-AgR/MG, Rel. Min. ELLEN GRACIE – RE 437.793-AgR/SP, Rel. Min. ELLEN GRACIE, v.g.).
+O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+Sendo assim, e pelas razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+Publique-se.
+Brasília, 1º de março de 2010.
+Ministro CELSO DE MELLO
+Relator
