@@ -1,0 +1,18 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão da Turma Recursal da Seção Judiciária da Bahia e assim ementado:
+“CONSTITUCIONAL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA DE SERVIDOR APOSENTADO. LEGITIMIDADE PASSIVA AD CAUSAM DA UNIÃO. TRIBUTO NÃO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. LEI 9.630/98. PRESCRIÇÃO QUINQUENAL VERIFICADA. RECURSO PROVIDO.
+1. Conquanto descontados pela Universidade Federal da Bahia, as contribuições previdenciárias foram destinadas à União Federal. Legitimidade passiva ad causam da União para compor o pólo passivo da ação.
+2. In casu, não se trata de tributo sujeito à lançamento por homologação, já que o próprio sujeito ativo da relação tributária realiza o lançamento mês a mês.
+3. Em relação ao dies a quo do prazo prescricional, vicejam dois entendimentos, ora vinculando-os à edição da Lei 9.630, de abril de 1998; ora ao trânsito em julgado da ação mandamental que reconheceu indevidos os descontos. Em ambas as hipóteses, encontra-se fulminada pela prescrição qüinqüenal a pretensão as autora, vez que a presente ação somente foi interposta em setembro de 2003.
+4. Recurso provido. Sem condenação em honorários advocatícios, por se tratar de recorrente vencedor (Lei nº 9.099/99, art. 55)” (fl. 136).
+Os recorrentes sustentam, com base no art. 102, III, a, ofensa aos arts. 5º, LIV, LV e 150, II, da Constituição Federal.
+2.   Inadmissível o recurso extraordinário.
+ Os temas constitucionais neste suscitados não foram objeto de consideração no acórdão recorrido, faltando-lhes, assim, o requisito do prequestionamento, que deve ser explícito (súmula 282).
+ Além disso, os embargos de declaração opostos não foram capazes de ultrapassar a exigência da súmula 356. É que a jurisprudência da Corte é pacífica no sentido de não ter por prequestionada a matéria pelo só fato da oposição de embargos declaratórios, sem ter-se caracterizado prévia omissão do tribunal a quo sobre questão constitucional que a parte haja suscitado no recurso sobre que versou a decisão embargada. Noutras palavras, é preciso que a parte tenha proposto questão constitucional não apreciada pelo tribunal local no acórdão impugnável mediante embargos declaratórios. Se a não levantou a parte previamente, não pode o acórdão, que conheceu do recurso, ser tachado de omisso, nem, por conseguinte, ser passível de ataque por embargos tendentes a remediar omissão que não houve. Os embargos de declaração não podem suscitar questão constitucional nova, não argüida no recurso anterior como objeto necessário da decisão embargada. Confiram-se, a respeito, os precedentes:
+“Recurso extraordinário: prequestionamento e embargos de declaração. Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada” (AI nº 246.630-AgR, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 18.9.2001. No mesmo sentido: AI nº 101.689-AgR, Rel. Min. RAFAEL MAYER, DJ de 1º.4.85; RE nº 114.682, Rel. Min. OTTAVIO GALLOTTI, DJ de 13.12.91; RE nº 358.309-AgR, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 27.6.2003).
+Ademais, para justificar seu teor decisório, o acórdão se valeu de fundamento autônomo e suficiente (Decreto-Lei nº 20.910/32 e Lei nº 9.630/98) não atacado pela recorrente no recurso extraordinário. E não houve interposição de recurso especial, o que atrai a aplicação da súmula 283.
+São as razões aplicáveis ao caso.
+3.  Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+ Brasília, 1º de março de 2010.
+Ministro CEZAR PELUSO
+Relator
