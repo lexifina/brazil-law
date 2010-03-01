@@ -1,0 +1,20 @@
+DECISÃO
+EMBARGOS À EXECUÇÃO - PRAZO – MEDIDA PROVISÓRIA Nº 2.180-35/2001 – ARTIGO 1º-B DA LEI FEDERAL Nº 9.494/97 – CAUTELAR NA DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 11-8/DF – INOBSERVÂNCIA – RECLAMAÇÃO – LIMINAR DEFERIDA.
+1.  A Assessoria assim revelou as balizas desta impetração:
+O Município de Belo Horizonte impugna acórdão do Tribunal de Justiça do Estado de Minas Gerais, nos Embargos de Declaração na Apelação Cível nº 1.0024.513616-8/002 (folha 39 a 41), mediante o qual, reformando a sentença do Juízo, declarada a inconstitucionalidade do artigo 1º-B da Lei nº 9.494/93, acrescentado pela Medida Provisória nº 2.180-35/2001, que altera para trinta dias o prazo previsto no artigo 730 do Código de Processo Civil, julgando intempestivos os embargos do devedor opostos pela fazenda municipal. Na origem, o Juízo teria acolhido os embargos - formalizados contra a exigência de multa cominatória, em ação civil pública, a ser recolhida em favor do Fundo Municipal de Saneamento - tendo em conta a confusão, considerada a gestão do fundo credor pela Secretaria Municipal de Finanças.
+O requerente alega inobservância à autoridade da decisão mediante a qual o Supremo deferiu o pedido de medida acauteladora na Ação Declaratória de Constitucionalidade nº 11/SP, da relatoria do Ministro Cezar Peluso, publicada no Diário de 29 de junho de 2007 (folha 43), para, em juízo precário, suspender o curso dos processos em que suscitada a inconstitucionalidade do artigo 1º-B da Medida Provisória nº 2.180-35/2001.
+Sob o ângulo do risco, aponta a imediata exigência de multa cominatória, no valor de R$ 7.839.484,37, a ser recolhida em favor do Fundo Municipal de Saneamento, tendo em conta a necessidade de desviar montantes destinados a outras despesas, considerada a previsão orçamentária. Requer o deferimento de medida acauteladora para suspender, até o julgamento da reclamação, o acórdão atacado e a tramitação do processo. Alfim, pleiteia a cassação do ato em definitivo.
+À folha 46, Vossa Excelência projetou o exame do pedido de liminar para o período posterior à vinda das informações.
+O interessado, intimado às folhas 56 e 60, quedou silente.
+A autoridade reclamada, à folha 62, junta documentos e diz da interposição de recursos extraordinário e especial contra o acórdão atacado, ambos em fase de processamento.
+O processo está concluso para o exame do pleito de medida acauteladora.
+Anoto a ausência de cópias das iniciais da ação civil pública e dos embargos de devedor; da sentença formalizada nos embargos pelo Juízo; das peças reveladoras dos recursos de apelação especial e extraordinário e da exigência da quantia executada.
+2.  Em 28 de março de 2007, o Plenário deferiu medida cautelar na Ação Declaratória de Constitucionalidade nº 11-8/SP para suspender “todos os processos em que se discuta a constitucionalidade do art. 1º-B da Medida Provisória nº 2.180-35” – folha 13. Pois bem, a decisão do Tribunal de Justiça de Minas Gerais data de 25 de junho de 2009. Nela consta o afastamento da incidência do dispositivo legal que elasteceu o referido prazo (folha 40):
+Isto porque o art. 1º-B da Lei nº 9.494/97, acrescentado pela Medida Provisória nº 2.180-35, de 24/08/2001, que aumentou o referido interregno para trinta dias, é inconstitucional, como tem decidido a jurisprudência (sic), a exemplo do TST no incidente de inconstitucionalidade TST – RR 70/1992-011-04-00.7 (DJU 23/09/2005).
+ Ao que tudo indica, o Tribunal de Justiça, fiel à organicidade do Direito, especialmente a instrumental, não levou em conta o pronunciamento do Supremo. Caso contrário, teria observado a suspensão nele contida.
+3.  Defiro a medida acauteladora para suspender, até o julgamento final desta reclamação, a eficácia do que decidido no processo relativo à Apelação Cível nº 1.0024.07.513616-8/01, da Comarca de Belo Horizonte, considerado o afastamento do preceito referente à dilatação do prazo dos embargos à execução.
+4.  Colham o parecer do Procurador-Geral da República.
+5.  Publiquem.
+Brasília – residência –, 1º de março de 2010, às 16h10.
+Ministro MARCO AURÉLIO
+Relator
