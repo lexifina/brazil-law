@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Artes Visual Comércio Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, caput, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Décima Nona Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“HONORÁRIOS ADVOCATÍCIOS – Sentença de extinção com julgamento do mérito – Ausência de dilação probatória – Defesa apresentada por Curador Especial – Valor da causa de R$ 340.000,00 - Arbitramento em R$ 10.000,00 – Equidade – Moderação – Inteligência do art. 20, § 4º, do CPC – recurso parcialmente provido para este fim” (fl. 21.)
+Opostos embargos de declaração (fls. 31 a 33), foram rejeitados (fls. 37/38).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 31/3/06, conforme expresso na certidão de folha 39, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, uma vez que o artigo 5º, caput, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que o acórdão proferido pelo Tribunal de origem não cuidou da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pelo ora recorrente. Incidência das Súmulas nºs 282 e 356 desta Corte.
+Ademais, o Tribunal de origem decidiu a controvérsia relativa à fixação de honorários advocatícios com fundamento na legislação infraconstitucional e na prova documental dos autos. Sobre o tema o acórdão recorrido assim consignou:
+“(...)
+Diz o parágrafo 3% do citado art. 20 do CPC, que os honorários são fixados entre 10% e 20% do valor da condenação, levando-se em consideração variantes como zelo do profissional, lugar de prestação do serviço, natureza e importância da causa, o trabalho realizado, tempo, etc; justificando-se, outrossim, o arbitramento em valor equitativo, nos termos do parágrafo 4º do art. 20 do CPC, atendidas as mesmas, quando a causa for de pequeno valor; valor inestimável ou exorbitante.” (fl. 21).
+Nesse caso, a alegada violação do dispositivo constitucional invocado seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Anote-se:
+“1. RECURSO. Extraordinário. Inadmissibilidade. Pensionista. Condição de ex-combatente para fins de percepção de pensão especial. Interpretação da Lei nº 5.315/67. Matéria infraconstitucional. Agravo regimental não provido. Precedentes. Não cabe recurso extraordinário que tenha por objeto alegação de ofensa indireta à Constituição Federal, por má aplicação de norma infraconstitucional. 2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (AI nº 565.169/RJ-AgR, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 11/11/05).
+“CONSTITUCIONAL. MILITAR. EX-COMBATENTE: CONCEITO. PENSÃO ESPECIAL. ADCT/88, art. 53, II. Lei 5.315, de 1967. I. - O ADCT/88, art. 53, caput, não conceitua o ex-combatente, deixando para a Lei 5.315/67 defini-lo. É na Lei 5.315/67, portanto, que se deve buscar o conceito de ex-combatente que fará jus aos benefícios inscritos nos incisos do citado art. 53, ADCT. A questão, pois, de índole infraconstitucional, não integra o contencioso constitucional. II. - Caso em que poderia ocorrer ofensa indireta ao art. 53, ADCT, o que não autoriza a admissão do recurso extraordinário. III. - Agravo não provido” (AI nº 478.472/SC-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 3/12/04).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 1º de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
