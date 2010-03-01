@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo de instrumento não impugna todos os fundamentos em que se apóia o acórdão recorrido.
+Isso significa - considerando-se o que enuncia a Súmula  283/STF - que o recurso extraordinário em questão revela-se inadmissível, porque, não obstante a existência de mais de um fundamento suficiente, apto a sustentar, por si só, a decisão recorrida, o apelo extremo não impugnou, de maneira necessariamente abrangente, todos eles.
+Cabe enfatizar, neste ponto, que qualquer dos fundamentos jurídicos em que se apóia o acórdão recorrido revela-se bastante para viabilizar a subsistência autônoma da decisão em causa, fazendo incidir, sobre o mencionado apelo extremo, a fórmula jurisprudencial consubstanciada na Súmula 283/STF, segundo a qual “É inadmissível recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+A jurisprudência do Supremo Tribunal Federal, por mais de uma vez, já se pronunciou no sentido da imprescindibilidade de a parte recorrente, quando da interposição do recurso extraordinário, impugnar todos os fundamentos suficientes que dão suporte ao acórdão recorrido (RTJ 152/243-244, Rel. Min. SEPÚLVEDA PERTENCE - RTJ 175/1149-1150, Rel. Min. ILMAR GALVÃO – RE 217.726/RS, Rel. Min. MOREIRA ALVES - RE 318.090-AgR/MG, Rel. Min. ELLEN GRACIE - RE 364.018-AgR/DF, Rel. Min. ELLEN GRACIE, v.g.):
+“RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. (...). FUNDAMENTO SUFICIENTE NÃO IMPUGNADO NO APELO EXTREMO.
+1. Na hipótese, o acórdão impugnado adota dois fundamentos suficientes (...).
+2. O recurso extraordinário, todavia, abrange apenas o primeiro deles. Incidência da Súmula STF nº 283.
+3. Agravo regimental improvido.”
+(RE 402.097-AgR/DF, Rel. Min. ELLEN GRACIE - grifei)
+De outro lado, e no que se refere à alegada violação ao art. 97 da Constituição, cabe observar que a pretensão recursal ora deduzida também se revela inacolhível, eis que a análise do acórdão recorrido evidencia que, na espécie, não houve qualquer declaração de inconstitucionalidade de diploma legislativo ou de ato normativo a ele equivalente, em clara demonstração de que se revela impertinente, na espécie, a fundamentação com que a parte ora agravante pretendeu justificar a interposição do recurso extraordinário.
+No caso em análise, como já enfatizado, não houve qualquer declaração de inconstitucionalidade, tanto que o acórdão impugnado em sede recursal extraordinária resultou de julgamento efetuado por órgão fracionário do E. Tribunal de Justiça do Estado do Rio de Janeiro, considerada, na espécie, a inaplicabilidade da cláusula inscrita no art. 97 da Constituição da República, cuja prescrição – ressalte-se – somente incidirá na hipótese de a decisão do Tribunal importar em proclamação da invalidade constitucional de determinado ato estatal (RTJ 95/859 – RTJ 96/1188 – RT 508/217 – RF 193/131):
+“Nenhum órgão fraccionário de qualquer Tribunal dispõe de competência, no sistema jurídico brasileiro, para declarar a inconstitucionalidade de leis ou atos emanados do Poder Público. Essa magna prerrogativa jurisdicional foi atribuída, em grau de absoluta exclusividade, ao Plenário dos Tribunais ou, onde houver, ao respectivo Órgão Especial. Essa extraordinária competência dos Tribunais é regida pelo princípio da reserva de Plenário, inscrito no artigo 97 da Constituição da República.
+Suscitada a questão prejudicial de constitucionalidade perante órgão fraccionário de Tribunal (Câmaras, Grupos, Turmas ou Seções), a este competirá, em acolhendo a alegação, submeter a controvérsia jurídica ao Tribunal Pleno.”
+(RTJ 150/223-224, Rel. Min. CELSO DE MELLO)
+Vê-se, portanto, no tocante à suposta transgressão ao art. 97 da Constituição, que não se revela viável o recurso extraordinário interposto pela parte ora agravante, em face da própria ausência de declaração de inconstitucionalidade, efetivamente inexistente na espécie ora em exame.
+Sendo assim, e pelas razões expostas, nego provimento ao presente agravo de instrumento.
+Publique-se.
+Brasília, 1º de março de 2010.
+Ministro CELSO DE MELLO
+Relator
