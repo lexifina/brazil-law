@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que concluiu pela competência da Justiça Estadual Comum para julgar ação indenizatória iniciada antes da promulgação da EC 45/2004 (Fls. 241-244).
+2.  No RE, sustenta-se ofensa ao artigo 114, da Constituição Federal (fls. 389-396).
+3.  Assiste razão à parte agravante. O Plenário do Supremo Tribunal Federal no julgamento do CC 7.204/MG, rel. MIn. Ayres Britto, DJ 09.12.2005, fixou entendimento de que com a promulgação da EC 45/2004, o julgamento das ações em curso e sem sentença de mérito que versem sobre indenização decorrente de acidente de trabalho é de competência da Justiça do Trabalho. Destaco o seguinte trecho da ementa do acórdão supracitado:
+ “ 3. Nada obstante, como imperativo de política judiciária -- haja vista o significativo número de ações que já tramitaram e ainda tramitam nas instâncias ordinárias, bem como o relevante interesse social em causa --, o Plenário decidiu, por maioria, que o marco temporal da competência da Justiça trabalhista é o advento da EC 45/04. Emenda que explicitou a competência da Justiça Laboral na matéria em apreço. 4. A nova orientação alcança os processos em trâmite pela Justiça comum estadual, desde que pendentes de julgamento de mérito. É dizer: as ações que tramitam perante a Justiça comum dos Estados, com sentença de mérito anterior à promulgação da EC 45/04, lá continuam até o trânsito em julgado e correspondente execução. Quanto àquelas cujo mérito ainda não foi apreciado, hão de ser remetidas à Justiça do Trabalho, no estado em que se encontram, com total aproveitamento dos atos praticados até então.”
+ No presente caso, não houve sentença de mérito antes da promulgação da EC 45/2004. Dessa forma, o acórdão recorrido divergiu da orientação firmada por esta Corte.
+4.  Ante o exposto, conheço do agravo, e, desde logo, dou provimento ao recurso extraordinário, nos termos do art. 557, § 1°-A, do CPC, fixar a competência da Justiça do Trabalho para o julgamento da presente causa.
+Publique-se.
+Brasília, 1º de março de 2010
+Ministra Ellen Gracie
+Relatora
