@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento interposto, mediante fax, dentro do prazo legal.
+Com a superveniência da Lei nº 9.800, de 26/05/1999, permitiu-se às partes a utilização de fac-símile ou de outro sistema similar de transmissão de dados ou imagens, para a prática de atos processuais em geral, devendo, no entanto, a parte recorrente, atender às exigências da legislação processual (CPC, art. 544, § 1º, no caso), consoante explicita a norma inscrita no parágrafo único do art. 1º da Resolução STF nº 179, de 26/07/1999:
+“Art. 1º É permitida às partes a utilização do sistema de transmissão de dados e imagens tipo fac-símile (fax) para a prática de atos processuais que dependam de petição escrita, nos termos da Lei 9.800, de 26 de maio de 1999.
+Parágrafo único. As petições transmitidas deverão atender às exigências da legislação processual.” (grifei)
+Ocorre, no entanto, que a parte ora agravante descumpriu essa obrigação processual, pois o agravo de instrumento que deduziu mediante reprodução fac-similar veio desacompanhado de todas as peças que deveriam compor o traslado, cuja formação incumbe, exclusivamente, a quem se utiliza dessa modalidade recursal.
+Não custa enfatizar, neste ponto, que, sem que a parte agravante promova a adequada e integral formação do instrumento, com a apresentação de todas as peças que dele devem constar obrigatoriamente, ou com qualquer outra que seja essencial à compreensão da controvérsia, ou, até mesmo, à aferição da própria tempestividade do recurso extraordinário deduzido (RTJ 131/1403, Rel. Min. CELSO DE MELLO), torna-se inviável conhecer do recurso de agravo (AI 214.562-AgR/SC, Rel. Min. MOREIRA ALVES), cabendo advertir, ainda, que a composição do traslado deve processar-se, necessariamente, perante o Tribunal “a quo” (RTJ 144/948, Rel. Min. CELSO DE MELLO - AI 199.935-AgR/SP, Rel. Min. MAURÍCIO CORRÊA).
+Cumpre ressaltar, finalmente, que esse entendimento também se aplica às hipóteses em que a parte recorrente interpõe agravo de instrumento mediante fax, como sucedeu na espécie (AI 461.660-AgR/SP, Rel. Min. SEPÚLVEDA PERTENCE – AI 496.575-AgR/SP, Rel. Min. GILMAR MENDES – AI 604.139/PR, Rel. Min. MARCO AURÉLIO, v.g.):
+“Agravo regimental em agravo de instrumento. 2. Agravo de instrumento interposto por meio de fac-símile. Ausência das peças exigidas pelo art. 544, do CPC, quando da transmissão. Falta de peças. Recurso negado. 3. Lei n.º 9.800/99. A interposição do recurso por meio de fac-símile não desobriga a parte de comprovar sua regularidade formal no prazo estipulado pela norma processual. Resolução/STF n.º 179/99, artigo 1º, parágrafo único. 4. Agravo regimental a que se nega provimento.”
+(AI 367.151-AgR/MG, Rel. Min. GILMAR MENDES - grifei)
+Sendo assim, e em face das razões expostas, não conheço do presente agravo de instrumento (Súmula 288/STF).
+Publique-se.
+Brasília, 1º de março de 2010.
+Ministro CELSO DE MELLO
+Relator
