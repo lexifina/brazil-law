@@ -1,0 +1,12 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo de instrumento foi interposto contra acórdão, que, proferido pelo E. Superior Tribunal de Justiça, teria transgredido preceitos inscritos na Constituição da República.
+O apelo extremo em questão revela-se insuscetível de conhecimento.
+É que o acórdão emanado do Tribunal Regional Federal da 2ª Região, por assentar-se em duplo fundamento, deveria ter sofrido, quando de sua impugnação recursal, a dupla interposição, tanto do recurso especial (para o STJ) quanto do recurso extraordinário (para o STF).
+Como o apelo extremo deixou de ser então deduzido, registrou-se, no caso, em face da própria inocorrência de sua interposição, hipótese configuradora de preclusão referente à motivação de ordem constitucional.
+Não pode, desse modo, a parte ora recorrente - a quem se impunha o dever de interpor, contra o acórdão proferido pelo Tribunal Regional Federal da 2ª Região, o pertinente recurso extraordinário - deduzir, agora, em momento procedimental já superado no tempo, o apelo extremo em questão, pois não mais lhe assiste o direito de fazê-lo, em virtude da configuração, na espécie, de típica hipótese caracterizadora de preclusão pertinente à própria fundamentação constitucional.
+Cabe acentuar, no ponto, que esse entendimento tem prevalecido na jurisprudência do Supremo Tribunal Federal, que, por mais de uma vez, já afirmou, quanto à matéria ora em exame, que o acórdão do Superior Tribunal de Justiça somente legitimará o uso da via recursal extraordinária, se, nesse próprio acórdão, desenhar-se, originariamente, a questão de direito constitucional.
+Se a controvérsia constitucional, no entanto, surgir, como no caso, em sede jurisdicional inferior, caberá, à parte interessada, interpor o concernente recurso extraordinário contra a decisão emanada do Tribunal de segundo grau, pois terá sido este, e não o STJ, o órgão judiciário responsável pela resolução, “incidenter tantum”, da questão de constitucionalidade (RTJ 153/684 - RTJ 155/609 - AI 149.518-AgR/SP, Rel. Min. CARLOS VELLOSO – AI 149.534-AgR/SP, Rel. Min. CELSO DE MELLO – AI 152.866-AgR/SP, Rel. Min. SEPÚLVEDA PERTENCE - AI 155.696-AgR/SP, Rel. Min. CELSO DE MELLO - AI 156.829-AgR/SP, Rel. Min. CELSO DE MELLO - AI 256.572/GO, Rel. Min. MOREIRA ALVES, v.g.).
+Sendo assim, e pelas razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela insuscetível de conhecimento o recurso extraordinário a que ele se refere.
+Publique-se.
+Brasília, 1º de março de 2010.
+Ministro CELSO DE MELLO
+Relator
