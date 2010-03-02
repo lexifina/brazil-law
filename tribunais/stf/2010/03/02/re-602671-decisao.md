@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - MATÉRIA FÁTICA – INVIABILIDADE – RECURSO EXTRAORDINÁRIO – NEGATIVA DE SEGUIMENTO.
+1.  O Tribunal de Justiça do Estado do Rio Grande do Norte negou acolhida a pedido formulado em apelação, ante fundamentos assim resumidos (folhas 3.920 e 3.921):
+CIVIL E PROCESSUAL CIVIL. INDENIZAÇÃO. PRELIMINARES DE AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA SENTENÇA, DE NEGATIVA DE SEGUIMENTO AO RECURSO E DE CONFIGURAÇÃO DA REVELIA. REJEIÇÃO. TABAGISMO. RESPONSABILIDADE CIVIL DO FABRICANTE. RESULTADO DANOSO ATRIBUÍDO ÀS EMPRESAS FUMAGEIRAS EM VIRTUDE DA COLOCAÇÃO NO MERCADO DE PRODUTO SABIDAMENTE NOCIVO, INSTIGANDO E PROPICIANDO SEU CONSUMO, POR MEIO DE PUBLICIDADE ENGANOSA. INEXISTÊNCIA DE NEXO DE CAUSALIDADE. AUSÊNCIA DE PROVA DE QUE O REQUERENTE FUMA CIGARROS DA PROMOVIDA, OU DE QUE SUA DOENÇA TEM COMO CAUSA O FUMO. DESPROVIMENTO DO RECURSO. PRECEDENTES.
+-   O consumidor não é obrigado a consumir os produtos à venda no mercado. Se o faz, pratica ato de seus exclusivos arbítrio e responsabilidade. Logo, posteriormente, não pode atribuir ao produtor a culpa por tê-los consumido, de forma que o fato de alguém fumar durante anos e contrair câncer de laringe e esôfago não autoriza o pedido de indenização sem provar o nexo de causalidade entre a prática do tabagismo e o surgimento da moléstia.
+-  Não havendo nexo causal comprovado entre a doença do autor e o consumo de cigarros, não se justifica, em tal hipótese, a imposição do dever de indenizar ao fabricante, ainda mais quando se constata que a perícia médica levada a efeito aponta ser o mesmo portador de outros fatores de risco
+2.  A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+Para simples reexame de prova não cabe recurso extraordinário.
+As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+ A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+3.  Nego seguimento a este extraordinário.
+4.  Publiquem.
+Brasília, 2 de março de 2010.
+Ministro MARCO AURÉLIO
+Relator
