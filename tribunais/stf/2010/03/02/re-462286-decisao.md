@@ -1,0 +1,13 @@
+Trata-se de recursos extraordinários interpostos contra acórdão que julgou parcialmente legítima a limitação da compensação dos prejuízos fiscais e da base de cálculo negativa apurados em exercícios anteriores, no cálculo do imposto de renda e da contribuição social sobre o lucro, nos termos dos arts. 42 e 58 da Lei 8.981/95 e arts. 15 e 16 da Lei 9.065/95, reconhecendo ofensa apenas ao art. 195, § 6º, da Constituição.
+No RE da empresa DRAGOCO PERFUMES E AROMAS LTDA, sustentou-se, em suma, a inconstitucionalidade total dos referidos dispositivos legais, enquanto que no RE da UNIÃO, busca-se sua constitucionalidade integral.
+A pretensão recursal da UNIÃO não merece prosperar.
+Verifico que o recurso extraordinário da UNIÃO é extemporâneo, uma vez que foi protocolizado em 20/11/2000 (fl. 465), antes da publicação do acórdão proferido em embargos de declaração, que se deu em 13/3/2002 (fl. 448).
+Com efeito, a Corte firmou entendimento no sentido de considerar extemporâneo o recurso extraordinário interposto antes da publicação do acórdão dos embargos de declaração opostos contra o aresto de que se recorre, sem que haja a devida ratificação do ato, sendo irrelevante que somente a outra parte tenha embargado e ainda que mantida substancialmente a decisão embargada.
+Nesse sentido, menciono as seguintes decisões, entre outras: AI 742.998-AgR/SP, Rel. Min. Eros Grau; RE 449.252-AgR/AL, Rel. Min. Cármen Lúcia; AI 619.519-ED/MG, Rel. Min. Cezar Peluso; AI 699.119-AgR/SC, Rel. Min. Menezes Direito; AI 502.004-AgR/MG, Rel. Min. Carlos Britto; AI 375.124-AgR-ED/MG, Rel. Min. Celso de Mello; AI 571.064-AgR/RS, de minha relatoria.
+Quanto ao recurso interposto pela DRAGOCO PERFUMES E AROMAS LTDA, o Plenário desta Corte, em 20/8/2008, ao apreciar Questão de Ordem suscitada no RE 540.410/RS, Rel. Min. Cezar Peluso, decidiu estender a aplicação do art. 543-B do Código de Processo Civil aos recursos cujo tema constitucional apresente repercussão geral reconhecida pelo Plenário, ainda que interpostos contra acórdãos publicados antes de 3 de maio de 2007.
+No caso, este último recurso extraordinário versa sobre matéria cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (RE 591.340-RG/SP, Rel. Min. Marco Aurélio).
+Isso posto, nego seguimento ao recurso extraordinário da UNIÃO (CPC, art. 557, caput) e determino, com fundamento no art. 328, parágrafo único, do RISTF, a devolução destes autos ao Tribunal de origem para que seja observado, quanto ao recurso da DRAGOCO PERFUMES E AROMAS LTDA, o disposto no art. 543-B do CPC, visto que neste extraordinário discute-se questão que será apreciada no RE 591.340-RG/SP.
+Publique-se.
+Brasília, 2 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
