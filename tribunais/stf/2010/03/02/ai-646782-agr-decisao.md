@@ -1,0 +1,28 @@
+Trata-se de agravo regimental interposto contra decisão que, em 13/4/2007, negou seguimento ao agravo de instrumento. Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido entendeu que é devida a contribuição previdenciária uma vez que há, entre a cooperativa e os médicos, ato puramente negocial.
+No recurso extraordinário, interposto com base no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 195, I, da mesma Carta.
+O agravo não merece acolhida. O Plenário do Supremo Tribunal Federal, no julgamento do RE 228.321/RS, Rel. Min. Carlos Velloso, decidiu pela constitucionalidade da contribuição instituída pela Lei Complementar nº 84, de 1996, inclusive para as cooperativas, conforme se vê da ementa a seguir transcrita:
+“CONSTITUCIONAL. TRIBUTÁRIO. PREVIDENCIÁRIO. CONTRIBUIÇÕES SOCIAIS: EMPRESÁRIOS. AUTÔNOMOS e AVULSOS. Lei Complementar nº 84, de 18.01.96: CONSTITUCIONALIDADE.
+I. - Contribuição social instituída pela Lei Complementar nº 84, de 1996: constitucionalidade.
+II. - R.E. não conhecido.” (DJU 30/5/2003)
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 258.470/RS, Rel. Min. Moreira Alves; RE 246.257-AgR/SP, Rel. Min. Sydney Sanches; AI 448.875-AgR/SC, Rel. Min. Carlos Velloso; RE 462.400/CE, Rel. Min. Sepúlveda Pertence.
+Isso posto, nego seguimento ao recurso” (fl. 500).
+A agravante, em síntese, sustenta que a cobrança efetuada na execução fiscal e avalizada pelo acórdão recorrido abrangeria período anterior à edição da Lei Complementar 84/1996 – entre maio de 1990 e maio de 1991-, ou seja, período cuja incidência da contribuição social sobre a remuneração paga a administradores e autônomos não teria sido autorizada por lei complementar, conforme entendimento pacificado no Supremo Tribunal Federal.
+Assiste razão à agravante. Reconsidero a decisão de fl. 500.
+Bem examinados os autos, verifico que o período de incidência da contribuição social, no caso dos autos, é anterior à Lei Complementar 84/1996. Assim, inaplicável o entendimento desta Corte pela constitucionalidade da contribuição instituída pela citada Lei, como fundamento da decisão que negou seguimento ao agravo.
+Superado este óbice, contudo, o recurso não merece prosperar.
+Isso porque, a Segunda Turma do Superior Tribunal de Justiça, Rel. Min. Eliana Calmon, ao julgar os segundos embargos de declaração opostos contra o recurso especial decidiu que
+“Não há como prosperar a pretensão da embargante, pois o voto divergente do juiz revisor Élcio Pinheiro de Castro não foi o que prevaleceu no julgamento prolatado pelo Tribunal de origem, motivo pelo qual não se aplica a Súmula 126/STJ que se transcreve:
+É INADMISSÍVEL RECURSO ESPECIAL, QUANDO O ACÓRDÃO RECORRIDO ASSENTA EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL, QUALQUER DELES SUFICIENTE, POR SI SÓ, PARA MANTÊ-LO, E A PARTE VENCIDA NÃO MANIFESTA RECURSO EXTRAORDINÁRIO.
+Observo que o voto divergente não é fundamento suficiente, por si só, para manter o julgado. Assim, não há falar em aplicação do referido enunciado
+Com essas considerações, rejeito os embargos de declaração” (fl. 270).
+Dessa forma, é pacífico o entendimento nesta Corte de que não cabe rever, em recurso extraordinário, questões processuais de natureza infraconstitucional relativas aos requisitos de admissibilidade de recurso da competência do Superior Tribunal de Justiça. Nesse sentido, menciono julgados de ambas as Turmas desta Corte:
+“Recurso extraordinário: inadmissibilidade: acórdão que decidiu questão relativa ao cabimento de embargos de divergência em recurso especial, que se esgota no âmbito da jurisdição do Superior Tribunal de Justiça; ausência de prequestionamento do dispositivo constitucional tido por violado” (AI 245.920-AgR/CE, Rel. Min. Sepúlveda Pertence).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. PRESSUPOSTOS DE ADMISSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. A decisão do Superior Tribunal de Justiça, que dá provimento a embargos de divergência para conhecer do recurso especial e determina o retorno dos autos à Primeira Turma daquele Tribunal para continuidade do julgamento, diz respeito às normas processuais de natureza infraconstitucional, circunstância impeditiva da subida do extraordinário. Agravo regimental a que se nega provimento” (AI 591.815-AgR/PR, Rel. Min. Eros Grau).
+“AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CARTA POLÍTICA - REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL (STJ) - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO DA REPÚBLICA - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. - A jurisprudência do Supremo Tribunal Federal firmou entendimento no sentido de que a discussão em torno dos requisitos de admissibilidade do recurso especial, dirigido ao Superior Tribunal de Justiça, não viabiliza o acesso à via recursal extraordinária, por tratar-se de tema de caráter eminentemente infraconstitucional, exceto se o julgamento emanado dessa Alta Corte judiciária apoiar-se em premissas que conflitem, diretamente, com o que dispõe o art. 105, III, da Carta Política. Precedentes” (AI 442.654-AgR/PE, Rel. Min. Celso de Mello).
+Cito, ainda, entre outros precedentes: AI 399.530-AgR, Rel. Min. Gilmar Mendes; AI 521.875-AgR/SP, Rel. Min. Joaquim Barbosa; AI 551.506-AgR/RJ, Rel. Min. Eros Grau; AI 626.814-ED/MG, Rel. Min. Menezes Direito.
+Isso posto, reconsidero a decisão de fl. 500, e nego seguimento ao recurso.
+Publique-se.
+Brasília, 2 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
