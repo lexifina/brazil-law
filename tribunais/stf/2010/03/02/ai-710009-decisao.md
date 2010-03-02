@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL E DA AMPLA DEFESA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Superior Tribunal de Justiça:
+“PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. ATO DE IMPROBIDADE ADMINISTRATIVA. DANO AO ERÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. MINISTÉRIO PÚBLICO. LEGITIMIDADE ATIVA. INEXISTÊNCIA DE PREJUÍZO AO ERÁRIO. 1. Não viola o artigo 535, II, do CPC, nem importa negativa de prestação jurisdicional, o acórdão que adota fundamentação suficiente para decidir de modo integral a controvérsia posta.
+2. Não pode ser conhecido recurso especial cujo provimento dependa do reexame do material fático-probatório dos autos, a teor do entendimento expresso na Súmula 7/STJ” (fl. 176).
+3. Os embargos de declaração opostos foram acolhidos, sem efeitos modificativos, para sanar omissão no acórdão recorrido (fls. 221-224).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula 282 do Supremo Tribunal Federal e a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fl. 239).
+5. O Agravante alega que teria sido contrariado o art. 5º, inc. LV, da Constituição da República.
+Argumenta que, “ao reconhecer que o Tribunal a quo deixou de apreciar a questão relativa à prova ilícita, sem, contudo, modificar o resultado de seu julgado, a Primeira Turma do STJ transgrediu de maneira frontal e ofendeu diretamente o princípio do devido processo legal e da ampla defesa” (fl. 234).
+Analisada a matéria posta à apreciação, DECIDO.
+6. Razão jurídica não assiste ao Agravante.
+7. O Tribunal a quo asseverou que:
+“Com razão o embargante, pois o acórdão ora embargado não se manifestou expressamente acerca da alegação relativa à ausência de manifestação do Tribunal de origem quanto à tese atinente às provas ilícitas. Entretanto, reafirmando o ponto da decisão embargada que trata da irresignação, não viola o art. 535, II, do CPC, nem importa negativa de prestação jurisdicional, o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adotou, entretanto, fundamentação suficiente para decidir de modo integral a controvérsia posta” (fl. 222).
+8. A jurisprudência do Supremo Tribunal Federal respalda o entendimento do Superior Tribunal de Justiça no sentido de que o magistrado não está obrigado a manifestar-se sobre todos os argumentos apresentados pelo recorrente, sendo suficiente a decisão fundamentada e coerente na solução jurídica apontada.
+Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. OMISSÃO. INEXISTÊNCIA. O MAGISTRADO NÃO ESTÁ OBRIGADO A RESPONDER TODOS OS FUNDAMENTOS ALEGADOS PELO RECORRENTE. PIS. LEI N. 9.715/98. CONSTITUCIONALIDADE. 1. A controvérsia foi decidida com respaldo em fundamentos adequados, inexistindo omissão a ser suprida. Este Tribunal fixou entendimento no sentido de que o magistrado não está vinculado pelo dever de responder todos os fundamentos alegados pela parte recorrente. Precedentes. 2. Esta Corte afastou a suposta inconstitucionalidade das alterações introduzidas pela Lei n. 9.715/98, admitindo a majoração da contribuição para o PIS mediante a edição de medida provisória. Precedentes. Agravo regimental a que se nega provimento” (RE 511.581-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 15.8.2008).
+“RECURSO EXTRAORDINÁRIO. LIMITAÇÃO DE JUROS. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. FALTA DE PREQUESTIONAMENTO. Tendo o acórdão recorrido adotado fundamento de natureza infraconstitucional para limitar os juros a 12% ao ano, a alegada ofensa Constitucional se existente seria indireta. O relator não está obrigado a apreciar todos os argumentos apresentados pelo recorrente, se os fundamentos de que se serviu são suficientes para embasar a decisão. Agravo regimental improvido” (RE 364.079-AgR, Rel. Min. Ellen Gracie, Primeira Turma, DJ 28.3.2003 – grifos nossos).
+9. Além disso, a jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa reflexa à Constituição da República. Nesse sentido:
+“A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+Nada há, pois, a prover quanto às alegações do Agravante.
+10. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de março de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
