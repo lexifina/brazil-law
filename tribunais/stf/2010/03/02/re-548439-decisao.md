@@ -1,0 +1,10 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+“AGRAVO INTERNO MANEJADO CONTRA DECISÃO DO RELATOR QUE NEGOU SEGUIMENTO LIMINAR A AGRAVO DE INSTRUMENTO ANTERIORMENTE INTERPOSTO. EXECUÇÃO DE SENTENÇA. DÍVIDA DE PEQUENO VALOR. DISPENSA DE PRECATÓRIO. POSSIBILIDADE, POR AINDA NÃO DEFLAGRADA A EXECUÇÃO CONJUNTA PELO RITO DO ART. 730 DO CPC. NEGATIVA DE SEGUIMENTO LIMINAR DO AGRAVO DE INSTRUMENTO, QUE SE IMPUNHA, NA FORMA DO QUE DISPÕE O ART. 557. CAPUT, DO CPC. Tratando-se de dívida de pequeno valor, é possível, a fim de que se concretize o direito que emana do parágrafo 3º, do art. 100, da CF, com a redação que lhe foi dada pela Emenda Constitucional nº 30/00, sua cobrança independentemente de precatório. Art. 87 do ADCT, com a redação que lhe foi dada pela Emenda Constitucional nº 37/00. Aplicação por analogia, da regra inserta no art. 128, da Lei Federal nº 8.213/91, com a redação dada pela Lei Federal nº 10.099/00. Precedentes da Câmara. AGRAVO INTERNO NÃO PROVIDO” (fl. 53).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXV, e 100, § 4º, da mesma Carta.
+O Plenário desta Corte, em 20/8/2008, ao apreciar Questão de Ordem suscitada no RE 540.410/RS, Rel. Min. Cezar Peluso, decidiu estender a aplicação do art. 543-B do Código de Processo Civil aos recursos cujo tema constitucional apresente repercussão geral reconhecida pelo Plenário, ainda que interpostos contra acórdãos publicados antes de 3 de maio de 2007.
+A repercussão geral do tema constitucional debatido nos presentes autos foi submetida aos Ministros desta Corte por meio do RE 564.132-RG/RS, Rel. Min. Eros Grau, ocasião em que se reputou existente a repercussão geral.
+Isso posto, determino, com fundamento no art. 328, parágrafo único, do RISTF, a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no presente extraordinário discute-se questão idêntica à apreciada no RE 564.132-RG/RS.
+Publique-se.
+Brasília, 2 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
