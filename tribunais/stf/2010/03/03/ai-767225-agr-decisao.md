@@ -1,0 +1,21 @@
+Trata-se de agravo regimental interposto contra decisão que, em 9/9/2009, negou seguimento ao agravo de instrumento. Este o teor do julgado atacado:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+O agravo não merece acolhida. Bem examinados os autos, verifico que o agravante não indicou o dispositivo constitucional autorizador do recurso extraordinário, requisito indispensável ao seu conhecimento, a teor do art. 321 do RISTF. No mesmo sentido: AI 558.254-AgR/SP, de minha relatoria; AI 357.834-AgR/BA, Rel. Min. Celso de Mello; AI 554.630-AgR/RJ, Rel. Min. Carlos Velloso.
+Ainda que superado tal óbice, o recurso não prosperaria Verifico que o agravante não atacou o fundamento da decisão agravada, relativo à deserção do recurso extraordinário. Inviável, portanto, o presente recurso, a teor da Súmula 287 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 580.361-AgR/RS, de minha relatoria; AI 407.427/SP, Rel. Min. Cezar Peluso; AI 590.913-AgR/RS, Rel. Min. Eros Grau; AI 466.398-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+Isso posto, nego seguimento ao recurso” (fl. 76).
+O agravante sustentou, em suma, que
+“(...) na preliminar de Repercussão Geral, bem como no mérito, foi, como já dito, expressamente indicado o preceito constitucional contrariado, qual seja, art. 5º, XXXVI, da Constituição Federal, cabendo, assim, ser a alínea “a”, do inciso III, do art. 102, da Carta Magna o permissivo a que se adéqua” (fl. 87).
+Requer, assim, a reconsideração da decisão monocrática, ora agravada e, subsidiariamente, a apreciação do presente recurso pelo Colegiado deste Tribunal.
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que o recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Isso porque, a decisão impugnada negou seguimento ao agravo de instrumento interposto por dois fundamentos autônomos, quais sejam, a incidência, na espécie, da Súmula 287 do STF e a falta de indicação no recurso extraordinário do dispositivo constitucional que o autorize. O recorrente, por sua vez, nas razões do agravo regimental limita-se a afirmar que apontou expressamente o dispositivo contrariado, preenchendo todos os requisitos para a sua admissibilidade (fl. 87).
+Incumbe ao agravante o dever de impugnar, de forma específica, cada um dos fundamentos da decisão recorrida, sob pena de não seguimento do recurso.
+Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir novamente o teor da Súmula 287 do Supremo Tribunal Federal. Nesse sentido, menciono as seguintes decisões, dentre outras: AI 580.361-AgR/RS, de minha relatoria; AI 407.427/SP, Rel. Min. Cezar Peluso; AI 590.913-AgR/RS, Rel. Min. Eros Grau; AI 466.398-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifos meus).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 3 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
