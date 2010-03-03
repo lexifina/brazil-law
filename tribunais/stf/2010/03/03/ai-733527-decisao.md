@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Telemat Celular S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, incisos XXXV e LV, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+“APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA – JULGAMENTO ANTECIPADO DA LIDE – PRELIMINAR DE CERCEAMENTO DE DEFESA – QUESTÕES MERAMENTE DE DIREITO – INTELIGÊNCIA DO ARTIGO 330, I, DO CÓDIGO DE PROCESSO CIVIL – REJEIÇÃO – MÉRITO – CONTRATO DE DISTRIBUIÇÃO COMERCIAL – APLICABILIDADE POR ANALOGIA DA LEI Nº 6.729/79 E LEI Nº 4.886/65 – RESCISÃO UNILATERAL E SEM JUSTIFICATIVA – PRAZO CONTRATUAL – DE 60 MESES – RECURSO PROVIDO.
+1 – Nos precisos termos do artigo 330, I, o Juiz conhecerá diretamente do pedido, proferindo sentença, quando a questão de mérito for unicamente de direito, ou, sendo de direito ou de fato, não houver necessidade de produzir prova em audiência, ainda que a parte tenha requerido produção de mais provas.
+2 – O contrato de distribuição não possui uma lei específica o regulamentado e, por essa razão, aplica-se analogicamente a Lei nº 6.729/79 e a Lei nº 4.886/65. De acordo com esta lei, o prazo mínimo para a vigência do contrato de distribuição é de 60 meses. O contrato somente poderá ser rescindido motivadamente” (fl. 576).
+Opostos embargos de declaração (fls. 594 a 600), foram rejeitados (fls. 607 a 612).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 8/5/06, conforme expresso na certidão de folha 614, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Não houve negativa de prestação jurisdicional, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão da recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Por outro lado, a jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 3 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
