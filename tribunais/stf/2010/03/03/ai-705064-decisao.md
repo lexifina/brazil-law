@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“ICMS. Energia elétrica. Contrato de demanda reservada. Obrigação de pagar por consumo fixado no contrato, e não aquele que efetivamente se verificou. Incidência do tributo estadual somente sobre a energia efetivamente fornecida. Ação de repetição de indébito procedente. Recurso oficial e voluntário da Eletropaulo improvidos. Recurso do autor provido para afastar a prescrição quinquenal e determinar a incidência dos juros da mora a partir da citação.
+PRESCRIÇÃO. ICMS. Tributo declarado pelo próprio contribuinte. Ausência de homologação expressa. Direito de pleitear a restituição tem por termo inicial cinco anos após a ocorrência do fato gerador. Prazo prescricional que começa a contar somente a partir de então. Recursos oficial e voluntário da Eletropaulo improvidos. Recurso do autor provido para afastar a prescrição quinquenal e determinar a incidência dos juros da mora a partir da citação.
+JUROS DA MORA. ICMS. Repetição de indébito. Os juros de mora devem incidir a partir da citação, momento em que a Fazenda foi constituída em mora. Recursos oficial e voluntário da Eletropaulo improvidos. Recurso do autor provido para afastar a prescrição quinquenal e determinar a incidência dos juros da mora a partir da citação” (fl. 87).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 155, II, e § 3º, da mesma Carta.
+Em pesquisa ao sítio eletrônico do Superior Tribunal de Justiça, constatei a existência de recurso especial interposto pelo agravante (REsp 1.085.700/SP, Rel. Min. Humberto Martins), ainda pendente de julgamento.
+Isso posto, preenchidos os pressupostos de admissibilidade, afasto o sobrestamento de fl. 289 e dou provimento ao agravo de instrumento para admitir o recurso extraordinário, e uma vez que há recurso especial admitido no STJ (REsp 1.085.700/SP), determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543, § 1º, do CPC, a fim de que se aguarde o final do julgamento do referido recurso pelo STJ.
+Publique-se.
+Brasília, 3 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
