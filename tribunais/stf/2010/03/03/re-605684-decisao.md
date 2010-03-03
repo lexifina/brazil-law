@@ -1,0 +1,10 @@
+DECISÃO: O Tribunal de Justiça do Estado do Rio Grande do Sul concedeu a segurança pleiteada, sob o entendimento de que “[o]s vencimentos e proventos devem ser pagos até o último dia útil do mês de trabalho, caracterizada a ilegalidade no não cumprimento do prazo previsto no artigo 35 da Constituição Estadual, violando direito líquido e certo autorizador da concessão da segurança” [fl. 275].
+2.  Alega-se, no recurso extraordinário, violação do disposto nos artigos 1º, III, 2º, 5º, XXXIV, “a” e XXXV, 7º, VI e X, 25, caput e § 1º, 35, V, 37, caput e XV, e 84, II, da Constituição do Brasil.
+3.  Deixo de apreciar a existência da repercussão geral, vez que o artigo 323, § 1º, do RISTF dispõe que "[t]al procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+4.  O recurso não merece provimento. A controvérsia foi decidida com fundamento no artigo 35 da Constituição do Estado do Rio Grande do Sul, preceito declarado constitucional por este Tribunal, quando do julgamento da ADI n. 657, Relator o Ministro Néri da Silveira, DJ de 10.10.96, ementada nos seguintes termos:
+“Ação direta de inconstitucionalidade. 2. Art. 35 e parágrafo único da Constituição do Estado do Rio Grande do Sul. Fixa data para pagamento de remuneração aos servidores públicos do Estado e das autarquias. 3. Alegação de ofensa aos artigos 2º; 25; 61, § 1º, II, ‘c’; 84, II e VI, e 11 do ADCT, todos da Constituição Federal. 4. Parecer da Procuradoria-Geral da República pela improcedência da ação. 5. Inexistência de inconstitucionalidade do parágrafo único do art. 35 da Constituição gaúcha. Correspondência com o que se encontra legislado no âmbito federal. Precedentes. 6. Ação julgada improcedente para declarar a constitucionalidade do art. 35 e parágrafo único da Constituição do Estado do Rio Grande do Sul”.
+ Nego seguimento ao recurso extraordinário com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 3 de março de 2010.
+Ministro Eros Grau
+- Relator -
