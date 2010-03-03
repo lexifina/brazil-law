@@ -1,0 +1,17 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“EMENTA: Ordinária – Servidor Público – Detetive que exercia a função de perito criminal – Desvio de função – Direito ao adicional de insalubridade – Prescrição limitada a parcelas e não ao fundo de direito – Vedação de locupletamento ilícito e enriquecimento sem causa da Administração Pública” (fl. 177).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 37, caput, e II, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+Ainda que superado tal óbice o recurso não prosperaria. É que o Tribunal de origem decidiu a causa nos seguintes termos:
+“Com efeito, a investidura do autor como detetive e seu posterior aproveitamento na função diversa de perito criminal, têm elementos de confirmação documental, lembrando que não fora negado pela administração Pública.
+Às fls. 22 o autor juntou Portaria, na qual a Administração Pública o nomeou para exercer as funções de Perito ad hoc, na Seção Técnica de Criminalística, tendo em vista a deficiência de pessoal concursado para tal fim.” (fls. 180-181).
+Ou seja, para dissentir do acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que inviabiliza o recurso extraordinário, a teor da Súmula 279 do STF.
+Ademais, o acórdão recorrido está em consonância com o entendimento desta Corte no sentido de que o desvio de função do servidor público não pode ensejar enriquecimento sem causa da Administração Pública, conforme se depreende dos julgamentos dos RE 275.840/RS, Redator para acórdão Min. Marco Aurélio e RE 486.184-AgR/SP, de minha relatoria, cuja ementas seguem transcritas:
+“EMENTA: Desvio de função - Conseqüência remuneratória - Enriquecimento sem causa - Afastamento. O sistema da constituição federal obstaculiza o enriquecimento sem causa, especialmente o do estado. Longe fica de vulnerar a carta política acórdão que, diante de desvio de função, implica o reconhecimento do direito à percepção, como verdadeira indenização, do valor maior, sem estampar enquadramento no cargo, para o que seria indispensável o concurso público”.
+“ADMINISTRATIVO. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. INDENIZAÇÃO. POSSIBILIDADE. I. - O servidor público desviado de suas funções, após a promulgação da Constituição, não pode ser reenquadrado, mas tem direito ao recebimento, como indenização, da diferença remuneratória entre os vencimentos do cargo efetivo e os daquele exercido de fato. Precedentes. II. - A análise dos reflexos decorrentes do recebimento da indenização cabe ao juízo de execução. III. - Agravo não provido”.
+Por fim, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 3 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
