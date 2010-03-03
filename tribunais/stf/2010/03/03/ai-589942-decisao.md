@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Gruta Rio Importação e Exportação Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, §2º, 59 e 105, inciso III, alínea “c”, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Quinta Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+“MANDADO DE SEGURANCA OBJETIVANDO ABSTENCAO DE EXIGENCIA DE RECOLHIMENTO DE ICMS SOBRE IMPORTACAO DE BACALHAU. APELO CONTRA SENTENCA QUE DENEGOU A ORDEM. IMPROVIMENTO.
+A legislação tributaria estadual excluiu expressamente o bacalhau das isenções do ICMS que se refere a diversos tipos de pescado, sendo que a revogação dessa isenção não feriu normas de reciprocidade constantes dos tratados internacionais, eis que a razão de tal proteção era evitar que o produto similar nacional concorresse, em condições mais vantajosas, com o produto importado. No entanto, o bacalhau não tem similar nacional, tendo características próprias que o distingue das demais espécies de peixe seco nacional e que são decisivas perante o consumidor, não se justificando a reciprocidade onde não há efetiva concorrência no mercado” (fl. 80).
+Opostos embargos de declaração (fls. 83 a 86), foram rejeitados (fls. 87/88).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 25/9/2000, conforme expresso na certidão da folha 89, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+No tocante aos fatos que deram ensejo ao indeferimento da isenção do ICMS da importação bacalhau dos países signatários do GATT, o acórdão recorrido assim consignou:
+“não há ofensas às normas do G.A.T.T., porquanto o alegado similar nacional do bacalhau, o nosso pirarucu, não é isento, expressamente, desde outubro de 1991. Além disso, toda celeuma perdeu sua razão de ser após os Convênios ns. 117/82, 95/80 e 60/91, como ressaltado em sentença proferida pelo juiz ALEXANDRE DOS SANTOS MACEDO, que fopi integralmente confirmada pela 6ª Câmara Cível, na Apelação Cível Nº 6.532/97” (fl. 81).
+Nesse caso, ultrapassar o entendimento do Tribunal de origem e acolher a tese do autor demandaria o reexame da legislação infraconstitucional e das provas dos autos, operação vedada nesta instância, a teor da Súmula nº 279/STF . Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ISENÇÃO DE ICMS. IMPORTAÇÃO DE PRODUTO PROVENIENTE DE PAÍS SIGNATÁRIO DO GATT. OFENSA INDIRETA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. 1. O Supremo Tribunal Federal fixou entendimento que a controvérsia referente à isenção de ICMS, quando analisada em sede de importação de produtos provenientes de País signatário de acordo internacional também celebrado pelo Brasil, não configura situação de ofensa direta ao texto da Constituição, circunstância que inviabiliza o acesso à instância extraordinária. Precedentes. 2. Controvérsia decidida à luz de legislação infraconstitucional. Reexame de fatos e provas. Súmula 279 do Supremo Tribunal Federal. Inviabilidade do recurso extraordinário. Agravo regimental a que se nega provimento” (AI nº 651.473/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 23/11/07).
+“1. É pacífica a jurisprudência deste Supremo Tribunal no sentido de que a controvérsia relativa à isenção de ICMS, referente à importação de produto proveniente de país signatário do GATT (no caso, importação de bacalhau), é matéria que requer o reexame dos fatos e das provas da causa (Súmula STF nº 279), além da análise de legislação infraconstitucional” (AI nº 480.176/RJ-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 18/11/05).
+Aplicando essa orientação, também, as seguintes decisões monocráticas: AI nº 436.297/SP, Relator o Ministro Joaquim Barbosa , DJ de 11/10/07; e AI nº 486.821/SP, Relator o Ministro Cezar Peluso , DJ de 19/5/04.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 3 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
