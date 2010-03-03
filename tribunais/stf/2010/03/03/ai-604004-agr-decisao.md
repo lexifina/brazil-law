@@ -1,0 +1,26 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao agravo de instrumento.
+Os agravantes sustentaram, em suma, que a decisão agravada deve ser reformada e insistiram, dessa forma, no processamento do recurso extraordinário.
+Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido manteve a improcedência de pedido de revisão de benefício previdenciário concedido antes da promulgação da atual Carta Magna, aplicando os critérios de reajuste definidos no art. 41, II, da Lei 8.213/91 e alterações posteriores e afastando a vinculação ao salário mínimo fora do período previsto pelo art. 58 do ADCT.
+Os embargos de declaração opostos foram rejeitados.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 3º, III; 194, parágrafo único, IV; 201, § 2º (redação original, atual § 4º), da mesma Carta e art. 58, do ADCT.
+O agravo não merece acolhida. A Segunda Turma desta Corte já reconheceu a constituicionalidade material da legislação infraconstitucional que realiza o reajustamento dos benefícios previdenciários, conforme se vê da ementa do RE 453.105-AgR/MG, Rel. Min. Gilmar Mendes, a seguir transcrita:
+‘Agravo regimental no recurso extraordinário. 2. Previdência Social. Benefícios. Reajuste. 3. O art. 41, II, da Lei nº 8.213, de 24 de julho de 1991 e suas sucessivas alterações não violou o disposto no art. 194, IV, e 201, § 2º, da Carta Magna. Precedentes. 4. Agravo regimental a que se nega provimento.’
+Neste sentido, menciono as seguintes decisões, entre outras: RE 148.484/SP, Rel. Min. Celso de Mello; RE 215.541-AgR/MG, Rel. Min. Cezar Peluso; AI 486.631-AgR/MG, Rel. Min. Ellen Gracie.
+Além disso, é assente neste Tribunal a impossibilidade de revisão dos benefícios previdenciários atrelada à variação do salário mínimo após a implantação do plano de custeio e benefícios, a exemplo do que restou consignado na ementa do RE 276.151-AgR/RJ, Rel. Min. Maurício Corrêa, a seguir transcrita
+‘AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. APLICAÇÃO RETROATIVA DO CRITÉRIO DE ATUALIZAÇÃO PREVISTO NO ARTIGO 58 DO ADCT-CF/88. ALEGAÇÃO IMPROCEDENTE. 1. Benefício previdenciário deferido anteriormente ao advento da nova ordem constitucional. Aplicação do critério de atualização previsto no artigo 58 do ADCT, a partir do sétimo mês da promulgação da Carta de 1988 até a edição das leis de custeio e benefícios da previdência social. Consonância da decisão recorrida com a jurisprudência desta Corte. Agravo regimental a que se nega provimento’
+Neste sentido, menciono as seguintes decisões, entre outras: RE 290.368/RJ, Rel. Min. Marco Aurélio; RE 281.997-AgR/PB, Rel. Min. Carlos Velloso; RE 235.992-ED/RJ, Min. Rel. Néri da Silveira.
+Isso posto, nego seguimento ao recurso” (fls. 240-241).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que os recorrentes não aduziram novos argumentos capazes de afastar as razões nela expendidas.
+Ademais, o Tribunal de origem decidiu a causa nos seguintes termos:
+“No caso concreto, os benefícios foram concedidos antes da Constituição Federal de 1988. Como se verifica pelos documentos de fls. 12, 13 e 16, respectivamente e, não obstante, a r. sentença julgou procedente o pedido dos autores para que fosse concedida a revisão prevista no art. 58 do ADCT a partir de janeiro de 1992, o que, evidentemente, contraria a jurisprudência, eis que a aplicação da referida norma é limitada ao período de 05.04.89 a 04.04.91, além de violar a parte final do inciso IV do art. 7º da mencionada Lei Maior, que veda a vinculação do salário-mínimo, para qualquer fim” (fl. 157).
+Assim, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifos meus).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 3 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
