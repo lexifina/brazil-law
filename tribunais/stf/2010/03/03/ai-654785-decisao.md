@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto de acórdão que julgou parcialmente legítima a limitação da compensação dos prejuízos fiscais e da base de cálculo negativa apurados em exercícios anteriores, no cálculo do imposto de renda e da contribuição social sobre o lucro, nos termos dos arts. 42 e 58 da Lei 8.981/95 e arts. 15 e 16 da Lei 9.065/95, reconhecendo ofensa apenas ao art. 195, § 6º, da Constituição.
+No RE sustentou-se, em suma, a inaplicabilidade, no caso, do princípio da anterioridade nonagesimal.
+O Plenário desta Corte, em 20/8/2008, ao apreciar Questão de Ordem suscitada no RE 540.410/RS, Rel. Min. Cezar Peluso, decidiu estender a aplicação do art. 543-B do Código de Processo Civil aos recursos cujo tema constitucional apresente repercussão geral reconhecida pelo Plenário, ainda que interpostos contra acórdãos publicados antes de 3 de maio de 2007.
+No caso, o recurso extraordinário versa sobre matéria cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (RE 591.340-RG/SP, Rel. Min. Marco Aurélio).
+Isso posto, preenchidos os demais requisitos de admissibilidade, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no art. 328, parágrafo único, do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado, quanto ao recurso extraordinário, o disposto no art. 543-B do CPC, visto que nele discute-se questão que será apreciada no RE 591.340-RG/SP.
+Por fim, considerando que os autos principais se encontram nesta Corte, em razão da admissão do recurso extraordinário interposto por Seleto S/A Indústria e Comércio Ltda (RE 544.082/SP, de minha relatoria), junte-se cópia desta decisão ao referido extraordinário.
+Publique-se.
+Brasília, 3 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
