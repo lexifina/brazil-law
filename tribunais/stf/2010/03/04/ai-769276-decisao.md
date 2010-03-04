@@ -1,0 +1,16 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão da Oitava Turma Recursal Cível de Belo Horizonte, Minas Gerais e assim ementado:
+“AÇÃO DE COBRANÇA. DIFERENÇAS DE ATUALIZAÇÃO. VALORES NÃO BLOQUEADOS DEPOSITADOS EM CADERNETA DE POUPANÇA. LEGITIMIDADE PASSIVA DA INSTITUIÇÃO BANCÁRIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PLANOS COLLOR I E II. PLANO VERÃO. CONDENAÇÃO DO BANCO AO PAGAMENTO DOS EXPURGOS. SENTENÇA MANTIDA POR SEUS PRÓPRIOS E JURÍDICOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95. ” ( fl. 1464).
+Alega o recorrente, com fundamento no art. 102, III, a, violação ao art. 5º, XXXVI, da Constituição Federal. Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC.
+2.  Conquanto admissível o agravo, inviável o recurso extraordinário.
+ É que o recurso esbarraria em orientação assente na Corte segundo a qual
+“o direito adquirido, o ato jurídico perfeito e a coisa julgada encontram proteção em dois níveis: em nível infraconstitucional, na LICC, art. 6º, e em nível constitucional, art. 5º, XXXVI, CF. Todavia, o conceito de tais institutos não se encontra na Constituição, art. 5º, XXXVI, mas na lei ordinária, art. 6º da LICC. Assim, a decisão que dá pela ocorrência, ou não, no caso concreto, de tais institutos situa-se no contencioso de direito comum, que não autoriza a admissão do recurso extraordinário” (AI nº 520.942, Rel. Min. CARLOS VELLOSO, DJ de 5.8.2005).
+E ainda que assim não fosse, esta Corte já assentou, ao propósito da matéria, discernindo os diferentes planos econômicos e períodos por considerar, três firmes orientações.
+A primeira, que não são devidos   os expurgos inflacionários gerados pela aplicação dos Planos Bresser (06/87 – 26,06%, e 07/87 – 26,05%), Collor I (05/90 – 7,87%) e Collor II (02/91 – 21,87%), ante da inexistência de direito adquirido que, incidindo sobre regime jurídico, garantisse reposição dos percentuais, e que controvérsia sobre os chamados Planos Verão (01/89 – 42,72%) e Collor I (04/90 – 44,08%) é incognoscível, porque adstrita a matéria infraconstitucional (cf. Pleno, RE nº 226.855– RS , rel. Min. MOREIRA ALVES, DJ de 13.10.2000).
+A segunda, que, não havendo conflito intertemporal capaz de viabilizar recurso extraordinário, não é da competência desta Corte analisar quais os índices aplicáveis nos meses de fevereiro de 1989 , junho e julho de 1990 e março de 1991 (cf. RE nº 318.644–RR , rel. Min. ILMAR GALVÃO, DJ de 14/11/2002).
+E a terceira, que é apenas infraconstitucional a questão a respeito do índice de 84,32%, relativo ao Plano Collor I (03/90),   pois reduz-se a saber se o respectivo valor foi, ou não, creditado na conta dos interessados, tema cuja solução, dependendo do reexame prévio dos fatos à luz das provas, não cabe em recurso extraordinário ( súmula 279 ).
+ Não se excogita, pois, existência de repercussão geral, que só convém a questões constitucionais.
+3.  Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+Publique-se. Int..
+Brasília, 4 de março de 2010.
+Ministro CEZAR PELUSO
+Relator
