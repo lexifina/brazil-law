@@ -1,0 +1,36 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1) AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO CONSTITUCIONAL SUPOSTAMENTE OFENDIDO: INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2) JULGADO RECORRIDO FUNDAMENTADO EM LEI LOCAL: INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alíneas a e c, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“ADMINISTRATIVO - PROCESSUAL CIVIL - PROMOÇÃO - LEI MUNICIPAL N.º 2.886/96 - REQUISITOS - CARGO VAGO - AVALIAÇÃO SISTEMÁTICA DE DESEMPENHO - INEXISTÊNCIA - PROMOÇÃO AUTOMÁTICA - IMPOSSIBILIDADE - REMESSA OFICIAL – NÃO CONHECIMENTO (...). 2 - O direito à promoção do art. 20 da Lei n.º 2.886/96 do Município de Betim carecia, para sua efetivação, da devida regulamentação administrativa atinente à avaliação de desempenho, não se admitindo seja concedida a benesse de forma automática com base em dispositivo legal atinente ao instituto da progressão. 3 - Remessa necessária não conhecida, recurso principal parcialmente provido e recurso adesivo prejudicado” (fl. 69 – grifos nossos).
+Tem-se no voto condutor do julgado recorrido:
+“Consoante relatado, a autora, na condição de servidora do Município de Betim, pretende seja-lhe concedida, antes da edição da Lei n.º 3.788/03, a promoção, nos termos em que descrita no art. 20 da Lei n.º 2.886/96 (...).
+Na verdade, ao contrário do que foi sustentado pela autora, a promoção pretendida não se sujeita tão somente ao cumprimento do tempo estabelecido em lei (inc. I) e à avaliação de desempenho (inc. II), mas depende, também, do processo seletivo de provas ou de provas e títulos aberto pela Administração Pública Municipal, que apure aptidão para o desempenho dos cargos nos níveis ocupados ou a serem ocupados pelos servidores.
+Nesse sentido, o § 2º do art. 21 da Lei n.º 2.886/96 estabelece que a promoção não será necessariamente concedida a todos os servidores, mas aos servidores que se coloquem no processo seletivo e estejam classificados entre o primeiro quinto mais bem conceituado no concurso interno.
+Ora, dentre os pedidos iniciais, a autora incluíra a pretensão para que fosse concedida sua "promoção automática", com espeque no art. 28, § 1°, da Lei Municipal em tela, cuja redação prevê que no caso de não ser "avaliado o desempenho do servidor no exercício de seu cargo, por omissão do Poder Público, será imputada a responsabilidade pessoal a quem tiver dado causa à omissão, e a progressão do servidor será automática."
+Ocorre que a avaliação de desempenho não foi realizada, nem cuidou a Administração Pública Municipal de editar, concomitantemente à edição da lei, regulamento da matéria, em atendimento ao art. 22 da Lei Local, cuja inteligência revela que o direito à promoção era tema carecedor, de fato, da regulamentação (...).
+Lado outro, ao contrário do que sustenta o autor, a expressão "na forma do regulamento" refere-se à promoção e não à progressão (arts. 16 e 17), assim como o art. 28, parágrafo único, da Lei n.° 2.886/96 trata de progressão automática de servidor, mas não dispõe sobre o invocado automatismo em relação à promoção.
+Deve ser considerado, ainda, o fato de que incumbe à Administração Pública Municipal eleger os critérios de seleção para a promoção, estabelecendo-os em edital de convocação os parâmetros para eleger dentre os que se candidatarem, quais devem ser promovidos.
+(...)
+Nessa esteira, os institutos são distintos e a legislação prevê requisitos próprios para cada um deles, em virtude do que não há como considerar aplicável, para fins de promoção, o texto legal alusivo à progressão automática, que não foi objeto do pedido.
+Por tal razão é que o recurso do Município merece provimento neste ponto.
+Pelo exposto, dou provimento parcial à apelação do Município, para julgar improcedentes os pedidos e para inverter os ônus sucumbência” (fls. 73-77 – grifos nossos).
+3. No recurso extraordinário, o Agravante afirma que o Tribunal de origem teria contrariado o art. 37, caput, da Constituição da República.
+Alega que “não houve para a omissão qualquer justificativa, faltando publicidade ao ato, não cumpriu o Recorrido a própria lei, violando o princípio da legalidade, o ato omissivo é evidentemente imoral” (fl. 82).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento do dispositivo constitucional supostamente ofendido e a inexistência de ofensa constitucional direta (fls. 99-100).
+O Agravante reitera os argumentos formulados no recurso extraordinário.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. O dispositivo suscitado no recurso extraordinário não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+7. O Tribunal a quo fundamentou-se na interpretação e na aplicação da Lei n. 2.886/96 do Município de Betim/MG e concluiu que o direito à promoção previsto no art. 20 não seria autoaplicável, o que inviabilizaria a pretensão do Agravante.
+Essa circunstância atrai a incidência da Súmula 280 do Supremo Tribunal Federal e também não enseja o recurso extraordinário. Nesse sentido:
+“SERVIDOR PÚBLICO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. Precedentes. II - Agravo regimental improvido” (AI 689.921-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 20.2.2009).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. A controvérsia foi decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 594.028-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 27.2.2009).
+8. Nada há, pois, a prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 4 de março de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
