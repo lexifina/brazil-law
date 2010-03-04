@@ -1,0 +1,25 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão da 4ª Turma Recursal dos Juizados Especiais Cíveis e Criminais do Estado do Rio de Janeiro, que manteve a sentença por seus próprios fundamentos. Sentença assim redigida, na parte que interessa (fls. 67/68):
+“O autor alega que o coletivo réu provocou-lhe colisão e o réu afirma que os danos ao veículo decorreram de fato exclusivo da vítima.
+A prova oral produzida, consistente em depoimento de informante, foi suficiente para demonstrar que os fatos se deram tal como narrados na inicial, o que, inclusive, está de acordo com as informações constantes do BRAT.
+Tem-se, pois, que o motorista do réu provocou a colisão, quando ingressava na pista em que estava o autor.
+Ademais, e uma vez que a ré, no momento da colisão, era prestadora de serviço público, responde objetivamente por eventuais danos advindos a terceiros, nos termos do art. 37, §6º da CF/88 e se entende demonstrados o dano e nexo de causalidade entre estes a conduta do motorista do coletivo.
+O autor não comprovou o pagamento pelo conserto do automóvel, de tal forma que os orçamentos dos autos devem ser utilizados como parâmetro para o valor dos danos materiais, sendo acolhido o valor do orçamento intermediário entre os 3 apresentados, isto é, o de fl. 11.
+[...]
+Isto posto, JULGO PROCEDENTE EM PARTE O PEDIDO e condeno os réus, solidariamente, a pagarem ao autor o valor de R$ 5.107,74 (cinco mil cento e sete reais e setenta e quatro centavos) decorrente de danos materiais, acrescido de juros legais de 1% ao mês e correção monetária a contar do evento danoso.”
+2. Pois bem, a parte recorrente alega ofensa aos incisos LIV e LV do art. 5º, ao § 6º do art. 37 e ao inciso IX do art. 93 da Carta Magna de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo de Tarso Braz Lucas, opina pelo não conhecimento do recurso.
+4. Tenho que a insurgência não merece acolhida. De saída, anoto que a alegada ofensa às garantias do devido processo legal, do contraditório e da ampla defesa apenas ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência do Supremo Tribunal Federal, de que são exemplos os AIs 517.643-AgR, da relatoria do ministro Celso de Mello; e 273.604-AgR, da relatoria do ministro Moreira Alves.
+5. Por outra volta, pontuo que o aresto impugnado está devidamente fundamentado. Note-se que “não se pode dizer não fundamentado o acórdão que adota os fundamentos da sentença de primeira instância, incorporados como razão de decidir e, por isso, a confirma” (RE 179.557, da relatoria do ministro Ilmar Galvão). Em reforço, ressalto que “a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, da relatoria do ministro Sepúlveda Pertence).
+6. Quanto ao mais, observo que, ao julgar o RE 591.874, da relatoria do ministro Ricardo Lewandowski, o Plenário concluiu que as pessoas jurídicas de direito privado prestadoras de serviço público respondem de forma objetiva por danos causados a terceiros não usuários do serviço. Leia-se a ementa do julgado:
+“ CONSTITUCIONAL. RESPONSABILIDADE DO ESTADO. ART. 37, § 6º, DA CONSTITUIÇÃO. PESSOAS JURÍDICAS DE DIREITO PRIVADO PRESTADORAS DE SERVIÇO PÚBLICO. CONCESSIONÁRIO OU PERMISSIONÁRIO DO SERVIÇO DE TRANSPORTE COLETIVO. RESPONSABILIDADE OBJETIVA EM RELAÇÃO A TERCEIROS NÃO-USUÁRIOS DO SERVIÇO. RECURSO DESPROVIDO.
+I - A responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público é objetiva relativamente a terceiros usuários e não-usuários do serviço, segundo decorre do art. 37, § 6º, da Constituição Federal.
+II - A inequívoca presença do nexo de causalidade entre o ato administrativo e o dano causado ao terceiro não-usuário do serviço público, é condição suficiente para estabelecer a responsabilidade objetiva da pessoa jurídica de direito privado.
+III - Recurso extraordinário desprovido.”
+7. Não bastasse, consigno que a Instância Judicante de origem deu pela procedência do pedido indenizatório tendo em conta dois prismas. Não apenas decidiu a questão à luz da Teoria da Responsabilidade Objetiva do Estado, como também analisou os fatos e provas constantes dos autos para concluir que a conduta do ora recorrente, determinante para o prejuízo, foi decorrente de culpa.
+8. À derradeira, a discussão acerca da inadequação do montante indenizatório (a título de indenização por danos materiais) encontra óbice na Súmula 279 desta nossa Corte.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 04 de março de 2010.
+Ministro AYRES BRITTO
+Relator
