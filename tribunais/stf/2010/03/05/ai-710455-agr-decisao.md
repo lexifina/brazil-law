@@ -1,0 +1,26 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao agravo de instrumento.
+A agravante sustentou, em suma, que a decisão agravada deve ser reformada e insistiu, dessa forma, no processamento do recurso extraordinário.
+Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5°, II, XXXV, LIV, LV, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. O acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não-cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 562.212/RS, de minha relatoria; AI 592.110/RJ, Rel. Min. Cezar Peluso; AI 645.007/RS, Rel. Min. Cármen Lúcia; AI 524.388/RS, Rel. Min. Marco Aurélio.
+Como se sabe, o Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Ademais, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, a exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento, tal como ocorreu.
+Isso posto, nego seguimento ao recurso” (fls. 118-119).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que a recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Como assentado na decisão atacada, é firme a orientação desta Corte no sentido de que as alegações de violação aos princípios do devido processo legal, do contraditório e da ampla defesa, podem configurar, quando muito, situação de ofensa reflexa ao texto constitucional, o que impede a utilização do recurso extraordinário. Nesse sentido: AI 742.808-AgR/DF, de minha relatoria; AI 730.781-AgR/RJ, Rel. Min. Cármen Lúcia; AI 710.663-AgR/RJ, Rel. Min. Carlos Britto.
+Ademais, o Tribunal de origem decidiu a causa nos seguintes termos:
+“Verossimilhante, portanto, que o local acha-se contaminado, o que vem confirmado pelos relatórios médicos apresentados (fls. 388/389), que apontam a necessidade, para recuperação de doença grave, sua retirada do local, porque necessita estar afastado do ambiente contaminado.
+A necessidade do afastamento acha-se justificada, porque há no local liberação e transporte de contaminantes no meio ambiente do aterro e de seu entorno, e consequente exposição a eles” (fls. 14-15).
+Assim, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Ressalte-se, ainda, que a exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento, tal como ocorreu.
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifos meus).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 5 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
