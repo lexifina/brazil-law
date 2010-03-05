@@ -1,0 +1,25 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao agravo de instrumento.
+Os agravantes sustentaram, em suma, que a decisão agravada deve ser reformada e insistiram, dessa forma, no processamento do recurso extraordinário.
+Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação, em suma, aos arts. 6º, e 60, § 4°, IV, da mesma Carta.
+O agravo não merece acolhida. O recurso extraordinário foi julgado deserto, uma vez que a comprovação do preparo deu-se em desacordo com a determinação prevista no art. 511 do Código de Processo Civil. A jurisprudência do Supremo Tribunal Federal é no sentido de que incumbe ao recorrente comprovar, no ato de interposição do recurso, o pagamento do respectivo preparo.
+Ademais, cumpre observar que é dever processual da parte zelar pela correta formação do recurso, não sendo possível sanar o vício com a juntada posterior de documento, conforme pacífico entendimento desta Corte. Nesse sentido cito, entre outras, as seguintes decisões: AI 237.361-AgR/SC, Rel. Min. Maurício Corrêa; AI 308.589-AgR/PR, Rel. Min. Moreira Alves; AI 493.916-AgR/RJ, Rel. Min. Joaquim Barbosa; AI 252.090-AgR/PE, Rel. Min. Celso de Mello; e AI 550.987-AgR/MG, Rel. Min. Carlos Velloso; AI 583.803-AgR/SP e AI 582.086-AgR/SP, Rel Min. Eros Grau.
+Isso posto, nego seguimento ao recurso” (fl. 71).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que os recorrentes não aduziram novos argumentos capazes de afastar as razões nela expendidas.
+Além disso, o entendimento desta Corte é no sentido de que o recorrente deverá comprovar o pagamento do preparo no momento da interposição do recurso. Nesse sentido, cito o AI 280.506-AgR/DF, Rel. Min. Celso de Mello, que porta a seguinte ementa:
+“E M E N T A: AGRAVO DE INSTRUMENTO - COMPETÊNCIA DO PRESIDENTE DO TRIBUNAL DE ORIGEM PARA RECONHECER A OCORRÊNCIA DE DESERÇÃO RECURSAL DO APELO EXTREMO - OBRIGAÇÃO LEGAL DE COMPROVAR, NO ATO DE INTERPOSIÇÃO DO RECURSO, O RESPECTIVO PREPARO - DIRETRIZ JURISPRUDENCIAL FIRMADA PELO SUPREMO TRIBUNAL FEDERAL - RECURSO DE AGRAVO IMPROVIDO.
+- Assiste, ao Presidente do Tribunal de origem, competência para reconhecer a ocorrência de deserção recursal, mesmo que se cuide de recurso extraordinário, sem que esse ato configure usurpação das atribuições jurisdicionais conferidas a esta Corte Suprema. Precedentes.
+- Incumbe, ao recorrente, comprovar, no ato de interposição do recurso, o pagamento do respectivo preparo. Precedentes.”
+No mesmo sentido: AI 209.885-QO/RJ, Rel. para o acórdão Min. Marco Aurélio; RE 170.717-EDv-AgR/PR, Rel. Min. Carlos Velloso, AI 539.131-AgR-ED-EDv-AgR/DF, Rel. Min. Sepúlveda Pertence.
+Quanto à alegação de que as custas foram recolhidas, mas que a “guia de recolhimento (...) foi perdida entre o momento do protocolo do recurso até sua juntada aos autos” (fl. 75), não merece prosperar.
+Isso porque, ao realizar a formação do agravo de instrumento, é dever processual dos agravantes zelarem pela correta formação do instrumento, não sendo possível sanar o vício com a juntada posterior de documento, conforme pacífico entendimento desta Corte. Nesse sentido cito, entre outras, as seguintes decisões: AI 237.361-AgR/SC, Rel. Min. Maurício Corrêa; AI 308.589-AgR/PR, Rel. Min. Moreira Alves; AI 493.916-AgR/RJ, Rel. Min. Joaquim Barbosa; AI 252.090-AgR/PE, Rel. Min. Celso de Mello; e AI 550.987-AgR/MG, Rel. Min. Carlos Velloso; AI 583.803-AgR/SP e AI 582.086-AgR/SP, Rel. Min. Eros Grau.
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifos meus).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 5 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
