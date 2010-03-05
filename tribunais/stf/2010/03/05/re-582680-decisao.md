@@ -1,0 +1,23 @@
+DECISÃO
+Vistos.
+Banco GE Capital S.A. interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional.
+Insurge-se, no apelo extremo, contra acórdão da Quinta Turma Recursal Cível e Criminal dos Juizados Especiais do Estado da Bahia que manteve a sentença de primeiro grau que, fundando-se na auto-aplicabilidade do artigo 192, § 3º, da Constituição Federal e em legislação infraconstitucional, limitou a taxa de juros remuneratórios em 12% ao ano.
+Opostos embargos de declaração, foram rejeitados.
+Alega o recorrente violação dos artigos 5º, inciso XXXVI (ato jurídico perfeito), e 192, § 3º, da Constituição Federal, haja vista não ser auto-aplicável a limitação dos juros prevista nesse último dispositivo.
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece prosperar, haja vista que a pretensa ofensa do artigo 5º, XXXVI, da Constituição Federal, se houvesse, seria indireta ou reflexa, pressupondo o prévio exame de legislação infraconstitucional, o que não enseja reexame na via do recurso extraordinário. Ademais, a garantia constitucional do ato jurídico perfeito não elide a possibilidade da revisão judicial do contrato para coibir o enriquecimento sem causa. Nesse sentido, anote-se:
+“1. Recurso extraordinário: descabimento: dispositivos constitucionais dados por violados não analisados pelo acórdão recorrido nem objeto de embargos de declaração: incidência das Súmulas 282 e 356.
+2. Recurso extraordinário: inadmissibilidade: controvérsia decidida à luz de legislação infraconstitucional: alegada violação dos dispositivos constitucionais invocados que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636.
+3. A garantia constitucional do ato jurídico perfeito não exclui a possibilidade de revisão judicial do contrato para coibir o enriquecimento sem causa” (AI 587.727-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 20/10/06).
+“CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. REEXAME DE PROVA. SÚMULA 279-STF.
+I. - O acórdão assenta-se na prova, que não se examina em recurso extraordinário (Súmula 279-STF).
+II. - A verificação, no caso concreto, da ocorrência, ou não, de violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada situa-se no campo infraconstitucional.
+III. - Agravo não provido” (AI 496.468-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 22/10/04).
+A alegação de afronta ao artigo 192, § 3º, da Constituição Federal, também não prospera, haja vista que o acórdão recorrido, no mérito, manteve a sentença de primeiro grau pelos seus próprios fundamentos. A referida sentença, além de limitar a taxa de juros em razão da auto-aplicabilidade do artigo 192, § 3o, baseou-se, também, em fundamentos infraconstitucionais. Estes fundamentos ficaram preclusos, uma vez que não podem ser revistos pelo recurso extraordinário. Destarte, sendo suficiente o fundamento infraconstitucional adotado pelas instâncias ordinárias para limitar a taxa de juros, incide na espécie a orientação da Súmula nº 283 desta Corte, que assim dispõe, in verbis: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”. Nesse sentido, anote-se:
+“RECURSO. Extraordinário. Inadmissibilidade. Taxa de juros. Limitação. Art. 192, § 3º, da CF/88. Auto-aplicabilidade reconhecida. Artigo 1.062 do Código Civil e Decreto nº 22.626/33 também aplicado. Duplo fundamento. Aplicação da súmula 283. Agravo regimental não provido. É inadmissível recurso extraordinário quando a decisão recorrida está assentada em mais de um fundamento suficiente e o recurso não abrangeu a todos” (AI 459.061-ED, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 5/5/06).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 5 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
