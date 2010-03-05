@@ -1,0 +1,23 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao agravo de instrumento.
+O agravante sustentou, em suma, que a decisão agravada deve ser reformada e insistiu, dessa forma, no processamento do recurso extraordinário.
+Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, LIV e LV, 37, II, §§ 2º e 6º, e 173, § 1º, II, da mesma Carta.
+O agravo não merece acolhida. O acórdão recorrido decidiu a questão com base em normas processuais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+Além disso, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso” (fl. 220).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que o recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Conforme assentado na decisão agravada, o acórdão recorrido decidiu a causa à luz de normas infraconstitucionais e da jurisprudência do TST. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Por oportuno trago à colação trecho do acórdão recorrido:
+“(...) Assim o entendimento adotado pelo Regional não implica supressão de instância e decorre da interpretação razoável dos dispositivos de lei incidentes sobre a espécie, em especial dos arts. 289 e 515 do CPC invocados no recurso de revista, incidindo o óbice da Súmula 221, II, do TST” (grifos no original - fl. 159).
+Repiso ainda que o entendimento desta Corte é no sentido de que as alegações de violação aos princípios do devido processo legal e do contraditório podem configurar, quando muito, situação de ofensa reflexa ao texto constitucional, o que impede a utilização do recurso extraordinário. Nesse sentido: AI 742.808-AgR/DF, de minha relatoria; AI 730.781-AgR/RJ, Rel. Min. Cármen Lúcia; AI 710.663-AgR/RJ, Rel. Min. Carlos Britto.
+Ademais, verifico que o recurso extraordinário é extemporâneo, porquanto protocolizado em 6/7/2007 (fl. 185), antes da publicação do acórdão proferido no recurso de embargos, que se deu em 12/9/2008 (fl. 206).
+Com efeito, este Tribunal firmou entendimento no sentido de se considerar extemporâneo o recurso extraordinário interposto antes da publicação do acórdão de que se recorre, sem que haja a devida ratificação do ato. Nesse sentido, menciono as seguintes decisões, entre outras: AI 699.165-AgR/BA, Rel. Min. Eros Grau; AI 693.244-ED/SC e RE 320.440-AgR/RJ, Rel. Min. Ellen Gracie; AI 502.004-AgR/MG, Rel. Min. Carlos Britto; AI 375.124-AgR-ED/MG, Rel. Min. Celso de Mello; AI 255.654-AgR/MG, Rel. Min. Sydney Sanches.
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifos meus).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 5 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
