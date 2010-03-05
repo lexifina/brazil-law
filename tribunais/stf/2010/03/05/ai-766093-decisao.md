@@ -1,0 +1,11 @@
+1.     Trata-se de agravo de instrumento contra decisão que negou trânsito a recurso extraordinário de acórdão proferido por Turma Recursal dos Juizados Especiais do Estado do Amazonas no qual se discute indenização por danos materiais decorrente de acidente de trânsito, assim ementado:
+“ DANO MATERIAL. ACIDENTE DE TRÂNSITO. LAUDO PERICIAL CONCLUINDO POR TER SIDO O CONDUTOR DO VEÍCULO DA REQUERIDA O CAUSADOR DO ACIDENTE. PROCEDÊNCIA DO PEDIDO. VALOR DA INDENIZAÇÃO CORRESPONDENTE AO MENOR ORÇAMENTO APRESENTADO. RAZOABILIDADE. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO MAS IMPROVIDO. ”
+2.  Preliminarmente, verifica-se que o art. 170, V, da Constituição Federal, não foi prequestionado, porque não abordado pelo acórdão recorrido, nem suscitado nos embargos de declaração que foram opostos para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+3.  Quanto à alegação de ofensa às normas constitucionais do art. 5º e seus incisos, além de o fato de decisão contrária aos interesses da parte não caracterizar violação aos dispositivos constitucionais apontados, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+Nesse sentido: AI 372.358- AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+4.  Ressalte-se, ainda, que, para divergir do que foi decidido pelo acórdão recorrido, seria necessário o reexame dos fatos e das provas da causa (Súmula STF 279), hipótese inviável de apreciação em sede extraordinária.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 05 de março de 2010.
+Ministra Ellen Gracie
+Relatora
