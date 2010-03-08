@@ -1,0 +1,23 @@
+DECISÃO
+Vistos.
+Instituto Nacional do Seguro Social – INSS interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Terceira Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+“PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO LEI Nº 10.259/2001, ART. 20.
+O § 3º, do art. 109, da CF/88, deve ser interpretado de maneira mais benéfica ao segurado ou beneficiário da previdência.
+A Lei Ordinária não suprimiu a competência da Justiça Estadual em matéria previdenciária, apenas facultou o ajuizamento no Juizado Federal mais próximo” (fl. 40).
+Alega o recorrente contrariedade aos artigos 97 e 109, §§ 3º e 4º, da Constituição Federal.
+Sem contrarrazões (fl. 55v), o recurso extraordinário (fls. 43 a 53) foi admitido (fls. 56).
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Paulo da Rocha Campos, “pelo apensamento dos presentes autos ao processo principal, cumprindo-se o disposto no § 3º do art. 542 do CPC. Acaso seja distinto o entendimento desse tribunal, o recurso deve ser parcialmente conhecido e provido a fim de determinar ao órgão especial do TRF da 5ª Região que se manifeste acerca da constitucionalidade do art. 20 da Lei n.º 10.259/2001, caso não haja decisão nesse sentido do próprio órgão especial ou do plenário do STF (art. 97 da CF-1988)” (fls. 62 a 65).
+Decido.
+Anote-se, inicialmente, que o recorrente foi intimado do acórdão recorrido em 11/12/03, conforme expresso na certidão de folha 42, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+No que tange à aplicação da norma do artigo 542, § 3º, do Código de Processo Civil, muito embora o recurso se volte contra decisão interlocutória, a questão aqui em debate, por dizer respeito à matéria de fixação da competência do Juízo para o processamento do feito, está a reclamar pronta solução, para a adequada estabilização da lide.
+O acórdão ora em análise negou provimento ao agravo para manter a decisão que entendeu pela “tese de inconstitucionalidade do art. 20 da Lei nº 10.259/2001, porque o dispositivo constitucional referido, de caráter processual, deve ser interpretado de maneira mais benéfica ao segurado ou beneficiário da previdência, não podendo haver restrição ou redução do alcance da norma que visa oferecer presta\ação jurisdicional mais rápida” (fl. 22).
+Tem-se, portanto, que a inconstitucionalidade do referido dispositivo foi utilizada como fundamento do acórdão recorrido, o que foi feito através de julgamento da Terceira Turma do Tribunal Regional Federal da 5ª Região, violando, destarte, a reserva de plenário a que alude o artigo 97 da Constituição Federal.
+Trata-se de matéria plenamente pacificada no âmbito desta Suprema Corte, tanto que foi objeto de edição de súmula vinculante (nº 10), que assim dispõe: “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”, aprovada pelo Plenário desta Corte na sessão de 18/6/08 (DJe 13/3/09).
+Nessa conformidade, não pode subsistir o comando exarado pelo acórdão recorrido, por expressa violação da reserva de plenário exigida para esse tipo de reconhecimento de inconstitucionalidade de lei e, ainda, por afronta ao disposto na aludida súmula vinculante nº 10 do Supremo Tribunal Federal.
+No sentido dessa conclusão, cite-se a ementa do seguinte e recente precedente, assim dispondo:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONTROLE DE CONSTITUCIONALIDADE. RESERVA DE PLENÁRIO. ARTIGO 97 DA CB/88. VIOLAÇÃO. SÚMULA VINCULANTE N. 10. Fica evidente a violação do disposto no artigo 97 da Constituição do Brasil, no caso de declaração de inconstitucionalidade de lei por órgão fracionário, sem a anterior declaração por órgão especial ou plenário. Precedentes. Agravo regimental a que se nega provimento” (RE nº 371.820/BA-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 17/10/08).
+Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço parcialmente do recurso extraordinário e, nesta parte, lhe dou provimento para cassar o acórdão recorrido, determinando que o Tribunal Regional Federal da 5ª Região prossiga no julgamento do feito, nos termos do artigo 97 da Constituição Federal.
+Publique-se.
+Brasília, 8 de março de 2010.
+MINISTRO DIAS TOFFOLI
+Relator
