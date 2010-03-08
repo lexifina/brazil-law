@@ -1,0 +1,24 @@
+DECISÃO
+PENSÃO – REGISTRO - DECADÊNCIA.
+PENSÃO – REGISTRO – PROVENTOS DA APOSENTADORIA – VINCULAÇÃO.
+PENSÃO – REGISTRO – DECISÕES JUDICIAIS – ALCANCE.
+1.  A Assessoria prestou as seguintes informações:
+Com a inicial de folha 30 a 53, a impetrante, viúva e pensionista de docente aposentado da Universidade Federal de Goiás, formula pedido de concessão de medida acauteladora visando à suspensão dos efeitos do Acórdão nº 5.155/2009 – TCU – 1ª Câmara, Processo TC nº 008.630/2009-2, do Tribunal de Contas da União, formalizado em 15 de setembro de 2009 (folha 58 a 63). O órgão de origem cientificou a impetrante da decisão em 16 de outubro imediato (folha 57).
+A Corte de Contas negou registro à pensão civil da impetrante apesar de a aposentadoria do falecido marido, Roberto Ruhman Daher, ter sido anteriormente julgada legal e registrada (folha 73 a 77). O motivo declinado no ato seria a ilegalidade da incidência da Gratificação de Estímulo à Docência – GED sobre a vantagem incorporada - quintos em razão de exercício anterior em função comissionada FC-4.
+A impetrante sustenta ofensa à garantia da coisa julgada em face de decisões judiciais preclusas na via da recorribilidade desde dezembro de 2007:
+a) Apelação em Mandado de Segurança nº 2000.35.002343-1/GO, do Tribunal Regional Federal da 1ª Região (folha 135 a 145), originária do Processo nº 200035000023431, da 9ª Vara Federal de Goiás, impetrado pela Associação dos Docentes da Universidade Federal de Goiás (folha 115 a 129) – decisão reiterada no acórdão do Agravo de Instrumento nº 2004.01.00.030704-7/GO (folhas 133 e 134).
+b) Recurso Extraordinário nº 537.465/GO, da relatoria de Vossa Excelência, publicado no Diário da Justiça de 22 de junho de 2007 (folha 182 a 184), e Recurso Especial nº 585.088/GO, relator Ministro Arnaldo Esteves Lima, publicado no Diário da Justiça de 26 de novembro de 2006 (folha 172 a 181), originário do Mandado de Segurança nº 96.0007743-6, da 6ª Vara Federal de Goiás, formalizado pelo ex-marido da impetrante e outros (folha 150 a 156).
+Aponta abuso, tendo em conta a determinação no acórdão atacado de redução para R$ 4.638,34 o valor da vantagem integrante dos proventos, de R$ 9.573,85 (folha 61), nada obstante ser este o pago na aposentadoria homologada em 2006 (folha 67) e em decorrência dos pronunciamentos judiciais alcançados pela preclusão maior.
+Argui a decadência do direito para o Poder Público rever os atos administrativos de boa-fé, em razão do decurso temporal de mais de onze anos entre a inclusão da Gratificação de Estímulo à Docência nos vencimentos básicos do ex-marido da impetrante para fins do cálculo dos quintos – ante a instituição da vantagem pela Lei nº 9.678/98 - e a apreciação do registro da pensão, em setembro de 2009, considerada a incidência do artigo 54 da Lei nº 9.784/1999. Sustenta a ofensa à coisa julgada e ao princípio da segurança jurídica, porquanto o referido título judicial, imutável, conteria declaração de legalidade da fórmula mediante a qual a Universidade Federal de Goiás calculava o pagamento dos substituídos no processo - incluindo a impetrante -, afastando o teor do Parecer GQ nº 203/99, da Advocacia-Geral da União. Evoca como precedente da Corte o acórdão proferido no Mandado de Segurança nº 23.665-5/DF, Relator Ministro Maurício Corrêa, veiculado no Diário da Justiça de 20 de setembro de 2002.
+Requer o deferimento de medida acauteladora para suspender os efeitos dos itens 9.4.1, 9.5 e 9.5.1 da decisão atacada e, alfim, a concessão da segurança para afastá-los definitivamente do mundo jurídico e determinar a devolução dos valores excluídos dos proventos.
+Acompanharam a inicial os documentos de folha 54 a 196.
+O processo está concluso para o exame do pedido de liminar.
+2.  Reiterados são os pronunciamentos desta Corte quanto à inaplicabilidade do artigo 54 da Lei nº 9.784/99 a registro de aposentadoria ou de pensão, não cabendo sequer distinguir para levar em conta situação jurídica que não envolveu a impetrante, mas o falecido marido no que este logrou proventos da aposentadoria que passou pelo crivo do Tribunal de Contas.
+ No tocante às decisões judiciais, observem as causas de pedir e os pedidos formulados nos processos que desaguaram nos títulos executivos judiciais. Em momento algum, versou-se o direito à pensão considerados certos cálculos. Por último, tem-se como desprovido de relevância maior o que articulado quanto à situação jurídica alcançada pelo servidor falecido. O registro verificado à época foi relativo a proventos da aposentadoria e não a cálculos da pensão.
+3.  Indefiro a liminar.
+4.  Solicitem informações ao Tribunal de Contas da União.
+5.  Com a manifestação, colham o parecer do Procurador-Geral da República.
+6.  Publiquem.
+Brasília – residência –, 8 de março de 2010, às 16h.
+Ministro MARCO AURÉLIO
+Relator
