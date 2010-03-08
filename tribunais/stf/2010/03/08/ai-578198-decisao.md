@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que concluiu pela constitucionalidade da cobrança da contribuição sindical rural instituída pelo Decreto-lei 1.166/71.
+2.  No RE, sustenta-se ofensa aos arts. 5º; 109, I; 149; e 150, II, da Constituição Federal (fls. 49-61).
+3.  Primeiramente, verifico que a alegação de incompetência da Justiça Comum Estadual para o julgamento da presente causa não merece prosperar.
+ O Supremo Tribunal Federal possui o entendimento de que compete à Justiça Estadual processar e julgar as ações sobre representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores quando existente sentença de mérito proferida antes da promulgação da EC 45/04. Nesse sentido: CC 7.440/SP, rel. Min. Celso de Mello, DJe 16.6.2009; CC 7.453/SP, rel. Min. Menezes Direito, DJe 18.8.2009; RE 491.723-AgR/PR, rel. Min. Cezar Peluso, 2ª Turma, unânime, DJe 23.11.2007; RE 502.577/PR, rel. Min. Ricardo Lewandowski, DJe 29.4.2008; e RE 515.368-AgR/SP, rel. Min. Cezar Peluso, 2ª Turma, DJe 30.11.2007, este assim ementado:
+“1. RECURSO . Extraordinário. Regimental. Contribuição sindical rural. Competência. Justiça Estadual. Decisão mantida. Agravo regimental não provido. É pacífico o entendimento da Corte, segundo o qual compete à Justiça Estadual processar e julgar ações que versem sobre representação sindical entre sindicatos, entre sindicatos e trabalhadores e entre sindicatos e empregadores, quando há sentença de mérito, antes da promulgação da Emenda Constitucional n.° 45/04.”
+4.  Assim, o acórdão recorrido não divergiu deste entendimento, até porque decidiu pela competência da Justiça Estadual para apreciar o presente feito, certo que a sentença de mérito é anterior à EC 45/2004.
+5.  Verifico, ainda, que não assiste razão ao recorrente no tocante à inconstitucionalidade da contribuição sindical rural. A jurisprudência desta Corte possui entendimento de que é constitucional a cobrança da contribuição social em questão. Veja-se o AI 509.518-AgR/SP, rel. Min. Carlos Velloso, 2 ª Turma, unânime, DJ 29.04.2005, assim ementado:
+  “CONSTITUCIONAL. CONTRIBUI-ÇÃO SINDICAL RURAL. NATUREZA TRIBUTÁRIA. RECEPÇÃO. I. - A contribuição sindical rural, de natureza tributária, foi recepcionada pela ordem constitucional vigente, sendo, portanto, exigível de todos os integrantes da categoria, independen-temente de filiação à entidade sindical. Precedentes. II. - Agravo não provido.”
+ Nesse mesmo sentido, menciono os seguintes julgados: AI 430.985-AgR/SP, rel. Min. Gilmar Mendes, 2ª Turma, unânime, DJe 25.05.2007; e AI 498.686-AgR/SP, rel. Min. Carlos Velloso, 2ª Turma, unânime, DJ 29.04.2005.
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 08 de março de 2010.
+Ministra Ellen Gracie
+Relatora
