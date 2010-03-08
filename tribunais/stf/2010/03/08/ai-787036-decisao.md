@@ -1,0 +1,17 @@
+DECISÃO
+Vistos.
+Município de Belo Horizonte interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 37 da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Quarta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. TEMPO DE SERVIÇO. CELETISTA. CONTAGEM PARA OBTENÇÃO DE FÉRIAS-PRÊMIO.ENQUADRAMENTO DE CARGO. O tempo de serviço prestado ao Município de Belo Horizonte, sob o regime celetista, é considerado para efeito de aquisição de férias- prêmio, nos termos do disposto no §2º do art. 19 da Lei Municipal nº 5.809/90. É improcedente o pedido inicial de progressão funcional formulado por servidor público municipal, quando se observa que, ao optar voluntariamente pela aplicação do novo plano de carreiras instituído pela Lei nº 8.690/03, do Município de Belo Horizonte, aceitou posicionar-se no nível I da carreira. Recursos não providos.” (fl. 170).
+Opostos embargos de declaração (fls. 177 a 193), foram rejeitados (fl. 196).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não prospera a irresignação, uma vez ser pacífica a jurisprudência deste Tribunal no sentido de que há direito adquirido do servidor público à conversão de licença-prêmio não gozada em tempo de serviço, quando a aquisição ocorreu em período anterior à EC nº 20/98, como no caso dos autos. Nesse sentido, anote-se:
+“Agravo regimental em agravo de instrumento. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Conversão da licença-prêmio não gozada em tempo ficto. Aposentadoria. Período anterior à EC 20/98. Possibilidade. Precedente. 4. Agravo regimental a que se nega provimento” (AI nº 666.942/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 28/3/08).
+“SERVIDOR PÚBLICO. CONVERSÃO DE LICENÇA-PRÊMIO NÃO GOZADA EM TEMPO DE SERVIÇO. DIREITO ADQUIRIDO ANTES DA VIGÊNCIA DA EMENDA CONSTITUCIONAL N. 20/98. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO” (AI nº 540.075/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 9/2/07).
+“- CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CONVERSÃO DE LICENÇA-PRÊMIO NÃO GOZADA EM TEMPO DE SERVIÇO. DIREITO ADQUIRIDO ANTES DA VIGÊNCIA DA EMENDA CONSTITUCIONAL 20/98. I. - Conversão de licença-prêmio em tempo de serviço: direito adquirido na forma da lei vigente ao tempo da reunião dos requisitos necessários para a conversão. Precedentes do STF. II. - Agravo não provido” (RE 394.661/RS-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 14/10/05).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 8 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
