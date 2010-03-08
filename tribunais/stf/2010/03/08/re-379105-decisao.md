@@ -1,0 +1,10 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Espírito Santo que, com apoio no art. 40, § 4º, da Constituição Federal, concedeu a segurança para reconhecer o direito do servidor público militar da reserva remunerada da Polícia Militar Estadual ao restabelecimento da gratificação de assiduidade prevista no art. 65 da Lei Estadual 3.196/78, alterada pelas Leis Estaduais 3.841/86 e 3.917/86, nos seguintes termos (fls. 307-334):
+“4) Com fundamento no § 4º, do artigo 40, da Constituição Federal/88, que estabelece a isonomia de direito entre os servidores ativos e inativos, desde que compatíveis, tem o Impetrante direito à percepção do benefício da Gratificação de Assiduidade, mesmo que a criação do referido benefício tenha sido posterior à sua passagem para a reserva remunerada. ”
+2.  O recorrente alega, em síntese (fls. 338-348), que não se aplica aos presentes autos o texto constitucional do art. 40, § 8º, hodierno, pois a aludida gratificação foi criada para os policiais da ativa nos termos da Constituição Federal de 1967, onde não havia previsão de se estender aos inativos as vantagens concedidas aos servidores da ativa. Assim, sendo o benefício destinado somente ao militares da ativa, aplicam-se ao caso os exatos termos do § 6º do art. 65 da Lei Estadual 3.196/78.
+3.  A Procuradoria-Geral da República opinou pelo desprovimento do recurso.
+4.  O recurso não merece prosperar. O Tribunal de origem aplicou entendimento perfilhado na Suprema Corte no sentido de que o impetrante faz jus ao recebimento daquilo que receberia se estivesse na ativa. E, para divergir da conclusão a que chegou o Tribunal a quo, necessário se faria o cotejo da legislação local que restabeleceu a vantagem aos ativos e anteriormente recebida (Lei Estadual 3.196/78, e suas alterações pelas Leis Estaduais 3.841/86 e 3.917/86), o que é defeso nesta fase recursal, nos termos da Súmula STF 280.
+5.  Diante do exposto, nego seguimento ao apelo extremo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 08 de março de 2010.
+Ministra Ellen Gracie
+Relatora
