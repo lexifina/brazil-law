@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento interposto de decisão que determinou a retenção do recurso extraordinário (art. 542, § 3º, do CPC) em que se discute a concessão do benefício da assistência judiciária à pessoa jurídica.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, II, XXXVII, LIII, e LXXIV, da mesma Carta.
+Não merece reparos a decisão agravada, uma vez que se aplica à hipótese dos autos o artigo 542, § 3º, do Código de Processo Civil, que determina a retenção dos recursos especiais e extraordinários interpostos contra decisão interlocutória proferida nos processos de conhecimento, cautelar e embargos à execução. Nesse sentido, anote-se:
+“RECURSO EXTRAORDINÁRIO - DECISÃO INTERLOCUTÓRIA - RETENÇÃO. Consoante dispõe o § 3º do artigo 542 do Código de Processo Civil, tratando-se de extraordinário interposto contra decisão interlocutória, ou seja, pronunciamento que não se mostra definitivo - deixando, assim, de pôr termo ao processo, com ou sem julgamento do mérito -, o recurso há de ficar retido, pouco importando a origem da decisão proferida” (AI 585.453-AgR/SP, Rel. Ministro Marco Aurélio, Primeira Turma).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO RETIDO. ART. 542, § 3º, DO CPC. AFASTAMENTO DA RETENÇÃO. INEXISTÊNCIA DE SITUAÇÃO EXCEPCIONAL. PROVIMENTO LIMINAR. SÚMULA N. 735. 1. Aplicação do § 3º do art. 542 do CPC, que determina a retenção do recurso extraordinário interposto contra decisão interlocutória aos autos. 2. Ausência de excepcionalidade a ensejar a flexibilização da regra do art. 542, § 3º, do CPC. 3. Não cabe recurso extraordinário contra acórdão que concede medida liminar. Súmula n. 735 desta Corte. Agravo regimental a que se nega provimento” (AI 631.411-AgR/RJ, Rel. Min. Eros Grau, Segunda Turma).
+“Extraordinário. Decisão Interlocutória. Admissibilidade. Retenção. Descabimento. Art. 542, § 3º, do CPC. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a destrancar recurso extraordinário contra decisão interlocutória que não causar prejuízo irremediável ao recorrente” (AI 492.751-AgR/SP, Rel. Min. Cezar Peluso, Primeira Turma).
+Ressalte-se, ainda, que a flexibilização do disposto no art. 542, § 3º, do Código de Processo Civil, além de excepcional, deve ser robustamente demonstrada pelo requerente, sob pena de se fragilizar a própria essência da figura jurídica criada pelas Reformas Processuais.
+Na espécie, entendo não existir qualquer situação excepcional a ensejar a não aplicação do disposto no art. 542, § 3º, do CPC.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 9 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
