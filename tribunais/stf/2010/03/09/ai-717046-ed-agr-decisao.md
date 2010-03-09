@@ -1,0 +1,38 @@
+Trata-se de agravo regimental interposto contra decisão que, em 21/10/2008, rejeitou os embargos de declaração opostos contra decisão que negou seguimento ao agravo de instrumento. Este o teor do julgado atacado:
+“Trata-se de embargos de declaração opostos contra decisão monocrática que negou seguimento ao agravo de instrumento.
+A embargante insurgiu-se contra supostas omissões da decisão embargada e requereu:
+‘(a) seja reconhecida a invasão de competência constitucional cometida pelo juízo recorrido e anulada sua decisão, vez que não houve observância da cláusula de reserva do plenário (CR, art. 97);
+(b) entendendo-se não haver usurpação, e considerada a natureza da contribuição interventiva (como foi fixado pelo STJ), que seja declarada a inconstitucionalidade da contribuição vertida ao INCRA, pelo fato de gravar grandeza econômica que não está entre aquelas constitucionalmente previstas, conforme art. 149, § 2º, inciso III, alínea ´a’ da CR;
+(c) superados os dois primeiros pedidos, que seja declarada a inconstitucionalidade da cobrança da contribuição interventiva destinada ao INCRA, pela falta de referibilidade, reconhecida que a Recorrente é empresa que está fora do âmbito da intervenção’ (fl. 466).
+Passo a decidir.
+Como se sabe, os embargos de declaração visam sanar omissão, obscuridade ou contradição de decisão judicial. O acórdão ora embargado não apresenta qualquer desses vícios.
+A análise dos autos demonstra que o acórdão examinou de forma adequada a matéria e apreciou, inteiramente, as questões que se apresentavam. As razões de decidir, adotadas por ocasião daquele julgamento, são suficientes para afastar a pretensão do embargante.
+Verifica-se, nos acórdãos proferidos às fls. 158-164 e 288-293, que o Superior Tribunal de Justiça não declarou a inconstitucionalidade de qualquer lei ou ato normativo. Incabível, portanto, a alegação de ofensa ao art. 97 da Constituição.
+Quanto ao segundo pedido, observo que os acórdãos proferidos pelo STJ não trataram da matéria, que não foi objeto do recurso especial. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Por fim, no tocante à cobrança da contribuição para o INCRA de empresas urbanas, a decisão embargada expressamente consignou que:
+‘Além disso, no que tange à possibilidade de cobrar a referida contribuição de empresas urbanas, a decisão guerreada está em harmonia com a jurisprudência da Corte, como se vê da ementa do AI 548.733-AgR/DF, Rel. Min. Carlos Britto, a seguir transcrita:
+‘CONTRIBUIÇÃO AO FUNRURAL E AO INCRA: EMPRESAS URBANAS. O aresto impugnado não diverge da jurisprudência desta colenda Corte de que não há óbice à cobrança, de empresa urbana, da referida contribuição. Precedentes: AI 334.360-AgR, Rel. Min.Sepúlveda Pertence; RE 211.442-AgR, Rel. Min. Gilmar Mendes; e RE 418.059, Rel. Min. Sepúlveda Pertence.
+Agravo desprovido’.
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 395.884-AgR/RS e AI 663.176-AgR/MG, Rel. Min. Eros Grau; RE 241.652-AgR/SP e AI 607.202-AgR/PR, Rel. Min. Gilmar Mendes; AI 566.734-AgR/RS, Rel. Min. Cármen Lúcia; AI 501.596-AgR/RS, Rel. Min. Carlos Velloso; AI 423.531-AgR/SP, Rel. Min. Cezar Peluso; RE 364.050-AgR/RS, Rel. Min. Nelson Jobim; RE 238.395-AgR-ED/MS, Rel. Min. Maurício Corrêa; RE 238.171-AgR/SP, Rel. Min. Ellen Gracie’ (fls. 453-454).
+Isso posto, rejeito os presentes embargos declaratórios (art. 21, § 1º, do RISTF)” (fls. 468-470).
+O agravante sustentou, em suma, a inconstitucionalidade da contribuição interventiva ao INCRA, bem como a invasão de competência pela Corte de origem.
+Requer, assim, a reconsideração da decisão monocrática, ora agravada e, subsidiariamente, a apreciação do presente recurso pelo Colegiado deste Tribunal.
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que o recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Isso porque, a decisão impugnada está em perfeita harmonia com o entendimento firmado por ambas as Turmas deste Tribunal, no sentido de que a contribuição destinada ao INCRA é devida por empresa urbana, uma vez que se destina a cobrir os riscos aos quais estão sujeitos os trabalhadores. Confira-se, a propósito, os recentes julgados:
+“ AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO AO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA. EXIGIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO ” (RE 596.880-AgR/RS, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO AO INCRA. EMPRESA URBANA.
+2.  O Supremo Tribunal Federal fixou entendimento no sentido de que a contribuição destinada ao INCRA é devida por empresa urbana, porque se destina a cobrir os riscos aos quais está sujeita toda a coletividade de trabalhadores. Precedentes.
+ Agravo regimental a que se nega provimento.” (RE 469.288-AgR/RS, Rel. Min. Eros Grau, Segunda Turma).
+Além disso, o argumento do ora recorrente que o Superior Tribunal de Justiça não observou a cláusula de reserva de plenário, não merece prosperar. É que o acórdão recorrido não declarou a inconstitucionalidade de lei ou ato normativo do Poder Público, mas sim a constitucionalidade da contribuição destinada ao INCRA. Assim, não havendo, na espécie, declaração de inconstitucionalidade, não há que falar em violação ao art. 97, da Constituição.
+Ademais, a observância pelos tribunais do princípio constitucional da reserva de plenário, disposto no art. 97 da Constituição da República, para declarar uma norma inconstitucional, apenas se justifica se não houver decisão do Supremo Tribunal Federal sobre a questão.   Nesse sentido, anote-se: RE 575.706/SP, Rel. Min. Cármen Lúcia; RE 520.461/PR, Rel. Min. Gilmar Mendes.
+Por fim, o Plenário desta Corte, no exame do RE 578.635/RS, Rel. Min. Menezes Direito, decidiu pela ausência da repercussão geral da matéria constitucional versada nesse feito. A decisão do Pleno está assim ementada:
+“Direito Tributário. Contribuição social destinada ao INCRA. Exigibilidade das empresas urbanas. Ausência de repercussão geral”.
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifos meus).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 9 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
