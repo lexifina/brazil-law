@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra acórdão que negou pedido do INSS para redirecionar a execução fiscal contra os sócios da empresa executada, bem como para requisitar informações financeiras dos executados por meio do sistema BACEN JUD. Transcrevo abaixo a ementa do julgamento:
+“AGRAVO DE INSTRUMENTO. REDIRECIONAMENTO DA EXECUÇÃO CONTRA O SÓCIO-GERENTE. NECESSIDADE DE PROVA DE ATUAÇÃO DOLOSA OU CULPOSA. CTN, ART. 135, III. BACEN JUD. UTILIZAÇÃO. NECESSIDADE DE EXAURIMENTO DE ALTERNATIVAS PARA A LOCALIZAÇÃO DE VALORES.
+1. A legislação comercial afasta a responsabilidade objetiva do sócio ou administrador, merecendo interpretação sistemática o art. 135, III, do CTN, que trata da responsabilidade tributária subsidiária.
+2. Para que a execução seja redirecionada contra o sócio-gerente ou diretor, com fulcro no art. 135, III, do CTN, deve o exeqüente comprovar que o não-recolhimento do tributo resultou da atuação dolosa ou culposa destas pessoas, que, com o seu procedimento, causaram violação à lei, ao contrato ou ao estatuto. Pedido de redirecionamento negado.
+3. A quebra de sigilo fiscal somente pode ser determinada como medida de exceção, não podendo colidir com as garantias constitucionais. O interesse público é o norte para se aferir a relevância da medida; saliento, contudo, que não se pode confundir interesse público com o interesse da Fazenda Pública, privilegiando-se os interesses do Estado perante os do cidadão.
+4. Não restou demonstrado o exaurimento das diligências possíveis para a busca de bens e valores em nome dos agravados. Pedido de expedição de ofício ao BACEN negado” (fl. 92).
+Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se violação ao art. 5º, X e XII, da mesma Carta.
+A pretensão recursal não merece prosperar.
+O acórdão recorrido decidiu a questão com base na legislação ordinária, ao concluir que o redirecionamento da execução só é possível quando os sócios praticarem atos com excesso de poderes ou infração à lei, contrato social ou estatuto, e que o pedido de requisição de informações bancárias via BACEN JUD só é viável depois de demonstrado o completo esgotamento das diligências possíveis para proceder a localização de outros bens ou valores em nome da empresa executada. Assim, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+Além disso, para se chegar à conclusão contrária à adotada pelo acórdão recorrido - quanto ao não atendimento dos requisitos legais para o redirecionamento da execução e para a requisição das informações financeiras - necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279
+Nesse sentido, menciono as seguintes decisões, entre outras: AI 655.298-AgR/SP e RE 529.990-AgR/RS, Rel. Min. Eros Grau; RE 475.279/PR, Rel. Min. Ayres Britto; RE 456.659/SP, Rel. Min. Dias Toffoli; RE 598.428/AM e RE 474.681/SC, Rel. Min. Cármen Lúcia; RE 464.182/RS, Rel. Min. Cezar Peluso; AI 627.751/SC, Marco Aurélio; RE 435.379/PR, Rel. Min. Sepúlveda Pertence.
+Por fim, com o não conhecimento do Recurso Especial pelo STJ, decisão com trânsito em julgado certificado à fl. 182, tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 9 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
