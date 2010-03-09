@@ -1,0 +1,13 @@
+DECISÃO
+Vistos.
+Moacir Francisco de Andrade interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão proferido pela Turma Recursal de Conselheiro Lafaiete/MG, no julgamento do HC nº 18309169775-9.
+Contrarrazões apresentadas (fl. 152 a 157), o recurso extraordinário (fls. 85 a 104) foi admitido (fl. 111).
+Examinados os autos, decido.
+A Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao artigo 102 da Constituição Federal, criou a exigência da demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário. Posteriormente, a matéria foi regulamentada pela Lei nº 11.418/06, que introduziu os artigos 543-A e 543-B ao Código de Processo Civil. A norma do § 2º do artigo 543-A determina que “o recorrente deverá demonstrar, em preliminar do recurso, para apreciação exclusiva do Supremo Tribunal Federal, a existência da repercussão geral”. Por fim, o Supremo Tribunal Federal, através da Emenda Regimental nº 21/07, dispôs sobre as normas regimentais necessárias à sua execução.
+Esta Corte, com fundamento na mencionada legislação, quando do julgamento da Questão de Ordem no AI nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, firmou o entendimento de que os recursos extraordinários interpostos contra acórdãos publicados a partir de 3/5/07, data da publicação da Emenda Regimental nº 21/07, deverão demonstrar, em preliminar formal e fundamentada do recurso, a existência da repercussão geral das questões constitucionais discutidas no apelo.
+No caso em espécie, o recurso extraordinário foi interposto contra acórdão publicado em 29/9/09 (fl. 82), quando já era plenamente exigível a preliminar recursal para demonstrar a repercussão geral da matéria constitucional objeto do apelo. A petição recursal, todavia, não possui a referida preliminar formal e devidamente fundamentada, o que implica a impossibilidade do trânsito do presente recurso.
+Ante o exposto, nos termos do artigo 38 da Lei nº 8.038/90, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 9 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
