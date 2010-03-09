@@ -1,0 +1,12 @@
+DECISÃO: Vistos, etc.
+Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado por Rogério Alves de Morais, em causa própria, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, alegadamente exarado no julgamento do HC 145.545.
+2. Em singela petição manuscrita, desacompanhada de qualquer documentação, o impetrante aduz cumprir pena de 20 (vinte) anos de reclusão pela prática do crime de latrocínio. Sustenta que o STJ “determinou a progressão do condenado ao regime fechado sem fundamentação idônea, porquanto o art. 112 da LEP exige apenas 1/6 da pena, e o atestado de bom comportamento carcerário” e que “o retorno ao regime mais severo só poderia ocorrer depois que o exame criminológico indique efetivamente tal necessidade, e o juízo competente desse modo entenda” (sic, respectivamente, fls. 02 e 03). Requer a concessão da ordem, com base “no art. 5º da Constituição Federal em seu parágrafo LXVIII e também o art. 647 do CPP” (sic, fls. 05).
+3. Inicialmente, para a apreciação da medida liminar, requisitei informações ao STJ, havendo a Secretaria certificado o seu não-recebimento.
+4. Pois bem, a orientação jurisprudencial firmada por esta nossa Corte é no sentido de não se admitir o conhecimento de habeas corpus quando os autos não forem instruídos com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal. Isso porque “incumbe, ao impetrante, o ônus processual de produzir elementos documentais consistentes e pré-constituídos destinados a comprovar as alegações veiculadas no ‘writ’ constitucional” (cf. HC 101.359/RS, decisão monocrática do ministro Celso de Mello, DJ 02/02/2010).
+5. Nesse sentido, vejam-se: HC 102.271/RS, decisão monocrática da ministra Ellen Gracie, DJ 12/02/2010; HC 98.999/CE, Segunda Turma, de relatoria da ministra Ellen Gracie, DJ 05/02/2010; HC 97.368/SP, Primeira Turma, de relatoria do ministro Ricardo Lewandowski, DJ 14/08/2009; HC 91.755/MG, Primeira Turma, de relatoria da ministra Cármen Lúcia, DJ 23/11/2007.
+6. Isso posto, e frente à circunstância de a ação constitucional não se encontrar minimamente instruída quanto à comprovação da efetiva ocorrência do constrangimento ilegal apontado, nego seguimento à impetração. O que faço com apoio no art. 38 da Lei 8.038/90 e no § 1º do art. 21 do RI/STF.
+7. Encaminhe-se cópia desta decisão ao impetrante.
+Publique-se.
+Brasília, 09 de março de 2010.
+Ministro AYRES BRITTO
+Relator
