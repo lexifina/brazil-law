@@ -1,0 +1,9 @@
+DECISÃO:  Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão de Tribunal Regional Federal, em que se pretende a aplicação da taxa de 6% (seis por cento) ao ano relativamente aos juros compensatórios, bem com a exclusão destes da base de cálculo dos juros moratórios.
+Inexiste a alegada violação do art. 5º, XXXV, LIV e LV, da Constituição, pois o acórdão recorrido, ao julgar o recurso interposto, inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa.
+Ademais, a decisão recorrida está em consonância com o que dispõe a Súmula 618 desta Corte, a saber: “Na desapropriação, direta ou indireta, a taxa dos juros compensatórios é de 12% (doze por cento) ao ano”. Também está de acordo com a orientação firmada pelo Pleno por ocasião do julgamento da ADI 2.332-MC (rel. min. Moreira Alves, DJ 02.04.2004), pelo deferimento parcial do pedido de liminar, “para suspender, no ‘caput’ do artigo 15-A do Decreto-Lei nº 3.365, de 21 de junho de 1941, introduzido pelo artigo 1º da Medida Provisória nº 2.027-43, de 27 de setembro de 2000, e suas sucessivas reedições, a eficácia da expressão ‘de até seis por cento ao ano’”.
+Afasto, por fim, a argüição de ofensa ao disposto no art. 5º, II e XXIV, fundada na impossibilidade legal de incidência de juros moratórios sobre juros compensatórios. É que esse tipo de discussão, tal como veiculada no recurso extraordinário, não ultrapassa o âmbito infraconstitucional. Nesse sentido, o AI 455.893 (rel. min. Sepúlveda Pertence, DJ 03.11.2003), AI 286.516-AgR (rel. min. Nelson Jobim, DJ 23.03.2001) e AI 446.498 (rel. min. Gilmar Mendes, DJ 10.02.2005).
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 9 de março de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
