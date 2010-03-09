@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. CÔMPUTO DE TEMPO DE SERVIÇO PRESTADO NO REGIME CELETISTA EM CONDIÇÕES ESPECIAIS (ATIVIDADE INSALUBRE). PERÍODO ANTERIOR À LEI N. 8.112/90: POSSIBILIDADE. PRECEDENTES. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recursos extraordinários interpostos com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+“A efetiva atividade de enfermagem prestada no regime celetista sob condições insalubres confere direito à expedição de certidão de tempo de serviço aplicando-se ao tempo especial o fator de conversão previsto na legislação da época para fins de aposentadoria comum.
+A vedação de contagem especial para as atividades exercidas sob condições que prejudiquem a saúde ou a integridade física aplica-se apenas ao período prestado sob regime estatutário, [em relação ao qual] a CF/88 exige lei complementar. O mesmo se diga quanto ao disposto no art. 186, § 2º, da Lei n. 8.112/90” (fl. 122 – grifos nossos).
+2. Os Recorrentes afirmam que o Tribunal a quo teria afrontado os arts. 5º, inc. XXXVI, 40, §§ 1º (redação originária), 5º e 10, 201, §§ 1º e 9º, e 202, § 2º, da Constituição da República.
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica não assiste aos Recorrentes.
+4. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que o servidor público ex-celetista tem direito adquirido à contagem especial do tempo de serviço prestado sob condições insalubres, no período anterior à instituição do regime jurídico único.
+Confiram-se, a propósito, os seguintes julgados:
+“Agravo regimental em recurso extraordinário. 2. Servidor público estadual. Contagem especial do tempo de serviço prestado sob condições insalubres, no período anterior à instituição de regime jurídico único. Regime da Previdência Social. Contagem recíproca. Direito reconhecido. Precedentes. 3. Agravo regimental a que se nega provimento” (RE 408.338-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 28.11.2008).
+“AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. TEMPO DE SERVIÇO. CONTAGEM. 2. A jurisprudência do Supremo Tribunal Federal fixou-se no sentido de que o servidor público, ex-celetista, tem direito à contagem especial de tempo de serviço prestado em condições penosas e insalubres, em período anterior à vigência da Lei n. 8.112/90. Precedentes. Agravo regimental a que se nega provimento” (RE 457.144-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 14.3.2008).
+“1. Servidor público: direito adquirido à contagem especial de tempo de serviço prestado em condições insalubres, vinculado ao regime geral da previdência, antes de sua transformação em estatutário, para fins de aposentadoria: o cômputo do tempo de serviço e os seus efeitos jurídicos regem-se pela lei vigente quando da sua prestação: incidência, mutatis mutandis, da Súmula 359. 2. O servidor público tem direito à emissão pelo INSS de certidão de tempo de serviço prestado como celetista sob condições de insalubridade, periculosidade e penosidade, com os acréscimos previstos na legislação previdenciária. 3. A autarquia não tem legitimidade para opor resistência à emissão da certidão com fundamento na alegada impossibilidade de sua utilização para a aposentadoria estatutária; requerida esta, apenas a entidade à qual incumba deferi-la é que poderia se opor à sua concessão. 4. Agravo regimental: desprovimento: ausência de prequestionamento do art. 40, III, b, da Constituição Federal (Súmulas 282 e 356), que, ademais, é impertinente ao caso” (RE 463.299-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJe 17.8.2007).
+5. Dessa orientação jurisprudencial não divergiu o julgado recorrido.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 9 de março de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
