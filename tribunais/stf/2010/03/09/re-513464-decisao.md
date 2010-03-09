@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu pela não incidência do ICMS sobre o fornecimento de água canalizada, uma vez que tal atividade se identifica como serviço público e não mercadoria.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 155, II, da mesma Carta, ao argumento de que a referida exação incide sobre a água canalizada, visto que se trata de mercadoria.
+A Subprocuradora-Geral da República Sandra Cureau opinou pelo desprovimento do recurso (fls. 620-625).
+A pretensão recursal não merece acolhida.
+O acórdão recorrido está em conformidade com a jurisprudência desta Corte que possui entendimento no sentido de que não incide o ICMS sobre o fornecimento de água canalizada, uma vez que se trata de serviço público essencial e não de mercadoria, conforme se observa do julgamento do Plenário na ADI 2.224/DF, Redator para o Acórdão Min. Nelson Jobim, cuja ementa transcrevo a seguir:
+“CONSTITUCIONAL. TRIBUTÁRIO. RESOLUÇÃO Nº 98/89 QUE APROVOU CONVÊNIO NA FORMA DA LC 24/75, EM QUE AUTORIZA ESTADOS E O DISTRITO FEDERAL A CONCEDERAM 'A ISENÇÃO DO ICMS EM OPERAÇÕES COM ÁGUA NATURAL CANALIZADA, NAS HIPÓTESES PREVISTAS NA LEGISLAÇÃO ESTADUAL'. EDIÇÃO DO CONVÊNIO 77/95, DO MINISTÉRIO DA FAZENDA, QUE AUTORIZA RIO DE JANEIRO E RIO GRANDE DO SUL A REVOGAREM A ISENÇÃO DO ICMS PARA A ÁGUA CANALIZADA. RESOLUÇÃO Nº 2.679/96, QUE LEVA A EFEITO O CONVÊNIO 77/95. REQUERIDA DECLARAÇÃO DE INCONSTITUCIONALIDADE DOS DOIS ÚLTIMOS ATOS NORMATIVOS, SOB A ALEGAÇÃO DE: 1)ERRÔNEA CLASSIFICAÇÃO DE ÁGUA CANALIZADA COMO MERCADORIA; 2)LEGITIMIDADE DOS ESTADOS E DISTRITO FEDERAL PARA FIRMAR CONVÊNIOS QUE TRATEM DE ISENÇÃO DE ICMS, NA FALTA DE LEI COMPLEMENTAR. NECESSÁRIA A COMPREENSÃO DA EXTENSÃO DA HIPÓTESE DE INCIDÊNCIA DO ICMS - ART. 155, II, CF, PARA IDENTIFICAR O QUE CONSTITUI OU NÃO FATO GERADOR DO ICMS. JURISPRUDÊNCIA DESTE TRIBUNAL QUE ENTENDE NÃO SER A ÁGUA CANALIZADA MERCADORIA SUJEITA A TRIBUTAÇÃO PELO ICMS, POR TRATAR-SE DE SERVIÇO PÚBLICO. EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE, SE A SUSPENSÃO DA NORMA IMPUGNADA FIZER RESSURGIR NORMA ANTERIOR TAMBÉM INCONSTITUCIONAL, ESTAS DEVERÃO SER IMPUGNADAS NA INICIAL. O QUE NÃO SUCEDEU. SE DECIDIR ESTE TRIBUNAL PELA INCONSTITUCIONALIDADE DO CONVÊNIO 77/95, HAVERÁ A REPRISTINAÇÃO DO CONVÊNIO ANTERIOR - Nº 98/89.
+AÇÃO NÃO CONHECIDA” (grifos nossos).
+No mesmo sentido, menciono as seguintes decisões, entre outras: ADI 567-MC/DF, Rel. Min. Ilmar Galvão; AI 682.565-AgR/RJ e RE 509.169/MG, Rel. Min. Eros Grau; RE 601.169/MG e AI 703.470/RJ, Rel. Min. Cármen Lúcia.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 9 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
