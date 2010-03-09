@@ -1,0 +1,25 @@
+DECISÃO
+Vistos.
+Centrais de Abastecimento de Minas Gerais S.A. – CEASA/MG interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, inciso LIV, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Quarta Turma Recursal do Juizado Especial Cível da Comarca de Belo Horizonte/MG, assim fundamentado:
+“Aos 19 de março de 2.004, o recorrido Élson Raymundo da Silva comunicou ao Detran o furto do veículo Fiat Fiorino, que estaria em sua posse, asseverando que o furto teria ocorrido na parte interna da área da Ceasa (cf. documento anexado às f. 11 dos autos).
+É certo que, no citado dia, o recorrido fizera compras em um dos estabelecimentos situados na Ceasa (cf. nota fiscal juntada às f. 8) e que ainda se encontra de posse do cartão que lhe foi entregue na entrada e que deveria ter sido recolhido por ocasião de sua saída do local.
+Tais fatos, não desmentidos por qualquer outra prova, demonstram que o furto ocorreu dentro da área de propriedade da recorrente.
+As testemunhas inquiridas, que trabalham para a recorrente, informaram que na Ceasa ‘só tem uma entrada e uma saída’ e que, à ocasião do furto, ‘para entrar era entregue um cartão’ ao motorista, a ser por ele devolvido na saída, e que ‘até as pessoas que utilizavam a Ceasa para ter acesso a outros bairro recebiam cartão’.
+Relataram, mais, que o trânsito de veículo dentro da área da Ceasa com destino a outros bairros somente é permitido ‘no horário em que a Ceasa está aberta ao público’.
+Estas situações comprovam que a recorrente exercia, e exerce, controle sobre o tráfego de veículos na área que ocupa, tanto que, como confessou na defesa que ofertou, tentou implantar no local a cobrança do estacionamento, o que não vingou pela insurgência dos seus freqüentadores.
+Assim, ao contrário do que afirma, a recorrente exerce controle sobre a circulação de veículos na área em que ocorreu o furto, destinada à facilitação do acesso dos clientes às lojas ali estabelecidas, o que a torna civilmente responsável pela segurança dos veículos que ali se encontram.
+Restou comprovado, pelo boletim de Ocorrência Policial juntado às f. 14, que, no dia seguinte em que foi furtado, o referido veículo foi encontrado nas proximidades do Carrefour, na cidade de Contagem, neste Estado, sem as mercadorias adquiridas e sem os pneus.
+Os valores destas mercadorias e dos pneus devem, pois, serem ressarcidos ao recorrido, como bem ressaltou o juiz sentenciante, mesmo não tendo sido as notas fiscais correspondentes emitidas em nome do recorrido.
+NEGO, CONSEQUENTEMENTE, PROVIMENTO AO RECURSO PARA MANTER, COMO MANTENHO, A SENTENÇA RECORRIDA POR SEUS PRÓPRIOS E JURÍDICOS FUNDAMENTOS” (fls. 66 a 68).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 28.9.05 conforme expresso na certidão de folha 75, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, haja vista que o acórdão recorrido, além de aplicar o Código Civil, baseou seu convencimento a partir do conjunto probatório que permeia a lide. Nesse caso, para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem seria necessária a interpretação da legislação infraconstitucional pertinente e o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636 desta Corte. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. DANO MORAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE FATOS E PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 601.443/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+“CONSTITUCIONAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279 DO STF. I - A apreciação do recurso extraordinário demanda o exame de matéria de fato, o que atrai a incidência da Súmulas 279 do STF. II - Agravo regimental improvido” (AI nº 634.072/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 22/6/07).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (AI nº 556.757/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 12/5/06).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 9 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
