@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“CIVIL E PROCESSO CIVIL. CONTRATO DE SEGURO EM GRUPO. CANCELAMENTO. PRELIMINARES DE INTEMPESTIVIDADE DA PEÇA CONTESTATÓRIA, AUSÊNCIA DE CAPACIDADE POSTULATÓRIA E INEXISTÊNCIA DE PRESCRIÇÃO. REJEIÇÃO DAS DUAS PRIMEIRAS EM TRANSFERÊNCIA DA ÚLTIMA PARA ENFRENTAMENTO QUANDO DA ANÁLISE DO MÉRITO DO RECURSO. MÉRITO. INOCORRÊNCIA DE PRESCRIÇÃO. ANÁLISE DAS MATÉRIAS DEVOLVIDAS COM APELAÇÃO. AUSÊNCIA DE ILEGALIDADE E/OU ABUSIVIDADE NA CONDUTA PRATICA. MANUTENÇÃO DA IMPROCEDÊNCIA DO PEDIDO FORMULADO NA INICIAL, ALTERANDO-SE APENAS O SEU FUNDAMENTO. CONHECIMENTO E IMPROVIMENTO DO RECURSO” (fl. 32).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, LXXVIII, e 93, II, e, da mesma Carta.
+O agravo não merece acolhida. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ainda que superados tal óbice, o recurso não prosperaria. É que para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria a análise de cláusulas contratuais, o que atrai a incidência da Súmula 454 do STF. Nesse sentido, trago à colação trecho do acórdão atacado:
+“Da análise da referida cláusula, constata-se que o seguro era de natureza temporária, na medida em que renovava-se ano a ano, bem como seria facultado às partes contratantes a renovação ou não da apólice de seguro, razão pela qual não se pode dizer que a rescisão do contrato por parte da seguradora seja ilegal na medida em que o recorrente/segurado também detinha tal direito, daí porque não se observa qualquer afronta à lei consumerista.
+No que tange ao pedido de devolução da tonalidade dos prêmios pagos pelo segurado à seguradora, entendo ser este incabível, na medida em que, pela natureza do contrato firmado, embora não tenha se beneficiado diretamente em função da ocorrência de algum evento danoso, o recorrente desfrutou da prerrogativa de ser ressarcido no caso de sinistro” (fl. 39).
+Isso posto, afasto o sobrestamento de fl. 185 e nego seguimento ao recurso.
+Publique-se.
+Brasília, 9 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
