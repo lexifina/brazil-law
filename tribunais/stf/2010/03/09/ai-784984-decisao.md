@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+2.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+3.  O agravo não merece provimento.  O Pleno do Supremo Tribunal Federal, ao concluir o julgamento dos RREE ns. 220.906, Relator o Ministro Maurício Corrêa, DJ de 14.11.02; 229.696, Relator o Ministro Ilmar Galvão, DJ de 19.12.02; 230.072-AgR, Relator o Ministro Ilmar Galvão, DJ de 2.6.06; 230.051, Relator o Ministro Ilmar Galvão, DJ de 19.12.02, e 225.011-AgR, Relator o Ministro Marco Aurélio, DJ de 2.6.06, declarou a compatibilidade do Decreto-Lei n. 509/69 --- que dispõe sobre a impenhorabilidade dos bens da ECT e os benefícios fiscais outorgados a essa Empresa --- com a Constituição do Brasil.
+4.  No caso em exame, discute-se a constitucionalidade da cobrança do Imposto Predial e Territorial Urbano – IPTU da referida empresa. Assim, tratando-se de empresa pública prestadora de serviço público de prestação obrigatória e exclusiva do Estado, a sua atividade está abrangida pela imunidade tributária recíproca [RREE ns. 424.227/SC, 407.099/RS, 354.897/RS, 356.122/RS e 398.630, Relator o Ministro Carlos Velloso]. Quanto à imunidade tributária recíproca, ressalte-se que sua aplicação somente encontra guarida em relação aos impostos, não alcançando as taxas [RE n. 424.227, Relator o Ministro Carlos Velloso, DJ de 10.9.04].
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 9 de março de 2010.
+Ministro Eros Grau
+- Relator -
