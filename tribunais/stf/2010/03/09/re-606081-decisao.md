@@ -1,0 +1,17 @@
+DECISÃO
+Vistos.
+Gilberto Socha interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão proferido pela Quinta Turma de Recursos de Joinville/SC, assim ementado:
+“APELAÇÃO CRIMINAL. ART. 58, DO DECRETO-LEI 6.259/44. ‘JOGO DO BICHO’. RÉUS CONDENADOS. APETRECHOS UTILIZADOS PARA APONTAMENTO DO ‘JOGO DO BICHO’ ENCONTRADOS EM PODER DE UM DOS RÉUS. APREENSÃO FEITA NA BANCA DE PROPRIEDADE DO OUTRO RÉU A QUEM PERTENCIA, INCLUSIVE, A MOTOCICLETA APREENDIDA. DECISÃO ESCORREITA. SENTENÇA mantida POR SEUS PRÓPRIOS FUNDAMENTOS. PENA, ENTRETANTO, APLICADA ACIMA DO MÍNIMO LEGAL SEM BASE EM PROVAS CONSTANTES DOS AUTOS. IMPOSSIBILIDADE. READEQUAÇÃO DE OFÍCIO. RECURSO PARCIALMENTE PROVIDO” (fls. 169).
+Alega o recorrente, violação aos artigos 5º, incisos XXXVII, LIII, LIV, LV, LVII e  LIIIX, 93, inciso IX e 129, todos da Constituição Federal.
+Contrarrazões apresentadas (fls. 193 a 200), o recurso extraordinário (fls. 176 a 189) foi admitido (fls. 208/209).
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Wagner Gonçalves, opinou pelo não conhecimento do recurso e, se conhecido, pelo desprovimento (fls. 216 a 220).
+Examinados os autos, decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07 (fl. 174), quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no AI nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+No caso, a irresignação não merece prosperar, haja vista que os dispositivos constitucionais, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+Ainda que assim não fosse, o Tribunal de origem, ao decidir a questão, se ateve ao exame da legislação infraconstitucional. Portanto, a violação, se ocorresse, seria indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido: AI nº 657.780/BA-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 17/8/07; AI nº 641.845/ES-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 31/8/07; AI nº 505.224/SP-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 18/5/07 e AI nº 563.028/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 11/5/07, entre outros.
+Aliás, outro não foi o entendimento do Ministério Público Federal ao consignar que “a discussão exige o exame prévio de normas infraconstitucionais, estando claro que a ofensa ao texto constitucional, se existente, é penas reflexa” (fl. 218).
+Ante, o exposto, nos termos dos artigos 21, §1º do RISTF e 38 da Lei 8.038/90, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 9 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
