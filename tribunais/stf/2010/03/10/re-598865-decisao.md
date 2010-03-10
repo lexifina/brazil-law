@@ -1,0 +1,17 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 3ª Região. Acórdão assim ementado (fls. 280/281):
+“DIREITO CONSTITUCIONAL. DIREITO ADMINISTRATIVO. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. QUEBRA DE SIGILO BANCÁRIO. OBRIGAÇÃO DA INSTITUIÇÃO FINANCEIRA DE PRESTAR INFORMAÇÕES AO FISCO.
+1. A Constituição Federal de 1988, inscreve, no artigo 5º, inciso X, o direito à inviolabilidade da intimidade e da vida privada e complementa, no inciso XII, com a garantia da inviolabilidade do sigilo de dados, com o objetivo de proteger a pessoa contra a força do poder público e, principalmente, contra a inexorável força impositiva do poder político. Contudo, o direito ao sigilo não se reveste de caráter absoluto, podendo ser mitigado em face de interesse público relevante e nem poderia ser diferente, conquanto os direitos e garantias individuais e coletivos hão, necessariamente, de harmonizar-se com o exercício de competências constitucionais atribuídas ao poder público.
+2. A Lei nº 4.595, de 31 de dezembro de 1964, de aplicação na espécie, dispõe, no artigo 38 e §§ 5º e 6º, que o sigilo protege as operações ativas e passivas das instituições financeiras, não estando, em princípio, obrigadas a prestar informações, salvo se presentes dois requisitos essenciais, quais sejam, a existência de procedimento fiscal já instaurado e que as informações sejam indispensáveis para a consecução dos fins visados pelo fisco.
+3. O Código Tributário Nacional, no artigo 197, não dispensa tais pressupostos, conquanto o que estabelece é a obrigatoriedade de prestação de informações de que disponham as instituições nele listadas, mediante intimação escrita, por evidente emanada de procedimento administrativo fiscal regular.
+4. No caso dos autos, evidente que o atendimento da intimação implicaria em quebra do sigilo bancário da parte interessada, pois, as informações obtidas junto à instituição financeira, não seriam oferecidas apenas pelos valores globais das operações, porém, com os detalhamentos constantes de contratos, extratos ou outros lançamentos, comuns em operações desta natureza. Portanto, a conduta da autoridade coatora não se fez reverente ao princípio da proteção do sigilo, pois este somente se afasta em face de interesse público relevante e após instauração de procedimento administrativo fiscal onde seja assegurado ao contribuinte o contraditório e a ampla defesa e, na hipótese, não restou provada a existência do referido procedimento, tendo a requisição sido feita mediante simples intimação.
+5. Remessa oficial e apelações a que se nega provimento.”
+(Sem destaques no original)
+2. Pois bem, a parte recorrente alega violação ao inciso XII do art. 5º da Magna Carta de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Francisco Adalberto Nóbrega, opina pelo não conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. É que entendimento diverso do adotado pela Instância Judicante de origem exigiria o reexame da legislação infraconstitucional pertinente (Lei 4.595/64), bem como a análise do conjunto fático-probatório dos autos (Súmula 279 do STF). Providências vedadas na instância extraordinária.
+ Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 10 de março de 2010.
+Ministro AYRES BRITTO
+Relator
