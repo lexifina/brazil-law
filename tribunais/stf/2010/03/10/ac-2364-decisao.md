@@ -1,0 +1,17 @@
+DECISÃO: 1. Trata-se de ação cautelar, com pedido liminar, ajuizada por Deir Cangussu e outros, por meio da qual objetivam atribuir efeito suspensivo ao AI nº 709.844.
+3.   Incognoscível, no entanto, o pedido.
+Não há razão para se atribuir efeito suspensivo a agravo de instrumento, se a análise perfunctória do extraordinário já revela, por si só, sua irremediável inviabilidade.
+ É que os temas constitucionais agora suscitados, não foram objeto de consideração no acórdão recorrido, faltando-lhes, assim, o requisito do prequestionamento, que deve ser explícito (súmulas 282).
+Além disso, os embargos de declaração opostos não foram capazes de ultrapassar a exigência da súmula 356. É que a jurisprudência da Corte é pacífica no sentido de não ter por prequestionada a matéria pelo só fato da oposição de embargos declaratórios, sem ter-se caracterizado prévia omissão do tribunal a quo sobre questão constitucional que a parte haja suscitado no recurso sobre que versou a decisão embargada. Noutras palavras, é preciso que a parte tenha proposto questão constitucional não apreciada pelo tribunal local no acórdão impugnável mediante embargos declaratórios. Se a não levantou a parte previamente, não pode o acórdão, que conheceu do recurso, ser tachado de omisso, nem, por conseguinte, ser passível de ataque por embargos tendentes a remediar omissão que não houve. Os embargos de declaração não podem suscitar questão constitucional nova, não argüida no recurso anterior como objeto necessário da decisão embargada. Confiram-se, a respeito, os precedentes:
+“Recurso extraordinário: prequestionamento e embargos de declaração. Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada” (AI nº 246.630-AgR, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 18.9.2001. No mesmo sentido: AI nº 101.689-AgR, Rel. Min. RAFAEL MAYER, DJ de 1º.4.85; RE nº 114.682, Rel. Min. OTTAVIO GALLOTTI, DJ de 13.12.91; RE nº 358.309-AgR, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 27.6.2003).
+ Ainda que assim não fosse, é de todo aplicável a jurisprudência desta Corte, no sentido de que
+“(...) as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário” (AI nº 372.358-AgR, Rel. Min. CELSO DE MELLO, DJ de 11.6.2002).
+ Por fim, quanto à alegação de ofensa ao art. 93, IX, da Constituição da República, observo que o acórdão está devidamente fundamentado, pois, como se decidiu no RE nº 140.370, Rel. Min. SEPÚLVEDA PERTENCE:
+"O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional".
+ Não se excogita, pois, de repercussão geral, que só convém a questões constitucionais.
+Logo, o recurso do autor é natimorto, razão por que não faria senso lhe fosse atribuído efeito suspensivo.
+3.  Do exposto, nego seguimento ao pedido (arts. 21, § 1º, do RISTF).
+Publique-se. Int..
+Brasília, 10 de março de 2010.
+Ministro CEZAR PELUSO
+Relator
