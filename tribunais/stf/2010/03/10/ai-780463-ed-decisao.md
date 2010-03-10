@@ -1,0 +1,25 @@
+Trata-se de embargos de declaração opostos contra decisão que negou provimento ao agravo de instrumento. Eis o teor da decisão embargada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, da Constituição, alegou-se violação ao art. 5º, XXII, XXXIV e LXXVIII, da mesma Carta.
+O agravo não merece acolhida. Bem examinados os autos, verifico que o agravante não indicou corretamente o dispositivo constitucional autorizador do recurso extraordinário, requisito indispensável ao seu conhecimento, a teor do art. 321 do RISTF. No mesmo sentido: AI 558.254-AgR/SP, de minha relatoria; AI 357.834-AgR/BA, Rel. Min. Celso de Mello; AI 554.630-AgR/RJ, Rel. Min. Carlos Velloso.
+Além disso, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+Ainda que superados tais óbices, o recurso não prosperaria. É que o acórdão recorrido decidiu a questão à luz da legislação infraconstitucional aplicável à espécie e da jurisprudência do STJ. A ofensa à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+Por fim, a discussão acerca do esgotamento dos meios necessários para intimação pessoal do devedor demanda o exame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Isso posto, nego seguimento ao recurso” (fl. 496).
+Insurgiu-se o embargante contra suposta contradição na decisão embargada, visto que se encontram presentes todos os requisitos para a admissibilidade do recurso extraordinário.
+Passo a decidir.
+Bem reexaminados os autos, vê-se que os embargos de declaração não merecem acolhida.
+Como se sabe, os embargos de declaração visam sanar omissão, obscuridade ou contradição de decisão judicial. A decisão ora atacada não apresenta qualquer desses vícios.
+A análise dos autos demonstra que a decisão examinou de forma adequada a matéria e apreciou as questões que se apresentavam. As razões de decidir adotadas são suficientes para afastar a pretensão do embargante.
+A afirmação de que a recorrente não indicou o dispositivo constitucional autorizador do recurso extraordinário funda-se na constatação de que a peça recursal não faz referência a qual das alíneas enumeradas no art. 102 da Constituição deu ensejo à interposição do recurso. Conforme mencionado na decisão agravada, a indicação da alínea que permite a interposição do extraordinário é indispensável ao seu conhecimento. Nesse sentido, transcrevo ementas de decisões de ambas as turmas desta Corte:
+“RECURSO EXTRAORDINÁRIO - FORMALIDADE. Consoante dispõe o artigo 321 do Regimento Interno do Supremo Tribunal Federal, na petição de encaminhamento do recurso, deve-se indicar a alínea do inciso III do artigo 102 da Constituição Federal que o autoriza. A formalidade é essencial à valia do ato, consubstanciando, assim, ônus processual” (AI 495.340-AgR/SP, Rel. Min. Marco Aurélio, Primeira Turma).
+“CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. DISPOSITIVO AUTORIZADOR. INDICAÇÃO ERRÔNEA. AGRAVO DE INSTRUMENTO. PEÇA ESSENCIAL. CONTRA-RAZÕES AO RECURSO EXTRAORDINÁRIO. AUSÊNCIA. SÚMULA 288-STF. I. - Não há viabilidade para o processamento do recurso extraordinário se não indicado, com precisão, o dispositivo constitucional artigo, inciso e alínea que o autorize. Precedentes. II. - Ausência de cópia das contra-razões ou da certidão atestando a sua inexistência. Cabe à agravante o dever de vigilância na formação do instrumento. Súmula 288-STF. III. - Agravo não provido” (AI 554.630-AgR/RJ, Rel. Min. Carlos Velloso, Segunda Turma).
+Além disso, conforme salientado na decisão agravada, o acórdão recorrido decidiu a questão com base em normas infraconstitucionais e na jurisprudência do STJ.
+Outrossim, não há dúvidas que para “considerar que todos os meios de intimação pessoal do devedor não foram esgotados, invalidando a citação por edital” (fl. 307), necessário o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF.
+Ressalte-se, ainda, que os embargos de declaração não configuram via processual adequada à rediscussão do mérito da causa. São admissíveis em caráter infringente somente em hipóteses excepcionais de omissão do julgado ou de erro material manifesto. Nesse sentido: RE n. 223.904-ED/MG, Rel. Min. Ellen Gracie, AO 1.047-ED/RR, Rel. Min. Joaquim Barbosa, AI 600.506-AgR-ED/GO, Rel. Min. Cezar Peluso.
+Verifica-se, portanto, que a decisão ora embargada não merece reparos, uma vez que o julgamento contrário aos interesses das partes não basta à configuração da negativa de prestação jurisdicional.
+Isso posto, rejeito os embargos de declaração (RISTF, art. 21, § 1º).
+Publique-se.
+Brasília, 10 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
