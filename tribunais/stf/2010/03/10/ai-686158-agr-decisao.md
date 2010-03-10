@@ -1,0 +1,24 @@
+Trata-se de agravo regimental interposto contra decisão que, deu provimento ao agravo de instrumento do Instituto Nacional do Seguro Social – INSS -, para conhecer do recurso extraordinário da autarquia.
+Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido entendeu que a nova redação do art. 86 da Lei 8.213/91, dada pela Lei 9.032/95, a qual majorou o coeficiente de cálculo do benefício do auxílio-acidente para 50% (cinqüenta por cento) do salário de contribuição, aplica-se a todos os benefícios, independentemente da data de sua concessão.
+No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se a inaplicabilidade da Lei 9.032/95 aos benefícios concedidos antes de sua edição.
+O agravo merece acolhida. Isso porque esta Corte, na Sessão Plenária de 8/2/2007, fixou entendimento no sentido de que o benefício previdenciário em questão deve ser regido pela lei vigente à época da concessão do benefício (RE 415.454/SC e RE 416.827/SC, Rel. Min. Gilmar Mendes). No mesmo sentido, RE 229.690-AgR/SP, Rel. Min. Cármen Lúcia.
+Isso posto, dou provimento ao agravo de instrumento para, desde logo, conhecer do recurso extraordinário e dar-lhe provimento (CPC, art. 544, § 3º e § 4º)” (fl. 94).
+O agravante sustentou, em suma, que a decisão agravada deve ser reformada, ao argumento de que
+“(...) para que fosse provido o agravo de instrumento, e o recurso extraordinário, na forma do art. 544, § 3 e §4º, do CP. Civil, deveria ter sido superada a deserção do recurso extraordinário (...)” (fl. 108).
+A Procuradoria Geral da República manifestou-se pelo não provimento do recurso. (fls. 115-119)
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que o recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+É que a Primeira Turma desta Corte, no julgamento da questão de ordem no AI 351.360/PA, Rel. Min. Sepúlveda Pertence, firmou o entendimento no sentido de que o adiantamento das despesas postais ficou compreendido no âmbito da dispensa do preparo que o § 1º do art. 511 do CPC outorga às pessoas de direito público interno e aos que gozam de isenção legal.
+No mesmo sentido, cito as seguintes decisões, entre outras: AI 660.211/SP e AI 661.550/SP, Rel. Min. Cármen Lúcia; AI 309.883-ED/SP, Rel. Min. Moreira Alves .
+Ressalte-se, ainda, que como consignado na decisão agravada, é pacífica a jurisprudência desta Corte de que a aplicação dos efeitos financeiros introduzidos pela Lei 9.032/95 não alcança os benefícios concedidos nem aqueles cujos requisitos foram implementados antes da sua vigência. Nesse sentido além dos precedentes mencionados na decisão atacada, cito ainda julgados de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. LEI N. 9.032/95. IMPOSSIBILIDADE DA APLICAÇÃO RETROATIVA. PRINCÍPIO TEMPUS REGIT ACTUM. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 744.139-AgR/RJ, Rel. Min. Cármen Lúcia).
+“PREVIDENCIÁRIO CÁLCULO. LEI 9.032/95. INAPLICABILIDADE. BENEFÍCIO CONCEDIDO ANTES DE SUA VIGÊNCIA. 1. É firme a jurisprudência desta Corte no sentido de que o benefício previdenciário deve ser calculado com base na legislação vigente por ocasião do preenchimento dos requisitos necessários para a sua concessão. 2. Agravo regimental improvido” (AI 676.318-AgR/SP, Rel. Min. Ellen Gracie).
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifos meus).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 10 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
