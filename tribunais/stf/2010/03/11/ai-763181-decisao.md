@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+Rafael Antônio Marques Ferreira interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 226, parágrafo 6º, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da 34ª Câmara Cível do Tribunal do Estado de São Paulo, baseado nos seguintes fundamentos:
+“Trata-se de Agravo de Instrumento interposto de r. decisão que rejeitou pedido de remição.
+---------------------------------------------------------------------------
+Com efeito, ainda que outrora concedida ao recorrente oportunidade para demonstrar situação fática que poderia autorizar remição à luz do então vigente artigo 787 do Código de Processo Civil, observa-se, porém, que o agravante não se desincumbiu de tal providência, tampouco realizou, à época, o depósito do preço exigido no dispositivo revogado, circunstâncias que efetivamente afastam a pertinência da pretensão deduzida neste recurso, não se podendo cogitar, em tal cenário, de qualquer infringência aos dispositivos constitucionais e legais indicados nas razões recursais (fls. 12).
+Destarte, a r. decisão agravada fica mantida por seus próprios fundamentos” (fls. 124/125).
+Opostos embargos de declaração (fls.), foram rejeitados (fls.).
+Decido.
+Preliminarmente destaco que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece prosperar.
+Para melhor compreensão da insurgência, aproveito o acórdão recorrido para transcrever, no que interessa, o fundamento da decisão do juízo singular, in verbis:
+“(...)
+Diante do exposto, indefiro, mais uma vez, o pedido formulado por Rafael, de remição, quer porque não comprovado o parentesco de que trata o então artigo 787, do Código de Processo Civil; quer porque não comprovado o depósito do preço da alienação; quer porque já não mais existe no ordenamento jurídico vigente o instituto da remição” (fl. 124).
+Com efeito, ultrapassar o entendimento formulado nas instâncias ordinárias, e analisar a pretensão do recorrente, demanda reexame de fatos e provas que, por sua vez, encontra o óbice da Súmula nº 279 desta Suprema Corte.
+Não bastasse, tem-se que a verificação do alegado não prescinde de prévia análise da legislação processual que outrora previa o instituto da remição de bens. Portanto, se houvesse ofensa ao texto constitucional, esta seria indireta ou reflexa, que também não autoriza o recurso extraordinário, consoante firme jurisprudência deste Supremo Tribunal Federal.
+Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PENHORA. LEI N. 6.830/80. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 740.001/SP-AgR, Primeira Turma, Relatora a  Ministra. Cármen Lúcia, DJe de 1º/7/09).
+“PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PENHORA. MATÉRIA INFRACONSTITUCIONAL. SÚMULA STF 279. 1. O acórdão recorrido decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa. 2. Decidir de maneira diferente do que deliberado pelo tribunal a quo demandaria o reexame de fatos e provas da causa, ante a incidência da Súmula STF 279. 3. Agravo regimental improvido” (AI nº 766.612/RJ-AgR, Segunda Turma, Relatora a Relatora Ministra Ellen Gracie, DJe de 19/2/10).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. LIMITAÇÃO DE JUROS EM 12% A/A. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. PENHORA DE BEM DE FAMÍLIA LOCADO A TERCEIROS. ÓBICE DA SÚMULA 279. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 3. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI nº 682.443/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 16/5/08).
+Ante o exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 11 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
