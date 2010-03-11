@@ -1,0 +1,14 @@
+Trata-se de recursos extraordinários interpostos, com fundamento no art. 102, III, a, da Constituição, contra acórdão que julgou parcialmente legítima a limitação da compensação dos prejuízos fiscais e da base de cálculo negativa apurados em exercícios anteriores, no cálculo do imposto de renda e da contribuição social sobre o lucro, nos termos dos arts. 42 e 58 da Lei 8.981/95, reconhecendo ofensa apenas ao art. 195, § 6º, da CF.
+No RE da empresa APOIO DE COMUNICAÇÃO LTDA, sustentou-se, em suma, a inconstitucionalidade integral dos referidos dispositivos legais, enquanto que no RE da UNIÃO, busca-se afastar a observância do princípio da anterioridade nonagesimal.
+As pretensões recursais não merecem acolhida.
+Com relação ao recurso da APOIO DE COMUNICAÇÃO LTDA, esta Corte, no julgamento do RE 344.994/PR, Rel. para o Acórdão Min. Eros Grau, e do RE 545.308/SP, Rel. para o Acórdão Min. Cármen Lúcia, firmou entendimento pela constitucionalidade dos arts. 42 e 58 da Lei 8.981/95.
+Por ocasião da análise desses recursos, o Tribunal concluiu que as prerrogativas de abatimento facultadas nesses artigos caracterizam benefícios fiscais vinculados à política econômica que, por essa natureza, podem ser alteradas ou revogadas pelo Estado, a qualquer momento.
+Reconheceu-se, também, que a forma de limitação e a data de publicação da medida provisória que deu origem à lei impugnada não ofenderam direito adquirido, ato jurídico perfeito ou as regras de irretroatividade e anterioridade tributárias dispostas nos Constituição (arts. 150, III, a e b, e 195, § 6º).
+Assentou-se, ainda, que a limitação dessas compensações não alterou as bases de cálculo ou as hipóteses de incidência da CSL ou do IR, por não modificarem os conceitos de renda ou de lucro, motivo pelo qual estaria dispensada a exigência de lei complementar para disciplinar a matéria.
+Além disso, observe-se que, pelas razões expostas nos precedentes citados, não há que se falar em ofensa ao princípio da capacidade contributiva, manifestação de efeito confiscatório ou configuração de empréstimo compulsório, tendo em conta que houve apenas mitigação de benesse fiscal.
+Quanto à pretensão da União, melhor sorte não assiste à recorrente. Com efeito, nos termos do art. 102, III, da Constituição Federal, admite-se o recurso extraordinário contra decisão de única ou última instância, o que não ocorre neste caso. Constata-se que a União não esgotou as vias recursais ordinárias (Súmula 281 do STF), uma vez que eram cabíveis embargos infringentes da parte não unânime do acórdão contra o qual se insurge no extraordinário (art. 530 do Código de Processo Civil).
+Isso posto, nego seguimento aos recursos extraordinários (CPC, art. 557, caput).
+Publique-se.
+Brasília, 11 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
