@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INTIMAÇÃO DO JULGADO RECORRIDO APÓS 3.5.2007. INEXISTÊNCIA DE PRELIMINAR DE REPERCUSSÃO GERAL NA PETIÇÃO DE RECURSO EXTRAORDINÁRIO. NÃO ATENDIMENTO AO DISPOSTO NO § 2º DO ART. 543-A DO CÓDIGO DE PROCESSO CIVIL E NO ART. 327 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com fundamento no art. 102, inc. III, alíneas a, c e d, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“MANDADO DE SEGURANÇA. Impetrante que objetiva a suspensão dos efeitos do ato administrativo que determinou a cassação da eficácia da inscrição estadual do estabelecimento.
+PRELIMINAR de ausência de fundamentação, afastada.
+MÉRITO. Obediência ao devido processo legal. Revenda de combustível adulterado. Auto-posto autuado e lacrado, cassada sua inscrição fiscal. Refinarias que introduzem marcador químico nos solventes que permitem detectar a presença de agentes químicos estranhos, utilizados na adulteração. Legalidade da Lei nº 11.929/05 e das Portarias ns. 28/05 e 32/05. Preliminar rejeitada e recurso improvido” (fl. 211).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de preliminar de repercussão geral e a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 300-301).
+4. O Agravante alega que teriam sido contrariados os arts. 5º, inc. LV, 22, inc. IV, e 170, parágrafo único, da Constituição da República.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. O Agravante foi intimado do julgado recorrido em 30.4.2009 (fl. 231). Todavia, não há, na petição do recurso extraordinário (fls. 233-251), preliminar de repercussão geral da questão constitucional.
+Conforme assentado na decisão agravada, o Agravante não atendeu ao disposto no § 2º do art. 543-A do Código de Processo Civil e no art. 327 do Regimento Interno do Supremo Tribunal, o que não viabiliza o recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO ELEITORAL. AUSÊNCIA DE PRELIMINAR FORMAL DE REPERCUSSÃO GERAL: IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO. LEI N. 11.418/2006: NORMAS GERAIS APLICÁVEIS A TODOS OS RECURSOS EXTRAORDINÁRIOS. REPERCUSSÃO GERAL IMPLÍCITA: INADMISSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO” (AI 703.114-AgR, de minha relatoria, Primeira Turma, DJe 17.4.2009).
+“Agravo regimental em agravo de instrumento. 2. Apresentação expressa de preliminar formal e fundamentada sobre repercussão geral no recurso extraordinário. Necessidade. Art. 543-A, § 2º, do CPC. 3. Preliminar formal. Hipótese de presunção de existência da repercussão geral prevista no art. 323, § 1º, do RISTF. Necessidade. Precedente. 4. Ausência da preliminar formal. Negativa liminar pela Presidência no recurso extraordinário e no agravo de instrumento. Possibilidade. Art. 13, V, c, e 327, caput e § 1º, do RISTF. 5. Agravo regimental a que se nega provimento” (AI 744.686-AgR, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe 26.6.2009).
+“1. Embargos de declaração recebidos como agravo regimental. 2. Inobservância ao que disposto no artigo 543-A, § 2º, do Código de Processo Civil, que exige a apresentação de preliminar formal e fundamentada sobre a repercussão geral, significando a demonstração da existência de questões constitucionais relevantes sob o ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos das partes, em tópico destacado na petição de recurso extraordinário. 3. É imprescindível a observância desse requisito formal mesmo nas hipóteses de presunção de existência da repercussão geral prevista no art. 323, § 1º, do RISTF. Precedente. 4. A ausência dessa preliminar permite que a Presidência do Supremo Tribunal Federal negue, liminarmente, o processamento do recurso extraordinário, bem como do agravo de instrumento interposto contra a decisão que o inadmitiu na origem (13, V, c, e 327, caput e § 1º, do Regimento Interno do Supremo Tribunal Federal). 5. Agravo regimental desprovido” (AI 692.400-ED, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe 30.5.2008).
+Não há, pois, o que prover quanto às alegações do Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 11 de março de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
