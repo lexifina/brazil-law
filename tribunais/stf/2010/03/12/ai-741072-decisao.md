@@ -1,0 +1,16 @@
+DECISÃO
+Vistos.
+Evandro Gabriel Euzébio interpõe agravo de instrumento contra a decisão (fls. 102 a 104) que não admitiu recurso extraordinário assentado em contrariedade aos artigos 1º, inciso III e 5º, caput, e incisos X, XXXIX e XL, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Segunda Turma Recursal Criminal do Estado do Rio de Janeiro que negou provimento ao recurso do ora agravante (fls. 59 a 70).
+Examinados os autos, decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07 (fl. 71), quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no AI nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+No caso, a irresignação não merece prosperar, uma vez que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidência das Súmulas n°s 282 e 356/STF.
+Por outro lado, o acórdão atacado decidiu a controvérsia com base em legislação infraconstitucional. Desse modo, a alegada violação dos dispositivos constitucionais invocados, se ocorresse, seria indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Sobre o tema, anote-se:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento” (AI nº 387.843/MG-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 29/8/08);
+“CONSTITUCIONAL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. ALEGADA VIOLAÇÃO AO ART. 5º, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão com base na legislação infraconstitucional ordinária em norma infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. II - A alegada violação ao art. 5º, LIV e LV, da Constituição, em regra, configura situação de ofensa meramente reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. III - Agravo regimental improvido” (AI nº 638.068/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 13/6/08).
+No mesmo sentido, as seguintes decisões monocráticas: RE nº 554.904/PA, Relator o Ministro Cezar Peluso , DJ de 12/8/08; e AI nº 651.056/BA, Relatora a Ministra Cármen Lúcia , DJ de 21/6/07.
+Ante o exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 12 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
