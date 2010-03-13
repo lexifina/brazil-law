@@ -1,0 +1,14 @@
+DECISÃO
+ACÓRDÃO INTERLOCUTÓRIO – RECURSO EXTRAORDINÁRIO – RISCO LATENTE – ADEQUAÇÃO DO EXAME.
+1.  A Assessoria prestou as seguintes informações:
+Esta petição visa a imprimir trânsito ao Recurso Extraordinário nº 2009.002.12808 (folha 114 a 122), retido na origem ante a incidência do § 3º do artigo 542 do Código de Processo Civil (folha 125), porquanto voltado contra acórdão proferido em agravo de instrumento (folha 87 a 90) interposto em face de decisão interlocutória do Juízo. Os declaratórios foram desprovidos (folha 98 a 101). Mediante o extraordinário, o requerente busca suspender os efeitos da tutela antecipada deferida pelo Juízo por meio da qual determinado o fornecimento gratuito de remédios à autora do processo na origem, portadora de HIV, sob pena de multa pessoal e diária no valor de R$ 415,00 (folhas 47 e 48). Articula com alegada ofensa aos artigos 1º, cabeça, 5º, incisos XLV e LIV, 37, inciso XXI, 196, 197 e 198 da Constituição Federal. O recurso especial interposto (folha 104 a 111) teve o processamento retido no mesmo juízo de admissibilidade (folha 125).
+O requerente sustenta a excepcionalidade da medida, afirmando que a retenção do extraordinário implicará a ineficácia do eventual provimento do recurso, considerada a antecipação dos efeitos da tutela na origem. Sob o ângulo do risco, aponta a irreversibilidade do prejuízo decorrente do julgamento prematuro do processo sem a discussão da matéria relevante ora versada, com imediata responsabilização pessoal aos servidores da Secretaria Municipal da Saúde.
+Requer o deferimento de liminar para que se determine ao Tribunal de Justiça do Estado do Rio de Janeiro que proceda ao imediato processamento do recurso extraordinário referido. Alfim, pede em definitivo que seja determinado à Terceira Vice-Presidência do Tribunal de Justiça que profira o juízo de admissibilidade, positivo ou negativo.
+Consigno a ausência de notícia acerca da possível interposição de agravo instrumento contra a retenção.
+2.  Está-se diante de quadro que, de início, não enseja o agravo de instrumento. Este é previsto contra decisão que haja implicado a negativa de sequência ao extraordinário. Na espécie, a Corte de origem assentou caber a retenção. Assemelhando-se a hipótese ao do trancamento do extraordinário, por analogia entendo competir ao próprio relator a apreciação da matéria, como faria se viesse a defrontar-se com caso diverso e, portanto, com agravo de instrumento.
+ No mais, surge situação jurídica a afastar a retenção. A tutela antecipada repercute de imediato quanto à satisfação do direito controvertido e, se houver descumprimento, poder-se-á aplicar multa diária.
+3.  Proceda o Tribunal de Justiça ao exame do extraordinário interposto, apreciando os pressupostos de recorribilidade a ele inerentes.
+4.  Publiquem.
+Brasília – residência –, 13 de março de 2010, às 21h40.
+Ministro MARCO AURÉLIO
+Relator
