@@ -1,0 +1,26 @@
+1.  Trata-se de reclamação, com pedido de liminar, ajuizada pelo Ministério Público do Estado do Rio Grande do Sul, com fundamento nos arts. 102, I, l, e 103-A, caput e § 3º, da Constituição Federal; 156 do RISTF; 13 da Lei 8.038/90, contra acórdão da 1ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul nos autos do HC 70031035553.
+Examinando os autos, verifico que, em 03.07.2009, Vicente Domit Claas foi preso em flagrante pela prática do crime tipificado no art. 33 da Lei 11.343/2006 (fls. 34-35). O pedido de liberdade provisória foi indeferido pelo magistrado de primeira instância.
+Contra tal ato, a defesa impetrou habeas corpus ao Tribunal de Justiça do Estado do Rio Grande do Sul, que concedeu a ordem pleiteada em favor de Vicente Domit Claas. O Parquet estadual interpôs recursos especial e extraordinário, ainda em fase de admissibilidade.
+Argumenta o reclamante, em síntese, que o acórdão da Corte local violou frontalmente o enunciado contido na Súmula Vinculante 10, visto que o acórdão impugnado, proferido por órgão fracionário, “afastou a incidência do art. 44 da Lei 11.343/06 com base em argumentos alegadamente extraídos da Constituição Federal” (fl. 05).
+Requer a concessão de liminar para o fim de suspender os efeitos do acórdão reclamado, determinando-se o imediato restabelecimento da prisão de Vicente Domit Claas (fl. 12).
+2.  Inicialmente, entendo que o Ministério Público do Estado do Rio Grande do Sul não possui legitimidade para propor originariamente Reclamação perante esta Corte, já que “i ncumbe ao Procurador-Geral da República exercer as funções do Ministério Público junto ao Supremo Tribunal Federal, nos termos do art. 46 da Lei Complementar 75/93” (Rcl 4453 MC-AgR-AgR / SE, de minha relatoria, DJe 059, 26.03.2009).
+ Entretanto, a ilegitimidade ativa foi corrigida pelo Procurador-Geral da República , que ratificou a petição inicial e assumiu a iniciativa da demanda (fls. 105-110).
+3.  Ante o exposto, defiro a admissão do Sr. Procurador-Geral da República como autor da demanda.
+4.  Requisitaram-se informações (fl. 113), que foram devidamente prestadas pelo Tribunal de Justiça do Estado do Rio Grande do Sul (fls. 124-125).
+5.  Passo à análise do pedido de provimento liminar.
+Ressalte-se, inicialmente, que a via estreita da reclamação (Constituição, art. 102, I, l) pressupõe o descumprimento de decisão do Supremo Tribunal Federal proferida em controle abstrato de constitucionalidade, a ocorrência de usurpação de sua competência originária ou a desobediência a súmula vinculante. Logo, seu objeto é, e só pode ser, a verificação de uma dessas hipóteses, para se sanar imediatamente o abuso, acaso verificado.
+O art. 103-A, § 3º, da Constituição Federal tem a seguinte redação:
+“Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+(...)
+§ 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.”
+Vislumbro, neste juízo prévio, o confronto entre o ato emanado do juízo reclamado e o que expressamente dispõe a Súmula Vinculante 10, in verbis:
+“Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionado de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.” (DOU 27.6.2008).
+ É que a decisão ora impugnada na presente reclamação afastou, com base em argumentos constitucionais, a aplicação do art. 44 da Lei 11.343/2006, conforme se verifica do voto condutor do acórdão (fls. 147-148).
+6.  Ademais, há orientação pacificada no Supremo Tribunal Federal no sentido de que, nos termos dos arts. 5º, XLIII, da Constituição Federal, e 44, caput, da Lei 11.343/06, o crime de tráfico ilícito de drogas não admite a concessão de liberdade provisória (HC 93.302, rel. Min. Cármen Lúcia, DJ 17.12.2007; HC 92.723, rel. Min. Ricardo Lewandowski, DJ 18.10.2007; HC 91.303, rel. Min. Sepúlveda Pertence, DJ 22.05.2007; e HC 89.089, rel. Min. Carlos Britto, DJ 01.06.2007).
+7.  Ante o exposto, defiro o pedido de liminar para suspender a eficácia do acórdão proferido pela 1ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul nos autos do HC 70031035553, até o julgamento final desta reclamação.
+ Comunique-se e publique-se.
+Notifique-se o interessado Vicente Domit Claas (bem como o defensor público) para que possa se manifestar nos autos desta reclamação.
+Reautue-se a presente reclamação, para incluir o Procurador-Geral da República no pólo ativo da demanda.
+Brasília, 15 de março de 2010.
+Ministra Ellen Gracie
+Relatora
