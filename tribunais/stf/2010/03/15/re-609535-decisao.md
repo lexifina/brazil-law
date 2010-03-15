@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. HONORÁRIOS ADVOCATÍCIOS. EXECUÇÃO NÃO EMBARGADA CONTRA A FAZENDA PÚBLICA. EXECUÇÃO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTE. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alíneas a e b, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. ART 1º-D, LEI N. 9.494/97. INAPLICABILIDADE.
+I - Inaplicável é o art. 1º-D da Lei n. 9.494/97, na redação dada pela Medida Provisória n. 2.180-35/2001. A Corte Especial deste Tribunal, apreciando o dispositivo em questão, julgou-o inconstitucional (Arguição de Inconstitucionalidade no AI n. 2002.04.01.018302-1/RS, Rel. Des. Thompson Flores Lenz, DJ 04-06-2003). Não o bastasse, o referido dispositivo não foi recepcionado pelo ordenamento constitucional posterior à Emenda Constitucional n. 32/01, eis que o art. 62, § 1º, I, b, in fine, veda a edição de medida provisória sobre matéria processual.
+II - Na linha dos mais recentes precedentes da Corte Superior, a exceção à regra do artigo 20, parágrafo 4º, do Código de Processo Civil, inserta na norma do artigo 4º da Medida Provisória n. 2.180-35, que exclui o pagamento dos honorários advocatícios nas execuções não embargadas, não tem incidência em se cuidando de execuções individuais de julgados em sede de ação civil pública, em que é indispensável a contratação de advogado, na exata razão de que, diversamente do que ocorre nas execuções não oriundas de ações coletivas, além de se promover a liquidação do valor a ser pago e a individualização do crédito, faz-se necessária a demonstração da titularidade do direito do exequente” (fl. 76 – grifos nossos).
+2. Os embargos de declaração foram conhecidos para fins de prequestionamento e, no mérito, rejeitados (fl. 87).
+3. A Recorrente alega que o Tribunal a quo teria contrariado os arts. 2º, 5º, inc. XXXV, LIV e LV, 62 e 102, § 2º, da Constituição da República.
+Afirma a “impossibilidade de o Poder Judiciário avaliar o caráter de relevância e urgência das medidas provisórias, cuja questão fica restrita, portanto, ao poder discricionário do Poder Executivo” (fl. 104).
+Sustenta “estar jungida a hipótese de fixação dos honorários advocatícios à oposição de resistência/sucumbência, seja no processo de cognição, seja no processo executivo, circunstância que não se faz presente na hipótese vertente, haja vista a ausência de embargos do devedor” (fl. 107).
+Apreciada a matéria trazida na espécie, DECIDO .
+4. Razão jurídica não assiste à Recorrente.
+5. No julgamento eletrônico do Recurso Extraordinário 599.903, de minha relatoria, o Plenário Virtual do Supremo Tribunal Federal consolidou entendimento no sentido de que é infraconstitucional a questão do enquadramento jurídico da execução de sentença proferida em ação coletiva contra a Fazenda Pública na hipótese do art. 730 do Código de Processo Civil.
+Nesse julgado asseverei que:
+“No presente processo, põe-se em questão a execução contra a Fazenda Pública de sentença proferida em ação coletiva e o seu enquadramento jurídico, ou não, na hipótese do art. 730 do Código de Processo Civil, ou seja, quer-se saber se se tem, também aqui, execução por quantia certa contra a Fazenda Pública a determinar a mesma conclusão jurídica antes verberada por este Supremo Tribunal.
+A solução para esta pergunta parece-me não estar na Constituição da República, mas na legislação infraconstitucional, a processual, tendo o Superior Tribunal de Justiça se limitado a interpretar e aplicar essa legislação para concluir pela não incidência do art. 4º da Medida Provisória n. 2.180-35/2001.
+(...)
+5. A jurisprudência deste Supremo Tribunal concluiu inúmeros julgamentos reafirmando a natureza infraconstitucional da matéria aqui cuidada, dentro os quais, por exemplo, o Recurso Extraordinário n. 443.223, Relator o Ministro Carlos Britto, Primeira Turma, DJ 28.4.2006:
+'AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. ART. 1º-D DA LEI Nº 9.494/97, INTRODUZIDO PELA MEDIDA PROVISÓRIA Nº 2.180-35/2001. PRECLUSÃO DO FUNDAMENTO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 283 DO STF.
+O Superior Tribunal de Justiça, ao apreciar o recurso especial simultaneamente interposto, entendeu que são devidos honorários advocatícios em sede de execução contra a Fazenda Pública, decorrente de sentença proferida em ação civil pública julgada procedente. Afastou, assim, a regra do art. 1º-D da Lei nº 9.494/97, acrescentado pelo art. 4º da Medida Provisória nº 2.180/2001.
+Logo, ante o trânsito em julgado da decisão recorrida, no tocante à matéria infraconstitucional suficiente, incide o óbice da Súmula 283 desta colenda Corte. Menciono, nesse sentido, a seguinte decisão monocrática: RE 444.660, Rel. Min. Sepúlveda Pertence.
+Agravo regimental a que se nega provimento.'
+No mesmo sentido as decisões monocráticas proferidas nos Recursos Extraordinários n. 479.412, Relator o Ministro Carlos Britto, 567.262, de minha relatoria, e no Agravo de Instrumento n. 685.724, Relator o Ministro Cezar Peluso” (grifos nossos).
+6. Quanto à alegada contrariedade ao art. 5º, inc. XXXV, LIV e LV, da Constituição, a jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de desrespeito aos princípios do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais – na espécie vertente, o art. 535, inc. II, do Código de Processo Civil -, configurariam ofensa constitucional indireta. Nesse sentido: AI 705.917-AgR, de minha relatoria, Primeira Turma, DJe 13.3.2009.
+7. Inadmissível também o recurso extraordinário pela alínea b do inc. III do art. 102 da Constituição da República, pois no julgamento do Recurso Extraordinário 420.816, Redator para o acórdão o Ministro Sepúlveda Pertence, DJ 10.11.2006, o tema constitucional examinado pelo Supremo Tribunal foi a constitucionalidade do art. 1º-D, da Lei n. 9.494/97, com alteração da Medida Provisória n. 2.180-35/2001.
+Naquela ocasião, restringiu-se o alcance desse dispositivo legal às execuções por quantia certa contra a Fazenda Pública, nos termos do art. 730 do Código de Processo Civil.
+Na espécie vertente, cuida-se de recurso extraordinário contra acórdão proferido em agravo de instrumento nos autos de execução de sentença proferida em ação coletiva.
+Não há, pois, o que prover quanto às alegações da Recorrente.
+8. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 15 de março de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
