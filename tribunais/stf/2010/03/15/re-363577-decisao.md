@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+O Estado de Rondônia interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Turma do Superior Tribunal de Justiça, assim ementado:
+“TRIBUTÁRIO. RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. ICMS. BASE DE CÁLCULO. MAJORAÇÃO. DECRETO ESTADUAL 8.321/98. IMPOSSIBILIDADE. PRINCÍPIO DA ANTERIORIDADE. DESATENDIMENTO.
+1. O aumento da carga tributária se faz direta ou indiretamente. No primeiro caso, por imposição de tributo novo ou aumento da alíquota; no segundo, mediante ampliação da base de cálculo, desde que obedecido o princípio da anterioridade.
+2. Na hipótese dos autos, é inegável a majoração indireta do tributo em questão, através da modificação da sua base de cálculo sem obediência ao princípio acima referido.
+3. Recurso conhecido e provido, invertendo-se o ônus da sucumbência” (fl. 427).
+Sustenta o recorrente violação do artigo 150, incisos I e III, alínea “b”, da Constituição Federal, uma vez que “O Decreto n° 8.321, apenas fixou novos percentuais para se chegar ao valor agregado, e nesse particular não há que falar em qualquer ilegalidade ou sequer irregularidade, posto ter concretizado autorização legal preexistente” (fl. 443).
+Sem contrarrazões (fl. 450), o recurso extraordinário (fls. 429 a 446) foi admitido (fls. 451/452).
+Decido.
+Anote-se, primeiramente, que o acórdão recorrido   foi publicado em 19/11/01, como expresso na certidão de folha 428, não sendo exigível, conforme decidido na Questão de Ordem no AI n° 664.567, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+A irresignação, todavia, não merece prosperar.
+Verifica-se que a jurisprudência deste Supremo Tribunal Federal possui entendimento no sentido de que a majoração da base de cálculo do tributo deve obedecer ao princípio da anterioridade, não podendo, portanto, esta alteração ser cobrada no mesmo exercício financeiro em que foi publicada a lei que promoveu esta modificação. Em situação análoga, tem-se a seguinte decisão:
+“EMENTA: TRIBUTÁRIO. ESTADO DO RIO DE JANEIRO. IPTU. AUMENTO DA RESPECTIVA BASE DE CÁLCULO, MEDIANTE APLICAÇAO DE ÍNDICES GENÉRICOS DE VALORIZAÇAO, POR LOGRADOUROS, DITADOS POR ATO NORMATIVO EDITADO NO MESMO ANO DO LANÇAMENTO. TAXA DE ILUMINAÇÃO PÚBLICA. SERVIÇO PÚBLICO QUE NÃO SE REVESTE DAS CARACTERÍSTICAS DE ESPECIFICIDADE E DIVISIBILIDADE. Somente por via de lei, no sentido formal, publicada no exercício financeiro anterior, é permitido aumentar tributo, como tal havendo de ser considerada a iniciativa de modificar a base de cálculo do IPTU, por meio de aplicação de tabelas genéricas de valorização de imóveis, relativamente a cada logradouro, que torna o tributo mais oneroso. Caso em que as novas regras determinantes da majoração da base de cálculo não poderiam ser aplicadas no mesmo exercício em que foram publicadas, sem ofensa ao princípio da anterioridade. No que concerne à taxa de iluminação pública, é de considerar-se que se trata de serviço público insuscetível de ser custeado senão por via do produto dos impostos gerais. Recurso não conhecido” (RE n° 234.605/RJ, Primeira Turma, Relator o Ministro Ilmar Galvão, DJ 1/12/2000).
+Ademais, nota-se que o recorrente alega que “O Decreto Estadual n° 8.321/98 ao instituir o regulamento do ICMS, fixou percentuais para se chegar ao valor agregado, concretizando assim autorização legal preexistente, principalmente por meio de Protocolo ICMS, baixado pelo CONFAZ, sendo que o teor desses foram integrados a legislação fiscal de Rondônia, com a edição da Lei n° 688/96” (fl. 444). Desse modo, o acolhimento da pretensão do recorrente demandaria o exame prévio da legislação infraconstitucional. Assim, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 15 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
