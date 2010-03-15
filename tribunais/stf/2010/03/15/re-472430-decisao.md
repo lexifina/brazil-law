@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão, prolatado pelo Tribunal Regional Federal da 4º Região, que versa sobre a responsabilidade civil de pessoa jurídica de direito público em razão da falha na realização de procedimento cirúrgico de laqueadura que resultou em gravidez de paciente supostamente portadora do vírus HIV.
+A jurisprudência desta Corte é firme no sentido de que as pessoas jurídicas de direito público e as pessoas jurídicas de direito privado prestadoras de serviço público respondem objetivamente pelos seus atos, bastando para isso que esteja estabelecido um nexo causal entre o ato e o dano causado (cf. AI 383.872-AgR, rel. min. Carlos Velloso, Segunda Turma, DJ 08.11.2002; RE 217.389, rel. min. Néri da Silveira, Segunda Turma, DJ 24.05.2002; AI 209.782-AgR, rel. min. Marco Aurélio, Segunda Turma, DJ 18.06.1999; RE 206.711, rel. min. Moreira Alves, Primeira Turma, DJ 25.06.1999; RE 163.203, rel. min. Ilmar Galvão, Primeira Turma, DJ 15.09.1995, e RE 113.587, rel. min. Carlos Velloso, Segunda Turma, DJ 03.04.1992).
+No presente caso, o acórdão recorrido considerou demonstrado que o dano moral resultou da ausência de informação sobre os riscos e efeitos do procedimento ao qual se submetera a recorrida e da concepção que se tentara evitar. Inviável chegar à conclusão contrária sem o reexame de prova, o que dá margem ao descabimento do recurso extraordinário (Súmula 279).
+Por fim, verifico que não foram vulnerados os artigos 5º, XXXV, LIV e LV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a ora agravante.
+Do exposto, nego seguimento ao presente recurso.
+Publique-se.
+Brasília, 15 de março de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
