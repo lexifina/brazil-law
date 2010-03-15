@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) que tem como violado o art. 5º, II, XXXV, XXXVI, LIV e LV, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 194):
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. CORREÇÃO MONETÁRIA. ÉPOCA PRÓPRIA – esta Corte já cristalizou por meio da Súmula nº 381 o seguinte entendimento a respeito da época própria para a correção monetária: “O pagamento dos salários até o 5º dia útil do mês subseqüente ao vencido não está sujeito à correção monetária. Se essa data limite for ultrapassada, incidirá o índice da correção monetária do mês subseqüente ao da prestação dos serviços, a partir do dia 1º”. O recurso encontra obstáculo no disposto do art. 896, § 2º e § 5º, da CLT. Agravo de Instrumento a que se nega provimento.”
+Alega a parte agravante que o Tribunal Superior do Trabalho ofendeu diversos princípios constitucionais, na medida em que teria sonegado prestação jurisdicional.
+A jurisprudência desta Corte pacificou o entendimento de que a controvérsia em torno da aferição dos pressupostos de admissibilidade do recurso de revista, quando apoiados em súmulas do Tribunal Superior do Trabalho, restringe-se ao âmbito processual, de caráter eminentemente infraconstitucional, hipótese em que não se admite o recurso extraordinário (cf. AI 478.014, rel. min. Celso de Mello; AI 266.463, rel. min. Maurício Corrêa; AI 249.675, rel. min. Sepúlveda Pertence).
+Igualmente, a análise de eventual violação do texto da Constituição demandaria o exame prévio da legislação infraconstitucional (CLT e Lei 8.177/1991). Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+Por outro lado, não procede a alegação de afronta ao art. 5º, XXXV, LIV e LV, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 15 de março de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
