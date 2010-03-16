@@ -1,0 +1,15 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao recurso extraordinário e afastou a aplicação, no caso, do art. 1º-D da Lei 9.494/97, por entender devida a cobrança de honorários advocatícios em execução de sentença embargada pela Fazenda Pública.
+A agravante sustenta, em suma, que a questão referente à oposição por ela de embargos à execução não foi examinada pelo acórdão recorrido e, por isso, não pode ser apreciada pelo Supremo Tribunal Federal.
+Bem reexaminada a questão, verifica-se que a decisão não merece reforma.
+Com efeito, como consignado na decisão agravada, são devidos honorários advocatícios em execução de sentença embargada pela Fazenda Pública. No caso, consoante noticiado nas contrarrazões ao recurso extraordinário (fl. 272) e na Petição de fls. 309-312, foram opostos embargos à execução pela ora agravante, o que afasta a incidência do art. 1º-D da Lei 9.494/97.
+Observo, também, que não prospera o argumento da agravante referente à impossibilidade de exame por esta Corte da informação relativa à existência de embargos à execução. É que, tal como assentado no julgamento de caso idêntico (RE 467.965-AgR-ED-ED/RS, Min. Cezar Peluso, Primeira Turma), a referida informação configura apresentação de elemento novo suscetível de apreciação por este Tribunal.
+Ressalto que, em diversas oportunidades, o Supremo Tribunal Federal tem, em casos similares ao ora em exame, aceitado a informação atinente à existência de embargos à execução, apresentada apenas na instância extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: RE 480.878-AgR-ED/RS, Rel. Min. Gilmar Mendes; AI 658.458/RS, Rel. Min. Menezes Direito; RE 539.244-AgR/RS, de minha relatoria.
+Por fim, o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 16 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
