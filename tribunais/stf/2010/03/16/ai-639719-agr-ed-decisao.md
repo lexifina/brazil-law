@@ -1,0 +1,28 @@
+Trata-se de embargos de declaração opostos contra decisão da Primeira Turma desta Corte que negou provimento ao agravo regimental. Eis o teor do acórdão embargado:
+“EMENTA: PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSOS TRABALHISTAS. PRESSUPOSTOS DE ADMISSIBILIDADE. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL.
+I – A jurisprudência da Corte é no sentido de que o debate acerca dos pressupostos de admissibilidade dos recursos trabalhistas torna inviável o recurso extraordinário, por envolver questões de caráter infraconstitucional.
+II - Inexistência de novos argumentos capazes de afastar as razões expendidas na decisão atacada.
+III – Condenação ao pagamento de multa de 2% sobre o valor da causa.
+IV - Agravo regimental improvido” (fl. 368).
+Comprovado o depósito do respectivo valor referente à multa de 2% (dois por cento) à fl. 380.
+Os embargantes insurgiram-se contra supostas omissões no acórdão embargado, sob o argumento de que
+“(...) patente o interesse de recorrer dos Sindicatos-Embargantes, não com o fito de procrastinar o presente processo, mas de submetê-lo à recomendável julgamento à luz da jurisprudência mais atual e correta no âmbito desta Colenda Corte Constitucional (...)” (fl. 376).
+Passo a decidir.
+Como se sabe, os embargos de declaração visam sanar omissão, obscuridade ou contradição de decisão judicial. O acórdão ora atacado não apresenta qualquer desses vícios.
+A análise dos autos demonstra que o acórdão examinou de forma adequada a matéria e apreciou, inteiramente, as questões que se apresentavam. As razões de decidir, adotadas por ocasião daquele julgamento, são suficientes para afastar a pretensão do embargante.
+É que, o Tribunal Superior do Trabalho decidiu a causa nos seguintes termos:
+“Por outro lado, verifica-se que a questão discutida na decisão recorrida cinge-se ao preenchimento dos pressupostos do recurso de embargos, à luz da jurisprudência desta Corte” (fl. 318).
+V ê-se, portanto, que o Tribunal a quo limitou-se ao exame dos pressupostos de cabimento de recurso trabalhista, logo, como afirmado na decisão impugnada, para se concluir de forma diversa do acórdão recorrido, necessário seria o prévio exame da legislação infraconstitucional. Assim, repiso o entendimento de que a afronta à Constituição, se ocorrente, seria indireta. Nesse sentido, além dos julgados mencionados na decisão agravada cito ainda, precedentes de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E TRABALHISTA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. ADMISSIBILIDADE DE RECURSO: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+1. A jurisprudência do Supremo Tribunal firmou-se no sentido de que, ainda que surgida a alegada ofensa constitucional no acórdão recorrido, é necessária a oposição de embargos de declaração, se não houver a análise da ofensa pelo órgão judicante. Precedentes.
+2. Admissibilidade de recurso da competência do Tribunal Superior do Trabalho: impossibilidade da análise da legislação infraconstitucional. Ofensa constitucional indireta.
+3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 734.827-AgR/AM, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO DE INSTRUMENTO - MATÉRIA TRABALHISTA - AUSÊNCIA DE OFENSA DIRETA AO TEXTO CONSTITUCIONAL - RECURSO IMPROVIDO. - O debate em torno da aferição dos pressupostos de admissibilidade dos recursos trabalhistas em geral, ainda que se cuide de recurso de revista, não viabiliza o acesso à via recursal extraordinária, por envolver discussão pertinente a tema de caráter eminentemente infraconstitucional. Precedentes. - Situações de ofensa meramente reflexa ao texto da Constituição não viabilizam o acesso à via recursal extraordinária, cuja utilização supõe a necessária ocorrência de conflito imediato com o ordenamento constitucional. Precedentes”   (AI 692.558-AgR/SP, Rel. Min. Celso de Mello, Segunda Turma).
+Outrossim, os Ministros desta Corte, no RE 598.365-RG/MG, Rel. Min. Carlos Britto, manifestaram-se pela inexistência de repercussão geral do tema constitucional versado nos presentes autos – pressupostos de admissibilidade de recursos de Cortes diversas - decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+Ressalte-se que os embargos de declaração não configuram via processual adequada à rediscussão do mérito da causa. São admissíveis em caráter infringente somente em hipóteses excepcionais, de omissão do julgado ou de erro material manifesto. Nesse sentido: RE n. 223.904-ED/MG, Rel. Min. Ellen Gracie, AO 1.047-ED/RR, Rel. Min. Joaquim Barbosa, AI 600.506-AgR-ED/GO, Rel. Min. Cezar Peluso.
+Outrossim, a jurisprudência deste Tribunal reconhece a competência do Relator para examinar a admissibilidade dos embargos declaratórios, mesmo que opostos contra decisão colegiada. Nesse sentido: ADI 1.138-ED/RJ, Rel. Min. Carlos Britto; MS 22.899-ED/SP, Rel. Min. Eros Grau; AI 414.533-AgR-ED-ED-EDv-AgR-ED/RN, MI 698-AgR-ED/DF e MS 25.893-AgR-ED/DF, de minha relatoria; AI 436.868-AgR-ED/RJ e RE 509.588-ED/SP e Ext 855-ED/CL, Rel. Min. Celso de Mello; AI 609.912-ED/BA, Rel. Min. Cezar Peluso; HC 89.906, Rel. Min. Cármen Lúcia.
+Isso posto, rejeito os embargos declaratórios (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 16 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
