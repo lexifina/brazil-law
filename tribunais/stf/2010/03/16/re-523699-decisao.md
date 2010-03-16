@@ -1,0 +1,25 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região. Acórdão assim ementado (fls. 194/195):
+“TRIBUTÁRIO. IMUNIDADE RECÍPROCA. LEGITIMIDADE ATIVA E PASSIVA AD CAUSAM. ICMS. SERVIÇOS DE TELEFONIA E ENERGIA ELÉTRICA PRESTADOS POR CONCESSIONÁRIAS. CONTRIBUINTE. CONSUMIDOR FINAL. REPERCUSSÃO FINANCEIRA DO TRIBUTO. CONTRIBUINTE DE FATO. DIREITO DE PLEITEAR A RESTITUIÇÃO.
+1. De acordo com a concepção do CPC, a titularidade da ação deve ser aferida em vista do conflito de interesses, qualificado pela pretensão da autora e resistência do réu. O impetrante afirma ter direito a não pagar o ICMS cobrado nas faturas de serviço de telecomunicações, alegando ter imunidade tributária, ao passo que o impetrado negou a existência da relação jurídico-tributária entre o Estado e o demandante.
+2. No caso, o sujeito ativo do ICMS exige o tributo das empresas contribuintes, a quem a União outorgou os serviços de telefonia e energia elétrica; as prestadoras, por sua vez, transferem ao consumidor o custo do tributo, como parte integrante do preço dos serviços. Distinguem-se três relações jurídicas entre: a) o Estado do Paraná e a empresa prestadora, de natureza tributária; b) o consumidor e a empresa prestadora, de natureza contratual; c) a União e a concessionária, de natureza administrativa.
+3. A imunidade recíproca afasta a incidência de ICMS sobre os serviços prestados diretamente pela União, suas autarquias e fundações, porque a Constituição impede que sejam sujeitos passivos de impostos exigidos por outros entes federados, porém não veda a tributação indireta, quando consumidores de serviços realizados por autarquia ou empresa pública ou privada.
+4. O destaque do ICMS na fatura não tem o condão de investir o usuário dos serviços na condição de sujeito passivo do tributo ou responsável tributário, mas o de instrumentalizar o princípio da não-cumulatividade, concedendo direito de crédito apenas à empresa de telecomunicações e energia elétrica. Embora sofra a repercussão financeira da exação, o consumidor fica alheio à relação jurídico-tributária nascida entre o contribuinte e o sujeito ativo.
+5. O fenômeno da transferência do encargo econômico não interessa ao direito tributário. É relevante apenas a pessoa designada pela lei como obrigada ao pagamento do tributo. No caso dos tributos indiretos, a regra jurídica de tributação visa atingir diretamente a renda da comunidade, razão pela qual o encargo financeiro é transferido ao consumidor final; contudo, para fins de tributação, importa apenas o sujeito passivo, dito contribuinte de direito.
+6. A regra do art. 166 do CTN não torna o contribuinte de fato sujeito passivo da relação jurídico-tributária. Os titulares do direito de pleitear a repetição do pagamento indevido, desde que provem ter assumido o encargo financeiro ou estejam autorizados pelo terceiro a quem foi transferido o referido ônus, são unicamente o contribuinte ou o responsável tributário.”
+2. Pois bem, a parte recorrente alega ofensa à alínea “a” do inciso VI e ao § 2º do art. 150 da Carta Magna de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opinou pelo desprovimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. Isso porque o aresto impugnado afina com a jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta. Por ilustrativas, reproduzo as seguintes ementas:
+“IMUNIDADE FISCAL RECÍPROCA. Não tem aplicação, na cobrança do imposto sobre produtos industrializados. O contribuinte de iure é o industrial ou o produtor. Não é possível opor a realidade econômica à forma jurídica, para excluir uma obrigação fiscal precisamente definida em lei. O contribuinte de fato é estranho à relação tributária e não pode, alegar, a seu favor, a imunidade recíproca.”
+(RE  71.300, da relatoria do ministro Bilac Pinto)
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. FORNECIMENTO DE ENERGIA ELÉTRICA PARA ILUMINAÇÃO PÚBLICA. ICMS. IMUNIDADE INVOCADA PELO MUNICÍPIO. IMPOSSIBILIDADE.
+2. A jurisprudência do Supremo firmou-se no sentido de que a imunidade de que trata o artigo 150, VI, a, da CB/88, somente se aplica a imposto incidente sobre serviço, patrimônio ou renda do próprio Município.
+3. Esta Corte firmou entendimento no sentido de que o município não é o contribuinte de direito do ICMS, descabendo confundi-lo com a figura do contribuinte de fato e a imunidade recíproca não beneficia o contribuinte de fato.
+Agravo regimental a que se nega provimento.”
+(AI 671.412-AgR, da relatoria do ministro Eros Grau)
+5. Nesse mesmo sentido, vejam-se a ACO 1.128, da relatoria do ministro Celso de Mello; bem como os REs 344.729, da relatoria do ministro Joaquim Barbosa; e 378.105, da relatoria do ministro Gilmar Mendes.
+Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 16 de março de 2010.
+Ministro AYRES BRITTO
+Relator
