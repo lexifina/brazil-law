@@ -1,0 +1,24 @@
+Trata-se de recurso extraordinário interposto contra acórdão que reconheceu o direito do contribuinte de creditar-se do IPI na aquisição de insumos isentos e sujeitos à alíquota zero, bem como da integralidade do crédito na aquisição de insumos de comerciantes atacadistas não contribuintes.
+Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, a inconstitucionalidade do direito à integralidade dos créditos de IPI na aquisição de insumos de comerciantes atacadistas não contribuintes e do crédito na aquisição de insumos sujeitos à alíquota zero.
+Alegou-se, ainda, a ilegitimidade da correção monetária sobre os créditos reconhecidos.
+A pretensão recursal merece acolhida, em parte.
+Observe-se, inicialmente, que o direito aos créditos de IPI na aquisição de produtos isentos não foi objeto do recurso extraordinário e, dessa forma, a matéria ficou preclusa.
+Além disso, ressalto que a aquisição de insumos de atacadistas revela situação de não tributação do IPI.
+Posto isso, verifico que, relativamente às matérias impugnadas, é aplicável o entendimento desta Corte, que no julgamento do RE 353.657/PR, Rel. Min. Marco Aurélio, e do RE 370.682/SC, Rel. Min. Ilmar Galvão, deu provimento aos recursos por entender que, nas hipóteses de não tributação ou de alíquota zero do IPI, a admissão do creditamento implica ofensa ao art. 153, § 3º, II, da Constituição.
+Na ocasião, levantou-se como um dos óbices ao reconhecimento do crédito, a impossibilidade do Judiciário, ao atribuir crédito presumido, atuar com legislador positivo, ante a inexistência de parâmetro normativo para se definir a quantia a ser compensada.
+Ademais, “esclareceu-se que a Lei 9.779/99 não confere direito a crédito na hipótese de alíquota zero ou de não tributação e sim naquela em que as operações anteriores foram tributadas, mas a final não o foi, evitando-se, com isso, tornar inócuo o benefício fiscal” (Informativo 456 do STF).
+No mesmo sentido, cito as seguintes decisões, entre outras: RE 459.553/SC, Rel. Min. Eros Grau; RE 539.821/MG, Rel. Min. Carlos Britto; RE 396.371/SC, Rel. Min. Cármen Lúcia; RE 407.823/MG, Rel. Min. Marco Aurélio; RE 352.424/PR, Rel. Min. Cezar Peluso.
+Com relação à discussão sobre a incidência de correção monetária aos créditos reconhecidos nos autos, não é de se aplicar a jurisprudência do Tribunal que, ressalvada a previsão em legislação local, entende indevida a correção monetária dos créditos regularmente escriturados.
+É que a Corte admite a incidência da correção monetária referente ao período em que se reconheceu ilegítima a resistência do Estado em possibilitar o aproveitamento dos créditos mencionados, a exemplo do que ocorreu no julgamento do RE 282.120/PR, Rel. Min. Maurício Corrêa, cuja ementa transcrevo a seguir:
+“RECURSO EXTRAORDINÁRIO. PREQUESTIONAMENTO. EXPORTAÇÃO. PRODUTOS INDUSTRIALIZADOS. ICMS. MATÉRIA-PRIMA E OUTROS INSUMOS. COMPENSAÇÃO. AUTORIZAÇÃO LEGAL. SUSPENSÃO LIMINAR. CRÉDITO IMPOSSIBILITADO. CONSTITUCIONALIDADE RECONHECIDA POSTERIORMENTE. RETORNO DA SITUAÇÃO AO STATUS QUO ANTE. CORREÇÃO MONETÁRIA. CABIMENTO.
+1.  Prequestionamento. Ausente o interesse de recorrer, por falta de sucumbência, basta para o atendimento do requisito que a tese jurídica suscitada como causa de pedir tenha sido objeto das contra-razões apresentadas pela parte por ocasião dos recursos de apelação e extraordinário, e também tratada nos embargos de declaração.
+2.  ICMS. Compensação autorizada pelo artigo 3º da Lei Complementar federal 65/91. Regra legal suspensa liminarmente. Julgamento de mérito superveniente que reconheceu a constitucionalidade do dispositivo (ADI 600, DJ 30/06/95). Efeitos ex-tunc da decisão.
+3.  Créditos escriturais não realizados no momento adequado por óbice do Fisco, em observância à suspensão cautelar da norma autorizadora. Retorno da situação ao status quo anterior. Garantia de eficácia da lei desde sua edição. Correção monetária devida, sob pena de enriquecimento sem causa da Fazenda Pública.
+4.  Atualização monetária que não advém da permissão legal de compensação, mas do impedimento causado pelo Estado para o lançamento na época própria. Hipótese diversa da mera pretensão de corrigir-se, sem previsão legal, créditos escriturais do ICMS. Acórdão mantido por fundamentos diversos.
+Recurso extraordinário não conhecido”.
+Nessa mesma esteira de pensamento, anoto, ainda, os seguintes precedentes: RE 200.379-ED-ED-EDv/SP, Rel. Min. Sepúlveda Pertence; RE 301.753-AgR/PR, Rel. Min. Ellen Gracie.
+Isso posto, conheço do recurso extraordinário e dou-lhe parcial provimento (CPC, art. 557, § 1º-A), apenas para negar o direito ao crédito de IPI decorrente da aquisição de produtos sujeitos à alíquota zero. Sem honorários (Súmula 512 do STF).
+Publique-se.
+Brasília, 16 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
