@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. IMPORTAÇÃO BACALHAU. ISENÇÃO. PAÍS SIGNATÁRIO DO ACORDO GERAL DE TARIFAS E COMÉRCIO. CONVÊNIO N. 60/1991. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido teve como objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“TRIBUTÁRIO E PROCESSUAL CIVIL. ICMS. IMPORTAÇÃO DE BACALHAU APÓS 30/04/1999, OCASIÃO EM QUE NÃO MAIS VIGORAVA O CONVÊNIO Nº 60/91, QUE, EM RAZÃO DE IGUAL TRATAMENTO CONFERIDO AO SIMILAR NACIONAL, ISENTAVA DE ICMS O BACALHAU IMPORTADO DE PAÍS SIGNATÁRIO DO G.A.T.T. SENTENÇA DE IMPROCEDÊNCIA. APELAÇÃO DO IMPORTADOR. PRELIMINAR DE CERCEAMENTO DE DEFESA EM RAZÃO DA FALTA DE CITAÇÃO DO EMBARGADO PARA IMPUGNAÇÃO AOS EMBARGOS. AUSÊNCIA DE CONSISTÊNCIA NA PRELIMINAR, DISPENSANDO-SE A INTIMAÇÃO NAS SITUAÇÕES QUE DIZEM RESPEITO À MATÉRIA UNICAMENTE DE DIREITO E JÁ CONSOLIDADA NA JURISPRUDÊNCIA. APLICAÇÃO ANALÓGICA DO DISPOSTO NO ART. 285-A, DO CPC. REJEIÇÃO DA PRELIMINAR. EXECUÇÃO FISCAL RESPEITANTE A FATO GERADOR OCORRIDO APÓS A REVOGAÇÃO DO CONVÊNIO 60/91, QUE VIGOROU ATÉ 30/04/99 E ISENTAVA DE ICMS O BACALHAU IMPORTADO DE PAÍS SIGNATÁRIO DO GATT. EXAURIMENTO DO PRAZO DE VIGÊNCIA DO ALUDIDO CONVÊNIO. IMPROCEDÊNCIA DOS EMBARGOS DE DEVEDOR. DESPROVIMENTO DO APELO” (fl. 76).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 111-112).
+4. O Agravante alega que teriam sido contrariados os arts. 5º, § 2º, e 150, inc. II, da Constituição da República.
+Afirma que “se o pescado nacional integra a cesta básica e inexiste bacalhau entre eles não há porque excluir-se o segundo, nem como fazê-lo sem contrariar acordo internacional e os instrumentos legais que asseguram sua obediência e primazia” (fl. 92).
+Argumenta, ainda, que “a cesta básica, lista de produtos ou gêneros de primeira necessidade inclui os pescados em geral, o que é absolutamente coerente, compreensível e correto, tendo em vista as razões supra expostas, e, ainda a condição de comestível do bem em tela. Todavia, incorre em inconstitucionalidade, aqui invocada em caráter particular, ao discriminar determinados peixes, todos estrangeiros, o que implica em franco descumprimento da isonomia constitucional” (fl. 93).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. O Tribunal a quo asseverou que:
+“a execução fiscal ajuizada pelo Réu trata de fato gerador ocorrido após a revogação do Convênio nº 60/91, que vigorou até 30/04/1999, e que isentava de ICMS o bacalhau importado de país signatário do G.A.T.T. em virtude de igual tratamento conferido ao similar nacional, qual seja, ao peixe seco e salgado. Assim sendo, não há que se cogitar de isenção do referido tributo na forma pretendida pelo Autor, uma vez que a importação do produto se efetivou quando não mais em vigor a norma que isentava essa operação da incidência do ICMS” (fl. 78).
+É de se realçar que a controvérsia foi decidida com base na análise da legislação infraconstitucional. A ofensa à Constituição, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário:
+Nesse sentido:
+“É pacífica a jurisprudência deste Supremo Tribunal no sentido de que a controvérsia relativa à isenção de ICMS, referente à importação de produto proveniente de país signatário do GATT (no caso, importação de bacalhau), é matéria que requer o reexame dos fatos e das provas da causa (Súmula STF nº 279), além da análise de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária. 2. Agravo regimental improvido” (AI 480.176-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJ 18.11.2005).
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ISENÇÃO ICMS. GATT. OFENSA INDIRETA. PRECEDENTES. A apreciação de eventual ofensa à Constituição dependeria do prévio exame da legislação ordinária, o que inviabiliza o recurso extraordinário por configurar hipótese de ofensa indireta. Agravo regimental a que se nega provimento” (AI 409.348-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 17.9.2004).
+Não há, pois, divergência entre a decisão agravada e a jurisprudência deste Supremo Tribunal, pelo que nada há a prover quanto às alegações do Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 17 de março de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
