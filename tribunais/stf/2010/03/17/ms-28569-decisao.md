@@ -1,0 +1,35 @@
+Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Macia Cristini de Almeida Bezerra, contra ato do Conselho Nacional de Justiça – CNJ que, em determinação constante do Auto Circunstanciado de Inspeção Preventiva, fixou prazo para que a administração do Tribunal de Justiça do Estado da Paraíba devolvesse todos os servidores requisitados que não exercessem cargo comissionado ou função de confiança.
+A impetrante, técnica judiciária do Poder Judiciário paraibano, sustenta que foi designada, em 1998, para o exercício de suas funções na 1ª Vara da Comarca de Pombal, onde trabalhou até o início de 2007.
+Narra, mais, que
+“Em 23 de outubro de 2006 o esposo da Impetrante (DOC. 03 e 04), também Técnico Judiciário, inicialmente lotado na Comarca de Pombal/PB, foi designado para prestar serviços na 7ª Vara de Família da Comarca da Capital (...).
+Logo após o aludido ato, no dia 07 de novembro de 2006, foi o esposo da Impetrante promovido para a 2ª Vara da Comarca de Bayeux/PB, localizada na região metropolitana da Capital (...).
+Em 05 de dezembro de 2006, o esposo da Impetrante, (sic) foi designado para prestar serviços junto ao Gabinete do Desembargador José Martinho Lisboa (...).
+Essa sequencia de atos administrativos, com a aquiescência do TJPB, deslocou definitivamente o marido da Impetrante, diga-se, por interesse da administração para uma Comarca circunvizinha da Capital, eis que o ato de promoção acima citado consubstancia-se em tal natureza” (fl. 3).
+Alega, ainda, que
+“(...) considerando o fato de estarem a mais de 400 Km de distância, bem como terem dois filhos menores, foi requerido pela Impetrante sua lotação na Comarca da Capital, com o fito de acompanhar o marido, preservando, desse modo, a unidade familiar, pleito esse deferido com sua designação para prestar serviços junto à Coordenadoria de Registros e Distribuição do TJPB” (fl. 3).
+Após determinação do Conselho Nacional de Justiça – CNJ para que a Administração da Corte paraibana devolvesse todos os servidores requisitados que não exercessem cargo comissionado ou função de confiança, prevista no Auto Circunstanciado de Inspeção Preventiva na Justiça Estadual da Paraíba, a Presidência do TJPB, pela Portaria 2.344/2009, devolveu a impetrante para a Comarca de Pombal, enquanto seu esposo foi designado para o exercício de suas funções na Comarca de Bayeux.
+Alega, mais, que
+“o relatório invocado não determina que as devoluções sejam feitas aos órgãos anteriormente exercidos, mas apenas que sejam devolvidos, o que deve ser feito resguardando os direitos dos servidores do Poder Judiciário” (fl. 8).
+Sustenta, dessa forma, violação aos preceitos constitucionais relativos à proteção familiar pelo Estado, mormente ao disposto no artigo 226 da Constituição Federal, porquanto
+“o ato da Presidência do Tribunal de Justiça paraibano foi realizado de forma abusiva e inconstitucional, sem observância dos direitos originados nos atos anteriores – designação para prestar serviços nos gabinetes anteriormente nominados (...)” (fl. 4).
+Aduz presentes os requisitos da concessão da medida liminar e pugna pelo seu deferimento para suspender
+“o ato que deu motivo ao pedido de determinar o retorno da Impetrante para uma das varas cíveis, criminais ou juizados especiais da Comarca da Capital ou mesmo Tribunal de Justiça enquanto se aprecia o mérito da presente demanda” (fl. 10).
+No mérito, requer a concessão da segurança, a fim de assegurar o direito da impetrante de
+“ficar acompanhando o seu marido na região metropolitana de João Pessoa, sendo lotada em uma das varas cíveis, criminais ou juizados especiais da Comarca da Capital ou mesmo Tribunal de Justiça, tudo em respeito aos postulados constitucionais da unidade familiar” (fl. 11).
+É o relatório.
+Passo a decidir.
+Observo que a determinação do Conselho Nacional de Justiça à administração do Tribunal de Justiça do Estado da Paraíba reveste-se de caráter geral e abstrato, porquanto tal determinação acaba por direcionar as providências específicas ao Tribunal estadual.
+A impetração, em verdade, não se insurge contra ato do CNJ, porquanto dotado de generalidade e abstração, mas contra o ato do TJPB que, ao implementar a determinação do CNJ, concretamente analisou os critérios determinantes de seu delineamento, fato reconhecido pela própria impetrante que, à fl. 8, afirmou:
+“O fato de ter sido a portaria expedida em cumprimento a determinado constante do Relatório do CNJ não altera a relação jurídica da Impetrante, pois em nenhum momento o Min. Gilson Dipp determinou que a Impetrante seja devolvida ao respectivo órgão de origem, apenas limitou-se a determinar, no item 1.1.2 do Relatório, que a Administração devolva os requisitados”.
+É dizer: não está em questão o fato de se devolver servidores requisitados que não exerçam cargo comissionado ou função de confiança, mas a forma de implementação dessa determinação, ou seja, a individualização desse comando com a devida observância dos preceitos constitucionais invocados, de competência inconteste, a meu ver, do Tribunal paraibano.
+Como bem ressaltou o Ministro Celso de Mello, ao analisar semelhante caso, nos autos do MS 28.464/DF:
+“(...)
+Esse entendimento doutrinário, por sua vez, expressa, de maneira clara, a própria jurisprudência do Supremo Tribunal Federal, que sempre tem enfatizado, a propósito da matéria em exame, não serem impugnáveis, em sede mandamental, aqueles atos estatais - como o de que ora se cuida - cujo conteúdo veicule prescrições disciplinadoras de situações gerais e impessoais e regedoras de hipóteses que se achem abstratamente previstas em tais atos ou resoluções (RTJ 132/189, Rel. Min. CELSO DE MELLO).
+E é, exatamente, o que sucede na espécie, pois a Resolução CNJ nº 80/2009 - pela circunstância de apenas dispor, normativamente, ‘in abstracto’, sobre situações gerais e impessoais - depende, para efeito de sua aplicabilidade, da prática necessária e ulterior de atos concretos (estes, de competência dos “respectivos tribunais dos Estados, do Distrito Federal e Territórios” e da Corregedoria Nacional de Justiça) destinados a realizar as prescrições abstratas formalmente consubstanciadas no mencionado ato normativo.
+(...)
+Reconhecer-se, na espécie ora em exame, a possibilidade jurídico-processual de impugnação, em sede mandamental, do ato normativo em questão equivaleria, em última análise, a autorizar a indevida utilização do mandado de segurança como inadmissível sucedâneo da ação direta de inconstitucionalidade, desconsiderando-se, desse modo, a advertência deste Supremo Tribunal Federal, cujas decisões já acentuaram, por mais de uma vez, a inviabilidade do emprego do ‘writ’” mandamental como instrumento de controle abstrato da validade constitucional das leis e dos atos normativos em geral (RTJ 110/77, Rel. Min. FRANCISCO REZEK - RTJ 111/184, Rel. Min. DJACI FALCÃO - RTJ 132/1136, Rel. Min. CELSO DE MELLO, v.g.)” (grifos no original).
+Isso posto, nego seguimento ao writ (art. 21, § 1º, RISTF). Prejudicado, pois, o exame do pedido liminar.
+Publique-se.
+Brasília, 17 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
