@@ -1,0 +1,20 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que, na instância de origem, indeferiu processamento de recurso extraordinário contra acórdão do Tribunal Regional Federal da 4ª Região e assim ementado:
+“TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. LAGITIMIDADE PASSIVA AD CAUSAM DA UNIÃO. PRESCRIÇÃO. CORREÇÃO MONETÁRIA. ÍNDICES APLICÁVEIS. EXPURGOS INFLACIONÁRIOS.
+1. A União é parte passiva legítima para responder à demanda na qual se reclamam as diferenças de correção monetária do empréstimo compulsório sobre a energia elétrica, pois, embora o tributo tenha sido instituído em favor da ELETROBRÁS, a União manteve sob sua responsabilidade e controle a arrecadação e o emprego dos recursos.
+2. O prazo prescricional passa a fluir a partir da data fixada pelo DL nº 1.512/76 para o resgate do empréstimo compulsório, ou seja, vinte anos a aquisição compulsória das obrigações emitidas em favor do contribuinte.
+3. A conversão antecipada em ações não pode ser considerada como marco inicial da prescrição, por estar ausente o direito exigível, atual, cuja violação acarreta o nascimento da ação (actio nata). Mesmo recebendo crédito representado pelas ações, o credor não podia dispor livremente desses títulos, pois o art. 3º, § único, do DL nº 1.512/76 impunha gravame que impossibilitava a transferência dos papéis, até o vencimento do empréstimo.
+4. O entendimento adotado, no âmbito da 1ª Turma, quanto à regra aplicável à prescrição, é de que incidem as disposições do Decreto nº 20.910/32, em face do litisconsórcio passivo necessário com a União.
+5. Embora os créditos posteriores a 1998 ainda não estejam vencidos, por não ter transcorrido o prazo para sua devolução, não há porque excluí-los do alcance do provimento jurisdicional, visto que a declaração da relação jurídica não se destina a reger somente situações passadas, mas também as que irão se estabelecer futuramente.
+6. Desde a Constituição de 1967 o empréstimo compulsório possui natureza jurídica tributária, estando submetido aos mesmos princípios, normas gerais em matéria de legislação tributária e limitações do poder de tributar inerentes aos demais tributos, entre os quais a proibição de utilizar tributo com efeito de confisco, contida no art. 150, IV, da Constituição de 1988.
+7. Se o Estado não devolver ao contribuinte as importâncias tomadas compulsoriamente com a atualização integral, desde o recolhimento até o efetivo resgate, estará enriquecendo ilicitamente e confiscando o capital do contribuinte, valendo-se do seu poder de impor o empréstimo forçado.
+8. Descabida a incidência da taxa SELIC, pois a legislação já prevê juros de natureza compensatória de 6% ao ano sobre as contribuições a serem devolvidas e o art. 39, §4º, da Lei nº 9.250/95 rege somente os casos de compensação ou restituição de tributo pago indevidamente ou a maior, não se aplicando ao caso presente.
+9. Para o cálculo das diferenças relativas à conversão das ações, é descabida a utilização do valor de mercado, por falta de amparo legal e não estar evidenciada a finalidade confiscatória.” (fl. 91)
+ No extraordinário, a recorrente alegou, com fundamento no art. 102, III, a, violação ao art. 97, da Constituição Federal, e ao art. 34, § 12, do Dispositivo Transitório.
+2.  Inadmissível o recurso.
+ Primeiramente, o acórdão impugnado dirimiu a controvérsia com base em normas subalternas. Ora, é pacífica a jurisprudência desta Corte, no sentido de se não admitir, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+ Ademais, não houve declaração de inconstitucionalidade no acórdão, nem menção de precedente nesse sentido do órgão especial competente para declarar a inconstitucionalidade (art. 97 do CF).
+3.  Ante o exposto, nego seguimento ao agravo (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+ Publique-se. Int..
+Brasília, 18 de março de 2010.
+Ministro CEZAR PELUSO
+Relator
