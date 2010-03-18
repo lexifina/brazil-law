@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário contra acórdão que, nos termos do art. 37, XVI, b, da Constituição, entendeu que militar da reserva pode receber licitamente os proventos de seu cargo – em virtude de seu caráter técnico – cumulado com os vencimentos de cargo de magistério.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 37, § 10, e 142, § 3º, II, da mesma Carta.
+A pretensão recursal merece acolhida.
+Bem examinados os autos, verifica-se que o recorrido, militar da reserva, pretende perceber simultaneamente seus proventos com os vencimentos do cargo de magistério público, para o qual ingressou após a edição da EC 20/98.
+Entretanto, a interpretação dos dispositivos constitucionais incidentes na espécie (arts. 37, XVI, b, e 142, § 3º, II) não autoriza o acolhimento da mencionada pretensão.
+Note-se que, a despeito de o art. 37, XVI, b, da CF/88 referir-se genericamente à possibilidade de acumulação de cargos públicos - um de professor com outro técnico ou científico - quando houver compatibilidade de horários, os militares receberam disciplinamento específico na Lei Maior acerca do tema.
+Com efeito, o art. 42, § 1º, combinado com o art. 142, § 3º, II, da Constituição estabelece que o militar da ativa que tomar posse em cargo ou emprego civil permanente será transferido para a reserva.
+Assim, diante do caráter específico e restritivo da norma supracitada, não se justifica a interpretação extensiva conferida pelo acórdão recorrido, uma vez que os cargos não eram acumuláveis na atividade.
+Ora, caso fosse intenção do constituinte outorgar o direito ao militar de acumular cargo, emprego ou função, independentemente da necessidade de ser transferido para a reserva (art. 142, § 3º, II), teria incluído referido direito no elenco do art. 142, § 3º, VIII, da Constituição, que determina a aplicação de alguns incisos do art. 37 aos militares.
+Além disso, importa destacar que o art. 37, XVI, a, b e c, da Lei Maior, que enumera as hipóteses autorizadas de acumulação remunerada de cargos, é de cunho excepcional, não sendo dado ao intérprete estendê-lo para abranger situações não contempladas em seu texto. Nesse sentido, o RE 560.235/SP, Rel. Min. Ellen Gracie, do qual destaco o seguinte trecho:
+“6.  Entretanto, o Supremo Tribunal Federal já assentou entendimento de que a previsão constitucional de acumulação de cargos destina-se aos servidores civis, uma vez que os militares submetem-se a disciplinamento específico, contido nas regras do art. 42, § 1º, c/c o art. 142, § 3º, II, da Carta Magna, o qual determina que o militar da ativa, ao tomar posse em cargo ou emprego civil permanente, será transferido para a reserva.
+7.  Conclui-se então que o acórdão recorrido está em confronto com a jurisprudência da Suprema Corte, pois, nos termos do art. 37, XVI c/c 142, § 3º, II, da Carta Magna, no caso, é indevida a acumulação, na esfera militar e na civil, de cargos privativos de profissionais da saúde providos após o advento da Constituição Federal de 1988”.
+Por fim, a jurisprudência do Tribunal orientou-se no sentido de que a ressalva prevista no art. 11 da EC 20/98 aplica-se apenas aos casos em que o inativo, servidor ou militar, tenha ingressado novamente no serviço público até a data de sua publicação. Nesse sentido, transcrevo trecho da ementa do AI 399.878-AgR/RJ, Rel. Min. Cezar Peluso:
+“2.    RECURSO. Extraordinário. Inadmissibilidade. Acumulação de cargos. Possibilidade. Emenda Constitucional 20/98. Ressalva prevista. Precedentes. Tendo o militar da reserva remunerada ingressado em cargo público, mediante concurso público, antes da publicação da EC 20/98, é possível a acumulação das remunerações” (grifos meus).
+Isso posto, conheço do recurso extraordinário e dou-lhe provimento (CPC, art. 557, § 1º-A). Sem honorários (Súmula 512 do STF).
+Publique-se.
+Brasília, 18 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
