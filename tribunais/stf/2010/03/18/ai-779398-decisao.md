@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Estado do Rio de Janeiro interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 2º, 5º, inciso XXXV, e 37, caput, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Oitava Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim fundamentado:
+“(...)
+Como se verifica do item 2.2 do edital do concurso (fl. 13), a avaliação da experiência profissional não fez restrição expressa às funções de guarda municipal, tendo como atribuições a serem desempenhadas pelos Agentes de Disciplina, a execução de atividades relacionadas à manutenção da ordem, segurança, disciplina e vigilância de pessoas e patrimônio, a prestação de assistência aos adolescentes e participação de atividades recreativas e sócio-culturais, executar determinações judiciais e/ou administrativas, serviços de escola e acompanhamento e conduzir veículos automotores terrestres oficiais (item I – fl. 12).
+Assim, como bem assinalado pelo MM. Juiz a quo, considerando que as atribuições do cargo de guarda municipal não são incompatíveis com as atividades a serem desempenhadas pelo Agente de Disciplina não pode ser negado o direito de pontuação do Apelado” (fl. 202).
+Decido.
+Preliminarmente, destaco que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Na espécie, todos os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem, portanto, as Súmulas nºs 282 e 356 desta Corte.
+Outrossim, a análise de eventual afronta aos princípios da legalidade, da prestação jurisdicional e da separação dos poderes demandaria prévio reexame de fatos e de normas infraconstitucionais, notadamente de cláusulas do edital do certame, o que também inviabiliza a via extraordinária. Nesse sentido, as Súmulas nºs 279, 454 e 636 deste Supremo Tribunal Federal. A propósito, anote-se:
+“1. Concurso para ingresso na carreira de defensor público; recurso extraordinário: descabimento: pretensão ao exame do preenchimento dos requisitos do edital e à interpretação de legislação infraconstitucional ( Súmulas 279 e 636 ). 2. Recurso extraordinário: deficiência da fundamentação: incidência da Súmula 284” (RE nº 464.104/RS-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 16/6/06).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRASLADO DEFICIENTE. CONCURSO PÚBLICO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO” (AI 527816/MG AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 1º/2/08).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE PROVAS E DE CLAÚSULAS DO EDITAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 2. Reexame de fatos e provas e de cláusulas editalícias. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE nº 454.762/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 11/4/08).
+Por todo exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 18 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
