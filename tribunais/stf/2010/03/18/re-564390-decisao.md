@@ -1,0 +1,18 @@
+1.  Trata-se de recurso extraordinário interposto do acórdão assim ementado:
+“ DIREITO TRIBUTÁRIO. ISSQN. CONTRATO DE SUB-EMPREITADA. COBRANÇA DO TRIBUTO DA EMPREITEIRA E SUBEMPREITEIRA. BITRIBUTAÇÃO CARACTERIZADA. SENTENÇA DE CONCESSÃO DA ORDEM CONFIRMADA . Se o Município já reteve na fonte o ISSQN da empreiteira, não pode, agora, reiterá-lo, da subempreiteira, sob pena de bi-tributação, vedada pelo ordenamento jurídico.” (fl. 165)
+ Os embargos de declaração opostos foram rejeitados (fls. 177-180).
+2.  Inadmitido o RE na origem (fls. 232-235), subiram os autos em virtude de provimento de agravo de instrumento.
+3.  A parte recorrente alega, em síntese, ofensa aos arts. 97 e 145, § 2º, da Constituição Federal (fls. 192-198).
+4.  O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 247-248).
+5.  Preliminarmente, observo que o recurso extraordinário não merece seguimento, pois o art. 145, § 2º, da Constituição Federal, ao qual se apontou violação, não foi debatido na instância de origem, e são inviáveis os embargos de declaração opostos para fins de prequestionamento quando a questão constitucional não tiver sido ventilada no recurso interposto perante o Tribunal a quo. Falta-lhe, pois, o necessário prequestionamento, a teor da Súmula STF 282. Nesse sentido: RE 449.137-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.4.2008; AI 706.449-AgR/SC, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 07.11.2008; AI 631.711-AgR/BA; rel. Min. Ricardo Lewandowski; 1ª Turma, unânime, DJe 21.11.2008; AI 663.687-AgR/DF, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 20.2.2009, este último assim ementado:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO SUPREMO TRIBUNAL FEDERAL. CABIMENTO DE MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+1. O cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria constitucional, o que ocorre em momento processualmente adequado, nos termos da legislação vigente. A inovação da matéria em sede de embargos de declaração é juridicamente inaceitável para os fins de comprovação de prequestionamento.
+2. Admissibilidade de mandado de segurança: impossibilidade da análise da legislação infraconstitucional. Ofensa constitucional indireta.
+3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.”
+6.  Verifico também que, ao contrário do que sustenta a parte recorrente, não houve julgamento contrário ao disposto no art. 97 da Constituição Federal, que cuida da denominada “reserva de plenário”, para fins de possível declaração de inconstitucionalidade de lei ou ato normativo do poder público. Corroborando esse entendimento, cito o parecer do Ministério Público Federal na parte que interessa:
+“O recurso não merece prosperar, cabendo destacar inicialmente a ausência de violação ao art. 97 da CF/88. E isso porque o E. Tribunal de origem não declarou a inconstitucionalidade do item 7.02 da lista anexa à Lei Complementar nº 116/03 (cuja redação é semelhante ao item 32 da lista anexa ao Decreto-Lei nº 406/68), limitando-se, ao autorizar deduções não previstas expressamente naquela lei, a aplicar os princípios gerais de direito tributário, de modo evitar o efeito cascata que se configuraria sem as tais deduções relativas aos serviços de empreitada e subempreitada.” (fls. 247-248)
+7.  Ante o exposto, com fundamento no art. 557, caput, do CPC, nego seguimento ao recurso.
+Publique-se.
+Brasília, 18 de março de 2010.
+Ministra Ellen Gracie
+Relatora
