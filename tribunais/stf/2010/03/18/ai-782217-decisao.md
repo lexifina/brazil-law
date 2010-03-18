@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DA MOEDA EM UNIDADE REAL DE VALOR – URV: DIFERENÇA. REEXAME DE PROVAS: IMPOSSIBILIDADE. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido teve como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“AÇÃO DE COBRANÇA – SERVIDORES DO PODER EXECUTIVO – CONVERSÃO DA MOEDA EM URV – INEXISTÊNCIA DE DIFERENÇA A RESTITUIR – SENTENÇA CONFIRMADA . – Com base no laudo pericial utilizado pelo juízo, procedendo-se à conversão dos vencimentos de acordo com a metodologia posta na M.P. nº 434/94 e depois na Lei nº 8.880/94, não se apurou a defasagem remuneratória, impondo-se a improcedência dos pedidos. – Se o reajuste de 55% se deu em 01/03/1994, parece-me, ‘data venia’, obvio que, ao integrar imediatamente o vencimento do servidor, deveria mesmo, como foi, ser considerado antes e não depois, da conversão em URV” (fl. 26).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula 279 do Supremo Tribunal Federal e a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 74-77).
+4. Os Agravantes alegam que teria sido contrariado o art. 22, inc. VI, da Constituição da República.
+Afirmam que “a conversão dos vencimentos dos Autores/Apelantes feita em desacordo com a legislação federal e a erronia de interpretação para aplicação da Lei à espécie, redundou em prejuízo para os mesmos (...) a Lei Federal nº 8.880/94, bem como as medidas provisórias que a antecederam, são de aplicação compulsória aos Estados e Municípios, em especial no que diz respeito aos vencimentos de seus servidores civis e militares, fato impediente da aplicação de lei local que disciplina a matéria de forma diversa (fl. 48).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste aos Agravantes.
+6. O Tribunal de origem asseverou que:
+“No caso específico dos autos, foi realizada a perícia específica para o caso dos recorrentes (laudo de f. 177 e seguintes), não se constatando as perdas apontadas pelas partes, após a conversão dos vencimentos segundo a metodologia da Lei Estadual n. 11.510/94, compatibilizada com a Medida Provisória n. 434/94, ao contrário, a perícia demonstrou que o critério aplicado foi mais favorável aos recorrentes, inclusive, acarretando ganho remuneratório. No tocante ao pedido de inclusão do percentual de 55% com base no Decreto 35.475/94, sobre o valor apurado da remuneração após a conversão dos vencimentos em URV, não procede, sob pena de os autores buscarem a conversão de valores para evitar a perda do poder aquisitivo da moeda em caráter dúplice” (fl. 30).
+Tem-se, portanto, que para o deslinde da matéria posta à apreciação judicial, as instâncias originárias examinaram os elementos probatórios dos autos. Concluir de forma diversa demandaria, necessariamente, o reexame de provas, hipótese incabível em recurso extraordinário. Incide na espécie a Súmula 279 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. URV. CONVERSÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. SÚMULA 279 DO STF. A hipótese dos autos impõe o reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE 591.045-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 24.10.2008).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. VENCIMENTOS. CONVERSÃO EM UNIDADE REAL DE VALOR - URV. APLICABILIDADE DA LEI N. 8.880/94. AUSÊNCIA DE PERDA E LIMITE TEMPORAL. IMPOSSIBILIDADE DO REEXAME DE PROVAS (SÚMULA 279). PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (RE 540.766-AgR, de minha relatoria, Primeira Turma, DJe 7.12.2007).
+A decisão agravada, embasado nos dados constantes do acórdão recorrido, não divergiu da jurisprudência do Supremo Tribunal, razão pela qual nada há a prover quanto às alegações dos Agravantes.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 18 de março de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
