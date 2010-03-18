@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário contra acórdão que manteve decisão que afastou a prescrição da pretensão executória, sob o fundamento de que antes da liquidação do débito o prazo prescricional estava suspenso. Destaca-se o seguinte trecho do acórdão impugnado:
+“É cediço neste Tribunal Superior que ‘a Ação de Execução prescreve no mesmo prazo da Ação de Conhecimento nos termos da Súmula 150/STF’. Assim, o prazo para o contribuinte ajuizar a ação de repetição do indébito, nos termos do art. 168 do CTN, é de cinco anos. Idêntico prazo há para exercer o direito executivo perante a Fazenda Pública” (fl. 113).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXV e LIV, 93, IX, e 97 da mesma Carta.
+A pretensão recursal não merece acolhida.
+O acórdão recorrido dirimiu a questão dos autos com apoio nas normas infraconstitucionais pertinentes ao caso. Assim, a ofensa à Constituição, se ocorrente, seria apenas indireta, o que inviabiliza o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: RE 131.140/SP, Rel. Min. Carlos Velloso; AI 556.501-AgR/SP, Rel. Min. Eros Grau; RE 503.040/SC, de minha relatoria; AI 738.605/RJ, Rel. Min. Dias Toffoli; RE 562.790/AM, Rel. Min. Cármen Lúcia.
+Além disso, não prospera à alegada ofensa ao art. 97 da Lei Maior, visto que não foi declarada a inconstitucionalidade de norma, nem foi afastada a sua incidência sob fundamento constitucional por órgão fracionário de Tribunal. Saliente-se que o aresto impugnado cingiu-se a verificar a ocorrência de prescrição, no caso, apenas com base nas normas infraconstitucionais aplicáveis à espécie.
+Por fim, como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, XXXV e LIV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 18 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
