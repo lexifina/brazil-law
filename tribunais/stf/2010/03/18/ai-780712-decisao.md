@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário em oposição a acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que condenou a agravante ao pagamento de danos materiais e morais sofridos pelo ora agravado por ocasião da queda de seu veículo em buraco existente em via pública de responsabilidade da municipalidade.
+2.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [artigo 102, III, § 3º, da CB/88].
+3.  Alega-se, no recurso extraordinário, ofensa ao disposto nos artigos 37, § 6º, e 93, IX, da Constituição do Brasil.
+4.  O agravo não merece provimento. O Tribunal de origem, analisando a prova dos autos, concluiu não estarem presentes os requisitos do dano e do nexo de causalidade aptos a ensejar a indenização pleiteada pelo agravado. O reexame da questão implicaria o revolvimento do conjunto fático-probatório, o que é inadmissível nesta instância [Súmula n. 279].
+5.  Ademais, a jurisprudência desta Corte fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+6.  Cabe enfatizar que as instâncias ordinárias decidiram a causa com a motivação pertinente, nem se diga que faltou fundamentação à decisão recorrida a ponto de violar o artigo 93, inciso IX, da Constituição do Brasil. A decisão fundamentada, embora contrária à expectativa da parte, não importa em negativa de prestação jurisdicional.
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 18 de março de 2010.
+Ministro Eros Grau
+- Relator -
