@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) que tem como violados os arts. 2º, 5º, caput, II, XXXV, LIV e LV, 7º, I, 22, I, 93, IX, e 173, I, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 401):
+“AGRAVO DE INSTRUMENTO. RESCISÃO CONTRATUAL. NULIDADE. REINTEGRAÇÃO. DESPROVIMENTO. Não merece provimento o agravo de instrumento que tem por objetivo o processamento do recurso de revista, quando não demonstrado violação literal de dispositivo constitucional ou legal, nem divergência jurisprudencial apta ao confronto de teses. Art. 896, e alíneas, da CLT.”
+Alega a parte agravante que o Tribunal Superior do Trabalho ofendeu diversos princípios constitucionais, na medida em que teria sonegado prestação jurisdicional.
+É o breve relato. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Ademais, não procede a alegação de afronta aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Por outro lado, o recurso extraordinário, ao alegar que o acórdão recorrido ofende os preceitos dos arts. 2º, 5º caput, 7º, I, 22, I, e 173, I, versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Finalmente, ainda que superados os óbices supra, a análise das questões constitucionais suscitadas implica reexame dos fatos e provas e das normas regulamentares da empresa que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante as vedações contidas nos enunciados das Súmulas 279, 454 e 636 desta Corte.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 18 de março de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
