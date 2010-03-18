@@ -1,0 +1,20 @@
+Trata-se de embargos de declaração opostos de decisão que não conheceu de agravo regimental interposto pelo Estado do Maranhão em virtude do não recolhimento da multa.
+Nos embargos alegou-se, em suma, que a multa aplicada no agravo regimental contra a Fazenda Pública ofende o disposto no art. 100, caput, § 1º, da Constituição. Requer, ainda, o julgamento do recurso pela Primeira Turma.
+Decido.
+Bem examinados os autos, vê-se que os presentes embargos de declaração não merecem conhecimento.
+Como se sabe, tal recurso visa sanar omissão, obscuridade ou contradição de decisão judicial. O acórdão ora embargado não apresenta qualquer desses vícios.
+Conforme salientado na decisão embargada, a ausência do prévio recolhimento da multa importa o não-conhecimento do recurso, uma vez que esse atua como pressuposto objetivo de recorribilidade. Nesse sentido, é o entendimento de ambas as Turmas: RE 246.337-AgR-ED/RS, Rel. Min. Celso de Mello; AI 491.764-AgR-ED/MG, Rel. Min. Cezar Peluso, e AI 233.671-AgR-ED/SC, Rel. para acórdão Min. Maurício Corrêa.
+Ocorre, ainda, que ambas as Turmas entendem que o mencionado depósito é requisito de admissibilidade de novos recursos, aplicável, inclusive, à Fazenda Pública.
+Nesse sentido, cito, entre outros: AI 651.915-AgR-ED/RJ, Rel. Min. Carlos Britto; AI 641.304-AgR/SP, de minha relatoria; e AI 603.003-AgR-ED/MG, Rel. Min. Cezar Peluso.
+Com efeito, não assiste razão ao embargante quanto à alegação de que seria necessário levar o julgamento do agravo à Turma, pois o Regimento Interno deste Tribunal autoriza o julgamento monocrático em caso de pedido manifestamente improcedente ou contrário a jurisprudência da Corte. Nesse sentido, trago por oportuno trechos da decisão monocrática do AI 732.631-AgR-EDv/RS, Rel. Min. Celso de Mello:
+“(...) no desempenho dos poderes processuais de que dispõe, assiste, ao Ministro-Relator, competência plena para exercer, monocraticamente, o controle das ações, pedidos ou recursos dirigidos ao Supremo Tribunal Federal, legitimando-se, em consequência, os atos decisórios que, nessa condição, venha a praticar.
+(...)
+‘Nem se alegue que esse preceito legal implicaria transgressão ao princípio da colegialidade, eis que o postulado em questão sempre restará preservado ante a possibilidade de submissão da decisão singular ao controle recursal dos órgãos colegiados no âmbito do Supremo Tribunal Federal, consoante esta Corte tem reiteradamente proclamado.’ (RTJ 181/1133-1134, Rel. Min. CARLOS VELLOSO - AI 159.892-AgR/SP, Rel. Min. CELSO DE MELLO)” (grifos no original).
+Registre-se que, em não havendo omissão, contradição ou obscuridade, torna-se inviável a atribuição de efeitos infringentes a tal recurso. Nesse sentido: RE 388.835-AgR-ED/SP, Rel. Min. Ellen Gracie, AI 660.069-AgR-ED/SP, Rel. Min. Gilmar Mendes, AR 1.685-ED/DF, Rel. Min. Cármen Lúcia, entre outros.
+Ressalte-se, ainda, que os embargos de declaração não configuram via processual adequada à rediscussão do mérito da causa. São admissíveis em caráter infringente somente em hipóteses excepcionais, de omissão do julgado ou de erro material manifesto. Nesse sentido: RE n. 223.904-ED/MG, Rel. Min. Ellen Gracie, AO 1.047-ED/RR, Rel. Min. Joaquim Barbosa
+Por fim, a jurisprudência desta Corte reconhece a competência do Relator para proceder ao exame de admissibilidade dos embargos declaratórios, mesmo que opostos contra decisão colegiada. Nesse sentido: ADI 1.138-ED/RJ, Rel. Min. Carlos Britto; MS 22.899-ED/SP, Rel. Min. Eros Grau; AI 414.533-AgR-ED-ED-EDv-AgR-ED/RN, MI 698-AgR-ED/DF e MS 25.893-AgR-ED/DF, de minha relatoria; AI 436.868-AgR-ED/RJ e RE 509.588-ED/SP e Ext 855-ED/CL, Rel. Min. Celso de Mello; AI 609.912-ED/BA, Rel. Min. Cezar Peluso; HC 89.906, Rel. Min. Cármen Lúcia.
+Isso posto, rejeito, desde logo, os embargos declaratórios (RISTF, art. 21, § 1º).
+Publique-se.
+Brasília, 18 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
