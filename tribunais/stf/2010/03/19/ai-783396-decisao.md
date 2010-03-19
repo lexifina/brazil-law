@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE.
+1.  O Tribunal de Justiça do Estado do Rio de Janeiro negou acolhida a pedido formulado em apelação, ante fundamentos assim sintetizados (folha 6):
+AÇÃO ORDINÁRIA DE COBRANÇA. RESCISÃO CONTRATUAL. INEXECUÇÃO. ESTAÇÃO DE TRATAMENTO DE ESGOTO – ETE. EXPANSÃO DA REDE. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EQUITATIVA. Sob a ótica do princípio da boa-fé objetiva, estão as partes contratantes obrigadas a manter, tanto na interpretação como na execução do contrato, uma conduta padrão de honestidade e correção, para não seja frustrada, assim, a confiança, a lealdade e a probidade que se espera de quem realiza um negócio jurídico. A vontade declarada, portanto, ganha maior importância, assim como a boa-fé das partes. A interpretação será sempre conforme a boa-fé. Elaborado o projeto, por uma das partes contratantes, de acordo com as especificações constantes do processo licitatório, este promovido e publicado pela outra parte, foi o contrato, logo a seguir, firmado, nos exatos termos das especificações por ambas acordadas. O arbitramento da verba honorária, como é de curial sabença, funda-se na norma decorrente do disposto no art. 20, § 3º, do CPC, entre o mínimo de 10% e o máximo de 20% sobre o valor da causa. Todavia, nas causas em que não haja condenação os honorários advocatícios devem ser fixados de forma eqüitativa, nos termos do § 4º do art. 20 do CPC, não ficando adstrito o juiz, assim, aos limites percentuais estabelecidos no § 3º, mas apenas aos critérios neste previstos.
+IMPROVIMENTO DO PRIMEIRO RECURSO. PROVIMENTO PARCIAL DO SEGUNDO.
+ O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+ A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+ Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+2.  Conheço do agravo e o desprovejo.
+3.  Publiquem.
+Brasília, 19 de março de 2010.
+Ministro MARCO AURÉLIO
+Relator
