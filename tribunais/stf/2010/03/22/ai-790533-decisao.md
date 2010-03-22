@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. REALINHAMENTOS E REESTRUTURAÇÕES SALARIAIS. EXTENSÃO AOS INATIVOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS: SÚMULA 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. AÇÃO DE COBRANÇA.
+É direito do funcionário aposentado perceber as diferenças salariais alcançadas aos que estão em atividade. As regras instituidoras dos fundos complementares de previdência privada tem por objetivo complementar a renda do inativo, em face da evidente redução dos proventos pagos pela previdência oficial.
+Banco demandado, sucessor e devedor solidário, por força da privatização.
+Prescrição quinquenal. Interrupção conforme o disposto no art. 176, § 1º, do Código Civil de 1916, e 204, § 1º, do novo CC.
+Ação de cobrança julgada parcialmente procedente na instância recursal.
+Preliminar rejeitada. Apelos providos, em parte” (fl. 73).
+Tem-se no voto condutor do julgado recorrido:
+“As parcelas postuladas estão incluídas entre aquelas vindicadas na primeira demanda. Foram bem enfrentadas nos Juízos de primeiro e segundo graus antes referidos. As diferenças de complementação de aposentadoria são devidas, nada mais havendo a discutir a respeito, máxime considerando que a matéria está coberta pelo manto da coisa julgada. Não fosse isso, o respectivo Estatuto admite a majoração das complementações de aposentadoria sempre que houver aumento para os associados em atividade. Assim é que os aumentos gerais ou espontâneos devem beneficiar o autor, fazendo jus às vantagens decorrentes dos realinhamentos salariais de 1995 e da reestruturação de 1991, posteriormente complementada em 1992.
+Evidencio, no entanto, que sobre os valores a serem pagos devem incidir os descontos do imposto de renda e contribuição previdenciária, nos moldes do Estatuto, argumento recursal que merece acolhida” (fls. 78-79).
+2. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento e a circunstância de que o acórdão recorrido está fundamentado (fls. 229-232).
+3. O Agravante alega que teriam sido contrariados os arts. 5º, inc. XXXV e LV, 195, § 5º, 201 e 202 da Constituição da República.
+Argumenta que “nenhuma decisão judicial pode conceder determinado benefício sem analisar o equilíbrio financeiro e atuarial do sistema previdenciário, o qual, por certo, é afetado com a concessão de verbas amparadas em interpretação extensiva das disposições do plano de previdência privada” (fl. 203).
+Sustenta que “o plano previdenciário privado é figura contratual (negocial e não compulsória como a previdência social), vigorando o princípio da autonomia da vontade” (fl. 205).
+Examinada a matéria posta à apreciação, DECIDO.
+4. O Tribunal a quo examinou a controvérsia interpretando as cláusulas do regulamento da entidade de previdência privada. Para concluir de forma diversa, seria necessária a análise dessas cláusulas contratuais, o que impede o processamento do recurso extraordinário. Incide na espécie a Súmula 454 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA PRIVADA. COMPETÊNCIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência deste Supremo Tribunal firmou entendimento no sentido de que compete à Justiça comum o julgamento das questões relativas à complementação de proventos de aposentadoria quando não decorrentes de contrato de trabalho. Precedentes. 2. Controvérsia que demandaria o exame das cláusulas contratuais e regulamentos pertinentes, hipótese que não viabiliza o recurso extraordinário. 3. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.” (RE 526.615-AgR, de minha relatoria, Primeira Turma, DJ 1º.2.2008).
+“1. Compete à Justiça Comum o julgamento das ações que envolvam complementação de aposentadoria paga por entidade de previdência privada, "por não decorrer essa complementação pretendida de contrato de trabalho". 2. É de índole infraconstitucional, o que impede o trânsito do extraordinário, por ser indireta a alegada ofensa aos artigos 201 e 202, da Constituição Federal. 3. Ademais, a apreciação do apelo extremo demanda o reexame de cláusulas contratuais (Súmula STF nº 454). 4. Impertinente, na hipótese, a suscitada ofensa ao artigo 195, § 5º, da Constituição Federal, por se referirem tão-somente à seguridade social financiada por toda a sociedade. Precedente. 5. Agravo regimental improvido” (AI 705.907-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJ 7.8.2009).
+5. Além disso, o Supremo Tribunal Federal firmou entendimento no sentido de que o art. 195, § 5º, da Constituição Federal diz respeito somente à seguridade social financiada por toda a sociedade, sendo alheio às entidades de previdência privada.
+Nesse sentido:
+“Previdência Privada: complementação de aposentadoria: recurso extraordinário: descabimento: controvérsia decidida à luz de legislação infraconstitucional (Decreto 81.240/78 e Lei 6.435/77): alegada ofensa a dispositivos constitucionais que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636. 2. Recurso extraordinário: inadmissibilidade: alegação de contrariedade ao artigo 5º, XXXVI, da CF, para cuja verificação seria necessária a interpretação de cláusulas do regulamento da entidade de previdência privada: incidência das Súmulas 279 e 454. 3. Recurso extraordinário: invocação impertinente do art. 195, § 5º, da CF, que diz respeito apenas à seguridade social financiada por toda a sociedade. 4. Agravo regimental: necessidade de impugnação dos fundamentos da decisão agravada: precedentes” (AI 530.944-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 5.8.2005, grifos nossos).
+6. Nada há, pois, a prover quanto às alegações do Agravante.
+7. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 22 de março de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
