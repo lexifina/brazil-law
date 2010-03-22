@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a da Constituição) interposto de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, cuja ementa possui o seguinte teor:
+“AGRAVO DE INSTRUMENTO – SILVÍCOLAS TUTELADOS PELA FUNAI – CONFLITO DE COMPETÊNCIA – JUSTIÇA ESTADUAL – JUSTIÇA FEDERAL – INTELIGÊNCIA DO ART. 109 DA CONSTITUIÇÃO DA REPÚBLICA – REMESSA DOS AUTOS AO TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO – DECISÃO CONFIRMADA.
+‘A competência para processar e julgar ação interposta contra comunidade indígena tutelada pela Fundação Nacional do Índio é da Justiça Federal, a teor do art. 109, I da Carta Magna’(AI n. 98.008431-8, de Itaiópolis, Des. Volnei Carlin)”.
+O recorrente alega ofensa ao art. 93, IX e ao art. 109, I e XI da Constituição Federal.
+Inexiste a alegada ofensa ao art. 93, IX, da Constituição, porquanto o acórdão recorrido está devidamente fundamentado, ainda que com sua fundamentação não concorde o ora agravante
+Por outro lado, esta Corte firmou o entendimento de que as causas em que há a intervenção ou a atuação da FUNAI devem ser dirimidas na Justiça Federal. Confira-se, por oportuno, o RE 183.188, rel. min. Celso de Mello, DJ 14.02.1997, cujo trecho da ementa transcrevo:
+“E M E N T A: RECURSO EXTRAORDINÁRIO - REINTEGRAÇÃO DE POSSE - ÁREA DEMARCADA PELA FUNAI - DEMARCAÇÃO ADMINISTRATIVA HOMOLOGADA PELO PRESIDENTE DA REPÚBLICA - AÇÃO POSSESSÓRIA PROMOVIDA POR PARTICULARES CONTRA SILVÍCOLAS DE ALDEIA INDÍGENA E CONTRA A FUNAI - INTERVENÇÃO DA UNIÃO FEDERAL - DISPUTA SOBRE DIREITOS INDÍGENAS - INCOMPETÊNCIA DA JUSTIÇA ESTADUAL - NULIDADE DOS ATOS DECISÓRIOS - ENCAMINHAMENTO DO PROCESSO À JUSTIÇA FEDERAL - RE CONHECIDO E PROVIDO. AÇÃO POSSESSÓRIA - INTERVENÇÃO DA UNIÃO FEDERAL - DESLOCAMENTO NECESSÁRIO DA CAUSA PARA A JUSTIÇA FEDERAL.
+(...) FUNDAÇÃO NACIONAL DO ÍNDIO (FUNAI) - NATUREZA JURÍDICA. - A Fundação Nacional do Índio - FUNAI constitui pessoa jurídica de direito público interno. Trata-se de fundação de direito público que se qualifica como entidade governamental dotada de capacidade administrativa, integrante da Administração Pública descentralizada da União, subsumindo-se, no plano de sua organização institucional, ao conceito de típica autarquia fundacional, como tem sido reiteradamente proclamado pela jurisprudência do Supremo Tribunal Federal, inclusive para o efeito de reconhecer, nas causas em que essa instituição intervém ou atua, a caracterização da competência jurisdicional da Justiça Federal (RTJ 126/103 - RTJ 127/426 - RTJ 134/88 - RTJ 136/92 - RTJ 139/131). Tratando-se de entidade autárquica instituída pela União Federal, torna-se evidente que, nas causas contra ela instauradas, incide, de maneira plena, a regra constitucional de competência da Justiça Federal inscrita no art. 109, I, da Carta Política”. (...) [grifei]
+No mesmo sentido: RE 481.960, rel. min. Cármen Lúcia, decisão monocrática.
+Dessa orientação não divergiu o acórdão recorrido.
+Do exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 22 de março de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
