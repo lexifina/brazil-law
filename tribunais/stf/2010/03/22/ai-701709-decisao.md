@@ -1,0 +1,22 @@
+DECISÃO
+Vistos.
+Estado de São Paulo interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, inciso LXIX, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Quinta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, que teve a seguinte conclusão:
+“(...)
+D’outro bordo, o direito à compensação pela via mandamental foi consagrado pelo Superior Tribunal de Justiça, nos exatos termos da Súmula nº 213: ‘O mandado de segurança constitui ação adequada para declaração do direito à compensação tributária’.
+Nestes exatos termos, outra não é a solução senão a anulação da respeitável sentença, que indeferiu, in limine, a petição inicial, a fim de que outra seja produzida após notificação da autoridade e ouvida do Ministério Público” (fl. 109).
+Opostos embargos de declaração (fls. 111 a 114), foram rejeitados (fls. 117 a 121).
+Decido.
+Preliminarmente, destaco que o acórdão dos embargos de declaração foi publicado em 17/1/07, conforme expresso na certidão da folha 124, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece êxito.
+No caso, o Tribunal a quo anulou sentença terminativa, tendo concluído pelo cabimento de mandado de segurança como procedimento idôneo a viabilizar o pleito originário. Destarte, determinou o retorno dos autos ao juízo de primeiro grau para que este apreciasse o mérito da demanda, sob rito então admitido.
+Portanto, o fundamento do acórdão recorrido é de índole eminentemente processual, quer dizer, infraconstitucional. Com efeito, na linha de remansosa jurisprudência deste Supremo Tribunal Federal, a suscitada ofensa ao Texto constitucional, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CABIMENTO DE MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Admissibilidade de mandado de segurança: impossibilidade da análise da legislação infraconstitucional. Ofensa constitucional indireta. 2. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 638.316/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/3/09).
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA PROCESSUAL. NO CASO, O SUPERIOR TRIBUNAL DE JUSTIÇA SE LIMITOU AO EXAME DO CABIMENTO DE MANDADO DE SEGURANÇA. ALEGAÇÃO DE AFRONTA ÀS GARANTIAS CONSTITUCIONAIS DO PROCESSO. OFENSA REFLEXA. SUPOSTA VIOLAÇÃO AO INCISO IX DO ART. 93 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. 2. Ofensa às garantias constitucionais do processo, se existente, ocorreria de modo reflexo ou indireto. 3. O acórdão está devidamente fundamentado, embora em sentido contrário aos interesses da parte agravante. 4. Agravo regimental desprovido” (AI nº 727.897/SP-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJe de 9/10/09).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. A violação da Constituição do Brasil seria indireta, eis que imprescindível o reexame de matéria processual, nos termos da Lei n. 1.533/51 e do Código do Processo Civil. Agravo regimental a que se nega provimento” (AI nº 725.454/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 13/3/09).
+“RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LXIX, da Constituição Federal. Mandado de segurança. Cabimento. Juizado Especial Federal. Ofensa indireta. Agravo regimental não provido. As alegações de desrespeito aos postulados do devido processo legal, do contraditório e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE nº 542.938/RS-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 9/5/08).
+Ante o exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 22 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
