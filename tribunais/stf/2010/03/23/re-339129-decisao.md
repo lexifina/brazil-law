@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Donivan Palladino interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Plenário do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“Pedido de Seqüestro – Necessidade de comprovação de inversão da ordem cronológica dos pagamentos – Inexistência de provas neste sentido – Agravo improvido” (fl. 207).
+Opostos embargos de declaração (fls. 212/213), foram rejeitados (fls. 220/221).
+Alega o recorrente violação dos artigos 100, § 2º, da Constituição Federal e 33 do Ato das Disposições Constitucionais Transitórias, em razão do “desrespeito à ordem cronológica de apresentação de precatórios que, no presente caso, foi confirmado pela informação do DEPRE, e reconhecida pela Procuradoria Geral da Justiça” (fl. 227).
+Contra-arrazoado (fls. 233 a 244), o recurso extraordinário (fls. 224 a 228) foi admitido (fls. 253 a 255).
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Geraldo Brindeiro, pelo desprovimento do recurso extraordinário.
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 19/3/01, conforme expresso na certidão de folha 222verso, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, uma vez que para ultrapassar o entendimento do Tribunal local sobre a ausência de comprovação da inversão da ordem cronológica dos pagamentos dos precatórios e acolher a tese do autor seria necessário o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E CONSTITUCIONAL. NÃO OBSERVÂNCIA DA ORDEM CRONOLÓGICA DE PRECATÓRIOS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade do reexame de provas: incidência da Súmula 279 do Supremo Tribunal Federal. 2. Possibilidade de sequestro de verbas públicas. Precedente” (AI nº 544.132/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 18/9/09).
+“CONSTITUCIONAL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SEQÜESTRO DE VERBAS PÚBLICAS. CRÉDITO DE PEQUENO VALOR. OFENSA REFLEXA AO TEXTO CONSTITUCIONAL. ANÁLISE DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 279. AGRAVO IMPROVIDO. I - A jurisprudência do STF orienta-se no sentido de que a previsão do art. 100, § 3º, da Constituição Federal refere-se à não necessidade de expedição de precatórios quando da ocorrência de créditos alimentícios de pequeno valor. Irrelevante a discussão acerca da ocorrência, ou não, de quebra da ordem cronológica. II - A hipótese dos autos versa sobre crédito de pequeno valor, enquanto a ADI 1.662/SP cuida especificamente de expedição de precatórios e ofícios requisitórios decorrentes de créditos de natureza alimentícia. III - Necessário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. IV - O acórdão recorrido fundamentou o seqüestro de verbas públicas com base no disposto na legislação processual civil, a cujo exame não se presta o recurso extraordinário. V - Agravo regimental improvido” (AI nº 560.844/RS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 23/5/08).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 23 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
