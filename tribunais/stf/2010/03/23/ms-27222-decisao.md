@@ -1,0 +1,13 @@
+1.  Trata-se de mandado de segurança, com pedido de medida liminar, impetrado pela Federação das Indústrias do Estado de Mato Grosso, com fundamento nos arts. 5º, LXIX, da Constituição Federal, e na Lei 1.533/51, contra decisão proferida pelo Conselho Nacional de Justiça no Procedimento de Controle Administrativo 2007.10.00.000739-9.
+Narra que postulou perante o Conselho Nacional de Justiça representação por excesso de prazo contra o relator das ADI´s 3.067 e 3.144. Contudo, o Conselho Nacional de Justiça, ao apreciar seu pedido, decidiu “que os Ministros da C. Corte Suprema não se submetem ao controle do CNJ, mas tão-somente perante o Senado Federal em virtude de crime de responsabilidade (art. 52 II da CF) e no próprio STF no tocante aos crimes comuns (art. 102, I, “b” da CF)” (fl. 05).
+Por insurgir-se contra tal entendimento, sustenta, em síntese, que o art. 102, inc. I, alínea r, da Constituição Federal não exclui a atribuição do Conselho Nacional de Justiça de analisar pedidos de ordem administrativo-disciplinar contra Ministros da Suprema Corte.
+A impetrante requer, ao final, a concessão da segurança para afastar “os efeitos da decisão proferida pelo Conselho Nacional de Justiça nos autos do Pedido de Providências n. 2007.10.00.000739-9, devendo, para tanto, ser reconhecida a competência desse Colegiado pra conhecer da Representação por Excesso de Prazo” (fl. 10).
+2.  Solicitaram-se informações ao Conselho Nacional de Justiça (fl. 75), que foram devidamente prestadas pelo Conselheiro Relator do Recurso Administrativo 2007.10.00.000732-9 (fls. 80-87).
+3.  A Procuradoria-Geral da República opinou pela denegação da segurança (fls. 89-92).
+4.  Tendo em vista as razões apresentadas pela impetrante, verifico que, em verdade, sua pretensão é obter o rápido julgamento das ADIs 3.067 e 3.144, pois ambas versam sobre matéria tributária de grande impacto sobre a atividade industrial. A demora na apreciação da matéria pelo Plenário desta Suprema Corte, conforme alega a impetrante, acarreta prejuízo no setor produtivo em em razão do aumento da alíquota da COFINS para as empresas optantes pela tributação do imposto de renda pelo lucro real.
+5.  Em consulta ao módulo de acompanhamento processual desta Suprema Corte, constato que as ADIs 3.067 e 3.144, rel. Min. Joaquim Barbosa, foram apresentadas para julgamento no Plenário deste Tribunal em 07.08.2009, razão pela qual não mais subsiste a suposta demora apontada pela impetrante (fls. 108-113).
+6.  Ante o exposto, perdeu o objeto o presente writ, motivo por que julgo prejudicado o pedido nele formulado, nos termos do art. 21, IX, do RISTF.
+Publique-se e arquive-se.
+Brasília, 23 de março de 2010.
+Ministra Ellen Gracie
+Relatora
