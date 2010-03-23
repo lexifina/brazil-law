@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INTIMAÇÃO DO JULGADO RECORRIDO POSTERIOR A 3.5.2007. INSUFICIÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL. NÃO ATENDIMENTO AO DISPOSTO NO § 2º DO ART. 543-A DO CÓDIGO DE PROCESSO CIVIL E NO ART. 327 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“APELAÇÃO CÍVEL. CURSO DE APERFEIÇOAMENTO DE SARGENTO DA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. AUTORA PORTADORA DE INCAPACIDADE FÍSICA PARCIAL. INDEFERIMENTO DA INSCRIÇÃO CALCADO EM PREVISÃO EDITALÍCIA GENÉRICA. AUSÊNCIA DE ESPECIFICAÇÃO DE MOTIVOS QUE LEGITIMAM A RESTRIÇÃO EDITALÍCIA. RECURSO IMPROVIDO” (fl. 97).
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência na espécie da Súmula 282 do Supremo Tribunal Federal (fls. 116-118).
+3. O Agravante afirma que o Tribunal a quo teria contrariado os arts. 2º, 37, caput, e 42 da Constituição da República.
+Argumenta que “não se pode exigir, para se admitir o recurso em tela, que o Recorrente, desde pronto, prove a contradição real entre a decisão guerreada e a Constituição da República. Do contrário, estar-se-á exigindo, repise-se, que o recurso seja procedente para ser admissível, o que – há de se convir – conduziria a inevitável paradoxo” (fl. 5).
+Examinada a matéria posta à apreciação, DECIDO.
+4. Razão jurídica não assiste ao Agravante.
+5. A intimação do acórdão recorrido ocorreu no dia 12.8.2009 (fl. 100), e, nos termos do que decidido pelo Supremo Tribunal Federal no Agravo de Instrumento 664.567-QO, Relator o Ministro Sepúlveda Pertence, Tribunal Pleno, “a exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007”.
+6. Na espécie vertente, o Agravante limitou-se a afirmar que:
+“A interferência judicial na aferição dos requisitos e pressupostos para ingresso no Curso de Aperfeiçoamento de praças da Polícia Militar, por si só, evidencia o equívoco da decisão e o seu potencial danoso como precedente, dada suas excepcionais circunstâncias. A substituição da avaliação do administrador e da banca examinadora pelo magistrado deve ser afastada porque contrária às esferas constitucionais delineadas para cada Poder. Inarredável o enfrentamento deste recurso, nos moldes do § 3, do artigo 102, da Carta Magna” (fl. 103).
+7. O § 1º do art. 543-A do Código de Processo Civil dispõe que, “para efeito da repercussão geral, será considerada a existência, ou não, de questões relevantes do ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos da causa”. Não basta, portanto, dizer que o tema tem repercussão geral, sendo ônus exclusivo do Agravante demonstrar, com argumentos substanciais, que há no caso relevância econômica, política, social ou jurídica.
+A ausência de fundamentação expressa, formal e objetivamente articulada pelo Agravante para demonstrar, nas razões do recurso extraordinário, a existência de repercussão geral da matéria constitucionalmente argüida inviabiliza o exame do recurso.
+8. Assim, embora tenha mencionado a existência, no caso vertente, de repercussão geral, o Agravante não desenvolveu argumentos suficientes para cumprir o objetivo da exigência constitucional.
+Nesse sentido, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. INTIMAÇÃO DOS RECORRENTES APÓS 3.5.2007. NECESSIDADE DE DEMONSTRAÇÃO FORMAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Repercussão geral da questão constitucional: demonstração insuficiente. 2. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.” (AI 700.923-AgR, de minha relatoria, Primeira Turma, DJe 17.4.2009).
+E:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. PRELIMINAR FORMAL E FUNDAMENTADA. INEXISTÊNCIA. PETIÇÃO EM APARTADO. PRECLUSÃO CONSUMATIVA. PRECEDENTES. 1. A recorrente não ofereceu preliminar formal e adequadamente fundamentada, no que tange a eventual repercussão geral das questões constitucionais debatidas no caso, não tendo sido observado o disposto no artigo 543-A, § 2º, do Código de Processo Civil, introduzido pela Lei n. 11.418/06. 2. O Supremo Tribunal Federal fixou entendimento no sentido da exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas quando a intimação do acórdão recorrido tenha ocorrido a partir de 3 de maio de 2007, data da publicação da Emenda Regimental n. 21, de 30 de abril de 2007. Precedente. Agravo regimental a que se nega provimento” (AI 746.303-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 1º.7.2009).
+9. Não há, pois, o que prover quanto às alegações do Agravante.
+10. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 23 de março de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
