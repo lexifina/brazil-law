@@ -1,0 +1,23 @@
+Trata-se de agravo regimental interposto contra decisão que, em 13/10/2009, negou seguimento ao agravo de instrumento. Este o teor do julgado atacado:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 105, III, f, da mesma Carta.
+O agravo não merece acolhida. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ainda que superado tal óbice, o recurso não prosperaria. É que o acórdão recorrido decidiu a questão com base em normas infraconstitucionais e na jurisprudência do STJ. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+Isso posto, nego seguimento ao recurso” (fl. 416).
+O agravante sustentou, em suma, que a matéria atinente à violação do art. 105, I, f, da Constituição, foi devidamente prequestionada. Reitera, dessa forma, que o acórdão prolatado pelo TRT da 10ª Região descumpriu a decisão proferida pelo STJ no processo de CC 29.774/DF. Assim, entende que a decisão agravada deve ser reformada e insiste no processamento do recurso extraordinário.
+Bem examinados os autos, verifico que assiste razão ao agravante no que concerne a não incidência da Súmula 282 ao caso. Contudo, a decisão agravada se mantém pelos demais fundamentos.
+O acórdão recorrido, ao decidir pelo não cabimento da reclamação, adotou o fundamento de que essa não seria a via adequada para se discutir questões passíveis de exame em conflito de competência. Transcrevo, para ilustrar, trecho da decisão recorrida:
+“Ressalte-se, por outro lado, que a Reclamação é instrumento processual muito específico e não constitui via adequada para dirimir questões que consubstanciam matéria eventualmente passível de exame em conflito de competência.
+Em conclusão, verifica-se que não resultaram configurados – sob a ótica da moldura constitucionalmente estabelecida e da orientação jurisprudencial desta Corte – os requisitos indispensáveis ao atendimento do pleito formulado pelo autor, em sede de Reclamação” (fl. 354).
+Dessa forma, o acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. Conforme consignado na decisão agravada, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 562.212/RS, de minha relatoria; AI 592.110/RJ, Rel. Min. Cezar Peluso; AI 645.007/RS, Rel. Min. Cármen Lúcia; AI 524.388/RS, Rel. Min. Marco Aurélio.
+Além disso, o acórdão fundamentou seu entendimento em jurisprudência do STJ, conforme a seguir transcrito:
+“(...) Cumpre lembrar, ademais, que esta Seção, em recente julgamento, expressamente assentou orientação em sentido contrário ao defendido, esta via pelo Distrito Federal (...)” (fls. 353).
+Ressalte-se, ainda, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 23 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
