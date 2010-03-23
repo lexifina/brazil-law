@@ -1,0 +1,18 @@
+Trata-se de embargos de declaração opostos contra decisão que negou provimento ao agravo regimental.
+Insurgiu-se, a embargante, contra suposta omissão na decisão agravada pela ausência de pronunciamento da Primeira Turma desta Corte.
+Passo a decidir.
+Bem reexaminados os autos, vê-se que os embargos de declaração não merecem acolhida.
+Como se sabe, os embargos de declaração visam sanar omissão, obscuridade ou contradição de decisão judicial. A decisão ora atacada não apresenta qualquer desses vícios.
+A análise dos autos demonstra que o acórdão examinou de forma adequada a matéria e apreciou, inteiramente, as questões que se apresentavam. As razões de decidir, adotadas por ocasião daquele julgamento, são suficientes para afastar a pretensão da embargante.
+Com efeito, não assiste razão ao embargante quanto à alegação de que seria necessário levar o julgamento do agravo à Turma, pois o Regimento Interno deste Tribunal autoriza o julgamento monocrático em caso de pedido manifestamente improcedente ou contrário a jurisprudência da Corte. Nesse sentido, trago por oportuno trechos da decisão monocrática do AI 732.631-AgR-EDv/RS, Rel. Min. Celso de Mello:
+“(...) no desempenho dos poderes processuais de que dispõe, assiste, ao Ministro-Relator, competência plena para exercer, monocraticamente, o controle das ações, pedidos ou recursos dirigidos ao Supremo Tribunal Federal, legitimando-se, em consequência, os atos decisórios que, nessa condição, venha a praticar.
+(...)
+‘Nem se alegue que esse preceito legal implicaria transgressão ao princípio da colegialidade, eis que o postulado em questão sempre restará preservado ante a possibilidade de submissão da decisão singular ao controle recursal dos órgãos colegiados no âmbito do Supremo Tribunal Federal, consoante esta Corte tem reiteradamente proclamado.’ (RTJ 181/1133-1134, Rel. Min. CARLOS VELLOSO - AI 159.892-AgR/SP, Rel. Min. CELSO DE MELLO)” (grifos no original).
+Registre-se que, em não havendo omissão, contradição ou obscuridade, torna-se inviável a atribuição de efeitos infringentes a tal recurso. Nesse sentido: RE 388.835-AgR-ED/SP, Rel. Min. Ellen Gracie, AI 660.069-AgR-ED/SP, Rel. Min. Gilmar Mendes, AR 1.685-ED/DF, Rel. Min. Cármen Lúcia, entre outros.
+Ressalte-se, ainda, que os embargos de declaração não configuram via processual adequada à rediscussão do mérito da causa. São admissíveis em caráter infringente somente em hipóteses excepcionais, de omissão do julgado ou de erro material manifesto. Nesse sentido: RE n. 223.904-ED/MG, Rel. Min. Ellen Gracie, AO 1.047-ED/RR, Rel. Min. Joaquim Barbosa
+Por fim, a jurisprudência desta Corte reconhece a competência do Relator para proceder ao exame de admissibilidade dos embargos declaratórios, mesmo que opostos contra decisão colegiada. Nesse sentido: ADI 1.138-ED/RJ, Rel. Min. Carlos Britto; MS 22.899-ED/SP, Rel. Min. Eros Grau; AI 414.533-AgR-ED-ED-EDv-AgR-ED/RN, MI 698-AgR-ED/DF e MS 25.893-AgR-ED/DF, de minha relatoria; AI 436.868-AgR-ED/RJ e RE 509.588-ED/SP e Ext 855-ED/CL, Rel. Min. Celso de Mello; AI 609.912-ED/BA, Rel. Min. Cezar Peluso; HC 89.906, Rel. Min. Cármen Lúcia.
+Isso posto, rejeito, desde logo, os embargos declaratórios (RISTF, art. 21, § 1º).
+Publique-se.
+Brasília, 23 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
