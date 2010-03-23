@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de embargos de divergência opostos ao acórdão da 1ª Turma desta Corte, Relator o Ministro Carlos Britto, com esta ementa [fl. 320]:
+“EMENTA: EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INEXISTÊNCIA DOS VÍCIOS RELACIONADOS NO ART. 535 DO CPC. PRETENSÃO DE CARÁTER INFRINGENTE. REGIME DE CUMPRIMENTO DA PENA INTEGRALMENTE FECHADO. APLICAÇÃO RETROATIVA DA LEI Nº 11.464/07. INCONSTITUCIONALIDADE. ORDEM CONCEDIDA DE OFÍCIO.
+1. Não há obscuridade, contradição ou omissão no acórdão questionado. O que afasta a presença de qualquer dos pressupostos de embargabilidade, a teor do art. 535 do CPC. A via recursal adotada não se mostra adequada para a renovação de julgamento que se efetivou regularmente.
+2. A declaração de inconstitucionalidade do § 2º do art. 2º da Lei nº 8.072/90, no bojo do HC 82.959, da relatoria do ministro Marco Aurélio, produz efeitos quanto às penas ainda não extintas.
+3. A Lei nº 11.464/07 é de ser aplicada apenas aos fatos praticados após a sua vigência. Quanto aos crimes hediondos cometidos antes da entrada em vigor do mencionado diploma legal, a progressão de regime está condicionada ao preenchimento dos requisitos do art. 112 da Lei de Execuções Penais. Precedentes.
+4. Embargos rejeitados. Ordem concedida de ofício, tão somente para afastar o óbice à progressão de regime penitenciário e determinar a observância dos requisitos do art. 112 da LEP”.
+2.  Este Tribunal consolidou o entendimento de que os embargos de divergência somente se mostram cabíveis quando opostos de decisão de Turma que, em recurso extraordinário, divergir do julgamento da outra Turma ou do Plenário, nos termos do artigo 546, II, do Código de Processo Civil. Sedimentou-se a jurisprudência no sentido de que não cabem embargos de divergência quando opostos em agravo de instrumento, ou ainda, quando se insurgem de decisão emanada de Turma do Supremo Tribunal Federal proferida no julgamento de agravo regimental.
+3.  É certo que o Plenário do STF evoluiu na interpretação do artigo 546 do Código de Processo Civil, admitindo os embargos de divergência contra acórdão proferido em agravo regimental interposto de decisão monocrática que deu parcial provimento a recurso extraordinário, com fundamento no artigo 557, § 1º-A, do CPC, o que não se confunde com a presente hipótese, em que o agravo regimental foi interposto contra ato do relator no exame de admissibilidade do agravo de instrumento.
+Não admito os embargos de divergência, por incabíveis [CPC, artigo 557, caput].
+Publique-se.
+Brasília, 23 de março de 2010.
+Ministro Eros Grau
+- Relator -
