@@ -1,0 +1,33 @@
+Trata-se de agravo regimental contra decisão que negou seguimento ao agravo de instrumento.
+Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, fundado no art. 102, III, da Constituição, alegou-se ofensa ao art. 5º, XXXVI, da mesma Carta, assim como ao art. 3º da EC 20/98.
+O agravo não merece acolhida.
+A indicação do dispositivo constitucional autorizador do recurso extraordinário é requisito indispensável para seu conhecimento. Nesse sentido cito o AI 734.396-AgR/SP, de minha relatoria, cuja ementa segue transcrita:
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE ESGOTAMENTO DA VIA RECURSAL ORDINÁRIA. SÚMULA 281 DO STF. DISPOSITIVO AUTORIZADOR DO RECURSO EXTRAORDINÁRIO. INDICAÇÃO. AUSÊNCIA. AGRAVO IMPROVIDO. I - A recorrente não esgotou a via recursal ordinária (Súmula 281 do STF), visto que a medida cabível seria a oposição de embargos infringentes. II - A indicação correta do dispositivo constitucional autorizador do recurso extraordinário - artigo, inciso e alínea - é requisito indispensável ao seu conhecimento, a teor do art. 321 do RISTF e da pacífica jurisprudência do Tribunal. III - Agravo regimental improvido” (grifei).
+Ainda que superado tal óbice, o recurso não prosperaria. O acórdão recorrido encontra-se em harmonia com a orientação da Corte, conforme se vê do julgamento do RE 575.089/RS, de minha relatoria, cuja ementa segue transcrita
+“EMENTA: INSS. APOSENTADORIA. CONTAGEM DE TEMPO. DIREITO ADQUIRIDO. ART. 3º DA EC 20/98. CONTAGEM DE TEMPO DE SERVIÇO POSTERIOR A 16.12.1998. POSSIBILIDADE. BENEFÍCIO CALCULADO EM CONFORMIDADE COM NORMAS VIGENTES ANTES DO ADVENTO DA REFERIDA EMENDA. INADMISSIBILIDADE. RE IMPROVIDO.
+I - Embora tenha o recorrente direito adquirido à aposentadoria, nos termos do art. 3º da EC 20/98, não pode computar tempo de serviço posterior a ela, valendo-se das regras vigentes antes de sua edição.
+II - Inexiste direito adquirido a determinado regime jurídico, razão pela qual não é lícito ao segurado conjugar as vantagens do novo sistema com aquelas aplicáveis ao anterior.
+III - A superposição de vantagens caracteriza sistema híbrido, incompatível com a sistemática de cálculo dos benefícios previdenciários.
+IV - Recurso extraordinário improvido”.
+Por fim, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Isso posto, nego seguimento ao recurso” (fls. 216-217).
+O agravante sustenta, em suma, que a decisão agravada deve ser reformada, ao argumento de que as alegadas ofensas à Constituição ocorreram de forma expressa e direta.
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que o recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Isso porque, como consignado no julgado atacado, a indicação do dispositivo constitucional autorizador do recurso extraordinário é requisito indispensável para seu conhecimento. Nesse sentido, menciono julgados de ambas as Turmas desta Corte:
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE ESGOTAMENTO DA VIA RECURSAL ORDINÁRIA. SÚMULA 281 DO STF. DISPOSITIVO AUTORIZADOR DO RECURSO EXTRAORDINÁRIO. INDICAÇÃO. AUSÊNCIA. AGRAVO IMPROVIDO. I - A recorrente não esgotou a via recursal ordinária (Súmula 281 do STF), visto que a medida cabível seria a oposição de embargos infringentes. II - A indicação correta do dispositivo constitucional autorizador do recurso extraordinário - artigo, inciso e alínea - é requisito indispensável ao seu conhecimento, a teor do art. 321 do RISTF e da pacífica jurisprudência do Tribunal. III - Agravo regimental improvido” (AI 626.371-AgR/SP, de minha relatoria, Primeira Turma).
+“1. Embargos de declaração recebidos como agravo regimental. 2. Ausência de indicação, na petição do apelo extremo, do dispositivo autorizador do recurso (art. 102, inciso e alínea). Art. 321 do RISTF. Incidência da Súmula STF nº 284. Precedentes. 3. Agravo regimental improvido” (AI 729.279-ED/SP, Rel. Min. Ellen Gracie, Segunda Turma).
+Ainda que superado tal óbice, a pretensão recursal não merece acolhida. É que o Tribunal de origem decidiu a causa nos seguintes termos:
+“Desta forma, a controvérsia cinge-se a uma única questão: a comprovação da insalubridade das atividades desempenhadas pelo Autor, no período de 21/12/76 a 30/06/87, em que trabalhou na TELERJ, no cargo de Examinador de Cabos, Linhas e Aparelhos.
+Para fins de comprovação da atividade especial, foi anexado o formulário SB-40 (fls. 31) constando que o Autor exerceu os cargos de Examinador de Linhas LC/IU – 21/12/76 a 31/05/82; de Examinador de Cabos LA – 01/02/85 a 30/06/87, tendo como agente agressivo a deficiência luminosa e movimentos físicos com as mãos em decorrência da manipulação do teclado (grifos nossos). O laudo técnico de fls. 33 ratifica o informado” (grifos no original - fls. 165-166).
+Assim, como afirmado na decisão agravada, para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário reexaminar o conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. A ofensa à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifos meus).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 23 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
