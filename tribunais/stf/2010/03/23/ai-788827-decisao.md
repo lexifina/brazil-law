@@ -1,0 +1,16 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“Diferença de poupança – Juros de mora são contados da citação e não da data do pagamento a menor – apuração de valores a ser feita mediante simples cálculo, o que não retira a liquidez do julgado – provimento parcial do recurso” (fl. 41).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 5º, XXXV e XXXVI, da mesma Carta.
+O agravo não merece acolhida. Isso porque, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ainda que superado tal óbice, o recurso não prosperaria. É que a jurisprudência desta Corte é firme no sentido de que a discussão acerca do termo inicial da incidência de juros moratórios restringe-se ao âmbito infraconstitucional. Nesse passo é o entendimento sedimentado em ambas as Turmas desta Casa, conforme se vê dos seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. TERMO INICIAL DA INCIDÊNCIA DE JUROS MORATÓRIOS. AUSÊNCIA DE PREQUESTIONAMENTO (SÚMULAS 282 E 356). CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 648.816-AgR/RS, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TERMO INICIAL DE INCIDÊNCIA DOS JUROS MORATÓRIOS. MATÉRIA INFRACONSTITUCIONAL. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO.
+ A fixação do termo inicial de incidência dos juros moratórios tem caráter infraconstitucional e compete ao juízo da execução. Precedentes.
+ Agravo regimental a que se nega provimento” (RE 602.191-AgR-AgR/SP, Rel. Min. Eros Grau, Segunda Turma).
+Além disso, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, o Supremo Tribunal Federal tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 602.832-ED/SC, Rel. Min. Sepúlveda Pertence; AI 608.978-AgR/RS, Rel. Min. Eros Grau; AI 536.022-AgR/SP, Rel. Min. Carlos Britto; AI 590.021-AgR/PI, Rel. Min. Cezar Peluso; AI 451.773-AgR/DF, Rel. Min. Gilmar Mendes.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
