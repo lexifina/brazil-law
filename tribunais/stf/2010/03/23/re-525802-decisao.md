@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário contra acórdão proferido pelo Superior Tribunal de Justiça em recurso ordinário em mandado de segurança, cuja ementa tem o seguinte teor:
+“TRIBUTÁRIO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RICMS. INCLUSÃO DE EMPRESA NO REGIME ESPECIAL DE TRIBUTAÇÃO (ART. 150, § 7º, DA CF). LEI ESTADUAL N. 3.796/96. LEGALIDADE. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Os atos perpetrados pelos agentes fiscais, em cumprimento ao regime do sistema de fiscalização especial previsto na Lei Estadual n. 3.796/96, a que foi submetido o contribuinte inadimplente, são legítimos se realizados dentro dos limites estabelecidos na lei.
+2. ‘O artigo 150, § 7º, acrescido pela  Emenda Constitucional n. 03/93, legitima a cobrança antecipada do ICMS através do regime de normal de tributação, ou seja, sem substituição tributária, na forma determinada pela Lei Estadual  n. 3.796/96, do Estado de Sergipe,  e regulamentada pelo Decreto n. 17.037/97, com alterações procedidas pelos Decretos ns. 18.536/99 e  20.471/02’ (RMS n. 17511/SE, relator Ministro Teori Albino Zavascki, DJ de 22.8.2005).
+3. A inclusão do contribuinte no sistema especial de controle e fiscalização, desde que prevista em lei,  não implica violação de direito líquido e certo, estando comprovadas irregularidades fiscais referentes à sonegação de tributos.
+4. Recurso ordinário não provido” (fl. 292).
+Neste RE, fundado no art. 102, III, a, b e c, da Constituição Federal, alega-se violação aos arts. 5º, II, XIII, XXXV, XXXIX, LIV e LV, 146, III, a e b, 150, § 7º, e 155, § 2º, I e IX, todos da mesma Carta.
+A Procuradoria-Geral da República manifestou-se pelo provimento do recurso em parecer assim ementado:
+“Recurso extraordinário. Tributário. ICMS. Substituição tributária do art. 150, § 7º, da CF/88 e antecipação tributária que não se confundem. Inexistência, na Lei Complementar 87/96, da hipótese de antecipação do fato gerador sem substituição. Parecer pelo provimento do recurso”.
+A pretensão recursal merece acolhida. O acórdão recorrido está em confronto com a jurisprudência do Tribunal, conforme se observa da ementa do julgamento do RE 115.452-ED-EDv/SP, Rel. Min. Carlos Velloso, a seguir transcrito:
+“CONSTITUCIONAL. TRIBUTÁRIO. ICM: REGIME ESPECIAL. RESTRIÇÕES DE CARÁTER PUNITIVO. LIBERDADE DE TRABALHO. CF/67, ART.153, § 23; CF/88, ART. 5º, XIII. I. - O ‘regime especial do ‘ICM’, autorizado em lei estadual, porque impõe restrições e limitações à atividade comercial do contribuinte, viola a garantia constitucional da liberdade de trabalho (CF/67, ART.153, § 23; CF/88, ART. 5º, XIII), constituindo forma oblíqua de cobrança do tributo, assim execução política, que a jurisprudência do Supremo Tribunal sempre repeliu (Súmulas nºs 70, 323 e 547). II. - No caso, os acórdãos indicados como divergentes cuidaram do tema sob o ponto de vista legal, enquanto que o acórdão embargado decidiu a questão tendo em vista a Constituição. Inocorrência, por isso, de divergência capaz de autorizar os embargos. III. - Embargos não conhecidos”.
+Nesse sentido, menciono as seguintes decisões, entre outras: RE 413.840/SE, Rel. Min. Ayres Britto; AI 529.106-AgR/MG, Rel. Min. Ellen Gracie; RE 231.543/MG, Rel. Min. Ilmar Galvão; RE 216.983-AgR/SP, Rel. Min. Carlos Velloso; RE 195.621/GO, Rel. Min. Marco Aurélio.
+Isso posto, conheço do recurso extraordinário e dou-lhe provimento (CPC, art. 557, § 1º-A). Sem honorários (Súmula 512 do STF).
+Publique-se.
+Brasília, 23 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
