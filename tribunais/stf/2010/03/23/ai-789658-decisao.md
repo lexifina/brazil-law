@@ -1,0 +1,17 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão assim ementado:
+“APELAÇÃO CÍVEL – TRIBUTÁRIO – IMUNIDADE TRIBUTÁRIA – ICMS – ENTIDADE SEM FINS LUCRATIVOS – PRECEDENTES. Para se beneficiar da imunidade tributária, mister que o veículo integre o patrimônio da entidade para cumprimento das finalidades essenciais e que estejam atendidos os requisitos do art. 14 do CTN” (fl. 70).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 150, VI, c, da mesma Carta.
+O agravo não merece acolhida. O acórdão recorrido encontra-se em harmonia com o entendimento da Corte que, ao julgar o RE 237.718/SP, Rel. Min. Sepúlveda Pertence, reconheceu que a imunidade tributária alcança o patrimônio das entidades de assistência social, conforme se vê da ementa a seguir transcrita:
+“Imunidade tributária do patrimônio das instituições de assistência social (CF, art. 150, VI, c): sua aplicabilidade de modo a preexcluir a incidência do IPTU sobre imóvel de propriedade da entidade imune, ainda quando alugado a terceiro, sempre que a renda dos aluguéis seja aplicada em suas finalidades institucionais” .
+No mesmo sentido: AI 553.720/SP, Rel. Min. Gilmar Mendes; RE 365.242/SP, Rel. Min. Sepúlveda Pertence; RE 302.800/SP, Rel. Min. Cezar Peluso.
+Ainda que superado tal óbice a pretensão recursal não prosperaria. É que o tribunal de origem decidiu a causa nos seguintes termos:
+“De todo processado, infere-se que o veículo tributado está afeto às atividades de interesse público que o Estado pretende resguardar, porquanto colabora com a atuação estatutária da entidade. Ademais, o estatuto social, as declarações de utilidade pública conferidas ao apelado e, por fim, os relatórios de atividades acostados aos autos comprovam estar satisfeitos os requisitos exigidos pelo art. 14 di CTN para o gozo da imunidade tributária” (fl. 72).
+Portanto, a discussão acerca da destinação dada ao bem tributado e do cumprimento dos requisitos necessários à concessão do benefício, demanda o exame do conjunto fático-probatório constante dos autos (Súmula 279 do STF), bem como a análise da legislação infraconstitucional (art. 14 do CTN). Nesse sentido, cito julgados de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL. IMUNIDADE TRIBUTÁRIA. ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS. IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULO AUTOMOTOR. REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL.
+1. A via extraordinária não é adequada para se questionarem as circunstâncias fáticas que ensejaram ao Agravado o direito à imunidade tributária e se fazer processar, como se pretende no presente agravo regimental, reexame de matéria probatória reservada às instâncias ordinárias de mérito. 2. Incidência da Súmula 279 do Supremo Tribunal Federal. 3. Agravo ao qual se nega provimento.” (AI 559.488-AgR/DF, rel. Min. Cármen Lúcia, Primeira Turma).
+“ CONSTITUCIONAL.   IMUNIDADE TRIBUTÁRIA. ENTIDADE SEM FINS LUCRATIVOS. SÚMULA 279-STF. I. - O acórdão entendeu que a parte agravada faz jus à   imunidade prevista no art. 150, VI, c, da C.F., a partir do exame do conjunto fático-probatório trazido aos   autos. Incidência, no caso, da Súmula 279-STF. II. - Agravo não provido ” (AI 466.540-AgR/MG, Rel. Min. Carlos Velloso, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
