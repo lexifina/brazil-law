@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) de acórdão do Tribunal Regional Federal da 5ª Região, cuja ementa possui o seguinte teor (fls. 407):
+“APELAÇÃO. ADMINISTRATIVO. ADIANTAMENTO PCCS. PEDIDO DE INCORPORAÇÃO AOS VENCIMENTOS. NÃO ADMISSÃO, EM FACE DE TAL UTILIDADE JÁ HAVER SIDO CONCEDIDA EM CUMPRIMENTO AO ART. 4º, II, DA LEI 8.460/92. AUSÊNCIA DE PROVA DO NÃO CUMPRIMENTO, PELA ADMINISTRAÇÃO, DO ALUDIDO DISPOSITIVO LEGAL. APELO IMPROVIDO.”
+Observo, de início, que o recurso extraordinário, ao alegar que o acórdão recorrido ofende o disposto nos arts. 5º, XXXVI, e 37, XV, da Carta Magna, versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Ademais, a acórdão recorrido consignou que “o adiantamento do PCCS (...) foi suprimido, incorporando-se o seu quantum aos vencimentos do(s) substituídos, nos induvidosos termos do art. 4º, II, da Lei 8.460 (...)” (fls. 399) e que “(...) o êxito do pedido dependeria da prova de que o apelado, descumprindo a Lei 8.460/92, não efetuara a incorporação da verba em discussão” (fls. 404). Para reverter tal entendimento, seria necessário rever fatos e provas, circunstância que escapa ao restrito âmbito de conhecimento do recurso extraordinário (Súmula 279/STF).
+Por fim, verifico que o Tribunal a quo decidiu a causa com base na legislação infraconstitucional, de modo que eventual ofensa à Constituição seria indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 470.720 (rel. min. Carlos Velloso, DJ de 27.08.2004), RE 540.124 (rel. min. Ricardo Lewandowski, DJ de 28.08.2007), RE 531.797 (rel. min. Ricardo Lewandowski, DJe de 14.02.2008), AI 751.021 (rel. min. Cármen Lúcia, DJe de 27.05.2009) e AI 607.654 (rel. min. Ellen Gracie, DJe de 20.08.2009).
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de março de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
