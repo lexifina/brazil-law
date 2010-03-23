@@ -1,0 +1,13 @@
+1.  Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu pedido de liminar do writ anteriormente aforado perante o Superior Tribunal de Justiça (HC 133.324/RJ, rel. Min. Felix Fischer).
+ Narra a inicial que o paciente foi denunciado e preso pela suposta prática do crime tipificado no art. 121, § 2º, I e IV, c/c art. 61, II, e, e art. 29, todos do Código Penal. A sentença condenatória fixou a pena em 15 (quinze) anos de reclusão, em regime fechado.
+ Contra tal ato, a defesa interpôs apelação criminal ao Tribunal de Justiça do Estado do Rio de Janeiro, que negou provimento ao recurso. Posteriormente, impetrou-se o HC 133.324/RJ ao Superior Tribunal de Justiça. O pedido de liminar foi indeferido pelo eminente Ministro Felix Fischer.
+ Alega o impetrante, em síntese: a) possibilidade de abrandamento da Súmula 691/STF; b) cerceamento de defesa, visto que o advogado do paciente não foi intimado para se manifestar quanto à juntada de documentos da acusação; c) nulidade do julgamento em razão da formulação dos quesitos referentes às qualificadoras; d) falta de fundamentação para o aumento da pena.
+ Assim, requerem a concessão de provimento liminar, para que seja revogado o mandado de prisão e, no mérito, a anulação da sessão de julgamento do Tribunal do Júri (fl. 25-26).
+2.  A decisão impugnada pelo presente habeas corpus, da lavra do Ministro Felix Fischer, assentou que a “análise dos autos, nos limites da cognição in limine, não permite a constatação de indícios suficientes para a configuração do fumus boni iuris, não restando configurado, de plano, a flagrante ilegalidade, devendo a quaestio, portanto, ser apreciada pelo Colegiado. Denego, pois, a liminar” (fl. 171).
+3.  Vale frisar que o rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+4.  Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de supressão de instância.
+5.  Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
+Brasília, 23 de março de 2010.
+Ministra Ellen Gracie
+Relatora
