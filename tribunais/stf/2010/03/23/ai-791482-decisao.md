@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido entendeu que responde a ora agravante pelos prejuízos causados à agravada, em decorrência da falha no serviço prestado, consistente na ausência de diligência na identificação dos contratantes, quando da realização de empréstimos.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, XXXV, XXXVI, LV, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. Bem examinados os autos, verifico que o agravante não instruiu adequadamente o agravo com as peças obrigatórias para a sua formação, uma vez que deixou de juntar a cópia da petição do recurso inominado, não sendo possível verificar o prequestionamento dos arts. 5º, XXXV, XXXVI, LV, e 93, IX, da Constituição Federal.
+Ressalte-se, ainda, que a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+Ainda que superado tal óbice, o recurso não prosperaria. Isso porque, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, trago à colação trecho do acórdão recorrido que bem enfatiza o entendimento do Tribunal de origem:
+“(...) não existe nos autos qualquer documento que comprove a contratação do empréstimo consignado que vem sendo descontado pela ré, do benefício previdenciário pela parte autora. Os documentos aportados aos autos não contêm nenhuma assinatura. Além disso, o acórdão enviado à autora nunca foi utilizado, não tendo sequer sido desbloqueado” (fl. 103).
+Além disso, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV, e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário.
+Por fim, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
