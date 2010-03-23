@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a e b, da Constituição) interposto de acórdão prolatado por Tribunal Regional Federal assim ementado:
+“MANDADO DE SEGURANÇA. PROGRAMA DE INTEGRAÇÃO SOCIAL – PIS. EMENDA DE REVISÃO N° 1/94. ART. 72, V, DO ADCT. BASE DE CÁLCULO. RECEITA BRUTA OPERACIONAL. MODIFICAÇÃO PELO ART. 1º DA MEDIDA PROVISÓRIA N° 517/94 E REEDIÇÕES. INCONSTITUCIONALIDADE ACOLHIDA PELO ORGÃO ESPECIAL.
+I – Inconstitucionalidade do art. 1°, da Medida Provisória n° 517/1994 e suas reedições, declarada pelo Órgão Especial da Corte em Argüição de Inconstitucionalidade n° 95.03.052376-1.
+II – Efeitos vinculantes, nos termos do Art. 176, do Regimento Interno do Tribunal.” (fls. 168)
+Sustenta-se, em síntese, a constitucionalidade do art. 1º da Medida Provisória 517/1994 e suas reedições.
+Por ocasião do julgamento do RE 358.273 (rel. min. Marco Aurélio, DJ de 15.08.2006), o Plenário do Supremo Tribunal Federal declarou, incidentalmente e por maioria, a inconstitucionalidade do § 1º do art. 3º da Lei 9.718/1998. Confira-se
+“CONSTITUCIONALIDADE SUPERVENIENTE - ARTIGO 3º, § 1º, DA LEI Nº 9.718, DE 27 DE NOVEMBRO DE 1998 - EMENDA CONSTITUCIONAL Nº 20, DE 15 DE DEZEMBRO DE 1998. O sistema jurídico brasileiro não contempla a figura da constitucionalidade superveniente.
+TRIBUTÁRIO - INSTITUTOS - EXPRESSÕES E VOCÁBULOS - SENTIDO. A norma pedagógica do artigo 110 do Código Tributário Nacional ressalta a impossibilidade de a lei tributária alterar a definição, o conteúdo e o alcance de consagrados institutos, conceitos e formas de direito privado utilizados expressa ou implicitamente. Sobrepõe-se ao aspecto formal o princípio da realidade, considerados os elementos tributários.
+CONTRIBUIÇÃO SOCIAL - PIS - RECEITA BRUTA - NOÇÃO - INCONSTITUCIONALIDADE DO § 1º DO ARTIGO 3º DA LEI Nº 9.718/98. A jurisprudência do Supremo, ante a redação do artigo 195 da Carta Federal anterior à Emenda Constitucional nº 20/98, consolidou-se no sentido de tomar as expressões receita bruta e faturamento como sinônimas, jungindo-as à venda de mercadorias, de serviços ou de mercadorias e serviços. É inconstitucional o § 1º do artigo 3º da Lei nº 9.718/98, no que ampliou o conceito de receita bruta para envolver a totalidade das receitas auferidas por pessoas jurídicas, independentemente da atividade por elas desenvolvida e da classificação contábil adotada.”
+Observo, no entanto, que este entendimento não se aplica à hipótese dos autos, pois o art. 1° da Medida Provisória 517/1994, convertida na Lei 9.701/1998, se limita a estabelecer casos de exclusão ou dedução da receita bruta operacional, sem, no entanto, delimitar o conteúdo da referida base de cálculo, que deve ser auferido com base em outras normas infraconstitucionais. Saliente-se que a previsão expressa de referidas exclusões ou deduções não implica necessariamente na impossibilidade de outras exclusões ou deduções da base de cálculo, de forma que não há um engessamento de sua amplitude.
+Nesse sentido: RE 383.789 (rel. min. Eros Grau, DJ de 30.05.2005).
+Quanto ao uso de medida provisória para regular matéria que foi objeto de emenda constitucional (art. 246 da Constituição) e para modificar a estrutura da Contribuição ao PIS, observo que esta Corte já firmou precedentes no sentido da possibilidade de utilização do instrumento normativo para dispor sobre a Contribuição ao PIS (cf., e.g., o RE 493.344-ED, rel. min. Joaquim Barbosa, Segunda Turma, DJe de 19.12.2008 e a ADI 1.417, rel. min. Octavio Gallotti, Pleno, DJ de 23.03.2001). Assim, é necessário distinguir entre a adoção de medida provisória para regular o Fundo Social de Emergência (art. 246 da Constituição e art. 73 do ADCT) e a adoção de medida provisória para instituir ou aumentar tributo (cf., e.g., o RE 433.077, rel. min. Cármen Lúcia, DJe de 22.09.2009).
+Dessas orientações divergiu o acórdão recorrido.
+Do exposto, com base no art. 557, § 1o-A, do Código de Processo Civil, conheço do recurso extraordinário e dou-lhe provimento.
+Sem honorários (Súmula 512 do STF).
+Custas ex lege.
+Publique-se.
+Brasília, 23 de março de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
