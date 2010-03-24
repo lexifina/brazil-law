@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Gladys Natalina Maria Negrini interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos XXXV, XXXVI, LIV e LV, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Terceira Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“Agravo Regimental em ação Rescisória Decisão monocrática que indeferiu a petição inicial – Alegação de violação a literal de disposição de lei – Inocorrência de hipótese de rescindibilidade – Decisão mantida – Agravo regimental IMPROVIDO” (fl. 572).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não merece prosperar a irresignação.
+O Tribunal de origem, para decidir a questão, se ateve ao exame de legislação infraconstitucional. Portanto, a violação do texto constitucional seria, caso houvesse, indireta ou reflexa. Anote-se que o acórdão atacado concluiu expressamente que, “ausente a hipótese de rescindibilidade prevista no artigo 485, inciso V, do CPC, o indeferimento da petição inicial da ação rescisória deve ser mantida” (fl. 574).
+A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INFRACONSTITUCIONAL. AMPLA DEFESA. PRODUÇÃO DE PROVAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. 2. O acórdão que mantém o indeferimento de diligência probatória tida por desnecessária não ofende o artigo 5º, LV, da Constituição do Brasil. Precedentes. 3. Reexame da matéria fático-probatória. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI n° 692.834/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 6/2/09).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INDEFERIMENTO DE PROVA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”
+(AI n° 654.463/SP-AgR, Primeira Turma, Relatora a  Ministra Cármen Lúcia, DJe de 12/12/08).
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 24 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
