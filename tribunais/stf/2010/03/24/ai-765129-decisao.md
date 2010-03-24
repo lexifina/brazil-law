@@ -1,0 +1,29 @@
+DECISÃO
+Vistos.
+Eurofood Alimentos Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, inciso LV, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Décima Sétima Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+“APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONTRATO EXISTENTE ENTRE AS PARTES. MERCADORIAS REQUERIDAS PELA RÉ E NÃO RETIRADAS. OBRIGAÇÃO DE PAGAR.
+1. Agravo retido interposto pela ré. Desprovimento. Desnecessidade de prova pericial, uma vez que a prova testemunhal foi suficiente para esclarecer que não houve defeitos nas embalagens.
+2. Contrato existente, ainda que ausente o instrumento por escrito. As provas, documental e testemunhal, demonstraram a existência de relação comercial entre as partes. Desnecessidade de formalização do instrumento para gerar dever recíproco de cumprimento das obrigações assumidas. Além disso, houve o fornecimento de maquinário pela autora à ré, o que não foi negado, corroborando o entendimento de existência do negócio entabulado entre as partes.
+3. Contrato de exclusividade demonstrado pelos depoimentos claros e concatenados do representante legal da empresa autora e das testemunhas compromissadas.
+4. A ré tem o direito de resgatar a mercadoria que solicitou e não retirou oportunamente, sob pena de enriquecimento ilícito da autora.
+5. Honorários advocatícios, in casu, submetem-se às regras do art. 20, parágrafo 3º, do CPC, por se tratar de ação condenatória, o que não foi observado na sentença hostilizada.
+Redimensionamento da verba sucumbencial.
+AGRAVO RETIDO DESPROVIDO. APELO DA RÉ PARCIALMENTE PROVIDO. APELO DA AUTORA PROVIDO” (fl. 385).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não merece prosperar a irresignação.
+A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (AI nº 556.757/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 12/5/06).
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 20/9/02).
+Ademais, a jurisprudência desta Corte está consolidada no sentido de que o indeferimento de diligência probatória, tida por desnecessária pelas instâncias ordinárias, não viola os princípios do contraditório e da ampla defesa. Nesse sentido, anote-se:
+“Agravo regimental. Recurso extraordinário. Ação de indenização por dano causado por acidente de trânsito. Indeferimento de diligência probatória. Cerceamento de defesa. Inocorrência.
+1. Não incorre em ofensa à ampla defesa o indeferimento de diligência probatória tida por desnecessária.
+2. Não se abre a via do recurso extraordinário para o reexame de fatos e provas. Incidência da Súmula nº 279 desta Corte.
+3. Agravo regimental desprovido” (AI nº 631.856/AM-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 7/12/07).
+“EMENTA: PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE DILIGÊNCIA PROBATÓRIA. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - Como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. II - Este Tribunal tem decidido no sentido de que o indeferimento de diligência probatória, tida por desnecessária pelo juízo a quo, não viola os princípios do contraditório e da ampla defesa. III - Agravo regimental improvido” (AI nº 616.277/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 19/9/08).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 24 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
