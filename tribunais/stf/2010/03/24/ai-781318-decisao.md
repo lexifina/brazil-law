@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+3.  Deixo de apreciar a existência da repercussão geral, vez que o artigo 323, § 1º, do RISTF dispõe que "[t]al procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+2.  O agravo não merece provimento. O Supremo fixou entendimento no sentido de ser “inconstitucional a lei municipal que tenha estabelecido, antes da emenda constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana” [Súmula n. 668 do STF].
+4.  O STF afastou a possibilidade de atribuir-se efeitos ex nunc às decisões que debatem a aplicação do preceito da lei local [Lei n. 691/84, art. 67]. O Ministro Celso de Mello, no RE n. 395.902-AgR, 2ª Turma, DJ de 25.8.06, assim decidiu: “a necessária formulação de um juízo prévio de inconstitucionalidade, inocorrente na espécie, pois – insta-se – a norma em questão foi editada em momento anterior (1984) ao da vigência da Constituição de 1988, o que significa que a decisão que pronunciou esse juízo negativo de recepção somente ‘surte efeitos a partir da promulgação da Constituição Federal (...)’ (AI 482.017-AgR/RJ, Rel. Min. SEPÚLVEDA PERTENCE – grifei)”.
+5.  No que respeita à matéria relativa à TIP, o Supremo fixou entendimento no sentido de que o serviço de iluminação pública não pode ser remunerado mediante taxa [Súmula n. 670]. Quanto à TCLLP, o Supremo decidiu pela inexigibilidade da exação por configurar serviço público de caráter universal e indivisível. [RE n. 256.588-ED-EDv, Relatora a Ministra Ellen Gracie, Pleno, DJ de 3.10.03].
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 24 de março de 2010.
+Ministro Eros Grau
+- Relator -
