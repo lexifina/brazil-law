@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento criminal contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil em oposição a acórdão da Segunda Turma Recursal dos Juizados Especiais Cíveis e Criminais do DF, que confirmou sentença no sentido de condenar o ora agravante por incurso no delito tipificado no artigo 331 do Código Penal a pena de 6 [seis] meses de detenção em regime inicial aberto.
+2.  A parte agravante alega, no extraordinário, ofensa ao disposto no artigo 5º, LVII, da Constituição do Brasil. Assevera que houve violação dos princípios do devido processo legal, da proporcionalidade na medida em que o ora agravante foi condenado com base somente nos depoimentos dos policiais que teriam sido vítimas da conduta tipificada.
+3.    Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+4.  O agravo não merece provimento. A controvérsia restringe-se à interpretação da legislação infraconstitucional pertinente --- artigo 331 do Código Penal. Trata-se, pois, de ofensa indireta à Constituição, insuficiente para desafiar a via extraordinária.
+5.  O Supremo Tribunal Federal fixou entendimento de que "a ofensa à Constituição, que autoriza admissão do recurso extraordinário, é a ofensa direta, frontal, e não a ofensa indireta, reflexa. Se, para demonstrar a contrariedade à Constituição, tem-se, antes, de demonstrar a ofensa à norma infraconstitucional, é esta que conta para a admissibilidade do recurso" [AI n. 204.153-AgR, 1ª Turma, DJ de 30.6.00, e AI n. 231.836-AgR, 2ª Turma, DJ de 3.9.99].
+6.  Por fim, para dissentir-se das conclusões do acórdão recorrido, seria necessário o reexame da matéria fático-probatória que o orientou, providência vedada nesta instância, em face da incidência da Súmula n. 279 do Supremo Tribunal Federal.
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 24 de março de 2010
+Ministro Eros Grau
+- Relator –
