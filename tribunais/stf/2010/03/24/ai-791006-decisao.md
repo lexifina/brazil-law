@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento interposto contra a decisão que negou seguimento a recurso extraordinário.
+2.    Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+3.  O agravo não merece conhecimento. O recurso foi inadmitido na origem por falta de peça essencial a formação do instrumento, no caso, não constava dos autos procuração ou substabelecimento em nome da advogada que subscreve a petição de recurso extraordinário.
+4.  A jurisprudência do STF reputa juridicamente inexistente o recurso interposto por procurador que não comprove a regularidade da representação processual, não sendo aplicável o preceito inscrito no art. 13 do Código de Processo Civil na via extraordinária.
+5.  Nesse sentido, o RE n. 162.093, Relator o Ministro Ilmar Galvão, DJ de 7.2.97, o RE n. 164.577-AgR, Relator o Ministro Maurício Corrêa, DJ de 30.5.97 e o RE n. 180.628, Relator o Ministro Celso de Mello, DJ de 5.5.95, este assim ementado:
+“RECURSO EXTRAORDINÁRIO - INSTITUTO NACIONAL DO SEGURO SOCIAL - INTERPOSIÇÃO POR ADVOGADO QUE, NÃO SENDO PROCURADOR AUTÁRQUICO, NÃO DISPÕE, NOS AUTOS DO INSTRUMENTO DE MANDATO JUDICIAL - NECESSIDADE DE EXIBIÇÃO DA PROCURAÇÃO - INAPLICABILIDADE DO ART. 13 DO CÓDIGO DE PROCESSO CIVIL AO RECURSO EXTRAORDINÁRIO - ATO RECURSAL INEXISTENTE - RECURSO EXTRAORDINÁRIO NÃO CONHECIDO. - O recurso extraordinário interposto por Advogado sem procuração constitui ato processual juridicamente inexistente. - Não é aplicável ao recurso extraordinário a norma inscrita no art. 13 do Código de Processo Civil, razão pela qual a ausência do necessário instrumento de mandato judicial legítima, quando imputável a omissão ao Advogado da parte recorrente, o não-conhecimento do apelo extremo interposto. Precedentes do STF”.
+ Nego seguimento ao agravo de instrumento com fundamento no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 24 de março de 2010.
+Ministro Eros Grau
+- Relator -
