@@ -1,6 +1,6 @@
 Art. 2º Considera-se necessidade temporária de excepcional interesse público:
 I - assistência a situações de calamidade pública;
-II - combate a surtos endêmicos;
+II - assistência a emergências em saúde pública;
 III - realização de recenseamentos e outras pesquisas de natureza estatística efetuadas pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE;
 IV - admissão de professor substituto e professor visitante;
 V - admissão de professor e pesquisador visitante estrangeiro;
@@ -22,3 +22,4 @@ IX - combate a emergências ambientais, na hipótese de declaração, pelo Minis
 § 1º A contratação de professor substituto a que se refere o inciso IV far-se-á exclusivamente para suprir a falta de docente da carreira, decorrente de exoneração ou demissão, falecimento, aposentadoria, afastamento para capacitação e afastamento ou licença de concessão obrigatória.
 § 2º As contratações para substituir professores afastados para capacitação ficam limitadas a dez por cento do total de cargos de docentes da carreira constante do quadro de lotação da instituição.
 § 3º As contratações a que se refere a alínea h do inciso VI serão feitas exclusivamente por projeto, vedado o aproveitamento dos contratados em qualquer área da administração pública.
+§ 4º Ato do Poder Executivo disporá, para efeitos desta Lei, sobre a declaração de emergências em saúde pública.
