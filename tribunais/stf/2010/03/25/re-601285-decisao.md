@@ -1,0 +1,10 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal Superior do Trabalho. Acórdão assim ementado (fls. 316):
+“RECURSO DE REVISTA. REAJUSTE SALARIAL PREVISTO EM ACORDO COLETIVO DE TRABALHO. PREVALÊNCIA SOBRE CONVENÇÃO COLETIVA DE TRABALHO. A jurisprudência do Tribunal Superior do Trabalho orienta no sentido de que o artigo 620 da CLT revela a teoria do conglobamento, pela qual as normas são consideradas e interpretadas em conjunto, e não da forma isolada, razão pela qual não se viabiliza o conhecimento do apelo pela alegada ofensa ao referido dispositivo de lei. De outra forma, revela-se inviável o conhecimento do recurso de revista, quando os arestos paradigmas se apresentarem inespecíficos e inservíveis para o confronto de teses. Incidência dos óbices da Súmula nº 296 do Tribunal Superior do Trabalho e do caput do artigo 896 da CLT. Recurso de revista não conhecido”
+2. Pois bem, a parte recorrente alega violação ao “direito adquirido do recorrente, bem como a ofensa ao princípio de irredutibilidade dos vencimentos”. Aduz que “a recorrida em prejuízo ao recorrente firmou Acordo Coletivo com Sindicato da Categoria em substituição das Convenções Coletivas já vigentes, vez que os efeitos jurídicos aconteceram no ato, não podendo excluir o recorrente pelo princípio da Isonomia, garantia Constitucional” (fls. 350).
+3. Tenho que a insurgência não merece acolhida. Isso porque entendimento diverso do adotado pela Instância Judicante de origem exigiria a análise da legislação infraconstitucional pertinente e o reexame de cláusulas de acordo ou convenção coletiva de trabalho. Nessa contextura, afronta ao Magno Texto apenas ocorreria de modo indireto ou reflexo, o que, ao lado das Súmulas 279 e 454 do STF, impede a abertura da via extraordinária.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 25 de março de 2010.
+Ministro AYRES BRITTO
+Relator
