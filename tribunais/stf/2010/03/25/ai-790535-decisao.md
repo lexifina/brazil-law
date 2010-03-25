@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido porta a seguinte ementa:
+“DIREITO CIVIL – DIREITO PROCESSUAL CIVIL – PROMESSA DE COMPRA E VENDA – DOMÍNIO INEXISTENTE – RECONHECIMENTO COM TRÂNSITO EM JULGADO – ATO ILÍCITO DOLOSO – PENHORA SOBRE PRODUTO DE TAL ATO – POSSIBILIDADE – EMBARGOS QUE SE DÁ PROVIMENTO” (fl. 416).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXII, LIV e LV, da mesma Carta.
+O agravo não merece acolhida. Nos termos da jurisprudência desta Corte, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. É o caso do artigo 5º, LIV, da Carta Maior.
+Ainda que superado tal óbice, o recurso não prosperaria. É que o acórdão recorrido decidiu a causa à luz de normas infraconstitucionais (Lei 8.009/90). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+Outrossim, verifico que a agravante não atacou o fundamento da decisão agravada, relativo ao fato de que o acórdão objeto da impugnação decidiu a causa com base em legislação ordinária. Inviável, portanto, o presente recurso, a teor da Súmula 287 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 580.361-AgR/RS, de minha relatoria; AI 407.427/SP, Rel. Min. Cezar Peluso; AI 590.913-AgR/RS, Rel. Min. Eros Grau; AI 466.398-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+Por fim, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 25 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
