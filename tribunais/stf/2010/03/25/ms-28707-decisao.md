@@ -1,0 +1,41 @@
+DECISÃO
+MANDADO DE SEGURANÇA. ATO COATOR DO SUPERIOR TRIBUNAL DE JUSTIÇA PROFERIDO NO MANDADO DE SEGURANÇA N. 14.863/DF. DECISÃO TRANSITADA EM JULGADO. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+Relatório
+1. Mandado de segurança, com pedido de medida liminar, impetrado por Carla Cristina Spegiorin Miguel e outros contra ato do Relator do Mandado de Segurança n. 14.863/DF do Superior Tribunal de Justiça.
+O caso
+2. Em 10.12.2009, o Mandado de Segurança n. 14.863/DF impetrado por Adriana Moraes, Carla Cristina Spegiorin Miguel e outros contra a Segunda Seção do Superior Tribunal de Justiça foi indeferido pelo seu Relator no Superior Tribunal de Justiça.
+Foram fundamentos da decisão:
+“Acerca do cabimento do mandado de segurança, a jurisprudência desta Corte Superior de Justiça e do Pretório Excelso são firmes no sentido de que o mandado de segurança visa à proteção de direito líqüido e certo contra ato abusivo ou ilegal de autoridade pública, não podendo ser utilizado como sucedâneo recursal, pena de se desnaturar a sua essência constitucional.
+Não é outro o teor do enunciado nº 267 da Súmula do Excelso Supremo Tribunal Federal:
+(...)
+Admite-se o mandado de segurança, contudo, excepcionalmente, nas hipóteses em que se postula a suspensão de efeitos de decisão lesiva ao direito líquido e certo do impetrante, até a revisão do julgado pelo juízo recursal próprio, e, ainda, contra a decisão manifestamente contrária à lei, teratológica, ou nos casos em que a impetração é de terceiro, que não foi parte no feito, embora devesse dele participar.
+In casu, insurgem-se os impetrantes contra ato judicial consistente no acórdão da Segunda Seção deste Superior Tribunal de Justiça no CC nº 90.009/RJ, que afirmou a competência da Justiça Comum Estadual para "decidir a respeito do contrato firmado entre a Suscitante TV ÔMEGA e as empresas TV MANCHETE e BLOCH EDITORES S. A., bem como o alcance e efeitos do referido contrato;".
+E, ao que se tem, o ato judicial impugnado não é teratológico a autorizar, por tal fundamento, o excepcional cabimento do pedido, uma vez que decisão teratológica é a decisão absurda, impossível juridicamente, em nada se afeiçoando à espécie, em que se julgou conflito de competência nos limites do artigo 115, inciso I, do Código de Processo Civil(...)” (DJ 17.12.2009, grifos nossos).
+Essa decisão transitou em julgado em 10.2.2010, conforme consulta ao sítio do Superior Tribunal de Justiça.
+Contra essa decisão Carla Cristina Spegiorin Miguel e outros impetram o presente mandado de segurança.
+3. Da prolixa petição inicial, extrai-se, basicamente, que os Impetrantes se insurgem contra decisão proferida pela Segunda Seção do Superior Tribunal de Justiça nos autos do Conflito de Competência n. 90.009/RJ.
+Argumentam que “a decisão emanada da 2ª Seção [do Superior Tribunal de Justiça], [teria] adot[ado] entendimento ilegal, em prejuízo dos impetrantes, ao não observar o art. 114, da Constituição Federal que reserva exclusivamente para a Justiça do Trabalho as decisões que envolvam impasses laborativos” (fl. 3).
+Sustentam que, contra essa decisão, teriam impetrado o Mandado de Segurança n. 14.863/DF indeferido pelo seu relator no Superior Tribunal de Justiça “por entender [aquele Ministro] que a decisão da 2ª Seção do [Superior Tribunal de Justiça] não [teria sido] teratológica, nem contrária a lei” (fl. 3).
+Ressaltam que impetram o presente mandado de segurança para “ped[ir-se] a correção desse ato ostensivamente ilegal” (fl. 3).
+Ao final, pedem:
+“a) concessão de liminar do Supremo Tribunal Federal para que penhoras determinadas pela Justiça do Trabalho em ações envolvendo a TV Ômega Ltda. sejam respeitadas, mantidas ou ainda, quando for o caso, refeitas, até final julgamento deste pedido de segurança, bloqueando-se as quantias garantidoras de créditos em ações daquele ramo de justiça e se desconsiderando qualquer determinação em contrário;
+b) seja confirmada ao final a liminar pedida, tida por prejudicada qualquer decisão do Juízo Cível com reflexos nesses processos e aqui admitida e proclamada a competência única da Justiça do Trabalho para sempre decidir sobre o reconhecimento ou não da TV Ômega como sucessora das obrigações trabalhistas da TV Manchete Ltda. e em tudo que diga respeito a aspectos trabalhistas, bem como para decidir sobre o mérito de tais feitos;
+c) seja determinado que os processos trabalhistas envolvendo a mencionada TV Ômega Ltda, a TV Manchete Ltda., os impetrantes e demais reclamantes, voltem a ter seu curso normal, com seqüência plena da fase de conhecimento ou das execuções em curso, independentemente de sua localização física e não mais sofrendo quaisquer sobrestamentos” (fls. 16-17).
+Analisados os elementos havidos nos autos, DECIDO.
+4. O mandado de segurança não pode ser conhecido.
+O art. 102, inc. I, alínea d, da Constituição da República estabelece as hipóteses de competência do Supremo Tribunal Federal para conhecer de mandado de segurança:
+“Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+I - processar e julgar, originariamente:
+d) (...) o mandado de segurança e o "habeas-data" contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal”.
+No rol dos casos subsumidos constitucionalmente à competência originária do Supremo Tribunal, não se inclui a atribuição para processar e julgar, originariamente, mandado de segurança em que figure como autoridade coatora o Superior Tribunal de Justiça.
+A matéria não admite discussão mínima, por se cuidar de regra de competência constitucional expressa, que não possibilita interpretação extensiva.
+Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. AUTORIDADE IMPETRADA NÃO ELENCADA NO ROL DO ART. 102, INC. I, ALÍNEA D, DA CONSTITUIÇÃO DA REPÚBLICA. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA CONHECER DO MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL QUE NÃO INFIRMA OS FUNDAMENTOS DA DECISÃO AGRAVADA. PARCIAL PROVIMENTO PARA DECLINAR DA COMPETÊNCIA AO JUIZADO ESPECIAL CÍVEL DA COMARCA DE PIRACICABA/SP. 1. Incompetência do Supremo Tribunal Federal para processar e julgar, originariamente, mandado de segurança contra ato de Juiz de Direito integrante de Juizado Especial. 2. O agravo regimental limitou-se a reiterar toda a argumentação expendida na inicial do mandado de segurança, sem, entretanto, infirmar os fundamentos da decisão agravada. 3. Agravo regimental parcialmente provido para declinar da competência para o Tribunal a quo” (MS 26.836-AgR/SP, de minha relatoria, Tribunal Pleno, DJ 13.3.2009).
+“EMENTA: AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. MANDADO DE SEGURANÇA INTERPOSTO CONTRA ATO DE OUTRO TRIBUNAL. INCOMPETÊNCIA DO STF. SÚMULA 624. AGRAVO IMPROVIDO. I - Não é da competência do Supremo Tribunal Federal, nos termos do art. 102, I, d, da CF, processar e julgar, originariamente, mandado de segurança contra atos de outros Tribunais. II - Agravo regimental improvido” (MS 26.839-AgR/RS, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJ 8.8.2008).
+Na mesma linha: MS 27.674/DF, Rel. Min. Joaquim Barbosa, decisão monocrática, DJ 28.10.2008; MS 27.497/DF, Rel. Min. Ellen Gracie, decisão monocrática, DJ 17.9.2008; MS 27.563/DF, Rel. Min. Joaquim Barbosa, decisão monocrática, DJ 16.9.2008; MS 27.494-MC/DF, Rel. Min. Joaquim Barbosa, decisão monocrática, DJ 15.9.2008; MS 27.191-MC/SP, Rel. Min. Eros Grau, decisão monocrática, DJ 17.3.2008; MS 26.558/DF, de minha relatoria, decisão monocrática, DJ 2.5.2007; MS 24.274-AgR/PE, Rel. Min. Celso de Mello, Segunda Turma, DJ 11.5.2007; MS 25.509-AgR/SP, Rel. Min. Sepúlveda Pertence, Tribunal Pleno, DJ 24.3.2006; e MS 24.193/DF, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJ 19.3.2004.
+5. Ademais, ressalte-se que os Impetrantes se insurgem contra decisão que transitou em julgado em 10.2.2010 o que não é autorizado pelo art. 5º, inc. III da Lei n. 12.016/2009.
+6. Pelo exposto, nego seguimento à ação (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal e art. 5º, inc. III da Lei n. 12.016/2009).
+Publique-se.
+Brasília, 25 de março de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
