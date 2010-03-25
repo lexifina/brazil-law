@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“DIREITO ADMINISTRATIVO – DESVIO DE FUNÇÃO NOTICIADO PELAS AUTORAS – COMPROVAÇÃO DO EXERCÍCIO DE FUNÇÕES DIVERSAS DAQUELAS ESPECÍFICAS OU INERENTES AO CARGO EFETIVO TITULARIZADO – PAGAMENTO DAS DIFERENÇAS DE REMUNERAÇÃO – PROCEDÊNCIA DO PEDIDO.
+(...)” (fl. 81).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 37, II, X, XIII, e 39,§ 1º, da mesma Carta.
+O agravo não merece acolhida. É que à exceção do art. 37, II da Constituição os demais dispositivos não foram prequestionados. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ainda que superado tal óbice o recurso não prosperaria. É que o Tribunal de origem decidiu a causa nos seguintes termos:
+“Tenho que restou comprovado o alega desvio de função narrado nos autos. Verifica-se da documentação acostada nos autos, especialmente declarações de fls. 28, 40, 57 e 94, bem como da prova testemunhal produzida, o desvio de função, vez que as autoras exerceram funções típicas de técnico de enfermagem. Assim, sob pena de enriquecimento ilícito da Administração, impõe-se o pagamento da diferença de remuneração” (fl. 87).
+Portanto, para dissentir do acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que inviabiliza o recurso extraordinário, a teor da Súmula 279 do STF.
+Por fim, o acórdão recorrido está em consonância com o entendimento desta Corte no sentido de que o servidor público desviado de suas funções após a promulgação da Constituição não pode ser reenquadrado, mas tem direito ao recebimento, como indenização, da diferença remuneratória entre os vencimentos do cargo efetivo e os daquele exercido de fato, sob pena de enriquecimento ilícito da Administração. Nesse sentido, menciono as seguintes decisões, entre outras: RE 347.149/RS, Rel. Min. Carlos Britto; AI 223.678/DF e RE 339.782/RS, Rel. Min. Cezar Peluso; AI 599.504/RJ, Rel. Min. Gilmar Mendes; AI 516.622-AgR/RJ, Rel. Min. Ellen Gracie; RE 362.811/RS, Rel. Min. Carlos Velloso e RE 275.840/RS, Rel. Min. Marco Aurélio, cuja ementa segue transcrita:
+“Desvio de função - Conseqüência remuneratória - Enriquecimento sem causa - Afastamento. O sistema da constituição federal obstaculiza o enriquecimento sem causa, especialmente o do estado. Longe fica de vulnerar a carta política acórdão que, diante de desvio de função, implica o reconhecimento do direito à percepção, como verdadeira indenização, do valor maior, sem estampar enquadramento no cargo, para o que seria indispensável o concurso público”.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 25 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
