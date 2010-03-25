@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+“ MANDADO DE SEGURANÇA – DESPACHO PROFERIDO PELO PRESIDENTE DA PRIMEIRA TURMA RECURSAL MISTA DA CAPITAL, QUE NÃO TOMOU CONHECIMENTO DO RECURSO ESPECIAL – INCOMPETÊNCIA DA TURMA RECURSAL PARA JULGAR AS SUAS PRÓPRIAS DECISÕES – LITIGÂNCIA DE MÁ-FÉ – NÃO CONHECIMENTO .
+- O caso específico dos autos, além de faltar competência a 1ª Turma Recursal Mista da Comarca da Capital, para processar e julgar, não cabe mandado de segurança para reexaminar e modificar o que foi decidido em despacho por ela proferido.
+- Aquele que postula e insiste, perante o mesmo colegiado, na reapreciação de matéria já decidida, age de forma deliberada e consciente, com o objetivo exclusivo de alongar indefinidamente o desfecho da demanda, em conseqüência, viola o princípio da lealdade processual, caracterizando assim litigância de má-fé.” (Fl. 74).
+2.  Nas razões do RE, sustenta-se ofensa ao artigo 5º, II, X, XXXV e LV, da Constituição Federal.
+3.  O recurso não merece prosperar. Verifico que os incisos II e X do artigo 5º da Constituição não se encontram prequestionados, porque não abordados pelo acórdão recorrido, nem suscitados nos embargos de declaração opostos às fls. 76-80, não sendo satisfeito, assim, o requisito do prequestionamento (Súmulas STF 282 e 356).
+4.  Ademais, quanto à alegação de ofensa ao art. 5º e seus incisos, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento(art. 557, caput, do CPC).
+Publique-se.
+Brasília, 25 de março de 2010.
+Ministra Ellen Gracie
+Relatora
