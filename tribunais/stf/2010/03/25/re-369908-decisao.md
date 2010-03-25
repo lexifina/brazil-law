@@ -1,0 +1,36 @@
+DECISÃO
+Vistos.
+Raul Ferreira de Andrade e outros interpõem recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado de Sergipe, assim ementado:
+“Apelação cível. Ação de obrigação de fazer cumulada com indenização. Ex-vereadores. Proventos. Inclusão de 13º salário. Agentes políticos.
+Inexistindo previsão legal específica, incabível é a percepção de 13º salário por ex-vereadores aposentados.
+Recurso improvido. Decisão unânime” (fl. 231)
+Opostos embargos de declaração (fls. 236 a 238), foram rejeitados (fls. 241 a 243).
+Alegam os recorrentes violação do artigo 7º, inciso VIII, da Constituição Federal, uma vez que “a Lei Maior em nosso país disciplina que são garantidos o décimo terceiro salário, mesmo para aqueles aposentados, como é o caso dos Recorrentes” (fl. 250).
+Sem contrarrazões (fl. 253), o recurso extraordinário (fls. 245 a 251) foi admitido (fl. 254).
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Wagner de Castro Mathias Netto, “pelo desprovimento do recurso” (fls. 260 a 262).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 14/12/01, conforme expresso na certidão de folha 244, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação.
+O Tribunal de origem entendeu que os recorrentes não fariam jus ao recebimento de gratificação natalina, sob os seguintes fundamentos:
+“(...) Penso, portanto, que se lei municipal vier a estabelecer o 13º salário para os vereadores, não há que se falar em vedação constitucional.
+Ocorre que, com base neste segundo fundamento da sentença (ou seja, falta de previsão legal), observo que inexiste nas Leis Municipais nºs 453/75, 1.183/86 e 1.666/90 qualquer referência ao pagamento de 13º salário aos ex-vereadores aposentados.
+Descabe, ademais, a interpretação extensiva com base no Estatuto dos Servidores Públicos do Município de Aracaju. É que esse Diploma Legal rege as relações dos servidores com a Administração Municipal e não engloba os ex-vereadores aposentados, porque estes não possuem vínculo estatutário com o Município.
+Desta forma, os referidos agentes políticos aposentados poderiam ter direito ao 13º salário, desde que lei específica viesse a regular a situação. Não é o caso dos autos, como visto” (fl. 233/234).
+Conforme se infere do acórdão recorrido, os autores, pensionistas do regime previdenciário dos vereadores do Estado de Sergipe, possuem, disciplinado pelas Leis estaduais nºs 453/75, 1.183/86 e 1.666/90, um regime de previdência próprio; logo, não são beneficiários do regime geral de previdência social de que cuida o artigo 201, § 6º, da Constituição Federal. Nesse contexto, não há como o referido dispositivo constitucional ser aplicado indistintamente aos regimes próprios de previdência, como bem salientado pelo acórdão recorrido. Sobre o tema, anote-se:
+“CONTRIBUIÇÃO PREVIDENCIÁRIA INCIDENTE SOBRE A REMUNERAÇÃO DE EXERCENTE DE MANDATO ELETIVO. INCONSTITUCIONALIDADE. A decisão agravada está em perfeita consonância com o entendimento firmado pelo Pleno do Supremo Tribunal Federal no julgamento do RE 351.717. Naquela ocasião, declarou-se a inconstitucionalidade da alínea h do inciso I do art. 12 da Lei 8.112/1991, acrescentado pelo § 1º do art. 13 da Lei 9.506/1997. Entendeu-se que o exercente de mandato eletivo federal, estadual ou municipal, por não se enquadrar no conceito de trabalhador previsto no art. 195, II, da Constituição federal, não pode ser incluído como segurado obrigatório do regime geral de previdência social por meio de legislação ordinária. Agravo regimental a que se nega provimento” (RE nº 344.567/SC-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 26/5/06 – grifo nosso).
+Nesse mesmo sentido, a recente decisão proferida pelo Ministro Ricardo Lewandowski no RE nº 493.441/RN, DJ de 15/3/10, em caso similar ao dos presentes autos, in verbis:
+“Trata-se de recurso extraordinário contra acórdão que assegurou o pagamento de gratificação natalina aos autores - pensionistas do Instituto de Previdência dos Servidores do Estado do Rio Grande do Norte – IPERN, responsável pelo pagamento de pensão aos vereadores municipais daquele Estado - , independentemente de previsão em lei do benefício, por força do art. 201, § 6º, da Constituição Federal. O acórdão foi assim ementado:
+‘CONSTITUIÇÃO. ADMINISTRATIVO E PREVIDENCIÁRIO. REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. GRATIFICAÇÃO NATALINA. PENSIONISTAS. CONTRIBUIÇÕES VERTIDAS EM FAVOR DA ANTIGA CARTEIRA PARLAMENTAR. APOSENTADORIA POR FORÇA DE LEI ESTADUAL QUE NÃO PREVIA A FIGURA DO 13º SALÁRIO. NORMA CONSTITUCIONAL QUE ASSEGURA O DIREITO À GRATIFICAÇÃO. CONHECIMENTO DA REMESSA NECESSÁRIA E DO APELO PARA NEGAR-LHES PROVIMENTO’ (fl. 114).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 201, § 6º, da mesma Carta, ao argumento de que o referido dispositivo constitucional é dirigido aos planos de previdência social e não se aplica às pensões de ex-vereadores abrigadas pelas chamadas Carteiras Parlamentares.
+O Subprocurador-Geral da República Rodrigo Janot Monteiro de Barros opinou pelo desprovimento do recurso.
+A pretensão recursal merece acolhida.
+O acórdão impugnado, para concluir pelo direito dos recorridos ao pagamento de gratificação natalina, partiu da premissa de que o art. 201, § 6º, da Constituição assegura, independentemente de previsão legal, o pagamento de décimo terceiro salário a todos os aposentados e pensionistas do regime de previdência social.
+Cumpre observar, no entanto, que o mencionado dispositivo constitucional dirige-se aos aposentados e pensionistas do regime geral de previdência social. Saliente-se que a Previdência Social, tal como definida no art. 201 da Lei Maior, é aquela organizada sob a forma de regime geral, não alcançando os regimes próprios de previdência (RE 332.665/SP, Rel. Min. Carlos Britto; RE 225.661/RO, Rel. Min. Sepúlveda Pertence).
+No caso, os recorridos, consoante se infere do aresto atacado, possuem regime próprio de previdência e não são, por isso, segurados do regime geral de previdência social, tampouco são disciplinados pelas regras pertinentes a este regime. Assim, é inaplicável ao caso dos autos o art. 201, § 6º, da CF/88.
+Isso posto, conheço do recurso e lhe dou provimento (CPC, art. 557, 1º-A). Honorários advocatícios a serem fixados pelo Juízo da Execução, nos termos da legislação processual”.
+Ressalte-se, por fim, que o artigo 7º, inciso VIII, da Constituição Federal, apontado como violado pelo recorrente, não invoca o tema pertinente aos autos, qual seja, a percepção de décimo terceiro salário pelos aposentados, já que disciplina o regime dos trabalhadores urbanos e rurais, não abrangendo a previdência social.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 25 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
