@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“ADMINISTRATIVO. MILITAR. CABO DA AERONÁUTICA. ISONOMIA. PROMOÇÃO NAS MESMAS CONDIÇÕES ASSEGURADAS AOS INTEGRANTES DO QUADRO FEMININO DA RESERVA DA AERONÁUTIVA – QRFA. IMPOSSIBILIDADE” (fl. 67).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, caput e I, da mesma Carta.
+O agravo não merece acolhida. O acórdão recorrido encontra-se em harmonia com a jurisprudência da Corte, no sentido de que a imposição de critérios de promoção distintos para militares dos sexos masculino e feminino da Aeronáutica não ofende o princípio da isonomia, observadas a natureza e as atribuições de cada cargo. Nesse sentido menciono julgados de ambas as Turmas desta Corte:
+“ MILITAR.   PROMOÇÃO. CABOS DA   AERONÁUTICA. QUADRO MASCULINO E FEMININO.   CRITÉRIOS DISTINTOS. PRINCÍPIO DA ISONOMIA. A jurisprudência deste Supremo Tribunal firmou entendimento no sentido de que não afronta o princípio da isonomia a adoção de   critérios distintos para a   promoção de integrantes do corpo feminino e masculino da   Aeronáutica. Precedentes” (AI 443.315-AgR/RJ, REl. Min. Ellen Gracie, Primeira Turma).
+“ AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO.   CRITÉRIOS DE   PROMOÇÃO DE MILITARES DOS SEXOS MASCULINO E FEMININO DOS QUADROS DA   AERONÁUTICA. LEIS NS. 6.880/80 E 6.924/81. PRINCÍPIO DA ISONOMIA. NÃO VIOLAÇÃO. PORTARIA MINISTERIAL. LEGISLAÇÃO INFRACONSTITUCIONAL. 1. Controvérsia relativa aos   critérios de   promoção de militares dos sexos masculino e feminino pertencentes aos quadros da   Aeronáutica, disciplinados pelas Leis ns. 6.880/80 e 6.924/81. Não violação do princípio constitucional da isonomia. 2. Questão decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento ” (RE 440.725-AgR/RJ, Rel. Min. Eros Grau, Segunda Turma).
+Com o mesmo entendimento, cito ainda: RE 225.721/PE, Rel. Min. Ilmar Galvão; RE 377.372/PE, Rel. Min. Sepúlveda Pertence; RE 406.166-AgR/BA, Rel. Min. Carlos Britto; RE 336.866-AgR/RJ, Rel. Min. Ellen Gracie; RE 316.882-AgR/PE, Rel. Min. Carlos Velloso; AI 595.139/RJ, Rel. Min. Cezar Peluso; AI 440.905/RJ, Rel. Min. Gilmar Mendes
+Por fim, a discussão acerca dos critérios utilizados para promover os militares pertencentes ao quadro da Aeronáutica demandaria o exame de matéria de fato, o que atrai a incidência da Súmula 279 do STF.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 25 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
