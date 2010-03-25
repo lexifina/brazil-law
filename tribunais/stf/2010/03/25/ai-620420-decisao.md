@@ -1,0 +1,16 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão de cuja ementa destaco:
+“(...) A contribuição previdenciária não incide sobre os proventos de aposentadoria do servidor municipal, no período de vigência da Emenda 20/98 – Os descontos não ofendem direito adquirido na vigência da Emenda 41/2003, observando-se, contudo, a partir de então, o limite de imunidade, sustentado na jurisprudência do plenário do Supremo Tribunal Federal (...)” (fl. 138)
+ O embargos de declaração opostos foram rejeitados (fls. 156-163).
+2.  No RE, sustenta-se ofensa aos arts. 169 e 195 da Constituição Federal (fls. 166-173).
+3.  A controvérsia em debate – possibilidade de cobrança de contribuição à assistência à saúde, espécie que é da seguridade social a incidir sobre proventos e pensões – há de ser analisada em dois momentos: antes e depois da vigência da Emenda Constitucional 20/98.
+ Para o período anterior ao surgimento da mencionada norma constitucional derivada, esta Suprema Corte admitia o custeio da previdência pública com recursos dos próprios proventos e pensões percebidos, respectivamente, pelos servidores públicos inativos e pensionistas. Essa posição foi adotada, por maioria, no julgamento da cautelar na ADI 1.441, rel. Min. Octavio Gallotti, DJ 18.10.1996.
+ Com a superveniência da Emenda Constitucional 20/98, foi estabelecido um novo regime de previdência de caráter contributivo, que definiu como contribuintes unicamente os “servidores titulares de cargos efetivos”. Assim, foi alterada a orientação deste Supremo Tribunal sobre a matéria, tendo o Plenário, no julgamento da ADI 2.010-MC, rel. Min. Celso de Mello, unânime no ponto em questão, DJ de 12.4.2002, assentado que a contribuição para o custeio da previdência social dos servidores públicos não deve incidir sobre os proventos ou as pensões dos aposentados e pensionistas.
+ Tal entendimento se aplica aos servidores da União, bem como aos dos Estados, Municípios e Distrito Federal que, portanto, estão impedidos de exigir, de seus pensionistas, o correspondente pagamento da seguridade social, a partir da alteração da CF/88, conforme decidido na ADI 2.188-MC, rel. Min. Néri da Silveira, Plenário, unânime, DJ de 09.3.2001, e na ADI 2.158-MC, rel. Min. Sepúlveda Pertence, Plenário, unânime, DJ de 1º.9.2000, entre outros julgados.
+4.  Assim posta a questão, não merece acolhimento a pretensão da parte recorrente.
+5.  Importante ressaltar que essa orientação aplica-se até o advento da Emenda Constitucional 41/03, cujo art. 4º, caput – considerado constitucional por esta Suprema Corte no julgamento das ADI 3.105 e ADI 3.128 –, permitiu a cobrança de contribuição previdenciária dos servidores inativos e pensionistas.
+6.  Nesse sentido: RE 564.601-AgR/RS, rel. Min. Cezar Peluso, 2ª Turma, DJe 13.3.2009 e AI 699.887-AgR/BA, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 22.5.2009.
+7.  Assim, o acórdão ora impugnado está em consonância com a orientação firmada por esta Corte sobre a matéria em referência, razão pela qual nego seguimento ao agravo de instrumento com fundamento no art. 557, caput, do Código de Processo Civil.
+Publique-se.
+Brasília, 25 de março de 2010.
+Ministra Ellen Gracie
+Relatora
