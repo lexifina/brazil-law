@@ -1,4 +1,4 @@
 Art. 3º O recrutamento do pessoal a ser contratado, nos termos desta Lei, será feito mediante processo seletivo simplificado sujeito a ampla divulgação, inclusive através do Diário Oficial da União, prescindindo de concurso público.
-§ 1º A contratação para atender às necessidades decorrentes de calamidade pública ou de emergência ambiental prescindirá de processo seletivo.
+§ 1º A contratação para atender às necessidades decorrentes de calamidade pública, de emergência ambiental e de emergências em saúde pública prescindirá de processo seletivo.
 § 2º A contratação de pessoal, nos casos do professor visitante referido nos incisos IV e V e nos casos das alíneas a, d, e, g, l e m do inciso VI e do inciso VIII do caput do art. 2º desta Lei, poderá ser efetivada em vista de notória capacidade técnica ou científica do profissional, mediante análise do curriculum vitae.
 § 3º As contratações de pessoal no caso das alíneas h e i do inciso VI do art. 2º desta Lei serão feitas mediante processo seletivo simplificado, observados os critérios e condições estabelecidos pelo Poder Executivo.
