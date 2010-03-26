@@ -1,0 +1,12 @@
+DECISÃO: O presente recurso extraordinário revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em estrita conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+Com efeito, a colenda Segunda Turma desta Suprema Corte, ao julgar o RE 537.610/RS, Rel. Min. CEZAR PELUSO, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora recorrente:
+“1. TRIBUTO. Contribuição social. Art. 76 do ADCT. Emenda Constitucional nº 27/2000. Desvinculação de 20% do produto da arrecadação. Admissibilidade. Inexistência de ofensa a cláusula pétrea. Negado seguimento ao recurso. Não é inconstitucional a desvinculação de parte da arrecadação de contribuição social, levada a efeito por emenda constitucional.”
+Cabe assinalar, por oportuno, no tema ora em exame, ante a inquestionável procedência de suas observações, as seguintes passagens da decisão proferida pelo eminente Ministro AYRES BRITTO (RE 537.668/RS), ao apreciar questão idêntica à versada nesta sede recursal:
+“4. Tenho que a insurgência não merece acolhida. É que a destinação de 20% (vinte por cento) da arrecadação de contribuições sociais para o Fundo Social de Emergência, instituída por meio de emendas constitucionais, não afrontou nenhuma cláusula pétrea de nosso ordenamento maior - tese que nem fora sustentada pela parte recorrente. No caso, os recursos do Fundo sob exame ‘serão aplicados prioritariamente no custeio das ações dos sistemas de saúde e educação, incluindo a complementação de recursos de que trata o § 3º do art. 60 do Ato das Disposições Constitucionais Transitórias, benefícios previdenciários e auxílios assistenciais de prestação continuada, inclusive liquidação de passivo previdenciário, e despesas orçamentárias associadas a programas de relevante interesse social e econômico’ (‘caput’ do art. 71 do ADCT).
+5. Nessa contextura, a mudança da destinação de parte dos recursos arrecadados não desnatura a finalidade das contribuições sociais em questão (PIS, Cofins e CSLL), que permanece sendo a de financiar a seguridade social, conforme estabelece o ‘caput’ do art. 195 do Magno Texto.”
+O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+Sendo assim, e considerando as razões expostas, conheço do presente recurso extraordinário, para negar-lhe provimento.
+Publique-se.
+Brasília, 26 de março de 2010.
+Ministro CELSO DE MELLO
+Relator
