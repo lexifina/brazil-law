@@ -1,0 +1,20 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região. Acórdão assim ementado (fls. 69):
+“ADMINISTRATIVO. MILITAR. PROMOÇÃO POR ANTIGUIDADE. INCAPACIDADE TEMPORÁRIA PARA O SERVIÇO. JUSTIFICAÇÃO MILITAR. AUSÊNCIA DE ILEGALIDADE.
+1. Recurso de apelação interposto em face da sentença que julgou improcedente pedido de promoção por ressarcimento de preterição ao posto de Tenente- -Coronel, e anulação do procedimento de Justificação Militar.
+2. Ausência de ilegalidade nos procedimentos, tanto de promoção, quanto de Justificação a que fora submetido o militar, que obedeceram aos princípios do contraditório e da ampla defesa.
+3. O autor, no decorrer de sua carreira, envolveu-se em diversos problemas disciplinares, tendo sido preso administrativamente em várias ocasiões.
+4. Ao que parece, o comportamento inadequado decorreria de patologia psiquiátrica de que padece, qual seja, ‘Transtorno de Personalidade Emocionalmente Instável do tipo Impulsivo (CID X F60.30)’, razão pela qual teria sido submetido ao Conselho de Justificação, que, posteriormente concluiu por sua inabilitação definitiva para a promoção na carreira, transferindo-o para a reserva.
+5. Recurso improvido.”
+2. Pois bem, a parte recorrente aponta violação aos incisos II, XXXVI e LIV do art. 5º e ao caput do art. 37, todos da Constituição Republicana. Sustenta que, “por um longo período, foi vítima de perseguição de seu ex-Comandante, contra o qual, frise-se, ofereceu representação, em virtude das severas e exacerbadas punições a si aplicadas” (fls. 88). Aduz que “foi submetido ao crivo do Conselho de Justificação, [...] instaurado sob o enfoque de que supostamente não reuniria condições de ser incluído em Quadro de Acesso, quando, em verdade, tais condições estavam presentes em dezembro de 2000, quando fora incluído no referido Quadro, somente não se efetivando por ato do seu então Comandante, que, sem qualquer motivação, o encaminhou à Junta Regular de Saúde da Base Naval do Rio de Janeiro em 17-11-00” (fls. 95).
+3. Tenho que a insurgência não merece acolhida. Isso porque, para se chegar à conclusão pretendida pela parte recorrente, se faz necessário o reexame do conjunto fático-probatório dos autos. Providência vedada pela Súmula 279 do Supremo Tribunal Federal.
+4. Leia-se, por esclarecedora, a seguinte passagem do aresto impugnado (fls. 66):
+“Como bem conclui a MM Juíza sentenciante, às fls. 500 de sua sentença, ‘há uma íntima relação de causalidade entre a transferência do Autor para a reserva remunerada e a doença psiquiátrica por ele apresentada, que provavelmente ensejou o cometimento das faltas disciplinares constantes de seus assentos funcionais.
+Não há qualquer evidência de que o Autor tenha sido vítima de qualquer tipo de perseguição por parte de seus oficiais superiores. A própria testemunha arrolada pelo Autor afirmou, à fls. 487, que o mesmo submeteu-se a tratamento psiquiátrico ‘em virtude de ter sofrido de síndrome de perseguição com relação aos seus anteriores superiores hierárquicos’. A prova documental é no sentido de que o Conselho de Justificação, ao qual submeteu-se o Autor, obedeceu a todas as formalidades legais. Por outro lado, uma vez constatada sua inabilitação para permanecer nas fileiras da Marinha, após regular processo administrativo, o Autor não tem direito adquirido a permanecer no SAM, tampouco a ser promovido por critério de antiguidade.’”
+5. De mais a mais, anoto que a alegada ofensa à garantia do devido processo legal apenas ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência do Supremo Tribunal Federal, de que são exemplos os AIs 517.643-AgR, da relatoria do ministro Celso de Mello; e 273.604-AgR, da relatoria do ministro Moreira Alves.
+6. À derradeira, é de incidir a Súmula 636 do STF.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 26 de março de 2010.
+Ministro AYRES BRITTO
+Relator
