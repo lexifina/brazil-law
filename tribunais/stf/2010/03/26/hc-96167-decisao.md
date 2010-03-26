@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado pelos advogados Fernando Tonissi e Maria Cláudia de Seixas em favor de Fernando Saran Solon, Nilce Saran Solon, Marcelo Saran Solon e Marcos Flávio Tenuto Rossi, buscando o trancamento da Ação Penal nº 2004.61.02.009947-8, em trâmite na 6º Vara Federal de Ribeirão Preto/SP.
+Apontam como autoridade coatora o Ministro Humberto Gomes de Barros, do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 110.489/SP, impetrado àquela Corte, com o mesmo objetivo perseguido nesta oportunidade.
+Inicialmente, argumentam os impetrantes, às folhas 5 a 7, que o caso concreto autoriza a mitigação da Súmula nº 691 desta Suprema Corte.
+No mais, alegam, em síntese, que os pacientes estão sendo investigados por suposta prática do crime previsto no artigo 334, do Código Penal (contrabando ou descaminho), fato este que constituiria constrangimento ilegal, tendo em vista que o inquérito policial fora instaurado antes da decisão no procedimento administrativo nº 10840.003182/2004-74, que determinou a perda das mercadorias em favor da União.
+Asseveram também que “os pacientes pagaram o tributo e, por esta razão, a suposta punibilidade merece ser extinta, tornando-se desnecessário o comparecimento perante a autoridade policial”, bem como, “segundo o artigo 34, da Lei 9.249/95, será extinta a punibilidade quando do pagamento integral do débito antes do recebimento da denúncia. Contudo, recentemente, nossos Tribunais têm se manifestado no sentido de que o pagamento do valor devido após o recebimento da denúncia, também é causa de extinção da punibilidade” (fl. 10 – grifos no original).
+Aduzem, ainda, não mais subsistirem as razões que levaram à aplicação da pena de perdimento dos bens, tendo em vista a existência de “autorização governamental para a importação das mercadorias, relacionadas no processo administrativo”, devendo ser aplicado a regra da retroatividade da lei tributária, prevista no artigo 106, inciso II, alínea “a”, do Código Tributário Nacional (fls. 11/12).
+Ao final, requerem seja deferida liminar para suspender “os autos nº 2004.61.02.009947-8, com trâmite perante a 6ª Vara Federal de Ribeirão Preto/SP, até que haja o julgamento definitivo do habeas corpus nº 2008.03.00.022577-8” e, no mérito, a confirmação da liminar ou, ainda, seja “concedida a ordem ex officio, para declarar a extinção da punibilidade, com fundamento no artigo 9º, § 2º, da Lei 10.684/03, por ter sido o débito pago integralmente, não restando mais objeto para o prosseguimento do feito” (fl. 13 – grifos no original).
+Indeferido o pedido de liminar, foram solicitadas informações à autoridade coatora (fls. 109 a 114). As informações foram prestadas às folhas 119 a 156.
+O Ministério Público Federal, em parecer da lavra da ilustre Subprocuradora-Geral da República, Dra. Cláudia Sampaio Marques, manifestou-se pelo não-conhecimento da impetração (fls. 160 a 162).
+Através da Petição/STF nº 1.840/10 (fls. 166 a 168), os impetrantes reiteram os argumentos expostos na inicial, no sentido de que os pacientes pagaram o tributo e, por essa razão, a suposta punibilidade merece ser extinta. Juntam comprovante de depósito judicial no valor do tributo (fl. 178).
+Diante desse quadro, determino seja oficiada à Delegacia da Receita Federal em Ribeirão Preto/SP para que forneça certidão ou documento que informe sobre o eventual pagamento do tributo apurado no processo Administrativo Fiscal nº 10840.003182/2004-74 (fl. 26).
+Oficie-se, ainda, à 6º Vara Federal de Ribeirão Preto/SP para que informe acerca do atual andamento da Ação Penal nº 2004.61.02.009947-8.
+Publique-se.
+Brasília, 26 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
