@@ -1,0 +1,19 @@
+DECISÃO
+Vistos.
+Instituto Nacional de Colonização e Reforma Agrária – Incra interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 149 e 195, inciso I, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Primeira Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“MANDADO DE SEGURANÇA. CONTRIBUIÇÃO AO INCRA.
+A contribuição adicional ao INCRA (0,2%), instituída pela lei nº 2.613/55 e mantida pelo Decreto-lei nº 1.146/76, restou extinta com o advento da Lei nº 8.212/91, consoante entendimento adotado pela 1ª Seção desta Corte, independentemente de se tratar de empresas urbanas ou rurais” (fl. 92).
+Decido.
+Preliminarmente, assinalo que o recorrente foi intimado do acórdão dos embargos de declaração em 23/05/06, conforme expresso na certidão da folha 121(verso), não sendo exigível a demonstração de existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação merece êxito, uma vez que o acórdão recorrido destoa da orientação firmada na jurisprudência deste Supremo Tribunal Federal acerca do tema. A propósito, destaco os seguintes julgados:
+"CONTRIBUIÇÃO AO FUNRURAL E AO INCRA: EMPRESAS URBANAS. O aresto impugnado não diverge da jurisprudência desta colenda Corte de que não há óbice à cobrança, de empresa urbana, da referida contribuição. Precedentes: AI 334.360-AgR, Rel. Min. Sepúlveda Pertence; RE 211.442-AgR, Rel. Min. Gilmar Mendes; e RE 418.059, Rel. Min. Sepúlveda Pertence. Agravo desprovido” (AI nº 548.733/DF-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJ 10/8/06).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO AO INCRA E AO FUNRURAL. EMPRESA URBANA. 1. O Supremo Tribunal Federal fixou entendimento no sentido de que a contribuição destinada ao INCRA e ao FUNRURAL é devida por empresa urbana, porque destina-se a cobrir os riscos aos quais está sujeita toda a coletividade de trabalhadores. Precedentes. 2. Agravo regimental a que se nega provimento” (AI nº 663.176/MG-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 14/11/07).
+“RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO SOCIAL DO EMPREGADOR. LIMITE DE VINTE VEZES O VALOR DO MAIOR SALÁRIO MÍNIMO. DL Nº 2.318/86. OFENSA AO ART. 165, XVI E PAR. ÚNICO, DA CF/69. INOCORRÊNCIA. A norma do art. 165, parágrafo único, da Constituição anterior tinha como objetivo evitar o déficit nas contas da Previdência Social, resultante da criação indiscriminada de benefícios, sem a correspondente fonte de custeio. Impertinente a interpretação no sentido de que a majoração de alíquotas de contribuições sociais só se mostra possível, quando houver instituição de novos benefícios ou aumento dos já existentes. Precedente: RE 231.538, DJ de 21/02/2003. Recurso extraordinário conhecido, mas improvido” (RE nº 202.294/SP, Segunda Turma, Relatora a  Ministra Ellen Gracie, DJ de 19/12/03).
+Ressalte-se, por fim, que o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do RE nº 578.635/RS, Relator o Ministro Menezes Direito, concluiu pela ausência da repercussão geral desta matéria, em acórdão assim ementado:
+“DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL DESTINADA AO INCRA. EXIGIBILIDADE DAS EMPRESAS URBANAS. AUSÊNCIA DE REPERCUSSÃO GERAL” (DJe de 17/10/08).
+Ante o exposto, nos termos do artigo 544, § 3º, do Código de Processo Civil, conheço o agravo e dou provimento ao recurso extraordinário para, confirmando a legitimidade da contribuição de 0,2% ao INCRA, na linha dos precedentes citados, denegar a segurança. Custas ex lege. Sem honorários, nos termos da Súmula 512/STF.
+Publique-se.
+Brasília, 29 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
