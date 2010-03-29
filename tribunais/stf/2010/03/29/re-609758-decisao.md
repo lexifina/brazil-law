@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) que tem como violado o art. 37, II, da Constituição federal.
+Cinge-se a controvérsia ao direito de servidora celetista do Tribunal de Contas do Município ao reenquadramento no cargo de assessora jurídica a partir de 24.07.1984, em virtude do desvio de função.
+O Tribunal Superior do Trabalho manteve decisão que julgou parcialmente procedente a reclamação trabalhista sob o fundamento de não foram atendidos os pressupostos recursais de admissibilidade.
+Sustenta-se no recurso extraordinário, preliminarmente, o cabimento do recurso de revista por violação da norma constitucional e, no mérito, a impossibilidade de reenquadramento, porque não foi atendido o requisito constitucional do concurso público.
+É o breve relatório. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Por outro lado, a retroação da norma constitucional (art. 37, II) é inviável, conforme o seguinte precedente (AI 248.696-AgR, rel. min. Moreira Alves, DJ de 17.12.1999):
+“EMENTA: Agravo regimental.
+- Não tem razão a agravante. Com efeito, como salientado no despacho agravado, tendo sido reconhecida a relação de emprego como existente antes do advento da Constituição de 1988, quando a Carta Magna anterior não exigia concurso público para o ingresso em emprego público, como ocorre no caso, inexiste ofensa ao artigo 37, II, da atual Constituição, porquanto a aplicação imediata do texto constitucional só tem força retroativa mínima, não alcançando, para desconstituí-los, fatos constituídos no passado ainda que reconhecidos no presente (retroatividade máxima), salvo se a Carta Magna expressamente o declare, o que, na espécie, não ocorre, pois mesmo o artigo 19 do ADCT não se refere aos empregos nas sociedades de economia mista e nas empresas públicas. Daí, aplicar-se o princípio a que alude ROUBIER ("Les Conflits des Lois dans le Temps", II, nº 122, p. 471, Recueil Sirey, Paris, 1993) ao observar: "se, por exemplo, uma lei muda as condições do recrutamento de certas funções públicas, essa lei não terá efeito em face dos funcionários já nomeados, mas terá efeito imediato para as nomeações ulteriores".
+Agravo a que se nega provimento.”
+Nesse sentido, RE 215.626-AgR (rel. min. Ellen Gracie, DJ de 02.08.2002), AI 261.873-AgR (rel. min. Sepúlveda Pertence, DJ 31.10.2001), AI 237.750 (rel. min. Moreira Alves, DJ de 04.05.1999), RE 222.058-AgR (rel. min. Sepúlveda Pertence, DJ de 04.06.1999).
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 29 de março de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
