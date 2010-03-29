@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição Federal), que tem como violados os arts. 37 e 150, IV, e § 7º, da Carta Magna, além da alegação de direito líquido e certo à concessão de mandado de segurança.
+Esta Corte já firmou o entendimento de que a análise dos requisitos para concessão ou denegação do mandado de segurança cinge-se à norma processual que disciplina o exercício da ação constitucional - no caso, a Lei 1.533/1951 -, hipótese em que não se admite o recurso extraordinário. Nesse sentido: AI 573.652-AgR, rel. min. Cármen Lúcia, DJ de 20.04.2007; AI 629.562-AgR, rel. min. Sepúlveda Pertence, DJ de 25.05.2007; AI 565.661-AgR, rel. min. Carlos Britto, DJ de 10.08.2006; AI 489.109-AgR, rel. min. Ellen Gracie, DJ de 20.04.2006.
+Ademais, não é possível avançar na análise da violação dos arts. 37 e 150, IV, e § 7º, da Constituição, porque o acórdão recorrido, como se vê às fls. 23/30 dos autos, entendeu pelo incabimento do mandado de segurança, em razão da necessidade de dilação probatória e de ser aplicável a Súmula 271 do STF, ao passo que, no recurso extraordinário (fls. 34-81), ao conter alegação de afronta aos arts. 37 e 150, IV, e § 7º, da Carta Magna, tratou da questão jurídica de fundo discutida no mandado de segurança, matéria não utilizada pelo acórdão como razão de decidir.
+Não há, portanto, pertinência entre a fundamentação do recurso extraordinário relativa à violação dos arts. 37 e 150, IV, e § 7º, da Constituição, e o decidido no acórdão por ele atacado, podendo-se invocar a Súmula 284 desta Corte.
+Do exposto, com base no art. 557, caput, do Código de Processo Civil, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 29 de março de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
