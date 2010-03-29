@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual reconheceu o direito da irmã do ex-segurado ao restabelecimento da pensão por morte, nos termos do art. 7º, IV, e 8º da Lei 9.380/86, sob o fundamento de que foi comprovada sua invalidez para o exercício de atividade remunerada (fls. 30-41 e 50-59).
+2.  O Tribunal de origem assentou que não houve prequestionamento da matéria constitucional e que a controvérsia cingiu-se à aplicação da legislação local (fls. 73-74).
+3.  O agravante sustenta que a decisão agravada “simboliza cerceamento de ampla defesa e de acesso às instâncias recursais”. A continuidade da pensão temporária que cessou quando a autora completou 21 anos ofende os arts. 5º, II, e 37, caput, da Carta Magna.
+4.  O presente agravo não merece prosperar. Inicialmente, este Tribunal entende que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da ampla defesa e do contraditório, se existentes, seriam meramente reflexas ou indiretas, cujo exame se mostra inviável nesta sede recursal. Nesse sentido, o AI 372.358-AgR, rel. Min. Celso de Mello, 2ª Turma, DJ 28.06.2002.
+5.  Quanto à questão de fundo, verifica-se que as normas constitucionais alegadas como violadas não se encontram prequestionadas, porque não abordadas pelo acórdão recorrido nem pelos embargos de declaração a ele opostos, não sendo satisfeito, assim, o requisito do prequestionamento (Súmula STF 282).
+É pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142- AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.09.2001; e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+6.  Mesmo que superado o óbice, rever a decisão que constatou a incapacidade laborativa da autora, para concluir de modo diverso, implicaria, além do revolvimento dos fatos e das provas dos autos, o reexame da legislação local, o que é vedado em sede extraordinária (Súmulas STF 279 e 280). Assim, eventual ofensa à Constituição Federal seria indireta e reflexa.
+7.  Ademais, para o exame da alegada violação aos arts. 5º, II, e 37, caput, da Constituição Federal, seria necessária a análise de legislação infraconstitucional local (Lei 9.380/86), hipótese inviável nesta instância recursal, dada a incidência da Súmula STF 636.
+8.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+Brasília, 29 de março de 2010.
+Ministra Ellen Gracie
+Relatora
