@@ -1,0 +1,19 @@
+DECISÃO
+Vistos.
+Serviço Autônomo de Água e Esgoto - SAAE interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos XXXV, LIV e LV, e 37, § 6º, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Sétima Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“Administrativo. Responsabilidade Civil. Autarquia Municipal. Malgrado a responsabilidade da prestadora de serviço público seja objetiva, independendo da comprovação de culpa, ainda que se adotasse, in casu, a teoria da responsabilidade subjetiva, manter-se-ia a indenização, tendo em vista a conduta omissivo-culposa da autarquia municipal responsável pelo serviço de abastecimento de água de Almorés, no que tange à fiscalização dos reservatórios de água que abastecem os munícipes, porquanto encontrado em um deles, um cadáver humano. Recurso Desprovido” (fl. 67).
+Opostos embargos de declaração (fls. 77 a 83), foram rejeitados (fls. 86 a 90).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 21/07/06, conforme expresso na certidão de folha 90, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, uma vez que para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem acerca da responsabilidade subjetiva da agravante seria necessário o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+“CONSTITUCIONAL. PROCESSUAL CIVIL. REEXAME DE PROVA. SÚMULA 279 DO STF. MATÉRIA QUE DEMANDA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I - Matéria demanda o reexame de conjunto fático-probatório, o que atrai a incidência da Súmula 279 do STF. II - O regime da responsabilidade subjetiva é de ordem infraconstitucional e como tal deve ser resolvido à luz da legislação ordinária. III - Agravo regimental improvido” (AI nº 653.338/MS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 9/11/07).
+“1. Alegada ofensa ao artigo 37, § 6º, da Constituição (responsabilidade civil objetiva do Estado), que demanda o revolvimento de fatos e provas da causa (Súmula STF nº 279), hipótese inviável em sede extraordinária. 2. Agravo regimental improvido” (RE nº 587.219/RJ-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 7/8/09).
+“RESPONSABILIDADE CIVIL. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I - A apreciação do recurso extraordinário, no que concerne à alegada ofensa ao art. 37, § 6°, da Constituição, encontra óbice na Súmula 279 do STF. Precedentes do STF. II - Agravo regimental improvido” (AI nº 427.396/SC-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 21/11/08).
+Ademais, não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Anote-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então agravante, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 29 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
