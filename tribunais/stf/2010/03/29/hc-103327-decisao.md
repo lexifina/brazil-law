@@ -1,0 +1,25 @@
+DECISÃO
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado pelo advogado Eduardo Rodrigues em favor de Fábio da Silva Franco, buscando a liberdade provisória do paciente.
+Aponta como autoridade coatora o Ministro Cesar Asfor Rocha, Presidente do Superior Tribunal de Justiça, que, no período de férias forenses, indeferiu a liminar no HC nº 158.862/SP, impetrado àquela Corte.
+Sustenta o impetrante, basicamente, o constrangimento ilegal imposto ao paciente, tendo em vista a ausência de fundamentação idônea da decisão que indeferiu sua liberdade provisória (fls. 10 a 14).
+Requer, liminarmente, a concessão de liberdade provisória ao paciente e, no mérito, pede a confirmação da liminar requerida (fl. 14).
+Examinados os autos, decido.
+O writ não deve ser conhecido.
+É que a Secretaria desta Suprema Corte informou a existência de outro habeas corpus impetrado em favor do ora paciente (fl. 38). Trata-se do HC nº 102.893/SP, Relatora a Ministra Ellen Gracie, que indeferiu liminarmente a inicial do writ nos termos seguintes:
+“Trata-se de habeas corpus com pedido de medida liminar impetrado contra decisão do Presidente do Superior Tribunal de Justiça, que indeferiu a liminar no HC 158.862/SP, aforado anteriormente naquela Corte.
+Conforme se extrai dos autos, o paciente foi preso em flagrante delito pela suposta infração ao art. 33, caput, c/c art. 40, inciso III (infração cometida nas proximidades de entidade social e cultural), ambos da Lei 11.343/06.
+O juiz do feito negou a liberdade provisória requerida pela defesa do paciente. Diante da negativa do magistrado de primeiro grau, foi impetrado habeas corpus ao Tribunal de Justiça do Estado de São Paulo, que, por sua vez, indeferiu a liminar. O indeferimento da liminar pela Corte Estadual levou à impetração de novo writ no Superior Tribunal de Justiça.
+Neste writ, o impetrante alega, em síntese, ausência de fundamentação para o recolhimento provisório do paciente e inconstitucionalidade da vedação em abstrato da liberdade provisória estabelecida pelo art. 44 da Lei 11.343/06. Pugna pelo abrandamento da Súmula 691/STF na espécie a fim de que seja conhecido o presente habeas corpus.
+Assim, requer a concessão liminar do presente habeas corpus para que seja cassado o decreto prisional, com a expedição do competente alvará de soltura em favor do paciente.
+2.  A decisão impugnada pelo presente habeas corpus, da lavra do Ministro Cesar Asfor Rocha (fls. 22-24), encampou orientação jurisprudencial pacificada no âmbito do STJ no sentido do não-cabimento do writ contra indeferimento de pedido liminar em outro habeas corpus, salvo nos casos de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata, sob pena de supressão de instância.
+3.  Vale frisar, portanto, que o rigor na aplicação da Súmula 691/STF – segundo a qual ‘Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar’ – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de dupla supressão de instância.
+4.  Ademais, nos termos dos arts. 5º, XLIII, da Constituição Federal, e 44, caput, da Lei 11.343/06, o crime de tráfico ilícito de drogas não admite a concessão de liberdade provisória (HC 93.302, rel. Min. Cármen Lúcia, DJ 17.12.2007; HC 92.723, rel. Min. Ricardo Lewandowski, DJ 18.10.2007; HC 91.303, rel. Min. Sepúlveda Pertence, DJ 22.05.2007; e HC 89.089, rel. Min. Carlos Britto, DJ 01.06.2007).
+5. Ante o exposto, indefiro liminarmente o presente writ” (DJe de 15/3/10).
+Com efeito, verifica-se que a presente impetração apresenta o mesmo objetivo do HC nº 102.893/SP, o que caracteriza mera reiteração. Tal circunstância conduz, inevitavelmente, ao não conhecimento do writ. Nesse sentido as seguintes decisões monocráticas: HC nº 102.170/SP, de minha relatoria, DJe de 12/2/10; HC nº 97.731/SP, Relator o Ministro Ricardo Lewandowski, DJe de 10/2/09; HC nº 96.776/BA, Relator o Ministro Menezes Direito, DJe de 21/11/08; HC nº 83.131/SP-MC, Relator o Ministro Celso de Mello, DJ de 15/8/03; e HC nº 80.636/MG, Relator o Ministro Nelson Jobim, DJ de 5/9/01, entre outras.
+Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus e determino o arquivamento dos autos, ficando, por consequência, prejudicado o pedido de liminar.
+Publique-se.
+Brasília, 29 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
