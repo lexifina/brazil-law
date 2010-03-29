@@ -1,0 +1,12 @@
+DECISÃO: trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que, interpretando a legislação local, anulou processo administrativo que apurou suposta fraude praticada por consumidor de energia elétrica com fundamento de não ter sido observada as garantias inerentes ao processo administrativo, além da não comprovação de perícia realizada no medidor de energia como exige a Resolução n. 456 da ANEEL.
+2.  Alega-se, no extraordinário, ofensa ao disposto no artigo, 37, caput, da Constituição do Brasil. Assevera que “como concessionária de serviço público, se aplicam os princípios da administração pública, dentre eles, o da presunção da veracidade de seus atos” [fl. 41], assim, ao seu entendimento, cabia ao consumidor do serviço de energia elétrica comprovar que não cometeu a suposta fraude.
+3.  O recurso não merece provimento. O acórdão recorrido não apreciou a controvérsia à luz do preceito constitucional que a recorrente indica como violado. Além disso, os embargos de declaração são ineficazes para ventilar matéria não argüida oportunamente. Aqui incidem as Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+4.  O prequestionamento, no entendimento pacificado deste Tribunal, deve ser explícito [AI n. 215.724-AgR, Relator o Ministro Sydney Sanches, 1ª Turma, DJ de 15.10.99; e RE n. 192.031-AgR, Relator o Ministro Néri da Silveira, 2ª Turma, DJ de 4.6.99].
+5.  Ademais, a controvérsia está restrita ao âmbito da interpretação da legislação local --- Lei estadual n. 9.784/99 e Resolução n. 456 da ANEEL. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido: o RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; o AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; o AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+6.  Por fim, não cabe recurso extraordinário por ofensa ao princípio da legalidade quando necessária a revisão da interpretação conferida a textos normativos infraconstitucionais [Súmula n. 636/STF].
+ Nego seguimento ao agravo com fundamento no art. 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 29 de março de 2010.
+Ministro Eros Grau
+- Relator -
+1
