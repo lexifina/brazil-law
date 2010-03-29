@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - SERVIDOR – PODER EXECUTIVO – REAJUSTE DE 11,98% - CONVERSÃO DA URV – IMPOSSIBILIDADE – AGRAVO DESPROVIDO.
+1.  O Tribunal de Justiça do Estado de Minas Gerais confirmou o entendimento constante na sentença, ante fundamentos assim sintetizados (folha 148):
+ADMINISTRATIVO – SERVIDOR PÚBLICO DO PODER EXECUTIVO – CONVERSÃO DOS SALÁRIOS – URV – CERCEAMENTO DE DEFESA NÃO CARACTERIZADO – AUSÊNCIA DE PROVA DA PERDA SALARIAL. Tratando-se de questão de direito, ou, se de direito ou de fato, entender o Juiz estar o processo suficientemente instruído, possibilitando a decisão, sem que se realizem as provas requeridas, fica a seu critério deferir ou não a produção de outras, dispensando as que entender meramente protelatórias. Segundo entendimento já pacificado pelo Supremo Tribunal Federal e Superior Tribunal de Justiça, os servidores do Poder Executivo não têm direito à diferença de correção de vencimentos em decorrência da aplicação da URV.
+2.  De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+3.  No mais, aos servidores do Poder Executivo, ante o fato de a eles não se estender o regramento do artigo 168 da Constituição Federal, não é devido o reajuste de 11,98%, reconhecido aos integrantes do quadro de pessoal dos Poderes Legislativo e Judiciário e do Ministério Público, em decorrência de erro verificado quando da conversão, em URV, da respectiva remuneração. Assim concluíram ambas as Turmas do Tribunal:
+RECURSO. Extraordinário. Admissibilidade. Servidor Público do Poder Executivo. Vencimentos. Reajustes. 11,98%. Conversão em URV. Art. 168 da CF. Impossibilidade. Agravo regimental provido. Extraordinário conhecido e provido. Ação julgada improcedente. A recomposição de 11,98% na remuneração dos servidores, por erro no critério de conversão da URV, não se aplica aos do Poder Executivo.
+(Agravo Regimental no Agravo de Instrumento nº 394.077-4/RJ, relator ministro Cezar Peluso, Primeira Turma, acórdão publicado no Diário da Justiça de 4 de março de 2005).
+Agravo regimental em agravo de instrumento. 2. Servidor público. Reposição salarial de 11,98%. Lei no 8.880/94. Conversão em URV. 3. Servidor Público do Executivo. Inaplicabilidade dos critérios de correção. Inovação da discussão no recurso. Impossibilidade. Precedentes. 4. Limitação temporal. ADI 1.797. Entendimento superado 5. Agravo regimental a que se nega provimento.
+(Agravo Regimental no Agravo de Instrumento nº 657.701-1/RN, relator ministro Gilmar Mendes, Segunda Turma, acórdão publicado no Diário da Justiça de 28 de março de 2008).
+ Estando a decisão proferida pela Corte de origem em harmonia com os precedentes, descabe assentar a ofensa a texto constitucional.
+4.  Conheço do agravo e o desprovejo.
+5.  Publiquem.
+Brasília, 29 de março de 2010.
+Ministro MARCO AURÉLIO
+Relator
