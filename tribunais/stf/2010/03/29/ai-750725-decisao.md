@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) que tem como violados os arts. 5º, caput, 7º, caput, 8º, III, 93, IX, 114, § 2º, e 170, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 242):
+
+“PRELIMINAR DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. I - A preliminar suscitada pelos recorrentes foi invocada ao lacônico argumento de ausência de manifestação sobre a matéria devolvida à apreciação do TRT ter sido corretamente apontada em sede de embargos de declaração. II – Recurso não conhecido. ISONOMIA SALARIAL ENTRE INATIVOS E EMPREGADOS EM ATIVIDADE. MUDANÇA DE NÍVEL. ACORDO COLETIVO 2004/2005. I - Consoante fixado pela decisão recorrida, foi concedido, por acordo coletivo, aos empregados da ativa o aumento de nível salarial em 5%. Tal vantagem não foi estendida aos empregados inativos. II - Assim, não encontra respaldo nos autos a extensão aos pensionistas do valor equivalente a um nível salarial concedido pela reclamada aos seus empregados da ativa, previsto no acordo coletivo de 2004/2005, visto que se trata de progressão salarial, conforme firmado em acordo coletivo, e não de reajuste salarial, como pretendem os recorrentes, pelo que não é extensível aos pensionistas. III - Os acordos coletivos são firmados conforme vontade das partes, fazendo lei entre elas, que demonstraram concordância com o ali consignado. Impõe-se prestigiar e valorizar a negociação coletiva assentada na boa-fé, como forma de incentivo à concessão de novas condições de trabalho e de salário, cujos termos devem ser fielmente observados no caso de não se contraporem a preceitos constitucionais ou normas de ordem pública, sob pena de desestímulo à aplicação dos instrumentos convencionais, hoje alçados a nível constitucional (art. 7º, XXVI, da Constituição Federal). IV – Recurso desprovido.”
+
+Sustenta-se no recurso extraordinário que o Tribunal Superior do Trabalho ofendeu diversos princípios constitucionais, na medida em que teria sonegado prestação jurisdicional.
+É o breve relato. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Ademais, a garantia constitucional de reconhecimento e proteção dos acordos e convenções coletivas de trabalho não afasta a possibilidade de sua revisão, que no caso em exame se fez à luz da legislação infraconstitucional, evidenciando tratar-se de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+Inclusive, observo que a aferição de eventual afronta à Constituição implicaria necessário reexame da cláusula da norma coletiva. Incide, na espécie, o óbice das Súmulas 279 e 454, deste Tribunal.
+Nesse sentido: RE 239.619 (rel. min. Cezar Peluso, DJ de 15.05.2006), AI 617.006-AgR (rel. min. Sepúlveda Pertence, DJ de 23.03.2007), AI 657.176-AgR (rel. min. Sepúlveda Pertence, DJ de 31.08.2007), AI 750.752 (rel. min. Cármen Lúcia, DJe de 27.05.2009) e AI 656.720 (rel. min. Cármen Lúcia, DJe de 22.11.2007).
+Por fim, inexiste a alegada ofensa ao art. 93, IX, da Constituição, porquanto o acórdão recorrido está devidamente fundamentado, ainda que com sua fundamentação não concordem os agravantes.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+
+Brasília, 29 de março de 2010.
+
+Ministro JOAQUIM BARBOSA
+Relator
+1
