@@ -1,0 +1,11 @@
+DECISÃO: A parte ora agravante, ao deduzir o recurso extraordinário a que se refere o presente agravo de instrumento, invocou, como fundamento do apelo extremo, a ocorrência de ofensa aos princípios constitucionais inscritos no art. 5º, incisos V e LV, e no art. 93, IX.
+Cabe referir, desde logo, que os temas concernentes às alegadas transgressões aos preceitos inscritos no art. 5º, LV, e no art. 93, IX, da Constituição não se acham devidamente prequestionados.
+E, como se sabe, ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368, Rel. Min. MOREIRA ALVES - RTJ 131/1391, Rel. Min. CELSO DE MELLO – RTJ 144/300, Rel. Min. MARCO AURÉLIO - RTJ 153/989, Rel. Min. CELSO DE MELLO), incidem as Súmulas 282 e 356 desta Corte.
+Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+A configuração jurídica do prequestionamento - que traduz elemento indispensável ao conhecimento do recurso extraordinário - decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida (RTJ 98/754 - RTJ 116/451). Sem o cumulativo atendimento desses pressupostos, além de outros igualmente imprescindíveis, não se viabiliza o acesso à via recursal extraordinária, consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (RTJ 159/977).
+De outro lado, no tocante à alegada violação ao art. 5º, V, da Constituição Federal, cabe assinalar que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+Sendo assim, e pelas razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+Publique-se.
+Brasília, 29 de março de 2010.
+Ministro CELSO DE MELLO
+Relator
