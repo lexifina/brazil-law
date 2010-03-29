@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) que tem como violados os arts. 5º, XXXV, LIV e LV, 7º, XXIX, e 93, IX, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 102):
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. NULIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. JUSTIÇA DO TRABALHO. PRELIMINAR DE INCOMPETÊNCIA. PRESCRIÇÃO TOTAL. APOSENTADORIA. COMPLEMENTAÇÃO. FONTE DE CUSTEIO. Não há como assegurar trânsito à revista, se o agravo de instrumento manejado não desconstitui os fundamentos do despacho denegatório da admissibilidade do recurso.
+Agravo de instrumento conhecido e não-provido.”
+Sustenta-se no recurso extraordinário que o Tribunal a quo sonegou prestação jurisdicional e que o processo deveria ser extinto em razão da prescrição total das diferenças dos proventos de aposentadoria.
+É o breve relatório. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Ademais, o art. 7º, XXIX, da Constituição, aponta tão somente o prazo prescricional. Inexiste no texto constitucional regramento acerca da espécie de prescrição, se total ou parcial, de modo que se trata de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 569.103-AgR, rel. min. Carlos Britto, DJ de 10.08.2006; AI 559.476-AgR, rel. min. Carlos Britto, DJ de 08.09.2006; AI 520.706-AgR, rel. min. Ellen Gracie, DJ de 03.02.2006; RE 573.016, rel. min. Gilmar Mendes, DJ de 11.02.2008.
+Por fim, não procede a alegação de afronta aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 29 de março de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
