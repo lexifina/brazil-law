@@ -1,0 +1,9 @@
+DECISÃO: O presente agravo de instrumento insurge-se contra decisão que determinou, em face do que dispõe o art. 542, § 3º, do Código de Processo Civil, na redação dada pela Lei nº 9.756/98, a retenção, nos autos, do recurso extraordinário interposto pela parte ora agravante (fls. 185).
+Cumpre ressaltar, desde logo, que, conforme se depreende do próprio despacho agravado, inexiste, na espécie, juízo negativo de admissibilidade do recurso extraordinário em questão, o que desautoriza, no caso em exame, o cabimento do agravo de instrumento previsto no art. 544, “caput”, do CPC.
+Não se pode perder de perspectiva, neste ponto, que o tema veiculável no âmbito do agravo de instrumento concerne, especificamente, à análise dos fundamentos - efetivamente deduzidos ou potencialmente invocáveis - em que se apóia eventual juízo negativo de admissibilidade que haja incidido sobre o recurso extraordinário interposto pela parte agravante, tanto que a esta se impõe o dever de questionar, em sede de agravo, não o conteúdo do acórdão impugnado pela via do apelo extremo, mas, exclusivamente, as razões impeditivas do trânsito e do processamento dessa modalidade de impugnação excepcional (RTJ 126/864, Rel. Min. FRANCISCO REZEK – RTJ 133/485, Rel. Min. CÉLIO BORJA).
+Note-se, pois, que o agravo de instrumento – tal como resulta da norma inscrita no art. 544, “caput”, do CPC - é cabível, tão-somente, na hipótese de recusa de processamento do recurso extraordinário, o que necessariamente supõe, como requisito específico de sua interposição, a formulação de juízo negativo de admissibilidade pertinente ao apelo extremo, situação de todo inexistente na espécie ora em exame.
+Sendo assim, e pelas razões expostas, não conheço do presente agravo de instrumento, por incabível.
+Publique-se.
+Brasília, 29 de março de 2010.
+Ministro CELSO DE MELLO
+Relator
