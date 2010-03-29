@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição do Brasil, contra acórdão prolatado pelo Tribunal Superior do Trabalho.
+2.  Alega-se, no recurso extraordinário, ofensa ao disposto no artigo 5º, XXXVI, da Constituição do Brasil.
+3.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [artigo 102, III, § 3º, da CB/88].
+4.  O agravo não merece provimento. O fundamento do acórdão não alcançou nível constitucional. A controvérsia foi decidida no plano da legislação infraconstitucional pertinente. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário [AI n. 204.153-AgR, DJ de 30.6.00, e AI n. 231.836-AgR, DJ de 3.9.99].
+5.  A jurisprudência deste Tribunal fixou-se no sentido de que a verificação, em cada caso concreto, da ocorrência, ou não, de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada situa-se no campo infraconstitucional [AI n. 135.632-AgR, Relator o Ministro Celso de Mello, DJ de 3.9.99, AI n. 551.002-AgR, Relator o Ministro Carlos Velloso, DJ de 16.12.05].
+6.  O Supremo Tribunal Federal, ao analisar caso análogo, o RE n. 550.503-AgR, Relator o Ministro Cezar Peluso, DJ de 1º.2.08, fixou o seguinte entendimento:
+“EMENTA: 1. RECURSO. Extraordinário. Inadmissibilidade. Programa de demissão voluntária. Quitação de verbas trabalhistas. Matéria infraconstitucional. Jurisprudência assentada. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte. 2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar a agravante a pagar multa ao agravado.”
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 29 de março de 2010.
+Ministro Eros Grau
+- Relator -
