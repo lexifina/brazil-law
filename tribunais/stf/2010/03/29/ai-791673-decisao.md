@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, XXXV, LIV e LV, 37, 97, e 105, III, da mesma Carta.
+O agravo não merece acolhida. A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+Além disso, quanto ao art. 97 da Constituição, verifico que não há violação ao princípio da reserva de plenário porque o acórdão recorrido não afastou a aplicação da Lei 8.212/1991. É dizer, o Tribunal a quo limitou-se a examinar a lei infraconstitucional aplicável à espécie (Lei 8.212/1991), para concluir que não é cabível a devolução de valores recebidos pelo segurado em decorrência de decisão judicial transitada em julgado, considerando a natureza alimentar dos benefícios previdenciários, e ainda, pelos valores terem sido recebidos com boa-fé. A discussão, portanto, restringe-se ao âmbito da legislação infraconstitucional, a cujo exame não se presta o recurso extraordinário.
+Além disso, este Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva o reexame de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Por fim, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 29 de março de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
