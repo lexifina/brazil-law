@@ -1,0 +1,9 @@
+DECISÃO: O Tribunal a quo decidiu que na apuração da renda mensal inicial do benefício previdenciário --- concedido antes da promulgação da Constituição de 1988 --- deve ser considerado o salário-mínimo vigente na data do acidente e não aquele vigente no mês da concessão do benefício.
+2.  Deixo de apreciar a existência da repercussão geral, vez que o artigo 323, § 1º, do RISTF dispõe que "[t]al procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+3.  Este Tribunal fixou entendimento no sentido de que somente os benefícios de prestação continuada --- mantidos pela Previdência Social na data da promulgação da Constituição do Brasil --- são suscetíveis de sofrer a revisão de seus valores de acordo com os critérios estabelecidos no artigo 58 do ADCT. A incidência deste preceito é temporalmente delimitada, não se projetando sobre situações de caráter previdenciário constituídas após 5 de outubro de 1988. Nesse sentido: os RREE ns. 168.801, Relator o Ministro Celso de Mello, DJ de 18.8.95; 155.540, Relator o Ministro Octavio Galloti, DJ de 9.2.96; e 167.360, Relator o Ministro Ilmar Galvão, DJ de 19.4.96.
+4.  Aquele preceito constitucional prevê que os aludidos benefícios “terão seus valores revistos, a fim de que seja restabelecido o poder aquisitivo, expresso em número de salários-mínimos, que tinham na data de sua concessão, obedecendo-se esse critério de atualização até a implantação do plano de custeio e benefícios referidos no artigo seguinte”.
+ Dou provimento ao recurso com fundamento no disposto no artigo 557, § 1º-A, do CPC. Invertidos os ônus da sucumbência, ressalvada a hipótese de assistência judiciária gratuita.
+ Publique-se.
+ Brasília, 29 de março de 2010.
+Ministro Eros Grau
+- Relator -
