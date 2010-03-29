@@ -1,0 +1,16 @@
+DECISÃO:  Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto contra decisão do Tribunal Regional Federal da 2ª Região que considerou legal o licenciamento de cabos da Aeronáutica do serviço ativo, após nove anos de exercício.
+Eis a ementa da decisão recorrida:
+“ADMINISTRATIVO – LICENCIAMENTO DE CABO DA AERONÁUTICA DO SERVIÇO ATIVO APÓS MAIS DE NOVE ANOS DE ATIVIDADE – ISONOMIA COM O EFETIVO FEMININO – INOCORRÊNCIA.
+São inaplicáveis aos militares as garantias do inciso XXX, art. 7º, da Constituição Federal, segundo já se orientou o e. Superior Tribunal de Justiça, e, além disso, a isonomia somente pode ser deferida quando houver identidade de condições funcionais.” (Fls. 297)
+No recurso extraordinário, tem-se por violado o disposto nos art. 5o, caput e 37, caput, da Constituição. Alega que os cabos são militares de carreira e não temporários como definido pela decisão recorrida. Afirma, também, que houve quebra do princípio da isonomia, seja pela falta de critério na avaliação dos militares, para fins de concessão de estabilidade, seja porque houve diferenciação no tratamento empregado aos cabos do quadro masculino e aqueles do quadro feminino. Sustenta, por fim, a nulidade do ato administrativo (por ofensa aos princípios da legalidade, impessoalidade, moralidade e publicidade).
+Sem razão o recorrente.
+A análise das alegadas ofensas demandaria o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional bem como implicaria reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida.
+Nesse sentido o RE 549.824, rel. min. Cezar Peluso, DJe de 08.03.2010; RMS 21.614, rel. min. Ilmar Galvão, DJ de 16.04.1993; RMS 21.461, rel. min. Maurício Corrêa, DJ de 26.04.1996; RE 484.835-AgR, rel. min. Marco Aurélio, DJ de 18.12.2009 e RE 211.838-AgR, rel. min. Maurício Corrêa, DJ de 27.02.1998.
+Além disso, a jurisprudência desta Corte é no sentido de que não há ofensa ao princípio da isonomia em se dar tratamento distinto a militares do corpo feminino e do corpo masculino, quando a distinção repousa na natureza das atribuições. Nesse sentido, a decisão proferida no AI 440.905-ED (rel. min. Gilmar Mendes, Segunda Turma, DJ de 30.11.2007), assim ementada:
+“EMENTA: Embargos de declaração em agravo de instrumento. 2. Decisão monocrática do relator. Embargos de declaração recebidos como agravo regimental. 3. Desacerto da decisão não demonstrado. 4. Militar. Quadro masculino. Estabilidade. Isonomia com o corpo feminino. 5. Discriminação com base na natureza das atribuições e funções exercidas em razão do sexo. Ofensa ao princípio da isonomia. Inocorrência. Precedentes. 6. Agravo regimental a que se nega provimento”.
+Por fim, as questões constitucionais debatidas no recurso extraordinário quanto à ofensa aos princípios da legalidade, impessoalidade, moralidade e publicidade, não foram ventiladas no acórdão recorrido nem foram objeto de embargos de declaração. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 29 de março de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
