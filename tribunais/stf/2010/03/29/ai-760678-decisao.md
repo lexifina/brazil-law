@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul cuja ementa tem o seguinte teor (fls. 55):
+“APELAÇÃO CÍVEL E AGRAVO RETIDO. EMBARGOS À EXECUÇÃO. CERTIDÃO DE DECISÃO DO TCE. TÍTULO EXECUTIVO EXTRAJUDICIAL. POSSIBILIDADE DE EXECUÇÃO DA PRÓPRIA CERTIDÃO DE DECISÃO DO TCE PELO RITO COMUM DO CPC. EXTRAÇÃO DE CDA QUE SÓ SE FAZ NECESSÁRIA PARA O CASO DE EXECUÇÃO PELO RITO DA LEF. PROVA. AMPLA POSSIBILIDADE DE SUA PRODUÇÃO PARA O EXAME DOS REQUISITOS FORMAIS E MATERIAIS DO TÍTULO. JULGAMENTO DA LIDE SEM OPORTUNIZAR A REALIZAÇÃO DAS PROVAS REQUERIDAS. CERCEAMENTO DE DEFESA CARACTERIZADO.
+As decisões do Tribunal de Contas têm eficácia de título executivo extrajudicial, aptos e embasar execução, sendo prescindível sejam validadas pela Câmara de Vereadores. Inteligência do art. 71, § 3º, da C.F. Por outro lado, prescindível, ainda, a extração de CDA para o ajuizamento da execução, podendo o Município valer-se diretamente da Certidão de Decisão da Corte de Contas para o ajuizamento da execução comum, pelo rito do CPC. A extração de CDA só se faz necessária para o caso do Município quer valer-se do rito especial da execução fiscal previsto na LEF. Contudo, em quaisquer das hipóteses, tem o executado o direito à produção da mais ampla prova. Na espécie, resta caracterizado o cerceamento de defesa, pelo julgamento antecipado da lide, sem oportunizar a realização das provas pericial e testemunhal, tempestivamente requeridas, e essenciais ao esclarecimento da verdade. Agravo retido provido para desconstituir a sentença e reabrir a instrução processual, com a realização das provas necessárias à solução da quaestio.
+AGRAVO RETIDO PROVIDO, PREJUDICADO O EXAME DA APELAÇÃO.”
+O agravante alega ofensa aos arts. 71, § 3º e 75 da Constituição.
+É o relatório.
+O acórdão recorrido concluiu que ocorreu violação ao direito de defesa do embargante, ora agravado, com base nas provas produzidas nos autos e na interpretação da legislação processual, não cabendo a este Tribunal o reexame de fatos e provas para julgar em sentido contrário ao que foi decidido pela Corte de origem, conforme preconiza a Súmula 279. Ademais, a violação apontada seria, se existente, indireta ou reflexa.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 29 de março de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
