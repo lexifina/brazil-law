@@ -1,0 +1,18 @@
+DECISÃO: 1. Trata-se de agravo regimental contra decisão do teor seguinte:
+“1. Trata-se de recurso extraordinário contra acórdão do Tribunal Regional Federal da 1ª Região que entendeu indevida a compensação de créditos de IPI relativamente à aquisição de matérias primas e insumos sujeitos à alíquota zero.
+A recorrente, com fundamento no art. 102, III, a, alega ter havido ofensa ao art. 153, § 3º, II, da Constituição Federal.
+2.  Inconsistente o recurso.
+ Esta Corte, a partir do julgamento do RE nº 212.484 (Rel. p/ acórdão Min. NELSON JOBIM, j. 05.03.1998), reconheceu a existência do direito de crédito de IPI na aquisição de insumos isentos, como se lhe pode ver da respectiva ementa:
+“CONSTITUCIONAL. TRIBUTÁRIO. IPI. ISENÇÃO INCIDENTE SOBRE INSUMOS. DIREITO DE CRÉDITO. PRINCÍPIO DA NÃO CUMULATIVIDADE. OFENSA NÃO CARACTERIZADA. Não ocorre ofensa à CF (art. 153, § 3º, II) quando o contribuinte do IPI credita-se do valor do tributo incidente sobre insumos adquiridos sob o regime de isenção. Recurso não conhecido.”
+ A Corte estendeu esse entendimento para o caso de aquisição de insumos não tributados ou tributados com alíquota zero, no julgamento do RE nº 350446 (Rel. Min. NELSON JOBIM, DJ de 06.06.2003):
+“CONSTITUCIONAL. TRIBUTÁRIO. IPI. CREDITAMENTO. INSUMOS ISENTOS, SUJEITOS À ALÍQUOTA ZERO. Se o contribuinte do IPI pode creditar o valor dos insumos adquiridos sob o regime de isenção, inexiste razão para deixar de reconhecer-lhe o mesmo direito na aquisição de insumos favorecidos pela alíquota zero, pois nada extrema, na prática, as referidas figuras desonerativas, notadamente quando se trata de aplicar o princípio da não-cumulatividade. A isenção e a alíquota zero em um dos elos da cadeia produtiva desapareceriam quando da operação subseqüente, se não admitido o crédito. Recurso não conhecido.” (No mesmo sentido: RE nº 293511-AGR, Rel. Min. CELSO DE MELLO, DJ de 21.03.2003)
+ Mas, no que toca à aquisição de insumos não tributados ou tributados com alíquota zero, a Corte no julgamento dos REs nº 370.682 (Rel. Min. ILMAR GALVÃO), e nº 353.657 (Rel. Min. MARCO AURÉLIO), concluído em 25.06.2007, reviu tal entendimento, decidindo ser indevida compensação de créditos de IPI decorrentes da aquisição de matérias-primas e insumos não tributados ou sujeitos à alíquota zero.
+3.  Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF, art. 38 da Lei nº 8.038, de 28.05.90, e art. 557 do CPC).” (fl. 209/210).
+A parte recorrente pede seja reconsiderada a decisão agravada, pelas razões expostas às fls. 217-219, com o conseqüente provimento do recurso.
+2.  Esta Corte, no julgamento do RE nº 483.994-AgR-QO (Rel. Min. ELLEN GRACIE, Segunda Turma, DJE de 20.11.2008), decidiu estender a todos os agravos regimentais e embargos de declaração anteriores a 20.8.2008, interpostos de decisões monocráticas proferidas em processos cujo tema foi reconhecido como de repercussão geral, a seguinte solução: reconsiderar a decisão agravada e determinar a devolução dos autos ao Tribunal de origem, ficando prejudicado o agravo regimental ou os embargos de declaração.
+No caso, trata-se de recurso extraordinário que versa sobre tema cuja repercussão geral foi reconhecida na análise do RE nº 562.980 (Rel. Min. RICARDO LEWANDOWSKI, DJE de 16.5.2008).
+3.  Ante o exposto, reconsidero a decisão agravada e, com fundamento no art. 328, parágrafo único, do RISTF, determino a devolução dos autos ao Tribunal de origem, para os fins do art. 543-B do CPC, ficando prejudicado o agravo regimental.
+Publique-se. Int..
+Brasília, 30 de março de 2010.
+Ministro CEZAR PELUSO
+Relator
