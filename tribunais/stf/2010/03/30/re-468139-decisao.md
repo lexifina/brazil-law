@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Terceira Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+“DESAPROPRIAÇÃO. PRECATÓRIO. EMPENHO REALIZADO ANTERIORMENTE À EDIÇÃO DA EMENDA CONSTITUCIONAL 30/00. PENDÊNCIA. PARCELAMENTO. IMPOSSIBILIDADE.
+I – Os precatórios inclusos no orçamento de 2000 em data anterior à promulgação da EC 30/00 não são considerados pendentes para fins do parcelamento de que trata o art. 78 do ADCT.
+II – Custas como de lei.
+III – Honorários, por força da Súmula 512/STF.
+IV – Apelação da União e remessa desprovidas” (fl. 123).
+Alega a recorrente a violação dos artigos 37, caput, da Constituição Federal e 78 do Ato das Disposições Constitucionais Transitórias da Magna Carta.
+Sem contrarrazões (fl. 151verso), o recurso extraordinário (fls. 129 a 150) foi admitido (fls. 153 a 155).
+Decido.
+Anote-se, inicialmente, que a recorrente foi intimada do acórdão   recorrido em 12/3/04, conforme expresso na certidão de folha 174, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação merece prosperar.
+O artigo 78 do ADCT, introduzido pela Emenda Constitucional no 30, de 14 de setembro de 2000, assim dispõe:
+“Ressalvados os créditos definidos em lei como de pequeno valor, os de natureza alimentícia, os de que trata o art. 33 deste Ato das Disposições Constitucionais Transitórias e suas complementações e os que já tiverem os seus respectivos recursos liberados ou depositados em juízo, os precatórios pendentes na data de promulgação desta Emenda e os que decorram de ações iniciais ajuizadas até 31 de dezembro de 1999 serão liquidados pelo seu valor real, em moeda corrente, acrescido de juros legais, em prestações anuais, iguais e sucessivas, no prazo máximo de dez anos, permitida a cessão dos créditos.” (grifo nosso)
+Sobre o tema, n a ocasião do julgamento do RE nº 161.751/SP, Relator o Ministro Moreira Alves , DJ de 19/4/96, a Primeira Turma consignou que o artigo 33 do ADCT aplica-se ao precatório que, existente à época da promulgação da Constituição Federal de 1988, encontrava -se pendente de pagamento, ou por não ter sido cumprido anteriormente, ou por estar aguardando o momento em que deveria ser cumprido sem atraso. O referido julgado está assim ementado:
+“Interpretação do artigo 33 do ADCT da Constituição Federal. Esse dispositivo constitucional se aplica aos precatórios que, existentes, quando da promulgação da atual Constituição, estavam pendentes de pagamento, ou por não terem sido cumpridos anteriormente, ou por estarem aguardando o momento em que deveriam ser cumpridos sem atraso. Recurso extraordinário conhecido e provido” (RE nº 161.751/SP, Primeira Turma, Relator o Ministro Moreira Alves, DJ de 19/4/96).
+Sendo a disposição introduzida pela Emenda Constitucional nº 30/2000 no artigo 78 do ADCT , que faculta o pagamento dos  “precatórios pendentes na data de promulgação desta Emenda” em “ prestações anuais,   iguais e sucessivas, pelo prazo de máximo de dez anos ” ,   similar a do artigo 33 do ADCT , inclusive na finalidade   de desafogar as dívidas acumuladas do Poder Público referentes a precatórios não pagos de exercícios anteriores , cumpre reconhecer que o referido parcelamento constitucional alcança todos os precatórios pendentes, inclusive os que deveriam ter sido cumpridos anteriormente e , por qualquer motivo, não foram , excluídos da moratória apenas os precatórios efetivamen te pagos ou depositado em juízo, estando à disposição da parte.
+Nesse mesmo sentido, José Otávio de Vianna Vaz, em artigo intitulado Liquidação do Precatório: pagamento, compensação e poder liberatório, parte integrante da obra Precatórios: problemas e soluções, Editora Del Rey, 2005, analisa o real sentido dos comandos do artigo 78 do ADCT e aponta o seguinte:
+“Verifica-se, então, que precatórios pendentes são tanto aqueles já devidamente inscritos no Tribunal competente, como o que a Fazenda deixou de honrar a modo e tempo próprios e os regularmente inscritos que aguardam o momento de serem pagos. Assim, o dispositivo constitucional aplica-se a estes (pendentes) e aos precatórios futuros, ou seja, àqueles a serem expedidos em virtude das ações ajuizadas até 31 de dezembro de 1999” (p. 111).
+Ressalte-se, por fim, que esse entendimento é capitaneado pelo próprio artigo 78 do ADCT que argumenta o alcance na norma afirmando que nela não se incluem “ os créditos definidos em lei como de pequeno valor, os de natureza alimentícia, os de que trata o art. 33 deste Ato das Disposições Constitucionais Transitórias e suas complementações e os que já tiverem os seus respectivos recursos liberados ou depositados em juízo” (grifo nosso).
+Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para denegar a segurança. Sem condenação em honorários, nos termos da Súmula nº 512/STF. Custas ex lege.
+Publique-se.
+Brasília, 30 de março de 2010.
+Ministro DIAS TOFFOLI
+Relator
