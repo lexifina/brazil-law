@@ -1,1 +1,1 @@
-Art. 73. A União poderá celebrar convênios com os Estados visando à prevenção e repressão do tráfico ilícito e do uso indevido de drogas.
+Art. 73. A União poderá estabelecer convênios com os Estados e o com o Distrito Federal, visando à prevenção e repressão do tráfico ilícito e do uso indevido de drogas, e com os Municípios, com o objetivo de prevenir o uso indevido delas e de possibilitar a atenção e reinserção social de usuários e dependentes de drogas.
