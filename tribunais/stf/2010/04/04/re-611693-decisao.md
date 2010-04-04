@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário contra acórdão que entendeu pela não incidência do ICMS sobre a prestação de serviços de transporte de mercadorias destinadas à exportação, com fundamento no art. 155, § 2º, X, a, da CF, com a redação dada pela EC 42/2003.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 155, § 2º, X, a, da mesma Carta.
+A pretensão recursal não merece acolhida.
+É certo que esta Corte consolidou entendimento segundo o qual a imunidade do art. 155, § 2º, X, a, da Constituição (redação original) não se estende aos serviços de transporte interestadual ou intermunicipal de produtos destinados ao exterior, conforme se observa nos seguintes precedentes: RE 196.527/MG, Rel. Min. Ilmar Galvão; RE 212.637/MG, Rel. Min. Carlos Velloso; RE 244.151/MG, Rel. Min. Sepúlveda Pertence; RE 208.092/MG, Rel. Min. Cezar Peluso; RE 340.855-AgR/MG, Rel. Min. Ellen Gracie.
+Todavia, verifica-se que o acórdão recorrido também excluiu a incidência do ICMS com apoio na Lei Complementar 87/96, art. 3º, II. Esse fundamento, com a negativa de seguimento ao recurso especial (fls. 181-185, com trânsito em julgado certificado à fl. 187), permaneceu incólume e suficiente para manutenção da decisão impugnada. Assim, incide, no caso, a Súmula 283 do STF. Nesse sentido, transcrevo a ementa do julgamento do RE 278.700-AgR/SP, Rel. Min. Ellen Gracie:
+“RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. ICMS. EXPORTAÇÃO. INCIDÊNCIA DA SÚMULA STF Nº 283. 1. Independente de ter o acórdão recorrido se apoiado no disposto no art. 155, § 2º, inciso X, a da Constituição Federal, foi também invocada, como razão de decidir, a norma do artigo 3º, II, da LC nº 87/96, premissa infraconstitucional que restou inatacada e se mostra suficiente para a mantença do acórdão recorrido. Incidência da Súmula STF nº 283. 2. Agravo regimental improvido.”
+Por fim, ainda que superado esse óbice, restou firmado no julgamento do RE 196.527/MG, Rel. Min. Ilmar Galvão, e do RE 212.637/MG, Rel. Min. Carlos Velloso, a possibilidade de, por meio de lei complementar, excluir-se a incidência do ICMS sobre serviços, nos termos do art. 155, § 2º, XII, e, da Constituição. No mesmo sentido, menciono o AI 397.055-AgR/MG, Rel. Min. Sepúlveda Pertence.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 4 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
