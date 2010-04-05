@@ -1,0 +1,12 @@
+inc1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que julgou procedente a ação penal e condenou o agravante pela prática do crime de peculato.
+2.  Nas razões do RE, sustenta-se ofensa ao art. 5º, LIII, LIV, XXXIX e XLVI, e 93, IX, da Constituição Federal.
+ Aduz o recorrente que o acórdão violou os dispositivos constitucionais acima destacados, tendo em vista que: a) o processamento do feito ocorreu perante juízo de primeira instância, embora os atos tenham sido praticados sob a égide da Súmula 394/STF; b) houve afronta ao princípio da indivisibilidade da ação penal; c) a decisão padece de nulidade por falta de fundamentação; d) ocorreu nulidade em razão da falta de notificação para apresentação da defesa prévia; e) a conduta do recorrente não corresponde ao crime a ele imputado, além da necessidade da existência de dolo para configuração do delito; f) a pena aplicada acima do mínimo legal não restou devidamente fundamentada; e g) indevida a aplicação da perda de mandato eletivo.
+3.  O acórdão recorrido restou assim ementado (fl. 829):
+ “Peculato-desvio. Prefeito Municipal. Serviço e renda pública. Licitação fictícia. Fraude. Servidores e terceiros. Execução de serviços. Maquinário e pessoal do Município. Pagamento. Obra não executada. Lesão.
+ O Prefeito Municipal que autoriza ou permite a prática de fraude à licitação, por simulação, com o fim de obter vantagem e favorecimento próprio e a terceiro, na execução de obra pública, utilizando maquinário e servidores do município, remunerando a terceiro como executor do serviço que não prestou, além de pagar obra inacabada ou indevidamente executada comete crime de responsabilidade, respondendo em co-autoria aquele que, de qualquer forma, para o ato concorreu.”
+4.  Verifico que não se encontram prequestionados os artigos constitucionais apontados como violados, porque não abordados pelo acórdão recorrido e porque não foram opostos embargos de declaração a fim de suscitar a matéria (Súmulas STF 282 e 356). É pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142-AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.09.2001, e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 5 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
