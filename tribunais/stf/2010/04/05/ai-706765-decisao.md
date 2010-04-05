@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que negou provimento à apelação do agravante.
+ Nas razões do RE, sustenta-se violação ao art. 5º, LVII, da Constituição Federal, sob o fundamento de que o julgado “não aplicou corretamente o art. 59 do CP, acabando por afrontar o PRINCÍPIO DA NÃO-CULPABILIDADE ou PRESUNÇÃO DE INOCÊNCIA , previsto no art. 5º, LVII, da CF, bem como o princípio da razoabilidade, proporcionalidade e necessidade”.
+2.  O acórdão recorrido restou assim ementado (fl. 56):
+“ APELAÇÃO CRIMINAL. PORTE ILEGAL DE ARMA. ART. 10, CAPUT DA LEI 9.437/97. DECRETO CONDENATÓRIO. MANUTENÇÃO. Materialidade e autoria suficientemente comprovadas através das provas produzidas. Laudo pericial atestando as perfeitas condições de funcionamento da pistola apreendida. Réu preso em flagrante, após serem surpreendidos por policiais militares, em via pública, portando arma de fogo de uso proibido, municiada e com numeração raspada. Relato do policial militar que efetuou a prisão do acusado, coerente e convincente, dando conta das circunstâncias da prisão, corroborado pelos depoimentos policiais de seus colegas, que também participaram da diligência, confortando integralmente a versão acusatória. Validade dos depoimentos dos policiais como meio de prova, aptos a integrar um contexto probatório firme e seguro a amparar o édito condenatório, sobretudo quando não há indicativo concreto de que os agentes tivessem qualquer interesse em prejudicar o réu, enxertando a arma e imputando-lhes falsamente a prática do delito. Acusado que responde a outros processos (roubo qualificado, formação de quadrilha). APELO DESPROVIDO.”
+3.  Para dissentir do que restou consignado pela Corte Regional, a pretexto de ofensa ao mencionado dispositivo constitucional, seria necessário o revolvimento do conjunto fático-probatório do caso, o que encontra óbice na Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+4.  Ante o exposto, nego seguimento ao agravo (art. 21, § 1º, RISTF).
+Publique-se.
+Brasília, 5 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
