@@ -1,0 +1,23 @@
+DECISÃO
+Vistos.
+Município do Rio de Janeiro interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Sétima Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro que julgou inconstitucional a cobrança do IPTU, com alíquotas diferenciadas em razão da destinação do imóvel, instituída pela Lei municipal nº 2.955/99, nos termos da seguinte ementa:
+“Tributário Municipal. IPTU progressivo antes da Emenda nº 29/2.000. Nulidade dos respectivos lançamentos no que ultrapassem a menor alíquota, ante o reconhecimento da inconstitucionalidade de sua cobrança.
+Repetição de indébito, que decorre do pagamento indevido, sob pena de locupletar-se sem causa o Poder público. Declaração de inconstitucionalidade, pelo Eg. Órgão Especial, do art. 67 do Cód. Tributário Municipal, que opera efeitos ex tunc, uma vez que norma jurídica inconstitucional é nula. Tradição do Direito Brasileiro.
+Ressalva da prescrição qüinqüenal.
+Constitucionalidade da TCL, que não contém mácula, por haver a lei, que a instituiu (nº 2.687/98), estabelecido sua cobrança diferenciada. Por corresponder a taxa a serviço específico e divisível, devem ser levadas em conta peculiaridades dos imóveis.
+Recurso parcialmente provido.”  (fl. 174).
+Opostos embargos de declaração (fls. 178 a 182), foram rejeitados (fls. (184 a 186).
+Aduz o Município a contrariedade aos artigos 156, inciso I e § 1º, e 182, § 4º e inciso II, da Constituição Federal. Sustenta o Município, em síntese, a constitucionalidade da alíquota do IPTU.
+Contra-arrazoado (fls. 207 a 223), o recurso extraordinário (fls. 192 a 200), não foi admitido (fls. 224 a 226), tendo seguimento por força de decisão proferida em agravo de instrumento (fl. 257).
+Opina o Ministério Público Federal, em parecer da lavra do então Subprocurador Geral da República, Dr. Roberto Monteiro Gurgel Santos, pelo provimento do recurso extraordinário.
+Decido.
+Anote-se, primeiramente, que o acórdão recorrido, conforme expresso na certidão de folha 170, foi publicado em 29/10/2003, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação merece prosperar, uma vez que a jurisprudência desta Corte é pacífica no sentido de ser constitucional lei municipal que tenha estabelecido, ainda que antes da Emenda Constitucional nº 29/2000, alíquotas diferenciadas para cobrança de IPTU em razão da destinação do imóvel. Nesse sentido, anote-se:
+“AGRAVOS REGIMENTAIS EM AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. TRIBUTÁRIO. IPTU. ALÍQUOTAS DIFERENCIADAS. OFENSA À CONSTITUIÇÃO FEDERAL. AUSÊNCIA. AGRAVO REGIMENTAL INTERPOSTO PELO MUNÍCIPIO. MANIFESTAMENTE INCABÍVEL. MULTA. AGRAVOS IMPROVIDOS. I - A jurisprudência da Corte é no sentido de que não viola a Constituição Federal a fixação de alíquotas diversas do IPTU em razão da destinação do imóvel. Precedentes. II - Agravo da municipalidade manifestamente incabível. III - Condenação do Município ao pagamento de multa. IV - Agravos regimentais improvidos” (AI nº 642.412/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 27/6/08).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPOSTO PREDIAL E TERRITORIAL URBANO. ALÍQUOTAS DIFERENCIADAS: IMÓVEIS RESIDENCIAIS E NÃO RESIDENCIAIS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n° 457.482/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 9/5/08).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. IPTU. MUNICÍPIO DE BELO HORIZONTE. LEI MUNICIPAL N. 7.242/96. DIVERSIDADE DE ALÍQUOTAS. PROGRESSIVIDADE. ALEGAÇÃO IMPROCEDENTE. Diversidade de alíquotas para a cobrança do IPTU, em virtude de tratar-se de imóvel edificado, não-edificado, residencial ou comercial. Progressividade de tributo. Alegação improcedente. Precedente. Agravo regimental a que se nega provimento” (RE nº 454.916/MG-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 6/3/09).
+Ante o exposto, nos termos do artigo 557, caput e § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e dou-lhe provimento para, reconhecendo a constitucionalidade da cobrança do IPTU, com alíquotas diferenciadas em razão da destinação do imóvel, instituída pela Lei municipal nº 2.955/99, julgar a ação improcedente. Custas e honorários advocatícios fixados em 10% sobre o valor da causa pelo autor, vencido.
+Publique-se.
+Brasília, 5 de abril de 2010.
+Ministro DIAS TOFFOLI
+Relator
