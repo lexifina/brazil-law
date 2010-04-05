@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Fundação Universidade do Estado do Rio Grande do Sul interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Terceira Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+“CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CIVEL E REMESSA NECESSÁRIA. SERVIDOR PÚBLICO. PRELIMINAR DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO. TRANSFERÊNCIA PARA O MÉRITO. REAJUSTE EMBASADO PELA LEI Nº 8.049/01. FUNÇÃO GRATIFICADA UNIVERSITÁRIA-FGU. VANTAGEM FUNCIONAL INCORPORADA AO VENCIMENTO. ADMISSIBILIDADE. IMPROVIMENTO DA APELAÇÃO CÍVEL E DA REMESSA NECESSÁRIA” (fl. 249).
+Alega o recorrente violação dos artigos 2º, 5º, inciso II, 37, caput, e incisos X, XIII, e XIV e XV, 61, § 1º, inciso II, alínea ‘a’, 167, caput, e inciso II, e 169, § 1º, incisos I e II da Constituição Federal, uma vez que “existe direito adquirido à incorporação da referida ‘parcela’, que não poderá sofrer decréscimo em seu valor nominal, face às garantias constitucionais. Não obstante, não se pode atrelá-la ad perpetum à remuneração de cargo e remuneração atualmente vigentes, originando um efeito ‘cascata’, seja porque a Administração tem discricionariedade de estabelecer novos valores, seja porque a incorporação é relativa à importância, ao valor auferido pelo exercício do cargo naquele momento que se adquiriu o direito e não a posteriori” (fl. 262).
+Contra-arrazoado (fls. 274 a 277), o recurso extraordinário (fls. 258 a 270) foi admitido (fls. 279/280).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 5/9/2006, conforme expresso na certidão de folha 256v, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+No tocante aos artigos 2º, 5º, inciso II, 37, caput, e incisos XIII, e XIV e XV, 61, § 1º, inciso II, alínea ‘a’, 167, caput, e inciso II, e 169, § 1º, incisos I e II da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventuais omissões no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte.
+O acórdão recorrido decidiu a controvérsia acerca da possibilidade de reajuste dos valores incorporados pelos autores com base na análise da natureza jurídica da parcela . Assim, para ultrapassar o entendimento do acórdão recorrido seria necessário o reexame da legislação infraconstitucional pertinente (Lei Estadual nº 8.049/01) e do conjunto fático probatório constante dos autos, o que não autoriza a interposição do recurso extraordinário. Incidência das Súmulas nºs 179 e 280 desta Corte. Anote-se que o acórdão atacado destacou expressamente que:
+“(...)
+Assim, da análise dos dispositivos legais alhures ressaltados, não há outra conclusão senão a de que as gratificações e outras vantagens auferidas pelos servidores públicos, uma vez incorporadas, passam a ter natureza salarial, integrando a remuneração para todos os efeitos legais, entre os quais, o de revisão geral da remuneração.
+Por derradeiro, a Função Gratificada Universitária – FGU, denominada Vant. Pess. Lei Comp. 163/99, incorporada aos vencimentos dos ora apelados, por ter natureza salarial, deve reajustar-se pela norma que prevê a revisão geral da remuneração dos servidores da FUERN, a Lei nº 1.049/01, a qual altera o vencimento dos cargos integrantes do quadro de pessoal daquela instituição” (fl. 254).
+Sobre o mesmo tema dos autos, anote-se as seguintes decisões monocráticas: RE nº 540.768/RN, Relator o Ministro Ricardo Lewandowski, DJe de 7/4/08; e RE nº 526.558/RN, Relator o Ministro Eros Grau, DJe de 23/10/07.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 5 de abril de 2010.
+Ministro DIAS TOFFOLI
+Relator
