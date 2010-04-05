@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+“ ICMS. SUBSTITUIÇÃO TRIBUTÁRIA. COMPENSAÇÃO DE CRÉDITO. PRECATÓRIO JUDICIAL. PROCESSO ADMINISTRATIVO TRIBUTÁRIO. SANÇÃO FISCAL. CANCELAMENTO DE INSCRIÇÃO.
+Legítima é a decisão de cancelamento de inscrição estadual do contribuinte após processo administrativo tributário, se não observadas as regras exigidas para o pagamento de ICMS com prazo dilatado, inclusive utilizando compensação indevida de crédito decorrente de precatório judicial.” (Fl. 117).
+2.  Nas razões do RE, interposto com fundamento no artigo 102, III, a e c, da Constituição Federal, sustenta-se ofensa aos artigos 1º, IV; 5º, XIII, LIV e LV; e 170, da Constituição Federal.
+3.  O recurso não merece prosperar. Verifico que os artigos 1º, IV; 5º, XIII; e 170, da Constituição Federal não foram debatidos no acórdão recorrido, e a falta, no traslado, do teor das razões da apelação e da petição de embargos de declaração impede a verificação de suposta omissão do aresto, não se podendo, assim, constatar a ocorrência do requisito do prequestionamento. Incide, pois, o óbice das Súmulas STF 282 e 356.
+ Nesse sentido: AI 716.928/SC, rel. Min. Cármen Lúcia, DJe 12.5.2009; AI 683.680-AgR/GO, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 13.2.2009; e AI 495.652-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJ 9.9.2005.
+4.  Quanto à alegação de ofensa ao art. 5º e seus incisos, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ademais, não houve, nas razões do RE, fundamentação específica que justifique a sua interposição com base no artigo 102, III, c, da Constituição, atraindo a incidência da Súmula STF 284.
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 05 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
