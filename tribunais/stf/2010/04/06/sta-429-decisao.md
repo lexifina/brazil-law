@@ -1,0 +1,41 @@
+DECISÃO: Trata-se de pedido de suspensão de tutela antecipada, formulado pelo Estado de São Paulo, com a finalidade de sustar os efeitos de sentença proferida pelo juízo da 7ª Vara de Fazenda Pública da Capital/SP, processo n.º 053.09.031371-5; da liminar concedida pelo juízo da 9ª Vara de Fazenda Pública, processo n.º 053.09.031782-6; da sentença proferida pelo Juízo da 2ª Vara de Fazenda Pública, nos autos do Mandado de Segurança n.º 053.09.012796-2; da segurança concedida pelo Juízo da 12ª Vara de Fazenda Pública, nos autos do MS n.º 053.09.042882-2; da segurança concedida pelo Juízo da 14ª Vara da Fazenda Pública da Capital/SP,  nos autos do Mandado de Segurança n.º 053.09.043351-6 , cuja suspensão foi negada pelo Tribunal de Justiça do Estado de São Paulo, nos autos da Suspensão dos Efeitos da Sentença e da Liminar n.º 990.10.050359-6, da Suspensão dos Efeitos das Sentenças e da Liminar n.º 990.10.050264-6
+Na origem, os autores voltam-se contra a incidência do redutor salarial a título de aplicação do teto constitucional, arguindo a intangibilidade do direito adquirido, bem como a garantia de irredutibilidade de vencimentos.
+O Juízo da 7ª Vara de Fazenda Pública julgou procedente o pedido nos autos da Ação Ordinária n.º 053.09.031371-5, com o seguinte dispositivo (fl. 169):
+“Isto posto, julgo procedente a ação, com fundamento no art. 269, I, do CPC, para proibir o réu de efetuar redução dos benefícios de pensão recebidos pela autora sob alegação de cumprimento da EC 41/03, e condená-lo a devolver todos os valores retidos a este título, acrescidos de correção monetária e juros na forma que se segue: (...)”
+O Juízo da 9ª Vara de Fazenda Pública deferiu liminar nos autos do Mandado de Segurança n.º 053.09.031782-6, nos seguintes termos (fl. 172):
+“Assim, em respeito ao princípio da garantia da irredutibilidade de vencimentos, defiro a liminar e determino à impetrada que se abstenha de aplicar sobre a pensão recebida pela impetrante o redutor salarial, instituído pela citada Emenda n.º 41/03, mantendo-se a parte que excede o valor fixado como teto remuneratório, a qual deverá ser paga até que, por reajustes posteriores, tal montante venha a ser absorvido e atinja o teto do cargo.”
+O Juízo da 2ª Vara de Fazenda Pública concedeu a segurança nos autos da ação ordinária n. 053.09.012796-2, nos seguintes termos (fl. 179):
+“À vista do exposto, concedo a segurança para determinar que se restabeleça o pagamento integral da pensão devida aos impetrantes, sem que, no redutor salarial, sejam computadas vantagens de caráter pessoal anteriores à Emenda Constitucional n.º 41/03; concedida, assim, a liminar.”
+
+O Juízo 12ª Vara de Fazenda Pública concedeu a segurança nos autos do MS n.º 053.09.042882-2, com o seguinte dispositivo (fl. 194):
+“Ante o exposto, julgo procedente o pedido do presente mandado de segurança impetrado por Dirce Maria Spera knuppel contra ato do Sr. Superintendente do IPESP – Instituto de Previdência do Estado de São Paulo e, por corolário, concedo a ordem para assegurar o direito liquido e certo da impetrante em perceber a integralidade de sua pensão previdenciária, sem qualquer redução ou imposição de teto.”
+O Juízo da 14ª Vara de Fazenda Pública concedeu a segurança nos autos do MS n.º 053.09.043351-6, em sentença, publicada em 23.3.10, que contém o seguinte dispositivo:
+Por todo o exposto, e pelo mais que dos autos consta, decido, para julgar procedente o pedido e conceder a segurança, garantindo ao impetrante o direito de receber suas vantagens pessoais, adquiridas até a promulgação da EC 41, sem que o limite previsto em seu art. 9º incida sobre seus vencimentos ou proventos.
+O requerente alega, em síntese, que a manutenção do ato decisório impugnado, ao afastar a aplicação do teto remuneratório previsto no art. 37, inciso XI, da Constituição Federal, afronta a ordem e a economia públicas. Sustenta, ainda, o potencial efeito multiplicador do provimento judicial impugnado, apto a gerar graves prejuízos às finanças estaduais. Pede, ao final, a suspensão dos efeitos das decisões impugnadas.
+Decido.
+A base normativa que fundamenta o instituto da suspensão (Leis n.os 12.016/09, 8.437/92, 9.494/97 e art. 297 do RISTF) permite que a Presidência do Supremo Tribunal Federal, a fim de evitar grave lesão à ordem, à saúde, à segurança e à economia públicas, suspenda a execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, quando a discussão travada na origem for de índole constitucional.
+Assim, é a natureza constitucional da controvérsia que justifica a competência do Supremo Tribunal Federal para apreciar o pedido de contracautela, conforme a pacificada jurisprudência desta Corte, destacando-se os seguintes julgados: Rcl 497-AgR, Rel. Carlos Velloso, DJ 6.4.2001; SS 2.187-AgR, Rel. Maurício Corrêa, DJ 21.10.2003; e SS 2.465, Rel. Nelson Jobim, DJ 20.10.2004.
+Na origem, discute-se a aplicação do art. 37, XI, da Constituição Federal, introduzido pela Emenda Constitucional n.º 41/2003, em face do direito adquirido e da garantia da irredutibilidade de vencimentos. Não há dúvida, portanto, de que a matéria discutida na origem reveste-se de índole constitucional.
+No MS 24.875, Rel. Sepúlveda Pertence, DJ 6.10.2006, o Tribunal apenas determinou a concessão da segurança para que os impetrantes percebessem o acréscimo previsto no art. 184, III, da Lei n.º 1.711/52, de 20% sobre os proventos da aposentadoria, até sua ulterior absorção pelo subsídio dos Ministros do Supremo Tribunal Federal determinado em lei.
+Essa não é a hipótese ora posta, motivo pelo qual é de se aplicar o entendimento pacificado por esta Corte de que a lesão à ordem pública resta configurada no caso de descumprimento da regra do art. 37, XI, da Constituição da República. Nesse sentido, citem-se: SS-AgR 2583; SS 2973-Agr; SS 2663-Agr; SS 2932-Agr; e SS 2447-AgR, Tribunal Pleno, Rel. Ellen Gracie, DJ 25.4.2008, este último com ementa assim anotada:
+
+AGRAVO REGIMENTAL. SUSPENSÃO DE SEGURANÇA. OCORRÊNCIA DE GRAVE LESÃO À ORDEM PÚBLICA, CONSIDERADA EM TERMOS DE ORDEM JURÍDICO-CONSTITUCIONAL. TETO. SUBTETO. ART. 37, XI, DA CONSTITUIÇÃO DA REPÚBLICA, REDAÇÃO DA EMENDA CONSTITUCIONAL 41/03. DECRETO ESTADUAL 48.407/04.
+1. Os agravantes não lograram infirmar ou mesmo elidir os fundamentos adotados para o deferimento do pedido de suspensão.
+2. No presente caso, a imediata execução da decisão impugnada impede, em princípio, a aplicação da regra inserta no art. 37, XI, da Constituição da República, que integra o conjunto normativo estabelecido pela Emenda Constitucional 41/2003.
+3. Na suspensão de segurança não se aprecia o mérito do processo principal, mas tão-somente a ocorrência dos aspectos relacionados à potencialidade lesiva do ato decisório em face dos interesses públicos relevantes consagrados em lei, quais sejam, a ordem, a saúde, a segurança e a economia públicas.
+4. Possibilidade de ocorrência do denominado "efeito multiplicador".
+5. Precedentes do Plenário.
+6. Agravo regimental improvido.
+
+Ademais, também está presente a probabilidade de concretização do denominado “ efeito multiplicador ” (SS 1.836-AgR/RJ, rel. Min. Carlos Velloso, Plenário, unânime, DJ 11.10.2001), em vista da possibilidade de aumento de demandas que contenham idêntico objeto.
+Ante o exposto, defiro o pedido para suspender a execução da sentença proferida pelo Juízo da 7ª Vara de Fazenda Pública da Capital/SP, processo n.º 053.09.031371-5; da liminar concedida pelo Juízo da 9ª Vara de Fazenda Pública, processo n.º 053.09.031782-6; da sentença proferida pelo Juízo da 2ª Vara de Fazenda Pública, nos autos do Mandado de Segurança n.º 053.09.012796-2; da segurança concedida pelo Juízo da 12ª Vara de Fazenda Pública, nos autos do MS n.º 053.09.042882-2; da segurança concedida pelo Juízo da 14ª Vara da Fazenda Pública da Capital/SP nos autos dos Mandado de Segurança n.º 053.09.043351-6 , cuja suspensão foi negada pelo Tribunal de Justiça do Estado de São Paulo, nos autos da Suspensão dos Efeitos da Sentença e da Liminar n.º 990.10.050359-6 e nos autos da Suspensão dos Efeitos das Sentenças e da Liminar n.º 990.10.050264-6.
+Comunique-se com urgência.
+Publique-se.
+Brasília, 6 de abril de 2010.
+
+Ministro GILMAR MENDES
+Presidente
+
+1
+
+1
