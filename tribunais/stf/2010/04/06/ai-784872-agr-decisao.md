@@ -1,0 +1,28 @@
+Trata-se de agravo regimental interposto contra decisão que, em 9/2/2010, negou seguimento ao agravo de instrumento. Este o teor do julgado atacado:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+O agravo não merece acolhida. Bem examinados os autos, verifico que o recorrente, na petição de recurso extraordinário, não indicou o dispositivo constitucional violado, o que caracteriza a deficiência de sua fundamentação, tornando inviável o conhecimento do recurso a teor da Súmula 284 do STF. No mesmo sentido: AI 636.405/DF, de minha relatoria; AI 488.500-AgR/SP e AI 582.519/PE, Rel. Min. Sepúlveda Pertence; AI 541.541/AL, Rel. Min. Gilmar Mendes; AI 552.131-AgR/SP, Rel. Min. Carlos Britto.
+Ainda que superado tal óbice, o recurso não prosperaria. É que a apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+Por fim, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Isso posto, nego seguimento ao recurso” (fl. 353).
+O agravante sustentou, em suma, que
+“interpôs previamente nos autos do Acórdão que julgou a apelação, Embargos de Declaração prequestionando os dispositivos constitucionais violados no caso em concreto, justamente para evitar os óbices sumulares de nº 282 e 356 do Supremo Tribunal Federal” (fl. 366).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que os recorrentes não aduziram novos argumentos capazes de afastar as razões nela expendidas.
+Com efeito, reitero o fundamento exposto na decisão impugnada de que o agravante, na petição de recurso extraordinário, não indicou o dispositivo constitucional violado, o que caracteriza a deficiência de sua fundamentação, tornando inviável o conhecimento do recurso a teor da Súmula 284 do STF.
+Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO QUE NÃO ATACOU OS FUNDAMENTOS DO ARESTO IMPUGNADO, NEM PROCEDEU À INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL QUE TERIA SIDO VIOLADO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. Agravo regimental desprovido” (AI 552.131-AgR, Rel. Min. Ayres Britto, Primeira Turma).
+Apesar de opostos embargos de declaração contra o acórdão recorrido para fins de prequestionamento, o agravante não indicou a matéria constitucional violada no recurso extraordinário, o que atrai a aplicação da Súmula 284 do STF.
+Ainda que superado tal óbice, repiso que para se chegar à conclusão contrária à adotada pelo acórdão recorrido, faz-se necessária a análise de normas infraconstitucionais (Código Florestal Brasileiro, Resolução 302/02 do CONAMA e Lei 6.938/81). Dessa maneira, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Transcrevo, a seguir, trechos do acórdão recorrido que demonstram tal assertiva:
+“Quanto à alegada inconstitucionalidade da Resolução n.º 302/02 do CONAMA, não prospera, pois, nos termos do art. 8º, inciso VII, da Lei n.º 6.938/81, compete ao CONAMA ‘estabelecer normas, critérios e padrões relativos ao controle e à manutenção da qualidade do meio ambiente com vistas ao uso racional dos recursos ambientais, principalmente os hídricos’.
+(...)
+Nesse sentido, fica afastada a alegada inconstitucionalidade do art.. 3º, inciso I, da Resolução n.º 302/02 do CONAMA, cujo poder normativo resulta da delegação contemplada no art. 8º, VII, da Lei n.º 6.938/81” (fls. 280-281)
+Além disso, para dissentir do acórdão, faz-se necessário o reexame do conjunto fático-probatório dos autos, o que inviabiliza o recurso extraordinário, a teor da Súmula 279 do STF. É o que se observa da causa de pedir do recurso:
+“Na realidade, inexiste nas propriedades qualquer vegetação protegida pelo art. 2º, caput, do Código Florestal, pois, a área em questão de 1.100m² (que corresponde a mero terreno de 35x32 aproximadamente), pois, a figura contravencional fala em regeneração natural de florestas e demais formas de vegetação, e é necessário ser interpretada com cautela, pois, caso contrário, qualquer limpeza de um terreno, ou ato semelhante implicará em infração” (fl. 328).
+Observe-se, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 6 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
