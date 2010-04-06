@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de pedido de suspensão de segurança, formulado pelo Estado de São Paulo, com a finalidade de sustar os efeitos da liminar concedida pelo Juízo da 9ª Vara de Fazenda Pública da Capital/SP, nos autos do Mandado de Segurança n.º 053.09.040113-4. Referida decisão foi objeto do pedido de Suspensão dos Efeitos de Liminar n.º 990.10.023889-2, negada pelo Tribunal de Justiça do Estado de São Paulo.
+Na origem, a impetrante, Pensionista de Magistrado do Estado de São Paulo, insurge-se contra a incidência sobre seus proventos do teto salarial, determinada pelo art. 37, XI, da Constituição Federal, e do redutor de pensão imposto pelo art. 40, § 7º, da Constituição Federal, ambos na redação conferida pela Emenda Constitucional n.º 41, de 19 de dezembro de 2003.
+A liminar foi deferida com a seguinte fundamentação (fls. 39-40):
+Na espécie, verifico que os requisitos autorizadores da medida estão presentes, porque os valores recebidos pela autora já se encontravam incorporados quando da aposentadoria do instituidor do beneficio, com base em situações consolidadas, motivo pelo qual a redução do valor nominal do beneficio não pode ocorrer por conta da Emenda Constitucional 41/03, visto que o Poder Reformador não é incondicionado e ilimitado.
+(...)
+Quanto ao redutor instituído pela Lei Complementar nº 1012/07, decorrente da nova regra do art. 40, §7º, II da Constituição Federal, razão também assiste à impetrante, porque o magistrado falecido se aposentou em 1988, com proventos integrais, ou seja, quando estava assegurada a paridade entre os vencimentos e os proventos e a mudança posterior não tem o condão de ferir direito adquirido, tampouco afetar a garantia da irredutibilidade de vencimentos.
+O perigo de dano está configurado, diante do caráter alimentar da verba.
+Assim, em respeito ao principio da garantia da irredutibilidade de vencimentos, defiro a liminar e determino ao impetrado que se abstenha de aplicar os redutores salariais (EC 41/2003 e Lei Complementar nº 1012/07) sobre os valores recebidos pela impetrante a titulo de pensão, conforme postulado.
+Contra essa decisão o Estado de São Paulo formula o presente pedido de suspensão. Alega, em síntese, que a manutenção do ato decisório impugnado, ao afastar a aplicação do teto remuneratório previsto no art. 37, inciso XI e do redutor determinado pelo art. 40, § 7º, da Constituição Federal, afronta a ordem e a economia públicas. Sustenta, ainda, o potencial efeito multiplicador do provimento judicial impugnado, apto a gerar graves prejuízos às finanças estaduais.
+Pede, ao final, a suspensão dos efeitos da decisão impugnada.
+Decido.
+A base normativa que fundamenta o instituto da suspensão (Leis n.os 12.016/09, 8.437/92, 9.494/97 e art. 297 do RISTF) permite que a Presidência do Supremo Tribunal Federal, a fim de evitar grave lesão à ordem, à saúde, à segurança e à economia públicas, suspenda a execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, quando a discussão travada na origem for de índole constitucional.
+Assim, é a natureza constitucional da controvérsia que justifica a competência do Supremo Tribunal Federal para apreciar o pedido de contracautela, conforme a pacificada jurisprudência desta Corte, destacando-se os seguintes julgados: Rcl 497-AgR, Rel. Carlos Velloso, DJ 6.4.2001; SS 2.187-AgR, Rel. Maurício Corrêa, DJ 21.10.2003; e SS 2.465, Rel. Nelson Jobim, DJ 20.10.2004.
+No mandado de segurança de origem, discute-se a aplicação do art. 37, XI e do art. 40, § 7º, na redação dada pela Emenda Constitucional n.º 41/2003, em face dos princípios constitucionais do direito adquirido e do direito à irredutibilidade de vencimentos. Não há dúvida, portanto, de que a matéria discutida na origem reveste-se de índole constitucional.
+No caso dos autos, verifico a existência de plausibilidade jurídica a justificar o exercício do poder geral de contracautela por esta Presidência.
+Assim, na hipótese, é de se aplicar o entendimento pacificado por esta Corte de que a lesão à ordem pública resta configurada no caso de descumprimento da regra do art. 37, XI, da Constituição da República. Nesse sentido, cite-se o SS-AgR 2583; SS 2973-Agr; SS 2663-Agr; SS 2932-Agr; e SS 2447-AgR, Tribunal Pleno, Rel. Ellen Gracie, DJ 25.4.2008, este último com ementa assim anotada:
+
+AGRAVO REGIMENTAL. SUSPENSÃO DE SEGURANÇA. OCORRÊNCIA DE GRAVE LESÃO À ORDEM PÚBLICA, CONSIDERADA EM TERMOS DE ORDEM JURÍDICO-CONSTITUCIONAL. TETO. SUBTETO. ART. 37, XI, DA CONSTITUIÇÃO DA REPÚBLICA, REDAÇÃO DA EMENDA CONSTITUCIONAL 41/03. DECRETO ESTADUAL 48.407/04.
+1. Os agravantes não lograram infirmar ou mesmo elidir os fundamentos adotados para o deferimento do pedido de suspensão.
+2. No presente caso, a imediata execução da decisão impugnada impede, em princípio, a aplicação da regra inserta no art. 37, XI, da Constituição da República, que integra o conjunto normativo estabelecido pela Emenda Constitucional 41/2003.
+3. Na suspensão de segurança não se aprecia o mérito do processo principal, mas tão-somente a ocorrência dos aspectos relacionados à potencialidade lesiva do ato decisório em face dos interesses públicos relevantes consagrados em lei, quais sejam, a ordem, a saúde, a segurança e a economia públicas.
+4. Possibilidade de ocorrência do denominado "efeito multiplicador".
+5. Precedentes do Plenário.
+6. Agravo regimental improvido.
+
+Quanto à incidência do redutor da pensão instituído pelo art. 40, § 7º, da Constituição Federal, na redação da EC 41/03, também verifico a existência de plausibilidade jurídica a justificar o exercício do poder geral de contracautela por esta Presidência. O juízo de origem considerou a pensão como um simples prolongamento da aposentadoria e, contrariamente ao entendimento deste Tribunal, fez retroagirem à data desta os parâmetros para a concessão daquela.
+Assim, na hipótese, é de se aplicar o entendimento desta Corte de que a pensão deve ser regida pela norma em vigor na data do falecimento do servidor, sob pena de lesão à ordem pública. Nesse sentido, cite-se o SL-AgR 16, Tribunal Pleno, Ministra Relatora Ellen Gracie, Relator p/ o Acórdão Ministro Marco Aurélio, DJ 9.3.2007, com ementa assim anotada:
+
+PENSÃO - SERVIDOR PÚBLICO - VALOR - REGÊNCIA. A pensão é regida pela norma em vigor na data do falecimento do servidor, presente o ato jurídico aperfeiçoado.
+Ademais, também está presente a probabilidade de concretização do denominado “efeito multiplicador” (SS 1.836-AgR/RJ, rel. Min. Carlos Velloso, Plenário, unânime, DJ 11.10.2001), em vista da possibilidade de aumento de demandas que contenham idêntico objeto.
+Ante o exposto, Defiro o pedido para suspender a execução da liminar concedida pelo Juiz de Direito da 9ª Vara de Fazenda Pública da Capital/SP, nos autos do Mandado de Segurança n.º 053.09.040113-4, cuja suspensão foi negada pelo Tribunal de Justiça do Estado de São Paulo, nos autos da Suspensão dos Efeitos de Liminar n.º 990.10.023889-2. Publique-se. Comunique-se com urgência.
+Brasília, 6 de abril de 2010.
+
+Ministro GILMAR MENDES
+Presidente
