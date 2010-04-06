@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Arnaldo de Carvalho França e outros interpõe m recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Norte, assim   fundamentado:
+“(...)
+Assim, a equiparação é proibida não só pela própria Constituição Federal, mas também pelas normas infraconstitucionais, haja vista que se visa impedir os reajustes automáticos de vencimentos, o que ocorreria se, para fins de remuneração, um cargo ficasse vinculado ao outro, de modo que qualquer acréscimo concedido a um beneficiaria a ambos automaticamente” (fl. 140).
+Os recorrentes apontam violação dos artigos 37, incisos XI e XIII, 39, §1º, e 134, § 2º, da Constituição Federal, sustentando, em síntese, que, do dispositivo constitucional que estatui o teto e os subtetos das remunerações de agentes públicos, é possível se inferir autorização para se vincular as remunerações de cargos diferentes, no caso, a de defensores públicos e a de procuradores de estado.
+Contra-arrazoado (fls. 159 a 163), o recurso extraordinário (fls. 143 a 156), foi admitido (fl. 164 a 166).
+Decido.
+Preliminarmente, destaco que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+No caso, os dispositivos apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte.
+Ademais, ainda que se ultrapassasse esse óbice, a tese recursal destoa de remansosa jurisprudência deste Supremo Tribunal Federal sobre o tema que, firme no entendimento preconizado na Súmula 339/STF, afina-se com o acórdão recorrido. A propósito, confira-se o seguinte julgado do Plenário desta Corte:
+“AÇÃO RESCISÓRIA. ISONOMIA ENTRE CARREIRAS JURÍDICAS. DELEGADOS DE POLÍCIA E DEFENSORES PÚBLICOS DO ESTADO DO PIAUÍ. NECESSIDADE DE LEI ESPECÍFICA. AÇÃO JULGADA PROCEDENTE. Esta Corte firmou entendimento de que a Constituição federal não concedeu isonomia direta entre as denominadas carreiras jurídicas, pois, apesar de tê-la prescrito no art. 241 (em sua redação originária), sua implementação, em decorrência do disposto no art. 39, § 1º, também da Carta Magna, depende de lei específica para ser concretizada. No caso, verifica-se a inexistência, no estado do Piauí, à época, de lei ordinária que regulamentasse a equiparação de vencimentos entre delegados de polícia e defensores públicos. Assim, aplicável a Súmula 339 desta Corte, que preceitua: "não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia". Ação julgada procedente” (AR nº 1.598/PI, Tribunal Pleno, Relator o Ministro Joaquim Barbosa, DJe de 15/5/09).
+Por todo o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 6 de abril de 2010.
+Ministro DIAS TOFFOLI
+Relator
