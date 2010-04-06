@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido porta a seguinte ementa:
+“AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA – VÍNCULO DE EMPREGO. TERCEIRIZAÇÃO ILÍCITA – VERBAS RESCISÓRIAS – ADICIONAL DE PERICULOSIDADE. INCIDÊNCIA – MULTA DO ARTIGO 447, § 8º, DA CLT – RECOLHIMENTOS FISCAIS E PREVIDENCIÁRIOS. Nega-se provimento ao Agravo de Instrumento que não logra desconstituir os fundamentos do despacho que denegou seguimento ao Recurso de Revista. Agravo de Instrumento a que se nega provimento” (fl. 224).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, XLV, LIV e LV, e 175, da mesma Carta.
+O agravo não merece acolhida. É que, à exceção do art. 5º, II, LIV e LV, da Constituição, os demais dispositivos não foram prequestionados. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ademais, o Tribunal de origem decidiu a causa nos seguintes termos:
+“O Regional, à luz do art. 9º da CLT, da Súmula 331 do TST e com base no conjunto fático-probatório, reconheceu a existência do vínculo de emprego diante da conclusão de que era indiscutível que os serviços contratados pela recorrente estavam inseridos na sua atividade-fim. Constatou a existência de fraude, motivo pelo qual considerou nulo o contrato firmado entre as Reclamadas.
+Verifica-se, portanto, que a discussão quanto à licitude ou não na terceirização depende do reexame do conjunto fático-probatório dos autos já analisado soberanamente pelo Regional, procedimento incabível nesta fase extraordinária, por óbice intransponível na Súmula 126 do TST” (fl. 227).
+Ou seja, para dissentir do acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que inviabiliza o recurso extraordinário, a teor da Súmula 279 do STF.
+Outrossim, como se sabe, este Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva o reexame de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Por fim , a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 6 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
