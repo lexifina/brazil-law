@@ -1,0 +1,50 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário. Este o teor da decisão agravada:
+
+“Trata-se de recurso extraordinário interposto contra acórdão que afastou a limitação para restituição ou compensação de pagamento ou recolhimento indevido de contribuição para a seguridade social arrecadada pelo INSS, conforme previsto no art. 89 da Lei 8.212/91, com as alterações conferidas pelas Leis 9.032/95 e 9.129/95.
+
+Para tanto, o acórdão impugnado entendeu que a declaração de inconstitucionalidade pelo STF da contribuição previdenciária cuja compensação se pleiteia dá direito à restituição in totum do que foi pago ou recolhido, ante a ineficácia plena da lei que instituiu o tributo.
+
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXVI, e 97 da mesma Carta.
+
+Preliminarmente, deixo de examinar a repercussão geral das questões constitucionais discutidas no caso. É que esta Corte, reunida em Sessão Plenária, resolveu Questão de Ordem no AI 664.567, Rel. Min. Sepúlveda Pertence, ao entendimento de que ‘a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007’ (Ata de julgamento publicada em 26/6/2007).
+
+A pretensão recursal não merece acolhida. O acórdão recorrido decidiu a questão com base na legislação ordinária. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 531.160-AgR/PR, Rel. Min. Sepúlveda Pertence; AI 508.279-AgR/BA, Rel. Min. Carlos Velloso; AI 568.664/PR, Rel. Min. Eros Grau.
+
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput)” (fls. 349-350).
+
+A agravante sustenta, em suma, que a decisão agravada deve ser reformada, insistindo, dessa forma, no processamento do recurso extraordinário.
+
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que a recorrente não aduziu novos argumentos capazes de afastar as razões nela expendidas.
+
+Conforme afirmado na decisão agravada, a questão relativa aos limites da compensação de tributos declarados inconstitucionais pelo Supremo Tribunal Federal foi decidida com base na interpretação de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+
+Ao analisar a questão, da mesma forma como posta nestes autos, ambas as Turmas deste Tribunal têm adotado o entendimento da decisão agravada. Nesse sentido, transcrevo as seguintes ementas:
+
+“Agravo regimental em agravo de instrumento. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Compensação de contribuição previdenciária. Controvérsia decidida pelo Tribunal de origem com base em normas infraconstitucionais. Leis nos 9.032 e 9.129, ambas de 1995. Ofensa reflexa. Precedentes. 4. Agravo regimental a que se nega provimento” (AI 541.448-AgR/RS, Rel. Min. Gilmar Mendes, Segunda Turma).
+
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO PREVIDENCIÁRIA. COMPENSAÇÃO. IMPRESCINDÍVEL EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA.
+Controvérsia afeta à interpretação de norma infraconstitucional. Eventual ofensa à Constituição Federal adviria, quando muito, de forma indireta.
+Agravo regimental a que se nega provimento” (AI 498.737-AgR/BA, Rel. Min. Eros Grau, Primeira Turma).
+
+No mesmo sentido, menciono as seguintes decisões, entre outras: AI 531.160-AgR/PR, Rel. Min. Sepúlveda Pertence; AI 508.279-AgR/BA, Rel. Min. Carlos Velloso; AI 487.948-AgR/PR, Rel. Min. Cezar Peluso.
+
+Ademais, quanto ao art. 97 da Constituição Federal, a pretensão recursal não merece acolhida. O acórdão do Tribunal de origem apenas analisou a legislação infraconstitucional pertinente e delimitou seu âmbito de incidência. Não houve, no caso, declaração de inconstitucionalidade de diploma legislativo por parte de órgão fracionário.
+
+Por fim, observe-se que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal:
+
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+
+Publique-se.
+
+Brasília, 6 de abril de 2010.
+
+Ministro RICARDO LEWANDOWSKI
+- Relator –
+
+1
