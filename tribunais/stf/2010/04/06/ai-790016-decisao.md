@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, e 37, da mesma Carta, bem como ao art. 34, § 12º, do ADCT.
+O agravo não merece acolhida. Isso porque, a apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, anote-se:
+“1. Empréstimo compulsório sobre energia elétrica instituído pela L. 4.156/61: exigibilidade, nos termos do art. 34, § 12, ADCT (RE 146.615, Corrêa, Pleno, 30.6.95). 2. Recurso extraordinário: descabimento: questões relativas ao prazo de prescrição dos créditos da agravada, à incidência da correção monetária, aos juros e à taxa Selic, de âmbito infraconstitucional; alegada ofensa aos dispositivos constitucionais dados como violados, que, se houvesse, seria indireta ou reflexa: incidência do princípio da Súmula 636. 3. Agravo regimental manifestamente infundado: condenação da agravada ao pagamento de multa, nos termos do art. 557, § 2º, C.Pr.Civil” (AI 618.070-AgR/RS, Rel. Min. Sepúlveda Pertence, Primeira Turma).
+“EMPRÉSTIMO COMPULSÓRIO. ENERGIA ELÉTRICA. RESTITUIÇÃO. CORREÇÃO MONETÁRIA E JUROS. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO” (AI 557.659-AgR/RS, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EMPRÉSTIMO COMPULSÓRIO. ENERGIA ELÉTRICA. LEI N. 4.156/62. DEVOLUÇÃO. CORREÇÃO MONETÁRIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. Controvérsia relativa aos critérios de correção monetária utilizados para a devolução do empréstimo compulsório incidente sobre o consumo de energia elétrica, instituído pela Lei n. 4.156/62. Matéria de índole infraconstitucional. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento” (AI 578.377-AgR/SC, Rel. Min. Eros Grau, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 6 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
