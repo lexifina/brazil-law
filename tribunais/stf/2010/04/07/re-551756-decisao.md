@@ -1,0 +1,23 @@
+DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão que versa sobre a limitação temporal do reajuste de 84,32%, do funcionalismo público distrital, tendo como base as legislações locais nos 38/89 e 117/90.
+O julgado está assim ementado, no que interessa:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS DO DISTRITO FEDERAL. REAJUSTE DE 84,32%. PLANO COLLOR. LIMITAÇÃO TEMPORAL. NÃO-CABIMENTO.
+1. O Superior Tribunal de Justiça mantém o entendimento no sentido de que os servidores públicos do Distrito Federal têm direito adquirido ao reajuste de 84,32% correspondente ao IPC de março de 1990, previsto na Lei Distrital 38/89, uma vez que este percentual já havia sido incorporado ao patrimônio dos servidores quando editada a Lei Distrital 117/90, que revogou aquela lei, sendo indevida a limitação temporal de percepção do reajuste ao período de vigência da Lei Distrital 38/89. Precedentes.
+2. Agravo regimental improvido.” (fls. 291. Grifos nossos).
+ Alega o recorrente, com fundamento no art. 102, III, a, da Constituição da República, violação aos seus arts. 5º, II; 37, caput e XXXVI. Sustenta, em suma, que o julgado, ao afastar o limite temporal à percepção dos 84,32%, teria conferido aos recorridos infinita incorporação deste reajuste.
+2.  Consistente o recurso.
+ A postura do acórdão impugnado, quanto ao direito adquirido, está em conformidade com a jurisprudência assentada da Corte sobre o tema, e bem refletida às seguintes ementas exemplares:
+“(...)
+- O reajuste de vencimentos de servidores do Distrito Federal, assegurado pela Lei distrital nº 38/89, só veio a ser revogado pela Lei distrital nº 117, de 23 de julho de 1990, época em que o percentual de 84,32%, correspondente à inflação apurada no período de 16 de fevereiro a 15 de marco de 1990, já se integrara ao patrimônio jurídico dos agentes públicos locais. Precedente: RE nº 159.228, Rel. Min. CELSO DE MELLO” (RE nº 177.599, Rel. Min. CELSO DE MELLO, DJ de 20.04.95);
+“VENCIMENTOS - REAJUSTE - PLANO COLLOR - 84,32% - DISTRITO FEDERAL. O direito dos servidores do Distrito Federal ao reajuste dos vencimentos previsto na Lei local nº 38/89 somente foi afastado em 23 de julho de 1990, pela edição da Lei nº 117, não se lhes aplicando a Lei Federal nº 8.030/90.
+Votação unânime” (RE nº 186.001, Rel. Min. MARCO AURÉLIO, DJ de 22.09.95);
+“DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. SERVIDORES PÚBLICOS DO DISTRITO FEDERAL. REAJUSTE SALARIAL (84,32%). INAPLICABILIDADE DA LEI FEDERAL Nº 8.030/90. AGRAVO.
+1. Ambas as Turmas do Supremo Tribunal Federal firmaram sua jurisprudência, com base nos precedentes referidos na decisão agravada, no sentido de que ‘o reajuste de vencimentos de servidores do Distrito Federal, assegurado pela Lei distrital nº 38/89, só veio a ser revogado pela Lei distrital nº 117, de 23 de julho de 1990, época em que o percentual de 84,32%, correspondente à inflação apurada no período de 16 de fevereiro a 15 de março de 1990, já se integrara no patrimônio jurídico dos agentes públicos locais’, não se lhes aplicando, portanto, a Lei Federal nº 8.030/90. Precedentes.
+2. Agravo improvido. Recurso não conhecido” (RE nº 252.859-AgR, Rel. Min. SYDNEY SANCHES, DJ de 16.11.2001).
+Daí se vê que este Tribunal reconheceu o reajuste de 84,32% aos servidores públicos do Distrito Federal, em respeito ao princípio do direito adquirido, porque houvera transcorrido o período aquisitivo, qual seja, o trintídio compreendido entre fevereiro e março de 1990. Assim, os elementos tidos pela Lei distrital nº 38/89 como necessários à apuração do percentual correspondente à inflação já se achavam consumados à data de sua revogação, em 23.7.90, pela Lei nº 117/90, a qual imprimiu mudança nos vencimentos do funcionalismo local.
+Nesse sentido, necessária a limitação temporal, porque, uma vez implementada mudança na política salarial, não há falar em novos reajustes, nos termos da legislação revogada. Mas, o reajuste de 84,32%, previsto para março de 1990, “já se integrara ao patrimônio jurídico dos agentes públicos locais” quando sobreveio a alteração legislativa.
+Noutras palavras, a pretensão de continuidade de pagamento na forma da legislação revogada esbarra na jurisprudência desta Corte, que não reconhece direito adquirido do servidor público a regime jurídico-funcional, nem à permanência do regime legal de reajuste de vantagem (RE nº 294.009-AgR, da minha lavra, DJ de 2.3.2004).
+3.  Ante o exposto, nos termos do art. 557, § 1º-A, do CPC, conheço do recurso extraordinário e dou-lhe provimento, para restabelecer o julgado de segundo grau.
+ Publique-se. Int..
+ Brasília, 7 de abril de 2010.
+Ministro CEZAR PELUSO
+Relator
