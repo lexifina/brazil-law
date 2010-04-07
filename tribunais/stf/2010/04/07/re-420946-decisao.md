@@ -1,0 +1,50 @@
+DECISÃO
+Vistos.
+A CAIXA ECONÔMICA FEDERAL interpõe recurso extraordinário (folhas 83 a 87) contra acórdão proferido pela Terceira Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“SFH. REAJUSTE DAS PRESTAÇÕES. MUTUÁRIO SEM CATEGORIA PROFISSIONAL ESPECÍFICA. ADOÇÃO DA VARIAÇÃO DO SALÁRIO MÍNIMO COMO LIMITADOR DA TAXA DE REMUNERAÇÃO DA POUPANÇA. SÚMULA 39 DESTA CORTE.
+Nos termos da súmula n° 39 desta corte, nos contratos com cláusula PES/CP, a variação salarial da categoria profissional funciona como limitador no reajuste das prestações mensais do contrato de mútuo e, não tendo o mutuário categoria profissional específica, esse limitador é a variação do salário mínimo” (folha 70).
+Insurge-se, no apelo extremo, fundado na alínea “a”, do permissivo constitucional, contra alegada contrariedade ao artigo 7º, inciso IV, da Constituição Federal, em razão de ter sido acolhida a pretensão dos recorridos, no sentido de manter como limitador no reajuste das prestações mensais do contrato celebrado entre as partes, a variação do salário mínimo.
+Processado sem contrarrazões (folha 93v), o recurso foi admitido na origem (folhas 94), o que ensejou a subida dos autos a esta Suprema Corte.
+O recurso especial paralelamente interposto já foi definitivamente rejeitado pelo Superior Tribunal de Justiça (folhas 102 a 106).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 11/9/02, conforme expresso na certidão de folha 71, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação, contudo, não merece prosperar.
+E isso porque a análise acerca da alegada violação do princípio constitucional objeto do presente recurso demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como de normas infraconstitucionais utilizadas na fundamentação da decisão recorrida, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõe a Súmula 279 do STF.
+De fato, assim restou fundamentada a decisão recorrida quanto ao acolhimento da pretensão deduzida pelos recorridos:
+“O contrato foi firmado em 28 de setembro de 1.992, com previsão de reajuste das prestações pelo PES-CP e percentual máximo de comprometimento de renda familiar de 35%. Constou como categoria profissional a ser observada a de ‘afins aos autônomos e assemelhados’.
+O contrato foi celebrado sob a égide da Lei n° 8.004/90 que alterou a redação do artigo 9°, § 4°, do Decreto-Lei n° 2.164/84 para determinar a aplicação do IPC no reajuste das prestações de devedores autônomos ou afins. Não obstante, a parte ré, conforme relata em sua apelação, aplicou as Leis n°s 8.222/91, 8.419/92 e 8.542/92, referentes à Política Nacional de Salários e, a partir de julho de 1.995, com a extinção dessa política, passou a utilizar a taxa de remuneração básica aplicável aos depósitos de caderneta de poupança.
+Assinale-se neste passo que o contrato, na cláusula 10ª, § 1°, admitia o reajuste mensal das prestações mediante a aplicação da taxa de remuneração básica aplicável aos depósitos de poupança. Nos termos do § 2°, da mesma cláusula, os percentuais de reajustes mensais seriam deduzidos dos percentuais de reajuste previstos no caput da cláusula, qual seja, a taxa de remuneração básica aplicável aos depósitos de poupança em período que levava em consideração a data base da categoria profissional do mutuário. Finalmente, o § 3° da mesma cláusula facultava à CEF aplicar, em substituição aos percentuais mensais e ao previsto no caput o índice de aumento salarial da categoria profissional do devedor, quando conhecido.
+Nesse contexto, ou seja, prevendo o contrato a aplicação da cláusula PES/CP, com faculdade de aplicação do aumento salarial da categoria profissional e estabelecimento de um percentual máximo de comprometimento da renda familiar, este e. TRF da 4ª Região, como forma de prestigiar o princípio da boa-fé e a expectativa gerada no momento da assinatura do contrato de que o reajuste das prestações guardaria vinculação com a variação salarial da categoria profissional, tem assegurado que a variação do salário mínimo, no caso de autônomos e afins, funcione como um limitador no reajuste das prestações, e não como indexador, razão pela qual não se ofende o disposto no artigo 7°, inciso IV, da Constituição Federal nem o disposto na Lei n° 7.789/89” (fls. 67/68).
+No sentido dessa conclusão, citem-se os seguintes precedentes:
+“Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Falta de prequestionamento de dispositivos constitucionais. Matéria que não foi abordada nas razões de apelação ou mesmo em embargos declaratórios. Agravo regimental a que se nega provimento” (AI nº 491.543/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 29/6/07).
+“O acórdão recorrido decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa. 2. Decidir de maneira diferente do que deliberado pelo tribunal a quo demandaria o reexame de fatos e provas da causa, ante a incidência da Súmula STF 279. 3. Agravo regimental improvido” ( RE nº 544.373/ES-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 7/8/09).
+Especificamente sobre o tema ora em debate, podem ser citadas, ainda, as seguintes decisões monocráticas:
+“1. Trata-se de recurso extraordinário por alegada ofensa ao art. 7º, IV, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, nos seguintes termos (fls. 226-228):
+‘SISTEMA FINANCEIRO DA HABITAÇÃO. MUTUÁRIO AUTÔNOMO. VARIAÇÃO DO SALÁRIO MÍNIMO. SEGUROS. LEI 4.380/64. DL 70/66.
+1. Ainda que o critério pactuado tenha sido outro, em se tratando de mutuário autônomo, os reajustes das prestações devem limitar-se à variação do salário-mínimo a fim de se assegurar a proporcionalidade entre a evolução da prestação inicial e a renda, que é a essência do Plano de Equivalência Salarial pactuado entre as partes.
+2. Os seguros no SFH foram legalmente impostos pela Lei 4.380/64 e DL 70/66.
+3. Apelações improvidas.’
+2. O Ministério Público Federal opinou pelo não-conhecimento do recurso.
+   3. Com efeito, verifica-se que o recurso extraordinário versa sobre a interpretação de cláusulas do contrato do Sistema Financeiro de Habitação firmado entre as partes, o que colide com a Súmula STF 454. Assim, eventual ofensa ao texto constitucional se daria de forma indireta, sem margem para o cabimento do apelo extremo.
+4. Ressalte-se que, contra acórdão ora impugnado, a recorrente interpôs, também, recurso especial, ao qual o Superior Tribunal de Justiça, em decisão transitada em julgado, negou provimento, a partir do cotejo de normas infraconstitucionais, nas quais fundou o acórdão recorrido, hipótese que inviabiliza o trânsito do recurso extraordinário (fls. 302-306).
+Veja-se, ainda, sobre o tema: RE 252.552-AgR, rel. Min. Ilmar Galvão, 1ª Turma, unânime, DJ 28.04.2000; e AI 652.257-AgR, rel. Min. Celso de Mello, 2ª Turma, unânime, DJe 02.08.2007, entre outros julgados.
+5. Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+ Publique-se” (RE nº 463.334/RS, Relatora a Ministra Ellen Gracie, DJe de 11/2/10).
+“Trata-se agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal Regional Federal da 4ª Região, cuja ementa tem o seguinte teor (fls. 33):
+‘SFH. PLANO DE EQUIVALÊNCIA SALARIAL. AUTÔNOMO.
+Tendo ficado comprovado nos autos que a CEF vinha reajustando as prestações pelos índices contratados (PES/CP), inviável a pretendida revisão da obrigação mensal.
+Sendo o autor profissional autônomo, o reajuste das prestações do contrato deverá obedecer a política salarial, e, mais especificamente, o índice das categorias com data-base em março, afastada a indexação ao salário mínimo, diante da vedação constitucional e da maior lesividade à parte hipossuficiente, que dessa indexação é decorrente.
+A equivalência da prestação em número de salários mínimos, ao longo da contratualidade, servirá, porém, diante da expressa previsão contratual, como teto a balisar o valor do encargo mensal.
+Apelação parcialmente provida.’
+No recurso extraordinário, alega a ora agravante violação ao disposto no art. 7º, IV, da Constituição. Sustenta que o acórdão recorrido desconsiderou a previsão contratual e determinou a utilização da variação do salário mínimo como limitador ao reajuste da prestação mensal do contrato de mútuo.
+A controvérsia se resolve na esfera infraconstitucional, visto que, à época da contratação, o art. 9º, § 4º, do Decreto-Lei 2.164/1984 expressamente estabelecia que, no caso de trabalhadores autônomos, a forma de reajustamento das parcelas seria o salário mínimo, tendo a jurisprudência mantido o parâmetro.
+Assim, as questões constitucionais invocadas no recurso extraordinário são alegações de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do apelo extremo.
+Nesse sentido, o RE 405.160 (rel. min. Carlos Velloso, DJ de 11.04.2005) e o AI 158.776-AgR (rel. Min. Celso de Mello, DJ de 31.08.2001).
+Ademais, para análise da matéria constitucional suscitada, seria necessário o reexame prévio da interpretação das cláusulas contratuais adotada na decisão recorrida. Isso inviabiliza o processamento do recurso extraordinário, em razão da vedação contida na Súmula 454 desta Corte.
+Do exposto, nego seguimento ao agravo.
+Publique-se” (RE nº 571.360/RS, Relator o Ministro Joaquim Barbosa, DJe de 4/2/10).
+Ante o exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 7 de abril de 2010.
+Ministro DIAS TOFFOLI
+Relator
