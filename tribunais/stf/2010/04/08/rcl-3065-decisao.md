@@ -1,0 +1,25 @@
+DECISÃO : Assim relatei esta reclamação por ocasião do exame da medida liminar pleiteada:
+“Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo ESTADO DO RIO GRANDE DO NORTE em face de ato do Juiz de Direito da 2a Vara de Fazenda Pública da Comarca de Natal-RN, que, nos autos de ação ordinária, determinou “implantar em contracheque o índice de 11,98%, sem levar em consideração as devidas compensações e sem estabelecer limite temporal” (fls. 3). Informa que a ação ordinária foi julgada procedente e confirmada pelo Tribunal de Justiça. O ato ora atacado teria surgido “[i]nexplicavelmente, após a sentença e sem julgar os embargos” (fls. 2).
+Sustenta o reclamante que a determinação do juiz afronta o julgado desta Corte proferido na ADI 1.797, em que foram estabelecidos limites temporais para a aplicação das diferenças bem como a compensação com os aumentos salariais concedidos pelo estado.
+Afirma, ainda, que os servidores integram o quadro da Administração direta, tendo sido beneficiados por leis e reajustes espontâneos, não considerados para efeitos de compensação das perdas salariais.
+Sustenta estarem preenchidos os requisitos necessários para a concessão da liminar.
+Solicitadas informações à autoridade reclamada, as mesmas foram prestadas às fls. 51-53.” (Fls. 68).
+A medida liminar foi deferida (Fls. 68-69).
+O procurador-geral da República, no parecer de fls. 79-81, manifesta-se pela improcedência da reclamação, nos seguintes termos:
+“Em verdade, a decisão proferida pelo reclamado em nenhum momento afrontou a decisão da ADIn nº 1.797/PE. Neste decisum, o Pretório Excelso se limitou a determinar interpretação conforme à Constituição de uma decisão administrativa do TRT da 6ª Região, que, por coincidência, tratava de objeto idêntico ao examinado pela decisão reclamada. Assim, somente seria procedente a reclamação caso o magistrado, ao prolatar sua decisão, o fizesse com fulcro na decisão administrativa citada.
+Ademais, a enfraquecer o argumento de procedência da reclamação, ressalte-se que o ato objeto da ADIn nº 1.797/PE e o que originou a presente reclamação são de distintos entes da Federação, Pernambuco e Rio Grande do Norte, respectivamente, de forma que a eventual alteração de um não implica em vinculação do outro. Aponte-se, ainda, que, enquanto na referida ação direta se atacou um ato administrativo, no presente feito se ataca um ato judicial.
+Acrescente-se que, pela sistemática atual, não se pode afirmar o descumprimento de decisão da Suprema Corte, cuja autoridade se possa impor na via da reclamação, se essa se referia a ato de conteúdo similar, muito embora tais fundamentos possam ser utilizados, como razões, no julgamento de eventual ação direta da inconstitucionalidade.”
+Intimado a manifestar-se sobre a subsistência do interesse processual e do objeto desta reclamação (Fls. 83), o estado-reclamante quedou inerte (Fls. 85/87).
+É o relatório.
+Decido.
+Correto o parecer do procurador-geral da República, que ressalta a inexistência de ofensa ao decidido por esta Corte no julgamento da ADI 1.797, dado o restrito alcance dessa decisão, somente aplicável aos membros e servidores do Tribunal Regional do Trabalho da 6ª Região, situado no estado de Pernambuco. Nesse sentido, há diversos pronunciamentos monocráticos desta Corte (Rcl 2.916, rel. min. Gilmar Mendes, DJ de 17.05.2006; Rcl 2.990, rel. min. Sepúlveda Pertence, DJ de 05.04.2005; Rcl 2.967, rel. min. Carlos Britto, DJ de 29.11.2005; Rcl 3.742, rel. min. Carlos Velloso, DJ de 28.09.2005, v.g.)
+Confiram-se, por oportuno, os seguintes precedentes firmados pelo Plenário desta Corte:
+“EMENTA: AGRAVO REGIMENTAL EM RECLAMAÇÃO. VENCIMENTOS. SERVIDOR PÚBLICO ESTADUAL. URV. INAPLICABILIDADE DO ENTENDIMENTO SEDIMENTADO NA ADI 1.797/PE. LIMITAÇÃO TEMPORAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - O objeto da ADI 1.797/PE é ato administrativo restrito aos membros e servidores do Tribunal Regional do Trabalho (6a Região), matéria estranha à debatida nestes autos. Ausência de identidade material. Precedente: Rcl 2.916/RN, Rel. Min. Gilmar Mendes. II - O entendimento firmado na ADI 1.797/PE foi superado no julgamento da ADI 2.323-MC/DF, Rel. Min. Ilmar Galvão, pois não se trata de reajuste ou aumento de vencimentos. Incabível, portanto, a limitação temporal. III - Agravo regimental improvido.” (Rcl 3.742-AgR, rel. min. Ricardo Lewandowski, Pleno, DJe de 15.08.2008);
+“EMENTA: AGRAVO REGIMENTAL NA RECLAMAÇÃO. ADMINISTRATIVO. URV. ALEGAÇÃO DE AFRONTA AO QUE DECIDIDO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE 1.797. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Inexistência de identidade material entre a decisão reclamada e o julgado tido como paradigma. Precedentes.” (Rcl 5.259-AgR, rel. min. Cármen Lúcia, Pleno, DJe de 11.12.2009).
+Do exposto, com fundamento no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento à reclamação e, por conseguinte, casso a liminar de fls. 68-69.
+Comunique-se.
+Publique-se.
+Certificado o trânsito em julgado da decisão, arquivem-se os autos.
+Brasília, 08 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
