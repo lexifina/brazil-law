@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido porta a seguinte ementa:
+“AGRAVO DE INSTRUMENTO – Caderneta de Poupança – Medida Cautelar – Exibição de Documentos – Apelação – Efeitos – CPC, arts. 520, IV e 558 – Lesão grave – Difícil reparação – Demonstração – Inocorrência – Recurso improvido – Pedido de reconsideração prejudicado” (fl. 171).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, XXXIV, XXXVI, LIV e LV, 37, caput, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. É que à exceção do art. 5º, LIV e LV, da Constituição os demais dispositivos não foram prequestionados. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ademais, bem examinados os autos, verifico que o acórdão recorrido decidiu a questão com base em normas processuais (CPC, art. 520, IV). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 562.212/RS, de minha relatoria; AI 592.110/RJ, Rel. Min. Cezar Peluso; AI 645.007/RS, Rel. Min. Cármen Lúcia; AI 524.388/RS, Rel. Min. Marco Aurélio.
+Ainda que superados tais óbices, o recurso não prosperaria. É que, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, a exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador diga de forma clara e concisa as razões de seu convencimento, tal como ocorreu.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 8 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
