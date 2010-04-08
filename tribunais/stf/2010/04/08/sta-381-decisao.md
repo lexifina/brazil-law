@@ -1,0 +1,31 @@
+DECISÃO: Trata-se de pedido de suspensão de tutela antecipada formulado pelo Estado do Ceará, com a finalidade de sustar os efeitos da decisão proferida pelo Juízo da 5ª Vara da Fazenda Pública da Comarca de Fortaleza, que, nos autos da Ação Ordinária nº 2005.0009.6391-9, determinou “a imediata suspensão de todos os atos decorrentes do Processo Administrativo Disciplinar nº 18/2002, bem como que sejam suspensos todos os efeitos do mesmo, determinando a permanência do promovente no exercício de seu cargo até ulterior deliberação deste Juízo” (fl. 319 do Apenso 2).
+Cumpre salientar que o requerente formulara pedido análogo perante a Presidência do Tribunal de Justiça do Estado do Ceará, não tendo obtido êxito em sua postulação.
+Segundo o relato da petição inicial, José Edilson de Oliveira Sobrinho, Delegado de Polícia Civil do Estado do Ceará, ajuizou ação ordinária, com o escopo de desconstituir a portaria que determinou a instauração de processo disciplinar para a apuração da suposta prática, pelo autor, de transgressão disciplinar tipificada pela Lei Estadual nº 12.124/1993 (Estatuto da Polícia Civil).
+Afirma o autor não ter sido intimado para apresentar defesa no curso da sindicância que culminou na instauração do referido processo disciplinar.
+O Juízo da 5ª Vara da Fazenda Pública da Comarca de Fortaleza deferiu o pedido de medida liminar, com a consequente suspensão do curso do processo administrativo disciplinar (fls. 316-319 do Apenso 2).
+A presente suspensão de tutela antecipada baseia-se em argumentos de lesão à ordem e à segurança públicas.
+Afirma o requerente que a decisão impugnada impediria o regular exercício do poder disciplinar pelo Estado do Ceará, além de representar indevida intervenção do Poder Judiciário na esfera administrativa.
+Sustenta, ademais, que o autor da ação principal teria sido intimado de todas as audiências realizadas, não tendo comparecido a nenhuma delas.
+Aponta, por fim, o potencial efeito multiplicador da decisão impugnada.
+Decido.
+ A base normativa que fundamenta o instituto da suspensão (Leis nº 12.016/09, nº 8.437/92, nº 9.494/97 e art. 297 do RI-STF) permite que a Presidência do Supremo Tribunal Federal, a fim de evitar grave lesão à ordem, à saúde, à segurança e à economia públicas, suspenda a execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, quando a discussão travada na origem for de índole constitucional.
+Assim, é a natureza constitucional da controvérsia que justifica a competência do Supremo Tribunal Federal para apreciar o pedido de contracautela, conforme a pacificada jurisprudência desta Corte, destacando-se os seguintes julgados: Rcl-AgR nº 497, Rel. Carlos Velloso, DJ 6.4.2001; SS-AgR nº 2.187, Rel. Maurício Corrêa, DJ 21.10.2003; e SS nº 2.465, Rel. Nelson Jobim, DJ 20.10.2004.
+Na ação de origem, discute-se a interpretação e a aplicação dos arts. 2º e 5º, LV, da Constituição. Não há dúvida, portanto, de que a matéria discutida na origem reveste-se de índole constitucional.
+Feitas essas considerações preliminares, passo à análise do pedido, o que faço apenas e tão somente com base nas diretrizes normativas que disciplinam as medidas de contracautela. Ressalte-se, não obstante, que, na análise do pedido de suspensão de decisão judicial, não é vedado ao Presidente do Supremo Tribunal Federal proferir um juízo mínimo de delibação a respeito das questões jurídicas presentes na ação principal, conforme tem entendido a jurisprudência desta Corte, da qual se destacam os seguintes julgados: SS-AgR 846, Rel. Sepúlveda Pertence, DJ 29.5.96; SS-AgR 1.272, Rel. Carlos Velloso, DJ 18.5.2001.
+Nesse sentido, em mero juízo de delibação, cumpre afirmar que a jurisprudência deste Supremo Tribunal Federal é pacífica no sentido de não ser obrigatória a observância do contraditório e da ampla defesa no curso da sindicância.
+Eis a ementa do acórdão proferido no Mandado de Segurança nº 22.791, Rel. Cezar Peluso, DJ 13.11.2003:
+SERVIDOR PÚBLICO. Pena. Demissão. Penalidade aplicada ao cabo de processo administrativo regular. Suposto cerceamento de ampla defesa e do contraditório na sindicância. Irrelevância teórica. Procedimento preparatório inquisitivo e unilateral. Não ocorrência, ademais. Servidor ouvido em condição diversa da testemunhal. Nulidade processual inexistente. Mandado de segurança denegado. Interpretação dos arts. 143, 145, II, 146, 148, 151, II, 154, 156 e 159, caput e § 2º, todos da Lei federal n.º 8.112/90. A estrita reverência aos princípios do contraditório e da ampla defesa só é exigida, como requisito essencial de validez, assim no procedimento administrativo ordenado à aplicação daquelas duas penas mais brandas, que são a advertência e a suspensão por prazo não superior a trinta dias. Nunca, na sindicância que funcione apenas como investigação preliminar tendente a colidir, de maneira inquisitorial, elementos bastantes à imputação de falta de servidor, em processo disciplinar subseqüente.
+No mesmo sentido o acórdão prolatado no Mandado de Segurança nº 22.122, Rel. Celso de Mello, DJ 18.10.1995.
+Desse modo, a decisão impugnada, ao impedir a continuidade do processo administrativo disciplinar, sem justa causa para tanto, violou a ordem pública, em sua acepção jurídico-administrativa, por impedir o legítimo exercício pelas autoridades constituídas de competências que lhe são próprias.
+Nesse sentido, cumpre registrar que, para fixar o que se deve entender por ordem pública no pedido de suspensão, a jurisprudência deste Supremo Tribunal Federal tem adotado entendimento formado ainda no âmbito do Tribunal Federal de Recursos a partir do julgamento da SS 4.405, Rel. Néri da Silveira,segundo o qual estaria inserto no conceito de ordem pública o de ordem administrativa em geral, concebida esta como a normal execução dos serviços públicos, o regular andamento das obras públicase o devido exercício das funções da Administração pelas autoridades constituídas.
+Ante o exposto, defiro o pedido para suspender os efeitos da decisão proferida pelo Juízo da 5ª Vara da Fazenda Pública da Comarca de Fortaleza, nos autos da Ação Ordinária nº 2005.0009.6391-9.
+Comunique-se.
+Publique-se.
+Brasília, 8 de abril de 2010.
+
+Ministro GILMAR MENDES
+Presidente
+
+1
+
+1
