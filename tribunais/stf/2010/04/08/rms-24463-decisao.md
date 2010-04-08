@@ -1,0 +1,30 @@
+DECISÃO: O presente recurso ordinário insurge-se contra decisão denegatória de mandado de segurança, proferida pelo E. Superior Tribunal de Justiça e consubstanciada em acórdão assim ementado (fls. 172):
+“PROCESSO CIVIL E ADMINISTRATIVO - MANDADO DE SEGURANÇA - TDA - VALORES PAGOS DESCONSIDERANDO OS JUROS E CORREÇÃO MONETÁRIA QUE OS IMPETRANTES ENTENDEM DEVIDAS - DECADÊNCIA DE PARTE DO PEDIDO RECONHECIDA PELA DIGNA RELATORA – PETIÇÃO JUNTADA POR LINHA INFORMANDO RECENTE JULGADO DA 1ª TURMA DO SUPREMO TRIBUNAL FEDERAL, QUE, EXAMINANDO HIPÓTESES SEMELHANTES À DOS AUTOS, CONTA O PRAZO DECADENCIAL DO INDEFERIMENTO DO PEDIDO ADMINISTRATIVO PARA INCLUSÃO DOS ACRÉSCIMOS - PETIÇÃO JUNTADA POR LINHA DEMONSTRANDO O MOMENTO DO CRÉDITO DOS VALORES CONTESTADOS – EXTINÇÃO DO PROCESSO EM RELAÇÃO À MAIORIA DOS TÍTULOS, EM VIRTUDE DA DECADÊNCIA.”
+(MS 7.995/DF, Rel. Min. ELIANA CALMON - grifei)
+O Ministério Público Federal, em promoção da lavra do eminente Subprocurador-Geral da República, Dr. PAULO DE TARSO BRAZ LUCAS, opinou pelo improvimento do presente recurso ordinário, fazendo-o em parecer assim ementado (fls. 225):
+“RECURSO ORDINÁRIO – MANDADO DE SEGURANÇA – TDA’S - RESÍDUO DE CORREÇÃO MONETÁRIA (PLANOS BRESSER E COLLOR II) E JUROS - TÍTULOS RESGATADOS MUITO TEMPO ANTES DOS 120 ANTERIORES À DATA DO AJUIZAMENTO DO ‘WRIT’ - RECONHECIMENTO DA DECADÊNCIA DO DIREITO À IMPETRAÇÃO - AÇÃO DE COBRANÇA (SÚMULA 269-STF) - PARECER PELO IMPROVIMENTO DO RECURSO.” (grifei)
+Sendo esse o contexto, passo a apreciar o presente recurso ordinário. E, ao fazê-lo, entendo assistir plena razão à douta Procuradoria Geral da República.
+É que se consumou a decadência do direito da ora recorrente de impetrar, “opportuno tempore”, o remédio constitucional do mandado de segurança, como claramente resulta da análise da presente causa.
+Com efeito, em situações assemelhadas à destes autos, a jurisprudência do Supremo Tribunal Federal firmou entendimento no sentido de que a contagem do prazo decadencial para a oportuna impetração do mandado de segurança, no qual se discuta reposição dos expurgos inflacionários em títulos da dívida agrária, inicia-se com o resgate de tais títulos (RMS 24.093-AgR/DF, Rel. Min. NELSON JOBIM – RMS 24.215/DF, Rel. Min. CARLOS VELLOSO – RMS 24.490/DF, Rel. Min. NELSON JOBIM):
+“RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRAZO DECADENCIAL PARA IMPETRAÇÃO.
+Decadência do direito de impetrar mandado de segurança (art. 18 da Lei 1.533/1951). Impetração, no ano de 2000, para pleitear diferença relativa a expurgos inflacionários em títulos da dívida agrária resgatados em 1997.
+Recurso a que se nega provimento.”
+(RMS 24.264/DF, Rel. Min. JOAQUIM BARBOSA - grifei)
+Cumpre observar, a esse propósito, que o preceito inscrito no art. 23 da Lei nº 12.016/2009 - que delimita o âmbito temporal de impetração do mandado de segurança - não ostenta qualquer eiva de inconstitucionalidade. Foi por essa razão que o Supremo Tribunal Federal, ao analisar o art. 18 da revogada Lei nº 1.533/51 (que foi fielmente reproduzido pelo art. 23 da Lei nº 12.016/2009), veio a proclamar, em reiteradas decisões, a recepção dessa norma legal pela vigente Constituição da República (RTJ 142/161 - RTJ 156/506):
+“Não ofende a Constituição a norma legal que estipula prazo para a impetração do mandado de segurança. A circunstância de a Constituição da República nada dispor sobre a fixação de prazo para efeito de ajuizamento da ação mandamental não inibe o legislador de definir um lapso de ordem temporal em cujo âmbito o ‘writ’ deve ser oportunamente impetrado.”
+(RTJ 145/186, Rel. Min. CELSO DE MELLO)
+“- Com o decurso, ‘in albis’, do prazo decadencial de 120 dias, a que se refere o art. 18 da Lei nº 1.533/51 - cuja constitucionalidade foi reafirmada pelo Supremo Tribunal Federal (RTJ 142/161 - RTJ 145/186 - RTJ 156/506) -, extingue-se, de pleno direito, a prerrogativa de impetrar mandado de segurança.”
+(RTJ 177/774-775, Rel. Min. CELSO DE MELLO, Pleno)
+Cabe registrar, por relevante, que essa orientação jurisprudencial acha-se, presentemente, consolidada na Súmula 632 desta Suprema Corte, cujo enunciado assim dispõe: “É constitucional   lei   que fixa o prazo de decadência para a impetração de mandado de segurança ”   ( grifei ).
+Vale referir, por necessário, que o entendimento exposto nesta decisão prevalece na jurisprudência que o Supremo Tribunal Federal consolidou na matéria ora em análise (RTJ 184/191, Rel. Min. CELSO DE MELLO – RMS 23.460/DF, Rel. Min. NÉRI DA SILVEIRA – RMS 23.477/DF, Rel. Min. ILMAR GALVÃO – RMS 23.489-AgR/DF, Rel. Min. NÉRI DA SILVEIRA – RMS 23.506/DF, Rel. Min. MARCO AURÉLIO – RMS 23.601/DF, Rel. Min. ILMAR GALVÃO – RMS 23.707/DF, Rel. Min. MARCO AURÉLIO – RMS 23.848-AgR/DF, Rel. Min. CARLOS VELLOSO, v.g.):
+“CONSTITUCIONAL. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA: DECADÊNCIA. Lei 1.533/51, art. 18. CONCURSO PÚBLICO: DELEGADO DA POLÍCIA FEDERAL.
+I. - Concurso público para o cargo de Delegado Federal prestado no ano de 1993. Candidato não convocado para a segunda etapa. Divulgação de edital, em 1997, para novo concurso. Impetração, em outubro de 2000, de mandado de segurança. Decadência do direito à impetração.
+II. - Recurso não provido.”
+(RMS 24.279/DF, Rel. Min. CARLOS VELLOSO - grifei)
+“MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - DELEGADO DE POLÍCIA FEDERAL - CANDIDATO NÃO CLASSIFICADO DENTRO DO NÚMERO DE VAGAS PREVISTO EM EDITAL (EDITAL Nº 01/93) - CONCURSO PÚBLICO CUJO PRAZO DE VALIDADE JÁ SE EXAURIU - PRETENDIDO RECONHECIMENTO DO DIREITO À PARTICIPAÇÃO EM CURSO DE FORMAÇÃO PROFISSIONAL, A SER REALIZADO NO CONTEXTO DE NOVO CONCURSO PÚBLICO, ABERTO, POSTERIORMENTE, QUANDO JÁ ESGOTADO O PRAZO DE VALIDADE DO CERTAME ANTERIOR - IMPOSSIBILIDADE - REJEIÇÃO DA TEORIA DO FATO CONSUMADO - PRECEDENTES (STF) - AGRAVO IMPROVIDO.”
+(RTJ 188/138, Rel. Min. CELSO DE MELLO)
+Sendo assim, em face das razões expostas, e acolhendo, ainda, o parecer da douta Procuradoria Geral da República (fls. 225/226), nego provimento ao presente recurso ordinário.
+Publique-se.
+Brasília, 08 de abril de 2010.
+Ministro CELSO DE MELLO
+Relator
