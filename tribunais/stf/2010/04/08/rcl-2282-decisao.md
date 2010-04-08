@@ -1,0 +1,18 @@
+DECISÃO: 1. Trata-se de reclamação, com pedido liminar, movida por HONOR RODRIGUES DA SILVA, contra ato praticado pelo Juízo Federal da 12ª Vara da Seção Judiciária do Distrito Federal, consistente no processamento do Inquérito Policial nº 2001.34.00.011576-4.
+ Segundo alega o reclamante, teria sido afrontada a autoridade da decisão proferida por esta Corte no HC nº 80.383, pois tal decisão reconheceu a competência da Justiça Eleitoral para processar e julgar feito que tratou de crime contra a honra do então Presidente da República. Conforme alegado, os fatos de que trata tal Inquérito seriam conexos aos que foram objeto de tal habeas corpus.
+ Requereu, assim, liminarmente, fosse suspenso o curso do Inquérito Policial supracitado, revogando-se a prisão preventiva decretada e, no mérito, requer a declaração de incompetência da Justiça Federal no Distrito Federal para processar e julgar o feito, remetendo-se os autos para a Justiça Eleitoral de São Paulo (fls. 02-19).
+ A liminar foi indeferida (fl. 26).
+ O Ministério Público Federal manifestou-se às fls. 30-31, pelo indeferimento da reclamação.
+2.  Inviável o pedido.
+Conforme previsto no art. 102, I, “I”, da Constituição Federal, bem como nos arts. 156 do Regimento Interno deste Tribunal e 13, caput, da Lei nº 8.038, de 28.5.90, a reclamação só é admissível em duas hipóteses: para preservação da esfera de competência da Corte e para garantir-lhe a autoridade das decisões.
+Os fundamentos invocados pelo reclamante não se relacionam com usurpação de competência, nem com afronta a decisão do Supremo Tribunal Federal.
+ É que não há conexão entre os fatos investigados no inquérito policial suso mencionado e os que configuraram crime contra a honra do Presidente da República.
+ Destaco, por oportuno, excerto do parecer da lavra do Subprocurador-Geral da República Edson Oliveira de Almeida:
+“2. O pedido não pode ser acolhido, por não estar configurado desrespeito a decisão do Supremo Tribunal Federal. No citado HC 80.383-DF o STF entendeu que os fatos narrados na denúncia configuravam crime contra a honra, de competência da Justiça eleitoral, afastando a competência da Justiça Federal. Entretanto, sendo diversos os fatos e sendo outros os investigados, não há como estabelecer a propalada conexão entre o inquérito 2001.34.00.011576-4 e o feito remetido à Justiça Eleitoral por ordem do STF. De tudo resulta que a distribuição do pedido de prisão preventiva ao MM. Juiz Federal da 12ª Vara da Seção Judiciária do Distrito Federal não afrontou a decisão proferida pelo STF” (fls. 30-31).
+Esta Corte, ademais, tem afastado o uso da reclamação como mero atalho processual destinado a submeter o litígio à sua imediata apreciação. Da mesma forma, nos termos do citado art. 102, I, ‘l’, da Constituição Federal, a reclamação não tem qualidade de recurso, nem é instrumento viabilizador de reexame do conteúdo do ato reclamado (Rcl nº 6.534, Rel. Min. CELSO DE MELLO, DJ 24/09/2008; Rcl nº 5.684-AgR, Rel. Min. RICARDO LEWANDOWSKI, DJ 15/08/2008; Rcl nº 5.465, Rel. Min. CÁRMEN LÚCIA, DJ 15/08/2008).
+Por fim, não pode conhecida a presente reclamação como habeas corpus, a fim de apreciar a viabilidade ou não da prisão preventiva então decretada contra o reclamante (fl. 5-6), tendo em vista que esta Corte não tem competência para processar e julgar writ impetrado contra ato da autoridade reclamada, de acordo com o rol taxativo do art. 102, I, ‘i’, da Constituição Federal.
+3.  Ante o exposto, nego seguimento à reclamação, com fundamento nos arts. 21, § 1º, do Regimento interno do Supremo Tribunal Federal, e 267, VI do Código de Processo Civil.
+ Publique-se.
+Brasília, 8 de abril de 2010.
+Ministro CEZAR PELUSO
+Relator
