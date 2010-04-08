@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de agravo regimental interposto por Reynaldo Muniz da Silva, contra decisão por mim proferida a fls. 257-260, na qual neguei seguimento ao presente mandado de segurança em razão do reconhecimento da decadência da impetração.
+Nas razões do agravo regimental, o impetrante afirma que tem direito líquido e certo de acesso ao Poder Judiciário para evitar ou reparar lesão a direito individual, no caso, o direito à indenização por ter sido considerado anistiado político. Afirma que não foi parte no processo em curso no Tribunal de Contas da União, em que foi proferida a cautelar atacada na presente impetração, e que, portanto, não pode sofrer os efeitos dessa decisão. Requer, em síntese, a reconsideração da decisão de fls. 257-260 ou o provimento do agravo regimental, a fim de que o mandado de segurança tenha regular prosseguimento.
+É breve o relatório.
+Decido.
+Conforme registrei na decisão de fls. 257-260, o ato que ensejou a impetração deste mandado de segurança foi a decisão cautelar do Tribunal de Contas da União, proferida nos autos do Processo nº TC-011.627/2006-4, que suspendeu todos os pagamentos de indenizações referentes a valores pretéritos dos anistiados políticos, mantendo, no entanto, o pagamento dos valores concedidos e pagos mensalmente. Confira-se trecho da decisão proferida pela Corte de Contas (fls. 74):
+“Com fundamento no art. 71, inciso IX, da Constituição Federal, dos arts. 11 e 45 da Lei nº 8.443/92, e do art. 276 do Regimento Interno deste Tribunal, tendo em vista fundado receio de lesão ao Tesouro Nacional e de ineficácia, mesmo que parcial, de futura decisão definitiva de mérito, e, ainda, considerando a iminência de pagamentos de valores cujos fundamentos encontram-se questionados nos autos, tratando-se, portanto, de medida que requer urgência em sua adoção, determino ao Ministério da Justiça – MJ, em sede cautelar que:
+(...)
+5.2 com fundamento no item 2.2 do relatório de auditoria – fls.21 a 37 do relatório; 165 a 181, vol. Princ. -, adote, na data de hoje, as providências necessárias junto ao Ministério da Defesa/Comando da Aeronáutica para que este não proceda, ou evite, a efetivação de pagamentos relativos a períodos pretéritos (retroativos) aos anistiados cujo fundamento para o reconhecimento dessa condição específica consistiu no licenciamento ex-offício do requerente, na graduação de cabo, em razão da limitação de tempo de serviço estabelecida na Portaria 1104/64, até que este Tribunal se manifeste definitivamente sobre a matéria”.
+Em consulta ao sítio do Tribunal de Contas da União na internet, verifiquei que, em Sessão Plenária do dia 03.12.2008 (Ata 51/2008), a Corte de Contas expressamente revogou a cautelar outrora concedida, nos seguintes termos:
+“VISTOS, relatados e discutidos estes autos correspondentes a um dos quatro apartados constituídos a partir do TC-011.627/2006-4, este referente a relatório de auditoria realizada com vistas a verificar a regularidade de indenizações concedidas pelo Ministério da Justiça a anistiados políticos com fundamento na Lei 10.559/2002, cuidando o presente do achado de auditoria atinente à concessão de reparação econômica sem caracterização da condição de anistiado,
+ACORDAM os Ministros do Tribunal de Contas da União, reunidos em sessão Plenária, ante as razões expostas pelo redator, em:
+9.1. revogar o item 5.2 da medida cautelar prolatada pelo Relator deste feito em 31.10.2006 (fls. 212/4, TC-011.627/2006-4);
+9.2. encaminhar ao Ministério da Justiça e à Comissão de Anistia/MJ, a título de subsídio, a íntegra desta deliberação, inclusive o voto do Ministro Relator;
+9.3. recomendar ao Ministério da Justiça que, caso opte por rever as concessões de anistia que tiveram por único fundamento a Portaria n.º 1.104/1964-GM3, abstenha-se de efetuar os pagamentos de valores atrasados, por serem de difícil recuperação;
+9.4. arquivar este Processo”. [grifei]
+Assim, tendo em vista que o presente mandado de segurança foi impetrado com o objetivo de assegurar ao impetrante o alegado direito de receber os pagamentos retroativos decorrentes do reconhecimento da sua condição de anistiado político, os quais não foram efetivados em razão da determinação cautelar do Tribunal de Contas da União que, de acordo com a informação acima, já se encontra expressamente revogada, tem-se por prejudicada a impetração em tela.
+Em razão da perda superveniente de seu objeto, julgo prejudicado este mandado de segurança. Em conseqüência, também perde o respectivo objeto e fica prejudicado o exame do agravo regimental de fls. 263-266 (art. 21, IX do Regimento Interno do Supremo Tribunal Federal).
+Comunique-se.
+Publique-se.
+Arquive-se.
+Brasília, 08 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
