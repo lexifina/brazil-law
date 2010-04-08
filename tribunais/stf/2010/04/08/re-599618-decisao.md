@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MUDANÇA DO REGIME JURÍDICO CELETISTA PARA O ESTATUTÁRIO. AUSÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PRECEDENTES. RECURSO PROVIDO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Espírito Santo:
+“REMESSA NECESSÁRIA E APELAÇÃO - ADMINISTRATIVO - MANDADO DE SEGURANÇA - FALTA DE INDICAÇÃO DE AUTORIDADE COATORA - REJEITADA - PREJUDICIAL DE DECADÊNCIA - REJEITADA - SERVIDOR QUE PASSOU DO REGIME CELETISTA PARA O REGIME ESTATUTÁRIO - LEI QUE INTEGROU AS HORAS EXTRAS EM SEUS VENCIMENTOS - DIREITO ADQUIRIDO - SENTENÇA MANTIDA. 1 - O fato de ter o impetrante postulado em sua inicial a figura do representante legal da Municipalidade e a figura do representante legal do Instituto de Previdência e Assistência dos Servidores do Município de Vitória, garante a determinação necessária para o Mandado de Segurança. 2 - Como a matéria que levada ao Estado-juiz relaciona-se com a reinclusão da quantia reduzida em seu vencimento mensal, faz-se assim por renovar a cada mês sua pretensão, não incidindo por isso, o fenômeno da decadência. 3 - Se se consuma o suporte fático previsto na lei e se são preenchidos os requisitos para o seu exercício, o servidor passa a ter direito adquirido ao benefício ou vantagem que o favorece. 4 - Apelação que se nega provimento” (fl. 579).
+2. O Recorrente afirma que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXV, 93, inc. IX, e 37, caput, da Constituição da República.
+Argumenta que “o E. TJES negou-se a prestar a devida entrega da tutela jurisdicional, furtando-se ao cumprimento de seu mister no sentido de que nenhuma lesão ou ameaça a direito será excluída da apreciação do Poder Judiciário” (fl. 610).
+Sustenta que “a verba de Incorporação de Salário foi agregada à remuneração do recorrido quando servidor ativo, no período de transição entre o regime celetista e estatutário ocorrido no Município de Vitória, que incorporou aos vencimentos o valor de 60 horas extras” (fl. 612).
+Assevera que “a incorporação das horas extras sob a rubrica ‘Incorporação de Salário’, era indevida não somente por ausência de norma legal a prevê-la no momento da aposentadoria, mas também em sua própria origem, ou seja, na transformação do Regime Jurídico Único” (fl. 615).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica assiste ao Recorrente.
+4. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que não há direito adquirido a regime jurídico e de que a transposição do regime celetista para o estatutário acarreta a extinção do contrato de trabalho, não sendo possível invocar ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada. É possível que, nessa conversão, haja diminuição ou supressão de gratificações e vantagens do servidor, desde que não ocasione redução nominal da remuneração.
+Confira-se, por oportuno, o Mandado de Segurança 24.381, Relator o Ministro Gilmar Mendes, DJ 3.9.2004:
+“O Supremo Tribunal Federal pronunciou-se quanto à redução nominal, afirmando que, com a conversão do regime celetista para o estatutário, operou-se a extinção do contrato de trabalho, não sendo possível invocar coisa julgada nem direito adquirido (CF, art. 5°, XXXV). Precedentes citados: MS no 22.094-DF, Pleno, unânime, Rel. Min. Ellen Gracie, DJ de 02.02.2005, MS no 22.455-DF, Pleno, unânime, Rel. Min. Néri da Silveira, DJ de 22.04.2002, MS no 22.160-DF, Pleno, unânime, Rel. Min. Sydney Sanches, DJ de 22.02.1996. 6. Os Precedentes colacionados pela embargante MS 25.678-DF, Rel. Min. Eros Grau, DJ de 05.12.2005 e MS no 25.009-DF, Pleno, maioria, Rel. Min. Carlos Velloso, DJ de 01.12.2004 tratam de incorporação do percentual da URP de 26,05% (Plano Bresser). Hipótese distinta do caso em apreço, que trata da incorporação de horas extras ante alteração da situação jurídica da embargante do regime celetista para o estatutário. 7. Embargos de Declaração rejeitados”.
+E:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. DIREITO ADQUIRIDO A REGIME JURÍDICO: INEXISTÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 602.879-AgR, de minha relatoria, Primeira Turma, DJe 21.8.2009).
+E ainda:
+“Direito adquirido: não o tem o servidor público à permanência de determinado regime jurídico atinente à composição de vencimentos ou proventos, desde que mantida a irredutibilidade da remuneração total” (RE 210.455, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 18.8.2000).
+5. Dessa orientação jurisprudencial divergiu o julgado recorrido.
+6. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal).
+Considerando-se a Súmula 512 do Supremo Tribunal Federal, deixo de aplicar os ônus da sucumbência.
+Publique-se.
+Brasília, 8 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
