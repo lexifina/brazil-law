@@ -1,0 +1,16 @@
+Em 31/3/2009, determinei a devolução destes autos ao tribunal de origem para que fosse observado o disposto no art. 543-B do Código de Processo Civil, ante a repercussão geral reconhecida no RE 590.751-RG/SP, de minha relatoria (fl. 244).
+Desse despacho, Fibam – Companhia Industrial interpôs agravo regimental (fls. 247-250).
+Verifico que, por equívoco, foi determinado o sobrestamento (art. 543-B do CPC) destes autos para aguardar o julgamento do RE 590.751-RG/SP, no qual se examinará a incidência de juros moratórios e compensatórios no pagamento das parcelas previstas no art. 78 do ADCT. O caso em questão, todavia, refere-se à inclusão dos juros moratórios no parcelamento estipulado pelo art. 33 do ADCT.
+Assim, desnecessária a aplicação do art. 543-B do CPC à espécie, razão pela qual, ante a ocorrência de erro material, torno sem efeito o despacho de fl. 244, julgo prejudicado o agravo regimental e passo a examinar o recurso extraordinário.
+Trata-se de recurso extraordinário contra acórdão que entendeu ser devida a inclusão dos juros moratórios no pagamento feito em atraso das parcelas previstas no art. 33 do ADCT.
+Neste RE, interposto com base no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa à EC 30/2000 e ao art. 78 do ADCT.
+A pretensão recursal não merece acolhida.
+O acórdão impugnado julgou incidir juros de mora no pagamento em atraso de parcela prevista no art. 33 do ADCT. O recurso extraordinário, por sua vez, limitou-se a alegar ofensa à EC 30/2000 e ao art. 78 do ADCT. Além disso, a recorrente não questionou o acórdão recorrido quanto à ocorrência de atraso no pagamento de parcela da moratória do art. 33 do ADCT. Assim, evidenciada a deficiente fundamentação do recurso extraordinário, incide, no caso, a Súmula 284 do STF.
+Ademais, o acórdão atacado está em consonância com a jurisprudência desta Corte firmada no sentido de que não incidem juros moratórios e compensatórios no pagamento de precatórios decorrentes de desapropriação, realizado conforme o art. 33 do ADCT, ressalvada a incidência dos juros moratórios nos casos de pagamento atrasado das prestações do parcelamento previsto no referido dispositivo. Nesse sentido, transcrevo a ementa do AI 643.732-AgR/SP, Rel. Min. Cármen Lúcia:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. DESAPROPRIAÇÃO INDIRETA. PRECATÓRIO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que não incidem juros de mora e compensatórios no período compreendido pelo art. 33 do Ato das Disposições Constitucionais Transitórias. Somente serão cabíveis os juros moratórios se houver atraso no pagamento. Precedentes. 2. Desapropriação indireta. Justa indenização. Impossibilidade do reexame de provas. Incidência da Súmula 279 do Supremo Tribunal” (grifos meus).
+No caso, tendo em vista que o acórdão recorrido reconheceu a ocorrência de atraso no pagamento de parcela, devem incidir os juros moratórios nas prestações pagas fora do prazo constitucional.
+Isso posto, torno sem efeito a decisão de fl. 244, julgo prejudicado o agravo regimental e nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 9 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
