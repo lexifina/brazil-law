@@ -1,0 +1,8 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto pela União em oposição a acórdão que estendeu aos servidores públicos inativos a Gratificação de Desempenho de Atividade Tributária–GDAT.
+2.  O agravo não merece provimento. A decisão agravada está em consonância com a jurisprudência deste Tribunal:
+“EMENTA: CONSTITUCIONAL. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES TRIBUTÁRIAS, INSTITUÍDA PELA MEDIDA PROVISÓRIA Nº 1.915, DE 29/06/1999. EXTENSÃO AOS INATIVOS E PENSIONISTAS DE EX-OCUPANTES DO CARGO DE AUDITOR-FISCAL DO TESOURO NACIONAL. CONSTITUIÇÃO FEDERAL, ARTIGO 40, § 8º, NA REDAÇÃO DECORRENTE DA EC 20/98. Vantagem de caráter geral, devida aos aposentados e pensionistas, nos termos da norma constitucional acima referida e em consonância com a jurisprudência desta Suprema Corte, firmada em torno de casos semelhantes. Além do mais, a primeira edição da MP 1.915/1999 contemplou indistintamente os proventos de aposentadoria e as pensões; por isso, ofendem o postulado da isonomia as reedições da Medida, que limitaram o pagamento do benefício aos servidores aposentados a partir de 1º/07/1999. Por outro lado, como tal restrição foi afastada pela Lei nº 10.593, de 06/12/2002, remanesce o interesse das partes com relação ao período regressivo, até a data da impetração. Recurso extraordinário conhecido e desprovido.” [RE n. 397.872, Relator o Ministro Carlos Britto, DJ de 19.11.04].
+Nego seguimento ao agravo com fundamento no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 9 de abril de 2010.
+Ministro Eros Grau
+- Relator -
