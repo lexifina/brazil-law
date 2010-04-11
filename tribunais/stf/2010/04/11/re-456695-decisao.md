@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Estado de Alagoas interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado:
+“APELAÇÃO CÍVEL - AÇÃO REPARATÓRIA - CONCURSO PÚBLICO - CARGO DE DELEGADO DE POLÍCIA - PRELIMINARES REPELIDAS - CANDIDATOS QUE NÃO PODEM SER PENALIZADOS PELAS INCONGRUÊNCIAS DAS NORMAS EDITALÍCIAS E QUE JÁ HAVIAM SE SUBMETIDO ANTERIORMENTE AO EXAME PSICOTÉCNICO, QUANDO DO EXERCÍCIO DE OUTRO CARGO POLICIAL - SÚMULA 239 TFR - CURSO DE FORMAÇÃO POLICIAL - FREQUÊNCIA MÍNIMA - COMPROVAÇÃO - APROVAÇÃO DOS CANDIDATOS, CUJAS NOMEAÇÕES PELA ADMINISTRAÇÃO PÚBLICA DEVERÃO SEGUIR A ESTRITA ORDEM CLASSIFICATÓRIA, DENTRE OS CANDIDATOS APROVADOS NO CERTAME - RECURSO CONHECIDO E IMPROVIDO - SENTENÇA CONFIRMADA - DECISÃO UNÂNIME” (fl. 212).
+Opostos embargos de declaração (fls. 238 a 248), foram rejeitados (fls. 258 a 259).
+Alega o Recorrente violação do artigos 5º, caput, 37, caput e inciso I, e 93, inciso IX, da Constituição Federal, uma vez que “a existência de lei autorizativa da previsão editalícia de exame psicotécnico – lei em sentido formal e material, registre-se – a conduta administrativa de excluir os candidatos que não aprovados em tal etapa e de não permitir “aproveitamento” de outro exame reveste-se do mais absoluto cumprimento do estabelecido em lei e dos princípios constitucionais, sendo, assim, ato legal da autoridade pública” (fls. 316/317).
+Sem contrarrazões (fl. 334), o recurso extraordinário (fls. 296 a 320) não foi admitido (fls. 346 a 348). Interposto agravo de instrumento foi provido pelo Ministro Sepúlveda Pertence para convertê-lo em recurso extraordinário (fl. 377).
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Eitel Santiago de Brito Pereira, pelo desprovimento do recurso extraordinário.
+O Superior Tribunal de Justiça, em decisão transitada em julgado (fls. 400 a 406 e 396), negou provimento ao recurso especial interposto paralelamente ao extraordinário.
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 4/2/04, conforme expresso na certidão de folha 260, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação, uma vez que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pelo ora recorrente. Incidência das Súmulas nºs 282 e 356 desta Corte.
+Tampouco ocorreu a apontada negativa de prestação jurisdicional, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Ressalte-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então agravante, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ 18/5/01).
+Quanto ao mais, tem-se que para ultrapassar o entendimento do acórdão atacado e acolher a tese do recorrente quanto ao abono de faltas e a exigibilidade de submissão a exame psicotécnico demandaria o reexame da legislação infraconstitucional e das provas dos autos, operação vedada em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 11 de abril de 2010.
+Ministro DIAS TOFFOLI
+Relator
