@@ -1,0 +1,16 @@
+DECISÃO
+RECLAMAÇÃO – IMPROPRIEDADE – NEGATIVA DE SEGUIMENTO AO PEDIDO.
+1.  A Assessoria prestou as seguintes informações:
+A reclamante impugna acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, no Agravo Regimental nº 70.027.838.622 (folha 86 a 88), mediante o qual, confirmadas a decisão relativa ao agravo de instrumento (folhas 75 e 76) e a do Juízo (folha 72), foi indeferido o pedido de requisição ao interessado - o Instituto de Previdência do Estado do Rio Grande do Sul -, na execução do título judicial, dos contracheques da pensionista necessários a verificar os valores descontados mensalmente, atinentes à contribuição a ser restituída. O ato foi motivado na ausência de recusa do executado em fornecê-los diretamente, ante a possibilidade de obtê-los por meio da Secretaria da Fazenda estadual, inclusive pela via eletrônica, no sítio do referido órgão na internet. Os embargos de declaração interpostos foram desprovidos (folha 101 a 105).
+A reclamante alega inobservância à autoridade da decisão proferida no Recurso Extraordinário nº 391.505/RS, da relatoria de Vossa Excelência, publicada no Diário da Justiça de 18 de setembro de 2007. O Supremo teria acolhido o pedido formulado na inicial, no sentido de condenar o interessado a restituir os descontos, feitos na folha de pagamento, da contribuição previdenciária da pensionista, considerada a inconstitucionalidade da alínea “o” do artigo 42 da Lei nº 7.672/82, do Estado do Rio Grande do Sul (folha 62 a 64). Sustenta ofensa à coisa julgada do referido pronunciamento, asseverando estar incluso, no título executivo judicial, a obrigação de o Instituto de Previdência entregar o demonstrativo dos pagamentos dos proventos mensais, tendo em conta o acolhimento integral do pedido formulado na peça primeira do processo, o que alcançaria o item 4 da inicial (folha 21). Requer o deferimento de medida acauteladora para suspender o acórdão atacado e, alfim, pleiteia a cassação definitiva do ato. Juntou os documentos de folha 10 a 127.
+À folha 126, a Presidência da Corte deferiu o pedido de justiça gratuita.
+O interessado, à folha 155 à 158, alega o descabimento da medida. Diz não existir ofensa à coisa julgada considerado o acórdão tido como inobservado, porquanto o pedido de fornecimento dos documentos fora formulado a título de produção de provas. Além disso, a Secretaria da Fazenda estadual disponibilizaria os documentos administrativamente, mediante várias vias, até pela internet.
+O Tribunal de Justiça do Estado do Rio Grande do Sul, nas informações de folha 161 a 165, reitera a manifestação do interessado.
+Anoto ter a reclamante figurado como parte no Recurso Extraordinário nº 391.505/RS.
+O processo veio à conclusão para o exame do pleito de medida acauteladora.
+2.  A reclamação pressupõe a usurpação da competência do Supremo ou o desrespeito a decisão por ele proferida. Ora, no Recurso Extraordinário nº 391.505/RS, não foi dirimida controvérsia sobre execução de título judicial. Mais do que isso, o pano de fundo evocado pela reclamante está ligado a prova cuja regência é estritamente legal.
+3.  Ante o quadro, nego seguimento ao pedido.
+4.  Publiquem.
+Brasília – residência –, 12 de abril de 2010.
+Ministro MARCO AURÉLIO
+Relator
