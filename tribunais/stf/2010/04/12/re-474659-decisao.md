@@ -1,0 +1,33 @@
+1.  Trata-se de recurso extraordinário contra acórdão do TRF da 5ª Região que deu parcial provimento ao recurso de apelação do Instituto Nacional de Colonização e Reforma Agrária – INCRA, no qual se discute a de indenização por desapropriação por interesse social para fins de reforma agrária, cujo trecho da ementa transcrevo:
+“ AGRÁRIO. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA – JUSTO PREÇO E VALOR DE MERCADO – COBERTURA NATIVA – JUROS COMPENSATÓRIOS – PERCENTUAL DE 12% - SÚMULA 618 DO STF – JUROS MORATÓRIOS – PERCENTUAL – INÍCIO DA CONTAGEM – SÚMULA 114 DO STJ – HONORÁRIOS ADVOCATÍCIOS – PROVIMENTO PARCIAL. ”
+2.  A parte recorrente alega violação aos artigos 5º, XXIV, e 184 da CF, sustentando, em síntese, que:
+“Ocorre que apesar de o acórdão ter reformado o valor da terra nua para fixá-lo como requereu o INCRA, o valor das benfeitorias foi determinado de acordo com a avaliação do perito judicial, em total desprezo ao laudo administrativo da Autarquia.” (Fl. 448).
+.................................................................................
+“Nesse diapasão, não podem ser desconsideradas as normas legais pertinentes à matéria, especialmente o art. 12 da Lei nº 8.629/93, com a redação da MP 1577/97 e reedições, que estabelece o preço apurado, inclusive das benfeitorias, não poder superar, em qualquer hipótese, o valor de mercado. A não observância dessas normas legais infraconstitucionais acarreta a evidente afronta aos dispositivos constitucionais que inserem o princípio da justa indenização.” (Fl. 450).
+Quanto à condenação em juros compensatórios, argumenta o recorrente que “deveriam ser calculados apenas se o proprietário tivesse direito a lucros cessantes, que assim há muito tais juros são entendidos pela doutrina e jurisprudência.” E conclui: “na verdade, in casu, é totalmente improcedente a condenação ao pagamento de juros compensatórios, isso porque a ação de desapropriação tem como fundamento jurídico ato ilícito praticado pelo proprietário.” (Fl. 451).
+A parte recorrente alega, ainda, ofensa aos artigos 5º, XXXVI, e 100 da CF, insurgindo-se contra a decisão que, com base na Súmula STJ 70 (fl. 398), determinou a incidência dos juros moratórios a partir do trânsito em julgado da condenação (termo inicial). Argumenta também, citando precedente no RE 305.186, deste Tribunal – que não houve atraso no pagamento.
+Diz, ademais, que houve “contrariedade à Carta Magna no acórdão proferido pelo egrégio Tribunal Regional Federal da 5ª. Região ao se manter a complementação do pagamento sem a constitucional via do precatório.”(Fl. 454), questionando a inconstitucionalidade dos artigos 14 e 15 da Lei Complementar 76/93.
+3.  O Ministério Público Federal opinou pelo não-conhecimento do recurso extraordinário (fls. 522-526).
+4.  Concluir de forma diversa, a respeito do justo preço, demandaria o revolvimento de fatos e de provas constantes dos autos, o que é vedado na via extraordinária, dado o óbice da Súmula STF 279, bem como exigiria o exame da legislação infraconstitucional, aplicável à espécie e citada pela própria autarquia. Nesse sentido, entre outros, o RE 512.489-AgR/RN, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 13.11.2009; e o RE 563.305-AgR/CE, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008, cujos acórdãos estão assim ementados:
+“ AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO: IMPOSSIBILIDADE DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). CONTROVÉRSIA SOBRE OS JUROS INCIDENTES NA INDENIZAÇÃO: QUESTÃO QUE DEMANDARIA A ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+.................................................................................
+“ AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 279. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL /88.
+2.  A hipótese dos autos impõe a análise de matéria fática. Súmula 279/STF. Ofensa indireta à Constituição do Brasil.
+3.  Agravo regimental a que se nega provimento.”
+5.  Quanto ao questionamento em relação aos juros compensatórios, a insurgência também não prospera. O Tribunal de origem aplicou entendimento da Suprema Corte consolidado pela Súmula STF 618. Vejam-se o AI 612.011-AgR/TO, rel. Min. Carlos Britto, 1ª Turma, unânime, DJe 16.10.2009l; o RE 419.827-AgR/PB, rel. Min. Gilmar Mendes, 2ª Turma, unânime, DJe 23.11.2007; o AI 295.072-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJe 20.11.2009; e o RE 395.793-AgR/RN, 2ª Turma, unânime, DJe 17.04.2009.
+Ressalte-se que a questão relativa ao art. 100, concernente à aplicação dos artigos 14 e 15 da Lei Complementar 76/93, embora tenha sido suscitada nos embargos de declaração (fls. 416-417), não foi objeto das contra-razões de apelação (fls. 335-360). Cuida-se, assim, de inovação processual e, dessa forma, ausente o devido prequestionamento (Súmulas STF 282 e 356).
+Também saber, na hipótese, se houve ou não atraso no pagamento envolveria a análise de fatos e provas (Súmula STF 279).
+ Nesse sentido, RE 398.804-AgR/SP, rel. Min. Ayres Brito, 1ª Turma, unânime, DJ 13.02.2004, assim ementado:
+“ AGRAVO REGIMENTAL. PRECATÓRIO. JUROS DE MORA. NÃO-INCIDÊNCIA. PRECEDENTE DO PLENÁRIO DO STF.
+O Plenário desta colenda Corte, no julgamento do RE 298.616, Relator Min. Gilmar Mendes, reafirmou orientação de que não cabem juros moratórios no período compreendido entre a expedição do precatório e seu efetivo pagamento, na forma do art. 100, § 1°, da Carta Magna (redação anterior à EC 30/2000).
+Impossível, nesta via, verificar se houve, ou não, atraso no cumprimento da obrigação. Óbice da Súmula 282.
+Ausência de omissão e contradição na decisão agravada.
+Agravo regimental desprovido.”
+Por fim, veja-se, em caso similar, no qual se questionou o ajuizamento de ação em data anterior à vigência da Medida Provisória 1.622-7, de 12.12.1997, o AI 295.072-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJe 20.11.2009, cuja decisão assim se pronunciou:
+“A demanda foi ajuizada em data anterior à da modificação implementada pela Medida Provisória 1.632-7, de 12.12.1997. Matéria infraconstitucional.
+A demanda foi ajuizada em data anterior à da modificação implementada pela Medida Provisória 1.632-7, de 12.12.1997. Conclui-se, portanto, que a questão relativa à aplicabilidade da referida Medida Provisória tem natureza infraconstitucional.”
+6.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 12 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
