@@ -1,0 +1,16 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido porta a seguinte ementa:
+“AÇÃO DE COBRANÇA C/C PEDIDO DE TUTELA ANTECIPADA – REEXAME NECESSÁRIO – SERVIDOR PÚBLICO MUNICIPAL APOSENTADO – APOSENTAÇÃO DECORRENTE DE DOENÇA INCURÁVEL – VANTAGEM TRANSITÓRIA – NATUREZA PRO LABORE FACIENDO – AUSÊNCIA DE DEMONSTRAÇÃO DE SATISFAÇÃO DOS REQUISITOS LEGAIS PARA INCORPORAÇÃO – RECURSO PROVIDO” (fl. 14).
+No RE, fundado no art. 102, III, a , da Constituição, alegou-se violação ao art. 40, § 1º, I, e § 3º , da mesma Carta.
+Assiste razão ao agravante no que se refere à demonstração, em preliminar, da existência de repercussão geral no RE .   É que, na petição do recurso extraordinário, foi demonstrada, em preliminar, a existência de repercussão geral das questões constitucionais discutidas no caso, conforme se depreende da análise das fls. 29-30, o que se coaduna com o que determina o art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e o art. 327, § 1º, do RISTF.
+Superada a decisão de fls. 22-25, e em homenagem ao princípio da economia processual, deixo de encaminhar os autos ao Tribunal a quo para novo exame de admissibilidade, uma vez que o recurso extraordinário não tem condições de prosperar, e passo a examiná-lo.
+O agravo não merece acolhida. É que o Tribunal de origem decidiu a causa nos seguintes termos:
+“É de se ressaltar que o autor não tinha a gratificação de regência de classe incorporada ao seu vencimento, já que não demonstrou ter satisfeito a exigência contida no art. 68 do Plano de carreira e remuneração do magistério público da Prefeitura municipal de Campo Grande, isto é, de ter percebido a gratificação ‘ nos últimos 5 (cinco) anos consecutivos, que antecedem a aposentadoria ’.(F. 135.)
+Portanto, tratando-se de gratificação por regência de classe, vantagem de ordem transitória, devida apenas no exercício da função e não existindo comprovação de que referida vantagem estava incorporada ao vencimento do recorrido, não deve a gratificação fazer parte do conceito constitucional de proventos integrais” (fl. 17) .
+Ou seja, para dissentir do acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que inviabiliza o recurso extraordinário, a teor da Súmula 279 do STF.
+Por fim, é pacifico o entendimento nesta Corte no sentido de que é inviável, em recurso extraordinário, o debate acerca das gratificações de regência de classe por demandar interpretação de direito local, o que atrai o óbice da Súmula 280. Nesse sentido , menciono as seguintes decisões:   RE 351.115- AgR/DF, Rel. Min. Carlos Velloso, RE 242.314-AgR/SC, Rel. Min. Eros Grau e   RE 459.674-AgR/CE, Rel. Min. Joaquim Barbosa,   cuja ementa segue transcrita:
+“ SERVIDOR PÚBLICO DO ESTADO DO CEARÁ. GRATIFICAÇÃO DE REGÊNCIA DE CLASSE. LEI ESTADUAL 11.820/91. ÓBICE DA SÚMULA 280-STF. - Ambas as Turmas desta Corte firmaram o entendimento de que é inviável em recurso extraordinário o debate acerca das gratificações de regência de classe. Interpretação de Direito Local. Óbice da Súmula 280 desta Corte. - Agravo regimental a que se nega provimento ”.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 13 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
