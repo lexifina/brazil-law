@@ -1,0 +1,9 @@
+1.  Cuida-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário contra acórdão proferido em agravo de instrumento de decisão que afastou a aplicação ao caso da norma constitucional do art. 7º, XXIX, e negou seguimento ao recurso de revista, nos seguintes termos (fls. 204-210):
+“2. Em virtude da particularidade norteadora da conclusão de restar nula a rescisão do contrato de trabalho, não há como reconhecer vulnerado, em sua literalidade, o artigo 7º, XXIX, da Constituição da República (ação ajuizada em 16/05/97), tampouco considerar específicos os julgados transcritos no apelo, porquanto não e enfrenta a tese de nulidade da rescisão do contrato de trabalho (artigo 9º da CLT), em virtude do reconhecimento de suspensão decorrente da emissão da CAT e da percepção do auxílio-doença. Incidentes as Súmulas nº 23 e 296 do Tribunal Superior do Trabalho.”
+A Corte de origem asseverou que a lide foi solucionada com base na legislação ordinária; portanto, a alegada ofensa ao art. 7º, XXIX, da Constituição Federal, se existisse, seria reflexa (fls. 235-237).
+2.  O presente agravo não prospera. O Tribunal Superior do Trabalho, a partir dos fatos e das provas da causa, cujo reexame é inviável na sede extraordinária, negou provimento ao agravo da decisão que negou seguimento ao recurso de revista contra acórdão proferido na reclamação trabalhista que concluíra pela nulidade da rescisão contratual, nos termos do art. 9º da CLT. Assim, entendeu aquela Corte que ao caso não se aplica a aludida hipótese da prescrição (CF/88, art. 7º, XXIX), haja vista reiterada jurisprudência nesse sentido, consubstanciada nas Súmulas TST 23 e 296.
+3.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 13 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
