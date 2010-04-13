@@ -1,0 +1,14 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“Ação de obrigação de não fazer. Violação de direito de marca e concorrência desleal. Preclusão que se opera em relação ao aditamento da apelação. Desentranhamento de documentos objeto de agravo retido que ora se rejeita. Preliminares de cerceamento de defesa rejeitadas. Ato típico de concorrência desleal. Dano material a ser apurado em liquidação por arbitramento. Montante referente à indenização pelo dano moral em consonância com os princípios da razoabilidade e da proporcionalidade. Recurso conhecido. Negado provimento” (fl. 54).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 5º, LIV, da mesma Carta.
+O agravo não merece acolhida. Isso porque, o Tribunal de origem decidiu a causa nos seguintes termos:
+“Há inequívoca concorrência desleal na prática realizada pela apelante, que utiliza embalagem de cigarro semelhante à utilizada pela apelada, empresa de notoriedade no mercado, visando desviar sua clientela.
+O argumento de que a apelada não mais utiliza a embalagem que vem sendo utilizada pela apelante não tem o condão de descaracterizar o ato de concorrência desleal, tendo em vista que o público consumidor do produto da apelada já tinha conhecimento da embalagem, vindo a se confundir, mormente pelo fato de que o nome do produto da apelante em muito se assemelha ao da apelada” (fls. 753-754).
+Portanto, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279. Nesse sentido, por oportuno, trago à colação ementa do AI 756.858-AgR/GO, Rel. Min. Cármen Lúcia:
+“ AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. CONCORRÊNCIA DESLEAL. DEMISSÃO POR JUSTA CAUSA. INDEFERIMENTO DE PRODUÇÃO DE PROVA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta ” .
+Além disso, o Supremo Tribunal Federal tem decidido no sentido de que o indeferimento de diligência probatória, tida por desnecessária pelo juízo a quo, não viola os princípios do contraditório e da ampla defesa (AI 552.281/SP, Rel. Min. Sepúlveda Pertence; AI 474.746-AgR/GO, Rel. Min. Carlos Britto; AI 378.628/SP, Rel. Min. Celso de Mello).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 13 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
