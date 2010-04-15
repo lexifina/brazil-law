@@ -1,0 +1,30 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário. Este o teor da decisão agravada:
+“Trata-se de recurso extraordinário contra acórdão que possui a seguinte ementa:
+‘REMESSA E APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE REVISÃO DE PROVENTOS. PROCEDÊNCIA PARCIAL DO PEDIDO EM 1º GRAU PARA DETERMINAR O PAGAMENTO DOS PROVENTOS MENSAIS COM BASE NO VALOR PERCEBIDO ATUALMENTE PELO POSTO DE CABO DA ATIVA, EXCLUÍDA A GRATIFICAÇÃO DE TROPA, ASSIM COMO AS DIFERENÇAS DE REMUNERAÇÃO RELATIVAS AOS ÚLTIMOS 5 (CINCO) ANOS. DIREITO À REVISÃO. MANTENÇA DO DECISUM DE 1º GRAU.
+- As funções exercidas pelo Apelado, assim como a denominação de seu cargo, eram idênticas àquelas exercidas atualmente pelo Cabo do Corpo de Bombeiros, diferenciando-se pelo quadro funcional das esferas administrativas a que pertencem.
+- Entender que o Apelado não poderia perceber a título de aposentadoria o mesmo valor pago àquele que exerce, hoje, as funções de cabo do Corpo de Bombeiros, seria desconsiderar o princípio da isonomia e o disposto no artigo 40 §§ 4º e 8º, da Constituição Federal.
+- RECURSO CONHECIDO, MAS IMPROVIDO’ (fl. 115).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 40, § 4º e § 8º, da mesma Carta.
+A pretensão recursal não merece acolhida.
+Preliminarmente, deixo de examinar a repercussão geral das questões constitucionais discutidas no caso. É que esta Corte, reunida em Sessão Plenária, resolveu Questão de Ordem suscitada no AI 664.567/RS, Rel. Min. Sepúlveda Pertence, no sentido de estabelecer como marco temporal para a exigibilidade do requisito da repercussão geral o dia 3 de maio de 2007, data da publicação da Emenda 21 do Regimento Interno do STF.
+A pretensão recursal não merece acolhida. Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar norma infraconstitucional local (Lei 2.392/96), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF.
+Além disso, entender de forma diversa do acórdão recorrido exige o exame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput)” (fls. 140-141).
+O agravante sustenta, em suma, que a decisão agravada deve ser reformada, insistindo, dessa forma, no processamento do recurso extraordinário.
+Alega que a decisão recorrida ofende o princípio do devido processo legal e acarreta, portanto, negativa de prestação jurisdicional.
+Insurge-se, ainda, quanto à aplicação das Súmulas 279 e 280 do STF. Alega, para tanto, que a solução da matéria não depende do revolvimento do conjunto fático-probatório, nem do exame de legislação local.
+Bem reexaminada a questão, verifica-se que a decisão não merece reforma, visto que o recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+A decisão do Tribunal a quo partiu da premissa de que as funções exercidas pelo recorrido eram idênticas às exercidas pelo Cabo do Corpo de Bombeiros. Essa conclusão de deu com base no conjunto fático-probatório constante dos autos, bem como na análise de norma local (Lei 2.392/96), cujo reexame inviabiliza o recurso extraordinário, a teor das Súmulas 279 e 280 do STF.
+No mesmo sentido, menciono as seguintes decisões, entre outras: AI 762.347/SP, Rel. Min. Cármen Lúcia; RE 369.741/AL, Rel. Min. Gilmar Mendes; RE 252.574/SC, Rel. Min. Eros Grau.
+Quanto à alegada ofensa ao princípio do devido processo legal, a Corte tem se orientado no sentido de que, em regra, tal alegação pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, o que impede a utilização do recurso extraordinário (AI 360.265-AgR/RJ, Rel. Min. Celso de Mello; AI 534.862/PA, Rel. Min. Carlos Velloso; AI 584.592/RJ, Rel. Min. Cezar Peluso).
+Além disso, destaque-se que o julgamento contrário aos interesses da parte não basta à configuração da negativa de prestação jurisdicional.
+Por fim, observe-se que este Tribunal tem reconhecido a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal, a exemplo do MS 27.506/DF, Rel. Min. Celso de Mello:
+" A   legitimidade   jurídica desse entendimento - que vem sendo observado na prática processual desta Suprema Corte ( MS   27.649 , Rel. Min. CEZAR PELUSO - MS   27.962 , Rel. Min. CELSO DE MELLO, v.g. ) - decorre da circunstância de o Relator da causa, no   desempenho de seus poderes processuais, dispor de plena competência para exercer, monocraticamente , o controle das ações , pedidos ou recursos dirigidos ao Supremo Tribunal Federal, justificando-se , em consequência, os atos decisórios que, nessa condição, venha a praticar ( RTJ 139/53 - RTJ 168/174-175 - RTJ 173/948), valendo   assinalar , quanto ao aspecto ora ressaltado, que   o   Plenário deste Tribunal, em recentíssima decisão (25/03/2010) reafirmou a possibilidade processual do   julgamento   monocrático do próprio mérito da ação de mandado de segurança, desde   que   observados os requisitos estabelecidos no   art . 205 do RISTF, na   redação dada pela Emenda Regimental nº 28/2009” (grifos no original).
+Na mesma linha, o MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão, e o MS 27.236-AgR/DF, de minha relatoria.
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 15 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
