@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. 1) OBSERVÂNCIA DO DEVIDO PROCESSO LEGAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. 2) IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. 3) ALEGADA OFENSA AO PRINCÍPIO DA LEGALIDADE. INCIDÊNCIA DA SÚMULA 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Colégio Recursal dos Juizados Especiais do Espírito Santo:
+“Diante do acerco probatório dos autos, principalmente à vista do aviso de lançamento apresentado pelo recorrido (fl. 9), bem como do seu verossímil e concatenado depoimento pessoal, cumpre-me realçar, de logo, que a recorrente nada contra provou à luz do CPC, 333, II, o que tampouco fizera à luz da inversão probatória prevista no Codecon.
+Tratando-se de empréstimo avençado por meio de contato telefônico [celebrado na modalidade de consignação em folha de pagamento (programa superlinha)], incumbe ao banco recorrente o ônus de provar contrariamente ao afirmado pelo consumidor, devendo assumir o risco do seu empreendimento, no que se insere a sua conduta de contratar via telefone.
+Além disso, o depoimento autoral constante às fls. 21 estampa, com clareza e verossimilhança, o fato ocorrido, inclusive quanto às diligências do consumidor, que na busca por uma solução para o problema, pediu ao banco as suas necessidades providências, tendo sido apenas informado de que teria ocorrido erro por ocasião da celebração da avença por telefone.
+Trata-se de típica hipótese do Codecon 14, ou seja, de responsabilidade civil objetiva do fornecedor, este que, com base em questões inerentes à culpa, não se exime de sua responsabilidade, inclusive porque não provou ter havido culpa exclusiva do consumidor, cuja conduta no evento sequer poderia ser apontada como concorrente” (fl. 79).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta e a incidência na espécie das Súmulas 279 e 626 do Supremo Tribunal Federal.
+4. O Agravante alega que o Tribunal a quo teria contrariado o art. 5º, inc. II e LIV, da Constituição da República.
+Argumenta que “não pode uma decisão judicial obrigar o banco a formalizar contrato com o qual não está obrigado. A concessão de créditos é mera liberalidade do banco, não podendo o Judiciário adentrar à liberdade negocial do banco e o obrigar a conceder o crédito na forma pretendida” (fls. 86-87).
+Sustenta que “não há permissivo legal algum que obrigue o banco a alterar um contrato pactuado de forma perfeita com o consumidor, sem qualquer vício, ao contrário, o entendimento uníssono é no sentido de reconhecer a impossibilidade jurídica do pedido ou mesmo a culpa exclusiva do consumidor, que expressamente fez a contratação” (fl. 90).
+Assevera que “cabe ao cliente estipular a forma da contratação de crédito que pretende realizar. Se o recorrido passou informações equivocadas ao atendente, não pode o banco ser responsabilizado por tal. O que de fato ocorreu é que o Banco disponibilizou o crédito na forma contratada e agora o Recorrido pretende não adimplir com sua obrigação no contrato” (fls. 91-92).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria o reexame do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, conforme dispõe a Súmula 279 do Supremo Tribunal Federal.
+O reexame do acórdão impugnado demandaria ainda a análise prévia da legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido, os seguintes julgados:
+“A Constituição Federal, no seu art. 5º, LV, assegura aos litigantes, em processo judicial e administrativo, o contraditório e a ampla defesa, com os meios e os recursos àquela inerentes. Precedentes. 2. A suposta ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa passa, necessariamente, pelo prévio reexame de fatos e provas, hipótese inviável em sede extraordinária (STF 279). 3. Agravo regimental improvido” (AI 501.804-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 18.12.2009).
+E:
+“INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. (...) 3. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento. (AI 742.061-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 29.5.2009).
+7. Ademais, a alegada afronta ao art. 5º, inc. II, da Constituição da República encontra óbice na Súmula 636 do Supremo Tribunal Federal, que dispõe que “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+8. Não há, pois, o que prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 15 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
