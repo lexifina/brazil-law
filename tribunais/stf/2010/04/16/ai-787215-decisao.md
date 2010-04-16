@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. MATÉRIA JORNALÍSTICA. DIREITO DE RESPOSTA. AFRONTA AO PRINCÍPIO DA LEGALIDADE. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 636 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE OFENSA A DISPOSITIVOS DO CÓDIGO DE PROCESSO CIVIL E DA LEI DE IMPRENSA: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de Instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“AGRAVO DE INSTRUMENTO - PROCESSUAL CIVIL - CUMPRIMENTO DE SENTENÇA - NULIDADE DA EXECUÇÃO - AUSÊNCIA DE CITAÇÃO/INTIMAÇÃO PARA CUMPRIMENTO DA OBRIGAÇÃO DE FAZER - PUBLICAR DIREITO DE RESPOSTA - EXCESSO NO VALOR DA MULTA - REVISÃO - CABIMENTO - INTELIGÊNCIA DO §6º DO ART. 461 DO CÓDIGO DE PROCESSO CIVIL - PENHORA - IRREGULARIDADE - AUSÊNCIA DE ASSINATURA DO DEPOSITÁRIO - NECESSIDADE DE SEU APERFEIÇOAMENTO - EXIGÊNGIA TEXTUALMENTE EXPRESSA NA LEI. 6.015, DE 1973 - LITIGÂNCIA DE MÁ-FÉ NÃO COMPROVADA” (fl. 316).
+3. No recurso extraordinário, o Agravante alega que teria sido contrariado o art. 5º, inc. II, da Constituição da República.
+Assevera que “o juízo cível é absolutamente incompetente para impor condenação de publicação de direito de resposta, cabendo esclarecer que o mesmo só tem competência condenar à publicação da sentença judicial nele prolatada. Com isso, resta patente a violação do artigo 113 do CPC, bem como do § 1º do art. 32 da Lei 5.250/67” (fl. 399).
+Sustenta que, “a prevalecer o título judicial contendo a obrigação de publicar direito de resposta em desacordo com a legislação especial, (...) poderá vir a ser executada, sendo forçada a publicá-lo sob pena de multa diária” (fl. 401).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento da matéria constitucional e a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 798-801).
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. As alegações de ofensa a dispositivos do Código de Processo Civil e da Lei de Imprensa não ensejam o recurso extraordinário, pois eventual ofensa constitucional seria indireta.
+Ademais, o Supremo Tribunal Federal, no julgamento da Arguição de Descumprimento de Preceito Fundamental 130, de relatoria do Ministro Ayres Britto, assentou que a Lei 5.250/67 (Lei de imprensa) não foi recepcionada pela Constituição da República.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO: DANOS MATERIAIS E MORAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 709.133-AgR, de minha relatoria, Primeira Turma, DJE 6.2.2009).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. 2. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 93, IX, da Constituição Federal. Ofensa constitucional indireta. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI 508.047-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJE 21.11.2008 – grifos nossos).
+7. A alegada afronta ao art. 5º, inc. II, da Constituição da República encontra óbice na Súmula 636 do Supremo Tribunal Federal, que dispõe que “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+8. Nada há, pois, a prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
