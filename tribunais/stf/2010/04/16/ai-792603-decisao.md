@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. RESPONSABILIDADE CIVIL. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO: INEXISTÊNCIA DE OFENSA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO DE INSTRUMENTO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado da Quarta Turma de Recursos de Criciúma:
+“RESPONSABILIDADE CIVIL – DANOS MORAIS – CORTE INDEVIDO NO FORNECIMENTO DE ÁGUA – A CONCESSIONÁRIA DE SERVIÇO PÚBLICO QUE SUSPENDE O FORNECIMENTO DE ÁGUA APÓS A QUITAÇÃO DA FATURA INADIMPLIDA, MESMO QUE O PAGAMENTO TENHA SIDO EFETUADO PELO AUTOR COM ATRASO, PORÉM ANTES DO CORTE DO SERVIÇO PRESTADO, SUJEITA-SE AO PAGAMENTO DA INDENIZAÇÃO DE DANOS MORAIS – QUANTUM MANTIDO – VERBA INDENIZATÓRIA FIXADA COM MODERAÇÃO, EM RESPEITO AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE – JUROS LEGAIS – TERMO A QUO – SÚMULA 54, STJ – CONFIRMA-SE A SENTENÇA A QUO, QUE COMPÔS A LIDE COM JUDICIOSIDADE, PELOS SEUS PRÓPRIOS FUNDAMENTOS (INTELIGÊNCIA DO ART. 46 DA LEI N. 9.099/95” (fl. 135).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta.
+4. No recurso extraordinário, a Agravante alega que o Tribunal a quo teria contrariado o art. 93, inc. IX, da Constituição da República.
+Argumenta que “nenhum dos argumentos apresentados pela requerida foi exposto na decisão, o raciocínio utilizado para se convencer da decisão não foi consignado no acórdão, enfim, tudo isso leva à nulidade da decisão vergastada” (fl. 142).
+Examinada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. Além de a matéria controvertida ser de natureza infraconstitucional, como assentado na decisão agravada, não prospera a alegação de nulidade do acórdão por negativa de prestação jurisdicional. O Tribunal a quo apreciou as questões suscitadas e fundamentou-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses da Agravante.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO PRINCÍPIO DA EFETIVA PRESTAÇÃO JURISDICIONAL: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A rejeição dos argumentos do agravante pelo tribunal a quo não configura afronta ao art. 93, inc. IX, da Constituição” (AI 668.443-AgR, de minha relatoria, Primeira Turma, DJe 14.8.2009).
+“O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+“AGRAVO REGIMENTAL. ALEGAÇÃO DE VIOLAÇÃO DIRETA E FRONTAL DO ART. 5º, XXXV, XXXVI, LIV E LV, E ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. O acórdão recorrido prestou, inequivocamente, jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões que lhe foram postas. Necessidade de exame prévio de norma infraconstitucional para a verificação de contrariedade ao Texto Maior. Ofensa reflexa ou indireta à Constituição. Inexistência de ofensa ao art. 93, IX, da Constituição, porquanto o acórdão recorrido está devidamente fundamentado, ainda que com sua fundamentação não concorde a ora agravante. Agravo regimental a que se nega provimento” (AI 439.037-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 22.9.2006 – grifos nossos).
+Não há, pois, o que prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
