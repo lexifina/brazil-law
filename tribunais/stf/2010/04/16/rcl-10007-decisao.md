@@ -1,0 +1,20 @@
+DECISÃO : Trata-se de reclamação ajuizada por meio eletrônico e sem pedido de medida liminar por Itaú Unibanco S.A., contra decisão proferida pela 12ª Turma do Tribunal Regional do Trabalho da 2ª Região, nos autos do MS 00.864.2008.054.02.00.8 (Acórdão 20090902534), por violação da autoridade da Súmula Vinculante 21.
+Narra a parte-reclamante ter impetrado mandado de segurança com o objetivo de assegurar pretenso direito líquido e certo à interposição de recurso administrativo sem o depósito do valor da multa cuja validade se deseja questionar.
+A autoridade apontada como coatora, contudo, rejeitou a pretensão da reclamante em acórdão assim ementado:
+“Mandado de Segurança. Exigência de depósito prévio da multa para interposição de Recurso Administrativo (artigo 636, parágrafo 1º, CLT). É constitucional a exigência da comprovação do depósito da multa, quando da interposição do recurso administrativo previsto no artigo 635 consolidado. O depósito da multa constitui pressuposto de admissibilidade do recurso administrativo, não se configurando como taxa par ao exercício do direito de petição. Precedentes do E. Supremo Tribunal Federal: AI-AgR 440363/RJ, Rel. Min. Carlos Velloso; AI-AgR 534180/RJ, Rel. Min. Celso de Mello; RE 357311/SP, Rel. Min. Moreira Alves. Recurso Ordinário não provido”.
+Sustenta-se que a decisão viola a autoridade da Súmula Vinculante 21. Segundo argumenta a reclamante, a circunstância de a decisão ter sido proferida em data anterior à adoção do enunciado sumular é irrelevante, pois a autoridade de precedentes é aplicável para solucionar casos idênticos, ainda que iniciados antes da pacificação do tema pelos Tribunais.
+Ante o exposto, pede-se a cassação do ato reclamado, para que outro seja proferido, em conformidade com o que dispõe a Súmula Vinculante 21.
+É o relatório.
+Decido.
+A reclamação é manifestamente incabível.
+Conforme sustenta a parte-reclamante, em princípio, a adoção ou mudança de entendimento jurisprudencial aplica-se a todos os casos semelhantes, mas se eles ainda estiverem em julgamento. Descartada a presença de peculiaridade essencial que afastaria a subsunção das questões de fato e de direito à orientação firmada, a não aplicação do precedente pressupõe a modulação temporal dos efeitos da decisão (aplicação de efeitos meramente prospectivos).
+Contudo, a falta apriorística de limitação temporal da autoridade de precedentes não implica no imediato cabimento da reclamação constitucional como meio para sanar eventual discrepância.
+De fato, a jurisprudência do Supremo Tribunal Federal há muito considera requisito para a reclamação a existência de usurpação de competência ou de violação de autoridade de precedente contemporâneas. É necessário, portanto, que a reclamação seja ajuizada em sincronia à existência e aplicabilidade da orientação que se entende contrariada. Assim está expresso no julgamento da Rcl 502-AgR (rel. min. Paulo Brossard):
+“EMENTA: AGRAVO REGIMENTAL. RECLAMAÇÃO: CABIMENTO. MEDIDA CAUTELAR. [...] Para deflagrar o processo que preserva a competência do Tribunal é preciso que a sua jurisdição privativa esteja sendo exercida por órgão ilegítimo, não bastando simples possibilidade; a usurpação da competência deve ser contemporânea ao ajuizamento da reclamação [...]” (Grifei)
+No plano lógico, não se sustenta a afirmação de que a a autoridade reclamada teria violado autoridade de precedente que nem sequer existia por ocasião da prática do ato tido por desconforme à Constituição, para fins do art. 103-A, § 3º da Carta .
+Isto não quer dizer que os fundamentos que embasam a orientação sumulada sejam ou não aplicáveis ao caso, em julgamento contemporâneo de recurso interposto. Tão-somente significa que a reclamação constitucional não é cabível para obviar o devido processo legal, de modo a encaminhar a discussão diretamente ao Supremo Tribunal Federal.
+Ante o exposto, nego seguimento à reclamação (art. 21, § 1º do RISTF).
+Publique-se.
+Brasília, 16 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
