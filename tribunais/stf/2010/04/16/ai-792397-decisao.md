@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E PREVIDENCIÁRIO. PENSÃO POR MORTE. APLICABILIDADE DA LEI VIGENTE NA DATA DO ÓBITO DO INSTITUIDOR. TEMPUS REGIT ACTUM. JULGADO RECORRIDO EM DESARMONIA COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“Agravo Interno (art. 557, § 1º do CPC). Ação de Habilitação de Pensão. Benefício Previdenciário. Autora viúva de ex-servidor público estadual (professor). Sentença que julgou procedente o pedido. Comprovação da convivência marital e consequente dependência econômica. Incidência da Emenda Constitucional nº 41/2003 que ressalvou o direito adquirido pela sistemática anterior. Inconformismo do Rioprevidência. Decisão monocrática da Relatoria, negando seguimento ao recurso interposto, mantendo na íntegra a decisão vergastada. Os argumentos trazidos pelo réu, ora agravante, visando à reapreciação do julgado, não ensejam modificação, haja vista encontrar-se a decisão monocrática, bem fundamentada. NEGADO PROVIMENTO AO AGRAVO INTERNO” (fl. 494-495 – grifos nossos).
+Tem-se na decisão monocrática proferida pelo Desembargador Relator e confirmada pelo Tribunal de origem:
+“Trata-se de AÇÃO ORDINÁRIA DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO ajuizada por ELIZABETH SILVA PECLY (apelada) em face de IPERJ - INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO DE JANEIRO sucedido pelo FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO RIOPREVIDÊNCIA (apelante), nos termos do art. 3º. da Lei 5.109/07, diante da negativa de habilitação ao pensionamento, requerido administrativamente na qualidade de viúva do ex-servidor público estadual FLÁVIO MENEZES CAMPOS, então professor, falecido em 14/01/2006, acenando, como causa de pedir, que a recusa se deu por suposta separação de fato, haja vista não ter sido a autora a declarante do óbito. Pugna, portanto, pela habilitação como pensionista e consequentemente, pela condenação do réu ao pagamento das parcelas devidas” (fl. 495 – grifos nossos).
+3. No recurso extraordinário, o Agravante afirma que o Tribunal a quo teria ofendido os arts. 2º, 5º, inc. LVI, 37, inc. X, e 40, §§ 7º e 8º (com a alteração da Emenda Constitucional 41/2003), da Constituição da República.
+Assevera que:
+“o Tribunal a quo, ao determinar que a Recorrente proceda à atualização de pensão da Recorrida utilizando-se de documento de atualização de pensão relativo a servidor estadual falecido em 14.1.2006, aplicou ao caso a sistemática constitucional anterior à EC 41/03, que estabelecia a regra da paridade/integralidade.
+(...)
+Na hipótese vertente, o segurado (instituidor da pensão) faleceu após o advento da EC 41/03, aplicando-se a eventual benefício a novel dicção dos §§ 7º e 8º do artigo 40 da CRFB.
+(...)
+É dizer: a Recorrida não faz jus à integralidade (...).
+Não há que se falar na existência de paridade (...).
+Nem se diga que haveria direito adquirido ao regime anterior. O direito torna-se adquirido, segundo a lição de Gabba, amplamente admitida entre os doutos, quando se integra definitivamente ao patrimônio jurídico de seu titular (...).
+No caso dos autos, o que tinha a Recorrida, ao tempo da edição da EC n. 41/03, era mera expectativa de direito, e não o direito adquirido ao benefício. Como se sabe, o fato gerador da pensão post mortem é o óbito do servidor, o que, repita-se, apenas ocorreu em janeiro de 2006, quando já em vigor e produzindo efeitos a sistemática instituída pelo Constituinte reformador” (fls. 531-533 – grifos nossos).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas 279, 280, 282 e 356 do Supremo Tribunal Federal (fls. 546-548).
+O Agravante sustenta a inaplicabilidade dessas súmulas.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Cumpre afastar, inicialmente, o fundamento da decisão agravada de que incidiriam na espécie vertente as Súmulas 279, 280, 282 e 356, pois a questão suscitada no recurso extraordinário tem natureza constitucional, é exclusivamente jurídica e foi objeto de debate e decisão prévios no Tribunal de origem.
+Superado esse óbice, razão jurídica assiste ao Agravante.
+6. O Supremo Tribunal Federal firmou o entendimento de que a pensão regula-se pela lei vigente na data da morte do instituidor:
+“RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. BENEFÍCIO DA PENSÃO POR MORTE. CONCESSÃO ANTERIOR À LEI N. 9.032/95. IMPOSSIBILIDADE DE RETROAÇÃO. SÚMULA 359 DO SUPREMO TRIBUNAL FEDERAL. RECURSO PROVIDO. 1. Em matéria previdenciária, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a lei de regência é a vigente no tempo de concessão do benefício (tempus regit actum). 2. Lei nova (Lei n. 9.032/95 para os beneficiados antes do seu advento e Lei n. 8.213 para aqueles que obtiveram a concessão em data anterior a 1991), que não tenha fixado a retroatividade de seus efeitos para os casos anteriormente aperfeiçoados, submete-se à exigência normativa estabelecida no art. 195, § 5º, da Constituição: ‘Nenhum benefício ou serviço da seguridade social poderá ser criado, majorado ou estendido sem a correspondente fonte de custeio total’” (RE 484.702, de minha relatoria, Tribunal Pleno, DJ 13.4.2007 – grifos nossos).
+“PREVIDENCIÁRIO. PENSÃO POR MORTE. LEI NOVA. AUMENTO DO BENEFÍCIO. RETROAÇÃO. IMPOSSIBILIDADE. I - O benefício previdenciário da pensão por morte deve ser regido pela lei vigente à época do óbito de seu instituidor. II - Impossibilidade de retroação de lei nova para alcançar situações pretéritas. III - Recurso extraordinário conhecido e provido” (RE 498.768, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJ 20.4.2007 – grifos nossos).
+7. Dessa orientação jurisprudencial divergiu o julgado recorrido.
+8. Pelo exposto, dou provimento a este agravo, na forma do art. 544, §§ 3º e 4º, do Código de Processo Civil, e, desde logo, ao recurso extraordinário, nos termos do art. 557, § 1º-A, do mesmo diploma legal, para determinar que ao cálculo da pensão da Agravada sejam aplicados os §§ 7º e 8º do art. 40 da Constituição da República, com a alteração da Emenda Constitucional 41/2003.
+Publique-se.
+Brasília, 16 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
