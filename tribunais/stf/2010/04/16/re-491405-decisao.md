@@ -1,0 +1,13 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III no artigo 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná. Acórdão assim ementado (fls. 442):
+“CONSIGNAÇÃO EM PAGAMENTO. PROVEDOR DE ACESSO À INTERNET. DÚVIDA QUANTO A LEGITIMIDADE DO CREDOR TRIBUTÁRIO: INCIDÊNCIA DO ICMS OU DO ISSQN. PROCEDÊNCIA. INCIDÊNCIA DO ISSQN. IMPUGNAÇÃO DAS PARTES: ESTADO DO PARANÁ PELA INCIDÊNCIA DO ICMS E MUNICÍPIO PELA ALTERAÇÃO DA VERBA HONORÁRIA. DECISÃO REFORMADA, EM REEXAME NECESSÁRIO. 1. Não se conhece do recurso adesivo, porque, figurando o Município como co-réu na ação, cabia-lhe tão-somente apelar da sentença para obter a exclusão da condenação ao pagamento da verba honorária. 2. A atividade exercida pelos provedores de acesso em relação a seus clientes não se confunde nem com os serviços de telecomunicação, nem com os serviços de comunicação. Tal atividade não está sujeita a ICMS e, por não constar da lista de serviços, também não se sujeita ao ISS. 3. Não incidindo nenhum daqueles tributos, julga-se extinto o processo, relativo à ação consignatória, ajuizada pelo provedor, visando dirimir dúvida e obter o recolhimento do tributo devido.”
+2. Pois bem, a parte recorrente alega violação ao inciso II do art. 155 da Magna Carta de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Wagner Gonçalves, opina pelo “não conhecimento do recurso; se conhecido, pelo seu desprovimento” (fls. 668-672).
+4. Tenho que o apelo extremo não merece acolhida. Isso porque a controvérsia foi dirimida centralmente com base na legislação infraconstitucional pertinente (arts. 60 e 61 da Lei 9.472/97). Nessa contextura, ofensa ao Magno Texto, se existente, ocorreria de modo indireto ou reflexo, o que não autoriza a abertura da via extraordinária. Ressalto que o Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão ora discutida, exatamente por não haver contencioso constitucional (RE 583.327, sob a minha relatoria).
+6. De mais a mais, pontuo que o acórdão adotou fundamento suficiente, que restou precluso ante o desprovimento do recurso especial manejado simultaneamente com o extraordinário para o Superior Tribunal de Justiça, o que atrai a incidência da Súmula 283 do Supremo Tribunal Federal. Súmula cuja dicção é a seguinte:
+ “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.”
+Isso posto, e frente ao caput do art. 557 do CPC, e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 16 de abril de 2010.
+Ministro AYRES BRITTO
+Relator
