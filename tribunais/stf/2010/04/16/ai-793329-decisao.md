@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça Militar do Estado de São Paulo assim ementado:
+“Direito constitucional, administrativo e processual civil. Policial Militar. Demissão. Nulidade do ato administrativo. Reintegração. Apelação Cível. Recurso improvido.
+A autoridade administrativa competente tem legitimidade e discricionariedade para proferir a decisão final em processo administrativo, sem nenhuma obrigação de acolhimento do parecer emitido pela comissão processante. Atendidos os pressupostos de competência, finalidade, forma, motivo e objeto, tem-se por garantida a validade e eficácia do ato administrativo.” (fls. 25)
+Alega-se violação do disposto no art. 5°, LXIX, da Carta Magna e desrespeito aos princípio da razoabilidade e da proporcionalidade.
+O Tribunal a quo, ao denegar a segurança, entendeu que “A r. Decisão proferida pelo Exmo. Sr. Comandante Geral da Polícia Militar do Estado, é perfeitamente compreensível, e nela verifica-se que os motivos determinantes da demissão do Apelante, não foram apenas aqueles que são concernentes à vida particular dele e de sua esposa, se houve ou não infidelidade conjugal, e sim sua conduta, ao empregar desnecessariamente arma de fogo da Corporação em via pública, ameaçando e mantendo a esposa como refém, mobilizando considerável aparato policial, por cerca de quarenta minutos, para solucionar uma crise que ele mesmo criou. Tal comportamento não condiz com o esperado de um policial militar, cuja atribuição, entre tantas outras, é justamente reprimir condutas como estas.” (fls. 27)
+O recurso não merece seguimento.
+Quanto à alegada ofensa ao art. 5°, LXIX, ressalto que esta Corte já firmou o entendimento de que a análise dos requisitos para concessão ou denegação do mandado de segurança cinge-se à norma processual que disciplina o exercício da ação constitucional - no caso, a Lei 12.016/2009 -, hipótese em que não se admite o recurso extraordinário. Nesse sentido: AI 573.652-AgR, rel. min. Cármen Lúcia, DJ de 20.04.2007; AI 629.562-AgR, rel. min. Sepúlveda Pertence, DJ de 25.05.2007; AI 565.661-AgR, rel. min. Carlos Britto, DJ de 10.08.2006; AI 489.109-AgR, rel. min. Ellen Gracie, DJ de 20.04.2006.
+Ademais, mesmo que superado tal óbice, concluir diversamente do acórdão recorrido demandaria o prévio exame do quadro fático-probatório, o que é vedado no âmbito de cognição do recurso extraordinário, em razão do disposto na Súmula 279 do Supremo Tribunal Federal.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se
+Brasília, 16 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
