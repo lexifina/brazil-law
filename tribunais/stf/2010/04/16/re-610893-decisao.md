@@ -1,0 +1,39 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PENSÃO. ACUMULAÇÃO DOS PROVENTOS DE REFORMA MILITAR COM OS DE APOSENTADORIA CIVIL EM PERÍODO ANTERIOR À EMENDA CONSTITUCIONAL N. 20/98: POSSIBILIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O Tribunal Regional Federal da 2ª Região julgou apelação em ação ordinária, nos termos seguintes:
+“CONSTITUCIONAL. ADMINISTRATIVO. PENSÃO. ACUMULAÇÃO DE PROVENTOS DE REFORMA MILITAR E DE APOSENTADORIA NA ESFERA CIVIL ANTERIOR À EMENDA CONSTITUCIONAL 20/98. POSSIBILIDADE. PRECEDENTES DA SUPREMA CORTE. JUROS MORATÓRIOS. HONORÁRIOS.
+1. É entendimento do Supremo Tribunal Federal de que a Constituição de 1967, bem como a de 1988, esta na redação anterior à Emenda Constitucional n. 20/98, não vedam o retorno do militar reformado ao serviço público e posterior aposentadoria no cargo civil, acumulando os respectivos proventos.
+2. Tendo o instituidor da pensão implementado as condições legais de acordo com a legislação em vigor antes da Emenda Constitucional n. 20/98, é de ser restabelecida a pensão decorrente da aposentadoria militar, cumulando com a do cargo civil.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que os juros de mora devem ser fixados no percentual de 6% (seis por cento) ao ano, a partir da citação, quando a ação é proposta após o início da vigência da Medida Provisória n. 2.180-35, de 24 de agosto de 2001, que acrescentou o artigo 1º-F à Lei n. 9.494/97.
+4.   No caso, deve ser aplicada a regra de natureza especial prevista no § 4º do artigo 20 do Código de Processo Civil, a fim de que os honorários sejam reduzidos à taxa de 5% (cinco por cento) sobre o valor da condenação.
+5.  Remessa necessária e apelação cível parcialmente providas” (fl. 165).
+3. A Recorrente alega que o Tribunal a quo teria contrariado os arts. 37, inc. XV, XVI, XVII e § 10, e 40, § 6º, da Constituição e art. 11 da Emenda Constitucional n. 20/98.
+Argumenta que:
+“A dupla aposentadoria do apelado foi considerada ilegal pelo TCU, conforme documento presente em fls. 88, seguindo orientação do STF.
+A interpretação dada pelo STF acerca do alcance das normas presentes no artigo 37, incisos XV, XVI, XVII, da CF, presente no julgado do RE 163.204/SP é no sentido da vedação da acumulação de cargos e proventos quando se tratar de cargos, funções e empregos inacumuláveis na atividade.
+Tal impossibilidade de acumulação era considerada, pelo TCU, como sendo impossível somente a partir do trânsito em julgado do acórdão do RE 163.204/SP.
+Ocorre que, o STF julgou a medida cautelar presente na ADIN 1691-7 e suspendeu com eficácia ex tunc tal decisão do TCU, presente nos autos do Processo TC-007.925/96-4. Assim, a partir do julgamento desta medida cautelar, o entendimento do STF passou a ser o seguinte:
+a) vedação da acumulação de cargos e proventos quando se tratar de cargos, funções e empregos inacumuláveis na atividade;
+b) não foi a interpretação dada pelo STF que tornou acumulação inconstitucional, mas sim a própria Constituição que tornou contrário ao direito a acumulação vivenciada pelo autor, haja vista a auto-aplicabilidade das normas presentes no art. 37, XV e XVI, da CR.
+Assim, todas as acumulações de proventos de cargos, empregos e funções não acumuláveis na atividade são consideradas inconstitucionais a partir da promulgação da CR, haja vista a autoaplicabilidade das normas presentes no art. 37, XV e XVI da CR” (fls. 189-190).
+Apreciada a matéria trazida na espécie, DECIDO.
+4. Razão jurídica não assiste à Recorrente.
+O Desembargador Relator consignou em seu voto condutor que:
+“Compulsando os autos, verifica-se que o Autor passou para a reserva remunerada da Marinha em 1983 (fls. 23/24 e 90/91), retornando ao trabalho como servidor civil em 1985 (fls. 27), quando ainda em vigor a Constituição Federal de 1967, que, com a redação dada pela EC n. 1/69, ressalvava, no seu artigo 93, § 9º, o direito dos militares da reserva ou reformados de acumularem proventos de inatividade com vencimentos da ativa, verbis: ‘Art.93 - As patentes, com as vantagens, prerrogativas e deveres a elas inerentes, são asseguradas em toda a plenitude, assim aos oficiais da ativa e da reserva como aos reformados. (...) § 9º - (...) a proibição de acumular proventos de inatividade não se aplicará aos militares da reserva e aos reformados, quanto ao exercício de mandado eletivo, quanto ao de função de magistério ou de cargo em comissão ou quanto ao contrato de prestação de serviços técnicos ou especializados’.
+Daí porque o Autor, a partir de 1985 passou a receber cumulativamente seus proventos oriundos da reserva com os vencimentos decorrentes do novo cargo ocupado, até julho de 1996, quando implementou os requisitos para a concessão de nova aposentadoria, com proventos proporcionais ao tempo de serviço (fls. 29 e 92/94). E, isto se deu, tanto com amparo no preceito acima citado, como também porque a Constituição Federal de 1988, na sua redação primitiva, não vedava o retorno do militar da reserva para o serviço público civil, com acumulação de proventos e vencimentos.
+Saliente-se, ainda, que não se trata de cumulação de dois proventos de aposentadoria civil, decorrentes do art. 40 da Constituição Federal, vedada pela segunda parte do art. 11 da Emenda Constitucional n. 20/98, mas de provento de militar cumulado com provento de servidor civil aposentado na vigência da Constituição Federal de 1988, antes da edição da Emenda Constitucional n. 20/98.
+A controvérsia não comporta maiores debates, tendo em vista que o próprio STF, intérprete máximo da Constituição, já ter pacificado entendimento sobre a questão, no sentido da possibilidade de acumulação em casos como o dos autos, de duas aposentadorias: reforma militar e aposentadoria do serviço público” (fls. 160-161).
+Conforme se verifica, o Tribunal a quo decidiu a controvérsia em harmonia com a jurisprudência do Supremo Tribunal Federal, que firmou-se no sentido da possibilidade de acumulação dos proventos do militar reformado sob a égide da Carta de 1967 com os proventos de servidor civil aposentado na vigência da Constituição de 1988, por não estar essa situação incluída na proibição prevista no art. 11 da Emenda Constitucional n. 20/98.
+Nesse sentido:
+“MANDADO DE SEGURANÇA. (...) CUMULAÇÃO DE PROVENTOS DA RESERVA MILITAR COM OS DE APOSENTADORIA EM CARGO CIVIL ANTES DA EC 20/98. POSSIBILIDADE. ART. 11 DA EC 20/98.
+(...)
+4. O art. 93, § 9º, da Constituição do Brasil de 1967, na redação da EC 1/69, bem como a Constituição de 1988, antes da EC 20/98, não obstavam o retorno do militar reformado ao serviço público e a posterior aposentadoria no cargo civil, acumulando os respectivos proventos. Precedente [MS n. 24.742, Relator o Ministro MARCO AURÉLIO, Informativo n. 360].
+5. Reformado o militar sob a Constituição de 1967 e aposentado como servidor civil na vigência da Constituição de 1988, antes da edição da EC 20/98, não há falar-se em acumulação de proventos do art. 40 da CB/88, vedada pelo art. 11 da EC n. 20/98, mas a percepção de provento civil [art. 40 CB/88] cumulado com provento militar [art. 42 CB/88], situação não abarcada pela proibição da emenda. 6. Segurança concedida” (MS 24.997, Rel. Min. Eros Grau, Plenário, DJ 1º.4.2005 – grifei).
+O acórdão recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal, razão pela qual nada há a prover quanto às alegações da Recorrente.
+5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
