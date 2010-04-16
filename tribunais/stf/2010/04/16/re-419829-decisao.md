@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto contra acórdão que mantivera sentença que julgara improcedente pedido da parte ora recorrente, a qual buscava, com a declaração incidental de inconstitucionalidade das Leis 2.368/95 e 2.470/97, do Estado do Amazonas, viabilizar promoção na carreira polícial militar. Eis a ementa:
+“AÇÃO ORDINÁRIA – CONTROLE DE CONSTITUCIONALIDADE – DECLARAÇÃO POR VIA DE EXCEÇÃO OU INCIDENTAL – AGREGAÇÃO DISCIPLINADA PELAS LEIS Nºs 2.268/95 E 2.470/97 – VIOLAÇÃO DO PRINCÍPIO DA ISONOMIA – INOCORRÊNCIA.
+-O controle indireto ou difuso de inconstitucionalidade é da competência de qualquer juiz, dentro de sua área de atribuição, mas a sua declaração incidental tem a finalidade única de fulminar uma relação jurídica fundada em ato adnministrativo assentado na lei apontada como rebelde à Constituição e que de resto tem eficácia meramente intraprocessual, ou seja, restringindo-se apenas às pessoas que figuram como parte na demanda.
+-A autonomia dos Estados-membros é assegurada pela Constituição Federal/88, valendo dizer que, no caso concreto, os Estados têm capacidade legal de auto-organização e conseqüentemente de editar normas específicas dentro dos princípios da sua conveniência e oportunidade. As leis nºs. 2.368/95 e 2.470/97, que dando nova redação ao art. 19, parágrafo 4º, da Lei nº 1.116/74, estabelecem que a agregação de Oficial da Polícia Militar abrirá vaga no respectivo quadro somente nos casos que especifica, não padecem de inconstitucionalidade, de vez que não ofendem o princípio da isonomia. Ao disciplinar, através dos referidos diplomas legais, existência de vagas em face de agregação, o Estado do Amazonas não ultrapassou os lindes da sua competência concorrente estabelecendo normas específicas ajustando-as ao âmbito regional “(Fls. 496)
+Alega a parte recorrente vulneração do princípio constitucional da isonomia e dos artigos 42, § 1º e 142, § 3º, III, da Constituição federal.
+Não prospera o recurso.
+Verifico, preliminarmente, ausência de prequestionamento das supostas ofensas aos artigos 42, § 1º e 142, § 3º, III. Incide, no ponto, o óbice da Súmula 282-STF.
+Ademais, para afastar as conclusões do acórdão recorrido no sentido da inexistência de afronta ao princípio da isonomia, imprescindível reexame da prova documental, pois “(...) trata-se, como bem acentuou o magistrado sentenciante, de uma expectativa de direito, embora afirme o Apelante reunir todas as condições para a promoção almejada” (fls. 499), providência vedada pela Súmula 279, desta Corte.
+ Do exposto, nego seguimento ao presente recurso.
+ Publique-se.
+ Brasília, 16 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
