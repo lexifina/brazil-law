@@ -1,0 +1,27 @@
+DECISÃO
+CRIME DE RESPONSABILIDADE DE SERVIDOR PÚBLICO – ARTIGO 514 DO CÓDIGO DE PROCESSO PENAL – ALCANCE – DEVIDO PROCESSO LEGAL – RELEVÂNCIA DA ARTICULAÇÃO – LIMINAR DEFERIDA.
+1.  A Assessoria prestou as seguintes informações:
+O paciente foi denunciado pela prática dos crimes de fraude em procedimento licitatório – artigo 90 da Lei nº 8.666/93 (quatro vezes), combinado com os artigos 29 e 69 do Código Penal.
+Contra o ato de recebimento da denúncia impetrou-se habeas no Tribunal de Justiça do Estado do Paraná. Sustentou-se a impossibilidade de admitir a acusação sem antes facultar ao denunciado a apresentação de defesa preliminar, consoante previsto no artigo 514 do Código de Processo Penal, para as hipóteses de crimes funcionais, sob pena de nulidade, assentando que a resposta oferecida pelo acusado há de ser apreciada pelo Juiz, como condição prévia ao ajuizamento da ação penal.
+O Tribunal estadual indeferiu a ordem. Disse que o simples fato de o réu ostentar a condição de funcionário não atrairia a aplicação do preceito legal acima mencionado, dado que a observância somente se mostrava exigível nos casos de ilícito penal próprio, funcional, para as quais a condição de funcionário público seja inerente à prática do crime (folha 85).
+Idêntica pretensão foi rejeitada pelo Superior Tribunal de Justiça por ocasião do julgamento do Habeas Corpus nº 143.663/PR. A Quinta Turma daquela Corte reafirmou o entendimento no sentido de a aplicação do artigo 514 do Código de Processo Penal ocorrer relativamente a crimes funcionais próprios, fato não verificado na espécie, pois o crime de fraude à licitação pode ser praticado por qualquer pessoa (folha 18).
+Neste habeas, o impetrante reitera a tese submetida à apreciação das instâncias judiciais percorridas, relacionada à observância do disposto no artigo 514 do Código de Processo Penal, que prevê a apresentação de defesa preliminar quando se cuidar de crimes funcionais.
+Pede a concessão de liminar para sustar a tramitação da Ação Penal nº 2004.1401-0, em curso no Juízo da 5ª Vara Criminal da Comarca de Londrina, Estado do Paraná. No mérito, pleiteia o reconhecimento do direito ao exame da defesa preliminar apresentada antes do recebimento da peça acusatória.
+Tendo em conta o objeto do pedido de liminar, Vossa Excelência determinou a realização de diligência visando a obter informações acerca da tramitação do processo-crime acima mencionado (folha 101). O impetrante e o Juízo Criminal prestaram esclarecimentos e requereram a juntada de certidão de inteiro teor, na qual se lê que “o feito encontra-se aguardando audiência de instrução e julgamento que se realizará no dia 10/05/2010” (folha 121).
+2.  O paciente foi denunciado ante o disposto no artigo 90 da Lei nº 8.666/93:
+[...]
+Art. 90. Frustrar ou fraudar, mediante ajuste, combinação ou qualquer outro expediente, o caráter competitivo do procedimento licitatório, com o intuito de obter, para si ou para outrem, vantagem decorrente da adjudicação do objeto da licitação:
+Pena - detenção, de 2 (dois) a 4 (quatro) anos, e multa.
+[...]
+ O alegado desvio de conduta teria ocorrido quando ocupava o cargo de Secretário de Governo no Município de Londrina. Vem-nos da hermenêutica e da aplicação do Direito uma premissa: as normas, especialmente as instrumentais, no campo penal devem ser interpretadas de modo a beneficiar aquele a quem visam a proteger.
+ O tipo não é específico considerado o servidor público – espécie. O caso envolve Secretário de Governo, que, embora seja agente político, está compreendido na expressão, tomada de forma geral, que, na legislação pretérita, corresponde a funcionário público.
+ Então, tenha-se presente que o disposto no artigo 514 do Código de Processo Penal - a estabelecer a notificação prévia do acusado para responder, por escrito, no prazo de quinze dias, à peça primeira da ação penal, a denúncia ou a queixa – remete ao artigo 513, antecedente, a versar crimes de responsabilidade dos funcionários públicos. Mais uma vez, valho-me da hermenêutica e da aplicação do Direito. Onde a lei não distingue não cabe ao intérprete fazê-lo, muito menos em prejuízo do beneficiário da norma. A referência contida no mencionado artigo 513 alcança crimes de responsabilidade dos funcionários públicos, sem ter-se a exigência de tratar-se de crime próprio, de tipo que apenas envolva servidor.
+ Frise-se, por oportuno, que a problemática da defesa prévia, no que integra o devido processo legal, veio a ser elastecida. Com a reforma de 2008, mais precisamente com a Lei nº 11.719, alterou-se o Código de Processo Penal para prever-se, mediante o novo texto do artigo 396, que:
+Nos procedimentos ordinário e sumário, oferecida a denúncia ou queixa, o juiz, se não a rejeitar liminarmente, recebê-la-á e ordenará a citação do acusado para responder à acusação, por escrito, no prazo de 10 (dez) dias.
+ Em que pese à referência ao recebimento, na verdade, a defesa o antecede. Entre a interpretação verbal, gramatical, que seduz os aligeirados, há de prevalecer a teleológica, buscando-se, acima de tudo, o objeto da norma.
+3.  Defiro a liminar para suspender, até o julgamento final deste habeas corpus, o Processo nº 2004.0001401-0, a que responde o paciente no Juízo da 5ª Vara Criminal da Comarca de Londrina, fazendo-o com as cautelas próprias, ou seja, tão só quanto ao paciente.
+4.  Colham o parecer da Procuradoria Geral da República.
+5.  Publiquem.
+Brasília – residência –, 16 de abril de 2010.
+Ministro MARCO AURÉLIO
+Relator
