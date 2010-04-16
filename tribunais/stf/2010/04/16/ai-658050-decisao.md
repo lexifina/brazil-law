@@ -1,0 +1,36 @@
+DECISÃO: Trata-se de Agravo de Instrumento, interposto por GIL GRECO RUGAI, contra decisão de inadmissibilidade do Recurso Extraordinário proferida pelo Tribunal de Justiça do Estado de São Paulo.
+De acordo com a decisão agravada, o recorrente não demonstrou precisamente as razões da vulneração à Constituição da República (Súmula 284/STF) e a alegada ofensa a dispositivos constitucionais seria meramente reflexa. Além disto, a matéria não teria sido prequestionada (fls. 242/245).
+O agravante sustenta que prequestionou a matéria nos embargos de declaração opostos contra o acórdão de desprovimento do recurso em sentido estrito da defesa. O recorrente pretendia a reforma da decisão de pronúncia, por suposta ausência de justa causa para a submissão do réu a júri popular.
+O recurso extraordinário alega ofensa ao art. 5º, LIV e LV, da Constituição da República, aos seguintes fundamentos: 1) invalidade da denúncia; 2) invalidade do laudo pericial juntado aos autos; 3) ofensa ao princípio da igualdade por não ter sido acolhida alegação de imunidade processual do acusado; 4) nulidade do acórdão recorrido, por ausência de fundamentação.
+É o relatório.
+Decido.
+O acórdão recorrido tem o seguinte teor (fls. 152):
+“Recurso em sentido estrito. Duplo homicídio qualificado por motivo torpe, mais estelionatos em continuidade delitiva. Preliminares inconsistentes. Questão da prisão cautelar prejudicada, ante a concessão de habeas corpus pelo Supremo Tribunal Federal, com expedição de alvará de soltura em favor do acusado, já cumprido, a esta altura. Denúncia que preenche todos os requisitos do art. 41 do Código de Processo Penal. Avaliação do mesmo fato pelo Supremo Tribunal Federal consoante ao que aqui se entende. Provas colacionadas dentro dos padrões adotados pelas normas de processo. Ausência, ademais, de prejuízo à defesa. Falta de justa causa para ação quanto ao crime de estelionato. Tema estritamente meritório, de direito material, que só em vias processuais próprias é que merece avaliado. Inviabilidade de abordamento do tema em sede restrita de remédio heróico. Mérito. Pronúncia mantida. Requisitos de materialidade e autoria mais do que bem caracterizados nos autos. Evidências convincentemente suficientes a mandar a causa a julgamento popular pelo Tribunal do Júri, foro apropriado para tanto. Recurso improvido, repelidas as preliminares.”
+O recorrente alega que a prova pericial em que se baseia a pronúncia foi produzida sem que a defesa tivesse oportunidade de formular quesitos aos peritos, o que tornaria a prova ilegítima.
+O acórdão recorrido afirmou, contudo, que “não se concebe, ou se avista, por meio ou adminículo qualquer, colheita de provas de forma irregular”. E destacou (fls. 158):
+“De tudo o que foi juntado teve ciência a defesa, que pôde impugnar e protestar quanto a tanto.
+Absolutamente vício algum nos autos, também, em face à apontada realização de laudo pericial sem possibilidade de apresentação de quesitos pela defesa.
+Como bem ponderou o Ilustre Representante da Procuradoria de Justiça, Dr; Paulo Sérgio Cornacchioni, em preciso parecer, que se referenda e adota como razão colegiada de decidir:
+“Brada o recorrente haver irregularidade na produção de prova pericial, consistente no exame de vestígios do arrombamento da porta de um dos cômodos da casa, palco do evento criminoso de onde a vítima Luís Carlos fora, segundo a denúncia, arrebatada para a sumária execução a tiros.
+A insurgência se deveu à circunstância de que, quando determinada a produção daquela pericial, não se facultou à defesa a prévia elaboração de quesitos.
+Bom que se registre, desde logo, que, como destacado em sede de contra-razões, a pronúncia do recorrente não buscou lastro exclusivo no resultado desta perícia, mas antes em inumeráveis outros elementos de convicção de ordem técnica e testemunhal, exaustivamente alinhados pela diligente Promotora de Justiça que em primeiro grau respondeu ao recurso.
+De qualquer modo, havendo também esta tese defensiva sido objeto de Habeas Corpus (HC 466.578.3/7) quando de sua denegação, já assinalara esta Augusta Superior Instância que nenhum vício se encontrou na elaboração do indigitado trabalho técnico.
+É que a questionada perícia foi ordenada, ainda no Inquérito Policial, pela digna autoridade que presidiu a investigação administrativa.
+E, no inquérito policial, em que ainda não há lide penal, não vigora o princípio do contraditório (...).
+Trata-se, como escrito nos livros, de peça meramente informativa.
+Apenas a juntada do laudo pericial respectivo é que se operou já no curso do processo judicial (...).
+Nada obstante, por elogiável prudência do juízo monocrático, à juntada do trabalho pericial seguiu-se o oferecimento de oportunidade para que as partes sobre ele se pronunciassem. E, mais ainda, atendeu a pedidos da D. defesa para a complementação pericial, voltada para a resposta das questões (pode-se ler quesitos) por ela formulados.
+Daí se dizer, sem receio ou hesitação, que a providência reclamada pela D. defesa acabou sendo deferida e realizada, de molde que o ato processual sobre que incide a insurgência acabou atingindo o fim pelo recorrente colimado.
+(...)
+Sobremais – e isto verdadeiramente importa – não se entrevê, também aqui, qual o efetivo prejuízo experimentado pela parte quanto a tanto. É o princípio insculpido no art. 563 do Código de Processo Penal (‘pas de nullité sans grief’). Mormente quando não houve imediato reclamo ou protesto nos momentos apropriados para tal, fazendo precluir o direito de insurgência.”
+Assim, o acórdão recorrido está devidamente fundamentado, ainda que com sua fundamentação não concorde o ora agravante, não havendo violação do disposto no art. 93, IX, da Constituição da República.
+Também inexiste a alegada ofensa ao art. 5º, LV e LVI, da Constituição, pois o acórdão recorrido, ao julgar o recurso interposto, inequivocamente deu cumprimento aos princípios do contraditório e da ampla defesa.
+Percebe-se, ainda, da transcrição acima, que o acórdão recorrido assenta-se em mais de um fundamento suficiente na matéria atinente à prova pericial (ausência de prejuízo, submissão da perícia ao contraditório posterior), ao passo que o recurso impugnou apenas um deles (violação ao contraditório prévio), esbarrando no teor da Súmula 283/STF.
+Quanto ao mais, ainda relativamente ao laudo pericial impugnado, o recorrente pretende a análise de matéria fático-probatória, o que é inviável em recurso extraordinário, nos termos da Súmula 279/STF.
+Relativamente à alegação de inépcia da denúncia, a tese já foi afastada pela 2ª Turma deste Tribunal, ao denegar pedido idêntico no HC 86.346, de minha relatoria (DJ 02/02/2007).
+Por fim, quanto à alegada violação ao princípio da igualdade processual, por não ter sido observado o suposto direito do recorrente à imunidade processual, trata-se, claramente, de ofensa meramente reflexa, pois seu exame exige a prévia análise do art. 181, II, do Código Penal, como requerido pelo próprio recorrente (fls. 220).
+Por todo o exposto, nego seguimento ao agravo (art. 557, Código de Processo Civil, c/c art. 21, §1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
