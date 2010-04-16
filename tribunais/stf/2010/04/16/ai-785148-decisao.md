@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Rio de Janeiro que, baseado no princípio da boa fé objetiva e na aplicação do art. 51, VI, do Código de Defesa do Consumidor, procedeu à complementação do valor fixado em transação extrajudicial para fins de indenização por danos decorrentes de acidente de trânsito, em favor de consumidora.
+O acórdão recorrido foi assim ementado (fls. 73):
+“AÇÃO SUMÁRIA - ACIDENTE DE TRÂNSITO - TRANSAÇÃO EXTRAJUDICIAL PARA COMPOSIÇÃO DOS DANOS- VALOR IRRISÓRIO- PRINCÍPIO DA BOA FÉ OBJETIVA.
+Passageira que veio a sofrer lesões corporais no interior do ônibus em que viajava, dirigido por preposto da transportadora de forma imprudente, vindo a tombar numa valeta. Transação extrajudicial no valor de R$ 400,00. Situação que caracteriza a ausência de boa-fé no negócio e sua desconsideração pela evidente e exagerada desvantagem do consumidor.
+Ação que visa à complementação do valor recebido pela passageira. Possibilidade. Aplicação do art. 51, VI, da Lei n. 8.078/90 e do princípio da boa fé objetiva. Valor insignificante diante das lesões sofridas e comprovadas por laudo pericial. Princípio da causa madura, julgando-se procedente a pretensão indenizatória com arbitramento do dano moral indenizável, segundo a adoção do princípio da proporcionalidade, com abatimento do valor já pago pela transportadora. Recurso provido.”
+O recurso extraordinário sustenta ofensa ao art. 5°, XXXVI, da Constituição federal, ao defender a plena validade de transação extrajudicial firmada entre as partes para fins de extinção do processo sem resolução de mérito, nos termos do art. 267, V, do Código de Processo Civil.
+Contudo, ao alegar que o acórdão recorrido ofende o preceito do art. 5º, XXXVI, o recurso extraordinário versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Ademais, com o trânsito em julgado da decisão do Superior Tribunal de Justiça, que negou seguimento ao recurso especial (fls. 108-111), permanece íntegro o principal fundamento do acórdão recorrido, de índole infraconstitucional, referente à violação do princípio da boa fé objetiva, em razão da exagerada desvantagem do consumidor (art. 51, IV, da Lei 8.078/1990). Essa situação inviabiliza o recurso extraordinário, nos termos da Súmula 283/STF.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 16 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
