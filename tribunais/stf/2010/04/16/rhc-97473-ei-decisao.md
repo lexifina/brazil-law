@@ -1,0 +1,23 @@
+DECISÃO
+EMBARGOS INFRINGENTES NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. EMBARGOS INFRINGENTES OPOSTOS CONTRA ACÓRDÃO DE TURMA QUE NEGA PROVIMENTO A RECURSO ORDINÁRIO EM HABEAS CORPUS: RECURSO INCABÍVEL. PRECEDENTES. EMBARGOS AOS QUAIS SE NEGA SEGUIMENTO.
+Relatório
+1. Embargos infringentes opostos contra acórdão proferido pela Primeira Turma do Supremo Tribunal Federal, que, em 10.11.2009, por maioria, negou provimento a ordem pleiteada, nos termos seguintes:
+“EMENTA: Recurso ordinário em habeas corpus. Tentativa de roubo qualificado pelo concurso de agentes (art. 157, §2º, inc. II, c/c art. 14, inc. II, do CP). Dosimetria da pena. Possibilidade de nova valoração pelo Tribunal de Justiça local, considerando as mesmas circunstâncias judiciais (art. 59) para aumentar a pena imposta pelo Juízo de 1º grau. Não ofensa ao art. 93, inc. IX, da CF. Regime semiaberto corretamente fixado. Recurso desprovido.
+1. A apelação do Ministério Público devolve ao Tribunal de Justiça local a análise dos fatos e de seu enquadramento.
+2. Valorar os mesmos fatos anteriormente considerados pelo Juízo de 1º grau para aplicar uma pena maior e modificar o regime prisional para um mais gravoso está no âmbito da competência do Tribunal de Justiça, sem que isso configure ofensa ao art. 93, inc. IX, da CF.
+3. Recurso ordinário desprovido” (fl. 223).
+2. O ora Embargante alega, em sua petição, nulidade processual, defendendo as razões dos votos vencidos no Recurso Ordinário em Habeas Corpus 97.473 e requerendo sejam providos os Embargos Infringentes para que esses votos prevaleçam.
+3. O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Wagner Gonçalves, manifestou-se “pelo não conhecimento dos embargos infringentes que, se conhecidos, devem ser desprovidos” (fls. 237-241).
+Apreciada a matéria trazida na espécie, DECIDO.
+4. O presente recurso não pode ter seguimento, por ser manifestamente incabível.
+5. Nos termos do Código de Processo Penal, os embargos infringentes são oponíveis contra decisão majoritária de instância recursal, desfavorável ao réu, que julgue apelação ou recurso em sentido estrito (art. 609, parágrafo único, do Código de Processo Penal).
+Neste Supremo Tribunal Federal, cabem embargos infringentes, tão-somente, contra decisão não unânime do Plenário ou da Turma a) que julgar procedente a ação penal; b) que julgar improcedente a revisão criminal; c) que julgar a ação rescisória; d) que julgar a representação de inconstitucionalidade; e e) que, em recurso criminal ordinário, for desfavorável ao acusado de crime político (art. 333 do Regimento Interno do Supremo Tribunal Federal); a dizer, não há previsão legal ou regimental que autorize a oposição de embargos infringentes contra decisão majoritária, desfavorável ao paciente, em habeas corpus ou em recurso ordinário em habeas corpus.
+6. Neste sentido a jurisprudência deste Supremo Tribunal Federal, de que não cabem embargos infringentes contra acórdão de turma que denega habeas corpus ou nega provimento a recurso ordinário em habeas corpus:
+“EMENTA: PROCESSUAL PENAL. EMBARGOS INFRINGENTES. HABEAS CORPUS. I. - Os embargos infringentes, em matéria penal - CPP, art. 609, parág. único - são cabíveis de decisão majoritária de Tribunais de 2º grau e somente são utilizáveis pela defesa. São eles admissíveis na apelação e no recurso em sentido estrito. II. - Não cabimento de embargos infringentes em habeas corpus. III. - Disciplina dos embargos infringentes no STF: RI/STF, art. 333 e seu parág. único. IV. - Agravo não provido” (HC 72.664-AgR-EI, Rel. Min. Carlos Velloso, DJ 3.4.1998).
+“EMENTA: 1. Embargos infringentes: não cabimento contra acórdão de Turma, que indefere habeas corpus: precedentes. 2. Embargos de declaração: ausência de qualquer contradição no acórdão embargado: pretensão a reexame do julgado, a que não se prestam os embargos de declaração: rejeição” (HC 84453-ED, Rel. Min. Sepúlveda Pertence, DJ 10.6.2005).
+“EMENTA: Agravo regimental. Recurso ordinário em ‘habeas corpus’. Embargos infringentes. Não cabimento. - Em face dos artigos 307 a 309 e 333 do Regimento Interno, não cabem embargos infringentes contra decisão prolatada pelo Pleno ou pelas Turmas do STF em recurso ordinário em ‘habeas corpus’. Inexistência de ofensa, por isso, aos artigos 5º, LIV e LV, e 102, I, ‘a’, da Constituição de 1988. Agravo a que se nega provimento” (SS 79.788-ED, Rel. Min. Moreira Alves, DJ 1.2.2002).
+7. Pelo exposto, nego seguimento aos presentes embargos infringentes (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
