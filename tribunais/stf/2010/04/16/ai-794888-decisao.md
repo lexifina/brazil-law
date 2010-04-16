@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CIVIL. EMBARGOS DO DEVEDOR. ALEGAÇÃO DE USURA ACOLHIDA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“EMBARGOS DO DEVEDOR. CHEQUE. ALEGAÇÃO DE USURA. INEXISTÊNCIA DE RELAÇÃO ENTRE AS PARTES, CAPAZ DE LEGITIMAR O EMPRÉSTIMO DE DINHEIRO. VEROSSIMILHANÇA DA ALEGAÇÃO DE USURA, CAPAZ DE NULIFICAR A EXECUÇÃO. APELAÇÃO PROVIDA” (fl. 149).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a inexistência de ofensa ao art. 93, inc. IX, da Constituição da República e a incidência das Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. A Agravante alega que o Tribunal a quo teria contrariado os arts. 1º, 2º, 3º, inc. I e IV, 5º, inc. II, XXII, LIV e LVII, 59 e 93, inc. IX, da Constituição da República.
+Argumenta que, embora tenha oposto embargos de declaração, “os MM. Desembargadores da 19ª Câmara Cível do Egrégio Tribunal de Justiça do Estado do Rio Grande do Sul, à unanimidade, acolheram só parcialmente os embargos declaratórios, tampouco manifestaram-se acerca dos dispositivos legais, na forma requerida” (fl. 196).
+Sustenta que “não houve efetiva apreciação, por parte do Egrégio Tribunal de Justiça, da preliminar de ausência das condições da ação de embargos do devedor, por ausência de garantia do juízo. Não houve observância do devido processo legal” (fl. 202).
+Assevera que “não pode haver presunção de que (...) praticou agiotagem. A agiotagem deve ser provada e não presumida. Nos autos verifica-se total ausência de provas no sentido de ocorrência de agiotagem” (fl. 208).
+Afirma que “a lei, em especial, o artigo 1.256 do Código Civil de 1916, expressamente diz que: ‘Art. 1.256. O mútuo é o empréstimo de coisas fungíveis. O mutuário é obrigado a restituir ao mutuante o que dele recebeu em coisas do mesmo gênero, qualidade e quantidade’. (...) se não determinada a devolução do dinheiro, restará maculado o artigo 5º, inciso XXII, da Constituição Federal, que assegura o direito de propriedade” (fl. 210).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Inicialmente, cumpre afastar o fundamento da decisão agravada de que não teria havido prequestionamento, pois a Agravante suscitou os dispositivos constitucionais nos momentos processuais adequados.
+Todavia, razão de direito não assiste à Agravante.
+6. Como assentado na decisão agravada, não prospera a alegação de nulidade do acórdão por negativa de prestação jurisdicional. O Tribunal a quo apreciou as questões suscitadas e fundamentou-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses da Agravante.
+7. Também não assiste razão à Agravante no tocante aos demais dispositivos constitucionais tidos por afrontados.
+A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de exame prévio de normas infraconstitucionais, configuram, apenas, ofensa reflexa à Constituição da República.
+Ademais, O Tribunal a quo concluiu que a Agravante teria praticado usura, razão pela qual declarou a nulidade da execução do título extrajudicial. Para concluir de forma diversa do acórdão recorrido, seria necessária a análise das disposições do Código Civil de 1916 e da Lei de Usura. Assim, a ofensa à Constituição da República, se existente, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO. CÉDULA DE CRÉDITO COMERCIAL. JUROS: APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR E DO DECRETO N. 22.626/33. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 617.814-AgR, de minha relatoria, Primeira Turma, DJ 19.12.2008).
+“PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO RECORRIDO E EMBARGOS DE DECLARAÇÃO OPOSTOS QUE NÃO TRATARAM DO DISPOSITIVO CONSTITUCIONAL ALEGADO COMO VIOLADO. SÚMULA/STF 282. MATÉRIA INFRACONSTITUCIONAL. 1. Ausência de prequestionamento, pois o dispositivo constitucional tido como violado não foi abordado pelo acórdão recorrido tampouco pelos embargos de declaração opostos. Incidência da Súmula/STF 282. 2. O acórdão recorrido decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie, qual seja, Lei de Usura. Assim, eventual ofensa à Constituição Federal seria indireta ou reflexa, o que elide o processamento do recurso extraordinário. 3. Agravo regimental improvido” (RE 572.705-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJ 26.2.2010).
+Nada há, pois, a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
