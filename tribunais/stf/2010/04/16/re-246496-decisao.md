@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+“EMENTA: SERVIDOR PÚBLICO – Agentes de Segurança Penitenciária – Pedido de pagamento de gratificação por trabalho noturno – Servidores que cumprem turno de trabalho noturno regularmente, não esporadicamente – Pagamento devido em função do disposto na Constituição Federal, artigo 7º, IX, combinado com o disposto no artigo 39, § 2º - Pagamento a se dar em conformidade com o disposto no artigo 3º da LC 506, de 27.01.1987 – Sentença de improcedência reformada, mantida a ocorrência da litispendência quanto ao litisconsorte – Recurso provido.” (Fls. 96)
+No recurso extraordinário, o recorrente alega violação aos arts. 2º; 5º, II; 37, XIV, da Constituição federal. Afirma, em síntese, que o acórdão recorrido concedeu dois benefícios com base no mesmo fato ao conceder o adicional noturno aos servidores desconsiderando o pagamento da gratificação por Regime Especial de Trabalho Policial (RETP), o que seria inconstitucional.
+O Tribunal de origem assentou que “o recebimento pelos servidores da gratificação pelo RETP não constitui impedimento ao pagamento pelo Estado da gratificação por trabalho noturno, por outro lado, na medida em que se verifica que a primeira é medida de caráter genérico, destinada a favorecer a todos os servidores policiais civis, pela própria natureza da função, simplesmente.” (fls. 98). Impossível chegar à conclusão diversa sem a análise de legislações locais, o que dá margem ao descabimento do recurso extraordinário (Súmula 280 do STF). Nesse sentido, o AI 285.354 (rel. min. Sepúlveda Pertence, DJ de 29.11.2004) e RE 433.577-AgR (rel. min. Ellen Gracie, DJ de 22.05.2009).
+Do exposto, nego seguimento ao presente recurso.
+Publique-se.
+Brasília, 16 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
