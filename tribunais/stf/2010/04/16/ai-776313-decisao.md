@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Distrito Federal e Territórios cuja ementa tem o seguinte teor (fls. 18):
+“EMENTA – PROCESSO CIVIL – AGRAVO RETIDO – VÍNCULO EMPREGATÍCIO – SUSPEIÇÃO DA TESTEMUNHA – RECONVENÇÃO – CERTEZA QUANTO AO CRÉDITO – CONTRATO DE FORNECIMENTO DE TICKETS – ROMPIMENTO DO CONTRATO – CULPA.
+1 – O vínculo empregatício puro e simples não é fator suficiente a ensejar a dúvida quanto ao depoimento da testemunha. Todavia, se a situação envolve cargo de gerente financeiro, sendo este o principal interessado dentro do quadro de trabalho da empresa, pela manutenção de sua saúde financeira, a qual, em última análise, se confunde com sua própria atuação funcional, deve ser ouvido apenas como informante no processo e não como testemunha.
+2 – Se através da reconvenção pode-se ter certeza quanto ao crédito da parte, enquanto que a decisão de improcedência do pedido principal pode gerar nova oportunidade de questionamento judicial por parte das autoras quanto àquela é de se ter por correto o procedimento reconvencional, tanto mais se não é possível obter o mesmo efeito prático por meio da contestação.
+3 – Se várias foram as causas que deram ensejo à rescisão contratual, sendo elas ocasionadas pelas duas partes contratantes, não pode ser uma das empresas considerada exclusivamente culpada pela rescisão, não sendo, portanto, devidas quaisquer indenizações decorrentes desta rescisão, sejam elas por danos materiais ou por danos morais.
+4 – Recurso a que se nega provimento.”
+A parte agravante alega ofensa aos arts. 5º, LV, e 93, IX, da Constituição federal. Sustenta, em síntese, que “ocorreu efetiva violação a preceitos constitucionais, na medida em que o E. Tribunal a quo não conferiu aos novos advogados das Recorrentes a possibilidade de realizar sustentação oral no julgamento de apelação” (fls. 47).
+É o relatório.
+Não assiste razão aos agravantes. Ao julgar os embargos de declaração, o tribunal de origem assim consignou:
+“Quanto à alegação de que foi violado o contraditório e a ampla defesa por não ter sido deferido o pedido de adiamento do julgamento, deixo assentado que o inciso IX, do art. 7º do Estatuto do Advogado prevê ser direito do patrono a sustentação oral nas sessões de julgamento, mas não que o julgamento seja adiado sem qualquer motivo, eis que na petição não ficou explicitada nenhuma causa justificável para que se adiasse o julgamento do processo. Ademais, com tantos representantes processuais da empresa, difícil ocorrer que todos estariam impossibilitados de estarem presentes no dia do julgamento para se fazer a pretendida sustentação.” (Fls. 38)
+A análise das questões constitucionais suscitadas implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Ademais, a parte ora agravante, ao alegar que o acórdão recorrido ofende os artigos invocados, trata de matéria cuja suposta violação demandaria o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional. Nesse sentido os seguintes julgados:
+“EMENTA: PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL: OFENSA INDIRETA À CONSTITUIÇÃO. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+1.  Apesar dos argumentos do Agravante, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, entre outros, configuram ofensa reflexa à Constituição da República.
+2.  Agravo Regimental ao qual se nega provimento” (AI 649.191-AgR/DF, rel. min. Cármen Lúcia, DJ de 1º.6.2007).
+Além disso, inexiste a alegada ofensa ao art. 93, IX, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, tendo enfrentado as questões suscitadas, e está devidamente fundamentado, ainda que com sua fundamentação não concorde a parte agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 16 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
