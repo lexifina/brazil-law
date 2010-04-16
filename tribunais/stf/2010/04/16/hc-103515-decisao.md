@@ -1,0 +1,18 @@
+DECISÃO: 1. Trata-se de habeas corpus preventivo, com pedido de liminar, impetrado em favor de CARLOS MASSETTI ou LEONARDO BADALAMENTI ou RICARDO CAVALCANTE VITALE.
+ O impetrante requer a expedição de salvo conduto em favor do paciente, que já esteve preso por ordem do Min. RICARDO LEWANDOWSKI, nos autos da PPE nº 622. O governo da Itália, requerente desse pedido de prisão preventiva, solicitou a desistência da ação, por não ter mais interesse na extradição de seu nacional.
+ Naquela ocasião, aduz o impetrante, não se comprovou que o ora paciente, CARLOS MASSETTI, se tratava de LEONARDO BADALAMENTI, contra quem o governo italiano requereu a prisão preventiva para fins de extradição.
+ Afirma, ainda, que a desistência da medida cautelar, imprescindível à extradição, se deu em razão de a Justiça italiana ter anulado, na origem, o processo e determinado o recolhimento do mandado de prisão contra LENOARDO BADALAMENTI.
+ Funda-se o presente pedido no receio do paciente de que novo processo contra LEONARDO BADALAMENTI seja instaurado, expedindo-se nova ordem de prisão processual, cujas consequências possa vir a suportar.
+ Aduz, por fim, que se “o primeiro pedido de pronto foi acolhido pelo Ministro Ricardo Lewandowski, que provocou a prisão imediata do Sr. Carlos Massetti (...), por óbvio que este segundo pedido, nessa nova determinação de reinstauração do processo poderá originar novo pedido prisional contra o paciente” (fl. 13).
+ Requer, liminarmente, a expedição de salvo conduto em favor do paciente e, no mérito, reproduz idêntico pleito.
+2.  Inviável o pedido.
+ O habeas corpus é ação autônoma, preordenada exclusivamente à proteção da liberdade de locomoção – ir, vir e ficar – contra ilegalidade ou abuso de poder: “(a) Só se dá habeas-corpus quando se feriu ou se teme que se fira a liberdade física; (b) Onde não pode haver coação à liberdade física, não pode haver o habeas-corpus” (PONTES DE MIRANDA, “História e Prática do Hábeas-Corpus”, RJ, José Konfino Ed., 2ª ed., 1951, p. 353, § 94). Daí insistir a Corte em que não pode “ser utilizado para a proteção de direitos outros” (HC nº 82.880, Rel. Min. CARLOS VELLOSO, DJ de 16.05.2003).
+A explícita pretensão do impetrante não é, pois, suscetível de ser apreciada nesta via, a qual não se presta a sucedâneo de outras ações ou remédios judiciais, notadamente naquelas hipóteses em que o direito-fim não se identifica com a própria liberdade de locomoção física (Cf. HC Nº 71.631, Rel Min. CELSO DE MELLO, DJ de 18.05.2001).
+É que não está em questão a liberdade do paciente, que não está preso, nem se vê na iminência de sê-lo. Em outras palavras, não há ameaça a liberdade do paciente que justifique sequer o conhecimento da presente ordem, não obstante o receio do paciente de que, uma vez reinstaurado contra ele processo perante a Justiça italiana, talvez aquele governo requeira novamente a sua prisão preventiva. O mero temor infundado não é capaz de configurar o cabimento do habeas corpus neste caso.
+Ademais, não há nenhum ato coator que busque ser impugnado por meio deste writ. O paciente não responde a processo penal, nem é alvo de investigação policial. Há tão-somente o temor de que a sua condição de ex-investigado na Itália seria capaz de dar ensejo à alegada perseguição que vem sofrendo. Mas não há decisão de nenhuma autoridade que ameace ou tolha a sua liberdade ambulatorial, pelo que considero inviável este habeas corpus.
+3.  Ante o exposto, nego seguimento ao pedido, por ser manifestamente inadmissível (art. 21, § 1º, do RISTF, e 38 da Lei nº 8.038, de 28.05.1990).
+ Oportunamente, arquivem-se os autos.
+ Publique-se. Int..
+ Brasília, 16 de abril de 2010.
+Ministro CEZAR PELUSO
+Relator
