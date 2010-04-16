@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a e c, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Pará, assim ementado (fls. 80):
+“EMENTA: MANDADO DE SEGURANÇA. ESCRIVÃO DE POLÍCIA EXERCENDO AS FUNÇÕES DE DELEGADO DE POLÍCIA CIVIL. OBEDIÊNCIA AOS CRITÉRIOS DE CORRELAÇÃO, AFINIDADE DE NATUREZA DE TRABALHO E NÍVEL DE CONHECIMENTOS, QUE JUSTIFICAM A SUA PARTICIPAÇÃO NO PLANO DE CLASSIFICAÇÃO – LEI ESTADUAL 4.054/86. EM CONSEQUÊNCIA, NÃO SE PODE ESTABELECER RESTRIÇÃO QUE NÃO FOR EXPRESSAMENTE PREVISTA EM LEI AO SEU REENQUADRAMENTO. INAPLICABILIDADE DO ARTIGO 195 DA CONSTITUIÇÃO DO ESTADO DO PARÁ DE 1989, POR NÃO SE TRATAR DE NOMEAÇÃO MAS DE REENQUADRAMENTO. PRECEDENTE DA CORTE ACOLHEU, EM CASO ANÁLOGO, A SITUAÇÃO ENFOCADA NESTES AUTOS. SEGURANÇA CONCEDIDA.”
+O recorrente alega violação do disposto nos arts. 5º, II, e 37, caput e II, da Constituição. Sustenta, em síntese, que é “regra fundamental da atuação administrativa do Estado, que a investidura em cargo ou emprego público dependa de aprovação prévia em concurso público de provas ou de provas e títulos” (fls. 122).
+É o relatório. Decido.
+A pretensão do recorrente é aplicar preceito da Constituição vigente a fato ocorrido antes de 1988. A retroação da norma constitucional é inviável, conforme o seguinte precedente (AI 248.696-AgR, rel. min. Moreira Alves, DJ de 17.12.1999):
+“EMENTA: Agravo regimental.
+- Não tem razão a agravante. Com efeito, como salientado no despacho agravado, tendo sido reconhecida a relação de emprego como existente antes do advento da Constituição de 1988, quando a Carta Magna anterior não exigia concurso público para o ingresso em emprego público, como ocorre no caso, inexiste ofensa ao artigo 37, II, da atual Constituição, porquanto a aplicação imediata do texto constitucional só tem força retroativa mínima, não alcançando, para desconstituí-los, fatos constituídos no passado ainda que reconhecidos no presente (retroatividade máxima), salvo se a Carta Magna expressamente o declare, o que, na espécie, não ocorre, pois mesmo o artigo 19 do ADCT não se refere aos empregos nas sociedades de economia mista e nas empresas públicas. Daí, aplicar-se o princípio a que alude ROUBIER ("Les Conflits des Lois dans le Temps", II, nº 122, p. 471, Recueil Sirey, Paris, 1993) ao observar: "se, por exemplo, uma lei muda as condições do recrutamento de certas funções públicas, essa lei não terá efeito em face dos funcionários já nomeados, mas terá efeito imediato para as nomeações ulteriores".
+Agravo a que se nega provimento.”
+Nesse sentido, RE 215.626-AgR (rel. min. Ellen Gracie, DJ de 02.08.2002), AI 261.873-AgR (rel. min. Sepúlveda Pertence, DJ 31.10.2001), AI 237.750 (rel. min. Moreira Alves, DJ de 04.05.1999), RE 222.058-AgR (rel. min. Sepúlveda Pertence, DJ de 04.06.1999).
+Assim, considerando a deficiência na argumentação do recurso, deve-se aplicar a Súmula 284 deste Tribunal.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 16 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
