@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA À COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+“AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE SEGUIMENTO AO RECURSO. ART. 557, CAPUT, DO CPC. AÇÃO ORDINÁRIA. EXECUÇÃO DE SENTENÇA. ALEGAÇÃO DE ATUALIZAÇÃO REALIZADA A MAIOR PELA CONTADORIA EM TODAS AS PLANILHAS DO MÊS DE ABRIL DE 2003. AUSÊNCIA DE CÓPIA DE TAIS PECAS. INCIDÊNCIA DE JUROS DE MORA EM FAVOR DOS TITULARES DAS CONTAS VINCULADAS AO FGTS, AINDA QUE NÃO MOVIMENTADAS. POSSIBILIDADE. ENTENDIMENTO PACIFICADO PELO STJ.
+- A agravante não instruiu o feito com a diligência necessária, haja vista não ter coligido as planilhas referentes ao mês de abril de 2003, peças necessárias à perfeita inteligência da questão, a fim de que fosse possível verificar se a Contadoria realizou atualização a maior.
+- É pacífico, no STJ, o entendimento segundo o qual são devidos os juros de mora de 0,5% ao mês, a partir da citação, independentemente de movimentação da conta vinculada ao FGTS.
+- Precedente: STJ – Superior Tribunal de Justiça, Resp – 2005/0032270-0/RN, Primeira Turma, Decisão: 19.6.2007, DJ Data: 29.6.2007, página: 496, Relator Ministro Teori Albino Zavascki.
+Agravo regimental não provido” (fl. 29).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento do tema constitucional em debate (fls. 40-41).
+4. A Agravante alega que teria sido contrariado o art. 5º, inc. XXXVI, da Constituição da República.
+Sustenta que “a execução do julgado deverá ser feita no exato comando estabelecido na sentença transitada em julgado, o que não ocorreu na hipótese do acórdão recorrido, que determinou aplicação de juros de maneira diversa” (fl. 34).
+Argumenta que “mesmo não tendo sido reconhecidos na sentença transitada em julgado, que funciona como título executivo judicial da execução procedida, os juros de mora, por decisão equivocada, data venia, do E. TRF – 5ª Região, passaram a compor o título de maneira diferente daquela anteriormente instituída e já atingida pela coisa julgada” (fl. 36).
+Analisados os elementos havidos nos autos, DECIDO.
+5. O Supremo Tribunal Federal consolidou o entendimento de que a verificação, no caso concreto, de eventual ofensa à coisa julgada e a controvérsia sobre os limites objetivos desta situam-se no campo infraconstitucional.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE SUPRESSÃO DE INSTÂNCIA. ART. 515, § 3º, DO CÓDIGO DE PROCESSO CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 631.452-AgR, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+“AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE PREQUESTIONAMENTO - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. - A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário. - A discussão em torno da integridade da coisa julgada, por reclamar análise prévia e necessária dos requisitos legais, que, em nosso sistema jurídico, conformam o fenômeno processual da "res judicata", torna incabível o recurso extraordinário. É que, em tal hipótese, a indagação em torno do que dispõe o art. 5º, XXXVI, da Constituição - por supor o exame, "in concreto", dos limites subjetivos (CPC, art. 472) e/ou objetivos (CPC, arts. 468, 469, 470 e 474) da coisa julgada - traduz matéria revestida de índole infraconstitucional, podendo caracterizar situação de eventual conflito indireto com o texto da Carta Política (RTJ 182/746), circunstância que pré-exclui a possibilidade de adequada utilização do recurso extraordinário. Precedentes” (AI 733.272-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 20.11.2009).
+6. Nada há, pois, a prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 19 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
