@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal Regional Federal da 4ª Região, o qual entendeu pela constitucionalidade do art. 1º, I e II, da Lei Complementar nº 84/96.
+Sustenta-se a violação dos arts. 146, III, 150, I, 154, I, 174, II, 195, I e II, e § 4º, da Constituição federal, pois, em síntese, contribuição instituída com base na competência residual (art. 195, § 4º) não pode ter o mesmo fato gerador ou base de cálculo dos impostos discriminados na Constituição. Além disso, alega que a Lei Complementar nº 84/96 não se coaduna com o cooperativismo.
+A tese defendida pela recorrente esbarra no entendimento já consolidado do Supremo Tribunal Federal. A Corte entende que quando o art. 195, § 4º, da CF/88, remete ao art. 154, I, do mesmo diploma, veda apenas a criação de novas contribuições com base de cálculo ou fatos geradores idênticos aos das contribuições discriminadas na Carta Magna, sendo plenamente possível uma contribuição instituída com base na competência residual possuir base de cálculo e fato gerador idênticos ao de imposto. Nesse sentido:
+EMENTA: CONSTITUCIONAL. TRIBUTÁRIO. PREVIDENCIÁRIO. CONTRIBUIÇÕES SOCIAIS: EMPRESÁRIOS. AUTÔNOMOS e AVULSOS. Lei Complementar nº 84, de 18.01.96: CONSTITUCIONALIDADE. I. - Contribuição social instituída pela Lei Complementar nº 84, de 1996: constitucionalidade. II. - R.E. não conhecido. (RE 228321, rel.  min. Carlos Velloso, Tribunal Pleno, DJ de 30.05.2003)
+Ademais, ambas as turmas do Supremo Tribunal Federal entendem pacificamente que é constitucional a incidência da contribuição prevista na Lei Complementar nº 84/96 sobre as cooperativas:
+EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. LEI COMPLEMENTAR 84/96. COOPERATIVAS. CONSTITUCIONALIDADE. I - É constitucional a contribuição social instituída pela Lei Complementar 84/96 (RE 228.321/RS), inclusive para as cooperativas. Precedentes. II - Agravo regimental improvido. (RE 462245 AgR, rel. min. Ricardo Lewandowski, Primeira Turma, 25.09.2009)
+CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. ART. 1º, INCISO I, DA LEI COMPLEMENTAR 84/96. SOCIEDADE COOPERATIVA. 1. É pacífica a jurisprudência desta Corte no que diz respeito à contribuição social prevista na Lei Complementar 84/96 ser aplicável às sociedades cooperativas 2. Agravo regimental improvido. (AI 599877 AgR, rel.  min. Ellen Gracie, Segunda Turma, DJ de 28.08.2009)
+Dessa orientação não divergiu o acórdão recorrido.
+Ante o exposto, com base no art. 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 19 de março de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
