@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil.
+2.  Alega-se, no recurso extraordinário, ofensa ao disposto nos artigos 5º, XXV, XXXVI e LV, e 93, IX, da CB/88, nos artigos 77, 259, 261, 267, V, 269, IV, 295, IV, 301, §2º, VI, 332, 420, 458, II, 467, V, e 1102, do CC/16 e nos artigos 2028 e 2029 do CC/02.
+3.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+4.  Preliminarmente ressalte-se a impossibilidade de apreciação de matéria infraconstitucional no âmbito da via extraordinária. Esta está abrangida pela competência do Superior Tribunal de Justiça, devendo ser objeto de recurso especial.
+5.  O recurso não merece provimento. O fundamento do acórdão não alcançou nível constitucional. A controvérsia foi decidida no plano da legislação infraconstitucional pertinente. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário [AI n. 204.153-AgR, DJ de 30.6.00, e AI n. 231.836-AgR, DJ de 3.9.99].
+6.  Ademais, a jurisprudência deste Tribunal fixou-se no sentido de que a verificação, em cada caso concreto, da ocorrência, ou não, de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada situa-se no campo infraconstitucional [AI n. 135.632-AgR, Relator o Ministro Celso de Mello, DJ de 3.9.99, AI n. 551.002-AgR, Relator o Ministro Carlos Velloso, DJ de 16.12.05].
+7.  Por fim, este Tribunal fixou o entendimento de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+Nego seguimento ao agravo com fundamento no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 19 de abril de 2010.
+Ministro Eros Grau
+- Relator -
