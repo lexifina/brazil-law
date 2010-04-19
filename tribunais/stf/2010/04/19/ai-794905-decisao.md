@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acorda recorrido porta a seguinte ementa:
+“SERVIDOR PÚBLICO – LEI 14.683/03 – ALTERAÇÃO DO SISTEMA REMUNERATÓRIO DO SERVIDOR – AUSÊNCIA DE PROVA DA REDUTIBILIDADE DOS VENCIMENTOS – DIREITO ADQUIRIDO – INEXISTÊNCIA. A lei 14.683/03 alterou o instituto do apostilamento, mas não é, apenas por isto, inconstitucional, não possuindo o servidor direito adquirido à manutenção de determinado regime jurídico ou remuneratório. Ausente a demonstração de que a nova regra teria gerado redução no valor dos proventos percebidos pelos autores, há que se julgar improcedente o pedido” (fl. 244).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVI, 7º, VII, 37, XV e 39, § 3º, da mesma Carta.
+O agravo não merece acolhida. Isso porque, verifico que o agravante não atacou os fundamentos da decisão agravada, limitando-se a repetir as razões do recurso extraordinário. Incumbe ao agravante o dever de impugnar, de forma específica, os fundamentos da decisão recorrida, sob pena de não seguimento do recurso (AI 589.978-AgR/DF, Rel. Min. Cármen Lúcia).
+Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Nesse sentido, menciono as seguintes decisões, dentre outras: AI 580.361-AgR/RS, de minha relatoria; AI 407.427/SP, Rel. Min. Cezar Peluso; AI 590.913-AgR/RS, Rel. Min. Eros Grau; AI 466.398-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+Outrossim, é pacífica a jurisprudência deste Tribunal no sentido de que não há direito adquirido a regime jurídico-funcional pertinente à composição dos vencimentos ou à permanência do regime legal de reajuste de vantagem, desde que da aplicação do novo sistema legal, não ocorra decréscimo na remuneração do servidor. Nesse sentido trago à colação julgados de ambas as Turmas desta Corte:
+“ AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. APOSTILAMENTO. CONVERSÃO EM VANTAGEM PESSOAL. AUSÊNCIA DE REDUÇÃO SALARIAL. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO ” (AI 651.867-AgR/MG, Rel. Min. Cármen Lúcia).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. ALTERAÇÃO NA FORMA DE COMPOSIÇÃO SALARIAL. LEI ESTADUAL N. 14.683/03. DIREITO ADQUIRIDO. REGIME JURÍDICO. INEXISTÊNCIA.
+ O Supremo Tribunal Federal fixou jurisprudência no sentido de que não há direito adquirido à regime jurídico-funcional pertinente à composição dos vencimentos ou à permanência do regime legal de reajuste de vantagem, desde que eventual modificação introduzida por ato legislativo superveniente preserve o montante global da remuneração, não acarretando decesso de caráter pecuniário. Precedentes.
+ Agravo regimental a que se nega provimento” (RE 602.029-AgR/MG, Rel. Min. Eros Grau).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 19 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
