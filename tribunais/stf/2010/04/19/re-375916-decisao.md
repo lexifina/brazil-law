@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado por Tribunal Regional Federal cuja ementa tem o seguinte teor:
+“ADMINISTRATIVO. INSTITUTO NACIONAL DE METROLOGIA, NORMALIZAÇÃO E QUALIDADE INDUSTRIAL – INMETRO. AUTO DE INFRAÇÃO. NOTIFICAÇÃO. MANDADO DE SEGURANÇA.
+Não fere o princípio da legalidade o fato da lei atribuir a posterior normatização administrativa detalhes técnicos, que até por necessitarem de um conhecimento técnico-científico apurado, que evoluiu rapidamente e necessita de atualizações constantes, encontra nesta a melhor forma de serem regulamentados.
+As portarias editadas pelo INMETRO são plenamente legais, já que este integra o Sistema Nacional de Metrologia, Normalização e Qualidade Industrial, cuja finalidade é formular e executar a política nacional de metrologia, normalização industrial e certificação da qualidade de produtos industriais, podendo tomar as medidas necessárias para cumprir suas funções, inclusive as normativas.” (fls. 237)
+Alega-se, em síntese, violação do disposto no art. 5°, II, XXII, XXXIX e XLVI, b e c, da Carta Magna.
+Inicialmente, verifico que no acórdão recorrido há fundamento constitucional autônomo não impugnado pela recorrente, qual seja:
+“Salienta-se, ainda, que as portarias do INMETRO têm como finalidade precípua a defesa do consumidor, que, por seu turno, constitui-se direito fundamental garantido pela Constituição (art. 5º, XXXII) e princípio orientador da ordem econômica por esta estabelecida (art. 170, V). Tendo isso em vista, difícil pleitear sua inconstitucionalidade.” (fls. 235)
+Aplica-se, portanto, o disposto na Súmula 283 desta Corte.
+Mesmo que superado tal óbice, o Plenário do Supremo Tribunal Federal, ao julgar caso análogo, fixou entendimento de que é possível a delegação legal da competência para estabelecer normas técnicas ao Poder Executivo. Hipótese em que eventual transbordamento do poder regulamentar conferido ao Poder Executivo permanecerá, em regra, no campo infraconstitucional. Confira-se:
+“EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE – REGULAMENTO DOS SERVIÇOS LIMITADOS DE TELECOMUNICAÇÕES – DECRETO N. 177/91 – ATO DE NATUREZA MERAMENTE REGULAMENTAR – DESCABIMENTO DO CONTROLE ABSTRATO DE CONSTITUCIONALIDADE – AÇÃO DIRETA NÃO CONHECIDA.
+ATO REGULAMENTAR – DESCABIMENTO DE AÇÃO DIRETA DE CONSTITUCIONALIDADE.
+- As resoluções editadas pelo Poder Público, que veiculam regras de conteúdo meramente regulamentar, não se submetem à jurisdição constitucional de controle in abstracto, pois tais atos estatais têm por finalidade, em última análise, viabilizar, de modo direto e imediato, a própria execução da lei.
+- A Lei 4.117/62, ao reconhecer um amplo espaço de atuação regulamentar ao Poder Executivo (art. 7º, § 2º), outorgou-lhe condições jurídico-legais para – com o objetivo de estruturar, de empregar e de fazer atuar o Sistema Nacional de Telecomunicações – estabelecer novas especificações de caráter técnico, tornadas exigíveis pela evolução tecnológica dos processos de comunicação e de transmissão de símbolos, sinais, escritos, imagens, sons ou informações de qualquer natureza.
+Se a interpretação administrativa da lei divergir do sentido e do conteúdo da norma legal que o Decreto impugnado pretendeu regulamentar, quer porque se tenha projetado ultra legem, quer porque tenha permanecido citra legem, que porque tenha se projetado contra legem, a questão posta em análise caracterizará típica crise de legalidade, e não de inconstitucionalidade, a inviabilizar a utilização do mecanismo processual de fiscalização normativa abstrata.
+(...).” (ADI 561-8, rel. min. Celso de Mello, DJ de 23.03.2001 – Grifos originais)
+Incabível, portanto, o recurso extraordinário. O exame das supostas ofensas à Constituição demandaria o prévio exame da legislação infraconstitucional. É pacífico o entendimento desta Corte no sentido de que o recurso extraordinário não é instrumento adequado para suscitar o exame de ofensas meramente reflexas ou indiretas ao texto constitucional (Súmula 636 do Supremo Tribunal Federal).
+No mesmo sentido, confiram-se: RE 571.167 (rel. min. Ricardo Lewandowski, DJe de 11.05.2009); RE 575.868 (rel. min. Ricardo Lewandowski, DJe de 14.04.2009); RE 561.540 (rel. min. Cezar Peluso, DJe de 12.12.2007) e 525.698 (rel. min. Cezar Peluso, DJ de 21.06.2007).
+Do exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 19 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
