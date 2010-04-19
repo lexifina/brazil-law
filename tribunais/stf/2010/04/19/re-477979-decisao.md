@@ -1,0 +1,12 @@
+1.  Trata-se de recurso extraordinário interposto de acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, no qual se discute a possibilidade de redução dos vencimentos de servidor, em função do previsto no art. 37, XIV, da Constituição Federal, com redação dada pela Emenda Constitucional 19/98.
+2.     O recorrente alega violação ao art. 37, XIV, da Constituição Federal; ao art. 17 do ADCT/88 e ao art. 29 da Emenda Constitucional 19/98, sustentando, em síntese, que o direito adquirido e a irredutibilidade de vencimentos não podem ser invocados em face dos artigos citados, que vedam a incidência de adicionais sobre adicionais. Alega-se, ainda, violação à Súmula STF 473.
+3.  Preliminarmente, verifico que não se encontram prequestionados o art. 29 da Emenda Constitucional 19/98 e o disposto na Súmula STF 473. Falta-lhe, pois, o necessário prequestionamento, a teor da Súmula STF 282. Nesse sentido: RE 449.137-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.4.2008; AI 706.449-AgR/SC, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 07.11.2008; AI 631.711-AgR/BA; rel. Min. Ricardo Lewandowski; 1ª Turma, unânime, DJe 21.11.2008; AI 663.687-AgR/DF, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 20.2.2009.
+4.     A Carta da República, em seu art. 37, XIV (redação originária) e no art. 17 do ADCT tratam da exclusão do direito adquirido tão-somente no caso da ocorrência do denominado “efeito cascata”, isto é, quando um acréscimo pecuniário se incorpore à base de cálculo de outro, desde que concedidos sob o mesmo título ou idêntico fundamento.
+Assim, permite-se falar em proteção do princípio da irredutibilidade de vencimentos em face dessa emenda. Saliente-se que esse postulado constitui modalidade qualificada de direito adquirido, nos termos do que decidido no RE 299.800, Plenário, rel. Min. Sepúlveda Pertence, DJ de 05.09.2003.
+5.  A propósito, cito o RE 232.326/CE, rel. Min. Sepúlveda Pertence, 1a. Turma, unânime, DJ de 04.08.00, e o RE 338.883/CE, de minha relatoria, 2a. Turma, unânime, DJ de 26.08.05.
+6.  Ademais, para se chegar a conclusão diversa da que chegou o acórdão recorrido, faz-se necessária uma análise prévia dos atos que concederam as vantagens contestadas a fim de se verificar a ocorrência do denominado “efeito cascata”, a demandar, pois, análise de fatos e provas, procedimento vedado em sede extraordinária, a teor da Súmula 279.
+7.  Portanto, nego seguimento ao recurso extraordinário (CPC art. 577, § 1º).
+Publique-se.
+Brasília, 19 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
