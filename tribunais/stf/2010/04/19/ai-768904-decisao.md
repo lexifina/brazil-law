@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por alegada violação ao art. 37, caput, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que, em duplo grau obrigatório de jurisdição, confirmou sentença que determinou o restabelecimento do pagamento integral dos vencimentos do impetrante “com todas as parcelas dele integrantes” e que foram suspensos durante licença médica (fls. 52-59).
+A Corte de origem asseverou que não houve prequestionamento da questão constitucional. A sentença foi mantida em grau de reexame necessário e, como não foi interposto recurso voluntário, ocorreu a preclusão lógica da matéria (fls. 97-100).
+2.  Com efeito, o agravo não merece prosperar. Primeiramente, verifico que os dispositivos constitucionais referidos não foram prequestionados, porque não abordados pelo acórdão recorrido, nem pelos embargos de declaração opostos, não sendo satisfeito, portanto, o requisito do prequestionamento (Súmula STF 282).
+É pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142-AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.09.2001; e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+3.  Em segundo lugar, rever a decisão da instância de origem, para concluir de modo diverso, implicaria o reexame da legislação infraconstitucional na qual se fundou a Corte de origem, além do revolvimento dos fatos e das provas, o que é vedado em sede extraordinária (Súmula STF 279). Veja-se, para ilustrar, o RE 558.036-AgR/RJ, rel. Min. Eros Grau, 2ª Turma, DJ 09.05.2008; e o AI 655.792-ED/RJ, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 08.02.2008.
+4.  Diante do exposto, com fundamento no art. 557, caput, do CPC, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 19 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
