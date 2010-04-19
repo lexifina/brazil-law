@@ -1,0 +1,25 @@
+DECISÃO: Mandado de segurança impetrado por Roberto da Silva contra alegada omissão do Procurador-Geral da República, consubstanciada na edição da Portaria PGR/MPU n. 286/07.
+2. O impetrante afirma que ingressou nos quadros do Ministério Público da União por concurso público, em 1995, no cargo de Assistente de Vigilância – NAS 207.
+3. Alega que o cargo sofreu alterações em sua nomenclatura e atribuições após a edição de diversas leis que implantaram os Planos de Cargos e Salários dos Servidores do MPU, bem como das Portarias do Procurador-Geral da República que as regulamentaram.
+4. Sustenta que, devido a essas alterações, “passaram a coexistir, no âmbito do MPU, duas categorias de Técnico de Apoio Especializado IDÊNTICAS: A primeira, Técnico de Apoio Especializado – TC – 204.00, a qual o impetrante ocupou e com atribuição do antigo cargo de Técnico de Apoio Especializado/Vigilância – NTC 206.02; A segunda, de Técnico de Apoio Especializado/Segurança – TC – 204.03.”
+5. A Lei n. 11.415/06 instituiu a Gratificação de Atividade de Segurança - GAS, devida ao Analista e ao Técnico cujas atribuições estejam vinculadas às funções de segurança. O impetrante alega que, apesar da similitude de suas atribuições, não foi incluído como um dos beneficiários da gratificação.
+6. Afirma que a Portaria n. 286/07 instituiu novas atribuições para o cargo que ocupa absolutamente diversas daquelas previstas inicialmente. Essa alteração excluiu a possibilidade do impetrante receber a GAS.
+7. Alega que possui direito líquido e certo a “exercer as atribuições do cargo de técnico de apoio especializado – segurança TC – 204.03, porquanto as atribuições, consoante já demonstrado, são idênticas àquelas do cargo de assistente de vigilância NAS-207 (conforme termo de posse), cujo cargo o impetrante alçou por concurso público.”
+8. A transposição de cargos efetivada após a edição da Portaria n. 286/07 violaria o disposto no artigo 37, II, da CB/88. As atribuições do impetrante teriam se tornado mais complexas após a edição da portaria, sem que fosse observado o pressuposto da vacância do cargo.
+9. Requer, liminarmente, lhe seja assegurado o direito de desempenhar as atribuições do atual cargo de Técnico de Apoio Especializado Segurança (TC-204.03) ou o direito ao reenquadramento previsto no decreto n. 70.320/72. Requer, ainda, seja determinado o pagamento imediato da Gratificação de Atividade de Segurança retroativo a 1º.6.06.
+10. No mérito, pede seja reconhecido o direito líquido e certo ao recebimento da GAS no período de 1º.6.06 a 12.6.07.
+11. A Procuradoria Geral da República manifestou-se às fls. 564/571. Afirma que a Lei n. 11.415/06 e a Portaria n. 286/07 “apenas mantiveram o anterior enquadramento levado a efeito pela lei n. 9.953/00”.
+12. Sustenta que o art. 13 da Lei n. 8.112/90 “possibilita que atos de ofício (Regulamentos e Portarias) alterem as atribuições dos cargos ocupados pelos servidores públicos”. Inexistiria direito adquirido às atribuições e à nomenclatura do cargo para o qual o servidor público fora aprovado em concurso público.
+13. As alterações efetivadas consubstanciariam exercício regular do poder discricionário da Administração Pública.
+14. Quanto ao pedido deduzido na inicial, alega que não há provas nos autos de que o impetrante tenha exercido as atribuições dos cargos para os quais foi previsto o pagamento da gratificação pleiteada.
+15.  É o relatório. Decido.
+16. A concessão de medida liminar em mandado de segurança pressupõe a coexistência da plausibilidade do direito invocado pelo impetrante e do receio de dano irreparável em razão da demora na concessão da ordem.
+17. O impetrante informa às fls. 575/583 que “[c]onsoante determinado pela Portaria PGR/PR-GO nº 016 de 18/03/1999 (d.j) o impetrante fora designado desde o ano de 1999 ao exercício da atividade de segurança, a Portaria nº 98 MPF/PR-GO de 09/07/2008 (d.j) e portaria nº 16 MPF/PR-GO de 04 de fevereiro de 2009 (d.j) consolida as atividades de segurança exercida pelo impetrante, pois até a presente data a função é exercida pelo mesmo [...].”
+18. Não há, pois, periculum in mora no caso. O impetrante permanece a exercer as atribuições do atual cargo de Técnico de Apoio Especializado de Segurança.
+19. O deferimento da medida liminar para o pagamento da gratificação seria temerário. A transferência de recursos financeiros, cuja restituição aos cofres públicos só poderia ocorrer nos termos do disposto na Lei n. 8.112/90, implicaria o pagamento por período de tempo injustificável, até a apreciação do mérito desta impetração. Há, no caso, o chamado “periculum in mora inverso”.
+Indefiro o pedido de medida liminar. Dê-se ciência do feito ao órgão de representação judicial da pessoa jurídica interessada, enviando-se-lhe cópia da inicial sem documentos, para que, querendo, ingresse no feito [artigo 7º, II, da Lei n. 12.016/09].
+Remetam-se os autos à Procuradoria Geral da República, para elaboração de parecer.
+Publique-se.
+Brasília, 19 de abril de 2010.
+Ministro Eros Grau
+- Relator -
