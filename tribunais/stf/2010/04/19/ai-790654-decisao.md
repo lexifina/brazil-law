@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. VENCIMENTOS: LIMITE MÁXIMO DE REMUNERAÇÃO: TETO LOCAL DE REMUNERAÇÃO FIXADO POR DECRETO. IMPOSSIBILIDADE. PRECEDENTES. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRESUNÇÃO DE EXISTÊNCIA DA REPERCUSSÃO GERAL. AGRAVO PROVIDO E RECURSO EXTRAORDINÁRIO PROVIDO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alíneas a e c, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Alagoas:
+“Constitucional. Administrativo. Apelação cível. Preliminar de incompetência absoluta da 3ª Câmara Cível arguída ex officio em sessão de julgamento. Rejeitada por maioria de votos. Preliminar de ilegitimidade passiva. Rejeitada. Aplicação do decreto 38.127/99. possibilidade. Fundamento. Constitucionalidade julgada. Acórdão n. 5.245/04. sentença reformada em parte. Recurso provido à unanimidade” (fl. 14).
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 71-76).
+3. O Agravante alega que o Tribunal a quo teria contrariado o art. 37, inc. X, da Constituição da República.
+Argumenta que se “trata de mandando de segurança impetrado (...) com o fito de impugnar ato emanado do então Secretário de Administração, Recursos Humanos e Patrimônio do Estado de Alagoas, relativamente ao cumprimento das disposições contidas no Decreto Estadual n. 38.127/99, fixador de novo teto vencimental dos servidores públicos civis do Estado de Alagoas que resultou na redução dos proventos dos ativos e inativos a partir de setembro de 1999” (fl. 31).
+Analisados os elementos havidos nos autos, DECIDO.
+4. Em preliminar, é de se ressaltar que, apesar de ter sido a parte recorrente intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, § 1º, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esta se presume “quando o recurso (...) impugnar decisão contrária a súmula ou a jurisprudência dominante”.
+5. O Supremo Tribunal Federal firmou entendimento no sentido de que a estipulação de teto remuneratório por meio de decreto fere a garantia constitucional da reserva de lei, prevista no art. 37, inc. X, da Constituição da República. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. ESTADO DE ALAGOAS. TETO REMUNERATÓRIO. DECRETO ESTADUAL N. 38.127/99. IMPOSSIBILIDADE. O Supremo Tribunal Federal fixou entendimento no sentido de que a estipulação de teto remuneratório por meio de decreto do Poder Executivo fere a garantia constitucional da reserva de lei. Precedentes. Agravo regimental a que se dá provimento” (RE 434.005-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 14.2.2008).
+E ainda:
+“ AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. ESTADO DE ALAGOAS. SERVIDORES PÚBLICOS. DECRETO ESTADUAL N. 38.127/99. TETO REMUNERATÓRIO. ILEGITIMIDADE. O Supremo Tribunal Federal consignou o entendimento de que a estipulação de teto remuneratório por meio de Decreto do Poder Executivo fere a garantia constitucional da reserva de lei. Precedentes: ADI 2.075-MC, Rel. Min. Celso de Mello; RE 269.242-AgR, Rel. Min. Mauricio Corrêa; e ADI 1.396, Rel. Min. Marco Aurélio. Ato do poder executivo estadual que, ademais, acarretou a redução dos proventos de servidores inativos. Agravo regimental a que se nega provimento” (RE 398.316-AgR, Rel. Min. Carlos Britto, Primeira Turma, DJ 22.10.2004).
+6. Dessa orientação jurisprudencial divergiu o acórdão recorrido.
+7. Pelo exposto, com fundamento no art. 544, §§ 3º e 4º, do Código de Processo Civil, dou provimento ao agravo e, desde logo, dou provimento ao recurso extraordinário, nos termos do art. 557, § 1º-A, do mesmo diploma legal.
+Considerando a Súmula 512 do Supremo Tribunal Federal, deixo de condenar ao pagamento de honorários advocatícios de sucumbência.
+Publique-se.
+Brasília, 19 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
