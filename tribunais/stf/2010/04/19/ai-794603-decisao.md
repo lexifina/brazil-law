@@ -1,0 +1,20 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido porta a seguinte ementa:
+“(...)TRIBUTÁRIO. AÇÃO DECLARATÓRIA DE EXISTÊNCIA DE CRÉDITO TRIBUTÁRIO. APLICABILIDADE DO ART. 166 DO CÓDIGO TRIBUTÁRIO NACIONAL. PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA.
+Não há como concordar com o entendimento de inaplicabilidade do art. 166 do CTN às ações declaratórias de crédito fiscal.
+Certamente o legislador tributário também buscou impor as limitações dessa norma às modalidades indiretas de repetição de indébito, como ocorre na compensação de crédito de ICMS em operações tributáveis futuras ou na cessão deles à terceiros (sic), hipóteses em que, igualmente, se busca o reembolso pela via mediata do creditamento.
+TRIBUTÁRIO. VENDA A PRAZO. CREDITAMENTO DE ICMS SOBRE O ACRÉSCIMO FINANCEIRO. IMPOSSIBILIDADE. TRANSFERÊNCIA DO ENCARGO AO CONSUMIDOR FINAL. EXEGESE DO ART. 166 DO CÓDIGO TRIBUTÁRIO NACIONAL. ENTENDIMENTO JURISPRUDENCIAL DOMINANTE.
+Na hipótese de imposto indireto, como é o ICMS, a sua restituição sobre os valores cobrados a título de encargos financeiros nas vendas realizadas a prazo somente pode ocorrer na hipótese de ter o contribuinte comprovado que não repassou o respectivo ônus ao comprador.
+Não havendo prova de que este suposto crédito tenha sido pago pela própria empresa ou que está ela autorizada a receber a restituição, não pode pretender utilizar este hipotético saldo na compensação de ICMS ou na transferência desses créditos para terceiros, conforme jurisprudência majoritária” (fls. 107-108).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXV e LV, 155, § 2º, I, da mesma Carta.
+O agravo não merece acolhida. A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Seguindo essa linha de entendimento, o RE 567.777/SC, Rel. Min. Cezar Peluso - caso análogo ao dos autos -, em que figuram como agravante e agravado as mesmas partes desse processo. Cito, ainda, no mesmo sentido, o AI 551.658-AgR/PR, Rel. Min. Eros Grau, cuja ementa segue transcrita:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ICMS. VENDAS A PRAZO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL.
+A controvérsia relativa à incidência do ICMS sobre a correção monetária incluída no preço de venda a prazo das mercadorias é matéria de índole infraconstitucional. Eventual ofensa à Constituição do Brasil, se houvesse, ocorreria de forma indireta, o que impede à admissão do recurso extraordinário.
+Agravo regimental não provido”.
+Ainda que superado tal óbice, o recurso não prosperaria. Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse passo, trago à colação trecho do acórdão recorrido que bem enfatiza o entendimento do Tribunal de origem:
+“Não havendo prova de que este suposto crédito tenha sido pago pela própria empresa ou que está ela autorizada a receber a restituição, não pode pretender utilizar esse hipotético saldo na compensação de ICMS ou transferência desses créditos para terceiros” (fl. 113).
+Por fim, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 19 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
