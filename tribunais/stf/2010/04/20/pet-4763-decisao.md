@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+Cuida-se de petição de ATIVA SERVIÇOS AUXILIARES LTDA. ME em face do BANCO DO BRASIL S.A., com o objetivo de obter provimento judicial “saneador” de procedimento licitatório conduzido pela mencionada sociedade de economia mista.
+Narra a petição inicial que:
+a) a requerente firmou contrato de prestação de serviços de “preparo e distribuição diária de café/lanche tipo 1 e 2” com o BANCO DO BRASIL S.A, após ter sido vitoriosa em procedimento licitatório (pregão eletrônico);
+b) a requerente cometeu erro de grafia em sua proposta ao lançar o preço de R$23.447,37 para quatorze unidades de mão-de-obra, quando, na verdade, deveriam ser apenas dez;
+c) a requerente tentou corrigir o erro, mas não foi atendida pelo requerido;
+d) o BANCO DO BRASIL S.A. encontra-se inadimplente em relação à diferença de valores.
+Pede que “seja determinado ao BANCO DO BRASIL S.A. o saneado (sic) do Contrato Administrativo no 2009.7418.4539, de 28 de Agosto de 2009, no sentido de que seja procedida a correção do erro material existente na Carta Proposta”, além de que o requerido pague as faturas inadimplidas e responda os ofícios expedidos pelo requerente.
+Juntaram-se documentos e o requerente atravessou petição de folhas 114-116, na qual informa ter o requerido insistido em se negar a alterar o contrato.
+É o relatório.
+Aqui sem causa.
+A petição é dissociada de recurso de competência deste Tribunal. A presença do BANCO DO BRASIL S.A. no polo passivo da cautelar não é causa atrativa da cognição da Corte. Não se identifica a causa do direcionamento da ação para o STF. Em verdade, cuida-se de erronia grosseira, que avilta a função constitucional deste Pretório, na medida em que pretende levar a seu juízo um conflito envolvendo a contratação de mão-de-obra para a “distribuição diária de café/lanche tipo 1 e 2”.
+Sobre a competência constitucional do STF, escreveu Athos Gusmão Carneiro linhas tão sintéticas quanto acertadas:
+“O Supremo Tribunal Federal, sobranceiro a todos os demais órgãos judiciários, exerce precipuamente a guarda da Constituição Federal, quer através do julgamento, em instância originária, da ação direta de declaração de inconstitucionalidade, quer mediante o ‘recurso extraordinário’ (...)” (Jurisdição e competência. 8 ed. São Paulo: Saraiva, 1997. p.24)
+Com a carga desumana de trabalho na Corte, a impedir a oferta de prestação jurisdicional na medida das expectativas legítimas do povo brasileiro, a formulação de pedidos dessa natureza diz muito sobre a ausência de qualificação técnica e a banalização da jurisdição do STF, cujos ministros hão de despender tempo e esforços com lides desse jaez.
+Embora digam respeito a casos específicos, os prejulgados abaixo transcritos revelam a impropriedade de se alçar ao STF petições alheias ao rol constitucional de suas competências:
+“PETIÇÃO. AÇÃO CIVIL PÚBLICA CONTRA DECISÃO DO CONSELHO NACIONAL DE JUSTIÇA. INCOMPETÊNCIA, EM SEDE ORIGINÁRIA, DO SUPREMO TRIBUNAL FEDERAL. I- Nos termos do art. 102 e incisos da Magna Carta, esta Suprema Corte não detém competência originária para processar e julgar ações civis públicas. II - Precedentes. III - Agravo desprovido.”
+(Pet 3986 AgR, Relator  Ministro Ricardo Lewandowski, Tribunal Pleno, DJe 05-09-2008)
+“AÇÃO POPULAR PROMOVIDA CONTRA DECISÃO EMANADA DO SUPERIOR TRIBUNAL DE JUSTIÇA - AUSÊNCIA DE COMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL - INADMISSIBILIDADE DA AÇÃO POPULAR CONTRA ATO DE CONTEÚDO JURISDICIONAL - AÇÃO POPULAR DE QUE NÃO SE CONHECE - AGRAVO IMPROVIDO. O PROCESSO E O JULGAMENTO DE AÇÕES POPULARES CONSTITUCIONAIS (CF, ART. 5º, LXXIII) NÃO SE INCLUEM NA ESFERA DE COMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL. - O Supremo Tribunal Federal - por ausência de previsão constitucional - não dispõe de competência originária para processar e julgar ação popular promovida contra qualquer órgão ou autoridade da República, mesmo que o ato cuja invalidação se pleiteie tenha emanado do Presidente da República, das Mesas da Câmara dos Deputados ou do Senado Federal, ou, ainda, de qualquer dos Tribunais Superiores da União. Jurisprudência. Doutrina. NÃO CABE AÇÃO POPULAR CONTRA ATOS DE CONTEÚDO JURISDICIONAL. - Revela-se inadmissível o ajuizamento de ação popular em que se postule a desconstituição de ato de conteúdo jurisdicional (AO 672-DF, Rel. Min. CELSO DE MELLO). - Os atos de conteúdo jurisdicional - precisamente por não se revestirem de caráter administrativo - estão excluídos do âmbito de incidência da ação popular, notadamente porque se acham sujeitos a um sistema específico de impugnação, quer por via recursal, quer mediante utilização de ação rescisória. Doutrina. Jurisprudência. Tratando-se de ato de índole jurisdicional, cumpre considerar que este, ou ainda não se tornou definitivo - podendo, em tal situação, ser contestado mediante utilização dos recursos previstos na legislação processual -, ou, então, já transitou em julgado, hipótese em que, havendo decisão sobre o mérito da causa, expor-se-á à possibilidade de rescisão (CPC, art. 485).”
+(Pet 2018 AgR, Relator  Ministro Celso de Mello, Segunda Turma, DJ 16-02-2001)
+Ante o exposto, denego a petição.
+Publique-se.
+Brasília, 20 de abril de 2010.
+Ministro DIAS TOFFOLI
+Relator
