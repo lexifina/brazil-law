@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil.
+2.  Alega-se, no recurso extraordinário, ofensa ao disposto nos artigos 2º, 5º, XXXVI, LIV, LV, 21, XI, 37, caput, XXI, 93, IX, 98, I, e 109, I, “a”, da CB/88.
+3.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+4.  O agravo não merece provimento. A controvérsia foi decidida à luz de legislação infraconstitucional. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário [AI n. 204.153-AgR, Relator o Ministro Sydney Sanches, DJ de 30.6.00, e AI n. 231.836-AgR, Relator o Ministro Néri da Silveira, DJ de 3.9.99].
+5.  Ademais, a jurisprudência deste Tribunal fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+6.  A decisão agravada adotou os seguintes fundamentos: inexistência de ofensa direta à Constituição; necessidade de interpretação de legislação infraconstitucional; inviabilidade do exame de prova [Súmula n. 279].
+7.  Vê-se da leitura do agravo de instrumento que a agravante enfrentou somente a questão da inexistência de ofensa direta à Constituição, deixando de impugnar as demais razões que serviram de suporte à decisão agravada. A ausência de fundamentação que permita a apreciação do recurso faz incidir aqui a Súmula n. 287 do STF.
+8.  Por fim, O acórdão recorrido está em consonância com o entendimento fixado pelo Plenário desta Corte que, no julgamento do RE n. 567.454, Relator o Ministro Carlos Britto, DJe de 28.8.09, fixou o seguinte entendimento:
+“EMENTA: TELEFONIA. COBRANÇA DE ASSINATURA BÁSICA. DECISÃO RECORRIDA QUE SE LIMITOU A EXAMINAR O CONTRATO ENTRE A CONCESSIONÁRIA DE SERVIÇO PÚLBICO E O CONSUMIDOR. AUSÊNCIA DE INTERESSE DA ANATEL. MATÉRIA EXCLUSIVAMENTE DE DIREITO. CAUSA DECIDIDA, TÃO-SOMENTE, COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE.
+1. Caso em que não se está a discutir o contrato de concessão entre a agência reguladora e a concessionária de serviço público. A controvérsia não vincula senão o consumidor e a concessionária de serviço de telefonia. De mais a mais, a agência reguladora a ANATEL não manifestou, expressamente, interesse na solução da controvérsia. Pelo que não há falar de interesse, jurídico ou econômico, da ANATEL.
+2. A questão alusiva à cobrança da assinatura básica é unicamente de direito e não apresenta complexidade apta a afastar o seu processamento pelo Juizado Especial.
+3. O mérito da causa está circunscrito à legislação infraconstitucional, notadamente o Código de Defesa do Consumidor.
+4.Recurso conhecido em parte e, nesta parte, desprovido. Fica mantido o acórdão impugnado, que deu pela ilegalidade da cobrança da assinatura básica”.
+Nego seguimento ao agravo com fundamento no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 20 de abril de 2010.
+Ministro Eros Grau
+- Relator -
