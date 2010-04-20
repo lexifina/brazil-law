@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto contra acórdão que porta a seguinte ementa:
+“TRIBUTÁRIO. COFINS. EMENDA CONSTITUCIONAL Nº 27/00. DESVINCULAÇÃO DE PARTE DAS RECEITAS ARRECADADAS. CONSTITUCIONALIDADE. A Emenda Constitucional n.º 27/2000, ao destinar parte da arrecadação com as contribuições sociais ao Fundo de Estabilização Fiscal, no período de 2000 a 2003, não incorreu em inconsititucionalidade, uma vez que esteve adstrita aos limitações impostas pela Constituição ao Poder Reformador, inexistindo afronta ao art. 60, § 4º. A desafetação temporária dos recursos arrecadados através de contribuições sociais não implica a instituição de novo tributo, eis que preservados os elementos essenciais da contribuição. Trata-se de comando constitucional dirigido ao legislador e à administração pública, a ser observado no momento da aplicação de tais verbas. E se inconstitucionalidade houvesse, esta não desobriga o contribuinte do recolhimento da exação, desde que ensejaria a revinculação da destinação da receita tributária a seu fim específico” (fl. 243).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, a inconstitucionalidade da cobrança da COFINS durante o período previsto no art. 76 do ADCT.
+A pretensão recursal não merece acolhida. A Corte já firmou entendimento no sentido de que a desvinculação parcial e temporária da arrecadação das contribuições sociais da União, nos termos do art. 76 do ADCT, é constitucional e não altera a natureza desses tributos, conforme se observa da ementa do RE 537.610/RS, Rel. Min. Cezar Peluso:
+“TRIBUTO. Contribuição social. Art. 76 do ADCT. Emenda Constitucional nº 27/2000. Desvinculação de 20% do produto da arrecadação. Admissibilidade. Inexistência de ofensa a cláusula pétrea. Negado seguimento ao recurso. Não é inconstitucional a desvinculação de parte da arrecadação de contribuição social, levada a efeito por emenda constitucional”.
+No mesmo sentido, menciono as seguintes decisões: RE 537.668/RS, Rel. Min. Carlos Britto; RE 511.877/RS e RE 537.668/RS, de minha relatoria.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 20 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
