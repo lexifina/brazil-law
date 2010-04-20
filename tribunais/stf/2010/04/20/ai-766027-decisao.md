@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO DE RENDA: INCIDÊNCIA SOBRE LICENÇA PRÊMIO CONVERTIDA EM PECÚNIA. NATUREZA JURÍDICA DA PARCELA REMUNERATÓRIA: MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“SERVIDOR PÚBLICO – Verbas recebidas a título de licença-prêmio não gozada quando em atividade – incidência de Imposto de Renda – inadmissibilidade – verbas de natureza indenizatória, visando à recomposição do patrimônio do servidor pelo prejuízo suportado, não podendo por isso ser objeto de tributação – não inclusão no conceito de renda e proventos previsto no artigo 153, inciso III, da Constituição Federal e artigo 43 do Código Tributário Nacional – recurso não provido, com observação” (fl. 155).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 220-221).
+4. O Agravante alega que teria sido contrariado o art. 153, inc. III, da Constituição da República.
+Argumenta que:
+“Na legislação ordinária que tratou da exação pode-se vislumbrar que toda pessoa física que adquirir renda ou proventos torna-se contribuinte desse imposto, cuja base de cálculo é dada pelos rendimentos brutos, deles deduzidos os abatimentos previstos em lei. Oportuno, identificar se a licença-prêmio incide no conceito de renda ou proventos de qualquer natureza. Para tanto, valemo-nos da nota nº 96, relativa ao art. 29 do Regulamento do Imposto de Renda, contida no Regulamento editado pela Resenha Tributária, desde 1987, que assim dispõe (...) O citado artigo disciplina a licença-prêmio que é usufruída ou não pelo beneficiário, e diz diretamente com a hipótese de incidência do tributo, justificando a pertinência da retenção do imposto incidente sobre a folha de salários quando da ocorrência da licença em tela” (fls. 190-191).
+Apreciada a matéria trazida na espécie, DECIDO .
+5. Razão jurídica não assiste ao Agravante.
+6. O Tribunal de origem decidiu a controvérsia à luz de normas infraconstitucionais. Eventual ofensa à Constituição, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário.
+Nesse sentido:
+“1. Recurso extraordinário: descabimento: controvérsia relativa a imposto de renda retido na fonte pelo Estado sobre pagamentos "in pecunia", referentes a férias e licenças-prêmio não gozadas, decidida à luz de legislação infraconstitucional: a alegada violação dos dispositivos constitucionais invocados, se ocorresse, seria reflexa ou indireta que não enseja reexame no RE: incidência, mutatis mutandis, do princípio da Súmula 636. 2. Competência da Justiça estadual e legitimidade passiva do Estado para a demanda: inexistência da alegada violação do artigo 157, I, da Constituição Federal” (AI 571.850-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJe 25.5.2007).
+“Agravo regimental em agravo de instrumento. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Servidor Público estadual. Licença-prêmio não gozada. Pagamento em pecúnia. Retenção de imposto de renda sobre o valor pago. Controvérsia infraconstitucional. Ofensa indireta à Constituição Federal. 4. Competência da Justiça estadual para julgar a ação de repetição de indébito. Precedentes. 5. Agravo regimental a que se nega provimento” (AI 488.425-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 25.4.2008).
+“CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO DE RENDA. FÉRIAS E LICENÇA-PRÊMIO PAGOS EM PECÚNIA. I. - Férias e licença-prêmio em pecúnia: não-incidência do imposto de renda, dado o seu caráter indenizatório. Matéria infraconstitucional: não-cabimento do recurso extraordinário. Precedentes. II. - Agravo não provido” (AI 476.248-AgR, Rel. Min. Carlos Velloso, Segunda Turma, DJ 4.3.2005).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Férias e licença-prêmio pagos em pecúnia. Imposto de renda. Não incidência. Matéria infraconstitucional. Agravo regimental não provido. Precedentes. Não cabe RE que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou até, inobservância de legislação subalterna, seria apenas indireta à Constituição da República” (AI 239.378-AgR, Rel. Min. Cezar Peluso, Primeira Turma, DJ 5.3.2004).
+Não há, pois, o que prover quanto às alegações do Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 20 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
