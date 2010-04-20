@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO – FUNDEF. DEVOLUÇÃO DE VALORES ESTORNADOS NO MESMO EXERCÍCIO DE COMPETÊNCIA. NECESSIDADE DA ANÁLISE DE LEGILAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+“CONSTITUCIONAL. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO – FUNDEF. COMPLEMENTAÇÃO DE VERBAS PELA UNIÃO. DEDUÇÃO. LEI 9.424/96. DECRETO 2.264/97. PORTARIA 239, DE 31 DE JULHO DE 2002.
+1. A Portaria n. 239, de 31 de julho de 2002, foi editada pelo Ministério da Fazenda com o objetivo de divulgar o novo cronograma de valores mensais da complementação da União ao FUNDEF e os ajustes de repasses referentes ao ano de 2001, a serem implementados ainda no mês de agosto de 2002.
+2. Nos termos do § 7º do art. 3º do Decreto n. 2.264/97, que regulamentou a Lei n. 9.424/96, nenhum ajuste relacionado com a complementação da União será admitido ao longo do respectivo exercício de competência.
+3. A dedução realizada pela União na conta do FUNDEF do município, ainda na competência do exercício de 2002, contraria norma legal e ofende o princípio da segurança das relações jurídicas. O estorno da verba apenas faz com que o município retorne ao status quo anterior à portaria.
+4. Apelação provida para julgar procedente o pedido autoral” (fl. 375).
+2. A Recorrente alega que teriam sido contrariados os arts. 5º, inc. LIV e LV, e 100 da Constituição da República e o art. 60, § 1º, do Ato das Disposições Constitucionais Transitórias.
+Argumenta que:
+“Considerando (...) que a fixação do Valor Mínimo Nacional por Aluno/Ano – VMNA – é ato discricionário do Presidente da República, observados, é claro, os limites mínimos estabelecidos na Lei nº 9.424/96; considerando que, in casu, a fixação do VMNA devido ao município recorrido deu-se exatamente dentro desses critérios objetivos (Lei nº 9.424/96) e discricionários, conclui-se que a ação não poderia ter sido julgada procedente, para entender que a União teria calculado equivocadamente os valores devidos ao Município Recorrido a título de FUNDEF” (fl. 132).
+Sustenta que “desde a implantação do FUNDEF, em 1998, a União foi promovendo os ajustes devidos, positivos ou negativos, com base no valor das receitas que compõem cada Fundo (de cada um dos estados da federação). Ao concluir que repassou valores a maior para complementar as quotas devidas à Municipalidade Recorrida a título de FUNDEF, a União estornou tais valores por meio da Portaria nº 239/2002, o que fez com base nas normas contidas no art. 3º, §§ 5º e 6º, do Decreto nº 2.264/97” (fl. 434).
+Afirma, ainda, que “com a procedência do pedido do município autor, a União foi condenada ao estorno da quantia deduzida da cota de complementação da União ao FUNDEF. A conseqüência prática dessa decisão será a obrigação de a União efetuar ao recorrido pagamentos decorrentes de uma ordem judicial sem que se respeite a ordem de precatórios constitucionalmente prevista no art. 100 da CF” (fls. 436-437).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica não assiste à Recorrente.
+4. O Tribunal de origem decidiu a controvérsia com base na legislação infraconstitucional – Lei 9.424/1996 e Decreto 2.264/1997. Assim, eventual ofensa à Constituição, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. 1. CASO EM QUE ENTENDIMENTO DIVERSO DO ADOTADO PELO ACÓRDÃO RECORRIDO EXIGIRIA O REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. 2. INCIDÊNCIA DA SÚMULA 283 DO STF. 1. A alegada ofensa à Carta da República, se existente, ocorreria de forma reflexa ou indireta, o que não enseja a abertura da via extraordinária. 2. Incide, por fim, a Súmula 283 desta colenda Corte. Agravo desprovido” (AI 658.931-AgR, Ayres Britto, Primeira Turma, DJe 14.8.2009).
+“RECURSO EXTRAORDINÁRIO - ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - INVIABILIDADE DO APELO EXTREMO - RECURSO DE AGRAVO IMPROVIDO” (RE 436.942-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 26.3.2010).
+No mesmo sentido e em caso análogo foi proferida a decisão monocrática no Recurso Extraordinário 603.681, Rel. Min. Ricardo Lewandowski, DJ 3.2.2010.
+5. Além disso, a jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa reflexa à Constituição da República. Nesse sentido:
+“A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+Nada há, pois, a prover quanto às alegações da Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 20 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
