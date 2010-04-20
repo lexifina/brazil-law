@@ -1,0 +1,14 @@
+DECISÃO: 1. Trata-se de reclamação proposta por Banco Santander (Brasil) S/A, contra decisão monocrática do Colégio Recursal de Pirassununga, que julgou prejudicado agravo de instrumento interposto contra decisão do Colégio Recursal da 11ª Circunscrição Judiciária da Comarca de Pirassununga que negou seguimento a recurso extraordinário.
+O Tribunal reclamado julgou prejudicado o agravo de instrumento sob o fundamento de que:
+“A matéria objeto do presente agravo foi apreciada pelo Supremo Tribunal Federal em caso semelhante (fls. 179).
+Referida decisão consignou inexistir ofensa direta ao texto constitucional, de forma a tornar inadmissível o recurso extraordinário.
+Cabível, portanto, a aplicação do disposto no artigo 543-B, §3º do Código de Processo Civil, porque admitir-se o agravo de instrumento nessas situações e retomar-se a remessa individual de processos ao STF, significaria confrontar a lógica do sistema e restabelecer o modelo de análise casuística, quando toca a reforma processual fora concebida de modo a permitir que o Supremo Tribunal Federal de debruçasse uma única vez sobre cada questão constitucional.
+No mais, o Regimento Interno do STF, em seu artigo 328-A, §1º, assim estabelece, in verbis: ‘Nos casos anteriores, o Tribunal de origem sobrestará os agravos de instrumento contra decisões que não tenham admitido os recursos extraordinários, julgando-os prejudicados nas hipóteses do artigo 543-B, § 2º, e, quando coincidente o teor dos julgamentos, §3º.” (fls. 180 do apenso).
+O reclamante afirma, em resumo, que a decisão que julgou prejudicado o agravo de instrumento usurpou a competência do Supremo Tribunal Federal, única Corte que pode proferir juízo de admissibilidade em agravo de instrumento.
+2.  Incognoscível a reclamação.
+ Na sessão plenária do dia 19/11/2009, a Corte, por unanimidade, resolveu questão de ordem no AI n° 760.358 (Rel. Min. GILMAR MENDES) e as Rcls n°s 7.569 e  7.547 (ambas de relatoria da Min. ELLEN GRACIE) , no sentido de não conhecer, por inadmissíveis, de agravo de instrumento, nem de reclamação, contra decisão de tribunal de origem que, diante de decisão de recurso extraordinário, cuja repercussão geral foi reconhecida, julga prejudicado recurso sobrestado, ou lhe aplica o precedente a caso diverso, ou a caso apenas semelhante. E decidiu que, nessas hipóteses, admissível é o agravo regimental, em que determinou converter e devolver o agravo de instrumento e as reclamações, para que se processem como tais no tribunal a quo.
+3.  Diante do exposto, com fundamento no art. 38 da Lei nº 8.038, de 28 de maio de 1990, art. 557, caput, do CPC, e art. 21, § 1º, do RISTF, não conheço da reclamação e determino a remessa destes autos ao Colégio Recursal de Pirassununga, para que processe o feito como agravo regimental.
+Publique-se. Int.
+Brasília, 20 de abril de 2010.
+Ministro CEZAR PELUSO
+Relator
