@@ -1,0 +1,16 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO – SUBIDA DO EXTRAORDINÁRIO – AUSÊNCIA DE PREQUESTIONAMENTO.
+1.  De início, registro o prejuízo do recurso no ponto relativo ao ressarcimento ao erário das vantagens recebidas de boa-fé pela agravante, ante o acolhimento de pleito idêntico, formulado no especial simultaneamente interposto.
+2.  No tocante ao direito à continuidade de percepção da Vantagem Pessoal Nominalmente Identificada, a Corte de origem consignou (folha 18):
+[...] não vislumbro qualquer vício a macular o ato de supressão da parcela da vantagem pessoal, visto que, sobre ser poder, é dever da Administração Pública zelar pela estrita conformidade de seus atos com a lei, de tal sorte que, detectado o pagamento maior, impõe-se sua suspensão. De outra parte, nem se alegue a inobservância do contraditório e da ampla defesa, uma vez que a supressão da referida vantagem teve por objetivo adequar os proventos da autora à previsão legislativa.
+Ressalte-se que, no presente caso, em se tratando de questão exclusivamente de direito, não há também que se questionar a oportunidade de defesa no plano administrativo, típica de procedimentos que demandem apuração de fatos.
+Ademais, a autarquia ré logrou comprovar que não houve redução nos proventos da autora com a transposição para a nova carreira, de modo que inexiste direito à percepção da vantagem pessoal prevista no artigo 58 da Medida Provisória nº 2.048-26, de 29 de junho de 2000 (fls. 83 e segs.).
+[...]
+ Em momento algum a matéria foi analisada à luz do princípio da irredutibilidade de vencimentos previsto no artigo 37, inciso XV, da Constituição Federal, valendo notar a ausência de interposição de embargos de declaração.
+ O recurso extraordinário direciona ao atendimento cumulativo dos requisitos gerais de recorribilidade – adequação, oportunidade, interesse de agir, representação processual e preparo - e a um dos específicos previstos no inciso III do artigo 102 da Carta da República. O acesso ao Supremo faz-se, por isso mesmo, em via de excepcionalidade maior, tudo objetivando a atuação precípua da Corte, qual seja, a guarda da supremacia da Constituição Federal. Quanto ao pressuposto específico, quase sempre retratado na alínea “a” do inciso III do artigo 102 da Lei Fundamental – violência a dispositivo nela inserto –, mostra-se necessário, ante a ordem natural das coisas, proceder-se a cotejo. Somente é possível definir se houve transgressão de texto da Carta mediante o confronto do que decidido com as razões do extraordinário, mais precisamente com o que evocado no tocante à adoção de entendimento contrário ao ditame constitucional. Daí o instituto do prequestionamento, que significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o acórdão impugnado nada contém sobre o que versado pela parte recorrente, descabe assentar o enquadramento deste no permissivo constitucional.
+3.  No caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo órgão julgador. Padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nos 282 e 356 da Súmula desta Corte.
+4.  Conheço deste agravo e o desprovejo.
+5.  Publiquem.
+Brasília, 22 de abril de 2010.
+Ministro MARCO AURÉLIO
+Relator
