@@ -1,0 +1,17 @@
+DECISÃO:  Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) em face de acórdão, proferido pelo Tribunal Regional Federal da 4ª Região, que, nos autos de mandado de segurança impetrado por servidores da Universidade Federal do Paraná, lhes garantiu direito ao reajuste das parcelas de quintos incorporados, nos termos da Lei 9.030/1995.
+O acórdão recorrido está assim ementado:
+“EMENTA: CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR. QUINTOS. REAJUSTE. DIREITO ADQUIRIDO. ISONOMIA ENTRE ATIVOS E INATIVOS.
+1. As vantagens (‘quintos’), assim como os critérios para sua atualização, uma vez incorporados ao patrimônio dos servidores públicos, sob a vigência de determinada legislação, constituem-se em direitos adquiridos, resguardados pelo art. 5º, XXXVI, da CF/88 e insuscetíveis de alteração.
+2. Ainda que a lei tenha extinguido uma vantagem, instituído nova ou introduzido outra fórmula de calculá-la no que respeita ao servidor em atividade, o aposentado tem o indeclinável direito de absorvê-la, face a prerrogativa então prevista pelo art. 40, da CF/88.” (Fls. 114)
+A recorrente alega violação aos arts. 5º, caput, e 40, § 8º, da Constituição federal. Sustenta, em síntese, que “a Lei nº 9.030/9 NÃO contempla as funções que foram exercidas pelos Impetrantes e que deram origem à incorporação de ‘quintos’” (fls. 128).
+É o relatório.
+Esta Corte firmou o entendimento de que não há direito adquirido à preservação do regime que vincula os valores já incorporados ao respectivo cargo em comissão. Nesse sentido, os precedentes do AI 446.717, (rel. min. Nelson Jobim, DJ de 04.08.2003), RE 324.344 (rel. min. Néri da Silveira, DJ de 23.04.2002), RE 235.299-AgR (rel. min. Ellen Gracie, DJ de 02.05.2003) e do RE 310.001-AgR (rel. min. Carlos Velloso, DJ de 22.11.2002).
+Menciono, ainda:
+“(...) Esta Corte, no julgamento do RE 233958, Rel. Min. Sepúlveda Pertence, D.J. 17.09.99, assentou o entendimento expresso na seguinte ementa: ’Servidor público estadual: ‘estabilidade financeira’: é legítimo que por lei superveniente, sem ofensa a direito adquirido, o cálculo da vantagem seja desvinculado, para o futuro, dos vencimentos do cargo em comissão outrora ocupado pelo servidor, passando a quantia a ela correspondente a ser reajustada segundo os critérios das revisões gerais de remuneração do funcionalismo’. (...) O Supremo Tribunal Federal tem afirmado que a constitucionalidade das leis instituidoras da estabilidade financeira ‘não ilide a plausibilidade do entendimento de ser legítimo que, mediante lei, o cálculo da vantagem seja desvinculado, para o futuro, dos vencimentos do cargo em comissão outrora ocupado pelo servidor, passando a quantia a ela correspondente ser reajustada segundo os critérios das revisões gerais de remuneração do funcionalismo’ (...)” (RE 285.494, rel. min. Néri da Silveira, DJ de 22.06.2001).
+E ainda, o MS 22.353 (rel. min. Moreira Alves, Tribunal Pleno, DJ de 07.03.2003); RE 438.481 (rel. min. Gilmar Mendes, Segunda Turma, DJe de 11.04.2008); RE 460.674-AgR (rel. min. Cezar Peluso, Segunda Turma, DJe de 24.10.2008); RE 460.072 (rel. min. Cezar Peluso, DJ de 18.11.2005) e AI 733.972 (rel. min. Cezar Peluso, DJe de 17.02.2009).
+Dessa orientação divergiu o acórdão recorrido.
+Do exposto, nos termos do art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso. Custas ex lege.
+Publique-se.
+Brasília, 22 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
