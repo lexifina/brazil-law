@@ -1,0 +1,13 @@
+DECISÃO:  Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão em que o Tribunal de Justiça de Minas Gerais reputou necessário prévio procedimento administrativo para a reposição ao erário dos valores pagos indevidamente.
+O acórdão está assim ementado (fls. 257):
+“Embora se reconheça à Administração pública a possibilidade de rever atos concessivos de vantagens, quando não se compatibilizam com a legislação aplicável, as restituições decorrentes dos pagamentos irregulares, a serem operadas nos proventos do servidor, somente se legitimam quando observado o devido processo legal, com contraditório e garantia à defesa do interessado.”
+O recurso extraordinário alega que o acórdão recorrido viola o preceito do art. 37, caput.
+A questão constitucional debatida no recurso extraordinário não foi ventilada no acórdão recorrido nem foram objeto de embargos de declaração. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Ainda que superado esse óbice, o Plenário deste Tribunal firmou o entendimento de que o desconto em folha de pagamento de servidor público somente pode ocorrer com a aquiescência deste. Nesse sentido, o acórdão prolatado no MS 24.182 (red. para o acórdão min. Gilmar Mendes, DJ 03.09.2004), cuja ementa ficou assim redigida:
+“Mandado de Segurança. 2. Desaparecimento de talonários de tíquetes-alimentação. Condenação do impetrante, em processo administrativo disciplinar, de ressarcimento ao erário do valor do prejuízo apurado. 3. Decisão da Mesa Diretora da Câmara dos Deputados de desconto mensais, em folha de pagamento, sem a autorização do servidor. 4. Responsabilidade civil de servidor. Hipótese em que não se aplica a auto-executoriedade do procedimento administrativo. 5. A Administração acha-se restrita às sanções de natureza administrativa, não podendo alcançar, compulsoriamente, as conseqüências civis e penais. 6. À falta de prévia aquiescência do servidor, cabe à Administração propor ação de indenização para a confirmação, ou não, do ressarcimento apurado na esfera administrativa. 7. O Art. 46 da Lei no 8.112, de 1990, dispõe que o desconto em folha de pagamento é a forma como poderá ocorrer o pagamento pelo servidor, após sua concordância com a conclusão administrativa ou a condenação judicial transitada em julgado. 8. Mandado de Segurança deferido.”
+Confira-se também o AI 524.143-AgR (rel. min. Sepúlveda Pertence, DJ 18.03.2005).
+Do exposto, nos termos do art. 557 do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 22 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
