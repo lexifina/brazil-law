@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO EM ATIVIDADE. CONTRIBUIÇÃO PREVIDENCIÁRIA INSTITUÍDA PELA LEI COMPLEMENTAR N. 943/2003, DO ESTADO DE SÃO PAULO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL. SÚMULA 280 SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso Extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+“SERVIDORES PÚBLICOS ESTADUAIS – Contribuição previdenciária – Lei Complementar Estadual nº 943/03 – Legitimidade passiva da Fazenda do Estado – Previsão constitucional – Possibilidade da majoração – Ausência de violação a disposições legais ou constitucionais – Ação improcedente – Recursos oficial e voluntário providos” (fl. 108).
+2. Os Recorrentes alegam que teriam sido contrariados os arts. 40, § 12, 149, 194, 195 e 201 da Constituição da República.
+Esclarecem, inicialmente, que “em nenhum momento (...) sustentaram que a Emenda Constitucional nº 41/2003 é inconstitucional e sim que a forma e modos de exigência da contribuição previdenciária prevista na Lei Complementar nº 943/2003 é inconstitucional” (fl. 118).
+Afirmam que “o que o regime da previdência exige é um fundo específico para o pagamento de aposentadorias futuras e não arrecadação da contribuição pelo Estado classificando-a no orçamento do IPESP (atual SP-PREV), possibilitando, assim, saber como serão pagas as aposentadorias, bem como a administração dos valores arrecadados, não só dos empregados (aqui servidores públicos) como também do empregador (aqui o Estado)” (fl. 120).
+Argumentam, ainda, que “a Lei Complementar nº 1010 de 01/06/2006, que criou a São Paulo Previdência – SPPREV, cumpriu com os requisitos previstos na Constituição Federal para o aumento de alíquota de contribuição previdenciária, contudo, o período de cobrança indevida deve ser restituído, uma vez que lei posterior não pode retroagir para suprir requisitos constitucionais não obedecidos anteriormente” (fl. 120).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão de direito não assiste aos Recorrentes.
+4. O Tribunal de origem decidiu a controvérsia à luz da legislação infraconstitucional aplicável, especificamente as Leis Complementares estaduais n. 943/2003 e 1.010/2007. Assim, a alegada contrariedade à Constituição, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DESCONTOS. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL (SÚMULAS 282 E 356). LEI COMPLEMENTAR ESTADUAL N. 943/03. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 661.559-AgR, de minha relatoria, DJe 3.4.2009 – grifos nossos).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. OFENSA INDIRETA. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. A controvérsia foi decidida com fundamento na legislação local, incidência da Súmula n. 280 deste Tribunal. 3. Nos termos da Súmula n. 636 do STF, não cabe recurso extraordinário por ofensa ao princípio da legalidade, se houver necessidade de rever a interpretação dada a normas infraconstitucionais. 4. Agravo regimental a que se nega provimento” (AI 673.431-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 7.12.2007).
+E, ainda, as seguintes decisões monocráticas: RE 598.159, Rel. Min. Ricardo Lewandowski, DJ 24.4.2009; e RE 605.445, Rel. Min. Eros Grau, DJe 18.12.2009.
+Não há, pois, o que prover quanto às alegações dos Recorrentes.
+5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 22 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
