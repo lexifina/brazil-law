@@ -1,0 +1,14 @@
+1.  Trata-se de recurso extraordinário por violação aos arts. 2º; 146, III; 149; 150, I; 195, I e 246 da Constituição Federal, contra acórdão que entendeu que a base de cálculo para as contribuições para o PIS e a COFINS é o faturamento bruto da empresa e não o lucro bruto (fls. 108-110).
+A recorrente alega, em síntese, que a carga tributária imposta pela Medida Provisória 1.724/98, convertida na Lei 9.718/98, é ilegal, pois ao impor o pagamento da COFINS e do PIS sobre o faturamento bruto, o faz com base fiscal na receita de outrem. O faturamento bruto não corresponde à realidade de suas operações, pois sua receita constitui-se da diferença entre o faturamento bruto e as receitas transferidas (fls. 134-140).
+2.  Inadmitido o recurso na origem, subiram os autos em virtude do provimento do AI 649.521/RS (fl. 169).
+3.  O Ministério Público Federal manifestou-se pelo conhecimento parcial do recurso e, nesta parte, pelo seu desprovimento (fls. 183-189).
+4.  Preliminarmente, verifico que, quanto aos arts. 2º; 146, III; 149 e 150, I da Constituição Federal, falta-lhes o necessário prequestionamento, uma vez que não foram citados pelo acórdão recorrido e nem pelos embargos de declaração opostos. Incide na espécie o óbice das Súmulas STF 282 e 356.
+5.  Ademais, quanto aos dispositivos prequestionados (arts. 195, I e 246, da Constituição Federal), para divergir da conclusão a que chegou o Tribunal a quo, far-se-ia necessário o exame da legislação infraconstitucional (Lei 9.718/98), o que é defeso nesta fase recursal. Incidência da súmula STF 280.
+6.  Sobre a matéria, a jurisprudência desta Corte já assentou que a alegada ofensa à Constituição Federal, se existente, seria meramente reflexa ou indireta. Assim me posicionei no julgamento do RE 552.778-AgR/RS, 2ª Turma, DJe 27.02.2009, cuja ementa transcrevo:
+“ DIREITO TRIBUTÁRIO. IMPOSSIBILIDADE DE EXCLUSÃO DA BASE DE CÁLCULO DO PIS E COFINS DE VALORES TRANSFERIDOS A TERCEIRA PESSOA JURÍDICA. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL . 1. A discussão relativa à impossibilidade do contribuinte excluir da base de cálculo do PIS e COFINS o valor computado como receita, transferidos a terceira pessoa jurídica, configura ofensa indireta ou reflexa à Constituição Federal, sendo inadmissível o conhecimento por esta Corte. Precedentes. 2. Agravo regimental improvido.”
+ Vejam-se, a propósito: o RE 394.317-AgR/SC, rel. Min. Cezar Peluso, 2ª Turma, DJE 16.05.2008; AI 532.412-AgR/RS, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 29.06.2007; RE 349.741/RS, rel. Min. Carlos Britto, DJ 09.02.2006 e o AI 514.550-AgR-ED/PR, de minha relatoria, 2ª Turma, unânime, DJe 11.09.2009, entre outros.
+7.  Diante do exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput e RISTF, art. 21, § 1º).
+Publique-se.
+Brasília, 22 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
