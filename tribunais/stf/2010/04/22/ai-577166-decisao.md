@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, cuja ementa tem o seguinte teor:
+“CONSTITUCIONAL E ADMINISTRATIVO. GRATIFICAÇÃO JUDICIÁRIA. SERVIDORES CELETISTAS. CABIMENTO DO MANDAMUS. PROCEDIMENTO ADMINISTRATIVO. AUSÊNCIA DE DECISÃO. PRESCRIÇÃO E DECADÊNCIA INOCORRENTES. DIREITO LÍQÜIDO E CERTO CONFIGURADO. SEGURANÇA CONCEDIDA.
+- É cabível o manejo do mandado de segurança quando a pretensão nele deduzida repousa em vantagem salarial fixada em lei e não atendida na via administrativa. Inaplicabilidade da Súmula n.º 269 do Supremo Tribunal Federal.
+- Em se tratando de ato omissivo da autoridade coatora, consistente na ausência de apreciação de procedimento administrativo, não há falar-se em prescrição qüinqüenal para cobrança de débitos salariais, visto que o respectivo prazo somente começa a fluir a partir do efetivo indeferimento do pedido.
+- Os servidores do Poder Judiciário faziam jus à Gratificação Judiciária instituída pelo Decreto-lei 2.173/84 mesmo quando, à época, eram regidos pela Consolidação das Leis do Trabalho. Segurança conhecida e concedida. Decisão por maioria.” (Fls. 107)
+No recurso extraordinário, aponta-se violação aos arts. 2º; 5º, II e LXIX e 37, caput, todos da Constituição federal.
+Esta Corte já firmou entendimento de que a análise dos requisitos para concessão ou denegação do mandado de segurança cinge-se à norma processual que disciplina o exercício da ação constitucional - no caso, a Lei 1.533/1951 -, hipótese em que não se admite o recurso extraordinário. Nesse sentido: AI 573.652-AgR (rel. min. Cármen Lúcia, DJ de 20.04.2007); AI 629.562-AgR (rel. min. Sepúlveda Pertence, DJ de 25.05.2007); AI 565.661-AgR (rel. min. Carlos Britto, DJ de 10.08.2006); AI 489.109-AgR (rel. min. Ellen Gracie, DJ de 20.04.2006).
+Ademais, a solução da controvérsia demanda a exegese de atos normativos infraconstitucionais (Decreto-Lei 2.173/1984 e Lei 7.923/1989), de sorte que as alegadas ofensas à Constituição, se ocorrentes, se dariam de maneira reflexa. Aplica-se, à espécie, o entendimento da Súmula 636. Nesse sentido: AI 438.171 (rel. min. Cezar Peluso, DJ de 15.05.2006); RE 475.380 (rel. min. Carlos Britto, DJ de 10.03.2006); RE 433.333 (rel. min. Gilmar Mendes, DJ de 27.09.2005); RE 525.373 (rel. min. Sepúlveda Pertence, DJ de 19.03.2007); RE 438.131 (rel. min. Ricardo Lewandowski, DJe de 09.12.2008) e RE 571.427-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 13.11.2009).
+Por fim, constato que as matérias debatidas no recurso especial continuam vigorando tendo em vista a negativa de seguimento do REsp. Incide, no caso, o enunciado da Súmula 283 do Supremo Tribunal Federal.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 22 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
