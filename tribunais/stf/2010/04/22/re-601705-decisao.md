@@ -1,0 +1,25 @@
+DECISÃO
+Vistos.
+A União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+“ADMINISTRATIVO. SERVIDOR PÚBLICO. AUXÍLIO ALIMENTAÇÃO. LEI Nº 8.460/92. DECRETO Nº 969/93.
+1. O direito à percepção do auxílio alimentação exsurgiu com o advento do Dec. nº 969/93, que regulamentou a Lei nº 8.460/92, que instituiu este benefício, em novembro de 1993;
+2. Inexistindo dispositivo legal que exija a prévia adesão do servidor a este Programa, não há de se fazer tal restrição;
+3. Apelação e remessa oficial improvidas” (fl. 56).
+Alega a recorrente violação dos artigos 5º, caput e inciso XXXVI, e 37, caput, da Constituição Federal.
+Sem contrarrazões (fl. 70), o recurso extraordinário (fls. 63 a 68) foi admitido (fl. 71).
+O Superior Tribunal de Justiça, por decisão transitada em julgado, negou provimento ao recurso especial interposto paralelamente ao extraordinário (fls. 97 a 99).
+Decido.
+Anote-se, inicialmente, que a recorrente foi intimada do acórdão recorrido em 7/10/02, conforme expresso na certidão de folha 57, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar uma vez que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+Por outro lado, a jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+Ressalte-se, por fim, que o acórdão atacado concluiu que “o período pleiteado na exordial – janeiro a dezembro de 1994 – é posterior è regulamentação da Lei nº 8.460/92, que ocorreu em novembro de 1993, com o advento do Decreto nº 969/93, havendo, conseqüentemente, o pretendido direito à percepção do auxílio alimentação. A necessidade de prévia adesão, alegada na apelação da União, não está prevista na legislação supra, não podendo, portanto, ser exigida” (fl. 53).
+Nesse caso, para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame da legislação infraconstitucional em debate, o que não é cabível em sede de recurso extraordinário. Nesse sentido, anote-se:
+“Recurso extraordinário: descabimento: questão de natureza infraconstitucional: alegada violação a dispositivos constitucionais que, se ocorresse, seria indireta ou reflexa, de reexame inviável no extraordinário” (AI nº 456.719/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 30/4/04).
+“AGRAVO REGIMENTAL. PRETENSÃO RECURSAL QUE DEMANDARIA O REEXAME DO ACERVO PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. Caso em que ofensa à Carta da República, se existente, ocorreria de forma reflexa ou indireta, o que não enseja a abertura da via extraordinária. Agravo desprovido” (AI nº 607.529/GO-AgR, Primeira Turma, Relator o Ministro Carlos Britto, DJ de 11/5/07).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 22 de abril de 2010.
+Ministro DIAS TOFFOLI
+Relator
