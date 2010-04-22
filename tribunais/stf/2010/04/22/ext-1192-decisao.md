@@ -1,0 +1,22 @@
+1.  Trata-se de pedido de extradição em que figura como requerente o Estado de Portugal e como extraditando Manuel Mota Oliveira ou Manuel Oliveira.
+2.  Na esteira do teor da Nota Verbal 46/2010, encartada nas fls. 4-219, tal pleito de extradição têm como fundamento o mandado de detenção internacional oriundo do juízo da 7ª Vara Criminal de Lisboa, em razão de suposta prática de crimes de associação criminosa e fraude fiscal.
+3.  É que no 2º semestre de 2000 o extraditando colaborou no recrutamento de pessoas para que estas, em troca de pagamento não quantificado, emprestassem seus dados pessoais para que o grupo criminoso por ele composto, procedesse à importação de veículos sem o respectivo pagamento dos impostos devidos ao fisco português.
+4.  Instado a se manifestar, o Ministério Público Federal ofertou parecer às fls. 223-225, valendo a transcrição do seguinte trecho:
+“(...).
+3.  Analisando a Nota Verbal, observa-se que o Procedimento Criminal nº 108/09.7 TCLSB foi concluído e, ao que tudo indica, respeitou-se o prazo legal de 5 (cinco) anos previsto no artigo 15º do Código Penal português (fls. 216).
+4.  Os delitos atribuídos a MANUEL MOTA OLIVEIRA correspondem, em tese, aos crimes tipificados nos artigos 288 do Código Penal brasileiro e 1º da Lei nº 8.137/90. Considerando que os fatos teriam ocorrido no ano de 2000, não se vislumbra a consumação da prescrição punitiva (fls. 218).
+5.  Dessarte, em um exame perfunctório, não parece haver qualquer óbice ao processamento do presente pedido de extradição, consoante destaca a própria Nota Verbal às fls. 6.
+6.  Nota-se, entretanto, que ainda não houve decisão sobre a custódia preventiva do extraditando.
+7.  De acordo com a Lei nº 6.815/80, a prisão cautelar é requisito essencial ao trânsito do próprio processo de extradição . Sem que tal medida se efetive, o entendimento dessa Corte é de que se torna inviável a tramitação do feito.
+8.  Com fundamento no princípio da celeridade processual, é conveniente a realização de diligências. Isso porque o Estado requerente não forneceu as cópias dos dispositivos legais referentes às causas de suspensão e de interrupção da prescrição punitiva e aos artigos 42º e 47º do Regime Geral das Infrações Tributárias.
+9.  Necessário, ainda, que o Governo português informe se a documentação acostada aos autos às fls. 11/207 corresponde ao relatório final do procedimento criminal ou a eventual denúncia oferecida pelo Ministério Público daquele País.
+10.  Ante o exposto, o Ministério Público Federal manifesta-se pela decretação da custódia preventiva de MANUEL MOTA OLIVEIRA e pede que se solicite ao Governo de Portugal, pela via diplomática, que proceda à juntada das cópias autenticadas das normas penais concernentes às causas de suspensão e de interrupção da prescrição punitiva em vigor à época dos fatos delituosos e aos artigos 42º e 47º do Regime Geral das Infrações Tributárias, e que informe se a documentação juntada às fls. 11/207 corresponde ao relatório final do procedimento criminal ou a eventual denúncia oferecida pelo Ministério Público português.”
+5.  Perfilho o mesmo entendimento ministerial, uma vez que a Lei 6.815/80 é bastante clara ao impor, como condição fundamental do processo extradicional, a necessidade da prisão cautelar.
+6.  Não vislumbro, de outra banda, nenhum óbice à decretação da custódia cautelar. Inicialmente porque não há que se falar em prescrição, porquanto os fatos são do ano de 2000, além do que os crimes atribuídos ao requerido encontram tipificação legal em nosso ordenamento jurídico, ou seja, os injustos capitulados no art. 288 do Código Penal e o crime fiscal do art. 1º da Lei 8.137/90.
+7.  Assim sendo, decreto a prisão preventiva de Manuel Mota Oliveira ou Manuel Oliveira, expedindo-se o respectivo mandado de prisão.
+8.  Outrossim, acolho as providências requeridas no item 10 da manifestação do Parquet à fl. 224, solicitando-se ao Governo de Portugal, pela via diplomática, que proceda à juntada das cópias autenticadas das normas penais concernentes às causas de suspensão e de interrupção da prescrição punitiva em vigor à época dos fatos delituosos e aos artigos 42 e 47 do regime geral das infrações tributárias, informando ainda se a documentação juntada nas fls. 11-207 corresponde a relatório final do procedimento criminal ou a eventual denúncia oferecida pelo Ministério Público de Portugal.
+9.  Esta decisão somente deverá ser publicada após a efetivação da prisão cautelar do extraditando.
+Brasília, 22 de abril de 2010
+Ministra Ellen Gracie
+Relatora
+1
