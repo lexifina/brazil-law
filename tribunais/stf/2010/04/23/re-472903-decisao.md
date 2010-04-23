@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) de acórdão que julgou procedente ação rescisória e considerou correta a conversão de benefício previdenciário em URV, realizada pelo Instituto Nacional do Seguro Social.
+O recurso extraordinário veicula ofensa aos arts. 5º, XXXVI; 194, IV e 201, § 4º, da Carta Magna. Sustenta que o conhecimento da ação rescisória com o afastamento da Súmula 343 violou a coisa julgada. No mérito, alega que a manutenção do acórdão recorrido ofende o princípio da preservação do valor real dos benefícios.
+As Turmas do Supremo Tribunal Federal fixaram entendimento acerca da matéria atinente às hipóteses de cabimento da ação rescisória:
+“EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AÇÃO RESCISÓRIA. HIPÓTESES DE CABIMENTO. OFENSA INDIRETA. MATÉRIA INFRACONSTITUCIONAL. Acórdão fundado em normas processuais de admissibilidade da ação rescisória. Hipótese em que se houvesse afronta a preceitos da Constituição do Brasil, seria de forma indireta, pois a matéria cinge-se ao âmbito infraconstitucional. Inviabilidade de admissão do recurso extraordinário. Agravo regimental a que se nega provimento.” (AI 439.863-AgR, rel. min. Eros Grau, Primeira Turma, DJ de 26.11.2004.)
+“1. Inviável o processamento do extraordinário para debater questão processual, relativa a pressuposto de cabimento de ação rescisória. 2. Agravo regimental improvido.” (AI 366.571-AgR, rel. min. Ellen Gracie, Segunda Turma, DJ de 28.10.2004.)
+A análise do tema demandaria prévio exame da legislação infraconstitucional. Por essa razão, a ofensa ao texto da Constituição de 1988, se existisse, seria indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido, em casos análogos: AI 590.032 (rel. min. Sepúlveda Pertence, DJ de 09.05.2006) e AI 554.744 (rel. min. Cármen Lúcia, DJe de 30.04.2009).
+Por fim, quanto à questão de fundo decidida pelo acórdão recorrido, observo que ela está em consonância com a jurisprudência do Supremo Tribunal Federal.
+O Plenário desta Corte, no julgamento do RE 313.382 (rel. min. Maurício Corrêa, RTJ 183/1154), declarou a constitucionalidade da expressão "nominal" constante do inciso I do art. 20 da Lei 8.880/1994, sustentando que não havia direito adquirido à conversão do benefício para URV em março de 1994 com a inclusão dos reajustes integrais nas parcelas consideradas para o cálculo da média aritmética (novembro e dezembro de 1993 e janeiro e fevereiro de 1994), porquanto a Lei 8.700/1993, vigente à época, previa o reajustamento dos benefícios somente ao final de cada quadrimestre.
+Assentou, ainda, que o Instituto Nacional do Seguro Social–INSS, para proceder à correção do benefício, observara as regras estabelecidas na legislação então vigente, tendo atuado em conformidade, portanto, com o critério estabelecido no art. 201, § 4º, da Constituição federal.
+Dessa orientação não divergiu o acórdão recorrido.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
