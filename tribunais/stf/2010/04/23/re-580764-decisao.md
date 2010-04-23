@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que norma local assegurou, ao contribuinte, o direito à restituição da diferença de ICMS pago antecipadamente no regime de substituição tributária, quando for apurada disparidade entre a base de cálculo presumida e a base de cálculo real.
+Nesse mesmo acórdão, concluiu-se, ademais, que, ao conferir esse direito, a norma local não poderia limitar a possibilidade de transferência desse crédito a terceiro. Por fim, determinou-se, ainda, a incidência de correção monetária dos créditos reconhecidos nos autos.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, a constitucionalidade de norma local que limitou a transferência a terceiros dos créditos provenientes da restituição da diferença de ICMS pago a mais no regime de substituição tributária. Sustentou-se, também, que não incide correção monetária no caso em questão.
+A pretensão recursal não merece acolhida.
+Quanto à limitação da transferência para terceiros, observo que o acórdão recorrido decidiu a questão com base na interpretação de norma infraconstitucional local, de sorte que, para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar essas normas, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF.
+Além disso, o feito traz controvérsia específica quanto ao direito à correção monetária, qual seja, nos casos em que se reconhece ilegítima a resistência do Estado em possibilitar o aproveitamento dos créditos.
+Nessas hipóteses - que diferem da mera pretensão de se corrigir monetariamente os créditos escriturais do ICMS, consideradas as datas de recolhimento e de compensação do tributo - , o STF determina que o crédito seja atualizado monetariamente, relativamente ao período em que se reconhece como indevida a oposição do Fisco, conforme se pode observar, por exemplo, do julgamento do RE 282.120/PR, Rel. Min. Maurício Corrêa, cuja ementa transcrevo a seguir:
+“RECURSO EXTRAORDINÁRIO. PREQUESTIONAMENTO. EXPORTAÇÃO. PRODUTOS INDUSTRIALIZADOS. ICMS. MATÉRIA-PRIMA E OUTROS INSUMOS. COMPENSAÇÃO. AUTORIZAÇÃO LEGAL. SUSPENSÃO LIMINAR. CRÉDITO IMPOSSIBILITADO. CONSTITUCIONALIDADE RECONHECIDA POSTERIORMENTE. RETORNO DA SITUAÇÃO AO STATUS QUO ANTE. CORREÇÃO MONETÁRIA. CABIMENTO.
+1.  Prequestionamento. Ausente o interesse de recorrer, por falta de sucumbência, basta para o atendimento do requisito que a tese jurídica suscitada como causa de pedir tenha sido objeto das contra-razões apresentadas pela parte por ocasião dos recursos de apelação e extraordinário, e também tratada nos embargos de declaração.
+2.  ICMS. Compensação autorizada pelo artigo 3º da Lei Complementar federal 65/91. Regra legal suspensa liminarmente. Julgamento de mérito superveniente que reconheceu a constitucionalidade do dispositivo (ADI 600, DJ 30/06/95). Efeitos ex-tunc da decisão.
+3.  Créditos escriturais não realizados no momento adequado por óbice do Fisco, em observância à suspensão cautelar da norma autorizadora. Retorno da situação ao status quo anterior. Garantia de eficácia da lei desde sua edição. Correção monetária devida, sob pena de enriquecimento sem causa da Fazenda Pública.
+4.  Atualização monetária que não advém da permissão legal de compensação, mas do impedimento causado pelo Estado para o lançamento na época própria. Hipótese diversa da mera pretensão de corrigir-se, sem previsão legal, créditos escriturais do ICMS. Acórdão mantido por fundamentos diversos.
+Recurso extraordinário não conhecido”.
+Nessa mesma esteira de pensamento, anoto, ainda, os seguintes precedentes: RE 200.379-ED-ED-EDv/SP, Rel. Min. Sepúlveda Pertence; RE 301.753-AgR/PR, Rel. Min. Ellen Gracie; AI 619.664-AgR/RS, Rel. Min. Marco Aurélio; AI 783.603/PR, Rel. Min. Eros Grau; RE 572.395-AgR/PR, de minha relatoria.
+Isso posto, nego seguimento ao recurso (CPC, 557, caput).
+Publique-se.
+Brasília, 23 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
