@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto pelo Ministério Público, que tem por violado os arts. 1º, II e IV; 5º, XXXVI e XLVI; e 6º da Carta Magna.
+A parte recorrente visa à impugnação da decisão que considerou inconstitucional a perda dos dias remidos, em virtude do cometimento de falta grave pelo sentenciado.
+O Superior Tribunal de Justiça negou seguimento ao Recurso Especial 836.229-RS (fls. 149-151).
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito dos arts. 1º, II e IV, e 6º, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Por outro lado, é pacífico o entendimento desta Corte no tocante à constitucionalidade do art. 127 da Lei de Execução Penal, cuja norma impõe ao sentenciado a perda do direito à remição dos dias trabalhados em razão do cometimento de falta grave durante o cumprimento da pena, sem que isso implique a violação ao direito adquirido. Nesse sentido:
+“Agravo regimental em agravo de instrumento. 2. Matéria Criminal. 3. Cometimento de falta grave pelo preso. Perda dos dias remidos. Possibilidade. 4. Violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada. Inocorrência. Precedentes. 5. Violação aos princípios constitucionais da isonomia, da individualização da pena e da dignidade da pessoa humana. Inocorrência. Precedente. 6. Agravo regimental a que se nega provimento.” (AI-AgR 563.636, rel. min. Gilmar Mendes, DJ de 25.05.2007)
+“Execução penal: o condenado que cometer falta grave perde o direito ao tempo remido: L. 7.210/84, art. 127 - constitucionalidade. É manifesto que, havendo dispositivo legal que prevê a perda dos dias remidos se ocorrer falta grave, não a ofende a aplicação desse dispositivo preexistente à própria sentença. Por isso mesmo, não há direito adquirido, porque se trata de expectativa resolúvel, contra a lei, pela incidência posterior do condenado em falta grave” (RE 452.994/RS, Tribunal Pleno, rel. min. Marco Aurélio, DJ de 29.09.2006)
+Do exposto, com base no art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário para determinar a perda dos dias remidos em razão do cometimento de falta grave pelo recorrido.
+Publique-se.
+Brasília, 23 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
