@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição federal) de acórdão em embargos de declaração em recurso de revista.
+O agravo não deve prosperar.
+O exame dos autos revela que a parte agravante interpôs, da mesma decisão, dois recursos: o recurso de embargos (art. 894 da CLT) e o recurso extraordinário.
+Ora, constata-se que no momento da interposição do recurso extraordinário, era cabível o recurso de embargos. Ou seja, a decisão não era de última instância (art. 102, III, da Constituição). Incide, portanto, a Súmula 281 desta Corte.
+Por outro lado, o nosso sistema processual adota, em linhas gerais, o princípio da unirrecorribilidade, ou singularidade recursal. Noutros termos, isso implica dizer que, por via de regra, a parte dispõe de apenas um tipo de recurso para impugnar uma dada decisão jurisdicional. Cabe à lei excepcionar o princípio, como ocorre, por exemplo, na hipótese prevista no art. 541 do Código de Processo Civil. A exceção, entretanto, não alcança o presente caso, em que se evidencia a ocorrência de preclusão consumativa.
+Esse entendimento encontra respaldo na jurisprudência da Corte, cuja orientação se tem firmado pelo não-conhecimento do segundo recurso interposto, conforme se pode constatar dos seguintes julgados:
+“EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PRINCÍPIO DA UNICIDADE DOS RECURSOS. INTERPOSIÇÃO SIMULTÂNEA DE EMBARGOS DE DIVERGÊNCIA E DE RECURSO EXTRAORDINÁRIO. IMPOSSIBILIDADE.
+1. Interposição simultânea de mais de um recurso contra sentença ou acórdão. Não-cabimento. Princípio da unirrecorribilidade expressamente previsto no Código de Processo Civil de 1939 e implicitamente acolhido pela legislação processual vigente, em razão da sistemática por ela inaugurada e da cogente observância à regra da adequação dos recursos.
+2. Embargos de divergência e recurso extraordinário. Interposição simultânea. Impossibilidade. Enquanto não apreciados os embargos opostos pela parte interessada, não se pode afirmar tenha o juízo a quo esgotado a prestação jurisdicional, nem que se cuida de decisão de única ou última instância, pressuposto constitucional de cabimento do extraordinário.
+3. Distinção entre o caso sub examine e a hipótese de simultaneidade de embargos infringentes e recurso especial e/ou extraordinário que, quer se entenda ou não como exceção legal à regra da unicidade, não mais subsiste em face da superveniência da Lei 10352/01 [...]” (RE 355.497–AgR, rel. min. Maurício Corrêa, DJ de 25.04.2003 - Grifei)
+“E M E N T A: RECURSO DE AGRAVO - CUMULATIVA INTERPOSIÇÃO DE DOIS (2) RECURSOS CONTRA A MESMA DECISÃO, FORA DAS HIPÓTESES LEGAIS - INADMISSIBILIDADE - OFENSA AO POSTULADO DA SINGULARIDADE DOS RECURSOS - NÃO-CONHECIMENTO DO SEGUNDO RECURSO - EXAME DO PRIMEIRO RECURSO - TRASLADO INCOMPLETO - DESCUMPRIMENTO DE OBRIGAÇÃO PROCESSUAL - RECURSO IMPROVIDO.
+- O princípio da unirrecorribilidade, ressalvadas as hipóteses legais, impede a cumulativa interposição, contra o mesmo ato decisório, de mais de um recurso. O desrespeito ao postulado da singularidade dos recursos torna insuscetível de conhecimento o segundo recurso, quando interposto contra a mesma decisão. Doutrina.
+- Sem que a parte agravante promova a integral formação do instrumento, com a apresentação de todas as peças que dele devem constar obrigatoriamente, torna-se inviável conhecer do recurso de agravo. Precedentes.” (AI 488.979–AgR, rel. min. Celso de Mello, DJ de 25.06.2004 – Grifos originais)
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 23 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
