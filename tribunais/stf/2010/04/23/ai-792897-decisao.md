@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão do Superior Tribunal de Justiça que negou seguimento a recurso extraordinário em oposição a acórdão por ele proferido, no qual se fixou o entendimento de que os juros moratórios devem ser mantidos no percentual de 12% ao ano nas ações ajuizadas antes da edição da MP n. 2.180/01.
+2. Alega-se, no extraordinário, ofensa ao disposto nos artigos 5º, XXXV, LIV e LV, 37 e 97 da Constituição do Brasil.
+3. Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+4. O agravo não merece provimento. A discussão a respeito da taxa de juros a ser aplicada ao caso, antes da edição da MP n. 2.180/01, depende da análise da legislação infraconstitucional que disciplina a espécie. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido: o RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; o AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; o AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+5. Além disso, a jurisprudência deste Tribunal fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 541.361-AgR, de que fui relator, 1ª Turma, DJ de 3.2.06, e AI n. 238.917-AgR, Relator o Ministro Celso de Mello, 2ª Turma, DJ de 20.10.00, entre outros julgados].
+Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 23 de abril de 2010.
+Ministro Eros Grau
+- Relator -
