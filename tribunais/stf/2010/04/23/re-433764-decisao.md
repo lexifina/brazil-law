@@ -1,0 +1,41 @@
+DECISÃO
+Vistos.
+O ESTADO DO PIAUÍ interpõe recurso extraordinário (folhas 127 a 137) contra acórdão proferido pela Segunda Câmara Especializada Cível do Tribunal de Justiça daquele Estado, assim ementado:
+“Remessa de ofício. Averbação do tempo de serviço prestado na iniciativa privada. Ação declaratória. Admissibilidade pelo Decreto Estadual nº 9.577, de 18.09.1996. Confirmada decisão monocrática.
+Decisão unânime, pelo conhecimento e improvimento do recurso, contrariamente ao parecer ministerial” (fl. 109).
+Interpostos embargos de declaração (folhas 101 a 106) foram rejeitados (folhas 109 a 111)
+Insurge-se, no apelo extremo, fundado nas alíneas “a” e “c”, do permissivo constitucional, contra alegada contrariedade aos artigos 202, § 2º, 40, § 9º e 57, § 4º, da Constituição Federal, além das normas da Emenda Constitucional nº 20/98, em razão de ter sido reconhecido o direito do recorrido, agora servidor público, de ver averbado o tempo de serviço que teria prestado junto à iniciativa privada.
+Depois de apresentadas contrarrazões (folhas 151 a 157), o recurso não foi admitido na origem (folhas 164 a 166), o que ensejou a interposição de agravo de instrumento, ao que o eminente Ministro Sepúlveda Pertence deu provimento (folha 194), determinando sua conversão em recurso extraordinário.
+Por fim, o parecer da douta Procuradoria-Geral da República é pelo desprovimento do recurso (folhas 199 a 200).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 15/5/01, conforme expresso na certidão de folha 112, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação, contudo, não merece prosperar.
+E isso porque a análise acerca da alegada violação dos princípios constitucionais objetos do presente recurso demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como de normas infraconstitucionais utilizadas na fundamentação da decisão recorrida, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõe a Súmula 279 do STF.
+De fato, assim restou fundamentada a decisão atacada quanto ao acolhimento da pretensão deduzida pelo recorrido:
+“Note-se, bem, que o advento da Emenda Constitucional nº 20/98, que alterou e adicionou novos parágrafos ao art. 40, da nossa Constituição Federal, por si só, não afastam o direito do Autor/recorrido, primeiro pela irretroatividade do citado preceito constitucional, fruto do poder constituinte derivado, e, dois, pelo fato que o Decreto Estadual nº 9.577, de 18.09.1996, expressamente admiti a averbação desejada pelo autor, sobretudo, em se tratando da inexistência de documentos comprobatórios da prestação de serviço na atividade privada, como assim dispõe:
+‘Art. 1º - As averbações de tempo de serviço prestado na administração pública e na atividade privada rural e urbana, só serão efetuadas mediante apresentação da seguinte documentação comprobatória:
+(...)
+III – Justificação Judicial, seguida de sentença em Ação Declaratória de Direito, nos casos em que inexiste documentação comprobatória do vínculo formal de emprego.’
+Ora, mister destacar ainda que ao Poder Judiciário não caberia refutar a presente declaratória, nos termos do art. 4º, do CPC, simplesmente por ser meio idôneo de se comprovar fato não provado documentalmente e, diga-se, sequer refutado pelo Estado do Piauí, que na contestação de fls. 50/53, dos autos, apega-se a inexistência da prova material, ex vi do art. 55, par. 3º, da Lei 8.213/91” (fls. 96/97).
+No sentido dessa conclusão, citem-se os seguintes precedentes:
+“Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Falta de prequestionamento de dispositivos constitucionais. Matéria que não foi abordada nas razões de apelação ou mesmo em embargos declaratórios. Agravo regimental a que se nega provimento” (AI nº 491.543/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 29/6/07).
+“O acórdão recorrido decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa. 2. Decidir de maneira diferente do que deliberado pelo tribunal a quo demandaria o reexame de fatos e provas da causa, ante a incidência da Súmula STF 279. 3. Agravo regimental improvido” (RE nº 544.373/ES-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 7/8/09).
+Como se não bastasse, é pacífica a jurisprudência deste Supremo Tribunal Federal no sentido de mostrar-se possível a contagem, por parte de servidor público, de tempo de serviço prestado junto à iniciativa privada, para todos os fins.
+Citem-se, nesse sentido, os seguintes precedentes:
+“Servidor público estadual: aposentadoria: cômputo do tempo anterior de contribuições ao sistema geral de previdência social correspondente ao desempenho de atividades privadas (CF, art. 202, § 2º): inconstitucionalidade de seu condicionamento, por força de normas jurídicas locais, a um número mínimo de contribuições ao sistema previdenciário estadual.
+1. Só a lei federal poderá dispor, com fundamento no art. 202, § 2º, da Constituição, sobre os critérios de compensação financeira entre os sistemas de previdência social, em cada hipótese de aposentadoria mediante contagem recíproca de tempo de contribuições.
+2. De qualquer modo, a previsão constitucional de um mecanismo legal inter-previdenciário de compensação financeira entre os sistemas elide qualquer razão de ser da exigência de um mínimo de contribuições do servidor ao sistema que lhe deva pagar a inatividade: o custeio da aposentadoria há de provir da compensação devida, independentemente do número de contribuições pagas a entidade que a deva conceder e satisfazer.
+3. Inconstitucionalidade parcial do art. 132 da Constituição do Estado de São Paulo; revogação, por incompatibilidade com a Constituição Federal superveniente, do art. 1º da LC 269/81, do mesmo Estado” (RE nº 162.620, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 5/11/93).
+“RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. APOSENTADORIA. CONTAGEM RECÍPROCA DO TEMPO DE CONTRIBUIÇÃO PRESTADO À INICIATIVA PRIVADA. LEI N. 744/92, ARTIGO 119, DO MUNICÍPIO DE NOVA BASSANO, ESTADO DO RIO GRANDE DO SUL. CONDIÇÕES PARA O EXERCÍCIO DO DIREITO. INCONSTITUCIONALIDADE.
+1. Contagem recíproca do tempo de contribuição na administração pública e na atividade privada, rural ou urbana. Garantia constitucional que prescinde de integralização legislativa.
+2. Compensação financeira entre os diferentes sistemas previdenciários. Necessidade de lei federal para disciplinar a matéria, fato que não obsta a contagem do tempo de contribuição prestado na atividade privada pela Administração Pública, para fins de aposentadoria.
+3. Condicionamento à concessão de aposentadoria a um número mínimo de contribuições ao sistema previdenciário estadual. Inconstitucionalidade. Recurso extraordinário conhecido e provido” (RE nº 220.821, Tribunal Pleno, Relator o Ministro Maurício Corrêa, DJ de 19/5/2000).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. APOSENTADORIA. ART. 202, § 2º, DA CB/88. RESTRIÇÕES.
+1. As restrições à contagem recíproca do tempo de serviço afrontam o disposto no art. 202, § 2º [redação anterior à EC 20/99]. Precedentes.
+2. Agravo regimental a que se nega provimento” (RE nº  274.344-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 7/12/06).
+Anoto, em arremate que, muito embora a peça de interposição deste apelo extremo faça menção à letra “c” do permissivo constitucional, nenhuma referência é feita, ao longo daquela petição, acerca da existência de tal requisito, a justificar a reforma do acórdão recorrido, fato a tornar despiciendas ulteriores considerações sobre o tema.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de abril de 2010.
+Ministro DIAS TOFFOLI
+Relator
