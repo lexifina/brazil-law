@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1027, de 22 de abril de 2010
+Altera a Instrução Normativa RFB nº 971, de 13 de novembro de 2009, que dispõe sobre normas gerais de tributação previdenciária e de arrecadação das contribuições sociais destinadas à Previdência Social e das destinadas a outras entidades ou fundos, administradas pela Secretaria da Receita Federal do Brasil (RFB).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto na Lei nº 11.457, de 16 de março de 2007, resolve:
