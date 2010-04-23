@@ -1,0 +1,8 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição Federal) que tem como violados os arts. 5º, II, e 7º, I, da Constituição federal e o art. 8º, § 5º, do ADCT. Cito a ementa do acórdão recorrido (fls. 1.677):
+“RECURSO ORDINÁRIO. AÇÃO RESCISÓRIA. ANISTIA. LEI Nº 8.878/94. EFEITOS FINANCEIROS. ENUNCIADO Nº 83/TST. Proferida a decisão rescindenda em 2000, resulta inviável a rescisão do julgado por ofensa legal, ante o óbice do Enunciado nº 83/TST e da Súmula nº 343 do STF. Isso porque à época havia controvérsia sobre os efeitos financeiros da anistia de que trata a Lei nº 8.878/94. Embora esta Corte tenha firmado entendimento favorável à tese da autora da rescisória, de que os efeitos financeiros da anistia concedida com base na referida lei são devidos a partir do efetivo retorno do anistiado à atividade, somente a partir de 20/6/2001 foi inserido o tema em pauta na Orientação Jurisprudencial nº 221 da SBDI-1, pacificando esta tese. Nessa hipótese, a Corte vem entendendo aplicável o Enunciado nº 83/TST em razão da orientação sintetizada na OJ 77 da SBDI-2. Recurso ordinário a que se nega provimento. (...)”
+Os fundamentos trazidos à colação pelo recurso extraordinário não são suficientes para desconstituir a decisão recorrida, porque esta partiu da premissa de não-cabimento da ação rescisória por incidirem as Súmulas 83/TST e 343/STF, enquanto o recurso extraordinário trata da matéria de fundo (efeitos financeiros da anistia da Lei 8.878/1994).
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
