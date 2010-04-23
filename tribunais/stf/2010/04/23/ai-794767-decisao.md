@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Superior Tribunal de Justiça, cuja ementa é do seguinte teor:
+“EMENTA: EXECUÇÃO FISCAL. PENHORA SOBRE DEPÓSITOS BANCÁRIOS E APLICAÇÕES FINANCEIRAS. SISTEMA BACEN-JUD. ARTIGO 655, INCISO I, DO CPC (REDAÇÃO DA LEI Nº 11.382/2006). DECISÃO PROLATADA NO ATUAL REGIME. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE.
+I - Na época em que indeferida pelo julgador singular a medida constritiva de penhora on line das contas bancárias da agravante, já estava em vigor a Lei nº 11.382/2006 que, alterando o artigo 655, inciso I, do CPC, incluiu os depósitos e aplicações em instituições financeiras como bens preferenciais na ordem de penhora, equiparado-os a dinheiro em espécie. Nesse panorama, perfeitamente aplicável o novel artigo 655 do CPC.
+II - Assim, objetivando cumprir a Lei de Execuções Fiscais e o Código de Processo Civil, é válida a utilização do sistema BACEN JUD para a localização do bem (dinheiro) em instituição financeira. Precedentes: REsp nº 1.056.246/RS, Rel. Min. HUMBERTO MARTINS, DJe de 23/06/08 e REsp nº 1.009.363/BA, Rel. Min. FRANCISCO FALCÃO, DJ de 16/04/08.
+III - A análise de suposta violação a dispositivos constitucionais é de competência exclusiva do Pretório Excelso, conforme prevê o artigo 102, inciso III, da Carta Magna, pela via do recurso extraordinário, sendo defeso a esta colenda Corte fazê-lo, ainda que para fins de prequestionamento.
+IV - Agravo regimental improvido.” (Fls. 39)
+Nas razões do extraordinário, a ora agravante alega violação aos arts. 1º, III; 5º, X e XII; e 94, IX, da Constituição.
+O recurso não merece prosperar.
+O acórdão impugnado foi publicado em 27.04.2009 e a Defensoria Pública da União intimada em 28.04.2009. Em seguida, deu-se a interposição de embargos de divergência, os quais não foram admitidos por acórdão publicado em 18.09.2009, tendo sido a Defensoria intimada em 22.09.2009 (fls. 107). Desse acórdão foram opostos embargos de declaração, que foram rejeitados (intimação da DPU em 10.11.2009 – fls. 121). Seguiu-se a interposição do recurso extraordinário, em 10.12.2009.
+A jurisprudência de ambas as Turmas desta Corte é firme no sentido de que recurso incabível não suspende o prazo para a interposição do recurso extraordinário (cf. RE 272.131, rel. min. Moreira Alves, DJ 10.11.2000, e AI 244.609-AgR, rel. min. Maurício Corrêa, DJ 10.12.1999).
+Assim, é de se entender por intempestivo o recurso extraordinário, porquanto inadmissível a interposição de embargos de divergência fora das hipóteses previstas legalmente (CPC, art. 496, VII). Em outras palavras, a suspensão do prazo para o oferecimento do recurso extraordinário não se operou dada a manifesta inadmissibilidade dos embargos de divergência.
+Por outro lado, o recurso não merece ser conhecido também porque ataca decisão que já houvera sido impugnada pelos embargos de divergência.
+Ora, nosso sistema processual adota, em linhas gerais, o princípio da unirrecorribilidade ou singularidade recursal. Noutros termos, isso implica dizer que, por via de regra, a parte dispõe de apenas um tipo de recurso para impugnar uma dada decisão jurisdicional. Cabe à lei excepcionar o princípio, como ocorre, por exemplo, na hipótese prevista no art. 541 do Código de Processo Civil. A exceção, entretanto, não alcança o presente caso, em que se evidencia a ocorrência de preclusão consumativa.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 23 de abril de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
