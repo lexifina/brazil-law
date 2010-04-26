@@ -1,0 +1,28 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao agravo de instrumento.
+Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que deferiu o pedido de antecipação de tutela.
+No RE, fundando no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 150, § 7º e 155, § 2º, XII, b, da mesma Carta.
+O agravo não merece acolhida.
+É que, as decisões que concedem ou denegam medidas cautelares ou provimentos liminares não perfazem juízo definitivo de constitucionalidade a ensejar o cabimento do recurso extraordinário pelo art. 102, III, a, da Constituição. Aplicam-se ao caso as razões que deram ensejo à Súmula 735 do STF.
+Nesse sentido, transcrevo a ementa do AI 597.618-AgR/SP, Rel. Min. Celso de Mello:
+‘AGRAVO DE INSTRUMENTO - ACÓRDÃO QUE CONFIRMA DEFERIMENTO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA - ATO DECISÓRIO QUE NÃO SE REVESTE DE DEFINITIVIDADE - MERA ANÁLISE DOS PRESSUPOSTOS DO ‘FUMUS BONI JURIS’ E DO ‘PERICULUM IN MORA’ - INVIABILIDADE DO APELO EXTREMO - RECURSO DE AGRAVO IMPROVIDO. - Não cabe recurso extraordinário contra decisões que concedem ou que denegam a antecipação dos efeitos da tutela jurisdicional ou provimentos liminares, pelo fato de que tais atos decisórios - precisamente porque fundados em mera verificação não conclusiva da ocorrência do ‘periculum in mora’ e da relevância jurídica da pretensão deduzida pela parte interessada - não veiculam qualquer juízo definitivo de constitucionalidade, deixando de ajustar-se, em conseqüência, às hipóteses consubstanciadas no art. 102, III, da Constituição da República. Precedentes’.
+No mesmo sentido: RE 570.610-AgR/DF e AI 694.440-AgR/RJ, Rel. Min. Joaquim Barbosa; AI 619.438-AgR/SP, Rel. Min. Ellen Gracie; AI 652.802-AgR/CE, Rel. Min. Cármen Lúcia; RE 550.865-AgR/SP, Rel. Min. Cezar Peluso.
+Isso posto, nego seguimento ao recurso” (fls. 287-288).
+O agravante sustentou, em suma, que a decisão agravada deve ser reformada. Alegou que
+“(...) A análise de cobrança do ICMS pelo sistema arrecadatório da substituição tributária, previsto no art. 150, § 7º da Constituição Federal, deve ser feita, desde logo, mesmo que tenha sido proveniente de decisão antecipatória de tutela jurisdicional.
+(...)
+Ora, seja na Constituição Federal ou na lei complementar nº 87/96, não pairam dúvidas de que é inteiramente legítima a cobrança do ICMS pelo regime da substituição tributária, eis que já decidiu o Supremo Tribunal Federal que a emenda que inseriu esta sistemática de arrecadação do ICMS é perfeitamente constitucional” (fl. 293).
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que o recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas.
+É que como afirmado na decisão agravada, não cabe recurso extraordinário contra acórdão que decide sobre provimento liminar, quando não se trate de decisão definitiva. Aplicam-se ao caso as razões que deram ensejo à Súmula 735 do STF. Nesse sentido, cito o AI 619.438-AgR/SP, Rel. Min. Ellen Gracie, cuja ementa segue transcrita:
+“Nos termos da Súmula STF nº 735, não cabe o apelo extremo contra decisão que concede ou indefere provimentos liminares. 2. Agravo regimental improvido”.
+Cito, ainda, entre outras: RE 559.691-AgR/SC, Rel. Min. Cármen Lúcia; AI 552.178-AgR/MG, Rel. Min. Cezar Peluso; AI 631.411-AgR/RJ, Rel. Min. Eros Grau.
+Por fim, observe-se que este Tribunal tem reconhecido a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal, a exemplo do MS 27.506/DF, Rel. Min. Celso de Mello:
+" A   legitimidade   jurídica desse entendimento - que vem sendo observado na prática processual desta Suprema Corte ( MS   27.649 , Rel. Min. CEZAR PELUSO - MS   27.962 , Rel. Min. CELSO DE MELLO, v.g. ) - decorre da circunstância de o Relator da causa, no   desempenho de seus poderes processuais, dispor de plena competência para exercer, monocraticamente , o controle das ações , pedidos ou recursos dirigidos ao Supremo Tribunal Federal, justificando-se , em consequência, os atos decisórios que, nessa condição, venha a praticar ( RTJ 139/53 - RTJ 168/174-175 - RTJ 173/948), valendo   assinalar , quanto ao aspecto ora ressaltado, que   o   Plenário deste Tribunal, em recentíssima decisão (25/03/2010) reafirmou a possibilidade processual do   julgamento   monocrático do próprio mérito da ação de mandado de segurança, desde   que   observados os requisitos estabelecidos no   art . 205 do RISTF, na   redação dada pela Emenda Regimental nº 28/2009” (grifos no original).
+Na mesma linha, o MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão, e o MS 27.236-AgR/DF, de minha relatoria.
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifos meus).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 26 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
