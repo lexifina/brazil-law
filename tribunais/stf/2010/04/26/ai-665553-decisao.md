@@ -1,0 +1,23 @@
+DECISÃO
+Vistos.
+A União interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 2º, 5º, caput, incisos XXXV, XXXVI, LIV e LV e § 2º, 37, caput e § 6º, 100, 165, inciso III, 167, inciso II, 195, § 10º, 197, 198 e 199, § 1º, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Terceira Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“ADMINISTRATIVO. SUS. FATOR DE CONVERSÃO. URV. PRESCRIÇÃO.
+Nos termos da súmula nº 85, do STJ, em se tratando de prestações de trato sucessivo, como é o caso dos autos, a prescrição atinge apenas as prestações devidas há mais de cinco anos anteriormente à propositura da ação, mas não o direito em si.
+A questão de ser ilegal o fator de conversão utilizado pela União Federal para o pagamento dos procedimentos realizados pelo SUS, bem como sua limitação temporal, está pacificada no Superior Tribunal de Justiça, não comportando mais controvérsia a respeito no sentido de caber o reajustamento dos valores dos procedimentos médicos em 9,56%.
+O pagamento do reajuste deve ficar limitado à data da publicação da Portaria GM/Ms nº 1.230, de 14/10/1999, quando houve a reformulação da tabela, com reavaliação dos valores dos serviços médicos, não havendo mais falar em prejuízo” (fl. 38).
+Opostos embargos de declaração, foram rejeitados (fls. 41 a 45).
+Decido.
+Anote-se, inicialmente, que a recorrente foi intimada dos embargos de declaração em 5/5/06, como expresso na certidão de folha 46, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação.
+A jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Por outro lado, a jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+Demais disso, o Tribunal de origem decidiu a controvérsia sobre a conversão da tabela do Sistema Único de Saúde com base na legislação infraconstitucional pertinente e no conjunto fático-probatório dos autos. Nesse caso, para dissentir do acórdão atacado seria necessário o reexame das referidas normas infraconstitucionais e das provas dos autos, além da interpretação de cláusulas contratuais, o que é incabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 454 desta Corte. Nesse sentido, as seguintes decisões monocráticas: AI nº 719.761/PR, Relator o Ministro Ricardo Lewandowski, DJ de 24/11/08; RE nº 589.642/PR, Relator o Ministro Cezar Peluso, DJ de 12/8/08; AI nº 654.393/SC, Relatora a Ministra Cármen Lúcia, DJ de 5/8/08; AI nº 695.168/SC, Relator o Ministro Eros Grau, DJ de 25/3/08; e RE nº 437.743/PR, Relator o Ministro Carlos Britto, DJ de 22/3/06.
+Anote-se, por fim, que o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do RE nº 602.324/SC, Relatora a Ministra Ellen Gracie, concluiu pela ausência da repercussão geral da matéria constitucional versada nesse feito. A decisão do Pleno está assim ementada:
+“TABELAS DE SERVIÇOS PRESTADOS PELO SISTEMA ÚNICO DE SAÚDE – SUS. PLANO REAL. CORREÇÃO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPECRUSSÃO GERAL” (DJe de 18/12/09).
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 26 de abril de 2010.
+Ministro DIAS TOFFOLI
+Relator
