@@ -1,0 +1,12 @@
+1.  Trata-se de recurso extraordinário interposto pelo Instituto Nacional do Seguro Social - INSS contra acórdão do Tribunal Superior do Trabalho que negou seguimento a recurso ordinário por entender aplicável a Súmula STF 343 (fls. 89-95).
+2.  O recorrente alega violação ao art. 5º, XXXV da Constituição Federal, sustentando, em síntese, não ser caso de aplicação da jurisprudência acima referida, pois, ao contrário do decidido no acórdão atacado, teria citado explicitamente na petição inicial o dispositivo constitucional violado (fls.111-129).
+3.  Inadmitido o recurso na origem (fls. 133-134), subiram os autos em virtude do provimento do AI 472.622/AM (fl. 146).
+4.  O Ministério Público Federal opina pelo não-provimento do recurso (fls. 151-152).
+5.  Preliminarmente, verifico que o dispositivo citado como violado (art. 5º, XXXV - negativa de prestação jurisdicional), não foi objeto de análise pelo Tribunal a quo, tampouco foi atacado pelos embargos de declaração opostos, faltando-lhe o necessário prequestionamento (Súmulas/STF 282 e 356).
+ Apenas a título de esclarecimento, informo que o recorrente, nas instâncias ordinárias, fundamentou seus pedidos no art. 5º, XXXVI (direito adquirido), este sim prequestionado, no entanto, ao fundamentar seu recurso extraordinário, o fez com relação ao art. 5º, XXXV (negativa de prestação jurisdicional), o que denota a falta de prequestionamento do dispositivo apontado como violado.
+6.  Ademais, quanto à alegação de ofensa ao art. 5º, XXXV, da Constituição Federal, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+7.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 26 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
