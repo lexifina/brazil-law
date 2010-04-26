@@ -1,0 +1,22 @@
+DECISÃO
+Vistos.
+Município de Pirangi interpõe recurso extraordinário, com fundamento na alínea "a" do permissivo constitucional, contra acórdão da Primeira Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim, ementado:
+“CÂMARA MUNICIPAL. Nulidade da Resolução no. 02/92, que fixou a remuneração dos vereadores em 1% do menor salário pago pelo Poder Executivo Municipal, equivalente a um dólar americano. Ofensa ao princípio da justa remuneração. Nulidade declarada. Admissibilidade. Recursos improvidos” (fl. 221)
+Alega o recorrente contrariedade ao artigo 29, inciso V ,   da Constituição Federal.
+Contra-arrazoado (fls. 273 a 275), o recurso extraordinário (fls. 247 a 250) foi admitido (fls. 286 a 294).
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Dr. Eitel Santiago de Brito Pereira, recomenda que se negue seguimento ao recurso.
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 6/11/2000, conforme expresso na certidão de folha 225verso, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Com efeito, o acórdão recorrido decidiu pela nulidade da Resolução Legislativa nº 2/92, a qual fixou a remuneração dos vereadores para a legislatura subseqüente no equivalente a um por cento do menor salário pago pelo Poder Executivo Municipal, sob o fundamento de violação ao princípio da justa remuneração: “uma remuneração incompatível com a honrosa missão de servir à comunidade como Vereador é ilícita e imoral, devendo a resolução ser afastada do ordenamento jurídico” (fl. 223).
+Esse fundamento não foi enfrentado de forma convincente no apelo extremo, o qual se limitou a sustentar de forma genérica, no tocante à referida resolução, que “o procedimento não está eivado de qualquer vício ou ilegalidade, remanescendo válido e regular” (fl. 249), ressaltando a impertinência da ação declaratória manejada pelos autores. Incide na espécie a orientação da Súmula nº 283 desta Corte, que assim dispõe, in verbis: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+Por outro lado, conforme examinado, o recorrente defende a tese de que “os recorridos poderiam pleitear em juízo a nulidade da Resolução nº 02/92, através de ajuizamento de ação própria e não a acolhida Ação Declaratória, caso o ato administrativo estivesse eivado dos vícios da ilegalidade e da inconstitucionalidade, remanescendo o procedimento inválido e irregular, configurando na espécie ofensa ao artigo 29, inciso V, da Constituição Federal” (fl. 249). Verificou-se, exaustivamente, que as razões recursais, além de se voltarem contra matéria diversa da apreciada no aresto impugnado, apresentam-se ininteligíveis, o que faz incidir, também, o óbice da Súmula nº 284 do STF.
+Ademais, ressalte-se a adequação do parecer do Ministério Público Federal ao caso em apreço, cuja fundamentação transcrevo:
+“7. Inicialmente, a recorrente não demonstrou, de forma clara e objetiva, como o acórdão contrariou o dispositivo constitucional invocado. E, como cediço, ‘é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia’.
+8. Além disso, para verificar a inadequação da ação aos fins pretendidos, o Supremo Tribunal Federal precisaria verificar se o acórdão negou vigência às normas processuais aplicáveis. Assim, a ofensa à Carta Magna, se houvesse, seria reflexa e não autorizaria o trânsito do extraordinário” (fl. 303).
+Por fim, corroborando os motivos acima transcritos, anote-se também que o próprio acórdão recorrido consignou a dificuldade de compreensão da confusa exposição da fundamentação das razões do recurso de apelação do Município: “Dessa balbúrdia, sem vírgulas, com citação de artigos a esmo, sem menção aos códigos aos quais se referem (...). É essa a única lição que se aproveita desse exdrúxulo recurso” (sic) (fl. 223).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 26 de abril de 2010.
+Ministro DIAS TOFFOLI
+Relator
