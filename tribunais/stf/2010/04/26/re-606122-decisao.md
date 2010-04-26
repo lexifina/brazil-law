@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto pelo Instituto Nacional do Seguro Social – INSS contra acórdão que reconheceu o direito do recorrido de converter o tempo de serviço exercido em atividade especial, em período anterior à Lei 9.032/95, em tempo de atividade comum. Eis a ementa do aresto recorrido:
+“Previdenciário. Atividade de Salineiro e Carpinteiro. Tempo de serviço em período anterior a Lei nº 9.032/95. Atividade insalubre. Presunção legal. Direito adquirido. Apelação e remessa improvidas” (fl. 148).
+Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 5º, XXXVI, da mesma Carta.
+A pretensão recursal não merece prosperar. É que a apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais relativas à contagem de tempo de serviço prestado sob condições especiais (Leis 3.807/60, 8.213/91 e 9.032/95; Medida Provisória 1.523/96; Decreto 53.831/64). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono acórdão da Primeira Turma do Tribunal, proferido no julgamento do AI 329.355-AgR/SC, Rel. Min. Sepúlveda Pertence:
+“Recurso extraordinário: descabimento: questão relativa à contagem de tempo de serviço especial para efeito de aposentadoria decidida à luz de legislação infraconstitucional (L. 8.213/91): alegada violação a dispositivos constitucionais que, se ocorresse, seria reflexa ou indireta, que não enseja reexame no RE: incidência, mutatis mutandis, da Súmula 636”.
+Nesse mesmo sentido, entre outras: AI 467.636/SP, Rel. Min. Nelson Jobim; RE 407.957/RS, Rel. Min. Ellen Gracie; RE 469.515/MG e RE 467.249/SE, Rel. Min. Ayres Britto.
+É certo, ainda, que para se chegar à conclusão contrária à adotada pelo acórdão recorrido e analisar se a atividade exercida era ou não especial, ou se o período mínimo foi ou não exercido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Indico, no mesmo sentido, as seguintes decisões, entre outras: AI 568.011/RJ, Rel. Min. Carlos Velloso; RE 471.990/RS, Rel. Min. Sepúlveda Pertence; RE 496.775/PR, Rel. Min. Cezar Peluso; RE 366.909/PR, Rel. Min. Joaquim Barbosa.
+Por fim, com a negativa de seguimento ao Recurso Especial (fls. 173-178, com trânsito em julgado certificado à fl. 180), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 26 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
