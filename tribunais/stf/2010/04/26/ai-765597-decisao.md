@@ -1,0 +1,18 @@
+1.     Trata-se de agravo de instrumento contra decisão que negou trânsito a recurso extraordinário manejado contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos de ação declaratória de sub-rogação de bens, que confirmou sentença a qual extinguira o processo sem julgamento de mérito, por reconhecer a ocorrência de litispendência entre essa ação e o processo de partilha anteriormente ajuizado.
+2.  Preliminarmente, a parte recorrente alega infringência aos artigos 5º, II, XXXV, e LV; e 93, IX, da CF, sob o argumento de ausência de fundamentação da decisão proferida nos embargos de declaração, uma vez que não foram supridas as omissões apontadas. No mérito, alega ofensa ao art. 5º, caput, LIII e V, da CF.
+ E, sintetizando as violações que entende ocorridas, destaca o agravante:
+“ – Cerceamento de defesa, negando-se vigência à Ampla Defesa e Contraditório, e conseqüente desrespeito ao Devido Processo Legal, incisos II, XXXV e LV do artigo 5º da CF/88;
+– Incompetência do Juízo, dispostos no caput do artigo 5º da Constituição Federal, além de seu inciso LIII;
+– Ausência de fundamentação em alguns pontos, ignorando o sinalado pelo inciso IX do artigo 93 da Magna Carta;
+– Desproporcionalidade na fixação de honorários advocatícios com o trabalho efetuado, negando vigência ao disposto no artigo 5º caput e inciso V da Lei Maior.”
+3.  Ressalto que a preliminar levantada pela parte, relativa ao reexame do julgamento proferido pela Corte de origem em sede de embargos de declaração, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade ao disposto nos artigos 5º, II, XXXV, e LV; e 93, IX, da Constituição Federal. Veja-se o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002, o qual assentou em sua ementa:
+“ CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO: ALEGAÇÃO DE OFENSA AO DEVIDO PROCESSO LEGAL E DE QUE O ACÓRDÃO NÃO ESTARIA FUNDAMENTADO. C.F., arts. 5º, II, XXXV, LIV e LV, e 93, IX.
+I. – Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional.
+II. – Decisão contrária ao interesse da parte não configura negativa de prestação jurisdicional (...)”
+4.  No mérito, o recurso também não merece prosperar, dado que, para divergir do que foi decidido pelo acórdão recorrido, seria necessário o reexame de legislação infraconstitucional (CPC), o que inviabiliza o trânsito do extraordinário, por ser indireta a alegada ofensa à Constituição Federal, além de requerer o reexame dos fatos e das provas da causa (Súmula STF 279), hipóteses inviáveis de apreciação em sede extraordinária.
+ Ademais, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 26 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
