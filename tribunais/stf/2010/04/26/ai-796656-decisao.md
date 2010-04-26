@@ -1,0 +1,16 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“Direito Administrativo. Servidores do DER/MG que exerceram ou exercem cargos de provimento em comissão. Gratificação especial. Leis estaduais 9.529/87 e 11.728/94. Supressão. Inocorrência. Honorários de sucumbência. Fixação. Inteligência do art. 20, § 4º, do Código de Processo Civil. 1. A gratificação especial de que trata a Lei estadual 9.529/87 não foi suprimida pela Lei estadual 11.728/94, devendo ser assegurada aos servidores que exerceram cargo em comissão, conforme reconhecido pela própria Administração Pública, impondo-se a condenação do ente público ao pagamento das parcelas não quitadas, respeitada a prescrição qüinqüenal. 2. Se os honorários de sucumbência não guardam proporcionalidade com a complexidade da causa e o tempo dedicado à mesma, sua redução é medida que se impõe” (fl. 83).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, 37, caput e 169, §1º, I, da mesma Carta.
+O agravo não merece acolhida. Bem examinados os autos, verifico que o agravante deixou de juntar cópia do inteiro teor legível do recurso extraordinário (fls. 119-121), o que inviabiliza a análise do instrumento.
+Segundo a jurisprudência deste Tribunal, o agravo de instrumento deve ser instruído com as peças obrigatórias e também com as necessárias ao exato conhecimento das questões discutidas (Súmula 288 do STF). Assim, a falta de qualquer delas autoriza o relator a negar seguimento ao agravo com base no art. 21, § 1º, do RISTF, e no art. 28, § 1º, da Lei 8.038/90.
+Desse modo, é inviável o processamento do agravo de instrumento. A jurisprudência desta Corte firmou-se no sentido de que os recorrentes têm o dever de zelar pela correta formação do processo (art. 544, § 1º do CPC). Nesse sentido, transcrevo a ementa do AI 691.221-AgR/MA, de relatoria do saudoso Ministro Menezes Direito:
+“Processo penal. Agravo regimental em agravo de instrumento. Formação deficiente do instrumento. Ausência de peças de traslado obrigatório. Precedentes.
+1. Nos termos do artigo 28, § 1º, da Lei nº 8.038/90, o agravo de instrumento interposto contra decisão que não admite recurso extraordinário deve ser instruído com a cópia dos documentos relacionados no parágrafo único do artigo 523 do Código de Processo Civil, considerada a redação vigente à época da edição da referida lei.
+2. Atualmente, o parágrafo único do artigo 523 do Código de Processo Civil, para efeito da formação do agravo de instrumento tirado contra a inadmissão do recurso extraordinário, mesmo em matéria criminal, corresponde ao artigo § 1º do artigo 544 do Código de Processo Civil. 3. Incumbe à parte agravante fiscalizar a correta formação do instrumento sob pena de não conhecimento do recurso.
+4. Agravo regimental a que se nega provimento” (grifos meus).
+Na mesma linha, destaco: AI 308.589-AgR/PR, Rel. Min. Moreira Alves; AI 493.916-AgR/RJ, Rel. Min. Joaquim Barbosa; AI 252.090-AgR/PE, Rel. Min. Celso de Mello; e AI 550.987-AgR/MG, Rel. Min. Carlos Velloso; AI 583.803-AgR/SP e AI 582.086-AgR/SP, Rel Min. Eros Grau.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 26 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
