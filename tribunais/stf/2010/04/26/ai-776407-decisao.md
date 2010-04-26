@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E ADMINISTRATIVO. DESPESA OU OBRIGAÇÃO DE PEQUENO VALOR. LEI MUNICIPAL ESPECÍFICA. POSSIBILIDADE. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Maranhão:
+“ADMINISTRATIVO – APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – INADIMPLEMENTO DE VENCIMENTO DE SERVIDOR MUNICIPAL OCUPANTE DE CARGO COMISSIONADO – CABE À MUNICIPALIDADE O ÔNUS DA PROVA DO ADIMPLEMENTO DAS VERBAS COBRADAS – IMPOSSIBILIDADE DE PAGAMENTO DE DÍVIDAS CONTRAÍDAS PELO EX-GESTOR MUNICIPAL – IMPERTINÊNCIA DA ALEGAÇÃO – HONORÁRIOS DE ADVOGADO ARBITRADOS EM EXCESSO – INOBSERVÂNCIA.
+I – Em atenção ao disposto no art. 464 da CLT e considerando a situação de hipossuficiência do servidor frente à Administração Pública, é ônus da municipalidade provar o efetivo pagamento das remunerações cobradas.
+II – É injustificada a alegação de que as dívidas contraídas pela municipalidade em gestão anterior não podem ser quitadas pela atual administração, sob pena de infração da Lei de Responsabilidade Fiscal, porquanto incidente o primado administrativo da impessoalidade.
+III – Houve moderação na fixação do percentual de 10% (dez por cento) sobre o valor da condenação, a título de verba de advogado, pelo que não há que se falar em alteração.
+IV – Apelo improvido. Unanimidade” (fls. 118-119).
+Os embargos de declaração opostos foram rejeitados.
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. O Agravante alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXV e LIV, 93, inc. IX, 100, §§ 3º e 5º, da Constituição da República e o art. 87, caput e inc. II, do Ato das Disposições Constitucionais Transitórias.
+Argumenta que “o Tribunal do Maranhão não dedicou uma só judiciosa linha a respeito do art. 100, §§ 3º e 5º da CR, c/c o art. 87, inc. II, do ADCT, ou da Lei municipal 1.613/05. Não falou sequer sobre a questão da dívida de pequeno valor. (...) o Recorrente fez o que estava ao seu alcance: opôs embargos de declaração para suprir a omissão (...), mas o Tribunal de Justiça do Maranhão recusou-se explicitamente a prestar jurisdição sobre o art. 100, §§ 3º e 5º, da CB, e o art. 87 do ADCT – matérias que, repita-se foram objeto de decisão em primeiro grau e devolvidas ao Tribunal por força do reexame necessário, bem como por se tratar de matéria de ordem pública, a qual pode ser examinada de ofício” (fl. 162).
+Sustenta que há lei municipal “específica que, em atendimento ao art. 100, § 5º, do art. 30 da CF e caput do art. 87 do ADCT, regulamenta o que vem a ser ‘despesa ou obrigação de pequeno valor’. Fala-se da Lei Municipal n. 1.613/2005. Nesse diploma legal estipulou-se que verbas de pequeno valor serão aquelas que não ultrapassem 02 (dois) salários mínimos” (fls. 166-167).
+Assevera que “o Supremo Tribunal Federal enfrentou tema análogo e julgou constitucional lei promulgada pelo Estado do Piauí, que considerava de pequeno valor débitos ou obrigações consignados em precatório judiciário que tivessem valor igual ou inferior a cinco salários mínimos. Cuida-se da ADI 2.868-PI, Pleno, Rel. (p/ acórdão) Joaquim Barbosa, DJU 12/11/2004” (fl. 167).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois os dispositivos constitucionais tidos por afrontados foram suscitados no momento procedimental adequado e a omissão do acórdão recorrido foi demonstrada por meio dos embargos de declaração opostos. Embora provocado a se manifestar sobre a matéria, o Tribunal a quo manteve-se omisso, o que não pode resultar em prejuízo para a parte.
+Nesse sentido:
+“I. RE: Prequestionamento: Súmula 356. O que, a teor da Súmula 356, se reputa carente de prequestionamento é o ponto que, indevidamente omitido pelo acórdão, não foi objeto de embargos de declaração; mas, opostos esses, se, não obstante, se recusa o tribunal a suprir a omissão, por entendê-la inexistente, nada mais se pode exigir da parte, permitindo-se-lhe, de logo, interpor recurso extraordinário sobre a matéria dos embargos de declaração e não sobre a recusa, no julgamento deles, de manifestação sobre ela. II. (Omissis).” (RE 210.638, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 19.6.1998)
+6. Razão jurídica assiste ao Agravante.
+7. No julgamento da Ação Direta de Inconstitucionalidade 2.868, Redator para o acórdão o Ministro Joaquim Barbosa, o Plenário do Supremo Tribunal Federal firmou entendimento no sentido de que os Estados-membros podem estipular valor diverso do determinado no art. 87 do Ato das Disposições Constitucionais Transitórias, referente às obrigações de pequeno valor:
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI 5.250/2002 DO ESTADO DO PIAUÍ. PRECATÓRIOS. OBRIGAÇÕES DE PEQUENO VALOR. CF, ART. 100, § 3º. ADCT, ART. 87. Possibilidade de fixação, pelos estados-membros, de valor referencial inferior ao do art. 87 do ADCT, com a redação dada pela Emenda Constitucional 37/2002. Ação direta julgada improcedente” (DJ 12.11.2004).
+Embora o precedente se refira a Estado-membro, o entendimento é totalmente aplicável ao caso concreto, pois o art. 87 do ADCT explicitamente afirma que a sua definição sobre pequeno valor é aplicável “até que se dê a publicação oficial das respectivas leis definidoras pelos entes da Federação”, na qual se incluem os municípios.
+Assim, a Lei municipal 1.613/05 é aplicável à espécie e deve ser observada.
+8. Pelo exposto, dou provimento a este agravo, na forma do art. 544, §§ 3º e 4º, do Código de Processo Civil, e, desde logo, ao recurso extraordinário, nos termos do art. 557, § 1º-A, para determinar a aplicação da Lei municipal 1.613/05 à espécie.
+O Recorrente foi sucumbente na totalidade do direito discutido na ação e o provimento deste recurso extraordinário apenas modifica a forma de execução daquele direito, de modo que ficam mantidos os ônus de sucumbência fixados na origem.
+Publique-se.
+Brasília, 26 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
