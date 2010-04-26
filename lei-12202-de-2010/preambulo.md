@@ -1,0 +1,2 @@
+Altera a Lei nº 10.260, de 12 de julho de 2001, que dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior - FIES (permite abatimento de saldo devedor do FIES aos profissionais do magistério público e médicos dos programas de saúde da família; utilização de débitos com o INSS como crédito do FIES pelas instituições de ensino; e dá outras providências).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
