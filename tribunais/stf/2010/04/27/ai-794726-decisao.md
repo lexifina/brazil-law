@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário.
+2.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+3.  O agravo não merece provimento. O Tribunal Superior do Trabalho decidiu mera questão processual negar provimento ao agravo de instrumento em recurso de revista com aplicação das Súmulas n.s 226 e 333 do TST.
+4.  Este Tribunal possui orientação pacífica no sentido de que a controvérsia a respeito da aferição dos pressupostos de admissibilidade dos recursos trabalhistas é afeta à legislação infraconstitucional. Eventual ofensa à Constituição do Brasil seria, quando muito, indireta [AI n. 437.874-AgR, de minha relatoria, 1ª Turma, DJ de 26.11.04, AI n. 486.021-AgR, Relator o Ministro Carlos Britto, 1ª Turma, DJ de 16.12.05, AI n. 543.594-AgR, Relator o Ministro Carlos Velloso, 2ª Turma, DJ de 23.9.05, e AI n. 543.896-AgR, Relator o Ministro Joaquim Barbosa, 2ª Turma, DJ de 3.2.06, entre outros julgados].
+5.  Ademais, a jurisprudência deste Tribunal consolidou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 541.361-AgR, de minha relatoria, 1ª Turma, DJ de 3.2.2006, e AI n. 238.917-AgR, Relator o Ministro Celso de Mello, 2ª Turma, DJ de 20.10.00, entre outros julgados].
+ Nego seguimento ao agravo com fundamento no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 27 de abril de 2010.
+Ministro Eros Grau
+- Relator -
