@@ -1,0 +1,18 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido porta a seguinte ementa:
+“COMPLEMENTAÇÃO DE APOSENTADORIA. TRANSAÇÃO EXTRAJUDICIAL. VENDA DO CARIMBO. A negociação levada a efeito entre o empregado e empregadora, que resultou no ‘Termo de Relação Contratual Atípica’ – a chamada ‘venda do carimbo’ -, envolveu expectativa de direito do empregado relativamente à complementação de aposentadoria prevista em Acordo Coletivo de Trabalho, portanto, direito individual disponível. Ausente qualquer indício de vício de consentimento, não há como se recusar a validade da transação.
+GRATIFICAÇÃO POR APOSENTADORIA ANTECIPADA. ALTERAÇÃO DA NORMA REGULAMENTAR POR ACORDO COLETIVO. POSSIBILIDADE. A validade da norma coletiva é reconhecida pela Constituição da República de 1988, em seu art. 7º, inc. XXVI. Desse modo, é possível a supressão de um benefício previsto em regulamento empresarial, mas ainda não incorporado ao contrato de trabalho do empregado, mediante acordo coletivo.
+Recurso de Embargos de que se conhece e a que se dá provimento” (fl. 146).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, XXXVI, LIV e LV, 7º, XXVI, da mesma Carta.
+O agravo não merece acolhida. Isso porque, a apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. COMPLEMENTAÇÃO DE APOSENTADORIA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 626.406/PA, Rel. Min. Cármen Lúcia).
+Além disso, a decisão atacada dirimiu a questão com base na interpretação de cláusula integrante de acordo coletivo de trabalho, o que atrai a incidência da Súmula 454 do STF. Nesse sentido, menciono as seguintes decisões, de ambas as turmas desta Corte:
+“CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA.
+1.  A apreciação do apelo extremo demanda a interpretação de cláusula de acordo coletivo de trabalho (Súmula STF 454), além da apreciação de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária.
+2.  Agravo regimental improvido” (AI 702.844-AgR/MT, Rel. Min. Ellen Gracie, Segunda Turma).
+“Recurso extraordinário: descabimento: controvérsia decidida à luz de legislação infraconstitucional e de cláusula de acordo coletivo: alegada violação de dispositivos constitucionais que, se ocorresse, seria reflexa ou indireta: incidência da Súmula 454 e, mutatis mutandis, do princípio da Súmula 636” (AI 555.643-AgR/SP, REl. Min. Sepúlveda Pertence, Primeira Turma).
+Por fim, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 27 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
