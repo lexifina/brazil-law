@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário.
+2.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [artigo 102, III, § 3º, da CB/88].
+3.  O agravo não merece provimento. O acórdão recorrido não apreciou a controvérsia à luz dos preceitos constitucionais que a recorrente indica como violados. Além disso, não foram opostos embargos de declaração para suprir eventual omissão. Aqui incidem as Súmulas ns. 282 e 356 do STF.
+4.  O prequestionamento, no entendimento pacificado deste Tribunal, deve ser explícito [AI n. 215.724-AgR, Relator o Ministro Sydney Sanches, 1ª Turma, DJ de 15.10.99; e RE n. 192.031-AgR, Relator o Ministro Néri da Silveira, 2ª Turma, DJ de 4.6.99].
+5.  Por fim, o acórdão recorrido possui dois fundamentos, um constitucional e outro infraconstitucional. A não-interposição do recurso especial tornou definitivo o fundamento infraconstitucional --- fixação do benefício auxílio-acidente, com base na Lei nº 8.213/91 --- que é suficiente para a manutenção da decisão exarada pelo tribunal de origem. Dessa maneira, é inócuo eventual provimento do recurso extraordinário porque subsistiria a exegese adotada pelo juízo a quo. Incide na espécie a Súmula n. 283 do Supremo Tribunal Federal. Nesse sentido, o RE n. 570.295 e o AI n. 688.767, Relatora a Ministra Cármen Lúcia, DJe de 25.2.08 e de 19.2.08; o RE n. 507.991, Relator o Ministro Sepúlveda Pertence, DJe de 11.12.07, e o RE n. 541.079-AgR, Relator o Ministro Carlos Britto, cuja ementa transcrevo:
+“EMENTA: CONSTITUCIONAL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. EXECUÇÃO CONTRA O INSS. HONORÁRIOS ADVOCATÍCIOS. ART. 1º-D DA LEI Nº 9.494/97, INTRODUZIDO PELA MEDIDA PROVISÓRIA Nº 2.180-35/2001. PRECLUSÃO DE FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. INCIDÊNCIA DA SÚMULA 283 DO STF.
+O Tribunal recorrido utilizou como razão de decidir também fundamentos de índole infraconstitucional. Fundamentos que se mantiveram incólumes, ante o insucesso do recurso especial simultaneamente interposto. Pelo que é inevitável a incidência da Súmula 283 desta excelsa Corte. Precedentes.
+Agravo regimental a que se nega provimento.”
+ Nego seguimento ao agravo de instrumento com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 27 de abril de 2010.
+Ministro Eros Grau
+- Relator -
