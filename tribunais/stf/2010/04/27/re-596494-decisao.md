@@ -1,0 +1,13 @@
+1.  O Tribunal de Justiça do Estado do Rio de Janeiro concluiu pela ausência de irregularidades na prisão em flagrante a ensejar o direito à reparação por danos morais decorrentes da absolvição do autor, por falta de provas de sua participação em assalto, mediante acórdão assim ementado (fls. 188-191):
+“ REPARAÇÃO DE DANO. PRISÃO EM FLAGRANTE. ABSOLVIÇÃO. IMPROCEDÊNCIA. APELAÇÃO. DESPROVIMENTO DO RECURSO. PRISÃO EFETUADA LOGO APÓS O ROUBO. INEXISTÊNCIA DE IRREGULARIDADE NO MOMENTO DA PRISÃO. OS DOIS MENORES ENVOLVIDOS NO FATO CRIMINOSO APONTARAM O APELANTE COMO SENDO O AUTOR DO DELITO. NÃO HÁ RESPONSABILIDADE CIVIL DO ESTADO SE DURANTE A INSTRUÇÃO PROBATÓRIA NÃO SE CONFIRMA A AUTORIA DO DELITO. CONFIRMAÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO. ”
+2.  Daí o recurso extraordinário (fls. 204-213), por ofensa aos arts. 5, X e XV, e 37, § 6º, da Constituição Federal. O recorrente sustenta que sofreu constrangimento e humilhação irreparáveis, pois foi vítima de arbitrariedades cometidas pelos agentes estatais que induziram menores a apontar o réu como um dos autores do delito.
+3.  Inadmitido o recurso (fls. 238-428), subiram os autos em virtude de provimento do AI 689.310/RJ – apenso.
+4.  Inicialmente, as normas constitucionais em relação às quais se apontou violação, não foram debatidas pelo acórdão recorrido, ao qual não foram opostos os respectivos embargos de declaração, para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+5.  Mesmo que superado o óbice, também não prospera a insurgência. Rever a decisão recorrida, para concluir pela existência da culpa imputada a agente da Administração Pública a fazer incidir responsabilidade do poder público de indenizar o autor, implica o reexame dos fatos e das provas constantes dos autos, nas quais se baseou o Tribunal a quo, o que é vedado em sede extraordinária (Súmula STF 279).
+6.  Além disso, esta Corte já fixou entendimento segundo o qual a análise sobre a indenização por danos morais limita-se ao âmbito de interpretação de matéria infraconstitucional, cujo exame se mostra inviável nesta sede recursal.
+ Ressalte-se que, contra o aresto ora impugnado, o recorrente interpôs, concomitantemente, recurso especial que não foi admitido (fls. 193-202). O agravo de instrumento interposto, mediante acórdão transitado em julgado, não foi conhecido por deficiência de suas razões (AG 921.800/RJ – apenso). Incide no caso, mutatis mutandis, a Súmula STF 283.
+7.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 27 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
