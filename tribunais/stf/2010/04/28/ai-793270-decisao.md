@@ -1,0 +1,11 @@
+DECISÃO: A parte ora agravante sustenta que o acórdão por ela impugnado em sede recursal extraordinária teria transgredido os preceitos inscritos no art. 5º, incisos XXXIX, LIV e LV, e no art. 93, IX, todos da Constituição Federal.
+Cabe referir, desde logo, que – com exceção do tema concernente à alegada transgressão ao preceito inscrito no art. 93, IX, da Constituição – os demais temas não se acham devidamente prequestionados.
+E, como se sabe, ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368 - RTJ 131/1391 - RTJ 144/300 - RTJ 153/989), incidem as Súmulas 282 e 356 desta Corte (RTJ 159/977).
+A configuração jurídica do prequestionamento decorre de sua oportuna formulação em momento procedimentalmente adequado. Não basta, no entanto, só argüir, previamente, o tema de direito federal para legitimar o uso da via do recurso extraordinário. Mais do que a satisfação dessa exigência, impõe-se que a matéria constitucional questionada tenha sido efetivamente apreciada na decisão recorrida (RTJ 98/754 - RTJ 116/451).
+De outro lado, cabe registrar, no que se refere à alegada transgressão ao postulado constitucional que impõe, ao Poder Judiciário, o dever de motivar suas decisões (CF, art. 93, IX), que o acórdão emanado do Tribunal “a quo” encontra-se extensamente fundamentado, satisfazendo-se, desse modo, por inteiro, a exigência de motivação imposta por aquele preceito da Constituição da República.
+É preciso ter presente, ainda no tocante à alegada ausência de motivação da decisão recorrida, que a jurisprudência firmada pelo Supremo Tribunal Federal (RTJ 170/627-628, Rel. Min. CELSO DE MELLO, v.g.) orienta-se no sentido de que “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada. Não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RTJ 150/269, Rel. Min. SEPÚLVEDA PERTENCE - grifei).
+Sendo assim, e pelas razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+Publique-se.
+Brasília, 28 de abril de 2010.
+Ministro CELSO DE MELLO
+Relator
