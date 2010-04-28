@@ -1,0 +1,16 @@
+1.  Trata-se de recurso extraordinário interposto de acórdão o qual entendeu que servidor público em estágio probatório pode ser exonerado mediante decreto municipal que declara a desnecessidade do cargo público por ele ocupado (fls. 289-298).
+ Os embargos de declaração opostos foram rejeitados (fls. 320-323).
+2.  Nas razões do RE, sustenta-se ofensa aos arts. 5º, LIV e LV; 93, IX; e 41, § 3º, da Constituição Federal (fls. 325-346).
+3.  Nas contra-razões, a parte recorrida pugna pelo não-conhecimento do recurso por entender que estaria faltando a assinatura do advogado da parte recorrente.
+4.  Inadmitido o recurso extraordinário na origem (fl. 370), subiram os autos em virtude do provimento do AI 498.750/SC (fl. 374).
+5.  Preliminarmente, verifico que a assinatura da advogada da parte recorrente se encontra no início da petição do recurso extraordinário (fl. 326), além de possuir o regular substabelecimento (fls. 07, 241 e 356).
+ Quanto ao mérito, o presente recurso merece prosperar. O acórdão recorrido está em confronto com o entendimento do Supremo Tribunal Federal no sentido de que a declaração de desnecessidade e a conseqüente extinção de cargos públicos somente pode ser feita por meio de lei de iniciativa do chefe do poder executivo, o que não ocorreu na espécie. Nesse sentido menciono os seguintes julgados : RE 240.735-AgR/MG, rel. Min. Eros Grau, 2ª Turma, unânime, DJ 05.05.2006; RE 446.076-AgR/MG, rel. Min. Eros Grau, 1ª Turma, unânime, DJ 24.03.2006; e RE 378.041/MG, rel. Min. Ayres Britto, 1ª Turma, unânime, DJ 11.02.2005, estes últimos assim ementados:
+  ”AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. MUNICÍPIO DE GOVERNADOR VALADARES. SERVIDOR PÚBLICO EM ESTÁGIO PROBATÓRIO. CARGO PÚBLICO EFETIVO. DECLARAÇÃO DE DESNECESSIDADE. PROCESSO ADMINISTRATIVO. IMPOSSIBILIDADE. LEI DE INICIATIVA DO PRESIDENTE DA REPÚBLICA .
+(...)
+2. Se os cargos públicos somente podem ser criados por lei de iniciativa do Presidente da República [artigo 61, § 1º, II, "a", da CB/88], não é razoável permitir que o Chefe do Poder Executivo Municipal, mediante decreto, possa extingui-los, por entendê-los desnecessários. Agravo regimental improvido.
+  RECURSO EXTRAORDINÁRIO. MUNICÍPIO. DECLARAÇÃO DE DESNECESSIDADE DE CARGO. SERVIDOR PÚBLICO OCUPANTE DE CARGO EFETIVO, EM ESTÁGIO PROBATÓRIO. EXONERAÇÃO AD NUTUM E SEM CRITÉRIOS OBJETIVOS. IMPOSSIBILIDADE . O servidor público ocupante de cargo efetivo, ainda que em estágio probatório, não pode ser exonerado ad nutum, com base em decreto que declara a desnecessidade do cargo, sob pena de ofensa à garantia do devido processo legal, do contraditório e da ampla defesa. Incidência da Súmula 21 do STF. Recurso a que se dá provimento, para determinar a reintegração dos autores no quadro de pessoal da Prefeitura Municipal de Bicas (MG).”
+5.  Ante o exposto, com fundamento no art. 557, § 1º-A, do CPC, dou provimento ao recurso extraordinário para anular os Decretos Municipais 017/93 e 038/93, reintegrando o ora recorrente no cargo anteriormente exercido, com todas as conseqüências daí decorrentes. Condeno o sucumbente ao pagamento de custas e honorários advocatícios, estes fixados em dez por cento do valor da condenação.
+ Publique-se.
+ Brasília, 28 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
