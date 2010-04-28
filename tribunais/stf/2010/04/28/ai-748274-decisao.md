@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por ofensa aos arts. 2º; 37, caput; 39, § 3º; 40, § 8º; e 169 da Constituição Federal. O acórdão recorrido concluiu que o mérito da sentença foi proferido em conformidade com entendimento consolidado da Suprema Corte quanto à auto-aplicabilidade da norma constitucional do § 8º do art. 40 (fls. 30-38).
+2.  O Tribunal a quo asseverou que, com exceção do art. 40, § 8º, os dispositivos constitucionais tidos como violados não foram prequestionados (fls. 65-67).
+3.  O agravante afirma que não há que se falar em ausência de prequestionamento quando, na verdade, ocorreu negativa de prestação jurisdicional, o que viola os arts. 5º, XXXV, e 93, IX, da Carta Magna.
+4.  Inicialmente, a questão relativa ao reexame do julgamento proferido na Corte de origem, por suposta negativa de prestação jurisdicional, pode configurar, quando muito, situação de ofensa meramente reflexa ao texto da Constituição, pois reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade ao disposto no art. 5º, XXXV, e 93, IX, da Constituição Federal. Veja-se o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002.
+5.  Ademais, mesmo superando o óbice de prequestionamento, o presente agravo não merece prosperar. A alegada ofensa à Constituição, se existisse, seria indireta. O acórdão recorrido reconheceu, em ação de cobrança, o direito da pensionista de receber a diferença do que fora recebido a menor no período de 02/2001 a 01/2006, com fundamento na jurisprudência da Suprema Corte. E decidir de forma diversa, além de demandar o reexame de fatos e de provas da causa, depende de análise da citada legislação que instituiu o regime próprio de previdência dos servidores estaduais (Lei Complementar 64/2002). Incide, na espécie, o óbice das Súmulas STF 279 e 280.
+Veja-se o AI 538.695- AgR/SP, rel. Min. Cezar Peluso, 1ª Turma, unânime, DJ 05.08.2005; e o RE 595.338-AgR/SP, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 29.05.2009.
+6.  Diante do exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 28 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
