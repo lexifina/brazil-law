@@ -1,0 +1,11 @@
+DECISÃO: Vistos, etc.
+Trata-se de embargos declaratórios opostos contra decisão pela qual, na esteira da jurisprudência desta nossa Corte, dei provimento ao recurso do Estado do Rio Grande do Norte e determinei fossem invertidos os ônus da sucumbência.
+2. Pois bem, o Estado do Rio Grande do Norte aponta omissão no tocante à fixação dos honorários advocatícios e ao afastamento da multa prevista no parágrafo único do art. 538 do Código de Processo Civil (fls. 152).
+3. Quanto à reconsideração da multa aplicada pelo Tribunal de origem, tenho que a insurgência não merece acolhida. Isso porque a questão sequer foi mencionada no recurso extraordinário de fls. 163/175. Pelo que não há falar em omissão.
+4. Não bastasse, o Superior Tribunal de Justiça, no julgamento do recurso especial manejado simultaneamente ao presente extraordinário, entendeu: “Quanto à extirpação da multa imposta, impõe-se manter o v. acórdão a quo. A mera menção da Súmula 98-STJ no recurso especial não afasta a sanção processual contida no art. 538, parágrafo único do Código de Processo Civil, desde que o julgador constate o verdadeiro intuito de empreitada recursal, qual seja, protelar a eficácia da prestação jurisdicional. No caso em espeque, andou bem o colegiado a quo ao reprimir a procrastinação do processo, devendo a cominação ser mantida por seus próprios fundamentos” (fls. 190). Presente essa moldura, a questão, de cunho eminentemente infraconstitucional, tornou-se imutável ante o trânsito em julgado da decisão (certidão de fls. 194).
+5. Por outro lado, no que diz com os honorários, tem razão o embargante. Isso porque, segundo o § 4º do art. 20 do Código de Processo Civil, nas causas em que não houver condenação, os honorários serão fixados consoante apreciação equitativa do juiz, atendidas as normas das alíneas do § 3º do referido artigo.
+Isso posto, e frente ao § 1º-A do art. 557 do CPC, acolho os embargos tão somente para determinar o pagamento de honorários advocatícios no valor de R$ 50,00 (cinquenta reais) por autor. Fica ressalvada a hipótese de concessão dos benefícios da justiça gratuita, caso em que serão aplicáveis as isenções constantes do art. 3º da Lei 1.060/50, bem como o disposto no art. 12 da referida lei.
+Publique-se.
+Brasília, 28 de abril de 2010.
+Ministro AYRES BRITTO
+Relator
