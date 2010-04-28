@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE.
+1.  A Turma Recursal indeferiu a segurança, ante os seguintes fundamentos (folhas 141 e 142):
+[...]
+Fixadas tais premissas, não vislumbro, todavia, a presença de fundamento jurídico a autorizar a concessão da almejada segurança. É que, além de a multa ter sido legitimamente cominada como instrumento para assegurar o cumprimento de decisões judiciais (Sentença vista por cópia à fls. 35), foi fixada em patamar que atende aos princípios da proporcionalidade e razoabilidade (R$ 50,00 – cinquenta reais/dia), tendo em vista que a multa-diária, aumentada para R$ 100,00, foi posteriormente reduzida pelo próprio juiz de primeiro grau, após requerimento do impetrante (fls. 108/110).
+De ver que a totalização posterior agigantou-se em decorrência da inércia do réu no cumprimento da determinação judicial. Conforme a planilha de fls. 116, o INSS demorou oito meses para cumprir a decisão judicial. Patente, pois, o descaso da autarquia, sendo justamente a sua desmedida recalcitrância em cumprir a obrigação de fazer o que ensejou a estipulação de multa pelo Juízo, não tendo as justificativas tardias – só apresentadas quando já deflagara a execução da indenização na qual convertida a obrigação de fazer – o condão de afastar as conseqüências do inadimplemento.
+Assim, ainda que sensível às dificuldades alegadas pela autarquia previdenciária no cumprimento das decisões judiciais e no efetivo implemento dos benefícios, não pode admitir que tais dificuldades estendam o cumprimento da ordem judicial acerca de benefício de caráter alimentar.
+Não convence, ademais, a argumentação no sentido de que o descumprimento da decisão somente poderia restar caracterizado a partir da ciência da autoridade administrativa responsável pela operacionalização da obrigação carregada à autarquia. Como cediço, é o procurador federal o responsável pela representação processual da entidade, cabendo-lhe a adoção das providências necessárias ao cumprimento da obrigação, não podendo o direito da parte – ou a efetividade da decisão judicial – ficar a mercê dos tortuosos meandros da burocracia oficial.
+Quanto à arguição de violação ao art. 167, XI, da Constituição Federal, que veda “a utilização dos recursos provenientes das contribuições sociais de que trata o artigo 195, I, a, e II, para realização de despesas distintas do pagamento de benefícios do regime geral de previdência social de que trata o art. 201”. Entendo que, tal dispositivo é endereçado à Administração e ao legislador ordinário, de sorte a evitar que dêem destinação diversa àquelas receitas.
+Se se entender que as multas não podem ser pagas com recursos oriundos de contribuições sociais, disso não decorre a inexigibilidade das astreintes, devendo-se buscar receitas de outras fontes para quitá-las.
+Por outro lado, a inalienabilidade dos bens públicos não impede a imposição de multa (astreinte) aos entes públicos, com o fim de compelir ao cumprimento de obrigações de fazer decorrentes de decisões judiciais (art. 461, § 5º, do CPC).
+[...]
+2.  O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de processo da competência da Corte.
+3.  Nego seguimento ao extraordinário.
+4.  Publiquem.
+Brasília, 28 de abril de 2010.
+Ministro MARCO AURÉLIO
+Relator
