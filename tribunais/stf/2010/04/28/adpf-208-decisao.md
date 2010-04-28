@@ -1,0 +1,10 @@
+Trata-se de arguição de descumprimento de preceito fundamental, com pedido de medida liminar, proposta pelo Partido dos Trabalhadores de Campestre/MG em impugnação ao Projeto de Lei 003/2010 proposto pelo Poder Executivo do Município de Campestre.
+Examinados os autos, verifico a existência de óbices intransponíveis ao conhecimento da presente ação. É que a requerente não possui legitimidade ativa ad causam para propor ação direta de inconstitucionalidade, nos termos do art. 103, IX, da Constituição Federal.
+Carece o autor de legitimidade ativa ad causam para deflagrar o controle concentrado de constitucionalidade de normas. É que segundo a pacífica jurisprudência desta Corte, o Partido Político, para ajuizar ação direta de inconstitucionalidade perante o Supremo Tribunal Federal, deve estar representado, exclusivamente, por seu Diretório Nacional, ainda que o ato normativo contestado tenha origem local (ADI 1.528-QO, rel. Min. Ellen Gracie, DJ 23/8/2002, ADI 2.547-QO, Rel. Min. Celso de Mello, DJ 1º/2/2002).
+Impõe-se ressaltar, por necessário, que o Plenário desta Suprema Corte reconheceu a inteira validade constitucional da norma que atribui competência ao Relator para negar trânsito, em decisão monocrática, a recursos, pedidos ou ações quando incabíveis, intempestivos, insuscetíveis de conhecimento ou sem objeto ou que veiculem pretensão conflitante com a jurisprudência do Supremo Tribunal Federal (Cf. ADI 563/DF, Rel. Min. Paulo Brossard; ADI 593/GO, Rel. Min. Marco Aurélio; ADI 2.060/RJ, Rel. Min. Celso de Mello).
+Isso posto, julgo extinto o processo, sem resolução de mérito, nos termos do art. 267, VI, do Código de Processo Civil, combinado com o art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal (Cf. ADI 2.194/DF, Rel. Min. Eros Grau; da ADI 2.260/DF, Rel. Min. Joaquim Barbosa; ADI 2.251-MC/DF, Rel. Min. Sydney Sanches; ADI 1.874-AgR/DF, Rel. Min. Maurício Corrêa; ADI 1.830-QO/DF, Rel. Min. Moreira Alves; ADI 1.892-QO/DF, Rel. Min. Ilmar Galvão).
+Arquivem-se os autos.
+Publique-se.
+Brasília, 28 de abril de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
