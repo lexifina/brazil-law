@@ -1,0 +1,19 @@
+DECISÃO
+Vistos.
+Fundação Departamento de Estradas de Rodagem do Estado do Rio de Janeiro - DER RJ interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 2º, 37, inciso X, 39, § 1º, e 40, § 8º, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Oitava Câmara do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+“GRATIFICAÇÃO ESPECIAL. LEI 1.718/90. CARÁTER GENÉRICO E IMPESSOAL. FUNCIONÁRIOS ATIVOS OU INATIVOS. A EXCLUSÃO DOS INATIVOS E DE ALGUNS SERVIDORES EM ATIVIDADE, INTEGRANTES DA ADMINISTRAÇÃO PÚBLICA INDIRETA E FUNDACIONAL, IMPLICA EM CONTRARIEDADE AO ARTIGO 40, § 4º, E 37, X, DA CONSTITUIÇÃO DA REPÚBLICA DE 1988, VIGENTE NA ÉPOCA DOS FATOS DA CAUSA. PRESCRIÇÃO DO FUNDO DO DIREITO QUE NÃO SE RECONHECE. DIREITO SOCIAL DE ÍNDOLE CONSTITUCIONAL E IMPRESCRITÍVEL. SÚMULA 85, DO E. STJ. RECURSO CONHECIDO E DESPROVIDO” (fl. 113).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 22/8/05, conforme expresso na certidão de folha 117, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação, uma vez que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidência das Súmulas n°s 282 e 356/STF.
+Anote-se que, mesmo ultrapassando a preliminar de prequestionamento, o recurso não mereceria trânsito, uma vez que para divergir do acórdão recorrido acerca da natureza jurídica do reajuste concedido aos servidores ativos, seria necessária a análise da legislação local que disciplina a matéria, o que é incabível em sede de recurso extraordinário. Incidência da Súmula nº 280/STF. Anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. EXTENSÃO AOS INATIVOS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Não diverge da jurisprudência deste Supremo Tribunal Federal o acórdão do Tribunal a quo que estende gratificação a servidores inativos quando reconhecida a sua natureza de reajuste salarial. 2. Impossibilidade de analisar a legislação estadual. Incide, no caso, a Súmula 280 deste Supremo Tribunal” (AI nº 611.456/RJAgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. LEI FLUMINENSE N. 1.718/90. EXTENSÃO A SERVIDORES PÚBLICOS INATIVOS DE GRATIFICAÇÃO ESPECIAL. POSSIBILIDADE. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280-STF. Questão apreciada à luz de legislação local, circunstância que impede a apreciação do extraordinário ante o óbice da Súmula n. 280 do STF. Agravo regimental a que se nega provimento” (AI nº 584.974/RS-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 25/8/06).
+Ademais, o acórdão recorrido está em sintonia com a jurisprudência desta Corte, no sentido de que a Gratificação de Encargos Especiais concedida em caráter geral deve ser estendida aos servidores ativos e inativos da Fundação Departamento de Estradas de Rodagem do Rio de Janeiro. Nesse sentido, anote-se:
+“Agravo regimental em agravo de instrumento. 2. Gratificação de encargos especiais - GEE. Extensão. Ativos e inativos. Possibilidade. Precedentes. 3. Agravo regimental a que se nega provimento” (AI nº 642.478/RJ-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 28/3/08).
+No mesmo sentido, as seguintes decisões monocráticas: RE nº 585.883/RJ, Relator o Ministro Cezar Peluso, DJ de 11/02/10; e AI nº 721.000/RJ, Relatora a Ministra Cármen Lúcia, DJe de 27/8/08.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 28 de abril de 2010.
+Ministro DIAS TOFFOLI
+Relator
