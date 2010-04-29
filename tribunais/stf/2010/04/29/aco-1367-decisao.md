@@ -1,0 +1,17 @@
+DECISÃO: O Ministério Público Federal manifesta-se nestes termos (fls. 25/27):
+“1. O MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO suscitou conflito negativo de atribuição com o MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO para o processamento de procedimento administrativo instaurado para apuração de possíveis irregularidades ocorridas em processo de seleção pública promovido pela METROREC – Superintendência de Trens Urbanos do Recife, durante o ano de 2005 (fls. 11/15).
+2. Consta dos autos que o Ministério Público do Estado de Pernambuco, a partir de representação por e-mail formulada por VIVIANE PEREIRA (fls. 5), instaurou procedimento administrativo para apurar a existência de possíveis irregularidades no âmbito da METROREC, sociedade de economia mista vinculada a Companhia Brasileira de Trens urbanos – CBTU, consistentes na contratação de funcionários terceirizados para o exercício das atribuições destinadas aos aprovados em concurso público, realizado no ano de 2005.
+3. Posteriormente, o Ministério Público do Estado de Pernambuco declinou de sua atribuição para o Ministério Público do Estado do Rio de Janeiro, ao argumento de que, por ser a METROREC vinculada à CBTU – Companhia Brasileira de Trens Urbanos, sociedade de economia mista com sede no Rio de Janeiro, a competência para conhecer e julgar a possível ação civil pública que poderá ser proposta é do Poder Judiciário do Estado do Rio de Janeiro (fls. 06/07).
+4. No entanto, ao receber os autos, o Ministério Público do Estado do Rio de Janeiro declinou de sua atribuição e suscitou o presente conflito negativo de atribuições (fls. 11/15), ao argumento de que investigação do ato de improbidade administrativa, assim como a ação correspondente, deve ser conduzida no foro do local onde ocorreu o dano ao patrimônio público.
+5. Assiste razão ao suscitante.
+6. A competência para o ajuizamento de ação civil pública por ato de improbidade administrativa está expressamente disciplinada no art. 2º da Lei nº 7.347/85: ‘As ações previstas nesta Lei serão propostas no foro do local onde ocorrer o dano, cujo juízo terá competência funcional para processar e julgar a causa’.
+7.  Em consequência, a atribuição para investigar o fato e ajuizar a ação respectiva é do Ministério Público local onde ocorrer o dado, no caso, do Ministério Público do Estado de Pernambuco, local onde ocorreram as contratações irregulares.
+8. A razão para tanto é que, quando a investigação ocorrer no local em que o ato foi praticado, existe uma maior facilidade na coleta da prova, bem como de sua produção em juízo.
+9. Desse modo, não procede o argumento, do Ministério Público do Estado de Pernambuco, de que a investigação deve ser feita no local da sede da CBTU, empresa controladora da METROREC.
+10. Ante o exposto, o Ministério Público Federal manifesta-se pelo conhecimento do presente conflito para que seja reconhecida a atribuição do Ministério Público do Estado de Pernambuco para promover as medidas judiciais que considerar cabíveis.”
+2.  O art. 2º da Lei n. 7.347/85 é claro ao definir a competência, por ato de improbidade administrativa, do juízo do local onde ocorrer o dano. Segue-se daí que a atribuição para a propositura da ação, no caso, é do Ministério Público do Estado de Pernambuco.
+ Acolho o parecer ministerial para reconhecer a atribuição do Ministério Público do Estado de Pernambuco.
+ Publique-se.
+ Brasília, 29 de abril de 2010.
+Ministro Eros Grau
+- Relator -
