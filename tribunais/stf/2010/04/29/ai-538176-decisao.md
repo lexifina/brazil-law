@@ -1,0 +1,8 @@
+DECISÃO
+BENEFÍCIO PREVIDENCIÁRIO - EQUIVALÊNCIA SALARIAL - ARTIGO 58 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS - ALCANCE - RECURSO EXTRAORDINÁRIO - PROVIMENTO.
+1.  Na interposição deste agravo foram observados os pressupostos de recorribilidade. A peça, subscrita por procurador federal, veio acompanhada dos documentos previstos no artigo 544, § 1º, do Código de Processo Civil e restou protocolada no prazo em dobro a que tem jus o agravante. Quanto a arguição de violência ao artigo 58 do Ato das Disposições Transitórias da Carta de 1988, o preceito é suficientemente explícito ao revelar a manutenção do poder aquisitivo dos benefícios previdenciários por ele apanhados. Como parâmetro, tem-se a equivalência salarial, sendo o objetivo maior da norma a preservação do valor real, considerada a época da concessão. Logo, a operação a ser realizada diz respeito à divisão do valor do benefício, tal como deferido, por aquele representado pelo salário mínimo então vigente. Descabe introduzir no artigo 58 extensão que nele não se contém, a ponto de atualizar-se o benefício a partir da atualização das parcelas que lhe serviram de base. (Precedente: Recurso Extraordinário nº 199.994-2, julgado perante o Plenário em 23 de outubro de 1997).
+2.  Por tais razões, conheço deste agravo e o provejo, consignando o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Ante o precedente, aciono o disposto nos artigos 544, §§ 3º e 4º, e 557, § 1º-A, do Código de Processo Civil, e julgo, desde logo, o extraordinário, conhecendo-o e provendo-o para julgar improcedente, no particular, o pedido formulado na ação.
+3.  Publiquem.
+Brasília, 29 de abril de 2010.
+Ministro MARCO AURÉLIO
+Relator
