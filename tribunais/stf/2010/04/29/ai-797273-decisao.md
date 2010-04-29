@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. DESAPROPRIAÇÃO. DEFERIMENTO DE IMISSÃO NA POSSE. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido teve como objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“Ação de desapropriação. Decisão censurada que deferiu imissão provisória na posse a favor do agravado, comprovado o depósito da quantia ofertada, tendo ainda determinado a realização de perícia prévia. Agravo de instrumento da expropriada. Recurso que não merece prosperar. A imissão provisória foi deferida sob a condição resolutiva de complementação do depósito inicial, conforme apurar-se em avaliação preliminar. Assim, já estão resguardados os interesse da expropriada quanto à eventual alegação de insuficiência da oferta. Não cabe, por conseguinte, a revogação da imissão provisória necessária à instalação do Instituto Estadual de Ambiente – INFA. Agravo de instrumento a que se nega provimento” (fl. 100).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 191-292).
+4. A Agravante alega que teriam sido contrariados os arts. 5º, inc. II, XXIV, LIV e LV, e 93, inc. IX, da Constituição da República.
+Afirma que, no caso em espécie, teria ocorrido “nítida violação aos artigos epigrafados, uma vez que antes de o juízo aceitar e autorizar a imissão provisória da desapropriante na posse do imóvel, bem como o depósito oferecido pelo bem expropriando, deveria ter sido determinada e realizada a indispensável e prévia avaliação judicial provisória para apuração do respectivo valor” (fl. 147).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. Inicialmente, cumpre afastar a alegação de nulidade do acórdão por ofensa ao art. 93, inc. IX, da Constituição da República. Embora em sentido contrário à pretensão da Agravante, o acórdão recorrido apresentou suficiente fundamentação. E tal como se firmou na jurisprudência do Supremo Tribunal: “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+7. O Tribunal de origem decidiu a controvérsia à luz de legislação infraconstitucional. Eventual ofensa à Constituição, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário.
+Nesse sentido, os seguintes julgados:
+“ACÓRDÃO QUE DECIDIU A CONTROVÉRSIA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS CONSTITUCIONAIS TIDOS POR VIOLADOS. Caso em que ofensa à Carta da República, se existente, dar-se-ia de forma reflexa ou indireta, não ensejando a abertura da via extraordinária. Incidência das Súmulas 282 e 356 desta colenda Corte. Agravo desprovido” (AI 509.340-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJ 29.4.2005).
+“RECURSO EXTRAORDINÁRIO - ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - INVIABILIDADE DO APELO EXTREMO - RECURSO DE AGRAVO IMPROVIDO” (RE 436.942-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 26.3.2010).
+8. Ademais, o Supremo Tribunal Federal firmou o entendimento no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa reflexa à Constituição da República. Nesse sentido:
+“A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+Nada há, pois, a prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 29 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
