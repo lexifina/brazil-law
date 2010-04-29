@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por violação ao art. 40, § 8º, da Constituição Federal contra acórdão que reformou a sentença para julgar improcedente o pedido de reajuste de aposentadoria formulado por militares aposentados, em virtude do novo padrão remuneratório previsto na Lei Estadual 13.035/2000 (fls. 34-44).
+A Corte de origem assentou que o recorrente não demonstrou o desacerto do aresto impugnado, que, por outro lado, pautou-se na legislação local para apreciação do recurso (fls. 59-62).
+2.  Os agravantes, em síntese, alegam que a ofensa apontada foi claramente demonstrada. O Estado não incluiu os autores na reclassificação efetuada que extinguiu a graduação de 2º Tenente, e, portanto, nos termos do aludido dispositivo constitucional, é-lhes assegurado passar à graduação de 1º Tenente por ser a única mantida na carreira militar.
+3.  O presente agravo não merece prosperar. Para divergir da conclusão a que chegou o Tribunal a quo de que “a extinção da graduação de Segundo Tenente não importa o reenquadramento automático dos servidores inativos da graduação de Primeiro Tenente”, seria necessária a análise da legislação local em que se fundou o Tribunal de origem (Lei 13.035/2000), hipótese inviável em sede extraordinária, dado o óbice da Súmula STF 280. Assim foi decidido no RE 598.472/CE, rel. Min. Eros Grau, DJe 29.04.2009. No mesmo sentido, o AI 655.792- ED/RJ, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 08.02.2008.
+4.  Ademais, a jurisprudência do Supremo Tribunal Federal firmou entendimento de que servidor público não tem direito adquirido a regime jurídico, podendo ser reenquadrado em outro nível da carreira, ainda que tenha sido aposentado no último nível desta. Para ilustrar, veja-se o AI 567.067/PR, rel. Min. Joaquim Barbosa, DJe 1º.02.2010; e o AI 703.865-AgR/PR, de minha relatoria, 2ª Turma, unânime, DJe 11.12.2009.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 29 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
