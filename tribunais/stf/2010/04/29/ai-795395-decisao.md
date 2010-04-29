@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. 1) PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO CONSTITUCIONAL SUPOSTAMENTE CONTRARIADO: INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2) RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS. NECESSIDADE DE REEXAME DE PROVA: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Colégio Recursal do Juizado Especial da 38ª Circunscrição Judiciária de São Paulo:
+“A responsabilidade da concessionária de serviço público é objetiva. Se houve descarga na rede elétrica e, por força disso, aparelhos eletrodomésticos foram danificados, deve a concessionária do serviço de energia elétrica indenizar o prejudicado. As descargas elétricas, ainda que decorrentes de fatos naturais, são previsíveis e seus efeitos podem ser evitados. Sentença mantida, provimento negado” (fl. 136).
+Tem-se no voto condutor do julgado recorrido:
+“Há provas de que os aparelhos foram danificados por descarga elétrica e a Recorrente tem o monopólio no fornecimento da energia elétrica ao consumidor. Certamente, se não fosse pela deficiência de proteção da sua rede de fornecimento, os aparelhos não teriam sido danificados. É evidente o nexo causal entre o dano e a atividade econômica desenvolvida pela Recorrente.
+As descargas elétricas são previsíveis e seus efeitos são perfeitamente controláveis, de modo que não se pode, no caso específico, falar em fortuito ou força maior” (fl. 137 – grifos nossos).
+3. No recurso extraordinário, a Agravante afirma que o Juízo a quo “contrariou, direta e frontalmente, o preceito constitucional garantidor do equilíbrio econômico-financeiro do contrato de concessão, consagrado pelo artigo 175 da Carga Magna, combinado com o disposto na Lei das Concessões, Lei Federal n. 8.987/85, também com ofensa indireta ao art. 5º, incisos II, LIV e LV, da Constituição Federal” (fls. 145-146 – grifos nossos).
+Sustenta, ainda, contrariedade ao art. 93, inc. IX, da Constituição da República.
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de contrariedade direta à Constituição da República (fl. 156).
+A Agravante alega que estariam presentes os pressupostos para o regular processamento do recurso extraordinário.
+Examinada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. Os dispositivos suscitados no recurso extraordinário não foram objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+7. Para se concluir de modo diverso do julgado recorrido quanto à responsabilidade da Agravante pela indenização de danos materiais causados à Agravada seriam imprescindíveis o reexame de prova e a análise de legislação infraconstitucional, o que não viabiliza o recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO: DANOS MATERIAIS E MORAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 709.133-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009 – grifos nossos).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Danos materiais e morais. Indenização. Questão infraconstitucional. Matéria fática. Agravo regimental improvido. Súmula 279. Não cabe RE que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, nem tampouco que dependa de reexame de provas” (AI 581.555-ED-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 1º.9.2006 – grifos nossos).
+8. Nada há, pois, a prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 29 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
