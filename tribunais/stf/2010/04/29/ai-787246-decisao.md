@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS - INVIABILIDADE - DESPROVIMENTO DE AGRAVO.
+1.  O Tribunal de Justiça do Estado de Minas Gerais negou provimento a pedido formulado em apelação, ante fundamentos assim resumidos (folha 402):
+SERVIDORA ESTADUAL – AGENTE FISCAL – PRÊMIO POR PRODUTIVIDADE – LICENÇA MATERNIDADE – DIREITO À INTEGRALIDADE DA REMUNERAÇÃO – ART. 70 DA CR/88 – ART. 175 DO ESTATUTO DO SERVIDOR ESTADUAL – ART. 17 DA LEI COMPLEMENTAR ESTADUAL 64/2002. – O gozo de licença-meternidade é assegurado pela Constituição da República sem prejuízo do emprego e salário. O parágrafo 6º do art. 8º do Decreto Governamental 43.851/2004, que dispõe sobre o prêmio de produtividade, deve ser interpretado e aplicado segundo o princípio da hierarquia das normas e em atenção ao estabelecido nos art. 7º, XVIII da CR/88, art. 175 da Lei Estadual 869/52 (Estatuto do Servidor) e art. 17 da Lei Complementar Estadual 64/2002, que estabelecem a integralidade da licença-maternidade. – Não se reconhece o direito ao prêmio de produtividade à servidora que entrara em gozo de licença-maternidade antes, no mês e no mês seguinte ao mês de agosto de 2004, em que entrou em vigor o Decreto que dispõe sobre a referida gratificação, o que não ofende os textos retro-referidos, pois o salário maternidade foi então integral em relação ao que até então percebiam.
+ A Corte soberana no exame da lei local e dos fatos dela decorrentes registrou à folha 418:
+[...]
+Não chega a autora a usufruir anteriormente às respectivas licenças do prêmio de produtividade, pois antes a referida vantagem ainda não existia. Assim sendo, não lhe assiste direto ao pagamento pleiteado, já que antes não recebia gratificação, não havendo sequer como tomar qualquer parâmetro para o pagamento. Ademais, conforme ressaltado na sentença (f.269), os contracheques cerrados aos autos demonstram que houve pagamento do prêmio-produtividade relativo aos dias trabalhados.
+2.  A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+Para simples reexame de prova não cabe recurso extraordinário.
+As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+ Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se guindar a esta Corte matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de processo da competência da Corte.
+3.  Conheço do agravo e o desprovejo.
+4.  Publiquem.
+Brasília, 29 de abril de 2010.
+Ministro MARCO AURÉLIO
+Relator
