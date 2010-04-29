@@ -1,0 +1,19 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO – INEXISTÊNCIA DE VÍCIO – DESPROVIMENTO.
+1.  Por meio da decisão de folha 129, neguei provimento ao agravo, consignando:
+COMPETÊNCIA – JUSTIÇA DO TRABALHO – ACIDENTE DE TRABALHO – MATÉRIA SUMULADA – AGRAVO DESPROVIDO.
+1. O Pleno aprovou o Verbete nº 736 da Súmula, com a seguinte redação:
+Compete à Justiça do Trabalho julgar as ações que tenham como causa de pedir o descumprimento de normas trabalhistas relativas à segurança, higiene e saúde dos trabalhadores.
+2. Diante da sedimentação da jurisprudência, conheço do agravo e o desprovejo.
+3. Publiquem.
+Brasília, 31 de outubro de 2007.
+A embargante, nos declaratórios de folha 132 a 136, sustenta a inadequação do Verbete nº 736 da Súmula do Supremo ao caso em exame. Aduz ser a data do ajuizamento da ação o marco temporal para que se proceda ao deslocamento, da Justiça comum estadual para a Justiça do Trabalho, dos processos já em curso, quando da entrada em vigor da Emenda Constitucional nº 45/2004.
+A parte embargada, apesar de intimada, não apresentou contrarrazões (certidão de folha 139).
+2.  Na interposição destes embargos, foram observados os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente constituído (folhas 40 e 42), foi protocolada no prazo assinado em lei.
+ Não prospera a articulação da embargante. Na espécie, é importante destacar o que decidido pelo Supremo no Conflito de Competência nº 7.204-1/MG. Na oportunidade, reafirmei meu entendimento de que, mesmo antes da promulgação da Emenda Constitucional nº 45/2004, incumbia à Justiça do Trabalho julgar as ações que tivessem como causa de pedir a reparação ou indenização por dano moral e patrimonial decorrente de acidente do trabalho. Não estabelecia, como marco para a competência da Justiça trabalhista, a edição da referida emenda. Na sequência dos debates, o Ministro Sepúlveda Pertence ponderou que pouco “importava confessar que, desde 1988, descobriu que estava equivocado” quanto à fixação da competência da Justiça comum estadual para a solução de lides como a da espécie. Disse que, diante da antiga “orientação do Tribunal”, não caberia dar provimento a recurso extraordinário para desfazer processos de acidentes de trabalho em razão da nova visão do problema. Esse acertamento se fazia necessário porque cuidava-se de direito intertemporal e, só a partir da citada emenda, teria havido modificação da competência da Justiça comum estadual e da Justiça trabalhista. E concluiu: “fica o resto como obter dictum”. Da mesma forma restaram todas as demais teses discutidas, tanto assim que, na ata de julgamento, está expresso que o Tribunal conheceu do conflito e, por maioria, definiu “a competência da justiça trabalhista a partir da Emenda Constitucional nº 45/2004, para julgamento das ações de indenização por danos morais e patrimoniais decorrentes de acidente de trabalho”. Fiquei vencido, porquanto não apontava a edição da emenda constitucional como marco temporal para a competência da justiça trabalhista.
+ Na ementa do acórdão relativo ao exame do conflito de competência, contudo, consta a seguinte observação: “a nova orientação alcança os processos em trâmite pela Justiça comum estadual, desde que pendentes de julgamento de mérito. É dizer: as ações que tramitam perante a Justiça comum dos Estados, com sentença de mérito anterior à promulgação da EC 45/04, lá continuam até o trânsito em julgado e correspondente execução”. Esse o quadro, pois, na hipótese, não houve prolação de sentença de mérito.
+3.  Ante o exposto, ausente qualquer vício no julgado, conheço dos embargos de declaração e os desprovejo.
+4.  Publiquem.
+Brasília, 29 de abril de 2010.
+Ministro MARCO AURÉLIO
+Relator
