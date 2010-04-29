@@ -1,0 +1,15 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Pernambuco, o qual decidira que o recorrido possui direito líquido e certo a receber o soldo em valor não inferior ao mínimo legal definido pela Lei Estadual 11.216/95 (fls. 47/56).
+2.  O Estado de Pernambuco alega, no recurso extraordinário, ofensa aos artigos 7º, IV e VII; 37, caput, X e XV, da Constituição Federal, sustentando, em síntese, que o recorrido não tem direito a qualquer tipo de aumento ou revisão do valor de seus vencimentos tomando-se por base o salário mínimo (fls. 73-91).
+3.  Admitido o recurso, subiram os autos (fls. 103-104).
+4.  O recurso não merece prosperar. Preliminarmente, verifico que os dispositivos constitucionais, aos quais se alegou violação, não foram prequestionados, porque não abordados pelo acórdão recorrido, nem foram opostos embargos de declaração, não sendo satisfeito, portanto, o requisito do prequestionamento (Súmulas STF 282 e 356).
+5.  Ademais, o acórdão recorrido decidiu a questão dos autos com fundamento na legislação infraconstitucional aplicável à espécie (Lei Estadual 11.216/95). Assim, a alegada contrariedade à Constituição Federal, se houvesse, seria indireta, porquanto para verificar tal violação seria necessário analisar norma infraconstitucional local (Súmula STF 280).
+ Nesse sentido, o AI 409.009-AgR/PE, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 03.08.2007, que assim concluiu:
+“... os precedentes trazidos pelo agravante dizem respeito à vinculação do soldo ao salário mínimo, o acórdão recorrido decidiu que o soldo mínimo dos agravados deve ser de R$ 130,00 (cento e trinta reais) como previsto nominalmente na Lei est. 11.216/95, daí porque fiz incidir a Súmula 280, plenamente aplicável ao caso.”
+ Vejam-se, ainda, a respeito o AI 694.656-AgR/PE, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 13.03.2009; e 661.447-AgR/PE, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 28.09.2007, cujos acórdãos estão assim ementados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E ADMINISTRATIVO. POLICIAL MILITAR. VENCIMENTO BÁSICO DE REFERÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. LEI N. 11.216/95. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO ESTADUAL. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DAS SÚMULAS 280, 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” .................................................................................
+“ AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MILITAR. SOLDO. LEI N. 11.216/95. REEXAME DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL . 1. Controvérsia decidida à luz de legislação de direito local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. 2. Agravo regimental a que se nega provimento.”
+7.  Ante o exposto, com fundamento no art. 557, caput, do CPC, nego seguimento ao recurso.
+Publique-se.
+Brasília, 29 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
