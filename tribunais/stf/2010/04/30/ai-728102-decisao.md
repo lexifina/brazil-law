@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO - MATÉRIA FÁTICA - INVIABILIDADE - DESPROVIMENTO DO AGRAVO.
+1.  O Tribunal de Justiça do Estado de São Paulo acolheu parcialmente pedido formulado em apelação, ante fundamentos assim resumidos (folhas 80 e 81):
+1. AÇÃO ACIDENTÁRIA DO TRABALHO. INDENIZAÇÃO FUNDADA NO DIREITO COMUM. Sem embargo da intelecção desta Corte de Justiça no tocante à competência material exsurgente do comando da Emenda Constitucional nº 45/2004, por determinação do Colendo STF, aprecia-se o mérito recursal.
+2. ACIDENTE DO TRABALHO. AÇÃO DE INDENIZAÇÃO FUNDADA NO DIREITO COMUM. AMPUTAÇÃO DA FALANGE DISTAL DO POLEGAR E, TAMBÉM, A DO 3º QUIRODÁCTILO ESQUERDO. CULPA DA RÉ. DEMONSTRAÇÃO PELA AUSÊNCIA DAS OBJETIVAS DILIGÊNCIAS DE SEGURANÇA. INTELECÇÃO DO ART. 7º, INC. XXVIII, DA LEI MAIOR. RECURSO DA RÉ PROVIDO EM PARTE. Restou demonstrado que a ré, conquanto fornecesse os EPI’s, tais como botas, capacete e punho, agiu de forma culposa na figura de preposto seu, que acionou a máquina quando estava sendo consertada pelo autor.
+ACIDENTE DO TRABALHO. DIREITO COMUM. DANOS MORAIS. CABIMENTO. PEDIDO SUBSIDIÁRIO. REDUÇÃO DO QUANTUM PREFERENTE AOS SALÁRIOS QUE O OBREIRO PERCEBIA. DESCABIMENTO, PORQUANTO FIXADO DENTRO DOS CRITÉRIOS DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO DA RÉ PROVIDO EM PARTE. Não pode ser acolhida a assertiva que diz ser descabida a indenização a título de danos morais. Tampouco é de se acolher o pedido subsidiário, que pugna pela redução do quantum fixado. Em verdade, a quantia equivalente a 100 (cem) salários mínimos, mostra-se aceitável e atende aos salutares princípios da razoabilidade e da proporcionalidade. Consoante já temos decidido, à míngua de uma legislação tarifária, o Magistrado deve fixar a indenização a título de danos morais em tais moldes, que não seja exagerada, a ponto de implicar enriquecimento sem causa, nem tão mesquinha, que deixe de atingir o desiderato de desestímulo à prática do ato ilícito e lesivo a outrem e de compensação pela dor sofrida.
+2.  A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+Para simples reexame de prova não cabe recurso extraordinário.
+As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+3.  Conheço do agravo e o desprovejo.
+4.  Publiquem.
+Brasília, 30 de abril de 2010.
+Ministro MARCO AURÉLIO
+Relator
