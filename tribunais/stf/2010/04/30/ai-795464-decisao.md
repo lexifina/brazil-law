@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. POLICIAL CIVIL. DEMISSÃO. IMPOSSIBILIDADE DE VERIFICAÇÃO DA REGULARIDADE DO PROCEDIMENTO ADMINISTRATIVO. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO RECURSO. AGRAVO DO ARTIGO 557, § 1º, DO CÓDIGO DE PROCESSO CIVIL. MANUTENÇÃO DO PROVIMENTO JUDICIAL VERGASTADO” (fl. 10).
+2. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência na espécie das Súmulas 279, 282, 284 e 356 do Supremo Tribunal Federal, a circunstância de que “o acórdão recorrido, ao contrário do que se alega, encontra-se devidamente fundamentado” (fl. 41) e a ausência de ofensa direta à Constituição da República (fls. 36-43).
+3. O Agravante afirma que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXV, XL, XLVII, 41, § 1º, e 93, inc. IX, da Constituição da República.
+Argumenta que “a ação penal foi instaurada depois de extinta a punibilidade do agente e, em consequência, com manifesta violação do disposto no art. 43, inciso II, do CPP, que não admite a instauração da Ação Penal depois de extinta a punibilidade do agente pela prescrição ou outra causa, como também contrariando o princípio da coisa julgada, previsto no art. 5º, inciso XXXVI da CF” (fl. 5).
+Sustenta que “a sentença também não se afigura revestida do equilíbrio exigido por lei, tamanha a incompatibilidade entre a gravidade da pena primariamente sancionada, e a sua (digo), simplicidade de substituição pela prestação de serviços comunitários, secundariamente sentenciada na forma do art. 44 do CP” (fl. 5).
+Assevera que “nos seus arts. 322 e seguintes, o Dec. estadual n. 2479/79 também indica ora o Governador, ora o Secretário do Estado de Administração como competentes para presidir e julgar os PADs, donde a conclusão no sentido de que o Secretário de Estado de Segurança Pública ou a sua Corregedoria não tinha competência nem para instaurar e muito menos para presidir e julgar o processo responsável pela penalização do agravante” (fl. 7).
+Apreciada a matéria trazida na espécie, DECIDO.
+4. Razão jurídica não assiste ao Agravante.
+5. Inicialmente, cumpre anotar que não prospera a alegação de nulidade do acórdão por falta de fundamentação. O Tribunal a quo apreciou as questões suscitadas e fundamentou-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do Agravante.
+6. Na espécie vertente, a Terceira Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro manteve a decisão do Relator que assentou que:
+“Aduza-se que o afastamento do Autor nos quadros da [Polícia Civil] se deu após a regular instauração do respectivo procedimento disciplinar. Não restou comprovada a ocorrência de qualquer irregularidade que pudesse macular dito procedimento, quer na instauração, quer no desenvolvimento, quer na conclusão do mesmo, pelo que deve ser observada a presunção de legalidade que vige em favor do ato administrativo (...). A prova produzida em juízo, a respeito da inocência e do não envolvimento do Autor em atos reprováveis, deveria ser cabal. Ao contrário, não foi suficiente, nem mesmo o indiciariamente, para abalar a presunção de legalidade do ato vergastado que, por isso, incólume permanece, produzindo efeitos regulares” (fl. 12).
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria o reexame do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, conforme dispõe a Súmula 279 do Supremo Tribunal Federal.
+Confiram-se, a propósito, os seguintes julgados:
+“Recurso extraordinário: descabimento: controvérsia atinente à regularidade de procedimento administrativo e à violação dos princípios constitucionais do contraditório e da ampla defesa, a cujo deslinde seria necessário o revolvimento de matéria de fato e reexame de prova, aos quais não se presta o recurso extraordinário: incidência da Súmula 279” (AI 504.261-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJe 24.8.2007).
+E:
+“AGRAVO REGIMENTAL. POLICIAL MILITAR NÃO ESTÁVEL. LICENCIAMENTO. SINDICÂNCIA SUMÁRIA. Licenciamento de policial militar sem estabilidade pode resultar de procedimento administrativo mais simplificado, desde que respeitado o contraditório e a ampla defesa. Verificação da ocorrência do contraditório e da ampla defesa é discussão que demanda reexame de fatos e provas - vedação da Súmula 279. Agravo regimental a que se nega provimento” (AI 504.869-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 18.2.2005).
+E ainda:
+“AGRAVOS REGIMENTAIS NO RECURSO EXTRAORDINÁRIO. ATO ADMINISTRATIVO. CONTROLE JUDICIAL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. SÚMULA 279 DO STF. 1. É legítima a verificação, pelo Poder Judiciário, de regularidade do ato discricionário quanto às suas causas, motivos e finalidade. 2. A hipótese dos autos impõe o reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravos regimentais aos quais se nega provimento” (RE 505.439-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 29.8.2008).
+7. Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 30 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
