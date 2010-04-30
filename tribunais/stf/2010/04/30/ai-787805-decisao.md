@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por violação aos arts. 5º, II, e 37, X, da Constituição Federal contra acórdão no qual se discutiu o direito do autor à percepção da Gratificação de Gestão de Sistemas Administrativos, estatuída pela Lei Municipal 2.377/95 (fls. 118-123).
+ A Corte de origem assentou que a alegada ofensa a dispositivo constitucional, se existisse, seria indireta, porque precedida de afronta a preceito infraconstitucional, e que incide, no caso, o óbice da Súmula STF 280 (fls. 172-176).
+2.  O Município sustenta que houve equívoco no acórdão recorrido, “sendo certo que tais dispositivos não foram apreciados no v. acórdão, que, paradoxalmente, quedou-se omisso quanto ao seu exame e citação, ensejando a interposição de embargos declaratórios”. Afirma, ainda, que a Súmula STF 280 é inaplicável, uma vez que editada em momento anterior à promulgação da Carta Constitucional de 1988.
+3.  O presente agravo não merece prosperar. Inicialmente, as normas constitucionais alegadas como violadas não se encontram prequestionadas, porque não abordadas pelo acórdão recorrido e, embora tenham sido suscitadas na petição dos embargos de declaração a ele opostos (fls. 125-129), não foram apontadas oportunamente nas razões da apelação (fls. 86-91), não sendo satisfeito, assim, o requisito do prequestionamento (Súmulas STF 282 e 356).
+É pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142- AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.09.2001; e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+4.  Ademais, este Tribunal entende que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da ampla defesa e do contraditório, se existentes, seriam meramente reflexas ou indiretas, cujo exame se mostra inviável nesta sede recursal. Nesse sentido, o AI 372.358-AgR, rel. Min. Celso de Mello, 2ª Turma, DJ 28.06.2002.
+5.  Ressalte-se que, para o exame da alegada violação aos arts. 5º, II, e 37, X, da Constituição Federal, seria necessária a análise de legislação infraconstitucional local, hipótese inviável nesta instância recursal, dada a incidência da Súmula STF 636.
+6.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 30 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
