@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por violação aos arts. 5º, LV, e 129, IX, da Constituição Federal. A Corte de origem reconheceu que foram comprovados os danos materiais e morais causados em decorrência da má-prestação do serviço prestado pela ora agravante na locação aos autores de imóvel já contratado por terceiros (fls. 175-180).
+O Tribunal a quo asseverou que a questão constitucional não foi prequestionada (fls. 208-209).
+2.  A agravante sustenta a inconsistência da decisão agravada. A matéria referente à intervenção, no caso, do Ministério Público é de ordem pública e pode ser argüida a qualquer tempo, e a norma constitucional do inciso LV do art. 5º foi devidamente prequestionada, inclusive nos embargos de declaração.
+3.  Entretanto, o agravo não merece prosperar, porquanto ausente o requisito do prequestionamento. Com efeito, a matéria constitucional tida como violada não foi abordada pelo acórdão recorrido e, embora tenha sido suscitada na petição dos embargos de declaração a ele opostos (fls. 182-184), não foi apontada oportunamente nas razões do recurso inominado (fls. 158-167), não sendo satisfeito, assim, o requisito do prequestionamento (Súmulas STF 282 e 356).
+ É pacífica, na Suprema Corte, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142-AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.09.2001; e AI 335.182- AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+4.  Ademais, este Tribunal entende que, em regra, as alegações de desrespeito aos postulados do devido processo legal, da ampla defesa e do contraditório, se existentes, seriam meramente reflexas ou indiretas, cujo exame se mostra inviável nesta sede recursal. E, para modificar o acórdão recorrido, a pretexto de ofensa ao mencionado dispositivo constitucional, seria necessário o reexame de fatos e provas da causa (Súmula STF 279), hipótese inadmissível de apreciação em sede extraordinária.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 30 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
