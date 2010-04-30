@@ -1,0 +1,42 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INTIMAÇÃO DO ACÓRDÃO RECORRIDO APÓS 3.5.2007. DEMONSTRAÇÃO INSUFICIENTE DA REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+ Relatório
+1.  Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2.  O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Goiás:
+“AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. OBSERVÂNCIA AO ARTIGO 739-A, § 1º, DO CPC. SUSPENSÃO AÇÃO EXECUTIVA. CARÁTER EXCEPCIONAL.
+1. Tendo os embargos à execução natureza de ação, as normas a serem aplicadas devem ser aquelas vigentes à época de seu ajuizamento, pois, nesse momento, nasce para a parte o direito nelas inerente.
+2. Não havendo a presença dos requisitos exigidos pelo § 1º do art. 739-A do CPC, capazes de ensejar a suspensão do procedimento executivo, devem ser os embargos recebidos em conformidade com o referido dispositivo, ou seja, sem efeito suspensivo. RECURSO PROVIDO” (fl. 283 – grifos nossos).
+Tem-se no voto condutor do julgado recorrido:
+“Passo, então, à análise do mérito, o qual limita-se à ocorrência ou não de afronta ao artigo 739-A, § 1º, do CPC (Lei 11.382/06).
+Insta ressaltar que, em se tratando de direito intertemporal, a aplicação da lei processual no tempo se dá imediatamente, não atingindo apenas os atos já exauridos, em respeito ao princípio constitucional do direito adquirido (art. 5º, XXXVI).
+(...)
+Tal disciplina está prescrita no art. 1.211 do Código de Processo Civil, que assim dispõe:
+‘Art. 1.211 - Este Código regerá o processo civil em todo o território brasileiro. Ao entrar em vigor, suas disposições aplicar-se-ão desde logo aos processos pendentes’.
+(...)
+No caso em questão, a Lei 11.382/2006 entrou em vigor em 21/01/2007, sendo a ação executiva ajuizada em 24/11/2005 (fl. 148), ou seja, antes da vigência da referida lei. Porém, os embargos à execução foram opostos em 17/03/2008 (informação de fl. 228), já na sua vigência, sendo perfeitamente correta a aplicação da nova legislação aos atos praticados após a oposição dos referidos embargos à execução, de acordo com a sistemática dos atos isolados do processo civil.
+Concluo que deixar de aplicar a Lei nº 11.382/2006 às execuções já ajuizadas parece estar em desacordo com as normas de direito
+intertemporal aplicáveis ao processo civil brasileiro (CPC, art. 1.211).
+(...)
+Nesse diapasão, a fundamentação da decisão agravada de que versam os embargos sobre “suposta” inexigibilidade do título executivo (Cédula de Produto Rural) não é suficientemente convincente a ensejar a suspensão da ação executiva, pretendida pelos embargantes/agravados.
+Não há nos autos, elementos que comprovem a efetiva existência do "grave dano de difícil ou incerta reparação" advindo do prosseguimento da execução.
+Desta maneira, não havendo a presença dos requisitos exigidos pelo § 1º do art.739-A do CPC, capazes de ensejar a suspensão do procedimento executivo em questão, devem ser os embargos recebidos em conformidade com o art. 739-A, do CPC, ou seja, sem efeito suspensivo” (fls. 277-282 – grifos nossos).
+3. No recurso extraordinário, os Agravantes afirmam que o Tribunal a quo teria contrariado os arts. 5º, inc. XXII, XXXVI, LIV e LV, e 93, inc. IX, da Constituição da República.
+4.  A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta e a incidência das Súmulas 282 e 356 do Supremo Tribunal Federal (fls. 369-370).
+Os Agravantes alegam que a matéria versada no recurso extraordinário seria constitucional e estaria prequestionada.
+Analisada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste aos Agravantes.
+6. A intimação do acórdão recorrido ocorreu no dia 2.6.2009 (fl. 285), e, nos termos do que decidido pelo Supremo Tribunal Federal no Agravo de Instrumento 664.567-QO, Relator o Ministro Sepúlveda Pertence, Tribunal Pleno, “a exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007”.
+Entretanto, os Agravantes limitaram-se a afirmar que se verificaria “a presença do requisito inerente à repercussão geral, uma vez que a própria natureza da questão de direito posta em debate assume relevância no plano jurídico e político, posto se tratar da preservação do princípio da motivação das decisões judiciais, que certamente resguarda-se de relevância na órbita jurídico-constitucional” (fl. 331).
+7. O § 1º do art. 543-A do Código de Processo Civil dispõe que, “para efeito da repercussão geral, será considerada a existência, ou não, de questões relevantes do ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos da causa”. Não basta, portanto, dizer que o tema tem repercussão geral, sendo ônus exclusivo da parte recorrente demonstrar, com argumentos substanciais, que há na espécie relevância econômica, política, social ou jurídica.
+A insuficiência de fundamentação expressa, formal e objetivamente articulada pelos Agravantes para demonstrar, nas razões do recurso extraordinário, a existência de repercussão geral da matéria constitucionalmente arguida inviabiliza o exame do recurso.
+Assim, embora tenham mencionado a existência, na espécie vertente, de repercussão geral, os Agravantes não desenvolveram argumentos suficientes para cumprir o objetivo da exigência constitucional.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E TRIBUTÁRIO. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. INTIMAÇÃO DO RECORRENTE APÓS 3.5.2007. NECESSIDADE DE DEMONSTRAÇÃO FORMAL. TAXA DE ILUMINAÇÃO PÚBLICA E TAXA DE COLETA DE LIXO E LIMPEZA PÚBLICA DO MUNICÍPIO DO RIO DE JANEIRO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Repercussão geral da questão constitucional: demonstração insuficiente. 2. Atribuição de efeitos ex nunc: impossibilidade. Precedentes. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 703.803-AgR, de minha relatoria, Primeira Turma, DJe 20.2.2009 – grifos nossos).
+“Embargos de declaração em agravo de instrumento. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Apresentação expressa de preliminar formal e fundamentada sobre repercussão geral no recurso extraordinário. Necessidade. Art. 543-A, § 2º, do CPC. 4. Preliminar formal. Hipótese de presunção de existência da repercussão geral prevista no art. 323, § 1º, do RISTF. Necessidade. Precedente. 5. Ausência da preliminar formal. Negativa liminar pela Presidência no Recurso extraordinário e no agravo de instrumento. Possibilidade. Art. 13, V, c, e 327, caput e § 1º, do RISTF. 6. Agravo regimental a que se nega provimento” (AI 718.395-ED, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe 14.5.2009 – grifos nossos).
+“1. Embargos de declaração recebidos como agravo regimental. 2. Inobservância ao que disposto no artigo 543-A, § 2º, do Código de Processo Civil, que exige a apresentação de preliminar formal e fundamentada sobre a repercussão geral, significando a demonstração da existência de questões constitucionais relevantes sob o ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos das partes, em tópico destacado na petição de recurso extraordinário. 3. É imprescindível a observância desse requisito formal mesmo nas hipóteses de presunção de existência da repercussão geral prevista no art. 323, § 1º, do RISTF. Precedente. 4. A ausência dessa preliminar permite que a Presidência do Supremo Tribunal Federal negue, liminarmente, o processamento do recurso extraordinário, bem como do agravo de instrumento interposto contra a decisão que o inadmitiu na origem (13, V, c, e 327, caput e § 1º, do Regimento Interno do Supremo Tribunal Federal). 5. Agravo regimental desprovido” (AI 692.400-ED, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe 30.5.2008 – grifos nossos).
+8. Nada há, pois, a prover quantos às alegações do Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 30 de abril de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
