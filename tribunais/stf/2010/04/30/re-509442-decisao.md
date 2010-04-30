@@ -1,0 +1,11 @@
+1.  Trata-se de recurso extraordinário interposto pelo Ministério Público Federal contra acórdão do Tribunal Regional Federal da 5ª Região que negou provimento a agravo inominado contra decisão do Juízo Federal da 6ª Vara Federal de Pernambuco, o qual, em mandado de segurança, declinara, de ofício, da competência e determinara a remessa dos autos a uma das Varas Federais do Distrito Federal (fls. 171-174):
+2.  O recorrente alega violação ao art. 93, IX e ao art. 109, § 2º, da Constituição Federal, sustentando, em síntese, que a decisão recorrida carece de fundamentação e representa negativa de acesso à justiça, já que inviabiliza o acompanhamento da ação pelo impetrante do mandamus (fls. 191-197).
+3.  Admitido o recurso, subiram os autos (fls. 203-204).
+4.  O Ministério Público Federal manifestou-se pelo provimento do recurso (fls. 213-216).
+5.  No que tange à regra de competência prevista no artigo 109, §2º, da Constituição Federal, verifico que Corte de origem adotou entendimento contrário a jurisprudência pacífica da Suprema Corte, pertinente à aplicação do referido dispositivo, que faculta aos jurisdicionados a escolha para ajuizamento das ações contra a União, na seção judiciária de domicílio do autor, onde houver ocorrido o ato ou o fato que originou a demanda, pela situação do objeto litigioso ou, ainda, no Distrito Federal. Nesse sentido RE 484.235-AgR/MG, de minha relatoria, 2ª Turma, DJe 18.09.2009; Rcl 5.577-ED/RJ, rel. Min. Menezes Direito, Tribunal Pleno, DJe 21.08.2009; RE 232.472-AgR/SP, rel. Min. Eros Grau, DJe 15.08.2008 e RE 233.990/RS, rel. Min. Maurício Corrêa, DJ 01.03.2002.
+ Nesse mesmo sentido são os recentes precedentes: RE 234.059/AL, rel. Min. Menezes Direito, 1ª Turma, DJe 21.11.2008; RE 607.547/RJ, rel. Min. Ayres Britto, DJe 09.03.2010; RE 353.992/RS, rel. Min. Dias Toffoli, DJe 09.02.2010; RE 418.561/RJ, rel. Min. Joaquim Barbosa, DJe 02.02.2010; e RE 555.432/RJ, de minha relatoria, DJe 22.04.2009.
+6.  Ante o exposto, com fundamento no artigo 557, § 1º-A, do CPC, dou provimento ao recurso extraordinário para reconhecer a competência da Justiça Federal da Seção Judiciária de Pernambuco para processar e julgar a presente demanda.
+Publique-se.
+Brasília, 30 de abril de 2010.
+Ministra Ellen Gracie
+Relatora
