@@ -1,0 +1,24 @@
+1.  Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu pedido de liminar no habeas corpus anteriormente aforado perante o Superior Tribunal de Justiça sob o fundamento da inadmissibilidade do writ contra indeferimento do pedido de liminar na Corte Estadual.
+ A paciente foi presa pela suposta prática dos crimes previstos nos arts. 33 e 35 da Lei 11.343/2006 e 288 do Código Penal. O Juiz de Direito da 3ª Vara Judicial do Foro Distrital de Ferraz de Vasconcelos/SP indeferiu o pedido de revogação da constrição cautelar.
+ Contra tal decisão impetrou-se habeas corpus ao Tribunal de Justiça do Estado de São Paulo, que indeferiu o pedido de liminar. Irresignada, a defesa impetrou o HC 167.285/SP ao Superior Tribunal de Justiça. O pedido de liminar foi indeferido pela eminente Ministra Maria Thereza de Assis Moura.
+ Alega o impetrante, em síntese: a) possibilidade de abrandamento da Súmula 691/STF; b) falta de justa causa; c) inexistência dos pressupostos autorizadores da prisão preventiva; d) possibilidade de concessão de liberdade provisória; e) existência de circunstâncias favoráveis à paciente, como primariedade, bons antecedentes, ocupação lícita e residência fixa.
+ Nesses termos, requer a concessão de provimento liminar, para determinar a expedição do alvará de soltura (fls. 26-27).
+2.  A decisão impugnada pelo presente habeas corpus, da lavra da Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, foi proferida nos seguintes termos (fls. 196-201):
+“(...).
+A princípio, é importante salientar que a presente impetração se insurge contra decisão que indeferiu pleito liminar formulado em prévio writ, o que, a teor da jurisprudência desta Corte e do enunciado nº 691 da Súmula do Supremo Tribunal Federal, ensejaria, inclusive, o indeferimento liminar deste habeas corpus. Confiram-se, a propósito, os seguintes precedentes: HC 45.744/SE, Rel. Min. ARNALDO ESTEVES LIMA, DJ de 5/12/2005; HC 52.187/MS, Rel. Min. HÉLIO QUAGLIA BARBOSA , DJ de 15/5/2006.
+No presente caso, ao menos em um juízo de cognição sumária, entendo que não se justifica a atuação desta Corte Superior antes do julgamento do mérito do prévio writ pelo Tribunal de origem. Isto porque, da análise dos autos, pela leitura da decisão impugnada, primo oculi, não se verifica ilegalidade na manutenção da prisão cautelar do paciente, até porque a questão sobre a idoneidade da negativa de liberdade provisória com fulcro no artigo 44 da Lei nº 11.343/06 não se encontra pacificada no âmbito desta Corte.
+Vejam-se os seguintes precedentes da 5ª Turma:
+(...).
+Mister destacar, ainda, que a Terceira Seção deste Tribunal Superior, ao apreciar Questão de Ordem suscitada pelo Ministro Félix Fischer sobre a possibilidade da concessão de liberdade provisória em crimes de tráfico de entorpecentes, decidiu, por maioria de votos, negar a ordem de habeas corpus .
+É cediço que a concessão de liminar em habeas corpus, em razão de sua excepcionalidade, enseja a comprovação, de plano, do constrangimento ilegal apontado, o que não se verifica no caso em apreço.
+Ainda que assim não fosse, o que se pleiteia na cognição sumária se confunde com a matéria de fundo, cuja resolução demanda análise pormenorizada dos autos e julgamento pelo Órgão Colegiado, juiz natural da causa, consubstanciando-se em pedido eminentemente satisfativo, incabível na espécie, conforme já se decidiu nesta Corte:
+(...).
+Ante o exposto, indefiro a liminar”.
+ Com efeito, o ato impugnado encampou orientação jurisprudencial pacificada no âmbito do STJ no sentido do não-cabimento do writ contra indeferimento de pedido liminar em outro habeas corpus, salvo nos casos de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata, sob pena de supressão de instância (fl. 54).
+3.  Vale frisar, portanto, que o rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+4.  Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de dupla supressão de instância.
+5.  Ante o exposto, indefiro liminarmente o presente writ.
+   Publique-se.
+ Brasília, 3 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
