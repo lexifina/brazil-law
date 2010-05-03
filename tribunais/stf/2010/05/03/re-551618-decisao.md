@@ -1,0 +1,28 @@
+DECISÃO
+Vistos.
+Lucabel Comércio de Bebidas Ltda. interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+“MANDADO DE SEGURANÇA. CONSTITUCIONAL. TRIBUTÁRIO. LEI 9718/98. COFINS. BASE DE CÁLCULO. ALÍQUOTA. EMENDA CONSTITUCIONAL Nº 20/98. CONSTITUCIONALIDADE DA MAJORAÇÃO DE ALÍQUOTA RECONHECIDA PELO EXCELSO PRETÓRIO (REX nº 336134-RS). ARGÜIÇÃO DE INCONSTITUCIONALIDADE NA AMS Nº 1999.61.00.019337-6, REL. DES. CECÍLIA MARCONDES, REJEITADA PELO ÓRGÃO ESPECIAL. IMPOSIÇÃO DO “DECISUM” AOS ÓRGÃOS FRACIONÁRIOS DA CORTE. (RI, ART.176).
+I. O § 1º do art. 3º da Lei 9.718/98, em conceituando a receita bruta, base de cálculo da Cofins, veio de dilargá-la, desbordando de seu fundamento de validade, posto no art. 195, I, b da CF, com a redação dada pela E.C. nº 20/98, que elege, alternativamente, a receita, ou faturamento, como base de cálculo da exação.
+II. A lei tributária não pode desnaturar os institutos colhidos do direito privado (art. 110, CTN).
+III. Majoração de alíquota que não fere os princípios constitucionais da tributação, conforme assentado pelo Excelso Pretório (REX nº 336134-RS, Rel. Min. Ilmar Galvão).
+IV. Argüição de Inconstitucionalidade na AMS nº 1999.61.00.019337-6, Rel. Des. Cecília Marcondes, rejeitada pelo Órgão Especial em 26/06/2003, remanescendo hígida a normação impugnada, também quanto à base de cálculo (superada a questão pertinente à alíquota pelo STF, REX nº 336134-RS).
+V. Ressalvado o posicionamento desta Relatora, no que tange à base de cálculo da exação, é de se aplicar à espécie o “decisum” do Órgão Especial impositivo aos órgãos fracionários, “ex-vi” do art.176 do Regimento Interno desta Corte.
+VI. Apelação da Impetrante improvida” (fl. 299).
+Opostos embargos de declaração (fls. 302 a 311), foram rejeitados (fls. 314 a 319).
+A pretensão da recorrente fundamenta-se, em síntese, na inconstitucionalidade do artigo 3º, § 1º da Lei nº 9.718/98, que alterou a base de cálculo da COFINS, bem como do artigo 8º, do mesmo diploma legal, que majorou a alíquota da COFINS de 2% para 3%.
+Contrarrazões apresentadas (fls. 430 a 439), e recurso extraordinário admitido (fl. 442).
+Decido.
+Ressalte-se, inicialmente, que o Plenário deste Supremo Tribunal Federal, na sessão de 10/9/08, ao apreciar Questão de Ordem no Recurso Extraordinário nº 585.235/MG, Relator o Ministro Cezar Peluso, reconheceu a existência de repercussão geral da matéria referente à base de cálculo do PIS e da COFINS e reafirmou a jurisprudência desta Corte acerca do tema. Em 11/6/08, no exame da Questão de Ordem no Agravo de Instrumento nº 715.423/RS, da relatoria da Ministra Ellen Gracie, concluiu pela existência da repercussão geral do tema referente à majoração da alíquota da COFINS.
+A irresignação merece prosperar, em parte.
+Destaco que no julgamento do RE nº 527.602/SP, Redator para o acórdão o Ministro Marco Aurélio, o Plenário deste Supremo Tribunal Federal reafirmou a jurisprudência assentada no julgamento dos Recursos Extraordinários nºs 346.084/PR, Relator o Ministro Ilmar Galvão, DJ de 1º/9/06, e 357.950/RS, 358.273/RS e 390.840/SC, Relator o Ministro Marco Aurélio, DJ de 15/8/06, no sentido da constitucionalidade da majoração da alíquota da COFINS prevista no artigo 8º da Lei nº 9.718/98 e, também, quanto à inconstitucionalidade do artigo 3o, § 1o, da Lei nº 9.718/98, por entender que a ampliação da base de cálculo da contribuição ao PIS e da COFINS, na forma prevista no referido dispositivo legal, violou a redação original do artigo 195, inciso I, da Constituição Federal.
+Dessa forma, ao julgar constitucional a ampliação da base de cálculo da COFINS, promovida pelo artigo 3º, § 1º, da Lei nº 9.718/98, o Tribunal de origem divergiu da orientação fixada pelo Plenário desta Corte.
+Por outro lado, observo que não cabe a este Supremo Tribunal Federal a análise das questões referentes à prescrição, compensação e incidência de juros sobre o eventual crédito do contribuinte, por se tratar de temas circunscritos à legislação infraconstitucional. A propósito, confiram-se os seguintes julgados:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. COMPENSAÇÃO DE CRÉDITO TRIBUTÁRIO. NECESSIDADE DA ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 595.215/SC-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe de 30/4/10).
+“DIREITO TRIBUTÁRIO E CONSTITUCIONAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. COFINS. LEI 9.718/98. COMPENSAÇÃO DOS VALORES RECOLHIDOS A MAIOR. MATÉRIA INFRACONSTITUCIONAL.
+1. A compensação dos valores recolhidos indevidamente com outros tributos, bem como a incidência da prescrição, aplicação de correção monetária e juros de mora são questões de nítida natureza infraconstitucional. Incompatibilidade com a via extraordinária. Questões a serem dirimidas nas instâncias ordinárias.
+2. Embargos de declaração acolhidos sem modificação do julgado” (RE nº 387.316/PR-AgR-ED-ED, Relatora a Ministra Ellen Gracie, Segunda Turma, DJe de 18/12/09).
+Ante o exposto, nos termos do artigo 557, caput e § 1º-A, do Código de Processo Civil, conheço parcialmente o recurso extraordinário e, nessa parte, dou-lhe provimento para reformar o acórdão recorrido no que tange ao entendimento da ampliação da base de cálculo da COFINS, reafirmando a jurisprudência desta Corte no sentido da inconstitucionalidade do artigo 3º, § 1º, da Lei nº 9.718/98. Sem condenação em honorários, nos termos da Súmula nº 512/STF. Custas ex lege.
+Publique-se.
+Brasília, 3 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
