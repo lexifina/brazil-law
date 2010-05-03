@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, nos autos de ação de execução fiscal, que deu provimento ao recurso de apelação do Estado de São Paulo, ora recorrido, no qual se discutia a respeito de multa ambiental (queima de palha de cana-de-açúcar) aplicada pela CETESB, nos termos da Lei 6.830/80, em razão de convênio firmado entre a Procuradoria-Geral do Estado e a Secretaria do Meio Ambiente.
+2.  Nas razões do RE, sustenta-se ofensa aos artigos 22, II, e 173, § 1º, II, da Constituição Federal, pleiteando o reconhecimento da ilegitimidade de parte ativa do Estado de São Paulo (fl. 288).
+ A recorrente alega que “a sociedade de economia mista, e a CETESB é uma delas, não poderá valer-se de interposta pessoa de direito público, no caso a Fazenda do Estado, para cobrar seu crédito, mormente através da execução forçada, prevista na Lei n. 6.830/80, sob pena de afronta, principalmente, ao art. 173, § 1º, II, da Constituição Federal” (fl. 286).
+3.  Pela fundamentação do acórdão recorrido, sabe-se que “a CETESB é sociedade de economia mista controlada pelo Estado e exerce, dentro do plano de descentralização, atividades de natureza administrativa. Não é empresa que explore ‘atividade econômica de produção ou comercialização de bens ou de prestação de serviços’ e a sujeição ao regime jurídico próprio das empresas privadas (CF, art. 173 § 1º inciso II) não impede, quando no desempenho de atividade delegada do Estado, a elaboração de convênio para cobrança das multas administrativas pela Procuradoria Geral do Estado” (fl. 239).
+ O Tribunal de origem tratou da questão referente à utilização ou não da Lei 6.830/80 para a cobrança de multa aplicada por sociedade de economia mista delegatária de serviço público estatal. Assim, eventual ofensa à Constituição Federal, se existente, seria meramente indireta ou reflexa, o que inviabiliza o trânsito do recurso extraordinário.
+ Nesse sentido, aponto decisões nas quais foram enfrentados casos idênticos aos dos autos: AI 691.937/SP, rel. Min. Cármen Lúcia, DJe 30.06.2009; e AI 692.444/SP, de minha relatoria, DJe 17.02.2010.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 03 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
