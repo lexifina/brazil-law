@@ -1,0 +1,19 @@
+Trata-se de agravo regimental interposto contra decisão que não conheceu do recurso extraordinário.
+Eis o teor da decisão agravada:
+“Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho que negou provimento a agravo de instrumento em recurso de revista, com base no art. 896, § 2º, da CLT sob o fundamento de não foi demonstrada ofensa direta ao texto constitucional.
+Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, ofensa ao art. 157, I, da mesma Carta.
+A pretensão recursal não merece acolhida. É que os Ministros desta Corte, no RE 598.365-RG/MG, Rel. Min. Carlos Britto, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca dos pressupostos de admissibilidade de recursos da competência de Cortes diversas, por entender que a discussão tem natureza infraconstitucional, decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+Isso posto, não conheço do recurso (CPC, art. 543-A, § 5º)” (fl. 109).
+O agravante sustentou, em suma, que a decisão agravada deve ser reformada, ao argumento de que a matéria em discussão é constitucional e insistiu, dessa forma, no processamento do recurso extraordinário.
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que o recorrente não aduz novos argumentos capazes de afastar as razões nela expendidas, que devem ser mantidas por seus próprios fundamentos.
+Em que pese à irresignação do agravante, trata-se de recurso totalmente inadmissível, tendo em vista o efeito vinculante da decisão que nega a existência de repercussão geral, conforme dispõe o § 5º do art. 543-A do CPC.
+Por fim, observe-se que este Tribunal tem reconhecido a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal, a exemplo do MS 27.506/DF, Rel. Min. Celso de Mello:
+"A legitimidade jurídica desse entendimento - que vem sendo observado na prática processual desta Suprema Corte (MS 27.649, Rel. Min. CEZAR PELUSO - MS 27.962, Rel. Min. CELSO DE MELLO, v.g.) - decorre da circunstância de o Relator da causa, no desempenho de seus poderes processuais, dispor de plena competência para exercer, monocraticamente, o controle das ações, pedidos ou recursos dirigidos ao Supremo Tribunal Federal, justificando-se, em consequência, os atos decisórios que, nessa condição, venha a praticar (RTJ 139/53 - RTJ 168/174-175 - RTJ 173/948), valendo assinalar, quanto ao aspecto ora ressaltado, que o Plenário deste Tribunal, em recentíssima decisão (25/03/2010) reafirmou a possibilidade processual do julgamento monocrático do próprio mérito da ação de mandado de segurança, desde que observados os requisitos estabelecidos no art. 205 do RISTF, na redação dada pela Emenda Regimental nº 28/2009” (grifos no original).
+Na mesma linha, o MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão, e o MS 27.236-AgR/DF, de minha relatoria.
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 4 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
