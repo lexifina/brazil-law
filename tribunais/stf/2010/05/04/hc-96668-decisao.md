@@ -1,0 +1,7 @@
+DECISÃO: Habeas corpus em que se discute a possibilidade de desmembramento do processo, com fundamento no art. 80 do CPP, em relação ao paciente, deputado estadual, denunciado junto a co-réu cujo foro por prerrogativa de função é o STJ.
+2.  O Superior Tribunal de Justiça, em recente decisão na Ação Penal n. 539, Relator o Ministro Francisco Falcão, DJe de 17.8.09 [consulta realizada no sítio do STJ], entendeu que “dada a multiplicidade de denunciados e motivo relevante residente no fato da possibilidade de, nas condições citadas, procrastinar-se feito em que há denunciado preso, além da clara possibilidade de transcurso do prazo prescricional durante a instrução criminal, determino o desmembramento da presente ação penal, extraindo-se cópia integral dos autos que serão encaminhadas ao E. Tribunal de Justiça do Estado do Mato Grosso (competente para processar e julgar o réu J G R, enquanto detentor de mandato parlamentar estadual) e a uma das varas criminais da Comarca de Cuiabá (competente para processar e julgar os demais denunciados) para que prossigam no processamento do feito em relação àqueles que não possuem prerrogativa de foro perante esta Corte, mantendo-se, aqui, o feito apenas em relação ao denunciado H M B, Conselheiro do Tribunal de Contas do Estado do Mato Grosso”.
+ Com fundamento no art. 21, inciso IX, do RISTF, tendo em vista a superveniente perda do objeto, julgo prejudicado o writ.
+Publique-se.
+Brasília, 4 de maio de 2010.
+Ministro Eros Grau
+- Relator -
