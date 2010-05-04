@@ -1,0 +1,20 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao recurso extraordinário, sob o entendimento de que a eventual ofensa à Constituição, no caso, seria apenas indireta.
+O agravante sustentou, em suma, que os dispositivos infraconstitucionais pertinentes ao caso foram aplicados em desacordo com a Constituição Federal.
+Alegou, ainda, ofensa ao princípio da segurança jurídica, visto que foi suprimida da sua remuneração vantagem recebida há mais de 17 anos.
+Por fim, aduziu que os inativos fazem jus à extensão do direito à acumulação de quintos incorporados com a vantagem funcional prevista no art. 184, II, da Lei 1.711/52.
+Bem reexaminada a questão, verifica-se que a decisão não merece reforma, visto que o agravante não aduziu novos argumentos capazes de afastar as razões nela expendidas.
+Consoante assentado na decisão agravada, a controvérsia dos autos situa-se em âmbito infraconstitucional, conforme se observa da ementa do acórdão recorrido a seguir transcrita:
+“SERVIDOR PÚBLICO. INATIVO. VANTAGENS PECUNIÁRIAS. ACUMULAÇÃO.
+Para os servidores públicos aposentados sob o regramento das Leis nºs 1.711/52 e 6.732/79, há óbice expresso no sentido de acumulação da vantagem dos quintos (Lei 6.732/79, arts. 2º e 5º) com as de aposentadoria (Lei nº 1.711/52, arts. 180 e 184)” (fl. 137).
+Assim, a ofensa à Constituição, se ocorrente, seria meramente reflexa, o que inviabiliza o recurso extraordinário. Nesse sentido, além dos precedentes já mencionados na decisão impugnada, destaco, ainda, os seguintes: RE 430.876/RS, Rel. Dias Toffoli; RE 414.780/RS, de minha relatoria; RE 412.838/RN, Rel. Min. Joaquim Barbosa, e RE 380.378-AgR/RS, Rel. Min. Cármen Lúcia, cuja ementa segue transcrita:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. CÁLCULO DE PROVENTOS. ACUMULAÇÃO DE QUINTOS E VANTAGENS. ART. 192 DA LEI N. 8.112/1990. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+Por fim, observe-se que este Tribunal tem reconhecido a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal, a exemplo do MS 27.506/DF, Rel. Min. Celso de Mello:
+"A legitimidade jurídica desse entendimento - que vem sendo observado na prática processual desta Suprema Corte (MS 27.649, Rel. Min. CEZAR PELUSO - MS 27.962, Rel. Min. CELSO DE MELLO, v.g.) - decorre da circunstância de o Relator da causa, no desempenho de seus poderes processuais, dispor de plena competência para exercer, monocraticamente, o controle das ações, pedidos ou recursos dirigidos ao Supremo Tribunal Federal, justificando-se, em consequência, os atos decisórios que, nessa condição, venha a praticar (RTJ 139/53 - RTJ 168/174-175 - RTJ 173/948), valendo assinalar, quanto ao aspecto ora ressaltado, que o Plenário deste Tribunal, em recentíssima decisão (25/03/2010) reafirmou a possibilidade processual do julgamento monocrático do próprio mérito da ação de mandado de segurança, desde que observados os requisitos estabelecidos no art. 205 do RISTF, na redação dada pela Emenda Regimental nº 28/2009” (grifos no original).
+Na mesma linha, o MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão, e o MS 27.236-AgR/DF, de minha relatoria.
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 4 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
