@@ -1,0 +1,21 @@
+DECISÃO: 1. Trata-se de pedido de suspensão de segurança, ajuizado pelo Estado do Amazonas, contra acórdão proferido pelo Tribunal de Justiça daquela unidade da Federação, nos autos do mandado de segurança nº 2004.002587-4.
+A impetração foi formulada, em síntese, com o objetivo de assegurar o direito à percepção da quantia de R$ 900,00 (novecentos reais) atribuída à função de Chefia de Seção AD-3, nível 9, dantes denominada GF-4, incorporada pelas impetrantes, ora aposentadas. É o que se vê à cópia da petição do mandado de fl. 28:
+“Não pode ser postergado o direito das impetrantes, mesmo porque há pareceres e decisões favoráveis e a Douta autoridade coatora, em atitude de descaso com as inativas tudo ignorou e ignora, atropelando assim o mandamento estatuído no § 8º, art. 40, da CF/88, deixando de pagar as Impetrantes o valor de R$ 900,00 (novecentos reais) correspondente à gratificação de Chefe de Seção AD-3, nível 09, de inquestionável certeza, conforme se verifica no Decreto nº 23.219/2003, em seu anexo único – doc. 12”.
+O Tribunal de Justiça deferiu a medida liminar, e ao final, concedeu a ordem:
+“MANDADO DE SEGURANÇA. SERVIDORAS PÚBLICAS APOSENTADAS. VENCIMENTO. GRATIFICAÇÃO ADQUIRIDA NA APOSENTADORIA E NÃO AGRUPADAS AOS VENCIMENTOS DAS IMPETRANTES. POSSIBILIDADE ANTE O PRINCÍPIO DO DIREITO ADQUIRIDO. SEGURANÇA CONCEDIDA.
+I – Estabelecida vantagens por lei, é devida sua atualização, sob pena de ofensa aos princípios constitucionais, do direito adquirido e da divisão funcional do poder.
+II – Segurança concedida” (fl. 79).
+O Estado interpôs recurso extraordinário contra o acórdão aqui impugnado (fls. 104-123).
+Em seguida, o Estado do Amazonas formulou o presente pedido de suspensão, argüindo, em síntese, a) risco de grave lesão à ordem e à economia públicas; b) ocorrência do denominado “efeito multiplicador” e c) desrespeito ao regime constitucional que veda vinculação de vencimentos.
+2.  É caso de suspensão.
+De acordo com o regime legal de contracautela (Leis nos 12.016/09, 8.437/92, 9.494/97 e art. 297 do RISTF), compete a esta Presidência suspender execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+A cognição do pedido exige, contudo, demonstração da natureza constitucional da controvérsia (cf. Rcl nº 497-AgR, Rel. Min. CARLOS VELLOSO, Plenário, DJ de 06.4.2001; SS nº 2.187-AgR, Rel. Min. MAURÍCIO CORRÊA, DJ de 21.10.2003 e; SS nº 2.465, Rel. Min. NELSON JOBIM, DJ de 20.10.2004).
+Está preenchido o requisito, pois em jogo, aqui, suposta violação ao art. 5º, XXXVI da Constituição da República, que teria sido afrontado pelo Tribunal de Justiça local ao atualizar a vantagem pleiteada. Não há dúvida, portanto, de que a matéria discutida na origem se reveste de índole constitucional.
+ A interpretação sistemática da Lei nº 12.016, de 7 de agosto de 2009, não deixa dúvida da inaplicabilidade de execução provisória de decisão judicial em mandado de segurança que tenha por objeto a compensação de créditos tributários, a entrega de mercadorias e bens provenientes do exterior, a reclassificação ou equiparação de servidores públicos e a concessão de aumento ou a extensão de vantagens ou pagamento de qualquer natureza (cfr. § 2° do art. 7° c/c o § 3.° do art. 14). Em outras palavras, as decisões concessivas de segurança com tais objetos somente podem ser executadas após o trânsito em julgado.
+ Em consulta aos andamentos processuais nos sítios eletrônicos do Superior Tribunal de Justiça e do Tribunal de Justiça local, verifico que o acórdão ora impugnado não transitou em julgado e, portanto, não pode ser executado provisoriamente, porquanto concedeu às impetrantes aumento de vantagens ( atualização de gratificação intitulada GATA).
+3.  Nestes exatos termos, defiro o pedido, para suspender os efeitos do acórdão prolatado pelo Tribunal de Justiça do Estado do Amazonas, nos autos do mandado de segurança nº 2004.002587-4.
+Publique-se. Intime-se
+ Exp. com urgência telex e ofício ao Tribunal de Justiça do Amazonas, para que cumpra esta decisão imediatamente.
+Brasília, 4 de maio de 2010.
+Ministro CEZAR PELUSO
+Presidente
