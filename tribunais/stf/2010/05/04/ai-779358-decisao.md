@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário contra acórdão proferido pela 4ª Turma Recursal Cível de Juiz de Fora/MG, o qual manteve a sentença de 1º grau, pelos seus próprios fundamentos (fl. 106).
+A sentença analisou o pedido inicial de restituição em dobro do valor pago a título de estacionamento, bem como de indenização por dano moral decorrente do uso de estacionamento do supermercado de propriedade do agravado, e julgou a ação improcedente, ao concluir pela inexistência de ato ilícito (fls. 54-60).
+2.  A Corte de origem asseverou que “as razões articuladas não se enquadram nas hipóteses contidas nos arts. 541 do CPC e 102, III da CR/88” (fl. 13).
+3.  O agravo não merece prosperar. Inicialmente, quanto à alegação de ofensa ao art. 5º e seus incisos, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065- AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+4.  Ressalte-se que esta Corte fixou o entendimento segundo o qual a análise sobre a indenização por danos morais limita-se ao âmbito de interpretação de matéria infraconstitucional, cujo exame se mostra inviável nesta sede recursal. Ademais, rever a decisão da instância a qua, para concluir de modo diverso, implicaria o reexame de fatos e provas, o que é vedado em sede extraordinária (Súmula STF 279). Para ilustrar, cito o RE 558.036-AgR/RJ, rel. Min. Eros Grau, 2ª Turma, DJ 09.05.2008; e o AI 655.792-ED/RJ, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 08.02.2008.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 04 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
