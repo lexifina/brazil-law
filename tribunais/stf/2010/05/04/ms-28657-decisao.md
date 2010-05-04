@@ -1,0 +1,21 @@
+DECISÃO: Mandado de segurança impetrado por Salete Gomes de Mendonça Santos, Escrivã do Cartório de Registro Civil da Cidade de Lucena-PB, contra ato do Corregedor Nacional de Justiça consubstanciado na inclusão daquele cartório em relação provisória de serventias extrajudiciais consideradas vagas.
+2. O Conselho Nacional de Justiça editou a Resolução n. 80, que declarou a vacância dos serviços notariais e de registro ocupados em desacordo com os preceitos constitucionais atinentes à matéria, estabelecendo regras para o período de transição e organização das vagas destinadas ao provimento por concurso público.
+3. O Tribunal de Justiça do Estado de Pernambuco em cumprimento ao disposto no § 1º do artigo 1º da mencionada resolução, elaborou a lista das delegações vagas, remetida ao CNJ.
+4. O Corregedor Nacional de Justiça organizou as listas encaminhadas pelos Tribunais de Justiça dos Estados e do Distrito Federal e publicou a “Relação Provisória de Vacâncias” [art. 2º da Resolução 80].
+5. Os atuais responsáveis pelas serventias constantes da relação provisória foram intimados pessoalmente para impugnar a mencionada relação.
+6. A impetrante sustenta que “o ato da autoridade coatora, com base na Resolução nº 80 do CNJ, que declarou a vacância dos serviços notariais e de registro, infligiu a(o) Impetrante a perda de delegação, é nulo porque o impetrado não dispõe de competência para imposição dessa pena, eis que somente a tem o Poder Executivo” [fls. 24].
+7. Alega que “tem seu ato de nomeação para o exercício da titularidade da serventia extra judicial ameaçado, foi nomeada há mais de 14 (quatorze) anos. Malgrado a eiva de vicio que recai sobre as admissões em causa, não existe plausibilidade jurídica para o seu desfazimento, porquanto a doutrina dominante entende que a prescrição administrativa, também chamada prescrição quinquenal, abrange tanto o ato nuIo quanto o ato anulável” [fls. 9].
+8. Requer a concessão de medida liminar, “para determinar que a autoridade coatora exclua o CARTÓRIO DE REGISTRO CIVIL DA COMARCA DE LUCENA PB, com nº. no CNS 069989, de titularidade da Impetrante, da declaração das serventias vagas, bem como, que não indique o Ofício mencionado para realização de concurso público, até a decisão final deste writ” [fls. 40].
+9. No mérito, pede a concessão da ordem, para confirmar a medida liminar, declarando-se, incidentalmente, a inconstitucionalidade da Resolução n. 80.
+10. É o relatório. Decido.
+11. O ato da Corregedoria Nacional de Justiça consubstancia mera compilação das listas encaminhadas pelos Tribunais de Justiça dos Estados e do Distrito Federal e Territórios.
+12. O artigo 2º da Resolução n. 80/CNJ estabelece que, “[r]ecebidas as listas encaminhadas pelos tribunais, na forma do artigo 1º e seus parágrafos, a Corregedoria Nacional de Justiça organizará a Relação Provisória de Vacâncias” [grifei].
+13. A “Relação Provisória de Vacâncias” das serventias extrajudiciais vagas confere publicidade às informações prestadas pelos Tribunais de Justiça, ensejando impugnação, a ela, pelos interessados. O ato que declara vaga a delegação é do Tribunal de Justiça do Estado da Paraíba.
+14. Em mandado de segurança análogo ao presente, o Ministro CARLOS BRITTO observou que a impetração objetiva a impugnação de atos praticados no âmbito de tribunal local. Diz ele: “ou seja, não foram os atos do Conselho Nacional de Justiça que acarretaram a iminente outorga do 2º Ofício da Comarca de Linhares a candidato aprovado em concurso público realizado pelo TJES em 2006. Daí a incompetência deste nosso Supremo Tribunal Federal para processar esta ação” [MS 28.621, Relator o Ministro AYRES BRITTO, DJe de 2.3.2010].
+15. O ato que violaria direito líquido e certo da impetrante não foi praticado pelo Corregedor Nacional de Justiça. Esse ato apenas dá publicidade do que lhe fora informado pelo Tribunal de Justiça de Pernambuco. Não há, ao menos neste momento, ato administrativo emanado da autoridade apontada como coatora a ameaçar eventuais direitos da impetrante.
+              Nego seguimento à impetração, com fundamento no art. 21, § 1º, do RISTF.
+              Publique-se.
+              Arquivem-se os autos.
+              Brasília, 4 de maio de 2010.
+Ministro Eros Grau
+- Relator -
