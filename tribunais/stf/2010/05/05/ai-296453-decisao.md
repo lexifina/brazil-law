@@ -1,0 +1,31 @@
+DECISÃO
+Vistos.
+GERALDA ALVES E OUTROS interpõem recurso extraordinário (folhas 191 a 198) contra acórdão proferido pela Segunda Câmara “Julho/97”, de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“Embargos Infringentes.
+1. Recálculo dos vencimentos de servidores municipais de São Paulo, por força do artigo 7º da Lei Municipal nº 10.430/88.
+2. Diferencial mínimo entre referências e graus na escala.
+3. O Judiciário pode adequar os reajustes concedidos por decretos municipais, válidos e que apenas devem ser consertados na parte em que agridam o ordenamento normativo.
+4. Embargos Infringentes recebidos, por maioria” (fl. 185).
+Insurgem-se, no apelo extremo, fundado na alínea “a” do permissivo constitucional, contra alegada contrariedade aos artigos 7º, inciso VI, 37, inciso XI e 39 caput e § 2º, da Constituição Federal, em razão de ter sido rejeitada parte das pretensões deduzidas pelas recorrentes nestes autos.
+O recurso foi contra-arrazoado (folhas 200 a 203) e inadmitido, na origem (folha 204 a 212), ensejou a interposição do presente agravo.
+O recurso especial paralelamente interposto já foi definitivamente rejeitado pelo Superior Tribunal de Justiça (folhas 222 a 224).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 3/7/98, conforme expresso na certidão de folha 190, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+E isso porque a análise acerca da alegada violação dos princípios constitucionais objetos do presente recurso demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como de normas infraconstitucionais utilizadas na fundamentação da decisão recorrida, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõe a Súmula 279 do STF.
+De fato, assim dispôs a decisão atacada:
+“E, depois de dissecar o espírito desse artigo 7º da Lei Municipal nº 10.430/88, submetendo-o ao exame da contrariedade com os artigos 37, inciso XI e 169 da Constituição da República, e 17 do ADCT dessa mesma Carta Magna, concluindo inexistir qualquer ofensa àqueles regramentos constitucionais, culmina por assentar da ilegalidade, apenas parcial daqueles decretos números 28.206/89 e 28.289/89, assentou:
+‘Já os decretos que concedem reajustes, ainda que por antecipação de vencimentos, são igualmente válidos e apenas devem ser consertados na parte em que agridem o ordenamento normativo, isto é, na medida em que deixam de levar em conta os 10% da diferença referencial ou daquela relativa aos graus. NÃO PODE SER ACEITA, ‘data venia’ A AFIRMAÇÃO DE QUE A ILEGALIDADE DOS DECRETOS HAVERIA DE ATINGI-LOS POR INTEIRO, DE SORTE QUE NÃO SERIA DEVIDO QUALQUER AUMENTO SALARIAL’. (As versais e os grifos não são do original).
+3.2 O decreto regulamentador há que se ajustar à lei, sob pena de ilegalidade; na parte em que beneficia ou estende direitos; sem ofensa à Lei Maior, prevalece pelo princípio ‘in bonam partem’; daí não se admitir a pretendida compensação na forma argüida no item III da peça contestatória, prevalecendo aquela ditada pela r. Sentença, fundada no Decreto 33.060/93, quando teria se estadeado o restabelecimento das diferenças, em cumprimento aquele artigo 7º da Lei Municipal nº 10.430/88” (fls. 187/188).
+No sentido dessa conclusão, citem-se os seguintes precedentes:
+“Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Falta de prequestionamento de dispositivos constitucionais. Matéria que não foi abordada nas razões de apelação ou mesmo em embargos declaratórios. Agravo regimental a que se nega provimento” (AI nº 491.543/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 29/6/07).
+“O acórdão recorrido decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa. 2. Decidir de maneira diferente do que deliberado pelo tribunal a quo demandaria o reexame de fatos e provas da causa, ante a incidência da Súmula STF 279. 3. Agravo regimental improvido” (RE nº 544.373/ES-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 7/8/09).
+Aliás, os próprios recorrentes parecem reconhecer essa situação, na medida em que em suas razões de apelo extremo, fazem menção à específica situação de alguns dos diversos autores da demanda, para aduzir que, com relação a eles, dispositivos de normas locais do Município de São Paulo não estariam sendo cumpridos, situação essa de inviável análise no âmbito de um recurso como o presente.
+E, em hipóteses em que se discute a legitimidade de partes em um dado processo, citem-se as ementas dos seguintes precedentes:
+“RECURSO. Extraordinário. Inadmissibilidade. Previdenciário. Pensionista da FEPASA. Complementação de pensão. RFFSA. Legitimidade passiva. Questão infraconstitucional. Ofensa constitucional indireta. Agravo regimental não provido. Súmulas 280, 454 e 636. A questão relativa à legitimidade da RFFSA, para responder pela complementação de benefício de pensionistas da extinta FEPASA, é infraconstitucional, dependente, também, de reexame de cláusulas contratuais, o que não é admitido em recurso extraordinário, aplicando-se quanto ao princípio da legalidade a súmula 636 (...)” (AI nº 479.652/SP-AgR, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 15/10/04).
+          “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. LEGITIMIDADE ATIVA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO’ (AI nº 644.049-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 20/6/08).
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Brasília, 5 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
