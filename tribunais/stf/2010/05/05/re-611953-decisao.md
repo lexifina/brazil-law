@@ -1,0 +1,25 @@
+Trata-se de recurso extraordinário interposto contra acórdão que assegurou aos autores o piso salarial no valor de oito e meio salários mínimos fixado em sentença transitada em julgado antes da Constituição Federal de 1988. O acórdão impugnado foi assim ementado:
+“CONSTITUCIONAL E ADMINISTRATIVO – SERVIDOR PÚBLICO CELETISTA – PISO SALARIAL – MULTIPLOS DE SALÁRIOS MÍNIMOS – FIXAÇÃO POR SENTENÇA TRANSITADA EM JULGADO – TRANSFERÊNCIA POSTERIOR PARA O REGIME ESTATUTÁRIO – INOPONIBILIDADE DO REGIME CONSTITUCIONAL SUPERVENIENTE À EFICÁCIA DA COISA JULGADA QUE SE OPEROU AINDA NA VIGÊNCIA DA ORDEM CONSTITUCIONAL REVOGADA.
+O piso remuneratório legalmente estabelecido em múltiplos de salários mínimos é, pela só razão de haver sido fixado em sentença judicial transitada em julgado ainda na vigência do regime constitucional anterior, oponível ao art. 7º, inciso IV, da Constituição Federal de 1988.
+Sentença confirmada” (fl. 398).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, a inconstitucionalidade de vinculação do salário mínimo para qualquer fim.
+A pretensão recursal merece acolhida.
+Esta Corte consolidou o entendimento referente à impossibilidade de utilização do salário mínimo como fator de indexação com a edição da Súmula Vinculante 4, cujo texto segue transcrito:
+“Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial”.
+Assim, é inválido o estabelecimento de piso salarial em múltiplos de salários mínimos, consoante se observa da ementa do RE 467.011-AgR/CE, Rel. Min. Cármen Lúcia:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. 1. EQUIPARAÇÃO DE VENCIMENTOS COM FUNDAMENTO NO PRINCÍPIO DA ISONOMIA: INCIDÊNCIA DA SÚMULA 339 DO SUPREMO TRIBUNAL FEDERAL. 2. IMPOSSIBILIDADE DE FIXAÇÃO DO PISO SALARIAL EM MÚLTIPLOS DO SALÁRIO MÍNIMO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (grifos meus).
+No caso em exame, o acórdão recorrido afastou a aplicação do art. 7º, IV, da Lei Maior, sob o fundamento de que não se pode alterar a sentença transitada em julgado, em data anterior à CF/88, que fixou o piso salarial dos autores em oito e meio salários mínimos.
+Esse entendimento, todavia, está em dissonância com a jurisprudência do Supremo Tribunal Federal, conforme se verifica da ementa do RE 407.272/CE, relator para o acórdão o Min. Carlos Britto, a seguir transcrita:
+“SALÁRIO MÍNIMO. VINCULAÇÃO. PODER CONSTITUINTE. DESCONSTITUIÇÃO DA COISA JULGADA. VIOLAÇÃO AO ART. 7º, INCISO IV, DA CARTA DE OUTUBRO. Afastada a pretensão de manter-se a vinculação a múltiplos e índices de reajuste do salário mínimo por não ser possível sua ereção como fator de indexação de obrigação de pagamento em relação de trato sucessivo. Fica ressalvada, no entanto, a garantia do piso salarial, calculado pelo valor do salário mínimo vigente à época da promulgação da Carta da República, corrigido monetariamente. Recurso a que se nega provimento”.
+Nesse julgamento, o Min. Carlos Britto ressaltou que
+“a nova Constituição não tem compromisso com a ordem jurídica anterior, porque ela é o início de toda a positividade jurídica. Se a Constituição originária quiser, ela pode contrariar coisa julgada, ato jurídico perfeito ou direito adquirido”.
+Desse modo, ante a ofensa ao art. 7º, IV, da Constituição de 1988, não é válida a fixação de piso salarial em múltiplos de salários mínimos, inclusive se o estabelecimento desse piso estiver assegurado por coisa julgada anterior à Lei Maior.
+Ressalte-se, ainda, que, consoante se infere da sentença mantida pelo acórdão recorrido, não houve redução no valor nominal recebido pelos recorridos, mas apenas alteração do critério de reajuste do salário. Sobre este ponto, destaca-se o seguinte trecho da sentença:
+“Portanto se os autores vieram a ser remunerados com valores equivalentes a 8,5 salários mínimos desde maio de 1987 e, a partir de maio de 1998 foi mantido o valor nominal reajustado por qualquer outro índice, aquém do equivalente a oito e meio salários mínimos, houve inegavelmente uma redução substancial e indireta de seus vencimentos e, por conseguinte, o descumprimento de preceito constitucional” (fls. 355-356, grifos meus).
+Esclareça-se que não configura redução de vencimentos, vedada pelos arts. 7º, VI, e 37, XV, da CF/88, a alteração de critério de correção de remuneração, desde que não haja decesso remuneratório.
+É que, nos termos da jurisprudência desta Corte, não há direito adquirido a regime jurídico. Dessa forma, é legítima a lei superveniente que, sem causar redução remuneratória, altere a forma de cálculo de remuneração (RE 563.965-RG/RN, Rel. Min. Cármen Lúcia, Plenário).
+Isso posto, conheço do recurso e dou-lhe provimento (art. 557, § 1º-A, do CPC). Honorários advocatícios a serem fixados pelo Juízo de Execução, nos termos da legislação processual.
+Publique-se.
+Brasília, 5 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
