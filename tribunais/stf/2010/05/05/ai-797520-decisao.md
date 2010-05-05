@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. 1. REENQUADRAMENTO. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. 2. VERIFICAÇÃO DE PREJUÍZOS. IMPOSSIBILIDADE DE INTERPRETAÇÃO DA LEGISLAÇÃO LOCAL E DO REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alíneas a e c, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - SERVIDORES PÚBLICOS - REGIME JURÍDICO - DIREITO ADQUIRIDO - INEXISTÊNCIA - IRREDUTIBILIDADE DE VENCIMENTOS RESPEITADA. Servidores públicos não têm direito adquirido a regime jurídico. A alteração do regime jurídico, mas com respeito ao princípio da irredutibilidade de vencimentos, não afronta os direitos dos servidores” (fl. 278).
+2. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência na espécie das Súmulas 279 e 280 do Supremo Tribunal Federal e a “ausência do pressuposto que o autoriza, qual seja, o de o Colegiado haver julgado válida lei ou ato de governo local contestado em face da Constituição Federal” (fl. 372).
+3. Os Agravantes afirmam que o Tribunal a quo teria contrariado os arts. 3º, inc. I e IV, 5º, caput e inc. XXXV, XXXVI, XLI e LIV, 19, inc. III, 37, caput e inc. X, e 40, § 8º, da Constituição da República.
+Sustentam que “estes humildes trabalhadores, recorreram ao Poder Judiciário, buscando reverter o ato de seu ‘posicionamento inicial’ no novo plano de carreiras (PCCV), implantado em janeiro/2006, em função de haverem sido posicionados em um patamar, da escala salarial de sua carreira, inferior ao que já possuíam, sendo-lhes tirada parte significativa daquilo que haviam conquistado de forma legítima, em termos de progressão nessa mesma carreira, após décadas de trabalho e dedicação” (fl. 315).
+Analisada a matéria posta à apreciação, DECIDO.
+4. Razão jurídica não assiste aos Agravantes.
+5. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que servidor público não tem direito adquirido a regime jurídico, desde que o reenquadramento na nova carreira não importe - como na espécie vertente - em diminuição do montante global do valor percebido pelo servidor. Nesse sentido, os seguintes julgados: RE 563.965, de minha relatoria, Plenário, DJe 20.3.2009; RE 375.936-AgR, Rel. Min. Carlos Britto, Primeira Turma, DJ 25.8.2006; AI 603.036-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 28.9.2007; RE 364.387-AgR, Rel. Min. Ellen Gracie, Primeira Turma, DJ 9.5.2003; e RE 468.076-ED, Rel. Min. Celso de Mello, Segunda Turma, DJ 31.3.2006.
+6. Na espécie vertente, o Tribunal a quo assentou que:
+“Com o reenquadramento, nos moldes regulamentados pelo Decreto Estadual n. 44.222/06, constata-se que a mudança de regime jurídico em comento não implicou em redução de vencimentos dos apelantes, sendo respeitados seus direitos adquiridos, bem como o princípio da irredutibilidade de vencimentos, consagrado no art. 37, XV, da Constituição Federal. Portanto, como já visto, a modificação dos apelantes dos últimos graus do antigo plano de carreira para o grau inicial da nova carreira não importou, por si só, em prejuízos a eles, ainda mais quando, como na hipótese vertente, foi garantida a opção pelo antigo plano” (fl. 284).
+Para se concluir de forma diversa do que foi decidido pelas instâncias originárias, seria necessária a análise do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, conforme dispõe a Súmula 279 do Supremo Tribunal Federal.
+O reexame do acórdão impugnado demandaria, ainda, a interpretação da legislação infraconstitucional aplicável à espécie (Leis estaduais n. 15.469/05 e 15.961/05 e Decreto estadual n. 44.222/06). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO: REENQUADRAMENTO. FALTA DE PREQUESTIONAMENTO (SÚMULAS 282 E 356). IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL E DO REEXAME DE PROVAS (SÚMULAS 279 E 280). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 605.780-AgR, de minha relatoria, Primeira Turma, DJE 13.03.2009).
+E:
+“Recurso Extraordinário. Agravo Regimental. 2. Servidores públicos estaduais. Reenquadramento. 3. Lei local. Súmula 280. 4. Reexame de fatos e provas. Súmula 279. 5. Agravo regimental a que se nega provimento” (RE 231.358-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 8.11.2002).
+7. Tampouco se viabiliza o extraordinário pela alínea c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição da República. Incide na espécie a Súmula 284 do Supremo Tribunal Federal. Nesse sentido:
+“Recurso extraordinário. - Inocorrência da hipótese prevista na alínea ‘c’ do inciso III do artigo 102 da Constituição Federal. Falta de fundamentação, por isso mesmo, a esse respeito. Aplicação da Súmula 284” (RE 148.355, Rel. Min. Moreira Alves, Primeira Turma, DJ 5.3.1993).
+E:
+“INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO PELA ALÍNEA C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA (SÚMULA 284). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 737.612-AgR, de minha relatoria, Primeira Turma, DJe 5.2.2010).
+8. Nada há, pois, a prover quanto às alegações dos Agravantes.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 5 de maio de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
