@@ -1,0 +1,24 @@
+Decisão:
+Vistos
+Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, “a”, da Constituição Federal contra acórdão do Tribunal Regional da 4ª Região, assim ementado:
+TRIBUTÁRIO. PIS. COFINS. LC Nº 07/70. LC Nº 70/91. LOCAÇÃO DE BENS MÓVEIS. INCIDÊNCIA. LEI Nº 9.718/98. BASE DE CÁLCULO. CONSTITUCIONALIDADE.
+1. A atividade de locação de bens móveis perfaz a hipótese de incidência da contribuição ao PIS e da COFINS, pois os ingressos financeiros decorrentes das operações de tal espécie, obtidos no exercício de atividade lucrativa, caracterizam faturamento. 2. Nos termos das Leis Complementares n.º 07/70 e nº 70/91, o aspecto material da hipótese de incidência da contribuição ao PIS e da COFINS, ou seja, o faturamento mensal, corresponde à receita bruta, seja da venda de mercadorias, da prestação de serviços conjugada com a venda de mercadorias, bem como da prestação de serviços de qualquer natureza, englobando, portanto, as receitas decorrentes da locação de bens móveis. 3. O Plenário deste Tribunal, na Argüição de Inconstitucionalidade na Apelação em Mandado de Segurança nº 1999.04.01.080274-1 (Rel. para o acórdão a Des. Federal Virgínia Scheibe, j. 29.03.2000, DJ 31.05.2000), considerou que o texto constitucional deixou a cargo do legislador ordinário a providência de conceituar faturamento, não tendo havido, pela lei apontada, a criação de nova fonte de custeio, mas somente o alargamento do campo de abrangência do conceito, sem extravasar o permissivo constitucional.
+Opostos embargos de declaração, esses foram acolhidos para fins de prequestionamento (fls.251/253).
+Recursos extraordinário e especial às fls. 256/263 e 296/307.
+Contrarrazões às fls. 346/353.
+Sustenta a recorrente que o acórdão recorrido viola o artigo 195, da Constituição Federal, sob o argumento da inconstitucionalidade da exigência de que as receitas oriundas da locação de bens móveis integrem a base de cálculo do PIS e da COFINS.
+Decido:
+Observo que a controvérsia abrange a exigibilidade do PIS e da COFINS sobre a locação de bens móveis, desde a edição das Leis Complementares nºs 7/70 e 70/91 e após o advento da Lei nº 9.718/98.
+No concernente à problemática referente ao conceito de faturamento contido no § 1º do artigo 3º da Lei nº 9.718/98, o Plenário do Supremo Tribunal Federal, em sessão de 09.11.2005, apreciando recursos extraordinários (RE 346084/PR, RE 357950/RS, RE 358273/RS e RE 390840/MG), considerou inconstitucional o § 1º do art. 3º da Lei 9.718/98, entendendo que esse dispositivo, ao ampliar o conceito de receita bruta para toda e qualquer receita, violou a noção de faturamento, prevista no art. 195, I, “b”, da Constituição Federal, na sua redação original, que equivaleria ao de receita bruta das vendas de mercadorias, de mercadorias e serviços e de serviços de qualquer natureza. Dessa forma ficou mantida a base de cálculo nos termos da Lei Complementar nº 70/91 (COFINS) e da Lei nº 9.715/98 (PIS).
+No que tange à incidência da contribuição para o PIS e a COFINS sobre as receitas de locação de bens móveis, mesmo após a Lei nº 9.718/98, a exigibilidade desses tributos foi mantida como consignou o Ministro Cesar Peluso no RE 371.258-AgR, 2ª Turma, DJ de 27/06/06:
+“RECURSO. Extraordinário. COFINS. Locação de bens imóveis. Incidência. Agravo regimental improvido. O conceito de receita bruta sujeita à exação tributária envolve, não só aquela decorrente da venda de mercadorias e da prestação de serviços, mas a soma das receitas oriundas do exercício das atividades empresariais.”
+Nesse julgamento o Relator deixou assentado que “seja qual for a classificação que se dê às receitas oriundas de locação de bens imóveis, o certo é que tal não implica na sua exclusão da base de incidência das contribuições para o PIS e COFINS, mormente após a declaração de inconstitucionalidade do art. 3º, § 1º, da Lei nº 9.718, dada pelo Plenário do STF”.
+Embora o precedente citado verse sobre a incidência da COFINS sobre operações de locação de bens imóveis, entendo que os fundamentos então adotados pela Corte se aplicam a este recurso.
+Por outro lado, como reiteradamente vem decidindo este Tribunal, concluir de forma diversa do que foi decidido pelas instâncias ordinárias – se a locação de bens móveis constitui, ou não, receita bruta – demandaria a análise prévia da legislação infraconstitucional aplicável à espécie.
+Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+No mesmo sentido : AI 715151/SP, Relator o Ministro Ayres Britto, julgamento: 24/2/10; AI nº 492.857, Relator o Ministro Joaquim Barbosa, DJe 03/02/10; RE nº 600492/RJ, Relatora a Ministra Cármen Lúcia, DJe 17/02/10.
+Diante do exposto, com base no art. 557, CPC, caput, nego seguimento ao recurso.
+Publique-se.
+Brasília, 05 de maio de 2010.
+Ministro Dias Toffoli
+Relator
