@@ -1,0 +1,23 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO. ACOLHIMENTO INTEGRAL DO QUE REQUERIDO NO RECURSO EXTRAORDINÁRIO. NECESSIDADE DA FIXAÇÃO DOS ÔNUS DE SUCUMBÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS.
+Relatório
+1. Em 2 de fevereiro de 2010, dei provimento ao recurso extraordinário interposto por Flávia Torres dos Santos para garantir-lhe o direito à licença-maternidade de 120 dias e à estabilidade provisória desde a confirmação de sua gravidez até 5 meses após o parto, conforme o art. 10, inc. II, alínea b, do Ato das Disposições Constitucionais Transitórias. Ressaltei, ainda, que a demissão de servidora pública no gozo de licença-gestante é ato arbitrário e contrário à Constituição (fls. 213-215).
+2. Publicada essa decisão no DJe 19.2.2010 (fl. 216), opõe Flávia Torres dos Santos, ora Embargante, em 26.2.2010, tempestivamente, embargos de declaração (fls. 218-220; 227-229).
+3. Argumenta que:
+“depreende-se, evidente omissão no conteúdo decisório, uma vez que apesar da brilhante decisão ter reconhecido a nulidade do ato administrativo demissionário, deixou a Nobre Julgadora de se manifestar no tocante aos demais reflexos inerentes de sua decisão, ou seja, sobre a devida reintegração ao cargo, assim como o pagamento de todos os salários vencidos desde a data do referido ato, e os vincendos desde o ajuizamento da presente ação, incluindo-se todos os benefícios concedidos a categoria no curso de seu afastamento, acrescido de juros e correções monetárias até sua reintegração definitiva ao cargo.
+Além disso, destaca-se que embora corretamente invertido os ônus da sucumbência, não foram fixados honorários advocatícios, os quais devem ser estabelecidos com base no disposto no artigo 20, § 3º, do Código de Processo Civil” (fl. 229).
+Apreciada a matéria trazida na espécie, DECIDO.
+4. Razão jurídica assiste, em parte, à Embargante.
+Inicialmente, cumpre ressaltar que, por terem sido os Embargos de Declaração opostos contra decisão monocrática e conterem apenas argumentos constantes do art. 535 do Código de Processo Civil, fica dispensada a conversão destes embargos de declaração em agravo regimental para julgamento da Turma, conforme as decisões proferidas nos Recursos Extraordinários 476.109-ED, Rel. Min. Cezar Peluso, DJe 8.10.2007; 411.024, Rel. Min. Sepúlveda Pertence, DJ 11.5.2004; 277.612, Rel. Min. Carlos Velloso, DJ 12.11.2001.
+5. Registre-se, também, o que requerido pela ora Embargante em seu recurso extraordinário:
+“seja reformado o v. acórdão ora recorrido, declarando nulo o ato administrativo que culminou com a exoneração da recorrente, em razão de afronta ao artigo 7º, XVIII da Constituição Federal e art. 10, II, b, do ADCT, por todas as razões expendidas neste apelo extremo, julgando procedente o feito” (fls. 190-191).
+Ao declarar que a demissão de servidora pública no gozo de licença-gestante é ato arbitrário e contrário à Constituição, a decisão ora embargada acolheu integralmente o pedido da então Recorrente. Não há, portanto, omissão alguma a ser sanada quanto ao que requerido em seu recurso extraordinário e o que decidido.
+Anote-se, ainda, que as possíveis consequências advindas do provimento do recurso extraordinário, suscitadas pela Embargante, como sua reintegração ao serviço público e o pagamento de vencimentos e benefícios acrescidos de juros e correção monetária, deverão ser examinadas pelo juízo da execução.
+Nesse sentido:
+“PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PARCIAL PROVIMENTO DO RECURSO. MATÉRIA RELATIVA À COMPENSAÇÃO, PRESCRIÇÃO, CORREÇÃO MONETÁRIA E JUROS. JUÍZO DA EXECUÇÃO. EMBARGOS ACOLHIDOS. I - As matérias pendentes de apreciação (compensação, prescrição, correção monetária e juros) devem ser analisadas pelo juízo da execução. Precedentes. III - Embargos acolhidos” (RE 499.634-AgR-ED-ED, Rel. Min. Ricardo Lewandowski, Primeira Turma, Dje 28.8.2009 – grifei).
+6. Quanto à fixação dos ônus da sucumbência, o Supremo Tribunal Federal firmou entendimento no sentido de que, nas causas em que não houver condenação ou for vencida a Fazenda Pública, os honorários serão fixados nos termos do art. 20, § 4°, do Código de Processo Civil. Nesse sentido: RE 245.425-ED, Rel. Min. Sydney Sanches, Primeira Turma, DJ 18.2.2000; e AI 315.841-AgR, Rel. Min. Carlos Velloso, Segunda Turma, DJ 20.2.2004.
+7. Pelo exposto, acolho parcialmente os embargos de declaração apenas para fixar os honorários advocatícios em dez por cento sobre o valor da causa, nos termos do art. 20, § 4º, do Código de Processo Civil.
+Publique-se.
+Brasília, 5 de maio de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
