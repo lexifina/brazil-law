@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. ANULAÇÃO DE ATO ADMINISTRATIVO. ALEGADA OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. IMPOSSIBILIDADE DE REEXAME DE PROVAS: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“Na inicial, [a Apelante] refere que “a caro custo (...) soube que o fundamento da interpelação seria cumulação indevida entre proventos de servidora pública estadual aposentada e vencimentos de servidora pública federal” (fl. 03). Em razão disso, defende a possibilidade de cumulação de proventos de aposentadoria em cargo da carreira do Magistério com vencimentos de analista judiciário.
+Todavia, no documento enviado à impetrante consta que o motivo do recolhimento era a renúncia da aposentadoria a contar de 08 de maio de 1997 – e não a vedada cumulação de proventos e vencimentos –, consubstanciada no Boletim nº 2691, publicada no Diário Oficial de 31 de março de 2003 (fl. 34).
+A insurgência da impetrante contra a inscrição do débito em dívida ativa deveria ter por objeto a discussão acerca da não obrigatoriedade da devolução dos proventos de inatividade quando da renúncia à aposentadoria, matéria que não foi ventilada na presente demanda.
+Tenho, pois, por inócua a discussão acerca da possibilidade da referida cumulação.
+No que respeita à ausência de prévio procedimento administrativo, verifica-se que a Administração Pública instaurou o processo administrativo nº 0037776033 – também referido pelo nº 3776-1400/03.3 – para a apuração dos valores devidos, tendo a apelante se manifestado ao menos em duas ocasiões, como acima mencionado.
+Na primeira oportunidade (em 23/12/2003), ao requerer o detalhamento dos cálculos do valor a ser devolvido, demonstrou ter conhecimento acerca da natureza do débito (...)
+Assim, tendo em vista que o débito em questão tem origem em requerimentos da própria impetrante – renúncia à aposentadoria e exoneração, ambas com efeitos retroativos a 08/05/1997 – e que foi instaurado procedimento administrativo para a apuração do quantum, apresenta-se correto o proceder da Administração Pública.
+Ademais, decorrendo o débito de atos de iniciativa da então servidora, tenho que o exercício do contraditório e da ampla defesa não tem a relevância pretendida pela impetrante. Ainda que assim não fosse, as partes tiveram a oportunidade de discutir o tema no presente processo, não havendo motivo para a anulação dos atos praticados pela Administração Pública.
+(...)
+Ante o exposto, nego provimento à apelação” (fls. 169-173).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas 279 e 473 do Supremo Tribunal Federal (fls. 215-218).
+4. A Agravante alega que o Tribunal a quo teria contrariado o art. 5º, inc. LIV e LV, da Constituição da República.
+Sustenta que “O fato de a recorrente, logo após [ter] recebido a cartinha de cobrança, perguntar à requerida quanto aos valores cobrados, na forma constante dos autos, não significa defesa, mas ausência de esclarecimentos mínimos sobre a exigência (...), conforme resulta claro do documento firmado pela ex-servidora” (fl. 200).
+Argumenta que “A Fazenda Pública, (...) para ter inscrição válida, necessita cumprir o disposto no art. 202 do Código Tributário Nacional, mencionando, no próprio documento de inscrição: a) a quantia devida e a maneira de calcular os acréscimos moratórios; b) a origem da dívida; c) a natureza da dívida; d) o dispositivo legal em que se funda a exigência; e e) o número do procedimento administrativo que originou o crédito. Basta comparar estes requisitos com os dados contidos no documento de fl. 20, para ver que faltam a este os mínimos pressupostos que somente seriam obtidos se o procedimento administrativo (...) tivesse sido realizado” (fl. 201).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. O Tribunal a quo concluiu que os princípios do contraditório e da ampla defesa teriam sido respeitados no processo administrativo instaurado pela Administração Pública, com base nas provas dos autos. Para decidir de forma diversa, seria necessário o reexame dos elementos fático-probatórios constantes dos autos, já devidamente analisados pelo Tribunal de origem, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 279 do Supremo Tribunal Federal.
+Nesse sentido, os seguintes julgados que, embora tratem de punição disciplinar, são aplicáveis à espécie, uma vez que se referem a alegações de contrariedade aos princípios do contraditório e da ampla defesa em procedimento administrativo – objeto do presente recurso extraordinário:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. EXONERAÇÃO. ANULAÇÃO DO ATO. PROCESSO ADMINISTRATIVO QUE NÃO ATENDE AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. PRECEDENTES. IMPOSSIBILIDADE DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 537.996-AgR, de minha relatoria, Primeira Turma, DJ 25.9.2009 – grifos nossos).
+“AGRAVO REGIMENTAL. POLICIAL MILITAR. PROCESSO ADMINISTRATIVO. PUNIÇÃO DISCIPLINAR. OBSERVÂNCIA DOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido seria necessário o reexame das provas dos autos, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 235.282-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 26.3.2010 – grifos nossos).
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, não diverge da jurisprudência do Supremo Tribunal Federal, não havendo, pois, o que prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 5 de maio de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
