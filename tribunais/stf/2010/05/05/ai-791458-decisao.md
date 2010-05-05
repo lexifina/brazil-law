@@ -1,0 +1,16 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido porta a seguinte ementa:
+“AGRAVO DE INSTRUMENTO DESPROVIDO – DANO MORAL – INDENIZAÇÃO
+Não merece processamento o Recurso de Revista se o Agravo de Instrumento não logra desconstituir os termos do despacho denegatório, que ora se mantém.
+Agravo de Instrumento a que se nega provimento” (fl. 82).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, V, X, XXXV e LV, 93, IX, da mesma Carta.
+O agravo não merece acolhida. Isso porque, para se chegar à conclusão contrária à adotada pelo acórdão recorrido –ocorrência, na espécie, de dano moral indenizável -, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, confiram-se os seguintes julgados do Supremo Tribunal Federal:
+“AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA E CIVIL. ACIDENTE DE TRABALHO. PENSÃO. INDENIZAÇÃO POR DANO MATERIAL E MORAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil. (AI 714.044-AgR/SP, Rel. Min. Cármen Lúcia, Primeira Turma).
+“EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. INDENIZAÇÃO POR DANOS MORAIS. REEXAME DE MATÉRIA FÁTICA. SÚMULA 279/STF. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento.” (AI 674.124-ED/DF, Rel. Min. Joaquim Barbosa, Segunda Turma).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PRECATÓRIOS. DEMORA NO PAGAMENTO. DANOS MATERIAIS E MORAIS. REEXAME DE FATOS E PROVAS DA CAUSA. ÓBICE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. A análise do extraordinário requer o reexame de fatos e provas da causa, providência vedada nesta instância em virtude do óbice da Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 761.311-AgR/RJ, Rel. Min. Eros Grau, Segunda Turma).
+Além disso, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, a exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador diga de forma clara e concisa as razões de seu convencimento, tal como ocorreu.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 5 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
