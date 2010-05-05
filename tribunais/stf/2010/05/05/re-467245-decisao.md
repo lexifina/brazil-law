@@ -1,0 +1,30 @@
+DECISÃO
+Vistos.
+O Estado de Sergipe interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Pleno do Tribunal de Justiça daquele Estado, assim ementado:
+“Mandado de Segurança - Tributário - Lei Estadual nº 4.731/2002 - Adicional de alíquota do ICMS - Fundo Estadual de Combate e Erradicação da Pobreza - Inconstitucionalidade - Precedente - Vedação de vinculação de impostos a órgão, fundo ou despesa - Princípio da Seletividade - Segurança concedida - Decisão unânime
+- Revela-se inconstitucional o art. 2º da Lei Estadual nº 4.731/2002, por definir os produtos e serviços supérfluos sobre os quais deve incidir o adicional de alíquota do ICMS destinado ao Fundo Estadual de Combate e Erradicação da Pobreza, posto usurpar competência da União, consoante o art. 83 da ADCT, na redação da Emenda Constitucional nº 31/2000.
+- Conquanto o inciso IV do artigo 167, da Carta Magna, vede a vinculação de receita de impostos a órgão, fundo ou despesa, a regra admite exceção, não incidindo sobre os Fundos de Combate à Pobreza, por força do § 1º, do art. 80, da ADCT, introduzido pela Emenda Constitucional nº 31/2000, sendo extensiva aos fundos de todos os entes públicos, não somente ao da União.
+- O Princípio da Seletividade do ICMS, visualizado no inc. III, parágrafo 2°, do art. 155 da CF, diz respeito à essencialidade do insumo, qualidade essa que é determinante da exclusão da mercadoria ou do serviço do conceito de superfluidade de que fala o art. 83 da ADCT. Inclui-se na conceituação de serviço essencial o relativo a TV a cabo, entendimento que se extrai da Lei Federal nº 8.977, de 6 de janeiro de 1996, que dispõe sobre tal serviço” (fl. 184).
+Alega o recorrente violação dos artigos 24, § 3º, e 155, inciso III, § 2º, da Constituição Federal e 2º e 4º da Emenda Constitucional nº 42/03.
+Contra-arrazoado (fls. 233 a 238), o recurso extraordinário (fls. 203 a 230) foi admitido (fls. 240/241).
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Francisco Adalberto Nóbrega, “pelo provimento do recurso” (fls. 257 a 259).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 9/3/05, conforme expresso na certidão da folha 201, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Merece prosperar a irresignação.
+A Emenda Constitucional nº 42/03, em seu artigo 4º, previu o seguinte:
+“Os adicionais criados pelos Estados e pelo Distrito Federal até a data da promulgação desta Emenda, naquilo em que estiverem em desacordo com o previsto nesta Emenda, na Emenda Constitucional nº 31, de 14 de dezembro de 2000, ou na lei complementar de que trata o art. 155, § 2º, XII, da Constituição, terão vigência, no máximo, até o prazo [2010] previsto no art. 79 do Ato das Disposições Constitucionais Transitórias”.
+Com efeito, observa-se que com o advento desse dispositivo constitucional houve a validação dos adicionais criados pelos Estados e pelo Distrito Federal pelo prazo fixado no artigo 79 do ADCT, ainda que incompatíveis com as disposições da EC nº 31/200 e da legislação complementar pertinente.
+Essa orientação ficou clara por ocasião do julgamento da ADI nº 2.869/RJ, Relator o Ministro Ayres Britto, DJ de 37/4/04, e da ADI nº 3.265/CE, Relator o Ministro Carlos Velloso, DJ de 18/10/04, nas quais se impugnavam normas que instituíam adicionais destinados aos fundos de combate à pobreza pelos Estados – questão similar à discutida nos presentes autos – tendo os respectivos relatores declarado a prejudicialidade das ações em razão da superveniente perda do objeto. Nesse contexto, reconheceu-se a constitucionalidade dos diplomas normativos impugnados, haja vista a convalidação pela ordem constitucional substancialmente modificada pela EC nº 42/03.
+Desse modo, correto o parecer do Ministério Público Federal que assim concluiu:
+“Os fundamentos do acórdão seriam inafastáveis caso a controvérsia se referisse a fatos submetidos à regência da EC 31/00, vez que a Lei estadual não poderia legitimar o adicional destinado ao Fundo do Combate à Pobreza sem a edição da lei federal, prevista no artigo 83 do ADCT, que indicassem os produtos e serviços tidos como supérfluos. No entanto, o mandado de segurança da recorrido foi interposto em 9 de agosto de 2004, quando vigia a EC 42/03, promulgada em 19.12.03, nesse sentido:
+‘AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ICMS. ADICIONAL. LEI ESTADUAL N. 4.056/02. FUNDO ESTADUAL DE COMBATE À POBREZA. CONTROVÉRSIA APÓS A EC 42/03. O Supremo Tribunal Federal, na decisão proferida na ADI n. 2.869, Relator o Ministro Carlos Britto, DJ de 13.5.04, fixou que ‘o art. 4º da Emenda Constitucional nº 42/2003 validou os adicionais criados pelos Estados e pelo Distrito Federal, ainda que estes estivessem em desacordo com o previsto na Emenda Constitucional nº 31/2000. Sendo assim, se pairavam dúvidas acerca da constitucionalidade dos diplomas normativos ora adversados, estas foram expressamente enxotadas pelo mencionado art. 4’. Agravo regimental a que se nega provimento.
+RE 570016 AgR/RJ
+Relator (a): Min. EROS GRAU
+Publicação: DJe-172 de 12-09-2008’
+(...)” (fl. 259).
+No mesmo sentido, as seguintes decisões monocráticas, recentemente proferidas: RE nº 571.968/RJ, Relator o Ministro Ricardo Lewandowski, DJ de 23/2/10, RE nº 576.329/RJ, Relator o Ministro Ayres Britto, DJ de 9/2/10, RE nº 511.585/RJ, Relator o Ministro Cezar Peluso, DJ de 1º/12/09, e RE nº 454.709/RJ, Relator o Ministro Celso de Mello, DJ de 16/12/09.
+Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para denegar a segurança. Sem condenação em honorários, nos termos da Súmula nº 512/STF. Custas ex lege.
+Publique-se.
+Brasília, 5 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
