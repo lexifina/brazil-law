@@ -1,0 +1,30 @@
+DECISÃO: O exame do pleito ora formulado não se reveste de viabilidade jurídico-processual para os fins pretendidos pelo autor da presente medida, especialmente se se considerar que a matéria veiculada em referida postulação refoge – presente o contexto em análise – à esfera de competência originária deste Supremo Tribunal Federal.
+Como se sabe, a competência originária do Supremo Tribunal Federal, por qualificar-se como um complexo de atribuições jurisdicionais de extração essencialmente constitucional - e ante o regime de direito estrito a que se acha submetida -, não comporta a possibilidade de ser estendida a situações que extravasem os rígidos limites fixados, em “numerus clausus”, pelo rol exaustivo inscrito no art. 102, I, da Carta Política, consoante adverte a doutrina (MANOEL GONÇALVES FERREIRA FILHO, “Comentários à Constituição Brasileira de 1988”, vol. 2/217, 1992, Saraiva) e proclama a jurisprudência desta própria Corte (RTJ 43/129 - RTJ 44/563 – RTJ 50/72 - RTJ 53/776):
+“A COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - CUJOS FUNDAMENTOS REPOUSAM NA CONSTITUIÇÃO DA REPÚBLICA - SUBMETE-SE A REGIME DE DIREITO ESTRITO.
+- A competência originária do Supremo Tribunal Federal, por qualificar-se como um complexo de atribuições jurisdicionais de extração essencialmente constitucional - e ante o regime de direito estrito a que se acha submetida - não comporta a possibilidade de ser estendida a situações que extravasem os limites fixados, em ‘numerus clausus’, pelo rol exaustivo inscrito no art. 102, I, da Constituição da República. Precedentes.
+O regime de direito estrito, a que se submete a definição dessa competência institucional, tem levado o Supremo Tribunal Federal, por efeito da taxatividade do rol constante da Carta Política, a afastar, do âmbito de suas atribuições jurisdicionais originárias, o processo e o julgamento de causas de natureza civil que não se acham inscritas no texto constitucional (...). Precedentes.”
+(RTJ 171/101-102, Rel. Min. CELSO DE MELLO, Pleno)
+É por essa razão que o Supremo Tribunal Federal, em sucessivas decisões, firmou entendimento jurisprudencial no sentido de que não possui competência originária para processar e julgar determinadas causas - tais como ações civis públicas (RTJ 159/28, Rel. Min. ILMAR GALVÃO - Pet 240-AgR/DF, Rel. Min. NÉRI DA SILVEIRA), ações populares (RTJ 121/17, Rel. Min. MOREIRA ALVES - RTJ 141/344, Rel. Min. CELSO DE MELLO - Pet 352/DF, Rel. Min. SYDNEY SANCHES - Pet 431/SP, Rel. Min. NÉRI DA SILVEIRA - Pet 487/DF, Rel. Min. MARCO AURÉLIO – Pet 1.641/DF, Rel. Min. CELSO DE MELLO – Pet 3.422/DF, Rel. Min. AYRES BRITTO) ou, ainda, ações cautelares, ações ordinárias, ações declaratórias e medidas cautelares (RTJ 94/471, Rel. Min. DJACI FALCÃO - RTJ 171/101-102, Rel. Min. CELSO DE MELLO - Pet 240-AgR/DF, Rel. Min. NÉRI DA SILVEIRA).
+A “ratio” subjacente a esse entendimento, que acentua o caráter absolutamente estrito da competência constitucional do Supremo Tribunal Federal, vincula-se à necessidade de inibir indevidas ampliações descaracterizadoras da esfera de atribuições institucionais desta Suprema Corte, conforme ressaltou, a propósito do tema em questão, em voto vencedor, o saudoso Ministro ADALÍCIO NOGUEIRA (RTJ 39/56-59, 57).
+Registro, finalmente, que também não se justificaria, na espécie, o conhecimento da presente “Petição”, em face da circunstância – processualmente relevante – de que falece, ao ora requerente, que é o único subscritor da petição inicial (fls. 04), a necessária capacidade postulatória para pleitear, validamente, perante o Supremo Tribunal Federal (CPC, art. 36).
+Nem se diga, neste ponto, que o ora requerente, mesmo não titularizando o “jus postulandi”, poderia, ainda assim, com apoio no art. 5º, XXXIV, “a”, da Constituição da República, fazer instaurar, perante esta Suprema Corte, o processo em questão.
+Na realidade, cumpre ter presente, a esse respeito, o que decidiu, a propósito do tema, o Supremo Tribunal Federal:
+“- Capacidade postulatória.
+Direito de petição (art. 5º, inciso XXXIV, ‘a’, da Constituição).
+Representação do peticionário por advogado (art. 133 da C.F. e art. 36 do Código de Processo Civil).
+1. Não sendo advogado o peticionário, não tem capacidade postulatória.
+2. O exercício do direito de petição, junto aos poderes públicos, de que trata o art. 5º, inciso XXXIV, ‘a’, da Constituição, não se confunde com o de obter decisão judicial, a respeito de qualquer pretensão, pois, para esse fim, é imprescindível a representação do peticionário por advogado (art. 133 da Constituição e art. 36 do Código de Processo Civil).
+Agravo regimental não conhecido.”
+(RTJ 153/497-498, Rel. Min. SYDNEY SANCHES, Pleno - grifei)
+Esse entendimento – é importante rememorar – tem prevalecido, sem maiores disceptações, no magistério jurisprudencial desta Suprema Corte:
+“DIREITO DE PETIÇÃO E A QUESTÃO DA CAPACIDADE POSTULATÓRIA.
+- Ninguém, ordinariamente, pode postular em juízo sem a assistência de Advogado, a quem compete, nos termos da lei, o exercício do ‘jus postulandi’. A exigência de capacidade postulatória constitui indeclinável pressuposto processual de natureza subjetiva, essencial à válida formação da relação jurídico-processual.
+São nulos de pleno direito os atos processuais, que, privativos de Advogado, venham a ser praticados por quem não dispõe de capacidade postulatória.
+- O direito de petição qualifica-se como prerrogativa de extração constitucional assegurada à generalidade das pessoas pela Carta Política (art. 5º, XXXIV, ‘a’). Traduz direito público subjetivo de índole essencialmente democrática. O direito de petição, contudo, não assegura, por si só, a possibilidade de o interessado - que não dispõe de capacidade postulatória - ingressar em juízo, para, independentemente de Advogado, litigar em nome próprio ou como representante de terceiros. Precedentes. (...).”
+(RTJ 176/99-100, Rel. Min. CELSO DE MELLO, Pleno)
+Sendo assim, e tendo em consideração as razões expostas, não conheço da presente “Petição”.
+Arquivem-se os presentes autos.
+Publique-se.
+Brasília, 06 de maio de 2010.
+Ministro CELSO DE MELLO
+Relator
