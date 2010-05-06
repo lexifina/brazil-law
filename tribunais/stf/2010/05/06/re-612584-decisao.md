@@ -1,0 +1,19 @@
+Trata-se de recursos extraordinários interpostos pelo Instituto Nacional do Seguro Social – INSS – e pela União contra acórdão assim ementado:
+“TRIBUTÁRIO. SUCESSÃO DE EMPRESAS CARACTERIZADA. AQUISIÇÃO DO FUNDO DE COMÉRCIO E MANUTENÇÃO DA ATIVIDADE EMPRESARIAL DA ANTECESSORA. RESPONSABILIDADE TRIBUTÁRIA DA SUCESSORA.
+I. O patrimônio, o pessoal e o passivo tributário da CTU – Companhia de Transportes Urbanos que prestava serviço de transporte de passageiros na Cidade do Recife, foram transferidos para a CTUR – Companhia de Transportes Urbanos do Recife, subsidiária que passou a ser responsável por direitos e obrigações da antiga empresa, em face de sua insolvência, resultando ainda desse processo a criação da CTTU – Companhia de Trânsito e Transportes do Recife, todas sociedades de economia mista.
+II. A CTUR - Companhia de Transportes Urbanos do Recife foi posteriormente alienada à CRT – Cidade do Recife Transportes S/A, que passou a operar a atividade empresarial da antiga CTUI, ou seja, o transporte de passageiros na capital pernambucana.
+III. Ainda que nesse processo parte do patrimônio e do pessoal da antiga CTU não haja se transferido integralmente para a CRT, ficando sob a titularidade provisória da CTTU, evidencia-se que isso se deve à preservação do interesse público na manutenção do controle de parte dos imóveis outrora pertencentes ao Poder Público, até como forma de garantia da execução contratual.
+IV. Idêntica situação ocorre no que tange à manutenção, por parte da CTTU, de parcela do pessoal da CTU, fato que se deve ao interesse na preservação dos empregos dos ex-funcionários daquela entidade.
+V. Demonstram as provas dos autos que apesar de não ter havido a tradição integral do patrimônio da empresa extinta, fato que deve se consolidar com o tempo, até em face da expressa disposição contratual nesse sentido, fica caracterizada a sucessão da CTU pela CRT, que continuou a explorar as atividades empresarias da primeira, e adquiriu dela o fundo de comércio.
+VI. Remessa Oficial e Apelações da CTTU e do Município do Recife providas. Apelação dos advogados da CRT prejudicada” (fls. 1.312-1.313).
+Nestes RE, fundados no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 30, V, 146, III, a e b, 149 e 175 da Constituição Federal.
+A pretensão recursal não merece prosperar.
+Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. É o caso dos autos, salvo quanto à alegada ofensa aos arts. 146, III, a e b, e 149 da Constituição.
+Ademais, ainda que ultrapassado esse óbice, o acórdão recorrido decidiu sobre a responsabilidade tributária com base no conjunto fático-probatório constante nos autos e a partir da análise da legislação ordinária (CTN). Assim, a apreciação do RE demandaria o reexame de provas, o que atrai a incidência da Súmula 279 do STF, e a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+Além disso, sobre a alegação de impossibilidade de leis municipais regularem a responsabilidade por débitos tributários federais, observe-se que o Tribunal de origem fixou a responsabilidade tributária com base apenas na interpretação do Código Tributário Nacional e a partir da análise das provas.
+Por fim, com a negativa de provimento ao recurso especial pelo Superior Tribunal de Justiça, (Resp. 1.106.628/PE, fls 1.705-1.715, com trânsito em julgado certificado à fl. 1.741), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 6 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
