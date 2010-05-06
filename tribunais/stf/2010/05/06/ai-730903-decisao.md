@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discute a legitimidade ativa do agravante para requerer repetição de indébito de IPTU, referente a imóvel onde realiza atividades educacionais, do qual é locatário.
+2.  No RE, sustenta-se ofensa aos arts. 5º, XXXV, LIV, LV; 93, IX e 150, VI, c, §4º da Constituição Federal (fls. 144-185).
+3.  Preliminarmente, quanto a alegada ofensa ao art. 150, VI, c, §4º da Constituição Federal, verifico que, para rever a decisão do Tribunal a quo e concluir de modo diverso, seria necessário o reexame de fatos e de provas, o que encontra óbice na Súmula STF 279. Nesse sentido cito: AI 579.210-AgR/MG, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 30.4.2010;RE 268.277/SP, Min. Dias Toffoli, DJe 25.2.2010; AI 378.136-AgR/DF, rel. Min. Cármen Lúcia, 1ª Turma, DJe 05.2.2010; e RE 245.093-AgR/SP, rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 07.12.2006, este último assim ementado:
+“Sindicato. Colônia de férias. Inexistência de imunidade tributária por não ser o patrimônio ligado às finalidades essenciais do sindicato. Recurso extraordinário: descabimento.
+1. É da jurisprudência do Supremo Tribunal que no recurso extraordinário devem ser considerados os fatos da causa “na versão do acórdão recorrido”.
+2. Afirmado pelo acórdão recorrido que a colônia de férias não é destinada às finalidades essenciais do sindicato, para se chegar a entendimento diverso seria necessário o reexame dos fatos e das provas, inadmissível no recurso extraordinário (Súmula 279).”
+4.  Ademais, quanto à alegada violação ao art. 5º e seus incisos, este Tribunal entende que, em regra, as alegações de desrespeito aos postulados do devido processo legal, da ampla defesa e do contraditório, se existentes, seriam meramente reflexas ou indiretas, cujo exame se mostra inviável nesta sede recursal. E, para modificar o acórdão recorrido, a pretexto de ofensa ao mencionado dispositivo constitucional, seria necessário o reexame de fatos e provas da causa (Súmula STF 279), hipótese inadmissível de apreciação em sede extraordinária.
+5.  Por último, em relação à alegada contrariedade ao disposto no art. 93, IX, da Constituição Federal, o fato de a decisão ter sido contrária aos interesses da parte não caracteriza violação ao dispositivo constitucional apontado. Nesse sentido, AI 662.319-AgR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 05.03.2009; AI 682.065-AgR, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 03.04.2008, entre outros julgados.
+6.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 06 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
