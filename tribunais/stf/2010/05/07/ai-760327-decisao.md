@@ -1,0 +1,9 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto pelo Estado do Rio Grande do Sul, contra acórdão no qual se discute a legitimidade do sindicato para representar seus filiados em juízo, e a necessidade de comprovação, pelo representado, da condição de filiado ao sindicato, ao tempo da propositura da ação.
+2.  Nas razões do RE, sustenta-se ofensa aos artigos 5º, XXXV e XXXVI, da Constituição Federal.
+3.  O Plenário desta Corte, no julgamento do RE 193.503/SP, rel. para acórdão Min. Joaquim Barbosa, Tribunal Pleno, DJe 24.8.2007, sedimentou entendimento segundo o qual se reconhece a legitimidade extraordinária de Sindicato para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam. Dessa orientação não divergiu o acórdão recorrido. Nesse sentido RE 213.974-AgR/RS, rel. Min. Cezar Peluso, 2ª Turma, DJe 26.02.2010.
+4.  Quanto à alegação de ofensa ao art. 5º e seus incisos, a jurisprudência desta Corte é firme no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, DJ 26.6.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, DJe 04.4.2008 e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.3.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 07 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
