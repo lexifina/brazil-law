@@ -1,0 +1,23 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao recurso extraordinário nos seguintes termos:
+Trata-se de recurso extraordinário interposto contra acórdão que indeferiu pedido de isenção de custas feito pela CONAB – Companhia Nacional de Abastecimento, ao entendimento de que não se confere a empresa pública o benefício reservado à União, a autarquias e fundações.
+O acórdão possui a seguinte ementa:
+‘ISENÇÃO DE CUSTAS. EMPRESAS PÚBLICAS.
+A lei nº 9.286/96 enumera expressamente os casos de isenção do pagamento de custas, em que não estão incluídas as empresas públicas, independente da natureza dos serviços prestados’ (fl. 66).
+Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 23, VIII, e 173, § 2º, da mesma Carta.
+A pretensão recursal não merece acolhida. Verifica-se que o acórdão recorrido dirimiu a questão dos autos com apoio na legislação infraconstitucional aplicável à espécie (Lei 9.286/96). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+Além disso, observa-se que, com a negativa de seguimento, pelo STJ, ao Recurso Especial 835.222/RS (com trânsito em julgado certificado à fl. 167), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+Isso posto, nego seguimento ao recurso (art. 557, caput, do CPC)” (fls. 176-177).
+A agravante sustenta, em suma, que a decisão agravada merece reforma. Argumenta que a ofensa constitucional se deu de forma direta.
+Bem reexaminada a questão, verifica-se que a decisão ora atacada não merece reforma, visto que a agravante não aduz novos argumentos capazes de afastar as razões nela expendidas.
+Esta Corte possui entendimento no sentido de que o art. 173, § 2º, da Constituição não se aplica às empresas públicas prestadoras de serviços públicos. Dessa afirmação, porém, não se pode inferir que a Constituição tenha garantido a estas entidades a isenção de custas processuais ou o privilégio do prazo em dobro para a interposição de recursos. A possibilidade de gozo de determinado benefício não se confunde com sua imposição. Portanto, a concessão dos benefícios em questão deve ser estipulada pela legislação infraconstitucional.
+O Tribunal de origem analisou a legislação ordinária e entendeu que esta não contemplava a recorrente com as prerrogativas pleiteadas. A questão discutida, no caso, cingiu-se ao âmbito infraconstitucional. Assim, conforme decidido na decisão agravada, a afronta à Constituição, se ocorrente, seria indireta. Inviável, portanto, o recurso extraordinário.
+Por fim, observe-se que este Tribunal tem reconhecido a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Supremo Tribunal, a exemplo do MS 27.506/DF, Rel. Min. Celso de Mello:
+"A legitimidade jurídica desse entendimento - que vem sendo observado na prática processual desta Suprema Corte (MS 27.649, Rel. Min. CEZAR PELUSO - MS 27.962, Rel. Min. CELSO DE MELLO, v.g.) - decorre da circunstância de o Relator da causa, no desempenho de seus poderes processuais, dispor de plena competência para exercer, monocraticamente, o controle das ações, pedidos ou recursos dirigidos ao Supremo Tribunal Federal, justificando-se, em consequência, os atos decisórios que, nessa condição, venha a praticar (RTJ 139/53 - RTJ 168/174-175 - RTJ 173/948), valendo assinalar, quanto ao aspecto ora ressaltado, que o Plenário deste Tribunal, em recentíssima decisão (25/03/2010) reafirmou a possibilidade processual do julgamento monocrático do próprio mérito da ação de mandado de segurança, desde que observados os requisitos estabelecidos no art. 205 do RISTF, na redação dada pela Emenda Regimental nº 28/2009” (grifos no original).
+Na mesma linha, o MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão, e o MS 27.236-AgR/DF, de minha relatoria.
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento ao agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 7 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
