@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+“Direito constitucional, administrativo e processual civil. Policial Militar. Expulsão. Nulidade do ato administrativo. Reintegração. Apelação Cível. Recurso improvido.
+Atendidos os pressupostos de competência, finalidade, forma, motivo e objeto, tem-se por garantida a validade e eficácia do ato administrativo”. (Fl. 44).
+2.  Nas razões do RE, interposto com base no artigo 102, III, a e b, da Constituição Federal, sustenta-se ofensa ao artigo 5º, XXXV, XXXIV, a, LIV e LV, do texto constitucional.
+3.  O recurso não merece prosperar. Primeiramente, constato que os incisos XXXIV, a, e XXXV do artigo 5º da CF não se encontram prequestionados, porque não abordados pelo acórdão recorrido, nem suscitados nos embargos de declaração de fls. 64-67, não sendo satisfeito, assim, o requisito do prequestionamento (Súmulas STF 282 e 356).
+4.  Em segundo lugar, verifico que, para divergir da conclusão a que chegou o Tribunal a quo, seria necessária a análise de legislação local (Decreto-lei Estadual 260/70 – Regulamento Disciplinar da Polícia Militar do Estado de São Paulo), o que é defeso nesta fase recursal, nos termos da Súmula STF 280.
+5.  Ademais, quanto à alegação de ofensa ao art. 5º e seus incisos, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+6.  Finalmente, mostra-se também impertinente, na hipótese dos autos, a invocação da alínea b do permissivo constitucional (art. 102, III), uma vez que não houve, no acórdão recorrido, declaração de inconstitucionalidade de tratado ou lei federal, sem margem, portanto, para o cabimento do recurso extraordinário.
+7.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 07 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
