@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento interposto pelo Estado do Espírito Santo contra decisão que inadmitiu recurso extraordinário de acórdão no qual se discute a possibilidade de ajuizamento de execução de título executivo (Certidão da Dívida Ativa) fundado em lei declarada inconstitucional pelo Supremo Tribunal Federal.
+ No RE, sustenta-se ofensa aos artigos 150, §7º e 155 §2º, I, da Constituição Federal.
+2.  O recurso não merece prosperar. Primeiramente, para o exame das violações alegadas, seria necessária a análise de legislação infraconstitucional processual e do Código Tributário Nacional, hipótese inviável em sede extraordinária.
+3.  Em segundo lugar, verifico que, no que se refere aos arts. 150, §7º e 155 §2º, I, da Constituição Federal não houve o devido prequestionamento, porque não abordados pela decisão recorrida, nem nos embargos de declaração opostos. Incide, na espécie, os óbices das Súmulas STF 282 e 356.
+4.  Finalmente, observo que a decisão agravada baseou-se em decisão do Plenário desta Corte na ADI 1995-MC/ES, rel. Min. Neri da Silveira, Tribunal Pleno, DJ 01.8.2003, cuja ementa transcrevo:
+“Ação direta de inconstitucionalidade. Artigos 4º e 5º da Lei nº 5.541, de 22-12-97, com redação e alterações dadas pela Lei nº 5.619, de 02-03-98, do Estado do Espírito Santo. 2. Substituição do regime de débito e crédito utilizado para apuração do ICMS, pelo regime de apuração por estimativa. Sustentação de violação ao princípio da não-cumulatividade do ICMS. 3. A Lei Complementar nº 87, de 13.9.96, reserva à lei estadual dispor sobre cálculo por estimativa. Improcede a alegação de que a cláusula "vedada a utilização de créditos", art. 4º, da Lei em exame, ofende o princípio constitucional da não-cumulatividade. Possibilidade de compensação de eventuais créditos consignada no art. 4º, § 8º, II, do Diploma estadual atacado. 4. Quanto ao cálculo do ICMS, a utilização de eventuais créditos segue procedimento distinto, não cabendo a forma do sistema débito-crédito de apuração do ICMS. 5. Relevantes, porém, os fundamentos para suspender o § 12º do art. 4º, e "caput" e § 1º, do art. 5º, da lei impugnada.”
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 07 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
