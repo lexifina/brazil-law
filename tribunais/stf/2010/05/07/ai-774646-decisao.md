@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão no qual se discute a reunião de processos fundada em regras de conexão.
+ Nas razões do RE, a parte agravante alega violação aos arts. 5º, XXXVII e LIII e 93, IX da Constituição Federal, sustentando, em síntese, que há afronta ao princípio do juiz natural, quando, sem observar normas legais, o juiz considera conexos processos que não o são.
+2.  No que tange à irresignação manifestada pelo recorrente quanto à apontada afronta ao princípio do juiz natural (art. 5º, XXXVI e LIII), verifica-se que o Tribunal a quo, ao negar provimento ao agravo de instrumento, assim o fez nos termos da ementa que ora transcrevo (fls. 295-301):
+“ AGRAVO DE INSTRUMENTO. CONVERSÃO. PERIGO DE DANO. EXCEÇÃO DE INCOMPETÊNCIA. DECISÃO. REUNIÃO DE PROCESSOS. CONEXÃO . I – Havendo perigo de dano, o agravo deve ser recebido na modalidade de instrumento. Preliminar de conversão em retido rejeitada. II – Incabível exceção de incompetência para reformar decisão que determinou a reunião dos processos fundamentada em conexão. III – Agravo de instrumento improvido.”
+3.  Infere-se dos trechos transcritos que violação, se houvesse, seria reflexa ou indireta, sendo necessária a análise de legislação infraconstitucional, especialmente quanto à regras de conexão, além de requerer o reexame de fatos e provas da causa (Súmula STF 279), hipóteses inadmissíveis de apreciação em sede extraordinária. Desse entendimento não divergiu o Tribunal a quo. Nesse sentido: AI 753.445-AgR/RS, rel. Min. Eros Grau, 2ª Turma, DJe 25.9.2009; AI 515.938-AgR/RS, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 60.4.2010 e AI 681.668-AgR/SP, de minha relatoria, 2ª Turma, DJe 14.5.2010.
+4.  Ademais, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que a questão relativa ao reexame do julgamento proferido na Corte de origem, para fins de nulidade, por suposta ausência de fundamentação, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade ao disposto no art. 93, IX, da Constituição Federal. Veja-se o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002, cujo acórdão está assim ementado:
+ “ CONSTITUCIONAL. RECURSO EXTRAORDI-NÁRIO: ALEGAÇÃO DE OFENSA AO DEVIDO PROCESSO LEGAL E DE QUE O ACÓRDÃO NÃO ESTARIA FUNDAMENTADO. C.F., arts. 5º, II, XXXV, LIV e LV, e 93, IX .
+I. – Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional.
+II. – Decisão contrária ao interesse da parte não configura negativa de prestação jurisdicional (...)”.
+5.  Ante o exposto, nego seguimento ao agravo (art. 21, § 1º, RISTF).
+Publique-se.
+Brasília, 7 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
