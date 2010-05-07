@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento interposto pelo Estado do Paraná contra decisão que inadmitiu recurso extraordinário de acórdão no qual se discute o direito do contribuinte compensar créditos de ICMS acumulados em conta gráfica com imposto devido para desembaraço aduaneiro, previsto em lei estadual.
+ No RE, sustenta-se ofensa ao artigo 155 §2º, I, da Constituição Federal, sustentando, em síntese, que a decisão recorrida violou os Princípios da Não Cumulatividade de ICMS, da Tripartição dos Poderes e da Hierarquia Normativa.
+2.  O recurso não merece prosperar. Primeiramente, para o exame das violações alegadas, seria necessária a análise de legislação local (arts. 45, §2º e §4º; 25, §8º; 69 e 70, da Lei Estadual 11.580/96 e Decreto 5.141/2001 – Regulamento do ICMS do Estado do Paraná), o que encontra óbice na Súmula STF 280, além da análise dos dispositivos do Código Tributário Nacional, hipótese inviável em sede extraordinária.
+3.  Em segundo lugar, verifico que os dispositivos constitucionais tidos como violados não foram devidamente prequestionados, porque não abordados pela decisão recorrida, nem foram opostos embargos de declaração para satisfazer o requisito do prequestionamento. Incide, na espécie, os óbices das Súmulas STF 282 e 356.
+4.  Finalmente, observo que a própria parte agravante reconhece que a ofensa constitucional seria apenas reflexa ou indireta, a depender da análise da legislação infraconstitucional, quando afirma que: “É a denominada compensação – não a constante na regra constitucional matriz do ICMS (art. 155, §2º, I CF), que se refere à sistemática de resultado positivo entre débito e crédito - mas sim, a prevista no artigo 170 e parágrafo único do Código Tributário Nacional, como modalidade de crédito tributário.” (RE - fl. 61 e AI – fl. 06). Nesse sentido: AI 749.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, DJe 09.4.2010; RE 598.002-AgR/PR, rel. Min. Cármen Lúcia, 1ª Turma, DJe 30.4.2010 e AI 551.344-AgR/RJ, rel. Min. Ayres Brito, 1ª Turma, DJe 07.5.2010.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 07 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
