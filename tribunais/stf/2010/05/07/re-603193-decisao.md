@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição do Brasil, contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo ementado nos seguintes termos [fls. 350-351]:
+“APELAÇÃO CÍVEL. 1) LEI MUNICIPAL Nº 2.181/99. REDUÇÃO DA ALÍQUOTA DO ISSQN. EFEITOS PRETÉRITOS. PRAZO DE CINCO ANOS. EXPIRAÇÃO DA NORMA. POSSIBILIDADE. EFICÁCIA SOCIAL E JURÍDICA. MANUSEIO PELO LEGISLADOR. 2) RETROATIVIDADE NORMATIVA. VIOLAÇÃO AO ART. 150, III, “A”, DA CF/88. NÃO VERIFICAÇÃO. RETROATIVIDADE NÃO MALÉFICA. 3) APLICABILIDADE RETROATIVA DA LEI MUNICIPAL. TRATAMENTO MAIS BENÉFICO. GOZO RETROATIVO DOS BENEFÍCIOS. DESCONSIDERAÇÃO DO PERÍODO PRETÉRITO. DESCABIMENTO. RECURSO IMPROVIDO.
+1) Se o contribuinte-apelante estava gozando dos benefícios da Lei nº 2.181/99, do Município de Aracruz, não pugnar para que os efeitos pretéritos não sejam levados em consideração para fins de contagem do prazo de 05 (cinco) anos de expiração da norma, pois a eficácia social e jurídica da norma pode ser livremente manuseada pelo legislador, desde que não se oponha aos ditames constitucionais que cuida do assunto.
+2) A retroatividade normativa adotada pelo legislador infraconstitucional do Município de Aracruz não fere os ditames da Constituição Federal insculpidos em seu art. 150, III, ‘a’, pois a irretroatividade vedada pela Magna Carta concerne àquela que se mostra maléfica ao contribuinte, criando ou aumentando tributos.
+3) Assim, verifica-se que nenhuma ilegitimidade exsurge da aplicabilidade retroativa da Lei Municipal 2.181/99, haja vista o tratamento mais benéfico dispensado aos contribuintes, com a redução da alíquota em 50% (cinquenta por cento), sendo que o fato de o contribuinte-recorrente ter gozado, retroativamente, dos benefícios concedidos pela norma sub examine, retira sua pretensão no sentido de se desconsiderar tal período – pretérito – na contagem do prazo de vigência da lei. Recurso improvido.”
+2.  Alega-se, no recurso extraordinário, violação do disposto no artigo 150, III, “a”, da Constituição do Brasil.
+3.  O Ministério Público Federal, em parecer subscrito pelo Subprocurador-Geral da República Dr. Rodrigo Janot Monteiro de Barros, opina pelo desprovimento do recurso [fls. 473-476] nos seguintes termos:
+“[...] o princípio da irretroatividade da lei tributária deve ser interpretado como garantia constitucional instituída em benefício dos sujeitos passivos da atividade estatal. Assim, para a ocorrência de violação a esse comando, é mister seja a lei retroativa e seu conteúdo desfavorável às pretensões do contribuinte.
+Na hipótese apresentada pela Lei Municipal nº 2.181/99, houve efetivamente retroação dos efeitos a data anterior à respectiva entrada em vigor. Entretanto, trouxe benefício fiscal, consistente na redução da alíquota. Não houve, portanto, instituição ou aumento de tributo.
+Caso o contribuinte tenha pago o ISSQN com base em alíquota maior que a devida no período anterior à entrada em vigor da lei, terá direito à repetição do indébito e não à extensão do prazo do benefício por tempo determinado, sem a necessária previsão legal.
+Se a lei municipal não tornou mais gravosa a exação, não há que se falar em ofensa ao princípio da irretroatividade tributária”.
+4.  A manifestação do Ministério Público Federal há de ser acolhida.
+ Nego seguimento ao recurso com fundamento no disposto artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 7 de maio de 2010.
+Ministro Eros Grau
+- Relator -
