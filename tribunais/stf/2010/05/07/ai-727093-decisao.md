@@ -1,0 +1,9 @@
+1.  Trata-se de agravo de instrumento de decisão que não admitiu o recurso extraordinário manejado contra acórdão do Tribunal de Justiça do Rio de Janeiro, o qual decidiu pela confirmação da sentença para que o valor do reembolso de médico não credenciado seja feito pelo valor da tabela utilizada pela seguradora para remunerar o mesmo serviço dos médicos credenciados.
+2.  Nas razões do recurso extraordinário (fls. 193-195), alega o agravante ofensa ao artigo 5, LIV e LV, da CF.
+3.  O agravo não merece prosperar. Verifico que o art. 5º, LIV, acima apontado não se encontra prequestionado, porque não abordado no acórdão recorrido, ao qual não foram opostos embargos pela ora recorrente.
+4.  Ademais, mesmo superado o óbice do inciso LIV, a alegação de ofensa ao art. 5º, LIV e LV, da Constituição Federal e além de o fato de decisão contrária aos interesses da parte não caracterizar violação aos dispositivos constitucionais apontados, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 07 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
