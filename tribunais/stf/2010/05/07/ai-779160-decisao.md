@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discute a condenação de beneficiário da justiça gratuita em custas e honorários advocatícios, quando este desiste do processo.
+ No RE, alega-se ofensa ao artigo 5º, XXXV, LXXIV, da Constituição Federal, sustentando, em síntese, que não pode ser condenado em custas e honorários, pois foi-lhe deferido o benefício previsto na Lei 1.060/50.
+2.  O recurso não merece prosperar. Primeiramente, verifico que o acórdão recorrido decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie (Lei 1.060/50 e art. 26, § 3º do CPC), conforme se depreende claramente de sua ementa (fl. 89).
+3.  Quanto à alegação de ofensa ao art. 5º e seus incisos da Constituição federal, além de decisão contrária ao interesse das partes não implicar violação aos dispositivos constitucionais indicados, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+ Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+4.  Ademais, verifico que os dispositivos constitucionais apontados como violados não foram prequestionados, porque não abordados pelo acórdão recorrido, e, embora suscitados nos embargos a ele opostos, não foram apontados oportunamente nas razões do recurso de apelação (fls. 76-80). E, como tem reiteradamente decidido esta Corte, os declaratórios não se prestam a inovar matéria constitucional estranha aos autos.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 07 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
