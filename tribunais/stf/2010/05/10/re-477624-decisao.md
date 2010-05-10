@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+O PREFEITO DO MUNICÍPIO DE BELO HORIZONTE interpõe recurso extraordinário, com fundamento nas alíneas “a” e “c”, do permissivo constitucional, contra acórdão da Corte Superior do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“ADIN. ART. 160 DA LEI ORGÂNICA DO MUNICÍPIO DE BELO HORIZONTE EM CONFRONTO COM O ART. 201 DA CONSTITUIÇÃO DO ESTADO. DESTINAÇÃO DE 30% DA RENDA CORRENTE DO MUNICÍPIO AO ENSINO, ULTRAPASSANDO TAL PISO O MÍNIMO DE 25% DA CONSTITUIÇÃO. CONSTITUCIONALDAIDE DA NORMA, IMPROCEDÊNCIA DA REPRESENTAÇÃO, COM REVOGAÇÃO DA CAUTELAR.” (fl. 101)
+Opostos embargos de declaração (fls. 112 a 119), foram rejeitados (fls. 124 a 129).
+Sustenta o recorrente, em suma, violação dos artigos 2º e 212, da Constituição Federal, consubstanciada pela rejeição da alegada inconstitucionalidade da norma do artigo 160 da Lei Orgânica do Município de Belo Horizonte.
+Contra-arrazoado (fls. 159 a 169), o recurso extraordinário (fls. 132 a 154) não foi admitido (fls. 171 a 175), tendo seguimento em razão de decisão proferida pelo Ministro Sepúlveda Pertence em autos de agravo de instrumento (em apenso).
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dra. Wagner de Castro Mathias Netto, pelo não conhecimento, ou pelo provimento do recurso, se conhecido (fls. 193 a 195).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 19/11/03, conforme expresso na certidão de folha 130, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+O presente recurso, por intempestivo, não merece ser conhecido.
+De fato, publicado o acórdão dos embargos de declaração no dia 19 de novembro de 2003, quarta-feira, iniciou-se, no dia seguinte, a contagem do prazo para a interposição do presente recurso, expirando, portanto, no dia 4 de dezembro de 2003, uma quinta-feira. O recurso extremo, todavia, foi interposto somente no dia 17 de dezembro seguinte (fl. 132), vários dias depois do término do prazo. É, portanto, intempestivo.
+Com efeito, embora se trate de pessoa jurídica de direito público, o recorrente não dispõe da prerrogativa do prazo em dobro, prevista no artigo 188, caput, do Código de Processo Civil, vez que o feito em tela possui a natureza de processo objetivo em controle abstrato de constitucionalidade. Sobre o tema, anotem-se os seguintes precedentes:
+“RECURSO. Embargos de declaração. Caráter infringente. Embargos recebidos como agravo. Controle abstrato de constitucionalidade de lei local em face de Constituição estadual. Processo de cunho objetivo. Prazo recursal em dobro. Inaplicabilidade. Recurso extraordinário não conhecido. Agravo regimental improvido. Precedentes. São singulares os prazos recursais das ações de controle abstrato de constitucionalidade, em razão de seu reconhecido caráter objetivo” (RE nº 579.760/RS-ED, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 20/11/09) .
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CARIMBO COM A DATA DE PROTOCOLO DO RECURSO EXTRAORDINÁRIO ILEGÍVEL. ENTIDADE PÚBLICA. PRAZO PARA RECORRER. CONTROLE CONCENTRADO DE CONSTITUCIONALIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O carimbo do protocolo no recurso extraordinário deve ser claro o suficiente para permitir a verificação da data de interposição. 2. Não se aplica o privilégio do art. 188 do Código de Processo Civil nos processos de controle concentrado de constitucionalidade” (AI nº 633.998/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 23/10/09).
+No mesmo sentido, as seguintes decisões monocráticas: AI nº 788.453/SC, Relator o Ministro Ricardo Lewandowski, DJ de 18/3/10, RE nº 375.525MG, Relator o Ministro Celso de Mello, DJ de 3/11/09, e AI nº 555.860/MG, Relator o Ministro Marco Aurélio, DJ de 14/10/09.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, não conheço do recurso.
+Publique-se.
+Brasília, 10 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
