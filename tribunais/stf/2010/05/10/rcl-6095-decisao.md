@@ -1,0 +1,18 @@
+DECISÃO: Reclamação, com pedido de medida liminar, proposta pela União contra ato do Juiz da Vara do Trabalho de Maringá/PR nos autos da Reclamação Trabalhista n. 01957-2005-021-09-00-8.
+2.  A matéria debatida nestes autos diz respeito ao prazo para interposição de embargos à execução, em ação trabalhista, estabelecido no artigo 1º-B, da Lei n. 9.494/97 [acrescentado pela Medida Provisória n. 2.180-35, de 24 de agosto de 2001].
+3.  A reclamante sustenta que a autoridade reclamada, ao deixar de receber os embargos na execução no prazo fixado pela referida lei, violou a autoridade do que decidido por esta Corte no julgamento da ADC/MC n. 11.
+4.  O Juízo reclamado prestou informações às fls. 24/36. Afirma que “a União, citada em 22/01/08, interpôs Embargos à Execução em 12/2/08, após o prazo de 10 dias constante na mandado de citação, aduzindo que o prazo para Administração Pública opor embargos é de 30 dias, conforme a Medida Provisória nº 2.180-35, de 24/8/01, que incluiu o art. 1º-B na Lei nº 9.494/97” [fl. 24].
+5.  O Ministério Público Federal opinou pela procedência do pedido, reconhecendo que a decisão impugnada afrontaria a decisão proferida na ADC/MC n. 11 [fls. 44/46].
+6.  Deferi a medida liminar para determinar que a 2ª Vara do Trabalho de Maringá/PR suspendesse a tramitação da Reclamação Trabalhista n. 01957-2005-021-09-00-8 [fls. 16/17].
+7.  É o relatório. Decido.
+8.  O Plenário desta Corte, no julgamento da Rcl n. 5.758, Relatora a Ministra CÁRMEN LÚCIA, DJ de 7.8.09, ao decidir questão idêntica a ora em análise, julgou procedente o pedido por entender que
+“1. [a] decisão que deixa de receber embargos às execução trabalhista opostos no prazo legal, afastando a aplicação do art. 1º-B da Lei n. 9.494/1997, descumpre a decisão proferida na Ação Declaratória de Constitucionalidade n. 11-MC/DF. 2. A prestação jurisdicional é uma das formas de se concretizar o princípio da dignidade humana, o que torna imprescindível seja ela realizada de forma célere, plena e eficaz. Não é razoável que, diante das peculiaridades do caso e da idade avançada da exeqüente, se determine suspensão da execução trabalhista e se imponha à parte que aguarde o julgamento definitivo da ação apontada paradigma nesta Reclamação”.
+9.  O Ministro CARLOS BRITTO, em decisão monocrática, julgou procedente o pedido da Rcl n. 8.766, DJ de 12.4.10, para cassar o acórdão reclamado e determinar o imediato processamento dos embargos à execução opostos pelo autor. Reiterou entendimento consolidado em inúmeros precedentes, no sentido de que afronta a autoridade deste Tribunal, decisão que não conhece, por intempestividade, embargos à execução opostos, em ação trabalhista, conforme o prazo estabelecido no artigo 1º-B, da Lei n. 9.494/97 [acrescentado pela Medida Provisória n. 2.180-35, de 24 de agosto de 2001].
+10.  Há outras decisões nesse sentido: a Rcl n. 9.541, Relator o Ministro CARLOS BRITTO, DJ de 26.3.10; a Rcl n. 9.934, Relator o Ministro DIAS TOFFOLI, DJ de 10.3.10 e a Rcl n. 8.491, Relatora a Ministra ELLEN GRACIE, DJ de 3.3.10.
+ Julgo procedente o pedido, conforme o disposto no artigo 161, parágrafo único, do RISTF para determinar ao Juízo da 2ª Vara do Trabalho de Maringá/PR o imediato processamento dos embargos à execução opostos no prazo previsto no artigo 1º-B da Lei 9.494/97, nos autos da Reclamação Trabalhista n. 01957-2005-021-09-00-8.
+ Arquivem-se estes autos.
+ Comunique-se.
+ Publique-se.
+ Brasília, 10 de maio de 2010.
+Ministro Eros Grau
+- Relator -
