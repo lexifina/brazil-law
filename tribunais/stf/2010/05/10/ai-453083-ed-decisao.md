@@ -1,0 +1,25 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS – DECISÃO SINGULAR – ADEQUAÇÃO.
+EMBARGOS DECLARATÓRIOS – INEXISTÊNCIA DE VÍCIO - DESPROVIMENTO.
+1. Às folhas 86 e 87, proferi decisão do seguinte teor:
+CONTRIBUIÇÃO – SEGURO DE ACIDENTE DE TRABALHO – SAT – LEIS NºS 7.787/89, ARTIGOS 3º E 4º; 8.212/91, ARTIGO 22, INCISO II, COM A REDAÇÃO DA LEI Nº 9.732/98; DECRETOS NºS 612/92, 2.173/97 E 3.048/99; CONSTITUIÇÃO FEDERAL, ARTIGOS 195, § 4º, 154, INCISO II, 5º, INCISO II, E 150, INCISO I - PRECEDENTE DO PLENÁRIO - RE Nº 343446-2/SC, RELATOR MINISTRO CARLOS VELLOSO, DJ DE 04.04.2003 – RECURSO EXTRAORDINÁRIO – CONHECIMENTO E PROVIMENTO NOS AUTOS DE AGRAVO PROVIDO.
+1. O Pleno da Corte, em sessão realizada em 20 de março de 2003 - oportunidade na qual estive ausente em representação do Tribunal -, assentou:
+CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO: SEGURO DE ACIDENTE DO TRABALHO - SAT. Lei 7.787/89, arts. 3º e 4º; Lei 8.212/91, art. 22, II, redação da Lei 9.732/98. Decretos 612/92, 2.173/97 e 3.048/99. C.F., artigo 195, § 4º; art. 154, II; art. 5º, II ; art. 150, I.
+I. - Contribuição para o custeio do Seguro de Acidente do Trabalho - SAT: Lei 7.787/89, art. 3º, II; Lei 8.212/91, art. 22, II: alegação no sentido de que são ofensivos ao art. 195, § 4º, c/c art. 154, I, da Constituição Federal: improcedência. Desnecessidade de observância da técnica da competência residual da União, C.F., art. 154, I. Desnecessidade de lei complementar para a instituição da contribuição para o SAT.
+II. - O art. 3º, II, da Lei 7.787/89, não é ofensivo ao princípio da igualdade, por isso que o art. 4º da mencionada Lei 7.787/89 cuidou de tratar desigualmente aos desiguais.
+III. - As Leis 7.787/89, art. 3º, II, e 8.212/91, art. 22, II, definem, satisfatoriamente, todos os elementos capazes de fazer nascer a obrigação tributária válida. O fato de a lei deixar para o regulamento a complementação dos conceitos de "atividade preponderante" e "grau de risco leve, médio e grave", não implica ofensa ao princípio da legalidade genérica, C.F., art. 5º, II, e da legalidade tributária, C.F., art. 150, I.
+IV. - Se o regulamento vai além do conteúdo da lei, a questão não é de inconstitucionalidade, mas de ilegalidade, matéria que não integra o contencioso constitucional.
+V. - Recurso extraordinário não conhecido.
+2. O acórdão impugnado contraria o precedente.
+3. Conheço deste agravo e o provejo, assentando o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Ante o precedente do Plenário, aciono o disposto nos artigos 544, §§ 3º e 4º, e 557, § 1º-A, do Código de Processo Civil e julgo, desde logo, o extraordinário, conhecendo-o e provendo-o para denegar a segurança.
+4. Publique-se.
+Brasília, 10 de julho de 2003.
+Os contribuintes protocolaram os embargos de declaração de folha 97 a 101. Consideram que o pronunciamento padece de contradição, porquanto, no item IV do Recurso Extraordinário nº 343.446-2/SC, ter-se-ia registrado que, “se o regulamento vai além do conteúdo da lei, a questão não é de inconstitucionalidade, mas de ilegalidade, matéria que não integra o contencioso constitucional” (folha 98). Entendem que, no acórdão recorrido, o tema foi discutido à luz da legislação infraconstitucional, estando a decisão de inadmissibilidade do extraordinário correta e em conformidade com o precedente citado.
+O Instituto Nacional do Seguro Social apresentou as contrarrazões de folha 106 a 108. Aponta o não cabimento de embargos declaratórios contra decisão singular e a natureza protelatória da medida. Evoca o item III do acórdão relativo ao Recurso Extraordinário nº 343.446-2/SC.
+2. Na interposição destes embargos, observaram-se os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente constituído (folha 26 a 28), foi protocolada no prazo assinado em lei.
+Sob o ângulo da preliminar suscitada pelo Instituto, atentem para o fato de, em que pese à jurisprudência pragmática sobre a matéria, qualquer pronunciamento com carga decisória, pouco importando a instância e o órgão autor, desafiar embargos declaratórios. A finalidade destes é o aperfeiçoamento da prestação jurisdicional. Rejeito a preliminar.
+No mais, o Pleno desta Corte enfrentou, no julgamento do precedente – Recurso Extraordinário nº 343.446-2/SC –, o tema de fundo empolgado pela Corte de origem e concluiu que “o fato de a lei deixar para o regulamento a complementação dos conceitos de 'atividade preponderante' e 'grau de risco leve, médio e grave' não implica ofensa ao princípio da legalidade genérica, CF, art. 5º, II, e da legalidade tributária CF, art. 150, inciso I”. Ora, no caso, o pronunciamento embargado fez-se ao mundo jurídico presente a circunstância de o Tribunal de origem haver decidido de forma diametralmente oposta. No corpo do ato que implicou o conhecimento e provimento do agravo e a reforma do que assentado na origem, ante a conversão em recurso extraordinário, foi transcrita a ementa do precedente. Desprovejo estes embargos declaratórios.
+3. Publiquem.
+Brasília – residência –, 10 de maio de 2010, às 14h30.
+Ministro MARCO AURÉLIO
+Relator
