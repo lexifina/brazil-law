@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. 1. ALTURA MÍNIMA. EXIGÊNCIA CONSTANTE EXCLUSIVAMENTE NO EDITAL. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 2. AUSÊNCIA DE PREVISÃO LEGAL. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+   Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios:
+“MANDADO DE SEGURANÇA – CONCURSO PÚBLICO DA POLÍCIA MILITAR DO DISTRITO FEDERAL – EXIGÊNCIA DE ALTURA MÍNIMA – FALTA DE PREVISÃO LEGAL - PRECEDENTES JURISPRUDENCIAIS – ILEGALIDADE DE CONDENAÇÃO DO DISTRITO FEDERAL AO PAGAMENTO DE DESPESAS PROCESSUAIS – DECRTO-LEI Nº 500/69 – ISENÇÃO. 1 – A exigência de altura mínima para o exercício de função de Policial Militar, embora prevista em edital, afronta aos princípios constitucionais da igualdade e da legalidade, e somente se afigura possível se expressamente prevista em lei.
+2 – Impossibilidade de condenar o Distrito Federal ao pagamento de despesas processuais, face o disposto no Decreto-Lei nº 500/69.
+3 – Recursos, de apelação e remessa oficial, conhecidos e parcialmente providos” (fl. 222).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário, a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta e a incidência das Súmulas 282, 283 e 284 do Supremo Tribunal Federal (fls. 269-271).
+4. O Agravante alega que teriam sido afrontados os arts. 5°, caput e inc. LIV, e 37, inc. I e II, da Constituição da República.
+Argumenta que “a persistir a decisão recorrida, que considerou ilegal a exigência de altura mínima para o cargo de Soldado da Polícia Militar do Distrito Federal, será frontalmente violado o Princípio da Isonomia, esculpido no art. 5º, caput, da Constituição Federal. Com efeito, todos os participantes do certame foram submetidos a essa exigência. Não é, portanto, juridicamente aceitável que o requisito imposto a todos os demais concorrentes seja dispensado pelo Judiciário, somente em relação à ora Recorrida” (fl. 262).
+Sustenta, ainda, que “a Recorrida somente prosseguiu no segundo certame que realizou, por força de liminar deferida em processo em que se discutia sua preterição no certame anterior. Ocorre que a ação ordinária em que se discutia a preterição foi julgada improcedente, com a decisão já transitada em julgado. Restou decidido que não houve preterição. A (...) fora aprovada em 129º lugar, para concurso que disponibilizou somente 100 vagas. Assim, não há que se falar em regular aprovação no concurso público, pois somente prosseguiu nas demais fazes por força de provimentos judiciais precários” (fl. 264).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que é imprescindível a previsão em lei da exigência de altura mínima como requisito para habilitação em concurso público.
+Nesse sentido:
+“CONCURSO PÚBLICO - ALTURA MÍNIMA - INEXISTÊNCIA DE LEI. Longe fica de vulnerar a Constituição Federal pronunciamento no sentido da inexigibilidade de altura mínima para habilitação em concurso público quando esta for prevista estritamente no edital, e não em lei em sentido formal e material. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (AI 598.715-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 9.5.2008).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL MILITAR. ALTURA MÍNIMA. PREVISÃO LEGAL. INEXISTÊNCIA. 1. Somente lei formal pode impor condições para o preenchimento de cargos, empregos ou funções públicas. Precedentes. 2. Agravo regimental a que se nega provimento” (AI 627.586-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 19.12.2007).
+“Agravo regimental em recurso extraordinário. 2. Concurso público. Altura mínima. Ausência de previsão legal. Precedentes. 3. Agravo regimental a que se nega provimento” (RE 509.296-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 5.10.2007).
+E, ainda, as seguintes decisões monocráticas: RE 532.092, Rel. Min. Cezar Peluso, DJe 18.2.2010; e AI 637.616, Rel. Min. Eros Grau, DJe 16.11.2009.
+7. No caso vertente, o Tribunal de origem assentou que “os requisitos a serem atendidos pelo candidato a determinado cargo ou função pública devem constar em lei, e não serem frutos de meras elucubrações, respaldadas ‘sabe-se lá em quais critérios’. A Lei nº 7.289/94, Estatuto da Polícia Militar, exige capacidade física para o exercício da função e não estatura mínima” (fl. 226).
+O reexame do acórdão impugnado demandaria a análise prévia de legislação infraconstitucional. Assim, a alegada ofensa à Constituição, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONCURSO PÚBLICO. POLÍCIA MILITAR. EXIGÊNCIA DE ALTURA MÍNIMA. AUSÊNCIA DE PREVISÃO LEGAL. CONTROVÉRSIA QUE DEMANDA O PRÉVIO EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 574.057-AgR, de minha relatoria, DJe 17.8.2007).
+“AGRAVO REGIMENTAL. ADMINISTRATIVO. CONCURSO PÚBLICO PARA O CARGO DE POLICIAL MILITAR DO ESTADO DA BAHIA. ALTURA MÍNIMA EXIGIDA. NECESSIDADE DE PREVISÃO LEGAL PARA DEFINIÇÃO DOS REQUISITOS PARA INGRESSO NO SERVIÇO PÚBLICO. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO. Agravo regimental a que se nega provimento” (AI 588.768-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 3.8.2007).
+Não há, pois, o que prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 11 de maio de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
