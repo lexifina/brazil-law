@@ -1,0 +1,36 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO – INEXISTÊNCIA DE VÍCIO – DESPROVIMENTO.
+1.  Por meio da decisão de folha 198 a 200, dei provimento ao agravo, consignando:
+AGRAVO DE INSTRUMENTO – CONHECIMENTO E PROVIMENTO.
+AUTOS – CONVERSÃO EM EXTRAORDINÁRIO – DISTRIBUIÇÃO – AUDIÇÃO DO PROCURADOR-GERAL DA REPÚBLICA – JULGAMENTO AFETADO AO PLENO.
+1.  Eis como a Assessoria resumiu as balizas deste agravo:
+O Tribunal Regional Federal da 1ª Região reformou em parte o entendimento constante na sentença, julgando procedente o pedido de pagamento de diferenças salariais decorrentes do reajuste de 28,86% concedido aos militares, ante fundamentos assim sintetizados (folha 74):
+CONSTITUCIONAL E ADMINISTRATIVO. SERVIDORES PÚBLICOS MILITARES. REAJUSTE DE VENCIMENTOS (28,86%). LEIS 8.622/93 E 8.627/93. ÍNDICE INFERIOR. DIREITO À COMPLEMENTAÇÃO. PRECEDENTE DO STF. LIMITAÇÃO AOS EFEITOS DA MP 2.131/2000.
+1. Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do qüinqüênio anterior à propositura da ação.
+2. A jurisprudência do colendo STF orientou-se no sentido de que o reajuste de vencimentos de 28,86%, concedido aos militares pelas Leis 8.622/93 e 8.627/93, é extensivo aos servidores públicos federais civis, determinando, entretanto, a compensação dos percentuais de reajuste deferidos por força do reposicionamento funcional concedido aos servidores públicos federais civis, pelos arts. 1º e 3º da Lei 8.627/93 (Embargos de Declaração no Recurso Ordinário em Mandado de Segurança 22.307-7/DF, Rel. para o acórdão o Min. Ilmar Galvão, Pleno, STF, maioria, DJ de 26.6.98).
+3. Por idêntico fundamento, têm direito a esse índice de reajuste os servidores públicos federais militares contemplados pelas referidas leis com índices de reajustes inferiores.
+4. A parte final do art. 89 do ADCT, com a redação dada pela EC 38/2002, não tem o condão de afastar o direito ao pagamento do referido reajuste geral.
+5. O reajuste de 28,86% deve ser limitado aos efeitos da Medida Provisória 2.131/2000, que revogou os arts. 6º e 8º da Lei 8.622/93, o art. 2º da Lei 8.627/93 e a Lei 8.237/91, implementando nova reestruturação na remuneração dos militares das Forças Armadas.
+6. Apelação a que se dá parcial provimento.
+Os embargos de declaração a seguir protocolados foram desprovidos (folha 84 a 87).
+No extraordinário cujo trânsito busca-se alcançar,  interposto com alegada base nas alíneas “a” e “b” do permissivo constitucional, argúi-se, preliminarmente, a nulidade do acórdão relativo aos embargos de declaração, por negativa de prestação jurisdicional, afirmando-se a transgressão do artigo 5º, incisos XXXV, LIV e LV, da Carta da República. No mérito, aponta-se violado o disposto no artigo 89 do Ato das Disposições Constitucionais Transitórias, com a redação introduzida pela Emenda Constitucional nº 38/2002, o qual, segundo o alegado, ao determinar a absorção dos servidores militares do extinto território de Rondônia pelo quadro de pessoal da União, implicou a vedação expressa ao deferimento do benefício concedido.
+O Juízo primeiro de admissibilidade entendeu ausente o prequestionamento e registrou ter sido a causa decidida com base em interpretação de lei federal (folha 149).
+A União, na minuta de folha 2 a 7, insiste no cabimento do extraordinário e renova os argumentos contidos no recurso, sustentando a existência de violação frontal a dispositivo da Constituição Federal.
+A agravada apresentou a contraminuta de folha 153 a 162, defendendo o acerto da decisão impugnada.
+2.  Na interposição deste agravo, foram atendidos os pressupostos específicos de recorribilidade. A peça, subscrita por advogada da União, veio acompanhada dos documentos previstos no artigo 544, § 1º, do Código de Processo Civil e restou protocolada no prazo dobrado a que tem jus a agravante.
+O Tribunal Regional Federal da 1ª Região, sem declarar a inconstitucionalidade do artigo 89 do Ato das Disposições Constitucionais Transitórias, incluído pela Emenda Constitucional nº 38/2002, proclamou (folha 70):
+Com efeito, a norma constante do art. 89 do Ato das Disposições Constitucionais Transitórias não pode atingir direito dos servidores do ex-Território Federal de Rondônia, em período anterior à data da vigência da Emenda Constitucional 38, publicada no DOU de 13.06.2003 (sic), que acrescentou o aludido dispositivo ao texto do ADCT.
+ Pois bem, na parte final do aludido preceito, consta ser vedado:
+[...] o pagamento, a qualquer título, de diferenças remuneratórias, bem como ressarcimentos ou indenizações de qualquer espécie, anteriores à promulgação desta Emenda.
+Ora, o que decidido conflita com o mencionado dispositivo, viabilizando, assim, a seqüência do extraordinário.
+3.  Conheço deste agravo e o provejo, assentando encontrar-se o extraordinário enquadrado na alínea “a” do inciso III do artigo 102 da Constituição Federal. Converto os autos no citado recurso, o qual deverá ser distribuído por prevenção. Colham, a seguir, a manifestação do Procurador-Geral da República, ficando o julgamento, desde logo, afetado ao Plenário ante a necessidade de emitir-se entendimento sobre a harmonia, ou não, do artigo 89 do Ato das Disposições Constitucionais Transitórias com o corpo permanente da Carta.
+4.  Publiquem.
+ A Associação dos Policiais Militares do Ex-Território Federal de Rondônia – ASSPOMETRON, nos declaratórios de folha 207 a 213, aponta omissão no julgado, quanto ao exame de deficiência do agravo de instrumento, ante a ausência de fundamentação adequada. Salienta a impossibilidade de se conhecer do agravo, porquanto na decisão que implicou o não-recebimento do extraordinário assentou-se a ausência de prequestionamento, ao passo que nas razões do agravo de instrumento a União teria abordado genericamente do tema defendendo o caráter implícito. Entende adequada à espécie a orientação do Verbete nº 284 da Súmula desta Corte.
+ A União apresentou as contrarrazões de folha 221 a 226, sustentando a ausência dos pressupostos de admissibilidade dos embargos declaratórios, porquanto inexistente qualquer omissão, obscuridade ou contradição no ato atacado.
+2.  Na interposição destes embargos foram observados os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente constituída (folhas 24 e 184), foi protocolada no prazo assinado em lei.
+ Não prospera a articulação da embargante. Conforme salientado à folha 199, foram atendidos os pressupostos de recorribilidade. Os argumentos trazidos no agravo de instrumento interposto pela União visavam a infirmar os fundamentos da decisão mediante a qual não se admitiu o extraordinário. O Juízo primeiro de admissibilidade entendeu ausente o prequestionamento e registrou ter sido a causa decidida com base em interpretação de lei federal (folha 149). A agravante, na minuta de folha 2 a 7, insistiu no cabimento do recurso, sustentando a existência de violação frontal a dispositivo da Constituição Federal, e ressaltando o preenchimento do requisito alusivo ao prequestionamento.
+3.  Ante o exposto, ausente o vício indicado, conheço dos embargos de declaração e os desprovejo.
+4.  Publiquem.
+Brasília, 11 de maio de 2010.
+Ministro Marco Aurélio
+Relator
