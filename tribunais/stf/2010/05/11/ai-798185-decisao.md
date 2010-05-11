@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL TRABALHISTA. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DA COMPETÊNCIA DE TRIBUNAL DIVERSO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O Tribunal Superior do Trabalho julgou recurso ordinário em ação rescisória, nos termos seguintes:
+“RECURSO ORDINÁRIO EM AÇÃO RESCISÓRIA. AUXÍLIO-ALIMENTAÇÃO. SUPRESSÃO. INDICAÇÃO DE VIOLAÇÃO DOS ARTIGOS 5º, INCISOS II, XXXVI e LV, DA CONSTITUIÇÃO FEDERAL, 3º DO CPC, 444 DA CLT E DE CONTRARIEDADE COM A SÚMULA N. 288 E COM A ORIENTAÇÃO JURISPRUDENCIAL TRANSITÓRIA N. 51, AMBAS DO TST. Inovatória a alegação de afronta dos artigos 5º, incisos II, XXXVI e LV, da Constituição Federal e 444 da CLT e de contrariedade com a Súmula n. 288 e com a Orientação Jurisprudencial Transitória n. 51, todas do TST, porquanto a autora, ao ajuizar a presente ação rescisória, limitou-se a indicar violação dos artigos 7º, inciso XXIX, da Constituição Federal; 189, do CC de 2002 e 9º, 11 e 468 da CLT, e contrariedade à Súmula n. 51 TST.
+AUXÍLIO-ALIMENTAÇÃO. SUPRESSÃO. INDICAÇÃO DE CONTRARIEDADE À SÚMULA N. 51. Afasta-se a alegação de contrariedade à Súmula n. 51 do TST, em face do disposto na Orientação Jurisprudencial n. 25 da SBDI-2 do TST, no sentido de que não procede pedido de rescisão fundado no artigo 485, inciso V, do CPC quando se aponta contrariedade a Súmula e a Orientação Jurisprudencial de Tribunal.
+AUXÍLIO-ALIMENTAÇÃO. SUPRESSÃO. VIOLAÇÃO DOS ARTIGOS 189 DO CCB/2002, 9º E 468 DA CLT. AUSÊNCIA DE TESE, PELA V. DECISÃO RESCINDENDA DA MATÉRIA CONTIDA EM REFERIDOS PRECEITOS LEGAIS. APLICAÇÃO DA SÚMULA N. 298 DO TST. Se o v. acórdão rescindendo sequer expressou tese que abrangesse a matéria debatida na ação rescisória pela ótica que quer conferir a autora, aplica-se a Súmula n. 298 do TST como óbice ao exame do pedido rescisório fundado em violação dos artigos 189 do CCB/2002, 9º e 468 da CLT.
+PRESCRIÇÃO. AUXÍLIO-ALIMENTAÇÃO. SUPRESSÃO. VIOLAÇÃO DO ARTIGO 7º, INCISO XXIX, DA CONSTITUIÇÃO FEDERAL. INCIDÊNCIA DA SÚMULA N. 409 DO TST. Não procede ação rescisória calcada em violação do art. 7º, XXIX, da CF/88 quando a questão envolve discussão sobre a espécie de prazo prescricional aplicável aos créditos trabalhistas, se total ou parcial, porque a matéria tem índole infraconstitucional, construída, na Justiça do Trabalho, no plano jurisprudencial (Súmula n. 409 do TST). Recurso ordinário não provido” (fls. 239-240).
+Os embargos declaratórios opostos foram julgados nos seguintes termos:
+“EMBARGOS DE DECLARAÇÃO. RECURSO ORDINÁRIO EM AÇÃO RESCISÓRIA. O requerimento efetuado pela autora, via embargos de declaração, envolve a análise do mérito da questão referente à prescrição, que sequer foi analisado pelo v. acórdão embargado em face da aplicação do óbice processual contido na Súmula n. 409 do TST, pelo que foge aos estreitos limites do remédio processual ora utilizado. Embargos de declaração rejeitados” (fl. 256).
+3. A decisão agravada teve com fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta.
+4. A Agravante argumenta que:
+“Ao contrário do despacho denegatório, não se trata de recurso extraordinário buscando discutir questão processual. As decisões originárias afrontam a Constituição Federal, ao reconhecer a ocorrência da prescrição antes de transcorrido o lapso temporal previsto no art. 7º, inços XXIX, da CF/88” (fl. 3).
+No recurso extraordinário, alega que o Tribunal a quo teria contrariado o art. 7º, inc. XXIX, da Constituição.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+O Ministro Relator consignou em seu voto condutor que:
+“Por fim, também não se vislumbra a apontada infringência do artigo 7º, inciso XXIX, da Constituição Federal, uma vez que, assim como bem entendeu a v. decisão recorrida, incide à espécie, como óbice ao pedido de rescisão fulcrado em referido dispositivo constitucional, o disposto na Súmula n. 409 do TST, de seguinte teor: ‘AÇÃO RESCISÓRIA. PRAZO PRESCRICIONAL. TOTAL OU PARCIAL. VIOLAÇÃO DO ART. 7º, XXIX, DA CF/88. MATÉRIA INFRACONSTITUCIONAL. Não procede ação rescisória calcada em violação do art. 7º, XXIX, da CF/88 quando a questão envolve discussão sobre a espécie de prazo prescricional aplicável aos créditos trabalhistas, se total ou parcial, porque a matéria tem índole infraconstitucional, construída, na Justiça do Trabalho, no plano jurisprudencial’” (fl. 214).
+Conforme se verifica, o Tribunal Superior do Trabalho limitou-se ao exame de cabimento de recurso de sua competência.
+No julgamento do Recurso Extraordinário 598.365, Relator o Ministro Ayres Britto, o Plenário do Supremo Tribunal Federal afirmou a inexistência de repercussão geral da questão discutida nestes autos:
+“Processual civil. Pressupostos de admissibilidade de recursos da competência de Cortes diversas. Ausência de repercussão geral em questão constitucional. Matéria infraconstitucional”.
+Declarada a ausência de repercussão geral, os recursos extraordinários e respectivos agravos de instrumento que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência do Supremo Tribunal Federal, razão pela qual nada há a prover quanto às alegações do Agravante.
+6. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 11 de maio de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
