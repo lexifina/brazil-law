@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+ARBI S/A SOCIEDADE CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Turma do Tribunal Regional Federal da 2ª Região, assim ementado:
+“TRIBUTÁRIO. CONSTITUCIONAL. PIS. ART. 72, V, DO ADCT.
+- Mandado de segurança objetivando o pagamento do PIS, com a alteração instituída pelo inciso V, do art. 72, do ADCT, sem a alteração de sua base de cálculo introduzida pela MP nº 517 e reedições.
+- O PIS das instituições financeiras integra o Fundo Social de Emergência (atual Fundo de Estabilização Fiscal), incidindo sobre a receita bruta, tal como deferida na legislação do Imposto de Renda e Proventos (art. 72 do ADCT).
+- A Medida provisória nº 517 afronta o texto constitucional, já que o art. 73 do ADCT veda, expressamente, a utilização de medida provisória para regular o citado Fundo” (fl. 86).
+Opostos embargos de declaração (fls. 89 a 90), foram acolhidos, sem alteração no resultado do julgamento (fls. 91 a 95).
+Alegam os recorrentes contrariedade aos artigos 150, inciso III, letra “b” e 195, § 6º, da Constituição Federal, consubstanciada pelo reconhecimento da legalidade da cobrança do PIS referente ao ano de 1996.
+Contra-arrazoado (fls. 128 a 132), o recurso extraordinário (fls. 99 a 107) não foi admitido, na origem (fls. 134), daí a interposição do presente agravo.
+Decido.
+Anote-se, inicialmente que o acórdão dos embargos de declaração foi publicado em 7/12/2000, conforme expresso na certidão da folha 95, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Inicialmente, convém deixar desde logo ressaltado que no âmbito deste agravo, a única matéria ainda a apreciar, diz respeito à efetiva incidência do PIS, no ano de 1996, pois o acórdão recorrido acolheu as demais pretensões então deduzidas pela ora agravante, o que ensejou a interposição de recurso por parte da União, em que será devidamente discutida a questão referente ao conceito de faturamento, para fins de incidência da exação em tela.
+Não há, pois, que se falar em sobrestamento do andamento do feito, à espera do julgamento do RE nº 400.479, tal como postulado pela agravante.
+Quanto ao mais, tem-se que o presente agravo deve ser desde logo rejeitado, pois o acórdão recorrido decidiu a questão objeto do presente recurso no mesmo sentido da jurisprudência firmada neste Supremo Tribunal Federal acerca do tema.
+Citem-se, para ilustrar, os seguintes precedentes:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. PIS. EC 17/97. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL. O termo ‘a quo’ do prazo de anterioridade previsto no art. 195, § 6º, da CB/88 flui da data da publicação da medida provisória, que não perde a eficácia, se não convertida em lei, mas editado outro provimento da mesma espécie, dentro do prazo de validade de trinta dias. Precedentes. Agravo regimental a que se nega provimento.” (RE nº 595.673/SP-AgR, Relator o Ministro Eros Grau, Segunda Turma, DJe de 7/8/09).
+“1. RECURSO. Agravo de instrumento. Admissibilidade. Ausência de peça obrigatória. Comprovação. Reconsideração. Demonstrada a presença da peça obrigatória, deve ser reapreciado o recurso. 2. Recurso. PIS. Medida Provisória. Majoração. Constitucionalidade. Não há qualquer vício de inconstitucionalidade na majoração da contribuição para o PIS mediante a edição de medida provisória. 3. Recurso. Medida Provisória. Reedições. Anterioridade nonagesimal. Fluência a partir da última medida provisória. Não perde eficácia a Medida Provisória com força de lei, não apreciada pelo Congresso Nacional, mas reeditada, dentro do prazo de sua vigência, por outra do mesmo gênero. Nesse caso, o prazo nonagesimal começa a fluir a partir da edição da primeira Medida” (AI nº 623.157/SP-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, 9/10/09).
+“1. Recurso extraordinário. 2. Emenda Constitucional nº 42/2003 que prorrogou a CPMF e manteve alíquota de 0,38% para o exercício de 2004. 3. Alegada violação ao art. 195, §6º, da Constituição Federal. 4. A revogação do artigo que estipulava diminuição de alíquota da CPMF, mantendo-se o mesmo índice que vinha sendo pago pelo contribuinte, não pode ser equiparada à majoração de tributo. 5. Não incidência do princípio da anterioridade nonagesimal. 6. Vencida a tese de que a revogação do inciso II do §3º do art. 84 do ADCT implicou aumento do tributo para fins do que dispõe o art. 195, §6º da CF. 7. Recurso provido” (RE nº 566.032/RS, Tribunal Pleno, Relator o Ministro Gilmar Mendes, DJe de 23.10.2009).
+No mesmo sentido, as seguintes decisões monocráticas: RE nº 421.821/BA, Relator o Ministro Joaquim Barbosa, DJ de 10/2/10, RE nº 410.220/RJ, Relator o Ministro Celso de Mello, DJ de 14/12/09, e RE nº 438.859/RS, Relatora a Ministra Cármen Lúcia, a publicar.
+Ante o exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 11 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
