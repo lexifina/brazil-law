@@ -1,0 +1,3 @@
+# LEI Nº 15.158, de 11 de maio de 2010
+Institui a Gratificação Especial de Estímulo ao Desenvolvimento da Infraestrutura Estadual para os servidores do Departamento Estadual de Infraestrutura - DEINFRA e Secretaria de Estado da Infraestrutura - SIE, dispõe sobre o valor total da despesa com a Gratificação de Serviços de Transportes para os servidores do Departamento de Transportes e Terminais - DETER e estabelece outras providências.
+Faço saber que o Governador do Estado de Santa Catarina, de acordo com o art. 51 da Constituição Estadual, adotou a Medida Provisória nº 165, de 30 de março de 2010, e eu, Deputado Gelson Merisio, Presidente da Assembleia Legislativa do Estado, para os efeitos do disposto no § 8º do art. 315 do Regimento Interno, promulgo a seguinte Lei:
