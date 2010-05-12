@@ -1,0 +1,19 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“PROCESSUAL CIVIL. CONSTITUCIONAL E ADMINISTRATIVO. RECURSO DE AGRAVO. SENTENÇA ILÍQUIDA. NÃO SE TRATA DE DUPLO GRAU OBRIGATÓRIO DE JURISDIÇÃO. ESTABILIDADE FINANCEIRA. REDISCUSSÃO DA MATÉRIA. PRECEDENTES UNÂNIMES NOS TRIBUNAIS. RECURSO IMPROVIDO À UNANIMIDADE.
+(...)
+4 - A autora completou o tempo exigido na Lei Complementar de nº 03/90.
+5 – A possibilidade do arbitramento de honorários abaixo do mínimo legal não significa a obrigatoriedade.
+6 – Recurso de agravo conhecido e improvido à unanimidade” (fl. 42).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, LIV e LV, da mesma Carta.
+O agravo não merece acolhida. É que o Tribunal de origem decidiu a causa nos seguintes termos:
+“Assim, em 1992, a autora completou o tempo exigido na Lei Complementar de nº 03/90, ao permanecer durante cinco anos em ocupação de cargo comissionado, e adquiriu o benefício da estabilidade financeira, de forma que a sentença vergastada deve ser reformada.
+Ademais, não deve prosperar a alegação do apelado no sentido de que se encontrava suspensa a vigência do art. 98, inc. XVIII da Constituição Estadual e que por isto a apelante não faria jus ao direito da estabilidade financeira. Isto porque o pedido da apelante também se amparava na Lei Complementar de nº 03/90, cuja inconstitucionalidade foi afastada” (fl. 46).
+Portanto, é patente que o acórdão recorrido entendeu que a incorporação da mencionada vantagem tem fundamento na Lei Complementar Estadual 03/90, bem como no preenchimento dos requisitos legais necessários para o seu recebimento. Para concluir em sentido diverso, faz-se necessária a análise de normas infraconstitucionais locais e o reexame das provas contidas nos autos, o que encontra óbice nas Súmulas 279 e 280 do STF. Nesse sentido cito os seguintes julgados:
+“RECURSO. Extraordinário. Inadmissibilidade. Gratificação de função. Estabilidade financeira. Lei Complementar estadual nº 3/90. Alegação de ofensa aos arts. 5º, XXXVI, LIV, LV e 37, da Constituição Federal. Direito adquirido. Prequestionamento. Questão afeta à legislação infraconstitucional e ao reexame de provas. Ofensa constitucional indireta. Agravo regimental não provido. Aplicação da súmula 279. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, de reexame de provas” (RE 342.831-AgR/PE, Rel. Min. Cezar Peluso).
+“Recurso extraordinário: descabimento: questão relativa ao direito à incorporação de gratificação, a título de estabilidade financeira instituída e regida por normas estaduais (LC 3/90; LC 13/95 e LC 16/96), que exige o reexame dessa legislação local e da prova documental em que fundado o Tribunal a quo e o recorrente, insuscetível na via extraordinária: incidência das Súmulas 280 e 279” (RE 426.416-AgR/PE Rel. Min. Sepúlveda Pertence).
+Além disso, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 12 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
