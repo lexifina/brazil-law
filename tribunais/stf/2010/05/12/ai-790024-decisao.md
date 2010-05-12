@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+Carlos Tadeu Ferraz Anversa interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, incisos X e XII, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Sétima Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+“SUCESSÕES. ANULAÇÃO DE COMPRA E VENDA E DOAÇÃO INOFICIOSA DE ASCENDENTE PARA DESCENDENTE. AUSÊNCIA DE NULIDADE PROCESSUAL. PRESCRIÇÃO VINTENÁRIA. CONTEXTO PROBATÓRIO. MANUTENÇÃO DA SENTENÇA.
+Demanda entre pessoas maiores e capazes que não reclama intervenção obrigatória do Ministério Público, e, ainda, suprida pelo parecer de mérito da Procuradoria de Justiça. Prazo para apelar que se inicia a partir da republicação da decisão, pois publicada inicialmente com erro. Se a sentença apresenta as razões de convencimento do julgador, explicando os motivos pelos quais o pedido foi julgado procedente, não há falar em nulidade processual por falta de fundamentação. A ação para anular venda de ascendente a descendente, sem consentimento dos demais, prescreve em vinte anos. Aplicação da Súmula nº 494 do STF. Contexto probatório dos autos que revela ter o réu sido privilegiado pelo genitor das partes, com doações e empréstimos, para adquirir bens em seu próprio nome, sem possuir, no entanto, condição econômica compatível. Reconhecimento da existência de simulação. Intenção de prejudicar os demais herdeiros do de cujus, e evitar que os valores fossem trazidos à colação. Sentença mantida. REJEITADAS AS PRELIMINARES. NEGADO PROVIMENTO AO APELO. UNÂNIME” (fl. 1645).
+Colhe-se do voto condutor do acórdão recorrido:
+“A exposição quanto aos fatos e documentos acostados aos autos evidenciam que, realmente, ocorreu simulação.
+Relevante se faz transcrever trecho da sentença atacada (fl. 1454), que bem sintetiza a existência da aludida simulação:
+Tenho que no caso em comento efetivamente ocorreram sucessivas doações ao requerido através de depósitos em dinheiro feitos em diversas ocasiões em sua conta corrente particular, bem como através do ‘empréstimo’ a ele realizado pelo genitor das partes, culminando na aquisição da Empresa de Transportes Regente Ltda., com a constituição da empresa de transporte Nossa Senhora Conquistadora. Ainda, foram adquiridos diversos terrenos pelo requerido, tendo o mesmo erigido construções, salientando que, pelo contexto probatório dos autos, não possuía o demandado lastro financeiro a justificar a aquisição de tantos bens quanto os descritos na exordial
+Ressalto que, em havendo desvio de verba da empresa Anversa Ltda. Em benefício do requerido, os prejudicados com a conduta do demandado perpetrada juntamente com seu genitor não foram somente as herdeiras autoras, mas também os demais sócios da empresa, os quais, inclusive, buscaram ressarcimento em ação própria, conforme decisões de diversos feitos anexadas a estes autos.
+A ocorrência da doações mencionadas veio em prejuízo dos demais herdeiros do de cujus Carlos [V. A.], porquanto referidos valores não foram trazidos à colação
+Essa constatação, envolvendo aquisição de diversos bens em nome do demandado, sem possuir este condição econômica compatível, impõe a declaração de nulidade dos negócios por ele realizados, evitando-se, com isso prejuízos aos demais descendentes.
+As simples alegações, ausentes de provas robustas, não servem para se ter como certa a tese apresentada pelo ora apelante, de que os negócios foram firmados de acordo com a lei, sem numerário desviado em cumplicidade com o pai, e que teria lastro financeiro para pactuá-los.
+Aliás, a produção de provas no caso assumiu especial importância para desligamento do feito, e o quanto revelado nesse aspecto é assaz confirmativo da manutenção da sentença” (fl. 1.649).
+Opostos embargos de declaração (fls. 1655 a 1663), foram rejeitados (fls. 1667 a 1670).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 22/2/07, conforme expresso na certidão de folha 1672, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, uma vez que, como demonstram as passagens extraídas do acórdão atacado, a conclusão do Tribunal de origem acerca da ocorrência de simulação está amparada, exclusivamente, na legislação infraconstitucional pertinente e nas provas dos autos, de reexame incabível em sede recurso extraordinário. Incidência das Súmulas nº 279 e 636 desta Corte. Sobre o tema, anote-se:
+Ante o exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 12 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
