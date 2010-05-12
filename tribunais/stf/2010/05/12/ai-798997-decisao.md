@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que reconheceu que a cobrança do IPTU do Município do Rio de Janeiro se deu com base em legislação municipal que previa a progressividade de alíquotas de forma incompatível com o texto constitucional.
+Nesse mesmo julgamento, entendeu-se, ainda, pela ilegitimidade da cobrança da Taxa de Coleta de Lixo e Limpeza Pública - TCLLP e da Taxa de Iluminação Pública – TIP, ao fundamento de que tais exações não são cobradas em razão de serviços públicos específicos e divisíveis.
+No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, a constitucionalidade do IPTU, da TCLLP e da TIP, bem como, se mantida a decisão atacada, determinar a aplicabilidade dos efeitos prospectivos (ex nunc) à declaração de inconstitucionalidade das referidas exações, ao argumento de que é a única forma de resguardar os postulados constitucionais da segurança jurídica, boa-fé e proteção ao excepcional interesse social.
+Sustentou-se, ainda, que, embora pudesse ser reconhecida a inconstitucionalidade do IPTU, dever-se-ia resguardar a incidência da alíquota mínima vigente em cada exercício de acordo com a destinação do imóvel (no caso, sendo imóvel não-residencial), 0,60% até 1998 e 0,65% até 1999).
+No caso, o recurso extraordinário versa sobre matéria - IPTU, progressividade anterior à EC 29/2000, cobrança com base na alíquota mínima - cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (RE 602.347-RG/MG, de minha relatoria).
+Isso posto, preenchidos os demais requisitos de admissibilidade, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no art. 328, parágrafo único, do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no recurso extraordinário discute-se questão idêntica à apreciada no RE 602.347-RG/MG.
+Publique-se.
+Brasília, 12 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
