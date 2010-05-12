@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário contra acórdão assim ementado:
+“TRANSFERÊNCIA VOLUNTÁRIA EXTRAVESTIBULAR. EDITAL. REQUISITOS.
+O atendimento das exigências constantes do Edital do processo de transferência, implica deferimento de matrícula” (fl. 189).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 2º, 5º, XXXV, LIV e LV, 93, IX, e 207 da mesma Carta, sob o argumento de que a recorrente não pode ser compelida a matricular aluno que não atendeu a todas as exigências da Resolução 13/2007 da Universidade Federal do Rio Grande do Sul - UFRGS.
+A pretensão recursal não merece acolhida.
+Quanto à alegada ofensa ao art. 2º da Lei Maior, verifica-se que não ocorreu o debate prévio da questão perante o Tribunal de origem. Como tem consignado esta Corte, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+Além disso, o acórdão recorrido dirimiu a questão em exame com apoio no conjunto fático-probatório dos autos, na norma infraconstitucional pertinente à espécie e no Edital 2007/2 da UFRGS.
+Assim, para concluir em sentido diverso e afastar o direito do recorrido à transferência para UFRGS, seria necessário o reexame das provas - o que é vedado pela Súmula 279 do STF - , do Edital 2007/2-UFRGS - também vedado pela Súmula 454 desta Corte e da Resolução 13/2007-UFRGS, sendo certo que a ofensa à Constituição, se ocorrente, seria apenas indireta. Nesse sentido, menciono as seguintes decisões, entre outras: AI 768.632/MG, Rel. Min. Dias Toffoli; AI 755.926/DF, Rel. Min. Cármen Lúcia; AI 724.404/BA, Rel. Min. Joaquim Barbosa; RE 440.703-AgR/RJ, Rel. Min. Carlos Britto; e o RE 241.050-AgR/SP, Rel. Min. Ellen Gracie, cuja ementa segue transcrita:
+“RECURSO EXTRAORDINÁRIO. TRANSFERÊNCIA DE ALUNO. AUTONOMIA UNIVERSITÁRIA. OFENSA REFLEXA. 1. É inadmissível o recurso extraordinário no qual, a pretexto de ofensa a princípios constitucionais, pretende-se a exegese de legislação infraconstitucional. Hipótese de contrariedade indireta ou reflexa à Carta Federal. 2. Agravo regimental improvido”.
+Por fim, é firme a jurisprudência desta Corte no sentido de que a apontada violação ao art. 5º, XXXV, LIV e LV, da Constituição pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, cito os seguintes precedentes: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 12 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
