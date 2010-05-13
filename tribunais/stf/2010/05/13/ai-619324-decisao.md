@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) que tem como violados os arts. 5º, XXXVI, e 7º, XIII e XXVI, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 157):
+“ACORDO COLETIVO PARA COMPENSAÇÃO DE JORNADA. PRESTAÇÃO HABITUAL DE HORAS EXTRAS ALÉM DO ACORDADO. O legislador constituinte, ao dispor no art. 7º, incs. XIII e XXVI, da Constituição da República sobre a possibilidade de instituição de regime de compensação de jornada e sobre o reconhecimento aos acordos e convenções coletivos, não pretendeu, à obviedade, dar validade a esses ajustes mesmo em havendo o desrespeito aos preceitos ali instituídos. A norma constitucional é dirigida ao instrumento coletivo que é efetivamente cumprido nos limites em que entabulado, e não ao que é desrespeitado em sua essência. Assim, tendo havido prestação habitual de horas extras além do que restou ajustado coletivamente a título de compensação de jornada, não há dar guarida irrestrita ao acordo coletivo.
+Recurso de Embargos de que não se conhece.”
+Sustenta-se no recurso extraordinário a validade do regime de compensação de jornada previsto no acordo coletivo.
+É o breve relatório. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Por outro lado, a garantia constitucional de reconhecimento e proteção dos acordos e convenções coletivas de trabalho não afasta a possibilidade de sua revisão, que no caso em exame se fez à luz da legislação infraconstitucional, evidenciando tratar-se de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+Inclusive, observo que a aferição de eventual afronta à Constituição implicaria necessário reexame da cláusula da norma coletiva. Incide, na espécie, o óbice das Súmulas 279 e 454, deste Tribunal.
+Nesse sentido: RE 239.619 (rel. min. Cezar Peluso, DJ de 15.05.2006), AI 617.006-AgR (rel. min. Sepúlveda Pertence, DJ de 23.03.2007), AI 657.176-AgR (rel. min. Sepúlveda Pertence, DJ de 31.08.2007), AI 750.752 (rel. min. Cármen Lúcia, DJe de 27.05.2009) e AI 656.720 (rel. min. Cármen Lúcia, DJe de 22.11.2007).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
