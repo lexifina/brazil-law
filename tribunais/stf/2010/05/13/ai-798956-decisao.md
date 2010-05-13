@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INTIMAÇÃO DO JULGADO RECORRIDO APÓS 3.5.2007. INEXISTÊNCIA DE PRELIMINAR DE REPERCUSSÃO GERAL NA PETIÇÃO DE RECURSO EXTRAORDINÁRIO. NÃO ATENDIMENTO AO DISPOSTO NO § 2º DO ART. 543-A DO CÓDIGO DE PROCESSO CIVIL E NO ART. 327 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“CIVIL. AÇÃO DE USUCAPIÃO. Procedência. Estando a gleba titulada ao Estado do Paraná, não se poderiam considerar as respectivas terras como devolutas nem, pelo puro e simples fato de se localizarem dentro da faixa de fronteira, pertencentes ao domínio da União. Mister se faria anular o registro de intitulação estadual, o que não ocorreu. De outra banda, devoluta que fosse reputada a aérea, deveriam ser respeitadas as transferências de domínio ou as concessões de colonização ou exploração agrícola ou industrial, tendo-se em vista o disposto no art. 2º, § 1º, do Decreto-lei 7.734/45, com a redação dada pelo Decreto-lei 9.063/46, bem como nas Leis 9.871/98, 10.164/00 e 10.363/01” (fl. 14).
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que “o recurso não contém preliminar de repercussão geral, de forma que se viabiliza sua admissão” (fl. 29-v).
+3. O Agravante alega que o Tribunal a quo teria contrariados os arts. 5º, inc. 20, inc. II e § 2º, 183 e 191 da Constituição da República.
+Argumenta que é “equivocada a decisão que negou seguimento ao recurso extraordinário, na medida em que o recurso está impugnando acórdão contrário aos enunciados das Súmulas 340 e 477, ambas do STF, bem como a matéria (usucapião de bem público) ultrapassa os interesses subjetivos da causa” (fl. 5).
+Sustenta que “a repercussão geral, deflui do próprio caso concreto, na medida em que o autor buscar adquirir, por usucapião, bem público (localizado em aérea de fronteira, de domínio da União Federal)” (fl. 7).
+Assevera que “há repercussão geral, quer porque o acórdão recorrido contraria duas súmulas desse Col. STF, quer porque a matéria (usucapião em área de fronteira, bem de União Federal) ultrapassa os interesses subjetivos da cauda” (fl. 8).
+Analisada a matéria posta à apreciação, DECIDO.
+4. Razão jurídica não assiste ao Agravante.
+5. Inicialmente, cumpre ressaltar que o Agravante defende a repercussão geral da questão constitucional apenas nas razões do agravo de instrumento. Não há qualquer menção à repercussão geral da matéria constitucional debatida nos autos nas razões do recurso extraordinário, o que torna a peça inócua a produção de efeitos jurídicos.
+6. A intimação do acórdão recorrido ocorreu no dia 24.5.2007 (fl. 20-v.), e, nos termos do que decidido pelo Supremo Tribunal Federal no Agravo de Instrumento n. 664.567-QO, Relator o Ministro Sepúlveda Pertence, Tribunal Pleno, “a exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007”.
+Após 3.5.2007, portanto, os recursos extraordinários devem apresentar “preliminar formal e fundamentada” de repercussão geral da matéria constitucional, caso contrário, estará ausente requisito fundamental para sua admissibilidade.
+7. No presente caso, não houve as articulações por parte do ora Agravante que demonstrassem a repercussão geral da matéria constitucional versada no recurso extraordinário, o que o torna inadmissível, conforme o disposto no § 2º do art. 543-A do Código de Processo Civil e no art. 327 do Regimento Interno do Supremo Tribunal Federal.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO ELEITORAL. AUSÊNCIA DE PRELIMINAR FORMAL DE REPERCUSSÃO GERAL: IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO. LEI N. 11.418/2006: NORMAS GERAIS APLICÁVEIS A TODOS OS RECURSOS EXTRAORDINÁRIOS. REPERCUSSÃO GERAL IMPLÍCITA: INADMISSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO” (AI 703.114-AgR, de minha relatoria, Primeira Turma, DJe 17.4.2009).
+E:
+“É imprescindível a observância desse requisito formal mesmo nas hipóteses de presunção de existência da repercussão geral prevista no art. 323, § 1º, do RISTF. O Plenário desta Corte afastou a alegação de repercussão geral implícita. Precedente. 3. É pacífica a jurisprudência desta Corte ao não admitir, em sede extraordinária, alegação de ofensa indireta à Constituição Federal. 4. Agravo regimental desprovido” (AI 716.597-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 14.11.2008).
+E ainda:
+“Agravo regimental em agravo de instrumento. 2. Apresentação expressa de preliminar formal e fundamentada sobre repercussão geral no recurso extraordinário. Necessidade. Art. 543-A, § 2º, do CPC. 3. Preliminar formal. Hipótese de presunção de existência da repercussão geral prevista no art. 323, § 1º, do RISTF. Necessidade. Precedente. 4. Ausência da preliminar formal. Negativa liminar pela Presidência no recurso extraordinário e no agravo de instrumento. Possibilidade. Art. 13, V, c, e 327, caput e § 1º, do RISTF. 5. Agravo regimental a que se nega provimento” (AI 729.244-AgR, Rel. Min. Gilmar Mendes, Plenário, DJe 7.5.2010).
+8. Não há, pois, o que prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
