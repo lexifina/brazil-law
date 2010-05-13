@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) que tem como violados os arts. 5º, II, XXXV e LIV, e 93, IX, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 169):
+“RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE AUTENTICAÇÃO NA CÓPIA DO ATO COATOR. Imprescindível a juntada na petição inicial da prova documental devidamente autenticada, nos termos do artigo 830 da CLT. Inaplicável o disposto no artigo 284 do CPC, por ser exigida no Mandado de Segurança prova pré-constituída. Inteligência da Orientação Jurisprudencial 52 da SBDI-2. Processo extinto, sem julgamento do mérito, nos termos do artigo 267, IV, do CPC.”
+Sustenta a parte agravante que o Tribunal Superior do Trabalho ofendeu diversos princípios constitucionais, na medida em que teria sonegado prestação jurisdicional.
+É o breve relatório. Decido.
+O Tribunal a quo limitou-se a extinguir o processo por ausência de pressuposto de constituição e desenvolvimento válido do processo. Em casos análogos, a jurisprudência desta Suprema Corte foi uníssona em afirmar que essas questões não poderiam ser examinadas em recurso extraordinário, por estarem circunscritas ao âmbito de interpretação das normas infraconstitucionais, caracterizando, quando muito, ofensa reflexa ou indireta à Constituição. Nesse sentido: RE 234.371-AgR (rel. min. Ellen Gracie, DJ de 13.02.2004), RE 282.128-AgR (rel. min. Ilmar Galvão, DJ de 04.05.2001), AI 409.746-AgR (rel. min. Joaquim Barbosa, DJ de 03.02.2006), AI 327.033-AgR (rel. min. Joaquim Barbosa, DJ de 12.11.2004) e AI 378.453-AgR (rel. min. Gilmar Mendes, DJ de 22.11.2002).
+Ademais, a análise da apontada violação do art. 5º, II, da Constituição demandaria o exame prévio da legislação infraconstitucional. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+Por outro lado, não procede a alegação de afronta aos arts. 5º, XXXV e LIV, e 93, IX, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
