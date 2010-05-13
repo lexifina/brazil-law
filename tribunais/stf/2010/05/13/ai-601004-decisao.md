@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão de Turma Recursal. A decisão impugnada manteve a sentença que declarou rescindido o contrato de alienação fiduciária firmado entre as partes por vício redibitório e cancelou os débitos dele oriundo.
+Nas razões do extraordinário, alega-se violação aos arts. 5º, LIV e LV, LXXIV; e 93, IX, da Constituição federal. Sustenta-se, em síntese, que “o v. acórdão prolatado pelo juízo a quo está a merecer a devida anulação, já que impôs ao recorrente a responsabilidade civil sem tampouco lhe assegurar o direito de produzir a prova dos fatos que corroboram sua defesa” (fls. 158).
+O acórdão impugnado decidiu a causa com base em legislações infraconstitucionais, sendo que eventual ofensa à Constituição, se existente, seria indireta ou reflexa, hipótese em que não se admite o recurso extraordinário. Ademais, concluir diversamente do acórdão recorrido demandaria o reexame prévio dos fatos e provas que fundamentaram as conclusões da decisão recorrida e da interpretação das cláusulas do contrato firmado entre as partes. Isso inviabiliza o processamento do recurso, em face da vedação contida no enunciado das Súmulas 279 e 454 desta Corte.
+Nesse sentido o seguinte julgado:
+“EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 526.624-AgR, rel. min. Eros Grau, DJ de 04.11.2005).
+Por outro lado, inexiste a alegada afronta aos arts. 5º, LIV e LV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
