@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do extinto Tribunal de Alçada do Estado de Minas Gerais que manteve a rejeição liminar a embargos de terceiro.
+No recurso extraordinário, alega-se ofensa ao art. 5º, II, XXXV, LIV, LV; e 93, IX, da Constituição federal, por cerceamento de defesa e não observância a interesse de menor impúbere.
+A análise da alegação de cerceamento de defesa requer sejam previamente examinadas as regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. A jurisprudência do Supremo Tribunal Federal concluiu que essa circunstância inviabiliza o processamento do recurso extraordinário. Nesse sentido: AI 700.960-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 05.03.2010); AI 730.135-AgR (rel. min. Menezes Direito, Primeira Turma, DJe de 22.05.2009) e AI 597.614-AgR (rel. Min. Eros Grau, Segunda Turma, DJ de 27.10.2006).
+Ademais, o Tribunal de origem assentou que, “no tocante a citação do espólio e dos sucessores do executado falecido, conforme bem ressaltou o douto Juiz, a execução foi ajuizada contra o falecido Vander Evangelista de Paula e sua esposa em 1990, quando tiveram a oportunidade de apresentar defesa em sede de embargos de devedor. Ora! Com o falecimento de um dos executados, após o transcurso do prazo para apresentação daquela defesa, não há falar de citação de seu espólio e dos sucessores visando nova oportunidade de apresentação de embargos de devedor” (fls. 162). Impossível chegar à conclusão contrária sem o reexame de prova, o que dá margem ao descabimento do recurso extraordinário (Súmula 279 do STF).
+Por outro lado, inexiste a alegada afronta ao art. 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
