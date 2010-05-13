@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) que tem como violado o art. 5º, II e XXXV, e 37, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 08):
+“RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. DECADÊNCIA. INÍCIO DA CONTAGEM DO PRAZO. PRIMEIRO ATO QUE FIRMOU A TESE RECORRIDA. Mandado de Segurança impetrado contra ato do Juiz, mediante o qual se indeferiu pedido de reconsideração da decisão proferida em liquidação de sentença determinando que a atualização monetária do débito observasse o mês trabalhado pelos Reclamantes e que os descontos fiscais e previdenciários se fizessem mês a mês. Ocorre que, nos termos da pacífica jurisprudência desta Corte, ainda que posteriormente ao ato que firmou a tese recorrida tenham sido proferidas outras decisões, a contagem do prazo decadencial, para impetração do Mandado de Segurança, tem como marco inicial o primeiro ato dito coator (OJ 127/SBDI-2). Impetrado o remédio heróico, após ultrapassados 120 dias da ciência pela interessada do ato impugnado, deve ser mantida a decadência declarada no acórdão recorrido. Recurso Ordinário não provido.”
+Sustenta-se no recurso extraordinário que o Tribunal a quo negou vigência aos dispositivos supracitados ao extinguir o processo em razão da declaração de decadência. Requer, portanto, a concessão da segurança.
+É o breve relatório. Decido.
+A análise dos requisitos para concessão ou denegação do mandado de segurança cinge-se à norma processual que disciplina o exercício da ação constitucional - no caso, a Lei 1.533/1951 -, hipótese em que não se admite o recurso extraordinário. Nesse sentido: AI 573.652-AgR, rel. min. Cármen Lúcia, DJ de 20.04.2007; AI 629.562-AgR, rel. min. Sepúlveda Pertence, DJ de 25.05.2007; AI 565.661-AgR, rel. min. Carlos Britto, DJ de 10.08.2006; AI 489.109-AgR, rel. min. Ellen Gracie, DJ de 20.04.2006.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
