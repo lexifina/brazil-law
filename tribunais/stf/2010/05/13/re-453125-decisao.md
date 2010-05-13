@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de recurso extraordinário interposto de acórdão proferido pelo Tribunal de Justiça de São Paulo que considerou ser possível a cobrança do ICMS pela sistemática da substituição tributária.
+No recurso extraordinário, sustenta-se, em síntese, a violação dos arts. 150, § 7º, 155, I, b, e § 2º, I, da Constituição federal, assim como do art. 34, § 8º, do ADCT.
+O Plenário desta Corte, no julgamento do RE 213.396 (rel. min. Ilmar Galvão, DJ 1º.12.2000), firmou jurisprudência no sentido de que o regime de substituição tributária já se achava previsto no art. 128 do Código Tributário Nacional e no art. 6º, § 3º e § 4º, do Decreto-Lei 406/1968, dispositivos recepcionados pela Constituição de 1988, que possibilitam a cobrança do ICMS por essa sistemática.
+Dessa orientação não divergiu o acórdão recorrido.
+Ante o exposto, com base no art. 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
