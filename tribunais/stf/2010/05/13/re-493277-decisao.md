@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão que julgou inconstitucional a cobrança, pelo Município de Curitiba, da taxa de coleta de lixo e de IPTU com base em alíquota progressiva, conforme o tamanho e a localização do imóvel, em período anterior ao advento da Emenda Constitucional 29/2000.
+O entendimento do Tribunal a quo quanto ao IPTU alinha-se com a jurisprudência desta Corte acerca da matéria, conforme o teor da Súmula 668.
+Ademais, a superveniência da Emenda Constitucional 29/2000 não tem o condão de tornar válida a progressividade de alíquotas do IPTU em período anterior à sua vigência, porquanto seus efeitos se irradiam para o futuro. Nesse sentido, o RE 293.451–AgR (rel. min. Carlos Veloso, DJ de 08.02.2002), cuja ementa transcrevo:
+“CONSTITUCIONAL. TRIBUTÁRIO. IPTU. ALÍQUOTAS. PROGRESSIVIDADE. I. - Inconstitucionalidade da progressividade das alíquotas do IPTU. RE 153.771-MG, Moreira Alves, Plenário, 20.11.96. II. - Não aplicabilidade, no caso, da EC 29/2000, que não retroage. III. - Agravo não provido.”
+Em relação à questão levantada pelo recorrente de que não seria possível a aplicação da alíquota mínima em caso de declaração da inconstitucionalidade do sistema progressivo de cobrança do IPTU, mas deveria ser aplicada a legislação anterior, verifico que a matéria não foi ventilada no acórdão recorrido nem foi objeto de embargos de declaração. Falta-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Quanto à taxa de coleta de lixo, esta Corte tem decidido pela constitucionalidade de sua cobrança quando a exação incluir apenas o serviço de remoção do lixo domiciliar. Nessa situação, a atividade do poder público tem caráter individualizável, divisível e, portanto, passível de ser custeada mediante a imposição de taxa. Nesse sentido, confiram-se: RE 206.777 (rel. min. Ilmar Galvão, DJ de 30.04.1999) e RE 361.437 (rel. min. Ellen Gracie, DJ de 19.12.2002).
+Ademais, o Supremo Tribunal Federal, em Sessão Plenária, apreciando caso análogo, afastou o argumento de que a taxa de coleta de lixo teria base de cálculo idêntica à do IPTU. Entendeu-se que a base de cálculo da referida taxa é o custo do serviço e que a metragem da área construída do imóvel é fator utilizado apenas para definição de alíquotas (cf. RE 232.393, rel. min. Carlos Velloso, DJ de 12.08.1999).
+Do exposto, e com base no art. 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e dou-lhe parcial provimento tão somente para declarar válida a cobrança da taxa de coleta de lixo.
+Compensem-se proporcionalmente os ônus da sucumbência.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
