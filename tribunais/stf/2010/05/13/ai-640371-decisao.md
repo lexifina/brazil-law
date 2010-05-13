@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a e b, da Constituição) que tem como violados os arts. 5º, II, LIV e LV, e 37, caput e II, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 113):
+“AGRAVO DE INSTRUMENTO. NULIDADE DO CONTRATO DE TRABALHO. A decisão regional consigna que a contratação do autor foi celebrada por prazo determinado em atenção ao disposto no artigo 37, IX, da Constituição da República, o qual disciplina esse tipo de contratação para atender a necessidade temporária de excepcional interesse público. Logo, não há se aceitar a tese de ofensa à literalidade do artigo 37, II, da Carta Republicana. Agravo de instrumento não provido.”
+Sustenta-se no recurso extraordinário que o Tribunal Superior do Trabalho sonegou prestação jurisdicional, que a Justiça do Trabalho é incompetente para julgar a causa e que a contratação do agravado foi sem o prévio concurso público.
+É o relatório. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Ademais, inexistem as alegadas ofensas ao art. 5º, LIV e LV, da Constituição, porquanto o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa.
+Por outro lado, a questão sobre a incompetência da Justiça do Trabalho não foi debatida no acórdão recorrido nem foi objeto de embargos de declaração. Falta-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Além disso, a decisão recorrida entendeu inaplicável a exigência de concurso público porque o agravado foi contratado por tempo determinado com base no art. 37, IX, combinado com a Lei 8.745/1993. Assim, impossível chegar a conclusão diversa sem o reexame dos fatos e provas e da legislação infraconstitucional (Lei 8.745/1993), o que dá margem ao descabimento do recurso extraordinário. Incidência das Súmulas 279 e, mutatis mutandis, 636, desta Corte.
+Finalmente, pela letra b do inciso III do art. 102 da Constituição, é incabível o recurso extraordinário porque o acórdão recorrido não declarou a inconstitucionalidade de lei federal.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
