@@ -1,0 +1,10 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, apreciando o RE 540.410-QO, rel. min. Cezar Peluso, acolheu questão de ordem no sentido de “determinar a devolução dos autos, e de todos os recursos extraordinários que versem a mesma matéria, ao Tribunal de origem, para os fins do art. 543-B do CPC” (Informativo 516, de 27.08.2008).
+Decidiu-se, então, que o disposto no art. 543-B do Código de Processo Civil também se aplica aos recursos interpostos de acórdãos publicados antes de 03 de maio de 2007 cujo conteúdo verse sobre tema em que a repercussão geral tenha sido reconhecida.
+Inicialmente, constato que o Superior Tribunal de Justiça deu parcial provimento ao recurso especial simultaneamente interposto, apenas para afastar a incidência da contribuição previdenciária sobre o auxílio-doença (fls. 257-258, 276-278, 284-285 e 296-297). Assim, tendo em vista o trânsito em julgado da referida decisão (fls. 305), o recurso extraordinário ficou prejudicado nessa parte, por perda de seu objeto.
+Quanto à incidência da referida contribuição sobre o salário-maternidade, o recurso extraordinário trata sobre tema em que a repercussão geral já foi reconhecida pelo Supremo Tribunal Federal, no julgamento do RE 576.967-RG (de minha relatoria, DJe de 27.06.2008), assim ementado:
+“EMENTA: SALÁRIO-MATERNIDADE – INCLUSÃO NA BASE DE CÁCULO DA CONTRIBUIÇÃO SOCIAL PREVIDENCIÁRIA – ART. 28, § 2º, I da LEI 8.212/1991 – NOVA FONTE DE CUSTEIO DA SEGURIDADE SOCIAL - VIOLAÇÃO DOS ARTS. 195, CAPUT E § 4º E 154, I DA CONSTITUIÇÃO FEDERAL.”
+Do exposto, julgo prejudicado o recurso extraordinário na parte referente à incidência da contribuição previdenciária sobre o auxílio-doença e, nos termos do art. 328 do RISTF (na redação dada pela Emenda Regimental 21/2007), determino a devolução dos presentes autos ao Tribunal de origem, para que seja observado o disposto no art. 543-B e parágrafos do Código de Processo Civil, quanto à incidência da referida contribuição sobre o salário-maternidade.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
