@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+Acision Telecomunicação Sul América Ltda. interpõe agravo de instrumento almejando destrancar recurso extraordinário contra acórdão da Terceira Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+“CONSTITUCIONAL E TRIBUTÁRIO. CPMF. CONVERSÃO DE EMPRÉSTIMO EXTERNO EM INVESTIMENTO.
+PORTARIA Nº 227/02 MF.
+1. A operação de compra e venda de câmbio, relativa à conversão de empréstimo externo em investimento, ainda que realizada de forma escritural, constitui fato gerador da CPMF, nos termos da Lei nº 9.311/1996.
+2. Legalidade da regulamentação do Banco Central do Brasil que exige uma prévia operação de câmbio registrada em conta corrente para implementação da conversão do crédito em investimento.
+3. Precedentes do C. STJ e desta Corte.
+3. Apelação improvida.” (fl. 229).
+Opostos embargos de declaração (fls. 235 a 238), foram rejeitados (fls.244 a 245).
+No apelo extremo, a agravante aponta violação dos artigos 5º, incisos II, XXXV, LIV e LV; 93, inciso IX, e 150, incisos I e II, da Constituição Federal. Destarte, em suma, referindo-se ao artigo 3º, parágrafo 3º, da Portaria nº 227/02 do Ministério da Fazenda, sustenta:
+“A Recorrente entende que a incidência da CPMF sobre contrato de câmbio simbólico fere diretamente o primado da legalidade previsto nos artigos 5º, II e 150, I da Constituição Federal e da isonomia previsto no artigo 150, II da Constituição Federal da Constituição Federal, pois, como restará a seguir demonstrado, a Lei nº 9.311/96 (instituidora da CPMF) não prevê essa hipótese de fato gerador da Contribuição” (fl. 272)
+Decido.
+Preliminarmente, destaco que o acórdão dos embargos de declaração foi publicado em 26/2/09, conforme expresso na certidão da folha 248, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+No caso, dessume-se do acórdão recorrido que o Tribunal a quo decidiu de modo suficientemente motivado, valendo-se da legislação ordinária pertinente à solução da controvérsia, notadamente da Lei nº 9.311/96 e da Portaria nº 227/02, do Ministério da Fazenda.
+Com efeito, nessas circunstâncias, a alegada violação dos dispositivos suscitados, por demandar reexame da referida matéria infraconstitucional, retrata, quando muito, hipótese de mera ofensa reflexa ou indireta à Constituição da República, o que não enseja a via extraordinária. Nesse sentido, confira-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. OPERAÇÃO DE CÂMBIO SIMBÓLICA. INCIDÊNCIA DA CONTRIBUIÇÃO PROVISÓRIA SOBRE MOVIMENTAÇÃO FINANCEIRA - CPMF. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 743.345/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 7/8/09).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. 2. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 93, IX, da Constituição Federal. Ofensa constitucional indireta. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI nº 508.047/RJ-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 21/11/08).
+Igualmente, incide na espécie o enunciado da Súmula nº 636/STF, uma vez que o suposto extravasamento de limite regulamentador, pela Portaria nº 227/02-MF, no ensejo de operacionalizar a Lei nº 9.311/96, revela conflito de legalidade. A propósito, anote-se:
+“RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. INMETRO. LEI 5.966/73. PORTARIAS. MATÉRIA INFRACONSTITUCIONAL. 1. Cotejo entre a Lei 5.966/73 e suas portarias regulamentadoras. Questão de legalidade. Incidência da Súmula STF nº 636. 2. Agravo regimental improvido” (RE nº 410.484/PR-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 3/2/06 )
+Por todo exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
