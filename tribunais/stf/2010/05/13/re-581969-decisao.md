@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a e c, da Constituição) interposto de acórdão proferido pelo Tribunal de Justiça do Pará que, mantendo sentença, julgou procedente pedido de condenação do Estado ao pagamento retroativo de diferenças decorrentes de reclassificação de verba remuneratória de cargo de servidora aposentada.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito dos arts. 5º, II, e 37, caput, e a redação original do art. 40, § 4º, da Constituição, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto dos embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+No que tange à alegada ofensa ao art. 93, IX, constato que ela inexiste, porquanto o acórdão recorrido está devidamente fundamentado, ainda que com sua fundamentação não concorde o ora agravante.
+Quanto à suposta violação do art. 5º, XXXVI, verifico que o acórdão recorrido solucionou a controvérsia pelo exame da legislação infraconstitucional, ao consignar que “in casu, a outorga da verba de representação à autora decorre de direito adquirido, o que se perfez a partir da alteração efetuada pela Lei 5.196/84, o qual gerou direito adquirido à autora, consubstanciado na concessão deste na via administrativa, em 16.09.1997”. Chegar à conclusão contrária demanda exame prévio da legislação estadual que rege a matéria, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional.   Incide no óbice da Súmula 280 desta Corte.
+Em relação à interposição do apelo extraordinário com base no art. 102, III, alínea c, observo que o acórdão recorrido em momento algum julgou válida lei ou ato de governo local contestado em face da Constituição. Acrescento, também, que a petição recursal não oferece qualquer fundamentação no que se refere a esse particular, o que permite a invocação da súmula 284 desta Corte.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
