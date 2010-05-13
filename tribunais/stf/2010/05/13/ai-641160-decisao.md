@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a e c, da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo cuja ementa possui o seguinte teor:
+“IPTU – Irregularidade da CDA: alegação afastada, observados os requisitos formais do art. 202 do CTN e da LEF – Tese referente a taxas, coincidência da base de cálculo do IPTU e progressividade de sua alíquota – Afastada, posto que levantada somente em apelação, não tendo sido objeto da inicial dos embargos – Honorários advocatícios: mantidos conforme determinado na r. sentença – Negado provimento ao recurso, nos termos do acórdão. (fls. 31)
+Alega-se violação do disposto nos arts. 5°, LIV e LV; 93, IX, e 156, § 1º, da Carta Magna.
+Inicialmente, verifico que inexiste a alegada ofensa aos arts. 5°, LIV e LV, e 93, IX, da Constituição, pois o Tribunal a quo inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte. Ademais, concluir diversamente do acórdão recorrido demandaria o prévio exame do quadro fático-probatório e das regras processuais infraconstitucionais que o fundamentaram. A jurisprudência do Supremo Tribunal Federal se fixou no sentido de que essa circunstância inviabiliza o processamento do recurso extraordinário (cf. AI 448.303, rel. min. Gilmar Mendes, DJ de 23.06.2003; AI 477.878, rel. min. Celso de Mello, DJ de 19.12.2003, e RE 298.991, rel. min. Ellen Gracie, DJ de 05.03.2004).
+Quanto à alegação de ofensa ao disposto no art. 156, § 1º, da Constituição, observo que a matéria não foi ventilada no acórdão recorrido nem foi objeto de embargos de declaração. Falta-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Por fim, em relação à interposição do apelo extraordinário com base no art. 102, III, alínea c, verifico que o Tribunal a quo em momento algum julgou válida lei ou ato de governo local contestado em face da Constituição.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
