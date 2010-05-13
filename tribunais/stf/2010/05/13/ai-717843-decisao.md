@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a e c, da Constituição) em que se alega a inconstitucionalidade das Leis 947/1989 e 1.552/2001 do Município de Caxambu, em razão disposto no art. 150, I, da Carta Magna e dos princípios da isonomia, da segurança jurídica e da capacidade contributiva.
+Quanto à Lei municipal 947/1989, o Tribunal a quo assim se pronunciou:
+“Na espécie em exame existem pelo menos duas circunstâncias a impedir a revogação da Lei municipal n° 854, de 1986: a lei nova não regula inteiramente a matéria, não há incompatibilidade e nem declarou expressamente a revogação. O segundo óbice é que a Lei municipal nº 947, de 1989, afronta o princípio da legalidade tributária, porque a alíquota a ser aplicada ficou adstrita à discricionariedade do Poder Executivo, o que torna patente a sua inconstitucionalidade, impedindo assim a produção de qualquer efeito. Portanto, neste ponto, o inconformismo do apelante merece agasalho.” (fls. 57)
+Declarada a inconstitucionalidade da Lei municipal 947/1989 pelo Tribunal a quo, falta interesse recursal ao agravante neste ponto. Ademais, observo que não houve impugnação do fundamento trazido pelo acórdão recorrido para determinar a aplicação da Lei municipal 854/1986 para o cálculo do IPTU, qual seja, a ausência de revogação da referida lei por lei posterior tida por inconstitucional (fls. 63).
+Quanto à Lei municipal 1.552/2001, que estabeleceu descontos no IPTU, o Tribunal a quo entendeu que não foram apresentados elementos de convicção acerca de eventuais prejuízos que a referida lei teria causado ao agravante, de forma que não ficou demonstrado o interesse da parte na declaração de inconstitucionalidade da lei municipal (fls. 58-59). Tal fundamento suficiente não foi impugnado nas razões de recurso extraordinário, sendo aplicável o disposto nas Súmulas 283 e 284 desta Corte.
+Ademais, mesmo que superado tal óbice, verifico que concluir diversamente do acórdão recorrido demandaria o prévio exame do quadro fático probatório e da legislação infraconstitucional, o que é vedado no âmbito de cognição do recurso extraordinário (Súmulas 279 e 636/STF).
+Quanto à interposição do apelo extraordinário com base no art. 102, III, alínea c, verifico que o Tribunal a quo em momento algum julgou válida lei ou ato de governo local contestado em face da Constituição.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
