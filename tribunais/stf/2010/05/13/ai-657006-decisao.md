@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) que tem como violados os arts. 5º, XXXV, XXXVI e LV, e 7º, XXVI, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 101):
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. COMPLEMENTAÇÃO DE APOSENTADORIA. REAJUSTE SALARIAL E ABONO PREVISTOS EM CONVENÇÃO COLETIVA DE TRABALHO. NÃO-PREVALÊNCIA SOBRE DISPOSIÇÃO DE ACORDO HOMOLOGADO EM AÇÃO DE DISSÍDIO COLETIVO. Na linha dos precedentes do Tribunal Superior do Trabalho, considerando a flexibilização das relações trabalhistas, mediante negociação coletiva (art. 7º, XXVI, da CF/88) e a teoria do conglobamento, não ofende a literalidade do art. 620 da CLT, a decisão recorrida que entendeu deva prevalecer o Acordo Coletivo sobre a Convenção Coletiva de Trabalho (CCT), por ser aquele ajuste mais benéfico aos empregados em atividade, uma vez que o reajuste salarial e o abono, objeto da CCT e ora pretendidos pelos reclamantes aposentados, foram negociados em troca da estabilidade provisória no emprego em benefício dos empregados ativos.
+MULTA NORMATIVA. Recurso não fundamentado na forma do art. 896 da CLT.
+JUSTIÇA GRATUITA. HONORÁRIOS ADVOCATÍCIOS. Houve perda de objeto do recurso de revista, ante a falta de interesse recursal, uma vez que o benefício da justiça gratuita foi concedido quando da decisão regional proferida em embargos de declaração, enquanto que sobre o tema dos honorários advocatícios não houve pronunciamento do Tribunal a quo. Agravo de instrumento a que se nega provimento.”
+Sustenta-se no recurso extraordinário que o Tribunal Superior do Trabalho sonegou prestação jurisdicional e que houve má aplicação do art. 620 da Consolidação das Leis do Trabalho.
+É o breve relatório. Decido.
+A garantia constitucional de reconhecimento e proteção dos acordos e convenções coletivas de trabalho não afasta a possibilidade de sua revisão, que no caso em exame se fez à luz da legislação infraconstitucional, evidenciando tratar-se de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+Inclusive, observo que a aferição de eventual afronta à Constituição implicaria necessário reexame da cláusula da norma coletiva. Incide, na espécie, o óbice das Súmulas 279 e 454, deste Tribunal.
+Nesse sentido: RE 239.619 (rel. min. Cezar Peluso, DJ de 15.05.2006), AI 617.006-AgR (rel. min. Sepúlveda Pertence, DJ de 23.03.2007), AI 657.176-AgR (rel. min. Sepúlveda Pertence, DJ de 31.08.2007), AI 750.752 (rel. min. Cármen Lúcia, DJe de 27.05.2009) e AI 656.720 (rel. min. Cármen Lúcia, DJe de 22.11.2007).
+Ademais, inexistem as alegadas ofensas ao art. 5º, XXXV e LV, da Constituição, porquanto o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
