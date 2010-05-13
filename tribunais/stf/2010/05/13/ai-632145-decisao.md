@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) que tem como violado o art. 5º, II, XXXV, XXXVI, LIV e LV, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 107):
+“DESCARACTERIZAÇÃO DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS. VÍNCULO EMPREGATÍCIO. NULIDADE DA TRANSAÇÃO. VIOLAÇÃO DO ARTIGO 896 DA CLT NÃO IDENTIFICADA. Ao assegurar que a transação objeto do contrato de prestação de serviços era nula, em face de impor limites à autonomia da vontade e que não poderia se sobrepor às regras e princípios do direito do trabalho, a decisão recorrida não violou a literalidade dos arts. 1025 e 1030 do Código Civil de 1916, eis que deve prevalecer o que dispõe o art. 9º e 444 da CLT, que reputam nulos os atos que busquem fraudar a aplicação dos preceitos contidos na CLT. Recurso de embargos não conhecidos.”
+Sustenta-se no recurso extraordinário que o Tribunal Superior do Trabalho ofendeu diversos princípios constitucionais, na medida em que teria sonegado prestação jurisdicional.
+É o relatório. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Igualmente, a análise da apontada violação do art. 5º, II e XXXVI, da Constituição demandaria o exame prévio da legislação infraconstitucional. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+Por outro lado, não procede a alegação de afronta ao art. 5º, XXXV, LIV e LV, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
