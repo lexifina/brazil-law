@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça de São Paulo, o qual entendeu que a recorrida é imune ao Imposto sobre Circulação de Mercadorias e Serviços – ICMS, em face do art. 150, VI, c, da Constituição, na importação de equipamento cuja utilização na prestação dos serviços de diagnósticos médicos realizados pela autora foi demonstrada.
+Sustenta-se violação do art. 150, VI, c, e § 4º, da Constituição.
+Nos termos da orientação firmada pelo Supremo Tribunal Federal, a imunidade tributária relativa aos impostos abrange as operações relativas a bens que serão utilizados na prestação dos serviços específicos das entidades de assistência social. Registro, nesse sentido, as seguintes ementas:
+EMENTA: IMUNIDADE TRIBUTÁRIA. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS E IMPOSTO DE IMPORTAÇÃO. ENTIDADE DE ASSISTÊNCIA SOCIAL. IMPORTAÇÃO DE "BOLSAS PARA COLETA DE SANGUE".
+A imunidade prevista no art. 150, VI, c, da Constituição Federal, em favor das instituições de assistência social, abrange o Imposto de Importação e o Imposto sobre Produtos Industrializados, que incidem sobre bens a serem utilizados na prestação de seus serviços específicos.
+Jurisprudência do Supremo Tribunal Federal.
+Recurso não conhecido.” (RE 243.807, rel. min. Ilmar Galvão, Primeira Turma, DJ de 28.04.2000);
+“EMENTA: CONSTITUCIONAL. TRIBUTÁRIO. ICMS. IMUNIDADE TRIBUTÁRIA. INSTITUIÇÃO DE ASSISTÊNCIA SOCIAL. C.F., art. 150, VI, c. I. - Não há invocar, para o fim de ser restringida a aplicação da imunidade, critérios de classificação dos impostos adotados por normas infraconstitucionais, mesmo porque não é adequado distinguir entre bens e patrimônio, dado que este se constitui do conjunto daqueles. O que cumpre perquirir, portanto, é se o bem adquirido, no mercado interno ou externo, integra o patrimônio da entidade abrangida pela imunidade. II. - Precedentes do STF. III. - Agravo não provido.” (RE 225.778-AgR, rel. min. Carlos Velloso, Segunda Turma, DJ de 10.10.2003)
+Confiram-se, em sentido semelhante, o AI 698.166 (rel. min. Carlos Britto, DJe de 07.03.2008) e o AI 378.454-AgR (rel. min. Maurício Corrêa, Segunda Turma, DJ de 29.11.2002).
+Dessa orientação não divergiu o acórdão recorrido.
+Por outro lado, a parte do recurso extraordinário na qual se alegada violação do art. 150, VI, c, da Constituição, decorrente da inobservância da legislação infraconstitucional que estabelece os parâmetros para aplicação da imunidade tributária não enseja, tão-somente por si, violação frontal e direta da Constituição. E, nos termos da orientação firmada por esta Corte, não cabe recurso extraordinário para análise de ofensa indireta ou reflexa à Constituição (cf., e.g., o AI 673.173-AgR, rel. min. Eros Grau, Segunda Turma, DJe de 07.12.2007 e o AI 512.985-AgR, rel. min. Gilmar Mendes, Segunda Turma, DJe de 09.11.2007).
+Ademais, com exceção da alegação da inaplicabilidade da imunidade prevista no art. 150, VI, c, da CF/88, ao ICMS, as demais inconformidades da recorrente, na forma como articuladas nas razões de recurso extraordinário pressupõe reexame de fatos e provas, procedimento inadequado no âmbito de cognição do recurso extraordinário (Súmula 279/STF).
+Ante o exposto, com base no art. 557, caput, do Código de Processo Civil, nego seguimento ao recurso.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
