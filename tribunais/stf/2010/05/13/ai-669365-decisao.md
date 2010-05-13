@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) que tem como violados os arts. 5º, XXXV, XXXVI, LIV e LV, 93, IX, e 173, § 1º, II, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 102):
+“CEEE. EQUIPARAÇÃO SALARIAL. QUADRO DE CARREIRA. REESTRUTURAÇÃO EM 1991. Esta Corte pacificou o entendimento de que “o quadro de carreira implantado na CEEE em 1977 foi homologado pelo Ministério do Trabalho. A reestruturação procedida em 1991, mesmo não homologada, é válida” (Item 29 da Orientação Jurisprudencial da SBDI-1 – Transitória).
+Recurso de Embargos de que não se conhece.”
+Sustenta-se no recurso extraordinário que o Tribunal Superior do Trabalho ofendeu diversos princípios constitucionais, na medida em que sonegou prestação jurisdicional e aplicou a orientação jurisprudencial referente ao mérito (validade da reestruturação do quadro de carreira da CEEE).
+É o breve relatório. Decido.
+A jurisprudência desta Corte pacificou o entendimento de que a controvérsia em torno da aferição dos pressupostos de admissibilidade do recurso de revista, quando apoiados em súmulas do Tribunal Superior do Trabalho, restringe-se ao âmbito processual, de caráter eminentemente infraconstitucional, hipótese em que não se admite o recurso extraordinário (cf. AI 478.014, rel. min. Celso de Mello; AI 266.463, rel. min. Maurício Corrêa; AI 249.675, rel. min. Sepúlveda Pertence).
+Igualmente, a análise do tema de fundo e das apontadas violações dos arts. 5º, XXXVI, e 173, § 1º, II, da Constituição, demandaria o exame prévio da legislação infraconstitucional. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 731.978-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 17.04.2009), AI 582.613-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 04.08.2006), AI 543.632-AgR (rel. min. Cezar Peluso, Segunda Turma, DJ de 19.08.2005) e AI 524.503-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 28.10.2005).
+Por outro lado, não procede a alegação de afronta aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
