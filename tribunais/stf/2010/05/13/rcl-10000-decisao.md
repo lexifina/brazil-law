@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de reclamação, com pedido de liminar, ajuizada por Douglas Rafael de Jesus em face do Tribunal de Justiça do Estado de São Paulo.
+Segundo a inicial, o Juízo de Direito da Vara de Execução Penal da Comarca de Marília/SP indeferiu pedido de progressão de regime prisional formulado pelo reclamante, o que motivou a impetração de habeas corpus ao TJSP, que denegou a ordem.
+Desse acórdão da Corte estadual paulista, o reclamante ajuizou a presente ação, na qual alega, em suma, violação ao disposto na Súmula Vinculante 26 do Supremo Tribunal Federal. Isso porque, embora ele tenha sido definitivamente condenado por crime hediondo antes da entrada em vigor da Lei 11.464/2007, o TJSP negou o seu pedido de progressão com apoio nessa norma (Lei 11.464/2007), e não com base nos requisitos mais brandos previstos no do art. 112 da Lei de Execução Penal.
+Ao final, pede, liminarmente, a reforma do acórdão do Tribunal reclamado, a fim de que seja aplicado ao pleito de progressão do regime prisional do reclamante o disposto no art. 112 da Lei 7.210/1984. No mérito, o reclamante repete o pedido de liminar.
+É o relatório.
+Decido.
+O enunciado da Súmula Vinculante 26, cuja violação é alegada pelo reclamante, não estabelece a aplicação do prescrito no art. 112 da Lei de Execução Penal aos condenados por crime hediondo antes da Lei 11.464/2007, limitando-se a determinar a observação da “inconstitucionalidade do art. 2º da lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico”.
+Portanto, a reclamação não é o meio processual adequado para a verificação do acerto ou desacerto de acórdão que teria aplicado a Lei 11.464/2007 a pedido de progressão de regime prisional daquele que foi condenado antes da entrada em vigor daquela norma, uma vez que essa matéria não está diretamente abrangida pelo enunciado sumular sob enfoque.
+Ressalto, ainda, que a via eleita não pode ser utilizada como sucedâneo recursal ou como um atalho processual para a submissão direta do litígio à Suprema Corte. Nesse sentido, cito, dentre outros tantos, a Rcl 5.684-AgR/PE (rel. min. Ricardo Lewandowski), a Rcl 5.465-ED/ES (rel. min. Cármen Lúcia), a Rcl 4.713/SC (rel. min. Ricardo Lewandowski), a Pet 2.847 (rel. min. Carlos Velloso), a Rcl 2.279/MA (rel. min. Ellen Gracie), a Rcl 2.481/MS (rel. min. Carlos Velloso), e a Rcl 968/DF (rel. min. Marco Aurélio), merecendo destaque o seguinte julgado:
+“(...) O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. (...).” (Rcl 6.534-AgR/MA, Rel. Min. Celso de Mello, Pleno)
+Por fim, anoto que a matéria em causa deve, primeiro, ser submetida a tribunal superior para, depois, se for o caso, ser posta à apreciação desta Corte, pelo meio processual adequado, que, definitivamente, não é a reclamação.
+Do exposto, nego seguimento ao pedido, com suporte no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
