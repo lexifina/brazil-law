@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal Regional Federal da 2ª Região que reconheceu direito a pensionista da Marinha do Brasil de perceber cumulativamente pensão civil e pensão militar.
+O acórdão recorrido está assim ementado:
+“EMENTA: CONSTITUCIONAL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. PERCEPÇÃO DAS PENSÕES CIVIL E MILITAR. ACUMULAÇÃO DE PROVENTOS. POSSIBILIDADE. APLICABILIDADE DO ART. 29, ‘B’, DA LEI Nº 3.765/60, COM A NOVA REDAÇÃO DADA PELA MP Nº 2.215-10/2001. ART. 11 DA EC 20/98. INAPLICABILIDADE DO ART. 37, DA CF/88.
+1. Uma vez que seu falecido marido, Carlos Alberto de Souza, já era aposentado e acumulava as duas pensões, uma civil e outra militar, é inegável que a impetrante, ora apelada, tem direito de acumular duas pensões de cargos civil e militar.
+2. De acordo com o art. 29, ‘b’, da Lei nº 3.765/60 é permitida a acumulação de uma pensão militar com outra pensão proveniente de cargo civil. Tal entendimento foi mantido, embora tenha sido modificada a redação do dispositivo legal, pela Medida Provisória nº 2.131/2000.
+3. Sem sobra de dúvidas que o referido dispositivo do art. 29, ‘b’, da Lei nº 3.765/65 continua surtindo os efeitos indicados pela r. sentença recorrida em decorrência do advento da MP nº 2.215/2001, ainda em vigor, por força da EC nº 32/2001.
+4. O art. 11, da EC nº 20/98 explicitou a proibição prevista no art. 37, da Constituição Federal, bem como ressalvou situações pretéritas.
+5. Remessa necessária e Apelo da União Federal improvidos.” (Fls. 110)
+Em seu recurso extraordinário, a União alega violação do art. 37, caput, XVI, XVII, § 10 (com a redação dada pela EC 20/1998), da Constituição federal e do art. 11 da EC 20/1998.
+É o relatório.
+No julgamento do MS 25.134, por mim relatado, o Pleno fixou o seguinte entendimento:
+“MANDADO DE SEGURANÇA. ACOLHIDA PRELIMINAR DE ILEGITIMIDADE PASSIVA DO COORDENADOR-GERAL DE RECURSOS HUMANOS. PROSSEGUIMENTO DO FEITO EM RELAÇÃO AO PRESIDENTE DA PRIMEIRA CÂMARA DO TRIBUNAL DE CONTAS DA UNIÃO. CUMULAÇÃO DE PROVENTOS DA RESERVA MILITAR E DE APOSENTADORIA EM CARGO CIVIL ANTES DA EMENDA CONSTITUCIONAL 20/1998. POSSIBILIDADE. O coordenador de Recursos Humanos da ABIN é parte ilegítima para figurar no pólo passivo da relação processual, porquanto mero executor da decisão administrativa do Tribunal de Contas da União. Prossegue, contudo, o feito em relação à segunda autoridade impetrada. A cumulação de proventos e vencimentos, no caso do impetrante, é possível. O art. 99, § 9º, da Constituição federal de 1969 bem como a Constituição vigente, até a Emenda Constitucional 20/1998, não vedavam o retorno do militar da reserva para o serviço público, em cargo civil de caráter técnico, com acumulação de proventos e vencimentos. Se o militar tiver sido conduzido à reserva remunerada na vigência da Constituição de 1969 e aposentado no cargo civil antes da Emenda Constitucional 20/1998, não incide a vedação à acumulação prevista no art. 11 da referida emenda, porque se trata de um cargo civil e outro militar, e não de dois cargos civis. Precedentes. Segurança concedida.”
+O acórdão recorrido assentou que o falecido marido da recorrida já acumulava as duas aposentadorias que deram origem às pensões, uma civil e outra militar, quando do falecimento dele, em 24.06.1998, antes, portanto, da EC 20/1998. A pensão decorrente da morte do servidor reflete a situação dos rendimentos obtidos em vida. Assim, se é possível receber proventos da reserva militar juntamente com a aposentadoria civil, desde que a aposentadoria seja anterior à EC 20/1998, não há óbice para que se estenda esse raciocínio às pensões.
+Dessa orientação não divergiu o acórdão recorrido.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
