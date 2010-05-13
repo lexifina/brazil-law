@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão de Turma Recursal, cuja ementa é do seguinte teor:
+“EMENTA. ACIDENTE DE VEÍCULO. COLISÃO EM VEÍCULO ESTACIONADO. JULGAMENTO COM BASE NAS ROBUSTAS PROVAS CARREADAS AOS AUTOS. BOLETIM DA SET-SUPERINTENDÊNCIA DE ENGENHARIA DE TRÁFEGO DA PREFEITURA MUNICIPAL DO SALVADOR. TRANSCRIÇÃO IDÊNTICA À DECLARAÇÃO DO CONDUTOR DO VEÍCULO DA RECORRIDA. ALEGAÇÕES DO RECORRENTE. INDEMONSTRADAS. RECURSO IMPROVIDO. SEM SUCUMBÊNCIA.” (Fls. 111)
+No recurso extraordinário, alega-se ofensa aos arts. 5º, XXXIII, XXXV, LIV e LV; e 93, IX, da Constituição federal.
+A Turma recursal manteve a sentença que condenou o ora agravante a pagar indenização por acidente de trânsito ao fundamento de que “a sentença de primeiro grau não merece censura, devendo ser mantida por seus próprios fundamentos que são adotados, como se aqui estivessem integralmente transcritos, de vez que as provas evidenciam as alegações da recorrida” (fls. 112) (grifei). Ora, resta claro que uma eventual modificação desse entendimento implica, necessariamente, o reexame dos fatos e provas que fundamentaram as conclusões do acórdão recorrido. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Ademais, prosseguir a análise da alegação de cerceamento de defesa requer sejam previamente examinadas as regras infraconstitucionais que fundamentaram o acórdão recorrido. A jurisprudência do Supremo Tribunal Federal concluiu que essa circunstância inviabiliza o processamento do recurso extraordinário (cf. AI 448.303, rel. min. Gilmar Mendes, DJ de 23.06.2003; AI 477.878, rel. min. Celso de Mello, DJ de 19.12.2003, e RE 298.991, rel. min. Ellen Gracie, DJ de 05.03.2004).
+Por outro lado, inexiste a alegada afronta aos arts. 5º, XXXV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
