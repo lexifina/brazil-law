@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, cuja ementa é do seguinte teor:
+“EMBARGOS DO DEVEDOR. EXECUÇÃO DE PRESTAÇÃO ALIMENTÍCIA. PRELIMINAR DE NULIDADE DA SENTENÇA POR FALTA DE FUNDAMENTAÇÃO QUE NÃO SE ACOLHE. DECISÃO DEVIDAMENTE MOTIVADA. ALEGAÇÃO DE FALTA DE TÍTULO EXECUTIVO E EXCESSO DE EXECUÇÃO EM RAZÃO DE O APELANTE ESTAR EFETUANDO O PAGAMENTO DE PLANO DE SAÚDE, DESPESAS ESCOLARES E PLANO DE PREVIDÊNCIA PRIVADA. TÍTULO EXECUTIVO JUDICIAL CUJA CÓPIA ENCONTRA-SE NOS AUTOS, QUE DETERMINA AO RÉU/APELANTE O PAGAMENTO DOS DOIS PRIMEIROS ITENS. PELO PRINCÍPIO DA RAZOABILIDADE E DA PROPORCIONALIDADE NÃO CONFIGURA EXCESSO DE EXECUÇÃO QUANDO O EMBARGANTE/APELANTE ÀS SUAS EXPENSAS RESOLVE EFETUAR O PAGAMENTO DE PLANO DE PREVIDÊNCIA PRIVADA A SEU FILHO NO VALOR DE R$ 70,00 (SETENTA REAIS). CONHECIMENTO DO RECURSO, REJEIÇÃO DA PRELIMINAR E DESPROVIMENTO DO APELO.” (Fls. 31)
+A parte agravante alega ofensa aos arts. 5º, caput e LV, e 93, IX, da Constituição federal.
+Verifico que a análise da questão discutida em sede de embargos à execução demanda o exame prévio da legislação infraconstitucional, de modo que a alegada violação aos dispositivos constitucionais, se houvesse, seria indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+Além disso, o tribunal a quo concluiu que não restou demonstrado o excesso de execução. Ora, resta claro que uma eventual modificação desse entendimento implicaria, necessariamente, o reexame prévio das provas que fundamentaram as conclusões do acórdão recorrido (vedação contida no enunciado da Súmula 279 do STF).
+Por outro lado, inexiste a alegada afronta ao art. 5º, LV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
