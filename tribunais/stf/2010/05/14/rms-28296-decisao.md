@@ -1,0 +1,65 @@
+Trata-se de recurso ordinário em mandado de segurança interposto contra acórdão proferido pela Corte Especial do Superior Tribunal de Justiça, nos autos do MS 12.750/DF, Rel. Min. Arnaldo Esteves Lima.
+Na origem, o writ foi impetrado contra acórdão da mesma Corte Especial que negou provimento ao agravo regimental interposto de decisão monocrática que inadmitiu embargos de divergência em recurso especial. Foi, ainda, aplicada multa de 10% sobre o valor corrigido da causa, nos termos do art. 557, § 2º, do CPC.
+O STJ negou seguimento ao mandamus com fundamento na Súmula 267 deste Tribunal. Eis a ementada da decisão recorrida:
+“DIREITO CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. DECISÃO COLEGIADA DA CORTE ESPECIAL. IMPETRAÇÃO DE WRIT A SER APRECIADO PELA PRÓPRIA CORTE ESPECIAL. IMPOSSIBILIDADE. RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA 267/STF. AGRAVO IMPROVIDO.
+1. ‘Não cabe mandado de segurança contra ato judicial passível de Recurso’ (Súmula 267/STF).
+2. Hipótese em que o mandado de segurança é dirigido à Corte Especial do STJ para impugnar ato praticado por esse mesmo órgão colegiado no julgamento de agravo regimental em embargos de divergência.
+3. Agravo regimental improvido” (fl. 258).
+Inconformado com tal decisão, foi interposto recurso ordinário sob o fundamento de que
+“a hipótese, como se vê, é de mandado de segurança impetrado contra ato judicial de que não cabe recurso algum, o que é expressamente admitido pelo artigo 5º, inciso II, da Lei nº 1.533, de 31 de dezembro de 1951, e constitui decorrência direta e imediata do princípio constitucional de que a lei ‘não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito’” (fl. 265).
+Afirma, ainda, que a possibilidade de mandado de segurança em casos tais foi assentada por esta Corte no julgamento do RMS 25.293/SP, Rel. Min. Ayres Britto.
+Alega, ademais, que
+“a multa por embargos protelatórios, por sua própria natureza, mais do que à da parte, atinge frontalmente a dignidade do seu patrono porque faz tabula rasa de seu passado e compromete o seu futuro. Não se compadece por isto com juízos afoitos sobre a natureza do ato sancionado, nem se presta a refrigério de vaidades feridas”.
+A União, em contrarrazões, pugnou pela inadmissibilidade do inconformismo (fls. 277-280).
+A Procuradoria-Geral da República, em parecer de fls. 287-290, opinou pelo provimento do recurso, nos termos da decisão proferida por ocasião do julgamento do RMS 25.293/SP, Rel. Min. Ayres Britto.
+É o relatório.
+Decido.
+Bem examinados os autos, entendo que a pretensão recursal não merece acolhida.
+O entendimento deste Tribunal é no sentido de que não cabe mandado de segurança contra ato judicial passível de recurso ou correição. Tal orientação está sedimentada no enunciado da Súmula 267/STF e é aplicada pelos seus Ministros, conforme se observa dos seguintes julgados:
+“AGRAVO REGIMENTAL CONTRA DECISÃO QUE NEGOU SEGUIMENTO A MANDADO DE SEGURANÇA. INCIDÊNCIA DAS SÚMULAS 267 E 268 DO SUPREMO TRIBUNAL FEDERAL. 1. Não cabe mandado de segurança contra ato judicial passível de recurso ou correição (Súmula 267), nem contra decisão transitada em julgado (Súmula 268). 2. Inviável o manejo de mandado de segurança como sucedâneo de ação rescisória. 3. Agravo regimental a que se nega provimento” (MS 26.394-AgR/DF, Rel. Min. Ayres Britto).
+“MANDADO DE SEGURANÇA. Ato judicial. Decisão do Presidente do STF. Inadmissibilidade. Pedido não conhecido. Aplicação, ademais, da súmula 267. Precedentes. Ausência de razões novas. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente da Corte” (MS 26.768-AgR/DF, Rel. Min. Cezar Peluso).
+“AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL EMANADO DAS TURMAS OU DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL. INADMISSIBILIDADE, ESPECIALMENTE SE A DECISÃO JUDICIAL TRANSITOU EM JULGADO. SÚMULAS 267 E 268. USO DO WRIT COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA. IMPOSSIBILIDADE. 1. Não se admite a impetração de mandado de segurança contra decisões de caráter jurisdicional emanadas das Turmas ou do Plenário. Súmula n. 267. Precedentes [MS n. 24.633, Relator o Ministro CÉZAR PELUSO, DJ de 12.03.2004 e MS n. 21.734, Relator o Ministro ILMAR GALVÃO, DJ de 15.10.93]. 2. Não cabe mandado de segurança contra decisão judicial com trânsito em julgado. Súmula 268. 3. O mandado de segurança não pode ser utilizado como sucedâneo de ação rescisória ou de qualquer outro recurso contra decisão judicial. 4. Agravo regimental a que se nega provimento” (MS 26.193-AgR/DF, Rel. Min. Eros Grau).
+A Primeira Turma do STF por ocasião do julgamento do RMS 25.293/SP, Rel. Min. Ayres Britto, afastou a aplicação da citada Súmula 267. O acórdão foi assim ementado:
+“RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACÓRDÃO QUE, EM EMBARGOS DE DECLARAÇÃO CONSIDERADOS PROTELATÓRIOS, APLICOU À EMBARGANTE MULTA DE 1% (UM POR CENTO) SOBRE O VALOR DA CAUSA. PARÁGRAFO ÚNICO DO ART. 538 DO CPC. NATUREZA JURISDICIONAL DO ATO. CABIMENTO DA SEGURANÇA.
+Rejeita-se a alegação de que o ato impugnado, no ponto, teria caráter administrativo, porque praticado no exercício do poder de polícia do juiz. Por se tratar de condenação, a alcançar o patrimônio do embargante, em benefício do embargado, encerra-se ela na atividade jurisdicional do magistrado.
+No caso, a multa foi aplicada no julgamento dos segundos embargos de declaração, opostos em sede de recurso especial, quando o Superior Tribunal de Justiça exauria a sua jurisdição. O manejo de outros embargos poderia elevar a multa a 10% (dez por cento). Inocorrência dos pressupostos necessários à interposição de recurso extraordinário. Daí o cabimento do mandado de segurança, para defrontar o ato, aplicando-se, com temperamentos, a Súmula 267/STF.
+Recurso ordinário provido, para o efeito de retornarem os autos ao Superior Tribunal de Justiça”.
+O afastamento da referida Súmula ocorreu em virtude da singularidade daquele caso. À ocasião, o Relator Ministro Ayres Britto consignou o seguinte:
+“Concluo, portanto, que a imposição da multa em exame decorre do poder jurisdicional do magistrado. Por isso, a princípio, o ato revela-se inatacável por meio de ação mandamental, a teor da Lei nº 1.533/51 (inciso II do art. 5º) e da Súmula 267/STF, assim legendada:
+‘Não cabe mandado de segurança contra ato judicial passível de recurso ou correição’.
+22. Isso não obstante, devo continuar o raciocínio para dizer que a norma acima referida fecha uma porta mas abre outra. Isto porque estamos diante de um caso incomum, em que, a rigor, o ato adverso não podia ser combatido de forma diferente, à míngua de recurso compatível com a fase processual da ação originária.
+23. Vou explicar melhor, e, para isso, volto dois passos, a fim de relembrar que a multa foi imposta no julgamento dos segundos embargos de declaração, opostos em sede de recurso especial. O manejo de outros embargos motivaria, por certo, a elevação da multa para 10% (dez por cento) sobre o valor da causa, ‘ficando condicionada a interposição de qualquer outro recurso ao depósito do valor respectivo’, na forma da última parte do parágrafo único do art. 538 do CPC.
+24. De outra banda, o recorrente, surpreendido com a aplicação da multa num momento em que o Superior Tribunal de Justiça exauria a sua jurisdição, não dispunha dos pressupostos necessários à interposição do apelo extremo, nesse ponto. Sobrou-lhe, portanto, o writ of mandamus, para evitar que a condenação se consumasse com um único julgamento.
+25. Assim, acredito que a garantia do acesso à jurisdição (inciso XXXV do art. 5º da Magna Carta) socorre à impetrante” (grifei).
+Ao acompanhar o Relator, o Ministro Cezar Peluso assentou que
+“Senhor Presidente, acompanho o Relator por dois motivos. O primeiro, porque não estamos estabelecendo nenhum juízo a respeito do resultado do mandado de segurança. Pode ser que fosse concedido o mandado de segurança.
+ O segundo é que considero este caso singularíssimo e, daí, não lhe vou tirar nenhuma tese” (grifos meus).
+Verifica-se, dessa forma, que o afastamento da Súmula 267/STF deu-se em razão da singularidade do caso, qual seja: a multa foi aplicada nos segundos embargos de declaração, oportunidade em que o STJ exauria a sua juridisção.
+No caso em exame, porém, entendo que não há particularidade a permitir o afastamento da Súmula 267/STF.
+Isso porque a multa foi imposta, nos termos do art. 557, § 2º, do CPC, no julgamento do agravo regimental interposto de decisão monocrática que inadmitiu embargos de divergência em recurso especial. E contra essa decisão a ora recorrente opôs embargos de declaração (fls. 51-64), sem recolher a multa, questionando, entre outros temas, também a sua aplicação.
+O Relator superou o não recolhimento da multa e, depois de sua análise, rejeitou os embargos de declaração.
+Destaco, por oportuno, o quanto assentado pelo Relator por ocasião do julgamento:
+“A embargante não cumpriu a condição para interposição do recurso, qual seja, o depósito do valor correspondente à multa aplicada, motivo pelo qual nego seguimento aos embargos de declaração.
+Outrossim, mesmo que se afaste a exigência do depósito da multa, em face de se tratar, nesta oportunidade, de embargos de declaração, estes devem ser repelidos .
+(...)
+Diante desse panorama, estabelece-se em juízo de confirmação, que os embargos de divergência de fato, não alcançam admissão.
+Repito: os paradigmas apresentados para confronto não apresentam similitude fática e jurídica com o aresto embargado. O acórdão do REsp 419.376/MS cuida de contrato de abertura de crédito. Discutiu-se sobre a possibilidade de apresentação de pré-executividade, calcada em falta de higidez do título, após o julgamento dos embargos à execução.
+O decisum embargado, como demonstrado, não decidiu sobre questão relativa à perfectibilidade do título já ter sido apreciada em embargos à execução. Não o fez porque não houve prequestionamento da matéria, nem recurso especial da parte interessada para centrar a discussão nesse ponto.
+O REsp 285.402/MG reconheceu, simplesmente, que a questão da executividade do contrato de abertura de crédito em conta-corrente não fez coisa julgada.
+Não tem, portanto, qualquer semelhança, com o julgado embargado.
+O REsp 419.376/MS reconheceu, também, inexistir coisa julgada na alegada exceção de pré-executividade.
+Em face do exposto, não prosperam os presentes embargos de declaração, pelo que os rejeito. Mantém-se a multa aplicada pelo acórdão que apreciou o agravo regimental” (grifei).
+Dessa forma, os princípios constitucionais do irrestrito acesso à jurisdição e da ampla defesa não foram violados, porquanto a parte teve a oportunidade de recorrer da decisão que lhe aplicou a multa.
+Por tudo isso, não merece reparo o acórdão recorrido, mantendo-se íntegra a aplicação da Súmula 267/STF.
+Ressalto, ainda, que o Plenário desta Corte reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante do Supremo Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Ainda que se trate de recurso ordinário em mandado de segurança, dispõe o Relator dos mesmos poderes conforme decisão emanada do Plenário deste Tribunal nos autos do RMS 23.691-AgR/DF, Rel. Min. Celso de Mello, in verbis:
+“JULGAMENTO MONOCRÁTICO DO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA.
+O Relator, na direção dos processos em curso perante a Suprema Corte, dispõe de competência, para, em decisão monocrática, julgar recurso ordinário em mandado de segurança, desde que - sem prejuízo das demais hipóteses previstas no ordenamento positivo (CPC, art. 557) - a pretensão deduzida em sede recursal esteja em confronto com Súmula ou em desacordo com a jurisprudência predominante no Supremo Tribunal Federal” (grifos no original).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego provimento a este recurso ordinário. Mantido, em consequência, por seus próprios fundamentos, o acórdão emanado do Superior Tribunal de Justiça.
+Publique-se.
+Brasília, 14 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
