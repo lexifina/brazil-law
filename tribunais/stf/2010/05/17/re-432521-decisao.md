@@ -1,0 +1,32 @@
+DECISÃO
+Vistos.
+O Estado do Rio Grande do Sul interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Vigésima Primeira Câmara Cível do Tribunal de Justiça daquele Estado, assim ementado:
+“ICMS. OPERAÇÕES INTERESTADUAIS. ART. 152 DO CTN. INDEXADOR. ALÍQUOTA APLICÁVEL. REDUÇÃO DA BASE DE CÁLCULO. COMPENSAÇÃO.
+Quanto ao recurso da Embargante:
+Não ostentam nenhum vício os autos de lançamento que descumprem o disposto no art. 142 do CTN.
+Desimporta o indexador para corrigir o tributo, desde que não supere o produto obtido pela incidência do IGP-M.
+Nas operações interestaduais o montante do tributo é equivalente à alíquota de 12% e nas estaduais é de ser deduzido pela alíquota interna.
+O regime de redução da base de cálculo não impede faça a empresa uso do creditamento do ICMS, isso porque a Constituição Federal apenas excepciona, do princípio da não-cumulatividade, as hipóteses de não-incidência e isenção.
+Se o texto constitucional trata da questão com minúcia (art. 155, § 2º, inc. I) e expressamente estabelece a regra que a excepciona, não pode o legislador infraconstitucional avançar mais do que para disciplinar o regime da compensação (art. 155, § 2º, inc. XII, “c”).
+Quanto ao recurso do Embargado:
+Quando sócios os executados, o prazo para a oposição de Embargos flui da última intimação (art. 241, III, do CPC).
+Apelo da Embargante parcialmente provido, por maioria. Apelo do Embargado desprovido” (fl. 117).
+Opostos embargos de declaração (fls. 134 a 138), foram rejeitados (fls. 141 a 143).
+Alega o recorrente contrariedade aos artigos 5º, incisos XXXV e LV, e 155, § 2º, incisos I e XII, alínea “c”, da Constituição Federal.
+Contra-arrazoado (fls. 175 a 177), o recurso extraordinário (fls. 160 a 169) foi admitido (fls. 179 a 185).
+O Superior Tribunal de Justiça, conforme consta na certidão de folha 188, negou provimento ao agravo de instrumento interposto contra a decisão que negou seguimento ao recurso especial interposto paralelamente ao extraordinário (fls. 148 a 160).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 19/11/02, conforme expresso na certidão de folha 145, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Merece prosperar, em parte, a irresignação em tela, uma vez que o acórdão recorrido, ao permitir a compensação integral do imposto, contrariou a jurisprudência desta Corte, que se consolidou no sentido de que a opção do contribuinte pela redução da base de cálculo do ICMS não afasta o direito de creditamento proporcional à parcela correspondente ao valor pago pelo tributo, por se tratar de uma isenção fiscal parcial. Nesse sentido, anote-se:
+“IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS - PRINCÍPIO DA NÃO-CUMULATIVIDADE - REDUÇÃO DA BASE DE CÁLCULO - PRECEDENTE DO PLENÁRIO. O Plenário, apreciando o Recurso Extraordinário nº 174.478-2/SP, considerou harmônica com a Carta da República a exigência de estorno proporcional do crédito do ICMS relativo à entrada de insumos usados na fabricação de produtos cujas saídas foram realizadas com redução da base de cálculo. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (AI nº 539.382/RS-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJ de 20/3/09).
+“Tributo. ICMS. Redução proporcional. Precedentes da Corte. 1. A redução da base de cálculo autoriza o estorno proporcional, considerando que se trata de isenção fiscal parcial. 2. Recurso extraordinário a que se dá provimento” (RE nº 205.262/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 22/8/08).
+“TRIBUTO. Imposto sobre Circulação de Mercadorias. ICMS. Créditos relativos à entrada de insumos usados em industrialização de produtos cujas saídas foram realizadas com redução da base de cálculo. Caso de isenção fiscal parcial. Previsão de estorno proporcional. Art. 41, inc. IV, da Lei estadual nº 6.374/89, e art. 32, inc. II, do Convênio ICMS nº 66/88. Constitucionalidade reconhecida. Segurança denegada. Improvimento ao recurso. Aplicação do art. 155, § 2º, inc. II, letra "b", da CF. Alegação de mudança da orientação da Corte sobre os institutos da redução da base de cálculo e da isenção parcial. Distinção irrelevante segundo a nova postura jurisprudencial. Acórdão carente de vício lógico. Embargos de declaração rejeitados. O Supremo Tribunal Federal entrou a aproximar as figuras da redução da base de cálculo do ICMS e da isenção parcial, a ponto de as equiparar, na interpretação do art. 155, § 2º, II, "b", da Constituição da República” (RE nº 174.478/SP-ED, Tribunal Pleno, Relator o Ministro Cezar Peluso, DJ de 30/5/08).
+“Agravo regimental em agravo de instrumento. 2. ICMS. Cesta básica. Estorno proporcional. Base de cálculo reduzida. Princípio da não-cumulatividade não violado. Precedentes. 3. Agravo regimental a que se nega provimento” (AI nº 457.581/RS-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 22/2/08).
+No mesmo sentido, as seguintes decisões monocráticas: AI nº 552.083/RN, Relator o Ministro Celso de Mello, DJ de 18/12/09, RE nº 568.620/RS, Relator o Ministro Carlos Britto, DJ de 14/12/09, e RE nº 519.943/RS, Relatora a Ministra Cármen Lúcia, DJe de 12/5/09.
+No caso dos autos, o acórdão recorrido entendeu que “não será apenas porque reduzida a base de cálculo que a lei, mesmo Complementar, haverá de proibir, restringir ou limitar a compensação total dos impostos pagos, sem o que não se desonera o comerciante, como é da essência do tributo em causa” (fl. 126).
+Essa orientação não está em sintonia com a jurisprudência desta Corte, merecendo reforma.
+Ante o exposto, nos termos do artigo 557, caput e § 1º-A, do Código de Processo Civil, dou parcial provimento ao recurso extraordinário, para autorizar o estorno proporcional do crédito do ICMS. Por conseguinte, reconheço a sucumbência recíproca entre as partes, arcando cada qual com as custas que houver despendido, bem assim com os honorários de seus próprios patronos.
+Publique-se.
+Brasília, 17 maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
