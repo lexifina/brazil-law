@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Estado da Bahia interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos XXXV e XXXVI, 37, caput e incisos XIV e XV, e 93, inciso IX, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Décima Primeira Câmara Cível do Tribunal de Justiça do Estado da Bahia, assim fundamentado:
+“(...)
+No mérito a Gratificação de Habilitação foi instituída pela Lei 3.803, de 16 de junho de 1980, que estabelece, em seu art. 21, ser devida a vantagem ao policial militar pelos cursos realizados, com aproveitamento, em qualquer posto ou graduação, no limite de até 80% (oitenta por cento), na forma fixada em regulamento. O mesmo artigo enumera os cursos a serem considerados e dispõe que é devida a partir da data da conclusão do respectivo curso ou estágio. Leis posteriores alteram o limite percentual, mas não modificaram os requisitos anteriormente estabelecidos” (fl.170).
+Opostos embargos de declaração (fls. 174 a 178), foram rejeitados (fls. 183/184).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 27/1/07, conforme expresso na certidão de folha 184v, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação.
+O artigo 97, inciso IX, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pelo ora recorrente. Incidência das Súmulas nºs 282 e 356 desta Corte.
+Quanto ao mérito, anote-se que a questão da extensão da gratificação prevista na Lei estadual nº 7.145/97 aos inativos e cumulação com a Gratificação de Habilitação (Lei estadual nº 3.803/80) é matéria adstrita ao plano infraconstitucional, o que não enseja reexame em recurso extraordinário. Incidência da Súmula nº 280/STF. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR - GAPM. EXTENSÃO AOS SERVIDORES INATIVOS. ACÓRDÃO DO TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, QUE DECIDIU A CONTROVÉRSIA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL PERTINENTE (LEI Nº 7.145/97). INCIDÊNCIA DA SÚMULA 280 DO STF. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. Precedentes: o AI 636.111-AgR, da relatoria do ministro Ricardo Lewandowski; o AI 639.129, da relatoria da ministra Cármen Lúcia; AI 661.219, da relatoria do ministro Marco Aurélio; e o AI 712.275-AgR, da relatoria do ministro Eros Grau. Agravo regimental desprovido” (AI nº 618.737/BA-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJe de 5/12/08).
+“SERVIDOR PÚBLICO INATIVO DO ESTADO DA BAHIA. EXTENSÃO DA GRATIFICAÇÃO DE ATIVIDADE DE POLICIAL MILITAR - GAPM. REEXAME DE LEGISLAÇÃO LOCAL. ÓBICE DA SÚMULA 280 DESTA CORTE. Esta Turma já decidiu que o debate a respeito da extensão da Gratificação de Atividade Policial Militar - GAPM, conforme estabelecida pela Lei 7.145/1997, a servidor público inativo do Estado da Bahia demanda reexame de legislação local. Agravo regimental a que se nega provimento” (AI nº 459.418/BA-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 16/6/06).
+Anote-se, por fim, que para ultrapassar o entendimento do Tribunal de origem e acolher a tese do Estado da Bahia, quanto à ausência de cumprimento dos requisitos exigidos para incorporação das vantagens estabelecidas pelas normas estaduais, seria necessário o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 17 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
