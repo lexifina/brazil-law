@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário contra acórdão que entendeu cabível o pagamento a servidor público de diferenças remuneratórias decorrentes de desvio de função. Assim a ementa do acórdão recorido:
+“ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICA AGROPECUÁRIA – GDATFA.
+1. Como a GDATFA foi instituída para o cargo efetivo, e o autor, em desvio de função, realiza atribuições inerentes ao cargo de Agente de Inspeção Sanitária e Industrial Sanitária de Produtos de Origem Animal, faz jus ao recebimento da Gratificação de Desempenho de Atividade Técnica de Fiscalização Agropecuária – GDATFA.
+O seu direito consiste em receber as diferenças entre a remuneração da Gratificação de Desempenho de Atividade Técnica de Fiscalização Agropecuária – GDATFA e a Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA, enquanto estiver realizando atribuições inerentes ao cargo de Agente de Inspeção Sanitária e Industrial Sanitária de Produtos de Origem Animal.
+2. Apelação e remessa oficial conhecidas e improvidas” (fl. 161).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 2º, 5º, XXXV, LIV e LV, 37, caput, II, X e XIII, 48, X, 61, § 1º, II, a e c, 84, XXV, 93, IX e 169, § 1º, I, da mesma Carta. Sustentou-se, em suma que “a parte autora não logrou demonstrar que exerce ou exerceu atividades que não são inerentes ao seu cargo” (fl. 206).
+A pretensão recursal não merece acolhida.
+É que, uma vez constatado pelo Tribunal de origem a ocorrência do desvio de função, para dissentir do acórdão recorrido necessário seria o reexame do conjunto fático-probatório constante dos autos, o que inviabiliza o recurso extraordinário, a teor da Súmula 279 do STF.
+Ademais, a decisão impugnada está em consonância com o entendimento desta Corte no sentido de que o servidor público desviado de suas funções, após a promulgação da Constituição, não pode ser reenquadrado, mas tem direito ao recebimento, como indenização, da diferença remuneratória entre os vencimentos do cargo efetivo e os daquele exercido de fato, sob pena de enriquecimento ilícito da Administração. Por oportuno, destaco os seguintes arestos:
+“(...) 2. Desvio de função. Direito à percepção do valor da remuneração devida, como indenização, sob pena de enriquecimento sem causa do Estado. 3. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal
+Federal. Agravo regimental a que se nega provimento.” (AI 623.260-AgR, Rel. Min. Eros Grau, Segunda Turma).
+“Servidor público: firmou-se o entendimento do Supremo Tribunal, no sentido de que o desvio de função ocorrido em data posterior à Constituição de 1988 não pode dar ensejo ao reenquadramento. No entanto, tem o servidor direito de receber a diferença das remunerações, como indenização, sob pena de enriquecimento sem causa do Estado: precedentes” (AI 339.234-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma).
+“DESVIO DE FUNÇÃO - CONSEQ U ÊNCIA REMUNERATÓRIA - ENRIQUECIMENTO SEM CAUSA - AFASTAMENTO. O sistema da Constituição Federal obstaculiza o enriquecimento sem causa, especialmente o do Estado. Longe fica de vulnerar a Carta Política acórdão que, diante de desvio de função, implica o reconhecimento do direito à percepção, como verdadeira indenização, do valor maior, sem estampar enquadramento no cargo, para o que seria indispensável o concurso público” (RE 275 . 840 /RS , Re dator p ara o a córdão o Min. M arco Aurélio , Segunda Turma).
+No mesmo sentido, menciono ainda as seguintes decisões: AI 516.622-AgR/RJ, Rel. Min. Ellen Gracie; RE 433.578-AgR/DF e RE 605.559/RS, Rel. Min. Ayres Britto; AI 789.993/MG, de minha relatoria; RE 589.749/SP, Rel. Min. Cezar Peluso.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 18 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+         - Relator –
