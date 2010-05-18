@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) que tem como violado o art. 5º, XXXV, LIV e LV, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 122):
+“COMPENSAÇÃO DE JORNADA – ACORDO TÁCITO – VIOLAÇÃO AO ART. 896 DA CLT. Conforme consignado no Regional ficou comprovado que as prorrogações das jornadas de trabalho eram compensadas com ausência ao trabalho e férias superiores a trinta dias, não sofrendo a empregada descontos salariais em caso de faltas ao serviço. Verifica-se que a questão discutida no processo apresenta características singulares que não autorizam tratar a matéria à luz do art. 59 da CLT e 7º, inciso XIII, da Constituição da República, bem como da Orientação Jurisprudencial nº 223. Recurso de Embargos não conhecido.”
+Sustenta-se no recurso extraordinário que o Tribunal Superior do Trabalho ofendeu diversos princípios constitucionais, na medida em que teria sonegado prestação jurisdicional.
+É o breve relatório. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Ademais, não procede a alegação de afronta ao art. 5º, XXXV, LIV e LV, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 18 de maio de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
