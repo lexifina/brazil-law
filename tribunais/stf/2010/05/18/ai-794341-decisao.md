@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Paulo Roberto de Oliveira Rodrigues e outros interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 7º, inciso VI, 37, caput e inciso XV, e 39, § 2º, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Quinta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“APELAÇÃO – AÇÃO ORDINÁRIA – ADMINISTRATIVO – SERVIDOR – FUNDAÇÃO EZEQUIEL DIAS – GRATIFICAÇÃO – VANTAGEM – SUPRESSÃO – INCORPORAÇÃO À REMUNERAÇÃO – DIFERENÇAS – AUSÊNCIA – IMPROCEDÊNCIA. Não há falar em ilegalidade, vez que a incorporação da vantagem pessoal à remuneração fora prevista pela lei, não ocasionando qualquer prejuízo aos rendimentos dos servidores, a afrontar o princípio da irredutibilidade dos vencimentos” (fl. 111).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece prosperar.
+No que se refere aos artigos 7º, inciso VI, 37, caput, e 39, § 2º, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte.
+No tocante à transformação da gratificação de saúde em vantagem pessoal, o acórdão recorrido assim consignou:
+“Certo é que a Lei nº 10.521/91 criou a ‘gratificação de saúde’, a qual foi, todavia, extinta pela Lei nº 11.091/93, e transformada, para garantir a manutenção do valor das remunerações, em ‘vantagem pessoal temporária’. Na mesma norma restou previsto, ainda, a possibilidade de incorporação da vantagem ao vencimento básico do servidor.
+Na sequência, a Lei Estadual nº 11.510/94, autorizou o Executivo a reajustar a remuneração dos servidores por meio de Decreto, o que foi implementado pelo Decreto nº 36.014/94, que concedeu reajuste geral ao funcionalismo público, absorvendo as vantagens existentes” (fl. 113).
+Nesse caso, para acolher a pretensão dos agravantes e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame da legislação infraconstitucional, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 280 desta Corte. No mesmo sentido a seguinte decisão monocrática: AI nº 458.967/MG, Relator o Ministro Joaquim Barbosa, DJe de 13/12/09.
+Ademais, na sessão Plenária de 11 de fevereiro de 2009, este Tribunal, ao apreciar o mérito do Recurso Extraordinário nº 563.965/RN, Relatora a Ministra Cármen Lúcia, afastou a alegação de ofensa à garantia de irredutibilidade da remuneração ou de proventos para, então, reafirmar o entendimento já consolidado nesta Corte no sentido de não haver direito adquirido à manutenção da forma de cálculo da remuneração, o que importaria em direito adquirido a regime jurídico. Na ocasião, considerou-se que, embora alterada a forma de cálculo das gratificações, não houve redução do montante percebido pela servidora.
+Aplicando essa orientação, destacam-se as seguintes decisões: RE nº 592.630/AM, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/09, e RE nº 399.050/PE, Relatora a Ministra Cármen Lúcia, DJe de 2/4/09.
+Ante o exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 18 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
