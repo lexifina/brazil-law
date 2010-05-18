@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido entendeu que a revisão dos atos administrativos praticados no âmbito da Administração Pública do Estado de Pernambuco poderia dar-se em 5 (cinco) anos (para os atos praticados até 1/6/2003 – redação original da Lei 11.781/2001), sendo que os atos praticados após a vigência da Lei 12.376/2003, por sua vez, podem ser revistos por até 10 (dez) anos.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, LV, e 37, caput, da mesma Carta.
+O agravo não merece acolhida. Isso porque, o art. 37, caput, da Constituição, não foi objeto de debate e decisão prévios. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ainda que superado tal óbice o recurso não prosperaria. É que o Tribunal de origem decidiu a causa com base na legislação aplicável à espécie (Leis 11.781/01 e 12.376/03), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. ANULAÇÃO DE ATO DA ADMINISTRAÇÃO PÚBLICA. PRESCRIÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 752.561-AgR/SC, Rel. Min. Cármen Lúcia).
+“ADMINISTRATIVO. PRAZO DECADENCIAL PARA A ADMINISTRAÇÃO ANULAR SEUS PRÓPRIOS ATOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão dos autos prazo de decadência para a Administração anular seus próprios atos à luz da legislação ordinária. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - Agravo regimental improvido” (RE 490.850-AgR/DF, de minha relatoria).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 18 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
