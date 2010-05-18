@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA. ENTIDADE SEM FINS LUCRATIVOS. NÃO INCIDÊNCIA DO IMPOSTO SOBRE A RENDA AUFERIDA DE APLICAÇÕES FINANCEIRAS. ART. 150, INC. VI, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTE DO PLENÁRIO. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 2ª Região:
+“CONSTITUCIONAL E TRIBUTÁRIO – IMUNIDADE TRIBUTÁRIA – INSTITUIÇÃO DE EDUCAÇÃO E DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS – ART. 150, VI, C, DA CF – IMPOSTO DE RENDA SOBRE APLICAÇÕES FINANCEIRAS – LEI Nº 9.532/97.
+1. Tempestividade do recurso da União Federal.
+2. A ciência da autoridade coatora dos termos da sentença não tem o condão de iniciar o fluxo do prazo recursal da União Federal, eis que na esfera mandamental a pessoa jurídica em cuja estrutura organizacional a autoridade coatora encontra-se vinculada deve obrigatoriamente ser intimada da sentença proferida para fins de contagem do prazo recursal, pois a função daquela limita-se à prestação de informações, não tendo legitimidade para interpor o recurso cabível.
+3. Inexistência de decisão ultra petita.
+4. Como a regulamentação das limitações constitucionais ao poder de tributar cabe à lei complementar (CF, art. 146, II), a Lei nº 9.532/97 não poderia determinar os requisitos que influenciam no gozo da imunidade conferida às entidades previstas no artigo 150, VI, c, da Constituição de 1988.
+5. Os requisitos a que se refere o artigo 150 da Constituição Federal estão elencados no artigo 14 do Código Tributário Nacional, o qual possui status de lei complementar.
+6. A matéria prevista no § 1º do artigo 12 da Lei nº 9.532/97 não poderia ser tratada por lei ordinária e nem por lei complementar, pois rendimentos e ganhos de capital auferidos em aplicações financeiras são rendas que estão desoneradas de imposto conforme previsão constitucional.
+7. O Supremo Tribunal Federal, na ADIN nº 1802-3, suspendeu a eficácia do § 1º do artigo 12 da Lei nº 9.532/97, que exclui da imunidade do art. 150, VI, c, da Constituição de 1988 os rendimentos e ganhos de capital auferidos em aplicações financeiras de renda fixa ou renda variável, assim como a do art. 13, caput, e a do artigo 14.
+8. A Lei nº 9.718/98 deu nova redação ao § 3º do artigo 13 da Lei nº 9.532/97, afastando a necessidade de aplicação integral do superávit no ativo imobilizado na entidade, permitindo a sua destinação na manutenção e no desenvolvimento de seus objetivos sociais.
+9. Apelação e remessa oficial, considerada existente, improvidas” (fls. 719-720).
+2. A Recorrente alega que teria sido contrariado o art. 150, inc. VI, alínea c, da Constituição da República.
+Afirma que “é de conhecimento comum que, nas hipóteses em que a Constituição exige regulamentação por lei complementar, tal espécie normativa é expressamente mencionada no texto constitucional, razão pela qual a menção apenas à ‘lei’ corresponde à possibilidade de regulamentação por lei ordinária” (fl. 787).
+Assevera, ainda, que, “na forma do art. 150, VI, c, da Constituição, à lei ordinária cabe dispor sobre as normas de constituição e funcionamento da entidade assistencial imune, como de fato ocorreu no § 2º do art. 12 da Lei 9.532/97; cabendo à lei complementar dispor apenas sobre os limites da imunidade, em decorrência do art. 146, II, da Constituição” (fl. 788).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica não assiste à Recorrente.
+4. No julgamento da Medida Cautelar na Ação Direta de Inconstitucionalidade 1.802, Relator o Ministro Sepúlveda Pertence, o Supremo Tribunal Federal deferiu parcialmente a medida para suspender a vigência do § 1º do art. 12 — que excepcionava da imunidade prevista no art. 150, inc. VI, alínea c, da Constituição “os rendimentos e ganhos de capital auferidos em aplicações financeiras de renda fixa ou de renda variável” — e da alínea f do § 2º também do art. 12 da Lei 9.532/97.
+Confira-se o seguinte trecho do voto do Ministro Relator:
+“Resta o § 1º do art. 12 (...) Aqui, afigura-se-me chapada a inconstitucionalidade formal e material da exclusão questionada. Inconstitucionalidade formal, porque a norma atinente à delimitação do objeto da imunidade, supera a alçada da lei ordinária e se reserva – segundo o parâmetro o procedente acolhido – à lei complementar. Mas ao primeiro exame, há também inconstitucionalidade material: ‘rendimentos e ganhos de capital auferidos em aplicações financeiras’ são renda, alcançados, pois, pela imunidade constitucional, quando beneficiária dela a instituição imune e, portanto, não subtraíveis, sequer por lei complementar, do âmbito da vedação constitucional de tributar” (DJ 9.9.1998).
+No mesmo sentido, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. IMUNIDADE TRIBUTÁRIA. IMPOSTO DE RENDA SOBRE OS RENDIMENTOS E GANHOS DE CAPITAL AUFERIDOS EM APLICAÇÃO FINANCEIRA. ART. 150, INC. VI, ALÍNEA C, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. O julgamento de medida cautelar em ação direta de inconstitucionalidade autoriza o exame imediato dos recursos sobre a controvérsia que nela tenha sido debatida” (AI 649.457-AgR, de minha relatoria, Primeira Turma, DJe 20.11.2009).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Art. 12, §1º, da Lei 9.532/97. Inconstitucionalidade. Decisão mantida. Agravo regimental improvido. O Plenário da Corte entendeu pela inconstitucionalidade formal e material do art. 12, 1º, da Lei 9.532/97. 2. RECURSO. Agravo Regimental. Erro material. Conhecimento. Devem-se corrigir erros materiais, ainda que sua correção não implique alteração do teor decisório do acórdão” (AI 739.800-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 18.9.2009).
+Dessa orientação jurisprudencial não divergiu o acórdão recorrido, razão pela qual nada há a prover quanto às alegações da Recorrente.
+5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 18 de maio de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
