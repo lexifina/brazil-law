@@ -1,0 +1,15 @@
+DECISÃO: Vistos, etc.
+Trata-se de embargos declaratórios, opostos em face de acórdão proferido em sede de agravo regimental. Acórdão que manteve decisão singular que negou seguimento ao recurso extraordinário defensivo, manejado com fundamento na alínea “a” do inciso III do art. 102 da Magna Carta.
+2. Pois bem, o embargante alega a ocorrência da extinção da punibilidade pela prescrição. Isso porque a Primeira Turma deste STF (Sessão de 12.05.2009) acolheu o pedido veiculado nos autos do HC 97.509, de minha relatoria. Oportunidade em que o referido órgão colegiado reduziu o quantum da pena privativa de liberdade imputada ao recorrente, assentando a ausência de fundamentação apta a justificar a exasperação da reprimenda. Leia-se o acórdão dos embargos de declaração, publicado em 13.11.2009:
+“EMBARGOS DECLARATÓRIOS. HABEAS CORPUS. CRIME DE RESPONSABILIDADE (INCISOS I E II DO ART. 1º DO DECRETO-LEI Nº 201/67). FIXAÇÃO DA PENA. OMISSÃO DO ACÓRDÃO. EMBARGOS ACOLHIDOS PARA ESCLARECIMENTOS.
+1. O acórdão embargado concedeu a ordem de habeas corpus para fixar a reprimenda increpada ao paciente no patamar mínino legal. Reprimenda afinal estabelecida em 02 (dois) anos e 04 (quatro) meses de reclusão.
+2. Necessidade de esclarecimento da decisão proferida. É dizer: a Primeira Turma do Supremo Tribunal Federal concedeu a ordem de habeas corpus para fixar a pena-base aplicada ao paciente no mínimo legal, ou seja, 02 (dois) anos de reclusão (§ 1º do art. 1º do Decreto-Lei nº 201/67). Pena-base, essa, que, dada a incidência da continuidade delitiva, foi aumentada de 1/6 (um sexto), nos termos do art. 71 do Código Penal. O que totaliza uma reprimenda de 02 (dois) anos e 04 (quatro) meses de reclusão.
+3. Embargos acolhidos sem eficácia modificativa do julgado.”
+(Sem destaques no original)
+3. Feito este aligeirado relato, passo ao exame da prescrição. Fazendo-o, anoto que a pena a ser considerada para os fins do art. 109 do Código Penal é a pena-base de 2 (dois) anos. Digo isto porque não se pode considerar o acréscimo decorrente da continuidade delitiva para o cálculo da prescrição, nos termos do art. 119 do Código Penal e da Súmula 497 do Supremo Tribunal Federal (“Quando se tratar de crime continuado, a prescrição regula-se pela pena imposta na sentença, não se computando o acréscimo decorrente da continuação”).
+4. Da leitura dos autos, observo que a denúncia foi recebida em 02 de fevereiro de 1999 (fls. 25), sendo certo que a sentença condenatória foi proferida no exato dia 16 de maio de 2005 (fls. 114). Pelo que, considerado o prazo prescricional de 4 (quatro) anos (inciso V do art. 109, combinado com o § 1º do art. 110, todos do Código Penal), é o caso de se reconhecer a ocorrência da prescrição da pretensão punitiva do Estado.
+5. Isso posto, declaro extinta a punibilidade de Gutemberg Guimarães de Souza e, em conseqüência, julgo prejudicado o presente recurso, com base no art. 38 da Lei nº 8.038/90 e no inciso IX do art. 21 do RI/STF.
+Publique-se.
+Brasília, 19 de maio de 2010.
+Ministro AYRES BRITTO
+Relator
