@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+Trata-se de conflito negativo de atribuições entre o MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO e o MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO, para atuar em procedimento administrativo, visando a apurar possíveis atos de improbidade administrativa cometidos por dirigentes da TRANSPETRO – PETRÓLEO TRANSPORTES S.A., decorrentes da contratação de mão de obra terceirizada em detrimento de candidatos aprovados em concurso público.
+Foram recebidas diversas representações de candidatos do processo seletivo regido pelo edital TRANSPETRO/GRH-001/2005, requerendo a apuração de supostas irregularidades na contratação de terceirizados em detrimentos dos candidatos aprovados no referido concurso.
+Essas representações foram formuladas, originariamente, perante o Ministério Público do Estado de Pernambuco que, posteriormente, declinou de suas atribuições ao Parquet do Estado do Rio de Janeiro, em virtude da TRANSPETRO S.A. ser subsidiária da PETROBRÁS e “eventual propositura de demanda judicial deverá ser no foro da sede da referida sociedade de economia mista, sendo no caso específico, a Comarca do Rio de Janeiro” (fl. 4).
+Por sua vez, o Ministério Público do Estado do Rio de Janeiro suscitou o presente conflito negativo de atribuições, sustentando que eventual ação civil pública deve ser proposta no foro do local onde ocorreu o dano e, por isso, a investigação caberia à Promotoria de Pernambuco.
+O ilustre Procurador-Geral da República opinou pelo “conhecimento do presente conflito a fim de que seja reconhecida a atribuição do Ministério Público do Estado de Pernambuco” (fl. 35).
+É o relatório.
+Decido.
+Inicialmente, reconheço a competência desta Corte para o julgamento da controvérsia, uma vez que se trata de verdadeiro conflito de atribuição entre o Ministério Público do Estado de Pernambuco e o Ministério Público do Estado do Rio de Janeiro, não havendo nos autos manifestação de órgão jurisdicional. Nesse sentido, já decidiu o Tribunal Pleno desta Corte:
+“COMPETÊNCIA - CONFLITO DE ATRIBUIÇÕES - MINISTÉRIO PÚBLICO FEDERAL VERSUS MINISTÉRIO PÚBLICO ESTADUAL. Compete ao Supremo a solução de conflito de atribuições a envolver o Ministério Público Federal e o Ministério Público Estadual. CONFLITO NEGATIVO DE ATRIBUIÇÕES - MINISTÉRIO PÚBLICO FEDERAL VERSUS MINISTÉRIO PÚBLICO ESTADUAL - ROUBO E DESCAMINHO. Define-se o conflito considerado o crime de que cuida o processo. A circunstância de, no roubo, tratar-se de mercadoria alvo de contrabando não desloca a atribuição, para denunciar, do Ministério Público Estadual para o Federal” (Pet nº 3.528/BA, Tribunal Pleno, Relator o Ministro Marco Aurélio, DJ de 3/3/06).
+Quanto ao mérito, o que se põe em foco na presente ação é a atribuição para apurar possíveis atos de improbidade administrativa cometidos por dirigentes da TRANSPETRO – PETRÓLEO TRANSPORTES S.A., decorrentes da contratação de mão de obra terceirizada em detrimento de candidatos aprovados em concurso público.
+Assiste razão ao suscitante.
+Em virtude da Lei de Improbidade Administrativa não trazer disposição acerca da competência para o processamento e o ajuizamento de ações de improbidade administrativa, aplica-se de modo subsidiário a Lei nº 7.347/85 que, em seu art. 2º, enuncia que “As ações previstas nesta lei serão propostas no foro do local onde ocorrer o dano, cujo juízo terá competência funcional para processar e julgar a causa”.
+Trata-se de competência estabelecida a fim de que o Juízo, bem como o Ministério Público tenham mais proximidade com as provas, facilitando a coleta do material probatório.
+Desse modo, não assiste razão ao suscitado quando defende que a investigação deve ser feita no local da sede da PETROBRÁS, empresa controladora da TRANSPETRO S.A. O que importa ao presente caso é o local do suposto dano e, portanto, o Estado de Pernambuco.
+Ademais, assiste razão ao eminente Procurador-Geral da República, ao sustentar que “mesmo que se considere que as supostas fraudes ocorreram em outros Estados da Federação, concretamente, nos autos, tem-se tão-somente a informação de que candidatos aprovados que se encontram no cadastro de reservas do pólo de Pernambuco tiveram seus direitos à nomeação afrontados pela contratação de funcionários terceirizados” (fl. 34).
+Segue-se, portanto, que a atribuição para a investigação e propositura de eventual ação de improbidade, no caso, é do Ministério Público do Estado de Pernambuco.
+Nesse sentido: ACO 1.367/RJ, decisão monocrática, Relator o Ministro Eros Grau, DJ de 5/5/10; ACO 1.314/RJ, decisão monocrática, Relator o Ministro Ricardo Lewandowski, DJ de 16/6/09.
+Ante o exposto, conheço do presente conflito para determinar a atribuição do Ministério Público do Estado de Pernambuco para atuar no presente feito. Remetam-se os autos ao suscitado.
+Publique-se.
+Brasília, 19 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
