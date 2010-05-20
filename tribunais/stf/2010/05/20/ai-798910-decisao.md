@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. REAJUSTE DE SOLDO E DA GRATIFICAÇÃO DE ATIVIDADE POLICIAL. APLICAÇÃO DA LEGISLAÇÃO ESTADUAL: OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça da Bahia:
+“APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. AÇÃO ORDINÁRIA JULGADA PROCEDENTE. VARIAÇÃO DE ÍNDICES NA CONCESSÃO DE REAJUSTE. ALEGAÇÃO DE OFENSA AO ART. 37, X, DA CONSTITUIÇÃO FEDERAL. PRELIMINAR REJEITADA.
+1. A implementação de reajuste dos soldos dos policiais militares, mediante adoção de índices diferenciados, constitui afronta ao art. 37, X, in fine, da CF/88.
+2. A Lei 7.145/97, em seu art. 7º, § 1º, preceitua que ‘os valores de gratificação estabelecidos no Anexo II serão revistos na mesma época e no mesmo percentual de reajuste dos soldos’, pelo que, restando comprovado o reajuste dos soldos, impõe-se a aplicação, ao caso em tela, do quanto estabelecido no dispositivo legal acima transcrito.
+RECURSO VOLUNTÁRIO E REMESSA NECESSÁRIA IMPROVIDOS” (fl. 253).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula 280 do Supremo Tribunal Federal (fls. 307-309).
+4. O Agravante alega que teriam sido contrariados os arts. 2º e 37, inc. X, XIII e XIV, da Constituição da República.
+Afirma que “o Tribunal a quo deferiu a pretensão dos ora recorridos de reajuste de seus soldos em até 34,06% sob o fundamento de que milicianos de graduações inferiores não poderiam ter tido aumentos maiores do que os auferidos pelos recorridos, milicianos de graduações superiores. (...) Contudo, ao decidir assim, o Tribunal a quo viola frontalmente o art. 37 da CF/88, isto porque os reajustes concedidos espontaneamente pela Administração Pública, em razão de seu juízo de conveniência e oportunidade, não se confundem com a revisão geral anual” (fl. 282).
+Assevera que “o r. acórdão a quo dá guarida à hipótese de aumento automático de parcela remuneratória — a GAP — todas as vezes em que houver reajuste do soldo, rendendo ensejo à perpetração de verdadeiro ‘efeito cascata’, vedado constitucionalmente, vinculando espécies remuneratórias de modo a que determinado acréscimo pecuniária (reajuste do soldo) seja computado para fins de concessão de acréscimo ulterior (reajuste da GAP)” (fl. 288).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Razão de direito não assiste ao Agravante.
+6. O Tribunal a quo decidiu a controvérsia de acordo com a legislação infraconstitucional. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE HABILITAÇÃO POLICIAL MILITAR - GHPM. O TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA DECIDIU A CONTROVÉRSIA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL PERTINENTE (LEI 7.145/97). ALEGAÇÃO DE OFENSA AO INCISO XXXV DO ART. 5º E AO INCISO IX DO ART. 93 DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário, nos termos da Súmula 280 desta nossa Corte. 2. A jurisdição foi prestada de forma completa, em acórdão devidamente fundamentado, embora em sentido contrário aos interesses da parte recorrente. 3. Agravo regimental desprovido” (AI 764.981-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJ 7.5.2010).
+“ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL. INTERPRETAÇÃO DA LEI ESTADUAL 7.145/97. SÚMULA STF 280. 1. O Tribunal a quo, interpretando legislação estadual que trata da matéria, entendeu ser devida a Gratificação de Atividade Policial - GAP. 2. Para se concluir, como pretende a parte agravante, pelo caráter específico da gratificação em análise, necessário seria o reexame de legislação local, o que é defeso nesta via extraordinária (Súmula STF 280). Precedentes. 3. Agravo regimental improvido” (AI 744.086-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 18.9.2009).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR. LEI ESTADUAL N. 7.145/97. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 708.713-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009).
+“RECURSO. Extraordinário. Inadmissibilidade. Servidor Público. Militar. Vencimentos. Reajuste. Verba indevida. Interpretação de normas locais. Ofensa constitucional indireta. Agravo regimental não provido. Aplicação da súmula nº 280. Não cabe RE que tenha por objeto alegação de ofensa indireta à Constituição por má aplicação de direito local” (AI 391.293-AgR, Rel. Min. Cezar Peluso, Primeira Turma, DJ 26.9.2003).
+Não há, pois, o que prover quanto às alegações do Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 20 de maio de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
