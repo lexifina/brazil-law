@@ -1,0 +1,34 @@
+DECISÃO
+Vistos.
+Piazzeta Boeira Zankoski Advocacia Empresarial S/C interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da 1ª Turma do Tribunal Regional Federal da 4ª região, assim ementado:
+“SENTENÇA CITRA PETITA. PIS. INCONSTITUCIONALIDADE. MP 1.212/95.LEI 9.715/98. LEI 9.718/98. COMPENSAÇÃO. CORREÇÃO MONETÁRIA.
+Na hipótese de sentença citra petita, pode o Tribunal decidir desde logo a lide quando os autos estiverem em condições de julgamento, conforme interpretação extensiva da disposição contida no art. 515, §3º, do Código de Processo Civil, acrescentado pela Lei nº 10.352/2001.
+Os efeitos da LC 7/70 operam eficácia até a competência de fevereiro de 1996 fazendo com que a exação seja devida na forma dessa lei complementar durante a vacatio legis da MP 1.212/95.
+O Supremo Tribunal Federal entendeu que o § 1º do artigo 3º da Lei nº 9.718, alterando as Leis Complementares nºs 07 e 70, ampliou a base de cálculo do PIS e da COFINS criando nova fonte de custeio da seguridade, o que somente pode ser feito por meio de lei complementar, nos termos do parágrafo 4º do artigo 195 do texto constitucional. O conceito de receita bruta ou faturamento deve ser entendido como o que decorrer da venda de mercadorias, de mercadorias e serviços ou da venda de serviços.
+Não se diga que a edição da emenda constitucional nº 20 convalidou a Lei nº 9.718/98. Isso porque trata-se de lei com vício de origem, ao contrário do que ocorre com as normas anteriores ao novo diploma constitucional que são por ele recepcionadas.
+Após o trânsito em julgado da sentença, cabível a compensação das quantias recolhidas a maior a título de PIS e da COFINS com as próprias contribuições ou outros tributos e contribuições administrados pela Secretaria da Receita Federal.
+Aplicação da SELIC, a partir de 1º. 01.1996, substituindo a indexação monetária e os juros” (fl. 183).
+Opostos embargos de declaração (fls. 185 a 193), foram acolhidos “para sanar omissão, bem como para fins de prequestionamento” (fl.199). O acórdão foi assim resumido:
+“EMBARGOS DE DECLARAÇÃO. CABIMENTO. OMISSÃO. INTEGRAÇÃO. PREQUESTIONAMENTO.
+São pré-requisitos autorizadores dos embargos de declaração a omissão, contradição ou obscuridade na decisão embargada. Também a jurisprudência os admite para a correção de erro material e para fim de prequestionamento. Não cabem embargos declaratórios para reexame da matéria sobre a qual houve pronunciamento do órgão julgador.
+Reconhecida a existência de omissão, integra-se o julgado para reconhecer que nada obsta a alteração da contribuição ao PIS por meio de lei ordinária, porquanto a Lei Complementar nº 07/70, que antes da Constituição de 1988 regulava a referida contribuição, foi recepcionada pela nova ordem (art. 239 da CF) como lei de tal natureza.
+Prequestionam-se artigos de lei na intenção de evitar não sejam conhecidos eventuais recursos a serem manejados nas instâncias superiores” (fl.199).
+O recorrente, em suma, sustenta a inadequação de lei ordinária para estatuir alíquota de contribuição ao PIS, aduzindo que o acórdão a quo violou preceitos constitucionais, in verbis:
+“(...) foram, à evidência, vulnerados os artigos 5º, inciso LIV; 62 caput (redação original); 93, inciso IX; 146, inciso III c/c 149 caput; 154, inciso I, 195, §4º; 239; da Constituição Federal, assim como ao artigo 72, inciso 72, inciso V do ADCT, nas redações dadas pelas EC de Revisão 1/94; EC 10/96 e EC 17/97, como se demonstrará a seguir”(fl. 240).
+Argumenta que “o julgamento foi genérico e não enfrentou os pontos trazidos para julgamento pelo órgão judicial, quer seja em sede de Apelação, quer seja em sede de embargos declaratórios” (fl. 240).
+Por fim, conclui que “a LC 7/70 foi constitucionalizada e só por Emenda à Constituição poderia ser alterada (tal qual o extinto FINSOCIAL), o que não ocorreu até o presente momento” (fl. 252).
+Contra-arrazoado (fls. 289 a 292), o recurso extraordinário (fls. 229 a 272) foi admitido (fls. 295/295v).
+O Superior Tribunal de Justiça, em acórdão transitado em julgado (fls. 337 a 342 e 345), negou provimento ao recurso especial interposto paralelamente ao extraordinário.
+Decido.
+Preliminarmente, destaco que o acórdão dos embargos de declaração foi publicado em 18/10/06, conforme expresso na certidão da folha 200, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Conheço do apelo apenas quanto ao debate concernente ao artigo 239 da Constituição Federal, uma vez que os demais não foram objeto de discussão no acórdão recorrido, incidindo, no ponto, os verbetes das súmulas 282 e 356 desta Suprema Corte.
+O recurso não merece êxito.
+Na espécie, o acórdão recorrido decidiu as questões constitucionais suscitadas no mesmo sentido da jurisprudência firmada neste Supremo Tribunal Federal, a saber:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CONTRIBUIÇÃO AO PROGRAMA DE INTEGRAÇÃO SOCIAL - PIS. RECEPÇÃO PELO ART. 239 DA CONSTITUIÇÃO DA REPÚBLICA. POSSIBILIDADE DE ALTERAÇÃO DA LEI COMPLEMENTAR N. 7/70 POR LEI ORDINÁRIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 445.671/PR-AgR, Primeira Turma, Relatora a Ministra. Cármen Lúcia, DJe de 26/6//09).
+“Embargos de declaração em recurso extraordinário. 2. Decisão monocrática do relator. Embargos de declaração recebidos como agravo regimental. 3. Base de cálculo para o PIS. Constitucionalidade da Lei no 9.715, de 1998. 4. Agravo regimental a que se nega provimento” (RE nº 511.577/SP- ED, Segunda Turma , Relator o Ministro Gilmar Mendes, DJe de 14/3/08).
+“1. RECURSO. Agravo de instrumento. Admissibilidade. Ausência de peça obrigatória. Comprovação. Reconsideração. Demonstrada a presença da peça obrigatória, deve ser reapreciado o recurso. 2. Recurso. PIS. Medida Provisória. Majoração. Constitucionalidade. Não há qualquer vício de inconstitucionalidade na majoração da contribuição para o PIS mediante a edição de medida provisória. 3. Recurso. Medida Provisória. Reedições. Anterioridade nonagesimal. Fluência a partir da última medida provisória. Não perde eficácia a Medida Provisória com força de lei, não apreciada pelo Congresso Nacional, mas reeditada, dentro do prazo de sua vigência, por outra do mesmo gênero. Nesse caso, o prazo nonagesimal começa a fluir a partir da edição da primeira Medida” (AI nº 623.157/SP-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, 9/10/).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 20 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
