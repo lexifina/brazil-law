@@ -1,0 +1,17 @@
+DECISÃO
+Vistos.
+Estado de Minas Gerais interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 1º, 2º, 18, 37, caput e inciso XIV, 169, incisos I e II, e 195, § 5º, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Quarta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“DIREITO ADMINISTRATIVO – MANDADO DE SEGURANÇA – PEDIDO DE APOSTILAMENTO – CUMPRIMENTO DAS EXIGÊNCIAS NECESSÁRIAS AO ALCANCE DA VANTAGEM FUNCIONAL – REQUISITOS ESTIPULADOS EM LEI – INADMISSIBILIDADE DE AMPLIAÇÃO POR MEIO DE DECRETO – CONCESSÃO DA SEGURANÇA. – Demonstrado o cumprimento dos requisitos atinentes ao apostilamento, requisitos esses estabelecidos na Lei estadual 9.532/87, ao impetrante deve ser reconhecido o direito à obtenção da aludida vantagem funcional, sendo certo que decreto executivo, que deve se limitar a detalhar os termos de lei, não pode avançar para além de seus mandamentos para criar novo requisito referente ao apostilamento do servidor” (fl. 115).
+Foram opostos embargos de declaração por ambas as partes (fls. 124 a 128 e 130/131). Os embargos do agravante foram rejeitados e os declaratórios do ora agravada foram acolhidos somente para incluir a correção monetária na condenação (fls. 134 a 136).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido dos embargos de declaração foi publicado em 28/3/06, conforme expresso na certidão de folha 122, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, uma vez que o Tribunal de origem decidiu a controvérsia acerca das exigências e requisitos necessários ao alcance da vantagem funcional com fundamento nas provas dos autos e na legislação infraconstitucional pertinente (Leis nºs 9.532/87 e 14.683/03). Assim, eventual ofensa à Constituição Federal, se ocorresse, seria indireta ou reflexa, o que inviabiliza a interposição do recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte. Nesse sentido, anote-se:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO. MAGISTÉRIO. REQUISITOS PARA A APOSENTADORIA ESPECIAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL E DE REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 596.519/SP-ED, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 27/11/09).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. APOSENTADORIA. REQUISITOS. LEGISLAÇÃO LOCAL. FATOS E PROVAS. SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local e de fatos e provas, circunstância que impede a admissão do recurso extraordinário, ante os óbices das Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE nº 590.477/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 17/10/08).
+No mesmo sentido, a seguinte decisão monocrática: AI nº 635.378/MG, Relatora a Ministra Cármen Lúcia, DJe de 8/8/08.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Brasília, 20 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
