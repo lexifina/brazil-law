@@ -1,0 +1,22 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, com suporte nas alíneas “a” e “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul. Acórdão assim ementado (fls. 681):
+“DIREITO TRIBUTÁRIO. ICMS. NÃO-CUMULATIVIDADE. CRÉDITO FISCAL ESCRITURAL. MATERIAIS ADQUIRIDOS PARA CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DO ESTABELECIMENTO (ATIVO FIXO OU IMOBILIZADO). PRINCÍPIOS CONSTITUCIONAIS APLICÁVEIS.
+1.   O direito constitucional à ‘não-cumulatividade’ (art. 155, § 2º, I) somente se aplica às entradas, em estabelecimento de contribuinte, de bens destinados à revenda (mercadorias), ou que venham a integrá-los ou acondicioná-los. Créditos fiscais decorrentes de entradas ou consumo de bens que não se enquadrem nesses pressupostos (energia, telecomunicações, ativo fixo, etc.) somente podem ser levados a efeito se houver autorização de lei específica para tanto, não por força do princípio da        ‘não-cumulatividade’, mas como ‘benefício’ ou ‘favor fiscal’ (art. 150, § 6º).
+2.  É válida a restrição, imposta pelo art. 16, V, da Lei nº 8.820/89, do RS, no sentido de que não é admitido crédito fiscal relativo à entrada de mercadorias ou aos serviços recebidos que se destinem à construção, reforma ou ampliação do estabelecimento, porquanto a permissão dada pela LC nº 87/96 para creditamentos a título de ‘benefícios’ ou ‘favores fiscais’ alcança apenas os bens adquiridos para emprego direto na obtenção da produção ou da comercialização de bens que devam sair tributados, o que não ocorre com aqueles.
+3.  Não viola o princípio da ‘não-cumulatividade’, assegurado a todos os contribuintes e aplicável a bens (‘mercadorias’) que devam sair tributadas do estabelecimento, o fato de a LC nº 87/96 (arts. 20 e 33), e suas posteriores alterações, restringir ou postergar a utilização de créditos a título de ‘benefícios’ ou ‘favores fiscais’, somente utilizáveis se houver lei autorizadora específica.
+Decisão: Apelo desprovido, por unanimidade.”
+2. Pois bem, a parte recorrente alega ofensa ao § 4º do art. 24, bem como ao inciso I e alínea “c” do inciso XII do § 2º do art. 155, todos da Carta Magna de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Rodrigo Janot Monteiro de Barros, opina “pelo não conhecimento do recurso ou, caso conhecido, pelo seu desprovimento”.
+4. Tenho que a insurgência não merece acolhida. É que a decisão impugnada afina com a jurisprudência desta nossa Corte, que me parece juridicamente correta. Leia-se, a propósito, a ementa do RE 392.991-AgR, sob a relatoria do ministro Eros Grau:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. LEI COMPLEMENTAR Nº 87/96. SUPERVENIÊNCIA DA LC 102/2000. CRÉDITO DE ICMS. LIMITAÇÃO TEMPORAL À SUA EFETIVAÇÃO. VULNERAÇÃO DO PRINCÍPIO DA NÃO-CUMULATIVIDADE. INOCORRÊNCIA. PRECEDENTES.
+1. O Plenário desta Corte, no julgamento da ADI-MC n. 2.325, DJ de 4.10.04, fixou entendimento no sentido de não ser possível a compensação de créditos de ICMS em razão de operações de consumo de energia elétrica ou utilização de serviços de comunicação ou, ainda, de aquisição de bens destinados ao uso e/ou à integração no ativo fixo do próprio estabelecimento.
+2. As modificações nos artigos 20, § 5º, e 33, da Lei Complementar n. 87/96, não violam o princípio da não-cumulatividade.
+Agravo regimental a que se nega provimento.”
+5. Outras decisões no mesmo sentido: AIs 683.745-AgR, sob a relatoria do ministro Celso de Mello; e 684.734-AgR, sob a relatoria do ministro Marco Aurélio; bem como REs 429.087-AgR, sob a relatoria do ministro Gilmar Mendes; e 457.078-AgR, sob a relatoria da ministra Cármen Lúcia.
+6. Quanto à alínea “c” do permissivo constitucional, reproduzo, por oportuno, o parecer da Procuradoria-Geral República, na parte que interessa:
+“Por fim, cumpre consignar o disposto no § 1º do art. 20 da LC nº 87/96, consoante o qual ‘não dão direito a crédito as entradas de mercadorias ou utilização de serviços resultantes de operações ou prestações isentas ou não tributadas, ou que se refiram a mercadorias ou serviços alheios à atividade do estabelecimento’, como é o caso dos materiais adquiridos para construção, reforma ou ampliação do estabelecimento do contribuinte.”
+Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 20 de maio de 2010.
+Ministro AYRES BRITTO
+Relator
