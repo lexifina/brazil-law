@@ -1,0 +1,14 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROCESSO CIVIL. PRECATÓRIO COMPLEMENTAR. INCIDÊNCIA DE JUROS MORATÓRIOS. SEGURANÇA JURÍDICA. PRECEDENTES. ALEGAÇÃO DE COISA JULGADA INCONSTITUCIONAL. PRECLUSÃO CONSUMATIVA.
+1. Esta Corte Superior de Justiça firmou o entendimento segundo o qual não cabe modificar, em sede de execução, a determinação, por decisão transitada em julgado, de incidência de juros moratórios sobre o precatório complementar até o depósito integral da dívida, sob pena de ofensa ao artigo 5º, inciso XXXVI, da Constituição Federal, e conseqüente afronta à segurança jurídica. Precedentes.
+(...)” (fl. 99).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, LIV e LV, e 100, §§ 1º e 4º, da mesma Carta.
+O agravo não merece acolhida. É que para afastar o fundamento da suposta violação à coisa julgada seria necessária a análise prévia da legislação infraconstitucional, o que é inviável na Corte Suprema, consoante se observa dos julgamentos proferidos por ambas as Turmas deste Tribunal:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PRECATÓRIO COMPLEMENTAR. NÃO INCIDÊNCIA DE JUROS DE MORA. PRECEDENTES. OFENSA À COISA JULGADA, AO DEVIDO PROCESSO LEGAL E À AMPLA DEFESA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 621.666-AgR/RS, Rel. Min. Cármen Lúcia, Primeira Turma).
+“EMENTA: EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PRECATÓRIO COMPLEMENTAR. JUROS DE MORA. ART. 100, § 1º DA CF/88. NÃO CABIMENTO, NO CASO, DA CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS EM SEDE DE AGRAVO DE INSTRUMENTO: OMISSÃO RECONHECIDA. EMBARGOS PARCIALMENTE ACOLHIDOS. 1. A embargante busca, na realidade, rediscutir matéria já pacificada pelo Plenário desta Corte no julgamento do RE 298.616, rel. Min. Gilmar Mendes, para concluir que o Tribunal a quo não deu a correta interpretação ao art. 100, § 1º da Constituição Federal (redação anterior à EC 30/2000). 2. Não é admissível fundar-se em suposta contrariedade ao disposto no inciso XXXVI do art. 5º da Constituição para reabrir controvérsia acerca dos limites objetivos da coisa julgada. 3. Embargos de declaração acolhidos em parte tão-somente para excluir a condenação da embargante na verba honorária, tendo em vista o contido no art. 20, caput, do CPC e no RE 97.031/RJ (RTJ 105/388)” (RE 562.207-AgR-ED/RS, Rel. Min. Ellen Gracie, Segunda Turma).
+No mesmo sentido, menciono as seguintes decisões, entre outras: AI 636.724-ED/DF, Rel. Min. Gilmar Mendes; RE 491.955-AgR/RS, de minha relatoria; RE 540.140-AgR/RS, Rel. Min. Cármen Lúcia; RE 418.763-AgR/RS, Rel. Min. Carlos Velloso.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 20 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
