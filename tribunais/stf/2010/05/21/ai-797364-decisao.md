@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil.
+2.  O acórdão impugnado manteve sentença anulatória de decisão administrativa da 1ª Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro que alterou o percentual do IPC a ser incluído nos precatórios dos recorridos sob o fundamento de ofensa à coisa julgada. O recorrente pretende o restabelecimento dos índices determinados pela decisão anulada.
+3.  Alega-se, no recurso extraordinário, ofensa ao disposto no artigo 100 da CB/88.
+4.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+5.  O agravo não merece provimento. O acórdão recorrido não apreciou a controvérsia à luz dos preceitos constitucionais que o recorrente indica como violados. Além disso, os embargos de declaração são ineficazes para ventilar matéria não arguida oportunamente. Aqui incidem as Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+6.  O prequestionamento, no entendimento pacificado deste Tribunal, deve ser explícito [AI n. 215.724-AgR, Relator o Ministro Sydney Sanches, 1ª Turma, DJ de 15.10.99; e RE n. 192.031-AgR, Relator o Ministro Néri da Silveira, 2ª Turma, DJ de 4.6.99].
+7.  Ademais, este Tribunal fixou entendimento de que a controvérsia sobre o percentual apurado pela variação do IPC há de ser dirimida à luz da legislação infraconstitucional que disciplina a espécie. Nesse sentido: RE 263688 AgR, Relator o Ministro Maurício Corrêa, DJ de 21.6.02; RE 326765 AgR, Relator o Ministro Gilmar Mendes, DJ de 13.9.02; RE 289895 AgR, Relator o Ministro Néri Da Silveira, DJ de 14.12.01. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido: RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+ Nego seguimento ao agravo com fundamento no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 21 de maio de 2010.
+Ministro Eros Grau
+- Relator -
