@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. OCUPAÇÃO DE TERRAS INDÍGENAS POR PARTICULAR. AUSÊNCIA DE INTERESSE DE ESTADO-MEMBRO E DE CONFLITO FEDERATIVO. PRECEDENTE. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alíneas a e c, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+“PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. OCUPAÇÃO DE TERRA INDÍGENA POR PARTICULAR. AUSÊNCIA DE INTERESSE JURÍDICO-PROCESSUAL DO MINICÍPIO DE PACARAIMA E DO ESTADO DE RORAIMA NA LIDE. AGRAVO RETIDO PROVIDO. INTERDITO POSSESSÓRIO EM CURSO PERANTE O STF. RELAÇÃO DE DEPENDÊNCIA ENTRE AS AÇÕES QUE SE RECONHECE. POSSIBILIDADE DE INCIDÊNCIA DO ART. 265, IV, ‘A’, DO CPC.
+1. Restringindo-se o objeto da lide à defesa de comunidades indígenas da suposta ocupação de suas terras por particulares, falece interesse processual do Município de Pacaraima e do Estado de Roraima para a causa.
+2. O interdito proibitório em curso perante o STF (ACO 499/RR), no qual a Funai se insurge contra a criação e instituição do Município de Pacaraima, supostamente por se encontrar no interior da mesma terra indígena, possui objeto distinto da presente ação pública, sendo indevida, em conseqüência, a extinção do feito sem julgamento do mérito, como ocorreu na espécie. Nulidade da sentença que se declara.
+3. Afigura-se presente, de qualquer sorte, a existência de uma relação de dependência entre o interdito proibitório (em curso na Suprema Corte) e a presente ação, que poderia, a princípio, justificar a suspensão deste processo, mediante a aplicação do art. 265, IV, a, do Código de Processo Civil, uma vez que a causa submetida a exame pelo STF contém questão prejudicial ao deslinde da controvérsia travada nestes autos.
+4. Agravo retido a que se dá provimento, para desconstituir a decisão que determinou a integração da relação processual pela citação do município de Pacaraima e do Estado de Roraima.
+5. Apelação provida para declarar a nulidade da sentença que extinguiu o processo sem resolução de mérito, ficando facultado ao Juízo de origem aplicar à causa a norma do RT. 265, IV, a, do CPC, até que sobrevenha decisão final nos autos da ACO 499/RR, em curso perante o STF” (fl. 81 – grifos nossos).
+3. No recurso extraordinário, o Agravante alega que teriam sido contrariados os arts. 102, inc. I, alínea f, e 231, caput, §§ 1º, 2º, 4º e 6º, da Constituição da República.
+Sustenta que:
+“O interesse recursal, constituído pela utilidade de nova decisão, é patente, haja vista tratar-se, mesmo que de modo indireto, da contestação da criação do Município de Pacaraima, por estar este situado em Terra Indígena, pelo que se pretende sua desintrusão por todos os que lá se encontrem, pois, com fundamento no art. 231, § 6º, da Carta Política, seria nulo de pleno direito sua ocupação.(...) deve atuar o Ente Público Estadual como litisconsorte passivo necessário na demanda, a fim de comprovar, dentre outros, ser o titular do domínio do bem ora em litígio, cuja indisponibilidade é evidente, por ser área de proteção ambiental, fato este a indicar o efetivo conflito federativo entre este e a União Federal” (fls. 102-103).
+Assevera, ainda, que a competência para o julgamento da causa seria do Supremo Tribunal Federal e que haveria litispendência com a Ação Cível Originária 499 (fl. 109).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta (fls. 139-140).
+No agravo de instrumento, reiteram-se os argumentos do recurso extraordinário (fls. 2-41).
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. No julgamento da Questão de Ordem na Ação Cível Originária 1.006, Relator o Ministro Marco Aurélio, ao julgar controvérsia idêntica à presente, o Plenário do Supremo Tribunal Federal decidiu que o Estado de Roraima não tem interesse na lide para integrá-la e que não há, na espécie, conflito federativo capaz de atrair a competência do Supremo Tribunal.
+Confiram-se os votos dos Ministros Marco Aurélio e Ayres Britto:
+“É sabido que a definição da competência ocorre a partir dos limites subjetivos e objetivos da lide. Pois bem, trata-se de ação civil pública movida pelo Ministério Público Federal, a União e a Fundação Nacional do Índio – FUNAI contra pessoa natural, ou seja, a cidadã Luiza Teles de Menezes, que estaria a ocupar terras de usufruto exclusivo dos indígenas. Em momento algum, buscou-se pronunciamento judicial capaz de envolver o interesse quer do Município, quer do Estado de Roraima. O andamento de aça possessória com balizas subjetivas diversas — esta sim revelando aparente conflito federativo — não é de molde a alterar os parâmetros da causa a ponto de ter-se como partes legítimas para defender direito privado, direito de pessoa natural, o Município ou o Estado” (DJe 20.2.2009).
+“a presente ação tem como alvo a desocupação de um imóvel apenas, construído pela ré dentro dos limites da citada Terra Indígena São Marcos (fls. 08). Nesse contexto, não sobressai nenhum interesse jurídico do município de Pacaraima e, muito menos, do Estado de Roraima, a justificar o ingresso na lide desses entes políticos” (grifos no original).
+No mesmo sentido foram proferidas as decisões monocráticas nos seguintes processos, todos da relatoria do Ministro Marco Aurélio: ACO 1.074-ED, DJe 2.4.2009; ACO 1.065-ED, DJe 14.11.2008; Pet 3.859-ED, DJe 3.11.2008; Pet 3.873-ED, DJe 4.11.2008; e Pet 3.903-ED, DJe 30.10.2008.
+7. Inadmissível também o recurso extraordinário pela alínea c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição da República. Incide na espécie a Súmula 284 do Supremo Tribunal Federal.
+Nesse sentido:
+“Recurso extraordinário. - Inocorrência da hipótese prevista na alínea ‘c’ do inciso III do artigo 102 da Constituição Federal. Falta de fundamentação, por isso mesmo, a esse respeito. Aplicação da Súmula 284” (RE 148.355, Rel. Min. Moreira Alves, Primeira Turma, DJ 5.3.1993).
+Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 21 de maio de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
