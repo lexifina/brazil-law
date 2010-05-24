@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. DISCORDÂNCIA SOBRE OS CÁLCULOS ELABORADOS PELA CONTADORIA JUDICIAL. REQUERIMENTO DE PERÍCIA CONTÁBIL. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS: IMPOSSIBILIDADE. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 2ª Região:
+“AGRAVO DE INSTRUMENTO – ADMINISTRATIVO – FGTS – EXPURGOS INFLACIONÁRIOS – LIQUIDAÇÃO – CÁLCULOS DO CONTADOR – ALEGAÇÃO DE DIVERGÊNCIA – PERÍCIA CONTÁBIL – DESCABIMENTO.
+1. A simples discordância dos cálculos elaborados pela Contadoria, sem a demonstração de que houve erro grosseiro por parte daquele Setor, não é suficiente para que seja acolhido pedido de perícia contábil.
+2. O Setor de Cálculos Judiciais, na qualidade de órgão auxiliar da justiça, goza, efetivamente, da fé pública explicitada na sentença, militando em seu favor a presunção juris tantum do exato cumprimento da norma legal.
+3. A gravo improvido. Decisão mantida” (fl. 383).
+3. Os Agravantes alegam que teria sido contrariado o art. 5º, inc. LIV e LV, da Constituição da República.
+Afirmam que, “não obstante a irresignação – devidamente expressa e fundamentada – dos Recorrentes com relação ao parecer do Contador Judicial, o magistrado atribuiu presunção de veracidade àquelas contas, acolhendo-as, sem dar aos Recorrentes o direito de comprovar o equívoco nos referidos cálculos, no que foi seguido pelo Tribunal a quo” (fl. 182).
+Asseveram que, “ao contrário do entendimento esposado no acórdão recorrido, os Recorrentes não discordaram pura e simplesmente dos cálculos do Contador Judicial, mas, sim, apresentaram sua planilha com os valores que reputavam corretos (fls. 81/117), acompanhada de parecer (fls. 135/137) produzido por renomado escritório de contabilidade, apontando todos os equívocos encontrados nas contas do Contador Judicial” (fls. 183-184).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta (fls. 191-192).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste aos Agravantes.
+6. O Tribunal de origem assentou que os Agravantes se teriam limitado a discordar dos cálculos elaborados pela Contadoria Judicial sem apresentar nenhuma outra conta que pudesse, em princípio, demonstrar o desacerto daquela contestada. Em decorrência, foi indeferido o pedido de realização de perícia (fl. 148).
+Para se concluir de forma diversa, seria necessário o reexame de provas, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula 279 do Supremo Tribunal Federal. Nesse sentido:
+“Embargos de declaração em agravo de instrumento. Reexame fático-probatório. Óbice da Súmula nº 279 do STF. Omissão, ambiguidade, contradição ou obscuridade. Inexistência. Caráter manifestamente infringente. Inadmissibilidade. Falta de fundamentação da sentença de pronúncia e do acórdão confirmatório. Inobservância. Para se chegar à conclusão diversa daquela a que chegou o acórdão recorrido seria necessário o reexame dos fatos e das provas constantes dos autos. Incidência da Súmula nº 279 da Corte” (AI 458.072-ED, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 16.10.2009).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ARREMATAÇÃO. INDEFERIMENTO DE NOVA PERÍCIA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 581.999-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009).
+7. Além disso, a jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa constitucional indireta. Nesse sentido:
+“A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+Não há, pois, o que prover quanto às alegações dos Agravantes.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 24 de maio de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
