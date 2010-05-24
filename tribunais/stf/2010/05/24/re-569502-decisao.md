@@ -1,0 +1,11 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Superior do Trabalho. Acórdão assim ementado (fls. 52):
+“EMBARGOS. ESTABILIDADE PROVISÓRIA. REINTEGRAÇÃO NO EMPREGO. VERBAS RESCISÓRIAS. RECEBIMENTO SEM RESSALVA EXPRESSA. RENÚNCIA. Conforme abalizada doutrina, a renúncia, na Justiça do Trabalho, ante a inderrogabilidade da maioria das normas de proteção ao trabalho, está sujeita a restrições, devendo ser admitida, em relação ao trabalhador, apenas excepcionalmente. A regra, pois, é a da irrenunciabilidade dos direitos que a lei, as convenções coletivas, as sentenças normativas e as decisões administrativas conferem aos trabalhadores, salvo se a renúncia for admitida por norma constitucional ou legal ou se não acarretar uma desvantagem para o trabalhador ou um prejuízo à coletividade. De se concluir, pois, que não ocorre renúncia, notadamente tácita, na hipótese de o empregado, ao receber as suas verbas rescisórias, não fazer qualquer ressalvas com relação à sua condição de estável, porque, além de não ser admitida por norma constitucional ou legal, acarreta uma grande desvantagem para o trabalhador, que, detentor de estabilidade, vê-se privado de direito inderrogável, imposto por norma jurídica de ordem pública. Cabe invocar, porque oportuno, o entendimento contido na Súmula nº 330/TST, que alude à quitação de parcelas expressamente consignadas no recibo, do qual não consta a estabilidade provisória. Embargos conhecidos e desprovidos.”
+2. Pois bem, o recorrente alega ofensa ao inciso XXXVI do art. 5º da Magna Carta de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer do Subprocurador-Geral Paulo da Rocha Campos, opina pelo não-conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. Isso porque a controvérsia dos autos — renúncia tácita por parte do empregado à estabilidade provisória, conferida pela Lei 5.764/71 —restringe-se ao âmbito infraconstitucional, o que não enseja a abertura da via recursal extraordinária.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 24 de maio de 2010.
+Ministro AYRES BRITTO
+Relator
