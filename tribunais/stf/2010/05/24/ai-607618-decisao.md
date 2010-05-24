@@ -1,0 +1,22 @@
+DECISÃO
+Vistos.
+O Distrito Federal interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário contra acórdão do Conselho Especial do Tribunal de Justiça do Distrito Federal assim ementado:
+“MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. APOSENTADORIA. REVISÃO DE PROVENTOS. PROCESSO ADMINISTRATIVO. GARANTIA DO DEVIDO PROCESSO LEGAL (CONTRADITÓRIO E AMPLA DEFESA). VIOLAÇÃO. SEGURANÇA CONCEDIDA.
+1. Conquanto seja conferido à Administração o poder de autotutela, podendo rever seus próprios atos quando eivados de ilegalidade, tal não chega a ser absoluto, eis que jungida, neste proceder administrativo, à observância, com todo o rigor, do princípio do devido processo legal, com a garantia do contraditório e da ampla defesa (artigo 5º, LIV e LV, da CF).
+2. Não pode a Administração Pública suprimir vantagem pessoal já conferida a servidor ainda que alçado à inatividade, sem levar em conta o seu interesse subjetivo, ao argumento da supremacia do interesse público, tudo sob a ótica do regime jurídico administrativo, mas em prejuízo do preceito maior das garantias constitucionais, agindo, assim, além dos lindes do due process of law” (fl. 144).
+Alega o recorrente violação dos artigos 5º, LIV e LV, e 37, caput, da Constituição Federal, uma vez que “a prescindibilidade de formalidades especiais para a anulação de atos ilegais pela administração – entenda-se, no caso em exame, a instauração de processo administrativo – é explicada por argumentos de ordem lógica e pragmática, decorrentes da premissa de que a solução da problemática depende tão somente da correta aplicação da lei ao caso concreto” (fls. 17/18).
+Contra-arrazoado (fls. 196 a 209), o recurso extraordinário (fls. 174 a 191) foi inadmitido (fls. 211 a 214).
+Decido.
+Preliminarmente, ressalte-se que o acórdão recorrido foi publicado em 14/10/05, conforme expresso na certidão da folha 172, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Lê-se do voto condutor do acórdão:
+“Nesse contexto, importa registrar, que a determinação levada a efeito no sentido de que a ex-servidora teria que devolver ao erário os valores apontados como percebidos indevidamente teria decorrido de entendimento firmado em processo, mas de interesse de outro servidor” (fls. 156).
+Sendo certo que não houve a instauração de regular procedimento administrativo para que se efetuasse a revisão de proventos de aposentadoria da servidora, em que lhe fosse facultado o exercício da ampla defesa e do contraditório, resta induvidosa que a conduta da Administração violou a esfera de direitos individuais da recorrida.
+É nesse sentido a jurisprudência deste Supremo Tribunal Federal, a saber:
+“ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SÚMULA 473 DO STF. NECESSIDADE DE PROCESSO ADMINISTRATIVO. ALEGADA VIOLAÇÃO AO ART. 5º, LIV E LV DO STF. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - O entendimento da Corte é no sentido de que, embora a Administração esteja autorizada a anular seus próprios atos quando eivados de vícios que os tornem ilegais (Súmula 473 do STF), não prescinde do processo administrativo, com obediência aos princípios constitucionais da ampla defesa e do contraditório. Precedentes. II - Como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. III - Agravo regimental improvido” (AI nº 710.085/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 6/3/09).
+“PROVENTOS DA APOSENTADORIA - ALTERAÇÃO. A alteração de proventos da aposentadoria pressupõe a instauração de processo administrativo no qual assegurado ao servidor aposentado o lídimo direito de defesa. Descabe à Administração Pública, a pretexto de corrigir situação irregular, adotar procedimento unilateral, desprezando os contornos próprios ao devido processo” (AI nº 217.849/SC-AgR, Segunda Turma, Relator o Ministro Marco Aurélio, DJ de 30/4/99).
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Brasília, 24 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
