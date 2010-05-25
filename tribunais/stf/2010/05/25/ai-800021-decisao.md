@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. PARTICIPAÇÃO NOS LUCROS E RESULTADOS. Não há como ser alterada a decisão do Regional que consigna a inexistência de provas do alegado pelo reclamante e, com base em outros elementos, conclui que não há direito a diferenças de participação nos lucros e resultados da empresa. Para se chegar a conclusão diversa, necessário seria a incursão nas provas dos autos, o que é vedado nessa instância, a teor da Súmula nº 126/TST. Agravo de instrumento conhecido e não provido” (fl. 76).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, LIV e LV, 7º XI e 93, IX, da mesma Carta.
+O agravo não merece acolhida. É que à exceção do art. 7º, XI, da Constituição os demais dispositivos tidos como violados, não foram prequestionados. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+Ademais, consoante jurisprudência deste Tribunal, a controvérsia relativa à participação de empregados nos lucros da empresa está restrita ao âmbito infraconstitucional. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL. PARTICIPAÇÃO NOS LUCROS. INCORPORAÇÃO AOS SALÁRIOS. ACORDO COLETIVO. MATÉRIA INFRACONSTITUCIONAL. A questão referente à participação de empregados nos lucros da empresa foi decidida à luz de legislação infraconstitucional, razão por que é incabível o recurso extraordinário. Inexistência de ofensa direta à Constituição federal. Agravo regimental a que se nega provimento” (AI 632.966-AgR/SE, Rel. Min. Joaquim Barbosa).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. PARTICIPAÇÃO NOS LUCROS. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 679.419-AgR/RJ, Rel. Min. Cármen Lúcia).
+No mesmo sentido, cito entre outras, as seguintes decisões: AI 585.461-AgR/SE e AI 632.966-AgR/SE, Rel. Min. Joaquim Barbosa; AI 410.136-AgR/SE, Rel. Min. Gilmar Mendes; AI 593.809-AgR/DF, Rel. Min. Sepúlveda Pertence; AI 660.869-AgR/SE, de minha relatoria.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 25 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
