@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil.
+2.  Alega-se, no extraordinário, ofensa ao disposto nos artigos 37, X, e 40, §7º e §8º, da Constituição do Brasil.
+3.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+4.  O agravo não merece provimento. O acórdão impugnado está em harmonia com o entendimento desta Corte, fixado no sentido de que as gratificações concedidas em caráter geral são extensíveis aos servidores inativos. Nesse sentido, o AI n. 446.724-AgR, Relator o Ministro Sepúlveda Pertence, cuja ementa transcrevo:
+“EMENTA: Servidor público estadual. Gratificação por atividade de polícia [GAP] instituída pela LC est. 873/2000: extensão aos servidores inativos, por força do art. 40, § 4º [§ 8º, na redação da EC 20/98], da Constituição Federal, dado o seu caráter geral: precedentes [v.g., RE 244.697, Ellen Gracie, DJ 31.08.01; RE 259.258, Ilmar Galvão, DJ 27.10.00; RE 244.081, Ilmar Galvão, DJ 10.11.00]. Na espécie, a verificação in concreto da natureza da vantagem postulada e da existência ou não de direito dos recorridos à percepção da mesma demandaria o reexame da legislação local [LC 873/2000], incabível no extraordinário [Súmula 280].”
+5.  Ademais, para dissentir-se das conclusões do acórdão recorrido quanto à natureza da vantagem postulada e à existência ou não de direito da recorrida à sua percepção, seria necessário o reexame da legislação infraconstitucional que disciplina a espécie. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido, o RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; o AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; o AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+ Nego seguimento ao agravo com fundamento no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 25 de maio de 2010.
+Ministro Eros Grau
+- Relator -
