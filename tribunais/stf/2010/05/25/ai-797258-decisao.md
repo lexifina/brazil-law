@@ -1,0 +1,9 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“Apelação Cível. Embargos à execução. Tratando-se de matéria unicamente de direito, e quando já houver sido proferido pronunciamento judicial de improcedência da pretensão jurídica em casos idênticos, poderá o magistrado proferir de plano a sentença. Inteligência do Artigo 285-A do CPC. Preliminar de cerceamento de defesa que se rejeita. Creditamento de ICMS com relação ao consumo de energia elétrica às hipóteses em que a energia for consumida em processo de industrialização, ou quando seu consumo resultar em operação de saída ou prestação para o exterior. Na hipótese dos autos não apresenta qualquer afronta ao princípio da não-cumulatividade a impossibilidade de crédito de ICMS referente a entrada de energia elétrica e serviço de comunicação destinado ao consumo do estabelecimento, sentença que se mantém” (fl. 96).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se de ofensa aos arts. 5º, LV, e 155, § 2º, I, da mesma Carta.
+No caso, o recurso extraordinário versa sobre matéria – creditamento do ICMS relativo à energia elétrica utilizada no processo produtivo - cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (RE 588.954/SC – Rel. Min. Cezar Peluso).
+Assim, uma vez que preenchidos os requisitos de admissibilidade do recurso, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no art. 328, parágrafo único, do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no recurso extraordinário discute-se questão idêntica à apreciada no RE 588.954/SC.
+Publique-se.
+Brasília, 25 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
