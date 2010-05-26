@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido entendeu que o agravante não comprovou que o recorrido é o beneficiário dos serviços que motivaram a cobrança das cotas associativas.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 3º, I, e 5º, LIV, da mesma Carta.
+O agravo não merece acolhida. Isso porque, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Seguindo essa linha de entendimento, confiram-se os seguintes julgados desta Corte, em casos análogos ao dos autos:
+“AGRAVO DE INSTRUMENTO. ASSOCIAÇÃO DE MORADORES. DESPESAS DE CONDOMÍNIO. IMPOSSIBILIDADE DE REEXAME DE PROVAS: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO” (AI 650.585/SP, Rel. Min. Cármen Lúcia).
+“AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA DE COBRANÇA DE COTAS CONDOMINIAIS. ÔNUS. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO” (AI 724.631/BA, Rel. Min. Cármen Lúcia).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO CONDOMINIAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Inviável o recurso extraordinário quando a ofensa constitucional é indireta e a controvérsia demanda o reexame de fatos e provas. Incide, no caso, a Súmula 279 deste Supremo Tribunal Federal” (AI 605.334-AgR/RJ, Rel. Min. Cármen Lúcia, Primeira Turma).
+Menciono, ainda, no mesmo sentido, os seguintes julgados, entre outros: AI 742.502/RJ, Rel. Min. Eros Grau; AI 666.124/SP, Rel. Min. Rel. Min. Cármen Lúcia; AI 723.776/BA, Rel. Min. Cezar Peluso.
+Por fim, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LIV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 26 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
