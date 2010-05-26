@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“Ação de Ressarcimento de danos. Desvio de vales compra. Atribuição de culpa ao diretor de empresa responsável pela distribuição dos documentos e ao Secretário da Administração do Município. Procedência integral da sentença reformada. 1. A responsabilidade de dano perpetrado por servidor em relação à Administração é de natureza subjetiva e exige prova de culpa ou dolo. 2. O diretor que solicita suplementação de vales, sem apurar o desvio dos anteriormente requisitados e tidos como suficientes ao atendimento da demanda, responde pela reparação do dano ocasionado ao erário. 3. A funcionária que assume iniciativa de buscar os vales perante a Secretaria e deixa de proceder conferência no ato de recebimento, responde solidariamente na indenização do dano. 4. Impossível atribuir culpa ao Secretário da Administração que atende pedido de solicitação suplementar de vales requisitados pelo Diretor da empresa pública incumbida de distribuí-los. 5. Incabível a fixação dos honorários sujeitos a elevação da alíquota, em caso de interposição de recurso. 6.Recursos do primeiro e da última litisconsorte nomeados na inicial, providos em parte, integralmente o do remanescente.” (Fl. 136).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, LIV e LV, da mesma Carta.
+O agravo não merece acolhida. Para se chegar a conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Além disso, como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 2 6   de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
