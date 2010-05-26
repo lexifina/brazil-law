@@ -1,0 +1,23 @@
+1.  Trata-se de habeas corpus impetrado contra decisão monocrática proferida pelo relator do HC 139.964/SP, Ministro Jorge Mussi, do Superior Tribunal de Justiça, que julgou prejudicado o writ.
+ Narra a inicial que o paciente foi preso pela suposta prática do crime previsto no art. 157, § 2º, I, II e V, do Código Penal. O pedido de liberdade provisória foi indeferido pelo magistrado de primeira instância.
+Contra tal situação, a defesa impetrou dois habeas corpus ao Tribunal de Justiça do Estado de São Paulo, o primeiro questionava a não-concessão da liberdade provisória, ao passo que o segundo atacava a prisão cautelar do paciente e a ocorrência de eventuais irregularidades no inquérito policial. A Corte Estadual denegou a ordem pleiteada nas duas impetrações.
+Posteriormente, impetrou-se outro writ ao Superior Tribunal de Justiça, que julgou prejudicado o pedido em razão da superveniência da prolação de sentença condenatória.
+ Alega o impetrante, em síntese: a) possibilidade de concessão da liberdade provisória; b) ilegalidade da condenação provisória. Requer, assim, a concessão de provimento liminar, para que seja expedido o competente alvará de soltura em favor do paciente.
+2.  O Superior Tribunal de Justiça, ao apreciar o HC 139.964/SP, julgou prejudicado a impetração nos termos da decisão monocrática proferida pelo Ministro Jorge Mussi.
+ Colho da mencionada decisão:
+“Das informações prestadas pelo Tribunal de Justiça de São Paulo, verifica-se que, em 3-7-2009, sobreveio a prolação de sentença condenatória em desfavor do paciente nos autos da ação penal em questão, tendo sido condenado à pena de 8 (oito) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão, em regime inicial fechado, e ao pagamento de 21 (vinte e um) dias-multa, pela prática da conduta descrita no art. 157, § 2º, I, II e V, do Código Penal, negado-lhe o direito de apelar solto (fl. 105 e fls. 164-169).
+Assim, diante da prolação de sentença penal condenatória, tem-se que restou superado o sustentado constrangimento ilegal deduzido, pois, havendo condenação, eventual segregação é dela agora decorrente, e não mais da prisão preventiva, ou seja, a custódia agora tem novo fundamento.
+(...).
+Ademais, os argumentos deste novo título embasador da prisão não foram objeto de apreciação pela Corte impetrada, pelo que se torna impossível conhecer do writ, sob pena de indevida supressão de instância, consoante reiteradas decisões deste Superior Tribunal de Justiça.
+Ante o exposto, nos termos dos arts. 38 da Lei nº 8.038/90 e 34, XI e XVIII, do Regimento Interno deste STJ, julga-se prejudicado o presente mandamus” (fls. 38-39).
+3.  Registro, inicialmente, que há obstáculo ao conhecimento deste writ consistente na ausência de julgamento colegiado no âmbito do Superior Tribunal de Justiça, já que o habeas corpus foi impetrado contra decisão monocrática do relator do HC 139.964/SP. Não há notícia nos autos acerca da interposição de agravo regimental, tampouco de seu julgamento, no âmbito do STJ.
+Assim, da mesma forma que se verifica nas hipóteses relacionadas à orientação contida na Súmula 691/STF, não é cabível habeas corpus contra decisão monocrática que nega seguimento ao writ anteriormente impetrado. A relativização da orientação contida na Súmula 691/STF somente se justifica quando houver evidente ilegalidade ou abuso na decisão monocrática proferida, o que não é o caso.
+4.  Ainda que superado tal óbice, o Supremo Tribunal Federal não pode conhecer e julgar pedido de habeas corpus cuja causa de pedir ainda não tenha sido objeto de apreciação pelas Cortes ordinárias e pelo STJ, sob pena de supressão de instância.
+Da leitura da decisão prolatada pelo Ministro Jorge Mussi, no julgamento do HC 139.964/SP, constato que a matéria suscitada neste writ, sequer foi analisada pela instância imediatamente inferior.
+Desse modo, demonstra-se inviável a análise do pedido, neste momento, pelo Supremo Tribunal Federal, sob pena de configurar supressão de instância, em afronta às normas constitucionais de competência.
+5.  Por fim, ressalto que a decisão impugnada pelo presente habeas corpus está em consonância com a jurisprudência desta Suprema Corte, visto que “a superveniência da sentença condenatória prejudica o habeas corpus quando esse tenha por objeto o decreto de prisão preventiva, dado que passa a sentença a constituir novo título para a prisão.” (HC 83.919/SP, Rel. Min. Carlos Velloso, DJ 18.06.2004; HC 86.016/MT, Rel. Min. Joaquim Barbosa, DJ 12.05.2006).
+6.  Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Arquive-se.
+Brasília, 26 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
