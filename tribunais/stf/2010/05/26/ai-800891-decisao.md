@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido manteve decisão, o qual entendeu que, sob a égide da redação original do artigo 29 da Lei nº 8.213/1991, não havia qualquer determinação no sentido de se considerar os melhores salários-de -contribuição, dentro do período limite de 48 meses, para o cálculo do salário-de-benefício.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, II, da mesma Carta.
+O agravo não merece acolhida. Isso porque, o Supremo Tribunal Federal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva o reexame de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). Por oportuno, trago à colação trecho da decisão a qual foi mantida pela Turma Recursal por seus próprios fundamentos:
+“Veja-se, com efeito, que o cerne da controvérsia se situa na redação originária do artigo 29 da Lei nº 8.213/91, que dispunha, verbis:
+O salário-de-benefício consiste na média aritmética simples de todos os últimos salários-de-contribuição dos meses imediatamente anteriores ao do afastamento da atividade ou da data da entrada do requerimento, até o máximo de 36 (trinta e seis), apurados em período não superior a 48 (quarenta e oito) meses.
+Assim, de acordo com a sistemática então vigente, deviam integrar o período básico de cálculo todos os últimos salários-de-contribuição dos meses imediatamente anteriores ao do afastamento da atividade ou da data da entrada do requerimento, até o máximo de 36 (trinta e seis), apurados em período não superior a 48 (quarenta e oito) meses.
+Ora, resta cristalino que, de acordo com a sistemática preconizada no dispositivo legal em tela, para o cálculo do salário-de-benefício, à época, deviam ser tomados os salários-de-contribuição anteriores ao mês do afastamento da atividade ou da data da entrada do requerimento, a começar pelo mais próximo da referida data, em direção ao mais remoto, até que tivessem sido obtidos 36 (trinta e seis) salários-de-contribuição ou que se tivesse retroagido 48 (quarenta e oito) meses, o que primeiro ocorresse, não havendo, pois, qualquer razoabilidade na interpretação que pretende a parte autora atribuir ao texto legal em tela (fl. 109).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 26 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
