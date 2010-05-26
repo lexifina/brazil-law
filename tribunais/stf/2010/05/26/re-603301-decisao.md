@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário contra acórdão que possui a seguinte ementa:
+“MANDADO DE SEGURANÇA – PREVENTIVO - CONSTITUCIONAL – ADMINISTRATIVO – SERVIDOR PÚBLICO – APOSENTADO – MEDIDA PROVISÓRIA Nº 2.048/2000 – OFÍCIO CIRCULAR Nº 31/2000 – REDUÇÃO DOS PROVENTOS – VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA – ILEGALIDADE.
+Mandado de Segurança preventivo impetrado contra ato do Secretário da Delegacia Federal de Agricultura do Rio de Janeiro, materializado no Ofício Circular nº 31/2000, que com base na Medida Provisória nº 2.048/2000;
+Embora não esteja claro que o referido expediente administrativo vá ocasionar a redução remuneratória temida pelo impetrante, o documento de fls. 39/40, revela a possibilidade de impacto financeiro em sua aposentadoria, com inobservância do que determina os artigos 56 e 57 da MP 2.048/2000;
+Os artigos 56 e 57 do referido diploma legal impõem, em se verificando redução nos proventos dos aposentados e pensionistas, em decorrência do novo enquadramento ou reestruturação operados por força da norma de regência, o pagamento de complemento denominado de vantagem pessoal nominalmente identifica (sic);
+A MP nº 2.048/00 não autorizou a redução nos proventos dos inativos, mas assegurou o respeito ao direito adquirido, à estabilidade remuneratória e à irredutibilidade de proventos;
+Afigurando-se presente o direito líquido e certo, deve ser confirmada a sentença que concedeu a segurança preventiva” (fl. 176).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, XXXVI e LIV, da mesma Carta, bem como ao art. 17 do ADCT.
+A pretensão recursal não merece acolhida. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada, à exceção do art. 5º, XXXVI, não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Além disso, o acórdão recorrido decidiu a questão com base na legislação ordinária aplicável à espécie (MP 2.048/2000). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 726.894/RJ e AI 767.114/DF, Rel. Min. Cármen Lúcia; RE 599.717/MS, Rel. Min. Dias Toffoli; RE 487.123-AgR/DF, de minha relatoria.
+Outrossim, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LIV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, com a negativa de seguimento ao recurso especial pelo Superior Tribunal de Justiça (fls. 216-217, com trânsito em julgado certificado à fl. 237), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+Isso posto, nego seguimento ao recurso (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 26 de maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
