@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“ação de indenização por dano material e moral. Inexistência de inépcia, impossibilidade jurídica do pedido e exclusão de cobertura securitária. Agravo retido não provido. Sentença que não é nula, pois nela estão os fundamentos para a formação da convicção judicial. O Código de Defesa do Consumidor prevalece sobre a Convenção de Varsóvia, quanto aos vôos internacionais. Comprovado que existiu má prestação do serviço é de se indenizar os dano material e dano moral. Valores fixados com prudência e critério. Recursos improvidos” (fl. 22).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, V e X, da mesma Carta.
+O agravo não merece acolhida. É que a apreciação dos temas constitucionais, depende da análise de normas infraconstitucionais, no caso, o Código de Defesa do Consumidor - CDC. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, cito o RE 351.750/RJ, Rel. Min. Carlos Britto, cuja ementa segue transcrita:
+“RECURSO EXTRAORDINÁRIO. DANOS MORAIS DECORRENTES DE ATRASO OCORRIDO EM VOO INTERNACIONAL. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. MATÉRIA INFRACONSTITUCIONAL. NÃO CONHECIMENTO. 1. O princípio da defesa do consumidor se aplica a todo o capítulo constitucional da atividade econômica. 2. Afastam-se as normas especiais do Código Brasileiro da Aeronáutica e da Convenção de Varsóvia quando implicarem retrocesso social ou vilipêndio aos direitos assegurados pelo Código de Defesa do Consumidor. 3. Não cabe discutir, na instância extraordinária, sobre a correta aplicação do Código de Defesa do Consumidor ou sobre a incidência, no caso concreto, de específicas normas de consumo veiculadas em legislação especial sobre o transporte aéreo internacional. Ofensa indireta à Constituição de República. 4. Recurso não conhecido”
+Nesse sentido, menciono as seguintes decisões, entre outras: AI 196.379-AgR/RJ, Rel. Min. Marco Aurélio; AI 416.246/RJ, Rel. Min. Carlos Velloso; AI 351.012/RJ, Rel. Min. Néri da Silveira; AI 284.949/RJ, Rel. Min. Nelson Jobim.
+Por fim, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 26 maio de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
