@@ -1,0 +1,14 @@
+1.  Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu pedido de liminar anteriormente aforado perante o Superior Tribunal de Justiça (PET 7.835/GO).
+ Examinando os autos, constato que a paciente foi presa cautelarmente e, posteriormente, denunciada pela prática do crime previsto no art. 157, § 2º, I, II, IV e V, do Código Penal.
+ Contra tal situação, impetrou-se habeas corpus ao Tribunal de Justiça do Estado de Goiás, que denegou a ordem pleiteada. Irresignada, a defesa interpôs a PET 7.835/GO ao Superior Tribunal de Justiça, objetivando a concessão da ordem de habeas corpus em favor da paciente. O pedido de liminar foi indeferido pelo Ministro Felix Fischer.
+ Alega o impetrante, em síntese: a) possibilidade de abrandamento da Súmula 691/STF; b) ausência de fundamentação idônea da decisão que decretou a prisão preventiva; c) inexistência dos pressupostos autorizadores da segregação cautelar; d) violação ao postulado constitucional da não-culpabilidade; e) falta de justa causa; f) necessidade de concessão da liberdade provisória; g) circunstâncias favoráveis à paciente, como primariedade, domicílio fixo e ocupação lícita.
+ Requer a concessão de provimento liminar, para que seja determinada a expedição do respectivo alvará de soltura em favor da paciente (fl. 42).
+2.  A decisão impugnada pelo presente habeas corpus, da lavra do Ministro Felix Fischer, assentou que a “análise dos autos não permite a constatação de indícios suficientes para a configuração do fumus boni iuris, pois a segregação cautelar apresenta em seu bojo fundamentação concreta que não contém nenhuma ilegalidade a ser reconhecida de plano e de imediato” (fl. 128).
+ Conclui ainda que “os argumentos apresentados devem ser considerados em cotejo com os fundamentos da segregação pelo Órgão Colegiado posteriormente” (fl. 128).
+3.  Vale frisar que o rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+4.  Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de supressão de instância.
+5.  Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
+Brasília, 26 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
