@@ -1,0 +1,21 @@
+1.  Trata-se de reclamação, com pedido de medida liminar, proposta por Banco Santander (Brasil) S/A, com fundamento nos arts. 156 e seguintes do RISTF, contra a decisão proferida pelo Colégio Recursal da Comarca de Pirassununga, que julgou prejudicado o agravo de instrumento interposto contra despacho denegatório de recurso extraordinário que se insurge contra acórdão que condenou o reclamante aos pagamentos das diferenças relativas aos expurgos inflacionários do Plano Collor I.
+ Diz o reclamante que o juízo reclamado, ao entender pela prejudicialidade de seu recurso com fundamento nos artigos 543-B, § 2° e § 3°, do Código de Processo Civil e artigo 328-A, § 1° do RISTF, aplicou equivocadamente a decisão proferida nos autos do AI 761.622, rel. Min. Celso de Mello, DJ 13.09.2009, invadindo a competência outorgada a esta Suprema Corte, impossibilitando sua manifestação no recurso interposto.
+Defende a presença dos pressupostos legais para a concessão de medida liminar, razão pela qual requer a suspensão da decisão reclamada e, no mérito, sua cassação.
+2.  Requisitaram-se informações, que foram prestadas pelo Colégio Recursal da 11ª. Circunscrição Judiciária do Juizado Especial Cível da Comarca de Pirassununga/SP.
+3.  Ressalte-se, inicialmente, que a via estreita da reclamação (Constituição, art. 102, I, l) pressupõe o descumprimento de decisão do Supremo Tribunal Federal proferida em controle abstrato de constitucionalidade, a ocorrência de usurpação de sua competência originária ou a desobediência a súmula vinculante. Logo, seu objeto é, e só pode ser, a verificação de uma dessas hipóteses, para se sanar imediatamente o abuso, acaso verificado.
+No presente caso, houve a ocorrência de usurpação da competência desta Suprema Corte, dado que a decisão impugnada obstou o processamento de agravo de instrumento interposto, com fundamento no art. 544 do Código de Processo Civil, de decisão que não admitira recurso extraordinário.
+ Entendeu a decisão impugnada na presente reclamação, com fundamento nos artigos 543-B, § 2° e § 3°, do Código de Processo Civil e artigo 328-A, § 1° do RISTF, que a matéria objeto do agravo de instrumento já foi apreciada por esta Suprema Corte, quando do julgamento do AI 761.622, rel. Min. Celso de Mello, DJ 13.09.2009, de forma a tornar inadmissível o recurso extraordinário interposto.
+Ressalte-se, todavia, que a Lei 10.352/01 atribuiu a seguinte redação ao art. 544, § 2º, do Código de Processo Civil (norma aplicável ao caso em questão):
+“Art. 544. Não admitido o recurso extraordinário ou o recurso especial, caberá agravo de instrumento, no prazo de 10 (dez) dias, para o Supremo Tribunal Federal ou para o Superior Tribunal de Justiça, conforme o caso.
+(...)
+§ 2º A petição de agravo será dirigida à presidência do tribunal de origem, não dependendo do pagamento de custas e despesas postais. O agravado será intimado, de imediato, para no prazo de 10 (dez) dias oferecer resposta, podendo instruí-la com cópias das peças que entender conveniente. Em seguida, subirá o agravo ao tribunal superior, onde será processado na forma regimental.” (Destaquei)
+Assevere-se, finalmente, que não mais subsiste qualquer dúvida quanto ao entendimento acima externado, tendo em vista a superveniente edição da Súmula STF 727, que expressamente dispõe:
+“Não pode o magistrado deixar de encaminhar ao Supremo Tribunal Federal o agravo de instrumento interposto da decisão que não admite recurso extraordinário, ainda que referente a causa instaurada no âmbito dos Juizados Especiais.”
+4.  Ante o exposto, com fundamento nos arts. 17 da Lei 8.038/90; e 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, julgo procedente a presente reclamação para determinar que o Colégio Recursal da 11ª. Circunscrição Judiciária do Juizado Especial Cível da Comarca de Pirassununga/SP cumpra o que dispõe o art. 544, § 2º, do Código de Processo Civil, intimando o agravado para oferecer resposta, e remeta, após, os autos do agravo de instrumento em questão a esta Corte.
+Comunique-se.
+Oportunamente, proceda a Secretaria à juntada desta decisão aos autos do agravo de instrumento em apreço.
+Publique-se.
+Brasília, 26 de maio de 2010.
+(assinado digitalmente)
+Ministra Ellen Gracie
+Relatora
