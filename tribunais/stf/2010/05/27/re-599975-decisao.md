@@ -1,0 +1,12 @@
+DECISÃO: O presente recurso extraordinário revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em estrita conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+Com efeito, a colenda Segunda Turma desta Suprema Corte, ao julgar o RE 525.874/SP, Rel. Min. CEZAR PELUSO, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora recorrente:
+“TRIBUTO. Contribuição para o PIS. Medida Provisória nº 517/94. Fundo Social de Emergência. Matéria estranha à MP. Receita bruta. Conceito Inalterado. Constitucionalidade reconhecida. Recurso provido. A Medida Provisória nº 517/94 não dispõe sobre Fundo Social de Emergência, mas sobre exclusões e deduções na base de cálculo do PIS.”
+Cabe assinalar, por oportuno, no tema ora em exame, ante a inquestionável procedência de suas observações, a seguinte passagem da decisão proferida pela eminente Ministra ELLEN GRACIE (RE 390.749/RJ), ao apreciar questão idêntica à versada nesta sede recursal:
+“A jurisprudência desta Corte possui entendimento consolidado no sentido de que a medida provisória é instrumento idôneo para dispor sobre alterações na contribuição para o PIS como decidido na ADI 1.417/DF, rel. Min. Octavio Galotti. O acórdão recorrido, adotando o mesmo entendimento, concluiu que a MP 517/94 regulava, tão-somente, a contribuição para aquele Programa e não para o Fundo Social de Emergência, não havendo qualquer vedação à sua regulamentação, conclusão a que chegaram o RE 349.920-ED/PE, de minha relatoria, 1ª Turma, unânime, DJ 19.12.2002; AI 450.090-AgR/MG, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJ 16.02.2007; e o RE 433.077/RJ, rel. Min. Cármen Lúcia, DJe 22.9.2009.”
+Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito do Supremo Tribunal Federal, a propósito de questões essencialmente idênticas à que ora se examina nesta sede recursal (RE 438.859/RS, Rel. Min. CÁRMEN LÚCIA – RE 476.098/RJ, Rel. Min. AYRES BRITTO , v.g.).
+O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+Sendo assim, e considerando as razões expostas, conheço do presente recurso extraordinário, para negar-lhe provimento.
+Publique-se.
+Brasília, 27 de maio de 2010.
+Ministro CELSO DE MELLO
+Relator
