@@ -1,0 +1,27 @@
+DECISÃO
+Vistos.
+União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Primeira Turma Recursal dos Juizados Especiais Federais do Estado do Rio de Janeiro, assim fundamentado:
+“RESPONSABILIDADE CIVIL DO ESTADO. ATRIBUIÇÃO DO MESMO NÚMERO DE CADASTRO DE PESSOAS FÍSICAS (CPF) A PESSOAS DIVERSAS. INSCRIÇÃO DO NÚMERO DE CPF DA PARTE AUTORA EM CADASTROS RESTRITIVOS DE CRÉDITO EM VIRTUDE DUPLICIDADE DE REGISTRO. RESPONSABILIDADE OBJETIVA DA UNIÃO FEDERAL. DANOS MORAIS CARACTERIZADOS. INDENIZAÇÃO CORRETAMENTE DIMENSIONADA. RECURSO A QUE SE NEGA PROVIMENTO.
+- Presentes os pressupostos de admissibilidade do recurso.
+- Emissão em duplicidade de CPF, que causou a utilização do mesmo número por pessoas diversas.
+- Sentença que, aplicando o regime da responsabilidade objetiva do Estado, condenou a União a pagar à autora indenização de R$ 2.000,00.
+- Caso em que o erro da Administração Pública gerou prejuízos à autora, cujo número de CPF foi lançado em cadastro restritivo em função da inadimplência de terceiro.
+- A circunstância de a parte autora ter sofrido outras negativações advindas de dívidas por ela própria assumidas não elide a responsabilidade da ré, uma vez que a emissão de CPF em duplicidade, por si só, é causa apta a ensejar dano extrapatrimonial.
+- Correto o dimensionamento do dano moral estipulado na senteça, pois que imprime caráter pedagógico à condenação imposta ao ofensor, e, por outro lado, evita que o fato se traduza em via de enriquecimento indevido para a parte ofendida.
+- Sentença confirmada por seus próprios fundamentos. Honorário, pela ré, no valor de R$400,00” (fl. 82).
+Alega a recorrente violação do artigo 37, § 6º, da Constituição Federal.
+Sem contra-razões (fl. 92), o recurso extraordinário (fls. 85 a 90) foi admitido (fl. 93).
+Decido.
+Anote-se, inicialmente, que a recorrente foi intimada do acórdão recorrido em 21/7/06, conforme expresso na certidão da folha 303, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, haja vista que para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 636 desta Corte. Nesse sentido, anote-se:
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE OBJETIVA DO ESTADO. INSCRIÇÃO INDEVIDA DE CPF NO CADIN. REPARAÇÃO DE DANOS. ART. 37, § 6º, DA CF/88. FATOS E PROVAS. SÚMULA STF 279. 1. Acórdão recorrido fundado no fato de que, ‘não tendo a União logrado comprovar qualquer das hipóteses que ensejam o afastamento de sua responsabilidade - a saber a ocorrência de caso fortuito ou força maior, ou, ainda, a culpa exclusiva da vítima - cabe-lhe responder pelos danos que seus agentes, diretos ou indiretos, nessa condição causaram ao cidadão’. 2. Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 37, § 6º, da Constituição Federal - responsabilidade objetiva do Estado. Precedentes. 3. Inexistência de argumento capaz de infirmar o entendimento adotado pela decisão agravada. 4. Agravo regimental improvido” (RE n 539.401/BA-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 12/6/09).
+“CONSTITUCIONAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279 DO STF. I - A apreciação do recurso extraordinário demanda o exame de matéria de fato, o que atrai a incidência da Súmulas 279 do STF. II - Agravo regimental improvido” (AI nº 634.072/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 22.6.07).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO DANO MORAL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (AI nº 642.351/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 29/6/07).
+“AGRAVO REGIMENTAL. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO. DANO MORAL. REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. 1. A via extraordinária não é adequada para se questionarem as circunstâncias fáticas que ensejaram o afastamento da condenação em danos morais e se fazer processar, como se pretende no presente agravo regimental, reexame de matéria probatória reservada às instâncias ordinárias de mérito. 2. Incidência da Súmula 279 do Supremo Tribunal Federal. 3. Agravo ao qual se nega provimento” (AI nº 565.159/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 16/2/07).
+“Recurso extraordinário: descabimento: questão relativa à indenização por danos morais, que reclama reexame de fatos e provas: incidência da Súmula 279” (RE nº 394.622/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 7/5/04).
+Ressalte-se que o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do RE nº 570.690/RJ, Relator o Ministro Menezes Direito, concluiu pela ausência da repercussão geral da matéria constitucional versada nesse feito.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 28 de maio de 2010.
+Ministro DIAS TOFFOLI
+Relator
