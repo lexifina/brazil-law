@@ -1,0 +1,16 @@
+1.  Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário interposto contra acórdão que, ao manter a sentença, condenou a recorrente a restituir, com correção monetária e juros moratórios, os valores pagos ao recorrido pela construção de rede de eletrificação em imóvel rural, com base nos documentos acostados aos autos e sob o fundamento de que não poderia haver enriquecimento sem causa.
+2.  Nas razões do RE, alega a parte recorrente, preliminarmente, ofensa aos artigos 5º, LV, e 93, IX, da CF. No mérito, sustenta afronta aos artigos 5º, XXXVI, e 175 da Constituição Federal.
+3.  Ressalto que a preliminar levantada pela parte, relativa ao reexame do julgamento proferido em sede de embargos de declaração, para fins de prequestionamento, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade ao disposto nos mencionados artigos 5º, LV, e 93, IX, da CF. Veja-se o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002, o qual assentou em sua ementa:
+“ CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO: ALEGAÇÃO DE OFENSA AO DEVIDO PROCESSO LEGAL E DE QUE O ACÓRDÃO NÃO ESTARIA FUNDAMENTADO. C.F. , arts. 5º, II, XXXV, LIV e LV, e 93, IX.
+I. – Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional.
+II. – Decisão contrária ao interesse da parte não configura negativa de prestação jurisdicional (...)”.
+4.  Quanto à questão de mérito, a alegada afronta à Constituição Federal envolve a análise de legislação infraconstitucional (Decretos 41.019/57 e 98.335/89, Código Civil e CPC), além do reexame de fatos e provas da causa (Súmula 279).
+ Nesse sentido, AI 490.491-AgR/RS, rel. Min. Cezar Peluso, 1ª. Turma, DJ 15.04.2005, assim ementado:
+“1. RECURSO . Extraordinário. Inadmissibilidade. Eletrificação rural. Financiamento. Devolução. Correção monetária. Matéria infraconstitucional. Ofensa constitucional indireta. Agravo regimental não provido. Precedentes. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+2. RECURSO . Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado”.
+5.  Ademais, a jurisprudência deste Supremo Tribunal tem enfatizado que “a verificação, no caso concreto, da ocorrência ou não de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada situa-se no campo infraconstitucional.” (RE 554.008-AgR/MG, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 05.06.2008).
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 28 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
