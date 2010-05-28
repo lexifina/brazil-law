@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão denegatória de recurso extraordinário interposto por ofensa aos arts. 5º, XXXV e LIV, 37, caput, e 93, IX, da Constituição Federal. A Corte de origem asseverou que a alegada violação às normas constitucionais, se existisse, seria reflexa, porquanto precedida da afronta à legislação infraconstitucional (fls. 64-68).
+2.  O presente agravo não merece prosperar. Preliminarmente, verifica-se que as normas constitucionais alegadas como violadas não foram prequestionadas porque não abordadas pelo acórdão recorrido (fls. 41-45), tampouco pelos embargos de declaração que foram opostos (49-51), não sendo satisfeito, assim, o requisito do prequestionamento (Súmulas STF 282 e 356).
+É pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142- AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.09.2001; e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+3.  Ademais, rever a decisão da instância de origem, para concluir de modo diverso, implicaria o reexame de fatos e de provas, o que é vedado em sede extraordinária (Súmula STF 279). Vejam-se, para ilustrar, o RE 558.036- AgR/RJ, rel. Min. Eros Grau, 2ª Turma, DJ 09.05.2008; e o AI 655.792-ED/RJ, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 08.02.2008.
+4.   Ressalte-se, por fim, que, quanto à alegação de ofensa ao art. 5º, XXXV e LIV, e 93, IX, da Carta Magna, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+Nesse sentido: AI 682.065- AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 28 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
