@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+1.  A Turma Recursal de Itajubá negou provimento a pedido formulado em recurso inominado, ante os seguintes fundamentos (folha 103 e 104):
+[...]
+Assim, muito é verdade que a decisão recorrida se baseou na certidão acima indicada, sendo certo que não havia qualquer requerimento para dilação do prazo. Ademais, ainda que o Juiz pudesse acatar as alegações do recorrido para revogar a multa aplicada, não poderia controlar os protocolos realizados de forma integrada e ficar a mercê do tempo para proferir suas decisões.
+No que tange a possibilidade de uma flagrante relação de consumo, na qual se aplicam as normas consumeiristas. Partindo desse ponto, uma vez caracterizada a hipossuficiência técnica do consumidor, há a possibilidade de inversão do ônus da prova, razão pela qual, nas recentes ações de cobrança em que se buscam as diferenças de correção monetária dos intitulados “Plano Bresser” e “Plano Verão”, é possível o juiz determinar que a instituição financeira exiba os extratos bancários de seu cliente, seja em ação cautelar ou de conhecimento.
+Por outro lado, a não apresentação dos extratos bancários dificulta a prestação da tutela jurisdicional, uma vez que o magistrado fica obstado para proferir julgamento. Assim, a fim de assegurar ao consumidor a efetiva prestação jurisdicional buscada e estando respaldado em lei, entendo admissível a fixação de multa para o descumprimento de determinação judicial, que objetiva tão somente a solução do litígio, sem prejuízo às partes, uma vez que os referidos extratos garantem que os valores serão atualizados corretamente.
+[...]
+2.  A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência - a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+Para simples reexame de prova não cabe recurso extraordinário.
+As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+ A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+ Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se guindar a esta Corte matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de processo da competência da Corte.
+3.  Conheço do agravo e o desprovejo.
+4.  Publiquem.
+Brasília, 28 de maio de 2010.
+Ministro MARCO AURÉLIO
+Relator
