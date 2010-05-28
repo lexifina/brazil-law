@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por JOÃO CARLOS PEREIRA FILHO, em favor de ALEXANDRE TADEU DE OLIVEIRA.
+Neste writ, a defesa questiona excesso de prazo no julgamento do HC n. 132.577/SP, de relatoria do Min. Jorge Mussi, do Superior Tribunal de Justiça (STJ).
+Em 12 de abril de 2010, o então relator, Ministro Cezar Peluso, solicitou informações ao Superior Tribunal de Justiça especificamente quanto à alegada ausência de prestação jurisdicional nos autos do Habeas Corpus n. 132.577/SP (fl. 24).
+Em resposta, por intermédio da Petição n. 29.134/2010 (Ofício n. 53/2010 – GMJM – fls. 35-38), o Min. Jorge Mussi, relator do HC mencionado no STJ, prestou as informações solicitadas:
+“Cumpre informar a Vossa Excelência a existência, neste Superior Tribunal de Justiça, do Habeas Corpus n. 132.577/SP, com pedido liminar, impetrado pelo advogado João Carlos Pereira Filho em favor de ALEXANDRE TADEU DE OLIVEIRA, preso temporariamente em 20.8.2005, com preventiva decretada em 14.10.2005, quando do recebimento da denúncia contra ele ofertada pela suposta prática dos crimes insculpidos nos arts. 121, § 2º, inciso III, e 211, ambos por três vezes, na forma do art. 69, todos do Código Penal, em face de acórdão da Quarta Câmara Criminal do Tribunal de Justiça do Estado de São Paulo que, julgando o HC n. 993.08.009616-3 (antigo 1.185.478.3/4-00), denegou a ordem, mantendo sua custódia cautelar (...).
+Inconformado com a decisão colegiada, veio o impetrante perante este Superior Tribunal de Justiça, através do presente writ, no qual sustentou a ocorrência de constrangimento ilegal ante o excesso de prazo no encarceramento prévio do paciente, aduzindo que se encontra preso há quase 4 anos e até o momento ainda não foi submetido a julgamento perante o Tribunal do Júri.
+Alegou que a defesa não contribuiu, em momento algum, para a reclamada delonga na prestação jurisdicional, atribuindo-a, exclusivamente, a atos praticados pelo juízo processante, em atendimento aos requerimentos feitos pelo Ministério Público, consistentes em aditamento à denúncia; expedição de ofício à Ordem dos Advogados do Brasil para indicação de defensor para o paciente; expedição de cartas precatórias para oitiva de testemunhas arroladas pela acusação; e apreciação de 11 (onze) requerimentos ministeriais.
+Infirmou o enunciado da Súmula n. 21 desta Corte, invocado pelo Tribunal de origem ao denegar a ordem pleiteada no anterior writ, aduzindo que o procedimento para apuração dos crimes dolosos contra a vida, embora possua duas fases distintas, integra um único processo, razão pela qual o prazo da prisão cautelar ocorrido na primeira fase – anterior à decisão de pronúncia -, não poderia ser desconsiderado para a verificação da razoável duração do processo.
+Pretendeu, liminarmente, o relaxamento da prisão cautelar do paciente, em razão do alegado excesso de prazo na sua duração, para que permaneça em liberdade até o advento do trânsito em julgado de eventual sentença condenatória, e, no mérito, a confirmação do pleito liminar.
+(...). Indeferida a liminar (fls. 58-59) e os respectivos pedidos de reconsideração (fls. 371 e 378), foram solicitadas informações ao Tribunal indicado como coator, que as prestou às fls. 64-66.
+Instado, o Ministério Público Federal opinou pela concessão do writ (fls. 381-384).
+Em sessão realizada no dia 11.5.2010, esta Quinta Turma houve por bem denegar a ordem, por não vislumbrar constrangimento decorrente do tempo necessário ao transcurso da ação penal, notadamente em face de suas peculiaridades” – (fls. 36-37).
+Passo a decidir.
+Considerando o julgamento do HC n. 132.577/SP pela Quinta Turma do Superior Tribunal de Justiça (DJe 24.5.2010), vislumbra-se a inexistência de constrangimento ilegal apontado pelos impetrantes, porque, no caso em apreço, ocorreu a plena realização da prestação jurisdicional pleiteada pela defesa.
+Nesses termos, julgo prejudicado o pedido formulado neste habeas corpus, por perda superveniente de objeto, nos termos do art. 21, IX, do RI/STF.
+Publique-se.
+Após, arquivem-se estes autos.
+Brasília, 28 de maio de 2010.
+Ministro GILMAR MENDES
+Relator
