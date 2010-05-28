@@ -1,0 +1,2 @@
+Altera dispositivos da Lei nº 4.886, de 9 de dezembro de 1965, que regula as atividades dos representantes comerciais autônomos, para dispor sobre fixação do valor das anuidades, taxas e emolumentos devidos pelos profissionais da categoria e pelas pessoas naturais e jurídicas aos Conselhos Regionais dos Representantes Comerciais em que estão registrados.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
