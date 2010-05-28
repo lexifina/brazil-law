@@ -1,0 +1,21 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+“ CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AQUISIÇÃO DE AÇÕES. LEGITIMIDADE ATIVA . De se reconhecer a legitimidade ativa da parte, ainda que tenha transferido as ações subscritas, de vez que mantém a titularidade do direito de exigir a totalidade da prestação prevista no contrato de participação financeira. Orientação do STJ.
+IMPOSSIBILIDADE JURÍDICA. A impossibilidade jurídica do pedido resta afastada porque possível pedido que vise determinação judicial de entrega de ações, conforme previsto no contrato de participação financeira, para cujo cumprimento existia possibilidade.
+LEGITIMIDADE PASSIVA. Manifesta a legitimidade passiva da ré em face da relação contratual havida com o acionista. CONTRATO DE PARTICIPAÇÃO CELEBRADO SOB A ÉGIDE DA PORTARIA N. 86/91. INCIDÊNCIA. INEXISTÊNCIA DE PREJUÍZO. O ato normativo permite a correção monetária do valor subscrito, impondo-se repelir pretensão à complementação de ações e ressarcimento, por ausência de prejuízo.
+Apelação desprovida” (fl. 50).
+2.  Preliminarmente, a parte recorrente alega ofensa ao art. 5º, LIV, da CF (devido processo legal). No mérito, sustenta afronta aos artigos 5º, caput (princípio da isonomia), II (princípio da legalidade), e 37, § 6º, da CF.
+3.  Ressalto que a preliminar levantada pela parte, relativa ao reexame do julgamento proferido pela Corte de origem, para fins de nulidade, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade à Constituição Federal. Veja-se o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002, o qual assentou em sua ementa:
+“ CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO: ALEGAÇÃO DE OFENSA AO DEVIDO PROCESSO LEGAL E DE QUE O ACÓRDÃO NÃO ESTARIA FUNDAMENTADO. C.F., arts. 5º, II, XXXV, LIV e LV, e 93, IX.
+I. – Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional.
+II. – Decisão contrária ao interesse da parte não configura negativa de prestação jurisdicional (...)”.
+4.      No mérito, o recurso também não merece prosperar. Em primeiro lugar, verifico que o art. 37, § 6º, da CF não se encontra prequestionado porque, embora suscitado na petição dos embargos de declaração (fl. 78), a falta, no traslado, do teor das razões da apelação impede a verificação de suposta omissão do acórdão, não se podendo, assim, constatar a ocorrência do requisito do prequestionamento.
+  Nesse sentido: AI 716.928/SC, rel. Min. Cármen Lúcia, DJe 12.5.2009; AI 683.680-AgR/GO, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 13.2.2009; e AI 495.652-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJ 9.9.2005.
+5.  Quanto aos demais dispositivos que estão prequestionados, a alegada ofensa à Constituição, se houvesse, somente poderia ocorrer de forma reflexa, a depender da prévia análise da legislação infraconstitucional (Portaria 86/91, Leis 4.728/65, 6.385/76 e 6.404/76, e CDC), o que torna incabível o acesso à via extraordinária.
+6.  Ademais, para se concluir de forma diversa do acórdão impugnado, seria necessário o reexame dos fatos e das provas da causa e de cláusulas contratuais, hipótese inviável em sede extraordinária em razão dos óbices previstos nas Súmulas STF 279 e 454.
+ Frise-se que esta Suprema Corte manifestou-se pela inexistência de repercussão geral da matéria no AI 729.263-RG/RS, rel. Min. Cezar Peluso, DJe 16.10.2009, cuja ementa transcrevo:
+“ RECURSO. Extraordinário. Incognoscibilidade. Telefonia. Contrato de participação financeira. Subscrição de ações. Matéria infraconstitucional. Ausência de repercussão geral. Recurso não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto contrato de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários, versa sobre matéria infraconstitucional”.
+7.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 28 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
