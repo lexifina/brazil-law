@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discute a condenação ao pagamento de indenização por danos morais em função da responsabilidade da instituição financeira por valores retirados da conta corrente do ora agravado, sem conhecimento deste.
+ No RE, a parte agravante alega ofensa ao artigo 5º, II e LV, da Constituição Federal (fls. 182-190).
+2.  O recurso não merece prosperar. Primeiramente, quanto à alegação de ofensa ao art. 5º e seus incisos, da Constituição Federal, além de decisão contrária ao interesse das partes não implicar violação aos dispositivos constitucionais indicados, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do contraditório, da ampla defesa e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+ Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+3.  Em segundo lugar, ressalte-se que a decisão agravada fundamentou-se na Sumula STF 279, para negar seguimento ao recurso extraordinário; porém, o agravo de instrumento não se ocupou de rebater o esse argumento, que, por si só, seria suficiente para obstar o trânsito do recurso extraordinário. É o que se nota da leitura das razões do agravo de (fls. 04-10). Assim, por não ter se ocupado de rebater todos os argumentos da decisão agravada, faz-se incidente na espécie a Súmula STF 283.
+ Veja-se, a respeito, o AI 768.814/DF, rel. Min. Cezar Peluso, 2ª Turma, unânime, DJe 27.11.2009, cujo acórdão está assim ementado:
+“ RECURSO . Agravo de instrumento. Inadmissibilidade. Impugnação dos fundamentos da decisão agravada. Ausência. Negativa de seguimento. É ônus do agravante de impugnar os fundamentos da decisão agravada para demonstrar a admissibilidade do recurso.”
+4.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 31 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
