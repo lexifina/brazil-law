@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discute a responsabilidade do plano de saúde pelas despesas resultantes de atendimento de emergência de segurado em período de carência.
+ No RE, sustenta-se ofensa aos artigos 5º, II e XXXVI; 23, II; 199, § 1º, da Constituição Federal.
+2.  O recurso não merece prosperar. Primeiramente, da leitura do acórdão recorrido (fls. 24-31), verifica-se que o Tribunal a quo fundamentou sua decisão nas provas dos autos e no disposto no art. 35-C da Lei 9.656/95; assim, para o exame das violações alegadas, seria necessária a análise da legislação infraconstitucional e o reexame de fatos e provas, hipóteses inviáveis em sede de recurso extraordinário. Incide, na espécie, a Súmula STF 279.
+3.  Em segundo lugar, verifico que os artigos 5º, II e XXXVI; e 199, §2º da CF, dados como contrariados, não se encontram prequestionados porque não mencionados no acórdão recorrido, e, a falta, no traslado, do teor das razões da apelação e dos próprios embargos de declaração opostos, impede a verificação de suposta omissão do acórdão, não se podendo, assim, constatar a ocorrência do prequestionamento (Súmulas STF 282 e 356). Nesse sentido: AI 716.928/SC, rel. Min. Cármen Lúcia, DJe 12.5.2009; AI 683.680-AgR/GO, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 13.2.2009; e AI 495.652-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJ 9.9.2005.
+4.  Ademais, a jurisprudência do Supremo Tribunal Federal é no sentido de que a presente discussão se resolve pela análise de provas e fatos, e reexame das normas infraconstitucionais pertinentes; dessa forma, ofensa ao texto constitucional, se houvesse, seria meramente reflexa ou indireta. Nesse sentido: AI 741.340-AgR/MG, rel. Min. Cármen Lúcia, 1ª Turma, DJe 07.8.2009 e AI 719.594-AgR/SP, rel. Min. Eros Grau, 2ª Turma, DJe 14.5.2010.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 31 de maio de 2010.
+Ministra Ellen Gracie
+Relatora
