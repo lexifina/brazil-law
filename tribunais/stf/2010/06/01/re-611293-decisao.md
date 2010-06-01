@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário contra acórdão que possui a seguinte ementa:
+“CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO CAUTELAR. CONCURSO PÚBLICO PARA O CARGO DE SOLDADO DA POLÍCIA MILITAR DO DF. AVALIAÇÃO PSICOLÓGICA. AUSÊNCIA DE PREVISÃO LEGAL.
+1. Face a liminar deferida pelo colendo Supremo Tribunal Federal, na ADIn nº 1045-0/DF, suspendendo a eficácia do § 1º, do art. 117, da Lei Orgânica do DF, merece acolhimento o pedido cautelar, consistente no prosseguimento nas demais etapas de concurso público para ingresso na carreira de soldado da Polícia Militar do DF, a despeito da não-recomendação na avaliação psicológica.
+2. Apelo conhecido e provido” (fl. 424).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, caput, 37, caput, I e II, e 144, § 6º, da mesma Carta.
+Sustentou-se, ainda, com base na conjugação da Lei do Serviço Militar 4.375/1964 com a Lei 7.289/1984 e com o Decreto 57.654/1966, que há previsão legal expressa acerca da exigência de realização do exame psicológico para o ingresso nos quadros da Polícia Militar do Distrito Federal.
+A pretensão recursal não merece acolhida.
+Quanto aos arts. 5º, caput, e 37, I e II, e 144, § 6º, da Lei Maior, não ocorreu o necessário prequestionamento. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+Além disso, o acórdão recorrido está em consonância com entendimento do Plenário deste Tribunal que, ao julgar a ADI 1.045/DF, Rel. Min. Marco Aurélio, declarou a inconstitucionalidade do § 1º do art. 117 da Lei Orgânica do DF, que exigia a realização de exame psicológico para ingresso nas carreiras de Segurança Pública do DF. O referido acórdão foi assim ementado:
+“COMPETÊNCIA NORMATIVA - POLÍCIA MILITAR E CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL. Cumpre à União organizar e manter a Polícia Militar e o Corpo de Bombeiros Militar do Distrito Federal, surgindo a inconstitucionalidade de diploma local versando a matéria”
+Ademais, a apreciação das alegadas ofensas à Constituição demanda a análise de normas infraconstitucionais aplicáveis à espécie (Leis 4.375/1964 e 7.289/1984 e Decreto 57.654/1966), o que inviabiliza o extraordinário, visto que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, menciono as seguintes decisões, entre outras: RE 577.779/DF e RE 575.839/DF, Rel. Min. Ayres Britto; AI 739.974/DF, Rel. Min. Ellen Gracie; RE 540.900/DF e RE 573.193/DF, Rel. Min. Cezar Peluso.
+É certo, ainda, que a orientação desta Corte é a de que, conforme dispõe a Súmula 686 do STF, “só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público”.
+No caso dos autos, assentada pelo acórdão recorrido a inexistência de previsão legal para a realização do discutido exame psicotécnico, é vedada a sua exigência.
+Por fim, ressalte-se que a previsão de exame psicotécnico apenas em decreto não supre a omissão legal, por não se tratar de lei em sentido formal. Nesse sentido, destaco a ementa do AI 676.675-AgR/DF, Rel. Min. Ellen Gracie:
+“CONSTITUCIONAL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXAME PSICOTÉCNICO. NECESSIDADE DE LEI. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. 1. A exigência do exame psicotécnico, prevista somente por Decreto, não serve como condição para negar o ingresso do servidor na carreira da Polícia Militar, 2. A jurisprudência do Supremo Tribunal Federal está pacificada quanto à necessidade de lei em sentido formal para exigência de exame psicotécnico. 3. Para divergir da conclusão a que chegou o Tribunal a quo, necessário se faria o exame da legislação infraconstitucional 4. Agravo regimental improvido.”
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 1º de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
