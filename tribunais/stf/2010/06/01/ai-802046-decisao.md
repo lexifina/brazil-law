@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto contra acórdão que reconheceu a existência da estabilidade ao empregado público celetista contratado mediante concurso público para prestar serviços à fundação pública. O julgado restou assim ementado:
+“FUNDAÇÃO PÚBLICA. SERVIDOR PÚBLICO CELETISTA. ESTABILIDADE. REINTEGRAÇÃO.
+‘O servidor público celetista da administração direta, autárquica ou fundacional é beneficiário da estabilidade prevista no art. 41 da CF/1988’ – Súmula nº 390, item I, do TST.
+Recurso de revista conhecido e provido” (fl. 65)
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 41, caput, da mesma Carta.
+A pretensão recursal merece acolhida. É que esta Corte possui entendimento no sentido de que a estabilidade prevista no caput do art. 41 da Constituição Federal, na redação anterior à EC 19/98, alcança todos os servidores da administração pública direta e das entidades autárquicas e fundacionais, incluindo os empregados públicos aprovados em concurso público, porém, desde que tenham cumprido o estágio probatório antes do advento da referida emenda, o que não ocorre no presente caso. Nesse sentido menciono o seguinte julgado:
+“1. RECURSO. Agravo de instrumento. Ofensa constitucional. Caracterização. Recurso conhecido. Deve ser conhecido agravo de instrumento quando a questão de fundo é eminentemente constitucional, mas sem que isso implique consistência do recurso extraordinário. 2. RECURSO. Extraordinário. Inadmissibilidade. Ofensa ao art. 41 da Constituição Federal. Inexistência. Empregado público. Aprovação em concurso público e cumprimento do estágio probatório antes da EC 19/98. Estabilidade. Precedentes. Agravo regimental não provido. Faz jus à estabilidade prevista no art. 41 da Constituição Federal, em sua redação original, o empregado público que foi aprovado em concurso público e cumpriu o período de estágio probatório antes do advento da EC nº 19/98.” (grifos meus – AI 510.994-AgR/SP, Rel. Min. Cezar Peluso, Primeira Turma).
+Extrai-se ainda do voto condutor do referido acórdão:
+“É jurisprudência assente que, se o empregado público foi admitido mediante aprovação em concurso público e se cumpriu o prazo de dois anos de estágio probatório, tudo isso antes do advento da EC/98, passou a fazer jus à estabilidade prevista no art. 41 da Constituição, na sua redação original. Neste sentido, confiram-se: RE nº 384.856, Rel. Min. ELLEN GRACIE, DJ de 24.11.2003; AI nº 492.845, Rel. Min. CELSO DE MELLO, DJ de 07.12.2004; AI nº 417.499-AgR, Rel. Min. CARLOS VELLOSO, DJ de 13.04.2005)” (grifos meus).
+No mesmo sentido: AI 232.462-AgR/PE, Rel. Min. Moreira Alves; AI 421.896/RS, Rel. Min. Celso de Mello.
+Isso posto, com base no art. 544, § 3º e § 4º, do CPC, dou provimento ao agravo de instrumento para conhecer do recurso extraordinário e dar-lhe provimento. Honorários a serem fixados pelo Juízo de origem, nos termos da legislação processual.
+Publique-se.
+Brasília, 1º de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
