@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE.
+1.  Eis a síntese da decisão recorrida (folha 248):
+EMBARGOS DECLARATÓRIOS EM AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS EM RECURSO ESPECIAL. PENAL. JULGAMENTO MONOCRÁTICO. JURISPRUDÊNCIA ITERATIVA. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. EMBARGOS ACOLHIDOS PARCIALMENTE.
+1. O STJ é uníssono ao afirmar que diante do que reza o art. 557, § 1º – A, do Código de Processo Civil, alterado pela Lei 9.756/98, é possível que o relator decida monocraticamente recurso especial manifestamente improcedente.
+2. Não é viável nesta Corte o exame de afronta a dispositivos ou princípios constitucionais, ainda que com propósito exclusivo de prequestionamento, sob pena de usurpação da competência constitucional atribuída ao Supremo Tribunal Federal.
+3. Embargos declaratórios acolhidos parcialmente para suprir a omissão, sem, contudo, atribuir-lhes efeitos infringentes.
+O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+2.  Nego seguimento ao extraordinário.
+3.  Publiquem.
+Brasília, 1º de junho de 2010.
+Ministro MARCO AURÉLIO
+Relator
