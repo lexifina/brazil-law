@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil.
+2.  Alega-se, no extraordinário, ofensa ao disposto nos artigos 37, “caput”, X, 40, § 8º, 165, § 8º, 167, I, V, VI e VII, e 169 da CB/88.
+3.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+4.  Para dissentir-se do acórdão recorrido seria necessária a análise da legislação local que disciplina a espécie – lei estadual n. 11.333/96. Incide aqui a Súmula n. 280 do Supremo Tribunal Federal. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário [AI n. 204.153-AgR, DJ de 30.6.00, e AI n. 231.836-AgR, DJ de 3.9.99].
+5.  Nesse sentido o AI n. 566.803-AgR, Relator o Ministro Ayres Britto, DJe de 28.10.09, cuja ementa transcrevo:
+“EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. LEI ESTADUAL Nº 11.333/96. PARCELA VARIÁVEL DE REMUNERAÇÃO - PVR. EXTENSÃO A INATIVOS E PENSIONISTAS. NO CASO, O TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO DECIDIU A CONTROVÉRSIA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. INCIDÊNCIA DA SÚMULA 280 DESTA CORTE. 1. Para se chegar à conclusão pretendida pela parte agravante, no tocante à natureza da Parcela Variável de Remuneração - PRV, faz-se necessário o reexame da legislação infraconstitucional pertinente (Lei estadual nº 11.333/96). Providência vedada na instância extraordinária. 2. Precedentes: AIs 482.563-AgR, da relatoria do ministro Sepúlveda Pertence; 549.482-AgR, da relatoria do ministro Ricardo Lewandowski; 634.043-AgR, da relatoria da ministra Cármen Lúcia; 667.112, da relatoria do ministro Menezes Direito; e 755.222, da relatoria do ministro Marco Aurélio. 3. Agravo regimental desprovido”.
+Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 2 de junho de 2010.
+Ministro Eros Grau
+- Relator -
