@@ -1,0 +1,19 @@
+DECISÃO
+Vistos.
+União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Federal da 4ª Região que concedeu “o índice excedente de aumento de remuneração, na ordem de 28,86%, concedido aos servidores militares, oficiais-generais da União, por força das Leis nº 8.622 e 8.627/93 (...) aos demais servidores militares, em face do artigo 37, inciso X, da Constituição Federal, compensando-se sobre o seu índice os reajustes diferenciados contemplados pelas mesmas Leis” (fl. 152).
+Opostos embargos de declaração (fls. 155 a 164), foram rejeitados (fls. 167 a 171).
+Alega a recorrente violação dos artigos 2º, 5º, caput, 37, incisos X, XI e XV, 39, § 1º, e 61, § 1º, da Constituição Federal.
+Contra-arrazoado (fls. 255 a 261), o recurso extraordinário (fls. 230 a 238) foi admitido (fls. 265).
+O Superior Tribunal de Justiça, em decisão transitada em julgado (fl. 333), negou seguimento ao recurso especial interposto simultaneamente ao extraordinário (fls. 301 a 305)
+Decido.
+Anote-se, inicialmente, que a recorrente foi intimada do acórdão dos embargos de declaração em 8/3/05, conforme expresso na certidão de folha 172, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação.
+A jurisprudência da Corte é no sentido de que assiste aos servidores militares o direito à complementação do reajuste de 28,86%, concedido pelas Leis nºs 8.622/93 e 8.627/93, facultada à Administração Pública a possibilidade de proceder à compensação desse reajuste com os acréscimos decorrentes do reposicionamento resultante dos diplomas legislativos mencionados. Nos termos do que decidido por este Tribunal, a referida reposição tem como termo final a Medida Provisória nº 2.131/2000, que reestruturou o sistema remuneratório dos militares. Sobre o tema, anote-se:
+“Embargos de declaração recebidos como agravo regimental. 2. Reajuste de 28,86%. Extensão aos militares. Compensação dos reajustes já concedidos. Jurisprudência firmada por ambas as Turmas. 3. Limitação temporal. MP no 2.131, de 28 de dezembro de 2000. Precedente. 4. Sucumbência recíproca. Fixação exata. Juízo da Execução. Precedentes. 5. MP no 2.180/01. Norma de natureza processual. Aplicação imediata. Precedente. 6. Agravo regimental a que se nega provimento” (RE nº 395.134/RJ – ED, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 28/11/08).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DISTRITO FEDERAL. SERVIDORES MILITARES. REAJUSTE DE 28,86%. EXTENSÃO. 1. Os servidores militares do Distrito Federal fazem jus ao reajuste de 28,86% concedido pelas Leis ns. 8.662/93 e 8.627/93 aos servidores do Ministério da Previdência Social e estendido a todos os servidores civis por este Tribunal. Este reajuste deve ser compensado com os acréscimos decorrentes do reposicionamento concedido pela Lei n. 8.627/93 a determinadas categorias. Precedentes. 2. A Polícia Militar do Distrito Federal é organizada e mantida pela União, a quem compete, privativamente, legislar sobres sua estrutura administrativa, o regime jurídico e a remuneração de seus servidores. Precedentes. 3. Os vencimentos dos servidores militares são regulados por lei federal, em razão do disposto no artigo 21, XIV, da Constituição do Brasil. Precedentes. Agravo regimental a que se nega provimento” (RE nº 549.031/DF-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 15/8/08).
+O acórdão recorrido não se afastou dessa orientação.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 4 de junho de 2010.
+Ministro DIAS TOFFOLI
+Relator
