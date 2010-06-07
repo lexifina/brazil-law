@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E PREVIDENCIÁRIO. AÇÃO DO SEGURADO PARA RESTABELECIMENTO DE AUXÍLIO-ACIDENTE. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. PRECEDENTES. AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto julgado da Primeira Turma Recursal do Juizado Especial Federal da Seção Judiciária do Rio Grande do Sul, o qual manteve sentença que condenara o Agravante ao restabelecimento do pagamento de auxílio-doença.
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta (fl. 75).
+4. O Agravante alega que teriam sido contrariados os arts. 5º, inc. XXXV, LIV e LV, e 109, inc. I, da Constituição da República.
+Afirma que a prestação jurisdicional não se teria dado de maneira eficiente, porquanto o Juízo de origem não analisara a questão da incompetência da Justiça Federal para julgar a presente controvérsia.
+Sustenta que:
+“Conquanto tenha sido explicitamente questionada a absoluta incompetência do Juízo para o processamento de julgamento da presente demanda, por tratar-se de concessão de benefício de natureza acidentária, restou sem qualquer análise a questão preliminar e incontornável, cujo conhecimento deveria, inclusive, ser realizado de ofício pelo Magistrado, por encontrar-se inserto entre as atividades indeclináveis de zelo na sanação de potenciais irregularidades que empecem a marcha processual. A perícia foi explícita ao afirmar tratar-se de acidente do trabalho, que, para os fins da legislação previdenciária, abarca ainda o conceito de doença acidentária, matéria esta afeta, nos termos do art. 109, I, da Constituição, à esfera de competência da Justiça Estadual” (fl. 68).
+Examinados os elementos havidos nos autos, DECIDO.
+5. Razão de direito assiste ao Agravante.
+6. Inicialmente, cumpre afastar o fundamento da decisão agravada de que a controvérsia demandaria o exame de legislação infraconstitucional, pois a matéria é de natureza constitucional.
+7. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que é competente a Justiça estadual para julgar as ações acidentárias, assim consideradas aquelas ajuizadas por segurado contra o Instituto Nacional do Seguro Social – INSS, para a obtenção do benefício de acidente do trabalho.
+Confiram-se os seguintes julgados:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ACIDENTE DO TRABALHO. AÇÃO ACIDENTÁRIA AJUIZADA CONTRA O INSS. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. INCISO I E § 3O DO ARTIGO 109 DA CONSTITUIÇÃO FEDERAL. SÚMULA 501 DO STF. A teor do § 3o c/c inciso I do artigo 109 da Constituição Republicana, compete à Justiça comum dos Estados apreciar e julgar as ações acidentárias, que são aquelas propostas pelo segurado contra o Instituto Nacional do Seguro Social - INSS, visando ao benefício e aos serviços previdenciários correspondentes ao acidente do trabalho. Incidência da Súmula 501 do STF. Agravo regimental desprovido” (RE 478.472-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJe 1º.6.2007).
+“RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. BENEFÍCIO ACIDENTÁRIO. ART. 109, I DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA. 1. As ações acidentárias têm como foro competente a Justiça comum, a teor do disposto no art. 109, I da Constituição Federal, que as excluiu da competência da Justiça Federal. 2. Reajuste de benefício acidentário. Competência da Justiça estadual não elidida. Recurso extraordinário conhecido e provido” (RE 204.204, Rel. Min. Maurício Corrêa, Segunda Turma, DJ 4.5.2001).
+“Agravo Regimental em Agravo de Instrumento. Previdenciário. Benefício acidentário. Reajustamento. Competência. As ações acidentárias tem como foro competente a Justiça Comum, a teor do disposto no art. 109, I, da CF, que as excluiu da competência da Justiça Federal. Reajuste de beneficio acidentário. Competência da Justiça estadual não elidida. Precedentes. Agravo Regimental a que se nega provimento” (AI 154.938-AgR, Rel. Min. Paulo Brossard, Segunda Turma, DJ 24.6.1994).
+O Juízo de origem não seguiu essa orientação jurisprudencial.
+8. Pelo exposto, dou provimento a este agravo, na forma do art. 544, §§ 3º e 4º, do Código de Processo Civil, e, desde logo, ao recurso extraordinário para cassar todas as decisões proferidas pela Justiça Federal no feito e determinar o deslocamento da competência para a Justiça Estadual, conforme os precedentes do Supremo Tribunal Federal (art. 557, § 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 7 de junho de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
