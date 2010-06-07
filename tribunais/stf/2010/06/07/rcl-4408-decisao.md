@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, ajuizada por Eugênio Ubirajara Curty Monteiro, ex-vereador da Câmara Municipal de Nova Friburgo (RJ), em face de decisão do Juiz da 3ª Vara Cível de Nova Friburgo, nos autos da Ação Civil Pública n.º 2004.037.005199-0.
+Segundo o reclamante, o Juízo ora reclamado não poderia julgá-lo pelo suposto cometimento de atos de improbidade administrativa, pois tais atos referem-se à época em que exercia cargo político.
+Assim, alega que a decisão de primeiro grau que determinou o seguimento do feito naquela instância afrontaria ao que decidido na Reclamação n.º 2138, rel. Min. Nelson Jobim, rel. p/ o acórdão Min. Gilmar Mendes, Pleno, DJ 18.4.2008, em razão da impossibilidade de os agentes políticos responderem por atos de improbidade administrativa nos termos da Lei n.º 8.429/92.
+Em decisão de fls. 87-89, o então relator, Min. Cezar Peluso, indeferiu o pedido de medida liminar, diante da ausência de plausibilidade do pedido, seja pelo fato de a situação descrita não se assemelhar à situação debatida na Rcl n.º 2.138, seja por se tratar de decisão paradigma de processo de índole subjetiva (não vinculante erga omnes).
+Há parecer do Procurador-Geral da República (fls. 129-131) pela negativa de seguimento à presente reclamação, tendo em vista que “a hipótese em apreço não se subsume a nenhum dos pressupostos viabilizadores da utilização da via reclamatória” (fl. 131).
+Decido.
+O reclamante indica a violação da autoridade da decisão proferida na Reclamação n.º 2138, tendo em vista a decisão de primeiro grau que determinou o seguimento de ação por improbidade administrativa por atos exercidos pelo reclamante à época em que fora agente político (ex-vereador).
+Entretanto, é manifestamente incabível a presente reclamação.
+Em primeiro lugar, o reclamante não indica a afronta à decisão desta Corte dotada de efeito vinculante, nem alega usurpação de competência do STF, as quais se configuram como requisitos constitucionalmente exigidos para o cabimento da reclamação (art. 102, I, “l”, da CF/88).
+Além disso, a jurisprudência desta Corte somente admite o cabimento de reclamação por afronta à autoridade de decisão do STF não dotada de eficácia erga omnes quando o reclamado é parte no decisum paradigma invocado, o que também não ocorre no presente caso.
+Nesse sentido, é elucidativo o voto da Min. Cármen Lúcia, em caso semelhante a este (Rcl 6.079-AgR, rel. Min. Cármen Lúcia, Pleno, DJ 9.10.2009):
+1. Razão jurídica não assiste ao agravante
+2. Como assentado na decisão agravada, a Reclamação n. 2.138 não pode ser apontada como paradigma para o ajuizamento de reclamação por desrespeito à autoridade das decisões do Supremo Tribunal.
+A decisão proferida na reclamação mencionada não tem eficácia contra todos nem efeito vinculante, elementos indispensáveis para viabilizar o cabimento de reclamação, conforme reiterada jurisprudência do Supremo Tribunal Federal.
+Nesse sentido, os seguintes julgados:
+“EMENTA: RECLAMAÇÃO. Inadmissibilidade. Seguimento negado. Julgamento da Rcl n.º 2.138. Efeito vinculante. Súmula vinculante sobre a matéria. Inexistência. Precedentes. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente da Corte” (Rcl 5393-AgR, Rel. Min. Cezar Peluso, Plenário, DJe 25.4.2008).
+E:
+“EMENTA: AGRAVO REGIMENTAL EM RECLAMAÇÃO CONTRA DECISÃO QUE NEGOU SEGUIMENTO À AÇÃO. INAPLICABILIDADE DA TEORIA DA TRANSCENDÊNCIA DOS MOTIVOS DETERMINANTES. AUSÊNCIA DE EFICÁCIA VINCULANTE E EFEITOS ERGA OMNES DA DECISÃO PROFERIDA NA AÇÃO-PARADIGMA. DESCABIMENTO DA RECLAMAÇÃO POR ALEGADO DESRESPEITO A OUTRA RECLAMAÇÃO. PRECEDENTES. PROVIMENTO NEGADO” (Rcl 5.389-AgR, de minha relatoria, Primeira Turma, DJ 19.12.2007).
+E ainda: Rcl 4.174-AgR, Rel. Min. Carlos Britto, Primeira Turma, DJe 6.3.2009.
+3. Ademais, cumpre ressaltar que, em caso análogo, o Plenário decidiu o seguinte:
+“EMENTA: PROCESSUAL. ATO DE IMPROBIDADE DE PREFEITO MUNICIPAL. CONFIGURAÇÃO COMO CRIME DE RESPONSABILIDADE. COMPETÊNCIA DO JUIZ MONOCRÁTICO PARA PROCESSAR E JULGAR O FEITO. AUSÊNCIA DE IDENTIDADE MATERIAL COM OS PARADIGMAS INVOCADOS. AGRAVO IMPROVIDO. I - Os paradigmas invocados pelo agravante dizem respeito à estipulação da competência desta Suprema Corte, para processar e julgar os crimes de responsabilidade cometidos por Ministros de Estado. II - O STF tem entendido, nessas hipóteses, que os atos de improbidade administrativa devem ser caracterizados como crime de responsabilidade. III - Na espécie, trata-se de prefeito municipal processado por atos de improbidade administrativa que entende ser de competência originária do Tribunal de Justiça local, e não do juiz monocrático, o processamento e julgamento do feito. IV - Não há identidade material entre o caso sob exame e as decisões invocadas como paradigma. V - Agravo improvido” (Rcl 6.034-MC-AgR, Rel. Min. Ricardo Lewandowski, DJe 29.8.2008).
+Pelo exposto, diante da manifesta inadequação do pleito, nego seguimento à presente reclamação, nos termos do art. 21, §1º, do RISTF.
+Publique-se.
+Brasília, 7 de junho de 2010
+   Ministro GILMAR MENDES
+       Relator
