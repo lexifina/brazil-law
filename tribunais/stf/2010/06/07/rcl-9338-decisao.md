@@ -1,0 +1,8 @@
+DECISÃO: Vistos, etc.
+A Defensoria Pública do Estado de São Paulo ajuíza reclamação, aparelhada com pedido de medida liminar, contra decisão do Tribunal de Justiça do Estado de São Paulo. Decisão que teria aplicado erroneamente a Súmula Vinculante n. 5, devido a que descartou a necessidade de defesa técnica por advogado em procedimento de apuração de falta grave.
+2. O Procurador-Geral da República opinou pelo não conhecimento da reclamação (fls. 76/79).
+3. Este o relatório. Decido. Fazendo-o, averbo, de saída, que não existe identidade entre a Súmula Vinculante n. 5 e o caso dos autos. Consoante o voto do relator do Agravo 990.09.144.509-6, o motivo central da decisão foi a interpretação do inciso I e § 2º do art. 118 da Lei de Execução Penal ( Art. 118 - A execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado: I - praticar fato definido como crime doloso ou falta grave; [...] § 2º - Nas hipóteses do inciso I e do parágrafo anterior, deverá ser ouvido, previamente, o condenado. ”). É que o advogado do sindicado participou de todos os atos do procedimento (fls. 46/47), salvo a oitiva de testemunha. Participação, essa, julgada dispensável em função de reiterada interpretação da LEP pelo TJSP (entendimentos anteriores à SV n° 5). A mera utilização de Súmula Vinculante para fins de analogia ou como reforço argumentativo não suscita alegação de ofensa a seu conteúdo. Pelo que nego seguimento à ação, o que faço com fundamento no § 1º do art. 21 do RI/STF. Prejudicado o pedido de medida liminar.
+Publique-se.
+Brasília, 07 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
