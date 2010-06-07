@@ -1,0 +1,2 @@
+Altera a Lei Complementar nº 64, de 18 de maio de 1990, que estabelece, de acordo com o § 9º do art. 14 da Constituição Federal, casos de inelegibilidade, prazos de cessação e determina outras providências, para incluir hipóteses de inelegibilidade que visam a proteger a probidade administrativa e a moralidade no exercício do mandato.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
