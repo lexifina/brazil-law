@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO: INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Superior do Trabalho:
+“ACÓRDÃO REGIONAL SUBSTITUÍDO POR ACÓRDÃO DO TRIBUNAL SUPERIOR DO TRABALHO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. Este Tribunal, ao não conhecer do recurso de revista no que concerne à matéria ora trazida na ação rescisória — transposição de cargos —, fundamentou-se na inexistência de violação de dispositivo de lei material. Assim, apreciou o respectivo mérito. Incidência da Súmula nº 192, II, desta Corte. Recurso ordinário e remessa necessária a que se nega provimento” (fl. 273).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional (fl. 33).
+4. A Agravante alega que teria sido contrariado o art. 114 da Constituição da República.
+Argumenta que:
+“No caso em questão, tanto o pedido como a causa de pedir não evidenciam a natureza laboral no litígio, na medida em que a causa de pedir formulada é a instituição das Carreiras de Finanças e Controle na qual foram criados os cargos públicos (e não empregos) de Analista e Técnico de Finanças e Controle, bem como o pedido é a transposição para estes cargos. Logo, toda a pretensão deduzida pelos reclamantes (ora réus) dizia respeito a obrigação de natureza tipicamente estatutária (administrativa) na medida em que se buscava a transposição para cargos públicos, evidenciando a violação ao artigo 114 da Constituição Federal” (fl. 328).
+Sustenta, ainda, que “pedidos fundados nos referidos Decretos-Lei [Decretos-Lei n. 2.346/1987 e 2.347/1987], inclusive de provimento para estes cargos públicos, têm natureza administrativa em face do seu claro caráter estatutário, sendo, portanto, competência ratione materiae da Justiça Federal processar e julgar os dissídios individuais envolvendo tais questões” (fl. 329).
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão de direito não assiste à Agravante.
+6. Os argumentos sustentados pela Agravante em seu recurso cingem-se à incompetência da Justiça Trabalhista em razão da natureza jurídico-administrativa da relação entre as partes litigantes.
+O Tribunal a quo, por sua vez, extinguira a ação rescisória, sem julgamento do mérito, por impossibilidade jurídica do pedido, ao entender que o caso seria de sua competência originária conforme o disposto no inc. II da Súmula 192 do Tribunal Superior do Trabalho. Confira-se o seguinte excerto do acórdão:
+“Conforme previsto no inc. II da Súmula nº 192, determina-se a competência originária desta Corte quando se pretende rescindir decisões prolatadas no julgamento de recurso de revista ou de embargos, nas quais, analisando-se arguição de violação de dispositivo de lei material, expendeu-se entendimento em consonância com súmula de direito material ou com jurisprudência da Seção de Dissídios Individuais (Súmula nº 333), porque, nesses casos, embora não tenha havido o conhecimento do recurso, utilizou-se como fundamento a existência de tese de mérito, que originou a súmula ou a jurisprudência dominante. Na hipótese, esta Corte, ao não conhecer do recurso de revista no tocante à matéria alusiva à transposição de cargos, apreciou o mérito, ao aduzir não se caracterizarem as violações apontadas. O acórdão desta Corte, portanto, substituiu aquele do Tribunal Regional” (fl. 278).
+Os temas tratados no acórdão recorrido e no recurso extraordinário são, portanto, distintos. Logo, está deficiente a fundamentação do recurso, o que atrai, na espécie, a Súmula 284 do Supremo Tribunal Federal. Nesse sentido, os seguintes julgados:
+“PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. AGRAVO IMPROVIDO. I - É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido (Súmulas 282 e 356 do STF). II - Recurso extraordinário que não ataca especificamente os fundamentos do acórdão recorrido, o que impede o seu conhecimento, a teor da Súmula 284 do STF. III - Agravo regimental improvido” (RE 477.752-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 31.10.2007).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. O RECURSO NÃO SE INSURGE CONTRA A FUNDAMENTAÇÃO DO ATO JUDICIAL DISSENTIDO. INCIDÊNCIA DA SÚMULA N. 284 DO STF.
+1. As razões do recurso extraordinário estão dissociadas dos fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF. Agravo regimental a que se nega provimento” (RE 455.130-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 6.6.2008).
+“RECURSO. Extraordinário. Inadmissibilidade. Razões destoantes do conteúdo do acórdão recorrido. Aplicação da súmula 284. Agravo regimental não provido. Não se conhece do recurso extraordinário cujas razões sejam destoantes do real conteúdo do aresto recorrido” (RE 561.451-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 23.4.2010).
+Não há, pois, o que prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 7 de junho de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
