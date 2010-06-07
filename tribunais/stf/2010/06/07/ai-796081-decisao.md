@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. APOSENTADORIA POR INVALIDEZ. AÇÃO ACIDENTÁRIA. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. INCIDÊNCIA DA SÚMULA 501 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alíneas a e b, da Constituição da República.
+2. O recurso inadmitido tem como objeto julgado da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio Grande do Sul que manteve a sentença por seus próprios fundamentos.
+A sentença tem o teor seguinte:
+“No caso em tela, o laudo pericial produzido durante a instrução processual confirma as alegações declinadas na inicial no que diz respeito à existência da incapacidade total e temporária para o exercício de atividades que garantam a subsistência da parte autora, decorrente de sinovite e tenossinovite não especificadas. (CID 10 M 65.9)” (fl. 42).
+No julgamento dos embargos de declaração opostos pelo Instituto Nacional do Seguro Social – INSS, o Juiz Federal esclareceu que:
+“Quanto à preliminar de incompetência absoluta, assiste razão à parte embargante. Realmente houve omissão deste Juízo no tocante a análise dessa preliminar. Assim, a sentença merece correção quanto a esse ponto fazendo constar: Preliminar de Incompetência absoluta. Em relação à preliminar de incompetência absoluta arguida pela autarquia previdenciária, em decorrência da natureza acidentária do benefício, entendo que deve ser afastada, pois o benefício requerido pela parte autora na esfera administrativa e indeferido pelo INSS foi de auxílio-doença, espécie 31, conforme se verifica pelo documento anexado a inicial (OUT2 – evento n. 01). Logo, competente o Juízo para apreciação do pedido” (fl. 56).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fl. 79).
+4. O Agravante afirma que a Turma Recursal teria contrariado os arts. 5º, inc. XXXVI, LIV e LV, e 109, inc. I, da Constituição da República.
+Argumenta que “o objeto da presente insurgência extraordinária diz respeito à absoluta incompetência da Justiça Federal para a concessão de benefício de natureza acidentária, nos termos do art. 109, inciso I, da Constituição da República” (fl. 71).
+Sustenta que “o acórdão [contrariou] diretamente o regime de distribuição constitucional de jurisdição entre os vários segmentos do Poder Judiciário, e invadiu a esfera de competência exclusiva [da] Justiça Ordinária Estadual, concedendo benefício acidentário, em patente violação ao disposto no art. 109, I, da CF/88” (fl. 72).
+Assevera que “a perícia foi explícita ao afirmar tratar-se de acidente do trabalho, que, para os fins da legislação previdenciária, abarca ainda o conceito de doença acidentária, matéria esta afeta, nos termos do art. 109, I, da Constituição, à esfera de competência da Justiça estadual” (fl. 75).
+Examinados os elementos havidos nos autos, DECIDO.
+5. Inicialmente, cumpre afastar o fundamento da decisão agravada de que a controvérsia demandaria o exame de legislação infraconstitucional, pois a matéria é de natureza constitucional.
+6. Razão jurídica assiste ao Agravante.
+7. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que, “a teor do § 3º c/c inciso I do artigo 109 da Constituição Republicana, compete à Justiça comum dos Estados apreciar e julgar as ações acidentárias, que são aquelas propostas pelo segurado contra o Instituto Nacional do Seguro Social - INSS, visando ao benefício e aos serviços previdenciários correspondentes ao acidente do trabalho. Incidência da Súmula 501 do STF” (RE 478.472-AgR, Rel. Min. Carlos Britto, Primeira Turma, DJE 1º.6.2007).
+E:
+“RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. BENEFÍCIO ACIDENTÁRIO. ART. 109, I DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA. 1. As ações acidentárias têm como foro competente a Justiça comum, a teor do disposto no art. 109, I da Constituição Federal, que as excluiu da competência da Justiça Federal. 2. Reajuste de benefício acidentário. Competência da Justiça estadual não elidida. Recurso extraordinário conhecido e provido” (RE 204.204, Rel. Min. Maurício Corrêa, Segunda Turma, DJ 4.5.2001).
+E ainda:
+“Competência. Reajuste de benefício oriundo de acidente de trabalho. Justiça comum. - Ao julgar o RE 176.532, o Plenário desta Corte reafirmou o entendimento de ambas as Turmas (assim, no RE 169.632, 1ª Turma, e no AGRAG 154.938, 2ª Turma) no sentido de que a competência para julgar causa relativa a reajuste de benefício oriundo de acidente de trabalho é da Justiça Comum, porquanto, se essa Justiça é competente para julgar as causas de acidente de trabalho por força do disposto na parte final do inciso I do artigo 109 da Constituição, será ela igualmente competente para julgar o pedido de reajuste desse benefício que é objeto de causa que não deixa de ser relativa a acidente dessa natureza, até porque o acessório segue a sorte do principal. Dessa orientação divergiu o acórdão recorrido. Recurso extraordinário conhecido e provido” (RE 351.528, Rel. Min. Moreira Alves, Primeira Turma, DJ 31.10.2002).
+8. Dessa orientação jurisprudencial divergiu o acórdão recorrido.
+9. Pelo exposto, dou provimento a este agravo, na forma do art. 544, §§ 3º e 4º, do Código de Processo Civil, e, desde logo, ao recurso extraordinário, nos termos do art. 557, § 1º-A, do mesmo diploma legal, para declarar a competência da Justiça comum estadual para processar e julgar a causa.
+Publique-se.
+Brasília, 7 de junho de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
