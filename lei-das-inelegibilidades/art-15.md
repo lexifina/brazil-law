@@ -1,1 +1,2 @@
-Art. 15. Transitada em julgado a decisão que declarar a inelegibilidade do candidato, ser-lhe-á negado registro, ou cancelado, se já tiver sido feito, ou declarado nulo o diploma, se já expedido.
+Art. 15. Transitada em julgado ou publicada a decisão proferida por órgão colegiado que declarar a inelegibilidade do candidato, ser-lhe-á negado registro, ou cancelado, se já tiver sido feito, ou declarado nulo o diploma, se já expedido.
+Parágrafo único. A decisão a que se refere o caput, independentemente da apresentação de recurso, deverá ser comunicada, de imediato, ao Ministério Público Eleitoral e ao órgão da Justiça Eleitoral competente para o registro de candidatura e expedição de diploma do réu.
