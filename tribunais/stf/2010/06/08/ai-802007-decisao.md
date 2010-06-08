@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido contém a seguinte ementa, no que importa:
+“2. Não se aplica à GDASST a exclusão do período de 01/06/2002 a 30/04/2004, considerando que, diferentemente da GDATA, nunca houve a edição de norma que estabelecesse os critérios gerais a serem observados para a realização das avaliações de desempenho institucional e coletivo e de atribuição da GDASST, conforme previsto no art. 6º. da Lei 10.483/2002. Na ausência de norma regulamentar, a GDASST transformou-se numa gratificação de natureza genérica, extensível, portanto, aos servidores inativos, desde o momento em que os servidores ativos passaram a recebê-la sem a necessidade de avaliação de desempenho. (RE-572052,STF).
+(...)” (fl. 110).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, 37, caput, 40, § 8º, 61, § 1º, II, a, e 169, § 1º, da mesma Carta, ao argumento de que não estabeleceu o
+“Excelso Tribunal, no julgamento do RE 572.052, ser devida a pontuação de 40 pontos do período de vigência da Lei nº 10.483/2002 até 30/04/2004, do que decorre a inaplicabilidade integral da Questão de Ordem no RE nº 597.154 a impossibilitar o julgamento do presente Recurso Extraordinário” (fl. 120).
+O agravo não merece acolhida. Isso porque, o Supremo Tribunal Federal, ao julgar o RE 597.154-QO/PB, Rel. Min. Gilmar Mendes, decidiu que a matéria versada neste processo, alusiva à concessão, aos inativos, da Gratificação de Desempenho da Atividade da Seguridade Social e do Trabalho – GDASST obedecerá a critérios aplicáveis aos servidores ativos. Confira-se :
+“EMENTA: 1. Questão de ordem. Repercussão Geral. Recurso Extraordinário. 2. GDATA e GDASST. 3. Servidores inativos. Critérios de cálculo. Aplicação aos servidores inativos dos critérios estabelecidos aos ativos, de acordo com a sucessão de leis de regência. 4. Jurisprudência pacificada na Corte. 5. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do tribunal, desprover o recurso, autorizar a devolução aos tribunais de origem dos recursos extraordinários e agravos de instrumento que versem sobre o mesmo tema e autorizar as instâncias de origem à adoção dos procedimentos do art. 543-B, § 3º, do Código de Processo Civil”.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 8   de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
