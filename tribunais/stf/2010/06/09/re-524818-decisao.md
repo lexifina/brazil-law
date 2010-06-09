@@ -1,0 +1,27 @@
+DECISÃO
+Vistos.
+União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“ADMINISTRATIVO – ATENDENTE JUDICIÁRIO DO TRIBUNAL REGIONAL DO TRABALHO DA 12ª REGIÃO – ENQUADRAMENTO NO NÍVEL AUXILIAR DAS TABELAS DA LEI 7.923/89 – PRETENSÃO AO REENQUADRAMENTO NO NÍVEL INTERMEDIÁRIO, EM IGUALDADE DE CONDIÇÃO COM OCUPANTES DE CARGOS IDÊNTICOS DE OUTROS TRIBUNAIS – CABIMENTO – APLICAÇÃO DO PAR. 4º. DO ART. 41 DA LEI 8.112/90.
+1. O art. 41, § 4º, da Lei nº 8.112/90 assegurou a isonomia de vencimentos para cargos de atribuições iguais ou assemelhadas do mesmo Poder, ou entre servidores dos três poderes, ressalvadas as vantagens de caráter individual e as relativas à natureza ou ao local do trabalho.
+2. Sendo iguais as funções exercidas pelos atendentes judiciários em todos os tribunais, sua desigual remuneração viola o princípio da isonomia, consagrado genericamente pelo art. 5º da Constituição especificamente, no tocante à remuneração dos servidores públicos, em seu art. 39, parágrafo primeiro (redação original), e positivado, ainda, pelo art. 41, parágrafo quarto, da Lei nº 8.112/90.
+3. A equiparação, pela via judicial, não conflita com o enunciado da Súmula nº 339 do Egrégio Supremo Tribunal Federal, porque, no caso concreto, o juiz não estará criando, e sim aplicando a lei que ordena o igual tratamento a todos os servidores que tenham as mesmas atribuições, ocupando cargos de idêntica denominação.
+4. Remessa oficial desprovida” (fl. 238).
+Sustenta a recorrente violação dos artigos 2º, 37, caput, 39, § 1º, e 61, § 1º, inciso II, da Constituição Federal.
+Contra-arrazoado (fls. 264 a 268), o recurso extraordinário (fls. 248 a 254) foi admitido (fls. 277/278).
+O Superior Tribunal de Justiça, em acórdão transitado em julgado (fl. 299), negou provimento ao recurso especial interposto paralelamente ao extraordinário (fls. 292 a 296).
+Decido.
+Anote-se, inicialmente, que a recorrente foi intimado do acórdão recorrido em 28/2/01, conforme expresso na certidão de folha 241, não sendo exigível demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+No que se refere aos artigos 37, caput, e 61, § 1º, inciso II, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte.
+Ademais, colhe-se do voto condutor:
+“Como é fácil de perceber, a lide teve origem na decisão do TRF/12ª Região de não exigir dos candidatos, no concurso público no qual foi aprovado o autor, escolaridade de 2º Grau para os cargos de Atendente Judiciário. Isso gerou tratamento anti-isonômico de que se queixa o autor, e com razão, pois servidores de outros tribunais, inclusive do Egrégio Tribunal Superior do Trabalho, exercendo as mesmas funções, encontram-se desde o início posicionados no nível intermediário. Por sua vez, o nível intermediário, de conformidade com a Lei n] 7.923/89, aplicável ao Judiciário por a Lei nº 7.923/89, aplicável ao Judiciário por força da Lei 7.961/89, tem como pressuposto a escolaridade de segundo grau.
+(...) Pela estrita legalidade , não poderia o autor ser alcançado a cargo para o qual a lei exige formação escolar de segundo grau; pelo princípio da isonomia, inscrito genericamente entre os direitos e garantias individuais elencados pela Constituição de 1988 (art. 5º, I) e reiterado, no tocante aos servidores públicos, pelo seu art. 39, parágrafo primeiro direito à 'isonomia de vencimento para cargos de atribuições iguais ou assemelhados do mesmo Poder ou entre servidores dos Poderes Executivo, Legislativo e Judiciário', não poderia o autor ter tratamento mais gravoso que aquele dispensado a seus colegas, dentro do mesmo Poder.
+....................................................................................................................................
+Com efeito, essa solução não implica em violar o princípio da legalidade, pois há norma legal positivado – o art. 41, § 4º, da Lei 8.112/90 – aliás posterior àquela da Lei 7.923/89, a impor a isonomia, não mais como princípio, e sim como direito objetivado” (fls. 236/237).
+Como se precebe, o Tribunal Regional Federal da 4ª Região decidiu a controvérsia com fundamento no exame da legislação infraconstitucional pertinente, bem assim na análise das provas constantes dos autos. Destarte, eventual ofensa a Constituição, se ocorresse, seria indireta ou reflexa, o que não enseja a interposição do recurso extraordinário. Incidência das Súmulas 279 e 280.
+Nesse sentido, em situações análogas à dos autos, anote-se: RE nº 382.695/SC, de minha relatoria, DJ de 5/2/10, RE nº 501.055, Relatora a Ministra Cármen Lúcia, DJ de 22/10/08; RE nº 394.774, Relator o Ministro Marco Aurélio, DJ de 25/6/08; RE nº 366.000, Relator o Ministro Sepúlveda Pertence, DJ de 16/6/08; RE nº 372.025, Relator o Ministro Carlos Britto, DJ de 10/11/04.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 9 de junho de 2010.
+Ministro DIAS TOFFOLI
+Relator
