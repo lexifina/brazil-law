@@ -1,0 +1,26 @@
+1.  Trata-se de reclamação, com pedido de medida liminar, ajuizada por HSBC Bank Brasil S/A – Banco Múltiplo, com fundamento nos arts. 102, I, l, e 103-A, § 3º, da Constituição Federal; 13 a 18 da Lei 8.038/1990; e 156 a 162 do RISTF, contra atos praticados nos autos do processo n. 752008.02006586 pelo Juizado Especial Cível da Comarca de Lapa/PR, “que negou seguimento ao Recurso Inominado do ora Reclamante, por julgar cabível, na hipótese, o recurso de Agravo de Instrumento, contrariando decisão proferida por este Supremo Tribunal Federal”.
+Diz o HSBC que “julgada procedente a demanda em primeiro grau, com decisão mantida pela Turma Recursal, teve início a fase de cumprimento de sentença”.
+Narra que houve após o não acolhimento de sua impugnação pelo juízo singular, interpôs Recurso Inominado, por entender ser este “o único recurso cabível em sede de Juizado Especial”. Não obstante, este não foi recebido, ao entendimento de que o recurso cabível seria “o Agravo de Instrumento por se tratar de decisão que decidiu a execução”.
+ Aduz que o não conhecimento de seus embargos de declaração, importou na interposição da presente reclamação por afrontar entendimento consubstanciado no acórdão proferido nos autos do RE 576.847, rel. Min. Eros Grau, Dje 06.08.2009.
+Pretende, em síntese, a anulação da decisão proferida pelo Juizado Especial Cível e, dessa forma, seja recebido seu “Recurso Inominado anteriormente interposto, em razão de ser, na hipótese, a única maneira de se dar cumprimento ao duplo grau de jurisdição”.
+Requer, ao final, seja a presente reclamação conhecida e, no mérito, provida para o fim de anular a decisão que não conheceu de seu Recurso Inominado.
+2.  A via estreita da reclamação (Constituição, art. 102, I, l) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, a desobediência a súmula vinculante ou o descumprimento de decisão desta Corte proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que neste último caso cuide-se da mesma relação jurídica em apreço na reclamação e das mesmas partes.
+Logo, seu objeto é e só pode ser a verificação de uma dessas estritas hipóteses, razão pela qual considero necessário o máximo rigor na verificação dos pressupostos específicos da reclamação constitucional, sob pena de seu desvirtuamento.
+3.  Observe-se, de início, que não houve usurpação de competência do Supremo Tribunal Federal, porquanto o Juizado Especial Cível da Comarca de Lapa/PR agiu dentro dos limites de sua competência. Cuida-se, na espécie, de execução de sentença proferida nos autos da Ação de Cobrança relacionada aos expurgos inflacionários dos Planos Bresser e Collor.
+4.  Destaque-se também que o presente caso não se subsume a súmula vinculante alguma (art. 103-A, § 3º, da Constituição Federal).
+5.  A alegação de afronta à jurisprudência do Supremo Tribunal Federal, firmada em controle difuso de constitucionalidade no julgamento do Recurso Extraordinário 576.847, rel. Min. Eros Grau, DJe 06.08.2009, também não merece prosperar.
+É que a decisão proferida nesse julgado não possui efeito vinculante e eficácia erga omnes, sendo certo que o HSBC Bank Brasil S/A – Banco Múltiplo e João Eugênio Coture não figuraram como partes nos referidos processos.
+O Plenário desta Suprema Corte, ao julgar a Reclamação 3.197/SP, rel. Min. Joaquim Barbosa, decidiu:
+“(...)
+Não se conhece de reclamação fundada em precedentes sem eficácia geral e vinculante, de cuja relação processual a reclamante e a interessada não fizeram parte.
+(...)” (DJ 20.4.2007).
+No mesmo sentido é a iterativa jurisprudência desta Corte (Reclamações 447/PE, rel. Min. Sydney Sanches, Plenário, DJ 31.3.1995; 4.295/MG, rel. Min. Ayres Britto, DJ 02.5.2006 ; 4.299/SP, rel. Min. Ricardo Lewandowski, DJ 10.5.2006 ; 4.397/CE, rel. Min. Sepúlveda Pertence, DJ 12.6.2006 ; 4.345/SP, rel. Min. Cezar Peluso, DJ 22.5.2006 ; 4.498/SP, de que fui relatora, DJ 02.8.2006; 7.555/PR, rel. Min. Gilmar Mendes, DJe 05.02.2009; 3.138/CE, rel. Min. Joaquim Barbosa, DJe 17.3.2009; 8.462-AgR/PA, rel. Min. Celso de Mello, DJe 13.11.2009; e 5.735-AgR/TO, rel. Min. Eros Grau, DJe 11.12.2009).
+Ressalte-se ainda que o Plenário do Supremo Tribunal Federal, recentemente, em 08.4.2010, ratificou esse entendimento, ao julgar a Reclamação 6.078-AgR/SC, rel. Min. Joaquim Barbosa.
+6.  Assim, pelo que constatei dos autos, nenhuma das circunstâncias autorizadoras da reclamação aqui se configura.
+7.  Verifica-se, por fim, que o pedido deduzido pela reclamante tem nítido caráter recursal infringente e por essa razão não merece acolhida porque a reclamação não pode ser utilizada como sucedâneo de recursos ou ações cabíveis, conforme reiterada jurisprudência do Supremo Tribunal Federal (Reclamações 603/RJ, rel. Min. Carlos Velloso, Plenário, DJ 12.02.1999; 968/DF, rel. Min. Marco Aurélio, Plenário, DJ 29.6.2001; 2.933-MC/MA, rel. Min. Joaquim Barbosa, DJ 14.3.2005; 2.959/PA, rel. Min. Ayres Britto, DJ 09.02.2005).
+8.  Ante o exposto, com fundamento nos arts. 38 da Lei 8.038/90 e 21, § 1º, do RISTF, nego seguimento à presente reclamação, ficando prejudicada a apreciação do pedido de medida liminar.
+Publique-se.
+Brasília, 10 de junho de 2010.
+(assinado digitalmente)
+Ministra Ellen Gracie
+Relatora
