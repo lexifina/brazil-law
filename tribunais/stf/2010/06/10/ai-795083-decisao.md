@@ -1,0 +1,26 @@
+DECIS ÃO
+Vistos.
+Estado da Bahia interpõe agravo de instrumento almejando destrancar recurso extraordinário contra acórdão da Câmara Especializada do Tribunal de Justiça daquela unidade da Federação, assim ementado:
+“TRIBUTÁRIO. AÇÃO DECLARATÓRIA. E AÇÃO CAUTELAR. ICMS. EMPRESA DE FOTOGRAFIAS E CINEMATOGRAFIAS, REVELAÇÕES E AMPLIAÇÕES, CÓPIAS, REPRODUÇÃO E TRUNCAGEM. DIFERENÇA ENTRE ALÍQUOTA INTERESTADUAL E A INTERNA DEVIDA AO ESTADO DESTINATÁRIO. COBRANÇA INADMISSÍVEL. INTELIGÊNCIA DO ART. 155, §2º, VII E VIII DA CF. APELÇÃO. PRESENÇA DE PRESSUPOSTO DE ADMISSIBILIDADE. IRRESIGNAÇÃO IMOTIVADA. RECURSO IMPROVIDO.
+A presença dos pressupostos de admissibilidade do recurso impõe seu conhecimento.
+Não é devido o pagamento da diferença de alíquotas de ICMS sobre operações interestaduais efetuadas por empresa que adquire mercadorias para utilizar como insumos na sua atividade principal de serviço de fotografias e cinematografias sujeitas exclusivamente à incidência de ISS” (fl. 492).
+Opostos embargos de declaração (fls. 499 a 505), foram rejeitados (fls. 510/511).
+No extraordinário, pela alínea “a” do permissivo constitucional, o recorrente aponta contrariedade ao artigo 155, §2º, incisos VII, alínea “a”, e VIII, da Constituição Federal.
+Neste intento, sustenta que “nos termos da legalização do Estado da Bahia, a Autora/Recorrida é contribuinte do ICMS. Assim sendo, deve cumprir as obrigações acessórias e recolher a este Estado imposto correspondente à diferença entre a alíquota interna e a interestadual – CR, art. 155, VIII” (fl. 544).
+Por fim, acresce que “ a tese adotada pelo MM Juízo a quo colide ainda com o disposto no art. 21, inciso XII, do Convênio ICM/66, no art. 10, incisos X e XII da Lei 4.825/89 e no art. 8º, inciso V, do RICMS/BA, aprovado pelo Decreto 2.460/89” (fl. 545).
+Decido.
+Preliminarmente, destaco que o acórdão dos embargos de declaração foi publicado em 25/6/03, conforme expresso em certidão do verso da folha 511, não sendo, portanto, exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+O recurso não merece êxito.
+No caso, o acórdão recorrido dirimiu a controvérsia na esteira da jurisprudência deste Supremo Tribunal Federal sobre o tema, orientada no sentido da impossibilidade da exigência de complementação da diferença entre alíquotas de ICMS, quando empresa não contribuinte desta exação adquire, em outro Estado, insumo destinado a seu processo produtivo. Sobre este aspecto, destaco:
+“Agravo regimental em recurso extraordinário 2. Empresa contribuinte do ISS. Alíquota diferenciada. ICMS. Cobrança de diferença. Impossibilidade. Precedentes. 3. Agravo regimental a que se nega provimento” (RE nº 444.885/SE-AgR, Segunda Turma, Relator Ministro Gilmar Mendes, DJ de 26/5/06)
+Com efeito, para acolher a pretensão insurgente e ultrapassar o entendimento formulado pelo Tribunal a quo, seria necessário o reexame de regência tributária local, tanto relativa ao ICMS e como ao ISSQN, a fim de acertar de qual destas exações a recorrida é contribuinte.
+Destarte, além dos óbices consubstanciados nas Súmula 279 e 280 desta Suprema Corte, constata-se, na espécie, que a alegada violação dos dispositivos suscitados, quando muito, retrata hipótese de mera ofensa indireta ou reflexa à Constituição Federal, o que também não enseja recurso extraordinário. A propósito, confiram-se os seguintes julgados:
+“AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. ISS. ESTADO DE SÃO PAULO. FILMES E VIDEOTEIPES. LISTA DE SERVIÇOS ANEXA AO DECRETO-LEI Nº 406/68. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. É pacífica a jurisprudência desta Casa de Justiça, no sentido de que a presente controvérsia se restringe ao âmbito infraconstitucional. Logo, eventual ofensa ao Magno Texto ocorreria apenas de modo indireto ou reflexo. Precedente: RE 179.689-AgR, Relator o Ministro Sepúlveda Pertence Agravo regimental a que se nega provimento” (RE 448.080/SP-AgR, Primeira Turma, Relator o Ministro Carlos Britto, DJ de 30/6/06).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA - ISSQN. 1. COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS DO DECRETO-LEI N. 406/68 PARA OBTENÇÃO DO BENEFÍCIO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 2. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 600.099/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 4/6/10).
+“TRIBUTÁRIO. ISS. DECRETO-LEI 406/68. LC 56/87 MATÉRIA INFRACONSTITUCIONAL. 1. A apreciação da controvérsia presente nos autos demandaria o prévio exame da legislação infraconstitucional (Decreto-lei 406/68 e LC 56/87). Eventual ofensa à Constituição Federal seria meramente reflexa. Precedentes. 2. Agravo regimental improvido” (AI nº 591648/SP-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 9/4/10).
+Por todo o exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 10 de junho de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
