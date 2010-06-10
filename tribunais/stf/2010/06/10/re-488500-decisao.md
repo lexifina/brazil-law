@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+O ESTADO DO RIO GRANDE DO SUL interpõe recurso extraordinário (folhas 176 a 187) contra acórdão proferido pela Quarta Câmara Cível do Tribunal de Justiça daquele Estado, assim ementado:
+“SERVIDOR PÚBLICO FAZENDÁRIO – LICENÇA PARA CONCORRER A CARGO ELETIVO.
+O servidor público fazendário tem o mesmo direito do funcionário público em geral, quando concorre a cargo eletivo e se afasta de suas funções, devendo receber a remuneração que lhe seria devida se estivesse em atividade.
+APELO PROVIDO (folha 152).
+Insurge-se, no apelo extremo, fundado na alínea “a” do permissivo constitucional, contra alegada contrariedade ao artigo 5º, caput e inciso II e 37, caput, da Constituição Federal, em razão de ter sido reconhecido o direito do recorrido em receber normalmente seus proventos de funcionário público, no período em que esteve afastada das funções, por estar concorrendo a cargo eletivo.
+Depois de apresentadas contrarrazões (folhas 199 a 207), o recurso foi admitido, na origem (folhas 214 a 215), o que ensejou a subida dos autos a esta Corte.
+O recurso especial paralelamente interposto já foi definitivamente rejeitado pelo Superior Tribunal de Justiça (folhas 249 a 252).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 5/2/99, conforme expresso na certidão de folha 163, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada, da prestação jurisdicional, e mesmo da isonomia, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+E, de fato, a decisão recorrida tomou por fundamento dispositivos da Lei Complementar nº 64/90, bem como da Resolução TSE nº 18.019, normas essas que foram devidamente mencionadas pelo recorrente, em suas razões de recurso, o que vem a demonstrar que, realmente, passa pela análise da legislação infraconstitucional, a apreciação da irresignação em tela, o que não se mostra viável, no âmbito de um apelo extremo, como o presente.
+Tem-se, portanto, que no caso ora em análise, a alegada violação ao princípio da legalidade, por ensejar o necessário cotejo com normas infraconstitucionais utilizadas na fundamentação da decisão recorrida, circunstância essa, ademais, que encontra óbice no disposto na Súmula 636, desta Corte, que assim dispõe, in verbis:
+“NÃO CABE RECURSO EXTRAORDINÁRIO POR CONTRARIEDADE AO PRINCÍPIO CONSTITUCIONAL DA LEGALIDADE, QUANDO A SUA VERIFICAÇÃO PRESSUPONHA REVER A INTERPRETAÇÃO DADA A NORMAS INFRACONSTITUCIONAIS PELA DECISÃO RECORRIDA” (DJ de 9/10/03).
+Trata-se de posicionamento francamente adotado por este Supremo Tribunal Federal, do qual, para ilustrar, trago à colação a ementa de recente acórdão assim dispondo, de minha lavra:
+“Agravo regimental no agravo de instrumento. Princípio da legalidade. Súmula nº 636/STF. 1. Não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando para a sua verificação seja necessário analisar a legislação infraconstitucional aplicável ao caso. Incidência da Súmula nº 636/STF. 2. Agravo regimental desprovido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil” ( AI nº 730.792-AgR/SP,
+Primeira Turma, DJe de 30/04/10).
+Ante o exporto, nego provimento ao recurso.
+Publique-se.
+Brasília, 10 de junho de 2010.
+Ministro DIAS TOFFOLI
+Relator
