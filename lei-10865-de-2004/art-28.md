@@ -16,4 +16,5 @@ XIV - produtos classificados na posição 87.13 da Nomenclatura Comum do Mercosu
 XV - artigos e aparelhos ortopédicos ou para fraturas classificados no código 90.21.10 da NCM;
 XVI - artigos e aparelhos de próteses classificados no código 90.21.3 da NCM;
 XVII - almofadas antiescaras classificadas nos Capítulos 39, 40, 63 e 94 da NCM.
-Parágrafo único. O Poder Executivo poderá regulamentar o disposto nos incisos IV, X, XIII e XIV a XVII do caput deste artigo.
+XVIII - bens relacionados em ato do Poder Executivo para aplicação nas Unidades Modulares de Saúde de que trata o Convênio ICMS nº 114, de 11 de dezembro de 2009, quando adquiridos por órgãos da administração pública direta federal, estadual, distrital e municipal.
+Parágrafo único. O Poder Executivo poderá regulamentar o disposto nos incisos IV, X e XIII a XVIII do caput deste artigo.
