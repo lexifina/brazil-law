@@ -15,6 +15,6 @@ II - apresentar os arquivos ou sistemas de que tratam os arts. 11 a 13 da Lei no
 III - apresentar a documentação técnica de que trata o art. 38 desta Lei.
 § 3º Aplicam-se às multas de que trata este artigo as reduções previstas no art. 6º da Lei nº 8.218, de 29 de agosto de 1991, e no art. 60 da Lei nº 8.383, de 30 de dezembro de 1991.
 § 4º As disposições deste artigo aplicam-se, inclusive, aos contribuintes que derem causa a ressarcimento indevido de tributo ou contribuição decorrente de qualquer incentivo ou benefício fiscal.
-§ 5º Aplica-se também a multa de que trata o inciso I do caput sobre:
-I - a parcela do imposto a restituir informado pela contribuinte, pessoa física, na Declaração de Ajuste Anual, que deixar de ser restituído em razão da constatação de infração à legislação tributária; e
-II - o valor das deduções e compensações indevidas informadas na Declaração de Ajuste Anual da pessoa física.
+§ 5º Aplica-se também, no caso de que seja comprovadamente constatado dolo ou má-fé do contribuinte, a multa de que trata o inciso I do caput sobre:
+I - a parcela do imposto a restituir informado pela contribuinte pessoa física, na Declaração de Ajuste Anual, que deixar de ser restituída por infração à legislação tributária; e
+II - (VETADO).

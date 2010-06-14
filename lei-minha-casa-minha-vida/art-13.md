@@ -4,4 +4,4 @@ I - facilitar a produção do imóvel residencial;
 II - complementar o valor necessário a assegurar o equilíbrio econômico-financeiro das operações de financiamento realizadas pelos agentes financeiros; ou
 III - complementar a remuneração do agente financeiro, nos casos em que o subsídio não esteja vinculado a financiamento.
 § 2º A subvenção poderá ser cumulativa com subsídios concedidos no âmbito de programas habitacionais dos Estados, Distrito Federal ou Municípios.
-§ 3º Para definição dos beneficiários do PNHR devem ser respeitadas, exclusivamente, as faixas de renda, não se aplicando os demais critérios estabelecidos no art. 3º.
+§ 3º Para definição dos beneficiários do PNHR, devem ser respeitadas, exclusivamente, as faixas de renda, não se aplicando os demais critérios estabelecidos no art. 3º.
