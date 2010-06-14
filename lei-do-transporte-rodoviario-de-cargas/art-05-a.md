@@ -1,0 +1,7 @@
+Art. 5º-A. O pagamento do frete do transporte rodoviário de cargas ao Transportador Autônomo de Cargas - TAC deverá ser efetuado por meio de crédito em conta de depósitos mantida em instituição bancária ou por outro meio de pagamento regulamentado pela Agência Nacional de Transportes Terrestres - ANTT.
+§ 1º A conta de depósitos ou o outro meio de pagamento deverá ser de titularidade do TAC e identificado no conhecimento de transporte.
+§ 2º O contratante e o subcontratante dos serviços de transporte rodoviário de cargas, assim como o cossignatário e o proprietário da carga, são solidariamente responsáveis pela obrigação prevista no caput deste artigo, resguardado o direito de regresso destes contra os primeiros.
+§ 3º Para os fins deste artigo, equiparam-se ao TAC a Empresa de Transporte Rodoviário de Cargas - ETC que possuir, em sua frota, até 3 (três) veículos registrados no Registro Nacional de Transportadores Rodoviários de Cargas - RNTRC e as Cooperativas de Transporte de Cargas.
+§ 4º As Cooperativas de Transporte de Cargas deverão efetuar o pagamento aos seus cooperados na forma do caput deste artigo.
+§ 5º O registro das movimentações da conta de depósitos ou do meio de pagamento de que trata o caput deste artigo servirá como comprovante de rendimento do TAC.
+§ 6º É vedado o pagamento do frete por qualquer outro meio ou forma diverso do previsto no caput deste artigo ou em seu regulamento.
