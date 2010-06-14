@@ -1,0 +1,17 @@
+1.  Trata-se de agravo de decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás que julgou deserto o recurso de agravo regimental no mandado de segurança por entender que o deferimento da assistência judiciária deferida ao ora agravante, nos autos da ação de execução, não alcançaria o mandado de segurança. Tal aresto está assim ementado:
+“ AGRAVO REGIMENTAL DE DECISÃO PROFERIDA NO EXERCÍCIO DA PRESIDÊNCIA DA SEÇÃO CÍVEL. AUSÊNCIA DE PREPARO. DESERÇÃO. A usente o requisito extrínseco de admissibilidade correspondente ao preparo o recurso não merece conhecimento, julgando-se deserto o agravo regimental interposto sem o respectivo preparo, porquanto exigível, a teor do que dispõem os artigos 511, CPC, c/c 364 do RITJGO e com o item 2 da Tabela I da Lei Estadual nº 14.376/2002. Agravo regimental não conhecido” (fl. 443).
+E, nos embargos de declaração opostos contra tal decisão, o Tribunal de origem complementou a sua fundamentação:
+“Sem prejuízo do acórdão embargado haver se limitado a justificar o não-conhecimento do regimental, porque deserto, intenta-se com o presente recurso infringir o julgamento, à pecha de suposta omissão quanto à circunstância de que o agravante/embargante é beneficiário da assistência judiciária nos autos do processo em que proferida a decisão tomada aqui como ato coator.
+Toda a fundamentação trazida pelo recurso declaratório pressupõe que a assistência judiciária deferida ao embargante nos autos da ação de execução de protocolo 2001011490 (de que originária a decisão reputada coatora) alcançaria o presente feito mandamental. Todavia, embora o mandado de segurança contra ato judicial, em seu potencial resultado, possa se assemelhar ao recurso, tratam-se de vias impugnativas distintas” (fl. 498).
+.................................................................................
+“Em conseqüência da natureza jurídica da via impugnativa manejada, tem-se o não aproveitamento do ato concessivo da assistência judiciária nos autos da execução em trâmite junto ao juízo comarcano a esta relação jurídico-processual” (fl. 499).
+2.  Alega a parte agravante, no recurso extraordinário, ofensa aos artigos 5º, II, XXXVI, LXXIV, LV, e LIV; e art. 37, caput, ambos da CF. Apresenta preliminar formal e fundamentada de repercussão geral da matéria constitucional suscitada no RE (art. 543-A, § 2º, do CPC) e sustenta ser beneficiário da assistência judiciária gratuita, por ser pessoa inválida e pobre, que “foi operado desnecessariamente de um tumor no cérebro que nunca existiu” (fl. 595).
+2.  O órgão julgador de origem examinou, no âmbito de sua competência, matéria de índole estritamente processual, referente a pressuposto de admissibilidade de recurso. Veja-se o AI 5691.331-AgR/SP, de minha relatoria, 2ª Turma, DJe 07.08.2009, assim ementado:
+“1.  O trânsito do extraordinário é inviável para debater matéria processual, de índole infraconstitucional, relativa a pressuposto de admissibilidade de recurso de apelação (preparo).
+2.  Agravo regimental improvido”.
+E esta Corte reconheceu a ausência de repercussão geral da matéria referente aos pressupostos de admissibilidade de recurso da competência de cortes diversas, por não se tratar de questão constitucional (RE 598.365, rel. Min. Ayres Britto, fim do julgamento em 14.08.2009).
+3.  Ante o exposto, indefiro liminarmente o presente agravo de instrumento (art. 543-A, § 5º, do CPC, c/c o art. 327, § 1º, do RISTF).
+Publique-se.
+Brasília, 14 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
