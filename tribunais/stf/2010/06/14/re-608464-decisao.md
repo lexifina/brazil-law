@@ -1,0 +1,13 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Espírito Santo. Acórdão assim ementado (fls. 149):
+“PROCESSUAL CIVIL – AGRAVO INOMINADO – AUSÊNCIA DE MOTIVOS RELEVANTES CAPAZES DE RENDER ENSEJO À ALTERAÇÃO DA DECISÃO OBJURGADA – IMPOSSIBILIDADE DE PERCEPÇÃO DA DENOMINADA GRATIFICAÇÃO DE REGÊNCIA APÓS A APOSENTADORIA DA AGRAVANTE – AUSÊNCIA DE PREVISÃO LEGAL PARA FINS DE INCORPORAÇÃO – PRECEDENTES – RECURSO CONHECIDO – PROVIMENTO NEGADO. 1. Diante de todo o deslinde efetuado no julgamento originário dos autos, deve permanecer inalterada a decisão que declarou a impossibilidade de incorporação da gratificação de regência junto aos proventos de aposentadoria da agravante. 2. Recurso conhecido e desprovido.”
+2. Pois bem, a parte recorrente aponta ofensa ao inciso XV do art. 37 da Magna Carta de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Wagner de Castro Mathias Netto, opina pelo não-conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. É que a Instância Judicante de origem, ao examinar o direito estadual pertinente — direito cuja interpretação lhe é soberanamente atribuída, diga-se de passagem —, concluiu que a vantagem denominada gratificação de regência possui natureza “excepcional, sendo devida apenas enquanto estiver se desenvolvendo o trabalho pelo servidor” (fls. 152). Pelo que a recorrente, servidora aposentada, não faz jus ao seu recebimento.
+5. De se ver, portanto, que o aresto impugnado afina com a jurisprudência do STF, que me parece juridicamente correta, no sentido de que apenas as vantagens de natureza genérica são extensíveis aos inativos, em nome do princípio da isonomia, insculpido no § 8º do art. 40 da Constituição Federal (redação anterior à EC 41/03). Precedentes: REs 301.080 e 410.288, da relatoria do ministro Sepúlveda Pertence; 385.041 e 402.090, da relatoria do ministro Carlos Velloso; 297.639 e 351.449, da relatoria do ministro Sydney Sanches.
+6. À derradeira, anoto que, para chegar à conclusão pretendida pela parte recorrente, no tocante à natureza referida gratificação, se faz necessário o reexame da legislação infraconstitucional aplicável. Providência que não tem lugar neste momento processual, nos termos da Súmula 280 do STF.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 14 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
