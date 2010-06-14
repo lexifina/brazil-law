@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1042, de 10 de junho de 2010
+Dispõe sobre o Cadastro de Pessoas Físicas (CPF), e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 11 da Lei nº 4.862, de 29 de novembro de 1965, nos arts. 1º a 3º do Decreto-Lei nº 401, de 30 de dezembro de 1968, nos arts. 33 a 36 do Decreto nº 3.000, de 26 de março de 1999, no art. 1º do Decreto nº 4.166, de 13 de março de 2002, e nas Portarias Interministeriais MF/MRE nº 101 e nº 102, de 23 de abril de 2002, resolve:
