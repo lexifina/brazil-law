@@ -1,0 +1,25 @@
+DECISÃO
+Vistos.
+COMPANHIA DE SEGUROS MINAS BRASIL interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 105, inciso III, letra “a”, da Constituição Federal.
+Insurge-se, no apelo extremo, fundado na alínea “a”, do permissivo constitucional, contra acórdão da Primeira Turma do Superior de Tribunal de Justiça, assim ementado:
+“CONSTITUCIONAL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FUNDO DE EMERGÊNCIA SOCIAL. ARTIGO 72 DO ADCT. PIS. LEGALIDADE.
+I - A questão acerca da legalidade do aumento da alíquota do PIS na forma instituída pela ECR nº 01/94 foi decidida sob fundamento de cunho constitucional, inviabilizando a apreciação da matéria pela via eleita, cabendo, portanto, ao Pretório Excelso o seu exame, sob pena de usurpação daquela competência.
+II - Agravo regimental improvido” (fl. 498).
+Opostos embargos de declaração (fls. 478 a 482), foram rejeitados (fls. 485 a 4897).
+O recorrente pretende “que seja reformado o v. acórdão proferido pelo Superior Tribunal de Justiça, para que seja dado seguimento ao recurso especial e analisada a questão de negativa de vigência dos artigos 44 da Lei nº 4.506, de 1964 e 12 do Decreto-lei nº 1.598, de 1977, face à agressão ao artigo 105, inciso III, alíneas ‘a’ e ‘c’, da Lei maior” (fl. 504).
+Decido.
+Anote-se, inicialmente, que a recorrente foi intimada do acórdão dos embargos de declaração em 4/4/05, conforme expresso na certidão da folha 490, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação, contudo, não merece prosperar.
+E isso porque se entende inadmissível a questão relativa à rediscussão, por esta Corte, dos requisitos de admissibilidade de recursos especiais, vez que tal análise incumbe precipuamente ao Superior Tribunal de Justiça.
+Nesse sentido, os seguintes precedentes:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 105 DA CONSTITUIÇÃO. REEXAME DE DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. 1. Controvérsia decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. 2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. 3. A verificação, no caso concreto, da ocorrência, ou não, de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada situa-se no campo infraconstitucional. 4. Este Tribunal fixou jurisprudência no sentido de que "não cabe recurso extraordinário fundado em violação ao art. 105, III, da Constituição Federal, para rever a correção, no caso concreto, da decisão do Superior Tribunal de Justiça de conhecer ou não do recurso especial, exceto se o julgamento emanado deste Superior Tribunal apoiar-se em premissas que conflitem, diretamente, com o disposto no referido art. 105, III, o que não ocorre no caso dos autos" [AI n. 510.944-AgR, Relator o Ministro Celso de Mello, DJ de 18.11.05]. Agravo regimental a que se nega provimento” (AI nº 744.382/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 28/8/09).
+“AGRAVO REGIMENTAL. Não cabe recurso extraordinário para rever os requisitos de admissibilidade do recurso especial. A questão relativa aos limites objetivos da coisa julgada é de índole infraconstitucional. Assim, eventual ofensa à Constituição seria indireta ou reflexa, não dando margem ao cabimento do recurso extraordinário. Agravo regimental a que se nega provimento” ( AI nº 548.375/GO-AgR, Segunda Turma,
+Relator o
+Ministro Joaquim Barbosa, DJe de 26/3/10).
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. AGRAVO REGIMENTAL INTERPOSTO CONTRA DECISÃO DE ÓRGÃO COLEGIADO. RECURSO INCABÍVEL. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - A jurisprudência desta Corte é no sentido de que são incabíveis agravos regimentais contra decisão de Órgão Colegiado. Precedentes. II - A interposição de recurso incabível não suspende ou interrompe o prazo recursal. Precedentes. III - É pacífico o entendimento nesta Corte de que não cabe rever, em recurso extraordinário, decisão do Superior Tribunal de Justiça que inadmitiu recurso especial. IV - Agravo regimental improvido” ( AI nº 744.297-AgR/SP, Primeira Turma,
+Relator o Ministro Ricardo Lewandowski,  DJe de 5/2/10).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 14 de junho de 2010.
+Ministro DIAS TOFFOLI
+Relator
