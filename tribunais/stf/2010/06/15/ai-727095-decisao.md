@@ -1,0 +1,19 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão do TJ/RS assim ementado:
+“ AÇÃO DE COBRANÇA. ENERGIA ELÉTRICA. MELHORAMENTO DE REDE FINANCIADA PELO CONSUMIDOR. PRETENSÃO DE DEVOLUÇÃO DO VALOR INVESTIDO. PRESCRIÇÃO RECONHECIDA NA ORIGEM. INTELIGÊNCIA DO ART. 206, § 3º, INC. IV, C/C ART. 2.028 DO CC. RECURSO DESPROVIDO ” (fl. 354).
+Nos embargos de declaração opostos contra tal aresto, o Tribunal de origem afastou a tese sustentada pelo recorrente, quanto ao lapso inicial para contagem do prazo prescricional, nestes termos:
+“Sustenta a parte autora que o lapso inicial para contagem do prazo prescricional haveria de ser a data da incorporação da obra pela concessionária e não a data do desembolso do valor, pela ausência de contrato, invocando o disposto no art. 15 da Lei n. 10.848/2004.
+Não prospera tal argüição, pois o referido dispositivo, ao prever que ‘as concessionárias de distribuição deverão incorporar a seus patrimônios as redes particulares que não dispuserem de ato autorizativo do Poder Concedente até 31 de dezembro de 2005 ou, mesmo dispondo, desde que exista interesse das partes em que sejam trasferidas’, não se aplica ao caso em tela, pois não se trata, na hipótese, de rede particular, mas sim de financiamento particular de expansão de rede pública de energia elétrica, sendo que tal financiamento era autorizado pelo poder concedente.
+De acordo com os documentos juntados aos autos, a parte autora firmou contrato de financiamento – nota de crédito rural junto ao Banrisul – para a realização da obra de expansão de rede elétrica em março de 1998.
+Na ausência de juntada de convênio ou contrato com prazo de devolução dos valores, a pretensão de restituição dos valores, com base em enriquecimento sem causa, tem seu prazo prescricional iniciado a partir do desembolso ou firmação do contrato, consoante iterativa jurisprudência desta Turma Recursal” (fl. 371).
+2.  Preliminarmente, a parte recorrente alega no RE ofensa ao art. 5º, LIV, e LV, da CF, sustentando que houve “falta de saneamento da omissão apontada” (fl. 383), e pleiteia a nulidade do acórdão proferido em grau de embargos de declaração. No mérito, aponta afronta ao art. 5º, XXII, e XXIV, da CF.
+3.  Ressalto que a preliminar levantada pela parte, relativa ao reexame do julgamento proferido pela Corte de origem, para fins de nulidade, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade à Constituição Federal. Veja-se o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002, o qual assentou em sua ementa:
+“ CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO: ALEGAÇÃO DE OFENSA AO DEVIDO PROCESSO LEGAL E DE QUE O ACÓRDÃO NÃO ESTARIA FUNDAMENTADO. C.F., arts. 5º, II, XXXV, LIV e LV, e 93, IX.
+I. – Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional.
+II. – Decisão contrária ao interesse da parte não configura negativa de prestação jurisdicional (...)”.
+4.  No mérito, o recurso também não merece prosperar, uma vez que o acórdão recorrido decidiu a questão com fundamento em cláusulas contratuais (Súmula STF 454), na legislação infraconstitucional aplicável à espécie (Lei 10.848/2004 e no CC) e nos documentos acostados aos autos (Súmula STF 279), conforme trechos do voto acima transcritos, hipóteses inviáveis nesta via.
+ A respeito do tema, vejam-se, em casos similares, o RE 545.802/RS, rel. Min. Cezar Peluso, DJe 26.10.2009; o AI 765.584-RS, rel. Min. Cármen Lúcia, DJe 04.09.2009; e o AI 790.000/RS, Rel. Min. Dias Toffoli, DJe 26.05.2010.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 15 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
