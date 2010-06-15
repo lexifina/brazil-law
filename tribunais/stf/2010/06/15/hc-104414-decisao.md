@@ -1,0 +1,21 @@
+1.  Trata-se de habeas corpus com pedido de liminar impetrado em favor de GRAÇA MARIA ROCHA DA FONSECA SILVA contra a Quinta Turma do Superior Tribunal de Justiça, que conheceu parcialmente do Resp. 1.001.961/AM e, na parte conhecida, deu provimento ao recurso para dar prosseguimento à ação penal proposta conta a paciente.
+2.  Na espécie, a paciente, servidora pública da Secretaria de Fazenda do Estado do Amazonas, foi denunciada pelo Ministério Público Federal pela suposta prática dos crimes tipificados nos arts. 288, 313-A, 317 e 321, na forma do art. 69, todos do Código Penal.
+A denúncia foi conseqüência da denominada “Operação Saúva”, deflagrada pela Polícia Federal, com o objetivo de desbaratar quadrilha especializada em fraudar licitações de órgãos públicos do Estado do Amazonas, na qual havia envolvimento de servidores públicos federais, estaduais e municipais.
+Recebida a inicial acusatória, a defesa da paciente impetrou habeas corpus ao Tribunal Regional Federal da 1ª Região, alegando a inépcia da denúncia e a incompetência absoluta do Juízo Federal no Amazonas para o julgamento.
+A Corte Regional concedeu parcialmente a ordem para trancar a ação penal 2005.32.00.001752-0 com relação à paciente, por inépcia da denúncia. O Ministério Público Federal interpôs recurso especial contra o acórdão do Tribunal Federal da 1ª Região.
+No Superior Tribunal de Justiça, o Resp. 1.001.961/AM foi parcialmente conhecido e provido na parte conhecida, nos termos da seguinte ementa (fl. 326 do Apenso 2):
+“PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL HABEAS CORPUS CONCESSIVO. AUSÊNCIA DE JUSTA CAUSA. MINISTÉRIO PÚBLICO. TITULAR DA AÇÃO PENAL. LEGITIMIDADE PARA INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA ACÓRDÃO CONCESSIVO DE ORDEM DE HABEAS CORPUS . ART. 29 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. INÉPCIA DA DENÚNCIA. NÃO-OCORRÊNCIA. SUFICIÊNCIA DA DESCRIÇÃO DAS CONDUTAS IMPUTADAS. DENÚNCIA LASTREADA COM BASE EM INDÍCIOS APURADOS NO INQUÉRITO POLICIAL E ESCUTA TELEFÔNICA. PLENO EXERCÍCIO DA AMPLA DEFESA. TRANCAMENTO DA AÇÃO PENAL POR MEIO DE HABEAS CORPUS. MEDIDA DE EXCEÇÃO. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+1. O Ministério Público, como titular da ação penal, tem legitimidade para interpor recurso especial de acórdão concessivo de habeas corpus que implique trancamento de ação penal.
+2. A inexistência do necessário prequestionamento de matéria supostamente violada constitui obstáculo intransponível à sequência recursal, nos termos das Súmulas 282 e 356 do Supremo Tribunal.
+3. A denúncia que descreve de forma suficiente as condutas imputadas atende aos requisitos do art. 41 do CPP, permitindo, destarte, o pleno exercício da ampla defesa.
+4. O trancamento da ação penal por meio de habeas corpus é medida de exceção, sendo admissível apenas quando atípica a conduta, extinta a punibilidade ou ilegítima, de forma manifesta, a parte.
+5. Recurso parcialmente conhecido e, nessa extensão, provido para dar prosseguimento à ação penal”.
+3.  Com efeito, da leitura do acórdão impugnado na inicial, verifico que o ato se encontra devidamente motivado, apontando as razões de convencimento da Corte no sentido do provimento do recurso.
+Ressalto que, para fins de apreciação do pedido de medida liminar, é necessário avaliar se o acórdão atacado teve o condão de caracterizar patente constrangimento ilegal. Na hipótese dos autos, as razões do aresto hostilizado mostram-se relevantes e, num primeiro exame, sobrepõem-se aos argumentos lançados no writ.
+Desse modo, não vislumbro a presença do requisito do fumus boni iuris para a concessão da tutela pleiteada.
+4.  Ademais, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que “o trancamento de ação penal só se verifica nos casos em que há prova evidente da falta de justa causa, seja pela atipicidade do fato, seja por absoluta carência de indício de autoria, ou por outra circunstância qualquer que conduza, com segurança, à conclusão firme da inviabilidade da ação penal”, o que não se verifica na presente hipótese (HC 96.268, rel. Min. Cármen Lúcia, 1ª Turma, DJ 14.05.2009).
+5.  Ante o exposto, indefiro o pedido de liminar. Estando os autos plenamente instruídos, colha-se a manifestação da Procuradoria-Geral da República.
+Publique-se.
+Brasília, 15 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
