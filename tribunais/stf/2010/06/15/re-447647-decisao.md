@@ -1,0 +1,22 @@
+DECISÃO
+Vistos.
+A ASSEMBLÉIA LEGISLATIVA DO ESTADO DO RIO DE JANEIRO interpõe recurso extraordinário, com fundamento na alínea “a”, do permissivo constitucional, contra acórdão do Órgão Especial do Tribunal de Justiça fluminense, assim ementado:
+“REPRESENTAÇÃO POR INCONSTITUCIONALIDADE. Projeto de Lei de Iniciativa Reservada. Emenda Parlamentar Aumentando Despesa. Inconstitucionalidade Material.
+Há aumento de despesa não apenas quando se cria novos serviços e encargos para a Administração Pública, mas também quando se reduz a receita sem a correspondente diminuição dos encargos, posto que, para não restringir ou até paralisar a prestação dos seus serviços, com graves prejuízos para os administrados, terá o Poder Público que remanejar recursos de outras áreas, o que nem sempre será possível pela sua notória escassez. Assim, tendo a Assembléia Legislativa reduzido drasticamente os valores das custas judiciais que vinham sendo praticados há muitos anos, e o fez por critérios puramente políticos, sem indicar novas fontes de receita, extrapolou em seu poder de emendar, ofendendo o art. 113, I e II da Carta Estadual.
+Procedência da representação” (fl. 75).
+Sustenta o recorrente, em suma, violação dos artigos 61, § 1º e 63, incisos I e II, da Constituição Federal, consubstanciada pelo reconhecimento da inconstitucionalidade do item V da Tabela 03, da Lei Estadual nº 3.350/99.
+Contra-arrazoado (fls. 103 a 107), o recurso extraordinário (fls. 80 a 100) não foi admitido (fls. 111 a 114), tendo seguimento em razão de decisão proferida peloMinistro Sepúlveda Pertence autos de agravo de instrumento (em apenso).
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Paulo da Rocha Campos, pelo provimento do recurso (fls. 136 a 140).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 25/10/2000, conforme expresso na certidão de folha 78, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+O presente recurso, por intempestivo, não merece ser conhecido.
+De fato, publicado o acórdão recorrido no dia 25 de outubro de 2000, quarta-feira, iniciou-se, no dia seguinte, a contagem do prazo para a interposição do presente recurso, expirando, portanto, no dia 9 de novembro de 2000, uma quinta-feira. O recurso extremo, todavia, foi interposto somente no dia 24 de novembro seguinte (fl. 80), vários dias depois do término do prazo. É, portanto, intempestivo.
+Com efeito, embora se trate de pessoa jurídica de direito público, o recorrente não dispõe da prerrogativa do prazo em dobro, prevista no artigo 188, caput, do Código de Processo Civil, vez que o feito em tela possui a natureza de processo objetivo em controle abstrato de constitucionalidade. Sobre o tema, anotem-se os seguintes precedentes:
+“RECURSO. Embargos de declaração. Caráter infringente. Embargos recebidos como agravo. Controle abstrato de constitucionalidade de lei local em face de Constituição estadual. Processo de cunho objetivo. Prazo recursal em dobro. Inaplicabilidade. Recurso extraordinário não conhecido. Agravo regimental improvido. Precedentes. São singulares os prazos recursais das ações de controle abstrato de constitucionalidade, em razão de seu reconhecido caráter objetivo”
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CARIMBO COM A DATA DE PROTOCOLO DO RECURSO EXTRAORDINÁRIO ILEGÍVEL. ENTIDADE PÚBLICA. PRAZO PARA RECORRER. CONTROLE CONCENTRADO DE CONSTITUCIONALIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O carimbo do protocolo no recurso extraordinário deve ser claro o suficiente para permitir a verificação da data de interposição. 2. Não se aplica o privilégio do art. 188 do Código de Processo Civil nos processos de controle concentrado de constitucionalidade” (AI nº 633.998/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 23/10/09).
+No mesmo sentido, as seguintes decisões monocráticas: AI nº 788.453/SC, Relator o Ministro Ricardo Lewandowski, DJ de 18/3/10, RE nº 375.525MG, Relator o Ministro Celso de Mello, DJ de 3/11/09, e AI nº 555.860/MG, Relator o Ministro Marco Aurélio, DJ de 14/10/09.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, não conheço do recurso.
+Publique-se.
+Brasília, 15 de junho de 2010.
+Ministro DIAS TOFFOLI
+Relator
