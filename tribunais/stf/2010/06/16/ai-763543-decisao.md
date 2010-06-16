@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discute a correção monetária de restituição de contribuições vertidas para entidade de previdência privada.
+ No RE, sustenta-se ofensa aos artigos 5º, XXXV e LV; e 195, § 5º, da Constituição Federal.
+2.  O recurso não merece prosperar. Primeiramente, para o exame das violações alegadas, seria necessária a análise de cláusulas contratuais (Súmula/STF 454) e de legislação infraconstitucional (Lei 6.435/77 e Decreto 81.240/78), hipóteses inviáveis em sede extraordinária.
+3.  Em segundo lugar, verifico que os dispositivos, aos quais se alegou violação, não foram prequestionados, porque não abordados pelo acórdão recorrido, e ao qual não foram opostos embargos de declaração para satisfazer o requisito do prequestionamento (Súmulas/STF 282 e 356).
+4.  Ademais, no julgamento do RE 582.504-RG/RJ, rel. Min. Cezar Peluso, DJe 09.10.2009, foi reconhecida a inexistência de repercussão geral da questão referente à restituição de contribuições previdenciárias por entidade de previdência privada, com correção monetária.
+5.  Quanto à alegação de ofensa ao art. 5º e seus incisos, da Constituição Federal, além de o fato de decisão contrária aos interesses da parte não caracterizar violação aos dispositivos constitucionais apontados, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008 e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+6.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 16 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
