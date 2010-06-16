@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“Embargos à Execução Fiscal – IPTU – Área pertencente à União que transfere todos os direitos e obrigações à CODESP – Imunidade recíproca – Admissibilidade de sua extensão à empresa arrendatária diante do previsto na Constituição Federal, arts. 21, XII, ‘f’ e 150, VI – Recurso não provido” (fl. 33).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, 30, I e III, 145, I e II, 150, VI, a, § 3º, 156, I e 173, § 2º, da mesma Carta.
+O agravo não merece acolhida. É que o acórdão atacado está em consonância com a jurisprudência desta Corte no sentido de que os imóveis componentes do acervo Patrimonial do Porto de Santos são abrangidos pela imunidade prevista no art. 150, VI, a, da Constituição por comporem domínio da União. Com esse entendimento colaciono os seguintes julgados:
+“RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. IPTU. PORTO DE SANTOS. IMUNIDADE RECÍPROCA. 1. A tese deduzida no recurso extraordinário restou acolhida à unanimidade por ambas as Turmas deste Supremo Tribunal. Circunstância que permite ao relator julgar monocraticamente o recurso extraordinário (art. 557 do CPC). 2. Os imóveis integrantes do acervo patrimonial do Porto de Santos são imunes à incidência do IPTU, pois integram o domínio da União e se encontram ocupados pela agravada apenas em caráter precário. Precedentes: RE 253.394 (Primeira Turma, DJ de 11/04/2003) e RE 265.749 (Segunda Turma, DJ 12/09/2003). 3. Mostra-se devidamente fundamentada a decisão monocrática que faz remissão a precedentes da Corte e sintetiza os argumentos neles aduzidos. 4. Agravo regimental improvido” (RE 357.447-AgR/SP, Rel. Min. Ellen Gracie, Primeira Turma).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IPTU. PORTO DE SANTOS. IMUNIDADE. 1. A jurisprudência deste Tribunal fixou entendimento no sentido de que os bens imóveis que compõem o acervo patrimonial do Porto de Santos são imunes à incidência do IPTU, vez que integram o domínio da União. Precedentes. Agravo regimental a que se nega provimento” (RE 508.709-AgR/SP, Rel. Min. Eros Grau, Segunda Turma).
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 597.563-AgR/SP, Rel. Min. Eros Grau; RE 318.185-AgR/SP, Rel. Min. Nelson Jobim; RE 265.749/SP, Rel. Min. Maurício Corrêa; RE 253.394/SP, Rel. Min. Ilmar Galvão.
+Isso posto, nego seguimento ao recurso.
+Determino ainda, que a Secretaria Judiciária responda ao ofício do Superior Tribunal de Justiça de fls. 110-116, com urgência.
+Publique-se.
+Brasília, 16 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
