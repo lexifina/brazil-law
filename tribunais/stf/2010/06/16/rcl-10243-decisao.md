@@ -1,0 +1,25 @@
+Trata-se de reclamação, com pedido de medida liminar, proposta pela Associação dos Servidores do Poder Judiciário do Estado de São Paulo - ASSOJURIS, contra decisão proferida pelo Des. Elliot Akel do Órgão Especial do Tribunal de Justiça daquele Estado, que teria desrespeitado o quanto decidido por esta Corte nos autos do MI 712/PA e da Rcl 6.568/SP, ambos de relatoria do Min. Eros Grau.
+Narra a reclamante que o citado desembargador
+“ao proferir a decisão liminar para que o sindicato da categoria 'se abstenha' de promover o movimento, declarou de forma indireta à ilegalidade do movimento, próprio sindicato da categoria (que possui a carga sindical expedida pelo Ministério do Trabalho) esta sendo tolhido o Direito Constitucional do exercício do direito de greve, esculpido no artigo 37, VII da Constituição Federal e por fim contrariando a decisão 'erga omnes' da decisão do Mandado de injunção que frisa-se – Garantiu o exercício do Direito de greve de todos os servidores Públicos”.
+Sustenta, nessa linha, que
+“possui legitimidade ativa para propor a presente demanda em defesa dos interesses dos seus associados, tendo em vista que todos os associados estão sendo afetados com graves prejuízos oriundo da decisão liminar que impossibilita o direito Constitucional do exercício do direito de greve por parte dos servidores públicos tendo em vista ter este Colendo Tribunal conferido eficácia erga omnes às decisões proferidas nos julgamentos dos mandados de injunção 670/ES, 708/DF e 712/PA, este ultimo de servidores do Poder Judiciário do Estado do Pará”.
+Requer, assim, o deferimento de medida liminar para que seja garantido o exercício do direito de greve, por entender que as decisões proferida por esta Corte nos precedentes invocados (MI 670/ES, Rel. Para o acórdão Min. Gilmar Mendes, MI 708/DF, Rel. Min. Gilmar Mendes, e MI 712/PA, Rel. Min. Eros Grau) têm efeito erga omnes.
+No mérito, pugna pela procedência do pedido.
+É o relatório.
+Decido.
+Bem analisados os autos, verifico que esta Reclamação foi proposta com o objetivo de garantir a autoridade de decisões proferidas em processos subjetivos (MI 670/ES, Rel. Para o acórdão Min. Gilmar Mendes, MI 708/DF, Rel. Min. Gilmar Mendes, e MI 712/PA, Rel. Min. Eros Grau), os quais, como se sabe, vinculam apenas as partes litigantes e o próprio órgão a que se dirige o concernente comando judicial.
+Ora, o mandado de injunção destina-se à concretização, caso a caso, do direito constitucional não regulamentado, e, consequentemente, sua decisão tem efeito inter partes.
+Nesse sentido, transcrevo a ementa do MI 758/DF, Rel. Min. Marco Aurélio:
+“MANDADO DE INJUNÇÃO – NATUREZA. Conforme disposto no inciso LXXI do artigo 5º da Constituição Federal, conceder-se-á mandado de injunção quando necessário ao exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Há ação mandamental e não simplesmente declaratória de omissão. A carga de declaração não é objeto da impetração, mas premissa de ordem a ser formalizada.
+MANDADO DE INJUNÇÃO – DECISÃO – BALIZAS. Tratando-se de processo subjetivo, a decisão possui eficácia considerada a relação jurídica nele revelada.
+APOSENTADORIA – TRABALHO EM CONDIÇÕES ESPECIAIS – PREJUÍZO À SAÚDE DO SERVIDOR – INEXISTÊNCIA DE LEI COMPLEMENTAR – ARTIGO 40, § 4º, DA CONSTITUIÇÃO FEDERAL. Inexistente a disciplina específica da aposentadoria especial do servidor, impõe-se a adoção, via pronunciamento judicial, daquela própria aos trabalhadores em geral – artigo 57, § 1º, da Lei nº 8.213/91” (grifei).
+Incabível, dessa forma, o instrumento da reclamação, pois ausente a eficácia geral vinculante dos precedentes citados, cuja relação processual os reclamantes não integraram.
+Ressalto, ainda, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Tribunal:
+“A tese dos impetrantes, da suposta incompetência do relator para denegar seguimento a mandado de segurança, encontra firme repúdio neste Tribunal. A Lei 8.038/90, art. 38, confere-lhe poderes processuais, para, na direção e condução do processo, assim agir. Agravo regimental improvido” (MS 21.734-AgR/MS, Rel. Min. Ilmar Galvão).
+Nesse sentido, nos termos do art. 21, § 1º, do RISTF, poderá o Relator:
+“negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil” (grifei).
+Isso posto, nego seguimento a esta reclamação (RISTF, art. 21, § 1º). Prejudicado, pois, o exame da medida liminar.
+Publique-se.
+Brasília, 16 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
