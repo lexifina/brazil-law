@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por alegada violação ao art. 37, XV, da Constituição Federal. O acórdão proferido pelo Tribunal Regional Federal da 2ª Região reformou a sentença de procedência do pedido de pagamento mês a mês do reajuste relativo a URP sobre o adiantamento do PCCS no período de outubro/87 a outubro/88, sob o fundamento de que a jurisprudência acerca do tema firmou-se “no sentido de ser incabível o reajuste pleiteado face à irretroatividade da Lei. 7.686 de 02.12.1988” (fls. 30-37).
+2.  A Corte de origem asseverou que a alegada ofensa, se existisse, seria indireta, por implicar reexame de matéria infraconstitucional (fl. 144).
+3.  Os agravantes sustentam que a interpretação dada à legislação infraconstitucional, relativa à irretroatividade da Lei 7.686/88, afrontou diretamente a garantia constitucional da irredutibilidade de vencimentos insculpida no art. 37, XV.
+4.  O agravo não merece prosperar. Preliminarmente, o dispositivo constitucional apontado como violado não foi prequestionado, porque não abordado pelo acórdão recorrido, e, embora suscitado nos embargos a ele opostos (fls. 39-42), a falta, no traslado, do teor das contra-razões da apelação impede a verificação de suposta omissão do acórdão, não se podendo, assim, constatar a ocorrência do requisito do prequestionamento.
+  Nesse sentido: AI 716.928/SC, rel. Min. Cármen Lúcia, DJe 12.05.2009; AI 683.680- AgR/GO, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 13.02.2009; e AI 495.652-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJ 09.09.2005.
+5.  Ademais, o acórdão recorrido decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie. Assim, eventual ofensa à Constituição Federal seria indireta ou reflexa, o que elide o processamento do apelo extremo. Veja-se: RE 468.408-AgR-ED/PR, rel. Min. Cezar Peluso, 2ª Turma, unânime, DJe 07.03.2008.
+6.  Ressalte-se que o entendimento adotado, por tratar-se de argumento de índole infraconstitucional, tornou-se precluso em virtude do trânsito em julgado da decisão do Superior Tribunal de Justiça, que negou provimento ao agravo de instrumento manejado pela parte recorrente contra a inadmissibilidade do seu recurso especial (fls. 149-151).
+7.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 16 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
