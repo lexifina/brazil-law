@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discute a possibilidade de extensão aos servidores inativos do INCRA, da gratificação provisória instituída pela Lei 9.651/98.
+ No RE, a parte agravante alega violação ao art. 40, § 8º, da Constituição Federal.
+2.  O recurso não merece prosperar. O acórdão recorrido resolveu a questão com base na Lei 9.651/98; assim, para rever a decisão do Tribunal a quo seria necessário o reexame da legislação infraconstitucional, bem como a análise do conjunto fático probatório, o que encontra óbice na Súmula STF 279. Nesse sentido AI 770.316-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, DJe 30.4.2010; AI 744.856-AgR/SE, de minha relatoria, 2ª Turma, DJe 13.3.2010; e RE 400.641/RN, rel. Min. Cezar Peluso, 2ª Turma, DJe 18.12.2009, este último assim ementado:
+“EMENTA: RECURSO. Extraordinário. Inadmissibilidade. Servidor público. Vencimentos. Proventos. Vantagem pecuniária. Gratificação Provisória. Extensão aos aposentados. Rediscussão do caráter geral sob fundamento de ofensa ao art. 40, § 8º, da CF. Impossibilidade. Questão infraconstitucional. Recurso não conhecido. Aplicação das súmulas 279 e 280. Reconhecido ou negado pelo tribunal a quo o caráter geral de gratificação funcional ou de outra vantagem pecuniária, perante os termos da legislação local que a disciplina, não pode o Supremo, em recurso extraordinário, rever tal premissa para estender ou negar aquela aos servidores inativos com base no art. 40, § 8º, da Constituição da República.”
+3.  Ademais, esta Corte, no julgamento do RE 605.993-RG/RJ, rel. Min. Dias Toffoli, DJe 30.4.2010, concluiu pela ausência de repercussão geral do tema referente à extensão de gratificação aos servidores inativos, como ocorre nos presentes autos. O acórdão foi assim ementado:
+“ DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE JURÍDICA – GDAJ. EXTENSÃO AOS SERVIDORES INATIVOS. NECESSIDADE DE REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL E DAS PROVAS DOS AUTOS. AUSÊNCIA DE REPERCUSSÃO GERAL. ”
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 16 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
