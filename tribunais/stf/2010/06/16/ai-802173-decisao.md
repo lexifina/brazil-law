@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“DIREITO ADMINISTRATIVO E TRIBUTÁRIO – VEÍCULO APREENDIDO PELA AUTORIDADE DE TRÂNSITO – REMOÇÃO E GUARDA – NATUREZA JURÍDICA – TAXA – EMPRESA CONCESSIONÁRIA – SERVIÇO PÚBLICO QUE VISA EFETIVAR A ATUAÇÃO ESTATAL – DESDOBRAMENTO DO PODER DE POLÍCIA – COMPULSORIEDADE. A remuneração pelo reboque e estadia de veículo apreendido em blitz, ainda que realizados por empresa privada, concessionária de serviço público tem natureza jurídica de taxa, porque compulsória e decorrente da atividade de fiscalização do Estado, no exercício de seu poder de polícia.” (Fl. 200).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 37, XXI, e 175, parágrafo único, III, da mesma Carta.
+O agravo não merece acolhida. Isso porque, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Confira-se:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL SUSCITADA. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. ALEGAÇÃO DE OFENSA AOS INCISOS LIV E LV DO ART. 5º DA CONSTITUIÇÃO FEDERAL. 1. O tema constitucional suscitado no apelo extremo não foi objeto de análise prévia, e conclusiva, pela Instância Judicante de origem. Pelo que incidem as Súmulas 282 e 356 desta nossa Corte. 2. A violação à Carta Magna, se existente, ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via extraordinária. Precedentes. 3. Agravo regimental desprovido” (AI 774.498-AgR/PR, Rel. Min. Carlos Britto). (Grifos meus).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 16 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
