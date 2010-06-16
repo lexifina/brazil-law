@@ -106,6 +106,8 @@ Seção IV
 Da Remição
 Seção V
 Do Livramento Condicional
+Seção VI
+Da Monitoração Eletrônica
 CAPÍTULO II
 Das Penas Restritivas de Direitos
 Seção I
