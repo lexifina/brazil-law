@@ -1,0 +1,15 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III no artigo 102 da Constituição Republicana, contra acórdão do Tribunal Superior do Trabalho. Acórdão assim ementado (fls. 165):
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. 1 – PRELIMINAR DE NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. Manifestando-se o Regional sobre os temas abordados no recurso, rejeita-se a argüição de nulidade por negativa de prestação jurisdicional, restando incólume o artigo 93, IX, da Constituição Federal.
+2 – DOENÇA PROFISSIONAL – NULIDADE DA DESPEDIDA – REINTEGRAÇÃO. Não se vislumbra ofensa aos dispositivos legais e constitucional apontados, uma vez que a decisão se encontra em sintonia com a Súmula 378 desta Corte. O Regional decidiu com base na análise dos elementos probatórios trazidos aos autos, cuja revisão é vedada nesta esfera recursal, a teor da Súmula 126/TST.
+3 – INDENIZAÇÃO POR DANOS MORAIS. No penúltimo parágrafo de fl. 79 do recurso ordinário, há referência expressa à reparação por dano moral, não se cogitando de ofensa aos artigos 128 e 460 do CPC. Os dispositivos apontados como violados não viabilizam a revista, sendo ainda certo que o próprio art. 7°, XXVIII da CF, de que teria se valido o regional, cuja motivação foi criticada pelo recorrente constitui em fundamento para veiculação do apelo. Ademais, limitou-se o recorrente em declinar os dispositivos sem explicitar a violação que teria ocorrido. Agravo de instrumento deprovido.”
+2. Pois bem, a parte recorrente sustenta violação aos incisos II, X, XXX, LIV, LV do art. 5º, ao inciso XXVII do art. 7º e ao inciso IX do art. 93, todos da Magna Carta de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do então Subprocurador-Geral Roberto Monteiro Gurgel dos Santos, opinou pelo não-conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. Isso porque entendimento diverso do adotado pela Instância Judicante de origem exigiria a análise da legislação infraconstitucional pertinente, bem como o revolvimento do conjunto fático-probatório dos autos. Providências vedadas neste momento processual.
+5. Por outra volta, pontuo que o aresto impugnado está devidamente fundamentado. Note-se que “a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, da relatoria do ministro Sepúlveda Pertence).
+6. À derradeira, observo que a jurisdição foi prestada de forma completa, embora em sentido contrário aos interesses da parte agravante, não se configurando o alegado cerceamento de defesa.
+Isso posto, e frente ao caput do art. 557 do CPC e § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 16 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
