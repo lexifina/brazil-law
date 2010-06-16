@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra acórdão do qual transcrevo trecho da ementa:
+“Agravo de Instrumento – Processual Civil – Execução julgado – Ação de Desapropriação – Saldo insuficiente de pagamentos – Precatórios – Decisão que afasta o reconhecimento de prescrição intercorrente e determina a expedição de precatório – Recurso de agravo de Instrumento pela Fazenda do Estado – Improvimento de rigor.
+(...)
+2. Cerceamento de defesa – Inocorrência – Pedido de vistas fora de cartório descabido – A Fazenda do Estado teve oportunidade de manifestar-se previamente sobre as questões de direito controvertidas e sobre as quais prolatou decisão o magistrado ‘a quo’ – Cálculos que são mero desdobramento da decisão judicial – Vista com intento meramente protelatório.
+3. Desnecessária nova citação da Fazenda Pública porquanto a complementação de valores pagos de forma insuficiente visa apenas satisfazer a obrigação devida em sua inteireza, obrigação esta que remanesce enquanto não satisfeita – Citação já promovida quando do início da execução – Inaplicabilidade do art. 730 do CPC.
+Decisão mantida – Recurso desprovido” (fl. 107).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, LV, e 100 da mesma Carta.
+A pretensão recursal merece parcial acolhida.
+Quanto ao art. 5º, LV, da CF/88, a jurisprudência dessa Corte, por meio de remansosa jurisprudência, tem se orientado no sentido de que a alegada violação aos princípios do contraditório e da ampla defesa, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 633.595-AgR/DF e AI 701.469-AgR/PA, de minha relatoria; AI 508.047-AgR/RJ, Rel. Min. Cesar Peluso; AI 436.274-AgR/RJ, Rel Min. Gilmar Mendes.
+Por outro lado, tem razão o recorrente quanto à ofensa ao art. 100 da CF/88. Esta Corte tem consignado o entendimento de que os pagamentos, na hipótese de complementação de débitos da Fazenda Pública Federal, Estadual ou Municipal, decorrentes de decisões judiciais, deverão ser objeto de novo precatório, com a devida citação da Fazenda Pública, nos termos do art. 100 da CF/88. Nesse sentido, transcrevo a ementa do RE 168.019/SP, Rel. Min. Ilmar Galvão:
+“EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CÁLCULO COMPLEMENTAR. Indispensabilidade de expedição de precatório, a ser processado na forma prevista no art. 100 e parágrafos, da Constituição, não havendo cabimento para notificação, ao Poder Público, no sentido de que promova a complementação do pagamento em prazo assinado pelo Juiz. Recurso extraordinário conhecido e provido”.
+No mesmo sentido, cito, entre outras, as seguintes decisões: ADI 2.924/SP, Rel. Min. Carlos Velloso; RE 543.604-AgR/SP, Rel. Min. Cármen Lúcia; AI 495.193-AgR/SP e AI 495.536-ED/SP, Rel. Min. Joaquim Barbosa; AI 534.539-AgR/SP, Rel. Min. Gilmar Mendes.
+Isso posto, conheço em parte do recurso extraordinário e, nessa parte, dou-lhe provimento (CPC, art. 557, § 1º-A), apenas para que o pagamento do saldo remanescente seja efetuado mediante a expedição de novo precatório, com a devida citação da Fazenda Pública.
+Publique-se.
+Brasília, 16 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
