@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“Apelação Cível. Ação de Obrigação de Fazer. Pensionista de ex-servidor. Fiscal de Renda. Lei Estadual 3189/99. Recebimento de pensão equivalente a 80% dos ganhos do fiscal de renda que foi resguardada a todos aqueles que já tinham incorporado em seu patrimônio jurídico. Falecimento do ex-servidor em março de 1998. inércia da apelante em pleitar a aludida pensão, que jamais recebera, o que acarreta a prescrição do próprio fundo de direito. Superveniência da prescrição. Decretação de ofício. Possibilidade. Inteligência do artigo 219, §5º, do Código de Processo Civil. Recurso a que se nega seguimento” (fl. 201).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXVI, da mesma Carta.
+O agravo não merece acolhida. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ainda que superado tal óbice, o recurso não prosperaria. É que a apreciação dos temas constitucionais demanda o prévio exame de normas infraconstitucionais locais (Lei Estadual 69/90 e 3.189/99), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Nesse sentido menciono as seguintes decisões:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENSÃO ESPECIAL. LEI COMPLEMENTAR 69/90. LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280-STF. Questão apreciada à luz de legislação de direito local, circunstância impeditiva a apreciação do extraordinário. Súmula 280-STF. Precedentes. Agravo regimental a que se nega provimento” (AI 446.553 -AgR/RJ, Rel. Min. Eros Grau).
+“AGRAVO REGIMENTAL. ESTADO DO RIO DE JANEIRO. VIÚVA DE FISCAL DE RENDA DO ESTADO. PENSÃO ESPECIAL. LEI COMPLEMENTAR ESTADUAL N.69/90, ARTS. 118 E 119. FONTE DE CUSTEIO. 1. Ausência de prequestionamento da questão referente ao art. 63, I da CF/88. 2. Exame de eventual negativa de vigência a normas locais. Incidência da Súmula STF n.º 280. Agravo regimental improvido” (RE 307.949-AgR/RJ, Rel. Min. Ellen Gracie).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 16 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
