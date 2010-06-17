@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido porta a seguinte ementa:
+“AÇÃO DE COBRANÇA – ADMINISTRATIVO – SERVIDOR PÚBLICO – PRESCRIÇÃO – FUNDO DE DIREITO – DEC. Nº 20.910/32 - - CERCEAMENTO DE DEFESA – INOCORRÊNCIA – ADICIONAL – PREENCHIMENTO DO REQUISITO LEGAL – TEMPO DE EFETIVO EXERCÍCIO – SENTENÇA MANTIDA.
+(...)” (fl. 70).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, LV, e 100 da mesma Carta.
+O agravo não merece acolhida.
+Ressalte-se, à princípio que o artigo 100 da Constituição não foi devidamente prequestionado. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Além disso, o Supremo Tribunal tem decidido no sentido de que o indeferimento de diligência probatória, tida por desnecessária pelo juízo a quo, não viola os princípios do contraditório e da ampla defesa. Nesse sentido, confiram-se os seguintes julgados de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INDEFERIMENTO DE PRODUÇÃO DE PROVAS. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configuram ofensa constitucional indireta.” (AI 777.256-AgR/CE, Rel. Min. Cármen Lúcia, Primeira Turma).
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA E CONTRADITÓRIO. LEGISLAÇÃO INFRACONSTITUCIONAL. CF/88, ART. 5º, LV. SÚMULA STF 279. OFENSA CONSTITUCIONAL INDIRETA. 1. A ofensa à Constituição Federal por cerceamento de defesa, em razão de negativa de produção de provas, depende de análise da legislação infraconstitucional, cujo reexame é inviável em sede extraordinária. 2. Decidir de maneira diferente do que deliberado pelo tribunal a quo demandaria o reexame de fatos e provas da causa. Incidência da Súmula STF 279. 3. A jurisprudência desta Corte não admite, em recurso extraordinário, alegação de ofensa indireta à Constituição Federal (CF, art. 5º, LV). 4. Agravo regimental improvido.” (AI 656.624-AgR/GO, Rel. Min. Ellen Gracie, Segunda Turma).
+Por fim, para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Lei Municipal 1.602/86), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF (AI 763.789/MG, Rel. Min. Marco Aurélio).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 17 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
