@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido entendeu que a ora agravada, pensionista, fazia jus à percepção da totalidade dos vencimentos se, vivo e na ativa, estivesse o servidor falecido.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 40, §§ 7º e 8º, da mesma Carta.
+O agravo não merece acolhida. Isso porque, a discussão acerca da natureza assistencial da pensão deferida à ora agravada depende da análise da legislação local aplicável à espécie (Lei Estadual 552/1949). Assim, a afronta à Constituição, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incidem, no caso, a Súmula 280 do STF. Nesse sentido, cito precedentes de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. BENEFÍCIO INSTITUÍDO PELA LEI ESTADUAL Nº 552/49. NATUREZA ASSISTENCIAL. AUXÍLIO FIXADO EM VALOR CERTO E PRESTADO PELO ESTADO A DEPENDENTE DE SERVIDOR ESTADUAL FALECIDO (OFICIAL DE REGISTRO PÚBLICO) NÃO-SEGURADO DA PREVIDÊNCIA. REVISÃO. OFENSA INDIRETA À CONSTITUIÇÃO. INCIDÊNCIA DA SÚMULA 280 DO STF. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. Agravo desprovido” (AI 533.409-AgR/MG, Rel. Min. Carlos Britto, Primeira Turma).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO RESCISÓRIA. CABIMENTO. MATÉRIA AFETA À NORMA INFRACONSTITUCIONAL. 1. A definição do instituto da coisa julgada coube ao legislador ordinário, bem assim as hipóteses em que se admite a sua rescisão. 2. Benefício assistencial instituído pela Lei n. 552/49. Inviabilidade do recurso extraordinário. Reexame de legislação local [Súmula n. 280-STF]. Precedentes. Agravo regimental a que se nega provimento” (RE 596.231-AgR/MG, Rel. Min. Eros Grau, Segunda Turma).
+Seguindo essa linha de entendimento, menciono, ainda, os seguintes julgados: RE 547.277-AgR/MG, Rel. Min. Eros Grau; AI 645.141-AgR/MG, Rel. Min. Marco Aurélio; AI 652.391-AgR/MG e AI 786.706/MG, de minha relatoria, AI 603.030-AgR/MG, Rel. Min. Sepúlveda Pertence.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 17 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+   - Relator –
