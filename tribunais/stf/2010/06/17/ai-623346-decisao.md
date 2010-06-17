@@ -1,0 +1,17 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo de instrumento foi interposto contra acórdão, que, proferido, em sede de Representação de Inconstitucionalidade, pelo Órgão Especial do E. Tribunal de Justiça do Estado do Rio de Janeiro, está assim ementado (fls. 37):
+“REPRESENTAÇÃO POR INCONSTITUCIONALIDADE DA LEI Nº 3.699/03 DO MUNICÍPIO DO RIO DE JANEIRO
+Representação formulada pelo Prefeito do Município do Rio de Janeiro, por Inconstitucionalidade da Lei Municipal nº 3.699, de 11 de dezembro de 2003, que ‘proíbe a exigência de fotografia em ‘curriculum vitae’ por parte das empresas sediadas no Município do Rio de Janeiro’.
+Viola norma constitucional a lei municipal que, ultrapassando a competência outorgada pela Constituição Federal e pela Constituição Estadual aos Municípios, disciplina matéria cujo interesse não é apenas local, nem se enquadra na sua competência suplementar.
+Procedência da Representação, para declarar a inconstitucionalidade total da Lei nº 3.699, de 11 de dezembro de 2003, do Município de Rio de Janeiro.”
+A Câmara Municipal do Rio de Janeiro, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no artigo 30, I e II, da Constituição Federal.
+A análise dos autos evidencia que o acórdão mencionado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na apreciação da controvérsia em causa.
+Com efeito, o Plenário do Supremo Tribunal Federal, ao julgar a ADI 2.487/SC, Rel. Min. JOAQUIM BARBOSA, fixou entendimento que desautoriza a pretensão ora deduzida pela parte recorrente:
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI 11.562/2000 DO ESTADO DE SANTA CATARINA. MERCADO DE TRABALHO. DISCRIMINAÇÃO CONTRA A MULHER. COMPETÊNCIA DA UNIÃO PARA LEGISLAR SOBRE DIREITO DO TRABALHO. AÇÃO DIRETA JULGADA PROCEDENTE.
+A lei 11.562/2000, não obstante o louvável conteúdo material de combate à discriminação contra a mulher no mercado de trabalho, incide em inconstitucionalidade formal, por invadir a competência da União para legislar sobre direito do trabalho.
+Ação direta julgada procedente.”
+Cabe registrar, finalmente, tratando-se da hipótese prevista no art. 125, § 2º, da Constituição da República, que o provimento e o improvimento de recursos extraordinários interpostos contra acórdãos proferidos por Tribunais de Justiça em sede de fiscalização normativa abstrata têm sido veiculados em decisões monocráticas emanadas dos Ministros Relatores da causa no Supremo Tribunal Federal, desde que, tal como sucede na espécie, o litígio constitucional já tenha sido definido pela jurisprudência prevalecente no âmbito deste Tribunal (RE 243.975/RS, Rel. Min. ELLEN GRACIE - RE 334.868-AgR/RJ, Rel. Min. AYRES BRITTO – RE 336.267/SP, Rel. Min. AYRES BRITTO – RE 353.350-AgR/ES, Rel. Min. CARLOS VELLOSO – RE 369.425/RS, Rel. Min. MOREIRA ALVES – RE 371.887/SP, Rel. Min. CÁRMEN LÚCIA – RE 396.541/RS, Rel. Min.  CARLOS VELLOSO - RE 415.517/SP, Rel. Min. CEZAR PELUSO – RE 421.271-AgR/RJ, Rel. Min. GILMAR MENDES – RE 444.565/RS, Rel. Min. GILMAR MENDES - RE 461.217/SC, Rel. Min. EROS GRAU – RE 501.913/MG, Rel. Min. MENEZES DIREITO – RE 592.477/SP, Rel. Min. RICARDO LEWANDOWSKI – RE 601.206/SP, Rel. Min. EROS GRAU, v.g.).
+Sendo assim, e pelas razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+Publique-se.
+Brasília, 17 de junho de 2010.
+Ministro CELSO DE MELLO
+Relator
