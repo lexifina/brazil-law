@@ -1,0 +1,12 @@
+DECISÃO: A parte ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+Cumpre assinalar, desde logo, que não se revela cabível proceder, em sede recursal extraordinária, a indagações de caráter eminentemente probatório, especialmente quando se busca discutir elementos fáticos subjacentes à causa penal.
+No caso, a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame de fatos e de provas, o que não se admite na sede excepcional do apelo extremo.
+Essa pretensão sofre as restrições inerentes ao recurso extraordinário, em cujo âmbito não se reexaminam fatos e provas, circunstância essa que faz incidir, na espécie, a Súmula 279 do Supremo Tribunal Federal.
+Não custa enfatizar, consoante adverte o magistério da doutrina (ADA PELLEGRINI GRINOVER, ANTONIO MAGALHÃES GOMES FILHO e ANTONIO SCARANCE FERNANDES, “Recursos no Processo Penal”, p. 269/270, item n. 176, 1996, RT), que o reexame dos fatos e das provas constitui tema estranho ao âmbito de atuação do recurso extraordinário (Súmula 279/STF), ainda que se cuide de matéria de índole penal.
+Impende ressaltar, de outro lado, no que se refere à alegada transgressão ao postulado constitucional que impõe, ao Poder Judiciário, o dever de motivar suas decisões (CF, art. 93, IX), que o acórdão emanado do Tribunal “a quo”, ao contrário do que sustenta a parte ora recorrente, encontra-se extensamente fundamentado, satisfazendo-se, desse modo, por inteiro, a exigência de motivação imposta por aquele preceito da Constituição da República.
+É preciso ter presente, ainda no tocante à alegada ausência de motivação da decisão recorrida, que a jurisprudência firmada pelo Supremo Tribunal Federal (RTJ 170/627-628, Rel. Min. CELSO DE MELLO, v.g.) orienta-se no sentido de que “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada. Não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RTJ 150/269, Rel. Min. SEPÚLVEDA PERTENCE - grifei).
+Sendo assim, e pelas razões expostas, não conheço do presente recurso extraordinário.
+Publique-se.
+Brasília, 17 de junho de 2010.
+Ministro CELSO DE MELLO
+Relator
