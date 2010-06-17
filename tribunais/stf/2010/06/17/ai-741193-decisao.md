@@ -1,0 +1,27 @@
+D ECIS Ã O:
+Vistos
+Trata-se de agravo de instrumento interposto pelo Município de Curitiba contra decisão que não admitiu recurso extraordinário.
+O acórdão do Tribunal de Justiça do Estado do Paraná restou assim ementado:
+“APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. COBRANÇA DE IPEU. PROCEDÊNCIA DOS EMBARGOS. RECONHECIMENTO DA IMUNIDADE TRIBUTÁRIA. ENTIDADE DE ENSINO SEM FINS LUCRATIVOS. CF, ART. 150, VI, “C”. PROVA EMPRESTADA. PERÍCIA REALIZADA EM OUTRO PROCESSO. ADMISSIBILIDADE. PROVA QUE TINHA O MESMO OBJETO (COMPROVAÇÃO DOS REQUISITOS EXIGIDOS PARA O RECONHECIMENTO DA IMUNIDADE TRIBUTÁRIA), PRODUZIDA EM PROCESSO DE QUE PARTICIPARAM AMBAS AS PARTES. POSSIBILIDADE DE AMPLO CONTRADITÓRIO POR PART DAQULE CONTRA QUEM SE UTILIZA A PROVA EMPRESTADA. AUSÊNCIA DE PREVISÃO NA LEGISLAÇÃO TRIBUTÁRIA. DESNECESSIDADE. É A LEGISLAÇÃO PROCESSUAL QUE FAZ A PREVISÃO DOS MEIOS DE PROVA. CPC, ART. 332. TODOS OS MEIOS LEGAIS, BEM COMOOS MORALMENTE LEGÍTIMOS, AINDA QUE NÃO ESPECIFICADOS NA LEI. INSTITUIÇÃO DE ENSINO SEM FINS LUCRATIVOS. PREENCHIMENTO, SEGUNDO O LAUDO PERICIAL, DE TODOS OS REQUISITOS PREVISTOS NO CTN, ART. 14. CONCLUSÕES DIVERSAS NO PROCESSO ADMINISTRATIVO MUNICIPAL. NÃO VINCULAÇÃO DO PODER JUDICIÁRIO À DECISÃO ADMINISTRATIVA. ART. 5º, XXXV. PROCEDIMENTO NÃO ISENTO DE PARCIALIDADE, DADO O INTERESSE ARRECADADOR DA AUTORIDADE MUNICIPAL. PROVA PRODUZIDA EM JUÍZO. IMPARCIALIDADE E PERITO IDÔNEO. MAIOR CREDIBILIDADE. ALEGAÇÃO DE DISTRIBUIÇÃO DISFARÇADA DE LUCROS E DESTINAÇÃO ALHEIA ÀS FINALIDADES DA INSTITUIÇÃO, PARA O IMÓVEL OBJETO DE TRIBUTAÇÃO. AUSÊNCIA DE PROVAS. ÔNUS DO EMBARGADO. FATOS MODIFICATIVOS DO DIREITO DA EMBARGANTE. CPC, ART. 333, II, SENTENÇA MANTIDA.
+Admite-se a utilização de prova emprestada, desde que colhida em outro processo com regular contraditório e com a participação da parte contra quem ela se destina. Seu fundamento legal encontra-se no CPC, art. 332, que considera como meio de prova, todos os legalmente admitidos, bem como os moralmente legítimos, ainda que não especificados em lei.
+O reconhecimento da imunidade tributária, prevista na CF, art. 150, VI, 'c', relativa às instituições de ensino sem fins lucrativos exige o preenchimento dos requisitos estabelecidos pelo CTN, art. 14.
+ Incumbe ao Fisco demonstrar, objetivamente, e comprovar as alegações de que a entidade promove a distribuição disfarçada de lucros e de que dá ao imóvel objeto de tributação destinação alheia à suas finalidades institucionais, violando o § 4º, do art. 150, da CF.” (fls. 18/19)
+Contrarrazões às fls. 46/56.
+Recurso extraordinário (fls. 30/43) não admitido (fls. 57/62).
+Decisão agravada (fl. 57/62)
+No recurso extraordinário fundado no art. 102, III, “a” da Constituição Federal a municipalidade alega contrariedade ao art. 150, VI, “c”, da Constituição Federal, sob o argumento de que a interpretação da imunidade que beneficia as entidades de assistência social deve ser interpretada restritivamente, nos termos do § 4º do referido dispositivo constitucional, não abrangendo a recorrida “empresa exploradora da atividade de prestação de serviços de ensino”.
+Aduz, ainda, que “todos os elementos dos autos, todas as alegações e todas as provas, deveriam ter sido analisados no contexto da lide, não apenas, por óbvio, o laudo pericial.”, inclusive quanto à destinação do imóvel.
+Decido.
+O agravo não merece prosperar.
+Quanto à alegada afronta ao art. 150, inciso VI, “a” e § 4º, da Carta Magna, observo que a jurisprudência desta Corte é pacífica no sentido de que a imunidade contida no referido dispositivo constitucional deve abranger os imóveis relacionados com a sua finalidade e funcionamento, como exemplificam os julgados a seguir transcritos:
+CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IPTU. IMUNIDADE. ENTIDADE DE ASSISTÊNCIA SOCIAL. FUNCIONAMENTO E FINALIDADES ESSENCIAIS DA ENTIDADE. SÚMULA 279 DO STF. AGRAVO REGIMENTAL IMPROVIDO. I - A imunidade prevista na Constituição que tem como destinatárias as entidades de assistência social e de ensino deve abranger os imóveis relacionados com a sua finalidade e funcionamento. Precedentes da Corte. II - Para dissentir da conclusão a que chegou o acórdão quanto à finalidade das verbas auferidas pela entidade assistencial, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Agravo regimental a que se nega provimento.
+(RE 236.174/SP, Relator o Ministro Menezes Direito, DJe 24/10/08)
+Agravo regimental em recurso extraordinário. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Decisão em consonância com a jurisprudência desta Corte. Imunidade tributária. Vedação de instituição de impostos sobre o patrimônio, renda e serviços relacionados com as finalidades essenciais das entidades. Artigo 150, VI, 'c' e § 4o, da Constituição. Entidade de assistência social. IPTU. Lote vago. Precedente. 4. agravo regimental a que se nega provimento.
+RE 357.175/MG – AgR, Relator o Ministro Gilmar Mendes, DJe 14/11/07.
+Por outro lado, o acórdão recorrido decidiu fundamentadamente que a ora recorrida preenche os requisitos previstos no art. 14, CTN. Dispor em sentido contrário pressupõe o reexame do conjunto fático-probatório, o que esbarra nos ditames da Súmula 279 do STF.
+Diante do exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 17 de junho de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
