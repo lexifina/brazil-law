@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+Cuida-se de ação rescisória proposta pela UNIÃO em face da empresa TRANSPORTES SENTINELA LTDA, visando a rescisão de acórdão proferido no Recurso Extraordinário nº 169.050/RS pela Segunda Turma do Supremo Tribunal Federal, assim ementado:
+“CONTRIBUIÇÃO SOCIAL – PARÂMETROS – NORMAS DE REGÊNCIA – FINSOCIAL BALIZAMENTO TEMPORAL. A teor do disposto no artigo 195 da Constituição Federal, incumbe à sociedade, como um todo, financiar, de forma direta e indireta, nos termos da lei, a seguridade social, atribuindo-se aos empregadores a participação mediante bases de incidência próprias – folha de salários, o faturamento e o lucro. Em norma de natureza constitucional transitória, emprestou-se ao FINSOCIAL característica de contribuição, jungindo-se a imperatividade das regras insertas no Decreto-Lei nº 1940/82, com as alterações ocorridas até a promulgação da Carta de 1988, ao espaço de tempo relativo à edição da lei prevista no referido artigo. Conflita com as disposições constitucionais – artigos 195 do corpo permanente da Carta e 56 do Ato das Disposições Constitucionais Transitórias – preceito de lei que, a título de viabilizar o texto constitucional, toma de empréstimo, por simples remissão, a disciplina do FINSOCIAL. Incompatibilidade manifesta do artigo 9º da Lei nº 7689/88 com o Diploma Fundamental, no que descrepa do contexto constitucional.
+O FINSOCIAL , tal como previsto no Decreto-Lei nº 1.940/82, vigorou, por força do artigo 56 do Ato das Disposições Constitucionais Transitórias, até a edição da Lei Complementar nº 70, de dezembro de 1991” (fl. 131).
+Seguiram-se embargos de declaração da autora, recebidos em parte pela Turma para fins de esclarecimento; embargos de divergência distribuídos ao Ministro Moreira Alves, que foram inadmitidos; e agravo regimental dessa decisão, cujo provimento foi negado, conforme aresto de folhas 149.
+Devidamente citada, a requerida sustenta, em sede de contestação (fls. 202/214), preliminar de extinção da ação por impossibilidade jurídica do pedido, defendendo, no mérito, a improcedência, ante a vedação contida na Súmula nº 343 do STF.
+Razões finais da UNIÂO às folhas 236/250.
+Parecer ministerial pela improcedência da ação rescisória (fls. 252/256).
+É o relatório.
+A certidão processual expedida pela Secretaria deste Tribunal (fl. 151) dá conta que a última decisão proferida nos autos do Recurso Extraordinário nº 158.940/PE transitou em julgado em 12/8/96 (segunda-feira). Iniciou-se, portanto, nesse mesmo dia o prazo bienal de decadência da ação rescisória, cujo término ocorreu no dia 12/8/98 (quarta-feira), nos termos do art. 132, § 3º do Código Civil, segundo o qual “Os prazos de meses e anos expiram no dia de igual número do de início, ou no imediato, se faltar exata correspondência”.
+Verifico, então, que a ação foi proposta de forma intempestiva em 13 de agosto de 1998, desrespeitando o prazo bienal de decadência, previsto no artigo 495 do Código de Processo Civil.
+Conforme entendimento jurisprudencial assentado nesta Corte, o interregno decadencial para o ajuizamento desta espécie de demanda não se suspende, nem se interrompe, sendo incluído, ademais, na contagem do prazo o dia do trânsito em julgado. Confira-se:
+“EMENTA: AÇÃO RESCISÓRIA. Decadência. Consumação. Contagem do prazo. Inclusão do dia do começo. Pronúncia, a despeito de tê-la afastado decisão de saneamento. Admissibilidade. Matéria de ordem pública. Cognição de ofício a qualquer tempo. Não ocorrência de preclusão pro iudicato. Processo extinto, com julgamento de mérito. Inteligência do art. 132, caput e § 3º, do CC, dos arts. 184 e 495 do CPC e do art. 1º da Lei federal nº 810/49. Precedentes. O prazo decadencial para propositura de ação rescisória começa a correr da data do trânsito em julgado da sentença rescindenda, incluindo-se-lhe no cômputo o dia do começo, e sua consumação deve pronunciada de ofício a qualquer tempo, ainda quando a tenha afastado, sem recurso, decisão anterior” (AR nº 1.412/SC, Tribunal Pleno, Relator o Ministro Cezar Peluso, DJe de 26/6/09, grifos nossos).
+“AÇÃO RESCISÓRIA. PRAZO DECADENCIAL DE 02 (DOIS) ANOS. DIREITO MATERIAL. NÃO INCIDÊNCIA DA NORMA QUE PRORROGA O TERMO FINAL DO PRAZO AO PRIMEIRO DIA ÚTIL POSTERIOR.
+1. Por se tratar de decadência, o prazo de propositura da ação rescisória estabelecido no art. 495 do CPC não se suspende, não se interrrompe, nem se dilata (RE 114.920, rel. Min. Carlos Madeira, DJ 02.09.1988), mesmo quando o termo final recaia em sábado ou domingo.
+2. Prazo de direito material. Não incidência da norma que prorroga o termo final do prazo ao primeiro dia útil posterior, pois referente apenas a prazos de direito processual.
+3. Recurso improvido” (AR nº 2.001/SP-AgR, Tribunal Pleno, Relatora a  Ministra Ellen Gracie, DJe de 27/3/09, grifos nossos).
+Ante o exposto, julgo extinta a ação rescisória, com resolução de mérito, pronunciando a decadência da ação, nos termos dos artigos 269, IV, e 329, ambos do Código de Processo Civil.
+Condeno a requerente em honorários advocatícios, que fixo em R$ 1.000,00 (mil reais), na forma do artigo 20, § 4º, do Código de Processo Civil. Custas na forma da lei.
+Publique-se.
+Intime-se.
+Brasília, 18 de junho de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
