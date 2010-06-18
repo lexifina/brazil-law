@@ -1,0 +1,11 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro. Acórdão assim ementado (fls. 22):
+“Administrativo. Policial militar. Reforma por invalidez. Gratificação por tempo de serviço. Impossibilidade de a legislação estadual admitir contagem ficta após a Emenda Constitucional n.º 20. Inconstitucionalidade do artigo 4º, da Lei Estadual 4024, reconhecida pelo Órgão Especial deste Tribunal de Justiça. Apelação desprovida.
+2. Pois bem, a parte recorrente aponta violação aos incisos II e III do § 4º do art. 40 da Magna Carta de 1988, na redação dada pela EC 47/05. Alega que a “inovação trazida pela emenda 47/2005 encerra toda e qualquer discussão sobre concessão de triênio integral para policial militar reformado por invalidez, vez que o apelante enquadra-se nos dois incisos acima citados”. Sustenta que o “art. 40 da CF/88 veda a adoção de critérios diferenciados para concessão de aposentadoria, mas de maneira inteligente trouxe suas exceções nos incisos já mencionados”. Conclui que não “há que se falar em contagem ficta de tempo, não restam dúvidas que a intenção do legislador foi a de compensar o policial, que durante muito tempo lutou para manter a ordem e a segurança pública, sendo este triênio integral concedido para compensá-lo pela incapacidade física que foi o motivo de sua reforma” (sic, fls. 29).
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Francisco Adalberto Nóbrega, opina pelo não-conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. Isso porque, para o deslinde da controvérsia, se faz necessário rever a interpretação dada pela Instância Judicante de origem ao art. 4º da Lei estadual 4.024. Lei que previa o pagamento de triênios a policial militar reformado por incapacidade. Logo, ofensa ao Magno Texto, se existente, apenas ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via recursal extraordinária, nos termos da Súmula 280 do Supremo Tribunal Federal.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento aos recursos.
+Publique-se.
+Brasília, 18 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
