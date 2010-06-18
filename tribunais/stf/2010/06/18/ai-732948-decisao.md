@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por violação aos arts. 2º, 5º, caput, 37, II, § 2º, da Constituição Federal, contra acórdão de mandado de segurança concedido, nos seguintes termos (fls. 126-130):
+“ MANDADO DE SEGURANÇA – CONCURSO PÚBLICO – PROVA DE TÍTULOS – PONTUAÇÃO MAJORADA – ADEQUAÇÃO AO EDITAL . Estando devidamente comprovado que os títulos apresentados estão de acordo com as regras do edital, deve ser majorada a nota da impetrante consoante os comandos da lei regente do certame público. Decisão unânime, de acordo com o parecer ministerial superior”.
+2.  O Tribunal de origem assentou que, além de faltar fundamentação adequada, rever a decisão impugnada esbarra no óbice da Súmula STF 279 (fls. 173-174).
+3.  O recurso não merece prosperar. Preliminarmente, os dispositivos constitucionais apontados como violados não foram debatidos na instância de origem, e são inviáveis os embargos de declaração opostos para fins de prequestionamento quando a questão constitucional não tiver sido ventilada no recurso interposto perante o Tribunal a quo. Falta-lhe, pois, o necessário prequestionamento, nos termos da Súmula STF 282. Nesse sentido: RE 449.137-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.o4.2008; AI 706.449-AgR/SC, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 07.11.2008; AI 631.711-AgR/BA; rel. Min. Ricardo Lewandowski; 1ª Turma, unânime, DJe 21.11.2008; AI 663.687- AgR/DF, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 20.02.2009, este último assim ementado:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO SUPREMO TRIBUNAL FEDERAL. CABIMENTO DE MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+1.  O cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria constitucional, o que ocorre em momento processualmente adequado, nos termos da legislação vigente. A inovação da matéria em sede de embargos de declaração é juridicamente inaceitável para os fins de comprovação de prequestionamento.
+2.  Admissibilidade de mandado de segurança: impossibilidade da análise da legislação infraconstitucional. Ofensa constitucional indireta.
+3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil”.
+4.  Ademais, mesmo que superado o óbice, para se concluir de forma diversa, seria imprescindível o reexame da matéria fática dos autos e a interpretação do edital do concurso público em tela, o que inviabiliza o trânsito do recurso, dada a incidência da Súmula STF 279. Nesse sentido cito o AI 550.004- AgR/MG, Rel. Min. Sepúlveda Pertence, DJ 16.09.2005.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 18 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
