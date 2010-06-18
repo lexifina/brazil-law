@@ -1,0 +1,14 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“APELAÇÃO CÍVEL. SERVIDOR PÚBLICO EFETIVO. PROGRESSÃO NA CARREIRA. DIFERENÇA DE VENCIMENTOS. REQUISITOS. PREENCHIMENTO. COMPROVAÇÃO. O DECRETO N. 36.033/94, AO REGULAMENTAR A LEGISLAÇÃO ORIGINÁRIA (LEI N. 10.961/92), PREVIU OS REQUISITOS PARA SE ALCANÇAR PROGRESSÃO SALARIAL, SENDO PREENCHIDOS OS REQUISITOS, OS SERVIDORES FAZEM JUS À PROGRESSÃO E AO RECEBIMENTO DAS DIFERENÇAS REMUNERATÓRIAS DECORRENTES. NÃO OBSTA A PROGRESSÃO O FATO DE SEREM DETENTORES DE FUNÇÃO PÚBLICA, EFETIVADOS POR NORMAS ESTADUAIS, VEZ QUE HÁ PREVISÃO EXPRESSA DE LEI CONFERINDO-LHES O DIREITO.
+(...)” (fl. 74).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, caput, II, da mesma Carta.
+O agravo não merece acolhida. É que para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Lei 10.961/92 e Decreto Estadual 36.033/94), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 576.454/MG, Rel. Min. Marco Aurélio; AI 561.715/MG, Rel. Min. Joaquim Barbosa; AI 549.594/MG, Rel. Min. Cezar Peluso.
+Além disso, para dissentir do acórdão quanto à classificação dos servidores para fins de progressão na carreira, faz-se necessário o reexame do conjunto fático-probatório dos autos, o que inviabiliza o recurso extraordinário, a teor da Súmula 279 do STF. Nesse sentido:
+“AGRAVO REGIMENTAL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VENCIMENTOS. DECRETOS ESTADUAIS 36.033/1994 E 36.829/1995. INTERPRETAÇÃO DE DIREITO LOCAL. ÓBICE DA SÚMULA 280 DO STF. O Tribunal a quo decidiu a questão em debate com base na interpretação dada aos Decretos estaduais 36.033/1994 e 36.585/1994. Assim, para se chegar a conclusão diversa, seria necessária a análise de normas locais, o que não é permitido em recurso extraordinário, à luz da Súmula 280 desta Corte. Agravo regimental a que se nega provimento” (AI 559.401-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 6.3.2009 – grifos nossos).
+Além disso, o Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Por fim, observa-se que, com a negativa de provimento ao recurso especial pelo Superior Tribunal de Justiça (Ag 1.236.310/MG, com trânsito em julgado em 11/5/2010), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido, o que inviabiliza o recurso extraordinário, a teor da Súmula 283 do STF.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 18 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
