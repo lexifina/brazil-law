@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Joanir Serafim Weirich interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 201, § 4º, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Primeira Turma Recursal dos Juizados Especiais Cíveis e Criminais do Tribunal de Justiça do Distrito Federal, assim ementado:
+“PREVIDÊNCIA PRIVADA. PLANO DE BENEFÍCIOS. OBSERVÂNCIA PELA CAIXA DE PREVIDÊNCIA. INEXISTÊNCIA DE ILICITUDE. RECURSO IMPROVIDO.
+Se o Plano de Benefícios da entidade de previdência privada prevê que os reajustamentos procedidos pela Previdência Oficial nas aposentadorias e pensões importarão revisão automática da complementação de aposentadoria a que se obrigou a entidade, não se pode acoimar de ilícita a adequação que procede a recorrida nos benefícios. Ilícito praticará a entidade de previdência e em detrimento de todos os demais participantes dos planos que mantém, se não fizer os ajustes necessários para o atendimento das complementações que são devidas a seus participantes. Recurso improvido” (fl. 273).
+Opostos embargos de declaração (fls. 280 a 283), foram rejeitados (fls. 285 a 287).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, ão é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece prosperar.
+O Tribunal local, para decidir acerca da possibilidade de revisão dos valores da complementação de aposentadoria do agravante, decidiu amparado na legislação infraconstitucional pertinente e nas cláusulas do contrato celebrado entre as partes. Assim, a análise da questão suscitada pelo agravante encontra óbice nas Súmulas nºs 280 e 454 desta Corte. Nessa linha, anote-se:
+“AGRAVO DE INSTRUMENTO - COMPLEMENTAÇÃO DE APOSENTADORIA E/OU PENSÃO - ENTIDADE DE PREVIDÊNCIA PRIVADA - ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL - SÚMULA 454/STF - RECURSO DE AGRAVO IMPROVIDO. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária. - A análise de pretensão jurídica, quando dependente de interpretação de cláusulas inscritas em contrato de previdência privada (Súmula 454/STF), revela-se processualmente inviável em sede de recurso extraordinário, pois, em referido tema, a decisão emanada do Tribunal recorrido reveste-se de inteira soberania. Precedentes.” (AI nº 671.660/RJ- AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 24/4/09).
+Nesse sentido, também, as recentes decisões monocráticas: AI nº 790.533/RS, Relatora a Ministra Cármen Lúcia, DJ de 15/4/10; RE nº 596.535/SC ,Relatora a Ministra Cármen Lúcia, DJ de 10/06/10; AI 798.993/RJ, Relator o Ministro Ricardo Lewandowski, DJ de 26/5/10.
+Nego provimento ao agravo,
+Publique-se.
+Brasília, 18 de junho de 2010.
+Ministro DIAS TOFFOLI
+Relator
