@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+Banco BMG S.A. interpõe recurso extraordinário com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Turma Recursal do Juizado Especial Cível de Cataguases, que confirmou “a sentença por seus próprios fundamentos”. A referida sentença está assim fundamentada:
+“Os valores descontados devem ser restituídos em dobro, já que o requerido foi devidamente informado quanto à devolução do dinheiro, que foi efetivamente depositado em sua conta pelo Banco Itaú e, ainda assim, insistiu nos descontos, causando grande prejuízo para a requerente, que recebe pequena quantia a título de benefício previdenciário. Restou configurada a cobrança indevida, aplicando-se ao caso o disposto no artigo 42, parágrafo único da Lei 8078/90” (fl. 89).
+Alega o recorrente violação dos artigos 5º, inciso XXXVI, e 93, inciso IX, da Constituição Federal, uma vez que “(...) o empréstimo solicitado pela Recorrida foi devidamente liberado e sacado pela Recorrida, via Ordem de Pagamento, no Banco Itaú, demonstrando assim a boa-fé do Banco Recorrente, eis que disponibilizou os valores contratados (sacados pela Recorrida)” (fl. 120).
+Sustenta o recorrente, também, que “(...) o ato de celebração contratual praticado entre as partes, tornou-se um ato jurídico perfeito, não sendo passível, pois, de declaração de nulidade, porquanto presentes todos os requisitos de validade” (fl. 120).
+Contra-arrazoado (fls. 130 a 132), o recurso extraordinário (fls. 116 a 125) foi admitido (fl. 133).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, ão é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Ressalte-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então agravante, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ 18/5/01).
+Não merece prosperar a alegação de contrariedade ao artigo 5º, inciso XXXVI, da Constituição Federal, haja vista que, se houvesse, seria indireta ou reflexa, pressupondo o prévio exame de legislação infraconstitucional, o que não enseja reexame na via do recurso extraordinário. Ademais, a garantia constitucional do ato jurídico perfeito não elide a possibilidade da revisão judicial do contrato para coibir o enriquecimento sem causa. Nesse sentido, anote-se:
+“1. Recurso extraordinário: descabimento: dispositivos constitucionais dados por violados não analisados pelo acórdão recorrido nem objeto de embargos de declaração: incidência das Súmulas 282 e 356.
+2. Recurso extraordinário: inadmissibilidade: controvérsia decidida à luz de legislação infraconstitucional: alegada violação dos dispositivos constitucionais invocados que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636.
+3. A garantia constitucional do ato jurídico perfeito não exclui a possibilidade de revisão judicial do contrato para coibir o enriquecimento sem causa” (AI 587.727-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 20/10/06).
+“CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. REEXAME DE PROVA. SÚMULA 279-STF.
+I. - O acórdão assenta-se na prova, que não se examina em recurso extraordinário (Súmula 279-STF).
+II. - A verificação, no caso concreto, da ocorrência, ou não, de violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada situa-se no campo infraconstitucional.
+III. - Agravo não provido” (AI 496.468-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 22/10/04).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 18 de junho de 2010.
+Ministro DIAS TOFFOLI
+Relator
