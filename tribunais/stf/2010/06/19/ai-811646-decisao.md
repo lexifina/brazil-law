@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário por entender que é indevida a devolução dos valores recebidos pelo beneficiário em razão da revogação da tutela antecipatória, haja vista estarem revestidos pelo caráter alimentar. O julgado restou assim ementado:
+“AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. VERBAS RECEBIDAS INDEVIDAMENTE A TÍTULO DE ANTECIPAÇÃO DA TUTELA. IRREPETIBILIDADE.
+Conforme entendimento dos Egrégios Tribunais Pátrios, as prestações alimentícias, onde incluídos os benefícios previdenciários, percebidas em virtude de decisão judicial, de boa-fé, não estão sujeitas a repetição” (fl. 77).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, 37, 97, e 105, III, da mesma Carta.
+O agravo não merece acolhida. É que este Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva o reexame de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Outrossim, quanto ao art. 97 da Constituição, verifico que não há violação ao princípio da reserva de plenário, porquanto o acórdão recorrido não declarou a inconstitucionalidade ou afastou a incidência das normas contidas no art. 115 da Lei n. 8.213/91 e no art. 475-O do Código de Processo Civil. O Tribunal a quo limitou-se a examinar a lei infraconstitucional aplicável à espécie (Lei 8.213/1991), para concluir que não é cabível a devolução de valores recebidos pelo segurado, considerando a natureza alimentar dos benefícios previdenciários, e ainda, pelos valores terem sido recebidos com boa-fé. A discussão, portanto, restringe-se ao âmbito da legislação infraconstitucional, a cujo exame não se presta o recurso extraordinário. Nesse sentido, trago à colação o decidido em caso análogo ao dos autos no AI 746.442-AgR/RS, Rel. Min. Cármen Lúcia, cuja ementa segue transcrita:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO E PREVIDENCIÁRIO. 1. DEVOLUÇÃO DE VALORES RECEBIDOS DE BOA-FÉ PELA PARTE BENEFICIÁRIA EM RAZÃO DE ANTECIPAÇÃO DE TUTELA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. 2. O JULGAMENTO PELA ILEGALIDADE DO PAGAMENTO DO BENEFÍCIO PREVIDENCIÁRIO NÃO IMPORTA NA OBRIGATORIEDADE DA DEVOLUÇÃO DAS IMPORTÂNCIAS RECEBIDAS DE BOA-FÉ. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 19 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
