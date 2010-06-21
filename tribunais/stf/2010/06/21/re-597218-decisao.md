@@ -1,0 +1,16 @@
+DECISÃO: O Tribunal Regional Federal da 4ª Região prolatou o seguinte acórdão:
+“CONCURSO PÚBLICO. DIREITO SUBJETIVO À NOMEAÇÃO EM RAZÃO DA CRIAÇÃO DE CARGOS POR LEI. INOCORRÊNCIA. OPORTUNIDADE E CONVENIÊNCIA.
+1. A aprovação em concurso público não gera direito subjetivo à nomeação, senão mera expectativa de direito. Manifestada, porém, de forma inequívoca, a necessidade, a conveniência e a intenção de provimento do cargo, no prazo de validade do certame, surge para o candidato classificado o direito à nomeação.
+2. Ainda que a Lei n. 10.842/2004 tenha criado novos cargos a serem preenchidos nas Zonas Eleitorais submetidas ao Tribunal Regional Eleitoral do Paraná, a só criação dos novos cargos não significa que a Administração tivesse que realizar, de imediato, o preenchimento destas vagas. A escolha quanto ao momento da nomeação de novos servidores se submete ao juízo de oportunidade e conveniência do órgão público.
+3. Apelo a que se nega provimento” [fl. 346].
+2.  Os recorrentes sustentam que o provimento judicial violou o disposto no artigo 37, IV, da Constituição do Brasil.
+3.  O Ministério Público Federal, em parecer subscrito pelo Subprocurador-Geral da República Wagner de Castro Mathias Netto, opina pelo desprovimento do recurso sob o fundamento de que, “na hipótese, verifica-se a nomeação de todos os candidatos aprovados no âmbito das vagas previstas no edital do concurso, bem como a ausência de classificação dos recorrentes dentro do número estipulado. Assim, considerando que a abertura do novo concurso, para preenchimento das 206 vagas criadas pela Lei nº 10.842/04, ocorreu somente após expirado o prazo de validade do anterior e não tendo sido demonstrada a nomeação de candidatos, com eventual inobservância à ordem classificatória, não há falar em direito líquido e certo à nomeação” [fls. 423-425].
+4.    Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+5.  O recurso não merece prosperar. A jurisprudência do Supremo fixou-se no sentido de que “[n]a interpretação da Súmula nº 15, desta Corte, o que se assegura ao concursado habilitado é o direito à nomeação, no prazo de validade do concurso, quando ele é preterido por candidato em situação inferior na ordem de classificação dos aprovados” Grifei [RMS n. 22.063, Relator o Ministro Maurício Corrêa, DJ de 7.12.95].
+6.  Ademais, para dissentir-se do acórdão impugnado, seria necessária a análise das cláusulas do edital do concurso, hipótese que esbarra no óbice da Súmula n. 454-STF.
+7.  Por fim, destaca-se que a questão posta nestes autos não se assemelha com a do recurso cuja repercussão geral fora reconhecida pelo Supremo, pois naquele caso a discussão a propósito do direito líquido e certo à nomeação de candidatos a concurso público ocorre quando são eles aprovados entre o número de vagas previsto no edital, hipótese não caracterizada nesta lide.
+ Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 21 de junho de 2010.
+Ministro Eros Grau
+- Relator -
