@@ -1,0 +1,18 @@
+1.  Trata-se de agravo regimental interposto de decisão que deu provimento ao recurso extraordinário em que se discute o reajuste de benefícios pagos por entidade de previdência privada tendo por parâmetro a evolução dos benefícios da Previdência Social.
+2.  Alega a parte agravante que o recurso extraordinário não seria cabível, uma vez que fundamentado em negativa de vigência de lei federal, hipótese não prevista no permissivo constitucional.
+ Afirma que, embora se vislumbre eventual violação ao art. 5º, XXXVI, da Constituição Federal, tal dispositivo carece do necessário prequestionamento, além de exigir a apreciação de legislação infraconstitucional.
+ Aponta, da mesma forma, que a decisão agravada utilizou como razões de decidir precedentes que não guardam relação com a matéria em causa.
+ Destaca que a regra inserta no art. 58 do ADCT é dirigida à Previdência Social e não ao sistema de previdência complementar, salvo se houvesse disposição expressa nesse sentido.
+ Ressalta, também, que o reajuste de suas suplementações, a se adotarem as conclusões da decisão agravada, demonstraria uma vinculação ao salário mínimo vedada pela Constituição Federal.
+3.  Instada a se manifestar (fl. 301), a parte agravada pugnou pelo desprovimento do agravo regimental interposto (fls. 304-305).
+4.  Assiste razão, em parte, à agravada. Verifico que, não obstante a jurisprudência sobre o tema, no mérito, desacolha sua pretensão, o recurso extraordinário não merece seguimento em razão da presença de óbices que impedem sua apreciação. Por essa razão, com fundamento no art. 557, § 1º, do CPC, reconsidero a decisão de fl. 384-385 e passo a julgar o recurso extraordinário de fls. 259-267.
+6.  Trata-se de recurso extraordinário tirado de acórdão no qual se discute o reajuste de benefícios pagos por entidade de previdência privada tendo por parâmetro a evolução dos benefícios da Previdência Social.
+7.  O recurso, entretanto, não merece prosperar. O acórdão recorrido ao julgar improcedente a ação rescisória, assim o fez levando em conta a legislação infraconstitucional e o regulamento de benefícios administrados pela parte recorrida, como se extrai de trecho do voto vencedor:
+“A Fundação Vale do Rio doce – VALIA – é uma entidade de previdência privada de caráter fechado, de participação facultativa, regida pelo regulamento próprio e legislação previdenciária. Os cálculos de suplementação de aposentadoria são efetivados conforme o art. 20, § 1º e 21, § 3º do Regulamento Básico” (fl. 178).
+ Havendo, portanto, fundamento que exige o exame de norma regulamentar, incide, no caso, o obstáculo da Súmula/STF 454. Este tem sido o entendimento do Supremo Tribunal Federal em inúmeras decisões que apreciaram idêntica controvérsia. Nesse sentido, o RE 287.749/ES, rel. Min. Carlos Britto, DJe 1º.02.2010; RE 183.886-AgR/RJ, rel. Min. Carlos Velloso, 2ª Turma, unânime, DJ 06.9.2002; AI 455.107-AgR-ED/RO, de minha relatoria, 2ª Turma, unânime, DJ 18.02.2005; e AI 671.796-AgR/ES, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 13.3.2009, este último assim ementado:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE APOSENTADORIA. ÍNDICES DE REAJUSTE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS DO REGULAMENTO DA ENTIDADE DE PREVIDÊNCIA. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+10.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 21 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
