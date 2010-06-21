@@ -1,0 +1,5 @@
+LEI Nº 7.159, DE 18 DE JUNHO DE 2010.
+
+INSTITUI A POLÍTICA ESTADUAL SOBRE ÁLCOOL E OUTRAS DROGAS, E ADOTA OUTRAS PROVIDÊNCIAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo do Estado de Alagoas decreta e eu sanciono a seguinte Lei:
