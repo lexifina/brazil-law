@@ -1,0 +1,31 @@
+D ECIS Ã O:
+Vistos.
+Materiais para Construção Alto do Mandaqui Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário fundado na alínea “a” do permissivo constitucional.
+Insurge-se no apelo extremo contra acórdão da Sexta Turma do Tribunal Regional Federal da 3º Região, assim ementado:
+“TRIBUTÁRIO - COMPENSAÇÃO - FINSOCIAL/COFINS - EMPRESAS MERCANTIS - POSSIBILIDADE – FINSOCIAL/PIS - IMPOSSIBILIDADE - CORREÇÃO MONETÁRIA – JUROS MORATÓRIOS.
+1. A inconstitucionalidade das majorações de alíquota do FINSOCIAL para as empresas mercantis, comerciais e mistas, excedentes do percentual de 0,6% no ano de 1988 e 0,5% a partir de 1989 foi reconhecida pelo C. Supremo Tribunal Federal (RE 150.764-1-PE).
+2. Nos casos de pagamento indevido ou a maior de tributos e contribuições federais, o contribuinte poderá compensar esses valores com débitos referentes a contribuições da mesma espécie. Inteligência do § 1º do art. 66 da lei n.º 8.383/91 c.c. o art. 170 do CTN.
+3. Possibilidade de compensação dos valores excedentes recolhidos a titulo de FINSOCIAL apenas com parcelas vincendas da COFINS, contribuição da mesma espécie e que apresenta a mesma destinação constitucional.
+4. Incabível, no entanto, com outras contribuições e impostos, por possuírem destinações constitucionais diversas. Inaplicáveis as disposições contidas na Lei nº 9.430/96, por ter sido editada com o escopo de alterar a legislação do Imposto de Renda, além de restringir-se à esfera administrativa.
+5. Correção monetária pelos mesmos índices utilizados pela Fazenda Nacional para a correção de seus créditos, conforme entendimento desta Turma. Precedentes.
+6. Incabíveis os juros moratórios em sede de compensação, em razão da não constituição em mora do devedor. Precedentes do C. Superior Tribunal de Justiça.
+7. Inaplicável o art. 39, § 4º, da Lei nº 9.250/95, seja para fator de juros, seja como critério de correção monetária.
+8. Ressalvado o direito da autoridade administrativa em proceder a plena fiscalização acerca da existência ou não de créditos a serem compensados, exatidão dos números e documentos comprobatórios, 'quantum' a compensar e conformidade do procedimento adotado com os termos da lei n.º 8.383/91” (fl. 174).
+Opostos embargos de declaração (fls. 178 a 181), foram rejeitados (fls. 182 a 186). Opostos novos embargos (fls. 190 a 194), igualmente restaram rejeitados (fls. 195 a 198).
+Observo que a ora recorrente também utilizou-se da via especial contra o entendimento emanado do Tribunal a quo, conforme se observa às folhas 202 a 232 dos presentes autos.
+Consultando o sistema processual do sítio do Superior Tribunal de Justiça na internet por meio do número de origem e pelo nome das partes, verifica-se que o referido recurso especial, autuado naquela Corte sob o número 760.883, foi parcialmente provido “para determinar a incidência dos índices de correção monetária que refletem a real inflação apurada em cada período, nos termos da fundamentação”.
+Decido.
+Anote-se, inicialmente, que o acórdão do secundo embargos de declaração foi publicado em 16/5/03, conforme expresso na certidão de folha 199, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Esta Corte possui entendimento pacífico no sentido de que as questões que envolvem o direito do contribuinte na compensação da contribuição para o FINSOCIAL recolhida a maior, possuem natureza infraconstitucional, o que não viabiliza o processamento do recurso extraordinário. A propósito, confiram-se os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CONTRIBUIÇÃO PARA O FINSOCIAL. COMPENSAÇÃO DE TRIBUTOS RECOLHIDOS A MAIOR. LEI N. 8.383/91. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 577.846/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 1º/7/09)
+“1. RECURSO. Embargos de declaração. Intempestividade o agravo regimental. Comprovação de que o recurso foi interposto no prazo legal. Conhecimento. Embargos acolhidos para este fim. Provada a tempestividade do agravo regimental, este deve ser conhecido.
+2. RECURSO. Agravo Regimental. Inadmissibilidade. Contribuição Social. FINSOCIAL. COFINS. Compensação. Ofensa indireta à Constituição. Agravo regimental não provido. É pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI nº 251.332/PR-AgR-ED, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 12/5/06).
+“1. Recurso extraordinário: inadmissibilidade: controvérsia relativa à compensação de valores recolhidos a maior a título de FINSOCIAL, decorrentes das majorações de alíquotas declaradas inconstitucionais pelo Supremo Tribunal Federal, com a COFINS: ausência de prequestionamento dos dispositivos constitucionais tidos como violados (Súmulas 282); a decisão proferida pelo Supremo Tribunal de Justiça no julgamento do recurso especial, interposto concomitantemente ao recurso extraordinário, não tem o condão de suprir o prequestionamento da matéria constitucional.
+2. Recurso extraordinário: descabimento: questão referente a índices de correção monetária decidida à luz de legislação infraconstitucional; alegada ofensa ao direito de propriedade e aos demais princípios constitucionais apontados no RE, que, se ocorresse, seria reflexa ou indireta, de reexame inviável no RE” (AI nº 477.397/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 17/6/05)
+Ante o exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 21 de junho de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
