@@ -1,0 +1,26 @@
+DECIS ÃO
+Vistos.
+Alexandre da Silva Santos e outros interpõem recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Terceira Turma Suplementar do Tribunal Regional Federal da 1ª Região, assim ementado:
+“ADMINISTRATIVO. CONCURSO PÚBLICO. AUDITOR FISCAL DO TESOURO NACIONAL. ATO DISCRICIONÁRIO TÍPICO. DIVISÃO DE VAGAS POR REGIÃO FISCAL. CANDIDATO APROVADO MAS NÃO CLASSIFICADO NA REGIÃO NA QUAL CONCORREU. INEXISTÊNCIA DE DIREITO À PARTICIPAÇÃO NA 2ª ETAPA DAS PROVAS. CONDIÇÕES PREVISTAS NO EDITAL RESPEITDAS PELO PODER PÚBLICO. APELAÇÃO IMPROVIDA” (fl. 302).
+Opostos embargos de declaração (fls. 304 a 316), foram rejeitados (fls. 318 a 321).
+Os recorrentes apontam violação dos artigos de 5º, caput e inciso LV; 37, caput e incisos I e II, e 93, inciso IX, sustentando, em síntese, que:
+i)   “opostos os Declaratórios, e não ocorrendo debate explícito sobre a questão constitucional suscitada, ocorre negativa ao princípio da ampla defesa, com os meios a ela inerentes”(fl. 431);
+ii)   “ a finalidade constitucional do certame era o provimento de 600 cargos de Auditor Fiscal do Tesouro Nacional. No entanto, apesar de o concurso ter sido realizado em duas etapas, o Edital dispôs que somente passariam à Segunda Etapa os 600 candidatos melhores classificados na Primeira, considerado-se reprovados todos os demais (fl. 437).”
+Contra-arrazoado (fls. 519 a 524), o recurso extraordinário (fls. 422 a 440) não foi admitido (fl. 528), tendo seguimento por força de decisão do Ministro Sepúlveda Pertence, proferida no Agravo de Instrumento nº 488.012/DF.
+O Ministério Público Federal, em parecer subscrito pelo Subprocurador-Geral da República Francisco Adalberto Nóbrega (fls. 573 a 576), opina pelo não conhecimento do recurso.
+Decido.
+Preliminarmente, destaco que o acórdão dos embargos de declaração foi publicado em 25/7/02, conforme expresso em certidão da folha 322, não sendo, portanto, exigível a existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece êxito.
+No caso, os recorrentes, a pretexto de demonstrar vulneração do Texto Constitucional, pretendem o reexame questões relacionadas com a interpretação de cláusulas do edital de regência de concurso público para o preenchimento de cargos vagos de Auditor Fiscal do Tesouro Nacional.
+Destarte, consoante iterativa jurisprudência deste Supremo Tribunal Federal, a via extraordinária não comporta a vertente discussão. Tem-se, no ponto, óbice consubstanciado por infringência da Súmula 454/STF.
+Outrossim, as alegações relacionadas ao não acolhimento dos embargos de declaração, por também demandarem prévia análise de legislação infraconstitucional, notadamente atinentes a normas de processo, retratam típica hipótese de ofensa indireta ou reflexa à Constituição da República, o que não enseja recurso extraordinário.
+Nesse sentido, a propósito, destaco os seguintes precedentes:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO: PARTICIPAÇÃO EM ETAPAS SUBSEQUENTES. IMPOSSIBILIDADE DA ANÁLISE DAS NORMAS EDITALÍCIAS E DO REEXAME DE PROVAS: INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 596.908/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 2/10/09).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONCURSO PÚBLICO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. INTERPRETAÇÃO DAS CLÁUSULAS EDITALÍCIAS. IMPOSSIBILIDADE. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. Interpretação das cláusulas editalícias. Inviabilidade do recurso extraordinário. Súmula 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI nº 743.216/DF-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 5/6/09).
+“PROCESSO CIVIL. JUIZADO ESPECIAL. REEXAME DO JULGAMENTO DE EMBARGOS DE DECLARAÇÃO. NULIDADE. RECURSO INOMINADO. DESERÇÃO. MATÉRIAS INFRACONSTITUCIONAIS. APLICAÇÃO DO ART. 557, CAPUT, do CPC. 1. É inviável o processamento do apelo extremo para debater matéria processual, relativa ao reexame do julgamento proferido na instância a quo, para fins de nulidade, por suposta ofensa aos artigos 5º, LV, e 93, IX, da Constituição. 2. No mérito, a alegada ofensa à Lei Maior, se houvesse, seria indireta, a depender da análise de legislação infraconstitucional, o que também impede o trânsito do extraordinário. 3. Aplicável, assim, o art. 557, caput, do CPC, que permite ao relator, em decisão monocrática, negar seguimento a recurso manifestamente intempestivo, incabível ou improcedente e, ainda, quando contrariar a jurisprudência predominante do Tribunal. 4. Agravo regimental improvido” (AI nº 698.721/RJ-AgR, Segunda Turma, Relatora Ministra Ellen Gracie, DJe de 18/9/09)
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 21 de junho de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
