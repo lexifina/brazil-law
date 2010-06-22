@@ -1,0 +1,20 @@
+D ECIS Ã O:
+Cuida-se de mandado de segurança, com pedido de liminar, de MOISÉS VIEIRA LABRES impetrado contra ato supostamente coator e abusivo da SEGUNDA TURMA RECURSAL DOS JUIZADOS ESPECIAIS DO ESTADO DO TOCANTINS, que apreciou recurso inominado do autor e manteve o quantum fixado a título de perdas e danos em ação própria.
+O writ foi originalmente impetrado no Tribunal de Justiça do Estado do Tocantins, que, em decisão monocrática, entendeu ser incompetente para apreciar o feito e determinou sua remessa ao Supremo Tribunal Federal.
+Juntados documentos relativos ao trâmite da ação ordinária no Juizado Especial.
+É o relatório.
+O STF é incompetente para julgar, de modo originário, mandado de segurança contra ato decisório de Turma de Juizado Especial. Não se enquadra essa forma de cognição no previsto no artigo 102, inciso I, alínea “d”, CF/1988, cuja exegese deve levar em conta seu caráter taxativo.
+É esse o entendimento uniforme da jurisprudência da Corte, ao estilo dos precedentes abaixo reproduzidos:
+“EMENTA: AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. CONSTITUCIONAL. COMPETÊNCIA. ARTIGO 102, I, "A" DA CB/88. ARTIGO 21, IV DA LOMAN [LC 35/79]. INCOMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL PARA JULGAMENTO DE MANDADO DE SEGURANÇA CONTRA ATO DE JUÍZES DO SISTEMA DOS JUIZADOS ESPECIAIS FEDERAIS. PRECEDENTE. 1. O Supremo Tribunal Federal tem competência para processar e julgar mandado de segurança apenas nas hipóteses expressamente previstas no artigo 102, I, "d", segunda parte, da Constituição. 2. No que tange à competência para julgamento de mandado de segurança contra ato de Turmas Recursais de Juizados Especiais, remanesce o disposto no art. 21, VI, da Lei Orgânica da Magistratura Nacional - LOMAN [LC n. 35/79]. Precedente: QO-MS n. 24.674, Relator o Ministro CARLOS VELLOSO, DJ de 26.3.04. 3. Agravo regimental a que se nega provimento.”
+(MS 28401 AgR, Relator Min. Eros Grau, Tribunal Pleno, julgado em 25/11/2009, DJe-237 18-12-2009)
+“EMENTA: MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO. TURMAS RECURSAIS DOS JUIZADOS ESPECIAIS. INCOMPETÊNCIA DO STF. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NA DECISÃO EMBARGADA. EMBARGOS REJEITADOS. O Supremo Tribunal Federal não tem competência para julgar mandado de segurança impetrado contra decisões de juizados especiais ou turmas recursais. Precedentes. Inexiste omissão, obscuridade ou contradição no acórdão recorrido. Embargos de declaração rejeitados.”
+(MS 26427 AgR-ED, Relator Min. Joaquim Barbosa, Tribunal Pleno, julgado em 06/06/2007, DJe-047 29-06-2007)
+A competência originária para conhecer de writ of madamus em caso da natureza do ora apreciado é da própria Turma Recursal e não do STF. Essa, ademais, é uma posição firmada na Corte há tempos, como se lê da ementa abaixo transcrita:
+“EMENTA: EMBARGOS DE DECLARAÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA IMPETRADO CONTRA COLÉGIO RECURSAL DOS JUIZADOS ESPECIAIS. INCOMPETÊNCIA DO STF. PRETENDIDA REMESSA DOS AUTOS AO JUÍZO COMPETENTE. RISCO DE PERECIMENTO DO DIREITO. AJUSTE DE VOTO. Em razão da taxatividade da competência deste Supremo Tribunal em sede de mandado de segurança (alínea "d" do inciso I do art. 102), é da própria Turma Recursal a competência para julgar ações mandamentais impetradas contra seus atos. Precedentes. O risco de perecimento do direito justifica a remessa dos autos à Corte competente para o feito. Pelo que é de se rever posicionamento anterior que, fundado na especialidade da norma regimental, vedava o encaminhamento do processo ao órgão competente para sua análise. Embargos declaratórios recebidos como agravo regimental. Agravo regimental a que se nega provimento, determinando-se, contudo, a remessa dos autos ao Juizado Especial impetrado.”
+(MS 25087 ED, Relator Min. Carlos Britto, Tribunal Pleno, julgado em 21/09/2006, DJe-013 11-05-2007)
+Ante o exposto, denego a segurança e determino a remessa dos autos à SEGUNDA TURMA RECURSAL DOS JUIZADOS ESPECIAIS DO ESTADO DO TOCANTINS, prejudicado o exame da liminar.
+Publique-se.
+Brasília, 22 de junho de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
