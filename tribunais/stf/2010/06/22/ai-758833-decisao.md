@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE PREQUESTIONAMENTO – AGRAVO DESPROVIDO.
+1. O Tribunal de Justiça do Estado do Paraná negou provimento a pedido formulado em apelação, ante os seguintes fundamentos (folha 81):
+TRIBUTÁRIO. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. ICMS E MULTA. EMBARGOS JULGADOS IMPROCEDENTES. INSURGÊNCIA RECURSAL COM RELAÇÃO À MULTA (10%) APLICADA PELA FAZENDA ESTADUAL.
+A multa foi aplicada em razão do descumprimento da principal obrigação tributária, qual seja o recolhimento do tributo aos cofres públicos e essa infração enseja a aplicação de sanção prevista em lei (Lei 11.580/96). E seu percentual (10%) não configura confisco, não havendo que se falar em redução a 2%, já que se está diante de relação tributária, não de relação gerida pelo direito do consumidor.
+RECURSO NÃO PROVIDO
+O recurso extraordinário direciona ao atendimento cumulativo dos pressupostos gerais de recorribilidade – adequação, oportunidade, interesse de agir, representação processual e preparo - e a um dos específicos previstos no inciso III do artigo 102 da Carta da República. O acesso ao Supremo faz-se, por isso mesmo, em via de excepcionalidade maior, tudo objetivando a atuação precípua da Corte, qual seja, a guarda da supremacia da Constituição Federal. Quanto ao pressuposto específico, quase sempre retratado na alínea “a” do inciso III do artigo 102 da Carta – violência a dispositivo nela inserto –, mostra-se necessário, ante a ordem natural das coisas, proceder-se a cotejo. Somente é possível definir se houve transgressão a texto constitucional mediante o confronto do que decidido com as razões do extraordinário, mais precisamente com o que evocado no tocante à adoção de entendimento contrário ao ditame constitucional. Daí o instituto do prequestionamento, que significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o acórdão impugnado nada contém sobre o que versado nas razões do extraordinário, descabe assentar o enquadramento deste no permissivo constitucional.
+2. Acresce que, no caso dos autos, o que sustentado nas razões do extraordinário não foi enfrentado pelo órgão julgador. Apesar da interposição de embargos declaratórios, não houve debate e decisão prévios sobre a alegada violação aos artigos 5º, 37 e 145, § 1º da Constituição Federal. Frise–se, por oportuno, que a recorrente não arguiu o vício de procedimento. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+3. Conheço deste agravo e o desprovejo.
+4. Publiquem.
+Brasília, 22 de junho de 2010.
+Ministro MARCO AURÉLIO
+Relator
