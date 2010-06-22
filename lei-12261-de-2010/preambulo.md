@@ -1,0 +1,2 @@
+Acrescenta parágrafo único ao art. 1º da Lei nº 11.348, de 27 de setembro de 2006, para convalidar atos praticados por servidores e efeitos financeiros decorrentes do exercício das funções comissionadas de nível 02, criadas por ato administrativo interno do Tribunal Regional do Trabalho da 15ª Região.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
