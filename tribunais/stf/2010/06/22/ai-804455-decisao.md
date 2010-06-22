@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que porta a seguinte ementa:
+“CIVL. AÇÃO INDENIZATÓRIA. ATO ILÍCITO DO PODER PÚBLICO. NAUFRÁGIO DE EMBARCAÇÃO. RESPONSABILIDADE OBJETIVA DO ESTADO. OMISSÃO ESPECÍFICA. MORTE. DANOS MORAIS. CABIMENTO.
+1.   A Constituição Federal de 1988 adotou a teoria da responsabilidade objetiva da Administração por atos de seus agentes, devendo apenas ser demonstrados o dano e o nexo causal que justifica a obrigação do Estado indenizar.
+2.   No caso, a responsabilidade da ré é resultante da omissão de seu dever de fiscalizar (omissão específica), encontrando-se comprovado, nos autos, que a embarcação foi liberada por agente da Capitania dos Portos, não obstante se encontrar com excesso de carga e de passageiros, conforme demonstram a prova testemunhal e o laudo de exame pericial indireto(...)” (fl. 238).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, § 6º, da mesma Carta.
+O agravo não merece acolhida. O acórdão recorrido, ao concluir pela existência de nexo de causalidade a ensejar a responsabilidade objetiva do Estado, baseou-se no conjunto fático-probatório dos autos, para se chegar à conclusão contrária à adotada, necessário seria o reexame da matéria de fato, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 434.636/RJ, Rel. Min. Sepúlveda Pertence; RE 346.978/CE, Rel. Min. Ilmar Galvão; AI 340.046-AgR/SP; RE 522.278-AgR/TO, Rel. Min. Cezar Peluso e RE 363.999-AgR/RJ, Rel. Min. Gilmar Mendes e AI 693.628-AgR/SP, Rel. Min. Ellen Gracie, cuja ementa segue transcrita:
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE OBJETIVA DO ESTADO. OMISSÃO. ACIDENTE DE TRÂNSITO EM RODOVIA FEDERAL. FALTA DE SINALIZAÇÃO. ART. 37, § 6º, CF/88. NEXO CAUSAL. FATOS E PROVAS. SÚMULA STF 279. 1. Existência de nexo causal entre a omissão da autarquia e acidente que causou morte do marido e filhos da autora. Precedentes. 2. Incidência da Súmula STF 279 para afastar a alegada ofensa ao artigo 37, § 6º, da Constituição Federal - responsabilidade objetiva do Estado. 3. Inexistência de argumento capaz de infirmar o entendimento adotado pela decisão agravada. 4. Agravo regimental improvido”.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 22 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
