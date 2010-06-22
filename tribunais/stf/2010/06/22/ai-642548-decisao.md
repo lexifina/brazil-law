@@ -1,0 +1,21 @@
+D ECIS Ã O:
+Vistos.
+Fátima Rosane Costa Ribeiro interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º e 7º, inciso XIII, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Quarta Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+“APELA Ç ÃO C ÍVEL. SERVIDOR   P ÚBLICO ESTATUT ÁRIO. MUNIC ÍPIO DE   SAPIRANGA . AUXILIAR   DE   SERVI ÇOS GERAIS . PEDIDO   DE   PAGAMENTO   DE   HORAS   EXTRAORDIN ÁRIAS.
+1. O administrador público está adstrito, dentre outros, ao princípio constitucional da legalidade. Por isso, a concessão dos denominados direitos sociais aos servidores públicos não é auto-aplicável, somente podendo ser concedidos através de lei instituidora de regime jurídico próprio, na sua esfera de competência, sob pena de ser responsabilizado pelos seus atos na concessão de direitos aos quais não está legalmente vinculado. Precedentes da Câmara.
+2. HORAS EXTRAS. CONVOCAÇÃO. NÃO COMPROVAÇÃO. Inexiste nos autos comprovação de que houve, efetivamente, autorização da autoridade competente para a realização de horas extras, como preceitua o artigo 56, da Lei nº 2367/1997 (Estatuto dos Servidores Públicos de Sapiranga).
+APELAÇÃO PROVIDA. AÇÃO JULGADA IMPROCEDENTE” (fl. 38).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 1/6/06, conforme expresso na certidão de folha 43, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+ A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+“ AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+No tocante às horas extras, para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem seria necessária interpretação de norma infraconstitucional pertinente (Lei Municipal nº 2.367/97), bem como o reexame de aspectos fáticos e circunstanciais, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte.
+No mesmo sentido, as seguintes decisões monocráticas: AI nº 640.292/RS, Relatora a Ministra Cármen Lúcia, Dje de 24/9/08, AI nº 718.278/RS, Relatora a Ministra Ellen Gracie, Dje de 12/2/10 e AI nº 641.512/RS, Relatora a Ministra Cármen Lúcia, Dje de 22/10/08.
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 22 de junho de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
