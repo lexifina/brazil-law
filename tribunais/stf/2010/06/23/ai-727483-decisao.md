@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento contra decisão de inadmissibilidade do recurso extraordinário por ofensa ao art. 37, § 6º, da Constituição Federal. O acórdão recorrido condenou o Município do Rio de Janeiro à reparação por danos morais e materiais ocorridos em virtude de queda da autora em bueiro aberto, por concluir que houve omissão pela falta de conservação da via pública, nos seguintes termos (fls. 29-31);
+“ INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. QUEDA EM BUEIRO NA VIA PÚBLICA. OMISSÃO ESPECÍFICA DO ESTADO. SENTENÇA DE PROCEDÊNCIA MANTIDA, INCLUSIVE QUANTO AO VALOR DA INDENIZAÇÃO. RECURSO CONHECIDO E DESPROVIDO ”.
+ O Tribunal de origem asseverou a alegada violação ao referido dispositivo constitucional, se existisse, seria reflexa, uma vez que, necessariamente, precedida de afronta a preceito infraconstitucional (fls. 79-83).
+2.  O agravante afirma que houve ofensa direta ao art. 37, § 6º, da Carta Magna, sob o argumento de que a norma constitucional dirige-se tão-somente “aos danos causados pelos agentes públicos”, não abrangendo os danos causados por atos omissivos que aqui se entenderam presentes.
+3.  O agravo não merece seguimento. Preliminarmente, a questão constitucional tida como violada não se encontra prequestionada, porque não abordada pelo acórdão recorrido nem suscitada nos embargos de declaração a ele opostos (fls. 35-45), não sendo satisfeito, assim, o requisito do prequestionamento (Súmula STF 282).
+4.  Mesmo que superado o óbice, também não prosperam as alegações da agravante, pois, limitou-se o acórdão impugnado a concluir pela responsabilidade subjetiva do agravante por ato omissivo específico, no termos da “teoria faute du service”, à luz dos fatos e das provas constantes dos autos, cujo reexame, todavia, em princípio, não tem lugar em sede extraordinária (Súmula STF 279). Vejam-se o AI 603.470- AgR/GO , rel. Min. Sepúlveda Pertence, 1ª Turma, DJe 10.08.2007; e o RE 558.755- AgR/MG, da minha relatoria, 2ª Turma, DJe 24.04.2009.
+5.  Ressalte-se que contra o acórdão recorrido o réu interpôs, concomitantemente, recurso especial (fls. 52-60), ao qual, em acórdão transitado em julgado, o Superior Tribunal de Justiça negou provimento, sob o entendimento de que, para alterar os fundamentos do acórdão recorrido, seria necessário o reexame da matéria fático-probatória dos autos, incidindo ali o óbice da Súmula 7/STJ (fls. 95-98).
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
