@@ -1,0 +1,8 @@
+1.  A hipótese dos autos versa sobre a imunidade tributária prevista no art. 195, § 7º, da Constituição Federal e no art. 55 da Lei 8.212/91, que dispõe sobre os requisitos para requisição da imunidade.
+2.  O Supremo Tribunal Federal reconheceu a existência de repercussão geral das hipóteses que versam sobre a compatibilidade do art. 55 da Lei 8.212/91 com a Constituição Federal, referente às exigências para a concessão da imunidade da contribuição social às entidades beneficentes de assistência social, no RE 566.622/RS, rel. Min. Marco Aurélio, DJe 25.04.2008.
+3.  E, no julgamento do RE 540.410-QO, rel. Min. Cezar Peluso, DJe 16.10.2008, e do AI 715.423-QO, de minha relatoria, DJe 04.9.2008, esta Corte decidiu que, nos casos de matérias com repercussão geral reconhecida, é possível a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais de origem, para os fins previstos no art. 543-B, § 3º, do Código de Processo Civil.
+4.  Dessa forma, nos termos do art. 328 do RISTF, determino a devolução dos presentes autos ao Tribunal de origem, bem como a observância, no tocante ao apelo extremo interposto, das disposições do art. 543-B do CPC.
+Publique-se.
+Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
