@@ -1,0 +1,42 @@
+DECISÃO
+RECLAMAÇÃO. CONSTITUCIONAL. ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE 3.395/DF. AÇÃO DE EXECUÇÃO DE HONORÁRIOS. ADVOGADO DATIVO NOMEADO PARA ATUAR EM PROCESSO CÍVEL. AUSÊNCIA DE IDENTIDADE MATERIAL COM A AÇÃO PARADIGMA. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Reclamação, com pedido de medida liminar, ajuizada pelo Estado de Minas Gerais, em 21.9.2009, contra decisão da 7ª Turma do Tribunal Regional do Trabalho da 3ª Região, nos autos do Agravo de Petição na Ação de Execução 01367.2008.081.03.00.4.
+O caso
+2. Em 12.11.2008, Antonio João Salvador, ora Interessado, ajuizou ação de execução contra o Estado de Minas Gerais, com o objetivo de obter a condenação do ente estadual ao pagamento dos honorários advocatícios a ele devidos, em razão de sua atuação como advogado dativo nos autos da Ação Revisional de Alimentos 0441.08.012417.1.
+Os honorários foram arbitrados no valor de R$ 300,00 (trezentos reais) pelo Juízo da Comarca de Muzambinho/MG (fl. 28).
+Em 18.12.2008, o Estado de Minas Gerais opôs embargos à execução (fls. 29-53).
+Em 27.1.2009, o Juízo da Vara do Trabalho de Guaxupé/MG julgou procedente a execução de honorários e improcedentes os embargos à execução (fls. 71-77).
+Contra essa decisão o Estado de Minas Gerais interpôs agravo de petição (fls. 78-104), cujo provimento foi negado pela 7ª Turma do Tribunal Regional do Trabalho da 3ª Região em 21.5.2009 (fls. 109-111).
+Na sequência, interpôs recurso de revista, que aguarda julgamento, conforme consta do sítio do Tribunal Regional do Trabalho da 3ª Região.
+É contra a tramitação da Ação de Execução 01367.2008.081.03.00.4 na Justiça do Trabalho a presente Reclamação.
+3. O Reclamante alega, em síntese, que a decisão reclamada afrontaria a autoridade da decisão proferida pelo Supremo Tribunal Federal no julgamento da Medida Cautelar na Ação Direta de Inconstitucionalidade 3.395/DF.
+Argumenta que “o[s] defensor[es] dativo[s] exerce[riam] um múnus público, desempenhando transitoriamente função essencial e auxiliar à Justiça” e que seriam, assim, “agentes públicos por natureza, na espécie ‘particulares em colaboração com a Administração’ (...), os quais são requisitados para o exercício de atividades públicas e funções especiais, assim como o são os jurados, os mesários e os recrutados para o serviço militar obrigatório” (fls. 5-6, grifos no original).
+Alega que o defensor dativo “não te[ria] qualquer relação de emprego ou trabalho com o Estado”  e que “o caráter administrativo da vinculação do defensor com o Estado se sobrep[oria], mormente em razão de a nomeação deste normalmente ser feita por um Juiz de Direito, por meio de um ato administrativo, sem participação do ente público” (fl. 6, grifos no original).
+Pede que “seja julgada procedente a presente Reclamação Constitucional para reconhecer a competência da Justiça Comum para conhecer e julgar a presente demanda envolvendo defensor dativo, autos n. 01367-2008-081-03-00-4” (fls. 22-23).
+4. Em 23.9.2009, indeferi a medida liminar requerida (fls. 119-123).
+5. Em 6.10.2009, o Presidente do Tribunal Regional do Trabalho prestou informações (fl. 130).
+6. Em 4.6.2010, o Procurador-Geral da República manifestou-se pela procedência da presente Reclamação (fls. 133-135).
+Examinados os elementos havidos nos autos, DECIDO.
+7. O que se põe em foco nesta Reclamação é a competência da Justiça do Trabalho para processar e julgar ação que versa, em essência, sobre a relação jurídica estabelecida entre a Administração Pública e advogado dativo nomeado para atuar em processo cível, fundamentando-se o Reclamante na decisão da Medida Cautelar na Ação Direta de Inconstitucionalidade n. 3.395/DF.
+8. Na assentada de 27.5.2010, ao examinar caso análogo ao presente, no qual o Estado de Minas Gerais questionava o processamento de ação de execução de honorários de advogado dativo na Justiça do Trabalho, o Plenário do Supremo Tribunal Federal decidiu:
+“EMENTA: RECLAMAÇÃO. AÇÃO DE EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS AJUIZADA CONTRA O ESTADO DE MINAS GERAIS. ADVOGADO REQUISITADO PARA ATUAR COMO DEFENSOR DATIVO EM AÇÃO DE USUCAPIÃO. DESCUMPRIMENTO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE 3.395/DF NÃO CONFIGURADO.
+1. A eventualidade da relação jurídica estabelecida entre a Administração e o advogado dativo não permite seja este considerado servidor público.
+2. Reclamação julgada improcedente” (Rcl 8.842/MG, de minha relatoria, DJ 18.6.2010).
+No voto que proferi naquele julgamento acentuei:
+“Embora seja dever do Estado prestar a ‘assistência integral e gratuita aos que comprovarem insuficiência de recursos’ (art. 5º, inc. LXXIV, da Constituição da República), o desempenho dessa função, no caso concreto, foi atribuída ao particular de forma episódica.
+Isso, contudo, não se afigura suficiente para conferir ao Interessado a condição de servidor público, que deve ser entendido como “a pessoa física que participa de uma relação jurídica trabalhista de caráter não eventual com uma pessoa estatal sob regime de direito público ou determinado por princípios de direito administrativo, investindo-se em cargo público de natureza civil” (ROCHA, Cármen Lúcia Antunes. Princípios constitucionais dos servidores públicos. São Paulo: Saraiva, 1999, p. 59-62).
+4. A nítida eventualidade da relação estabelecida entre o Estado de Minas Gerais e o Interessado, decorrente da requisição deste pelo Juízo de Direito da 5ª Vara Cível da Comarca de Uberaba/MG para atuar como defensor dativo, não permite seja ele tido por servidor público, figura distinta daquela denominada pelo Reclamante e por parte de doutrina como “particular em colaboração com a Administração” (fl. 5).
+Ainda que se reconhecesse que o desempenho pelo Interessado de uma função pública tenha importado no estabelecimento de uma relação jurídica de natureza administrativa com o Poder Público, isso, por si, não basta para que se reconheça a alegada afronta à autoridade da decisão do Supremo Tribunal Federal na Medida Cautelar na Ação Direta de Inconstitucionalidade 3.395/DF.
+5. Na Ação de Execução n. 01586.2008.042.03.00.0, o Interessado não pretende o reconhecimento de vínculo empregatício ou estatutário com o Estado de Minas Gerais, tampouco pleiteia o pagamento de verbas de natureza trabalhistas, mas sim a cobrança dos honorários devidos em razão da prestação de serviços advocatícios (...)
+6. De se realçar, por fim, que a conclusão pela improcedência desta reclamação não importa em reconhecimento da competência da Justiça do Trabalho para processar e julgar ações de cobrança de honorários advocatícios ajuizadas contra o Poder Público - questão cujo deslinde já foi pacificado na jurisprudência dos Tribunais Superiores -, mas, apenas, a ausência de identidade entre essa matéria e a tratada na ação paradigma invocada” (DJ 18.6.2010, grifos nossos).
+Na mesma sessão de julgamento, o Plenário do Supremo Tribunal Federal julgou improcedente a Reclamação 7.592/MT, de minha relatoria.
+De se concluir, pois, pela inexistência de identidade material entre o que decidido na Ação Direta de Inconstitucionalidade 3.395/DF e a situação descrita nos autos e objeto da presente reclamação.
+9. Em decisão monocrática, o Ministro Celso de Mello ressaltou a importância da pertinência entre o ato reclamado e a decisão deste Supremo Tribunal Federal apontada como paradigma:
+“É importante assinalar, nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal, que os atos questionados na reclamação, considerado o respectivo contexto, hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal (ADPF 144/DF, no caso)” (Rcl 6.534-MC/MA, DJ 24.9.2008, grifos nossos).
+Quando não há identidade material entre a questão debatida nos autos e o que decidido na Ação Direta de Inconstitucionalidade 3.395/DF, os Ministros do Supremo Tribunal Federal têm negado seguimento à reclamação: Rcl 5.753/AM, Rel. Min. Ellen Gracie, decisão monocrática, DJ 24.11.2008; Rcl 5.234/PB, de minha relatoria, decisão monocrática, DJ 31.10.2008; Rcl 5.519/PB, Rel. Min. Ricardo Lewandowski, decisão monocrática, DJ 27.2.2008.
+10. Pelo exposto, nego seguimento à presente Reclamação (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 23 de junho de2010.
+Ministra CÁRMEN LÚCIA
+Relatora
