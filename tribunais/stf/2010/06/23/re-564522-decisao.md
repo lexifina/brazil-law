@@ -1,0 +1,16 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 80):
+“EXECUÇÃO FISCAL – IPTU e Taxa do Lixo – Cobrança do referido imposto com base em plano diretor sem obedecer ao princípio da anterioridade e ausência de lei – Impossibilidade – Ilegitimidade da cobrança da taxa do lixo por não preencher os requisitos da especificidade e divisibilidade mencionadas no art. 145, inciso II, da Constituição Federal e artigos 77 e 79 do Código Tributário Nacional – Impossibilidade da cobrança dos juros em face da data da quebra, e da multa a teor do art. 23 da Lei de Falências e Súmula 565 do Supremo Tribunal Federal – Recursos oficial e voluntário da embargada improvidos.”
+2. Pois bem, a parte recorrente sustenta violação à alínea “b” do inciso III do art. 150 e ao inciso II do art. 145 da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. De saída, observo que, alusivamente ao IPTU, a recorrente deixou subsistir fundamento autônomo suficiente à manutenção do julgado, qual seja, o princípio da legalidade. Pelo que é de se aplicar a Súmula 283 desta nossa Corte:
+“É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.”
+4. Para cimentar meu entendimento, reproduzo o seguinte trecho do voto condutor do julgamento da Instância Judicante de origem:
+“Em decorrência, Executivo e Administração Pública não aprovam a fixação do valor venal dos imóveis na Planta de Valores pelo Legislativo, não escondendo o desejo de reavaliar esse valor, anualmente, sem as amarras da lei.
+Expressa bem esse entendimento nova tentativa de Município que aprovou a Planta de Valores, posteriormente, através de decreto, o que foi recusado pelo STF, lembrando que a Corte já decidira que o § 2º do art. 97 (atualização monetária da base de cálculo por decreto) tão-somente diz respeito à correção monetária, e não constitui exceção ao princípio da legalidade. Isto porque tal correção não implica aumento do seu valor, mas apenas correção monetária desse valor no tempo.”
+5. Por outra volta, nos termos da jurisprudência do Supremo Tribunal Federal, é inconstitucional a taxa de coleta de lixo domiciliar, quando vinculada também à limpeza de logradouros públicos. Isso porque, nesse caso, cuida-se de “serviços executados em benefício da população em geral (uti universi), sem possibilidade de individualização dos respectivos usuários e, conseqüentemente, da referibilidade a contribuintes determinados” (RE 249.070, da relatoria do ministro Ilmar Galvão).
+6. Nesse mesmo sentido, vejam-se, entre outros: o RE 367.004-AgR, da relatoria do ministro Ricardo Lewandowski; bem como os AIs 476.945-AgR, da relatoria da ministra Ellen Gracie; 491.711-AgR, da relatoria do ministro Sepúlveda Pertence; 645.461, da relatoria do ministro Joaquim Barbosa; e 710.822, da minha relatoria.
+Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
