@@ -1,0 +1,9 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão do TRF da 1ª Região que decidiu a questão dos autos – aposentadoria por tempo de serviço prestado em condições agressivas (serviço de natureza insalubre) – nos termos da Lei 9.711/98 para restringir tal direito à 28.05.1998.
+2.  O recorrente, nas razões do RE, alega ofensa aos artigos 5º, caput, e I, 201, § 1º, da CF; e 15 da EC 20/98.
+3.  O presente agravo não merece prosperar. Verifica-se que as normas constitucionais alegadas como violadas não se encontram prequestionadas. Quanto ao art. 5º, caput e I, porque não abordado pelo acórdão recorrido, nem suscitado nos embargos a ele opostos. No que tange ao art. 201, § 1º, porque, embora, tenha sido suscitado na petição dos embargos de declaração (fl. 48), a falta, no traslado, do teor das contra-razões da apelação impede a verificação de suposta omissão do acórdão, não se podendo, assim, constatar a ocorrência do requisito do prequestionamento (Súmulas STF 282 e 356). Em relação à EC 20/98, o aresto recorrido abordou tão-somente o recurso do INSS que pleiteava a incidência do critério de transição da referida EC 20/98 suscitado pelo INSS, afastando tal pretensão com base no instituto do direito adquirido (art. 5º, XXXVI, da CF), sem fazer qualquer alusão ao art. 15.
+É pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142- AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.09.2001; e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+4.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
