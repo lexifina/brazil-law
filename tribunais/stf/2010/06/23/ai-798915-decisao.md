@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discutiu a incidência de ISS sobre serviços bancários (fls. 86-90).
+2.  Nas razões do RE, sustenta-se ofensa aos arts. 5º , II, XXXV, LIV, LV; 93, IX; 150, I e 156, III, da Constituição Federal (fls. 98-118).
+3.  O recurso não merece prosperar. Verifico que para divergir do acórdão recorrido seria necessária a análise de fatos e provas (Súmula/STF 279) e de legislação infraconstitucional (Decreto-lei 406/68; LC 56/87; e LC 116/2003), hipóteses inviáveis em sede extraordinária.
+ Nesse sentido, menciono os seguintes julgados: AI 672.478-AgR/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 20.02.2009; AI 761.082-AgR/PR, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 23.10.2009; e AI 682.832-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 26.06.2009, este último assim ementado:
+ “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS – ISS. SERVIÇOS BANCÁRIOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+4.  Quanto à alegação de ofensa aos incisos do artigo 5º da Constituição Federal, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, da prestação jurisdicional, do direito adquirido, do ato jurídico perfeito, dos limites da coisa julgada, do devido processo legal,   do contraditório e da ampla defesa podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
