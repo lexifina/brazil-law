@@ -1,0 +1,28 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão do TRF da 3ª Região assim ementado:
+“ PROCESSUAL CIVIL. TRIBUTÁRIO. APÓLICES DA DÍVIDA PÚBLICA. AUSÊNCIA DE EXPRESSÃO ECONÔMICA. INVIABILIDADE DE SUA UTILIZAÇÃO PARA FINS DE GARANTIA NA EXECUÇÃO, COMPENSAÇÃO OU QUITAÇÃO DE QUAISQUER DÉBITOS. APELO A QUE SE DÁ PARCIAL PROVIMENTO .
+1. As apólices da dívida pública da União, algumas de emissão centenária, não se prestam à garantia da execução, vez que esta pressupõe créditos líquidos, certos e exigíveis, condição estranha àqueles papéis, também inábeis para fins de compensação, quitação de quaisquer débitos com o Poder Público e demais finalidades pretendidas pela parte.
+2. Mesmo afastada a caducidade de tais apólices, que têm a natureza de empréstimos públicos voluntários, emitidas para financiamento de obras, pela União, aquelas prevêem apenas uma taxa de juros fixa, ora não encontrando expressão econômica em moeda corrente.
+3. Anteriormente a 1964, os títulos da dívida pública da União não tinham previsão de correção monetária, dependente, por óbvio, de previsão legal expressa.
+4. Honorários advocatícios fixados em R$ 5.000,00 (cinco mil reais), ‘ex vi’ do art. 20, § 4º do CPC.
+5. Apelação dos Autores improvida. Recurso da União Federal parcialmente provido” (fl. 1.327).
+2.  Preliminarmente, o agravante, no RE, alega ofensa aos artigos 5º, LIV e LV, e 93, IX, da CF.
+ No mérito, sustenta afronta ao art. 5º, XXXVI, da CF/88; art. 58, caput, I e II, e 83, II, da CF/67, sustentando, em síntese, que:
+“Vale esclarecer que os Decretos-leis em referência não se cingiram a simplesmente alterar o prazo prescricional para resgate dos mencionados títulos, mas sim em uma mudança concreta das condições originalmente estabelecidas para resgate das apólices.
+Portanto, tendo em vista que o v. acórdão recorrido infringiu (i) ato jurídico perfeito, consubstanciado na negociaão dos títulos, e (ii) direito adquirido dos Recorrentes às condições contratuais do mútuo, que não podem ser alterados unilateralmente pela União Federal, restou violado o art. 5º, XXXVI, da Constituição Federal de 1988” (fl. 1.418).
+3.  Ressalto que a preliminar levantada pela parte, relativa ao reexame do julgamento proferido pela Corte de origem, em sede de embargos de declaração, para fins de nulidade, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade ao disposto nos artigos 5º, LIV, LV, e 93, IX, da Constituição Federal. Veja-se o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002, o qual assentou em sua ementa:
+“ CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO: ALEGAÇÃO DE OFENSA AO DEVIDO PROCESSO LEGAL E DE QUE O ACÓRDÃO NÃO ESTARIA FUNDAMENTADO. C.F., arts. 5º, II, XXXV, LIV e LV, e 93, IX.
+I. – Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional.
+II. – Decisão contrária ao interesse da parte não configura negativa de prestação jurisdicional (...)”.
+4.  No mérito, o recurso, também, não merece prosperar, porque, para verificar se houve ofensa ao texto constitucional (art. 5º, XXXVI), seria necessária a análise da legislação infraconstitucional (Decretos-Leis 263/67 e 396/68), hipótese inviável em sede extraordinária (Súmula 280). Nesse sentido, cito o RE 386.642-AgR/PR, de minha relatoria, 2ª Turma, unânime, DJ 05.08.2005, assim ementado:
+“ AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. TÍTULOS DA DÍVIDA PÚBLICA DO INÍCIO DO SÉCULO XX. FUNDAMENTO INFRACONSTITUCIONAL NÃO ATACADO .
+1. Vários foram os fundamentos que levaram a Corte de origem a julgar improcedente o pedido do agravante de resgatar os títulos da dívida pública emitidos no começo do Século XX, todos eles independentes entre si e capazes de manter o acórdão da apelação.
+2. Entre esses argumentos, o Tribunal a quo afirmou ser impossível atualizar esses títulos, por não haver, na época da sua emissão, o instituto da correção monetária e, também, por inexistir critério seguro para aferir a variação do custo de vida daquela época até os dias atuais.
+3. Esse argumento, além de demandar o exame de matéria fática e da legislação ordinária para ser revisto, sequer foi impugnado nas razões do recurso extraordinário, tornando-se, portanto definitivo, o que inviabiliza a admissão do recurso extraordinário (Súmula STF nº 283).
+4. Agravo regimental improvido”.
+Aponto, ainda, as seguintes decisões: AI 684.494-AgR/SP, rel. Min. Eros Grau, 1ª Turma, unânime, DJe 11.04.2008; RE 495.705/RN, DJ 11.12.2006; RE 585.871/DF, DJe 12.05.2010; e AI 671.880/SP, DJe 29.11.2007.
+5.  Ademais, a jurisprudência desta Suprema Corte é firme no sentido de que “o direito adquirido, o ato jurídico perfeito e a coisa julgada encontram proteção em dois níveis: em nível infraconstitucional, na LICC, art. 6º, e em nível constitucional, art. 5º, XXXVI, CF. Todavia, o conceito de tais institutos não se encontra na Constituição, art. 5º, XXXVI, mas na lei ordinária, art. 6º da LICC. Assim, a decisão que dá pela ocorrência, ou não, no caso concreto, de tais institutos situa-se no contencioso de direito comum, que não autoriza a admissão do recurso extraordinário” (AI 520.942-AgR/PR, rel. Min. Carlos Velloso, 2ª Turma, unânime, DJ 05.08.2005).
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
