@@ -1,0 +1,16 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discute a possibilidade de se fixar limite de idade para participar de concurso público para provimento de cargo efetivo da polícia militar com base em normas previstas em edital e em decreto estadual (fls. 151-154).
+2.  O recurso não merece prosperar. Preliminarmente, verifico que a petição de recurso extraordinário não indicou corretamente o dispositivo constitucional autorizador do recurso (artigo, inciso e alínea). O art. 321 do RISTF exige a correta indicação do dispositivo autorizador da interposição do recurso extraordinário. Dessa obrigação não se desincumbiu o agravante. Tampouco indicou de forma precisa os dispositivos constitucionais tidos por violados. Incide, na espécie, da Súmula 284. Nesse sentido cito o AI 764.615-AgR/SC, rel. Min. Cármen Lúcia, 1ª Turma, DJe 12.3.2010; e o AI 767.226-AgR/RJ, rel. Min. Celso de Mello, DJe 21.5.2010, este último assim ementado:
+“ AGRAVO DE INSTRUMENTO - DESRESPEITO À NORMA INSCRITA NO ART. 321 DO RISTF - INCOGNOSCIBILIDADE DO APELO EXTREMO - RECURSO IMPROVIDO.
+- Revela-se insuscetível de conhecimento o recurso extraordinário, sempre que a petição que o veicular não contiver a precisa indicação do dispositivo constitucional autorizador de sua interposição ou, então, não aludir ao preceito da Constituição alegadamente vulnerado pela decisão recorrida”.
+3.  Além disso, é pacífico o entendimento dessa Corte quanto à possibilidade legal de restrição de idade em concurso público, sendo que o critério utilizado deverá observar o postulado da reserva legal, conforme disposto nos arts. 37, I e II, 39, § 3º, 42, § 1º, e 142, § 3º, X, da Constituição Federal. Nesse sentido: RE 572.499/SC, rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 23.4.2010, e AI 722.490-AgR/MG, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.3.2009.
+4.  No caso, a questão sub judice está adstrita à viabilidade legislativa de o Decreto estadual 10.932/85 instituir fator discriminatório consistente na limitação de idade máxima para inscrição em concurso público da Polícia Militar estadual. No julgamento do RE 404.656-AgR/RS, rel. Min. Joaquim Barbosa, DJ 23.9.2005, a 2ª Turma concluiu que a imposição da restrição etária mediante decreto, editado pelo Poder Executivo estadual, não supre a prerrogativa constitucional da reserva legal. Senão, veja-se:
+“ EMENTA: AGRAVO REGIMENTAL. CONCURSO PÚBLICO. LIMITAÇÃO DE IDADE. LEI COMPLEMENTAR 10.990/1997 DO ESTADO DO RIO GRANDE DO SUL. DECRETO ESTADUAL 37.536/1997. ART. 42, § 9º, DA CF/1988 COM REDAÇÃO ANTERIOR À EMENDA CONSTITUCIONAL 41/2003.
+A fixação do limite de idade via decreto não tem o condão de suprir a exigência constitucional de que tal requisito seja estabelecido por lei.
+Agravo regimental a que se nega provimento.”
+   No mesmo entendimento, destaco: AI 589.906-AgR/DF, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 23.5.2008; RE 599.171-AgR/DF, rel. Min. Cármen Lúcia, 1ª Turma, DJe 20.11.2009; RE 559.823-AgR/DF, rel. Min. Joaquim Barbosa, 2ª Turma, DJe de 01.02.2008; e AI 523.254/DF, rel. Min. Carlos Velloso, 2ª Turma, DJ 14.10.2005.
+ Dessa orientação não divergiu o acórdão recorrido.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
