@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que - com fundamento nas Leis estaduais 1.718/90 e 1.698/90 - entendeu ser devida a gratificação de encargos especiais a todos os servidores da entidade pública, em função de seu caráter genérico e indefinido (fls. 79-81).
+ No RE, sustenta-se ofensa aos artigos 2º e 37, XIII, da Constituição Federal.
+2.  O recurso não merece prosperar. Da leitura do acórdão recorrido, verifica-se que a Corte de origem, ao apreciar a questão, o fez sob o enfoque da legislação estadual o que, segundo reiteradas decisões do Supremo Tribunal Federal, não autoriza a abertura do contencioso constitucional pois, para divergir da conclusão a que chegou o Tribunal a quo, far-se-ia necessário o exame da legislação local (Leis estaduais 1.718/90 e 1.698/90). Incide, na espécie, a Súmula STF 280.
+Sobre a matéria, a jurisprudência desta Corte já assentou que a alegada ofensa à Constituição Federal, se existente, seria meramente reflexa ou indireta, como se percebe no RE 548.022-AgR/RJ, de minha relatoria, 2ª Turma, DJe 1º.7.2009; AI 641.870-AgR/RJ, rel Min. Menezes Direito, 1ª Turma, DJe 20.02.2008; AI 704.092-AgR/RJ, rel. Min. Eros Grau, 2ª Turma, DJE 15.08.2008; e RE 535.003-AgR/RJ, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 09.05.2008.
+3.  Verifico, também, que a decisão agravada teve como fundamento a falta de indicação do “dispositivo constitucional em que se funda a pretenção recursal” (fl. 137), ou seja, o permissivo constitucional autorizador da interposição do recurso extraordinário (artigo 102, inciso e alínea), e não a “matéria constitucional discutida no recurso” (fl. 5), o que, de acordo com o art. 321 do RISTF, impossibilita o trânsito de recusro extraordinário. Nesse sentido: AI 639.777-AgR/SP, de minha relatoria, 2ª Turma, DJe 25.6.2010 e   o AI 720.930-AgR/RJ, rel. Min. Marco Aurélio, 1ª Turma, DJe 18.12.2009.
+4.  Ademais, da leitura da razões do agravo, percebe-se que a parte agravante limita-se a reiterar as razões do RE, deixando de atacar os fundamentos da decisão agravada. Incide, pois, a Súmula STF 287.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
