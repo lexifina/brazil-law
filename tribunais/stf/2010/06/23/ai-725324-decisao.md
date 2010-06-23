@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por alegada violação aos arts. 22, I, e 30, V, da Constituição Federal. O acórdão recorrido concluiu pela ausência de direito líquido e certo da impetrante à extensão dos efeitos da legislação que determinou a implantação do sistema de bilhetagem eletrônica do Estado do Rio de Janeiro ao Município de Queimados, independente de sua autorização, nos seguintes termos (fls. 287-294):
+“(...)
+1. Não se tendo demonstrado que o município de Queimados aderiu ao sistema de bilhetagem eletrônica previsto na Lei Estadual nº 4.291, de 22 de março de 2004, e sendo o poder executivo municipal competente – por força do artigo 30, inciso V, da Constituição da República – para regulamentar o serviço essencial de transporte coletivo de seu interesse, não se vislumbra qualquer ilegalidade na expedição de portaria, pelo Secretário Municipal de Transportes, determinando à empresa impetrante a retirada de circulação de todos os veículos de sua propriedade porventura equipados com catracas eletrônicas ou validador eletrônico”.
+ Os embargos de declaração opostos foram rejeitados (fls. 310-315).
+2.  O Tribunal de origem asseverou a falta de prequestionamento da matéria discutida no extraordinário e que a questão restringiu-se à legislação infraconstitucional (fls. 420-424).
+3.  A agravante sustenta que o recurso preenche todos os requisitos para sua admissão e que a autoridade coatora editou ato administrativo gravoso impedindo a melhoria da prestação dos serviços da empresa concessionária de transporte coletivo.
+4.  O presente agravo não merece prosperar, pois, com exceção da norma do inciso V do art. 30, a matéria constitucional tida como afrontada não foi prequestionada porque não discutida pelo acórdão recorrido e, embora tenha sido suscitada na petição dos embargos de declaração a ele opostos (fls. 296-306), não foi apontada oportunamente nas razões da apelação (fls. 237-260), não sendo satisfeito, assim, o requisito do prequestionamento (Súmulas STF 282 e 356).
+É pacífica, nesta Corte, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142- AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.09.2001; e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+5.  Ademais, mesmo que superada a questão, para divergir da conclusão a que chegou o Tribunal a quo, cumpriria examinar a legislação local (Lei Estadual 4.291/2004 e Portaria 021/SMT/06-Município de Queimados), o que é defeso nesta fase recursal, nos termos da Súmula STF 280.
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
