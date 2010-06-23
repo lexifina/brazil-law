@@ -1,0 +1,19 @@
+1.  Trata-se de recurso extraordinário tirado de acórdão que, dando provimento aos embargos infringentes interpostos por Sérgio Sandler, julgou improcedente o pedido deduzido em sede de ação civil pública ajuizada pelo Ministério Público do Estado do Rio Grande do Sul, na qual se buscava a reparação de danos causados à zona de reserva biológica denominada Parque Estadual Delta do Jacuí, mediante a reconstituição da margem do rio às suas condições originais, a revegetação da área afetada com espécies nativas, o pagamento de indenização e a demolição de edificações existentes.
+2.  Daí o recurso extraordinário interposto pelo Ministério Público do Estado do Rio Grande do Sul, alegando a violação ao art. 225, § 3º, da Constituição Federal.
+3.  Admitido na origem, subiram os autos (fls. 1.356-1.360).
+4.  A Procuradoria-Geral da República opinou pelo provimento do recurso (fls. 1.454-1.457).
+5.  O acórdão recorrido ficou assim ementado na parte que interessa:
+EMBARGOS INFRINGENTES. CABIMENTO. AÇÃO CIVIL PÚBLICA. ALEGAÇÃO DE DANOS AO MEIO AMBIENTE. ÁREA DE RESERVA BIOLÓGICA. BEM PÚBLICO. CONSTRUÇÃO DE RESIDÊNCIA FAMILIAR. DEMOLIÇÃO. OBRIGAÇÃO DE FAZER. PROVA DOS AUTOS A DEMONSTRAR DEGRADAÇÃO DA ÁREA ANTERIORMENTE À EDIFICAÇÃO. FATO SUPERVENIENTE. INTELIGÊNCIA DO ART. 462, DO CPC. POSSIBILIDADE DE SUA APLICAÇÃO EM SEDE DE EMBARGOS INFRINGENTES .
+...
+Demonstrado nos autos que a área em que o réu procedeu à edificação de sua residência já era de há muito ocupada e degradada pela atividade humana, descabe sua condenação ao desfazimento da obra, com remoção dos entulhos, muito menos a recomposição ao estado anterior. De outra banda, tendo em vista fato superveniente, a evidenciar que a área onde se localiza a edificação será retirada da zona de restrição máxima - Zona de Reserva Biológica (ZRB) -, mais uma razão a levar à improcedência da demanda . EMBARGOS INFRINGENTES ACOLHIDOS, POR MAIORIA .
+6.  No seu recurso extraordinário, a parte recorrente sustentou suas razões buscando demonstrar, com base na prova coligida nos autos, a existência de responsabilidade da parte recorrida em virtude de sua conduta ser lesiva ao meio ambiente.
+7.  O acórdão recorrido, a seu turno, ao prover os embargos infringentes interpostos, levou em consideração dois fundamentos que tornam inviável a apreciação do presente recurso extraordinário.
+ Primeiramente, o voto condutor entendeu necessário examinar “com atenção a prova técnica efetivada, a qual, pelo uso de GPS , teria constatado estar o imóvel localizado em ZRB . Neste ponto, parecem-me relevantes os argumentos do embargante quanto a possíveis falhas na delimitação da área da denominada zona de reserva biológica” (fl. 1.193).
+ Referido voto também destacou como “significativo, definitivo e decisivo fato novo retratado e provado pelo embargante e ocorrido após a prolação do acórdão embargado” (fl. 1.196), qual seja a Quarta Reunião Extraordinária da Câmara Técnica Permanente de Biodiversidade e Política Florestal, que propôs o estabelecimento de novos limites do Parque Estadual Delta do Jacuí.
+ Em segundo lugar, o acórdão baseou suas conclusões na legislação local (Decreto estadual 24.436/79) e em legislação federal infraconstitucional (Lei 4.771/65 e Lei 9.985/2000), para verificar a natureza jurídica do Parque Estadual.
+ Estes fundamentos, conforme maciça jurisprudência do STF, tornam-se obstáculos intransponíveis ao conhecimento do RE. Nesse sentido: RE 576.987-AgR/SC, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 16.10.2009; RE 404.592-AgR/SP, rel. Min. Ayres Britto, 1ª Turma, unânime, DJe 27.11.2009; e AI 749.065-AgR/SP, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 09.4.2010.
+8.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
