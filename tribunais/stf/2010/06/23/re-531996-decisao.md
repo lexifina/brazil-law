@@ -1,0 +1,14 @@
+1.  Trata-se de recurso extraordinário interposto do acórdão de cuja ementa destaco:
+“ ADMINISTRATIVO. ADICIONAL DE INSALUBRIDADE. ILEGITIMIDADE ATIVA ‘AD CAUSAM’ DOS APELANTES. SUBSTITUIÇÃO PROCESSUAL. HONORÁRIOS ” (fl. 154).
+ Os embargos de declaração opostos foram rejeitados (fls. 167-170v.).
+2.  Admitido o recurso na origem (fl. 208), subiram os autos.
+3.  A parte recorrente alega, em síntese, ofensa aos arts. 5º, XXXV, LIV, LV, 8º, III, e 93, IX, da Constituição Federal (fls. 182-191).
+4.  Preliminarmente, verifico que o artigo 8º, III, da Constituição Federal não foi prequestionado, porque não abordado pelo acórdão recorrido, nem mencionado nos embargos de declaração que foram opostos, não sendo satisfeito, portanto, o requisito do prequestionamento (Súmulas/STF 282 e 356).
+5.  Quanto à alegação de ofensa aos incisos do artigo 5º da Constituição Federal, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, da prestação jurisdicional, do direito adquirido, do ato jurídico perfeito, dos limites da coisa julgada, do devido processo legal,   do contraditório e da ampla defesa podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+6.  Por fim, no que tange à suposta ofensa ao artigo 93, IX, da CF/88, verifico que o acórdão contém motivação suficiente e adequada. O fato de ter sido contrário aos interesses da parte não configura ofensa ao referido dispositivo constitucional. Nesse sentido, confiram-se os seguintes julgados: RE 535.315-AgR-ED/SP, de minha relatoria, 2ª Turma, unânime, DJe 22.05.2009; AI 557.074-AgR/SC, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 22.06.2007.
+ Sobre o assunto, ressalte-se, ainda, que esta Corte tem o seguinte entendimento: “o que a Constituição exige, no inc. IX, do art. 93, é que o juiz ou o tribunal dê as razões de seu convencimento, não se exigindo que a decisão seja amplamente fundamentada, extensamente fundamentada, dado que a decisão com motivação sucinta é decisão motivada” (RE 430.637-AgR/PR, rel. Min. Carlos Velloso, 2ª Turma, unânime, DJ 23.09.2005). Recentemente, esse posicionamento foi reafirmado pelo Pleno deste Tribunal, no julgamento do AI 791.292-QO/PE, rel. Min. Gilmar Mendes, por maioria, sessão de 23.06.2010, ao reconhecer a existência de repercussão geral sobre o tema.
+7.  Ante o exposto, com fundamento no art. 557, caput, do CPC, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
