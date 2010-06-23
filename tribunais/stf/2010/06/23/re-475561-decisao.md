@@ -1,0 +1,31 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão do STJ assim ementado:
+“ AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CONTRATAÇÃO TEMPORÁRIA. COMPETÊNCIA DO JUÍZO ESTADUAL. JURISPRUDÊNCIA PACIFICADA.
+A decisão agravada se baseou em farto e firme posicionamento jurisprudencial no sentido de que a competência se define em favor do juízo comum estadual quando a controvérsia estiver fundamentada em contratação temporária.
+Agravo desprovido.” (Fl. 73).
+2.  Os embargos de declaração opostos às fls. 77-79 foram rejeitados (fls. 82-87).
+3.  Nas razões do RE, sustenta-se ofensa aos artigos 37, IX e 114, da Constituição Federal.
+ O recorrente afirma que “o conflito de competência originou-se em reclamação trabalhista ajuizada por empregado público contratado por prazo determinado pela Prefeitura de Santos/SP, exercendo a função de encanador” (fl. 97). Alega que “os entes públicos só estão autorizados a contratar temporariamente nos casos do inciso IX do artigo 37. Então, é lógico concluir-se que o artigo 114 (competência da Justiça do Trabalho para processar e julgar as relações de trabalho, abrangidos os entes públicos) deve referir-se às relações contratuais decorrentes das situações do art. 37, IX, da CF” (fl. 100).
+4.  O presente recurso foi admitido à fl. 104.
+5.  O Ministério Público Federal opinou pelo provimento do recurso extraordinário (fls. 112-114).
+6.  Não assiste razão ao recorrente. O acórdão do Plenário desta Corte proferido no julgamento da Medida Cautelar na Ação Direta de Inconstitucionalidade 3.395/DF, rel. Min. Cezar Peluso, DJ 10.11.2006 contém a seguinte ementa:
+“ INCONSTITUCIONALIDADE . Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária.”
+No julgamento da Reclamação 4.872/GO, o Plenário do Supremo Tribunal Federal definiu o alcance dessa decisão, nos termos do voto proferido pelo Ministro Menezes Direito, redator p/ o acórdão, o qual recebeu a seguinte ementa:
+“Constitucional. Reclamação. Ação civil pública. Servidores públicos. Regime temporário. Justiça do Trabalho. Incompetência.
+1. No julgamento da ADI nº 3.395/DF-MC, este Supremo Tribunal suspendeu toda e qualquer interpretação do inciso I do artigo 114 da Constituição Federal (na redação da EC nº 45/04) que inserisse, na competência da justiça do Trabalho, a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+2. As contratações temporárias para suprir os serviços públicos estão no âmbito de relação jurídico-administrativa, sendo competente para dirimir os conflitos a justiça comum e não a Justiça especializada.
+3. Reclamação julgada procedente.” (DJe 06.11.2008).
+Ao julgar a Reclamação 4.489-AgR/PA, redatora p/ o acórdão Min. Cármen Lúcia, o Plenário desta Suprema Corte ratificou esse entendimento, in verbis:
+“ EMENTA: RECLAMAÇÃO CONSTITUCIONAL. AUTORIDADE DE DECISÃO PROFERIDA PELO SUPREMO TRIBUNAL FEDERAL: ARTIGO 102, INCISO I, ALÍNEA L, DA CONSTITUIÇÃO DA REPÚBLICA. MEDIDA CAUTELAR NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 3.395. CONTRATAÇÃO TEMPORÁRIA DE SERVIDORES PÚBLICOS: ARTIGO 37, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA. AÇÕES AJUIZADAS POR SERVIDORES TEMPORÁRIOS CONTRA A ADMINISTRAÇÃO PÚBLICA: COMPETÊNCIA DA JUSTIÇA COMUM. CAUSA DE PEDIR RELACIONADA A UMA RELAÇÃO JURÍDICO-ADMINISTRATIVA. AGRAVO REGIMENTAL PROVIDO E RECLAMAÇÃO PROCEDENTE.
+1. O Supremo Tribunal Federal decidiu no julgamento da Medida Cautelar na Ação Direta de Inconstitucionalidade n. 3.395 que ‘o disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária’.
+2. Apesar de ser da competência da Justiça do Trabalho reconhecer a existência de vínculo empregatício regido pela legislação trabalhista, não sendo lícito à Justiça Comum fazê-lo, é da competência exclusiva desta o exame de questões relativas a vínculo jurídico-administrativo.
+3. Se, apesar de o pedido ser relativo a direitos trabalhistas, os autores da ação suscitam a descaracterização da contratação temporária ou do provimento comissionado, antes de se tratar de um problema de direito trabalhista a questão deve ser resolvida no âmbito do direito administrativo, pois para o reconhecimento da relação trabalhista terá o juiz que decidir se teria havido vício na relação administrativa a descaracterizá-la.
+4. No caso, não há qualquer direito disciplinado pela legislação trabalhista a justificar a sua permanência na Justiça do Trabalho.
+5. Agravo regimental a que se dá provimento e reclamação julgada procedente.” (DJe 21.11.2008).
+Ressalte-se ainda que, no julgamento do Recurso Extraordinário 573.202/AM, rel. Min. Ricardo Lewandowski, ocorrido em 21.8.2008, o Plenário desta Corte concluiu que a relação entre o servidor e o Estado é, em princípio, uma relação de Direito Administrativo, razão pela qual se sujeita à Justiça Comum (DJe 05.12.2008).
+Assevere-se, ademais, que o Plenário do Supremo Tribunal Federal, em 02.4.2009, ao apreciar a Reclamação 7.109-AgR/MG, rel. Min. Menezes Direito, sedimentou esse entendimento (DJe 22.4.2009).
+7.  O presente caso trata exatamente de contratação por prazo determinado pela Prefeitura de Santos/SP, nos termos da Lei Municipal 650/90, para atendimento a necessidade temporária e excepcional interesse público (fls. 54 e 97), o que atrai, segundo a jurisprudência pacífica desta Corte, a competência da Justiça Comum. Dessa orientação não divergiu o acórdão recorrido.
+8.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
