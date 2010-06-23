@@ -1,0 +1,12 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão que entendeu ser indevida a restituição dos valores descontados a título de contribuição para o custeio de assistência médica diferenciada, no percentual de 3,6% previsto na Lei Estadual 7.672/82, sobre os proventos de servidor militar estadual inativo.
+2.  Nas razões do RE, sustenta-se ofensa aos artigos 40, §12; 149, parágrafo único; e 195, II, da Constituição Federal.
+ O recorrente pleiteia a devolução dos valores descontados no período compreendido entre a edição da EC 20/98 até o advento da EC 41/03.
+3.  No que se refere à contribuição ora em análise, a Primeira Turma, ao apreciar o RE 357.628-AgR/RS, rel. Min. Joaquim Barbosa, unânime, DJ 03.10.2003, assentou que “o custeio da assistência médica diferenciada presente no Estado do Rio Grande do Sul, por se tratar de ação voltada a assegurar direitos relativos à saúde, é espécie vinculada ao financiamento da seguridade social e, portanto, conforme decidido por esta Corte na ADI 2.010, medida liminar, Rel. Min. Celso de Mello, não pode ser aplicada aos aposentados e pensionistas.”
+ Aplicou-se, então, na ocasião, a jurisprudência desta Corte no sentido da impossibilidade de cobrança de contribuição previdenciária dos servidores inativos e pensionistas a partir da vigência da EC 20/98 até a promulgação da EC 41/03.
+4.  Todavia, o Supremo Tribunal Federal, no RE 596.701-RG/MG, rel. Min. Ricardo Lewandowski, DJe 19.06.2009, reconheceu a existência de repercussão geral da matéria referente à legalidade da cobrança de contribuição previdenciária sobre pensões e proventos de militares inativos relativamente ao advento das Emendas Constitucionais 20/98 e 41/03.
+5.  No julgamento do RE 540.410-QO/RS, rel. Min. Cezar Peluso, DJe 16.10.2008, e do AI 715.423-QO/RS, de minha relatoria, DJe 04.09.2008, esta Corte decidiu que, nos casos de matérias com repercussão geral reconhecida, é possível a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais de origem, para os fins previstos no art. 543-B, § 3º, do CPC.
+6.  Dessa forma, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, determino a devolução dos presentes autos ao Tribunal de origem, bem como a observância, no tocante ao apelo extremo interposto, das disposições do art. 543-B do Código de Processo Civil.
+Publique-se.
+Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
