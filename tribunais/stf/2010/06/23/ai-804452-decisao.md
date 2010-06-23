@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento interposto contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“  INDENIZAÇÃO POR ATERRAMENTO – ALEGAÇÃO DE PREJUÍZO DE ÁREA TIDA COMO '3O PORÃO' – PROVA PERICIAL QUE ATESTA A INEXISTÊNCIA DESSE PORÃO – PROVA TESTEMUNHAL INSUFICIENTE – RESSARCIMENTO INDEVIDO
+(...)” (fl. 13).
+No RE, interposto com base no art. 105, III, a, da Constituição, alegou-se ofensa ao art. 5°, X, XXII e LV, da mesma Carta.
+O agravo não merece acolhida. Bem examinados os autos, verifico que a parte agravante não indicou corretamente o dispositivo constitucional autorizador do recurso extraordinário, requisito indispensável ao seu conhecimento, a teor do art. 321 do RISTF. No mesmo sentido: AI 558.254-AgR/SP, de minha relatoria; AI 357.834-AgR/BA, Rel. Min. Celso de Mello; AI 554.630-AgR/RJ, Rel. Min. Carlos Velloso.
+Ressalte-se ainda que o agravante não instruiu o recurso com as peças obrigatórias, uma vez que deixou de juntar cópia da petição de embargos de declaração, o que impossibilita a aferição do necessário prequestionamento. Nesse sentido, anote-se:
+“EMENTA Agravo regimental no agravo de instrumento. Prequestionamento. Ausência de peça essencial. Precedentes. 1. Pacífica a jurisprudência desta Corte no sentido de que incumbe ao agravante instruir o agravo de instrumento não apenas com a cópia das peças obrigatórias indicadas de forma analítica pelo artigo 544, § 1º, do Código de Processo Civil, mas também com aquelas que se revelem essenciais para a compreensão da controvérsia. 2. Cabe ao agravante o ônus exclusivo de fiscalizar a formação do instrumento com o completo traslado das peças. A oportunidade para instruir o recurso é a de sua interposição. 3. A ausência das petições da apelação e dos embargos declaratórios impede, no caso, a verificação do prequestionamento do artigo 5º, inciso LV, da Constituição da República. Incidência das Súmulas nºs 288 e 356/STF. 4. Agravo regimental desprovido” (AI 705490 AgR/DF, Rel. Min. Menezes Direito, Primeira Turma).
+Segundo a jurisprudência deste Tribunal, o agravo de instrumento deve ser instruído com as peças obrigatórias e também com as necessárias ao exato conhecimento das questões discutidas (Súmula 288 do STF). Nesse sentido, menciono as seguintes decisões, entre outras: AI 451.502/SP e AI 489.998/DF, Rel. Min. Ellen Gracie; AI 209.987/SP, Rel. Min. Maurício Corrêa; AI 491.888/SP, Rel. Min. Carlos Velloso; AI 646.618/SP, Rel. Min. Gilmar Mendes.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
