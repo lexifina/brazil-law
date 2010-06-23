@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho o qual manteve decisão de procedência da ação rescisória, fundamentada no artigo 485, V, do Código de Processo Civil, proposta pela ora recorrida, para excluir da condenação inicial as diferenças salariais decorrentes da URP de fevereiro de 1989 (fls. 396-400).
+ A Corte de origem asseverou, em síntese (fls. 427-429), que a alegada violação ao art. 5º, XXXV, LIV e LV, da Carta Magna, se existisse, seria indireta, porquanto precede de lesão a legislação infraconstitucional.
+2.  O presente agravo não merece prosperar. Inicialmente, este Tribunal entende que, em regra, as alegações de desrespeito aos postulados do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, do ato jurídico perfeito, da coisa julgada e da prestação jurisdicional, porque dependentes de reexame prévio de normas infraconstitucionais, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição Federal, o que não dá acesso ao contencioso constitucional. Nesse sentido, o AI 372.358-AgR/SP, rel. Min. Celso de Mello, 2ª Turma, DJ 28.06.2002.
+3.  Ademais, o acórdão recorrido, ao julgar a ação rescisória, nada mais fez do que se ajustar ao entendimento do Supremo Tribunal Federal, conforme se pode verificar nos seguintes julgados: RE 371.777/RN, rel. Min. Cezar Peluso, DJe 18.08.2009; AR 1.427/SP, rel. Min. Menezes Direito, DJe 07.04.2009; AI 323.979-AgR/RJ, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 18.03.2005; RE 202.250-AgR/PR, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 17.12.2004.
+4.  Ressalte-se que esta Corte, ao apreciar o RE 328.812-ED/AM, rel. Min. Gilmar Mendes, Plenário, unânime, DJe 02.05.2008, assim se pronunciou sobre a incidência da Súmula STF 343:
+“6. Cabe ação rescisória por ofensa à literal disposição constitucional, ainda que a decisão rescindenda tenha se baseado em interpretação controvertida ou seja anterior à orientação fixada pelo Supremo Tribunal Federal”.
+ Nesse sentido: AI 555.806-AgR/MG, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 18.04.2008; RE 500.043/GO, rel. Min. Cármen Lúcia, DJe 20.10.2008; entre outros.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
