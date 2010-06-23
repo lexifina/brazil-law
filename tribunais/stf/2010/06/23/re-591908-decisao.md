@@ -1,0 +1,12 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 121):
+“SERVIDORES PÚBLICOS MUNICIPAIS – Pretensão objetivando a restituição de todas as parcelas que pagaram ao IPREM a título de contribuição adicional de 3%, voltada a assegurar a concessão de pensão às filhas solteiras, de qualquer idade, quando de sua morte – Improcedência corretamente decretada em primeiro grau – EC nº 19/98 e LF nº 9.717/98 que vedam a concessão, pelos regimes de previdência social, de benefícios não previstos, de modo expresso, na lei geral referente a matéria (Lei nº 8.213/91) – Insubsistente, destarte, o direito ao pensionamento anteriormente reconhecido, haja vista o desaparecimento das condições legais para tanto – Hipótese em que não há como alardear que o simples pagamento da contribuição, no período de vigência da Lei Municipal nº 10.828/90, induz à aquisição do direito a futura pensão, estando delineada apenas mera possibilidade ou esperança de adquirir um direito – Inadmissível, ainda, a indicação de que há locupletamento injusto do Instituto acionado – Contribuições recolhidas que não compõe uma conta individual mas um fundo comum (fundo de previdência) destinado a garantir o pagamento até o final, dos benefícios já concedidos – Impossibilidade, nesse contexto, da repetição das contribuições recolhidas – Apelo não provido.”
+2. Pois bem, a parte recorrente alega violação ao inciso XXXVI do art. 5º, ao § 1º e inciso XII do art. 24, e ao art. 201, todos da Carta Magna de 1988. Pede a devolução das contribuições.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Rodrigo Janot Monteiro de Barros, opina pelo não-conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. Isso porque o deslinde da controvérsia depende da análise do conjunto fático-probatório dos autos e do prévio exame da legislação local pertinente. Providências que não têm lugar na via extraordinária, nos termos das Súmulas 279 e 280 desta nossa Corte.
+5. No mesmo sentido, veja-se o AI 572.641, da relatoria do ministro Cezar Peluso.
+Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
