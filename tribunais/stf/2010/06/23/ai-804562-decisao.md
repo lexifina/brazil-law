@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“EMENTA: TRIBUTÁRIO. CONSTITUCIONAL. DUPLO GRAU DE JURISDIÇÃO. APELAÇÃO CÍVEL. ISSQN. LISTA DE SERVIÇOS. INTERPRETAÇÃO EXTENSIVA. POSSIBILIDADE. I – A lista de serviços que acompanha a lei complementar nº 87/56 é taxativa em sua enumeração, contudo admite interpretação extensiva para cada uma das diversas atividades que seus itens enunciam. II – A interpretação extensiva, além de possibilitar a incidência do ISS sobre serviços correlatos àqueles expressamente previstos na lista de serviços, impede a elisão fiscal decorrente do extenso e variado rol de serviços bancários. Remessa obrigatória conhecida e desprovida. III – A multa aplicada ao débito tributário não tem caráter de confisco, mas, sim, de mera penalidade com o objetivo de combater a sonegação e coibir a inadimplência, em observância à legislação municipal. Remessa conhecida e desprovida. Recursos apelatórios conhecidos e desprovidos” (fl. 534).
+O recorrente requer que
+“a sentença e o acórdão regional sejam reformados para afastar a multa e os encargos financeiros abusivos para determinar a aplicação 'ipsis literis', do art. 268 da Lei 5040/75, que trata da aplicação automática dos índices de correção monetária fixados pelo Governo Federal, o que não foi observado pelo Recorrido.
+Requer também que o Recurso Extraordinário seja provido para declarar a inconstitucionalidade/ilegalidade da multa moratória e dos juros moratórios cobrados, determinando-se sua redução por resultarem em confisco e enriquecimento indevido por parte do Apelado, afrontando os dispositivos legais e constitucionais mencionados” (fl. 543 – grifos no original)
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, LIV e 150, IV, da mesma Carta.
+A repercussão geral do tema constitucional versado nos presentes autos - caráter confiscatório de multa - foi submetida aos Ministros desta Corte por meio do RE 582.461/SP, Rel. Min. Cezar Peluso, ocasião em que se reputou existente a repercussão geral.
+Assim, uma vez que no presente extraordinário discutem-se questões que serão apreciadas no RE 582.461/SP, determino, com fundamento no art. 328, parágrafo único, do RISTF, a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B e parágrafos do CPC.
+Publique-se.
+Brasília, 23 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
