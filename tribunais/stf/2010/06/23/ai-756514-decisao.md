@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que não conferiu efeitos prospectivos à declaração incidental de inconstitucionalidade da legislação do Município do Rio de Janeiro relativa ao IPTU e às taxas de iluminação pública-TIP e de coleta de lixo e limpeza pública-TCLLP(fls. 96-100).
+2.  Nas razões do RE, sustenta-se ofensa aos artigos 6º, 30, III, 145, I e 156 da Constituição Federal e aos princípios constitucionais da segurança jurídica e da boa fé (fls. 137-150).
+ Ao final, a parte recorrente requer a atribuição de “efeitos ex nunc à declaração de inconstitucionalidade dos tributos em evidência” (fl. 150).
+3.  O recurso não merece prosperar. Ambas as Turmas desta Corte já pacificaram o entendimento de que não cabe, no presente caso, a modulação dos efeitos da declaração de inconstitucionalidade. Nesse sentido, o AI 681.730-AgR/RJ, rel. Min. Celso de Mello, 2ª Turma, unânime, DJe 14.12.2007; o AI 652.702-AgR/RJ, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 28.09.2007; o AI 597.278-AgR/RJ, rel. Min. Cezar Peluso, 2ª Turma, unânime, DJe 14.11.2008; o AI 524.091-AgR/RJ, rel. Min. Gilmar Mendes, 2ª Turma, unânime, DJe 25.04.2008; o AI 557.237-AgR/RJ, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJe 26.10.2007; o AI 655.047-AgR/RJ, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 13.06.2008; o AI 608.012-ED/RJ, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 19.12.2007; o AI 703.166-AgR/RJ, rel. Min. Carlos Britto, 1ª Turma, unânime, DJe 14.11.2008; o AI 614.506-ED/RJ, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 05.09.2008; e o AI 684.641-AgR/RJ, de minha relatoria, 2ª Turma, unânime, DJe 18.09.2009, cujo acórdão está assim ementado:
+ “AGRAVO REGIMENTAL. TRIBUTÁRIO. IPTU. MUNICÍPIO DO RIO DE JANEIRO. PROGRESSIVIDADE ANTERIOR À EC 29/2000. DECLARAÇÃO DE INCONSTITUCIONALIDADE. EFEITOS EX NUNC: IMPOSSIBILIDADE. 1. Não cabe a atribuição de efeitos prospectivos à declaração incidental de inconstitucionalidade da legislação do IPTU do Município do Rio de Janeiro. Precedentes. 2. Agravo regimental a que se nega provimento.”
+ O acórdão recorrido não divergiu desse entendimento.
+4.  Por fim, frise-se que o Supremo Tribunal Federal manifestou-se pela inexistência de repercussão geral da matéria no RE 592.321-RG/RJ, rel. Min. Cezar Peluso, DJe 09.10.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 23 de junho de 2010.
+Ministra Ellen Gracie
+Relatora
