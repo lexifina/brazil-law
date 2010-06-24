@@ -1,0 +1,1 @@
+Art. 23. Os Tribunais de Justiça poderão limitar, por até 5 (cinco) anos, a partir da entrada em vigor desta Lei, a competência dos Juizados Especiais da Fazenda Pública, atendendo à necessidade da organização dos serviços judiciários e administrativos.

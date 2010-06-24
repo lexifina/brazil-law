@@ -1,0 +1,3 @@
+Art. 15. Serão designados, na forma da legislação dos Estados e do Distrito Federal, conciliadores e juízes leigos dos Juizados Especiais da Fazenda Pública, observadas as atribuições previstas nos arts. 22, 37 e 40 da Lei nº 9.099, de 26 de setembro de 1995.
+§ 1º Os conciliadores e juízes leigos são auxiliares da Justiça, recrutados, os primeiros, preferentemente, entre os bacharéis em Direito, e os segundos, entre advogados com mais de 2 (dois) anos de experiência.
+§ 2º Os juízes leigos ficarão impedidos de exercer a advocacia perante todos os Juizados Especiais da Fazenda Pública instalados em território nacional, enquanto no desempenho de suas funções.
