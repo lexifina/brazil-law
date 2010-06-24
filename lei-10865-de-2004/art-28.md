@@ -17,4 +17,6 @@ XV - artigos e aparelhos ortopédicos ou para fraturas classificados no código 
 XVI - artigos e aparelhos de próteses classificados no código 90.21.3 da NCM;
 XVII - almofadas antiescaras classificadas nos Capítulos 39, 40, 63 e 94 da NCM.
 XVIII - bens relacionados em ato do Poder Executivo para aplicação nas Unidades Modulares de Saúde de que trata o Convênio ICMS nº 114, de 11 de dezembro de 2009, quando adquiridos por órgãos da administração pública direta federal, estadual, distrital e municipal.
-Parágrafo único. O Poder Executivo poderá regulamentar o disposto nos incisos IV, X e XIII a XVIII do caput deste artigo.
+XIX - projetores para exibição cinematográfica, classificados no código 9007.2 da NCM, e suas partes e acessórios, classificados no código 9007.9 da NCM.
+§ 1º O Poder Executivo poderá regulamentar o disposto nos incisos IV, X e XIII a XIX do caput deste artigo
+§ 2º Durante o exercício de 2010, a redução de alíquota de que trata o inciso XIX do caput deste artigo somente se aplicará aos projetos referentes a implantação de novas salas de exibição.
