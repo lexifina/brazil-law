@@ -1,0 +1,14 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul. Acórdão assim fundamentado, na parte que interessa (fls. 31-v/32):
+“Trata-se de ação declaratória de isonomia de vencimentos cumulada com indenização, em que os servidores – policiais militares – da Brigada Militar buscam equiparação de vencimento básico com aquele percebido por colega paradigma.
+In casu, restou demonstrada a ocorrência de aplicação de índices de reajustes ao paradigma (fl. 21), em razão de êxito deste em demanda judicial, na qual postulou os índices de reajuste previstos na Lei 10.395/95, ao contrário dos autores, que ingressaram com ações judiciais postulando os mesmos reajustes e obtiveram decisões de improcedência. Assim, a pretensão dos apelantes de eliminar a diferença salarial, mediante a propositura do direito próprio, com base na lei não cumprida, restou frustrada, em ação ajuizada anteriormente.
+Elenco, de pronto, dois óbices intransponíveis ao direito pleiteado nesta demanda: a) a diferença entre o vencimento básico do recorrente e o do paradigma, como se vê, não decorre de ato próprio da Administração, mas de decisão judicial, que não se estende aos ora recorrentes em virtude dos limites subjetivos da sois julgada, a teor do artigo 472 do CPC; e b) a pretensão autoral, de qualquer forma, esbarra na disposição da Súmula 339 do STF, já que é vedado ao Poder Judiciário conceder aumentos a servidores públicos, sob o argumento de que há afronta ao princípio da isonomia salarial.”
+2. Pois bem, a parte agravante aponta violação ao caput do art. 5º, ao caput do art. 37, aos incisos I, II e III do § 1º do art. 39, todos da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. De saída, observo que a Instância Judicante de origem adotou fundamento infraconstitucional suficiente para a manutenção do julgado (art. 472 do Código de Processo Civil), que está precluso ante a não-interposição de recurso especial para o Superior Tribunal de Justiça. O que atrai a incidência da Súmula 283 do STF:
+“É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.”
+4. De mais a mais, anoto que o entendimento adotado pelo Tribunal gaúcho afina com a jurisprudência desta nossa Corte, que me parece juridicamente correta, no sentido de que é “vedado ao Poder Judiciário, que não tem função legislativa, estender a servidores públicos prerrogativas que não lhes foram deferidas em lei, com base no princípio da isonomia. Aplicação do enunciado da Súmula STF nº 339” (RE 345.458, da relatoria da ministra Ellen Gracie).
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 24 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
