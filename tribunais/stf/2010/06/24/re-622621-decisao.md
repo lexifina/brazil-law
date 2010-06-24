@@ -1,0 +1,15 @@
+DECISÃO: Vistos, etc.
+Cuida-se de processo em que se discute a constitucionalidade da exigência do prévio indeferimento do pedido de concessão de benefício previdenciário no âmbito administrativo como condição de acesso ao Poder Judiciário.
+2. Pois bem, a parte recorrente sustenta violação ao art. 2º e ao inciso XXXV do art. 5º da Constituição Federal.
+3. Tenho que a insurgência não merece acolhida. De saída, observo que o art. 2º da Constituição Federal não foi apreciado pelo aresto impugnado. Tampouco foram opostos embargos declaratórios para suprir eventual omissão. Falta, portanto, o necessário prequestionamento, nos termos das Súmulas 282 e 356 do STF.
+4. De mais a mais, o entendimento adotado pela Instância Judicante de origem afina com a jurisprudência desta nossa Corte, que me parece juridicamente correta. Leia-se, a propósito, a ementa do RE 549.238-AgR, da relatoria do ministro Ricardo Lewandowski:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. BENEFÍCIO. PRÉVIO REQUERIMENTO ADMINISTRATIVO. NEGATIVA DA AUTARQUIA PREVIDENCIÁRIA COMO CONDIÇÃO DA AÇÃO: DESNECESSIDADE. ART. 557 DO CPC. ATRIBUIÇÕES DO RELATOR. AGRAVO REGIMENTAL IMPROVIDO.
+I - Não há previsão constitucional de esgotamento da via administrativa como condição da ação que objetiva o reconhecimento de direito previdenciário. Precedentes.
+II - Quanto ao art. 557 do CPC, na linha do entendimento desta Corte, é constitucionalmente legítima a, ‘atribuição conferida ao Relator para arquivar, negar seguimento a pedido ou recurso e dar provimento a este - RI/STF, art. 21, § 1º; Lei 8.038/90, art. 38; CPC, art. 557, redação da Lei 9.756/98 - desde que, mediante recurso, possam as decisões ser submetidas ao controle do Colegiado’ (RE 321.778-AgR/MG, Rel. Min. Carlos Velloso).
+III - Agravo regimental improvido.”
+5. Decisões no mesmo sentido: AI 525.766, da relatoria do ministro Marco Aurélio; bem como REs 548.676 e 548.767, ambos da relatoria do ministro Eros Grau.
+Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 24 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
