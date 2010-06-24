@@ -1,0 +1,1 @@
+Art. 22. Os Juizados Especiais da Fazenda Pública serão instalados no prazo de até 2 (dois) anos da vigência desta Lei, podendo haver o aproveitamento total ou parcial das estruturas das atuais Varas da Fazenda Pública.

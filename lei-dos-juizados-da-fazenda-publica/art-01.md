@@ -1,0 +1,2 @@
+Art. 1º Os Juizados Especiais da Fazenda Pública, órgãos da justiça comum e integrantes do Sistema dos Juizados Especiais, serão criados pela União, no Distrito Federal e nos Territórios, e pelos Estados, para conciliação, processo, julgamento e execução, nas causas de sua competência.
+Parágrafo único. O sistema dos Juizados Especiais dos Estados e do Distrito Federal é formado pelos Juizados Especiais Cíveis, Juizados Especiais Criminais e Juizados Especiais da Fazenda Pública.

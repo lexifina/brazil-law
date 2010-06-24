@@ -1,0 +1,1 @@
+Art. 20. Os Tribunais de Justiça, o Superior Tribunal de Justiça e o Supremo Tribunal Federal, no âmbito de suas competências, expedirão normas regulamentando os procedimentos a serem adotados para o processamento e o julgamento do pedido de uniformização e do recurso extraordinário.
