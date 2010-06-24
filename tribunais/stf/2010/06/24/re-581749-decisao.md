@@ -1,0 +1,15 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro. Acórdão assim ementado (fls. 78/79):
+“Apelação cível. Embargos do Devedor. Execução Fiscal. Exigência do ICMS. Serviço público essencial de captação, tratamento e distribuição de água. Autarquia municipal. Não incidência do tributo estadual, por não poderem as águas distribuídas serem classificadas como mercadorias. Proibição pelo art. 46 do Código de Águas, de alienação de águas públicas, ainda que parcial, o que as exclui da espécie ‘mercadoria’ do gênero ‘bens’, por não terem sido produzidas ou adquiridas pelo distribuidor. A tarifa ou preço público, remunera a captação, tratamento e a distribuição.
+Sentença que se confirma.
+Recurso improvido.”
+2. Pois bem, a parte recorrente alega violação ao inciso XXXV do art. 5º, à alínea “a” do inciso VI e aos §§ 2º e 3º do art. 150, e ao inciso III do § 1º e aos §§ 2º e 3º do art. 173, todos da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. É que o aresto impugnado afina com a jurisprudência desta nossa Corte, que me parece juridicamente correta. Leia-se, a propósito, a ementa da ADI 2.224, relator para o acórdão o ministro Nelson Jobim:
+“CONSTITUCIONAL. TRIBUTÁRIO. RESOLUÇÃO Nº 98/89 QUE APROVOU CONVÊNIO NA FORMA DA LC 24/75, EM QUE AUTORIZA ESTADOS E O DISTRITO FEDERAL A CONCEDERAM 'A ISENÇÃO DO ICMS EM OPERAÇÕES COM ÁGUA NATURAL CANALIZADA, NAS HIPÓTESES PREVISTAS NA LEGISLAÇÃO ESTADUAL'. EDIÇÃO DO CONVÊNIO 77/95, DO MINISTÉRIO DA FAZENDA, QUE AUTORIZA RIO DE JANEIRO E RIO GRANDE DO SUL A REVOGAREM A ISENÇÃO DO ICMS PARA A ÁGUA CANALIZADA. RESOLUÇÃO Nº 2.679/96, QUE LEVA A EFEITO O CONVÊNIO 77/95. REQUERIDA DECLARAÇÃO DE INCONSTITUCIONALIDADE DOS DOIS ÚLTIMOS ATOS NORMATIVOS, SOB A ALEGAÇÃO DE: 1)ERRÔNEA CLASSIFICAÇÃO DE ÁGUA CANALIZADA COMO MERCADORIA; 2)LEGITIMIDADE DOS ESTADOS E DISTRITO FEDERAL PARA FIRMAR CONVÊNIOS QUE TRATEM DE ISENÇÃO DE ICMS, NA FALTA DE LEI COMPLEMENTAR. NECESSÁRIA A COMPREENSÃO DA EXTENSÃO DA HIPÓTESE DE INCIDÊNCIA DO ICMS - ART. 155, II, CF, PARA IDENTIFICAR O QUE CONSTITUI OU NÃO FATO GERADOR DO ICMS. JURISPRUDÊNCIA DESTE TRIBUNAL QUE ENTENDE NÃO SER A ÁGUA CANALIZADA MERCADORIA SUJEITA A TRIBUTAÇÃO PELO ICMS, POR TRATAR-SE DE SERVIÇO PÚBLICO. EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE, SE A SUSPENSÃO DA NORMA IMPUGNADA FIZER RESSURGIR NORMA ANTERIOR TAMBÉM INCONSTITUCIONAL, ESTAS DEVERÃO SER IMPUGNADAS NA INICIAL. O QUE NÃO SUCEDEU. SE DECIDIR ESTE TRIBUNAL PELA INCONSTITUCIONALIDADE DO CONVÊNIO 77/95, HAVERÁ A REPRISTINAÇÃO DO CONVÊNIO ANTERIOR - Nº 98/89.
+AÇÃO NÃO CONHECIDA.”
+4. Outros precedentes: AIs 733.995, da relatoria da ministra Cármen Lúcia; 745.806-AgR, da relatoria do ministro Eros Grau; e 773.734, da relatoria do ministro Celso de Mello; bem como o RE 513.464, da relatoria do ministro Ricardo Lewandowski.
+Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 24 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
