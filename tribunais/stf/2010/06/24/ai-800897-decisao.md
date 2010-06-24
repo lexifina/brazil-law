@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de recurso extraordinário interposto contra acórdão que fixou o valor da indenização por danos morais usando o salário mínimo como referência, sustentando-se como violado o artigo 7º, IV, da Constituição do Brasil, que veda a vinculação.
+2.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+3.  O Pleno desta Corte, no julgamento da ADI n. 1.425, Relator o Ministro Marco Aurélio, DJ de 26.3.99, fixou entendimento segundo o qual “ao estabelecer o artigo 7º, IV, da Constituição Federal que é vedada a vinculação ao salário-mínimo para qualquer fim, quis evitar que interesses estranhos aos versados na norma constitucional venham a ter influência na fixação do valor mínimo a ser observado”. Portanto, o que não se admite é observar o salário-mínimo para efeitos de atualização de qualquer indenização, mas não como expressão do valor inicial da condenação [RE n. 338.760, Relator o Ministro Sepúlveda Pertence, DJ de 28.6.02].
+4.  No mesmo sentido é a decisão proferida no RE n. 140.940, Relator o Ministro Ilmar Galvão, DJ de 7.3.95, quando restou assente que a vedação inscrita na parte final do inciso IV do artigo 7º da Constituição não se aplica à fixação de base de cálculo e atualização de pensão em ação de indenização por ato ilícito. Assim, a referência ao valor do salário mínimo apenas serve de parâmetro para o cálculo da indenização.
+   Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Intime-se.
+ Brasília, 24 de junho de 2010.
+Ministro Eros au
+- Relator -
