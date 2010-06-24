@@ -1,0 +1,7 @@
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1º do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+§ 1º Eventuais pedidos de uniformização fundados em questões idênticas e recebidos subsequentemente em quaisquer das Turmas Recursais ficarão retidos nos autos, aguardando pronunciamento do Superior Tribunal de Justiça.
+§ 2º Nos casos do caput deste artigo e do § 3º do art. 18, presente a plausibilidade do direito invocado e havendo fundado receio de dano de difícil reparação, poderá o relator conceder, de ofício ou a requerimento do interessado, medida liminar determinando a suspensão dos processos nos quais a controvérsia esteja estabelecida.
+§ 3º Se necessário, o relator pedirá informações ao Presidente da Turma Recursal ou Presidente da Turma de Uniformização e, nos casos previstos em lei, ouvirá o Ministério Público, no prazo de 5 (cinco) dias.
+§ 4º (VETADO)
+§ 5º Decorridos os prazos referidos nos §§ 3º e 4º, o relator incluirá o pedido em pauta na sessão, com preferência sobre todos os demais feitos, ressalvados os processos com réus presos, os habeas corpus e os mandados de segurança.
+§ 6º Publicado o acórdão respectivo, os pedidos retidos referidos no § 1º serão apreciados pelas Turmas Recursais, que poderão exercer juízo de retratação ou os declararão prejudicados, se veicularem tese não acolhida pelo Superior Tribunal de Justiça.

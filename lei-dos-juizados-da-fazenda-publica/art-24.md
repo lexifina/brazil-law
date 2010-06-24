@@ -1,0 +1,1 @@
+Art. 24. Não serão remetidas aos Juizados Especiais da Fazenda Pública as demandas ajuizadas até a data de sua instalação, assim como as ajuizadas fora do Juizado Especial por força do disposto no art. 23.
