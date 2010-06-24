@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais ementado nos seguintes termos [fl. 116]:
+“SERVIDOR PÚBLICO – CARGO COMISSIONADO – PREENCHIMENTO DOS REQUISITOS APÓS AS MODIFICAÇÕES CONSTITUCIONAIS DECORRENTES DA EC N. 20/98 – APOSENTADORIA – SUBMISSÃO AO REGIME GERAL DE PREVIDÊNCIA – DIREITO RECONHECIDO – SENTENÇA MANTIDA. – O servidor público, detentor de cargo exclusivamente comissionado que preenche os requisitos de tempo de contribuição e idade mínima após as modificações no regime previdenciário introduzidas com a Emenda Constitucional n. 20/98, tem direito à aposentadoria; contudo, submeter-se-á às regras do regime geral de previdência e não ao regime próprio dos servidores públicos, mas de todo modo tem direito à aposentadoria independentemente da unidade gestora do sistema de previdência”.
+2.  Alega-se, no recurso extraordinário, violação do disposto no artigo 40, § 13, da Constituição do Brasil.
+3.  Deixo de apreciar a existência da repercussão geral, vez que o artigo 323, § 1º, do RISTF dispõe que "[t]al procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+4.  O recurso não merece provimento. O Tribunal a quo ao decidir que a ora recorrida não tem direito à aposentadoria pelo regime próprio dos servidores públicos, aplicou ao caso sob exame, o entendimento deste Tribunal sobre a matéria, como se pode depreender da ementa do seguinte julgado:
+“ EMENTA: Agravo regimental em recurso extraordinário. 2. Servidor Público. Aposentadoria. Cargo em comissão. 3. Não tem direito à aposentadoria estatutária o servidor detentor de cargo em comissão aposentado após a Emenda Constitucional nº 20, de 16 de dezembro de 1998. 4. Constitucionalidade do art. 40, § 13 da CF. Precedente. 5. Direito Adquirido a regime jurídico. Impossibilidade. Precedente. 6. Agravo regimental a que se nega provimento” [RE n. 432.192–AgR, Relator o Ministro Gilmar Mendes, DJ de 12.5.06].
+  Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 24 de junho de 2010.
+Ministro Eros Grau
+- Relator -
