@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1047, de 24 de junho de 2010
+Altera a Instrução Normativa SRF nº 119, de 28 de dezembro de 2000, que dispõe sobre a retenção de Imposto de Renda na Fonte relativo a rendimentos pagos ou creditados por pessoas jurídicas a outras pessoas jurídicas, sujeitos à retenção na fonte.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 86 da Lei Nº 8.981, de 20 de janeiro de 1995, no art. 943 do Decreto nº 3.000, de 26 de março de 1999, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
