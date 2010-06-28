@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. DEFICIÊNCIA DO TRASLADO. PROTOCOLO DA PETIÇÃO DE RECURSO EXTRAORDINÁRIO ILEGÍVEL. INCIDÊNCIA DA SÚMULA 288 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com fundamento no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“APELAÇÃO - CONSIGNAÇÃO EM PAGAMENTO - Empresa-autora que possui como atividade cadastrada como sendo de metalurgia do alumínio e suas ligas - Atividade desenvolvida preponderando o processo de produção e circulação de mercadorias - Incidência do ICMS - Pretensão da apelante, Fazenda Municipal, de afastar a incidência do ICMS de suas operações, sob a alegação de que a autora confecciona peças de natureza personalizada, com característica de serviços - Sentença que reconheceu que a atividade da autora sujeita-se a tributação por ICMS mantida - As peças fabricadas pela recorrente, que vão acondicionar produtos comercializados, não podem ser considerados ‘personalizados’, mas como industrializados, caracterizando-se atividade tipicamente industrial - Tais produtos, embora encomendados, se destinam a integrar novos produtos, que posteriormente integrarão novo ciclo econômico, ocorrendo a típica circulação de mercadorias - Incidência de ICMS - Recurso não provido” (fl. 33).
+Tem-se no voto condutor do julgado recorrido:
+“Conforme se constata da ficha cadastral da autora, sua atividade encontra-se relacionada à metalurgia do alumínio e suas ligas (fl.128). Na espécie, verifica-se que há nítida vinculação da atividade desenvolvida pela autora, com o processo de produção e circulação de mercadorias.
+(...)
+E ainda, a autora propriamente confessa que é empresa intermediária do processo produtivo de máquinas e equipamentos industriais, conhecidos como bens de capital fixo (fl.05).
+Mais a mais, o trabalho desenvolvido pela autora traduz-se em uma atividade industrial, dedicado ao ramo da usinagem em geral, colocando partes e peças no maquinário da siderurgia, para restaurá-los, beneficiá-los, condicioná-los e recondicioná-los, de forma que o produto de sua atividade entra na composição das máquinas que são posteriormente repassadas para as empresas de siderurgia, envolvendo obrigação de dar, de entregar o produto, e não de fazer. E ainda, mesmo que personalizada e feita por encomenda caracteriza atividade produtiva terceirizada, incidindo-se sobre ela o ICMS e não ISS” (fls. 35-36).
+3. No recurso extraordinário, o Agravante afirma que o Tribunal a quo teria contrariado o art. 156, inc. III, da Constituição.
+Alega que “a atividade-fim da empresa Consignante se enquadra no item 14.05 da Lista de Serviço da LC 116/03, a qual foi editada em total consonância com a Constituição da República” (fl. 51).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta (fls. 52-53).
+O Agravante reitera os argumentos formulados no recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Há deficiência no traslado. O carimbo de protocolo da cópia da petição de recurso extraordinário (fls. 40-51) é ilegível.
+Assim, torna-se inviável aferir a tempestividade do recurso extraordinário, razão pela qual incide na espécie vertente a Súmula 288 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CRIMINAL. RECURSO EXTRAORDINÁRIO. CARIMBO DE PROTOCOLO ILEGÍVEL. IMPOSSIBILIDADE DE COMPROVAÇÃO DA TEMPESTIVIDADE. 1. O carimbo do protocolo no recurso extraordinário deve ser legível para permitir a verificação da data de interposição. Incumbe ao Agravante o ônus processual de demonstrar que a petição recursal foi protocolada em tempo oportuno. 2. Na linha da jurisprudência deste Supremo Tribunal Federal, é ‘indispensável que esteja legível a data do carimbo de interposição do recurso, ainda que esse vício não seja questionado pela parte contrária, nem negado pela decisão agravada’ (AI 639.911-AgR, Rel. Min. Sepúlveda Pertence, DJ 31.8.2007)” (AI 661.198-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2008).
+“Embargos de declaração recebidos como agravo regimental. 2. Recurso inexistente. Ausência de assinatura do advogado do agravante na peça recursal. 3. Ademais, encontra-se ilegível a data de ingresso contida no protocolo da petição do recurso extraordinário, fato que impossibilita aferir a sua tempestividade, pressuposto de ordem pública do seu cabimento. Incidência das Súmulas STF nºs 288 e 639. 4. Agravo regimental não conhecido” (AI 663.669-ED, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe 12.9.2008).
+7. Ainda que assim não fosse, para se concluir de modo diverso, seria imprescindível o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do Supremo Tribunal Federal e não viabiliza o recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS - ISS. NATUREZA JURÍDICA DO SERVIÇO PRESTADO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 759.801-AgR, de minha relatoria, DJ 2.10.2009).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ISS. FATO GERADOR. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. SÚMULA 279 DO STF. A hipótese dos autos impõe o reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE 576.844-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 17.10.2008).
+8. Não há, pois, o que prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de junho de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
