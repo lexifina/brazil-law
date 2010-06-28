@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. OFENSA AO PRINCÍPIO DA RESERVA DE PLENÁRIO. PREQUESTIONAMENTO NÃO DEMONSTRADO. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+“TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. EMPRESAS PRESTADORAS DE SERVIÇOS. ARTIGO 31 DA LEI N. 8.212/91, COM REDAÇÃO DADA PELA LEI N. 9.711/98. RETENÇÃO DE 11% PELA EMPRESA CONTRATANTE. EMPRESA OPTANTE PELO SIMPLES. EXIGÊNCIA LEGÍTIMA.
+1. A Lei n. 9.711/98, ao alterar o artigo 31 da Lei n. 8.212/91, tão-somente criou hipótese de responsabilidade tributária (CTN, art. 128), transferindo ao contratante de serviços prestados mediante cessão de mão-de-obra a responsabilidade pela retenção antecipada da contribuição previdenciária devida pela empresa cedente. Não houve, portanto, qualquer modificação no quantum a ser pago a título de contribuição social pelas empresas cedentes de mão-de-obra, tampouco criação de nova espécie tributária. Precedentes desta Corte, do STJ e do Supremo Tribunal Federal.
+2. Em consonância com o entendimento adotado pelo STJ no julgamento do EREsp 511001/MG, afigura-se ilegítima a exigência quanto à empresa contratante optante pelo SIMPLES, cuja sistemática é incompatível com o regime de recolhimento antecipado de 11% (onze por cento) sobre a fatura do serviço.
+3. Remessa oficial improvida” (fl. 168).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento do art. 97 e a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta (fls. 229-230).
+4. A Agravante alega que teria sido contrariado o art. 97 da Constituição da República.
+Sustenta que “o r. acórdão não poderia ter afastado a aplicação da Lei nº 8.212, art. 31, sem atender ao disposto na Constituição Federal, art. 97, e enunciado da Súmula Vinculante nº 10. Sendo que o Plenário do Pretório Excelso já proclamou a constitucionalidade daquela norma, em especial sua compatibilidade com a Constituição Federal, art. 150, § 7º” (fl. 191 – transcrição conforme o original).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. O art. 97 da Constituição da República não foi objeto de debate e decisão prévios no Tribunal de origem e, apesar de opostos embargos de declaração, a Agravante não cuidou de levar ao Tribunal a questão da ofensa ao princípio da reserva de plenário, de modo que permaneceu ausente o prequestionamento da matéria constitucional. Incidem na espécie as Súmulas 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido:
+“TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ISS. CONTRATO DE FRANQUIA. ARTIGO 156, III, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS STF 282 E 356. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. 1. Não houve o prequestionamento do artigo 156, III, da CF, porque não abordado pelo acórdão recorrido, nem suscitado nos embargos de declaração opostos (Súmulas STF 282 e 356). 2. O Supremo Tribunal Federal, em princípio, não admite o "prequestionamento implícito" da questão constitucional. Precedentes. 3. A controvérsia foi decidida com base na legislação infraconstitucional aplicável à espécie (Lei Complementar 116/2003, Lei Complementar Municipal 482/2003, Lei 8.955/94 e Decreto-Lei 406/68), cuja análise é inviável em sede extraordinária. Assim, eventual ofensa à Constituição, se existente, seria meramente reflexa ou indireta. Precedentes. 4. Agravo regimental improvido” (AI 719.441-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.6.2010 – grifos nossos).
+“Controle de constitucionalidade: reserva de plenário: recurso extraordinário: descabimento: ausência de prequestionamento da violação ao art. 97 da Constituição Federal (Súmulas 282 e 356): a declaração de inconstitucionalidade por órgão parcial dá ensejo ao questionamento da própria declaração e não do mérito, por este se encontrar maculado pelo vício: precedente (RE 273.672- AgR, Ellen Gracie, 1ª T., DJ 27.09.2002)” (AI 396.871-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 10.6.2005 – grifos nossos).
+“Ofensa ao art. 97 da CF. Questão constitucional não examinada no acórdão recorrido nem suscitada em embargos declaratórios. Incidência das Súmulas 282 e 356. Deficiência de fundamentação do RE interposto pela alínea "b" do permissivo constitucional. Regimental não provido” (Rel. Min. Nelson Jobim, Segunda Turma, DJ 18.10.2002 – grifos nossos).
+Não há, pois, o que prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de junho de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
