@@ -1,0 +1,15 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte nas alíneas “a” e “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado (fls. 59):
+“APELAÇÃO CÍVEL. CONCURSO PÚBLICO. CANDIDATO ELIMINADO EM TESTE DE CAPACITAÇÃO FÍSICA E PSICOTÉCNICO. AÇÃO CAUTELAR VISANDO À MATRÍCULA NO CURSO. LIMINAR DEFERIDA. DECISÃO QUE JULGOU IMPROCEDENTE O PEDIDO E EXTINGUIU AS CAUTELARES INTERPOSTAS. ANÁLISE DO EXAME PSICOTÉCNICO PREJUDICADA. NÃO CONHECIMENTO DOS RECURSOS INTERPOSTOS NAS CAUTELARES. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO E PEDIDO SEMELHANTE AO PROCESSO DE COGNIÇÃO. CONHECIMENTO DOS RECURSOS INTERPOSTOS NAS ANULATÓRIAS. POSSIBILIDADE DE ELIMINAÇÃO NO TESTE FÍSICO. LEGALIDADE. NECESSIDADE DE AVERIGUAÇÃO DA CAPACIDADE FÍSICA DE FUTUROS POLICIAIS. JULGAMENTO QUE DISPENSA A ANÁLISE DA ELIMINAÇÃO NO TESTE PSICOLÓGICO. A QUAL NÃO PERMITIRIA SEQUER A REALIZAÇÃO DA PRÓXIMA ETAPA.”
+2. Pois bem, a parte recorrente aponta violação ao caput e incisos XXXV e LV do art. 5°, aos incisos I e II do art. 37 e ao inciso IX do art. 93, todos da Magna Carta de 1988. Sustenta que: a) “não existe lei autorizando que a PMMG aplique testes para verificação de perfil psicológico e nem capacitação física, mas, sim, exame físico (saúde) e mental” (fls. 80); b) foi excluído do certame sem observância às garantias constitucionais do contraditório e da ampla defesa; c) o exame psicotécnico está eivado de nulidade ante sua irrecorribilidade e subjetividade.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Wagner de Castro Mathias Netto, opina pelo não-conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. É que o aresto impugnado adotou fundamento suficiente — “quanto à alegação de ilegalidade da aplicação de testes de capacitação física temos que a Lei Complementar nº 50/98 alterou o Estatuto do Pessoal da Polícia Militar de Minas Gerais, acrescentando ao art. 5º o parágrafo único que veio a legalizar a aplicação de tal exame” (fls. 63) — que permaneceu incólume. O que atrai a incidência da Súmula 283 do STF:
+“É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.”
+5. Por outra volta, anoto que a Instância Judicante de origem se restringiu à análise da legalidade do exame a que se submeteu o candidato. Não apreciou as demais alegações suscitadas no recurso extraordinário, tampouco foi suscitada a fazê-lo nos embargos declaratórios opostos. Pelo que é de incidir a Súmula 282/STF.
+6. De mais a mais, observo que a decisão impugnada está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+7. À derradeira, quanto à alínea “c” do inciso III do art. 102 do Magno Texto, é de se aplicar a Súmula 284/STF.
+Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 28 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
