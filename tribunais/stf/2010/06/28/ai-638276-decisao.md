@@ -1,0 +1,19 @@
+DECISÃO
+Vistos.
+Arte Indústria Gesso Ltda interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 145, inciso II, e 150, inciso IV, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Sexta Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+“CONSTITUCIONAL – TRIBUTÁRIO – TAXA DE CONTROLE E FISCALIZAÇÃO AMBIENTAL – TCFA – LEI Nº 10.165/2000 – CONSTITUCIONALIDADE.
+1- Não remanesce dúvidas quanto à atividade fiscalizatória do IBAMA, não existindo ilegalidade na cobrança da Taxa de Controle e Fiscalização Ambiental.
+2- A Taxa de Fiscalização e Controle Ambiental – TFCA foi fixada de acordo com o potencial poluidor e grau de utilização dos recursos naturais para cada atividade descrita bem assim o porte da empresa” (fl. 42).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 17/12/04, como expresso na certidão de folha 43, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento n° 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07,.
+Não merece prosperar a irresignação, uma vez que o acórdão recorrido está em sintonia com a jurisprudência desta Corte que firmou entendimento no sentido de ser constitucional a Taxa de Controle e Fiscalização Ambiental – TCFA designada pela Lei nº 10.165/2000. Nesse sentido, anote-se:
+“Agravo regimental em agravo de instrumento. 2. Taxa de Controle e Fiscalização Ambiental. Lei no 10.165/2000. Constitucionalidade. Precedentes. 3. Agravo regimental a que se nega provimento” (AI nº 638.133/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 28/3/08).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Taxa de Controle e Fiscalização Ambiental - TCFA. Lei nº 10.165, de 27.12.2000. Constitucionalidade. Precedente do Plenário. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental quando a parte agravante não infirma os fundamentos adotados na decisão agravada. 2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar a agravante a pagar multa ao agravado” (RE nº 421.279/SC-AgR, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 2/6/06).
+“AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TAXA DE CONTROLE E FISCALIZAÇÃO AMBIENTAL - TCFA. INSTITUTO BRASILEIRO DO MEIO AMBIENTE E RECURSOS NATURAIS E RENOVÁVEIS - IBAMA. LEI Nº 10.165/2000. LEGITIMIDADE. PLENÁRIO. O Supremo Tribunal Federal declarou a legitimidade da Taxa de Controle e Fiscalização Ambiental - TCFA, no julgamento do RE 416.601, Relator o Ministro Carlos Velloso. A propósito, menciono as seguintes decisões singulares, todas com trânsito em julgado: RE 465.371, Relator o Ministro Sepúlveda Pertence; RE 440.890, Relator o Ministro Gilmar Mendes; 464.006, Relator o Ministro Celso de Mello; e RE 433.025, de minha relatoria. Agravo regimental desprovido” (RE nº 401.071/SC-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 23/6/06).
+“CONSTITUCIONAL. TRIBUTÁRIO. IBAMA: TAXA DE FISCALIZAÇÃO. Lei 6.938/81, com a redação da Lei 10.165/2000, artigos 17-B, 17-C, 17-D, 17-G. C.F., art. 145, II. I. - Taxa de Controle e Fiscalização Ambiental - TCFA - do IBAMA: Lei 6.938, com a redação da Lei 10.165/2000: constitucionalidade. II. - R.E. conhecido, em parte, e não provido” (RE nº 416.601/DF, Tribunal Pleno, Relator o Ministro Carlos Velloso, DJ de 30/9/05).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 28 de junho de 2010.
+Ministro DIAS TOFFOLI
+Relator
