@@ -1,0 +1,10 @@
+DECISÃO: Agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário.
+2.    Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+3.  O agravo não merece provimento. Para dissentir-se do acórdão recorrido seria necessária a análise da legislação infraconstitucional que disciplina a espécie. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido: o RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; o AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; o AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+4.  Ademais, não foi interposto recurso especial pelo ora agravante, o que acarretou a preclusão do reexame do fundamento infraconstitucional sobre o qual o acórdão impugnado se alicerçou. Daí porque, mesmo que este Tribunal viesse a abonar o fundamento constitucional, ainda assim persistiria o de natureza infraconstitucional, suficiente para a manutenção do acórdão impugnado, o que impede a admissão do extraordinário. Aqui incide a Súmula n. 283 deste Tribunal. No mesmo sentido: AI 394.041-AgR, Relatora a Ministra Ellen Gracie, DJ de 8.11.02; RE 194.444-AgR, Relator o Ministro Sepúlveda Pertence, DJ de 30.4.04; AI 520.648-AgR, Relator o Ministro Cezar Peluso, DJ de 3.12.04, entre outros.
+5.  Por fim, entendimento diverso do adotado pelo acórdão recorrido implicaria, necessariamente, o reexame da matéria fático-probatória que o orientou, providência vedada nesta instância, em face da incidência da Súmula n. 279 do Supremo Tribunal Federal.
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 28 de junho de 2010.
+Ministro Eros Grau
+- Relator -
