@@ -1,0 +1,29 @@
+DECIS ÃO
+Vistos.
+Titanic Distribuidora de Derivados de Petróleo Ltda interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quinta Turma do Tribunal Regional Federal da 2ª Região, assim ementado:
+“ CONSTITUCIONAL – ADMINISTRATIVO – COMÉRCIO DE COMBUSTÍVEL – ARTS. 170, PARÁGRAFO ÚNICO; 174 E 177, §2º, II, DA CONSTITUIÇÃO FEDERAL – LEI 9.478/97.
+I- A Portaria 116 de 06.07.2000 da ANP, encontra fundamento na Lei 9.478, além de regulamentá-la, encontra-se ambas compatíveis com o art. 170, da Lex Magna. O exercício regulamentador da referida autarquia especial foi corporificado pela portaria nº 201, de 31.12.99.
+II- A lei determina que a atividade que o TRR visa a realizar depende de autorização da ANP, havendo, portanto, possibilidade de se modificarem as regras, dada a precariedade do ato administrativo, tendo em vista a prevalência do interesse público, sondo competente para a própria ANP.
+III- A Portaria nº 116, de 05/07/2000, da AGÊNCIA NACIONAL DO PETRÓLEO – ANP, foi baixada com o objetivo de regulamentar o exercício de atividade de revenda varejista de combustível automotivo, considerando as disposições ínsitas na Lei nº 9.478, de 06/08/1997.
+IV- 'Se o posto varejista negocia combustíveis cuja origem não corresponde à sua bandeira, ele estará enganando o consumidor e se locupletando às custas do titular do logotipo”. (1ª Seção do STJ, MS nº 4.444/DF, Rel Min. HUMBERTO GOMES BARROS)
+V- 'A liberdade de 'bandeira' para a comercialização de combustível, relação considerada de utilidade pública, não atende aos interesses de se proteger o bem comum e as relações de consumo'(1ª Seção STJ, MS nº 4137/DF, Rel. Min. JOSÉ DELGADO).
+VI- Precedentes do Eg. Supremo Tribunal Federal (RE's 229-440-2 e 252-913 – 1ª Turma) e do Eg. Superior Tribunal de Justiça (Mandados de Segurança 4578 e 4137 – 1ª Seção).
+VII- Negado provimento ao recurso, mantendo-se in totum a r. Sentença a quo ” (fl. 289).
+A recorrente aponta violação dos artigos 1º, inciso IV, e 174, da Constituição Federal, sustentando, em síntese, que “não é razoável aplicar a nova regra (§§ 1º a 3º do art. 11, da Portaria 116) porque, além de prejudicar as distribuidoras e postos revendedores, prejudicou mais fortemente o consumidor final, cujo propósito ao editá-lo era protegê-lo”, concluindo que “a obediência ao art. 174 se faria se a ANP providenciasse a necessária fiscalização de desvios pervertidos, em vez da redução de mercado que está patrocinando, contrariamente ao artigo 1º da Lei 9.478/97” (fl. 304).
+Contra-arrazoado ( fls. 334 a 359), o recurso extraordinário (fls. 295 a 308) foi admitido (fls. 371/372).
+O Superior Tribunal de Justiça, por meio de decisão transitada em julgado (fls. 377 a 385 e 387), negou seguimento ao recurso especial interposto paralelamente ao extraordinário.
+Decido.
+Assinalo, preliminarmente, que o acórdão recorrido foi publicado em 2/9/04, conforme consta em certidão da folha 293, não sendo, portanto, necessária a demonstração da repercussão geral nas questões constitucionais trazidas no recurso extraordinário, consoante decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece trânsito.
+Primeiramente, quando ao debate em torno do inciso IV do artigo 1º da Constituição da República, por não ter sido objeto do acórdão recorrido, tem-se o óbice consubstanciado nas Súmulas 282 e 356/STF.
+No mais, dessume-se do aresto atacado que o Tribunal a quo decidiu a demanda mediante aplicação da legislação infraconstitucional pertinente à solução da controvérsia, tendo firmado, desse modo, compreensão insuscetível de reexame nesta via extraordinária. Outrossim, como acentua a recorrente, para se chegar à indigitada vulneração constitucional, seria necessário o cotejo entre a aludida Portaria nº 116/2000-ANP e as disposições da Lei nº 9.478/97.
+Com efeito, as alegações da insurgência retratam hipótese de mera violação indireta ou reflexa ao Texto Constitucional, máxime por revelar, quando muito, conflito de legalidade, o que também não enseja recurso extraordinário, consoante inteligência da Súmula 636 deste Supremo Tribunal Federal. Sobre esses aspectos, confiram-se os seguintes julgados:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PORTARIA N. 202/99 DA ANP. EXIGÊNCIA DE COMPROVAÇÃO DE REGULARIDADE JUNTO AO SICAF. LEI 9.478/97. MATÉRIA INFRACONSTITUCIONAL. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento” (RE nº 568.471/RJ-AgR, Segunda Turma, Relato o Ministro Eros Grau, DJe de 15/8/08).
+“1. Recurso extraordinário: descabimento: alegadas violações do texto constitucional que seriam, se ocorressem, indiretas ou reflexas, dependentes da prévia interpretação da legislação ordinária regente da espécie (Dec. 87497/82; Portaria MEC 1886/94; Código de Defesa do Consumidor) e de cláusula contratual. 2. Recurso extraordinário: inadmissibilidade: Súmula 636. Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida” (AI nº 472.469/MS-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 14/5/04).
+“RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. INMETRO. LEI 5.966/73. PORTARIAS. MATÉRIA INFRACONSTITUCIONAL. 1. Cotejo entre a Lei 5.966/73 e suas portarias regulamentadoras. Questão de legalidade. Incidência da Súmula STF nº 636. 2. Agravo regimental improvido” (RE nº 410.484/PR-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 3/2/06).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 28 de junho de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
