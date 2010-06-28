@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido manteve sentença, o qual entendeu que inexiste, na espécie, dano moral e material a ser indenizado, porquanto o recorrente dispunha de informações suficientes acerca do limite do cartão de crédito.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 5º, X, da mesma Carta.
+O agravo não merece acolhida. Isso porque, a apreciação dos temas constitucionais, no caso, depende do prévio exame da legislação infraconstitucional aplicável à espécie, no caso, o Código de Defesa do Consumidor – CDC -. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, confira-se:
+“Responsabilidade civil de estabelecimento bancário: envio de cartão de crédito e cobrança indevida: recurso extraordinário: descabimento: controvérsia decidida à luz de legislação infraconstitucional pertinente - L. 8.078/90 e dos fatos e provas dos autos: incidência das Súmulas 279 e 636” (AI 645.031-AgR/SP, Rel. Min. Sepúlveda Pertence).
+Além disso, para dissentir da conclusão a que chegou o acórdão recorrido quanto à verificação, na espécie, de dano moral e material indenizável, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, anote-se os seguintes julgados de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO: DANOS MATERIAIS E MORAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 709.133-AgR/RJ, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO DANO MORAL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (AI 642.351-AgR/SP, Rel. Min. Eros Grau, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 28 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+   - Relator –
