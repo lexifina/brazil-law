@@ -1,0 +1,21 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CONTROVÉRSIA SOBRE CONCESSÃO DE JUSTIÇA GRATUITA. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“IMPUGNAÇÃO À GRATUIDADE DE JUSTIÇA. PEDIDO DE GRATUIDADE DE JUSTIÇA DEFERIDO AOS RÉUS. IRRESIGNAÇÃO DO AUTOR-IMPUGNANTE. PROVA FARTA TRAZIDA AOS AUTOS QUE COMPROVA SEREM OS IMPUGNADOS PROPRIETÁRIOS EM CONDOMÍNIO DE VÁRIOS IMÓVEIS, ALÉM DE EXERCEREM SUA PROFISSÃO EM OFICINA MECÂNICA. BENEFÍCIO QUE DEVE SER NEGADO A TODOS OS IMPUGNADOS, PORQUANTO SE ENCONTRAM ELES NA MESMA SITUAÇÃO ECONÔMICA, NÃO SENDO MERECEDORES DO FAVOR LEGAL. PRETENSÃO DA APELANTE PARA QUE SEJA IMPOSTA AO APELADO A SANÇÃO LEGAL. PROVIMENTO PARCIAL DA 1ª APELAÇÃO E DESPROVIMENTO DA SEGUNDA” (fl. 391).
+3. No recurso extraordinário, os Agravantes afirmam que o Tribunal a quo teria contrariado o art. 5º, inc. LXXIV, da Constituição da República.
+Asseveram que “preenchem o requisito legal de hipossuficiência, pois se demonstrou que estão com a sua situação financeira em franco declínio, e que, hoje, para sobreviver, estão trabalhando por pouco mais do que o salário mínimo, além de estarem passando por sérias privações, e virem acumulando dívidas que os coloca na espiral do superendividamento” (fl. 422).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de contrariedade direta à Constituição e a incidência da Súmula 279 do Supremo Tribunal Federal (fls. 458-460).
+Os Agravantes reiteram os argumentos formulados no recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste aos Agravantes.
+6. A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido de que a solução de controvérsia sobre concessão de justiça gratuita demandaria o reexame de provas e a análise da Lei 1.060/50, o que não enseja o recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. ADMISSIBILIDADE DE RECURSO. OFENSA CONSTITUCIONAL INDIRETA. JUSTIÇA GRATUITA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 681.146-AgR, de minha relatoria, Primeira Turma, DJe 1º.2.2008 – grifos nossos).
+“1. RECURSO. Extraordinário. Assistência Judiciária Gratuita. Acórdão impugnado que decidiu a causa com base no reexame de provas e na legislação infraconstitucional. Ofensa constitucional indireta. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte. 2. RECURSO. Extraordinário. Inadmissibilidade. Benefício da Justiça Gratuita. Matéria fática. Aplicação da súmula nº 279. Agravo regimental não provido. Não cabe recurso extraordinário que tenha por objeto reexame de provas. 3 RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LXXIV da CF. Ofensa constitucional indireta. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República. 4. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar a agravante a pagar multa ao agravado” (AI 613.913-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 2.2.2008 – grifos nossos).
+7. Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 38 da Lei 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de junho de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
