@@ -1,0 +1,13 @@
+DECISÃO: Cuida-se de petição ajuizada por UNIBANCO (União de Bancos Brasileiros S.A.) para destrancar recurso extraordinário retido na forma do art. 542, § 3º, do CPC (fls. 2-4) em decisão do Tribunal de Justiça do Estado do Rio de Janeiro (fls. 165-167).
+No caso, a requerente interpôs recurso extraordinário com fundamento no art. 102, III, “a”, da Constituição Federal, por alegada violação ao art. 5º, II, da Carta Magna, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que inverteu o ônus da prova, determinando à ré na ação de cobrança, ora requerente, a apresentação de extratos de correntista.
+Esta Corte tem admitido ações cautelares propostas com o objetivo de questionar a aplicação do art. 542, § 3o, do Código de Processo Civil, para viabilizar o processamento de recurso extraordinário retido. Assim ficou decidido no julgamento da Pet-QO n.° 2.222-0/PR, Rel. Min. Sepúlveda Pertence, DJ 12.3.2004, cuja ementa possui o seguinte teor, in verbis:
+“1. Medida cautelar em recurso extraordinário: competência do Supremo Tribunal Federal para o julgamento de medidas cautelares de RE, quando nela se oponha o recorrente à aplicação do art. 542, § 3º, do C.Pr.Civil: incidência do disposto no parágrafo único do art. 800 do C.Pr.Civil ("interposto o recurso, a medida cautelar será requerida diretamente ao tribunal"): hipótese de medida cautelar que visa a afastar óbice ao processamento do recurso na instância a qua , diversa do problema do início da jurisdição cautelar do Supremo para conceder efeito suspensivo ao RE. 2. Medida cautelar: indeferimento: ausência de fumus boni juris : caso de recurso extraordinário contra decisão concessiva de tutela antecipada em ação civil pública, não cabível, por não se tratar de decisão definitiva: C. Pr. Civil, art. 273, § 4º.”
+   Assim, a regra do art. 542, § 3o, do Código de Processo Civil poderá ser afastada nas hipóteses em que comprovada a possibilidade de ocorrência de danos irreparáveis ou de difícil reparação e demonstradas a viabilidade processual do recurso extraordinário e a plausibilidade das razões alegadas.
+No entanto, este não é o caso dos autos, uma vez que as razões do recurso extraordinário retido não evidenciam o indispensável fumus boni iuris, ao menos em exame preliminar. Com efeito, a alegação de ofensa ao art. 5º, II, da Carta Magna não é suficiente para caracterizar a fumaça do bom direito e a viabilidade do recurso extraordinário.
+Por outro lado, a determinação de apresentação de prova tampouco revela dano irreparável à requerente.
+Diante do exposto, nego seguimento à petição nos termos do art. 21, §1º, do RISTF.
+Publique-se.
+Arquive-se.
+Brasília, 2 9 de junh o de 2010.
+Ministro GILMAR MENDES
+Relator
