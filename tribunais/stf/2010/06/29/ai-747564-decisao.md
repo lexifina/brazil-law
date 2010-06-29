@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSUMIDOR. INSCRIÇÃO EM CADASTRO DE SERVIÇO DE PROTEÇÃO AO CRÉDITO. DANO MORAL. NECESSIDADE DA ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DO CONJUNTO PROBATÓRIO CONSTANTE DOS AUTOS: IMPOSSIBILIDADE. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“1 – PRESTAÇÃO DE SERVIÇO TELEFÔNICO – COBRANÇA INDEVIDA – INDENIZAÇÃO – DANO MORAL. O apontamento de dívida inexistente às sociedades de proteção ao crédito gera direito à indenização por dano moral, devendo sua quantificação guardar relação com as condições das partes, a gravidade da lesão e as circunstâncias dos fatos.
+2 – PROVA. DANO MORAL. Desnecessidade de comprovação, pois o dano moral decorre in re ipsa. Recurso parcialmente provido” (fl. 467).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de contrariedade direta à Constituição e a incidência da Súmula 279 do Supremo Tribunal Federal (fls. 621-622).
+4. A Agravante afirma que a negativa de seguimento ao recurso extraordinário, pelo Tribunal a quo, teria caracterizado “usurpação das funções constitucionais do Supremo Tribunal Federal, além de cerceamento de defesa e supressão de instância” (fl. 6).
+5. No recurso extraordinário, a Agravante alega que o Tribunal a quo teria contrariado os arts. 5º, inc. II, da Constituição da República.
+Argumenta que “não teve qualquer responsabilidade pela ocorrência do evento, inexistindo, portanto, o dever de indenizar. Sem contrariedade ao direito, não há ilicitude, e, portanto, inexiste o dever de reparar o dano” (fl. 561).
+Analisada a matéria posta à apreciação, DECIDO.
+6. Razão jurídica não assiste à Agravante.
+7. O Desembargador Relator consignou em seu voto condutor que:
+“Os elementos carreados aos autos levam à convicção de que a autora faz jus à indenização pleiteada.
+Isto porque restou comprovado no processo que a linha telefônica geradora do suposto débito, apontado pela corré TELEMAR aos serviços de proteção ao crédito, foi habilitada indevidamente, provavelmente mediante a utilização fraudulenta do nome da autora na fase de habilitação. E essa fraude só foi possível porque aquela corré descurou de tomar as cautelas mínimas exigidas, tanto que foi incapaz de trazer aos autos um único documento assinado pela autora solicitando a habilitação daquela linha ou, pelo menos, uma cópia de seus documentos, tudo a revelar sua total incúria no episódio.
+Devida, portanto, a indenização por dano moral como compensação à autora pelos prejuízos que lhe foram causados pelo apontamento de seu nome aos serviços de proteção ao crédito por dívida que não é de sua responsabilidade” (fls. 9-11).
+Conforme se verifica, concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria o reexame do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, a teor do que dispõe a Súmula 279 do Supremo Tribunal Federal.
+O reexame do acórdão impugnado demandaria, ainda, a análise prévia da legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. DEFICIÊNCIA NO TRASLADO: CARIMBO DO PROTOCOLO DO RECURSO EXTRAORDINÁRIO ILEGÍVEL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO DE DEFESA DO CONSUMIDOR. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 646.171-AgR, de minha relatoria, Primeira Turma, DJ 9.10.2009).
+“1. RECURSO. Agravo regimental. Repercussão geral. Matéria diversa. Agravo regimental provido. A matéria tratada pela decisão atacada, com repercussão geral reconhecida, é diversa da que posta no presente extraordinário. 2. RECURSO. Extraordinário. Inadmissibilidade. Ofensa indireta à Constituição. Matéria fática. Súmula 279. Agravo regimental não provido. Não cabe recurso extraordinário que tenha por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, tampouco que dependa de reexame de fatos e provas. 3. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 93, IX, da Constituição Federal. Ofensa constitucional indireta. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI 735.842-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJ 20.11.2009).
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, não diverge da jurisprudência do Supremo Tribunal Federal, não havendo, pois, o que prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 29 de junho de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
