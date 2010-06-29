@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, assim ementado:
+“APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SERVIÇOS DE FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO – SANEPAR – PRELIMINAR AFASTADA – REMUNERAÇÃO POR MEIO DE TARIFA – LEGALIDADE – CONSTITUCIONALIDADE NA FIXAÇÃO DOS VALORES – CONTAS RELATIVAS À PRESTAÇÃO DE SERVIÇOS DE COLETA E REMOÇÃO DE ESGOTO SANITÁRIO – VENCIDAS E NÃO PAGAS E VINCENDAS – LEGALIDADE DA COBRANÇA – SENTENÇA MONOCRÁTICA MANTIDA – RECURSO DESPROVIDO” (fl. 242).
+No RE, interposto com base no art. 102, III, a, da Constituição, o recorrente alegou, em suma, violação aos arts. 21, 23, 30, 145, II, e 150, I, da mesma Carta, por entender que o serviço de esgoto é remunerado por meio de taxa e não por tarifa.
+O agravo não merece acolhida. Isso porque, o acórdão recorrido encontra-se em harmonia com a jurisprudência da Corte, no sentido de que o quantitativo cobrado dos usuários das redes de água e esgoto é tido como preço público. Nesse sentido, menciono as seguintes decisões, entre outras: RE 429.664-AgR/SC, Rel. Min. Cezar Peluso; RE 488.200/MS, Rel. Min. Eros Grau; RE 464.952/MS, Rel. Min. Ellen Gracie; RE 400.194/SC, Rel. Min. Marco Aurélio; AI 491.179/RS, Rel. Min. Gilmar Mendes; AI 590.184/MS, Rel. Min. Carlos Britto e RE 447.536-ED/SC, Rel. Min. Carlos Velloso, cuja ementa segue transcrita:
+“EMBARGOS DE DECLARAÇÃO OPOSTOS À DECISÃO DO RELATOR: CONVERSÃO EM AGRAVO REGIMENTAL. CONSTITUCIONAL. TRIBUTÁRIO: TAXA DE ESGOTO SANITÁRIO. PRESTAÇÃO DE SERVIÇO POR CONCESSIONÁRIA. NATUREZA JURÍDICA DE PREÇO PÚBLICO. I. - Embargos de declaração opostos à decisão singular do Relator. Conversão dos embargos em agravo regimental. II. - A jurisprudência do Supremo Tribunal Federal é no sentido de que não se trata de tributo, mas de preço público, a cobrança a título de água e esgoto. Precedentes. III. - Embargos de declaração convertidos em agravo regimental. Não-provimento deste”.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 29 de junho de 2010.
+Ministro RICARDO LEWANDOWSKI
+   - Relator -
