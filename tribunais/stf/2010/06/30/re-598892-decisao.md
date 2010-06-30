@@ -1,0 +1,13 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte nas alíneas “a” e “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado (fls. 481):
+“MANDADO DE SEGURANÇA – ADMINISTRATIVO – CONCURSO DA PMMG – CANDIDATOS CONTRA-INDICADOS EM EXAME PSICOLÓGICO – LEGALIDADE – DENEGAÇÃO DA ORDEM. 1 – Uma vez que havia previsão legal e editalícia da realização do exame psicotécnico, em caráter eliminatório, com previsão dos critérios utilizados e de possibilidade de recurso, inocorre lesão a direito de candidato nele contra-indicado. 2 – Sentença reformada, em reexame necessário. Denegação da segurança. Prejudicado o recurso voluntário.”
+2. Pois bem, a parte recorrente sustenta violação aos incisos II e LIV do art. 5°, aos incisos I e II do art. 37, ao inciso IX do art. 93, todos da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. Isso porque a jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta, é firme no sentido de que o exame psicotécnico é de: a) estar previsto em lei em sentido formal (Súmula 686/STF; AI 758.533-QO, sob a relatoria do ministro Gilmar Mendes); b) ser pautado em critérios objetivos (RE 243.926, sob a relatoria do ministro Moreira Alves); c) viabilizar a recorribilidade de seus resultados (AI 265.933-AgR, sob a relatoria do ministro Sepúlveda Pertence; AI 467.616-AgR, sob a relatoria do ministro Celso de Mello; e RE 326.349-AgR, sob a relatoria do ministro Gilmar Mendes).
+4. Por outra volta, anoto que, para se chegar à conclusão pretendida pela parte recorrente, se fazem necessários o reexame do conjunto fático-probatório dos autos e a interpretação do direito estadual aplicado, providências vedadas pelas Súmulas 279 e 280 desta nossa Corte.
+5. De mais a mais, pontuo que o aresto impugnado está devidamente fundamentado. Note-se que “a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, da relatoria do ministro Sepúlveda Pertence).
+6. À derradeira, observo que o Tribunal de origem não julgou válida lei ou ato de governo local contestado ante a Constituição, o que inviabiliza o apelo extremo com base na letra “c” do inciso III do art. 102 do Magno Texto.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 30 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
