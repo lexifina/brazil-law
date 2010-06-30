@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CONTRIBUIÇÕES SOCIAIS PARA O SESC E SENAC – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – FALTA DE PREQUESTIONAMENTO – AGRAVO DESPROVIDO.
+1. O Tribunal Regional Federal da 4ª Região deu provimento ao apelo interposto pelo Instituto Nacional do Seguro Social, mediante o acórdão de folha 12 a 17, assim sintetizado (folha 17):
+TRIBUTÁRIO. CONTRIBUIÇÃO AO SESI E SENAI ANTES DO ADVENTO DA MEDIDA PROVISÓRIA N° 1.715/98. ENQUADRAMENTO SINDICAL. ART. 577 DA CLT. COOPERATIVA. ATIVIDADES DE FEIÇÃO INDUSTRIAL.
+1. A remissão feita pelos Decretos-Leis nº 4.048/42 e 9.403/46 ao quadro a que se refere o art. 577 da CLT, quanto às empresas industriais, é meramente exemplificativa, porque o sujeito passivo está plenamente identificado na lei que instituiu o tributo.
+2. As contribuições ao SESI/SENAI são exigíveis das empresas não tipicamente industriais cujas atividades estejam descritas no quadro anexo ao art. 577 da CLT em um dos grupos atinentes à Confederação Nacional da Indústria, com fulcro no art. 4º do Decreto-Lei nº 4.048/42 e do art. 3º do Decreto-Lei nº 9.403/46, que definem a obrigação tributária com base no enquadramento sindical.
+3. Recepcionado o art. 577 da CLT pela Constituição, se a categoria econômica e profissional exercida pela empresa estiver enquadrada no plano sindical da Confederação Nacional da Indústria, mesmo que não seja tipicamente industrial, é válida a exigência da contribuição ao SESI/SENAI.
+4. Até a entrada em vigor da MP n.° 1.715/98, que criou o Serviço Nacional de Aprendizagem do Cooperativismo - SESCOOP, as cooperativas que desenvolviam atividades industriais, ou, em que pese não tipicamente industriais, mas cujas atividades estavam descritas no quadro anexo ao art. 577 da CLT em um dos grupos da Confederação Nacional da Indústria, estavam vinculadas ao sistema SESI/SENAI.
+5. Honorários fixados em 10% do valor dado à causa, tendo em vista o entendimento consolidado desta Turma.
+2. No julgamento do Recurso Extraordinário nº 138.284-8/CE pelo Tribunal Pleno, relativamente à exigibilidade das contribuições sociais para o SESC e SENAC, o Ministro Carlos Velloso expressamente consignou:
+As diversas espécies tributárias, determinadas pela hipótese de incidência ou pelo fato gerador da respectiva obrigação (CTN, art. 4º), são as seguintes: a) os impostos (C.F., arts. 145, I, 153, 154, 155 e 156); b) as taxas (C.F., art. 145, II); c) as contribuições, que podem ser assim classificadas: c.1. de melhoria (C.F., art. 145, III); c.2. parafiscais (C.F., art. 149), que são: c.2.1. sociais, c.2.1.1. de seguridade social (C.F., art. 195, I, II, III), c.2.1.2. outras de seguridade social (C.F., art. 195, parág. 4º), c.2.1.3. sociais gerais (o FGTS, o salário-educação, C.F., art. 212, parág. 5º, contribuições sociais para o SESI, SENAI, SENAC, C.F., art. 240); c.3. especiais: c.3.1. de intervenção no domínio econômico (C.F., art. 149) e c.3.2. corporativas (C.F., art. 149). Constituem, ainda, espécie tributária: d) os empréstimos compulsórios (C.F., art. 148).
+3. Acresce que, no caso dos autos, o que sustentado nas razões do extraordinário não foi enfrentado pelo órgão julgador. Não houve debate e decisão prévios em torno da alegada ofensa aos artigos 5º, cabeça e inciso II, e 150, inciso I, da Constituição Federal. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e nº 356 da Súmula desta Corte.
+4. Ante o quadro, nego provimento ao agravo.
+5. Publiquem.
+Brasília, 30 de junho de 2010.
+Ministro MARCO AURÉLIO
+Relator
