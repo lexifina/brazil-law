@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. DISPENSA POR JUSTA CAUSA ANULADA POR DECISÃO JUDICIAL. INDENIZAÇÃO POR DANOS MORAIS. REEXAME DE PROVAS: IMPOSSIBILIDADE. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+ Relatório
+1.  Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2.  O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Superior do Trabalho:
+“AGRAVO DE INSTRUMENTO. ADMISSIBILIDADE. RECURSO DE REVISTA. Nega-se provimento ao agravo de instrumento quando o agravante desconstitui os fundamentos contidos no despacho denegatório do recurso de revista. Agravo de instrumento a que se nega provimento” (fl. 639).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que não teria havido ofensa à Constituição (fl. 680 e v.).
+4.  A Agravante alega que teriam sido contrariados os arts. 5º, inc. II, XXXV e LV, 37, inc. XVI e XVII, e 93, inc. IX, da Constituição da República.
+Sustenta, em síntese, que não teriam sido comprovados o ato ilícito e o nexo de causalidade responsáveis pelo dano alegadamente sofrido pelo Recorrido (fls. 663.670).
+Analisada a matéria posta à apreciação, DECIDO.
+5.  Razão jurídica não assiste à Agravante.
+6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+Conforme a jurisprudência do Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+7. Também não procede a pretensa negativa de prestação jurisdicional, pois está em claro desacordo com o que se observa nos autos. A Agravante manifestou-se e obteve a correspondente resposta do Poder Judiciário em todas as oportunidades processuais a ele disponibilizadas. A decisão recorrida apontou os motivos e fundamentos legais de seu convencimento. O Supremo Tribunal firmou entendimento no sentido de que não se confundem negativa de prestação jurisdicional e decisão que contraria os interesses da parte: AI 495.991-AgR, Rel. Min. Eros Grau, Primeira Turma, DJ 8.4.2005; AI 526.225-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 15.4.2005; AI 545.775-AgR, Rel. Min. Carlos Velloso, Segunda Turma, DJ 16.12.2005; e AI 555.645-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJ 12.5.2006.
+8. Tem-se no acórdão recorrido:
+“É certo que nem toda dispensa por justa causa, mesmo anulada por decisão judicial, gera dano moral ressarcível. É preciso que possua dimensão que justifique a afetação à (...) pessoa do empregado. E penso que essa importância foi atingida no caso dos autos. Não há como deixar de concluir que a situação a que foi submetido o reclamante, primeiramente no procedimento interno da empresa, que culminou com a dispensa por Justa causa, mesmo contra conclusão da comissão de sindicância, e depois tendo que se socorrer ao Poder Judiciário para reverter a injustiça, não o tenha afetado, de modo a atingir sua honra subjetiva e mesmo a objetiva” (fls. 641-642).
+Para se concluir de forma diversa, seria necessário o reexame do conjunto probatório, procedimento incabível de ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula 279 do Supremo Tribunal Federal.
+Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. INDENIZAÇÃO POR DANOS MORAIS. REEXAME DE MATÉRIA FÁTICA. SÚMULA 279/STF. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 674.124-ED, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 5.2.2010).
+“EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. CONTROVÉRSIA SOBRE A EXISTÊNCIA, OU NÃO, DE RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (RE 598.654-ED, de minha relatoria, Primeira Turma, DJe 20.11.2009 – grifos nossos).
+Nada há, pois, a prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 30 de junho de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
