@@ -1,0 +1,14 @@
+DECISÃO: Agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição do Brasil.
+2.  O Tribunal de Justiça de Goiás aumentou para dois terços a causa de diminuição de pena do art. 33, §4º, da Lei 11.343/06, por considerar ausente na sentença fundamento idôneo a justificar a redução da pena em apenas um terço.
+3.  Alega-se, no recurso extraordinário, ofensa ao disposto no artigo 93, IX, da CB/88.
+4.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [CB/88, art. 102, III, § 3º].
+5.  A controvérsia foi decidida à luz de legislação infraconstitucional. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário [AI n. 204.153-AgR, Relator o Ministro Sydney Sanches, DJ de 30.6.00, e AI n. 231.836-AgR, Relator o Ministro Néri da Silveira, DJ de 3.9.99].
+6.  Ademais, a jurisprudência deste Tribunal fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+7.  Por fim, O acórdão recorrido está em consonância com o entendimento, deste Tribunal, fixado no julgamento do HC n. 99.608, de que fui Relator, DJe de 21.5.10, cuja ementa é a seguinte:
+“EMENTA: HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DE PENA. ART. 33, § 4º, DA LEI 11.343/2006. AFASTAMENTO. EXIGÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. INVERSÃO DO ÔNUS DA PROVA. 1. O afastamento da causa de diminuição determinada no § 4º do art. 33 da Lei n. 11.343/06 requer fundamentação idônea. 2. Simples afirmação de ausência de prova da inexistência do envolvimento dos acusados em atividades criminosas não é suficiente para negar a redução da pena. O ônus da prova cabe a quem acusa. 3. A quantidade de entorpecentes justifica que a redução da pena seja mínima. Precedentes. Ordem parcialmente concedida.”
+8.  Nesse sentido: os HC’s n. 86.384, Relator o Ministro JOAQUIM BARBOSA, DJ 3.2.06; n. 86.421, Relator o Ministro MARCO AURÉLIO, DJ 16.12.05; n. 86.415, Relator o Ministro CARLOS VELLOSO, DJ 18.11.05 e o RHC n. 82.369, Relator o Ministro SEPÚLVEDA PERTENCE, DJ 8.11.02
+Nego seguimento ao agravo com fundamento no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 30 de junho de 2010.
+Ministro Eros Grau
+- Relator -
