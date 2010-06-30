@@ -1,0 +1,20 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte nas alíneas “a”, “b” e “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios. Acórdão assim ementado (fls. 276):
+“MANDADO DE SEGURANÇA E REMESSA EX-OFFÍCIO. CONCURSO PÚBLICO PARA INGRESSO NA CARREIRA DE POLICIAL CIVIL DO DISTRITO FEDERAL. EXAME PSICOTÉCNICO. LEGALIDADE. CRITÉRIO CIENTÍFICO. RECURSO ADMINISTRATIVO. RECURSOS PROVIDOS. SEGURANÇA DENEGADA.
+I - Reveste-se de legalidade a exigência do exame psicotécnico, desde que adotado método que permita a fundamentação do resultado e o seu conhecimento pelo candidato, com previsão de recurso administrativo no edital (Súmula 1 do TJDFT).
+II - A avaliação psicológica deve ser realizada de forma objetiva, imprimindo-lhe caráter científico, entretanto, pode o candidato recorrer do resultado que o considerou ‘não recomendado’.
+2. Opostos embargos declaratórios, foram prestados os seguintes esclarecimentos (fls. 368/369):
+“Quanto ao teor da ADIN nº 1045-DF confira-se parte daquela decisão, no que se refere ao seu mérito, quando do início do julgamento pelo Plenário do STF, in verbis:
+‘Depois do voto do Ministro Marco Aurélio (Relator), que conhece integralmente da ação direta, para, julgando-a procedente, em parte, (a) declarar a inconstitucionalidade do art. 45 e respectivos parágrafos; dos §§ 3º, 4º e 5º do art. 117, dos §§ 1º (quanto à expressão ‘autonomia funcional’), 2º e 3º do art. 119; do art. 120 e respectivos incisos e parágrafo único; e do art. 121 e respectivos incisos e parágrafos único, todos da Lei Orgânica do Distrito Federal, de 08/06/93, e do art. 051 das Disposições Transitórias dessa mesma Lei Orgânica; e (b) confirmar a constitucionalidade do caput do art. 117 e de seus respectivos §§ 1º e 2º e do art. 118 e respectivos parágrafos, todos da Lei Orgânica do Distrito Federal, o julgamento foi suspenso pelo pedido de vista formulado pelo Ministro Sepúlveda Pertence. – Plenário, 27.05.98.’
+Dessa forma, a exigência do exame psicotécnico adequa-se ao disposto no § 1º do art. 117 da Lei Orgânica do Distrito Federal.
+Nesse sentido já decidiu esta Colenda 1ª Turma, por ocasião do julgamento da APC/RMO n. 199901110737084-DF, da relatoria do Des. Hermenegildo Gonçalves, julgada em 25/03/2002. Vejamos:
+[...]
+No que se refere ao teor da recente Súmula do STF, verbis: ‘SÓ POR LEI SE PODE SUJEITAR A EXAME PSICOTÉCNICO A HABILITAÇÃO DE CANDIDATO A CARGO PÚBLICO’, saliente-se que o edital é a lei do concurso, que in casu está em consonância com os princípios da razoabilidade e publicidade.”
+2. Pois bem, a parte recorrente alega violação ao inciso IV do art. 3º, ao caput e incisos II, XXXV e LV do art. 5º, bem como aos incisos I e II do art. 37, todos da Magna Carta de 1988.
+3. Tenho que a insurgência merece acolhida. Isso porque a jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta, é firme no sentido de que o exame psicotécnico é de: a) estar previsto em lei em sentido formal (Súmula 686/STF; AI 758.533-QO, sob a relatoria do ministro Gilmar Mendes); b) ser pautado em critérios objetivos (RE 243.926, sob a relatoria do ministro Moreira Alves); c) viabilizar a recorribilidade de seus resultados (AI 265.933-AgR, sob a relatoria do ministro Sepúlveda Pertence; AI 467.616-AgR, sob a relatoria do ministro Celso de Mello; e RE 326.349-AgR, sob a relatoria do ministro Gilmar Mendes).
+4. No tocante ao requisito da legalidade, observo que a exigência de avaliação psicotécnica estaria apenas no § 1º do art. 117 da Lei Orgânica do Distrito Federal. Contudo, esta nossa Corte, no julgamento da ADI 1.045, sob a relatoria do ministro Marco Aurélio, declarou a inconstitucionalidade do referido dispositivo. Pelo que não mais subsiste fundamento legal a amparar a exigência do exame.
+Isso posto, e frente ao § 1º-A do art. 557 do CPC, dou provimento ao recurso para denegar a segurança. Inverto os ônus da sucumbência. Sem condenação em honorários advocatícios (Súmula 512 do STF).
+Publique-se.
+Brasília, 30 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
