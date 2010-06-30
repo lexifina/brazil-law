@@ -1,0 +1,10 @@
+DECISÃO: Vistos, etc.
+Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão singular de Ministro do Superior Tribunal de Justiça. Decisão que negou seguimento ao HC ali manejado, por entender que “(...) o Juiz do processo valeu-se de elementos concretos para justificar a prisão cautelar, mormente quando se referiu às ameaças contra testemunhas” (apenso, fls. 186).
+2. Pois bem, os impetrantes sustentam violação do princípio da colegialidade. O que fazem sob o argumento de que, ao negar seguimento à ação constitucional, o relator do HC 149.182/STJ julgou monocraticamente o próprio mérito da impetração. Daí o pedido de medida liminar, formulado para que Rogério Guedes Ribeiro aguarde, em liberdade, o julgamento do habeas corpus por órgão colegiado do Superior Tribunal de Justiça.
+3. Feita esta síntese do pedido, decido. Fazendo-o, acentuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+4. No caso, não tenho por configurados os pressupostos autorizadores da medida antecipatória ora requestada. Isto porque eventual ofensa ao princípio da colegialidade não tem a força para sustar os efeitos do decreto de prisão, exarado na decisão de pronúncia do paciente pelo delito de homicídio qualificado. Motivo pelo qual indefiro a liminar.
+Abra-se vista dos autos à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 30 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
