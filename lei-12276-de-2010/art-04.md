@@ -1,0 +1,2 @@
+Art. 4º O exercício das atividades de pesquisa e lavra de petróleo, de gás natural e de outros hidrocarbonetos fluidos de que trata esta Lei será realizado pela Petrobras, por sua exclusiva conta e risco.
+Parágrafo único. A ocorrência de acidentes ou de eventos da natureza que afetem a produção de petróleo, gás natural e outros hidrocarbonetos fluidos nas áreas de exploração estabelecidas no respectivo contrato de cessão não deverá ser considerada na definição do valor do contrato, ou na sua revisão.
