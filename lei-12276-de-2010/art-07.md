@@ -1,0 +1,2 @@
+Art. 7º Caberá à ANP regular e fiscalizar as atividades a serem realizadas pela Petrobras com base nesta Lei, aplicando-se, no que couber, o disposto na Lei no 9.478, de 6 de agosto de 1997.
+Parágrafo único. A regulação e a fiscalização de que trata o caput abrangerão ainda os termos dos acordos de individualização da produção a serem assinados entre a Petrobras e os concessionários de blocos localizados na área do pré-sal.
