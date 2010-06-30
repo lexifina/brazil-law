@@ -1,0 +1,14 @@
+DECISÃO: Vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado (fls. 83):
+“ADMINISTRATIVO – CONCURSO PÚBLICO – AUXILIAR DE ENFERMAGEM – IDADE MÁXIMA EXIGIDA DE 30 ANOS – AUSÊNCIA DE REQUISITOS OBJETIVOS PARA SUA FIXAÇÃO – DISCRIMINAÇÃO – AFRONTA AO PRINCÍPIO DA RAZOABILIDADE - VIOLAÇÃO AO DIREITO LÍQUIDO E CERTO DO IMPETRANTE, SENTENÇA MANTIDA, NO REEXAME. – Inexiste qualquer razoabilidade na limitação de 30 anos para preenchimento dos cargos de auxiliar de saúde (enfermagem), vez que o edital não traz qualquer objetivo para tal discriminação; sendo, portanto, arbitrário e ilegal este requisito exigido para inscrição no certame, não havendo o porque discriminar aqueles que, mesmo possuindo mais idade, possuem condições técnicas e físicas para assumir o cargo pleiteado. – Sentença mantida, no reexame.”
+2. Pois bem, a parte recorrente aponta violação ao inciso II do art. 5º, ao inciso I do art. 37, e ao § 3º do art. 39, todos da Magna Carta de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do então Subprocurador-Geral Roberto Monteiro Gurgel Santos, opinou pelo desprovimento do recurso.
+4. Tenho que a insurgência não merece acolhida. De saída, pontuo que o aresto impugnado afina com a jurisprudência desta nossa Corte, no sentido de que o limite de idade como critério para ingresso no serviço público apenas se legitima quando estritamente relacionado à natureza e às atribuições inerentes ao cargo público a ser provido. Entendimento esse cristalizado na Súmula 683 do STF, cuja dicção é a seguinte:
+“O limite de idade para a inscrição em concurso público só se legitima em face do art. 7º, XXX, da Constituição, quando possa ser justificado pela natureza das atribuições do cargo a ser preenchido.”
+5. Por outra volta, é de ser afastado o argumento de que a exigência se legitima ante a natureza militar do cargo almejado. Isso porque as atribuições a ser desempenhadas não são propriamente aquelas típicas do serviço militar. Cuida-se de vaga relacionada à área de saúde (cargo de auxiliar de enfermagem), reclamando, inclusive, formação específica para o seu desempenho. Pelo que, a meu sentir, não se revela razoável ou proporcional a discriminação etária.
+6. Confiram-se, no mesmo sentido: AIs 486.439-AgR, da relatoria do ministro Joaquim Barbosa; 531.698, da relatoria do ministro Marco Aurélio; e 541.741, da relatoria do ministro Gilmar Mendes; bem como RMS 21.046, da relatoria do ministro Sepúlveda Pertence.
+Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 30 de junho de 2010.
+Ministro AYRES BRITTO
+Relator
