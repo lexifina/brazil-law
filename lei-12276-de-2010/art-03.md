@@ -1,0 +1,2 @@
+Art. 3º Os volumes de barris equivalentes de petróleo de que tratam os §§ 2º e 4º do art. 1º, bem como os seus respectivos valores econômicos, serão determinados a partir de laudos técnicos elaborados por entidades certificadoras, observadas as melhores práticas da indústria do petróleo.
+Parágrafo único. Caberá à Agência Nacional de Petróleo, Gás Natural e Biocombustíveis - ANP obter o laudo técnico de avaliação das áreas que subsidiará a União nas negociações com a Petrobras sobre os valores e volumes referidos no caput.
