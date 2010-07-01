@@ -1,0 +1,18 @@
+DECIS ÃO
+Vistos.
+Companhia Paulista de Força e Luz interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 163 e 167, inciso III, da Constituição Federal de 1967, na redação da Emenda Constitucional nº 1/69.
+Insurge-se, no apelo extremo, contra acórdão do Primeiro Tribunal de Alçada Civil do Estado de São Paulo, assim ementado:
+“ENERGIA ELÉTRICA – TARIFA – REPETIÇÃO DE INDÉBITO – Portarias nº 38 e 45, de 1986, do DNAEE – Ilegalidade – Afronta ao congelamento de preços imposto pelos Decretos-Leis n.º 2.283 e 2.284, de 1986 – Reajuste posterior contemplado na Portaria nº 153, de 1986 – Sentença que julga improcedentes a ação, é de ser reformada, a fim de julgá-la parcialmente procedente – Recurso provido, em parte”
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 17/4/02, conforme expresso na certidão de folha 129, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte.
+Por outro lado, para divergir do entendimento firmado pelo Tribunal de origem e analisar a pretensão da agravante seria necessário o reexame das normas infraconstitucionais invocadas pelo acórdão recorrido, o que é inadmissível em sede de recurso extraordinário. Sobre o tema, anote-se:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MAJORAÇÃO DA TARIFA DE ENERGIA ELÉTRICA. PORTARIAS 38/86 E 45/86 DO DNAEE. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento” (AI nº 704.483/PA-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 27/6/08).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Tarifa de energia elétrica. Majoração durante o congelamento de preços. Portarias nº 38/86 e nº 45/86. Ilegalidade. Matéria infraconstitucional. Ofensa constitucional indireta. Agravo regimental não provido. Precedentes. A majoração da tarifa de energia elétrica, quando vigentes os Decretos-Lei nº 2.283/86 e 2.284/86, responsáveis pelo congelamento de preços e tarifas públicas, é questão infraconstitucional, o que implicaria ofensa apenas indireta à Constituição, não admitida em recurso extraordinário. 2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (RE nº 258.402/SP-AgR, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 3/9/04).
+No mesmo sentido, as recentes decisões monocráticas: AI nº 746.654/SP, Relator o Ministro Marco Aurélio, DJ de 11/5/10, AI nº 789.183/SP, Relator o Ministro Celso de Mello, DJ de 23/4/10, e AI nº 676.406/SP, Relator o Ministro Ayres Britto, DJ de 15/10/09.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 1 de julho de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
