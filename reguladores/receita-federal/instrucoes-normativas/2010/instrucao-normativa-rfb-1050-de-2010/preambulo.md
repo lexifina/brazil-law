@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1050, de 30 de junho de 2010
+Altera os prazos para entrega de declarações relativas aos tributos administrados pela Secretaria da Receita Federal do Brasil (RFB), na situação que especifica.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no Decreto (Estadual - AL) nº 6.593, de 20 de junho de 2010, e Decreto (Estadual - PE) nº 35.192, de 21 de junho de 2010, resolve:
