@@ -1,0 +1,3 @@
+LEI Nº 12.279, DE 30 DE JUNHO DE 2010.
+Transforma cargos vagos das Carreiras da Previdência, da Saúde e do Trabalho, estruturada pela Lei no 11.355, de 19 de outubro de 2006, e da Seguridade Social e do Trabalho, estruturada pela Lei no 10.483, de 3 de julho de 2002, em cargos do Plano de Carreiras de que trata a Lei no 8.691, de 28 de julho de 1993, do Plano de Carreiras e Cargos do Instituto Nacional de Propriedade Industrial - INPI, de que trata a Lei no 11.355, de 19 de outubro de 2006, e do Plano Especial de Cargos da Cultura, de que trata a Lei no 11.233, de 22 de dezembro de 2005; altera a Lei no 8.691, de 28 de julho de 1993; e dá outras providências
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
