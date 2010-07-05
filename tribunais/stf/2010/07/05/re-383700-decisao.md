@@ -1,0 +1,35 @@
+DECISÃO
+Vistos.
+BRASIL TELECOM S/A interpõe recurso extraordinário (folhas 330 a 338) contra acórdão proferido pela Segunda Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“TRIBUTÁRIO. CERCEAMENTO DE DEFESA. CONTRIBUIÇÃO PREVIDENCIÁRIA. ACORDO TRABALHISTA. COMPETÊNCIA VERBA SALARIAL.
+1. Ausente qualquer cerceamento de defesa, pois o levantamento do débito foi efetuado com base nas folhas de pagamento e lançamentos contábeis da empresa notificada, documentos de pleno conhecimento da empresa.
+2. A homologação do Acordo trabalhista cingiu-se aos montantes dos créditos. Para efeitos tributários, não é dado às partes dispor sobre a qualificação jurídica de qualquer parcela recebida, sendo impossível ao juiz homologar tal tipo de transação, pois prevalece a determinação legal e o interesse público envolvido.
+3. Inexiste qualquer conflito de competência, pois a lide tem origem em conflito verificado na apuração de crédito tributário pelo INSS.
+4. As diferenças salariais, por serem pagas em juízo, não alteram sua natureza jurídica remuneratória, e , sendo a correção monetária mera reposição do desgaste da moeda, obviamente é também tributada como salário.
+5. Apelo improvido” (fl. 320).
+Insurge-se, no apelo extremo, fundado na alínea “a” do permissivo constitucional, contra alegada contrariedade ao artigo 114 da Constituição Federal, consubstanciada pelo não reconhecimento da autoridade da decisão proferida pela Justiça do Trabalho acerca do tema, a qual detém exclusiva competência para tanto.
+Depois de apresentadas contrarrazões (folhas 341 a 344), o recurso foi admitido na origem (folhas 348 a 349), subindo os autos a esta Corte.
+O recurso especial paralelamente interposto já foi definitivamente rejeitado pelo Superior Tribunal de Justiça (folhas 364 a 367).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 24/1/01, conforme expresso na certidão de folha 321, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, não devendo o presente recurso sequer ser conhecido, pois o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que o acórdão proferido pelo Tribunal de origem não cuidou explicitamente da referida norma, fazendo-lhe, tão somente, breve menção, não tendo sido, ademais, interpostos embargos de declaração, para sanar essa eventual omissão. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+No sentido dessa conclusão, cite-se o seguinte trecho do voto proferido pelo eminente Ministro Celso de Mello, nos autos do RE nº 294.267/RJ-AgR, Segunda Turma, DJ de 4/3/05, que bem aborda a questão:
+“(...)
+Impende advertir, neste ponto, na linha da orientação jurisprudencial firmada pelo Supremo Tribunal Federal, que o recurso extraordinário apenas deve ser apreciado nos estritos limites temáticos em que a controvérsia constitucional for examinada pelo Tribunal ‘a quo’ sem possibilidade de aplicação do princípio ‘jura novit curia’ (RTJ 173/335, Rel. Min. CELSO DE MELLO):
+‘Não se aplica ao julgamento do recurso extraordinário, pelo Supremo Tribunal Federal, o princípio ‘jura novit curia.’ (...).’
+(RTJ 147/994-995, Rel. Min. CELSO DE MELLO)
+‘No exame do recurso extraordinário, no Supremo Tribunal Federal, não é aplicável o princípio ‘jura novit curia’ (...).’
+(RE 99.978-ED/PR, Rel. Min. ALDIR PASSARINHO – grifei)
+Isso significa, portanto, que a atividade jurisdicional desenvolvida pelo Supremo Tribunal Federal, em sede de recurso extraordinário, apresenta-se essencialmente limitada pela matéria constitucional, desde que esta, além de suscitada nas razões recursais deduzidas pela parte recorrente (RTJ 90/516, v.g.), tenha sido efetivamente prequestionada (debatida, portanto, de modo expresso, pelo acórdão recorrido).
+Somente os temas de direito constitucional versados no acórdão impugnado (e igualmente veiculados no recurso extraordinário interposto) revelar-se-ão suscetíveis de apreciação pelo Supremo Tribunal Federal, cujo julgamento, no entanto, não poderá ‘exceder os limites da devolução, apreciando questões não ventiladas na decisão recorrida (...)’ (ADA PELLEGRINI GRINOVER, ANTONIO MAGALHÃES GOMES FILHO E ANTONIO SCARANCE FERNANDES, ‘Recursos no Processo Penal’ p. 298, item n. 196, 1996, RT).”
+E dada a clareza com que cuidam dos aspectos concernentes ao prequestionamento, destaquem-se os seguintes precedentes:
+“RECURSO EXTRAORDINÁRIO - PREQUESTIONAMENTO - CONFIGURAÇÃO - RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou entendimento explícito a respeito do fato jurígeno veiculado nas razões recursais, inviabilizada fica a conclusão sobre a violência ao preceito evocado pelo recorrente (...)” (RE nº 209.290/PE-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 22/5/09).
+“(...) Diz-se prequestionada a matéria quando a decisão impugnada haja emitido juízo explícito a respeito do tema, inclusive mencionando o preceito constitucional previamente suscitado nas razões do recurso submetido à sua apreciação. Incidência da Súmula 282 do STF. Agravo regimental a que se nega provimento” (RE nº 288.929/SC-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 4/4/08).
+Ademais, tal situação decorre da própria inércia do recorrente em apresentar, tempestivamente, tal alegação nos autos, pois a matéria referente à incompetência funcional da Justiça Comum Federal para apreciar o feito apenas foi ventilada quando da interposição deste apelo extremo, ora em análise, o que se mostra inadmissível.
+No sentido dessa conclusão, cite-se a ementa do seguinte precedente, proferido quando do julgamento, pela Segunda Turma desta Corte, do RE nº 255.235/MG-ED, Relator o Ministro Celso de Melo:
+“RECURSO EXTRAORDINÁRIO - EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO - RAZÕES RECURSAIS QUE IMPORTAM EM EVIDENTE INOVAÇÃO DA MATÉRIA CONSTITUCIONAL - IMPOSSIBILIDADE PROCESSUAL - AUSÊNCIA DE PREQUESTIONAMENTO EXPLÍCITO - SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL - RECURSO IMPROVIDO. - A suscitação tardia de matéria constitucional, que apenas vem a ser deduzida em sede de recurso interposto nesta Suprema Corte, não se revela possível na via recursal extraordinária, em face da ausência de oportuno prequestionamento explícito do novo tema jurídico. Precedentes” (DJ de 2/2/07).
+Ante o exposto, não conheço do recurso.
+Publique-se.
+Brasília, 5 de julho de 2010.
+Ministro DIAS TOFFOLI
+Relator
