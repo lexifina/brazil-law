@@ -1,0 +1,3 @@
+LEI Nº 12.285, DE 6 DE JULHO DE 2010.
+Confere ao Município de Apucarana, no Estado do Paraná, o título de Capital Nacional do Boné
+O VICEPRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
