@@ -1,0 +1,16 @@
+DECISÃO : 1. Trata-se de pedido de extradição, formulado pelo Governo da República Federal da Alemanha, contra o nacional alemão HORST MICHAEL MEFFERT.
+O Plenário da Corte, na sessão de 15.10.2007 (DJ de 31.10.2007), por unanimidade, deferiu-o. Consta da ementa:
+“1. Extradição instrutória. 2. Investigações para esclarecimento da suposta prática de 351 casos de fraude e infidelidade profissional. 3. Pleito extradicional baseado no art. 81 da Lei nº 6.815, de 19 de agosto de 1980 (“Estatuto do Estrangeiro”) e na promessa de reciprocidade de tratamento para casos análogos entre a República Federativa do Brasil e a República Federativa da Alemanha. 4. Atendimento dos requisitos formais. 5. Os crimes pelos quais está sendo investigado o extraditando na Alemanha, especificados nos arts. 263, parágrafo I, parágrafo III, número 1, e 266, parágrafo I, do Código Penal Alemão, têm correspondência com os crimes tipificados no Código Penal Brasileiro (arts. 155, § 4º, inciso II e 171 do CP). Configuração da dupla tipicidade. 6. Inocorrência de prescrição. 7. Não-incidência do disposto no art. 88 da Lei nº 6.815/1980, tendo em vista que não houve julgamento de mérito da Extradição nº 988/Alemanha. Precedentes: EXT - QO nº 479/EUA, Rel. Min. Carlos Madeira, DJ 3.3.1989; EXT nº 836/Egito, Rel. Min. Carlos Velloso, Pleno, unânime, DJ 11.10.2002; e EXT nº 951/Itália, Rel. Min. Marco Aurélio, Pleno, unânime, DJ 9.9.2005. 8. Pedido de extradição deferido”.
+O extraditando encontra-se preso nas dependências da Superintendência da Polícia Federal (fl. 80).
+Em 7.7.2010, o senhor Ministro de Estado da Justiça trouxe aos autos o Aviso nº 1251-MJ, por meio do qual informa:
+“Em aditamento ao aviso nº 549-A, de 22 de abril de 2010, encaminho a Vossa Excelência para conhecimento e providências cabíveis, a anexa cópia da Nota Verbal nº 200/2010, recebida da Embaixada da República Federal da Alemanha, por via diplomática, que informa não mais haver acusações pendentes naquele país em desfavor do nacional alemão HORST MICHAEL MEFFERT, razão porque, verifica-se a perda do objeto do pedido de extradição em referência”(fl. 365).
+Em caso análogo, o Plenário desta Corte decidiu:
+“Extradição. Questão de ordem. 2. Reino da Suécia. Requerimento de decretação de prisão preventiva para fins de extradição. Suposta prática dos delitos de tráfico de entorpecentes e de contrabando em sua forma tentada. 3. Prisão preventiva decretada. Extraditando preso e recolhido à Casa de Detenção de Assis – SP. 4. Nota verbal do Estado requerente na qual informa não ter mais interesse no pedido de extradição. 5. Desistência homologada. Extinção do feito, arquivamento dos autos e expedição de alvará de soltura do extraditando determinados” (EXT-QO Nº 708, Rel. Min. NÉRI DA SILVEIRA, DJ de 30.06.2000).
+2.  Assim, julgo prejudicado o pedido extradicional, por perda superveniente de objeto.
+Expeça-se, com urgência, alvará de soltura em favor do ora extraditando, se por outro motivo não estiver preso.
+Comunique-se aos Ministros de Estado da Justiça, das Relações Exteriores e ao Diretor-Geral do Departamento de Polícia Federal.
+Publique-se. Int..
+Após, ao arquivo.
+Brasília, 14 de julho de 2010.
+Ministro CEZAR PELUSO
+Presidente
