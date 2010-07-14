@@ -1,6 +1,6 @@
 Art. 26. Os currículos do ensino fundamental e médio devem ter uma base nacional comum, a ser complementada, em cada sistema de ensino e estabelecimento escolar, por uma parte diversificada, exigida pelas características regionais e locais da sociedade, da cultura, da economia e da clientela.
 § 1º Os currículos a que se refere o caput devem abranger, obrigatoriamente, o estudo da língua portuguesa e da matemática, o conhecimento do mundo físico e natural e da realidade social e política, especialmente do Brasil.
-§ 2º O ensino da arte constituirá componente curricular obrigatório, nos diversos níveis da educação básica, de forma a promover o desenvolvimento cultural dos alunos.
+§ 2º O ensino da arte, especialmente em suas expressões regionais, constituirá componente curricular obrigatório nos diversos níveis da educação básica, de forma a promover o desenvolvimento cultural dos alunos.
 § 3º A educação física, integrada à proposta pedagógica da escola, é componente curricular obrigatório da educação básica, sendo sua prática facultativa ao aluno:
 I - que cumpra jornada de trabalho igual ou superior a seis horas;
 II - maior de trinta anos de idade;
