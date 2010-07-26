@@ -1,0 +1,17 @@
+Solução de Consulta Disit/SRRF06 nº 58, de 5 de julho de 2010
+ASSUNTO: Imposto sobre a Importação - II
+EMENTA: ISENÇÃO. CONDIÇÃO. OFICINA ESPECIALIZADA EM REPARO E MANUTENÇÃO DE AERONAVES. A pessoa jurídica que industrializa aeronaves classificadas na posição NCM 88.02 não faz jus a isenção de II na importação de peças e componentes para sua oficina especializada utilizar na prestação de serviços de reparo e manutenção de aeronave em futuro incerto e indeterminado, ou para formar estoque para uso em situações imprevistas e emergenciais.
+DISPOSITIVOS LEGAIS: Lei nº 8.032, de 1990, art. 2º, II, "j"; Lei nº 8.402, de 1992, art. 1º, IV, Decreto nº 4.543, de 2009 (RA/2009), art. 136, II, "i" e parágrafo único, e art. 174, §2º.
+ISENÇÃO. CONDIÇÃO PARA MANTER. OFICINA ESPECIALIZADA EM REPARO E MANUTENÇÃO DE AERONAVES.
+Até o transcurso de cinco anos contados do registro da respectiva declaração de importação, para manter o direito à isenção de II na importação de peças e componentes de aeronave classificada na posição NCM 88.02, é necessário que a oficina especializada em reparo e manutenção dessas aeronaves obtenha autorização prévia da autoridade aduaneira para empregar os produtos importados na execução de serviços de reparo e manutenção de aeronave relativos a contrato diferente daquele que motivou a concessão de isenção.
+Dispositivos Legais: Decreto nº 4.543, de 2009 (RA/2009), artigos 124, III, 132, 134 e 135.
+ISENÇÃO. PEÇAS E COMPONENTES PARA REVISÃO E MANUTENÇÃO DE AERONAVES DE USO MILITAR.
+Na ausência de regulamentação, em ato normativo específico, da isenção de II para importar peças e componentes para emprego em revisão e manutenção de aeronave de uso militar, prevista no art. 137 do Decreto nº 4.543/2009, a oficina especializada em reparo e manutenção dessas aeronaves que desejar importar peças e componentes com isenção deve observar os termos, limites e condições para isenção de que trata o art. 136, II, "i", do Decreto nº 4.543/2009.
+Dispositivos legais: Lei nº 11.727, de 2008, art. 28; Decreto nº 4.543, de 2009 (RA/2009), art. 137. ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins
+EMENTA: ALÍQUOTA ZERO. PEÇAS E COMPONENTES IMPORTADOS PARA EMPREGO EM REPARO E MANUTENÇÃO DE AERONAVE CLASSIFICADA NA POSIÇÃO NCM 88.02. Para adotar a alíquota zero de Cofins na importação de peças e componentes para emprego no reparo e manutenção de aeronave da posição 88.02 NCM, o importador, oficina especializada em reparo e manutenção de aeronave, deve cumprir os requisitos e condições para a comprovação do direito à isenção de II na importação desses produtos.
+DISPOSITIVOS LEGAIS: Lei nº 10.865, de 2004, art. 8º, §12, VII, e §13, II; Decreto nº 5.171, de 2004, art. 4º, VI e VII, §§ 3º e 4º.
+ASSUNTO: Contribuição para o PIS/Pasep
+EMENTA: ALÍQUOTA ZERO. PEÇAS E COMPONENTES IMPORTADOS PARA EMPREGO EM REPARO E MANUTENÇÃO DE AERONAVE CLASSIFICADA NA POSIÇÃO NCM 88.02. Para adotar a alíquota zero de Contribuição para o PIS/Pasep na importação de peças e componentes para emprego no reparo e manutenção de aeronave da posição 88.02 NCM, o importador, oficina especializada em reparo e manutenção de aeronave, deve cumprir os requisitos e condições para a comprovação do direito à isenção de II na importação desses produtos.
+DISPOSITIVOS LEGAIS: Lei nº 10.865, de 2004, art. 8º, §12, VII, e §13, II; Decreto nº 5.171, de 2004, art. 4º, VI e VII, §§ 3º e 4º.
+Novo segmento
+[arquivo anexo: SC SRRF06-Disit nº 58-2010.pdf]
