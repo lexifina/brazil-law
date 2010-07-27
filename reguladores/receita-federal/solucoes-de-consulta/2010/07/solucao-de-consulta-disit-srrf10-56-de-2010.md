@@ -1,0 +1,10 @@
+Solução de Consulta Disit/SRRF10 nº 56, de 30 de junho de 2010
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF
+EMENTA: RENDIMENTOS DE RESIDENTES OU DOMICILIADOS NO EXTERIOR. TRABALHO NO EXTERIOR COM VÍNCULO EMPREGATÍCIO NO BRASIL. SAÍDA TEMPORÁRIA.
+Em acordos ou convenções que visem a evitar a dupla tributação estabelecidos em conformidade com o modelo preconizado pela Organização para Cooperação e Desenvolvimento Econômico (OCDE), a tributação de rendimentos percebidos pela pessoa física a título de remuneração em razão do exercício de atividade laboral com vínculo empregatício, via de regra, caberá ao país de residência.
+Na hipótese de serem diferentes o país de residência do empregado e o país onde o emprego é exercido, os dois países poderão exigir a tributação sobre o rendimento recebido, fruto desse emprego.
+O empregado de empresa brasileira enviado para trabalhar na China, pelo período de três anos, é considerado residente no Brasil nos primeiros doze meses consecutivos da saída, sujeitando-se os rendimentos por ele recebidos de fontes situadas no Brasil à tributação na mesma forma dos rendimentos recebidos pelos demais residentes no Brasil. Os rendimentos de fontes situadas no exterior serão tributados no mês do recebimento, por meio do recolhimento mensal obrigatório (carnê-leão), e na Declaração de Ajuste Anual, podendo o imposto pago no exterior ser deduzido do apurado, tanto mensalmente como na declaração, observados as condições e os limites legais.
+A partir do décimo terceiro mês consecutivo de ausência do País, os rendimentos do trabalho, com ou sem vínculo empregatício, recebidos de fonte situada no Brasil pelo não-residente sujeitam-se à tributação exclusiva na fonte à alíquota de vinte e cinco por cento (25%).
+DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966 - Código Tributário Nacional (CTN), art. 98; Acordo Brasil-China (Decreto Legislativo nº 85, de 1992; Decreto nº 762, de 1993), artigos 4 e 15; Decreto nº 3.000, de 1999 (RIR/1999), arts. 682 e 685, II, "a"; Instrução Normativa SRF nº 208, de 2002, arts. 2º, V, 11, 11-A, 16, 35 e 37.
+Novo segmento
+[arquivo anexo: SC SRRF10-Disit nº 056-2010.pdf]
