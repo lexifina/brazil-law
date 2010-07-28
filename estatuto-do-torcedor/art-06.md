@@ -4,5 +4,5 @@ Art. 6º A entidade responsável pela organização da competição, previamente
 I - o amplo acesso ao Ouvidor da Competição, mediante comunicação postal ou mensagem eletrônica; e
 II - o direito de receber do Ouvidor da Competição as respostas às sugestões, propostas e reclamações, que encaminhou, no prazo de trinta dias.
 § 3º Na hipótese de que trata o inciso II do § 2º, o Ouvidor da Competição utilizará, prioritariamente, o mesmo meio de comunicação utilizado pelo torcedor para o encaminhamento de sua mensagem.
-§ 4º O sítio da internet em que forem publicadas as informações de que trata o parágrafo único do art. 5º conterá, também, as manifestações e propostas do Ouvidor da Competição.
+§ 4º O sítio da internet em que forem publicadas as informações de que trata o § 1º do art. 5º conterá, também, as manifestações e propostas do Ouvidor da Competição.
 § 5º A função de Ouvidor da Competição poderá ser remunerada pelas entidades de prática desportiva participantes da competição.

@@ -9,4 +9,3 @@ III - colocar à disposição do torcedor orientadores e serviço de atendimento
 a) amplamente divulgado e de fácil acesso; e
 b) situado no estádio.
 § 1º É dever da entidade de prática desportiva detentora do mando de jogo solucionar imediatamente, sempre que possível, as reclamações dirigidas ao serviço de atendimento referido no inciso III, bem como reportá-las ao Ouvidor da Competição e, nos casos relacionados à violação de direitos e interesses de consumidores, aos órgãos de defesa e proteção do consumidor.
-§ 2º Perderá o mando de campo por, no mínimo, dois meses, sem prejuízo das sanções cabíveis, a entidade de prática desportiva detentora do mando de jogo que não observar o disposto no caput deste artigo.
