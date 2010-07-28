@@ -1,1 +1,1 @@
-Art. 25. O controle e a fiscalização do acesso do público ao estádio com capacidade para mais de vinte mil pessoas deverá contar com meio de monitoramento por imagem das catracas, sem prejuízo do disposto no art. 18 desta Lei.
+Art. 25. O controle e a fiscalização do acesso do público ao estádio com capacidade para mais de 10.000 (dez mil) pessoas deverão contar com meio de monitoramento por imagem das catracas, sem prejuízo do disposto no art. 18 desta Lei.
