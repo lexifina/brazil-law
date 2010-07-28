@@ -1,1 +1,0 @@
-Art. 39. Compete ao Ministério do Planejamento, Orçamento e Gestão a normatização, cobrança e controle da arrecadação da contribuição destinada ao custeio do Regime de Previdência Social do Servidor de que trata a Lei nº 9.783, de 28 de janeiro de 1999.
