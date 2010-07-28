@@ -1,1 +1,1 @@
-Art. 18. Os estádios com capacidade superior a vinte mil pessoas deverão manter central técnica de informações, com infra-estrutura suficiente para viabilizar o monitoramento por imagem do público presente.
+Art. 18. Os estádios com capacidade superior a 10.000 (dez mil) pessoas deverão manter central técnica de informações, com infraestrutura suficiente para viabilizar o monitoramento por imagem do público presente.

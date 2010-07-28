@@ -1,0 +1,1 @@
+Art. 31-A. É dever das entidades de administração do desporto contratar seguro de vida e acidentes pessoais, tendo como beneficiária a equipe de arbitragem, quando exclusivamente no exercício dessa atividade.

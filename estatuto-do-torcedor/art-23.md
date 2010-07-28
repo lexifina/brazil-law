@@ -3,3 +3,4 @@ Art. 23. A entidade responsável pela organização da competição apresentará
 § 2º Perderá o mando de jogo por, no mínimo, seis meses, sem prejuízo das demais sanções cabíveis, a entidade de prática desportiva detentora do mando do jogo em que:
 I - tenha sido colocado à venda número de ingressos maior do que a capacidade de público do estádio; ou
 II - tenham entrado pessoas em número maior do que a capacidade de público do estádio.
+III - tenham sido disponibilizados portões de acesso ao estádio em número inferior ao recomendado pela autoridade pública.
