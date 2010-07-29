@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição do Brasil em oposição a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“Agravo de instrumento.
+Desapropriação – Aplicação à expropriante, ora agravante, de multa por litigância de má-fé equivalente a 5% do valor do débito em aberto – Má-fé caracterizada, eis que existente débito em aberto objeto de requisitório complementar expedido em 2001, não quitado por inércia da expropriante, o que inviabiliza a arguição de prescrição intercorrente – Multa, todavia, que deve ser reduzida para o percentual de 1% nos termos do artigo 18, ‘caput’, do Código de Processo Civil, providência já cumprida pelo MM. Juiz ‘a quo’.
+Nega-se provimento ao recurso”.
+2.  O agravante alega, no recurso extraordinário, ofensa ao disposto nos artigos 2º e 5º, LV, da Constituição do Brasil e 33 do ADCT. Sustenta que “[...] a multa imposta à Fazenda Estadual de São Paulo, com todo o respeito infundadamente aplicada, tem o condão, apenas, de desvirtuar a regra processual civil e limitar a regra constitucional, fragilizando-as, razão pela qual deve ser cancelada [...]” [fl. 713].
+3.  Deixo de examinar a preliminar de repercussão geral, cujo exame só é possível quando não for o caso de inadmissibilidade do recurso por outra razão [RISTF, art. 323]. Se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” [artigo 102, III, § 3º, da CB/88].
+4.  O agravo não merece provimento. O fundamento do acórdão não alcançou nível constitucional. A controvérsia foi decidida no plano da legislação infraconstitucional pertinente. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário [AI n. 204.153-AgR, DJ de 30.6.00, e AI n. 231.836-AgR, DJ de 3.9.99].
+5.  A jurisprudência deste Tribunal fixou-se no sentido de que “as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+ Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.
+ Publique-se.
+ Brasília, 29 de julho de 2010.
+Ministro Eros Grau
+- Relator -
