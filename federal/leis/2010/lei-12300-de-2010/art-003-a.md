@@ -1,1 +1,0 @@
-Art. 3º-A A carreira legislativa a que se refere o art. 1º desta Lei e os cargos que a compõem, em razão das atribuições próprias do Poder Legislativo, integram o conjunto de carreiras típicas de Estado.
