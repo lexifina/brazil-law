@@ -1,0 +1,26 @@
+DECISÃO
+EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO DO TRABALHO. ACORDO E CONVENÇÃO COLETIVOS DO TRABALHO – APLICABILIDADE – LEI FEDERAL N. 8.884/94. REAJUSTE DE SALÁRIOS – PREVISÃO EM NORMA COLETIVA DE TRABALHO. NORMA LEGAL SUPERVENIENTE – PREVALÊNCIA. DEMONSTRAÇÃO ANALÍTICA DA DIVERGÊNCIA: AUSÊNCIA. EMBARGOS NÃO ADMITIDOS.
+Relatório
+1. Embargos de divergência opostos contra o seguinte julgado da Segunda Turma do Supremo Tribunal Federal:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SALÁRIOS. REAJUSTE. PREVISÃO EM NORMA COLETIVA DE TRABALHO. NORMA LEGAL SUPERVENIENTE. PREVALÊNCIA.
+O Supremo Tribunal Federal fixou jurisprudência no sentido de que a legislação superveniente que altera a política salarial fixada em norma coletiva de trabalho não viola o direito adquirido, o ato jurídico perfeito e a coisa julgada. Precedentes.
+Agravo regimental a que se nega provimento ” (fls. 296-301).
+2. O Embargante alega que “esse Supremo Tribunal, contudo, em precedente absolutamente específico para o caso em debate, já decidiu em sentido diametralmente oposto, ao fixar tese no sentido de que prevalece a norma mais favorável ao trabalhador quando estiver expressa a garantia de reposição do poder aquisitivo. Trata-se do acórdão proferido no Recurso Extraordinário nº 194.662 (2ª Turma, Rel. Min. Marco Aurélio, DJ de 19/4/2002)” (fl. 345).
+Afirma que:
+“Há, portanto, evidente divergência de posicionamento entre julgados da 2ª Turma deste Supremo Tribunal, uma vez que:
+a) conforme entendimento consagrado no acórdão embargado, não haveria violação ao direito adquirido, coisa julgada ou princípio da norma mais favorável o fato de uma norma superveniente vir a alterar política salarial, ainda que haja previsão expressa de negociação coletiva;
+b) entretanto, na forma do acórdão paradigma, importa em violação aos mencionados dispositivos a decisão que desconsidera o pactuado e a particularidade de previsão expressa de negociação coletiva” (fl. 346).
+Requer o conhecimento e provimento destes embargos de divergência, para que a reclamação trabalhista seja considerada precedente e os reajustes salariais previstos em convenção coletiva de trabalho sejam garantidos aos substituídos.
+Examinada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica não assiste ao Embargante.
+Cabem embargos de divergência à decisão de Turma do Supremo Tribunal Federal que divergir de julgado de outra Turma ou do Plenário (art. 330 do Regimento Interno do Supremo Tribunal Federal).
+4. No caso, os embargos de divergência são manifestamente inadmissíveis porque ausente o requisito da diversidade orgânica, uma vez fundados em paradigma da mesma Turma. Quer dizer, o Embargante limitou-se a invocar como paradigma acórdão da mesma Turma do acórdão embargado, tornado os embargos inadmissíveis.
+Tal entendimento tem sido reiteradamente afirmado pelo Supremo Tribunal Federal, conforme se verifica nos seguintes precedentes:
+“RECURSO. Extraordinário. Inadmissibilidade. Gratificação de policial militar. Reajuste. Extensão aos inativos. Embargos de divergência. Acórdãos apresentados como paradigma da mesma Turma. Inadmissibilidade por não demonstrada a divergência. Arts. 331 e 322 do RISTF. Ausência de novas razões. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte” (RE nº 156.563-EDv-AgR, Rel. Min. Cezar Peluso, Tribunal Pleno, DJ de 12.5.2006.);
+“EMBARGOS DE DIVERGÊNCIA – PRESSUPOSTOS FORMAIS DE SUA UTILIZAÇÃO – CRITÉRIO DA DIVERSIDADE ORGÂNICA (SÚMULA 353/STF) – PADRÃO DE DIVERGÊNCIA QUE EMANOU DA MESMA TURMA PROFERIU A DECISÃO EMBARGADA – COMPOSIÇÃO SUBSTANCIALMENTE IDÊNTICA DESSE ÓRGÃO FRACIONÁRIO – EMBARGOS DE DIVERGÊNCIA NÃO ADMITIDOS. - Os embargos de divergência estão sujeitos, dentre os vários pressupostos que lhe condicionam a interposição, à observância do requisito da diversidade orgânica. Esse requisito impõe que o padrão de divergência – para ser validamente invocado como expressão do dissídio interpretativo – resulte de acórdão emanado, ou do Plenário ou de outra Turma do Supremo Tribunal Federal, pois não se reveste de idoneidade processual, para efeito de demonstração do conflito pretoriano, a indicação de acórdão proferido pela própria Turma de que proveio a decisão contra a qual foram opostos os embargos de divergência (Súmula 353/STF), ressalvada a hipótese excepcional de a Turma haver sofrido substancial modificação em sua composição. Precedentes. - Inocorrência, na espécie dessa hipótese excepcional, pois os acórdãos em confronto emanaram da mesma Turma cuja a composição majoritária – quatro (4) Ministros, no caso – manteve-se substancialmente inalterada ” (RE nº 318.469-EDv-QO, Rel. Min. Celso de Mello, Tribunal Pleno, DJ de 11.10.2002.).
+No mesmo sentido, Agravo de Instrumento 339.377-AgR-ED-EDv, Relator o Ministro Cezar Peluso, Tribunal Pleno, DJ 20.8.2009.
+5. Pelo exposto, não admito os embargos de divergência (art. 546, II, do Código de Processo Civil c/c art. 335 do Regimento Interno do Supremo Tribunal Federal ).
+Publique-se.
+Brasília, 2 de agosto de 2010.
+Ministra CÁRMEM LÚCIA
+Relatora
