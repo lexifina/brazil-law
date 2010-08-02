@@ -1,0 +1,35 @@
+DECISÃO : (Petição n. 28.533/2010)
+MANDADO DE INJUNÇÃO. REQUERIMENTO DE DILAÇÃO DE PRAZO PARA DILIGÊNCIAS APÓS DECISÃO QUE NEGOU SEGUIMENTO AO MANDADO DE INJUNÇÃO. ERRO GROSSEIRO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRECEDENTES. ARQUIVAMENTO.
+Relatório
+1. Mandado de injunção impetrado por Eduardo Luiz Dantas da Costa, em 10.3.2010, contra pretensa omissão legislativa imputada ao Presidente da República.
+2. Em 30 de março de 2010, determinei ao Impetrante que, no prazo de dez dias, demonstrasse as condições especiais às quais estaria submetido no exercício de suas funções e comprovasse a negativa da Administração Pública em conceder a aposentadoria especial, em razão da ausência de norma regulamentadora do art. 40, § 4º, inc. III, da Constituição da República (fls. 27-29).
+3. Em 22 de abril de 2010, o Impetrante juntou aos autos cópias de contracheques indicando a percepção de adicional de insalubridade e de demonstrativo de tempo de serviço emitido pela Polícia Civil do Distrito Federal (fls. 35-118).
+4. Em 4 de maio de 2010, neguei seguimento ao presente mandado de injunção por não ter o Impetrante demonstrado que a Administração teria negado o seu direito à aposentadoria especial com fundamento na ausência da norma regulamentadora do art. 40, § 4º, inc. III, da Constituição da República (fls. 120-124).
+5. Publicada essa decisão no DJe de 12.5.2010 (fl. 128), o Impetrante, em 17.5.2010, dentro do prazo recursal, protocolou a Petição 28.533/2010 (fls. 131-133).
+Alegou o Impetrante que, “na decisão em questão, foi negado seguimento ao mandado de injunção em tela com o fundamento de que os documentos juntados aos autos (...) não comprovariam que a Administração Pública distrital tenha negado a contagem especial do tempo de serviço prestado em condições insalubres” (fl. 131).
+Afirmou que, “com a finalidade de suprir a exigência formulada, (...) requereu formalmente ao Diretor da Divisão de Recursos Humanos da Polícia Civil do Distrito Federal que a contagem do seu tempo de serviço para fins de aposentadoria seja diferenciada ou especial, na forma que preceitua o art. 40, § 4º, III, da Constituição da República” (fl. 132).
+Asseverou que “esse requerimento foi protocolado no dia 13 de maio, como comprova o documento anexo. Entretanto, ainda não houve resposta formal do referido órgão. Cumpre ressaltar, porém, que o indeferimento do pleito administrativo já foi noticiado pelo órgão em questão, que informou que a Procuradoria do Distrito Federal já se manifestou contrariamente à concessão da contagem especial do tempo de serviço em casos como o do Impetrante” (fl. 132).
+Requereu “seja reconsiderada a decisão de fls., deferindo-se o prazo de quinze dias para a juntada da negativa formal da Administração Pública distrital relativa à concessão da aposentadoria especial prevista no art. 40, § 4º, inc. III, da Constituição da República” (fl. 132).
+Apreciada a matéria trazida na espécie, DECIDO.
+6. Inicialmente cumpre ressaltar que, embora o Impetrante tenha peticionado antes do trânsito em julgado da decisão que negou seguimento a este mandado de injunção, a petição apresentada não é o instrumento processual adequado para impugnar a decisão proferida. Na espécie vertente, o recurso cabível seria o agravo regimental, no prazo de cinco dias, nos termos do art. 317, § 1º, do Regimento Interno do Supremo Tribunal Federal, que dispõe:
+“Art. 317. Ressalvadas as exceções previstas neste Regimento, caberá agravo regimental, no prazo de cinco dias de decisão do Presidente do Tribunal, de Presidente de Turma ou do Relator, que causar prejuízo ao direito da parte.
+§ 1º A petição conterá, sob pena de rejeição liminar, as razões do pedido de reforma da decisão agravada”.
+A petição de agravo regimental deve conter as razões do pedido de reforma da decisão agravada, sob pena de rejeição liminar. Na espécie, o Impetrante apenas requereu a reconsideração do julgado para diligências.
+Assim, por não ter o Impetrante interposto o recurso adequado à espécie, a decisão que negou seguimento a este mandado de injunção transitou em julgado. Dessa forma, não é juridicamente possível conceder o prazo de quinze dias para cumprimento de diligências.
+Nesse sentido, o seguinte julgado:
+“Incabível a apresentação de 'petição inominada incidental' que não ataca os fundamentos do acórdão recorrido, além de transcorrido o prazo recursal. Não há se falar em direito de petição, tendo em vista ser claro o objetivo do recorrente em reabrir discussão tomada em acórdão já transitado em julgado. Esgotada a jurisdição da Suprema Corte no presente feito” (AI 522.066-AgR-ED-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 17.4.2009).
+7. Ademais, esta petição não é um recurso nem está impugnando a decisão que negou seguimento ao presente mandado de injunção, razão pela qual não se pode sequer cogitar de recebê-la como agravo regimental.
+O princípio da fungibilidade recursal aplica-se quando um recurso inadequado é considerado válido, pois há controvérsia, na doutrina ou na jurisprudência, quanto ao recurso adequado para impugnar a decisão judicial. No caso dos autos, o Regimento Interno do Supremo Tribunal Federal dispõe que cabe agravo regimental contra a decisão do Relator que causar prejuízo ao direito da parte.
+Ao invés de apresentar o recurso cabível contra a decisão que negou seguimento a este mandado de injunção, o Impetrante pediu dilação do prazo para diligências, o que denota erro de sua parte. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de não se aplicar o princípio da fungibilidade recursal quando há erro grosseiro.
+Confiram-se, a propósito, os seguintes julgados:
+“O princípio da fungibilidade recursal deve ser aplicado com parcimônia, sob pena de comprometer-se o sistema recursal previsto no Código de Processo Civil, principalmente quando há erro grosseiro na escolha do recurso cabível” (MS 23.605-AgR-ED, Rel. Min. Eros Grau, Tribunal Pleno, DJ 14.10.2005).
+E:
+“PRINCÍPIO DA FUNGIBILIDADE. RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO EM MATÉRIA INFRACONSTITUCIONAL. RECEBIMENTO COMO ESPECIAL. IMPOSSIBILIDADE ANTE A EXISTÊNCIA DE ERRO GROSSEIRO. A aplicabilidade do princípio da fungibilidade limita-se aos casos de dúvida fundada quanto ao recurso cabível. Impossível homenageá-lo quando se deduz espécie recursal imprópria e impertinente em substituição aquela expressamente indicada. Agravo regimental improvido” (AI 134.518-AgR, Rel Min. Ilmar Galvão, Primeira Turma, DJ 28.5.1993).
+E ainda:
+“I - É inaplicável o princípio da fungibilidade recursal ante a clara existência de erro grosseiro. II - Agravo regimental improvido” (AI 630.444-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 29.8.2008).
+8. Pelo exposto, por ter transitado em julgado a decisão que negou seguimento a este mandado de injunção, nada há a prover quanto ao pedido de dilação de prazo para diligências.
+Publique-se.
+Arquive-se.
+Brasília, 2 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
