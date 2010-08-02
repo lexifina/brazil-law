@@ -1,0 +1,5 @@
+# Lei nº 2.297, de 30 de julho de 2010, do Estado do Acre
+
+Altera dispositivos da Lei n. 1.341, de 19 de julho de 2000, que institui o Departamento Estadual de Defesa do Consumidor - PROCON e dá outras providências.
+
+Fonte: ALEAC Legisla-e, <https://app.al.ac.leg.br/legisla-e/legislacao/visualizar/5422>
