@@ -1,0 +1,35 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1) AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO CONSTITUCIONAL SUPOSTAMENTE CONTRARIADO: INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2) ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso extraordinário inadmitido foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. FINANCIAMENTO IMOBILIÁRIO. ENTIDADE DE PREVIDÊNCIA PRIVADA. FUNCEF.
+POSSIBILIDADE DE REVISÃO DO PACTO E INCIDÊNCIA DO CDC NA ESPÉCIE. SÚMULA 321 DO STJ.
+ATUALIZAÇÃO DA PRESTAÇÃO.
+Em que pese o contrato não mencione a adoção do Plano de Equivalência Salarial – PES, instituído nos contratos firmados no âmbito do SFH, a cláusula 7ª do contrato dispõe que as prestações do financiamento devem ser reajustadas, anualmente, mediante a aplicação do mesmo índice de aumento ou reajuste concedidos à categoria profissional do mutuário. No que tange à atualização das prestações, a perícia constatou que os índices aplicados pela demandada não correspondem aos devidos, impondo-se o recálculo das prestações desde o início da contratação.
+REPETIÇÃO DO INDÉBITO.
+Viável, na forma simples, por aplicação do CDC. Admissível a compensação.
+APELAÇÃO DESPROVIDA ” (fl. 171).
+3. No recurso extraordinário interposto, a Agravante alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXVI, LIV e LV, e 202, caput, da Constituição da República.
+Argumenta que o art. 5º, inc. LIV e LV, teria sido contrariado, “na medida em que o Tribunal a quo rejeitou [os embargos de declaração], sem que fossem expressamente examinados” (fl. 224).
+Sustenta que “o Tribunal de origem desfigurou um contrato existente, válido e eficaz, firmado entre as partes litigantes, impossibilitando que a ora recorrente obtenha o retorno do capital que emprestou à recorrida, de modo que, à evidência, ocasionou o desequilíbrio atuarial da entidade recorrente e saqueou as suas reservas garantidoras dos planos de benefícios dos associados, ao arrepio do art. 202 da [Constituição da República] e, ainda, não respeitou o ato jurídico perfeito, protegido constitucionalmente pelo art. 5º, inc. XXXVI” (fl. 221).
+Assevera que o acórdão recorrido, “ao adotar a incidência de regras do SFH ao contrato e determinar a aplicação de outras formas de atualização e remuneração do financiamento concedido, [teria contrariado o] artigo 202 da Constituição Federal, conquanto não [teria observado] o equilíbrio atuarial do plano da entidade de previdência recorrente” (fl. 985).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula 282 do Supremo Tribunal Federal e a ausência de ofensa constitucional direta (fls. 239-240).
+A Agravante reitera os argumentos aduzidos no recurso extraordinário.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. A alegação de contrariedade aos arts. 5º, inc. XXXVI, e 202 da Constituição da República foi formulada nos embargos declaratórios opostos contra o julgado recorrido, mas não na apelação interposta contra a sentença mantida pelo acórdão recorrido, o que não satisfaz o requisito do prequestionamento.
+Tem-se atendido o requisito do prequestionamento quando oportunamente suscitada a matéria, o que se dá em momento processual adequado, nos termos da legislação vigente. Quando, suscitada a matéria constitucional pelo interessado, não há o debate ou o pronunciamento do órgão judicial competente, é que pode – e deve – haver a oposição de embargos declaratórios para que se supra a omissão, como é próprio desse recurso. Apenas nos casos de omissão do órgão julgador sobre a matéria constitucional arguida na causa é que os embargos declaratórios cumprem o papel de demonstrar a ocorrência do prequestionamento.
+A inovação da matéria em embargos é juridicamente inaceitável para os fins de comprovação de prequestionamento. Primeiramente, se não se questionou antes (prequestionou), não se há cogitar da situação a ser provida por meio dos embargos. Em segundo lugar, se não houve prequestionamento da matéria, não houve omissão do órgão julgador, pelo que não prosperam os embargos pela ausência de sua condição processual. Assim, os embargos declaratórios não servem para suprir a omissão da parte que não tenha cuidado de providenciar o necessário questionamento em momento processual próprio.
+Confiram-se, a propósito, os seguintes julgados:
+“1. A jurisprudência deste Supremo Tribunal firmou-se no sentido de que ‘Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada’. Precedentes” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2008).
+“I. RE: PREQUESTIONAMENTO: SÚMULA 356. O QUE, A TEOR DA SÚMULA 356, SE REPUTA CARENTE DE PREQUESTIONAMENTO É O PONTO QUE, INDEVIDAMENTE OMITIDO PELO ACÓRDÃO, NÃO FOI OBJETO DE EMBARGOS DE DECLARAÇÃO; MAS, OPOSTOS ESSES, SE, NÃO OBSTANTE, SE RECUSA O TRIBUNAL A SUPRIR A OMISSÃO, POR ENTENDÊ-LA INEXISTENTE, NADA MAIS SE PODE EXIGIR DA PARTE, PERMITINDO-SE-LHE, DE LOGO, INTERPOR RECURSO EXTRAORDINÁRIO SOBRE A MATÉRIA DOS EMBARGOS DE DECLARAÇÃO E NÃO SOBRE A RECUSA, NO JULGAMENTO DELES, DE MANIFESTAÇÃO SOBRE ELA” (RE 210.638, Rel. Min. Sepúlveda Pertence, DJ 19.6.1998).
+Dessa forma, não foi atendido o requisito do prequestionamento. Incide na espécie a Súmula 282 do Supremo Tribunal Federal, uma vez que a questão constitucional somente foi suscitada nos embargos opostos contra os termos da decisão recorrida.
+7. O Supremo Tribunal Federal firmou o entendimento de que a alegação de contrariedade ao art. 5º, inc. LIV e LV, da Constituição da República, quando dependente de exame de legislação infraconstitucional, como ocorre na espécie vertente, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008 – grifos nossos).
+8. Não há o que prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
