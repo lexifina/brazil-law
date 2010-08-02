@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. 1) IMPROCEDÊNCIA DA ALEGAÇÃO DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. 2) ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. II, V, XXXV, XXXVI E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“INDENIZAÇÃO. DANO MORAL. Manutenção do nome do Autor nos órgãos de proteção de crédito após o pagamento da dívida. Fato que o impediu de adquirir empréstimo para compra de veículo. Dano moral caracterizado. Quantum fixado a título de dano moral suficiente para mitigar o constrangimento sofrido pelo Autor. Recurso da Ré desprovido e provido em parte o apelo do Autor” (fl. 55).
+Os embargos declaratórios opostos contra o julgado recorrido foram rejeitados nos seguintes termos:
+“Alega que a denunciação à lide, feita em preliminar de contestação (35/55), não foi considerada pelo MM. Juízo a quo, culminando na nulidade do processo desde a origem (...).
+Todavia, sem qualquer fundamento. Mais uma vez, a Ré vem confessar sua responsabilidade.
+(...)
+Ora, se sua preposta causou danos ao Autor, é a Ré que responde (Lei n. 8.078/90, art. 34). Certo que poderá, caso queira, por via de regresso, cobrar de sua preposta o que teve que arcar, mas jamais se esquivar de sua responsabilidade.
+Anote-se, inclusive, para que a parte tenha claros seus erros, que, quando apresentou suas razões de apelação de fls. 165/172, não tocou no assunto da suposta ilegitimidade” (fls. 60-61 – grifos nossos).
+3. No recurso extraordinário, a Agravante afirma que o Tribunal a quo teria contrariado os arts. 5º, inc. II, V, XXXV, XXXVI e LV, e 93, inc. IX, da Constituição da República, porque : a) teria incorrido em julgamento ultra petita; b) não teria apreciado as questões suscitadas nos embargos declaratórios opostos contra o julgado recorrido; e c) teria impedido a formação de litisconsórcio passivo necessário.
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta (fls. 11-12).
+A Agravante reitera os argumentos formulados no recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+Conforme a jurisprudência do Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+7. O Supremo Tribunal Federal firmou o entendimento de que a alegação de contrariedade ao art. 5º, inc. II, XXXV, XXXVI e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional - na espécie vertente, do Código de Processo Civil -, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. INTIMAÇÃO PESSOAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta ” (AI 776.282-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010).
+“ RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+8. A solução da questão relativa à indenização por danos morais demandaria o reexame do conjunto fático-probatório constante dos autos e a análise da legislação infraconstitucional, o que não viabiliza o recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO: DANOS MATERIAIS E MORAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 709.133-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009 – grifos nossos).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Danos materiais e morais. Indenização. Questão infraconstitucional. Matéria fática. Agravo regimental improvido. Súmula 279. Não cabe RE que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, nem tampouco que dependa de reexame de provas” (AI 581.555-ED-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 1º.9.2006 – grifos nossos).
+9. Nada há a prover quanto às alegações da Agravante.
+10. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
