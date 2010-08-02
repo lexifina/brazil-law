@@ -1,0 +1,17 @@
+DECISÃO
+Vistos.
+Estado de Goiás interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 40, §§ 5º e 10, da Constituição Federal, 17 do Ato das Disposições Constitucionais Transitórias, 3º e 4º da Emenda Constitucional nº 20/98 e 6º da Emenda Constitucional nº 41/03.
+Insurge-se, no apelo extremo, contra acórdão da Segunda Turma Julgadora da Primeira Câmara Cível do Tribunal de Justiça do Estado de Goiás, assim ementado:
+“MANDADO DE SEGURANÇA. LICENÇA PRÊMIO. CONTAGEM EM DOBRO PARA EFEITO DE APOSENTADORIA. As Leis nº 11.336/90, 12.361/94, art. 104 e, Lei nº 10.460/88, art. 248, anteriores à EC nº 20/08, que vedou a contagem em dobro da licença prêmio não gozada, conferem à impetrante o direito por ela pleiteado. Assim, como a situação já foi consumada antes da vedação, é direito líquido e certo da impetrante ter incorporado em dobro ao seu patrimônio as licenças prêmios não gozadas. SEGURANÇA CONCEDIDA” (fl. 83).
+Opostos embargos de declaração (fls. 100 a 105), foram rejeitados (fls. 109 a 121).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, ão é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da ência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não prospera a irresignação, uma vez ser pacífica a jurisprudência deste Tribunal no sentido de que há direito adquirido do servidor público à conversão de licença-prêmio não gozada em tempo de serviço, quando a aquisição ocorreu em período anterior à EC nº 20/98, como no caso dos autos. Nesse sentido, anote-se:
+“Agravo regimental em agravo de instrumento. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Conversão da licença-prêmio não gozada em tempo ficto. Aposentadoria. Período anterior à EC 20/98. Possibilidade. Precedente. 4. Agravo regimental a que se nega provimento” (AI nº 666.942/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 28/3/08).
+“SERVIDOR PÚBLICO. CONVERSÃO DE LICENÇA-PRÊMIO NÃO GOZADA EM TEMPO DE SERVIÇO. DIREITO ADQUIRIDO ANTES DA VIGÊNCIA DA EMENDA CONSTITUCIONAL N. 20/98. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO” (AI nº 540.075/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 9/2/07).
+“- CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CONVERSÃO DE LICENÇA-PRÊMIO NÃO GOZADA EM TEMPO DE SERVIÇO. DIREITO ADQUIRIDO ANTES DA VIGÊNCIA DA EMENDA CONSTITUCIONAL 20/98. I. - Conversão de licença-prêmio em tempo de serviço: direito adquirido na forma da lei vigente ao tempo da reunião dos requisitos necessários para a conversão. Precedentes do STF. II. - Agravo não provido” (RE 394.661/RS-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 14/10/05).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 2 de agosto de 2010.
+Ministro DIAS TOFFOLI
+Relator
