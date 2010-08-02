@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO APOSENTADO. DIREITO A RECEBIMENTO DE GRATIFICAÇÃO PELO EXERCÍCIO DA FUNÇÃO DE DATILÓGRAFO. JULGADO RECORRIDO FUNDAMENTADO EM LEI LOCAL: INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Paraná:
+“APELAÇÃO CÍVEL. ADMINISTRATIVO. GRATIFICAÇÃO PERMANENTE E GENÉRICA CONCEDIDA AOS SERVIDORES MUNICIPAIS QUE EXERCEM A FUNÇÃO DE DATILÓGRAFO. INAPLICABILIDADE AO CASO CONCRETO DA EXIGÊNCIA TEMPORAL PREVISTA NA LEI MUNICIPAL 94/79. INCORPORAÇÃO AOS PROVENTOS DO AUTOR. REDUÇÃO DA TAXA DE JUROS MORATÓRIOS PARA 0,5% AO MÊS. INTELIGÊNCIA DO 1º-F DA LEI Nº 9.494/97, COM REDAÇÃO DADA PELA MEDIDA PROVISÓRIA Nº 2.180-35/2001. RECURSO A QUE SE DÁ PARCIAL PROVIMENTO ” (fl. 9).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas 280 e 284 do Supremo Tribunal Federal (fls. 39-41).
+4. O Agravante alega que teriam sido contrariados os arts. 2º, 29, 30, 61, inc. II, e 93, inc. IX, da Constituição da República.
+Afirma que:
+“A pretensão da recorrida ofusca a discricionariedade patente de escolhas político-administrativas que competem ao Chefe do Executivo, e induzem o Poder Judiciário a penetrar na esfera da função administrativa, em afronta ao princípio da separação dos Poderes. (...) Data maxima venia, não cabe ao Judiciário ordenar despesas ou pretender que elas se façam da forma que sugere (...) Tal concepção encontra seu maior fundamento na idéia de que o princípio da separação dos poderes não admite qualquer espécie de usurpação das competências conferidas constitucionalmente a cada um dos poderes estabelecidos” (fl. 23).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. O Tribunal a quo decidiu a controvérsia com base na interpretação e na aplicação da Lei municipal n. 94/1997 e concluiu que o Agravado faria jus à gratificação decorrente do exercício da função de datilógrafo em razão de seu caráter geral.
+Consta no voto do Desembargador Relator:
+“Extrai-se da norma em comento que a vantagem ora postulada foi instituída em caráter permanente em favor dos ocupantes dos cargos de datilógrafos que executassem de forma intensa serviços em máquina de datilografia, independentemente do preenchimento de qualquer condição peculiar ou excepcional, relativa ao exercício da função, fato este que exclui, por si só, a sua caracterização como gratificação pro labore faciendo” (fl. 13).
+Para se concluir de modo diverso, seria necessário o reexame da norma local aplicada , o que é vedado pela Súmula 280 do Supremo Tribunal Federal.
+Nesse sentido:
+“ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO EXTRA-CLASSE. SERVIDOR APOSENTADO DO ESTADO DO CEARÁ. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. 1. O Tribunal a quo, interpretando legislação estadual que trata da matéria, entendeu que a gratificação extra-classe seria extensível aos servidores inativos. 2. Para se concluir, como pretende a parte agravante, pelo caráter específico da gratificação em análise, necessário seria o reexame de legislação local. Precedentes. 3. Agravo regimental improvido” (RE 577.159-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 12.6.2009).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO ESPECIAL. ANÁLISE DA LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DO EXTRAORDINÁRIO COM FUNDAMENTO NA ALÍNEA ‘C’ DO ARTIGO 102, III, DA CONSTITUIÇÃO. INVIABILIDADE. 1. A controvérsia foi decidida com fundamento na legislação local. Incidência da Súmula n. 280 do Supremo Tribunal Federal. 2. Acórdão recorrido que não julgou válida lei ou ato de governo local contestado em face da Constituição. Inviabilidade da admissão do recurso extraordinário interposto com fundamento na alínea ‘c’ do artigo 102, III, da Constituição. Agravo regimental a que se nega provimento ” (RE 602.456-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 13.11.2009).
+“SERVIDOR PÚBLICO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. Precedentes. II - Agravo regimental  improvido” (AI 689.921-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 20.2.2009).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. A controvérsia foi decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 594.028-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 27.2.2009).
+Nada há a prover quanto às alegações do Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
