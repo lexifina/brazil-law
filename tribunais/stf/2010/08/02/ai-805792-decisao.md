@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PROMOÇÃO DE POLICIAL MILITAR. 1) AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO CONSTITUCIONAL SUPOSTAMENTE CONTRARIADO: INCIDÊNCIA DA SÚMULA 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2) NECESSIDADE DA ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL: IMPOSSIBILIDADE. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O Tribunal de Justiça de Mato Grosso do Sul julgou agravo regimental em apelação em ação ordinária, nos termos seguintes:
+“AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL – POLICIAL MILITAR – PROMOÇÃO POR ATO DE BRAVURA – NULIDADE DO ATO ADMINISTRATIVO – AFASTADA – APRECIAÇÃO D MÉRITO ADMINISTRATIVO DO PODER EXECUTIVO PELO JUDICIÁRIO – IMPOSSIBILIDADE – RECURSO PROVIDO” (fl. 214).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas 279, 280, 282 e 356 do Supremo Tribunal Federal.
+4. O Agravante argumenta que:
+“A promoção por ato de bravura do Agravante atende aos requisitos para a expedição desse provimento administrativo, cabendo ao Chefe do Poder Executivo estadual emitir o ato administrativo de promoção, com fundamento no art. 89 da Constituição Estadual c/c os arts. 7º e 25 da Lei n. 61/1980, e, ainda, com o inciso IV do art. 4º, art. 8º e inc. II do art. 34 do Decreto n. 10.769/2002.
+(...)
+Com efeito, o provimento judicial se faz necessário quando, embora não caiba ao Poder Judiciário apreciar o mérito dos atos administrativos, a análise de sua discricionariedade seria possível para a verificação de sua regularidade em relação às causas, aos motivos e à finalidade que ensejam” (fls. 9-14).
+5. No recurso extraordinário, alega que o Tribunal a quo teria afrontado o art. 37, caput, da Constituição.
+Sustenta que “o princípio constitucional da moralidade, que deve nortear o ato administrativo, vem expresso no caput do art. 37 da CF, sendo que a doutrina é harmônica em reconhecer a relevância de tal princípio para o direito administrativo” (fl. 241).
+Apreciada a matéria trazida na espécie, DECIDO.
+6. Razão jurídica não assiste ao Agravante.
+7. O art. 37, caput, da Constituição não foi objeto de debate e decisão prévios no Tribunal de origem. Tampouco foram suscitados em embargos de declaração, com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+“A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário” (AI 413.963-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 1º.4.2005).
+8. Ademais, o reexame do acórdão impugnado demandaria a análise prévia da legislação infraconstitucional aplicável à espécie, suscitada pelo Agravante (art. 89 da Constituição Estadual, arts. 7º e 25 da Lei 61/1980 e arts. 4º, inc. IV, 8º e 34, inc. II, do Decreto 10.769/2002). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MILITAR. PROMOÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 575.450-AgR, de minha relatoria, Primeira Turma, DJ 20.2.2009).
+“Servidor público do Estado do Ceará: promoção de Policial Militar: recurso extraordinário: descabimento: controvérsia decidida à luz de legislação infraconstitucional: alegada violação do dispositivo constitucional invocado que, se ocorresse, seria reflexa ou indireta, demandando prévia verificação de requisitos para promoção funcional e reexame de legislação local, ao que não se presta o RE: incidência das Súmulas 279, 280 e 636” (RE 435.793-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 9.2.2007).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (AI 562.165-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 9.6.2006).
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência do Supremo Tribunal Federal, razão pela qual nada há a prover quanto às alegações da parte agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
