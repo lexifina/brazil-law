@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. 1) PRESSUPOSTOS DE CABIMENTO DE RECURSO. CONTROVÉRSIA SEM REPERCUSSÃO GERAL: RECURSO EXTRAORDINÁRIO 598.365. 2) ALEGADA OFENSA AOS PRINCÍPIOS DA LEGALIDADE, DA PRESTAÇÃO JURISDICIONAL, DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o julgado do Superior Tribunal de Justiça que manteve a seguinte decisão monocrática:
+“PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FASE DE CUMPRIMENTO DE SENTENÇA. PAGAMENTO NÃO CUMPRIDO VOLUNTARIAMENTE. INCIDÊNCIA DA MULTA DO ART. 475-J. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS PREVISTOS NO ART. 20, § 4º DO CPC. CABIMENTO. RECURSO ESPECIAL PROVIDO” (fl. 336).
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 451-452).
+3. O Agravante alega que teria sido contrariado o art. 5º, inc. II, XXXV, LIV e LV, da Constituição da República.
+Argumenta que, “nas razões do recurso especial constam fundamentações jurídicas inaptas para o conhecimento, processamento e provimento do mesmo, bem como que as mesmas observaram literalmente o preconizado no art. 105, inc. III, da Carta Magna e o art. 541 e seus incisos do Caderno Processual Vigente, além de não terem sido fundamentados de modo claro e objetivo nos quais estaria demonstrado a violação direta de lei federal” (fls. 429-430).
+Sustenta que “a agravada não demonstrou ao longo de toda tramitação processual e, especificamente no Recurso Especial interposto, a divergência com julgado de outro Tribunal Regional Federal, na interpretação da Legislação Federal, bem como a demonstração de dissídio interpretativo, nos termos do art. 541 do CPC, devendo ter o recurso especial seu regular não conhecimento” (fl. 430).
+Analisada a matéria posta à apreciação, DECIDO.
+4. Razão jurídica não assiste ao Agravante.
+5. O Superior Tribunal de Justiça examinou a legislação infraconstitucional atinente aos pressupostos de cabimento e admissibilidade do recurso especial interposto pelo ora Agravado e deu-lhe provimento.
+No julgamento do Recurso Extraordinário 598.365, Relator o Ministro Ayres Britto, o Plenário do Supremo Tribunal Federal afirmou a inexistência de repercussão geral da questão discutida nestes autos:
+“PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso 'elemento de configuração da própria repercussão geral', conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608” (DJe 26.3.2010).
+Declarada a ausência de repercussão geral, os recursos extraordinários e respectivos agravos de instrumento que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+6. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional (Código de Processo Civil), podem configurar apenas ofensa constitucional indireta. Nesse sentido:
+“A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+7. Ademais, a alegada afronta ao princípio da legalidade esbarra no óbice na Súmula 636 do Supremo Tribunal Federal, que dispõe que “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+8. Não há, pois, o que prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
