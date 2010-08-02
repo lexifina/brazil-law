@@ -1,0 +1,35 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1) RECONHECIMENTO DE PRESCRIÇÃO E EXTINÇÃO DE PROCESSO. ALEGAÇÃO DE OFENSA AO ART. 5º, INC. XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. 2) AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO CONSTITUCIONAL SUPOSTAMENTE CONTRARIADO: INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 3ª Região:
+“PROCESSUAL CIVIL. PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO DE SENTENÇA. REVISÃO. SÚMULA 260 DO EXTINTO TFR. ÍNDICE INTEGRAL. ART. 58 DO ADCT. PRESCRIÇÃO. SÚMULA 25 DESTE E. TRF DA 3ª REGIÃO. HONORÁRIOS. SENTENÇA FUNDAMENTADA. PRELIMINAR REJEITADA. APELAÇÃO PROVIDA.
+1. Rejeitada a preliminar de nulidade da sentença por falta de fundamentação, porquanto o ato decisório que julgou improcedente o feito indicou, sucintamente embora, as razões do entendimento do magistrado, ausente qualquer afronta ao art. 93, IX, da Constituição Federal.
+2. A Súmula 260 do TFR foi substituída pelo artigo 58 do ADCT como forma de recuperação do valor dos benefícios, de modo que
+as diferenças originadas de sua aplicação somente podem ser encontradas até 04 de abril de 1989.
+3. Como a ação revisional foi proposta em 30.03.1995, operou-se a prescrição, na forma do art. 103, § único, da Lei n° 8.213/91.
+4. Aplicação da súmula nº 25 deste e. Tribunal Regional Federal da 3ª Região.
+5. Tanto na Justiça Federal quanto na Estadual, não incidem custas processuais nos embargos à execução, seja com relação à Autarquia ou à pessoa física (artigo 6º, inciso VI, da Lei 4.952/85, e artigos 1º, § 1º, e 7º da Lei 9.289/96).
+6. Honorários advocatícios fixados em 10% (dez por cento) do valor da causa, a serem pagos pelo embargado.
+7. Apelação conhecida, matéria preliminar rejeitada e, no mérito, provida” (fl. 96 – grifos nossos).
+3. No recurso extraordinário, o Agravante sustenta contrariedade ao art. 5º, inc. XXXVI, da Constituição da República.
+Alega que:
+“É lei, desta feita, o quanto sentenciado nos autos da ação ordinária em apenso (...). Irrecorrido, dito decisório transitou em julgado, produzindo, desde então, seus regulares efeitos (...).
+Para o caso em tela, por força da regra do artigo 467 da Lei dos Ritos, não se pode, sequer, discutir o que já se decidiu. Inviolável a imutabilidade da decisão definitiva que pretende o Recorrido rever” (fl. 148).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta (fls. 157-158).
+O Agravante assevera que a matéria versada no recurso extraordinário seria constitucional.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. O Supremo Tribunal Federal consolidou o entendimento de que a verificação, no caso concreto, de eventual ofensa à coisa julgada e a controvérsia sobre os limites objetivos dessa situam-se no campo infraconstitucional. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE SUPRESSÃO DE INSTÂNCIA. ART. 515, § 3º, DO CÓDIGO DE PROCESSO CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 631.452-AgR, de minha relatoria, Primeira Turma, DJe 15.5.2009 – grifos nossos).
+“PROESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA OFENSA AO ART. 5º, XXXVI, DA CONSTITUIÇÃO. OFENSA INDIRETA. ANÁLISE DE NORMA INFRACONSTITUCIONAL. SÚMULA 279 DO STF. INCIDÊNCIA. TRÂNSITO EM JULGADO DE RECURSO ESPECIAL. SÚMULA 283 DO STF. AGRAVO IMPROVIDO. I - A Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. II - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Com a negativa de seguimento ao recurso especial pelo Superior Tribunal de Justiça tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF). IV - Agravo regimental improvido” (AI 679.728-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 13.3.2009 – grifos nossos).
+“AGRAVO REGIMENTAL. CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO (CSLL). VIOLAÇÃO DA COISA JULGADA. A alegação de ofensa ao inciso XXXVI do artigo 5º da Constituição é indireta ou reflexa, e, portanto, não dá margem ao cabimento do recurso extraordinário. Agravo regimental ao qual se nega provimento” (RE 473.214-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 23.5.2008 – grifos nossos).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PARÁGRAFO ÚNICO DO ARTIGO 741 DO CPC. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. 1. Controvérsia decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. 2. A verificação, no caso concreto, da ocorrência, ou não, de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada situa-se no campo infraconstitucional. Agravo regimental a que se nega provimento” (RE 554.008-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 6.6.2008 – grifos nossos).
+7. O dispositivo suscitado no recurso extraordinário não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+8. Nada há, pois, a prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
