@@ -1,0 +1,39 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. PSICOTÉCNICO. NECESSIDADE DA ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL APLICADA NA ESPÉCIE, DAS PROVAS DOS AUTOS E DE CLÁUSULAS EDITALÍCIAS: IMPOSSIBILIDADE. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DAS SÚMULAS 279, 280 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“CONCURSO PÚBLICO. PSICOTÉCNICO. RECONHECIMENTO DE LEGALIDADE PELO JUDICIÁRIO. IMPOSSIBILIDADE DE PROSSEGUIR A INSTRUÇÃO E EXAMINAR O ATO NO MÉRITO. – Não competindo ao Poder Judiciário o julgamento do ato administrativo, a não ser quanto a sua validade formal, excessiva é a sentença que, reconhecendo a legalidade do teste psicotécnico realizado, prossegue na instrução e acata prova contrária, reformando a decisão administrativa” (fl. 220).
+No voto condutor do acórdão recorrido tem-se que:
+“O digno Juiz de primeiro grau, data venia, desobedeceu manifestamente os princípios basilares da separação dos Poderes, pois, sem acolher qualquer alegação de defeito formal, assumiu, de frente, o papel do examinador do concurso, determinou prova, e, atacando o mérito do ato administrativo que ele próprio considerou legal e regular, simplesmente o reformou. Nesse caso, se não passou a fazer o papel de examinador do concurso, serviu, pelo menos, de órgão recursal da decisão administrativa, o que, evidentemente, não compete ao Poder Judiciário” (fl. 222).
+3. No recurso extraordinário, o Agravante alega que o Tribunal de origem teria contrariado os arts. 5º, inc. II, XXXV e LV, e 37, caput e inc. II, da Constituição da República.
+Argumenta que:
+“Na forma determinada no art. 39, § 10, da [Constituição do Estado de Minas Gerais], prevê o art. 5º, inc. III, alínea a, item 5, da Lei n. 5.301/69 – Estatuto da [Polícia Militar de Minas Gerais], que o candidato, para ingressar no quadro de praças da [Polícia Militar de Minas Gerais], deve demonstrar possuir sanidade mental comprovada mediante exames psicológicos, restando evidenciado que, conforme os diplomas aplicáveis à espécie, os exames psicológicos têm previsão legal, mas não com caráter eliminatório.
+(...)
+Dessa forma, a Lei n. 5.301/69 (...) não insere caráter eliminatório ao exame psicológico aplicado pela [Polícia Militar de Minas Gerais], sendo assim ilegal a eliminação do recorrente do certame, haja vista que o exame psicológico é aplicado apenas para comprovar o requisito da sanidade física e mental” (fls. 310-311).
+Sustenta que:
+“Se a [Polícia Militar de Minas Gerais] tivesse observado a forma correta de aplicação do teste psicológico, também teria chegado à conclusão de que o recorrente está psicologicamente apto para exercer as atividades militares a que se propõe e que tem perfil exigido pelo Edital, como foi atestado pelas seguintes provas:
+- Laudo pericial de fls. 132/133, extraído de perícia realizada pro psicólogo judicial, que aplicou os mesmos exames aplicados pela [Polícia Militar de Minas Gerais], em estrita observância do contraditório.
+- Ato de Promoção de Praças de fls. 211/212, através do qual resta comprovada a aptidão psicológica do recorrente, já que ele, com espeque em tutela antecipada confirmada por sentença, matriculou-se no CTSP/2006, frequentou-o, formou-se, foi promovido e integra a [Polícia Militar de Minas Gerais] há mais de 3 anos.
+Pelo que se depreende dos documentos anexados aos autos, a aplicação do exame psicológico para ingresso no curso não se deu na forma da lei, i.e., referidos exames não foram aplicados por oficiais psicólogos, mas por psicólogo civil, eivando de subjetivismo e ilegalidade o ato de eliminação do recorrente, tornando-o nulo de pleno direito” (fl. 314).
+Assevera que “o recurso previsto no edital foi tão dificultado que se tornou impossível, [uma vez que] as exigências (...) descritas e impostas pela [Polícia Militar de Minas Gerais] torna os resultados praticamente irrecorríveis” (fl. 315).
+Afirma que a teoria do fato consumado seria aplicável à espécie.
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de contrariedade direta à Constituição (fls. 368-370).
+O Agravante reitera os argumentos formulados no recurso extraordinário.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+O reexame do acórdão recorrido demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Constituição do Estado de Minas Gerais e Lei 5.301/69), do documentos dos autos e do edital do concurso público questionado. Assim, a alegada contrariedade à Constituição, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incidem na espécie as Súmulas 279, 280 e 454 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise prévia da legislação infraconstitucional e das normas editalícias e, ainda, do reexame de fatos e provas na via do recurso extraordinário (Súmula 279). 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que, ainda que a exigência do exame psicotécnico esteja prevista em lei, os critérios para a realização do mencionado exame devem ser objetivos. Precedentes” (AI 658.527-AgR, de minha relatoria, Primeira Turma, DJe 19.2.2009).
+“AGRAVO REGIMENTAL. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. PREVISÃO LEGAL. Nos termos da jurisprudência do Supremo Tribunal Federal, o exame psicológico para habilitação em concurso público deve estar previsto em lei em sentido formal e possuir critérios objetivos. A análise quanto à aptidão do candidato ao cargo pleiteado depende do exame do conjunto probatório constante dos autos, o que encontra óbice na Súmula 279 do STF. Agravo regimental a que se nega provimento” (AI 529.219-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 25.3.2010).
+6. Ademais, a jurisprudência deste Supremo Tribunal firmou-se no sentido da impossibilidade da aplicação da Teoria do Fato Consumado.
+Nesse sentido:
+“MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - DELEGADO DE POLÍCIA FEDERAL - CANDIDATO NÃO CLASSIFICADO DENTRO DO NÚMERO DE VAGAS PREVISTO EM EDITAL (EDITAL Nº 01/93) - CONCURSO PÚBLICO CUJO PRAZO DE VALIDADE JÁ SE EXAURIU - PRETENDIDO RECONHECIMENTO DO DIREITO À PARTICIPAÇÃO EM CURSO DE FORMAÇÃO PROFISSIONAL, A SER REALIZADO NO CONTEXTO DE NOVO CONCURSO PÚBLICO, ABERTO, POSTERIORMENTE, QUANDO JÁ ESGOTADO O PRAZO DE VALIDADE DO CERTAME ANTERIOR - IMPOSSIBILIDADE - REJEIÇÃO DA TEORIA DO FATO CONSUMADO - PRECEDENTES (STF) - AGRAVO IMPROVIDO.
+(...)
+Tenho para mim, na linha de recente decisão emanada da Colenda Primeira Turma desta Suprema Corte (RE 275.159-SC, Rel. Min. Ellen Gracie), que situações de fato, geradas pela concessão de provimentos judiciais de caráter meramente provisório, não podem revestir-se, ordinariamente, tractu temporis, de eficácia jurídica que lhes atribua sentido de definitividade, compatível, apenas, com decisões favoráveis revestidas de autoridade da coisa julgada, notadamente nas hipóteses em que a pretensão deduzida em juízo esteja em conflito com a ordem constitucional, como ocorre na espécie deste autos” (RMS 23.544-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 21.6.2002 – grifos nossos).
+7. Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
