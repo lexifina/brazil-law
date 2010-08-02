@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRABALHISTA. CONTROVÉRSIA SOBRE SUSPENSÃO DE PRAZO PRESCRICIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Superior do Trabalho:
+“Despacho Agravado: O Regional, quanto ao tema da prescrição, não violou os arts. 7º, XXIX, da CF, 11 da CLT e 199, I, do CC (fl. 141).
+Fundamento do Agravo: ao contrário do que entendeu o despacho agravado, o Regional, ao manter a decisão de primeira instância que reconheceu a prescrição quinquenal somente em relação aos créditos anteriores a 08/08/00, considerando para tanto que o contrato de trabalho firmado entre as Partes ficou suspenso a partir de 08/08/05, por gozo de benefício previdenciário (auxílio-doença) pela Obreira, violou os arts. 7º, XXIX, da CF, 11 da CLT e 199, I, do CC (fls. 4-5).
+Solução: O apelo não tem como prosperar, pois, pela invocação dos arts. 11 da CLT e 7º, XXIX, da CF, a revista patronal não se sustenta, na medida em que tais dispositivos apenas enunciam o prazo prescricional na Justiça do Trabalho, não tratando da hipótese retratada nos autos, em que houve suspensão do contrato de trabalho em virtude da percepção do auxílio-doença. Por outro lado, em nada socorre o ora Agravante a invocação do art. 199, I, do CC, pois tal preceito de lei apenas enuncia que não corre a prescrição pendendo condição suspensiva” (fl. 154 – grifos nossos).
+3. No recurso extraordinário, o Agravante afirma que o Tribunal a quo teria contrariado o art. 7º, inc. XXIX, da Constituição da República.
+Alega que “a suspensão do contrato é para efeitos previdenciários, e não para o ajuizamento da reclamatória, pois essa não depende da extinção do contrato de trabalho. Esse é o ponto em que se vislumbra o ferimento ao dispositivo constitucional, quando se vislumbra causa suspensiva da prescrição sem qualquer embasamento jurídico” (fl. 160 – grifos nossos).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta (fls. 171-172).
+O Agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. A questão relativa às causas interruptivas ou suspensivas do prazo prescricional trabalhista tem natureza infraconstitucional, o que não viabiliza o recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL TRABALHISTA. ADMISSIBILIDADE DE RECURSO E PRESCRIÇÃO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 647.167-AgR, de minha relatoria, Primeira Turma, DJe 20.3.2009 – grifos nossos).
+“AGRAVO REGIMENTAL. RECURSO TRABALHISTA. PRESSUPOSTOS DE ADMISSIBILIDADE. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. EMBARGOS DE DECLARAÇÃO. APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. O exame dos pressupostos de admissibilidade dos recursos trabalhistas encontra-se no âmbito infraconstitucional. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição Federal. Para se verificar a ocorrência da alegada violação do art. 7º, XXIX, da Constituição Federal, seria necessário o reexame da legislação infraconstitucional pertinente. Assim, eventual ofensa à Constituição seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário. Inexiste a alegada ofensa ao art. 5º, XXXV e LV, da Constituição, pois o Tribunal de origem inequivocamente prestou jurisdição, por acórdão devidamente fundamentado, em observância aos princípios do contraditório e da ampla defesa. A análise da aplicação de multa por litigância de má-fé em virtude de interposição de embargos declaratórios tidos por protelatórios requer o exame prévio das regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. Inviabilidade do recurso extraordinário. Agravo regimental a que se nega provimento” (AI 735.532-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 19.6.2009 – grifos nossos).
+7. Nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
