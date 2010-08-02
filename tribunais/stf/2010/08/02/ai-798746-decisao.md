@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. 1) PREVIDENCIÁRIO. APLICAÇÃO DO PARÁGRAFO ÚNICO DO ART. 34 DA LEI N. 10.741/03 NA VERIFICAÇÃO DOS PRESSUPOSTOS PARA RECEBIMENTO DO BENEFÍCIO PREVISTO NO ART. 20 DA LEI N. 8.742/93: OFENSA CONSTITUCIONAL INDIRETA. INEXISTÊNCIA DE CONTRARIEDADE AO ENTENDIMENTO FIRMADO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE 1.232. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alíneas a e b, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado da Turma Recursal dos Juizados Especiais Federais do Espírito Santo:
+“LOAS. REQUISITO FINANCEIRO. FILHO MAIOR DE 21 ANOS INVÁLIDO COMPÕE GRUPO FAMILIAR. APLICAÇÃO ANALÓGICA DO ESTATUTO DO IDOSO. RECURSO PROVIDO.
+(...)
+Sob o mesmo teto que o Recorrente moram seu pai, sua mãe e três irmãos. Todos os irmãos compõem o grupo familiar, porque, apesar de serem maiores de 21 anos, são inválidos, conforme laudo socioeconômico.
+A renda familiar é proveniente da aposentadoria por invalidez da mãe do Recorrente e da aposentadoria por idade do pai do Recorrente, ambos os benefícios com renda mensal de um salário mínimo. Não obstante, o valor da aposentadoria recebida pelo pai do Recorrente não deve ser computado para efeito do cálculo da renda familiar per capita. Aplica-se, por analogia, o art. 34, parágrafo único, da lei n. 10.741/2003 (Estatuto do Idoso).
+Com a exclusão da renda mensal auferida pelo pai do Recorrente, a renda mensal per capita do grupo familiar equivale a 1/6 do salário mínimo, cumprido o requisito financeiro.
+Recurso provido” (fl. 75 – grifos nossos).
+3. No recurso extraordinário, o Agravante assevera que o Juízo a quo teria contrariado o art. 203, inc. V, da Constituição da República.
+Assevera que, “apesar de aparentemente considerar constitucional [o § 3º do art. 20 da Lei n. 8.742/93], na esteira do entendimento pretoriano, o entendimento adotado pela Colenda Turma Recursal, no que tange ao critério legal de ¼ do salário mínimo para aferição da impossibilidade de prover a própria manutenção ou tê-la provida por sua família, não se coaduna com a decisão proferida na Ação Direta de Inconstitucionalidade 1.232-DF” (fl. 117).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta (fls. 136-138).
+O Agravante alega que estariam presentes os pressupostos de admissibilidade do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. O Juízo de origem fundamentou-se na interpretação e na aplicação do parágrafo único do art. 34 da Lei n. 10.741/03 (Estatuto do Idoso) e concluiu que o benefício previdenciário percebido pelo idoso integrante do grupo familiar não poderia ser considerado na verificação dos pressupostos para recebimento do benefício assistencial previsto no art. 20 da Lei n. 8.742/93.
+Essa conclusão não contraria o entendimento manifestado pelo Supremo Tribunal Federal na Ação Direta de Inconstitucionalidade 1.232, Redator para o acórdão o Ministro Nelson Jobim, DJ 25.6.2001.
+Ademais, como afirmado na decisão agravada, eventual ofensa constitucional seria indireta, o que não viabiliza o recurso extraordinário. Nesse sentido:
+“RECURSO. Extraordinário. Benefício de prestação continuada. Art. 203, V, da CF/88. Critério objetivo para concessão de benefício. Art. 20, § 3º, da Lei nº 8.742/93 c.c. art. 34, § único, da Lei nº 10.741/2003. Violação ao entendimento adotado no julgamento da ADI nº 1.232/DF. Inexistência. Recurso extraordinário não provido. Não contraria o entendimento adotado pela Corte no julgamento da ADI nº 1.232/DF a dedução da renda proveniente de benefício assistencial recebido por outro membro da entidade familiar (art. 34, § único, do Estatuto do Idoso), para fins de aferição do critério objetivo previsto no art. 20, § 3º, da Lei nº 8.742/93 (renda familiar mensal per capita inferior a 1/4 do salário-mínimo)” (RE 561.936, Rel. Min. Cezar Peluso, Segunda Turma, DJe 9.5.2008 – grifos nossos).
+“Benefício assistencial (CF, art. 203, V): recurso extraordinário: descabimento: acórdão recorrido que decidiu a controvérsia à luz do Estatuto do Idoso (L. 10.741/2003, art. 34, parágrafo único): inocorrência de violação do artigo 203, V, da CF ou inobservância do entendimento firmado na ADIn 1232, Galvão, DJ 01.06.2001, dado que na decisão impugnada não há declaração de inconstitucionalidade da legislação pertinente (L. 8.742/93, art. 20, § 3º), mas interpretação de dispositivo legal superveniente, que não foi objeto da ADIn 1232” (AI 590.169-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 9.2.2007 – grifos nossos).
+“AGRAVO REGIMENTAL. BENEFÍCIO ASSISTENCIAL. Lei 10.741/2003, art. 34, parágrafo único. LEI 8.742/1993, art. 20, § 3º. A Turma Recursal de origem não afastou o critério estabelecido no art. 20, § 3º, da Lei 8.742/1993, ao julgar procedente o pedido de concessão de benefício assistencial nos termos do Estatuto do Idoso. Decisão em conformidade com o decidido por esta Corte no julgamento da ADI 1.232, rel. min. Ilmar Galvão. O acórdão recorrido não declarou a inconstitucionalidade de tratado ou lei federal. Impossibilidade de seguimento do recurso fundado na alínea b do inciso III do art. 102 da Constituição Federal. Matéria diversa da tratada no RE 567.985, cuja repercussão geral já foi reconhecida. Agravo regimental a que se nega provimento” (AI 647.495-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 28.5.2010 – grifos nossos).
+7. Nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
