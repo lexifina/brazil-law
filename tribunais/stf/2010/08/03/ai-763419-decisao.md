@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“APELAÇÃO CÍVEL – AÇÃO DE INDENIZAÇÃO – DANOS MORAIS DECORRENTES DE PUBLICAÇÃO DE MATÉRIA JORNALÍSTICA OFENSIVA À HONRA DOS APELANTES – AGRAVO RETIDO – DIREITO DE RESPOSTA – IMPOSSIBILIDADE DE SER CONCEDIDO SEM A PRÉVIA NOTIFICAÇÃO DO MEIO DE COMUNICAÇÃO – IMPOSSIBILIDADE JURÍDICA DO PEDIDO – AGRAVO PROVIDO – DIREITO DE INFORMAR – ABUSO – INDENIZAÇÃO – DEVIDA – ÔNUS DE SUCUMBÊNCIA – INVERSÃO.
+AGRAVO RETIDO E APELAÇÃO PROVIDOS.” (fl. 153).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, IX, XIV, e 220 da mesma Carta.
+O agravo não merece acolhida. É que para dissentir da conclusão a que chegou o acórdão recorrido quanto à verificação, na espécie, de dano moral indenizável, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, anote-se os seguintes julgados de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO: DANOS MATERIAIS E MORAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 709.133-AgR/RJ, Rel. Min. Cármen Lúcia, Primeira Turma).
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. LIBERDADE DE INFORMAÇÃO. ART. 220 DA CONSTITUIÇÃO FEDERAL. ABUSO DO DIREITO. INVIOLABILIDADE DO PATRIMÔNIO MORAL. ART. 5º, X, CF/88. INDENIZAÇÃO. SÚMULA STF 279. 1. A ponderação do princípio da liberdade de informação firmado no art. 220 da Constituição Federal com a garantia constitucional da reparação por danos morais implicaria o reexame do conjunto fático-probatório, já debatido pelas instâncias ordinárias, inviável nesta sede recursal. Precedentes. 2. Incidência da Súmula STF 279 para aferir alegada ofensa aos arts. 5º, X, e 220 da Constituição Federal. 3. Inexistência de argumento capaz de infirmar o entendimento adotado pela decisão agravada. 4. Agravo regimental improvido.”. (RE 389096 AgR/SP, Rel. Min. Ellen Gracie, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 3 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
