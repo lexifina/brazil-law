@@ -1,0 +1,1 @@
+Art. 28. O gerador de resíduos sólidos domiciliares tem cessada sua responsabilidade pelos resíduos com a disponibilização adequada para a coleta ou, nos casos abrangidos pelo art. 33, com a devolução.

@@ -1,0 +1,4 @@
+Art. 38. As pessoas jurídicas que operam com resíduos perigosos, em qualquer fase do seu gerenciamento, são obrigadas a se cadastrar no Cadastro Nacional de Operadores de Resíduos Perigosos.
+§ 1º O cadastro previsto no caput será coordenado pelo órgão federal competente do Sisnama e implantado de forma conjunta pelas autoridades federais, estaduais e municipais.
+§ 2º Para o cadastramento, as pessoas jurídicas referidas no caput necessitam contar com responsável técnico pelo gerenciamento dos resíduos perigosos, de seu próprio quadro de funcionários ou contratado, devidamente habilitado, cujos dados serão mantidos atualizados no cadastro.
+§ 3º O cadastro a que se refere o caput é parte integrante do Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais e do Sistema de Informações previsto no art. 12.
