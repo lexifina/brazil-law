@@ -1,0 +1,2 @@
+Art. 40. No licenciamento ambiental de empreendimentos ou atividades que operem com resíduos perigosos, o órgão licenciador do Sisnama pode exigir a contratação de seguro de responsabilidade civil por danos causados ao meio ambiente ou à saúde pública, observadas as regras sobre cobertura e os limites máximos de contratação fixados em regulamento.
+Parágrafo único. O disposto no caput considerará o porte da empresa, conforme regulamento.

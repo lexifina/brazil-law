@@ -1,0 +1,1 @@
+Art. 37. A instalação e o funcionamento de empreendimento ou atividade que gere ou opere com resíduos perigosos somente podem ser autorizados ou licenciados pelas autoridades competentes se o responsável comprovar, no mínimo, capacidade técnica e econômica, além de condições para prover os cuidados necessários ao gerenciamento desses resíduos.

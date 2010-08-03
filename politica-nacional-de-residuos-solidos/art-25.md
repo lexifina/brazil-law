@@ -1,0 +1,1 @@
+Art. 25. O poder público, o setor empresarial e a coletividade são responsáveis pela efetividade das ações voltadas para assegurar a observância da Política Nacional de Resíduos Sólidos e das diretrizes e demais determinações estabelecidas nesta Lei e em seu regulamento.

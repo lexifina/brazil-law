@@ -1,0 +1,3 @@
+Art. 23. Os responsáveis por plano de gerenciamento de resíduos sólidos manterão atualizadas e disponíveis ao órgão municipal competente, ao órgão licenciador do Sisnama e a outras autoridades, informações completas sobre a implementação e a operacionalização do plano sob sua responsabilidade.
+§ 1º Para a consecução do disposto no caput, sem prejuízo de outras exigências cabíveis por parte das autoridades, será implementado sistema declaratório com periodicidade, no mínimo, anual, na forma do regulamento.
+§ 2º As informações referidas no caput serão repassadas pelos órgãos públicos ao Sinir, na forma do regulamento.

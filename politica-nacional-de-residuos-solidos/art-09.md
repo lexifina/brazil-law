@@ -1,0 +1,3 @@
+Art. 9º Na gestão e gerenciamento de resíduos sólidos, deve ser observada a seguinte ordem de prioridade: não geração, redução, reutilização, reciclagem, tratamento dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos.
+§ 1º Poderão ser utilizadas tecnologias visando à recuperação energética dos resíduos sólidos urbanos, desde que tenha sido comprovada sua viabilidade técnica e ambiental e com a implantação de programa de monitoramento de emissão de gases tóxicos aprovado pelo órgão ambiental.
+§ 2º A Política Nacional de Resíduos Sólidos e as Políticas de Resíduos Sólidos dos Estados, do Distrito Federal e dos Municípios serão compatíveis com o disposto no caput e no § 1º deste artigo e com as demais diretrizes estabelecidas nesta Lei.

@@ -1,0 +1,1 @@
+Art. 49. É proibida a importação de resíduos sólidos perigosos e rejeitos, bem como de resíduos sólidos cujas características causem dano ao meio ambiente, à saúde pública e animal e à sanidade vegetal, ainda que para tratamento, reforma, reúso, reutilização ou recuperação.
