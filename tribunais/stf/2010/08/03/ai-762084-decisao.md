@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“TRIBUTÁRIO E PROCESSUAL CIVIL – MANDADO DE SEGURANÇA – PIS E COFINS – BASE DE CÁLCULO – CONCEITO AMPLO DE FATURAMENTO (ART. 3º DA LEI Nº 9.718/98): INCONSTITUCIONALIDADE (STF) – BASE DE CÁLCULO CORRETA: PIS (ART. 3º DA LEI Nº 9.715/98) E COFINS (ART. 2º DA LC Nº 70/91) – COMPENSAÇÃO – SELIC.
+(...)” (fl. 127).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, XXXV, LV e LXIX, 93, IX, 97, e 195, I, b, da mesma Carta e à Súmula 269 do STF.
+O agravo não merece acolhida. Observo que o art. 5º, LXIX, da Constituição, não foi prequestionado. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Da mesma forma, a alegada violação à Súmula 269 do STF também não foi apreciada pelas instâncias ordinárias, sendo suscitada somente em sede de embargos de declaração.
+Ademais, verifica-se que o Pleno do Supremo Tribunal Federal, ao julgar os Recursos Extraordinários 346.084/PR, Rel. orig. Min. Ilmar Galvão, 357.950/RS, 358.273/RS e 390.840/MG, Rel. Min. Marco Aurélio, reconheceu a inconstitucionalidade do art. 3º, § 1º, da Lei 9.718/98.
+Na ocasião, entendeu-se que a totalidade das receitas auferidas por pessoas jurídicas excede a noção do termo faturamento referido no art. 195, I, da Constituição Federal e que, por se tratar de vício de inconstitucionalidade original, não foi afastado com a alteração promovida pela EC 20/98.
+Por fim, conforme tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, XXXV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 3 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
