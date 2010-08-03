@@ -1,0 +1,1 @@
+Art. 50. A inexistência do regulamento previsto no § 3º do art. 21 não obsta a atuação, nos termos desta Lei, das cooperativas ou outras formas de associação de catadores de materiais reutilizáveis e recicláveis.

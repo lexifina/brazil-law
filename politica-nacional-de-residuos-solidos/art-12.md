@@ -1,0 +1,2 @@
+Art. 12. A União, os Estados, o Distrito Federal e os Municípios organizarão e manterão, de forma conjunta, o Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos (Sinir), articulado com o Sinisa e o Sinima.
+Parágrafo único. Incumbe aos Estados, ao Distrito Federal e aos Municípios fornecer ao órgão federal responsável pela coordenação do Sinir todas as informações necessárias sobre os resíduos sob sua esfera de competência, na forma e na periodicidade estabelecidas em regulamento.

@@ -1,0 +1,1 @@
+Art. 22. Para a elaboração, implementação, operacionalização e monitoramento de todas as etapas do plano de gerenciamento de resíduos sólidos, nelas incluído o controle da disposição final ambientalmente adequada dos rejeitos, será designado responsável técnico devidamente habilitado.

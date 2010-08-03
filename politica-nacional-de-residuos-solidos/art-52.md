@@ -1,0 +1,1 @@
+Art. 52. A observância do disposto no caput do art. 23 e no § 2º do art. 39 desta Lei é considerada obrigação de relevante interesse ambiental para efeitos do art. 68 da Lei nº 9.605, de 1998, sem prejuízo da aplicação de outras sanções cabíveis nas esferas penal e administrativa.
