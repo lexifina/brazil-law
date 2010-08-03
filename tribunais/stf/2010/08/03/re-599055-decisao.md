@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário contra acórdão que concedeu a segurança ao servidor inativo ante a redução de 30 para 10% da Gratificação de Incentivo à Regência de Classe, sem a concessão de oportunidade de defesa prévia no âmbito administrativo. O aresto recorrido porta a seguinte ementa:
+“MANDADO DE SEGURANÇA – SERVIDOR INTEGRANTE D QUADRO DO MAGISTÉRIO – GRATIFICAÇÃO DE REGÊNCIA DE CLASSE – REDUÇÃO SEM OPORTUNIDADE DE DEFESA – IMPOSSIBILIDADE – DECESSO ESTIPENDIAL CONFIGURADO – CONCESSÃO DA ORDEM.
+Sobre o tema, há inúmeros precedentes desta Corte, sempre reconhecendo o direito do servidor à oportunidade de defesa no âmbito administrativo, o que, não sendo observado, caracteriza afronta à garantia constitucional contida no art. 5º, LV, da Lei Maior, consubstanciando, assim, a consequente violação do direito, plenamente corrigível via mandado de segurança” (fl .58).
+Os embargos de declaração opostos foram rejeitados.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXVI e LV, 37, caput e XV, 39, § 1º, e 40, § 4º, da mesma Carta.
+A pretensão recursal não merece acolhida.
+Inicialmente, quanto à preliminar de nulidade do acórdão recorrido por suposta violação ao art. 5º, LV, da CF/1988, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Além disso, bem examinados os autos, verifico que o ora recorrente não impugnou o fundamento do acórdão recorrido quanto à necessidade de se garantir ao servidor inativo a oportunidade de defesa em momento anterior à redução do percentual da Gratificação de Incentivo à Regência de Classe que este vinha recebendo, limitando-se a discorrer sobre a inexistência de direito adquirido ao percentual da gratificação, em face da ausência de previsão legal. Incide, na espécie, o óbice da Súmula 283 do STF.
+Ainda que superados tais óbices, o recurso não prosperaria.
+É que para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, conforme rol elencado pelo próprio recorrente à fl. 109 (Lei 6.426/1984, Decreto 24.217, Lei 6.771/1986, Decreto 4.769/1990, Lei 8.448/1991 e Lei 1.139/1992), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 3 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
