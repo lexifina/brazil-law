@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. SÚMULAS 182/STJ E 283/STF. INDENIZAÇÃO. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO PROBATÓRIA. PAPEL INSTITUCIONAL DO STJ.
+I - O agravante deve atacar, expressamente, os argumentos lançados na decisão agravada, refutando todos os óbices por ela levantados, sob pena de vê-la mantida. (Súmulas 182/STJ e 283/STF).
+II - A atuação desta Corte na revisão do montante arbitrado como dano moral não consubstancia revaloração da prova, segundo a qual o STJ, mantendo as premissas delineadas pelo acórdão recorrido e sem reexaminar a justiça ou injustiça da decisão impugnada, qualifica juridicamente os fatos soberanamente comprovados na instância ordinária.
+III - Inquestionável que o Superior Tribunal de Justiça, em situações especialíssimas como a dos autos - de arbitramento de valores a serem pagos por dano moral -, ciente do seu relevante papel de Tribunal do Pacto Federativo, e com o escopo final de promover a pacificação social, se pronuncie diante de casos concretos, para aferir a razoabilidade do quantum destinado à amenização do abalo moral.
+Agravo regimental improvido” (fl. 289).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, XXXV e LV, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. Isso porque, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Ressalte-se, ainda, que a jurisprudência desta Corte orienta no sentido de que o acórdão do Superior Tribunal de Justiça somente legitimará o uso da via recursal extraordinária se a questão constitucional nele versada for diversa daquela decidida pela instância ordinária. Assim, a matéria constitucional impugnável via RE deve ter surgido, originariamente, no julgamento do recurso especial, o que não é o caso dos autos. Nesse sentido, menciono as seguintes decisões, entre outras: AI 641.299-AgR/PR, Rel. Min. Eros Grau; RE 411.594-AgR/PR e RE 365.989-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. O mencionado dispositivo constitucional não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 3 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+   - Relator -
