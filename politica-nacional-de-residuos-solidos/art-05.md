@@ -1,0 +1,1 @@
+Art. 5º A Política Nacional de Resíduos Sólidos integra a Política Nacional do Meio Ambiente e articula-se com a Política Nacional de Educação Ambiental, regulada pela Lei nº 9.795, de 27 de abril de 1999, com a Política Federal de Saneamento Básico, regulada pela Lei nº 11.445, de 2007, e com a Lei nº 11.107, de 6 de abril de 2005.

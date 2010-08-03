@@ -1,0 +1,3 @@
+Art. 34. Os acordos setoriais ou termos de compromisso referidos no inciso IV do caput do art. 31 e no § 1º do art. 33 podem ter abrangência nacional, regional, estadual ou municipal.
+§ 1º Os acordos setoriais e termos de compromisso firmados em âmbito nacional têm prevalência sobre os firmados em âmbito regional ou estadual, e estes sobre os firmados em âmbito municipal.
+§ 2º Na aplicação de regras concorrentes consoante o § 1º, os acordos firmados com menor abrangência geográfica podem ampliar, mas não abrandar, as medidas de proteção ambiental constantes nos acordos setoriais e termos de compromisso firmados com maior abrangência geográfica.
