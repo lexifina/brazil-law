@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“Prestação de Serviço. Captação de esgoto. Tarifa calculada com base no volume de água fornecida ao imóvel. Critério autorizado pelo Decreto estadual nº 41.446/96 e não contrariado por normas federais que dispõem sobre o regime de concessão. Natureza jurídica da remuneração que dispensa, ademais, a observância o princípio da legalidade estrita. Ilicitude não reconhecida. Apelação improvida” (fl. 19).
+No RE, interposto com base nos arts. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, caput, LIV, e 175 da mesma Carta.
+O agravo não merece acolhida. Isso porque, para se chegar à conclusão contrária à adotada pelo acórdão recorrido quanto ao cálculo das tarifas do esgoto com base no consumo de água, necessário seria a análise de normas infraconstitucionais aplicáveis à espécie (Decreto Estadual 41.446/96). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, o RE 603.678/SP, Rel. Min. Cármen Lúcia, caso análogo ao dos autos:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TARIFA DE ÁGUA E ESGOTO. CRITÉRIO DE CLASSIFICAÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+Além disso, a discussão acerca da violação ao princípio da isonomia, do mesmo modo, não merece prosperar, porquanto se exige o exame de matéria de fato, o que atrai a incidência da Súmula 279 do STF. Por oportuno, trago à colação trecho do acórdão recorrido que bem enfatiza o entendimento do Tribunal de origem:
+“Ora, o artigo 13 da Lei 8.987/95 ressalva a possibilidade de o cessionário instituir cobrança diferenciada em ' função das características técnicas e dos custos específicos provenientes do atendimento aos distintos segmentos de usuários.'
+A cobrança diferenciada não ocorre, portanto, em consideração à pessoa do consumidor, mas à vista das particularidades que afetam o cálculo do custo do sistema de captação das águas servidas.
+Logo, a providência aludida pelo autor, que foi confirmada pelo contestante, não havia de ser classificada como ofensiva à isonomia e nem compreendida como confissão acerca dos fatos alegados na petição inicial” ( fl. 24).
+Por fim, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 3 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
