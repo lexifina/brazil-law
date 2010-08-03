@@ -1,0 +1,16 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“Embargos à execução fiscal – ICMS – cerceamento de defesa inocorrente, desnecessária a produção de outras provas – auto-lançamento equivalente a declaração jurídica de dívida, sendo inexigível procedimento administrativo – inexistente ofensa ao devido processo legal, contraditório e ampla defesa – CDA que preenche os requisitos de liquidez e certeza – possibilidade de cumulação de juros e multa moratória de 20% - constitucionalidade do uso da Taxa Selic na atualização do débito – embargos improcedentes – honorários de advogado devidos nos embargos à execução, podendo ser, no entanto reduzidos.
+Recurso parcialmente provido.” (fl. 148).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 5º, LIV e LV, da mesma Carta.
+O agravo não merece acolhida. É que o tribunal de origem decidiu a causa nos seguintes termos:
+“Trata-se de crédito originado de lançamento por homologação, que tem o sentido de declaração contribuinte com efeitos jurídicos contundentes. Foi a embargante quem o apurou e declarou, submetendo-o, posteriormente, ao controle do Fisco. A constituição do crédito tributário por ato do próprio contribuinte tem amparo no artigo 150 do Código Tributário Nacional. Tendo em vista a especialidade do lançamento por homologação, a ele não se aplicam os critérios do artigo 142 do mesmo diploma, sendo inexigível o procedimento administrativo tendente a verificar a ocorrência do fato gerador.
+Rejeita-se o argumento de nulidade da certidão da dívida ativa, já que ela goza de presunção de certeza e liquidez, somente afastada por inequívoca prova em contrário (artigo 204 do CTN e artigo 3º da Lei 6.830/80), bem como não se pode falar em ofensa ao contraditório e ao devido processo legal.” (fls. 150-151).
+Ou seja, verifico que para dissentir do acórdão quanto à regularidade da inscrição na dívida ativa, faz-se necessário analisar normas infraconstitucionais (Código Tributário Nacional e Lei 6.830/80). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EXECUÇÃO FISCAL PROPOSTA PELA FAZENDA PÚBLICA. INEXIGIBILIDADE DO PRÉVIO PROCESSO DE CONHECIMENTO. NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA - CDA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.(RE 404663 AgR/RS, Rel. Min. Cármen Lúcia, Primeira Turma)
+Ressalto, ainda, que a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário.
+Por fim, com a negativa de seguimento do recurso especial pelo Superior Tribunal de Justiça (Ag 1.280.817/SP, com trânsito em julgado em 25/5/2010), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 3 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
