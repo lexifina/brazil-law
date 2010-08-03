@@ -1,0 +1,30 @@
+Referente à Petição 37.897, de 30.6.2010.
+1.   Alessandra Araújo Carvalho impetrou o presente mandado de segurança, com pedido de medida liminar, contra a decisão proferida pelo Conselho Nacional de Justiça no Procedimento de Controle Administrativo 2008.10.00.001610-4 (fls. 255-264).
+2.  Indeferi o pedido de medida liminar (fls. 334-341).
+3.  Solicitaram-se informações, que foram prestadas pelo Ministro Gilmar Mendes, então Presidente do Conselho Nacional de Justiça (fls. 350-353).
+4.  A Procuradoria-Geral da República opinou pela denegação da ordem (fls. 371-374).
+5.  A União, representada por sua Advocacia-Geral, por intermédio da Petição 37.897/2010 (fls. 518-522), requer o ingresso no presente feito, nos termos do art. 7º, II, da Lei 12.016/09. Pede também, com fundamento no art. 3º da Lei 4.348/64, tendo em vista a ausência de intimação pessoal do Advogado-Geral da União da decisão que “deferiu a medida liminar” (fl. 519), a declaração da nulidade de todos os atos processuais praticados “desde o momento em que se deixou de intimar a União da decisão concessiva da medida liminar” (fl. 520).
+6.  Preliminarmente, defiro o pedido formulado pela União de ingresso no feito, nos termos do art. 7º, II, da Lei 12.016/09.
+7.  Todavia, não há que falar em devolução do prazo processual para recorrer da decisão proferida em 27.11.2008 (fls. 334-341), menos ainda em declaração de nulidade dos atos posteriores.
+Ressalte-se, inicialmente, a ausência de atenção mínima da Advocacia-Geral da União em relação ao que foi efetivamente decidido em 27.11.2008 (fls. 334-341). É que a decisão que supostamente estaria prejudicando a União, em verdade, indeferiu o pedido de medida liminar, ao contrário do que se alega, inadvertidamente, na Petição 37.897/2010.
+É dizer, não há interesse real algum da União no pedido de nulidade ora formulado, porquanto sequer houve prejuízo.
+Ademais, objetiva a União, isso sim, que haja a incidência retroativa da Lei 12.016/09, o que certamente não se afigura juridicamente possível.
+O processo é marcha para frente, não para trás.
+A decisão da qual a União pretende, equivocadamente, recorrer foi proferida em 27.11.2008, enquanto a Lei 12.016, de 07.8.2009, foi publicada no DOU de 10.8.2009.
+Recentemente, o Plenário desta Suprema Corte, ao julgar o Mandado de Segurança 27.656-MC-AgR/DF, rel. Min. Cezar Peluso, negou provimento ao agravo regimental nele interposto, em acórdão que porta a seguinte ementa:
+“ RECURSO. Agravo regimental. Concessão de liminar em processo de mandado de segurança. Inadmissibilidade. Aplicação da súmula n° 622. Superveniência do art. 10, § 1°, da Lei n° 12.016./2009. Inaplicabilidade a decisão de data anterior ao início de sua vigência. Recurso não conhecido. Embora a lei processual incida de imediato, o regime de recorribilidade é o da lei vigente à data da prolação do ato decisório.” (DJe 05.3.2010, destaquei).
+Naquela ocasião consignou o relator, Ministro Cezar Peluso:
+“(...)
+É coisa indiscutível que, como qualquer outra, a lei processual incide de imediato, mas não apanha situações jurídico-processuais consolidadas sob o regime da lei velha, sobretudo em matéria de admissibilidade de recurso, a qual é submissa à lei vigente ao tempo da edição da decisão (...)
+(...)” (DJe 05.3.2010, destaquei).
+Ao apreciar pedido semelhante ao presente, formulado pela União nos autos do Mandado de Segurança 27.470/DF, o Ministro Ricardo Lewandowski asseverou:
+“(...)
+A União requer o ingresso no feito, nos termos do art. 7º, II, da Lei 12.016/2009. Pugna, ademais, em razão da ausência de intimação da decisão que deferiu a liminar, pela devolução do prazo recursal.
+Defiro o ingresso. Indefiro, porém, a devolução do prazo, uma vez que quando a liminar foi proferida, em 14/8/2008, a jurisprudência desta Corte era no sentido do não cabimento de agravo regimental contra decisão que apreciasse a liminar (Súmula 622).
+(...)” (DJe 20.5.2010, destaquei).
+8.  Ante o exposto, defiro apenas e tão-somente o pedido formulado pela União de ingresso no feito.
+Providencie a Secretaria desta Corte a inclusão da União no pólo passivo do presente writ.
+Publique-se.
+Brasília, 3 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
