@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CIVIL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+“Processual Civil. Ação de repetição de Indébito cumulada com indenização por danos morais movida por estudante contra o Centro Federal de Educação Tecnológica de Alagoas e a Fundação Alagoana de Pesquisa, Educação e Cultura, motivada pela participação em curso de Gestão Financeira.
+Ocorrência de contrato celebrado entre a demandante e a Fundação Alagoana de Pesquisa, Educação e Cultura, tendo por objeto a prestação de serviços educacionais oferecidos pelo último, de acordo com a legislação de ensino em vigor e através de convênio com o Centro Federal de Educação Tecnológica de Alagoas, com a inserção de cláusula prevendo o pagamento pelo curso por parte da autora da presente ação.
+Impossibilidade de ser o dito curso gratuito, porque, apesar de ministrado em dependência e com a estrutura do Centro Federal de Educação Tecnológica de Alagoas, o ente obrigado a prestá-lo é a Fundação Alagoana de Pesquisa, Educação e Cultura, por força de contrato celebrado.
+Possibilidade, aberta por lei, de o Centro Federal de Educação Tecnológica celebrar convênio, não se constituindo o caso em burla à norma constitucional. O convênio acordado previa, entre os cursos, o de Gestão Financeira, ministrado a demandante, prevendo, também, a título de fonte de recursos, que os recursos financeiros para a efetivação deste projeto serão oriundos da receita proveniente dos alunos integrantes dos cursos pagos, mantidos pela FAPEC, f. 185, entre os quais, o de Gestão Financeira. A ocorrência do convênio em tela se constitui em matéria levada ao conhecimento do Tribunal de Contas da União, sem que nada de ilegal fosse apontado.
+Recurso provido com relação ao dito Centro Federal de Educação Tecnológica de Alagoas, com remessa dos autos ao juízo estadual comum para dirimir o litígio entre as partes remanescentes (a demandante e a Fundação Alagoana de Pesquisa, Educação e Cultura), por serem entes a não figurar no rol das pessoas mencionadas no inc. I, do art. 109, da Constituição Federal. Precedente desta 3ª Turma [AC 372604/AL]. Apelações da requerente e da Fundação Alagoana de Pesquisa, Educação e Cultura, e remessa oficial, prejudicadas” (fl. 335 – grifos nossos).
+Os embargos de declaração opostos foram rejeitados.
+2. A Recorrente alega que o Tribunal a quo teria contrariado os arts. 3º, 6º, 37, § 6º, 205, 206, inc. IV, 208, inc. I e II, e 211 da Constituição da República.
+Argumenta que:
+“Comprovam os documentos que, apesar de haver contrato de prestação de serviço educacional firmado com a FAPEC, claramente a parte ficava apenas vinculada ao CEFET/AL, para quem os cursos eram licenciados, como prova o documento de fl. 65. Assim, como o curso era licenciado pelo CEFET, e como a FAPEC nunca foi instituição de ensino, quem diplomou os tecnólogos foi o CEFET.
+Destarte, como provam os documentos, a parte recorrente era aluna do CEFET. Sendo o CEFET uma instituição oficial de ensino, uma autarquia federal, há uma vedação constitucional para a cobrança das mensalidades, prevista no art. 206, inc. IV” (fl. 474).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste à Recorrente.
+4. O reexame do acórdão recorrido demandaria a análise prévia dos documentos dos autos e do contrato firmado entre a Recorrente e a Fundação Alagoana de Pesquisa, Educação e Cultura – FAPEC, o que é vedado em recurso extraordinário. Incidem na espécie as Súmulas 279 e 454 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRATO. INDENIZAÇÃO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 598.317-AgR, de minha relatoria, Primeira Turma, DJe 31.1.2008).
+“AGRAVO REGIMENTAL. ITAIPU BINACIONAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. MATÉRIA INFRACONSTITUCIONAL. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. Controvérsia decidida à luz da legislação infraconstitucional. A alegada ofensa à Constituição, se existente, seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário. Ademais, para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário o reexame de matéria fática e de cláusulas contratuais, o que é vedado na esfera do recurso extraordinário, de acordo com as Súmulas 279 e 454/STF. Agravo regimental a que se nega provimento” (AI 699.491-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 6.5.2010).
+5. Nada há a prover quanto às alegações da Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 3 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
