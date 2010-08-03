@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“AGRAVO INTERNO. JUNTADA DE SUBSTABELECIMENTO. AUSÊNCIA DE PROCURAÇÃO DO ADVOGADO QUE SUBSTABELECE.
+Sendo obrigatória a juntada de procuração na formação do instrumento do agravo, não basta a juntada apenas do substabelecimento, pois este só existe com a anterior outorga do mandato.
+A ausência de procuração pelo advogado que firma o recurso, determina seja tido o recurso por inexistente – art. 37 do CPC.
+Agravo interno não conhecido” (fl. 145).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXVI, da mesma Carta.
+O agravo não merece acolhida. Isso porque, o art. 5º, XXXVI, da Constituição não foi objeto de debate e decisão prévios pelo Tribunal de origem. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. Nesse sentido, anote-se:
+“PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA. SÚMULA 287 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 e 356 DO STF. NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO.INTERPOSIÇÃO PELA ALÍNEA "C" DO INCISO III, DO ART. 102 DA LEI MAIOR. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - As razões do recurso não infirmam os fundamentos da decisão agravada, o que atrai a incidência da Súmula 287 do STF. II - Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. III - A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. IV - O acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição. V - Recurso Protelatório. Aplicação de multa. VI - Agravo regimental improvido” (AI 735.676-AgR/DF, de minha relatoria, Primeira Turma).
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 03 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+   - Relator –
