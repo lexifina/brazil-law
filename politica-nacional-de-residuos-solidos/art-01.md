@@ -1,0 +1,3 @@
+Art. 1º Esta Lei institui a Política Nacional de Resíduos Sólidos, dispondo sobre seus princípios, objetivos e instrumentos, bem como sobre as diretrizes relativas à gestão integrada e ao gerenciamento de resíduos sólidos, incluídos os perigosos, às responsabilidades dos geradores e do poder público e aos instrumentos econômicos aplicáveis.
+§ 1º Estão sujeitas à observância desta Lei as pessoas físicas ou jurídicas, de direito público ou privado, responsáveis, direta ou indiretamente, pela geração de resíduos sólidos e as que desenvolvam ações relacionadas à gestão integrada ou ao gerenciamento de resíduos sólidos.
+§ 2º Esta Lei não se aplica aos rejeitos radioativos, que são regulados por legislação específica.

@@ -1,0 +1,5 @@
+Art. 18. A elaboração de plano municipal de gestão integrada de resíduos sólidos, nos termos previstos por esta Lei, é condição para o Distrito Federal e os Municípios terem acesso a recursos da União, ou por ela controlados, destinados a empreendimentos e serviços relacionados à limpeza urbana e ao manejo de resíduos sólidos, ou para serem beneficiados por incentivos ou financiamentos de entidades federais de crédito ou fomento para tal finalidade.
+§ 1º Serão priorizados no acesso aos recursos da União referidos no caput os Municípios que:
+I - optarem por soluções consorciadas intermunicipais para a gestão dos resíduos sólidos, incluída a elaboração e implementação de plano intermunicipal, ou que se inserirem de forma voluntária nos planos microrregionais de resíduos sólidos referidos no § 1º do art. 16;
+II - implantarem a coleta seletiva com a participação de cooperativas ou outras formas de associação de catadores de materiais reutilizáveis e recicláveis formadas por pessoas físicas de baixa renda.
+§ 2º Serão estabelecidas em regulamento normas complementares sobre o acesso aos recursos da União na forma deste artigo.

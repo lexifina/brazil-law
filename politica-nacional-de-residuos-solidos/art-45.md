@@ -1,0 +1,1 @@
+Art. 45. Os consórcios públicos constituídos, nos termos da Lei nº 11.107, de 2005, com o objetivo de viabilizar a descentralização e a prestação de serviços públicos que envolvam resíduos sólidos, têm prioridade na obtenção dos incentivos instituídos pelo Governo Federal.

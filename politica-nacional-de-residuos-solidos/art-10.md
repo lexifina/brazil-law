@@ -1,0 +1,1 @@
+Art. 10. Incumbe ao Distrito Federal e aos Municípios a gestão integrada dos resíduos sólidos gerados nos respectivos territórios, sem prejuízo das competências de controle e fiscalização dos órgãos federais e estaduais do Sisnama, do SNVS e do Suasa, bem como da responsabilidade do gerador pelo gerenciamento de resíduos, consoante o estabelecido nesta Lei.

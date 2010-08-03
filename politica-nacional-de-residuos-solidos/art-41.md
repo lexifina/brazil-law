@@ -1,0 +1,2 @@
+Art. 41. Sem prejuízo das iniciativas de outras esferas governamentais, o Governo Federal deve estruturar e manter instrumentos e atividades voltados para promover a descontaminação de áreas órfãs.
+Parágrafo único. Se, após descontaminação de sítio órfão realizada com recursos do Governo Federal ou de outro ente da Federação, forem identificados os responsáveis pela contaminação, estes ressarcirão integralmente o valor empregado ao poder público.
