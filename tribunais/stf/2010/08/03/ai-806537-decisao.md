@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“AGRAVO DE INSTRUMENTO. EXECUÇÃO. COMPROVAÇÃO DE VIOLAÇÃO DIRETA DE PRECEITO DE NATUREZA CONSTITUCIONAL NÃO SATISFEITA. NÃO PROVIMENTO. Nega-se provimento ao Agravo de Instrumento em processo de execução, quando não demonstrada violação direta a dispositivo de natureza constitucional. Aplicação do disposto no artigo 896, § 2º, da CLT e da Súmula nº 266 do TST. Agravo de Instrumento não provido.” (Fl. 115).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXIV, XXXV, LIV e LV, e 7º, XXIX, da mesma Carta.
+O agravo não merece acolhida. Isso porque, como tem consignado o Tribunal, por meio de remansosa jurisprudência, a discussão sobre os limites da coisa julgada, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, trago à colação a ementa do AI 563.516-AgR/SP, Rel. Min. Cezar Peluso:
+“EMENTAS: 1. RECURSO. Extraordinário. Inadmissibilidade. Intempestividade. Comprovação de que o recurso foi interposto no prazo legal. Decisão agravada. Reconsideração. Provada sua tempestividade, deve ser apreciado o recurso. 2. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição.(...)” (Grifos meus).
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 03 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
