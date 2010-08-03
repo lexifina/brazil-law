@@ -1,0 +1,1 @@
+Art. 4º A Política Nacional de Resíduos Sólidos reúne o conjunto de princípios, objetivos, instrumentos, diretrizes, metas e ações adotados pelo Governo Federal, isoladamente ou em regime de cooperação com Estados, Distrito Federal, Municípios ou particulares, com vistas à gestão integrada e ao gerenciamento ambientalmente adequado dos resíduos sólidos.

@@ -1,0 +1,1 @@
+Art. 43. No fomento ou na concessão de incentivos creditícios destinados a atender diretrizes desta Lei, as instituições oficiais de crédito podem estabelecer critérios diferenciados de acesso dos beneficiários aos créditos do Sistema Financeiro Nacional para investimentos produtivos.
