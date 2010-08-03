@@ -1,0 +1,1 @@
+Art. 26. O titular dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos é responsável pela organização e prestação direta ou indireta desses serviços, observados o respectivo plano municipal de gestão integrada de resíduos sólidos, a Lei nº 11.445, de 2007, e as disposições desta Lei e seu regulamento.

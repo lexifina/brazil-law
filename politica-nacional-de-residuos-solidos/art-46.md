@@ -1,0 +1,1 @@
+Art. 46. O atendimento ao disposto neste Capítulo será efetivado em consonância com a Lei Complementar nº 101, de 2000 (Lei de Responsabilidade Fiscal), bem como com as diretrizes e objetivos do respectivo plano plurianual, as metas e as prioridades fixadas pelas leis de diretrizes orçamentárias e no limite das disponibilidades propiciadas pelas leis orçamentárias anuais.
