@@ -1,0 +1,23 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, assim ementado:
+“AÇÃO CIVIL PÚBLICA – Improbidade Administrativa – Prescrição – Não ocorrência – Imprescritíveis são as ações de ressarcimento contra os agentes públicos que ilicitamente causaram lesão ao patrimônio público – Art. 37, § 5º, da Constituição Federal – Prescrição afastada – Recurso provido” (fl. 131).
+No RE, interposto com base no art. 102, III, a, da Constituição, o recorrente alegou, em suma, violação aos arts. 5º, I, II, XIII, XXXV, LV, LXIX, 7º, VIII, XVII, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. Isso porque, o acórdão recorrido encontra-se em harmonia com a jurisprudência da Corte no sentido da imprescritibilidade das ações que têm por objeto o ressarcimento ao erário, conforme dispõe o art. 37, § 5º, da Constituição. Confira-se:
+“MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS DA UNIÃO. BOLSISTA DO CNPq. DESCUMPRIMENTO DA OBRIGAÇÃO DE RETORNAR AO PAÍS APÓS TÉRMINO DA CONCESSÃO DE BOLSA PARA ESTUDO NO EXTERIOR. RESSARCIMENTO AO ERÁRIO. INOCORRÊNCIA DE PRESCRIÇÃO. DENEGAÇÃO DA SEGURANÇA.
+I - O beneficiário de bolsa de estudos no exterior patrocinada pelo Poder Público, não pode alegar desconhecimento de obrigação constante no contrato por ele subscrito e nas normas do órgão provedor.
+II - Precedente: MS 24.519, Rel. Min. Eros Grau.
+III - Incidência, na espécie, do disposto no art. 37, § 5º, da Constituição Federal, no tocante à alegada prescrição.
+IV - Segurança denegada” (MS 26.210/DF, de minha relatoria, Pleno).
+Extrai-se do voto por mim proferido no citado julgado:
+“No que tange à alegada ocorrência de prescrição, incide, na espécie, o disposto no art. 37, § 5º, da Constituição de 1988, segundo o qual:
+'§ 5º - A lei estabelecerá os prazos de prescrição para ilícitos praticados por qualquer agente, servidor ou não, que causem prejuízos ao erário, ressalvadas as respectivas ações de ressarcimento' (grifos nossos).
+Considerando-se ser a Tomada de Contas Especial um processo administrativo que visa a identificar responsáveis por danos causados ao erário, e determinar o ressarcimento do prejuízo apurado, entendo aplicável ao caso sob exame a parte final do referido dispositivo constitucional.
+Nesse sentido é a lição do Professor José Afonso da Silva:
+'A prescritibilidade, como forma de perda da exigibilidade de direito, pela inércia de seu titular, é um princípio geral de direito. Não será, pois, de estranhar que ocorram prescrições administrativas sob vários aspectos, quer quanto às pretensões de interessados em face da Administração, quer quanto às desta em face de administrados. Assim é especialmente em relação aos ilícitos administrativos. Se a Administração não toma providência à sua apuração e à responsabilização do agente, a sua inércia gera a perda do seu ius persequendi. É o princípio que consta do art. 37, § 5º, que dispõe: 'A lei estebelecerá os prazos de prescrição para ilícitos praticados por qualquer agente, servidor ou não, que causem prejuízo ao erário, ressalvadas as respectivas ações de ressarcimento'. Vê-se, porém, que há uma ressalva ao princípio. Nem tudo prescreverá. Apenas a apuração e punição do ilícito, não, porém, o direito da Administração ao ressarcimento, à indenização, do prejuízo causado ao erário. É uma ressalva constitucional e, pois, inafastável, mas, por certo, destoante dos princípios jurídicos, que não socorrem quem fica inerte (dormientibus non sucurrit ius)'.
+Ademais, não se justifica a interpretação restritiva pretendida pela impetrante, segundo a qual apenas os agentes públicos estariam abarcados pela citada norma constitucional, uma vez que, conforme bem apontado pela Procuradoria-Geral da República, tal entendimento importaria em injustificável quebra do princípio da isonomia.
+Com efeito, não fosse a taxatividade do dispositivo em questão, o ressarcimento de prejuízos ao erário, a salvo da prescrição, somente ocorreria na hipótese de ser o responsável agente público, liberando da obrigação os demais cidadãos. Tal conclusão, à evidência, sobre mostrar-se iníqua, certamente não foi desejada pelo legislador constituinte” (grifos meus).
+Por fim, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. O mencionado dispositivo constitucional não impõe seja a decisão exaustivamente fundamentada, mas sim o que se busca é que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 3 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+   - Relator -
