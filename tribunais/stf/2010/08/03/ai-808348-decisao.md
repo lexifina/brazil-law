@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“RECURSO ORDINÁRIO. AGRAVO REGIMENTAL. PRECATÓRIO. LIMITAÇÃO DA CONDENAÇÃO À DATA-BASE DA CATEGORIA. POSSIBILIDADE. I – É pacífico o entendimento da Corte de que não ofende a coisa julgada a limitação à data-base da categoria, na fase executória, da condenação ao pagamento de diferenças salariais decorrentes de planos econômicos, quando a decisão exequenda silenciar a respeito, uma vez que ela decorre de norma cogente. II – Não tendo havido expresso pronunciamento judicial sobre o tema no âmbito do processo de conhecimento ou de execução, o exame da matéria é possível no âmbito do precatório, na conformidade dos precedentes do Tribunal Pleno e do Órgão Especial III – Recurso a que se nega provimento” (fl. 135).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, XXXVI, e 7º, VI, da mesma Carta.
+O agravo não merece acolhida. É que esta Corte tem se orientado no sentido de que a controvérsia acerca da limitação à data-base da categoria, na fase de execução, da condenação ao pagamento de diferenças salariais decorrentes de planos econômicos situa-se no âmbito infraconstitucional. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 591.078/RN, Rel. Min. Cezar Peluso; AI 609.829/DF, Rel. Min. Sepúlveda Pertence.
+Ademais, a Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 602.832-ED/SC, Rel. Min. Sepúlveda Pertence; AI 608.978-AgR/RS, Rel. Min. Eros Grau; AI 536.022-AgR/SP, Rel. Min. Carlos Britto; AI 590.021-AgR/PI, Rel. Min. Cezar Peluso; AI 451.773-AgR/DF, Rel. Min. Gilmar Mendes.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 3 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
