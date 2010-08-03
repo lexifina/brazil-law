@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu estar configurada a responsabilidade objetiva do Estado pela morte de adolescente ocorrida em estabelecimento de internamento de menores infratores. O acórdão recorrido também considerou comprovada a culpa da Fundação recorrente pelo evento danoso.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 5º, V, 37, § 6º, e 93, IX, da mesma Carta, ao argumento de que “o Tribunal a quo reiteradamente se negou a apreciar a prova dos autos” (fl. 598) acerca da ocorrência de culpa da vítima. Sustentou-se, ainda, que a recorrida não sofreu dano econômico-material, o que afasta a condenação ao pagamento de pensão mensal.
+A pretensão recursal não merece acolhida.
+A apreciação do recurso extraordinário requer o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF. Nesse sentido, cito a ementa do AI 603.865-AgR/GO, Rel. Min. Cármen Lúcia:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL OBJETIVA. MORTE DE DETENTO EM ESTABELECIMENTO PRISIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade do reexame das provas contidas nos autos na via extraordinária. Incidência da Súmula 279 do Supremo Tribunal Federal. 2. Morte de detento em estabelecimento prisional. Responsabilidade civil objetiva do Estado configurada. Precedentes. 3. Proibição constitucional de vinculação de qualquer vantagem ao salário mínimo. Impossibilidade da modificação da base de cálculo por decisão judicial: Súmula Vinculante n. 4”.
+Além disso, o acórdão recorrido está em consonância com a jurisprudência desta Corte, consoante se observa do julgamento do RE 272.839/MT, Rel. Min. Gilmar Mendes, cuja ementa segue transcrita:
+“Recurso extraordinário. 2. Morte de detento por colegas de carceragem. Indenização por danos morais e materiais. 3. Detento sob a custódia do Estado. Responsabilidade objetiva. 4. Teoria do Risco Administrativo. Configuração do nexo de causalidade em função do dever constitucional de guarda (art. 5º, XLX). Responsabilidade de reparar o dano que prevalece ainda que demonstrada a ausência de culpa dos agentes públicos. 5. Recurso extraordinário a que se nega provimento.”
+No mesmo sentido, indico os seguintes precedentes, entre outros: RE 466.322-AgR/MT, Rel. Min. Eros Grau; RE 215.981/RJ, Rel. Min. Néri da Silveira; AI 577.908-AgR/GO, Rel. Min. Gilmar Mendes; AI 299.125/SP, Rel. Min. Celso de Mello.
+Isso posto, com base nos arts. 557, caput, do CPC, 38 da Lei 8.038/90 e 21, § 1º, do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 3 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
