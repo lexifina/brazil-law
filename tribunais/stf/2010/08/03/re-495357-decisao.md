@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto contra acórdão que não reconheceu o direito a crédito de ICMS pago na aquisição de bens destinados ao ativo fixo do próprio estabelecimento do contribuinte, em período anterior à LC 87/96.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, a constitucionalidade desses créditos.
+A pretensão recursal não merece acolhida. Essa Corte já fixou entendimento no sentido de que não há ofensa ao princípio da não cumulatividade a situação de inexistência de direito a crédito de ICMS pago em razão de operações de consumo de energia elétrica, de utilização de serviços de comunicação ou de aquisição de bens destinados ao ativo fixo e de materiais de uso e consumo, conforme se pode observar do julgamento do AI 562.701-ED/RS, Rel. Min. Celso de Mello, cuja ementa transcrevo a seguir:
+“AGRAVO DE INSTRUMENTO - EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO - ICMS - CRÉDITO DO VALOR PAGO EM RAZÃO DE OPERAÇÕES DE CONSUMO DE ENERGIA ELÉTRICA, OU DE UTILIZAÇÃO DE SERVIÇOS DE COMUNICAÇÃO OU AQUISIÇÃO DE BENS DESTINADOS AO USO E/OU À INTEGRAÇÃO NO ATIVO FIXO - APROVEITAMENTO - INADMISSIBILIDADE - RECURSO DE AGRAVO IMPROVIDO.
+A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de não reconhecer, ao contribuinte do ICMS, o direito de creditar-se do valor do ICMS, quando pago em razão de operações de consumo de energia elétrica, ou de utilização de serviços de comunicação ou, ainda, de aquisição de bens destinados ao uso e/ou à integração no ativo fixo do seu próprio estabelecimento. Precedentes”.
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 349.543-AgR/SP, Rel. Min. Marco Aurélio; AI 602998-AgR/MG, Rel. Min. Eros Grau; RE 295.887-AgR/SP, Rel. Min. Joaquim Barbosa; AI 491.743-AgR/SP, Rel. Min. Gilmar Mendes; AI 456.013-AgR/RS, Rel. Min. Ellen Gracie; RE 296.025-AgR/PR, Rel. Min. Cezar Peluso; RE 200.168/RJ, Rel. Min. Ilmar Galvão; AI 355.683-AgR/SP, Rel. Min. Sepúlveda Pertence; AI 570.490/RS, Rel. Min. Cármen Lúcia; RE 480.115/RS, Rel. Min. Menezes Direito; AI 497.405-AgR/SP, de minha relatoria.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 3 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
