@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“DIFERENÇAS SALARIAIS E INDENIZAÇÃO – SERVIDORES MUNICIPAIS – SOROCABA – LM Nº 3.801/91 E LM Nº 3.971/92 – EVOLUÇÃO FUNCIONAL – LEI NÃO REGULAMENTADA – PREVISÃO, NA NORMA, DE CRITÉRIOS OBJETIVOS E SUBJETIVOS DE AVALIAÇÃO DOS SERVIDORES – POSSIBILIDADE DE APLICAÇÃO DAS LEIS, NA PARTE QUE IMPRESCINDEM DE REGULAMENTAÇÃO - POSSIBILIDADE DE AVALIAÇÃO DOS SERVIDORES COM BASE NO ART. 23, I, II E IV DA LM Nº 3.801/91, EIS QUE TAIS INCISOS ESTABELECEM COMO PARÂMETRO PARA A AVALIAÇÃO O EFETIVO EXERCÍCIO E A ASSIDUIDADE, CRITÉRIOS OBJETIVOS, DESNECESSÁRIA, DESTARTE, A REGULAMENTAÇÃO DA LEI QUANTO A ESTE ASPECTO – AVALIAÇÃO DE DESEMPENHO – ART. 23, III, LM Nº 3.801/91 – CRITÉRIO SUBJETIVO – NECESSIDADE DA REGULAMENTAÇÃO DO DIPLOMA QUANTO A ESTE TÓPICO - INVIABILIDADE DE QUE ATO DO PODER JUDICIÁRIO SUBSTITUA A REGULAMENTAÇÃO QUE DEVE SER FEITA PELO CHEFE DO EXECUTIVO MUNICIPAL.
+RECURSOS AOS QUAIS SE DÁ PARCIAL PROVIMENTO, PREJUDICADAS AS PRELIMINARES” (Fl. 120).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, e 39, § 1º, I, II e III, da mesma Carta.
+O agravo não merece acolhida. É que o exame do recurso requer a prévia análise de normas infraconstitucionais locais (Lei Municipal 3.801/91) e do conjunto fático-probatório constante dos autos, o que inviabiliza o recurso extraordinário, a teor das Súmulas 280 e 279 do STF. Nesse sentido cito os seguintes precedentes, de casos análogos: AI 782.888/SP, AI 786.705/SP e AI 781.857/SP Rel. Min. Eros grau; AI 768.832/SP, de minha relatoria; AI 755.376/SP, Rel. Min. Cármen Lúcia e AI 770.050, Rel. Min. Ellen Gracie, que extraio trecho:
+“O recurso não merece prosperar. Para divergir da conclusão a que chegou o Tribunal a quo, cumpriria examinar legislação local (Leis Municipais 3.801/91 e 3.971/92) e o conjunto fático-probatório dos autos, o que é defeso nesta fase recursal, nos termos das Súmulas STF 279 e 280. Assim, eventual ofensa à Constituição Federal seria indireta ou reflexa.”
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 03 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
