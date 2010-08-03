@@ -1,0 +1,9 @@
+Solução de Consulta Disit/SRRF06 nº 65, de 23 de julho de 2010
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: ÓRGÃOS PÚBLICOS. AGENTE POLÍTICO E SERVIDORES. O vocábulo "empregado" constante do § 8º do artigo 214 do Decreto nº 3.048/1999 abarca todos os segurados obrigatórios do Regime Geral de Previdência Social - RGPS na qualidade de empregado, dentre eles os agentes políticos e servidores efetivos não amparados por Regime Próprio de Previdência Social - RPPS, os servidores ocupantes, exclusivamente, de cargo em comissão declarado em lei de livre nomeação e exoneração, os contratados para atender a necessidade temporária de excepcional interesse público e os empregados públicos regidos pela CLT.
+DIÁRIAS O valor das diárias para viagens, quando excedente a cinqüenta por cento da remuneração mensal do segurado empregado, integra o seu salário de contribuição pelo valor total, bem como compõe a base de cálculo das contribuições previdenciárias patronais.
+DISPOSITIVOS LEGAIS: CF/1988, artigo 40, § 13, Lei nº 8.212/1991, artigos 12, I, "j", 13, 15, I e 28, § 8º, "a" e Decreto nº 3.048/1999, artigos 9º, I, "i", "j", "l", "m" e "p", 10, 12 e 214, § 8º.
+ASSUNTO: Imposto sobre a Renda de Pessoa Física - IRPF
+EMENTA: DIÁRIAS As diárias destinadas, exclusivamente, ao pagamento de despesas de alimentação e pousada, por serviço eventual realizado em município diferente do da sede de trabalho, inclusive no exterior, são isentas do imposto de renda, ainda que o montante ultrapasse a cinqüenta por cento da remuneração mensal de quem recebê-las, por não constar na legislação do imposto de renda qualquer imposição restritiva relativa à matéria.
+DISPOSITIVOS LEGAIS: RIR/1999, artigo 39, XIII e Parecer Normativo COSIT nº 10/1992, item 15.
+[arquivo anexo: SC SRRF06-Disit nº 65-2010.pdf]
