@@ -1,0 +1,10 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+“ADMINISTRATIVO. TABELIÃO PÚBLICO. FUNÇÃO PÚBLICA. EXERCÍCIO POR DELEGAÇÃO ADMINISTRATIVA. CONTRIBUIÇÃO PREVIDENCIÁRIA DISTINTA DOS FUNCIONÁRIOS PÚBLICOS CIVIS. PROVENTOS DE APOSENTADORIA. SUPRESSÃO DO ADICIONAL POR TEMPO DE SERVIÇO. LEGALIDADE. 1. A função exercida por Tabelião Público, apesar de pública, é de caráter privado porque atribuída por delegação administrativa, com conceituação e previsão contida na Lei Estadual 10.648/91 (art. 4º); 2. A mesma Lei ainda prevê forma especial para contribuição previdenciária dos Tabeliães (art. 8º, §1º), na qual as vantagens de cunho pessoal são excluídas para o cálculo, sendo pertinente afirmar que essas vantagens, entre elas o adicional por tempo de serviço, não são devidas quando da aposentadoria do servidor, e lícita, portanto, é a supressão dos proventos realizada após o devido processo de revisão de benefício. Apelo provido. Adesivo prejudicado. Sentença reformada. Decisão uniforme” (fl. 160).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 5º, XXXVI, da mesma Carta. Sustentou-se que o recorrente possui a qualidade de servidor público pois sua aposentadoria teria sido deferida com base no art. 40, III, a, da CF/88, razão pela qual teria sido inserido no regime próprio dos servidores públicos.
+A pretensão recursão não merece acolhida. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Além disso, o acórdão recorrido dirimiu a questão dos autos com apoio na norma infraconstitucional local pertinentes à espécie (Lei Estadual 10.648/2001). Assim, nos termos da Súmula 280 do STF, é inviável o recurso extraordinário.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 3 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+– Relator –
