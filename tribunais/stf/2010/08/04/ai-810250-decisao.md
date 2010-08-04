@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. 1) PROCESSUAL CIVIL. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA: QUESTÃO INFRACONSTITUCIONAL. 2) ADMINISTRATIVO. CONCURSO PÚBLICO. JULGADO RECORRIDO FUNDAMENTADO NO EXAME DE PROVAS E NA INTERPRETAÇÃO E APLICAÇÃO DE NORMAS EDITALÍCIAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado proferido pelo Tribunal Regional Federal da 3ª Região:
+“ADMINISTRATIVO. CONCURSO PÚBLICO. PERITO CRIMINAL FEDERAL. EDITAL Nº 25/2004 - DGP/DPF. EXAME DE APTIDÃO FÍSICA. PROVA DE NATAÇÃO. PISCINA QUE NÃO ATENDIA OS REQUISITOS ESTABELECIDOS PELO EDITAL. DIMENSÃO SUPERIOR E AUSÊNCIA DE RAIA DEMARCADORA. IRREGULARIDADES ADMITIDAS PELA PRÓPRIA RÉ. NULIDADE DA PROVA. DETERMINAÇÃO DE REALIZAÇÃO DE NOVA PROVA, EM CONFORMIDADE COM O EDITAL. PRECEDENTES JURISPRUDENCIAIS DO TRF DA 5ª REGIÃO. AGRAVO RETIDO NÃO REITERADO. NÃO CONHECIMENTO. MANUTENÇÃO DA VERBA HONORÁRIA ARBITRADA EM R$ 1.000,00. ART. 20, §4º DO CPC” (fl. 472).
+3. No recurso extraordinário, a Agravante alega que o Juízo a quo teria contrariado o art. 5º, inc. LIV, da Constituição da República, pois “a decisão que reformou parcialmente a sentença para determinar a realização de nova prova de natação é notoriamente extra petita” (fl. 488).
+Sustenta, ainda, contrariedade ao art. 2º da Constituição, ao argumento de que “a Administração Pública tem total autonomia para valiar, fixando os critérios, seus futuros servidores” (fl. 490).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula 279 do Supremo Tribunal Federal (fls. 624-625).
+A Agravante assevera que estariam presentes os pressupostos de admissibilidade do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a alegação de contrariedade ao art. 5º, inc. LIV, da Constituição da República, se dependente do exame de legislação infraconstitucional – na espécie vertente, de normas do Código de Processo Civil -, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. INTIMAÇÃO PESSOAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 776.282-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010).
+“ RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+7. O Tribunal de origem fundamentou-se no exame de provas e na interpretação e aplicação de normas editalícias e concluiu que o ato de eliminação do Agravado do concurso público a elas não se conformaria.
+Para se concluir de modo diverso, seriam imprescindíveis o reexame do conjunto fático-probatório constante dos autos e a análise daquelas normas infraconstitucionais, o que não viabiliza o recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRASLADO DEFICIENTE. CONCURSO PÚBLICO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO” (AI 527.816-AgR, de minha relatoria, Primeira Turma, DJe 1º.2.2008).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONCURSO PÚBLICO. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 720.769-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 17.10.2008).
+“ Concurso público. Exigências editalícias. Ausência de prequestionamento (Súmulas 282 e 356). Controvérsia infraconstitucional. Ofensa indireta à CF. Regimental não provido” (AI 459.735-AgR, Rel. Min. Nelson Jobim, Segunda Turma, DJ 16.4.2004).
+8. Nada há a prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 4 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
