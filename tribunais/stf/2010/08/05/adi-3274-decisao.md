@@ -1,0 +1,14 @@
+DECISÃO: O Conselho Federal da Ordem dos Advogados do Brasil propôs ação direta de inconstitucionalidade contra os Decretos Judiciários n.os 240/2001, publicado em 2.7.2001, e 38/2002, publicado em 4.3.2002, do Presidente do Tribunal de Justiça do Estado de Tocantins, os quais dispõem sobre o horário de funcionamento dos órgãos do Poder Judiciário do Estado do Tocantins.
+A Advocacia-Geral da União manifestou-se pela procedência da ação, em razão da incompatibilidade dos Decretos Judiciários com a Constituição Federal e com a jurisprudência desta Corte (fls. 179/185).
+O Presidente do Tribunal de Justiça de Tocantins prestou informações às fls. 188/194.
+O parecer da Procuradoria-Geral da República é pela procedência parcial da ação, para que se declare a inconstitucionalidade do Decreto Judiciário n.º 240/01 e do artigo 2º do Decreto Judiciário n.º 38/02, fls. 196/201.
+Posteriormente, à fl. 204, o Presidente do Tribunal de Justiça de Tocantins informou a revogação dos dispositivos normativos impugnados, juntando, na oportunidade, os documentos de fls. 205/209. Por sua vez, o Conselho Federal da Ordem dos Advogados do Brasil também solicitou a juntada dos documentos que comprovam a revogação dos atos normativos em questão, fls. 212/217.
+Assim, tendo em vista as manifestações do Presidente do Tribunal de Justiça do Tocantins e do Conselho Federal da Ordem dos Advogados do Brasil, as quais informam a revogação dos atos normativos impugnados, conclui-se que está prejudicada a presente ação direta de inconstitucionalidade, por perda superveniente de objeto, conforme o entendimento firmado por esta Corte no julgamento da ADI n.° 709/PR, Rel. Min. Paulo Brossard (DJ 7.10.1992)
+Apesar de estar em discussão a revisão dessa antiga jurisprudência – está com vista à Ministra Ellen Gracie a Segunda Questão de Ordem na ADI n° 1.244, Rel. Min. Gilmar Mendes –, esse é o entendimento que vem sendo aplicado em diversas decisões do Tribunal (ADI 1.889/AM, Rel. Min. Eros Grau, DJ 3.10.2005; ADI n° 387/RO, Rel. Min. Sepúlveda Pertence, DJ 9.9.2005; ADI n° 3.513/PA, Rel. Min. Ellen Gracie, DJ 22.8.2005; ADI n° 2.436/PE, Rel. Min. Joaquim Barbosa, DJ 26.8.2005; ADI n° 380/RO, Rel. Min. Celso de Mello, DJ 4.3.2005; ADI n.° 2.757/ES, Rel. Min. Joaquim Barbosa, DJ 05.11.2009; ADI 3.939/DF, Rel. Min. Cármen Lúcia, DJ 01.07.2010; ADI n.° 3.588/RN, Rel. Min. Dias Toffoli, DJ 21.05.2010).
+Registre-se que a revogação normativa relatada nestes autos não configura fraude processual, hipótese na qual, conforme a recente jurisprudência desta Corte, o curso procedimental e o julgamento final da ação não ficam prejudicados (ADI n° 3.232/TO, Rel. Min. Cezar Peluso, DJ 3.10.2008).
+Ante o exposto, julgo prejudicada a presente ação direta de inconstitucionalidade, por perda superveniente de objeto, nos termos do art. 21, IX, do RI-STF.
+Publique-se.
+Arquive-se.
+Brasília, 5 de agosto de 2010.
+Ministro GILMAR MENDES
+Relator
