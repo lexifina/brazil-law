@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“ADMINISTRATIVO – SERVIDORES PÚBLICOS ESTADUAIS – PRESCRIÇÃO DO FUNDO DE DIREITO – INOCORRÊNCIA – PRESTAÇÃO DE TRATO SUCESSIVO – PRESCRIÇÃO QUINQUENAL – PROGRESSÃO HORIZONTAL – REQUISITOS DA LEI Nº 10.961/92 – DECRETO Nº 36.033/94 – EXIGÊNCIAS QUE ULTRAPASSAM OS LIMITES DA LEI – SERVIDORES EFETIVADOS LEI 10.254/90 E EC. 49/2001 – NÃO COMPROVAÇÃO DE APROVAÇÃO EM CONCURSO PÚBLICO – EFETIVAÇÃO ILEGÍTIMA – NÃO FAZEM JUS AO BENEFÍCIO – NEGAR PROVIMENTO AO RECURSO DO ESTADO – DAR PARCIAL PROVIMENTO AO SEGUNDO RECURSO, PARA REFORMAR EM PARTE A SENTEÇA” (fl. 109).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 5º, caput, II, da mesma Carta.
+O agravo não merece acolhida. É que para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Lei 10.961/92 e Decreto Estadual 36.033/94), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 576.454/MG, Rel. Min. Marco Aurélio; AI 549.594/MG, Rel. Min. Cezar Peluso e AI 559.401-AgR, Rel. Min. Joaquim Barbosa, cuja ementa segue transcrita:
+“AGRAVO REGIMENTAL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VENCIMENTOS. DECRETOS ESTADUAIS 36.033/1994 E 36.829/1995. INTERPRETAÇÃO DE DIREITO LOCAL. ÓBICE DA SÚMULA 280 DO STF. O Tribunal a quo decidiu a questão em debate com base na interpretação dada aos Decretos estaduais 36.033/1994 e 36.585/1994. Assim, para se chegar a conclusão diversa, seria necessária a análise de normas locais, o que não é permitido em recurso extraordinário, à luz da Súmula 280 desta Corte. Agravo regimental a que se nega provimento”
+Por fim, o Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 5 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
