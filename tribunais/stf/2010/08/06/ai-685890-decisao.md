@@ -1,0 +1,25 @@
+D ECIS Ã O:
+Vistos.
+Forjafrio Indústria de Peças Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário, assentado em contrariedade ao artigo 150, inciso I, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Décima Primeira Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“Execução Fiscal Embargos rejeitados Recurso da embargante objetivando a inversão do julgado. Inviabilidade. ICMS declarado e não pago. Desnecessária homologação formal ou instauração de procedimento administrativo. Não se trata, ademais, de "denúncia espontânea", mas de auto-lançamento. A multa moratória de 20%, prevista no art. 87 da Lei estadual n° 6.374/89, com a redação dada pela Lei n° 9 399/96, deve incidir sobre o montante do imposto atualizado monetariamente, não possuindo caráter confiscatório. Legitima a correção do débito com esteio na variação da UFESP, segundo índices estipulados em legislação estadual, reconhecida a sua constitucionalidade pelo STF. Por fim, também legítima a utilização da taxa SELIC como índice de correção monetária e de juros de mora na atualização dos débitos tributários pagos em atraso, diante da existência de lei estadual que determina a adoção dos mesmos critérios para a correção dos débitos fiscais federais Recurso improvido. (fl. 175).
+Opostos embargos de declaração (fls. 195/196), foram rejeitados (fls. 200 a 205).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 28/11/06, conforme expresso na certidão de folha 207, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+No que se refere ao artigo 150, inciso I, carece do necessário prequestionamento, sendo certo que esse ponto não foi objeto do acórdão recorrido. Incidência da Súmula n° 282 desta Corte. Anote-se que o fato do recorrente ter trazido a questão constitucional no bojo dos embargos de declaração não é bastante para suprir o requisito do prequestionamento, a teor da Súmula nº 356/STF. Ocorre que, não obstante a oposição dos embargos, o recurso de apelação e as contrarrazões da apelação não suscitaram a referida questão constitucional, hipótese em que já não se prestam os embargos declaratórios opostos contra o acórdão de segundo grau a suscitá-la pela primeira vez. Nesse sentido:
+“1. Recurso extraordinário: descabimento: dispositivo constitucional dado por violado (CF, art. 5º, II) não analisado pelo acórdão recorrido: incidência das Súmulas 282 e 356.
+2. Embargos de declaração, prequestionamento e Súmula 356. Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada.
+3. Recurso extraordinário: inadmissibilidade: alegada violação a dispositivo constitucional que, se ocorresse, seria reflexa ou indireta, que não enseja exame no recurso extraordinário: incidência, mutatis mutandis, da Súmula 636” (AI nº 596.757/RS-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 10/11/06).
+“RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL.
+1. Ao contrário do que sustenta o agravante, os embargos de declaração, para fins de prequestionamento, servem para suprir omissão do acórdão recorrido em relação à matéria suscitada no recurso cabível ou nas contra-razões e não para inovar matéria constitucional não debatida nos autos.
+2. Ausente o prequestionamento do art. 129, III, da Constituição, dado como contrariado. Não prescinde desse requisito, inerente ao cabimento do recurso de natureza extraordinária, a circunstância de poder a ilegitimidade ativa ad causam ser analisada em qualquer grau de jurisdição.
+1.   Agravo regimental improvido” (RE nº 434.420/DF-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 14/6/05).
+Demais disso, o acórdão atacado solucionou a lide à luz da legislação infraconstitucional pertinente ao caso. A alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+“ AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA INDIRETA À CONSTITUIÇÃO. 1. O entendimento pacificado no Supremo é no sentido de que o debate do tema constitucional deve ser explícito. Precedentes. 2. Controvérsia decidida à luz da legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento” (RE nº 409.633-AgR, Primeira Turma, Relator o Ministro Eros Grau, DJ de 5/5/06).
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 6 de agosto de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
