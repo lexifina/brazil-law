@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE.
+1.  O Tribunal Superior do Trabalho negou acolhida a pedido formulado em recurso ordinário, ante fundamentos assim resumidos (folhas 117 e 118):
+RECURSO ORDINÁRIO. AÇÃO RESCISÓRIA. SÃO PAULO TRANSPORTE S. A. RESPONSABILIDADE SUBSIDIÁRIA. ALEGAÇÃO DE OFENSA A DISPOSITIVOS DA CONSTITUIÇÃO. INVIABILIDADE DO EXERCÍCIO DO JUÍZO RESCINDENTE.
+I – Conquanto não se exija o requisito do prequestionamento, inerente aos recursos extraodinários, em virtude de a rescisória se constituir em ação autônoma, em que a atividade jurisdicional abrange tanto questões de fato quanto de direito, não é demais lembrar ser imprescindível a emissão de tese explícita na decisão rescindenda sobre a matéria trazida a lume na rescisória, a fim de permitir ao Tribunal, em sede de juízo rescindente, o exame da norma de lei ali subjacente que se diz ter sido agredida.
+II – Nesse sentido tem-se orientado a melhor doutrina ao firmar posicionamento de que, embora prescindível o prequestionamento da norma legal, é indeclinável à higidez do exercício do juízo rescindente em rescisória, fundada no art. 485, inciso V, do CPC, que o fato ou fatos jurídicos, a partir dos quais se sustenta a ocorrência de ofensa a literal disposição de lei, possam ser objetivamente extraídos da decisão rescindenda.
+III – Infere-se da sentença rescindenda que, embora tenha sido feita referência à atuação da autora como gestora do sistema de transporte, a controvérsia foi examinada unicamente sob o prisma da Súmula nº 331 desta Corte, sem emissão de pronunciamento sobre o fato de a parte, na condição de mera administradora e fiscalizadora do sistema de transporte do Município, poder ou não ser responsabilizada subsidiariamente pelo pagamento das verbas trabalhistas, à luz dos arts. 30, 37, § 6º, e 173, § 1º, II, da Constituição ou mesmo dos arts. 31 da Lei nº 8.987/95 e 126, § 1º, da Lei Orgânica do Município de São Paulo.
+IV – Constatado que na decisão não há sequer uma linha sobre a matéria à luz do fato jurídico em razão do qual teriam sido violados os referidos dispositivos, torna-se absolutamente inviável aferir-se a procedência do juízo rescindente.
+2. ALEGAÇÃO DE OFENSA AO ART. 71 DA LEI Nº 8.666/93. MATÉRIA CONTROVERTIDA.
+I – Embora a jurisprudência desta Corte venha se orientando no sentido de que a SPTrans apenas administra as concessões de transporte público na cidade de São Paulo, sem se beneficiar dos serviços prestados pelos empregados das empresas concessionárias, a matéria à época da prolação da sentença rescindenda (junho de 2005) era controvertida, vindo à baila como óbice à pretensão rescindente o inciso II da Súmula nº 83/TST, segundo o qual O marco divisor quanto a ser, ou não, controvertida, nos Tribunais, a interpretação dos dispositivos legais citados na ação rescisória é a data da inclusão, na Orientação Jurisprudencial do TST, da matéria discutida.
+II – Recurso a que se nega provimento.
+O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência da Corte.
+2.  Conheço do agravo e o desprovejo.
+3.  Publiquem.
+Brasília, 6 de agosto de 2010.
+Ministro MARCO AURÉLIO
+Relator
