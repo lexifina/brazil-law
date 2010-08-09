@@ -1,0 +1,8 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão, proferido por Tribunal Regional Federal, que versa sobre a extensão, aos servidores inativos, da Gratificação de Desempenho de Atividade Técnico-Administrativa-GDATA, desde a edição da Lei 10.404/2002.
+O Plenário do Supremo Tribunal Federal, no julgamento do RE 476.279, rel. min. Sepúlveda Pertence, fixou o entendimento de que a Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA é devida “aos inativos, nos valores correspondentes a 37,5 pontos, no período de fevereiro a maio de 2002, e nos termos do art. 5º, parágrafo único, da Lei 10.404/2002, para o período de junho de 2002 até a chamada ‘conclusão dos efeitos do último ciclo de avaliação’, a que se refere o art. 1º da Medida Provisória 198/2004, convertida na Lei 10.971/2004, a partir da qual passa a ser de 60 pontos”, em observância ao disposto no art. 40, § 8º, da Constituição federal (na redação da EC 20/1998) e a regra de transição contida no art. 7º da EC 41/2003 (Informativo 463, de 25.04.2007).
+Do exposto, dou parcial provimento ao recurso extraordinário, para que a GDATA seja deferida à parte autora nos valores correspondentes a 37,5 pontos no período de fevereiro a maio de 2002; a 10 pontos, no período de junho de 2002 a abril de 2004, nos termos do inciso II, da Lei 10.404/1002; e 60 pontos no período de maio de 2004 até a entrada em vigor da Medida Provisória 198/2004.
+Considerando que a parte recorrida não dispõe de advogado constituído nos autos, proceda-se a sua intimação por meio da Defensoria Pública da União.
+Publique-se.
+Brasília, 9 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
