@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1062, de 5 de agosto de 2010
+Aprova o programa multiplataforma para preenchimento da Declaração do Imposto sobre a Propriedade Territorial Rural do exercício de 2010, para uso em computador que possua a máquina virtual Java (JVM), versão 1.4.2 ou superior, instalada.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVII do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto na Instrução Normativa RFB nº 1.058, de 26 de julho de 2010, resolve:
