@@ -1,0 +1,23 @@
+DECIS ÃO
+Vistos.
+Município do Recife interpõe agravo de instrumento almejando destrancar recurso extraordinário contra acórdão da Sétima Câmara Cível do Tribunal de Justiça do Estado de Pernambuco assim ementado:
+“PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO LEGAL. IMPOSTO DE RENDA RETIDO NA FONTE. SERVIDOR MUNICIPAL. DEMANDA QUESTIONANDO ISENÇÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRÉVIO REQUERIMENTO OU EXAURIMENTO DA VIA ADMINISTRATIVA. DESNECESSIDADE. INTERESSE DE AGIR. ANISTIA POLÍTICA. IMPOSTO DE RENDA. ISENÇÃO. LEI 10.559/2002 E DECRETO 4.897/2003. EXTENSÃO DO BENEFÍCIO FISCAL ASSEGURADA AOS QUE JÁ SE ACHAVAM ANISTIADOS ANTES DA SUPERVENIÊNCIA DA LEI ISENTIVA. PRECEDENTES DO STJ. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO DE FORMA UNÂNIME. MANTIDA A DECISÃO GUERREADA.
+I – Compete à Justiça Estadual processar e julgar demandas propostas por servidores públicos municipais ou estaduais pleiteando isenção ou não-incidência do imposto de renda sobre seus proventos, pois cabe aos Municípios e aos Estados sua retenção, sendo os referidos entes os destinatários do tributo, de acordo com os arts. 157, I e 158, I da Lex Mater.
+II – É defeso vincular a provocação do Judiciário a prévio requerimento ou exaurimento da via administrativa, sob pena de se criar uma jurisdição condicionada ou instância administrativa de curso forçado, o que foi abolido pela Constituição da República, excetuando-se tão-somente, questões envolvendo a Justiça Desportiva, na forma do que preconiza seu art. 217, §1º, o que não vem ao caso.
+III – Nos termos de consolidada jusrisprudência no STJ, assegura-se aos anistiados políticos, após o devido esclarecimento proporcionado pela edição do Decreto nº 4.897/2003, que os efeitos da isenção do imposto de renda concedida pelo art. 1º da Lei 10.559/2002, alcançarem os pagamentos de aposentadoria que trata o art. 19 da referida lei, mesmo antes de operada a “substituição” ali referida.
+IV – Recurso a que se nega provimento por unanimidade de votos. Mantida a decisão terminativa” (fls. 294/295).
+No extraordinário, assentado na alínea “a” do permissivo constitucional, o recorrente aponta violação dos artigos 18 e 153 da Constituição Federal, sustentando, em síntese, a competência da Justiça Federal para conhecer originariamente a demanda.
+Decido.
+Irretocável a decisão agravada.
+De fato, a interativa jurisprudência deste Supremo Tribunal Federal está orientada no sentido de considerar que a controvérsia trazida no referido apelo extremo demanda reexame de legislação infraconstitucional, notadamente da Lei nº 10.559/2002 e do Decreto nº 4.897/2003, bem como da relativa ao interesse de agir da União, instituto de regência normativa propriamente processual.
+Com efeito, a apontada vulneração constitucional, se ocorresse, seria indireta ou reflexa, o que não enseja abertura da via extraordinária. Sobre esses aspectos, confiram-se os seguintes julgados:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO DE REPETIÇÃO DE INDÉBITO DE IMPOSTO DE RENDA RETIDO NA FONTE POR ESTADO FEDERADO, INCIDENTE SOBRE LICENÇA-PRÊMIO NÃO GOZADA. QUESTÕES RELATIVAS À LEGITIMIDADE PASSIVA DO ESTADO E À COMPETÊNCIA DA JUSTIÇA ESTADUAL: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 557.990/PE-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 7/8/09).
+“1. Recurso extraordinário: descabimento: controvérsia relativa a imposto de renda retido na fonte pelo Estado sobre pagamentos "in pecunia", referentes a férias e licenças-prêmio não gozadas, decidida à luz de legislação infraconstitucional: a alegada violação dos dispositivos constitucionais invocados, se ocorresse, seria reflexa ou indireta que não enseja reexame no RE: incidência, mutatis mutandis, do princípio da Súmula 636. 2. Competência da Justiça estadual e legitimidade passiva do Estado para a demanda: inexistência da alegada violação do artigo 157, I, da Constituição Federal” (AI nº 571.850/PE-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJe de 25/5/07).
+“RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte” (RE nº 534.023/RJ-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 28/9/07).
+A propósito, destaco ainda a decisão monocrática proferida no RE nº 575.587/RS, Relator o Ministro Carlos Brito, DJe de 25/03/2010.
+Ante o exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 9 de agosto de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
