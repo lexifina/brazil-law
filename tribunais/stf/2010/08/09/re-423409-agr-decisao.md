@@ -1,0 +1,17 @@
+DECISÃO: Compulsando os autos, verifico a ocorrência de equívoco na decisão de fls. 242/243, pela qual dei provimento ao recurso extraordinário. Ocorre que a referida decisão extrapolou os limites do objeto recursal e, por isso, reconsidero-a, tornando-a sem efeito. Por conseguinte, julgo prejudicado o recurso de fls. 246-251.
+Passo ao exame do recurso extraordinário.
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais, que considerou devida contribuição previdenciária instituída pela Lei estadual 13.455/2000.
+Mediante a análise do pedido recursal e da própria pretensão originária, constato que a recorrente discute apenas a validade da contribuição de 4,8%, instituída pela Lei estadual 13.455/2000 e destinada “exclusivamente ao pagamento de pensão” (cf. o art. 3º do referido diploma).
+Trata-se, pois, de matéria diversa da discutida na ADI 3.106, rel. min. Eros Grau e no RE 573.540, rel. min. Gilmar Mendes, quando esta Corte considerou inconstitucional a cobrança compulsória de contribuição destinada à saúde, nos termos da LC 64/2002 do Estado de Minas Gerais (cf. Informativo STF, nº 582).
+Assentada essa premissa, convém esclarecer que o Plenário desta Corte, ao julgar o pedido de medida liminar na ADI 2.010 (rel. min. Celso de Mello, RTJ 181/73), sob a égide da Emenda Constitucional 20/1998, decidiu pela inexigibilidade de contribuição previdenciária incidente sobre proventos da inatividade e pensões de servidores públicos. O conteúdo desse acórdão está assim ementado:
+‘(...)
+A CONSTITUIÇÃO DA REPÚBLICA NÃO ADMITE A INSTITUIÇÃO DA CONTRIBUIÇÃO DE SEGURIDADE SOCIAL SOBRE INATIVOS E PENSIONISTAS DA UNIÃO.
+- A Lei nº 9.783/99, ao dispor sobre a contribuição de seguridade social relativamente a pensionistas e a servidores inativos da União, regulou, indevidamente, matéria não autorizada pelo texto da Carta Política, eis que, não obstante as substanciais modificações introduzidas pela EC nº 20/98 no regime de previdência dos servidores públicos, o Congresso Nacional absteve-se, conscientemente, no contexto da reforma do modelo previdenciário, de fixar a necessária matriz constitucional, cuja instituição se revelava indispensável para legitimar, em bases válidas, a criação e a incidência dessa exação tributária sobre o valor das aposentadorias e das pensões.
+O regime de previdência de caráter contributivo, a que se refere o art. 40, caput, da Constituição, na redação dada pela EC nº 20/98, foi instituído, unicamente, em relação “Aos servidores titulares de cargos efetivos...”, inexistindo, desse modo, qualquer possibilidade jurídico-constitucional de se atribuir, a inativos e a pensionistas da União, a condição de contribuintes da exação prevista na Lei nº 9.783/99. Interpretação do art. 40, §§ 8º e 12, c/c o art. 195, II, da Constituição, todos com a redação que lhes deu a EC nº 20/98.
+(...)’(RTJ 181/75)
+Essa orientação foi confirmada pelo Plenário deste Tribunal no julgamento da ADI 2.189-MC (rel. min. Sepúlveda Pertence, RTJ 173/786) e da ADI 2.196-MC (rel. min. Moreira Alves, RTJ 175/96).
+Ante o exposto, com base no art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário, para determinar a restituição dos valores referentes à contribuição de 4,8% prevista na Lei 13.455/2000, pagos sob a égide da EC 20/98.
+Publique-se.
+Brasília, 09 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
