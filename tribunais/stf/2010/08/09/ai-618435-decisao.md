@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário em que se aponta violação dos arts. 195, § 5º, e 201, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 198):
+“AÇÃO DE COBRANÇA – FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS – PREVIDÊNCIA PRIVADA – COBRANÇA DE COMPLEMENTAÇÃO DE APOSENTADORIA – ABONO CONCEDIDO SOMENTE AOS FUNCIONÁRIOS DA ATIVA – NEGATIVA DA MANTENEDORA EM ESTENDÊ-LAS AOS INATIVOS – IMPOSSIBILIDADE – BENEFÍCIO DE NATUREZA JURÍDICA SALARIAL – VIOLAÇÃO AO REGULAMENTO E NORMAS DA FUNDAÇÃO – VERBA DEVIDA.
+RECURSO CONHECIDO E IMPROVIDO.
+“O abono prestado pela Caixa Econômica Federal aos seus servidores da ativa integra, para todos os fins e efeitos, o salário dos mesmos, ante a clareza da disposição contida no art. 457, § 1º da CLT, abono esse que impõe-se estendido, pela entidade securitária privada responsável pela complementação dos salários dos inativados, aos aposentados a si afiliados, em obediência às normas legais previsoras da paridade entre ativos e inativos.
+- A norma inserida no art. 195, § 5º da Carta Magna, que veda a criação, a majoração e a extensão de benefícios da previdência sem a concomitante existência de fonte de custeio para tanto, tem caráter impositivo apenas para a previdência oficial, não se destinando, de modo algum, à previdência privada.” (TJSC, Rel. Dês. Trindade dos Santos, in Apelação cível n. 99.003551-4, da Capital)”
+É o relatório. Decido.
+O abono em questão foi concedido pela Caixa Econômica Federal aos servidores da ativa por força de acordo coletivo.
+Esta Corte já decidiu que a invocação de ofensa ao § 5º do art. 195 por entidade de previdência privada é impertinente, pois esse dispositivo diz respeito apenas à seguridade social financiada por toda a sociedade (AI 530.944-AgR, rel. min. Sepúlveda Pertence, DJ de 05.08.2005).
+As demais questões constitucionais invocadas no recurso extraordinário constituem alegações de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. No mesmo sentido: AI 221.260-AgR (rel. min. Néri da Silveira, DJ de 24.09.1999), AI 619.552 (rel. min. Cármen Lúcia, DJe de 24.04.2008), RE 527.487 (rel. min. Cezar Peluso, DJe de 03.04.2008), AI 640.831 (rel. min. Gilmar Mendes, DJ de 23.11.2007) e RE 550.208 (rel. min. Menezes Direito, DJ de 05.10.2007).
+Convém ressaltar que o Supremo Tribunal Federal reafirmou a jurisprudência supra ao apreciar o RE 590.005-RG (rel. min. Cezar Peluso, DJe de 18.12.2009), não reconhecendo a repercussão geral do tema, por ausência de matéria constitucional, conforme se depreende da ementa:
+“EMENTA: RECURSO. Extraordinário. Incognoscibilidade. Previdência privada. Complementação de aposentadoria. Extensão, a aposentados, de benefício concedido a trabalhadores em atividade. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à concessão, a beneficiários de plano de previdência privada complementar, de vantagem outorgada a empregados ativos, versa sobre matéria infraconstitucional.”
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 9 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
