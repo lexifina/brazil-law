@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Sindicato dos Servidores do Poder Judiciário Federal do Estado de Mato Grosso - SINDIJUFE contra decisão proferida pelo Presidente do Tribunal Regional do Trabalho da 23ª Região, que, para fins de análise de requerimentos de aposentadoria especial, determinou a realização de perícia para averiguar se a atividade desenvolvida pelos servidores públicos é de risco ou não.
+O Sindicato afirma que impetrou mandado de injunção nesta Suprema Corte objetivando a concessão da aposentadoria especial para seus substituídos (MI 1.153, de minha relatoria). A ordem foi parcialmente concedida, para determinar que a autoridade administrativa procedesse à análise da situação fática de seus substituídos.
+O reclamante sustenta que, ao requererem sua aposentadoria especial administrativamente, os substituídos “têm encontrado resistência – por parte do reclamado – em conceder-lhes a aposentadoria, sob a alegação de que será necessário ‘fazer perícia’ para averiguar tratar-se de atividade de risco ou não”.
+Afirma que “as atividades de risco prescindem de perícia, vez que o risco é inerente a elas, exatamente como no caso dos agentes de segurança”.
+O reclamante alega ofensa ao decidido no MI 1.153, de minha relatoria, cuja decisão transitou em julgado em 29.10.2009.
+Requer a concessão de medida liminar para que seja determinada a “suspensão do curso de todos os processos administrativos no âmbito do TRT da 23ª Região que versem sobre pedido de aposentadoria especial dos agentes de segurança”, até o julgamento final da reclamação.
+No mérito, requer a procedência do pedido a fim de que seja cassada a decisão que determinou a realização da perícia.
+Na petição 34756/2010, o reclamante requer a desistência da liminar pleiteada, requerendo a procedência do pedido.
+É o relatório.
+Decido.
+A reclamação é instituto processual que possui pressupostos muito específicos e somente é cabível nas hipóteses previstas no art. 102, I, l, da Constituição, a saber: garantia da autoridade de decisão do Supremo Tribunal Federal e preservação da competência desta Corte, e, após a Emenda Constitucional 45/2004, nos termos do art. 103-A, § 3º da CF/88.
+No presente caso, o reclamante alega ofensa à decisão por mim proferida no MI 1.153. Colho do dispositivo desta decisão:
+“Do exposto, com fundamento na orientação jurisprudencial desta Suprema Corte, reconheço a mora legislativa em dar concretude ao art. 40, § 4º da Constituição Federal e concedo parcialmente a ordem, para determinar que a autoridade administrativa competente proceda à análise da situação fática dos substituídos pelo impetrante (Sindicato dos Servidores do Poder Judiciário Federal do Estado de Mato Grosso - SINDIJUFE), à luz do art. 57 da lei 8.213/1991”.
+Como se vê, esta decisão expressamente determina que a autoridade administrativa analise a situação fática dos substituídos para verificar se há o preenchimento dos requisitos legais (art. 57 da lei 8.213/1991) para a concessão da aposentadoria especial.
+O ato que se reputa ofensivo à decisão acima transcrita consiste na determinação para a realização de perícia a fim de que se verifique se, de fato, os substituídos do SINDIJUFE preenchem os requisitos legais para a obtenção da aposentadoria especial. Ora, este ato em nada ofende a decisão desta Corte no MI 1.153. Ao contrário, medida dessa natureza dá, efetivamente, cumprimento à ordem emanada desta Corte.
+Deve-se ressaltar, nesse ponto, que a jurisprudência do Supremo Tribunal Federal, em matéria de aposentadoria especial, firmou-se no sentido de que compete à autoridade administrativa analisar, no caso concreto, o preenchimento de todos os requisitos necessários para a aposentadoria especial. Confira-se:
+EMENTA: EMBARGOS DE DECLARAÇÃO NO MANDADO DE INJUNÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. APOSENTADORIA ESPECIAL DO SERVIDOR PÚBLICO. ARTIGO 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. APLICAÇÃO DO ART. 57 DA LEI N. 8.213/1991. COMPETÊNCIA DA AUTORIDADE ADMINISTRATIVA. 1. A autoridade administrativa responsável pelo exame do pedido de aposentadoria é competente para aferir, no caso concreto, o preenchimento de todos os requisitos para a aposentação previstos no ordenamento jurídico vigente. 2. Agravo regimental ao qual se nega provimento.
+(MI 1286 ED, Relator(a):  Min. Cármen Lúcia, Tribunal Pleno, julgado em 18.12.2009, DJe-030 DIVULG 18.02.2010 )
+Em outras palavras, as decisões proferidas nos milhares de mandados de injunção já julgados por esta Corte não conferem o direito à aposentadoria especial aos impetrantes ou substituídos, apenas determinam que cada situação individual seja devidamente analisada pela autoridade administrativa competente, à luz da lei 8.213/1991, até que sobrevenha a legislação regulamentadora da aposentadoria especial dos servidores públicos.
+Nessa ordem de idéias, a discussão acerca das medidas adotadas pela autoridade administrativa para verificar o cumprimento dos requisitos legais, no presente caso, em particular a necessidade ou não da perícia, foge aos estreitos limites da reclamação.
+De todo o exposto, com fundamento no art. 21, § 1º do Regimento Interno do Supremo Tribunal Federal, nego seguimento à presente reclamação.
+Publique-se.
+Comunique-se.
+Brasília, 09 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
