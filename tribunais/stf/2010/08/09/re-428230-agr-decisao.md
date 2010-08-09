@@ -1,0 +1,8 @@
+DECISÃO: Trata-se de agravo regimental contra despacho pelo qual determinei a devolução dos autos para cumprimento do disposto no art. 543-B do CPC, em virtude de repercussão geral do tema (Ação Direta de Inconstitucionalidade Estadual. Lei n. 1.952, de 20.12.95, do Município de Paulínia. Lei municipal que proíbe a queima de palha de cana-de-açúcar e o uso do fogo em atividades agrícolas. Matéria de meio ambiente. Função suplementar do município. Existência de lei estadual em sentido contrário, permitindo a queima. RE 586.224, rel. min. Eros Grau).
+Ocorre que, no recurso extraordinário no bojo do qual se interpõe o presente agravo, o debate gira em torno da legitimidade da edição, pelo município de Belo Horizonte, de normas que cominam penalidades por emissão de fumaça em desacordo com padrões estabelecidos para certa classe de veículos automotores. Essa discussão encontra-se pendente de julgamento pelo Plenário (RE 194.704, rel. min. Carlos Velloso).
+A devolução dos autos ao Tribunal de origem, em virtude de repercussão geral, é medida drástica, a ser tomada apenas quando a causa apreciada se afigure tão semelhante à do recurso paradigma que a instância ordinária, ao julgar o mérito, encontre-se em condições de reproduzir o entendimento assentado por esta Corte.
+Assim, embora o tema da competência legislativa dos municípios em matéria ambiental seja tratado em ambos os processos supramencionados, reconsidero o despacho anterior para sobrestar o presente feito até o julgamento do RE 194.704 pelo Plenário, devendo os autos aguardar na Secretaria Judiciária.
+Publique-se.
+Brasília, 09 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
