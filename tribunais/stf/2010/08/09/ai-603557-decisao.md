@@ -1,0 +1,10 @@
+DECISÃO:  Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) contra acórdão do Superior Tribunal de Justiça assim ementado:
+“TRIBUTÁRIO. ICMS. VENDA DE GADO. FALTA DE RECOLHIMENTO PELO COMPRADOR. EXIGÊNCIA FISCAL INDEVIDAMENTE DIRIGIDA AO VENDEDOR. 1. Realizada compra e venda de bovinos, cumpre ao vendedor, depois de exigida e apresentada a documentação necessária, emitida a respectiva nota fiscal e recebido o preço, apenas respeitar a avença e remeter a mercadoria, não lhe cabendo questionar acerca do destino conferido ao produto alienado. Se o comprador não foi o real destinatário, não pode o vendedor ser responsabilizado pelo crédito tributário reclamado pelo Fisco. 2. Recurso especial provido” (fls. 206).
+Insurge-se o recorrente sob a alegação de violação dos arts. 5º, LIV e LV, e 105, III. Argumenta que o acórdão reexaminou, em sede de recurso especial, fatos e provas, de tal que sorte que, ao conhecer e dar provimento ao recurso, teria ofendido o texto constitucional, a súmula 7 do Superior Tribunal de Justiça e a 279 do Supremo Tribunal Federal.
+Inexiste a alegada violação do art. 5º, LIV e LV, da Constituição, pois o acórdão recorrido, ao julgar o recurso interposto, inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa.
+No que tange à alegada ofensa ao art. 105, III, da Constituição, ambas as Turmas do Supremo Tribunal Federal têm reiteradamente decidido que as questões relativas à admissibilidade do recurso especial constituem matéria infraconstitucional, de competência do Superior Tribunal de Justiça, salvo hipóteses excepcionais em que seja possível vislumbrar um conflito direto com as premissas estabelecidas no art. 105, III, da Constituição (AI 442.654-AgR, rel. min. Celso de Mello, Segunda Turma, DJ de 11.06.2004, e AI 394.048-AgR, rel. min. Sydney Sanches, Primeira Turma, DJ de 22.11.2002). Isso não ocorreu no presente caso.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 9 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
