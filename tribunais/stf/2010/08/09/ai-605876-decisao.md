@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) que indica violação dos arts. 5º, II, e 202, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 460):
+“PREVIDÊNCIA PRIVADA. PREVI. EXPURGOS INFLACIONÁRIOS. DEVOLUÇÃO. POSSIBILIDADE. UTILIZAÇÃO DO IPC. CONTRIBUIÇÃO PATRONAL. RESTITUIÇÃO. IMPOSSIBILIDADE.
+I - Os valores a serem restituídos aos participantes, quando desligados da entidade, devem ser corrigidos mediante a aplicação do IPC, índice que melhor refletiu a inflação no período.
+II - A contribuição feita pelo Banco do Brasil em favor da PREVI – Caixa de Previdência dos Funcionários do Banco do Brasil - não representa salário indireto para os associados. As contribuições das patrocinadoras são decorrentes da relação existente entre a PREVI e o Banco do Brasil, mediante a qual este último verte 2/3 do total devido para o fundo de pensão, a fim de, dentre outros, atender às necessidades de complementação de aposentadoria do funcionário. Em outras palavras, trata-se, na verdade, de outra classe de contribuições, decorrente de outra relação jurídica estabelecida entre o empregador e o fundo, não atingindo o associado individualmente.”
+É o relatório. Decido.
+Verifico que o acórdão atacado no recurso extraordinário se fundamenta na aplicação de normas infraconstitucionais. Esse fundamento da decisão foi atacado em recurso especial ao qual, no entanto, foi negado seguimento, não tendo notícia da interposição do agravo de instrumento para o Superior Tribunal de Justiça. Portanto, há, na decisão atacada no recurso, fundamento infraconstitucional não afastado pela via própria do recurso especial (Súmula 283/STF).
+E ainda que superado óbice supra, a análise das apontadas violações ao texto da Constituição demandaria o exame prévio da legislação infraconstitucional, do estatuto da entidade e do contrato. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide nas Súmulas 279, 454 e 636 desta Corte.
+Ademais, esta Corte reafirmou a jurisprudência ao rejeitar a existência de repercussão geral do tema, por ausência de matéria constitucional, conforme se depreende da ementa do RE 582.504-RG (rel. min. Cezar Peluso, DJe de 09.10.2009):
+“EMENTA: RECURSO. Extraordinário. Incognoscibilidade. Plano de previdência privada. Resgate das contribuições. Índices de correção. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão de resgate de contribuição de plano de previdência privada, versa sobre matéria infraconstitucional.”
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 9 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
