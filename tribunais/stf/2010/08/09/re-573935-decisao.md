@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) que tem como violado o art. 37, II e IX, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 120):
+“AÇÃO DE COBRANÇA - FUNCIONÁRIA MUNICIPAL - PROFESSORA - DISPENSA - PAGAMENTO - INEXISTÊNCIA. Mesmo que a relação de trabalho não ocorra de forma regular, este fato não autoriza o trabalho escravo, não autoriza o trabalho sem a devida contraprestação remuneratória, sob pena de agasalhar o enriquecimento ilícito e beneficiar a própria torpeza da Administração Pública municipal. Férias e 13º salário, conforme incisos VII e IX do art. 6º são expressamente assegurados ao trabalhadores em geral - art. 7º da CF, bem como aos servidores públicos, de acordo com o art. 39, §3º, estendendo-se aos servidores contratados, por força do princípio da isonomia, figurando-se inconstitucional e ilegal toda e qualquer pactuação colidente com os seus direitos. A prova de pagamento, a teor do artigo 319 e seguintes do Código Civil, exige quitação regular, não admitindo presunção, recaindo no devedor o ônus de demonstrá-la, de forma efetiva e robusta. Na distribuição do ônus da prova, o legislador determinou, a teor do art. 333 do CPC, que cada parte envolvida na demanda, traga aos autos os pressupostos fáticos do direito que pretenda seja aplicado na prestação jurisdicional invocada.”
+Sustenta-se no recurso extraordinário que é indevido o pagamento de outras parcelas, além do salário, porque o contrato é nulo.
+É o relatório. Decido.
+Não obstante a nulidade do contrato de trabalho, a Administração não deve se eximir do pagamento de salários, o que, do contrário, configuraria enriquecimento ilícito do ente público.
+Em casos análogos, a Corte tem sistematicamente decidido que o único efeito jurídico válido é a percepção dos salários, visto que a nulidade do contrato de trabalho não gera efeitos trabalhistas. Nesse sentido: AI 322.524-AgR (rel. min. Celso de Mello, Segunda Turma, DJ de 19.12.2002), AI 361.878-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 23.04.2004), AI 497.984-AgR (rel. min. Carlos Britto, Primeira Turma, DJ de 30.09.2005), RE 454.409-AgR (rel. min. Carlos Britto, Primeira Turma, DJ de 16.12.2005), AI 221.454-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 03.02.2006) e AI 680.939-AgR (rel. min. Eros Grau, Segunda Turma, DJe de 01.02.2008).
+Dessa orientação divergiu o acórdão recorrido.
+Assim, a indenização haverá de se restringir à percepção do saldo de salários correspondentes à função exercida de forma indevida e pelos dias efetivamente trabalhados.
+Do exposto, dou provimento ao recurso extraordinário, para restabelecer a sentença.
+Publique-se.
+Brasília, 9 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
