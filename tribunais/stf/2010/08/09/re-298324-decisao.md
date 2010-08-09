@@ -1,0 +1,31 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão do Superior Tribunal de Justiça que concedera mandado de segurança para determinar a transposição dos recorridos, fiscais do trabalho, para os cargos de assistente jurídico da Advocacia-Geral da União. O acórdão está assim redigido:
+“ADMINISTRATIVO. ASSISTENTES JURÍDICOS. CONCURSO INTERNO. TRANSPOSIÇÃO A CARREIRA DA ADVOCACIA-GERAL DA UNIÃO.
+- O ordenamento jurídico constitucional anterior admitia, em tema de provimento de cargos e empregos públicos, a investidura mediante os institutos da promoção e da ascensão, forma derivadas de provimento de cargos.
+- Após a promulgação da nova Carta Magna, o Supremo Tribunal Federal consagrou o entendimento de que a investidura em cargo público efetivo, não importando se isolado ou em carreira, submete-se a exigência de prévio concurso público, sendo vedado o provimento mediante ascensão funcional.
+- Realizado concurso interno sob à égide da ordem constitucional anterior, a investidura no cargo de Assistentes Jurídicos por força do instituto da ascensão funcional enquadra-se, com todas as letras, na situação prevista no artigo 19, I, da Lei nº 9.028/1995, que assegura a transposição ao quadro da Advocacia-Geral da União.”  (Fls. 188)
+Alega a parte recorrente violação dos artigos 5º, XXXVI, LV e 37, caput e inciso II, da Constituição federal.
+ Não prospera o recurso.
+ Entendo insubsistentes as supostas afrontas às garantias do contraditório e da ampla defesa, pois as partes tiveram acesso a todos os meios legais de impugnação e viram examinados todos os seus argumentos.
+ Verifico, ainda, deficiência na fundamentação da suposta ofensa ao art. 5º, XXXVI, circunstancia que inviabiliza a compreensão da controvérsia, impondo-se a aplicação da Súmula 284 do Supremo Tribunal Federal.
+Anoto, ainda, que o recurso extraordinário, ao alegar que o acórdão recorrido ofende o disposto no art. art. 37, caput, da Constituição (princípios da legalidade e moralidade), versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Rejeito, por fim, a alegação de ofensa ao artigo 37, II, da Constituição.
+É certo que esta Corte já firmou entendimento de que após a promulgação da Constituição de 1988, não mais se admite a ascensão funcional e que é imprescindível a aprovação em concurso público para o provimento em cargo público. Confira-se a seguinte ementa:
+“Ação direta de inconstitucionalidade. Ascensão ou acesso, transferência e aproveitamento no tocante a cargos ou empregos públicos.
+- O critério do mérito aferível por concurso público de provas ou de provas e títulos é, no atual sistema constitucional, ressalvados os cargos em comissão declarados em lei de livre nomeação e exoneração, indispensável para cargo ou emprego público isolado ou em carreira. Para o isolado, em qualquer hipótese; para o em carreira, para o ingresso nela, que só se fará na classe inicial e pelo concurso público de provas ou de provas e títulos, não o sendo, porém, para os cargos subseqüentes que nela se escalonam até o final dela, pois, para estes, a investidura se fará pela forma de provimento que é a ‘promoção’.
+- Estão, pois, banidas das formas de investidura admitidas pela Constituição a ascensão e a transferência, que são formas de ingresso em carreira diversa daquela para a qual o servidor público ingressou por concurso, e que não são, por isso mesmo, ínsitas ao sistema de provimento em carreira, ao contrário do que sucede com a promoção, sem a qual obviamente não haverá carreira, mas, sim, uma sucessão ascendente de cargos isolados.
+- O inciso II do artigo 37 da Constituição Federal também não permite o ‘aproveitamento’, uma vez que, nesse caso, há igualmente o ingresso em outra carreira sem o concurso exigido pelo mencionado dispositivo.
+Ação direta de inconstitucionalidade que se julga procedente para declarar inconstitucionais os artigos 77 e 80 do Ato das Disposições Constitucionais Transitórias do Estado do Rio de Janeiro.” (ADI 231, rel. min. Moreira Alves, DJ de 13.11.1992)
+Nesse sentido: ADI 837, rel. min. Moreira Alves, DJ de 25.06.1999 e ADI 3.030, rel. min. Carlos Velloso, DJ de 18.03.2005.
+Não obstante tal posicionamento, a Segunda Turma, no julgamento do RE 442.683, rel. min. Carlos Velloso, julgou pela manutenção das nomeações realizadas até 1992, por considerar que até a referida data, esta Corte ainda não havia pacificado entendimento sobre o tema. Transcrevo a ementa:
+ “CONSTITUCIONAL. SERVIDOR PÚBLICO: PROVIMENTO DERIVADO: INCONSTITUCIONALIDADE: EFEITO EX NUNC. PRINCÍPIOS DA BOA-FÉ E DA SEGURANÇA JURÍDICA.
+I. – A Constituição de 1988 instituiu o concurso público como forma de acesso aos cargos públicos. CF, art. 37, II. Pedido de desconstituição de ato administrativo que deferiu, mediante concurso interno, a progressão de servidores públicos. Acontece que, à época dos fatos – 1987 a 1992 -, o entendimento a respeito do tema não era pacífico, certo que, apenas em 17.02.1993, é que o Supremo Tribunal Federal suspendeu, com efeito ex nunc, a eficácia do art. 8º, III; art. 10, parágrafo único; art. 13, § 4º; art. 17 e art. 33, IV, da Lei 8.112, de 1990, dispositivos esses que foram declarados inconstitucionais em 27.8.1998: ADI 837/DF, Relator o Ministro Moreira Alves, DJ de 25.6.1999.
+II. – Os princípios da boa-fé e da segurança jurídica autorizam a adoção do efeito ex nunc para a decisão que decreta a inconstitucionalidade. Ademais, os prejuízos que adviriam para a Administração seriam maiores que eventuais vantagens do desfazimento dos atos administrativos.
+III. – Precedentes do Supremo Tribunal Federal.
+IV. – RE conhecido, mas não provido.”
+No mesmo sentido: AI 633.612, rel. min. Ricardo Lewandowski, DJ de 18.04.2007; RE 392.164, rel. min. Gilmar Mendes, DJe de 02.04.2008 e RE 585.802, rel. min. Celso de Mello, DJe de 04.02.2009.
+Assinalo, outrossim, que segundo o que consta dos autos todas as ascensões funcionais ocorreram antes de 1993 (fls.24/27).
+Do exposto, nego seguimento ao presente recurso extraordinário.
+ Publique-se.
+ Brasília, 9 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
