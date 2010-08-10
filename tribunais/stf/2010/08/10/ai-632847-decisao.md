@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de agravo de instrumento interposto contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) o qual tem como violado o art. 150, § 7º, da Constituição federal.
+O acórdão recorrido considerou inválido o cálculo do Imposto sobre Circulação de Mercadorias e Serviços – ICMS baseado na utilização de pautas fiscais, na medida em que ao contribuinte teria sido negada a oportunidade para insurgir-se adequadamente contra os valores fixados. Assim, o Tribunal de origem concedeu parcialmente a ordem, para determinar que o cálculo do ICMS seguisse o valor registrado nas respectivas notas fiscais.
+Nos termos da regra da legalidade e dos princípios da capacidade contributiva e da vedação do uso de tributo com efeito de confisco (arts. 145, § 1º, 150, I e IV da Constituição), o cálculo do valor devido a título de tributo deve guardar estrita correspondência com a grandeza econômica expressa no fato gerador. A utilização de presunções e ficções legais somente tem cabimento nas hipóteses expressamente autorizadas em lei e, em princípio, não podem exasperar a carga tributária de modo a anular ou amesquinhar a vantagem econômica proveniente da atividade.
+Em outras palavras, a utilização da pauta fiscal deve ser motivada, e faz parte de tal motivação registro da idoneidade dos meios utilizados para se chegar aos valores presumidos para compor a base de cálculo do tributo.
+A estrita pertinência entre o valor presumido e a expressão econômica do fato gerador já estava presente por ocasião do julgamento da ADI 1.851 (rel. min. Ilmar Galvão). Para ilustrar, aponto os seguintes trechos do voto do ministro-relator:
+“Trata-se de regime [refere-se à substituição tributária] a que, na prática, somente são submetidos produtos com preço de revenda final previamente fixado pelo fabricante ou importador , como é o caso de veículos e cigarros; ou tabelados pelo Governo, como acontecia até recentemente com os combustíveis, e como acontece com a energia elétrica etc.; razão pela qual só eventualmente poderão verificar-se excessos de tributação.
+[...]
+Ao fazê-lo [instituir o regime de substituição tributária], cuidou o legislador de prefixar uma base de cálculo cuja estimativa se aproxime o mais possível da realidade, ajustando o respectivo valor às leis do mercado, para não onerar o contribuinte e tampouco prejudicar o Fisco.
+[...]
+A escolha da fase preliminar resulta, assim, de opção legislativa, mas não é arbitrária, porque só tem cabimento se o evento assim considerado atender ao requisito da necessidade em relação ao evento final (inexistindo este inexistirá o fato gerador); se o referido evento já apresenta elementos que permitam prever com certo grau de certeza o evento final (fato gerador); e se a dimensão pecuniária imposta no momento da antecipação é proporcional à dimensão final que resultará da ocorrência do fato tributável”. (grifei).
+Em nenhum momento esta Corte chancelou qualquer caráter absoluto para a pauta fiscal, ao arbítrio do ente tributante.
+No caso em exame, o acórdão recorrido registra expressamente a inadequação dos valores eleitos para figurar na pauta fiscal:
+“Como visto do Procedimento Administrativo colacionado aos autos, a autoridade coatora ao ser requestada a se manifestar, quedou-se inerte, sem elucidar a sua decisão. Se não bastasse, em nenhum momento não [sic] teve a impetrante oportunidade de exercer o contraditório e a ampla defesa.
+[...]
+Por fim, infere-se que a autoridade coatora, por mais vezes editou novas Portarias alterando os valores dos itens da pauta fiscal, sem critério econômico-financeiro, num intervalo de apenas 2 meses, como se vê das Portarias nsº 096/05 e 110/2005 (fls. 346/347). O que demonstra a insubsistência dos seu ato” (Fls. 80-81)
+Assim, nos termos pretendidos pelo estado-agravante, a reforma do acórdão recorrido pressupõe reexame dos fatos e provas que fundamentaram a decisão. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Ante o exposto, com base no art. 557, caput, do Código de Processo Civil, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 10 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
