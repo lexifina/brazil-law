@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido porta a seguinte ementa:
+“AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS.
+1. De acordo com a súmula nº 221 do eg. STJ: 'São civilmente responsáveis pelo ressarcimento do dano, decorrente de publicação pela imprensa, tanto o autor do escrito quanto o próprio proprietário do veículo de divulgação'. (...)..” (fl. 012).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, IV, IX e XIV, e 220, § 1º, da mesma Carta.
+O agravo não merece acolhida. Isso porque, para se chegar à conclusão contrária à adotada pelo acórdão recorrido , necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, confiram-se os seguintes julgados do Supremo Tribunal Federal:
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. OFENSA VEICULADA EM MATÉRIA JORNALÍSTICA. DANO MORAL. ART. 5º, I E X, CF/88. AUSÊNCIA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DO PREQUESTIONAMENTO IMPLÍCITO. LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULA STF 279. PRECEDENTES. 1. O dispositivo constitucional tido como violado não foi prequestionado pelo acórdão recorrido, ao qual não foram opostos embargos de declaração. Incidência das Súmulas STF 282 e 356. 2. O Supremo Tribunal não admite o "prequestionamento implícito" da questão constitucional. Precedentes. 3. É inadmissível recurso extraordinário no qual, a pretexto de ofensa a princípios constitucionais, pretende-se a análise de legislação infraconstitucional. Precedentes. 4. Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 5º, I e X, da Constituição Federal. 5. Agravo regimental improvido.” (AI 704.590-AgR/RJ, Rel. Min. Ellen Gracie, Segunda Turma).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.” (RE 541.739 Ag.R/SP, Rel. Min. Cármen Lúcia).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 10 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
