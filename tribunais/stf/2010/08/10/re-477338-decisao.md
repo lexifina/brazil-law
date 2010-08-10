@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça do Estado do Ceará cuja ementa possui o seguinte teor:
+“APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA - ARGUIÇÃO DE INCONSTITUCIONALIDADE DA LEI MUNICIPAL Nº 8.127/97 QUE INSTITUIU A COBRANÇA DA TAXA DE TURISMO – RECONHECIMENTO DA INCONSTITUCIONALIDADE MANEJADA HAJA VISTA FALTAR A ESPECIFICAÇÃO DOS SERVIÇOS POSTOS À DISPOSIÇÃO DOS TURISTAS – CONSTATAÇÃO DA AUSÊNCIA DA BASE DE CÁLCULO DO REFERIDO TRIBUTO – AFRONTA AOS PRICNÍPIOS DA ISONOMIA – CONSIDERAÇÃO DO PRINCÍPIO DA CAPACIDADE CONTRIBUTIVA, O QUAL NÃO PODE SER ADOTADO NAS TAXAS.” (fls. 143)
+O Município de Fortaleza alega violação do disposto nos arts. 5º, XXI e LXX, b, e 145, II, da Carta Magna.
+Quanto à questão da legitimidade da recorrida para impetrar mandado de segurança coletivo, saliento que a matéria é objeto da Súmula 629 desta Corte:
+“A impetração de mandado de segurança coletivo por entidade de classe em favor dos associados independe da autorização destes.”
+Cito, ainda, na linha da jurisprudência da Corte, as seguintes decisões monocráticas: RE 242.172, rel. min. Carlos Britto, DJe 16.09.2009; AI 650.404, rel. min. Ricardo Lewandowski, DJ 05.06.2007; AI 642.063, rel. min. Sepúlveda Pertence, DJ 28.03.2007.
+Quanto à questão de fundo, verifico que a controvertida declaração de inconstitucionalidade foi proferida por órgão fracionário do Tribunal de origem. Com efeito, o que em verdade pretende o recorrente é a revisão de uma decisão proferida no controle difuso de constitucionalidade. De se notar que o cabimento do recurso nessa hipótese pressupõe a observância do procedimento preconizado pelo art. 97 da Carta Magna. Assim, o que poderia e deveria ter sido questionado com base na alínea a do permissivo constitucional - e, diga-se, não o foi - é se o procedimento adotado pelo acórdão recorrido observou o princípio da reserva de plenário, a que se refere o já citado dispositivo constitucional. É o que se extrai da jurisprudência da Corte:
+“EMENTA: AGRAVO REGIMENTAL. INCONSTITUCIONALIDADE DECLARADA POR ÓRGÃO FRACIONÁRIO DO TRIBUNAL A QUO. Caso em que a jurisprudência desta colenda Corte é firme no sentido de apenas admitir o recurso extraordinário com fundamento na alínea ‘a’ por violação ao art. 97 da Carta Magna. Precedente: RE 342.249-AgR, Relatora Ministra Ellen Gracie. Agravo regimental desprovido. ” (RE 254.977-AgR, rel. min. Carlos Britto, Primeira Turma, DJ de 13.02.2004)
+No mesmo sentido, os seguintes precedentes: AI 473.019-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 23.04.2004), AI 467.694-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJ de 27.02.2004) e RE 342.249-AgR (rel. min. Ellen Gracie, Primeira Turma, DJ de 04.10.2002).
+Ante o exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 10 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
