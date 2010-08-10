@@ -1,0 +1,11 @@
+DECISÃO : Em face das considerações constantes da petição de fls. 133-140, e com base no art. 557, § 1º, do Código de Processo Civil, e no art. 317, § 2º, do Regimento Interno do Supremo Tribunal Federal, bem assim considerando o entendimento firmado por esta Corte no sentido da possibilidade de o viúvo receber o benefício da pensão por morte da esposa, reconsidero a decisão agravada (fls. 128), tornando-a sem efeito.
+Passo ao reexame do agravo de instrumento.
+Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário formado contra acórdão que deferiu pedido de pensão a viúvo sadio - com base nos arts. 5º, I e 201, V, da Constituição Federal -, em razão do falecimento da esposa-segurada.
+O Plenário do Supremo Tribunal Federal, no julgamento do RE 385.397, rel. min. Sepúlveda Pertence, analisando norma da lei estadual mineira (Lei 9.380/86, art. 7º, I) decidiu que “a referida lei estadual, ao exigir do marido, para receber a pensão por morte da mulher, a condição de invalidez, seria inconstitucional por afronta ao princípio da isonomia”. Assentou também “não se tratar de estender ao cônjuge varão a presunção de dependência que favorece a mulher, mas de não se impor a exigência de invalidez comprovada, por se mostrar desarrazoada”. Na mesma oportunidade salientou não ser “o caso de se invocar o texto do art. 195, § 5º ou do art. 201, V, da CF, já que a esposa do recorrente falecera antes da promulgação da EC 20/98, que incluiu o §12 no art. 40, mas de se considerar apenas a redação do art. 40 antes dessa emenda, que definia a correspondência entre o valor da pensão e a totalidade dos vencimentos ou proventos do servidor falecido, sem se referir a outras questões, tais como possíveis beneficiários da pensão por morte” (Informativo 473, de 1º.08.2007).
+Destaco, outrossim, que o óbito da ex-servidora deu-se antes da promulgação da EC 20/98.
+Esse entendimento vem sendo adotado por ambas as Turmas, conforme se verifica dos seguintes julgados: RE 605.654-AgR, rel. min. Eros Grau, Segunda Turma, DJe, 21.05.2010; e RE 499.551-AgR, rel. min. Carlos Britto, Primeira Turma, DJe 14.08.2009.
+Do exposto, nego seguimento ao presente recurso.
+Publique-se.
+Brasília, 10 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
