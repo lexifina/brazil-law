@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de mandado de injunção, impetrado por Ivan Cardoso de Melo, contra suposta omissão na regulamentação do disposto no artigo 5º, LXXIV, da Constituição da República.
+Segundo o impetrante, “a Defensoria está atendendo sem comprovar a carência dos seus clientes e vem fazendo concorrência desleal com a advocacia privada” (fl. 3).
+Nesse sentido, requer a concessão da ordem “para dar eficácia plena à garantia constitucional da regulamentação dos critérios para que a pessoa FÍSICA ou JURÍDICA comprove ter direito à assistência jurídica (renda e documentos), bem como permitir à advocacia privada atendê-los em face da livre concorrência” (fl. 7).
+Passo a decidir.
+Segundo dispõe o artigo 5º, LXXI, da Constituição, o mandado de injunção tem por objeto a proteção de direitos e liberdades constitucionais e de prerrogativas inerentes à nacionalidade, à soberania e à cidadania, cujo exercício seja inviabilizado por falta de norma regulamentadora.
+O dispositivo constitucional cuja falta de regulamentação é afirmada na inicial possui o seguinte teor:
+“LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos;”
+No presente caso, não há qualquer alegação que indique estar o impetrante inviabilizado de exercer direito ou prerrogativa decorrente da referida norma.
+O mandado de injunção há de ter por objeto o não-cumprimento de dever constitucional de legislar que, de alguma forma, afeta direitos constitucionalmente assegurados (falta de norma regulamentadora que torne inviável o exercício de direitos e liberdades constitucionais e das prerrogativas inerentes à soberania e à cidadania).
+Assim, possuem legitimação ativa para a impetração do writ os titulares de direitos subjetivos constitucionais relacionados às liberdades fundamentais, à nacionalidade, à soberania ou à cidadania.
+Pressuposto de cabimento do mandado de injunção, portanto, não é apenas a possível configuração de um direito fundamental cujo exercício seja inviável diante da ausência de norma regulamentadora, mas a própria legitimidade ativa do impetrante decorrente da titularidade direta do direito constitucional em questão. Cite-se, nesse particular, o seguinte precedente:
+“Constitucional. Mandado de Injunção. Seguimento Negado pelo Relator. Competência do Relator (RI/STF, art. 21, par 1º; Lei n. 8.038, de 1.990, art. 38): Constitucionalidade. Pressupostos do Mandado de Injunção. Legitimidade Ativa. I. É legitima, sob o ponto de vista constitucional, a atribuição conferida ao Relator para arquivar ou negar seguimento a pedido ou recurso intempestivo, incabível ou improcedente e, ainda, quando contrariar a jurisprudência predominante do Tribunal ou for evidente a sua incompetência (RI/STF, art. 21, par 1.; Lei n. 8.038/90, art. 38), desde que, mediante recurso -- agravo regimental -- possam as decisões ser submetidas ao controle do colegiado. II. A existência de um direito ou liberdade constitucional, ou de uma prerrogativa inerente a nacionalidade, a soberania ou a cidadania, cujo exercício esteja inviabilizado pela ausência de norma infraconstitucional regulamentadora, constitui pressuposto do mandado de injunção. III. Somente tem legitimidade ativa para a ação o titular do direito ou liberdade constitucional, ou de prerrogativa inerente a nacionalidade, a soberania e a cidadania, cujo exercício esteja inviabilizado pela ausência da norma infraconstitucional regulamentadora. IV. Inocorrência, no caso, do pressuposto de inviabilização de exercício de prerrogativa constitucional. V. Agravo regimental improvido” (MI-AgR 375, Rel. Min. Carlos Velloso, DJ 15.5.1992, grifou-se).
+Não há, portanto, interesse de agir apto a legitimar a presente impetração.
+Ante o exposto, nego seguimento ao presente mandado de injunção (art. 21, § 1º, do RI/STF).
+Publique-se.
+Brasília, 10 de agosto de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
