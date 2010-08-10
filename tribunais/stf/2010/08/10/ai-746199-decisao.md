@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“AGRAVO REGIMENTAL. RECURSO PARCIALMENTE PROVIDO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. I – Limitando-se o agravante a reiterar razões já examinadas em sede da decisão que deu parcial provimento ao apelo, mantém-se o ato, máxime se não demonstrado fato novo a embasar o agravo. Precedente. II. Agravo improvido” (fl. 216)
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, LV, da mesma Carta.
+O agravo não merece acolhida. Isso porque, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso e AI 450.519-AgR/SP, Rel. Min. Celso de Mello, que segue ementado:
+“AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, XXXV, LIV E LV, E NO ART. 93, IX, TODOS DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. - As alegações de desrespeito aos postulados da inafastabilidade do controle jurisdicional, do devido processo legal, da motivação dos atos decisórios e da plenitude de defesa, por dependerem de exame prévio e necessário da legislação comum, podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes.”
+Além disso, para dissentir da conclusão a que chegou o acórdão recorrido, necessário seria o reexame do conjunto fático-probatório dos autos constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 10 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
