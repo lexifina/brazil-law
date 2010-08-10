@@ -1,0 +1,11 @@
+DECISÃO:  Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, o qual reconhecera que a estabilidade da gestante, prevista na Constituição, não alcançaria detentoras de cargo em comissão. Eis a ementa:
+“ADMINISTRATIVO – CARGO EM COMISSÃO – GESTANTE – AUSÊNCIA DE GARANTIA À ESTABILIDADE – POSSIBILIDADE DE A DETENTORA DE CARGO EM COMISSÃO SER EXONERADA EM ESTADO DE GRAVIDEZ – INAPLICABILIDADE À ESPÉCIE DO ART. 10, II, “B”, DO ADCT – PRECEDENTES DESTA CORTE SOBRE O TEMA.
+Apelo desprovido. ”(Fls. 169)
+Nas razões de recurso extraordinário, a recorrente aponta violação do disposto nos artigos 1º, IV; 5º, caput e § 2º; 7º, XVIII; 39, § 3º; 170, caput; 193, caput; 201, II, da Constituição e art. 10, II, “b”, do ADCT/88. Assevera que “(...) mesmo que a recorrente não tivesse direito a permanecer no cargo de confiança, faz jus, no entanto, à indenização ao período estabilitário previsto constitucionalmente para a empregada gestante que é aquele desde a data da confirmação da gravidez até cinco (5) meses após o parto (ADCTCF/88, art. 10, II, B) que, no presente caso, corresponde a um período de TREZE (13) MESES, como, aliás, demonstrado na peça vestibular.” (Fls. 186).
+ O recurso merece provimento.
+ A jurisprudência do Supremo Tribunal Federal tem se orientado no sentido de que as servidoras públicas, mesmos as ocupantes de cargo em comissão, têm direito ao benefício da estabilidade no período gestacional. Nesse sentido: RMS 24.263, rel. min. Carlos Velloso, DJ de 09.05.2003; RE 509.775, rel. min. Cármem Lúcia, DJe de 20.05.2010; AI 720.385, rel. min. Ellen Gracie, DJe de 12.02.2010; RE 580.566, rel. min. Ayres Britto, DJe de 03.03.2010; RE 520.077, rel. min. Gilmar Mendes, DJ de 23.02.2007; RE 590.893, rel. min. Eros Grau, DJe de 03.09.2008 e RE 597.807, rel. min. Celso de Mello, DJe de 17.04.2009.
+Do exposto, dou provimento ao recurso para reconhecer à parte ora recorrente o direito à indenização pleiteada. Condeno o recorrido no pagamento das custas e honorários advocatícios que fixo em 10% sobre o valor da condenação.
+Publique-se.
+Brasília, 10 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
