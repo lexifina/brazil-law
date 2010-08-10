@@ -1,0 +1,18 @@
+DECISÃO: Recebo os presentes embargos de declaração como agravo regimental.
+Trata-se de agravo regimental contra decisão que deu parcial provimento a recurso extraordinário interposto de acórdão que versa sobre extensão, a servidores inativos, da Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA, a partir da Lei 10.404/2002.
+O Juizado Especial Federal Cível do Distrito Federal julgou parcialmente procedente o pedido inicial para condenar a União a corrigir a pontuação da parte autora, para fins da gratificação em exame, em 37,5 pontos.
+A Turma Recursal, apreciando recursos de ambas as partes, a eles deu parcial provimento, para reformar a sentença e fixar a GDATA em 60 pontos e os juros de mora no percentual de 0,5% ao mês, a partir da citação.
+Houve embargos de declaração, os quais foram rejeitados.
+Em recurso extraordinário, requereu a União que o pagamento aos inativos da Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA se desse no patamar de 10 (dez) pontos.
+A esse recurso dei parcial provimento, para que a GDATA fosse deferida à parte autora nos valores correspondentes a 30 pontos no período de fevereiro a maio de 2002; a 10 pontos, no período de junho de 2002 a abril de 2004, e a 30 pontos, no período de maio de 2004 até a entrada em vigor da Medida Provisória 198/2004.
+Conforme consignei na decisão agravada, o Plenário do Supremo Tribunal Federal, no julgamento do RE 476.279, rel. min. Sepúlveda Pertence, fixou o entendimento de que a Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA é devida “aos inativos, nos valores correspondentes a 37,5 pontos, no período de fevereiro a maio de 2002, e nos termos do art. 5º, parágrafo único, da Lei 10.404/2002, para o período de junho de 2002 até a chamada ‘conclusão dos efeitos do último ciclo de avaliação’, a que se refere o art. 1º da Medida Provisória 198/2004, convertida na Lei 10.971/2004, a partir da qual passa a ser de 60 pontos”, em observância ao disposto no art. 40, § 8º, da Constituição federal (na redação da EC 20/1998) e na regra de transição contida no art. 7º da EC 41/2003.
+Em 19.02.2009, o Tribunal Pleno, apreciando o RE 597.154 (rel. min. Gilmar Mendes), reconheceu a existência de repercussão geral da matéria em debate e reafirmou o entendimento já consolidado.
+Essa orientação deu origem à Súmula Vinculante 20, cuja proposta fora aprovada em 29.10.2009.
+No caso em exame, verifica-se que a intimação do acórdão recorrido se deu em data anterior ao marco inicial fixado para a exigência de demonstração da existência de repercussão geral.
+Em agravo regimental, alega-se a existência de incoerência no julgado, uma vez que, apesar de se adotar como fundamento a orientação firmada pelo Plenário do STF no julgamento do RE 476.279, fixou-se pontuação diversa da estabelecida no mencionado precedente.
+Com razão, em parte, a agravante.
+Do exposto, com base no art. 557, § 1º, do Código de Processo Civil e no art. 317, § 2º, do RISTF, reconsidero a decisão de fls. 131 para retificar a parte dispositiva, que passa a ter a seguinte redação: Do exposto, dou parcial provimento ao recurso extraordinário para que a GDATA seja concedida à parte autora nos valores correspondentes a 37,5 pontos, no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei nº 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo da avaliação a que se refere o artigo 1º da Medida Provisória nº 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.
+Publique-se.
+Brasília, 10 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
