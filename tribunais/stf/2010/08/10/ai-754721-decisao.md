@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) que indica violação dos arts. 5º, II, XXXV e XXXVI e 7º, I, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 180):
+“AGRAVO DE INSTRUMENTO. APOSENTADORIA ESPONTÂNEA. EXTINÇÃO DO CONTRATO DE TRABALHO. Não demonstrada violação direta e literal de preceito constitucional, de dispositivo de lei federal, ou a existência de teses diversas na interpretação de um mesmo dispositivo legal, não há como se determinar o seguimento do Recurso de Revista com fundamento nas alíneas “a” e “c” do artigo 896 da Consolidação das Leis do Trabalho. Agravo de Instrumento não provido.”
+Sustenta-se no recurso extraordinário que o Tribunal a quo, ao indeferir a condenação ao pagamento das verbas rescisórias, deixou de reconhecer a unicidade contratual.
+É o relatório. Decido.
+Consigno trecho do acórdão (fls. 184):
+“Com efeito, o entendimento do Regional relativo aos efeitos da aposentadoria espontânea encontrava, até pouco tempo, ressonância na OJ 177 da SBDI-1 do TST. Contudo, em sessão realizada em 25 do outubro de 2006, o Pleno do TST cancelou a referida Orientação Jurisprudencial motivado pela decisão proferida pelo Pleno do excelso Supremo Tribunal Federal no julgamento da ADI 1721-3, de relatoria do Ministro Carlos Ayres Brito, segundo o qual a aposentadoria não põe fim ao contrato de trabalho e, se o Reclamante opta por permanecer no emprego, a rescisão contratual deverá obedecer à legislação de regência.
+Assim, não socorre ao Reclamante a alegação de que faria jus às verbas rescisórias do segundo contrato, pois além de não haver prova nos autos de que tenha ocorrido a continuidade do vínculo empregatício e existido um segundo contrato, com o cancelamento da a OJ 177 da SBDI-1 do TST restou superado o entendimento de que a aposentadoria extingue o contrato de trabalho e faz surgir um segundo contrato.”
+Verifico, portanto, que o Tribunal a quo observou a jurisprudência desta Corte, firmada a partir do julgamento da ADI 1.721.
+Ademais, impossível chegar a conclusão diversa sem o reexame dos fatos e provas e da legislação infraconstitucional, o que dá margem ao descabimento do recurso extraordinário. Incide nas Súmulas 279 e, mutatis mutandis, 636 desta Corte.
+Por fim, a controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 10 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
