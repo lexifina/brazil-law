@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1063, de 10 de agosto de 2010
+Dispõe sobre procedimentos a serem adotados na coleta, prazo de guarda, destinação de amostras e emissão de laudo técnico resultante de exame laboratorial de mercadoria importada ou a exportar.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no inciso IV do art. 808 e no art. 813 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
