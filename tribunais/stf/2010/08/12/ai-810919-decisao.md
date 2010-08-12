@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“IPERJ. Pensão previdenciária. Morte de servidor. Percentual que há de ser de 100% dos ganhos auferidos pelo servidor quando do seu falecimento. ATS devido segundo o percentual na data do óbito. Auxílio moradia que não integra a base da remuneração, pois ostente caráter indenizatório. Improvimento dos recursos” (fl. 210).
+No RE, fundado com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 37, XI e 40, §§ 7º e 8º, da mesma Carta.
+O agravo não merece acolhida. Bem examinados os autos, verifico que a agravante não atacou o fundamento da decisão agravada, qual seja, aplicação da Súmula 279 do STF. Incumbe ao agravante o dever de impugnar, de forma específica, os fundamentos da decisão recorrida, sob pena de não seguimento do recurso.
+Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Nesse sentido, menciono julgados de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 317, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. 1. O Agravante tem o dever de impugnar, de forma específica, os fundamentos da decisão agravada, sob pena de não seguimento do agravo regimental (art. 317, § 1º, do RISTF). 2. Inviável o agravo regimental que se limita a reiterar as razões do recurso extraordinário, sem abordar o fundamento específico da decisão agravada” (AI 394.997-AgR/CE, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO DE INSTRUMENTO - AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS EM QUE SE ASSENTOU O ATO DECISÓRIO QUESTIONADO - RECURSO IMPROVIDO. O RECURSO DE AGRAVO DEVE IMPUGNAR, ESPECIFICADAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. - O recurso de agravo a que se referem os arts. 545 e 557, § 1º, ambos do CPC, na redação dada pela Lei nº 9.756/98, deve infirmar todos os fundamentos jurídicos em que se assenta a decisão agravada. O descumprimento dessa obrigação processual, por parte do recorrente, torna inviável o recurso de agravo por ele interposto. Precedentes” (AI 277.399-AgR/AM, Rel. Min. Celso de Mello, Segunda Turma).
+Cito ainda as seguintes decisões, dentre outras: AI 580.361-AgR/RS, de minha relatoria; AI 407.427/SP, Rel. Min. Cezar Peluso; AI 590.913-AgR/RS, Rel. Min. Eros Grau; AI 466.398-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 12 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
