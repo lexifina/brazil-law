@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de recurso extraordinário interposto contra acórdão, que, confirmado, em sede de embargos de declaração (fls. 2.192/2.196), pelo E. Tribunal Regional Federal da 1ª Região, está assim ementado (fls. 2.165/2.166):
+“ADMINISTRATIVO E PROCESSUAL CIVIL. NULIDADE PROCESSUAL AFASTADA. INTIMAÇÃO DO MINISTÉRIO PÚBLICO. EFICÁCIA. SENTENÇA ‘EXTRA PETITA’. INOCORRÊNCIA. EFICÁCIA SUBJETIVA DO JULGADO. SINDICATO. LEGITIMIDADE ‘AD CAUSAM’. LEGITIMIDADE PASSIVA ‘AD CAUSAM’ DO ESTADO DO AMAPÁ E DA UNIÃO. PRESCRIÇÃO QUINQUENAL. INOCORRÊNCIA. INSTAURAÇÃO DE REVISÃO ADMINISTRATIVA. SUSPENSÃO DO PRAZO. SERVIDOR PÚBLICO DO EX--TERRITÓRIO FEDERAL DO AMAPÁ. ADMISSÃO ANTERIOR À EFETIVA INSTALAÇÃO DO NOVO ESTADO-MEMBRO, OCORRIDA EM 1991. PERÍODO DE TRANSIÇÃO. GOVERNO PROVISÓRIO. RESPONSABILIDADE DA UNIÃO. ART. 14 DO ADCT, C/C LC Nº 41/81. CONCURSO PÚBLICO REALIZADO EM 1989. TRANSPOSIÇÃO PARA QUADRO EM EXTINÇÃO DA UNIÃO. NECESSIDADE DE COMPROVAÇÃO DA FORMA DE CONTRATAÇÃO DE CADA SERVIDOR. SITUAÇÃO INDIVIDUAL DIFERENCIADA. IMPROPRIEDADE DO LITISCONSÓRCIO PASSIVO.
+.......................................................
+8. A transformação do antigo Território Federal do Amapá em Estado-Membro somente se aperfeiçoou em 01/01/91 com a posse do primeiro governador eleito, sendo que no período de transição entre a promulgação da Constituição e essa data a União permaneceu como gestora da autarquia territorial em extinção, mediante a indicação do governo provisório. Inteligência do art. 14, § 2º, do ADCT/88, c/c o art. 18, parágrafo único, da LC nº 41/81. Precedentes do STF (ADI 1903/RR. Pleno, unânime, Relator Ministro Néri da Silveira, j. em 25/02/1999, DJ de 08-09-00, p. 04; grifei AO-MC 97/DF, Pleno, rel. Min. Sepúlveda Pertence, j. em 26/09/91, DJ de 09-1993, p. 05611).
+9. Tendo em vista que a admissão dos servidores se deu no período de transição, entre outubro/88 e dezembro/90, eles devem ser considerados como integrantes das Tabelas de Pessoal do ex-Território do Amapá, fazendo jus, pois, a ser transpostos para quadro em extinção da Administração Federal.
+10. Irrelevância da alegação de fraude devido à anotação retroativa das Carteiras de Trabalho e Previdência Social dos servidores, visto que a maioria foi contratada mediante concurso público realizado em 1989, ou seja, no período de transição sob controle da Administração Federal.
+11. A anulação do vínculo entre os servidores e o ex- -Território Federal exige a perfeita diferenciação da forma de ingresso de cada um deles, sob pena de ofensa aos princípios da segurança jurídica, da confiança e da boa-fé, o que não logrou comprovar o autor, desqualificando, ainda, o litisconsórcio passivo proposto.
+12. Precedente da Turma (AC 1999.01.00.018382-1/AP, Primeira Turma, Relator Juiz Federal convocado Miguel Ângelo de Alvarenga Lopes, julgada em 08.11.2006).
+13. Apelações e remessa oficial a que se dá provimento, para julgar improcedente o pedido inicial.”
+A parte recorrente sustenta que o acórdão ora impugnado teria transgredido preceitos inscritos na Constituição da República.
+O exame destes autos evidencia que o recurso extraordinário em questão não se revela viável.
+Com efeito, a colenda Primeira Turma desta Suprema Corte, a propósito de questões assemelhadas à versada na presente causa, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora recorrente:
+“Servidores públicos do extinto Território Federal do Amapá: reclamação trabalhista: ilegitimidade passiva do Estado do Amapá: responsabilidade total da União pelos encargos financeiros decorrentes das despesas de pessoal do novo Estado federado até o final dos cinco anos de sua instalação (CF, art. 235, IX e ADCT, art. 14, § 2º).”
+(RTJ 193/778, Rel. Min. SEPÚLVEDA PERTENCE)
+Sendo assim, e considerando as razões expostas, conheço do presente recurso extraordinário, para negar-lhe provimento.
+Publique-se.
+Brasília, 12 de agosto de 2010.
+Ministro CELSO DE MELLO
+Relator
