@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de agravo regimental interposto de decisão de minha relatoria, na qual neguei seguimento ao agravo de instrumento. Eis o teor da referida decisão (fls. 717-718):
+“Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) que tem como violado o disposto no art. 37, § 1º, da Carta Magna.
+Depreende-se dos autos que o ora agravante, ex-prefeito do município de Campinápolis/MT, foi condenado como incurso no art. 1º, II, do Decreto-Lei 201/1967, à pena de 02 (dois) anos e 06 (seis) meses de reclusão, em regime inicial fechado, além de inabilitação para o exercício de cargo ou função pública, eletivo ou de nomeação, pelo prazo de 05 (cinco) anos.
+Inconformada, a defesa interpôs recurso de apelação, ao qual o Tribunal de Justiça do Estado de Mato Grosso negou provimento, em acórdão cuja ementa tem o seguinte teor (fls. 521-522):
+"RECURSO DE APELAÇÃO CRIMINAL - EX-PREFEITO - UTILIZAÇÃO DE RECURSOS PÚBLICOS EM PROVEITO PRÓPRIO AO DETERMINAR A PUBLICAÇÃO DE MATÉRIA JORNALÍSTICA AUTO PROMOCIONAL - CONDENAÇÃO POR INCURSO NAS SANÇÕES DO ART. 1º, INCISO II, DO DECRETO-LEI Nº 201/67 - PENA DE 02 ANOS E 06 MESES DE RECLUSÃO EM REGIME FECHADO, FICANDO AINDA INABILITADO PARA O EXERCÍCIO DE CARGO OU FUNÇÃO PÚBLICA, DE NATUREZA ELETIVA OU DE NOMEAÇÃO, PELO PRAZO DE 05 (CINCO) ANOS - IRRESIGNAÇÃO - PRETENDIDA ABSOLVIÇÃO - INSUBSISTÊNCIA - MATERIALIDADE PROVADA – AUTORIA INCONTESTE - CONFISSÃO QUE SE COADUNA COM A PROVA COLACIONADA AOS AUTOS - PROVA DO PAGAMENTO INDEVIDO - MATÉRIA JORNALÍSTICA MANIFESTAMENTE PROMOCIONAL DO AGENTE POLÍTICO - INTELIGÊNCIA DOS ARTS. 37, § 1º, DA CRFB/88, C/C O ART. 129, § 1º, DA CONSTITUIÇÃO ESTADUAL – SENTENÇA MANTIDA - RECURSO IMPROVIDO.
+Restando provada a materialidade delitiva e sendo inconteste a autoria delitiva não há falar-se em ausência de justa causa para a ação penal e tampouco em absolvição.
+O pagamento de propaganda em imprensa escrita (jornal), de cunho auto promocional, como revela os autos, é ilegal e inconstitucional, a teor do disposto no art. 1º, inciso II, do Dec.-lei 201/67, c/c art. 37, § 1º, da CRFB/88, c/c art. 129, § 1º, da Constituição Estadual. Crime de responsabilidade configurado.
+Condenação mantida. Recurso Improvido."
+Opostos embargos de declaração, estes foram rejeitados.
+No recurso extraordinário, alega-se que o acórdão recorrido afronta o art. 37, § 1º, da Carta Magna, pois nenhum ato de promoção pessoal foi praticado pelo recorrente.
+Sustenta-se que a matéria veiculada foi eminentemente informativa, trazendo a prestação de contas da utilização do dinheiro público na forma de publicidade institucional, e que o mencionado dispositivo constitucional não veda a veiculação de imagens, nomes e símbolos, mas apenas veiculações que contenham a promoção pessoal.
+Decido.
+A discussão alçada à via extraordinária, qual seja, a de saber se a publicidade tem ou não caráter informativo e se o material nela empregado configura ou não promoção pessoal, envolve reexame dos fatos e provas que fundamentaram as conclusões do acórdão recorrido, o que dá margem ao descabimento do recurso. Incide na espécie o óbice da Súmula 279/STF.
+Do exposto, nego seguimento ao presente agravo.”
+No agravo regimental, o agravante reitera as razões do recurso extraordinário e requer o reconhecimento do princípio da insignificância, tendo em vista que se trata, em tese, de desvio no valor de R$ 1.000,00 (um mil reais), para custear despesa de publicidade.
+Decido.
+A petição de agravo regimental está subscrita por advogado sem instrumento de mandato válido nos autos, tendo em vista que as petições de fls. 722-726 (fax) e de fls. 729-733 (original) estão acompanhadas somente da cópia de um substabelecimento sem reservas de poderes, sem apresentar, contudo, a cópia autenticada ou o documento original, gerando insegurança na representação do recorrente.
+Trata-se, portanto, de recurso inexistente, que não pode ser conhecido.
+Além disto, o agravo regimental é intempestivo, pois a decisão agravada foi publicada em 14.05.2010 e o agravo foi interposto via fax no último dia do prazo - 21.05.2010 -, mas o original só deu entrada no protocolo desta Corte em 27.05.2010, quando já havia fluído o prazo de cinco dias estabelecido no art. 2º da Lei 9.800/1999. Com efeito, como constou do AI 544.588-ED-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 20.04.2006), que “o início do prazo adicional é improrrogável e contínuo ao término do prazo para a interposição do recurso”, não se suspendendo ou se interrompendo aos sábados, domingos e feriados (AI 394.934-AgR-ED-AgR, Segunda Turma, rel. min. Carlos Velloso, DJ de 28.06.2005).
+Saliento, por fim, que o recurso não combateu os termos da decisão agravada, trazendo argumento novo – insignificância da conduta – não submetido ao conhecimento das instâncias inferiores nem suficiente para a concessão de habeas corpus de ofício.
+Do exposto, nego seguimento ao presente agravo regimental, por manifestamente inadmissível (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 12 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
