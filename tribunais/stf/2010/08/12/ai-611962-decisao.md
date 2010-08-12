@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Mato Grosso, assim ementado:
+“APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE ILEGALIDADE DE RETIRADA DE PAINEL PUBLICITÁRIO C/C PERDAS E DANOS E LUCROS CESSANTES – ATO ILEGAL – RETIRADA DE PAINEL – ATO ADMINISTRATIVO – AUTORIZAÇÃO – NATUREZA PRECÁRIA E DISCRICIONÁRIA – BEM PÚBLICO DE USO COMUM – RECURSO IMPROVIDO. Não há que se discutir a ilegalidade da retirada de painel implementada pelos apelados, por se tratar de autorização que tem natureza precária e discricionária, mediante a qual a Administração Pública consente ao particular a utilização de um bem público de uso comum, podendo esse ato ser revogável a qualquer momento e sem ônus para o Poder Público.” (fls. 72)
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito constante do arts. 5º, II, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+No que tange à alegada afronta ao art. 5º, LV, da Constituição, verifico que o acórdão impugnado, ao analisar a questão, concluiu que “as informações acostadas aos autos atestam que o apelante à época da retirada do painel não possuía mais autorização da prefeitura para utilização do espaço público e que foi intimado para que procedesse à retirada do painel publicitário, não obtendo êxito” (fls. 74). Chegar a conclusão contrária à do acórdão recorrido demanda o reexame do conjunto fático-probatório constante dos autos, o que é vedado na via do recurso extraordinário (Súmula 279).
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 12 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
