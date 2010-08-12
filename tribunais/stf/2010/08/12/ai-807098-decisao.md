@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. CRÉDITO DE ICMS. REDUÇÃO DA BASE DE CÁLCULO. ESTORNO PROPORCIONAL. ARBITRAMENTO. OBRIGAÇÃO ACESSÓRIA. CONVERSÃO. MANUTENÇÃO DA SENTENÇA. O estorno do crédito exigido pelo fisco não configura ofensa ao princípio da não-cumulatividade, vez a finalidade deste, como demonstrado, é conter, nos limites do percentual máximo previsto na lei, o imposto embutido no preço da mercadoria consumida. O arbitramento realizado pelo Apelado se justificou, diante da deliberada sonegação de elementos de informação e de esclarecimento pretendidos pelo fisco. RECURSO IMPROVIDO.” (fl. 735).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 155, § 2º, I, II, e XII, g, da mesma Carta.
+O agravo não merece acolhida. É que a partir do julgamento do RE 174.478/SP, Redator para o acórdão Min. Cezar Peluso, a Corte reformulou seu entendimento e passou a equiparar a redução da base de cálculo do ICMS à isenção parcial do imposto, para fins de aplicação da vedação ao crédito prevista no art. 155, § 2º, II, b, da CF. Eis a ementa desse julgado:
+“TRIBUTO. Imposto sobre Circulação de Mercadorias. ICMS. Créditos relativos à entrada de insumos usados em industrialização de produtos cujas saídas foram realizadas com redução da base de cálculo. Caso de isenção fiscal parcial. Previsão de estorno proporcional. Art. 41, inc. IV, da Lei estadual nº 6.374/89, e art. 32, inc. II, do Convênio ICMS nº 66/88. Constitucionalidade reconhecida. Segurança denegada. Improvimento ao recurso. Aplicação do art. 155, § 2º, inc. II, letra 'b', da CF. Voto vencido. São constitucionais o art. 41, inc. IV, da Lei nº 6.374/89, do Estado de São Paulo, e o art. 32, incs. I e II, do Convênio ICMS nº 66/88” (grifos no original).
+Assim, ressalvada a existência de legislação dispondo que o crédito será maior, o direito ao crédito de ICMS deverá ser proporcional à base de cálculo reduzida.
+Essa orientação foi mantida no julgamento dos embargos de declaração opostos (RE 174.478-ED, Rel. Min. Cezar Peluso).
+Com esse mesmo entendimento, destaco, ainda, os seguintes precedentes: AI 539.382-AgR-RS, Rel. Min. Marco Aurélio; AI 526.737-AgR/RS, Rel. Min. Joaquim Barbosa; RE 386.943-AgR/RS e RE 466.043-AgR/MG, Rel. Min. Gilmar Mendes; RE 488.147-AgR/RS e ADI 2.320/SC, Rel. Min. Eros Grau; RE 205.262/SP, Rel. Min. Menezes Direito; AI 439.784-AgR/SP, Rel. Min. Sepúlveda Pertence.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 12 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
