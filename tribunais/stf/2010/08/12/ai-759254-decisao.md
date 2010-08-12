@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) que tem como violados os arts. 5º, LVI e 93, IX, da Carta Magna.
+Consta dos autos que o ora agravante, juntamente com outro corréu, foi pronunciado como incurso no art. 121, § 2º, II e IV, c/c o art. 29, todos do Código Penal.
+Inconformado, interpôs recurso em sentido estrito, ao qual o Tribunal de Justiça do Estado de Rondônia negou provimento, em acórdão cuja ementa tem o seguinte teor (fls. 546):
+“Recurso em sentido estrito. Homicídio qualificado. Preliminares de nulidade. Análise aprofundada da prova. Juízo valorativo. Inocorrência. Depoimento colhido mediante tortura psicológica. Não caracterização. Fundamentação baseada em prova ilícita. Teoria dos frutos da árvore envenenada. Não acolhimento. Indícios suficientes de autoria. Pronúncia. Julgamento pelo Tribunal do Júri. Princípio in dubio pro societate.
+Não ocorre nulidade da sentença de pronúncia, quando o magistrado, ao prolatá-la, expõe os motivos mínimos de seu convencimento.
+A mera alegação de testemunha de ter delatado o réu sob coação psicológica dos policiais, totalmente dissociada do conjunto probatório, é insuficiente para invalidar suas declarações feitas inicialmente, especialmente se esta apresenta-se corroborada e conforme os demais elementos de prova.
+Não há que se falar em nulidade por fundamentação baseada em prova ilícita, se a prova questionada foi legalmente colhida, sobretudo se da leitura da decisão verificar que a pronúncia do réu não resultou exclusivamente dela.
+Nos crimes dolosos contra a vida estando presentes a prova material do crime e os indícios de autoria, pronuncia-se o réu, submetendo a questão à apreciação do Tribunal do Júri, em face de vigorar nessa fase o princípio in dubio pro societate.”
+No recurso extraordinário, alega-se que o acórdão recorrido, ao manter decisão de pronúncia, violou o princípio da não admissão das provas obtidas por meio ilícito e o da motivação das decisões judiciais, tendo em conta que a única fundamentação para a pronúncia restringiu-se no depoimento extrajudicial de testemunha submetida à tortura.
+Sustenta-se que da simples leitura das declarações prestadas pela testemunha ANDRÉ, constata-se que o delegado de polícia adotou procedimento “incorreto, suspeito e imoral” ao determinar que a testemunha saísse com dois policiais civis durante o seu depoimento, e que, somente ao retornar com os policiais, a testemunha mudou a versão dos fatos, o que, por si só, confirma que foi submetida à tortura pelos policiais, com apoio do Delegado da Polícia Civil.
+Aponta-se o desacerto da decisão recorrida ao entender que a mera alegação da testemunha de ter delatado o réu sob coação psicológica dos policiais é insuficiente para invalidar suas declarações.
+Após a interposição do agravo de instrumento, a parte agravante protocolou a Petição 89.992/2009 (fls. 619), em que apresentou pedido de desistência do recurso. Em seguida, determinei a intimação do advogado subscritor da petição (fls. 621) para apresentar poderes especiais para desistir, ao verificar que o mandato a ele outorgado não continha poderes para tanto.
+Decido.
+Em primeiro lugar, verifico que, embora tenha sido protocolada petição contendo documento de lavra do próprio agravante em resposta ao mencionado despacho (fls. 632-633), não consta dos autos procuração com poderes especiais a sustentar o pedido de desistência. Assim, deixo de homologar o pedido de desistência formulado por MÁRIO ALVES DA CUNHA.
+Por outro lado, a alegada violação aos arts. 5º, LVI e 93, IX, da Carta Magna, baseia-se na afirmação de que a decisão de pronúncia fundou-se unicamente em prova ilícita, qual seja, no depoimento extrajudicial de testemunha submetida à tortura.
+Verifico que a questão foi devidamente enfrentada pelo acórdão atacado, e decidir de forma diversa implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao agravo de instrumento (art. 38 da Lei 8.038/1990 c/c o art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 12 agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
