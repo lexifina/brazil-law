@@ -1,0 +1,10 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, apreciando o RE 540.410-QO, rel. min. Cezar Peluso, acolheu questão de ordem no sentido de “determinar a devolução dos autos, e de todos os recursos extraordinários que versem a mesma matéria, ao Tribunal de origem, para os fins do art. 543-B do CPC” (Informativo 516, de 27.08.2008).
+Decidiu-se, então, que o disposto no art. 543-B do Código de Processo Civil também se aplica aos recursos interpostos de acórdãos publicados antes de 03 de maio de 2007 cujo conteúdo verse sobre tema em que a repercussão geral tenha sido reconhecida.
+No presente feito, o recurso extraordinário versa sobre temas em que a repercussão geral já foi reconhecida pelo Supremo Tribunal Federal. Confiram-se:
+“CONSTITUCIONAL. TRIBUTÁRIO. ICMS. RESTITUIÇÃO DA DIFERENÇA DO IMPOSTO PAGO A MAIS NO REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA. BASE DE CÁLCULO PRESUMIDA E BASE DE CÁLCULO REAL. ART. 150, § 7º, DA CF. ADI 2.675/PE, REL. MIN. CARLOS VELLOSO E ADI 2.777/SP, REL. MIN. CEZAR PELLUSO, QUE TRATAM DA MESMA MATÉRIA E CUJO JULGAMENTO JÁ FOI INICIADO PELO PLENÁRIO. EXISTÊNCIA DE REPERCUSÃO GERAL.” (RE 593.849-RG, rel. min. Ricardo Lewandowski, DJe de 09.10.2009)
+“TRIBUTO. Imposto sobre Circulação de Mercadorias e Serviços – ICMS. Inclusão do montante do imposto em sua própria base de cálculo. Princípio da vedação ao bis in idem. TAXA SELIC. Aplicação para fins tributários. MULTA. Fixação em 20% do valor do tributo. Alegação de caráter confiscatório. Repercussão geral reconhecida. Possui repercussão geral a questão relativa à inclusão do valor do ICMS em sua própria base de cálculo, ao emprego da taxa SELIC para fins tributários e à avaliação da natureza confiscatória de multa moratória.” (RE 582.461-RG, rel. min. Cezar Peluso, DJe de 05.02.2010)
+Do exposto, nos termos do art. 328 do RISTF (na redação dada pela Emenda Regimental 21/2007), determino a devolução dos presentes autos ao Tribunal de origem, para que seja observado o disposto no art. 543-B e parágrafos do Código de Processo Civil.
+Publique-se.
+Brasília, 12 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
