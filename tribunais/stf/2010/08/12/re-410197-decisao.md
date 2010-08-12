@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado:
+“MANDADO DE SEGURANÇA – IMPETRANTE PENSIONISTA DE PROCURADOR DE JUSTIÇA FALECIDO – PENSÃO POR MORTE PAGA PELO EXECUTIVO ESTADUAL, PELO SISTEMA DO MONTEPIO CIVIL – ILEGALIDADE DA VINCULAÇÃO DA PENSÃO DA IMPETRANTE AO TETO REMUNERATÓRIO ESTABELECIDO PARA A FONTE PAGADORA, NO CASO, O EXECUTIVO – MALFERIMENTO DO ART. 40, § 7º, DA CF/88 – ORDEM CONCEDIDA PARA QUE A IMPETRANTE RECEBA UMA PENSÃO EQUIVALENTE AO QUE PERCEBERIA SEU MARIDO SE VIVO FOSSE.
+I – Tanto a legislação infraconstitucional como a Norma Fundamental da República são visivelmente acolhedoras do direito da impetrante de não sofrer, na hipótese dos autos, redução de sua pensão por morte sob o pretexto de imposição de teto remuneratório de Poder outro que não aquele a que servia o servidor falecido. As normas constitucionais insculpidas nos §§ 3º e 7º da Constituição Federal de 1988, de aplicação imediata, traduzem, com clarividência, o direito de manter-se a impetrante, após a morte de seu marido, percebendo uma pensão no mesmo valor da remuneração por ele percebida se vivo fosse, independente da fonte pagadora do benefício.
+II – Matéria vencida. Ordem concedida. Acórdão unânime.” (Fls. 61)
+ Ressaltou-se, ainda, que emenda à Constituição estadual que extinguira o regime de montepio civil “(...) jamais poderia impor qualquer mitigação à regra do art. 40, § 7º, da Constituição Federal de 1988, quando enuncia que a pensão por morte será igual ao do valor dos proventos do servidor falecido.” (Fls. 64)
+ Alega o ente público recorrente vulneração do art. 40, § 8º, da Constituição federal. Assevera que “(...) nada há de ilegal e/ou abusivo a submissão de pensão ao teto remuneratório fixado para o referido Poder. Muito pelo contrário, se à recorrida fosse conferido tratamento diferenciado, malferido restaria o princípio isonômico previsto no caput do art. 5º da Constituição Federal.” (Fls. 75)
+ Com razão a recorrente.
+ Lembro, inicialmente, que a controvérsia é anterior à Emenda Constitucional 41, de 19.12.2003, que conferiu nova redação ao inciso XI do art. 37 da Constituição federal, tendo determinado a vinculação dos subsídios dos membros do Ministério Público ao Poder Judiciário.
+ No que diz respeito ao tema objeto do presente recurso, este Tribunal, em sessão plenária, firmou entendimento no sentido de que o teto da remuneração do Ministério Público estadual será o do Poder Executivo Estadual. Confira-se a seguinte ementa:
+“Ação direta de inconstitucionalidade. Argüição de inconstitucionalidade dos artigos 106, ‘caput’, 107, ‘caput’, 108 e 109 da Lei Complementar n. 13/91 do Estado do Maranhão, sendo que os três primeiros com a redação dada pela Lei Complementar n. 21/94 do mesmo Estado. Pedido de liminar.
+- Quanto ao artigo 106, ‘caput’, é relevante a sustentação jurídica da argüição de inconstitucionalidade desse dispositivo com base – admissível, ainda que não invocada na inicial, dada a circunstância de a ‘causa petendi’ em ação direta ser aberta – em que o teto da remuneração do Ministério Público estadual deve ser o do Poder Executivo do Estado e não o do Poder Judiciário deste.
+(...)” (ADI 1756-MC, rel. min. Moreira Alves, DJ de 06.11.1998)
+  No mesmo sentido: RE 389.676, rel. min. Gilmar Mendes, DJ de 14.03.2005; RE 278.176, rel. min. Gilmar Mendes, DJ de 02.02.2005.
+ Ante o exposto, dou provimento ao recurso extraordinário, de molde a denegar a segurança. Sem honorários advocatícios (Súmula 512). Custas ex lege.
+ Publique-se.
+ Brasília, 12 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
