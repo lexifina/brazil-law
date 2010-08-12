@@ -1,0 +1,15 @@
+1.  Trata-se de habeas corpus com pedido de medida liminar impetrado em favor de EDSON LUIZ DA SILVA contra o relator do HC 171.771/MG, Ministro Felix Fischer, que indeferiu pedido de liminar no writ ajuizado perante o Superior Tribunal de Justiça.
+2.  Na espécie, foram apreendidos diversos medicamentos sujeitos ao controle da Portaria 344/98 do Ministério da Saúde que estavam sendo guardados, mantidos em depósito e expostos à venda, em desacordo com determinação legal e regulamentar, bem como outros medicamentos falsificados que também estavam guardados, sendo comercializados e expostos à venda, em drogarias pertencentes ao paciente, que foi preso em flagrante delito.
+O Ministério Público do Estado de Minas Gerais ofereceu denúncia contra o paciente dando-o como incurso nas sanções do art. 33, caput, c/c art. 66, ambos da Lei 10.343/06; do art. 282 e art. 273, § 1º, ambos do Código Penal, todos na forma do art. 69 do Estatuto Penal.
+A defesa do paciente requereu a concessão do benefício de liberdade provisória, que foi indeferido pelo Juízo da 2ª Vara de Tóxicos de Belo Horizonte/MG. Contra a negativa do benefício foi impetrado habeas corpus, que foi denegado pelo Tribunal de Justiça do Estado de Minas Gerais.
+3.  Neste writ, o impetrante alega que o paciente está sofrendo constrangimento ilegal. Argumenta que o benefício de liberdade provisória foi negado ao paciente somente em razão do disposto no art. 44 da Lei 11.343/06 e que não estão presentes os requisitos do art. 312 do Código de Processo Penal capazes de determinar sua prisão preventiva.
+Assim, requer a concessão liminar do presente habeas corpus para que o paciente seja imediatamente colocado em liberdade.
+4.  Não foi juntada aos autos cópia do ato coator. Em consulta ao sítio eletrônico do Superior Tribunal de Justiça (www.stj.jus.br), observei, quanto ao andamento processual do HC 171.771/MG, que o relator do writ indeferiu o pedido de liminar, solicitou informações e determinou vista ao Ministério Público Federal, estando a publicação da referida decisão prevista para 05.08.2010.
+5.  Vale frisar que o rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de dupla supressão de instância.
+6.  Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
+Brasília, 12 de agosto de 2010.
+(assinado digitalmente)
+Ministra Ellen Gracie
+Relatora
