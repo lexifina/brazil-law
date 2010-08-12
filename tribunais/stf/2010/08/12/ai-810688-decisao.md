@@ -1,0 +1,17 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. DEFICIÊNCIA NO TRASLADO: INCIDÊNCIA DA SÚMULA 288 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto julgado do Tribunal de Justiça do Rio de Janeiro, o qual negou provimento à apelação interposta pelo ora Agravante e manteve sentença que o condenara à pena de 8 anos e 10 meses de reclusão (regime inicial fechado) e 1.280 dias-multa, pela prática dos crimes previstos no art. 33, caput, c/c art. 40, inc. IV, e no art. 35 da Lei n. 11.343/06.
+3. No recurso extraordinário, o Agravante afirma que o Tribunal a quo teria contrariado o art. 5º, inc. XXXIX, da Constituição da República.
+4. Apreciada a matéria trazida na espécie, DECIDO.
+5. Há deficiência no traslado. O Agravante não providenciou a juntada das cópias da decisão agravada e das certidões de intimação dessa e do julgado recorrido, peças indispensáveis à formação do instrumento, nos termos do art. 28, § 1º, da Lei 8.038/90 e da jurisprudência do Supremo Tribunal Federal (Súmula 288), o que não viabiliza o agravo de instrumento. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. DEFICIÊNCIA NO TRASLADO: INCIDÊNCIA DA SÚMULA 288 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O Supremo Tribunal Federal firmou jurisprudência no sentido de que compete exclusivamente à parte agravante fiscalizar a correta formação do instrumento. Precedentes. 2. Agravo Regimental desprovido” (AI 661.357-AgR, de minha relatoria, Primeira Turma, DJe 24.8.2007 – grifos nossos).
+“PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PEÇAS ESSENCIAIS. AUSÊNCIA. SÚMULA 288 DO STF. REQUISITOS DE ADMISSIBILIDADE DE RECURSO DA COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ALEGADA OFENSA AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - O agravo de instrumento deve ser instruído com as peças obrigatórias e também com as necessárias ao exato conhecimento das questões discutidas. II - É pacífico o entendimento nesta Corte de que não cabe rever, em recurso extraordinário, questões processuais de natureza infraconstitucional relativas aos requisitos de admissibilidade de recurso da competência do Superior Tribunal de Justiça. Precedentes. III - A alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária. IV - Agravo regimental improvido” (AI 766.815-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 5.2.2010 – grifos nossos).
+7. Ressalte-se que o Supremo Tribunal Federal também firmou o entendimento “de que o instrumento deve estar completo no momento da sua interposição, além do que é dever do Agravante fiscalizar a correta formação do agravo de instrumento” (AI 642.601–AgR, de minha relatoria, DJ 15.6.2007; e AI 137.645, Rel. Min. Sepúlveda Pertence, Plenário, RTJ 157/1012).
+8. Não há o que prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 38 da Lei 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 12 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
