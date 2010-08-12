@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário contra acórdão que entendeu, com base no art. 128 da Lei 8.112/90, que a conduta do ora recorrido, que participava de gerência de empresa privada, “embora reprovável, não afasta a possibilidade de aplicação da pena mais branda, diante da natureza e gravidade da infração cometida, dos bons antecedentes funcionais e da lesividade ao erário” (fl. 657). Anulou-se, assim, a pena de demissão imposta ao recorrido, sem prejuízo da aplicação de outra, de acordo com o juízo da autoridade impetrada.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 2º, 5º, XXXV e LXIX, e 37, caput, da mesma Carta.
+A pretensão recursão não merece acolhida.
+A orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Além disso, a pretendida discussão em torno dos requisitos de admissibilidade do mandado de segurança possui natureza meramente processual, que envolve a apreciação de normas infraconstitucionais. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PRESSUPOSTOS DE ADMISSIBILIDADE DE MANDADO DE SEGURANÇA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 582.662-AgR/BA, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA. PRESSUPOSTOS. CABIMENTO. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO.
+1.  Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil.
+2.  Ofensa indireta à Constituição do Brasil, eis que imprescindível o reexame do cabimento e das condições da ação, nos termos da Lei n. 1.533/51 e do Código do Processo Civil.
+3.  Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF  (...)” (RE 438.583-AgR/RJ, Rel. Min. Eros Grau, Segunda Turma).
+No mesmo sentido, menciono as seguintes decisões, entre outras: AI 633.595-AgR/DF, AI 733.412-AgR/PI e AI 565.694-AgR/MG, de minha relatoria; AI 251.600-AgR/BA e RE 225.953/SP, Rel. Min. Celso de Mello.
+Ademais, o Tribunal entende não ser cabível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada à norma infraconstitucional pelo Tribunal a quo (Súmula 636 do STF).
+Ainda que superados tais óbices, o recurso não prosperaria. É que o acórdão recorrido possui fundamento infraconstitucional suficiente para a sua manutenção, referente a aplicação do art. 128 da Lei 8.112/90, e que não pode ser impugnado nesta via recursal. Assim, inviável o RE, nos termos da Súmula 283 do STF.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 12 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+– Relator –
