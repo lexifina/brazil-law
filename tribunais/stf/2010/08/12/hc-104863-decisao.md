@@ -1,0 +1,15 @@
+1.  Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu pedido de liminar do writ anteriormente aforado perante o Superior Tribunal de Justiça (HC 172.793/SP).
+ Narra a inicial que o paciente foi condenado à pena de 2 anos de reclusão, em regime inicialmente fechado, e multa pela prática do crime previsto no art. 180 do Código Penal.
+ A defesa interpôs apelação criminal ao Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso, reduzindo a pena para 1 ano e 3 meses de reclusão, em regime semi-aberto. Após o trânsito em julgado, o órgão julgador determinou a expedição do respectivo mandado de prisão, que ainda não foi cumprido.
+ Contra esse ato, foi impetrado o referido HC 172.793/SP ao Superior Tribunal de Justiça. Contudo, o pedido de liminar foi indeferido pelo eminente Ministro Napoleão Nunes Maia Filho.
+ Alegam os impetrantes, em síntese: a) possibilidade de abrandamento da Súmula 691/STF; b) defesa do paciente não foi intimada da data de julgamento da apelação criminal; c) turma criminal julgadora do recurso composta majoritariamente por juízes de primeiro grau; d) reincidência reconhecida de forma indevida, que, por conseguinte, inviabilizou a instituição do regime aberto de cumprimento de pena e a substituição da pena privativa de liberdade por restritiva de direitos.
+ Requerem a concessão de provimento liminar, para “sustar provisoriamente a ordem de prisão” (fl. 29).
+2.  A decisão impugnada pelo presente habeas corpus, da lavra do Ministro Napoleão Nunes Maia Filho, assentou que a “concessão de tutela de eficácia imediata (liminar) em Habeas Corpus constitui medida de extrema excepcionalidade, somente admitida nos casos em que demonstrada de forma manifesta a necessidade e urgência da ordem, bem como o abuso de poder ou a ilegalidade do ato impugnado” (fl. 30).
+ Registra ainda que, “na hipótese vertente, tais circunstâncias não restaram evidenciadas de plano, razão pela qual indefiro, por agora, o pedido de provimento emergencial postulado” (fl. 30).
+3.  Vale frisar que o rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+4.  Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de supressão de instância.
+5.  Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
+Brasília, 12 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
