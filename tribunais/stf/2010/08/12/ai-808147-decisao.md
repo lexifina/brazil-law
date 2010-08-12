@@ -1,0 +1,16 @@
+DECISÃO: Vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 4ª Região. Acórdão assim ementado (fls. 72):
+“TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO. ENERGIA ELÉTRICA. LEGITIMIDADE. UNIÃO. PRESCRIÇÃO. PROVA. CORREÇÃO MONETÁRIA. JUROS REMUNERATÓRIOS. PAGAMENTO.
+1. Competindo à União a instituição de empréstimos compulsórios, não há como negar a sua legitimidade passiva para as causas em que se discute sobre o empréstimo compulsório sobre o consumo de energia elétrica, conclusão inclusive confirmada pelo enunciado do § 3º do artigo 4º da Lei nº 4.156/1962, que versa acerca da sua responsabilidade solidária quanto aos créditos relativos ao tributo.
+2. Aplica-se ao caso, ação de cobrança em face do Poder Público, o prazo prescricional qüinqüenal contemplado no artigo 1º do Decreto nº 20.910/1932, tendo como termo inicial para as diferenças de correção monetária relativas ao tributo as datas de verificação das assembléias gerais da ELETROBRÁS que decidiram sobre o resgate antecipado dos montantes recolhidos, e para os valores dos juros remuneratórios as datas dos pagamentos mediante compensação nas contas de energia elétrica.
+3. Em matéria de prova, basta à parte autora a demonstração da condição de consumidora de energia elétrica em escala industrial durante o período de vigência do empréstimo compulsório, já que a respeito da metodologia de atualização monetária aplicada houve confissão pelas rés, deslocando o debate para a questão de direito.
+4. É da natureza do tributo em discussão a restituição integral ao contribuinte dos valores inicialmente vertidos aos cofres públicos, contemplando índices reais de atualização monetária, conclusão que não é infirmada pela legislação de regência, sob pena de em assim não ocorrendo haver afronta à proibição do confisco.
+5. Determinado o incremento da correção monetária dos valores principais restituídos, devem ser recalculadas as quantias pagas a título dos juros remuneratórios legalmente previstos.
+6. Facultada à ELETROBRÁS, de acordo com deliberação tomada em assembléia geral, a restituição dos valores relativos ao empréstimo compulsório mediante a sua conversão em participação acionária. Quanto aos juros remuneratórios, podem as rés decidir a respeito do seu pagamento por meio de compensação nas contas de fornecimento de energia elétrica.”
+2. Pois bem, a parte recorrente sustenta, em síntese, violação ao inciso II do art. 5º e ao inciso IV do art. 150 da Magna Carta de 1988, bem como ao § 12 do art. 34 do ADCT.
+3. Tenho que a insurgência não merece acolhida. É que o aresto impugnado decidiu a controvérsia com base na legislação infraconstitucional pertinente (Lei 4.156/62). Pelo que ofensa à Constituição Federal, se existente, ocorreria de modo reflexo ou indireto, o que impede a abertura da via extraordinária. No mesmo sentido, vejam-se os AIs 614.626, sob a relatoria do ministro Joaquim Barbosa; e 730.418, sob a relatoria da ministra Cármen Lúcia.
+Isso posto, e frente ao caput do art. 577 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 12 de agosto de 2010.
+Ministro AYRES BRITTO
+Relator
