@@ -1,0 +1,17 @@
+1.  Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu pedido de liminar do writ anteriormente aforado perante o Superior Tribunal de Justiça (HC 166.693/PR).
+ O paciente foi preso preventivamente pela suposta prática do crime previsto no art. 33 da Lei 11.343/2006. O pedido de liberdade provisória foi indeferido pelo magistrado de primeira instância.
+ Contra tal decisão impetrou-se habeas corpus ao Tribunal de Justiça do Estado do Paraná, que denegou a ordem pleiteada. Irresignada, a defesa impetrou o referido HC 166.693/PR ao Superior Tribunal de Justiça. O pedido de liminar foi indeferido pela eminente Ministra Laurita Vaz.
+ Alega o impetrante, em síntese: a) possibilidade de abrandamento da Súmula 691/STF; b) ilegalidade da decisão que indeferiu o pedido de liberdade provisória; c) inadequada invocação do art. 44 da Lei 13.343/06.
+ Assim, requer a concessão do pedido de provimento liminar, para que seja deferida a liberdade provisória ao paciente (fl. 17).
+2.  A decisão impugnada pelo presente habeas corpus, da lavra da Ministra Laurita Vaz, foi proferida nos seguintes termos (fls. 18-19):
+“É pacífico na Quinta Turma desta Corte o entendimento de que a vedação expressa do benefício de liberdade provisória aos crimes de tráfico ilícito de entorpecentes, disciplinada no art. 44 da Lei nº 11.343/06, é, por si só, motivo suficiente para impedir a concessão da benesse ao réu preso em flagrante por crime hediondo ou equiparado, nos termos do disposto no art. 5º, inciso LXVI, da Constituição Federal, que impõe a inafiançabilidade das referidas infrações penais.
+Tratando-se de hipótese em que o condenado não poderia ter sido beneficiado com a concessão de liberdade provisória, veda-se o seu direito de apelar em liberdade, em razão do entendimento ‘de que não há lógica em permitir que o réu, preso preventivamente durante toda instrução criminal, aguarde em liberdade o trânsito em julgado da causa se mantidos os motivos da segregação cautelar’ (STF, HC 89.824/MS, 1ª Turma, Rel. Min. Carlos Britto, DJ de 28/08/08).
+Ante o exposto, indefiro o pedido”.
+3.  Vale frisar que o rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+4.  Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de supressão de instância.
+5.  Ademais, nos termos dos arts. 5º, XLIII, da Constituição Federal, e 44, caput, da Lei 11.343/06, o crime de tráfico ilícito de drogas não admite a concessão de liberdade provisória (HC 93.302, rel. Min. Cármen Lúcia, DJ 17.12.2007; HC 92.723, rel. Min. Ricardo Lewandowski, DJ 18.10.2007; HC 91.303, rel. Min. Sepúlveda Pertence, DJ 22.05.2007; e HC 89.089, rel. Min. Carlos Britto, DJ 01.06.2007).
+6.  Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
+Brasília, 12 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
