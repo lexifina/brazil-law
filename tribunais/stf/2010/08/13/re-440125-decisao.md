@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão proferido por Tribunal Regional Federal cuja ementa possui o seguinte teor:
+“TRIBUTÁRIO. MULTA MORATÓRIA. DENÚNCIA ESPONTÂNEA. PARCELAMENTO EM 240 MESES. TAXA SELIC. CABIMENTO.
+A denúncia espontânea elisiva da responsabilidade por infração da legislação tributária deve ser prévia a qualquer procedimento administrativo e/ou fiscal.
+A concessão de parcelamento especial às empresas públicas e sociedades de economia mista não constitui propriamente um privilégio fiscal. O prazo dilatado de até 240 meses às empresas estatais tem como contra partida uma séries de garantias inexigíveis da empresa privada. Em face dessa diversidade, a não extensão desse parcelamento às empresas privadas não se configura como ofensa ao princípio da isonomia jurídica, visto que as situações diversas devem ser tratadas diversamente.
+A taxa SELIC é computável a título de juros e correção monetária no tocante aos débitos fiscais, nos termos do art. 13 da Lei 9.065/95, não havendo que se cogitar de sua inconstitucionalidade. Porém, é indevida sua cumulação com qualquer outro índice de correção monetária.
+Apelação desprovida.” (fls. 116)
+Alega-se violação do disposto nos arts. 173, § 2º, e 192, § 3º (antes da Emenda Constitucional 40/2003), da Constituição.
+Observo que o acórdão impugnado decidiu a causa com base na legislação infraconstitucional. É pacífico o entendimento deste Tribunal no sentido de não ser admissível alegação de ofensa que, advindo de má aplicação, interpretação ou inobservância de normas infraconstitucionais, seria meramente reflexa ou indireta.
+Nesse sentido: RE 577.532-AgR, rel. min. Cezar Peluso, DJe de 14.11.2008; RE 588.698-AgR, rel. min. Cármen Lúcia, DJ de 13.02.2009; AI 464.175-AgR, rel. min. Marco Aurélio, DJ de 13.02.2009; AI 597.098-AgR, rel. min. Gilmar Mendes, DJ de 31.10.2007; RE 497.376-AgR, rel. min. Sepúlveda Pertence, DJ de 03.08.2007; AI 533.479-AgR, rel. min. Carlos Velloso, DJ de 04.11.2005; AI 521.635-AgR, rel. min. Carlos Britto, DJ de 04.11.2005.
+Ademais, esta Corte já decidiu pela impossibilidade da extensão do parcelamento de débito previdenciário em 240 meses às empresas privadas, pois o Poder Judiciário não pode atuar como legislador positivo:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PARCELAMENTO DE DÉBITOS. EXTENSÃO DE BENEFÍCIO. IMPOSSIBILIDADE.
+1. Impossibilidade de extensão de parcelamento de débito previdenciário em até 240 meses, concedido apenas para as empresas públicas e sociedades de economia mista dos Estados e Municípios.
+2. Esta Corte não pode atuar como legislador positivo. Precedente.
+Agravo regimental a que se nega provimento.” (RE 431.001-AgR, rel. min. Eros Grau, DJe de 06.06.2008)
+No mesmo sentido, o RE 493.234-AgR (rel. min. Ricardo Lewandowski, DJ de 19.12.2007).
+Por fim, a questão da auto-aplicabilidade do § 3° do art. 192 da Constituição também já foi decidida por este Tribunal. No julgamento da ADI 4 (rel. min. Sydney Sanches), concluído em 07.03.1991 (RTJ 147/719), o Supremo Tribunal Federal firmou o entendimento de que o § 3º do art. 192 da Constituição Federal não era auto-aplicável. Destaco o seguinte trecho da ementa dessa decisão:
+“6. Tendo a Constituição Federal, no único artigo em que trata do Sistema Financeiro Nacional (art. 192), estabelecido que este será regulado por lei complementar, com observância do que determinou no caput, nos seus incisos e parágrafos, não é de se admitir a eficácia imediata e isolada do disposto em seu parágrafo 3º, sobre taxa de juros reais (12% ao ano), até porque estes não foram conceituados. Só o tratamento global do Sistema Financeiro Nacional, na futura lei complementar, com a observância de todas as normas do caput, dos incisos e parágrafos do art. 192, é que permitirá a incidência da referida norma sobre juros reais e desde que estes também sejam conceituados em tal diploma.” (RTJ 147/720)
+Soma-se a esse julgado a sólida jurisprudência de ambas as Turmas, complementada por diversas decisões em mandado de injunção nas quais o Pleno também firmou o entendimento de que caberia ao Congresso Nacional suprir a omissão legislativa para limitar os juros a 12% ao ano (MI 584, rel. min. Moreira Alves, DJ de 22.02.2002; MI 588, rel. min. Ellen Gracie, DJ de 14.12.2001; MI 611, rel. min. Sydney Sanches, DJ de 29.11.2002; MI 621, rel. min. Maurício Corrêa, DJ de 16.11.2001; MI 472, rel. min. Celso de Mello, DJ de 02.03.2001, e MI 542, rel. min. Celso de Mello, RTJ 183/818).
+Registre-se que, após a promulgação da Emenda Constitucional 40, de 29.05.2003, que revogou o § 3º do art. 192 da Constituição Federal, a limitação dos juros deixou de ter fundamento constitucional.
+Do exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
