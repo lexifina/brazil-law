@@ -1,0 +1,18 @@
+DECISÃO:  Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) contra acórdão que, com fundamento na legislação infraconstitucional de regência e na prova documental, dera provimento à apelação da parte ora agravada para julgar improcedentes embargos do devedor. Eis a ementa (fls. 276-277):
+“EMBARGOS DO DEVEDOR – DISTRIBUIÇÃO POR DEPENDÊNCIA À EXECUÇÃO – APELAÇÃO – REQUISITOS – INSTRUMENTALIDADE DAS FORMAS – NOTA PROMISSÓRIA – PRÁTICA DE AGIOTAGEM NÃO DEMONSTRADA – ÔNUS DA PROVA DO DEVEDOR – MEDIDA PROVISÓRIA 1.820/99 E SUAS REEDIÇÕES – INAPLICABILIDADE – LITIGÂNCIA DE MÁ-FÉ AFASTADA.
+Consoante determinação do artigo 736 do Código de Processo Civil, os embargos de devedor devem ser distribuídos por dependência ao processo de execução, o que possibilita a decisão simultânea dos procedimentos pelo douto Juiz da causa no caso de procedência do feito oposto pelo executado.
+Nos termos do artigo 514, I e III, do Código de Processo Civil, a apelação deve conter os nomes dos litigantes e pedido de prolação de nova decisão em reforma daquela que é objeto da irresignação, sob pena de não conhecimento do recurso, por ausência de pressuposto intrínseco de sua admissibilidade.
+No entanto, em se tratando de requisitos meramente formais para sua admissibilidade, e, estando demonstrada nas razões de apelo a intenção da parte em ver reformada a sentença, com o prosseguimento normal do feito executivo extinto em primeiro grau de análise, deve ser conhecido o recurso, em deferência ao princípio da instrumentalidade das formas.
+A simples alegação de que o credor praticou crime de usura não extrai a força executiva da nota promissória, por se tratar de título de crédito que individualiza obrigação autônoma e independente, sendo ônus do devedor exibir prova firme e coesa da suposta agiotagem, com força capaz de extinguir os efeitos cambiários presumidos na espécie.
+Impossível inversão do ônus da prova pela aplicação da Medida Provisória 1.820/99, bem como suas reedições, haja vista a sua inaplicabilidade aos casos de execução de título extrajudicial, seja pela existência de legislação própria a estabelecer as regras atinentes ao instituto, seja pela imposição da segurança necessária aos provimentos judiciais.
+O uso dos procedimentos previstos no ordenamento jurídico não configura litigância de má-fé, não sendo possível a aplicação da pena instrumental se não restou evidenciado nos autos o dolo processual da parte visando alterar a verdade dos fatos para obter o êxito pretendido com o feito.”
+Sustenta a parte recorrente vulneração dos artigos 5º, XXXV; 62, caput e § 11; 84, XXVI da Constituição federal e art. 2º da Emenda Constitucional nº 32/2001.
+Não prospera o recurso.
+Observo, preliminarmente, que não houve afronta à garantia da inafastabilidade da jurisdição, pois não configurada negativa de prestação jurisdicional, tendo o acórdão recorrido enfrentado as questões suscitadas e fundamentado de forma suficiente suas conclusões.
+ Verifico, ainda, que a análise das demais supostas vulnerações exigiria reexame do contexto fático que orientou a decisão impugnada, circunstância que inviabiliza o processamento do recurso ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Por fim, o debate acerca da disciplina de aplicação da inversão do ônus da prova na execução de título de crédito restringe-se ao âmbito da legislação infraconstitucional, o que dá margem ao descabimento do recurso extraordinário.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
