@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa tem o seguinte teor:
+“Embargos de terceiros. Filhas residentes em imóvel dos pais, objeto de partilha amigável entre estes, nos autos da separação judicial do casal. Ocupação por mera liberalidade dos proprietários, que não induz posse passível de proteção na via dos embargos de terceiros. Inexistência de qualquer direito de seqüela em favor dos filhos do casal. Pretensão julgada improcedente. Apelação improvida.” (Fls. 70)
+No recurso extraordinário se tem como violado os arts. 6º e 226, § 4º e § 8º, da Constituição federal.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito dos artigos supracitados, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta da apelação (fls. 62-66), deduz matéria estranha à controvérsia, incidindo no óbice da Súmula 282 do STF. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ de 15.09.2000), cujo acórdão ficou assim ementado:
+“- Não tem razão a agravante. Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento.
+Agravo a que se nega provimento.”
+Ademais, ainda que superado tal óbice não mereceria ter seguimento o presente recurso, pois o tribunal a quo decidiu a causa com base no Código Civil e nas regras processuais infraconstitucionais que disciplinam os embargos de terceiro. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, pois seria necessário exame prévio de norma infraconstitucional, hipótese em que não se admite o recurso extraordinário.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
