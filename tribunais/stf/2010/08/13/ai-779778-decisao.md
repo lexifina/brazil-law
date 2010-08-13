@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REMUNERAÇÃO. DIREITO ADQUIRIDO AOS QUINTOS INCORPORADOS COM BASE NA PORTARIA N. 474/87 DO MINISTÉRIO DA EDUCAÇÃO E CULTURA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+“SERVIDOR PÚBLICO FEDERAL. INSTITUIÇÕES FEDERAIS DE ENSINO. LEI Nº 7.596/87. DECRETO Nº 94.664/87. PORTARIA MEC Nº 474/87. LEI Nº 8.168/91. TRANSFORMAÇÃO DE FUNÇÕES DE CONFIANÇA EM CARGOS DE DIREÇÃO. DIREITO ADQUIRIDO. IRREDUTIBILIDADE DE VENCIMENTOS.
+1. A transformação das funções comissionadas em cargos de direção determinadas pela Lei 8168/91, regulamentada pelo Dec. 94.664/91, com estabelecimento de tabelas de remuneração menores do que as que vinham sendo pagas para os servidores que se achavam no exercício dessas funções, ofende o princípio da irredutibilidade dos vencimentos/proventos constitucionalmente assegurado. 2. Correta a Portaria MEC nº 474/87, que fixou os valores das funções comissionadas instituídas em decorrência da Lei nº 7.596/87, pois expedida com amparo no art. 64 do Decreto nº 94.664/87, que a esta regulamentou. 3. O inciso XV, do art. 37 da Constituição Federal, estabelece que 'o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo'. 4. Reforma da sentença. Incidência de correção monetária na forma da lei e juros moratórios no percentual de 1% a partir da citação e reembolso das custas. 5. Apelação provida” (fl. 154).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a harmonia da decisão recorrida com a jurisprudência do Supremo Tribunal Federal (fls. 250-252).
+4. A Agravante alega que teriam sido contrariados os arts. 5º, inc. II, XXXV, XXXVI, LIV e LV, 7º, 8º, 37, caput e inc. XV, 61, § 1º, inc. II, alínea a, 84 e 93, inc. IX, da Constituição da República e os arts. 55, inc. III, 57, inc. II, e 98, parágrafo único, da Constituição de 1969 (com a redação dada pela Emenda Constitucional n. 1/69).
+Argumenta que “portaria do MEC não pode fixar ou alterar a remuneração dos servidores públicos federais, que depende exclusivamente de lei de inciativa privativa do Presidente da República” (fl. 201).
+Afirma que “a Portaria 474/87 não gerou direito adquirido para os servidores perceberem sua remuneração ou provento, inclusive a título de 'quintos/décimos'. Não há que se falar em incorporação decorrente de ato inconstitucional, podendo os valores da remuneração dos impetrantes serem revistos com a exclusão da parcela tida como ilegal” (fl. 220).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. O Tribunal de origem julgou a controvérsia de acordo com jurisprudência firmada pelo Supremo Tribunal Federal no sentido de que os valores incorporados com base na Portaria n. 474/87 do Ministério da Educação e Cultura constituem direito adquirido, não sujeito à redução promovida pela Lei n. 8.168/1991.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. 1. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. 2. INCORPORAÇÃO DE FUNÇÕES COMISSIONADAS E GRATIFICAÇÕES: DIREITO ADQUIRIDO. PORTARIA MEC N. 474/87. PRECEDENTES. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 419.046-AgR, de minha relatoria, Primeira Turma, DJe 20.2.2009).
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. QUINTOS. INCORPORAÇÃO. PORTARIA MEC 474/87. PRECEDENTES. 1. O Supremo Tribunal Federal já pacificou sua jurisprudência no sentido de que os quintos incorporados, conforme Portaria MEC 474/1987, constituem direito adquirido, não alcançado pelas alterações promovidas pela Lei 8.168/1991. 2. A Portaria MEC 474/87 não configura usurpação de competência legislativa do Chefe do Poder Executivo. Precedentes. 3. Agravo regimental improvido” (AI 754.613-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 13.11.2009).
+Não há divergência entre a decisão agravada e a jurisprudência do Supremo Tribunal Federal, pelo que não há o que prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
