@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) que indica violação do art. 5º, LV, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 200):
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. PROCESSO EM FASE DE EXECUÇÃO DE SENTENÇA. CERCEAMENTO DE DEFESA. Não demonstrada a hipótese de cabimento do recurso de revista prevista no art. 896, § 2º, da CLT. Fundamentos da decisão denegatória não desconstituídos. Agravo de instrumento a que se nega provimento.”
+Sustenta-se no recurso extraordinário que o acórdão do Tribunal Regional é nulo porque não foi dada a oportunidade de manifestar-se sobre um documento da Fazenda Estadual que comprovou a sucessão empresarial.
+É o relatório. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Ademais, inexiste a alegada ofensa ao art. 5º, LV, da Constituição, porquanto o acórdão inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa. É o que se observa no seguinte trecho do acórdão recorrido (fls. 203):
+“Não há que se falar em violação direta do art. 5º, LV, da Constituição Federal. A Corte Regional afastou a alegação de ofensa ao princípio do contraditório e da ampla defesa, fazendo consignar:
+“Tal documento, todavia, não é desconhecido da embargante, pois se trata da inscrição da empresa junto à Secretaria da Fazenda, fato, por óbvio, de seu conhecimento. Assim, não se trata de documento estranho à parte, não sendo necessário que a mesma dele tivesse vista. Gize-se, por outro lado, que o advogado da embargante veio aos autos, em 24.01.2007, requerendo inscrição para sustentação oral, o que foi realizado, conforme certidão da fl. 349, na qual ficou consignado que o procurador da embargante acompanhou o julgamento e sustentou oralmente as razões da agravante, tendo sido, portanto, observado o princípio da ampla defesa e do contraditório” (fl. 161).”
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
