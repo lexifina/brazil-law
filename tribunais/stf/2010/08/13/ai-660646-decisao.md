@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) que tem como violado o art. 5º, caput e XXXVI, da Constituição federal. Cito trecho da ementa do acórdão recorrido (fls. 24):
+“(...)
+II) “VENDA DO CARIMBO” - AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA - SÚMULA N° 422 DO TST.
+1. Consoante o disposto na Súmula n° 422 do TST, não se conhece de recurso para o Tribunal Superior do Trabalho, pela ausência do requisito de admissibilidade inscrito no art. 514, II, do CPC, quando as razões do recorrente não impugnam os fundamentos da decisão recorrida, nos termos em que fora proposta.
+2. Na hipótese vertente, o Regional concluiu que a “venda do carimbo”, que se constituiu na transação do direito à complementação de aposentadoria, resultou em alteração prejudicial dos critérios no que se refere ao valor da suplementação, que foram fixados unilateralmente e de forma aleatória, sem esclarecimentos quanto à forma de cálculo. Consignou, ainda, que não estava deferindo à Obreira complementação de aposentadoria, mas, sim, revisão dos valores pagos a título de indenização do referido direito, quando de sua supressão.
+3. A Demandada se insurge contra a referida decisão sustentando, em síntese, que a adesão ao programa de dispensa é ato incompatível com o pedido de complementação de aposentadoria, que não ocorreu nenhum vício de vontade, sendo certo que a Demandante não cumpriu os requisitos para a percepção da complementação em comento, como, por exemplo, o tempo mínimo de trabalho.
+4. Nesse contexto, emerge como obstáculo à revisão pretendida a orientação fixada no verbete sumular supramencionado, pois a Agravante, ao invés de se insurgir contra os fundamentos da decisão recorrida, faz alegações alheias à decisão recorrida, incapazes de infirmá-la.
+5. Ademais, se o Regional, com base no conjunto fático-probatório dos autos, concluiu que a alteração foi prejudicial à Obreira, não há que se falar em ato jurídico perfeito, mormente diante da diretriz do art. 468 da CLT, no sentido de que, nos contratos individuais de trabalho, só é lícita a alteração das respectivas condições por mútuo consentimento, e ainda assim desde que não resultem, direta ou indiretamente, prejuízos ao empregado, sob pena de nulidade da cláusula infringente desta garantia.
+(...)”
+Sustenta-se no recurso extraordinário que não houve vício de consentimento e, portanto, a transação seria válida.
+É o relatório. Decido.
+Os fundamentos trazidos à colação pelo recurso extraordinário não são suficientes para desconstituir a decisão recorrida, porque esta partiu da premissa de não-provimento do agravo de instrumento em recurso de revista por falta de atendimento dos pressupostos recursais (art. 896 da Consolidação das Leis do Trabalho), enquanto o recurso extraordinário trata da matéria de fundo (validade da transação).
+Ademais, a controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de agosto de 2010
+Ministro JOAQUIM BARBOSA
+Relator
