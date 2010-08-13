@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) que indica violação dos arts. 5º, XXXV, XXXVI e LV, e 93, IX, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 241):
+“AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. EXECUÇÃO. COISA JULGADA. Não configurada violação direta e literal de preceito da Constituição, nos moldes do artigo 896, § 2º, da CLT, inviável o trânsito da revista e, conseqüentemente, o provimento do agravo de instrumento.
+Agravo conhecido e não-provido.”
+Sustenta-se no recurso extraordinário que o Tribunal Superior do Trabalho sonegou prestação jurisdicional e que a manutenção do deferimento da isenção da parcela referente ao imposto de renda em fase de execução afronta a coisa julgada.
+É o relatório. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Por outro lado, a tese de ofensa ao art. 5º, XXXVI, por demandar o exame prévio dos limites objetivos da coisa julgada em face da legislação processual infraconstitucional, é indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 372.358-AgR (rel. min. Celso de Mello, Segunda Turma, DJ de 28.06.2002), AI 360.265-AgR (rel. min. Celso de Mello, Segunda Turma, DJ de 20.09.2002), AI 401.735-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 01.04.2005), AI 451.773-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJ de 01.09.2006), RE 374.498-AgR (rel. min. Carlos Britto, Primeira Turma, DJ de 22.10.2004).
+Finalmente, não procede a alegação de afronta aos arts. 5º, XXXV e LV, e 93, IX, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
