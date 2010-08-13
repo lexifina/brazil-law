@@ -1,0 +1,9 @@
+DECISÃO: Há nos autos duplicidade de petições de interposição de recurso extraordinário protocoladas pela mesma parte em 20.09.2000 e 03.10.2000. Independentemente da constatação desta irregularidade, pode-se concluir que o recurso extraordinário foi interposto antes da publicação do acórdão que julgou os embargos de declaração (29.03.2006), sem que haja nos autos notícia de posterior ratificação do recurso extraordinário.
+Visto que o acórdão proferido em embargos de declaração é parte integrante do acórdão recorrido, somente a partir de sua publicação começa a fluir o prazo recursal. Esta Corte tem entendimento pacífico no sentido de que a interposição do recurso extraordinário só é cabível após a publicação no Diário da Justiça do acórdão de que se recorre, uma vez que é imprescindível o conhecimento dos fundamentos adotados pelo órgão julgador para que se possa impugná-los. Aplica-se ao caso o disposto na Súmula 281/STF.
+Em sentido semelhante, confira-se, v.g., RE 407.812-AgR (rel. Min. Cezar Peluso, DJ de 16.09.2005), AI 541.681-ED (rel. min. Carlos Velloso, DJ de 23.09.2005), RE 198.131-AgR (rel. min. Ellen Gracie, DJ de 18.11.2005) RE 255.679-AgR (rel. min. Carlos Britto, DJ de 11.02.2005).
+Ainda que fosse possível superar tal óbice, observo que o recurso extraordinário não reuniria condições de admissibilidade, pois permaneceriam não exauridas as instâncias ordinárias. É que o acórdão recorrido reformou, por maioria, sentença que julgara improcedente pedido de declaração de inexistência de relação jurídica tributária. Dessa decisão caberia, ainda, interposição dos embargos infringentes previstos na regra do art. 530 do Código de Processo Civil. Também aqui incide o óbice da Súmula 281/STF.
+Do exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
