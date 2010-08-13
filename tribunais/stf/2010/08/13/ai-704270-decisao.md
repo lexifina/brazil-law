@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que deixou de admitir o recurso extraordinário (art. 102, III, a, da Constituição) que tem como violados os arts. 5º, caput, XXXV, LV e LXIX; 7º, X, da Carta Magna.
+Compulsando os autos verifico a intempestividade do presente agravo de instrumento, porquanto interposto em 15.08.2007, enquanto que a publicação da decisão de inadmissão do apelo extraordinário deu-se em 12.04.2007.
+Cumpre observar que os embargos de declaração opostos da decisão do presidente do Tribunal de origem que nega seguimento a recurso extraordinário, por manifestamente incabíveis, não suspendem ou interrompem o prazo para a interposição de outro recurso. Nesse sentido: AI 528.553-AgR, rel. min. Carlos Velloso, DJ de 01.07.2005; AI 521.217, rel. min. Gilmar Mendes, DJ de 11.11.2005 e AI 587.129, rel. min. Ricardo Lewandowski, DJ de 09.05.2006.
+Ademais, o recurso extraordinário foi interposto de acórdão que denegou mandando de segurança impetrado originariamente no Tribunal de Justiça do Rio de Janeiro. Nos termos do art. 105, II, b, da Lei Maior, o recurso interposto de mandado de segurança decidido “em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão”, é o recurso ordinário em mandado de segurança, de competência do Superior Tribunal de Justiça. Essa Corte, nesses casos, funciona como órgão jurisdicional de segunda instância, porque o recurso ordinário comporta viabilidade de alegação de questões infraconstitucionais e constitucionais.
+Não tendo a parte recorrente interposto o competente recurso ordinário, já que o acórdão de origem era denegatório da segurança pleiteada, é de ser obstado o conhecimento do recurso extraordinário, por incidência da Súmula 281. No mesmo sentido: AI 146.015-AgR-ED, rel. min. Maurício Corrêa, DJ de 10.10.1997, e AI 187.206, rel. min. Sydney Sanches, DJ de 10.08.2000.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
