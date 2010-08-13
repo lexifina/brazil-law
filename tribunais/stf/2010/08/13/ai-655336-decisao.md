@@ -1,0 +1,11 @@
+DECISÃO:  Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) de acórdão do Tribunal de Justiça do Estado do Pará, o qual condenara a parte ora agravante no pagamento de compensação pelos danos materiais e morais decorrentes de acidente que, envolvendo veículo oficial, vitimara o cônjuge da agravada.
+No recurso extraordinário, o Estado do Pará alega violação do disposto nos artigos 37, § 6º e 93, IX, da Constituição. Assevera configurado o caso fortuito, pois “(...) toda instrução probatória demonstrou que o fato causador do acidente foi o estouro de um pneu do veículo no qual trafegava a vítima, sem que fosse comprovado defeito pré-existente, falta ou negligência de manutenção do carro.” (Fls. 76).
+Não prospera o recurso.
+A jurisprudência desta Corte é firme no sentido de que as pessoas jurídicas de direito público e as pessoas jurídicas de direito privado prestadoras de serviço público respondem objetivamente pelos seus atos, bastando para isso que esteja estabelecido um nexo causal entre o ato e o dano causado (cf. AI 383.872-AgR, rel. min. Carlos Velloso, Segunda Turma, DJ 08.11.2002; RE 217.389, rel. min. Néri da Silveira, Segunda Turma, DJ 24.05.2002; AI 209.782-AgR, rel. min. Marco Aurélio, Segunda Turma, DJ 18.06.1999; RE 206.711, rel. min. Moreira Alves, Primeira Turma, DJ 25.06.1999; RE 163.203, rel. min. Ilmar Galvão, Primeira Turma, DJ 15.09.1995, e RE 113.587, rel. min. Carlos Velloso, Segunda Turma, DJ 03.04.1992).
+No presente caso, o acórdão recorrido considerou demonstrado que o ente público “(...) não mantinha o seu automóvel em condições de trafegabilidade, portanto, assumiu o risco da ocorrência de um acidente de trânsito, não cabendo, portanto, aqui, a alegação de caso fortuito” (fls.69). Inviável chegar à conclusão contrária sem o reexame de prova, o que dá margem ao descabimento do recurso extraordinário (Súmula 279).
+Por fim, verifico que não fora vulnerado o artigo 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a ora agravante.
+Do exposto, nego seguimento ao presente recurso.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
