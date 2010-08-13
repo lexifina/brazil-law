@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) que indica violação dos arts. 5º, XXXV e LV, 7º, XXVI, e 8º, III e IV, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 88):
+“AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO ASSISTENCIAL E CONFEDERATIVA. PRECEDENTE NORMATIVO 119 DO TST. TRABALHADORES NÃO ASSOCIADOS. Decisão regional em harmonia com o entendimento vertido na Orientação Jurisprudencial 17 da SDC/TST e no Precedente Normativo 119/TST. Aplicação do artigo 896, § 4º, da CLT e da Súmula 333/TST.
+EMBARGOS DECLARATÓRIOS PROTELATÓRIOS. MULTA. LITIGÂNCIA DE MÁ-FÉ. Aplicada a multa de 1% objeto do artigo 538, parágrafo único, do CPC, cumulada com a multa também de 1%, mais indenização arbitrada em 20% - todas incidentes sobre o valor corrigido da causa -, forte no artigo 18 do CPC, por litigância de má-fé, ao fundamento de que manifestamente protelatórios os embargos opostos, não se detecta contrariedade à Súmula 297/TST.
+Agravo de instrumento desprovido.”
+É o relatório. Decido.
+Sem razão.
+Em inúmeros pronunciamentos, esta Corte tem reiterado o entendimento de que a contribuição confederativa somente pode ser exigida dos filiados ao sindicato (cf. Súmula 666/STF; AI 499.046-AgR, DJ de 08.04.2005; RE 175.438-AgR, DJ de 26.09.2003; RE 302.513-AgR, DJ de 31.10.2002; AI 339.060-AgR, DJ de 30.08.2002; AI 351.764-AgR, DJ de 1º.02.2002, v.g.).
+Por outro lado, a jurisprudência da Corte é pacífica no sentido de que a discussão relativa à contribuição assistencial é de cunho infraconstitucional. Nesse sentido: AI 494.964-AgR, DJ de 22.04.2005; AI 233.784-AgR, DJ de 18.03.2005; AI 401.709-AgR, DJ de 12.11.2004; RE 220.623-AgR, DJ de 15.10.2004; AI 442.177-AgR, DJ de 05.12.2003.
+Convém destacar que tal entendimento foi reafirmado pelo Plenário ao rejeitar a existência de repercussão geral do tema contribuição assistencial, por ausência de matéria constitucional. É o que se extrai da ementa do AI 752.633-RG (rel. min. Cezar Peluso, DJe de 18.12.2009):
+“EMENTA: RECURSO. Extraordinário. Incognoscibilidade. Contribuição assistencial. Instituição por assembléia. Cobrança de trabalhadores não filiados a sindicato. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à exigibilidade de contribuição assistencial, instituída por assembléia, de trabalhadores não filiados, versa sobre matéria infraconstitucional.”
+Finalmente, a controvérsia acerca da análise da aplicação da multa requer sejam previamente examinadas as regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. Isto porque, verificar se o recurso possuía ou não conteúdo protelatório é matéria de índole processual, que se resolve à luz das normas constantes do Código de Processo Civil. A jurisprudência do Supremo Tribunal Federal concluiu que essa circunstância inviabiliza o processamento do recurso extraordinário (cf., entre outros, AI 614.139-AgR, rel. min. Sepúlveda Pertence, DJ de 13.04.2007; RE 371.123, rel. min. Cezar Peluso, DJ de 30.09.2004 e AI 585.461, minha relatoria, DJ de 25.05.2006).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
