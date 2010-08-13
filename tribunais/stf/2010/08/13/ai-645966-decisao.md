@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que não admitira recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão que afastara a responsabilidade do ente público recorrido pelo pagamento de compensação de supostos danos materiais e morais decorrentes de processo criminal movido contra o agravante. Eis a ementa (fls. 37):
+“Responsabilidade Civil – Ato jurisdicional – Inicio de ação penal, com recebimento de denúncia – absolvição posterior – Ausência de configuração de erro substancial, inescusável, imputável a dolo ou culpa no ajuizamento da ação penal – Responsabilidade indenizatória afastada em primeiro grau – Recurso improvido.”
+Alega a parte recorrente vulneração dos artigos 5º, LXXV e 37, § 6º, da Constituição. Assevera que, “(...) estão presentes todos os elementos, cabendo destacar que o agente público na sua função jurisdicional, causou os danos sofridos pelo recorrente” (fls. 53).
+Não prospera o recurso.
+A jurisprudência desta Corte é firme no sentido de que as pessoas jurídicas de direito público e as pessoas jurídicas de direito privado prestadoras de serviço público respondem objetivamente pelos seus atos, bastando para isso que esteja estabelecido um nexo causal entre o ato e o dano causado (cf. AI 383.872-AgR, rel. min. Carlos Velloso, Segunda Turma, DJ 08.11.2002; RE 217.389, rel. min. Néri da Silveira, Segunda Turma, DJ 24.05.2002; AI 209.782-AgR, rel. min. Marco Aurélio, Segunda Turma, DJ 18.06.1999; RE 206.711, rel. min. Moreira Alves, Primeira Turma, DJ 25.06.1999; RE 163.203, rel. min. Ilmar Galvão, Primeira Turma, DJ 15.09.1995, e RE 113.587, rel. min. Carlos Velloso, Segunda Turma, DJ 03.04.1992).
+No presente caso, contudo, a decisão impugnada concluiu pela inexistência de ato ilícito a reclamar reparação. Constatou-se que “(...) especificamente no tocante ao procedimento criminal instaurado contra o autor apelante, não há nos autos qualquer prova de arbitrariedade, não se podendo falar em erro judiciário em face da absolvição posterior, em acórdão do E. Tribunal de Alçada Criminal. Em conseqüência, não pode gerar responsabilidade indenizatória do Estado.” (fls. 40)
+Inviável chegar à conclusão contrária sem o reexame de prova, o que dá margem ao descabimento do recurso extraordinário (Súmula 279).
+Ante o exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
