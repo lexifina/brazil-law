@@ -1,0 +1,11 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, apreciando o RE 540.410-QO, rel. min. Cezar Peluso, acolheu questão de ordem no sentido de “determinar a devolução dos autos, e de todos os recursos extraordinários que versem a mesma matéria, ao Tribunal de origem, para os fins do art. 543-B do CPC” (Informativo 516, de 27.08.2008).
+Decidiu-se, então, que o disposto no art. 543-B do Código de Processo Civil também se aplica aos recursos interpostos de acórdãos publicados antes de 03 de maio de 2007 cujo conteúdo verse sobre tema em que a repercussão geral tenha sido reconhecida.
+No presente caso, o recurso extraordinário trata sobre os temas (a) competência da Justiça do Trabalho para julgar causas envolvendo complementação de aposentadoria e (b) extensão, aos aposentados, de benefício concedido aos trabalhadores em atividade.
+Verifico que o primeiro tema é objeto do RE 586.453-RG (rel. min. Ellen Gracie, DJe de 02.10.2009), que teve a repercussão geral reconhecida.
+Quanto ao segundo tema, esta Corte decidiu pela inexistência de repercussão geral. É o que se observa na ementa do RE 590.005-RG (rel. min. Cezar Peluso, DJe de 18.12.2009):
+“EMENTA: RECURSO. Extraordinário. Incognoscibilidade. Previdência privada. Complementação de aposentadoria. Extensão, a aposentados, de benefício concedido a trabalhadores em atividade. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à concessão, a beneficiários de plano de previdência privada complementar, de vantagem outorgada a empregados ativos, versa sobre matéria infraconstitucional.”
+Do exposto, dou parcial provimento ao presente agravo de instrumento para admitir o recurso extraordinário somente quanto à discussão sobre a competência da Justiça do Trabalho, e, nos termos do art. 328 do RISTF (na redação dada pela Emenda Regimental 21/2007), determino a devolução dos presentes autos ao Tribunal de origem, para que seja observado o disposto no art. 543-B e parágrafos do Código de Processo Civil.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
