@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE INCOMPETÊNCIA TERRITORIAL FUNDADA NO CÓDIGO DE PROCESSO CIVIL E NA LEI N. 8.112/90: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE INCOMPETÊNCIA. AÇÃO EM FACE DE AUTARQUIA FEDERAL. ART. 109, § 2º DA CF.
+1. É facultado à parte autora ajuizar a ação contra autarquia federal no seu foro de domicílio, onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, nos termos do § 2º do art. 109 da CF, bem como, na Capital do Estado, conforme precedentes do STF.
+2. Agravo de instrumento improvido” (fl. 15).
+3. No recurso extraordinário, o Agravante alega que:
+“A competência para apreciar os pedidos formulados na ação ordinária é dos foros dos Juízos Federais das Subseções Judiciárias onde os Agravantes servidores exercem suas atividades.
+(...)
+As regras sobre a competência para as ações movidas em face de autarquia federal devem ser buscadas na legislação processual civil. Assim sendo, quando o INSS for acionado judicialmente, o autor deve utilizar-se, na aferição da competência, dos artigos 94, § 1º, e 100, IV, a, do CPC, combinado com o artigo 242 da Lei n. 8.112/90, que dispõe:
+'Art. 242 – Para fins desta Lei, considera-se sede o domicílio onde a repartição estiver instalada e onde o servidor tiver exercício, em caráter permanente'.
+A possibilidade da propositura de ação contra o INSS na capital do Estado membro ficou reservada para as ações ajuizadas por segurado contra o INSS, não comportando extensão para ações que figurem servidores públicos federais contra os demais entes federais contra os demais entes federais constantes do artigo 109 da Constituição Federal ” (fls. 21-23 - grifos nossos).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta (fls. 40-41).
+O Agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Como ressaltado na decisão agravada, eventual contrariedade ao art. 109, § 2º, da Constituição da República decorrente do descumprimento de dispositivos do Código de Processo Civil e da Lei n. 8.112/90 seria indireta, o que não viabiliza o recurso extraordinário. Nesse sentido:
+“PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NORMAS PROCESSUAIS. OFENSA REFLEXA. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280. AGRAVO IMPROVIDO. I - Ausência de prequestionamento das questões constitucionais suscitadas. Incidência das Súmulas 282 e 356 do STF. II - O acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. III - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. IV - Agravo regimental improvido” (AI 631.775-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 13.3.2009 – grifos nossos).
+“ PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXCEÇÃO DE INCOMPETÊNCIA. AÇÃO DE REPARAÇÃO POR DANOS MORAIS. VEICULAÇÃO DE MATÉRIA JORNALÍSTICA. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXV, LIII, LIV; e LV, DA CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. ART. 93, IX, DA CF. AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. 1. Inadmissível recurso extraordinário no qual se pretende a análise de legislação infraconstitucional, concernente às regras para a observância de aplicação do princípio do juiz natural (artigos 100, IV e V, letra a; 125, III; e 135, V, do CPC). Hipótese de ofensa indireta ou reflexa à Constituição Federal. 2. Decisão fundamentada, embora contrária aos interesses da parte, não configura ofensa ao art. 93, IX, da Constituição Federal. 3. Agravo regimental improvido” (AI 650.049-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 11.9.2009 – grifos nossos).
+“RECURSO. Extraordinário. Inadmissibilidade. Agravo de instrumento. Não conhecimento. Interpretação do artigo 192, II, da Lei nº 8.112/90. Ofensa constitucional indireta. Aplicação da súmula 279. Agravo regimental não provido. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, de reexame de provas” (AI 551.047-AgR, Rel. Min. Cezar Peluso, Primeira Turma, DJ 9.6.2006 – grifos nossos).
+“Recurso extraordinário: descabimento: questão relativa ao cálculo de proventos de inatividade de servidor público, decidida à luz do art. 192, II, da L. 8.112/90: alegada ofensa ao texto constitucional que, além de não prequestionada (Súmula 282), seria, se ocorresse, indireta ou reflexa, que não enseja reexame no RE: incidência, mutatis mutandis, da Súmula 636” (AI 495.833-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 3.9.2004 – grifos nossos).
+7. Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
