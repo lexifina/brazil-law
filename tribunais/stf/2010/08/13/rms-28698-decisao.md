@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de recurso ordinário em mandado de segurança interposto de decisão proferida pelo Superior Tribunal de Justiça, cujo teor é o seguinte:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. INCOMPETÊNCIA DO STJ. ILEGITIMIDADE PASSIVA AD CAUSAM. ATO DO CONSELHO DE GESTÃO DA PREVIDÊNCIA COMPLEMENTAR-CGPS. SÚMULA 177/STJ. EXTINÇÃO DO PROCESSO.
+1. O Superior Tribunal de Justiça não ostenta competência para processar e julgar mandado de segurança originário contra ato de órgão colegiado presidido por Ministro de Estado, ratio essendi do teor da Súmula 177/STJ. Precedentes do STJ: MS 8963/DF, TERCEIRA SEÇÃO, DJ De 07/08/2009; MS 12.338/DF, TERCEIRA SEÇÃO, DJ de 11/03/2008; e AgRg no MS 12.124/DF, TERCEIRA SEÇÃO, DJ 18/10/2007.
+2. Mandado de segurança impetrado contra decisão do Conselho de Gestão da Previdência Complementar- CGPS, a qual não conheceu do recurso administrativo (Processo Administrativo nº 44000.0001/2009-20), em razão do reconhecimento da prescrição quinquenal, determinando o arquivamento do processo sem julgamento do mérito.
+3. Ademais, o Conselho de Gestão da Previdência Complementar- CGPS não é órgão colegiado homogêneo, composto exclusivamente por Ministros de Estado, consoante se infere do art. 2º do Decreto 4.678/2003, de forma a determinar a competência desta Corte (art. 105, inciso I, alínea b, da Constituição Federal), afastando, outrossim, a incidência do teor da Súmula 177/STJ.
+4. Agravo Regimental desprovido.
+O recorrente afirma que o Superior Tribunal de Justiça é competente para processar e julgar o mandado de segurança, tendo em vista que o ministro da Previdência Social é o representante legal do Conselho de Gestão da Previdência Complementar.
+Requer o provimento do recurso e, desde logo o julgamento do mérito da impetração.
+A União ofereceu contrarrazões a fls. 109-115, sustentando que o referido Conselho não é órgão colegiado homogêneo, composto exclusivamente por ministros de Estado. Ao contrário, o Ministro de Estado da Previdência Social integra e preside o citado Conselho, ao lado de, entre outros, representantes do Ministério da Fazenda, do Ministério do Planejamento, Orçamento e Gestão, dos patrocinadores e instituições de entidades fechadas de previdência complementar (art. 2º do Decreto 4.678/2003). Afirma ter sido correta a aplicação da Súmula 177-STJ e requer o improvimento do recurso.
+O Ministério Público Federal, em parecer a fls. 125-127, manifesta-se pelo desprovimento do recurso, nos seguintes termos:
+“O recurso não merece prosperar, visto que o Colendo STJ, ao decretar, nos termos de sua Súmula 177, a sua incompetência para processar e julgar mandado de segurança contra ato do Conselho de Gestão da Previdência Complementar – CGPS, órgão colegiado presidido pelo Ministro de Estado da Previdência Social, adotou solução que guarda conformidade com a jurisprudência desse Pretório Excelso sobre o tema, tal como se pode conferir pelos arestos prolatados no MS-AgR 24.281-0-DF (Rel. Exmo. Sr. MIn. Celso de Mello, DJ de 23.10.2009) e nos RMS 25.479-7-DF (Rel. Exmo. Sr. Min. Joaquim Barbosa, DJ de 25.11.2005) e 24.552-6-DF (Rel. Exmo. Sr. Min. Gilmar Mendes, DJ de 22.10.2004)”.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça não chegou a examinar o mérito das alegações deduzidas na impetração, tendo-a extinguido com base no fundamento da incompetência daquela Corte para julgar mandado de segurança contra ato de órgão colegiado presidido por ministro de Estado.
+O presente recurso ordinário também se restringe a impugnar esse aspecto da decisão.
+O ora recorrente impetrou mandado de segurança objetivando a anulação de decisão proferida pelo Conselho de Gestão da Previdência Complementar – CGPC. O impetrante, na inicial, expressamente reconhece que o ato foi praticado pelo referido Conselho e não pelo Ministro da Previdência Social. Confira-se:
+“1º) o ato violador dos direitos dos representados da impetrante é a decisão do C.G.P.C. proferida, em instância final administrativa, sem possibilidade de interposição de qualquer recurso administrativo, no supra mencionado Processo nº 44000.000184/2009-20, publicada no DOU nº 149, de 06.08.2009, págs. 32 e 33 (...)
+2º) a Autoridade apontada como sendo a Coatora, embora se trate de um órgão Colegiado do Governo Federal, é presidido (...) pelo Exmo. Sr. Ministro da Previdência Social, José Barroso Pimentel”.[fls. 02-03]
+Não há maiores dúvidas, a partir da leitura da inicial, de que a decisão atacada não foi emitida pelo Ministro da Previdência Social, mas é oriunda de órgão colegiado, por ele presidido.
+Dessa constatação, correto o entendimento adotado pelo Superior Tribunal de Justiça (Súmula 117 daquela Corte), com base também na jurisprudência do Supremo Tribunal Federal acerca do caráter restritivo da competência das cortes superiores, que foi fixada pela Constituição Federal.
+Nesse sentido, esta Corte examinou tanto situações em que a impetração ocorreu originariamente perante o Supremo Tribunal Federal (MS 22.987-QO, rel. min. Moreira Alves, Pleno, j. 26.11.1997; MS 22.284, rel. min. Octavio Gallotti, Pleno, j. 13.09.1995) como caso em que se tratava de recurso contra decisão proferida Superior Tribunal de Justiça (RMS 21.560, rel. min. Marco Aurélio, Segunda Turma, j. 24.11.1992).
+Do exposto, com fundamento no art. 21, § 1º do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Publique-se.
+Arquive-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
