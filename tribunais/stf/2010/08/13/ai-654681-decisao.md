@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é do seguinte teor:
+“CONDOMÍNIO. COBRANÇA DE DESPESAS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PRELIMINAR REJEITADA. Não havendo motivo para dilação probatória, dada a absoluta inocuidade no contexto dos autos, não existe razão para se cogitar em cerceamento de defesa, mesmo porque qualquer atividade processual só pode ser desenvolvida diante da existência do binômio necessidade-utilidade para sua realização.
+CONDOMÍNIO. COBRANÇA DE DESPESAS. DEMONSTRATIVOS. APROVAÇÃO POR ASSEMBLÉIA. REGULARIDADE. PROCEDÊNCIA MANTIDA. RECURSO IMPROVIDO. Sendo regular a cobrança das despesas condominiais, devidamente discriminadas e aprovadas por ato assemblear, não encontra sentido a resistência ao pagamento.
+CONDOMÍNIO. DESPESAS. PARECELAS VINCENDAS. COBRANÇA REGULAR. RECURSO IMPROVIDO. Há previsão legal quanto à condenação das parcelas vincendas até deslinde da demanda (art. 290 do CPC).
+CONDOMÍNIO. COBRANÇA DE DESPESAS. MULTA MORATÓRIA LIMITADA A 2% À PARTIR DE 11.01.2003. OBSERVÂNCIA DO NOVO CÓDIGO CIVIL. Há de ser observada a existência de nova disposição legal específica a reger a situação. Cuida-se do art. 1.336, § 1º, da Lei nº 10.406/2002, vem a determinar a redução da multa obrigatória à razão de 2%, incidente nas prestações vencidas a partir de fevereiro de 2003.” (Fls. 100)
+No recurso extraordinário, alega-se ofensa ao art. 5º, LV, da Constituição federal.
+A análise da alegação de cerceamento de defesa requer sejam previamente examinadas as regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. A jurisprudência do Supremo Tribunal Federal concluiu que essa circunstância inviabiliza o processamento do recurso extraordinário. Nesse sentido: AI 700.960-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 05.03.2010); AI 730.135-AgR (rel. min. Menezes Direito, Primeira Turma, DJe de 22.05.2009) e AI 597.614-AgR (rel. Min. Eros Grau, Segunda Turma, DJ de 27.10.2006).
+Por outro lado, o tribunal a quo decidiu a causa com base na interpretação das normas da Lei 4.591/194 e nas provas dos autos. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, pois seria necessário exame prévio de norma infraconstitucional, hipótese em que não se admite o recurso extraordinário. Incidência, também, da vedação contida no enunciado da Súmula 279 do STF.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
