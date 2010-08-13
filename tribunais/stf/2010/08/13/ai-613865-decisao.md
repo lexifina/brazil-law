@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) em que se alega violação do disposto nos arts. 5º, XXXIV, a, LIV, LV; 29, VII, VIII, da Carta Magna.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito dos artigos 5º, XXXIX e 29, VII, versa questões constitucionais não ventiladas na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta das contrarrazões de apelação (fls. 722-737), deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ 15.09.2000), cujo acórdão ficou assim ementado:
+“- Não tem razão a agravante. Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento.
+Agravo a que se nega provimento.”
+Ademais, não merece prosperar a irresignação do agravante, uma vez que, na solução desta questão, o acórdão recorrido se valeu também de fundamento infraconstitucional suficiente (pressupostos da ação civil pública- art. 17, § 6º, da Lei 8.429/92) não afastado pelo Superior Tribunal de Justiça no julgamento do recurso especial respectivo, em decisão transitada em julgado. Desse modo, é aplicável à espécie a Súmula 283 do Supremo Tribunal Federal.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
