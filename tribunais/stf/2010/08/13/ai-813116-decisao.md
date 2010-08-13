@@ -1,0 +1,9 @@
+1.  Trata-se de agravo de instrumento interposto pelo Ministério Público Federal de decisão que inadmitiu recurso extraordinário interposto contra acórdão prolatado pelo Superior Tribunal de Justiça que não conheceu do habeas corpus, porém concedeu a ordem de ofício para declarar que a prática de falta grave não altera a data-base para a concessão de benefícios na execução da pena.
+2.  Nas razões do RE, sustenta-se ofensa ao art. 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal, sob o fundamento de que “A interrupção do prazo para a concessão da Progressão Prisional, quando praticada Falta Grave coaduna-se com os objetivos da Execução Penal, dentre os quais se destacam a prevenção, a repressão e a ressocialização do Condenado” (fl. 138).
+3.  Verifica-se que não se encontram prequestionados os artigos constitucionais apontados como violados, porque não abordados pelo acórdão recorrido, sendo que foram rejeitados os embargos de declaração opostos contra o julgado (Súmulas STF 282 e 356). É pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142-AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.09.2001; e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+4.  Ademais, a suposta ofensa à Constituição, se houvesse, seria indireta, a depender de análise da legislação infraconstitucional (Lei 7.210/84), além de requerer o reexame dos fatos e das provas da causa (Súmula STF 279), hipóteses inviáveis de apreciação em sede extraordinária.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 13 de setembro de 2010.
+Ministra Ellen Gracie
+Relatora
