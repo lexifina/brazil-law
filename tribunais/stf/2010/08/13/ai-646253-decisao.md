@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a da Constituição) interposto de acórdão que considerou lícita a postergação do recebimento da parcela do ICMS correspondente ao município, mediante a concessão de incentivo fiscal através do PRODEC (Programa de Desenvolvimento da Empresa Catarinense), tendo em vista que o valor postergado não constitui receita pública e o município receberá o valor oportunamente.
+Sustenta-se, em síntese, a violação do art. 158, IV, e 160, da Constituição federal.
+Na sessão de 18.06.2008, o Tribunal negou provimento a recurso extraordinário interposto pelo Estado de Santa Catarina contra acórdão do tribunal de justiça local que provera apelação do Município de Timbó, no qual se sustentava ser lícito ao Estado postergar o repasse da parcela do imposto a que se refere o art. 158, IV, da Constituição (vinte e cinco por cento do produto da arrecadação do imposto do Estado sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação), em virtude da concessão de incentivos fiscais a particulares. Considerou-se, inicialmente, que, a fim de que a autonomia política conferida aos entes federados pela Constituição seja real, efetiva, e não virtual, é imprescindível que sua autonomia financeira seja preservada, não se permitindo, quanto à repartição de receitas tributárias, condicionamento arbitrário por parte do ente responsável pelos repasses a que eles têm direito. (RE 572.762, rel. min. Ricardo Lewandowski – cf. Informativo/STF 511/2008).
+Dessa orientação divergiu o acórdão recorrido.
+Do exposto, com base no art. 544, § 3º e § 4º, do Código de Processo Civil, dou provimento ao agravo e o converto em recurso extraordinário, para, nos termos do art. 557, § 1º-A, do referido diploma, conhecer do recurso e dar-lhe provimento.
+Há questões acessórias, contidas na petição inicial que não foram analisadas pelo Tribunal de Justiça de Santa Catarina, como prescrição de valores e correção monetária, tendo em vista que ao julgar a demanda improcedente, eles restaram prejudicados.
+Como não é adequado suprimir instâncias para definir matéria que não foi expressamente abordada pelo Tribunal de origem, determino o encaminhamento dos autos ao TJSC, para que prossiga no julgamento dessas questões.
+Inverto a sucumbência.
+Publique-se.
+Brasília, 13 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
