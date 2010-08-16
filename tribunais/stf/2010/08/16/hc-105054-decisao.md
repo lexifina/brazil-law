@@ -1,0 +1,27 @@
+1.  Trata-se de habeas corpus impetrado contra decisão monocrática que negou seguimento ao HC anteriormente aforado perante o Superior Tribunal de Justiça sob o fundamento de não existir o alegado constrangimento ilegal.
+ O paciente foi preso em flagrante pela suposta prática dos crimes previstos nos arts. 33, § 4º, da Lei 11.343/06. O pedido de comutação de pena foi negado pelo juízo da Vara de Execuções Penais de Contagem.
+ Contra tal decisão impetrou-se habeas corpus perante o Tribunal de Justiça do Estado de Minas Gerais, que indeferiu o pedido. Irresignada, a defesa impetrou o HC 169.912/MG junto ao Superior Tribunal de Justiça, que negou seguimento ao writ.
+ Alega o impetrante que “o paciente cumpriu, ininterruptamente, mais de dois anos e 11 meses de sua pena, fixada em cinco anos de reclusão, portanto, preenche os requisitos subjetivos e objetivos do Decreto 6.706/08 para que seja agraciado com a comutação de ¼ de sua pena” (fl. 6).
+2.  Requer a concessão de provimento liminar para que seja determinada a comutação de pena em favor do paciente.
+3.  O Superior Tribunal de Justiça, ao julgar o HC 169.912/MG, negou seguimento ao writ nos termos da decisão proferida pelo eminente relator, Ministro Haroldo Rodrigues, assim fundamentada (fls. 07-09):
+“(...)
+Tenho que o pedido não merece seguimento.
+O paciente foi condenado como incurso no art. 33, caput, e § 4º, da Lei nº 11.343/2006, à pena de 5 anos de reclusão, no regime fechado, e 500 dias-multa. Do acórdão da apelação criminal juntado aos autos, às fls. 41/46, em que o Tribunal de Justiça de Minas Gerais deu parcial provimento ao recurso da defesa, se extrai:
+‘Narra a denúncia que no dia 24/08/2007, por volta das 20:20 horas, agentes da policial civil receberam denúncia anônima dando conta de uma transação ilícita de entorpecentes, que estava para ocorrer na Avenida Afonso Pena, centro desta Capital. Diante disso, os policiais compareceram ao local e, nas proximidades da empresa A&C, na esquina da Praça Sete, viram o réu, cujas características eram as mesmas descritas na denúncia anônima, razão pela qual foi realizada a abordagem.
+Consta da denúncia, ainda, que foi encontrado na posse do réu 14 (quatorze) invólucros de Ecstasy, 1 (um) invólucro contendo haxixe, outro com cocaína e 1 (uma) cartela contendo 20 (vinte) selos da substância entorpecente LSD, além de 2 (dois) aparelhos celulares e a quantia de R$ 412,00 (quatrocentos e doze reais).
+A denúncia noticia, também, que, no momento da abordagem, o apelante estava em companhia de André Lacorte Lovisi Travassos, o qual informou à autoridade policial que, naquela ocasião, foi ao encontro do apelante para adquirir entorpecente e que André sempre adquiria drogas do apelante pagando de R$ 20,00 (vinte reais) a R$ 25,00 (vinte e cinco reais) pela porção.
+A materialidade delitiva encontra-se estampada pelo Auto de Apreensão de fls. 23, pelos Laudos de Constatação de fls. 24/25 e Exame Toxicológico definitivo de fls. 135/136.’ (fl. 42)
+De notar, que da análise do excerto acima transcrito, a conduta típica imputada ao paciente configura a prática da mercancia.
+O Decreto nº 6.706, de 22 de dezembro de 2008, que concedeu indulto natalino e comutação de penas, assim dispõe:
+‘Art. 8º - Os benefícios previstos neste Decreto não alcançam os condenados:
+I - por crime de tortura, terrorismo ou tráfico ilícito de drogas, nos termos do art. 33 da Lei nº 11.343, de 23 de agosto de 2006, excetuadas as hipóteses previstas nos §§ 2º ao 4º do artigo citado, desde que a conduta típica não tenha configurado a prática da mercancia;’
+Como visto, o referido Decreto concessivo afasta os benefícios ali previstos aos condenados por crime de tráfico ilícito de drogas, ainda que beneficiados com a aplicação da causa especial de diminuição de pena constante do § 4º do art. 33 da Lei de Drogas, se a conduta típica a eles imputada configure a prática da mercancia.
+Assim, tendo em vista que o paciente não preenche o requisito do art. 8º, I, do Decreto nº 6.706/2008, não faz jus ao benefício pleiteado, inexistindo, assim, o alegado constrangimento ilegal.
+Ante o exposto, com base no art. 34, XVIII, do Regimento Interno do Superior Tribunal de Justiça, nego seguimento ao presente habeas corpus”.
+4.  Registro, inicialmente, que há obstáculo ao conhecimento deste writ consistente na ausência de julgamento colegiado no âmbito do Superior Tribunal de Justiça, já que o habeas corpus foi impetrado contra decisão monocrática da relatora do HC 169.912/MG. Não há notícia nos autos acerca da interposição de agravo regimental, tampouco de seu julgamento, no âmbito do STJ.
+Assim, da mesma forma que se verifica nas hipóteses relacionadas à orientação contida na Súmula 691 desta Corte, não é cabível habeas corpus contra decisão monocrática que nega seguimento ao writ anteriormente impetrado. A relativização da orientação contida na Súmula 691 somente se justifica quando houver evidente ilegalidade ou abuso na decisão monocrática proferida, o que não é o caso.
+5.  Ainda que superado tal óbice, da leitura da decisão que fundamentou o ato impugnado na inicial, verifico que ele se encontra devidamente motivado, apontando as razões de convencimento do relator no sentido da inexistência de constrangimento ilegal, tendo em vista que o paciente não preenche o requisito do art. 8º, I, do Decreto 6.706/2008, e, portanto, não faz jus ao benefício pleiteado.
+6.  Ante o exposto, indefiro liminarmente o presente habeas corpus.
+ Brasília, 16 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
