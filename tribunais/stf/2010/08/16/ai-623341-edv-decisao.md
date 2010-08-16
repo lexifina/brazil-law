@@ -1,0 +1,29 @@
+DECISÃO
+Vistos.
+Trata-se de embargos de divergência contra decisão proferida em agravo de instrumento (folhas 241 a 246), interpostos por Samara Tanaka e outros, contra despacho monocraticamente proferido pelo ilustre Ministro Marco Aurélio, in verbis:
+“DECISÃO
+ADICIONAL DE INSALUBRIDADE – BASE DE CÁLCULO – SALÁRIO MÍNIMO – PRECEDENTES – AGRAVO DE INSTRUMENTO.
+1. A jurisprudência de ambas as turmas desta corte firmou-se no sentido de que o cálculo do adicional de insalubridade com base no salário mínimo, por não constituir fator de indexação, é legítimo, não implicando ofensa ao artigo 7º, inciso IV, da Constituição Federal. Confira-se com o procedente a seguir:
+'CONSTITUCIONAL. TRABALHO. ADICIONAIS DE INSALUBRIDADE: SALÁRIO MÍNIMO. C.F. 7°, IV
+I. O que a Constituição veda, no art. 7º, IV, é a utilização do salário-mínimo para servir, por exemplo, como fator de indexação. O salário mínimo pode ser utilizado como base de incidência da percentagem do adicionais de insalubridade. (AGRRE 230.688 – Min. Carlos Velloso, Segunda Turma).'
+2. Estando a decisão recorrida em harmonia com a jurisprudência da Corte, conheço deste agravo e o desprovejo.
+3. Publiquem.” (fl. 237).
+Asseveram os embargantes, depois de discorrer sobre os fatos em disputa nos autos e sobre o direito de que se entendem titulares, que a aludida decisão teria divergido de outra, monocraticamente proferida pelo eminente Ministro Ricardo Lewandowski, razão pela qual, postulam o acolhimento destes embargos, para o acolhimento do apelo extremo que interpuseram.
+Decido.
+O presente recurso não tem o menor cabimento, devendo ser liminarmente rejeitado.
+Os embargos de divergência têm cabimento contra decisão de uma das Turmas desta Corte que venha a divergir de julgamento proferido pela outra Turma, ou pelo Plenário (Código de Processo Civil, artigo 546, inciso II).
+A matéria vem disciplinada no Regimento Interno do Supremo Tribunal Federal, o qual, em seu artigo 330 prevê a possibilidade desse tipo de recurso em decisões proferidas em recurso extraordinário ou em agravo de instrumento.
+No caso em tela, contudo, a decisão atacada foi proferida, monocraticamente, pelo Ministro Marco Aurélio, sendo certo que contra decisão assim proferida, não cabem embargos de divergência, ao menos não antes de interposto o recurso de agravo regimental, previsto nos artigos 317 e seguintes, do Regimento Interno desta Suprema Corte.
+Apenas para ilustrar, citem-se as ementas dos seguintes precedentes:
+“1. RECURSO. Embargos de divergência. Acórdão paradigma. Matéria diversa da discutida no acórdão embargado. Inteligência do art. 330 do RISTF. Agravo regimental não provido. Cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou agravo de instrumento, divergir de julgado de outra Turma ou do Plenário desta Corte, desde que tratem ambos do mesmo thema decidendum. 2. RECURSO. Embargos de divergência. Inadmissibilidade. Impugnação a acórdão do Plenário e a decisão singular. Precedentes. Recurso não conhecido. Cabem embargos de divergência contra acórdão de Turma que divirja de julgado da outra Turma ou do Pleno, não, porém, contra acórdão do Plenário ou decisão monocrática” (AI nº 729.055/MG-AgR-EDv, Relator o Ministro Cezar Peluso, Tribunal Pleno, DJ-e de 26.3.10).
+“AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE RECURSO POR FAX: ORIGINAIS APRESENTADOS FORA DO PRAZO LEGAL. TEMPESTIVIDADE EXAMINADA CONSIDERANDO A DATA DE PROTOCOLO DOS ORIGINAIS NO SUPREMO TRIBUNAL FEDERAL. IRRELEVÂNCIA DA DATA DA REMESSA PELOS CORREIOS. EMBARGOS DE DIVERGÊNCIA CONTRA DECISÃO MONOCRÁTICA: RECURSO MANIFESTAMENTE INCABÍVEL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 351.747/RJ-EDv-AgR-AgR, Relatora a Ministra Cármen Lúcia, Tribunal Pleno, DJe de 4/12/09).
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO DE INSTRUMENTO. SÚMULA 287 DO STF. AGRAVO IMPROVIDO. I - É incabível oposição de embargos de divergência contra decisão monocrática (art. 330 do RISTF). II - O agravante não atacou todos os fundamentos da decisão agravada. Inviável, portanto, o presente recurso, a teor da Súmula 287 do STF. III - Agravo regimental improvido” (AI nº 647.692/SP-EDv-AgR, Relator o Ministro Ricardo Lewandowski, Tribunal Pleno, DJe de 30/4/09).
+Assinalo, por fim, que o Plenário deste Supremo Tribunal Federal, em observância aos desígnios de uma Justiça efetiva e célere, consagrou que:
+“é legitima, sob o ponto de vista constitucional, a atribuição conferida ao Relator para arquivar ou negar seguimento a pedido ou recurso intempestivo, incabível ou improcedente e, ainda, quando contrariar a jurisprudência predominante do Tribunal ou for evidente a sua incompetência (RI/STF, art. 21, par 1.; Lei n. 8.038/90, art. 38), desde que, mediante recurso -- agravo regimental -- possam as decisões ser submetidas ao controle do colegiado” (MI nº 375/PR-AgR, Relator o Ministro Carlos Veloso, Tribunal Pleno, DJ de 15/5/92).
+Ainda sobre este último ponto, esta Suprema Corte, reiterando o entendimento, endossou a conclusão de que:
+“assiste ao Ministro-Relator competência plena, para, com fundamento nos poderes processuais de que dispõe, exercer o controle de admissibilidade das ações, pedidos ou recursos dirigidos ao Supremo Tribunal Federal. Cabe-lhe, em conseqüência, poder para negar trânsito, em decisão monocrática, a ações, pedidos ou recursos incabíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante do Tribunal. Precedentes” (MS nº 22.626/SP-AgR, Relator o Ministro Celso de Mello, Tribunal Pleno, DJ de 22/11/96).
+Ante o exposto, e nos termos do artigo 557, caput, do Código de Processo Civil, por manifestamente inadmissíveis, nego seguimento aos embargos de divergência.
+Publique-se.
+Brasília, 16 de agosto de 2010.
+Ministro DIAS TOFFOLI
+Relator
