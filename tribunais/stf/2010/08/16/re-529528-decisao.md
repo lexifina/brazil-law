@@ -1,0 +1,45 @@
+DECISÃO:
+Vistos.
+Marcopolo S.A. interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“TRIBUTÁRIO. LEI 9.249/95 ART. 9º § 10. JUROS SOBRE REMUNERAÇÃO CAPITAL PRÓPRIO. INDEDUTIBILIDADE DA BASE DE CÁLCULO DA CSL. INCONSTITUCIONALIDADE E ILEGALIDADE INDEMONSTRADAS.
+1. Não maltrata o art. 195-I da CF/88 tampouco os artigos 43 e 110 o comando do § 10 do art. 9º da Lei n. 9.249/95 que dispunha sobre a indedutibilidade dos juros sobre o capital próprio na base de cálculo da contribuição social sobre o lucro. Precedente desta Turma: AMS 97.04.65331-0/PR, Rel. Juiz João Pedro Gebran Neto, maioria, j. 30-11-00.
+2. Apelação improvida” (fl. 102).
+Opostos embargos de declaração (fls. 105 a 108), foram providos “para sanear omissão que resta sanada com aditamento de dizeres aos fundamentos do voto” (fl. 114).
+Alega a recorrente violação dos artigos 145, § 1º, 150, inciso II, 154, inciso I, 195, inciso I, § 4º, e 246 da Constituição Federal.
+Contra-arrazoado (fls. 162 a 167), o recurso extraordinário (fls. 147 a 155) foi admitido (fls. 171/172).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 8/5/02, conforme expresso na certidão de folha 114, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Colhe-se do voto condutor do acórdão recorrido:
+“A Lei 9.249, de 29 de dezembro de 1995, extinguiu (art. 4º) a correção monetária das demonstrações financeiras, mais conhecida no meio contábil como correção monetária de balanço (CMB), substituindo, de certa forma, o instituto extinto, ao possibilitar abatimento, no imposto de renda (art. 9º), dos juros pagos ou creditados a acionistas a título de remuneração do capital próprio (rectius: do patrimônio líquido).
+Com efeito, soa o art. 9º, caput, e seu § 10 da lei precitada:
+'Art. 9º A pessoa jurídica poderá deduzir, para efeitos da apuração do lucro real, os juros pagos ou creditados individualizadamente a titular, sócios ou acionistas, a título de remuneração do capital próprio, calculados sobre as contas do patrimônio líquido e limitados à variação, pro rata dia, da Taxa de Juros de Longo Prazo - TJLP.
+...
+§ 10 – O valor da remuneração deduzida, inclusive na forma do parágrafo anterior, deverá ser adicionada ao lucro líquido para determinação da base de cálculo da contribuição social sobre o lucro líquido'.
+A correção monetária das demonstrações financeiras da empresa consistia na atualização monetária do ativo permanente (contas devedoras representativas de bens e direitos de lenta rotação), e do patrimônio líquido (contas credoras representativas do capital próprio). A contrapartida dos lançamentos contábeis dessas contas era registrado em conta lucros & perdas geralmente traduzindo saldo devedor – posto que o normal é o patrimônio líquido ser maior que o ativo permanente – que reduzia o lucro do exercício expressando a perda do poder de compra dos capitais próprios investidos utilizados como capital de giro da empresa, ou seja, aplicado em bens circulantes.
+O § 10 do art. 9º da Lei n. 9.249/95, porém, determinou que o montante correspondente aos juros sobre o capital próprio 'deverá ser adicionado ao lucro líquido para determinação da base de cálculo da contribuição social sobre o lucro líquido'. Dispositivo esse revogado depois pela Lei n. 9.430, de 27 de dezembro de 1996
+A Lei 7.689, de 15 de dezembro de 1988, ao instituir a CSL, definiu no art. 2º que 'A base de cálculo da contribuição é o valor do resultado do exercício, antes da provisão para o Imposto de Renda', apurado em 31 de dezembro, com observância da legislação comercial, mas ajustado por adições e exclusões que elenca nos itens 1 a 6 da alínea 'c' do § 1º desse mesmo artigo.
+Daí se conclui que, ao excluir os juros sobre o capital próprio da base de cálculo da CSL, o § 10 do art. 9º aludido não desbordou para inconstitucionalidade porquanto essa base não correspondente ipsis litteris ao conceito de lucro líquido do exercício apurado para fins societários (Lei 6.404/76), correspondendo isto sim a esse lucro ajustado por adições e exclusões previstas na lei fiscal. Além de não corresponder ao lucro líquido do exercício (conceito contábil) também não corresponde ao lucro real (conceito de lucro para fins de imposto de renda).
+Na realidade, o pagamento ou crédito a acionistas a título de juros sobre o capital próprio, equivale a verdadeira distribuição de lucro, eis que pressuposto legal desse pagamento ou crédito (art. 9º, § 1º) é 'existência de lucros, computados antes da dedução dos juros, ou de lucros acumulados, em montante igual ou superior ao valor de duas vezes os juros a serem pagos ou creditados'.
+Nessa linha de raciocínio, sendo o lucro uma das fontes de financiamento da seguridade social, a cargo da empresa, não há por que deduzir do montante do lucro a parcela 'distribuída' aos acionistas, pois nem a CF/88 (art. 195), em a Lei 7.689/88, prevêem base de cálculo como lucro após o pagamento de dividendos.
+Por outro vértice analisada a questão, e agora de maneira estritamente formal, se a base de cálculo da CSL é o lucro apurado na forma da legislação comercial mas ajustado por adições e exclusões (Lei 7.689/88: art. 2º, § 1º, 'c'), não há empeço algum a que se exclua os juros sobre o capital próprio ainda que se os considere como despesa do exercício, pois, justamente as adições e exclusões são efetuadas para retificar o lucro contábil.
+Diante do exposto, não vislumbro maltrato ao art. 195-I da CF/88, tampouco ofensa ao art. 43 e 110 do CTN. No caso do CTN porque a CF/88 não conceituou lucro, tampouco o CTN, deixando a cargo do legislador infraconstitucional
+Sem plausibilidade jurídica, pois, a tese versada na exordial” (fls. 99/100).
+Como visto, o Tribunal de origem decidiu a controvérsia com fundamento nas Leis nºs 7.689/88 e 9.249/95. Assim, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Sobre o tema, anote-se:
+“CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ART. 4º DA LEI Nº 9.249/95. CORREÇÃO MONETÁRIA DAS DEMONSTRAÇÕES FINANCEIRAS. OFENSA À CONSTITUIÇÃO. I. Somente a ofensa direta à Constituição autoriza a admissão do recurso extraordinário. II. - A verificação, no caso concreto, da ocorrência, ou não, de violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, situa-se no campo infraconstitucional. Precedentes. III. - Agravo não provido” (AI n° 390.682/MG-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 17/10/03).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA DAS PESSOAS JURÍDICAS. ARTIGO 10 DA LEI N. 8.541/92. ARTIGO 3º, I, DA LEI N. 9.249/95. OFENSA INDIRETA. Controvérsia decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. Precedentes. Agravo regimental a que se nega provimento” (RE n° 512.469/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 12/9/08).
+Esse também foi o entendimento adotado pelo Ministro Ricardo Lewandowski em caso idêntico ao dos presentes autos, do qual se extrai o seguinte trecho:
+“(...)
+O recurso não merece acolhida. Com efeito, a apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais (Leis 9.249/95, 7.689/88, 8.981/95, art. 43 do CTN e IN SRF 11/96).
+Nesse sentido, cito, entre outros o AI 734.313-AGR/RS, de minha relatoria:
+“TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. NORMAS INFRACONSTITUCIONAIS. REEXAME DE PROVA. SÚMULAS 279 DO STF. INCIDÊNCIA. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO.
+I – O acórdão recorrido decidiu a questão com base na legislação ordinária, Lei 9.249/95. A afronta à Constituição, se ocorrente, seria indireta. Precedentes.
+II – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+III - Recurso protelatório. Aplicação de multa.
+IV - Agravo regimental improvido” (grifei).
+Portanto, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 338.461-AgR/SP, Rel. Min. Maurício Corrêa; AI 341.583/SP, Rel. Min. Nelson Jobim; AI 614.966/RJ, de minha relatoria; AI 572.418/RS, Rel. Min. Joaquim Barbosa; AI 465.810/RJ, Rel. Min. Cezar Peluso” (RE nº 435.466, Relator o Ministro Ricardo Lewandowski, DJe de 6/11/09).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 16 de agosto de 2010.
+Ministro D IAS T OFFOLI
+Relator
