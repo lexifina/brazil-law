@@ -1,0 +1,12 @@
+DECISÃO: Vistos, etc.
+o agravo não merece acolhida. De saída, observo que, para se chegar à conclusão pretendida pela parte agravante no tocante às alegadas violações aos incisos XXXV, XXXVI de LV do art. 5º da Constituição Republicana, se faz necessária a análise da legislação infraconstitucional pertinente. Logo, eventual ofensa à Carta Magna de 1988 apenas ocorreria de modo reflexo ou indireto, o que não enseja a abertura da via recursal extraordinária.
+2. Quanto ao mais, anoto que a questão foi definitivamente apreciada pelo Plenário desta nossa Casa no julgamento do Conflito de Competência 7.204, da minha relatoria. Na oportunidade, revendo sua própria jurisprudência, o STF concluiu que a Constituição Republicana conferiu tal competência à Justiça do Trabalho, por meio do art. 114, já em sua redação originária.
+3. Não obstante, como imperativo de política judiciária, a Corte decidiu, por maioria, que o marco temporal da competência da Justiça trabalhista é o advento da Emenda Constitucional 45/04. Emenda que explicitou a competência da Justiça especial na matéria em apreço.
+4. Com efeito, o Supremo Tribunal Federal, guardião-mor da Constituição Republicana, pode e deve, em prol da segurança jurídica, atribuir eficácia prospectiva às suas decisões, com a delimitação precisa dos respectivos efeitos, toda vez que proceder a revisões de jurisprudência definidora de competência ex ratione materiae. O escopo é preservar os jurisdicionados de alterações jurisprudenciais que ocorram sem mudança formal do Magno Texto.
+5. Para o fim de salvaguardar tão alta função, assentou-se que o novo entendimento atinge apenas os processos em trâmite na Justiça comum estadual e pendentes de julgamento de mérito. É dizer: as ações que tramitam na Justiça comum dos Estados, com sentença de mérito anterior à promulgação da EC 45/04, lá continuam até o trânsito em julgado e correspondente execução. Quanto àquelas cujo mérito ainda não foi apreciado, hão de ser remetidas à Justiça do Trabalho, no Estado em que se encontram, com total aproveitamento dos atos praticados até então.
+6. No caso, já apreciado o mérito do pedido pela Justiça paulista, anteriormente à EC 45/04 (sentença de fls. 69-71), firmada está sua competência.
+Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 17 de agosto de 2010.
+Ministro AYRES BRITTO
+Relator
