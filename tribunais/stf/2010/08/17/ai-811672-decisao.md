@@ -1,0 +1,21 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE COMPLEXIDADE DA CAUSA E INCOMPETÊNCIA DO JUIZADO ESPECIAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto julgado da Turma Recursal do Juizado Especial de Patos de Minas/MG, a qual afastou a alegação de complexidade da causa e de incompetência do Juizado Especial e manteve sentença que condenara o ora Agravante à correção de saldo de caderneta de poupança da Agravada.
+3. No recurso extraordinário, o Agravante alega que “houve afronta ao art. 98, I, CR/88, vez que fora julgado pelo Juizado Especial Cível e pela respectiva Turma Recursal matéria cuja complexidade está cabalmente exposta, pois se trata de diferenças inflacionárias” (fl. 135).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula 279 do Supremo Tribunal Federal (fls. 154-155).
+O Agravante assevera que estariam presentes os pressupostos de admissibilidade do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. A solução da questão relativa à complexidade da causa para efeito de competência dos Juizados Especiais dependeria da análise do art. 3º da Lei n. 9.099/95, razão pela qual eventual contrariedade ao art. 98, inc. I, da Constituição seria indireta.
+Ademais, seria imprescindível o reexame de prova, o que é vedado pela Sumula 279 do Supremo Tribunal Federal. Nesse sentido:
+“PROCESSUAL CIVIL. COMPETÊNCIA. COMPLEXIDADE DA DEMANDA. VALOR DA CAUSA. JUIZADO ESPECIAL FEDERAL. LEI 10.259/01. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL” (AI 768.339-RG, Rel. Min. Ricardo Lewandowski, Dje 20.11.2009 – grifos nossos).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. FORNECIMENTO DE MEDICAMENTOS. PRODUÇÃO DE PROVA PERICIAL. JUIZADO ESPECIAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Fornecimento de medicamentos. Impossibilidade do reexame de provas (Súmula 279). 2. Competência dos Juizados Especiais. Complexidade da matéria. Controvérsia infraconstitucional. Precedentes” (AI 691.906-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009 – grifos nossos).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões novas. Competência em razão da complexidade da causa. Matéria infraconstitucional. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte. 2. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões novas. Desequilíbrio econômico-financeiro do contrato. Reexame de provas e cláusulas contratuais. Aplicação das súmulas 279 e 454. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte” (RE 546.582-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 23.11.2007 – grifos nossos).
+7. Nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 17 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
