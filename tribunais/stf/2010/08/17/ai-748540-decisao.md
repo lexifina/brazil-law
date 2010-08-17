@@ -1,0 +1,28 @@
+D ECIS Ã O:
+Vistos.
+Hans Peter Stern e outros interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, caput, e 145, § 1º, da Constituição Federal.
+Insurgem-se, no apelo extremo, contra acórdão da Terceira Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+“PROCESSUAL- CONSTITUCIONAL – SEGURO OBRIGATÓRIO – EMBARCAÇÕES DE ESPORTE E RECREIO – RESOLUÇÃO 009/72 – INCIDÊNCIA – APLICAÇÃO – CONSELHO NACIONAL DE SEGUROS PRIVADOS E SUSEP – CONSTITUCIONALIDADE.
+1 – Os impetrantes não têm interesse em recorrer, vez que para isto, não basta ter legitimidade, é preciso também ter interesse, e este decorre do prejuízo que a decisão, a sentença ou o acórdão possam ter causado ao recorrente e a situação mais favorável em que este ficará.
+2 - O art. 10 da Lei 8.374/91, ao estabelecer o seguro obrigatório de responsabilidade civil dos transportadores terrestres, marítimos, fluviais e lacustres por danos pessoais ocasionados, não faz, na realidade, qualquer distinção se de carga, de passageiro, esporte ou recreação, não sendo caso de o intérprete distinguir onde o legislador assim não o fez.
+3 - A Lei 8.392/91, em seu art. 1º, atribui ao Conselho Nacional de seguro Provado, a competência para normatizar a matéria, inclusive no que tange à fixação dos valores e prêmios, cabendo à SUSEP a fiscalização das sociedades seguradoras quanto ao exato cumprimento das normas estabelecidas pelo referido Conselho, da mesma forma que a Capitanias dos Portos, por meio de suas Delegacias e Agências, cabe a manutenção do controle de todos os autos de infração e de apreensão de embarcações consideradas irregulares.
+4 – Apelação dos impetrantes não conhecida e remessa oficial provida” (fl. 161).
+Opostos embargos de declaração (fls. 163 a 165), foram rejeitados (fls. 168 a 172).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não merece prosperar a irresignação.
+O Tribunal de origem decidiu a controvérsia quanto à exigibilidade do seguro obrigatório para embarcações de transportes marítimos, com fundamento nas Leis nº 8.374/91 e 8.392/91. Do voto condutor colhe-se o seguinte excerto:
+“(...)
+Ora, analisando o presente feito, observa-se que o artigo 10 da Lei 8.374/91, ao estabelecer o seguro obrigatório de responsabilidade civil dos transportadores terrestres, marítimos, fluviais e lacustres por danos pessoais ocasionados, não faz, na realidade, qualquer distinção se de carga, de passageiro, esporte ou recreação, não sendo caso de o intérprete distinguir onde o legislador assim não o fez.
+O termo embarcação é tomado em sentido genérico, abrangendo todos os meios de transporte fluviais, lacustres e marítimos.
+Por outro lado, a Lei 8.392/91, em seu art. 1º, atribui ao Conselho Nacional de seguro Provado, a competência para normatizar a matéria, inclusive no que tange à fixação dos valores e prêmios, cabendo à SUSEP a fiscalização das sociedades seguradoras quanto ao exato cumprimento das normas estabelecidas pelo referido Conselho, da mesma forma que a Capitanias dos Portos, por meio de suas Delegacias e Agências, cabe a manutenção do controle de todos os autos de infração e de apreensão de embarcações consideradas irregulares” (fls. 158/159).
+Os recorrentes, por sua vez, sustentam, in verbis:
+“22. a Constituição federal, em seu artigo 145, § 1º, dispõe que 'sempre que possível, os impostos terá caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte, facultando à administração tributária, especialmente para conferir efetividade a esses objetivos, identificar, respeitados os direitos individuais e no termos da lei, o patrimônio, os rendimentos e as atividades econômicas do contribuinte.' Portanto, verifica-se que a interpretação correta do art. 10 da Lei 8.374/91 é a interpretação feita à luz da Constituição, isto é, em que pese o referido diploma legislativo não ter feito distinção expressa das embarcações para fins de seguro obrigatório de responsabilidade civil de transportes marítimos, o princípio da capacidade contributiva deve ser sempre observado” (fl. 195).
+Seguem afirmando que “a Tabela de Enquadramento das Embarcações para pagamento de seguro tratou igualmente embarcações desiguais, desrespeitando, assim, o princípio acima elucidados. A Tabela nivelou situações completamente diferentes, desconsiderando o fator do risco em função da destinação, capacidade de carga e de passageiros, horas/ano de navegação” (fl. 196).
+Nesse caso, para acolher a pretensão dos recorrentes e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame das legislações infraconstitucionais e das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte.
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 17 de agosto de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
