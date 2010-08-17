@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“ADMINISTRATIVO. POLICIAL CIVIL DO ESTADO DE SÃO PAULO. ESTÁGIO PROBATÓRIO. NÃO APROVAÇÃO. EXONERAÇÃO. POSSIBILIDADE. OFENSA À AMPLA DEFESA E AO CONTRATITÓRIO. INOCORRÊNCIA. ESTRITA OBSERVÂNCIA DO PROCEDIMENTO ADMINISTRATIVO LEGALMENTE PREVISTO. PROCESSO ADMINISTRATIVO COM TODAS AS FORMALIDADES. DESNECESSIDADE. ESTABILIDADE. CONDIÇÃO QUE NÃO AFASTA A SUBMISSÃO AO ESTÁGIO PROBATÓRIO DO NOVO CARGO.
+(...)” (fl. 516).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 5º, LIV e LV, da mesma Carta.
+O agravo não merece acolhida. É que o Superior Tribunal de Justiça decidiu a causa nos seguintes termos:
+“(...) inexiste qualquer ilegalidade perpetrada pela Administração Pública na condução do procedimento administrativo para a não confirmação do Impetrante no cargo de Investigador de Polícia, o que afasta as suas alegações de não observância do devido processo legal, com o contraditório e a ampla defesa que lhes são inerentes.
+Nessa linha, é imperioso noticiar que, em 06/12/1996, o Impetrante ainda interpôs recurso administrativo contra ato exoneratório, conforme se verifica às fls. 42/44, representado, ao que se pode inferir dos autos, por advogado constituído por procuração (fl. 45), sendo certo, da simples leitura das razões do mencionado recurso, que não há qualquer menção à existência de eventual irregularidade no procedimento administrativo, relativa à ofensa à ampla defesa e ao contraditório” ( grifos no original – fl. 512).
+Assim, é patente que o acórdão atacado está em consonância com o entendimento desta Corte no sentido de que a exoneração de servidor público ocupante de cargo efetivo, ainda que em estágio probatório, depende da prévia instauração de procedimento administrativo, tal como ocorreu. Portanto, não que se falar em violação aos princípios insculpidos no art. 5º, LIV e LV, da Constituição.
+Ressalte-se ainda que o ato de exoneração de servidor público reprovado no estágio probatório, em resultado apurado em processo administrativo regular, é dotado de caráter meramente declaratório, incabível, dessa forma, sua revisão em sede extraordinária. Nesse sentido, trago à colação ementa do RE 248.292-AgR/RS, Rel. Min. Maurício Corrêa:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR EM ESTÁGIO PROBATÓRIO. REPROVAÇÃO. EXONERAÇÃO. LEGITIMIDADE DO ATO. 1. O ato de exoneração de servidor público reprovado no estágio probatório, em resultado apurado em processo administrativo regular, é de caráter meramente declaratório. 2. Ofensa ao artigo 41, § 1º, da Carta Federal. Alegação insubsistente. Relevante é o processamento de sindicância para apuração de falta no prazo bienal. Agravo regimental não provido” (grifos meus).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 17 de agosto de 2010.
+–   Ministro RICARDO LEWANDOWSKI
+- Relator -
