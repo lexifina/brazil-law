@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“ADMINISTRATIVO. PAGAMENTO INDEVIDO. COBRANÇA TARDIA DE CORREÇÃO MONETÁRIA. PRESCRIÇÃO QUINQUENAL ACOLHIDA. PARALISAÇÃO DOS DESCONTOS MENSAIS EM FOLHA DE PAGAMENTO E DEVOLUÇÃO DOS VALORES EFETIVAMENTE DESCONTADOS A TÍTULO DE ATUALIZAÇÃO DA MOEDA PELA FEDF. DEVOLUÇÃO PELA ADMINISTRAÇÃO DE VALORES RECEBIDOS A TÍTULO DE INDENIZAÇÃO POR VALORES INDEVIDAMENTE PAGOS A SERVIDORA. IMPOSSIBILIDADE. ATOS ADMINISTRATIVOS EIVADOS DE ILEGALIDADE SÃO PASSÍVEIS DE DECLARAÇÃO DE NULIDADE. INTELIGÊNCIA DAS SÚMULA 346 E 473 DO STF. PRECEDENTES. (...)”.(fl. 269).
+Os embargos declaratórios opostos foram providos tão-somente para esclarecer que “(...) a Lei nº 9.784/99 fora recepcionada no Distrito Federal pela Lei nº 2.834/01 após a decisão da Administração Pública de determinar à servidora pagamento de correção monetária incidente sobre valores recebidos indevidamente” (fl. 26).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, 25, 32, § 1º, e 37 da mesma Carta.
+O agravo não merece acolhida. Isso porque a discussão acerca do prazo decadencial para a administração rever seus próprios atos, demanda a análise de normas infraconstitucionais. Assim, afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono recentes julgados da Primeira Turma desta Corte, quais sejam, RE 602.732-AgR/SP, Rel. Min. Cármen Lúcia e RE 490.850-AgR/DF, de minha relatoria, cujas ementas seguem respectivamente colacionadas:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. REVISÃO DE PROVENTOS. PRAZO DECADENCIAL PARA A ADMINISTRAÇÃO REVER OS SEUS PRÓPRIOS ATOS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”
+“ADMINISTRATIVO. PRAZO DECADENCIAL PARA A ADMINISTRAÇÃO ANULAR SEUS PRÓPRIOS ATOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão dos autos prazo de decadência para a Administração anular seus próprios atos à luz da legislação ordinária. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - Agravo regimental improvido”
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 17 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
