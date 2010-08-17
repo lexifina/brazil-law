@@ -1,0 +1,23 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário de acórdão assim ementado:
+“APELAÇÃO CÍVEL. AÇÃO DEMOLITÓRIA. CONSTRUÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE. AUSÊNCIA DE DANO AO MEIO AMBIENTE. APLICAÇÃO DO PRINCÍPIO DA RAZOABILIDADE.
+A proteção ambiental, mercê de sua relevância, encontra hoje seu núcleo normativo no artigo 225 da Constituição Federal, o qual converteu-a em um bem jurídico, definindo-o como bem de uso comum do povo e essencial à sadia qualidade de vida. Mas tal não importa tornar intocável o ambiente, ou o meio ambiente; tampouco privar o homem de explorar os recursos naturais, porque isso também melhora a qualidade de vida. Não se permite, isso sim, a sua degradação, a sua desqualificação, que implica ou pode implicar no desequilíbrio e no esgotamento.
+O Código Florestal – Lei Federal nº. 4.771 preserva a vegetação numa faixa de trinta metros ao longo de cursos d'água com menos de 10 (dez) metros de largura. Não proíbe, todavia, sua ocupação ou sua utilização.
+No caso, a construção, ainda que parte dela localizada a menos de trinta metros da faixa marginal, não provocou dano. Primeiro, porque preservada a mata ciliar; depois, porque a construção de fossa séptica e sumidouro para tratamento do esgoto doméstico minimiza os efeitos causados ao meio ambiente, como também refere a perícia. Por último, a distância média da construção até a margem do riacho é de 23,00m. Ora, sete metros a menos não serão capazes de provocar dano, ou de agudizar o impacto da intervenção humana no meio ambiente, não se mostrando razoável por este motivo, demolir obra de valor econômico significativo.
+Com efeito, o princípio da razoabilidade permite ao juiz graduar o peso da norma, em uma determinada incidência, quando “não haja proporcionalidade em sentido estrito, ou seja, o que se perde com a medida é de maior relevo do que aquilo que se ganha (proporcionalidade em sentido estrito)”, como pondera Luís Roberto Barroso (Interpretação e Aplicação da Constituição – pág. 373 – Saraiva – sexta edição).
+Com a demolição ganho algum resultará ao meio ambiente, até porque preservada a vegetação; mas há de causar inestimável prejuízo ao Apelante, numa chocante desproporção.
+Superado o óbice ambiental nada impede seja regularizada a obra, que por iniciada sem projeto aprovado ou licença importa apenas na aplicação de multa, como prevê a legislação municipal - art. 32, I da Lei Complementar Municipal nº. 6/96 – Código de Edificações de Bento Gonçalves.
+Apelo provido. Unânime” (fls. 66-67).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 225 da mesma Carta.
+O agravo não merece acolhida. O acórdão recorrido dirimiu a matéria com base na interpretação da legislação infraconstitucional aplicável à espécie (Lei 4.771/65 - Código Florestal). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, confira-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA INFRACONSTITUCIONAL. LEI N. 4.771/65 (CÓDIGO FLORESTAL). OFENSA INDIRETA. 1. O Tribunal a quo não se manifestou explicitamente sobre o tema constitucional tido por violado. Incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. Controvérsia decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento” (AI 540.264-AgR/SP, Rel. Min. Eros Grau, Segunda Turma).
+Além disso, o Tribunal de origem, ao apreciar a controvérsia posta nos autos, decidiu a causa nos seguintes termos:
+“Certo, como informa a perícia, 'qualquer obra de engenharia interfere no meio ambiente'; mesmo uma tenda no deserto do Saara.
+O ponto está em saber se resulta dano.
+No caso, tenho que não. Primeiro, porque preservada a mata ciliar; depois, porque a construção de fossa séptica e sumidouro para tratamento do esgoto doméstico minimiza os efeitos causados ao meio ambiente, como também refere a perícia. Por último, a distância média da construção até a margem do riacho é de 23,00m (perícia – fl. 83 – quesito 2.10).
+Ora, sete metros a menos não serão capazes de provocar dano, ou de agudizar o impacto da intervenção humana no meio ambiente” (fls. 69-70).
+Assim, para se chegar à conclusão contrária à adotada pelo acórdão atacado, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 17 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+   - Relator -
