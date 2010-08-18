@@ -1,0 +1,18 @@
+Trata-se de embargos de declaração opostos contra decisão que deu provimento ao recurso extraordinário ao fundamento de que o art. 97, § 1º, da Constituição de 1967, na redação dada pela EC 01/69, apenas exigia concurso para a primeira investidura no serviço público, o que possibilitava, portanto, o provimento derivado de cargos públicos pelo acesso, transferência, aproveitamento ou progressão funcional, independentemente de certame.
+O embargante alega que, apesar de acolher a pretensão recursal, a decisão embargada incorreu em omissão, devendo-se, portanto:
+“(...) determinar fosse o Recorrente transferido para o Cargo de Auxiliar de Coletoria, SF-1, hoje, Auditor Fiscal do tesouro Estadual, Classe I, Referência 3, com a condenação, ainda, do Estado de Pernambuco, no pagamento das diferenças de vencimentos encontradas, devidamente atualizadas e acrescidas de juros de mora de 1% ao mês, respeitada a prescrição qüinquenal, tudo conforme requerido na peça vestibular” (fl. 259).
+O dispositivo da decisão embargada encontra-se assim redigido:
+“Isso posto, com base nos precedentes acima mencionados, conheço do recurso extraordinário e dou-lhe provimento (CPC, art. 557, § 1º-A), condenada a parte vencida ao pagamento da verba honorária de 10% (dez por cento) do valor da condenação” (fl. 253).
+Note-se, porém, que o recurso extraordinário apresentava pedido alternativo, conforme demonstrado no seguinte trecho da petição recursal:
+“(...) requer seja admitido o recurso, sendo o mesmo conhecido e provido, com a reforma da decisão recorrida para julgarem constitucional o art. 3º da Lei Estadual nº 8.504/80 em face da CF/67 com a redação da EC 01/69 e, de conseqüência,
+1) julgarem procedente o pedido inicial;
+2) se assim não entenderem, devolverem os autos ao Tribunal de origem para novo julgamento” (fls. 177-178).
+Contudo, a decisão embargada não determinou qual dos pedidos realizados pela recorrente teria sido provido.
+Inviável, neste recurso extraordinário, o acolhimento do pedido formulado na inicial no sentido de se determinar a transferência do embargante para o cargo pleiteado e o eventual pagamento das diferenças entre a remuneração do cargo ocupado e a daquele para o qual se pleiteia a transferência. Isto porque a transferência mencionada depende da comprovação, por parte do recorrente, dos eventuais requisitos exigidos pela legislação local. Ocorre que o acórdão recorrido não se manifestou sobre esta demonstração, não cabendo ao Supremo Tribunal Federal fazê-lo, a teor da Súmula 279 desta Corte.
+Em casos como o dos autos, deve o recurso extraordinário ser provido para cassar o acórdão recorrido e determinar que a Corte a quo profira nova decisão com a aplicação da interpretação constitucional firmada pelo STF.
+Isso posto, rejeito o pedido formulado nestes embargos. Esclareço, contudo, o dispositivo da decisão de fls. 252-253, que passa a ter o seguinte teor: Isso posto, com base nos precedentes acima mencionados, conheço do recurso extraordinário e dou-lhe provimento (CPC, art. 557, § 1º-A), para cassar a decisão recorrida e determinar ao Tribunal de origem que proceda a novo julgamento da demanda, tendo como premissa a interpretação conferida por esta Corte ao art. 97, § 1º, da Constituição de 1967, na redação dada pela EC 01/69, condenada a parte vencida ao pagamento da verba honorária de 10% (dez por cento) do valor da condenação.
+Após a publicação desta decisão, devolvam-me os autos conclusos para julgamento do Agravo Regimental de fls. 262-264, interposto pelo Estado de Pernambuco.
+Publique-se.
+Brasília, 18 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
