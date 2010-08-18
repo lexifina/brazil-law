@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. 1) ALEGAÇÃO DE CONTRARIEDADE AO DEVIDO PROCESSO LEGAL: OFENSA CONSTITUCIONAL INDIRETA. 2) CONTROVÉRSIA SOBRE A EXISTÊNCIA DE AMPLA DEFESA E CONTRADITÓRIO: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento interposto contra decisão que não admitiu recurso extraordinário, fundamentado no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+“ADMINISTRATIVO. LICENCIAMENTO DE MILITAR. COMINAÇÃO DE PENA DISCIPLINAR DECORRENTE DE FALTA AO SERVIÇO. REGULAMETNO DISCIPLINAR DA MARINHA. LICENCIAMENTO. VÍCIO DE LEGALIDADE NÃO DEMONSTRADO. SENTENÇA MANTIDA.
+À míngua de demonstração probatória, não se configurou vício formal ou material no ato de licenciamento de militar licenciado ex officio do serviço, a bem da disciplina, por ter deixado de comparecer ao serviço.
+Praticado o licenciamento em consonância com as normas da Lei n. 6.880/80 e observada a prevalência do interesse da instituição, inexiste amparo à pretensão de anulação do ato impugnado.
+Apelação desprovida. Sentença mantida” (fl. 13 – grifos nossos).
+3. No recurso extraordinário, o Agravante alega que o Tribunal a quo teria contrariado o devido processo legal.
+Assevera que “foi desligado da Força à qual servia, sem qualquer instauração de procedimento administrativo apuratório” (fl. 54) e que “houve incidência de duas penas pelo mesmo fato” (fl. 58).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento do dispositivo constitucional supostamente contrariado e a incidência da Súmula 279 do Supremo Tribunal Federal (fls. 111-112).
+O Agravante assevera que estariam presentes os pressupostos para o processamento do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão de direito não assiste ao Agravante.
+6. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a alegação de contrariedade ao devido processo legal, se dependente do exame da legislação infraconstitucional – na espécie vertente, da Lei n. 6.880/80 e do Regulamento Disciplinar da Marinha -, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. INTIMAÇÃO PESSOAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta ” (AI 776.282-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010).
+“ RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+7. A alegação de que não se teria oportunizado a ampla defesa e o contraditório ao Agravante – contrária ao asseverado pelo Tribunal de origem – atrai a incidência da Súmula 279 do Supremo Tribunal Federal e não enseja o recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. PERDA DA GRADUAÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A perda da graduação pode decorrer de processo administrativo disciplinar, desde que observados os princípios do contraditório e da ampla defesa. 2. Tribunal de origem decidiu que houve contraditório e ampla defesa: impossibilidade do reexame das provas. Incidência da Súmula 279 do Supremo Tribunal Federal” (RE 470.546-AgR, de minha relatoria, Primeira Turma, DJe 1º.7.2009 – grifos nossos).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXCLUSÃO DE POLICIAL MILITAR. PROCESSO ADMINISTRATIVO. DEVIDO PROCESSO LEGAL, CONTRADITÓRIO E AMPLA DEFESA. OBSERVÂNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Acórdão recorrido que está em sintonia com a orientação do Plenário do Supremo no sentido de que a prática de ato incompatível com a função policial militar pode implicar a perda da graduação como sanção administrativa, assegurando-se o devido processo legal, o contraditório e a ampla defesa. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário em virtude do óbice da Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 596.191-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 29.9.2006 – grifos nossos).
+8. Nada há, pois, a prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 18 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
