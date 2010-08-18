@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Paulo Izaias de Macedo Filho interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 6º da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Primeira Seção do Superior Tribunal de Justiça, assim ementado:
+“ADMINISTRATIVO - SISTEMA FINANCEIRO DE HABITAÇÃO - FCVS - ATUALIZAÇÃO DO SALDO DEVEDOR - TR - POSSIBILIDADE.
+1. A inconstitucionalidade declarada em relação ao uso da TR como indexador de correção monetária, por meio da ADIn 493/DF, atinge somente os contratos do SFH celebrados antes da publicação da Lei n. 8.177/91, não alcançando os posteriores, os quais prevêem a atualização do saldo devedor por índices aplicáveis aos depósitos da caderneta de poupança.
+2. O Superior Tribunal de Justiça, na esteira da orientação do STF, firmou entendimento segundo o qual, prevendo o contrato imobiliário a correção monetária pelos mesmos índices aplicados aos saldos das cadernetas de poupança, é legítima a utilização da TR, porque é este o índice utilizado para correção dos saldos daquelas contas.” (fl. 63).
+Opostos embargos de declaração (fls. 66 a 69), foram rejeitados (fls. 70 a 78),
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 12/2/07, conforme expresso na certidão de folha 79, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar, uma vez que a alegada violação do artigo 6º da Constituição Federal seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em sede de recurso extraordinário, haja vista que a controvérsia acerca do critério de reajuste do saldo devedor de contrato de mútuo firmado no âmbito do Sistema Financeiro de Habitação para posterior amortização pelo mutuário não prescinde do reexame da legislação infraconstitucional pertinente e do contrato firmado entre as partes. Incidência das Súmulas nº 454 e 636 desta Corte. Nesse sentido, anote-se:
+“DIREITO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. CONTRATO DE MÚTUO. TR. ATUALIZAÇÃO MONETÁRIA DO SALDO DEVEDOR. ALEGAÇÃO DE VIOLAÇÃO AO ART. 6º DA CONSTITUIÇÃO FEDERAL.OFENSA INDIRETA OU REFLEXA. SÚMULA STF 454. 1. O debate acerca da utilização da TR como índice de atualização do saldo devedor nos contratos do sistema financeiro de habitação é de nível infraconstitucional (Lei 4.380/64). 2. A apreciação do apelo extremo demanda o reexame de cláusulas contratuais (Súmula STF 454). Precedentes. 3. Agravo regimental improvido” (AI nº 746.435/DF-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, Dje de 5/2/10).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO CIVIL. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. CRITÉRIO DE AMORTIZAÇÃO DE DÍVIDA. CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS (SÚMULA 454). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 746.249/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/7/09).
+Ressalte-se que o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do RE nº 579.073/DF, Relator o Ministro Cezar Peluso, concluiu pela ausência da repercussão geral da matéria constitucional versada nesse feito. A decisão do Pleno está assim ementada:
+“RECURSO. Extraordinário. Incognoscibilidade. Sistema financeiro da habitação. Contrato de mútuo. Saldo devedor. Critério de reajuste. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa ao critério de reajuste de saldo devedor de contrato de mútuo firmado no âmbito do sistema financeiro da habitação, versa sobre matéria infraconstitucional”.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 18 de agosto de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
