@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+“TRIBUTÁRIO. IPI. CREDITAMENTO. EMPRESA OPTANTE PELO SIMPLES. IMPOSSIBILIDADE. ART. 5º, § 5º, DA LEI 9.137/96. CONSTITUCIONALIDADE. OFENSA AOS PRINCÍPIOS DA CAPACIDADE CONTRIBUTIVA E ISONOMIA NÃO CARACTERIZADA.
+1. O princípio da não cumulatividade deve merecer interpretação sistemática, aplicando-se o sistema por inteiro de princípios, no caso especial, o art. 170, IX, da CF, que confere tratamento favorecido às empresas de pequeno porte.
+2. Constitucionalidade do art. 5º, § 5º, da Lei nº 9.317/96, declarada por esta Corte em sede da Argüição de Inconstitucionalidade na AMS nº 2001.70.09.000865-6/PR
+3. A lei hostilizada obedece aos parâmetros de adequação, proporcionalidade e razoabilidade, e sob este aspecto não se há de afrontar os seus dispositivos. O que não se pode é construir um sistema "Simples Híbrido", ao desamparo da lei, sob o pretexto de ser mais favorável ao contribuinte” (fl. 229).
+Neste RE, fundado no art. 102, III, a e c, da Constituição, alegou-se, preliminarmente, a nulidade do acórdão recorrido por ofensa aos arts. 5º, XXXIV, XXXV, LIV e LV, e 93, IX, da mesma Carta.
+No mérito, sustentou-se, em suma, a inconstitucionalidade do § 5º do art. 5º da Lei 9.317/96.
+A pretensão recursal não merece acolhida.
+Inicialmente, quanto à preliminar de nulidade do acórdão recorrido, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Quanto ao mérito, melhor sorte não assiste à recorrente. O Plenário desta Corte, no julgamento do RE 353.657/PR, Rel. Min. Marco Aurélio, e do RE 370.682/SC, Rel. Min. Ilmar Galvão, deu provimento aos recursos por entender que, nas hipóteses de não-tributação ou de alíquota zero do IPI, a admissão do creditamento implica ofensa ao art. 153, § 3º, II, da Constituição.
+Na ocasião, levantou-se como um dos óbices ao reconhecimento do crédito, a impossibilidade do Judiciário, ao atribuir crédito presumido, atuar como legislador positivo, ante a inexistência de parâmetro normativo para se definir a quantia a ser compensada.
+A tese se aplica ao caso em questão, uma vez que o montante pago a título de IPI nos termos da Lei 9.317/96 não serve de critério na definição do crédito a ser reconhecido e nem a ser compensado.
+Com efeito, a empresa inscrita no SIMPLES que for contribuinte do IPI terá acréscimo único de 0,5% sobre sua receita bruta mensal, enquanto que a não inscrita recolhe o imposto, em regra, com base em alíquotas seletivas em função da essencialidade sobre o valor da operação com produtos industrializados.
+Ou seja, o valor recolhido com base exclusivamente nesse acréscimo não equivale necessariamente ao pagamento do imposto com a mesma alíquota por uma empresa não optante do SIMPLES, uma vez que a receita bruta da pessoa jurídica nem sempre é idêntica ao valor das operações com produtos industrializados.
+Assim, ainda que reconhecida a inconstitucionalidade do § 5º do art. 5º da Lei 9.317/96, não seria possível ao Judiciário reconhecer a existência de crédito ou a possibilidade de compensação de débito de IPI derivado do acréscimo de 0,5% pago pelas empresas inscritas no SIMPLES.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 18 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
