@@ -1,0 +1,14 @@
+1.  Cuida-se de Agravo de Instrumento interposto por contribuinte visando à admissão de recurso extraordinário contra acórdão relativo à Taxa de Controle e Fiscalização Ambiental instituída pela Lei 10.165/00.
+2.  Não merece seguimento o Agravo, porquanto o próprio recurso extraordinário que pretende ver admitido está em confronto com a jurisprudência deste Tribunal.
+ O Plenário decidiu a questão nos autos do RE 416.601/DF, Min. Carlos Velloso, ainda em agosto de 2005, verbis:
+“IBAMA: TAXA DE FISCALIZAÇÃO. Lei 6.938/81, com a redação da Lei 10.165/2000, artigos 17-B, 17-C, 17-D, 17-G. C.F., art. 145, II. I. – Taxa de Controle e Fiscalização Ambiental – TCFA – do IBAMA: Lei 6.938, com a redação da Lei 10.165/2000: constitucionalidade. II. – R.E. conhecido, em parte, e não provido”.
+3.  A distinção que o recorrente pretende efetuar entre o seu recurso e aquele já decidido não merece prosperar.
+ Apresenta a matéria invocando violação aos arts. 167, IV, e 154, I, da Constituição, artigos estes aplicáveis a impostos, quando esta Corte já definiu que se trata de taxa com fundamento no art. 145, II. A argumentação, pois, é inadequada e manifestamente improcedente.
+ Relativamente ao art. 23, parágrafo único, da Constituição, é questão que até desborda da validade da taxa propriamente, dizendo respeito a lei complementar fixadora de normas de cooperação entre os entes federados no que diz respeito à sua competência administrativa comum. No acórdão que tratou da validade da taxa em questão destacou-se a existência de atividade de fiscalização a cargo do IBAMA a justificar e legitimar o tributo.
+ Quanto a não ter sido analisada violação ao art. 145, § 2º, da Constituição, cabe ter em conta que este Tribunal analisou detidamente a base de cálculo do tributo, razão pela qual disse da validade também do art. 17-D da lei questionada, o que consta, inclusive, da ementa. No voto condutor, a base de cálculo foi abordada em suas folhas 21 a 24. Sem querer estender a análise, refiro, exemplicativamente, o seguinte trecho do voto condutor, em que adota lição doutrinária quanto à adequação da base de cálculo à estrutura das taxas:
+“Acrescenta Sacha Calmon que, se ‘o valor da taxa varia segundo o tamanho do estabelecimento a fiscalizar’, o que implica maior ou menor trabalho por parte do poder público, maior ou menor exercício do poder de polícia, ‘é mais do que razoável afirmar que acompanha de perto o custo da fiscalização que constitui sua hipótese de incidência, com atendimento, em conseqüência, ‘na medida do humanamente possível’, dos ‘princípios da proporcionalidade e da retributividade’.”
+4.  Ante o exposto, forte no art. 557 do CPC e tendo em conta o princípio da economia processual e a própria garantia da razoável duração do processo, nego seguimento ao recurso.
+ Publique-se.
+ Brasília, 19 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
