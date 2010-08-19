@@ -1,0 +1,20 @@
+DECISÃO: Vistos, etc.
+Cuida-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão singular de ministro do Superior Tribunal de Justiça (relator do HC 173.205). Decisão que indeferiu o provimento cautelar ali requestado, à falta dos seus pressupostos.
+2. Pois bem, o impetrante sustenta a evidente ilegalidade da custódia cautelar dos pacientes, acusados de tráfico ilícito de substância entorpecente e respectiva associação para o tráfico (artigos 33 e 35 da Lei nº 11.343/2006). Estes os principais fundamentos da impetração: a) a segregação já ultrapassa o prazo de 5 meses; b) falta de indícios suficientes de autoria e materialidade delitiva; c) ausência de uma robusta comprovação dos pressupostos do art. 312 do CPP; d) a decisão constritiva se limitou a “indicar a genérica manifestação da autoridade policial”; e) incompetência do magistrado que decretou a prisão processual, dada a inobservância à regra da livre distribuição. Donde o pedido de imediata expedição de alvará de soltura dos pacientes, não obstante o conteúdo da Súmula 691/STF. No mérito, a defesa pugna pela revogação da prisão preventiva de Emerson Donizetti Evangelista; alternativamente, a concessão da liberdade provisória ao paciente Denis Costa Rodrigues.
+3. Ultimada esta síntese da causa, decido. Fazendo-o, relembro a pacífica jurisprudência deste STF no sentido da inadmissibilidade de impetração sucessiva de habeas corpus, sem o julgamento definitivo do HC anteriormente impetrado (cf. HC 79.776, Rel. Min. Moreira Alves; HC 76.347-QO, Rel. Min. Moreira Alves; HC 79.238, Rel. Min. Moreira Alves; HC 79.748, Rel. Min. Celso de Mello; e HC 79.775, Rel. Min. Maurício Corrêa). Jurisprudência, essa, que deu origem à Súmula 691/STF, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+4. É certo que tal jurisprudência comporta relativização, quando de logo avulta que o cerceio à liberdade de locomoção do paciente decorre de ilegalidade ou de abuso de poder (inciso LXVIII do art. 5º da CF/88). Mas não me parece ser este o caso dos autos. Isso porque o quadro empírico desenhado pelas instâncias de origem não favorece o imediato acatamento das teses defensivas. Noutras palavras: o exame prefacial das peças que instruem este processo não me permite acolher a supressão de instância requerida na impetração. Apenas a título de amostragem, reproduzo as seguintes passagens do decreto prisional de Emerson Donizete Evangelista (fls. 307/310):
+“[...]
+O presente inquérito policial foi instaurado para apuração da prática de delitos de roubo, tráfico de drogas, homicídios, formação de quadrilha, entre outros.
+Extrai-se dos autos que o representado foi alvo de interceptação telefônica sendo apurado que, em tese, figura como ‘patrão’ do tráfico de drogas.
+Percebe-se ainda dos autos o interesse do representado em empreender fuga, após a prisão do de Denis Costa Rodrigues.
+[...]
+A prisão preventiva é medida excepcional, sendo suficiente à sua decretação a existência de indícios de autoria, e a satisfação dos requisitos legais previstos no artigo 312, do CPP.
+Assim, a decretação da prisão preventiva do representado é medida que se faz necessária, uma vez que os autos demonstram a intenção do representado em furtar a instrução criminal e eventual aplicação da pena.
+[...]”
+(Grifos acrescidos)
+5. Por outra volta, não posso deixar de anotar que o paciente Denis Costa Rodrigues, preso em flagrante por tráfico ilícito de drogas, nem sequer figurou da petição inicial do habeas corpus impetrado no Superior Tribunal de Justiça (HC 173.205). Tudo a dificultar a superação do óbice da Súmula 691/STF.
+6. Por tudo quanto posto, nego seguimento ao habeas corpus e determino o arquivamento dos autos (§ 1º do artigo 21 do RI/STF). Até para impedir que eventual denegação da ordem impossibilite a rediscussão das matérias veiculadas nestes autos perante a instância judicante competente.
+Publique-se.
+Brasília, 19 de agosto de 2010.
+Ministro AYRES BRITTO
+Relator
