@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discute a validade de cláusula de convenção coletiva de trabalho que prevê estabilidade nos 30 meses anteriores à aquisição do direito à aposentadoria (fls. 152-155).
+ No RE, a parte agravante alega ofensa aos artigos 201, § 7º da Constituição Federal e 9º da Emenda Constitucional 20/98, sustentando, em síntese, que o recorrido não preenchia os requisitos para aquisição do direito à aposentadoria, portanto, não teria direito à estabilidade prevista na norma coletiva (fls. 157-165).
+2.  O recurso não merece prosperar. Depreende-se da ementa do acórdão recorrido que a controvérsia dos autos gravita em torno da interpretação de cláusula normativa pactuada em acordo coletivo de trabalho. Veja-se:
+“ RECURSO DE REVISTA. ESTABILIDADE PRÉ-APOSENTADORIA. Existindo norma coletiva prevendo estabilidade pré-aposentadoria nos trinta meses que antecedem a aposentadoria e considerando que o INSS concedeu ao Reclamante a aposentadoria antes de decorrido este prazo, patente que o Reclamante havia implementado os requisitos da norma coletiva, fazendo jus à estabilidade pretendida. Recurso de Revista não conhecido.” (fl. 152).
+3.  Em casos como o dos autos, o Supremo Tribunal Federal tem se posicionado no sentido de que a matéria discutida é de índole infraconstitucional. Veja-se, por exemplo: AI 527.941-AgR/RJ, de minha relatoria, 2ª Turma, DJe 1º.7.2010; AI 478.071-AgR/MA, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 07.5.2010; AI 730.294-AgR/RS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.3.2009; e AI 639.530-AgR/RJ, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 23.10.2009, este último assim ementado:
+“ AGRAVO REGIMENTAL. ACORDO COLETIVO DE TRABALHO. REPOSIÇÃO DE PERDAS SALARIAIS DECORRENTES DO PLANO BRESSER. SÚMULA 454 DO STF. É inviável recurso extraordinário para a interpretação de cláusula de acordo coletivo de trabalho. Agravo regimental a que se nega provimento”.
+ Nesse mesmo sentido, menciono os seguintes julgados: AI 490.876-AgR/RJ, rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 30.04.2004; AI 518.630-AgR/RJ, rel. Min. Carlos Velloso, 2ª Turma, DJ 1º.04.2005; e AI 518.850-AgR/RJ, rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 15.04.2005.
+4.  Por fim, a discussão sobre o direito à incorporação de cláusulas normativas pactuadas em acordo coletivo em contrato individual de trabalho não possui repercussão geral, como ficou assentado na manifestação desta Corte, em 18.09.2009, no AI 731.954-RG/BA, rel. Min. Cezar Peluso.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 19 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
