@@ -1,0 +1,16 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discutem a existência de redução salarial, a inobservância de cláusula de convenção coletiva de trabalho, e os pressupostos de admissibilidade de recurso de revista para o Tribunal Superior do Trabalho (fls. 184-188).
+ No RE, a parte agravante alega ofensa aos artigos 7º, VI e XXVI da Constituição Federal, sustentando, em síntese, existência de redução salarial e descumprimento de cláusula de convenção coletiva de trabalho (fls. 203-210).
+2.  O recurso não merece prosperar. Depreende-se das razões recursais que a controvérsia dos autos gravita em torno da interpretação de cláusula normativa pactuada em acordo coletivo de trabalho. Veja-se:
+“A interpretação de uma Convenção Coletiva de Trabalho não implica reexame de matéria fática. Trata-se de verdadeira lei, no âmbito de um universo determinado.
+Se a violação constitucional depende de ter havido ou não cumprimento da cláusula do instrumento normativo, a sua análise se impõe como condição precípua.” (fl. 208).
+3.  Em casos como o dos presentes autos, o Supremo Tribunal Federal tem se posicionado no sentido de que a matéria discutida é de índole infraconstitucional, a depender da análise de fatos e provas, cláusulas contratuais (Súmulas STF 279 e 454) e de legislação infraconstitucional. Veja-se, por exemplo: AI 527.941-AgR/RJ, de minha relatoria, 2ª Turma, DJe 1º.7.2010; AI 478.071-AgR/MA, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 07.5.2010; AI 730.294-AgR/RS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.3.2009; e AI 639.530-AgR/RJ, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 23.10.2009, este último assim ementado:
+“ AGRAVO REGIMENTAL. ACORDO COLETIVO DE TRABALHO. REPOSIÇÃO DE PERDAS SALARIAIS DECORRENTES DO PLANO BRESSER. SÚMULA 454 DO STF. É inviável recurso extraordinário para a interpretação de cláusula de acordo coletivo de trabalho. Agravo regimental a que se nega provimento”.
+4.  Ademais, no que diz respeito ao tema de redução do salário, verifico que o acórdão recorrido entendeu ser inviável a admissibilidade do recurso de revista, diante do óbice do art. 896, a, da CLT e Súmula TST 126.
+ Nota-se, desta maneira, que as questões em cujo exame insiste a parte agravante tiveram o acesso barrado pelo Tribunal Superior do Trabalho, em razão do não-preenchimento de pressupostos de admissibilidade de recurso trabalhista. E, segundo reiterado entendimento desta Corte, não cabe recurso extraordinário para rediscussão de questões processuais relativas a pressupostos de cabimento de recurso trabalhista, sob o argumento de violação ao texto constitucional.
+ Frise-se que esta Corte manifestou-se pela inexistência de repercussão geral da matéria no RE 598.365-RG/MG, rel. Min. Carlos Britto.
+5.  Por fim, a discussão sobre o direito à incorporação de cláusulas normativas pactuadas em acordo coletivo em contrato individual de trabalho não possui repercussão geral, como ficou assentado na manifestação desta Corte, em 18.09.2009, no AI 731.954-RG/BA, rel. Min. Cezar Peluso.
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 19 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
