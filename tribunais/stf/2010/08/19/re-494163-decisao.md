@@ -1,0 +1,19 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+“ MANDADO DE SEGURANÇA – UTILIZAÇÃO DO SOLO URBANO – SENTENÇA QUE RECONHECEU A INCONSTITUCIONALIDADE DO DECRETO Nº 18.672/2000 – PRELIMINAR ARGUÍDA DE INCOMPETÊNCIA DO JUÍZO – COMPETÊNCIA DO JUÍZO ATUANTE PERANTE O CARTÓRIO DA DÍVIDA ATIVA DO MUNICÍPIO – PRELIMINAR REJEITADA – PRELIMINAR DE LITISPENDÊNCIA TAMBÉM REJEITADA – ARTIGO 4º DO DECRETO Nº 18.672/2000 PREVÊ A COBRANÇA DE RETRIBUIÇÃO PECUNIÁRIA PARA A REFERIDA UTILIZAÇÃO – DESCARACTERIZAÇÃO DA REFERIDA COBRANÇA COMO ESPÉCIE TRIBUTÁRIA – PREÇO PÚBLICO – DESNECESSIDADE DE EDIÇÃO DE LEI – AUSÊNCIA DE IRREGULARIDADE – RECURSO PROVIDO ” (fl. 737).
+ Os embargos de declaração opostos (fls. 754-759) foram rejeitados (fls. 761-764).
+2.  Nas razões do RE, a recorrente sustenta, em síntese, que o acórdão recorrido “ofendeu duplamente a letra da Constituição da República: de um lado, legitimou a usurpação, pelo recorrido, de competência privativa da União, confundindo totalmente a disciplina constitucional das competências federal e municipal (artigos 21, XI, 22, IV, e 30, I, II, e VIII); de outro, criou injustificável exceção ao princípio constitucional da legalidade tributária (artigo 150, I)” (fl. 872).
+3.  Admitido o recurso na origem (fls. 1.083-1.084), subiram os autos.
+4.  O Ministério Público Federal opinou pelo conhecimento parcial do recurso, e nessa parte, pelo seu improvimento (fls. 1.134-1.142).
+5.  Assiste razão à recorrente. O acórdão recorrido divergiu do recente entendimento firmado pelo Plenário do Supremo Tribunal Federal, no julgamento do RE 581.947/RO, rel. Min. Eros Grau, unânime, DJe 08.06.2010:
+“ RECURSO EXTRAORDINÁRIO. RETRIBUIÇÃO PECUNIÁRIA. COBRANÇA. TAXA DE USO E OCUPAÇÃO DE SOLO E ESPAÇO AÉREO. CONCESSIONÁRIAS DE SERVIÇO PÚBLICO. DEVER-PODER E PODER-DEVER. INSTALAÇÃO DE EQUIPAMENTOS NECESSÁRIOS À PRESTAÇÃO DE SERVIÇO PÚBLICO EM BEM PÚBLICO. LEI MUNICIPAL 1.199/2002. INCONSTITUCIONALIDADE. VIOLAÇÃO. ARTIGOS 21 E 22 DA CONSTITUIÇÃO DO BRASIL .
+1. Às empresas prestadoras de serviço público incumbe o dever-poder de prestar o serviço público. Para tanto a elas é atribuído, pelo poder concedente, o também dever-poder de usar o domínio público necessário à execução do serviço, bem como de promover desapropriações e constituir servidões de áreas por ele, poder concedente, declaradas de utilidade pública.
+2. As faixas de domínio público de vias públicas constituem bem público, inserido na categoria dos bens de uso comum do povo.
+3. Os bens de uso comum do povo são entendidos como propriedade pública. Tamanha é a intensidade da participação do bem de uso comum do povo na atividade administrativa que ele constitui, em si, o próprio serviço público [objeto de atividade administrativa] prestado pela Administração.
+4. Ainda que os bens do domínio público e do patrimônio administrativo não tolerem o gravame das servidões, sujeitam-se, na situação a que respeitam os autos, aos efeitos da restrição decorrente da instalação, no solo, de equipamentos necessários à prestação de serviço público. A imposição dessa restrição não conduzindo à extinção de direitos, dela não decorre dever de indenizar.
+5. A Constituição do Brasil define a competência exclusiva da União para explorar os serviços e instalações de energia elétrica [artigo 21, XII, b] e privativa para legislar sobre a matéria [artigo 22, IV].
+Recurso extraordinário a que se nega provimento, com a declaração, incidental, da inconstitucionalidade da Lei n. 1.199/2002, do Município de Ji-Paraná.”
+6.  Ante o exposto, com fundamento no art. 557, § 1º-A, do CPC, estando o acórdão recorrido em confronto com a orientação firmada por esta Corte, dou provimento ao recurso extraordinário para restabelecer a sentença de fls. 591-599. Sem honorários (art. 25 da Lei 12.016/2009).
+Publique-se.
+Brasília, 19 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
