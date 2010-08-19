@@ -1,0 +1,14 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão no qual se discute a contagem do prazo prescricional para a restituição de imposto cobrado com base em lei posteriormente declarada inconstitucional pelo Supremo Tribunal Federal (fls. 230-238).
+ A parte recorrente alega violação ao art. 5º, XXXVI da Constituição Federal, sustentando, em síntese, que o Tribunal de origem não poderia ter fixado termo inicial da prescrição diverso do constante nos arts. 156, I e 158, I do Código Tributário Nacional (fls. 263-270).
+2.  Não admitido na origem (fls. 277-278), subiram os autos em virtude d e decisão proferida n o AI 578.470 (fl. 304).
+3.  O Ministério Público Federal manifestou-se pelo não-conhecimento do recurso extraordinário (fls. 312-313).
+4 .   O recurso não merece prosperar. O acórdão recorrido decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie (art. 168 do CTN). Assim, eventual ofensa à Constituição Federal seria indireta ou reflexa, o que elide o processamento do apelo extremo.
+ Ademais, o Supremo Tribunal Federal possui entendimento de que é infraconstitucional a discussão sobre o prazo prescricional da restituição de tributo declarado inconstitucional por esta Corte. Nesse sentido: AI 551.535-AgR/SP, rel. Min. Gilmar Mendes, 2ª Turma, DJe 18.4.2008; RE 509.908-AgR/PR, rel. Min. Ayres Britto, 1ª Turma, DJe de 1º.02.2008; AI 680.694-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, DJe 23.10.2009; AI 435.914-AgR/MG, de minha relatoria, 2ª Turma, DJe 19.3.2010; e AI 619.163-AgR/SP, rel. Min. Eros Grau, 2ª Turma, DJe 13.11.2009, estes últimos assim ementados:
+“ DIREITO TRIBUTÁRIO. PRESCRIÇÃO. EMPRÉSTIMO COMPULSÓRIO. RESTITUIÇÃO . 1. A discussão a respeito do prazo prescricional da restituição de tributo declarado inconstitucional pelo Supremo Tribunal Federal se restringe ao âmbito infraconstitucional. Precedentes. 2. Agravo regimental improvido.”
+.................................................................................
+“ AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. TRIBUTO DECLARADO INCONSTITUCIONAL PELO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. Agravo regimental a que se nega provimento.”
+5.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 19 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
