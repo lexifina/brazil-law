@@ -1,0 +1,16 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário contra acórdão do Tribunal Superior do Trabalho o qual negou provimento ao agravo de decisão que não admitiu recurso de revista, nos seguintes termos (fls. 79-81):
+“ AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. Nega-se provimento a agravo de instrumento pelo qual o agravante não conseguiu infirmar os fundamentos do despacho denegatório do recurso de revista”.
+2.  O agravante insiste na violação aos arts. 5º, II, XXXV, XXXVI, LIV e LV, e 93, IX, da Constituição Federal.
+3.  Preliminarmente, o presente agravo não merece seguimento, pois o acórdão recorrido limitou-se a tratar de matéria processual, relativa a pressuposto de admissibilidade de recurso trabalhista, nos termos do art. 896 da CLT. Assim, a alegada contrariedade a dispositivo constitucional somente poderia ocorrer de forma indireta, a depender do exame da legislação infraconstitucional, sem margem para o acesso à via extraordinária.
+Sobre o tema ambas as Turmas desta Corte têm reiterado esse entendimento: AI 486.403- AgR/RS, rel. Min. Carlos Britto, 1ª Turma, DJ 22.04.2005; AI 437.622-AgR/MG, rel. Min. Joaquim Barbosa, 2ª Turma, DJ 10.06.2005; AI 480.496-AgR/PE, rel. Min. Celso de Mello, 2ª Turma, DJ 17.02.2006; e RE 574.197-AgR/RS, de minha relatoria, 2ª Turma, DJe 03.04.2009.
+4.  Ademais, quanto às aludidas ofensas aos arts. 5º e art. 93, IX, da Constituição Federal, além de o fato de decisão contrária aos interesses da parte não caracterizar violação aos dispositivos constitucionais apontados, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,  do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+Nesse sentido: AI 372.358- AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ressalte-se, por fim, que este Tribunal, em 14.08.2009, no julgamento do RE 598.365/MG, rel. Min. Carlos Britto, Plenário Virtual, unânime, decidiu pela inexistência de repercussão geral da matéria relacionada ao requisito de admissibilidade de recurso de competência de corte diversa, cujo acórdão contém a seguinte ementa:
+“ PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso ‘elemento de configuração da própria repercussão geral’, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608”.
+6.  Diante do exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 19 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
