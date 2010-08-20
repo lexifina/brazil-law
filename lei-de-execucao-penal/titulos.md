@@ -72,6 +72,8 @@ CAPÍTULO VII
 Do Patronato
 CAPÍTULO VIII
 Do Conselho da Comunidade
+CAPÍTULO IX
+DA DEFENSORIA PÚBLICA
 TÍTULO IV
 Dos Estabelecimentos Penais
 CAPÍTULO I
