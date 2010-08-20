@@ -1,0 +1,1 @@
+Art. 81-A. A Defensoria Pública velará pela regular execução da pena e da medida de segurança, oficiando, no processo executivo e nos incidentes da execução, para a defesa dos necessitados em todos os graus e instâncias, de forma individual e coletiva.
