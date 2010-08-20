@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1066, de 18 de agosto de 2010
+Aprova o leiaute do arquivo de importação de dados para o Programa Gerador da Declaração de Serviços Médicos e de Saúde (PGD-Dmed) para apresentação das informações relativas aos anos-calendário de 2010 e 2011, nos casos de situação especial.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVII do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto na Instrução Normativa RFB nº 985, de 22 de dezembro de 2009, resolve:
