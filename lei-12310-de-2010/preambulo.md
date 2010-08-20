@@ -1,0 +1,2 @@
+Autoriza a União a doar ao Estado de Mato Grosso as áreas de domínio federal nas Glebas denominadas Maiká, em litígio na Ação Cível Originária nº 488, que tramita no Supremo Tribunal Federal, e Cristalino/Divisa, de que trata a Ação Discriminatória nº 00.00.04321-4, suspensa por decisão do STF na Reclamação nº 2646.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
