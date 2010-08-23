@@ -1,0 +1,34 @@
+D ECIS Ã O:
+Vistos.
+Cuida-se de mandado de segurança coletivo, com pedido de liminar, impetrado pela UNIÃO DOS AUDITORES FEDERAIS DE CONTROLE EXTERNO – AUDITAR em face do egrégio TRIBUNAL DE CONTAS DA UNIÃO, com o objetivo de impedir a extinção do percentual de 11,98%, na forma da Resolução n° 227/09-TCU, e sua exclusão do pagamento dos servidores substituídos.
+A inicial afirma que a Lei nº 11.950, de 17.6.2009, que modificou o Plano de Carreira dos servidores do TCU, determinou a inclusão do índice de 11,98% na remuneração daqueles, a título de recomposição das perdas advindas da conversão da Unidade Real de Valor – URV para o Real.
+Após decisões do Supremo Tribunal Federal nas ADIs nºs 1797/PE e 2321/MC, reconhecendo o direito ao mencionado percentual por servidores de outros órgãos da União, o TCU foi provocado pela impetrante e pela Associação dos Servidores Aposentados e Pensionistas do Tribunal de Contas da União – ASAPTCU e exarou o Acórdão nº 217/2005, publicado no DOU de 17.3.2005, que reconheceu administrativamente o direito objeto das referidas ações diretas declaratórias de inconstitucionalidade.
+A partir de 17.6.2009, a Lei nº 11.950, de 17.6.2009, determinou a incorporação do percentual de 11,98% às Gratificações de Controle Externo – GCE e de Desempenho – GD. Com a intenção de regulamentar essa lei, o TCU editou a Resolução nº 227/09, “que, ao tratar da porcentagem em apreço, ao invés de apenas estabelecer a forma em que se daria a sua incorporação, foi muito além, pois determinou a absorção da parcela de 11,98% pelo aumento concedido às gratificações GCE e GD, extinguindo essa vantagem definitivamente a partir de 1o/7/2010”.
+Essa resolução tem caráter coativo e sua impugnação pela impetrante dá-se por sua qualidade de associação representativa dos servidores do TCU, detendo, por expressa autorização dos estatutos, legitimidade para a promoção de ações judiciais em defesa de seus integrantes.
+Não se operou a decadência da impetração, porque somente em 30.7.2010 é que haverá a implementação da medida extintiva do direito dos substituídos.
+Quanto ao mérito, aponta-se que: a) a incorporação das gratificações ocorrerá por efeito de aplicação de norma inconstitucional – artigo 3º da Lei nº 11.950, de 2009; b) houve decadência do direito de revisão dos próprios atos pela Administração, por força da passagem de lapso temporal e por respeito ao princípio da confiança e dos limites do poder regulamentador do TCU; c) o resíduo de 11,98% tem caráter alimentar.
+Pediu-se liminar para que se expeça determinação à autoridade impetrada no sentido de que se abstenha de extinguir o percentual de 11,98% na forma da Resolução nº 227/09.
+Requereu-se a procedência da impetração, com pedido de dicção incidental de inconstitucionalidade do artigo 3º da Lei nº 11.950, de 2009 e do artigo 14, § 4o da Lei no 12.016/2009.
+Custas recolhidas.
+Documentos juntados.
+A liminar deixou de ser apreciada, no recesso forense, ante a ausência de risco na demora.
+É o relatório.
+Deixo de me pronunciar sobre a questão da decadência da impetração, dada a complexidade da definição do ato coator e de seu momento efetivo de implementação. Ressalvo, contudo, existir forte possibilidade de seu reconhecimento ulterior, na medida em que se combate a Resolução nº 227/09, em vigor há mais de um ano, mas com eficácia concreta em relação à perda financeira em 30.7.2010.
+Feita essa consignação, analiso o pedido de liminar.
+A pretensão mediata da impetrante é declarar a inconstitucionalidade de normas legais vigentes - artigo 3º da Lei nº 11.950, de 2009 e do artigo 14, § 4o da Lei no 12.016/2009 -, que foram interpretadas pela autoridade coatora sob a forma de ato normativo. O cerne da argumentação está, portanto, na existência de incompatibilidade vertical dessas regras com o texto magno.
+Ora, se em sede de ação direta declaratória de inconstitucionalidade (artigo 10, Lei no 9.868, de 10 de novembro de 1999), o juízo cautelar é dependente de manifestação colegiada, à exceção do recesso ou situações teratológicas iminentes, não se pode, em um feito com pedido incidenter tantum, deferir liminar com esse alcance. Ter-se-ia uma atuação destoante da complexidade da tutela pretendida e um barateamento da jurisdição constitucional, ainda que sob a forma clássica do modelo norte-americano, ainda usual entre nós.
+Mais que tudo, as razões da vestibular, que se mostram pouco claras, não trazem elementos satisfatórios a demonstrar a consistência dessa inconstitucionalidade. Arrolam-se diversos princípios constitucionais e doutrinários, de modo genérico, sem que se possa fazer a subsunção com os preceitos legais tidos por incompatíveis.
+A alegativa referente ao periculum in mora foi esvaziada pela não apreciação da liminar no recesso forense, porquanto os efeitos do ato impugnado já se fizeram sentir nos contracheques dos substituídos desde 20 de julho de 2010, como a inicial já o declara. A liminar, por conseguinte, teria o feito de retroativamente impedir o desconto. Se não houve o cuidado de se impetrar a ação desde 2009, considerando-se o ano da expedição do ato coator, é pouco aceitável que a tese do perigo da demora seja admitida quando já se fizeram concretos os efeitos do suposto abuso.
+A jurisprudência da Corte oferece fundamento nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL. MEDIDA LIMINAR. MANDADO DE SEGURANÇA. ADMINISTRAÇÃO PÚBLICA. DESPESAS. ACESSO. LIMINAR. PERICULUM IN MORA. AUSÊNCIA. MEDIDA SATISFATIVA. AGRAVO PROVIDO. LIMINAR INDEFERIDA. I - A concessão de medida liminar em mandado de segurança pressupõe a ineficácia da medida, caso seja deferida ao final. Além disso, a impetrante não demonstrou urgência na publicação das informações buscadas. II - A medida liminar, ademais, se mostra satisfativa, isto é, esvazia o próprio objeto do mandamus. III - Agravo regimental provido, para indeferir a liminar.”
+(MS 28177 MC-AgR, Relator Min. Marco Aurélio, Relator p/ Acórdão: Min. Ricardo Lewandowski, Tribunal Pleno, DJe 18-12-2009)
+Ademais, como ressaltou Carlos Alberto Menezes Direito (Manual do mandado de segurança. 2 ed. Rio de Janeiro: Renovar, 1994. p.108), a concessão da liminar possui no periculum in mora seu “elemento de maior substância”, por conta da própria periclitação do direito a que visa proteger. Se a associação autora não teve o cuidado de preservar temporalmente sua pretensão, é evidente que o Poder Judiciário não poderá se subrrogar nessa função, atuando como síndico de interesses privados.
+Ante o exposto, indefiro a liminar.
+Notifique-se a autoridade impetrada, no prazo legal.
+Ciência à Advocacia-Geral da União, nos termos da lei.
+Após, com ou sem informações, remetam-se os autos à douta Procuradoria-Geral da República.
+Publique-se.
+Brasília, 23 de agosto de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
