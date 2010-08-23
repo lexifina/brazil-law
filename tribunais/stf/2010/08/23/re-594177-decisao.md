@@ -1,0 +1,26 @@
+D ECIS Ã O:
+Vistos.
+União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quinta Turma do Tribunal Superior do Trabalho, assim ementado:
+“AGRAVO. DECISÃO MONOCRÁTICA. PRECATÓRIO COMPLEMENTAR. ATRASO NO PAGAMENTO. JUROS DE MORA. PARÁGRAFO 2º DO ARTIGO 100 DA CONSTITUIÇÃO DE 1988. ARTIGO 896, § 2º, DA CLT E SÚMULA Nº 266 DO TRIBUNAL SUPERIOR DO TRABALHO.
+1. Restrita a disposição do parágrafo 2º do artigo 100 da Constituição de 1988 ao disciplinar o prazo para o pagamento dos precatórios judiciais, não há como violar sua literalidade a determinação de incidência de juros de mora nos casos em que se verifica o atraso no pagamento de precatório complementar.
+2. Agravo a que se nega provimento” (fl. 405).
+Alega a recorrente violação dos artigos 5º, incisos II, XXXVI, LIV e LV, e 100, §§ 1º e 2º, da Constituição Federal, uma vez que “inexiste, por tanto, na espécie, a denominada 'mora debitoris', senão a mera observância do procedimento previsto constitucionalmente para o pagamento dos créditos devidos pela Fazenda Pública” (fl. 418).
+Sem contrarrazões (fl. 423), o recurso extraordinário (fls. 414 a 421) foi admitido (fls. 424 a 428).
+Decido.
+A Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao artigo 102 da Constituição Federal, criou a exigência da demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário. A matéria foi regulamentada pela Lei nº 11.418/06, que introduziu os artigos 543-A e 543-B ao Código de Processo Civil, e o Supremo Tribunal Federal, através da Emenda Regimental nº 21/07, dispôs sobre as normas regimentais necessárias à sua execução. Prevê o artigo 323 do Regimento Interno do Supremo Tribunal Federal, na redação da Emenda Regimental nº 21/07, que, quando não for o caso de inadmissibilidade do recurso extraordinário por outra razão, haverá o procedimento para avaliar a existência de repercussão geral na matéria objeto do recurso.
+Esta Corte, com fundamento na mencionada legislação, quando do julgamento da Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, firmou o entendimento de que os recursos extraordinários interpostos contra acórdãos publicados a partir de 3/5/07, data da publicação da Emenda Regimental nº 21/07, deverão demonstrar, em preliminar do recurso, a existência da repercussão geral das questões constitucionais discutidas no apelo.
+No caso em tela, o recurso extraordinário possui a referida preliminar e o apelo foi interposto contra acórdão publicado em 14/12/07 (fl. 410), quando já era plenamente exigível a demonstração da repercussão geral.
+Os artigos 543-A, § 3º, do Código de Processo Civil e 323, § 1º, in fine, do RISTF, na redação da Emenda Regimental nº 21/07, prevêem que haverá repercussão geral sempre que o recurso impugnar decisão contrária a súmula ou jurisprudência dominante desta Corte, o que, efetivamente, ocorre no caso dos autos.
+Com efeito, a irresignação merece prosperar, uma vez que o Plenário desta Corte, em sessão realizada por meio eletrônico, concluiu, no exame do Recurso Extraordinário nº 591.085/MS-QO, Relator o Ministro Ricardo Lewandowski, pela existência da repercussão geral do tema constitucional versado no presente feito, qual seja, a impossibilidade de incidência de juros de mora sobre os precatórios, no período compreendido entre a sua expedição e o seu pagamento, quando realizado até o final do exercício seguinte.
+Ao apreciar o mérito, o Plenário confirmou a jurisprudência consolidada nesta Corte no sentido da inconstitucionalidade da incidência de juros de mora no período entre a inclusão do precatório em orçamento até o prazo constitucional previsto para seu pagamento, qual seja, até o final do exercício seguinte. O julgamento restou assim ementado:
+“CONSTITUCIONAL. PRECATÓRIOS. JUROS DE MORA. INCIDÊNCIA DURANTE O PRAZO PREVISTO NA CONSTITUIÇÃO PARA SEU PAGAMENTO. IMPOSSIBILIDADE. ART. 100, § 1º (REDAÇÃO ORIGINAL E REDAÇÃO DADA PELA EC 30/2000), DA CONSTITUIÇÃO.
+I - QUESTÃO DE ORDEM. MATÉRIA DE MÉRITO PACIFICADA NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE O MESMO TEMA. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 579.431-QO/RS, RE 582.650-QO/BA, RE 580.108-QO/SP, MIN. ELLEN GRACIE; RE 591.068-QO/PR, MIN. GILMAR MENDES; RE 585.235-QO/MG, REL. MIN. CEZAR PELUSO. II – Julgamento de mérito conforme precedentes.
+III – Recurso provido” (DJe de 20/2/09).
+Demais disso, o Tribunal Pleno, em sessão do dia 29/10/09, aprovou o Enunciado Vinculante nº 17, deste Tribunal, com a seguinte redação:
+“Durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos.”
+Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para afastar a incidência de juros moratórios entre a data de inclusão do precatório no orçamento e o prazo constitucional previsto para seu pagamento, qual seja, até o final do exercício seguinte.
+Publique-se.
+Brasília, 23 de agosto de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
