@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF10 nº 64, de 12 de julho de 2010
+ASSUNTO: Normas de Administração Tributária RETENÇÃO NA FONTE. DISPENSA. PAGAMENTO A OPTANTE PELO SIMPLES NACIONAL. DECLARAÇÃO APRESENTADA À FONTE PAGADORA. PERÍODO DE VALIDADE. A declaração de optante pelo Simples Nacional a que se refere o art. 4º da IN SRF nº 480, de 2004, em princípio, é válida para todo ano-calendário, todavia, deve ser desconsiderada, se a empresa contratada informar sua exclusão deste regime de tributação, conforme compromisso assumido na referida declaração. DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 16; Lei nº 10.426, de 2002, art. 7º; e IN SRF nº 480, de 2004, arts. 1º, 3º, XI, 4º e 6º.
+[arquivo anexo: SC SRRF10-Disit nº 64 - 2010.pdf]
