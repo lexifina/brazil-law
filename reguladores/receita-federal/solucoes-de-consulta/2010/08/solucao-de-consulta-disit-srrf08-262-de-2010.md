@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF08 nº 262, de 27 de julho de 2010
+Assunto: Imposto sobre Produtos Industrializados - IPI
+INDUSTRIALIZAÇÃO POR ENCOMENDA. REMESSA DE MOLDES.
+Entende-se como industrialização por encomenda, para fins de tributação pelo IPI, a execução de operação de injeção de alumínio e zamak, sob pressão e derivados, por encomenda de estabelecimento industrial de terceiro, com a remessa de moldes (no sentido corpóreo) pelo estabelecimento encomendante. Entretanto, a saída do produto industrializado do estabelecimento industrializador (executor da encomenda) para o encomendante dar-se-á acompanhado de nota fiscal com destaque do imposto, não podendo ser aplicada a suspensão de que trata o art. 43, inciso VII, do RIPI/2010, tendo em vista que nessa saída um dos requisitos estipulados no referido inciso VII e que condicionam a aplicação da suspensão do imposto não foi atendido, isto é, o do envio (do encomendante para o executor da encomenda) de matérias-primas, produtos intermediários e materiais de embalagem com suspensão do IPI.
+Dispositivos Legais: Decreto Nº 7.212, de 2010-Ripi/2010, art. 9º, inciso IV, art. 43, incisos VI e VII; PN CST Nº 202, de 1970; e PN CST Nº 71, de 1979.
+[arquivo anexo: SC SRRF08-Disit nº 262-2010.pdf]
