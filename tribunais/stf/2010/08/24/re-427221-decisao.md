@@ -1,0 +1,34 @@
+DECISÃO
+Vistos.
+O ESTADO DE RORAIMA interpõe recurso extraordinário (folhas 153 a 171) contra acórdão proferido pela Terceira Turma Suplementar do Tribunal Regional Federal da 1ª Região, assim ementado:
+“CONSTITUCIONAL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. DÉBITO DE EX-TERRITÓRIO. ESTADO DE RORAIMA. LEGITIMIDADE PASSIVA 'AD CAUSAM'. RECONHECIMENTO. SUCESSÃO. LEI COMPLEMENTAR N. 41/81. ART. 14 DO ADCT.
+- De acordo com os arts. 14 do DCT e 15 da Lei Complementar n. 41/81, foram transferidos ao Estado de Roraima as rendas, direitos e obrigações relativos ao período do antigo território, o que significa dizer que é parte legítima em feitos executivos que tenham por objeto dívidas contraídas em seu interesse, ainda que em datas anteriores à sua instalação.
+- Apelação e remessa oficial improvidas.” (folha 109).
+Interpostos embargos de declaração (folhas 111 a 127), não foram conhecidos, por intempestivos (folha 129).
+Insurge-se, no apelo extremo, fundado na alínea “a”, do permissivo constitucional, contra alegada contrariedade ao artigo 14, §§ 1º, 2º e 4º, do Ato das Disposições Constitucionais Transitórias da Constituição Federal, em razão de ter sido reconhecida sua responsabilidade pelo pagamento de dívida contraída pela União, à época em que o Estado ainda não havia sido criado, existindo-se então, portanto, apenas o Território Federal.
+Depois de apresentadas contrarrazões (folhas 173 a 178), o recurso foi admitido na origem (folha 229), o que ensejou a subida dos autos a esta Suprema Corte.
+O recurso especial paralelamente interposto teve seu andamento sobrestado, enquanto se aguardava o julgamento do presente apelo extremo (folhas 232/233).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 27/2/02, conforme expresso na certidão de folha 130, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação, contudo, não merece prosperar, não devendo o presente recurso sequer ser conhecido.
+E isso porque foi considerado intempestivo o recurso de embargos de declaração interposto pelo recorrente contra o acórdão regional que foi desfavorável a seus interesses.
+Em hipóteses como essa, tem-se que não se considera interrompido o prazo para a interposição de novos recursos e, então, como o aludido acórdão foi publicado em 22/1/02 (folha 110) e, o presente recurso, apenas foi interposto no dia 4/3/02, forçoso se mostra reconhecer sua intempestividade.
+Pacífica se mostra a jurisprudência deste Supremo Tribunal Federal a respeito da matéria, do que, para ilustrar, são mencionadas as ementas dos seguintes precedentes:
+“1. Embargos de declaração não conhecidos por incabíveis ou porque interpostos fora do prazo legal não suspendem nem interrompem o prazo para a interposição do extraordinário, que se encontra, por este motivo, intempestivo. 2. Agravo regimental improvido” (AI nº 530.539/SP-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 4/3/2005)
+“Não suspende o prazo para a manifestação de recurso extraordinário a intempestiva oposição de embargos declaratórios ao acórdão recorrido” (RE nº 239.421/SC-AgR, Primeira Turma, Relator o Ministro Octavio Gallotti , DJ de 7/12/2000)
+“RECURSO. Embargos de declaração. Não conhecimento. Inocorrência de suspensão ou interrupção do prazo para interposição de outro recurso. Intempestividade reconhecida. Não se conhece de embargos declaratórios opostos a acórdão transitado em julgado” (AI nº 563.548/RS-AgR-ED-ED, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 1º/6/2007).
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO INTERPOSTO POR MEIO DE FAC-SÍMILE. PRAZO PARA APRESENTAÇÃO DE ORIGINAIS. CINCO DIAS IMPRORROGÁVEIS E CONTÍNUOS. EMBARGOS DECLARATÓRIOS NÃO CONHECIDOS NÃO INTERROMPEM OU SUSPENDEM PRAZO RECURSAL. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. AGRAVO IMPROVIDO. I - Os originais do recurso devem ser entregues em Juízo até cinco dias da data do término do prazo recursal. II - Esse prazo é improrrogável e contínuo, ainda que se trate de dia sem expediente forense. III - Embargos declaratórios que não foram conhecidos por serem intempestivos, não suspendem nem interrompem o prazo para a interposição de outro recurso. IV - Agravo regimental improvido” (AI nº 653.421/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 19/9/2008).
+Como se não bastasse, a análise acerca da alegada violação dos princípios constitucionais objetos do presente recurso demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como de normas infraconstitucionais utilizadas na fundamentação da decisão recorrida, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõem as Súmulas 279 e 280 desta Suprema Corte.
+De fato, assim restou fundamentada a decisão atacada, quanto à rejeição da pretensão deduzida pelo recorrente, ao embargar a execução que contra si foi ajuizada:
+“Por força do art. 14 do ADCT, foram transformados em Estados os antigos Territórios Federais de Roraima e do Amapá, sendo especificado pelo § 1º do referido dispositivo que a transformação e instalação das novas unidades federativas observaria os mesmos critérios seguidos para a criação do Estado de Rondônia. À frente, no § 3º, determina que ainda que os referidos Estados teriam governadores indicados pelo Presidente da República até a instalação definitiva, que se daria com a posse dos governadores eleitos em 1990. O Estado já estava criado tão logo esgotou-se o prazo de 45 dias previsto no citado § 3º. Portanto, irrelevante o fato de o débito exeqüendo ser anterior à data de instalação do Estado.
+Já o art. 15 da Lei Complementar n. 41/81, editada por ocasião da criação do Estado de Rondônia, dispôs:
+'Art. 15 –Ficam transferidos ao Estado de Rondônia o domínio, a ‘posse e a administração dos seguintes bens e imóveis:
+I – os que atualmente pertencem ao Território Federal de Rondônia;
+II – os efetivamente utilizados pela Administração do Território Federal de Rondônia;
+III – rendas, direitos e obrigações decorrentes dos bens especificados nos incisos I e II, bem como os relativos aos convênios, contratos e ajustes firmados pela União, no interesse do Território Federal de Rondônia'.
+O roteiro traçado evidencia que o Estado de Roraima, similarmente à Rondônia, sucedeu a União Federal nas rendas, direitos e obrigações relativos ao período do antigo território, o que inclui o débito objeto da execução questionado pelo Embargante” (fl. 107).
+Ante o exposto, não conheço do recurso.
+Publique-se.
+Brasília, 24 de agosto de 2010.
+Ministro DIAS TOFFOLI
+Relator
