@@ -1,0 +1,21 @@
+DECISÃO: Vistos, etc.
+Cuida-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão proferido pelo Superior Tribunal de Justiça. Acórdão assim ementado:
+“RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. PARCELAMENTO DO DÉBITO FISCAL. EXTINÇÃO DA PUNIBILIDADE. NÃO OCORRÊNCIA. ART. 9.º DA LEI N.º 10.684/2003.
+1. É firme o entendimento do Superior Tribunal de Justiça no sentido de que o parcelamento de débito tributário não é causa de extinção da punibilidade, mas sim de suspensão da pretensão punitiva estatal, durante o período em que o devedor estiver incluído no programa de parcelamento, conforme o disposto no art. 9.º, caput, da Lei 10.684/2003. Precedentes.
+2. Recurso desprovido.”
+2. Pois bem, os impetrantes sustentam a flagrante ilegalidade do processo-crime instaurado contra os pacientes. Pacientes denunciados por sonegação fiscal (inciso IV do artigo 1º, combinado com o artigo 11, ambos da Lei nº 8.137/90). Argumentam que os réus aderiram ao parcelamento do débito tributário objeto da denúncia (artigo 34 da Lei nº 9.249/95) em data anterior ao respectivo recebimento. O que significa dizer que a inicial acusatória foi acatada quando já extinta a punibilidade dos pacientes, dado que o simples pagamento da 1ª parcela opera “uma novação da dívida” (fls. 17). Daí sustentar que o acórdão proferido pelo Superior Tribunal de Justiça incorreu em ilegalidade flagrante ao deixar de proclamar a extinção da punibilidade dos réus. Até porque a lei posterior (10.684/2003) não pode surtir efeitos retroativos.
+3. Presente esta moldura, a defesa requer o deferimento de medida liminar para suspender o andamento da ação penal em trâmite contra os acionantes (Processo nº 576.01.2003.048680-2/0000000-000). No mérito, o pedido é de anulação do acórdão impugnado, “determinando-se que seja apreciado novamente o pedido de extinção da punibilidade dos pacientes” (fls. 67).
+4. Feito este breve relato da causa, decido. Fazendo-o, pontuo, de saída, que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+5. No caso, não estão configurados, de plano, os pressupostos autorizadores da concessão da medida liminar. E a primeira dificuldade que encontro está na provável artificialização do perigo na demora da prestação jurisdicional. Isso porque o acórdão impugnado nestes autos foi proferido ainda em 26 de novembro de 2009; sendo certo que a presente impetração foi protocolada apenas em 27.07.2010.
+6. Por outra volta, tenho que as teses defensivas esbarram na jurisprudência deste STF. Refiro-me, a título de amostragem, ao RHC 89.152, da relatoria do Ministro Ricardo Lewandowski, verbis:
+“EMENTA: PENAL. PROCESSUAL PENAL. HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. PARCELAMENTO DE DÉBITO. SUSPENSÃO DA PUNIBILIDADE. ART. 9º DA LEI 10.684/03. SUSPENSÃO DA PRESCRIÇÃO PUNITIVA.
+I - O simples parcelamento de débito tributário não é procedimento apto a extinguir a punibilidade por crimes decorrentes de ofensa à Lei nº 8.137/90.
+II - Necessidade de quitação integral perante as autoridades fazendárias.
+[...]”
+(Sem destaques no original)
+7. Por tudo quanto posto, indefiro a liminar requestada; reservando-me, é claro, para um mais detido exame da causa por ocasião do julgamento de mérito deste habeas corpus.
+8. Requisitem-se, com a máxima urgência, informações circunstanciadas ao Juízo da 1ª Vara Criminal de São José do Rio Preto/SP (Processo nº 576.01.2003.048680-2/0000000-000); facultada a prestação de esclarecimentos sobre a petição inicial deste writ (cuja cópia acompanhará o expediente).
+Publique-se.
+Brasília, 25 de agosto de 2010.
+Ministro AYRES BRITTO
+Relator
