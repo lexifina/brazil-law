@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão do Tribunal de Justiça do Estado de Minas Gerais cuja ementa tem o seguinte teor (fls. 302):
+“ADMINISTRATIVO. CONCURSO PÚBLICO. CARREIRA MILITAR. AVALIAÇÃO PSICOLÓGICA. PREVISÃO LEGAL. LEGITIMIDADE. CANDIDATO. CONTRA-INDICAÇÃO. REALIZAÇÃO DE LAUDO OFICIAL. Existente previsão legal, é legítima a exigência, em edital de concurso, da aprovação em exames psicológicos, mediante a indicação dos critérios adotados para a avaliação dos candidatos. Tratando-se de exigência que guarda correlação com a natureza do cargo a ser provido, a capacidade psicológica corresponde a uma garantia à sociedade, em razão da função pública que será exercida. Nega-se provimento à apelação.”
+Sustenta o agravante, nas razões de recurso extraordinário, que o v. acórdão violou os arts. 5º, II, XXXV, LV e 37, caput, I e II, da Carta Magna.
+Verifico preliminarmente que inexiste a alegada afronta ao art. 5º, XXXV e LV, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas.
+Quanto ao mérito, o acórdão recorrido reconheceu que a Administração estadual é livre para estabelecer o exame psicotécnico como requisito para ingresso no serviço público, desde que haja previsão expressa em lei. Está, por conseguinte, em conformidade com a Súmula 686 desta Corte.
+Além disso, o Tribunal a quo, considerando a prova dos autos, avaliou que o exame aplicado se pautou por um grau mínimo de objetividade, tendo seguido critérios explícitos e permitido o acesso do Poder Judiciário para a verificação de eventual lesão de direito. Portanto, diferentemente do que ocorreu em outras situações analisadas pelo Supremo Tribunal Federal (v.g., AI 467.616-AgR, rel. min. Celso de Mello, Segunda Turma, DJ 11.06.2004, e RE 243.926, rel. min. Moreira Alves, Primeira Turma, DJ 10.08.2000), inexistem no presente caso razões para infirmar o exame psicotécnico.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 25 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
