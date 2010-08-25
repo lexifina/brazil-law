@@ -1,0 +1,21 @@
+D ECIS Ã O
+Vistos.
+Estado de São Paulo interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigo 37, inciso XIV, da Constituição Federal e 17 do Ato das Disposições Constitucionais Transitórias, bem como à Súmula nº 339/STF.
+Insurge-se, no apelo extremo, contra acórdão da Quinta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“Preliminar – Inépcia da inicial por ausência de pedido certo e determinado – Inocorrência – A inicial elenca todas as gratificações não eventuais sobre as quais os quinquênios devem incidir – Preliminar rejeitada.
+Preliminar – Prescrição do fundo de direito – Inocorrência – Não são atingidas pela prescrição as parcelas da data da propositura da ação – Aplicação da Súmula 85 do STJ – Preliminar afastada.
+Servidores estaduais ativos e inativos – Adicional de quinquênio – Base de cálculo – Pretensão de incidência sobre a totalidade das gratificações não eventuais, com exceção da sexta-parte – Admissibilidade – Verba honorária – Incidência de 10 % sobre o valor da condenação - Recurso dos autores provido e improvidos os demais” (fl. 143).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido dos embargos de declaração foi publicado em 20/4/07, conforme expresso na certidão de folha 162, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação uma vez que o Tribunal de origem decidiu a controvérsia acerca da incorporação de gratificações com fundamento na legislação infraconstitucional pertinente e no reexame de fatos e provas que compõe a lide, operações vedadas em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte.
+Mostra-se pacífica a jurisprudência deste Supremo Tribunal Federal no sentido de que a análise da legalidade do pagamento de adicionais do tipo “sexta parte” e “quinquenios” depende do cotejo do disposto na legislação local acerca desse tipo de vantagem, apesar da existência de questionamentos de índole constitucional subjacentes ao tema.
+Nesse sentido, os seguintes precedentes:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DE SÃO PAULO. ADICIONAL DE SEXTA PARTE. QUINQUÊNIOS. LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. As normas contidas no artigo 129 da Constituição do Estado de São Paulo dizem respeito tão-somente ao Direito local. Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local, circunstância que impede a admissão do recurso extraordinário ante o óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE nº 593.098/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 19/12/08).
+“RECURSO EXTRAORDINÁRIO. ADICIONAL DE SEXTA-PARTE. ART. 129 DA CONSTITUIÇÃO DO ESTADO DE SÃO PAULO. MATÉRIA INFRACONSTITUCIONAL. A presente controvérsia passa, necessariamente, pela análise da legislação infraconstitucional pertinente, na qual se baseara o acórdão recorrido (art. 129 da Constituição do Estado de São Paulo). Incide, no caso concreto, o óbice da Súmula 280 desta colenda Corte. Agravo regimental desprovido” (RE nº 309.5742/SP-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 10/9/04).
+Ainda sobre o tema, a seguinte decisão monocrática: RE nº 599.605/SP, Relator o Ministro Cezar Peluso, DJe de 18/2/10.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 25 de agosto de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
