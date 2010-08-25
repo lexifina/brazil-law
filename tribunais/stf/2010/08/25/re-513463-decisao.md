@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão proferido pelo Tribunal Regional Federal da 1ª Região que, mantendo sentença, julgou parcialmente procedente pedido de pagamento de diferenças referentes a pensão por morte que, entre a promulgação da Constituição federal e dezembro de 1993, não foi paga na integralidade.
+Transcrevo a ementa do acórdão recorrido (fls. 533):
+“CONSTITUCIONAL E ADMINISTRATIVO. PENSÃO POR MORTE. SERVIDOR PÚBLICO. ART. 40, §5º, CF/88. PRESCRIÇÃO. DECRETO-LEI Nº 20.910/32.
+I – O benefício de pensão por morte correspondente à totalidade dos vencimentos ou proventos do servidor falecido surgiu com a Constituição de 05.10.88 (art. 40, §5), norma de eficácia e aplicação imediata.
+II - A interrupção da prescrição por um credor não aproveita aos outros (art. 176 do Código Civil).
+III – Tratando-se de direito relativo a parcelas de pensão que vencem mês a mês, não há falar em prescrição do fundo de direito, mas apenas e tão-somente das parcelas anteriores a cinco anos do ajuizamento da ação (Decreto 20.910/32, art. 3º).
+IV – “Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do qüinqüênio anterior à propositura da ação.” (Súmula nº 85/STJ).
+V – “O pagamento de benefícios previdenciários, vencimentos, salários, proventos, soldos e pensões, feito, administrativamente, com atraso, está sujeito a correção monetária desde o momento em que se tornou devido.” (Súmula nº 19/TRF-1ªR.).
+VI – Remessa Oficial e Apelações não providas”.
+Insurge-se a União sob a alegação de ofensa ao art. 40, §5º, da redação original da Constituição, e 20 do ADCT. Alega que o direito à integralidade da pensão por morte não retroage à promulgação da Constituição, mas a dezembro de 1993, por força da Portaria Interministerial nº 2.826/1994, que regulamentou o direito, após apreciação da questão pelo Supremo Tribunal Federal.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 20 do ADCT, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+No que concerne à suposta ofensa ao art. 40, §5º(renumerado pela Emenda Constitucional 20/1998 como § 7º), no julgamento do MI 211 (rel. para o acórdão min. Marco Aurélio, RTJ 157/411) e do MI 263 (rel. para o acórdão min. Carlos Velloso, RTJ 157/22), o Supremo Tribunal Federal firmou o entendimento de que o então § 5º do art. 40 da Constituição federal é auto-aplicável e possui eficácia imediata, correspondendo a pensão por morte do servidor civil ou militar à totalidade da remuneração do servidor falecido, observados os limites de remuneração dos servidores em geral, na forma do art. 37, XI, da Carta Magna, e o disposto no § 4º (renumerado pela Emenda Constitucional 20/1998 como § 8º) do art. 40, o qual determina que os proventos da aposentadoria serão revistos, na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos aposentados e aos pensionistas quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão, na forma da lei.
+Dessa orientação não divergiu o acórdão recorrido.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 25 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
