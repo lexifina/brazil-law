@@ -1,0 +1,22 @@
+DECISÃO: Vistos, etc.
+Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão singular de Ministro do Superior Tribunal de Justiça (HC 175.963). Decisão que indeferiu a tutela de urgência ali requestada, por entender ausentes os respectivos pressupostos.
+2. Pois bem, antes mesmo do julgamento do mérito da ação constitucional manejada na Corte Superior de Justiça, o impetrante postula, aqui, a expedição de contramandado de prisão em favor do paciente. Pedido embasado no argumento central da inidoneidade da ordem de constrição cautelar. Pelo que, ausentes quaisquer requisitos da custódia preventiva, o caso é de pronta superação da Súmula 691/STF.
+3. Ultimada esta síntese do pedido, decido. Fazendo-o, relembro a firme jurisprudência deste Supremo Tribunal Federal no sentido da inadmissibilidade de impetração sucessiva de habeas corpus, sem o julgamento definitivo da ação constitucional anteriormente impetrada (cf. HC 79.776, Rel. Min. Moreira Alves; HC 76.347-QO, Rel. Min. Moreira Alves; HC 79.238, Rel. Min. Moreira Alves; HC 79.748, Rel. Min. Celso de Mello; e HC 79.775, Rel. Min. Maurício Corrêa). Jurisprudência, essa, que deu origem à Súmula 691/STF, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+4. É certo que tal jurisprudência comporta relativização, quando de logo avulta que o cerceio à liberdade de locomoção do paciente decorre de ilegalidade ou de abuso de poder (inciso LXVIII do art. 5º da CF/88). Mas não me parece ser este o caso dos autos. E a primeira dificuldade que encontro está na consideração de que a decisão singular impugnada não se me afigura teratológica, ou desfundamentada. O que dificulta a pronta superação do óbice da Súmula 691 deste STF. Noutro dizer: a decisão impugnada se limitou a indeferir a liminar por não entender configurada a flagrante ilegalidade suscitada na inicial. Não cabendo a este Supremo Tribunal Federal se substituir ao Superior Tribunal de Justiça quanto ao acerto ou desacerto daquele juízo.
+5. Acresce que não é possível derruir, neste exame prefacial da causa, as premissas em que se louvou o Tribunal de Justiça de Minas Gerais para validar o decreto de prisão do paciente. Premissas assim lançadas:
+“[..]
+Inicialmente, registre-se que não se vislumbra qualquer nulidade na decisão que decretou a prisão preventiva do paciente (fls. 246-248), encontrando-se, ainda que sucintamente, quantum satis fundamentada na garantia da ordem pública, permitindo-lhe saber os reais motivos que ensejaram a decretação da medida extrema.
+Por oportuno, destaco trecho da decisão que decretou a prisão preventiva do paciente:
+‘[...] A prisão cautelar é decretada com a finalidade de impedir que o agente, solto, continue a delinquir, garantindo a credibilidade da Justiça. Há pressupostos da existência do crime e indícios suficientes da autoria. Nesse sentido: (citação jurisprudencial). O requerimento do M.P. tem procedência, tendo em vista que o acusado Marcus Antônio dos Santos, que é reincidente, continuou a delinqüir, ameaçando a ordem pública. E, quanto ao acusado Carlos Antônio Alves Costa, embora não seja reincidente, possui vasta folha penal, com péssimos antecedentes criminais, ameaçando também a ordem pública e a instrução criminal'.
+[...]’ (fl. 247)
+Conforme se verifica, ao contrário do sustentado pela impetrante, estão sim presentes os requisitos autorizadores da prisão preventiva, o que afasta a possibilidade de revogação do decreto segregatório expedido em desfavor do paciente.
+[...]
+Portanto, diante da prova acerca da materialidade e de contundentes indícios de autoria, deve a prisão cautelar do paciente ser mantida como medida indispensável à garantia da ordem pública.
+[...]
+Não bastasse isso, afere-se das informações da autoridade tida coatora (fls. 235-236), que a prisão preventiva foi decretada em 19.02.2.010, não havendo qualquer noticio de que o mandado prisional tenha sido cumprido, o que reforça a necessidade da custódia cautelar como forma de se assegurar a aplicação da lei penal.
+[...].”
+6. Presente esta moldura, nego seguimento ao habeas corpus (§ 1º do artigo 21 do RI/STF). O que faço até para impedir que eventual denegação da ordem impossibilite a defesa de rediscutir as matérias veiculadas nestes autos perante a instância judicante competente (no caso, o STJ).
+Publique-se.
+Brasília, 25 de agosto de 2010.
+Ministro AYRES BRITTO
+Relator
