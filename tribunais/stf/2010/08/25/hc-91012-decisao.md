@@ -1,0 +1,23 @@
+DECISÃO: Conforme resumi na decisão em que deferi o pedido de liminar,
+“Trata-se de habeas corpus, com pedido de liminar, contra o Superior Tribunal de Justiça, porque a aludida Corte, no julgamento do Recurso Especial nº 809.932-MG, julgado em fevereiro do corrente ano, determinou a expedição de mandado de prisão contra o paciente, sem que estivessem presentes os pressupostos do art. 312 do CPP, antes do trânsito em julgado da decisão condenatória.
+Narram os impetrantes que o paciente CÉSAR ALBERTO CABRAL E CASTRO, Capitão da Polícia Militar de Minas Gerais, respondeu em liberdade a uma ação penal movida pelo Ministério Público Estadual de Minas Gerais, por violação ao artigo 1º, inciso I, alínea “a” da Lei nº 9.455/97 (prática de tortura, por duas vezes), c/c artigo 29 do Código Penal Brasileiro, logrando ser absolvido em primeira instância. Em grau de apelação, foi o paciente condenado pelo Tribunal de Justiça do Estado de Minas Gerais, como incurso nas penas dos dispositivos já referidos, a uma sanção de 11(onze) anos e 08 (oito) meses de reclusão, bem como foi condenado à pena de perda do posto e da patente de oficial da Polícia Militar de Minas Gerais.
+O Tribunal de Justiça do Estado de Minas Gerais, ao julgar a apelação, determinou a expedição de mandado de prisão contra o paciente, por entender que os recursos Especial e Extraordinário não têm efeito suspensivo.
+O Recurso Especial interposto pelo paciente foi recebido pelo Superior Tribunal de Justiça, por meio da Medida Cautelar nº 11.098, em que se concedeu liminar ao paciente para aguardar em liberdade o julgamento do mérito da ação.
+De acordo com a inicial, o Recurso Especial interposto pela defesa veio a ser desprovido. Com isto, a Medida Cautelar foi julgada improcedente pela 5ª Turma do Superior Tribunal de Justiça, que determinou a expedição de mandado de prisão contra o paciente.
+Entretanto, o impetrante alega que o decreto de prisão é precipitado, tendo em vista que a defesa interpôs recurso de Embargos de Declaração contra o desprovimento do Resp 809.932, sendo que tal recurso ainda não foi julgado.
+Alega, ainda, que pende de análise Agravo de Instrumento, interposto pela defesa contra decisão de inadmissibilidade do Recurso Extraordinário do paciente, proferida pelo TJMG.
+No presente habeas corpus, pretende-se que, liminarmente, seja determinado o recolhimento do mandado de prisão expedido pelo Superior Tribunal de Justiça e, no mérito, que seja permitido ao paciente aguardar em liberdade o trânsito em julgado da decisão condenatória imposta.” (fls. 454-455).
+Depois disso, prestaram-se informações (fls. 474 e 477) e o Ministério Público Federal opinou pela denegação da ordem (fls. 480-484).
+É o relatório.
+Decido.
+Pelo que se extrai dos autos, especialmente do acórdão de fls. 224-230, a custódia do paciente decorreu de ordem do Superior Tribunal de Justiça que, após julgar improcedente a medida cautelar nº 11.098-MG, determinou a expedição de mandado de prisão contra o ora paciente.
+Cuida-se, pois, de execução provisória da pena imposta, e não de custódia de natureza cautelar.
+Feitas essas observações, ressalto que o Plenário desta Corte, em 5.2.2009, no julgamento do HC 84.078 (rel. min. Eros Grau), por maioria (contra o meu voto), entendeu incabível o início da execução penal antes do trânsito em julgado da condenação (isto é, a chamada execução penal provisória), ainda que exauridos o primeiro e o segundo grau de jurisdição.
+Por conseguinte, segundo a atual orientação do Plenário do Supremo Tribunal Federal, até o trânsito em julgado da condenação, só há espaço para a prisão de natureza cautelar, o que, como visto, não é o caso dos autos.
+Aliado a isso, pelo que se depreende dos autos, ainda não ocorreu o trânsito em julgado da condenação, dada a interposição de agravo de instrumento da decisão que não admitiu o recurso extraordinário do ora paciente (AI 769.637).
+Por fim, importante destacar que no julgamento do RHC nº 93.172 (rel. min. Cármen Lúcia), em 12.02.2009, o Plenário desta Corte resolveu questão de ordem no sentido de autorizar os ministros relatores a decidirem monocraticamente, dentre outros temas, todo e qualquer pedido de habeas corpus cujo objeto se refira à execução provisória de pena criminal.
+Ante todo o exposto, considerando os entendimentos assentados nos precedentes citados e conforme autorizado pelo Plenário desta Corte, concedo a ordem pleiteada a fim de que o paciente possa aguardar em liberdade o trânsito em julgado da condenação, ficando ressalvada, por outro lado, a possibilidade de decretação de prisão de natureza cautelar caso se revele necessária.
+Publique-se e intimem-se.
+Brasília, 25 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
