@@ -1,0 +1,16 @@
+DECISÃO:  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Rio de Janeiro cuja ementa tem o seguinte teor (fls. 235):
+“APELAÇÃO CÍVEL. CONCURSO PÚBLICO PARA FISCAL DE RENDAS. NORMA EDITALÍCIA QUE PREVÊ A CLASSIFICAÇÃO DE DETERMINADO NÚMERO DE APROVADOS PARA A ETAPA SUBSEQÜENTE. NOTA DE CORTE. LEGALIDADE. CRITÉRIO DE AVALIAÇÃO DA EXCLUSIVA RESPONSABILIDADE DA BANCA EXAMINADORA. APRECIAÇÃO PELO PODER JUDICIÁRIO LIMITADA AO EXAME DA LEGALIDADE DAS NORMAS EDITALÍCIAS. DECISÃO DE PRIMEIRO GRAU QUE BEM APRECIOU A LIDE. DESPROVIMENTO DO RECURSO.”
+O recurso extraordinário sustenta que o v. acórdão violou os princípios constitucionais da legalidade, da razoabilidade e da moralidade administrativa. Argumenta que “à conta da arbitrariedade inserta no inciso V do subitem 2.6 do edital do certame, foi impedido de ter sua prova discursiva corrigida por não ter se classificado dentro do limite de duas vezes o número de vagas disponibilizado” (fls.249).
+Observo que a tese esposada pelo acórdão impugnado alinha-se com a jurisprudência do Supremo Tribunal Federal. Transcrevo ementa de precedente nesse sentido:
+“Recurso extraordinário. Concurso público.
+- Também esta Corte já firmou o entendimento de que não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, que é o compatível com ele, do concurso público, substituir-se à banca examinadora nos critérios de correção de provas e de atribuição de notas a elas (assim no MS 21176, Plenário, e RE 140.242, 2ª. Turma). Pela mesma razão, ou seja, por não se tratar de exame de legalidade, não compete ao Poder Judiciário examinar o conteúdo das questões formuladas para, em face da interpretação dos temas que integram o programa do concurso, aferir, a seu critério, a compatibilidade, ou não, deles, para anular as formulações que não lhe parecerem corretas em face desse exame. Inexiste, pois, ofensa ao artigo 5º, XXXV, da Constituição.
+Recurso extraordinário não conhecido.” (RE 268.244, rel. min. Moreira Alves, DJ de 30.06.2000).
+No mesmo sentido: RE 243.056-AgR (rel. min. Ellen Gracie, Primeira Turma, DJ de 06.04.2001); AI 500.416-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJ de 10.09.2004); RE 552.860 (rel. min Carlos Britto, DJe de 02.09.2008) e RE 560.551-AgR (rel. min. Eros Grau, Segunda Turma, DJe de 01.08.2008).
+Ademais, à luz da jurisprudência desta Corte, não cabe recurso extraordinário para reexaminar a interpretação de cláusula de concurso. Confira-se, nesse sentido, o AI 251.195-AgR (rel. min. Octavio Gallotti, DJ de 26.05.2000), cuja ementa possui o seguinte teor:
+“Não cabe recurso extraordinário para interpretação de cláusula de concurso, nem para resolver suposto conflito entre ela e as instruções do processo seletivo ou dispositivo de lei ordinária.”
+No mesmo sentido, confiram-se ainda: AI 384.050-AgR (rel. min. Carlos Velloso, DJ de 10.10.2003); RE 120.951-AgR (rel. min. Néri da Silveira, DJ de 08.10.1999); RE 476.783-AgR (rel. min. Ellen Gracie, DJe de 21.11.2008) e AI 720.769-AgR (rel. min. Eros Grau, DJe de 17.10.2008).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 25 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
