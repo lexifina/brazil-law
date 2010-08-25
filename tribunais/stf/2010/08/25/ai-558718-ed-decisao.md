@@ -1,0 +1,23 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO SINDICAL RURAL. ÔNUS DA SUCUMBÊNCIA. EMBARGOS ACOLHIDOS.
+Relatório
+1. Em 31 de maio de 2010, dei provimento ao agravo de instrumento e, desde logo, parcial provimento ao recurso extraordinário interposto pela Confederação da Agricultura e Pecuária do Brasil - CNA nos termos seguintes:
+“5. Razão de direito assiste em parte à Agravante.
+6. A questão relativa à legitimidade para a cobrança da Contribuição Sindical Rural tem natureza infraconstitucional, o que não viabiliza o recurso extraordinário. Nesse sentido:
+‘Recurso extraordinário: descabimento: questão relativa à legitimidade para a cobrança da contribuição sindical rural, de natureza infraconstitucional: alegada violação de dispositivos constitucionais que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636’ (AI 555.292-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 17.3.2006).
+7. O Supremo Tribunal Federal consolidou o entendimento de que o Decreto-lei 1.166/71, que disciplina a contribuição sindical rural, foi recepcionado pela Constituição da República e que essa contribuição é exigível de todos os integrantes da categoria, independentemente de filiação ao sindicato:
+‘1. RECURSO. Embargos de declaração. Contribuição Sindical Rural. Decreto-Lei nº 1.166/71. Natureza tributária. Integrantes de categorias profissionais ou econômicas, ainda que não filiados a sindicato. Exigência. Precedentes. Omissão. Inexistência. Embargos de declaração rejeitados. Não se admitem embargos de declaração de decisão em que não há omissão, contradição nem obscuridade. 2. RECURSO. Embargos de declaração. Caráter meramente protelatório. Litigância de má-fé. Imposição de multa. Aplicação do art. 538, § único, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a oposição de embargos declaratórios manifestamente protelatórios, deve o Tribunal condenar o embargante a pagar multa ao embargado’ (RE 556.162-AgR-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJe 30.4.2009 – grifos nossos).
+‘Agravo regimental em agravo de instrumento. 2. Contribuição sindical rural. Decreto-Lei nº 1.166, de 15 de novembro de 1971. Natureza tributária. Integrantes das categorias profissionais ou econômicas, ainda que não filiado a sindicato. Exigência. 3. Acórdão recorrido em consonância com a jurisprudência desta Corte’ (AI 430.985-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 25.5.2007).
+‘CONSTITUCIONAL. CONTRIBUIÇÃO SINDICAL RURAL. NATUREZA TRIBUTÁRIA. RECEPÇÃO. I. - A contribuição sindical rural, de natureza tributária, foi recepcionada pela ordem constitucional vigente, sendo, portanto, exigível de todos os integrantes da categoria, independentemente de filiação à entidade sindical. Precedentes. II. - Agravo não provido’ (AI 498.686-AgR, Rel. Min. Carlos Velloso, Segunda Turma, DJ 29.4.2005 – grifos nossos).
+Dessa orientação jurisprudencial divergiu o julgado recorrido.
+8. Pelo exposto, dou provimento a este agravo, na forma do art. 544, §§ 3º e 4º, do Código de Processo Civil, e, desde logo, parcial provimento ao recurso extraordinário, nos termos do art. 557, § 1º-A, do mesmo diploma legal, para declarar a exigibilidade da contribuição sindical rural” (fls. 65-67).
+2. Publicada essa decisão no DJe de 1º.7.2010 (fl. 70), opõe a Confederação da Agricultura e Pecuária do Brasil - CNA, ora Embargante, em 2.8.2010, tempestivamente, embargos de declaração (fls. 72-75).
+Alega a Embargante que “como o Recurso Extraordinário foi provido, cabe ao Recorrido, ora embargado, arcar com os honorários advocatícios, invertendo assim os ônus sucumbenciais. Desta feita, merece ser sanada a omissão apontada, para fixar a sucumbência, desde logo reiterando a inversão notadamente considerando que o processo tramitou até o presente recurso extraordinário” (fl. 74).
+Examinada a matéria posta à apreciação, DECIDO.
+3. Razão jurídica assiste à Embargante.
+4. Inicialmente, cumpre ressaltar que, por terem os Embargos de Declaração sido opostos contra decisão monocrática e conterem apenas argumentos de omissão, fica dispensada a conversão destes embargos em agravo regimental para julgamento da Turma, conforme as decisões proferidas nos Recursos Extraordinários 476.109-ED, Rel. Min. Cezar Peluso, DJE 8.10.2007; 411.024-ED, Rel. Min. Sepúlveda Pertence, DJ 11.5.2004; e 277.612, Rel. Min. Carlos Velloso, DJ 12.11.2001.
+5. Pelo exposto, acolho os embargos de declaração apenas para esclarecer que ficam invertidos os ônus da sucumbência no ponto em que provido o recurso extraordinário, ressalvada a hipótese de concessão da justiça gratuita.
+Publique-se.
+Brasília, 25 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
