@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão proferido por Turma Recursal de Juizado Especial Federal assim ementado:
+“DIREITO ADMINISTRATIVO – APOSENTADORIA POR TEMPO DE SERVIÇO – CERTIDÃO – PRESUNÇÃO DE VERACIDADE – PRINCÍPIO DA BOA-FÉ – CONCESSÃO DO BENEFÍCIO.
+I – Um dos princípios inerentes à Administração Pública é o da Presunção de Veracidade dos atos administrativos, sendo considerados verossímeis os fatos alegados por ela, haja vista que os mesmos são dotados de fé pública e presunção de legalidade.
+II – No caso em comento, verifica-se que em nenhum momento a recorrida incorreu em má-fé para que fosse concedida sua aposentadoria com base na proporção 28/30, pois confiou na veracidade da certidão expedida por um órgão da Administração Pública. Caso soubesse do verdadeiro período (27 anos 11 meses e 25 dias) teria laborado mais 5 (cinco) dias para fazer jus ao benefício na proporção 28/30, pois a percepção na faixa 27/30 resultaria numa redução substancial em seus proventos.
+III – Ademais, para que a Administração Pública revogue ou anule um ato por ela emanado, mister se faz que haja um prévio procedimento administrativo, com a finalidade de preservar os princípios constitucionais da Ampla Defesa e do Contraditório. Neste mesmo sentido: STJ – 6ª Turma – ROMS – Proc: 20010040144 – Relatos: Vicente Leal – DJ – Data: 24/03/2003. Pág. 282.
+IV – Por esses motivos, uma vez negando a Administração Pública a proporção 28/30 devido ao exercício laboral de 5 (cinco) dias caracteriza conduta insensata, afrontando os princípios gerais do direito, quais sejam da Razoabilidade e da Proporcionalidade. Destarte, condutas desarrazoadas como esta corresponderiam ao desvirtuamento da finalidade legal, demonstrando, portanto, menoscabo pela situação jurídica do administrado.
+V – Diante do exposto, entende-se pela concessão da aposentadoria da recorrente na proporção de 28/30 (vinte e oito trinta avos), sendo devido o pagamento nesta proporção a partir de julho do corrente ano.
+VI – Desprovimento do recurso de sentença. Honorários de R$ 600,00 (seiscentos reais), correspondentes a 5% (cinco por cento) do valor da causa. Sentença mantida”. (fls. 121).
+Na petição de recurso extraordinário, o recorrente alega violação do disposto nos arts. 2º e 37 da Constituição federal, sob o fundamento de que o determinado no acórdão recorrido não possui embasamento legal. Argúi, ainda, ofensa à redação original do art. 40, da Constituição, uma vez que, apesar do erro no ato que informou a recorrida sobre seu tempo de serviço, o ato de concessão de aposentadoria cumpriu os requisitos constitucionais.
+O recurso é incabível.
+O acórdão solucionou a controvérsia à luz dos princípios da presunção de veracidade dos atos administrativos, boa-fé, contraditório, ampla defesa, razoabilidade e proporcionalidade, na análise dos atos que antecederam o de concessão da aposentadoria, ao passo que o recurso extraordinário limitou-se a afirmar a legalidade do próprio ato de concessão do benefício. Portanto, incide no caso o enunciado da Súmula 284 do Supremo Tribunal Federal.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 25 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
