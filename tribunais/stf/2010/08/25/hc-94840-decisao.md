@@ -1,0 +1,26 @@
+DECISÃO: Conforme resumi na decisão em que indeferi o pedido de liminar,
+“Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Karla de Meneses contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do HC nº 66.097-SP, de relatoria da eminente ministra Laurita Vaz, cuja ementa é a seguinte:
+“HABEAS CORPUS . PROCESSUAL PENAL. CRIMES DE EXTORSÃO E EXTORSÃO MEDIANTE SEQÜESTRO. APELAÇÃO INTERPOSTA POR ADVOGADO CONSTITUÍDO. DEFENSOR DATIVO. DESCABIMENTO DE NOMEAÇÃO. PRAZO. INTIMAÇÃO DO DEFENSOR E DO RÉU. JULGAMENTO DO RECURSO DE APELO ANULADO. DETERMINAÇÃO DE JULGAMENTO DO RECURSO INTERPOSTO PELO ADVOGADO CONSTITUÍDO.
+1. O acusado tem o direito de constituir advogado de sua confiança para atuar no processo-crime a que responde, em homenagem ao princípio da ampla defesa.
+2. Hipótese em que o recurso da Procuradoria Geral do Estado de São Paulo, julgado pela Corte a quo, sem a intimação daquela defensoria, foi protocolizado antes da intimação da Ré da sentença condenatória. Nulidade que se reconhece.
+3. O qüinqüídio legal para interposição do recurso de apelo inicia-se somente após a intimação do réu e do seu defensor.
+4. Ordem concedida para: a) anular o acórdão proferido pela Corte a quo; b) determinar que, preenchidos os demais requisitos, seja julgado o recurso de apelação interposto pelo advogado da Paciente.”
+Buscam os impetrantes a concessão de alvará de soltura em favor da paciente em razão da anulação do acórdão que confirmou a sentença de primeiro grau que a condenou à pena de 26 anos e seis meses de reclusão e 26 dias-multa, pela suposta pratica dos delitos previstos nos arts. 159, §1º, 158, §1º e 158, §1º, c.c art. 14, II, c.c. art. 71(com relação apenas aos delitos de extorsão qualificada), todos do Código Penal, além do art. 8º da Lei nº 8.072/90, na forma do artigo 69 do CP.” (fls. 30-31).
+Depois disso, prestaram-se informações (fls. 38, 1297, 1314-1316 e 1608-1609) e o Ministério Público Federal opinou pela denegação da ordem (fls. 1235-1239).
+É o relatório.
+Decido.
+Pelo que se extrai dos autos, especialmente da sentença condenatória de fls. 984-995, a custódia da paciente, inicialmente, revestiu-se da cautelaridade decorrente da concreta periculosidade da quadrilha da qual integrava.
+Nada obstante, observo que durante o acautelamento houve uma relevante alteração quanto à natureza da custódia da paciente.
+Consta do andamento processual da execução nº 499.207 que a ora paciente está presa “em cumprimento de pena” no “regime semi-aberto” (fls. 1280). Portanto, a atual custódia da paciente cuida-se de execução provisória da pena imposta, e não mais de prisão de natureza cautelar.
+Assim, entendo que não mais subsistem os questionamentos acerca da ilegalidade da suposta prisão cautelar, fato este que prejudicaria a presente impetração.
+Por outro lado, diante da evidenciada execução provisória da pena, abre-se espaço para a concessão da ordem de ofício, conforme atual orientação jurisprudencial desta Corte.
+Isto porque o Plenário deste Supremo Tribunal Federal, em 05.02.2009, no julgamento do HC 84.078 (rel. min. Eros Grau), por maioria (contra o meu voto), entendeu incabível o início da execução penal antes do trânsito em julgado da condenação (isto é, a chamada execução penal provisória), ainda que exauridos o primeiro e o segundo grau de jurisdição.
+Por conseguinte, segundo o prevalecente entendimento do Plenário desta Corte, até o trânsito em julgado da condenação, só há espaço para a prisão de natureza cautelar, o que, como visto, não é o caso dos autos.
+Aliado a isso, pelo que se depreende dos autos, ainda não ocorreu o trânsito em julgado da condenação, uma vez que o recurso de apelação interposto pela defesa, o qual o Superior Tribunal de Justiça determinou que o TJSP realizasse nova apreciação (HC 66.097, fls. 1214-1220), foi julgado no recente dia 16.08.2010, cujo acórdão declarou “extinta a punibilidade da então apelante quanto à infração do art. 288, parágrafo único, do Código Penal, pela ocorrência da prescrição da pretensão punitiva”, e manteve a “r. sentença quanto ao mais, assim reduzidas as penas, no total, para vinte e dois anos e nove meses de reclusão e dezoito dias-multa e para modificar o regime de cumprimento da pena privativa de liberdade imposta na condenação por infração do art. 159, § 1º, do código penal para inicial fechado, permitida a progressão desde que preenchidos os requisitos legais”.
+Por fim, importante destacar que no julgamento do RHC nº 93.172 (rel. min. Cármen Lúcia), em 12.02.2009, o Plenário desta Corte resolveu questão de ordem no sentido de autorizar os ministros relatores a decidirem monocraticamente, dentre outros temas, todo e qualquer pedido de habeas corpus cujo objeto se refira à execução provisória de pena criminal.
+Ante todo o exposto, considerando os entendimentos assentados nos precedentes citados e conforme autorizado pelo Plenário desta Corte, concedo a ordem de ofício a fim de que a paciente possa aguardar em liberdade o trânsito em julgado da condenação, ficando ressalvada, por outro lado, a possibilidade de nova decretação de prisão de natureza cautelar caso se revele necessária.
+Expeçam-se os documentos necessários.
+Publique-se e intimem-se.
+Brasília, 25 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
