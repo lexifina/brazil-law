@@ -1,0 +1,2 @@
+Transforma Funções Comissionadas Técnicas - FCT, criadas pelo art. 58 da Medida Provisória nº 2.229-43, de 6 de setembro de 2001, em cargos do Grupo-Direção e Assessoramento Superiores - DAS, em Gratificações de Exercício em Cargo de Confiança devida a militares e em Gratificações de Representação pelo Exercício de Função devidas a militares.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
