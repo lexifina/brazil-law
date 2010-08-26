@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de pedido de medida liminar em mandado de injunção, impetrado pela Federação Nacional dos Servidores do Poder Judiciário dos Estados e Distrito Federal e Outros, em razão de suposta omissão em editar lei complementar para regulamentar o exercício do direito previsto no art. 37, VII, da Constituição.
+Os impetrantes alegam, em síntese, que a demora na edição da lei prevista no referido dispositivo constitucional inviabiliza o exercício do direito de greve dos servidores do Poder Judiciário do Estado de São Paulo.
+Nesse sentido, asseveram que a decisão proferida por esta Corte nos Mandados de Injunção nos 708 e 712 – a qual determinou a aplicação analógica da Lei 7.783/1989 para viabilizar o exercício de greve dos servidores públicos - não soluciona a questão em relação aos substituídos dos impetrantes, principalmente no que diz respeito ao desconto dos dias parados, à incompatibilidade entre a greve dos trabalhadores da iniciativa privada e a dos servidores, bem como aos critérios discricionários adotados na interpretação da Lei 7.783/1989 para amoldá-la ao caso prático. Tais medidas cerceariam o exercício do direito de greve.
+Por fim, pedem a concessão de medida liminar, a fim de suspender a Resolução 520/2010 do Tribunal de Justiça do Estado de São Paulo (TJ/SP), a qual determinou que fossem descontados os dias parados dos vencimentos dos servidores.
+Sustentam que a plausibilidade jurídica do pedido residiria na ausência de norma legal que autorize o desconto dos dias não trabalhados e no caráter alimentar impenhorável dos vencimentos. Por sua vez, a urgência da pretensão cautelar consistiria na necessidade de evitar dano patrimonial tanto aos servidores quanto ao TJ/SP.
+Passo a decidir tão somente o pedido de medida liminar.
+No presente mandado de injunção, os impetrantes postulam o reconhecimento do direito de greve dos servidores públicos civis (art. 37, VII, da Constituição Federal).
+Essa questão já foi objeto de apreciação desta Corte no julgamento dos MIs 670 (de minha relatoria, DJe 206, 30.10.2008), 708 (de minha relatoria, DJe 206, 30.10.2008) e 712 (Rel. Min. Eros Grau, DJe 23.11.2007). Na ocasião, determinou-se que, enquanto não editada a lei a que se refere o inciso VII do art. 37 da Constituição, deve ser aplicada aos servidores públicos a Lei 7.783/1989, no que couber. A decisão proferida, segundo a orientação desta Corte, possui eficácia erga omnes.
+A partir dessa determinação, verificou-se grande evolução na interpretação conferida pelo Supremo Tribunal Federal à conformação constitucional do mandado de injunção. Nesse quadro, admitiu-se que a decisão proferida em mandado de injunção pode configurar provimento de caráter aditivo.
+De outra sorte, a superação da orientação anterior desta Corte, no que diz respeito à natureza da decisão proferida, demanda também a revisão da jurisprudência quanto ao cabimento de medida liminar no mandado de injunção.
+Conforme salientei no julgamento dos MIs 670 e 708, da competência do Supremo Tribunal Federal para apreciar a omissão do legislador, inclusive proferindo decisões aditivas e com eficácia erga omnes, decorre, por exemplo, a faculdade de determinar a suspensão de processos administrativos ou judiciais, além de medidas ou atos administrativos, de modo a assegurar ao impetrante a possibilidade de ser beneficiado pela norma que vier a ser editada.
+Assim, admito o cabimento do pedido de medida liminar e passo a analisar a plausibilidade jurídica do pedido e a urgência da pretensão cautelar.
+Segundo os impetrantes, a plausibilidade jurídica do pedido residiria na ausência de norma legal que autorize o desconto dos dias parados e no caráter alimentar impenhorável dos vencimentos.
+Entretanto, em análise sumária da questão, verifico que, a princípio, a controvérsia dos autos se enquadra justamente na hipótese decidida por esta Corte, devendo ser aplicada aos substituídos do impetrante, no que couber, a Lei 7.783/1989, de modo a possibilitar-lhes o exercício do direito de greve.
+Nesse ponto, ressalto que a questão do desconto dos dias parados foi objeto de análise específica por parte desta Corte.
+Segundo a decisão proferida, nos termos do art. 7o da Lei no 7.783/1989, a deflagração da greve, em princípio, corresponde à suspensão do contrato de trabalho. E, havendo a suspensão, não há que se falar propriamente em prestação de serviços, tampouco no pagamento de salários. Como regra geral, portanto, os salários dos dias de paralisação não deverão ser pagos, salvo no caso em que a greve tenha sido provocada justamente por atraso no pagamento ou por outras situações excepcionais que justifiquem o afastamento da premissa da suspensão do contrato de trabalho.
+Por outro lado, não se diga que a natureza alimentar dos vencimentos impede a aplicação do artigo 7o da Lei no 7.783/1989. Caso contrário, estaria configurada hipótese de greve subvencionada pelo Poder Público.
+Ademais, a remuneração dos trabalhadores do setor privado também possui caráter alimentar e, em caso de greve, é plenamente aplicável o corte do ponto.
+Assim, não se justifica o tratamento diferenciado entre os servidores públicos e os trabalhadores do setor privado no que diz respeito ao desconto dos dias parados.
+Portanto, no caso ora em análise, salvo melhor juízo por ocasião do julgamento de mérito, não vislumbro a plausibilidade jurídica do pedido apta a ensejar a concessão da medida liminar pleiteada.
+Ante o exposto, indefiro o pedido de medida liminar.
+Requisitem-se as informações.
+Após, abra-se vista dos autos à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 26 de agosto de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
