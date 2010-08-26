@@ -1,0 +1,1 @@
+Art. 11-A. Compete ao Ministério da Defesa, além das demais competências previstas em lei, formular a política e as diretrizes referentes aos produtos de defesa empregados nas atividades operacionais, inclusive armamentos, munições, meios de transporte e de comunicações, fardamentos e materiais de uso individual e coletivo, admitido delegações às Forças.

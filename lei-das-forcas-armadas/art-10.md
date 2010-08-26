@@ -1,1 +1,0 @@
-Art. 10. O Estado-Maior de Defesa, órgão de assessoramento do Ministro de Estado da Defesa, terá como Chefe um oficial-general do último posto, da ativa, em sistema de rodízio entre as três Forças, nomeado pelo Presidente da República, ouvido o Ministro de Estado da Defesa.
