@@ -1,0 +1,25 @@
+D ECIS Ã O:
+Vistos.
+Walter Marques Esteves interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Colégio Recursal da 17ª Circunscrição Judiciária de Votuporanga/SP, que negou provimento ao Recurso Inominado nº 46/09.
+Alega o recorrente, em confusa petição, que a referida decisão violou o artigo 5º, inciso LV, da Constituição Federal, pois:
+“(...)
+O que houve foi a IMPUGNAÇÃO DO LAUDO apresentado pela perita, QUE É NULO, por não ter a mesma capacitação para ser PERITA JUDICIAL, ou seja, NÃO POSSUI CURSO SUPERIOR, tendo demonstrado no laudo sua falta de conhecimento consistente em suas próprias argumentações, já que juntou pareceres retirados facilmente pela Internet, além DE NÃO TER PROVIDENCIADO ANÁLISE DOS SOLOS como requerido.
+Por outro lado houve do Assistente Técnico da parte, este sim com curso superior e capacitado para o fim, CONTRARIANDO AS ALEGAÇÕES DA PERITA.
+Requereu-se NOVA PERÍCIA PARA ELUCIDAR A DÚVIDA SUSCITADA.
+ESSA PROVA NÃO FOI DEFERIDA, demonstrando parcialidade no caso e CERCEAMENTO DE DEFESA, ALÉM DO DESCUMPRIMENTO AO DIREITO DO CONTRADITÓRIO E DA AMPLA DEFESA, independentemente do feito tramitar pelo Juizado Especial Criminal” (fl. 231 – grifos no original).
+Contrarrazões apresentadas (fls. 241/242), o recurso extraordinário (fls. 223 a 236) foi admitido (fls. 245/246).
+O Ministério Público Federal, em parecer de lavra do Subprocurador-Geral da República, Dr. Wagner Gonçalves, opina pelo não conhecimento do recurso e, caso conhecido, por seu desprovimento (fls. 254 a 256).
+Examinados os autos, decido.
+Anote-se, inicialmente, que a publicação do acórdão recorrido foi após 3/5/07 (fl. 222), quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no AI nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece prosperar.
+A alegada violação do artigo 5º, inciso LV, da Carta Federal carece do necessário prequestionamento, sendo certo que não foram opostos embargos declaratórios para sanar eventual omissão no julgado recorrido. Incidem, na espécie, as Súmulas nºs 282 e 356 desta Corte.
+Nesse sentido, anote-se:
+“Agravo regimental. Processual penal. Prequestionamento. Ofensa reflexa. Reapreciação de fatos e provas. Precedentes da Corte. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. Nos termos da jurisprudência deste Supremo Tribunal Federal, as alegações de afronta aos princípios da ampla defesa e do contraditório, entre outros, configuram ofensa indireta ou reflexa à Constituição Federal e, por isso, não abrem passagem ao recurso extraordinário. 3. Não é possível, em sede de recurso extraordinário, reexaminar fatos e provas a teor do que dispõe a Súmula nº 279/STF. 4. Agravo a que se nega provimento.” (AI nº 603.952/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 27/6/08);
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. ÓBICES. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. 2. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 3. Controvérsia decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. 4. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa do texto da Constituição. Agravo regimental a que se nega provimento.” (AI nº 683.343/RS–AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 11/4/08).
+Como se não bastasse, eventual análise acerca da alegada violação do princípio constitucional objeto do presente recurso demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como de normas infraconstitucionais utilizadas na fundamentação da decisão recorrida, inviável no âmbito do recurso extraordinário, a teor do que dispõem as Súmulas 279 e 280 desta Suprema Corte.
+Diante desse quadro, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 27 de agosto de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
