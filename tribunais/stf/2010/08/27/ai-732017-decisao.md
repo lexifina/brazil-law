@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Superior Tribunal de Justiça, em que se alega a violação do art. 37, § 4º, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 115):
+“ADMINISTRATIVO. RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. LEI N. 8.429/92. ATO DE IMPROBIDADE. REPARAÇÃO DE DANOS. RESPONSABILIDADE SOLIDÁRIA. DOSIMETRIA DA PENA. CABIMENTO.
+1. Os atos de improbidade que importem em enriquecimento ilícito (art. 9º) normalmente sujeitam o agente a todas as sanções previstas no art. 12, I, pois referidos atos sempre são dolosos e ferem o interesse público, ocupando o mais alto 'degrau' da escala de reprovabilidade. Todos são prejudicados, até mesmo os agentes do ato ímprobo, porque, quer queiram ou não, estão inseridos na sociedade que não respeitam.
+2. Na reparação de danos prevista no inciso I do art. 12 da Lei n. 8.429/92, deverá o julgador considerar o dano ao erário público, e não apenas o efetivo ganho ilícito auferido pelo agente do ato ímprobo, porque referida norma busca punir o agente não só pelo proveito econômico obtido ilicitamente, mas pela prática da conduta dolosa, perpetrada em ferimento ao dever de probidade.
+3. Na hipótese em que sejam vários os agentes, cada um agindo em determinado campo de atuação, mas de cujos atos resultem o dano à Administração Pública, correta a condenação solidária de todos na restituição do patrimônio público e indenização pelos danos causados.
+4. Recursos especiais conhecidos em parte e improvidos.”
+É o relatório. Decido.
+O Plenário desta Corte já decidiu ser inviável o recurso extraordinário que — interposto de acórdão do Superior Tribunal de Justiça em recurso especial — suscita as mesmas questões constitucionais debatidas em segundo grau. Assim, da decisão do STJ no recurso especial, só caberá recurso extraordinário se a questão constitucional for diversa daquela resolvida pela instância ordinária. Confira-se:
+“E M E N T A - Recurso extraordinário: interposição de decisão do STJ em recurso especial: inadmissibilidade, se a questão constitucional de que se ocupou o acórdão recorrido já fora suscitada e resolvida na decisão de segundo grau e, ademais, constitui fundamento suficiente da decisão da causa.
+1. Do sistema constitucional vigente, que prevê o cabimento simultâneo de recurso extraordinário e de recurso especial contra o mesmo acórdão dos tribunais de segundo grau, decorre que da decisão do STJ, no recurso especial, só se admitirá recurso extraordinário se a questão constitucional objeto do último for diversa da que já tiver sido resolvida pela instância ordinária.
+2. Não se contesta que, no sistema difuso de controle de constitucionalidade, o STJ, a exemplo de todos os demais órgãos jurisdicionais de qualquer instância, tenha o poder de declarar incidentemente a inconstitucionalidade da lei, mesmo de oficio; o que não é dado àquela Corte, em recurso especial, é rever a decisão da mesma questão constitucional do tribunal inferior; se o faz, de duas uma: ou usurpa a competência do STF, se interposto paralelamente o extraordinário ou, caso contrário, ressuscita matéria preclusa.
+(...) (AI 145.589-AgR, rel. min. Sepúlveda Pertence, Tribunal Pleno, DJ de 24.06.1994)
+No mesmo sentido, entre outros: AI 364.277–AgR (rel. min. Carlos Velloso, Segunda Turma, DJ de 28.06.2002); AI 436.046–AgR (rel. min. Carlos Britto, Primeira Turma, DJ de 01.04.2005); AI 618.700 (rel. min. Sepúlveda Pertence, DJ de 26.02.2007); e AI 472.822 (rel. min. Dias Toffoli, DJe de 08.03.2010).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 27 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
