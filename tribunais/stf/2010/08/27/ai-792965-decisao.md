@@ -1,0 +1,18 @@
+DECISÃO: Vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 3ª Região. Acórdão assim ementado (fls. 34/35):
+“ADMINISTRATIVO. PROCESSUAL CIVIL. EXECUÇÃO. FORO. TÍTULO JURÍDICO. NULIDADE DA CDA. LANÇAMENTO. CONTRATO ESCRITO. RESPONSABILIDADE DO ADQUIRENTE. REVISÃO DO VALOR. DECADÊNCIA. PRESCRIÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA.
+1. Há título jurídico para a cobrança de foro de imóvel localizado em Alphaville decorrente de registro imobiliário que reconhece evidencia a aquisição e posterior alienação tão-somente do domínio útil. A desconsideração desse registro, sob o fundamento de insubsistência do direito de propriedade da União supostamente alicerçada em extinto aldeamento indígena ou em acórdão do Supremo Tribunal Federal demanda ação própria que não pode ser resolvida em exceção de pré-executividade.
+2. Somente com o advento da Medida Provisória n. 1.787, de 29.12.98, que deu nova redação ao art. 47 da Lei n. 9.636/98 é que se tornou necessária a constituição do crédito mediante lançamento. Anteriormente, prescindível o lançamento bem como a constituição do aforamento mediante pacto escrito, dado que sujeito ao regime jurídico de direito público que impõe à União o dever de cobrar o foro.
+3. Embora o foro tenha natureza de crédito público para efeito de inscrição em dívida ativa, cuja certidão consubstancia título executivo extrajudicial, não tem ele natureza tributária. São inaplicáveis as regras do Código Tributário Nacional concernentes ao lançamento e à sucessão da responsabilidade pelo débito aos adquirentes dos imóveis à míngua de participação da União.
+4. Dado que o foro cobrado pela União sujeita-se ao regime jurídico de direito público, prevalece a regra do art. 101 do Decreto-lei n. 9.760/46, com a redação determinada pela Lei n. 7.450/85, segundo a qual o valor do domínio pleno deve ser revisto anualmente, em detrimento do art. 678 do Código Civil de 1916. A atualização do domínio pleno não se confunde com mera atualização monetária, com resulta do texto legal.
+5. Com a vigência da Medida Provisória n. 1.787, de 29.12.98, pela qual se instituiu a necessidade de lançamento do foro, foi estabelecido o prazo de 5 (cinco) anos para o exercício desse direito. Esse prazo decadencial foi ampliado para 10 (dez) anos pela Medida Provisória n. 152, de 23.12.03, a exemplo do que atualmente estabelece o art. 47, I, da Lei n. 9.636/98, incluído pela Lei n. 10.852/04.
+6. O prazo prescricional para a ação de cobrança do foro era de 20 (vinte) anos, até sua redução para 5 (cinco) pela Lei n. 9.636/96, art. 47, nesse ponto coincidente com a legislação superveniente.
+7. Apelação provida.”
+2. Pois bem, a parte recorrente sustenta a inconstitucionalidade do Decreto-Lei 9.760/1946, que ampara a CDA sob exame.
+3. Tenho que o agravo não merece acolhida. É que a interposição do apelo extremo pela alínea “c” do inciso III do art. 102 da Carta Magna de 1988 pressupõe que o acórdão recorrido tenha julgado válida lei ou ato de governo local contestado ante a Constituição, o que não ocorreu no caso. É de se aplicar, portanto, a Súmula 284 do Supremo Tribunal Federal.
+4. Não bastasse, a questão alusiva ao cabimento da exceção de pré-executividade se restringe ao âmbito processual. Logo, afronta à Constituição Republicana, se existente, ocorreria de forma reflexa ou indireta, o que não enseja a abertura da via extraordinária.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 27 de agosto de 2010.
+Ministro AYRES BRITTO
+Relator
