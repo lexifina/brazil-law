@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE.
+1. O Superior Tribunal de Justiça concedeu a segurança requerida, ante fundamentos assim sintetizados (folhas 127 e 128):
+MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. MILITAR. OMISSÃO DO MINISTRO DE ESTADO DA DEFESA EM CUMPRIR INTEGRALMENTE A DECISÃO DO MINISTRO DA JUSTIÇA QUE DECLAROU O IMPETRANTE ANISTIADO POLÍTICO. EFEITOS FINANCEIROS RETROATIVOS. ADEQUAÇÃO DA VIA ELEITA. DECADÊNCIA NÃO CONFIGURADA. SEGURANÇA CONCEDIDA.
+1. Consoante constatado nos MS n.º 9.387 (Terceira Seção, Rel. Min. Paulo Medina, DJ 12.04.04), MS n.º 9.219 (Terceira Seção, Rel. Min. Gilson Dipp, DJ 28.06.04) e RMS n.º 24.953 (STF, Segunda Turma, Rel. Min. Carlos Velloso, DJ 01.10.04), há previsão de recursos financeiros suficientes para o pagamento das indenizações, ausente, pois, razão plausível a justificar a inércia da autoridade apontada como coatora; de fato, a Lei n.º 10.726, de 02.09.2003, expressamente prevê o crédito para o pagamento pelo Ministério da Defesa das indenizações aos anistiados políticos, sem restrição concernente à implementação das parcelas vincendas.
+2. A omissão do Ministro da Defesa em não cumprir integralmente a Portaria, declarando o impetrante anistiado político, se renova continuamente, o que exclui a decadência do direito de impetrar o mandado de segurança.
+3. Esta Terceira Seção vinha entendendo que os valores retroativos referentes à reparação econômica dos anistiados políticos não poderiam ser pleiteados pela estreita via do mandado de segurança, porquanto este não é sucedâneo de ação de cobrança (MS 9.811, de minha relatoria, DJ 18.10.04; AgRg no MS 10.610, Rel. Min. José Arnaldo da Fonseca, DJ 24.10.05; MS 9234, Rel. Min. Laurita Vaz, DJ 23.08.04; MS 9143, Rel. Min. Arnaldo Esteves Lima, DJ 29.11.04).
+4. Todavia, o Supremo Tribunal Federal proclamou, recentemente, no julgamento do RMS n.º 24.953, que a reparação econômica relativa aos anistiados políticos não trata, em verdade, de objeto a ser perseguido por meio de sucedâneo de ação de cobrança, mas ataca a omissão da autoridade impetrada, que não deu cumprimento integral às Portarias do Ministro da Justiça.
+5. Dessarte, também esta Terceira Seção veio a alterar entendimento, a fim de garantir aos anistiados políticos a utilização do mandado de segurança, para fazer com que a autoridade impetrada desse cumprimento integral às Portarias do Ministério da Justiça, inclusive no que se refere às prestações vencidas e acumuladas, cujo montante vinha titulado no próprio ato administrativo, a ser cumprido em certo prazo.
+6. Segurança concedida.
+2. O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência da Corte.
+3. Conheço do agravo e o desprovejo.
+4. Publiquem.
+Brasília, 27 de agosto de 2010.
+Ministro MARCO AURÉLIO
+Relator
