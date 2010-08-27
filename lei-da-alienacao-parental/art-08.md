@@ -1,0 +1,1 @@
+Art. 8º A alteração de domicílio da criança ou adolescente é irrelevante para a determinação da competência relacionada às ações fundadas em direito de convivência familiar, salvo se decorrente de consenso entre os genitores ou de decisão judicial.
