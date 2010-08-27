@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a e c, da Constituição) interposto de acórdão prolatado por Tribunal Regional Federal que considerou não violar as regras da legalidade, de anterioridade e da irretroatividade a modificação da sistemática de tributação da Contribuição ao PIS nos termos da Emenda Constitucional 17/1997.
+Sustenta-se, em síntese, violação das regras da legalidade, da anterioridade e da irretroatividade (arts. 5º, II e XXXVI, 150, I e III, a e 195, § 6º da Constituição) e do disposto no art. 246 da Constituição (impossibilidade de utilização de medida provisória para dispor sobre a matéria).
+O recurso não merece seguimento.
+Em relação ao uso de medida provisória para regular matéria que foi objeto de emenda constitucional (art. 246 da Constituição), observo que esta Corte já firmou precedentes no sentido da possibilidade de utilização do instrumento normativo para dispor sobre a Contribuição ao PIS (cf., e.g., o RE 493.344-EDcl, rel. min. Joaquim Barbosa, Segunda Turma, DJe de 19.12.2008 e a ADI 1.417, rel. min. Octavio Gallotti, Pleno, DJ de 23.03.2001). Assim, é necessário distinguir entre (a) a adoção de medida provisória para regular o Fundo Social de Emergência (art. 246 da Constituição e art. 73 do ADCT) e a adoção de medida provisória para instituir ou aumentar tributo (cf., e.g., o RE 433.077, rel. min. Cármen Lúcia, DJe de 22.09.2009).
+Quanto à violação das regras da irretroatividade e da anterioridade nonagesimal, especial ou mitigada (art. 195, § 6º da Constituição), o acórdão recorrido não discrepa da orientação firmada pela Segunda Turma do Supremo Tribunal Federal, como se lê na seguinte ementa:
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. PIS. EC 17/97. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL. O termo "a quo" do prazo de anterioridade previsto no art. 195, § 6º, da CB/88 flui da data da publicação da medida provisória, que não perde a eficácia, se não convertida em lei, mas editado outro provimento da mesma espécie, dentro do prazo de validade de trinta dias. Precedentes. Agravo regimental a que se nega provimento.” (RE 595.673-AgR, rel. min. Eros Grau, Segunda Turma, DJe de 07.08.2009).
+As demais questões suscitadas demandam o prévio exame da legislação infraconstitucional, o que é vedado no âmbito de cognição do recurso extraordinário, em razão do disposto na Súmula 636 desta Corte.
+Por fim, em relação à interposição do apelo extraordinário com base no art. 102, III, alínea c, verifico que o Tribunal a quo em momento algum julgou válida lei ou ato de governo local contestado em face da Constituição.
+Do exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 27 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
