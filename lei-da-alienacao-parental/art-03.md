@@ -1,0 +1,1 @@
+Art. 3º A prática de ato de alienação parental fere direito fundamental da criança ou do adolescente de convivência familiar saudável, prejudica a realização de afeto nas relações com genitor e com o grupo familiar, constitui abuso moral contra a criança ou o adolescente e descumprimento dos deveres inerentes à autoridade parental ou decorrentes de tutela ou guarda.

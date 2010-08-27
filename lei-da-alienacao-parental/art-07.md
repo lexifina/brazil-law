@@ -1,0 +1,1 @@
+Art. 7º A atribuição ou alteração da guarda dar-se-á por preferência ao genitor que viabiliza a efetiva convivência da criança ou adolescente com o outro genitor nas hipóteses em que seja inviável a guarda compartilhada.
