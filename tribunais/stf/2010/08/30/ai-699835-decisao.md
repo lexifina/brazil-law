@@ -1,0 +1,29 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão do TJ/SP, no qual se discute a respeito de concessão de aposentadoria especial à agravada, professora do Município agravante, sem habilitação técnica. Tal aresto está assim ementado:
+“Administrativo/Constitucional – Mandado de segurança – Docente da rede municipal de ensino – Pretensão ao cômputo do tempo de serviço prestado como professora contratada e do período de licença-gestante (depois sustada), para o fim de aposentadoria voluntária e especial – Pleito lídimo – Inteligência do art. 3º da EC 20/98) – Exegese da Súmula STF 359 do STF – Segurança que se mantém – Recursos desprovidos” (fl. 203).
+ Frise-se que a recorrida completou mais de vinte e cinco anos de magistério antes do advento da EC 20/98 (fl. 204).
+2.     No RE, o Município de São Paulo alega ofensa ao art. 40, III, b, da CF, argumentando, em síntese, que:
+“Ressalte-se que mesmo pela regra anterior, a norma contida no aludido dispositivo constitucional garante aposentadoria especial às professoras após vinte e cinco anos de efetivo exercício de funções de magistério, constitui-se exceção à regra previdenciária, que exige período maior para a obtenção do benefício pelas demais categorias funcionais.
+Ora, tratando-se de norma constitucional de caráter excepcional à regra de aposentadoria e às disposições legais pertinentes, a interpretação restritiva é a que se aplica ao caso e que afasta a possibilidade de contagem do tempo pretendido pela recorrida.
+Com efeito, se a Constituição Federal, no dispositivo mencionado, exige tempo de efetivo exercício em funções de magistério, para o efeito dessa aposentadoria voluntária especial, não poderia a Administração Pública municipal computar, para tal finalidade, o período em que a impetrante se encontrava em funções sem a necessária habilitação técnica, visto não poder ser considerado como exercício do magistério” (fl. 247).
+3.  O recurso não merece prosperar. É firme a jurisprudência desta Corte no sentido de que para efeito de aposentadoria especial é exigível o “tempo de efetivo exercício em funções de magistério”. E o cumprimento de tal requisito foi reconhecido pelo Tribunal de origem.
+ O fato de que, na época, a agravada não era habilitada para o magistério não tem relevância para os efeitos da aplicação do art. 40, III, b, da CF. Dessa forma, não há que falar em afronta a esse dispositivo constitucional.
+4.  Sobre o tema, o Plenário desta Corte, ao julgar a ADI 755/SP, rel Min. Maurício Corrêa, DJ 06.12.96, assentou:
+“(...)
+1. O art. 40, III, b da Constituição Federal assegura o direito à aposentadoria especial ‘aos trinta anos de efetivo exercício nas funções de magistério, se professor, e vinte e cinco, se professora, com proventos integrais’; outras exceções podem ser previstas em lei complementar (CF, art. 40, § 1º), ‘no caso de exercício de atividades consideradas penosas, insalubres ou perigosas’.
+2. A expressão ‘efetivo exercício em funções de magistério’ contém a exigência de que o direito à aposentadoria especial dos professores só se aperfeiçoa quando cumprido totalmente este especial requisito temporal no exercício das específicas funções de magistério, excluída qualquer outra.
+(...)”
+ Veja-se o RE 353.460-AgR/SP, rel. Min. Carlos Velloso, 2ª Turma, unânime, DJ 03.02.2006, assim ementado:
+“CONSTITUCIONAL. PROFESSOR. APOSENTADORIA ESPECIAL. MOBRAL.
+I. - A Constituição, ao estabelecer o prazo para aposentadoria, nos termos do art. 40, III, b, redação anterior à Emenda Constitucional 20/98, não fazia qualquer referência à habilitação específica como requisito indispensável para seu cômputo.
+II. - Agravo não provido”.
+ Menciono, ainda, as seguintes decisões no AI 307.445/SP, rel. Min. Sepúlveda Pertence, DJ 15.06.2004; e no AI 323.395/SP, rel. Min. Moreira Alves, DJ 14.05.2001, esta última concluiu:
+“Ao aludir a Constituição, no artigo 40, III, "b", a professor e a professora, partiu ela da premissa de que quem tem exercício efetivo em função de magistério deve ser professor ou professora, o que, no entanto, não afasta a aplicação desse dispositivo àquele que, como no caso, foi contratado, apesar de não ter habilitação específica, para prestar serviços como professor e os prestou em função de magistério, e isso porque essa aposentadoria especial visa a beneficiar quem exercer, efetivamente, como professor ou professora (habilitados, ou não) funções de magistério que contem tempo para a aposentadoria no serviço público”.
+ Em decisões mais recentes, aponto o RE 576.230/SP, rel. Min. Ayres Britto, DJe 22.02.2010; e o AI 646.933/SP, rel. Min. Cármen Lúcia, DJe 24.04.2009. Da primeira, destaco:
+“...a Constituição Republicana assegurou a aposentadoria especial ao professor que exerça as funções que lhe são próprias: as de magistério. Não fez distinção entre professor habilitado e professor não habilitado. E sendo incontroverso o fato de que o recorrido (habilitado em 1976) efetivamente laborou como docente da rede estadual de ensino, no período que vai de 09 de março de 1970 a 29 de janeiro de 1976, não há como deixar de lhe reconhecer o tempo de serviço prestado no exercício do magistério. Afinal, os frutos dessa efetiva atividade magisterial foram colhidos tanto pelos respectivos alunos do professor recorrido quanto pelo próprio Município recorrente. Isso é o que interessa para o Direito”.
+Da segunda, transcrevo a ementa:
+“AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. PROFESSOR. CÔMPUTO DO TEMPO EM QUE EXERCIDA FUNÇÃO DE MAGISTÉRIO AINDA QUE SEM HABILITAÇÃO ESPECÍFICA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO”.
+5.  Dessa forma, encontrando-se o acórdão recorrido em conformidade com a jurisprudência do Supremo Tribunal, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 30 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
