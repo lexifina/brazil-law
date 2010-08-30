@@ -1,0 +1,14 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão no qual se discute a legalidade da exigência do pagamento de multa por infrações de trânsito como requisito para realização de vistoria de licenciamento anual, nos seguintes termos (fls. 135-143):
+“ APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA PREVENTIVO. PRETENSÃO DE VER REALIZADA A VISTORIA DE AUTOMÓVEL, COM A EXPEDIÇÃO DO CERTIFICADO DE REGISTRO E LICENCIAMENTO DE VEÍCULO (CRLV), INDEPENDENTEMENTE DO PAGAMENTO DE MULTAS. (...)
+No que tange ao mérito, saliente-se, desde logo, que o ordenamento legal em vigência, não outorga ao Poder Público o direito de condicionar a realização de vistoria em veículo, ao pagamento das multas porventura devidas.
+A ordem constitucional vigorante não pode admitir, que a título de cobrança de seus créditos, a Autoridade Pública impeça que o cidadão exerça, em obediência aos ditames da lei, o resguardo da propriedade e lhe seja negado o devido processo legal.
+Ademais, de há muito, a jurisprudência do Colendo Superior Tribunal de Justiça, sob essa mesma ótica, vem assegurando tais direitos às pessoas físicas e jurídicas (...)”.
+2.  O Município do Rio de Janeiro sustenta, com base nas alíneas a e b do permissivo constitucional, em síntese (fls. 194-205), violação aos arts. 5º, XXXV, LIV, e 97 da Constituição Federal sob o argumento de que “a única maneira de se afastar a aplicação de uma norma vigente e válida é reconhecer a sua incompatibilidade com uma norma de hierarquia superior da qual retira o seu fundamento de validade”.
+3.  Inadmitido o recurso (fls. 215-219), subiram os autos em virtude de provimento do AI 621.303/RJ.
+4.  Preliminarmente, ao contrário do que sustenta o recorrente, o acórdão recorrido não declarou a inconstitucionalidade de tratado ou lei federal. Não houve julgamento contrário ao disposto no art. 97 da Constituição Federal, que cuida da denominada “reserva de plenário”, para fins de possível declaração de inconstitucionalidade de lei ou ato normativo do poder público. Sem margem, portanto, ao cabimento do recurso extraordinário. Sobre este ponto, aliás, reporto-me ao decidido no RE 184.093/SP, rel. Min. Moreira Alves, 1ª Turma, DJ 05.09.1997.
+5.  Quanto ao mérito, o presente recurso também não merece prosperar. Para o exame das violações alegadas, seria necessária a análise de fatos e de provas contidas nos autos (Súmula STF 279), além do revolvimento da legislação infraconstitucional em que se fundou o acórdão recorrido (Lei 9.503/97 – Código de Trânsito Brasileiro), hipóteses inviáveis em sede extraordinária, porquanto a eventual ofensa à Constituição Federal seria indireta e reflexa.
+6.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 30 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
