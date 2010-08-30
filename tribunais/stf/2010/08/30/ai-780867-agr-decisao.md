@@ -1,0 +1,17 @@
+Trata-se de agravo regimental interposto contra decisão que, em 17/5/2010, negou seguimento ao agravo de instrumento. Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+'AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EMPRESA DE PEQUENO PORTE E MICROEMPRESA. OPTANTE PELO SIMPLES. IMPENHORABILIDADE DE BENS.
+- O Superior Tribunal de Justiça mantém entendimento de que não há qualquer óbice à penhorabilidade de bens de pessoas jurídicas, sendo que podem, portanto, ser leiloados. Por outro lado, a jurisprudência daquele Tribunal tem ampliado a interpretação do art. 649 do Código de Processo Civil para reconhecer a impenhorabilidade de bens de empresas de pequeno porte e microempresas, a fim de que suas atividades não sejam prejudicadas.
+- Por se tratar de exceção à lei, em que se estende a interpretação do referido artigo a casos não previstos na legislação, é indispensável a apresentação de prova capaz de demonstrar a condição de empresa de pequeno porte ou de microempresa' (fl. 150).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 21, XII, e, 109, §§ 2º e 3º, 170, III e V, e 175, parágrafo único, da mesma Carta.
+O agravo não merece acolhida. Isso porque, o acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 562.212/RS, de minha relatoria; AI 592.110/RJ, Rel. Min. Cezar Peluso; AI 645.007/RS, Rel. Min. Cármen Lúcia; AI 524.388/RS, Rel. Min. Marco Aurélio.
+Além disso, para se chegar à conclusão contrária à adotada pelo acórdão recorrido – não se tratar a ora agravante de empresa de pequeno porte -, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Por fim, observa-se que, com a negativa de provimento ao agravo regimental no recurso especial pelo Superior Tribunal de Justiça (AgRg no REsp 1.136.947/PR, com trânsito em julgado em 24/11/2009), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+Isso posto, nego seguimento ao recurso” (fl. 341-342).
+Verifica-se o regimental foi interposto intempestivamente, porquanto protocolizado, por engano, no Superior Tribunal Justiça, em 7/6/2010, conforme se afere do protocolo de fl. 348, tendo sido enviado a esta Corte por meio do ofício de fl. 346, recebido apenas em 17/6/2010, após o prazo legal e já com certidão de trânsito em julgado à fl. 345.
+Ressalto, ademais, que é reiterado neste Tribunal o entendimento de ser intempestivo o recurso interposto em outro Tribunal e apresentado nesta Corte após o trânsito em julgado da decisão. Isto porque, o protocolo efetivamente considerado para efeito de verificação do prazo é o da Secretaria desta Casa (AI 456.015-AgR/SP e AI 347.186-AgR/SP, Rel. Min. Ellen Gracie; e RE 276.835-AgR/SE, Rel. Min. Néri da Silveira).
+Isso posto, não conheço do agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 30 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
