@@ -1,0 +1,16 @@
+D ECIS Ã O:
+V ISTOS.
+Habeas corpus, sem pedido de liminar, impetrado pela Defensoria Pública da União em favor de Edson Bezutti Vieira, apontando como autoridade coatora o Superior Tribunal Militar, que negou provimento à Apelação nº 2009.01.051324-8/RS interposta pela defesa.
+Sustenta, em síntese, que “é sabido que a definição das políticas públicas de combate às drogas vem sendo aperfeiçoada ao longo das últimas décadas, desde a 'Convenção Única sobre Entorpecentes', assinada em Nova York em 30 de março de 1961, ratificada pelo Brasil pelo Decreto Legislativo nº 05/1964 e com obrigatoriedade de execução interna formalizada pelo Decreto nº 54.216, de 27 de agosto de 1964”. (fl. 5). Aduz, para tanto, “resta evidente que o nosso legislador utilizou as citadas fontes do Direito Internacional para promover as sucessivas alterações legislativas operadas no âmbito do ordenamento jurídico interno e que, até aqui, culminaram com a edição da Lei nº 11.343/2006.”, concluindo, assim, pela “incompatibilidade do art. 290 do Código Penal Militar com os citados diplomas internacionais, pois mantém a penalização do uso e do porte de drogas ilícitas para consumo próprio.” (fl. 9).
+Transcreve, em reforço aos argumentos expendidos, ementa do julgado proferido pela Segunda Turma no HC nº 91.074/SP, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 19/12/2008, com o seguinte teor:
+“'HABEAS CORPUS'. POSSE DE SUBSTÂNCIA ENTORPECENTE. PEQUENA QUANTIDADE. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. ORDEM CONCEDIDA. Não constitui crime militar trazer consigo quantidade ínfima de substância entorpecente (4,7 gramas de maconha), em atenção ao princípio da insignificância. Ordem concedida para absolver o paciente” (fl. 13).
+Requer a concessão da ordem para “anular a condenação ou absolver o Paciente nos termos das razões (...) expendidas e, ainda, seja declarada a inconstitucionalidade do art. 290 do C.P.M., dada a sua incompatibilidade parcial com as Convenções de Nova York e de Viena, incorporadas ao ordenamento jurídico constitucional interno por força da antiga redação do art. 5º, § 2º, da Constituição Federal” (fl. 14).
+Examinados os autos, decido.
+As questões relativas à incidência do princípio da insignificância aos crimes relacionados ao uso ou porte de substâncias entorpecentes no âmbito da justiça militar e à aplicação da Lei nº 11.343/06 a esses crimes não estão pacificadas na jurisprudência desta Corte, motivo pelo qual a Segunda Turma, por ocasião do julgamento do HC nº 94.685/CE, Relatora a eminente Ministra Ellen Gracie, afetou os temas ao Tribunal Pleno.
+Atualmente, conforme informações obtidas no sítio desta Suprema Corte (www.stf.jus.br), após o voto da Senhora Ministra Ellen Gracie, indeferindo o writ, no que foi acompanhada pelos Ministros Menezes Direito, Cármen Lúcia, Ricardo Lewandowski e Joaquim Barbosa, e o voto do Senhor Ministro Eros Grau, deferindo-a, pediu vista dos autos o Ministro Ayres Britto.
+Assim, determino o sobrestamento do feito, na Secretaria do Tribunal, até que seja concluído o julgamento o HC nº 94.685/CE por esta Corte.
+Publique-se.
+Brasília, 30 de agosto de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
