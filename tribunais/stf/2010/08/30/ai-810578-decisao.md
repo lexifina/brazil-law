@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento tirado de decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+“ APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. PREVIDÊNCIA PRIVADA. FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL . Os valores do resgate, relativamente às contribuições efetuadas pelo associado que se retira da entidade previdenciária, devem ser corrigidos com índices de correção monetária que melhor revelem a inflação do período. Diferenças devidas a título de correção da reserva de poupança, devendo ser abatidos os valores já pagos ao autor. Descabimento da restituição das contribuições efetuadas anteriormente ao mês de janeiro de 1980. JUROS MORATÓRIOS . A partir da vigência do novo Código Civil, Lei nº 10.406/02, em vigor em 11.01.03, incidem juros de mora de 1% ao mês. Preliminar rejeitada. Apelos do autor e da ré providos, em parte.” (Fl. 14)
+2.  No RE alega-se ofensa aos arts. 5º, II, 93, IX, 195, § 5º e 202 da Constituição Federal.
+3.  O recurso, no entanto, não merece seguimento, pois o Tribunal a quo, ao concluir pela correção monetária plena das contribuições devolvidas, por ocasião do desligamento do ora agravado da entidade agravante, baseou-se na legislação infraconstitucional.
+ Ademais, para apreciar o RE em confrontação com o que restou decidido no acórdão recorrido, seria necessário apreciar regra estatutária e regulamentar da parte agravante, o que importa óbice das Súmulas/STF 454 e 279. No mesmo sentido, não há margem, também, ao cabimento do extraordinário porquanto eventual ofensa ao artigo 202 da Carta Federal, se existente, seria apenas indireta. Nesse sentido é a jurisprudência do Supremo Tribunal Federal. Vejam-se AI 629.223-AgR/RJ, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ de 08.06.2007 e AI 691.330-AgR/RJ, rel. Min. Celso de Mello, unânime, DJE de 14.03.2008, entre vários outros.
+4.  Do exposto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 30 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
