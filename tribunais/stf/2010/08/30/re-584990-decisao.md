@@ -1,0 +1,14 @@
+1.  O Superior Tribunal de Justiça negou provimento ao recurso ordinário em mandado de segurança contra ato do Governador que declarara nulo o ato de nomeação dos impetrantes nos cargos da Secretaria da Saúde Pública e do Meio Ambiente. O ato impugnado decorreu do cumprimento da decisão judicial proferida em ação civil pública a qual concluiu pela inconstitucionalidade do critério de pontuação adotado pelo concurso público em que os impetrantes foram aprovados, nos seguintes termos (fls. 170-177):
+“ RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. PROCESSO CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. DETERMINAÇÃO DE QUE FOSSEM RECALCULADAS NOTAS FINAIS DE CONCURSO PÚBLICO. EFICÁCIA ERGA OMNES. PERDA DO CARGO. CONSTITUCIONALIDADE. ART. 41, § 1º, CF/ 88.
+(...)
+2. O ato que torna sem efeito a nomeação de servidores públicos estáveis, com fundamento em decisão transitada em julgado proferida nos autos de ação civil pública, não incorre em inconstitucionalidade. Com efeito, nos termos do art. 41, § 1º, da Constituição Federal, a perda de cargo de servidor estável deve ser determinada por sentença judicial transitada em julgado ou processo administrativo”.
+2.  Daí o recurso extraordinário por alegada violação aos arts. 5º, LIV, LV, e 93, IX, da Constituição Federal (fls. 197-215). Asseveram que, além de já serem estáveis, aplicaram-se aos recorrentes os efeitos da ação civil pública da qual não participaram e sequer foram cientificados.
+3.  Inadmitido o recurso na origem (fls. 234-235), o agravo de instrumento foi reautuado como recurso extraordinário (fl. 256).
+4.  Preliminarmente, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal,   do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+Nesse sentido: AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ademais, rever o acórdão recorrido, para concluir de forma diversa, implicaria, além do revolvimento da legislação infraconstitucional, o reexame dos fatos e das provas em que se baseou a Corte de origem, o que é vedado em sede extraordinária (Súmula STF 279). Nesse sentido, entre outros: RE 558.036- AgR/RJ, rel. Min. Eros Grau, 2ª Turma, DJ 09.05.2008; e AI 655.792-ED/RJ, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 08.02.2008.
+6.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 30 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
