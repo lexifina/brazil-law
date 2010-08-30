@@ -1,0 +1,16 @@
+Trata-se de agravo regimental interposto contra decisão que, em 6/4/2010, negou seguimento ao agravo de instrumento. Eis o teor da decisão agravada:
+“Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, e 37, da mesma Carta, bem como ao art. 34, § 12º, do ADCT.
+O agravo não merece acolhida. Isso porque, a apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, anote-se:
+‘1. Empréstimo compulsório sobre energia elétrica instituído pela L. 4.156/61: exigibilidade, nos termos do art. 34, § 12, ADCT (RE 146.615, Corrêa, Pleno, 30.6.95). 2. Recurso extraordinário: descabimento: questões relativas ao prazo de prescrição dos créditos da agravada, à incidência da correção monetária, aos juros e à taxa Selic, de âmbito infraconstitucional; alegada ofensa aos dispositivos constitucionais dados como violados, que, se houvesse, seria indireta ou reflexa: incidência do princípio da Súmula 636. 3. Agravo regimental manifestamente infundado: condenação da agravada ao pagamento de multa, nos termos do art. 557, § 2º, C.Pr.Civil’ (AI 618.070-AgR/RS, Rel. Min. Sepúlveda Pertence, Primeira Turma).
+‘EMPRÉSTIMO COMPULSÓRIO. ENERGIA ELÉTRICA. RESTITUIÇÃO. CORREÇÃO MONETÁRIA E JUROS. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO’ (AI 557.659-AgR/RS, Rel. Min. Cármen Lúcia, Primeira Turma).
+‘AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EMPRÉSTIMO COMPULSÓRIO. ENERGIA ELÉTRICA. LEI N. 4.156/62. DEVOLUÇÃO. CORREÇÃO MONETÁRIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. Controvérsia relativa aos critérios de correção monetária utilizados para a devolução do empréstimo compulsório incidente sobre o consumo de energia elétrica, instituído pela Lei n. 4.156/62. Matéria de índole infraconstitucional. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento’ (AI 578.377-AgR/SC, Rel. Min. Eros Grau, Segunda Turma).
+Isso posto, nego seguimento ao recurso” (fls. 50-51).
+A agravante sustentou, em suma, que a decisão agravada deve ser reformada e insistiu, dessa forma, no processamento do recurso extraordinário. Requer que
+“(...) a decisão ‘a quo’ seja reformada para que a correção monetária seja aquela prevista nos exatos termos do Dec. Lei 1.512/76 e não a contar do efetivo pagamento conforme deferido equivocadamente pelo Tribunal ‘a quo’ (...)” (fl. 64).
+Bem examinados os autos, verifico que o presente recurso foi interposto intempestivamente. A decisão recorrida foi publicada em 16/4/2010 (fl. 52). O agravo regimental foi interposto em 26/4/2010 (fl. 56), após o decurso do prazo legal de 5 dias previsto nos arts. 545, do CPC, e 317 do RISTF, que se extinguiu em 23/4/2010, conforme consta na certidão de trânsito em julgado de fl. 55.
+Isso posto, não conheço do agravo regimental (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 30 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
