@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“EMBARGOS DE DECLARAÇÃO. CARÁTER INFRINGENTE. IMPOSSIBILIDADE. RECURSO MANIFESTAMENTE PROTELATÓRIO. APLICAÇÃO DE MULTA PREVISTA EM LEI.
+1. Não ocorrentes as hipóteses insertas no art. 535 do CPC, tampouco equívoco manifesto no julgado recorrido, não merecem acolhida os embargos que se apresentam com nítido caráter infringente, onde se objetiva rediscutir a causa.
+2. Embargos de declaração rejeitados com aplicação de multa de 1% sobre o valor corrigido da causa” (fl. 335).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, XXXV, LIV e LV, 93, IX, e 105, III, a e c, da mesma Carta.
+O agravo não merece acolhida.
+Bem examinados os autos, verifico que a decisão que rejeitou os segundos embargos de declaração no Agravo regimental, aplicou multa aos agravantes no valor de 1% (um por cento) do valor corrigido da causa e condicionou a interposição de qualquer outro recurso ao depósito do respectivo valor. No entanto, o depósito não foi efetuado (fl. 397).
+A ausência do prévio recolhimento da multa importa o não-conhecimento do recurso, uma vez que atua como pressuposto objetivo de recorribilidade. Nesse sentido, é o entendimento de ambas as Turmas: RE 246.337-AgR-ED/RS, Rel. Min. Celso de Mello; AI 233.671-AgR-ED/SC, Rel. para acórdão Min. Maurício Corrêa e AI 491.764-AgR-ED/MG, Rel. Min. Cezar Peluso, que segue ementado:.
+“1. RECURSO. Embargos de declaração. Multa aplicada em agravo regimental. Depósito não efetuado. Não satisfação da condição para interposição de recurso. Embargos não conhecidos. Aplicação do art. 557, § 2º do CPC. Não se conhece do recurso, quando não depositado o valor da multa imposta em recurso anterior, como condição de admissibilidade. 2. RECURSO. Embargos de declaração. Inadmissibilidade. Acórdão embargado. Omissão, contradição ou obscuridade. Inexistência. Embargos de declaração rejeitados. Não se admitem embargos de declaração de decisão em que não há omissão, contradição nem obscuridade. 3. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 19 do Dispositivo Transitório. Violação dependente de reexame prévio de matéria fática. Súmula 279. Não cabe recurso extraordinário que tenha por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, tampouco que dependa de reexame de fatos e provas. 4. RECURSO. Extraordinário. Estabilidade. Artigo 19 do Dispositivo Transitório. Requisito Temporal. Adquire a estabilidade anômala, prevista no artigo 19 do ADCT, aquele que prestou serviço por mais de cinco anos, até 05.10.88”. (Grifos meus).
+A multa imposta no valor de 1% (um por cento) do valor da causa está em consonância com a legislação processual civil (art. 538, parágrafo único, do CPC).
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 30 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
