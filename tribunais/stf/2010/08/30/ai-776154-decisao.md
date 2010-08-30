@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“AÇÃO CIVIL PÚBLICA. Cananéia. LF n° 4.771/65, art. 2º, "f". Aterro de área de preservação permanente (mangue secundário), sem licença ambiental. Termo de Compromisso de Recuperação Ambiental, Anulação. Recuperação do dano ambiental. I. Termo de Compromisso de Recuperação Ambiental, O termo de compromisso firmado pelo primeiro réu e pelo DEPRN pode ser anulado se não cumpre a finalidade de recuperação da área de preservação. Viabilidade da retirada do aterro e da recuperação da área pelo mangue. - 2. Despesas processuais. O Estado responde solidariamente pelas despesas do processo se a lide visa à anulação de ato de seu preposto e se, procedente o pedido, ficou vencido. - Sentença de procedência. Reexame e recurso da Fazenda e do réu desprovidos” (fl. 264).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, caput, II, e 37, caput, da mesma Carta.
+O agravo não merece acolhida. Isso porque, falta o necessário prequestionamento das normas constitucionais apontadas como violadas. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS CONSTITUCIONAIS SUSCITADAS. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 1. Os temas constitucionais suscitados no apelo extremo não foram objeto de análise prévia, e conclusiva, pela Instância Judicante de origem. Pelo que incidem as Súmulas 282 e 356 desta Corte. 2. Agravo regimental desprovido” (AI 770.103-AgR/RJ, Rel Min. Ayres Britto).”
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 30 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
