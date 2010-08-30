@@ -1,0 +1,11 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, que negou provimento ao pleito do ora agravante, servidor público aposentado do Estado do Amazonas, que pretendia o reconhecimento de direito adquirido (art. 5º, XXXVI, da CF/88) à vantagem pessoal denominada prêmio de aposentadoria (fls. 32-42).
+2.  Nas razões do RE, alega-se ofensa aos artigos 5º, XXXVI e 40, §2º, da Constituição Federal e contrariedade à Súmula STF 359 (fls. 73-85).
+3.  Razão assiste ao agravante. O acórdão recorrido, ao concluir pela inexistência de direito à incorporação da vantagem pessoal denominada prêmio de aposentadoria, divergiu da jurisprudência desta Corte.
+ O Supremo Tribunal Federal possui o entendimento consolidado no sentido de que a incorporação aos proventos de 20% da remuneração recebida em atividade, instituída sob a égide da Constituição anterior, não foi questionada no momento apropriado e passou a integrar o patrimônio jurídico daqueles que a receberam. Veja-se o RE 342.210-AgR/AM, de minha relatoria, 2ª Turma, unânime, 2ª Turma, DJe 15.08.2008, cujo acórdão está assim ementado:
+ “ DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DO AMAZONAS. APOSENTADORIA. GRATIFICAÇÃO INSTITUÍDA PELA LEI ESTADUAL 1.762/86. MANUTENÇÃO. AGRAVO IMPROVIDO . 1. Prevalência da boa-fé e da segurança jurídica a convalidar os efeitos da Lei Estadual 1.762/86 perante a Constituição da República, para incorporar a gratificação instituída ao patrimônio dos servidores. 2. Controvérsia suscitada já dirimida por ambas as Turmas do Supremo Tribunal Federal. Precedentes. 3. Agravo regimental improvido.”
+ Nesse sentido, menciono os seguintes julgados: RE 434.222-AgR/AM, rel. Min. Carlos Velloso, 2ª Turma, unânime, DJ 01.07.2005; RE 434.221-AgR/AM, rel. Min. Eros Grau, 2ª Turma, unânime, DJ 05.05.2006; e RE 342.222-AgR/AM, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 06.02.2009.
+4.  Ante o exposto, conheço do agravo, e, desde logo, dou provimento ao recurso extraordinário, nos termos do art. 557, § 1°-A, do CPC, para reformar o acórdão recorrido, concedendo a segurança. Sem honorários (art. 25 da Lei 12.016/2009).
+Publique-se.
+Brasília, 30 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
