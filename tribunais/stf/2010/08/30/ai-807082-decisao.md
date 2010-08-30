@@ -1,0 +1,14 @@
+DECISÃO: Vistos, etc.
+Trata-se de processo em que se discute a constitucionalidade do § 1º do art. 3º da Lei 9.718/1998, que alargou a base de cálculo do PIS e da Cofins.
+2. Pois bem, a Instância Judicante de origem aplicou decisão do Supremo Tribunal Federal, que entendeu pela presença de repercussão geral da questão trazida nos autos, ao apreciar o RE 585.235-QO, sob a relatoria do ministro Cezar Peluso.
+3. Presente essa moldura, incabível a interposição de agravo de instrumento, nos moldes do art. 544 do Código de Processo Civil. Nesse mesmo sentido, vejam-se a Rcl 7569, sob a relatoria da ministra Ellen Gracie; e o AI 760.358-QO, sob a relatoria do ministro Gilmar Mendes, este assim ementado:
+“Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental.
+1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral.
+2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação.
+3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida.
+4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.”
+Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, não conheço do agravo de instrumento e, com base no entendimento firmado por esta nossa Corte, determino a devolução do recurso ao Tribunal de origem, para que seja processado como agravo regimental. Baixem-se os autos, independentemente de publicação.
+Após, publique-se.
+Brasília, 30 de agosto de 2010.
+Ministro AYRES BRITTO
+Relator
