@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 403):
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. EXECUÇÃO. EMBARGOS DE TERCEIRO. FRAUDE. PENHORA DE CRÉDITO CEDIDO PELA EMPRESA EXECUTADA REDE FERROVIÁRIA FEDERAL S.A. EFICÁCIA DA ALIENAÇÃO. Toda a controvérsia está assentada no fato de que o acórdão recorrido convalidou a decisão do juiz da execução, que, concluiu pela ineficácia da cessão de crédito da executada, quando à época da cessão já corria contra a cedente o feito principal. Nesse contexto, verifica-se que a matéria tem cunho nitidamente infraconstitucional. Agravo de instrumento não provido.”
+Nas razões do recurso extraordinário, aponta-se violação ao disposto nos arts. 5º, II, XXII, XXXV, XXXVI, LIV e LV, 93, IX, e 100, § 1º, da Constituição federal.
+É o relatório. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Ademais, as questões constitucionais suscitadas não podem ser analisadas sem prévio exame da legislação infraconstitucional e das provas que fundamentaram as conclusões da decisão recorrida. O recurso extraordinário é, pois, inviável, tanto porque eventual ofensa à Constituição seria indireta, como por esbarrar na vedação da Súmula 279 desta Corte.
+Por fim, inexiste a alegada afronta aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 31 de agosto de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
