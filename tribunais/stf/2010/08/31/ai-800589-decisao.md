@@ -1,0 +1,16 @@
+DECISÃO: Vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário criminal, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 4ª Região. Acórdão assim ementado (fls. 621/622):
+“PENAL. APROPRIAÇÃO INDÉBITA. OMISSÃO NO RECOLHIMENTO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. ÂNIMO DE APROPRIAÇÃO. DESNECESSIDADE. COMPROVAÇÃO DA MATERIALIDADE. DIFICULDADES FINANCEIRAS. PROVA. INEXIGIBILIDADE DE CONDUTA DIVERSA. DOSIMETRIA DA PENA. CONFISSÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE.
+1. O crime de apropriação indébita previdenciária é omissivo puro, não havendo necessidade da ocorrência do ‘animus rem sibi habendi’ para a sua caracterização.
+2. A materialidade do crime de apropriação indébita previdenciária pode ser comprovada pela Notificação Fiscal de Lançamento de Débito (NFLD), nos termos da Súmula 67 do TRF4.
+3. Nos delitos de não recolhimento de contribuições previdenciárias descontadas dos empregados, a tese da inexigibilidade de conduta diversa, como causa de exclusão da culpabilidade, vem sendo aceita apenas em casos verdadeiramente extremos. Somente dificuldades ‘financeiras muito graves podem justificar a conduta de quem não cumpre a obrigação de recolher as contribuições devidas no prazo legal, tendo em vista o interesse social, igualmente relevante, de manter a empresa em funcionamento’ (ACR nº 2001.04.01.004010- -2, TRF 4ª Região, DJU 11/09/02), incumbindo à defesa, ainda assim, o ônus de trazer prova robusta que justifique a aplicação da excludente. Hipótese de ausência de comprovação das dificuldades financeiras alegadas.
+4. A confissão, prevista no art. 65, III, alínea 'd', do CP, tem caráter objetivo e atenua a pena, mesmo quando presentes outros elementos de prova da autoria e materialidade do delito. Precedente do TRF da 4ª Região.
+5. A pena privativa de liberdade, observados os requisitos do art. 44 do CP, pode ser substituída por duas penas restritivas de direitos, consistentes em prestação pecuniária e prestação de serviços à comunidade, quando a condenação for superior a um ano de reclusão. Precedente da Quarta Seção do TRF/4.
+6. A pena pecuniária substitutiva deve guardar simetria com a pena privativa de liberdade e dispensar especial consideração ao montante do prejuízo e às condições econômicas do acusado.”
+2. Pois bem, a parte recorrente sustenta violação ao inciso LXVII do art. 5º da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. Isso porque a jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta, é firme no sentido de não existir nenhuma relação entre o crime de apropriação indébita previdenciária e a prisão civil por dívida. Precedentes: HC 91.704, sob a relatoria do ministro Joaquim Barbosa; AI 366.390-AgR, sob a relatoria do ministro Nelson Jobim;  AI 675.619-AgR, sob a relatoria da ministra Cármen Lúcia; e RE 391.996-AgR, sob a relatoria do ministra Ellen Gracie.
+À vista do exposto, e frente ao art. 38 da Lei 8.038/90 e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 31 de agosto de 2010.
+Ministro AYRES BRITTO
+Relator
