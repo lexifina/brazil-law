@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade do recurso extraordinário que ataca acórdão do Superior Tribunal de Justiça assim ementado:
+“EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. SUPRESSÃO DE VANTAGEM. DECADÊNCIA AFASTADA. APLICAÇÃO RETROATIVA DA LEI N. 9.784/99. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO EMBARGADO. NÃO OCORRÊNCIA. PRETENSÃO DE REEXAME DA MATÉRIA. IMPOSSIBILIDADE.
+1. De acordo com o artigo 535 do Código de Processo Civil, os embargos declaratórios são cabíveis nas hipóteses de haver omissão, contradição ou obscuridade na decisão prolatada. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando esta foi devidamente debatida no acórdão embargado.
+2. Embargos de declaração rejeitados.”
+No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, caput, e XLI, § 1º, também da Carta Constitucional (princípios da isonomia e da segurança jurídica).
+Decido.
+Não assiste razão ao agravante.
+Registre-se que o acórdão proferido pelo Tribunal Regional Federal da 5ª Região (fl. 131), por assentar-se em duplo fundamento, deveria ter sofrido, por ocasião de sua impugnação recursal, a dupla interposição, tanto do recurso especial (para o STJ), quanto do recurso extraordinário (para o STF).
+Nesses termos, não cabe ao recorrente deduzir, agora, em momento procedimental já superado no tempo, o apelo extremo em questão, em virtude da configuração, na espécie, de típica hipótese de preclusão pertinente à própria fundamentação constitucional.
+É firme o entendimento desta Corte no sentido de que o acórdão do Superior Tribunal de Justiça somente legitimará o uso da via recursal extraordinária, se, nesse próprio acórdão, desenhar-se, originariamente, a questão de direito constitucional.
+Assim, se a controvérsia constitucional surgir em sede jurisdicional inferior, cabe à parte interessada interpor o concernente recurso extraordinário contra a decisão emanada do Tribunal de segundo grau, e não em desfavor da decisão proferida pelo Superior Tribunal de Justiça.
+Nesse sentido confira-se:
+ACÓRDÃO EMANADO DE TRIBUNAL DE SEGUNDO GRAU E QUE POSSUI DUPLO FUNDAMENTO (CONSTITUCIONAL E LEGAL): IMPRESCINDIBILIDADE, EM TAL CASO, DE INTERPOSIÇÃO DE RECURSO ESPECIAL (STJ) E DE RECURSO EXTRAORDINÁRIO (STF) - RECURSO IMPROVIDO. - Se o acórdão emanado de Tribunal de segundo grau assentar-se em duplo fundamento (constitucional e legal), impõe-se, à parte interessada, o dever de interpor tanto o recurso especial para o Superior Tribunal de Justiça quanto o recurso extraordinário para o Supremo Tribunal Federal, sob pena de, na ausência do apelo extremo, a parte recorrente sofrer, por força de sua própria omissão, os efeitos jurídico-processuais da preclusão pertinente à motivação de ordem constitucional. Se tal ocorrer, a existência de fundamento constitucional inatacado revelar-se-á bastante, só por si, para manter, em face de seu caráter autônomo e subordinante, a decisão proferida por Tribunal de segunda instância. - O acórdão do Superior Tribunal de Justiça somente legitimará o uso da via recursal extraordinária, se, nele, se desenhar, originariamente, a questão de direito constitucional. Surgindo esta, contudo, em sede jurisdicional inferior, a impugnação, por meio do recurso extraordinário, deverá ter por objeto a decisão emanada do Tribunal de segundo grau, pois terá sido este, e não o Superior Tribunal de Justiça, o órgão judiciário responsável pela resolução "incidenter tantum" da controvérsia de constitucionalidade. Precedentes.
+(RE-AgR 409.973, Segunda Turma, Rel. Min. CELSO DE MELLO, DJe 26.3.10)
+Cito ainda os seguintes precedentes deste Tribunal: AI-AgR 714.886, Primeira Turma, Rel. Min. Eros Grau, DJe 27.3.09; RE-AgR 557.872, Primeira Turma, Rel. Min. Marco Aurélio, DJe 6.11.09; AI-AgR 666.003, Primeira Turma, Rel. Min. Menezes Direito, DJe 19.12.07; AI-AgR 149.518, Segunda Turma, Rel. Min. Carlos Velloso, DJ 11.2.94.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, RISTF, e 557 do CPC).
+Publique-se.
+Brasília, 31 de agosto de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
