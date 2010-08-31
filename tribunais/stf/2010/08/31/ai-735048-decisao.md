@@ -1,0 +1,21 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão do TJ/SP assim ementado:
+“Drogaria – Limitação de horários e funcionamento, por meio de instituição de Plantões – Lei Municipal 8.974/78 – Legislação posterior, permitindo a venda de medicamentos em empórios, armazéns, lojas de conveniência, supermercados e ‘drugstores’, que funcionam nos finais de semana, a até mesmo 24 horas, nos casos de supermercados – Violação aos princípios da livre concorrência, que dispõe o inciso IV, do art. 170, e da isonomia, art. 1º, ambos da Constituição Federal – Serviço de relevância pública, ligado à saúde, que é direito e dever do Estado, não podendo ficar subordinado às restrições, prejudiciais à população – Sentença reformada – Recurso provido” (fl. 49).
+2.  Nas razões do RE, sustenta-se ofensa ao artigo 30, I e VIII, da CF, devidamente prequestionado, uma vez que foi objeto das informações ao mandado de segurança (fl. 36), tendo a parte recorrente opostos embargos de declaração para suprir a omissão do acórdão recorrido (fl. 54). Veja-se, a respeito, o RE 420.201-AgR/DF, de minha relatoria, 2ª Turma, unânime, DJ 24.06.2005.
+3.  O recurso do Município de São Paulo merece prosperar. Consolidou-se a jurisprudência das duas Turmas no sentido de que a fixação, pelos Municípios, de horários para o funcionamento de farmácias não implica violação aos princípios constitucionais da isonomia, da livre iniciativa, da livre concorrência e da defesa do consumidor. Vejam-se o RE 321.796/SP, rel. Min. Sydney Sanches, 1ª Turma, unânime, DJ 29.11.02; AI 330.536-ED/SP, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 03.05.2002; AI 274.969-AgR/SP, de minha relatoria, 1ª Turma, unânime, DJ 26.10.2001; e o RE 274.028/SP, rel. Min. Moreira Alves, 1ª Turma, DJ 05.06.2001, este último referente à mesma legislaçao tratada nestes autos e cuja ementa transcrevo:
+“Fixação de horário de funcionamento para farmácias no Município. Lei 8.794/78 do Município de São Paulo.
+- Ao julgar o RE 189.170, o Plenário desta Corte, em caso análogo ao presente sobre a mesma legislação do Município de São Paulo, assim decidiu:
+“ RECURSO EXTRAORDINÁRIO. FARMÁCIA. FIXAÇÃO DE HORÁRIO DE FUNCIONAMENTO. ASSUNTO DE INTERESSE LOCAL .
+A fixação de horário de funcionamento para o comércio dentro da área municipal pode ser feita por lei local, visando o interesse do consumidor e evitando a dominação do mercado por oligopólio. Precedentes.
+Recurso extraordinário não conhecido.”
+- Anteriormente, esta Primeira Turma, ao julgar o RE 237.965, já se havia manifestado no sentido de que a fixação de horário para o funcionamento de farmácia é matéria de competência do município, não havendo qualquer afronta aos princípios constitucionais da isonomia, da livre concorrência, da defesa do consumidor, da liberdade de trabalho e da busca ao pleno emprego.
+- Dessa orientação divergiu o acórdão recorrido.
+Recurso extraordinário conhecido e provido”.
+Aponto, também, decisões mais recentes sobre o tema: RE 392.355/SP, rel. Min. Dias Toffoli, DJe 06.04.2010; e RE 442.369/SP, rel. Min. Joaquim Barbosa, DJe 05.02.2010. Dessa última, destaco:
+“A jurisprudência desta Corte está consolidada no sentido de que os municípios têm competência para regular o horário do comércio local (Súmula 419).
+Essa competência não afronta os princípios da isonomia, da livre concorrência, da defesa do consumidor, da liberdade de trabalho e da busca ao pleno emprego e alcança farmácias e estabelecimentos comerciais não situados em shopping centers, além de incluir o poder de estabelecer e fiscalizar horários de funcionamento e escalas de plantão, desde que não sejam infringidas leis estaduais e federais (cf. RE 274.028, DJ 10.08.2001; RE 203.358-AgR, DJ 29.08.1997, e RE 174.645, DJ 27.02.1998, v.g.).
+Dessa orientação divergiu o acórdão recorrido”.
+4.  Ante o exposto, com fundamento no art. 544, § 4º, do Código de Processo Civil, estando o acórdão recorrido em confronto com a orientação firmada por este Tribunal, conheço do agravo para, desde logo, dar provimento ao recurso extraordinário. Sem honorários (art. 25 da Lei 12.016/2009).
+Publique-se.
+Brasília, 31 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
