@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“MILITAR. MARINHEIROS. EXPULSOS DO SERVIÇO MILITAR COM BASE NO ATO INSTITUCIONAL Nº 01/64. ALTERAÇÃO DA FUNDAMENTAÇÃO DO ATO DA PORTARIA.
+As certidões devem ser cópias fiéis dos atos de onde foram extraídas, e as fichas-prontuário dos autores refletem o que consta do original. Nestas consta que o fundamento das expusões foi o Ato Institucional nº 1, de 09/04/64. A retificação ocorrida em 27.08.2001 nas referidas fichas, viola o princípio constitucional do devido processo legal, inscrito, no artigo 5º, LIV, da Constituição Federal.” (fl. 268).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, caput, XXXV, LIV, LV, 37, caput, 93, IX, 97, 142, § 3º, X, da mesma Carta.
+O agravo não merece acolhida. É que, com exceção dos arts. 5º, LIV, e 37, caput, da Constituição, os demais dispositivos constitucionais tidos como violados não foram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ademais, observa-se que o tribunal de origem, com base no conjunto fático-probatório constante dos autos, entendeu que:
+“Com efeito, as certidões devem ser cópias fiéis dos atos de onde foram extraídas, e as fichas-prontuário dos autores refletem o que consta do original. Nestes (fls. 84-87), consta que o fundamento das expulsões foi o Ato Institucional nº 9, de 09/04/64. A retificação ocorrida em 27.08.2001 nas referidas fichas, viola o princípio constitucional do devido processo legal, inscrito, no artigo 5º, LIV, da Constituição Federal, numa conduta que, ao que tudo indica, objetiva suprimir a causa política da expulsão, obstando a sua demonstração em pleitos de natureza patrimonial, afrontando também outro princípio constitucional, qual seja, o da moralidade administrativa, prevista no artigo 37 da CF.
+Outrossim, como já ressaltou o juízo a quo, não há qualquer comprovação nos autos que demonstre a ocorrência de fato que justifique a expulsão dos requerentes, pelos motivos consubstanciados nos atos de retificação, que vieram em substituição ao Ato Institucional, que por quase quarenta anos fundamentou a expulsão dos autores da Marinha.” (fl. 266).
+Assim, para se chegar à conclusão contrária à adotada pelo acórdão recorrido necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Por fim, a exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento, tal como ocorreu.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 31 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
