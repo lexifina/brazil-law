@@ -1,0 +1,18 @@
+D ECIS Ã O
+Vistos.
+Maria Aparecida de Oliveira Lima interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 11 da Emenda Constitucional nº 20/98.
+Insurge-se, no apelo extremo, contra acórdão Oitava Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“Apelação Cível. Administrativo. Cumulação de cargos. Servidora que ocupava três cargos públicos. Aposentadoria em dois deles antes do advento da emenda 20/98. Cumulação de duas aposentadorias com vencimentos de um cargo na ativa. Impossibilidade. Situação não prevista no art. 11 da emenda 20. Cumulação tríplice jamais permitida. Pedido improcedente. Legalidade do ato que determinou a opção da servidora por uma aposentadoria e o cargo da ativa ou duas aposentadorias somente. Reforma da sentença em reexame necessário. Recurso voluntário prejudicado” (fl. 26).
+Opostos embargos de declaração (fls. 36 à 39), foram rejeitados (fls.40 à 43).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido dos embargos de declaração foi publicado em 27/9/06, conforme expresso na certidão de folha 44, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+O acórdão recorrido está em sintonia com a jurisprudência desta Corte, que já decidiu pela impossibilidade de acumulação de proventos de duas aposentadorias com vencimentos de um terceiro cargo público, mesmo antes do advento da EC nº 20/98. Sobre o tema, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MAGISTÉRIO. ACUMULAÇÃO TRÍPLICE DE PROVENTOS E VENCIMENTOS. SUPERVENIÊNCIA DA EMENDA CONSTITUCIONAL N. 20/98. INAPLICABILIDADE. 1. A acumulação de proventos e vencimentos somente é permitida quando se tratar de cargos, funções ou empregos acumuláveis na atividade, na forma permitida pela Constituição do Brasil. 2. Inaplicabilidade, no caso, da Emenda Constitucional n. 20/98, vez que inadmissível, na ativa, a acumulação de três cargos de magistério. Precedentes. Agravo regimental a que se nega provimento” (AI nº 567.707/PR-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 23/6/06).
+“CONSTITUCIONAL. SERVIDOR PÚBLICO. ACUMULAÇÃO DE VENCIMENTOS COM PROVENTOS DE DUAS APOSENTADORIAS. IMPOSSIBILIDADE. I. - A acumulação de proventos e vencimentos somente é permitida quando se tratar de cargos, funções ou empregos acumuláveis na atividade, na forma permitida na Constituição. II. - Não é permitida a acumulação de proventos de duas aposentadorias com os vencimentos de cargo público, ainda que proveniente de aprovação em concurso público antes da EC 20/98. III. - Agravo não provido” (AI nº 484.756/PR-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 1/4/05).
+“CONSTITUCIONAL. SERVIDOR PÚBLICO. ACUMULAÇÃO DE VENCIMENTOS COM PROVENTOS DE DUAS APOSENTADORIAS. IMPOSSIBILIDADE. I. A acumulação de proventos e vencimentos somente é permitida quando se tratar de cargos, funções ou empregos acumuláveis na atividade, na forma permitida na Constituição. II. Não é permitida a acumulação de proventos de duas aposentadorias com os vencimentos de cargo público, ainda que proveniente de aprovação em concurso público antes da EC 20/98. III. Agravo não provido” (RE nº 141.376/RJ, Segunda Turma, Relator o Ministro Néri da Silveira, Segunda Turma, DJ de 22/2/02).
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Brasília, 31 de agosto de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
