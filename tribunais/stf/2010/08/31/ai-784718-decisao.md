@@ -1,0 +1,16 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“AÇÃO INDENIZATÓRIA. CONTRATO DE FACÇÃO ENTRE PESSOAS JURÍDICAS. FORO DE ELEIÇÃO. VALIDADE.
+Demanda discutindo relação de direito material havida entre pessoas jurídicas. Pedido indenizatório a partir de contrato o qual não se apresenta como de adesão. Ausência de circunstância a indicar hipossuficiência a determinar a desconsideração da cláusula de eleição de foro, reafirmada pelo que dispõe o art. 100, IV, 'a', do CPC.
+Recurso provido. Unânime.” (fl. 619).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, caput, XXXV, LV, 93, IX, da mesma Carta.
+O agravo não merece acolhida. É que o tribunal de origem decidiu a causa nos seguintes termos:
+“De se ver, ainda, que a despeito de a autora-agravada comprovar um número significativo de dispensa de funcionário e de haver formalizado refinanciamento de débito junto a instituição financeira, tais circunstâncias, por si só, não cristalizam hipossuficiência a determinar a desconsideração da cláusula de eleição de foro, porquanto não se pode perder de vista que a empresa demandante já estava constituída desde quatro (04) anos antes da assinatura do contrato com a demandada, pelo que não se pode supor sua bancarrota financeira pelo tão-só rompimento do contrato objeto da demanda.
+Nesse passo, estou por reafirmar a cláusula de eleição, a qual, inclusive, se alinha ao que dispõe o art. 100, inc. IV, letra 'a', do Código de Processo Civil (...).”
+Ou seja, para dissentir do acórdão recorrido seria necessário o exame do contrato firmado entre as partes, o que é inviável, nos termos da Súmula 454 desta Corte.
+Além disso, o acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 562.212/RS, de minha relatoria; AI 592.110/RJ, Rel. Min. Cezar Peluso; AI 645.007/RS, Rel. Min. Cármen Lúcia; AI 524.388/RS, Rel. Min. Marco Aurélio.
+Por fim, ressalto que a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 31 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
