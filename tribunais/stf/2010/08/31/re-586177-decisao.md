@@ -1,0 +1,10 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão no qual se discute que renda deve ser usada como parâmetro para a concessão do benefício de auxílio-reclusão, se do recluso ou de seus dependentes (fls. 111-113).
+ No RE, a parte agravante alega ofensa aos artigos 194 e 201, IV, da Constituição Federal, sustentando, em síntese, que a renda que deve ser considerada é a dos dependentes do recluso (fls. 122-130).
+2.  O recurso não merece prosperar. O Plenário desta Corte reconheceu a existência de repercussão geral da matéria no RE 587.365-RG/SC, rel. Min. Ricardo Lewandowski, DJe 27.6.2008, e, ao julgar o mérito do recurso, reafirmou o entendimento no sentido de que a renda do segurado preso é que deve ser utilizada como parâmetro para a concessão do benefício, conforme se depreende da ementa da decisão proferida em sessão de julgamento de 25.3.2009:
+“ EMENTA: PREVIDENCIÁRIO. CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. AUXÍLIO-RECLUSÃO. ART. 201, IV, DA CONSTITUIÇÃO DA REPÚBLICA. LIMITAÇÃO DO UNIVERSO DOS CONTEMPLADOS PELO AUXÍLIO-RECLUSÃO. BENEFÍCIO RESTRITO AOS SEGURADOS PRESOS DE BAIXA RENDA. RESTRIÇÃO INTRODUZIDA PELA EC 20/1998. SELETIVIDADE FUNDADA NA RENDA DO SEGURADO PRESO. RECURSO EXTRAORDINÁRIO PROVIDO. I - Segundo decorre do art. 201, IV, da Constituição, a renda do segurado preso é que a deve ser utilizada como parâmetro para a concessão do benefício e não a de seus dependentes. II - Tal compreensão se extrai da redação dada ao referido dispositivo pela EC 20/1998, que restringiu o universo daqueles alcançados pelo auxílio-reclusão, a qual adotou o critério da seletividade para apurar a efetiva necessidade dos beneficiários. III - Diante disso, o art. 116 do Decreto 3.048/1999 não padece do vício da inconstitucionalidade. IV - Recurso extraordinário conhecido e provido.”.
+ O acórdão recorrido não divergiu dessa orientação.
+3.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 31 de agosto de 2010.
+Ministra Ellen Gracie
+Relatora
