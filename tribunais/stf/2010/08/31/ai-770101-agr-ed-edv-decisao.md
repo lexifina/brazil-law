@@ -1,0 +1,14 @@
+Trata-se de embargos de divergência opostos ao acórdão do Plenário (fls. 315-319), que manteve decisão que negou seguimento ao agravo de instrumento, ao entendimento de que o instrumento não foi devidamente formado, conforme preceitua o art. 544, § 1º, do Código de Processo Civil.
+O embargante alegou, em suma, que há divergência entre o acórdão impugnado e as decisões proferidas no julgamento do AI 662.476-AgR/RJ, Segunda Turma, e do AI 621.929-AgR-ED/PR , Plenário.
+A pretensão recursal não merece acolhida.
+Os embargos de divergência, nos termos do art. 330 do RISTF, somente são cabíveis contra decisão “de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário, na interpretação do direito federal”.
+No caso em exame, o presente recurso é manifestamente incabível, visto que impugna acórdão emanado do Pleno desta Corte. Nesse sentido, menciono o RE 269.169-EDv-AgR-ED/PE, Rel. Min. Cezar Peluso, cuja ementa segue transcrita:
+“EMENTA: 1. RECURSO. Embargos de divergência. Inadmissibilidade. Interposição contra acórdão do Tribunal Pleno. Agravo regimental não provido. São cabíveis embargos de divergência contra decisão de Turma, não, porém, contra acórdão do ‘Tribunal Pleno’, que obviamente é sinônimo de ‘Plenário’
+2. RECURSO. Embargos de declaração. Inadmissibilidade de embargos de divergência contra acórdão do Plenário. Matéria insuscetível de dúvida razoável. Embargante já advertido em acórdão anterior. Caráter meramente abusivo. Litigância de má-fé caracterizada. Imposição de multa. Aplicação do art. 538, § único (sic), cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de embargos declaratórios manifestamente ineptos, deve o Tribunal condenar o embargante a pagar multa ao embargado”.
+Além disso, destaco que também são incabíveis os embargos de divergência contra acórdão proferido em julgamento de agravo regimental em agravo de instrumento, que teve o seguimento negado por ausência de requisitos processuais, sem avançar no mérito da questão. Nesse sentido, transcrevo a ementa do AI 506.019-AgR-ED-EDv-AgR/MG, Rel. Min. Eros Grau:
+“AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. NÃO-CABIMENTO. 1. Cabem embargos de divergência quando o acórdão atacado analisa o mérito do recurso extraordinário. 2. Incabíveis os embargos de divergência contra acórdão proferido em julgamento de agravo regimental em agravo de instrumento, que teve o seguimento negado por ausência de requisitos processuais, sem avançar no mérito da questão. Agravo regimental a que se nega provimento”.
+Isso posto, não admito os embargos de divergência (CPC, art. 557, caput, e RISTF, arts. 21, § 1º, e 335).
+Publique-se.
+Brasília, 31 de agosto de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
