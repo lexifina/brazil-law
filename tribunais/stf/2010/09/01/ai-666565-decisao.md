@@ -1,0 +1,17 @@
+DECISÃO
+IMPOSTO PREDIAL E TERRITORIAL URBANO - PROGRESSIVIDADE - LEI FEDERAL - ALCANCE - ARTIGOS 145, § 1º, 150, INCISO IV, 156, § 1º, E 182, § 2º E § 4º, DA CONSTITUIÇÃO FEDERAL - AGRAVO DESPROVIDO.
+1. A decisão recorrida está em consonância com o Enunciado nº 668 da Súmula de Jurisprudência dominante desta Corte:
+É inconstitucional a lei municipal que tenha estabelecido, antes da Emenda Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana.
+Quanto à alegação de as leis originariamente inconstitucionais terem sido convalidadas pela Emenda nº 29, tal conclusão contraria a jurisprudência pacificada do Plenário. A tese da constitucionalidade superveniente conflita com a ordem natural das coisas. Eis o que consignei quando da apreciação do Recurso Extraordinário nº 357.950-9/RS:
+[...]
+Descabe, também, partir para o que seria a repristinação, a constitucionalização de diploma que, ao nascer, mostrou-se em conflito com a Constituição Federal. Admita-se a inconstitucionalidade progressiva. No entanto, a constitucionalidade posterior contraria a ordem natural das coisas. A hierarquia das fontes legais, a rigidez da Carta, a revelá-la documento supremo, conduz à necessidade de as leis hierarquicamente inferiores observarem-na, sob pena de transmudá-la, com nefasta inversão de valores. Ou bem a lei surge no cenário jurídico em harmonia com a Constituição Federal, ou com ela conflita, e aí afigura-se írrita, não sendo possível o aproveitamento, considerado texto constitucional posterior e que, portanto, à época não existia. Está consagrado que o vício da constitucionalidade há de ser assinalado em face dos parâmetros maiores, dos parâmetros da Lei Fundamental existentes no momento em que aperfeiçoado o ato normativo. A constitucionalidade de certo diploma legal deve se fazer presente de acordo com a ordem jurídica em vigor, da jurisprudência, não cabendo reverter a ordem natural das coisas.
+[...]
+Confiram a ementa do julgado, publicada no Diário da Justiça de 15 de agosto de 2006:
+CONSTITUCIONALIDADE SUPERVENIENTE - ARTIGO 3º, § 1º, DA LEI Nº 9.718, DE 27 DE NOVEMBRO DE 1998 - EMENDA CONSTITUCIONAL Nº 20, DE 15 DE DEZEMBRO DE 1998. O sistema jurídico brasileiro não contempla a figura da constitucionalidade superveniente.
+TRIBUTÁRIO - INSTITUTOS - EXPRESSÕES E VOCÁBULOS - SENTIDO. A norma pedagógica do artigo 110 do Código Tributário Nacional ressalta a impossibilidade de a lei tributária alterar a definição, o conteúdo e o alcance de consagrados institutos, conceitos e formas de direito privado utilizados expressa ou implicitamente. Sobrepõe-se ao aspecto formal o princípio da realidade, considerados os elementos tributários.
+CONTRIBUIÇÃO SOCIAL - PIS - RECEITA BRUTA - NOÇÃO - INCONSTITUCIONALIDADE DO § 1º DO ARTIGO 3º DA LEI Nº 9.718/98. A jurisprudência do Supremo, ante a redação do artigo 195 da Carta Federal anterior à Emenda Constitucional nº 20/98, consolidou-se no sentido de tomar as expressões receita bruta e faturamento como sinônimas, jungindo-as à venda de mercadorias, de serviços ou de mercadorias e serviços. É inconstitucional o § 1º do artigo 3º da Lei nº 9.718/98, no que ampliou o conceito de receita bruta para envolver a totalidade das receitas auferidas por pessoas jurídicas, independentemente da atividade por elas desenvolvida e da classificação contábil adotada.
+2.  Conheço do agravo e o desprovejo.
+3.  Publiquem.
+Brasília, 1º de setembro de 2010.
+Ministro MARCO AURÉLIO
+Relator
