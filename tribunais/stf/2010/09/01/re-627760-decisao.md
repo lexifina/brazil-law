@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu pela legitimidade do Decreto Estadual 41.446/96 de São Paulo, na parte em que prevê que, para os edifícios exclusivamente comerciais divididos em unidades autônomas, o cálculo da tarifa de água e esgoto levará em conta o consumo de água total do prédio.
+Neste RE, fundado no art. 102, III, c, da Constituição, alegou-se, em suma, a inconstitucionalidade do referido decreto por ofensa aos princípios da isonomia e da retributividade.
+Para tanto, argumenta que, nos prédios residenciais e mistos divididos em unidades autônomas, o consumo de água é considerado de forma individualizada, para a apuração da tarifa de água e esgoto, o que traduz uma exação bem menor em relação ao valor pago nos prédios exclusivamente comerciais, uma vez que essa tarifa é progressivamente calculada de acordo com a água utilizada.
+A pretensão recursal não merece acolhida.
+É que a Corte já fixou entendimento no sentido de que a atual Constituição, em seu art. 175, III, da CF, introduziu considerável mudança no tratamento conferido ao sistema tarifário, o qual passou a ser objeto de uma política tarifária, deixando de equivaler a um simples preço público, cujo montante se limitaria ao valor exato do serviço prestado individualmente.
+Com efeito, reconhece a jurisprudência do Tribunal que o cálculo da tarifa para cada usuário pode levar em conta, além do valor do serviço, o custo para melhoria dos serviços prestados, a equidade na repartição dos custos de acordo com o uso, a capacidade contributiva de quem está sujeito ao seu pagamento e outras circunstâncias que revelem o interesse público na prestação do serviço.
+Nesse sentido, menciono as seguintes decisões: ADC 9/DF, Rel. para o acórdão Min. Ellen Gracie; RE 541.511/RS, de minha relatoria.
+Quanto a discussão envolvendo a definição dos usuários sujeitos a cada um dos sistemas que a legislação local estabeleceu para o cálculo da tarifa em questão, observo que acórdão recorrido dirimiu a questão com base na interpretação da legislação infraconstitucional, federal e local, aplicável à espécie (Lei 6.528/78, Decreto Estadual 21.123/83 e Decreto Estadual 41.446/96).
+Assim, a afronta à Constituição, se ocorrente, seria indireta, além de incidir, no caso, o teor da Súmula 280 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono o RE 603.678-AgR/SP, Rel. Min. Cármen Lúcia, cuja ementa transcrevo a seguir:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TARIFA DE ÁGUA E ESGOTO. CRITÉRIO DE CLASSIFICAÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+No mesmo sentido, destaco, ainda, as seguintes decisões, entre outras: RE 602.594/SP, Rel. Min. Cármen Lúcia; RE 590.190-AgR/SP, Rel. Min. Cezar Peluso; AI 674.203/SP, Rel. Min. Ayres Britto; AI 765.501/SP, de minha relatoria.
+Por fim, visto que a Corte autoriza a adoção de critérios diferenciados para o cálculo da tarifa, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, no que diz respeito a razoabilidade desses critérios, seria necessário o exame do conjunto fático-probatório dos autos, o que inviabiliza o extraordinário com base na Súmula 279 do STF.
+Isso posto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 1º de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
