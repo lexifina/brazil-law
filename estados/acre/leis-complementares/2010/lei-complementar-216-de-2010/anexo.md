@@ -1,0 +1,17 @@
+ANEXO ÚNICO
+
+TABELA DE SUBSÍDIO
+
+CARGO NÍVEL SUBSÍDIO EM R$
+
+Defensor Público do Estado
+
+V 16.000,00
+
+IV 14.000,00
+
+III 12.000,00
+
+II 10.000,00
+
+I 8.000,00
