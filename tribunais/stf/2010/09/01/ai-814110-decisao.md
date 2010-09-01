@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“AGRAVO INOMINADO. EMBARGOS DE DEVEDOR. TRIBUTÁRIO. ICMS. ENERGIA ELÉTRICA E SERVIÇOS DE COMUNICAÇÃO. DIREITO À COMPENSAÇÃO DE CRÉDITO NÃO CONFIGURADO. SUPERMERCADO. ENERGIA ELÉTRICA E SERVIÇO DE COMUNICAÇÃO UTILIZADOS NÃO CONSTITUEM INSUMO, MAS CONSUMO. IMPOSSIBILIDADE DE CREDITAMENTO DE ICMS A SER COMPENSADO COM O IMPOSTO DEVIDO NAS OPERAÇÕES SEGUINTES, PRECEDENTES JURISPRUDENCIAIS DESTA CORTE. AGRAVO INOMINADO A QUE SE NEGA PROVIMENTO” (fl. 107).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 155,II e § 2º, I, da mesma Carta.
+O agravo não merece acolhida. Isso porque o acórdão recorrido está em consonância com a jurisprudência desta Corte, no sentido de que não há ofensa ao princípio da não cumulatividade a situação de inexistência de direito a crédito de ICMS pago em razão de operações de consumo de energia elétrica, de utilização de serviços de comunicação ou de aquisição de bens destinados ao ativo fixo e de materiais de uso e consumo, conforme se pode observar do julgamento do AI 562.701-ED/RS, Rel. Min. Celso de Mello, cuja ementa transcrevo a seguir:
+“AGRAVO DE INSTRUMENTO - EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO - ICMS - CRÉDITO DO VALOR PAGO EM RAZÃO DE OPERAÇÕES DE CONSUMO DE ENERGIA ELÉTRICA, OU DE UTILIZAÇÃO DE SERVIÇOS DE COMUNICAÇÃO OU AQUISIÇÃO DE BENS DESTINADOS AO USO E/OU À INTEGRAÇÃO NO ATIVO FIXO - APROVEITAMENTO - INADMISSIBILIDADE - RECURSO DE AGRAVO IMPROVIDO.
+A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de não reconhecer, ao contribuinte do ICMS, o direito de creditar-se do valor do ICMS, quando pago em razão de operações de consumo de energia elétrica, ou de utilização de serviços de comunicação ou, ainda, de aquisição de bens destinados ao uso e/ou à integração no ativo fixo do seu próprio estabelecimento. Precedentes”.
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 349.543-AgR/SP, Rel. Min. Marco Aurélio; AI 602998-AgR/MG, Rel. Min. Eros Grau; RE 295.887-AgR/SP, Rel. Min. Joaquim Barbosa; AI 491.743-AgR/SP, Rel. Min. Gilmar Mendes; AI 456.013-AgR/RS, Rel. Min. Ellen Gracie; RE 296.025-AgR/PR, Rel. Min. Cezar Peluso; RE 200.168/RJ, Rel. Min. Ilmar Galvão; AI 355.683-AgR/SP, Rel. Min. Sepúlveda Pertence; AI 570.490/RS, Rel. Min. Cármen Lúcia.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 1º de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
