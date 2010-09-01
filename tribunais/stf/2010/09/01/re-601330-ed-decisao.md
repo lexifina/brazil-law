@@ -1,0 +1,8 @@
+DECISÃO: Compulsando os autos, verifico a ocorrência de equívoco na decisão de fls. 237/238, pela qual dei provimento ao recurso extraordinário. Por conseguinte, reconsidero a mencionada decisão, tornando-a sem efeito e julgo prejudicado o recurso de fls. 241-244.
+Com efeito, a Corte de origem, em virtude da admissão do recurso extraordinário (fls. 220-222), determinou a remessa destes autos ao Supremo Tribunal Federal sem que houvesse sido realizado o juízo de admissibilidade do recurso especial, tendo em vista a suspensão determinada pela aplicação do art. 543-C do Código de Processo Civil (fls. 219).
+A disciplina do julgamento dos recursos de natureza extraordinária, quando interpostos simultaneamente, encontra-se no art. 543, § 1º a § 3º, do Cód. Processo Civil. O § 1º do referido artigo exige julgamento prévio do recurso especial.
+Sendo assim, determino a devolução dos presentes autos à origem, para que lá permaneçam até decisão final no recurso especial, observadas as normas relativas ao recurso especial repetitivo (art. 543-C, § 7º e § 8º, do CPC, incluídos pela Lei 11.672/2008).
+Publique-se.
+Brasília, 1º de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
