@@ -1,0 +1,24 @@
+D ECIS Ã O:
+Vistos.
+Estado de Minas Gerais interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Sexta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“TRIBUTÁRIO. COMPENSAÇÃO.CRÉDITOS DE ICMS. OPERAÇÕES REALIZADAS COM BENEFÍCIOS FISCAIS CONCEDIDOS POR OUTROS ESTADOS DA FEDERAÇÃO. RESOLUÇÃO Nº 3.166/01, DA SECRETARIA DE ESTADO DA FAZENDA. RESTRIÇÃO PARA O APROVEITAMENTO. PRINCÍPIO DA NÃO-CUMULATIVIDADE. LIMITES CONSTITUCIONAIS. PAPEL DA LEI COMPLEMENTAR. INCONSTITUCIONALIDADE DECLARADA. SENTENÇA CONFIRMADA. Com origem constitucional, o princípio da não-cumulatividade autoriza o creditamento de todo o montante do ICMS incidente sobre a aquisição de mercadorias provenientes de outros Estados entes da Federação, não podendo haver qualquer limitação ou restrição, afora os casos previstos na própria Carta Magna (art. 155, § 2º, II, 'a'), para tal aproveitamento. Admito que a Resolução Estadual nº 3.166/01 viola tal preceito, impõe-se, incidentalmente, a sus inconstitucionalidade, para se proceder, destarte, a segurança à empresa contribuinte do ICMS. Sentença confirmada, no reexame” (fl. 191).
+Opostos embargos de declaração (fls. 210 a 218), foram acolhidos para fins de prequestionamento.
+Alega o recorrente violação do artigo 97, 150, § 6º, 155, incisos I, II, “a”, e XII, “c” e “g”, da Constituição Federal, uma vez que “os benefícios fiscais listados pela Resolução 3.166/01 foram concedidos unilateralmente por outros Estados membros, que, sendo assim, padecem do vício de inconstitucionalidade” (fl. 251).
+Contra-arrazoado (fl. 321 a 329), o recurso extraordinário (fls. 245 a 265) foi admitido (fl. 338).
+O recurso especial interposto paralelamente ao extraordinário não foi admitido, tendo sido interposto agravo de instrumento dirigido ao Superior Tribunal de Justiça (fls. 126/242; 331/334 e 340).
+Conforme decisão juntada às fls. 344/345, o agravo de instrumento foi conhecido para negar provimento ao recurso especial.
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 11/8/06, conforme expresso na certidão de folha 223, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+No caso, a tese da insurgência, de resto já apreciada no âmbito deste Supremo Tribunal Federal, contraria o entendimento preconizado em remansosa jurisprudência formada acerca desse tema.
+Com efeito, tanto em sede de controle abstrato, como por meio da via extraordinária, esta Suprema Corte já se manifestou no sentido de não ser lícito a apropriação, sob o pálio da não-cumulatividade, de créditos de ICMS constituídos a partir da aquisição de insumos beneficiários de incentivos fiscais no Estado de origem, mormente quando estes forem concedidos em desobediência a disciplina estabelecida na lei complementar mencionada pelo artigo 155, §2º, inciso XII, alínea “g” , da Constituição Federal.
+A propósito, destaco os seguintes julgados:
+“ Constitucional. Tributário. Art. 155, § 2o, I e II, "a" da CF. Princípio da não cumulatividade. Impossibilidade do aproveitamento de crédito de ICMS se a mercadoria é isenta. Recurso extraordinário provido (RE nº 233.944/MG, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 6/4/01).
+“ Ação direta de inconstitucionalidade. 2. Leis nº 13.212/2001 e 13.214/2001, do Estado do Paraná, que concederam benefícios fiscais de ICMS de várias espécies (isenção, redução de base de cálculo, créditos presumidos e dispensa de pagamento), sem a observância de lei complementar federal e sem a existência de convênio entre os Estados e o Distrito Federal. 3. Violação ao art. 155, § 2º, XII, g, da Constituição Federal. Inconstitucionalidade. Precedentes. 4. Ação direta julgada procedente” (ADI nº 2.548/PR, Tribunal Pleno, Relator o Ministro Gilmar Mendes, DJe de 15/6/07).
+Ademais, cumpre consignar que o debate suscitado em torno dos limites da aplicação da apontada Resolução nº 3.116, de 11 de julho de 2001, da Secretaria da Fazenda do Estado de Minas Gerais, revela hipótese de mero conflito de legalidade, cujo exame não enseja recurso extraordinário, por inteligência da Súmula 636/STF.
+Por fim, na mesma linha de raciocínio, vale mencionar as decisões monocráticas: RE nº 593.548/MG, Relatora a Ministra Cármen Lúcia, DJe de 3/12/09; RE nº 423.658/MG, Relator o Ministro Carlos Velloso, DJ de 15/4/05.
+Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento. Sem honorários advocatícios, a teor da Súmula 512, STF. Custas na forma da lei (ex lege).
+Publique-se.
+Brasília, 2 de setembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
