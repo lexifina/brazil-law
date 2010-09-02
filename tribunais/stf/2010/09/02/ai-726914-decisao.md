@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão, o qual entendeu que o descumprimento de ordem judicial emanada de sentença transitada em julgado que determinara o pagamento de pensão por sua integralidade é conduta atentatória à dignidade da Justiça, estando o infrator submetido às sanções contidas no artigo 601 do CPC (fls. 117-121).
+2.  Nas razões do RE, sustenta-se ofensa ao artigo 5º, XXXV, da Constituição Federal (fls. 156-170).
+3.  O recurso não merece prosperar, dado que o acórdão recorrido decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie (artigo 601 do CPC). Assim, eventual ofensa à Constituição Federal seria indireta e reflexa, o que elide o processamento do recurso extraordinário.
+ Nesse sentido, menciono os seguintes julgados: AI 674.281-AgR/RS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 27.03.2009; e AI 605.085-AgR/RS, rel. Min. Marco Aurélio, 1ª Turma, unânime, DJe 19.05.2009.
+4.  Ademais, quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal,   contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Lei Maior, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 02 de setembro de 2010.
+Ministra Ellen Gracie
+Relatora
