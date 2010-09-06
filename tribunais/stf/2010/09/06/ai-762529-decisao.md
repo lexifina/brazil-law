@@ -1,0 +1,23 @@
+Decisão
+Vistos.
+Ana Maria Campos Braga interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 40, § 8º, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Terceira Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“ADMINISTRATIVO E CONSTITUCIONAL - APELAÇÃO - AÇÃO ORDINÁRIA - SERVIDOR APOSENTADO - TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - MODIFICAÇÃO DA CARREIRA POR LEIS POSTERIORES - REPOSICIONAMENTO NO MESMO NÍVEL DOS SERVIDORES DA ATIVA - IMPOSSIBILIDADE - Inexiste direito adquirido do servidor aposentado do Tribunal de Justiça ao reposicionamento no mesmo nível dos ativos na carreira modificada pelas leis 10.593/92, 11.617/94, 12.993/98 e 13.467/00, especialmente porque tais normas não determinaram a promoção automática do servidor da ativa, mas condicionou-a ao preenchimento de certos requisitos” (fl. 385).
+Opostos embargos de declaração (fls. 398/399), foram rejeitados (fls. 406 a 410).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não merece prosperar a irresignação, uma vez que o Tribunal de origem concluiu que “inexiste direito adquirido do servidor aposentado do Poder Judiciário à classificação no mesmo nível atingido pelos ativos, especialmente porque as normas que reorganizaram a carreira não determinaram a promoção automática do servidor da ativa, mas condicionou-a ao preenchimento de certos requisitos” (fl. 390).
+Assim, o acórdão recorrido não diverge da jurisprudência pacífica deste Tribunal no sentido de que não há direito adquirido a regime jurídico, não havendo falar, portanto, em violação do direito adquirido e do princípio da isonomia se a Administração altera o escalonamento hierárquico da carreira a que pertencia o servidor, criando novos níveis para a progressão de servidores da ativa, desde que não implique redução dos proventos do servidor inativo. Nesse sentido, anote-se:
+“I. Magistério do Estado do Paraná: reenquadramento na sistemática da LC 77/96: extensão aos inativos que preencherem os requisitos individuais exigidos.
+II. Servidor público: é da jurisprudência do Supremo Tribunal que não há direito adquirido a regime jurídico, no qual se inclui o nível hierárquico que o servidor ocupa na carreira.
+III. Recurso extraordinário: inviabilidade para o reexame dos fatos da causa, que devem ser considerados “na versão do acórdão recorrido”. Precedentes” (AI nº 598.229/PR-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 16/2/07).
+“Agravo regimental em agravo de instrumento. 2. Desacerto da decisão não demonstrado. 3. Direito adquirido à regime jurídico. Inexistência. Irredutibilidade de vencimentos. Não-ocorrência. Precedentes. 4. Reenquadramento de servidores inativos na última referência no plano de cargos e salários. Impossibilidade. Precedentes. 5. Agravo regimental a que se nega provimento” (AI nº 603.036/PR-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 28/9/07).
+No mesmo sentido as seguintes decisões monocráticas da relatoria do Ministro Cezar Peluso: RE nº 560.504/DF, DJ de 12/9/07, e RE nº 460.765/DF-AgR, DJ de 27/3/06.
+Ademais, cumpre anotar que o acórdão atacado assentou “que a própria Lei 13467/00 expressamente prevê que a alteração por ela procedida nas carreiras do Judiciário não ocasionaria, por si só, qualquer acréscimo na remuneração dos servidores, sejam ativos ou inativos” (fl. 381).
+Por fim, anoto que a interposição de recurso extraordinário com base no art. 102, inc. III, alínea “c”, da Constituição Federal só é cabível quando a decisão recorrida julgar válida lei ou ato de governo local contestado em face da Constituição, o que não ocorreu na espécie.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 6 de setembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
