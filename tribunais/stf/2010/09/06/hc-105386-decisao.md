@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de habeas corpus, com pedido liminar, impetrado por Homero Junger Mafra e outra, em favor de Dilton Luiz Rodrigues.
+Nestes autos, a defesa impugna decisão proferida pela Ministra Laurita Vaz, relatora do HC n. 180.363/ES, que indeferiu o pedido de medida liminar.
+O paciente foi condenado à pena de 18 (dezoito) anos de reclusão, em regime inicial fechado, pela prática do delito de homicídio duplamente qualificado (CP, art. 121, § 2º, II e IV), tendo respondido ao processo em liberdade.
+Contra essa decisão a defesa interpôs apelação perante o Tribunal de Justiça do Estado do Espírito Santo, que lhe negou provimento e, acolhendo pedido da Procuradoria de Justiça, decretou a custódia preventiva do sentenciado para garantir a aplicação da lei penal.
+Inconformada, a defesa impetrou HC perante o STJ. A relatora, Ministra Laurita Vaz, indeferiu a liminar, nos seguintes termos:
+“No caso, verifica-se, em análise inicial, que a decretação da custódia cautelar do Paciente encontra-se concretamente fundamentada, mormente no que diz respeito à preservação da ordem pública, diante da periculosidade do Paciente, além da garantia da aplicação da lei penal, em face da argumentação do decisum de que o acusado tem-se furtado aos chamados da Justiça”.
+No presente writ, a defesa assevera que o paciente foi condenado pelo Tribunal do Júri da Comarca de Vitória/ES, tendo o Juiz reconhecido não haver fundamento para a preventiva e condicionado a prisão ao trânsito em julgado da sentença condenatória.
+Afirma, ademais, não existir qualquer fato novo apto a justificar a decretação da prisão preventiva pela Corte Estadual.
+Por fim, alega: “o presente habeas corpus é interposto contra decisão de 2º grau, proferida em recurso exclusivo da defesa (...) a prisão foi decretada e o paciente está na iminência de ser preso, por força de decreto absolutamente ilegal”.
+Pede a concessão da medida liminar para sustar os efeitos do decreto de prisão preventiva lançado em desfavor do paciente, até o julgamento do mérito da presente impetração.
+No mérito, “pugna pela concessão da ordem para cassar o decreto de prisão preventiva, fazendo-se, com isso, cessar a ilegal coação”.
+Passo a decidir.
+Em princípio, a jurisprudência desta Corte é no sentido da inadmissibilidade da impetração de habeas corpus, nas causas de sua competência originária, contra decisão denegatória de liminar em ação de idêntica natureza articulada perante tribunal superior, antes do julgamento definitivo do writ (cf. HC-QO n. 76.347/MS, Min. Moreira Alves, 1ª Turma, unânime, DJ 8.5.1998; HC n. 79.238/RS, Min. Moreira Alves, 1a Turma, unânime, DJ 6.8.1999; HC n. 79.776/RS, Min. Moreira Alves, 1ª Turma, unânime, DJ 3.3.2000; HC n. 79.775/AP, Min. Maurício Corrêa, 2a Turma, maioria, DJ 17.3.2000; HC n. 79.748/RJ, Min. Celso de Mello, 2a Turma, maioria, DJ 23.6.2000; HC n. 101.275/SP, Min. Ricardo Lewandowski, 1a Turma, maioria, DJe 5.3.2010; e HC n. 103.195, Min. Cezar Peluso, 2ª Turma, unânime, DJe 23.4.2010).
+Esse entendimento está representado na Súmula n. 691/STF; eis o teor: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+É bem verdade que o rigor na aplicação da Súmula n. 691/STF tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC n. 84.014/MG, Min. Marco Aurélio, 1ª Turma, unânime, DJ 25.6.2004; HC n. 85.185/SP, Min. Cezar Peluso, Pleno, por maioria, DJ 1o.9.2006; e HC n. 90.387, da minha relatoria, 2ª Turma, unânime, DJ 28.9.2007).
+Na hipótese dos autos, à primeira vista, não se caracteriza nenhuma dessas situações ensejadoras do afastamento da incidência da Súmula n. 691/STF.
+Dessarte, não se tratando de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal – e salvo melhor juízo na apreciação de eventual impetração de novo pedido de habeas corpus a ser distribuído nos termos da competência constitucional desta Corte (CF, art. 102) –, descabe afastar a aplicação da Súmula n. 691/STF.
+Ante o exposto, nego seguimento ao pedido formulado neste habeas corpus, por ser manifestamente incabível, nos termos da Súmula n. 691/STF.
+Publique-se.
+Brasília, 6 de setembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
