@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de “habeas corpus” impetrado contra decisão emanada do E. Superior Tribunal de Justiça que restou consubstanciada em acórdão assim ementado:
+“PENAL E PROCESSUAL PENAL. ‘HABEAS CORPUS’. ART. 157, § 2º, INCISOS I E II, DO CÓDIGO PENAL. MAJORANTE. EMPREGO DE ARMA. CONFIGURAÇÃO. NÃO APREENSÃO. ART. 167 DO CPP.
+I - O exame de corpo de delito direto, por expressa determinação legal, é indispensável nas infrações que deixam vestígios, podendo apenas supletivamente ser suprido pela prova testemunhal quando tenham estes desaparecido, ‘ex vi’ do art. 167 do Código de Processo Penal.
+II – Esse entendimento deve ser aplicado no que concerne à verificação de ocorrência ou não da majorante do emprego de arma no crime de roubo, caso contrário o cancelamento da Súmula 174 do STJ seria, em boa parte, inócuo.
+III - No caso concreto, há dúvida relevante sobre o motivo da não apreensão da arma de fogo, o que atrai a incidência do disposto no art. 167 do CPP. Dessa forma, existindo nos autos depoimentos testemunhais que comprovam a sua efetiva utilização, não há como afastar a aplicação da majorante.
+‘Writ’ denegado.”
+(HC 103.622/SP, Rel. Min. FELIX FISCHER - grifei)
+A Defensoria Pública do Estado de São Paulo, ao deduzir a presente impetração, sustenta, em síntese, o que se segue:
+“(...) a majorante quanto ao emprego de arma no roubo é completamente descabida. Foi admitido, em sentença e no acórdão, que não houve apreensão da arma. Tampouco se pôde constatar a eficácia da arma de outra maneira, dado que não há qualquer elemento referido na sentença ou no acórdão no sentido de ter havido disparos.
+Não houve apreensão da suposta arma de fogo e, conseqüentemente, não foi elaborado laudo pericial sobre a aludida arma. Ora, desse modo, ainda que se queira conceder total crédito às palavras da vítima, é impossível saber se a arma era eficaz. Não se sabe, sequer, se se tratava de arma real ou de arma de brinquedo ou outro simulacro de arma.
+Como é cediço, a jurisprudência é unânime ao reconhecer que o emprego de simulacro de arma não se equipara à utilização de arma real. Trata-se de analogia gravosa tratar simulação de arma como arma, violando-se o princípio da legalidade estrita que vigora na seara penal. No mais, não se equipara a maior constrição ao bem jurídico provocada por uma arma verdadeira e por uma simulação de arma, de modo que, em nome da justiça e da proporcionalidade, deve-se considerar que a ameaça propiciada por uma arma simulada já é aquela que está contida no ‘caput’ do artigo 157, não havendo que se falar em majoração da pena. Isso é o que se depreende de orientação jurisprudencial unânime, mormente depois do cancelamento da Súmula 174 do STJ.
+No caso em tela, se há dúvida quanto a tratar-se de arma real ou de brinquedo, não resta alternativa senão o reconhecimento da tese mais favorável ao réu, em atendimento ao princípio do ‘favor rei’.” (grifei)
+O exame dos fundamentos que deram suporte à decisão ora impugnada parece descaracterizar, ao menos em juízo de sumária cognição, a plausibilidade jurídica da pretensão deduzida nesta sede processual.
+É que a orientação jurisprudencial desta Suprema Corte, no que concerne à pretendida inaplicabilidade, à espécie, da causa especial de aumento de pena prevista no art. 157, § 2º, I, do Código Penal, firmou-se no sentido de que “a qualificadora de uso de arma de fogo (CP, art. 157, § 2º, I) independe da apreensão da arma, principalmente quando, como ocorreu nos autos, a arma foi levada pelos comparsas que conseguiram fugir” (HC 84.032/SP, Rel. Min. ELLEN GRACIE - grifei).
+Cumpre referir, por relevante, que o E. Plenário desta Suprema Corte reafirmou esse entendimento, ao indeferir idêntico pedido formulado no âmbito do HC 96.099/RS, Rel. Min. RICARDO LEWANDOWSKI.
+Sendo assim, e sem prejuízo do reexame ulterior da matéria em causa, eis que há decisões da Segunda Turma desta Corte em sentido diverso daquele firmado pelo Plenário deste Tribunal (HC  94.827/RS, Rel. Min. EROS GRAU – HC 95.740/SP, Rel. Min. CEZAR PELUSO – HC 102.790/RS, Rel. Min. EROS GRAU, v.g.), indefiro o pedido de medida cautelar.
+2. Ouça-se a douta Procuradoria Geral da República.
+Publique-se.
+Brasília, 08 de setembro de 2010.
+Ministro CELSO DE MELLO
+Relator
