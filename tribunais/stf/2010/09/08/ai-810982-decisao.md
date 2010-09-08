@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. 1) PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO CONSTITUCIONAL SUPOSTAMENTE CONTRARIADO: INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2) DIREITO CIVIL E DO CONSUMIDOR. RESPONSABILIDADE CIVIL. OFENSA CONSTITUCIONAL INDIRETA. NECESSIDADE DE REEXAME DE PROVA: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto julgado da 3ª Turma Recursal Cível dos Juizados Especiais do Rio Grande do Sul, a qual manteve sentença que condenara a Agravante ao pagamento de R$ 1.399,00, acrescidos de correção monetária e juros de mora (fl. 48 v.), à Agravada, a título de indenização por dano material.
+3. No recurso extraordinário, a Agravante afirma que o Tribunal a quo teria contrariado o princípio da segurança jurídica, pois a Agravada, além de não ter legitimidade ativa para o ajuizamento da ação de indenização, não se teria desincumbido do ônus de provar os fatos constitutivos de seu direito.
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas 279 e 282 do Supremo Tribunal Federal (fls. 98-99).
+A Agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso extraordinário.
+Examinada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. O princípio da segurança jurídica não foi objeto de debate e decisão prévios no Tribunal de origem. Também não foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento da matéria constitucional suscitada. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal 'a quo'. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento ” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+7. O Juízo de origem fundamentou-se no exame de prova e na interpretação e aplicação da legislação ordinária (Código de Defesa do Consumidor) e concluiu que a Agravante teria sido omissa quanto ao dever de vigilância em estacionamento a ela pertencente, razão pela qual seria responsável pelo prejuízo decorrente da subtração do aparelho de telefonia celular da Agravada.
+Para se concluir de modo diverso, seriam imprescindíveis o reexame de prova e a análise daquela legislação infraconstitucional, o que não se admite em recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO: DANOS MATERIAIS E MORAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 709.133-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009 – grifos nossos).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Danos materiais e morais. Indenização. Questão infraconstitucional. Matéria fática. Agravo regimental improvido. Súmula 279. Não cabe RE que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, nem tampouco que dependa de reexame de provas” (AI 581.555-ED-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 1º.9.2006 – grifos nossos).
+8. Nada há, pois, a prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 8 de setembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
