@@ -1,0 +1,20 @@
+Trata-se de embargos de divergência opostos a acórdão da Segunda Turma que negou provimento a agravo regimental no recurso extraordinário, nos seguintes termos:
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REAJUSTE DE VENCIMENTOS NO PERCENTUAL DE 11,98%. LEI FEDERAL N. 8.880/94. SUPERAÇÃO DO LIMITE TEMPORAL FIXADO PELA ADI N. 1.797. ADI N. 2.323.
+O Supremo Tribunal Federal fixou orientação no sentido de que aos servidores públicos estaduais, independentemente de lei local, é aplicada a Lei Federal n. 8.880/94.
+A orientação fixada na ADI n. 1.797, que reconheceu devido o percentual de 11,98% apenas para o período de abril de 1994 a dezembro de 1996, foi superada no julgamento da ADI 2.323.
+Agravo regimental a que se nega provimento” (fl. 209).
+O embargante alegou, em suma, que há divergência entre o acórdão impugnado e o entendimento firmado pela Primeira Turma desta Corte no julgamento do AI 481.990-AgR/SP, Rel. Min. Eros Grau, e pelo Plenário no julgamento da ADI 1.797/PE, Rel. Min. Ilmar Galvão.
+Sustentou que
+“(...) é perfeitamente cabível a limitação/compensação dos eventuais valores devidos pela aplicação do percentual a que supostamente faz(em) jus o(a)(s) agravado(a)(s) em obediência à decisão do Supremo Tribunal Federal na ADI 1797, matéria esta com eficácia vinculante e erga omnes, cujo reconhecimento é obrigatório” (fl. 217 – grifos no original).
+A pretensão recursal não merece acolhida.
+É que não cabem embargos de divergência, nos termos do art. 332 do Regimento Interno do Supremo Tribunal Federal, se a jurisprudência do Plenário ou de ambas as Turmas estiver firmada no sentido da decisão embargada. No caso dos autos, é pacífico nesta Corte que o entendimento firmado na ADI 1.797/PE foi superado no julgamento da ADI 2.323-MC/DF, Rel. Min. Ilmar Galvão, no sentido de que o percentual concedido aos servidores públicos (11,98%) não se refere a reajuste ou aumento de vencimentos, o que torna incabível a limitação temporal.
+Por oportuno, destaco a seguinte decisão proferida pelo Plenário:
+“EMENTA: AGRAVO REGIMENTAL EM RECLAMAÇÃO. VENCIMENTOS. SERVIDOR PÚBLICO ESTADUAL. URV. INAPLICABILIDADE DO ENTENDIMENTO SEDIMENTADO NA ADI 1.797/PE. LIMITAÇÃO TEMPORAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - O objeto da ADI 1.797/PE é ato administrativo restrito aos membros e servidores do Tribunal Regional do Trabalho (6a Região), matéria estranha à debatida nestes autos. Ausência de identidade material. Precedente: Rcl 2.916/RN, Rel. Min. Gilmar Mendes. II - O entendimento firmado na ADI 1.797/PE foi superado no julgamento da ADI 2.323-MC/DF, Rel. Min. Ilmar Galvão, pois não se trata de reajuste ou aumento de vencimentos. Incabível, portanto, a limitação temporal. III - Agravo regimental improvido” (Rcl 3.472-AgR/RN, de minha relatoria).
+No mesmo sentido, menciono os seguintes julgados de ambas as Turmas desta Corte: RE 525.319-AgR/RN, Rel. Min. Cármen Lúcia; AI 587.741-AgR/RS, Rel. Min. Gilmar Mendes; RE 517.069-AgR/RN, de minha relatoria; AI 440.171-AgR/SC, Rel. Min. Celso de Mello; RE 416.940-AgR/RN, Rel. Min. Joaquim Barbosa; AI 478.425-AgR/SC, Rel. Min. Ellen Gracie.
+Por fim, quanto aos argumentos do embargante voltados à revisão do acórdão atacado, destaco que os embargos de divergência destinam-se a promover a uniformização da jurisprudência desta Corte. Não se prestam, pois, à mera revisão do acerto ou desacerto do acórdão embargado. Nesse sentido, assentou o Plenário deste Tribunal, no julgamento do RE 115.024-ED-ED-EDv-AgR/SP, Rel. Min. Celso de Mello:
+“a específica função jurídico-processual dos embargos de divergência - que consiste em promover a uniformização da jurisprudência no âmbito do Supremo Tribunal Federal - não autoriza, sob pena de essa modalidade recursal revestir-se de um inadmissível caráter infringente, a revisão de premissas assentadas pelo acórdão embargado na resolução da causa”.
+Isso posto, não admito os embargos de divergência (CPC, art. 557, caput, e RISTF, arts. 21, § 1º, e 335).
+Publique-se.
+Brasília, 8 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
