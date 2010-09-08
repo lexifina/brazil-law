@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INCORPORAÇÃO DE GRATIFICAÇÃO DE RISCO DE VIDA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça do Ceará:
+“Não obstante o entendimento da jurisprudência dominante seja realmente a de que a gratificação por risco de vida é uma retribuição pecuniária recebida pelo trabalho que está sendo realizado em condições anormais, cuja cessação põe termo ao seu pagamento em razão do caráter transitório do qual ela se reveste, não se pode aplicar esse entendimento de forma generalizada, sem analisar, caso a caso, a natureza desse pagamento. Assim como não é a denominação que revela a natureza do contrato, também não é o nome batismal que revela a natureza da parcela remuneratória.
+(...)
+Durante todo esse período de serviço ativo, a impetrante sempre recebeu a gratificação de risco de vida, conforme demonstram os documentos de fl. 32, 15 e 17. E a recebeu em decorrência de disposição legal (art. 1º da Lei n. 9.598/72), 'verbis': ‘É atribuída aos servidores lotados no Manicômio Judiciário Governador Stênio Gomes e no Sanatório Professor Otávio Lobo, ambos integrantes da estrutura do Departamento do Sistema Penitenciário da Secretaria do Interior e Justiça, a gratificação pela execução de trabalho em condições especiais, com risco de vida ou saúde, prevista no item V, da Lei n. 9.226, de 27 de novembro de 1968’.
+Verdade é que todos os servidores que atuam nas unidades referenciadas na Lei n. 9.598/72 fazem jus à percepção daquela gratificação de risco de vida, sem qualquer distinção.
+(...)
+Demais disso, a impetrante adquiriu o direito à aposentadoria em 25/05/1995, conforme declaração de fl. 37, quando ainda vigia a redação original do art. 40 da CF/88, anteriormente à reforma da previdência instituída pela EC n. 41, de 19/12/2003, o qual assegurava o direito à aposentadoria com proventos integrais, aos trinta e cinco anos de serviço, se homem, e aos trinta, se mulher.
+Face ao exposto, concedo a ordem para determinar, preventivamente, às autoridades impetradas, que se abstenham de excluir da remuneração da impetrante as gratificações até hoje recebidas, entre elas, a gratificação de risco de vida, as quais deverão integrar os seus proventos da inatividade” (fls. 12-15 – grifos nossos).
+Os embargos de declaração opostos foram rejeitados (fls. 57-58).
+3. No recurso extraordinário, o Agravante alega que o Tribunal a quo teria contrariado o art. 40, § 4º, da Constituição da República.
+Argumenta que “algumas verbas possuem caráter 'propter laborem', devendo ser concedidas somente aos que estejam em plena atividade e atuando em determinadas circunstâncias, não devendo ser estendidas aos inativos” (fl. 71).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula 279 do Supremo Tribunal Federal (fls. 80-81).
+O Agravante assevera que o recurso extraordinário teria cumprido os requisitos necessários para a sua admissão.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois a matéria é unicamente de direito e independe de reexame de provas.
+Todavia, razão jurídica não assiste ao Agravante.
+6. O Tribunal de origem fundamentou-se na interpretação e na aplicação de dispositivos da Lei n. 9.598/72 e concluiu que a gratificação de risco de vida teria natureza de vantagem geral, razão pela qual deveria ser estendida aos inativos.
+Para se concluir de modo diverso, seria imprescindível a análise daquela norma infraconstitucional, o que é vedado em recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. NATUREZA DAS GRATIFICAÇÕES DE RISCO DE VIDA OU SAÚDE E ESPECIAL DESEMPENHO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL: INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (RE 501.833-AgR, de minha relatoria, Primeira Turma, DJe 16.4.2009).
+“1.Recurso extraordinário: descabimento: controvérsia referente à incorporação aos proventos do servidor público de gratificação de risco de vida, decidida com fundamento na interpretação de direito local (Leis estaduais 2455/54, 6702/72 e 7193/78): incidência da Súmula 280. 2. Recurso extraordinário: inadmissibilidade: falta de prequestionamento do princípio da isonomia (EC 1/69, art. 153, § 1º): incidência das Súmulas 282 e 356” (RE 120.010-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 24.6.2005).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. EXTENSÃO AOS INATIVOS. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. A jurisprudência deste Tribunal é firme quanto à extensão aos inativos, na forma do artigo 40, § 4º [atual § 8º], da Constituição de 1988, da Gratificação de Encargos Especiais, que não remunera serviços especiais, constituindo-se, antes, em aumento de vencimentos, embora com outro nome. Precedentes. 2. A análise da natureza jurídica da parcela discutida --- se vantagem pessoal ou geral --- depende do exame da legislação infraconstitucional que disciplina a espécie. 3. Análise de legislação de direito local. Providência vedada nesta instância. Súmula 280 do STF. Agravo regimental a que se nega provimento” (AI 704.092-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 14.8.2008).
+7. Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 8 de setembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
