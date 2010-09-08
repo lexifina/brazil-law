@@ -1,0 +1,23 @@
+Decisão
+Vistos.
+Estado de Santa Catarina interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Grupo de Câmaras de Direito Público do Tribunal de Justiça daquele Estado, assim ementado:
+“MANDADO DE SEGURANÇA – PROFESSORAS DA REDE ESTADUAL DE ENSINO INATIVAS – ABONOS PREVISTOS NAS LEIS ESTADUAIS 12.667/03 E 13.135/04 – GRATIFICAÇÃO DE REGÊNCIA DE CLASSE INCORPORADA – DIREITO LÍQUIDO E CERTO AO PERCEBIMENTO DA VERBA.
+Tendo as impetrantes incorporado aos seus proventos de aposentadoria a Gratificação de Regência de Classe que percebiam em atividade, fazem jus à percepção dos abonos estabelecidos pelo artigos 2º e 1º das Leis Estaduais nº 12.667/03 e nº 13.135/04, respectivamente, em respeito ao princípio estabelecido no § 8º do art. 40 da Carta Magna, com redação anterior à Emenda Constitucional nº 41/2003” (fl. 79).
+Insurge-se, no apelo extremo, fundado na alínea “a”, do permissivo constitucional, contra alegada contrariedade aos artigos 2°, 5º, inciso XXXVI, 37, caput e inciso XV, 61, § 1º, inciso II, alínea “c”, e 100, § 3º, da Constituição Federal e 87 do ADCT.
+Aduz ser possível a supressão da gratificação de regência de classe dos proventos da aposentadoria, conforme preceituado nas Leis nº 12.667/03 e 13.135/04, uma vez que a referida gratificação tem caráter remuneratório apenas aos servidores em atividade, que preencherem os requisitos dispostos na lei.
+Sem contrarrazões (fl. 113), o recurso extraordinário (fls. 87 a 106) foi admitido (fls. 121/122).
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Rodrigo Janot Monteiro Bastos, pelo não conhecimento do recurso extraordinário.
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 3/8/05, como expresso na certidão de folha 86, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação merece prosperar, em parte.
+No tocante aos efeitos patrimoniais pretéritos à segurança, o Tribunal de origem divergiu da jurisprudência do Supremo Tribunal Federal no sentido de que a concessão da segurança não produz efeitos patrimoniais em relação ao período pretérito à impetração, não afastando, contudo, a pretensão administrativa ou pela via judicial própria. Incide, no caso, a Súmula nº 271 da Corte, in verbis:
+“Concessão de mandado de segurança não produz efeitos patrimoniais em relação a período pretérito, os quais devem ser reclamados administrativamente ou pela via judicial própria”.
+Em relação à incorporação da gratificação aos proventos da aposentadoria, o acórdão atacado solucionou a questão com fundamento na legislação local pertinente ao caso (Leis estaduais nºs 12.667/03 e 13.135/04). Nesse caso, para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem seria necessária a interpretação da legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 280 desta Corte. Sobre o tema:
+“ SERVIDOR PÚBLICO DO ESTADO DO CEARÁ. GRATIFICAÇÃO DE REGÊNCIA DE CLASSE. LEI ESTADUAL 11.820/91. ÓBICE DA SÚMULA 280-STF. - Ambas as Turmas desta Corte firmaram o entendimento de que é inviável em recurso extraordinário o debate acerca das gratificações de regência de classe. Interpretação de Direito Local. Óbice da Súmula 280 desta Corte. - Agravo regimental a que se nega provimento” (RE nº 459.674/CE-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 22/9/06).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDORES INATIVOS DA FUNDAÇÃO EDUCACIONAL DO DISTRITO FEDERAL. GRATIFICAÇÃO DE REGÊNCIA DE CLASSE. LEIS DISTRITAIS NS. 202/91 E 696/94. INCIDÊNCIA DA SÚMULA 280 DESTA CORTE. Para a apreciação da controvérsia seria necessária a análise das normas de direito local que disciplinam a espécie. Incide, portanto, a Súmula 280-STF. Agravo regimental improvido” (RE nº 353.518/DF-AgR, Primeira Turma, Relator o Ministro Eros Grau, DJ de 7/10/05).
+Ante o exposto, nos termos do artigo 557, caput e § 1º-A, do Código de Processo Civil, conheço parcialmente do recurso extraordinário e, nessa parte, dou-lhe provimento para determinar que os efeitos patrimoniais da concessão do mandado de segurança sejam reconhecidos apenas após a sua impetração. Sem condenação em honorários, nos termos da Súmula nº 512/STF. Custas ex lege.
+Publique-se.
+Brasília, 08 de setembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
