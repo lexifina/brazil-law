@@ -1,0 +1,30 @@
+DECISÃO: Trata-se de Recurso em Mandado de Segurança interposto contra acórdão, que, confirmado, em sede de embargos de declaração (fls. 266/267), pelo E. Superior Tribunal de Justiça, possui a seguinte ementa (fls. 213):
+“ADMINISTRATIVO. DEMARCAÇÃO DE TERRAS INDÍGENAS. PREVISÃO CONSTITUCIONAL (ART. 231). PROCESSO ADMINISTRATIVO EM CONFORMIDADE COM O DECRETO 1.775/96. ALEGADA VIOLAÇÃO A DIREITO DE PROPRIEDADE. ANÁLISE DA EXISTÊNCIA OU NÃO DE OCUPAÇÃO TRADICIONAL DE ÍNDIOS. INVIABILIDADE EM SEDE DE MANDADO DE SEGURANÇA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA.
+ORDEM DENEGADA.”
+(MS 14.447/DF, Rel. Min. TEORI ALBINO ZAVASCKI - grifei)
+Postula-se, nesta sede recursal, a suspensão dos “(...) efeitos da Portaria do recorrido de nº 1845 (DOU 05.06.2009)” e “(...) a nulidade absoluta do processo administrativo de demarcação de terras indígenas (...) por ilegalidade e imoralidade administrativa, vez que tanto o processo quanto a portaria afrontam matéria de ordem pública capitulada no direito de propriedade, devido processo legal, controle do poder jurisdicional e segurança jurídica ao compreenderem a demarcação administrativa da TI Pequizal do Naruvoto as terras cuja posse e o domínio pertencem ao recorrente” (fls. 286).
+A União Federal, em contra-razões (fls. 296/302), impugnou a pretensão recursal ora deduzida pela parte recorrente, enfatizando que “Para que se configure o cabimento do mandado de segurança, a parte impetrante deve comprovar de plano seu alegado direito, apresentando prova documental que inequivocadamente fundamente seu pleito. Nesse tipo de ação a dilação probatória não é possível” (fls. 298) e, ainda, que “(...) o alegado direito de propriedade do autor jamais existiu, diante da comprovada posse permanente dos índios sobre o imóvel registrado em seu nome” (fls. 302).
+Passo a examinar a postulação cautelar deduzida. E, ao fazê-lo, entendo, em juízo de estrita delibação, que as razões consubstanciadoras da decisão denegatória do mandado de segurança, proferida pelo E. Superior Tribunal de Justiça, parecem descaracterizar a plausibilidade jurídica da pretensão do ora recorrente.
+É que a existência de controvérsia sobre matéria de fato revela-se bastante para descaracterizar a liquidez necessária à configuração de situação amparável pela ação de mandado de segurança:
+“
+SITUAÇÃO DE CONTROVÉRSIA OBJETIVA E ILIQUIDEZ DOS FATOS.
+- O exame de situações de fato controvertidas - como aquelas decorrentes de dúvida fundada sobre a extensão territorial do imóvel rural ou sobre o grau de produtividade fundiária - refoge ao âmbito da via sumaríssima do mandado de segurança, que não admite, ante a natureza especial de que se reveste, a possibilidade de qualquer dilação probatória incidental. Precedentes.
+- Direito líquido e certo: conceito de ordem processual. Noção inconfundível com a de direito material vindicado em sede de mandado de segurança. Doutrina. Precedentes.”
+(MS 24.307/DF, Rel. Min. CELSO DE MELLO)
+A simples existência de matéria de fato controvertida - a tornar questionável a própria caracterização do direito líquido e certo (noção que não se confunde com a de direito material, cuja tutela se busca obter em sede mandamental) - revela-se bastante para tornar inviável a utilização do “writ” constitucional (RTJ 83/130 - RTJ 99/68 - RTJ 99/1149 - RTJ 100/90 - RTJ 100/537).
+A jurisprudência do Supremo Tribunal Federal, ao pronunciar-se sobre esse específico aspecto do tema, tem consignado que a discussão em torno do próprio significado de direito líquido e certo - que traduz requisito viabilizador da utilização do “writ” mandamental - veicula matéria de caráter eminentemente processual, mesmo porque a noção de liquidez, “que autoriza o ajuizamento do mandado de segurança, diz respeito aos fatos” (RTJ 134/681, Rel. p/ o acórdão Min. CARLOS VELLOSO – RTJ 171/326-327, Rel. Min. ILMAR GALVÃO - RE 195.192/RS, Rel. Min. MARCO AURÉLIO - RMS 23.443/DF, Rel. Min. CELSO DE MELLO – RMS 23.720/GO, Rel. Min. CELSO DE MELLO, v.g.):
+“O ‘direito líquido e certo’, pressuposto constitucional de admissibilidade do mandado de segurança, é requisito de ordem processual, atinente à existência de prova inequívoca dos fatos em que se basear a pretensão do impetrante e não à procedência desta, matéria de mérito (...).”
+(RTJ 133/1314, Rel. Min. SEPÚLVEDA PERTENCE - grifei)
+Registre-se que esta Corte, em sucessivas decisões, deixou assinalado que o direito líquido e certo, apto a autorizar o ajuizamento da ação de mandado de segurança, é, tão-somente, aquele que concerne a fatos incontroversos, constatáveis de plano, mediante prova literal inequívoca (RE 269.464/DF, Rel. Min. CELSO DE MELLO):
+“(...) direito líquido e certo é o que resulta de fato certo, e fato certo é aquele capaz de ser comprovado, de plano, por documento inequívoco.”
+(RTJ 83/130, Rel. Min. SOARES MUÑOZ)
+“O mandado de segurança labora em torno de fatos certos e como tais se entendem aqueles cuja existência resulta de prova documental inequívoca (...).”
+(RTJ 83/855, Rel. Min. SOARES MUÑOZ)
+É por essa razão que a doutrina acentua a incomportabilidade de qualquer dilação probatória no âmbito desse “writ” constitucional, que supõe - insista-se - a produção liminar, pelo impetrante, das provas literais pré-constituídas, destinadas a evidenciar a incontestabilidade do direito público subjetivo invocado pelo autor da ação mandamental.
+Por isso mesmo, adverte HUMBERTO THEODORO JÚNIOR (“O Mandado de Segurança Segundo a Lei n. 12.016, de 09 de agosto de 2009”, p. 19, item n. 9, 2009, Forense), “O que importa não é a maior ou menor complexidade da tese jurídica, mas a prova pré- -constituída (documental) do seu suporte fático. Se a demonstração do direito do impetrante estiver na dependência de investigação probatória, ainda a ser feita em juízo, o caso não é de mandado de segurança. Terá de ser resolvido pelas vias ordinárias” (grifei).
+Sendo assim, e em juízo de estrita delibação, indefiro o pedido de medida liminar.
+2. Ouça-se a douta Procuradoria Geral da República.
+Publique-se.
+Brasília, 10 de setembro de 2010.
+Ministro CELSO DE MELLO
+Relator
