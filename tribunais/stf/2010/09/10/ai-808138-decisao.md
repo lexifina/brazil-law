@@ -1,0 +1,12 @@
+DECISÃO: Vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Superior do Trabalho. Acórdão assim ementado (fls. 226):
+“RECURSO DE EMBARGOS. VIGÊNCIA DA LEI Nº 11.496/2007. EXECUÇÃO. INSS. CONTRIBUIÇÃO PREVIDENCIÁRIA. IMPOSSIBILIDADE DE TRANSAÇÃO POSTERIOR AO TRÂNSITO EM JULGADO DA SENTENÇA QUANTO AO DIREITO DE TERCEIROS NELA CONSAGRADO. ACORDO HOMOLOGADO EM JUÍZO APÓS O TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. OFENSA À COISA JULGADA. Uma vez transitada em julgado sentença que resultou na condenação ao pagamento de contribuições devidas ao INSS, não pode mais ser desconsiderada para fins previdenciários. O acordo firmado após a prolação de sentença da qual não cabe mais recurso configura res inter alios acta, atingindo tão-somente os acordantes e não os terceiros. Não podem as partes indicar natureza indenizatória ou discriminar, a seu talante, a natureza dessas parcelas para retirar a contribuição previdenciária, já definida anteriormente em decisão revestida pela qualidade de coisa julgada, de modo que deve ser resguardado o crédito da União (artigo 832, § 6º, da CLT), considerado como base de cálculo o valor total do ajuste, respeitada a proporção de parcelas de natureza salarial e indenizatória contidas na decisão transitada em julgado. Precedentes da c. SDI-1. Embargos conhecidos e desprovidos.”
+2. Pois bem, a parte recorrente alega violação ao inciso XXXVI do art. 5º da Carta Magna de 1988.
+3. Tenho que a insurgência não merece acolhida. É que a controvérsia sob exame não transborda os limites do âmbito infraconstitucional. Logo, ofensa à Constituição Federal, se existente, ocorreria de forma reflexa ou indireta.
+4. Leia-se, a propósito, a ementa do RE 574.101-AgR, da relatoria do ministro Cezar Peluso:
+“RECURSO. Extraordinário. Inadmissibilidade. Acordo homologado judicialmente em execução de sentença. Alegação de afronta à garantia constitucional da coisa julgada. Questão infraconstitucional. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte.”
+Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 10 de setembro de 2010.
+Ministro AYRES BRITTO
+Relator
