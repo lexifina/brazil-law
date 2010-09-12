@@ -1,0 +1,53 @@
+ANEXO I
+
+CARGOS COMISSIONADOS VINCULADOS À ESTRUTURA ORGANIZACIONAL
+
+DOS GABINETES DOS DESEMBARGADORES DO TRIBUNAL DE JUSTIÇA DO
+
+Chefe de Gabinete CG/GDTJ 15 R$ 6.000,00
+
+Supervisor Judiciário SJ/GDTJ 15 R$ 5.000,00
+
+Assessor Judiciário ASJ/GDTJ 105 R$ 4.000,00
+
+Secretário SE/GDTJ 15 R$ 3.000,00
+
+ANEXO II
+
+CARGOS DE CHEFE DE GABINETE DA PRESIDÊNCIA DO TRIBUNAL DE
+
+JUSTIÇA, DE ASSESSOR DO JAP E DE CHEFE DE GABINETE DA
+
+CORREGEDORIA-GERAL DA JUSTIÇA
+
+Chefe de Gabinete da Presidência CG/PTJ 1 R$ 6.000,00
+
+Chefe de Gabinete da Corregedoria-Geral da Justiça CG/CGJ 1 R$ 6.000,00
+
+Assessor do JAP AJ/JAP 3 R$ 4.000,00
+
+ANEXO III Redação dada pela Lei nº 7.677, de 12.01.2015.
+
+CARGOS DE ASSESSOR DE JUIZ
+
+Assessor de Juiz (3ª entrância) AJ-3 79 R$ 3.600,00
+
+Assessor de Juiz (2ª entrância) AJ-2 38 R$ 3.240,00
+
+Assessor de Juiz (1ª entrância) AJ-1 40 R$ 2.916,00
+
+ANEXO IV
+
+CARGOS DE SECRETÁRIO DE CÂMARA, DE SECRETÁRIO DE SEÇÃO
+
+ESPECIALIZADA CÍVIL E DE SECRETÁRIO EXECUTIVO DA ESCOLA
+
+SUPERIOR DA MAGISTRATURA DO ESTADO DE ALAGOAS – ESMAL
+
+Secretário de Câmara DSS-1 4 R$ 5.000,00
+
+Secretário de Seção Especializada Cívil DSS-1 1 R$ 5.000,00
+
+Secretário Executivo da ESMAL DSS-1 1 R$ 5.000,00 NOTA:
+
+ANEXO IV desta Lei foi republicado no DOE do dia 30.07.2010.
