@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão de Tribunal Regional Federal, que tem por violados os arts. 2º; 5º; 37, X, XIII; 39, § 4º; 61, § 1º, II, a; 63, I e 169, da Carta Magna.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito dos artigos supracitados, versa questões constitucionais não ventiladas na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta da apelação (fls. 22-24), deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ 15.09.2000), cujo acórdão ficou assim ementado:
+“- Não tem razão a agravante. Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento.
+Agravo a que se nega provimento.”
+Ademais, não merece prosperar a irresignação do recorrente, uma vez que, na solução desta questão, o acórdão recorrido se valeu também de fundamento infraconstitucional suficiente (natureza da relação jurídica- art. 471, I, do Código de Processo Civil) mantido pelo Superior Tribunal de Justiça no julgamento do recurso especial respectivo, em decisão transitada em julgado (fls. 157). Desse modo, é aplicável à espécie a Súmula 283 do Supremo Tribunal Federal.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 13 de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
