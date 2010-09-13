@@ -1,0 +1,18 @@
+DECISÃO : Trata-se de recurso extraordinário interposto de acórdão que assegurou a policial militar aposentado, o direito de receber auxílio-moradia, nos termos das Leis 2.701/72 e 3.211/78.
+O acórdão recorrido está assim ementado (fls. 15):
+“AGRAVO INTERNO NA APELAÇÃO CÍVEL – DECISÃO QUE NEGA SEGUIMENTO À APELAÇÃO – RECURSO EM MANIFESTO CONFRONTO COM A JURISPRUDÊNCIA DOMINANTE NO TRIBUNAL – PAGAMENTO DE AUXÍLIO MORADIA À MILITAR INATIVO – POSSIBILIDADE – INTERPRETAÇÃO DOS ARTIGOS 47 E 50 DA LEI 2.701/72, C/C ART. 3º DA LEI 3.211/78 – ROL DO ART. 91, DA LEI 3.211/78 – MERAMENTE EXEMPLIFICATIVO, ANTE O CONTEÚDO DO PARÁGRAFO ÚNICO DO ART. 91 – OFENSA AO § 4º DO ART. 40 DA CF – NÃO OCORRÊNCIA – PRECEDENTE DO STF – AGRAVO QUE VISA SOMENTE REVISITAR QUESTÕES JÁ DEBATIDAS – RECURSO INADMISSÍVEL – IMPOSIÇÃO DE MULTA - § 2º DO ART. 557 DO CPC – DESPROVIMENTO.
+1) A Lei Estadual nº 2.701/72 instituiu o ‘auxílio-moradia’ em favor dos militares. Posteriormente, a Lei Estadual nº 3.211/78 veio a alterar aquela norma, estendendo o ‘auxílio-moradia’ aos militares da reserva remunerada. Assim, não há que se distinguir militares em exercício dos da reserva remunerada, uma vez que a própria Lei os põe em pé de igualdade, com relação ao benefício do ‘auxílio-moradia’. Entendimento pacificado deste Tribunal.
+2) Segundo precedente do Supremo Tribunal Federal (RE 212.762-1), não há que se falar em afronta ao § 4º, do art. 40 da Constituição Federal.
+3) No caput do art 91 da Lei 2.701/72, alterado pela Lei 3.841/86, que lista as gratificações e indenizações incorporáveis aos vencimentos dos policiais militares da inatividade, não consta o benefício do auxílio-moradia. Porém, numa interpretação sistemática, conclui-se que o citado rol é meramente exemplificativo, porquanto o legislador, no parágrafo único, ampliou o leque de verbas enunciadas no caput, ao fazer expressa menção aos ‘auxílios e outros direitos dos policiais militares na inatividade remunerada’.
+4) Sendo manifestamente inadmissível o agravo interno, que limitou-se apenas a revisitar questões já enfrentadas, em total confronto com a jurisprudência torrencial Tribunal, é de ser aplicada a pena de multa prevista no § 2º, do artigo 557, do CPC, em seu grau máximo, de 10% (dez por cento) sobre o valor corrigido da causa.
+5) Provimento negado.”
+As questões constitucionais debatidas no recurso extraordinário exigiriam a análise prévia de legislação infraconstitucional estadual (Súmula 280).
+Nesse sentido o RE 113.622, rel. min. Sepúlveda Pertence, Primeira Turma, DJ. 06.04.2004:
+“Inativos da Polícia Militar do Estado do Espírito Santo: auxílio moradia: controvérsia decidida com base em legislação estadual (Leis 2.701/72 e 3.211/78) e em prova documental, insuscetíveis de reexame na via extraordinária (Súmulas 280 e 279)”
+E ainda o RE 232.027, rel. min. Moreira Alves, Primeira Turma, DJ. 22.06.2001:
+“Recurso extraordinário. Auxílio-moradia. - Do exame dos autos, verifica-se que o acórdão recorrido, para decidir como decidiu, não se fundou na extensão prevista no § 4º do artigo 40 da Constituição, mas, sim, em texto expresso da Lei estadual n. 3.211/78 que alterou a Lei estadual anterior n. 2.701/72, estabelecendo, em seu artigo 3º, que "as disposições desta Lei se aplicam aos policiais militares na inatividade". Inexiste, pois, no caso, a alegada má aplicação do referido dispositivo constitucional que, como salientado, não serviu de fundamento para o acórdão recorrido, estribado este exclusivamente em texto legal estadual para cujo exame não é cabível o recurso extraordinário. Recurso extraordinário não conhecido.”
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 13 de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
