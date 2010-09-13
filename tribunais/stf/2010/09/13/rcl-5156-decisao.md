@@ -1,0 +1,23 @@
+DECISÃO :   Trata-se de reclamação, com pedido de liminar, ajuizada pelo Município de Piaçabuçu (AL) contra ordens de seqüestro de verbas públicas expedidas pelo Juízo da Vara Única Trabalhista de Penedo nos autos das reclamações trabalhistas 00704-2000-59-19-00-0, 00640-2004-059-19-00-1, 00019-2006-059-19-00-0, 00196-2006-059-19-00-6, 0197-2006-059-19-00-0, 00200-2006-059-19-00-6, 00217-2006-059-19-00-3, 00219-2006-059-19-00-2, 00243-2006-059-19-00-1, 00230-2006-059-19-00-2 e 00327-2006-059-19-00-5 (Fls. 16).
+Sustenta o requerente, em síntese, que as ordens de seqüestro mencionadas violam a autoridade do acórdão prolatado por ocasião do julgamento da ADI 2.868, em que fui designado relator para o acórdão (DJ de 12.11.2004), porquanto determinam o processamento de requisições de pequeno valor para créditos que excedem o limite estabelecido em lei local (oitocentos reais - Lei Municipal 213/2002).
+Do exposto, pede-se a concessão de medida liminar para a “imediata suspensão do ato impugnado de autoria da Juíza da Única Vara Trabalhista de Penedo - Estado de Alagoas (determinação de seqüestro na conta do reclamante por conta da negativa de eficácia à Lei Municipal nº 213/2002), seja nos autos das reclamações trabalhistas nºs 00324-2004-059-19-00-0 e 00221-2006-059-19-00-1, seja nas demais reclamações iguais ou assemelhadas ao do caso concreto aqui delineado, dando-se ciência da decisão à autoridade acima, inclusive, por meio de fax” (Fls. 17).
+Solicitadas as informações, a autoridade reclamada afirma que reconhece a autoridade do acórdão prolatado por ocasião do julgamento da ADI 2.868. Contudo, aponta que o e. Tribunal Regional do Trabalho da 19ª Região firmou orientação no sentido de que a execução deve ser processada diretamente pelo Juízo, se o valor não exceder o limite previsto no art. 87 do Ato das Disposições Constitucionais Transitórias. Diz, então, que:
+“Para se evitar maiores constrangimentos e retornos de ofícios, em total desprestígio à atividade judicante de primeiro grau, este Juízo, ressalvando seu entendimento, resolveu adotar o posicionamento do E. TRT da 19ª Região que, seguindo o parecer da D. Procuradoria Regional do Trabalho, ainda entende por manter o limite fixado no art. 87 do ADCT;”
+A medida liminar pleiteada foi deferida em parte (Fls. 104-106).
+As informações foram prestadas (Fls. 113-140).
+O Ministério Público Federal, em parecer elaborado pelo procurador-geral da República, Dr. Roberto Monteiro Gurgel Santos, opina pela improcedência da reclamação (Fls. 156-158).
+Requisitadas informações que atualizassem o estado dos processos em que proferidas as decisões reclamadas, sobreveio a petição e os documentos de fls. 165-178.
+É o relatório.
+Esta reclamação não reúne condições de prosseguir.
+Por ocasião do julgamento da ADI 2.868, em que figuro como redator para o acórdão, o Supremo Tribunal Federal decidiu terem os entes federados competência para estabelecer os valores que servirão de referência para definir créditos que poderão ser processados sem a expedição de precatório, ou seja, pela ritualística da requisição de pequeno valor (RPV).
+O paradigma indicado tinha por objeto legislação do Estado do Piauí, e seu único fundamento foi o reconhecimento da competência dos entes federados para dispor sobre a matéria.
+A aplicação da força vinculante das decisões proferidas por esta Corte pressupõe que o ponto ou os pontos determinantes presentes no paradigma repitam-se com o mesmo nível de detalhamento no caso que agora é objeto de controle. Ademais, pressupõe-se também a inexistência de qualquer ponto de distinção relevante que recomendasse à Corte dar ao quadro solução diversa ou mesmo superar a orientação até então firmada.
+Assim, a reclamação constitucional é inservível à discussão original e inédita da inconstitucionalidade de normas que nem sequer foram cogitadas no paradigma. Em outras palavras, a reclamação não substitui o controle de constitucionalidade, abstrato ou concreto, originário ou recursal.
+No caso em exame, não é possível esgotar as discussões pertinentes à constitucionalidade ou à aplicabilidade da legislação local, com base no único argumento examinado por ocasião do julgamento da ADI 2.868, sem que fosse necessário instruir esta reclamação como verdadeira argüição de descumprimento de preceito fundamental.
+Ante o exposto, nego seguimento à reclamação.
+Fica cassada a medida liminar outrora concedida.
+Comunique-se o teor desta decisão à autoridade-reclamada, bem como ao Tribunal a que ela é vinculada.
+Publique-se. Arquive-se.
+Brasília, 13 de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
