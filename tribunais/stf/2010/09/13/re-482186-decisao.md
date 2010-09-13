@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário interposto no bojo de mandado de segurança no qual se discute a cobrança de contribuição previdenciária de servidores inativos do município de Cachoeiro de Itapemirim com base na Lei Municipal nº4.501 de 25.03.1998.
+A sentença de primeiro grau considerou inconstitucional a mencionada cobrança com base na jurisprudência do Supremo Tribunal Federal que considera indevida a exigência de contribuição previdenciária de inativos sob a vigência da EC 20/98.
+Essa decisão foi confirmada monocraticamente no Tribunal de Justiça do Estado. Houve a interposição de agravo regimental no qual se alegou a ausência de manifestação da Câmara do Tribunal “a quo” quanto à inconstitucionalidade da norma atacada.
+O acórdão recorrido está assim ementado (fls. 27/28)
+“AGRAVO REGIMENTAL EM APELAÇÃO VOLUNTÁRIA – NULIDADE DO ACÓRDÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO – INEXISTÊNCIA – DECISÃO MONOCRÁTICA – OFENSA AO ART. 480 DO CPC – MATÉRIA CONSTITUCIONAL – JURISPRUDÊNCIA DOMINANTE – POSSIBILIDADE – RECURSO CONHECIDO E IMPROVIDO. I. Não ocorre nulidade da decisão quando a fundamentação, ainda que concisa, indica claramente os motivos do convencimento do julgador. 2. Havendo jurisprudência dominante no sentido adotado pelo julgador, pode esse, ainda que se trata de questão constitucional, utilizar-se do art. 557 do CPC, cumulado com o art. 481, parágrafo único, do mesmo Codex, decidindo monocraticamente a quaestio sob sua apreciação. 3. Agravo regimental a que se nega provimento.”
+O recurso extraordinário alega violação do disposto no art. 97, da Constituição federal sob o argumento de que a decisão dos autos declarou a inconstitucionalidade de Lei sem a manifestação da Câmara do Tribunal “a quo”.
+Contudo, a decisão contra a qual se insurge o recorrente por afronta à reserva de plenário na verdade apenas se utilizou de jurisprudência desta Corte para decidir o mérito da controvérsia – possibilidade da cobrança de contribuição previdenciária de servidores inativos – sem haver declarado a inconstitucionalidade da norma.
+Dessa forma, a alegação de nulidade do acórdão recorrido por inobservância da cláusula de reserva de plenário fica superada. Nesse sentido, pela desnecessidade de devolução dos autos à origem: AI 636.557 (rel. min. Cármen Lúcia, DJe de 03.08.2009) e RE 508.332 (rel. min. Ricardo Lewandowski, DJe de 19.02.2010).
+E quanto ao mérito, o Plenário desta Corte, ao julgar o pedido de medida liminar na ADI 2.010, sob a égide da Emenda Constitucional 20 de 15.12.1998, decidiu pela inexigibilidade de contribuição previdenciária incidente sobre proventos da inatividade e pensões de servidores públicos.
+Posteriormente, a Primeira Turma desta Suprema Corte, no julgamento do RE 367.094-AgR (rel. min. Sepúlveda Pertence, DJ 27.06.2003), considerou legítima a exigência de contribuição previdenciária de inativos e pensionistas, quando a respectiva cobrança se refira a período anterior ao advento da Emenda Constitucional 20/1998:
+“EMENTA: Contribuição previdenciária: incidência sobre proventos da inatividade de servidores públicos estaduais (L. est. 7.672/82, do Rio Grande do Sul): constitucionalidade da cobrança no período que antecede a EC 20/98: precedente (ADInMC 1441, Pleno, 28.6.96, Gallotti, DJ 18.10.96).”
+Nesse sentido, ainda, em casos análogos ao presente, RE 391.218 (rel. min. Gilmar Mendes, DJ 07.10.2003) e RE 405.955 (rel. min. Ellen Gracie, DJ 10.10.2003).
+Dessas orientações não divergiu o acórdão recorrido.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 13 de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
