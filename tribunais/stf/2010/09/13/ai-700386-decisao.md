@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) que indica violação dos arts. 5º, II, XXXV e LV, 7º, XIII, e 93, IX, da Constituição federal. Cito a ementa do acórdão recorrido (fls. 498):
+“RECURSO ORDINÁRIO EM AÇÃO RESCISÓRIA. HORAS EXTRAS. VIOLAÇÃO DO ARTIGO 62, INCISO II, DA CLT. REEXAME DO QUADRO FÁTICO-PROBATÓRIO DELINEADO NO PROCESSO ORIGINÁRIO. INVIABILIDADE. A pretensão autoral, tal como posta na inicial, importaria necessária reanálise do conjunto fático-probatório emanado do processo originário, o que se mostra inviável mediante ação rescisória, conforme entendimento assente na jurisprudência desta alta Corte, consubstanciado na Súmula 410 do TST.
+HORAS EXTRAS. ERRO DE FATO. A ação rescisória, assim como não se presta a apreciar a justiça ou injustiça da decisão, a renovação ou complementação da prova, de igual forma não se presta a examinar a boa ou má interpretação dos fatos e provas apresentados. No presente caso a alegação do autor de que o juiz originário não analisou todas as prova produzidas nos autos que, por si só, comprovariam o exercício de cargo de confiança do réu, não tem o condão de indicar a ocorrência da hipótese de rescindibilidade prevista no inciso IX do artigo 485 do Código de Processo Civil, em face do livre convencimento motivado do juízo julgador. Recurso ordinário em ação rescisória não provido.”
+Sustenta-se no recurso extraordinário o cabimento da ação rescisória.
+É o relatório. Decido.
+As Turmas do Supremo Tribunal Federal fixaram entendimento acerca da matéria atinente às hipóteses de cabimento da ação rescisória:
+“EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AÇÃO RESCISÓRIA. HIPÓTESES DE CABIMENTO. OFENSA INDIRETA. MATÉRIA INFRACONSTITUCIONAL. Acórdão fundado em normas processuais de admissibilidade da ação rescisória. Hipótese em que se houvesse afronta a preceitos da Constituição do Brasil, seria de forma indireta, pois a matéria cinge-se ao âmbito infraconstitucional. Inviabilidade de admissão do recurso extraordinário. Agravo regimental a que se nega provimento.” (AI 439.863-AgR, rel. min. Eros Grau, Primeira Turma, DJ de 26.11.2004.)
+“1. Inviável o processamento do extraordinário para debater questão processual, relativa a pressuposto de cabimento de ação rescisória. 2. Agravo regimental improvido.” (AI 366.571-AgR, rel. min. Ellen Gracie, Segunda Turma, DJ de 28.10.2004.)
+A análise do tema demandaria prévio exame da legislação infraconstitucional. Por essa razão, a ofensa ao texto da Constituição de 1988, se existisse, seria indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido, em casos análogos: AI 590.032 (rel. min. Sepúlveda Pertence, DJ de 09.05.2006) e AI 554.744 (rel. min. Cármen Lúcia, DJe de 30.04.2009).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
