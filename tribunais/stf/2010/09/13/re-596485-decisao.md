@@ -1,0 +1,43 @@
+D ECIS Ã O:
+Vistos.
+Balprensa – Comércio e Indústria de Ferro Ltda. interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+“ TRIBUTÁRIO - CRÉDITO DO IPI - ALÍQUOTA ZERO - CRÉDITO PRESUMIDO - CRÉDITO PRÊMIO - COMPENSAÇÃO QUE SE AFASTA - INAPLICABILIDADE DO ART. 166 DO CÓDIGO TRIBUTÁRIO NACIONAL.
+   I - Compensação do IPI recolhido sobre insumos abrangidos seja pela alíquota zero, seja por crédito presumido, seja por crédito prêmio.
+   II - Em consonância com o art. 166 do CTN, incabível qualquer restituição, eis que na hipótese de tributos que comportam, por sua natureza, a transferência do respectivo encargo financeiro, somente seria possível a restituição em caso da não transferência a terceiro. Isto porque, em tais casos, o encargo do imposto respectivo não teria se transferido ao contribuinte de fato.
+   III - Os contribuintes de direito do IPI repassam integralmente os valores recolhidos ao preço final de seus produtos, o que torna injusto e sem ética permitir à parte autora ver restituídos valores que já recebera de seus consumidores, sob pena de enriquecimento ilícito.
+   IV - O Egrégio Supremo Tribunal Federal já deixou sumulado seu entendimento sobre o assunto, in verbis:
+“Súmula 546. Cabe a restituição do tributo pago indevidamente, quando reconhecido por decisão que o contribuinte de jure não recuperou do contribuinte de facto o quantum respectivo.”
+ V - Aspecto de suma relevância se constata com a natureza do tributo indireto, que faz seja o Imposto sobre Produtos Industrializados repassado ao consumidor final, que em verdade suporta a carga tributária final.
+   VI - E na hipótese da repercussão tributária aplica-se o art. 166 do Código Tributário Nacional, verbis:
+“Art. 166 – A restituição de tributos que comportem, por sua natureza, transferência do respectivo encargo financeiro somente será feita a quem prove haver assumido referido encargo, ou, no caso de tê-lo transferido a terceiro, estar por este expressamente autorizado a recebê-la.”
+   VII - A não-cumulatividade do IPI, assegura a detração de seus componentes, posto tratar-se de incidência sobre produtos agregados – pelo que estabelece no inciso II do § 3º que:
+“§3º O imposto previsto no inciso IV:
+...........................................
+II – será não-cumulativo, compensando-se o que for devido em cada operação com o montante cobrado nas anteriores;”
+   VIII - Assim, em razão do tributo incidente sobre os agregados, admite-se a compensação do que devido for nas operações anteriores, impedindo-se a cobrança ou incidência tributária múltipla. Porém, isto se contém no mecanismo da própria exação, o que afasta o fato gerador repetido.
+   IX - O IPI repassado ao produto final torna injurídica e sem base legal a pretensão, seja de restituição ou de compensação do imposto sobre produtos industrializados com base em crédito presumido, ou com base em crédito prêmio, ou mesmo em face à alíquota zero” (fl. 248/249).
+Contra-arrazoado (fls. 347 a 356), o recurso extraordinário foi admitido (fls. 371/372).
+O recurso especial interposto às fls. 252/300 foi sobrestado pelo Relator Ministro Mauro Campbell, na forma do art. 543, § 2º, CPC, em face da prejudicialidade da matéria discutida neste recurso em relação àquele (fls. 375/380).
+Alega a recorrente que o acórdão recorrido ao não reconhecer o direito ao crédito decorrente de insumos adquiridos com incidência de IPI, mas que o produto final é sujeito à alíquota zero, isento ou não tributado, viola o artigo 153, §3º, inciso II, da Constituição Federal, uma vez que “o IPI é um imposto não-cumulativo, compensando-se o que for devido em cada operação com o montante cobrado nas anteriores, evitando assim, o efeito cascata do tributo” (fl. 332).
+Decido.
+Não merece prosperar a irresignação, uma vez que o acórdão recorrido está em consonância com a jurisprudência desta Corte que não reconhece o direito ao creditamento do IPI nas operações realizadas com insumos ou matéria prima empregados na industrialização de produtos isentos ou gravados com alíquota zero, em período anterior à edição da Lei nº 9.779/99.
+No julgamento do RE nº 562.980/SC, foi reconhecida a existência de repercussão geral da matéria objeto do recurso, que era idêntica ao tema aqui em discussão e, na apreciação do mérito da irresignação em tela, reiterou essa Corte seu entendimento quanto à impossibilidade do pretendido creditamento.
+Sua ementa assim dispôs:
+“ IPI - CREDITAMENTO - ISENÇÃO - OPERAÇÃO ANTERIOR À LEI Nº 9.779/99. A ficção jurídica prevista no artigo 11 da Lei nº 9.779/99 não alcança situação reveladora de isenção do Imposto sobre Produtos Industrializados - IPI que a antecedeu” (RE nº 562.980/SC, Redator para o acórdão o Ministro Marco Aurélio, DJe de 4/9/2009).
+Corroborou-se, então, decisão já anteriormente proferida pelo Pleno da Corte, de igual sentido, nos autos do RE nº 475.551/PR, Redatora para o acórdão a Ministra Cármen Lúcia, assim ementado:
+“IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. INSUMOS OU MATÉRIAS PRIMAS TRIBUTADOS. SAÍDA ISENTA OU SUJEITA À ALÍQUOTA ZERO. ART. 153, § 3º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA. ART. 11 DA LEI N. 9.779/1999. PRINCÍPIO DA NÃO CUMULATIVIDADE. DIREITO AO CREDITAMENTO: INEXISTÊNCIA. RECURSO EXTRAORDINÁRIO PROVIDO.
+1. Direito ao creditamento do montante de Imposto sobre Produtos Industrializados pago na aquisição de insumos ou matérias primas tributados e utilizados na industrialização de produtos cuja saída do estabelecimento industrial é isenta ou sujeita à alíquota zero.
+2. A compensação prevista na Constituição da República, para fins da não cumulatividade, depende do cotejo de valores apurados entre o que foi cobrado na entrada e o que foi devido na saída: o crédito do adquirente se dará em função do montante cobrado do vendedor do insumo e o débito do adquirente existirá quando o produto industrializado é vendido a terceiro, dentro da cadeia produtiva.
+3. Embora a isenção e a alíquota zero tenham naturezas jurídicas diferentes, a consequência é a mesma, em razão da desoneração do tributo.
+4. O regime constitucional do Imposto sobre Produtos Industrializados determina a compensação do que for devido em cada operação com o montante cobrado nas operações anteriores, esta a substância jurídica do princípio da não cumulatividade, não aperfeiçoada quando não houver produto onerado na saída, pois o ciclo não se completa.
+5. Com o advento do art. 11 da Lei n. 9.779/1999 é que o regime jurídico do Imposto sobre Produtos Industrializados se completou, apenas a partir do início de sua vigência se tendo o direito ao crédito tributário decorrente da aquisição de insumos ou matérias primas tributadas e utilizadas na industrialização de produtos isentos ou submetidos à alíquota zero.
+6. Recurso extraordinário provido” (DJe de 13/11/09).
+No mesmo sentido, dentre tantas outras, as seguintes decisões monocráticas: RE nº 543.577/RS, Relatora a Ministra Cármen Lúcia, DJe de 17/3/10, AI nº 605.370/SC-AgR, Relator o Ministro Ricardo Lewandowski, DJe de 4/9/09 e RREE nºs 456.300/RS, DJe de 4/3/10 e 449.273/SC, DJe de 10/3/10, ambos de minha relatoria.
+Ademais, considerando que na decisão de fls. 375 a 380, o Ministro Relator do recurso especial reconheceu a prejudicialidade do presente recurso extraordinário em relação àquele, na forma do art. 543, § 2º, CPC, por medida de economia processual, desnecessário se torna o retorno dos autos àquele tribunal para nova decisão.
+Diante do exposto, com fulcro no art. 557, caput, CPC, nego seguimento ao recurso extraordinário, devendo os autos baixar à origem.
+Sem condenação em honorários, nos termos da Súmula nº 512/STF. Custas ex lege.
+Publique-se.
+Brasília, 13 de setembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
