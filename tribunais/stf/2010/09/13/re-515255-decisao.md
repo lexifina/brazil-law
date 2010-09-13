@@ -1,0 +1,44 @@
+DECISÃO
+Vistos.
+União interpõe recursos extraordinários, com fundamento na alínea “a” do permissivo constitucional. O primeiro recurso foi interposto contra acórdão da Segunda Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS. OPERAÇÕES ISENTAS OU TRIBUTADAS À ALÍQUOTA ZERO. CREDITAMENTO. PRINCÍPIO DA NÃO-CUMULATIVIDADE.
+1. Segundo a ordem constitucional vigente, que, nesse ponto, repete a anterior, o IPI é um imposto de competência da União, seletivo, em função da essencialidade do produto, e não-cumulativo, incidente sobre o valor agregado ao produto industrializado.
+2. Como há creditamento na hipótese da isenção, que pressupõe a exclusão do crédito tributário ('nasce' a obrigação tributária, mas o crédito é excluído pela regra isentiva), mais razoável o creditamento na alíquota zero, em que sequer há a exclusão do crédito tributário, havendo a opção pela alíquota esvaziada.
+3. A tese segundo a qual o creditamento, nos casos de isenção ou incidência tributária pela alíquota zero, implica enriquecimento ilícito, é de todo inaceitável, porquanto, mesmo naquelas hipóteses em que o tributo é pago, quem suporta o ônus econômico dessa tributação não é a mesma pessoa que se beneficia do crédito respectivo, considerando as várias etapas do processo de industrialização.
+4. Para a desoneração o contribuinte pode excluir da base dos produtos fabricado o valor dos insumos adquiridos com alíquota zero, aplicando a alíquota sobre o saldo, ou aplicar sobre os insumos adquiridos com alíquota zero a alíquota dos respectivos produtos fabricados e lança o valor resultante a crédito em sua escrita, sendo que o resultado fiscal será exatamente o mesmo.
+5. Vencido o juiz Élcio Pinheiro Castro quanto ao mérito.
+6. Vencido o juiz Vilson Darós quanto à incidência de correção monetária” (fl. 229).
+Alega a recorrente violação do artigo 153, § 3º, inciso II, da Constituição Federal, ao reconhecer o Tribunal de origem o direito ao crédito por conta de matérias primas empregadas na fabricação de produtos sujeitos à alíquota zero.
+Contra-arrazoado (fls. 288 a 291), o recuso extraordinário (fls. 278 a 283) foi admitido (fl. 300).
+O segundo apelo extremo da União se volta contra o acórdão da Primeira Seção do Superior Tribunal de Justiça, assim ementado:
+“TRIBUTÁRIO. RECURSO ESPECIAL. IPI. INSUMOS E MATÉRIAS-PRIMAS ISENTOS OU TRIBUTADOS À ALÍQUOTA ZERO. DIREITO AO CREDITAMENTO.
+1. O egrégio STF, considerando o princípio constitucional da não-cumulatividade, assegurou ao contribuinte do IPI o direito ao creditamento do imposto na hipótese de aquisição de insumos e matérias-primas isentos ou tributados à alíquota zero.
+2. Havendo oposição constante de ato estatal, administrativo ou normativo, impedindo a utilização dos créditos tributários oriundos da aplicação do princípio da não-cumulatividade, esses créditos não podem ser classificados como escriturais, considerados aqueles oportunamente lançados pelo contribuinte em sua escrita contábil. Isto porque a vedação legal ao seu aproveitamento impele o contribuinte a socorrer-se do Judiciário, circunstância que acarreta demora no reconhecimento do direito pleiteado, dada a tramitação normal dos feitos judiciais.
+3. Ocorrendo a vedação ao aproveitamento desses créditos, com o conseqüente ingresso no Judiciário, posterga-se o reconhecimento do direito pleiteado. Dessarte, nessas hipóteses, exsurge clara a necessidade de atualizar-se monetariamente esses créditos, sob pena de enriquecimento sem causa do Fisco.
+4. In casu, revela-se inequívoca a ocorrência de óbice normativo ao aproveitamento dos créditos, porquanto tanto o art. 100 do RIPI, quanto o art. 4º da Instrução Normativa 33/99-SRF impediram o creditamento pretendido, atentando contra o princípio constitucional da não-cumulatividade e gerando, por conseguinte, o direito do contribuinte à correção monetária dos créditos extemporâneos.
+5. Precedentes da Primeira Seção: RESP 541554/SC, Relator Ministro Franciulli Netto, julgado em 10.08.2005; AgRg nos EREsp 396330/SC, Relator Ministro João Otávio de Noronha, DJ de 01.07.2005; e EREsp 468926/SC, Relator Ministro Teori Albino Zavascki, DJ de 02.05.2005).
+6. Embargos de divergência providos” (fl. 367).
+Houve embargos de declaração (fls. 374 a 384), rejeitados (fls. 386 a 394).
+Alega a União violação dos artigos 2º, 5º, inciso II, e 153, § 3º, inciso II, da Constituição Federal. Sustenta, em suma, que “tratando-se de créditos escriturais, inviável a correção monetária” (fl. 406).
+Sem contrarrazões (fl. 414), o segundo recurso extraordinário (fls. 401 a 411) também foi admitido (fls. 415).
+Decido.
+Anote-se, inicialmente, que os acórdãos dos embargos de declaração do TRF da 4ª Região e do STJ foram publicados, respetivamente, em 20/6/01 e 22/5/06, conforme expresso nas certidões de folhas 238 e 395, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Merece prosperar a irresignação, uma vez que os acórdãos recorridos divergiram da jurisprudência desta Corte que não reconhece o direito ao creditamento do IPI nas operações realizadas com insumos ou matéria prima empregados na industrialização de produtos isentos ou gravados com alíquota zero, em período anterior à edição da Lei nº 9.779/99.
+No julgamento do RE nº 562.980/SC, foi reconhecida a existência de repercussão geral da matéria objeto do recurso, que era idêntica ao tema aqui em discussão e, na apreciação do mérito da irresignação em tela, reiterou essa Corte seu entendimento quanto à impossibilidade do pretendido creditamento.
+Sua ementa assim dispôs:
+“ IPI - CREDITAMENTO - ISENÇÃO - OPERAÇÃO ANTERIOR À LEI Nº 9.779/99. A ficção jurídica prevista no artigo 11 da Lei nº 9.779/99 não alcança situação reveladora de isenção do Imposto sobre Produtos Industrializados - IPI que a antecedeu” (RE nº 562.980/SC, Redator para o acórdão o Ministro Marco Aurélio, DJe de 4/9/09).
+Corroborou-se, então, decisão já anteriormente proferida pelo Pleno da Corte, de igual sentido, nos autos do RE nº 475.551/PR, Relatora para o acórdão a Ministra Cármen Lúcia, assim ementado:
+“IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. INSUMOS OU MATÉRIAS PRIMAS TRIBUTADOS. SAÍDA ISENTA OU SUJEITA À ALÍQUOTA ZERO. ART. 153, § 3º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA. ART. 11 DA LEI N. 9.779/1999. PRINCÍPIO DA NÃO CUMULATIVIDADE. DIREITO AO CREDITAMENTO: INEXISTÊNCIA. RECURSO EXTRAORDINÁRIO PROVIDO.
+1. Direito ao creditamento do montante de Imposto sobre Produtos Industrializados pago na aquisição de insumos ou matérias primas tributados e utilizados na industrialização de produtos cuja saída do estabelecimento industrial é isenta ou sujeita à alíquota zero.
+2. A compensação prevista na Constituição da República, para fins da não cumulatividade, depende do cotejo de valores apurados entre o que foi cobrado na entrada e o que foi devido na saída: o crédito do adquirente se dará em função do montante cobrado do vendedor do insumo e o débito do adquirente existirá quando o produto industrializado é vendido a terceiro, dentro da cadeia produtiva.
+3. Embora a isenção e a alíquota zero tenham naturezas jurídicas diferentes, a consequência é a mesma, em razão da desoneração do tributo.
+4. O regime constitucional do Imposto sobre Produtos Industrializados determina a compensação do que for devido em cada operação com o montante cobrado nas operações anteriores, esta a substância jurídica do princípio da não cumulatividade, não aperfeiçoada quando não houver produto onerado na saída, pois o ciclo não se completa.
+5. Com o advento do art. 11 da Lei n. 9.779/1999 é que o regime jurídico do Imposto sobre Produtos Industrializados se completou, apenas a partir do início de sua vigência se tendo o direito ao crédito tributário decorrente da aquisição de insumos ou matérias primas tributadas e utilizadas na industrialização de produtos isentos ou submetidos à alíquota zero.
+6. Recurso extraordinário provido” (DJe de 13/11/09).
+No mesmo sentido, dentre tantas outras, as seguintes decisões monocráticas: RE nº 543.577/RS, Relatora a Ministra Cármen Lúcia, DJe de 17/3/10, AI nº 605.370/SC-AgR, Relator o Ministro Ricardo Lewandowski, DJe de 4/9/09 e RREE nºs 456.300/RS, DJe de 4/3/10 e 449.273/SC, DJe de 10/3/10, ambos de minha relatoria.
+Ante o exposto, nos termos do artigo 557, caput e § 1º-A, do Código de Processo Civil, conheço dos recursos extraordinários e lhes dou provimento para, reformando o acórdão recorrido, denegar a segurança Sem condenação em honorários, nos termos da Súmula 512, STF. Custas ex lege.
+Publique-se.
+Brasília, 13 de setembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
