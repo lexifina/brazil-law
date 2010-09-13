@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de recurso extraordinário interposto de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco em ação movida por servidores públicos inativos e pensionistas na qual se pleiteava a Gratificação de Atividade Fazendária – GRAF.
+O acórdão recorrido está assim ementado (fls.312):
+“Administrativo e Processual Civil. Apelantes recorrem irresignados em face de decisão do Juízo monocrático que em sede de ação ordinária julgou improcedente pedido de percepção da Gratificação de Atividade Fazendária.
+Alegação do apelado de que em sendo a gratificação referida de natureza operacional, não seria aplicável aos apelantes, porque inativos uns e pensionistas outros.
+Constatação nos autos de que os apelantes, ex-Tesoureiros, em processo pretérito, foram equiparados aos Auditores do Tesouro Estadual e por conseguinte equiparados também à natureza operacional dos mesmos, tanto que passaram a integrar o GOATE – Grupo Operacional do Tesouro estadual, passando inclusive a perceber outras gratificações inerentes à função, anteriores à criação da GRAF através da LC nº 37/2001.
+Aplicabilidade da gratificação de atividade fazendária aos inativos e/ou pensionistas por disposição da própria Lei Complementar referida, que inclusive dispõe sobre o critério de cálculo nessas hipóteses, por ser a GRAF operacional e variável mês a mês.
+Apelação a que se dá provimento, para reconhecer os apelantes o direito à percepção da GRAF calculada nos termos ditados pela Lei complementar nº 37/2001, determinada a imediata implantação, conforme inteligência da Súmula 729 do STF nos respectivos contra-cheques, e bem assim o recebimento das gratificações atrasadas até o limite da prescrição qüinqüenal, acrescidas de correção monetária e juros legais a partir do aforamento da ação, condenada a parte vencida nas custas e honorários de sucumbência em 10% sobre o valor das parcelas vencidas. Decisão sem discrepância de votos”.
+Em seu recurso extraordinário a FUNAPE alega contrariedade aos arts. 37, caput, II e X; 39, § 1º, I, II e III; 61, § 1º, II ‘a’ e 169, da Constituição federal. Afirma que o acórdão recorrido, em equivocada aplicação do art. 40, § 8º da Constituição Federal, assegurou aos demandantes a percepção da Parcela Variável de Remuneração – PVR. Alega que essa parcela não era indistintamente extensível a todos os auditores fiscais, mas apenas aos que exerciam cargo no GOATE (grupo operacional do tesouro estadual) e segundo os critérios estabelecidos na Lei 11.333/96.
+As questões constitucionais debatidas no recurso extraordinário não foram ventiladas no acórdão recorrido nem foram objeto de embargos de declaração. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Ademais, a fundamentação do recurso extraordinário em nenhum momento faz menção à Gratificação de Atividade Fazendária – GRAF, criada por meio da LC 37/2001, objeto do pleito dos autores, o que impede a exata compreensão da controvérsia, impondo-se a aplicação da Súmula 284 do Supremo Tribunal Federal.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 13 de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
