@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INTIMAÇÃO DO ACÓRDÃO RECORRIDO POSTERIOR A 3.5.2007. AUSÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL NA PETIÇÃO DE RECURSO EXTRAORDINÁRIO. NÃO ATENDIMENTO AO DISPOSTO NO § 2º DO ART. 543-A DO CÓDIGO DE PROCESSO CIVIL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+2. O Tribunal Regional Federal da 4ª Região julgou apelação em embargos à execução, nos termos seguintes:
+“EMBARGOS À ARREMATAÇÃO. CONTRATOS BANCÁRIOS. NULIDADE DA SENTENÇA. INCOMPETÊNCIA DO JUÍZO. CESSÃO DE CRÉDITOS À CEF. NULIDADE DA ARREMATAÇÃO. FORMALIDADES DO EDITAL. ILEGITIMIDADE DO MANDATÁRIO PARA ARREMATAR. AUTONOMIA DA VERBA HONORÁRIA.
+O argumento de nulidade da sentença resta afastado, pois a cessão dos créditos só foi trazida aos autos após a sentença ter sido proferida, constando expressamente a manutenção, até então, da responsabilidade do cedente pela execução que corria (bem como da condição do Sr. Emilson de patrono habilitado à época). O Juízo Federal de 1º grau, que remeteu o apelo a este Tribunal, firmou sua competência e elidiu qualquer nulidade, aderindo, ainda que tacitamente, às razões da sentença objurgada.
+Acertada a relativização das formalidades do art. 686, do CPC, face ao contido nos arts. 154, 244 e 249, § 1º, do referido Código de Processo. De mais a mais, ficou evidenciado não ter havido qualquer prejuízo concreto ao devedor, mas, bem ao contrário, tendo arrematação, ainda que de parte diminuta da dívida, aproximado o feito do bom termo da tarefa jurisdicional, que tem sido dificultado pelas manobras do devedor nesta década e meia de execução, inclusive já tendo sido advertido em virtude de seu comportamento atentatório à dignidade da Justiça.
+O art. 690, § 1º, II, do CPC afasta do mandatário do devedor, a possibilidade de dar lances, e não do mandatário do credor (pois este não tem a administração dos bens, tampouco está encarregado de sua alienação).
+Tendo o advogado direito autônomo aos honorários fixados em sentença transitada em julgado, nada impede que arremate os bens levados a hasta, em valor inferior a seu crédito, mormente tendo informado previamente o credor principal de sua intenção, e não tendo havido qualquer oposição, bem assim, levando em conta tratar o leilão de reses, o que ensejaria ao Banco dificuldades práticas em manejar os semoventes eventualmente arrematados” (fl. 414).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que não teria sido “indicado o permissivo constitucional autorizador do recurso” (fl. 156 v.)
+4. A Agravante argumenta que:
+“Não há que se exigir que o recurso aponte o permissivo constitucional autorizador do referido recurso, uma vez que, ao demonstrar o dispositivo contrariado da Constituição Federal, qual seja, o artigo 109, inciso I, resta configurada uma das hipóteses do artigo acima mencionado” (fl. 5).
+No recurso extraordinário, alega que o Tribunal a quo teria contrariado o art. 109, inc. I, da Constituição da República.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+Inicialmente, cumpre afastar o fundamento da decisão agravada. Da leitura das razões do recurso extraordinário, é possível identificar que a sua interposição dá-se com base na alínea a do inciso III do art. 102 da Constituição.
+Nesse sentido:
+“ RECURSO. Agravo. Regimental. Recurso extraordinário interposto sem a indicação da alínea ‘a’, do inc. III, do art. 102, da Constituição Federal. Art. 321 do RISTF. Admissibilidade. Há a mitigação do rigor formal exigido pelo art. 321 do RISTF quando das razões recursais é possível aferir violação ao texto constitucional” (RE 247.224-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJ 27.4.2007 – grifei).
+Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão da Agravante.
+6. A intimação do acórdão recorrido ocorreu no dia 8.5.2007 (fl. 133 v.), e, nos termos do que decidido pelo Supremo Tribunal Federal no Agravo de Instrumento 664.567-QO, Relator o Ministro Sepúlveda Pertence, Tribunal Pleno, “a exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007”.
+7. Verifica-se, no entanto, que não há, na petição de recurso extraordinário (fls. 142-145), preliminar formal destacada de repercussão geral da questão constitucional suscitada.
+Logo, a Agravante deixou de atender ao disposto no § 2º do art. 543-A do Código de Processo Civil, o que não viabiliza o seu recurso extraordinário.
+Nesse sentido:
+“1. Embargos de declaração recebidos como agravo regimental. 2. Inobservância ao que disposto no artigo 543-A, § 2º, do Código de Processo Civil, que exige a apresentação de preliminar formal e fundamentada sobre a repercussão geral, significando a demonstração da existência de questões constitucionais relevantes sob o ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos das partes, em tópico destacado na petição de recurso extraordinário. 3. É imprescindível a observância desse requisito formal mesmo nas hipóteses de presunção de existência da repercussão geral prevista no art. 323, § 1º, do RISTF. Precedente. 4. A ausência dessa preliminar permite que a Presidência do Supremo Tribunal Federal negue, liminarmente, o processamento do recurso extraordinário, bem como do agravo de instrumento interposto contra a decisão que o inadmitiu na origem (13, V, 'c', e 327, 'caput' e § 1º, do Regimento Interno do Supremo Tribunal Federal). 5. Agravo regimental desprovido” (AI 692.400-ED, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe 30.5.2008 – grifei).
+Nada há a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 13 de setembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
