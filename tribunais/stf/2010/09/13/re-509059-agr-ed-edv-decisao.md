@@ -1,0 +1,17 @@
+Trata-se de embargos de divergência opostos ao acórdão da Segunda Turma que negou provimento ao agravo regimental no recurso extraordinário, sob o entendimento de que a Lei federal 8.880/1994, editada pela União com fundamento em sua competência privativa para legislar sobre sistema monetário, tem caráter nacional e se aplica aos servidores públicos estaduais. O acórdão impugnado ainda considerou que o tema em exame situa-se em contencioso infraconstitucional, apto a ensejar ofensa apenas reflexa à Constituição.
+Em breve síntese, alegou o embargante que há divergência entre o acórdão recorrido e o entendimento firmado pela Primeira Turma (AI 481.990-AgR/SP, Rel. Min. Eros Grau) e pelo Plenário (AO 614/BA, Rel. Min. Ellen Gracie), no que se refere à fixação de um limite temporal para o pagamento do reajuste salarial de 11,98%, em razão da aplicação da Lei 8.880/1994.
+Sustentou que
+“(...) para a Segunda Turma não cabe a referida limitação temporal e a compensação das supostas perdas face aos reajustes posteriores, e para o Pleno e a Primeira Turma tal limitação é cabível” (fl. 276).
+A pretensão recursal não merece acolhida.
+Verifica-se que os acórdãos apontados como dissidentes não são idôneos à demonstração do dissídio jurisprudencial que dá ensejo aos embargos de divergência, uma vez que o tema considerado controverso pelo embargante – limitação temporal para pagamento do reajuste - não foi discutido no acórdão atacado.
+Com efeito, nos paradigmas apontados decidiu-se que o direito à percepção do reajuste de vencimentos no percentual de 11,98%, decorrente da conversão da remuneração em URV, está sujeito à limitação temporal, conforme entendimento firmado pelo STF no julgamento da ADI 1.797/PE.
+Por sua vez, no acórdão embargado não houve qualquer juízo acerca da referida limitação temporal, porquanto apenas se julgou aplicável a Lei 8.880/94, dado o seu caráter nacional, aos servidores estaduais. Além disso, entendeu-se que a controvérsia dos autos está restrita ao âmbito infraconstitucional.
+Assim, tendo em vista que os julgados confrontados não tratam do mesmo thema decidendum, são incabíveis os embargos de divergência. Nesse sentido, cito o AI 378.629-AgR-ED-EDv/SP, Rel. Min. Cezar Peluso, cuja ementa segue transcrita:
+“RECURSO. Embargos de divergência. Ausência de similitude fática entre o acórdão paradigma e o acórdão recorrido. Embargos não conhecidos. Cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou agravo de instrumento, divergir de julgado de outra Turma ou do Plenário desta Corte, desde que tratem ambos do mesmo thema decidendum”.
+Ademais, destaco que os embargos de divergência destinam-se a promover a uniformização da jurisprudência desta Corte. Não se prestam, pois, à mera revisão do acerto ou desacerto do acórdão embargado. Nesse sentido, assentou o Plenário deste Tribunal, no julgamento do RE 115.024-ED-ED-EDv-AgR/SP, Rel. Min. Celso de Mello:
+“a específica função jurídico-processual dos embargos de divergência - que consiste em promover a uniformização da jurisprudência no âmbito do Supremo Tribunal Federal - não autoriza, sob pena de essa modalidade recursal revestir-se de um inadmissível caráter infringente, a revisão de premissas assentadas pelo acórdão embargado na resolução da causa”.
+Isso posto, não admito os embargos de divergência (CPC, art. 557, caput, e RISTF, arts. 21, § 1º, e 335).
+Publique-se.
+Brasília, 13 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
