@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que não admitira recurso extraordinário (art. 102, III, a, da Constituição) no qual se alega ofensa aos artigos 1º, III e 7º, X, da Constituição federal.
+ O acórdão recorrido, proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, recebeu a seguinte ementa (fls. 69):
+“APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. CANCELAMENTO DE DESCONTOS EM FOLHA DE PAGAMENTO. IMPOSSIBILIDADE IN CASU. Ausência de oferecimento, pela consumidora, de modalidade de pagamento, bem como ausência de insurgência especificada quanto aos encargos incidentes no contrato de empréstimo mediante pagamento por consignação em folha. A observância quanto à margem consignável retira do desconto em folha o caráter de ‘penhora sobre remuneração’. A pretensão de cancelamento in totum não encontra respaldo nas margens em que se torna viável/legítimo o restabelecimento judicial do sinalagma contratual, porquanto inviabiliza a manutenção de qualquer forma de comutatividade, em prejuízo dessarrazoado ao fornecedor de crádito. Precedentes desta Corte. APELO IMPROVIDO.”
+ Alega a parte ora agravante vulneração dos dispositivos constitucionais mencionados. Assevera que “(...) o caso sob exame configura situação completamente análoga à penhora dos salários, proibição legal contida em nosso ordenamento jurídico, protegida por princípios constitucionais, como também por nossa legislação infraconstitucional” (fls. 93).
+Sem razão a parte recorrente. Afasto a alegação de afronta aos dispositivos constitucionais mencionados, tal como veiculada no apelo extraordinário. É que a discussão acerca dos critérios e limites para pagamento de dívidas por meio de retirada direta na folha de pagamentos situa-se no âmbito da legislação infraconstitucional, o que dá margem ao descabimento do recurso extraordinário.
+Alem disso, observo que a análise das suposta ofensas demandaria análise prévia das cláusulas do contrato celebrado entre as partes, circunstância que inviabiliza o processamento do recurso ante a vedação contida no enunciado da Súmula 454 desta Corte.
+Por fim, para afastar as conclusões da decisão impugnada imprescindível reexame do contexto fático-probatório que a orientara, circunstância que inviabiliza o processamento do recurso ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 13 de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
