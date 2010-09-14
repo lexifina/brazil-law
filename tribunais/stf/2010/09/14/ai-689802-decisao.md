@@ -1,0 +1,25 @@
+D ECIS Ã O:
+Vistos.
+União interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso XXXVI, e 40, inciso III, alíneas “a” e “c” e § 1º, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Segunda Turma do Tribunal Federal da 2ª Região, assim ementado:
+“ADMINISTRATIVO. SERVIDOR PÚBLICO. CONVERSÃO DE TEMPO DE SERVIÇO ESPECIAL EM COMUM. CARGO DE AUXILIAR DE ENFERMAGEM. INSALUBRIDADE. DECRETOS nºs 53.831/64 E 83.080/79. DIREITO ADQUIRIDO À CONVERSÃO. PERÍODO POSTERIOR À LEI Nº 8112/90. NECESSIDADE DE EDIÇÃO DE LEI COMPLEMENTAR.
+- Apelação contra sentença mandamental que denegou a pretensão de expedição de certidão de tempo de serviço exercido em condições especiais de período prestado por servidora pública do Ministério da Saúde, ex-celetista, no cargo de auxiliar de enfermagem, no período anterior à Lei nº 8112/90.
+- O cargo de auxiliar de enfermagem enquadra-se no elenco de atividades profissionais previstas nos anexos dos Dec. Nº 53831/64, código 2.1.3, e nº 83.080/79, código 1.3.4 (anexo I) e código 2.1.3 (anexo II) que, se não exaustivos, abrangem profissões e agentes nocivos, respectivamente, em que se presumia, à época anterior da Lei nº 8112/90, a prestação de atividades em condições danosas à saúde do trabalhador.,
+- A lei nº 8112/90 ao transformar os servidores celetistas em estatutários assegurou a contagem de tempo de serviço para todos os seus efeitos.
+- O reconhecimento da contagem em condições especiais com relação ao período posterior à Lei nº 8112/90, encontra-se subordinado à edição de Lei complementar ainda não editada, nos termos do art. 40, § 4º da CF/88, na redação anterior à EC nº 20/98, conforme entendimento consolidado junto à Suprema Corte (RE 371749AgR/RS – Min. Cesar Peluso, j. 30/11/2001; 1ª Turma).
+- Apelação parcialmente provida” (fl. 22).
+Decido.
+Anote-se, inicialmente, que a recorrente foi intimada do acórdão recorrido em 7/2/06, como expresso na certidão de folha 23-v, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+É pacífica a jurisprudência deste Tribunal no sentido de que o servidor público estatutário, anteriormente vinculado ao regime geral de previdência social, tem direito à contagem especial do tempo de serviço prestado sob condições especiais, no período anterior à Lei no 8.112/90. Nesse sentido, anote-se:
+“1. Servidor público: direito adquirido à contagem especial de tempo de serviço prestado em condições insalubres, vinculado ao regime geral da previdência, antes de sua transformação em estatutário, para fins de aposentadoria: o cômputo do tempo de serviço e os seus efeitos jurídicos regem- se pela lei vigente quando da sua prestação: incidência, mutatis mutandis, da Súmula 359. 2. O servidor público tem direito à emissão pelo INSS de certidão de tempo de serviço prestado como celetista sob condições de insalubridade, periculosidade e penosidade, com os acréscimos previstos na legislação previdenciária. 3. A autarquia não tem legitimidade para opor resistência à emissão da certidão com fundamento na alegada impossibilidade de sua utilização para a aposentadoria estatutária; requerida esta, apenas a entidade à qual incumba deferi-la é que poderia se opor à sua concessão. 4. Agravo regimental: desprovimento: ausência de prequestionamento do art. 40, III, b, da Constituição Federal (Súmulas 282 e 356), que, ademais, é impertinente ao caso” (RE nº 463.299/PB-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 17/8/07).
+“Agravo regimental em recurso extraordinário. 2. Servidor público ex-celetista. Professor universitário. Contagem especial do tempo de serviço prestado sob condições insalubres, no período anterior à Lei no 8.112/90. Direito reconhecido. Precedentes. 3. Agravo regimental a que se nega provimento” (RE nº 456.480/PB-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 24/2/06).
+“AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. TEMPO DE SERVIÇO. CONTAGEM. 2. A jurisprudência do Supremo Tribunal Federal fixou-se no sentido de que o servidor público, ex-celetista, tem direito à contagem especial de tempo de serviço prestado em condições penosas e insalubres, em período anterior à vigência da Lei n. 8.112/90. Precedentes. Agravo regimental a que se nega provimento” (RE nº 457.144/PB-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 13/3/08) .
+Ainda sobre o tema, as seguintes decisões monocráticas: RE nº 575.652/MG, Relator o Ministro Ayres Britto, DJe de 10/6/10; RE nº 4402.069/PB, Relatora a Ministra Cármen Lúcia, DJe de 6/4/10.
+O acórdão recorrido não divergiu desse entendimento.
+Ante o exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 14 de setembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
