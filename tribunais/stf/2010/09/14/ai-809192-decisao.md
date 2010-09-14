@@ -1,0 +1,9 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário criminal interposto de acórdão assim ementado:
+“REVISÃO CRIMINAL. CARÊNCIA DE AÇÃO DECRETADA. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. ART. 16 DA LEI 10.826/03. ABOLITIO CRIMINIS TEMPORALIS. EXTINÇÃO DA PUNIBILIDADE. I – Não se ajustando o pedido a nenhuma das hipóteses previstas no art. 621 do Código de Processo Penal, e, sendo incabível como sucedâneo recursal, não merece ser conhecida a revisão criminal. Carência de ação decretada. II – A posse irregular de arma de fogo, desde a data de publicação da Lei 10.826/03, em 23.12.2003, até o dia 31.12.2009 (Lei nº 11.922/09), é uma conduta atípica, sendo imperativa a aplicação retroativa do período de vacatio legis indireta ao fato ocorrido nesse interregno, com amparo no artigo 5º, inciso XL, da Constituição Federal, artigo 2º, parágrafo único do Código Penal c/c artigo 32 da Lei 10.826/03. EXTINÇÃO DA PUNIBILIDADE DECRETADA” (fl. 41).
+No RE, interposto com fundamento no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 5º, XL, da mesma Carta, ao fundamento que:
+“(...) a vacatio legis especial prevista nos artigos 30 e 32 da Lei 10.826/03, conquanto tenha tornado atípica a posse ilegal de arma de fogo havida no curso do prazo assinalado, não subtraiu a ilicitude penal da conduta que continuou incriminada (...). Além disso, a referida vacatio legis, por não ter ânimo definitivo, não tem, igualmente, força retroativa, não podendo, por isso, configurar abolitio criminis em relação aos ilícitos cometidos em data anterior” (fl. 70).
+Preenchidos os requisitos de admissibilidade do recurso, dou provimento ao agravo de instrumento e determino a subida dos autos principais para melhor exame do extraordinário.
+Publique-se.
+Brasília, 14 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
