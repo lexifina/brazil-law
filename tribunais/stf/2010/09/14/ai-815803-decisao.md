@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+EMENTA – REEXAME NECESSÁRIO E APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – POLICIAL MILITAR – REVOGAÇÃO TÁCITA DO SOLDO – LEI N. 2.180/2000 – VALOR DE REFERÊNCIA COM BASE DE CÁLCULO PARA AS VANTAGENS DE INCORPORAÇÕES DEFINITIVAS – GRATIFICAÇÃO DE TEMPO DE SERVIÇO, A GRATIFICAÇÃO DE HABILITAÇÃO DE POLICIAL MILITAR E ETAPA DE ALIMENTAÇÃO – RECURSO DOS AUTORES PARCIALMENTE CONHECIDO E PROVIDO RECURSO DO REQUERIDO NÃO PROVIDO.
+O soldo, disposto pelo art. 3º da Lei Estadual n. 120/80, foi revogado pelo valor de referência (art. 1º da Lei Estadual n. 2.180/00). Portanto, o valor de referência deve ser a base de cálculo das vantagens de incorporações definitivas, na forma do artigo 2º da Lei Estadual n. 2.180/00, em especial daquelas referentes às gratificações de tempo de serviço, à habilitação de policial militar e à etapa de alimentação.
+Não se conhece do recurso na parte em que falta ao recorrente interesse recursal” (fl. 464).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 37, X e XIV, da mesma Carta.
+O agravo não merece acolhida. Isso porque para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Leis 120/80 e 2.180/00 do Estado de Mato Grosso do Sul), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Seguindo essa orientação, destaco os seguintes precedentes: RE 565.535/MS e RE 612.356/MS Rel. Min. Eros Grau; AI 723.897/MS, Rel. Min. Cármen Lúcia; RE 573.032/MS e AI 804.049/MS, de minha relatoria; RE 615.577/MS, Rel. Min. Ayres Britto; e RE 559.548-AgR/MS, Rel. Min. Ellen Gracie, cuja ementa transcrevo a seguir:
+“DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO. 1. A questão constitucional suscitada no recurso extraordinário, não foi apreciada pelo Tribunal a quo. Falta-lhe, pois, o requisito do prequestionamento. Incidência das Súmulas STF 282 e 356. 2. Ainda que superado tal óbice, eventual contrariedade à Constituição se daria de forma indireta ou reflexa, a depender da prévia análise da legislação infraconstitucional (Lei Estadual 2.180/2000), o que também inviabiliza a admissão do apelo extremo. 3. Agravo regimental improvido” (grifos meus).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 14 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
