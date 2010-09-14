@@ -1,0 +1,36 @@
+D ECIS Ã O:
+Vistos.
+A UNIÃO interpõe recurso extraordinário, com fundamento nas alíneas “a” e “b” do permissivo constitucional, contra acórdão da Segunda Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI. PRINCÍPIO DA NÃO-CUMULATIVIDADE. LEI Nº 9.779/99. RIPI/98. RIPI/82. PRESCRIÇÃO. CORREÇÃO MONETÁRIA.
+O princípio da não-cumulatividade visa evitar tributação excessiva, consistente da superposição de idêntico imposto no mesmo processo produtivo.
+A Lei nº 9.779/99 estabelece uma faculdade ao contribuinte, qual seja, a de utilizar-se dos créditos originários na aquisição de insumos, inclusive nas hipóteses se saídas isentas ou tributadas à alíquota zero, nos termos da Lei 9.430/96.
+Este Tribunal, ao apreciar a Arguição de Inconstitucionalidade na AC nº 1999.72.05.008186-1/SC, declarou a inconstitucionalidade do art. 174, inc. I, alínea “a”, do Decreto nº 2.637/98 (RIPI/98), dispositivo que determina a anulação do crédito gerado na aquisição de insumos, por afrontar o princípio da não-cumulatividade, bem como se manifestou no sentido da não-recepção do art. 100, inc. I, alínea “a”, do Decreto nº 87.918/82 (RIPI/82).
+Não se cuidando de hipótese de restituição – em que se discute pagamento indevido ou maior - mas de reconhecimento de aproveitamento de crédito, em virtude da regra da não-cumulatividade estabelecida pelo texto constitucional, não tem aplicação o disposto no art. 165 do CTN. Incide, portanto, o Decreto nº 20.910/32, o qual regula a prescrição quinquenal.
+A lei não prevê que o crédito seja levado a cálculo com correção monetária. O STF vem reiteradamente decidindo que a correção monetária não incide sobre os créditos escriturais” (fl. 231).
+Sem contrarrazões (fl. 316), o recurso extraordinário foi admitido (fls. 319/320).
+Embargos de declaração opostos às folhas 234 a 242 acolhidos parcialmente às folhas 246 a 248, para fins de juntada de voto.
+O recurso especial interposto (fls. 270 a 282) teve seu provimento negado em decisão monocrática de folhas 328 a 330, mantida esta quando do julgamento do agravo regimental (fls. 348 a 353) pela Segunda Turma do Superior Tribunal de Justiça.
+Nas razões de recurso, a UNIÃO argumenta que o acórdão recorrido, ao reconhecer o direito ao crédito por conta de matérias primas empregadas na fabricação de produtos sujeitos à alíquota zero, em período anterior à Lei nº 9.779/99, pelo afastamento da Lei nº 4.502/64, art. 25, § 3º e art. 27, § 1º, que vedavam o direito ao crédito considerando o quanto decidido na Arguição de Inconstitucionalidade na AC nº 1999.72.05.008186-1/SC, onde foi declarada a inconstitucionalidade do art. 174, inciso I, letra “a” do Decreto nº 2.637/98 (atual regulamento do IPI), afronta ao artigo 97 da Constituição Federal.
+Aduz, ainda, que: “em se considerando que somente o art. 11 da Lei nº 9.779/99 veio a reconhecer o crédito - o aproveitamento de crédito em período anterior - quando ainda vigorava a Lei nº 4.502/64 -” viola o art. 150, § 6º da Constituição Federal, no sentido de que qualquer subsídio ou concessão de crédito presumido só poderá ser concedido mediante lei específica.
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 13/3/02, conforme expresso na certidão de folha 269, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Merece prosperar a irresignação, uma vez que o acórdão recorrido está em confronto com a jurisprudência desta Corte que não reconhece o direito ao creditamento do IPI nas operações realizadas com insumos ou matéria prima empregados na industrialização de produtos isentos ou gravados com alíquota zero, em período anterior à edição da Lei nº 9.779/99.
+No julgamento do RE nº 562.980/SC, foi reconhecida a existência de repercussão geral da matéria objeto do recurso, que era idêntica ao tema aqui em discussão e, na apreciação do mérito da irresignação em tela, reiterou essa Corte seu entendimento quanto à impossibilidade do pretendido creditamento.
+Sua ementa assim dispôs:
+“ IPI - CREDITAMENTO - ISENÇÃO - OPERAÇÃO ANTERIOR À LEI Nº 9.779/99. A ficção jurídica prevista no artigo 11 da Lei nº 9.779/99 não alcança situação reveladora de isenção do Imposto sobre Produtos Industrializados - IPI que a antecedeu” (RE nº 562.980/SC, Redator para o acórdão o Ministro Marco Aurélio, DJe de 4/9/09).
+Corroborou-se, então, decisão já anteriormente proferida pelo Pleno da Corte, de igual sentido, nos autos do RE nº 475.551/PR, Redatora para o acórdão a Ministra Cármen Lúcia, assim ementado:
+“IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. INSUMOS OU MATÉRIAS PRIMAS TRIBUTADOS. SAÍDA ISENTA OU SUJEITA À ALÍQUOTA ZERO. ART. 153, § 3º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA. ART. 11 DA LEI N. 9.779/1999. PRINCÍPIO DA NÃO CUMULATIVIDADE. DIREITO AO CREDITAMENTO: INEXISTÊNCIA. RECURSO EXTRAORDINÁRIO PROVIDO.
+1. Direito ao creditamento do montante de Imposto sobre Produtos Industrializados pago na aquisição de insumos ou matérias primas tributados e utilizados na industrialização de produtos cuja saída do estabelecimento industrial é isenta ou sujeita à alíquota zero.
+2. A compensação prevista na Constituição da República, para fins da não cumulatividade, depende do cotejo de valores apurados entre o que foi cobrado na entrada e o que foi devido na saída: o crédito do adquirente se dará em função do montante cobrado do vendedor do insumo e o débito do adquirente existirá quando o produto industrializado é vendido a terceiro, dentro da cadeia produtiva.
+3. Embora a isenção e a alíquota zero tenham naturezas jurídicas diferentes, a consequência é a mesma, em razão da desoneração do tributo.
+4. O regime constitucional do Imposto sobre Produtos Industrializados determina a compensação do que for devido em cada operação com o montante cobrado nas operações anteriores, esta a substância jurídica do princípio da não cumulatividade, não aperfeiçoada quando não houver produto onerado na saída, pois o ciclo não se completa.
+5. Com o advento do art. 11 da Lei n. 9.779/1999 é que o regime jurídico do Imposto sobre Produtos Industrializados se completou, apenas a partir do início de sua vigência se tendo o direito ao crédito tributário decorrente da aquisição de insumos ou matérias primas tributadas e utilizadas na industrialização de produtos isentos ou submetidos à alíquota zero.
+6. Recurso extraordinário provido” (DJe de 13/11/09).
+No mesmo sentido, dentre tantas outras, as seguintes decisões monocráticas: RE nº 543.577/RS, Relatora a Ministra Cármen Lúcia, DJe de 17/3/10, AI nº 605.370/SC-AgR, Relator o Ministro Ricardo Lewandowski, DJe de 4/9/09 e RREE nºs 456.300/RS, DJe de 4/3/10 e 449.273/SC, DJe de 10/3/10, ambos de minha relatoria.
+Ante o exposto, nos termos do artigo 557, caput e § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para, reformando o acórdão recorrido, denegar a segurança.
+Sem condenação em honorários, nos termos da Súmula 512,STF. Custas ex lege.
+Publique-se.
+Brasília, 14 de setembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
