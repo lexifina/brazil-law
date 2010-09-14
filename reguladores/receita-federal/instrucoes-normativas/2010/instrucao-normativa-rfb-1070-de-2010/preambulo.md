@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1070, de 13 de setembro de 2010
+Altera a Instrução Normativa RFB nº 844, de 9 de maio de 2008, que dispõe sobre a aplicação do regime aduaneiro especial de exportação e importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e de gás natural (Repetro).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto nos arts. 461-A e 462 do Decreto nº 6.759, de 5 de fevereiro de 2009, alterado pelo Decreto nº 7.296, de 10 de setembro de 2010, resolve:
