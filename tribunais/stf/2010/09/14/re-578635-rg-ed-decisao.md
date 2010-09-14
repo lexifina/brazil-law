@@ -1,0 +1,16 @@
+DECISÃO
+Vistos.
+A União opõe embargos declaratórios (fls. 337 a 349) contra a decisão do Plenário Virtual deste Supremo Tribunal Federal que, em sessão realizada por meio eletrônico, concluiu pela ausência de repercussão geral da questão constitucional versada no presente recurso extraordinário (fls. 291 a 298). A referida decisão está assim ementada:
+“DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL DESTINADA AO INCRA. EXIGIBILIDADE DAS EMPRESAS URBANAS. AUSÊNCIA DE REPERCUSSÃO GERAL (fl. 298).”
+Alega a embargante que a decisão recorrida serve de bloqueio a que diversos acórdãos contrários à jurisprudência da Corte possam ser por essa revistos, fato que vem a dispor contrariamente à própria idéia que inspirou a criação do instituto da repercussão geral. Ademais, não há razão para negar sua presença em feitos em que a matéria de fundo já está pacificada pela Suprema Corte, acrescentando que, no caso em tela, por se tratar de matéria atinente à tributação, é patente a existência de repercussão geral, a justificar a revisão do pronunciamento expresso pelo acórdão embargado. Ademais, em casos de manifestação negativa, como aqui se deu, não se pode aplicar tal entendimento aos processos que chegaram à Corte anteriormente à data em que proferida essa decisão. Por fim, aduziu à recente reversão jurisprudencial ocorrida em caso em que a matéria de fundo era similar a essa aqui em debate, postulando a reconsideração da decisão embargada ou, alternativamente, que o entendimento dela resultante apenas seja aplicável aos recursos interpostos posteriormente .
+Decido.
+A irresignação não merece prosperar, uma vez que o caput do artigo 543-A do Código de Processo Civil dispõe sobre a irrecorribilidade de decisão desta Corte que reconhece a ausência de repercussão geral. O artigo 326 do Regimento Interno do Supremo Tribunal Federal também expressa que “toda decisão de inexistência de repercussão geral é irrecorrível”.
+Aplicando essa orientação, destacam-se as seguintes decisões: RE nº 565.653/DF, Relatora a Ministra Cármen Lúcia, DJe de 30/3/09 e RE nº 584.608/SP, Relatora a Ministra Ellen Gracie, DJe de 13/8/09.
+A menção feita pela embargante às hipóteses de repercussão geral presumida, prevista no § 3º do artigo 543-A do Código de Processo Civil, deve ser analisada segundo os parâmetros dispostos naquela norma legal, não se prestando a servir de fundamentação ao recurso ora em análise.
+Convém ressaltar que o mesmo raciocínio se adequa à questão da aplicação da decisão embargada a processos que entraram na Corte anteriormente à prolação do acórdão ora atacado, cuja apreciação deve ser feita, caso a caso, pelo relator sorteado.
+Em arremate, tem-se que a presente insurgência sequer aponta a existência de eventual vício de omissão, contrariedade ou obscuridade de que padeceria a decisão embargada, a demonstrar que o que a embargante pretende, em verdade, é uma revisão do posicionamento então externado pela Corte, o que se mostra inadmissível, em um recurso como o presente.
+Ante o exposto, nos termos do artigo 543-A do Código de Processo Civil e do artigo 326 do Regimento Interno desta Suprema Corte, não conheço dos embargos declaratórios.
+Publique-se.
+Brasília, 14 de setembro de 2010.
+Ministro DIAS TOFFOLI
+Relator
