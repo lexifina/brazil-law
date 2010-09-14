@@ -1,0 +1,12 @@
+DECISÃO
+CONTRIBUIÇÃO SOCIAL – PROVENTOS E PENSÕES – PERÍODO POSTERIOR À EMENDA CONSTITUCIONAL Nº 20/98.
+1. Afasto o sobrestamento determinado.
+2. Com a Emenda Constitucional nº 20/98, foi inserida, no inciso II do artigo 195 da Carta Federal, a norma proibitiva da incidência de contribuição sobre proventos e pensões:
+[...] não incidindo contribuição sobre aposentadoria e pensão concedidas pelo regime geral de previdência social de que trata o art 201;
+Daí o Tribunal, na Ação Direta de Inconstitucionalidade nº 2010, haver deferido medida acauteladora para suspender a eficácia das expressões “e inativo, e dos pensionistas” e “do provento ou da pensão”, constantes do artigo 1º, cabeça, da Lei nº 9.783, de 28 de janeiro de 1999.
+No mesmo julgamento, suspendeu-se a eficácia também do previsto no artigo 2º da mencionada lei, dispositivo posteriormente revogado pelo teor do artigo 7º da Lei nº 9988/2000.
+3. Limitando a controvérsia sobre tais matérias, havendo a Corte de origem glosado a cobrança, nego seguimento ao recurso extraordinário.
+4. Publiquem.
+Brasília, 14 de setembro de 2010.
+Ministro MARCO AURÉLIO
+Relator
