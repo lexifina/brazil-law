@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“AGRAVO DE INSTRUMENTO – AÇÃO INDENIZATÓRIA – ACIDENTE – VAZAMENTO DE ÓLEO – PROIBIÇÃO DA PESCA NO LOCAL ATINGIDO – INEXISTÊNCIA DE FATO SUPERVENIENTE CAPAZ DE ALTERAR A COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA APRECIAR A MATÉRIA – INAPLICABILIDADE DA SÚMULA 150 DO STJ – RECURSO DESPROVIDO.
+- Para o fim de conhecer e julgar ação de indenização é competente o foro do local da ocorrência dos danos suscitados na pretensão inicial, ainda que a causa material tenha ocorrido em lugar diverso. Inteligência da alínea “a”, inc. V, do art. 100 do Código de Processo Civil.
+- Ação Indenizatória que não busca a reparação dos prejuízos ocasionados ao meio ambiente ou à coletividade, portanto, que não se enquadra em nenhuma das hipóteses elencadas no art. 109 da Constituição da República” (fl. 313).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, LIII e LXXVIII, e 109, I e III, da mesma carta.
+O agravo não merece acolhida. Isso porque, o Supremo Tribunal, já se posicionou no sentido de que a mera alegação de interesse da União é insuficiente para justificar o deslocamento da causa para a esfera de competência da justiça federal. Nesse sentido:
+“E M E N T A: EMBARGOS DE DECLARAÇÃO - INOCORRÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO - LITÍGIO INSTAURADO ENTRE EMPRESA CONCESSIONÁRIA DE SERVIÇO PÚBLICO E USUÁRIO PARTICULAR - CONTROVÉRSIA DIRIMIDA COM APOIO EM LEGISLAÇÃO DE CARÁTER INFRACONSTITUCIONAL - OFENSA REFLEXA - MERA ALEGAÇÃO DA EXISTÊNCIA DE INTERESSE DA UNIÃO FEDERAL OU DE AGÊNCIA REGULADORA - RAZÃO INSUFICIENTE PARA JUSTIFICAR O DESLOCAMENTO DA CAUSA PARA A ESFERA DE COMPETÊNCIA DA JUSTIÇA FEDERAL - COMPLEXIDADE DA CAUSA - CRITÉRIO DE SUA IDENTIFICAÇÃO PARA EFEITO DE DEFINIÇÃO DA COMPETÊNCIA DOS JUIZADOS ESPECIAIS - MATÉRIA RESTRITA AO DOMÍNIO DA LEGISLAÇÃO COMUM - INVIABILIDADE DO APELO EXTREMO - REPERCUSSÃO GERAL DA MATÉRIA QUE O PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL RECONHECEU NO JULGAMENTO DO RE 567.454/BA - REAFIRMAÇÃO, QUANDO DA APRECIAÇÃO DE MENCIONADO RECURSO EXTRAORDINÁRIO, DA JURISPRUDÊNCIA QUE O SUPREMO TRIBUNAL FEDERAL FIRMOU NO EXAME DESSA CONTROVÉRSIA - EMBARGOS DE DECLARAÇÃO REJEITADOS”. (RE 531047 AgR-ED/PR, Rel. Min. Celso de Mello, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 15 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
