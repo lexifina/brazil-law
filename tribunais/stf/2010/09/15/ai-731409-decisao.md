@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 292):
+“EMBARGOS – DIFERENÇAS DE FGTS – PRESCRIÇÃO TRINTENÁRIA - RECURSO DE REVISTA NÃO CONHECIDO – NECESSIDADE DE INVOCAÇÃO DO ARTIGO 896 DA CLT
+A teor da Orientação Jurisprudencial nº 294 da SBDI-1 desta Corte, “para a admissibilidade e conhecimento de embargos, interpostos contra decisão mediante a qual não foi conhecido o recurso de revista pela análise dos pressupostos intrínsecos, necessário que a parte embargante aponte expressamente a violação ao art. 896 da CLT”.
+Embargos não conhecidos.”
+Nas razões do recurso extraordinário, indica-se violação do disposto nos arts. 5º, XXXV e LV, 7º, XXIX, e 37, II, da Constituição federal e art. 97, § 1º, da Constituição de 1967, com a redação da Emenda Constitucional 1/1969. Sustenta-se a nulidade do contrato de emprego com o ente público, em razão da ausência de concurso público, e a aplicação do prazo qüinqüenal ao invés do trintenário para as diferenças do FGTS.
+É o relatório. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Por outro lado, não restou configurada a alegada violação ao princípio do concurso público. O STF já afirmou que o art. 37, II, da Constituição se refere apenas a empregados admitidos após a vigência da Constituição de 1988 e que o art. 97, § 1º, da Constituição de 1967/69 cuidava de cargo público, restrito a funcionário público, e não a emprego público, cujos empregados eram regidos pela CLT (cf. RE 162.933, rel. min. Ilmar Galvão, DJ de 22.09.1995). No mesmo sentido, assim decidiu o min. Sepúlveda Pertence (RE 229.914, DJ de 30.11.2004):
+“O referido art. 37, II, só abrange os empregados admitidos após a vigência da atual Constituição: a Carta decaída impunha a realização de concurso apenas para a primeira investidura em cargo público, aí não compreendido o ingresso em emprego; a atual Constituição não estabelece a aplicação retroativa do disposto no art. 37, II, aos contratos firmados anteriormente a sua vigência.
+Esse é o entendimento consolidado pelo Tribunal, conforme se extrai em diversos julgados, v. g., RE 222.058-AgR, Pertence, 1a T, DJ 04.06.99; AI 260.557-AgR, Jobim, 2a T, DJ 25.08.00; e AI 254.417-AgR, Gallotti, 1a T, DJ 16.06.00, este último com a seguinte ementa:
+‘Não se mostra razoável a pretensão de subordinar, ao preceito do art. 37, II, da Constituição, o vínculo empregatício estabelecido antes de sua promulgação.’”
+Com relação ao prazo prescricional do FGTS, ambas as Turmas do Supremo Tribunal Federal fixaram entendimento sobre o tema:
+“FUNDO DE GARANTIA DO TEMPO DE SERVIÇO. PRESCRIÇÃO. PRAZO TRINTENÁRIO. LEI ORGÂNICA DA PREVIDÊNCIA SOCIAL, ART. 144.
+A natureza da contribuição devida ao Fundo de Garantia do Tempo de Serviço foi definida pelo Supremo Tribunal Federal no RE 100249 - RTJ 136/681. Nesse julgamento foi ressaltado seu fim estritamente social de proteção ao trabalhador, aplicando-se-lhe, quanto à prescrição, o prazo trintenário resultante do art. 144 da Lei Orgânica da Previdência Social.
+Recurso extraordinário conhecido e provido.” (RE 134.328, rel. min. Ilmar Galvão, Primeira Turma, DJ de 19.02.1993)
+“EMENTA: Agravo regimental em agravo de instrumento. 2. Fundo de Garantia por Tempo de Serviço – FGTS. Prescrição. Prazo trintenário. Precedentes. 3. Art. 7º, XXIX, ‘a’, da CF/88 (redação anterior à Emenda Constitucional n.º 28/2000). Prazo prescricional para a propositura da ação. Créditos resultantes da relação de trabalho. Prazo prescricional. Legislação infraconstitucional. 4. Agravo regimental a que se nega provimento.” (AI 378.222-AgR, rel. min. Gilmar Mendes, DJ de 31.10.2002)
+Dessas orientações não divergiu o acórdão recorrido.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 15 de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
