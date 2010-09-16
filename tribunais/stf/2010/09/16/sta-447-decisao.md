@@ -1,0 +1,22 @@
+DECISÃO: 1. Trata-se de pedido de suspensão de tutela antecipada, ajuizado pelo Estado de São Paulo, contra acórdão proferido pelo Tribunal de Justiça daquela unidade da Federação, nos autos do Agravo de Instrumento nº 778.216.5/3.
+Na origem, o JBS S/A ajuizou ação declaratória (proc. 053.07.134602-5), com pedido de antecipação de tutela, com o objetivo de, afastando a aplicação do Comunicado Sefaz/CAT nº 36/04, garantir a utilização de créditos de ICMS oriundos de operações amparadas por benefícios fiscais concedidos por outras unidades da Federação.
+A antecipação de tutela foi deferida pela autoridade judiciária de 1º Grau.
+Contra a decisão antecipatória foi interposto agravo de instrumento, que teve provimento negado por decisão da Terceira Câmara de Direto Público do TJSP.
+Em seguida, o Estado de São Paulo formulou o presente pedido de suspensão, arguindo, em síntese, risco de grave lesão à ordem e à economia publicas, ocorrência de perda significativa na arrecadação e a do denominado efeito multiplicador. Alega , ainda, violação ao art. 155, § 2º, I, II, a, e XII, g, da CF/88.
+Apresenta documentos elaborados pela Secretaria de Fazenda do Estado, com estimativa da perda de arrecadação decorrente da decisão impugnada.
+2. É caso de suspensão.
+De acordo com o regime legal de contracautela (art. 15 da Lei n° 12.016/09, Lei nº 8.437/92, Lei nº 9.494/97 e art. 297 do RISTF), compete a esta Presidência suspender execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+A cognição do pedido exige, contudo, demonstração da natureza constitucional da controvérsia (cf. Rcl nº 497-AgR/RS, rel. Min. Carlos Velloso, Plenário, DJ 06.4.2001; SS nº 2.187-AgR/SC, rel. Min. Maurício Corrêa, DJ 21.10.2003; e SS nº 2.465/SC, rel. Min. Nelson Jobim, DJ 20.10.2004).
+Verifico estar preenchido este requisito, pois em jogo, aqui, decisão que versa sobre a constitucionalidade da glosa de créditos de ICMS (art. 155, § 2º, I, II, a, e XII, g, da CF/88).
+Nesses termos, a Corte tem entendido, com base nas diretrizes normativas que disciplinam as medidas de contracautela, não ser vedado ao Presidente do Supremo Tribunal Federal proferir juízo mínimo de delibação a respeito das questões jurídicas presentes na ação principal, quando a decisão contra a qual se pede a suspensão seja contrária às normas jurídicas. Nesse sentido: SS nº 846-AgR, Rel. Min. SEPÚLVEDA PERTENCE, de 29.5.96; e SS nº 1.272-AgR, Rel. Min. CARLOS VELLOSO, de 18.5.2001.
+Verifico haver, na espécie, risco de grave lesão à economia pública.
+De fato, a manutenção dos efeitos da decisão que antecipou os efeitos da tutela, no sentido de afastar as restrições impostas pelo Comunicado CAT nº 36/04 e, por conseguinte, possibilitar ao contribuinte o aproveitamento de créditos de ICMS resultantes de operações interestaduais amparadas por benefícios fiscais não autorizados por convênio celebrado nos termos da Lei Complementar 24/75, acarreta perda vultosa da arrecadação pelo estado requerente, fato esse que se encontra devidamente comprovado pela análise dos estudos de impacto financeiro apresentados à fls. 27/29.
+É o que bem observou o Procurador-Geral da República, ROBERTO MONTEIRO GURGEL, em parecer de fls. 311/313:
+“Os tributos, sobretudo os impostos, correspondem à quase totalidade dos influxos do capital formador das receitas dos entes da federação. A supressão ou redução de sua arrecadação resultam, por certo, em graves prejuízos à pessoa jurídica de direito público instituidora, principalmente porque, tomados em seu conjunto, os reflexos das concessões de liminares em casos análogos podem representar o embaraço de parcela significativa” (fl. 312).
+Ademais, esta Presidência, ao analisar pedido idêntico, entendeu ser o caso de deferimento da suspensão (cf. 3.482, Rel. Min. ELLEN GRACIE, DJe de 14.2.2008).
+Há também a probabilidade de concretização do denominado “efeito multiplicador” (SS nº 1.836-AgR/RJ, Ministro CARLOS VELLOSO, Plenário, DJ de 11.10.2001), à vista da possibilidade de aumento de demandas semelhantes.
+3. Ante o exposto, julgo procedente o pedido, para suspender os efeitos do acórdão proferido pelo TJSP nos autos do Agravo de Instrumento nº 778.216.5/3 (proc. 053.07.134602-5), até o trânsito em julgado ou ulterior deliberação desta Corte.
+Publique-se. Int..
+Brasília, 16 de setembro de 2010.
+Ministro CEZAR PELUSO
+Presidente
