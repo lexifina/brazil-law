@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF02 nº 10, de 15 de setembro de 2010
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO TEC MERCADORIA 8529.90.20 - Tela de visualização de cristal líquido (LCD), composta por um painel de cristal líquido do tipo TFT (Thin Film Transistor), contendo em sua parte superior e laterais um conjunto de circuitos eletrônicos denominados de drivers source e gate responsáveis pela ativação das linhas e colunas de transistores do painel, utilizada como insumo na industrialização de módulos LCD cuja destinação principal é a industria de monitores, aparelhos receptores de televisão e outros dispositivos de visualização, comercialmente denominada de Painel LCD Open Cell (célula aberta), com área útil de 40" na diagonal, modelo LK400D3HA33, fabricada pela Sharp.
+DISPOSITIVOS LEGAIS: 1ª RGI/SH (texto da posição 8529), 6ª RGI/SH (texto da subposição 8529.90) e 1ª RGC (texto do item 8529.90.20), da Tarifa Externa Comum, do Mercosul, aprovada pela Resolução Camex Nº 43/2006, e suas alterações, e com subsídios das Notas Explicativas do Sistema Harmonizado.
+[arquivo anexo: SC SRRF02-Diana nº 10-2010.pdf]
