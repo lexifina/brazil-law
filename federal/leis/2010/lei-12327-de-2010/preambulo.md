@@ -1,0 +1,3 @@
+LEI Nº 12.327, DE 15 DE SETEMBRO DE 2010.
+Denomina Rodovia João Paulo II o trecho da BR-267 entre as cidades de Rio Brilhante e Porto Murtinho, no Estado de Mato Grosso do Sul.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
