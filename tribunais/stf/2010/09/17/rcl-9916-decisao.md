@@ -1,0 +1,12 @@
+DECISÃO
+RECLAMAÇÃO – PEDIDO MANIFESTAMENTE IMPROCEDENTE NEGATIVA DE SEQUÊNCIA.
+1. O Município de Armação dos Búzios/RJ formalizou esta medida considerada a decisão proferida na Ação Direta de Inconstitucionalidade nº 3.395-6/DF. Visa a suspender ação civil pública em trâmite na 2º Vara do Trabalho de Cabo Frio/RJ, ajuizada com o objetivo de coibir a prática de supostas contratações ilegais, relacionadas às atividades finalísticas do ente municipal. Requer a concessão de medida acauteladora.
+Discorre o reclamante sobre o tema de fundo do processo, asseverando o descompasso com a medida acauteladora deferida na mencionada ação direta de inconstitucionalidade, da relatoria do Ministro Cezar Peluso.
+A autoridade reclamada informa haver deferido a antecipação dos efeitos da tutela objetivando que o Município promovesse a rescisão de todos os contratos administrativos relacionados à atividade-fim do reclamante. Afirma estar presente no caso discussão acerca do descumprimento, pelo referido ente municipal, da Súmula nº 331, do Tribunal Superior do Trabalho, ao promover as aludidas contratações ilegais.
+A Organização Nacional de Estudos e Projetos – ONEP, na condição de interessada, sustenta a inviabilidade desta reclamação, por não existir afronta à decisão proferida na Ação Direta de Inconstitucionalidade nº 3.395, uma vez que o presente caso envolve a contratação de serviços terceirizados entre o reclamante e a interessada. Aduz não ter sido apreciada pelo Juízo de origem a questão da competência da Justiça do Trabalho, motivo pelo qual haveria supressão de instâncias.
+2. Não concorre a pertinência do pleito. A liminar concedida na citada ação direta de inconstitucionalidade ficou restrita ao afastamento de interpretação do inciso I do artigo 114 da Carta Federal, na redação dada pela Emenda Constitucional nº 45/2004, que implique reconhecimento da competência da Justiça do Trabalho para apreciar conflitos atinentes a regime especial, de caráter jurídico-administrativo. Conforme se depreende dos documentos juntados ao processo, há, em síntese, o envolvimento de conflito trabalhista, presente a articulação, como causa de pedir, da regência do vínculo pela Consolidação das Leis do Trabalho.
+3. Ante o disposto no artigo 21, § 1º, do Regimento Interno desta Corte, nego seguimento à reclamação.
+4. Publiquem.
+Brasília, 17 de setembro de 2010.
+Ministro MARCO AURÉLIO
+Relator
