@@ -1,0 +1,14 @@
+Trata-se de agravo regimental contra decisão que deu provimento a recurso extraordinário por entender, nos termos da jurisprudência desta Corte, ser competente a Justiça Comum para o julgamento de pedido de complementação de aposentadoria dirigido contra entidade de previdência privada, por não decorrer essa complementação de contrato de trabalho.
+A agravante sustenta, em suma, que a decisão agravada deve ser reformada, uma vez que, no caso dos autos, a ação foi ajuizada diretamente contra a ex-empregadora da recorrente e não contra entidade de previdência privada.
+Assiste razão à agravante, reconsidero a decisão de fls. 276-277 e passo a examinar o recurso extraordinário.
+Trata-se de recurso extraordinário interposto contra acórdão que decidiu ser da Justiça do Trabalho a competência para o julgamento de pedido de complementação de aposentadoria quando decorrente de contrato de trabalho.
+Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 114 e 202, § 2º, da mesma Carta. Sustentou-se, em suma, ser a Justiça Comum a competente para julgar a questão.
+A pretensão recursal não merece acolhida.
+Consoante a jurisprudência desta Corte, compete à Justiça do Trabalho o julgamento de ação de complementação de aposentadoria a cargo de ex-empregador. Nesse sentido, transcrevo a ementa do AI 670.715-AgR-ED/DF, Rel. Min. Ellen Gracie:
+“PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ACÓRDÃO QUE MANTEVE DECISÃO QUE DECLAROU A COMPETÊNCIA DA JUSTIÇA COMUM PARA ANALISAR A CAUSA. EFEITOS INFRINGENTES. 1. Compete à Justiça do Trabalho o julgamento das ações que envolvam a complementação de aposentadoria paga por ex-empregador. 2. O Supremo Tribunal Federal possui entendimento consolidado no sentido de que compete à Justiça do Trabalho o julgamento de questões relativas à complementação de pensão ou de proventos de aposentadoria a cargo de ex-empregador. 3. Embargos de declaração acolhidos para, atribuindo-lhes, excepcionalmente, efeitos modificativos, anular o acórdão recorrido, dar provimento ao agravo regimental e negar seguimento ao agravo de instrumento da parte embargada. Nesse sentido, o AI 731.004/AgR-segundo/DF, rel. Min. Eros Grau; AI 746.595/DF, rel. Min. Menezes Direito e AI 751.077/DF, rel. Min. Cármen Lúcia (DJe 27.3.2009, 05.5.2009 e 07.8.2009, respectivamente)”.
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 590.072-AgR/DF e RE 594.381-AgR/DF, Rel. Min. Eros Grau; RE 587.252-AgR/SP e RE 569.748-AgR/SP, Rel. Min. Cármen Lúcia; AI 581.451-AgR/PA, Rel. Min. Sepúlveda Pertence; AI 740.154-ED/DF e RE 595.059-ED/DF, Rel. Min. Ellen Gracie.
+Isso posto, reconsidero a decisão de fls. 276-277 e nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 17 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
