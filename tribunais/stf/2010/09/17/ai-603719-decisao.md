@@ -1,0 +1,11 @@
+DECISÃO:  Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto contra acórdão do Segundo Tribunal de Alçada Civil do Estado de São Paulo, cuja ementa possui o seguinte teor (fls. 156):
+“Despesas de condomínio – Ação de cobrança – Cerceamento de defesa – Não caracterização – Desnecessidade de prova testemunhal – Acordo verbal – Redução da multa seria aceita com finalidade de evitar demanda judicial – Prevalência da Convenção Condominial que prevê multa de 20% e juros moratórios de 1% ao mês – Imóvel adquirido em hasta pública – Adquirente se torna responsável, inclusive, pelas despesas condominiais pertinentes à época anterior à aquisição – Redução da verba honorária para 80%, fixada em 10% do valor atualizado do débito – Recurso parcialmente provido para esse fim.”
+No recurso extraordinário, o ora agravante alega violação do disposto no art. 5º, LV, da Carta Magna. Sustenta a ocorrência de cerceamento de defesa.
+A análise da alegação de cerceamento de defesa requer sejam previamente examinadas as regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. A jurisprudência do Supremo Tribunal Federal concluiu que essa circunstância inviabiliza o processamento do recurso extraordinário. Nesse sentido: AI 700.960-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 05.03.2010); AI 730.135-AgR (rel. min. Menezes Direito, Primeira Turma, DJe de 22.05.2009) e AI 597.614-AgR (rel. min. Eros Grau, Segunda Turma, DJ de 27.10.2006).
+Ademais, o Tribunal a quo decidiu a causa com base na interpretação da legislação infraconstitucional (Código Civil) e no conjunto fático-probatório dos autos. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, o que inviabiliza o processamento do recurso. Incidem as Súmulas 279 e, mutatis mutandis, 636 desta Corte.
+Observo, ainda, que toda a argumentação do recorrente está fundamentada no reexame de fatos e provas - recaindo novamente no óbice da Súmula 279/STF -, e na aplicação e interpretação de dispositivos processuais legais, de modo que a apontada violação constitucional seria meramente indireta ou reflexa.
+ Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 17 de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
