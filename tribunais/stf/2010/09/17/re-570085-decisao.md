@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de recurso extraordinário (102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de Pernambuco, cuja ementa tem o seguinte teor:
+“RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. ATROPELAMENTO. PRETENSÃO DE DANOS MORAIS. ACOLHIMENTO. DUPLO APELO. IMPROVIMENTO. SENTENÇA MANTIDA. DECISÃO UNÂNIME.
+1- A prova produzida foi suficiente para comprovar a existência do fato, sua ilicitude, o nexo causal e o dano dele oriundo. Restando provada a responsabilidade do proprietário do veículo no sinistro ocorrido o qual resultou em lesão de natureza grave para a vítima, é de ser o mesmo responsável a indenizar os danos causados; 2– a responsabilidade da seguradora pelos danos segurados se limita até o valor máximo contratado na apólice; 3- o valor arbitrado a título de danos morais observou, de forma acurada, os Princípios da Proporcionalidade e da Razoabilidade, razão pela qual, deve o mesmo ser mantido.” (Fls. 184)
+A recorrente alega vulneração do artigo 37, § 6º, da Constituição federal. Afirma, em síntese, “que para os fatos praticados por terceiros, que não são servidores públicos, como o caso em debate, incide a culpa civil e não o princípio objetivo da responsabilidade sem culpa” (fls. 199). Sustenta, também, a abusividade no valor dos danos morais deferidos.
+É o relatório. Decido.
+O Plenário deste Supremo Tribunal Federal, no julgamento do RE 591.874, de relatoria do Min. Ricardo Lewandowski, DJe de 18.12.2009, entendeu pela responsabilidade objetiva das concessionárias ou permissionárias de serviço de transporte coletivo em relação a terceiros usuários e não-usuários do serviço, em acórdão assim ementado:
+“EMENTA: CONSTITUCIONAL. RESPONSABILIDADE DO ESTADO. ART. 37, § 6º, DA CONSTITUIÇÃO. PESSOAS JURÍDICAS DE DIREITO PRIVADO PRESTADORAS DE SERVIÇO PÚBLICO. CONCESSIONÁRIO OU PERMISSIONÁRIO DO SERVIÇO DE TRANSPORTE COLETIVO. RESPONSABILIDADE OBJETIVA EM RELAÇÃO A TERCEIROS NÃO-USUÁRIOS DO SERVIÇO. RECURSO DESPROVIDO. I - A responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público é objetiva relativamente a terceiros usuários e não-usuários do serviço, segundo decorre do art. 37, § 6º, da Constituição Federal. II - A inequívoca presença do nexo de causalidade entre o ato administrativo e o dano causado ao terceiro não-usuário do serviço público, é condição suficiente para estabelecer a responsabilidade objetiva da pessoa jurídica de direito privado. III - Recurso extraordinário desprovido .”
+Dessa orientação não divergiu o acórdão recorrido
+Afasto, por fim, a alegação de abusividade na fixação dos danos morais. Consigno que é impossível chegar a conclusão contrária à do acórdão recorrido sem o reexame dos fatos e provas que o fundamentam, o que atrai a incidência da Súmula 279 à espécie.
+Do exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 17 de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
