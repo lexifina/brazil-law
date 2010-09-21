@@ -9,3 +9,6 @@ VII - aprovar propostas de instituição dos Comitês de Bacia Hidrográfica e e
 VIII - (VETADO)
 IX - acompanhar a execução e aprovar o Plano Nacional de Recursos Hídricos e determinar as providências necessárias ao cumprimento de suas metas;
 X - estabelecer critérios gerais para a outorga de direitos de uso de recursos hídricos e para a cobrança por seu uso.
+XI - zelar pela implementação da Política Nacional de Segurança de Barragens (PNSB);
+XII - estabelecer diretrizes para implementação da PNSB, aplicação de seus instrumentos e atuação do Sistema Nacional de Informações sobre Segurança de Barragens (SNISB);
+XIII - apreciar o Relatório de Segurança de Barragens, fazendo, se necessário, recomendações para melhoria da segurança das obras, bem como encaminhá-lo ao Congresso Nacional.
