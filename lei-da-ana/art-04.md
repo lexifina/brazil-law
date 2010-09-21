@@ -18,6 +18,9 @@ XVI - prestar apoio aos Estados na criação de órgãos gestores de recursos h�
 XVII - propor ao Conselho Nacional de Recursos Hídricos o estabelecimento de incentivos, inclusive financeiros, à conservação qualitativa e quantitativa de recursos hídricos.
 XVIII - participar da elaboração do Plano Nacional de Recursos Hídricos e supervisionar a sua implementação.
 XIX - regular e fiscalizar, quando envolverem corpos d'água de domínio da União, a prestação dos serviços públicos de irrigação, se em regime de concessão, e adução de água bruta, cabendo-lhe, inclusive, a disciplina, em caráter normativo, da prestação desses serviços, bem como a fixação de padrões de eficiência e o estabelecimento de tarifa, quando cabíveis, e a gestão e auditagem de todos os aspectos dos respectivos contratos de concessão, quando existentes.
+XX - organizar, implantar e gerir o Sistema Nacional de Informações sobre Segurança de Barragens (SNISB);
+XXI - promover a articulação entre os órgãos fiscalizadores de barragens;
+XXII - coordenar a elaboração do Relatório de Segurança de Barragens e encaminhá-lo, anualmente, ao Conselho Nacional de Recursos Hídricos (CNRH), de forma consolidada.
 § 1º Na execução das competências a que se refere o inciso II deste artigo, serão considerados, nos casos de bacias hidrográficas compartilhadas com outros países, os respectivos acordos e tratados.
 § 2º As ações a que se refere o inciso X deste artigo, quando envolverem a aplicação de racionamentos preventivos, somente poderão ser promovidas mediante a observância de critérios a serem definidos em decreto do Presidente da República.
 § 3º Para os fins do disposto no inciso XII deste artigo, a definição das condições de operação de reservatórios de aproveitamentos hidrelétricos será efetuada em articulação com o Operador Nacional do Sistema Elétrico - ONS.
