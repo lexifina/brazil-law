@@ -1,0 +1,21 @@
+CAPÍTULO I
+DISPOSIÇÕES GERAIS
+CAPÍTULO II
+DOS OBJETIVOS
+CAPÍTULO III
+DOS FUNDAMENTOS E DA FISCALIZAÇÃO
+CAPÍTULO IV
+DOS INSTRUMENTOS
+Seção I
+Da Classificação
+Seção II
+Do Plano de Segurança da Barragem
+Seção III
+Do Sistema Nacional de Informações sobre Segurança de Barragens (SNISB)
+Seção IV
+Da Educação e da Comunicação
+CAPÍTULO V
+DAS COMPETÊNCIAS
+DAS INFRAÇÕES E DAS SANÇÕES
+CAPÍTULO VI
+DISPOSIÇÕES FINAIS E TRANSITÓRIAS

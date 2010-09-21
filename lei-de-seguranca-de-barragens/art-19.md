@@ -1,0 +1,2 @@
+Art. 19. Os empreendedores de barragens enquadradas no parágrafo único do art. 1º terão prazo de 2 (dois) anos, contado a partir da publicação desta Lei, para submeter à aprovação dos órgãos fiscalizadores o relatório especificando as ações e o cronograma para a implantação do Plano de Segurança da Barragem.
+Parágrafo único. Após o recebimento do relatório de que trata o caput, os órgãos fiscalizadores terão prazo de até 1 (um) ano para se pronunciarem.

@@ -1,0 +1,1 @@
+Art. 11. O órgão fiscalizador poderá determinar a elaboração de PAE em função da categoria de risco e do dano potencial associado à barragem, devendo exigi-lo sempre para a barragem classificada como de dano potencial associado alto.
