@@ -1,0 +1,7 @@
+Art. 56-B. Sem prejuízo de outras normas aplicáveis a repasse de recursos, para a assinatura do contrato de desempenho será exigido das entidades beneficiadas que sejam regidas por estatutos cujas normas disponham expressamente sobre:
+I - observância dos princípios da legalidade, impessoalidade, moralidade, publicidade, economicidade e da eficiência;
+II - adoção de práticas de gestão administrativa, necessárias e suficientes a coibir a obtenção, de forma individual ou coletiva, de benefícios ou vantagens pessoais, em decorrência da participação no respectivo processo decisório;
+III - constituição de conselho fiscal ou órgão equivalente, dotado de competência para opinar sobre os relatórios de desempenho financeiro e contábil e sobre as operações patrimoniais realizadas, emitindo pareceres para os organismos superiores da entidade;
+IV - prestação de contas a serem observadas pela entidade, que determinarão, no mínimo:
+a) a observância dos princípios fundamentais de contabilidade e das normas brasileiras de contabilidade;
+b) que se dê publicidade por qualquer meio eficaz, no encerramento do exercício fiscal, ao relatório de atividades e das demonstrações financeiras da entidade, incluindo-se as certidões negativas de débitos junto ao Instituto Nacional do Seguro Social - INSS e ao Fundo de Garantia do Tempo de Serviço - FGTS, colocando-os à disposição para exame de qualquer cidadão.
