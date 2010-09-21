@@ -3,4 +3,5 @@ I - possuírem viabilidade e autonomia financeiras;
 II - apresentarem manifestação favorável do Comitê Olímpico Brasileiro-COB ou do Comitê Paraolímpico Brasileiro, nos casos de suas filiadas e vinculadas;
 III - atendam aos demais requisitos estabelecidos em lei;
 IV - estiverem quites com suas obrigações fiscais e trabalhistas.
-Parágrafo único. A verificação do cumprimento das exigências contidas nos incisos I a IV deste artigo será de responsabilidade do INDESP.
+V - demonstrem compatibilidade entre as ações desenvolvidas para a melhoria das respectivas modalidades desportivas e o Plano Nacional do Desporto.
+Parágrafo único. A verificação do cumprimento das exigências contidas nos incisos I a V deste artigo será de responsabilidade do Ministério do Esporte.

@@ -5,6 +5,6 @@ III - doações, legados e patrocínios;
 IV - prêmios de concursos de prognósticos da Loteria Esportiva Federal, não reclamados;
 V - outras fontes.
 § 1º O valor do adicional previsto no inciso II deste artigo não será computado no montante da arrecadação das apostas para fins de cálculo de prêmios, rateios, tributos de qualquer natureza ou taxas de administração.
-§ 2º Do adicional de quatro e meio por cento de que trata o inciso II deste artigo, um terço será repassado às Secretarias de Esportes dos Estados e do Distrito Federal, ou, na inexistência destas, a órgãos que tenham atribuições semelhantes na área do desporto, proporcionalmente ao montante das apostas efetuadas em cada unidade da Federação para aplicação segundo o disposto no art. 7º.
+§ 2º Do adicional de quatro e meio por cento de que trata o inciso II deste artigo, um terço será repassado às Secretarias de Esporte dos Estados e do Distrito Federal, ou, na inexistência destas, a órgãos que tenham atribuições semelhantes na área do esporte, proporcionalmente ao montante das apostas efetuadas em cada unidade da Federação para aplicação exclusiva em jogos escolares de esportes olímpicos e paraolímpicos.
 § 3º Do montante arrecadado nos termos do § 2º, cinqüenta por cento caberão às Secretarias Estaduais e/ou aos órgãos que as substituam, e cinqüenta por cento serão divididos entre os Municípios de cada Estado, na proporção de sua população.
-§ 4º Trimestralmente, a Caixa Econômica Federal-CEF apresentará balancete ao INDESP, com o resultado da receita proveniente do adicional mencionado neste artigo.
+§ 4º Trimestralmente, a Caixa Econômica Federal - CEF apresentará balancete ao Ministério do Esporte, com o resultado da receita proveniente do adicional de que trata o inciso II deste artigo.
