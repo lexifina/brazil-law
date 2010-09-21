@@ -1,0 +1,33 @@
+D ECIS Ã O:
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado pelo Defensor Público do Estado do Espírito Santo, Thiago Piloni, em favor de Rumenigui Coelho Santana, buscando a extinção da punibilidade do paciente quanto a sua condenação pelo delito de porte ilegal de arma de fogo de uso restrito com numeração suprimida (art. 16, parágrafo único, inciso IV da Lei nº 10.826/03).
+Aponta como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC nº 148.919/ES, Relator o Ministro Napoleão Nunes Maia Filho, impetrado àquela Corte.
+Sustenta o impetrante que “a descriminalização operada pelas Leis 11.706/08 e 11.922/09 aplica-se indistintamente a todos os casos de posse irregular de arma de fogo de uso permitido. Dessa forma, aplicam-se tanto ao crime estabelecido no art. 12 quanto ao previsto no art. 16, parágrafo único, inciso IV, ambos da Lei 10.826/03, sendo irrelevante, portanto, enquadrar a conduta do paciente em uma ou outra, já que, em ambos os casos a conduta é atípica. De fato, ambos os dispositivos legais incriminam a posse de arma de fogo de uso permitido. A diferença entre os tipos consiste apenas no fato de que, no segundo, a arma apresenta numeração raspada” (fl. 6 da inicial – grifos no original).
+Argumenta, ainda, que “não há se falar em distinção entre a posse de arma de uso permitido e a posse de arma de uso permitido com numeração raspada” razão pela qual “não se deixou de abarcar as situações de armas com numeração raspada, apreendidas em situação de posse” (fls. 7/8 da inicial – grifos no original).
+Requer, liminarmente, seja declarada “extinta a punibilidade relativamente à condenação pelo art. 16, parágrafo único, inciso IV da Lei 10.826/03, imposta ao paciente, por completa atipicidade da conduta” e, no mérito, pede a confirmação da liminar requerida (fl. 11 da inicial – grifos no original).
+Examinados os autos, decido.
+Narra o impetrante, na inicial, que:
+“(...)
+O paciente foi denunciado pelo Ministério Público do Estado do Espírito Santo pela prática dos delitos descritos no art. 33 da Lei 11.343/06 e no art. 16, parágrafo único, inciso IV da Lei 10.826/03, em razão de fatos, em tese, ocorridos no dia 14 de agosto de 2008.
+A Defensoria Pública impetrou habeas corpus perante do TJES buscando, em linhas gerais, o trancamento da ação penal quanto ao delito de posse de arma de fogo de uso permitido, com numeração raspada, em razão de abolitio criminis temporalis.
+A liminar foi de pronto indeferida pelo Desembargador Relator Pedro Valls Feu Rosa, da Primeira Câmara Criminal do Tribunal de Justiça do Espírito Santo. De acordo com o entendimento do Eminente Desembargador, a abolitio criminis não atingiria armas com numeração suprimida.
+A Defensoria Pública impetrou então habeas corpus perante o Superior Tribunal de Justiça, que foi liminarmente indeferido, tendo sido aplicada a Súmula 691 do STF.
+Na sessão do dia 24 de junho de 2009, a Primeira Câmara Criminal do Tribunal de Justiça do Espírito Santo denegou definitivamente a ordem, prevalecendo os mesmos argumentos da decisão que indeferiu a liminar.
+Diante de tal quadro, a Defensoria Pública impetrou novo habeas perante o Superior Tribunal de Justiça, que teve sua ordem denegada pela Quinta Turma (...)” (fl. 2 da inicial - grifos no original).
+Eis o teor daquele julgado:
+“HABEAS CORPUS. NARCOTRAFICÂNCIA E POSSE ILEGAL DE MUNIÇÃO E ARMA DE FOGO COM NUMERAÇÃO RASPADA. INOCORRÊNCIA DE ABOLITIO CRIMINIS. CONDUTA NÃO ABRANGIDA PELOS ARTS. 30 E 32 DA LEI 10.826/03, COM REDAÇÃO DA MP 417, POSTERIORMENTE CONVERTIDA NA LEI 11.706/08. IMPOSSIBILIDADE DE TRANCAMENTO DA AÇÃO PENAL. PRECEDENTES DO STJ. PARECER DO MPF PELA CONCESSÃO DO WRIT. ORDEM DENEGADA.
+1. Com o advento da Lei 11.706/08, resultante da conversão da Medida Provisória 417/08, esta Corte firmou o entendimento de haver atipicidade apenas no concernente à conduta de posse irregular de arma de fogo de uso permitido (art. 12) no termos aclarados nos arts. 30 e 32 da Lei 10.826/03. A posse de arma de fogo ou munição para arma de fogo de uso proibido ou em desacordo com determinação legal ou regulamentar, que ensejou a condenação do paciente, é típica e não está mais abrangida pelas referidas normas.
+2. Habeas Corpus denegado, em que pese o parecer ministerial em sentido contrário”.
+Essa é a razão pela qual se insurge o impetrante neste writ.
+O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação apresentada nos autos representar manifesto constrangimento ilegal, o que não se verifica na espécie.
+Pelo que se tem na decisão proferida pela Quinta Turma do Superior Tribunal de Justiça, não se vislumbra, neste primeiro exame, nenhuma ilegalidade, abuso de poder ou teratologia que justifique o deferimento da liminar. Com efeito, o acórdão proferido por aquela Corte encontra-se motivado a justificar a formação de seu convencimento.
+Ademais, as razões invocadas pelo impetrante para o deferimento da medida excepcional possuem caráter satisfativo, pois se confundem com o mérito da impetração, o que recomenda seu indeferimento conforme reiterada jurisprudência desta Suprema Corte. Nesse sentido: HC nº 94.888/SP-MC, Relator o Ministro Menezes Direito, DJ de 12/6/08; HC nº 93.164/SP-MC, Relator o Ministro Cezar Peluso, DJ de 22/2/08; HC nº 92.737/SP-MC, Relatora a Ministra Cármen Lúcia, DJ de 29/10/07; e HC nº 85.269/RJ-MC, Relator o Ministro Eros Grau, DJ de 2/2/05, entre outros.
+Avento, ainda, a existência de precedente na Corte no sentido de que “a vacatio legis especial prevista nos artigos 30 a 32 da Lei nº 10.826/03, conquanto tenha tornado atípica a posse ilegal de arma de fogo havida no curso do prazo assinalado, não subtraiu a ilicitude penal da conduta que já era prevista no artigo 10, § 2º, da Lei nº 9.437/97 e continuou incriminada, até com maior rigor, no artigo 16 da Lei nº 10.826/03” (HC nº 90.995/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJe de 7/3/08).
+Com essas considerações, não tendo, no momento, como configurado constrangimento ilegal passível de ser afastado mediante o deferimento da liminar ora pretendida, indefiro-a.
+Estando os autos devidamente instruído com cópia da acórdão ora questionado, dispenso as informações da autoridade coatora.
+Oficie-se, contudo, ao Juízo de Direito da 7ª Vara Criminal da Comarca de Vila Velha/ES para que forneça a esta Suprema Corte cópia da sentença penal condenatória imposta ao paciente.
+Publique-se.
+Brasília, 21 de setembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
