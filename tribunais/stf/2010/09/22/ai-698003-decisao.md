@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa tem o seguinte teor:
+“REINTEGRAÇÃO DE POSSE. Ação ajuizada pela DERSA S/A, sociedade de economia mista, contra Município, tendo por objeto área situada em zona portuária e utilizada pelo segundo para o depósito e transbordo de lixo. Alegação de danos ao meio ambiente e infração à legislação alfandegária. Ilegitimidade passiva da empresa contratada para executar os serviços, uma vez que é mera detentora do imóvel pertencente à União. Razoabilidade das decisões proferidas nos autos da reintegração de posse e da ação condenatória ajuizada pelo Município, que fixaram o prazo de 180 dias para a desocupação e estabeleceram medidas para a preservação da segurança alfandegária. Relevância dos interesses conflitantes, assinalado que o Município desenvolve aquelas atividades no local, com autorização da DERSA, agravante, há vários anos. Multa diária cominada à DERSA pelo descumprimento da medida concedida ao Município na ação por ele ajuizada que não comporta redução. Agravo provido, prejudicado o regimental.” (Fls. 720)
+Nas razões do recurso extraordinário, a ora agravante alega que “o V. Acórdão do Eg. Tribunal de Justiça Local, ao manter a decisão de primeiro grau para excluir da lide a empresa ‘ENOB’, acabou por tornar a ação de Reintegração de Posse de POUCA SERVENTIA, negando a efetiva prestação jurisdicional do Estado na lesão ao direito, violando o art. 5º, XXXV e LXXVIII, da Constituição Federal” (fls. 755).
+Argúi, ainda, que a parte recorrida não apresentou o Estudo Prévio de Impacto Ambiental, com violação expressa aos arts. 5º, II; e 225, § 1º, IV, da Constituição.
+É o relatório. Decido.
+O Tribunal de origem decidiu que a ENOB não teria legitimidade passiva para a causa com base na interpretação de dispositivos do Código Civil e do Código de Processo Civil. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, pois seria necessário exame prévio de norma infraconstitucional, hipótese em que não se admite o recurso extraordinário.
+Quanto às demais alegações, concluir de maneira diversa do acórdão recorrido demandaria nova análise do conjunto fático-probatório constante dos autos, o que é inviável neste momento processual (Súmula 279 do STF).
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 22 de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
