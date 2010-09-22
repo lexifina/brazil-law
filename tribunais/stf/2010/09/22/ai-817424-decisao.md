@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“Agravo de Instrumento – Desapropriação Indireta – Fase de Execução – Realização de nova perícia – Inadmissibilidade – Ofensa à coisa julgada – Recurso Improvido” (fl. 46).
+No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, XXII e XXXIV, e 100, § 1º, da mesma Carta.
+O agravo não merece acolhida. Isso porque esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 602.832-ED/SC, Rel. Min. Sepúlveda Pertence; AI 608.978-AgR/RS, Rel. Min. Eros Grau; AI 536.022-AgR/SP, Rel. Min. Carlos Britto; AI 590.021-AgR/PI, Rel. Min. Cezar Peluso; AI 451.773-AgR/DF, Rel. Min. Gilmar Mendes.
+Além disso, para dissentir do julgado recorrido, quanto ao valor que corresponde ao justo preço da indenização ora em debate, faz-se necessário o reexame do conjunto fático-probatório dos autos, o que inviabiliza o recurso extraordinário, a teor da Súmula 279 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono decisões de ambas as Turmas desta Corte:
+“CONSTITUCIONAL. PRECATÓRIO. ART. 78 DO ADCT. ART 5º, XXIV E XXXVI. OFENSA REFLEXA. NECESSIDADE DE REEXAME DE PROVA. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - O art. 78 do ADCT, possui a mesma mens legis do art. 33 do mesmo Ato. Dessa forma, em tendo sido calculado o valor devido na data da promulgação da EC 30/2000, acrescidos dos juros legais e da correção monetária, aqueles não mais incidirão por ocasião do pagamento das parcelas sucessivas. II - Eventual ofensa ao princípio da justa indenização, previsto no art. 5º, XXIV, da Constituição Federal, se ocorrente, seria indireta, além de demandar o reexame de prova, o que atrai a incidência da Súmula 279 do STF. III - A discussão acerca dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. IV - Agravo regimental” (RE 421.616-AgR/SP, de minha relatoria, Primeira Turma).
+“AGRAVO REGIMENTAL. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. PRESERVAÇÃO DO VALOR REAL. ARTS. 184 E 5º, XXIV, DA CONSTITUIÇÃO. REEXAME DE PROVAS. MATÉRIA INFRACONSTITUCIONAL.
+O exame da alegada violação aos princípios da justa indenização e da preservação do valor real encontra-se no âmbito infraconstitucional. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição Federal.
+Impossível a revisão de decisão que considera os cálculos dos valores pagos em decorrência de decisão judicial, em face da Súmula 279.
+Agravo regimental a que se nega provimento.” (AI 477.071-AgR/DF, Rel. Min. Joaquim Barbosa, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 22 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
