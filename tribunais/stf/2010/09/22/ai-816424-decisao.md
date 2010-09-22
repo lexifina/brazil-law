@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão que decidiu pela limitação dos juros remuneratórios a 12% ao ano.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXVI e LV, e 192, § 3º, da mesma Carta.
+A pretensão recursal não merece acolhida. É que, diante do não-cabimento de recurso especial contra decisão de juizado especial, tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido. Incide, no caso, a Súmula 283 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 587.173-AgR/GO, Rel. Min. Cármen Lúcia; AI 459.061-ED/RJ, Rel. Min. Cezar Peluso; RE 403.818/RJ, Rel. Min. Carlos Velloso.
+Ressalte-se ainda que, conforme tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação aos arts. 5º, XXXVI e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido:
+“1. RECURSO. Extraordinário. Inadmissibilidade. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte. 2. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, II e XXXVI, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. As alegações de desrespeito aos postulados da legalidade, do direito adquirido e do ato jurídico perfeito, se dependentes do reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição”. (RE 551426 AgR/DF, Rel. Min. Cezar Peluso).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 22 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
