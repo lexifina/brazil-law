@@ -1,0 +1,12 @@
+DECISÃO: Vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Superior do Trabalho. Acórdão assim ementado:
+“SUBSTITUIÇÃO PROCESSUAL. SINDICATO. ART. 8º, INC. III, DA CONSTITUIÇÃO DA REPÚBLICA. AMPLITUDE. A jurisprudência da Corte, a partir do julgamento do E-RR-353.334/1997.9, firmou-se no sentido de que a substituição processual, tal como prevista no art. 8º, inc. III, da Constituição da República, abrange os direitos ou interesses individuais homogêneos, reconhecidos pelo Supremo Tribunal Federal como subespécie de interesses coletivos (RE-163231-3/SP, Ac. 2ª Turma, Rel. Min. Maurício Corrêa, DJ 29-06-2001), de modo que o sindicato tem legitimidade para atuar na qualidade de substituto processual de toda a categoria no caso em que se pretende o cumprimento de convenção coletiva de trabalho. De fato, o dispositivo em comento – art. 8º, inc. III, da Constituição da República – não faz qualquer distinção sobre associados ou não-associados, sendo específico ao assegurar a substituição processual a toda a categoria.
+Recurso de Embargos de que se conhece e a que se dá provimento”.
+Pois bem, a parte agravante sustenta violação aos incisos II, XXXV, LIV e LV do art. 5º e ao inciso III do art. 8º da Magna Carta de 1988.
+Tenho que o recurso não merece acolhida. É que o tema já foi definitivamente equacionado pelo Plenário do Supremo Tribunal Federal, no julgamento, entre outros, dos REs 193.503, 193.579, 208.983, 210.029, 211.874, 213.111 e 214.668, redator para o acórdão o ministro Joaquim Barbosa. Na oportunidade, esta nossa Corte decidiu, por maioria de votos, que o inciso III do art. 8º da Constituição Republicana assegura a mais ampla legitimação processual aos sindicatos. Legitimação que lhes permite atuar na defesa dos direitos e interesses coletivos ou individuais dos trabalhadores integrantes da categoria a que pertencem, assim na fase de conhecimento, como na liquidação ou execução.
+De mais a mais, ressalto que a jurisdição foi prestada de forma completa, embora em sentido contrário aos interesses da parte agravante, o que não caracteriza cerceamento de defesa.
+Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 22 de setembro de 2010.
+Ministro AYRES BRITTO
+Relator
