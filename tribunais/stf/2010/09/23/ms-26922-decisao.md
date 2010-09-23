@@ -1,0 +1,13 @@
+D ECIS Ã O: Vistos, etc.
+ Trata-se de mandado de segurança, aparelhado com pedido de medida liminar, impetrado pelo Sindicato dos Notários e Registradores de Minas Gerais – SINOREG/MG, contra ato do Conselho Nacional de Justiça. Ato que ordenou ao Corregedor-Geral de Justiça do Estado de Minas Gerais o cadastramento das serventias extrajudiciais ali existentes. Cadastro a ser elaborado mediante o preenchimento de formulário eletrônico pelos titulares das serventias, com informações, inclusive, da arrecadação total do cartório nos anos de 2005, 2006 e primeiro semestre de 2007.
+ 2. Pois bem, alegando estarem os dados de faturamento das serventias protegidas por sigilo, requer o impetrante a concessão da segurança para que “seja a determinação do Corregedor Nacional de Justiça, consubstanciada no aviso-circular nº 65/CGJ/2007, da Douta Corregedoria-Geral de Justiça de Minas Gerais, tornada sem efeito quanto à divulgação via 'internet' da 'arrecadação total' das serventias”.
+ 3. Continuo neste reavivar das coisas para dizer que, prestadas as informações pela autoridade tida por coatora (fls. 93/97) e ouvido o Advogado-Geral da União (fls. 72/90), indeferi a liminar (fls. 110/113). Dei, então, vista dos autos ao Procurador-Geral da República. Procurador que opinou pela denegação da segurança (fls. 127/132).
+   4. Por fim, registro que o autor, em petição de fls. 123/125, pleiteou, sucessivamente: a) a reconsideração da decisão que indeferiu a liminar; b) a concessão de “mais dez dias de prazo para aqueles representados que não remeteram as informações” requisitadas pelo Corregedor-Geral de Justiça do Estado de Minas Gerais; c) “a desistência do presente mandado de segurança, posto que, uma vez remetidas as informações, perde-se o objeto da ação”. Pois bem, tendo mantido a decisão de fls. 110/113, por seus próprios fundamentos, determinei a intimação do impetrante para ratificar, ou não, o pedido de desistência. Autor, porém, que permaneceu silente.
+   5. Feito esse aligeirado relato da causa, passo à decisão. Fazendo-o, pontuo haver perdido o objeto o presente mandado de segurança. É que, segundo expressou o próprio autor, uma vez prestadas as informações ao Corregedor-Geral de Justiça do Estado de Minas Gerais, não há como voltar ao status quo ante. Isto porque o objeto desta ação era exatamente evitar a prestação das referidas informações quanto à arrecadação total das serventias.
+ 6. Ante o exposto, julgo prejudicado o mandado de segurança, o que faço com fundamento no inciso IX do art. 21 do RI/STF.
+ Intime-se.
+ Publique-se.
+ Brasília, 23 de setembro de 2010.
+Ministro A YRES B RITTO
+Relator
+Documento assinado digitalmente
