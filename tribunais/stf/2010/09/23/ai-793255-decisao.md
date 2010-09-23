@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de agravo de instrumento interposto contra a inadmissão de recurso extraordinário que combate o acórdão assim ementado:
+“PROCESSUAL CIVIL. ADMINISTRATIVO. TAXA DE OCUPAÇÃO. EXECUÇÃO FISCAL. PRESCRIÇÃO QÜINQÜENAL. DECRETO Nº 20.910/32 E LEIS Nº 9.636/98 E 9.821/99. APLICABILIDADE.
+1. Objetiva-se na presente execução fiscal a cobrança de créditos decorrentes de taxa de ocupação em relação ao período de 1988/2000.
+2. A decisão singular, não obstante tenha reconhecido a prescrição tão-somente em relação aos créditos anteriores a novembro de 1998, ao fundamento de que por ter a taxa de ocupação natureza contratual aplica-se o Decreto nº 20.910, de 06.01.32, concluiu por extinguir a execução fiscal com fulcro no art. 618, I c/c art. 269, IV do CPC.
+3. Inexistindo lei expressa que adote critério razoável para diferenciar o prazo prescricional de que dispõe o Estado para a cobrança de seus créditos daquele de que dispõe o contribuinte para cobrar seus créditos contra a Fazenda Pública (art. 1º, do Decreto nº 20.910/32), é de se adotar, em nome do princípio da isonomia, o prazo qüinqüenal adotado no citado diploma legal.
+4. A partir da vigência da Lei nº 9.636/98, em 18.05.1998, foi instituído o prazo prescricional de cinco anos para a cobrança dos créditos patrimoniais da União, consoante se observa no art. 47 da referida lei. Em 1999 foi publicada a Lei nº 9.821/99, em vigor desde 24.08.1999, que novamente modificou o art. 47 da Lei nº 9.636/98, de forma que a taxa de ocupação passou a sujeitar-se também ao prazo decadencial de cinco anos para a sua constituição, mediante lançamento, mantido o prazo prescricional qüinqüenal estabelecido anteriormente para a cobrança de tais créditos. Posteriormente, foi editada a Lei nº 10.852/2004, que novamente alterou o art. 47 da Lei nº 9.636/98, majorando o prazo decadencial para dez anos, mantendo, no entanto, o prazo prescricional em cinco anos, a ser contado do lançamento.
+5. Cuida-se de créditos decorrentes de taxa de ocupação relativa aos anos de 1988 a 2000, constituídos em 15/10/2002 e cobrados em 29/09/2003. Neste passo, os créditos relativos aos anos de 1988 a 1998 subsumem-se ao prazo prescricional de cinco anos previsto no Decreto 20.910/32, encontrando-se, portanto, prescritos. Por outro lado, quanto aos créditos posteriores - de 1999 a 2000 - entendo que não foram os mesmos atingidos pela decadência.
+6. "In casu", verificando-se que não foram apanhados pela decadência os créditos posteriores a 1999, porque constituídos em 15/10/2002, possibilita-se à exequente a emenda da CDA para prosseguimento do feito executivo em relação aos mesmos.
+7. Apelação e Remessa Oficial parcialmente providas.” (fls. 12-13)
+No recurso extraordinário, aponta-se violação ao art. 5º, caput, da Constituição Federal.
+O recorrente aduz que deve ser aplicado ao caso dos autos o prazo prescricional de vinte anos previsto no artigo 177 do antigo Código Civil e não o prazo de cinco anos disposto no Decreto 20.910/32. (fl. 43).
+Na espécie, o acórdão recorrido assentou que, “não existindo lei expressa que adote critério razoável para diferenciar o prazo prescricional de que dispõe o Estado para a cobrança de seus créditos daquele de que dispõe o contribuinte para cobrar seus créditos contra a Fazenda Pública (art. 1º do Decreto n. 20.910/32), é de se adotar, em nome do princípio da isonomia, o prazo quinquenal adotado no citado diploma legal.” (fl. 14)
+Decido.
+É pacífica a jurisprudência desta Corte no sentido de que a discussão relativa ao prazo prescricional não possui índole constitucional, uma vez que depende de prévio exame de matéria infraconstitucional, o que é inviável em sede de recurso extraordinário, conforme disposto na Súmula 280 do STF.
+Nesse sentido, confira-se:
+CONSTITUCIONAL E TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INTERRUPÇÃO DA PRESCRIÇÃO. ART. 172, V. DO CÓDIGO CIVIL DE 1916. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE OFENSA ART. 7º, XXIX, DA CONSTITUIÇÃO FEDERAL. 1. O Supremo Tribunal Federal entende que, em casos como o dos presentes autos, o tema relativo à discussão do prazo prescricional não possui índole constitucional, porque depende de prévio exame da legislação infraconstitucional, na qual se fundou o acórdão recorrido. 2. Agravo regimental a que se nega provimento. (grifei)
+(AI-AgR 486246, Rel. Min. ELLEN GRACIE, Segunda Turma, Dje 06.08.2010)
+Cito ainda os seguintes julgados desta Corte: AI-AgR 663944, Rel. Min. Ayres Britto, Primeira Turma, DJe 06.08.2010; AI-AgR 670.779, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 22.06.2010; AI-AgR 695.982, Rel. Min Cármen Lúcia, Primeira Turma, Dje 04.06.2010.
+Ante o exposto, nego seguimento ao recurso. (art. 21, § 1º, do RISTF e do art. 557, caput, do Código de Processo Civil).
+Publique-se.
+Brasília, 23 de setembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
