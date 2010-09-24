@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discute a validade de cláusula de edital de concurso público que prevê a eliminação de candidato inscrito no cadastro de inadimplentes do SERASA (fls. 109-121).
+ No RE, alega-se ofensa ao artigo 2º e 37, I, da Constituição Federal, sustentando, em síntese, a legalidade da exigência contida no edital (fls. 132-135).
+2.  O recurso não merece prosperar. Preliminarmente, verifico que para o exame das violações alegadas, seria necessária a análise de fatos e provas (Súmula STF 279) e de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária.
+3.  Ademais, a jurisprudência desse Supremo Tribunal Federal é pacífica no sentido de que, em casos como o dos autos, onde a solução da controvérsia depende da interpretação de normas de edital de concurso público, eventual ofensa constitucional somente poderia ocorrer de forma reflexa ou indireta, o que impede o trâmite do recurso extraordinário. Nesse sentido os AI 587.237-AgR/RS, de minha relatoria, 2ª Turma, DJe 01.7.2010 e AI 767.533-AgR/MT, rel. Min. Cármen Lúcia, 1ª Turma, 12.3.2010, este último assim ementados:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. APLICABILIDADE E VALIDADE DE NORMAS DE EDITAL. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DA ANÁLISE DAS CLÁUSULAS EDITALÍCIAS E DO REEXAME DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 279 E 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta.”
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 24 de setembro de 2010.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
