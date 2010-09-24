@@ -1,0 +1,11 @@
+Despacho:
+Vistos.
+Cuida-se de pedido formulado pelo paciente para que seja reenviada ao Egrégio Tribunal de Justiça do Estado de São Paulo a comunicação sobre o julgamento do writ, vez que, a despeito de concedida a ordem de ofício, continua o paciente preso.
+A providência alvitrada pelo paciente, todavia, revela-se desnecessária, porquanto não houve por parte da Turma Julgadora determinação de revogação da prisão cautelar do paciente, mas, tão-somente, determinação para que analise o juiz competente os requisitos subjetivos necessários a eventual progressão de regime prisional em favor do preso provisoriamente condenado.
+Eis o teor do resumo do julgado, publicado no Informativo-STF nº 598, por si só auto-explicativo:
+A Turma, por maioria, desproveu recurso ordinário em habeas corpus para manter a prisão cautelar do paciente. Na espécie, preso em flagrante e condenado à pena de 5 anos e 4 meses de reclusão, em regime inicial fechado, pela prática do delito de roubo duplamente qualificado, o paciente permanecera custodiado com o advento da sentença condenatória. Reputou-se que o juízo sentenciante teria mantido a prisão em flagrante lastreado em motivação idônea, com o objetivo de resguardar a ordem pública e a aplicação da lei penal. Considerou-se o fato de o recorrente haver permanecido preso durante todo o processo como elemento a corroborar a mantença do decreto. Vencido o Min. Marco Aurélio, que provia o recurso por entender que o fundamento alusivo à necessidade de garantia da aplicação da lei penal não estaria satisfeito, pois baseado na presunção de culpa do recorrente, bem como que o simples fato de haver permanecido preso durante o processo não se prestaria como justificativa para a manutenção da cautelar. Em seguida, concedeu-se habeas corpus de ofício, ante o empate na votação, para determinar ao juízo das execuções que verifique a possibilidade de progressão de regime, tendo em vista que a prisão em flagrante teria ocorrido em 5.2.2009, portanto, passado mais de um sexto da pena não transitada em julgado. Vencidos, no ponto, os Ministros Ricardo Lewandowski, relator, e Cármen Lúcia.
+Publique-se.
+Brasília, 24 de setembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
