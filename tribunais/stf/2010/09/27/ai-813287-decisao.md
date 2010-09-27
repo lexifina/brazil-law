@@ -1,0 +1,23 @@
+1.  Trata-se de agravo de instrumento de decisão que, nos autos de ação de cobrança, negou provimento ao recurso de apelação da parte recorrente, na qual os agravados pleiteiam a restituição de valores despendidos em contrato de financiamento para construção de rede de energia elétrica, visando ao acesso de imóveis rurais de suas propriedades.
+2.  Preliminarmente, a parte recorrente alega no RE ofensa aos artigos 5º, LV, e 93, IX, da CF. Quanto à questão de fundo, aponta afronta aos artigos 5º, XXXVI, e 175 da CF. E requer, ao final, que seja extinto o feito sem julgamento do mérito por ausência de interesse de agir da parte recorrida.
+3.  Ressalto que a preliminar levantada pela parte, relativa ao reexame do julgamento proferido em sede de embargos de declaração, para fins de prequestionamento, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade à Constituição Federal. Veja-se o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002, o qual assentou em sua ementa:
+“CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO: ALEGAÇÃO DE OFENSA AO DEVIDO PROCESSO LEGAL E DE QUE O ACÓRDÃO NÃO ESTARIA FUNDAMENTADO. C.F., arts. 5º, II, XXXV, LIV e LV, e 93, IX.
+I. – Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional.
+II. – Decisão contrária ao interesse da parte não configura negativa de prestação jurisdicional (...)”.
+4.  No que tange à suposta ofensa ao artigo 93, IX, da CF/88, verifico que o acórdão contém motivação suficiente e adequada. O fato de ter sido contrário aos interesses da parte não configura ofensa ao referido dispositivo constitucional. Nesse sentido, confiram-se os seguintes julgados: RE 535.315-AgR-ED/SP, de minha relatoria, 2ª Turma, unânime, DJe 22.05.2009; AI 557.074-AgR/SC, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 22.06.2007.
+ Sobre o assunto, ressalto que esta Corte tem o seguinte entendimento: “o que a Constituição exige, no inc. IX, do art. 93, é que o juiz ou o tribunal dê as razões de seu convencimento, não se exigindo que a decisão seja amplamente fundamentada, extensamente fundamentada, dado que a decisão com motivação sucinta é decisão motivada” (RE 430.637-AgR/PR, rel. Min. Carlos Velloso, 2ª Turma, unânime, DJ 23.09.2005). Recentemente, esse posicionamento foi reafirmado pelo Pleno deste Tribunal, no julgamento do AI 791.292-QO/PE, rel. Min. Gilmar Mendes, por maioria, sessão de 23.6.2010, ao reconhecer a existência de repercussão geral sobre o tema.
+ Assevero, ainda, que a rejeição dos embargos de declaração não impede a apreciação, neste Tribunal, da matéria constitucional omitida pelo aresto atacado. Nesse sentido: AI 317.281-AgR/RS, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 11.10.2001, cujo trecho da ementa transcrevo, na parte que interessa à solução da controvérsia:
+“-Prestação jurisdicional: motivação suficiente: ausência de nulidade.
+O que se espera de uma decisão judicial é que seja fundamentada (CF, art. 93, IX), e não que se pronuncie sobre todas as alegações deduzidas pelas partes.
+II - Recurso extraordinário: omissão não suprida em julgamento de embargos declaratórios: prequestionamento: Súmula 356.
+A recusa do órgão julgador em suprir omissão apontada pela parte através da oposição pertinente dos embargos declaratórios não impede que a matéria omitida seja examinada pelo STF”.
+5.  Quanto ao mérito, o recurso também não merece prosperar, uma vez que o acórdão recorrido decidiu a questão dos autos com fundamento em cláusulas contratuais (Súmula STF 454), na legislação infraconstitucional aplicável à espécie e nos documentos acostados aos autos (Súmula STF 279).
+ A respeito do tema, vejam-se, em casos similares, o RE 545.802/RS, rel. Min. Cezar Peluso, DJe 26.10.2009; o AI 765.584-RS, rel. Min. Cármen Lúcia, DJe 04.09.2009; e o AI 790.000/RS, Rel. Min. Dias Toffoli, DJe 26.05.2010.
+ Aponto, ainda, o AI 603.792-AgR/RS, rel. Min. Gilmar Mendes, 2ª Turma, unânime, DJe 11.04.2008, assim ementado:
+“ Agravo regimental em agravo de instrumento. 2. Financiamento. Energia elétrica em propriedade rural. Controvérsia que envolve interpretação da legislação infraconstitucional e de cláusula contratual. Aplicação da Súmula 454 do STF. Ofensa reflexa à CF/88. 3. Agravo regimental a que se nega provimento”.
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 27 de setembro de 2010.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
