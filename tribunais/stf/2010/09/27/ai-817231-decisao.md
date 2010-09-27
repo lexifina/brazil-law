@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E TRIBUTÁRIO. ART. 195, INC. I, DA CONSTITUIÇÃO DA REPÚBLICA (REDAÇÃO ORIGINÁRIA). SENTIDO DO TERMO EMPREGADORES. JULGADO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 2ª Região:
+“TRIBUTÁRIO. FINSOCIAL. COFINS. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. SUJEITO PASSIVO. EMPRESA QUE NÃO POSSUI EMPREGADOS. ART. 195, I, DA CF/88. EXIGIBILIDADE DAS CONTRIBUIÇÕES.
+A contribuição social sobre o lucro e a COFINS são contribuições para a seguridade social, previstas no artigo 195, da Constituição. A alusão a pessoas jurídicas no artigo 1º da Lei 7.689/88 não é incompatível com a referência a empregador no inciso I do artigo 195 da Carta Magna, inclusive em sua redação original, antes da Emenda Constitucional 20/98. Tendo em vista que a seguridade social é financiada por toda a sociedade, de forma direta e indireta, como dispõe a própria constituição Federal (princípio da universalidade do custeio), a expressão 'empregador' contida no dispositivo constitucional mencionado não deve ser interpretada de forma literal, mas de forma ampla, de modo a alcançar todas as empresas. A Emenda Constitucional nº 20/98 tão somente reforçou a real intenção do legislador constituinte inserindo na redação do inciso I do art. 195, além do empregador, a empresa e a entidade a ela equiparada na forma da lei.
+O fato de a empresa não possuir empregados em seus quadros não afasta a hipótese de incidência da contribuição social sobre o faturamento e o lucro, uma vez que deve ser observado o princípio da equidade na forma de participação no custeio (Carta Magna, art. 194, V), cabendo destacar que a hipótese de incidência da contribuição repousa sobre o faturamento e o lucro (Carta Magna, art. 195, I) sendo irrelevante a inexistência de empregados” (fl. 304 – grifos nossos).
+3. No recurso extraordinário, a Agravante afirma que o Tribunal a quo teria contrariado o art. 195, inc. I, da Constituição da República (redação originária).
+Assevera que, “até o advento da EC n. 20/98, não havia permissivo constitucional que desse amparo à exigência das aludidas contribuições sociais das empresas que não dispõem de empregados em seu quadro” (fl. 341).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a harmonia do julgado recorrido com a jurisprudência do Supremo Tribunal Federal (fls. 388-402).
+A Agravante sustenta a presença dos requisitos de admissibilidade do recurso extraordinário.
+Examinada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. Conforme consignado na decisão agravada, o julgado recorrido está em harmonia com a jurisprudência consolidada no Supremo Tribunal Federal quanto ao sentido do termo empregadores constante no inciso I do art. 195 da Constituição da República (redação originária):
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. EMPRESA SEM EMPREGADOS. INCIDÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 402.808-AgR, de minha relatoria, Primeira Turma, DJe 7.12.2007).
+“Agravo regimental em recurso extraordinário. 2. Recurso que não demonstra o desacerto da decisão agravada, proferida em consonância com entendimento desta Corte. 3. Cofins e Contribuição social sobre o lucro líquido. Empresa sem empregados. Art. 195, I, da Constituição Federal. Incidência. Precedentes. 4. Agravo regimental a que se nega provimento” (RE 310.945-AgR, Rel. Min. Gilmar Mendes, DJ de 3.3.2006 – grifos nossos)
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. LEI N. 7.689/98. ARTIGO 195, I, DA CB/88. REDAÇÃO ANTERIOR À VIGÊNCIA DA EC 20/98. REFERÊNCIA A EMPREGADOR. PESSOA JURÍDICA SEM EMPREGADOS. EXIGIBILIDADE DA CONTRIBUIÇÃO. 1. O Supremo Tribunal Federal fixou entendimento no sentido de que o vocábulo "empregador", inserido na redação original do artigo 195, I, da Constituição do Brasil, compreende a pessoa jurídica empregadora em potencial. Precedentes. Agravo regimental a que se nega provimento” (RE 468.628-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 23.5.2008 – grifos nossos).
+No mesmo sentido: RE 530.060, Rel. Min. Gilmar Mendes, DJ 25.6.2007; RE 390.093, Rel. Min. Marco Aurélio, DJ 19.3.2007; RE 249.841-AgR, Rel. Min. Ellen Gracie, DJ 5.5.2006; RE 442.725-AgR, Rel. Min. Cezar Peluso, DJ 1º.7.2005; RE 364.215-AgR, Rel. Min. Carlos Velloso, DJ 3.9.2004, entre outros.
+7. Não há, pois, o que prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 27 de setembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
