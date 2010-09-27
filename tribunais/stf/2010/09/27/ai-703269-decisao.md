@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a e c) de acórdão do Tribunal Superior do Trabalho (fls. 312):
+"AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. BANCÁRIO - HORAS EXTRAS - CARGO DE CONFIANÇA. AJUDA-ALIMENTAÇÃO – INTEGRAÇÃO AO SALÁRIO. DAS MULTAS CONVENCIONAIS. Nega-se provimento a agravo de instrumento que visa liberar recurso despido dos pressupostos de cabimento. Agravo desprovido."
+Nas razões do recurso extraordinário, indica-se violação ao disposto nos arts. 5º, II e LV, e 7º, XIV, da Constituição federal.
+É o relatório. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Igualmente, a análise da apontada violação do art. 5º, II, da Constituição demandaria o exame prévio da legislação infraconstitucional. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+Ademais, a controvérsia acerca da análise da aplicação da multa requer sejam previamente examinadas as regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. Isto porque, verificar se o recurso possuía ou não conteúdo protelatório é matéria de índole processual, que se resolve à luz das normas constantes do Código de Processo Civil. A jurisprudência do Supremo Tribunal Federal concluiu que essa circunstância inviabiliza o processamento do recurso extraordinário (cf., entre outros, AI 614.139-AgR, rel. min. Sepúlveda Pertence, DJ de 13.04.2007; RE 371.123, rel. min. Cezar Peluso, DJ de 30.09.2004 e AI 585.461, minha relatoria, DJ de 25.05.2006).
+Por outro lado, o recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 7º, XIV, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Finalmente, em relação à interposição do apelo extraordinário com base no art. 102, III, alínea c, verifico que o acórdão recorrido em momento algum julgou válida lei ou ato de governo local contestado em face da Constituição.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 27 de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
