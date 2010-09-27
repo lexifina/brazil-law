@@ -1,0 +1,13 @@
+1.  O Tribunal Regional Federal da 3ª Região afastou as restrições impostas pelas Ordens de Serviços nºs 600 e 612/98 e reconheceu o direito adquirido do autor à conversão do tempo de serviço especial para comum, para fins de aposentadoria (fls. 112-117).
+2.  Diante desse acórdão, o Instituto Nacional do Seguro Social – INSS, aviou o presente recurso extraordinário (fls. 137-148), alegando ofensa ao art. 5º, XXXVI, da Constituição Federal ante a inexistência de direito à conversão do tempo de serviço porquanto em 25.05.98 não havia implementado todos os requisitos para a concessão da aposentadoria por tempo de serviço.
+3.  Inadmitido o recurso (fl. 154), subiram os autos em virtude do provimento do AI 467.639/SP.
+4.  O Ministério Público Federal opinou pelo não- conhecimento do recurso extraordinário (fls. 178-182).
+5.  O Tribunal a quo reconheceu o direito adquirido à conversão do tempo de serviço especial em comum, a partir do exame de normas ordinárias: Decretos Leis 9.711/98; 8.213/91, art. 57 e 9.032/95; Ordens de Serviço 600 e 612; e Medida Provisória 1.663-13.
+6.  O acórdão impugnado não merece reforma, pois o recorrido trabalhou em condições especiais à época em que a legislação permitia a contagem qualificada do tempo de serviço para efeito de aposentadoria. Logo, tal direito se encontra incorporado a seu patrimônio jurídico. E, para divergir dessa conclusão, far-se-ia necessário o exame da legislação infraconstitucional, o que é defeso nesta fase recursal. Nesse sentido menciono os seguintes julgados de minha relatoria: RE 571.779/SP, DJe 17.12.2008; e RE 578.471, DJe 29.05.2009.
+ Ademais, quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Lei Maior, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+7.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 27 de setembro de 2010.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
