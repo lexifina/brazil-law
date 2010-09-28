@@ -1,0 +1,28 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão de cuja emenda destaco:
+ “APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA SECURITÁRIA. DPVAT. ÔNUS PROVA. RÉU. ART. 333, INC. II, CPC. INVALIDEZ COMPROVADA. PERCENTUAL DE INCAPACIDADE. IRRELEVÂNCIA. RESOLUÇÃO DO CNSP. QUANTUM INDENIZATÓRIO” (fl. 200).
+ Os embargos de declaração opostos (fls. 204-209) foram rejeitados (fls. 214-219).
+2.  Nas razões do RE, sustenta-se, preliminarmente, a nulidade do acórdão que julgou os embargos de declaração, em virtude da suposta ofensa ao artigo 5º, LV, da Constituição Federal. No mérito, aponta que o acórdão que julgou a apelação também teria violado o artigo 5º, LV, da CF/88 porque dispensou a produção de prova pericial, julgando a lide com fundamento apenas em laudo de invalidez produzido sem o crivo do contraditório (fls. 254-264).
+3.  Ressalto que a preliminar levantada pela parte, relativa ao reexame do julgamento proferido em sede de embargos de declaração, para fins de prequestionamento, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade à Constituição Federal. Veja-se o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002, o qual assentou em sua ementa:
+“CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO: ALEGAÇÃO DE OFENSA AO DEVIDO PROCESSO LEGAL E DE QUE O ACÓRDÃO NÃO ESTARIA FUNDAMENTADO. C.F., arts. 5º, II, XXXV, LIV e LV, e 93, IX.
+I. – Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional.
+II. – Decisão contrária ao interesse da parte não configura negativa de prestação jurisdicional (...)”.
+ A rejeição dos embargos de declaração não impede a apreciação, neste Tribunal, da matéria constitucional omitida pelo aresto atacado. Nesse sentido: AI 317.281-AgR/RS, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 11.10.2001, cujo trecho da ementa transcrevo, na parte que interessa à solução da controvérsia:
+“-Prestação jurisdicional: motivação suficiente: ausência de nulidade.
+O que se espera de uma decisão judicial é que seja fundamentada (CF, art. 93, IX), e não que se pronuncie sobre todas as alegações deduzidas pelas partes.
+II - Recurso extraordinário: omissão não suprida em julgamento de embargos declaratórios: prequestionamento: Súmula 356.
+A recusa do órgão julgador em suprir omissão apontada pela parte através da oposição pertinente dos embargos declaratórios não impede que a matéria omitida seja examinada pelo STF”.
+4.  No que tange à suposta violação ao artigo 5º, LV, da Constituição Federal, ocorrida no acórdão que julgou a apelação, o presente recurso extraordinário também não merece prosperar. Quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Lei Maior, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+ Por último, assevero que há julgados desta Corte no sentido de que a decisão que reputa desnecessária determinada diligência probatória, desde que apoiada em outras provas, não ofende a Constituição Federal. Nesse sentido, AI 153.467-AgR/MG, rel. Min. Celso de Mello, 1a Turma, unânime, DJ 18.05.2001; e AI 606.815-AgR/SP, rel. Min. Carlos Britto, 1ª Turma, unânime, DJe 29.08.2008, cujos acórdãos estão assim ementados:
+“Agravo de instrumento - cerceamento de defesa em face do julgamento antecipado da lide - inocorrência - hipótese que não envolve a valoração jurídica da prova, mas evidente pretensão ao reexame e à interpretação do acervo probatório - impossibilidade - súmula 279/STF - ausência de ofensa direta à Constituição - recurso de agravo improvido.
+- A decisão judicial que considera desnecessária a realização de determinada diligência probatória, desde que apoiada em outras provas e fundada em elementos de convicção resultantes do processo, não ofende a cláusula constitucional que assegura a plenitude de defesa. Precedentes.
+- A via excepcional do recurso extraordinário não permite que nela se proceda ao reexame do acervo probatório produzido perante as instâncias ordinárias. Precedentes”.
+.................................................................................
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA ACERCA DA NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. QUESTÃO RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA ÀS GARANTIAS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA. INEXISTÊNCIA.
+Não caracteriza cerceamento de defesa a decisão que, motivadamente, indefere determinada diligência probatória. Precedentes: AIs 382.214, da relatoria do ministro Celso de Mello; e 114.548-AgR, da relatoria do ministro Sepúlveda Pertence.
+Agravo desprovido”.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento, com fundamento no art. 557, caput, do Código de Processo Civil.
+ Publique-se.
+ Brasília, 28 de setembro de 2010.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
