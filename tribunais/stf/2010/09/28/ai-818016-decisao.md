@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. REAJUSTE DE SOLDO E DA GRATIFICAÇÃO DE ATIVIDADE POLICIAL. APLICAÇÃO DA LEGISLAÇÃO ESTADUAL: OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça da Bahia:
+“APELAÇÃO CÍVEL – LEIS ESTADUAIS Nº 7.145/97, 7.622/00 E 8.889/03 – GRATIFICAÇÃO POR ATIVIDADE POLICIAL (GAP) – REAJUSTE NA PROPORÇÃO DO AUMENTO DEFERIDO AO SOLDO (§ 1º DO ART. 7º DA LEI Nº 7.145/97). PROVIMENTO DO APELO.
+I - É garantido o reajuste na GAP no mesmo percentual do aumento concedido no soldo, tendo em vista que as gratificações devem ser corrigidas nas mesmas proporções e épocas.
+II - Não se há de falar em usurpação de funções do Poder Legislativo pelo Poder Judiciário, quando, além de haver previsão legal, a matéria foi regulamentada por decreto.
+III - Observância da prescrição quinquenal das dívidas contra a Fazenda Pública, conforme Decreto 20.910/32.
+IV - PROVIMENTO PARCIAL DO APELO” (fl. 169).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 280 do Supremo Tribunal Federal (fls. 276-280).
+4. O Agravante alega que teriam sido contrariados os arts. 5º, inc. XXXV e LV, 7º, inc. IV, 37, inc. X, e 93, inc. IX, da Constituição da República.
+Afirma que o acórdão recorrido seria nulo, por não se ter manifestado sobre todas as questões trazidas nos recursos interpostos, e que, por outro lado, a decisão seria extra petita, por ter excedido o quanto pedido pelos Agravados.
+Assevera:
+“[M]anifestamente inadmissível o acolhimento da pretensão dos Recorridos, que, de forma aparentemente singela, pretendem subverter a ordem constitucional existente ao requerer, subliminarmente, que o Judiciário usurpe competência legislativa da Assembléia Legislativa do Estado da Bahia e competência de iniciativa do Governador do Estado. (...) As Constituições Federal e Estadual asseguram a independência dos Poderes, a competência legiferante do Poder Legislativo, a necessidade de lei para aumento de remuneração dos servidores públicos (civis ou militares) e a iniciativa privativa para o chefe do Poder (in casu o Governador), razão pela qual, absolutamente inconstitucional a pretensão dos Autores” (fls. 221-222).
+Argumenta que “a expressão 'vencimentos', como bem atesta Celso Antônio Bandeira de Mello, abrange exclusivamente o vencimento básico e as vantagens permanentes. Assim, a partir da análise do dispositivo em comento, verifica-se que os vencimentos dos Recorridos não podem ser compreendidos apenas como a parcela soldo, mas também as gratificações que junto àquele compõem os vencimentos dos policiais militares” (fl. 225).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Inicialmente, cumpre afastar a alegação de nulidade do acórdão por contrariedadade ao art. 93, inc. IX, da Constituição da República. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+E, tal como se firmou na jurisprudência do Supremo Tribunal: “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+6. Razão de direito não assiste ao Agravante.
+7. O Tribunal a quo decidiu a controvérsia de acordo com a legislação infraconstitucional. Assim, a alegada ofensa à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE HABILITAÇÃO POLICIAL MILITAR - GHPM. O TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA DECIDIU A CONTROVÉRSIA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL PERTINENTE (LEI 7.145/97). ALEGAÇÃO DE OFENSA AO INCISO XXXV DO ART. 5º E AO INCISO IX DO ART. 93 DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário, nos termos da Súmula 280 desta nossa Corte. 2. A jurisdição foi prestada de forma completa, em acórdão devidamente fundamentado, embora em sentido contrário aos interesses da parte recorrente. 3. Agravo regimental desprovido” (AI 764.981-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJ 7.5.2010).
+“ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL. INTERPRETAÇÃO DA LEI ESTADUAL 7.145/97. SÚMULA STF 280. 1. O Tribunal a quo, interpretando legislação estadual que trata da matéria, entendeu ser devida a Gratificação de Atividade Policial - GAP. 2. Para se concluir, como pretende a parte agravante, pelo caráter específico da gratificação em análise, necessário seria o reexame de legislação local, o que é defeso nesta via extraordinária (Súmula STF 280). Precedentes. 3. Agravo regimental improvido” (AI 744.086-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 18.9.2009).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR. LEI ESTADUAL N. 7.145/97. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 708.713-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009).
+“RECURSO. Extraordinário. Inadmissibilidade. Servidor Público. Militar. Vencimentos. Reajuste. Verba indevida. Interpretação de normas locais. Ofensa constitucional indireta. Agravo regimental não provido. Aplicação da súmula nº 280. Não cabe RE que tenha por objeto alegação de ofensa indireta à Constituição por má aplicação de direito local” (AI 391.293-AgR, Rel. Min. Cezar Peluso, Primeira Turma, DJ 26.9.2003).
+Não há, pois, o que prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de setembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
