@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de habeas corpus, sem pedido de liminar, impetrado por Eliseu Júlio, em causa própria.
+O impetrante não apontou qualquer autoridade coatora. Também não juntou nenhuma decisão, acórdão ou outro documento a subsidiar sua pretensão. Pelo que se extrai da inicial, a presente demanda objetiva a revogação da prisão preventiva do paciente, sob o argumento de que ele é primário, tem bons antecedentes, residência fixa e ocupação lícita.
+É o relatório.
+Decido.
+Embora o habeas corpus não exija maiores formalidades, podendo ser impetrado por qualquer pessoa, ainda que sem capacidade postulatória, é imprescindível que a inicial satisfaça, pelo menos, requisitos mínimos de cognoscibilidade, como a indicação da autoridade coatora, a exposição, mesmo simplória, dos fundamentos fáticos e jurídicos, e a especificação do pedido.
+Sucede que o impetrante, como dito, sequer apontou qual seria a autoridade coatora, tampouco juntou qualquer decisão - seja de primeira instância, seja de segundo grau, seja, ainda, de tribunal superior – a suprir essa omissão.
+Nesse cenário, não é possível verificar sequer se os argumentos lançados na inicial já foram submetidos à apreciação das instâncias ordinárias e de tribunal superior, nem se esta Corte é competente para o processo e julgamento do feito.
+Por essas razões, nego seguimento ao pedido, com apoio no art. 38 da Lei 8.038/1990 e no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+Oficie-se à Defensoria Pública de Minas Gerais (com cópia da inicial e desta decisão), a fim de que, se for o caso, seja impetrado outro habeas corpus, devidamente instruído, fundamentado e dirigido ao órgão jurisdicional competente.
+Publique-se e intimem-se.
+Brasília, 28 de setembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
