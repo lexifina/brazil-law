@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“Apelação – Prefeitura de Santos - reenquadramento, Leis Complementares 162/95 e 214/96 – diferenças decorrentes da avaliação de desempenho – juros devem ser estabelecidos em 0,5 % a.m a contar da citação.
+Provimento parcial aos recursos Oficial e da Municipalidade.
+Recurso da autora não provido” (fl. 59).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, I, 30, 37, caput, X e XIV, e 169 da mesma Carta.
+O agravo não merece acolhida. Isto porque, os dispositivos constitucionais apontados como violados não foram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios, com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. Nesse sentido, anote-se:
+“PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA. SÚMULA 287 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 e 356 DO STF. NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO.INTERPOSIÇÃO PELA ALÍNEA "C" DO INCISO III, DO ART. 102 DA LEI MAIOR. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - As razões do recurso não infirmam os fundamentos da decisão agravada, o que atrai a incidência da Súmula 287 do STF. II - Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. III - A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. IV - O acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição. V - Recurso Protelatório. Aplicação de multa. VI - Agravo regimental improvido” (AI 735.676-AgR/DF, de minha relatoria).
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 28 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
