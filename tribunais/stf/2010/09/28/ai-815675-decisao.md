@@ -1,0 +1,19 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado, no que importa:
+“ADMINISTRATIVO. MANDADO DE SEGURANÇA. DECADÊNCIA. ATOS SUCESSIVOS. PRAZOS RENOVADOS. PRELIMINAR. REJEIÇÃO. PROFESSOR APOSENTADO. PROVENTOS. AULAS SUPLEMENTARES INCORPORADAS. REDUÇÃO. ILEGALIDADE. DIREITO ADQUIRIDO. VIOLAÇÃO. LÍQUIDEZ E CERTEZA. EXISTÊNCIA. COMPROVAÇÃO(...)” (fl. 90).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 5º, XXXV, 37, XIV, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. O Tribunal de origem, ao apreciar a segurança pleiteada, decidiu a causa, conforme se vê de trecho do acórdão recorrido, nos seguintes termos:
+“A ilegalidade do ato é patente, pois contraria o direito adquirido e a irredutibilidade de vencimentos, ambos consagrados pela Constituição Federal.
+Além disso, vai de encontro a Lei Estadual nº 4.694/87, que estabeleceu em seu artigo 11:
+“ Os docentes e especialistas que, durante três anos seguidos ou sei interpolados, tiverem ministrado aulas extraordinárias, terão assegurado o direito de incorporarem ao vencimento, para efeito de aposentadoria, a média total anual de aulas”
+No caso sub judice, através dos documentos de fls. 13/22, a impetrante comprovou que ministrou aulas suplementares, conforme determina o artigo 11 da Lei Estadual Supra citada, fazendo jus, portanto, ao direito de incorporar tais aulas aos proventos da aposentadoria.
+Tal direito está também garantido pela Constituição Estadual da Bahia, no artigo 15, das Disposições Transitórias:
+“Art. 15. Aos docentes e especialistas de educação que durante três anos seguidos, ou sei interpolado, tenham ministrado aulas suplementares e que tenham sido aposentados depois da data da publicação da Lei nº 4.694/87, fica assegurado o direito aos proventos da sua aposentadoria a media total anual de aulas ministradas”
+Desta forma, observa-se que a irresignação da impetrante tem procedência, porque o direito de ver incorporadas as aulas suplementares, nos proventos da aposentadoria, encontra-se em total consonância com a legislação em vigor, acima transcrita(...)” (fl. 95-96).
+Verifica-se, pois, que o acórdão recorrido dirimiu a questão com base na análise da legislação local (Lei Estadual 4.694/87 e Constituição do Estado da Bahia). Assim, para se chegar à conclusão contrária à adotada no acórdão, faz-se necessário o exame da legislação infraconstitucional aplicável à espécie. A afronta à Constituição, se ocorrente, seria indireta, o que inviabiliza o processamento do apelo extraordinário (Súmula 280). Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE HABILITAÇÃO POLICIAL MILITAR - GHPM. O TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA DECIDIU A CONTROVÉRSIA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL PERTINENTE (LEI 7.145/97). ALEGAÇÃO DE OFENSA AO INCISO XXXV DO ART. 5º E AO INCISO IX DO ART. 93 DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário, nos termos da Súmula 280 desta nossa Corte. 2. A jurisdição foi prestada de forma completa, em acórdão devidamente fundamentado, embora em sentido contrário aos interesses da parte recorrente. 3. Agravo regimental desprovido” (AI 764.981-AgR/BA, Rel. Min. Ayres Britto, Primeira Turma)
+Por fim, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. O mencionado dispositivo constitucional não impõe que seja a decisão exaustivamente fundamentada, mas sim o que se busca é que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 28 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
