@@ -1,0 +1,15 @@
+D ECIS Ã O: Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+“Administrativo. Policiais Civis pleiteando incorporação aos vencimentos de gratificação específica, promoção e diferenças correlatas com base na Lei Estadual nº 2.990/98. Não faz jus à concessão e incorporação da gratificação especial prevista na Lei estadual nº 2.990/98 o funcionário que não preenchia os requisitos exigidos nos seus artigos 6º, §3º e 7º, §1º além do que a própria Lei Estadual nº 2.990/98, no seu artigo 21, submeteu a concessão de promoção a critérios de merecimento a serem regulados pelo Poder Executivo, o que não se efetivou em virtude da sua revogação pela Lei Estadual nº 3.856/01. Revogação da lei antes de expirado o prazo para para incorporação. Direito Intertemporal. Inexistência de direito adquirido a regime jurídico anterior. Ausência de violação à garantia constitucional de irredutibilidade de vencimentos. Precedentes do TJRJ. Desprovimento da apelação.” (fls. 293)
+Sustentam os recorrentes, com base no art. 102, III, a, ter havido violação ao disposto nos artigos 5º, XXXVI; 37, caput e XV, da Constituição Federal. Alegam, em síntese, que possuem direito adquirido a incorporação da gratificação instituída pela Lei nº 2.990/1998, revogada pela Lei nº 3.586/2001 sob pena de infringir-se o princípio da irredutibilidade de vencimentos.
+Decido.
+Não assiste razão aos recorrentes.
+O acórdão recorrido está em consonância com a jurisprudência do Supremo Tribunal Federal que firmou o entendimento de que não existe direito adquirido à regime jurídico. Nesse sentido, destaca-se o seguinte julgado:
+“CONSTITUCIONAL. MEMBRO DO MINISTÉRIO PÚBLICO. QUINTOS. INCORPORAÇÃO. NOMEAÇÃO NA MAGISTRATURA. VANTAGEM NÃO PREVISTA NO NOVO REGIME JURÍDICO (LOMAN). INOVAÇÃO DE DIREITO ADQUIRIDO. INEXISTÊNCIA. 1. O Supremo Tribunal Federal já pacificou entendimento de que descabe alegar direito adquirido a regime jurídico. Precedentes. 2. Preservação dos valores já recebidos em respeito ao princípio da boa-fé. Precedentes. 3. Agravo regimental parcialmente provido.” (AI-AgR 410.946/DF, Rel. Ellen Gracie, DJe 7.5.2010)
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO INATIVO. REESTRUTURAÇÃO DE CARREIRA. CÁLCULO DE GRATIFICAÇÃO DE PRODUTIVIDADE. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI-AgR 747.988/RJ, Rel. Cármen Lúcia, DJe 8.9.2008)
+No mesmo sentido, cito os seguintes precedentes que tratam de casos análogos ao do presente recurso: AI 621.712/DF, Rel. Gilmar Mendes, DJe 14.9.2007; RE-ED 561.743/AM, Rel. Ricardo Lewandowski, DJe 25.6.2010; RE-AgR 62.029/MG, Rel. Eros Grau, DJe 2.2.2010 e RE-AgR 491.232/GO, Rel. Cármen Lúcia, DJe 2.10.2009.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF).
+Publique-se.
+Brasília, 28 de setembro de 2010.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
