@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1) AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 5º, CAPUT, E 7º, INC. X, DA CONSTITUIÇÃO DA REPÚBLICA: INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2) ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. II E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“Pensões retidas por ausência de recadastramento. Conduta revestida de legalidade. Ônus da prova que compete à autora. Inexistência de relação de consumo. Banco que somente repassa valores. Inexistência de obrigação de indenizar. Ação parcialmente procedente. Recurso não provido” (fl. 197).
+3. No recurso extraordinário, a Agravante alega que o Tribunal a quo teria contrariado os arts. 5º, caput, inc. II e LV, e 7º, inc. X, da Constituição da República.
+Sustenta que teria havido “total inobservância (...) ao acervo probatório produzido nos autos – vulnerando, destarte, o princípio da isonomia que o art. 5º, 'caput', da CF consagra – como, também, a ratificação (...) [das] reiteradas vulnerações perpetradas pelo IPESP aos mandamentos insculpidos [nos arts. 5º, inc. II, e 7º, inc. X, da Constituição da República]” (fls. 266-267).
+Argumenta que “a leitura dos autos revela a confissão da Nossa Caixa sobre a elaboração dos recadastramentos efetuados pela recorrente (fl. 38, § 3º)” (fl. 267).
+Assevera que “as atribuições da Nossa Caixa não se limitavam àquele recadastramento, mas, também, à abertura e operacionalização da conta corrente mantida pela recorrente, daí se evidencia que a relação entre ambas se submetia à regência do art. 14 do Código de Defesa do Consumidor – mas, jamais, (...) às ordenações pertinentes ao direito público” (fl. 269).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de contrariedade direta à Constituição da República (fls. 284-285).
+A Agravante reitera os argumentos formulados no recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. Os arts. 5º, caput, e 7º, inc. X, da Constituição da República não foram objeto de debate e decisão prévios no Tribunal de origem. Tampouco foram objeto dos embargos de declaração opostos, de modo a comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+“A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário” (AI 413.963-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 1º.4.2005).
+7. O Supremo Tribunal Federal firmou o entendimento de que a alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República, se dependente do exame de legislação infraconstitucional – na espécie vertente, de dispositivos do Código de Processo Civil –, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INDEFERIMENTO DE PROVA PERICIAL. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 759.089-AgR, de minha relatoria, Primeira Turma, DJe 29.4.2010).
+“RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+8. Ademais, a alegada contrariedade ao art. 5º, inc. II, da Constituição da República esbarra no óbice da Súmula n. 636 do Supremo Tribunal Federal, que dispõe que “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+9. Nada há, pois, a prover quanto às alegações da Agravante.
+10. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de setembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
