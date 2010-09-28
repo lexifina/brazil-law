@@ -1,0 +1,11 @@
+Decisão: Vistos, etc.
+Trata-se de habeas corpus em que se alega negativa de prestação jurisdicional por parte do Ministro relator da extradição 1167.
+2. Pois bem, diz o impetrante que a autoridade apontada como coatora não apreciou pedidos formulados pela defesa, em “questão de ordem”, agitada no pleito extradicional. Mais: sustenta que, antes de enfrentar os requerimentos defensivos, optou o Ministro relator pela inclusão do feito na pauta de julgamentos do Plenário deste Supremo Tribunal Federal. Daí o pedido de concessão da ordem, formulado para que se determine ao relator da extradição 1167 o exame das condições de viabilidade do pedido extradicional, antes mesmo do julgamento em Sessão Plenária.
+3. Feita esta síntese do pedido, decido. Fazendo-o, anoto, de saída, a firme jurisprudência deste Supremo Tribunal Federal no sentido da inadmissibilidade de habeas corpus contra ato de Ministro desta Suprema Corte. Foi assim, aliás, que julgamos, recentemente, o HC 101.432, redator para o acórdão Ministro Dias Toffoli. Confira-se a ementa do julgado:
+“Habeas corpus. Impetração contra ato de Ministro Relator do Supremo Tribunal Federal. Decisão que indeferiu o desmembramento de inquérito que tramita nesta Suprema Corte. Não cabimento. Precedentes. 1. A jurisprudência desta Casa firmou-se no sentido de não ser cabível o habeas corpus contra decisão de integrante da Corte, na qualidade de Relator. 2. Não houve interposição de agravo regimental para o Plenário desta Corte contra a decisão que indeferiu o desmembramento, optando-se pela via inadequada do habeas corpus. 3. Habeas corpus não conhecido.”
+4. Acresce que as alegações do acionante se referem ao próprio mérito da ação extradicional. Sendo certo que a jurisprudência desta nossa Casa já assentou que só é possível o trancamento de extradição por meio de habeas corpus em situações excepcionais. Situações em que os documentos que instruem a inicial permitam concluir, desde logo, pela existência de vedação à entrega do extraditando (HC 83.881, Rel. Min. Sepúlveda Pertence). O que, ao menos nesse exame prefacial da causa, não me parece ser o caso dos autos.
+5. Presente esta ampla moldura, nego seguimento ao pedido e determino o arquivamento dos autos. O que faço nos termos do §1º do art. 21 do RI/STF.
+Publique-se.
+Brasília, 28 de setembro de 2010.
+Ministro AYRES BRITTO
+Relator
