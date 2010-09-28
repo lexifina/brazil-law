@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, o qual entendeu que não se tem como apropriada a concessão de intervalo intrajornada em período anterior ao início da jornada, pois da própria essência do instituto depreende-se, de forma inequívoca, que sua existência se perfaz no interregno da duração da jornada laboral e a semântica da sua nomenclatura conduz no sentido do espaço de tempo entre dois eventos.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXVI, 7º, XI, XXVI, 8º, III e VI, da mesma Carta.
+O agravo não merece acolhida. Isso porque, a jurisprudência de ambas as Turmas desta Corte está consolidada no sentido de que a discussão relativa à validade de cláusula, prevista em convenção ou acordo coletivo, referente ao intervalo intrajornada caracteriza ofensa constitucional indireta, por demandar a análise da legislação infraconstitucional e de cláusulas do respectivo acordo ou convenção coletiva, conforme se observa dos julgados a seguir transcritos:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. INTERVALO INTRAJORNADA. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 628.538-AgR/MG, Rel. Min. Cármen Lúcia).
+“I. Recurso extraordinário: descabimento: controvérsia sobre validade de cláusula de acordo coletivo de trabalho decidida à luz de legislação infraconstitucional pertinente, de reexame inviável no RE: incidência, mutandis, da Súmula 636.
+II. O artigo 7º, XXVI, da Constituição Federal, não elide a declaração de nulidade de cláusula de acordo coletivo de trabalho à luz da legislação ordinária.
+III. Improcedência das alegações de negativa de prestação jurisdicional e de violação das garantias do artigo 5º, XXXV, XXXVI, LIV, da Constituição Federal” (AI 657.176-AgR/MG, Rel. Min. Sepúlveda Pertence).
+Outrossim, quanto à alegada violação ao art. 7º, XI, da Constituição, o agravante não demonstrou de que forma ocorreu a suposta ofensa à Magna Carta. Portanto, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, a teor da Súmula 284 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 313.051/DF, Rel. Min. Maurício Corrêa; AI 532.651/MG, Rel. Min. Ellen Gracie; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 28 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
