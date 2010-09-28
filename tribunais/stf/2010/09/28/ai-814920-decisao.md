@@ -1,0 +1,38 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. BENEFÍCIO CONCEDIDO A TRABALHADORES EM ATIVIDADE ESTENDIDO A APOSENTADOS: AUSÊNCIA DE REPERCUSSÃO GERAL. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DA PRESTAÇÃO JURISDICIONAL. NECESSIDADE DE ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCINAL: IMPOSSIBILIDADE. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+2. O Tribunal de Justiça do Rio Grande do Sul julgou apelação em ação ordinária, nos termos seguintes:
+“PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. AÇÃO DE COBRANÇA. É direito do funcionário aposentado perceber as diferenças salariais alcançadas aos que estão em atividade. As regras instituidoras dos fundos complementares de previdência privada tem por objetivo complementar a renda do inativo, em face da evidente redução dos proventos pagos pela previdência privada oficial. Banco demandado, sucessor e devedor solidário, por força da privatização. Prescrição quinquenal. Interrupção conforme o disposto no art. 176, § 1º, do Código Civil de 1916, e 204, § 1º, do novo CC. Ação de cobrança procedente, em parte. Reforma da sentença. Apelos parcialmente providos” (fl. 155).
+Os embargos declaratórios opostos foram julgados nos seguintes termos:
+“EMBARGOS DE DECLARAÇÃO. Inexistindo omissão, contradição e/ou obscuridade no acórdão, não há como acolher os embargos de declaração. Embargos desacolhidos” (fl. 134).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento da questão constitucional suscitada e as circunstâncias de que a jurisdição teria sido devidamente prestada e de que não haveria contrariedade ao inc. LV do art. 5º da Constituição.
+4. O Agravante argumenta que:
+“Primeiramente, observa-se que a decisão agravada fundamentou a negativa de seguimento do recurso com base na sua interpretação da Constituição Federal.
+(...)
+Assim, na ótica do agravante, a decisão agravada não se limitou ao juízo de admissibilidade, o que importa em sua necessária reforma.
+(...)
+Ocorre que, no entendimento do ora agravante, ao contrario do que refere a decisão denegatória, visível é a negativa de prestação jurisdicional, vez que, ao desacolher os embargos declaratórios, que tinham o intuito de prequestionamento, a decisão acabou por violar os princípios constitucionais do acesso ao Poder Judiciário, e da ampla defesa, impedindo o atendimento do pressuposto de admissibilidade recursal, ou seja, vedando o acesso do agravante à Corte Constitucional.
+Com efeito, os embargos tinham o nítido desiderato de viabilizar o recurso excepcional cabível, em face dos verbetes das súmulas n. 282 e 356 do STF, já que o órgão julgador não ventilou os dispositivos constitucionais subjacentes à questão jurídica objeto do recurso (195, § 5º, e 202, § 2º, CRFB/88).
+(...)
+Além disso, a decisão agravada entendeu que ‘O órgão julgador decidiu a lide sem assumir, explicitamente, estatura constitucional (...).
+No entanto, ao contrário do que refere a decisão, houve ofensa frontal e direta aos arts. 195, § 5º, 201 e 202 da CF, não incidindo o entendimento da decisão agravada” (fls. 6, 9-10 e 15).
+No recurso extraordinário, alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXV e LV, 195, § 5º, e 202, § 2º, da Constituição.
+Sustenta que:
+“Tendo na regra da contrapartida o seu vetor constitucional, a previdência privada deve guardar estreita relação técnica entre o custeio do plano e a concessão dos benefícios previdenciários, razão pela qual qualquer interpretação extensiva que se confira à determinada verba paga pelo empregador aos ativos poderá alterar as condições técnicas do contrato, maculando a equação econômico-financeira do sistema, comprometendo a solvabilidade do sistema, ao contrário do que entendeu o acórdão recorrido, que, ao entender possível o deferimento de verba a partir de interpretação ampliativa do estatuto, violou o art. 202, da CRFB/88” (fl. 54).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+Anote-se, inicialmente, que a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a alegação de contrariedade ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de análise prévia de legislação infraconstitucional, configurariam apenas ofensa constitucional indireta.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DA LEGALIDADE, DO ATO JURÍDICO PERFEITO E DA COISA JULGADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a alegação de afronta ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta” (AI 684.188-AgR, de minha relatoria, Primeira Turma, DJe 18.9.2009 – grifei).
+6. Registre-se, também, o que consignado pelo Desembargador Relator em seu voto condutor:
+“As diferenças de complementação de aposentadoria são devidas, nada mais havendo o que discutir a respeito, máxime considerando que a matéria está coberta pelo manto da coisa julgada. Não fosse isso, o respectivo Estatuto admite a majoração das complementações de aposentadoria sempre que houver aumento para os associados em atividade. Assim é que os aumentos gerais ou espontâneos devem beneficiar o autor, fazendo jus às vantagens decorrentes dos realinhamentos salariais de 1989 e 1995 e da remuneração de 1991, posteriormente complementada em 1992” (fl. 160).
+No julgamento do Recurso Extraordinário 590.005, Relator o Ministro Cezar Peluso, o Supremo Tribunal Federal não reconheceu a existência de repercussão geral da questão objeto deste recurso extraordinário por ausência de matéria constitucional:
+“RECURSO. Extraordinário. Incognoscibilidade. Previdência privada. Complementação de aposentadoria. Extensão, a aposentados, de benefício concedido a trabalhadores em atividade. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à concessão, a beneficiários de plano de previdência privada complementar, de vantagem outorgada a empregados ativos, versa sobre matéria infraconstitucional” (RE 590.005-RG, Rel. Min. Cezar Peluso, Plenário Virtual, DJe 18.12.2009 - grifei).
+Declarada a ausência de repercussão geral, os recursos extraordinários e agravos de instrumento que demandarem a análise da mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+Nada há a prover quanto às alegações do Agravante.
+7. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de setembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
