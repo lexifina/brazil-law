@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“CIVIL E PREVIDENCIÁRIO. PREVIDÊNCIA PRIVADA. FUNCEF. AUXILIO CESTA ALIMENTAÇÃO. DIFERENCIAÇÃO ENTRE O 'AUXÍLIO ALIMENTAÇÃO' E O 'AUXÍLIO CESTA-ALIMENTAÇÃO'. ESTE É DEVIDO AO INATIVO PORQUE COMPÕE A REMUNERAÇÃO DO FUNCIONÁRIO EM ATIVIDADE. CARÁTER INDENIZATÓRIO FIXADO EM ACORDO COLETIVO DE TRABALHO. PRECEDENTES DO STJ E DESTA CORTE. CONHECIMENTO E PROVIMENTO DA APELAÇÃO” (fl. 215).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 7º, XXVI, da mesma Carta.
+O agravo não merece acolhida. Isso porque a agravante não atacou os fundamentos da decisão agravada, mormente no que se refere à aplicação da Súmula 279 do STF. Incumbe ao agravante o dever de impugnar, de forma específica, os fundamentos da decisão recorrida, sob pena de não seguimento do recurso (AI 589.978-AgR/DF, Rel. Min. Cármen Lúcia).
+Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Nesse sentido, menciono as seguintes decisões, dentre outras: AI 580.361-AgR/RS, de minha relatoria; AI 407.427/SP, Rel. Min. Cezar Peluso; AI 590.913-AgR/RS, Rel. Min. Eros Grau; AI 466.398-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+Ainda que superado tal óbice o recurso não prosperaria. É que o dispositivo constitucional suscitado não foi objeto de debate e decisão prévios pelo Tribunal de origem. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS CONSTITUCIONAIS SUSCITADAS. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 1. Os temas constitucionais suscitados no apelo extremo não foram objeto de análise prévia, e conclusiva, pela Instância Judicante de origem. Pelo que incidem as Súmulas 282 e 356 desta Corte. 2. Agravo regimental desprovido” (AI 770.103-AgR/RJ, Rel Min. Ayres Britto).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 28 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
