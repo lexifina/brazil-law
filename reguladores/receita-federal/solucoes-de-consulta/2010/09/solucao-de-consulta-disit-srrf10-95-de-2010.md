@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF10 nº 95, de 24 de agosto de 2010
+ASSUNTO: Imposto sobre a Renda de Pessoa Física - IRPF EMENTA: PARTICIPAÇÃO SOCIETÁRIA. ALIENAÇÃO. ISENÇÃO. A isenção prevista no art. 4º, alínea "d", do Decreto-Lei Nº 1.510, de 1976, por ter sido expressamente revogada pelo art. 58 da Lei Nº 7.713, de 1988, não se aplica a fato gerador (alienação) ocorrido a partir de 1º de janeiro de 1989 (vigência da Lei Nº 7.713, de 1988), ainda que cumprido o prazo determinado para o seu gozo. DISPOSITIVOS LEGAIS: Lei Nº 5.172, de 1966 (CTN), arts. 104, III, 144 e 178; Decreto-lei Nº 1.510, de 1976, art. 4º, alínea "d"; Lei Nº 7.713, de 1988, arts. 22, 57 e 58.
+[arquivo anexo: SC SRRF10-Disit nº 095-2010.pdf]
