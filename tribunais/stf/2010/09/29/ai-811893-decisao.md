@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por alegada ofensa aos arts. 5º, XXXV, LIV, LV, e 93, IX, da Constituição Federal contra acórdão no qual se discutira o direito à estabilidade no serviço público, nos termos do art. 19 do Ato das Disposições Constitucionais Transitórias/88, nos seguintes termos (fls. 262-266):
+“ADMINISTRATIVO. CONSTITUCIONAL. OFICIAL. SERVENTIA. ESTABILIDADE. IMPOSSIBILIDADE. Os oficiais das serventias extrajudiciais não se enquadram no conceito de servidores públicos, razão por que não fazem jus à estabilidade anômala de que trata o art. 19 do ADCT da Carta Magna”.
+ O Tribunal de origem asseverou que o acórdão está devidamente motivado e em harmonia com o entendimento da Suprema Corte, que já se pronunciou sobre a questão em tela no sentido de que a estabilidade anômala do art. 19 do ADCT não atinge o agravante (fls. 109-111).
+2.  O agravo de instrumento não merece seguimento, pois a decisão agravada está correta. Inicialmente, não se deve conhecer da alegação de afronta ao art. 93, IX, da Constituição Federal, porquanto decisão fundamentada contrária aos interesses da parte não constitui ofensa ao mencionado dispositivo. Em regra, a análise da ofensa aos princípios da ampla defesa, do contraditório e do devido processo legal ensejaria o exame da legislação infraconstitucional. Cito o RE 345.845-AgR/SP, 2ª Turma, rel. Min. Carlos Velloso, DJ 11.10.2002.
+3.  Quanto à questão de fundo, também não prosperam as alegações do agravante. Sobre a matéria, a jurisprudência desta Corte já assentou que o aludido dispositivo constitucional transitório aplica-se àqueles servidores públicos em exercício, há pelo menos cinco anos antes da promulgação da Carta de 1988, na administração direta da União, dos Estados, do Distrito Federal e dos Municípios, bem como em suas autarquias e fundações públicas, hipótese em que, evidentemente, o autor não se encaixa. Nesse sentido, o RE 388.589/DF, 2ª Turma, da minha relatoria, DJ 06.08.2004.
+4.  Ademais, para divergir da conclusão a que chegou o Tribunal a quo, cumpriria revolver os fatos e as provas dos autos, bem como reexaminar a legislação local (Constituição Estadual), o que é defeso nesta fase recursal, nos termos das Súmulas STF 279 e 280. Veja-se o AI 525.493-AgR/MG, rel. Min. Carlos Velloso, 2ª Turma, DJ 14.10.2005.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 29 de setembro de 2010.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
