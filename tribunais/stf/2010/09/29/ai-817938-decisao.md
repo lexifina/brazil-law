@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. LEGITIMIDADE PASSIVA DO ESTADO. RESPONSABILIDADE SOLIDÁRIA DO PODER PÚBLICO.
+O acesso às ações e serviços de saúde é universal igualitário (CF – art. 196), do que deriva a responsabilidade solidária e linear dos entes federativos, como já assentou o Supremo Tribunal Federal (RE 195.192/RS – rel. Min. Marco Aurélio).
+Saúde é direito de todos e dever do Estado e do Município art. 241, CE). Elevado à condição de direito social fundamental do homem, contido no art. 6º da CF, declarado por seus artigos 196 e seguintes, é de aplicação imediata e incondicionada, nos termos do parágrafo 1º do artigo 5º da C. Federal, que dá ao indivíduo a possibilidade de exigir compulsoriamente as prestações asseguradas” (fl. 7).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 196, 197 e 198 da mesma Carta.
+O agravo não merece acolhida. É que o julgado impugnado encontra-se em harmonia com a orientação da Corte que, ao julgar o RE 271.286-AgR/RS, Rel. Min. Celso de Mello, entendeu que o Poder Público, qualquer que seja a esfera institucional de sua atuação no plano da organização federativa brasileira, não pode se mostrar indiferente ao problema da saúde da população, sob pena de incidir, ainda que por censurável omissão, em grave comportamento inconstitucional.
+Salientou-se, ainda, no citado julgado, que a regra contida no art. 196 da Constituição tem por destinatários todos os entes políticos que compõem, no plano institucional, a organização federativa do Estado brasileiro. No mesmo sentido, menciono as seguintes decisões, entre outras: RE 539.216/RS, Rel. Min. Eros Grau; RE 572.252/RS, Rel. Min. Cezar Peluso; AI 507.072/MG, Rel. Min. Joaquim Barbosa; AI 635.766/RS, Rel. Min. Sepúlveda Pertence; AI 662.822/RS, Rel. Min. Celso de Mello.
+Nesse sentido, cito acórdão da Segunda Turma proferido no AI 597.182-AgR/RS, Rel. Min. Cezar Peluso, assim ementado:
+“1. RECURSO. Extraordinário. Inadmissibilidade. Fornecimento de medicamentos. Bloqueio de verbas públicas. Direito à saúde. Jurisprudência assentada. Art. 100, caput e parágrafo 2º da Constituição Federal. Inaplicabilidade. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte.
+2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado”.
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 29 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
