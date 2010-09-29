@@ -1,0 +1,18 @@
+D ECIS Ã O:
+Vistos.
+Maria José Santana e outros interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos LIV e LV, e 37, incisos XV, da Constituição Federal.
+Insurgem-se, no apelo extremo, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“AÇÃO ORDINÁRIA. SERVIDORES PÚBLICOS ESTADUAIS. LEI ESTADUAL Nº 10.254/90 – ALTERAÇÃO DE REGIME JURÍDICO – ALEGADA VIOLAÇÃO AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. INEXISTÊNCIA. PEDIDO DE RECOMPOSIÇÃO SALARIAL. IMPROCEDÊNCIA” (fl. 309).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, ão é de se proceder ao exame de sua existência, vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece prosperar.
+No que se refere ao artigo 5º, incisos LIV e LV, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte.
+Ademais, o Tribunal de origem decidiu a controvérsia acerca do pedido de recomposição salarial com fundamento na legislação infraconstitucional pertinente (Lei nº 10.254/90). Assim, eventual ofensa à Constituição Federal, se ocorresse, seria indireta ou reflexa, o que não autoriza a interposição recurso extraordinário. Incidência da Súmula nº 280. Sobre o tema, anote-se:
+“ RECURSO. Agravo de instrumento. Falta de procuração de advogado. Comprovação de existência. Decisão agravada. Reconsideração. Provada a existência de procuração de advogado substabelecido, deve ser provido o agravo de instrumento. 2. RECURSO. Extraordinário. Inadmissibilidade. Prequestionamento. Falta. Agravo regimental não provido. Aplicação das súmulas nºs 282 e 356. Não se admite recurso extraordinário quando falte prequestionamento da matéria constitucional invocada. 3. RECURSO. Extraordinário. Inadmissibilidade. Servidor público estadual. Aposentadoria. Lei estadual 10.254/90. Interpretação de lei local. Ofensa indireta Agravo regimental não provido. Aplicação da súmula nº 280. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de direito local, seria apenas indireta à Constituição da República”(AI nº 442.355/MG-AgR, Primeira Turma, Relator o Ministro, DJ de 16/9/05).
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE VENCIMENTOS. DECRETO N. 36.829/95. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 729.137/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/6/9).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 29 de setembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
