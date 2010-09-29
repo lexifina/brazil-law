@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“AÇÃO DE REPETIÇÃO DE INDÉBITO – PRESCRIÇÃO. ARTIGO 7º, XXIX, DA CONSTITUIÇÃO.
+Tratando-se de pretensão a envolver repetição de indébito de créditos oriundos da relação empregatícia é aplicável a prescrição prevista no artigo 7º, inciso XXIX, da Constituição da República.
+Recurso de revista não conhecido” (fl. 80).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 7º, XXIX, da mesma Carta.
+O agravo não merece acolhida. Isso porque a jurisprudência desta Corte firmou-se no sentido de que a discussão acerca da prescrição trabalhista situa-se no âmbito infraconstitucional. A afronta à Constituição, se ocorrente, seria reflexa. Incabível, portanto, o recurso extraordinário. Nesse sentido, AI 808.626/RS, Rel. Min. Ellen Gracie e AI 735.532-AgR/RJ, Rel. Min. Joaquim Barbosa, que segue ementado:
+“AGRAVO REGIMENTAL. RECURSO TRABALHISTA. PRESSUPOSTOS DE ADMISSIBILIDADE. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. EMBARGOS DE DECLARAÇÃO. APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. O exame dos pressupostos de admissibilidade dos recursos trabalhistas encontra-se no âmbito infraconstitucional. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição Federal. Para se verificar a ocorrência da alegada violação do art. 7º, XXIX, da Constituição Federal, seria necessário o reexame da legislação infraconstitucional pertinente. Assim, eventual ofensa à Constituição seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário. Inexiste a alegada ofensa ao art. 5º, XXXV e LV, da Constituição, pois o Tribunal de origem inequivocamente prestou jurisdição, por acórdão devidamente fundamentado, em observância aos princípios do contraditório e da ampla defesa. A análise da aplicação de multa por litigância de má-fé em virtude de interposição de embargos declaratórios tidos por protelatórios requer o exame prévio das regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. Inviabilidade do recurso extraordinário. Agravo regimental a que se nega provimento” (AI 735.532-AgR/RJ, Rel. Min. Joaquim Barbosa; Grifos meus).
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 29 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
