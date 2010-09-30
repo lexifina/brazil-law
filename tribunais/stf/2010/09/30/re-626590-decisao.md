@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário contra acórdão do qual destaco o o seguinte trecho da ementa:
+“PROCESSUAL CIVIL - APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA DE COBRANÇA – PRELIMINAR – LITISPENDÊNCIA – ACOLHIMENTO EM PARTE – NÃO PAGAMENTO DAS VERBAS SALARIAIS – HONORÁRIOS ADVOCATÍCIOS 20% DO VALOR DA CAUSA.
+Comprovada a prestação de serviço pela apelada, o apelante não pode eximir-se de sua obrigação, qual seja: o pagamento de todos os vencimentos não efetuados na época oportuna. (...)” (fl. 77).
+Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 5º, LIV e LV, 93, IX, e 100, § 3º e § 4º, da mesma Carta.
+A pretensão recursal não merece acolhida. Como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, LIV e LV, da Constituição, configura, em regra, situação de ofensa meramente reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Além disso, o acórdão recorrido limitou-se à apreciar, em ação ordinária, a questão relativa à cobrança de vencimentos que não foram pagos na época oportuna. Em momento algum o aresto impugnado definiu a forma pela qual o ora recorrente deveria realizar o pagamento das quantias ao qual foi condenado, se por meio de requisição de pequeno valor ou por meio de precatório. Assim, verifica-se que as razões do extraordinário são dissonantes do real conteúdo do acórdão impugnado. Inviável, portanto, o presente recurso, a teor da Súmula 284 do STF. Nesse mesmo sentido: AI 781.786/PI e AI 781.627/PI, Rel. Min. Cármen Lúcia.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 30 de setembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
