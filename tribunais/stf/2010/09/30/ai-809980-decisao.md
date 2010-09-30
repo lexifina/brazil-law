@@ -1,0 +1,9 @@
+DECISÃO: Vistos, etc.
+O agravo não merece acolhida, ante a ausência de prequestionamento do dispositivo constitucional tido por violado (incisos XXXVI do art. 5º), não havendo sido opostos embargos declaratórios para suprir eventual omissão.
+2. Com efeito, tendo em vista as limitações da via extraordinária, o apelo extremo é julgado no tocante ao que já foi discutido no aresto recorrido. Se o órgão julgador não adotou entendimento explícito acerca da matéria deduzida nas razões recursais, não se pode pretender o seu exame nesta excepcional instância. Incidem, portanto, no caso as Súmulas 282 e 356 do STF.
+3. De mais a mais, tenho que para se chegar a entendimento diverso do adotado pelo aresto impugnado se fazem necessários a análise da legislação infraconstitucional pertinente e o reexame do acervo fático-probatório dos autos (Súmula 279/STF), providências vedadas na instância extraordinária.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 30 de setembro de 2010.
+Ministro AYRES BRITTO
+Relator
