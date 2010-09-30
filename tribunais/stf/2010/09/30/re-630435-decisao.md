@@ -1,0 +1,14 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Amazonas que, com apoio no art. 40, § 8º (redação anterior à Emenda Constitucional 41/2003), da Constituição Federal, concedeu a segurança para reconhecer o direito dos servidores públicos estaduais, militares reformados e aposentados, à revisão de seus proventos em conformidade com o disposto na Lei Delegada 1/2003 – Anexo Único, nos seguintes termos (fls. 106-114):
+“ MANDADO DE SEGURANÇA – ADMINISTRATIVO – SERVIDOR PÚBLICO MILITAR REFORMADO E SERVIDORES PÚBLICOS ESTADUAIS APOSENTADOS – REVISÃO DE PROVENTOS – PRELIMINAR DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO – REJEITADA – DECADÊNCIA – RELAÇÃO DE TRATO SUCESSIVO – REJEITADA – ILEGITIMIDADE AD CAUSAM – REJEITADA – ARTIGO 40, § 8º, DA CONSTITUIÇÃO DA REPÚBLICA ANTERIOR À EC 41/2003 – CABIMENTO:
+(...)
+- A revisão dos proventos dos servidores inativos, nos moldes do antigo parágrafo oitavo, do artigo 40, da CF/88, é direito adquirido dos servidores aposentados que adentraram na inatividade sob sua vigência.
+SEGURANÇA CONCEDIDA”.
+2.  O recorrente alega, em síntese (fls. 142-149), que a Corte de origem, ao reconhecer direito inexistente, violou as disposições constitucionais dos arts. 5º, XXXVI, e 40, § 8º (atual art. 7º da EC 41/2003). Afirma que “a Gratificação cuja equiparação é buscada por meio desse writ of mandamus é paga em razão do efetivo exercício do cargo, não sendo devida aos Impetrantes, em vista de estar na inatividade”.
+  3.  O recurso não merece prosperar. O Tribunal de origem aplicou entendimento perfilhado na Suprema Corte no sentido de que os impetrantes fazem jus ao recebimento daquilo que receberiam se estivessem na ativa. E, para divergir da conclusão a que chegou o Tribunal a quo, além de demandar o reexame de fatos e de provas da causa, necessário se faria o cotejo da legislação local que majorou as remunerações do servidores da ativa (Lei Delegada 1/2003), o que é defeso nesta fase recursal, nos termos das Súmulas STF 279 e 280. Veja-se o RE 540.721-AgR/AM, rel. Min. Cezar Peluso, 2ª Turma, unânime, DJe 26.03.2010; e o AI 493932-AgR/AM, rel. Min. Celso de Mello, 2ª Turma, unânime, DJe 24.10.2008, este assim ementado:
+“AGRAVO DE INSTRUMETO – AUTO-APLICABILIDADE DA NORMA INSCRITA NO ART. 40, § 8º, DA CONSTITUIÇÃO FEDERAL (NA REDAÇÃO ANTERIOR À PROMULGAÇÃO DA EC Nº 41/2002) – CORRESPONDÊNCIA DO VALOR DOS PROVENTOS DA APOSENTADORIA À TOTALIDADE DOS VENCIMENTOS DOS SERVIDORES EM ATIVIDADE – REVISÃO DOS VALORES NA MESMA DATA E NA MESMA PROPORÇÃO – DIRETRIZ JURISPRUDENCIAL FIRMADA PELO SUPREMO TRIBUNAL FEDERAL – RECURSO DE AGRAVO IMPROVIDO”.
+4.  Diante do exposto, nego seguimento ao apelo extremo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 30 de setembro de 2010.
+     Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
