@@ -1,0 +1,16 @@
+1.  Trata-se de embargos de declaração (fls. 12.925-12.927) opostos da decisão monocrática (fls. 12.903-12.909) que negou seguimento ao recurso extraordinário.
+2.  A parte embargante sustenta, em síntese, o seguinte:
+ “A r. decisão que negou seguimento ao recurso extraordinário não enfrentou, de forma explícita, as alegadas violações aos artigos 164, §3º, e 37,§6º, da CF/88. Também não deixou claro os óbices encontrados ao seguimento do recurso extraordinário em relação aos referidos dispositivos constitucionais.
+ O trecho do v. acórdão recorrido, transcrito na r. decisão embargada, apenas confirma que a condenação do ora embargante decorreu da simples abertura de contas bancárias em instituição financeira não oficial sem procedimento licitatório. A perquirição da existência e o montante do prejuízo, inerente à ação popular, não foi objeto de análise pelas instâncias ordinárias. Daí a violação explícita aos artigos 164, §3º, e 37, §6º, da CF/88, expostas nas razões do recurso (fls. 12.926-12.927).
+ Por fim, pede o acolhimento dos embargos a fim de que sejam sanadas as alegadas omissão e obscuridade, para que a decisão embargada aponte, de forma explícita, os óbices ao seguimento do recurso extraordinário em relação aos artigos 164, §3º, e 37, §6º, da Constituição Federal.
+4.  A decisão impugnada deve ser mantida pelos seus próprios fundamentos. Não há qualquer vício a ser sanado nestes embargos de declaração. É dizer, não há qualquer omissão, contradição ou obscuridade a ser dirimida na decisão ora embargada, já que esta foi bem clara ao afirmar porque o recurso extraordinário fora negado, nestes termos:
+ “Inicialmente, verifico que, para divergir do acórdão recorrido, seria necessário o reexame de fatos e provas (Súmula STF 279) e da legislação local (Súmula STF 280), bem como da legislação infraconstitucional que rege a licitação, hipóteses inviáveis em sede extraordinária.” (fl. 12.904).
+ Além disso, o trecho do parecer do Ministério Público Federal, destacado pela decisão embargada (fls. 12.908-12.909), acertadamente apontou o caráter infraconstitucional da discussão presente nos autos:
+ “Prima facie, a avaliação dos limites da ação popular, instrumento com previsão constitucional, pressupõe o necessário revolvimento da legislação de regência e a eventual lesão ao Texto Magno se daria, apenas, de forma reflexa, o que é incompatível com a via eleita, porquanto exclui perquirições sobre a má interpretação, aplicação ou mesmo a total inobservância de normas infraconstitucionais.
+ É de ressaltar, ademais, que as razões deduzidas nesta sede invocando discutíveis questões de direito, fundam-se na inadequação das provas constantes dos autos para a aferição de ato lesivo ao erário. O acórdão recorrido, por sua vez, entendeu que os elementos documentais apresentado conferiram suficiente liquidez a aspectos decisivos da causa, idôneos a embasar o convencimento do magistrado. Assim, fundada em tais parâmetros e inserida em contexto fático complexo, a conclusão também não pode ser infirmada no âmbito do recurso extraordinário (fls. 12.842-12.843).”
+5.  Ante o exposto, nego seguimento aos embargos de declaração diante da manifesta improcedência (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 1º de outubro de 2010.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
