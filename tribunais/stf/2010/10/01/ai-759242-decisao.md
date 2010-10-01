@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão com a seguinte ementa:
+“AÇÃO ORDINÁRIA – PRELIMINAR – CERCEAMENTO DE DEFESA – INOCORRÊNCIA – CONCURSO PÚBLICO – NULIDADE DE QUESTÃO DISCURSIVA. TRATAMENTO ISONOMICO AOS CANDIDATOS – CORREÇÃO – CRITÉRIOS – MÉRITO – IMPROCEDÊNCIA. - 1. Na esteira da jurisprudência dos Tribunais Superiores, não cabe ao Poder Judiciário interferir nos critérios de elaboração e de correção de questões discursivas atribuídos à Banca Examinadora, se a orientação da Administração Pública por avaliar em condições de igualdade os candidatos, convalidando a questão ao invés de anulá-la. 2. Preliminar rejeitada e recurso não provido.” (fl. 18)
+No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXV, e 37, II, do Texto Constitucional.
+O recorrente requer a anulação de questão da prova discursiva do Concurso Público para o Cargo de Agente Fiscal de Tributos Estaduais, ao argumento de que ela teria sido equivocadamente elaborada e corrigida.
+Decido.
+Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+Na especie, o acórdão recorrido assentou que “a Banca Examinadora adotou critério isonômico para valorar as respostas dos candidatos à questão cujo enunciado previa número menor de preferências (duas), do que prevê a Lei de Sociedades Anônimas, mas optou por validar a questão, atribuindo os pontos aos candidatos que falassem de duas das espécies de preferências indicadas no art. 17 daquela Lei.” (fl. 26)
+É pacífica a jurisprudência desta Corte no sentido de se incabível ao poder judiciário, quando do seu controle de legalidade, substituir a banca examinadora do concurso nos critérios de correção de provas e de atribuição de nota a elas.
+Nesse sentido, o recente julgado do Tribunal Pleno desta Corte:
+CONCURSO PÚBLICO. PROCURADOR DA REPÚBLICA. PROVA OBJETIVA: MODIFICAÇÃO DO GABARITO PRELIMINAR. REPROVAÇÃO DE CANDIDATA DECORRENTE DA MODIFICAÇÃO DO GABARITO. ATRIBUIÇÕES DA BANCA EXAMINADORA. MÉRITO DAS QUESTÕES: IMPOSSIBILIDADE DE REVISÃO JUDICIAL. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. RECURSO AO QUAL SE NEGA PROVIMENTO. 1. A modificação de gabarito preliminar, anulando questões ou alterando a alternativa correta, em decorrência do julgamento de recursos apresentados por candidatos não importa em nulidade do concurso público se houver previsão no edital dessa modificação. 2. A ausência de previsão no edital do certame de interposição de novos recursos por candidatos prejudicados pela modificação do gabarito preliminar não contraria os princípios constitucionais do contraditório e da ampla defesa. 3. Não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora do concurso público para reexaminar os critérios de correção das provas e o conteúdo das questões formuladas (RE 268.244, Relator o Ministro Moreira Alves, Primeira Turma, DJ 30.6.2000; MS 21.176, Relator o Ministro Aldir Passarinho, Plenário, DJ 20.3.1992; RE 434.708, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 9.9.2005).
+(MS 27260, Rel. Min. CARLOS BRITTO, Relator(a) p/ Acórdão:  Min. CÁRMEN LÚCIA, Tribunal Pleno, Dje 26.03.2010)
+Ademais, para entender de forma diversa do assentado pelo acórdão recorrido, faz-se imprescindível a revisão dos fatos e provas constantes dos autos, providência vedada em sede de recurso extraordinário, por força da Súmula 279 do STF.
+Confira-se, o seguinte julgado:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÕES DO CERTAME. CONTROLE JURISDICIONAL. IMPOSSIBILIDADE. SÚMULA N. 279 DO STF. 1. Não cabe ao poder judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora nos critérios de correção de provas e de atribuição de notas a elas. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento.
+(RE-AgR 560551, Rel. Min. EROS GRAU, Segunda Turma, DJe 01.08.2008)
+Nesse sentido, cito, ainda, as seguintes decisões monocráticas: AI 746.952, de minha relatoria, Dje 08.09.2010; AI 805.489, Rel. Min. Cármen Lúcia, Dje 26.08.2010; AI 720.283, Rel. Min. Ellen Gracie, Dje 20.08.2010; AI 766.710, Rel. Min. Ricardo Lewandowski, Dje 05.03.2010; AI 738.160, Rel. Min. Dias Toffoli, Dje 10.02.2010.
+Incide, portanto, a Súmula 279/STF.
+Assim, nego seguimento ao recurso (arts. 21, §1º do RISTF, e 557 do CPC).
+Publique-se. Int..
+Brasília, 1º de outubro de 2010.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
