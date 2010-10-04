@@ -1,0 +1,23 @@
+1.  A matéria objeto do recurso extraordinário que se pretende ver conhecido por esta Corte foi objeto de exame de existência de repercussão geral no RE 242.689, com a seguinte manifestação do seu relator:
+“O SENHOR MINISTRO GILMAR MENDES (Relator) :
+Trata-se, originariamente, de mandado de segurança, impetrado por BRASPLAC INDUSTRIAL MADEIREIRA LTDA., contra ato do DELEGADO DA RECEITA FEDERAL EM CASCAVEL (PR), cujo pedido consiste em ver assegurado o direito de utilizar o índice IPC como indexador da correção monetária das demonstrações financeiras do balanço relativo ao ano-base de 1990, em vez do índice BTNF, estabelecido pelo art. 1º da Lei n. 8.088/90.
+A segurança foi concedida pelo juiz singular, entretanto a decisão monocrática foi reformada pelo Tribunal Regional Federal da 4ª Região em acórdão que restou assim ementado:
+'TRIBUTÁRIO. CORREÇÃO MONETÁRIA. DEMONSTRAÇÕES FINANCEIRAS. LEI 7.799/89.
+É legítima a imposição normativa, prevista no artigo 10 da Lei n. 7.799, de 1989, segundo a qual a correção das demonstrações financeiras das pessoas jurídicas, relativas ao ano-base 1990, deve ser calculada com base na variação do BTN Fiscal e não pelo IPC. Precedentes do TRF.'
+Contra essa decisão BRASPLAC INDUSTRIAL MADEIREIRA LTDA. interpôs recurso extraordinário, no qual alega, em síntese, que houve manipulação dos índices de atualização monetária pelas leis impugnadas, o que resultou em uma irreal expressão da inflação ocorrida no período. Segundo a recorrente, a atualização monetária do BTN era efetuada tomando-se como parâmetro o IPC, na forma prevista pelas Leis n. 7.777/89 e n. 7.799/89. Por força das Leis n. 8.024/90 e n. 8.030/90, a atualização do BTN foi desatrelada do IPC, sem vinculação alguma com o índice de inflação real.
+Posteriormente, a União instituiu a IRVF ( Índice de Reajustes de Valores Fiscais), pela Lei n. 8.088/90, que, a partir de então, passou a corrigir o BTN, sem espelhar a verdadeira inflação ocorrida no período. Em consequência, houve aumento do valor do tributo ( IRPJ e CSSL) cobrado das empresas contribuintes.
+Nas contrarrazões, a União sustenta que o recurso não merece prosperar, ao argumento de que os procedimentos impugnados são constitucionais. Alega que não há óbice para que a lei estabeleça índices de correção monetária diferenciados para atender à diversidade de situações de uma dada conjuntura econômico-financeira.
+O Ministério Público opinou pelo não conhecimento do recurso, ao argumento de que a matéria em discussão está circunscrita ao âmbito da interpretação infraconstitucional.
+É o breve relatório.
+A questão constitucional em debate cinge-se à definição do correto índice a ser utilizado na correção monetária das demonstrações financeiras das pessoas jurídicas no ano-base de 1990.
+Observo que o julgamento do tema encontra-se pendente de conclusão por esta Corte no RE n. 208.526 e no RE n. 256.304, em razão do pedido de vista do Ministro Cezar Peluso.
+Registro, ainda, que o Plenário do Supremo Tribunal Federal, ao apreciar o AI-QO 715.423, Rel. Min. Ellen Gracie, firmou entendimento, posteriormente confirmado no julgamento do RE-QO 540.410, Rel. Min. Cezar Peluso, segundo o qual os recursos que tratem de tema para o qual seja reconhecida a existência de repercussão geral também se submetem ao disposto no art. 543-B do Código de Processo Civil, ainda que interpostos contra acórdãos publicados antes de 3 de maio de 2007.
+Desse modo, entendo que é possível a aplicação da sistemática da repercussão geral a esse tema, como forma de racionalizar a prestação jurisdicional desta Corte.
+Assim, reconheço a existência de repercussão geral do caso em análise, pois a discussão é relevante e transcende ao direito subjetivo do recorrente.”
+ Dessa forma, nos casos de matérias submetidas ao Plenário para a análise da existência de repercussão geral, é possível, nos termos do art. 328 do RISTF, a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 543-B do CPC.
+2.  Assim, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e determino a devolução dos presentes autos à Corte de origem, para observância do citado art. 543-B do CPC.
+ Publique-se.
+ Brasília, 4 de outubro de 2010.
+     (assinado digitalmente)
+Ministra Ellen Gracie
+Relatora
