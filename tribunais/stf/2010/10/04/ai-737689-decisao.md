@@ -1,0 +1,21 @@
+1.  A matéria objeto do recurso extraordinário que se pretende ver conhecido por esta Corte foi objeto de exame de existência de repercussão geral no RE 603.136, com a seguinte manifestação do seu relator:
+“ISS. Incidência. Franquia. Existência de repercussão geral.
+Trata-se de recurso extraordinário que impugna acórdão assim ementado:
+'APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA PREVENTIVO. COBRANÇA DE IMPOSTO SOBRE SERVIÇO. CONTRATO DE FRANQUIA. CONSTITUCIONALIDADE DA LEI COMPLEMENTAR N.º 116/2003 E DA LEI MUNICIPAL 3.691/2003. IMPOSTO DEVIDO. REJEIÇÃO DAS PRELIMINARES DE INADEQUAÇÃO DA VIA PROCESSUAL E DE IMPOSSIBILIDADE DE DISCUSSÃO DE LEI EM TESE. DESPROVIMENTO DO RECURSO.' (fl. 98)
+O recorrente, na petição de recurso extraordinário com base no art. 102, III, a e c, da Constituição Federal, alegou violação ao art. 156, III, da mesma Carta. Sustenta a inconstitucionalidade da incidência do ISS sobre os contratos de franquia, pois a atividade-fim não é prestação de serviço, enquanto a atividade-meio prestada pelo franqueador não pode ser objeto de tributação em separado, com a desfiguração do tipo contratual (fl. 145).
+O Ministro Cezar Peluso inicialmente negou seguimento ao recurso, por entender que a ofensa seria reflexa (fls 304-306) e, após interposição de agravo regimental, reconsiderou a decisão e determinou o sobrestamento do feito (fls. 329-333) até o julgamento do AI 651.255, Rel. Min. Marco Aurélio, ainda pendente de análise por este tributal.
+Submeto a matéria à análise de repercussão geral.
+Inicialmente, verifico que, nos termos da jurisprudência desta Corte, a incidência de ISS nos contratos de franquia não está embasada na Constituição Federal, mas, sim, na legislação infraconstitucional. Nesse sentido AI-AgR 719.441, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 25.6.2010; RE-AgR 603.015, Rel. Min. EROS GRAU, Segunda Turma, DJe de 12.3.2010; RE-AgR 571.256, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 9.10.2009; AI-AgR 583.632, Rel. Min. SEPÚLVEDA PERTENCE, Primeira Turma, DJe de 17.8.2007.
+Entretanto, constato que a lista anexa da Lei Complementar n. 116, no item 10.04, prevê a incidência de ISS sobre contratos de franquia. Desse modo, o afastamento da incidência do ISS sobre referidos contatos pressupõe a declaração de inconstitucionalidade dessa previsão.
+Ademais, em caso semelhante, no qual se discutiu a incidência de ISS sobre a locação de bens móveis, esta Corte reconheceu a existência de repercussão geral. Refiro-me ao AI-RG 766.684, Rel. Min. Cezar Peluso, DJe 5.2.2010, cujo acórdão restou assim ementado:
+'Tributo. Imposto Sobre Serviços - ISS. Incidência sobre locação de bens móveis. Relevância do ponto de vista econômico, político, social e jurídico. Repercussão geral reconhecida. Apresenta repercussão geral recurso que versa sobre a constitucionalidade, ou não, da incidência de ISS sobre locação de bens móveis.'
+Assim, percebo que a qualificação como serviço de atividade que não ostenta essa categoria jurídica implicaria violação frontal à matriz constitucional do imposto, havendo, pois, questão constitucional em debate.
+Por fim, registro que o Plenário do Supremo Tribunal Federal, ao apreciar o AI-QO 715.423, Rel. Min. Ellen Gracie, firmou entendimento, posteriormente confirmado no julgamento do RE-QO 540.410, Rel. Min. Cezar Peluso, segundo o qual os recursos que veiculem tema que seja reconhecida a existência de repercussão geral também se submetem ao disposto no art. 543-B do Código de Processo Civil, ainda que interpostos contra acórdãos publicados antes de 3 de maio de 2007.
+Pelo exposto, manifesto-me pela existência de repercussão geral da questão constitucional”.
+ Dessa forma, nos casos de matérias submetidas ao Plenário Virtual para a análise da existência de repercussão geral, é possível, nos termos do art. 328 do RISTF, a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 543-B do CPC.
+2.  Assim, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e determino a devolução dos presentes autos à Corte de origem, para observância do citado art. 543-B do CPC.
+ Publique-se.
+ Brasília, 4 de outubro de 2010.
+(assinado digitalmente)
+Ministra Ellen Gracie
+Relatora
