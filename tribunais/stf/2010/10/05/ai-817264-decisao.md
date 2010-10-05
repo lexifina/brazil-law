@@ -1,0 +1,21 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado, no que importa:
+“ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. MULTA. CORREÇÃO MONETÁRIA.
+1. Inexistência de vício no auto de infração que originou o débito exequendo, eis que este foi lavrado por autoridade competente com aplicação de penalidade em consonância com o disposto no art. 9º, da Lei nº 5.966/73, e e encontra motivado e adequadamente fundamento.
+(...)
+4. A Embargante não apontou erros nos cálculos do valor devido, limitando-se a argumentar genericamente sobre a inaplicabilidade de tais indexadores para a correção de 'tributos e contribuições em atraso', sendo que o débito não é tributário, mas referente ao não pagamento de multa administrativa, e a certidão de inscrição em dívida ativa não indica a aplicação dos referidos índices.
+5. Apelação desprovida” (fl. 166).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, II, XXXVI e LV, 93, IX e X, e 150, I, da Carta Magna.
+O agravo não merece acolhida. Isso porque, o acórdão recorrido decidiu a questão à luz da legislação infraconstitucional (Código de Defesa do Consumidor e Lei 5.966/73). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, cito os seguintes precedentes, entre outros: AI 777.710/DF, de minha relatoria; RE 509.060/CE e RE 588.632/RJ, Rel. Min. Menezes Direito; RE 572.883/RS, Rel. Min. Cármen Lúcia; e o RE 410.484-AgR/PR, Rel. Min. Ellen Gracie, cuja ementa segue transcrita:
+“RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. INMETRO. LEI 5.966/73. PORTARIAS. MATÉRIA INFRACONSTITUCIONAL.
+1. Cotejo entre a Lei 5.966/73 e suas portarias regulamentadoras. Questão de legalidade. Incidência da Súmula STF nº 636.
+2. Agravo regimental improvido”.
+Ademais, a jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Confiram-se, a propósito, os seguintes julgados de ambas as Turmas do Supremo Tribunal:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE SUPRESSÃO DE INSTÂNCIA. ART. 515, § 3º, DO CÓDIGO DE PROCESSO CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 631.452-AgR/DF, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI 360.265-AgR/RJ, Rel. Min. Celso de Mello, Segunda Turma).
+Por fim, quanto à alegada inconstitucionalidade dos índices TR/TRD e Selic para fins de correção monetária, o tribunal de origem consignou que “(...) a certidão de inscrição em dívida ativa (fl. 85) não indica a aplicação dos referidos índices” (fl. 164).
+Assim, para dissentir do acórdão recorrido quanto ao referido entendimento, seria necessário o reexame da matéria de fato constante dos autos, bem como a apreciação de cláusulas contratuais, o que atrai a incidência da Súmula 279 do STF.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 5 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
