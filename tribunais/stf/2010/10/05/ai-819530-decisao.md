@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido porta a seguinte ementa:
+“RECURSO DE REVISTA. NULIDADE NEGATIVA DE PRESTAÇÂO JURISDICIONAL. A tese da decisão recorrida é suficiente para afastar a discussão sobre os aspectos indicados como omissos, haja vista que o tribunal a quo enfrentou a matéria e explicitou os fundamentos da decisão, apresentando os elementos de convicção do juízo e a apreciação das premissas jurídicas necessárias para o deslinde da controvérsia.
+NULIDADE. CERCEIO DE DEFESA. A decisão regional foi pautada na legislação infraconstitucional que rege a matéria (art. 844 da CLT – revelia e confissão quanto a matéria de fato pelo não comparecimento do reclamado na audiência). Os fatos alegados pelo reclamado não foram comprovados. Destarte, não se vislumbra a ofensa ao art. 5º, LV, da Constituição Federal, pois está sendo respeitada o devido processo legal e assegurando à parte o contraditório e a ampla defesa, nos termos da lei.
+ (...)” (fl. 151).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV e LV, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. Isso porque, a jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Confiram-se, a propósito, os seguintes julgados de ambas as Turmas do Supremo Tribunal:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE SUPRESSÃO DE INSTÂNCIA. ART. 515, § 3º, DO CÓDIGO DE PROCESSO CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 631.452-AgR/DF, Rel. Min. Cármen Lúcia, Primeira Turma).
+Por fim, a exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador diga de forma clara e concisa as razões de seu convencimento, tal como ocorreu.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 5 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
