@@ -1,0 +1,17 @@
+DECISÃO: Vistos, etc.
+Cuida-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão proferido pelo Superior Tribunal de Justiça. Acórdão cuja ementa é a seguinte:
+“HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. DETERMINAÇÃO PELO TRIBUNAL DE ORIGEM DA REALIZAÇÃO DE EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO SUFICIENTE. INEXISTÊNCIA DE ILEGALIDADE.
+1. O art. 112 da Lei de Execução Penal, com sua nova redação, dada pela Lei n.º 10.792/93, dispõe ser necessário, para a concessão da progressão de regime, apenas o preenchimento cumulativo dos requisitos objetivo – cumprimento de, ao menos, 1/6 (um sexto) da pena no regime anterior – e subjetivo – bom comportamento carcerário, comprovado pelo diretor do estabelecimento –, sem tratar acerca da necessidade do exame criminológico.
+2. Contudo, a realização do referido exame pode perfeitamente ser determinada, quando as peculiaridades da causa assim o recomendarem, atendendo-se ao princípio da individualização da pena, previsto no art. 5.º, inciso XLVI, da Constituição Federal, como ocorrera na hipótese em apreço, em que se exigiu a realização da perícia, com base no retrospecto de vida do apenado, reiteradamente envolvido em delitos graves, com longa pena a cumprir, recomendando uma melhor avaliação do requisito subjetivo.
+3. Ordem denegada”
+2. Pois bem, o impetrante sustenta o amplo preenchimento de todos os requisitos legais (objetivos e subjetivos) para a progressão no regime penitenciário, nos termos do artigo 112 da Lei de Execuções Penais. Alega que a Lei nº 10.792/2003 suprimiu a obrigatoriedade do exame criminológico para fins de progressão no regime prisional. Daí o pedido de imediata concessão de medida acauteladora.
+3. Feita esta síntese do pedido, decido. Fazendo-o, pontuo, de saída, que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito invocado (fumus boni juris) e do perigo da demora na prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+4. No caso, não tenho por presentes os requisitos necessários à concessão do provimento cautelar requestado, que se confunde com o próprio mérito da impetração. Isso porque o acórdão impugnado, em linha de princípio, não afronta a jurisprudência deste Supremo Tribunal Federal. Refiro-me, a título de amostragem, ao HC 86.631, Ministro Ricardo Lewandowski. Precedente que autoriza a requisição do exame criminológico, consideradas as peculiaridades do caso concreto.
+5. Esse o quadro, indefiro a liminar requestada.
+6. Oficie-se ao Juízo da Vara de Execuções Criminais da Comarca de Marília/SP para que informe a este Supremo Tribunal Federal o andamento atualizado do Processo de Execução Criminal nº 676.230.
+7. Prestadas as informações, abra-se vista à Defensoria Pública da União para postular o que entender de direito.
+Publique-se.
+Intime-se.
+Brasília, 05 de outubro de 2010.
+Ministro AYRES BRITTO
+Relator
