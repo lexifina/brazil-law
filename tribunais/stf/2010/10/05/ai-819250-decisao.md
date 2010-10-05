@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 243):
+“AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA - ADICIONAL DE PERICULOSIDADE - EMPREGADOS QUE DESENVOLVEM ATIVIDADES DENTRO DE EDIFÍCIO QUE ARMAZENA LÍQUIDO INFLAMÁVEL. O armazenamento de combustível em construção vertical merece tratamento diferenciado, com proteção especial aos trabalhadores que se ativam no edifício, pois eventual explosão coloca em risco não apenas aqueles que se encontram dentro do recinto onde estão localizados os tanques de combustível, mas, também, os empregados de outros andares. A depender do impacto do acidente, a estrutura do prédio poderá não suportar e ruir. Por isso, não se apresenta mais adequada a interpretação literal da Norma Regulamentar nº 16, de modo a considerar como área de risco apenas a área interna do recinto, excluindo os trabalhadores dos demais andares. Há que se considerar, em casos como o destes autos, a mens legis do referido preceito legal, que busca proteger todos aqueles empregados que laboram em área de risco, devendo ser reputada como área interna do recinto toda a construção vertical, e não apenas o local de armazenagem do combustível.
+Agravo de instrumento desprovido.”
+Nas razões do recurso extraordinário, indica-se violação ao disposto nos arts. 5º, XXXV, LIV e LV, 7º, XXIII, e 93, IX, da Constituição federal. Sustenta-se que o Tribunal a quo sonegou prestação jurisdicional e que é indevida a condenação ao pagamento do adicional de periculosidade.
+É o relatório. Decido.
+Em relação à alegada ofensa ao art. 7º, XXIII, impossível chegar a conclusão diversa sem prévio exame da legislação infraconstitucional e das provas que fundamentaram as conclusões da decisão recorrida. O recurso extraordinário é, pois, inviável, tanto porque eventual ofensa à Constituição seria indireta, como por esbarrar na vedação da Súmula 279 desta Corte.
+Por outro lado, não procede a alegação de afronta aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 5 de outubro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
