@@ -1,0 +1,24 @@
+Decisão: Torno sem efeito o sobrestamento determinado à fl. 323.
+Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+“MANDADO DE SEGURANÇA. CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. PRELIMINAR DE ILEGITIMIDADE PASSIVA “AD CAUSAM” DAS AUTORIDADES COATORAS E DA UFSE. TRANSFORMAÇÃO DA “FC“ EM CARGOS DE COMISSÃO E FUNÇÃO GRATIFICADA – LEI Nº 8.168/91. INATIVOS. APOSENTADORIA IMPLEMENTADA SOB A ÉGIDE DE OUTRA LEGISLAÇÃO. IRREDUTIBILIDADE DE ESTIPÊNDIOS. ARTIGO 37 DA CF/88. REGIME JURÍDICO ÚNICO ARTIGO 41, §3º. ATO JURÍDICO PERFEITO. SÚMULA 359 – STF. PRECEDENTES
+1- Embora os impetrados não sejam os responsáveis pela determinação da redução paga denominada “quintos”, a eles cabem, inegavelmente, a prática dos atos que em tal importem; por isso, e para os fins de ação de segurança, caracterizam-se, ao menos in potentia, como autoridades coactoras.
+2- O mandado de Segurança se apresta para amparar não somente as situações em que alguém sofre dano imediato mas, também, aquelas em que alguém está ameaçado de sofrer alguma lesão – futura – nos direitos de que seja titular.
+3- As Universidades usufruem de autonomia didático-científica, administrativa e de gestão financeira e patrimonial, e obedecerão ao princípio de indissociabilidade entre ensino, pesquisa e extensão.” (artigo 207, da CF/88)
+4- A transformação de Funções Comissionadas em Cargos em Comissão e Função Gratificada, estabelecendo valores, a menor, nos vencimentos e/ou proventos percebidos pelo(s) Impetrante(s), fere o princípio da irredutibilidade de vencimentos (artigo 37,XV da Carta Magna).
+5- Gratificações que foram incorporadas nos moldes previstos na legislação vigente à época. Redução eventual que, ofenderá ao direito adquirido e ao ato jurídico perfeito (inciso XXXVI, do artigo 5º, da C.F/88). Proventos que se acham acobertados pelo manto da irredutibilidade estipendial (artigo 37, inciso XV da Constituição Federal).
+6- Entendimento consolidado na Terceira Turma do TRF V Região, segundo o qual, aplica-se aos cargos em comissão, a garantia da irredutibilidade tal como constitucionalmente estatuída. Sentença mantida. Apelação e Remessa Oficial improvidas.” (fls. 269)
+Sustenta a recorrente, com base no art. 102, III, “a”, ter havido violação ao disposto nos artigos 5º, LXIX; 37, XV; 40, § 4º e 17 das disposições transitórias, da Constituição Federal. Alega, em síntese, que o recorrido não faz jus a continuar percebendo os quintos incorporados aos seus vencimentos/proventos, na forma da Lei 7.596/87 e do Decreto 94.664/87, com valores determinados pela Portaria 474/87 – MEC, ao fundamento de que não existe direito adquirido ao critério estabelecido para o cálculo da gratificação e que não houve irredutibilidade de vencimentos.
+O parecer da Procuradoria-Geral da República (fls.321) é pelo não conhecimento do recurso.
+Decido.
+Não assiste razão a recorrente.
+A jurisprudência do Supremo Tribunal Federal firmou o entendimento no sentido de que quintos incorporados, conforme Portaria MEC 474/1987, constituem direito adquiridos, não alcançado pelas alterações promovidas pela Lei 8.168/1991.
+Nesse sentido, destacam-se os seguintes julgados:
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. QUINTOS. INCORPORAÇÃO. PORTARIA MEC 474/87. PRECEDENTES. 1. O Supremo Tribunal Federal já pacificou sua jurisprudência no sentido de que os quintos incorporados, conforme Portaria MEC 474/1987, constituem direito adquirido, não alcançado pelas alterações promovidas pela Lei 8.168/1991. 2. A Portaria MEC 474/87 não configura usurpação de competência legislativa do Chefe do Poder Executivo. Precedentes. 3. Agravo regimental improvido.”(AI-AgR 754.613/AC, Segunda Turma, Rel. Ellen Gracie, DJe 13.11.2009)
+“1. Servidor público: os chamados "quintos" ou "décimos", incorporados durante a vigência da L. 7.596/87, em decorrência do exercício das Funções Comissionadas e Gratificadas estabelecidas pela Portaria nº 474/87, do MEC, constituem direito adquirido, não sujeitos à redução perpetrada pela L. 8.168/91. Precedentes. 2. Agravo regimental: inviável, em agravo regimental, inovar a causa com questões que não foram objeto da decisão impugnada.”(RE-AgR nº 497.141/MG, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ 23.3.2007).
+No mesmo sentido, cito os seguintes precedentes que tratam de casos análogos ao do presente recurso: AI 736523/SE, Rel. Celso de Mello, DJe 27.9.2010; AI 779.778/PA, Rel. Cármen Lúcia, DJe 8.9.2010; RE 522.975/MS, Rel. Dias Toffoli, DJe 3.8.2010; AI 781.681/RJ Rel. Min Ricardo Lewandowski, DJe 17.2.2010 e RE 438.543/MG Rel. Cezar Peluso, Dje 5.8.2009.
+Ante o exposto, nego provimento ao recurso (arts. 21, §1º, do RISTF).
+Publique-se.
+Brasília, 5 de outubro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
