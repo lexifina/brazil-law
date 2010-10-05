@@ -1,0 +1,38 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. DIREITO CONSTITUCIONAL. MEDIDA PROVISÓRIA. REEDIÇÕES NO PRAZO LEGAL. EFICÁCIA MANTIDA. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RECURSO EXTRAORDINÁRIO PROVIDO.
+       Relatório
+1. Em 12 de novembro de 2008, neguei seguimento ao recurso extraordinário interposto pelo Instituto Nacional do Seguro Social – INSS contra decisão do Tribunal Regional Federal da 3ª Região, a qual determinara a concessão de aposentadoria por tempo de serviço e estabelecera que a remessa necessária das decisões contrárias às autarquias somente seria devida após a edição da Lei n. 9.469, em 10.7.1997. A decisão embargada teve a seguinte fundamentação:
+“6. Razão de direito não assiste ao Recorrente.
+7. A controvérsia trazida nos autos foi decidida com base na interpretação e na aplicação da legislação infraconstitucional. A ofensa à Constituição, se tivesse ocorrido, seria indireta, o que também afasta o cabimento do recurso extraordinário. Assim, por exemplo, o Agravo Regimental no Recurso Extraordinário n. 310.183:
+“EMENTA: Aposentadoria de trabalhador rural: recurso extraordinário: descabimento: controvérsia decidida à luz de legislação infraconstitucional - L. 8.213/91 - que regula a contagem do tempo e serviço especial para efeito de aposentadoria: alegada violação de dispositivo constitucional que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 20.10.2006).
+E, ainda, os julgados nas seguintes decisões monocráticas: AI 401182, Rel. Min. Cezar Peluso, DJ 21.3.2005; e RE 464.116, Rel. Min. Ricardo Lewandowski, DJ 18.10.2007.
+Nada há, pois, a prover quanto às alegações da parte recorrente.
+8. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal). A expedição do ofício requisitório será determinada pelo juízo de origem, o qual deverá analisar o pedido quanto aos honorários advocatícios” (fls. 155-158).
+2. Intimado dessa decisão em de 2.12.2008 (fl. 163 v.), opõe o Instituto Nacional do Seguro Social - INSS, em 16.12.2008, tempestivamente, embargos de declaração (fls. 165-166).
+3. Alega o Embargante que a decisão embargada não se teria manifestado ”acerca da primeira questão supra elencada, qual seja, acerca da violação ao artigo 62, parágrafo único, da CR, com o consequente reconhecimento da eficácia da MP 1.561, desde sua primeira edição, o que levaria á nulidade do feito a partir da sentença que deixou de submeter a reexame necessário hipótese em que tal revisão se impunha” (fl. 166).
+Requer sejam acolhidos os embargos e que “seja sanada a apontada omissão, e, assim, seja proferido novo julgamento” (fl.166).
+4. Recebo os embargos de declaração e converto-os em agravo regimental (Pet 1.245-ED-AgR, Rel. Min. Moreira Alves, DJ 22.5.1998; e RE 195.578-ED, Rel. Min. Ilmar Galvão, DJ 23.8.1996).
+5. Houve erro material na decisão agravada, com a inobservância da alegada ofensa ao art. 62, parágrafo único, da Constituição da República, razão pela qual reconsidero a decisão de fls. 155-158. Passo ao exame do recurso extraordinário.
+6. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 3ª Região:
+“PREVIDENCIÁRIO – AVERBAÇÃO DO TEMPO DE SERVIÇO CUMULADO COM APOSENTADORIA POR TEMPO DE SERVIÇO – SENTENÇA DE PROCEDÊNCIA – PROVA MATERIAL E TESTEMUNHAL – CORREÇÃO MONETÁRIA – JUROS – HONORÁRIOS ADVOCATÍCIOS – AGRAVO RETIDO IMPROVIDO – PRELIMINAR REJEITADA – RECURSO DO INSS PARCIALMENTE PROVIDO – SENTENÇA REFORMADA EM PARTE.
+1. Rejeitada a preliminar arguida no Agravo Retido, e reiterada nas razões de apelo, pois tendo o INSS contestado o pedido, judicialmente, é óbvio que o faria também na esfera administrativa, de modo que revela-se inócua a exigência da prévia postulação administrativa.
+2. Segundo o entendimento desta E. Turma, somente a partir de 13/06/1997, quando foi editada a última versão da MP1561, convertida na Lei nº 9.469, de 10/07/1997 é que as sentenças desfavoráveis a Autarquias e fundações públicas passaram a ser submetidas ao duplo grau de jurisdição. (Preliminar rejeitada)
+3. Comprovado o tempo de serviço prestado em atividade rural, sem registro em carteira de trabalho, através dos depoimentos de fls. 71/75 e dos documentos de fls. 15/19 que, somado àquele em que o Autor exerceu atividade urbana, conforme a documentação acostada (fls. 20/34), constituem um conjunto probatório harmônico, hábil à concessão da aposentadoria por tempo de serviço (art. 52 da Lei 8.213/91).
+4. A correção monetária das prestações vencidas deve ser fixada nos termos da Lei 6899/81, Lei 8213/91 e legislação superveniente.
+5. Os juros de mora são devidos no percentual de 6% a.a., contados da citação.
+6. Honorários advocatícios mantidos no percentual de 15% sobre o valor da condenação, vez que em harmonia com a jurisprudência deste Tribunal, não cabendo, todavia, a incidência sobre prestações vincendas (Súmula 111 do STJ).
+7. Agravo retido improvido.
+8. Recurso do INSS parcialmente provido. Sentença reformada em parte” (fl. 110).
+7. O Recorrente alega que teria sido afrontado o art. 62, parágrafo único, da Constituição da República.
+Sustenta que “a contrariedade a dispositivo constitucional, no presente caso, consiste no entendimento de que a Medida Provisória nº 1.561, à exceção de sua última reedição, não tem eficácia, não sendo mais aplicável à espécie” (fl. 120).
+Analisados os elementos havidos nos autos, DECIDO.
+8. Razão jurídica assiste ao Recorrente.
+9. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a medida provisória não convertida em lei mas reeditada no prazo legal não perde a eficácia.
+Nesse sentido:
+“CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. PIS-PASEP. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL: MEDIDA PROVISÓRIA: REEDIÇÃO. I. - Princípio da anterioridade nonagesimal: C.F., art. 195, § 6º: contagem do prazo de noventa dias, medida provisória convertida em lei: conta-se o prazo de noventa dias a partir da veiculação da primeira medida provisória. II. - Inconstitucionalidade da disposição inscrita no art. 15 da Med. Prov. 1.212, de 28.11.95 " aplicando-se aos fatos geradores ocorridos a partir de lº de outubro de l995" e de igual disposição inscrita nas medidas provisórias reeditadas e na Lei 9.715, de 25.11.98, artigo 18. III. - Não perde eficácia a medida provisória, com força de lei, não apreciada pelo Congresso Nacional, mas reeditada, por meio de nova medida provisória, dentro de seu prazo de validade de trinta dias. IV. - Precedentes do S.T.F.: ADIn 1.617-MS, Ministro Octavio Gallotti, "DJ" de 15.8.97; ADIn 1.610-DF, Ministro Sydney Sanches; RE nº 221.856-PE, Ministro Carlos Velloso, 2ª T., 25.5.98. V. - R.E. conhecido e provido, em parte” (RE 232.896, Rel. Min. Carlos Velloso, Tribunal Pleno, DJ 1º.10.1999 – grifos nossos).
+E, ainda, os seguintes julgados: RE 242.905, Rel. Min. Moreira Alves, Primeira Turma, DJ 24.8.1999; RE 577.923-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 20.3.2009; RE 508.043-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 29.8.2008; e RE 368.510-AgR, Rel. Min. Cezar Peluso, Primeira Turma, DJ 15.4.2005.
+10. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, § 1º-A do Código de Processo Civil e 21, § 2º, do Regimento Interno do Supremo Tribunal Federal) e determino o retorno dos autos ao Tribunal de origem para exame da remessa necessária.
+Publique-se.
+Brasília, 5 de outubro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
