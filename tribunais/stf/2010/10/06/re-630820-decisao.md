@@ -1,0 +1,15 @@
+DECISÃO : Trata-se de recurso extraordinário (art. 102, III, a , da Constituição federal) interposto de acórdão proferido por Tribunal de Justiça estadual cuja ementa possui o seguinte teor:
+“Embargos Infringentes. Incentivo fiscal. Isenção heterônoma concedida sob condição. Aplicação do art. 41 do ADCT. As isenções heterônomas concedidas com prazo certo ou sob condição prevalecem. Nestes casos, há direito adquirido incorporado ao patrimônio jurídico do contribuinte durante o prazo previsto no § 1º do art. 41 do ADCT.” (fls. 115)
+Alega-se violação do disposto nos arts. 151, III, da Constituição federal e 41, § 1º, do Ato das Disposições Constitucionais Transitórias.
+O recurso não merece seguimento.
+Esta Corte firmou entendimento no sentido de que os incentivos setoriais, inclusive sob a forma de isenções fiscais heterônomas, continuaram a viger por dois anos após a promulgação da Constituição federal de 1988, salvo se confirmados ou revogados antes desse prazo pelo sujeito ativo do tributo, em razão do disposto no art. 41, caput e §§ 1° a 3°, do Ato das Disposições Constitucionais Transitórias.
+Nesse sentido, registro a seguinte ementa:
+“CONSTITUCIONAL. TRIBUTÁRIO. ISS. INCENTIVOS FISCAIS: ISENÇÕES CONCEDIDAS PELA UNIÃO. CF, 1967, COM A EC 1/69, ART. 19, § 2º. PROIBIÇÃO DE CONCESSÃO, POR PARTE DA UNIÃO, DE ISENÇÕES DE TRIBUTOS ESTADUAIS E MUNICIPAIS. C.F., ART. 151, III. I. - O art. 41 do ADCT/1988 compreende todos os incentivos fiscais, inclusive isenções de tributos, dado que a isenção é espécie do gênero incentivo fiscal. II. - Isenções de tributos municipais concedidas pela União na sistemática da Constituição de 1967, art. 19, § 2º: D.L. 406/68, art. 11, redação da Lei Compl. 22, de 1971. Incentivos fiscais, nestes incluídas isenções. Sua revogação, com observância das regras de transição inscritas no art. 41, §§ 1º, 2º e 3º, ADCT/1988. III. - RE conhecido e provido.” (RE 280.294, rel. min. Carlos Velloso, Segunda Turma, DJ de 21.06.2002)
+Confiram-se, ainda: AI 278.497-AgR (rel. min. Nelson Jobim, DJ de 09.02.2001); RE 182.160 (rel. min. Sepúlveda Pertence, DJ de 04.09.1998); RE 161.354 (rel. min. Moreira Alves, DJ de 01.12.1995) e RE 174.550, rel. min. Néri da Silveira, DJ de 28.04.2000).
+Tal entendimento não se aplica às isenções fiscais heterônomas que não expressem incentivos fiscais setoriais e que estejam destituídas de prazo certo ou condição.
+No caso em exame, porém, o recorrente se limita a afirmar que isenções fiscais não se confundem com incentivos fiscais. Ocorre que, como acima ficou exposto, esta Corte entende que os incentivos fiscais podem assumir a forma de isenções fiscais. Ante a ausência de outros argumentos capazes da afastar o entendimento do Tribunal a quo de que a isenção fiscal controvertida caracteriza incentivo fiscal de natureza setorial, forçoso é concluir que o recurso extraordinário não reúne condições de prosseguimento.
+Do exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 06 de outubro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
