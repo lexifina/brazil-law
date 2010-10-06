@@ -1,0 +1,12 @@
+Trata-se de agravo regimental contra decisão que negou seguimento a agravo de instrumento, sob os fundamentos de que o exame da matéria depende da análise de legislação infraconstitucional; e de que, nos termos da Súmula 339 do STF, não cabe ao Poder Judiciário aumentar vencimento de servidor público sob o fundamento da isonomia.
+Os agravantes sustentam, em suma, que a decisão agravada deve ser reformada e insistem, dessa forma, no processamento do recurso extraordinário. Alegam que
+“(...) ao contrário do entendimento expressado na r. Decisão agravada, houve contrariedade não de forma reflexa ou indireta à Constituição, mas frontal e direta ao disposto no art. 37, X, da Constituição Federal (...)” (fl. 361 – grifos no original).
+Afirmam, ainda, que o rigorismo expresso na Súmula 339 do STF
+“(...) foi mitigado pela evolução da própria sociedade e dos fatos, o que repercutiu também no seio do Judiciário fazendo com que as decisões dos mais diversos tribunais pátrios, com fundamento no princípio da razoabilidade e proporcionalidade, dentre outros, rechaçassem injustas diferenciações existentes entre os servidores públicos, como é o caso dos autos” (fl. 365).
+Verifica-se que a matéria em debate - possibilidade de o Poder Judiciário aumentar vencimento de servidor público com base no principio da isonomia, nos termos do art. 37, X, da Constituição Federal - teve repercussão geral reconhecida pelo Supremo Tribunal Federal (RE 592.317-RG/RJ, Rel. Min. Gilmar Mendes).
+Ressalto, também, que o Plenário desta Corte, em 20/8/2008, ao apreciar Questão de Ordem suscitada no RE 540.410/RS, Rel. Min. Cezar Peluso, decidiu estender a aplicação do art. 543-B do Código de Processo Civil aos recursos cujo tema constitucional apresente repercussão geral reconhecida pelo Plenário, ainda que interpostos contra acórdãos publicados antes de 3 de maio de 2007.
+Isso posto, em juízo de reconsideração, anulo a decisão de fls. 345-346, julgo prejudicado o agravo regimental, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no art. 328, parágrafo único, do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que neste extraordinário discute-se questão idêntica à apreciada no RE 592.317-RG/RJ.
+Publique-se.
+Brasília, 6 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
