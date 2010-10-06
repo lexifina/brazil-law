@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão denegatória de recurso extraordinário interposto contra acórdão do TJSP assim ementado:
+“SERVIDORES PÚBLICOS DE SANTOS. Opção pelo Plano de Cargos, Carreiras e Salários – (PCCS). Lei Complementar Municipal n. 214/1996, com efeitos retroagidos para 1.1.1996. Processo de avaliação de desempenho conforme § 5º do artigo 17 do Decreto n. 2.724, de 12 de abril de 1996. Alegação de que de acordo com a pontuação auferida no referido Plano de avaliação de Desempenho (P.A.V.), deveriam ser reenquadrados em referência superior àquela em que se encontram, importando acréscimo sobre os seus vencimentos, o que não ocorreu. Pleito de pagamento de quantia a ser apurada em regular fase de liquidação de sentença, em face de suas opções ao PCCS e reenquadramento no Plano de Avaliação de Avaliação de Desempenho (P.A.V.). Diferenças vencidas e vincendas em seus vencimentos, a partir de 1.6.1996 até a data do efetivo cumprimento da obrigação. Admissibilidade. Comprovação nos autos por certidões que passaram pela avaliação de desempenho. Consideração do período de janeiro de 1995, tempo de serviço prestado à Municipalidade de Santos. Reenquadramento nas referências dos respectivos cargos. Precedente: (...) Sentença de procedência da ação mantida, devendo ser observada a prescrição parcelar. RECURSOS, OFICIAL E VOLUNTÁRIOS NÃO PROVIDOS ” (fl. 75).
+2.  Nas razões do RE, sustenta-se ofensa aos artigos 18, 30 e 169 da Constituição Federal.
+3.  O recurso não merece prosperar. Primeiramente, verifico que o artigo 18 da CF não se encontra prequestionado, porque não abordado pelo acórdão recorrido, nem suscitado nos embargos de declaração opostos às fls. 86/87 (Súmulas STF 282 e 356).
+4.  Em segundo lugar, constato que o Tribunal de origem decidiu a questão com base na legislação local aplicável à espécie, cujo exame é defeso nesta fase recursal, nos termos da Súmula STF 280. Nesse sentido: AI 689.921-AgR/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 20.02.2009 e AI 721.209-AgR/SP, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 15.05.2009.
+5.  Frise-se que esta Corte manifestou-se pela inexistência de repercussão geral da matéria no RE 611.162-RG/SP, de minha relatoria, DJe 27.08.2010.
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 06 de outubro de 2010.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
