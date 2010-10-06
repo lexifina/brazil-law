@@ -1,0 +1,10 @@
+D ECIS Ã O:
+Vistos.
+A impetrante interpõe agravo regimental contra a decisão monocrática pela qual indeferi o pedido de liminar formulado no presente habeas corpus.
+Segundo a jurisprudência consolidada desta Suprema Corte, não se admite agravo regimental contra decisão do Relator que, em habeas corpus, indefere pedido de liminar. Nesse sentido: HC nº 70.937/PA-AgR, Tribunal Pleno, Relator o Ministro Francisco Rezek, DJ de 10/11/95; HC nº 83.673/RJ-AgR, Primeira Turma, Relator para acórdão o Ministro Joaquim Barbosa, DJ de 23/4/04; HC nº 89.649/SP-MC-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 1º/12/06.
+Assim, recebo a petição como pedido de reconsideração, que, todavia, indefiro, pois os argumentos trazidos no pedido e os documentos ora juntados não são suficientes para revogar a prisão cautelar do paciente, sendo recomendável que se aguarde o julgamento do mérito da impetração.
+Publique-se.
+Brasília, 6 de outubro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
