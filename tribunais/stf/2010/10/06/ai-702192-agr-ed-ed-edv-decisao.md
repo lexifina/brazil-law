@@ -1,0 +1,18 @@
+D ECIS Ã O: Trata-se de embargos de divergência opostos de decisão da Primeira Turma do Supremo Tribunal Federal, rel. min. Cármen Lúcia, cuja ementa está assim reproduzida:
+“EMENTA: EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SEGUNDOS EMBARGOS DE DECLARAÇÃO COM A PRETENSÃO DE REEXAME DA MATÉRIA: NÃO CONHECIMENTO. ENTENDIMENTO FIRMADO PELA PRIMEIRA TURMA DO SUPREMO TRIBUNAL FEDERAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.” (Fls. 457)
+O recorrente alega que, não obstante a posição contrária do Regimento Interno desta Corte, a ausência de intimação para a sessão de julgamento a ser realizada pela turma constitui nulidade absoluta. Para reforçar tal argumento, cita como precedentes o HC 92.290, rel. Min. Ricardo Lewandowski, Primeira Turma, além do HC 93.101, rel. Min. Eros Grau, Segunda Turma e do RHC 89.135, rel. Min. Cezar Peluso, Segunda Turma.
+No mais, sustenta que a exigência de demonstração da repercussão geral viola os princípios constitucionais da ampla defesa, do contraditório, do livre acesso à justiça e do devido processo legal.
+Decido.
+O recurso não pode ser conhecido. O Supremo Tribunal Federal firmou o entendimento de que o embargante deve comprovar o recolhimento do preparo no ato de interposição do recurso, conforme determina o art. 511 do Código de Processo Civil, na redação dada pela Lei 8.950/1994. Nesse sentido, confiram-se: AI 710.683-EDv-AgR (de minha relatoria, DJ de 29.09.2009), AI 710.275-EDv-ED-AgR (rel. Min. Marco Aurélio, DJ de 17.06.2009); RE 146.747-EDv-AgR (rel. min. Marco Aurélio, Tribunal Pleno, DJ de 11.04.2003); RE 143.808-EDv-QO (rel. min. Ellen Gracie, Tribunal Pleno, DJ de 18.06.2004); AI 614.073-AgR-EDv-AgR (rel. min. Carlos Britto, Tribunal Pleno, DJe de 18.04.2008) e RE 233.563-ED-ED-EDv-AgR (rel. min. Sepúlveda Pertence, Tribunal Pleno, DJ de 06.09.2007), este último assim ementado:
+“EMENTA: I. Embargos de divergência: deserção.
+De acordo com o artigo 511 do C.Pr.Civil, com a redação da L. 8.950, de 13.12.1994, que revogou tacitamente o artigo 335, § 3º, do RISTF, o embargante deve comprovar, no momento da interposição do recurso, o recolhimento do preparo, sob pena de deserção: precedentes.
+II. Agravo regimental manifestamente infundado: condenação do agravante à multa nos termos do art. 557, § 2º, do C. Pr.Civil.”
+Ausente, no caso, o comprovante de recolhimento do preparo (certidão de fls. 479), inadmissíveis os embargos de divergência.
+Ademais, quanto ao acórdão paradigma, este Tribunal tem entendido que “apenas as decisões emanadas desta Corte, que tenham sido proferidas no exame de recursos extraordinários, podem ser invocadas como padrões de confronto, desqualificando-se, para esse específico efeito, acórdãos resultantes do julgamento de outras espécies recursais ou de causas de natureza diversa” (RE 140.829-EDv-AgR, rel. min. Celso de Mello, DJ de 18.12.2006). Dessa forma, são inservíveis para a demonstração do dissídio, acórdãos proferidos em Habeas Corpus e Recurso de Habeas Corpus.
+Ainda nesse sentido: RE 233.712-EDv (rel. min. Celso de Mello, DJ de 20.08.2001); RE 110.347-EDv (rel. p/ acórdão min. Moreira Alves, Plenário, DJ de 1º.07.1993); RE 255.328-ED-EDv-AgR (rel. min. Celso de Mello, Plenário, DJ de 30.05.2003); RE 205.968-ED-EDv-AgR (rel. min. Maurício Corrêa, Pleno, DJ de 02.03.2001), entre outros.
+Do exposto, considerado o manifesto descabimento do recurso, não admito os presentes embargos de divergência, nos termos do art. 21, § 1º e 335 do RISTF.
+Publique-se.
+Brasília, 06 de outubro de 2010.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
