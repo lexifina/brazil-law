@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“ RESCISÓRIA. TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. LC 118/05. IRRETROATIVIDADE. PRESCRIÇÃO. TERMO INICIAL. INTERPOSIÇÃO DE RECURSO ADMINISTRATIVO. MATÉRIA CONTROVERTIDA. SÚMULAS 134 DO TFR E 343 DO STF. INCIDÊNCIA.
+1. À época da prolação da decisão rescindenda, era controvertida a interpretação de artigo da LC 118/05 quanto ao marco inicial da prescrição, bem como quanto à sua interrupção por força de interposição do recurso administrativo.
+2. Todavia, nos termos das Súmulas 343 do STF e 134 do TFR, não cabe ação rescisória por violação de literal disposição de lei se, ao tempo em que foi prolatada a sentença rescindenda, a interpretação era controvertida nos Tribunais, embora posteriormente se tenha fixado favoravelmente à pretensão do autor. O fundamento das Súmulas 134 do TFR e 343 do STF está em que, para se dar provimento à rescisória, deve haver afronta direta ao dispositivo dito desrespeitado. Daí que a simples existência de posicionamentos divergentes já denota inexistir um sentido manifesto para a norma, especialmente no caso de ter sido ela revogada; sendo diversos os entendimentos, não há como decidir qual deles seria o correto, não se justificando, a bem de se estabilizarem as relações jurídicas, a mudança de decisão trânsita em julgado para fazer prevalecer interpretação diversa”.
+  No apelo extremo, o recorrente sustenta, em preliminar formal, a repercussão geral da matéria deduzida no recurso. No mérito alega que houve ofensa ao princípio da coisa julgada previsto no artigo 5º, inciso XXXVI, da Constituição Federal.
+Verifico, portanto, que a pretensão recursal não merece ser acolhida.
+Esta Corte consignou entendimento de que controvérsia referente aos limites da coisa julgada é uma discussão de índole infraconstitucional que não enseja abertura da via extraordinária, pois ofensa à Constituição Federal, se existisse, dar-se-ia de forma indireta ou reflexa.
+Nesse sentido, destaco os julgamentos do AI-AgR 639.002, Rel. Min. Menezes Direito, DJe 17.4.2009; do AI-AgR 702.182, Rel. Min. Ricardo Lewandowski, DJe 27.3.2009 e do RE-AgR 397.227, Rel. Min. Ayres Britto, DJe 13.8.2010, este último assim ementado:
+“ PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA ALUSIVA AOS LIMITES OBJETIVOS DA COISA JULGADA. 1. A discussão em torno dos limites objetivos da coisa julgada pertence ao plano infraconstitucional. Precedentes: AIs 639.002-AgR, da relatoria do ministro Menezes Direito; 667.691-AgR, da relatoria do ministro Celso de Mello; 702.182-AgR, da relatoria do ministro Ricardo Lewandowski; e 735.268-AgR, da relatoria da ministra Cármen Lúcia. 2. Incide, de mais a mais, a Súmula 279/STF. 3. Agravo regimental desprovido.”
+Esses julgamentos consolidaram a jurisprudência da Corte no sentido de que o tema versado nos autos é infraconstitucional, motivo pelo qual nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 6 de outubro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
