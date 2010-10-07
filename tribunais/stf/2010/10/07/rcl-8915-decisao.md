@@ -1,0 +1,21 @@
+D ECIS Ã O: Trata-se de reclamação, com pedido de medida liminar, ajuizada pela   C OOPERATIVA DOS T RABALHADORES A UT Ô NOMOS DE P ASSO F UNDO L TDA. –   C OOPERPASSO contra o processamento da Ação Civil Pública 00942-2008-661-04-00-0 pelo   J U Í ZO DO T RABALHO DA 1 ª   V ARA DE   P ASSO F UNDO .
+Narra a parte-reclamante ter o Ministério Público do Trabalho ajuizado ação civil pública que tem por objeto relação jurídica estabelecida com diversos municípios. Diz prestar serviços apenas para órgãos públicos “mediante contratação, via licitação, nos termos da Lei nº 8.666/93 e Lei nº 5.745” (Fls. 03). Contudo, entende o Ministério Público do Trabalho que “todas as cooperativas são fraudulentas” (Fls. 04). Portanto, ajuizou-se ação civil pública “com a finalidade de averiguar possíveis irregularidades nos contratos de prestação de serviços e a relação entre cooperativa e cooperados” (Fls. 05). A autoridade-reclamada concedeu a antecipação da tutela pleiteada (Fls. 182).
+Segundo argumenta a reclamante, a autoridade-reclamada violou a autoridade da medida cautelar concedida nos autos da ADI 3.395, na medida em que insiste em conhecer de litígio que envolve a contratação de servidores públicos.
+No mérito, pede-se o reconhecimento da incompetência da Justiça do Trabalho para conhecer da ação.
+As informações foram prestadas (Fls. 224-245).
+A medida liminar pleiteada foi indeferida (Fls. 247-255), em decisão da qual foi interposto agravo regimental (Fls. 273-280).
+O Ministério Público Federal, em parecer elaborador pelo procurador-geral da República, Dr. Roberto Monteiro Gurgel Santos, opina pela improcedência da reclamação (Fls. 288-291).
+É o relatório.
+Decido.
+Esta reclamação não reúne condições de prosseguir.
+O cabimento da reclamação constitucional pressupõe estrita pertinência entre o que decidido no precedente cuja autoridade se tem por violada e a fundamentação do ato-reclamado, sob pena de transformação do instrumento em simples sucedâneo de recurso, ação rescisória ou outro meio legal de impugnação ordinária de decisão judicial (Súmula 734/STF, Rcl 6.534-AgR, rel. Min. CELSO DE MELLO, Tribunal Pleno, julgado em 25/09/2008, DJe-197 DIVULG 16-10-2008 PUBLIC 17-10-2008 EMENT VOL-02337-01 PP-00160 RT v. 98, n. 879, 2009, p. 162-170; Rcl 5.684-AgR, rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 26/06/2008, DJe-152 DIVULG 14-08-2008 PUBLIC 15-08-2008 EMENT VOL-02328-01 PP-00213; Rcl 5.465-EDcl, rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 25/06/2008, DJe-152 DIVULG 14-08-2008 PUBLIC 15-08-2008 EMENT VOL-02328-01 PP-00178; Rcl 4.363-AgR, rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 20/09/2007, DJe-126 DIVULG 18-10-2007; Rcl 5.159-AgR, rel. Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 26/06/2007, DJe-077 DIVULG 09-08-2007 PUBLIC 10-08-2007 DJ 10-08-2007 PP-00021 EMENT VOL-02284-01 PP-00030; Rcl 4.395-EDcl, rel. Min. CEZAR PELUSO, Tribunal Pleno, julgado em 29/11/2006, DJ 02-02-2007 PP-00074 EMENT VOL-02262-03 PP-00475; Rcl 3.800-AgR, rel. Min. ELLEN GRACIE, Tribunal Pleno, julgado em 02/02/2006, DJ 09-06-2006 PP-00004 EMENT VOL-02236-01 PP-00137 LEXSTF v. 28, n. 331, 2006, p. 210-217; Rcl 6135 AgR, rel. Min. JOAQUIM BARBOSA, Tribunal Pleno, julgado em 28/08/2008, DJe-035 DIVULG 19-02-2009 PUBLIC 20-02-2009 EMENT VOL-02349-05 PP-01042 RT v. 98, n. 883, 2009, p. 143-147 e Rcl 2.665-AgR, Relator(a): Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 23/02/2005, DJ 17-06-2005 PP-00007 EMENT VOL-02196-01 PP-00098 LEXSTF v. 27, n. 320, 2005, p. 243-251).
+No caso em exame, o ato-reclamado tem por motivação o suposto abuso da forma cooperativa para escamotear a prestação de serviços típicos de relação trabalhista, independentemente do tomador de serviço.
+Já na ADI 3.395-MC nada se decidiu acerca da competência da Justiça Comum para conhecer e julgar pedidos relacionados à alegadas fraudes, simulações ou abusos de forma jurídica para frustrar direitos trabalhistas.
+Ante o exposto, nego seguimento à reclamação (art. 21, § 1º do RISTF).
+Em consequência, fica prejudicado o agravo regimental interposto contra o indeferimento da medida liminar (art. 21, IX do RISTF).
+Comunique-se o teor desta decisão à autoridade-reclamada, em ofício e por fax.
+Publique-se. Int..
+Brasília, 07 de outubro de 2010.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
