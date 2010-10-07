@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – COMBUSTÍVEL ADULTERADO – PROCESSO ADMINISTRATIVO – ACOMPANHAMENTO DE ASSISTENTE TÉCNICO – AMPLA DEFESA – LEI ESTADUAL Nº 11.929/05 - AGRAVO PROVIDO.
+1. Discute-se, nestes autos, a violação ao princípio constitucional da ampla defesa, no tocante à vedação, constante da normas estaduais, a que assistente técnico acompanhe o exame pericial para a constatação de adulteração de combustível.
+O Tribunal de Justiça do Estado de São Paulo consignou (folhas 291 e 292):
+Preceitua o artigo 2o desse diploma legal que a desconformidade referida será apurada e comprovada por meio de laudo elaborado pela Agência Nacional do Petróleo ou por entidade por ela credenciada ou com ela conveniada.
+Sabe-se, a propósito, que os solventes possuem elemento químico - marcador, adicionado pelas refinarias, que permite detectar a presença, na gasolina, de solventes não autorizados ou em quantidade não autorizadas. Se a fórmula química do marcador for divulgada quebrar-se-á a segurança estabelecida pela ANP na detecção dos ilícitos civis, tributários e penais. Essa é a razão pela qual não se permite a presença de pessoas estranhas aos laboratórios, seja por parte da Fazenda, seja por parte dos contribuintes ou mesmo do Judiciário.
+A legislação apenas permite a presença de testemunhas e do próprio contribuinte quando do lacre ou da abertura dos recipientes que guardam as amostras dos combustíveis apreendidos.
+Podia, assim, submeter à amostra em poder dele - a testemunha, à perícia a cargo do IPT, da Unesp ou da Unicamp, credenciadas, sem a presença, entretanto, de assistente técnico ou de pessoa que possa desvendar a composição química do marcador referido. Esse é o processo legal, que deve ser respeitado.
+Sabe-se, com efeito, que o contraditório, o direito de defesa tem seus limites traçados pelo procedimento, sem que arbitrariamente possam ser desrespeitados. Os procedimentos variam de acordo com a importância do direito material que pretendem tutelar. Bem por isso, o procedimento destinado à apuração do crime de homicídio é bem mais amplo que o utilizado no exame de simples contravenção penal. Não é possível, no caso, a utilização de procedimento que amplie a fraude que o ordenamento pretende impedir e desestimular.
+Não houve, em resumo, qualquer afronta ao devido processo legal, ao contraditório, ao direito de defesa. O comerciante pode submeter à perícia a amostra que tem em seu poder e bem assim a terceira colhida, em poder da Fazenda, desde que se submeta às regras definidas com esse objetivo, ou seja, ao devido processo legal.
+2. O agravante, no extraordinário, interposto com alegada base na alínea “a” do permissivo constitucional, sustenta a insubsistência do entendimento segundo o qual a realização do exame pericial não pode ser acompanhada por assistente técnico. O tema estar a merecer o Crivo do Colegiado Maior.
+3. Ante a excepcionalidade do quadro, conheço deste agravo e o provejo. Constando dos autos as peças indispensáveis ao julgamento do extraordinário, aciono a conversão. Autuem e distribuam na forma regimental para, a seguir, colher-se o parecer da Procuradoria-Geral da República.
+4. Publiquem.
+Brasília, 7 de outubro de 2010.
+Ministro MARCO AURÉLIO
+Relator
