@@ -1,0 +1,10 @@
+DECISÃO : Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário em que se alega violação do disposto no art. 5º, II, XVII e XX, da Constituição Federal.
+O acórdão recorrido está assim ementado:
+“Ação de cobrança. Loteamento aberto ou fechado. Equiparação a condomínio de fato para efeitos de cobrança de contribuição pela associação, formada para administrar os serviços e cobrar os seus custos. Extinção sem julgamento do mérito por ilegitimidade passiva. Hipótese de aplicação do art. 515, § 3º, do Código de Processo Civil. O princípio que veda o enriquecimento sem causa deve prevalecer sobre o que garante a liberdade de associação. Débito que só pode ser cobrado em relação aos últimos três anos contados do ajuizamento da ação, em decorrência da prescrição trienal prevista no art. 206, § 3º, IV, do Código Civil/2002. Correção monetária desde o vencimento, mas os juros moratórios só são devidos a partir da citação e no percentual previsto no Código Civil. Recurso provido para afastar a extinção e julgar parcialmente procedente a ação.” (Fls. 368)
+A análise das questões constitucionais suscitadas implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida e da legislação infraconstitucional que disciplina a cobrança das despesas condominiais. Isso inviabiliza o processamento do recurso, diante da vedação contida no enunciado das Súmulas 279 e, mutatis mutandis, 636, desta Corte. Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO CIVIL. DESPESAS CONDOMINIAIS. LEGITIMIDADE DA COBRANÇA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.” (AI 698.785-AgR, rel. Min. Cármen Lúcia, DJe de 13.03.2009)
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 7 de outubro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
