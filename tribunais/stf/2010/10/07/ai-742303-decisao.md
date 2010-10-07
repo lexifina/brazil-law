@@ -1,0 +1,27 @@
+Decisão:
+Vistos.
+Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+“PROCESSUAL CIVIL. AGRAVO INTERNO. DESCONSTITUIÇÃO DE TÍTULO EXECUTIVO. JURISPRUDÊNCIA DOMINANTE DO STJ. UTILIZAÇÃO NA DECISÃO AGRAVADA. ART. 557, CAPUT, DO CPC. NÃO VIOLAÇÃO. REDISCUSSÃO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+-Não cabe, em sede de agravo interno, rediscutir matéria já apreciada e decidida (presunção legal de certeza e liquidez da Certidão de Dívida Ativa, não tendo a recorrente logrado êxito em apresentar provas que tivessem o condão de desconstituir o título executivo), a qual se encontra sedimentada em Tribunal Superior, e que serviu de apoio à utilização do caput, do art. 557, do CPC, quando da decisão monocrática ora agravada.
+-Inexistindo qualquer novidade nas razões agravadas que ensejasse modificação nos fundamentos constantes da decisão ora impugnada, impõe-se sua manutenção.
+-Recurso não provido.” (folha 61)
+Os embargos de declaração de fls. 63/64 foram rejeitados, conforme acórdão de fls. 65/68.
+Contra-razões ao recurso extraordinário às fls. 77/83 e resposta ao agravo às fls. 88/93.
+Alega o recorrente, ora agravante, afronta ao art. 170, caput, da Constituição Federal, sob o argumento “que a imposição de multa por desatendimento de preceito que contém comando incompatível com a ordem econômica disciplinada na Constituição Federal, sem amparo em exceção nela prevista ou em lei que dela decorra, viola frontal e ostensivamente o princípio da livre iniciativa...” (fl. 93)
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 27/03/2008, conforme expresso na certidão de folha 69, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá quando não for o caso de inadmissibilidade do recurso por outra razão.
+O recurso não merece prosperar.
+Verifico, no tocante às alegações de violação à Constituição, que o acórdão atacado se limitou a assentar a legitimidade de auto de infração lavrado pela extinta Superintendência Nacional do Abastecimento - SUNAB, com fundamento na legislação ordinária pertinente ao caso.  Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário.
+Por outro lado, o Supremo Tribunal Federal tem se posicionado no sentido de que a Lei Delegada nº 04/62 foi recepcionada pela Constituição Federal de 1988. Dessa forma, legitima-se a multa aplicada pela SUNAB.
+No mesmo sentido, citem-se os seguintes precedentes do tribunal:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. LEI DELEGADA N. 4/62. RECEPÇÃO PELA CONSTITUIÇÃO DE 1988. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. Controvérsia decidida à luz de norma infraconstitucional. Ofensa indireta à Constituição do Brasil. 3. Este Tribunal possui orientação no sentido de que a Lei Delegada n. 04/62, que trata do poder de intervenção da União no domínio econômico, garantindo os serviços essenciais e a livre distribuição de mercadorias para consumo e uso, foi recepcionada pela Constituição de 1988. Precedentes. Agravo regimental a que se nega provimento.” (AI nº 603.879/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau , DJ de 8/9/06).
+“RECURSO EXTRAORDINÁRIO. OFENSA REFLEXA À CF/88. INADMISSIBILIDADE. SÚMULA STF Nº 636. 1. Acórdão de origem que assentou a legitimidade de auto de infração lavrado pela extinta Superintendência Nacional do Abastecimento - SUNAB, com fundamento na legislação ordinária (Portarias Super 53/90 e 193/91 da SUNAB e Lei Delegada 4/62). 2. É inadmissível o recurso extraordinário no qual, a pretexto de ofensa ao princípio da legalidade, pretende-se a exegese de legislação infraconstitucional. Ofensa à Constituição meramente reflexa ou indireta, de exame inviável nesta sede recursal. Incidência da Súmula STF nº 636. 3. Agravo regimental improvido” (RE nº 389.398/RJ-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie , DJ de 7/11/03).
+No mesmo sentido as seguintes decisões: RE 226.836/MS - AgR, Relator o Ministro Nelson Jobim, Segunda Turma, julgado em 12/9/00, DJ 13/10/00 e RE 400.467/MS, de minha relatoria, Dje 3/8/10.
+Mesmo que assim não fosse, a análise acerca da regularidade da cobrança da multa imposta à agravante, demandaria o reexame dos fatos e provas que permeiam a lide, o que é inadmissível em recurso extraordinário. Incidência da Súmula número 279 desta Corte.
+Diante do exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 7 de outubro de 2010.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
