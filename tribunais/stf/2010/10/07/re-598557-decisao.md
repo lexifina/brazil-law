@@ -1,0 +1,10 @@
+D ECIS Ã O: O Plenário do Supremo Tribunal Federal, apreciando o RE 540.410-QO, rel. min. Cezar Peluso, acolheu questão de ordem no sentido de “determinar a devolução dos autos, e de todos os recursos extraordinários que versem a mesma matéria, ao Tribunal de origem, para os fins do art. 543-B do CPC” (Informativo 516, de 27.08.2008).
+Decidiu-se, então, que o disposto no art. 543-B do Código de Processo Civil também se aplica aos recursos interpostos de acórdãos publicados antes de 03 de maio de 2007 cujo conteúdo verse sobre tema em que a repercussão geral tenha sido reconhecida.
+No presente caso, o recurso extraordinário trata sobre tema em que a repercussão geral já foi reconhecida pelo Supremo Tribunal Federal, no julgamento do AI 771.770-RG (rel. min. Dias Toffoli, DJe de 26.03.2010, reautuado como RE 627.106), cuja ementa é do seguinte teor:
+“DIREITO CONSTITUCIONAL. EXECUÇÃO EXTRAJUDICIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. RECEPÇÃO DO DECRETO-LEI Nº 70/66. PRESENÇA DE REPERCUSSÃO GERAL.”
+Do exposto, nos termos do art. 328 do RISTF (na redação dada pela Emenda Regimental 21/2007), determino a devolução dos presentes autos ao Tribunal de origem, para que seja observado o disposto no art. 543-B e parágrafos do Código de Processo Civil.
+Publique-se.
+Brasília, 07 de outubro de 2010
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
