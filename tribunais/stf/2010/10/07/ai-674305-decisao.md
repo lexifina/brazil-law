@@ -1,0 +1,15 @@
+DECISÃO : Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a , da Constituição) contra acórdão de Turma Recursal, cuja ementa tem o seguinte teor:
+“RECURSO INOMINADO. EMBARGOS À EXECUÇÃO. INCOMPETÊNCIA DOS JUIZADOS ESPECIAIS. COMPLEXIDADE. ILIQUIDEZ DA SENTENÇA. NÃO CONHECIMENTO. COISA JULGADA MATERIAL. OCORRÊNCIA. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.
+A preliminar de incompetência dos Juizados, seja pela alegada complexidade da causa, seja em face da existência de eventuais valores ilíquidos, não deve ser conhecida; assim é, porque, em verdade, a sede apropriada para essa discussão seria em grau de recurso; ocorre que o Recorrente, ao se insurgir contra a respeitável sentença prolatada em sede de ação de conhecimento, o fez a destempo, o que rendeu ensanchas ao Meritíssimo Juiz do feito declarar a sua intempestividade; acrescente-se, para gáudio da verdade, que contra essa decisão o Requerido, agora Recorrente, manejou Mandado de Segurança, para essa mesma Egrégia Turma, de que foi Relator sua Excelência, o Doutor Carlos Alberto Alves da Rocha e o resultado do julgamento desse Mandado foi a denegação da segurança, à unanimidade; acrescento, também, que participei desse julgamento, na qualidade de 2º vogal, consoante se pode verificar à fls. 1759/1767, volume IX-TR-.
+Ademais, a respeitável sentença prolatada em sede de embargos à Execução, que transcrevo, não merece censura, haja vista que analisou todas questões levadas ao crivo do Magistrado prolator.” (Fls. 2.214)
+Alega-se como violados os arts. 5º, LV; e 98, I, da Constituição federal.
+Inexiste a alegada ofensa ao art. 5º, LV, da Constituição, pois o acórdão recorrido, ao julgar o recurso interposto, inequivocamente prestou jurisdição, em observância aos princípios do contraditório e da ampla defesa.
+Ademais, a ofensa ao art. 98, I, da Constituição federal, se existente, passaria necessariamente pela violação de dispositivos da Lei 9.099/1995, configurando-se, pois, de maneira reflexa. O Supremo Tribunal Federal, em decisão da Primeira Turma, já teve oportunidade de se manifestar em sentido semelhante ao ora formulado. Confira-se:
+“ EMENTA: 1 . Recurso extraordinário: descabimento: dispositivos constitucionais tidos por violados não examinados pelo acórdão recorrido, nem objeto dos embargos de declaração opostos: incidência das Súmulas 282 e 356.
+2. Recurso extraordinário: inadmissibilidade: controvérsia acerca da competência dos Juizados Especiais no tocante ao valor e complexidade da causa, restrita ao âmbito infraconstitucional: alegada ofensa ao texto constitucional que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis , da Súmula 636.” (AI 510.323–ED, rel. min. Sepúlveda Pertence, DJ de 1º.04.2005)
+No mesmo sentido, o AI 504.621-AgR (rel. min. Cezar Peluso, DJ de 24.09.2004).
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 7 de outubro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
