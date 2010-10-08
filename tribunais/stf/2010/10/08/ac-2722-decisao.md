@@ -1,0 +1,16 @@
+DECISÃO
+AÇÃO CAUTELAR – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO AO PEDIDO.
+1. A Assessoria prestou as seguintes informações:
+Com esta ação cautelar, pretende-se garantir o conhecimento de embargos de declaração a serem protocolados pela autora, cujo prazo final é o dia de hoje, independentemente do recolhimento de multa.
+A autora aponta haver formalizado a Ação Ordinária nº 024.97.108265-6, na qual se discutia a possibilidade de aproveitamento de créditos relativos ao Imposto sobre Circulação de Mercadorias e Serviços – ICMS. A sentença foi proferida no sentido da improcedência do pedido. O Tribunal de Justiça do Estado de Minas Gerais, em apelação, acabou por reformá-la. Contra o mencionado acórdão o Estado de Minas Gerais interpôs recurso extraordinário, inicialmente distribuído ao Ministro Maurício Corrêa, que o desproveu — decisão veiculada no Diário da Justiça de 26 de junho de 2003. Posteriormente, com a redistribuição do processo, Vossa Excelência, em virtude de existência de erro material, apontada em embargos de declaração, declarou a insubsistência do pronunciamento anterior. Em novo exame, o extraordinário veio a ser provido, conforme decisão publicada no Diário da Justiça de 16 de agosto de 2005. A Primeira Turma, com imposição de multa, desproveu o agravo regimental a seguir interposto pela ora autora – acórdão publicado no Diário da Justiça de 24 de setembro passado.
+Afirma a autora que o valor da causa fora inicialmente arbitrado em R$ 10.000,00 (dez mil reais), todavia, em face de alteração ocorrida em sede de impugnação do valor da causa, a quantia atualizada chegou a R$ 21.335.566,47 (vinte e um milhões, trezentos e trinta e cinco mil, quinhentos e sessenta e seis reais e quarenta e sete centavos). Então, considerado esse montante, a multa imposta seria de R$ 1.066.778,32 (um milhão, sessenta e seis mil, setecentos e setenta e oito reais e trinta e dois centavos). Segundo sustenta, ante o fato de a análise de qualquer recurso estar vinculada ao depósito desse alto valor e de o prazo para fazê-lo mostrar-se exíguo, encontra-se impossibilitada de questionar a própria razoabilidade e proporcionalidade da sanção.
+Sob o ângulo do risco, diz ser necessário o pronunciamento imediato visando ao conhecimento dos embargos de declaração, a serem interpostos hoje, 1º de outubro de 2010, independentemente da efetivação do depósito do valor da multa prevista no artigo 557, § 2º, do Código de Processo Civil. Requer a concessão de medida acauteladora para tornar certa a apreciação dos declaratórios.
+Acompanham o processo os documentos juntados eletronicamente. A autora postula pela juntada posterior do instrumento de procuração, nos termos do artigo 37 do Código de Processo Civil.
+Anoto que esta ação cautelar foi formalizada na data de hoje.
+O processo encontra-se concluso a Vossa Excelência para exame do pedido de liminar.
+2. Salta aos olhos a impropriedade desta ação cautelar no que visa a garantir o conhecimento de embargos declaratórios ainda não protocolados. Questões referentes ao citado recurso hão de ser solucionadas no julgamento respectivo.
+3. Nego seguimento ao pedido formalizado.
+4. Publiquem.
+Brasília – residência –, 8 de outubro de 2010, às 11h20.
+Ministro MARCO AURÉLIO
+Relator
