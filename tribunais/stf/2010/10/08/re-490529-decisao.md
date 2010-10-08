@@ -1,0 +1,11 @@
+D ECIS Ã O: Trata-se de recurso extraordinário (art. 102, III, a , da Constituição) de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, o qual reconhecera que a estabilidade da gestante, prevista na Constituição, não alcançaria detentoras de cargo em comissão. Eis a ementa (fls. 168):
+“ADMINISTRATIVO E CONSTITUCIONAL – CARGO DE PROVIMENTO EM COMISSÃO – SERVIDORA PÚBLICA GESTANTE – FATO DESCOBERTO APÓS O ATO DE SUA EXONERAÇÃO – AUSÊNCIA DE DIREITO LÍQUIDO E CERTO – INDENIZAÇÃO – DESCABIMENTO. Não se reveste de arbitrariedade e ilegalidade o ato da Administração que exonera servidora pública, ocupante de cargo em comissão, quando a confirmação da gravidez ocorreu somente após a dispensa. A indenização pelo prazo da licença-maternidade, neste caso, não é devida. “
+Nas razões de recurso extraordinário, a recorrente aponta violação do disposto nos artigos 7º, XVIII; 37, § 3º; da Constituição e art. 10, II, b, do ADCT/88. Assevera que (...) independente da gravidez ser comunicada ou não ao Município no momento da exoneração (e que s provas produzidas confirmaram ter ocorrido) e ter sido esta a motivação da dispensa, a indenização correspondente é de responsabilidade objetiva do município, uma vez confirmada a gestação anda no curso do exercício do cargo.” (Fls. 188).
+O recurso merece provimento.
+A jurisprudência do Supremo Tribunal Federal tem se orientado no sentido de que as servidoras públicas, mesmos as ocupantes de cargo em comissão, têm direito ao benefício da estabilidade no período gestacional. Nesse sentido: RMS 24.263, rel. min. Carlos Velloso, DJ de 09.05.2003; RE 509.775, rel. min. Cármem Lúcia, DJ e de 20.05.2010; AI 720.385, rel. min. Ellen Gracie, DJ e de 12.02.2010; RE 580.566, rel. min. Ayres Britto, DJ e de 03.03.2010; RE 520.077, rel. min. Gilmar Mendes, DJ de 23.02.2007; RE 590.893, rel. min. Eros Grau, DJ e de 03.09.2008 e RE 597.807, rel. min. Celso de Mello, DJ e de 17.04.2009.
+Do exposto, dou provimento ao recurso para reconhecer à parte ora recorrente o direito à indenização pleiteada. Condeno o recorrido no pagamento das custas e honorários advocatícios que fixo em 10% sobre o valor da condenação.
+Publique-se.
+Brasília, 8 de outubro de 2010.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
