@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por ofensa aos arts. 5º, X, e 37, § 6º, da Constituição Federal, contra acórdão que concluiu pela inexistência de requisitos que ensejem reparação por danos morais decorrentes do reconhecimento da ilegalidade do ato de negativa de posse do autor no cargo de professor para o qual fora aprovado em concurso público, nos seguintes termos (fls. 338-342):
+“CONCURSO PÚBLICO – aprovação – negativa de posse por inaptidão apontada em exame médico – comprovação, posterior, em perícia médica do Instituto de Medicina Social e de Criminologia do Estado de São Paulo, da aptidão do autor para o desempenho da função de professor – ilegalidade da previsão do edital no sentido da irrecorribilidade da decisão da Junta Médica – ato ilegal da Administração ao negar a posse – indenização correspondente aos valores que teriam sido percebidos pelo autor, no exercício da função de professor, se não lhe houvesse sido negada a posse – dano moral inexistente – ação procedente – recursos improvidos”.
+2.  O Tribunal de origem sustenta, em síntese (fls. 427-428), que a alegada violação ao referido dispositivo constitucional, se existisse, seria reflexa, uma vez que a questão envolve exame de matéria infraconstitucional.
+3.  O agravo não merece prosperar. Preliminarmente, os dispositivos constitucionais referidos não foram prequestionados, porque não abordados pelo acórdão recorrido, ao qual não foram opostos os respectivos embargos de declaração, para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+4.  Ademais, esta Corte já fixou entendimento segundo o qual a análise sobre a indenização por danos morais limita-se ao âmbito de interpretação de matéria infraconstitucional, cujo exame se mostra inviável nesta sede recursal.
+5.  Ressalte-se que contra o acórdão recorrido o autor interpôs, concomitantemente, recurso especial (fls. 366-382), ao qual, em acórdão transitado em julgado, o Superior Tribunal de Justiça negou provimento, sob o entendimento de que, para alterar os fundamentos do acórdão recorrido, seria necessário o reexame da matéria fática dos autos, incidindo ali o óbice da Súmula 7/STJ (AG1.249.280-AgR/SP, 6ª Turma, rel. Min. Haroldo Rodrigues, Des. conv. TJ/CE, Dje 07.06.2010).
+6.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 08 de outubro de 2010.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
