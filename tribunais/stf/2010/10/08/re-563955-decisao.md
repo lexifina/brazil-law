@@ -1,0 +1,16 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho que, ao concluir pela inexistência de violação ao art. 896 da Consolidação das Leis Trabalhistas, não conheceu dos embargos da decisão de não-conhecimento do recurso de revista que discutira a nulidade do contrato de trabalho da reclamante com a ora recorrente (TELEMAR) e sucessora da empresa TELASA. A Corte de origem asseverou que (fls. 194-197):
+“não se vislumbra violação literal do art. 37, II, § 2º da Constituição Federal e nem contrariedade à Súmula 363 do C. TST, até porque se trata de debate vinculado também com a alteração de empresa com o processo de privatização, mantida a relação de emprego com o autor, que fora contratado sem concurso público” .
+2.  A recorrente sustenta, em síntese (fls. 201-205), a nulidade da contratação da reclamante sem concurso público, como exige o art. 7º, II, § 2º, da Carta Magna. Afirma também que a violação ao art. 37, II, § 2º, foi literal, pois não ocorreu simples mudança de natureza jurídica de ente estatal, mas sim efetiva mudança de propriedade da empresa.
+3.  Inadmitido o recurso (fls. 211-212), subiram os autos em virtude de provimento do AI 631.295/AL (fls. 235-236).
+4.  A Procuradoria-Geral da República opinou pelo não-provimento do recurso extraordinário (fls. 241-244).
+5.  Com efeito, o recurso não merece prosperar. O acórdão recorrido limitou-se a tratar de matéria processual, relativa a pressuposto de admissibilidade de recurso trabalhista – CLT, art. 896. Assim, a alegada contrariedade aos dispositivos constitucionais apontados somente poderia ocorrer de forma indireta, a depender do exame da legislação infraconstitucional, sem margem para o acesso à via extraordinária.
+ Sobre o tema ambas as Turmas desta Corte têm reiterado esse entendimento: AI 486.403-AgR/RS, rel. Min. Carlos Britto, 1ª Turma, DJ 22.4.2005; AI 480.496-AgR/PE, rel. Min. Celso de Mello, 2ª Turma, DJ 17.02.2006; e RE 574.197-AgR/RS, de minha relatoria, 2ª Turma, DJe 03.4.2009.
+6.  Frise-se que a Suprema Corte manifestou-se pela inexistência de repercussão geral da matéria no RE 598.365/MG, rel. Min. Carlos Britto.
+7.  Ademais, para divergir da conclusão a que chegou o Tribunal a quo, far-se-ia necessário o exame da legislação infraconstitucional, o que é defeso nesta fase recursal. Sobre a matéria, a jurisprudência desta Corte já assentou que a alegada ofensa à Constituição Federal, se existente, seria meramente reflexa ou indireta. Nesse sentido: AI 719.476/PR, rel. Min. Menezes Direito, DJe 17.9.2009; AI 468.546-AgR/RS, rel. Min. Nelson Jobim; 2ª Turma, DJ 16.4.2004; e RE 455.309-AgR/GO, rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 25.11.2005, este assim ementado:
+“Recurso extraordinário: descabimento: questão de natureza infraconstitucional - referente às peculiaridades relativas à sucessão trabalhistas (CLT, arts. 10 e 448) e ao exame dos parâmetros estabelecidos nos contratos de trabalho firmados entre as partes - insuscetível de reexame pela via do recurso extraordinário”.
+8.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 08 de outubro de 2010.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
