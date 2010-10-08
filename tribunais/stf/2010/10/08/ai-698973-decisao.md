@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por alegada violação aos arts. 2º, 5º, II, 37, 40 e 175 da Constituição Federal (fls. 95-102). O acórdão proferido pelo Tribunal de Justiça de São Paulo manteve a sentença que decretou a nulidade da aplicação da pena de demissão do autor, determinando sua reintegração no cargo público que ocupava, com pagamento dos vencimentos e demais vantagens salariais integrantes da remuneração, nos seguintes termos (fls. 70-76):
+“(...) Demissão ilegal porque o agente estava licenciado para o exercício das funções de presidente da cooperativa de saúde pública criada para auxiliar tais serviços em São Paulo. Ao exercer o cargo máximo no ente cooperado, não estava sujeito aos comandos da Lei Municipal 8989/79, que regula os deveres e obrigações dos agentes públicos municipais, estipulando sanções aplicáveis na violação de tais deveres”.
+2.  A Corte de origem asseverou que a alegada ofensa, se existisse, seria indireta, por implicar reexame de matéria infraconstitucional (fls. 160-161).
+3.  O agravante sustenta que a decisão agravada extrapolou o juízo de admissibilidade do recurso extraordinário, cujas razões atenderam à alínea a do inciso III do artigo 102 da Carta Manga, porquanto a violação ao art. 5º, II, do texto constitucional foi direta.
+4.  O agravo não merece prosperar. Preliminarmente, a questão constitucional tida como violada não foi prequestionada, porque não abordada pelo acórdão recorrido, e, embora suscitada nos embargos a ele opostos (fls. 79-92), a falta, no traslado, do teor das razões da apelação impede a verificação de suposta omissão do acórdão, não se podendo, assim, constatar a ocorrência do requisito do prequestionamento (Súmulas STF 282 e 356). O Tribunal a quo dirimiu a controvérsia com base nos fatos e provas da causa e na legislação infraconstitucional aplicável à espécie (Lei Municipais 8.989/95 e 11.866/95), cujo reexame se mostra inviável em sede extraordinária, tendo em vista o óbice das Súmulas STF 279 e 280. A alegada ofensa à Constituição Federal, se existisse, seria indireta.
+ Veja-se: AI 716.928/SC, rel. Min. Cármen Lúcia, DJe 12.05.2009; AI 683.680- AgR/GO, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 13.02.2009; e AI 495.652-AgR/SP , rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJ 09.09.2005.
+5.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput ).
+ Publique-se.
+ Brasília, 08 de outubro de 2010.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
