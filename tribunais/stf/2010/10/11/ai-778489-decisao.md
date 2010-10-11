@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Rio Grande do Sul que condenou a recorrente ao pagamento de indenização por danos morais e materiais.
+Alega-se, no recurso extraordinário, violação do disposto nos arts. 5º, X, e 93, IX, da Constituição.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do artigo 5º, X, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta da apelação, deduz conteúdo estranho à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ 15.09.2000).
+Ademais, inexiste a alegada ofensa ao art. 93, IX, da Constituição, porquanto o acórdão recorrido inequivocamente prestou jurisdição, enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora recorrente. Ressalto que a controvérsia acerca da análise da aplicação da multa requer sejam previamente examinadas as regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. Isto porque, verificar se os embargos declaratórios possuíam ou não conteúdo protelatório é matéria de índole processual, que se resolve à luz das normas constantes do Código de Processo Civil. A jurisprudência do Supremo Tribunal Federal concluiu que essa circunstância inviabiliza o processamento do recurso extraordinário (cf., entre outros, AgR-AI 614.139, rel. min. Sepúlveda Pertence, 1ª Turma, DJ de 13.04.2007; RE 371.123, rel. min. Cezar Peluso, DJ de 30.09.2004 e AI 585.461, minha relatoria, DJ de 25.05.2006).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 11 de outubro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
