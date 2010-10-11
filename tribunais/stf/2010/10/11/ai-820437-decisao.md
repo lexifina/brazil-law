@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“ AGRAVO DE INSTRUMENTO - RECURSO DE REVISTA - PROCESSO EM SEDE DE EXECUÇÃO DE SENTENÇA - COISA JULGADA - VIOLAÇÃO LITERAL E DIRETA DA CONSTITUIÇÃO FEDERAL NÃO CONFIGURADA   ART. 896, § 2º, DA CLT E SÚMULA 266 DO TST.
+1. Em sede de execução de sentença, o recurso de revista somente é admissível com base na ocorrência de violação literal e direta de dispositivo constitucional (CLT, art. 896, § 2º). A adjetivação da violação não é supérflua, uma vez que a via recursal, nessa hipótese, é excepcionalíssima.
+2. Com efeito, verifica-se que o dispositivo constitucional esgrimido pela Agravante, qual seja, o inciso XXXVI do art. 5º da CF, não rende ensejo ao recurso de revista, já que passível, eventualmente, de vulneração indireta, na esteira da jurisprudência do Supremo Tribunal Federal, o que atrai o óbice da Súmula 266 do TST e do art. 896, § 2º, da CLT.
+3. Ademais, a alegação recursal acerca do cômputo de valores relativos a período em que o paradigma não era mais empregado da Reclamada, não impulsiona a revista, pois a Orientação Jurisprudencial 123 da SBDI-2 do TST, aplicada ao caso por analogia, consagra o entendimento de que não se vislumbra a lesão à coisa julgada quando é necessária a interpretação do título executivo judicial, hipótese que se configura, mormente quando o Regional afirmou que o único e exclusivo marco executório fixado na sentença limitou-se ao período prescricional, nada mencionando a respeito da pretendida fixação durante a vigência do vínculo empregatício do paradigma.
+Agravo de instrumento desprovido”. (fl. 413)
+  No apelo extremo, o recorrente sustenta, em preliminar formal, a repercussão geral da matéria deduzida no recurso. No mérito alega que houve ofensa ao princípio da coisa julgada previsto no artigo 5º, inciso XXXVI, da Constituição Federal.
+Verifico, portanto, que a pretensão recursal não merece ser acolhida.
+Esta Corte consignou entendimento de que controvérsia referente aos limites objetivos da coisa julgada é uma discussão de índole infraconstitucional que não enseja abertura da via extraordinária, pois ofensa à Constituição Federal, se existisse, dar-se-ia de forma indireta ou reflexa.
+Nesse sentido, destaco os julgamentos do AI-AgR 639.002, Rel. Min. Menezes Direito, DJe 17.4.2009; do AI-AgR 702.182, Rel. Min. Ricardo Lewandowski, DJe 27.3.2009 e do RE-AgR 397.227, Rel. Min. Ayres Britto, DJe 13.8.2010, este último assim ementado:
+“ PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA ALUSIVA AOS LIMITES OBJETIVOS DA COISA JULGADA. 1. A discussão em torno dos limites objetivos da coisa julgada pertence ao plano infraconstitucional. Precedentes: AIs 639.002-AgR, da relatoria do ministro Menezes Direito; 667.691-AgR, da relatoria do ministro Celso de Mello; 702.182-AgR, da relatoria do ministro Ricardo Lewandowski; e 735.268-AgR, da relatoria da ministra Cármen Lúcia. 2. Incide, de mais a mais, a Súmula 279/STF. 3. Agravo regimental desprovido.”
+Esses julgamentos consolidaram a jurisprudência da Corte no sentido de que o tema versado nos autos é infraconstitucional, motivo pelo qual nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 11 de outubro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
