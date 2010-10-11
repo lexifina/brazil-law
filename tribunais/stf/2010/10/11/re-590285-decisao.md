@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de recurso extraordinário contra decisão da Décima Sexta Câmara Cível do TJ/RJ, que concluiu pela isenção do ICMS na importação do Bacalhau.
+A presente discussão foi tratada no Plenário desta Suprema Corte no exame do RE 229.096, relatado pelo Ministro Ilmar Galvão, cujo acórdão, redigido pela Ministra Cármen Lúcia, DJe 11.4.2008, foi assim ementado:
+“ DIREITO TRIBUTÁRIO. RECEPÇÃO PELA CONSTITUIÇÃO DA REPÚBLICA DE 1988 DO ACORDO GERAL DE TARIFAS E COMÉRCIO. ISENÇÃO DE TRIBUTO ESTADUAL PREVISTA EM TRATADO INTERNACIONAL FIRMADO PELA REPÚBLICA FEDERATIVA DO BRASIL. ARTIGO 151, INCISO III, DA CONSTITUIÇÃO DA REPÚBLICA. ARTIGO 98 DO CÓDIGO TRIBUTÁRIO NACIONAL. NÃO CARACTERIZAÇÃO DE ISENÇÃO HETERÔNOMA. RECURSO EXTRAORDINÁRIO CONHECIDO E PROVIDO. 1. A isenção de tributos estaduais prevista no Acordo Geral de Tarifas e Comércio para as mercadorias importadas dos países signatários quando o similar nacional tiver o mesmo benefício foi recepcionada pela Constituição da República de 1988. 2. O artigo 98 do Código Tributário Nacional 'possui caráter nacional, com eficácia para a União, os Estados e os Municípios' (voto do eminente Ministro Ilmar Galvão). 3. No direito internacional apenas a República Federativa do Brasil tem competência para firmar tratados (art. 52, § 2º, da Constituição da República), dela não dispondo a União, os Estados-membros ou os Municípios. O Presidente da República não subscreve tratados como Chefe de Governo, mas como Chefe de Estado, o que descaracteriza a existência de uma isenção heterônoma, vedada pelo art. 151, inc. III, da Constituição. 4. Recurso extraordinário conhecido e provido”.
+Com efeito, a toda evidência, a pretensão deduzida no recurso extraordinário contraria o entendimento sedimentado na referida assentada.
+Ante o exposto, nego seguimento ao recurso extraordinário (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 11 de outubro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
