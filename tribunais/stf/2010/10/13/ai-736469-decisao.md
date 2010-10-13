@@ -1,0 +1,12 @@
+DECISÃO : Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de Santa Catarina, cuja ementa tem o seguinte teor:
+“AÇÃO DE COBRANÇA. PLANO DE SAÚDE. DESPESAS COM CIRURGIA DE EMERGÊNCIA. COBERTURA FACULTATIVA. CLÁUSULAS RESTRITIVAS. IRRELEVÂNCIA. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. RECURSO E REMESSA DESPROVIDOS.” (Fls. 224)
+Alega-se como violado o art. 5º, XXXVI, da Constituição.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito dos artigo supracitado, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta da apelação, deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ de 15.09.2000), cujo acórdão ficou assim ementado:
+“ - Não tem razão a agravante. Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento.
+Agravo a que se nega provimento.”
+  Por outro lado, ainda que superado tal óbice, não mereceria ter seguimento o presente recurso, pois o Tribunal a quo, analisando o Código de Defesa do Consumidor e as cláusulas contratuais, manteve a sentença que reconheceu o direito do usuário a ser atendido fora do Estado nos casos de urgência e emergência. Ora, fica claro que uma eventual modificação desse entendimento implica, necessariamente, o reexame de legislações infraconstitucionais, de cláusulas contratuais e, também, dos fatos e provas que fundamentaram as conclusões do acórdão recorrido. Isso inviabiliza o processamento do recurso, ante as vedações contidas nos enunciados das Súmulas 279, 454 e, mutatis mutandis, 636 desta Corte.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 13 de outubro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
