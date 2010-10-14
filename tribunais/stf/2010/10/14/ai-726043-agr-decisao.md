@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo regimental contra decisão monocrática que negou seguimento a agravo de instrumento, ao fundamento de que a matéria tratada nos autos tem índole infraconstitucional.
+No agravo regimental, sustenta-se, em síntese, que há discussão constitucional já que o Brasil integra o acordo G.A.T.T., e o artigo 5º, §2º, da Constituição Federal ordena o respeito e o cumprimento aos compromissos internacionais ratificados pelo Estado Brasileiro.
+Assiste razão ao agravante.
+Verifico que, a presente discussão foi tratada no Plenário desta Suprema Corte no exame do RE 229.096, relatado pelo Ministro Ilmar Galvão, cujo acórdão, redigido pela Ministra Cármen Lúcia, DJe 11.4.2008, foi assim ementado:
+“ DIREITO TRIBUTÁRIO. RECEPÇÃO PELA CONSTITUIÇÃO DA REPÚBLICA DE 1988 DO ACORDO GERAL DE TARIFAS E COMÉRCIO. ISENÇÃO DE TRIBUTO ESTADUAL PREVISTA EM TRATADO INTERNACIONAL FIRMADO PELA REPÚBLICA FEDERATIVA DO BRASIL. ARTIGO 151, INCISO III, DA CONSTITUIÇÃO DA REPÚBLICA. ARTIGO 98 DO CÓDIGO TRIBUTÁRIO NACIONAL. NÃO CARACTERIZAÇÃO DE ISENÇÃO HETERÔNOMA. RECURSO EXTRAORDINÁRIO CONHECIDO E PROVIDO. 1. A isenção de tributos estaduais prevista no Acordo Geral de Tarifas e Comércio para as mercadorias importadas dos países signatários quando o similar nacional tiver o mesmo benefício foi recepcionada pela Constituição da República de 1988. 2. O artigo 98 do Código Tributário Nacional 'possui caráter nacional, com eficácia para a União, os Estados e os Municípios' (voto do eminente Ministro Ilmar Galvão). 3. No direito internacional apenas a República Federativa do Brasil tem competência para firmar tratados (art. 52, § 2º, da Constituição da República), dela não dispondo a União, os Estados-membros ou os Municípios. O Presidente da República não subscreve tratados como Chefe de Governo, mas como Chefe de Estado, o que descaracteriza a existência de uma isenção heterônoma, vedada pelo art. 151, inc. III, da Constituição. 4. Recurso extraordinário conhecido e provido”.
+Ante ao exposto, reconsidero a decisão agravada de fls. 194 e dou provimento ao agravo de instrumento para conhecer do recurso extraordinário e dar-lhe provimento (art. 544, § 3º e § 4º, do CPC).
+Publique-se.
+Brasília, 14 de outubro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
