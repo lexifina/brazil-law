@@ -1,0 +1,42 @@
+DECISÃO
+Vistos.
+José Antônio Maia interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso II, 19, inciso II, e 93, inciso IX, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Décima Segunda Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+“ APELAÇÃO CÍVEL.
+Condomínio.
+Cotas condominiais atrasadas, referentes a período anterior à compra do imóvel.
+Ação declaratória de inexistência de débito c/c repetição de indébito.
+Em termos de valoração da prova, o Código de Processo Civil adota o sistema da persuasão racional ou livre convencimento motivado, segundo o qual o julgamento deve ser fruto de uma operação lógica armada com base nos elementos de convicção existentes no processo.
+Inteligências do art. 333, I, e 131, de par com o art. 2º, § 2º, da Lei nº 7.433/85.
+Pedido procedente.
+Sentença confirmada.
+Recurso improvido” (fl. 235).
+Opostos embargos de declaração (fls. 241/242), foram rejeitados(fls. 245 a 252).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos declaratórios foi publicado em 3/8/04, conforme expresso na certidão de folha 253, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Anote-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então agravante, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+Por outro lado, a jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+No tocante ao artigo 19, inciso II, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+Ademais, no que se refere à ausência de elementos caracterizadores dos alegados danos morais, a sentença de primeiro grau, mantida pelo acórdão recorrido, assim consignou:
+“Como se sabe, a obrigação de pagar as despesas condominiais é propter rem.
+Com efeito, o art. 12, da Lei nº 4.591/64, estabelece que cada condômino concorrerá nas despesas do condomínio.
+Em decorrência, a simples condição obriga ao pagamento das despesas condominiais.
+Aliás, a jurisprudência trazida pelos próprios autores dá conta da natureza propter rem da obrigação de pagar as quotas condominiais.
+O fato de a vendedora do imóvel ter declarado que inexistia débito relativamente às despesas de condomínio é irrelevante, pois, como é de curial sabença, a quitação deve ser dada pelo credor, pelo que a declaração do devedor no sentido de que o apartamento se encontrava livre e desembaraçado de quaisquer ônus não tem o efeito liberatório em relação aos adquirentes, mas apenas de firmar a responsabilidade do declarante.
+Também é desimportante para o deslinde da presente ação a data em que foi lavrado o registro da compra e venda no RGI, pois a dívida é do imóvel, como se disse, sendo tal circunstância relevante apenas para delimitar a responsabilidade entre comprador e vendedor.
+Por esses motivos, estabelecida e responsabilidade do proprietário, é lícita a cobrança a ele efetuada, que não causa, pois, nenhum constrangimento ilegal, pelo que improcede o pedido declaratório, de repetição do indébito e indenizatório.
+Cumpre ressaltar, por oportuno, quanto ao pleito indenizatório, que restou inteiramente demonstrado nos autos que não houve nenhum excesso do condomínio na arrecadação do rateio das despesas, a caracterizar cobrança vexatória (cf. fls. 170), o que enseja a improcedências do pleito indenizatório, também por esse motivo” (fls. 185/186).
+Nesse caso, para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem seria necessária a interpretação da legislação infraconstitucional pertinente e o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 636 desta Corte. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. DANO MORAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE FATOS E PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 601.443/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+“CONSTITUCIONAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279 DO STF. I - A apreciação do recurso extraordinário demanda o exame de matéria de fato, o que atrai a incidência da Súmulas 279 do STF. II - Agravo regimental improvido” (AI nº 634.072/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 22/6/07).
+“1. Recurso extraordinário: descabimento: controvérsia de natureza infraconstitucional (Código de Defesa do Consumidor), decidida com base em fatos e provas, de reexame vedado no recurso extraordinário: incidência, mutatis mutandis, das Súmula 636 e Súmula 279. 2. Alegações improcedentes de negativa de prestação jurisdicional ou de violação do art. 5º, XXXV e LV, da Constituição Federal” (AI nº 597.064/BA-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 20/10/06).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (AI nº 556.757/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 12/5/06).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 14 de outubro de 2010.
+Ministro D IAS T OFFOLI
+Relator
