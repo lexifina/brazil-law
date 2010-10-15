@@ -1,0 +1,12 @@
+DECISÃO: Conheço, preliminarmente, dos presentes embargos de declaração como recurso de agravo (RTJ 145/664 - RTJ 153/834 – AI 243.159-ED/DF, Rel. Min. NÉRI DA SILVEIRA - AI 243.832-ED/MG, Rel. Min. MOREIRA ALVES – Rcl 4.395-ED/SP, Rel. Min. CEZAR PELUSO, v.g.).
+E, ao fazê-lo, reconsidero a decisão proferida a fls. 318/320, ficando prejudicado, em conseqüência, o exame do recurso interposto a fls. 333/336.
+Passo, desse modo, a apreciar o agravo de instrumento deduzido pela parte ora recorrente contra a decisão que negou trânsito ao recurso extraordinário por ela interposto.
+A parte ora agravante indicou, para efeito de composição do traslado, as seguintes peças (fls. 09/10):
+“(...) parecer conclusivo do Corpo Técnico da 1ª Zona Eleitoral, manifestando-se pela desaprovação das contas; petição do recorrente, apresentando manifestação sobre o parecer conclusivo, pela desaprovação das contas (protocolada em 10/12/2004), parecer conclusivo complementar do corpo técnico da 1ª Zona Eleitoral, manifestando-se pela desaprovação das contas; petição do recorrente, apresentando manifestação sobre o parecer conclusivo complementar, pela desaprovação das contas (protocolada em 14/12/2004), sentença pela desaprovação das contas, embargos de declaração do recorrente, à sentença pela desaprovação; petição do recorrente, requerendo a juntada de documentos citados nos embargos de declaração (protocolo de 20/12/2004); decisão sobre os embargos de declaração (fls. 411/413); cópias dos vv. Acórdãos exarados nos autos deste processo, cópias das certidões de intimação dos acórdãos, cópia dos recursos apresentados nestes autos (recurso ordinário, recurso especial, agravo de instrumento em face de despacho denegatório de recurso especial, agravo regimental) opostos nestes autos, cópia da petição de interposição de Recurso Extraordinário, das Contra-Razões ao Recurso Extraordinário, da decisão agravada, da respectiva certidão de intimação e das procurações outorgadas aos advogados.” (grifei)
+As cópias do acórdão recorrido e da respectiva certidão de intimação não constam do traslado, não obstante indicadas pelo próprio agravante.
+Sendo assim, determino a devolução dos presentes autos ao E. Tribunal Superior Eleitoral, para que, naquela instância judiciária, as peças indicadas pelo ora agravante sejam trasladadas.
+Após, voltem-me os autos conclusos.
+Publique-se.
+Brasília, 15 de outubro de 2010.
+Ministro CELSO DE MELLO
+Relator
