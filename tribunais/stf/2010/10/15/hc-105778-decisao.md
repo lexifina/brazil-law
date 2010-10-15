@@ -1,0 +1,18 @@
+1.  Trata-se de habeas corpus impetrado contra julgamento colegiado do Superior Tribunal Militar em outro writ anteriormente aforado perante aquela Corte (HC 0000107-08.2010.7.00.0000).
+          O paciente foi denunciado pela suposta prática do crime previsto no art. 311 do CPM, em razão de suposta falsificação de documentos de embarcação emitidos pela Marinha (Caderneta de Inscrição e Registro - CIR).
+          Contra tal situação, impetrou-se habeas corpus ao Superior Tribunal Militar com o objetivo de reconhecer a incompetência da justiça especializada para processar e julgar a ação penal. Todavia, a Corte Superior denegou a ordem.
+          Argumenta a impetrante, em síntese, que “o paciente, civil, não lesou a ordem administrativa militar e nem o patrimônio sob a administração militar e que suposta conduta não foi empregada em local sujeito à instituição militar”. Nesses termos, a defesa alega o reconhecimento da incompetência da Justiça Militar da União e, por conseguinte, a nulidade de todos os atos processuais desde o recebimento da denúncia.
+          Assim, requer a concessão de provimento liminar para que seja determinada a suspensão da ação penal militar de nº 00000043-60.2009.7.12.0012, em trâmite na 12ª Circunscrição Judiciária Militar, até o julgamento definitivo do writ.
+    2.  O Superior Tribunal Militar, ao julgar o HC 0000107-08.2010.7.00.0000, relatado pelo eminente Ministro Gen. Ex. Francisco José da Silva Fernandes, denegou a ordem nos termos da seguinte ementa:
+    “ HABEAS CORPUS. FALSIFICAÇÃO DE DOCUMENTO (com ART. 311). COMPETÊNCIA DA JUSTIÇA MILITAR DA UNIÃO.
+     Paciente denunciado como incurso no art. 311 do com, por suposta falsificação de documentos de embarcação que teriam tramitado na capitania fluvial de Itacoatiara, e emitidos pela Marinha. Argumenta-se não ser essa atividade típica da Marinha, bem como ter ocorrido fora de lugar sujeito à Administração Militar. A expedição de Caderneta de Inscrição e Registro (CIR) é de competência atributiva exclusiva das Capitanias dos Portos, como órgãos integrantes da estrutura organizacional da Marinha do Brasil. Entendimento consolidado na Corte Castrense no sentido de que a conduta descrita na inicial é considerada crime militar, consoante regra prevista no art. 9º, III, “a”, do com, pois causa reflexos negativos à credibilidade e fé pública da Administração Militar, particularmente o prestígio da Marinha do Brasil perante a sociedade. Ordem denegada. Decisão unânime”.
+          Com efeito, da leitura do acórdão que fundamentou o acórdão impugnado na inicial, verifico que o ato se encontra devidamente motivado, apontando as razões de convencimento da Corte no sentido da manutenção da competência da Justiça Militar da União.
+    3.  Ressalto que, para fins de apreciação do pedido de medida liminar, é necessário avaliar se o acórdão atacado teve o condão de caracterizar patente constrangimento ilegal. Na hipótese dos autos, as razões do aresto hostilizado mostram-se relevantes e, num primeiro exame, sobrepõem-se aos argumentos lançados no writ.
+    4.  Desse modo, não vislumbro a presença do requisito do fumus boni iuris para a concessão da tutela pleiteada.
+    5. Ademais, a liminar pleiteada tem caráter nitidamente satisfativo, confundindo-se com o mérito da matéria suscitada, que, diante da sua complexidade, merece um exame mais detido, possível quando do julgamento do mérito pelo órgão colegiado.
+    6.  Ante o exposto, indefiro o pedido de liminar. Colha-se a manifestação da Procuradoria-Geral da República.
+          Publique-se.
+          Brasília, 15 de outubro de 2010.
+Ministra Ellen Gracie
+Relatora
+Documento assinado digitalmente
