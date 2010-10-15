@@ -1,0 +1,12 @@
+D ECIS Ã O: Trata-se de habeas corpus, com pedido de liminar, em favor de VALTER DO COUTO, preso há dez meses pela prática do crime de tráfico de drogas. O paciente foi condenado à pena de 1 ano e 8 meses de reclusão.
+Como salientei na decisão em que deferi, parcialmente, o pedido de liminar, o Supremo Tribunal Federal julgou inconstitucional a vedação legal à substituição da pena, cabendo ao juízo sentenciante analisar, no caso concreto, se estão presentes os requisitos para a aplicação de pena alternativa.
+Determinei, na decisão anterior, que o juízo de primeiro grau analisasse a possibilidade desta substituição. Contudo, em informações agora prestadas, constata-se que aquela autoridade deixou de substituir a pena privativa de liberdade e de conceder o sursis “uma vez que o crime praticado é grave e coloca em risco a sociedade, por fomentar crimes praticados com violência ou grave ameaça, sendo necessária uma segregação mais severa para assegurar a ordem pública, não se encontrando presentes, portanto, os requisitos subjetivos previstos no art. 44, III, do Código Penal”.
+Como se percebe, a fundamentação utilizada pelo magistrado de primeiro grau não traz qualquer análise do caso concreto, limitando-se a considerações abstratas acerca do crime de tráfico de drogas. No caso, aliás, não houve imputação de qualquer ato de violência ou grave ameaça ao paciente, o que demonstra a impropriedade dos fundamentos constantes da decisão.
+Além disso, relativamente à prisão processual do acusado, consta dos autos que “Não se concede o direito de recorrer em liberdade diante da necessidade de manutenção da ordem pública, uma vez que o réu, posto em liberdade, certamente voltará a delinquir, tendo em vista, ainda, a possibilidade de fuga que impedirá a aplicação da lei penal”. Apenas isso. Mais uma vez, não se aludiu a qualquer dado concreto relativo ao paciente que autorizasse as conclusões acima citadas.
+Do exposto, por estar patente a ausência de fundamentação para a prisão cautelar, defiro o pedido de liminar e determino a imediata expedição de alvará de soltura em favor do paciente, a ser cumprido se por al não estiver preso.
+Além disso, com base no que já decidiu este Supremo Tribunal Federal (HC 97.256), determino nova análise dos requisitos do art. 44 do Código Penal, com base em dados concretos constantes dos autos, e não na gravidade per se do crime de tráfico de drogas.
+Publique-se. Cumpra-se com urgência. Abra-se vista à PGR.
+Brasília, 15 de outubro de 2010.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
