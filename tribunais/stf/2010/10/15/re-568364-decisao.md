@@ -1,0 +1,13 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+“EMENTA. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. DESISTÊNCIA DO COMPROMISSÁRIO-COMPRADOR. MULTA RESCISÓRIA. RELATIVIDADE DO TERMO DE AJUSTAMENTO DE CONDUTA. RESTITUIÇÃO DAS IMPORTÂNCIAS PAGAS IMEDIATAMENTE. CORREÇÃO MONETÁRIA. INPC. I – Termo de ajustamento de conduta não se iguala a lei, por isso obriga apenas os órgãos e as pessoas que o firmaram. Portanto, mesmo dando causa a rescisão do contrato, o promitente-comprador tem direito assegurado a devolução imediata das parcelas pagas, 'ex vi' do disposto no inciso IV do artigo 51 e 53 do CDC, deduzindo-se o total de 10% (dez por cento) a título de multa, conforme precedentes desta Turma. II – Consoante remansosa jurisprudência sobre o tema, os valores a serem restituídos na espécie devem ser corrigidos pelo INPC-IBGE, por ser o índice oficial e mais benéfico à devedora. III – Recurso conhecido e parcialmente provido, para determinar a dedução de 10% do valor a ser restituído e aplicar o INPC como indexador monetário ” (fl. 121).
+2.  Nas razões do RE, sustenta-se ofensa ao artigo 5º, XXXVI e LV, da Constituição Federal.
+3.  Inadmitido na origem (fl. 147), subiram os autos em virtude do provimento do AI 676.711/GO.
+4.  Instado a se manifestar (fl. 154), o Ministério Público Federal opinou pelo não-conhecimento do recurso extraordinário (fl. 156-159).
+5.  O recurso não merece prosperar. Para o exame das violações alegadas, seria necessária a análise de cláusulas contratuais (Súmula STF 454) e de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária.
+6.  Ademais, quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+7.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 15 de outubro de 2010.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
