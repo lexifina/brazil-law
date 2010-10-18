@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça de São Paulo que negou provimento a apelação interposta pelo ora agravante. Transcrevo as ementas (fls. 1207/1227):
+“Danos morais. Autor comprovou conduta inadequada do réu. Comportamento do pólo passivo originou afronta à dignidade da pessoa humana, bem como a colocou em situação vexatória. Apelante atribuiu ao autor inúmeras irregularidades, porém sequer demonstrou indícios de que o apelado teria cometido ilicitudes. Notificação proposta pela instituição de ensino não pode ser atribuída ao autor, e nem mesmo a divulgação para as pessoas vinculadas ao réu. Dano moral configurado, mesmo porque, o pólo passivo, além de fundador da instituição, é Procurador de Justiça aposentado, portanto, deve observar o cuidado necessário nas manifestações. Apelo desprovido.”
+“Embargos declaratórios. Ausência dos requisitos legais previstos no artigo 535 do Código de Processo Civil. Inexistência de obscuridade ou contradição, conforme sustentado. Pronunciamento explícito quanto à interpretação da matéria avençada. Prequestionamento. Desnecessidade de menção expressa aos textos de lei em que se baseia o acórdão embargado. Caráter protelatório e infringente. Aplicação de multa de 1%¨sobre o valor da causa. Embargos rejeitados.
+  No recurso extraordinário, alega-se violação do disposto no art. 5º, LV, da Constituição. O recorrente argumenta que a inconstitucionalidade decorre de cerceamento de defesa, causado por indeferimento de prova, e da imposição de multa no julgamento dos embargos de declaração.
+A decisão do Superior Tribunal de Justiça que deu provimento parcial ao recurso especial (fls. 1342) para afastar a multa do art. 538, parágrafo único, do Código de Processo Civil, já transitou em julgado. Por essa razão, julgo parcialmente prejudicado o recurso extraordinário, na parte referente à multa por embargos protelatórios.
+No que concerne ao indeferimento de produção de provas, por se tratar de controvérsia exclusivamente processual, de natureza, portanto, infraconstitucional, não dá ensejo a recurso extraordinário.
+Neste sentido:
+EMENTA: ACÓRDÃO QUE SE LIMITOU A DIRIMIR A CONTROVÉRSIA, ACERCA DA NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL, COM BASE EXCLUSIVAMENTE NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE.
+Questão eminentemente processual, que não enseja apreciação em recurso extraordinário. Ademais, foi conferida à parte prestação jurisdicional adequada, embora em sentido contrário aos seus interesses, não configurando cerceamento de defesa. Agravo desprovido. (AI 474.746-AgR, rel. min. Carlos Britto, DJ de 11.03.2005)
+Nesse sentido: AI 756.858-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 02.10.2009); AI 692.834-AgR (rel. min. Eros Grau, Segunda Turma, DJe de 06.02.2009) e AI 203.793AgR (rel. min. Maurício Corrêa, Segunda Turma, DJ de 19.12.1997).
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 18 de outubro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
