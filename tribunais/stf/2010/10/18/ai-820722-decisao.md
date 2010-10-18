@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 200):
+“AGRAVO DE INSTRUMENTO. Nega-se provimento ao agravo de instrumento quando suas razões, mediante as quais se pretende demonstrar que o recurso de revista atende aos pressupostos de admissibilidade inscritos no art. 896 da CLT, não conseguem infirmar os fundamentos do despacho agravado.”
+Nas razões do recurso extraordinário, indica-se ofensa ao disposto no art. 5º, II, XXXVI, LIV e LV, da Constituição federal. Sustenta-se o descabimento da imposição de multa diante da inércia no cumprimento da ordem judicial e a inobservância dos termos da sentença pela decisão de liquidação.
+É o relatório. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Por outro lado, a tese de ofensa ao art. 5º, XXXVI, por demandar o exame prévio dos limites objetivos da coisa julgada em face da legislação processual infraconstitucional, é indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 372.358-AgR (rel. min. Celso de Mello, Segunda Turma, DJ de 28.06.2002), AI 360.265-AgR (rel. min. Celso de Mello, Segunda Turma, DJ de 20.09.2002), AI 401.735-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 01.04.2005), AI 451.773-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJ de 01.09.2006), RE 374.498-AgR (rel. min. Carlos Britto, Primeira Turma, DJ de 22.10.2004).
+Igualmente, a análise da apontada violação do art. 5º, II, da Constituição demandaria o exame prévio da legislação infraconstitucional. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+Ademais, inexistem as alegadas ofensas ao art. 5º, LIV e LV, da Constituição, porquanto o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 18 de outubro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
