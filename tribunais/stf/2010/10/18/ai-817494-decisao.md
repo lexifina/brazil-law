@@ -1,0 +1,28 @@
+1.     Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que negou provimento à apelação defensiva.
+2.      Nas razões do RE, sustenta-se ofensa aos arts. 5º, XLVI, LIV e LV, e 93, IX, todos da Constituição Federal.
+       Salienta o recorrente que houve cerceamento de defesa e afronta ao devido processo legal, dada a não-realização de audiência para leitura da sentença condenatória, proferida sem a devida fundamentação.
+      Alega novo cerceamento de defesa devido à falta de intimação para sessão de julgamento da apelação, ocasionando a impossibilidade de se realizar sustentação oral.
+      Contesta as provas e fundamentos admitidos para amparar o decreto condenatório. Reputa inepta a denúncia, por descrever de forma genérica a conduta perpetrada pelo recorrente.
+       Afirma, ainda, que houve violação ao princípio da individualização da pena, considerando que não foram observadas as circunstâncias do art. 69 do Código Penal Militar.
+3.      O acórdão recorrido restou assim ementado (fl. 45):
+“ PROCESSUAL E PENAL MILITAR. ALEGAÇÕES DE NULIDADES DO PROCESSO POR INÉPCIA DA DENÚNCIA, POR FALTA DE REINQUIRIÇÃO DE UMA TESTEMUNHA E INVALIDADE DE RECONHECIMENTO FOTOGRÁFICO – PRELIMINARES REJEITADAS. CONCUSSÃO. APELOS DEFENSIVOS NÃO PROVIDOS.
+1.       Mostram-se preclusas as alegações de inépcia da denúncia e de cerceamento de defesa, pelo indeferimento de reinquirição de testemunha, se não feitas no prazo do art. 428 do CPPM, a teor dos arts. 504, letra 'a', e 505, ambos do CPPM. Preliminares de nulidade do processo rejeitadas. Decisão unânime.
+2.       Não há falar-se em nulidade do ato de reconhecimento fotográfico na fase investigatória, se o acusado foi reconhecido em juízo pelas testemunhas. Preliminar de nulidade do processo rejeitada. Decisão unânime.
+3.       Praticam o crime militar de concessão (art. 305 do CPM), em concurso de agentes e de crimes (artigos 53, caput, e 80, ambos do CPM), policiais militares que, em serviço de policiamento ostensivo e em razão da função (art. 9º, II, 'c', do CPM), exigem das vítimas dinheiro, sob a ameaça de fecharem seus estabelecimentos comerciais. Apelos defensivos não providos. Decisão unânime”.
+         A respeito das questões suscitadas, oportuno transcrever os fundamentos esposados no voto condutor do acórdão recorrido (fls. 53-57 e 72):
+“(...) A sentença foi lavrada e juntada aos autos em 21.08.2009 (fls. 770/799), tendo sido lida e publicada em audiência realizada no dia 14.09.2009, conforme termo da fl. 806.
+Com efeito, em já tendo o processo sido julgado e sentenciado sem que a defesa nunca tivesse feito essa alegação, até mesmo no pedido de ordem de habeas-corpus impetrado, não há falar-se mais em inépcia da denúncia, restando a alegação absolutamente preclusa, a teor dos artigos 504, letra 'a', e 505, ambos do CPPM.
+(...)
+Vê-se, assim, que as testemunhas de acusação, além do reconhecimento fotográfico na fase investigatória, reconheceram o acusado em juízo
+(...)
+Assim, as condenações estão bem fundamentadas nas robustas provas dos autos.
+A pena aplicada ao apelante 2º Sargento Márcio Rosano Dias de Souza, de seis anos e oito meses de reclusão, como incurso no artigo 305 do COM, que promete pena mínima de dois anos de reclusão, por cinco vezes, pelos 2º, 3º, 4º, 6º e 8º fatos descritos na denúncia, foi extremamente benéfica, com aplicação alternativa do artigo 71 do Código Penal Brasileiro, uma vez que reconhecida a continuidade delitiva, que poderia ser agravada, a teor do artigo 53, § 2º, inciso I, do CPM porque emerge dos autos que o acusado promovia e organizava a cooperação no crime e dirigia a atividade dos demais agentes, mas na ausência de recurso da acusação, tornou-se definitiva, não merecendo reparos”.
+      Infere-se dos excertos transcritos que a suposta ofensa à Constituição, se houvesse, seria indireta, a depender de análise da legislação infraconstitucional (Decreto-Lei 201/67), além de requerer o reexame dos fatos e das provas da causa (Súmula STF 279), hipóteses inviáveis em sede extraordinária.
+4.      Ademais, este Tribunal entendeu que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da ampla defesa e do contraditório, se existentes, seriam meramente reflexas ou indiretas, cujo exame se mostra inviável nesta sede recursal. Nesse sentido, o AI 372.358-AgR, rel. Min. Celso de Mello, 2ª Turma, DJ 28.06.2002.
+5.     Em relação à alegada contrariedade ao disposto no art. 93, IX, da Constituição Federal, o fato de a decisão ter sido contrária aos interesses da parte não caracteriza violação ao dispositivo constitucional apontado. Nesse sentido, AI 662.319-AgR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 05.03.2009; e AI 682.065-AgR, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 03.04.2008; entre outros julgados.
+6.    No que tange à falta de intimação para sessão de julgamento da apelação, verifico que não se encontra prequestionada a questão, porque não abordada pelo acórdão recorrido, tampouco foram opostos embargos de declaração a fim de suscitar a matéria (Súmulas STF 282 e 356). É pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142-AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.09.2001; e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+7.        Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 18 de outubro de 2010.
+Ministra Ellen Gracie
+Relatora
