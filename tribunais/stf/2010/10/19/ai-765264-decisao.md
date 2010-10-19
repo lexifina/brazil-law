@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO. AGENTE PENITENCIÁRIO FEDERAL. EXAME PSICOLÓGICO. CARÁTER SIGILOSO E IRRECORRÍVEL. CRITÉRIOS SUBJETIVOS. AGRESSÃO A PRINCÍPIOS CONSTITUCIONAIS. DIREITO A SER EMPOSSADO NO CARGO
+(...)” (fl. 71).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXV, e 37, I e II, da mesma Carta.
+O agravo não merece acolhida. Isso porque o acórdão atacado está em consonância com o entendimento desta Corte no sentido de que os atos administrativos praticados na condução de concurso para provimento de cargos públicos devem-se pautar em critérios objetivos, para permitir ao candidato a compreensão e eventual impugnação da nota que lhe foi atribuída em determinado exame. Nesse sentido, trago à colação o AI 680.650-AgR/DF, Rel. Min. Ayres Britto e AI 623.195-AgR/BA, de minha relatoria, cujas ementas seguem respectivamente transcritas:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONCURSO PÚBLICO DE AGENTE PENITENCIÁRIO DE SEGUNDA CLASSE DA CARREIRA POLICIAL CIVIL DO DISTRITO FEDERAL. EXAME PSICOTÉCNICO. AUSÊNCIA DE AMPLA RECORRIBILIDADE. CRITÉRIOS SUBJETIVOS. OFENSA ÀS GARANTIAS DO CONTRADITÓRIO E DA AMPLA DEFESA. Os atos administrativos praticados na condução de concurso para provimento de cargos públicos devem-se pautar em critérios objetivos. Isto para permitir ao candidato a compreensão e eventual impugnação da nota que lhe foi atribuída em determinado exame. Precedentes: AI 265.933-AgR, da relatoria do ministro Sepúlveda Pertence; AI 467.616-AgR, da relatoria do ministro Celso de Mello; e RE 326.349-AgR, da relatoria do ministro Gilmar Mendes. Agravo regimental a que se nega provimento”
+“CONSTITUCIONAL. PROCESSUAL CIVIL. EXAME PSICOLÓGICO. ILEGITIMIDADE. SÚMULA 279. AGRAVO IMPROVIDO. I - É ilegítimo o exame psicológico realizado com base em critérios subjetivos ou sem a possibilidade de exercício do direito a recurso administrativo. II - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Ausência de novos argumentos. IV - Agravo regimental improvido”
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 19 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
