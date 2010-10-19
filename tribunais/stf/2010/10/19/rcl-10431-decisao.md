@@ -1,0 +1,11 @@
+D ECIS Ã O: vistos, etc.
+Trata-se de reclamação constitucional, aparelhada com pedido de medida liminar, proposta por Aldo Alves Pinto contra ato do Juízo de Direito da Vara Única da Comarca de Nova Era/MG. Ato consubstanciado em decisão que indeferiu pedido de liberdade provisória.
+2. Argui o autor que foi preso em flagrante no dia 03 de julho de 2010 pela suposta prática do crime tipificado no caput do art. 33 da Lei 11.343/2006. Prisão que, segundo o reclamante, é nula, pois, durante o interrogatório, a autoridade policial lhe impôs o uso de algemas. Isto sem que houvesse qualquer justificativa por escrito. Pois bem, ajuizado o pedido de liberdade provisória, a autoridade reclamada afastou a preliminar de nulidade da prisão e negou o pedido. Sustenta o reclamante, então, violação à Súmula Vinculante 11 deste Supremo Tribunal Federal e requer “a anulação do ato administrativo proferido pela autoridade policial (APFD) e da decisão que indeferiu o pedido de relaxamento da prisão em flagrante”.
+3. Pois bem, antes de apreciar o pedido de medida liminar, solicitei informações ao reclamado. Informações que foram prestadas mediante a petição 52.481/2010. Após o que o Juízo de Direito da Vara Criminal da Comarca de João Monlevade/MG juntou aos autos a petição 56.529/2010.
+4. Feito esse aligeirado relato da causa, passo à decisão. Fazendo-o, pontuo, de saída, haver esta reclamação perdido o objeto. É que, conforme esclareceu o Juízo de Direito da Vara Criminal da Comarca de João Monlevade/MG, os fatos narrados na petição inicial deram ensejo a ação penal. Ação que foi julgada parcialmente procedente “para condenar o paciente como incurso nas sanções do art. 28, caput, da Lei nº 11.343/06 à prestação de serviço à comunidade, pelo prazo de 03 (três) meses”. Sendo assim, “tendo em vista a natureza da pena imposta na sentença, foi expedido alvará de soltura em favor do paciente”. Pelo que não mais subsistem os efeitos do ato impugnado nesta ação reclamatória.
+5. Ante o exposto, julgo prejudicada a reclamação, o que faço com fundamento no inciso IX do art. 21 do RI/STF.
+Publique-se.
+Brasília, 19 de outubro de 2010.
+Ministro A YRES B RITTO
+Relator
+Documento assinado digitalmente
