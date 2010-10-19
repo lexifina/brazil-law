@@ -1,0 +1,1 @@
+Art. 40. O Conselho Deliberativo do Fundo de Amparo ao Trabalhador (Codefat) formulará políticas, programas e projetos voltados para a inclusão da população negra no mercado de trabalho e orientará a destinação de recursos para seu financiamento.

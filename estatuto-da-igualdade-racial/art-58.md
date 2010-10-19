@@ -1,0 +1,1 @@
+Art. 58. As medidas instituídas nesta Lei não excluem outras em prol da população negra que tenham sido ou venham a ser adotadas no âmbito da União, dos Estados, do Distrito Federal ou dos Municípios.

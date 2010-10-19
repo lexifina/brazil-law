@@ -1,0 +1,1 @@
+Art. 9º A população negra tem direito a participar de atividades educacionais, culturais, esportivas e de lazer adequadas a seus interesses e condições, de modo a contribuir para o patrimônio cultural de sua comunidade e da sociedade brasileira.

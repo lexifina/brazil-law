@@ -1,0 +1,1 @@
+Art. 25. É assegurada a assistência religiosa aos praticantes de religiões de matrizes africanas internados em hospitais ou em outras instituições de internação coletiva, inclusive àqueles submetidos a pena privativa de liberdade.

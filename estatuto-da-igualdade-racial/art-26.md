@@ -1,0 +1,4 @@
+Art. 26. O poder público adotará as medidas necessárias para o combate à intolerância com as religiões de matrizes africanas e à discriminação de seus seguidores, especialmente com o objetivo de:
+I - coibir a utilização dos meios de comunicação social para a difusão de proposições, imagens ou abordagens que exponham pessoa ou grupo ao ódio ou ao desprezo por motivos fundados na religiosidade de matrizes africanas;
+II - inventariar, restaurar e proteger os documentos, obras e outros bens de valor artístico e cultural, os monumentos, mananciais, flora e sítios arqueológicos vinculados às religiões de matrizes africanas;
+III - assegurar a participação proporcional de representantes das religiões de matrizes africanas, ao lado da representação das demais religiões, em comissões, conselhos, órgãos e outras instâncias de deliberação vinculadas ao poder público.
