@@ -1,0 +1,5 @@
+Art. 13. O Poder Executivo federal, por meio dos órgãos competentes, incentivará as instituições de ensino superior públicas e privadas, sem prejuízo da legislação em vigor, a:
+I - resguardar os princípios da ética em pesquisa e apoiar grupos, núcleos e centros de pesquisa, nos diversos programas de pós-graduação que desenvolvam temáticas de interesse da população negra;
+II - incorporar nas matrizes curriculares dos cursos de formação de professores temas que incluam valores concernentes à pluralidade étnica e cultural da sociedade brasileira;
+III - desenvolver programas de extensão universitária destinados a aproximar jovens negros de tecnologias avançadas, assegurado o princípio da proporcionalidade de gênero entre os beneficiários;
+IV - estabelecer programas de cooperação técnica, nos estabelecimentos de ensino públicos, privados e comunitários, com as escolas de educação infantil, ensino fundamental, ensino médio e ensino técnico, para a formação docente baseada em princípios de equidade, de tolerância e de respeito às diferenças étnicas.

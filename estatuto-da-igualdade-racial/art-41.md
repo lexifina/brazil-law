@@ -1,0 +1,2 @@
+Art. 41. As ações de emprego e renda, promovidas por meio de financiamento para constituição e ampliação de pequenas e médias empresas e de programas de geração de renda, contemplarão o estímulo à promoção de empresários negros.
+Parágrafo único. O poder público estimulará as atividades voltadas ao turismo étnico com enfoque nos locais, monumentos e cidades que retratem a cultura, os usos e os costumes da população negra.

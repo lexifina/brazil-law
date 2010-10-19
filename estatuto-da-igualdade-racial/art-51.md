@@ -1,0 +1,1 @@
+Art. 51. O poder público federal instituirá, na forma da lei e no âmbito dos Poderes Legislativo e Executivo, Ouvidorias Permanentes em Defesa da Igualdade Racial, para receber e encaminhar denúncias de preconceito e discriminação com base em etnia ou cor e acompanhar a implementação de medidas para a promoção da igualdade.
