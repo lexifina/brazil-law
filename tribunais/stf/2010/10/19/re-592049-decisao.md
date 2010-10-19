@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu possível a cumulação de pensão especial de ex-combatente com aposentadoria de servidor público. Destaco da ementa o seguinte trecho:
+“(...) Não haveria motivo, portanto, para se negar a percepção cumulativa de dois benefícios de naturezas e fatos geradores distintos, como a pensão especial de ex-combatente, ou a aposentadoria por tempo de serviço, benefício eminentemente previdenciário. Aquele, baseado em uma decisão do Poder Público, tem como requisito a participação de operações bélicas durante a Segunda Grande Guerra; e este, benefício de natureza previdenciária, decorrente de contribuições devidamente recolhidas aos cofres do INSS – Instituto Nacional do Seguro Social” (fls. 82-83).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 53, caput e II, do ADCT. Além disso, sustentou-se que
+“Vê-se, pela documentação apensada à exordial, que o autor trabalhou em barco que navegou em áreas marítimas ditas como de zona de guerra. Todavia, isso não basta para assegurar a condição de titular da referida pensão especial, pois, na conformidade da legislação aplicável somente faria jus ao benefício se tivesse estado no palco da guerra” (fl. 107).
+A pretensão recursal não merece acolhida. É que o acórdão recorrido está em consonância com a jurisprudência desta Corte no sentido de ser possível a cumulação de pensão especial de ex-combatente com benefício previdenciário. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+“Ex-combatente. Pensão especial. Cumulação com proventos da aposentadoria de servidor público.
+Ambas as Turmas desta Corte, nos RREE 236.902 e 263.911, têm entendido que ‘revestindo-se a aposentadoria de servidor público da natureza de benefício previdenciário, pode ela ser recebida cumulativamente com a pensão especial prevista no art. 53, inc. II, do Ato das Disposições Constitucionais Transitórias, devida a ex-combatente’.
+ Dessa orientação não divergiu o acórdão recorrido. Recurso extraordinário não conhecido” (RE 358.231/RJ, Rel. Min. Moreira Alves, Primeira Turma).
+“Agravo regimental em recurso extraordinário. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Pensão previdenciária. Pensão de ex-combatente. Art. 53, II, do ADCT. Acumulação. Possibilidade. Precedentes. 4. Agravo regimental a que se nega provimento” (RE 550.038-AgR/PE, Rel. Min. Gilmar Mendes, Segunda Turma).
+Seguindo essa orientação, destaco ainda os seguintes precedentes: RE 592.930/PE, Rel. Min. Marco Aurélio; RE 580.289/PE, Rel. Min. Celso de Mello; RE 470.616/RJ, Rel. Min. Ellen Gracie; RE 587.007/PE, Rel. Min. Menezes Direito; RE 597.967/PE, Rel. Min. Cármen Lúcia.
+Por fim, para se concluir de maneira diversa do acórdão recorrido, quanto à condição de ex-combatente, seria necessário o exame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF. Com o mesmo posicionamento: RE 436.858/PE, Rel. Min. Sepúlveda Pertence; AI 548.812/RJ, Rel. Min. Carlos Velloso; RE 566.996-AgR/PE, Rel. Min. Cármen Lúcia; RE 466.844-AgR/RJ, Rel. Min. Joaquim Barbosa.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 19 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
