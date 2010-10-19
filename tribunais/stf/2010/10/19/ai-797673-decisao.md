@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“Ementa. Exibição de Documentos. Decisão que recebeu recurso de apelação no efeito devolutivo, mas que foi publicada no Diário Oficial como tendo sido o recurso recebido em ambos os efeitos. Execução provisória do julgado. Erro que não pode prejudicar a parte. Hipótese, outrossim, em que o termo inicial de contagem da multa é o dia 18.8.08, devendo ser levado em consideração o período de suspensão decorrente da concessão de efeito suspensivo neste recurso. Redução do valor da multa que deverá ser analisado originariamente pelo Juízo 'a quo'. Recurso parcialmente provido” (fl. 204).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXIV, a, XXXV e LV, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. Isso porque, os dispositivos constitucionais suscitados não foram objeto de debate e decisão prévios pelo Tribunal de origem. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS CONSTITUCIONAIS SUSCITADAS. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 1. Os temas constitucionais suscitados no apelo extremo não foram objeto de análise prévia, e conclusiva, pela Instância Judicante de origem. Pelo que incidem as Súmulas 282 e 356 desta Corte. 2. Agravo regimental desprovido” (AI 770.103-AgR/RJ, Rel Min. Ayres Britto).
+Por fim, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. O mencionado dispositivo constitucional não impõe seja a decisão exaustivamente fundamentada, mas sim o que se busca é que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 19 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
