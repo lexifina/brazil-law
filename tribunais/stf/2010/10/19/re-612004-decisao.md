@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+“EMBARGOS À EXECUÇÃO FISCAL. BACEN. BANRISUL. MULTA PECUNIÁRIA. SANÇÃO ADMINISTRATIVA. LEI 4.595/64. INCIDÊNCIA SOBRE DIRETORES. COAÇÃO: FALTA DE PROVAS. PRINCÍPIO DA MOTIVAÇÃO. COMPETÊNCIA RECURSAL MODIFICADA POR DECRETO: IMPOSSIBILIDADE. NULIDADE DO PROCEDIMENTO ADMINISTRATIVO. INEXIGIBILIDADE DO TÍTULO EXECUTIVO.
+1. Se o caráter penal não resulta diretamente da lei, a penalidade aplicada somente pode se tratar de infração administrativa, sendo certo que ao agente foi imposta pena de multa, a ser recolhida pelo BACEN.
+2. Quando trata da reincidência específica, o artigo 44, § 4º da Lei 4.595/64 evidencia que a destinação da norma em análise se volta às pessoas físicas, podendo sobre os diretores da instituição financeira recair a pena de multa tratada pelo dispositivo supracitado.
+3. Não há que se falar que o ilícito foi praticado mediante coação de acionistas do BANRISUL sobre os diretores da instituição se a parte deixou de trazer qualquer prova comprovando o alegado.
+4. É inafastável a idéia de que ao Estado incumbe motivar suas decisões, estabelecendo pleno vínculo de causa e efeito entre a ação do particular e a atuação da administração. Ao deixar de lado as considerações do agente acerca do elemento subjetivo do tipo, o BACEN tratou objetivamente um assunto que, para priorizar a defesa do agente, merecia maior profundidade, restando contrariado o devido processo legal.
+5. Como no caso em análise o Decreto 91.182/85 alterou o texto precisamente traçado pela Lei 4.595/64, não há dúvida que a modificação da competência recursal se deu de maneira constitucionalmente equivocada, não sendo possível, por decreto, incumbir ao novo órgão - Conselho de Recursos do Sistema Financeiro Nacional - matéria anterior e devidamente regulada por lei.
+6. Reexame necessário improvido” (fl. 177).
+Neste RE, fundado no art. 102, III, a e b, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, LIV, 84, VI, e 97 da mesma Carta, bem como ao art. 81, V, da Constituição de 1967 (na redação dada pela Emenda Constitucional 01/69).
+A pretensão recursal não merece acolhida.
+Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. É o caso dos autos no que se refere à suposta ofensa ao art. 97 da Constituição.
+Além disso, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LIV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, o acórdão recorrido decidiu a questão com base na interpretação da legislação infraconstitucional aplicável à espécie (compatibilidade do Decreto 91.152/85 com as disposições da Lei 4.595/64). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+Isso posto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 19 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
