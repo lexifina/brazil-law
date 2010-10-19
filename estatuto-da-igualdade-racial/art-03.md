@@ -1,0 +1,1 @@
+Art. 3º Além das normas constitucionais relativas aos princípios fundamentais, aos direitos e garantias fundamentais e aos direitos sociais, econômicos e culturais, o Estatuto da Igualdade Racial adota como diretriz político-jurídica a inclusão das vítimas de desigualdade étnico-racial, a valorização da igualdade étnica e o fortalecimento da identidade nacional brasileira.

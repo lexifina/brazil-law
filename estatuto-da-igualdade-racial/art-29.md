@@ -1,0 +1,1 @@
+Art. 29. Serão assegurados à população negra a assistência técnica rural, a simplificação do acesso ao crédito agrícola e o fortalecimento da infraestrutura de logística para a comercialização da produção.
