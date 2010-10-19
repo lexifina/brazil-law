@@ -1,0 +1,1 @@
+Art. 33. Para fins de política agrícola, os remanescentes das comunidades dos quilombos receberão dos órgãos competentes tratamento especial diferenciado, assistência técnica e linhas especiais de financiamento público, destinados à realização de suas atividades produtivas e de infraestrutura.

@@ -1,0 +1,4 @@
+Art. 11. Nos estabelecimentos de ensino fundamental e de ensino médio, públicos e privados, é obrigatório o estudo da história geral da África e da história da população negra no Brasil, observado o disposto na Lei nº 9.394, de 20 de dezembro de 1996.
+§ 1º Os conteúdos referentes à história da população negra no Brasil serão ministrados no âmbito de todo o currículo escolar, resgatando sua contribuição decisiva para o desenvolvimento social, econômico, político e cultural do País.
+§ 2º O órgão competente do Poder Executivo fomentará a formação inicial e continuada de professores e a elaboração de material didático específico para o cumprimento do disposto no caput deste artigo.
+§ 3º Nas datas comemorativas de caráter cívico, os órgãos responsáveis pela educação incentivarão a participação de intelectuais e representantes do movimento negro para debater com os estudantes suas vivências relativas ao tema em comemoração.

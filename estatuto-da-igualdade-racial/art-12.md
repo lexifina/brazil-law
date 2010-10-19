@@ -1,0 +1,1 @@
+Art. 12. Os órgãos federais, distritais e estaduais de fomento à pesquisa e à pós-graduação poderão criar incentivos a pesquisas e a programas de estudo voltados para temas referentes às relações étnicas, aos quilombos e às questões pertinentes à população negra.

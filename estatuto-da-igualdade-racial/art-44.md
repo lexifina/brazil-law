@@ -1,0 +1,2 @@
+Art. 44. Na produção de filmes e programas destinados à veiculação pelas emissoras de televisão e em salas cinematográficas, deverá ser adotada a prática de conferir oportunidades de emprego para atores, figurantes e técnicos negros, sendo vedada toda e qualquer discriminação de natureza política, ideológica, étnica ou artística.
+Parágrafo único. A exigência disposta no caput não se aplica aos filmes e programas que abordem especificidades de grupos étnicos determinados.
