@@ -1,0 +1,14 @@
+D ECIS Ã O:
+Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça. Acórdão que rechaçou a tese de excesso de prazo na custódia cautelar do paciente.
+2. Pois bem, o impetrante reitera, aqui, o pedido de soltura de Jaílton Fernandes Lírio. Isto sob o argumento da injustificada delonga da ação penal a que ele, paciente, responde por suposto delito de tráfico de entorpecentes.
+3. Feita esta ligeira síntese da causa, decido. Fazendo-o, pontuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+4. Avanço para anotar a pacífica a jurisprudência deste Supremo Tribunal Federal, no sentido de que o exame de eventual excesso de prazo na prisão processual é de se dar em cada caso concreto. Isto é, atento o julgador às peculiaridades do processo em que estiver oficiando (como, exemplo, o número de réus e de testemunhas arroladas, a complexidade do feito e o comportamento dos patronos dos acusados, que não podem ser os causadores do retardamento do processo. Nessa vertente de idéias é que foram julgados os HCs 84.780, 83.842, 88.433. E mais recentemente os habeas corpus 92.971 e 92.836, ambos de minha relatoria.
+5. A par disso, não tenho como derruir, nesse exame preambular do pedido, a premissa em que se louvou a autoridade impetrada, verbis:
+“Diante desse contexto, não vislumbro, ao menos nesse momento, a existência de constrangimento ilegal na tramitação do feito criminal que justifique o relaxamento da prisão por excesso de prazo. Como visto, além de ter sido necessária a expedição de carta precatória para a notificação dos acusados, expediente este que, como visto, já se cumpriu, permaneceu o paciente inerte, conquanto tivesse advogado, durante o prazo para apresentação de reposta à acusação, contribuindo para algum retardamento no andamento da ação.”
+6. Por tudo quanto posto, indefiro a liminar requestada; reservando-me, é claro, para um mais detido exame da causa por ocasião do julgamento de mérito desta ação constitucional.
+7. Requisitem-se, com urgência, informações detalhadas ao Juízo de Direito da Vara Criminal da Comarca de Macaíba/RN. Após, abra-se vista à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 19 de outubro de 2010.
+Ministro A YRES B RITTO
+Relator
+Documento assinado digitalmente
