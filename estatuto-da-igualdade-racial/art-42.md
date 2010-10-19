@@ -1,0 +1,1 @@
+Art. 42. O Poder Executivo federal poderá implementar critérios para provimento de cargos em comissão e funções de confiança destinados a ampliar a participação de negros, buscando reproduzir a estrutura da distribuição étnica nacional ou, quando for o caso, estadual, observados os dados demográficos oficiais.
