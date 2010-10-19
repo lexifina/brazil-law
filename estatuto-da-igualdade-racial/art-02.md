@@ -1,0 +1,1 @@
+Art. 2º É dever do Estado e da sociedade garantir a igualdade de oportunidades, reconhecendo a todo cidadão brasileiro, independentemente da etnia ou da cor da pele, o direito à participação na comunidade, especialmente nas atividades políticas, econômicas, empresariais, educacionais, culturais e esportivas, defendendo sua dignidade e seus valores religiosos e culturais.

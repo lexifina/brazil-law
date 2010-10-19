@@ -1,0 +1,2 @@
+Art. 18. É assegurado aos remanescentes das comunidades dos quilombos o direito à preservação de seus usos, costumes, tradições e manifestos religiosos, sob a proteção do Estado.
+Parágrafo único. A preservação dos documentos e dos sítios detentores de reminiscências históricas dos antigos quilombos, tombados nos termos do § 5º do art. 216 da Constituição Federal, receberá especial atenção do poder público.
