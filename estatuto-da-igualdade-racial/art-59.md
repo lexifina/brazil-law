@@ -1,0 +1,1 @@
+Art. 59. O Poder Executivo federal criará instrumentos para aferir a eficácia social das medidas previstas nesta Lei e efetuará seu monitoramento constante, com a emissão e a divulgação de relatórios periódicos, inclusive pela rede mundial de computadores.

@@ -1,0 +1,2 @@
+Art. 20. O poder público garantirá o registro e a proteção da capoeira, em todas as suas modalidades, como bem de natureza imaterial e de formação da identidade cultural brasileira, nos termos do art. 216 da Constituição Federal.
+Parágrafo único. O poder público buscará garantir, por meio dos atos normativos necessários, a preservação dos elementos formadores tradicionais da capoeira nas suas relações internacionais.

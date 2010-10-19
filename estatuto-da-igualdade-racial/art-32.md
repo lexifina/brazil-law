@@ -1,0 +1,1 @@
+Art. 32. O Poder Executivo federal elaborará e desenvolverá políticas públicas especiais voltadas para o desenvolvimento sustentável dos remanescentes das comunidades dos quilombos, respeitando as tradições de proteção ambiental das comunidades.

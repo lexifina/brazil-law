@@ -1,0 +1,3 @@
+Art. 6º O direito à saúde da população negra será garantido pelo poder público mediante políticas universais, sociais e econômicas destinadas à redução do risco de doenças e de outros agravos.
+§ 1º O acesso universal e igualitário ao Sistema Único de Saúde (SUS) para promoção, proteção e recuperação da saúde da população negra será de responsabilidade dos órgãos e instituições públicas federais, estaduais, distritais e municipais, da administração direta e indireta.
+§ 2º O poder público garantirá que o segmento da população negra vinculado aos seguros privados de saúde seja tratado sem discriminação.

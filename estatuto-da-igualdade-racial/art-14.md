@@ -1,0 +1,1 @@
+Art. 14. O poder público estimulará e apoiará ações socioeducacionais realizadas por entidades do movimento negro que desenvolvam atividades voltadas para a inclusão social, mediante cooperação técnica, intercâmbios, convênios e incentivos, entre outros mecanismos.

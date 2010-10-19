@@ -1,0 +1,1 @@
+Art. 19. O poder público incentivará a celebração das personalidades e das datas comemorativas relacionadas à trajetória do samba e de outras manifestações culturais de matriz africana, bem como sua comemoração nas instituições de ensino públicas e privadas.

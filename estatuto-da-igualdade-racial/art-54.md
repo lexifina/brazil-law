@@ -1,0 +1,1 @@
+Art. 54. O Estado adotará medidas para coibir atos de discriminação e preconceito praticados por servidores públicos em detrimento da população negra, observado, no que couber, o disposto na Lei nº 7.716, de 5 de janeiro de 1989.

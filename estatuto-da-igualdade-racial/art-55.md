@@ -1,0 +1,1 @@
+Art. 55. Para a apreciação judicial das lesões e das ameaças de lesão aos interesses da população negra decorrentes de situações de desigualdade étnica, recorrer-se-á, entre outros instrumentos, à ação civil pública, disciplinada na Lei nº 7.347, de 24 de julho de 1985.

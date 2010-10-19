@@ -1,0 +1,1 @@
+Art. 17. O poder público garantirá o reconhecimento das sociedades negras, clubes e outras formas de manifestação coletiva da população negra, com trajetória histórica comprovada, como patrimônio histórico e cultural, nos termos dos arts. 215 e 216 da Constituição Federal.

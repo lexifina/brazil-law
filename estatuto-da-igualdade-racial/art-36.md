@@ -1,0 +1,2 @@
+Art. 36. Os programas, projetos e outras ações governamentais realizadas no âmbito do Sistema Nacional de Habitação de Interesse Social (SNHIS), regulado pela Lei nº 11.124, de 16 de junho de 2005, devem considerar as peculiaridades sociais, econômicas e culturais da população negra.
+Parágrafo único. Os Estados, o Distrito Federal e os Municípios estimularão e facilitarão a participação de organizações e movimentos representativos da população negra na composição dos conselhos constituídos para fins de aplicação do Fundo Nacional de Habitação de Interesse Social (FNHIS).
