@@ -7,4 +7,5 @@ Pena: reclusão de dois a cinco anos e multa.
 § 3º No caso do parágrafo anterior, o juiz poderá determinar, ouvido o Ministério Público ou a pedido deste, ainda antes do inquérito policial, sob pena de desobediência:
 I - o recolhimento imediato ou a busca e apreensão dos exemplares do material respectivo;
 II - a cessação das respectivas transmissões radiofônicas ou televisivas.
+III - a interdição das respectivas mensagens ou páginas de informação na rede mundial de computadores.
 § 4º Na hipótese do § 2º, constitui efeito da condenação, após o trânsito em julgado da decisão, a destruição do material apreendido.
