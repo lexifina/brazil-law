@@ -1,0 +1,47 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. 1) PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO CONSTITUCIONAL SUPOSTAMENTE CONTRARIADO: INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2) NECESSIDADE DE ANÁLISE DE LEI LOCAL E DE REEXAME DE PROVA: INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. 3) REMUNERAÇÃO. EQUIPARAÇÃO COM FUNDAMENTO NO PRINCÍPIO DA ISONOMIA: INCIDÊNCIA DA SÚMULA 339 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“Penso não gerar quaisquer direitos ao servidor público o trabalho em desvio de função, pois constitui ilícito administrativo, afrontando os princípios constitucionais (da legalidade, da igualdade, da moralidade e da impessoalidade), os quais orientam toda a atividade administrativa. Não é possível, no ordenamento jurídico vigente, que o servidor seja investido em atribuições de outro cargo melhor remunerado.
+A propósito, a jurisprudência do Supremo Tribunal Federal:
+'AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. DIREITO ADQUIRIDO À PERCEPÇÃO DE VENCIMENTOS DE CARGO SUPERIOR. NÃO EXISTÊNCIA. AFRONTA AO ARTIGO 37, INCISO II, DA CB/88. A Constituição do Brasil não admite o enquadramento, sem concurso público, de servidor em cargo diverso daquele que é titular. Não há direito adquirido à incorporação de vencimentos de cargo exercido de maneira irregular, em afronta às exigências contidas no artigo 37, inciso II, da Constituição de 1988. Precedentes da Corte. Agravo regimental não provido' (RE-AgR 311371/SP, Rel. Min. Eros Grau, 1ª Turma, j. em 29-03-2005, DJ 15-04-2005, p. 24, ement. vol. 2187-04, p. 752, RF vol. 101, nº 380, 2005, pp. 292-293).
+'Fere o princípio inscrito no art. 37, II, da Constituição Federal, a atribuição, independentemente de concurso público, dos vencimentos de cargo superior que haja desempenhado, por desvio de função, o servidor' (RE 219934/SP, Rel. Min. Octavio Gallotti, 1ª Turma, j. em 14-06-2000, DJ 16-02-2001, p. 140, ement. vol. 2019-03, p. 493, RTJ vol. 176-02, p. 964).
+Portanto, não sendo legalmente possível o servidor ser investido em atribuições de outro cargo melhor remunerado, incabível o reconhecimento de direitos em virtude do desvio referido.
+(...)
+Pretende o autor a incidência do adicional de insalubridade e do repouso semanal remunerado sobre o total da remuneração.
+Contudo, estabelece o artigo 87 da Lei Municipal nº 804/1996 (fl. 56) que a base de cálculo do adicional de insalubridade é o menor padrão de vencimentos do quadro de servidores do Município, verbis:
+'ART. 87 - Os servidores que executem atividades insalubres ou perigosas fazem jus a um adicional incidente sobre o valor do menor padrão de vencimentos do quadro de servidores do Município'.
+Concernente ao repouso semanal remunerado, também há previsão na norma suprarreferida, em seu artigo 60, parágrafo 3º (fl. 51), o qual dispõe:
+'ART. 60 - (omissis)
+§ 3º - Consideram-se já remunerados os dias de repouso semanal do servidor mensalista ou quinzenalista, cujo vencimento remunera trinta ou quinze dias respectivamente'.
+Ora, é consabido que 'o administrador público está, em toda a sua atividade funcional, sujeito aos mandamentos da lei e às exigências do bem comum, e deles não se pode afastar ou desviar, sob pena de praticar ato inválido e expor-se a responsabilidade disciplinar'.
+(...)
+Possível o pagamento de horas extras ao servidor público, porquanto previsto na própria Constituição da República (artigo 39, parágrafo 3º), inclusive.
+O MUNICÍPIO DE PORTÃO preocupou-se em regulamentar o serviço extraordinário, cujas regras se encontram na Lei Municipal nº 804/1996 (...).
+Assim, para que o serviço extraordinário possa ser remunerado, é imprescindível que seja prestado sob expressa determinação da autoridade competente, mediante solicitação fundamentada do chefe de repartição, ou de ofício. Entretanto, o feito não foi instruído com nenhum documento nesse sentido. Não tendo o autor se desincumbido do ônus que lhe cabia (artigo 333, inciso I, do Código de Processo Civil), também nesse ponto não merece guarida o recurso por ele interposto” (fls. 695-699 – grifos nossos).
+2. O Recorrente afirma que o Tribunal a quo teria contrariado os arts. 5º, caput, 7º, inc. IV, XV e XXIII, 37, caput e inc. XIV e XV, e 39, § 2º, da Constituição da República.
+Assevera que a Lei Municipal em que se fundamentou o julgado recorrido seria incompatível com esses dispositivos constitucionais.
+Alega, ainda, que:
+“O desvio funcional é incontroverso, sendo que, in casu, discute-se a aplicabilidade da Súmula 223 do Tribunal Federal de Recursos, frente à ordem instituída em 1988, e a ter-se válida a tese do acórdão, haveria ofensa aos princípios constitucionais da isonomia e da impessoalidade, pois estar-se-ia estabelecendo distinção entre iguais, que realizam o mesmo trabalho, o que é vedado por tais preceitos.
+De acordo com a Lei Municipal n. 805, de 1996, juntada aos autos, os cargos foram renomeados, não havendo mais distinção.
+Logo, não há que se falar de ingresso em cargo público sem concurso, como colocou o acórdão, pois se trata de hipótese diversa” (fl. 747 – grifos nossos).
+Apreciada a matéria trazida na espécie, DECIDO.
+3.Razão jurídica não assiste ao Recorrente.
+4. A alegação de inconstitucionalidade da Lei n. 804/1996 do Município de Portão/RS não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+5. O Tribunal de origem solucionou a controvérsia com base no exame de provas e na interpretação e aplicação da Lei n. 804/1996 do Município de Portão/RS e concluiu pela ausência de respaldo legal para as pretensões do Recorrente relativas à base de cálculo do adicional de insalubridade, às horas extras e ao repouso semanal remunerado.
+Para se concluir de modo diverso, seriam imprescindíveis o reexame do conjunto fático-probatório constante dos autos e a análise daquela lei local, o que é vedado pelas Súmulas 279 e 280 do Supremo Tribunal Federal.
+De igual modo, a alusão à lei local (“de acordo com a Lei Municipal n. 805, de 1996, juntada aos autos, os cargos foram renomeados, não havendo mais distinção” - fl. 747) como fundamento da pretensão à diferença de remuneração pelo desvio de função atrai a incidência da Súmula 280 do Supremo Tribunal Federal e também não viabiliza o recurso extraordinário.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. POLICIAL CIVIL. GRATIFICAÇÃO DE INCENTIVO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Ausência do devido prequestionamento da matéria constitucional suscitada. Incidência das Súmulas 282 e 356 do Supremo Tribunal Federal. 2. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas. Incidem, na espécie, as Súmulas 279 e 280 do Supremo Tribunal” (AI 564.359-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009 – grifos nossos).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. LEGISLAÇÃO LOCAL [LC N. 61/01]. OFENSA REFLEXA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. A controvérsia foi decidida com fundamento na legislação local. Incidência da Súmula n. 280 deste Tribunal. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 697.883-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 6.3.2009 – grifos nossos).
+6. Finalmente, cumpre ressaltar que a alegação de que se estaria “estabelecendo distinção entre iguais” (fl. 747) - o que, segundo o Agravante, importaria em contrariedade aos princípios da isonomia e da impessoalidade - atrai a incidência da Súmula 339 do Supremo Tribunal Federal, cujo teor é o seguinte:
+“Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos, sob fundamento de isonomia ”.
+Nesse sentido:
+“RECURSO EXTRAORDINÁRIO. SERVIDORES DO INSTITUTO DE PESOS E MEDIDAS DO MUNICÍPIO DE FORTALEZA. ISONOMIA. SÚMULA 339 DESTE SUPREMO TRIBUNAL. EXAME DE NORMA LOCAL. AGRAVO REGIMENTAL DESPROVIDO ” (RE 459.672-AgR, de minha relatoria, Primeira Turma, DJ 7.12.2006).
+7. Não há, pois, o que prover quanto às alegações do Recorrente.
+8. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 20 de outubro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
