@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF06 nº 92, de 4 de outubro de 2010
+ASSUNTO: Normas Gerais de Direito Tributário EMENTA: COMPENSAÇÃO. CISÃO PARCIAL. O evento societário de cisão parcial não implica em extinção da pessoa jurídica cindida, sendo vedada a compensação de créditos de IPI vertidos nessa operação com débitos próprios da(s) pessoa(s) jurídica(s) receptora(s) do patrimônio, pois há vedação expressa na legislação tributária. DISPOSITIVOS LEGAIS: Lei Nº 5.172/1966, Código Tributário Nacional (CTN), arts. 123, 132 e 170; Lei Nº 10.406/2002 - Código Civil, art. 1116; Lei Nº 9.430/1996, art. 74; Lei Nº 6.404/1976, arts. 216, 219, 223, 227 e 229; IN RFB nº 900/2008, art. 56.
+[arquivo anexo: SC SRRF06-Disit nº 92 - 2010.pdf]
