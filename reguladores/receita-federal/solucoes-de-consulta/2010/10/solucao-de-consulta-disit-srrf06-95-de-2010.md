@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF06 nº 95, de 5 de outubro de 2010
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF
+EMENTA: ALUGUEL DE IMÓVEL PAGO POR PESSOA JURÍDICA A PESSOA FÍSICA POR INTERMÉDIO DE IMOBILIÁRIA. O imposto de renda incidente na fonte sobre os rendimentos pagos por pessoa jurídica a pessoa física a título de aluguel deve ser retido pela fonte pagadora, pessoa jurídica locatária, por ocasião do pagamento do aluguel à imobiliária designada pela pessoa física para intermediar a locação. RENDIMENTO PAGO POR IMOBILIÁRIA EM CUMPRIMENTO DE GARANTIA CONTRATUAL DE RECEBIMENTO DO VALOR DE ALUGUEL. Apesar de não estarem sujeitos à retenção de imposto de renda na fonte, são rendimentos tributáveis, sujeitos a ajuste na declaração anual de imposto de renda, valores recebidos de imobiliária, intermediária na locação de imóvel da pessoa física, referente à obrigação contratual que garante à pessoa física o recebimento do valor do aluguel em caso de falta ou atraso do pagamento pela locatária, pessoa jurídica.
+DISPOSITIVOS LEGAIS: Código Tributário Nacional, art. 123; Decreto Nº 3.000, de 199, artigos 37, 49, 83, I, 631 e 717; Instrução Normativa SRF Nº 15, de 2001, artigos 9º, V e § 1º; 12, §2º; e 13.
+Novo segmento
+[arquivo anexo: SC SRRF06-Disit nº 95-2010.pdf]
