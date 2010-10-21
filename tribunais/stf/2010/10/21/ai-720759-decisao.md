@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 292):
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. 1. ADICIONAL DE PERICULOSIDADE. EQUIPARAÇÃO SALARIAL. Havendo o TRT, a partir da prova pericial produzida, afirmado o labor em condições de perigo, a justificar o deferimento do adicional de periculosidade, bem como que a prova oral colhida comprovou a identidade de funções entre a reclamante e a paradigma, eventual modificação do deliberado, reclamaria reexame do conjunto probatório, conduta defesa pela Súmula de nº 126/TST. 2. HONORÁRIOS PERICIAIS. VALOR FIXADO. REDUÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. INAPTA. Não merece processamento recurso de revista, por divergência jurisprudencial, quando a parte colaciona arestos inaptos, ou seja, quando convergentes com a tese esposada pelo Regional.
+Agravo de Instrumento a que se nega provimento.”
+Nas razões do recurso extraordinário, aponta-se ofensa ao disposto nos arts. 5º, LIV e LV, e 93, IX, da Constituição federal. Sustenta-se que houve negativa de prestação jurisdicional.
+É o relatório. Decido.
+A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos trabalhistas cinge-se à norma processual trabalhista, de ordem infraconstitucional. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, de sorte que seria necessário exame prévio da norma infraconstitucional - no caso, a Consolidação das Leis do Trabalho -, hipótese em que não se admite o recurso extraordinário (cf. AI 416.864 e AI 372.349, rel. min. Carlos Velloso; AI 417.464, rel. min. Ilmar Galvão; AI 322.409, rel. min. Ellen Gracie; AI 266.565, rel. min. Sepúlveda Pertence; AI 357.389, rel. min. Celso de Mello, e AI 404.274, rel. min. Gilmar Mendes).
+Ademais, o Supremo Tribunal Federal, apreciando o RE 598.365 (rel. min. Ayres Britto, DJe de 26.03.2010), não reconheceu a repercussão geral do tema tratado no presente processo (pressupostos de admissibilidade de recursos de competência de outros tribunais).
+Por outro lado, não procede a alegação de afronta aos arts. 5º, LIV e LV, e 93, IX, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 21 de outubro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
