@@ -1,0 +1,23 @@
+1.  Trata-se de habeas corpus com pedido de medida liminar impetrado em favor de JOSÉ VANDERLEI FELICIANO contra julgamento colegiado da Quinta Turma do Superior Tribunal de Justiça, que denegou o HC 165.291/SP.
+2.  Conforme narra a inicial, o paciente encontra-se preso preventivamente desde o dia 28 de novembro de 2008. Responde a processo criminal, juntamente com outros sete co-réus, pela suposta prática do delito tipificado no art. 35, c/c art. 40, inciso III, ambos da Lei 11.343/06.
+O Magistrado do feito negou pedido de revogação da preventiva, o que ensejou o ajuizamento de habeas corpus ao Tribunal de Justiça do Estado de São Paulo. A Corte estadual denegou a ordem.
+No Superior Tribunal de Justiça, a Quinta Turma denegou o HC 165.291/SP. Daí o presente habeas corpus.
+3.  Neste writ, o impetrante alega, em suma, excesso de prazo na custódia cautelar do paciente e ausência dos requisitos autorizadores de sua manutenção.
+Aduz que “o paciente é primário, de bons antecedentes e tem ocupação lícita”.
+Assim, requer o deferimento de liminar, a fim de que se revogue a prisão do paciente. No mérito, pede a confirmação da medida.
+4.  O HC 165.291/SP, de relatoria do Ministro Felix Fischer, ficou assim ementado:
+“PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ART. 35, CAPUT, C/C ART. 40, INCISO III, AMBOS DA LEI Nº 11.343/06. ALEGADO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INSTRUÇÃO CRIMINAL ENCERRADA. SÚMULA 52/STJ. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO E REQUISITOS LEGAIS DO DECRETO PRISIONAL. INOCORRÊNCIA. DECRETO FUNDAMENTADO NA GARANTIA DA ORDEM PÚBLICA.
+I - Encerrada a instrução criminal e encontrando-se o feito na fase de diligências, atual art. 402 do CPP, fica superado o pretenso constrangimento ilegal por excesso de prazo (Precedentes/Súmula nº 52-STJ).
+II - A prisão preventiva se justifica desde que demonstrada a sua real necessidade (HC 90.862/SP, Segunda Turma, Rel. Min. Eros Grau, DJU de 27/04/2007) com a satisfação dos pressupostos a que se refere o art. 312 do Código de Processo Penal, não bastando, frise-se, a mera explicitação textual de tais requisitos (HC 92.069/RJ, Segunda Turma, Rel. Min. Gilmar Mendes, DJU de 09/11/2007). Não se exige, contudo, fundamentação exaustiva, sendo suficiente que o decreto constritivo, ainda que de forma sucinta e concisa, analise a presença, no caso, dos requisitos legais ensejadores da prisão preventiva (RHC 89.972/GO, Primeira Turma, Relª. Minª. Cármen Lúcia, DJU de 29/06/2007).
+III - In casu, o decreto prisional se encontra devidamente fundamentado em dados concretos extraídos dos autos, sendo que a manutenção do paciente em liberdade acarretaria insegurança jurídica e, por conseguinte, lesão a ordem pública, uma vez que o mesmo integraria, supostamente, complexa organização criminosa responsável pela prática de tráfico ilícito de entorpecentes, com atuação em diversas cidades e presídios.
+IV - De fato, a periculosidade do agente para a coletividade, desde que comprovada concretamente é apta a manutenção da restrição de sua liberdade (HC 89.266/GO, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJU de 28/06/2007; HC 86002/RJ, Segunda Turma, Rel. Min. Gilmar Mendes, DJU de 03/02/2006; HC 88.608/RN, Segunda Turma, Rel. Min. Joaquim Barbosa, DJU de 06/11/2006; HC 88.196/MS, Primeira Turma, Rel. Min. Marco Aurélio, DJU de 17/05/2007).
+Ordem parcialmente conhecida e, nesta parte, denegada”.
+5.  Com efeito, da leitura do acórdão impugnado na inicial, verifico que o ato se encontra devidamente motivado, apontando as razões de convencimento da Corte para a denegação da ordem.
+Ressalto que, para fins de apreciação do pedido de medida liminar, é necessário avaliar se o acórdão atacado teve o condão de caracterizar patente constrangimento ilegal. Na hipótese dos autos, as razões do aresto hostilizado mostram-se relevantes e, num primeiro exame, sobrepõem-se aos argumentos lançados no writ.
+Desse modo, não vislumbro a presença do requisito do fumus boni iuris para a concessão da tutela pleiteada.
+6.  Acrescento, ao fim, que “primariedade, bons antecedentes, residência fixa e profissão lícita” são “circunstâncias que, por si sós, não afastam a possibilidade da preventiva” (HC 84.341, rel. Min. Gilmar Mendes, DJ 04.03.2005).
+7.  Ante o exposto, indefiro o pedido de liminar. Solicitem-se, com urgência, informações ao Juízo da 2ª Vara Criminal da Comarca de Sorocaba-SP, especialmente quanto à previsão para a prolação da sentença. Após, colha-se a manifestação da Procuradoria-Geral da República.
+Publique-se.
+Brasília, 21 de outubro de 2010.
+Ministra Ellen Gracie
+Relatora
