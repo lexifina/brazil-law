@@ -1,0 +1,9 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário criminal.
+O agravo não merece acolhida. Bem examinados os autos, verifico que o presente agravo foi interposto intempestivamente. A decisão agravada foi publicada em 18/8/2009 (fl. 15) e o agravo de instrumento foi protocolizado em 28/8/2009 (fl. 2). Segundo o teor da Súmula 699 do Supremo Tribunal Federal, o prazo para a interposição de agravo de instrumento criminal é de cinco dias, o que fixa o termo final do prazo recursal no dia 24/8/2009.
+Ainda que superado tal óbice, o recurso não prosperaria. É que o agravante não instruiu adequadamente o recurso com as peças obrigatórias, uma vez que deixou de juntar as razões do recurso extraordinário, cópia do acórdão recorrido e sua certidão de publicação e as contrarrazões ao recurso extraordinário ou certidão in albis, o que inviabiliza a admissibilidade do recurso.
+Segundo a jurisprudência deste Tribunal, o agravo de instrumento deve ser instruído com as peças obrigatórias e necessárias ao exato conhecimento das questões discutidas (Súmula 288 do STF). A falta de qualquer delas autoriza o relator a negar seguimento ao agravo, com base no art. 21, § 1º, do RISTF e no art. 28, § 1º, da Lei 8.038/90.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 21 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
