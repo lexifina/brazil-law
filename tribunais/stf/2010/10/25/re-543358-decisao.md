@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de recurso extraordinário interposto de acórdão do Superior Tribunal de Justiça, que deixou de aplicar o art. 3º e o art. 4º, segunda parte, da Lei Complementar 118/2005. Interpretados conjuntamente com o art. 106, I, do Código Tributário Nacional (Lei 5.172/1966), os dispositivos mencionados estabelecem a aplicação retroativa do entendimento de que o prazo do contribuinte para pedir judicialmente a restituição do indébito tributário (prescrição) deve ser contado a partir do recolhimento indevido.
+Sustenta-se, singelamente, violação do art. 97 da Constituição (reserva de Plenário para declaração de inconstitucionalidade de lei ou ato do Poder Público).
+Por ocasião do julgamento do RE 482.090 (rel. min. Joaquim Barbosa, j. 18.06.2008), a Corte considerou contrário à regra da reserva de Plenário para declaração de inconstitucionalidade (art. 97 da Constituição) acórdão que – embora sem o explicitar – afasta a incidência dos arts. 3º e 4º, segunda parte, da Lei Complementar 118/2005, nos termos do art. 106, I, da Lei 5.172/1996 (retroatividade da norma interpretativa), para decidir a causa sob critérios diversos, alegadamente extraídos da Constituição (cf. Informativo STF 511/2008).
+Dessa orientação, divergiu o acórdão recorrido.
+Ante o exposto, conheço do recurso extraordinário e dou-lhe provimento, para determinar a devolução dos autos ao Tribunal de origem e, assim, permitir a aplicação do quanto disposto no art. 97 da Constituição.
+Publique-se.
+Brasília, 25 de outubro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
