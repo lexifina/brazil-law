@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1076, de 21 de outubro de 2010
+Altera a Instrução Normativa RFB nº 1.033, de 14 de maio de 2010, que dispõe sobre a Declaração do Imposto sobre a Renda Retido na Fonte (Dirf) e o programa gerador da Dirf 2011.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 04 de março de 2009, e tendo em vista o disposto no art. 86 da Lei nº 8.981, de 20 de janeiro de 1995, do art. 943 do Decreto nº 3.000, de 26 de março de 1999, e do art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
