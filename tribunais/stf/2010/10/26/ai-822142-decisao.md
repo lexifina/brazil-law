@@ -1,0 +1,15 @@
+DDECISÃO: Vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário criminal, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná. Acórdão assim ementado, na parte que interessa (fls. 792-795):
+“ APELAÇÃO CRIMINAL. POSSE ILEGAL DE ARMA DE FOGO E MUNIÇÃO DE USO RESTRITO. ART. 16, CAPUT, DA LEI 10.826/2003. DILIGÊNCIA DE CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO NO ENDEREÇO ONDE RESIDE O APELANTE. LOCALIZAÇÃO E APREENSÃO NO ENDEREÇO ONDE RESIDE O APELANTE. LOCALIZAÇÃO E APREENSÃO DOS VEÍCULOS OBJETO DO MANDADO. IRRELEVÂNCIA DO FATO DE O MANDADO NÃO CONTER O NOME DO APELANTE.
+CONSTATAÇÃO PELA AUTORIDADE POLICIAL, NO MOMENTO DO CUMPRIMENTO DO MANDADO, DA GUARDA DE QUANTIDADE SIGNIFICATIVA DE ARMAS E MUNIÇÃO DE USO RESTRITO. FLAGRANTE DO CRIME DO ART. 16, CAPUT DO ESTATUTO DO DESARMAMENTO. CRIME DE NATUREZA PERMANENTE. FLAGRANTE CARACTERIZADO. LEGALIDADE DA DILIGÊNCIA. PRETENSA INFRINGÊNCIA AO ART. 5º, XI DA CONSTITUIÇÃO FEDERAL. INCORRÊNCIA DE VIOLAÇÃO AO DOMICÍLIO. EXCEÇÃO À REGRA, PREVISTA CONSTITUCIONALMENTE (FLAGRANTE DELITO) CARACTERIZADA. PRECEDENTES. LICITUDE DAS PROVAS ANGARIADAS PELA AUTORIDADE POLICIAL, NA OCASIÃO. [...]”
+2. Pois bem, a parte recorrente sustenta violação aos incisos XI e LVI do art. 5º da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. De saída, anoto que o inciso LVI do art. 5º da Constituição Republicana não foi objeto de apreciação pelo aresto impugnado. Tampouco foram opostos embargos declaratórios para suprir eventual omissão. Falta, portanto, o necessário prequestionamento (Súmulas 282 e 356 do STF).
+4. De mais a mais, no que toca o inciso IX do art. 5º da Magna Carta, o acórdão recorrido afina com a jurisprudência desta nossa Corte, que me parece juridicamente correta. Leia-se, a propósito, a ementa do RHC 91.189, da relatoria do ministro Cezar Peluso:
+“1. INQUÉRITO POLICIAL. Prisão em flagrante. Inviolabilidade domiciliar. Exceção. Nulidade. Inexistência. Precedentes. A Constituição Federal autoriza a prisão em flagrante como exceção à inviolabilidade domiciliar, prescindindo de mandado judicial, qualquer que seja sua natureza. 2. AÇÃO PENAL. Falsificação de documento público. Crime formal. Inexistência de prejuízo. Irrelevância. Consumação no momento da falsificação ou alteração. Recurso a que se nega provimento. O delito de falsificação de documento público é crime formal, cuja consumação se dá no momento da falsificação ou da alteração do documento.”
+5. No mesmo sentido, vejam-se o RHC 86.082, e os HCs 84.772 e 91.350, todos da relatoria da ministra Ellen Gracie.
+6. À derradeira, entendimento diverso do adotado pela Instância Judicante de origem exigiria o revolvimento do conjunto fático-probatório dos autos. Providência vedada neste momento processual, nos termos da Súmula 279 desta nossa Corte.
+Isso posto, e frente ao art. 38 da Lei 8.038/90 e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 26 de outubro de 2010.
+Ministro AYRES BRITTO
+Relator
