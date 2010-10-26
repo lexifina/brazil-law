@@ -1,0 +1,27 @@
+DECISÃO: Vistos, etc.
+Cuida-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão da relatora do Agravo de Instrumento nº 1.297.452, no Superior Tribunal de Justiça. Decisão singular que acolheu o recurso especial do Ministério Público para restabelecer a sentença condenatória do paciente.
+2. Pois bem, a Defensoria-Pública da União sustenta, aqui, a tese da atipicidade material da conduta increpada ao paciente. O que faz sob os seguintes fundamentos: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento; d) inexpressividade da lesão jurídica provocada.
+3. Prossegue a defesa para anotar que a simples tentativa de furto de um telefone celular, avaliado em R$ 200,00, não tem a força de lesionar o bem jurídico tutelado pela norma do artigo 155 do Código penal. Isso porque “houve a imediata restituição do objeto subtraído sem a ocorrência de nenhum dano”; sendo certo que o “comportamento atribuído ao paciente teria sido praticado sem nenhuma violência ou grave ameaça à suposta vítima”. Daí o pedido de medida liminar, formulado para suspender o curso da ação penal nº 70029205317, em trâmite perante o Tribunal de Justiça do Rio Grande do Sul. No mérito, requer a concessão da ordem para determinar o trancamento da ação penal, reconhecendo-se a atipicidade material da conduta imputada ao acusado.
+4. Continuo nesta narrativa da causa para anotar que o paciente foi denunciado pelo delito de furto qualificado, nos termos seguintes:
+“[...]
+No dia 14 de dezembro de 2007, entre 16h e 19h, na Rua Luiz da Camões, no interior do Clube Geraldo Santana, nesta cidade de Porto Alegre, o denunciado subtraiu, para si, o aparelho de telefone celular marca Nokia, linha nº 96487007 (auto de apreensão incluso), pertencente a Andréa Krum Ferreira.
+Por ocasião do fato, a vítima deixara seu telefone celular sobre uma mesa, no recinto onde participava de uma festa. O denunciado, que também participava da festa, apoderou-se do telefone celular da vítima, guardando-o no bolso e afastando-se do local. No momento em que a vítima constatou o furto, uma amiga sua ligou para o aparelho subtraído. Então ouviram o som da chamada do aparelho no bolso do denunciado. Interpelado, já fora do Clube, o denunciado fugiu correndo, jogando ao solo o telefone celular furtado.
+[...]”
+4. Seguido o devido iter processual, o réu foi condenado pelo crime do artigo 155 do Código Penal, à pena de 10 dias-multa. Deu-se que o Tribunal de Justiça do Rio Grande do Sul acolheu o apelo defensivo para absolver o réu, com fundamento no inciso III do artigo 386 do CPP. E o fez com apoio na consideração de que o ínfimo valor da coisa que se tentou furtar “não autoriza o ingresso da pendenga na seara penal, ultima ratio da ingerência punitiva estatal”.
+5. Já o Superior Tribunal de Justiça, este recusou a incidência do princípio da insignificância penal, com base na seguinte fundamentação:
+“[...]
+A conduta perpetrada pelo ora Recorrido não pode ser considerada irrelevante par ao direito penal. O delito em tela – furto tentado de aparelho celular, avaliado em R$ 200,00 –, muito embora não expresse intensa agressão ao patrimônio da vítima, não se insere na concepção doutrinária e jurisprudencial de crime de bagatela.
+[...]
+No caso de furto, não se pode confundir bem de pequeno valor com o de valor insignificante. Apenas o segundo, necessariamente, exclui o crime em face da ausência de ofensa ao bem jurídico tutelado, aplicando-se-lhe o princípio da insignificância.
+Os crimes envolvendo objetos cujos valores não podem ser considerados ínfimos não se tratam de um indiferente penal, na medida em que a falta de repressão de tais condutas representaria verdadeiro incentivo à prática de delitos que trariam lesividade ao bem jurídico tutelado pela norma penal.
+[...]”
+6. Feito este aligeirado relato da causa, decido. Fazendo-o, acentuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo da demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+7. No caso, tenho por atendidos os pressupostos do provimento cautelar. É que se me afigura ocorrente, neste exame provisório da causa, a plausibilidade jurídica do pedido veiculado nesta impetração. Motivo pelo qual defiro a liminar para suspender o andamento da ação penal instaurada contra o paciente, até a apreciação final do mérito deste HC.
+8. Requisitem-se, com a máxima urgência, informações circunstanciadas da causa ao Tribunal de Justiça do Rio Grande do Sul, bem como cópia integral do acórdão proferido nos autos da apelação nº 70031297740; facultada a prestação de esclarecimentos sobre a petição inicial deste habeas corpus (cuja cópia acompanhará o expediente).
+9. Prestadas as informações, abra-se vista à Procuradoria-Geral da República.
+10. Comunique-se, com a máxima urgência.
+Intime-se.
+Publique-se.
+Brasília, 26 de outubro de 2010.
+Ministro AYRES BRITTO
+Relator
