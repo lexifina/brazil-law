@@ -1,0 +1,17 @@
+Trata-se de agravo regimental contra decisão que negou seguimento a recurso extraordinário ao fundamento de que, conforme jurisprudência desta Corte, a interposição do recurso extraordinário com base no art. 102, III, b, exige a declaração formal de inconstitucionalidade de tratado ou lei federal pelo plenário ou órgão especial do Tribunal de origem, nos termos do art. 97 da Constituição.
+A agravante sustenta, em suma, que a decisão agravada deve ser reformada, uma vez que o recurso foi interposto também com fundamento no art. 102, III, a, da Constituição.
+Bem reexaminados os autos, verifico que assiste razão à agravante. Assim, reconsidero a decisão de fl. 145-146 e passo a examinar o recurso extraordinário.
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que a MP 517/94, ao dispor sobre a base de cálculo da contribuição para o PIS, violou o art. 73 do ADCT que veda a edição de medida provisória para a regulação do Fundo Social de Emergência, instituído pela Emenda Constitucional de Revisão 01/94.
+Neste RE, fundado no art. 102, III, a e b, da Constituição, alegou-se, em suma, ofensa aos arts. 73 e 72 do ADCT, sob o fundamento de que a Medida Provisória questionada não regulou o Fundo Social de Emergência, mas apenas dispôs sobre exclusões e deduções na definição da base de cálculo da contribuição para o PIS, matéria que não se enquadra na vedação prevista no art. 73 do ADCT.
+A Procuradoria-Geral da República manifestou-se pelo provimento do recurso (fls. 135.142).
+A pretensão recursal merece acolhida.
+O acórdão recorrido está em dissonância com a jurisprudência deste Tribunal firmada no sentido de que a matéria disciplinada pela MP 517/94, exclusões e deduções na base de cálculo da contribuição para o PIS, não diz respeito à regulação do Fundo Social de Emergência, não se aplicando a ela, portanto, a vedação prevista no art. 73 do ADCT. Nesse sentido, transcrevo ementa do RE 346.983/RJ, Rel. Min. Cezar Peluso:
+“TRIBUTO. Contribuição para o PIS. Medida Provisória nº 517/94. Fundo Social de Emergência. Matéria estranha à MP. Receita bruta. Conceito Inalterado. Constitucionalidade reconhecida. Recurso provido. A Medida Provisória nº 517/94 não dispõe sobre Fundo Social de Emergência, mas sobre exclusões e deduções na base de cálculo do PIS”.
+Naquela oportunidade, afastou-se, ainda, o argumento de que o diploma legal mencionado teria modificado o conceito de receita bruta operacional mencionado no art. 72, V, do ADCT. Merece transcrição, nesse ponto, o seguinte trecho do voto proferido pelo Relator:
+“Também merece acolhida o argumento da recorrente de que a MP nº 517/94 não viola o art. 72, V, do Dispositivo Transitório, uma vez que não alterou o conceito de receita bruta, previsto na legislação relativa ao Imposto de Renda. A medida apenas permitiu exclusões e deduções da receita bruta operacional auferida no mês, na base de cálculo da contribuição, sem introduzir novo conceito ou definição do que seria receita bruta (art. 1º)”.
+No mesmo sentido, as seguintes decisões, entre outras: RE 349.920-ED/PE, Rel. Min. Ellen Gracie; AI 450.090-AgR/MG e RE 433.077/RJ, Rel. Min. Cármen Lúcia; RE 307.143/SP, Rel. Min. Dias Toffoli; RE 383.789/BA, Rel. Eros Grau; RE 430.390-AgR/MG, Rel. Min. Celso de Mello.
+Isso posto, reconsidero a decisão de fls. 145-146 e, com base no art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário. Sem honorários (Súmula 512 do STF).
+Publique-se.
+Brasília, 26 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
