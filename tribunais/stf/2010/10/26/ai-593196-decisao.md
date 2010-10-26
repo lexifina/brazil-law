@@ -1,0 +1,20 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“MERECEM PREVALECER CÁLCULOS ELABORADOS PELA CONTADORIA JUDICIAL, A REQUERIMENTO DO MINISTÉRIO PÚBLICO, QUANDO EM PERFEITA CONSONÂNCIA COM A COISA JULGADA MATERIAL FORMADA EM TORNO DA SENTENÇA CONDENATÓRIA POSTA À BASE DA EXECUÇÃO.
+RECURSO DESPROVIDO. ATO JUDICIAL CONFIRMADO, INCLUSIVE NO ÂMBITO DO REEXAME NECESSÁRIO” (fl. 13).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, II e XXXVI, da mesma Carta, bem como ao art. 58 do ADCT.
+O agravo não merece acolhida. O Tribunal de origem, ao apreciar a questão referente aos cálculos elaborados pela contadoria judicial, negou provimento à apelação do ora agravante, nos seguintes termos:
+“Disso decorre que a pretensão recursal colide em cheio com coisa julgada material há muito consolidada, afrontando, destarte, o imperativo constitucional inscrito no art. 5º, XXXVI, da Lei Maior, razão pela qual não pode vingar. Por isso, também, não existe a propalada ofensa ao art. 58 do ADCT, nem, muito menos, ao art. 5º, II, da Carta Magna” (fl. 16).
+Como visto, o Tribunal a quo limitou-se a manter os cálculos elaborados, haja vista o comando formado em torno da sentença condenatória que deu base à execução.
+Nesse quadro, a controvérsia em torno dos limites da coisa julgada e ao postulado da legalidade, se dependentes de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Confiram-se, a propósito, os seguintes julgados de ambas as Turmas do Supremo Tribunal:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE SUPRESSÃO DE INSTÂNCIA. ART. 515, § 3º, DO CÓDIGO DE PROCESSO CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 631.452-AgR/DF, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI 360.265-AgR/RJ, Rel. Min. Celso de Mello, Segunda Turma).
+Outrossim, a discussão referente à delimitação temporal da vigência do art. 58 do ADCT demanda análise de normas infraconstitucionais aplicáveis à espécie, conforme se vê do seguinte julgado dessa Suprema Corte:
+“EMENTA: CONSTITUCIONAL. PREVIDENCIÁRIO. BENEFÍCIO: REAJUSTE. QUESTÃO CONSTITUCIONAL: ART. 58, ADCT. VIGÊNCIA. LEI 8.213/91 E DECRETO 357/91. OFENSA REFLEXA.
+I. - A questão referente à delimitação temporal da vigência do art. 58 do ADCT não prescinde do exame de normas infraconstitucionais, a Lei 8.213/91 e o Decreto 357/91. Ofensa, se ocorrente, indireta à Carta.
+II. - Agravo não provido” (RE 440.453-AgR/SP, Rel. Min. Carlos Velloso, Segunda Turma).
+Ressalte-se, ainda, que, com a negativa de provimento ao agravo regimental no recurso especial pelo Superior Tribunal de Justiça (AgRg no REsp 487.986/SP, com trânsito em julgado em 15/10/2010), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+Isto posto nego seguimento ao recurso.
+Publique-se.
+Brasília, 26 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
