@@ -1,0 +1,17 @@
+D ECIS Ã O:
+Vistos.
+Banco Rural S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos II, XXXV, XXXVI, LIV e LV, e 8º, inciso III, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Quinta Turma do Tribunal Superior do Trabalho, assim ementado:
+“QUITAÇÃO. SÚMULA 330 DO TST. EFEITOS. Constitui pressuposto de aplicabilidade da Súmula 330 desta Corte a existência de especificação, no acórdão regional, das parcelas postuladas e das abrangidas pelo recibo de quitação, premissa sem a qual não há como se estabelecer o necessário confronto, sob pena de contrariar a Súmula 126 desta Corte. Não constando do acórdão regional o registro das parcelas postuladas nem das discriminadas no termo de rescisão contratual, resta inviabilizada a pretendida aferição de contrariedade à Súmula 330 do TST, conforme explicitado, ante o óbice da Súmula 126 desta Corte. Recurso de Revista de que não se conhece” (fl. 59).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não merece prosperar a irresignação, uma vez que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidência das Súmulas n°s 282 e 356/STF.
+Demais disso, para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem acerca dos efeitos e abrangência do recibo de quitação firmado entre as partes, seria necessário o reexame do conjunto fático-probatório e de normas infraconstitucionais, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279. Anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E TRABALHISTA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. VÍNCULO EMPREGATÍCIO E APLICAÇÃO DA SÚMULA 330 DO TRIBUNAL SUPERIOR DO TRABALHO: CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 745.618/PR-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 12/6/09).
+No mesmo sentido as seguintes decisões monocráticas: AI nº 808.137/MS, Relator o Ministro Joaquim Barbosa, DJe de 6/9/10; e AI nº 778.132/SP, Relator o Ministro Cezar Peluzo, DJe de 25/2/10.
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 26 de outubro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
