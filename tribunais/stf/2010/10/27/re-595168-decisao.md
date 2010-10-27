@@ -1,0 +1,26 @@
+Trata-se de recurso extraordinário interposto pelo INCRA contra acórdão que entendeu ser devida a indenização pela cobertura florística, bem como a inclusão dos juros moratórios e compensatórios em ação de desapropriação por interesse social para fins de reforma agrária. Assim a ementa do acórdão recorrido:
+“PROCESSO CIVIL. DESAPROPRIAÇÃO. INDENIZAÇÃO COMPLEMENTAR. COBERTURA FLORÍSTICA. JUROS COMPENSATÓRIOS E MORATÓRIOS. PAGAMENTO EM DINHEIRO. POSSE SUPERIOR A VINTE ANOS.
+1. Não merece conhecimento a irresignação do agravante no que se refere ao pagamento da indenização pela cobertura florística, bem como quanto à inclusão de juros compensatórios e moratórios no cálculo de indenização, vez que tais questionamentos não foram objeto da decisão agravada.
+2. Tendo o INCRA tomado posse do imóvel expropriado há mais de vinte anos, deve ser imediata a quitação do valor excedente ao depósito inicial, através do pagamento em dinheiro. Precedentes desta Corte Regional Federal.
+3. Agravo de instrumento parcialmente conhecido e na parte conhecida improvido” (fl. 153).
+Os embargos de declaração opostos foram rejeitados.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXIV, 93, IX e 184, da mesma Carta. Sustentou-se, em suma, que a determinação para pagamento em dinheiro da indenização por desapropriação agrária, a incidência de juros compensatórios e a indenização em separado pela cobertura florística ofendem o princípio da justa indenização. Requereu-se, ao final, que a indenização complementar, se devida, seja paga “em títulos da dívida agrária com prazo de resgate de até 20 anos, e não em precatórios” (fl. 213).
+A Subprocuradora-Geral da República Sandra Cureau opinou pelo parcial conhecimento do recurso e, nessa parte, pelo seu desprovimento.
+A pretensão recursal não merece acolhida.
+Quanto à alegada ofensa ao princípio da justa indenização, previsto nos arts. 5º, XXIV, e 184 da Constituição Federal, a apreciação da matéria demanda o reexame de prova, o que atrai a incidência da Súmula 279 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 643.888-AgR/SP, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO REGIMENTAL. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. PRESERVAÇÃO DO VALOR REAL. ARTS. 184 E 5º, XXIV, DA CONSTITUIÇÃO. REEXAME DE PROVAS. MATÉRIA INFRACONSTITUCIONAL.
+O exame da alegada violação aos princípios da justa indenização e da preservação do valor real encontra-se no âmbito infraconstitucional. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição Federal.
+Impossível a revisão de decisão que considera os cálculos dos valores pagos em decorrência de decisão judicial, em face da Súmula 279.
+Agravo regimental a que se nega provimento” (AI 477.071-AgR/DF, Rel. Min. Joaquim Barbosa, Segunda Turma).
+No mesmo sentido, menciono as seguintes decisões, entre outras: AI 548.037-AgR/SP, Rel. Min. Ellen Gracie; AI 494.388-AgR/SP, Rel.Min. Cármen Lúcia; AI 295.072-AgR/SP, Rel. Min. Joaquim Barbosa; RE 563.305-AgR/CE, Rel. Min. Eros Grau.
+É certo, ainda, que o Tribunal de origem não conheceu do agravo de instrumento quanto às questões referentes à condenação ao pagamento da indenização pela cobertura florística e dos juros compensatórios e moratórios, sob o fundamento de que essas não foram objeto da decisão agravada (fl. 150).
+O recorrente, porém, não atacou os fundamentos acima mencionados. As razões recursais se limitaram a sustentar que a indenização da cobertura florística e a incidência de juros compensatórios ofendem o princípio da justa indenização. Incide, no caso, a Súmula 284 do STF, haja vista a deficiente fundamentação do recurso extraordinário.
+Ainda que superado tal óbice, o que se diz somente para argumentar, no que tange à incidência de juros compensatórios, o acórdão recorrido está em consonância com o entendimento desta Corte, consubstanciado na Súmula 618. Com esse entendimento, cito precedentes de ambas as turmas: RE 474.659-AgR/PB e RE 549.350-AgR/PB, Rel. Min. Ellen Gracie; AI 612.011-AgR/TO, Rel. Min. Ayres Britto; RE 419.827-AgR/PB, Rel. Min. Gilmar Mendes.
+Além disso, a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa a razões de seu convencimento, tal como ocorreu.
+Por fim, restou prejudicado o pedido para pagamento de títulos da dívida agrária complementares. Com feito, o Superior Tribunal de Justiça, ao julgar o Recurso Especial 819.228/BA, decidiu que “os TDA's complementares devem ser emitidos com a dedução do tempo decorrido entre a data do depósito inicial e a do seu lançamento, de modo que o seu restante se enquadre no prazo constitucional vintenário” (fl. 279).
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 27 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
