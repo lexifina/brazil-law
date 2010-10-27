@@ -1,0 +1,11 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que manteve condenação da parte ora agravante no pagamento de compensação do dano moral decorrente de ofensa à honra subjetiva do agravado. A ementa tem o seguinte teor (fls. 49):
+“PROCESSUAL – AGRAVO RETIDO – Encerramento da instrução com substituição da audiência pela apresentação de memoriais – Protesto por produção de prova oral – Preclusão ante o teor da decisão de saneamento que ao deferir as provas, implicitamente indeferiu a prova oral, desnecessária para o deslinde da controvérsia – Ônus da prova de demonstração da ocorrência do dano que não cabe ao réu, não se prestando o depoimento pessoal senão à confissão – Recurso improvido.
+RESPONSABILIDADE CIVIL – DANO MORAL – Ofensas irrogadas em seguidas entrevistas publicadas em jornal e transmitidas por emissora de rádio na qual o ofensor afirma que a vítima faz parte de uma quadrilha de ladrões que estava atuando na Administração da Prefeitura da cidade, mediante a prática de desvio de dinheiro público – Ato ilícito configurado – Fixação da indenização em 'quantum' que atende aos critérios de razoabilidade e proporcionalidade – Valor de desestímulo que, no entanto, não pode servir de fonte de enriquecimento sem causa – Sentença mantida por seus próprios fundamentos – Recursos improvidos.“
+No recurso extraordinário a parte ora agravante alega vulneração das garantias da ampla defesa e do contraditório. Assevera que “(...) está sendo punido por expressar opinião acerca de fatos públicos que cercaram a administração municipal” (fls. 65).
+Sem razão a parte recorrente. Afasto a alegação de afronta aos dispositivos constitucionais mencionados, tal como veiculada no apelo extraordinário, pois observo que a análise das supostas ofensas à Constituição demandaria avaliação do contexto fático-probatório que orientou a decisão impugnada, circunstância que inviabiliza o processamento do recurso ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 27 de outubro de 2010
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
