@@ -1,0 +1,15 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão no qual se discute a obrigatoriedade do servidor em gozo de licença sem vencimentos continuar efetuando o pagamento da contribuição previdenciária junto ao sistema de previdência ao qual está vinculado (fls. 136-141).
+2.  No RE, a parte recorrente alega violação aos arts. 5º, caput e XXXV, da Constituição Federal, sustentando, em síntese, a inconstitucionalidade do art. 7º da Lei Estadual 10.366/90 e a inexigibilidade da contribuição, já que não auferiu renda no período em que esteve no gozo de licença sem vencimentos (fls. 160-167).
+3.  Inadmitido na origem (fls. 172-174), subiram os autos para melhor exame - AI 672.115/MG.
+4.  O Ministério Público Federal manifestou-se pelo não-conhecimento do recurso extraordinário (fls. 185-188).
+5.  O recurso não merece prosperar. Verifico que os dispositivos aos quais se alegou violação não se encontram prequestionados, porque não abordados pelo acórdão recorrido, nem mencionados nos embargos de declaração opostos para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+6.  Ademais, da leitura do acórdão recorrido percebo que o Tribunal de origem decidiu a controvérsia com fundamento no conjunto fático-probatório dos autos e na legislação infraconstitucional. Veja-se:
+“Assim, se verificada a hipótese de incidência da aludida contribuição prevista na Lei 10.366/90, a mesma deve ser cobrada do apelante, independentemente da sua vontade, posto que compulsória e o procedimento é vinculado (artigo 3º do CTN).
+Por sua vez, o § 1º do artigo 5º, dispõe que ‘o segurado compulsório que, permanecendo na condição de militar estadual, tiver suspensos seus vencimentos ou proventos poderá optar por continuar a recolher a contribuição previdenciária ao IPSM’. Optando, ‘será sua a responsabilidade pelo recolhimento do total da contribuição previdenciária devida’ (§ 2º)” (fl. 138).
+ Assim, para o exame das violações alegadas, seria necessária a análise de fatos e provas e da legislação local (Súmulas STF 279 e 280), hipóteses inviáveis em sede extraordinária.
+7.  Por fim, quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal,   contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+8.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 27 de outubro de 2010.
+Ministra Ellen Gracie
+Relatora
