@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“DIREITO PÚBLICO NÃO ESPECIFICADO. TRATAMENTO DE SAÚDE. PESSOA CARENTE DE RECURSOS E COM DIAGNÓSTICO DE NEOPLASIA PULMONAR MALIGNA. PLEITO DE INTERNAÇÃO HOSPITALAR E TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES PÚBLICOS. SUPERDIREITO À SAÚDE QUE DEVE PREVALECER SOBRE OS PRINCÍPIOS ORÇAMENTÁRIOS E FINANCEIROS ESGRIMIDOS NA DEFESA PELO ENTE PÚBLICO. EXTINÇÃO DO PROCESSO EM RELAÇÃO AO INSTITUTO HOSPITALAR SANTO ANTÔNIO. ILEGITIMIDADE PASSIVA RECONHECIDA. (...)” (fl. 10).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 196, 197 e 198 da mesma Carta.
+O agravo não merece acolhida. É que o julgado impugnado encontra-se em harmonia com a orientação da Corte que, ao julgar o RE 271.286-AgR/RS, Rel. Min. Celso de Mello, entendeu que o Poder Público, qualquer que seja a esfera institucional de sua atuação no plano da organização federativa brasileira, não pode se mostrar indiferente ao problema da saúde da população, sob pena de incidir, ainda que por censurável omissão, em grave comportamento inconstitucional.
+Salientou-se, ainda, no citado julgado, que a regra contida no art. 196 da Constituição tem por destinatários todos os entes políticos que compõem, no plano institucional, a organização federativa do Estado brasileiro. No mesmo sentido, menciono as seguintes decisões, entre outras: RE 539.216/RS, Rel. Min. Eros Grau; RE 572.252/RS, Rel. Min. Cezar Peluso; AI 507.072/MG, Rel. Min. Joaquim Barbosa; AI 635.766/RS, Rel. Min. Sepúlveda Pertence; AI 662.822/RS, Rel. Min. Celso de Mello.
+Nesse sentido, cito acórdão da Segunda Turma proferido no AI 597.182-AgR/RS, Rel. Min. Cezar Peluso, assim ementado:
+“1. RECURSO. Extraordinário. Inadmissibilidade. Fornecimento de medicamentos. Bloqueio de verbas públicas. Direito à saúde. Jurisprudência assentada. Art. 100, caput e parágrafo 2º da Constituição Federal. Inaplicabilidade. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte.
+2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado”.
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 27 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
