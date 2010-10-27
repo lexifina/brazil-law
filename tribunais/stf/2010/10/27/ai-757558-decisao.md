@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ILHA COSTEIRA. COBRANÇA DE TAXA DE FORO. NECESSIDADE DA ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DO CONJUNTO PROBATÓRIO CONSTANTE DOS AUTOS. IMPOSSIBILIDADE. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+“CONSTITUCIONAL. CIVIL. ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE NOTIFICAÇÃO DE COBRANÇA DE TAXA DE FORO. IMÓVEL SITUADO EM ILHA COSTEIRA. PROVA DE PROPRIEDADE PARTICULAR. COBRANÇA INDEVIDA.
+1. A Constituição diz que as ilhas costeiras são bens da União, excetuados os terrenos pertencentes a terceiros (art. 20, inciso IV, c/c art. 26, inciso II, da Constituição Federal).
+2. O título aquisitivo e a respectiva cadeia sucessória, apresentados pelos autores, provam a propriedade particular, tornando indevida cobrança de taxa de foro pela União, à alegação de que o imóvel, situado em ilha costeira, é bem dominical. Precedentes: TRF-1ª Região. 5ª Turma. AC 2003.37.00.007148-3/MA. Relator: Juiz Federal Avio Mozar José Ferraz de Novaes (CONV). Data do Julgamento: 4.7.2007. DJ 27.7.2007, p. 72; TRF-1ª Região. 6ª Turma. AC 2001.37.00.006015-3/MA. Relator: Desembargador Federal Daniel Paes Ribeiro. Data do Julgamento: 15.9.2006. DJ 17.10.2006, p. 43.
+3. Além disso, a União pretende cobrar a taxa de foro antes mesmo de providenciar o registro da enfiteuse, o que não encontra amparo legal e, especialmente, destoa da Lei n. 9.636/98.
+4. Apelação e remessa oficial a que se nega provimento” (fl. 729 – grifos nossos).
+2. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a harmonia do acórdão recorrido com a jurisprudência do Supremo Tribunal Federal e a incidência da Súmula n. 279 do Supremo Tribunal Federal (fls. 81-82).
+3. A Agravante alega que o Tribunal a quo teria contrariado os arts. 20, inc. II, e 26, inc. II, da Constituição da República.
+Argumenta que “existe uma presunção militando em [seu] favor (...), o que somente seria desacreditada através de prova em contrário, que nesse caso é um título de propriedade legítimo ou a ser legitimado nos termos da legislação citada e em vigor à época das primeiras ocupações da área” (fl. 71).
+Sustenta que, “não existindo título legítimo que comprovasse o domínio particular, competia ao então posseiro adotar as providências para a legitimação da posse, nos prazos assinalados na lei para a obtenção do respectivo título junto à Repartição Geral das Terras Públicas” (fls. 73-74).
+Assevera que “não é possível reconhecer-se o domínio pleno do apelado sobre a ilha objeto deste processo, pela inexistência de título legítimo que comprove o domínio, por falta de regularização nos sucessivos prazos assinados para tal fim” (fl. 74).
+Apreciada a matéria trazida na espécie, DECIDO.
+4. Razão jurídica não assiste à Agravante.
+5. Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria um novo exame do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, a teor do que dispõe a Súmula n. 279 do Supremo Tribunal Federal.
+O reexame do julgado impugnado demandaria, também, a análise prévia da legislação infraconstitucional (Decretos n. 1.318/1984 e 9.760/1946 e Lei n. 601/1850) aplicada na espécie. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que também não viabiliza o processamento do recurso extraordinário.
+Nesse sentido:
+“CONSTITUCIONAL. ADMINISTRATIVO. USUCAPIÃO DE DOMÍNIO ÚTIL. TERRENO DE MARINHA. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279 DO STF. OFENSA INDIRETA À CONSTITUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. I - O julgamento do RE demanda o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF. II - O acórdão recorrido dirimiu a controvérsia com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. III - Ausência de prequestionamento da questão constitucional suscitada. Incidência das Súmulas 282 e 356 do STF. IV - Agravo regimental improvido” (RE 534.546-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 19.9.2008).
+“1. RECURSO. Extraordinário prejudicado. Provimento pelo STJ. Prejudicialidade ausente. Decisão agravada. Reconsideração. Deve ser conhecido recurso extraordinário indeferido por erro de fato. 2. RECURSO. Extraordinário. Inadmissibilidade. Usucapião. Ilha costeira. Apreciação da causa perante a prova e a legislação infraconstitucional pertinente. Aplicação da súmula 279. Agravo regimental improvido. Não se admite, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, nem tampouco de violação que dependeria de reexame prévio de provas” (RE 483.693-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJ 11.10.2007).
+Não há, pois, o que prover quanto às alegações da Agravante.
+6. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 27 de outubro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
