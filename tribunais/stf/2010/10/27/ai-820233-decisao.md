@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. DECISÃO PROFERIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DAS PROVAS CONSTANTES DOS AUTOS. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“RECURSO INOMINADO. CONSUMIDOR. PEDIDO DE DESFAZIMENTO DE NEGÓCIO. ALMOFADA TERAPÊUTICA. AQUISIÇÃO DO PRODUTO MEDIANTE CONCESSÃO DE EMPRÉSTIMO CONSIGNADO DIRETAMENTE NO BENEFÍCIO DA APOSENTADORIA DO AUTOR. PROCEDÊNCIA.
+I. Restando devidamente comprovado que o banco recorrente intermediou o negócio para a aquisição da almofada terapêutica, responde este solidariamente, por pertencer á cadeia de fornecimento, independentemente de culpa, uma vez que sua responsabilidade é objetiva. Inteligência do art. 7º, § único, do CDC.
+II. Entendimento pacífico das Turmas Recursais quanto ao direito de desfazimento do negócio, por força do vício constante no negócio jurídico.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO IMPROVIDO” (fl. 82).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas n. 279 e 282 do Supremo Tribunal Federal (fls. 109-111).
+4. O Agravante alega que teriam sido contrariados os arts. 5º, inc. V, X, LIV e LV, e 93, inc. IX, da Constituição da República.
+Afirma que o acórdão estaria em desacordo com os fatos narrados e provados nos autos, pois “não houve, em momento algum, a conduta culposa por parte da instituição financeira recorrente. Para que haja a concretização do dever de indenizar, é indispensável que a parte que se julga prejudicada comprove, [n]os autos, os três elementos exigidos pela doutrina, a saber: a conduta culposa do réu, os danos suportados e o nexo de causalidade entre aquela e estes. Somente com a presença inequívoca de tais elementos é que se poderá aplicar, de forma correta, o artigo 186, c/c o artigo 927 do Código Civil de 2002” (fl. 102).
+Examinada a matéria posta à apreciação, DECIDO.
+5. Afasta-se inicialmente o fundamento de ausência de prequestionamento da decisão agravada. Os temas constitucionais foram prequestionados no momento processual adequado. Todavia, a superação desse óbice não permite acolher a pretensão do Agravante, pois a ele não assiste razão na forma do direito vigente.
+6. Afasta-se, também, a alegação de nulidade do acórdão por ofensa ao art. 93, inc. IX, da Constituição da República. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+E, tal como se firmou na jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+7. O Tribunal a quo reconheceu a existência de nexo de causalidade entre a conduta do Agravante e o dano sofrido pelo Agravado, por meio do exame das provas apresentadas e da legislação infraconstitucional pertinente, especificamente o Código de Defesa do Consumidor. Para se concluir de forma diversa, seria necessário o reexame do conjunto probatório, procedimento incabível de ser validamente adotado em recurso extraordinário, a teor do que dispõe a Súmula n. 279 do Supremo Tribunal Federal.
+Tem-se, ainda, no caso vertente que eventual ofensa constitucional, se tivesse ocorrido, seria indireta, o que também afasta o cabimento do recurso extraordinário.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PERDA DE CONEXÃO DE VÔO INTERNACIONAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 762.095-AgR, de minha relatoria, Primeira Turma, DJe 5.2.2010).
+“Responsabilidade civil de estabelecimento bancário: envio de cartão de crédito e cobrança indevida: recurso extraordinário: descabimento: controvérsia decidida à luz de legislação infraconstitucional pertinente - L. 8.078/90 e dos fatos e provas dos autos: incidência das Súmulas 279 e 636” (AI 645.031-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJe 3.8.2007).
+“AGRAVO REGIMENTAL. INDENIZAÇÃO POR DANO MORAL. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. INEXISTÊNCIA DE OFENSA AO ART. 5º, II, XXXV E LIV, DA CF/88. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279/STF. Necessidade de exame prévio de norma infraconstitucional para a verificação de contrariedade ao Texto Maior. Caracterização de ofensa reflexa ou indireta. Agravo regimental a que se nega provimento” (AI 546.092-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 19.5.2006).
+Não há, pois, o que prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 27 de outubro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
