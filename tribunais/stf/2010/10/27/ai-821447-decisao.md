@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cujo entendimento firmou-se no sentido de que a lei nova que extingue direito à obtenção de quinquenio instituído em lei anterior, não pode impedir a continuidade da vantagem.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 1º, 5º, XXXV e LV, 18, 23, I, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. É que para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Lei Municipal 3.175/2003 e Lei Orgânica do Município), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Nesse sentido, cito as seguintes decisões: AI 814.432/MG, Rel. Min. Ayres Britto e AI 758.409/MG, Rel. Min. Eros Grau.
+Ainda que assim não fosse, o recurso não prosperaria. É que o acórdão recorrido está em consonância com o entendimento fixado por esta Corte no sentido de que lei posterior não pode suprimir vantagens pessoais já incorporadas pelos servidores. Nesse sentido, transcrevo a ementa do AI 762.863-AgR/MG, Rel. Min. Eros Grau:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. QUINQUENIO. LEI NOVA. EXTINÇÃO DO ADICIONAL POR TEMPO DE SERVIÇO. DIREITO ADQUIRIDO. PRECEDENTES. 1. O Supremo Tribunal Federal fixou entendimento no sentido de que a lei nova não pode revogar vantagem pessoal já incorporada ao patrimônio do servidor sob pena de ofensa ao direito adquirido. 2. A verificação, no caso concreto, da ocorrência, ou não, de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada situa-se no campo infraconstitucional. Agravo regimental a que se nega provimento”
+Além disso, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. O mencionado dispositivo constitucional não impõe seja a decisão exaustivamente fundamentada, mas sim o que se busca é que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu.
+Por fim, com a negativa de conhecimento do agravo de instrumento pelo Superior Tribunal de Justiça (Ag 1.245.298/MG, com trânsito em julgado em 9/3/2010), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 27 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
