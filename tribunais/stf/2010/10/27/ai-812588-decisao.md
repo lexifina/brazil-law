@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. PREQUESTIONAMENTO NÃO DEMONSTRADO. SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Paraná:
+“AGRAVO INTERNO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PENHORA DE CRÉDITO DECORRENTE DE PRECATÓRIO. PREFERÊNCIA DO CREDOR À ALIENAÇÃO JUDICIAL DO DIREITO DE CRÉDITO NO LUGAR DA SUB-ROGAÇÃO (ART. 673, § 1º DO CPC). PRECEDENTES DO STJ. AGRAVO CONHECIDO E NÃO PROVIDO. '(...) 4. A execução se opera em prol do exequente e visa a recolocar o credor no estágio de satisfatividade que se encontrava antes do inadimplemento. Em consequência, realiza-se a execução em prol dos interesses do credor (arts. 612 e 646, do CPC). Por conseguinte, o princípio da economicidade não pode superar o da maior utilidade da execução para o credor, propiciando que a execução se realize por meios ineficientes à solução do crédito exequendo. (...) (STJ, Resp 936849-RS, Primeira Turma, Rel. Min. Luiz Fux, julg. 01/04/08)'” (fl. 121).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta (fls. 209-213).
+4. A Agravante alega que teria sido contrariado o art. 37, caput, da Constituição da República
+Sustenta:
+“Acaso não se proceda à necessária reforma da decisão recorrida, estar-se-á promovendo a subversão dos valores jurídicos, em conivência com o Estado, para impor ao contribuinte, que já é credor deste (mas não consegue ver seu crédito satisfeito), o ônus de suportar não apenas a mora estatal, mas a pesada carga tributária que lhe é imposta, sem poder utilizar o seu crédito líquido, certo e exigível, conforme lhe permite a lei. (...) Por isso, a conduta do Estado afronta diretamente o Princípio da Moralidade Administrativa insculpido no art. 37 da CF/88, que deve nortear os atos da Administração Pública, o que não está sendo observado no caso concreto, em que a Fazenda Pública do Paraná tenta beneficiar-se da própria torpeza” (fls. 171-172).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Inicialmente, cumpre considerar se teria sido atendida a exigência do tema constitucional expresso no art. 37, caput, da Constituição da República.
+Tem-se cumprido o requisito do prequestionamento quando oportunamente suscitada a matéria, o que se dá em momento processual adequado, nos termos da legislação vigente.
+Na espécie vertente, a Agravante alegou contrariedade ao referido artigo apenas no recurso extraordinário. O Tribunal a quo não se manifestou sobre a alegada inconstitucionalidade até mesmo por não ter sido instado a fazê-lo, pois a Agravante não opôs embargos de declaração. Incidem na espécie as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+Confiram-se, a propósito, os seguintes julgados:
+“PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. SÚMULAS STF 282 E 356. 1. Não tendo sido apreciadas, pela instância a quo, as questões constitucionais em que se apóia o extraordinário, é imprescindível a oposição de embargos de declaração para suprir o prequestionamento. Súmulas STF 282 e 356. 2. O Supremo Tribunal não admite o 'prequestionamento implícito' da questão constitucional. AI 413.963-AgR/SC, rel. Min. Celso de Mello, DJ 1º.04.2005. 3. Não há negativa de prestação jurisdicional quando a parte recorrente opta por não atacar o fundamento infraconstitucional, arrastando para si a preclusão temporal para viabilizar, em tese, a sua pretensão. 4. Agravo regimental improvido” (RE 353.514-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 1º.10.2010).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. CABIMENTO DE MANDADO DE SEGURANÇA: IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 783.257-AgR, de minha relatoria, Primeira Turma, DJe 24.9.2010).
+Nada há, pois, a prover quanto às alegações da Agravante.
+6. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 27 de outubro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
