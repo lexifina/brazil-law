@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, proferido por Tribunal Regional Federal, que considerou constitucionais as alterações na cobrança da contribuição ao PIS introduzidas pelas Leis 9.715/1998 e 9.718/1998. O acórdão recorrido também entendeu serem passíveis de alteração por lei ordinária as normas veiculadas pela Lei Complementar 07/1970.
+Alega-se violação do disposto nos arts. 5°, II, XXXV e LV; 93, IX; 59, caput, I e II; 61; 69; 195, caput, I e § 4º, e 239 da Constituição federal.
+Inicialmente, verifico que inexiste a alegada ofensa aos arts. 5°, XXXV e LV, e 93, IX, da Constituição federal, pois o Tribunal de origem inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte.
+Consigno que por ocasião do julgamento do RE 357.950, do RE 390.840 e do RE 358.273 (rel. min. Marco Aurélio, DJ de 15.08.2006), o Plenário do Supremo Tribunal Federal declarou, incidentalmente e por maioria, a inconstitucionalidade do § 1º do art. 3º da Lei 9.718/1998 (cf. Informativo STF 408/2005).
+Confira-se, em sentido semelhante, o RE 388.830 (rel. min. Gilmar Mendes, Segunda Turma, DJ de 10.03.2006), o RE 330.226-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 16.06.2006), o RE 378.191-AgR (rel. min. Carlos Britto, Primeira Turma, DJ de 25.08.2006), o RE 410.830 (rel. min. Ellen Gracie, DJ de 20.02.2006), o RE 449.015 (rel. min. Ellen Gracie, DJ de 06.03.2006), o AI 446.774 (rel. min. Celso de Mello, DJ de 06.03.2006), o RE 476.425 (rel. min. Eros Grau, DJ de 02.05.2006), o RE 453.622 (rel. min. Celso de Mello, DJ de 25.04.2006) e o RE 437.409 (rel. min. Marco Aurélio, DJ de 23.03.2006).
+Quanto à alegação de ofensa ao disposto no art. 239 da Constituição federal, observo que, por ocasião do julgamento do RE 390.840, a Corte entendeu que o referido dispositivo constitucional não implicou o engessamento da contribuição ao PIS. Registro, nesse sentido, o seguinte trecho do voto do eminente ministro-relator, Marco Aurélio:
+“No mais, a norma do artigo 239 em análise não implicou o engessamento do Programa de Integração Social. O teor do preceito revela, isso sim, a destinação do que arrecadado sem fazer alusão explícita à base de incidência, que continuou a ser a prevista na Lei Complementar nº 7, de 7 de setembro de 1970. Daí a inviabilidade de se dizer que houve, no caso, o empréstimo de envergadura constitucional aos parâmetros da citada contribuição.”
+Em sentido semelhante, confira-se o seguinte trecho da ementa da ADI 1.417 (rel. min. Octávio Gallotti, DJ de 23.03.2001):
+“Programa de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP.
+[...]
+Sendo a contribuição expressamente autorizada pelo art. 239 da Constituição, a ela não se opõem as restrições constantes dos artigos 154, I e 195, § 4º, da mesma Carta.
+[...]
+Inconstitucionalidade apenas do efeito retroativo imprimido à vigência da contribuição pela parte final do art. 18 da Lei nº 8.715-98.”
+Ademais, saliento que o Supremo Tribunal Federal fixou orientação no sentido da inexistência de relação hierárquica necessária entre lei complementar e lei ordinária (arts. 59 e 69 da Constituição federal) dado que, em assunto tributário, a reserva de lei complementar é definida apenas em razão da matéria a ser tratada (cf. RE 377.457 e RE 381.964, rel. min. Gilmar Mendes, DJe de 19.12.2008 e 13.03.2009, respectivamente).
+A discussão a respeito da atualização e repetição ou compensação da diferença paga a maior em virtude da majoração do tributo tem natureza infraconstitucional, até porque envolve a análise do art. 166 do Código Tributário Nacional. É-lhe vedada, portanto, a via extraordinária. Nesse sentido, RE 453.490-AgR (rel. min. Ricardo Lewandowski, sessão de 17.10.2006).
+Do exposto, dou parcial provimento ao recurso extraordinário para considerar inconstitucional tão-somente a modificação da base de cálculo do tributo, nos termos do art. 3º, § 1º, da Lei 9.718/1998 (art. 557, § 1º-A, do Código de Processo Civil).
+Custas ex lege. Sem honorários (Súmula 512/STF).
+Publique-se.
+Brasília, 27 de outubro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
