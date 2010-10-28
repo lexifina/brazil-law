@@ -1,0 +1,20 @@
+Decisão:
+Vistos.
+Município de Betim interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso LXXVIII, 30, incisos I e II, 37, inciso IX, e 93, inciso IX, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Terceira Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“AÇÃO CIVIL PÚBLICA - CONTRATAÇÃO TEMPORÁRIA DE SERVIDORES - EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO - PRELIMINAR DE NULIDADE DA SENTENÇA SUSCITADA DE OFÍCIO POR CONTRADIÇÃO E INCOERÊNCIA” (fl. 189).
+Opostos embargos de declaração (fls. 201 a 213), foram rejeitados (fls.219 a 222).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece prosperar.
+No que se refere aos artigos 5º, inciso LXXVIII, 30, incisos I e II, e 93, inciso IX, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+No mais, acórdão atacado se limitou a aplicar a legislação infraconstitucional pertinente ao caso (artigo 267, incisos IV e VI, do Código de Processo Civil), reconhecendo que a sentença de 1º grau “revela contradição entre a sua fundamentação e a sua parte dispositiva, importando a sua nulidade” (fl. 193).
+Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. LEGITIMIDADE ATIVA AD CAUSAM. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 587.112/CE-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 4/6/10).
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXTINÇÃO DA EXECUÇÃO. ARQUIVAMENTO DOS AUTOS. SENTENÇA TRANSITADA EM JULGADO. PREJUDICIALIDADE DO AGRAVO DE INSTRUMENTO. PERDA DE OBJETO. ALEGAÇÃO DE ERRO OU EQUÍVOCO DA DECISÃO PROFERIDA EM PRIMEIRO GRAU. PRECLUSÃO. FATOS E PROVAS. SÚMULA STF 279. 1. Prejudicado o agravo de instrumento por perda de objeto, diante da documentação acostada aos autos e dos ofícios do TJ/SP que informam que houve sentença extinguindo a execução de honorários e determinando o arquivamento dos autos. 2. Diante da preclusão da alegação do suposto equívoco ou erro na sentença que extinguiu todo o processo e não apenas a fase de cumprimento da sentença, e da impossibilidade de revolver fatos e provas nesta via (Súmula STF 279), a decisão agravada não merece reforma. 3. Agravo regimental improvido” (AI nº 634.376/SP-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 20/8/10).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 28 de outubro de 2010.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
