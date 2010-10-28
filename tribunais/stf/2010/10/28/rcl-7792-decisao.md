@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de reclamação ajuizada pelo Instituto dos Missionários de Nossa Senhora contra acórdão da 2ª Sessão Especial de Dissídios Individuais do Tribunal Regional do Trabalho da 3ª Região, que, ao apreciar a Ação Rescisória n. 00977.2008.000.03.00.6, julgou o pleito improcedente, em razão do que decidido no CC 7.204, Rel. Min. Ayres Britto, Pleno, DJ 9.12.2005. São os fundamentos do acórdão reclamado:
+“Note-se que a ação de indenização por ato ilícito/acidente do trabalho foi proposta em 1998 (fls. 47/56), teve sentença de mérito proferida em março de 2000 (fls. 314/317) e acórdão em apelação proferido em outubro de 2000 (fls. 347/374), decisão que transitou livremente em julgado (fl. 376).
+E o E. Supremo Tribunal Federal, modificando jurisprudência majoritária em torno da interpretação do art. 114 da Constituição da República acerca de competência para julgamento de ação de indenização civil por acidente de trabalho, decidiu prospectivamente, em junho de 2005, que a primeira decisão de mérito passou a ser o marco de definição da competência em questão, assim optando por política judiciária de valorização da segurança jurídica.
+(...) conforme já mencionado, todo o processo que originou a decisão rescindenda é anterior tanto à referida decisão prospectiva do E. STF, quanto à publicação da Emenda Constitucional 45, de 08 de dezembro de 2004, pelo que não se entende que o v. acórdão de fls. 580/585 tenha sido prolatado por juízo absolutamente incompetente (art. 485, II, do CPC), tampouco em ofensa ao art. 114 da Constituição (art. 485, V, do CPC). ”
+O reclamante aduz, em síntese, que a decisão reclamada atentaria contra o que decidido no RE 540.724, Rel. Min. Cezar Peluso, – já transitado em julgado – no qual consta como recorrente. É o teor da decisão-paradigma, no que releva:
+“2. Consistente o recurso.
+Com efeito, em data recente o Plenário da Corte, com voto declarado nosso, reviu sua jurisprudência para assentar que, quaisquer que sejam os danos, “As ações de indenização propostas por empregado contra empregador, fundadas em acidente do trabalho, são da competência da justiça do trabalho” (CC nº. 7.204, Rel. Min. CARLOS BRITTO, cf. Informativo nº. 394/2005).
+Na mesma oportunidade, no entanto, ficou ainda decidido que “as ações que tramitam perante a Justiça comum dos Estados, com sentença de mérito anterior à promulgação da EC 45/04, lá continuam até o trânsito em julgado e correspondente execução. Quanto àquelas cujo mérito ainda não foi apreciado, hão de ser remetidas à Justiça do Trabalho, no estado em que se encontram, com total aproveitamento dos atos praticados até então”.
+No caso, não existe sentença de mérito. Deste modo, o acórdão recorrido não está de acordo com a jurisprudência desta Corte.
+3. Do exposto, e com fundamento no art. 557, § 1º-A, do CPC, conheço do recurso e dou-lhe provimento para reconhecer a competência da Justiça do Trabalho.”
+Em decisão de fls. 214-215, o então Relator, Min. Cezar Peluso, concedeu medida liminar, para suspender o trâmite da AR n. 00977.2008.000.03.00.6 até o julgamento definitivo da reclamação.
+A Procuradoria-Geral da República, em parecer de fls. 236-240, manifesta-se pela improcedência da reclamação, em decorrência da existência de coisa julgada no acórdão proferido na origem. Ademais, atesta que a decisão-paradigma apontada, ao considerar o recorte temporal proposto no CC 7.204, teria levado em conta a ação rescisória, quando deveria ter apreciado a existência de sentença de mérito nos autos principais.
+Decido.
+A conduta tomada pelo Tribunal Regional do Trabalho é incensurável.
+Como bem explicitado pelo Parquet, a decisão-paradigma, ao aplicar firme jurisprudência desta Corte, incorreu em evidente erro material, qual seja, a omissão quanto à sentença de mérito proferida no processo principal, inclusive com trânsito em julgado, antes da publicação da EC 45/04.
+No caso, é certo que a remessa da ação rescisória para julgamento por Tribunal distinto daquele que julgou a ação rescindenda é injustificável. Por definição, para existir ação rescisória, é necessário que haja prévia sentença de mérito com trânsito em julgado formal.
+Dessa forma, a decisão proferida no RE 540.724 revela patente incongruência entre sua fundamentação e sua conclusão, o que denota o evidente erro material na espécie (cf. AC 276, Rel. Min. Marco Aurélio, 1ª Turma, DJ 11.11.2005; HC 70.817, Rel. Min. Marco Aurélio, 2ª Turma, DJ 23.9.1994).
+Ressalte-se que o erro material deve ser retificado a qualquer tempo (cf. RE-ED-EDiv 168.684, Rel. Min. Ilmar Galvão, Pleno, DJ 1.8.2003), não subsistindo nenhuma alegação de ofensa da decisão reclamada.
+Ante o exposto, casso a medida liminar anteriormente deferida e nego seguimento à reclamação.
+Publique-se.
+Brasília, 28 de outubro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
