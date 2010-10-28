@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO EXTEMPORÂNEO. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com fundamento no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto julgado do Tribunal de Justiça de São Paulo, o qual manteve a sentença que condenara Adriano Emilio Marchesini à pena de 5 anos e 4 meses de reclusão e 13 dias-multa (pela prática da conduta descrita no art. 157, § 2º, inc. II, do Código Penal) e deu provimento à apelação do Ministério Público e condenou Márcia Regina Pereira àquela pena, pela prática da mesma conduta.
+3. No recurso extraordinário, os Agravantes afirmam que o Tribunal a quo teria contrariado os arts. 5º, inc. XLV, XLVI, alínea a, LV, LVI, LVII, LXI e LXVI, e 93, inc. IX, da Constituição da República.
+Asseveram que sua condenação se teria embasado exclusivamente em provas inquisitoriais.
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta e a incidência das Súmulas 279 e 282 do Supremo Tribunal Federal (fls. 36-41).
+Os Agravantes sustentam o preenchimento dos requisitos de admissibilidade do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste aos Agravantes.
+6. O recurso extraordinário é extemporâneo, pois foi interposto em 7.8.2007 (fl. 267) - antes do julgamento dos embargos infringentes (17.9.2008 – fl. 153; acórdão publicado em 25.11.2008 – fl. 159) e dos embargos declaratórios em embargos infringentes (29.1.2009 – fl. 164; acórdão publicado em 18.3.2009 – fl. 168) - e ratificado em 6.4.2009 (fl. 319), após o prazo legal de 15 dias a contar da publicação da última decisão proferida no processo. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RATIFICAÇÃO. RECURSO EXTRAORDINÁRIO. INTEMPESTIVIDADE. A ratificação do recurso extraordinário interposto no curso do processo deve ser realizada no prazo para a interposição do recurso, contado da data da publicação da última decisão do Tribunal a quo. Agravo regimental a que se nega provimento” (AI 574.117-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 5.5.2006 – grifos nossos).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA CRIMINAL. RECURSO EXTEMPORÂNEO. PRECEDENTES. 1. É extemporâneo o recurso extraordinário protocolado antes do julgamento do acórdão proferido em embargos de declaração, sem posterior ratificação. Precedentes. 2. Agravo regimental improvido” (AI 800.376-AgR, Rel. Min. Ellen Gracie, Segunda Turma, Dje 10.9.2010 – grifos nossos).
+“Agravo regimental no agravo de instrumento. Recurso extraordinário extemporâneo. Precedentes. 1. A jurisprudência desta Corte é pacífica no sentido de ser extemporâneo o recurso extraordinário interposto antes do julgamento de todos os recursos interpostos na instância de origem, mesmo que os referidos recursos tenham sido manejados pela parte contrária. 2. Agravo regimental desprovido” (AI 737.538-AgR, Rel. Min. Dias Toffoli, Primeira Turma, Dje 1º.7.2010 – grifos nossos).
+“EMBARGOS DE DECLARAÇÃO - EXTEMPORANEIDADE - IMPUGNAÇÃO RECURSAL PREMATURA, DEDUZIDA EM DATA ANTERIOR À DA PUBLICAÇÃO DO ACÓRDÃO RECORRIDO – NÃO CONHECIMENTO DO RECURSO. - A intempestividade dos recursos tanto pode derivar de impugnações prematuras (que se antecipam à publicação dos acórdãos) quanto decorrer de oposições tardias (que se registram após o decurso dos prazos recursais). Em qualquer das duas situações - impugnação prematura ou oposição tardia -, a conseqüência de ordem processual é uma só: o não-conhecimento do recurso, por efeito de sua extemporânea interposição. - A jurisprudência do Supremo Tribunal Federal tem advertido que a simples notícia do julgamento, além de não dar início à fluência do prazo recursal, também não legitima a prematura interposição de recurso, por absoluta falta de objeto, ainda que se cuide de matéria criminal. Precedentes” (HC 79.376-ED, Rel. Min. Celso de Mello, Segunda Turma, DJ 22.10.2004 – grifos nossos).
+7. Não há, pois, o que prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 38 da Lei n. 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de outubro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
