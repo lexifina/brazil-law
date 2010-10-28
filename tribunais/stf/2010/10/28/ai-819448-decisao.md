@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que negou provimento à apelação defensiva.
+2.  Nas razões do RE, sustenta-se ofensa aos arts. 5º, LIV, LV e LVII, e 127, § 1º, todos da Constituição Federal.
+ Aduz o recorrente, em suma, que o acórdão violou os dispositivos constitucionais acima destacados, tendo em vista o depoimento na qualidade de testemunha de promotor de justiça que participou do inquérito policial; a deficiência em sua defesa técnica; e o fato de a sentença condenatória ter se amparado em prova pré-inquisitorial, consistente no depoimento prestado pela vítima no gabinete ministerial, sem ratificação perante a autoridade policial.
+3.  Com exceção da alegada ofensa ao art. 5º, LV, da Constituição Federal, verifico que não se encontram prequestionados os demais artigos constitucionais apontados como violados, porque não abordados pelo acórdão recorrido, sendo que foram rejeitados os embargos de declaração opostos contra o julgado, os quais pretenderam inovar matéria não suscitada na apelação criminal (Súmulas STF 282 e 356). É pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142-AgR/RS, rel. Min. Maurício Corrêa, 2ª Turma, DJ 28.09.2001; e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1ª Turma, DJ 31.10.2001).
+4.  Acrescente-se, ainda, que este Tribunal firmou entendimento no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da ampla defesa e do contraditório, se existentes, seriam meramente reflexas ou indiretas, cujo exame se mostra inviável nesta sede recursal. Nesse sentido, o AI 372.358-AgR, rel. Min. Celso de Mello, 2ª Turma, DJ 28.06.2002.
+5.  Ademais, a suposta ofensa à Constituição, se houvesse, demandaria o reexame dos fatos e das provas da causa (Súmula STF 279), hipótese inviável de apreciação em sede extraordinária.
+6.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 28 de outubro de 2010.
+Ministra Ellen Gracie
+Relatora
