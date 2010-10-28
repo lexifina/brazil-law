@@ -1,0 +1,36 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário, nos seguintes termos:
+“Trata-se de recurso extraordinário contra acórdão de cuja ementa destaco o seguinte trecho:
+‘ADMINISTRATIVO. LEI Nº 8.237/91 – APLICAÇÃO RETROATIVA – IMPOSSIBILIDADE. MILITARES APOSENTADOS SOB A ÉGIDE DE LEGISLAÇÃO ANTERIOR. DECRETO-LEI Nº 1.901/81’ (fl. 242).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXXIV, XXXV, LIV e LV, 37, XV, 40, § 8º, 93, IX, 142, § 3º, IX, da mesma Carta.
+A pretensão recursal não merece acolhida.
+À exceção dos arts. 5º, XXXVI e 37, XV da CF, os dispositivos constitucionais tidos por violados não se encontram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+Além disso, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação aos arts. 5º, XXXVI e 37, XV da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado, não padecendo de nulidade a decisão do tribunal de origem. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Nesse sentido, a apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais (Lei 8.237/91, MP 2.131/00 e MP 2.215/01) e do conjunto fático-probatório dos autos. Assim, a afronta à Constituição, se ocorrente, seria indireta e o exame do recurso esbarra no óbice da Súmula 279 do STF. Incabível, portanto, o recurso extraordinário.
+Isso posto, nego seguimento ao recurso (art. 557, caput, do CPC)” (fls. 438-439).
+A agravante sustenta, em suma, que a decisão agravada deve ser reformada, insistindo, dessa forma, no processamento do recurso extraordinário.
+Alega que a ofensa ao art. 5º, XXXVI, da Constituição ocorreu de forma direta, porquanto o acórdão recorrido decidiu a questão exclusivamente com base no princípio constitucional do direito adquirido. Desse modo, afirma ser desnecessária a análise de normas infraconstitucionais.
+Assiste razão à agravante. Reconsidero a decisão de fls. 438-439 e passo, então, à análise do recurso extraordinário.
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu inaplicável o novo critério de cálculo de gratificações incorporadas, instituído pela Lei 8.237/1991, aos vencimentos dos autores, em respeito ao princípio do direito adquirido.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, a inexistência de direito adquirido a regime jurídico.
+A pretensão recursal merece acolhida.
+O Plenário do Supremo Tribunal Federal, no julgamento do RE 563.965-RG/RN, Rel. Min. Cármen Lúcia, reconheceu a repercussão geral do tema em debate e confirmou a sua jurisprudência no sentido de que não há direito adquirido à forma de cálculo de remuneração. Salientou, ainda, a legitimidade de lei superveniente que, sem causar decesso remuneratório, desvincule o cálculo da vantagem incorporada dos vencimentos do cargo em comissão ou função de confiança outrora ocupado pelo servidor, passando a quantia a ela correspondente a ser reajustada segundo os critérios das revisões gerais de remuneração do funcionalismo. O acórdão do referido julgado foi assim ementado:
+“DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE. 1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico. 2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, conseqüentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração. 3. Recurso extraordinário ao qual se nega provimento”.
+No caso em apreço, ficou assentado no acórdão recorrido que a Lei 8.237/1991 não provocou decesso remuneratório nos proventos dos ora agravados, conforme se extrai do trecho das razões do voto do relator, a seguir transcrito:
+“Muito embora a citada Lei tenha efetuado um apreciável incremento no soldo dos militares, e ainda que não tenha ocorrido redução do valor total dos proventos, entendo que o regramento em evidência não pode ser aplicado a modo retroativo, por ofender a princípios maiores do Direito” (fl. 234).
+Assim, inocorrente redução na remuneração dos agravados, não há direito adquirido à pretendida forma de cálculo da gratificação incorporada.
+Ademais, em caso semelhante ao dos autos, confira-se o decidido no julgamento do RMS 21.789/DF, Rel. Min. Sydney Sanches, cuja ementa segue transcrita:
+“- Direito Constitucional, Previdenciário e Administrativo.
+Militar da Reserva remunerada da Aeronáutica. Proventos. Quota Compulsória. Transferência a pedido.
+Indenizações de habilitação militar e de compensação orgânica e adicional de inatividade.
+Direito adquirido. Irredutibilidade de proventos.
+1. Havendo o autor, no posto de Tenente Coronel Aviador, com 26 anos de serviço militar, requerido sua inclusão na quota compulsória de passagem para a Reserva remunerada da Aeronáutica - inclusão voluntária, portanto, e não 'ex-officio' -, não faz jus a proventos integrais, mas, sim, proporcionais.
+2. Interpretação dos artigos 5º, III, 56, 98, V, 96, II, 97, § 1º, 98, V, 101, I, II, da Lei nº 6.880, 9.12.1980.
+3. Quanto às indenizações de habilitação militar, de compensação orgânica, e adicional de inatividade, é de se observar a Lei nº 8.237, de 30.9.1991, como decidiu o acórdão recorrido, que não ofende os princípios constitucionais do direito adquirido e da irredutibilidade de vencimentos, soldos e proventos, porque não há direito adquirido a regime jurídico (percentuais de vantagens), nem se verifica redução dos valores percebidos anteriormente.
+Precedente: RTJ 99/1267.
+4. Mandado de Segurança indeferido pelo S.T.J.
+5. Recurso Ordinário improvido pelo STF”.
+Isso posto, reconsidero a decisão de fls. 438-439 e, com base no art. 557, § 1º-A, do CPC, conheço do recurso extraordinário e dou-lhe provimento. Honorários advocatícios a serem fixados pelo Juízo de Origem, nos termos da legislação processual.
+Publique-se.
+Brasília, 28 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
