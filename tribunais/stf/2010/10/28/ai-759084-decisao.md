@@ -1,0 +1,17 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 1ª Região. Acórdão assim ementado (fls. 216):
+“CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. PRELIMINARES DE ILEGITIMIDADE PASSIVA DA UNIÃO, DE CONTRADIÇÃO DA SENTENÇA, DE OFENSA AO ART. 131 DO CPC E DE JULGAMENTO EXTRA E ULTRA PETITA AFASTADAS. PRELIMINAR DE AUSÊNCIA DE SUBMISSÃO AO REEXAME NECESSÁRIO ACOLHIDA. LEI N. 8.112/90, ARTS. 116, 117 E 134. CASSAÇÃO DE APOSENTADORIA DE AUDITOR FISCAL EM DECORRÊNCIA DE PROCESSO ADMINISTRATIVO. DESCABIMENTO NA HIPÓTESE. DESÍDIA NÃO COMPROVADA PELA ADMINISTRAÇÃO. PRINCÍPIO DA PROPORCIONALIDADE NÃO OBSERVADO. PRECEDENTES DA CORTE E DO STJ. HONORÁRIOS ADVOCATÍCIOS. PARÂMETRO.
+[...]”
+2. Pois bem, a parte recorrente alega ofensa aos incisos LIV e LV do art. 5° e ao art. 2° da Magna Carta de 1988. Sustenta que, uma vez configurado “o ilícito administrativo apurado em processo administrativo disciplinar, compete a própria Administração, aplicar a penalidade prevista na Lei 8.112/90, de forma que, pena de ferir o art. 2°, da CF/88, não cabe ao Judiciário, infirmar a penalidade sob a alegação de desproporcional” (sic, fls. 250).
+3. Tenho que a insurgência não merece acolhida. Isso porque, para se chegar a entendimento diverso do adotado pela Instância Judicante de origem, seria indispensável o reexame da legislação infraconstitucional aplicada, bem como a análise do acervo fático-probatório dos autos. Providências vedadas neste momento processual.
+4. De mais a mais, no tocante ao art. 2º da Constituição Federal, as alegações da parte agravante destoam da jurisprudência desta nossa Corte, que me parece juridicamente correta. Leia-se, a propósito, a ementa do MS 23.452, da relatoria do ministro Celso de Mello, na parte que interessa:
+“- A essência do postulado da divisão funcional do poder, além de derivar da necessidade de conter os excessos dos órgãos que compõem o aparelho de Estado, representa o princípio conservador das liberdades do cidadão e constitui o meio mais adequado para tornar efetivos e reais os direitos e garantias proclamados pela Constituição.
+Esse princípio, que tem assento no art. 2º da Carta Política, não pode constituir e nem qualificar-se como um inaceitável manto protetor de comportamentos abusivos e arbitrários, por parte de qualquer agente do Poder Público ou de qualquer instituição estatal.
+- O Poder Judiciário, quando intervém para assegurar as franquias constitucionais e para garantir a integridade e a supremacia da Constituição, desempenha, de maneira plenamente legítima, as atribuições que lhe conferiu a própria Carta da República.
+O regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo respeito à Constituição, não transgride o princípio da separação de poderes.”
+5. Não bastasse, pontuo que ofensa às garantias constitucionais do processo, se existente, apenas ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência desta nossa Corte, de que são exemplos os AIs 517.643-AgR, da relatoria do ministro Celso de Mello; e 273.604-AgR, da relatoria do ministro Moreira Alves.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 28 de outubro de 2010.
+Ministro AYRES BRITTO
+Relator
