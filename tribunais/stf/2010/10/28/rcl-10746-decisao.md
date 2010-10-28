@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de reclamação ajuizada pelo Município de Santo André/SP contra a 8ª Turma do Tribunal Superior do Trabalho, a qual, ao negar seguimento a agravo de instrumento em recurso de revista com base na Súmula n. 331, IV, do TST, teria violado a Súmula Vinculante n. 10, assim redigida:
+“Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.”
+Decido.
+Verifico que a Súmula n. 331, IV, do TST, foi editada por votação unânime no Plenário do Tribunal Superior do Trabalho, em sessão de 11.9.2000, após apreciação do Incidente de Uniformização TST-IUJ-RR-297.751/96. A publicação ocorreu por meio da Resolução n. 96/2000, nos DJs de 18, 19 e 20.9.2000, em perfeita sintonia com o procedimento regimental para a edição de enunciados normativos.
+Ademais, tem-se que a distinção proposta pelo agravante, a exigir que a deliberação do Plenário daquela Corte a respeito da constitucionalidade de leis ou atos normativos se desse exclusivamente por meio de incidente de inconstitucionalidade (CPC, arts. 480 a 482), não merece amparo, uma vez que não há exigência constitucional quanto a isso. Caso o feito em que se suscita a questão constitucional já esteja afeto ao Plenário, é patente que o julgamento pode ocorrer independentemente de ter sido alçado por incidente de inconstitucionalidade, desde que respeitado o quorum para a deliberação de inconstitucionalidade previsto no art. 97 da Constituição Federal.
+Nessa seara, note-se ainda que o quorum exigido para a aprovação de enunciado sumular em sessão plenária do Tribunal Superior do Trabalho é o mesmo exigido para a declaração de inconstitucionalidade, conforme se pode notar do disposto no art. 62, § 1º, IV e V, do Regimento Interno do Tribunal Superior do Trabalho (RITST).
+E não só isso. Tem-se, também, que o procedimento daquele Tribunal para a redação de enunciado sumular é, inclusive, mais qualificado que o exigido para a declaração de inconstitucionalidade, como se colhe do art. 62, §2º, do RITST, em comparação com o art. 480 do Código de Processo Civil. Vejamos os referidos dispositivos:
+“Art. 62. O Tribunal Pleno é constituído pelos Ministros da Corte.
+§ 1.º Para o funcionamento do Tribunal Pleno é exigida a presença de, no mínimo, quatorze Ministros, sendo necessário maioria absoluta quando a deliberação tratar de:
+[...]
+IV – aprovação, revisão ou cancelamento de Súmula ou de Precedente Normativo; e
+V – declaração de inconstitucionalidade de lei ou de ato normativo do poder público.
+§ 2.º Será tomada por dois terços dos votos dos Ministros do Órgão Especial a deliberação preliminar referente à existência de relevante interesse público que fundamenta a proposta de edição de Súmula, dispensadas as exigências regimentais, nos termos previstos neste Regimento.”
+“Art. 480. Argüida a inconstitucionalidade de lei ou de ato normativo do poder público, o relator, ouvido o Ministério Público, submeterá a questão à turma ou câmara, a que tocar o conhecimento do processo.”
+Vale ressaltar que a lógica proposta pelo agravante, a disciplinar o encaminhamento da deliberação de inconstitucionalidade por repetidas vezes ao Plenário de Tribunal, não encontra respaldo no ordenamento jurídico nacional. É o que resta claro da própria previsão do art. 481, parágrafo único, do Código de Processo Civil, que se coaduna com as sucessivas reformas processuais a expandirem os atos que são de competência do relator, em nome dos princípios da economia e da celeridade processuais.
+Por fim, faz-se necessário invocar os precedentes que ensejaram a redação da Súmula Vinculante n. 10, a fim de se adequadamente compreender o que esse enunciado pretende disciplinar. Nesse sentido, vejamos a ementa do RE 482.090, Rel. Min. Joaquim Barbosa, Pleno, DJ 13.3.2009, suscitado por ocasião da proposta de redação sumular:
+“CONSTITUCIONAL. PROCESSO CIVIL. RECURSO EXTRAORDINÁRIO. ACÓRDÃO QUE AFASTA A INCIDÊNCIA DE NORMA FEDERAL. CAUSA DECIDIDA SOB CRITÉRIOS DIVERSOS ALEGADAMENTE EXTRAÍDOS DA CONSTITUIÇÃO. RESERVA DE PLENÁRIO. ART. 97 DA CONSTITUIÇÃO.
+TRIBUTÁRIO. PRESCRIÇÃO. LEI COMPLEMENTAR 118/2005, ARTS. 3º E 4º. CÓDIGO TRIBUTÁRIO NACIONAL (LEI 5.172/1966), ART. 106, I. RETROAÇÃO DE NORMA AUTO-INTITULADA INTERPRETATIVA.
+“Reputa-se declaratório de inconstitucionalidade o acórdão que - embora sem o explicitar - afasta a incidência da norma ordinária pertinente à lide para decidi-la sob critérios diversos alegadamente extraídos da Constituição” (RE 240.096, rel. min. Sepúlveda Pertence, Primeira Turma, de 21.05.1999).
+Viola a reserva de Plenário (art. 97 da Constituição) acórdão prolatado por órgão fracionário em que há declaração parcial de inconstitucionalidade, sem amparo em anterior decisão proferida por Órgão Especial ou Plenário.
+Recurso extraordinário conhecido e provido, para devolver a matéria ao exame do Órgão Fracionário do Superior Tribunal de Justiça.” (grifei)
+Assim, pode-se concluir que a Súmula Vinculante n. 10, ao proibir, nos Tribunais, a prolação de decisão fracionária que afaste a aplicação de lei, não leva em consideração as decisões de órgão fracionário que se apoiem em decisões anteriores do Plenário. Dessarte, somente se quer afastar as decisões que, originalmente, e independentemente de prévio procedimento condizente com a cláusula da reserva de plenário (CF, art. 97), afastem a aplicação de lei, sem proclamação formal de inconstitucionalidade, o que não ocorre in casu.
+Ante o exposto, diante da manifesta improcedência do pedido, nego seguimento à reclamação (RISTF, art. 21, § 1º).
+Publique-se.
+Arquive-se.
+Brasília, 28 de outubro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
