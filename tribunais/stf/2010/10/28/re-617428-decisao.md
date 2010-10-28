@@ -1,0 +1,10 @@
+Trata-se de recurso extraordinário interposto contra acórdão, proferido em agravo de instrumento, que manteve tutela antecipada para determinar a revisão de pensão previdenciária.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 40, §§ 7º e 8º (redação dada pela EC 41/2003), da mesma Carta.
+A pretensão recursal não merece acolhida. Nos termos da jurisprudência desta Corte, as decisões que concedem ou denegam antecipação de tutela, medidas cautelares ou provimentos liminares, quando podem ser novamente requeridas no curso do processo principal, não perfazem juízo definitivo de constitucionalidade a ensejar o cabimento do recurso extraordinário. Aplicam-se ao caso as razões que deram ensejo à Súmula 735 do STF. Nesse sentido, transcrevo a ementa do AI 597.618-AgR/SP, Rel. Min. Celso de Mello:
+“AGRAVO DE INSTRUMENTO - ACÓRDÃO QUE CONFIRMA DEFERIMENTO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA - ATO DECISÓRIO QUE NÃO SE REVESTE DE DEFINITIVIDADE - MERA ANÁLISE DOS PRESSUPOSTOS DO ‘FUMUS BONI JURIS’ E DO ‘PERICULUM IN MORA’ - INVIABILIDADE DO APELO EXTREMO - RECURSO DE AGRAVO IMPROVIDO. - Não cabe recurso extraordinário contra decisões que concedem ou que denegam a antecipação dos efeitos da tutela jurisdicional ou provimentos liminares, pelo fato de que tais atos decisórios - precisamente porque fundados em mera verificação não conclusiva da ocorrência do ‘periculum in mora’ e da relevância jurídica da pretensão deduzida pela parte interessada - não veiculam qualquer juízo definitivo de constitucionalidade, deixando de ajustar-se, em conseqüência, às hipóteses consubstanciadas no art. 102, III, da Constituição da República. Precedentes”.
+No mesmo sentido, cito as seguintes decisões, entre outras: RE 570.610-AgR/DF e AI 694.440-AgR/RJ, Rel. Min. Joaquim Barbosa; RE 613.182-AgR/RJ, de minha relatoria; AI 619.438-AgR/SP, Rel. Min. Ellen Gracie; RE 540.982-AgR/PE e AI 652.802-AgR/CE, Rel. Min. Cármen Lúcia; RE 550.865-AgR/SP, Rel. Min. Cezar Peluso.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 28 de outubro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
