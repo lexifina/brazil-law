@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. CARTÃO DE CRÉDITO. INDENIZAÇÃO: MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS: IMPOSSIBILIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado da Turma Recursal dos Juizados Especiais Cíveis de Belo Horizonte:
+“O banco foi obrigado pela sentença a quitar a dívida da Recorrida referente ao cartão n. 4282.6818.7275.0029, determinando o ajuste nas faturas posteriores, sem ônus, a exclusão de seu nome no SPC, além do pagamento da quantia de R$ 4.000,00 (quatro mil reais) a título de danos morais, fls. 49-51.
+A Recorrente não logrou êxito em comprovar que enviou à Recorrida a fatura para o devido pagamento, art. 333, inc. II, CPC, sendo certo que a obrigação do consumidor é a de pagar o serviço prestado através da fatura enviada pelo prestador de serviço, que nada lhe enviou. Também ocorreu a cobrança do débito quitado em outro cartão da Recorrida, demonstrando o descaso e a desobediência do Recorrente ao comando judicial, motivo pelo qual acertada a fixação de multa para coibir tal postura” (fl. 193).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência na espécie da Súmula n. 279 do Supremo Tribunal Federal e a circunstância de que a ofensa à Constituição da República, se tivesse ocorrido, seria indireta (fls. 294-295).
+4. O Agravante alega que a Turma Recursal teria contrariado o art. 5º, inc. XXXVI, LIV e LV, da Constituição da República.
+Argumenta que “a recorrida reconhece o seu débito, todavia permaneceu inerte com relação ao pagamento devido em face do recorrente ao argumento despistado de que 'não recebeu' fatura. Vê-se nitidamente uma atitude de má-fé da recorrida” (fl. 213).
+Sustenta que “a ausência de fatura jamais tornaria óbice de pagamento da quantia num cartão de crédito, tanto é assim que a recorrida efetuou o pagamento depositando em juízo o valor reajustado” (fl. 213).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. A questão em debate foi decidida com base na aplicação e na interpretação de legislação infraconstitucional (Código de Defesa do Consumidor). Assim, a alegada ofensa à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+7. Além disso, para o deslinde da matéria posta à apreciação judicial, as instâncias originárias examinaram os elementos probatórios dos autos. Concluir de forma diversa demandaria, necessariamente, o reexame das provas contidas nos autos e devidamente apreciadas nas instâncias originárias, o que é incabível em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal.
+Nesse sentido, o seguinte julgado:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. INSTITUIÇÃO BANCÁRIA: COBRANÇA DE VALORES INDEVIDOS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Dano moral. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas (Súmula 279). Ofensa constitucional indireta. 2. Turma Recursal. Sentença mantida por seus próprios fundamentos. Inexistência de afronta ao art. 93, inc. IX, da Constituição da República. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 692.833-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009).
+8. Ademais, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes do exame de legislação infraconstitucional, podem configurar apenas ofensa reflexa à Constituição da República. Nesse sentido:
+“A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+9. Não há, pois, o que prover quanto às alegações do Agravante.
+10. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de outubro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
