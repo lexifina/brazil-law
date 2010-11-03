@@ -1,0 +1,66 @@
+D ECIS Ã O:
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Sandra Gonçalves Ribeiro, buscando o afastamento da tipicidade da conduta por ela praticada, por se tratar de crime impossível.
+Aponta como autoridade coatora a Ministra Laurita Vaz, do Superior Tribunal de Justiça, que, monocraticamente, proveu o Resp nº 1.175.854/MG interposto pelo Parquet estadual.
+Sustenta a impetrante, em síntese, a aplicação, ao caso concreto, da teoria do crime impossível. Aduz, para tanto, que:
+“(...)
+Restou-se evidenciado que a ação, desde o início, foi detectada pelo segurança da Loja, sendo que a 'res furtiva' não saiu em nenhum momento da esfera de disponibilidade da vítima. A acusada não obteve a posse tranqüila da coisa devido a vigilância do funcionário loja, tornando absolutamente ineficaz o meio empregado pelo agente, circunstância que caracteriza o crime impossível.
+Nos termos do que dispõe o artigo 17 do Código Penal Brasileiro, a tentativa inidônea não é punível. A teoria acolhida pelo legislador é a objetiva, exigindo ação objetivamente perigosa para o bem jurídico. Nestes termos, a punibilidade da tentativa exige ação capaz de produzir o resultado típico. Não basta a intenção do agente; é preciso que o bem jurídico protegido corra algum risco (teoria objetiva).
+(...)
+No caso dos autos, em decorrência da vigilância, resta afastada a possibilidade de ação passível de resultado típico, o crime nunca chegaria ao seu final” (fls. 3 a 5 da inicial – grifos no original).
+Defende, ainda, a aplicação do princípio da insignificância, uma vez que “a vítima não teria sofrido dano relevante ao seu patrimônio - pois os valores, em tese, subtraídos pelo paciente representam quantia bem inferior ao salário mínimo, ou seja, R$ 58,00 (cinqüenta e oito reais)”, bem como estariam presentes as “condições necessárias à aplicação do princípio: a mínima ofensividade da conduta (tentativa de furto de 2 blusas); inexistência de periculosidade social do ato (praticado sem violência ou grave ameaça); reduzido grau de reprovabilidade do comportamento e inexpressividade da lesão provocada (o bem sequer deixou o estabelecimento comercial)” (fl. 7 da inicial – grifos no original).
+Requer o deferimento da liminar para “obstar o Acórdão proferido pelo STJ, suspendendo seus efeitos (...)” e, no mérito, pede a concessão da ordem para que seja “reformado o Acórdão proferido pelo STJ, para reconhecer a tentativa inidônea ou crime impossível arguido em favor do Paciente para afastar a tipicidade da conduta por absoluta ineficácia do meio (art.17 do Código Penal) ou até mesmo reconhecer a aplicação do Princípio da Insignificância arguido em favor da Paciente para não imputá-la a prática prevista no art. 155, caput, c/c art.14 CP, tão somente pela tentativa de subtrair objetos que somavam a quantia de R$ 58,00 (cinquenta e oito reais)” (fl. 10 da inicial – grifos no original).
+Examinados os autos, decido.
+Narra a impetrante, na inicial, que:
+“(...)
+A paciente foi denunciada com incurso nas sanções do art. 155, caput, c/c art. 14, inciso II, ambos do Código Penal, sendo absolvida com base na ocorrência do crime impossível, prevista no art.17 do CP.
+O Ministério Público recorreu da decisão, objetivando a condenação da ré nos termos da denúncia.
+Tendo o Egrégio Superior Tribunal de Justiça dado provimento ao Recurso Especial, para cassar o acórdão recorrido, determinando o retorno dos autos ao Tribunal de Justiça de Minas Gerais para que, afastando a tese de crime impossível, prossiga no julgamento das demais teses defensivas expostas na apelação criminal” (fl. 3 da inicial).
+Transcrevo o teor daquela decisão:
+“Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, em face de acórdão proferido na apelação criminal n.º 1.0024.01.042578-3/001, pelo Tribunal de Justiça local, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal.
+Consta nos autos que a Recorrida foi condenada às penas de 1 (um) ano e 4 (quatro) meses de reclusão, em regime fechado, e 10 (dez) dias-multa, pela prática do crime do art. 155, caput, c.c. o art. 14, inciso II, do Código Penal. Essa pena reclusiva não foi substituída por penas restritivas de direitos.
+Contra essa sentença, a Defesa interpôs apelação criminal, que foi provida para absolver a Ré, com base no art. 17 do Código Penal, c.c. o art. 386, inciso V, do Código de Processo Penal. O acórdão restou assim ementado:
+'FURTO - TENTATIVA - CRIME IMPOSSÍVEL – CARACTERIZADO - MONITORAMENTO DURANTE TODA A AÇÃO DO AGENTE - ABSOLVIÇÃO. 1. Tendo a agente sido monitorada a todo instante de sua ação, pelo Segurança da Loja que aguardou o momento apropriado para detê-la, forçoso concluir que jamais conseguiria chegar à consumação da subtração, tornando a tentativa em crime impossível, já que o meio empregado, diante do sistema de proteção do estabelecimento comercial, revelou-se absolutamente incapaz de produzir o resultado almejado. 2. Recurso provido.' (fl. 285).
+Opostos embargos de declaração, estes foram rejeitados.
+Irresignado, o Ministério Público interpôs o presente recurso especial, alegando violação ao art. 17 do Código Penal, sob o argumento de que 'a vigilância ostensiva sobre o agente e a res furtiva não é capaz de configurar a impossibilidade absoluta de consumação do delito, mas apenas a relativa [...] há sempre a possibilidade, ainda que remota, de que ele consiga driblar o esquema de segurança' (fl. 325).
+Assim, requer a cassação do acórdão recorrido e o restabelecimento da sentença de primeiro grau.
+Contrarrazões às fls. 332/344.
+Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento e provimento do recurso, nos termos da ementa a seguir transcrita:
+'RECURSO ESPECIAL. TENTATIVA DE FURTO EM LOJA DE SHOPPING CENTER DOTADO DE SISTEMA ELETRÔNICO DE VIGILÂNCIA. CRIME IMPOSSÍVEL. NÃO CARACTERIZADO.
+- Segundo precedentes desse e. STJ, 'o sistema de vigilância eletrônico instalado em uma loja, a despeito de dificultar a ocorrência de furtos no interior do estabelecimento, não é capaz de impedir, por si só, a ocorrência do fato delituoso, apto a ensejar a configuração de crime impossível'.
+- Parecer pelo conhecimento e provimento do recurso.' (fl. 363)
+É o relatório.
+Decido.
+De início, verifica-se a tempestividade do especial, o cabimento de sua interposição com amparo no permissivo constitucional, o interesse recursal, a legitimidade, a exposição da suposta contrariedade a dispositivo legal, o prequestionamento e os pressupostos dos arts. 541, parágrafo único, do Código de Processo Civil e 255, §§ 1.º e 2.º, do Regimento Interno do Superior Tribunal de Justiça.
+Passo à análise do mérito.
+O acórdão hostilizado está assim fundamentado:
+'Todavia, a meu ver, data venia, a r. sentença deve ser reformada, pois da análise dos autos verifica-se que o meio empregado para atingir o objetivo do crime era absolutamente ineficaz, caracterizando, assim, o chamado crime impossível, senão vejamos.
+O fiscal da loja, Nilton Mendes da Costa, relatou em seu depoimento (f. 15-16):
+'(...) esclarece que a autora do presente, entrou nas lojas C&A., local de trabalho do declarante, tendo o declarante percebido a autora arrancando os dispositivos eletrônicos das mercadorias apreendidas, ato seguido, colocando-os dentro da bolsa, que, a seguir esta aproximou-se do declarante a fim de despistar, indagando-lhe sobre 'moletons' que, o declarante informou-a que no segundo piso não tinha tal mercadoria, que, então esta saiu da loja, sem efetuar o pagamento das mercadorias arrecadas, esclarecendo que esta se fazia acompanhar de uma outra, a qual conseguiu evadir-se quando da abordagem do declarante, já do lado de fora, que, o declarante solicitou da mesma que o acompanhasse até a sala de segurança, sendo então acionado a polícia (...)'
+Assim, diante do precitado depoimento, não há dúvida que se trata de crime impossível, pois durante todo o tempo que a acusada permaneceu no estabelecimento comercial foi 'monitorada pessoalmente' pelo Segurança.
+Logo, restou evidenciado que era impossível a acusada consumar a subtração perpetrada, pois estava sendo monitorada pelo Segurança da Loja, que aguardou, inclusive, a saída da apelante para abordá-la. Sobre o tema, com propriedade, preleciona Mirabete:
+(...)
+Portanto, restando comprovado que não havia a menor possibilidade de a acusada consumar o delito pretendido, pois tinha os passos monitorados o tempo todo pelo Segurança do estabelecimento comercial, a meu juízo, a conduta da apelada amolda-se, perfeitamente, à figura do crime impossível, razão por que se impõe sua absolvição.' (fls. 287/292).
+Concessa venia, a existência, em estabelecimento comercial, de circuito de segurança televisionado ou de vigilantes, visando coibir a prática de crimes contra o patrimônio, não impede, de modo absolutamente eficaz, que tais delitos ocorram, seja na forma tentada ou consumada.
+Desse modo, se há chance, ainda que remota, da consumação do crime, não se pode falar em crime impossível. A vigilância exercida sobre a coisa não tem o condão de impedir delito tentado, tendo em vista a possibilidade de burlá-la e, por consequência, ofender o bem jurídico tutelado pela norma penal.
+No caso em questão, não restou comprovada a ineficácia absoluta do meio utilizado pelo agente, ao contrário do entendimento adotado pelo Tribunal a quo.
+Nesse sentido:
+'PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ART. 155, CAPUT, C/C O ART. 14, INCISO II, AMBOS DO CÓDIGO PENAL. REJEIÇÃO DA DENÚNCIA. CRIME IMPOSSÍVEL. NÃO CONFIGURAÇÃO. ESTABELECIMENTO COM APARATO DE SEGURANÇA. INEFICÁCIA RELATIVA DO MEIO EMPREGADO.
+I - A existência de aparato de segurança no estabelecimento comercial, como regra, não ilide, de forma absolutamente eficaz, a consumação do delito de furto (Precedentes).
+II - In casu, a vigilância atenta dos seguranças contratados pelo estabelecimento comercial não afasta, de forma absoluta, a possibilidade de consumação do crime de furto.
+Ordem denegada.' (HC 103.609/SP, 5.ª Turma, Rel. Ministro FELIX FISCHER, DJe de 06/10/2008.)
+(...)
+Ante o exposto, com fulcro no art. 557, § 1.º-A, do Código de Processo Civil, c.c. o art. 3.º do Código de Processo Penal, DOU PROVIMENTO ao recurso especial, para cassar o acórdão recorrido. Outrossim, determino o retorno dos autos ao Tribunal de Justiça do Estado de Minas Gerais para que, afastando a tese de crime impossível, prossiga no julgamento das demais teses defensivas expostas na apelação criminal.”
+Esse é o motivo pelo qual se insurge a impetrante neste writ.
+O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação apresentada nos autos representar manifesto constrangimento ilegal, o que não ocorre na espécie.
+A decisão proferida pelo Superior Tribunal de Justiça, neste primeiro exame, está em sintonia com a jurisprudência da Corte, que tem repelido a tese de crime impossível, fundado no argumento de que a existência de sistema de vigilância em estabelecimento comercial torna impossível a subtração da res. Nesse sentido: HC nº 97.129/RS, Segunda Turma, Relator o Ministro Eros Grau, DJe de 4/6/10.
+Ademais, salvo melhor juízo quanto ao mérito, tendo em vista meu entendimento pessoal, já externado no julgamento HC nº 104.341/MG (Primeira Turma, Relator o Ministro Ricardo Lewandowski, julg. 21/09/10), com circunstâncias similares ao caso concreto, a existência de posição jurisprudencial contrária à tese da impetrante na Corte, por ora, é o que basta para o indeferimento da medida cautelar.
+De outra parte, no que tange à alegação de que seria aplicável ao caso concreto o princípio da insignificância, anoto que a questão não foi submetida à apreciação do Superior Tribunal de Justiça. Com efeito, a análise desse tema, de forma originária, neste momento, configuraria verdadeira supressão de instância não admitida. Nesse sentido, os seguintes precedentes: HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07; HC nº 90.162/RJ, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 29/6/07; HC nº 90.312/PR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 27/4/07; e HC nº 86.997/DF, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 3/2/06.
+Por fim, verifico que não há qualquer indicação de que a paciente esteja na iminência de sofrer restrição à liberdade de ir e vir, ou qualquer outro ato processual potencial de constrangimento ilegal. A paciente está solta e não há notícia sobre ordem de prisão contra ela.
+Com essas considerações, sem prejuízo de exame mais detido quando do julgamento de mérito, indefiro o pedido de liminar.
+Oficie-se novamente ao Tribunal de Justiça do Estado de Minas Gerais para que forneça a esta Suprema Corte cópia do acórdão já proferido na Apelação Criminal nº 1.0024.01.042578-3/001, além das principais peças que acompanham o processo, recebido naquele Tribunal em 21/10/10.
+Publique-se.
+Brasília, 3 de novembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
