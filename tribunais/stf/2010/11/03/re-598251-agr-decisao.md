@@ -1,0 +1,12 @@
+D ESPACHO: Em face das considerações constantes da petição de fls. 130-132, reconsidero a decisão de fls. 122, tornando-a sem efeito, e passo ao reexame do recurso extraordinário.
+Trata-se de recurso extraordinário em que se discute a constitucionalidade de acórdão que conferiu à recorrida o pagamento de férias, décimo terceiro salário e indenização por não ter sido inscrita no PIS/PASEP, a despeito da nulidade do contrato temporário celebrado.
+Preliminarmente, a municipalidade alega a incompetência da justiça comum para o julgamento do pleito, uma vez que a matéria referente à contratação temporária de agentes públicos, tal como prevista no art. 37, IX, da Constituição, seria de competência da justiça trabalhista.
+No mérito, sustenta o município-recorrente que a prestação dos serviços pela recorrida, em contrariedade ao disposto no art. 37, II e IX e §2º, da Constituição, enseja somente o pagamento de verba indenizatória pelos dias efetivamente trabalhados, excluído qualquer outro efeito jurídico.
+Rejeito a preliminar de incompetência, uma vez que, segundo a jurisprudência firmada nesta Corte, o contrato em debate é de natureza jurídico-administrativa, insuscetível de apreciação pelas instâncias trabalhistas. No mesmo sentido, confiram-se os seguintes precedentes: Rcl 4872, rel. min. Marco Aurélio, rel. p/ acórdão: min. Menezes Direito, Tribunal Pleno, DJ 07.11.2008; Rcl 4489-AgR, rel. min. Marco Aurélio, rel. p/ acórdão min. Cármen Lúcia, Tribunal Pleno, DJ 21.11.2008; Rcl 5381-ED, rel. min. Carlos Britto, Tribunal Pleno, DJ 21.08.2009; Rcl 7028- AgR, rel. min. Ellen Gracie, Tribunal Pleno, DJ 16.10.2009; Rcl 7157-AgR, rel. min. Dias Toffoli, Tribunal Pleno, DJ 19.03.2010.
+Quanto ao mérito, a questão referente aos efeitos jurídicos de contrato nulo por ofensa ao art. 37, II e §2º, da Constituição será debatida no julgamento do RE 596.478-RG, rel. min. Ellen Gracie e da ADI 3.127, rel. min. Cezar Peluso, que têm por objeto a constitucionalidade do art. 19-A da Lei 8.036/90, segundo o qual “é devido o depósito do FGTS na conta vinculada do trabalhador cujo contrato de trabalho seja declarado nulo nas hipóteses previstas no art. 37, § 2o, da Constituição Federal, quando mantido o direito ao salário”.
+Do exposto, determino o sobrestamento deste feito até o julgamento da controvérsia pelo Plenário do Supremo Tribunal Federal, devendo os autos aguardar na Secretaria Judiciária.
+Publique-se.
+Brasília, 03 de novembro de 2010.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
