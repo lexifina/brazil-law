@@ -1,0 +1,27 @@
+D ECIS Ã O :
+Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão singular de Ministro do Superior Tribunal de Justiça (HC 185.450). Decisão que indeferiu o provimento cautelar ali requestado, por entender ausentes seus pressupostos.
+2. Pois bem, antes mesmo do julgamento do mérito da ação constitucional manejada na Corte Superior de Justiça, o impetrante postula, aqui, o relaxamento da prisão preventiva da paciente, pronunciada pelo delito de homicídio qualificado. Isto sob a alegação de excesso de prazo na instrução criminal. Excesso para o qual não concorreu a defesa e que autorizaria a superação do óbice da Súmula 691 deste Supremo Tribunal Federal.
+3. Ultimada esta síntese do pedido, decido. Fazendo-o, acentuo a pacífica jurisprudência deste Supremo Tribunal Federal no sentido da inadmissibilidade de impetração sucessiva de habeas corpus, sem o julgamento definitivo do HC anteriormente impetrado (cf. HC 79.776, Rel. Min. Moreira Alves; HC 76.347-QO, Rel. Min. Moreira Alves; HC 79.238, Rel. Min. Moreira Alves; HC 79.748, Rel. Min. Celso de Mello; e HC 79.775, Rel. Min. Maurício Corrêa). Jurisprudência, essa, que deu origem à Súmula 691/STF, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+4. É certo que tal jurisprudência comporta relativização, quando de logo avulta que o cerceio à liberdade de locomoção do paciente decorre de ilegalidade ou de abuso de poder (inciso LXVIII do art. 5º da CF/88). Mas não me parece ser este o caso dos autos. E a primeira dificuldade que encontro está na consideração de que a decisão singular impugnada não se me afigura teratológica, ou totalmente desprovida de válida fundamentação.
+5. Acresce que o exame de eventual excesso de prazo na prisão processual é de se dar em cada caso concreto. Isto é, atento o julgador às peculiaridades do processo em que estiver oficiando (como, exemplo, o número de réus e de testemunhas arroladas, a complexidade do feito e o comportamento dos patronos dos acusados, que não podem ser os causadores do retardamento do processo). Nesse mesmo sentido é que foram julgados os HCs 84.780, 83.842, 86.789, 87.164, 88.433 e 87.847. E, ainda, os HCs 92.971 e 92.836, da minha relatoria. Pelo que não tenho como, agora, afastar as premissas em que se louvou o acórdão do Tribunal de Justiça, verbis:
+“[...]
+A indesejável delonga para realização do Júri justifica-se por critério de razoabilidade, em razão da quantidade de acusados (três), patrocinados por diferentes advogados e da representação pelo desaforamento do julgamento (diligenciada em março passado), tendo a Drª Juíza a quo assim declinado os motivos pelos quais considerou necessária tal providência:
+'Antes de incluir o feito em pauta para julgamento pelo Tribunal do Júri, no entanto, entendo que deva ser promovido o desaforamento do julgamento.
+[...]
+No caso dos autos, durante todo o sumário da culpa dos réus, Pero e Vera foram mantidos presos preventivamente tendo em vista terem se evadido do distrito da culpa e em razão da repercussão dos fatos, dada a brutalidade com que foi praticado contra a pequena vítima, havendo reiteradas manifestações da população local pela condenação dos réus.
+Prova disso é que o Plenário da Câmara de Vereadores de Quatro Barras, recentemente inaugurado, recebeu o nome de Giovanna dos Reis Costa, em homenagem à vítima, o que comprova que a história e o sentimento de vingança não foram apagados da memória da comunidade.
+Além disso, em várias oportunidades esta magistrada tem sido abordada por moradores da cidade questionando quando os réus vão a julgamento e expressando seu repúdio à conduta dos mesmos.
+Tais circunstâncias permitem presumir a parcialidade do Júri, que autoriza o desaforamento do processo sob pena de manifesto prejuízo à sua defesa.
+[...].'
+Como se vê, diante das peculiaridades do caso, não deixou a magistrada de adotar medidas para impulsionar o trâmite do processo, inexistindo ilegalidade a ser reparada nesta via [...].”
+6. Não é só: os documentos que instruem a inicial sinalizam que a defesa contribuiu para o eventual alongamento do processo-crime. Por oportuno, extraio do acórdão paranaense que rejeitou os embargos de declaração defensivos o trecho seguinte:
+“Com todo o respeito aos argumentos manifestados, entendo que não existe a apontada omissão no acórdão embargado.
+Além de ser ponto pacífico – mesmo porque se trata de recurso em sentido estrito contra decisão de pronúncia – que a primeira fase do processo dos crimes dolosos contra a vida já tenha se exaurido, com consequente término da instrução, eventual demora no processamento do presente recurso deve ser atribuída à própria defesa, conforme constou expressamente à fl. 1857.
+Neste petitório, a própria defesa, em razão de requerer a retirada do feito de pauta para solicitar algumas diligências, consigna que eventual excesso de prazo pode a ela ser creditada.
+[...].”
+7. Por tudo quanto posto, nego seguimento ao habeas corpus (§ 1º do artigo 21 do RI/STF). O que faço até para impedir que eventual denegação da ordem impossibilite o paciente de rediscutir a matéria veiculada neste processo perante o Superior Tribunal de Justiça.
+Publique-se.
+Brasília, 03 de novembro de 2010.
+Ministro A YRES B RITTO
+Relator
+Documento assinado digitalmente
