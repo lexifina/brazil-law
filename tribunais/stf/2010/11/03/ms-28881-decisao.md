@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Elildo Bezerra de Araújo e outros contra o Acórdão 559/2005 do Plenário do TCU, nos autos do TC 007.467/1997-4, que negou registro aos atos de aposentadoria dos impetrantes, e determinou ao órgão de origem a suspensão dos pagamentos dos valores identificados como ilegais.
+    Segundo a inicial, a ilegalidade do ato objeto da impetração consistiria, em síntese, no fato de que não caberia à referida autoridade coatora determinar a retirada do pagamento da gratificação de 80% sobre o salário-base previsto no contracheque dos impetrantes, tendo em vista que este teria fundamento em processo judicial transitado em julgado.
+    O Tribunal de Contas da União prestou informações às fls. 513-537.
+    Passo a decidir.
+    Preliminarmente, verifico que o ato impugnado é o Acórdão 559/2005 do Plenário do TCU, nos autos do TC 007.467/1997-4, publicado em 20.5.2005 (DOU, Seção 1, p. 132-134).
+    Para comprovar a tempestividade do presente writ, os impetrantes aduzem, na inicial, que sofrem os efeitos do acórdão ininterruptamente, pois a cada dia se renova o ato ilícito praticado contra os seus direitos (fl. 8).
+    O TCU informa já ter expirado o prazo decadencial para a interposição do mandado de segurança, pois o acórdão impugnado teria sido publicado no ano de 2005. Dessa forma, os litigantes não teriam observado a devida distinção entre a contagem do prazo para atos omissivos e para atos comissivos (fls. 515-521), estando, no caso em análise, configurado ato comissivo do TCU, e não atos omissivos reiterados. Nesse sentido, o TCU cita diversos precedentes do STF.
+    O art. 23 da Lei 12.016/2010 dispõe que “o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado”.
+    O mandado de segurança não deve ser conhecido.
+    A ação foi impetrada em 9.6.2010, ao argumento de que os impetrantes sofrem contínuos efeitos do acórdão.
+    A publicação do mencionado acórdão ocorreu em 20.5.2005 e consta do seu dispositivo e da sua ementa o não acolhimento da manifestação dos interessados (fl. 88). O período compreendido entre a publicação do referido acórdão e a data de impetração é superior a 5 anos.
+    Além disso, os impetrantes não demonstraram nos autos, de forma clara, em que data foram intimados do referido acórdão. Colhe-se dos autos (fls. 71-72; fls. 154-155; fls. 226 e 372) que o órgão de origem ordenou a notificação dos impetrantes por meio do Ofício-Circular n. 38/2009, de 22.12.2009, em que consta a aposição de assinatura dos impetrantes (fls. 72 e 154). Entretanto, ainda que se considere essa data como o termo inicial, o prazo decadencial também terá expirado.
+    É preciso destacar que o mandado de segurança, em razão de não admitir dilação probatória, exige a demonstração incontroversa dos seus requisitos, bem como dos fatos e provas, de forma pré-constituída, inclusive quanto aos elementos relacionados à aferição da tempestividade do writ (MS-AgR-AgR 26.552/DF, Rel. Celso de Mello, DJe 16.10.2009).
+    Afasta-se, ainda, a alegação no sentido de ser o ato impugnado capaz de gerar ininterruptas lesões ao direito dos impetrantes, renovadas a cada pagamento, o que não configuraria o exaurimento do prazo decadencial.
+    O acórdão do TCU é ato comissivo, específico, individualizado e distinto dos atos mensais de pagamento de proventos aos impetrantes, que são realizados de forma autônoma pelo órgão de origem (MS-AgR 27.443/DF, Rel. Celso de Mello, DJe 29.10.2009; MS-AgR 26.733/DF, Rel. Eros Grau, DJe 30.11.2007; MS-AgR 25816/DF, Rel. Eros Grau, DJe 4.8.2006; MS 26.278/DF, Rel. Eros Grau, DJe 1.2.2007; MS 26.160/DF, Rel. Ayres Britto, DJe 14.11.2006; MS 24.850/DF, Rel. Gilmar Mendes, DJ 27.6.2005).
+    Nesse sentido, destaco recentes decisões da relatoria da Ministra Cármen Lúcia que tratam de questão idêntica à dos presentes autos, nas quais foi negado seguimento ao mandado de segurança, por ter-se exaurido o prazo decadencial: MS 26.395, DJe 6.5.2010; MS 26.396, DJ 24.5.2010; MS 26.397, DJe 6.5.2010, e MS 26.402, DJe 6.5.2010, tendo este último a seguinte ementa:
+    “Mandado de segurança. Tribunal de Contas da União. Acórdãos 1.246/2005 e 480/2006. Supressão da gratificação de 80% incidente sobre o salário-base de servidores inativos. Vantagem devida ao servidor enquanto vinculado ao regime celetista. Conversão para o regime estatutário. Pagamento como vantagem pessoal. Ausência de demonstração da tempestividade da impetração. Prova pré-constituída. Mandado de segurança ao qual se nega seguimento”
+    Dessa forma, a análise dos documentos contidos nos autos evidencia o esgotamento do prazo decadencial.
+    Ademais, o entendimento de que o ato impugnado seja de trato sucessivo poderia ocasionar uma eventual ilegitimidade passiva do TCU, afastando-se a competência desta Corte para julgar o presente writ.
+    Ante o exposto, na linha da jurisprudência desta Corte e nos termos do art. 23 da Lei 12.016/2009, nego seguimento ao presente mandado de segurança e declaro prejudicado o pedido da medida liminar (art. 21, §1º e 205 do RISTF).
+    Intime-se.
+    Publique-se.
+    Brasília, 3 de novembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
