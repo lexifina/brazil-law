@@ -1,0 +1,30 @@
+D ECIS Ã O:
+Serviço Nacional de Aprendizagem Comercial – SENAC/ARMG interpõe recurso extraordinário, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+“TRIBUTÁRIO. PROCESSUAL CIVIL. CONTRIBUIÇÕES PREVIDENCIÁRIAS DESTINADAS AO SESC/SENAC. EMPRESAS PRESTADORAS DE SERVIÇOS. RECOLHIMENTO INDEVIDO. COMPENSAÇÃO. LIMITAÇÃO. POSSIBILIDADE. CORREÇÃO MONETÁRIA. JUROS DE MORA.
+1. Apenas as empresas que praticam atos de comércio se encontram obrigadas ao recolhimento das contribuições destinadas ao SESC/SENAC. Precedentes deste Tribunal Regional Federal e do eg. Superior Tribunal de Justiça.
+2. Tratando-se, como na hipótese, de empresa prestadora de serviços, deve se reconhecido seu direito de promover a compensação dos valores indevidamente recolhidos a título das contribuições destinadas ao SESC/SENAC, observada a limitação de 25% e 30% sobre o valor a ser recolhido de cada competência, respectivamente, após o advento das Leis nºs 9.032/95 e 9.129/95.
+3. Ao Poder Judiciário, quando da análise do pleito à compensação, cabe apenas declarar se os créditos são compensáveis, devendo a liquidez e certeza dos créditos serem analisadas pela autoridade administrativa, a quem incumbe, após o encontro de contas, declarar a extinção do crédito tributário.
+4. Incidência dos expurgos inflacionários nas contas de liquidação, sendo devidos apenas os índices concernentes ao Plano Verão (janeiro/1989 – IPC 42,72%) e o Plano Collor I (abril/1990 – IPC 44,80%). Precedentes do eg. Supremo Tribunal Federal, do Superior Tribunal de Justiça e deste Tribunal Regional Federal. Ressalva do ponto de vista do Relator.
+5. A partir de 1º de janeiro de 1996, os juros são devidos à Taxa Selic, que, por já englobar os juros moratórios e a taxa de inflação, não podem de forma cumulativa com qualquer outro índice de correção monetária ou de juros de mora. Precedentes do eg. Superior Tribunal de Justiça e deste Tribunal Regional Federal da 1ª Região.
+6. Apelação parcialmente provida” (fl. 2091).
+Alega a recorrente, em suma, contrariedade ao artigo 240 da Constituição Federal, sob o argumento de que “as empresas prestadoras de serviços presentes no quadro da Confederação Nacional do Comércio estão obrigadas a contribuir para o SENAC, tendo em vista a recepção do Decreto-Lei 8.621/46 e do artigo 577 da CLT, pelo artigo 240 da CF que impôs a todos os empregadores, indistintamente, o pagamento das contribuições às Instituições de Auxílio à Formação Profissional” (fl. 2434)
+Contra-arrazoado (fls. 2453 a 2467), o recurso extraordinário (fls. 2398 a 2435) foi admitido (fl. 2478).
+Paralelamente a este extraordinário, o SENAC, o SESC e o INSS interpuseram recurso especial dirigido ao Superior Tribunal de Justiça.
+Decido.
+Verifico que o Superior Tribunal de Justiça, apreciando os recursos especiais interpostos pelos recorrentes INSS, SESC e SENAC, deu provimento aos mesmos por meio de decisão assim ementada:
+“TRIBUTÁRIO. CONTRIBUIÇÕES AO SESC E AO SENAC. PRESTADORAS DE SERVIÇOS. ALTERAÇÃO NO POSICIONAMENTO DA PRIMEIRA SEÇÃO DO STJ. RESP N.º 431347/SC, UNÂNIME.
+1. As empresas prestadoras de serviços estão incluídas dentre aquelas que devem recolher , a título obrigatório , contribuição para o SESC e para o SENAC, porquanto enquadradas no plano sindical da Confederação Nacional do Comércio, consoante a classificação do artigo 577 da CLT e seu anexo , recepcionados pela Constituição Federal (art. 240) e confirmada pelo seu guardião, o STF, a assimilação no organismo da Carta Maior.
+2. As Contribuições referidas visam à concretizar a promessa constitucional insculpida no princípio pétreo da 'valorização do trabalho humano" encartado no artigo 170 da Carta Magna ("A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da justiça social, (...)")
+3. As prestadoras de serviços que auferem lucros são, inequivocamente estabelecimentos comerciais, quer por força do seu ato constitutivo, oportunidade em que elegeram o regime jurídico próprio a que pretendiam se submeter, quer em função da novel categorização desses estabelecimentos, à luz do conceito moderno de empresa.
+4. O SESC e o SENAC tem como escopo contribuir para o bem estar social do empregado e a melhoria do padrão de vida do mesmo e de sua família, bem como implementar o aprimoramento moral e cívico da sociedade , beneficiando todos os seus associados, independentemente da categoria a que pertençam;
+5. À luz da regra do art. 5º, da LICC – norma supralegal que informa o direito tributário, a aplicação da lei, e nesse contexto a verificação se houve sua violação passa por esse aspecto teleológico-sistêmico – impondo-se considerar que o acesso aos serviços sociais, tal como preconizado pela Constituição, é um "direito universal do trabalhador", cujo dever correspectivo é do empregador no custeio dos referidos benefícios.
+6. Consectariamente, a natureza constitucional e de cunho social e protetivo do empregado, das exações sub judice, implica que o empregador contribuinte somente se exonere do tributo, quando integrado noutro serviço social, visando a evitar relegar ao desabrigo os trabalhadores do seu segmento, em desigualdade com os demais, gerando situação anti-isonômica e injusta.
+7. A pretensão de exoneração dos empregadores quanto à contribuição compulsória em exame, recepcionada constitucionalmente, em benefício dos empregados, encerra arbítrio patronal, mercê de gerar privilégio abominável aos que através a via judicial pretendem dispor daquilo que pertence aos empregados, deixando à calva a ilegitimidade da pretensão deduzida.
+8. Recursos especiais do INSS, do SESC e SENAC, conhecidos e providos (art. 557, § 1º-A, do CPC). (fls. 2486/2487).
+Desse modo, o presente recurso extraordinário perdeu o seu objeto, por ter o ora recorrente alcançado seu objetivo de reformar o aresto recorrido.
+Diante do exposto, julgo prejudicado o recurso extraordinário.
+Publique-se.
+Brasília, 3 de novembro de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
