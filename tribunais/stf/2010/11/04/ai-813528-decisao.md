@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. COMPETÊNCIA. SERVIDOR PÚBLICO MUNICIPAL. CONTROVÉRSIA SOBRE A NATUREZA JURÍDICA DA RELAÇÃO DE EMPREGO: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“COMPETÊNCIA. EMPREGADO PÚBLICO – CLT. Mesmo antes do advento da EC 45/2004, as 'ações oriundas da relação de trabalho, abrangidos os entes de direito público externo e da administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios', hão de ser processadas e julgadas pela Justiça do Trabalho, entendimento que foi consolidado com a reforma constitucional. Ajuizamento da ação após o advento da Emenda Constitucional 45/04 o que reforça ainda mais este entendimento. Anulação da sentença e remessa dos autos ao Tribunal Regional do Trabalho da 15ª Região” (fl. 112).
+3. No recurso extraordinário, o Agravante afirma que o Tribunal a quo teria contrariado o art. 39, caput, da Constituição da República.
+Argumenta que “não pode se conformar com a anulação da r. sentença e determinação de remessa dos autos à Justiça do Trabalho, com o que a decisão do E. TJESP afrontou de forma direta e literal a disposição do art. 39, caput, da Constituição Federal, na medida em que reconheceu a competência da Justiça do Trabalho, declarando ser celetista o regime jurídico do Município, quando este instituiu o estatutário” (fls. 156-157).
+Sustenta que “na Lei Municipal nº 2.979/89 (Estatuto Único dos Servidores Públicos Municipais), através da qual foi instituído no âmbito do Município de Tupã o regime estatutário, se encontram especificadas regras totalmente incompatíveis com aquelas contidas na CLT (...) de forma que tudo o que diz respeito aos servidores municipais encontra-se integralmente tutelado no Estatuto, o que, por si só, leva a concluir que é estatutária a natureza jurídica da relação mantida pelas partes” (fls. 159-160).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 180-181).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Na espécie vertente, o Tribunal a quo afirmou que:
+“Conforme bem se nota no documento de fls. 13/15, o autor da ação é servidor público municipal contratado pelo regime da CLT e visa com a presente receber abono salarial concedido pela Municipalidade no período em que estava afastado das funções.
+Alia-se a este fato a informação contida no art. 1º parágrafo único da Lei Municipal 2.979/89 (fls. 43), em que há previsão de que é de natureza contratual, ou seja, celetista, o regime jurídico dos servidores de Tupã. Logo, a matéria ventilada na presente ação trata unicamente sobre a concessão de verbas salariais, ou seja, tipicamente trabalhista” (fl. 114).
+Para se concluir de modo diverso do acórdão recorrido quanto à natureza jurídica da relação de emprego, seria imprescindível o reexame de fatos e provas, o que atrai a incidência da Súmula 279 do Supremo Tribunal Federal e não viabiliza o recurso extraordinário. Nesse sentido:
+“CONSTITUCIONAL. TRABALHO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DANO MORAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. REEXAME DE FATOS E PROVAS. SÚMULA STF 279. 1. A Justiça do Trabalho será competente para julgar ações de indenização por danos morais e materiais quando decorrentes da relação de trabalho entre as partes. 2. Para verificar se a relação entre as partes da presente demanda é proveniente da relação de trabalho, é necessária a análise da matéria fático-probatória, circunstância inviável nesta sede recursal (Súmula STF 279). 3. Agravo regimental improvido” (RE 563.173-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 18.9.2009 – grifos nossos).
+“1. Justiça do Trabalho: competência: reclamação trabalhista proposta por empregado público com fundamento em vínculo oriundo de contrato de trabalho: precedentes. 2. RE: descabimento: questão relativa à caracterização de vínculo empregatício, que demanda reexame de matéria de fato e de provas inviável no recurso extraordinário (Súmula 279)” (AI 339.992-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 29.4.2005 – grifos nossos).
+Nada há, pois, o que prover quanto às alegações do Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 4 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
