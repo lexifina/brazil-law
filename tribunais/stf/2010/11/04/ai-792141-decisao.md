@@ -1,0 +1,13 @@
+DECISÃO : Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal Regional Federal da 1ª Região que concedeu segurança para afastar descontos em folha de pagamento de servidora pública, relativos a valores supostamente percebidos a maior, por concluir que a Administração não respeitou o devido processo legal.
+No recurso extraordinário, alega-se violação do art. 5º, LIV e LV, da Constituição. Sustenta a recorrente que houve respeito ao devido processo legal, por ser dever da Administração Pública anular seus atos, quando eivados de ilegalidade.
+O Plenário deste Tribunal firmou o entendimento de que o desconto em folha de pagamento de servidor público somente pode ocorrer com a aquiescência deste. Nesse sentido, o acórdão prolatado no MS 24.182 (red. para o acórdão min. Gilmar Mendes, DJ 03.09.2004), cuja ementa ficou assim redigida:
+Mandado de Segurança. 2. Desaparecimento de talonários de tíquetes-alimentação. Condenação do impetrante, em processo administrativo disciplinar, de ressarcimento ao erário do valor do prejuízo apurado. 3. Decisão da Mesa Diretora da Câmara dos Deputados de desconto mensais, em folha de pagamento, sem a autorização do servidor. 4. Responsabilidade civil de servidor. Hipótese em que não se aplica a auto-executoriedade do procedimento administrativo. 5. A Administração acha-se restrita às sanções de natureza administrativa, não podendo alcançar, compulsoriamente, as conseqüências civis e penais. 6. À falta de prévia aquiescência do servidor, cabe à Administração propor ação de indenização para a confirmação, ou não, do ressarcimento apurado na esfera administrativa. 7. O Art. 46 da Lei n o 8.112, de 1990, dispõe que o desconto em folha de pagamento é a forma como poderá ocorrer o pagamento pelo servidor, após sua concordância com a conclusão administrativa ou a condenação judicial transitada em julgado. 8. Mandado de Segurança deferido.
+Confira-se também o AI 524.143-AgR (rel. min. Sepúlveda Pertence, DJ 18.03.2005).
+No mesmo sentido a Segunda Turma se manifestou no AI 241.428 AgR ; rel. min. Marco Aurélio, DJ 18.02.2000:
+DEVIDO PROCESSO LEGAL- VENCIMENTOS – DESCONTOS DE IMPORTÂNCIAS SATISFEITAS A MAIOR. descontos de quantias pagas além do devido pressupõem apuração dos valores em processo administrativo no qual fique assegurado ao servidor o exercício do direito de defesa ante eventual excesso ou erro de cálculo.
+E ainda, nas decisões monocráticas no RE 400.189, rel. min. Carlos Britto, DJ 15.02.2005 e no AI 230.409, rel. min. Sepúlveda Pertence, DJ 17.05.2004.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 04 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
