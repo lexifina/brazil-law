@@ -1,0 +1,18 @@
+1.  Trata-se de recurso extraordinário interposto do acórdão de cuja ementa destaco:
+“ DIREITO PROCESSUAL CIVIL E CONSTITUCIONAL. CONCURSO PÚBLICO. ELIMINAÇÃO DE CANDIDATO POR SER MÍOPE. DEFICIÊNCIA VISUAL NÃO CONSIGNADA NO EDITAL DO CERTAME. NULIDADE DO ATO ” (fl. 459).
+ Os embargos de declaração opostos foram rejeitados (fls. 480-484).
+2.  A parte recorrente alega, em síntese, ofensa aos arts. 2º, 5º, LIV, LV, 37, caput, I, II, § 2º, e 169, da Constituição Federal (fls. 573-594).
+3.  Admitido o recurso na origem (fls. 619-620), subiram os autos.
+4.  Em primeiro lugar, verifico que os arts. 2º, 5º, LIV, LV, 37, § 2º, e 169, da Constituição Federal não foram prequestionados, porque não abordados pelo acórdão recorrido, nem mencionados nos embargos de declaração que foram opostos, não sendo satisfeito, portanto, o requisito do prequestionamento (Súmulas STF 282 e 356).
+5.  Em segundo lugar, a jurisprudência desta Corte é pacífica no sentido de que, em casos como o dos presentes autos, onde a solução da controvérsia depende do reexame de fatos e provas e da interpretação de normas de edital de concurso público, eventual ofensa constitucional somente poderia ocorrer de forma reflexa ou indireta, o que impede o trâmite do recurso extraordinário (Súmulas STF 279 e 454). Nesse sentido os AI 587.237-AgR/RS, de minha relatoria, 2ª Turma, DJe 01.7.2010 e AI 767.533-AgR/MT, rel. Min. Cármen Lúcia, 1ª Turma, 12.3.2010, este último assim ementado:
+“ EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. APLICABILIDADE E VALIDADE DE NORMAS DE EDITAL. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DA ANÁLISE DAS CLÁUSULAS EDITALÍCIAS E DO REEXAME DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 279 E 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO . A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta”.
+ Ressalto, ainda, que a própria recorrente em seu recurso extraordinário salienta a necessidade da análise editalícia no seguinte trecho:
+“In casu, o Autor, ora Recorrido foi submetido à prova de capacidade física, e considerado inapto, nos termos do Edital nº 15/2000 – APF, de 16 de novembro de 2000. Dessa forma, procedeu-se à sua eliminação em conformidade com o estabelecido no subitem 7.20.5 do edital que rege o certame” (fl. 592).
+6.  Corroborando este entendimento cito, na parte que interessa o parecer do Ministério Público Federal:
+“(...) a controvérsia relativa à legitimidade e razoabilidade da eliminação do candidato do concurso público não prescindiria da prévia análise de normas infraconstitucionais e de cláusulas editalícias. Assim, eventual ofensa ao texto constitucional somente ocorreria de maneira indireta, reflexa, não autorizado a admissão do recurso extraordinário.
+‘ AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. ACUIDADE VISUAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO ’. (AI 590.531-AgR, Rel. Min. Cármen Lúcia, DJe de 1º.07.2009)” (fls. 676-677).
+7.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 04 de novembro de 2010.
+Ministra Ellen Gracie
+Relatora
