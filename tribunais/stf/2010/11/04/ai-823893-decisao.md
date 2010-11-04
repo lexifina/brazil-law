@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que negou provimento à apelação interposta pelo agravante em ação penal subsidiária da pública.
+2.     Nas razões do RE, sustenta-se ofensa aos arts. 5º, XXXVII e LIII, e 93, IX, da Constituição Federal, sob o fundamento da existência de impedimento de um dos juízes que compõem a Turma Recursal, além da falta de fundamentação da decisão que decretou a nulidade do recebimento da queixa-crime.
+ Aduz-se, ainda, violação ao art. 5º, II, XV, LIV, LV, LXI, LXV, LXVI, 93, IX, todos da Constituição, além do art. 7º do Pacto de São José da Costa Rica, uma vez que foi decretada a nulidade do recebimento da queixa-crime e reconhecida a prescrição da pretensão punitiva, não obstante a falta de comprovação dos prejuízos sofridos pelo recorrido e a ratificação, pelo recorrente, de pareceres ministeriais existentes nos autos à época do recebimento da denúncia.
+ Afirmou-se que as condutas dos promotores foram inconstitucionais, uma vez que não adotaram providências no sentido de garantir a liberdade de locomoção do recorrente, que foi preso ilegalmente pelo recorrido.
+3.  A respeito da decretação de nulidade do recebimento da queixa-crime, a Turma Recursal fundamentou o acórdão nos seguintes termos (fl. 269):
+“Em que pese a recente alteração promovida pela Lei 12.234 de 06 de maio de 2010 que alterou a redação dos artigos 109 e 110 do CPB, por tratar-se de matéria cujo prejuízo ao acusado é evidente, não há que ser considerada no presente caso vigorando a lei do tempo da ocorrência do fato, consagrando o princípio da ultratividade da lei penal mais benéfica”.
+ Como se observa, o colegiado fundamentou suficientemente a questão, embora tenha decidido em sentido contrário à pretensão do recorrente. Assim, o fato de a decisão ter sido contrária aos interesses da parte não caracteriza violação ao art. 93, IX, da Constituição Federal. Nesse sentido, AI 662.319-AgR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 05.03.2009; AI 682.065-AgR, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 03.04.2008; entre outros julgados.
+4.  A suposta ofensa à Constituição, se houvesse, demandaria o reexame do conjunto fático-probatório, o que, em sede de recurso extraordinário, encontra barreira na Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+5.  Ademais, este Tribunal entendeu que, em regra, a alegação de desrespeito aos postulados do devido processo legal, da ampla defesa e do contraditório, se existentes, seria meramente reflexa ou indireta, cujo exame se mostra inviável nesta sede recursal. Nesse sentido, o AI 372.358-AgR, rel. Min. Celso de Mello, 2ª Turma, DJ 28.06.2002.
+6.  Ante o exposto, nego seguimento ao agravo (CPC, art. 557, caput).
+Publique-se.
+Brasília, 4 de novembro de 2010.
+Ministra Ellen Gracie
+Relatora
