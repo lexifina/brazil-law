@@ -1,0 +1,8 @@
+1.  Trata-se de embargos de declaração opostos de decisão que negou seguimento a agravo de instrumento contra inadmissibilidade de recurso extraordinário por violação ao art. 153, § 3º, II, da Constituição Federal, no qual se discutiu a possibilidade do creditamento do Imposto sobre Produtos Industrializados – IPI, referente a insumos não tributados ou sujeitos à alíquota zero utilizados na fabricação de produtos com saída sujeita à incidência de imposto.
+2.  Entretanto, esta Corte reconheceu a existência de repercussão geral da matéria no RE 590.809-RG/RS, rel. Min. Marco Aurélio, DJe 13.3.2009.
+3.    Sobre o processamento da repercussão geral, a 2ª Turma do STF, em 30.9.2008, ao apreciar o RE 565.153-AgR-QO/SP, de minha relatoria, decidiu no sentido de acolhê-la para reconsiderar a decisão agravada, devolver aqueles autos ao Tribunal de origem e julgar prejudicado o agravo regimental interposto. A Turma decidiu, também, estender tal decisão aos demais recursos (agravos regimentais e embargos de declaração), interpostos de decisão monocrática, bem como a observância, no tocante ao apelo extremo, das disposições do art. 543-B do Código de Processo Civil.
+4.  Dessa forma, reconsidero a decisão impugnada, julgo prejudicado os embargos de declaração opostos, dou provimento ao agravo de instrumento para admitir o recurso extraordinário, e, nos termos do art. 328 do RISTF, determino a devolução dos presentes autos ao Tribunal de origem, bem como a observância, no tocante ao apelo extremo interposto, das disposições do art. 543-B do CPC.
+Publique-se.
+Brasília, 04 de novembro 2010.
+Ministra Ellen Gracie
+Relatora
