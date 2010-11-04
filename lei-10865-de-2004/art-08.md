@@ -47,7 +47,6 @@ XVIII - produtos classificados na posição 87.13 da Nomenclatura Comum do Merco
 XIX - artigos e aparelhos ortopédicos ou para fraturas classificados no código 90.21.10 da NCM;
 XX - artigos e aparelhos de próteses classificados no código 90.21.3 da NCM;
 XXI - almofadas antiescaras classificadas nos Capítulos 39, 40, 63 e 94 da NCM.
-XXII - projetores para exibição cinematográfica, classificados no código 9007.2 da NCM, e suas partes e acessórios, classificados no código 9007.9 da NCM.
 § 13. O Poder Executivo poderá regulamentar:
 I - o disposto no § 10 deste artigo; e
 II - a utilização do benefício da alíquota 0 (zero) de que tratam os incisos I a VII e XVIII a XXI do § 12 deste artigo.
@@ -59,4 +58,3 @@ II - 4,6% (quatro inteiros e seis décimos por cento), para a Cofins-Importaçã
 § 17. O disposto no § 14 deste artigo não se aplica aos valores pagos, creditados, entregues, empregados ou remetidos, por fonte situada no País, à pessoa física ou jurídica residente ou domiciliada no exterior, em decorrência da prestação de serviços de frete, afretamento, arrendamento ou aluguel de embarcações marítimas ou fluviais destinadas ao transporte de pessoas para fins turísticos.
 § 18. O disposto no § 17 deste artigo aplicar-se-á também à hipótese de contratação ou utilização da embarcação em atividade mista de transporte de cargas e de pessoas para fins turísticos, independentemente da preponderância da atividade.
 § 19. A importação de álcool, inclusive para fins carburantes, fica sujeita à incidência da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação, fixadas por unidade de volume do produto, às alíquotas de que trata o § 4º do art. 5º da Lei nº 9.718, de 27 de novembro de 1998, independentemente de o importador haver optado pelo regime especial de apuração e pagamento ali referido.
-§ 20. Durante o exercício de 2010, a redução de alíquota de que trata o inciso XXII do § 12 somente se aplicará aos projetos referentes a implantação de novas salas de exibição.
