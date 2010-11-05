@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1081, de 4 de novembro de 2010
+Dispõe sobre regime especial de substituição tributária do Imposto sobre Produtos Industrializados (IPI), na hipótese de que se trata.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no inciso II e no § 2º do art. 35 da Lei nº 4.502, de 30 de novembro de 1964, e no art. 26, no inciso I do art. 27, no art. 42 e no inciso IX do art. 226 do Decreto nº 7.212, de 15 de junho de 2010, resolve:
