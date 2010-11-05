@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. FUNDO DE GARANTIA DO TEMPO DE SERVIÇO: VALIDADE DO TERMO DE ADESÃO. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. NECESSIDADE DE REEXAME DE PROVA: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+“PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. FGTS. PROCESSO DE EXECUÇÃO. ACORDO EXTRAJUDICIAL FIRMADO ENTRE AS PARTES ANTES DA PROPOSITURA DA AÇÃO. TÍTULO INEXIGÍVEL.
+1. Carece de exigibilidade o título executivo que determina a complementação da correção monetária em saldo de conta do FGTS quando as partes, previamente à propositura da ação de conhecimento, firmam acordo extrajudicial por livre e espontânea vontade e sem vício de consentimento, de conformidade com a LC 110/01.
+2. É, pois, de ser mantida a decisão homologatória dos aludidos acordos, ainda que tal providência seja dispensada no caso, tendo em vista que os ajustes consubstanciam ato jurídico perfeito.
+3. Agravo interno desprovido”(fl. 191).
+2. Os Agravantes alegam que que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXV, XXXVI, LIV e LV; 93, inc. IX, da Constituição da República.
+Argumentam que como “o documento juntado na fase executória não corresponde a fato novo (...), é indene de dúvidas que a sua aceitação, com a consequente homologação do respectivo acordo, viola literalmente à coisa julgada material operada” (fl. 232).
+Sustentam que “o ilustre juízo a quo, ao manter a homologação de acordo supostamente celebrado na fase de conhecimento e trazido aos autos somente na fase executória, foi expresso ao atribuir prerrogativa de cognição ao juízo de execução, em literal ofensa à coisa julgada” (fl 234).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta e a incidência das Súmulas 282 e 356 do Supremo Tribunal Federal (fls. 251-252).
+Analisados os elementos havidos nos autos, DECIDO.
+4. Razão jurídica não assiste aos Agravantes.
+5. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão dos Agravantes, o acórdão recorrido apresentou suficiente fundamentação.
+Conforme a jurisprudência do Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+6. O Tribunal a quo assentou que:
+“Carece de exigibilidade o título executivo que determina a complementação da correção monetária em saldo de conta do FGTS quando as partes, previamente à propositura da ação de conhecimento, firmam acordo extrajudicial por livre e espontânea vontade e sem vício de consentimento, de conformidade com a LC 110/01” (fl. 189).
+Para se concluir de modo diverso, seriam imprescindíveis o reexame do conjunto fático-probatório constante dos autos e a análise de normas infraconstitucionais, o que não viabiliza o recurso extraordinário.
+Além disso, seria imprescindível a análise das normas infraconstitucionais aplicáveis à espécie vertente (Código de Processo Civil), o que não se admite em recurso extraordinário.
+Confiram-se, a propósito, os seguintes julgados:
+“CONSTITUCIONAL. CORREÇÃO DAS CONTAS VINCULADAS DO FGTS. ACORDO FIRMADO PELO TRABALHADOR. INEXISTÊNCIA DE PROVA DE SUA CELEBRAÇÃO. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I. O Plenário do Supremo Tribunal Federal, ao julgar o RE 418.918/RJ, Rel. Min. Ellen Gracie, conheceu e deu provimento ao recurso extraordinário da Caixa Econômica Federal, ao entendimento de que a decisão que desconsidera o Termo de Adesão a que alude a Lei Complementar 110/01, assinado pela Caixa Econômica Federal e pelos trabalhadores, viola o instituto do ato jurídico perfeito (CF, art. 5º, XXXVI). II - O Tribunal a quo analisou as provas contidas nos autos e afirmou inexistir prova da celebração do acordo entre o agravado e a Caixa Econômica Federal. Assim, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III. Agravo regimental improvido” (AI 701.414-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 17.4.2009).
+E:
+“RECURSO. Extraordinário. Inadmissibilidade. Termo de adesão da LC n. 110/2001. Não incidência sobre uma das contas vinculadas. Reexame do conjunto fático-probatório e de cláusulas contratuais. Inteligência das súmulas 279 e 454. Decisão mantida. Agravo regimental improvido. Os termos das súmulas 279 e 454 impedem a avaliação do acertou ou desacerto da decisão que afasta a incidência o termo de adesão da LC n. 110/2001 sobre uma das contas vinculadas do FGTS” (RE 554.430-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 1º.2.2008).
+7. Ademais, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa constitucional indireta. Nesse sentido:
+“A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+8. Não há, pois, o que prover quanto às alegações dos Agravantes.
+9. Pelo exposto, nego seguimento ao agravo de instrumento (art. 38 da Lei n. 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 5 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
