@@ -1,0 +1,1 @@
+Art. 8º-A. Fica criado, na estrutura básica do Instituto de Mudanças Climáticas e Regulação dos Serviços Ambientais - IMC, um cargo de diretor, com remuneração corresponde a oitenta por cento da remuneração de secretário de Estado. (Incluído pela Lei nº 2.727, de 21/08/2013)
