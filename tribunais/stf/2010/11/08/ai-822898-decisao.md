@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. IMPOSSIBILIDADE DE REEXAME DE FATOS, PROVAS E DA INTERPRETAÇÃO DO CONTRATO FIRMADO ENTRE PARTES: INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“AGRAVO INTERNO em APELAÇÃO CÍVEL - PLANO DE SAÚDE – AMICO SAÚDE – OBRIGAÇÃO DE FAZER – MANUTENÇÃO DE ASSISTÊNCIA DE 'HOME CARE' – AUSÊNCIA DE AMPARO À PRETENSÃO RECURSAL – OBRIGAÇÃO DE MANUTENÇÃO DO TRATAMENTO – NEGATIVA DE SERVIÇO NO CASO DE EMERGÊNCIA – FATO DO SERVIÇO – INCLUSÃO NO PLANO DE SAÚDE – RECUSA INDEVIDA DE COBERTURA – GRAVIDADE DA DOENÇA – NECESSIDADE DE CUIDADOS ESPECIAIS – OBRIGAÇÃO DE MANTER 'HOME CARE' E MEDICAMENTOS – FALHA NO SERVIÇO – CONDUTA ABUSIVA – Decisão monocrática que negou seguimento ao recurso da parte agravante para manter a sentença de primeiro grau. - Acerto na decisão que se mantém – IMPROVIMENTO do Agravo Interno” (fl. 339, grifos no original).
+3. No Recurso Extraordinário a Agravante afirma que o Tribunal a quo teria contrariado o art. 5º, inc. II, da Constituição da República.
+Argumenta que “o Recorrido, no momento da sua internação, não era beneficiário do plano de saúde administrado pela Recorrente. Isso porque, a relação entre as partes, Recorrido e Recorrente, somente se iniciou a partir do pedido de inclusão feito pela primeira ré, APPAI, o que somente ocorreu no dia 30 de julho de 2008. Sendo assim, na medida em que o Recorrente somente foi admitido no plano, no final de julho de 2008 e a sua internação ocorreu no dia 07 de julho de 2008, conforme aposto na inicial, não há como se falar em irregularidade na negativa de custeio por parte da Recorrente” (fl. 374).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a impossibilidade de análise de legislação infraconstitucional nessa via recursal (fl. 402).
+Examinada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. No voto condutor do acórdão recorrido, o Desembargador relator consignou:
+“A documentação probatória acostada nos autos é uma chama latente dos direitos ali elencados (fls. 19 até 26), posto que o autor era cliente do plano de saúde a partir do dia 9 de abril de 2008 e não do dia 30/07/2008, como afirmou falsamente a ré (...)
+Sendo assim, em resumo, tal sinistro é coberto pelo contrato de seguro, pois se trata de uma cláusula abusiva (art. 51, inciso IV, do CDC), nula de pleno direito. A recusa de forma injustificada e abusiva, com a colocação do paciente em risco a saúde física e mental, por si só, tratar-se de um abuso de direito” (fls. 341-342).
+7. O acórdão recorrido foi proferido à luz dos fatos e das provas constantes dos autos, do contrato celebrado entre as partes e da legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor e Lei 8.078/1990), razão pela qual não ocorre ofensa constitucional direta, única a permitir o processamento do recurso extraordinário, nos termos do art. 102, inc. III, alínea a, da Constituição da República. Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITCUINOAL. OFENSA INDIRETA. NECESSIDADE DE REEXAME DE FATOS E PROVAS E DE CLÁUSULAS CONTRATUAIS. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de norma infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. A incidência do óbice da Súmula 279-STF inviabiliza o recurso extraordinário quando evidenciada a necessidade do revolvimento de matéria fático-probatória. 3. É vedado o reexame de cláusulas contratuais, nos termos da Súmula 454-STF. Agravo regimental a que se nega provimento” (AI 528.896-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 5.2.2005).
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. DIREITO DO CONSUMIDOR. CONTRATO DE PLANO DE SAÚDE. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS (SÚMULAS 279 E 454). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 722.542-ED, de minha relatoria, Primeira Turma, DJe 27.2.2009).
+Não há, pois, o que prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 8 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
