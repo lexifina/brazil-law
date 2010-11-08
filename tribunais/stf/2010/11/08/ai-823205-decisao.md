@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. INTIMAÇÃO EM AGRAVO DE INSTRUMENTO. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“AGRAVO INOMINADO. DECISÃO MONOCRÁTICA EM AGRAVO DE INSTRUMENTO QUE MODIFICA INTERLOCUTÓRIA ANTERIOR DE REJEIÇÃO DE EMBARGOS DECLARATÓRIOS. PRESCINDIBILIDADE DA OITIVA DA PARTE CONTRÁRIA. RECURSO MANIFESTAMENTE PROCEDENTE A POSSIBILITAR O JULGAMENTO DE FORMA MONOCRÁTICA PELO JULGADOR. QUESTÃO ACERCA DO NÃO CUMPRIMENTO DO ARTIGO 526 DO CÓDIGO DE PROCESSO CIVIL QUE NÃO RESTOU CABALMENTE COMPROVADA. VERBA HONORÁRIA PERICIAL. OCORRÊNCIA DE MANIFESTO ERRO MATERIAL. PRECLUSÃO QUE NÃO SE OPERA” (fl. 138).
+2. No Recurso Extraordinário a Agravante afirma que o Tribunal a quo teria contrariado o art. 5º, inc. LV, da Constituição da República.
+Argumenta que a “decisão recorrida não [teria] cumpri[do] os ditames determinados no art. 5º, LV, da Constituição Federal. Isto, porque, a ora Recorrida interpôs Agravo de Instrumento para o Colendo Tribunal de Justiça do Estado do Rio de Janeiro, (...), sendo que, ao receber o recurso, o Relator, monocraticamente, deu provimento ao agravo, sem, contudo, intimar a Agravante para manifestar sobre o recurso, impugnando-o” (fl. 179).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a impossibilidade de análise da legislação infraconstitucional (fls. 194-195).
+Analisados os elementos havidos nos autos, DECIDO.
+4. Razão jurídica não assiste à Agravante.
+5. O Tribunal a quo assentou que:
+“Da análise do presente instrumento verifica-se que o mesmo foi, suficientemente, instruído pelo agravante, fato que torna desnecessária a solicitação de informações e não permite que chegue ao conhecimento do Relator, antes do julgamento monocrático do recurso, a informação relativa ao cumprimento ou não do artigo 526 do Código de Processo Civil. Tal fato, induvidosamente, não pode obstar que o julgador de segundo grau julgue de forma monocrática” (fl. 141).
+O reexame do acórdão impugnado demandaria, ainda, a interpretação da legislação infraconstitucional aplicável à espécie - art. 526 do Código de Processo Civil. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Confira-se, a propósito, o seguinte julgado:
+“EMENTA: PROCESSUAL CIVIL. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE REEXAMINAR PROVAS. AGRAVO REGIMENTAL DESPROVIDO. (...)” (AI 579.107-AgR, de minha relatoria, Primeira Turma, DJ 16.2.2007).
+6. O Supremo Tribunal Federal firmou o entendimento de que a alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República, se dependente do exame da legislação infraconstitucional - na espécie vertente, de dispositivos do Código de Processo Civil -, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“(...) 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil ” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJE 8.5.2009).
+“ RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição ” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+Nada há, pois, a prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 8 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
