@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL: IMPOSSIBILIDADE DE EQUIPARAÇÃO AOS VENCIMENTOS DE SERVIDOR DA MESMA CATEGORIA POR MEIO DE DECISÃO JUDICIAL. ISONOMIA. INCIDÊNCIA DA SÚMULA N. 339 DO SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inciso III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. LEI Nº 10.395/95. ISONOMIA DE VENCIMENTOS COM PARADIGMA QUE OBTEVE REAJUSTES.
+Não configura afronta ao princípio constitucional da isonomia a existência de diferenças vencimentais entre servidores que exercem as mesmas funções, quando o paradigma apontado obteve judicialmente os reajustes da Lei nº 10.395/95. Limites subjetivos da coisa julgada.
+RECURSO DESPROVIDO” (fl. 24).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta e a incidência da Súmula n. 339 do Supremo Tribunal Federal.
+4. O Agravante alega que teriam sido contrariados os princípios constitucionais da isonomia e da segurança jurídica.
+Argumenta que:
+“a matéria vertida nos autos, com a devida vênia, não apresenta a singeleza atribuída pelo Eminente Julgador. (...) O fato notório é que, em virtude da divergência nos entendimentos das Colendas 3ª e 4ª Câmaras Cíveis do 2º Grupo Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, especializadas em apreciar matérias atinentes a servidores públicos, as demandas foram julgadas procedentes pela 3ª Câmara Cível, com reconhecimento do direito dos servidores a perceberem os índices de reajustes salariais estabelecidos pela Lei Estadual nº 10.395/95, enquanto que as demandas distribuídas à Colenda 4ª Câmara Cível foram julgadas improcedentes. A divergência entre as Câmaras acabou por gerar, com a devida vênia, duas 'espécies de servidores': os que percebem o reajuste em tela e os que não o recebem, sendo ainda mais emblemática tal distorção no caso dos servidores que possuem o mesmo cargo, ou seja, Recorrente e paradigma” (fl. 32).
+Apreciada a matéria trazida na espécie, DECIDO.
+4. Razão jurídica não assiste ao Agravante.
+5. O Agravante ajuizou ação ordinária fundamentada no princípio constitucional da isonomia e pleiteou o reajuste de sua remuneração para que fosse igualada ao valor da remuneração de servidor de cargo idêntico, da mesma carreira profissional, que obtivera o reajuste por decisão judicial.
+A jurisprudência do Supremo Tribunal Federal assentou que a alteração salarial concedida a determinado servidor por decisão judicial não pode ser estendida a quem não foi parte na ação. Esse entendimento solidificou-se com a edição da Súmula n. 339 segundo a qual, o Poder Judiciário não tem função legislativa não lhe cabendo, portanto, a concessão de reajustes em nome do princípio da isonomia.
+Confiram-se os julgados seguintes:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. RECONHECIMENTO DE PISO SALARIAL POR MEIO DE DECISÃO JUDICIAL. EXTENSÃO A SERVIDORES QUE SE ENCONTRAM EM SITUAÇÃO IDÊNTICA. SÚMULA 339 DO STF. Consoante a jurisprudência do Supremo Tribunal Federal, ‘não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos, sob fundamento de isonomia’ [Súmula 339 do STF]. Ademais, o § 1º do art. 39 da Magna Carta, redação anterior à EC 19/98, encerra preceito dirigido ao legislador, a quem compete concretizar o princípio da isonomia, não cabendo ao Judiciário substituí-lo nesse mister. Precedentes: ADI 1.776-MC, RE 160.850, RE 173.252, RE 192.659, RE 194.263, RE 205.855-ED-EDv, RE 228.522, RE 342.802-AgR e AI 373.929-AgR. Agravo regimental desprovido ” (RE 475.915-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJ 17.11.2006).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RECURSO DE APELAÇÃO. JULGAMENTO POR MAIORIA. CABIMENTO DE EMBARGOS INFRINGENTES. CONHECIMENTO DO EXTRAORDINÁRIO. IMPOSSIBILIDADE. ALEGAÇÃO IMPROCEDENTE. Recurso de apelação. Julgamento por maioria de votos. Confirmação da sentença. Observância do disposto no artigo 530 do Código de Processo Civil. Embargos Infringentes. Não-cabimento. Impossibilidade de conhecimento do extraordinário. Alegação improcedente. Agravo regimental não provido.
+[...]
+No mais, ao contrário do que sustentam os agravantes, é evidente a pretensão de obterem, por extensão, vantagem funcional concedida a paradigmas que a percebem em razão da coisa julgada. Há de respeitar-se os limites objetivos e subjetivos da coisa julgada, nos termos do artigo 472 do Código de Processo Civil, sendo vedado ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos, a título de isonomia, sem previsão legal.” (RE 440.964-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 5.5.2006).
+A decisão agravada não divergiu, portanto, da pacífica jurisprudência do Supremo Tribunal sobre a matéria, razão pela qual não há o que prover quanto às alegações do Agravante.
+6. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 8 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
