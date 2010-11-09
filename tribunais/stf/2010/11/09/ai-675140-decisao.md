@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. INEXISTÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE DE TRATADO OU LEI FEDERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alíneas a e b, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“TAXA REFERENCIAL (TR) - Instituída pela Lei 8.177/91, de 01/03/1991, suprimindo os indicadores de correção monetária até então utilizados – Contrato firmado em 26.6.1989, antes de sua entrada em vigor - A TR somente é indexador válido para os contratos posteriores à Lei n° 8.177/91, desde que pactuada - Súmula n° 295 do STJ - Substituição da TR pelo INPC/IBGE, a partir de 1° de maio de 1991.
+AMORTIZAÇÃO DO SALDO DEVEDOR – Nos financiamentos habitacionais, a amortização decorrente do pagamento das prestações deve ser subtraída do saldo devedor do financiamento depois de sua atualização monetária, ainda que os dois eventos ocorram na mesma data - Circular n° 1.278/88 do Banco Central e repetido na Resolução n° 1.980/93 - Critério puramente de matemática financeira, não viola a legislação em vigor - Manutenção do poder aquisitivo da moeda.
+CORREÇÃO MONETÁRIA DE MARÇO DE 1990 - Saldo devedor e prestação do contrato para aquisição do imóvel, com cláusula de correção monetária atrelada ao indexador da poupança - Aplicação do IPC de 84,32%, no mês de março de 1990, mesmo não subordinado o contrato às regras do Sistema Financeiro de Habitação.
+TABELA PRICE - Contratos de financiamento pelo SFH - Anatocismo - Os juros crescem em progressão geométrica - Somente a amortização é que se deduz do saldo devedor; os juros jamais são abatidos, o que acarreta amortização menor e pagamento de juros maiores em cada prestação, calculados e cobrados sobre saldo devedor maior em decorrência da junção exponencial contida na Tabela, o que configura juros compostos ou capitalizados - Não dá ao mutuário o prévio conhecimento do que deve pagar - A cláusula que prevê a aplicação da 'Tabela Price', por importar capitalização de juros (vedada no contrato em espécie, haja vista a falta de previsão legal), é nula, nos termos do artigo 51, IV, da Lei 8.078/90 - Deve ser recalculado o saldo devedor, desde a sua origem, pelo método de Gauss.
+COEFICIENTE DE EQUIPARAÇÃO SALARIAL (CES) - Resolução Bacen n° 1446/88 e Circular 1.278/88 - Admissibilidade” (fls. 340-342).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento da matéria constitucional e a circunstância de que o Tribunal a quo não teria declarado a inconstitucionalidade de tratado ou lei federal (fls. 418-420).
+4. O Agravante alega que “da leitura do v. Acórdão pode-se concluir que os artigos arrolados foram violados e implicitamente mencionados no contexto do processo. Desta forma, não se faz necessária a exigência de prequestionamento, pois este deflui naturalmente de uma interpretação sistemática do contexto em que está sendo interposto o recurso extraordinário” (fl. 5).
+No recurso extraordinário, sustenta que teria sido contrariado o art. 5º, inc. XXXVI, da Constituição da República.
+Analisada a matéria posta à apreciação, DECIDO.
+5. Razão de direito não assiste ao Agravante.
+6. A matéria constitucional tida como contrariada não foi objeto do acórdão recorrido. Tampouco foram opostos embargos de declaração, de modo a provocar o necessário prequestionamento. Incidem na espécie as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+7. Ademais, a jurisprudência do Supremo Tribunal Federal firmou entendimento no sentido de que o prequestionamento da matéria constitucional deve ser explícito. Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. EXIGÊNCIA DO PREQUESTIONAMENTO EXPLÍCITO. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. INCIDÊNCIA DA SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO ” (AI 762.034-AgR, de minha relatoria, Primeira Turma, DJE 5.2.2010).
+E:
+“EMENTA: RECURSO EXTRAORDINÁRIO - ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS - AUSÊNCIA DE PREQUESTIONAMENTO EXPLÍCITO DA MATÉRIA CONSTITUCIONAL - RECURSO IMPROVIDO. - A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário. Precedentes” (RE 580.453 AgR, Rel. Min. Celso de Mello, Segunda Turma, DJE 17.10.2008).
+8. Inadmissível também o recurso extraordinário pela alínea b do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não declarou a inconstitucionalidade de tratado ou de lei federal (AI 234.357-AgR-ED, de minha relatoria, Primeira Turma, DJe 25.62010; e RE 586.046, Rel. Min. Cezar Peulos, Segunda Turma, DJe 1º.8.2008).
+Não há, pois, o que prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento a este agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 9 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
