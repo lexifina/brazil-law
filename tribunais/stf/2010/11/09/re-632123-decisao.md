@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA AO ATO JURÍDICO PERFEITO. JULGADO RECORRIDO BASEADO NO CONJUNTO PROBATÓRIO E NA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+“TRIBUTÁRIO. TR. JUROS DE MORA. RETROATIVIDADE. PRESCRIÇÃO. INOCORRÊNCIA. CAUTELAR. AUSÊNCIA DO FUMUS BONI JURIS.
+-Legalidade da aplicação da TR como juros de mora nos débitos vencidos.
+- Não há que se falar em retroatividade indevida da Lei 8.218/91, como pretende fazer crer a apelante vez que evidenciado que a aplicação da TR apenas se refere ao período de vigência da Lei 8.218/91.
+- Prescrição não demonstrada.
+- Apelação improvida” (fl. 165).
+2. A Recorrente alega que teria sido contrariado o art. 5º, inc. XXXVI, da Constituição da República.
+Sustenta que “somente a partir da Lei 8.218/91 é que ingressou validamente a TR/TRD na ordem jurídica pátria e a ser cobrada com o título e natureza assumidos de taxa de juros. Ocorre que, no caso sub examine, os fatos geradores das contribuições previdenciárias ora impugnadas remontam a períodos de competência compreendidos entre janeiro de 1975 e setembro de 1990, bem anteriores à instituição do índice em discussão” (fl. 124).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste à Recorrente.
+4. O Tribunal a quo assentou que “não há que se falar em retroatividade indevida da Lei 8.218/91, como pretende fazer crer a apelante vez que evidenciado que a aplicação da TR apenas se refere ao período de vigência da Lei 8.218/91” (fl. 161).
+A modificação do julgado demandaria o reexame das provas que levaram o Tribunal de origem a concluir pelo acerto da aplicação da TR, procedimento que não pode ser adotado em recurso extraordinário em razão do óbice da Súmula n. 279 do Supremo Tribunal Federal.
+Além disso, a jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do direito adquirido, do ato jurídico perfeito e dos limites objetivos da coisa julgada, se dependentes do exame prévio de normas infraconstitucionais (Lei n. 8.218/91), como no caso, configuram ofensa constitucional indireta.
+Confiram-se os seguintes julgados:
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CLÁUSULA DE EDITAL DE LICITAÇÃO. REEXAME DE FATOS E PROVAS: ÓBICE DA SÚMULA STF 279. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULA STF 282. 1. Não há como infirmar a conclusão a que chegou o acórdão recorrido sem o revolvimento do contexto fático-probatório da causa (Súmula STF 279) e da legislação infraconstitucional, hipóteses inviáveis em sede extraordinária. 2. A ofensa aos postulados constitucionais do direito adquirido, do ato jurídico perfeito e da coisa julgada, se existente, seria, segundo entendimento deste Tribunal, meramente reflexa ou indireta. 3. A questão constitucional tida como violada não foi prequestionada pelo acórdão recorrido, nem pelos embargos de declaração opostos para tal fim. Incidência da Súmula STF 282. 4. Agravo regimental improvido” (AI 800.291-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 22.10.2010 – grifos nossos).
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL. 1. Da forma como articuladas, as violações da segurança jurídica, do ato jurídico perfeito, do direito adquirido e da coisa julgada são indiretas ou reflexas, além de demandar reexame de fatos e provas. Impossibilidade de provimento do agravo regimental. 2. Ausente motivo para considerar novo argumento atrelado a fato superveniente, descabe inovar a causa de pedir e o pedido nas razões de agravo regimental. Agravo regimental ao qual se nega provimento” (AI 533.404-AgR, Rel. Joaquim Barbosa, Segunda Turma, DJe 8.10.2010 – grifos nossos).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE CONTRARIEDADE AO ATO JURÍDICO PERFEITO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. CONSTITUCIONAL. O MINISTÉRIO PÚBLICO TEM LEGITIMIDADE PARA PROPOR AÇÃO CIVIL PÚBLICA EM DEFESA DE DIREITOS INDIVIDUAIS E HOMOGÊNEOS NAS RELAÇÕES DE CONSUMO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 613.465-AgR, de minha relatoria, Primeira Turma, DJe 4.6.2010 – grifos nossos).
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AO ATO JURÍDICO PERFEITO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 764.954-ED, de minha relatoria, Primeira Turma, DJe 20.11.2009).
+Nada há, pois, a prover quanto às alegações da Recorrente.
+5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 9 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
