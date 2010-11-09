@@ -1,0 +1,14 @@
+DECISÃO: Reconsidero a decisão de fls. 180, restando prejudicado, em conseqüência, o exame do recurso interposto a fls. 183/187.
+Passo a examinar, desse modo, o presente apelo extremo.
+O recurso extraordinário em questão revela-se processualmente viável, eis que se insurge contra acórdão que decidiu a causa em desconformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+Com efeito, a colenda Segunda Turma desta Suprema Corte, ao julgar o RE 525.874/SP, Rel. Min. CEZAR PELUSO, fixou entendimento que torna plenamente acolhível a pretensão de direito material deduzida pela parte ora recorrente:
+“TRIBUTO. Contribuição para o PIS. Medida Provisória  nº 517/94. Fundo Social de Emergência. Matéria estranha à MP. Receita bruta. Conceito Inalterado. Constitucionalidade reconhecida. Recurso provido. A Medida Provisória nº 517/94 não dispõe sobre Fundo Social de Emergência, mas sobre exclusões e deduções na base de cálculo do PIS.”
+Cabe assinalar, por oportuno, no tema ora em exame, ante a inquestionável procedência de suas observações, a seguinte passagem da decisão proferida pela eminente Ministra ELLEN GRACIE (RE 390.749/RJ), ao apreciar questão idêntica à versada nesta sede recursal:
+“A jurisprudência desta Corte possui entendimento consolidado no sentido de que a medida provisória é instrumento idôneo para dispor sobre alterações na contribuição para o PIS como decidido na ADI 1.417/DF, rel. Min. Octavio Galotti. O acórdão recorrido, adotando o mesmo entendimento, concluiu que a MP 517/94 regulava, tão-somente, a contribuição para aquele Programa e não para o Fundo Social de Emergência, não havendo qualquer vedação à sua regulamentação, conclusão a que chegaram o RE 349.920-ED/PE, de minha relatoria, 1ª Turma, unânime, DJ 19.12.2002; AI 450.090-AgR/MG, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJ 16.02.2007; e o RE 433.077/RJ, rel. Min. Cármen Lúcia, DJe 22.9.2009.”
+Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito do Supremo Tribunal Federal, a propósito de questões essencialmente idênticas à que ora se examina nesta sede recursal (RE 438.859/RS, Rel. Min. CÁRMEN LÚCIA – RE 476.098/RJ, Rel. Min. AYRES BRITTO, v.g.).
+O exame da causa em que interposto o presente recurso extraordinário evidencia que o acórdão impugnado diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+Sendo assim, e pelas razões expostas, conheço do presente recurso extraordinário, para dar-lhe provimento (CPC, art. 557, § 1º - A), em ordem a denegar o mandado de segurança impetrado pela parte ora recorrida. No que concerne à verba honorária, revela-se aplicável o enunciado constante da Súmula 512/STF, restando prejudicada, em conseqüência, a apreciação do pedido de fls. 190/191.
+Publique-se.
+Brasília, 09 de novembro de 2010.
+Ministro CELSO DE MELLO
+Relator
