@@ -1,0 +1,37 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PENAL. EXECUÇÃO PENAL. NECESSIDADE DE DEFESA TÉCNICA NO PROCESSO ADMINISTRATIVO DISCIPLINAR, SOB PENA DE CONTRARIEDADE À AMPLA DEFESA E AO CONTRADITÓRIO. JULGADO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“Nula é a decisão guerreada por agressão ao princípio do contraditório e da ampla defesa. Explico.
+Veio PAD aos autos, do qual foi dado vista somente ao agente ministerial (fl. 44). Logo após, sobreveio decisão homologando o PAD, inclusive para fins do art. 127, da LEP. E à defesa não foi oportunizada manifestação!
+Dessa forma, os princípios do contraditório e da ampla defesa restaram violados: a estrutura dialético-acusatória do processo de execução penal impõe a participação da defesa técnica em todos os atos processuais, em especial quando houver possibilidade de alteração do status do apenado:
+'EXECUÇÃO PENAL. AGRAVO. ACUSATORIEDADE. PARTICIPAÇÃO DE DEFESA TÉCNICA. IMPRESCINDIBILIDADE DE INTIMAÇÃO DEFENSIVA DOS LAUDOS QUE AVALIAM O CIDADÃO-CONDENADO. RESPEITO AOS PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA.
+- A determinação constitucional de jurisdicionalidade acusatória no processo de execução penal impõe estrutura dialética ao procedimento de aferição de requisito subjetivo, fundamentador de decisão que altera o título executivo. Urgente filtragem à luz da Carta Maior, das regras executórias, como forma de implementar sistema adequado à garantia dos elementares direitos fundamentais inerentes ao núcleo liberal do Estado, assegurando ao cidadão-condenado as regras democráticas que lhe garantem dignidade.
+- A legitimidade de toda atividade jurisdicional penal, como leciona o professor Geraldo Prado, está condicionada a efetiva segurança dos direitos e garantias fundamentais, que se dá, exclusivamente, num ambiente marcado pela vigência do sistema acusatório.
+- No processo de execução – conjunto de atos com função garantidora de liberdade e verdade –, devem ser afiançadas àquele que figura no polo da relação todas as garantias processuais democráticas: ampla defesa, contraditório, duplo grau de jurisdição, publicidade, igualdade de partes, etc.
+- Tais valores fundantes do processo penal democrático são afirmados, unicamente, se houver a fiscalização dos atos do Estado por parte de advogado/defensor. A defesa técnica é indisponível: traduz-se em condição de paridade de armas que afasta o procedimento do pré-moderno modelo inquisitório. (Lição de Aury Lopes Jr.)
+- Nulo o decisum que nega benefício ao condenado, com fundamento em laudos técnicos (C.O.C. e C.T.C.) dos quais à defesa não se oportunizou cientificação e exame.
+- Decisão unânime' (Agravo em execução n.º 70004106308, Quinta Câmara Criminal, TJRS, Rel. Des. Amilton Bueno de Carvalho, j. 26/06/2002).
+E do PAD foi intimado e ouvido o Ministério Público sem que fosse garantida à defesa igual oportunidade – agressão do contraditório e da isonomia – no momento mais importante: o judicial!
+Então, com a devida vênia do colega singular, nula é a decisão de fl. 44-A.
+Com estas considerações, acolhe-se a preliminar defensiva para decretar a nulidade da decisão guerreada e determina-se a intimação da defesa para a manifestação a respeito do PAD” (fls. 69-71 - grifos nossos).
+2. O Recorrente sustenta contrariedade ao art. 5º, inc. LV, da Constituição da República.
+Assevera que “a ausência de defesa técnica no PAD não vai de encontro aos princípios constitucionais do contraditório e da ampla defesa, porquanto a defesa técnica somente é exigida em processo administrativo, e não em procedimento que se destina a apurar falta disciplinar praticada por condenado, conforme ocorreu no caso em julgamento” (fl. 89).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+4. De acordo com a jurisprudência do Supremo Tribunal Federal, os princípios da ampla defesa e do contraditório exigem o exercício da defesa técnica em procedimento administrativo disciplinar instaurado na fase de execução penal. Nesse sentido:
+“Recurso extraordinário. 2. Execução criminal. Progressão de regime. 3. Processo administrativo disciplinar para apurar falta grave e determinar a regressão do regime de cumprimento da pena. Inobservância dos princípios do contraditório e da ampla defesa. 4. Recurso conhecido e provido.
+(...)
+Recentemente, o Supremo Tribunal Federal aprovou o texto da Súmula Vinculante n.º 5, que dispõe: 'a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição'.
+Todavia, esse Enunciado é aplicável apenas em procedimentos de natureza cível.
+Em procedimento administrativo disciplinar, instaurado para apurar o cometimento de falta grave por réu condenado, tendo em vista estar em jogo a liberdade de ir e vir, deve ser observado amplamente o princípio do contraditório, com a presença de advogado constituído ou defensor público nomeado, devendo ser-lhe apresentada defesa, em observância às regras específicas contidas na LEP (arts. 1º, 2º, 10, 44, III, 15, 16, 41, VII e IX, 59, 66, V, alínea 'a', VII e VIII, 194), no CPP (arts. 3º e 261) e na própria CF/88 (art. 5º, LIV e LV).
+Esta Corte já se defrontou com a erronia da aplicação da Súmula Vinculante n.º 5 para convalidar procedimento administrativo disciplinar com a finalidade de apurar o cometimento de falta grave por detento” (RE 398.269, Rel. Min. Gilmar Mendes, Segunda Turma, Dje 26.2.2010 – grifos nossos).
+“Na espécie em foco, a Reclamante afirma ser indevida a aplicação da Súmula Vinculante n. 5 ao caso.
+Em efeito, a simples leitura dos precedentes utilizados na elaboração da Súmula Vinculante n. 5 evidencia a ausência de identidade entre a natureza das sanções resultantes dos procedimentos administrativos neles tratados (previdenciário: RE 434.059, Rel. Min. Gilmar Mendes, DJe 11.9.2008; fiscal: AI 207.197-AgR, Rel. Min. Octavio Gallotti, DJ 5.6.1998; disciplinar-estatutário/militar: RE 244.027-AgR, Rel. Min. Ellen Gracie, DJ 28.6.2002; e em tomada de contas: MS 24.961, Rel. Min. Carlos Velloso, DJ 4.3.2005) com o procedimento disciplinar para apuração de falta grave no âmbito da execução penal, donde a densa plausibilidade nas alegações da Reclamante.
+Essa circunstância é realçada pelo precedente referido na petição inicial (HC 77.862), no qual o eminente Ministro Sepúlveda Pertence, ao proferir seu voto naquele julgamento, afirma que eventual condenação advinda da jurisdição disciplinar instaurada para apuração de falta grave imputada ao condenado à pena privativa de liberdade resultaria em verdadeira sanção penal, considerada, especialmente, a perda da remição. 'E para imposição de sanção penal' - advertiu Sua Excelência, acompanhando a maioria formada na ocasião -, 'acho absolutamente coerente com os princípios constitucionais a exigência de defesa técnica'” (Rcl 8.827-MC, de minha relatoria, decisão monocrática, Dje 31.8.2009 – grifos nossos).
+Dessa orientação jurisprudencial não divergiu o julgado recorrido.
+5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 38 da Lei 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 10 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
