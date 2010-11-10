@@ -1,0 +1,21 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. REVISÃO CONTRATUAL. IMPOSIÇÃO DE MULTA PARA CUMPRIMENTO DO JULGADO: MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. ALEGADA OFENSA AO PRINCÍPIO DA LEGALIDADE. NECESSIDADE DA ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“Revisão contratual. Procedência. Trânsito em julgado. Necessidade de liquidação de sentença. Multa para cumprimento d julgado. Agravo de instrumento. Direito do consumidor. Requisitos presentes. Multa diária. Cabimento. Art. 84, § 4º, do Código de Defesa do Consumidor. Litigância de má-fé. Negado seguimento ao recurso. Agravo regimental. Decisão mantida. Recurso improvido” (fl.230).
+3. No Recurso Extraordinário o Agravante afirma que o Tribunal a quo teria contrariado o art. 5º, inc. II, da Constituição da República.
+Argumenta que “a tese discutida no presente processo é a afronta ao princípio da legalidade previsto no art. 5º, inc. II, da CF, uma vez que o v. Acórdão condena o recorrente ao pagamento de multa diária QUANDO NÃO HÁ LEI QUE OBRIGUE AO BANCO RECORRENTE ELABORAR CÁLCULOS DE EXECUÇÃO DE ENTENÇA CONTRA OS PRÓPRIOS INTERESSES, AINDA MAIS, SOB PENA DE MULTA DIÁRIA DE EXAGERADOS R$ 60.000,00” (fl. 287, grifos no original)
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição da República, se tivesse ocorrido, seria indireta (fls. 305-306).
+Examinados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. A questão em debate foi decidida com base na aplicação e na interpretação de legislação infraconstitucional (art. 84, § 4º do Código de Defesa do Consumidor). Assim, a alegada ofensa à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+7. Ademais, a alegada afronta ao art. 5º, inc. II, da Constituição da República tem óbice na Súmula 636 do Supremo Tribunal Federal, que dispõe: “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. Nesse sentido:
+“EMENTA: 1. Recurso extraordinário: descabimento: alegadas violações do texto constitucional que seriam, se ocorressem, indiretas ou reflexas, dependentes da prévia interpretação da legislação ordinária regente da espécie (Dec. 87497/82; Portaria MEC 1886/94; Código de Defesa do Consumidor) e de cláusula contratual. 2. Recurso extraordinário: inadmissibilidade: Súmula 636. Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”(AI 472.469-AgR/MS, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 14.5.2004).
+“RECURSO EXTRAORDINÁRIO. OFENSA REFLEXA À CF/88. INADMISSIBILIDADE. 1. Acórdão de origem que determinou a devolução imediata dos valores recolhidos por consorciados desistentes, com fundamento na legislação ordinária (Leis nºs 8.078/90 e 8.117/91 e Circular/Bacen nº 2.196/92). 2. É inadmissível o recurso extraordinário no qual, a pretexto de ofensa ao princípio da legalidade, pretende-se a exegese de legislação infraconstitucional. Ofensa à Constituição meramente reflexa ou indireta, de exame inviável nesta sede recursal (Súmula STF nº 636). 3. Agravo regimental improvido”(RE 393.249-AgR/AC, Rel. Min. Ellen Gracie, Segunda Turma, DJ 19.12.2003).
+Não há, pois, o que prover quanto às alegações do Agravante.
+Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 10 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
