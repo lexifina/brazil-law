@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 129):
+“MANDADO DE SEGURANÇA. LIMINAR DEFERIDA PELO JUÍZO DE 1º GRAU NOS AUTOS DE AÇÃO CIVIL PÚBLICA. MONOCONDUÇÃO DE COMPOSIÇÕES FÉRREAS. NECESSIDADE DE AMPLA E COMPLEXA DILAÇÃO PROBATÓRIA AUSÊNCIA DE ILEGALIDADE DO ATO COATOR.
+Não se há falar em violação a direito líquido e certo na espécie, visto que o despacho atacado, diante dos fatos, privilegiou, em um primeiro momento, a integridade física do trabalhador, até a comprovação no curso da ação civil pública de que o sistema de monocondução, que pretendem implementar em suas composições férreas, não interfere na segurança do trabalho realizado. Ademais, para se demonstrar que a monocondução não compromete a segurança do maquinista a operar o trem de carga, se haverá maior ou menor risco de acidentes com a implementação de tal medida, necessária seria extensa e complexa dilação probatória, o que não se coaduna com a estreita via do mandado de segurança, que exige prova documental pré-constituída, ônus do qual a Impetrante não se desincumbiu, nos termos dos arts. 333 do CPC e 818 da CLT. Recurso ordinário a que se nega provimento.”
+Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, II, XXII, XXXV, LIV, LV e LXIX, e 170, caput e II, da Constituição federal. Sustenta-se que a procedência da ação mandamental, visto que não existe provas de que a monocondução comprometa o nível de segurança do trabalho.
+É o relatório. Decido.
+Não merece reparos a decisão agravada.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceitos dos artigos supracitados, versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356)
+Por outro lado, a análise dos requisitos para concessão ou denegação do mandado de segurança cinge-se à norma processual que disciplina o exercício da ação constitucional – no caso, a Lei 1.533/1951 –, hipótese em que não se admite o recurso extraordinário. Nesse sentido: AI 573.652-AgR, rel. min. Cármen Lúcia, DJ de 20.04.2007; AI 629.562-AgR, rel. min. Sepúlveda Pertence, DJ de 25.05.2007; AI 565.661-AgR, rel. min. Carlos Britto, DJ de 10.08.2006; AI 489.109-AgR, rel. min. Ellen Gracie, DJ de 20.04.2006.
+Finalmente, não há a alegada violação do art. 5º, LIV e LV. Com efeito, o acórdão recorrido inequivocamente prestou jurisdição, sem violação dos princípios do devido processo legal, do contraditório e da ampla defesa e com enfrentamento das questões suscitadas.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 10 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
