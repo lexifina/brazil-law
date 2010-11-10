@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. PRINCÍPIO TEMPUS REGIT ACTUM. IMPOSSIBILIDADE DA APLICAÇÃO RETROATIVA DA LEI NOVA. PRECEDENTES. AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“PREVIDENCIÁRIO E PROCESSUAL CIVIL- APELAÇÃO- AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO- AUXÍLIO-ACIDENTE- RECURSO OFICIAL E APELAÇÃO VOLUNTÁRIA DAS PARTES- CARÊNCIA DE AÇÃO POR FALTA DE INTERESSE DE AGIR – NÃO-OCORRÊNCIA - PRESCRIÇÃO QUINQUENAL DAS PARCELAS – OBSERVÂNCIA - BENEFÍCIO CONCEDIDO NO PERCENTUAL DE 40% DO SALÁRIO DE CONTRIBUIÇÃO- LEI 8.213/91- PEDIDO- MAJORAÇÃO PARA 50%- LEI 9.032/95- PRINCÍPIO DA RETROATIVIDADE DA LEI MAIS BENÉFICA- PROCEDÊNCIA DO PEDIDO - MANUTENÇÃO DA SENTENÇA”(fl. 66).
+3. No Recurso Extraordinário, o Agravante afirma que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXV, XXXVI, 93, inc. IX, e 195, § 5º, da Constituição da República.
+Argumenta que “a decisão recorrida enseja reforma, visto que, ao manter a determinação de pagamento do auxílio-acidente com base na nova lei, majorando-se o coeficiente de cálculo do benefício de 20% para 50%, o aludido acórdão conferiu retroatividade à Lei nº 9.032/95, que alterou o § 1º, do art. 86, da Lei nº 8.213/91, havendo, in casu, violação a ato jurídico perfeito (ato de concessão do benefício) e, a contrario senso, afronta a direito adquirido da Autarquia (calcular os benefícios de acordo com a lei vigente à época da concessão” (fl. 142, grifos no original).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 152-153).
+Examinados os elementos havidos nos autos, DECIDO.
+5. Inicialmente, cumpre afastar o fundamento da decisão agravada de que a controvérsia demandaria o exame de legislação infraconstitucional, pois a matéria é de natureza constitucional.
+Além disso, a matéria constitucional suscitada no recurso extraordinário foi objeto de debate e decisão prévios no Tribunal de origem.
+A jurisprudência do Supremo Tribunal firmou-se no sentido de que o requisito do prequestionamento não exige a menção expressa do dispositivo constitucional em exame. É suficiente que o Tribunal a quo examine a questão constitucional objeto do recurso extraordinário. Nesse sentido: RE 469.054-AgR, de minha relatoria, Primeira Turma, DJ 2.2.2007.
+Superado esse óbice, é de se concluir razão jurídica assiste ao Agravante.
+6. Em 8 de fevereiro de 2007, por maioria de votos, este Supremo Tribunal apreciou a questão da possibilidade, ou não, de retroação da Lei n. 9.032/95. Naquele julgamento, foram providos os Recursos Extraordinários ns. 416.827 e 415.454, interpostos pelo Instituto Nacional do Seguro Social - INSS.
+Em 9 de fevereiro de 2007, na sessão subsequente àquela, a decisão foi confirmada pelo Plenário, por unanimidade de votos, no julgamento coletivo de 4.908 Recursos Extraordinários. Na mesma assentada, o Tribunal decidiu isentar os Recorridos dos ônus de sucumbência, fixando em 1% (um por cento) do valor originário da causa os honorários devidos.
+Sedimentado está, portanto, o entendimento de que, não havendo disposição expressa quanto à retroatividade na Lei n. 9.032/95, o critério de concessão do benefício previdenciário nela previsto somente se aplica àquele concedido a partir de sua vigência (princípio tempus regit actum).
+Conquanto o quadro fático da presente ação distinga-se em seus contornos periféricos, dos precedentes, a questão nuclear não se distancia daquela matéria decidida nos casos paradigmas. Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ACIDENTE DE TRABALHO. IMPOSSIBILIDADE DE RETROATIVIDADE DA LEI N. 9.032/95. PRECEDENTES DO PLENÁRIO. REFORMA DO ACÓRDÃO. RESTABELECIMENTO DE SENTENÇA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 229.690-AgR, de minha relatoria, Primeira Turma, DJ 29.6.2007).
+“EMENTA Embargos de declaração no agravo de instrumento. Conversão dos embargos declaratórios em agravo regimental. Auxílio-acidente. Lei n. 9.032/95. Efeitos financeiros. Aplicação retroativa. Impossibilidade. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. Pacífica a jurisprudência desta Corte de que a aplicação dos efeitos financeiros introduzidos pela Lei n. 9.032/95 não alcança os benefícios concedidos nem aqueles cujos requisitos foram implementados antes da sua vigência. 3. Agravo regimental desprovido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil” (AI 621.625-ED, Rel. Min. Menezes Direito, Primeira Turma, DJe 29.5.2009).
+Dessa orientação divergiu o acórdão recorrido.
+7. Pelo exposto, dou provimento ao agravo de instrumento, na forma do art. 544, §§ 3º e 4º, do Código de Processo Civil, e, desde logo, ao recurso extraordinário, nos termos do art. 557, § 1º-A, do mesmo diploma legal, isentando a parte agravada dos ônus da sucumbência, incluídos os honorários advocatícios.
+Publique-se.
+Brasília, 10 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
