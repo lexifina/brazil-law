@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário que tem como violados os arts. 1º; 2º; 5º, caput, I, II, XXXV, LIV e LV; 37, caput; 62; e 93, IX, da Constituição e o art. 2º da Emenda Constitucional 32/2001. Cito a ementa do acórdão recorrido (fls. 183):
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. JUROS DE MORA. TAXA APLICÁVEL. O entendimento sobre a taxa de juros de mora aplicável aos débitos trabalhistas de entes públicos constituídos em decisão judicial por decorrer do exame das normas legais não configura ofensa ao princípio constitucional previsto no art. 5º, inciso II da Constituição Federal. CONTRIBUIÇÕES PREVIDENCIÁRIAS. ISENÇÃO.O entendimento do Supremo Tribunal Federal, expresso na ADI-MC-2028/DF, partiu de que a jurisprudência daquela Côrte considera que só é exigível lei complementar quando a Constituição lhe faz expressa referência, assim não ocorrendo se há alusão genérica a lei, quando estão compreendidas tanto a lei ordinária como a lei complementar. Inocorrência de ofensa à literalidade dos arts. 195, § 7º e 146, inciso II da Constituição Federal, quanto à exigência de preenchimento dos requisitos do art. 55 da Lei 8.212/91.
+Agravo de instrumento a que se nega provimento.”
+É o relato. Decido.
+A decisão recorrida contraria orientação firmada pelo Plenário do Supremo Tribunal Federal no julgamento do RE 453.740 (rel. min. Gilmar Mendes, DJ de 24.08.2007). Naquela oportunidade, a Corte declarou, incidentalmente e por maioria, a constitucionalidade do art. 1º-F da Lei 9.494/1997, introduzido pela Medida Provisória 2.180-35/2001, por reputar inexistente violação do princípio da isonomia.
+Do exposto, com base no art. 544, § 3º e § 4º, do Código de Processo Civil, dou provimento ao agravo e o converto em recurso extraordinário, para, nos termos do art. 557, § 1º-A, do referido diploma legal, dele conhecendo, dar-lhe provimento, para julgar improcedente a impugnação aos cálculos de atualização opostos pelo ora agravado.
+Publique-se.
+Brasília, 11 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
