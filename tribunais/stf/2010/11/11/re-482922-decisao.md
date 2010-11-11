@@ -1,0 +1,15 @@
+1.  Trata-se de recursos extraordinários interpostos de acórdão no qual se discutiu a possibilidade de creditamento de IPI no caso de aquisição de insumos não tributados, isentos ou sujeitos à alíquota zero (fls. 136-140).
+ Os embargos de declaração opostos foram acolhidos para sanar a omissão apontada e consignar que o creditamento do IPI na forma como deferido nestes autos, pode ser efetuado de imediato, não se aplicando o disposto no art. 170-A do CTN (fls. 148-150).
+2.  O RE da Trafo Equipamentos Elétricos S/A foi admitido na origem (fl. 201).
+3.  O RE da União foi inadmitido na origem (fl. 202), subindo os autos em virtude do provimento do AI 591.656/RS.
+4.  Quanto ao RE da Trafo Equipamentos Elétricos S/A (fls. 159-175), o Supremo Tribunal Federal reconheceu a existência de repercussão geral da matéria no RE 590.809-RG/RS, rel. Min. Marco Aurélio, DJe 13.3.2009.
+5.  No julgamento do RE 540.410-QO/RS, rel. Min. Cezar Peluso, DJe 16.10.2008, e do AI 715.423-QO/RS, de minha relatoria, DJe 04.9.2008, esta Corte decidiu que, nos casos de matérias com repercussão geral reconhecida, é possível a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais de origem, para os fins previstos no art. 543-B, § 3º, do CPC.
+6.  No que se refere ao RE da União (fls. 152-157), o recurso não merece prosperar, visto que foi protocolado em 1º.09.2004, data anterior ao da intimação do aresto dos declaratórios, que ocorreu em 25.07.2005 (fl. 158), razão pela qual é manifestamente extemporâneo.
+Pacífico é o entendimento desta Corte, segundo o qual a interposição de recursos somente é cabível após a publicação, no Diário da Justiça, da decisão contra a qual se recorre.
+Na hipótese de o protocolo das razões recursais realizar-se antes da veiculação do ato judicial a ser impugnado, a parte deve, após a divulgação no órgão oficial, ratificá-las, o que não ocorreu na espécie.
+Nesse sentido, AI 567.168-AgR, rel. Min. Celso de Mello, 2ª. Turma, unânime, DJ de 19.05.2006; AI 440.596-AgR-ED, rel. Min. Cezar Peluso, 1ª Turma, unânime, DJ de 07.04.2006; AI 627.371-AgR, de minha relatoria, Pleno, unânime, DJ de 24.08.2007, em cujo voto consignei que “não ratificado o recurso extraordinário, mesmo que os embargos tenham sido interpostos pela parte agravada, advém a sua extemporaneidade, conforme precedentes citados na decisão impugnada. Cabe lembrar que a partir da vigência da Lei 8.950/94, a oposição de embargos de declaração interrompe o prazo para apresentação de outros recursos”.
+7.  Dessa forma, nego seguimento ao recurso extraordinário da União de fls. 152-157 (art. 557, caput, do CPC) e quanto ao recurso extraordinário da Trafo Equipamentos Elétricos S/A (fls. 159-175), nos termos do art. 328 do RISTF, determino a devolução dos presentes autos ao Tribunal de origem, bem como a observância, no tocante ao apelo extremo interposto, das disposições do art. 543-B do Código de Processo Civil.
+Publique-se.
+Brasília, 11 de novembro de 2010.
+Ministra Ellen Gracie
+Relatora
