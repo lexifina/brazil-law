@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+“Precatório – Atualização de conta – Requisitório complementar – Juros moratórios e compensatórios – Artigo 33 do ADCT – Parcelas pagas incorretamente – Inexistência de prescrição e preclusão – Inexistência de violação de preceitos constitucionais e infraconstitucionais.
+Correção monetária – A jurisprudência desta Corte é pacífica no sentido de que a correção monetária pelo IPC não afronta o princípio da legalidade e continuou sendo aplicado depois da Lei nº 8.177/91 – Recursos improvidos” (fl. 133).
+ Os embargos de declaração opostos foram rejeitados (fls. 147-148).
+2.  No RE, sustenta-se ofensa aos arts. 5º, II, XXIV, e 37, caput, da Constituição Federal e o art. 33 do ADCT (fls. 181-187).
+3.  Preliminarmente, verifico que o artigo 37, caput, da Constituição Federal não foi prequestionado, porque não abordado pelo acórdão recorrido, nem mencionado nos embargos de declaração que foram opostos, não sendo satisfeito, portanto, o requisito do prequestionamento (Súmulas STF 282 e 356).
+4.  Não merece prosperar o presente recurso, quanto a questão do índice de correção monetária aplicável, dado que o acórdão recorrido decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie. Assim, eventual ofensa à Constituição Federal seria indireta ou reflexa, o que elide o processamento do recurso extraordinário. Nesse sentido cito o AI 797.364/RJ, rel. Min. Eros Grau, DJe 14.6.2010.
+5.  No que se refere à violação ao art. 33 do ADCT, este Supremo Tribunal Federal firmou posição segundo a qual não incidem juros moratórios e compensatórios quando a entidade de direito público realiza, dentro do prazo, o pagamento das prestações previstas no citado art. 33 do ADCT. Somente serão devidos juros moratórios, se houver atraso no pagamento. Nesse sentido: RE 155.981/SP, rel. Min. Marco Aurélio, Plenário, por maioria, DJ 23.02.2001; AI 643.732-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 26.06.2009; RE 235.217-AgR/PR, de minha relatoria, 2ª Turma, unânime, DJe 07.08.2009; RE 472.000/SP, rel. Min. Joaquim Barbosa, DJe 19.03.2010; RE 554.464/SP, rel. Min. Ricardo Lewandowski, DJe 11.03.2010; e RE 467.583/SP, rel. Min. Dias Toffoli, DJe 02.03.2010.
+6.  O acórdão divergiu desse entendimento, razão pela qual, com fundamento no artigo 557, §4º, do CPC, conheço do agravo e, desde logo, dou provimento ao recurso extraordinário para excluir da condenação a incidência de juros compensatórios no caso das parcelas pagas em atraso.
+Publique-se.
+Brasília, 11 de novembro de 2010.
+Ministra Ellen Gracie
+Relatora
