@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA DE COBRANÇA. RESGATE DE DEBÊNTURES DA ELETROBRÁS. COMPETÊNCIA.
+No julgamento realizado na data de 26/06/2008, a Corte Especial deste Tribunal, nos autos do Conflito de Competência nº 2007.04.036622-0 (Rel. Des. Luiz Carlos de Castro Lugon, pub. No DE em 16/07/2008) entendeu que, se a parte ajuíza a lide objetivando o resgate de debênture oriunda de empréstimo compulsório sobre energia elétrica, tão-só em desfavor da Eletrobrás, sem incluir no pólo passivo a União Federal, é da Justiça comum estadual a competência para o processo e julgamento do feito” (fl. 400).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 109, I, da mesma Carta e ao art. 34, § 12, do ADCT.
+O agravo não merece acolhida. É que a discussão sobre a legitimidade da União e a forma de litisconsórcio entre essa e a agravante demanda a análise da legislação infraconstitucional. É pacífico nesta Corte que não é cabível recurso extraordinário sob a alegação de má interpretação, aplicação ou inobservância de normas processuais. A afronta à Constituição, se ocorrente, seria indireta. Nesse sentido:
+“ EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. RESTITUIÇÃO. LEGITIMIDADE AD CAUSAM DA UNIÃO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUALSE NEGA PROVIMENTO”.(RE 583.117 AgR/PR, Rel. Min. Cármen Lúcia, Primeira Turma).
+No que concerne os critérios de correção, os Ministros desta Casa, no AI 735.933/RS, Rel. Min. Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral do tema constitucional versado nos presentes autos - critérios de correção monetária utilizados para a devolução do empréstimo compulsório incidente sobre o consumo de energia elétrica - consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação trecho da manifestação proferida pelo relator no referido julgado:
+“Verifico que a controvérsia relativa aos critérios de correção monetária utilizados para a devolução do empréstimo compulsório incidente sobre o consumo de energia elétrica, instituído pela Lei n. 4.156/62 é matéria de índole infraconstitucional. Eventual ofensa à Constituição Federal, se houvesse, seria de forma indireta, hipótese que impede a admissão do recurso extraordinário”.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 11 de novembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
