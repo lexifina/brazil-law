@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. BENEFÍCIO TRABALHISTA. PAGAMENTO DE CESTA BÁSICA. PRINCÍPIO DA ISONOMIA: IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 339 DO SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Superior do Trabalho:
+“RECURSO DE EMBARGOS INTERPOSTO NA VIGÊNCIA DA LEI N. 11.496/2007. ADMINISTRAÇÃO PÚBLICA INDIRETA. CESTAS BÁSICAS. AUSÊNCIA DE PREVISÃO LEGAL PARA O DEFERIMENTO DA PARCELA. IMPOSSIBILIDADE DE CONFERIR TRATAMENTO ISONÔMICO. AFRONTA AO PRINCÍPIO DA LEGALIDADE. 1. Sendo a Reclamada uma Autarquia Estadual e integrante da Administração Pública Indireta, a ela é aplicado o regime jurídico-administrativo, com todos os princípios norteadores da Administração Pública, a exemplo do art. 37, caput da Constituição Federal, que elenca os seguintes princípios: legalidade, impessoalidade, moralidade, publicidade e eficiência. 2. De acordo com o princípio da legalidade, a Administração Pública somente pode atuar quando expressamente autorizada ou permitida por lei, sob pena de se configurar a ilegalidade do ato administrativo praticado. 3. Na hipótese dos autos, conforme as premissas fáticas delineadas pelo Regional, a concessão da cestas básicas, mesmo aos empregados da capital, não tinha previsão legal. 4. Ora, não havendo previsão legal para o pagamento das cestas básicas, o seu pagamento, mesmo para os empregados da capital, implica nítida afronta ao princípio da legalidade, configurando, portanto, uma ilegalidade passível de invalidação. 5. Dessa feita, não é plausível que uma situação que nasceu sob o manto da ilegalidade possa gerar direitos a terceiros, sob o argumento de ofensa ao princípio da isonomia. Recurso de Embargos conhecido e desprovido” (fl. 133).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a inexistência de afronta à Constituição da República (fl. 159).
+4. Os Agravantes alegam que teriam sido contrariados os arts. 5º, caput, e 37, caput, da Constituição da República.
+Argumentam que, “a concessão da cesta básica somente aos trabalhadores da capital, com a exclusão dos servidores do interior, representa nítido tratamento discriminatório e desigual, em total desrespeito ao princípio constitucional da isonomia (...) até mesmo porque tais servidores estavam adstritos ao mesmo regime funcional da reclamada na capital – autarquia estadual” (fl. 153).
+Afirmam que “a concessão da cesta alimentação aos empregados da capital se deu por mera liberalidade da reclamada, diante da inexistência de previsão legal para a prática do ato, não podendo prevalecer o entendimento 'a quo' de observância ao princípio da legalidade, sobrepondo os princípios da isonomia, da impessoalidade e da moralidade” (fl. 153).
+Examinada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste aos Agravantes.
+6. A jurisprudência do Supremo Tribunal assentou que a equiparação salarial por isonomia não pode ser concedida por decisão judicial, sendo necessária a edição de lei específica para tanto. Incide no caso a Súmula 339 do Supremo Tribunal Federal.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. REMUNERAÇÃO. EQUIPARAÇÃO COM FUNDAMENTO NO PRINCÍPIO DA ISONOMIA: INCIDÊNCIA DA SÚMULA 339 DO SUPREMO TRIBUNAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 504.317-AgR, de minha relatoria, Primeira Turma, DJe 21.8.2009).
+E:
+“RECURSO. Extraordinário. Admissibilidade. Jurisprudência assentada. Súmula 339. Não pode o Judiciário, sob o pálio da isonomia, equiparar vencimentos de servidores sem previsão legal específica. 2. RECURSO. Embargos de declaração. Multa aplicada em agravo regimental. Art. 557, § 2º, do CPC. Depósito não efetuado pelo beneficiário da justiça gratuita. Não satisfação da condição para interposição de recurso. Embargos não conhecidos. Precedente. Aplica-se ao beneficiário da justiça gratuita a exigência de comprovação do depósito da multa de que trata o § 2º do art. 557 do CPC” (RE 286.512-AgR-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJe 19.6.2009).
+Nada há, pois, a prover quanto às alegações dos Agravantes.
+7. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 11 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
