@@ -1,0 +1,22 @@
+DECISÃO
+MANDADO DE SEGURANÇA. OMISSÃO DO PROCURADOR-GERAL DA REPÚBLICA EM APRECIAR, NO PRAZO LEGAL, PEDIDO DE RECONSIDERAÇÃO INTERPOSTO EM PROCESSO ADMINISTRATIVO. PEDIDO DE RECONSIDERAÇÃO APRECIADO. PERDA DE OBJETO DA RECLAMAÇÃO.
+Relatório
+1. Mandado de segurança, com pedido de medida liminar, impetrado por Regiane Sousa de Carvalho Presot, em 6.10.2010, contra omissão do Procurador-Geral da República “em decidir no prazo legal o pedido de reconsideração apresentado pela impetrante no Processo Administrativo Disciplinar n. 1.16.000.002981/2008-70” (fl. 1 da petição inicial).
+O caso
+2. A Impetrante relata que “era servidora pública federal ocupante do cargo de analista processual no Ministério Público da União, em exercício no Gabinete da Subprocuradora-Geral do Trabalho, Dra. Maria Guiomar Sanches de Mendonça, [e que] o Procurador-Geral da República, por meio da Portaria n. 346, de 13 de julho de 2010, aplicou a pena de demissão à impetrante” (fl. 2 da petição inicial).
+Explica que, “em 26 de julho de 2010, no prazo legal, foi apresentado pedido de reconsideração com efeito suspensivo, demonstrando o desacerto da decisão, [e que] até a presente data não [teria havido] decisão, embora haja decorrido o prazo legal de 30 dias para decidir, nos termos do parágrafo único do artigo 106 da Lei 8.112/1990” (fl. 2 da petição inicial).
+Argumenta que “a omissão impugnada configura[r]-se[-ia] ilegal, diante do princípio da legalidade destinado ao setor público, cujo conteúdo informa que a Administração Pública só deve fazer o que a lei determina e na forma que a lei determina, portanto, o cumprimento do prazo legal não [seria] uma discricionariedade do gestor público, mas um dever de agir na forma da lei, principalmente, quando a finalidade da lei é dar celeridade na resposta ao administrado em processos gravosos como os disciplinares, causadores de sofrimentos e prejuízos de diversas naturezas” (fl. 6 da petição inicial).
+Sustenta que haveria “violação ao due process of law, visto que a decisão para apreciar o pedido de reconsideração [seria] ato exclusivo do Procurador-Geral da República, nos termos do artigo 13, II, da Lei 9784/1999, [e que] no entanto, o pedido de reconsideração [teria sido] enviado do Gabinete do Procurador-Geral da República para o Secretário-Geral do Ministério Público da União, (...) autoridade apontada no referido recurso administrativo como violadora do princípio da impessoalidade” (fl. 7 da petição inicial).
+Pondera que seria “imperiosa a necessidade da determinação para que o próprio Procurador-Geral da República aprecie o pedido e decida, de modo que não seja levado a decidir por um parecer viciado pela parcialidade” (fl. 7 da petição inicial).
+A Impetrante ressalta que o fundamento relevante para o deferimento da medida liminar teria sido demonstrado pelos argumentos expostos e a “a urgência consubstanciada no perigo da demora encontra[r]-se[-ia] no fato de que a omissão da administração Pública est[aria] violando o direito líquido e certo da impetrante à decisão administrativa, bem como est[aria] a causar danos efetivos de natureza moral e material” (fl. 12 da petição inicial).
+Requer medida liminar “para o fim de [se] decidir o pleito deduzido no pedido de reconsideração apresentado no Processo Administrativo Disciplinar n. 1.16.000.002981/2009-70” (fl. 12 da petição inicial).
+No mérito, pede seja julgado “procedente o pedido e, ratificando-se a liminar, declar[ada] ilegal a omissão administrativa e determin[ado] prazo para que a decisão seja proferida; também, por conseguinte, requer-se a determinação para que o próprio Procurador-Geral da República aprecie o pedido e decida, não só por tratar-se de competência exclusiva, mas também devido à parcialidade do Secretário-Geral do Ministério Público da União” (fl. 13 da petição inicial).
+Pede, ainda, seja deferido o benefício da justiça gratuita (fl. 14).
+3. Em 19.10.2010, requisitei informações ao Procurador-Geral da República que, em 12.11.2010, por meio da Petição n. 65031/2010 esclareceu ter apreciado o pedido de reconsideração da ora Impetrante nos autos do Processo Administrativo Disciplinar n. 1.16.000.002981/2008-70.
+Examinados os elementos havidos nos autos, DECIDO.
+4. Atendido o pedido formulado neste mandado de segurança pela própria autoridade coatora nele indicada, há a perda de seu objeto.
+5. Pelo exposto, julgo prejudicado o mandado de segurança (art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 12 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
