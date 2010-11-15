@@ -1,0 +1,26 @@
+DECISÃO
+CONCURSO PÚBLICO – NOMEAÇÃO – PROJEÇÃO NO TEMPO – REMOÇÃO – PRIORIDADE – RELEVÂNCIA DEMONSTRADA – LIMINAR DEFERIDA EM PARTE.
+1. A Assessoria prestou as seguintes informações:
+Danielle Cunha Magalhães Freire e Elaine Cabral de Lacerda, à folha 2 à 18, afirmam ter sido aprovadas no 4º Concurso Público do Tribunal Regional Federal da 1ª Região para os cargos de Analista Judiciário e Técnico Judiciário, respectivamente. A homologação dos resultados ocorreu em 1º de junho e 28 de novembro de 2007. Aduzem que a validade do certame é de dois anos, prorrogáveis por igual período.
+Sustentam destinar-se o provimento do referido concurso aos cargos constantes no Anexo III do Edital de Abertura e aos cargos que, porventura, estivessem vagos quando da homologação do certame. Asseveram ser norma expressa do citado Edital que “os cargos que vierem a vagar ou forem criados durante o prazo de validade do concurso, em cada localidade, serão destinados alternadamente, ora para o candidato aprovado no concurso ora por via de remoção” (itens 2 e 2.2 das Disposições Preliminares).
+Aduzem ter o Conselho Nacional de Justiça – CNJ proferido decisão nos autos do Procedimento de Controle Administrativo nº 3801-02.2010.2.00.0000, em 20 de setembro de 2010, no sentido de declarar a ilegalidade da alínea “b” do artigo 6º da Resolução nº 630-5/2008 do Tribunal Regional Federal da 1ª Região, que prevê:
+Art. 6º - Os claros (sic) de lotação decorrentes das movimentações serão preenchidos:
+a) Por meio de remanejamento de cargo vago da mesma carreira, observados os quantitativos previstos na Resolução 5 de 13/04/1999 do TRF 1ª Região e alterações;
+b) Pela nomeação de candidato aprovado em Concurso público para Provimento de Cargos na Justiça Federal de 1º e 2º graus da Primeira Região, observada a alternância entre nomeação e remoção; ou
+c) Pela remoção de servidor de outra localidade.
+Afirmam haver a decisão do CNJ estabelecido uma precedência do critério de remoção em detrimento do de nomeação, fato que terminou por criar duas classes de concursados: os nomeados antes da mencionada decisão e os que ainda aguardam a nomeação. Anotam ter sido o concurso regionalizado, ou seja, cada candidato escolhia previamente as lotações às quais desejava concorrer por ocasião da inscrição, vinculando-os à opção originária.
+Defendem a necessidade de serem observados os princípios da legalidade e da moralidade, atentando-se a Administração às regras legais e normativas regentes do aludido concurso. Assinalam que o edital, na hipótese, é considerado “lei entre as partes”, descabendo falar-se em possibilidade de alteração do instrumento convocatório. Assim, a modificação nas regras após três anos da homologação do citado certame afrontaria o ato jurídico perfeito e o princípio da isonomia, sendo imprescindível a atuação do Supremo a fim de modular os efeitos da decisão do CNJ. Além disso, argumentam que a declaração de ilegalidade da regra de alternância prevista no edital do concurso pelo CNJ, sem a oitiva prévia dos interessados, viola os princípios da ampla defesa e do devido processo legal.
+Ao final, citam estar a questão sob análise do Superior Tribunal de Justiça, no Recurso em Mandado de Segurança nº 27.209/DF, sendo recorrente o Sindicato dos Servidores do Poder Judiciário e do Ministério Público da União e do Distrito Federal – SINDJUS/DF. Aludem ao fato de o Sindicato figurar como mero substituto processual.
+Requerem, liminarmente, a suspensão da decisão do CNJ proferida nos autos do Procedimento de Controle Administrativo nº 3801-02.2010.2.00.0000 e, no mérito, a nulidade da referida decisão ou, alternativamente, a modulação de efeitos da declaração de ilegalidade do artigo 6º, alínea “b”, da Resolução nº 630-5/2008 do Tribunal Regional Federal da 1º Região, de modo que esta seja aplicada apenas aos concursos públicos cujos editais foram homologados após a publicação do acórdão do CNJ.
+Com a inicial vieram os documentos eletronicamente juntados.
+Anoto ter sido a impetração formalizada em 9 de novembro de 2010.
+O processo está concluso para exame do pedido de medida acauteladora.
+2. Surge relevante o que consignado na inicial deste mandado de segurança. Ao lado da matéria alusiva ao devido processo legal administrativo, há a referente à circunstância de o ato do Conselho Nacional de Justiça acabar por beneficiar aqueles que, em razão da classificação, já foram nomeados e, assim, serão removidos, sem observar-se a vacância dos cargos, para o aproveitamento de candidatos do mesmo concurso que poderiam vir a ocupá-los.
+3. Defiro a medida acauteladora para, relativamente ao mesmo concurso, suspender a eficácia do ato do Conselho Nacional de Justiça no que permite a remoção dos candidatos nomeados para os cargos a que teriam jus os aprovados que aguardam a vacância.
+4. Solicitem informações ao Conselho Nacional de Justiça.
+5. Apresentem as impetrantes a relação dos candidatos favorecidos pelo ato do Conselho Nacional de Justiça, os quais devem constar, na relação subjetiva processual, como litisconsortes passivos.
+6. Após as manifestações, inclusive dos citados litisconsortes, colham o parecer do Procurador-Geral da República.
+7. Publiquem.
+Brasília – residência –, 15 de novembro de 2010, às 19h55.
+Ministro MARCO AURÉLIO
+Relator
