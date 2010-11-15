@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. AUXÍLIO-INVALIDEZ. IRREDUTIBILIDADE. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS E DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Superior Tribunal de Justiça:
+“MANDADO DE SEGURANÇA. REDUÇÃO DE VANTAGEM. AUXÍLIO-INVALIDEZ. DECADÊNCIA. NÃO OCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. MILITAR. AUXÍLIO-INVALIDEZ. ALTERAÇÃO NA FORMA DE CÁLCULO. PORTARIA N.º 931. OFENSA À IRREDUTIBILIDADE DE VENCIMENTOS. PRECEDENTES.
+1. De acordo com entendimento consolidado desta Terceira Seção, a redução do benefício do auxílio-invalidez, por força da edição da Portaria nº 931/MD, tem natureza de relação jurídica de trato sucessivo, que se renova a cada mês. Precedentes.
+2. Pacificou-se nesta Corte a tese de que a edição da Portaria nº 931/MD, de 01/08/2005, que revogou a Portaria nº 406/MD, de 14/04/2004, importou em redução no valor do auxílio-invalidez, de modo a afrontar o princípio constitucional da irredutibilidade de vencimentos.
+3. Segurança concedida” (fl. 97).
+3. No Recurso Extraordinário, a Agravante afirma que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXVI e LXIX , 37, caput, inc. XV, da Constituição da República.
+Argumenta que “não se há falar em ilegalidade a ser atacada via mandamental, eis que o ato contra o qual se insurge o Impetrante apenas restaurou a legalidade no pagamento do benefício do auxílio-invalidez. Na verdade, o que houve foi o recebimento indevido pelo Impetrante de valores a maior de auxílio-invalidez, ilegalidade esta que foi devidamente corrigida pela Administração, em homenagem ao Princípio da Autotutela” (fl. 138, grifos no original).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula 279 deste Supremo Tribunal (fl. 150-151).
+Examinados os elementos havidos nos autos, DECIDO.
+5. Não assiste razão jurídica à Agravante.
+6. No voto condutor do acórdão recorrido, o Ministro Relator afirmou:
+“No mérito, requer o impetrante a concessão da segurança, para que seja determinado o restabelecimento da parcela, relativa ao auxílio-invalidez, que era paga, na vigência da Portaria nº 406/MD, no valor do soldo de cabo engajado.
+Consoante jurisprudência pacífica do Excelso Pretório e desta Corte Superior de Justiça, o servidor público não tem direito adquirido à imutabilidade do regime jurídico de composição dos vencimentos, desde que respeitado seu valor nominal, em atenção à garantia constitucional da irredutibilidade de vencimentos.
+Dessa forma, a edição da Portaria nº 931/MD, que implicou na redução do auxílio-invalidez percebido pelo impetrante, de R$ 876,00 (oitocentos e setenta e seis reais) para R$ 313,50 (trezentos e treze reais e cinquenta centavos), incorreu em flagrante ofensa ao direito do servidor público à irredutibilidade de seus vencimentos, insculpido no art. 37, XV, da Constituição Federal.
+Em assim sendo, ante a ilegal irredutibilidade emanada dos atos sucessivos e mensais da autoridade coatora, deve o presente mandamus ser concedido, a fim de seja mantido o valor nominal de sua remuneração.
+A matéria já é pacífica nesta Corte, que consolidou a tese de que a edição da Portaria nº 931/MD, de 01/08/2005, que revogou a Portaria nº 406/MD, de 14/04/2004, importou em redução no valor do auxílio-invalidez, de modo a afrontar o princípio constitucional da irredutibilidade de vencimentos” (fls. 98-99).
+7. A jurisprudência do Supremo Tribunal Federal assentou que não há direito adquirido à forma de cálculo de remuneração, desde que seja resguardada a sua irredutibilidade.
+Na espécie vertente, o Superior Tribunal de Justiça constatou que a alteração da forma de cálculo do auxílio-invalidez importou em redução da remuneração do Agravado.
+Concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame do conjunto probatório constante dos autos e de legislação infraconstitucional, procedimento incabível de ser adotado validamente no recurso extraordinário. Incide, pois, a Súmula 279 do Supremo Tribunal Federal. Nessa linha:
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MILITAR. ALTERAÇÃO NO SISTEMA DE CÁLCULO DO AUXÍLIO-INVALIDEZ PELA MEDIDA PROVISÓRIA N. 2.131/2000. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REXAME DE PROVAS EM RECURSO EXTRAORDINÁRIO: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil”(RE 535.687-AgR/PR, de minha relatoria, Primeira Turma, DJ 17.4.2009).
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. ALTERAÇÃO NA FORMA DE COMPOSIÇÃO SALARIAL. PRESERVAÇÃO DO VALOR NOMINAL. OFENSA AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. INOCORRÊNCIA. 1. Não há direito adquirido a regime jurídico, sendo possível, portanto, a redução ou mesmo a supressão de gratificações ou outras parcelas remuneratórias, desde que preservado o valor nominal da remuneração. Precedentes. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento”(RE 593.711-AgR/PE, Rel. Min. Eros Grau, Segunda Turma,17.4.2009).
+8. Ademais, o Supremo Tribunal Federal afirmou que a alegação de contrariedade ao art. 5º, inc. XXXVI, da Constituição da República, se dependente do exame de legislação infraconstitucional, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+Não há o que prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 15 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
