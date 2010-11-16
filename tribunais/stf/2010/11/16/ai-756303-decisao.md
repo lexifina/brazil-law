@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“EMBARGOS INFRINGENTES. PREVIDÊNCIA PRIVADA. FUNCEF. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVISÃO REGULAMENTAR. DISTINÇÃO ENTRE O PERCENTUAL PARA HOMENS E MULHERES. OFENSA AO ARTIGO 5º, I DA CONSTITUIÇÃO FEDERAL.
+Vulnera o artigo 5º, I da Constituição Federal de 1988, norma regulamentar estipulando percentual em patamar inferior para o benefício de complementação de aposentadoria em razão do sexo dos participantes do plano. Precedentes da Câmara e do Terceiro Grupo de Câmaras Cíveis.
+EMBARGOS INFRINGENTES DESACOLHIDOS, POR MAIORIA” (fl. 476).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, I, XXXVI e LV, 195, § 5º, 202, § 1º, com redação anterior da Emenda Constitucional 20/98, e 202, caput, da mesma Carta.
+O agravo não merece acolhida. É que o agravante deixou de atacar o fundamento da decisão agravada, referente ao óbice da Súmula 454 do STF. Verifico, que o agravante se insurge somente contra a parte da decisão que negou seguimento ao recurso extraordinário com base na falta de prequestionamento dos dispositivos Constitucionais suscitados. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Nesse sentido, menciono julgados de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 317, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. 1. O Agravante tem o dever de impugnar, de forma específica, os fundamentos da decisão agravada, sob pena de não seguimento do agravo regimental (art. 317, § 1º, do RISTF). 2. Inviável o agravo regimental que se limita a reiterar as razões do recurso extraordinário, sem abordar o fundamento específico da decisão agravada” (AI 394.997-AgR/CE, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO DE INSTRUMENTO - AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS EM QUE SE ASSENTOU O ATO DECISÓRIO QUESTIONADO - RECURSO IMPROVIDO. O RECURSO DE AGRAVO DEVE IMPUGNAR, ESPECIFICADAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. - O recurso de agravo a que se referem os arts. 545 e 557, § 1º, ambos do CPC, na redação dada pela Lei nº 9.756/98, deve infirmar todos os fundamentos jurídicos em que se assenta a decisão agravada. O descumprimento dessa obrigação processual, por parte do recorrente, torna inviável o recurso de agravo por ele interposto. Precedentes” (AI 277.399-AgR/AM, Rel. Min. Celso de Mello, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 16 de novembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
