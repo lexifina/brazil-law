@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região ementado nos seguintes termos:
+“ADMINISTRATIVO. DISPENSA DE ESTUDANTE DE MEDICINA DO SERVIÇO MILITAR POR EXCESSO DE CONTIGENTE.
+Como o autor foi dispensado do serviço militar por excesso de contigente, incabível a sua convocação após a conclusão do curso.” (fl. 14)
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, o recorrente sustenta a repercussão geral da matéria deduzida no recurso. No mérito, alega que houve ofensa aos artigos 1º, I; 5º, caput, XIII, XXXV, LIV, LV e § 2º; 93, IX; 97; 142 e 143, da Constituição Federal.
+A agravante argumenta, em síntese, que a Lei 5.292/1967 possibilita à Administração Militar convocar, para prestação de serviço militar como oficial, estudantes de medicina, farmácia, odontologia e veterinária que tenham obtido o adiamento da incorporação, bem como aqueles que foram incluídos no excesso de contigente. Ressalta que a dispensa de incorporação não torna o brasileiro imune a futura convocação e que a referida lei foi recepcionada pela Constituição Federal de 1988, no artigo 143.
+Decido
+Não assiste razão à agravante.
+Inicialmente, registre-se que o acórdão recorrido encontra-se devidamente fundamentado, sendo pacífico o entendimento desta Corte no sentido de que, se a decisão estiver apropriadamente fundamentada, ainda que não tenha enfrentado especificamente todos os argumentos trazidos pelos recorrentes, não há que se falar em violação aos arts. 5º XXXV, LIV, LV, e 93, IX, da Constituição Federal.
+Saliente-se, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, ementada nos seguintes termos:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (grifei)(AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Pleno, DJe 13.8.2010 ).
+Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses dos agravantes. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação.
+Ademais, verifico que a controvérsia posta nos autos está restrita ao âmbito da interpretação da legislação infraconstitucional, ou seja, das Leis 4.375/64 e 5.292/67. Assim, eventual ofensa à Constituição Federal, se houvesse, seria indireta, hipótese que impede a admissão de recurso extraordinário, a teor da Súmula 280 do STF.
+Nesse sentido, por se tratar de controvérsia idêntica, cito as decisões monocráticas: RE 294.033, Rel. Min. Carlos Velloso, DJ 4.5.2004; AI 615.302/RS, de minha relatoria, DJ 6.6.2007; AI 818.939/RS, Rel. Min Ricardo Lewandowski, DJe 30.9.2010; AI 817.694/RS Rel. Min Ricardo Lewandowski, DJe 30.9.2010, AI 804.981, Rel. Min Ricardo Lewandowski, DJe 23.8.2010, e AI 793.110/RS, Rel. Min. Cármen Lúcia, DJe 4.5.2010.
+Ante exposto, nego seguimento ao recurso. (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 16 de novembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
