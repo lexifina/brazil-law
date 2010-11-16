@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONTRIBUIÇÃO PREVIDENCIÁRIA INSTITUÍDA PELA LEI COMPLEMENTAR 943/2003, DO ESTADO DE SÃO PAULO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL. SÚMULA 280 SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a e c, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“CONTRIBUIÇÃO PREVIDENCIÁRIA – SERVIDORES DA ATIVA. Servidores públicos da ativa que pretende, a condenação da ré à devolução das contribuições previdenciárias instituídas pela Lei Complementar 943/2003. Sentença de parcial procedência, condenando a ré à devolução das parcelas que superam o limite estabelecido para os trabalhadores vinculados ao RGPS – Regime Geral de Previdência Social. Inaplicabilidade do julgamento proferido na ADIn 3.105/8:- limitação que não quadra ao caso dos servidores da ativa. Constitucionalidade das Leis Complementares 943 e 954 de 2003 decidida no julgamento da ADIn 107.124-0/9-00, pelo Colendo Órgão Especial. Decisão de caráter vinculante e erga omnes (art. 28, parágrafo único da Lei Federal 9.868/1999). Recurso e remessa oficial necessária providos” (fl. 165).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 247-248).
+4. Os Agravantes alegam que teriam sido contrariados os arts. 150, inc. II, 167, inc. XI, e 201 da Constituição da República.
+Argumentam que “a finalidade da Lei Complementar 943/03 é pura e simplesmente criar um novo tributo, sem que o Estado de São Paulo tenha organizado, por Lei, o seu sistema de Previdência (...) foi apenas com a promulgação da Lei Complementar 1010/07 que a recorrida cumpriu com o preceito constitucional previsto no art. 40, § 12 da Lex Mater, criando por lei o sistema de previdência que receberá os recursos arrecadados” (fls. 177-178, grifos no original).
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão de direito não assiste aos Agravantes.
+6. O Tribunal de origem apreciou a questão com base na legislação local aplicável à espécie (Leis Complementares estaduais 943/2003, 954/2003 e 1.010/2007). Os Agravantes pretendem a análise da adequação do regime de previdência instituído pelo Agravado nos termos da legislação local. Assim, a alegada contrariedade à Constituição, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DESCONTOS. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL (SÚMULAS 282 E 356). LEI COMPLEMENTAR ESTADUAL N. 943/03. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 661.559-AgR, de minha relatoria, DJe 3.4.2009).
+“CONSTITUCIONAL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDORES INATIVOS. DEVOLUÇÃO DE VALORES DESCONTADOS NA VIGÊNCIA DA EC 20/98 ATÉ A EC 41/03. LEIS ESTADUAIS 180/78 E 954/03. ARTIGOS 40, § 7º, E 195, § 6º, DA CF. SÚMULA 280. 1. Para se concluir, como pretende a parte agravante, pela devolução das parcelas pagas após a vigência da EC 41/03, e pelo pretenso direito dos dependentes de receberem a pensão do IPESP, seria necessário o reexame da legislação local, o que é defeso nesta via extraordinária (Súmula STF 280). 2. Agravo regimental improvido” (AI 669.223-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 21.8.2009).
+E, ainda, as seguintes decisões monocráticas: RE 598.159, Rel. Min. Ricardo Lewandowski, DJe 24.4.2009; e RE 605.445, Rel. Min. Eros Grau, DJe 18.12.2009.
+Não há, pois, o que prover quanto às alegações dos Agravantes.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
