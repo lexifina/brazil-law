@@ -1,0 +1,12 @@
+D ECIS Ã O:
+Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça. Acórdão que manteve a condenação do paciente pelo delito de furto qualificado, na forma tentada.
+2. Pois bem, a Defensoria Pública da União, impetrante, insiste na desclassificação da conduta protagonizada pelo paciente. Isto sob a alegação de que, na falta de exame pericial, não é de se reconhecer a qualificadora do arrombamento. Até porque, prossegue a acionante, “não há nos autos nenhum elemento comprobatório que demonstre realmente o dano material [...], tanto que o julgador declarou expressamente que 'não há notícias de que chegaram a ocorrer danos na porta'” (fls. 06). Daí o pedido de medida liminar, formulado para “obstar o acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça” (fls. 13).
+3. Feita esta síntese do pedido, decido. Fazendo-o, acentuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+4. No caso, não enxergo de imediato a presença dos pressupostos autorizadores da medida liminar e por isso a indefiro. Até porque, em sede cautelar, fica difícil afastar a premissa contida no acórdão impugnado, no sentido de que “o agente, animado pela vontade de adentrar forçosamente a residência da vítima e dele subtrair bens de algum proveito econômico, iniciou a execução do crime por que terminou condenado. É verdade, a subtração – elementar do furto simples – ainda não havia sido principiada, mas o arrombamento, componente do tipo derivado furto qualificado, sim e só não foi concluído porque obstado pela intervenção policial tempestiva.”
+5. Abra-se vista para a Procuradoria-Geral da República.
+Publique-se.
+Intime-se.
+Brasília, 16 de novembro de 2010.
+Ministro A YRES B RITTO
+Relator
+Documento assinado digitalmente
