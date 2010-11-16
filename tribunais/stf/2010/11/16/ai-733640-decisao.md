@@ -1,0 +1,16 @@
+DECISÃO: Trata-se agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal), interposto de acórdão proferido por Tribunal de Justiça estadual, em que se alega violação do disposto nos arts. 1º, III; 3º, I e IV; 5º, caput, XXXV e LV; 18; 24, XII; 25, caput e §§ 1º, 2º e 3º; 149, § 1º; 150, II, e 195, § 4º, da Constituição federal.
+O recurso não merece seguimento.
+Inicialmente, verifico que inexiste a alegada ofensa ao art. 5°, XXXV e LV, da Constituição federal, pois o Tribunal de origem inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte.
+As alegadas ofensas aos arts. 1º; 18; 24, XII; 25, §§ 1º, 2º e 3º; 149, § 1º, e 195, § 4º, da Constituição federal não foram ventiladas no acórdão recorrido nem foram objeto de embargos de declaração. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356/STF).
+Ainda que superado tal óbice, saliento que o Plenário desta Corte, no julgamento do RE 573.540 (rel. min. Gilmar Mendes, DJe de 11.06.2010), firmou orientação em sentido contrário à pretensão do agravante. Confira-se:
+“EMENTA: CONTRIBUIÇÃO PARA O CUSTEIO DOS SERVIÇOS DE ASSISTÊNCIA MÉDICA, HOSPITALAR, ODONTOLÓGICA E FARMACEÚTICA. ART. 85 DA LEI COMPLEMENTAR Nº 62/2002, DO ESTADO DE MINAS GERAIS. NATUREZA TRIBUTÁRIA. COMPULSORIEDADE. DISTRIBUIÇÃO DE COMPETÊNCIAS TRIBUTÁRIAS. ROL TAXATIVO. INCOMPETÊNCIA DO ESTADO-MEMBRO. INCONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO NÃO PROVIDO.
+I – É nítida a natureza tributária da contribuição instituída pelo art. 85 da Lei Complementar nº 64/2002, do Estado de Minas Gerais, haja vista a compulsoriedade de sua cobrança.
+II – O art. 149, caput, da Constituição atribui à União a competência exclusiva para a instituição de contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais e econômicas. Essa regra contempla duas exceções, contidas no arts. 149, § 1º, e 149-A da Constituição. À exceção desses dois casos, aos Estados-membros não foi atribuída competência para a instituição de contribuição, seja qual for a sua finalidade.
+III – A competência, privativa ou concorrente, para legislar sobre determinada matéria não implica automaticamente a competência para a instituição de tributos. Os entes federativos somente podem instituir os impostos e as contribuições que lhes foram expressamente outorgados pela Constituição.
+IV – Os Estados-membros podem instituir apenas contribuição que tenha por finalidade o custeio do regime de previdência de seus servidores. A expressão regime previdenciário não abrange a prestação de serviços médicos, hospitalares, odontológicos e farmacêuticos.”
+Por fim, observo que a análise da questão referente à taxa de juros a ser aplicada na restituição do indébito tributário demandaria o prévio exame da legislação infraconstitucional, de forma que eventual ofensa à Constituição federal, acaso existente, seria meramente indireta ou reflexa, insuscetível, portanto, de ser conhecida na via estreita do recurso extraordinário (Súmula 636/STF).
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 16 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
