@@ -1,0 +1,25 @@
+1.  Trata-se de habeas corpus com pedido de medida liminar impetrado em favor de EDIVAL PEREIRA SOARES e VALÉRIO RIBEIRO DOS SANTOS , em que se aponta como autoridade coatora o Ministro Haroldo Rodrigues (Desembargador convocado do TJ/CE), relator do HC 187.171/MT, anteriormente ajuizado perante o Superior Tribunal de Justiça.
+2.  No caso sob análise, os pacientes, em 03 de setembro de 2010, na cidade de Rondonópolis-MT, foram presos em flagrante delito transportando e comercializando substância entorpecente (cocaína). O flagrante foi homologado pelo Juízo de Direito da 1ª Vara Criminal da Comarca de Rondonópolis-MT.
+O Tribunal de Justiça do Estado do Mato Grosso denegou pedido de habeas corpus impetrado em favor dos ora pacientes.
+No Superior Tribunal de Justiça, o Ministro Haroldo Rodrigues indeferiu a liminar no HC 187.171/MT. Daí o presente writ.
+3.  Neste habeas corpus, o impetrante alega, em síntese, que não houve fundamentação válida na decisão que homologou a prisão em flagrante dos pacientes. Segundo assevera, a dita decisão se fundou apenas na vedação à liberdade provisória contida no art. 44 da Lei 11.343/06.
+Assim, requer, preliminarmente, o abrandamento do rigor da Súmula 691/STF, de modo a possibilitar o conhecimento do presente habeas corpus e o deferimento de medida liminar para que sejam colocados imediatamente os pacientes em liberdade.
+4.  O Ministro Haroldo Rodrigues indeferiu a liminar no HC 187.171/MT nos seguintes termos:
+“Cuida-se de habeas corpus impetrado em favor de Edival Pereira Soares e Valério Ribeiro dos Santos, presos em flagrante por tráfico de drogas e associação para o tráfico, apontando-se como autoridade coatora o Tribunal de Justiça de Mato Grosso, no qual se busca o relaxamento da prisão dos pacientes por falta de fundamentação da decisão que homologou o flagrante.
+A liminar, na via eleita, não tem previsão legal, sendo criação da jurisprudência para casos em que a urgência, necessidade e relevância da medida se mostrem evidenciadas de forma indiscutível na própria impetração e nos elementos de prova que a acompanham.
+No caso, o constrangimento não se mostra com a nitidez imprimida na inicial, estando a exigir um exame mais detalhado dos elementos de convicção carreados aos autos, o que ocorrerá por ocasião do julgamento definitivo.
+Ante o exposto, indefiro a liminar”.
+5.  O rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de supressão de instância.
+6.  Ademais, o tema tratado neste writ, referente à constitucionalidade da vedação da liberdade provisória nos crimes de tráfico de drogas, malgrado polêmico, encontra apoio na jurisprudência desta Suprema Corte, conforme se observa no HC 103.406/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 09.09.2010:
+“HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE DEMORA NO JULGAMENTO DO MÉRITO DE HABEAS CORPUS PELO SUPERIOR TRIBUNAL DE JUSTIÇA. EXCESSO DE IMPETRAÇÕES NA CORTE SUPERIOR PENDENTES DE JULGAMENTO. FLEXIBILIZAÇÃO DA DESEJÁVEL CELERIDADE NO JULGAMENTO QUE SE MOSTRA COMPREENSÍVEL. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. LIBERDADE PROVISÓRIA. INADMISSIBILIDADE. VEDAÇÃO CONSTITUCIONAL. DELITOS INAFIANÇÁVEIS. ART. 5º, XLIII, DA CONSTITUIÇÃO. NÃO CONFIGURADO O CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+I - O excesso de trabalho que assoberba o STJ permite a flexibilização, em alguma medida, da desejável celeridade processual.
+II - A concessão da ordem para determinar o julgamento do writ na Corte a quo, ademais, poderia redundar na injustiça de se determinar que a impetração manejada em favor do paciente seja colocada em posição privilegiada em relação a de outros jurisdicionados.
+III - Apesar de o tema ainda não ter sido analisado definitivamente pelo Plenário deste Tribunal, a atual jurisprudência é firme no sentido de que é legítima a proibição de liberdade provisória nos crimes de tráfico ilícito de entorpecentes, uma vez que ela decorre da inafiançabilidade prevista no art. 5º, XLIII, da Carta Magna e da vedação estabelecida no art. 44 da Lei 11.343/2006.
+IV - Não há indicação de qualquer ato flagrantemente ilegal, que recomende o exame per saltum da matéria por esta Suprema Corte.
+V - Ordem denegada”.
+7.  Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
+Brasília, 16 de novembro de 2010.
+Ministra Ellen Gracie
+Relatora
