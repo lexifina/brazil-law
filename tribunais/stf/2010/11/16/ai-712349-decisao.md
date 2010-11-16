@@ -1,0 +1,13 @@
+DECISÃO : Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão de Turma Recursal, cuja ementa é do seguinte teor:
+“Recurso Cível. Ação de reparação de danos materiais e morais causados por acidente de trânsito. Recurso em EMBARGOS À EXECUÇÃO. Sentença parcialmente reformada. I) Exclusão da condenação em litigância de má-fé, tendo em vista que os argumentos utilizados pela empresa recorrente para embasar seus embargos à execução são plenamente aceitáveis, apesar de terem sido considerados improcedentes pelo julgador monocrático. II) Indenização por danos morais é devida correção monetária a partir da data em que a fixou. Confira-se o seguinte precedente. 'Em se tratando de indenização por danos morais, a correção monetária deve incidir a partir da data da fixação do quantum devido.' (20030710197795ACJ), Relator JESUÍNO RISSATO, Primeira Turma Recursal dos Juizados Especiais Cíveis e Criminais do D.F., julgado em 22/02/2005, DJ 11/04/2005 p.).
+Recurso conhecido e provido parcialmente.” (Fls. 150)
+No recurso extraordinário, a parte agravante alega que o acórdão recorrido violou o art. 5º, LIV e LV, da Constituição federal.
+Sustenta, em síntese, que houve cerceamento de defesa e violação ao devido processo legal porque “(...) A audiência de instrução realizada no dia 06 de junho de 2005 na qual fora decretada a pena de revelia da empresa recorrente por ausência da parte e de seu advogado, bem como julgado procedente a lide é nula de pleno direito, por falta de intimação do patrono da recorrente para comparecimento à r. Audiência.” (Fls. 177)
+É o relatório. Decido.
+Quanto à alegada nulidade da intimação, a Turma Recursal confirmou o entendimento firmado pelo Juízo monocrático de que “(...) a intimação realizada às fls. 23 o foi na pessoa de Francisco de Assis Fernandes, cuja identidade leva o número 181858, pessoa devidamente identificada, conforme orientação pacífica jurisprudencial na qual a intimação/citação se reputa eficaz se realizada através de recepcionista da pessoa jurídica, se esta for identificada.” (Fls. 98)
+Impossível chegar a conclusão diversa sem o reexame das normas processuais infraconstitucionais e das provas que fundamentaram o acórdão recorrido, de modo que a alegada violação aos dispositivos constitucionais, se houvesse, seria indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 536.100-AgR (rel. min. Ayres Britto, DJ de 08.09.2006) e AI 513.992-AgR (rel. min. Sepúlveda Pertence, DJ de 18.03.2005) .
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 16 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
