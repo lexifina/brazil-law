@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – DEVIDO PROCESSO LEGAL – INOBSERVÂNCIA – AGRAVO PROVIDO – CONVERSÃO EM RECURSO EXTRAORDINÁRIO.
+1. Na interposição deste agravo, foram observados os pressupostos de recorribilidade. A peça, subscrita por procuradora do Estado, veio acompanhada dos documentos previstos no artigo 544 do Código de Processo Civil e restou protocolada no prazo dobrado a que tem jus o agravante.
+2. Constata-se que a Corte de origem, mesmo diante da interposição de embargos declaratórios, furtou-se a enfrentar a alegação do Instituto de que o pagamento do valor objeto da condenação por meio de requisição de pequeno valor implicaria o provimento parcial do pedido formulado na apelação – uma vez que na sentença tinha-se determinado o pagamento mediante a inclusão em folha de pagamento. Vale dizer que a prestação jurisdicional não foi entregue de maneira completa. Mais do que isso, tal postura – a recusa ao indispensável pronunciamento - acabou, sob o ângulo da matéria de fundo, por inviabilizar o acesso a esta Corte. Os jurisdicionados contam com a garantia constitucional do crivo em vista das balizas subjetivas e objetivas da lide, devendo o órgão julgador manifestar-se sobre os diversos tópicos veiculados a título de defesa. Precedentes: Recursos Extraordinários nºs 154.159-8/PR, 158.215-4/RS, 170.463-2/DF, 184.104-4/PE, 194.946-5/RS e 223.230-6/SP.
+3. Conheço deste agravo e o provejo, assentando encontrar-se o extraordinário enquadrado no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Estando nos autos as peças indispensáveis à apreciação, neles próprios, do extraordinário, aciono o disposto no § 4º do artigo 544 do Código de Processo Civil. Autuem, distribuindo-se na forma regimental para colher-se, a seguir, o parecer da Procuradoria Geral da República.
+4. Publiquem.
+Brasília, 16 de novembro de 2010.
+Ministro MARCO AURÉLIO
+Relator
