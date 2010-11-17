@@ -1,0 +1,24 @@
+DECISÃO
+HABEAS CORPUS – PREJUÍZO.
+1. A Assessoria prestou as seguintes informações:
+Na decisão que implicou o indeferimento da medida liminar, a espécie ficou assim resumida (folhas 80 e 81):
+RECURSO ORDINÁRIO EM HABEAS CORPUS – JULGAMENTO – IMPETRAÇÃO SUCESSIVA – LIMINAR - DESCOMPASSO – INDEFERIMENTO.
+1. A Assessoria assim veio a retratar este habeas corpus:
+Consoante o documento de folha 23 a 28, o paciente, acusado de praticar, contra a própria filha, crime contra a liberdade sexual, foi preso em flagrante no dia 16 de maio de 2008 e recolhido à Penitenciária Osvaldo Florentino Ferreira. A denúncia foi recebida pelo Juízo da Segunda Vara Criminal de Sinop, Estado de Mato Grosso, em 6 de junho de 2008.
+Alegando excesso de prazo na formação da culpa, a defesa formulou pedido de concessão de ordem no Tribunal de Justiça. Esclareceu que o paciente se encontrava preso havia quase noventa dias, sem que estivesse concluída a instrução criminal e proferida a sentença. A ordem foi indeferida. O Tribunal entendeu que, ultrapassada a fase de formação de culpa, bem como a da instrução criminal, é incabível a invocação de excesso de prazo como fator de constrangimento ilegal (folha 22). Contra esse julgado veio a ser interposto recurso ordinário em habeas corpus no Superior Tribunal de Justiça – o de nº 24.761 -, reiterando-se a tese de excesso de prazo de prisão, sem formação da culpa (folha 61 a 66).
+Neste habeas, o impetrante diz da demora na prestação jurisdicional pelo Superior Tribunal de Justiça. Sustenta que o processo, devidamente instruído com o parecer da Subprocuradoria-Geral da República, está concluso. Segundo alega, a morosa análise do pedido formulado em favor do paciente viola a garantia revelada no artigo 5º, inciso LXXVIII, da Constituição Federal. Requer a concessão de liminar, determinando-se a expedição de alvará em favor do paciente. No mérito, pleiteia a confirmação da medida acauteladora.
+Em consulta ao sítio do Superior Tribunal de Justiça na internet, nesta data, pôde ser verificado que o Recurso Ordinário em Habeas Corpus nº 24.761, distribuído ao ministro Paulo Gallotti, encontra-se concluso.
+2. É de ressaltar a sobrecarga que vem sendo enfrentada pelos Tribunais – o Superior e o Supremo – consideradas impetrações. Daí a demora no exame do recurso ordinário interposto, datando a última movimentação de 24 de outubro de 2008 - remessa do processo ao Ministério Público Federal (folha 5). De qualquer forma, apontando-se como causa de pedir a demora no julgamento do recurso ordinário constitucional, busca-se não a agilitação cabível, mas a expedição de alvará de soltura em favor do paciente.
+3. Indefiro a medida acauteladora pleiteada. Nesta data, entrarei em contato telefônico com o Colega do Superior Tribunal de Justiça, Ministro Paulo Gallotti, objetivando a celeridade no julgamento do recurso. Mesmo assim, solicitem informações a respeito, documentando-se a situação concreta hoje existente.
+4. Vindo ao processo a manifestação, colham o parecer da Procuradoria Geral da República.
+5. Publiquem.
+Brasília, 24 de março de 2009.
+A Procuradoria Geral da República, no parecer de folha 96 a 98, manifesta-se pela declaração de prejuízo do pedido e pelo não conhecimento do habeas. A Sexta Turma do Superior Tribunal, na sessão de 21 de maio de 2009, negou provimento ao recurso ordinário interposto pelo paciente e rejeitou a tese de excesso de prazo de prisão sem formação da culpa, dada a complexidade do processo, concernente à necessidade de realizar-se perícia e inquirição de testemunhas em outra comarca. Assim, porque a alegada ilegalidade estava relacionada à demora no julgamento do referido recurso, a questão estaria superada.
+A autoridade apontada como coatora, por meio do ofício juntado à folha 100, prestou informações e encaminhou cópia do acórdão proferido no Recurso Ordinário em Habeas Corpus nº 24.761/MT, mediante o qual se rejeitou a alegação de excesso de prazo de prisão, por estar exaurida a fase da instrução processual.
+Consulta ao sítio do Tribunal de Justiça do Estado de Mato Grosso na internet, nesta data, revela que a Ação Penal nº 43/2008, ajuizada contra o paciente, encontra-se na fase de alegações finais.
+2. A peça inicial desta impetração, formalizada por profissional da advocacia, revelou objeto único – o julgamento de idêntica medida pelo Superior Tribunal de Justiça, apontando-se a morosidade na tramitação. O referido Tribunal, sob a roupagem “recurso ordinário em habeas corpus”, apreciou o inconformismo demonstrado, confirmando o pronunciamento de origem. A decisão transitou em julgado em 10 de setembro de 2009, consoante se verifica do relatório de andamento processual do Tribunal na internet.
+3. Ante o quadro, declaro o prejuízo desta impetração.
+4. Publiquem.
+Brasília – residência –, 17 de novembro de 2010, às 7h15.
+Ministro MARCO AURÉLIO
+Relator
