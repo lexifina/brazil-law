@@ -1,0 +1,10 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro. Acórdão assim ementado (fls. 305):
+“Mandado de Segurança para isentar pagamento de ICMS decorrente de auto de infração. Segurança denegada com a  revogação da liminar concedida, condenando a impetrante nas custas processuais, sem honorários advocatícios, a teor do verbete 512, do STF. Apelo da empresa eletrointensiva, que industrializa alumínio por encomenda, pleiteando a reforma da sentença e alegando, em suma, que o valor da energia elétrica insumida aos seus produtos finais foi custeado pela própria empresa encomendante, portanto, o custo de tal energia elétrica não se inclui no preço de seu produto (alumínio industrializado), não havendo que se falar em tributação de ICMS na saída do produto do estabelecimento industrializador em retorno ao do encomendante, mas sim na saída do produto final do estabelecimento do encomendante. Na indústria eletrointensiva, a eletricidade é empregada como insumo utilizado no processo de industrialização do alumínio e, portanto, compõe a base de cálculo do custo do produto industrializado e do ICMS, por força do art. 3º, II, da Lei nº 1.423/89. Mantém-se a sentença pelos seus próprios fundamentos. Negado provimento ao apelo.”
+Pois bem, a parte agravante sustenta violação ao inciso I do § 2º do art. 155 da Magna Carta de 1988.
+Tenho que a insurgência não merece acolhida. É que entendimento diverso do adotado pela Instância Judicante de origem exigiria o reexame da legislação infraconstitucional pertinente e a análise do conjunto fático-probatório dos autos (Súmula 279/STF). Providências vedadas neste momento processual.
+Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 17 de novembro de 2010.
+Ministro AYRES BRITTO
+Relator
