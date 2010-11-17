@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, manejado com suporte nas alíneas “a” e “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Goiás. Acórdão assim ementado (fls. 149/150):
+“MANDADO DE SEGURANÇA. GRATIFICAÇÃO DE REPRESENTAÇÃO. MODIFICADA PELA LEI DELEGADA Nº 04/2003. SUBSÍDIOS. ISONOMIA ENTRE ATIVOS E INATIVOS. VIOLAÇÃO A DIREITO LÍQUIDO E CERTO. 1 - 'O subsídio criado por meio da Lei Delegada nº 04/03 não deve ser equiparado ao regime remuneratório introduzido pela EC n° 19/98 (art. 39, § 4° CF/88), uma vez que neste é vedada a acumulação com outras verbas, enquanto o subsídio criado em nossa esfera estadual permite tal cumulação (ex vi do art. 2°, da Lei Delegada nº 04/03)'. 2- Assegura-se aos aposentados e pensionistas à data da publicação da EC n° 41/03 o direito à paridade, ou seja, o direito à revisão na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade. 3- Segurança concedida.”
+2. Pois bem, a parte recorrente alega ofensa ao inciso XXXV do art. 5º, ao inciso XIII do art. 37, ao § 4º do art. 39, bem como ao § 8º do art. 40 da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. Isso porque entendimento diverso do adotado pela Instância Judicante de origem demandaria a análise do direito estadual pertinente, providência vedada neste momento processual, conforme a Súmula 280/STF.
+4. No mesmo sentido, vejam-se os AIs 651.271-AgR, da relatoria da ministra Ellen Gracie; 666.701-AgR, da relatoria do ministro Eros Grau; e 713.487-AgR, da relatoria da ministra Cármen Lúcia.
+5. Por outra volta, anoto que a suposta afronta às garantias constitucionais do processo ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência desta nossa Corte, que me parece juridicamente correta. Leia-se, a propósito, a ementa do AI 517.643-AgR, da relatoria do ministro Celso de Mello:
+“AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, XXXV E LV, E NO ART. 93, IX, TODOS DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+- As alegações de desrespeito aos postulados da inafastabilidade do controle jurisdicional, do devido processo legal, da motivação dos atos decisórios e da plenitude de defesa, por dependerem de exame prévio e necessário da legislação comum, podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes.”
+6. À derradeira, ressalto que a interposição do apelo extremo pela alínea “c” do inciso III do art. 102 do Magno Texto pressupõe que o acórdão recorrido tenha julgado válida lei ou ato de governo local contestados ante a Constituição, o que não ocorreu no caso.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 17 de novembro de 2010.
+Ministro AYRES BRITTO
+Relator
