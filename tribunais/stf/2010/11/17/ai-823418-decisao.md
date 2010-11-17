@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. CONVERSÃO EM RENDA. DEPÓSITO JUDICIAL MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO MANDAMENTAL. SENTENÇA DENEGATÓRIA DA SEGURANÇA TRANSITADA EM JULGADO. PEDIDO DE PERMANÊNCIA DOS DEPÓSITOS JUDICIAIS EM CONTA VINCULADA AO JUÍZO. INDEFERIMENTO. IMPOSSIBILIDADE DE ADESÃO AO PARCELAMENTO PREVISTO PELA LEI N. 11.941/2009 PELA FALTA DE PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 13 DA PORTARIA CONJUNTA PGFN/RFB Nº 06/2009.
+1. Impetrado mandado de segurança pelo qual a parte objetivou desonerar-se do pagamento de contribuição ao INCRA, foi denegada a segurança por decisão transitada em julgado após julgamento de recurso especial.
+2. O pedido de permanência dos depósitos judiciais em conta vinculada ao Juízo não encontra o devido respaldo, pois a conversão do valor em renda da União, com posterior levantamento é consequência lógica do insucesso da impetrante no mandamus.
+3. Se demonstra impossível à impetrante aderir ao parcelamento previsto na Lei nº 11.941/2009, pois não tem ela como preencher os requisitos previstos no art. 13 da Portaria Conjunta PGFN/RFB nº 06/2009, que exige do contribuinte desistência expressa de eventual ação judicial proposta, assim como a renúncia ao direito sobre que se funda a ação” (fl. 45).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 80-82).
+4. A Agravante alega que teriam sido contrariados os arts. 5º e 150, inc. I e II, da Constituição da República.
+Sustenta que “não pretende levantar o tributo depositado em juízo, mas somente a parcela referente a redução dos juros, multa e encargos legais oriunda do benefício concedido pela Lei n. 11.941/2009” (fl. 439).
+Requer que “os valores depositados nas contas judiciais vinculadas ao mandado de segurança 2005.70.00.015462-3 permaneçam depositados até a consolidação da adesão ao parcelamento previsto na Lei n. 11.941/2009” (fl. 61).
+Analisada a matéria posta à apreciação, DECIDO.
+5.   Razão jurídica não assiste à Agravante.
+6. O Tribunal a quo assentou que:
+“Portanto, não considero deva dar guarida à pretensão da parte agravante, pois se apresenta processualmente impossível seu pedido de desistência, de forma que impedida de aproveitar as condições de que trata a Portaria PGFN/RFB nº 06/2009 e, por consequência, aderir ao parcelamento previsto na Lei nº 11.941/2009.
+Assim, o pedido de permanência dos depósitos judiciais em conta vinculada ao Juízo não tem o devido respaldo, pois a determinação de levantamento do valor, transformado em pagamento definitivo à União, é decorrência do insucesso da então impetrante no mandado de segurança, ou seja, a consequência lógica é a conversão dos depósitos em renda da União, com posterior levantamento por esta” (fl. 43).
+Tem-se, portanto, que o reexame do acórdão impugnado demandaria a análise prévia da legislação infraconstitucional aplicável à espécie, em especial a Portaria PGFN/RFB 06/2009 e Lei n. 11.941/2009. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. TRIBUTO DECLARADO INCONSTITUCIONAL PELO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. Agravo regimental a que se nega provimento ” (AI 619.163-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 13.11.2009).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E TRIBUTÁRIO. 1. RECURSO EXTRAORDINÁRIO: DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. 2. REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO ” (AI 668.715-AgR, de minha relatoria, Primeira Turma, DJe 23.10.2009).
+“Recurso extraordinário: descabimento, quando fundado na alegação de ofensa reflexa à Constituição. 1. Tem-se violação reflexa a Constituição, quando o seu reconhecimento depende de rever a interpretação dada a norma ordinária pela decisão recorrida, caso em que e a hierarquia infraconstitucional dessa última que define, para fins recursais, a natureza de questão federal. 2. Admitir o recurso extraordinário por ofensa reflexa ao princípio constitucional da legalidade seria transformar em questões constitucionais todas as controvérsias sobre a interpretação da lei ordinária, baralhando as competências repartidas entre o STF e os tribunais superiores e usurpando até a autoridade definitiva da Justiça dos Estados para a inteligência do direito local ” (AI 134.736-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 17.2.1995).
+Nada há, pois, a prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 17 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
