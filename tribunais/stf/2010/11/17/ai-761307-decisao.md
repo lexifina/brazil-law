@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 162):
+“RECURSO DE REVISTA. SUCESSÃO. CONTRATO DE CONCESSÃO DE SERVIÇO PÚBLICO. A jurisprudência desta C. Corte se firmou no sentido de reconhecer a sucessão trabalhista entre a Rede Ferroviária Federal S.A. e as empresas que firmaram contrato de arrendamento de malhas ferroviárias resultante da concessão de exploração de serviço público, conforme o disposto na Orientação Jurisprudencial nº 225 da SBDI-1. Assim, a consonância da r. decisão recorrida com a atual e iterativa jurisprudência deste C. Tribunal Superior do Trabalho não impulsiona o conhecimento do recurso, porque superadas as divergências apresentadas nos arestos, nos termos do § 4º do artigo 896 da CLT e da Súmula nº 333 e não demonstrada violação literal de preceito de lei. Recurso de revista não conhecido.”
+Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, II, XXXV, XXXVI, LIV e LV, e 7º, XIII, da Constituição federal. Sustenta-se a impropriedade da conversão do rito processual em fase de recurso, que não é sucessora da RFFSA e que são indevidas as condenações ao pagamento do adicional de periculosidade e das horas extras.
+É o relatório. Decido.
+As questões constitucionais suscitadas relativas à responsabilização do empregador no caso de sucessão de empresas não podem ser analisadas sem prévio exame da legislação infraconstitucional e das provas que fundamentaram as conclusões da decisão recorrida. O recurso extraordinário é, pois, inviável, tanto porque eventual ofensa à Constituição seria indireta, como por esbarrar na vedação da Súmula 279 desta Corte.
+Por oportuno, assinalo que tal entendimento foi reafirmado pela Corte ao rejeitar a existência de repercussão geral do tema, por ausência de matéria constitucional (RE 629.057-RG, rel. min. Ellen Gracie).
+No que se refere às condenações ao pagamento de adicional de periculosidade e horas extras, vejo que o Tribunal a quo não ultrapassou o exame dos pressupostos de admissibilidade recursal. O Supremo Tribunal Federal, apreciando o RE 598.365-RG (rel. min. Ayres Britto, DJe de 26.03.2010), não reconheceu a repercussão geral do tema. É o que se depreende da ementa:
+“PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+Por fim, no que tange à conversão para o rito sumaríssimo, extraio do acórdão recorrido (fls. 163-166):
+“O artigo 794 da CLT, por sua vez, determina que as nulidades somente sejam declaradas quando dos atos inquinados resultar manifesto prejuízo às partes litigantes.
+Todavia, no caso dos autos, embora inadequadamente o Eg. Tribunal Regional tenha determinado a conversão do rito ordinário para sumaríssimo no curso do processo, é certo que tal conversão processual não resultou em qualquer prejuízo à reclamada.
+Isso porque as questões trazidas no recurso ordinário foram analisadas, embora de forma sucinta, tendo o eg. Tribunal Regional esposado as razões que levaram à formação do seu livre convencimento acerca da controvérsia, não se limitando as regras impostas no procedimento sumaríssimo, pela aplicação do artigo 895, inciso IV, da CLT.
+(...)
+Verifica-se também que o r. despacho analisou o recurso de revista sem as restrições contidas no art. 896, § 6º, da CLT, conforme se observa às fls. 508.
+Assim sendo, não há que se falar em violação do artigo 5º, incisos XXXV e LV, da Constituição Federal, devendo, em atenção ao princípio da celeridade e economia dos atos processuais, examinar-se a admissibilidade do recurso de revista interposto pela reclamada sem as restrições previstas no art. 896, § 6º, da CLT, conforme disposto no r. despacho. ”
+Portanto, a análise de eventual ofensa à Constituição demandaria o exame prévio da legislação infraconstitucional. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 17 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
