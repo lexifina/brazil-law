@@ -1,0 +1,10 @@
+DECISÃO
+PROVENTOS - COMPLEMENTAÇÃO - LEI Nº 4.819/58, DO ESTADO DE SÃO PAULO - APOSENTADORIA COM PROVENTOS PROPORCIONAIS AO TEMPO DE SERVIÇO – RECURSO EXTRAORDINÁRIO – PROVIMENTO NOS AUTOS DE AGRAVO DE INSTRUMENTO PROVIDO.
+1. Tribunal de Justiça do Estado de São Paulo confirmou o entendimento constante na sentença quanto ao pagamento da complementação de aposentadoria “proporcional ao tempo de serviço efetivamente prestado, tendo em vista a contagem recíproca admitida pela legislação constitucional e ordinária em vigor” (folha 52).
+2. Colho, como premissas do acórdão proferido, que Lei local - de nº 4.819, de 1958 - assegurou ao recorrente a complementação dos proventos de aposentadoria. Pois bem, após reconhecerem-se as balizas desta última, caminhou-se para a aplicabilidade analógica do disposto na Carta da República. Ora, deu-se à alínea “a” do inciso III do artigo 40 da Lei Maior extensão que o preceito não possui, ou seja, de gerar proporcionalidade em hipótese na qual o direito integrado ao patrimônio do empregado, simples empregado, fez-se de modo abrangente, visando à complementação dos proventos tão logo adquirido o direito à aposentadoria, proporcional ou integral, pelo Instituto. Mais do que isso, incidiu, na relação jurídica regida pela Consolidação das Leis do Trabalho, dispositivo constitucional referente aos servidores públicos.
+No mesmo sentido decidiram ambas as Turmas desta Corte – Recurso Extraordinário 167.887/SP, 1ª Turma, relator ministro Otavio Gallotti e Recurso Extraordinário 175.638/SP, por mim relatado na 2ª Turma.
+Diante dos precedentes, conheço e provejo este agravo, consignando o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Aciono o disposto nos artigos 544, §§ 3º e 4º, e 557, § 1º-A, do Código de Processo Civil e julgo desde logo o extraordinário para, reformando o acórdão de folha 49 a 53, afastar a proporcionalidade nele aludida, determinando, assim, a complementação dos proventos de forma integral.
+3. Publiquem.
+Brasília, 18 de novembro de 2010.
+Ministro MARCO AURÉLIO
+Relator
