@@ -1,0 +1,27 @@
+DECISÃO
+CONCURSO PÚBLICO – PROVA DE APTIDÃO FÍSICA – EXIGIBILIDADE CONSIDERADO O CARGO A SER OCUPADO – CONSIDERAÇÕES – AUSÊNCIA JUSTIFICADA DO CANDIDATO – RELEVÂNCIA E RISCO DEMONSTRADOS – LIMINAR DEFERIDA.
+1. A Assessoria prestou as seguintes informações:
+O impetrante questiona a legalidade do teste de aptidão física, notadamente a avaliação de resistência através de teste de corrida (2400 metros), aplicada a ambos os sexos, referente ao cargo de Técnico de Apoio Especializado – Transporte no concurso público realizado pelo Ministério Público da União, cuja abertura ocorreu por meio do Edital nº 1 – PGR/MPU, de 30 de junho de 2010.
+Sustenta que o certame, conforme se depreende da leitura do citado edital, é composto de três etapas, de caráter eliminatório e classificatório, assim discriminadas: i) prova objetiva de conhecimentos básicos e específicos; ii) teste de aptidão física e iii) prova prática de direção veicular.
+Afirma ter sido classificado em 4º lugar na primeira fase do referido concurso. Foi, então, convocado para o teste de aptidão física, ocorrido no dia 24 de outubro de 2010 mediante o Edital nº 20 – PGR/MPU. Assevera não haver feito a prova física por se encontrar acometido de quadro grave de lombalgia com limitação funcional, consoante atestado e laudo médicos (documentos anexos), tendo comparecido ao local determinado para o teste na data determinada para apresentação do atestado e do laudo.
+Em 3 de novembro, por meio do Edital nº 24 – PGR/MPU, publicou-se o resultado provisório do teste de aptidão física, não constando o nome do impetrante. A seguir, mediante o Edital nº 29 – PGR/MPU, procedeu-se à convocação dos candidatos para a terceira fase do certame – a prova prática de direção veicular, de caráter eliminatório, a ser realizada nos dias 20 e 21 de novembro de 2010.
+Alega ser o teste de aptidão física totalmente arbitrário, não havendo previsão na Lei nº 11.415/2006 ou na Portaria PGR/MPU nº 68/2010. Diz da afronta aos princípios da estrita legalidade, razoabilidade, proporcionalidade e livre acesso ao cargo público, mostrando-se descabível que exigências ilegais excluam candidato plenamente capaz e apto a exercer a função para qual obteve aprovação. Cita como precedentes, entre outros, a Medida Cautelar no Mandado de Segurança nº 29.455, relator Ministro Celso de Mello, publicada no Diário da Justiça de 8 de novembro de 2010, e o Recurso Extraordinário nº 447.397, relator Ministro Sepúlveda Pertence, veiculado no Diário da Justiça de 21 de junho de 2005.
+Assevera, ao fim, que a exigência da prova de capacidade física para o cargo de Técnico de Apoio Especializado – Transporte, além de não possuir amparo legal, nos termos do artigo 37, inciso I, da Carta da República, fere os princípios da razoabilidade e da proporcionalidade, haja vista a natureza do cargo.
+Requer o deferimento de medida liminar a fim de assegurar-lhe a participação na 3ª fase do 6º Concurso Público para provimento de cargos das Carreiras de Analista e Técnico do Ministério Público da União e formação de Cadastro de Reserva, prova prática de direção veicular, a ser realizada nos dias 20 e 21 de novembro de 2010. No mérito, busca a concessão da segurança de modo a garantir-lhe todos os direitos que advenham da aprovação do certame, declarando-se a nulidade da exigência do teste de aptidão física, cuja previsão encontra-se no Edital nº 1 – PGR/MPU, de 30 de junho de 2010.
+Acompanham a inicial os documentos de folha 23 a 87.
+Anoto ter sido a impetração formalizada em 17 de novembro de 2010.
+2. Valho-me do que lancei ao deferir medida acauteladora em caso semelhante, devendo haver o afastamento de aspectos não envolvidos na espécie. Faço-o ante o princípio da economia e celeridade processuais e, portanto, a racionalização dos trabalhos:
+[...]
+2. Foi-se o tempo em que, no campo do transporte, a aptidão física surgia com inegável valor, não se tivesse, mesmo assim, a força animal. De início, a obrigatoriedade de teste de resistência – no caso, corrida de 2400 metros – discrepa, quanto ao concurso para preenchimento do cargo de técnico/apoio especializado – transporte, da razoabilidade a reinar na vida gregária, especialmente na seara da administração pública.
+Vale consignar ainda que os candidatos realizaram a prova de esforço em horários diversos. É sabença geral que se mostra mais viável lograr êxito na parte matutina do dia.
+Ao lado disso, há a questão alusiva à inexistência de ato normativo abstrato, à ausência de lei, impondo a exigência. Consoante alegado, até a Portaria PGR/MPU nº 68/2010 é silente a respeito.
+Sob o ângulo do risco, avizinha-se a terceira prova do concurso – de direção de veículo – a conflitar, de certa forma, com a de aptidão física presente a corrida de resistência.
+[...]
+Acrescento que, na espécie, o candidato não conseguiu participar do extravagante teste de aptidão física – corrida de 2400 metros. Na data marcada, apresentou-se com atestado médico a revelar estar impossibilitado de fazer a prova. Mesmo assim, em vez de ver designado dia diverso para realizá-la, constatou que, no edital relativo aos resultados, não constava o respectivo nome como aprovado.
+3. Defiro a liminar, viabilizando a participação do impetrante na prova prática de direção de veículo.
+4. Solicitem informações ao Procurador-Geral da República.
+5. Com a manifestação, colham o parecer cabível.
+6. Publiquem.
+Brasília – residência –, 18 de novembro de 2010, às 10h40.
+Ministro MARCO AURÉLIO
+Relator
