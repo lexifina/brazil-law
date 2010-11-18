@@ -1,0 +1,14 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“DIREITO CIVIL. RESPONSABILIDADECIVIL. ATRIBUIÇÃO DA RESPONSABILIDADE À COMPANHIA DE TRENS. AUDIÊNCIA DE CONCILIAÇÃO. AUSENTE A PARTE RÉ. NÃO DECRETAÇÃO DA REVELIA. JULGAMENTO ANTECIPADO DA LIDE. SENTENÇA DE IMPROCEDÊNCIA. APELO. PRELIMINARES DE NULIDADE DOS ATOS PROCESSUAIS POSTERIORES A AUDIÊNCIA DE CONCILIAÇÃO, ALÉM DO CERCEAMENTO DE DEFESA, DIANTE DO JULGAMENTO ANTECIPADO DA LIDE. PRELIMINARES REJEITADAS. DESNECESSÁRIA OITIVA DE TESTEMUNHAS, QUANDO SERIA SUFICIENTE A PROVA DOCUMENTAL, DADA A NATUREZA OBJETIVA DA RESPONSABILIDADE QUE SE APURA. NO MÉRITO, ATRIBUIÇÃO DE RESPONSABILIDADE EXCLUSIVA DA APELADA. NÃO CONFIGURADA. RECURSO CONHECIDO E IMPROVIDO” (fl. 177).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, § 6º, da mesma Carta.
+O agravo não merece acolhida. Isso porque, o Tribunal de origem decidiu a causa nos seguintes termos:
+“Afirmam os Recorrentes a responsabilidade exclusiva da Apelada, pelo evento danoso, alegando que as provas, carreadas aos autos, apontam para este fato (fls. 143).
+Entretanto, da única prova trazida aos autos (fls. 16), não se extrai o nexo causal entre a conduta da Companhia de Trens e o evento danoso, como consignado anteriormente.
+ Desta forma, não se desincumbiram os Apelantes de provar os fatos constitutivos” (fl. 188)
+Portanto, é patente que o Tribunal a quo, ao concluir pela inexistência de nexo de causalidade a ensejar a responsabilidade objetiva do Estado, baseou-se no conjunto fático-probatório dos autos, para se chegar à conclusão contrária à adotada, necessário seria o reexame da matéria de fato, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 434.636/RJ, Rel. Min. Sepúlveda Pertence; RE 346.978/CE, Rel. Min. Ilmar Galvão; AI 340.046-AgR/SP; RE 522.278-AgR/TO, Rel. Min. Cezar Peluso e RE 363.999-AgR/RJ, Rel. Min. Gilmar Mendes e AI 693.628-AgR/SP, Rel. Min. Ellen Gracie, cuja ementa segue transcrita:
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE OBJETIVA DO ESTADO. OMISSÃO. ACIDENTE DE TRÂNSITO EM RODOVIA FEDERAL. FALTA DE SINALIZAÇÃO. ART. 37, § 6º, CF/88. NEXO CAUSAL. FATOS E PROVAS. SÚMULA STF 279. 1. Existência de nexo causal entre a omissão da autarquia e acidente que causou morte do marido e filhos da autora. Precedentes. 2. Incidência da Súmula STF 279 para afastar a alegada ofensa ao artigo 37, § 6º, da Constituição Federal - responsabilidade objetiva do Estado. 3. Inexistência de argumento capaz de infirmar o entendimento adotado pela decisão agravada. 4. Agravo regimental improvido”.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 18 de novembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
