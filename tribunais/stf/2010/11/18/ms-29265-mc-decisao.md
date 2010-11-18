@@ -1,0 +1,42 @@
+1.  Referente à Petição 57.116/2010, em que o impetrante Paulo Roberto Siqueira Vianna requer a desistência parcial do writ no que tange ao pedido no qual se insurge contra a imposição de teto de remuneração, em face do ajuizamento, pela Associação dos Notários e Registradores do Brasil – ANOREG, do MS 29.039-DF e da concessão de medida liminar pelo Ministro Gilmar Mendes, na qual foi suspensa a eficácia da decisão do Corregedor Nacional de Justiça que impôs limite à remuneração dos serventuários reputados interinos (DJe 1º.10.2010).
+ Oportunamente o impetrante faz a ressalva de que remanescem os demais pedidos formulados na petição inicial do writ, nestes termos:
+“(1) violação ao primado da segurança jurídica, uma vez que, consubstanciada a permuta em 06.05.1999, não poderia o então Corregedor Nacional de Justiça, em 12.07.2010, após o decurso de prazo superior a cinco anos (Lei 9.784/99, art. 54), reputá-la desconforme à Carta da República, procedendo à sua anulação, externando definitiva declaração de vacância da serventia titularizada pelo Impetrante (Parágrafos 16/18); e ,
+(2) usurpação de competência, não sendo possível ao Corregedor Nacional de Justiça suprimir do Plenário a análise do recurso administrativo aviado pelo Impetrante (Parágrafos 19/40)”.
+2.  Inicialmente, verifico que os subscritores do presente pedido de desistência detêm prerrogativa expressa para formulá-lo, nos termos do art. 38, caput, do Código de Processo Civil, consoante se infere da procuração outorgada pelo impetrante.
+3.  Ante o exposto, homologo o pedido de parcial desistência formulado (imposição de teto de remuneração) para que se produzam os efeitos legais (art. 21, VIII, do RISTF).
+ Frise-se que a jurisprudência desta Corte consolidou-se no sentido de que o impetrante de mandado de segurança pode desistir da ação em qualquer tempo e grau de jurisdição. Vejam-se sobre o tema o RE 301.851-AgR-AgR/PR, rel. Min. Ilmar Galvão, 1ª Turma, unânime, DJ 14.11.2002; e o RE 140.851-AgR-ED/SP, rel. Min. Maurício Corrêa, 2ª Turma, unânime, DJ 14.11.2002. Mais recentemente, o Plenário ratificou essa posição ao julgar o RE 167.263-ED-EDV/MG, redator para o acórdão Min. Sepúlveda Pertence, maioria, DJ 10.12.2004.
+ Na mesma assentada, quanto à questão da desistência do mandado de segurança, o Plenário do Supremo Tribunal Federal, no citado RE 167.263-ED-EDV/MG, consolidou o entendimento de não ser necessária a anuência da parte contrária, cuja ementa ficou assim redigida:
+“A jurisprudência do Supremo Tribunal Federal admite a desistência do mandado de segurança, sem anuência da parte contrária, mesmo quando já proferida a decisão de mérito. Embargos conhecidos, mas rejeitados”.
+4.  Passo, então, à apreciação da presente liminar em relação ao outro pedido do writ.
+5.  Trata-se de mandado de segurança, com requerimento de medida liminar, fundamentado no art. 5º, LXIX, da Constituição Federal e na Lei 12.016/2009, impetrado pelo peticionário acima referido contra ato da Corregedoria Nacional de Justiça.
+ Ressalta que o impetrante “foi guindado à titularidade do Cartório do 2° Ofício de Notas de Vila Velha, em 21.05.1985 (CF de 67/69, art. 208 – EC 22), por ser, de há muito, Tabelião Substituto”.
+ Noticia que na data de 26.02.2000 apresentou impugnação informando que quatorze anos após sua regular investidura, em 06.05.1999, mediante prévia decisão do Conselho Superior da Magistratura, a Presidência do TJES autorizou a permuta do impetrante a responder pelo Cartório do 1° Ofício de Notas de Vila Velha, tudo com respaldo na Lei Estadual 3.526/1982 e na decisão do Ministro Cezar Peluso proferida na medida liminar concedida nos autos do Mandado de Segurança 27.739, que lhe assegurou a permanência à frente da serventia.
+  Narra que o Corregedor Nacional de Justiça, em 22.01.2010, publicou uma relação provisória de vacâncias (Resolução 80), na qual consta que a serventia ocupada pelo impetrante fora “declarada vaga em decorrência de remoção irregular, inclusive remoção por simples prova de título entre 05.10.1988 e 08.07.2002, ou remoção por permuta”.
+ Diz que, apesar desses esclarecimentos, o Corregedor Nacional de Justiça, em 12.07.2000, declarou em definitivo a vacância da serventia por ele ocupada, ao considerar que a permuta realizada carecia de embasamento, o que culminou com a decisão de prejudicialidade da liminar no MS 27.571-DF (conexo ao MS 27.739-DF).
+ Assim, ao ordenar a reversão do serviço notarial ao poder delegante, o então Corregedor Nacional de Justiça impôs ao impetrante, agora interino, a limitação de sua remuneração em 90,25% dos subsídios dos Ministros do STF, vedada a percepção da integralidade dos emolumentos.
+ Ademais, o Corregedor Nacional de Justiça teria usurpado a competência do Plenário do CNJ, ao afrontar o § 2° do art. 115 do RICNJ, além de afrontar o disposto no art. 54 da Lei 9.784/99.
+ Requer o impetrante, em apertada síntese, a concessão de provimento liminar a fim de suspender “a eficácia da decisão singular proferida pelo então Corregedor Nacional de Justiça nos autos do Pedido de Providência (0000384-4120102000000, impedido a destituição do Impetrante da titularidade do Cartório do 1º Ofício de Notas de Vila Velha (CNS 02.445-5), até julgamento final”.
+6.  O presente writ foi a mim distribuído, de forma livre, em 22.09.2010.
+7.  Solicitaram-se informações, que foram devidamente prestadas.
+8.  A União, representada por sua Advocacia-Geral, requer o ingresso no presente feito (petição 61.923/2010).
+9.  Defiro o pedido formulado pela União (art. 7º, II, da Lei 12.016/2009).
+10.  Não vislumbro, neste juízo prévio, a plausibilidade jurídica do pedido formulado no presente writ. Entendo que a fumaça do bom direito não está evidenciada diante da densidade jurídica dos argumentos postos nas informações apresentadas :
+“(...)
+15.  No caso do impetrante, verifica-se que ele foi efetivado Tabelião do Cartório do 2° Ofício de Notas de Vila Velha em 1985 e, posteriormente, removido para o Cartório do 1° Ofício do mesmo Município, mediante permuta em 1999.
+16.  A remoção ocorrida em 06/05/1999 deu-se por meio de lei estadual, sem cumprir as exigências contidas no S 3° do artigo 236 da Constituição Federal, norma auto-aplicável quanto à exigência do concurso para ingresso ou remoção de serventias.
+17.  Nesse contexto, tem-se como irregular a remoção efetuada, já que efetuada, na vigência da Constituição Federal de 1988 sem a realização de novo concurso público.
+(...)”.
+A Constituição Federal, em seu art. 236, § 3º, expressamente dispõe:
+“O ingresso na atividade notarial e de registro depende de concurso público de provas e títulos, não se permitindo que qualquer serventia fique vaga, sem abertura de concurso de provimento ou de remoção, por mais de seis meses.” (Destaquei).
+É dizer, nos termos da Constituição Federal, sempre se fez necessária a submissão a concurso público para o devido provimento das serventias extrajudiciais eventualmente vagas ou para fins de remoção .
+Não há que falar que somente com a edição da Lei 8.935/94 teria essa norma se tornado auto-aplicável.
+A jurisprudência desta Suprema Corte é antiga no sentido da indispensabilidade de concurso público nesses casos (Ação Direta de Inconstitucionalidade 126/RO, rel. Min. Octavio Gallotti, Plenário, DJ 05.6.1992), tendo sido recentemente reafirmada no julgamento da Ação Direta de Inconstitucionalidade 3.978/SC, rel. Eros Grau, Plenário, DJe 29.10.2009.
+Situações flagrantemente inconstitucionais como a remoção, por permuta entre notários e/ou registradores, sem a devida submissão a concurso público não podem e não devem ser superadas pela simples incidência do que dispõe o art. 54 da Lei 9.784/99, sob pena de subversão das determinaçõe s insertas na Lei Maior do País .
+11 .   Saliente-se, por fim, que o fato de existir perigo na demora em um determinado caso, por si só, não autoriza o magistrado a conferir provimento cautelar para uma parte. Para a concessão de medida liminar é necessária a existência concomitante da fumaça do bom direito e do perigo na demora.
+No presente caso, não há que falar em fumaça do bom direito, porquanto não se verifica, em princípio, a plausibilidade jurídica do pedido formulado no presente writ.
+12 .  Ante o exposto, indefiro o pedido de liminar .
+Publique-se.
+Após, abra-se, imediatamente, vista à Procuradoria-Geral da República ( arts. 103, § 1º, da Constituição Federal e 52, IX, do RISTF).
+ Brasília, 18 de novembro de 2010.
+Ministra Ellen Gracie
+Relatora
