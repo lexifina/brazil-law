@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 830, DE 18 DE NOVEMBRO DE 2010
+(Autoria do Projeto: Poder Executivo)
+Dispõe sobre a criação de cargos na Carreira de Procurador do Distrito Federal.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
