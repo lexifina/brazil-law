@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+Reconsidero a decisão de fls. 261/262.
+2. Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul. Acórdão assim ementado (fls. 184):
+“AÇÃO RESCISÓRIA. PREVIDENCIÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA DE 2% DOS PENSIONISTAS (ART. 42, ‘O’ DA LEI Nº 7.672/82). ALEGADA OFENSA A LITERAL DISPOSIÇÃO DE NORMA CONSTITUCIONAL.
+Não há falar em violação à literal disposição de norma constitucional a amparar a ação rescisória se o acórdão rescindendo não afirmou que a contribuição previdenciária era possível de ser cobrada do pensionista, mas que a contribuição de 2% dos pensionistas, face à interpretação que deu à lei estadual em questão, tinha natureza assistencial e não natureza previdenciária. Interpretação que o acórdão rescindendo deu, isto sim, aos artigos 42, letra 'a' e 43, letra 'a', ambos da Lei Estadual n.º 7.672/82, sem proceder à distinção entre contribuição previdenciária e assistencial à saúde. Embora venha este Grupo, atualmente e forma pacífica, dando aos mesmos dispositivos legais interpretação diversa, tal não se faz suficiente para a rescisão pretendida, máxime quando o próprio STF, em recentes julgados, deu, à lei local, idêntica interpretação que foi dada pelo acórdão rescindendo.
+AÇÃO JULGADA IMPROCEDENTE. “
+3. Pois bem, a parte recorrente alega violação ao § 12 do art. 40, ao parágrafo único do art. 149 e ao inciso II do art. 195, todos da Magna Carta de 1988.
+4. Tenho que a insurgência merece acolhida. É que o Supremo Tribunal Federal assentou a constitucionalidade da cobrança de contribuição previdenciária sobre os proventos da inatividade e as pensões de servidores públicos apenas quanto ao período que antecedeu a Emenda Constitucional 20/98. Logo, cabível a restituição dos valores indevidamente descontados no período posterior à referida emenda.
+5. Vejam-se, a respeito, os REs 372.356-AgR e 367.094–AgR, da relatoria do ministro Sepúlveda Pertence; 417.073-AgR, da relatoria do ministro Carlos Velloso; e 393.169, da relatoria do ministro Gilmar Mendes.
+6. Embora entenda ser inconstitucional a cobrança de contribuição previdenciária de inativos e pensionistas, mesmo no período anterior à EC 20/1998, rendo-me democraticamente ao pensar majoritário dos eminentes ministros desta nossa Corte.
+7. Anoto, por oportuno, que o advento da EC 41/2003 voltou a alterar a situação, sendo certo que o Supremo Tribunal Federal já decidiu pela constitucionalidade da incidência da contribuição previdenciária sobre os proventos dos servidores a partir desta última emenda (ADIs 3.105 e 3.128).
+Isso posto, e frente ao § 1º-A do art. 557 do CPC, dou provimento ao recurso para determinar que os valores das contribuições previdenciárias indevidamente descontadas dos recorrentes no período compreendido entre a EC 20/1998 e a EC 41/2003 sejam-lhes devolvidos. Ficam invertidos os ônus de sucumbência, a ser apurados pelo Juízo da execução (RE 437.483-AgR-ED, da relatoria do ministro Sepúlveda Pertence).
+Publique-se.
+Brasília, 19 de novembro de 2010.
+Ministro AYRES BRITTO
+Relator
