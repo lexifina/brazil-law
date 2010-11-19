@@ -1,0 +1,16 @@
+1.   Trata-se de embargos de declaração opostos de decisão (fls. 87-88) proferida pelo meu antecessor, Min. Gilmar Mendes, que negou seguimento ao agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário (CF, art. 102, III, a, b e c) de acórdão que entendeu ser extensível aos demais militares o reajuste de 28,86% previsto nas Leis 8.622/93 e 8.627/93, concedido às graduações superiores das Forças Armadas. Concluiu-se que “o acórdão recorrido extraordinariamente está em consonância com a jurisprudência desta Corte”.
+2.  A União sustenta, em síntese (fls. 93-99), que a decisão embargada foi omissa em relação à constitucionalidade do art. 1º-F da Lei 9.494/97, questão suscitada no recurso extraordinário. Pugna para que seja declarada a constitucionalidade do art. 1º-F da Lei 9.494/97, fixando-se os juros de mora em 6% ao ano.
+3.  A decisão impugnada merece reforma. O apelo extremo, por alegada violação aos arts. 2º, 37, X, 61, § 1º, II, a, 63, I, 142 e 169, § 1º, da Constituição Federal, foi apreciado com fundamento nas alíneas a e c do art. 102, III, da Carta Magna. Com efeito, assiste razão à embargante quando alega que houve omissão da decisão quanto ao enfrentamento da constitucionalidade do art. 1º-F da Lei 9.494/97, questão suscitada nas razões recursais.
+4.  Dessa forma, acolho os presentes embargos (fls. 93-99) apenas para apreciar o ponto omisso do recurso, referente à alínea b do permissivo autorizador.
+5.  O acórdão recorrido determinou a inclusão, no cálculo do pagamento das diferenças apuradas, de “ juros de mora de 1% ao mês a contar da citação, uma vez que inconstitucional, por ferir o princípio da isonomia, a fixação diferenciada de percentual de juros de mora disposta na Lei nº 9494/97” (fl. 46).
+6.  A parte recorrente sustenta que, diante da conclusão de inconstitucionalidade do art. 1º-F da Lei 9.494/97, é cabível o recurso pela alínea b (CF, 102, III), a fim de que, caso ultrapassadas as questões apresentadas, sejam “reduzidos os juros moratórios ao patamar de 0,5% ao mês, na forma do art. 1-F da Lei nº 9.494/97” (fls. 61-64).
+7.  Foi determinado o sobrestamento do feito até a conclusão do julgamento do RE 453.740/RJ (fl. 101).
+8.  Instada a se manifestar (fl. 106), a embargada quedou-se inerte (certidão, fl. 107).
+9.  O Plenário do Supremo Tribunal Federal, no julgamento do RE 453.740/RJ, da relatoria do Ministro Gilmar Mendes, afastou a alegação de ofensa ao princípio da isonomia e declarou a constitucionalidade do art. 1º-F da Lei 9.494/97, em acórdão assim ementado:
+“ Recurso Extraordinário. Conhecimento. Provimento. 2. Juros de Mora. 3. Art. 1º-F da Lei nº 9.494, de 1997. 4. Constitucionalidade” (DJ 24.8.2007).
+Dessa forma, conclui-se que os juros de mora nas condenações impostas à Fazenda Pública para pagamento de verbas remuneratórias devidas a servidores públicos não poderão ultrapassar o percentual de 6% ao ano.
+10.  Por tais razões, com fundamento no art. 535, II, do Código de Processo Civil, acolho os presentes embargos de declaração para fixar os juros de mora no percentual de 6% ao ano, ficando mantida a decisão de fls. 87-88, nos seus demais termos.
+Publique-se.
+Brasília, 19 de novembro de 2010.
+Ministra Ellen Gracie
+Relatora
