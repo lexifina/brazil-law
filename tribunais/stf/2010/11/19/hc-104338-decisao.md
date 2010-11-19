@@ -1,0 +1,32 @@
+DESPACHO
+1. Habeas corpus, com pedido de medida liminar, impetrado por RODRIGO GAMIL FÖPPEL e OUTRO, advogados, em favor de ALETEIA DE ABREU CAMELO, contra julgado da Quinta Turma do Superior Tribunal de Justiça, que, em 15.4.2010, denegou a ordem nos autos do Habeas Corpus 150.925, Relator o Ministro Napoleão Nunes Maia Filho (fls. 58-71).
+2. Tem-se nos autos que o Ministério Público de Pernambuco denunciou a ora Paciente pela suposta prática do delito tipificado no art. 302 do Código de Trânsito (fls. 54-55).
+3. Em 18 de novembro de 2006, o Juízo da 13ª Vara Criminal de Recife-PE recebeu a denúncia e “[d]esigno[u] o dia 19/10/06 às 15:00 para o interrogatório da denunciada” (fl. 56).
+4. Irresignada com o recebimento da denúncia, a defesa da Paciente impetrou o Habeas Corpus n. 0193318-8 no Tribunal de Justiça de Pernambuco, que, em 2.9.2009, denegou a ordem (fls. 152-153).
+5. Contra tal denegação foi impetrado no Superior Tribunal de Justiça o Habeas Corpus 150.925, Relator o Ministro Napoleão Nunes Maia Filho. Em 15 de abril de 2010, a Quinta Turma desse Superior Tribunal denegou a ordem, nos termos seguintes:
+“(...) HABEAS CORPUS PREVENTIVO. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA NÃO DEMONSTRADA DE PLANO. ATITUDE CULPOSA SUFICIENTEMENTE DELINEADA NA DENÚNCIA. INÉPCIA DA PEÇA ACUSATÓRIA NÃO EVIDENCIADA. DESNECESSIDADE DE AMPLA FUNDAMENTAÇÃO DO DESPACHO DE RECEBIMENTO DA DENÚNCIA. PRECEDENTES DO STJ. IMPOSSIBILIDADE DE RECONHECIMENTO DA PRESCRIÇÃO EM PERSPECTIVA. AUSÊNCIA DE PREVISÃO LEGAL. PARECER DO MPF PELA DENEGAÇÃO DA ORDEM. ORDEM DENEGADA.
+1. O trancamento de Ação Penal por meio de Habeas Corpus, conquanto possível, é medida de todo excepcional, somente admitida nas hipóteses em que se mostrar evidente, de plano, a ausência de justa causa, a inexistência de elementos indiciários demonstrativos da autoria e da materialidade do delito ou, ainda, a presença de alguma causa excludente de punibilidade.
+2. Na hipótese, a denúncia descreve fato, em tese, típico, com todas as suas circunstâncias, e, ao contrário do que sustenta a impetração, ao afirmar existirem indícios (prova testemunhal) de que a paciente estaria em alta velocidade ou em velocidade incompatível com a via e poderia ter evitado o acidente, delineia satisfatoriamente em que consistiria a inobservância do dever de cuidado, razão pela qual fica afastada a assertiva de inépcia da peça acusatória.
+3. Esta Corte entende que o despacho de recebimento da denúncia, por sua natureza interlocutória simples, prescinde de ampla fundamentação, até porque o Juiz, ao deflagrar a Ação Penal, não deve incidir em pré-julgamento da matéria criminal objeto da inicial acusatória (HC 119.226/PR, , Rel. Min. ARNALDO ESTEVES LIMA, DJe de 08.09.2009 e HC 138.089/SC, Rel. Min. FELIX FISCHER, DJe 22.02.2010).
+4. É na oportunidade do art. 397 do CPP que o Juiz deverá se manifestar com mais vagar sobre as teses suscitadas pelo acusado, caso alguma preliminar, exceção ou excludente de ilicitude ou de culpabilidade sejam suscitadas em defesa prévia para contestar a admissibilidade ab initio da persecução penal, ou verificar a possibilidade de absolvição sumária, se presentes as circunstâncias autorizadoras descritas no referido artigo do CPP; mas, ainda assim, em caso de continuidade da Ação Penal, essa manifestação não há de ser exaustiva, sob pena de antecipação do julgamento do mérito da causa.
+5. Esta Corte é firme ao enunciar que, ante a ausência de previsão legal, não é possível o reconhecimento de prescrição com base na pena que possivelmente virá a ser aplicada em caso de eventual condenação.
+6. O acatamento da assertiva de atipicidade da conduta exigiria incursão detalhada no acervo fático-probatório, providência sabidamente inadmissível em HC, que, dado o seu rito célere e cognição sumária, exige prova pré-constituída do direito alegado, mormente quando se objetiva, como no caso, o trancamento da Ação Penal por falta de justa causa.
+7. Parecer do MPF pela denegação da ordem.
+8. Ordem denegada (...)” (fl. 58-59).
+6. Impetra-se, então, o presente habeas corpus, no qual os Impetrantes reiteram as alegações apresentadas no Superior Tribunal de Justiça, notadamente as relativas à a) inépcia da denúncia (fls. 7-16); b) ausência de justa causa (fls. 16-23); c) inexistência de crime (fls. 24-25); d) incidência do princípio da confiança (fls. 25-27); e) falta de fundamentação da decisão que recebeu a denúncia (fls. 30-36); e f) ausência de interesse de agir ante a prescrição da pena em perspectiva (fls. 37-46).
+7. Este o teor dos pedidos:
+“(...) 1) Tendo em vista a designação de audiência de instrução e julgamento para o dia 18/08/2010, consoante se infere do espelho processual extraído do sítio eletrônico do Tribunal de Justiça de Pernambuco, requerem os Impetrantes a suspensão liminar da referida assentada, até o julgamento final deste writ.
+2) No mérito, o trancamento da ação penal tombada so o nº 001.2003.058832-5, em trâmite na 13ª Vara Crime da Comarca de Recife/PE (...)” (transcrição conforme o original, fl. 48).
+8. Em 22 de junho de 2010, indeferi o pedido de medida liminar, requisitei informações ao Juízo da 13ª Vara Criminal de Recife-PE e determinei que, na sequência, fosse dada vista dos autos ao Procurador-Geral da República (fls. 156-164).
+7. Em 3 de agosto de 2010, o Juízo de primeira instância prestou informações (fls. 170-179).
+8. A Procuradoria-Geral da República se manifestou nos termos seguintes (fls. 201):
+“ 1. Trata-se de habeas corpus impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça que denegou a ordem no HC nº150925/PE. Requer o impetrante a concessão de liminar para suspender a audiência designada par ao dia 11.08.2010 e, no mérito, o trancamento da ação penal.
+2. Para manifestação definitiva acerca do tema, o Ministério Público requer sejam requisitadas informações atualizadas sobre o andamento da Ação Penal nº. 001.2003.058832-5 em trâmite na 13ª Vara Crime da Comarca de Recife/PE. Após, peço nova vista dos autos”.
+Examinada a matéria posta à apreciação, DECIDO.
+9. Defiro a diligência requerida pela Procuradoria-Geral da República (fl. 201).
+10. Expeça-se, com urgência, o ofício pertinente ao Juízo da 13ª Vara Criminal de Recife-PE, nos termos lançados no parecer ministerial.
+11. Prestadas as informações, vista ao Procurador-Geral da República.
+Publique-se.
+Brasília, 19 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
