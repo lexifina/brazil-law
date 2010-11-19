@@ -1,0 +1,19 @@
+1.  Trata-se de recurso extraordinário contra acórdão no qual se discutiu a desapropriação de gleba situada no Município de Piruíbe/SP para implantação da Estação Ecológica Juréia-Itatins, tendo-se concluído que, não obstante o reconhecimento da “indenizabilidade” em virtude do valor da terra nua, a área rural é desprovida de benfeitoria ou cobertura vegetal economicamente apreciável, nos seguintes termos (fls. 1.392-1.403):
+“ DESAPROPRIAÇÃO – VALOR DA INDENIZAÇÃO – PREVALECIMENTO DO LAUDO DO PERITO JUDICIAL NOMEADO PELA TURMA JULGADORA – ACEITO O VALOR PARA TERRA NUA, EXCLUÍDA A INDENIZAÇÃO REFERENTE A COBERTURA VEGETAL – RECURSOS OFICIAL E VOLUNTÁRIO DA FAZENDA PROVIDOS, DESPROVIDO O APELO DA EXPROPRIADA
+DESAPROPRIAÇÃO – INCIDÊNCIA DE JUROS COMPENSATÓRIOS – NECESSÁRIA A COMPROVAÇÃO DE QUE A IMISSÃO PROVISÓRIA NA POSSE OBSTOU A EXPLORAÇÃO ECONÔMICA DO IMÓVEL PELO PROPRIETÁRIO – RECURSOS OFICIAL E VOLUNTÁRIO DA FAZENDA PROVIDOS ”.
+2.  O recorrente sustenta, em síntese (fls. 1.407-1.416), violação ao art. 5º, XXII e XXIV, da Constituição Federal. Afirma que a assertiva da não-indenização pela cobertura vegetal e que os juros compensatórios não são devidos contradizem com o ordenamento jurídico, notadamente o constitucional, inserto no princípio da justa indenização por desapropriação.
+3.  Inadmitido o recurso (fls. 1.433-1.434), subiram os autos em virtude do provimento do AI 677.662/SP – apenso.
+4.  Entretanto, o recurso não merece prosperar. A alegada ofensa à norma constitucional, além de demandar o reexame de fatos e provas (Súmula STF 279), se existente, seria indireta, a depender do exame da legislação infraconstitucional (Decreto Estadual 24.646, de 20.01.1986, e Lei 4.771/65), o que torna incabível a admissão do recurso extraordinário. É o que se depreende do voto proferido pelo Tribunal a quo no voto condutor do acórdão recorrido que adotou como razões para fixação do quantum indenizatório, o laudo de perito oficial da Turma Julgadora (fls. 1.392-1.403):
+“A indenização deve ser fixada tendo em vista o preço de mercado do bem. O Poder Público, mantido pelos impostos da coletividade, não pode desconsiderar fatores observáveis ordinariamente pelo particular.
+Inexistentes condições técnicas e de infra-estrutura ou vegetação que propicie retorno econômico, e o preço da gleba, numa eventual alienação, alcançaria tão-somente o valor da terra nua. Ademais, como explicitou o perito, a retirada da camada vegetal inviabilizaria qualquer uso posterior do terreno.
+Ainda que ultrapassadas todas estas considerações, o imóvel está totalmente inserido na Estação Ecológica de Juréia-Itatins, criada pelo Decreto nº 24.646/86 com a finalidade de assegurar a integridade dos ecossistemas existentes e de proteger sua flora e fauna, bem como sua utilização com objetivos educacionais e científicos.
+As restrições ambientais impostas ao proprietário da gleba o impediriam de auferir qualquer lucro com a camada vegetal do imóvel.
+(...)
+Os juros compensatórios são devidos em razão da imissão provisória na posse do imóvel, contanto se demonstre que a posse do bem antes do pagamento definitivo da indenização obstou sua exploração econômica por parte do proprietário.
+No vertente, sobejamente comprovada a inexistência de qualquer exploração ou possibilidade para tanto, inadmissível a fixação de juros compensatórios”.
+Veja-se o AI 295.072- AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJe 20.11.2009; o AI 387.598-AgR/SP, 2ª Turma, da minha relatoria, DJe 07.8.2009; e o AI 717.016/SP, rel. Min. Eros Grau, 1ª Turma, unânime, DJe 19.9.2008; além das decisões monocráticas proferidas no RE 444.514/SP, rel. Min. Dias Toffoli, DJe 12.02.2010, e no RE 571.402/SP, rel. Min. Carlos Britto, DJe 05.8.2009.
+5.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 19 de novembro de 2010.
+Ministra Ellen Gracie
+Relatora
