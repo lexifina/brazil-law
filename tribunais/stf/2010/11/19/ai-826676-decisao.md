@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade de recurso extraordinário o qual impugna acórdão que reconheceu a ilegitimidade da Fazenda Pública do Estado de Minas Gerais para promover a execução de multa aplicada pelo Tribunal de Contas do Estado.
+No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 71, § 3º, do Texto Constitucional.
+O acórdão recorrido assentou que
+“a cominação decorreu de irregularidades na realização de licitações para a aquisição de bens e serviços para a Prefeitura Municipal de Águas Vermelhas, sendo essa a pessoa jurídica prejudicada pela atuação e, consequentemente, legitimada a mover a execução para receber o valor da multa.” (fl. 90)
+O requerente alega que o Estado é parte legitima para executar as multas impostas pelo Tribunal de Contas do Estado de Minas Gerais, uma vez que se trata de multa cominada no exercício do poder de polícia desse órgão estatal.
+Decido.
+Não assiste razão ao agravante.
+Na espécie, a decisão agravada consignou que o acórdão recorrido está em sintonia com a jurisprudência do Supremo Tribunal Federal no sentido de que somente o ente público beneficiário da condenação imposta pelo Tribunal de Contas pode propor a ação de cobrança.
+A jurisprudência do Supremo Tribunal Federal firmou o entendimento de que a competência para executar multa imposta pelo Tribunal de Contas Estadual a responsáveis por irregularidade no uso de bens públicos é do ente prejudicado. Portanto, esse Tribunal na é parte legítima para propor a ação de cobrança, seja diretamente ou por meio do Ministério Público.
+Nesse sentido, destaca-se o seguinte julgado:
+“ RECURSO EXTRAORDINÁRIO. TRIBUNAL DE CONTAS DO ESTADO DE SERGIPE. COMPETÊNCIA PARA EXECUTAR SUAS PRÓPRIAS DECISÕES: IMPOSSIBILIDADE. NORMA PERMISSIVA CONTIDA NA CARTA ESTADUAL. INCONSTITUCIONALIDADE. 1. As decisões das Cortes de Contas que impõem condenação patrimonial aos responsáveis por irregularidades no uso de bens públicos têm eficácia de título executivo (CF, artigo 71, § 3º). Não podem, contudo, ser executadas por iniciativa do próprio Tribunal de Contas, seja diretamente ou por meio do Ministério Público que atua perante ele. Ausência de titularidade, legitimidade e interesse imediato e concreto. 2. A ação de cobrança somente pode ser proposta pelo ente público beneficiário da condenação imposta pelo Tribunal de Contas, por intermédio de seus procuradores que atuam junto ao órgão jurisdicional competente. 3. Norma inserida na Constituição do Estado de Sergipe, que permite ao Tribunal de Contas local executar suas próprias decisões (CE, artigo 68, XI). Competência não contemplada no modelo federal. Declaração de inconstitucionalidade, incidenter tantum, por violação ao princípio da simetria (CF, artigo 75). Recurso extraordinário não conhecido.” (RE 223.037, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJe 2.08.2002)
+“ AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUNAL DE CONTAS DO ESTADO DO ACRE. IRREGULARIDADES NO USO DE BENS PÚBLICOS. CONDENAÇÃO PATRIMONIAL. COBRANÇA. COMPETÊNCIA. ENTE PÚBLICO BENEFICIÁRIO DA CONDENAÇÃO. 1. Em caso de multa imposta por Tribunal de Contas Estadual a responsáveis por irregularidades no uso de bens públicos, a ação de cobrança somente pode ser proposta pelo ente público beneficiário da condenação do TC. Precedente. Agravo regimental a que se nega provimento.” (RE-AgR 510.034, Rel. Min. Eros Grau, Segunda Turma, DJe 14.08.2008)
+Ante o exposto, nego provimento ao recurso (arts. 21, §1º, do RISTF).
+Publique-se.
+Brasília, 19 de novembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
