@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DECISÃO JUDICIAL DESCUMPRIDA. ART. 461, § 4º, DO CPC. REDUÇÃO DA PERIODICIDADE DA ASTREINTE A FIM DE ATENDER AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. REDUÇÃO MODERADA QUE NÃO AFETA AS FUNÇÕES PUNITIVA E PEDAGÓGICA DO INSTITUTO. BENEFICIÁRIA DO VALOR DA MULTA É A PARTE DIRETAMENTE PREJUDICADA PELA DESOBEDIÊNCIA E NÃO O PODER JUDICIÁRIO. RECURSO PARCIALMENTE PROVIDO”. (fl. 285)
+Verifico que esta Corte se orienta pelo entendimento de que a discussão concernente ao cabimento e ao valor das astreintes depende do prévio exame de normas processuais. Nesse sentido: AI-AgR 660.733, Rel. Min. Cármen Lúcia, DJe 20.2.2009, e AI-AgR 731.718, Rel. Min. Ricardo Lewandowski, DJe 10.11.2010, este último assim ementado:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ASTREINTES. VALOR. MATÉRIA PROCESSUAL ORDINÁRIA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - A discussão concernente ao cabimento e ao valor das astreintes, no presente caso, depende do prévio exame de normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. Ofensa indireta. Precedentes. II – Agravo regimental improvido”.
+Quanto à alegada ofensa ao artigo 5º, incisos XXII, XXIII, XXXII, XXXV, XXXVII, LIII, LIV e LV, da Constituição Federal, caracteriza-se, na hipótese, ausência de prequestionamento, uma vez que os mencionados dispositivos apenas foram suscitados no apelo extremo, não tendo sido debatidos no acórdão recorrido.
+Por fim, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+Ante o exposto, nego seguimento ao recurso (arts. 557 do CPC, e 21, §1o do RISTF).
+Publique-se.
+Brasília, 19 de novembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
