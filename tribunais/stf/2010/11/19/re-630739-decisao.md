@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário contra acórdão assim ementado:
+“CONSTITUCIONAL E ADMINISTRATIVO. SERVIDORES PÚBLICOS. REMUNERAÇÃO. PAGAMENTO COM ATRASO. ILEGALIDADE.
+1. O pagamento da parcela em atraso da remuneração dos servidores públicos não retira a utilidade da prestação jurisdicional. Preliminar de perda do objeto rejeitada.
+2. Prevendo o art. 35, caput, da CE/1989, norma proclamada constitucional pelo Pretório Excelso, que o pagamento dos vencimentos e dos proventos dos servidores públicos ativos e inativos do Estado do Rio Grande do Sul realizar-se-á até o último dia útil do mês, revela-se ilegal o pagamento realizado após o prazo estabelecido.
+3. SEGURANÇA CONCEDIDA, POR MAIORIA” (fl. 242).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 1º, III, 7º, VI e X, 25, caput e § 1º, 37, caput e XV, e 84, II, da mesma Carta.
+A pretensão recursal não merece acolhida.
+Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. É o que ocorre nos presentes autos em relação às supostas ofensas aos arts. 1º, III, e 7º, VI e X, da Constituição.
+Além disso, diferentemente do que sustenta o recorrente, a insuficiência de recursos financeiros do Estado do Rio Grande do Sul para pagamento de remunerações, proventos e pensões não é fato incontroverso nos autos. De fato, constam do acórdão as seguintes manifestações sobre essa questão:
+“Segundo os áulicos da medida, que se tornou pública com estrépito, faltariam recursos ao erário. No entanto, em nenhum momento afirmaram a inexistência absoluta de recursos suficientes” (Desembargador Araken de Assis, fls. 247).
+“Por outro lado, a suposta carência de recursos do Estado não é motivo bastante para justificar o atraso no pagamento dos vencimentos do servidor impetrante. Pois é do próprio site do Governo do Estado (www.rs.gov.br), bem como do site específico da Secretaria da Fazenda do Estado (www.sefaz.rs.gov.br), que podem ser acessados por qualquer usuário do sistema, a informação de que a folha de pagamento dos servidores públicos estaduais não supera 100% da arrecadação mensal” (Desembargador José Aquino Flôres de Camargo, fl. 250).
+“Finalmente, para concluir, há um fato novo que me parece que compromete a alegação de falta de recurso, além de que incontroversamente os dados foram realmente postos, a arrecadação do Estado é superior à Folha, então não existiria impossibilidade material. É que vem de ser concedido pela Colenda Assembléia Legislativa aumento significativo a uma das categorias, inclusive a uma das categorias impetrantes, que é a dos Defensores Públicos. E, se foi concedido um aumento a uma das categorias, me parece extremamente difícil sustentar a impossibilidade material de fazer o pagamento em dia quando se está aumentando discricionariamente, embora de forma, sem dúvida, justa os vencimentos de uma categoria em particular” (Desembargador Luiz Felipe Silveira Difini, fl. 252-253).
+Portanto, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Por fim, o aresto impugnado decidiu a questão com fundamento na interpretação da legislação estadual pertinente (Constituição do Estado do Rio Grande do Sul). Desse modo, para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 19 de novembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
