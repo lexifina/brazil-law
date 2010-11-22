@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. PETIÇÃO SUBSCRITA POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO INEXISTENTE. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Paraná:
+“APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE DIREITO ACIONÁRIO - RESTITUIÇÃO DE VALORES PAGOS COM PRECEITO COMINATÓRIO - INTERPRETAÇÃO DO NOVO CÓDIGO CIVIL - PRESCRIÇÃO - INOCORRÊNCIA - DIREITO PESSOAL - DESNECESSIDADE DE FORMAÇÃO DE LITISCONSÓRCIO PASSIVO COM O MUNICÍPIO DE LONDRINA E A COPEL GERAÇÃO S.A. COMO PRINCIPAIS ACIONISTAS - AUTONOMIA FINANCEIRA E ADMINISTRATIVA DA REQUERIDA - PERSONALIDADE JURÍDICA DA SOCIEDADE QUE NÃO SE CONFUNDE COM A DE SEUS SÓCIOS - INEXISTÊNCIA DE LITISPENDÊNCIA ENTRE AÇÕES COLETIVAS E INDIVIDUAIS - PRECEDENTES - SUSPENSÃO DO PROCESSO - DESCABIMENTO ANTE A AUSÊNCIA DE COMPROVAÇÃO DA RELAÇÃO DE PREJUDICIALIDADE ENTRE AS DEMANDAS - MÉRITO - LEI MUNICIPAL QUE CONFERIU DIREITO DE OPÇÃO AOS ENTÃO ADQUIRENTES DE DIREITO DE USO DE LINHA TELEFÔNICA PARA CONVERSÃO EM DIREITO ACIONÁRIO - DIREITO DE USO DE TERMINAL TELEFÔNICO PREVISÃO DE LEI ESPECIFICANDO A CLASSE DE AÇÕES PREFERENCIAIS - POSSIBILIDADE - QUESTÕES QUE SOMENTE DEPENDEM DA ANÁLISE DE PROVA DOCUMENTAL E DA INTERPRETAÇÃO A SER CONFERIDA AOS DISPOSITIVOS LEGAIS - RECURSO PROVIDO” (fls. 89-90).
+3. No recurso extraordinário, a Agravante afirma que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXVI e LV, e 37, inc. XIX, da Constituição da República.
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a inexistência, nos autos, de procuração outorgada ao subscritor da petição recursal (fls. 185-186).
+A Agravante reitera os argumentos formulados no recurso extraordinário.
+Examinada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. Este Supremo Tribunal assentou a inexistência de recurso interposto por advogado que não disponha do necessário instrumento de mandato judicial nos autos processuais. Nesse sentido:
+“PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO INEXISTENTE. I - A jurisprudência da Corte firmou-se no sentido de considerar inexistente o recurso interposto por advogado sem procuração nos autos e de que não se aplica a regra do art. 13 do CPC em sede extraordinária. II - Agravo regimental improvido” (AI 577.802-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, Dje 31.10.2007).
+“RECURSO - REPRESENTAÇÃO PROCESSUAL - REGULARIDADE - OPORTUNIDADE. Na hipótese de interposição de recurso, o pressuposto objetivo de recorribilidade, que é a regular representação processual, há de estar atendido no prazo assinado em lei para a própria interposição. Descabe aplicar, em tal fase, o disposto no artigo 13 do Código de Processo Civil, cuja incidência sempre pressupõe a fase de conhecimento” (AI 546.997-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJ 31.3.2006, grifos nossos).
+“PROCESSUAL CIVIL. REPRESENTAÇÃO PROCESSUAL: REGULARIDADE. INEXISTÊNCIA DE PROCURAÇÃO: NÃO CONHECIMENTO DO RECURSO. I. - Recurso interposto por advogado que não disponha, nos autos do processo, do necessário instrumento de mandato não pode ser conhecido. Inaplicabilidade, na fase recursal, do disposto no art. 13, CPC. II. - Precedentes do STF. III. - Agravo da União provido. Não conhecimento do agravo da empresa autora da demanda” (RE 281.287-ED-AgR-AgR/RJ, Rel. Min. Carlos Velloso, Segunda Turma, DJ 4.4.2003).
+“PROCESSUAL CIVIL. PETIÇÕES SUBSCRITAS POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. JUNTADA POSTERIOR. IMPOSSIBILIDADE. I. - Cabe ao agravante o dever de vigilância na formação do instrumento. Súmula 288-STF. II. - Impossibilidade de juntada de peça essencial na Corte. Precedentes. III. - Agravo não provido” (AI 518.385-AgR/MG, Rel. Min. Carlos Velloso, Segunda Turma, DJ 1º.4.2005, grifos nossos).
+“Recurso subscrito por advogada sem procuração nos autos. A regra geral que decorre do art. 37, caput, do CPC, expressa ser indispensável a presença, em autos de processo judicial, do instrumento de mandato outorgado pela parte ao advogado, sob pena de serem considerados inexistentes os atos praticados. 2. Agravo regimental não conhecido” (AI 625.581-AgR, Rel. Min. Ellen Gracie, Tribunal Pleno, DJ 13.4.2007).
+7. Nada há, pois, a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 22 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
