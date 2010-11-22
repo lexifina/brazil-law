@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto de acórdão, prolatado por Tribunal Regional Federal, em que se discute a incidência da contribuição previdenciária instituída pela Medida Provisória 560/1994.
+Alega-se violação do disposto nos arts. 62, parágrafo único (em sua redação originária), e 195, § 6º, da Constituição federal.
+O Pleno, por ocasião do julgamento da ADI 1.135, assim decidiu:
+“Previdência Social: contribuição social do servidor público: restabelecimento do sistema de alíquotas progressivas pela MProv. 560, de 26.7.94, e suas sucessivas reedições, com vigência retroativa a 1.7.94 quando cessara à da Lei nº 8.688/93, que inicialmente havia instituído: violação, no ponto, pela MProv. 560/94 e suas reedições, da regra de anterioridade mitigada do art. 195, §6º, da Constituição; conseqüente inconstitucionalidade da mencionada regra de vigência que, dada a solução de continuidade ocorrida, independe da existência ou não de majoração das alíquotas em relação àquelas fixadas na lei cuja vigência já se exaurira. ”
+Nessa ação direta de inconstitucionalidade, com eficácia erga omnes inclusive para o Supremo Tribunal Federal, entendeu esta Corte que a Medida Provisória 560/1994 reviveu constitucionalmente a contribuição social dos servidores públicos ao estabelecer nova tabela progressiva de alíquotas, o que equivaleu à reinstituição do tributo, devendo, portanto, ser observada a regra da anterioridade mitigada do art. 195, § 6º, da Constituição federal, o que implica dizer que essa contribuição, com base na referida medida provisória e suas sucessivas reedições, só pode ser exigida após o decurso de noventa dias da data de sua publicação.
+Por outro lado, no julgamento do RE 232.896 (rel. Min. Carlos Velloso, RTJ 170/993), o Pleno acentuou que “não perde eficácia a medida provisória, com força de lei, não apreciada pelo Congresso Nacional, mas reeditada, por meio de nova medida provisória, dentro de seu prazo de validade de trinta dias”.
+Dessas orientações não divergiu o Tribunal de origem.
+Ademais, saliento que o período de noventa dias para o atendimento da exigência da anterioridade mitigada do art. 195, § 6º, da Constituição federal, é contado a partir da edição da primeira medida provisória da série, qual seja, a Medida Provisória 560, de julho de 1994, e, no caso dos autos, o Juízo de origem reconheceu a decadência do direito dos agravantes de pleitearem a restituição de qualquer valor descontado até 28.11.1996, data em que de há muito se havia escoado o prazo nonagesimal.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 22 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
