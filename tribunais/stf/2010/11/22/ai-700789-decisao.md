@@ -1,0 +1,11 @@
+DECISÃO : Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão de Turma Recursal, cuja ementa é do seguinte teor:
+“ EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO JUDICIAL. PRELIMINAR DE NULIDADE DA CITAÇÃO NO PROCESSO DE CONHECIMENTO DESACOLHIDA. APLICAÇÃO DA SÚMULA 07 DAS TURMAS RECURSAIS. PENHORABILIDADE DO APARELHO DE TELEVISÃO EM RAZÃO DA DUPLICIDADE DE BENS. INEXISTÊNCIA DE COMPROVAÇÃO DE FATO IMPEDITIVO DO DIREITO DO CREDOR. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO DESPROVIDO .” (Fls. 78)
+No recurso extraordinário, a parte agravante alega que o acórdão recorrido violou o art. 5º, LIV e LV, da Constituição federal. Sustenta, em síntese, a nulidade da citação na pessoa de terceiro.
+É o relatório. Decido.
+A Turma Recursal afastou a alegação de nulidade da citação ao fundamento de que “(...) Segundo se verifica dos autos do processo de execução em apenso, em 24 de outubro de 2005 o AR de citação foi encaminhado para endereço Av. do Lami, 735, Bairro Belém Novo, sendo recebido em 28 de outubro de 2005 por um terceiro, no caso, a Senhora Neiva Aguiar (fl. 2, verso). A parte autora requereu a baixa do processo, noticiando existência de acordo extrajudicial (fl. 4). Todavia, em face do descumprimento do pacto, houve a reativação do feito. Ato contínuo, foi expedido novo AR de citação para aquele mesmo endereço, sendo recebido em 19 de janeiro de 2006 por Lucas Aguiar da Rocha. Neste ponto, como bem apanhado em sentença, o endereço para onde foi encaminhada a citação inicial é o mesmo e, principalmente, salienta-se que o sobrenome do recebedor é igual ao do executado o que, no mínimo, está sinalizar vinculação de parentesco.” (fls. 79)
+Impossível chegar a conclusão diversa sem o reexame das provas que fundamentaram o acórdão recorrido e das normas processuais infraconstitucionais, de modo que a alegada violação aos dispositivos constitucionais, se houvesse, seria indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 635.856-AgR (rel. min. Cármen Lúcia, Dje de 20.02.2009).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 22 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
