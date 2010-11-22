@@ -1,0 +1,28 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 2ª região. Acórdão assim ementado (fls. 33):
+“CONSTITUCIONAL. ANISTIA. MILITAR. MOTIVAÇÃO POLÍTICA. LEI 6683/79. EC Nº 26/85. ARTIGO 8º DO ADCT. PROMOÇÕES. PRESCRIÇÃO. FÉRIAS E LICENÇAS NÃO GOZADAS. LEGITIMIDADE DA FILHA PARA POSTULAR O RECONHECIMENTO DA CONDIÇÃO DE ANISTIADO DE SEU PAI E PENSÃO. CORREÇÃO MONETÁRIA. JUROS MORATÓRIOS.
+- Não procede alegação de que o militar só teria direito à anistia se vivo estivesse à época do advento da Constituição Federal de 1988, eis que não só o art. 8º do ADCT poderia lhe garantir o benefício, como, também, legislação anterior, que tratou da matéria, como a Lei 6.683/79 e a Emenda Constitucional nº 26/85.
+- A Lei 6.683, promulgada em 1979, portanto antes do óbito do servidor, em 21 de julho de 1988, já garantia anistia a todos aqueles que, no período de 02-09-61 a 15-08-79, praticaram crimes políticos ou conexos com estes, crimes eleitorais, aos que tiveram seus direitos políticos suspensos e aos servidores da administração direta e indireta, de fundações vinculadas ao poder público, aos servidores dos poderes legislativo e judiciário, aos militares e aos dirigentes e representantes sindicais, punidos com fundamento em atos institucionais e complementares.
+- A jurisprudência tem sido pacífica no sentido de que o disposto na Emenda Constitucional nº 26/85 se aplica aos militares licenciados em 1964 por terem participado de reunião sindical, reconhecendo o direito à anistia e, coseqüentemente à reforma desses ex-militares (AG nº 2003.02.01002849-0 REG: 02 TURMA: 03 DJ: 20-10-03 PG: 155 REL: JUÍZA TANIA HEINE).
+- O art. 8º do ADCT assegurou ampla anistia, que alcançou todos aqueles punidos por atos de motivação exclusivamente política, donde inconteste o direito do ex-militar à anistia, eis que sua participação na denominada Assembléia dos Marinheiros, no Sindicato dos Metalúrgicos, no Rio de Janeiro, em março de 1964, originou, a título de represália, sua expulsão dos quadros da Marinha, através do Ato nº 424, de 30 de novembro de 1964.
+- A Lei 10.559, de 13 de novembro de 2002, regulamentando o art. 8º do ADCT, acabou por dissipar todas as dúvidas que ainda permaneciam a respeito da matéria, assegurando no art. 13, aos dependentes de anistiados políticos, em caso de seu falecimento, direito à reparação econômica.
+- A jurisprudência é unânime no sentido de que a pensão é regida pela legislação vigente à época do evento morte, quando exsurge o direito à mesma. No caso, à época do óbito do militar vigia a Lei 3.765/60, que, no art. 7º, assegura pensionamento à autora, ao cuidar da habilitação dos herdeiros.,
+- Se o militar, pai da autora, não tivesse sido licenciado dos quadros da Marinha, com sua morte, em 21-07-88, exsurgiria para a autora, da mesma forma, direito a pensão militar, nos termos da Lei 3.765/60.
+- Comprovado que o pai da autora foi licenciado dos Quadros da Marinha pelo Ato nº 424/64. nitidamente de exceção, faz jus à anistia e, conseqüentemente, sua filha, ao pensionamento.
+- O militar faz jus, de forma abrangente, a todas as promoções que lhe seriam concedidas caso estivesse em efetivo serviço, nos termos da Emenda Constitucional nº 26/85, do art. 8º do ADCT da CF/88 e da Lei 10.559/02.
+- Legítimo o direito à contagem do tempo de férias e licenças-prêmio não gozadas em dobro, ex vi do disposto no § 3º do art. 6º da Lei 10.559/02.
+- Nas ações postulando anistia não ocorre a chamada prescrição de fundo de direito, eis que o artigo 8º do ADCT não faz qualquer menção temporal para se pleitear o benefício; porém, prescritas estão as parcelas anteriores ao qüinqüênio que antecede a propositura da ação.
+- Correção monetária segundo os índices constantes da tabela de atualização de Precatórios da Justiça Federal, contada a partir da data de vencimento de cada prestação.
+- Juros moratórios de 1% ao mês, por se tratar de verba de caráter alimentar.”
+2. Pois bem, a parte recorrente alega violação ao art. 5º da Magna Carta de 1988, ao art. 4º da Emenda Constitucional 26/1985, bem como ao art. 8º do ADCT.
+3. Tenho que a insurgência não merece acolhida. De saída, observo que o art. 5º da Constituição Federal não foi apreciado pelo acórdão recorrido. Tampouco foram opostos embargos declaratórios para suprir eventual omissão. Falta, portanto, o necessário prequestionamento, nos termos das Súmulas 282 e 356 do STF.
+4. Por outra volta, para saber a natureza jurídica do ato que motivou a expulsão do militar, faz-se necessário o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula 279/STF. Nesse sentido, leia-se a ementa do RE 248.816-AgR, da relatoria do ministro Maurício Corrêa, in verbis:
+“ AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. MILITAR. ANISTIA. EMENDA CONSTITUCIONAL Nº 26/85 E LEI Nº 6.683/79. CONTROVÉRSIA ACERCA DA NATUREZA JURÍDICA DO ATO DE EXPULSÃO. REEXAME DA MATÉRIA FÁTICA. IMPOSSIBILIDADE.
+Natureza jurídica do ato que motivou a expulsão dos militares. Matéria fático-probatória cujo reexame é vedado nesta instância extraordinária. Incidência da Súmula 279-STF.
+Agravo regimental não provido.”
+5. Vejam-se, a propósito, o AI 454.417-AgR, da relatoria da ministra Ellen Gracie; bem como os REs 259.560, da relatoria do Ministro Cezar Peluso; e 601.202-AgR, da relatoria do ministro Ricardo Lewandowski.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 22 de novembro de 2010.
+Ministro AYRES BRITTO
+Relator
