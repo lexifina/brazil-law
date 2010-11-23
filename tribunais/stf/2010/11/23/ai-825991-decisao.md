@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“INTERVALO INTRAJORNADA. REDUÇÃO. NORMA COLETIVA. Acórdão do Tribunal Regional em conformidade com a Orientação Jurisprudencial 342 da SDI-1 desta Corte, que consagra a tese de que é inválida cláusula de acordo ou convenção coletiva de trabalho contemplando a supressão ou redução do intervalo intrajornada porque este constitui medida de higiene, saúde e segurança do trabalho, garantido por norma de ordem pública (art. 71 da CLT e art. 7º, XXII, da CF/1988), infenso à negociação coletiva". Incidência das Súmulas 126 e 333 desta Corte e do disposto no art. 896, § 4º, da CLT. DESCONTOS PREVIDENCIÁRIOS. FORMA DE ATUALIZAÇÃO. A decisão regional foi proferida em sintonia com os termos da Súmula 368 do TST. O conhecimento do Recurso encontra obstáculo na aplicação da Súmula 333 desta Corte e no disposto no § 4º do art. 896 da CLT.
+  Recurso de Revista de que não se conhece” (fl. 124).
+No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 7°, XIII, XXII e XXVI, da mesma Carta.
+O agravo não merece acolhida. É que a jurisprudência de ambas as Turmas desta Corte consolidou-se no sentido de que a discussão relativa à validade de cláusula, prevista em convenção ou acordo coletivo, referente ao intervalo intrajornada caracteriza ofensa constitucional indireta, por demandar a análise da legislação infraconstitucional e de cláusulas do respectivo acordo ou convenção coletiva, conforme se observa dos julgados a seguir transcritos:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. INTERVALO INTRAJORNADA. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 628.538-AgR/MG, Rel. Min. Cármen Lúcia).
+“I. Recurso extraordinário: descabimento: controvérsia sobre validade de cláusula de acordo coletivo de trabalho decidida à luz de legislação infraconstitucional pertinente, de reexame inviável no RE: incidência, mutandis, da Súmula 636.
+II. O artigo 7º, XXVI, da Constituição Federal, não elide a declaração de nulidade de cláusula de acordo coletivo de trabalho à luz da legislação ordinária.
+III. Improcedência das alegações de negativa de prestação jurisdicional e de violação das garantias do artigo 5º, XXXV, XXXVI, LIV, da Constituição Federal” (AI 657.176-AgR/MG, Rel. Min. Sepúlveda Pertence).
+Nesse sentido, menciono ainda as seguintes decisões, entre outras: AI 763.008/RS, Rel. Min. Menezes Direito; AI 751.468/MG, Rel. Min. Marco Aurélio; AI 748.904/GO, Rel. Min. Joaquim Barbosa; AI 743.772/RJ, Rel. Min. Cezar Peluso; AI 594.173/PR, Rel. Min. Carlos Britto.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de novembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
