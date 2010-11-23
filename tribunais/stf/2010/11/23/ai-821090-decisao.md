@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SOLDO. EQUIPARAÇÃO COM FUNDAMENTO NO PRINCÍPIO DA ISONOMIA: INCIDÊNCIA DA SÚMULA 339 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“APELAÇÃO CÍVEL. SERVIDOR PÚBLICO MILITAR. PARCELA DE GRATIFICAÇÃO INSTITUÍDA PELA LEI Nº 12.203/2004 AOS DETENTORES DO POSTO DE CAPITÃO PM. A PARCELA EQUIVALENTE A 25% DA GRATIFICAÇÃO INSTITUÍDA NO § 2º DO ARTIGO 11 DA LEI Nº 10.395/95 DESTINA-SE AOS INTEGRANTES DO POSTO DE CAPITÃO PM DA BRIGADA MILITAR, SENDO DEFESO AO PODER JUDICIÁRIO ESTENDÊ-LA AOS DEMAIS INTEGRANTES DA CORPORAÇÃO, A TÍTULO DE ISONOMIA, CONFORME A SÚMULA 339 DO STF (sic). APLICAÇÃO, POR IGUAL, DO ART. 37, INCS. X E XIII, DA CF/88. PREQUESTIONAMENTO. VERBA HONORÁRIA. REDIMENSIONAMENTO EM FUNÇÃO DA ANGULARIZAÇÃO DO FEITO EM SEDE RECURSAL. Apelo desprovido” (fl. 78).
+Tem-se no voto condutor do julgado recorrido:
+“O parágrafo único do art. 2º, da Lei Estadual nº 12.203/2004 se encontra em consonância com o art. 37, inciso XIII, da CF/88, que veda a equiparação ou vinculação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público, atentando-se à circunstância de que os autores, à evidência dos autos, não são destinatários da referida Lei.
+(...) Não vislumbro ferimento ao Princípio da Isonomia no caso concreto, considerando que a lei foi editada tendo em vista a defasagem verificada no padrão de remuneração ao cotejo das peculiaridades do profissional ocupante daquele posto da Brigada Militar.
+(..) Por fim, diante da ausência de autorização legal incide na espécie a Súmula 339, do STF (sic), sendo defeso ao Poder Judiciário aumentar vencimentos de servidores públicos sob fundamento de isonomia” (fls. 70-70v).
+3. No recurso extraordinário, os Agravantes afirmam que teriam sido contrariados os arts. 5º, caput, 37, inc. X, e 39, § 1º, inc. I a III, da Constituição da República.
+Alegam que:
+“como o reajuste concedido aos Capitães pela Lei nº 12.203/04 foi superior àquele concedido aos Praças - do soldado ao 1º Tenente - a diferença do reajuste deve ser estendida a estes servidores militares, uma vez que tal decisão tem como escopo o expresso no artigo 37, X da Constituição Federal, o que impede reajustes diferenciados a civis e militares, ativos e inativos e, muito menos, para servidores do mesmo poder. (...) Trata-se de isonomia entre classes da mesma carreira. Nesta situação, a concessão dos reajustes solicitados não é vedada” (fl. 96).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula 339 do Supremo Tribunal Federal e a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta (fls. 109-110v).
+5. Neste agravo, os Agravantes reiteram as razões do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+6. Razão jurídica não assiste aos Agravantes.
+7. Conforme assentado na decisão agravada, aplica-se à espécie vertente o entendimento consolidado na Súmula 339 do Supremo Tribunal Federal, cujo teor é o seguinte:
+Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos, sob fundamento de isonomia .
+Confiram-se, ainda, os seguintes julgados:
+“RECURSO EXTRAORDINÁRIO. SERVIDORES DO INSTITUTO DE PESOS E MEDIDAS DO MUNICÍPIO DE FORTALEZA. ISONOMIA. SÚMULA 339 DESTE SUPREMO TRIBUNAL. EXAME DE NORMA LOCAL. AGRAVO REGIMENTAL DESPROVIDO” (RE 459.672-AgR, de minha relatoria, Primeira Turma, DJ 7.12.2006).
+“Servidor público do Município de Fortaleza: agentes fiscais de urbanismo: gratificação denominada Retribuição Adicional Variável - RAV: isonomia: inadmissibilidade de equiparação por decisão judicial, sob o fundamento de identidade de atribuições: independentemente de similitude ou não das funções comparadas, o direito à isonomia de vencimentos só se efetiva por expressa previsão legal: incidência da Súmula 339. Precedentes” (RE 423.877-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 19.5.2006).
+“ADMINISTRATIVO. AUSÊNCIA DE PEÇA ESSENCIAL. SÚMULA 288 DO STF. AUMENTO DE VENCIMENTOS. ISONOMIA. SÚMULA 339 DO STF. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. AGRAVO IMPROVIDO I - O agravo de instrumento deve ser instruído com as peças obrigatórias e também com as necessárias ao exato conhecimento das questões discutidas. Incidência da Súmula 288 do STF. II - É dever processual do agravante zelar pela correta formação do instrumento. III - Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia (Súmula 339 do STF). IV - A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. V - Agravo regimental improvido” (AI 693.769-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 27.3.2009).
+“REMUNERAÇÃO FUNCIONAL - EXCLUSÃO DE BENEFÍCIO - PRETENDIDA EXTENSÃO JURISDICIONAL, A SERVIDOR PRETERIDO, DE DETERMINADA VANTAGEM PECUNIÁRIA - INADMISSIBILIDADE - RESERVA DE LEI E POSTULADO DA SEPARAÇÃO DE PODERES - AGRAVO IMPROVIDO.
+- O Poder Judiciário - que não dispõe de função legislativa - não pode conceder, a servidores públicos, sob fundamento de isonomia, mesmo que se trate de hipótese de exclusão de benefício, a extensão, por via jurisdicional, de vantagens pecuniárias que foram outorgadas, por lei, a determinada categoria de agentes estatais.
+- A Súmula 339 do Supremo Tribunal Federal - que consagra específica projeção do princípio da separação de poderes - foi recebida pela Carta Política de 1988, revestindo-se, em conseqüência, de plena eficácia e de integral aplicabilidade sob a vigente ordem constitucional. Precedentes” (AI 273.561-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 4.10.2002).
+Nada há a prover quanto às alegações dos Agravantes.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput , do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se .
+Brasília, 23 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
