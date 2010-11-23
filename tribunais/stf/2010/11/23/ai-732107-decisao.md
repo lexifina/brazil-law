@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão da Turma Recursal dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+“PLANO DE EXPANSÃO DE REDE DE ENERGIA ELÉTRICA. AÇÃO FUNDADA NO ENRIQUECIMENTO SEM CAUSA DA CONCESSIONÁRIA. PRAZO PRESCRICIONAL DE 20 ANOS ATÉ ANTES DO ADVENTO DO CÓDIGO CIVIL/2002, A PARTIR DE QUANDO, APLICADA A REGRA DE TRANSIÇÃO DO ART. 2.028 AO CASO CONCRETO, TAL PRAZO PASSOU A SER DE TRÊS (3) ANOS, COM FULCRO NO ART. 206, § 3º, INC. IV DO CC. RECURSO PROVIDO.” (FL. 174)
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, o recorrente sustenta a repercussão geral da matéria deduzida no recurso. No mérito, alega que houve ofensa ao artigo 5º, XXII, XXIV, LIV e LV, da Constituição Federal.
+Decido.
+Não assiste razão ao agravante.
+Inicialmente, registre-se que o acórdão recorrido encontra-se devidamente fundamentado, sendo pacífico o entendimento desta Corte no sentido de que, se a decisão estiver apropriadamente fundamentada, ainda que não tenha enfrentado especificamente todos os argumentos trazidos pelos recorrentes, não há que se falar em violação aos arts. 5º LIV e LV, da Constituição Federal.
+Saliente-se, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, ementada nos seguintes termos:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (grifei)(AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Pleno, DJe 13.8.2010 ).
+Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses dos agravantes. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação.
+Além disso, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de contrariedade ao princípio do contraditório, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa constitucional indireta.
+Por fim, não merece prosperar a alegação de violação do art. 5º, XXII, XXIV, uma vez que o acórdão recorrido decidiu a questão com fundamento em cláusulas contratuais (Súmula STF 454), na legislação infraconstitucional aplicável à espécie (Lei 10.848/2004 e no CC) e nos documentos acostados aos autos (Súmula STF 279) hipóteses que inviabilizam a via extraordinária.
+No mesmo sentido são as seguintes decisões monocráticas: RE 545.802/RS, rel. Min. Cezar Peluso, DJe 26.10.2009; o AI 765.584-RS, rel. Min. Cármen Lúcia, DJe 04.9.2009; e o AI 790.000/RS, Rel. Min. Dias Toffoli, DJe 26.5.2010.
+Ante exposto, nego seguimento ao recurso. (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 23 de novembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
