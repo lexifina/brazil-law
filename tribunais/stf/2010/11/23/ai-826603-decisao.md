@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido reconheceu o direito de reenquadramento na função que o agravado efetivamente exercia antes da edição da Lei Estadual 13.666/2002.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVI, e 40, § 8º, da mesma Carta, bem como ao art. 7º, da EC 41/03.
+O agravo merece acolhida. É pacífica a jurisprudência deste Tribunal no sentido de que não há direito adquirido a regime jurídico, não havendo falar, portanto, em violação do direito adquirido e do princípio da isonomia se a Administração altera o escalonamento hierárquico da carreira a que pertence o servidor inativo, criando novos níveis para a progressão de servidores da ativa, desde que não implique em redução dos proventos do servidor inativo. Nesse sentido:
+“EMENTA: Agravo regimental em agravo de instrumento. 2. Desacerto da decisão não demonstrado. 3. Direito adquirido à regime jurídico. Inexistência. Irredutibilidade de vencimentos. Não-ocorrência. Precedentes. 4. Reenquadramento de servidores inativos na última referência no plano de cargos e salários. Impossibilidade. Precedentes. 5. Agravo regimental a que se nega provimento” (AI 603.036-AgR, Rel. Min. Gilmar Mendes).
+“EMENTA: I. Magistério do Estado do Paraná: reenquadramento na sistemática da LC 77/96: extensão aos inativos que preencherem os requisitos individuais exigidos. II. Servidor público: é da jurisprudência do Supremo Tribunal que não há direito adquirido a regime jurídico, no qual se inclui o nível hierárquico que o servidor ocupa na carreira. III. Recurso extraordinário: inviabilidade para o reexame dos fatos da causa, que devem ser considerados ‘na versão do acórdão recorrido’. Precedentes” (AI 598.229-AgR, Rel. Min. Sepúlveda Pertence).
+Cito ainda, as seguintes decisões, entre outras: RE 560.504/DF, e RE 460.765/DF-AgR, Rel. Min. Cezar Peluso.
+Isso posto, com base no art. 544, § 3º e § 4º, do CPC, dou provimento ao agravo de instrumento para conhecer do recurso extraordinário e dar-lhe provimento. Honorários a serem fixados pelo Juízo de Execução, nos termos da legislação processual.
+Publique-se.
+Brasília, 23 de novembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
