@@ -1,0 +1,18 @@
+DECISÃO
+CARTÓRIO – TITULARIDADE – TETO CONSTITUCIONAL – LIMINAR INDEFERIDA.
+1. A Assessoria prestou as seguintes informações:
+Este mandado de segurança está dirigido contra a decisão publicada no Diário Oficial da União 12 de julho de 2010, mediante a qual o Corregedor Nacional de Justiça, apreciando o Procedimento de Controle Administrativo nº 0002363.72.2009.2000.000, determinou que todos os cartorários incluídos na lista de vacância deveriam se adequar à remuneração limitada pelo artigo 37, inciso XI, da Constituição Federal (documentos anexos).
+Afirma ter interposto Recurso Administrativo perante o Conselho Nacional de Justiça – CNJ, mas, devido à inexistência de efeito suspensivo do referido recurso, necessária a impetração do presente mandado de segurança, nos termos dos artigos 5º e 23 da Lei nº 12.016/2009. Sustenta ter o CNJ exorbitado a competência fixada no artigo 103 – B da Carta da República ao estabelecer um teto remuneratório para os cartorários.
+Assevera que, desde a década de 70, trabalhou como juramentado e como substituto no Tabelionato de Notas de Astorga/PR e que, em 4 de outubro de 1988, foi efetivado no cargo de Escrivão Distrital de Santa Zélia – Comarca de Astorga, por ato do Governador do Estado do Paraná, com fundamento legal no artigo 208 do Texto Maior, combinado com o disposto no artigo 178 da Lei nº 7.297/80. Em 28 de dezembro de 1994, foi removido para o cargo de Tabelião de Notas e Oficial de Protestos de Títulos da sede da Comarca de Astorga, permanecendo na citada serventia até o presente.
+Aduz não competir ao CNJ a declaração, ainda que implícita, de inconstitucionalidade do artigo 28 da Lei nº 8.935/94, sob pena de violação ao artigo 103 – B da Carta de 1988. Assenta que a mencionada decisão no Procedimento de Controle Administrativo constitui verdadeiro ato legislativo e jurisdicional, na medida em que declara a inconstitucionalidade de lei federal e regula matéria de acordo com seu livre convencimento. Cita como precedentes, dentre outros, a Medida Cautelar na Ação Cautelar nº 2.390, da relatoria da Ministra Cármen Lúcia; o Mandado de Segurança nº 29.027, da relatoria de Vossa Excelência; a Medida Cautelar no Mandado de Segurança nº 29.039, da relatoria do Ministro Gilmar Mendes; a Medida Cautelar no Mandado de Segurança nº 29.192, da relatoria do Ministro Dias Toffoli.
+Defende existir distinção entre o regime constitucional dos servidores públicos, previsto no artigo 37 da Constituição Federal, e o dos concursados para responderem por delegação em caráter privado os serviços notariais.
+Requer, liminarmente, a suspensão dos efeitos da decisão proferida pelo Corregedor Nacional de Justiça no âmbito do Procedimento de Controle Administrativo nº 0002363.72.2009.2000.000 e, no mérito, a confirmação da medida liminar, declarando-se a ilegalidade do ato impugnado, determinando-se ao Impetrante a percepção integral dos emolumentos auferidos por meio da atividade delegada em caráter privado.
+Acompanharam a inicial os documentos juntados eletronicamente.
+O processo veio ao exame de Vossa Excelência em 12 de novembro, haja vista a redistribuição determinada pelo Ministro-Presidente em 3 de novembro, e encontra-se concluso para exame do pleito de medida acauteladora.
+2. Indefiro a medida liminar relativamente ao teto constitucional ante a circunstância de a titularidade não haver decorrido do concurso público previsto no artigo 236 da Constituição Federal, mas sim considerada a condição de servidor público.
+3. Solicitem informações ao Conselho Nacional de Justiça.
+4. Com a manifestação, colham o parecer do Procurador-Geral da República.
+5. Publiquem.
+Brasília, 23 de novembro de 2010.
+Ministro MARCO AURÉLIO
+Relator
