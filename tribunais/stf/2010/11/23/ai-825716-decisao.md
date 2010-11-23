@@ -1,0 +1,21 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+“REMESSA OFICIAL E RECURSO ORDINÁRIO EM AÇÃO RESCISÓRIA INTERPOSTA PELA AUTORA. IPC DE JUNHO DE 1987. VÍCIO DE CITAÇÃO DECLARADO EM RELAÇÃO A ALGUNS DOS RÉUS. LITISCONSÓRCIO UNITÁRIO NECESSÁRIO NO POLO PASSIVO DA AÇÃO. IMPOSSIBILIDADE DE RESCISÃO DA SENTENÇA PARA ALGUNS E NÃO PARA OUTROS. SÚMULA 406 DO TST.
+(...)
+INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO. ARTIGO 485, INCISO II, DO CPC E VIOLAÇÃO DO ARTIGO 114 DA CONSTITUIÇÃO FEDERAL.
+(...)
+URP DE FEVEREIRO DE 1989 (PLANO VERÃO).
+(...)
+RECURSO ORDINÁRIO ADESIVO INTERPOSTO PELOS RÉUS ADA SMIDT E OUTROS. HONORÁRIOS ADVOCATÍCIOS” (fls.1956-1958).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXV, XXXVI, LIV e LV, 93, IX, e 133 da mesma Carta.
+O agravo não merece acolhida. É que a jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Confiram-se, a propósito, os seguintes julgados de ambas as Turmas do Supremo Tribunal:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE SUPRESSÃO DE INSTÂNCIA. ART. 515, § 3º, DO CÓDIGO DE PROCESSO CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 631.452-AgR/DF, Rel. Min. Cármen Lúcia, Primeira Turma).
+“ AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI 360.265-AgR/RJ, Rel. Min. Celso de Mello, Segunda Turma).
+Além disso, a apreciação do art. 133 da Constituição, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+“ ACÓRDÃO QUE AFASTOU ALEGAÇÃO DE IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL DO RECORRIDO. PRETENSA AFRONTA AO ART. 133 DA CONSTITUIÇÃO FEDERAL. Alegação insuscetível de ser apreciada senão por via da interpretação da legislação infraconstitucional, procedimento inviável em sede de recurso extraordinário, onde não têm guarida alegações de ofensa reflexa e indireta à Constituição Federal. Agravo regimental improvido” (AI 196.611-AgR/DF, Rel. Min. Ilmar Galvão, Primeira Turma).
+“ RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. ALEGADA VIOLAÇÃO AO ART. 133 DA CF. OFENSA REFLEXA. REEXAME DE PROVA. 1. A inviolabilidade do advogado por seus atos e manifestações no exercício da profissão se dá nos limites da lei. A depender o exame da ofensa ao art. 133 da Constituição Federal de prévia análise de matéria infraconstitucional, inviável o recurso extraordinário. 2. Incidência do enunciado da Súmula STF nº 279. 3. Agravo regimental improvido” (RE 239.655-AgR/SP, Rel. Min. Ellen Gracie, Segunda Turma).
+Por fim, a exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador diga de forma clara e concisa as razões de seu convencimento, tal como ocorreu.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de novembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
