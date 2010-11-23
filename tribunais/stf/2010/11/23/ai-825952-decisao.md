@@ -1,0 +1,9 @@
+Trata-se de agravo de instrumento interposto contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“EXECUÇÃO FISCAL – EMBARGOS – SENTENÇA – NULIDADE – INOCORRÊNCIA – INOVAÇÃO RECURSAL – VEDAÇÃO. 1) Segundo a jurisprudência do STJ, o órgão judicial, para expressar sua convicção, não precisa aduzir comentários sobre todos os argumentos levantados pelas partes. Sua fundamentação pode ser sucinta, pronunciando-se acerca do motivo que, por si só, achou suficiente para composição do litígio. 2) Não é admissível que determinada matéria seja levada à apreciação judicial pela primeira vez em sede recursal, pois tal procedimento implicaria em nítida supressão de instância e por conseqüência ofenderia a garantia constitucional da recorribilidade das decisões judiciais. Nos termos do art. 515 do Código de Processo Civil, é vedado inovação recursal em respeito ao princípio tantum devolutum quantum appelatum” (fl. 532).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se, ofensa aos arts. 5º, II, LIV, 146, III, a, 150, VI, a, 156, III, e 155, § 3º, da mesma Carta.
+O agravo não merece acolhida. É que não prospera a alegada violação aos dispositivos constitucionais suscitados pelo recorrente, uma vez que os Ministros desta Casa, no RE 598.365/MG, Rel. Min. Carlos Britto, por unanimidade, recusaram o recurso extraordinário ante a ausência de repercussão geral sobre os pressupostos de admissibilidade de recursos de Cortes diversas, por não se tratar de matéria constitucional. Decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de novembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
