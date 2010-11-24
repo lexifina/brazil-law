@@ -1,0 +1,15 @@
+D ECIS Ã O: Trata-se de agravo regimental em agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. EXECUÇÃO. COISA JULGADA. HORAS EXTRAS. A alegada violação do art. 5º, II e XXXVI, da Carta Magna não tem o alcance que pretende o agravante. Isso porque a controvérsia ficou limitada à melhor interpretação do título exequendo, não se podendo deduzir da decisão do agravo de petição que houve ofensa direta à literalidade do texto da Constituição, mas, quando muito, violação reflexa, insuscetível de possibilitar o acesso ao TST, por conta da peculiaridade do § 2º do art. 896 da CLT. Agravo de instrumento a que se nega provimento.”
+No apelo extremo, o recorrente sustenta, em preliminar formal, a repercussão geral da matéria deduzida no recurso. No mérito, alega que houve ofensa ao princípio da coisa julgada previsto no artigo 5º, XXXVI, da Constituição Federal.
+À fl. 456, determinei a devolução dos autos à origem com base no art. 543-B do Código de Processo Civil. Nas razões do agravo, sustenta-se que no presente feito, não se discute questão alusiva ao cabimento de recurso de competência de outros Tribunais. Argumenta-se que “No caso concreto está a se discutir a inobservância, pelos cálculos de liquidação, dos limites impostos no título executivo, o que resulta, por corolário lógico, em violação direta e literal do inciso XXXVI do artigo 5º da CF.” (fl. 462)
+Nesse ponto, assiste razão ao agravante. Desse modo, torno sem efeito a decisão de fl. 456.
+Entretanto, verifico que a pretensão recursal não merece ser acolhida.
+Esta Corte consignou entendimento de que a controvérsia referente aos limites objetivos da coisa julgada é uma discussão de índole infraconstitucional que não enseja abertura da via extraordinária, pois ofensa à Constituição Federal, se existisse, dar-se-ia de forma indireta ou reflexa.
+Nesse sentido, destaco os julgamentos do AI-AgR 639.002, Rel. Min. Menezes Direito, DJe 17.4.2009; do AI-AgR 702.182, Rel. Min. Ricardo Lewandowski, DJe 27.3.2009, e do RE-AgR 397.227, Rel. Min. Ayres Britto, DJe 13.8.2010, este último assim ementado:
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA ALUSIVA AOS LIMITES OBJETIVOS DA COISA JULGADA. 1. A discussão em torno dos limites objetivos da coisa julgada pertence ao plano infraconstitucional. Precedentes: AIs 639.002-AgR, da relatoria do ministro Menezes Direito; 667.691-AgR, da relatoria do ministro Celso de Mello; 702.182-AgR, da relatoria do ministro Ricardo Lewandowski; e 735.268-AgR, da relatoria da ministra Cármen Lúcia. 2. Incide, de mais a mais, a Súmula 279/STF. 3. Agravo regimental desprovido.”
+Esses julgamentos consolidaram a jurisprudência da Corte no sentido de que o tema versado nos autos é infraconstitucional, motivo pelo qual nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 24 de novembro de 2010.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
