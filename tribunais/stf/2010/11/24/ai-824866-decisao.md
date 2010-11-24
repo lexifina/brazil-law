@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. PARTICIPAÇÃO NOS LUCROS E RESULTADOS. DESPROVIMENTO. Não merece provimento o agravo de instrumento que tem por objetivo o processamento do recurso de revista, quando não demonstrada violação literal de dispositivo constitucional ou legal, nem divergência jurisprudencial apta ao confronto de tese. Art. 896, e alíneas, da CLT” (fl. 354).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, e 7º, XXIX, da mesma Carta.
+O agravo não merece acolhida. Isto porque, o Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Quanto à alegada violação ao art. 7º, XXIX, da Carta Magna, o recurso, do mesmo modo, não merece prosperar, visto que, a jurisprudência desta Corte firmou-se no sentido de que a discussão sobre a prescrição trabalhista, se parcial ou total, é de natureza infraconstitucional. Incabível, portanto, o recurso extraordinário. Nesse sentido, trago à colação os seguintes julgados:
+“TRABALHISTA. CONTROVÉRSIA ACERCA DA ESPÉCIE DE PRESCRICÃO, SE TOTAL OU PARCIAL. ALEGADA VIOLAÇÃO AO INCISO XXIX DO ART. 7º DA CONSTITUIÇÃO FEDERAL. PRECEDENTES. Caso em que a suposta ofensa à Carta da República, se existente, dar-se-ia de forma reflexa ou indireta, não ensejando a abertura da via extraordinária. Precedentes: AIs 137.562-AgR, 200.733-AgR, 262.472-AgR, 289.207-AgR e 137.562-AgR. De mais a mais, foi conferida prestação jurisdicional adequada, em decisão devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante, não se configurando cerceamento de defesa. Agravo desprovido” (AI 569.103-AgR/RS, Rel. Min. Carlos Britto, Primeira Turma).
+“Agravo regimental em agravo de instrumento. 2. Admissibilidade de recurso trabalhista. 3. Ofensa reflexa à CF/88. Precedentes. 4. Dicotomia entre espécies de prescrição - parcial ou total. Controvérsia infraconstitucional. Precedentes. 5. Decisão devidamente fundamentada. 6. Agravo regimental a que se nega provimento” (AI 617.001-AgR/AM, Rel. Min. Gilmar Mendes, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 24 de novembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
