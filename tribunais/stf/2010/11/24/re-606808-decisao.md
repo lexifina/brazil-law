@@ -1,0 +1,14 @@
+DECISÃO: vistos, etc.
+Reconsidero a decisão de fls. 201.
+2. Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado, na parte que interessa (fls. 131):
+“DIREITO PREVIDENCIÁRIO – LEI ESTADUAL 9.380/86, LEI ESTADUAL Nº 13.455/2000 E LC 64/2002 – CONTRIBUIÇÕES PREVIDENCIÁRIAS – DESCONTO – IMPOSSIBILIDADE COM O ADVENTO DA EC 20/98 – RESTITUIÇÃO DEVIDA. JUROS MORATÓRIOS – NATUREZA TRIBUTÁRIA – MEIO POR CENTO AO MÊS A PARTIR DO TRÂNSITO EM JULGADO. Na consideração de que a assistência à saúde não traduz, precisamente, um benefício previdenciário, é de se entender que dos 8% previstos no art. 24 da Lei Estadual nº 9.380/86, em sua redação original, posteriormente modificada pela Lei nº 13.455/00, apenas 4,8% são passíveis de restituição em favor daqueles que sofreram o desconto de forma indevida, ao longo de determinado período. Lado outro, os 3,2% que complementavam o mencionado percentual de 8%, porque destinados à assistência médica, hospitalar, farmacêutica, odontológica e complementar, não são passíveis de restituição ante a constatação de que o servidor, ainda que inativo, teve à sua disposição todos esses benefícios, deles usufruindo, ou não, de acordo com sua conveniência.
+[...]”
+3. Pois bem, a parte recorrente alega violação ao § 12 do art. 40 e ao inciso II do art. 195 da Magna Carta de 1988. Pede que seja restituído “não apenas o percentual de 4,8%, mas a totalidade das parcelas recolhidas à título de 'PREVIDÊNCIA-IPSEMG ASSIST. MÉDICA/PENSÃO' (8%) instituída pela Lei Estadual 9.380/96, posteriormente alterada pela Lei Estadual nº 13.455/00” (fls. 171).
+4. Tenho que a insurgência merece acolhida. Isso porque o Supremo Tribunal Federal já assentou a inconstitucionalidade da cobrança de contribuição previdenciária sobre os proventos da inatividade e as pensões de servidores públicos quanto ao período posterior à EC 20/1998 (não estão em causa as implicações da EC 41/2003).
+5. Precedentes: REs 358.375-AgR e 364.240-AgR-ED, sob a relatoria do ministro Celso de Mello; 367.094–AgR e 382.607-AgR, sob a relatoria do ministro Sepúlveda Pertence; 369.429-AgR e 381.987-AgR, sob a relatoria do ministro Gilmar Mendes; bem como 358.441-AgR-AgR e 369.097-AgR-AgR, sob a minha relatoria.
+6. Não bastasse, anoto que o Plenário desta nossa Corte, ao apreciar a ADI 3.106 e o RE 573.540, concluiu que os Estados-Membros não têm legitimidade para cobrar, de forma compulsória, contribuição destinada à saúde de seus servidores.
+Ante o exposto, e frente ao § 1º-A do art. 557 do CPC, dou provimento ao recurso. Ficam invertidos os ônus da sucumbência.
+Publique-se.
+Brasília, 24 de novembro de 2010.
+Ministro AYRES BRITTO
+Relator
