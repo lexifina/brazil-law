@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO DE RENDA DE PESSOA JURÍDICA - IRPJ E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. NATUREZA DAS ATIVIDADES DA EMPRESA. LEI N. 9.429/95. MATÉRIA INFRACONSTITUCIONAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“TRIBUTÁRIO. AÇÃO ORDINÁRIA. IRPJ. CSLL. SERVIÇOS HOSPITALARES. ARTS. 20 E 15, § 1º, III, 'A' DA LEI 9.249/95. NATUREZA DAS ATIVIDADES. ENQUADRAMENTO. RECEITA BRUTA. REDUÇÃO DE PERCENTUAL.
+1. A atividade desenvolvida pela impetrante não encontra enquadramento no conceito de serviço hospitalar, para o fim de incidência do IRPJ e a CSLL com percentuais de 8% e 12%, respectivamente, sobre a renda bruta, para a formação da base de cálculo destes tributos.
+2. No caso dos autos, as atividades da empresa não se enquadram no conceito de serviços hospitalares, para efeito de incidência da Lei nº 9.249/95, remanescendo aqueles concernentes à hemodiálise.
+3. Posicionamento pessoal destronado em virtude do julgamento da 1ª Seção desta Corte, em 1º de junho de 2006, nos Embargos Infringentes em Apelação Cível nº 2003.71.00.031159-0.
+4. Apelação improvida” (fl. 34).
+Não foram opostos embargos de declaração.
+3. No recurso extraordinário, o Agravante alega que o Tribunal a quo teria contrariado os arts. 150, 196, 197 e 246, da Constituição.
+Argumenta que “o artigo 195 da Constituição Federal (que trata exatamente da COFINS e da CSLL) foi alterado profundamente pela Emenda Constitucional n. 20/98, assim não poderia ter sido regulamenta via medida provisória, como aconteceu com a edição da de n. 135/03, que alterou o regime da COFINS. (...) a retenção das contribuições ao PIS e a CSLL não poderia ser objeto de regulamentação por meio de medida provisória, comprovando-se, desta forma, a inconstitucionalidade do regime estatuído pelo art. 30 da Lei n. 10.833/03 (conversão da Medida Provisória n. 135/03” (fls. 44-45).
+Sustenta que, “com a edição da Lei Ordinária n. 10.833/2003, alguns contribuintes foram diferenciados de outros, ou seja, a isonomia tributária foi afrontada diretamente, na medida em que uma parte dos prestadores de serviço foi diferenciada de outros prestadores de serviço e do resto dos contribuintes” (fl. 46).
+Assevera que “a Receita Federal extrapolou sua competência e impôs restrições descabidas para a caracaterização dos prestadores de serviços hospitalares. Desta forma, deve ser observado o princípio da hierarquia das leis e o disposto na Constituição Federal e na Lei n. 9.249/95, que não impõem as características impostas nas Instruções Normativas que regulam a matéria, como necessárias para o enquadramento como prestadora de serviços hospitalares” (fls.48-49).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de contrariedade direta à Constituição (fls. 58-59).
+O Agravante reitera os argumentos formulados no recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Os arts. 150 e 246 da Constituição não foram objeto de debate e decisão prévios no Tribunal de origem. Tampouco foram opostos embargos de declaração, com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+“A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário” (AI 413.963-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 1º.4.2005).
+7. Ademais, o Tribunal de origem fundamentou-se na interpretação e aplicação de dispositivos da Lei n. 9.249/95 e concluiu que as atividades exercidas pelo Agravante não se enquadrariam no conceito de serviços médico-hospitalares.
+Para se concluir de modo diverso, seria imprescindível a análise daquelas normas infraconstitucionais, o que é vedado em recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. 1. PROCESSUAL CIVIL. NÃO SUBSTITUIÇÃO DO ACÓRDÃO RECORRIDO. 2. TRIBUTÁRIO. IMPOSTO DE RENDA DE PESSOA JURÍDICA - IRPJ E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. COMPROVAÇÃO DOS REQUISITOS LEGAIS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O não provimento do recurso especial pelo Superior Tribunal de Justiça não substitui o acórdão proferido pelo Tribunal de origem, conforme dispõe o art. 512 do Código de Processo Civil. Precedentes. 2. Tributário. Imposto de Renda de Pessoa Jurídica e Contribuição Social sobre o Lucro Líquido. Comprovação dos requisitos exigidos para que empresa prestadora de serviços hospitalares tenha a redução da base de cálculo do imposto. Impossibilidade de reexame de provas (Súmula 279 do Supremo Tribunal Federal) e da análise da legislação infraconstitucional” (RE 600.123-AgR, de minha relatoria, Primeira Turma, DJe 22.10.2009).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA DAS PESSOAS JURÍDICAS. ARTIGO 10 DA LEI N. 8.541/92. ARTIGO 3º, I, DA LEI N. 9.249/95. OFENSA INDIRETA. Controvérsia decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. Precedentes. Agravo regimental a que se nega provimento” (RE 512.469-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 11.9.2008).
+Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 24 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
