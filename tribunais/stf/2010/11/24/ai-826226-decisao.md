@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“RECURSO DE REVISTA. PETROBRAS. PETROS. COMPLEMENTAÇÃO DE APOSENTADORIA. AVANÇO DE NÍVEL.-Ante a natureza de aumento geral de salários, estende-se à complementação de aposentadoria dos ex-empregados da Petrobras benefício concedido indistintamente a todos os empregados da ativa e estabelecido em norma coletiva, prevendo a concessão de aumento de nível salarial - `avanço de nível- -, a fim de preservar a paridade entre ativos e inativos assegurada no art. 41 do Regulamento do Plano de Benefícios da Fundação Petrobras de Seguridade Social - Petros.- (OJ 62/SBDI-1-Transitória). Recurso de revista não conhecido” (fl. 9).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 7º, XXVI, e 8º, III e VI, da mesma Carta.
+O agravo não merece acolhida. É que o Tribunal Superior do Trabalho decidiu a causa nos seguintes termos:
+“Constata-se que o v. acórdão regional, ao estender a diferença de suplementação de aposentadoria decorrente da progressão de nível salarial prevista em norma coletiva somente aos ativos, decidiu em consonância com a OJ Transitória 62/SBDI-1/TST, assim vazada:
+-OJT 62. PETROBRAS. COMPLEMENTAÇÃO DE APOSENTADORIA. AVANÇO DE NÍVEL. CONCESSÃO DE PARCELA POR ACORDO COLETIVO APENAS PARA OS EMPREGADOS DA ATIVA. EXTENSÃO PARA OS INATIVOS. ARTIGO 41 DO REGULAMENTO DO PLANO DE BENEFÍCIOS DA PETROS. (DJe divulgado em 03, 04 e 05.12.2008)
+Ante a natureza de aumento geral de salários, estende-se à complementação de aposentadoria dos ex-empregados da Petrobras benefício concedido indistintamente a todos os empregados da ativa e estabelecido em norma coletiva, prevendo a concessão de aumento de nível salarial - `avanço de nível- -, a fim de preservar a paridade entre ativos e inativos assegurada no art. 41 do Regulamento do Plano de Benefícios da Fundação Petrobras de Seguridade Social - Petros-.
+Assim, despicienda a análise da invocada ofensa ao art. 7º, XXVI, da CF, contrariedade à OJ 346/SBDI-1/TST, bem como da divergência jurisprudencial colacionada, nos termos da referida OJT e da Súmula 333, ambas do TST” (fls. 10v-11).
+Portanto, é patente que a apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais, bem como, a interpretação de cláusula integrante de acordo coletivo de trabalho, o que atrai a incidência da Súmula 454 do STF. Nesse sentido, menciono recente julgado da Segunda Turma desta Corte, qual seja o AI 727.809-AgR/RN, Rel. Min. Joaquim Barbosa, cuja ementa segue transcrita:
+“AGRAVO REGIMENTAL. MATÉRIA INFRACONSTITUCIONAL. INTERPRETAÇÃO DE CLÁUSULA DE ACORDO COLETIVO. SÚMULA 454. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. É inviável recurso extraordinário para a interpretação de cláusula de acordo coletivo de trabalho. Agravo regimental a que se nega provimento ”.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 24 de novembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
