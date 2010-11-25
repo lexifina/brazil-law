@@ -1,0 +1,24 @@
+1.  Trata-se de habeas corpus com pedido de medida liminar impetrado em favor de MARIA VALDICE VIDAL BARRETO, em que se aponta como autoridade coatora o Ministro Og Fernandes, relator do HC 103.611/SP, anteriormente ajuizado perante o Superior Tribunal de Justiça.
+2.  No caso sob análise, a paciente, juntamente com outros co-réus, foi denunciada pela suposta prática do delito previsto no art. 312 do Código Penal.
+No primeiro grau de jurisdição, a paciente foi absolvida por ausência de provas. Posteriormente, o Tribunal de Justiça do Estado de São Paulo, ao julgar recurso do Ministério Público, condenou a paciente e todos os demais co-réus à pena de nove anos e quatro meses de reclusão.
+Interpostos embargos de declaração em favor da paciente, a Corte estadual acolheu parcialmente o recurso para excluir, quanto à ela, a causa de aumento do art. 327, § 2º, do Código Penal e fixar sua pena em sete anos de reclusão, em regime especial semi-aberto. O acórdão transitou em julgado.
+O HC 103.611/SP foi impetrado ao Superior Tribunal de Justiça em favor da paciente e o HC 168.167/SP, em favor de Reginaldo Passos, um dos co-réus na ação penal.
+A Sexta Turma concedeu parcialmente o segundo writ e estendeu seus efeitos à ora paciente, que teve sua pena redimensionada para quatro anos e um mês de reclusão, mantido o regime inicial semi-aberto. Desta feita, o Ministro Og Fernandes, relator do HC 103.611/SP, julgou prejudicado o writ. Daí a presente impetração.
+3.  Neste habeas corpus, o impetrante insurge-se contra a fixação da pena-base imposta à paciente acima do mínimo legal e do regime inicial de seu cumprimento, sob o argumento de que não houve indicação dos motivos concretos e objetivos que demonstrassem a necessidade da imposição da pena exasperada.
+Assim, requer o deferimento de medida liminar a fim de que se determine o sobrestamento da execução da pena.
+4.  O acórdão do HC 168.167/SP, cujos efeitos foram estendidos à ora paciente, está assim ementado:
+“HABEAS CORPUS. PECULATO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. PRINCÍPIO DA PROPORCIONALIDADE. REDUÇÃO. EXTENSÃO DOS EFEITOS A CORRÉUS.
+1. A pena-base deve ser fixada concreta e fundamentadamente (art. 93, IX, CF), de acordo com as circunstâncias judiciais previstas no art. 59 do Código Penal, conforme seja necessário e suficiente para reprovação e prevenção do delito.
+2. Na espécie, a pena-base, por crime de peculato, foi estabelecida em 6 (seis) anos de reclusão – quatro anos acima do mínimo legal – com fundamento na culpabilidade, conduta social, circunstâncias e consequências do crime.
+3. Contudo, para justificar dita exasperação, limitou-se a Corte de origem a indicar o prejuízo aproximado causado pela ação delituosa aos cofres públicos. No mais, teceu apenas considerações ínsitas à infração, tais como possível atraso em investimentos na Polícia Civil e afetação da imagem desta instituição perante a opinião pública.
+4. Levando em consideração tão somente o fundamento relativo ao prejuízo causado pelos réus, único que, de modo concreto, anda em sintonia com o art. 59 do Código Penal, a pena-base fora estabelecida acima do mínimo legal de forma desproporcional, consubstanciando-se suficiente para a reprovação e prevenção do crime a sua fixação em 3 (três) anos e 6 (seis) meses de reclusão e 17 (dezessete) dias-multa.
+5. Redimensionamento das sanções em virtude da redução da pena-base.
+6. Habeas corpus parcialmente concedido para reduzir a sanção do paciente de 9 (nove) anos e 4 (quatro) meses de reclusão, e 46 (quarenta e seis) dias-multa para 5 (cinco) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, e 25 dias-multa, mantido o regime semiaberto, com extensão da ordem, de ofício, aos corréus Acácio Kato e Maria Valdice Vidal Barreto, cujas penas ficam estabelecidas, respectivamente, em 5 (cinco) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, e 25 dias-multa, e 4 (quatro) anos e 1 (um) mês de reclusão e 19 (dezenove) dias-multa”.
+Com efeito, da leitura do acórdão impugnado na inicial, verifico que o ato se encontra devidamente motivado, apontando as razões de convencimento da Corte.
+5.  Ressalto que, para fins de apreciação do pedido de medida liminar, é necessário avaliar se o acórdão atacado teve o condão de caracterizar patente constrangimento ilegal. Na hipótese dos autos, as razões do aresto hostilizado mostram-se relevantes e, num primeiro exame, sobrepõem-se aos argumentos lançados no writ.
+Desse modo, não vislumbro a presença do requisito do fumus boni iuris para a concessão da tutela pleiteada.
+6.  Ante o exposto, indefiro o pedido de liminar. Solicitem-se informações ao Tribunal de Justiça do Estado de São Paulo. Após, colha-se a manifestação da Procuradoria-Geral da República.
+Publique-se.
+Brasília, 25 de novembro de 2010.
+Ministra Ellen Gracie
+Relatora
