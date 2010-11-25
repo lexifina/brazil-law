@@ -1,0 +1,26 @@
+D ECIS Ã O: Trata-se de recurso extraordinário interposto de acórdão prolatado pelo Tribunal Regional Federal da 4ª Região assim ementado:
+“TRIBUTÁRIO. IPI. NÃO-CUMULATIVIDADE. PRESCRIÇÃO. ALCANCE. INSUMOS ISENTOS, SUJEITOS À ALÍQUOTA ZERO E NÃO TRIBUTADOS. CRÉDITOS. INEXISTÊNCIA. ZONA FRANCA.
+1. Os créditos presumidos não aproveitados, sendo créditos escriturais supostamente decorrentes da não-cumulatividade do IPI, não se equiparam a pagamento indevido de tributo. Aplicável o Decreto 20.910/32, que prevê a prescrição qüinqüenal das pretensões em face da Fazenda Pública.
+2. Proposta a demanda em 16/12/2005, restariam alcançadas pela prescrição as parcelas cujo aproveitamento surgiu anteriormente a 16/12/2000. Entretanto, o pedido vertido na inicial refere-se a supostos créditos relativos ao período de 01/01/2006 a 31/12/2007. Logo, não há prescrição a ser reconhecida no feito, devendo ser reformada a sentença neste ponto.
+3. A não-cumulatividade, prevista no inciso II, § 3º do artigo 153 da Constituição, impõe a compensação do IPI devido em cada operação com o montante do imposto efetivamente pago nas anteriores. Desse modo, inexiste crédito tributário em relação aos insumos isentos, não-tributados ou sujeitos à alíquota zero.
+4. Embora o e. STF tenha sustentado posicionamento oposto, recentemente, no RE 353.657/PR, a orientação é de que, se nada foi pago nas etapas anteriores, não há crédito a compensar. Nesse recurso extraordinário discutiu-se apenas a questão do creditamento do IPI na aquisição de insumos não tributados ou sujeitos à alíquota zero. Todavia, a razão da negativa de creditamento nesses casos foi a inexistência de pagamento anterior de IPI na aquisição, figurando o recolhimento do tributo como pressuposto para o aproveitamento: se nada se pagou a título de IPI, nada há de se creditar. Tendo a hipótese da isenção originado o antigo entendimento que dava direito ao creditamento, deve também acompanhar a vedação ora imposta.
+5. In casu, tem-se a hipótese de isenção do IPI na cadeia produtiva de insumos destinados à fabricação de garrafas plásticas para embalagens, por estar o fornecedor instalado na Zona Franca de Manaus (art. 9º do Decreto-lei nº 288/67). Tal circunstância não afasta a aplicabilidade do entendimento ora exposto, já que a lógica do sistema de "compensação" pressupõe a existência de um "montante cobrado" nas operações anteriores, o que não ocorre igualmente na isenção territorial em comento.” (Fls. 349).
+Sustenta-se, em síntese, violação do art. 153, IV e § 3º, II da Constituição.
+Em especial, invoca-se a orientação firmada no RE 212.484 e veementemente afirma-se inexistir identidade entre a matéria aqui debatida e as questões resolvidas por esta Corte no RE 353.657 e no RE 370.682.
+Os autos foram devolvidos ao Tribunal de origem (art. 543-B do CPC – fls. 414 e 470-471). Todavia, a vice-presidência do TRF da 4ª Região entendeu que a matéria discutida neste recurso é diversa das questões que serão analisadas por esta Corte no RE 590.809-RG (rel. min. Marco Aurélio), paradigma que motivara a devolução dos autos.
+Assim, os autos foram novamente remetidos à esta Corte.
+É o relatório.
+Decido
+Embora a parte final da manifestação do ministro-relator do RE 590.809-RG faça alusão ao fato de a questão relativa ao creditamento do IPI, no caso de isenção, estar novamente submetida ao crivo da Corte, registro que, após o reconhecimento da repercussão geral da matéria constitucional nuclear daquele recurso (alcance de precedentes no tempo), o Supremo Tribunal Federal continua a decidir sobre o ponto derivado, relativo ao direito de creditamento nas operações de aquisição de bens e insumos isentas.
+Portanto, passo ao exame do recurso extraordinário.
+A desoneração da carga tributária em uma das etapas de cadeia de industrialização tem como consequência a proibição do registro de créditos no que concerne à operação subsequente, a não ser que exista norma específica que institua o benefício (RE 353.657, rel. min. Marco Aurélio, Pleno, DJe de 07.03.2008).
+Irrelevante é a técnica legal destinada a alcançar a desoneração (isenção, alíquota-zero ou “não tributado” - cf., e.g., o RE 444.267-AgR, rel. min. Gilmar Mendes, Segunda Turma, DJe de 29.02.2008 e o RE 561.676-AgR, rel. min. Ricardo Lewandowski, Primeira Turma, DJe de 06.08.2010).
+Em sentido muito particular, o cerne da questão reside em saber se o efeito de recuperação é incompatível com a regra da não-cumulatividade, não obstante as palavras escolhidas pelo legislador. E, conforme apontado, a existência do direito ao crédito depende de previsão específica.
+De fato, a distinção entre as figuras legais da “isenção” e da “alíquota-zero” tem origem muito específica, relativa ao desejo de desvinculação da extensão automática das isenções concedidas pela União ao antigo ICM (isenção heterônoma), estabelecida pelo art. 1º, § 4º, VI do Decreto-lei 406/1968 (cf. os fundamentos da Súmula 576/STF).
+Ante o exposto, nego seguimento ao recurso extraordinário.
+Comunique-se o teor desta decisão à União (Fazenda Nacional), considerada a existência de medida liminar até então em efeito (Fls. 523-529).
+Publique-se. Int..
+Brasília, 25 de novembro de 2010.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
