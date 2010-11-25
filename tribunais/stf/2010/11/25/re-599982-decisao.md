@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. CONTRIBUIÇÃO PARA O PROGRAMA DE INTEGRAÇÃO SOCIAL (PIS). ALTERAÇÕES PROMOVIDAS PELA MEDIDA PROVISÓRIA N. 517/1994: CONSTITUCIONALIDADE. JULGADO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO PROVIDO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea b, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+“Tributário e Processual Civil. PIS. Medida Provisória nº 517/94 e reedições. Inconstitucionalidade. Orientação do Plenário deste Tribunal. Erro material. Efeitos infringentes ao recurso. Nulidade do julgamento anterior. Concessão de segurança. Embargos de declaração providos” (fl. 166).
+2. A Recorrente alega que teria sido contrariado o art. 72, inc. V, do Ato das Disposições Constitucionais Transitórias da Constituição da República (ADCT).
+Sustenta a constitucionalidade da Medida Provisória n. 517/1994 e de suas reedições, as quais “na verdade, não inovaram a base de cálculo, que já havia sido definida em legislação preexistente. (...) apenas autorizaram algumas deduções e exclusões da receita bruta operacional” (fl. 188).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica assiste à Recorrente.
+4. A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido da constitucionalidade da Medida Provisória n. 517/1994 e da disciplina da Contribuição ao Programa de Integração Social (PIS) por meio de medida provisória. Nesse sentido:
+“ TRIBUTO. Contribuição para o PIS. Medida Provisória nº 517/94. Fundo Social de Emergência. Matéria estranha à MP. Receita bruta. Conceito Inalterado. Constitucionalidade reconhecida. Recurso provido. A Medida Provisória nº 517/94 não dispõe sobre Fundo Social de Emergência, mas sobre exclusões e deduções na base de cálculo do PIS” (RE 346.983, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.5.2010 – grifos nossos).
+“ Recurso Extraordinário. Agravo Regimental. 2. Programa de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP. Lei Complementar n.º 7/70. Recepção pelo art. 239, da Constituição Federal. 3. Medida provisória. Instrumento idôneo para a instituição e majoração de tributos. Possibilidade de reedição no prazo de trinta dias. Anterioridade nonagesimal: contagem a partir da primeira edição da medida provisória. 4. Agravo regimental desprovido” (RE 286.292-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 23.8.2002 – grifos nossos).
+“ AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. PIS. EC 17/97. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL. O termo a quo do prazo de anterioridade previsto no art. 195, § 6º, da CB/88 flui da data da publicação da medida provisória, que não perde a eficácia, se não convertida em lei, mas editado outro provimento da mesma espécie, dentro do prazo de validade de trinta dias. Precedentes. Agravo regimental a que se nega provimento” (RE 595.673-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 7.8.2009 - grifos nossos).
+Nesse último julgado foi mantida a seguinte decisão monocrática:
+“ Trata-se de recurso extraordinário interposto contra acórdão do TRF da 3ª Região, que manteve a decisão de 1ª instância, sob o entendimento de que as modificações introduzidas pela EC n. 17/97, relativamente à contribuição destinada ao PIS somente passam a viger, noventa dias após sua publicação, não podendo ser aplicadas também a fatos anteriores, em obediência ao princípio da irretroatividade.
+2. Inconformada com essa decisão, a União interpõe recurso extraordinário [fls. 226-235], sob a alegação de que ‘[a] EC n. 17/97 não inovou a ordem jurídica, tendo apenas prorrogado o prazo de vigência da EC de revisão n. 1/94 e EC 10/96, daí porque inexiste qualquer inconstitucionalidade na exação instituída’ [fl. 227].
+3. O Ministério Público Federal, em parecer subscrito pelo Subprocurador-Geral da República Wagner de Castro Mathias Neto, opina pelo provimento do recurso [fls. 286-293]. Transcrevo a ementa do aludido parecer:
+‘Recurso extraordinário. Contribuição para o Programa de Integração Social - PIS. Instituições financeiras. Emenda Constitucional n. 17/97. Princípio da anterioridade nonagesimal. Ofensa não vislumbrada. Pelo provimento da iniciativa’.
+4. Este Tribunal fixou entendimento no sentido de admitir a majoração da contribuição destinada ao PIS mediante a edição de medida provisória. Ficou consignado, nessa ocasião, que ‘o termo a quo do prazo de anterioridade previsto no art. 195, § 6º, da CF/88 flui da data da publicação da medida provisória, que não perde a eficácia, se não convertida em lei, mas editado outro provimento da mesma espécie, dentro do prazo de validade de trinta dias’ [RE n. 182.846, Relator o Ministro Sydney Sanches, DJ de 24.10.97, e RE's n.s 197.790 e 181.664, Relator o Ministro Ilmar Galvão, DJ de 21.11.97 e de 19.12.97, respectivamente].
+Dou provimento ao recurso extraordinário com fundamento no disposto no artigo 557, § 1º-A, do CPC” (grifos nossos).
+Dessa orientação jurisprudencial divergiu o acórdão recorrido.
+5. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal) e denego a ordem de segurança pleiteada.
+Considerando-se a Súmula 512 do Supremo Tribunal Federal, deixo de aplicar os ônus da sucumbência.
+Publique-se.
+Brasília, 25 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
