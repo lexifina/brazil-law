@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição federal) de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é do seguinte teor:
+“AGRAVO INTERNO. PREVIDENCIÁRIO. CONTRIBUINTE POLICIAL MILITAR. PENSÃO POR MORTE. DEPENDENTE. FILHA CASADA. CESSAÇÃO DO BENEFÍCIO NA FORMA DA LEI DE REGÊNCIA.
+Não-provimento ao agravo interno.” (Fls. 108)
+Consigno inicialmente que se trata de apelo extraordinário interposto de acórdão cuja publicação se verificou em data posterior a 03.05.2007, portanto, quando já exigível a demonstração formal da existência de repercussão geral da questão constitucional invocada na peça recursal (cf. AI 664.567-QO, rel. Min. Sepúlveda Pertence).
+Observo que o recurso extraordinário está fundamentado em suposta afronta ao art. 40, da Constituição federal, afirmando-se que as questões constitucionais suscitadas ofereceriam repercussão geral, “(...) tendo em vista que a Constituição Federal é a Lei Maior de um Estado e considerando que os princípios constitucionalmente assegurados são os basilares do Estado Democrático Direito, sua discussão é sempre relevante e enseja repercussão na esfera de toda a coletividade, indistintamente” (fls. 125).
+É patente, pois, que a parte não desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância — do ponto de vista econômico, político, social ou jurídico — das questões constitucionais aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza. Nesse sentido: AI 709.995, rel. min. Cármen Lúcia, DJe de 24.06.2008.
+Ademais, o recurso extraordinário, ao alegar que o acórdão recorrido ofendeu o preceito do art. 40, da Constituição federal, versou questão constitucional que não foi ventilada na decisão recorrida. Ao inovar nos autos, suscitando no agravo (art. 557, § 1º, do CPC) matéria que não constava da apelação (fls. 65-68), deduziu matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ de 15.09.2000, que foi assim ementado:
+“(...)
+Não tem razão a agravante. Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento.
+Agravo a que se nega provimento.”
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 25 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
