@@ -1,0 +1,8 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça de Santa Catarina que manteve sentença a qual julgara extinto processo, sem julgamento de mérito, em razão da ilegitimidade da parte demandada. Transcrevo a ementa (fls. 7):
+INDENIZAÇÃO. EMBARGO DE OBRA DE POSTO SALVA-VIDAS PELO MUNICÍPIO. MORTE POR AFOGAMENTO NESTE PERÍODO. PATRULHAMENTO E DISTRIBUIÇÃO DE SALVA-VIDAS. RESPONSABILIDADE DO GOVERNO DO ESTADO. ILEGITMIDADE PASSIVA DO ENTE MUNICIPAL. LITISCONSÓRCIO NECESSÁRIO. NÃO OCORRÊNCIA. EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO (ART. 267, VI, DO CPC). RECURSO CONHECIDO E DESPROVIDO. “Se a responsabilidade pelo ilícito do qual o demandante visa a se recompor for alheia ao demandado, ou se simplesmente não houver ilicitude, as conseqüências lógicas, para uma ou outra situação, serão o reconhecimento da ilegitimidade passiva ou a improcedência do pedido. Logo, não são litisconsortes necessários as pessoas à quais o demandado imputa a responsabilidade pelo ato lesivo” (AI n. 2004.005985-0, da Capital. Rel. Des. Luiz Cézar Medeiros).
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito dos artigos 5º, V, e 37, §6º, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração (fls. 17-19) conteúdo que não consta da apelação (fls. 128-135), deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ 15.09.2000).
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 26 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
