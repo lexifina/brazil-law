@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 37):
+“I - AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA – COMPLEMENTAÇÃO DE APOSENTADORIA. FUNDAÇÃO CLEMENTE DE FARIA. INEXISTÊNCIA DE DIREITO ADQUIRIDO. Constatada divergência jurisprudencial, nos termos do art. 896, “a”, da CLT, impõe-se o provimento do Agravo de Instrumento para determinar o processamento do Recurso de Revista. Agravo de Instrumento conhecido e provido.
+II RECURSO DE REVISTA – PRELIMINAR DE NULIDADE DO ACÓRDÃO REGIONAL POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. Nos termos do artigo 249, § 2º, do CPC e em observância ao princípio da celeridade processual, deixo de apreciar a presente preliminar de nulidade, por vislumbrar decisão favorável no mérito ao Recorrente.
+ILEGITIMIDADE PASSIVA AD CAUSAM. A reforma da decisão recorrida, no particular, esbarra no óbice da Súmula 126 do TST, que veda o reexame de fatos e provas nesta fase recursal e afasta a violação dos dispositivos legais indicados como violados. Recurso de Revista não conhecido.
+PRESCRIÇÃO. COMPLEMENTAÇÃO DE APOSENTADORIA. Estando a decisão recorrida em consonância com a Súmula 326 do TST o recurso encontra óbice na Súmula 333 do TST e no art. 896, § 4º, da CLT. Recurso de Revista não conhecido.
+COMPLEMENTAÇÃO DE APOSENTADORIA. FUNDAÇÃO CLEMENTE DE FARIA. INEXISTÊNCIA DE DIREITO ADQUIRIDO - É pacífico o entendimento no âmbito desta Corte de que a complementação de aposentadoria prevista nos Estatutos da Fundação Clemente de Faria, de forma precária e condicional, gera apenas expectativa de direito e não direito adquirido, uma vez que se revela fruto de liberalidade introduzida no contrato de trabalho de forma unilateral. Recurso de Revista conhecido e provido.”
+Nas razões do recurso extraordinário, indica-se ofensa ao disposto no art. 5º, XXXVI, da Constituição federal. Sustenta-se que o direito à percepção da complementação da aposentadoria deriva de cláusula contratual e que as modificações ocorridas no Estatuto da entidade previdenciária não poderiam alcançar os beneficiários que aderiram ao pacto antes da alteração.
+É o relatório. Decido.
+O recurso extraordinário não pode ser admitido, pois a alegada ofensa demandaria o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional; bem como seria também necessário o reexame prévio da interpretação das cláusulas contratuais adotada na decisão recorrida. Isso inviabiliza o processamento do recurso extraordinário, em face da vedação contida no enunciado das Súmulas 279 e 454 desta Corte.
+Nesse sentido, AI 485.650-AgR (rel. min. Ayres Britto, Primeira Turma, DJe de 28.08.2009) e RE 563.819-AgR (rel. min. Ellen Gracie, Segunda Turma, DJe de 1º.07.2009).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 26 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
