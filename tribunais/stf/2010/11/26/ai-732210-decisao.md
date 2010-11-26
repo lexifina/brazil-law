@@ -1,0 +1,14 @@
+DECISÃO : Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, cuja ementa tem o seguinte teor:
+“ADMINISTRATIVO – EFETIVAÇÃO EM SERVENTIA EXTRAJUDICIAL – COISA JULGADA – MATÉRIA DECIDIDA EM MANDADO DE SEGURANÇA COM DECISÃO TRÂNSITA EM JULGADO.
+1. O fato de se tratar de ação mandamental não impede o acolhimento da litispendência ou coisa julgada, pois o que importa, além da identidade de partes, pedido e causa de pedir, é que ambas as ações conduzam ao mesmo resultado, sendo irrelevante que os ritos sejam diversos (STJ, Edcl no AgRg no MS 8483/DF, Min. Luiz Fux). Desse modo, afronta a coisa julgada material a renovação do pedido e da causa de pedir, mesmo que por fundamento diverso.
+2. 'Sempre se entendeu entre nós, de conformidade com a lição dos constitucionalistas norte-americanos, que toda lei, adversa à Constituição, é absolutamente nula; não simplesmente anulável. A eiva de inconstitucionalidade a atinge no berço, fere-a ab initio. Ela não chegou a viver. Nasceu morta. Não teve, pois nenhum único momento de validade' (Alfredo Buzaid).
+'Declarada a inconstitucionalidade do art. 14 do ADCT da Constituição do Estado de Santa Catarina, a desconstituição dos atos que nele encontravam a sua causa exclusiva era necessária conseqüência, que foi levada a cabo pela mesma autoridade que os editou' (ROMS N. 10783/SC).” (Fls. 452 - grifei)
+Nas razões do recurso extraordinário, tem-se como violado os arts. 5º, caput, I, XXXV, XXXVI, XLI e LV, da Carta Magna; e 19 do Ato das Disposições Constitucionais Transitórias.
+O Tribunal de origem manteve a decisão que acolheu a alegação de coisa julgada e extinguiu o processo, sem julgamento do mérito, nos termos do art. 267, V, do Código de Processo Civil. A análise das apontadas violações à Constituição requer sejam previamente examinadas as regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, pois seria necessário exame prévio de norma infraconstitucional, hipótese em que não se admite o recurso extraordinário.
+Ademais, a questão relativa à ofensa ao art. 5º, XXXVI, da Carta Magna, por demandar o exame prévio dos limites objetivos da coisa julgada em face da legislação processual infraconstitucional, é indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário.
+Nesse sentido: AI 692.591 (rel. min. Ellen Gracie, DJe de 11.11.2010); AI 809.921 (rel. min. Cármen Lúcia, DJe de 31.08.2010); AI 769.505 (rel. min. Dias Toffoli, DJe de 26.05.2010) e AI 693.928-AgR (rel. min. Ricardo Lewandowski, DJe de 06.04.2010).
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 26 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
