@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. 1) CONSTITUCIONAL E TRIBUTÁRIO. IMUNIDADE RECÍPROCA. ART. 150, INC. VI, ALÍNEA A, E §§ 2º E 3º, DA CONSTITUIÇÃO DA REPÚBLICA. IMÓVEL DE AUTARQUIA LOCADO, MAS NÃO UTILIZADO NA EXPLORAÇÃO DE ATIVIDADE ECONÔMICA: INCIDÊNCIA DA IMUNIDADE. 2) CONTROVÉRSIA SOBRE O DESTINO DO ALUGUEL: SÚMULA N. 279 DO SUPREMO TRIBUNAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“TRIBUTÁRIO E CONSTITUCIONAL. EXECUÇÃO FISCAL. EMBARGOS. IMUNIDADE RECÍPROCA. AUTARQUIA. BEM ARRENDADO.
+A imunidade tributária recíproca dos entes políticos (art. 150, VI, a, da CF) é extensiva às autarquias no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes. O benefício constitucional não é afastado pelo fato de o imóvel estar arrendado a terceiros. Precedentes” (fl. 87 – grifos nossos).
+Tem-se no voto condutor do julgado recorrido:
+“A sentença hostilizada foi lançada com base nos seguintes fundamentos:
+'(...) Conforme o artigo constitucional acima referido, embora a imunidade recíproca seja também estendida às autarquias, limita-se às suas finalidades essenciais. Ora, o arrendamento de imóveis, por certo, não constitui atividade típica da autarquia. Ressalte-se que sequer restou comprovado nos autos que o arrendatário cultivava arroz.
+O constituinte brasileiro ao estabelecer que a imunidade abarcaria somente as finalidades essenciais da autarquia, na verdade, tratou de garantir a isonomia entre o ente público e o privado no que tange à exploração de atividade econômica. O contrário seria colocar a iniciativa privada, já sofrida pela excessiva carga tributária, em uma situação de inferioridade diante da autarquia (...)'.
+Contudo, a matéria discutida nos autos mereceu apreciação nas Cortes pátrias, firmando-se orientação no mesmo sentido pretendido pela Apelante (...).
+Com efeito, o fato de o bem ser objeto de arrendamento a terceiros não tem o condão de afastar a imunidade constitucionalmente estabelecida, consoante entendimento adotado pela Corte detentora do status de intérprete constitucional.
+(...)
+'Tampouco o argumento de que o bem não estaria sendo corretamente aproveitado autoriza a tributação, porquanto a única exceção feita ao princípio constitucional imunizante diz respeito à utilização de bens relacionados com a exploração de atividades econômicas regidas por normas aplicáveis a empreendimentos privados ou com contraprestação/pagamento de tarifas, o que não ocorre na hipótese em comento'” (fls. 87 v.-88 v. - grifos nossos).
+2. A Recorrente afirma que teria sido contrariado o art. 150, § 3º, da Constituição da República.
+Alega que “a Suprema Corte não afasta a necessidade de comprovação do suporte fático para o gozo da imunidade, qual seja, demonstrar-se que o fruto auferido reverta para a finalidade essencial da autarquia” (fl. 105).
+Assevera, ainda, que o Recorrido não se teria desincumbido do ônus de comprovar que os valores decorrentes do arrendamento de imóvel rural de sua propriedade teriam sido utilizados no desempenho de suas finalidades essenciais.
+Examinada a matéria posta à apreciação, DECIDO.
+3. Razão jurídica não assiste à Recorrente.
+4. Este Supremo Tribunal assentou que a imunidade tributária recíproca não é afastada em virtude da locação de imóvel pertencente ao ente imune, contanto que o valor decorrente do aluguel seja utilizado nas suas finalidades essenciais. Nesse sentido:
+“Imunidade tributária do patrimônio das instituições de assistência social (CF, art. 150, VI, c): sua aplicabilidade de modo a preexcluir a incidência do IPTU sobre imóvel de propriedade da entidade imune, ainda quando alugado a terceiro, sempre que a renda dos aluguéis seja aplicada em suas finalidades institucionais” (RE 237.718, Rel. Min. Sepúlveda Pertence, Tribunal Pleno, DJ 6.9.2001 – grifos nossos).
+5. Na espécie vertente, o Tribunal de origem afirmou expressamente que a locação do imóvel pertencente ao Recorrido não traduziria exploração de atividade econômica, situação indicativa da utilização do bem nas finalidades essenciais do ente imune.
+Para se concluir de modo diverso, seria imprescindível o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do Supremo Tribunal Federal e não viabiliza o recurso extraordinário. Nesse sentido:
+“1. RECURSO. Extraordinário. Inadmissibilidade. IPTU. Autarquia. Imunidade tributária. Finalidades essenciais. Reexame de provas. Aplicação das súmulas 279 e 724. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte. 2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (AI 395.862-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 1º.7.2009 – grifos nossos).
+“AGRAVO REGIMENTAL. IMUNIDADE TRIBUTÁRIA. AUTARQUIA ESTADUAL. RENDA PROVENIENTE DA LOCAÇÃO DE IMÓVEL. DESTINAÇÃO ÀS FINALIDADES ESSENCIAIS. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos e provas da causa, procedimento vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 362.748-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 30.3.2007 – grifos nossos).
+6. Nada há, pois, a prover quanto às alegações da Recorrente.
+7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 26 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
