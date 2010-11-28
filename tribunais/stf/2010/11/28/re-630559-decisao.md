@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PRORROGAÇÃO DA CONTRIBUIÇÃO PROVISÓRIA SOBRE MOVIMENTAÇÃO FINANCEIRA – CPMF E MANUTENÇÃO DA ALÍQUOTA DE 0,38% PARA O EXERCÍCIO DE 2004. APLICABILIDADE IMEDIATA. PRECEDENTE. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“TRIBUTÁRIO. CPMF. EMENDA CONSTITUCIONAL Nº 42/2003. ALÍQUOTA. MAJORAÇÃO NÃO CONFIGURADA. INEXISTÊNCIA DE AFRONTA AO ART. 195, § 6º DA CF/88. MERA PRORROGAÇÃO DE TRIBUTO. CONSTITUCIONALIDADE DA EXIGÊNCIA. NORMAS CONTITUCIONAIS. APLICABILIDADE IMEDIATA. EFEITOS A CONTAR DA PUBLICAÇÃO.
+1. A EC nº 42/2003 não instituiu nem modificou tributo que ensejasse o atendimento ao princípio da anterioridade mitigada prevista no art. 195, §6º, da CF/88, mas somente prorrogou a cobrança da CPMF com mesmo fato gerador, base de cálculo e alíquota (0,38%) definidos pela legislação anterior.
+2. De fato, a EC nº 37/2002, previu a incidência da alíquota de 0,08% para o exercício financeiro de 2004 (II do §3º do art. 84 do ADCT). No entanto, com o advento da EC nº 42/2003, essa alíquota sequer chegou a ser concretizada, tornando-se uma mera expectativa do contribuinte, prevista na lei, mas que jamais produziu efeitos.
+3. Nesse sentido foi o entendimento firmado pelo STF, em julgamento do RExt. nº 566.032, em sessão realizada no dia 24.06.2009.
+4. As emendas constitucionais são normas de aplicabilidade imediata, que geram seus efeitos a partir da data de sua publicação, salvo menção contrária expressamente prevista em seu texto. Logo, o fato de não constar no final da mencionada norma constitucional a expressão de que "entraria em vigor na data de sua publicação" não implica na necessidade do atendimento da regra dos 45 dias de vacatio legis prevista pelo art. 1º da LICC para as normas infraconstitucionais.
+5. Apelação da União e remessa oficial providas e apelação da autora desprovida” (fl. 401).
+2. A Recorrente alega que o Tribunal a quo teria contrariado os arts. 2º, 5º, inc. II, e 37 da Constituição.
+Argumenta que “o caso concreto trata de argumento novo (aplicação da LICC às emendas constitucionais + princípio da anterioridade), não se confundindo com a matéria apreciada no RE n. 566.032” (fl. 422).
+Sustenta que:
+“a EC n. 42, no que atine à CPMF, somente começou a viger (estava apta para incidir) em 15.02.2004, uma vez que foi publicada em 31.12.2003 e na integralidade do seu texto não se referiu a qualquer prazo de início de vigência, aplicando-se, assim, o lapso geral de 45 dias prescrito na LICC (art. 1º c/c art. 101 do CTN).
+Contudo, não obstante o início da vigência da EC n. 42/2003 ter se iniciado em 15.02.2004, tal emenda ainda estava submetida à regra da anterioridade nonagesimal (art. 195, § 6º, da CRFB), regra obstativa da eficácia técnico-sintática (e que impede a produção de efeitos da norma, não obstante tal estar vigente – apta para incidir), já que majorou a alíquota de contribuição para a seguridade social (CPMF). Logo, entende a Recorrente que a alíquota de 0,38% somente era aplicável à CPMF depois do dia 31.03.2004” (fl. 423).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste à Recorrente.
+4. No julgamento do Recurso Extraordinário 566.032, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou que o princípio da anterioridade nonagesimal não é aplicável à Emenda Constitucional n. 42/2003, que prorrogou a Contribuição Provisória sobre Movimentação Financeira – CPMF:
+“1. Recurso extraordinário. 2. Emenda Constitucional nº 42/2003 que prorrogou a CPMF e manteve alíquota de 0,38% para o exercício de 2004. 3. Alegada violação ao art. 195, § 6º, da Constituição Federal. 4. A revogação do artigo que estipulava diminuição de alíquota da CPMF, mantendo-se o mesmo índice que vinha sendo pago pelo contribuinte, não pode ser equiparada à majoração de tributo. 5. Não incidência do princípio da anterioridade nonagesimal. 6. Vencida a tese de que a revogação do inciso II do §3º do art. 84 do ADCT implicou aumento do tributo para fins do que dispõe o art. 195, §6º da CF. 7. Recurso provido” (DJe 22.10.2009).
+No voto condutor do acórdão se tem que:
+“se a prorrogação de contribuição não faz incidir o prazo nonagesimal, conforme jurisprudência pacífica desta Corte (...), quando se poderia alegar expectativa do final da cobrança do tributo, por maior razão não se deve reconhecer a incidência de tal prazo quando havia mera expectativa de alíquota menor. Como visto, a EC n. 42/2003 manteve para o exercício financeiro de 2004, ‘sem solução de continuidade’, percentual que já fazia parte do cotidiano do contribuinte.
+Também cabe lembrar o julgamento da ADI n. 4.016, que, aliás, é citado no memorial da recorrida, no qual se discutiu se a Lei n. 15.747/2007, do Estado do Paraná, ao reduzir e extinguir descontos relativos ao pagamento do Imposto sobre a Propriedade de Veículos Automotores – IPVA, previstos anteriormente pela Lei estadual do IPVA (Lei n. 14.260/2003), poderia ter vigência e eficácia imediatas, a partir de sua publicação em 24 de dezembro de 2007, ou se teria que respeitar a regra constitucional da anterioridade tributária, prevista pelo art. 150, inciso III, alíneas ‘b’ e ‘c’, da Constituição da República.
+Esta Corte decidiu que ‘a redução ou a extinção de desconto para pagamento de tributo sob determinadas condições previstas em lei, como o pagamento antecipado em parcela única, não pode ser equiparada à majoração do tributo em questão, no caso, o IPVA” (grifos nossos).
+Contrariamente ao que afirma a Recorrente, o entendimento assentado nesse julgado é aplicável à espécie, dele não divergindo a decisão recorrida.
+5. Nada há, pois, a prover quanto às alegações da Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
