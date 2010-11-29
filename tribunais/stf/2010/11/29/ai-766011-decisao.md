@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão de Turma Recursal que versou sobre o aumento de mensalidade de plano de saúde decorrente de mudança de faixa etária.
+Eis o teor do voto:
+“ Plano de saúde. Aumento de mensalidade decorrente de mudança de faixa etária. Contrato celebrado em 16/06/1998 (fls. 19/21). Não incidência da Lei nº 10.741/03 (Estatuto do Idoso). Embora o aumento por faixa etária seja, em princípio, legal, deve ser fixado ou previsto no contrato um índice de reajuste não abusivo, que não impeça a permanência do consumidor no plano de saúde. No caso em tela, verifica-se que o aumento aplicado em julho de 2008 acarretou acréscimo elevado na mensalidade do plano, de R$ 845,29 para R$ 1.450,10 (fls. 13/15). Desta forma, o referido percentual não pode ser considerado razoável, devendo ser reduzido em função da excessividade. Portanto, o aumento por mudança de faixa etária deve ser limitado ao patamar máximo de 30%, que se mostra mais razoável e adequado à realidade e à economia do contrato, além do reajuste anual autorizado pela ANS, devido ao aumento geral. Isto posto, conheço do recurso e dou provimento parcial ao mesmo, para condenar a ré a se abster de promover mudança de faixa etária em percentual superior a 30%, sob pena de multa de R$ 500,00, por cobrança indevida, mantendo, no mais, a sentença prolatada. Sem ônus sucumbenciais.” (Fls. 164)
+Opostos dois embargos de declaração alegando omissão, foram rejeitados.
+A decisão agravada inadmitiu o apelo extremo sob o argumento de deserção (fls. 253).
+Porém, ambas as Turmas deste Tribunal entendem que basta a mera alegação da parte de que não pode suportar as custas processuais para que o benefício da gratuidade de justiça lhe seja concedido, com a ressalva de que, se a declaração for falsa, responderá a parte pela falsidade. Nesse sentido, o RE 205.746 (rel. min. Carlos Velloso, Segunda Turma, DJ de 28.02.1997) e o RE 204.458 (rel. min. Ilmar Galvão, Primeira Turma, DJ de 27.06.1997), assim como as seguintes decisões monocráticas: RE 386.775 (rel. min. Gilmar Mendes, DJ de 04.02.2005) e SE 5.876 (rel. min. Celso de Mello, DJ de 28.08.1998).
+No caso dos autos, a agravante requereu a concessão do benefício da Lei 1.060/1950 na fase inicial e na fase recursal, o que por si só lhe conferiria o direito pleiteado, nos termos da jurisprudência consolidada nesta Corte.
+Portanto, afasto a deserção aplicada.
+Dou provimento ao agravo de instrumento, a fim de determinar a subida do recurso extraordinário, para melhor exame (RISTF, art. 21, VI).
+Publique-se.
+Brasília, 29 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
