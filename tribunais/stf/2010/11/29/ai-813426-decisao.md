@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. ANULAÇÃO DE SENTENÇA POR EXPRESSA CONTRADIÇÃO ENTRE A FUNDAMENTAÇÃO E A PARTE DISPOSITIVA. APLICAÇÃO DA LEGISLAÇÃO PROCESSUAL ORDINÁRIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto julgado do Tribunal de Justiça de Minas Gerais, que anulou sentença de primeira instância por considerá-la contraditória, pois, apesar de reconhecer a existência de preliminar que impediria o desenvolvimento válido e regular do processo, o Juiz singular proferiu decisão de mérito na ação.
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que ofensa constitucional, se tivesse ocorrido, seria indireta e a incidência das Súmula n. 279, 282 e 356 do Supremo Tribunal Federal (fls. 345-347).
+4. O Agravante alega que teriam sido contrariados os arts. 5º, inc. LXXVIII, 37, inc. I e II, 37, inc. IX, e 93, inc. IX, da Constituição da República.
+Afirma que a anulação da sentença de primeira instância contraria o princípio constitucional da celeridade processual, pois “o caso dos autos é de flagrante ausência de interesse processual, condição da ação elencada no inciso VI do artigo 267 do CPC, podendo ser conhecida de ofício, em qualquer tempo e grau de jurisdição” (fl. 268).
+Reitera, ainda, as razões relativas à matéria de mérito da ação proposta.
+Analisada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Inicialmente, afasta-se a alegação de nulidade do acórdão por ofensa ao art. 93, inc. IX, da Constituição da República. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+Como assentado pelo Supremo Tribunal: “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+7. O Tribunal de origem decidiu a controvérsia à luz da legislação processual ordinária, de forma que a modificação do julgado demandaria a análise de norma infraconstitucional. Eventual ofensa constitucional, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário. Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. 1) NECESSIDADE DE REEXAME DE FATOS E PROVAS: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. 2) QUESTÕES PROCESSUAIS: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 587.016-ED, de minha relatoria, Primeira Turma, DJe 24.9.2010 – grifos nossos).
+“RECURSO EXTRAORDINÁRIO. PRELIMINAR. REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS. DEMONSTRAÇÃO. AUSÊNCIA. PROCESSO CIVIL. NULIDADE DE ATOS PROCESSUAIS. TEMA DECIDIDO COM FUNDAMENTO NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. I - A simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa. II - Inviável o recurso extraordinário se a decisão recorrida se fundamenta na interpretação de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. III - Agravo regimental desprovido” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 24.9.2010 – grifos nossos).
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL. VIOLAÇÃO INDIRETA OU REFLEXA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. Agravo regimental ao qual se nega provimento” (AI 662.808-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 28.5.2010).
+“CONSTITUCIONAL. PROCESSUAL CIVIL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL EM SEDE EXTRAORDINÁRIA. OFENSA CONSTITUCIONAL INDIRETA. 1. É pacífica a jurisprudência desta Corte ao não admitir, em sede extraordinária, alegação de ofensa indireta à Constituição Federal (art. 5º, LIII, LIV e LV, da CF). 2. Agravo regimental improvido” (AI 611.643-AgR, Rel. Min. Ellen Gracie, Segunad Turma, DJe 28.8.2009).
+Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 29 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
