@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. COMPETÊNCIA. ALEGADA OFENSA AO ART. 114, INC. I, DA CONSTITUIÇÃO DA REPÚBLICA. INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO PARA O JULGAMENTO DE DEMANDAS ENTRE O PODER PÚBLICO E SERVIDOR. COMPETÊNCIA DA JUSTIÇA COMUM. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto julgado do Tribunal de Justiça de São Paulo que afastou a preliminar de incompetência da Justiça comum para o julgamento da causa.
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta (fls. 97-98).
+4. O Agravante alega que teria sido contrariado o art. 114, inc. I, da Constituição da República.
+Assevera que “o recorrido é ocupante de emprego público, regido pela Consolidação das Leis do Trabalho, o que, sem dúvida, acarreta a exclusão da competência da Justiça Comum Estadual para julgar o presente feito” (fl. 94).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Inicialmente, afasta-se o fundamento da decisão agravada, pois a matéria em debate é constitucional e foi apreciada pelo Supremo Tribunal Federal. Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão do Agravante.
+6. No julgamento da Medida Cautelar na Ação Direta de Inconstitucionalidade n. 3.395, Relator o Ministro Cezar Peluso, este Supremo Tribunal Federal, ao referendar liminar anteriormente concedida, determinou a suspensão das interpretações dadas ao inc. I do art. 114 da Constituição da República que conferiam à Justiça do Trabalho competência para julgar os feitos decorrentes de relações entre o Poder Público e servidor a ele vinculado por relação jurídico-estatutária.
+Confira-se, a propósito, a ementa desse julgado:
+“INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária” (DJ 10.11.2006 – grifos nossos).
+7. Nos debates do julgamento da Reclamação n. 5.381, Relator o Ministro Ayres Britto, DJe 8.8.2008, os Ministros do Supremo Tribunal afirmaram que, diante do restabelecimento da norma originária do art. 39, caput, da Constituição da República, o regime jurídico das relações entre os Estados, o Distrito Federal e os Municípios e seus respectivos servidores é o estatutário (regime jurídico-administrativo).
+Na oportunidade, consignei que:
+“Quando foi promulgada, a Constituição estabelecia, no artigo 39, o que desde 2 de agosto de 2007 este Plenário decidiu, suspendendo os efeitos da norma que tinha sido introduzida pela Emenda n. 19, e voltando, portanto, ao regime jurídico único [Medida Cautelar na Ação Direta de Inconstitucionalidade n. 2.135/DF]. E o que ela estabeleceu, parece-me, no artigo 37, inc. IX, foi que haveria um regime de servidores públicos assim considerados, conforme Vossa Excelência acaba de dizer, que é um estatuto, ou seja, um conjunto de direitos, deveres e responsabilidades daqueles que integram o serviço público e passam a ocupar ou a titularizar cargos públicos; esses são os servidores públicos ditos de provimento efetivo. Há um outro tipo de direitos, deveres e responsabilidades para aqueles que ocupam cargo comissionado(...)
+Não se pode contratar pela CLT, porque, inclusive - estou chamando de novo a atenção -, quando esta Constituição foi promulgada, o artigo 39 estabelecia expressamente:
+‘ Art. 39. A União, os Estados, o Distrito Federal e os Municípios instituirão, no âmbito de sua competência, regime jurídico único ...’
+E esse regime jurídico era administrativo para todos os casos, pela singela circunstância de que Estados e Municípios não podem instituir regime, porque legislar sobre Direito do Trabalho é competência privativa da União” (DJe 8.8.2008 - grifos nossos).
+8. Consta nos autos que a Agravada foi contratada pelo Agravante em 1984 sob o regime da Consolidação das Leis do Trabalho (CLT) e, posteriormente, passou a integrar o regime jurídico único instituído para os servidores municipais em cumprimento às determinações da Constituição da República promulgada em 1988.
+A relação entre a Agravante e o Agravado é, portanto, relação jurídico-administrativa e a competência para julgar as questões que dela decorram é da Justiça comum. Não há o que prover quanto às alegações do Agravante, pois o acórdão recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal.
+9. Pelo exposto, nego seguimento a este agravo, (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 29 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
