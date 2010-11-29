@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a , da Constituição) contra acórdão da 3ª Turma Recursal dos Juizados Especiais Cíveis e Criminais do Estado do Amazonas que condenou a recorrente ao pagamento de indenização por danos morais decorrentes de acidente de trânsito.
+No recurso extraordinário, alega-se violação do disposto no art. 5º, LV, da Constituição, sob o fundamento de que o acórdão impugnado não abordou todas as questões levantadas pelo recorrente e que houve, no curso do processo, indeferimento de prova testemunhal relevante para a solução da controvérsia.
+Inexiste a alegada ofensa aos arts. 5º, LV, da Constituição, porquanto o Tribunal de origem prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante. Nesse sentido: AI 651.364-AgR (rel. min. Menezes Direito, DJ de 26.09.2008); AI 453.483-AgR (rel. min. Marco Aurélio, DJ de 08.06.2007); AI 624.713-ED (rel. min. Cármen Lúcia, DJ de 31.01.2008); AI 649.140-AgR (rel. min. Eros Grau, DJ de 17.08.2007).
+A questão referente ao indeferimento de produção de provas, por se tratar de controvérsia exclusivamente processual, de natureza, portanto, infraconstitucional, não dá ensejo a recurso extraordinário.
+Neste sentido:
+“EMENTA: ACÓRDÃO QUE SE LIMITOU A DIRIMIR A CONTROVÉRSIA, ACERCA DA NECESSIDADE DE PRODUÇÃO DE prova PERICIAL, COM BASE EXCLUSIVAMENTE NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE.
+Questão eminentemente processual, que não enseja apreciação em recurso extraordinário. Ademais, foi conferida à parte prestação jurisdicional adequada, embora em sentido contrário aos seus interesses, não configurando cerceamento de defesa. Agravo desprovido.” (AI 474.746-AgR, rel. min. Carlos Britto, DJ de 11.03.2005)
+Nesse sentido: AI 756.858-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 02.10.2009); AI 692.834-AgR (rel. min. Eros Grau, Segunda Turma, DJe de 06.02.2009) e AI 203.793AgR (rel. min. Maurício Corrêa, Segunda Turma, DJ de 19.12.1997).
+Ademais, impossível acolher o pedido de reforma da decisão, com exclusão ou diminuição do quantum indenizatório, já que a Constituição assegura a indenização por dano moral, mas não estabelece os parâmetros para a fixação do valor que, caso a caso, será capaz de dar satisfação à dor que o caracteriza. Por conseguinte, o exame dessa fixação não se situa no plano constitucional. Ademais, tal análise demanda o reexame de prova, o que é vedado na via do recurso extraordinário (Súmula 279).
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 29 de novembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
