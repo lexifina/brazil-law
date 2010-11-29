@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO E CONSTITUCIONAL. AUTORIZAÇÃO DE FUNCIONAMENTO DE INSTITUIÇÃO DE ENSINO. EXIGÊNCIA DE REGULARIDADE FISCAL. IMPOSSIBILIDADE. SÚMULAS 70, 323 E 547 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Superior Tribunal de Justiça:
+“ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FUNCIONAMENTO DE INSTITUIÇÃO DE ENSINO. REGULARIDADE FISCAL. EXIGÊNCIA. ILEGALIDADE NO CASO CONCRETO. PRECEDENTES DO STJ. PROVIMENTO DO RECURSO ORDINÁRIO.
+1. Na hipótese examinada, a ora recorrente impetrou mandado de segurança contra ato do Secretário de Estado de Educação do Estado de Mato Grosso do Sul que indeferiu a solicitação de autorização de funcionamento de instituição no ensino fundamental, em face da não comprovação da regularidade fiscal (FGTS e INSS).
+2. A Corte a quo asseverou que a Constituição Federal atribuiu ao Estado (arts. 24, IX, e 209, II, da Constituição Federal) o poder de autorizar o funcionamento e de proceder à fiscalização dos estabelecimentos de ensino, bem como concluiu pela regularidade da atribuição de competência ao Conselho Estadual de Educação para a expedição de normas atinentes à autorização de funcionamento das instituições de ensino de nível estadual. Assim, afirmou a legalidade da exigência de regularidade fiscal para a autorização de funcionamento de instituição de ensino prevista na Deliberação nº 6.363/2001 do Conselho Estadual de Educação, ainda que não prevista na Lei Estadual 1.460/93, que regula o referido órgão.
+3. A exigência de apresentação de "Certidão de regularidade relativa à seguridade Social e ao FGTS", como requisito de autorização de funcionamento de atividade educacional, extrapola os limites do poder regulamentar, porquanto não prevista em lei, bem como configura meio coercitivo e arbitrário para pagamento de débitos fiscais. Assim, é manifesta a ilegalidade da exigência de comprovação de regularidade fiscal e previdenciária da instituição de ensino, para o recebimento e processamento de pedido de autorização de funcionamento de unidade educacional, pois o Fisco detém meios legais de cobrança de tributos não recolhidos.
+4. Nesse sentido, os seguintes precedentes deste Tribunal Superior: REsp 1.008.488/DF, Rel. Min. Mauro Campbell Marques, DJe de 19.8.2009; REsp 1.116.469/DF, Rel. Min. Herman Benjamin, DJe de 5.8.2009 REsp 1.069.595/DF, 2ª Turma, Rel. Min. Humberto Martins, DJe de 27.5.2009; REsp 662.972/RS, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJ de 5.10.2006; REsp 651.207/RS, 1ª Turma, Rel. Min. Luiz Fux, DJ de 30.5.2005.
+5. Provimento do recurso ordinário” (fl. 202).
+Os embargos de declaração opostos foram rejeitados.
+2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 24, inc. IX, e 209, inc. II, da Constituição da República.
+Argumenta que “a exigência de apresentação da certidão de regularidade relativa à Seguridade Social e ao FGTS, PREVISTA NO ARTIGO 25, I-3, da Deliberação CEE/MS n. 6.363/2001, encontra o devido respaldo normativo, devendo ser cumprida” (fl. 239).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+4. O Supremo Tribunal Federal assentou não ser possível a aplicação de restrições para compelir de forma indireta o contribuinte inadimplente a cumprir obrigação tributária principal ou acessória. Nesse sentido:
+“Nota-se a tomada de empréstimo de meio coercitivo, objetivando a satisfação de débito tributário. Em síntese, a legislação local submete o contribuinte à exceção de emitir notas fiscais individualizadas, quando em débito para com o Fisco. Entendo conflitante com a Carta da República o procedimento adotado. A Fazenda há de procurar o Judiciário visando à cobrança, via executivo fiscal, do que devido, mostrando-se impertinente recorrer a métodos que acabem inviabilizando a própria atividade econômica, como é o relativo à proibição de as empresas em débito, no tocante a obrigações, principal e acessórias, vir a emitir documentos considerados como incluídos no gênero fiscal” (RE 413.782, Rel. Min. Marco Aurélio, Tribunal Pleno, DJ 3.6.2005).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. INSCRIÇÃO NO CADASTRO NACIONAL DE PESSOA JURÍDICA. IMPOSSIBILIDADE DE APLICAÇÃO DE RESTRIÇÕES PARA COMPELIR O CONTRIBUINTE INADIMPLENTE A PAGAR O TRIBUTO DEVIDO. PRECEDENTES. INSCRIÇÃO INAPTA: NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 677.242-AgR, de minha relatoria, Primeira Turma, DJ 13.11.2009 – grifos nossos).
+Incidem na espécie, ainda, as Súmulas 70, 323 e 547 do Supremo Tribunal Federal.
+5. Nada há, pois, a prover quanto às alegações do Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 29 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
