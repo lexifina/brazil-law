@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. EXONERAÇÃO NO PERÍODO DE GOZO DE LICENÇA PARA TRATAMENTO DE SAÚDE. ACÓRDÃO PROFERIDO À LUZ DO ESTATUTO DO SERVIDORES CIVIS DO ESTADO. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Pará:
+“APELAÇÃO CÍVEL – AUSÊNCIA DE ESTABILIDADE DO SERVIDOR COMISSIONADO – EXERCÍCIO DA LICENÇA PARA TRATAMENTO DE SAÚDE (ART. 77, § 2º DA LEI ESTADUAL N. 5.810/94 – RJU). 1) A licença para tratamento de saúde é direito do servidor público estadual independentemente da sua forma de ingresso na Administração Pública. 2) A licença para tratamento de saúde corresponde ao desdobramento do Direito à Saúde resguardado nos artigos 6º e 196 da Constituição Federal. UNANIMIDADE” (fl. 186).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que ofensa constitucional, se tivesse ocorrido, seria indireta e a incidência das Súmula n. 282 e 356 do Supremo Tribunal Federal (fls. 363-366).
+4. O Agravante alega que teriam sido contrariados os arts. 5º, inc. XXXVI, 37, caput, inc. II e V, 38, 40, § 13, 41 e 201 da Constituição da República.
+Argumenta que:
+“considerando que o recorrido é ocupante de cargo exclusivamente em comissão, tem-se que o regime previdenciário aplicável é o Regime Geral de Previdência Social, nos moldes do art. 201 da CRFB, das Leis nº 8.213/91 e 8.212/91, e do Decreto nº 3.048/99, não havendo subsunção do caso à licença para tratamento de saúde nos termos do Regime Jurídico Único dos Servidores Públicos do Estado do Pará (Lei Estadual nº 5.810/94). O que ocorre em casos tais é a interrupção do trabalho por quinze dias, para, a partir daí, o servidor passar a fazer jus ao auxílio-doença, conforme as hipóteses previstas na legislação previdenciária nacional (arts. 59 a 63 da Lei nº 8.213/91). Diante disso a exoneração do servidor ocupante de cargo em comissão se configura como ato discricionário da Administração Pública, pautado na oportunidade e na conveniência” (fl. 239).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Inicialmente, afasta-se a alegação de nulidade do acórdão por ofensa ao art. 93, inc. IX, da Constituição da República. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+Como assentado pelo Supremo Tribunal: “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+7. O Tribunal de origem decidiu a controvérsia à luz do Estatuto dos Servidores Públicos Civis do Estado do Pará – Lei n. 5.810/1994. A modificação do julgado demandaria a análise da legislação infraconstitucional aplicada. Eventual ofensa constitucional, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL. GRATIFICAÇÕES PREVISTAS NO ESTATUTO DOS SERVIDORES PÚBLICOS CIVIS DO ESTADO DE SANTA CATARINA. AGREGAÇÃO. POLICIAIS MILITARES REGIDOS PELA LEI ESTADUAL 6.218/1983. INTERPRETAÇÃO DE DIREITO LOCAL. ÓBICE DA SÚMULA 280/STF. O acórdão recorrido examinou a controvérsia à luz da legislação local (Lei 6.745/1985 e Lei 6.218/1983), de modo que eventual ofensa aos dispositivos constitucionais invocados, se existente, seria reflexa ou indireta, já que dependeria de reexame prévio da norma infraconstitucional. Por essa razão, é incabível o recurso extraordinário. Incidência da Súmula 280 deste Tribunal. Agravo regimental a que se nega provimento” (RE 203.875-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 19.12.2008).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. SUPRESSÃO DE VANTAGEM. LEI N. 1.711/52. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO ” (AI 789.031-AgR, de minha relatoria, Primeira Turma, DJe 24.9.2010).
+Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 29 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
