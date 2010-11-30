@@ -1,0 +1,19 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, manejado com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Superior Tribunal de Justiça. Acórdão assim ementado (fls. 249):
+“MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO CIVIL. PROCESSO ADMINISTRATIVO DISCIPLINAR. VEÍCULO LOCADO. UTILIZAÇÃO. PERCURSO CASA/TRABALHO. PENALIDADE. DEMISSÃO. DESPROPORCIONALIDADE. SEGURANÇA CONCEDIDA.
+I – Inexiste aspecto discricionário (juízo de conveniência e oportunidade) no ato administrativo que impõe sanção disciplinar. Nesses casos, o controle jurisdicional é amplo e não se limita a aspectos formais (Precedentes: MS nº 12.957/DF, 3ª Seção, Rel. Min. Napoleão Nunes Maia Filho, DJe de 26/9/2008; MS nº 12.983/DF, 3ª Seção, da minha relatoria, DJ de 12/2/2008).
+II – Esta c. Corte pacificou entendimento segundo o qual, mesmo quando se tratar de imposição da penalidade de demissão, devem ser observados pela Administração Pública os princípios da razoabilidade e proporcionalidade, individualização da pena, bem como o disposto no art. 128 da Lei nº 8.112/90 (Precedentes: MS nº 8.693/DF, 3ª Seção, Rel. Min. Maria Thereza de Assis Moura, DJe de 8/5/2008; MS nº 7.260/DF, 3ª Seção, Rel. Min. Jorge Scartezzini, DJ de 26/8/2002 e MS nº 7.077/DF, 3ª Seção, Rel. Min. Edson Vidigal, DJ de 11/6/2001).
+III – In casu, revela-se desproporcional e inadequada a penalidade de demissão do cargo de técnico do seguro social imposta à impetrante, por ter se utilizado de veículo contratado pela agência Rio de Janeiro/Sul do INSS, para efetuar deslocamentos no percurso residência/trabalho e vice-versa, enquanto no exercício do cargo de gerente executiva daquele posto de atendimento, tendo em vista seus bons antecedentes funcionais, a ausência de prejuízo ao erário, bem como a sua comprovada boa-fé.
+Segurança concedida, sem prejuízos da imposição de outra penalidade administrativa, menos gravosa.
+Prejudicado o exame do agravo regimental da União”.
+2. Pois bem, a parte recorrente sustenta violação ao art. 2º, aos incisos XXXV, LIV, LV e LXIX do art. 5º, bem como ao caput do art. 37 da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. É que entendimento diverso do adotado pelo aresto impugnado exigiria o reexame da legislação infraconstitucional pertinente, providência vedada neste momento processual.
+4. De mais a mais, anoto que a alegação de afronta às garantias constitucionais do processo não enseja a abertura da via extraordinária, nos termos da jurisprudência desta nossa Corte. Leia-se, a propósito, a ementa do AI 517.643-AgR, sob a relatoria do ministro Celso de Mello:
+“AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, XXXV E LV, E NO ART. 93, IX, TODOS DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+- As alegações de desrespeito aos postulados da inafastabilidade do controle jurisdicional, do devido processo legal, da motivação dos atos decisórios e da plenitude de defesa, por dependerem de exame prévio e necessário da legislação comum, podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes.”
+5. À derradeira, pontuo que a alegada ofensa ao art. 2º da Constituição Federal não prospera, dado ser firme no Supremo Tribunal Federal o entendimento de que “o regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo respeito à Constituição, não transgride o princípio da separação de poderes” (MS 23.452, da relatoria do ministro Celso de Mello).
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 30 de novembro de 2010.
+Ministro AYRES BRITTO
+Relator
