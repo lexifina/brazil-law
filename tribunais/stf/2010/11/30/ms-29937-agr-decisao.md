@@ -1,0 +1,23 @@
+1.   Paulo Fernando Garcia e Márcio Adriano Carascki impetraram o presente mandado de segurança, com pedido de medida liminar, contra ato do Procurador-Geral da República, consubstanciado na exigência de teste de aptidão física na realização do 6º Concurso Público destinado ao provimento de cargos de T écnico de Apoio Especializado/Transporte, dos quadros do Ministério Público da União, prevista no Edital n. 1 – PGR/MPU, de 30 de junho de 2010 .
+Asseveraram que foram devidamente aprovados nas provas objetivas e passaram para a segunda fase do certame, denominada “Teste de Aptidão Física”, prevista no item 9 do Edital n. 1 – PGR/MPU, de 30 de junho de 2010, em que foram reprovados.
+Alega ra m que não há previsão legal que estabeleça essa exigência para o ingresso no mencionado cargo.
+Sustenta ra m a ocorrência de afronta ao arts. 5º, caput e II, 37, caput e I e II, da Constituição Federal e aos princípios da legalidade, finalidade, isonomia e razoabilidade.
+Menciona ra m a existência de precedentes do Supremo Tribunal Federal favoráveis à sua tese (Recursos Extraordinários 447.392/PB, rel. Min. Sepúlveda Pertence, DJ 15.8.2005; e 248.515/MA, de que fui relatora, DJ 20.9.2005).
+Salienta ra m ainda existência de perigo na demora, dado que a terceira fase do certame (prova prática de direção veicular) se realizar ia no dia 20 de novembro.
+Destaca ra m que o Ministro Celso de Mello, ao apreciar o Mandado de Segurança 29.455/DF, impetrado em 26.10.2010 por candidato ao cargo de T écnico de Apoio Especializado/Transporte, deferiu o pedido de medida liminar (DJe 08.11.2010).
+R equere ra m, ao final, o deferimento do pedido de medida liminar, para determinar à autoridade coatora que os mantivesse na disputa e convo casse -os para a realização da prova prática de direção veicular.
+2.  Em 18 de novembro, neguei seguimento ao presente writ.
+3.  Daí o presente agravo regimental, interposto pelos impetrantes.
+Alegam os agravantes que não se insurgem contra o Edital n. 1 – PGR/MPU, de 30 de junho de 2010 , mas sim contra a exigência do “Teste de Aptidão Física”,   sendo certo que não se considerou o exame cardiológico como comprovante de boa capacidade física .
+Destacam que esse entendimento foi adotado pela Ministra Cármen Lúcia, ao deferir o pedido de medida liminar formulado no Mandado de Segurança 29.799/DF.
+Sustentam, em síntese, que o Plenário desta Corte, em 25 de novembro, ao julgar o agravo regimental interposto nos autos do Mandado de Segurança 29.874/DF, caso igual ao presente, deu-lhe provimento nos termos do voto do Ministro Gilmar Mendes.
+O s impetrante s pede m , ao final, a reconsideração da decisão ora agravada e   o provimento do presente agravo regimental para que se determine, liminarmente, ao Procurador-Geral da República que o s   reintegre ao certame e designe nova data e horário para a realização da prova prática de direção veicular.
+4.  Neguei seguimento ao presente writ, por entender que ocorrera a decadência prevista no art. 23 da Lei 12.016/2009.
+Todavia, em 25 de novembro, o Plenário desta Suprema Corte deu provimento ao agravo regimental interposto por Felipe William Barbosa de Farias nos autos do Mandado de Segurança 29.874/DF, caso idêntico ao presente, nos termos dos votos dos Ministros Gilmar Mendes, Cármen Lúcia, Celso de Mello, Marco Aurélio e Cezar Peluso. Fiquei vencida na honrosa companhia do Ministro Ricardo Lewandowski.
+Entendeu esta Corte naquele julgamento, por maioria, que a nova Lei do Mandado de Segurança pressupõe a ocorrência de prejuízo e que o impetrante somente o sofreu quando foi reprovado na segunda fase do certame, denominada “Teste de Aptidão Física”. Ademais, teria ocorrido ofensa ao princípio da isonomia, dada a existência de várias decisões de Ministro s do Supremo Tribunal Federal no sentido do deferimento do pedido de medida liminar em casos iguais.
+5.  Ante o exposto, em respeito ao princípio da colegialidade, reconsidero a decisão proferida em 18 de novembro de 2010 (DJe 23.11.2010) e dou provimento ao presente agravo regimental para determin ar , liminarmente, ao Exmo. Sr. Procurador-Geral da República que reintegre   Paulo Fernando Garcia e Márcio Adriano Carascki ao 6º Concurso Público destinado ao provimento de cargos de T écnico de Apoio Especializado/Transporte, dos quadros do Ministério Público da União, e designe nova data para a realização da prova prática de direção veicular.
+Comunique-se, com urgência, esta decisão ao Exmo. Sr. Procurador-Geral da República, Dr. Roberto Monteiro Gurgel Santos .
+Publique-se.
+Brasília, 30 de novembro de 2010.
+Ministra Ellen Gracie
+Relatora
