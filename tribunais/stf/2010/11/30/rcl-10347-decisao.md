@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de reclamação ajuizada pelo Município de Itabaiana/SE, contra o Juízo da 1ª Vara do Trabalho de Itabaiana/SE, por suposta violação ao que decidido por esta Corte no julgamento da ADI n. 3395.
+Decido.
+Ao verificar a cópia integral dos autos da reclamação trabalhista n. 00304-2009-013-20-00-0, a qual acompanha a petição inicial eletrônica, há registro de realização de acordo entre o reclamante e os interessados, em audiência de conciliação trabalhista de 16 de abril de 2009 (fls. 168 – frente e verso). Nessa, o Município se comprometeu a quitar, parceladamente, as 58 (cinquenta e oito) parcelas mensais vencidas, referentes ao salário-família dos servidores.
+Dessa data em diante, como se pode constatar do andamento processual, somente houve discussões a respeito: (i) dos prazos para pagamento, e (ii) da forma de dispêndio ou reembolso entre o Município e o INSS.
+Verifica-se, no caso, que o autor, para desconstituir o acordo judicial, nos termos do art. 486, do CPC, terá de aviar ação anulatória. Assim, em havendo instrumento judicial adequado e cabível para infirmar a decisão reclamada, é incabível a reclamação (cf. Rcl 5.159-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJ 10.8.2007; Rcl 909-AgR, Rel. p/ o ac. Min. Nelson Jobim, Pleno, DJ 27.5.2005).
+No julgamento da Rcl-AgR 6.076, Tribunal Pleno, Rel. Min. Joaquim Barbosa, DJe 21.8.2009, esta Corte assim se manifestou:
+“AGRAVO REGIMENTAL. ACORDO ENTRE AS PARTES HOMOLOGADO JUDICIALMENTE. TRÂNSITO EM JULGADO. NÃO CABIMENTO DE RECLAMAÇÃO. RECURSO NÃO PROVIDO. O acordo firmado entre o agravante e o Ministério Público do Trabalho (autor da ação que se pretende anular ou extinguir) foi homologado judicialmente, o que acarreta a extinção do processo com resolução do mérito, fazendo a respectiva decisão homologatória coisa julgada formal e material (art. 831, parágrafo único, da CLT e art. 269, III, do CPC). Incidência da Súmula 734 do Supremo Tribunal Federal, segundo a qual "Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal." Precedentes do Supremo Tribunal Federal (Rcl 1.438, rel. min. Celso de Mello, DJ de 22.11.2002; Rcl 1.169, rel. min. Sepúlveda Pertence, DJ de 31.05.2002; e Rcl 5.899, rel. min. Carlos Britto, DJe-097 de 30.05.2008. Agravo regimental não provido.”
+Ademais, é perfeitamente aplicável ao caso a farta jurisprudência da Corte que diz ser inadmissível a reclamação quando essa for ajuizada a título de ação rescisória, uma vez que tanto a rescisória quanto a anulatória destoam da natureza correicional da reclamação (nesse sentido, Rcl n. 2.680, Rel. Min. Cezar Peluso, DJ 15.12.2005; Rcl n. 2.959, Rel. Min. Ayres Britto, DJ 9.2.2005; Rcl n. 3.517, Rel. Min. Joaquim Barbosa, DJ 12.8.2005; Rcl n. 3.507, Rel. Min. Sepúlveda Pertence, DJ 16.8.2005; Rcl n. 9.176, Rel. Min. Marco Aurélio, DJ 15.4.2010; e Rcl n. 6.092, Rel. Min. Dias Toffoli, DJ 28.4.2010).
+Ante o exposto, nego seguimento à reclamação (RISTF, art. 21, § 1º).
+Publique-se.
+Arquive-se.
+Brasília, 30 de novembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
