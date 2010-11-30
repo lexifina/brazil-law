@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. 1) CONSTITUCIONAL E PREVIDENCIÁRIO. GRATIFICAÇÃO DE NATUREZA GERAL: POSSIBILIDADE DE EXTENSÃO AOS INATIVOS. PRECEDENTES. 2) NECESSIDADE DE ANÁLISE DE LEI LOCAL E DE REEXAME DE PROVA: INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alíneas a e c, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Acre:
+“APELAÇÃO CÍVEL E REMESSA EX-OFFICIO. DIREITO CONSTITUCIONAL. GRATIFICAÇÃO DE ATIVIDADE TRIBUTÁRIA. VANTAGEM DE CARÁTER GERAL. EXTENSÃO AOS INATIVOS E PENSIONISTAS. PRINCÍPIO DA ISONOMIA.
+A Gratificação de Atividade Tributária, por ser vantagem de caráter geral, não exige condição para seu recebimento.
+Sendo o princípio da isonomia uma garantia constitucional, deve a Gratificação de Atividade Tributaria ser estendida aos inativos e pensionistas ”   (FL. 124) .
+2. O Recorrente afirma que o Tribunal a quo teria contrariado os arts. 40, § 8º e 195, § 5º, da Constituição da República.
+Assevera que “a Gratificação de Atividade Tributária – GAT, criada pela Lei n. 1.955/2007 (...), tem natureza propter laborem”.
+Sustenta que a GAT é uma “gratificação tipicamente propter laborem, ou seja, uma vantagem de caráter contingente ou eventual, que não atinge a todos e depende da produtividade de cada agente, e que pelas suas características de eventualidade e incerteza não se incorpora aos proventos e pensões”.
+Argumenta que “inexiste direito líquido e certo à incorporação prevista no artigo 12, ante a inconstitucionalidade, com fundamento no artigo 40, caput, e 195, §5º, da Constituição da República”.
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+4. O Tribunal de origem assentou que:
+“Do exame dos autos constato que a norma que estabelece o pagamento da gratificação em questão, não exige requisito especial para o seu recebimento, bastando, para tanto, que o servidor integrasse a carreira de fiscalização e, fosse ocupante do cargo de fiscal da Receita Estadual e fiscal da Receita Estadual II; assim, trata-se de vantagem de caráter geral que não exige nenhuma condição especial do beneficiário para o seu recebimento, devendo ser estendida aos inativos e pensionistas, conforme preceitua o § 1º do artigo 11 c/c o artigo 12, ambos da Lei n 1.419/2001, com a redação dada pelo artigo 1º da Lei nº 1.955/2007
+(...)
+Este Tribunal, nas vezes em que se manifestou sobre a matéria questionada, firmou o entendimento de que a referida gratificação deve ser paga a todos os inativos e pensionistas. Assim, caso estivessem os ex-servidores ainda na ativa, por certo estariam percebendo o referido benefício, razão pela qual deve o mesmo integrar os valores dos proventos do Autor/Apelado” (fls. 127-130 – grifos nossos).
+Com base na análise da Lei Estadual n. 1.955/07, o Tribunal de origem concluiu que se teria instituído gratificação de natureza geral, razão pela qual seria extensiva aos inativos.
+Assim, o julgado recorrido está em harmonia com o entendimento do Supremo Tribunal Federal:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. PENSÃO POR MORTE. POSSIBILIDADE DE EXTENSÃO DE VANTAGENS CONCEDIDAS EM CARÁTER GERAL AOS INATIVOS E PENSIONISTAS. NATUREZA DA VANTAGEM. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.130-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010 – grifos nossos).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO. INATIVOS. EXTENSÃO. REEXAME DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. 1. Este Tribunal firmou entendimento no sentido de que apenas as vantagens de natureza de caráter geral podem ser estendidas aos inativos, com fundamento no artigo 40, § 8º, da Constituição do Brasil. 2. O acórdão recorrido não distinguiu o caráter jurídico da gratificação pleiteada. Para acolher as alegações do agravante de que se trata de vantagem pessoal, seria necessária a análise da legislação, circunstância que impede a apreciação do extraordinário. Súmula 280-STF. Agravo regimental a que se nega provimento” (RE 504.488-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 14.3.2008 – grifos nossos).
+5. A alegação de que a vantagem tem natureza propter laborem atrai a incidência das Súmulas 279 e 280 do Supremo Tribunal Federal e não enseja o recurso extraordinário.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. GRATIFICAÇÃO DE SERVIÇOS ESPECIAIS. EXTENSÃO AOS INATIVOS. POSSIBILIDADE. REEXAME DE PROVAS: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Havendo o Tribunal de origem reconhecido a natureza geral da gratificação em questão, e, por essa razão, a possibilidade de sua extensão aos servidores inativos, a modificação do julgado demandaria o reexame do conjunto fático-probatório. Incide, na espécie, a Súmula 279 do Supremo Tribunal Federal” (AI 631.908-AgR, de minha relatoria, Primeira Turma, DJe 1º.7.2009).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. EXTENSÃO AOS INATIVOS. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. A jurisprudência deste Tribunal é firme no sentido de que apenas as vantagens de caráter geral podem ser estendidas aos inativos. Precedentes. 2. A análise da natureza jurídica da parcela discutida --- se vantagem pessoal ou geral --- depende do exame da legislação infraconstitucional que disciplina a espécie. 3. Análise de legislação de direito local. Providência vedada nesta instância. Súmula 280 do STF. Agravo regimental a que se nega provimento” (AI 750.325-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 25.9.2009 – grifos nossos).
+6. Inadmissível também o recurso extraordinário pela alínea c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição da República. Incide na espécie a Súmula 284 do Supremo Tribunal Federal.
+Nesse sentido:
+“Recurso extraordinário. - Inocorrência da hipótese prevista na alínea c do inciso III do artigo 102 da Constituição Federal. Falta de fundamentação, por isso mesmo, a esse respeito. Aplicação da Súmula 284” (RE 148.355, Rel. Min. Moreira Alves, Primeira Turma, DJ 5.3.1993).
+Não há, pois, o que prover quanto às alegações do Recorrente.
+7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 30 de novembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
