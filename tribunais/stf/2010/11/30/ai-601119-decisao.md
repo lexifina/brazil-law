@@ -1,0 +1,10 @@
+DECISÃO
+SALÁRIO MÍNIMO – GARANTIA CONSTITUCIONAL – VENCIMENTOS E REMUNERAÇÃO – RECURSO EXTRAORDINÁRIO – CONHECIMENTO E PROVIMENTO NOS AUTOS DE AGRAVO PROVIDO.
+1. Na interposição deste agravo, foram atendidos os pressupostos específicos de recorribilidade. A peça, subscrita por procurador do Estado, restou protocolada no prazo dobrado a que tem jus o agravante, com traslado dos documentos previstos no artigo 544, § 1º, do Código de Processo Civil.
+2. Atentem para os parâmetros do conflito de interesses dirimido na origem. Em certo período, a remuneração dos agravados estava abaixo do salário mínimo. Então, para observar a garantia constitucional – inciso IV do artigo 7º da Constituição Federal –, o Estado complementou a diferença com parcela sob a denominação de abono. Indaga-se se, recebida a quantia a tal título, incidem sobre ela as vantagens ditas pessoais, como a gratificação por tempo de serviço. A resposta é negativa. Esta Corte, de forma reiterada, tem proclamado que a garantia de percepção mínima envolve não o vencimento básico mas a remuneração total recebida pelo prestador dos serviços.
+A decisão do Tribunal de origem contraria a jurisprudência do Supremo. Em síntese, aditou-se o que satisfeito pelo Estado com um só objetivo, o de alcançar-se o valor do salário mínimo e isso ocorreu considerado o plus remuneratório estampado em vantagens pessoais. Acabou descaracterizada a própria parcela tal como satisfeita, ou seja, como abono com a única finalidade de a remuneração não ficar aquém do salário mínimo.
+3. Conheço deste agravo e o provejo, consignando o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Ante o quadro, aciono o disposto nos artigos 544, § 3º e § 4º, e 557, § 1º-A, do Código de Processo Civil e aprecio, desde logo, o extraordinário, conhecendo-o e provendo-o para julgar improcedente o pedido. Custas e honorários advocatícios pelos agravados, isentos em decorrência de terem litigado sob o pálio da assistência judiciária gratuita.
+4. Publiquem.
+Brasília, 30 de novembro de 2010.
+Ministro MARCO AURÉLIO
+Relator
