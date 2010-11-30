@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“ AÇÃO DE COBRANÇA. SEGURO DE VIDA. MORTE DO SEGURADO QUE DECLAROU A REALIZAÇÃO PRETÉRITA DE CIRURGIA ANTES DA CONTRATAÇÃO. AUSÊNCIA DE MÁ-FÉ. DOENÇA PREEXISTENTE NÃO COMPROVADA. DOCUMENTOS MÉDICOS OBTIDOS SEM A AUTORIZAÇÃO DO PACIENTE OU DA BENEFICIÁRIA DO SEGURO DE VIDA. ILICITUDE. SIGILO PROFISSIONAL. SENTENÇA CONFIRMADA. 1- O prontuário médico traz informações acerca do diagnóstico do paciente, tratamento a ele ministrado, tempo de duração desse tratamento, etc., portanto, é documento que pertence ao paciente, tendo o profissional da saúde a obrigação do sigilo profissional, como dispõe o Código de Ética Médica (art. 102). 2- Diante a ausência de comprovação da apelante de que conseguiu estes documentos com a autorização do paciente, ou de sua beneficiária, conclui-se que a obtenção dos mesmos foi de maneira ilícita. 3- A declaração de saúde firmada pelo segurado quando da contratação do seguro de vida possui a informação de que o mesmo se submeteu a uma cirurgia do esôfago e biópsia e, se a seguradora, àquela época, não tomou os devidos cuidados para a celebração da avença, assumiu o risco da contratação, não podendo se eximir com alegações de doença preexistente, até porque houve a boa-fé do contratante.” (fl. 382)
+Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+Na espécie, o acórdão recorrido decidiu que “(...)o segurado não faltou com a verdade, quando preencheu o cartão proposta de fls. 14, pois, analisando-o, constata-se que o mesmo informou à seguradora que já tinha realizado uma cirurgia no esôfago e exame de biópsia, o que descaracteriza a má-fé alegada ela recorrente.(...)” (fl. 385)
+Para entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+Incide, portanto, a Súmula 279/STF.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1o do RISTF, e 557 do CPC).
+Publique-se.
+Brasília, 30 de novembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
