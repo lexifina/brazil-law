@@ -1,0 +1,18 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo de instrumento, interposto contra decisão obstativa de recurso extraordinário, manejado com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 1ª Região. Acórdão assim ementado (fls. 40):
+“ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO PARA O CARGO DE ANALISTA DE CONTROLE EXTERNO. ANULAÇÃO DE QUESTÕES. CARACTERIZAÇÃO DE ERRO MATERIAL. OFENSA AO PRINCÍPIO DA ISONOMIA NÃO CARACTERIZADO.
+1. As questões impugnadas abordaram tema dissociado da matéria referente a Direito Processual Civil, eis que o conteúdo programático nelas abrangido não estava previsto nas normas editalícias, tais como prova processual, partes do processo e substituição processual, dentre outras, restando inconteste a ocorrência de erro material a ensejar apreciação judicial na espécie.
+2. O princípio da isonomia não pode ser usado para impedir o reconhecimento de um erro da Administração, até porque não tem o menor cabimento dizer que se existiu um erro em razão de uma pessoa, o erro deve também ser cometido para outras pessoas de modo a iguala-las (sic). Se a Administração estivesse preocupada com a isonomia deveria anular as questões para todos os candidatos e não defender que pode 'errar com a impetrante porque errou com os demais'.
+3. Apelação e remessa oficial não providas. '”
+2. Pois bem, a parte recorrente sustenta violação aos incisos I e II do art. 37 da Carta Magna de 1988.
+3. Tenho que a insurgência não merece acolhida. Isso porque o entendimento adotado pela instância judicante de origem afina com a jurisprudência firmada por esta nossa Corte no julgamento do RE 434.708, sob a relatoria do ministro Sepúlveda Pertence. Eis a ementa do julgado:
+“Concurso público: controle jurisdicional admissível, quando não se cuida de aferir da correção dos critérios da banca examinadora, na formulação das questões ou na avaliação das respostas, mas apenas de verificar que as questões formuladas não se continham no programa do certame, dado que o edital - nele incluído o programa - é a lei do concurso.”
+4. Na ocasião do julgamento do mencionado recurso extraordinário, anotei que o apego da Administração Pública às normas editalícias publicadas por ela, Administração, homenageia a um só tempo o princípio da segurança jurídica — querem as partes estar seguras de que o edital será respeitado — e o princípio da lealdade. Lealdade naquele sentido de que a Administração Pública tem de corresponder às expectativas por ela mesma geradas nos administrados. É o que, na doutrina alemã e na doutrina portuguesa, toma o nome de “proteção da confiança”.
+5. Muito bem. O que é vedado ao Poder Judiciário em tema de apreciação da legalidade dos concursos é substituir-se ao administrador público em três sentidos: quanto aos critérios da formulação dos quesitos; quanto aos critérios de correção de prova e, por desdobramento, quanto à atribuição da nota em si.
+7. Não é o caso destes autos. O que está a ocorrer é o desapego da própria Administração Pública às normas editalícias por ela definidas e publicadas. É dizer: não há pertinência temática entre o que foi proposto aos candidatos e o programa do edital.
+8. No mesmo sentido, confiram-se os REs 352.299-AgR, sob a relatoria da ministra Ellen Gracie; 440.335-AgR, sob a relatoria do ministro Eros Grau; 464.050, sob a relatoria do ministro Sepúlveda Pertence; bem como o AI 695.434, sob a relatoria da ministra Cármen Lúcia.
+Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 30 de novembro de 2010.
+Ministro AYRES BRITTO
+Relator
