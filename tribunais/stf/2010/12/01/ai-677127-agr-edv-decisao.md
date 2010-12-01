@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de embargos de divergência opostos a acórdão da Primeira Turma, rel. min. Ricardo Lewandowski, cuja ementa é do seguinte teor (fls. 133):
+“EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CRITÉRIOS PARA A PRESERVAÇÃO DO VALOR REAL DO BENEFÍCIO. CABE AO LEGISLADOR ORDINÁRIO. NECESSIDADE DE ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO.
+I – O acórdão recorrido encontra-se em harmonia com a jurisprudência da Corte no sentido de que cabe ao legislador ordinário definir os critérios para a preservação do valor real do benefício. Precedentes.
+II – A verificação, no caso concreto, da existência, ou não, de ofensa ao texto constitucional situa-se no âmbito infraconstitucional. A afronta à Constituição, se ocorrente, seria indireta. Precedentes.
+III – Recurso protelatório. Aplicação de multa.
+IV - Agravo regimental improvido.”
+O embargante sustenta que o acórdão embargado, ao concluir pela necessidade de prévio exame de normas infraconstitucionais, divergiu de acórdão do Plenário que, no julgamento do RE 564.354-RG (rel. min. Menezes Direito, DJe de 06.06.2008), reconheceu a repercussão geral do tema aqui discutido.
+Os embargos são inadmissíveis. É que o Plenário desta Corte, no julgamento do AI 567.171-AgR-ED-EDv-ED (rel. min. Celso de Mello, DJe de 06.02.2009), decidiu que o recorrido, “quando condenado pelo Tribunal a pagar, à parte contrária, a multa a que se refere o § 2º do art. 557 do CPC - somente poderá interpor ‘qualquer outro recurso’, se efetuar o depósito prévio do valor correspondente à sanção pecuniária que lhe foi imposta. A ausência de comprovado recolhimento do valor da multa importará em não-conhecimento do recurso interposto, eis que a efetivação desse depósito prévio atua como pressuposto objetivo de recorribilidade”. Portanto, o referido depósito é devido, ainda que a parte objetive o afastamento da multa aplicada.
+Naquela ocasião, firmou-se o entendimento de que a exigência do depósito para recorrer não limita o acesso ao Judiciário, mas coíbe os excessos e abusos que a parte possa vir a cometer.
+Confiram-se, em sentido semelhante, o RE 244.893-AgR-ED (rel. min. Celso de Mello, Segunda Turma, DJ de 03.03.2000), o AI 193.779-AgR-ED (rel. min. Celso de Mello, Segunda Turma, DJ de 08.06.2001), o RE 419.565-AgR-ED (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 08.10.2004), o AI 623.105-AgR-ED (rel. min. Menezes Direito, Primeira Turma, DJe de 06.06.2008) e o RE 521.424-AgR-EDv-AgR (rel. min. Celso de Mello, Plenário, DJe de 27.08.2010).
+Destaco que o benefício da justiça gratuita não afasta a exigência do recolhimento da multa de que trata o art. 557, § 2º, do Código de Processo Civil. Nesse sentido: RE 286.512-AgR-ED (rel. min. Cezar Peluso, Segunda Turma, DJe de 19.06.2009), RE 434.227 (rel. min. Sepúlveda Pertence, DJ de 01.02.2005) e AI 672.046-AgR-EDv (rel. min. Gilmar Mendes, DJe de 29.09.2010).
+Do exposto, uma vez que a embargante não comprovou o pagamento da multa do art. 557, § 2º, do Código de Processo Civil, não admito os presentes embargos de divergência, nos termos dos arts. 21, § 1º e 335 do RISTF.
+Publique-se.
+Brasília, 1º de dezembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
