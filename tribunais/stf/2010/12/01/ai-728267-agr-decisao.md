@@ -1,0 +1,17 @@
+D ECIS Ã O:
+Vistos.
+Dari Sérgio Albring interpõe recurso extraordinário (fls. 482 a 501 - fax e 504 a 523 - original) contra acórdão proferido pela Primeira Turma desta Corte que desproveu (fls. 469 a 477) o agravo regimental interposto.
+Examinados os autos, decido.
+O recurso é manifestamente incabível, sem qualquer previsão no art. 102, inc. III, da Constituição Federal e no Regimento Interno desta Corte. Com efeito, a parte pretende, inadequadamente, o rejulgamento da causa, fim a que não se presta a excêntrica petição.
+Ademais, não há falar em conversão do referido pedido em embargos de declaração, uma vez que configurado erro grosseiro, não sendo aplicável à espécie o princípio da fungibilidade recursal, sendo certo, ainda, que a petição recursal não suscita nenhuma das hipótese autorizadoras da oposição dos declaratórios (art. 337 do RISTF).
+Nesse sentido, cito precedentes:
+“AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CABIMENTO DE AGRAVO REGIMENTAL. RECURSO NÃO CONHECIDO. 1. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que não cabe agravo regimental contra acórdão do Plenário ou de Turma. 2. Impossibilidade de conversão em embargos de declaração: erro grosseiro. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 680.413/SP-AgR-AgR-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, Dje de 27/11/09);
+“1. RECURSO. Agravo regimental. Interposição contra acórdão do Pleno em agravo regimental. Inadmissibilidade. Aplicação do art. 317, caput, do Regimento Interno. Precedentes. Não se admite agravo regimental contra acórdão de Turma ou do Plenário. 2. RECURSO. Agravo regimental. Interposição antes de publicado o acórdão agravado. Decisão ainda nem sequer juntada aos autos. Caráter manifestamente prematuro. Objeto recursal ainda não definido de todo. Intempestividade reconhecida. Não conhecimento. Precedentes. Não se conhece de recurso interposto antes da publicação da decisão por impugnar, sem, pelo menos, juntada do acórdão aos autos” (MS nº 27.632/DF-MC-AgR-AgR, Tribunal Pleno, Relator o Ministro Cezar Peluso, DJe de 27/2/09);
+“Agravo regimental. Agravo regimental no agravo de instrumento. Princípio da unirrecorribilidade recursal. Agravo regimental contra acórdão. Impossibilidade. Precedentes. 1. O princípio da unirrecorribilidade ou da singularidade dos recursos, ressalvadas as hipóteses legais, impede que contra a mesma decisão se interponha mais de um recurso. 2. Pacífico o entendimento desta Corte no sentido de ser incabível agravo regimental contra decisão prolatada por órgão colegiado. 3. Agravo regimental não-conhecido” (AI nº 644.989/RJ-AgR-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJe de 12/12/08).
+Ante o exposto, e nos termos do art. 21, § 1º do RISTF, por manifestamente incabível, nego seguimento ao pedido.
+Considerando o entendimento da Corte no sentido de que o “recurso manifestamente incabível não suspende nem interrompe o prazo para a interposição de outro” (RE nº 601.061/MG-AgR-AgR-ED, Segunda Turma, Relator o Ministro Eros Grau, DJe de 21/5/10), encaminhem-se os autos à Secretária para que certifique trânsito em julgado do acórdão de folhas 469 a 477 e, na sequencia, providencie a baixa dos autos.
+Publique-se.
+Brasília, 1º de dezembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
