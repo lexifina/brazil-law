@@ -1,0 +1,26 @@
+DECIS ÃO: Trata-se de habeas corpus, com pedido liminar, impetrado por José Belga Assis Trad e outros, em favor de Elias Alves de Souza Filho.
+Nestes autos, a defesa impugna decisão proferida pela Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, relatora do HC 182.828/MS, que indeferiu a medida liminar.
+Na espécie, o paciente foi preso em flagrante e denunciado por infração aos arts. 33 da Lei 11.343/2006 e 12 e 16, parágrafo único, IV, da Lei 10.826/2003.
+Formulado pedido de liberdade provisória ao Juízo da 2ª Vara Criminal da Comarca de Costa Rica/MS, este restou indeferido.
+Contra essa decisão a defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de Mato Grosso do Sul, que denegou a ordem, nos termos da ementa que segue transcrita:
+“HABEAS CORPUS – TRÁFICO ILÍCITO DE ENTORPECENTES – PRISÃO PREVENTIVA – PRETENDIDA LIBERDADE – ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS DA PRISÃO PREVENTIVA, PRIMARIEDADE, CONDIÇÕES PESSOAIS FAVORÁVEIS E USUÁRIO DE DROGA – NÃO ACOLHIMENTO – REQUISITOS DA PRISÃO PREVENTIVA PRESENTES – CONDIÇÕES PESSOAIS NÃO ISENTÁVEIS – QUESTÃO DE USUÁRIO DE DROGAS SERÁ ANALISADA NO DECORRER DA INSTRUÇÃO CRIMINAL – ORDEM DENEGADA.
+A decisão que, de forma motivada, decreta a prisão provisória e indefere o pedido de liberdade provisória, indicando, para tanto, os pressupostos e fundamentos autorizadores da decretação da prisão preventiva não acarreta constrangimento ilegal ao paciente. Condições pessoais não elidem o caráter provisório.
+A prisão preventiva não ofende o princípio constitucional da presunção de inocência, pois já pacificadas como constitucionais. A alegação de que o paciente é mero usuário de drogas é questão que será analisada no decorrer da instrução criminal”.
+Irresignada, impetrou HC perante o Superior Tribunal de Justiça, que denegou a pretensão liminar, nos seguintes termos:
+“Com efeito, a confirmação da prisão cautelar pelo tribunal de origem, em um primeiro lanço, não se afigura desvinculada de dados concretos. De fato, há nos autos informações referentes à periculosidade do paciente, o qual, segundo consta dos autos, 'anda armado, ameaçando as pessoas', o que configura, prima facie, a necessidade de garantir-se a ordem pública, não se apurando, assim, a necessária plausibilidade jurídica para o deferimento da medida de urgência”.
+No presente writ, a defesa alega a ausência dos pressupostos legais autorizadores da prisão (CPP, art. 312).
+Aduz, também, que “é inidônea a proibição de liberdade provisória com base apenas na gravidade do delito ou na garantia da ordem pública, sem que haja elementos a comprovar, de fato, a necessidade da segregação cautelar”.
+Liminarmente, pede a expedição de alvará de soltura para que o paciente possa responder à ação penal em liberdade.
+No mérito, a confirmação da liminar.
+Passo a decidir.
+Em princípio, a jurisprudência desta Corte é no sentido da inadmissibilidade da impetração de habeas corpus, nas causas de sua competência originária, contra decisão denegatória de liminar em ação de idêntica natureza articulada perante tribunal superior, antes do julgamento definitivo do writ (cf. HC-QO n. 76.347/MS, Min. Moreira Alves, 1ª Turma, unânime, DJ 8.5.1998; HC n. 79.238/RS, Min. Moreira Alves, 1a Turma, unânime, DJ 6.8.1999; HC n. 79.776/RS, Min. Moreira Alves, 1ª Turma, unânime, DJ 3.3.2000; HC n. 79.775/AP, Min. Maurício Corrêa, 2a Turma, maioria, DJ 17.3.2000; HC n. 79.748/RJ, Min. Celso de Mello, 2a Turma, maioria, DJ 23.6.2000; HC n. 101.275/SP, Min. Ricardo Lewandowski, 1a Turma, maioria, DJe 5.3.2010; e HC n. 103.195, Min. Cezar Peluso, 2ª Turma, unânime, DJe 23.4.2010).
+Esse entendimento está representado na Súmula n. 691/STF; eis o teor: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+É bem verdade que o rigor na aplicação da Súmula n. 691/STF tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC n. 84.014/MG, Min. Marco Aurélio, 1ª Turma, unânime, DJ 25.6.2004; HC n. 85.185/SP, Min. Cezar Peluso, Pleno, por maioria, DJ 1o.9.2006; e HC n. 90.387, da minha relatoria, 2ª Turma, unânime, DJ 28.9.2007).
+Na hipótese dos autos, à primeira vista, não se caracteriza nenhuma dessas situações ensejadoras do afastamento da incidência da Súmula n. 691/STF.
+Dessarte, não se tratando de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal – e salvo melhor juízo na apreciação de eventual impetração de novo pedido de habeas corpus a ser distribuído nos termos da competência constitucional desta Corte (CF, art. 102) –, descabe afastar a aplicação da Súmula n. 691/STF.
+Ante o exposto, nego seguimento ao pedido formulado neste habeas corpus, por ser manifestamente incabível, nos termos da Súmula n. 691/STF.
+Publique-se.
+Brasília, 2 de dezembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
