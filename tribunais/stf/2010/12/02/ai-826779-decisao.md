@@ -1,0 +1,13 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“DANO MORAL. ACIDENTE DO TRABALHO. RISCO INERENTE À ATIVIDADE. RESPONSABILIDADE OBJETIVA. A atividade de transporte de valores em carro forte é, pela sua natureza, indubitavelmente uma atividade de risco acentuado e, de acordo com o art. 2º da CLT, os riscos da atividade econômica devem ser suportados pelo empregador. Saliente-se que, embora o art. 7º, inc. XXVIII, da Constituição da República estabeleça a obrigação do empregador, quando incorrer em dolo ou culpa, de indenizar o empregado em razão de acidente de trabalho, o caput desse dispositivo ressalta que os direitos ali previstos não o são de forma taxativa, ao dispor -além de outros que visem à melhoria de sua condição social-. Dessa forma, não há impedimento constitucional para a incidência do art. 927 do Código Civil, que no seu parágrafo único dispõe: -Haverá obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem-. Dessa forma, revela-se objetiva a responsabilidade do empregador quando há risco inerente à sua atividade. Recurso de Embargos de que se conhece e a que se dá provimento.” (fl. 250)
+Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+Na espécie, o acórdão recorrido decidiu “(...) restabelecer a decisão regional quanto à condenação ao pagamento de indenização por dano moral em razão de o reclamante ter sido vítima de assalto à mão armada no exercício de suas funções em favor da reclamada” (fl. 256).
+Para entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+Incide, portanto, a Súmula 279/STF.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º do RISTF, e 557 do CPC).
+Publique-se.
+Brasília, 2 de dezembro de 2010.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
