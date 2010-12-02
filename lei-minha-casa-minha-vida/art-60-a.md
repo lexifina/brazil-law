@@ -1,0 +1,2 @@
+Art. 60-A. O título de legitimação de posse poderá ser extinto pelo Poder Público emitente quando constatado que o beneficiário não está na posse do imóvel e não houve registro de cessão de posse.
+Parágrafo único. Após o procedimento para extinção do título, o Poder Público solicitará ao oficial de registro de imóveis a averbação do seu cancelamento, nos termos do art. 250, inciso III, da Lei nº 6.015, de 31 de dezembro de 1973.
