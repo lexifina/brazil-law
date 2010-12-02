@@ -1,0 +1,10 @@
+Art. 195-A. O Município poderá solicitar ao registro de imóveis competente a abertura de matrícula de parte ou da totalidade de imóveis públicos oriundos de parcelamento do solo urbano, ainda que não inscrito ou registrado, por meio de requerimento acompanhado dos seguintes documentos:
+I - planta e memorial descritivo do imóvel público a ser matriculado, dos quais constem a sua descrição, com medidas perimetrais, área total, localização, confrontantes e coordenadas preferencialmente georreferenciadas dos vértices definidores de seus limites;
+II - comprovação de intimação dos confrontantes para que informem, no prazo de quinze dias, se os limites definidos na planta e no memorial descritivo do imóvel público a ser matriculado se sobrepõem às suas respectivas áreas, se for o caso;
+III - as respostas à intimação prevista no inciso II, quando houver; e
+IV - planta de parcelamento assinada pelo loteador ou aprovada pela prefeitura, acompanhada de declaração de que o parcelamento se encontra implantado, na hipótese deste não ter sido inscrito ou registrado.
+§ 1º Apresentados pelo Município os documentos relacionados no inciso IV do caput, o cartório de registro de imóveis deverá proceder ao registro dos imóveis públicos decorrentes do parcelamento do solo urbano na matrícula ou transcrição da gleba objeto de parcelamento.
+§ 2º Na abertura de matrícula de imóvel público oriundo de parcelamento do solo urbano, havendo divergência nas medidas perimetrais, de que resulte ou não alteração de área, a situação de fato implantada do bem deverá prevalecer sobre a situação constante do registro ou da planta de parcelamento, respeitados os limites dos particulares lindeiros.
+§ 3º Não será exigida, para transferência de domínio, formalização da doação de áreas públicas pelo loteador nos casos de parcelamentos urbanos realizados na vigência do Decreto-Lei nº 58, de 1937.
+§ 4º Recebido o requerimento e verificado o atendimento aos requisitos previstos neste dispositivo, o oficial do registro de imóveis abrirá a matrícula em nome do Município.
+§ 5º A abertura de matrícula de que trata o caput independe do regime jurídico do bem público.
