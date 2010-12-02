@@ -1,0 +1,2 @@
+Art. 82-B. O PMCMV, nos termos do art. 1º desta Lei, tem como meta promover a produção, aquisição, requalificação, e reforma de dois milhões de unidades, a partir da publicação desta Medida Provisória, a dezembro de 2014, respeitados os valores consignados nas respectivas leis orçamentárias anuais.
+Parágrafo único. As diretrizes para a continuidade do programa serão definidas no plano nacional de habitação a ser apresentado pelo Poder Executivo, no prazo de que trata o caput, mediante projeto de lei.
