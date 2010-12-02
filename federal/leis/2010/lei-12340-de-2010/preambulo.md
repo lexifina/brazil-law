@@ -1,2 +1,3 @@
-Dispõe sobre as transferências de recursos da União aos órgãos e entidades dos Estados, Distrito Federal e Municípios para a execução de ações de prevenção em áreas de risco de desastres e de resposta e de recuperação em áreas atingidas por desastres e sobre o Fundo Nacional para Calamidades Públicas, Proteção e Defesa Civil; e dá outras providências.
-O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+Dispõe sobre o Sistema Nacional de Defesa Civil - SINDEC, sobre as transferências de recursos para ações de socorro, assistência às vítimas, restabelecimento de serviços essenciais e reconstrução nas áreas atingidas por desastre, e sobre o Fundo Especial para Calamidades Públicas, e dá outras providências.
+O P R E S I D E N T E D A R E P Ú B L I C A
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
