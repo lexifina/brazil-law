@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ENQUADRAMENTO DE ATIVIDADE COMERCIAL PARA FINS DE INCIDÊNCIA DE TRIBUTO. IMPOSSIBILIDADE DA INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“AGRAVO INTERNO. APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. ICMS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICO-TRIBUTÁRIA. INDÚSTRIA E COMÉRCIO DE ARTEFATOS DE PAPELÃO, IMPORTAÇÃO E EXPORTAÇÃO DE CHAPAS DE PAPELÃO E DE CALÇADOS, COMERCIALIZAÇÃO DE CALÇADOS E SEUS COMPONENTES. COMPOSIÇÃO GRÁFICA. AUSÊNCIA DE PREVISÃO E COMPROVAÇÃO. CIRCULAÇÃO DE MERCADORIAS. OPERAÇÕES MISTAS. ICMS. INCIDÊNCIA. IMPROCEDÊNCIA DA AÇÃO. Tendo a sociedade por objetivo social a industrialização e a comercialização de artefatos de papelão, importação e exportação de chapas de papelão e de calçados e comercialização de calçados e seus componentes, nada constando em seu contrato social, expressamente, acerca de composição gráfica, serviço não comprovado nos autos, se sujeita à incidência de ICMS, e não de ISS, diante de típica atividade de circulação de mercadorias, podendo-se cogitar, quando muito, de operações mistas, com atividade preponderante passível de tributação pelo ICMS. Hipótese em que a autora não se desincumbiu do ônus probatório do art. 333, I, do CPC. Aplicação do art. 155, § 5º, IX, 'b', da CF. Precedentes do TJRGS, STJ e STF. Agravo interno desprovido” (fl. 86).
+2. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência na espécie da Súmula n. 279 deste Supremo Tribunal e a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta (fls. 28-33).
+3. A Agravante alega que o Tribunal a quo teria contrariado os arts. 150, inc. I, 155, inc. II, e 156, inc. III, da Constituição da República.
+Sustenta que “não há que se falar em fato gerador do Imposto sobre Circulação de Mercadorias e Serviços de Transporte (ICMS) quando a apelante presta serviços de composição gráfica, vez que tal atividade recai para a competência tributária dos Municípios” (fl. 23).
+Apreciada a matéria trazida na espécie, DECIDO.
+4. Razão jurídica não assiste à Agravante.
+5. Para a verificação no caso concreto de qual imposto incidiria sobre a atividade da Agravada, se Imposto sobre Circulação de Mercadorias e Serviços ou Imposto sobre Serviços, seriam necessários o reexame do conjunto probatório constante dos autos e a análise da legislação infraconstitucional aplicável à espécie. Assim, a alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 deste Supremo Tribunal.
+Nesse sentido:
+“Para se chegar a entendimento diverso do consignado pela Corte de origem seria necessário analisar previamente o conjunto fático-probatório dos autos (Súmula 279) e também a legislação infraconstitucional pertinente (Decreto-Lei n. 406/68, com a redação dada pelo Decreto-Lei n. 834/69). Procedimentos esses que são vedados pela pacífica jurisprudência desta colenda Corte. Agravo regimental a que se nega provimento” (RE 330.074-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJ 11.2.2005).
+E:
+“AGRAVO REGIMENTAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem seria necessário o reexame de matéria fática, o que encontra óbice na Súmula 279 do STF. Ademais, a discussão sobre a incidência do ISS ou do ICMS, tal como versada nos autos, demandaria prévio exame de legislação infraconstitucional. Ofensa constitucional que, se existente, seria indireta ou reflexa. Agravo regimental a que se nega provimento” (AI 630.117-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 22.10.2010).
+Nada há, pois, a prover quanto às alegações da Agravante.
+6. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
