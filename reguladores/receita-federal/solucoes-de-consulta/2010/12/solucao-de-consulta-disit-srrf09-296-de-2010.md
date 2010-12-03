@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF09 nº 296, de 17 de novembro de 2010
+Assunto: Imposto sobre Produtos Industrializados - IPI ROTULAGEM OU MARCAÇÃO. PRODUTOS IMPORTADOS. A obrigatoriedade de rotulagem ou marcação dos produtos, prevista no art. 273 do RIPI/2010, diz respeito aos produtos objeto de industrialização no País. O importador não está obrigado a rotular ou marcar os produtos importados, salvo aqueles expressamente excepcionados pelo Regulamento do IPI, ou quando efetuar o acondicionamento ou reacondicionamento dos produtos importados. Dispositivos Legais: Decreto nº 7.212, de 15 de junho de 2010 -RIPI/2010, art. 273 e § 7º, art. 277; Parecer Normativo CST nº 282, de 1971.
+[arquivo anexo: SC SRRF09-Disit nº 296-2010.pdf]
