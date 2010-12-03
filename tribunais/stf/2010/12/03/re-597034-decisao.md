@@ -1,0 +1,9 @@
+DECISÃO: Preliminarmente, não conheço do presente recurso extraordinário no que se refere à exigibilidade do recolhimento, pelas empresas urbanas, da contribuição social destinada ao INCRA.
+É que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão constitucional suscitada no RE 578.635-RG/RS, Rel. Min. MENEZES DIREITO.
+O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza, nesse específico ponto, o conhecimento do presente recurso extraordinário.
+Cumpre observar, de outro lado, que outras matérias veiculadas na presente causa – necessidade, ou não, de lei complementar para a instituição da contribuição social destinada ao SEBRAE, possibilidade da pretendida aplicação da taxa SELIC como fator de correção de dívida tributária e reconhecimento do caráter alegadamente confiscatório de multa imposta por lei - serão apreciadas nos recursos representativos de tais controvérsias jurídicas, que, suscitadas no AI 762.202-RG/RJ, Rel. Min. GILMAR MENDES, e no RE 582.461-RG/SP, Rel. Min. GILMAR MENDES, foram qualificadas como questões impregnadas de repercussão geral.
+Isso significa que se impõe, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem, para que, neste, seja observado o disposto no art. 543-B e respectivos parágrafos do CPC (Lei nº 11.418/2006), no que concerne aos temas acima referidos.
+Publique-se.
+Brasília, 03 de dezembro de 2010.
+Ministro CELSO DE MELLO
+Relator
