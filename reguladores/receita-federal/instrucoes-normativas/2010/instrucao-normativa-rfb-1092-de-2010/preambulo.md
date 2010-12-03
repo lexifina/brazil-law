@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1092, de 2 de dezembro de 2010
+Altera a Instrução Normativa RFB nº 811, de 28 de janeiro de 2008, que institui a Declaração de Informações sobre Movimentação Financeira (Dimof).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 5º da Lei Complementar nº 105, de 10 de janeiro de 2001, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 30 da Lei nº 10.637, de 30 de dezembro de 2002, no Decreto nº 4.489, de 28 de novembro de 2002, e na Instrução Normativa RFB nº 802, de 27 de dezembro de 2007, resolve:
