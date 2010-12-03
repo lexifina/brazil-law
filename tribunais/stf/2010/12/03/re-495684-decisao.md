@@ -1,0 +1,14 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão no qual se discutem a constitucionalidade do § 13 do art. 40 da Constituição Federal com a redação dada pela Emenda Constitucional 20/98, bem como a inconstitucionalidade das limitações impostas aos municípios pela Lei 9.717/98, para instituição de seus regimes próprios de previdência.
+2.  No RE, a parte recorrente alega violação aos arts. 18, 29, 30, 37, 60, § 4º, e 195 da Constituição Federal, sustentando, em síntese, que os servidores municipais ocupantes de cargo em comissão e os temporários devem continuar contribuindo para o Regime Próprio de Previdência do Município e não para o Regime Geral da Previdência Social. Aduz que a EC 20/98 e a Lei 9.717/98, invadiram a competência dos municípios, diminuindo sua autonomia.
+3.  Admitido o recurso na origem (fls. 270), subiram os autos.
+4.  O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 276-280).
+5.  O recurso não merece prosperar. O Supremo Tribunal Federal possui entendimento no sentido de que as disposições da Lei 9.717/98 não ofendem o princípio da autonomia dos entes federados, pois a Constituição Federal não confere às entidades da federação autonomia irrestrita para organizar o regime previdenciário de seus servidores e que, por se tratar de tema tributário, a matéria pode ser disciplinada por norma geral, editada pela União, sem prejuízo da legislação estadual, suplementar ou plena, na ausência de lei federal. Nesse sentido: RE 395.666-AgR, rel. Min. Eros Grau, 1ª Turma, DJ 02.12.2005; e RE 597.032-AgR/MG, rel. Min. Eros Grau, 2ª Turma, DJe 09.10.2009, este último assim ementado:
+“ EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. LEI N. 9.717/98. OFENSA AO PRINCÍPIO DA AUTONOMIA DOS ENTES FEDERADOS. INOCORRÊNCIA. Esta Corte já decidiu que: (i) a Constituição do Brasil não confere às entidades da federação autonomia irrestrita para organizar o regime previdenciário de seus servidores; (ii) por se tratar de tema tributário, a matéria discutida nestes autos pode ser disciplinada por norma geral, editada pela União, sem prejuízo da legislação estadual, suplementar ou plena, na ausência de lei federal [ADI n. 2.024, Relator o Ministro Sepúlveda Pertence, DJ de 1º.12.00]. Agravo regimental a que se nega provimento”.
+   Ademais, no julgamento da ADI 2.009, rel. Min. Moreira Alves, Tribunal Pleno, DJ 09.5.2003, o Supremo Tribunal Federal decidiu que o § 13 do artigo 40 da Constituição Federal, redação conferida pela EC 20/98, é auto-aplicável. Veja-se o seguinte trecho da ementa:
+“... e a última não está regulamentando o § 13 do artigo 40 da Constituição em sua redação atual por ser este auto-aplicável”.
+O acórdão recorrido não divergiu dessa orientação.
+6.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 03 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
