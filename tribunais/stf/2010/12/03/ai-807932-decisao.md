@@ -1,0 +1,20 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que concedeu a ordem para que a impetrante, servidora ocupante de cargo em comissão, tivesse prorrogada a licença maternidade por mais 60 dias, a contar do término da licença de 120 dias.
+O recorrente alega violação aos arts. 5º, incisos XXXV, LIV e LV, 93, IX, 40, § 13 e 7º, XVIII, da Constituição Federal.
+Na espécie, o acórdão recorrido assentou que, de acordo com o art. 128, § 2º, da LC 10.098/94, a licença à gestante encontra-se no rol daquelas licenças que podem ser concedidas aos servidores públicos e que também são passíveis de serem deferidas aos servidores de cargos em comissão. A Lei Complementar 13.117/09, por sua vez, alterou a LC 10.098/94, ampliando a licença maternidade de 120 dias para 180 dias. Não havendo, nas leis complementares, qualquer limitação dessa licença em relação ao vínculo da servidora, se celetista, estatutária, ou ocupante de cargo em comissão, à impetrante é devida a prorrogação.
+O recorrente sustenta, no recurso extraordinário, que a servidora, sendo titular de cargo comissionado, submete-se ao Regime Geral da Providência Social, portanto não faz jus aos benefícios de natureza previdenciária eventualmente previstos aos servidores de cargo efetivo.
+Decido.
+Não assiste razão ao agravante.
+Inicialmente, registre-se que é pacífico o entendimento desta Corte no sentido de que se o acórdão recorrido encontra-se devidamente fundamentado, ainda que não tenha enfrentado especificamente todos os argumentos trazidos pelos recorrentes, não há que se falar em violação aos arts. 5º, XXXV, 93, IX, da Constituição Federal.
+Saliente-se, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, nos seguintes termos:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (grifei)
+(AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Pleno, DJe 13.8.2010 )
+Ultrapassada essa questão, é correto concluir que a análise deste caso não está embasada na Constituição Federal, mas, sim, na legislação infraconstitucional, mais especificamente nas Leis Complementares Estaduais 10.098/94 e 13.117/09.
+Nesses termos, o acórdão recorrido decidiu a controvérsia com base na Lei Complementar Estadual 13.117/09 que alterou o regramento da licença maternidade das servidoras públicas do Estado, prevista na Lei Complementar Estadual 10.098/94. Assim, para se entender de forma distinta, seria necessária a análise da legislação local, o que é vedado pela Súmula 280 do STF, conforme jurisprudência desta Corte.
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. LEIS 7.672/1982 E 11.443/2000 DO ESTADO DO RIO GRANDE DO SUL. OFENSA A DIREITO LOCAL. ENUNCIADO 280 DA SÚMULA/STF. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. Ambas as Turmas desta Corte já firmaram entendimento no sentido de que a matéria discutida no presente recurso importa mera ofensa a direito local ou, quando muito, violação indireta à Constituição. Agravo regimental a que se nega provimento.
+(AI-AgR 730.677, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 8.10.2010)
+Ante o exposto, nego seguimento ao recurso. (arts. 21, §1º RISTF, e 557 do CPC).
+Publique-se.
+Brasília, 3 de dezembro de 2010.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
