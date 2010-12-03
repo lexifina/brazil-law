@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento de recurso extraordinário interposto contra acórdão que concluiu pela inadmissibilidade de se condicionar a liberação do veículo legalmente retido, ao recolhimento da multa aplicada, assim ementado (fls. 27-31):
+“ TRÂNSITO - veículo apreendido por executar serviço de transporte de passageiros não autorizado pelo Município – liberação mediante o pagamento das taxas de remoção e estadia – multa que não poderá ser exigida desde logo, devendo a cobrança ser feita nos termos da Lei 6.380/81 – sucumbência da apelante que não poderá ser considerada mínima, ao exigir para a liberação o valor da multa de R$ 3.400,00 – sentença mantida – negado seguimento aos recursos”.
+ No RE, sustenta-se ofensa ao artigo 30, V, da Constituição Federal, alegando, em síntese, que a exigência de pagamento da multa como condição para a retirada do veículo está prevista na Lei Municipal 13.241/2001, editada na competência municipal prevista pela Constituição Federal.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que o dispositivo ao qual se alegou violação não se encontra prequestionado, porque não abordado pelo acórdão recorrido, nem indicados nos embargos de declaração opostos para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+3.  Ademais, quanto à liberação do veículo, asseverou o seguinte (fl. 28):
+“Ainda que de caráter não-tributário a dívida em discussão nestes autos, é de se aplicar analogicamente o conteúdo da Súmula STF 323 do Supremo Tribunal Federal ao enunciar ser ‘inadmissível a apreensão de mercadorias como meio coercitivo para o pagamento de tributos’”.
+4.    Vê-se, portanto, que a competência legislativa do município para legislar (CF/88, art. 30) não foi o fundamento utilizado pelo Tribunal a quo para determinar a liberação do veículo apreendido. Valeu-se a Corte de origem, na realidade, de outros argumentos, como a aplicação da Súmula STF 323: “É inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de tributos”.
+5.  Assim, o apelo extremo revela-se inadmissível, pois nele não foram atacados os reais motivos adotados pela Corte de origem para ordenar a liberação do veículo, independentemente do pagamento da multa aplicada. Incide, na espécie, o óbice da Súmula STF 283: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento e o recurso não abrange todos eles”.
+6.  Por fim, para divergir da conclusão a que chegou o Tribunal a quo, cumpriria examinar a legislação local (Lei estadual 13.241/2001), o que é defeso nesta fase recursal, nos termos da Súmula STF 280.
+7.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 03 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
