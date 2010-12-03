@@ -1,0 +1,12 @@
+1.  Trata-se de recurso extraordinário interposto do acórdão no qual se discute a responsabilização do empregador pelo pagamento da correção monetária da multa de 40% sobre os depósitos do FGTS.
+2.  A parte recorrente alega, em síntese, violação aos arts. 5º, II, XXXV, XXXVI, LV, e 7º, XXIX, da Constituição Federal (fls. 575-587).
+3.  Inadmitido o recurso na origem (fl. 599), subiram os autos em virtude de provimento de agravo de instrumento.
+4.  O acórdão recorrido, quando ratifica o entendimento quanto à obrigação do empregador em depositar as diferenças da multa fundiária decorrentes dos expurgos inflacionários ou estabelece o marco inicial para sua cobrança ou ainda discute a hipótese de admissibilidade de recurso trabalhista, assim o faz sob vertente de matéria ordinária a depender de prévio exame da legislação infraconstitucional. Assim, eventual contrariedade aos postulados da prescrição trabalhista decorrente do art. 7º, XXIX, da Constituição Federal, da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, porque dependente de reexame prévio de normas infraconstitucionais, pode configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição da República, sem margem para o acesso à via extraordinária.
+5.  Finalmente, ambas as Turmas desta Corte entendem que a discussão relativa ao termo inicial da prescrição para ação de cobrança da diferença de 40% sobre os depósitos do FGTS, decorrente da atualização monetária em razão dos expurgos inflacionários, bem como à responsabilidade do empregador pelo seu pagamento não viabiliza o acesso ao recurso extraordinário, por se ater à matéria infraconstitucional.
+Nesse sentido: AI 606.373-AgR/MG, rel. Min. Eros Grau, 2ª Turma, unânime, DJ 19.12.2006; RE 540.483/RJ, rel. Min. Cezar Peluso, DJ 24.4.2007; AI 648.884-ED/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, DJ 30.11.2007; e AI 703.507-AgR/SP, rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 20.6.2008.
+6.  Frise-se, ainda, que o Plenário Virtual desta Corte, em 05.12.2008, no RE 584.608/SP, de minha relatoria (DJe 13.03.2009), tratando do tema em tela, recusou o recurso extraordinário ante a ausência de repercussão geral da questão constitucional suscitada.
+7.  Do exposto, nego seguimento ao recurso extraordinário com fundamento no art. 557, caput, do Código de Processo Civil.
+Publique-se.
+Brasília, 03 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
