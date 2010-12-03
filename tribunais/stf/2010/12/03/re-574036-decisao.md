@@ -1,0 +1,17 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão no qual se discutem as diferenças salariais decorrentes do IPC de março de 1990 de servidores estaduais regidos pela CLT e a validade de acordo coletivo de trabalho.
+2.  No RE, a parte recorrente alega violação aos arts. 5º, XXXVI, e 7º, XXVI, da Constituição Federal, sustentando, em síntese, que o acordo coletivo de trabalho foi celebrado antes da transformação da Fundação Caetano Munhoz da Rocha (pessoa jurídica de direito privado), no Instituto de Saúde do Paraná (autarquia regida pelo regime jurídico de direito público).
+ Aduz que, por ter sido celebrado antes da referida mudança, o acordo teria se constituído em ato jurídico perfeito constitucionalmente protegido, não podendo ser negada a sua validade em virtude de posterior mudança na constituição jurídica da recorrida.
+3.  Inadmitido na origem (fl. 456), subiram os autos em virtude do provimento do AI 626.915/PR.
+4.  O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 474-475).
+5.  O recurso não merece prosperar. Em casos semelhantes ao dos presentes autos, em que se discute o direito de servidores públicos regidos pela CLT ao recebimento de diferenças salariais decorrentes do IPC de março de 1990, esta Corte tem se posicionado no sentido de que não há direito adquirido a tais diferenças. Nesse sentido: RE 361.600/DF, de minha relatoria, 2ª Turma, DJ 25.02.2005; e AI 581.418-AgR/DF, Joaquim Barbosa, 2ª Turma, DJ 22.9.2006, este último assim ementado:
+“ EMENTA: RECURSO TRABALHISTA. IPC DE MARÇO DE 1990. ÍNDICE DE 84,32%. DIREITO ADQUIRIDO. INEXISTÊNCIA EM RELAÇÃO AOS EMPREGADOS PÚBLICOS CONTRATADOS SOB O REGIME DA CLT . Os servidores do Distrito Federal, à época regidos pela CLT, não têm direito adquirido às diferenças salariais de 84,32% com base no IPC de março de 1990. A Lei distrital 38/1989 incide apenas sobre as relações do Distrito Federal com seus servidores com vínculo estatutário. Agravo regimental a que se nega provimento”.
+6.  Quanto à validade do acordo coletivo firmado entre as partes, verifico que o Tribunal a quo fundamentou sua decisão, também, nos arts. 37, caput, X e XI, 39, §§ 1º e 3º, e 169, caput, e § 1º, I e II, da Constituição Federal, fundamentos estes não atacados pelo recorrente. Permanece inatacado, portanto, fundamento suficiente para a manutenção do acórdão recorrido. Incide, na espécie, o óbice da Súmula STF 283.
+“É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos”.
+ Ademais, verifico que o acórdão recorrido reconheceu à Fundação Caetano Munhoz da Rocha a personalidade jurídica de direito público. Veja-se:
+“Embora tenha sido firmado o Acordo Coletivo questionado em época em que o reclamado ainda não havia sido transformado em autarquia, sendo reconhecida a personalidade jurídica de direito público à Fundação Caetano Munhoz da Rocha, o respectivo acordo coletivo por ela firmado há de ser considerado inválido” (fl. 430).
+ Assim, para rever a posição do Tribunal de origem seria necessário analisar a personalidade jurídica da recorrente, o que levaria ao reexame dos fatos e provas da causa, hipótese inviável em sede extraordinária (Súmula STF 279).
+7.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 03 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
