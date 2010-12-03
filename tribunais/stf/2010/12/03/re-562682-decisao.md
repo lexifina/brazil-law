@@ -1,0 +1,13 @@
+1.  O Tribunal Regional Federal da 3ª Região, não obstante o reconhecimento da constitucionalidade da exigência das contribuições sindicais à Confederação Nacional de Agricultura – CNA e à Confederação Nacional dos Trabalhadores na Agricultura – Contag, deu parcial provimento à apelação para suspender a obrigatoriedade do pagamento da contribuição à Contag, por concluir que a Carta Magna de 1988 não recepcionou o § 2º do art. 4º do Decreto-Lei 1.166/191, porque “o uso do salário-mínimo para a determinação da base de cálculo da contribuição à CONTAG , configura afronta ao art. 7º, inc. IV, in fine, da Constituição” (fls. 81-89).
+2.  Daí o presente recurso extraordinário por violação aos arts. 149 da Constituição Federal e 10 do Ato das Disposições Constitucionais Transitórias/1988 (fls. 94-99), em que a União sustenta que “não há que falar em inconstitucionalidade por vinculação ao salário mínimo”, pois a contribuição obedece à variação da UFIR, nos termos da Lei 8.383/1991.
+3.  Inadmitido o recurso na origem (fl. 102), subiram os autos em virtude de provimento do AI 435.499/SP (fl. 124).
+4.  A Procuradoria-Geral da República opinou pelo desprovimento do apelo (fls. 140-144).
+5.  O recurso extraordinário não merece seguimento, pois a questão constitucional tida por violada não foi debatida no acórdão recorrido, tampouco foram opostos embargos de declaração a fim de suscitar a matéria (Súmulas STF 282 e 356). É pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142-AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.9.2001; e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+6.  Ademais, o acórdão recorrido, à luz do art. 7º, VI, da Carta Magna, decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie (DL 1.66/71, art. 4º e Lei 8.383/1991). Assim, eventual ofensa à Constituição Federal, se existisse, seria indireta e reflexa, o que elide o processamento do recurso extraordinário. Veja-se, em caso idêntico, o RE 406.996/SP, rel. Min. Ayres Britto, DJ 15.6.2006.
+7.  Para ilustrar, destaco o parecer do Ministério Público Federal (fls. 140-144):
+“Apesar dos dispositivos apontados como violados terem sido considerados no acórdão impugnado, não o foram quando da discussão sobre a recepção da contribuição à CONTAG pela Constituição de 1988, que é o objeto de debate neste apelo extremo”.
+8.  Ante o exposto, com fundamento no art. 557, caput, do Código de Processo Civil, nego seguimento ao recurso.
+Publique-se.
+Brasília, 03 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
