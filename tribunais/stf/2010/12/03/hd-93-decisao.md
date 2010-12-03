@@ -1,0 +1,17 @@
+1. Registro, inicialmente, a ausência de interesse processual do impetrante na obtenção do benefício constante da Lei 1.060/50 (fl. 4), uma vez que a gratuidade da ação de habeas data encontra-se expressamente prevista no art. 21 da Lei 9.507/97.
+Não conheço, portanto, desse específico pedido.
+2. O presente writ foi impetrado por candidato inscrito em concurso público promovido para o provimento de cargos de Analista e de Técnico do Ministério Público da União, tudo conforme o Edital n.º 1 – PGR/MPU, de 30.6.2010, subscrito pelo Senhor Procurador-Geral da República (fls. 11-28).
+Alega o impetrante não ter conseguido obter, no sítio eletrônico da executora do referido concurso (CESPE/UnB), o espelho da correção de sua prova discursiva durante o transcurso do prazo para a interposição de eventual recurso.
+Argumenta que a exigüidade do prazo recursal fixado e o grande número de candidatos inscritos no certame teriam provocado o esgotamento do acesso de todos os interessados ao endereço eletrônico na internet indicado no edital, privando-o, assim, das informações indispensáveis ao pedido de revisão da correção de sua prova discursiva. Sustenta que esse fato teria prejudicado seu desempenho no concurso, acentuando ainda mais a sua desvantagem com relação aos demais concorrentes, já que concorre como deficiente físico.
+Invocando, assim, o direito de, como candidato, ter acesso à correção de sua prova e de contestá-la eventualmente, requer o impetrante o deferimento do writ para que a ele seja entregue a imagem digitalizada de sua prova corrigida, bem como a restituição de prazo recursal de razoável duração, “para contestação da avaliação da prova discursiva do concurso”.
+3. Ajuizado o pedido perante a Justiça Federal de 1º Grau em São Paulo, declarou o magistrado da 1ª Vara Federal de Bragança Paulista sua incompetência para processar e julgar o feito, tendo, por conseguinte, determinado a remessa dos autos a esta Suprema Corte, nos termos do art. 102, I, d, da Constituição Federal, e do art. 20, I, a, da Lei 9.507/97 (fls. 37, frente e verso, e 39).
+4. O habeas data, previsto no art. 5º, LXXII, da Constituição Federal, tem por específica finalidade garantir o conhecimento de informações pessoais presentes em registros ou bancos de dados de entidades governamentais ou de caráter público e ensejar sua retificação, ou possibilitar a anotação de explicações nos assentamentos do interessado (art. 7º, III, da Lei 9.507/97).
+A via estreita do habeas data visa, portanto, à proteção da privacidade do indivíduo contra abuso do Poder Público no registro de informações sobre a sua pessoa ou na revelação de dados pessoais falsos ou equivocados.
+No presente caso, o impetrante pretende valer-se desse relevante instrumento de garantia individual para reverter situação de alegado prejuízo a si causado por ato ou omissão do Poder Público na condução de concurso público para o provimento de determinados cargos.
+Entretanto, escapa completamente à finalidade constitucional do habeas data tanto a busca pela reparação de prejuízos injustamente sofridos por candidato inscrito em concurso público, como a pretensão pela restituição de prazo recursal previsto em edital de certames dessa natureza.
+5. Ante o exposto, sendo manifesta a inviabilidade do habeas data para o fim pretendido pelo impetrante, a ele nego seguimento (RISTF, art. 21, § 1º).
+Arquivem-se os autos.
+Publique-se.
+Brasília, 3 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
