@@ -1,0 +1,28 @@
+Despacho:
+Vistos.
+Carrefour Comércio e Indústria Ltda. e outro interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 155, § 2º, incisos I, II e XII, da Constituição Federal.
+Insurgem-se, no apelo extremo, contra acórdão da Terceira Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“Tributário. ICMS. Bens para consumo. Ativo permanente.
+1. As inovações trazidas pela LC n° 87/96 não têm qualquer caráter declaratório a permitir sua aplicação retroativa desde o advento da CF/88.
+2. Se era compatível com o sistema constitucional tributário excluir-se do creditamento determinadas mercadorias, não há razão para considerar-se infringente do princípio da não cumulatividade – reconhecidamente relativo e não absoluto – admitir o creditamento da totalidade dos valores de ICMS, de forma parcelada, nos moldes previstos no § 5°, do art. 20, da LC n° 87/96, com a redação dada pela LC n° 102/00.
+3. Inexistindo possibilidade de creditamento dos ICMS das mercadorias, que entraram no estabelecimento até a vigência da LC n° 87/96 para uso, consumo e ativo permanente, com idêntica razão não se mostra viável o creditamento do ICMS do frente das mesmas mercadorias, adotando-se a regra de que o acessório segue o principal.
+Recurso improvido” (fl. 124).
+Os agravantes reiteram as razões do extraordinário, alegando ferir o princípio da não cumulatividade o não reconhecimento do crédito de ICMS incidente sobre aquisição de bens ou serviços destinados ao uso e consumo e ao ativo fixo e, consequentemente, sobre a tomada de serviços de transporte destinado ao frete de tais bens, mesmo em período anterior à Lei Complementar n° 87/96 (fls. 158/159).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 23/3/06, conforme expresso na certidão de folha 152, não sendo exigível, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+Não merece prosperar a irresignação.
+Verifica-se que os recorrentes deixaram de instruir os presentes autos com cópia da procuração do advogado de todos os agravantes, peça obrigatória exigida pelo § 1° do artigo 544 do Código de Processo Civil, com a alteração da Lei n° 10.352, de 26/12/01. Incidência da Súmula nº 288/STF.
+Conforme entendimento desta Corte, é indispensável trazer aos autos todas as procurações dos litisconsortes. Nesse sentido, anote-se:
+“1. Encontra-se ilegível a procuração outorgada por uma das agravantes ao subscritor do agravo de instrumento, o que equivale à omissão no traslado quanto a essa peça. Aplicação das disposições previstas no § 1º do art. 544 do CPC e na Súmula STF nº 288. 2. Agravo regimental improvido”
+(AI n° 635.854/PR-AgR, Tribunal Pleno, Relatora a Ministra Ellen Gracie, DJe de 26/10/07).
+Ressalte-se que o Plenário desta Corte, na sessão de 8/10/08, ao julgar o RE nº 536.881/MG-AgR, Relator o Ministro Eros Grau, ratificou a orientação de ser incabível neste Supremo Tribunal Federal o suprimento de eventuais falhas ou realização de diligências com o objetivo de viabilizar o conhecimento de recurso interposto nas demais instâncias.
+Mesmo que assim não fosse, é pacífica a jurisprudência desta Corte no sentido de não reconhecer o direito de creditamento do valor do ICMS, quando pago em razão de operações de consumo de energia elétrica, de utilização de serviço de comunicação ou de aquisição de bens destinados ao uso e à integração, no ativo fixo, do próprio estabelecimento, no período anterior à vigência da Lei Complementar nº 87/96. Portanto, da mesma forma, não é possível o referido creditamento em face de tomada de serviço de frete relativo ao transporte desses bens vinculados ao uso e ao ativo fixo da empresa. Sobre o tema, anote-se:
+“IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS - PRINCÍPIO DA NÃO-CUMULATIVIDADE - CRÉDITO - BENS INTEGRADOS AO ATIVO FIXO - INEXISTÊNCIA DE ELO CONSIDERADA MERCADORIA PRODUZIDA - PERÍODO ANTERIOR À LEI COMPLEMENTAR Nº 87/96 - A aquisição de equipamentos que irão integrar o ativo fixo da empresa ou produtos destinados ao uso e consumo não gera o direito ao crédito, tendo em conta que a adquirente mostra-se, na realidade, como destinatária final” (RE nº 349.543/SP-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJ de 21/11/08).
+“AGRAVO REGIMENTAL. ICMS. BENS DESTINADOS AO CONSUMO OU AO ATIVO FIXO. AQUISIÇÃO ANTERIOR À LC 87/1996. CRÉDITO. IMPOSSIBILIDADE. A decisão agravada está em conformidade com o entendimento firmado por ambas as Turmas desta Corte, no sentido de se considerar indevida a compensação de créditos do ICMS oriundos da aquisição de bens destinados ao consumo ou ao ativo fixo, em período anterior à entrada em vigor da Lei Complementar 87/1996. Agravo regimental a que se nega provimento” (RE nº 295.887/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 16/2/07).
+“ICMS: creditamento. Firme o entendimento do Supremo Tribunal de não reconhecer o direito de creditamento do valor do ICMS, quando pago em razão de operações de consumo de energia elétrica, ou de utilização de serviço de comunicação ou, ainda, de aquisição de bens destinados ao uso e/ou à integração, no ativo fixo, do seu próprio estabelecimento. Precedentes” (AI nº 355.683/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 20/4/06).
+Não conheço do agravo de instrumento.
+Publique-se.
+Brasília, 3 de dezembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
