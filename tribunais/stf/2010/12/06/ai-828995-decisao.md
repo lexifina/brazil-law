@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 53):
+“PROGRAMA DE INCENTIVO À DEMISSÃO VOLUNTÁRIA. DEDUÇÃO OU COMPENSAÇÃO COM VERBAS RESCISÓRIAS. Consoante a Súmula n.º 18 do TST, a compensação, na Justiça do Trabalho, está restrita a dívidas de natureza trabalhista. No caso dos autos, a pretensão do reclamado diz respeito à compensação das verbas reconhecidas em juízo ao obreiro com as parcelas pagas em decorrência da adesão ao Programa de Incentivo à Demissão Voluntária. Inviável, no entanto, a compensação pretendida, uma vez que os valores pagos ao reclamante, visando a incentivá-lo a aderir ao referido programa, não ostentam natureza tipicamente trabalhista, porquanto dizem respeito a vantagem pecuniária cuja finalidade precípua é estimular o empregado a desligar-se da empresa. Hipótese de incidência da Orientação Jurisprudencial n.º 356 do Tribunal Superior do Trabalho. Agravo de instrumento a que se nega provimento.”
+Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, II, XXXV, XXXVI, LIV e LV, e 93, IX, da Constituição federal. Sustenta-se que o Tribunal a quo sonegou prestação jurisdicional e que é válida a cláusula do PDV que previa a compensação de valores em caso de eventual condenação judicial.
+É o relatório. Decido.
+Quanto à controvérsia sobre a admissibilidade de recurso da competência de outros tribunais, o Supremo Tribunal Federal, apreciando o RE 598.365-RG (rel. min. Ayres Britto, DJe de 26.03.2010), não reconheceu a repercussão geral do tema. É o que se observa na ementa:
+“PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+Ademais, as questões suscitadas no recurso extraordinário referente ao tema PDV demandam o exame prévio das cláusulas do acordo coletivo e da legislação infraconstitucional, de modo que se trata de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide o óbice das Súmulas 279, 454 e, mutatis mutandis, 636 desta Corte.
+Por outro lado, não procede a alegação de afronta aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 06 de dezembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
