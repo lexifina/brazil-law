@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. SISTEMA BACEN JUD. PENHORA ON LINE. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“EXECUÇÃO FISCAL. ACESSO AO SISTEMA BACEN JUD. QUEBRA DE SIGILO BANCÁRIO. LOCALIZAÇÃO DE BENS PARA PENHORA. DEFESA DA MEAÇÃO DO CÔNJUGE.
+Existindo comprovação por parte do exequente de esgotamento das diligências em busca de bens penhoráveis em nome da executada, mostra-se razoável conceder-lhe, por meio do sistema BACEN JUD, o acesso às informações acerca das contas bancárias, que poderão servir de garantia ao processo executivo.
+A meação do cônjuge deve ser resguardada da penhora dos valores constritados, salvo se comprovado eplo credor que a dívida fiscal contraída tenha revertido em benefício da família do sócio executado” (fl. 147).
+Os embargos de declaração opostos foram julgados nos seguintes termos:
+“EMBARGOS DE DECLARAÇÃO. CABIMENTO. PREQUESTIONAMENTO.
+São pré-requisitos autorizadores dos embargos de declaração a omissão, contradição ou obscuridade na decisão embargada. Não cabem embargos declaratórios para reexame da matéria sobre a qual houve pronunciamento do órgão julgador. Prequestionam-se artigos de lei na intenção de evitar não sejam conhecidos eventuais recursos a serem manejados nas instâncias superiores” (fl. 158).
+3. No recurso extraordinário, os Agravantes alegam que o Tribunal a quo teria contrariado os arts. 5º, inc. X, XII, XXXV e LIV, e 93, inc. IX, da Constituição da República.
+Argumentam que, “de acordo com a jurisprudência amplamente majoritária, cabe ao exequente, ao requerer a penhora de contas bancárias, comprovar que as quantias lá existentes são disponíveis e penhoráveis. No entanto, esta regra acaba sendo desprezada quando, como no caso dos autos, a penhora é formalizada mediante simples solicitação de bloqueio formulada ao BACEN, sem que antes o exequente tenha que comprovar a disponibilidade e penhorabilidade dos recursos” (fl. 214).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de contrariedade direta à Constituição (fls. 370-370v).
+Os Agravantes afirmam que a ofensa constitucional seria direta.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste aos Agravantes.
+6. Para se concluir de modo diverso do acórdão recorrido, seria imprescindível a análise de normas infraconstitucionais (Lei n. 6.830/80), o que é vedado em recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. BLOQUEIO DE ATIVOS FINANCEIROS. PENHORA ON LINE. SISTEMA BACEN JUD. ALEGADA QUEBRA DE SIGILO BANCÁRIO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – O acórdão recorrido decidiu a questão com base na legislação infraconstitucional. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. III - Não há contrariedade ao art. 93, IX, da Magna Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. O mencionado dispositivo constitucional não impõe seja a decisão exaustivamente fundamentada, mas sim o que se busca é que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. IV - Agravo regimental improvido” (AI 807.715-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 24.11.2010).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. NOMEAÇÃO DE BEM À PENHORA. LEI N. 6.830/80. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. FUNDAMENTAÇÃO DEFICIENTE: RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA TRATADA NO JULGADO RECORRIDO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 782.702-AgR, de minha relatoria, Primeira Turma, DJe 23.9.2010).
+“PROCESSUAL CIVIL. PENHORA "ON LINE". PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA: AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS STF 282 E 356. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL: OFENSA REFLEXA. PRECEDENTES. 1. Ausência de prequestionamento do artigo 1º, III, da Constituição Federal, porque não discutido no acórdão recorrido e, embora suscitado na petição dos embargos de declaração a ele opostos, não foi apontado oportunamente no recurso interposto contra a sentença. (Súmulas STF 282 e 356). 2. Alegação de ofensa ao postulado do devido processo legal configura, quando muito, ofensa meramente reflexa às normas constitucionais. Precedentes. 3. Agravo regimental improvido” (AI 789.312-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 22.10.2010).
+7. Ademais, a alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão dos Agravantes, o acórdão recorrido apresentou suficiente fundamentação.
+Conforme a jurisprudência do Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+8. Nada há, pois, a prover quanto às alegações dos Agravantes.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 6 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
