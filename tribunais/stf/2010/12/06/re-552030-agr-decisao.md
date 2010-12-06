@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo regimental contra decisão monocrática que negou seguimento a recurso extraordinário, sob o fundamento de que para entender de forma diversa do decidido no acórdão a quo faz-se imprescindível a revisão de fatos e provas.
+No agravo regimental, sustenta-se, em síntese, que “a matéria é puramente jurídico-interpretativa.” (fl. 382)
+Decido.
+Assiste razão ao agravante, assim reconsidero a decisão agravada e passo julgar o recurso extraordinário.
+Inicialmente, registre-se que o acórdão recorrido encontra-se devidamente fundamentado, sendo pacífico o entendimento desta Corte no sentido de que, se a decisão estiver apropriadamente fundamentada, ainda que não tenha enfrentado especificamente todos os argumentos trazidos pelos recorrentes.
+Saliente-se, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, ementada nos seguintes termos:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (grifei)(AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Pleno, DJe 13.8.2010 ).
+Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses dos agravantes. Portanto, não prospera a alegação de nulidade do acórdão por ausência de fundamentação.
+Quanto ao mérito, ressalta-se que é pacífica a jurisprudência desta Corte no sentido de que a discussão acerca da cumulação da Gratificação de Atividade Policial com a Gratificação de Habilitação demandam análise de legislação infraconstitucional (Leis Estaduais 7.145/97 e 3.803/80), bem como o reajuste da referida gratificação, providência vedada em sede de recurso extraordinário, conforme disposto na Súmula 280 do STF.
+Nesse sentido, confira-se:
+“ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL E GRATIFICAÇÃO DE HABILITAÇÃO. INTERPRETAÇÃO DAS LEIS ESTADUAIS 7.145/97 E 3.803/80. SÚMULA STF 280. 1. O Tribunal a quo, interpretando legislação estadual que trata da matéria, entendeu ser devida a Gratificação de Atividade Policial - GAP e a Gratificação de Habilitação. 2. Para se concluir, como pretende a parte agravante, necessário seria o reexame de legislação local, o que é defeso nesta via extraordinária (Súmula STF 280). Precedentes. 3. Agravo regimental improvido.”(AI-AgR 719069, Segunda Turma, Rel. Min. Ellen Gracie, DJe 25.9.09)
+Cito, ainda, os seguintes julgados: AI-AgR 744.086, Segunda Turma, Rel. Min. Ellen Gracie, DJe 18.9.09, AI-AgR 732.469, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe 13.3.09, AI-AgR 724.583, Primeira Turma, Rel. Min. Cármen Lúcia, DJe 6.2.09, AI-AgR 618.737, Primeira Turma, Rel. Min. Carlos Britto, DJe 5.12.08.
+Por se tratar de controvérsia análoga, cito, também, as seguintes decisões monocráticas: AI 789.910, Rel. Min. Cármen Lúcia, DJe 11.6.2010 e AI 764.235, Rel. Min. Dias Toffoli, DJe 27.11.2009.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º RISTF, e 557 do CPC).
+Publique-se.
+Brasília, 6 de dezembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
