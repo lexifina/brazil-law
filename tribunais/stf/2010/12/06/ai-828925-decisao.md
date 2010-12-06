@@ -1,0 +1,24 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado da Bahia o qual reconheceu o direito dos postulantes à incorporação da Gratificação de Habilitação Policial Militar e à reincorporação da Gratificação de Comando, além de desacolher os pleitos relativos à reimplantação da Gratificação de Função Policial e FEASPOL.
+No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXV, XXXVI, 37, XIV, XV e 93, IX, da Constituição Federal.
+O acórdão recorrido assentou que a Gratificação de Habilitação Policial Militar (GHPM) deriva de situação individual e independente do serviço prestado ou atividade exercida pelo servidor, sendo, portanto, devida sua incorporação. Seu fundamento legal diverge da Gratificação de Atividade Policial (GAP), instituída pela Lei n. 7.145/97, descaracterizando cumulação de vantagens iguais.
+A Gratificação de Comando, por sua vez, já incorporada aos proventos, foi suprimida injustificadamente, havendo violação aos princípios do direito adquirido e da irredutibilidade de vencimentos.
+A Gratificação de Função Policial e FEASPOL, substituídas pela GAP, são de natureza pro labore faciendo, logo podem ser retiradas do servidor se não mais perdurar o serviço correspondente.
+O recorrente sustenta que a GAP, instituída pela Lei Estadual n. 7.145/97, absorveu as hipóteses de incidência da extinta Gratificação de Habilitação Policial Militar (GHPM), cujo fato gerador estava definido no art. 21 da Lei Estadual n. 3.803/80.
+Ademais, a GHPM, de acordo com Lei n. 4.454/85, só poderia ser incorporada com a passagem para a inatividade dos policiais militares. Até a passagem para a inatividade, os Recorridos, policiais da ativa teriam, apenas, expectativa de direito de incorporar a vantagem. Como foi ela extinta antes desse fato condicionante, não adquiriram eles direito à referida vantagem.
+Decido.
+Não assiste razão ao agravante.
+Inicialmente, registre-se que é pacífico o entendimento desta Corte no sentido de que se o acórdão recorrido encontra-se devidamente fundamentado, ainda que não tenha enfrentado especificamente todos os argumentos trazidos pelos recorrentes, não há que se falar em violação aos arts. 5º, XXXV, 93, IX, da Constituição Federal.
+Saliente-se, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, nos seguintes termos:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (grifei)
+(AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Pleno, DJe 13.8.2010 )
+Ultrapassada essa questão, é pacífica a jurisprudência desta Corte no sentido de que a discussão acerca da Gratificação de Atividade Policial e Gratificação de Habilitação demandam análise de legislação infraconstitucional (Leis Estaduais 7.145/97 e 3.803/80), providência vedada em sede de recurso extraordinário, conforme disposto na Súmula 280 do STF.
+Nesse sentido, confira-se:
+“ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL E GRATIFICAÇÃO DE HABILITAÇÃO. INTERPRETAÇÃO DAS LEIS ESTADUAIS 7.145/97 E 3.803/80. SÚMULA STF 280. 1. O Tribunal a quo, interpretando legislação estadual que trata da matéria, entendeu ser devida a Gratificação de Atividade Policial - GAP e a Gratificação de Habilitação. 2. Para se concluir, como pretende a parte agravante, necessário seria o reexame de legislação local, o que é defeso nesta via extraordinária (Súmula STF 280). Precedentes. 3. Agravo regimental improvido.”
+(AI-AgR 719069, Segunda Turma, Rel. Min. Ellen Gracie, DJe 25.9.09)
+Cito, ainda, os seguintes julgados: AI-AgR 744.086, Segunda Turma, Rel. Min. Ellen Gracie, DJe 18.9.09, AI-AgR 732.469, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe 13.3.09, AI-AgR 724.583, Primeira Turma, Rel. Min. Cármen Lúcia, DJe 6.2.09, AI-AgR 618.737, Primeira Turma, Rel. Min. Carlos Britto, DJe 5.12.08.
+Ante o exposto, nego seguimento ao agravo de instrumento (arts. 21, §1º RISTF, e 557 do CPC).
+Publique-se.
+Brasília, 6 de dezembro de 2010.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
