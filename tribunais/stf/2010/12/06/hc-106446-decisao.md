@@ -1,0 +1,39 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL E PROCESSUAL PENAL. ORDEM CONCEDIDA EM RAZÃO DE EXCESSO DE PRAZO. POSTERIOR DECRETO DE PRISÃO PREVENTIVA NA SENTENÇA CONDENATÓRIA. POSSIBILIDADE. PRECEDENTES. LIMINAR INDEFERIDA.
+Relatório
+1. Habeas corpus, com pedido liminar, impetrado por Marco Antônio Arantes de Paiva, advogado, em favor de Viviane dos Santos Pereira, contra decisão da Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem pleiteada no habeas corpus nº 156.994.
+2. Segundo o Impetrante, a Paciente estava presa, aguardando o desfecho da ação penal em que lhe eram atribuídos crimes de formação de quadrilha armada, receptação e porte ilegal de arma de uso restrito.
+3. O Superior Tribunal de Justiça, no habeas corpus nº 112.262/SP, após identificar excesso de prazo na prolação da sentença (os autos permaneceram conclusos durante mais de dez meses), concedeu a ordem, determinando a expedição de alvará de soltura.
+4. Posteriormente, sobreveio a sentença no primeiro grau, condenando a Paciente a 20 (vinte) anos de reclusão e 40 (quarenta) dias-multa.
+Segundo o Impetrante, a Juíza sentenciante negou à Paciente o direito de recorrer em liberdade, utilizando-se dos mesmos argumentos que inspiraram o decreto de prisão preventiva.
+Impetrou-se novo habeas corpus no Superior Tribunal de Justiça, mas se denegou a ordem, nos termos seguintes:
+“ HABEAS CORPUS. QUADRILHA ARMADA. RECEPTAÇÃO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. SOLTURA POR EXCESSO DE PRAZO. SUPERVENIENTE CONDENAÇÃO. VEDAÇÃO DO APELO EM LIBERDADE. MOTIVAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE DO AGENTE. CUSTÓDIA MANTIDA A BEM DA ORDEM PÚBLICA. CONSTRANGIMENTO NÃO VERIFICADO.
+1. A paciente, presa preventivamente pela suposta prática dos crimes de quadrilha armada, receptação e porte de arma de uso restrito, porquanto integraria facção criminosa altamente estruturada e organizada, munida dos mais avançados aparatos bélicos e tecnológicos, voltada à prática delitiva de distintas espécies, em vasto território nacional, teve sua liberdade concedida em razão do excesso de prazo na formação da culpa.
+2. Sobrevindo, no entanto a sentença condenatória, o juízo singular vislumbrou a presença dos pressupostos e requisitos do art. 312 do Código de Processo Penal, negando-se-lhe o direito de apelar em liberdade e determinando a expedição do competente mandado de prisão, como forma de se acautelar a ordem pública, sobretudo em razão da periculosidade dos agentes e do concreto receio de que, soltos, retomem o comando das empreitadas ilícitas -, preenchendo assim hipótese que justifica a imposição da medida (Precedentes).
+3. Não se pode falar em constrangimento ilegal decorrente da constrição processual da ré, mesmo antes do trânsito em julgado da condenação, quando se mostra indispensável ao acautelamento do meio social, que se viu abalado com a prática delitiva por ela cometida.
+4. Ordem denegada. ”
+5. Para o Impetrante, inexiste “motivação válida a sustentar a manutenção do v. acórdão”, revelando-se “lamentável a argumentação genérica de que as visitas dos presos servem à comunicação dele com o mundo exterior”.
+Sustentou que as visitas realizadas pela Paciente ao companheiro em unidade prisional não a tornam suspeita, nem tampouco culpada, especialmente quando “nenhum fato nesse sentido lhe fora atribuído dentro dos autos antes, ou após sua soltura.”
+Assinalou que “o decreto prisional vem alijado da demonstração do comportamento da Paciente frente aos fatos que se quer prevenir, levando-a 'de roldão' com uma organização criminosa à qual não aderiu, mas simplesmente é amásia de um dos acusados. O decreto prisional é a mais alta e repugnante aplicação da teoria objetiva material, procurando lançar o tipo penal à Paciente, pelo simples fato de ser 'companheira' de um dos acusados”.
+Ao final, destacou que a decisão do Superior Tribunal de Justiça teria violado o princípio constitucional da presunção de não culpabilidade (art. 5º, inc. LVII), contrariando precedente deste Supremo Tribunal.
+5. Requereu, ao final, liminar, “determinando a sustação do decreto de prisão expedido contra a Paciente”, e, no mérito, a concessão da ordem, impedindo a sua prisão até o trânsito em julgado da sentença condenatória.
+Examinada a matéria nos seus aspectos essenciais, DECIDO.
+6. Os elementos trazidos pelo Impetrante não autorizam o deferimento da liminar.
+Ao conceder a ordem no habeas corpus nº 112.262/SP, o Superior Tribunal de Justiça pautou-se, exclusivamente, no atraso injustificado do processo.
+Entretanto, no habeas corpus nº 156.994-SP, outras razões inspiraram a denegação da ordem.
+Especificamente, neste último habeas, destacou o Superior Tribunal de Justiça que o intenso envolvimento da Paciente com o crime organizado justificava a sua prisão preventiva, bem como a dos demais corréus, preservando-se a ordem pública.
+Trata-se, insista-se, de novo título que não se vincula à ordem antes concedida.
+Em casos análogos, ambos de minha relatoria, habeas corpus nº 99.791/RO e habeas corpus nº 98702/SP, o Supremo Tribunal firmou entendimento no sentido de que:
+ “HABEAS CORPUS. PENAL. INDEFERIDA NO  SUPERIOR DE JUSTIÇA. JULGAMENTO DEFINITIVO DO  HABEAS IMPETRADO NO SUPERIOR TRIBUNAL DE  JUSTIÇA: PREJUÍZO DO PRESENTE HABEAS CORPUS.  SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA.  PRISÃO MANTIDA POR NOVO FUNDAMENTO.  NOVO TÍTULO PRISIONAL. ALEGAÇÃO DE EXCESSO  DE PRAZO. ADVENTO DA SENTENÇA DE PRONÚNCIA.  ORDEM DENEGADA. 1. A jurisprudência do Supremo  Tribunal Federal não admite o conhecimento de habeas corpus,  por entender incabível o exame de fundamentos ainda não  apreciados definitivamente pelo órgão judiciário apontado como  coator, mormente quando o objeto foi prejudicado pelo  julgamento definitivo do habeas corpus impetrado no Superior  Tribunal de Justiça. 2. Superveniência de decisão em habeas  corpus no Superior Tribunal de Justiça. 3. Ademais, a  superveniência de sentença de pronúncia com novo  fundamento para a manutenção da prisão cautelar  constitui novo título prisional, portanto, diverso da  prisão preventiva. 4. A alegação de excesso de prazo da  instrução criminal fica superada pelo advento da sentença  de pronúncia. 5. Habeas corpus denegado.” (grifos nossos)
+e
+“ PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO. SUPERVENIÊNCIA DA SENTENÇA CONDENATÓRIA, QUE CONSTITUI NOVO TÍTULO DA PRISÃO. FUNDAMENTAÇÃO CAUTELAR IDÔNEA PARA A MANUTENÇÃO DA PRISÃO PREVENTIVA. HABEAS CORPUS PREJUDICADO. 1. A superveniência da sentença condenatória, que constitui novo título da prisão, prejudica a alegação de excesso de prazo da prisão preventiva. 2. Necessidade da custódia cautelar evidenciada pela periculosidade do Paciente e pelo uso de identidade falsa no momento da abordagem policial. Fundamentos idôneos e suficientes para a manutenção da prisão preventiva. 3. Habeas corpus prejudicado. (grifos nossos)
+No mesmo sentido habeas corpus nº 103.881/MG, Relator Ministro Dias Toffoli, j. 30.08.2010.
+É de se destacar, portanto, que a sentença condenatória conferiu consistência à prisão cautelar ao estabelecer o envolvimento da Paciente com delitos graves, tornando crível, em tese, a afirmação de que, solta, continuaria a praticá-los.
+Não será a revogação da prisão preventiva, por excesso de prazo, empecilho a sua decretação por outras razões.
+Por último, deve ser anotado que o Supremo Tribunal vem decidindo, reiteradamente, que as condições subjetivas favoráveis da Paciente não constituem óbice ao decreto de prisão preventiva (Habeas corpus nº 98.901/PI).
+7. Assim, ausentes os elementos de plausibilidade jurídica dos argumentos expostos na inicial, indefiro a liminar.
+8. Devidamente instruído, vista ao Procurador-Geral da República.
+Publique-se.
+Brasília, 6 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
