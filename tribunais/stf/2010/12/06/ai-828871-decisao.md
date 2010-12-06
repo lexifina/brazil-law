@@ -1,0 +1,11 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado (fls. 211):
+“ADMINISTRATIVO. SERVIDORES DO DER/MG. REAJUSTE DE 10% EM SEUS VENCIMENTOS. DECRETO ESTADUAL N° 36.829/95. VERBA DEVIDA. PRESCRIÇÃO DO FUNDO DO DIREITO. NÃO OCORRÊNCIA. Os servidores ocupantes do cargo efetivo ou função pública em Autarquia Estadual, cujo quadro especial encontra-se no âmbito do Decreto n° 36.033/94, estão abarcados pela previsão do reajuste de 10% previsto no Decreto n° 36.829/95. Não há prescrição do 'fundo de direito' se não foi indeferida, expressamente, pela Administração, a pretensão ou o direito reclamado, caso em que prescrevem somente as prestações anteriores ao quinqüênio que precede à citação para ação.“
+2. Pois bem, a parte recorrente alega contrariedade ao art. 2º, ao inciso II do art. 5°, ao caput e incisos X e XIII do art. 37, e ao § 1° do art. 61, todos da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. É que, para chegar a conclusão diversa da adotada pela Instância Judiante de origem, se faz necessário o reexame da legislação local aplicada. Providência vedada neste momento processual. No mesmo sentido, vejam-se os AIs 500.071, da relatoria do ministro Joaquim Barbosa; 654.946, da relatoria do ministro Menezes Direito; 728.808-AgR, da relatoria do ministro Eros Grau; 730.248, da relatoria do ministro Marco Aurélio; 733.317, da relatoria do ministro Ricardo Lewandowski; e 747.271, da relatoria da ministra Cármen Lúcia.
+4. De mais a mais, no tocante à suposta ofensa ao mencionado art. 2º, é firme nesta nossa Corte o entendimento de que “o regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo repeito à Constituição, não transgride o princípio da separação de poderes” (MS 23.452, da relatoria do ministro Celso de Mello).
+Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 06 de dezembro de 2010.
+Ministro AYRES BRITTO
+Relator
