@@ -1,0 +1,11 @@
+D ECIS Ã O: vistos, etc.
+Trata-se de reclamação constitucional, aparelhada com pedido de medida liminar, proposta por Adílio Ferreira contra ato do Juízo de Direito da 2ª Vara Criminal da Comarca de Balneário Camboriú/SC.
+2. Argui o autor que “foi denunciado, juntamente com outros dois acusados, por alegada infração ao disposto no artigo 157, § 3º, do Código Penal”. Afirma que, em 19 de novembro de 2010, “a defesa do reclamante requereu em audiência o acesso ao nome da testemunha arrolada na denúncia como Testemunha 02/2010, protegida pelo provimento n. 14/03/TJSC”. Pedido que foi indeferido pelo reclamado.
+3. Alega o reclamante violação à Súmula Vinculante nº 14 deste Supremo Tribunal Federal (“É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa”). É que a negativa de acesso à identificação da testemunha compromete o exercício do contraditório e da ampla defesa. Ademais, o Provimento nº 14/03, do TJ/SC, seria inconstitucional. Daí requerer a procedência da reclamação “para garantir à defesa o acesso à identidade da testemunha 02 arrolada na denúncia”.
+4. Feito esse aligeirado relato da causa, passo à decisão. Fazendo-o, pontuo, de saída, não merecer seguimento a presente reclamação. É que o autor sequer juntou aos autos cópia do ato reclamado, qual seja, a decisão do Juízo de Direito da 2ª Vara Criminal da Comarca de Balneário Camboriú/SC que indeferiu o pedido de acesso ao nome da testemunha. Ademais, mesmo que essa providência de natureza formal fosse atendida, não prosperaria esta ação reclamatória. Isso porque não se configura violação à Súmula Vinculante nº 14 deste STF a negativa de acesso à identidade de pessoa incluída em programa de proteção à testemunha. O que importa, para o exercício do contraditório e da ampla defesa, no caso, é a participação do advogado do acusado na inquirição da testemunha e o conhecimento de suas declarações. A propósito, confiram-se os seguintes arestos desta nossa Corte:
+5. Ante o exposto, nego seguimento à reclamação, o que faço com fundamento no § 1º do art. 21 do RI/STF.
+Publique-se.
+Brasília, 07 de dezembro de 2010.
+Ministro A YRES B RITTO
+Relator
+Documento assinado digitalmente
