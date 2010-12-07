@@ -1,0 +1,24 @@
+DECISÃO: Registro, inicialmente, por necessário, que os presentes autos só ingressaram, fisicamente, em meu Gabinete, na data de 07/12/2010 (fls. 1.849).
+Trata-se de recurso ordinário interposto contra acórdão, que, confirmado, em sede de embargos de declaração (fls. 1.330/1.338), pelo E. Superior Tribunal de Justiça, possui a seguinte ementa (fls. 1.311):
+“ADMINISTRATIVO. MANDADO DE SEGURANÇA. LICITAÇÃO. FRAUDE CONFIGURADA. APLICAÇÃO DA PENA DE INIDONEIDADE PARA CONTRATAR COM A ADMINISTRAÇÃO PÚBLICA FEDERAL. ATO DA CONTROLADORIA GERAL DA UNIÃO. COMPETÊNCIA DO MINISTRO DE ESTADO DO CONTROLE E DA TRANSPARÊNCIA. ALEGAÇÕES DE NULIDADES NO PROCESSO ADMINISTRATIVO QUE CULMINOU NA APLICAÇÃO DA PENALIDADE AFASTADA. PROCEDIMENTO REGULAR.
+1. Hipótese em que se pretende a concessão da segurança para que se reconheça a ocorrência de nulidades no processo administrativo disciplinar que culminou na aplicação da pena de inidoneidade para contratar com a Administração Pública Federal.
+2. O Ministro de Estado do Controle e da Transparência é autoridade responsável para determinar a instauração do feito disciplinar em epígrafe, em razão do disposto no art. 84, inciso VI, alínea ‘a’, da Constituição da República combinado com os artigos 18, § 4º, da Lei n. 10.683/2003 e 2º, inciso I, e 4º, § 3º, do Decreto n. 5.480/2005.
+3. A regularidade do processo administrativo disciplinar deve ser apreciada pelo Poder Judiciário sob o enfoque dos princípios da ampla defesa, do devido processo legal e do contraditório, sendo-lhe vedado incursionar no chamado mérito administrativo.
+4. Nesse contexto, denota-se que o procedimento administrativo disciplinar não padece de nenhuma vicissitude, pois, embora não exatamente da forma como desejava, foi assegurado à impetrante o direito ao exercício da ampla defesa e do contraditório, bem como observado o devido processo legal, sendo que a a aplicação da pena foi tomada com fundamento em uma série de provas trazidas aos autos, inclusive nas defesas apresentadas pelas partes, as quais, no entender da autoridade administrativa, demonstraram suficientemente que a empresa impetrante utilizou-se de artifícios ilícitos no curso do Pregão Eletrônico n. 18, de 2006, do Ministério dos Transportes, tendo mantido tratativas com a empresa Brasília Soluções Inteligentes Ltda. com o objetivo de fraudar a licitude do certame.
+5. Pelo confronto das provas trazidas aos autos, não se constata a inobservância dos aspectos relacionados à regularidade formal do processo disciplinar, que atendeu aos ditames legais.
+6. Segurança denegada.”
+(MS 14.134/DF, Rel. Min. BENEDITO GONÇALVES - grifei)
+O exame do pleito cautelar ora formulado, analisado na perspectiva de um juízo de sumária cognição, não me autoriza deferir o “pedido de liminar incidental” deduzido a fls. 1.699/1.707.
+É importante rememorar, neste ponto, que o deferimento da medida liminar, resultante do concreto exercício do poder cautelar geral outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos pressupostos referidos no art. 7º, III, da Lei nº 12.016/2009: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+Sem que concorram esses dois requisitos - que são necessários, essenciais e cumulativos -, não se legitima a concessão da medida liminar, consoante enfatiza a jurisprudência do Supremo Tribunal Federal:
+“Mandado de segurança. Liminar. Embora esta medida tenha caráter cautelar, os motivos para a sua concessão estão especificados no art. 7º, II da Lei nº 1.533/51, a saber: a) relevância do fundamento da impetração; b) que do ato impugnado possa resultar a ineficácia da medida, caso seja deferida a segurança.
+Não concorrendo estes dois requisitos, deve ser denegada a liminar.”
+(RTJ 112/140, Rel. Min. ALFREDO BUZAID - grifei)
+Vê-se, portanto, que não basta, para efeito de outorga de provimento cautelar em sede mandamental, a mera invocação de situação configuradora de “periculum in mora”.
+É também necessário que concorra, por igual, o requisito concernente ao “fumus boni juris”, que se acha descaracterizado, no entanto, na espécie, quer pelo julgamento denegatório do mandado de segurança proferido pelo E. Superior Tribunal de Justiça, quer pelos fundamentos expostos na decisão emanada da Presidência desta Suprema Corte, da lavra do eminente Ministro AYRES BRITTO, que indeferiu pleito cautelar apoiado nas razões ora renovadas pela parte recorrente.
+Sendo assim, indefiro a pretendida reapreciação “do pedido de liminar incidental” deduzido pela parte ora recorrente a fls. 1.699/1.707.
+2. Anote-se, na autuação, o nome do Advogado, Dr. Maikel Elias Mouchaileh, que subscreveu o pleito em questão, mantida, no entanto, a referência aos demais Advogados da ora recorrente.
+Publique-se.
+Brasília, 07 de dezembro de 2010 (23:55h).
+Ministro CELSO DE MELLO
+Relator
