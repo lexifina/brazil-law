@@ -1,0 +1,40 @@
+Despacho:
+Vistos.
+CHIMATUR Transportes Coletivos Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 59, e 150, incisos I e II, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Vigésima Segunda Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+“TRIBUTARIO. ICMS. SERVICO PÚBLICO DE TRANSPORTE RODOVIARIO INTERMUNICIPAL DE PASSAGEIROS. ALIQUOTA. TRANSPORTE DE PESSOAS EM CARÁTER PRIVADO. DISTINÇÃO. NÃO APLICAÇÃO DA ALÍQUOTA MENOR.
+1. Designa-se serviço de transporte de passageiros o serviço público da competência dos Estados que pode ser prestada, por delegação, pelo particular. A expressão ‘transporte de pessoas’ está reservada ao serviço de transporte prestado em caráter privado com base na livre iniciativa. Art-21, XII, letra ‘e’, da CF e art. 2º da Lei nº 9047/95.
+2. Ao serviço intermunicipal de transporte de pessoas em caráter privado não se aplica a alíquota reduzida do ICMS relativo ao serviço público de transporte de passageiros, que visa a diminuir o valor da tarifa a ser paga pelos usuários do serviço público. Precedente do STJ.
+Recurso desprovido” (fl. 292).
+Alega o agravante ser inconstitucional a distinção entre transporte de passageiros e transporte de pessoas, efetuada por meio de Decreto, para fins de redução de alíquota relativa ao Imposto Sobre Circulação de Mercadorias e Prestação de Serviços - ICMS.
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 30/3/06, como expresso na certidão de folha 318, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Colhe-se parte da fundamentação do acórdão recorrido:
+“Na forma do art. 12, inciso II, item 26, da Lei n° 8.820/1990, a alíquota do ICMS nas operações intermunicipais de transporte de passageiros, de cargas e escolares é de 12% (redação conferida pela Lei n° 11.920, de 23 de dezembro de 1998). Alegando ser incabível a distinção entre serviço de transporte de passageiros e serviço de transporte de pessoas, a Embargante quer ver reconhecido o direito de recolher o ICMS relativo ao serviço de transporte intermunicipal de pessoas com base na referida alíquota. Sem razão. Efetivamente, o serviço de transporte de passageiros não se confunde com o serviço de transporte de pessoas. O primeiro designa o serviço público de transporte coletivo da competência do Poder Público, enquanto o segundo o serviço de transporte em caráter privado prestado em regime de livre concorrência.
+Tal distinção, aliás, advém da Constituição da República, que, no artigo 21, inciso XII, outorga à União competência para prestar o serviço público de transporte rodoviário interestadual e internacional de passageiros, que apenas pode ser prestado pelo particular em razão de delegação por meio do contrato de concessão ou de permissão. Já o serviço de transporte em caráter privado constitui-se em atividade sujeita à livre iniciativa. Tanto que a Lei nacional n° 9.074, de 07 de julho de 1995, que regulamentou o artigo 175 da Constituição Federal, dispensa a outorga de concessão ou permissão para o transporte rodoviário de pessoas, que é aquele realizado por operadoras de turismo e em caráter privativo de organizações públicas ou privadas (art. 2°, § 3°), vez que, neste caso, não se cuida de serviço público. Diante disto, é inequívoco que o serviço de transporte de passageiros a que alude a Lei n° 8.820/90, que instituiu o ICMS, diz respeito apenas ao serviço público de transporte coletivo. Não alcança, portanto, o serviço de transporte sujeito à iniciativa privada que independe de delegação do Poder Público. Nesse sentido, os precedentes deste Tribunal:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. AÇÃO DECLARATÓRIA C/C REPETIÇÃO DE INDÉBITO. ICMS. TRANSPORTE DE PESSOAS E DE PASSAGEIROS. DISTINÇÃO. SELETIVIDADE.
+A discussão em torno do art. 166 do CTN não inviabiliza o pedido. Preliminar de impossibilidade jurídica rejeitada.
+Há diferença entre o transporte de passageiros e de pessoas. O primeiro é efetuado mediante contrato de adesão entre a empresa, prestadora de serviço público mediante concessão, e o usuário, cujos itinerários, horários e preços são previamente estabelecidos. Já no segundo o serviço é de caráter particular e o contrato é consensual.
+Distinção observada, ainda, na legislação federal e nas obrigações acessórias.
+Assim, o transporte de passageiros se sujeita à alíquota de 12% (art. 12, II, ‘d’, 26 da Lei Estadual 8820/89), enquanto o de pessoas submete-se à regra geral (art. 12, II, ‘h’ da mesma lei) que prevê alíquota de 17%.
+Negado provimento ao apelo por maioria. Voto vencido.
+(Apelação Cível nº 70010046522, Primeira Câmara Cível, Relator Des. Carlos Roberto Lofego Canibal, Julgado em 13/04/2005).
+..............................................................................................
+A este propósito, também já decidiu a primeira Turma do Superior Tribunal de Justiça no julgamento do RESP 294245/RS, Rel. Ministro Francisco Falcão, DJ de 15.12.2003, p. 183, confirmou julgado da Segunda Câmara Cível deste Tribunal, na Apelação Cível nº 597083880, Rel. Des. Augusto Otávio Sterm, assim ementado:
+TRIBUTÁRIO. ICMS. TRANSPORTE DE PASSAGEIROS E DE PESSOAS. DISTINÇÃO. ALÍQUOTA. LEI N° 8.820/89, ART. 24.
+I - O transporte de passageiros, por ser um serviço de utilidade pública, efetuado por concessionária de serviço público, realizado perante condições unilateralmente impostas pela autoridade concedente, tem um tratamento diferenciado em relação ao serviço de transporte de pessoas, um serviço particular, realizado a partir da manifestação de vontade de ambas as partes . Daí porque, embora a Lei n° 8.820/89 não faça menção a transporte de pessoas, não se pode com isso igualá-lo ao transporte de passageiros, voltado para a comunidade em geral. Portanto, não é ilegal a exigência ao pagamento do imposto a este tipo de serviço dirigido à alíquota de 17% do ICMS.
+II - Recurso especial desprovido.
+(REsp 294245 / RS, 1[ Turma, Rel. Ministro Francisco Falcão, publicado no DJ em 15.12.2003, p. 183)
+Portanto, correta a cobrança de ICMS à alíquota de 17% sobre o valor do serviço de transporte de pessoas, não há falar em repetição de indébito.
+Ante o exposto, nega-se provimento ao apelo” (fls. 294 a 296).
+Observa-se que o acórdão atacado decidiu a controvérsia sobre a diferenciação entre transporte de passageiros e transporte de pessoas para fins de redução da alíquota do ICMS com base na legislação infraconstitucional pertinente ao caso (Lei n° 8.820/89). Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, o seguinte julgado:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. INCIDÊNCIA DE IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS SOBRE SERVIÇO DE TRANSPORTE INTERMUNICIPAL E INTERESTADUAL DE TURISTAS. 1. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL: INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL (SÚMULA 280). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n° 706.368/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, Dje de 30/4/10).
+Ressalte-se, ainda, ser vedado ao Poder Judiciário atuar como legislador positivo a fim de promover a isonomia, para fins de redução da alíquota do ICMS, entre os serviços de transporte de passageiros e de transporte de pessoas, serviços estes diferenciados pelo Decreto n° 37.699/97.
+No mesmo sentido, a seguinte decisão monocrática: RE n° 470.930/RS, Relatora a Ministra Cármen Lúcia, DJe de 13/5/09.
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 7 de dezembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
