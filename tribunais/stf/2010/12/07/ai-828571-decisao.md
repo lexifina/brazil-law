@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSUMIDOR. CARTÃO DE CRÉDITO. PRESTAÇÃO DE CONTAS. IMPOSSIBILIDADE DE REEXAME DE FATOS, PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXV E LIV, DA CONSTITUIÇÃO: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“APELAÇÃO CÍVEL. AÇÃO DE PRESTAÇÃO DE CONTAS. CARTÃO DE CRÉDITO. SENTENÇA DE IMPROCEDÊNCIA. Independentemente do fornecimento de extratos de movimentação financeira dos recursos vinculados ao contrato de cartão de crédito, remanesce o interesse processual do mandante para a ação de prestação de contas em havendo dúvida sobre os critérios adotados. O procedimento da ação de prestação de contas desdobra- se em duas fases; na primeira, impende ao julgador, tão somente, declarar se a autora tem o direito de exigir as contas e o réu o dever de prestá-las, sendo cabível, apenas na segunda fase, decidir sobre as contas apresentadas. Precedentes. Provimento do Recurso” (fl. 249).
+3. No recurso extraordinário, a Agravante afirma que o Tribunal a quo teria contrariado o art. 5º, inc. XXXV e LIV, da Constituição da República.
+Argumenta que “permanecerá o Recorrente condenado a novamente prestar contas a recorrida, sem ter tido sua defesa adequadamente apreciada, caracterizando, pois, violação ao devido processo legal, esculpido em nossa Carta Magna, em seu artigo 5º, inc. LIV”(fl. 284).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de repercussão geral da matéria versada nos autos e a incidência da Súmula 279 deste Supremo Tribunal Federal (fl. 326).
+Examinados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. O Tribunal de origem analisou a controvérsia à luz da legislação infraconstitucional aplicável à espécie e dos fatos e das provas dos autos. Eventual contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário. Incide,pois, a Súmula 279 deste Supremo Tribunal Federal:
+“CIVIL. PROCESSUAL CIVIL. PRESTAÇÃO DE CONTAS. LEVANTAMENTO DE DEPÓSITO JUDICIAL. RETENÇÂO. HONORÁRIOS ADVOCATÍCIOS. LEI 8.906/94. ESTATUTO DA ADVOCACIA. AMPLA DEFESA. ATO JURÍDICO PERFEITO. MATÉRIA INFRACONSTITUCIONAL. 1. Recurso extraordinário no qual se pretende a análise de legislação infraconstitucional. Hipótese de ofensa indireta ou reflexa à Constituição Federal. 2. Agravo regimental improvido” (AI 657.929-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.9.2009).
+“EMENTA Agravo regimental em agravo de instrumento. Ação de prestação de contas. Negativa de prestação jurisdicional. Ofensa ao artigo 5º, inciso LV, da CF/88. Inocorrência. 1. Não houve negativa de prestação jurisdicional ou violação da garantia constitucional da ampla defesa e do contraditório. 2. O julgado estadual decidiu a matéria à luz da legislação infraconstitucional. Inadmissível, em recurso extraordinário, o exame de ofensa reflexa à Constituição. 3. Agravo regimental desprovido” (AI 636.646-AgR/RJ, Rel. Min. Menezes Direito, Primeira Turma, DJ 19.12.2007).
+7. Ademais, este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, inc. XXXV e LIV, da Constituição da República, se dependente do exame da legislação infraconstitucional, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+Nada há, pois, a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 7 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
