@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. REVISÃO DE BENEFÍCIO CONCEDIDO EM PERÍODO ANTERIOR À LEI N. 9.032/95: IMPOSSIBILIDADE. APLICAÇÃO DOS PRECEDENTES DO PLENÁRIO. RECURSO EXTRAORDINÁRIO PROVIDO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Superior Tribunal de Justiça:
+“MATÉRIA CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE. AUXÍLIO ACIDENTE. BENEFÍCIO CONCEDIDO SOB MANTO DE LEGISLAÇÃO PRETÉRITA. MAJORAÇÃO DO PERCENTUAL. POSSIBILIDADE. 1. A análise de suposta ofensa a dispositivos constitucionais compete exclusivamente ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Constituição Federal de 1988, sendo vedado o seu exame no âmbito do recurso especial. 2. Consoante entendimento firmado neste Superior Tribunal de Justiça, o aumento do percentual do auxílio acidente, estabelecido pela Lei nº 9.032/95 (lei nova mais benéfica), que alterou o § 1º, art. 86, da Lei nº 8.213/91, tem aplicação imediata a todos os beneficiários que estiverem na mesma situação, sem exceção, não importando tratar de casos pendentes de concessão ou já concedidos, em virtude de ser uma norma de ordem pública o que não implica em retroatividade da lei, posicionamento que não sofreu nenhuma alteração. 3. Agravo ao qual se nega provimento”(fl. 202).
+2. O Recorrente alega que teriam sido contrariados os arts. 5º, inc. XXXVI, e 195, § 5º e 201 da Constituição da República.
+Argumenta que “o Superior Tribunal de Justiça deu provimento ao recurso especial, determinando a aplicação ao benefício da nova redação do artigo 86, §1º, da Lei 8.213/91, dada pela Lei 9.302/95, afastando, expressamente, a observância ao princípio da irretroatividade das leis, ao direito adquirido do INSS, ao ato jurídico perfeito, assim como inobservando o caráter contributivo da Previdência Social, incrustado nos artigos 195, § 5º e 201 da Constituição Federal”(fl. 223, grifos no original).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica assiste ao Recorrente.
+4. Em 8 de fevereiro de 2007, por maioria de votos, o Plenário do Supremo Tribunal Federal apreciou a questão da possibilidade, ou não, de retroação da Lei n. 9.032/1995. Naquele julgamento, foram providos os Recursos Extraordinários n. 416.827 e n. 415.454, interpostos pelo Instituto Nacional do Seguro Social – INSS.
+Em 9 de fevereiro de 2007, na sessão subsequente àquela, a decisão foi confirmada pelo Plenário, por unanimidade de votos, no julgamento coletivo de 4.908 Recursos Extraordinários.
+Na mesma assentada, o Tribunal decidiu isentar os Recorridos dos ônus de sucumbência, fixando em 1% (um por cento) do valor originário da causa os honorários devidos.
+5. Esse entendimento foi reafirmado no julgamento da Questão de Ordem no Recurso Extraordinário n. 597.389, Relator o Ministro Gilmar Mendes, com repercussão geral reconhecida:
+“Questão de ordem. Recurso extraordinário. 2. Previdência Social. Revisão de benefício previdenciário. Pensão por morte. 3. Lei nº 9.032, de 1995. Benefícios concedidos antes de sua vigência. Inaplicabilidade. 4. Aplicação retroativa. Ausência de autorização legal. 5. Cláusula indicativa de fonte de custeio correspondente à majoração do benefício previdenciário. Ausência. 6. Jurisprudência pacificada na Corte. Regime da repercussão geral. Aplicabilidade. 7. Questão de ordem acolhida para reafirmar a jurisprudência do Tribunal e determinar a devolução aos tribunais de origem dos recursos extraordinários e agravos de instrumento que versem sobre o mesmo tema, para adoção do procedimento legal. 8. Recurso extraordinário a que se dá provimento” (DJ 21.8.2009).
+Dessa orientação jurisprudencial divergiu o acórdão recorrido.
+6. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal), invertidos os ônus da sucumbência, salvo justiça gratuita.
+Publique-se.
+Brasília, 8 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
