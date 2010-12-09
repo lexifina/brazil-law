@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“SEGURO OBRIGATÓRIO DE VEÍCULO – AÇÃO DE COBRANÇA – SINISTRO OCORRIDO NA VIGÊNCIA DA LEI N.11.482/2007 – SENTENÇA DE IMPROCEDÊNCIA MANTIDA – APELAÇÃO NÃO PROVIDA. (...) Inconformada, apela a vencida (fls. 88/107) sustentando existir diferença a receber referente à indenização do seguro DPVAT em razão da inconstitucionalidade da Lei 11.482/07.” (fls.146-147)
+No apelo extremo, o recorrente sustenta ofensa ao art. 1º, III da Constituição Federal.
+Verifico, portanto, que a pretensão recursal não merece ser acolhida.
+Ainda que a recorrente tenha suscitado preliminar formal da repercussão geral da matéria ventilada, não logrou êxito em fundamentar adequadamente a sua demonstração, sustentando apenas que:
+“(...) haverá relevância e, consequentemente, repercussão, quando a matéria for atinente à interpretação e aplicação de dispositivos básicos de nosso direito, sendo o que ocorre no caso em comento. (...) Entretanto tal decisão vem de encontro ao critério jus-hermenêutico de eliminação de antinomias, que, no presente caso, se resolve mediante a aplicação do critério da hierarquia, devendo prevalecer a Constituição Federal, concernente ao que esta determina em relação à dignidade da pessoa humana, artigo 1º, inciso III, eis que hierarquicamente superior a citada lei.” (fl.182)
+Ademais, a solução acerca do pagamento do seguro DPVAT conforme dispositivos das leis invocadas, trata-se de divergência solucionável pela aplicação da legislação federal. Desse modo, para se entender de forma diversa, seria necessária a prévia análise da legislação infraconstitucional aplicável à espécie, procedimento incabível na via extraordinária , conforme a Súmula 636 do STF.
+Portanto, constato que o exame da alegada ofensa ao inciso VI do artigo 7º da Constituição Federal esbarra no óbice da Súmula 279 do STF, uma vez que a apuração do devido valor do pagamento do seguro DPVAT alegado pela agravante se deu com base em análise do conjunto fático probatório, a extrair-se do seguinte trecho:
+“Tendo em vista que o acidente ocorreu em 23/09/2007 e a ação foi proposta aos 28/11/2007, aplica-se, no caso concreto, a alteração do valor da indenização introduzida pela Lei nº 11.482/07, de 31 de maio de 2007, que modificou o disposto no artigo 3º da Lei nº 6.194/74 (...) Assim, tendo a apelante recebido o pagamento integral da indenização pelo seguro DPVAT estabelecido pela lei vigente na época do fato no valor de R$13.500,00, não faz jus à diferença pleiteada, merecendo ser mantida a improcedência da ação.” (fl. 147)
+Para entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ de 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ de 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe de 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe de 5.2.2010.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 9 de dezembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
