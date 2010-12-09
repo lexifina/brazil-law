@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+“ADMINISTRATIVO. MANDADO DE SEGURANÇA. EXAME DE ORDEM. LEGALIDADE.
+1. Em matéria de concurso, a competência do Poder Judiciário se limita ao exame da legalidade das normas instituídas no edital ou o descumprimento deste pela comissão competente, sendo vedado o exame das questões das provas e dos critérios utilizados na atribuição de notas, cuja responsabilidade é da banca examinadora.
+2. A irresignação do impetrante não se coaduna com hipótese de violação aos princípios constitucionais que regulam a matéria e o agir do administrador, mas sim com o juízo de valoração de questões da prova prático-profissional”.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 1º, III e IV, 5º, XIII, XXXIII, XXXIV, XXXV, XXXVI, LV e LXIX, e 6º, da mesma Carta, bem como aos princípios da proporcionalidade e razoabilidade. Requereu-se, em suma, a “readequação e/ou recálculo” da nota de sua prova.
+A pretensão recursal não merece acolhida.
+Quanto à alegada ofensa aos arts. 5º, XIII, e 6º, da Constituição, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Além disso, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV e LIV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Ademais, o acórdão recorrido está em consonância com o entendimento desta Corte firmado no sentido de que “não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora nos critérios de correção de provas e de atribuição de notas a elas“ (RE 243.056-AgR/CE, Rel. Min. Ellen Gracie). Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+“Concurso público: controle jurisdicional admissível, quando não se cuida de aferir da correção dos critérios da banca examinadora, na formulação das questões ou na avaliação das respostas, mas apenas de verificar que as questões formuladas não se continham no programa do certame, dado que o edital - nele incluído o programa - é a lei do concurso” (RE 434.708/RS, Rel. Min. Sepúlveda Pertence, Primeira Turma).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÕES DO CERTAME. CONTROLE JURISDICIONAL. IMPOSSIBILIDADE. SÚMULA N. 279 DO STF.
+1. Não cabe ao poder judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora nos critérios de correção de provas e de atribuição de notas a elas.
+2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal.
+Agravo regimental a que se nega provimento” (RE 560.551-AgR/RS, Rel.Min. Eros Grau, Segunda Turma).
+Com a mesma orientação, cito, ainda, os seguintes precedentes, entre outros: MS 27.260/DF, Relatora para o acórdão Min. Cármen Lúcia; MS 21.176/DF, Rel. Min. Aldir Passarinho; AI 500.416-AgR/ES e AI 759.242/MG , Rel. Min. Gilmar Mendes; RE 268.244/CE, Rel. Min. Moreira Alves; AI 608.639-AgR/RJ, Rel. Min. Sepúlveda Pertence; RE 559.418/RS, Rel. Min. Ayres Britto; AI 816.556/RJ, de minha relatoria; RE 398.308/CE, Rel. Min. Joaquim Barbosa.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 9 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
