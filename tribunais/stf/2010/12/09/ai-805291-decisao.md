@@ -1,0 +1,9 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“SERVIDOR PÚBLICO MUNICIPAL. Reajuste de vencimentos. Alteração do antigo sistema de reajustes pela Lei Municipal nº 11.722/95. Vigência em 14 de fevereiro de 1995. Efeitos retroativos ao primeiro dia daquele mês. Inadmissibilidade, de acordo com o entendimento do Supremo Tribunal Federal sobre a matéria. Percentual de 25,32% devido, resultado da dedução do percentual de 6% já pago e seu abono, compensados os reajustes posteriores. Prescrição quinquenal das parcelas. Juros de mora fixados em 6% ao ano, desde a citação, nos termos do art. 1º-F da Lei 9494/97, introduzido pela MP 2180-35, em vigor por força da EC 32/01. Anterior ajuizamento de demanda por alguns dos autores, com o mesmo objeto da presente, com decisão transitada em julgado. Declaração de inconstitucionalidade em controle difuso que não retroage para atingir a coisa julgada. Sentença que reconheceu a prescrição em relação a todos os autores. Extinção da demanda nos termos do art. 267, V, do CPC em relação a alguns autores. Recurso parcialmente provido para julgar parcialmente procedente a ação em relação aos demais autores” (fl. 175).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVI, e 37, XV, da mesma Carta.
+O agravo não merece acolhida. Isso porque esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 602.832-ED/SC, Rel. Min. Sepúlveda Pertence, AI 536.022-AgR/SP, Rel. Min. Carlos Britto, AI 451.773-AgR/DF, Rel. Min. Gilmar Mendes.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 9 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
