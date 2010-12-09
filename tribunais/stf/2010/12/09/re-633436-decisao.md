@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TARIFA DE ÁGUA. MODIFICAÇÃO DO CRITÉRIO DE APURAÇÃO DO CONSUMO. IMPOSSIBILIDADE DE INTERPRETAÇÃO DA LEGISLAÇÃO LOCAL: SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alíneas a e d, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+“1. Não é possível o enquadramento do condomínio de natureza comprovadamente comercial para após a vigência do Decreto 41.446/96, como cento e trinta e sete 'economias' a exemplo do que ocorreria se fosse considerado imóvel residencial. 2. Não há que se falar em direito adquirido de lei revogada e quanto menos em inconstitucionalidade do Decreto 41.466 que apenas espelha o critério inserto no artigo 175 da Constituição” (fl. 486).
+2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 5º, caput, inc. XXXVI, e 21, inc. XX, da Constituição da República.
+Argumenta que “a não aplicação do sistema de economias ao Recorrente vem ocasionando, desde a sua constituição, tratamento diferenciado para consumidores da mesma categoria, a comercial, pois os consumidores que exercem suas atividades nas unidades autônomas do condomínio pagam três vezes mais, pela mesma quantidade de água consumida e coleta de esgotos do que se estivessem instalados fora de um condomínio” (fl. 651).
+Sustenta que “o presente recurso também tem cabimento pela alínea ‘d’, do inciso III do art. 102, da CF, uma vez que o art. 3º, § 1º, do Decreto 41.446/96, editado pelo Governador do Estado de São Paulo, ao alterar o disposto nos arts. 2º e 4º do Decreto 21.123/83, excluindo a categoria comercial do regime de economias para efeito de cálculo da tarifa, inovou legislação federal de competência privativa da União, (inc. XX do art. 21/CF) fazendo diferenciação onde não poderia fazer, disciplinando matéria afeta à competência da União” (fl. 651).
+Assevera que “não pode o Decreto n. 41.446/96, alterar o regulamento tarifário da Sabesp, estabelecido pelo Decreto n. 21.123/83, que por sua vez regulamentava e regulamentou por décadas as normas federais da Lei n. 6.528/78 e Decreto Federal n. 82.587/78” (fl. 660).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+4. O Tribunal a quo assentou que, “ao contrário do exposto pelo recorrente, a concessionária por meio do critério de economias e faixas de consumo vem dando a exata aplicação aos princípios da isonomia, retributividade, razoabilidade e tantos outros que regem a administração pública. Pelas mesmas razões, não é possível o acolhimento da pretensão do condomínio para após a vigência do Decreto 41.446/96 enquadrá-lo como cento e trinta e sete 'economias' a exemplo do que ocorreria se fosse considerado imóvel residencial” (fls. 492-493).
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria a análise prévia de legislação infraconstitucional aplicável à espécie (Decreto estadual 41.446/96 e Lei 6.528/78). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TARIFA DE ÁGUA E ESGOTO. CRITÉRIO DE CLASSIFICAÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.678-AgR, de minha relatoria, Primeira Turma, DJe 5.2.2010).
+E:
+“AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária” (AI 641.758-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 22.2.2008).
+5. Também não se viabiliza o extraordinário pela alínea d do inc. III do art. 102 da Constituição da República, pois o Recorrente não demonstrou como a aplicação da legislação local (Decreto n. 41.446/97) contrariaria expressamente dispositivos da legislação federal apontada (Lei n. 6.528/78), que apenas estabelece as normas gerais de tarifação dos serviços públicos de saneamento.
+6. Nada há, pois, a prover quanto às alegações do Recorrente.
+7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 9 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
