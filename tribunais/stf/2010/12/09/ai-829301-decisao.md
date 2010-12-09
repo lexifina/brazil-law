@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO: INCORPORAÇÃO DE GRATIFICAÇÃO ESPECIAL AOS PROVENTOS DE APOSENTADORIA. IMPOSSIBILIDADE DE EXAME DA LEGISLAÇÃO ESTADUAL. APLICAÇÃO DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de Instrumento interposto contra decisão que não admitiu o recurso extraordinário, fundamentado no art. 102, inc. III, alínea a, da Constituição da República.
+2. O Tribunal de Justiça da Bahia julgou apelação cível nos termos seguintes:
+“APELAÇÃO CÍVEL EM AÇÃO ORDINÁRIA. PROVENTOS DE INATIVIDADE. INVOCAÇÃO AO DIREITO DE PARIDADE ASSEGURADO PELA CONSTITUIÇÃO DA REPÚBLICA. INTEGRAÇÃO DA GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR. PRETENSA INCORPORAÇÃO.
+1. De fato, assegura a ordem constitucional a isonomia entre ativos, inativos e pensionistas, decorre de princípio de paridade, expressamente disposto no artigo 40, § 8º da Constituição Federal de 1988, em sua redação original.
+2. A isonomia entre ativos e inativos decorre de princípio constitucional, devendo ser estendidos a estes últimos os benefícios concedidos aos servidores em atividade, conforme redação do arat. 40, da Carta Magna, aplicável ao presente caso.
+3. O silêncio da Lei nº 7.145/97 quanto aos inativos não tem o condão de afastar a observância da igualação, pois a simples existência do referido diploma legal, prevendo a concessão da GAP aos servidores em atividade, de forma generalizada, é suficiente para que tal gratificação se estenda àqueles.
+4. As parcelas salariais devidas as servidores públicos consubstanciam, por sua natureza alimentar, dívidas de valor, sujeitas à correção monetária desde a época em que eram devidas, devendo os juros de mora incidir à base de 6% ao ano, a partir da citação.
+APELO PROVIDO PARCIALMENTE. REFORMA PARCIAL DA SENTENÇA EM NECESSÁRIO REEXAME” (fls. 380-381)
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência na espécie das Súmulas 280 e 284 do Supremo Tribunal Federal (fls. 571-578).
+3. O Agravante alega que o Tribunal a quo teria contrariado os arts. 1º, 2º, 5º, inc. XXXV, e LIV, 37, inc. II, XIII, XIV e XV, 61, § 1º, alínea a, 63, inc. I, 93, inc. IX, e 169, § 1º, inc. I e II, da Constituição da República.
+Analisada a matéria posta à apreciação, DECIDO.
+4. Em preliminar, é de se ressaltar que, apesar de ter sido a parte recorrente intimada depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar quando não for o caso de inadmissibilidade do recurso por outra razão .
+Essa é a situação do caso em exame, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso extraordinário.
+5. Não prospera a alegação de nulidade do acórdão por falta de fundamentação. O Tribunal a quo apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do Agravante.
+6. O Tribunal a quo assentou que “à análise acurada do texto da Lei nº 7.145/97, nota-se que, ao contrário do que pretende fazer crer o apelante, em verdade, a referida vantagem tem caráter geral, sendo devida em razão de requisitos inerentes à atividade militar” (fl. 380).
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria a análise prévia de legislação infraconstitucional aplicável à espécie (Lei estadual n. 7.145/97). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal.
+Confiram-se, a propósito, os seguintes julgados:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR INATIVO. EXTENSÃO DA GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR. LEI ESTADUAL N. 7.145/97. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 280 DESTE SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 586.706-AgR, de minha relatoria, Primeira Turma, DJE 7.12.2007).
+E:
+“ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL. INTERPRETAÇÃO DA LEI ESTADUAL 7.145/97. SÚMULA STF 280. 1. O Tribunal a quo , interpretando legislação estadual que trata da matéria, entendeu ser devida a Gratificação de Atividade Policial - GAP. 2. Para se concluir, como pretende a parte agravante, pelo caráter específico da gratificação em análise, necessário seria o reexame de legislação local, o que é defeso nesta via extraordinária (Súmula STF 280). Precedentes. 3. Agravo regimental improvido” (AI 744.086-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 18.9.2009).
+E ainda:
+“EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR - GAPM. EXTENSÃO AOS SERVIDORES INATIVOS. ACÓRDÃO DO TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, QUE DECIDIU A CONTROVÉRSIA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL PERTINENTE (LEI Nº 7.145/97). INCIDÊNCIA DA SÚMULA 280 DO STF. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. Precedentes: o AI 636.111-AgR, da relatoria do ministro Ricardo Lewandowski; o AI 639.129, da relatoria da ministra Cármen Lúcia; AI 661.219, da relatoria do ministro Marco Aurélio; e o AI 712.275-AgR, da relatoria do ministro Eros Grau. Agravo regimental desprovido” (AI 618.737-AgR, Rel. Min. Carlos Britto, Primeira Turma, 5.12.2008).
+7. Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput , do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 9 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
