@@ -1,0 +1,13 @@
+DECISÃO
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO PARA INGRESSO NA MAGISTRATURA. NÃO APROVAÇÃO DE CANDIDATOS-IMPETRANTES EM FASE SUBSEQUENTE AO EXAME DA MEDIDA LIMINAR. INSUBSISTÊNCIA DO INTERESSE DE AGIR. MANDADOS DE SEGURANÇA EXTINTOS, SEM RESOLUÇÃO DE MÉRITO.
+1. Mandado de segurança, com pedido de medida liminar, impetrado contra ato do Conselho Nacional de Justiça, consubstanciado no acórdão proferido no julgamento conjunto dos Procedimentos de Controle Administrativo n. 0006090-39.2009.2.00.0000, 0006126-81.2009.2.00.0000, 0006319-96.2009.2.00.0000 e no Pedido de Providências n. 0006552-93.2009.2.00.0000, no qual determinada a desclassificação de todos os candidatos que obtiveram nota inferior a setenta e sete (77) pontos nas provas objetivas do Concurso Público de Provas e Títulos para Provimento de Cargos de Juiz de Direito Substituto do Estado de Minas Gerais (Edital n. 1/2009).
+Outras impetrações sobre a mesma questão vieram-me distribuídas por prevenção (ns. 28.603; 28.593; 28.601; 28.609; 28.646; 28.671; 28.613; 28.628; 28.749; 28.594; 28.651; 28.666; 28.753; 28.652; 28.659), todas apensadas para processamento e julgamento conjunto.
+2. Em 19.8.2010, o Estado de Minas Gerais e o Tribunal de Justiça de Minas Gerais apresentaram petição eletrônica pela qual informam que “[o]s Impetrantes dos citados Mandados de Segurança que permanecem na segunda etapa do certame, atualmente matriculados no Curso de Formação, são: Anderson Fábio Nogueira Alves, André Ricardo Botasso, Carla de Fátima Barreto de Souza, Daniel Santos Costa, Dalmo Luiz Silva Bueno, Danielle Nunes Pozzer, Elisa Eumenia Mattos Machado Penido e Romão Avila Milhan Junior” (Petição eletrônica n. 45.446/2010).
+3. Em 3.12.2010, tendo em vista que os Impetrantes dos Mandados de Segurança ns. 28.588, 28.601, 28.609, 28.646, 28.671, 28.613, 28.628, 28.749, 28.753 não lograram aprovação na primeira etapa daquele concurso público, julguei extintas aquelas impetrações, nos termos do art. 6º, § 5º, da Lei n. 12.016/09 c/c art. 267, inc. VI, do Código de Processo Civil, cassando as liminares eventualmente deferidas.
+A mesma insubsistência no interesse de agir está configurada neste mandado de segurança (n. 28.647) e nos de números 28.659 e 28.652, motivo pelo qual julgo-os extintos, sem julgamento de mérito, cassando as liminares deferidas.
+Junte-se cópia desta decisão aos autos referidos, desapensando-os dos Mandados de Segurança ns. 28.666, 28.594 e 28.651, nos quais figuram os candidatos mencionados na Petição eletrônica n. 45.446/2010 e que deverão ser julgados conjuntamente com o Mandado de Segurança n. 28.603, impetrado pelo Tribunal de Justiça de Minas Gerais.
+Publique-se.
+Arquivem-se.
+Brasília, 09 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
