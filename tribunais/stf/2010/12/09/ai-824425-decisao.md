@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DA LEGALIDADE, DO CONTRADITÓRIO, DA AMPLA DEFESA E DA PRESTAÇÃO JURISDICIONAL. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Superior do Trabalho:
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. FALÊNCIA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. Recurso fundamentado em violação do artigo 37 da Constituição Federal. O referido artigo trata das disposições gerais da Administração Pública, não se identificando com a matéria ora debatida, e a agravante sequer indicou o inciso que entendia violado (Súmula nº 221, I, do TST). PENHORA. BEM DA SÓCIA. O conhecimento do recurso em fase de execução depende de demonstração de violação direta e literal de dispositivo da Constituição Federal, nos termos do art. 896, § 2º, da Consolidação das Leis do Trabalho. Inviável a pretensão da reclamada com fundamento no art. 5º, II, XX, XXI e LIV, da Constituição Federal. JUROS DE MORA. O agravo de instrumento não é meio hábil para aditamento de recurso. Logo, tema não apresentado no recurso de revista fica obstado pela preclusão. DESCONTOS PREVIDENCIÁRIOS. O processamento do recurso, no tópico, encontra óbice no art. 896, § 2º da CLT, uma vez que a reclamada não alegou violação de dispositivo da Constituição Federal, Agravo de instrumento a que se nega provimento” (fl. 369).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de tratar-se de ofensa reflexa ou indireta, além de demandar revolvimento dos fatos e provas da causa (fls. 459-460).
+4. O Agravante alega que teria sido contrariados os art. 5º, inc. II, XXXVI, LIV e LV, e 93, inc. IX da Constituição da República.
+Argumenta que:
+“O v. acórdão ao conhecer do Agravo de Instrumento, porém negando-lhe provimento, acabou por CERCEAR o DIREITO DE DEFESA (artigo 5º, inciso LV, da CF) da recorrente, uma vez que houve a efetica comprovação da negativa de prestação jurisdicional.
+Some-se a isso que uma vez comprovada a existência de negativa de prestação jurisdicional, o provimento do agravo para o imediato julgamento do Recurso de Revista era medida que se impunha para prestigiar o princípio da LEGALIDADE E DO DEVIDO PROCESSO LEGAL (inciso II e LIV do artigo 5º da CF) e de que NÃO SE EXCLUIRÁ DA APRECIAÇÃO DO PODER JUDICIÁRIO LESÃO OU AMEAÇA DE DIREITO (artigo 5º, inciso XXXVI da CF).
+Portanto, houve efetiva afronta às garantias fundamentais, eis que ocorreu flagrante negativa da prestação jurisdicional haja vista que o Regional, corroborando o entendimento expendido pelo Nobre Juízo a quo, deixou de abordar toda a matéria ventilada, deixando sde apresentar os fundamentos legais que motivaram a sua decisão” (fls. 419-420).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Na espécie vertente, o Tribunal de origem negou provimento ao recurso ao fundamento de que não foram apontados, de maneira suficiente, quais os dispositivos constitucionais teriam sido contrariados, além de óbice processual, qual seja, preclusão de tema aventado somente em agravo de instrumento.
+7. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de contrariedade aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, na espécie vertente, a Consolidação das Leis do Trabalho, configuram ofensa constitucional indireta.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INDEFERIMENTO DE PRODUÇÃO DE PROVAS. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 700.960-AgR, de minha relatoria, Primeira Turma, DJe 5.3.2010).
+E :
+“PROCESSO CIVIL. AMPLA DEFESA. CONTRADITÓRIO. DEVIDO PROCESSO LEGAL. ART. 191 DO CPC. MATÉRIA INFRACONSTITUCIONAL. 1. Supostas ofensas aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal residem no campo processual. 2. Agravo regimental improvido” (AI 746.301-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 19.2.2010).
+Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput , do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 9 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
