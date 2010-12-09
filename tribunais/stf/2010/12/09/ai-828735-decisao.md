@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“CONSTITUCIONAL E ADMINISTRATIVO. MILITARES DO DISTRITO FEDERAL. REVISÃO GERAL DOS VENCIMENTOS. INCIDÊNCIA. RECURSO PROVIDO. 1. Os militares do Distrito Federal (PMDF e CBMDF) são mantidos pela União, portanto, desnecessária a edição de lei distrital repassando aumento dos soldos e proventos para tais categorias, sendo suficiente legislação federal. 2. Tratando-se de revisão geral anual de vencimentos, têm os militares direito ao mesmo percentual, não ocorrendo qualquer agressão a dispositivo constitucional ou infraconstitucional. 3. Recurso provido” (fl.21).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 2º, 5º, II, 37, caput e X, 39, § 4º, e 42 da mesma Carta.
+O agravo não merece acolhida. Isso porque, verifico que o recurso extraordinário foi protocolizado antes da publicação do acórdão proferido nos embargos de declaração.
+Nesse contexto, o Supremo Tribunal Federal firmou entendimento no sentido de considerar extemporâneo o recurso extraordinário interposto antes da publicação do acórdão de que se recorre, sem que haja a devida ratificação do ato, porquanto esse julgado integra o acórdão recorrido, sendo irrelevante que somente a outra parte tenha embargado. Nesse sentido, menciono as seguintes decisões, dentre outras: AI 699.165- AgR/BA, Rel. Min. Eros Grau; AI 693.244-ED/SC e RE 320.440-AgR/RJ, Rel. Min. Ellen Gracie; AI 502.004-AgR/MG, Rel. Min. Carlos Britto; AI 375.124-AgR-ED/MG, Rel. Min. Celso de Mello; AI 255.654-AgR/MG, Rel. Min. Sydney Sanches e AI 766.052-AgR/SP, Rel. Min. Cezar Peluso, cuja ementa segue transcrita:
+“RECURSO. Extraordinário. Inadmissibilidade. Recurso extraordinário interposto antes da publicação do acórdão dos embargos de declaração. Agravo regimental improvido. Salvo posterior ratificação, é extemporâneo o recurso extraordinário interposto antes da publicação do acórdão dos embargos de declaração, ainda que o julgamento destes não tenha implicado modificação substancial do teor do julgamento original” (AI 766.052-AgR/SP, Rel. Min. Cezar Peluso, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 9 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
