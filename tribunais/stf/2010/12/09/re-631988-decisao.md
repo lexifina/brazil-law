@@ -1,0 +1,33 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu legítima a cobrança, em relação a servidora inativa, da contribuição destinada ao custeio de assistência médica, nos termos da Lei estadual 7.672/1982, no período compreendido entre a EC 20/1998 e a EC 41/2003.
+Neste RE, fundado no art. 102, III, a e c, da Constituição, alegou-se, em suma, a inconstitucionalidade da referida contribuição.
+A pretensão recursal não merece acolhida.
+O acórdão recorrido entendeu que a contribuição destinada ao custeio de assistência médica teria caráter facultativo, como se verifica dos seguintes trechos:
+“(...) acompanho integralmente o posicionamento do ilustre Des. Henrique Osvaldo Poeta Roenick, manifestado na decisão proferida no agravo de instrumento nº 70009459694, verbis:
+'Neste sentido, afigura-se plenamente procedente o pedido formulado pelo autor, no sentido de ser concedida a antecipação de tutela para fins de sustar o desconto em pauta, ante a não-obrigatoriedade da contribuição assistencial à saúde, descontada de seus vencimentos, que antes era de 3,6% face à Lei n.º 7.672/82, e agora é de 3,1% ante o que dispõe a Lei Complementar n.º 12.066/04. Como consequência, desde que cessada a contribuição respectiva, perde ele todo e qualquer direito de usufruir dos benefícios correspondentes que são disponibilizados pelo Estado através do plano de saúde em pauta'.
+Por tais razões, e na esteira de entendimentos deste Tribunal e desta Câmara, tenho que enquanto não for revelada a pretensão do segurado em deixar de contribuir para a assistência médica, o desconto é válido, não cabendo falar-se em devolução da importância paga.
+(...)
+Da mesma forma, não há qualquer comprovação acostada aos autos, no sentido de que a parte tenha procedido pedido de desvinculação do sistema de assistência médica, cuja contribuição se dava através do desconto destinado ao respectivo custeio, o qual legitimaria a devolução dos valores pretendidos, em face do caráter facultativo da contribuição. Destaca-se que tal ônus probatório incumbia à parte demandante, tendo em vista a dificuldade da formação de prova negativa nesse sentido.
+(...)
+Cabe ressaltar que a contribuição não é indevida, e sim a forma compulsória, consoante já referido, incumbindo ao segurado escolher por contribuir ou não, e, por consequência, ser ou não beneficiário.
+Registra-se que em caso de opção dos segurados pela não contribuição, teria cessado a obrigação de o IPERGS disponibilizar os serviços de assistência médica, o que não ocorreu, pois a autarquia continuou obrigada à contra-prestação dos serviços
+(...) ” (fls. 109/v-111).
+Nesses termos, o aresto recorrido está em consonância com o entendimento desta Corte, que, ao apreciar o RE 573.540/MG, Rel. Min. Gilmar Mendes, cuja repercussão geral da questão constitucional nele tratada foi reconhecida, decidiu que falece aos Estados-membros competência para criar contribuição compulsória destinada ao custeio de serviços médicos, hospitalares, farmacêuticos e odontológicos prestados aos seus servidores. Confira-se a ementa do julgado:
+“CONTRIBUIÇÃO PARA O CUSTEIO DOS SERVIÇOS DE ASSISTÊNCIA MÉDICA, HOSPITALAR, ODONTOLÓGICA E FARMACEÚTICA. ART. 85 DA LEI COMPLEMENTAR Nº 62/2002, DO ESTADO DE MINAS GERAIS. NATUREZA TRIBUTÁRIA. COMPULSORIEDADE. DISTRIBUIÇÃO DE COMPETÊNCIAS TRIBUTÁRIAS. ROL TAXATIVO. INCOMPETÊNCIA DO ESTADO-MEMBRO. INCONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO NÃO PROVIDO.
+I - É nítida a natureza tributária da contribuição instituída pelo art. 85 da Lei Complementar nº 64/2002, do Estado de Minas Gerais, haja vista a compulsoriedade de sua cobrança.
+II - O art. 149, caput, da Constituição atribui à União a competência exclusiva para a instituição de contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais e econômicas. Essa regra contempla duas exceções, contidas no arts. 149, § 1º, e 149-A da Constituição. À exceção desses dois casos, aos Estados-membros não foi atribuída competência para a instituição de contribuição, seja qual for a sua finalidade.
+III - A competência, privativa ou concorrente, para legislar sobre determinada matéria não implica automaticamente a competência para a instituição de tributos. Os entes federativos somente podem instituir os impostos e as contribuições que lhes foram expressamente outorgados pela Constituição.
+IV - Os Estados-membros podem instituir apenas contribuição que tenha por finalidade o custeio do regime de previdência de seus servidores. A expressão 'regime previdenciário' não abrange a prestação de serviços médicos, hospitalares, odontológicos e farmacêuticos”.
+Extrai-se do voto condutor:
+“Em outras palavras, a Constituição não autoriza os Estados-membros a instituir, para o custeio de serviços de saúde, exação que possua natureza tributária, cujo pagamento seja exigido a todos os servidores independentemente da voluntária adesão ao 'plano'
+Por outro lado, não há óbice constitucional ao oferecimento desses serviços, pelo Estado, aos seus servidores, desde que a adesão e a 'contribuição' não sejam compulsórias. Convém esclarecer, também, que os serviços somente serão prestados àqueles que, voluntariamente, aderirem ao “plano”, inexistindo, pois, direito subjetivo à sua fruição independente do pagamento da 'contribuição'. Ressalte-se que o termo 'contribuição', nesse contexto, não é mais entendido em sua acepção jurídico-tributária.
+Diante de todos esses argumentos, conclui-se que os Estados-membros possuem competência apenas para a instituição de contribuição voltada ao custeio do regime próprio de previdência de seus servidores. Falece-lhes, portanto, competência para a criação de contribuição ou de qualquer outra espécie tributária destinada ao custeio de serviços médicos, hospitalares, farmacêuticos e odontológicos prestados aos seus servidores.
+Ademais, não há óbice constitucional à prestação, pelos Estados, de serviços de saúde a seus servidores, desde que a adesão a esses 'planos' seja facultativa”.
+Nesse mesmo sentido, transcrevo trecho da ementa da ADI 3.106/MG, Rel. Min. Eros Grau:
+“(...)
+2. Os Estados-membros não podem contemplar de modo obrigatório em relação aos seus servidores, sob pena de mácula à Constituição do Brasil, como benefícios, serviços de assistência médica, hospitalar, odontológica, social, e farmacêutica. O benefício será custeado mediante o pagamento de contribuição facultativa aos que se dispuserem a dele fruir.
+(...)”
+Isso posto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 9 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
