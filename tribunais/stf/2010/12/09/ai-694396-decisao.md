@@ -1,0 +1,17 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+“(...) ICMS – Substituição tributária – Restituição apenas na hipótese de não ocorrência do fato gerador presumido – Operações realizadas por valores inferiores ao presumido sujeitas às limitações impostas pelo Fisco – Pedido administrativo de restituição que deve ser instruído com a documentação pertinente e sujeito à prévia aprovação da Administração – Inteligência do Decreto nº 41.653/97 e alterações posteriores – Recurso improvido” (fl. 56).
+No RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, que os critérios de devolução estabelecidos pela recorrida são ilegítimos, uma vez que, com base no art. 150, § 7º, da Constituição, a restituição da diferença de ICMS pago antecipadamente no regime de substituição tributária, quando for apurada disparidade entre a base de cálculo presumida e a base de cálculo real, deve ser imediata e preferencial.
+A decisão agravada inadmitiu o recurso extremo, ao entendimento de que o recurso foi interposto extemporaneamente, sendo que os Tribunais Superiores não admitem o sistema de protocolo integrado.
+Inicialmente, no que se refere ao protocolo integrado, a decisão recorrida está em desacordo com o entendimento da Corte que, ao julgar o AI 476.260-AgR/SP, Rel. Min. Carlos Britto, decidiu pela admissibilidade de recurso interposto por esse sistema de protocolo descentralizado, conforme se vê da ementa a seguir transcrita:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO INTERPOSTO PELO SISTEMA DE PROTOCOLO DESCENTRALIZADO. ADMISSIBILIDADE.
+A Lei nº 10.352, de 26.12.01, ao alterar os artigos 542 e 547 do CPC, afastou o obstáculo à adoção de protocolos descentralizados. Esta nova regra processual, de aplicação imediata, se orienta pelo critério da redução de custos, pela celeridade de tramitação e pelo mais facilitado acesso das partes às diversas jurisdições.
+Agravo regimental provido para determinar a subida do recurso extraordinário e assim possibilitar melhor exame do feito”.
+Com efeito, publicado o acórdão recorrido em 18/10/2006 (fl. 75) e o RE protocolizado, via protocolo integrado, em 6/11/2006 (fl. 76), o recurso extraordinário é tempestivo.
+Superada, portanto, a decisão de fls. 151-152, passo a analisar o recurso interposto.
+O Plenário desta Corte, em 20/8/2008, ao apreciar Questão de Ordem suscitada no RE 540.410/RS, Rel. Min. Cezar Peluso, decidiu estender a aplicação do art. 543-B do Código de Processo Civil aos recursos cujo tema constitucional apresente repercussão geral reconhecida pelo Plenário, ainda que interpostos contra acórdãos publicados antes de 3 de maio de 2007.
+No caso, o recurso extraordinário versa sobre matéria cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (RE 593.849-RG/MG, de minha relatoria).
+Isso posto, uma vez que preenchidos os demais requisitos de admissibilidade, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com base no art. 328, parágrafo único do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado, quanto ao recurso extraordinário, o disposto no art. 543-B do CPC, visto que nele discute-se questão idêntica à apreciada no RE 593.849-RG/MG.
+Publique-se.
+Brasília, 9 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
