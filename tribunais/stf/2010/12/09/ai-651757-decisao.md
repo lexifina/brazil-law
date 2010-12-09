@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça de Minas Gerais assim ementado (fls. 652):
+CONCURSO PÚBLICO - DEFICIENTE FÍSICO - PERÍCIA OFICIAL - CLASSIFICAÇÃO - POSSE - LEGALIDADE.
+- Ainda que aprovada, não faz jus à nomeação candidata que não é portadora de deficiência física mas se inscreve para concorrer para as vagas especiais destinadas a pessoas em tais condições.
+- Logrando ser aprovada e classificada dentro das vagas para o cargo em que se inscreveu, é de direito a nomeação.
+No recurso extraordinário, alega-se violação do disposto no art. 5º, caput, e 37, caput, da Constituição. Sustenta que o provimento parcial do pedido autoral, que determinou o investidura da recorrida em cargo como portadora de necessidades especiais viola os princípios constitucionais da isonomia e da legalidade, uma vez que a perícia médica não constatara a existência de deficiência física nos termos legais.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende art. 37, caput, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta da apelação (fls. 229-240), deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ 15.09.2000).
+Ademais, o acórdão recorrido manteve a sentença intocável no ponto que julgou procedente o pedido alternativo da autora de ser nomeada na lista geral, para o cargo de professora nível 3, já que se classificara dentro do número de vagas destinadas à ampla concorrência. In verbis:
+Ora, o que se vê é que a autora, classificada em 28º lugar para Professora Nível 3, logrou ficar dentro das 40 vagas oferecidas. No entanto, ao concorrer para Professora Nível 5, sua modesta classificação de 70º lugar não a habilitaria para alcançar uma das vagas disponíveis, daí a artificiosa manobra de modificar sua inscrição para portadora de deficiência física e obter uma das vagas especiais, o que foi impedido porquanto detectado a tempo pelos responsáveis pelo certame. (fls. 654/655)
+Transcrevo, ainda, o ponto da sentença mantido pelo Tribunal a quo:
+Lado outro, a autora foi classificada dentro das vagas destinadas ao cargo de Professor Nível 3, grau A, língua portuguesa, e tendo sido anulado o ato de sua nomeação como deficiente físico, bem como declarada irregular sua indicação ao cargo, deveria ter voltado ao status quo de sua inscrição, sendo nomeada para o cargo no qual logrou êxito em ser aprovada. (fls. 604)
+Verifico que o recurso extraordinário impugna o que não foi decidido no acórdão recorrido, ao argumentar que a “posse e o exercício da Recorrida nas vagas referentes ao cargo público de professor nível 3, além de ilegal, afronta o princípio da isonomia e prejudica terceiros que tem o verdadeiro direito de ocupar as vagas que a Recorrida pretende, a qualquer curso, ocupar”. Disso decorre que das razões do recurso extraordinário, não se faz possível vislumbrar o exato teor da controvérsia, o que torna aplicável ao caso a Súmula 284 desta Corte.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 09 de dezembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
