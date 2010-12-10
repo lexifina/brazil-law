@@ -1,0 +1,26 @@
+I DECISÃO
+AGRAVO DE INSTRUMENTO. CONTRATO ADMINISTRATIVO. EQUILÍBRIO ECONÔMICO-FINANCEIRO. IMPOSSIBILIDADE DE INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE CLÁUSULAS DO ACORDO FIRMADO PELAS PARTES: SÚMULAS N. 279 E 454 DESTE SUPREMO TRIBUNAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“Ação monitória. Contrato de fornecimento de material. Alegação de pagamentos intempestivos, a justificar a incidência das penalidades decorrentes da mora. Prova pericial conclusiva a respeito do valor correto da dívida. Impugnação ao laudo pericial que não abalou suas conclusões. Quando uma sociedade de economia mista contrata, visando a realização do seu objeto social, esse contrato não está regido pelo direito administrativo. O fato de o apelante ter firmado aditivos ao contrato originário, tendo sido mantido o preço inicial, é prova suficiente de que concordou em não reajustá-lo. Ainda que se reconheça ter faltado prudência ao autor ao fixar o valor da causa, pelo que devia suportar os ônus decorrentes de sua conduta. Tem-se como excessiva a verba honorária imposto ao apelante. Recurso parcialmente provido” (fl. 391).
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 494-499).
+3. A Agravante afirma que o Tribunal a quo teria contrariado o art. 37, inc. XXI, da Constituição da República.
+Argumenta que “o principal fator que contribuiu para o desequilíbrio da equação econômica e financeira firmada contratualmente não foi tais pagamentos a destempo e sim, sem dúvida alguma, a falta de reajuste do preço do material fornecido, fixado no contrato original” (fl. 4).
+Sustenta que “não resta dúvida de que o reajustamento não é direito cuja eficácia fica submetida a previsão contratual ou pedido do particular contratado, vez que está inserto dentre as obrigações da Administração Pública, ao contratar, o poder-dever de manter as condições efetivas da proposta vencedora do certame licitatório respectivo” (fl. 8).
+Requer “seja reformada a r. decisão agravada, para o fim de conhecer seu recurso extraordinário, bem como, seja o mesmo provido ante as contrariedades ao artigo 37, XXI, da CF verificada no v. acórdão, a fim de que se prestigie o equilíbrio econômico que deve reger os contratos de natureza administrativa, reconhecendo-se o direito da ora Agravante de não só perceber o que lhe é devido em razão da impontualidade da ora recorrida no seu dever de pagamento mas, também, em razão do devido reajustamento do preço do material fornecido, previsto ou não em contrato” (fl. 13).
+Apreciada a matéria trazida na espécie, DECIDO.
+4. Razão jurídica não assiste à Agravante.
+5. O Tribunal a quo apreciou a matéria à luz dos fatos e das provas constantes dos autos, do contrato celebrado entre as partes e da legislação infraconstitucional aplicável à espécie (Leis n. 8.666/1993 e 10.192/2001), razão pela qual não ocorre ofensa constitucional direta, única a permitir o processamento do recurso extraordinário, nos termos do art. 102, inc. III, alínea a, da Constituição da República.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AÇÃO DE RESSARCIMENTO DE CONTRATO ADMINISTRATIVO. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL, DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. 1. Caso em que entendimento diverso do adotado pelo Tribunal de origem demandaria o reexame da legislação infraconstitucional pertinente, de cláusulas contratuais, bem como a análise do acervo fático-probatório dos autos. Providências vedadas na instância extraordinária. 2. Agravo regimental desprovido” (RE 565.629-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJe 23.10.2009).
+E:
+“Reveste-se de natureza infraconstitucional a matéria relacionada à relação de consumo e ao equilíbrio econômico-financeiro do contrato de concessão. 5. Recurso conhecido em parte e, nesta extensão, desprovido” (RE 571.572, Rel. Min. Gilmar Mendes, Plenário, DJe 13.2.2009).
+E ainda:
+“EQUILÍBRIO ECONÔMICO E FINANCEIRO. SÚMULAS STF Nº 279 E 280. 1. Inviável, nesta sede extraordinária, rever as conclusões da origem, no tocante à ausência de prejuízo a ser reparado, ante o óbice da Súmula STF nº 279. 2. A leitura do recurso extraordinário revela que a pretensão da agravante pressupõe o reexame da legislação local, com o cotejo do decreto de intervenção com a lei que regulamenta a concessão do serviço de transporte coletivo municipal. Súmula STF nº 280. 3. Agravo regimental improvido” (RE 388.606-AgR, Rel. Min. Ellen Gracie, DJ 03-02-2006).
+6. Nada há, pois, a prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 10 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
