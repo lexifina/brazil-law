@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu pela impossibilidade de cumulação de pensão especial de ex-combatente com proventos de reforma militar, nos seguintes termos:
+“MILITAR. PENSÃO ESPECIAL DE EX-COMBATENTE. CUMULAÇÃO COM PROVENTOS DE REFORMA MILITAR. PENSÕES. ART. 53 DO ADCT. LEI. 5.315/67.
+I- O art. 53 do Ato das Disposições Constitucionais Transitórias dispõe sobre o benefício de pensão especial ao ex-combatente e a lei nº 5.315/67 estabelece o conceito de ex-combatente, como participante efetivo das operações bélicas e que, no caso de militar, haja sido licenciado do serviço ativo e com isso retornado à vida civil definitivamente.
+II- Os impetrantes são militares ex-combatentes e pensionistas de ex-combatentes que seguiram a carreira militar até a reserva remunerada.
+III- Recurso improvido” (fl. 141).
+Neste RE, fundado no art. 102, III, a e c, da Constituição, alegou-se ofensa ao art. 53, II, do ADCT. Sustentou-se, ademais, que
+“os recorrentes são ex-combatentes, e o fato de serem militares reformados não é fator impeditivo para o percebimento da pensão especial, uma vez tendo por ocasião da Segunda Guerra Mundial, participado efetivamente de operações bélicas, comprovando tal fato através de certidões e medalhas de guerra, fazendo jus, ao direito inequívoco de perceber a respectiva pensão especial correspondente a deixada por segundo tenente das forças armadas, nos moldes previstos no artigo 53, II, do ADCT” (fl. 166).
+O Subprocurador-Geral da República Paulo da Rocha Campos opinou pelo não conhecimento do recurso.
+A pretensão recursal não merece acolhida. É que o Tribunal de origem, com apoio na Lei 5.315/1967 e nas provas dos autos, entendeu que os recorrentes não fazem jus à pensão especial de ex-combatente. Concluiu, assim, que, ”acabado o conflito não passaram os mesmos [os recorridos] para a licença do serviço ativo, mas seguiram carreira militar, não se coadunando, desta forma, nos requisitos legais que permitiriam o recebimento da pensão especial” (fl. 138).
+Dessa forma, a ofensa à Constituição, se ocorrente, seria apenas indireta, e o exame da alegada contrariedade à Lei Maior demandaria o revolvimento do conjunto fático-probatório dos autos, o que inviabiliza o recurso extraordinário, a teor da Súmula 279 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: RE 483.974-AgR/RJ, Rel. Min. Marco Aurélio; AI 660.012-AgR/RJ, Rel. Min. Cármen Lúcia; RE 540.298-AgR/PE, Rel. Min. Ellen Gracie; AI 565.169-AgR/RJ, Rel. Min. Cezar Peluso; RE 478.947-AgR/RJ, Rel. Min. Eros Grau; RE 574.223/RN, Rel. Min. Carlos Britto; RE 459.635/CE, Rel. Min. Sepúlveda Pertence; RE 456.689-AgR/SE, Rel. Min. Joaquim Barbosa.
+Por fim, o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição Federal. Nesse sentido, cito, entre outras, as seguintes decisões: AI 599.602-AgR, Rel. Min. Eros Grau; AI 436.004-ED/RS, Rel. Min. Sepúlveda Pertence; AI 481.886-AgR/SP, Rel. Min. Carlos Velloso.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 10 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
