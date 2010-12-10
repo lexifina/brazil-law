@@ -1,0 +1,21 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CIVIL. DESCABIMENTO DO RECURSO PELA ALÍNEA D DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea d, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO INOMINADO. APELAÇÃO. COBRANÇA DE PRESTAÇÃO DE SERVIÇOS MÉDICO-HOSPITALARES. PROVA DO PAGAMENTO. NOTA FISCAL. 1. Não é possível a interposição de embargos de declaração contra decisão monocrática do Relator, conforme posicionamento adotado pelo STJ. Entrementes, não sendo grosseiro o erro e interpostos os embargos dentro do prazo previsto para o agravo inominado, aplica-se o princípio da fungibilidade, de maneira que aqueles sejam conhecidos como se este o fosse. 2. A decisão monocrática recorrida foi efetivada dentro dos poderes que a lei processual prevê ao Relator, posto que pautada na orientação jurisprudencial colacionada em sua fundamentação. Precedentes do STJ. 3. Cinge-se a controvérsia em saber se houve ou não o pagamento pelos serviços prestados ao apelante. 4. Prova do pagamento através de quitação aposta em nota fiscal emitida pela prestadora de serviços. Incidência do art. 333, II do CPC. 5. Alegação da apelante no sentido de que a emissão deu-se para permitir reembolso perante a seguradora. Argumento inconsistente diante das conclusões do laudo pericial que constatou, no prontuário, anotação de inexistência de convênio particular com plano de saúde. 6. Existe, portanto, uma presunção de pagamento que, sendo relativa, deveria ter sido elidida pelo autor, de modo a cumprir o disposto no artigo 333,I, do CPC. Precedentes do TJRJ. 7. Recurso não provido“ (fl. 131).
+3. No Recurso Extraordinário, a Agravante afirma que o Tribunal a quo teria contrariado os arts. 5º, inc. LV, da Constituição da República.
+Argumenta que “o acórdão atacado constitui-se em gritante erro judicial, eis que julgar improcedente o pedido autoral significa ignorar e deixar de aplicar os fundamentos que regem os contratos e as obrigações assumidas pelas partes, independente de Termo de Responsabilidade” (fl. 188, grifos no original)
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de o acórdão recorrido estar fundamentado exclusivamente em normas infraconstitucionais (fl. 17).
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Incabível o extraordinário pela alínea d do inc. III do art. 102 da Constituição da República. A análise do recurso extraordinário interposto por essa alínea depende da configuração nos autos de conflito de competência legislativa entre os entes da Federação, não sendo cabível, no entanto, quando há mera pretensão de revisão da interpretação dada à norma infraconstitucional.
+No julgamento da Questão de Ordem no Agravo de Instrumento 132.755, Relator para o acórdão o Ministro Dias Toffoli, o Ministro Marco Aurélio esclareceu que:
+“Na alínea d, Presidente, não está essa explicitação e, então, em visão primeira, admitir-se-ia recurso extraordinário desde que contestada lei local em face de lei federal, inclusive quanto ao mérito em si. Foi quando imaginamos que o alcance desse preceito não é outro senão submeter ao Supremo a competência legiferante, ou seja, apenas quando em discussão - na Corte de origem e formalizado o acórdão impugnado mediante o extraordinário -, em termos de competência, se cabe ao Poder Legislativo local ou federal disciplinar a matéria, é que se abre a porta para chegar ao Supremo. Fora isso, o Supremo ficará inviabilizado se admitirmos todo e qualquer conflito entre a lei local e a federal” (DJe 25.2.2010).
+E, ainda, a seguinte decisão monocrática, transitada em julgado: RE 561.718, Rel. Min. Ricardo Lewandowski, DJe 6.5.2010.
+Nada há a prover quanto às alegações do Agravante.
+7. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 10 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
