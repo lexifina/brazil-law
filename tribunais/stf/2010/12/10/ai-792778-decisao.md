@@ -1,0 +1,30 @@
+DECISÃO
+Vistos.
+Vicente Antonelli e Outro interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, inciso LV, da Constituição Federal.
+Insurgem-se, no apelo extremo, contra acórdão da Décima Quinta Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo. Colhe-se do voto do Relator do acórdão os seguintes fundamentos:
+“O cerne da questão reclamava prova de natureza documental, que é aquela que deveria ter acompanhado a inicial dos embargos e a impugnação a eles oferecida, e que acabou sendo produzida nos autos.
+A pretendida perícia nada iria acrescentar ou modificar, mesmo porque o perito haveria de estar limitado aos documentos comprobatórios dos depósitos feitos pelos recorrentes, documentos esse que já foram carreados aos autos.
+Por outro lado, a pretensão à colheita do depoimento pessoal das recorridas também se revela incompatível com o contexto probatório que envolve a controvérsia, justamente porque era só a partir da prova documental que se poderia aquilatar o alcance das alegações formuladas nos embargos, seja quanto à afirmação da ocorrência de usura, seja quanto à alegação de pagamento da dívida.
+..........................................................................................
+Assim, à míngua de comprovação da alegada prática usurária, não é de se dar acolhida ao reclamo dos recorrentes, devendo restar mantida a definição judicial que apenas determinou o decote de parte da importância executada.
+...........................................................................................
+Em suma: o apelo procede apenas em relação à questão sucumbencial” (fls. 47 a 51).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não merece prosperar a irresignação.
+A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+Ademais, a orientação jurisprudencial deste Tribunal está consolidada no sentido de que o indeferimento de diligência probatória, tida por desnecessária pelas instâncias ordinárias, não viola os princípios do contraditório e da ampla defesa. Nesse sentido, anote-se:
+“Agravo regimental. Recurso extraordinário. Ação de indenização por dano causado por acidente de trânsito. Indeferimento de diligência probatória. Cerceamento de defesa. Inocorrência.
+1. Não incorre em ofensa à ampla defesa o indeferimento de diligência probatória tida por desnecessária.
+2. Não se abre a via do recurso extraordinário para o reexame de fatos e provas. Incidência da Súmula nº 279 desta Corte.
+3. Agravo regimental desprovido” (AI nº 631.856/AM-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 7/12/07).
+“PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE DILIGÊNCIA PROBATÓRIA. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+I - Como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário.
+II - Este Tribunal tem decidido no sentido de que o indeferimento de diligência probatória, tida por desnecessária pelo juízo a quo, não viola os princípios do contraditório e da ampla defesa. III - Agravo regimental improvido” (AI nº 616.277/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 19/9/08).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 10 de dezembro de 2010.
+Ministro DIAS TOFFOLI
+Relator
