@@ -1,0 +1,19 @@
+D ECIS Ã O:
+Vistos.
+Volkswagen do Brasil Indústria de Veículos Automotores Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 7º, inciso XXVI, e 8º, inciso III, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da 1ª Turma do Tribunal Superior do Trabalho, assim ementado:
+“AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA REINTEGRAÇÃO NO EMPREGO .
+Não se processa o recurso de revista quando não comprovadas as violações apontadas, bem como, a divergência de julgados.
+Agravo de instrumento desprovido” (fl. 393).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não merece prosperar a irresignação, uma vez que para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem acerca dos limites da “cláusula assecuratória do emprego” e dos benefícios constantes em acordos coletivos seria necessário o reexame destas normas, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 454 desta Corte. Anote-se:
+“Agravo regimental em agravo de instrumento. 2. Interpretação de cláusula de acordo coletivo. Matéria circunscrita à análise de norma infraconstitucional. Aplicação da Súmula 454 do STF. Ofensa reflexa à Constituição Federal de 1988. Precedentes. 3. Princípios da ampla defesa e do contraditório. Em regra, ofensa reflexa à Constituição Federal. Precedentes. 4. Agravo regimental a que se nega provimento” (AI nº 670.752/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 24/4/08).
+“I. Recurso extraordinário: descabimento: controvérsia sobre validade de cláusula de acordo coletivo de trabalho decidida à luz de legislação infraconstitucional pertinente, de reexame inviável no RE: incidência, mutatis mutandis, da Súmula 636. II. O artigo 7º, XXVI, da Constituição Federal, não elide a declaração de nulidade de cláusula de acordo coletivo de trabalho à luz da legislação ordinária. III. Improcedência das alegações de negativa de prestação jurisdicional e de violação das garantias do artigo 5º, XXXV, XXXVI, LIV, da Constituição Federal” (AI nº 657.176/MG-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 31/8/07).
+“1. O trânsito do extraordinário é inviável para debater matéria processual, de caráter infraconstitucional, relativa ao reexame do julgamento proferido em grau de embargos de declaração, para fins de nulidade, por suposta negativa de prestação jurisdicional e ausência de fundamentação. 2. Ausência de prequestionamento do artigo 111 da Lei Maior. 3. No mérito, apreciação do apelo extremo que requer a análise de interpretação de cláusulas de acordo coletivo de trabalho e de fatos e provas da causa (Súmulas STF nºs 279 e 454), além de matéria de índole ordinária, hipóteses inviáveis na via do apelo extremo. 4. Agravo regimental improvido” (AI nº 563.820/SE-AgR, Segunda Turma, Relator o Ministro Ellen Gracie, DJ de 5/5/06).
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 10 de dezembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
