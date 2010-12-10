@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“ADMINISTRATIVO. CARREIRA DE MAGISTÉRIO. DISTRITO FEDERAL. ALTERAÇÃO PELA LEI 3.318/04. REGIME JURÍDICO. INEXISTÊNCIA DE DIREITO ADQUIRIDO. IRREDUTIBILIDADE DE VENCIMENTO.
+I – É pacífico o entendimento jurisprudencial de que não há direito adquirido a regime jurídico de servidor público tampouco de sua manutenção no final de carreira em caso de alteração por lei posterior.
+II – A alteração da Lei 66/89 pela Lei 3.318/04, que dispõe sobre a carreira de Magistério do Distrito Federal, ao modificar o posicionamento da servidora aposentada do último padrão para outro intermediário não fere direito adquirido, pois observou o princípio da irredutibilidade de vencimentos.
+III – Apelação conhecida e improvida. Unânime”. (fl. 58)
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa aos artigos 5º, XXXVI e 40, § 4º, com redação anterior à EC nº 20/98, da Carta Magna.
+A recorrente insurge-se, em síntese, contra decisão do tribunal de origem que não lhe reconheceu direito adquirido a posicionamento no último nível da carreira, após seu reenquadramento operado pela lei distrital nº 3.318/04, que instituiu o novo plano de carreira do magistério.
+Decido.
+O recurso não merece prosperar.
+O acórdão recorrido está em sintonia com a jurisprudência da Corte no sentido de que não há direito adquirido a regime jurídico, não havendo falar, portanto, em violação ao direito adquirido e ao princípio da isonomia se a Administração altera o escalonamento hierárquico da carreira a que pertence o servidor inativo, criando novos níveis para a progressão de servidores da ativa, desde que não implique em redução dos proventos do servidor inativo.
+Nesse sentido, confiram-se os seguintes precedentes:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REENQUADRAMENTO. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Matéria constitucional que foi objeto de exame e debate prévios no Tribunal de origem. 2. Intimação do acórdão recorrido antes de 3.5.2007. Desnecessidade de demonstração formal da repercussão geral da questão constitucional.” (AI-AgR 720.887, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 05.02.2010).
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. RECLASSIFICAÇÃO. DIREITO ADQUIRIDO A REGIME JURÍDICO: INEXISTÊNCIA. PRECEDENTES. 1. O Supremo Tribunal Federal firmou sua jurisprudência no sentido de que servidor público não tem direito adquirido a regime jurídico, sendo possível seu reenquadramento em outro nível da carreira, ainda que tenha sido aposentado no último nível desta. 2. Agravo regimental improvido.” (AI-AgR 769.533, Rel. Min. Ellen Gracie, Segunda Turma, DJe 11.12.2009).
+“Agravo regimental em agravo de instrumento. 2. Servidores Públicos. Aposentados. Reenquadramento. Direito adquirido a regime jurídico. Impossibilidade. Irredutibilidade de vencimentos. Não configurado. 3. Agravo regimental a que se nega provimento.” (AI-AgR 633.501, de minha relatoria, Segunda Turma, DJe 18.4.2008).
+“RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. NOVO PLANO DE CARGOS E SALÁRIOS. RECLASSIFICAÇÃO NA CARREIRA. INEXISTÊNCIA DE DIREITO ADQUIRIDO À MANUTENÇÃO NA ÚLTIMA REFERÊNCIA. Os fundamentos do acórdão do Tribunal local relativos à isonomia, com base no artigo 5º, caput da Lei Maior, entre servidores inativos e ativos, bem como os referentes ao artigo 40, §§ 3º e 4º da Constituição Federal, não são por sí suficientes, pois perdem relevo diante do entendimento consagrado nesta Corte de que inexiste direito adquirido a regime jurídico. Embargos de declaração recebidos em parte, tão-somente para esclarecer que os recorridos, ora embargantes, são servidores da ativa e não aposentados.” (RE-ED 255.328, Rel. Min. Ellen Gracie, Primeira Turma DJ 8.11.2002).
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1o , do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 10 de dezembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
