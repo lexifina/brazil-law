@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão que julgou inconstitucional a cobrança, pelo Município de Curitiba, de IPTU calculado com base em alíquotas progressivas, em período anterior ao advento da Emenda Constitucional 29/2000.
+O entendimento a respeito da vedação da cobrança do IPTU mediante a aplicação de alíquotas progressivas em período anterior ao advento da Emenda Constitucional 29/2000 alinha-se com a jurisprudência desta Corte (Súmula 668).
+Ademais, a superveniência da Emenda Constitucional 29/2000 não tem o condão de tornar válida a progressividade de alíquotas do IPTU em período anterior à sua vigência, porquanto seus efeitos se irradiam para o futuro. Nesse sentido, o RE 293.451–AgR (rel. min. Carlos Veloso, DJ de 08.02.2002), cuja ementa transcrevo:
+“CONSTITUCIONAL. TRIBUTÁRIO. IPTU. ALÍQUOTAS. PROGRESSIVIDADE. I. - Inconstitucionalidade da progressividade das alíquotas do IPTU. RE 153.771-MG, Moreira Alves, Plenário, 20.11.96. II. - Não aplicabilidade, no caso, da EC 29/2000, que não retroage. III. - Agravo não provido.”
+O município sustenta, ainda, a possibilidade de declaração de inconstitucionalidade com efeitos limitados no controle incidental quando necessária à preservação da segurança das relações jurídicas e prevalência do interesse social.
+Em princípio, a técnica da modulação temporal dos efeitos de decisão reserva-se ao controle concentrado de constitucionalidade, em face de disposição legal expressa.
+Não obstante, e embora em pelo menos duas oportunidades o Supremo Tribunal Federal tenha aplicado a técnica da modulação dos efeitos da declaração de inconstitucionalidade no controle difuso da constitucionalidade das leis, é imperioso ter presente que a Corte o fez em situações extremas, caracterizadas inequivocamente pelo risco à segurança jurídica ou ao interesse social.
+Não é o caso dos autos. Esta Corte, em inúmeras oportunidades, entendeu serem inconstitucionais legislações municipais semelhantes. No entanto, em nenhuma dessas decisões reconheceu-se a existência das razões de segurança jurídica, boa-fé e excepcional interesse social invocadas pelo recorrente. Confira-se, v.g., o RE 370.734-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 22.04.2005), o AI 548.684-AgR (rel. min. Carlos Britto, Primeira Turma, DJ de 17.03.2006), o AI 533.800-AgR (rel. min. Eros Grau, Primeira Turma, DJ de 09.09.2005) e o AI 541.221-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 02.09.2005).
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 10 de dezembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
