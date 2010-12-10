@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. COMPETÊNCIA DOS JUIZADOS ESPECIAIS: MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“CONSTITUCIONAL E PROCESSUAL CIVIL. ACÓRDÃO DE TURMA RECURSAL. AÇÃO RESCISÓRIA. COMPETÊNCIA DA TURMA RECURSAL. DECISÃO MONOCRÁTICA. AGRAVO REGIMENTAL.
+1. A competência para a revisão, desconstituição ou anulação das decisões judiciais (seja ela pela via recursal, rescisória, por ação anulatória ou mesmo querela nullitatis), é do próprio sistema que a proferiu, assim o sendo também quanto à sua execução.
+2. Precedentes da Terceira Seção desta Corte e da Quinta Turma do STJ” (fl. 317).
+2. O Recorrente alega que teria sido contrariado o arts. 98, inc. I, 108, inc. I, alínea b, e 125, § 1º, da Constituição da República.
+Sustenta que:
+“O acórdão recorrido está baseado na falsa premissa de que a teor do disposto nos artigos 102, inciso I, letra 'j' e 105, inciso I, letra 'e', da CF/88, a rescisão das decisões proferidas pelos órgãos judiciários compete a si próprios, quando colegiados, ou àquele de hierarquia superior ao que proferiu o julgado. Muito embora na maioria dos casos seja possível adotar esse princípio, casos há em que a sua adição contrariaria a competência estabelecida na Constituição. É o caso da ação rescisória das sentenças dos Juizados Especiais (...) A CF/88, quando dispôs sobre a criação de Turmas Recursais dos Juizados Especiais, previu apenas a competência para julgar recursos (...) a rescisória é uma ação com previsão constitucional, e não um recurso. Por essa razão, inclusive, a jurisprudência não a tem aceitado como sucedâneo recursal ” (fls. 336-337).
+Requer seja declarada a competência do Tribunal Regional Federal da 4ª Região para o processamento e julgamento da ação rescisória.
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+4. Tem-se no acórdão recorrido:
+“Os Juizados Especiais Federais constituem um microssistema dentro da Justiça Federal. Conquanto nela estejam inseridos, a despeito de sua inegável hierarquia administrativo-funcional em relação aos Tribunais Regionais Federais (...), os Juizados Especiais Federais têm, quanto ao aspecto jurisdicional, estrutura peculiar e apartada, além de princípios próprios (art. 2º da Lei nº 9.099/95). Essa a razão pela qual as decisões proferidas pelos Juízes Federais investidos de jurisdição nos Juizados Especiais Federais não estão submetidas à revisão pelos Tribunais Regionais Federais. Nesse sentido os seguintes precedentes do STF e do STJ (...)” (fl. 313).
+O Tribunal a quo, portanto, apreciou a matéria com base na aplicação da legislação infraconstitucional, especificamente a Lei n. 9.099/1995. Eventual ofensa à Constituição, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. COMPETÊNCIA. AÇÃO RESCISÓRIA. JUIZADO ESPECIAL FEDERAL. OFENSA INDIRETA. PRECEDENTES. AGRAVO IMPROVIDO. I – A análise da competência para julgamento de ação rescisória, proposta contra decisão proferida em Juizado Especial Federal, envolve a análise de legislação infraconstitucional, o que é inviável nesta sede recursal. Precedentes. II – Agravo regimental improvido ” (RE 596.568-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 10.11.2010).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. LEI N. 9.099/95. COMPETÊNCIA DA TURMA RECURSAL DO JUIZADO ESPECIAL FEDERAL. CONTROVÉRSIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 522.267-AgR, de minha relatoria, Primeira Turma, DJe 7.8.2009).
+“PROCESSO CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. COMPETÊNCIA. AÇÃO RESCISÓRIA. JUIZADO ESPECIAL FEDERAL. TURMA RECURSAL. OFENSA INDIRETA. LEI 9.099/95. 1. O Tribunal Regional Federal declinou da competência para julgar ação rescisória de julgados de Turma Recursal. Ofensa ao art. 108, I, b, da Constituição Federal, no caso, se existente, seria indireta, porquanto dependente do exame da Lei 9.099/95, matéria, pois, de índole processual. 2. O agravante pretende o reexame da interpretação que o Tribunal de origem, no regular exercício de sua competência, conferiu às normas infraconstitucionais, o que é inviável em sede de recurso extraordinário. 3. Agravo regimental improvido” (RE 525.971-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 3.4.2009).
+Não há, pois, o que prover quanto às alegações do Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 10 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
