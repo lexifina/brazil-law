@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. DEFERIMENTO DE TUTELA ANTECIPADA EM AÇÃO CAUTELAR: SÚMULA 735 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 2ª Região:
+“AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. ESCOLHA DA LISTA TRÍPLICE PARA OS CARGOS DE REITOR E VICE-REITOR. UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO – UNIRIO.
+“1. A reforma da decisão interlocutória de 1º grau, em sede de agravo de instrumento, está limitada aos casos de decisão teratológica, com abuso de poder ou em flagrante descompasso com a Constituição, a lei ou com a orientação consolidada de Tribunal Superior ou deste Tribunal, sendo certo que não é o caso dos autos.
+2. A Agravo interno não provido” (fl. 72).
+2. O Recorrente alega que teriam sido contrariados o art. 207 da Constituição da República.
+Argumenta que “o acórdão (..) incorre em manifesto equívoco, pois, ao manter a r. decisão proferida pelo d. Juízo de primeiro grau, opôs-se, frontalmente em sua premissa básica, ao estabelecido no art. 207 da Constituição da República, que consubstancia o princípio da autonomia universitária” (fl. 80, grifos no original).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste à Recorrente.
+4. As medidas antecipatórias e cautelares, por não representarem pronunciamento definitivo, mas provisório, a respeito da controvérsia, devem ser confirmadas (ou, se for o caso, revogadas) pela sentença que julgar o mérito da causa, podendo, ademais, ser modificadas ou revogadas a qualquer tempo, até mesmo pelo órgão que as deferiu.
+Assim, a natureza precária e provisória do juízo desenvolvido em liminar ou tutela antecipada não viabiliza o recurso extraordinário, pois somente com a sentença é que se terá o pronunciamento definitivo, na instância específica, sobre as questões jurídicas enfrentadas na apreciação das liminares. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO QUE MANTEVE DEFERIMENTO DE MEDIDA LIMINAR EM AÇÃO CIVIL PÚBLICA. SÚMULA 735 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (RE 559.691-AgR, de minha relatoria, Primeira Turma, DJe 7.8.2009).
+“RECURSO. Extraordinário. Inadmissibilidade. Acórdão recorrido que deu provimento a agravo de instrumento para indeferir liminar, reformando decisão que deferira liminar na ação cautelar originária para autorizar a parte agravante 'a participar com seus animais, de todos os eventos da raça Mangalarga Marchador'. Aplicação da súmula 735. Agravo improvido. Não cabe recurso extraordinário contra decisão que defere ou indefere medida cautelar. 3. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte” (AI 552.178-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 28.11.2008).
+"RECURSO EXTRAORDINÁRIO - ACÓRDÃO QUE CONFIRMA INDEFERIMENTO DE LIMINAR MANDAMENTAL - ATO DECISÓRIO QUE NÃO SE REVESTE DE DEFINITIVIDADE - MERA ANÁLISE DOS PRESSUPOSTOS DO 'FUMUS BONI JURIS' E DO 'PERICULUM IN MORA' - AUSÊNCIA DE QUALQUER PRONUNCIAMENTO SOBRE OS FUNDAMENTOS CONSTITUCIONAIS DA IMPETRAÇÃO FUNDAMENTAL - INVIABILIDADE DO RECURSO EXTRAORDINÁRIO INTERPOSTO PELA EMPRESA CONTRIBUINTE - ACOLHIMENTO DA POSTULAÇÃO RECURSAL DEDUZIDA PELO MUNICÍPIO - AGRAVO PROVIDO. - Não cabe recurso extraordinário contra decisões que concedem ou que denegam medidas cautelares ou provimentos liminares, pelo fato de que tais atos decisórios - precisamente porque fundados em mera verificação não conclusiva da ocorrência do 'periculum in mora' e da relevância jurídica da pretensão deduzida pela parte interessada - não veiculam qualquer juízo definitivo de constitucionalidade, deixando de ajustar-se, em conseqüência, às hipóteses consubstanciadas no art. 102, III, da Constituição da República. Precedentes" (AI 439.613-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 17.10.2003).
+5. Incide na espécie vertente a Súmula 735 do Supremo Tribunal Federal:
+“Não cabe recurso extraordinário contra acórdão que defere medida liminar”.
+Nada há a prover quanto às alegações da Recorrente.
+6. Pelo exposto, nego seguimento a este recurso (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 12 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
