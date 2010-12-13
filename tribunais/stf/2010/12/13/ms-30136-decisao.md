@@ -1,0 +1,20 @@
+D ECIS Ã O: Trata-se de mandado de segurança que me foi distribuído por dependência em virtude de ter deferido a liminar no MS 29.855 para que o impetrante pudesse realizar a prova prática de direção veicular do concurso para técnico de apoio especializado do Ministério Público da União, modalidade transporte.
+Relata o impetrante que efetivamente realizou referida prova prática, porém foi nela reprovado. Alega que a sua reprovação deveu-se a uma série de ilegalidades que teriam sido cometidas durante o exame. Nesse sentido, transcrevo da petição inicial:
+“O impetrante alega ter sido penalizado injustamente pelos examinadores da prova prática de direção do presente concurso atribuindo lhe injustamente, no mínimo, 6 pontos decorrentes de infrações que poderiam ser descaracterizadas em sede recursal através do uso do Tacógrafo como meio de prova.
+A primeira destas infrações que não ocorreram foi a denominada “Descontrolar-se no plano, no aclive ou no declive” – penalidade: (3) três pontos, situação que jamais ocorreu. O que houve foi que enquanto o candidato estava em um declive ele engrenou marcha incorretamente – penalidade (3) três pontos, e o motor do veículo parou de funcionar, penalidade (2) dois pontos, totalizando nesta seqüência de atos: 5 pontos.
+O candidato então, em ato contínuo, freou o veículo com o popular freio de “pé”, logo após puxou o freio de estacionamento (o popular freio de Mão) sem perder o comando e controle do volante do carro, acionou o pisca-alerta, ligou o veículo, desligou o pisca-alerta e prosseguiu no tráfego normalmente sem nenhum problema.
+Ora se existisse o descontrole do veículo outras faltas decorrentes deste ato deveriam ter sido anotadas, pois, de fato normalmente estão associadas como estacionar incorretamente na via ou desrespeito a sinalização horizontal e vertical e nada disso foi anotado no exame do impetrante.
+Cumpre esclarecer que o impetrante mudou a categoria da sua habilitação para o tipo “D” há apenas 30 dias antes da prova de direção e o fez em um micro-ônibus, veículo maior e de dirigibilidade mais complexa cometendo apenas uma falta leve naquela ocasião, não faz o menor sentido tal infração ser atribuída nessa prova quando dirigia a Van de marca/modelo Mercedes/Sprinter que é bem menor e de dirigibilidade menos complexa.
+Outra falta marcada erroneamente foi a de “engrenar as marchas incorretamente” - penalidade (3) três pontos, duas vezes, o que é uma inverdade. O candidato reconhece apenas e tão somente que engrenou marcha incorretamente uma vez e isso acarretou o desligamento sem justificativa do motor. Durante todo o exame o engreno de marchas ocorreu dentro da rotação adequada ao veículo.
+Nesse tipo de situação o impetrante conseguiria provar facilmente o seu direito se lhe fosse dado meio técnico adequado para exercer o seu direito de ampla defesa que se traduz na utilização de Tacógrafo, instrumento criado inclusive para esse fim qual seja avaliar tecnicamente a maneira de como os motoristas estão dirigindo. E isso não ocorreu.
+O impetrante então recorreu administrativamente do resultado (DOC. ANEXO), mas sem contar a utilização de meio técnico legítimo, TACÓGRAFO, para atestar de fato as suas alegações e exercer o seu pleno direito a ampla defesa.
+E mais, a delegação de execução da terceira etapa dada pelo CESPE a Polícia Civil para a realização da prova de direção não respeita o estatuto do órgão, como também aos princípios da legalidade e da publicidade.”
+As alegações deduzidas pelo impetrante têm como pano de fundo eventos cujo esclarecimento exigiria ampla dilação probatória.
+Além disso, não há espaço no rito do mandado de segurança para se questionar a pontuação atribuída ao candidato na prova prática, por se tratar de julgamento que se insere no campo da discricionariedade regrada pelo edital do concurso. A possibilidade de atribuir esse juízo ao avaliador nitidamente não viola qualquer dos princípios mencionados.
+Do exposto, nego seguimento ao mandado de segurança.
+Publique-se.
+Arquive-se.
+Brasília, 13 de dezembro de 2010
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
