@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo regimental contra decisão monocrática que negou seguimento a recurso extraordinário, ao fundamento de que a natureza da matéria versada nos autos reveste-se de índole infraconstitucional.
+No agravo regimental, sustenta-se, em síntese, que há matéria constitucional em debate.
+Assiste razão a agravante.
+Verifico que o assunto versado na petição do recurso extraordinário é análogo ao do RE-RG 607.607, Rel. Min. Marco Aurélio, recurso-paradigma em que foi reconhecida a repercussão geral.
+Portanto, não subsiste o fundamento da decisão impugnada.
+Assim, reconsidero a decisão e determino a remessa dos autos ao tribunal de origem, para que observe o disposto no art. 543-B do Código de Processo Civil.
+Publique-se.
+Brasília, 13 de dezembro de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
