@@ -1,0 +1,18 @@
+Decisão: 1. Trata-se de embargos de declaração opostos pelo impetrante, contra decisão monocrática que negou seguimento ao pedido, nos seguintes termos:
+    “(...) 3. Alega a impetrante violação a seu direito líquido e certo. É que seu ingresso no cargo [Titular do Registro de Imóveis e Hipotecas e Títulos e Documentos da Comarca de São Desidério-BA] se deu através de certame público, observados todos os preceitos constitucionais e infraconstitucionais. Afirma, ademais, que há contradição entre a fundamentação constante do ato que determinou a declaração de vacância da serventia do Cartório de Registro de Imóveis da Comarca de São Desidério falta de delegado aprovado em concurso público regular com o fato de a impetrante ser a titular daquele Cartório, por força de concurso público. Daí requerer a concessão de liminar para suspender os efeitos da decisão que declarou a vacância da serventia
+    4. Feito esse aligeirado relato da causa, passo à decisão. Fazendo-o, tenho que não merece seguimento o presente mandado de segurança. É que, da análise dos documentos juntados aos autos, verifica-se que a impetrante está afastada da titularidade da serventia, em razão de processo administrativo disciplinar (Processo nº 424.585/2003). Processo contra o qual foi impetrado mandado de segurança no Tribunal de Justiça do Estado da Bahia. Ciente de tais fatos, o CNJ diligenciou e obteve informações do Juízo de Direito da Comarca de São Desidério-BA. Informações de que a serventia em questão não conta com titular nomeado antes do advento da Constituição de 1988, nem com delegado aprovado em concurso . Assim, tenho que a impetrante, afastada da serventia extrajudicial, pretende, na verdade, ser reconduzida ao posto que ocupava. Mas o fato é que esse afastamento se deu por ato do Tribunal de Justiça do Estado da Bahia e não do CNJ. Sendo assim, além de não competir, originariamente, a este Supremo Tribunal Federal julgar mandados de segurança contra ato de Tribunal de Justiça Estadual, escoou-se há muito o prazo decadencial de cento e vinte dias de que trata o art. 23 da Lei 12.016/2009.
+    5. Ante o exposto, nego seguimento ao mandado de segurança.
+    6. Intime-se o Advogado-Geral da União desta decisão.
+    Publique-se.
+    Brasília, 13 de dezembro de 2010.
+    Ministro Ayres Britto
+    Relator”.
+    Em suma, alega a embargante a existência de obscuridade (a) na análise de sua pretensão, que não diz respeito à sua recondução, mas sim à impossibilidade de inclusão da serventia que titularizava no rol das serventias vagas; e (b) na tempestividade da impetração, que observou a publicação do ato coator no Diário Oficial de 12/07/2010.
+    2. Os embargos declaratórios não apresentam nenhuma alegação da ocorrência de efetiva obscuridade, mas se limitam a acrescentar novos argumentos à concessão da ordem pleiteada. A decisão embargada possui motivação clara sobre o objetivo de reintegração ao cargo por meio da exclusão da serventia da lista de vacância: “Assim, tenho que a impetrante, afastada da serventia extrajudicial, pretende, na verdade, ser reconduzida ao posto que ocupava”. Ademais, o decurso do prazo decadencial foi mencionado como obter dictum e não constitui fundamento para a denegação da segurança.
+    A decisão embargada observa a jurisprudência do Supremo Tribunal Federal sobre o assunto e, não havendo qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 535 do CPC, impõe-se a rejeição dos presentes embargos declaratórios.
+    3. Diante do exposto, rejeito os embargos de declaração.
+    Publique-se. Intimem-se.
+    Brasília, 10 de fevereiro de 2014.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
