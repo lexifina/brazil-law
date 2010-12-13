@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1095, de 10 de dezembro de 2010
+Dispõe sobre a apresentação da Declaração de Ajuste Anual do Imposto sobre a Renda referente ao exercício de 2011, ano-calendário de 2010, pela pessoa física residente no Brasil.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 88 da Lei nº 8.981, de 20 de janeiro de 1995, nos arts. 7º, 10, 14 e 25 da Lei nº 9.250, de 26 de dezembro de 1995, e no art. 27 da Lei nº 9.532, de 10 de dezembro de 1997, resolve:
