@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte nas alíneas “a” e “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado (fls. 66):
+“ADMINISTRATIVO - SERVIDOR EXTRAJUDICIAL - APOSENTADORIA - PROVENTOS - EQUIPARAÇÃO ENTRE ESCREVENTE JURAMENTADO E OFICIAL DE JUSTIÇA - INVIABILIADE - A teor da Lei Estadual 11.660/1994, - cujo art. 32 e seus parágrafos alteram o art. 99 da Lei 11.050/1993 -, inexiste vínculo entre os proventos de aposentadoria dos servidores do Registro Público Civil com os do Poder Judiciário. Se assim é, não há equiparação entre os proventos de Escrevente Juramentado – servidor extrajudicial – e os de Oficial de Justiça, este abrangido no âmbito judicial. A equiparação estabelecida no Decreto 21.204/1981, referia-se aos valores das contribuições previdenciárias, para efeito de assistência pelo IPSEMG, razão pela qual não se prestava à equiparação de proventos entre servidores extrajudiciais e judiciais. Ademais, a igualdade de contribuições previdenciárias entre os detentores de cargos extrajudiciais e judiciais não tem o condão de levar à conclusão de que também deveriam igualar-se os respectivos proventos.”
+2. Pois bem, a parte recorrente alega violação ao inciso XV do art. 37, aos §§ 2º e 8º do art. 40, bem como ao § 3º e inciso V do art. 201 da Magna Carta de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do então Subprocurador-Geral Roberto Monteiro Gurgel Santos, opina pelo não-conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. Isso porque a controvérsia sob exame não transborda os limites do âmbito infraconstitucional. Logo, ofensa à Constituição Federal, se existente, apenas ocorreria de forma reflexa ou indireta.
+5. Vejam-se, por amostragem, os seguintes precedentes: AIs 601.973, da relatoria do ministro Joaquim Barbosa; 603.268-AgR, da relatoria do ministro Sepúlveda Pertence; 676.392-AgR, da relatoria do ministro Eros Grau; 719.672, da relatoria do ministro Dias Toffoli; e 756.996, da relatoria do ministro Marco Aurélio.
+6. À derradeira, ressalto que a interposição do apelo extremo pela alínea “c” do inciso III do art. 102 do Magno Texto pressupõe que o acórdão recorrido tenha julgado válida lei ou ato de governo local contestado ante a Constituição, o que não se deu no caso.
+Isso posto, e frente ao art. 557 do CPC e ao § 1° do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 13 de dezembro de 2010.
+Ministro AYRES BRITTO
+Relator
