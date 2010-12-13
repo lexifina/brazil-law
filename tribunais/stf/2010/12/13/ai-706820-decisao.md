@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor:
+“RECURSO DE EMBARGOS - AUXÍLIO CESTA-ALIMENTAÇÃO - PREVISÃO EM ACORDO COLETIVO - NÃO-EXTENSÃO AOS APOSENTADOS. A jurisprudência desta Corte Superior consagra posicionamento no sentido de prestigiar o pactuado em norma coletiva, invocando-se o princípio da autonomia da vontade coletiva, que se extrai da norma do art. 7º, inciso XXVI, da Constituição da República. Logo, havendo previsão expressa em acordo coletivo de que o benefício da cesta-alimentação destina-se apenas aos empregados em atividade, dada sua natureza indenizatória, não fazem jus os reclamantes à integração da referida parcela. Recurso de embargos não conhecido.” (Fls. 158)
+Nas razões do recurso extraordinário, a ora agravante alega ofensa ao preceito do art. 5º, XXXVI, da Constituição federal.
+A análise da alega ofensa ao art. 5º, XXXVI, da Constituição, demanda reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida, bem como reexame prévio da interpretação das cláusulas contratuais. Isso inviabiliza o processamento do recurso extraordinário, em face da vedação contida nos enunciados das Súmulas 279 e 454 desta Corte. Nesse sentido: AI 707.974, rel. min. Cármen Lúcia, DJ de 18.06.2008; AI 695.145, rel. min. Marco Aurélio, DJE de 23.04.2008; RE 548.055, rel. min. Menezes Direito, DJ de 22.10.2007; RE 543.480, rel. min. Cezar Peluso, DJ de 11.10.2007; AI 699.685, rel. min. Ricardo Lewandowski, DJE de 03.04.2008 e AI 667.469, rel. min. Gilmar Mendes, DJ de 08.08.2007.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 13 de dezembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
