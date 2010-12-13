@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. INDEFERIMENTO DE PROVA PERICIAL. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“EMBARGOS À EXECUÇÃO. CHEQUE. ENDOSSO COMPROVADO. DESNECESSIDADE DE PROVA PERICIAL. NULIDADE INOCORRENTE.
+I. O simples fato do juízo ter determinado a juntada da cártula original não o torna parcial e tampouco nulifica a decisão, pois a cópia do cheque já estava nos autos do executivo, permitindo assim o contraditório e ampla defesa.
+II. Desnecessária a realização de prova pericial, uma vez que a prova documental é suficiente para o deslinde do feito.
+III. Prova dos autos que demonstra que o embargante, de fato, endossou o cheque, evidenciando sua legitimidade passiva.
+Recurso desprovido. Unânime” (fl. 61).
+3. No recurso extraordinário, o Agravante alega que teria sido contrariado o art. 5º, inc. LIV e LV, da Constituição da República.
+Argumenta que “não se pode admitir que meras suposições e simples conjecturas sejam suficientes para declinar um juízo condenatório quando se pode obter a verdade real sob pena de se abolir a segurança jurídica” (fl. 79).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de não terem sido prequestionados os dispositivos constitucionais tidos como contrariados (fls. 85-87).
+5. No agravo de instrumento, o Agravante rebate a decisão agravada, afirmando haver o prequestionamento do tema e, no mérito, traz os argumentos expendidos no extraordinário.
+Analisada a matéria posta à apreciação, DECIDO.
+6. Inicialmente, afasta-se o fundamento da decisão agravada. A matéria foi prequestionada, inclusive com a devida interposição de embargos declaratórios. Todavia, a superação desse óbice não permite acolher a pretensão da Agravante, pois a ele não assiste razão na forma do direito vigente.
+7. Não há que se falar em cerceamento de defesa pelo indeferimento da produção de prova pericial. Verificando-se ter sido dada oportunidade para às partes as manifestações processuais cabíveis e a produção de provas, cabe ao juiz da causa o exame da suficiência destas e a eventual necessidade de dilação probatória. Confiram-se, a propósito, o seguinte julgado:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA ACERCA DA NECESSIDADE DE PRODUÇÃO DE PROVA PERCIAL. QUESTÃO RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA ÀS GARANTIAS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA. INEXISTÊNCIA. 1. Não caracteriza cerceamento de defesa a decisão que, motivadamente, indefere determinada diligência probatória. Precedentes: AIs 382.214, da relatoria do ministro Celso de Mello; e 114.548-AgR, da relatoria do ministro Sepúlveda Pertence. 2. Agravo desprovido” (AI 788.835-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJe 17.9.2020 grifos nossos).
+“Agravo regimental no agravo de instrumento. ofensa indireta ou reflexa à Constituição Federal. Indeferimento de diligência probatória. Cerceamento de defesa. Inocorrência. Precedentes. 1. A afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. 2. A jurisprudência predominante desta Suprema Corte é no sentido de que não constitui constrangimento ilegal a prolação de decisão de primeiro grau que, de maneira fundamentada, indefere pedido de produção de prova pericial. 3. Agravo regimental desprovido” (AI 728.267-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 27.8.2010).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INDEFERIMENTO DE PROVA PERCIAL. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA . PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 759.089-AgR, de minha relatoria, Primeira Turma, DJe 30.4.2010 grifos nossos).
+“A alegada ofensa à Lei Maior (artigo 5º, LV), em virtude de eventual cerceamento de defesa, por negativa de produção de prova pericial, se houvesse, seria indireta, a depender da análise de legislação infraconstitucional, hipótese inviável em sede extraordinária. 2. Agravo regimental improvido” (AI 611.359-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 1º.7.2009).
+8. Além disso, este Supremo Tribunal assentou que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa constitucional indireta. Nesse sentido:
+“A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil ” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+Nada há, pois, a prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput , do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se .
+Brasília, 13 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
