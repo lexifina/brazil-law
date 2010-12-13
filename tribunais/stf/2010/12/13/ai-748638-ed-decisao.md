@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+Embargos de declaração opostos pelo Estado de Minas Gerais contra a decisão de folhas 719/720 que homologou a desistência do recurso e a renúncia ao direito sobre o qual se funda a ação manifestadas pela ora embargada, Companhia Brasileira de Petróleo Ipiranga S.A..
+Essa decisão foi publicada em 26/10/10, com certidão de trânsito em julgado em 5/11/10 (fl. 721).
+Alega o embargante que “o substabelecimento de procuração outorgada ao procurador Dr. Aloísio Augusto Mazeu Martins (fls. 27 dos autos), o qual subscreve o pedido de desistência do recurso, bem como a renúncia ao direito sob qual se funda ação não possui poderes expressos para desistir do recurso, tampouco para renunciar ao direito sob a qual se funda a ação” (fl. 725). Sustenta, ainda, que “esse substabelecimento perdeu sua validade em 31/12/2004” (fl. 726).
+Decido.
+Com razão o embargante.
+De fato, compulsando os autos, verifica-se que a procuração de folhas 29/30 e o substabelecimento de folha 28 que, inclusive, perdeu sua validade em 31/12/04, não incluem poderes específicos para desistir de recurso e renunciar ao direito sobre o qual se funda a ação.
+Ressalte-se que as procurações de folhas 64 e 237 também não incluem tais poderes.
+Não obstante ter sido certificado o trânsito em julgado da decisão de folhas 719/720, esta Corte firmou entendimento no sentido de que, no caso de ocorrência de erro material, a decisão poderá ser corrigida por meio de embargos de declaração nos termos do artigo 463, inciso II, do Código de Processo Civil. Nesse sentido, extrai-se da decisão da Ministra Cármen Lúcia, no Recurso Extraordinário nº 568.546/RS, o seguinte trecho que bem aborda a questão:
+“5. Houve erro material na decisão de fls. 76-78, que tratou da necessidade de atendimento ao requisito sócio-econômico para a percepção do benefício assistencial, quando deveria ter tratado da revisão do benefício previdenciário de pensão por morte, objeto do recurso extraordinário.
+6. Todavia, embora tenha sido certificado o trânsito em julgado dessa decisão, é pacífico o entendimento de que o erro material não permite que se instale a imutabilidade da decisão pelo seu trânsito em julgado, podendo ser corrigido de ofício por seu prolator, nos termos do art. 463, inc. I, do Código de Processo Civil.
+Nesse sentido foi o julgamento da Questão de Ordem no Recurso Extraordinário n. 190.117/DF, Relator o Ministro Moreira Alves, Primeira Turma, DJ 19.3.1999, no qual ficou esclarecido que, diferentemente do erro de fato, o erro material da decisão pode ser corrigido de ofício, mesmo após ter ocorrido o seu trânsito em julgado:
+'EMENTA: Recurso extraordinário. Questão de ordem. - Decisão monocrática que, por equívoco, julgou prejudicado recurso extraordinário em virtude do provimento de recurso especial que, em embargos de declaração com efeito modificativo, acabou por não ser conhecido. - No caso, o que houve não foi erro material, mas, tipicamente, erro de fato que não pode ser corrigido de ofício ou por petição do interessado, após o trânsito em julgado da decisão que nele incidiu (...)' (grifos nossos).
+7. Assim, torno sem efeito a certidão de trânsito em julgado constante da fl. 85”.
+No mesmo sentido, anote-se:
+“SENTENÇA - ERRO MATERIAL - CORREÇÃO - OPORTUNIDADE. Possível é a correção de erro material a qualquer tempo - artigo 463 do Código de Processo Civil. Consubstancia tal espécie de erro o fato de o provimento judicial consubstanciar a "improcedência da reclamação" (ação trabalhista) quando o órgão julgador defrontou-se com recurso restrito a uma das matérias controvertidas - a questão salarial, ou seja, ao Plano Bresser” (RE nº 199.466/PR-QO, Segunda Turma, Relator o Ministro Marco Aurélio, DJ de 15/5/98).
+“QUESTÃO DE ORDEM. EXISTÊNCIA DE ERRO MATERIAL NO ACÓRDÃO. POSSIBILIDADE DE CORREÇÃO. ART. 463, INC.I, DO CÓDIGO DE PROCESSO CIVIL. CONSTATADA A EXISTÊNCIA DE INEXATIDAO MATERIAL NO ACÓRDÃO, AUTORIZA-SE, NOS TERMOS DO ART. 463, INC. I,DO CÓDIGO DE PROCESSO CIVIL, A CORREÇÃO PELO PRÓPRIO JULGADOR, A QUALQUER TEMPO, DE OFICIO OU A REQUERIMENTO DA PARTE INTERESSADA. QUESTÃO DE ORDEM QUE SE DECIDE NO SENTIDO DE ESCLARECER QUE O PROVIMENTO DO RECURSO IMPLICOU A PROCEDENCIA DO PEDIDO INICIAL” (RE nº 161.174/SP-QO, Primeira Turma, Relator o Ministro Ilmar Galvão, DJ de 17/10/95).
+Anote-se, também, as seguintes decisões monocráticas: RE nº 231.465/SC, Relatora a Ministra Cármen Lúcia, DJe de 2/9/08 e RE nº 558.665/MG, Relator o Ministro Celso de Mello, DJe de 18/12/08.
+Ante o exposto, torno sem efeito a decisão de folhas 719/720 e determino à Secretaria Judiciária que cancele a certificação de trânsito em julgado, ficando facultado à embargada, Companhia Brasileira de Petróleo Ipiranga S.A., trazer aos autos instrumento de mandato que inclua poderes específicos para desistir de recurso e renunciar ao direito sobre o qual se funda a ação.
+Publique-se.
+Brasília, 13 de dezembro de 2010.
+Ministro D IAS T OFFOLI
+Relator
