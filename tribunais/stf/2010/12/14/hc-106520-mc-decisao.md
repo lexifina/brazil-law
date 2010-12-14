@@ -1,0 +1,27 @@
+D ECIS Ã O :
+Cuida-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão singular de Ministro do Superior Tribunal de Justiça (relator do HC 181.831). Decisão indeferitória do provimento cautelar ali requestado.
+2. Pois bem, antes mesmo do julgamento do mérito da ação constitucional manejada na Corte Superior de Justiça, o impetrante postula, aqui, a imediata concessão do habeas corpus. Isso porque o paciente “permanece internado no Complexo Médico Penal, mesmo após já ter cumprido a pena imposta”. Estes os fatos retratados na impetração:
+“[...]
+O impetrado foi condenado nas sanções do art. 155, caput, do Código Penal, cuja pena aplicada foi de 01 (um) ano e 06 (seis) meses de reclusão e 15 (quinze) dias-multa (sentença em anexo).
+O impetrado foi recolhido na cadeia pública no dia 02 de fevereiro de 2009 (mandado de prisão em anexo) permanecendo preso até a data 25 de maio de 2010, data em que foi transferido para o Complexo Médico Penal do Estado do Paraná, em virtude de doença mental superveniente (decisão convertendo pena e medida de segurança e guia de transferência em anexo).
+Note-se que, o impetrado está privado de sua liberdade desde 02 de fevereiro de 2009, perfazendo um período de 1 (ano) 6 (seis) meses e 7 (sete) dias, tempo superior a pena imposta.
+[...] (sic)”
+3. Presente esta moldura, a defesa entende que o acusado não pode permanecer internado por tempo superior à pena fixada na sentença. Daí o pedido de pronta expedição de alvará de soltura, não obstante o óbice da Súmula 691 do STF.
+4. Feita esta síntese do pedido, decido. Fazendo-o, acentuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+5. No caso, tenho que a liminar é de ser deferida, apenas parcialmente. Digo isso porque o exame prefacial dos autos não me permite conhecer, minimamente, os motivos pelos quais a liberdade do paciente foi negada pelo Juízo da Execução Penal. Autos que também não foram instruídos com eventual pronunciamento do Tribunal de Justiça do Paraná sobre a matéria ventilada neste HC. Tudo a dificultar, ou a tornar temerária, a imediata expedição de um alvará de soltura do paciente, até mesmo pela consideração de que o acusado se acha
+“[...]
+...acometido de doença mental, mais especificamente 'Esquizofrenia paranóide (F20-0)' e 'transtornos mentais e de comportamento decorrentes do uso de Canabinóides (F12)', conforme laudo de exame psiquiátrico/psicológico de fls. 130/131.
+A ilustre representante do Ministério Público, em manifestação de fls. 132, requer a substituição da pena privativa de liberdade por medida de segurança, fazendo-se expedir Guia de internação.
+Entendo que razão assiste ao Ministério Público. Consoante dispõe o art. 183, da Lei de Execução Penal: 'Quando, no curso da execução da pena privativa de liberdade, sobrevier doença mental ou perturbação da saúde mental, o juz, de ofício, a requerimento do Ministério Público ou da autoridade administrativa, poderá determinar a substituição da pena por medida de segurança.'
+[...]
+Isto posto, e considerando tudo mais que dos autos constam, com fundamento no art. 183, da Lei de Execução Penal, SUBSTITUO a pena privativa de liberdade imposta ao sentenciado WILLIAN GUSSI DE OLIVEIRA, por MEDIDA DE SEGURANÇA consistente em INTERNAÇÃO a ser cumprida em Hospital de Custódia e Tratamento Psiquiátrico do Estado (Complexo Médico-Penal do Paraná – CMP), nos termos do art. 96, inciso I e art. 97, caput, 1ª parte, ambos do Código Penal, pelo prazo mínimo de 01 (UM) ANO, nos termos do § 1º, do art. 97, do Código Penal, findo o qual, deverá ser realizada a perícia médica a que alude o § 2º, da norma penal retro citada.
+[...]”
+6. Isso não obstante, o artigo 176 da Lei de Execuções Penais estabelece que, “em qualquer tempo, ainda no decorrer do prazo mínimo de duração da medida de segurança, poderá o juiz da execução, diante de requerimento fundamentado do Ministério Público ou do interessado, seu procurador ou defensor, ordenar o exame para que se verifique a cessação da periculosidade...”.
+7. Esse o quadro, defiro a liminar tão-somente para determinar que o Juízo da Vara Criminal da Comarca de Jaguapitã/PR ordene, no prazo de 05 (cinco) dias, a realização do exame de que trata o artigo 176 da LEP, salvo se já determinado.
+8. Requisitem-se, com a máxima urgência, inclusive por meio de fac-símile, informações circunstanciadas ao Juízo da Vara Criminal da Comarca de Jaguapitã/PR, bem como ao Tribunal de Justiça do Paraná; facultada a prestação de esclarecimentos sobre a petição inicial deste HC (cuja cópia acompanhará o expediente).
+9. Prestadas as informações, dê-se vista dos autos à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 14 de dezembro de 2010.
+Ministro A YRES B RITTO
+Relator
+Documento assinado digitalmente
