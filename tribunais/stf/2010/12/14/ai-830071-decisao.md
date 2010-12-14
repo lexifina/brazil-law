@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão porta a seguinte ementa:
+“Servidora pública do Poder Executivo federal. Função comissionada exercida no Poder Judiciário da União. Incorporação com base na função efetivamente exercida. Precedentes. Agravo regimental improvido” (fl. 90).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 2º, 5º, XXXVI, 37, caput e XV, 61, § 1º, II, a, 97, 167, II, e 169, § 1º, I e II, da mesma Carta.
+O agravo não merece acolhida. Isso porque, à exceção dos arts. 5º, XXXVI, e 97 da Constituição, os demais dispositivos constitucionais não forma objeto de debate e decisão prévios pelo Tribunal de origem. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+Além disso, o acórdão recorrido dirimiu a questão relativa à incorporação de quintos relativos à função efetivamente exercida com apoio unicamente nas normas infraconstitucionais pertinentes ao caso. Assim, a ofensa a Constituição, se ocorrente, seria indireta, o que inviabiliza o recurso extraordinário. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO CEDIDO. FUNÇÃO COMISSIONADA. INCORPORAÇÃO DE QUINTOS. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Inexistência de declaração de inconstitucionalidade pelo Tribunal a quo. Não há falar em ofensa ao art. 97 da Constituição da República nem em incidência da Súmula Vinculante 10 do Supremo Tribunal” (AI 766.633-AgR/DF, Rel. Min. Cármen Lúcia, Primeira Turma).
+Por fim, não procede a alegação de ofensa ao art. 97 da CF/88, uma vez que o Tribunal a quo, ao analisar o caso concreto, não declarou a inconstitucionalidade de lei ou afastou a sua aplicação, mas apenas aplicou a jurisprudência do STJ interpretando a legislação infraconstitucional aplicável à espécie. Assim, não há qualquer violação ao art. 97 da Constituição. Nessa linha, confira-se: RE 602.644/DF, de minha relatoria.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 14 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
