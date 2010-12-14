@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão com a seguinte ementa:
+ “ PRESTAÇÃO DE SERVIÇOS – TELEFONIA – ALTERAÇÃO DE LINHA TELEFÔNICA SEM PRÉVIO AVISO – AUSÊNCIA DE INTERCEPTAÇÃO – RESPONSABILIDADE DA CONCESSIONÁRIA CONFIGURADA – SENTENÇA MANTIDA.
+Se é inadmissível a alteração do número de qualquer linha telefônica sem prévio aviso ao consumidor, que dirá de linha instalada em escritório de advocacia no qual o contato externo é essencial para o desenvolvimento de suas atividades. Esse aviso se faz imprescindível para que o titular da linha, alertado de alteração, possa comunicar sua clientela com a necessária antecedência, além de providenciar a divulgação do número a outros interessados.”
+ No RE, sustenta-se ofensa ao artigo 5º, incisos II, X XXXV, LIV, LV da Constituição Federal.
+2.  O recurso não merece prosperar. Esta Corte fixou o entendimento segundo o qual a análise sobre a indenização por danos morais (art. 5º, X, da Carta Magna) limita-se ao âmbito de interpretação de matéria infraconstitucional, cujo exame se mostra inviável nesta sede recursal.
+3.  Ademais, rever a decisão da instância a quo para concluir de modo diverso implicaria o reexame de fatos e provas, o que é vedado em sede extraordinária (Súmula STF 279). Nesse sentido, cito: RE 558.036-AgR, rel. Min. Eros Grau, 2ª Turma, DJ 9.5.2008; AI 645.864-ED, rel. Min. Gilmar Mendes, 2ª Turma, DJ 18.4.2008; e AI 655.792-ED, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 8.2.2008.
+4.  No concernente às alegações de ofensa aos incisos II, XXXV, LIV e LV, do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, devido processo legal,   contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 14 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
