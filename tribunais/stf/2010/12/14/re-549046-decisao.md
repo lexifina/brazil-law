@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a e c, da Constituição) interposto de acórdão do Tribunal de Justiça do Mato Grosso do Sul assim ementado (fls. 194):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA - CONCURSO PÚBLICO - AUSÊNCIA DE COMPROVAÇÃO DE QUE O CARGO PARA O QUAL FORA APROVADO O CANDIDATO ESTÁ SENDO OCUPADO DE FORMA PRECÁRIA - MERA EXPECTATIVA DE DIREITO - BENEFÍCIOS DA JUSTIÇA GRATUITA - CONDENAÇÃO AO PAGAMENTO DAS DESPESAS PROCESSUAIS E DOS HONORÁRIOS ADVOCATÍCIOS - POSSIBILIDADE - OBRIGAÇÃO SOBRESTADA - NORMA INSCULPIDA NO ARTIGO 12 DA LEI 1.060/50 - SENTENÇA REFORMADA - RECURSO PARCIALMENTE PROVIDO.
+Não restando demonstrada a ocupação de forma precária do cargo para o qual fora aprovado o candidato que aspira à efetivação de sua nomeação, não pairam dúvidas quanto à inconsistência de sua pretensão.
+Por gerar a aprovação em concurso público uma mera expectativa de direito, compete à Administração, dentro do prazo de validade do procedimento, com base em seu poder discricionário e atendendo aos seus interesses, nomear candidatos aprovados de acordo com a sua conveniência, respeitando-se, contudo, a ordem de classificação, a fim de evitar arbítrios e preterições.
+O artigo 12 da Lei 1.060/50 determina que a cobrança das custas processuais e honorários advocatícios fique sobrestada pelo período de cinco anos, enquanto perdurar o estado de pobreza do beneficiário.
+No recurso extraordinário, sustenta-se violação do disposto no art. 37, II, III, IV e IX. O recorrente alega que foi aprovado em 29º lugar no concurso público para provimento do cargo de Odontólogo Clínico Geral do Município de Dourados, cuja previsão editalícia era de 17 vagas. Narra que, durante o prazo de validade do certame, o Município o contratou para exercer, de forma precária, a função de Odontólogo Clínico Geral (fls. 333), o que geraria o dever da Administração de investi-lo no cargo para o qual fora aprovado.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 37, II, III e IV, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto dos embargos de declaração de fls. 200-205, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Embora prequestionada a suposta afronta ao art. 37, IX, da Constituição, verifico que o acórdão recorrido analisou os fatos de forma diversa do constante no recurso extraordinário, ao deixar consignado que o recorrente fora contratado para exercer cargo diferente daquele para o qual concorrera. Transcrevo:
+“Torna-se necessário esclarecer que no Edital N 001/99 estampado à f. 24v. Estipulou a existência de 17 (dezessete) vagas para o cargo para o qual fora este aprovado em 29ª (vigésima nona) colocação (f. 121v.), qual seja, Odontólogo Clínico Geral.
+Tal edital estabeleceu da mesma forma a existência de 1 (uma) vaga para o cargo de Cirurgião Dentista.
+Conseqüentemente não pairam dúvidas quanto à diversidade visualizada entre as atribuições correlatas a cada um destes atos.
+Nessa linha de raciocínio, o fato de haver sido o recorrente contratado temporariamente, em período compreendido pelo prazo de validade do Concurso Público, para exercer um cargo diverso daquele para o qual fora aprovado, Cirurgião Dentista (f.29), não demonstra qualquer afronta cometida a seus interesses.” (fls. 197)
+Impossível acolher as alegações do recorrente e chegar a conclusão contrária à do acórdão recorrido sem o reexame de fatos e provas, o que faz incidir ao caso o óbice da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 14 de dezembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
