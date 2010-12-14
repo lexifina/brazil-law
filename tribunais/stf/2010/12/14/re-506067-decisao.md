@@ -1,0 +1,9 @@
+DECISÃO
+SERVIDOR – CONTRIBUIÇÃO SOCIAL – MAJORAÇÃO PERCENTUAL – CAUSA SUFICIENTE – INEXISTÊNCIA – IMPOSSIBILIDADE – RECURSO EXTRAORDINÁRIO – NEGATIVA DE SEGUIMENTO.
+1. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+2. A premissa de toda contribuição social é a necessidade de custeio da seguridade, isto decorre das regras constantes dos artigos 194 e 195 do Diploma da República. A seguridade social é financiada por toda a sociedade de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios e das contribuições sociais devidas por empregadores e trabalhadores, bem como relativas à receita de concurso de prognósticos. A regra segundo a qual nenhum benefício da seguridade social poderá ser criado, majorado ou estendido sem a correspondente fonte de custeio total, corresponde a relativa à exigibilidade de causa suficiente para a majoração, sob pena de esta última discrepar do móvel que lhe é próprio, ligado ao equilíbrio atuarial entre contribuições e benefícios, implicando, ai sim, um adicional sobre a renda do trabalhador.
+3. A decisão proferida pelo Tribunal de Justiça do Estado de Pernambuco está em consonância com a jurisprudência do Supremo – confira-se com o teor do decidido nas Ações Diretas de Inconstitucionalidade nºs 790 e 2010. Diante dos precedentes, nego seguimento ao extraordinário.
+4. Publiquem.
+Brasília, 14 de dezembro de 2010.
+Ministro MARCO AURÉLIO
+Relator
