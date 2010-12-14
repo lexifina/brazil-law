@@ -1,0 +1,10 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+“CÍVEL, CONSUMIDOR E PREVIDENCIÁRIO. APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA INCIDENTAL. AUSÊNCIA DE PRESSUPOSTOS PROCESSUAIS E CONDIÇÕES DA AÇÃO. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. DEMANDA PRINCIPAL. PRELIMINAR DE ILEGITIMIDADE PASSIVA AD CAUSAM. REJEIÇÃO. MÉRITO. ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR FECHADA. DESLIGAMENTO DE SEGURADOS. DIES A QUO DO PRAZO PRESCRICIONAL DEVE SER CONTADO DA DATA EM QUE HOUVE PAGAMENTO A MENOR. RESERVA DE POUPANÇA. RESTITUIÇÃO COM CORREÇÃO PERTINENTE AOS EXPURGOS INFLACIONÁRIOS. INCIDÊNCIA DE JUROS REMUNERATÓRIOS. PRECEDENTES DESTA CORTE E DO STJ. CONHECIMENTO E IMPROVIMENTO DOS RECURSOS” (fl. 679).
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 1º, IV, 5º, caput, I, XXII e XXXVI, 170, II e parágrafo único, 195, § 5º, 201 e 202, da mesma Carta.
+A pretensão recursal não merece acolhida. Isso porque, os Ministros desta Casa, ao apreciar o RE 582.504-RG/RJ, Rel. Min. Cezar Peluso, manifestaram-se pela inexistência de repercussão geral do tema constitucional versado nos presentes autos – índices de correção monetária sobre o resgate de contribuições de plano de previdência privada – decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação a ementa do citado julgado:
+“RECURSO. Extraordinário. Incognoscibilidade. Plano de previdência privada. Resgate das contribuições. Índices de correção. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão de resgate de contribuição de plano de previdência privada, versa sobre matéria infraconstitucional”.
+Isto posto não conheço do recurso (CPC, ar. 543-A, § 5º).
+Publique-se.
+Brasília, 14 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
