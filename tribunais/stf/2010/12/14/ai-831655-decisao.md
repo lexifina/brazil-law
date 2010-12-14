@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA DE JUIZ RELATOR: SÚMULA 281 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Relator do Juizados Especiais Cíveis de Mato Grosso:
+“O único efeito a se perquirir pela via mandamental seria o da suspensão dos efeitos da decisão atacada, no caso de suposta ilegalidade ou teratologia da decisão; jamais seria o meio hábil a ensejar a sua reforma.
+Conclui-se, desse modo, que a impetrante é carecedora da ação, por se tratar de via inadequada para amparo de sua pretensão” (fl. 119).
+2. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta, a incidência das Súmulas n. 279 do Supremo Tribunal Federal (fls. 169-171).
+3. O Agravante alega que teria sido contrariado o art. 5º, inc. XXII, XXXV, XXXVI e LIV, da Constituição da República.
+Analisados os elementos havidos nos autos, DECIDO.
+4. Este Supremo Tribunal Federal assentou que a decisão possibilitadora do recurso extraordinário é aquela proferida em única ou última instância, conforme o disposto no inc. III do art. 102 da Constituição da República, pois é necessário o esgotamento da jurisdição na origem.
+Na espécie vertente, o recurso extraordinário foi interposto contra decisão monocrática proferida por Juiz relator do Tribunal a quo, contra a qual ainda seria cabível a interposição do agravo interno previsto no § 1º do art. 557 do Código de Processo Civil.
+Essa circunstância atrai a incidência da Súmula n. 281 do Supremo Tribunal Federal e não viabiliza o recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA DO TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO. AUSÊNCIA DE DECISÃO DE ÚLTIMA INSTÂNCIA. VIA RECURSAL NÃO ESGOTADA NA ORIGEM. SÚMULA 281 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Inviável o agravo de instrumento no qual não são impugnados todos os fundamentos da decisão que não admitiu o recurso extraordinário. Precedentes. 2. A decisão monocrática de relator que nega seguimento a recurso de apelação não é decisão de última instância, pois pode ser impugnada por agravo” (AI 651.750-AgR, de minha relatoria, Primeira Turma. DJe 17.4.2009 – grifos nossos).
+“PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA QUE DÁ PROVIMENTO À APELAÇÃO, PARA REFORMAR A SENTENÇA. SÚMULA 281 DO STF. I - Recurso extraordinário interposto contra decisão monocrática que deu provimento à apelação para reformar a sentença, sendo ainda cabível o recurso de agravo previsto no art. 557, § 1º, do CPC. Ante a ausência de decisão de única ou última instância, incide o óbice da Súmula 281 do STF. II - Agravo não provido” (RE 488.827-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 20.2.2009 – grifos nossos).
+“1. RECURSO. Embargos de declaração. Caráter infringente. Embargos recebidos como agravo. Recurso Extraordinário. Exaurimento das instâncias ordinárias. Não ocorrência. Agravo regimental não provido. Súmula 281. Não se admite recurso extraordinário quando ainda cabível a interposição de recurso nas instâncias ordinárias. 2. RECURSO. Extraordinário. Falta de recolhimento de preparo. Inadmissibilidade. Agravo Regimental não provido. É dever da parte recorrente, no ato da interposição do recurso, comprovar o recolhimento do preparo sob pena de deserção” (AI 567.358-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJe 28.3.2008 – grifos nossos).
+5. Ademais, no julgamento do Agravo de Instrumento n. 800.074, Relator o Ministro Gilmar Mendes, o Plenário Virtual do Supremo Tribunal Federal concluiu que a discussão sobre os pressupostos de cabimento do mandado de segurança não tem repercussão geral:
+“É pacífica a jurisprudência desta Corte no sentido de que discussões acerca do cabimento ou não de mandamus são afetas à legislação processual, ofendem a Constituição Federal somente de forma reflexa e, comumente, demandam a análise de provas.
+Logo, salvo situações excepcionais em que a decisão quanto ao cabimento do mandado de segurança revele patente esvaziamento do remédio previsto no artigo 5º, LXIX, da Constituição Federal, a controvérsia restringe-se ao âmbito infraconstitucional.
+Neste caso, tratando-se de mera verificação de pressupostos da petição inicial do mandado de segurança, manifesto-me pela inexistência de repercussão geral da questão, ante a impossibilidade do exame, por esta Corte, de matéria infraconstitucional” (DJe 15.10.2010 – grifos nossos).
+Nada há, pois, a prover quanto às alegações do Agravante.
+6. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 14 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
