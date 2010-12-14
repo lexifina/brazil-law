@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário de acórdão do Tribunal de Justiça do Estado da Bahia que decidiu ser legítima a restituição de valores descontados a título de contribuição previdenciária de servidores inativos e pensionistas, inclusive após a EC 41/2003, uma vez que os proventos dos recorridos são inferiores ao teto do Regime Geral de Previdência Social.
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, XXXV, e XXXVI, 3XXXV e LV, 40, § 12, 93, IX, 195, II e § 5º, da mesma Carta.
+O agravo não merece acolhida. Isso porque, o acórdão recorrido está em harmonia com a jurisprudência pacífica do Supremo Tribunal Federal no sentido de que é inconstitucional a cobrança da contribuição previdenciária sobre os proventos de inativos e pensionistas após o advento da EC 20/98 e até a edição da EC 41/2003.
+Nesse sentido, anote-se: AI 794.015/SP e AI 692.307-AgR/SP, Rel. Min. Eros Grau; AI 699.348/SP e AI 432.886/SP, Rel. Min. Ellen Gracie; RE 435.787-AgR/RS, Rel. Min. Sepúlveda Pertence; RE 582.615/SP e RE 405.885-AgR/RS, Rel. Min. Cezar Peluso; AI 598.481/SP e RE 424.055-AgR/RS, Rel. Min. Joaquim Barbosa; AI 451.859-AgR/PR, Rel. Min. Cármen Lúcia; RE 597.077/SP, Rel. Min. Dias Toffoli; AI 682.546/SP, Rel. Min. Menezes Direito.
+Quanto ao período posterior à EC 41/03, o Tribunal de origem consignou que “como os proventos que recebem os demandantes são inferiores ao teto do Regime Geral de Previdência Social, não pode haver o desconto previdenciária (...)” (fl. 74). Assim, do mesmo modo, não merece reparo o acórdão do Tribunal de Justiça da Bahia, no ponto, porquanto se alinha ao decidido por esta Corte na ADI 3.105/DF e na ADI 3.128/DF, Rel. Min. Cezar Peluso, no sentido de que é válida a contribuição previdenciária sobre proventos dos inativos e pensionistas tão somente sobre a parcela dos proventos e pensões que superar o teto estabelecido no art. 5º, da citada Emenda Constitucional.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 14 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
