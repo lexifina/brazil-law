@@ -1,0 +1,40 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL E PROCESSUAL PENAL. SÚMULA 691 DO SUPREMO TRIBUNAL. FLEXIBILIZAÇÃO. EXCEPCIONALIDADE NÃO DEMONSTRADA. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+1. Habeas corpus, com pedido liminar, impetrado por João Antônio de Souza Trajano e Eunice Anisete de Souza Trajano, advogados, em favor de Cristian Renan Ferreira da Silva, contra decisão do Ministro Honildo Amaral de Mello Castro, do Superior Tribunal de Justiça, que, em 25.11.2010, negou liminar no habeas corpus nº 187.743-MS.
+2. Historiaram os Impetrantes que o Paciente está preso desde o dia 25.3.2010, por ter sido flagrado em conduta tipificada no art. 33, caput, c/c o art. 40, III e V, ambos da Lei 11.343/06.
+A ação penal ainda tramita na Comarca de Eldorado-MS, em razão da insistência do representante do Ministério Público em ouvir uma testemunha residente em outra comarca.
+Anotaram que a audiência no juízo deprecado foi designada para 01.02.2011, o que significa um atraso na definição da situação jurídica do Paciente.
+Destacaram que, apesar de não arrolarem testemunhas, “justamente para agilizar a marcha processual”, a instrução consumirá “313 (trezentos e treze) dias”, ferindo o princípio da razoabilidade.
+Noticiaram que essa constatação levou-os a postular, em favor do Paciente, a liberdade provisória na Comarca de Eldorado.
+Não obtendo êxito naquela investida, impetraram habeas corpus no Tribunal de Justiça do Mato Grosso do Sul, mas a ordem foi denegada.
+Impetraram novo habeas corpus no Superior Tribunal de Justiça, porém o Ministro Honildo Amaral de Mello Castro indeferiu a liminar, motivando, então, a presente impetração.
+3. Argumentaram que a Súmula 691 do Supremo Tribunal “não impede o conhecimento de habeas corpus, se evidenciado flagrante constrangimento ilegal”, como na situação em que “o Paciente está preso preventivamente há mais de 250 (duzentos e cinquenta) dias”.
+Ponderaram ser “assente a possibilidade de concessão de liberdade provisória nos crimes hediondos ou equiparados, nas hipóteses que não estejam presentes as circunstâncias que autorizam a prisão preventiva”.
+Lembraram que o Paciente “preenche os requisitos para a concessão da liberdade provisória” e que, em contrapartida, não existem elementos para a prisão preventiva.
+Realçaram que o Paciente não representa “ameaça à ordem pública”, que seu comportamento no curso do processo “sempre foi de total colaboração”, o que descaracteriza eventual “prejuízo à instrução do feito”, e que a sua liberdade não implica “risco à aplicação da lei penal”, tanto que ele “não tentou se evadir do local do delito” ou mesmo “esquivar-se da prisão”.
+4. Ao final, apresentaram requerimento nos termos seguintes:
+“Ante o exposto, o Paciente espera que num gesto de estrita JUSTIÇA, considerando-se a Lei e o Direito, que esta augusta Corte Suprema, conhecendo do pedido:
+a) conceda, em sede LIMINAR, LIBERDADE PROVISÓRIA em favor do paciente CRISTIAN RENAN FERREIRA DA SILVA, com fundamento incisos LXVI e LXVIII da CRFB/1988, na Lei n. 11.464/07, no art. 33, § 4° da Lei n. 11.343/06, determinando a imediata expedição do competente alvará de soltura; e, ao final,
+b) confirme a liminar concedida, mantendo o paciente em liberdade, até decisão do mérito da causa.
+Por fim, MM. Julgadores, se for do entendimento de Vossas Excelências, solicitem ao i. Juízo a quo as informações de estilo, para que, após o recebimento destas e do respeitável parecer da douta Procuradoria de Justiça, concedam a ordem de Habeas Corpus como única e melhor forma de fazer triunfar a máxima efetivação de JUSTIÇA!”
+Examinada a matéria nos seus aspectos essenciais, DECIDO.
+5. O presente habeas corpus não encerra fundamentação jurídica que permita o seu regular prosseguimento no Supremo Tribunal.
+A decisão questionada é monocrática, de natureza precária, desprovida, portanto, de conteúdo definitivo.
+O Superior Tribunal de Justiça não exauriu o exame da matéria, estando pendente a jurisdição ali pedida.
+Inequívoca, para a situação, a incidência da Súmula n. 691 do Supremo Tribunal, verbis:
+“ Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+A jurisprudência deste Supremo Tribunal tem admitido, em casos excepcionais, o temperamento na aplicação dessa súmula. Todavia, é indispensável que se patenteie flagrante contrariedade a princípios constitucionais ou legais na decisão questionada, o que não é o caso dos autos.
+Ao proferir a decisão objeto desta impetração, o Ministro Honildo Amaral de Mello Castro, do Superior Tribunal de Justiça, destacou a importância de se resguardar o princípio da colegialidade no enfrentamento das questões tratadas na inicial do habeas ali impetrado. Além disso, anunciou a ausência de elementos que respaldassem as alegações dos Impetrantes quanto à suposta ilegalidade da prisão. Nesse sentido, anotou, verbis:
+“A jurisprudência deste Tribunal Superior tem se firmado no sentido de que a concessão de liminar em habeas corpus é providência de caráter excepcional, motivo pelo qual se exige constrangimento ilegal manifesto, visível de plano frente à análise sumária dos argumentos apresentados, bem como da demonstração inequívoca dos requisitos autorizadores do periculum in mora e do fumus boni iuris, além da plausibilidade do direito invocado , como a propósito, já decidido pela Quinta Turma desta Egrégia Corte:
+'(...) A concessão de liminar em habeas corpus reserva-se aos casos excepcionais de ofensa manifesta ao direito de ir e vir do paciente, e desde que preenchidos os seus pressupostos legais, quais sejam, o fumus boni juris e o periculum in mora' (STJ - HC 173471 - Rel. Ministro JORGE MUSSI - Quinta Turma - 05/08/2010).
+Do exame apriorístico dos autos, não vislumbro qualquer ilegalidade manifesta ou teratologia no aresto impugnado, capaz de justificar a concessão excepcional da ordem em liminar.
+Nesse contexto, as questões levantadas na inicial serão devidamente analisadas no exame de mérito deste habeas corpus, resguardando-se o principio da colegialidade (STF - HC 98.196/MG – Rel. Min. Ricardo Lewandoswski - 09/09/2010) . “
+A decisão atacada apoiou-se no acórdão do Tribunal de Justiça de Mato Grosso do Sul que, ao manter o Paciente preso, destacou que “a alegação de excesso de prazo deve ser vista pelo prisma da razoabilidade”, especialmente porque “houve expedição de carta precatória para oitiva de testemunha”. Por outro lado, o Paciente “foi preso com grande quantidade de entorpecentes” e a sua custódia se mostrava necessária para a “preservação da ordem pública - art. 312 do Código Processo Penal”.
+Portanto, sem adentrar o mérito da impetração, mas apenas para desfigurar a alegação de excepcionalidade do caso, ressalte-se que, no plano formal, mostraram-se fundamentadas as decisões que mantiveram o Paciente preso, não ressentindo de teratologia.
+7. Quanto à alegação de que o Paciente reúne condições subjetivas favoráveis, também não há embasamento jurídico autorizativo da supressão de instância. O Supremo Tribunal, em precedente aplicável a esta situação, assentou que “a presença de condições subjetivas favoráveis ao Paciente não obsta a segregação cautelar, desde que presentes nos autos elementos concretos a recomendar sua manutenção, como se verifica no caso presente" (HC 94.465, Rel. Min. Menezes Direito, DJ 15.5.2009).
+Ou seja, outros critérios, além do fator subjetivo, podem inspirar a medida extrema da prisão preventiva. E, no caso, sinalizou o Superior Tribunal de Justiça com a necessidade da segregação do Paciente para garantia da ordem pública.
+8. Pelo exposto, sob pena de supressão de instância e contrariedade às regras constitucionais e legais de competência, nego seguimento ao presente habeas corpus (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal e art. 38 da Lei n. 8.038/90), ficando, por óbvio, prejudicado o pedido de medida liminar.
+Publique-se.
+Brasília, 14 de dezembro de 2010.
+   Ministra CÁRMEN LÚCIA
+      Relatora
