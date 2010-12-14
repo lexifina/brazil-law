@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu inviável ao poder judiciário majorar a alíquota que incide no cálculo do benefício fiscal de crédito presumido de IPI previsto nos arts. 1º e 2º da Lei 9.363/96, instituído em favor de empresas produtoras e exportadoras de mercadorias nacionais, como ressarcimento das contribuição para o PIS e da COFINS sobre as aquisições, no mercado interno, de matérias-primas, produtos intermediários e material de embalagem.
+Salientou-se, no acórdão recorrido, a necessidade de lei específica para a concessão de benefícios fiscais, nos termos do art. 150, § 6º, da Constituição, bem como a impossibilidade de o Poder Judiciário atuar como legislador positivo.
+Neste RE, fundado no art. 102, III, a, da Constituição Federal, sustentou-se, em suma, a necessidade de a alíquota estipulada para o benefício em questão ser reajustada proporcionalmente aos aumentos das alíquotas da contribuição para o PIS e da COFINS, determinados pelas Leis 9.718/98 e 10.637/2002.
+A pretensão recursal não merece acolhida.
+O crédito em questão possui natureza de benefício fiscal, instrumento de política tributária, cuja alteração está vinculada aos juízos de oportunidade e conveniência do Poder Público, que deverá estabelecê-la de forma legítima e de acordo com seus objetivos estatais, os quais, em regra, estão ligados à política econômica.
+Nesse contexto, a alíquota que se pretende alterar está expressa numericamente na Lei 9.363/96, de sorte que, sua majoração não seria possível por simples interpretação da legislação aplicável, mas apenas por alteração normativa, o que é inviável ao poder Judiciário, uma vez que não lhe é dado atuar como legislador positivo.
+Nesse sentido, menciono as seguintes decisões, entre outras: RE 485.290-AgR/PE, Rel. Min. Ellen Gracie; RE 410.515-AgR/PI, Rel. Min. Cármen Lúcia; RE 402.748-AgR/PE, Rel. Min. Eros Grau; AI 360.461-AgR/MG, Rel. Min. Celso de Mello; RE 493.234-AgR/RS, de minha relatoria.
+Além disso, a concessão desse favor fiscal não decorre de qualquer regra constitucional. Assim, ainda que o valor da alíquota não estivesse expressamente previsto e fosse possível adotar uma interpretação que tornasse viável o reajuste da benesse conforme o aumento da contribuição para o PIS e da COFINS, a questão ficaria restrita ao âmbito infraconstitucional. A afronta à Constituição, se ocorrente, seria indireta. O que inviabilizaria o conhecimento do recurso extraordinário.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 14 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
