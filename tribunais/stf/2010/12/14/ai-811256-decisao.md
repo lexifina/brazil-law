@@ -1,0 +1,8 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, ao apreciar o AI 715.423-QO/RS, Rel. Min. ELLEN GRACIE, firmou entendimento, posteriormente confirmado no julgamento do RE 540.410-QO/RS, Rel. Min. CEZAR PELUSO, no sentido de que também se aplica o disposto no art. 543-B do Código de Processo Civil aos recursos deduzidos contra acórdãos publicados antes de 03 de maio de 2007 e que veiculem tema em relação ao qual já foi reconhecida a existência de repercussão geral.
+Esta Suprema Corte, em sessão realizada por meio eletrônico, apreciando o RE 580.963-RG/PR, Rel. Min. GILMAR MENDES, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+“Recurso extraordinário. Benefício assistencial ao idoso (art. 203, V, da Constituição Federal). Discussão sobre critério utilizado para aferir a renda mensal ‘per capita’ da família da requerente. Alegação de inconstitucionalidade de interpretação extensiva ao art. 34, parágrafo único, da Lei n. 10.741/2003. Tema que alcança relevância econômica, política, social e jurídica e que ultrapassa os interesses subjetivos da causa. Repercussão geral reconhecida.”
+Sendo assim, e pelas razões expostas, dou provimento ao presente agravo de instrumento, para admitir o recurso extraordinário a que ele se refere, impondo-se, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem, para que, neste, seja observado o disposto no art. 543-B e respectivos parágrafos do CPC (Lei nº 11.418/2006).
+Publique-se.
+Brasília, 14 de dezembro de 2010.
+Ministro CELSO DE MELLO
+Relator
