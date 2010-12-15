@@ -1,0 +1,24 @@
+1.  Trata-se de habeas corpus impetrado contra decisão monocrática do Ministro Arnaldo Esteves Lima que julgou incabíveis embargos de declaração opostos em agravo regimental no Inquérito 600/MG, instaurado no Superior Tribunal de Justiça.
+2.  Narra a inicial que o Ministério Público Federal requereu ao Juízo da 4ª Vara Federal Criminal da Seção Judiciária de Minas Gerais a quebra dos sigilos fiscal e bancário do paciente. O magistrado de primeira instância deferiu o pedido do representante do Parquet.
+Entre os envolvidos, Clésio Soares de Andrade, que ocupava o cargo de Vice-Governador do Estado de Minas Gerais, formulou pedido de reconsideração da decisão sob o fundamento de incompetência do juízo de origem. O pleito foi deferido e, por conseguinte, os respectivos autos foram encaminhados ao Tribunal Regional Federal da 1ª Região.
+Ante a fixação da competência no âmbito jurisdicional da Corte Federal para processar e julgar Vice-Governador de Estado pela prática de crime federal, foi interposto recurso extraordinário nesta Corte Suprema (RE 498.200/MG, rel. Min. Cezar Peluso).
+O apelo extremo foi julgado prejudicado, uma vez que Clésio Soares de Andrade não ocupava mais o cargo de Vice-Governador do Estado de Minas Gerais, implicando, dessa maneira, a devolução do feito para o juízo de primeiro grau.
+Todavia, a Corte Federal remeteu o feito ao Superior Tribunal de Justiça, visto que outra envolvida, Adriene Barbosa Faria Andrade, Conselheira do Tribunal de Contas do Estado de Minas Gerais, estaria sendo investigada.
+Observa que o eminente Relator do Inquérito 600/MG, Ministro Arnaldo Esteves Lima, por intermédio de decisão monocrática, declinou da competência para o processamento do feito para remeter os autos ao Juízo Federal da 4ª Vara Federal Criminal da Seção Judiciária de Minas Gerais, dada a ausência de indícios da participação da Conselheira nos fatos noticiados.
+Contra essa decisão, a defesa interpôs agravo regimental, mas o eminente relator do STJ julgou prejudicado o recurso, determinando a remessa dos autos ao juízo competente.
+3.  Ressaltam os impetrantes que aquela Corte, em sede de agravo regimental, não se pronunciou quanto ao mérito do recurso, em especial no tocante ao “fato de ser ou não Adriene Barbosa de Faria Andrade parte averiguada”. Noticiam que foram interpostos embargos de declaração que não foram processados, visto que os autos já tinham sido encaminhados ao juízo de primeira instância. Tal fato ensejou a impetração do presente habeas corpus.
+Requerem a concessão de provimento liminar, para que se determine a “imediata paralisação do trâmite inquisitorial, até que seja julgado o writ”. No mérito, solicitam o julgamento do agravo regimental interposto pelo órgão colegiado.
+4.  Solicitadas informações, o Relator do Inquérito 600/MG noticiou o seguinte:
+“Em virtude da decisão proferida nos autos do Recurso Extraordinário 498.200-5/MG, que tramitou no Supremo Tribunal Federal e fixou a competência do Juízo Federal da 4ª Vara da Seção Judiciária de Minas Gerais para o processamento e julgamento da causa versada nestes autos, por meio da decisão datada de 23/9/2010, julguei prejudicado o agravo regimental e determinei a remessa dos autos (e apensos), incontinenti, ao Juízo competente.
+Por fim, foram opostos embargos de declaração por R.A.C. em face dessa última decisão.
+Entendi que rediscutir a matéria nessa via, tendo em vista que foi dado mero cumprimento à decisão do Supremo Tribunal Federal, que fixou a competência do Juízo Federal da 4ª Vara da Seção Judiciária de Minas Gerais para o processamento do Inq 600/601.
+Não bastasse isso, salientei que era forçoso reconhecer o despropósito dessa sucessiva alegação, afinal, a própria Procuradoria-Geral da República, titular das ações penais originárias no Superior Tribunal de Justiça já havia afirmado que até o momento não havia indícios da participação de Adriene nos fatos noticiados.
+Esclareci que, caso o peticionário tivesse informações sobre a participação de ADRIENE BARBOSA DE FARIA ANDRADE em relação aos fatos supostamente ilícitos noticiados no Inq 600/601, que fossem prontamente encaminhadas ao Ministério Público Federal ou a esta Corte para os devidos fins.
+Por essas razões, em 17/11/2010, afirmei serem incabíveis os embargos de declaração opostos, razão pela qual determinei o arquivamento do expediente avulso formado, esclarecendo-se que os autos já foram encaminhados ao Juízo de 1º grau”.
+5.  Das informações transcritas acima, considero, num exame preliminar, não haver ilegalidade no entendimento adotado pelo Relator do Inquérito 600/MG.
+Desse modo, não vislumbro a presença do requisito do fumus boni iuris para a concessão da tutela pleiteada.
+6.  Ante o exposto, indefiro o pedido de liminar. Estando os autos plenamente instruídos, colha-se a manifestação da Procuradoria-Geral da República.
+Publique-se.
+Brasília, 15 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
