@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 5ª Região. Acórdão assim ementado (fls. 1096/1097):
+“ADMINISTRATIVO. DESAPROPRIAÇÃO INDIRETA DO IMÓVEL NO QUAL FOI EDIFICADO O CAMPUS DA UFRN. HOMOLOGAÇÃO DE CÁLCULOS PROCEDIDA DE CONFORMIDADE COM O QUE RESTOU DECIDIDO NO AGTR DE Nº 38.363-RN. CÁLCULOS COM BASE NO VALOR ORIGINÁRIO ENCONTRADO NA PRIMEIRA PERÍCIA, ADICIONADOS DE CORREÇÃO MONETÁRIA E JUROS MORA. ERRO MATERIAL. NÃO OCORRÊNCIA. DECISÃO HOMOLOGATÓRIA DE CÁLCULOS. MANUTENÇÃO.
+1. A decisão recorrida analisou toda a matéria à luz do que restou decido no AGTR de nº 38.363-RN, na medida em que ressalvou que tal decisão não autorizou a avaliação do imóvel expropriado, calcada na metodologia do preço de mercado, mas, determinou a realização de nova perícia, com a finalidade de "delimitar com precisão o terreno expropriado e calcular corretamente a atualização monetária e os juros."
+2. Concluiu o julgador singular, em sua bem fundamentada decisão, por não aproveitar o valor de mercado encontrado na avaliação pericial, razão pela qual reconheceu que ao valor originário encontrado na primeira perícia deve apenas ser adicionado a correção monetária e os juros moratórios, o que resulta no montante de R$ 145.023.946,06 (cento e quarenta e cinco mil, vinte e três mil e novecentos e quarenta e seis reais e seis centavos).
+3. Devem ser rechaçadas as alegações de erro material aduzidas pela Agravante, seja porque não representam erro material propriamente dito, ou já foram resolvidas no curso da ação onde se encontra a decisão recorrida ou, ainda, por contrariar o que restou decidido à título de valor base encontrado na primeira perícia.
+4. Agravo de Instrumento improvido.”
+2. Pois bem, a parte recorrente sustenta violação ao art. 2º; aos incisos LIV, LV, XXII e XXIV do art. 5º; ao inciso IX do art. 93; ao art. 37; bem como ao § 3º do art. 182, todos da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. É que, para se chegar a entendimento diverso da Instância Judicante de origem, se fazem necessários o reexame do conjunto fático-probatório dos autos (Súmula 279/STF) e a análise da legislação infraconstitucional pertinente, providências vedadas neste momento processual.
+4. De mais a mais, pontuo que o aresto impugnado está devidamente fundamentado. Note-se que “a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, da relatoria do ministro Sepúlveda Pertence).
+Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 15 de dezembro de 2010.
+Ministro AYRES BRITTO
+Relator
