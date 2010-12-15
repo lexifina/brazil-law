@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que entendera que a importação de livros ilustrados e cromos adesivos seria imune à cobrança de ICMS, em virtude do disposto no artigo 150, VI, d, da Constituição Federal.
+2.  Nas razões do RE, sustenta-se ofensa ao artigo 150, VI, d, da Lei Maior.
+3.  O recurso não merece prosperar. O Supremo Tribunal Federal possui entendimento consolidado no sentido de que os álbuns de figurinhas e os respectivos cromos adesivos estão alcançados pela imunidade tributária prevista no artigo 150, VI, d, da CF/88. Nesse sentido cito o RE 179.893/SP, rel. Min. Menezes Direito, 2ª Turma, DJe 30.05.2008; o RE 339.124-AgR/RJ, rel. Min. Carlos Velloso, 2ª Turma, DJ 20.05.2005; e o RE 221.239/SP, de minha relatoria, 2ª Turma, DJ 06.08.2004, cujo acórdão está assim ementado:
+ “ CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE. ART. 150, VI, "D" DA CF/88. "ÁLBUM DE FIGURINHAS". ADMISSIBILIDADE . 1. A imunidade tributária sobre livros, jornais, periódicos e o papel destinado à sua impressão tem por escopo evitar embaraços ao exercício da liberdade de expressão intelectual, artística, científica e de comunicação, bem como facilitar o acesso da população à cultura, à informação e à educação. 2. O Constituinte, ao instituir esta benesse, não fez ressalvas quanto ao valor artístico ou didático, à relevância das informações divulgadas ou à qualidade cultural de uma publicação. 3. Não cabe ao aplicador da norma constitucional em tela afastar este benefício fiscal instituído para proteger direito tão importante ao exercício da democracia, por força de um juízo subjetivo acerca da qualidade cultural ou do valor pedagógico de uma publicação destinada ao público infanto-juvenil. 4. Recurso extraordinário conhecido e provido. ”
+ Dessa orientação não divergiu o acórdão recorrido.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 15 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
