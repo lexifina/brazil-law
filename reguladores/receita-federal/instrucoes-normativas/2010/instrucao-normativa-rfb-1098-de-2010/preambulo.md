@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1098, de 14 de dezembro de 2010
+Dispõe sobre a habilitação e credenciamento de intervenientes para operações ao amparo do Regime de Tributação Unificada (RTU) na importação, por via terrestre, de mercadorias procedentes do Paraguai.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto na Lei nº 11.898, de 8 de janeiro de 2009, e no Decreto nº 6.956, de 9 de setembro de 2009, resolve:
