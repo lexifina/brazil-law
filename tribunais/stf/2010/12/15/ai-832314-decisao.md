@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“APELAÇÃO CÍVEL. INTERRUPÇÃO NO FORNECIMENTO DE ENERGIA ELÉTRICA. RESPONSABILIDADE OBJETIVA DA EMPRESA FORNECEDORA. PERÍODO DOS FATOS PROPÍCIO PARA OCORRÊNCIA DE CHUVA FORTES, VENTOS E TROVOADAS. FATO E PREJUÍZO DEMONSTRADOS.
+Chuva e vento não excepcionais (ensejadores de situação de emergência ou calamidade – art. 6º, par. 3º, da Lei Federal nº 8.987/95). Caso fortuito ou força maior (art. 393, do Código Civil) não configurados.
+DEVER DE INDENIZAR. RECURSO CONHECIDO E PROVIDO” (fl. 49).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 37, § 6º, e 175 da mesma Carta.
+O agravo não merece acolhida. É que o artigo 175 da Carta Magna, tido como violado, não foi prequestionado. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ademais, para dissentir da conclusão a que chegou o acórdão recorrido quanto à verificação de dano material de modo a ensejar o dever da concessionária de implementar a respectiva indenização, necessário seria o reexame de matéria de fato, o que atrai o óbice da Súmula 279 do STF . Nesse sentido, menciono as seguintes decisões entre outras, AI 634.072-AgR/RJ, de minha relatoria; AI 642.351-AgR/SP, Rel. Min. Eros Grau; RE 516.836/DF, Rel. Min. Menezes Direito e RE 557.935-AgR/ES, Rel. Min. Ellen Gracie, cuja ementa segue transcrita:
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE OBJETIVA DE CONCESSIONÁRIA PRESTADORA DE SERVIÇO PÚBLICO. FALHA DE SEGURANÇA EM RODOVIA. REPARAÇÃO DE DANOS. ART. 37, § 6º, DA CF/88. FATOS E PROVAS. SÚMULA STF 279. 1. O Tribunal a quo, diante da análise do conjunto fático-probatório da causa, concluiu pela responsabilidade objetiva, porquanto comprovadas a falha na segurança da pista e a causação de prejuízos ao autor, evidenciando, portanto, o nexo causal a ensejar o direito à reparação. Precedentes. 2. Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 37, § 6º, da Constituição Federal - responsabilidade objetiva da concessionário de serviço público. 3. Pedido recursal contido no agravo regimental não pode, por si só, alterar aquele originariamente deduzido no recurso extraordinário. 4. Agravo regimental improvido”.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 15 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
