@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que determinou a redução do valor da condenação de honorários advocatícios em ação de execução fiscal.
+ No RE, a parte agravante alega ofensa ao artigo 5º da Constituição Federal, sustentando, em síntese, que a redução da verba honorária pelo Tribunal a quo representa ofensa ao princípio da isonomia, por conferir tratamento diferente do que seria dado à fazenda pública se vencedora fosse. Aduz que o valor de R$ 5.000,00 (cinco mil reais) fixado pelo acórdão recorrido seria vil, por não remunerar de forma digna os serviços advocatícios prestados.
+2.  O recurso não merece prosperar. Verifico que o dispositivo ao qual se alegou violação não se encontra prequestionado, porque não abordado pelo acórdão recorrido, nem indicado nos embargos de declaração opostos para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+3.  Ademais, em casos como o dos presentes autos, esta Corte tem se posicionado no sentido de que a discussão a respeito da redução de honorários advocatícios é de natureza infraconstitucional; dessa forma, eventual ofensa ao texto Constitucional, se houvesse, seria meramente reflexa ou indireta, o que inviabiliza o trânsito do recurso extraordinário. Nesse sentido AI 602.379-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, DJe 06.02.2009; e RE 577.398-AgR/ SP, de minha relatoria, 2ª Turma, DJe 24.4.2009, este último assim ementado:
+“ PROCESSO CIVIL. REDUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. MATÉRIA INFRACONSTITUCIONAL. 1. A discussão a respeito da redução de honorários advocatícios é de natureza infraconstitucional. Incabível, no caso, a interposição de recurso extraordinário para tratar de tal hipótese. 2. Inexistência de argumento capaz de infirmar a decisão agravada, que deve ser mantida pelos seus próprios fundamentos. 3. Agravo regimental improvido”.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 15 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
