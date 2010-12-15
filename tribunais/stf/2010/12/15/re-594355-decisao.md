@@ -1,0 +1,14 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado (fls. 80):
+“SERVIDORES PÚBLICOS INATIVOS. GRATIFICAÇÃO DE ESTÍMULO À PRODUÇÃO INDIVIDUAL. INCORPORAÇÃO AOS VENCIMENTOS OU PROVENTOS. IMPOSSIBILIDADE. NATUREZA 'PROPTER LABOREM'. PRINCÍPIO DA PARIDADE. IMPROPRIEDADE. Revela-se imprópria a aplicação do princípio da paridade para legitimar a incorporação de gratificação de estímulo à produção aos servidores aposentados, por possuir referida verba natureza 'propter laborem', ou seja, é transitória e somente para os casos previstos em lei.”
+2. Pois bem, a parte recorrente aponta ofensa ao inciso XXXVI do art. 5º da Magna Carta, bem como ao art. 7º da Emenda Constitucional 41/2003.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo não-conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. É que a Instância Judicante de origem, ao examinar o direito estadual pertinente — direito cuja interpretação lhe é soberanamente atribuída, diga-se de passagem —, concluiu que o acréscimo remuneratório pago aos servidores ativos denominado “prêmio produtividade” possui natureza jurídica “transitória que, em regra, não se incorpora aos vencimentos” (fls. 87). Pelo que os recorrentes, servidores aposentados, não fazem jus ao seu recebimento.
+5. De se ver, portanto, que o aresto impugnado afina com a jurisprudência do STF no sentido de que apenas as vantagens de natureza genérica são extensíveis aos inativos, em nome do princípio da isonomia, insculpido no § 8º do art. 40 da Constituição Federal (redação anterior à EC 41/03). Precedentes: REs 301.080 e 410.288, da relatoria do ministro Sepúlveda Pertence; 385.041 e 402.090, da relatoria do ministro Carlos Velloso; 297.639 e 351.449, da relatoria do ministro Sydney Sanches.
+6. De mais a mais, anoto que, para chegar à conclusão pretendida pela parte recorrente, no tocante à natureza do referido acréscimo, se faz necessário o reexame da legislação infraconstitucional aplicável. Providência que não tem lugar neste momento processual, nos termos da Súmula 280 do STF.
+7. Cito, por amostragem, os seguintes julgados desta nossa Corte alusivos à mesma questão e oriundos do mesmo ente federado: AIs 657.696-AgR, da relatoria da ministra Cármen Lúcia; 715.437-AgR, da relatoria do ministro Ricardo Lewandowski; e 747.980-AgR, da relatoria do ministro Eros Grau; bem como os REs 548.222-AgR, da relatoria da ministra Cármen Lúcia; e 549.044-AgR, da relatoria da ministra Ellen Gracie.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 15 de dezembro de 2010.
+Ministro AYRES BRITTO
+Relator
