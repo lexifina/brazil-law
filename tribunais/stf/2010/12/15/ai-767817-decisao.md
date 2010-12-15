@@ -1,0 +1,19 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“Apelação Cível. Desapropriação Indireta. Liquidação de Sentença.
+ Valor da indenização reduzido - Consideração das áreas de primeira categoria. Desconto de restrições pretéritas.
+ Honorários da assistência, de segunda perícia, arbitrados.
+ Juros moratórios e honorários mantidos, em conformidade com a cosia julgada material do processo de conhecimento original.
+ Dá-se provimento parcial aos recursos” (fl. 297).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXIV, e 100, § 1º, da mesma Carta.
+O agravo não merece acolhida. Isso porque, à alegada ofensa ao princípio da justa indenização, previsto no art. 5º, XXIV, da Constituição Federal, demanda o reexame de prova, o que atrai a incidência da Súmula 279 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 643.888-AgR/SP, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO REGIMENTAL. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. PRESERVAÇÃO DO VALOR REAL. ARTS. 184 E 5º, XXIV, DA CONSTITUIÇÃO. REEXAME DE PROVAS. MATÉRIA INFRACONSTITUCIONAL. O exame da alegada violação aos princípios da justa indenização e da preservação do valor real encontra-se no âmbito infraconstitucional. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição Federal. Impossível a revisão de decisão que considera os cálculos dos valores pagos em decorrência de decisão judicial, em face da Súmula 279. Agravo regimental a que se nega provimento” (AI 477.071-AgR/DF, Rel. Min. Joaquim Barbosa, Segunda Turma).
+No mesmo sentido, menciono as seguintes decisões, entre outras: AI 548.037-AgR/SP, Rel. Min. Ellen Gracie; AI 494.388-AgR/SP, Rel.Min. Cármen Lúcia; AI 295.072-AgR/SP, Rel. Min. Joaquim Barbosa; RE 563.305-AgR/CE, Rel. Min. Eros Grau.
+Quanto à alegada violação ao art. 100, § 1º, da Constituição, a jurisprudência desta Corte é firme no sentido de que a discussão acerca do termo inicial da incidência de juros moratórios restringe-se ao âmbito infraconstitucional. Nesse passo é o entendimento sedimentado em ambas as Turmas desta Casa, conforme se vê dos seguintes julgados:
+“PROCESSUAL CIVIL. TERMO INICIAL DE INCIDÊNCIA DOS JUROS DE MORA. Matéria que tem natureza infraconstitucional, devendo ser apreciada pelo Juízo da execução. Nesse mesmo sentido, entre outros, o RE 277.427-AgR, Relator Ministro Moreira Alves; e o RE 321.371-ED, Relator Ministro Ilmar Galvão. Agravo regimental a que se nega provimento. Condenação do agravante a pagar à parte agravada multa de 1% (um por cento) do valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao recolhimento do valor respectivo, na forma do § 2º do artigo 557 do Código de Processo Civil.” (RE 447.461 - AgR/RS, Rel: Min. Carlos Britto, Primeira Turma.)
+“AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TERMO INICIAL DE INCIDÊNCIA DOS JUROS MORATÓRIOS. MATÉRIA INFRACONSTITUCIONAL. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. A fixação do termo inicial de incidência dos juros moratórios tem caráter infraconstitucional e compete ao juízo da execução. Precedentes. Agravo regimental a que se nega provimento” (RE 602.191-AgR-AgR/SP, Rel. Min. Eros Grau, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 15 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
