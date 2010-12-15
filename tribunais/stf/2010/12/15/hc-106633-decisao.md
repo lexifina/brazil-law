@@ -1,0 +1,28 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Janeti Conceição Amaro de Pina Gomes Mello em favor de Odete Felix da Silva, em que aponta como autoridade coatora a Juíza Convocada Maria Doralice Novaes, Relatora do TST-HC-66601-17.2010.5.00.0000.
+A impetrante informa, inicialmente, que a paciente é reclamada na Ação Trabalhista 0054-2007-124-08-00-4, em que é reclamante Abel Carneiro Pinto, sendo vitoriosa, em primeiro grau, no que concerne ao pedido de indenização por danos morais.
+Esclarece, em seguida, que, interposto recurso ordinário pelo reclamante, a sentença restou modificada em desfavor da ora paciente, o que ensejou a interposição de recurso de revista.
+Alega que, contudo, a advogada constituída naqueles autos não foi intimada do acórdão que julgou o segundo embargos declaratórios opostos no recurso ordinário no TRT da 8ª Região, embora tenha solicitado tal providência por duas vezes, o que culminou com a intempestividade do recurso de revista interposto para o TST.
+Inconformada, a defesa manejou habeas corpus no Tribunal Superior do Trabalho, tendo a Ministra Relatora indeferido, liminarmente, a petição inicial.
+É contra essa decisão que se insurge a impetrante.
+Afirma, de início, que,
+“(...) tendo constado nas intimações o nome de advogado diverso daquele designado pela parte quando da publicação do acórdão que julgou os embargos de declaração opostos pela paciente, é de se reconhecer a nulidade de tal ato e dos demais que se sucederam para determinar o retorno dos autos ao TRT da 8ª Região, para que se proceda à nova publicação do acórdão impugnado a fim de que dele conste o nome desta advogada indicada, e assim, seja possível a interposição de recurso de revista”.
+Assevera, por isso, que “não foi cumprido o que determina o artigo 236, § 1º do CPC, ocorrendo assim, a nulidade absoluta, ficando evidenciado o constrangimento ilegal bem como o abuso de autoridade a ser sanado pelo remédio heróico do 'habeas corpus'”.
+Aduz, em reforço, que a ausência de publicação da intimação em nome da advogada constituída configura nulidade absoluta, ”que traduz constrangimento ilegal sanável em habeas corpus por violar o direito da ampla defesa, do contraditório e principalmente por implicar grave transgressão ao estatuto constitucional do devido processo legal, para que não seja excluído da apreciação do Poder Judiciário lesão ou ameaça a direito”.
+Alega, também, que a decisão indeferitória do habeas corpus impetrado no TST não poderia ter se dado de forma monocrática, “havendo pois ofensa à colegialidade, e neste contexto, se fosse o caso de ser infundado, o que não é, obrigatoriamente deveria ter sido submetido e apreciado pelo colegiado (...)”.
+Ao final, requer, liminarmente, a suspensão da ação trabalhista, até o julgamento definitivo deste writ. No mérito, pede a concessão da ordem para “anular a intimação da publicação dos embargos declaratórios, desconstituir o trânsito em julgado e devolução do prazo recursal com a determinação de que se realize outra intimação com observância da publicação seja efetivada em nome da advogada nominada para receber as intimações (...)” (grifos no original).
+Alternativamente, solicita que “SALVO MELHOR JUÍZO, SEJAM OS AUTOS DE HABEAS CORPUS SUBMETIDO E APRECIADO PELO COLEGIADO, COM A LEGALIDADE IMPOSTA AO MESMO” (grifos no original).
+É o relatório suficiente. Decido.
+A impetração não merece seguimento, contudo.
+A impetrante pretende, em suma, seja devolvido o prazo para a interposição do recurso de revista para o Tribunal Superior do Trabalho, alegando a nulidade da intimação feita em nome de outro advogado, que, segundo afirma, deveria ter sido publicada em seu nome. Trata-se, portanto, na origem, de feito trabalhista.
+Pois bem. O habeas corpus, tal como está no art. 5º, LXVIII da Constituição Federal, é instrumento que se destina a garantir o direito à liberdade de locomoção do indivíduo, sempre que este sofrer ou se achar ameaçado de sofrer violência ou coação em tal direito, por ilegalidade ou abuso de poder.
+Com efeito, o referido remédio constitucional visa resguardar a liberdade de ir e vir do ser humano, quando, efetivamente, houver constrangimento decorrente de ilegalidade ou abuso de poder.
+É dizer, o habeas corpus é instrumento nobre, de uso excepcional, razão pela qual não pode ter seus contornos deformados a ponto de banalizá-lo.
+Assim, não se pode ter como constrangimento à liberdade de locomoção a não intimação (ou a intimação incorreta) do advogado constituído, com a finalidade de ajuizar recurso de natureza trabalhista, sem qualquer reflexo, ainda que indireto, no direito de ir e vir da paciente.
+Desse modo, não se vislumbra, nem mesmo em tese, a suscitada ilegalidade e coação por parte da autoridade apontada como coatora, que muito bem apreciou a questão e decidiu pela manifesta inadequação da via eleita pela impetrante. Daí ter negado seguimento ao pedido, monocraticamente.
+Ressalto, ainda, que o HC 86.267/BA, de relatoria do Ministro Ayres Britto, mencionado pela impetrante na inicial, não se amolda ao caso sob exame, haja vista que aquele writ questionava a não intimação de advogado que pretendia acompanhar o julgamento da apelação criminal no Tribunal de Justiça local, e não feito de natureza trabalhista.
+As vias ordinárias poderão ser adequadamente acionadas para a consecução dos fins pretendidos pelo impetrante. O pedido, portanto, é de todo incabível.
+Isso posto, com base no art. 38 da Lei 8.038/1990, e nos arts. 21, § 1º, e 192, caput, do RISTF (com nova redação dada pela Emenda Regimental 30 de 29/5/2009), não conheço do habeas corpus. Prejudicado o exame da medida liminar.
+Publique-se.
+Brasília, 15 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
