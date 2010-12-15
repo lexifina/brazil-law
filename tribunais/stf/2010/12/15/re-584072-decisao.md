@@ -1,0 +1,14 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado (fls. 101):
+“DIREITO ADMINISTRATIVO - AÇÃO ORDINÁRIA - SERVIDORES APOSENTADOS - GEPI - CONTA RESERVA - INCORPORAÇÃO - INADMISSIBILIDADE - DECRETO Nº 37.262/95. A parcela decorrente da aplicação do disposto no parágrafo 3º, do artigo 5º, do Decreto Estadual nº. 37.262/95 (GEPI - CONTA RESERVA), não se incorpora à remuneração, nem será considerada para cálculo da média/ GEPI para efeito de aposentadoria.”
+2. Pois bem, a parte recorrente aponta ofensa ao inciso XXXVI do art. 5º e ao § 8º do art. 40 (na redação anterior à EC 41/2003) da Magna Carta de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo não-conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. É que a Instância Judicante de origem, ao examinar o direito estadual pertinente — direito cuja interpretação lhe é soberanamente atribuída, diga-se de passagem —, concluiu que o acréscimo remuneratório denominado “gratificação de estímulo à produção individual – conta reserva” é “vantagem paga de acordo com o esforço pessoal do servidor e/ou com o grau de complexidade das tarefas e responsabilidade do cargo, nos termos do artigo 4º, do Decreto Estadual nº. 37.262/95” (fls. 103). Pelo que os recorrentes, servidores aposentados, não fazem jus ao seu recebimento.
+5. De se ver, portanto, que o aresto impugnado afina com a jurisprudência do STF no sentido de que apenas as vantagens de natureza genérica são extensíveis aos inativos, em nome do princípio da isonomia, insculpido no § 8º do art. 40 da Constituição Federal (redação anterior à EC 41/2003). Precedentes: REs 301.080 e 410.288, da relatoria do ministro Sepúlveda Pertence; 385.041 e 402.090, da relatoria do ministro Carlos Velloso; 297.639 e 351.449, da relatoria do ministro Sydney Sanches.
+6. De mais a mais, para chegar à conclusão pretendida pela parte recorrente, no tocante à natureza da referida gratificação, faz-se necessário o reexame da legislação infraconstitucional aplicável. Providência que não tem lugar neste momento processual, nos termos da Súmula 280/STF.
+7. Cito, por amostragem, os seguintes julgados desta nossa Corte alusivos à mesma questão e oriundos do mesmo ente federado: AIs 607.220, da relatoria do ministro Cezar Peluso; 729.055-AgR, da relatoria da ministra Cármen Lúcia; 733.401, da relatoria do ministro Dias Toffoli; e 769.161, da relatoria do ministro Ricardo Lewandowski.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 15 de dezembro de 2010.
+Ministro AYRES BRITTO
+Relator
