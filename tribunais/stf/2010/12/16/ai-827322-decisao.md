@@ -1,0 +1,13 @@
+I Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+“RECURSO IMPROVIDO. NULIDADE DE SENTENÇA AFASTADA. PULSOS ALÉM FRANQUIA E ASSINATURA BÁSICA. PRELIMINAR DE COMPLEXIDADE AFASTADA (...)” (fl. 102).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, 5º, II, XXXVI, LIII, LIV e LV, 21, XI, 37, XXI, 98, I, e 109 da mesma Carta.
+O agravo não merece acolhida. Isso porque, no julgamento do RE 571.572/BA, Rel. Min. Gilmar Mendes, o Supremo Tribunal Federal decidiu que a discussão sobre a cobrança de pulsos além da franquia tem natureza infraconstitucional, que os juizados especiais têm competência para processar e julgar a matéria e, ainda, que a ANATEL carece de legitimidade passiva para atuar do feito. O julgado porta a seguinte ementa:
+“TELEFONIA. COBRANÇA DE PULSOS ALÉM DA FRANQUIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. MATÉRIA QUE SE INSERE NO ÂMBITO DE COGNIÇÃO DOS JUIZADOS ESPECIAIS. ILEGITIMIDADE PASSIVA DA ANATEL. CARÁTER INFRACONSTITUCIONAL DA MATÉRIA QUE ENVOLVE ANÁLISE DO CONTRATO DE CONCESSÃO. 1. Por não figurar na relação jurídica de consumo, a Agência Nacional de Telecomunicações - ANATEL carece de legitimidade para compor o pólo passivo de ação movida pelo particular, usuário do serviço de telefonia móvel, contra a concessionária. 2. Ausente participação da autarquia federal, sob qualquer das hipóteses previstas no art. 109, I, da Constituição, a competência é da Justiça Estadual. 3. Em se tratando de demanda que se resolve pela análise de matéria exclusivamente de direito, a dispensar instrução complexa, cabível seu processamento no Juizado Especial. 4. Reveste-se de natureza infraconstitucional a matéria relacionada à relação de consumo e ao equilíbrio econômico-financeiro do contrato de concessão. 5. Recurso conhecido em parte e, nesta extensão, desprovido”
+Nesse mesmo sentido restou decidido o RE 561.574/PE, Rel. Min. Marco Aurélio, em que a matéria teve reconhecida a repercussão geral. A ementa segue transcrita:
+“RECURSO EXTRAORDINÁRIO - TELEFONIA - COMPETÊNCIA - JUIZADO ESPECIAL - AUSÊNCIA DE COMPLEXIDADE - PROCESSO - CONFLITO DE INTERESSES - BALIZAS - AGÊNCIA REGULADORA - DISCRIMINAÇÃO DE PULSOS EXCEDENTES À FRANQUIA - MATÉRIA LEGAL - NEGATIVA DE SEGUIMENTO”.
+O mesmo entendimento se deu em relação à cobrança da tarifa básica de assinatura de serviço de telefonia fixa que, no julgamento do RE 567.454/BA, Rel. Min. Carlos Britto, o Supremo Tribunal Federal decidiu que a controvérsia situa-se no âmbito infraconstitucional.
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 16 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
