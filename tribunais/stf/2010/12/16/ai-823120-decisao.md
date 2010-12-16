@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 4ª Região. Acórdão assim ementado (fls. 23):
+“TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. PRAZO PRESCRICIONAL. CORREÇÃO MONETÁRIA INTEGRAL. JUROS. DEVOLUÇÃO.
+1. A contagem do prazo prescricional tem início vinte anos após a arrecadação, acrescido de cinco anos (prescrição qüinqüenal - tributo Decreto nº 20.910/32). 2. O empréstimo compulsório incidente sobre o consumo de energia elétrica, instituído pela Lei nº 4.156/62, deve ser restituído com correção monetária plena e juros sobre as diferenças de correção monetária, em percentual de 6% a.a., não se aplicando, no entanto, a taxa SELIC. 3. Precedentes do STF, STJ e desta Corte. 4. A ELETROBRÁS, quanto à modalidade da devolução do referido empréstimo, poderá lançar créditos nas contas de energia elétrica, pagar em dinheiro e, ainda, em ações. Precedentes da 1ª Seção desta Corte (EIAC nº 1999.04.01.042326-2/SC, maioria, julgado em 03-04-2003 e, ainda, EIAC nº 2000.04.01.020360-6/SC, maioria, julgado em 05-06-2003, Rel. para o acórdão Des. Dirceu de Almeida Soares, em ambos os feitos).”
+2. Pois bem, a parte agravante alega violação ao inciso II do art. 5º e ao art. 37 da Magna Carta de 1988, bem como ao § 12 do art. 34 do ADCT.
+3. Tenho que a insurgência não merece acolhida. É que o aresto impugnado decidiu a controvérsia com base na legislação infraconstitucional pertinente (Lei 4.156/1962). Pelo que ofensa à Constituição Federal, se existente, ocorreria de modo reflexo ou indireto, o que impede a abertura da via extraordinária. No mesmo sentido, vejam-se os AIs 614.626, da relatoria do ministro Joaquim Barbosa; e 730.418, da relatoria da ministra Cármen Lúcia.
+4. De mais a mais, em julgamento no Plenário virtual, quanto à correção monetária dos créditos oriundos do empréstimo compulsório sobre o consumo de energia elétrica, esta nossa Corte assentou que não há questão constitucional a ser examinada e, em conseqüência, deu pela ausência do requisito da repercussão geral (AI 735.933, da relatoria do ministro Gilmar Mendes).
+Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 16 de dezembro de 2010.
+Ministro AYRES BRITTO
+Relator
