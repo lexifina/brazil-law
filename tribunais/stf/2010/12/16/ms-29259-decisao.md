@@ -1,0 +1,12 @@
+D ECIS Ã O: vistos, etc.
+Trata-se de mandado de segurança, aparelhado com pedido de medida liminar, impetrado por Eli Barbosa da Silva contra ato do Conselho Nacional de Justiça. Ato consubstanciado em decisão do Corregedor Nacional de Justiça, datada de 09 de julho de 2010.
+2. Afirma o autor que o Conselho Nacional de Justiça, em 21 de janeiro de 2010 e nos termos do art. 2º da Resolução CNJ 80/2009, declarou a vacância da serventia extrajudicial de que é titular (Cartório de Registro de Imóveis e 1º Tabelionato de Notas da Comarca de São Luiz de Montes Belos-GO), com o fundamento de que o impetrante não prestou concurso público. Declaração que o impetrante impugnou, de acordo com o parágrafo único do art. 2º da mencionada resolução. Impugnação, porém, que foi desprovida.
+3. Alega o impetrante violação a seu direito líquido e certo. É que o ato que o efetivou na serventia extrajudicial não seria passível de anulação mais de cinco anos depois, quando já consumada a decadência de que trata o art. 54 da Lei 9.784/99. Isso em respeito aos princípios constitucionais da segurança jurídica e da boa-fé. Por fim, o ato que o efetivou na titularidade da serventia estaria protegido por decisão judicial transitada em julgado, datada de 08 de setembro de 2004. Daí requerer a concessão de liminar para suspender os efeitos do ato impugnado.
+4. Feito esse aligeirado relato da causa, passo à decisão. Fazendo-o, tenho, de saída, que não merece seguimento o presente mandado de segurança. É que, conforme demonstram os documentos juntados aos autos, o impetrante, afastado da serventia extrajudicial há mais de dois anos, pretende, na verdade, ser reconduzido ao posto que ocupava até 30/04/2008. Mas o fato é que esse afastamento se deu por ato do Tribunal de Justiça do Estado de Goiás (Decreto Judiciário 525/2008), em cumprimento à determinação do Conselho Nacional de Justiça no Pedido de Providências nº 861. Sendo assim, o presente mandado de segurança constitui mera reiteração daquele já impetrado neste STF sob o nº 27.308. De qualquer forma, como a declaração de vacância, no caso, se deu em 2008, escoou-se há muito o prazo decadencial de cento e vinte dias de que trata o art. 23 da Lei 12.016/2009.
+5. Ante o exposto, nego seguimento ao mandado de segurança.
+6. Intime-se o Advogado-Geral da União desta decisão.
+Publique-se.
+Brasília, 16 de dezembro de 2010.
+Ministro A YRES B RITTO
+Relator
+Documento assinado digitalmente
