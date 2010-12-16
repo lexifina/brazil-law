@@ -1,0 +1,13 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 573.540-RG/MG, Rel. Min. GILMAR MENDES, nele proferindo decisão consubstanciada em acórdão assim ementado:
+“CONTRIBUIÇÃO PARA O CUSTEIO DOS SERVIÇOS DE ASSISTÊNCIA MÉDICA, HOSPITALAR, ODONTOLÓGICA E FARMACÊUTICA. ART. 85 DA LEI COMPLEMENTAR Nº 64/2002, DO ESTADO DE MINAS GERAIS. NATUREZA TRIBUTÁRIA. COMPULSORIEDADE. DISTRIBUIÇÃO DE COMPETÊNCIAS TRIBUTÁRIAS. ROL TAXATIVO. INCOMPETÊNCIA DO ESTADO-MEMBRO. INCONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO NÃO PROVIDO.
+I – É nítida a natureza tributária da contribuição instituída pelo art. 85 da Lei Complementar nº 64/2002, do Estado de Minas Gerais, haja vista a compulsoriedade de sua cobrança.
+II – O art. 149, ‘caput’, da Constituição atribui à União a competência exclusiva para a instituição de contribuições sociais, de intervenção do domínio econômico e de interesse das categorias profissionais e econômicas. Essa regra contempla duas exceções, contidas nos arts. 149, § 1º, e 149-A da Constituição. À exceção desses dois casos, aos Estados-membros não foi atribuída competência para a instituição de contribuição, seja qual for a sua finalidade.
+III – A competência, privativa ou concorrente, para legislar sobre determinada matéria não implica automaticamente a competência para a instituição de tributos. Os entes federativos somente podem instituir os impostos e as contribuições que lhes foram expressamente outorgados pela Constituição.
+IV – Os Estados-membros podem instituir apenas contribuição que tenha por finalidade o custeio do regime de previdência de seus servidores. A expressão ‘regime previdenciário’ não abrange a prestação de serviços médicos, hospitalares, odontológicos e farmacêuticos.”
+Cumpre ressaltar, por necessário, que essa orientação plenária vem sendo observada em decisões, que, proferidas no âmbito desta Corte, versaram questão virtualmente idêntica à que ora se examina nesta sede recursal (AI 735.358/MG, Rel. Min. JOAQUIM BARBOSA – AI 741.417/MG, Rel. Min. MARCO AURÉLIO - RE 631.876-AgR/RS, Rel. Min. CELSO DE MELLO, v.g.).
+O exame da presente causa evidencia que o acórdão ora impugnado não diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+Sendo assim, e considerando as razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+Publique-se.
+Brasília, 16 de dezembro de 2010.
+Ministro CELSO DE MELLO
+Relator
