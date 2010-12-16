@@ -1,0 +1,2 @@
+Dispõe sobre a recuperação de haveres do Tesouro Nacional e do Instituto Nacional do Seguro Social - INSS, a utilização de Títulos da Dívida Pública, de responsabilidade do Tesouro Nacional, na quitação de débitos com o INSS, altera dispositivos das Leis nos 7.986, de 28 de dezembro de 1989, 8.036, de 11 de maio de 1990, 8.212, de 24 de julho de 1991, 8.213, de 24 de julho de 1991, 8.742, de 7 de dezembro de 1993, e 9.639, de 25 de maio de 1998, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
