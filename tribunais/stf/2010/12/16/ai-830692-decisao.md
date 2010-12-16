@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento contra decisão denegatória de recurso extraordinário interposto contra acórdão cuja ementa é a seguinte:
+“ RECURSO INOMINADO – AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS COM PEDIDO DE ANTECIPAÇÃO DE TUTELA – CÓDIGO DO CONSUMIDOR – PRESTAÇÃO DE SERVIÇO – CORTE IRREGULAR DE FORNECIMENTO DE ENERGIA ELÉTRICA – DANO MORAL CONFIGURADO. MÉRITO: D a redução do quantum indenizatório arbitrado. Improcedente. Acerca de tal questão comunga-se do entendimento de que na fixação do valor de indenização deve preponderar a capacidade econômica do ofensor, a condição pessoal do ofendido, a natureza e a extensão do dano e, por fim, o caráter pedagógico de sua imposição como fator de inibição de novas práticas lesivas. Quantum indenizatório arbitrado compatível com a situação fática posta em discussão. Juros de mora aplicados desde a prática do ato ilícito. Recurso conhecido e desprovido”.
+2.  Nas razões do RE alega-se ofensa aos artigos 5º, II, V, XXXV, XXXVI (ato jurídico perfeito), LIV, e § 2º, e 93, IX, da Constituição Federal.
+3.  Não se encontram prequestionados os dispositivos constitucionais dados como contrariados na petição do recurso extraordinário.
+ É certo que esta Corte tem entendido não ser necessária, para fins de prequestionamento, a menção expressa do dispositivo constitucional na decisão recorrida, desde que o tema a ele relativo seja objeto de consideração.
+ No presente caso, entretanto, o aresto impugnado apenas abordou a matéria de direito, sem enfrentar a questão constitucional disposta no dispositivo acima mencionado, tampouco foram opostos embargos de declaração, imprescindíveis a suprir eventual omissão (Súmulas STF 282 e 356).
+ E é pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142-AgR, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.9.2001, e AI 335.182-AgR, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+4.  Quanto ao mérito, esta Corte fixou o entendimento segundo o qual a análise sobre a indenização por danos morais (art. 5º, V e X, da Carta Magna) limita-se ao âmbito de interpretação de matéria infraconstitucional, cujo exame se mostra inviável nesta sede recursal. Ademais, rever a decisão da instância a quo para concluir de modo diverso implicaria o reexame de fatos e provas, o que é vedado em sede extraordinária (Súmula STF 279).
+ Nesse sentido, cito: RE 558.036-AgR, rel. Min. Eros Grau, 2ª Turma, DJ 9.5.2008; AI 645.864-ED, rel. Min. Gilmar Mendes, 2ª Turma, DJ 18.4.2008; e AI 655.792-ED, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 8.2.2008.
+5.  Ante o exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 16 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
