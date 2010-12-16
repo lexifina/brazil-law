@@ -1,0 +1,10 @@
+DECISÃO : Trata-se de agravo de instrumento interposto de decisão que inadmitiu o recurso extraordinário formado contra acórdão que afastou a pretensão de servidor público inativo de enquadrar-se no novo Plano de Carreira do Magistério Público do Distrito Federal, instituído pela Lei 3318/2004, em posição nominalmente idêntica àquela ocupada no antigo plano.
+No recurso extraordinário, o servidor inativo alega violação ao princípio da isonomia e ao disposto nos arts. 5o, XXXVI, e 40 § 4o (redação anterior à Emenda Constitucional 20/98), da Constituição federal. Sustenta que “a parte recorrente ao se aposentar se situava no último nível da categoria de professor e, para se manter o seu direito em igualdade de condições como os professores da ativa, na forma prevista no parágrafo 4o, do artigo 40, da Constituição federal, com a redação anterior à Emenda Constitucional n. 20/98, que abaixo se transcreve, deve ter situação funcional igual aos novos direitos instituídos”. (fls. 57)
+Afasto a alegação de violação ao princípio da isonomia, visto que do acórdão recorrido resta evidenciado que a lei nova não manteve os mesmos critérios para a progressão funcional ditados pelo normativo anterior. Também no que se refere à ofensa ao disposto no art. 40, § 4o (redação original), o acórdão recorrido está em conformidade como decidido no RE 323.857, rel. min. Ellen Gracie, DJ 06.08.2004 e no RE 255.328, rel. min. Ellen Gracie, DJ 08.11.2002.
+Ademais, esta Corte já firmou entendimento no sentido de se afigurar inadmissível a alegação de direito adquirido frente a alteração do regime jurídico, desde que não tenha havido redução do quantum remuneratório (cf. RE 393.314-AgR, rel. min. Eros Grau, DJ 29.04.2005, RE 219.075, rel. min. Ilmar Galvão, DJ 29.10.1999, AI 634.084, rel. min. Sepúlveda Pertence, DJ 22.02.2007 e AI 634.082, rel. min. Gilmar Mendes, DJ 07.03.2007).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 16 de dezembro de 2010.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
