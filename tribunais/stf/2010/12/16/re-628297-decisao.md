@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PRAZO PARA DECISÃO EM PROCESSO ADMINISTRATIVO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“TRIBUTÁRIO. CRÉDITO PRESUMIDO DE IPI. APROVEITAMENTO. INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS. IMPUTAÇÃO AO PAGAMENTO. REGRAMENTO.
+1. Submetido ao regime de creditamento escritural, o benefício conferido pela Lei 9.363/96 não admite correção monetária ou incidência de juros, ao menos não na sistemática ordinária de aproveitamento - dedução do crédito na apuração do IPI devido e compensação com outros tributos administrados pela Receita Federal, pois em tais modalidades o contribuinte não depende do Fisco para tirar proveito do benefício.
+2. No caso de pedido de ressarcimento em dinheiro do crédito não aproveitado na apuração do IPI ou na compensação com outros tributos, o aproveitamento do crédito presumido necessita da intervenção da Fazenda. Embora se reconheça a possibilidade de demora, deferindo-se ao Fisco o direito/dever de verificar, com responsabilidade, os valores a serem ressarcidos, as conseqüências dessa postergação não podem ser inteiramente suportadas pelo contribuinte, exceto se ele provocar o retardamento. Necessidade, então, de determinação de prazo para a Administração Fazendária instruir o processo administrativo e decidi-lo.
+3. Considerando a utilização pelo Fisco, na verificação dos pedidos de ressarcimento, de Mandados de Procedimento Fiscal, tipo Fiscalização, com base na Portaria SRF 6.087/2005, cujo art. 12, inciso I, prevê prazo de 120 (cento e vinte) dias, esse o prazo ordinário de instrução do processo administrativo. Instruído o processo, tem a Fazenda 30 (trinta) dias para decidir (Lei 9.784/99, aplicada subsidiariamente).
+4. Chega-se, assim, ao prazo ordinário de 150 (cento e cinqüenta) dias, a contar do protocolo administrativo, para a decisão da Fazenda.
+5. Não apresentada solução ao pedido nesse prazo, nem sendo ele prorrogado justificadamente, deve ser reputado o Fisco em mora, legitimando-se a imposição de correção dos valores requeridos, como meio de repartir o ônus do tempo no processo administrativo. Incide a SELIC, como meio de reparar a procrastinação imputada ao Estado.
+6. A aplicação, mesmo que subsidiária, do Código Civil em matéria de compensação tributária, na qual se compreende a metodologia de imputação do crédito ao débito, não é juridicamente possível em virtude da revogação expressa do artigo 374 daquele diploma.
+7. A matéria de compensação tributária esta amplamente regulamentada pela legislação especial, inexistindo lacuna a justificar a sua integração, exigida pelo artigo 108 do CTN para que se faça uso de tal recurso.
+8. A forma de imputação do crédito pretendida pela impetrante não respeita a necessária isonomia entre os critérios para a cobrança de débitos e créditos fiscais, além de causar distorções a maior, implicando significativa e injustificada supervalorização do crédito do sujeito passivo a ser compensado, cotejando-se o mesmo valor caso fosse restituído.
+9. A forma de imputação proporcional empregada pela SRF não provoca tais distorções e preserva a unidade e indivisibilidade do crédito tributário.
+10. O caput do artigo 163 do CTN, bem como a natureza indexadora da taxa SELIC, permitem concluir que o montante do crédito tributário é uno e indivisível, justificando a imputação proporcional” (fl. 143).
+2. A Recorrente alega que o Tribunal a quo teria contrariado os arts. 2º, 5º, inc. I e LXXVIII, da Constituição da República.
+Argumenta que “a análise de tais processos é feita seguindo a ordem cronológica das datas em que foram realizados os pedidos junto à Secretaria da Receita Federal. Além do mais, não há prova dos prejuízos efetivos a que a empresa estaria sendo exposta” (fl. 158).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste à Recorrente.
+4. O Tribunal de origem analisou e interpretou as normas da Lei n. 9.784/99 e da Portaria n. 6.087/05 da Secretaria da Receita Federal e concluiu que a Fazenda Nacional teria 150 dias para instruir e decidir processo administrativo.
+Para concluir de modo diverso, seria imprescindível a análise daquelas normas infraconstitucionais, o que é vedado em recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. DECADÊNCIA. LEI N. 9.784/99. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 622.219-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2009, grifos nossos).
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NULIDADE DE ATO ADMINISTRATIVO DE RETIFICAÇÃO DE APOSENTADORIA EM RAZÃO DE EVENTUAL DECADÊNCIA ADMINISTRATIVA. LEI 9.784/99. VIOLAÇÃO AO ART. 5º, XXXVI E XL. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. 1. A ausência de discussão, pelo acórdão recorrido, da matéria ventilada em sede de recurso extraordinário inviabiliza sua apreciação pelo STF, diante das Súmulas STF 282 e 356. 2. É pacífica a jurisprudência desta Corte ao não admitir, em sede extraordinária, alegação de ofensa indireta à Constituição Federal. Precedentes. 3. Agravo regimental improvido” (AI 765.151-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 20.5.2010, grifos nossos).
+5. Nada há, pois, a prover quanto às alegações da Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
