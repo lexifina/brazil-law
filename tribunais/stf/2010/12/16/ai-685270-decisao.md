@@ -1,0 +1,9 @@
+1.    Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por alegada ofensa ao art. 37, II, III, IV, da Constituição Federal, em que se discutiu a possibilidade de os autores prosseguirem no concurso para o cargo de Auditor Fiscal do Tesouro Nacional (fls. 510-533). O acórdão recorrido reconheceu a legalidade dos critérios de classificação e aprovação constantes do Edital 14/96, que regulou o certame, porquanto em conformidade com o Decreto-Lei 2.225/1985, o Decreto 92.360/1986 e a Lei 8.112/1990 (fls. 474-482).
+2.  O Tribunal Regional Federal da 3ª Região asseverou a insuficiência da demonstração de violação à Carta Magna, incidindo, no caso, a Súmula STF 284.
+3.  O agravo, entretanto, não merece prosperar. Inicialmente, ressalte-se que o Presidente do Tribunal de origem tem competência para exercer o prévio juízo de admissibilidade de recursos dirigidos a esta Corte, sem que essa verificação signifique vinculação na análise dos pressupostos recursais, uma vez que se trata de ato revestido de provisoriedade, cabendo ao Supremo Tribunal exercer um segundo juízo de admissibilidade dos recursos de sua competência.
+4.  Quanto à questão de fundo, também não prosperam as alegações, pois a análise das violações alegadas requer, necessariamente, o reexame de fatos e de provas contidas nos autos, das cláusulas editalícias, além da legislação infraconstitucional na qual se fundou a Corte de origem, hipóteses inviáveis em sede extraordinária, dada a incidência da Súmula STF 279, porquanto a ofensa à Constituição Federal, se existisse, seria reflexa. Nesse sentido, a 2ª Turma, no julgamento do RE 179.500/RS, rel. Min. Marco Aurélio, DJ 15.10.1999, 2ª Turma.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 16 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
