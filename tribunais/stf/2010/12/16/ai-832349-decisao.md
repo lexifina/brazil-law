@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. QUEBRA DE PEÇA VENDIDA PELA RÉ (VIRABREQUIM). ALEGAÇÃO DE MÁ UTILIZAÇÃO DO PRODUTO NÃO COMPROVADA. IMPOSSIBILIDADE DE APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. NÃO ENQUADRAMENTO NO CONCEITO DE CONSUMIDOR FINAL PREVISTO NO ART. 2º DA LEI ESPECÍFICA. POSSIBILIDADE DE COMPROVAÇÃO DOS FATOS ATRAVÉS DE PROVA TESTEMUNHAL. INTELIGÊNCIA DO ART. 401 DO CPC. INDÍCIOS QUE APONTAM PARA A MESMA CONCLUSÃO. RECURSO CONHECIDO E DESPROVIDO
+(...)” (fl. 183).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXIV e LV, da mesma Carta.
+O agravo não merece acolhida. Isso porque o Supremo Tribunal tem decidido no sentido de que o indeferimento de diligência probatória, tida por desnecessária pelo juízo a quo, não viola os princípios do contraditório e da ampla defesa. Nesse sentido, além dos precedentes já mencionados na decisão impugnada, confira-se o recente julgado:
+“Agravo regimental no agravo de instrumento. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Indeferimento de diligência probatória. Ausência de violação à Constituição Federal. Precedentes. 1. As alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição da República. 2. O indeferimento de diligência probatória, tida por desnecessária pelas instâncias ordinárias, não viola os princípios do contraditório e da ampla defesa. 3. Agravo regimental desprovido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil” (AI 660.254-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma).
+Ressalte-se, ainda, que o Tribunal de origem, ao concluir como suficiente a prova testemunhal, não violou o art. 5º, LV, da Constituição, porquanto o mencionado dispositivo não impede a livre análise e valoração da prova pelo Juízo a quo. Seguindo essa linha de raciocínio, anote-se:
+“Recurso extraordinário: descabimento: ausência de violação à garantia da ampla defesa (CF, art. 5º, LV), que não impede a livre análise e valoração da prova pelo órgão julgador: precedentes; questão, ademais, que demanda reexame de fatos e provas, ao qual não se presta o RE: Súmula 279” (AI 547.949-AgR/RS, Rel. Min. Sepúlveda Pertence, Primeira Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 16 de dezembro de 2010.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
