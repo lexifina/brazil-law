@@ -1,0 +1,13 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão que decidiu pela competência da Justiça do Trabalho para decidir controvérsia a respeito da cobrança de contribuição destinada ao SENAI, por entender que se trata de contribuição sindical (fls. 167-173).
+2.  No RE, a parte recorrente alega violação ao art. 114, III, da Constituição Federal, sustentando, em síntese, que a contribuição para o SENAI não teria caráter sindical e que a competência para conhecer da ação seria da Justiça Comum Estadual (fls. 180-185).
+3.  Admitido o recurso na origem (fls. 188-189), subiram os autos.
+4.  Assiste razão ao recorrente. O Supremo Tribunal Federal possui entendimento de que compete à Justiça Comum Estadual processar e julgar as causas relativas às contribuições devidas aos serviços sociais autônomos integrantes do chamado “Sistema S”, entre eles o SENAI. Sobre a questão vejam-se os seguintes julgados:
+“Competência: Justiça comum: ação popular contra o SEBRAE: L. 4717/65 (LAP), art. 20, f; CF, art. 109, IV; Súmula 516. 1.O SEBRAE não corresponde à noção constitucional de autarquia, que, para começar, há de ser criada por lei específica (CF, art. 37, XIX) e não na forma de sociedade civil, com personalidade de direito privado, como é o caso do recorrido. Por isso, o disposto no art. 20, -f-, da L. 4717/65 (LAP), para não se chocar com a Constituição, há de ter o seu alcance reduzido: não transforma em autarquia as entidades de direito privado que recebam e apliquem contribuições parafiscais, mas, simplesmente, as inclui no rol daquelas - como todas as enumeradas no art. 1º da LAP - à proteção de cujo patrimônio se predispõe a ação popular. 2. Dada a patente similitude da natureza jurídica do SESI e congêneres à do SEBRAE, seja no tocante à arrecadação e aplicação de contribuições parafiscais, seja, em conseqüência, quanto à sujeição à fiscalização do Tribunal de Contas, aplica-se ao caso a fundamentação subjacente à Súmula 516/STF: O Serviço Social da Indústria - SESI - está sujeito à jurisdição da Justiça estadual” (RE 366.168/SC, rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 14.5.2004).
+.................................................................................
+“ EMENTA: Recurso extraordinário. 2. Competência da justiça estadual. SEBRAE. Personalidade de entidade privada. Precedente da 1a Turma. 3. Recurso extraordinário provido.” (RE 414.375/SC, rel. Min. Gilmar Mendes, 2ª Turma, DJ 1º.12.2006).
+ O acórdão recorrido divergiu dessa orientação.
+6.  Diante do exposto, com fundamento no art. 557, § 1º-A, do CPC, dou provimento ao recurso extraordinário.
+Publique-se.
+Brasília, 17 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
