@@ -1,0 +1,14 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo de instrumento revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em estrita conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+Com efeito, a colenda Segunda Turma desta Suprema Corte, ao julgar o RE 331.099/SP, Rel. Min. MAURÍCIO CORRÊA, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora agravante:
+“AÇÃO DE CUMPRIMENTO PROCEDENTE. SUPERVENIENTE EXTINÇÃO DA SENTENÇA NORMATIVA EM QUE SE FUNDOU A AÇÃO. TÉRMINO DO PROCEDIMENTO EXECUTÓRIO. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO.
+1. A ação de cumprimento destina-se a assegurar a realização em concreto das regras fixadas na sentença normativa. Esta possui natureza singular e excepcional, projetando no mundo jurídico normas de caráter genérico e abstrato, por meio de ato jurisdicional praticado na solução de conflito coletivo de trabalho submetido à deliberação do Poder Judiciário, sujeito, dessa forma, a recurso e posterior alteração.
+2. A superveniente extinção definitiva do processo de dissídio coletivo implica o total esvaziamento da coisa julgada formada na ação de cumprimento, que, assim, perde seu poder impositivo em relação à parte vencida. Afastada a eficácia da sentença normativa que constituía o elemento essencial da ‘res judicata’, não tem mais sentido prosseguir na execução.
+3. A imutabilidade material da sentença normativa é relativa, ostentando idêntica natureza a decisão proferida na ação destinada a garantir o seu cumprimento. Extinta a primeira por decisão transitada em julgado, igual sorte atinge a segunda, se ainda não ultimada sua execução, sem que haja violação à coisa julgada formada na fase de conhecimento da ação de cumprimento.
+Recurso extraordinário não conhecido por ausência de violação ao inciso XXXVI do artigo 5º da Constituição Federal.”
+Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, monocráticos e colegiados, proferidos no âmbito do Supremo Tribunal Federal, a propósito de controvérsia virtualmente idêntica à que ora se examina nesta sede recursal (AI 429.912-AgR/SP, Rel. Min. NELSON JOBIM – RE 394.181/SP, Rel. Min. GILMAR MENDES – RE 403.691/SP, Rel. Min. SEPÚLVEDA PERTENCE, v.g.).
+O exame da causa em que interposto o recurso extraordinário em questão evidencia, tal como precedentemente referido, que o acórdão impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria.
+Sendo assim, e tendo em consideração as razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+Publique-se.
+Brasília, 17 de dezembro de 2010.
+Ministro CELSO DE MELLO
+Relator
