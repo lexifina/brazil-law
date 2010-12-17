@@ -1,0 +1,15 @@
+1.  Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, a e c, da Constituição Federal, contra acórdão no qual se discute a aplicabilidade do § 4º do artigo 100 da Constituição Federal, acrescentado pela Emenda Constitucional 37/2002, ao precatório complementar expedido em data anterior à sua entrada em vigor.
+2.  No RE, a parte recorrente alega violação aos art. 100, § 4º, da Constituição Federal, sustentando, em síntese, que a norma prevista no dispositivo apontado é aplicável ao presente caso.
+3.  Inadmitido na origem (fls. 151-152), subiram os autos em virtude do provimento do AI 597.528 (fl. 162).
+4.  O Ministério Público Federal manifestou-se pelo não-conhecimento do recurso quanto ao fundamento do art. 102, III, c, da Constituição Federal, e pelo desprovimento quanto a interposição pela alínea a do permissivo constitucional (fls.167-169).
+5.  O recurso não merece prosperar. Em casos semelhantes ao dos presentes autos, o Supremo Tribunal Federal tem se posicionado no sentido de que o § 4º do artigo 100 da Carta Maior, acrescentado pela Emenda Constitucional 37/2002, não se aplica ao precatório complementar expedido em data anterior à sua entrada em vigor. Nesse sentido: RE 422.598-AgR/SP, rel. Min. Marco Aurélio, 1ª Turma, DJ 30.8.2005; AI 495.193-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, DJ 22.9.2006, AI 531.074-AgR/SP, rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 24.6.2005, este último assim ementado:
+“ EMENTA: I. Recurso extraordinário: inadmissibilidade. Do sistema constitucional vigente, que prevê o cabimento simultâneo de recurso extraordinário e recurso especial contra o mesmo acórdão dos tribunais de segundo grau, decorre que da decisão do STJ, no recurso especial, só se admitirá recurso extraordinário se a questão constitucional objeto do último for diversa da que já tiver sido resolvida pela instância ordinária. No caso, a matéria debatida no RE é a mesma apreciada pelo Tribunal de Justiça de São Paulo. Precedente: AI-AgR 145.589,Pertence, DJ 24.6.1994. II. Precatório judicial emitido em data anterior à vigência da EC 37/2002, que acrescentou o § 4º ao artigo 100 da Constituição Federal, donde a impertinência da invocação desse dispositivo, no caso”.
+ Essa foi a orientação do Ministério Público Federal em seu parecer, cujo trecho transcrevo:
+“Com efeito, não se aplica ao caso sub examine a norma prevista no artigo 100, parágrafo 4º da Magna Carta, já que se trata de requisição judicial de pagamento feita anteriormente à vigência da Emenda Constitucional nº 37/02, que passou a vedar a expedição de precatório complementar ou suplementar de valor pago” (fl. 168).
+ O acórdão recorrido não divergiu dessa orientação.
+6.  Finalmente, quanto à alínea c, o aresto atacado não julgou válida lei ou ato normativo local contestado em face da Constituição Federal, tampouco tal fato foi demonstrado nas razões do recurso extraordinário, revelando-se também incabível a interposição por esse fundamento.
+7.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 17 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
