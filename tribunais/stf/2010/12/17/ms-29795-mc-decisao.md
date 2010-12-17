@@ -1,0 +1,18 @@
+DECISÃO
+CARTÓRIO – TITULARIDADE – PASSAGEM DO QUINQUÊNIO – RELEVÂNCIA E RISCO DEMONSTRADOS – LIMINAR DEFERIDA.
+1. A Assessoria prestou as seguintes informações:
+O impetrante, Titular do Cartório de Registro Civil das Pessoas Naturais e Notarial de Sertãozinho/PB, busca ver cassado o ato, formalizado em 12 de julho de 2010, mediante o qual o Corregedor Nacional de Justiça, evocando a Resolução nº 80/2009, do Conselho Nacional de Justiça (documento anexo), fez publicar a lista de serventias vagas, a serem preenchidas por concurso público, incluindo aquela em que atua como responsável.
+Afirma ter sido nomeado, em 20 de julho de 1982, como escrevente e substituto do tabelião da serventia referida, por meio de ato do Governador do Estado da Paraíba, e, em 4 de maio de 1995, designado pelo Juiz de Direito e Diretor do Fórum da Comarca de Caiçara/PB para funcionar como tabelião substituto, tendo em vista a aposentadoria do titular. Aduz haver exercido a titularidade do referido cartório, em substituição, antes da promulgação da Constituição Federal, por mais de seis anos. Sustenta ofensa ao direito líquido e certo, à boa-fé, à confiança e à segurança das relações jurídicas, no que o Conselho Nacional de Justiça reviu o ato de nomeação após mais de vinte e sete anos, olvidando o teor do artigo 54 da Lei nº 9.784/99. Diz ter o citado Conselho exorbitado os respectivos poderes, desrespeitando a autonomia dos Estados e afrontando o pacto federativo, uma vez que não lhe cabe estabelecer normas sobre vacância e desconstituição de delegações das serventias extrajudiciais. Evoca como precedentes os acórdãos formalizados no Mandado de Segurança nº 24.268, relatora Ministra Ellen Gracie, publicado no Diário da Justiça de 17 de setembro de 2004, e no Mandado de Segurança nº 22.357, relator Ministro Gilmar Mendes, veiculado no Diário da Justiça de 5 de novembro de 2004. Menciona julgados do Superior Tribunal de Justiça, consoante diz, relacionados ao prazo quinquenal.
+Sob o ângulo do risco, aponta a determinação do Conselho Nacional de Justiça dirigida aos Tribunais de Justiça dos Estados a fim de realizarem concursos públicos para o preenchimento das serventias declaradas vagas, o que já começou a ser realizado pelo Tribunal de Justiça do Estado da Paraíba, por meio da Resolução nº 16, de 20 de outubro de 2010. Requer o deferimento de liminar para suspender o ato no qual consta o Cartório de Registro Civil das Pessoas Naturais e Notarial de Sertãozinho/PB na lista de serventias vagas. Alfim, pleiteia a concessão da segurança, assegurando-lhe a permanência na delegação.
+Com a inicial vieram os documentos eletronicamente juntados.
+Anoto ter sido formalizada a impetração em 11 de novembro de 2010.
+O impetrante, atendendo determinação de Vossa Excelência no sentido de juntar cópia da Resolução nº 80 do Conselho Nacional de Justiça, apresentou a peça no último dia 9.
+O processo encontra-se concluso para exame do pleito de liminar.
+2. Surge das peças acostadas ao processo que o impetrante foi efetivado no cargo de oficial titular do Cartório de Registro Civil das Pessoas Naturais e Notarial de Sertãozinho/PB em 4 de maio de 1995. Então, já transcorreu o prazo previsto no artigo 54 da Lei nº 9.784/99 para a administração pública – gênero – rever atos praticados.
+3. Defiro a medida liminar para manter o impetrante na titularidade do referido cartório até a decisão final deste mandado de segurança.
+4. Solicitem informações ao Conselho Nacional de Justiça.
+5. Com a manifestação, colham o parecer do Procurador-Geral da República.
+6. Publiquem.
+Brasília, 17 de dezembro de 2010.
+Ministro MARCO AURÉLIO
+Relator
