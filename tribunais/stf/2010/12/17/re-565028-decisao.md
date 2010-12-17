@@ -1,0 +1,32 @@
+1.  Trata-se de recurso extraordinário interposto por alegada violação aos arts. 5º, XXXVI, e 37, XIII, da Constituição Federal, contra acórdão que discutiu a reintegração aos vencimentos da impetrante dos valores da Gratificação de Atividade Técnica – GATA, regulada pelo Decreto 23.219/2003, assim ementado (fls. 87-92):
+“MANDADO DE SEGURANÇA – SERVIDOR PÚBLICO – VENCIMENTO – EXCLUSÃO DAS VANTAGENS – IMPOSSIBILIDADE ANTE O PRINCÍPIO DO DIREITO ADQUIRIDO – SEGURANÇA CONCEDIDA.
+I – Estabelecida vantagens por lei, é defesa sua exclusão, sob pena de ofensa aos princípios constitucionais, do direito adquirido e da divisão funcional do poder.
+II – Segurança concedida”.
+2.  O Estado do Amazonas sustenta, em síntese (fls. 128-135), que o aresto recorrido contrariou as aludidas normas constitucionais, na medida em que:
+“(...) deu a norma da Constituição conteúdo e extensão que são dissociados de seu verdadeiro sentido.
+Com efeito entende o Tribunal local que o valor da Gratificação de Atividades Técnico-Administrativas é extensível a todos os servidores indistintamente. Ocorre que isso não é possível em razão da própria natureza jurídica desta parcela”.
+3.  Inicialmente, não houve prequestionamento da norma constitucional contida no art. 37, XIII, à qual também se apontou violação, porque não abordada pelo acórdão recorrido, e, embora suscitada na petição dos embargos declaratórios (fls. 98-104), não foi apontada oportunamente por ocasião da apresentação das informações (fls. 25-33), não se prestando os declaratórios para inovar matéria constitucional estranha aos autos, como tem reiteradamente decidido esta Corte.
+ É pacífica, neste Tribunal, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142-AgR/RS, rel. Min. Maurício Corrêa, 2a Turma, DJ 28.9.2001; e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1a Turma, DJ 31.10.2001).
+4.  Quanto à questão de fundo, é certo que o entendimento pacífico desta Corte sinaliza descaber alegação de direito adquirido a regime jurídico e não haver infringência ao princípio da irredutibilidade de vencimentos quando preservado o valor nominal dos vencimentos dos servidores.
+5.  No entanto, o Tribunal de origem, para conceder a segurança, entendeu que houve redução no total dos vencimentos da ora recorrida, conforme se vê neste trecho do voto condutor do acórdão recorrido (fls. 90-92):
+“Conforme se constata através dos Contra-cheques apensado, com o título VANTAGEM INDIVIDUAL , a impetrante vêm recebendo apenas os ínfimos valores de R$ 500,00 (quinhentos reais), devendo os mesmos serem devidamente atualizados, tendo o seu valor corrigido para R$ 800,00 (oitocentos reais) relativa a atual simbologia AD-3 – GRATIFICAÇÃO DE ATIVIDADE TÉCNICA , como demonstrado nos autos”.
+6.  Dessa forma, o recurso não merece prosperar, porquanto, para o exame da suposta violação ao art. 5º, XXXVI, da CF, seriam necessários a análise de legislação local (Súmula STF 280) e o reexame de fatos e provas (Súmula STF 279), para se concluir pela redução ou não nos vencimentos da parte recorrida, hipóteses inviáveis em sede extraordinária.
+ Nesse sentido, AI 490.910- AgR/SP, de minha relatoria, 2ª Turma, unânime, DJe 18.9.2009; e RE 295.750-AgR/PB, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 1º.8.2008, este assim ementado:
+“ AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. GRATIFICAÇÃO DE FUNÇÃO INCORPORADA. LEIS COMPLEMENTARES 39/85 E 41/86 DO ESTADO DA PARAÍBA. IRREDUTIBILIDADE DA REMUNERAÇÃO. LEGISLAÇÃO LOCAL. FATOS E PROVAS. SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL.
+1.  O Supremo Tribunal Federal fixou jurisprudência no sentido de que não há direito adquirido a regime jurídico-funcional pertinente à composição dos vencimentos ou à permanência do regime legal de reajuste de vantagem, desde que eventual modificação introduzida por ato legislativo superveniente preserve o montante global da remuneração, não acarretando decesso de caráter pecuniário. Precedentes.
+2.  Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local e de fatos e provas, circunstâncias que impedem a admissão do recurso extraordinário ante os óbices das Súmulas 279 e 280 do Supremo Tribunal Federal.
+ Agravo regimental a que se nega provimento”.
+Menciono, ainda, o RE 378.932- AgR/PE, rel. Min. Ayres Britto, 1ª Tuma, unânime, DJ 14.5.2004, cujo trecho da ementa transcrevo:
+“Tendo em vista a garantia constitucional da irredutibilidade de vencimentos, não poderá ocorrer a diminuição do quanto já percebido conforme o regime anterior, não obstante a ausência de direito adquirido à sua preservação”.
+7.  Da mesma forma, seria necessário examinar o contido nos referidos Decretos (Súmula STF 280) para se concluir pela natureza da gratificação em exame (Gratificação de Atividades Técnicas) e saber se a extensão a todos os servidores ofenderia ou não a Constituição Federal. Nesse sentido, aponto o RE 590.344-AgR/AM, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 17.4.2009; e o RE 504.488-AgR/AM, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 14.3.2008, ambos assim ementados:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO INATIVO. GRATIFICAÇÃO DE ATIVIDADES TÉCNICAS – GATA. NATUREZA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL: INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO ”.
+.................................................................................
+“ AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO. INATIVOS. EXTENSÃO. REEXAME DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL .
+1.  Este Tribunal firmou entendimento no sentido de que apenas as vantagens de natureza de caráter geral podem ser estendidas aos inativos, com fundamento no artigo 40, § 8º, da Constituição do Brasil.
+2.  O acórdão recorrido não distinguiu o caráter jurídico da gratificação pleiteada. Para acolher as alegações do agravante de que se trata de vantagem pessoal, seria necessária a análise da legislação circunstância que impede a apreciação do extraordinário. Súmula 280-STF.
+Agravo regimental a que se nega provimento”.
+8.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 17 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
