@@ -1,0 +1,11 @@
+DECISÃO : Trata-se de agravo de instrumento contra decisão que não admitiu recurso extraordinário interposto de acórdão de Turma Recursal dos Juizados Especiais que versou sobre o valor da execução da multa cominatória.
+Alega-se violação do disposto nos arts. 5º, V, X, XXXII e XXXVI; e 93, IX, da Carta Magna, por ausência de fundamentação da decisão recorrida.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito dos artigos supracitados, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta do recurso inominado, deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356 do STF. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ de 15.09.2000), cujo acórdão ficou assim ementado:
+“- Não tem razão a agravante. Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento.
+Agravo a que se nega provimento.”
+Por outro lado, não houve a suposta ofensa ao art. 93, IX, da Constituição, pois a decisão recorrida inequivocamente prestou jurisdição, sem violar o princípio do devido processo legal, e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o ora agravante. Nesse sentido: AI 651.364-AgR (rel. min. Menezes Direito, DJ de 26.09.2008); AI 453.483-AgR (rel. min. Marco Aurélio, DJ de 08.06.2007); AI 624.713-ED (rel. min. Cármen Lúcia, DJ de 31.01.2008); AI 649.140-AgR (rel. min. Eros Grau, DJ de 17.08.2007).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 17 de dezembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
