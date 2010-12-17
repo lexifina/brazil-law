@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1099, de 15 de dezembro de 2010
+Dispõe sobre a obrigatoriedade de instalação de Equipamento Emissor de Cupom Fiscal pelas concessionárias operadoras de rodovias.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVIII do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 35 da Lei nº 9.430, de 27 de dezembro de 1996, nos arts. 61 a 63 da Lei nº 9.532, de 10 de dezembro de 1997, no inciso XXIII do art. 10 da Lei nº 10.833, de 29 de dezembro de 2003, e no art. 7º da Lei nº 11.033, de 21 de dezembro de 2004, resolve:
