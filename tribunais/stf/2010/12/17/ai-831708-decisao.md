@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) de acórdão de Turma Recursal, cuja ementa é do seguinte teor (fls.29):
+“DANO MORAL – Início de execução do contrato, de maneira a fazer supor a aceitação da proposta que, entretanto, foi posteriormente recusada, de maneira a impor transtornos e indignação que merecem reparos – Ação julgada procedente – Recurso improvido.
+DANO MATERIAL – Despesas com aquisição de bens e introdução de alterações em imóvel, com o fim de instalação de cozinha planejada, objeto de proposta de contrato dirigida à recorrente – Ausência de afirmação, pela recorrida, quanto à inutilidade das coisas e das reformas, bem como sobre a intenção de entregar para a recorrente os bens adquiridos, porque imprestáveis ao uso – Ação julgada procedente – Recurso provido.
+MÁ-FÉ – Inocorrência de intenção de causar dano processual – inviabilidade da apenação.”
+Consigno inicialmente que se trata de apelo extraordinário interposto de acórdão cuja publicação se verificou em data posterior a 03.05.2007, portanto, quando já exigível a demonstração formal da existência de repercussão geral da questão constitucional invocada na peça recursal (cf. AI 664.567-QO, rel. min. Sepúlveda Pertence).
+Observo que o recurso extraordinário está fundamentado em suposta afronta ao art. 5º, X, da Constituição federal, afirmando-se, em preliminar, que “uma decisão que viola os princípios basilares do direito é de manifesta repercussão jurídica e econômica, eis que a violação de um princípio em conjunto com a manutenção da decisão ora atacada, representa encargo econômico a Recorrente, cujo procedente servirá de exemplo para outras ações judiciais” (Sic – fls. 33).
+É patente, pois, que a parte não desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância — do ponto de vista econômico, político, social ou jurídico — das questões constitucionais aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza. Nesse sentido: AI 709.995, rel. min. Cármen Lúcia, DJe de 24.06.2008.
+Por outro lado, o recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 5º, X, da Constituição federal, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Ademais, a análise das questões constitucionais suscitadas implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 17 de dezembro de 2010.
+Ministro JOAQUIM BARBOSA
+Relator
