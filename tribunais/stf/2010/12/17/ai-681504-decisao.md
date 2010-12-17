@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por alegada violação ao art. 5º, LV, da Constituição Federal. O acórdão recorrido negou provimento a agravo contra decisão que não recebeu apelação, sob o fundamento de intempestividade, nos seguintes termos (fls. 42-45:
+“ AGRAVO DE INSTRUMENTO – PRAZO RECURSAL – Nas comarcas do interior, a intimação deve considerar-se feita no dia em que o Diário Oficial circulou na localidade – Apelação intempestiva. Recurso improvido”.
+2.  O agravo, entretanto, não merece prosperar. Inicialmente, ressalte-se que o Presidente do Tribunal de origem tem competência para exercer o prévio juízo de admissibilidade de recursos dirigidos a esta Corte, sem que essa verificação signifique vinculação na análise dos pressupostos recursais, uma vez que se trata de ato revestido de provisoriedade, cabendo ao Supremo Tribunal exercer um segundo juízo de admissibilidade dos recursos de sua competência.
+3.  Quanto à questão de fundo, também não prosperam as alegações. Com efeito, o dispositivo constitucional referido não foi prequestionado, porque não abordado pelo acórdão recorrido, nem pelos embargos de declaração opostos, não suprido, portanto, o requisito do prequestionamento (Súmula STF 282). Ademais, a controvérsia relativa ao reexame do julgamento proferido na Corte de origem, para fins de nulidade, por suposta ofensa ao princípio do contraditório, à ampla defesa e ao duplo grau de jurisdição, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade ao disposto no art. 5º, LV, da Constituição Federal.
+ Vejam-se: AI 639.672- AgR/RJ, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 27.6.2008; AI 635.749-AgR/DF, rel. Min. Gilmar Mendes, 2ª Turma, unânime, DJe 24.4.2008; AI 746.588-AgR/MG, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 26.6.2009; e AI 747.066-AgR/RJ, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJe 26.6.2009.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+Publique-se.
+Brasília, 17 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
