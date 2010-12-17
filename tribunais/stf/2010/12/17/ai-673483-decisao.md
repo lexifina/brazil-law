@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que entendeu que a empresas prestadoras de serviço não estão sujeitas ao pagamento de Finsocial com as majorações prevista nas Leis 7.787/89, 7.894/89 e 8.147/90 (fls. 258-262).
+ No RE, a parte agravante alega ofensa ao artigo 5º, caput, e 150, II, da Constituição Federal, sustentando, em síntese, que, por ser empresa que desempenha atividades mistas – prestação de serviços e comércio de alimentos e bebidas –, estaria excluída da hipótese que reconheceu a constitucionalidade da legislação referida (fls. 295-312).
+2.  Assiste razão ao agravante. O acórdão recorrido julgou inconstitucionais as majorações de alíquota da contribuição ao Finsocial determinadas pelas Leis 7.787/89, 7.894/89 e 8.147/90. Dessa forma, mostra-se divergente do entendimento firmado pelo Plenário desta Corte, que, no julgamento do RE 150.755/PE, rel. para acórdão Min. Sepúlveda Pertence, DJ 20.8.1993 (RTJ 149/259), após declarar a constitucionalidade do art. 28 da Lei 7.738/89, manteve a contribuição do Finsocial para as empresas exclusivamente prestadoras de serviço.
+ Mais tarde, no julgamento do RE 187.436/RS (rel. Min. Marco Aurélio, Plenário, maioria, DJ 31.10.1997), explicitou a legitimidade, em relação a elas, dos aumentos de alíquota decorrentes das Leis 7.787/89, 7.894/89 e 8.147/90. A questão foi sumulada na Sessão Plenária de 24.9.2003, DJ 13.10.2003. Súmula STF 658:
+“ SÃO CONSTITUCIONAIS OS ARTS. 7º DA LEI 7787/1989 E 1º DA LEI 7894/1989 E DA LEI 8147/1990, QUE MAJORARAM A ALÍQUOTA DO FINSOCIAL, QUANDO DEVIDA A CONTRIBUIÇÃO POR EMPRESAS DEDICADAS EXCLUSIVAMENTE À PRESTAÇÃO DE SERVIÇOS”.
+ Nesse mesmo sentido: AI 633.882-AgR/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 21.8.2009; e AI 438.944-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 08.10.2010.
+3.  Diante do exposto, com fundamento no art. 544, § 4º, do CPC, conheço do agravo e, desde logo, dou provimento ao recurso extraordinário para afastar a declaração de inconstitucionalidade das majorações de alíquota da contribuição ao Finsocial determinadas pelas Leis 7.787/89, 7.894/89 e 8.147/90.
+ Publique-se.
+Brasília, 17 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
