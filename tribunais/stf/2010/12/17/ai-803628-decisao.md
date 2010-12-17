@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discute o pagamento de parcelas contratuais.
+ No RE, sustenta-se ofensa ao artigo 5º, XXXVI, da Constituição Federal.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que o dispositivo aos qual se alegou violação não se encontra prequestionado, porque não abordado pelo acórdão recorrido e, embora mencionado nos embargos de declaração opostos, não foi oportunamente apontado nas razões de apelação, sendo certo que são inviáveis os embargos de declaração opostos para fins de prequestionamento quando a questão constitucional não tiver sido ventilada no recurso interposto perante o Tribunal a quo. Incidem, na espécie, as Súmulas STF 282 e 356.
+3.  Ademais, o acórdão impugnado se limitou a interpretar a legislação de índole infraconstitucional, conforme se depreende da ementa do citado aresto:
+ “ AÇÃO DE COBRANÇA – CONTRATO DE PERMUTA E PROMESSA DE COMPRA E VENDA – ÔNUS DA PROVA – FATO NEGATIVO – RECONVENÇÃO – PAGAMENTO DAS PARCELAS AVENÇADAS – COMPROVAÇÃO.    Cabe ao autor provar os fatos constitutivos do seu direito e, ao réu, os fatos impeditivos, modificativos ou extintivos do direito do autor. Todavia, no caso específico dos autos, por pretender a apelante reconhecimento de fato negativo (não reconhecimento das duas últimas parcelas do contrato), mostra-se devida a inversão da premissa de distribuição dos ônus da prova adotada no art. 333 do CPC, impondo aos apelados o ônus de comprovar que houve o pagamento de todas as parcelas. Ademais, os apelados apresentaram reconvenção, aduzindo que já quitaram todas as obrigações decorrentes dos contratos, objetos desta demanda, motivo pelo qual a eles caberia a prova de tais alegações. Em se tratando de ação de cobrança, uma vez provado que houve quitação integral do débito, deve-se julgar improcedente o pedido inicial.”(fl. 90).
+4.  Finalmente, rever a decisão da instância a quo para concluir de modo diverso implicaria o reexame de legislação infraconstitucional, o que é vedado em sede extraordinária.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 17 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
