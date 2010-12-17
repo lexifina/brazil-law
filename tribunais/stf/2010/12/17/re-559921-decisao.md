@@ -1,0 +1,13 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão que negou ao Estado do Rio Grande do Sul, como sucessor da Caixa Econômica Estadual, o direito à contagem de prazo em dobro para recorrer.
+2.  No RE, a parte recorrente alega violação aos art. 173, § 1º, da Constituição Federal, sustentando, em síntese, que o privilégio processual do prazo em dobro para recorrer é assegurado à Fazenda Pública, nela incluídas as autarquias.
+3.  Admitido o recurso na origem (fls. 494-495), subiram os autos.
+4.  O Ministério Público Federal manifestou-se pelo provimento do recurso (fls. 520-522).
+5.  Assiste razão ao recorrente. No julgamento do RE 342.957/RS, rel. Min. Moreira Alves, DJ 14.6.2002, caso semelhante ao dos presentes autos, a Primeira Turma desta Corte manifestou-se favoravelmente ao direito de o Estado do Rio Grande do Sul contar em dobro o prazo para recorrer na qualidade de sucessor da extinta Caixa Econômica do Estadual. Veja-se:
+“EMENTA: - Juros reais. Parágrafo 3º do artigo 192 da Constituição Federal. - O recurso extraordinário é tempestivo, porquanto o Estado do Rio Grande do Sul é sucessor da Caixa Econômica estadual na condição de autarquia, não havendo nos autos elementos para aferir-se, sem sombra de dúvida, o contrário, como sustenta o recorrido, sendo o prazo, pois, contado em dobro. Recurso extraordinário conhecido e provido”.
+6.  Ademais, a jurisprudência desta Corte está pacificada no sentido de que os privilégios processuais concedidos à fazenda pública estendem-se às suas autarquias. Nesse sentido: RE 273.501-AgR/RJ, rel. Min. Sidney Sanches, 1ª Turma, DJ 08.3.2002; e AI 349.477-AgR/PR, rel. Min. Celso de Mello, 2ª Turma, DJ 28.02.2003, este último assim ementado:
+“ EMENTA: RECURSO - APLICABILIDADE ESTRITA DA PRERROGATIVA PROCESSUAL DO PRAZO RECURSAL EM DOBRO (CPC, ART. 188) - PARANAPREVIDÊNCIA - ENTIDADE PARAESTATAL (ENTE DE COOPERAÇÃO) - INAPLICABILIDADE DO BENEFÍCIO EXTRAORDINÁRIO DA AMPLIAÇÃO DO PRAZO RECURSAL - INTEMPESTIVIDADE - RECURSO NÃO CONHECIDO. - As empresas governamentais (sociedades de economia mista e empresas públicas) e os entes de cooperação (serviços sociais autônomos e organizações sociais) qualificam-se como pessoas jurídicas de direito privado e, nessa condição, não dispõem dos benefícios processuais inerentes à Fazenda Pública (União, Estados-membros, Distrito Federal, Municípios e respectivas autarquias), notadamente da prerrogativa excepcional da ampliação dos prazos recursais (CPC, art. 188). Precedentes”.
+7.  Diante do exposto, com fundamento no art. 557, § 1º-A, do CPC, dou provimento ao recurso extraordinário.
+Publique-se.
+Brasília, 17 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
