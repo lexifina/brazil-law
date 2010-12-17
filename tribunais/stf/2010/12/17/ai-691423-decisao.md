@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que entendeu pela não-exclusão da incidência da multa moratória prevista nos artigos 34 e 35 da Lei 8.212/91 e pelo não cabimento da denúncia espontânea nos recolhimentos sujeitos a lançamento por homologação (fls. 104-111).
+ No RE, sustenta-se ofensa aos artigos 5º, LV e 192, § 3º, da Constituição Federal.
+2.  O recurso não merece prosperar. Verifico que o artigo 192, § 3º, ao qual se alegou violação não se encontra prequestionado, porque não abordado pelo acórdão recorrido, nem opostos embargos de declaração para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+ Ressalte-se que a jurisprudência sedimentada desta Corte não admite o chamado “prequestionamento implícito”. Nesse sentido, colaciono, entre muitos outros, os seguintes julgados: AI 508.555- AgR/MG, rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 14.10.2005; RE 217.849-AgR/ES, rel. Min. Eros Grau, 1 ª Turma, DJ 05.8.2005; AI 413.963-AgR/SC, rel. Min. Celso de Mello, 2ª Turma, DJ 1º.4.2005; e AI 253.566-AgR/RS, 1ª Turma, rel. Min. Sepúlveda Pertence, DJ 03.3.2000.
+3.  Por fim, quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 17 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
