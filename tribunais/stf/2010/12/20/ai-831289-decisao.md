@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. ATENDIMENTO DE CRIANÇAS ATÉ CINCO ANOS DE IDADE EM CRECHES E PRÉ-ESCOLAS: DIREITO SUBJETIVO PÚBLICO. POSSIBILIDADE DE INTERVENÇÃO DO PODER JUDICIÁRIO. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“Ação Civil Pública. Obrigação de fazer. Sentença. Determinação de inclusão de crianças em unidade de ensino infantil. Remessa oficial. Apelação da pessoa de direito público ré. Pressupostos de constituição e desenvolvimento válido do processo e condições da ação presentes. Mérito conhecido e apreciado. Acesso a unidade de ensino infantil. Creche ou pré-escola. Direito à educação. Direito e garantia fundamental. Consagração em norma de eficácia plena e aplicabilidade imediata. Ausência de violação aos princípios da separação dos poderes e da discricionariedade administrativa. Sentença proferida em consonância com jurisprudência já consolidada na Câmara Especial do Tribunal de Justiça. Apelação e recurso de ofício não providos” (fl. 138).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento da matéria constitucional (fls. 186-189).
+4. No recurso extraordinário, o Agravante afirma o Tribunal a quo teria contrariado os arts. 2°, 208, inc. I e IV, e 211, § 2°, da Constituição da República.
+Sustenta que, “pela inteligência do art. 208, inciso I e IV, da Constituição Federal, não é imposta ao município o dever de oferecer o imediato acesso universal à creche e à pré-escola. Isto é uma meta, um objetivo, um programa a ser perseguido, sem prejuízo das outras atribuições do Município” (fl. 156, transcrição conforme o original).
+Assevera que “a ingerência do Poder Judiciário no Poder Executivo determinando a implementação de políticas públicas – tema este deveras sensível, posto que, envolvidos princípios, garantias e interesses de grande sensibilidade não pode ser aceita, pois possui o administrador público verdadeira legitimidade democrática, batizada pelo voto popular, para estabelecer as políticas públicas” (fl. 160, transcrição conforme o original).
+Analisados os elementos havidos nos autos, DECIDO.
+5. Inicialmente, cumpre afastar o óbice imposto pela decisão agravada quanto à alegada ausência do devido prequestionamento, pois a matéria constitucional posta à apreciação foi suscitada em momento procedimentalmente adequado.
+Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão do Agravante.
+6. A jurisprudência do Supremo Tribunal Federal assentou que o art. 208, inc. IV, da Constituição da República assegura à criança de zero a seis anos de idade o atendimento em creche e pré-escola, e a não observância desse preceito constitucional pelo ente público importa na ação do Poder Judiciário para a proteção desse direito. Confiram-se, a propósito, os seguintes julgados:
+“DIREITO CONSTITUCIONAL E DIREITO DA CRIANÇA E DO ADOLESCENTE. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. GARANTIA ESTATAL DE VAGA EM CRECHE. PRERROGATIVA CONSTITUCIONAL. AUSÊNCIA DE INGERÊNCIA NO PODER DISCRICIONÁRIO DO PODER EXECUTIVO. PRECEDENTES. 1. A educação infantil é prerrogativa constitucional indisponível, impondo ao Estado a obrigação de criar condições objetivas que possibilitem o efetivo acesso a creches e unidades pré-escolares. 2. É possível ao Poder Judiciário determinar a implementação pelo Estado, quando inadimplente, de políticas públicas constitucionalmente previstas, sem que haja ingerência em questão que envolve o poder discricionário do Poder Executivo. 3. Agravo regimental improvido” (RE 464.143-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 19.2.2010).
+E:
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ART. 208, INC. IV, DA CONSTITUIÇÃO DA REPÚBLICA. ATENDIMENTO DE CRIANÇAS ATÉ CINCO ANOS DE IDADE EM CRECHES E PRÉ-ESCOLAS: DIREITO SUBJETIVO PÚBLICO. POSSIBILIDADE DE INTERVENÇÃO DO PODER JUDICIÁRIO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 554.075-AgR, de minha relatoria, Primeira Turma, DJe 21.8.2009).
+Nada há, pois, a prover quanto às alegações da parte agravante.
+7. Pelo exposto, nego seguimento a este agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 20 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
