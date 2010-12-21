@@ -1,4 +1,4 @@
-Art. 3º Para a indicação dos beneficiários do PMCMV, deverão ser observados os seguintes requisitos:
+Art. 3º Para a definição dos beneficiários do PMCMV, devem ser respeitadas, além das faixas de renda vigentes na data da solicitação dos benefícios, as políticas estaduais e municipais de atendimento habitacional, priorizando-se, entre os critérios adotados, o tempo de residência ou de trabalho do candidato no Município e a adequação ambiental e urbanística dos projetos apresentados.
 I - comprovação de que o interessado integra família com renda mensal de até dez salários mínimos;
 II - faixas de renda definidas pelo Poder Executivo Federal para cada uma das modalidades de operações;
 III - prioridade de atendimento às famílias residentes em áreas de risco ou insalubres ou que tenham sido desabrigadas; e
