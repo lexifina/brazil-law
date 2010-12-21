@@ -1,0 +1,8 @@
+1.  Trata-se de petição, com pedido de medida liminar, na qual Rafael Gondim Fialho Guedes, com fundamento no art. 5º, XXXIV, a, da Constituição Federal, pede que seja dado provimento ao Recurso Ordinário Constitucional (RMS 31.048), em trâmite no Superior Tribunal de Justiça, bem como seja determinado ao relator dos Embargos de Declaração na Apelação Cível 0216484-502007-805.0001-0 que apresente o processo para julgamento na próxima sessão da Segunda Câmara Cível do Tribunal de Justiça do Estado da Bahia.
+2.  A competência desta Suprema Corte se encontra taxativamente prevista no art. 102 da Constituição Federal, razão pela qual falta a este Tribunal competência para dar provimento ao recurso ordinário em mandado de segurança que está sendo apreciado pelo Superior Tribunal de Justiça e também para determinar o imediato julgamento de embargos de declaração o postos no âmbito do Tribunal de Justiça do Estado da Bahia .
+Objetiva a embargante, em verdade, por via transversa, que esta Corte julgue o mérito de mandado de segurança, sem que tenha havido a devida apreciação da matéria pelas instâncias ordinárias. É importante ressaltar que o direito de petição, previsto no citado art. 5º, XXXIV, a, da Constituição Federal, no presente caso, deve ser interpretado em conjunto com o devido processo legal, estabelecido no inciso LIV do mesmo artigo, e com os dispositivos constitucionais que fixam as competências dos órgãos integrantes do Poder Judiciário.
+3.  Ante o exposto, nego seguimento à presente petição (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 21 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
