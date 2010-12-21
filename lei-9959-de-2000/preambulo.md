@@ -1,0 +1,2 @@
+Altera a legislação tributária federal e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 2.013-4, de 1999, que o Congresso Nacional aprovou, e eu, Heráclito Fortes, Primeiro Vice-Presidente da Mesa do Congresso Nacional, no exercício da Presidência, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
