@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRABALHISTA. ADICIONAL DE PERICULOSIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Superior do Trabalho:
+“RECURSO DE REVISTA.1. ADICIONAL DE PERICULOSIDADE. ÁREA DE RISCO. PRODUTO INFLAMÁVEL. Conforme precedentes reiterados da SBDI-1 desta Corte, o labor no mesmo edifício em que armazenado óleo diesel, sem a observância da NR-20 do Ministério do Trabalho, enseja o pagamento do adicional de periculosidade, ainda que o reclamante exercesse suas atividades em recinto diverso do local de depósito do produto inflamável. Recurso de revista conhecido e desprovido. 2.REFLEXOS DO ADICIONAL DE PERICULOSIDADE SOBRE AS HORAS EXTRAS. O adicional de periculosidade é devido em decorrência do trabalho em condições de perigo. Desta forma, patente é a sua natureza salarial, razão pela qual são cabíveis os reflexos sobre as demais verbas percebidas. Inteligência da Súmula 132 do TST. Óbice do art. 896, § 4º, da CLT e Súmula 333 do TST. Recurso de revista não conhecido. 3. HONORÁRIOS PERICIAIS. ENTREGA DO FORMULÁRIO DSS-8030. Não observado o disposto no art. 896 da CLT, resta desfundamentado o apelo. Recurso de revista não conhecido” (fl. 253).
+2. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula 356 do Supremo Tribunal Federal, a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta e, ainda, a impossibilidade de reexame de provas (fls. 328-329).
+3. A Agravante alega que teria sido contrariado o art. 5º, inc. XXXV, LIV e LV, 7º, inc. XXIII, 93, inc. IX, da Constituição da República.
+Argumenta que “a perícia realizada quando da instrução processual concluiu que a reclamante de fato não laborava na mesma sala onde se encontravam armazenados os tanques, mas apenas no mesmo prédio, o que não autoriza o recebimento do adicional de periculosidade” (fl. 309).
+Examinada a matéria posta à apreciação, DECIDO.
+4. Razão jurídica não assiste ao Agravante.
+5. O Tribunal de origem decidiu a controvérsia sobre o direito ao adicional de periculosidade com base na legislação infraconstitucional aplicável à espécie (Súmulas do Tribunal Superior do Trabalho e a Normas Regulamentares ns. 16 e 20, do Ministério do Trabalho ). Para se concluir de forma diversa, seria necessária a análise prévia dessa legislação, o que não viabiliza o cabimento do recurso extraordinário. A ofensa à Constituição, se tivesse ocorrido, seria indireta.
+6. Ademais, para se concluir de modo diverso do acórdão recorrido, seria imprescindível o reexame de fatos e provas, o que atrai a incidência da Súmula 279 do Supremo Tribunal Federal e não viabiliza o recurso extraordinário. Nesse sentido:
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. ADICIONAL DE PERICULOSIDADE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 743.166-AgR, de minha relatoria, Primeira Turma, DJe 7.8.2009).
+E:
+“AGRAVO REGIMENTAL. RECURSO TRABALHISTA. PRESSUPOSTOS DE ADMISSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. ADICIONAL DE PERICULOSIDADE. REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. OFENSA AO ART. 93, IX, DA CF/88. INEXISTÊNCIA. O exame dos pressupostos de admissibilidade dos recursos trabalhistas encontra-se no âmbito infraconstitucional. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição Federal. Acórdão recorrido que se encontra devidamente fundamentado, ainda que com sua fundamentação não concorde o ora agravante. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, quanto ao adicional de periculosidade, seria necessário o exame da legislação infraconstitucional, o que é inviável no recurso extraordinário. Agravo regimental a que se nega provimento.” (AI 743.985-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 5.6.2009).
+Nada há, pois, a prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 21 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
