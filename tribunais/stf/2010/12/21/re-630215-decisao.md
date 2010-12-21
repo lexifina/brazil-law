@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. INCIDÊNCIA DA CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE OS QUINZE PRIMEIROS DIAS DO AUXÍLIO-DOENÇA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A FOLHA DE SALÁRIOS. PRIMEIROS 15 DIAS DE AFASTAMENTO DO EMPREGADO POR MOTIVO DE DOENÇA.
+Os pagamentos efetuados pelo empregador ao empregado nos primeiros quinze dias de afastamento do trabalho por motivo de doença têm natureza salarial, razão pela qual sobre eles incide a contribuição previdenciária” (fl. 313).
+2. A Recorrente alega que teria sido contrariado o art. 195, inc. I, alínea a, da Constituição da República.
+Afirma que “os valores pagos pelo empregador, durante os quinze primeiros dias de afastamento, relativamente ao benefício previdenciário de auxílio doença, não deve incidir sobre o seu valor a contribuição previdenciária, uma vez que não possui natureza remuneratória” (fl. 402).
+Sustenta que, “no caso do auxílio-doença, onde por um longo período o empregado deixa de realizar suas atribuições funcionais, sendo o mesmo segurado pelo INSS, é o dever deste indenizá-lo pelo período não trabalhado. Contudo, afim de que nas ausências não venham a onerar, ainda mais, as contas da previdência social, a indenização dos primeiros 15 (quinze) dias acaba por compelir ao empregador, sem que este se beneficie da contraprestação do trabalho do empregado” (fl. 404, transcrição conforme o original).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste à Recorrente.
+4. O Tribunal Regional Federal da 4ª Região asseverou:
+“O parágrafo 9° do art. 28 da Lei n. 8.212/91 elenca um rol de parcelas pagas pelo empregador que não integram o conceito de remuneração para fins de incidência da contribuição previdenciária, não contando entre elas as importâncias percebidas pelo empregado nos primeiros quinze dias consecutivos ao afastamento do trabalho por motivo de doença, o que vem a perfectibilizar a base de cálculo da contribuição em questão.
+Assim, a prestação pecuniária a cargo da empresa referente à primeira quinzena de afastamento do empregado por motivo de doença conserva a sua natureza salarial, devendo, pois, integrar a base de cálculo para fins de incidência de contribuição previdenciária” (fl. 311).
+5. Para concluir de forma diversa do acórdão recorrido seria necessária a análise da legislação infraconstitucional. A pretensa contrariedade à Constituição da República, se tivesse ocorrido, seria indireta. Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. 1. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE OS QUINZE PRIMEIROS DIAS DO AUXÍLIO-DOENÇA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. 2. INEXISTÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO TRIBUNAL A QUO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 767.064-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010).
+E:
+“EMENTA: TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE OS PRIMEIROS QUINZE DIAS DE AUXÍLIO-DOENÇA. INTERPRETAÇÃO DAS LEIS 8.212/91 E 8.213/91. OFENSA REFLEXA. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO. DISCUSSÃO SOBRE A NATUREZA DA VERBA PAGA PELO EMPREGADOR AO TRABALHADOR NOS QUINZE PRIMEIROS DIAS DE AUXÍLIO-DOENÇA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – A decisão atacada fundamentou-se tanto na interpretação e aplicação das Leis 8.212/1991 e 8.213/91, como na jurisprudência consolidada no Superior Tribunal de Justiça. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. II - Não há se falar em violação ao art. 97, da Constituição, uma vez que o acórdão recorrido não afastou a aplicação das Leis 8.213/1991 e 8.212/1991. O Tribunal a quo limitou-se a examinar a lei infraconstitucional aplicável à espécie (Lei 8.213/1991), para concluir pela inexistência de natureza salarial, logo isenta de contribuição previdenciária, na verba paga pelo empregador ao trabalhador nos quinze primeiros dias de auxílio-doença. A discussão, portanto, restringe-se ao âmbito da legislação infraconstitucional, a cujo exame não se presta o recurso extraordinário. Precedentes. III – Agravo Regimental improvido” (AI 780.674-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 12.11.2010).
+Não há, pois, o que prover quanto às alegações da Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 21 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
