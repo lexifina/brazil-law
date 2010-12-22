@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. CONTRATO BANCÁRIO. CRÉDITO EDUCATIVO. REVISÃO. IMPOSSIBILIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“CONTRATOS BANCÁRIOS. CRÉDITO EDUCATIVO. REVISIONAL. CÓDIGO DE DEFESA DO CONSUMIDOR. LIMITAÇÃO DOS JUROS. CAPITALIZAÇÃO MENSAL DOS JUROS. REPETIÇÃO DE INDÉBITO. MORA. HONORÁRIOS DE SUCUMBÊNCIA.1. Tendo em vista que o FIES é uma continuação do Crédito Educativo, considero inaplicáveis os princípios e regras dispostos no Código Consumerista ao contrato sub judice, de forma que deve ser improvido o apelo da autora nesse ponto. 2. Foram estabelecidos juros anuais de 9%, nos termos do inciso I do art. 5º da Lei nº 10.260/2001, e fixados pelo Conselho Monetário Nacional. (CMN), não há reparo a se fazer na sentença impugnada e, da mesma forma, não se pode admitir a limitação em R$ 50,00 trimestrais, devendo ser paga a diferença acrescida ao saldo devedor. 3. Súmula 121 do STF: 'É vedada a capitalização de juros, ainda que expressamente convencionada'. 4. Cogita-se de repetição na hipótese de os valores cobrados indevidamente superarem o montante da dívida existente perante a instituição financeira. Há compensação quando o valor da dívida é superior ao montante devido ao mutuário. 5. Quando não verificado o pagamento caracteriza-se a mora ex re, de pleno direito. Tendo em vista a constituição em mora da parte autora, lícita a cobrança de juros moratórios e da multa contratual. 6. Verba honorária devida em 10% sobre o valor da condenação, de acordo com o entendimento sedimentado pela Turma. 7. Apelação parcialmente provida” (fl. 140).
+2. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência na espécie das Súmulas n. 282 e 356 do Supremo Tribunal Federal e a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta (fls. 255-226).
+3. A Agravante alega que o Tribunal a quo teria contrariado os arts. 5º, 6º, 205 e 206, inc. I e IV, da Constituição da República.
+Sustenta que “a matéria aventada no presente recurso foi amplamente prequestionada desde a primeira instância, no juízo monocrático, no recurso de apelação, nos embargos declaratórios, atendendo a peculiaridade do recurso extraordinário. Ademais, o acórdão recorrido enfrentou todas as questões postas à apreciação judicial, não havendo que se falar em falta de prequestionamento da matéria” (fl. 8).
+Analisada a matéria posta à apreciação, DECIDO.
+4. Razão jurídica não assiste à Agravante.
+5. O Tribunal a quo apreciou a matéria à luz dos fatos e das provas constantes dos autos, do contrato celebrado entre as partes e da legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor, Lei n. 8.078/1990), razão pela qual não há ofensa constitucional direta, única a permitir o processamento do recurso extraordinário, nos termos do art. 102, inc. III, alínea a, da Constituição da República. Incidem na espécie as Súmulas n. 279 e 454 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE REVISÃO DE CONTRATO. CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO DE DEFESA DO CONSUMIDOR. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS (SÚMULA 454). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 576.744-AgR, de minha relatoria, Primeira Turma, DJe 13.3.2009).
+E ainda:
+“Interpretação de cláusulas contratuais e análise de legislação infraconstitucional. Impossibilidade. Súmula 454 do STF. 5. Agravo regimental a que se nega provimento” (AI 762.546-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 1º.12.2010).
+E:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA DECIDIDA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA 454 DO STF. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação ordinária aplicada à espécie e o revolvimento de cláusulas contratuais. Providências vedadas na instância extraordinária. Incide, por fim, a Súmula 283 desta colenda Corte. Agravo regimental desprovido” (AI 633.935-AgR, Rel. Ayres Britto, Primeira Turma, DJe 23.10.2009).
+Nada há, pois, a prover quanto às alegações da Agravante.
+6. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 22 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
