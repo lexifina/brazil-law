@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. APLICAÇÃO DE NORMAS PROCESSUAIS ORDINÁRIAS. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS: IMPOSSIBILIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“Nota promissória – Afastamento da literalidade, autonomia e abstração – Admissibilidade, pois ela estava vinculada no contrato de compromisso de compra e venda em discussão – Recurso improvido” (fl. 117).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 238-239).
+4. O Agravante alega que teria sido contrariado o art. 5º, inc. LV, e da Constituição da República.
+Afirma que teria tido o seu direito de defesa cerceado em razão da negativa de sustentação oral por ocasião do julgamento da apelação.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Os procedimentos adotados nas sessões das Cortes Especiais e Turmas ou Câmaras dos Tribunais de Justiça estaduais são regidos pelas normas processuais ordinárias e regimentais. Eventual ofensa à Constituição, se tivesse ocorrido, seria indireta o que afasta o cabimento do recurso extraordinário. Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. 1) NECESSIDADE DE REEXAME DE FATOS E PROVAS: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. 2) QUESTÕES PROCESSUAIS: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 587.016-ED, de minha relatoria, Primeira Turma, DJe 24.9.2010 – grifos nossos).
+“AGRAVO REGIMENTAL - DECISÃO QUE SE FUNDOU NAS PECULIARIDADES DA ESPÉCIE, INSUSCETÍVEIS DE REAPRECIAÇÃO NO EXTRAORDINÁRIO. INOCORRÊNCIA DE CERCEAMENTO DE DEFESA. AGRAVO REGIMENTAL IMPROVIDO” (AI 122.751, Rel. Min. Oscar Correa, Primeira Turma, DJ 4.3.1988).
+“CRIMINAL. JUSTIÇA FEDERAL. PRINCÍPIOS DO PROMOTOR E DO JUIZ NATURAIS E DA AMPLA DEFESA. Impossibilidade de apreciação do alegado cerceamento de defesa, porquanto, ainda que houvesse ocorrido -- o que não restou demonstrado --, teria resultado de inobservância a normas processuais de natureza infraconstitucional, que, a teor da jurisprudência do STF, não rende ensejo ao recurso extraordinário. Denúncia e sentença elaboradas por quem fora previamente legitimado a atuar no feito, mediante designação de natureza genérica, fundada em critérios abstratos e predeterminados, previstos em lei, hipótese em que não se pode ter por configurada ofensa ao princípio consagrado no art. 5º, LIII, da Constituição. Recurso não conhecido” (RE 255.639, Rel. Min. Ilmar Galvão, Primeira Turma, DJe 18.5.2001).
+7. Ademais, a verificação, na espécie, do alegado cerceamento de defesa, demandaria o reexame de provas, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. REINTEGRAÇÃO DE POSSE. INDEFERIMENTO DE PRODUÇÃO DE PROVA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA: NÃO OCORRÊNCIA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 767.521-AgR, de minha relatoria, Primeira Turma, DJe 25.11.2010 – grifos nossos).
+“Agravo regimental em recurso extraordinário. 2. Procedimento Administrativo. Cerceamento de defesa 2. Impossibilidade de reexame do conjunto fático-probatório. Súmula 279/STF. 3. Agravo regimental a que se nega provimento” (RE 588.293-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 23.11.2010 – grifos nossos).
+“CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. OFENSA REFLEXA AO ARTIGO 5º, XXXV E LV, DA CF. SÚMULA STF 279. 1. Para divergir da conclusão a que chegou o Tribunal a quo, seria necessária a análise de legislação infraconstitucional (CPC) e do conjunto fático-probatório dos autos (Súmula STF 279). 2. A ofensa aos postulados da ampla defesa, do contraditório, do devido processo legal e da prestação jurisdicional, se existente, seria, segundo entendimento desta Suprema Corte, meramente reflexa ou indireta. 3. Agravo regimental improvido” (AI 728.896-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.10.2010 – grifos nossos).
+Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 22 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
