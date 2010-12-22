@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1102, de 21 de dezembro de 2010
+Altera a Instrução Normativa SRF nº 285, de 14 de janeiro de 2003, que dispõe sobre a aplicação do regime aduaneiro especial de admissão temporária.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 372 do Decreto nº 6.759, de 5 de fevereiro de 2009, e nos arts. 8º, 9º e 14 do Decreto nº 97.464, de 20 de janeiro de 1989, resolve:
