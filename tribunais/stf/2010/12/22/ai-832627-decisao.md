@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PERDIMENTO DE BENS. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. IMPOSSIBILIDADE DE REEXAME DE FATOS, PROVAS: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. IMPROCEDÊNCIA DA ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, LIV: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“TRIBUTÁRIO. PENA DE PERDIMENTO. VEÍCULO TRANSPORTADOR (AUTOMÓVEL). REQUISITOS. ALIENAÇÃO FIDUCIÁRIA.
+1. Esta Corte entende que a pena de perdimento só deve ser aplicada ao veículo transportador quando concomitantemente houver: a) prova de que o proprietário do veículo apreendido concorreu de alguma forma para o ilícito fiscal (Inteligência da Súmula nº 138 do TFR); b) relação de proporcionalidade entre o valor do veículo e o das mercadorias apreendidas.
+2. Para objetivar-se a relação de proporcionalidade entre o valor do veículo e o das mercadorias apreendidas devem ser utilizados dois critérios. O primeiro diz respeito aos valores absolutos dos bens, que devem possuir uma grande diferença. O segundo importa na existência de circunstâncias que indiquem a reiteração da conduta ilícita e a decorrente diminuição entre os valores envolvidos, por força da freqüência.
+3. Para efeito de afastar a pena de perdimento de veículo utilizado na introdução ilegal de mercadoria estrangeira no território nacional, não basta o simples fato do veículo apreendido ser objeto de alienação fiduciária. Isso porque afastar a pena de perdimento do veículo alienado fiduciariamente, indiscriminadamente, equivaleria a permitir a utilização do mesmo veículo na prática reiterada de descaminho-contrabando, pois, enquanto alienado o veículo, estaria imune à pena de perdimento. Devem, pois, ser sopesadas as particularidades de cada caso” (fl. 279).
+3. No recurso extraordinário, a Agravante afirma que o Tribunal a quo teria contrariado o art. 5º, inc. XXII, XLV e LIV, da Constituição da República.
+Argumenta que “não participou tampouco se beneficiou do ilícito praticado, embora tenha sido diretamente responsabilizada e penalizada por fato alheio a sua vontade, daí se concluir que houve manifesta violação ao direito de propriedade e aos princípios da individualização da pena e do devido processo legal” (fl. 384).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta (fls. 416-418).
+Examinados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. O Tribunal de origem decidiu a controvérsia com base na legislação ordinária e no conjunto probatório dos autos. Eventual contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário.
+Para se concluir de forma diversa, seria necessário o reexame de provas e dos contratos firmados entre as partes, procedimento que não pode ser validamente adotado em recurso extraordinário. Incidem na espécie a Súmula 279 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO: DANOS MATERIAIS E MORAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 709.133-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009).
+“AGRAVO REGIMENTAL. INDENIZAÇÃO POR DANO MORAL. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. INEXISTÊNCIA DE OFENSA AO ART. 5º, II, XXXV E LIV, DA CF/88. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279/STF. Necessidade de exame prévio de norma infraconstitucional para a verificação de contrariedade ao Texto Maior. Caracterização de ofensa reflexa ou indireta. Agravo regimental a que se nega provimento” (AI 546.092-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 19.5.2006).
+7. Ademais, o Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. LIV, da Constituição da República, se dependente do exame da legislação infraconstitucional não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+Nada há, pois, a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 22 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
