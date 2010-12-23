@@ -1,0 +1,2 @@
+Art. 12. O CNPE proporá ao Presidente da República os casos em que, visando à preservação do interesse nacional e ao atendimento dos demais objetivos da política energética, a Petrobras será contratada diretamente pela União para a exploração e produção de petróleo, de gás natural e de outros hidrocarbonetos fluidos sob o regime de partilha de produção.
+Parágrafo único. Os parâmetros da contratação prevista no caput serão propostos pelo CNPE, nos termos do inciso IV do art. 9º e do inciso III do art. 10, no que couber.

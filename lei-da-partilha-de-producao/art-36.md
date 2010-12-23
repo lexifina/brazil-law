@@ -1,0 +1,3 @@
+Art. 36. A União, representada pela empresa pública referida no § 1º do art. 8º e com base nas avaliações realizadas pela ANP, celebrará com os interessados, nos casos em que as jazidas da área do pré-sal e das áreas estratégicas se estendam por áreas não concedidas ou não partilhadas, acordo de individualização da produção, cujos termos e condições obrigarão o futuro concessionário ou contratado sob regime de partilha de produção.
+§ 1º A ANP deverá fornecer à empresa pública referida no § 1º do art. 8º todas as informações necessárias para o acordo de individualização da produção.
+§ 2º O regime de exploração e produção a ser adotado nas áreas de que trata o caput independe do regime vigente nas áreas adjacentes.

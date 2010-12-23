@@ -1,0 +1,1 @@
+Art. 37. A União, representada pela ANP, celebrará com os interessados, após as devidas avaliações, nos casos em que a jazida não se localize na área do pré-sal ou em áreas estratégicas e se estenda por áreas não concedidas, acordo de individualização da produção, cujos termos e condições obrigarão o futuro concessionário.
