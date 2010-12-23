@@ -1,0 +1,40 @@
+DECISÃO
+RECLAMAÇÃO. FIXAÇÃO DA BASE DE CÁLCULO DO ADICIONAL DE INSALUBRIDADE EM SALÁRIO MÍNIMO. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 4 DO SUPREMO TRIBUNAL FEDERAL. SENTENÇA REFORMADA NO JULGAMENTO DE RECURSO ORDINÁRIO. SUBSTITUIÇÃO DO TÍTULO. PERDA SUPERVENIENTE DE OBJETO. RECLAMAÇÃO JULGADA PREJUDICADA.
+Relatório
+1. Reclamação, com pedido de medida liminar, ajuizada pelo Instituto Nacional de Administração Prisional Ltda. – INAP, em 20.10.2008, contra ato do juízo da 1ª Vara do Trabalho de Cascavel/PR que, nos autos da Reclamação Trabalhista n. 2.500.2006.71.9.0.8, teria desrespeitado a Súmula Vinculante n. 4 do Supremo Tribunal Federal.
+O caso
+2. Em 21.9.2006, Paulo Pereira Rodrigues ajuizou a Reclamação Trabalhista n. 2.500.2006.71.9.0.8, com o objetivo de que o Instituto Nacional de Administração Prisional Ltda. – INAP fosse condenado ao pagamento de adicional de insalubridade, danos morais e verbas rescisórias e indenizatórias a que teria direito.
+Em 22.8.2008, o juízo da 1ª Vara do Trabalho de Cascavel/PR julgou parcialmente procedentes os pedidos, apenas para condenar o INAP ao pagamento de adicional de insalubridade, fixado em 40% sobre o salário mínimo, e seus reflexos sobre as demais verbas salariais (fl. 26). Foram fundamentos da decisão:
+“O laudo pericial às fls. 147/153, complementando às fls. 164/1536, concluiu que o autor laborava em ambiente insalubre, em grau máximo, em razão do contato com pacientes acometidos de doenças infecto-contagiosas (fundamento: NR 15 – ANEXO 14).
+Acato a conclusão da perícia, realizada por profissional que detém o necessário conhecimento técnico sobre a matéria e verificou 'in loco' as condições de trabalho do reclamante.
+Assim, defiro ao autor, durante todo o contrato de trabalho, adicional de insalubridade em grau máximo (40%).
+Base de cálculo: salário mínimo nacional.
+Aqui necessário que se esclareça que a base de cálculo definida não é conflitante com a Súmula Vinculante nº 4 do C. STF, que cancelou a Súmula 17 do C. TST e emprestou nova redação à Súmula 228 da mesma Corte, na medida em que decisão recente proferida pelo C. STF, em sede de liminar, foi suspensa a aplicação da Súmula 228 do C. TST, no tocante a base de cálculo.
+Assim, entendo que ante a ausência de previsão específica quanto à base de cálculo a ser utilizada para o adicional em comento, prevalece o salário mínimo nacional.
+Ademais, mesmo que assim não fosse, a Súmula Vinculante antes mencionada deve ser aplicada apenas a partir de 09.05.08, que não alcança o período controvertido nos autos.
+Reflexos do adicional de insalubridade em horas extras pagas, férias + 1/3, 13º salário e FGTS (11,2%)” (fls. 20-21, grifos nossos).
+Na sequência, Paulo Pereira Rodrigues interpôs recurso ordinário e o Instituto Nacional de Administração Prisional Ltda. – INAP interpôs recurso adesivo (fl. 27).
+É contra a sentença proferida nos autos da Reclamação Trabalhista n. 2.500.2006.71.9.0.8 que se ajuíza esta reclamação.
+3. O Reclamante argumenta que teria ficado “absolutamente claro que o critério para cálculo do adicional de insalubridade deve[ria] ser estipulado em lei e que, além disso, não pode[ria] basear-se no salário mínimo, por expressa vedação constitucional” (fl. 4).
+Salienta que a Súmula Vinculante n. 4 “é aplicável de imediato a qualquer processo, em qualquer instância n[a] qual se encontre, ainda que caiba recurso ordinário contra a decisão reclamada” (fl. 4).
+Afirma que o Tribunal Superior do Trabalho, ao mudar o critério de cálculo do adicional de insalubridade, com o advento da Súmula n. 228, teria incorrido “na vedação contida na parte final da Súmula Vinculante n. 4, que proíbe o Juiz de fixar a seu talante o novo critério de cálculo” (fl. 5).
+Pede “seja cassada a decisão judicial, para que outra seja proferida com estrita observância da Súmula 4 (art. 7º, § 2º, da Lei 11.417/06)” (fl. 7).
+4. Em 21.10.2008, indeferi a medida liminar requerida (fls. 37-43).
+5. Em 26.11.2008, o juízo da 1ª Vara do Trabalho de Cascavel/PR prestou informações (fls. 50-51).
+6. Em 10.6.2009, a Procuradoria-Geral da República manifestou-se pela improcedência da presente reclamação (fls. 53-55).
+Examinados os elementos havidos nos autos, DECIDO.
+7. O objeto desta reclamação é a sentença prolatada pelo juízo da 1ª Vara do Trabalho de Cascavel/PR que, nos autos da Reclamação Trabalhista n. 2.500.2006.71.9.0.8, reconheceu o exercício de atividade insalubre por parte do ora Interessado e condenou o Reclamante ao pagamento de adicional de insalubridade, fixado em 40% sobre o salário mínimo.
+8. Em consulta ao sítio do Tribunal Regional do Trabalho da 9ª Região, tem-se que o recurso ordinário interposto pelo ora Interessado foi parcialmente provido pela 1ª Turma daquele Tribunal, que reformou a sentença recorrida na parte em que fixou a base de cálculo do adicional de insalubridade, nos termos seguintes:
+“Diante da definição da base de cálculo do adicional de insalubridade como sendo o salário mínimo (fl. 185), o Reclamante pugna por reforma, no intuito de substituir este por seu salário normativo. Invoca o art. 7°, IV, da Constituição Federal (...)
+'In casu', tendo o empregado direito a piso salarial, decorrente de convenção coletiva com vigência entre 1°.07.05 e 31.06.06, ou seja, não existindo vazio normativo durante este interregno, o percentual correspondente ao seu adicional deve incidir sobre este, e não sobre o salário mínimo.(...)
+Reforma-se, pois, parcialmente a r. sentença para declarar que a base de cálculo do adicional de insalubridade entre 1°.07.05 e 31.06.06 é o piso normativo previsto na cláusula 4ª da CCT 2005/2006 (fl. 94), que fixa para o agente de disciplina, caso do Autor, o mínimo de R$ 559,77 (quinhentos e cinqüenta e nove reais e setenta e sete centavos)” (grifos nossos).
+9. Em situações nas quais o ato reclamado deixa de existir, há de se ter como prejudicada a reclamação, conforme vem decidindo este Supremo Tribunal Federal:
+“EMENTA: QUESTÃO DE ORDEM NA RECLAMAÇÃO. Propositura contra decisão monocrática em agravo de instrumento que autorizara o levantamento de parcelas em ação de desapropriação. Reforma in totum do ato impugnado. Prejuízo do remédio constitucional. Reformada a decisão contra a qual foi ajuizada reclamação, considera-se esta prejudicada, à falta de interesse” (Rcl 2.788-QO/PR, Rel. Min. Cezar Peluso, Tribunal Pleno, DJe 1º.10.2010, grifos nossos).
+“RECLAMAÇÃO - ATO IMPUGNADO - REVOGAÇÃO - PERDA DE OBJETO. A revogação do ato tido, no pedido inicial da reclamação, como discrepante de certa decisão implica o prejuízo da reclamação, julgando-se extinto o processo sem apreciação do tema de fundo.” (Rcl 2496-QO/PE, Rel. Min. Marco Aurélio, Tribunal Pleno, DJ 22.10.2004).
+E, ainda, nesse sentido: Rcl 5.460/SP, de minha relatoria, decisão monocrática, DJ 20.2.2008; Rcl 4.740/SC, de minha relatoria, decisão monocrática, DJ 12.12.2007; Rcl 2.466/RJ, de minha relatoria, decisão monocrática, DJ 1º.2.2007; Rcl 2.355/BA, de minha relatoria, decisão monocrática, DJ 25.5.2007; Rcl 4.975/SP, de minha relatoria, decisão monocrática, DJ 26.4.2007; Rcl 4.662/ES, de minha relatoria, decisão monocrática, DJ 9.2.2007; Rcl 3.905/RN, de minha relatoria, decisão monocrática, DJ 8.9.2006; Rcl 2.287/AL, Rel. Min. Ricardo Lewandowski, decisão monocrática, DJ 28.3.2007; Rcl 3.927/GO, Rel. Min. Ricardo Lewandowski, decisão monocrática, DJ 7.6.2006; Rcl 3.265/RN, Rel. Min. Joaquim Barbosa, decisão monocrática, DJ 18.8.2005; e Rcl 4.407/TO, Rel. Min. Joaquim Barbosa, decisão monocrática, DJ 12.9.2006.
+Assim, como a decisão reclamada, a sentença prolatada na Reclamação Trabalhista n. 2.500.2006.71.9.0.8, foi reformada pelo Tribunal Regional do Trabalho da 9ª Região no julgamento de recurso ordinário, é de se concluir que a presente reclamação perdeu seu objeto.
+10. Pelo exposto, julgo prejudicada a presente reclamação, por perda superveniente de objeto (art. 38 da Lei n. 8.038/1990 e art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 23 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
