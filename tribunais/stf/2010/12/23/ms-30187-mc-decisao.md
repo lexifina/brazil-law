@@ -1,0 +1,16 @@
+D ECIS Ã O:  1 . Trata-se de mandado de segurança impetrado contra ato do Procurador-Geral da República e referente ao 6º Concurso Público para Provimento de Cargos do Ministério Público da União, perante Edital de Abertura nº 1-PGR/MPU, de 30 de junho de 2010, e no qual o ora impetrante afirma que, após a realização de prova prática de direção veicular, foi REPROVADO NESTA FASE (cf. Edital nº 30 PGR/MPU, de 30 de novembro de 2010, onde o impetrante não consta como APTO) (p. 6 da inicial).
+ Assevera que a autoridade coatora praticou ato ilegal, pois não há na Lei nº 11.415/2006 (Dispõe sobre as carreiras dos servidores públicos do Ministério Público da União), nem na Portaria PGR/MPU nº 68 , de 26 de fevereiro de 2010, a exigência de aprovação em prova prática de direção veicular para o referido cargo.
+2.   É caso de liminar.
+ Nos termos do art. 7.º, III, da Lei n.º 12.016, de 7 de agosto de 2009, a concessão da medida urgente, sem a audiência da autoridade coatora, exige a presença concomitante do fumus boni iuris, consistente na razoabilidade jurídica da pretensão, bem como do chamado periculum in mora, que se traduz na urgência da prestação jurisdicional.
+   Neste juízo prévio e sumário está presente o fumus boni juris, porquanto é pacífica a jurisprudência da Corte de que o edital não pode exigir o que a lei não exige. Nesse sentido: MS n.° 26.862, Rel. Min. AYRES BRITTO, Tribunal Pleno, DJe 22.5.2009; RE n.° 463.382-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJ 16.2.2007; RE n.° 398.567-AgR, Rel. Min. EROS GRAU, Primeira Turma, DJ 24.3.2006; RE n.° 400.754-AgR, Rel. Min. EROS GRAU, Primeira Turma, DJ 4.11.2005; AI n.° 523.254-AgR, Rel. Min. CARLOS VELLOSO, Segunda Turma, DJ 14.10.2005 e RE n.° 327.784, Rel. Min. SEPÚLVEDA PERTENCE, Primeira Turma, DJ 18.2.2005.
+   E a específica tese aqui sustentada foi acolhida em caso análogo ao presente, pelo Pleno, na sessão dia 25 de novembro de 2010, ao julgar o MS n.° 29874 -AgR (Rel. Min. ELLEN GRACIE).
+ Também o periculum in mora é evidente, porquanto o resultado final da prova prática de direção veicular e o resultado final no concurso dos candidatos aos cargos de Técnico de Apoio Especializado/Segurança e de Técnico de Apoio Especializado/Transporte serão publicados no Diário Oficial da União e divulgados na Internet, no endereço eletrônico http://www.cespe.unb.br/concursos/mpu2010, na data provável de 13 de dezembro de 2010.
+3.  Diante do exposto, nos termos do art. 13, VIII, do RISTF, defiro a medida liminar para determinar ao Exmo. Sr. Procurador-Geral da República que inclua o nome do impetrante como aprovado no resultado final no concurso dos candidatos aos cargos de Técnico de Apoio Especializado/Segurança e de Técnico de Apoio Especializado/Transporte, independentemente do resultado da prova prática de direção veicular.
+ Comunique-se, com urgência, por ofício e fac-símile, o inteiro teor desta decisão à autoridade apontada como coatora, solicitando-lhe, ainda, que preste informações.
+ Em seguida, encaminhem-se os autos à Procuradoria-Geral da República (art. 52, inc. IX, do RISTF).
+ Após, conclusos ao Ministro Relator.
+ Publique-se. Int.
+ Brasília, 23 de dezembro de 2010.
+Ministro C EZAR P ELUSO
+Presidente
+Documento assinado digitalmente
