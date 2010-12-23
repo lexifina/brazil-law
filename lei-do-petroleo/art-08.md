@@ -1,6 +1,6 @@
 Art. 8º A ANP terá como finalidade promover a regulação, a contratação e a fiscalização das atividades econômicas integrantes da indústria do petróleo, do gás natural e dos biocombustíveis, cabendo-lhe:
 I - implementar, em sua esfera de atribuições, a política nacional de petróleo, gás natural e biocombustíveis, contida na política energética nacional, nos termos do Capítulo I desta Lei, com ênfase na garantia do suprimento de derivados de petróleo, gás natural e seus derivados, e de biocombustíveis, em todo o território nacional, e na proteção dos interesses dos consumidores quanto a preço, qualidade e oferta dos produtos;
-II - promover estudos visando à delimitação de blocos, para efeito de concessão das atividades de exploração, desenvolvimento e produção;
+II - promover estudos visando à delimitação de blocos, para efeito de concessão ou contratação sob o regime de partilha de produção das atividades de exploração, desenvolvimento e produção;
 III - regular a execução de serviços de geologia e geofísica aplicados à prospecção petrolífera, visando ao levantamento de dados técnicos, destinados à comercialização, em bases não-exclusivas;
 IV - elaborar os editais e promover as licitações para a concessão de exploração, desenvolvimento e produção, celebrando os contratos delas decorrentes e fiscalizando a sua execução;
 V - autorizar a prática das atividades de refinação, liquefação, regaseificação, carregamento, processamento, tratamento, transporte, estocagem e acondicionamento;
