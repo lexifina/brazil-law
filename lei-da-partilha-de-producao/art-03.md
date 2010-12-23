@@ -1,0 +1,1 @@
+Art. 3º A exploração e a produção de petróleo, de gás natural e de outros hidrocarbonetos fluidos na área do pré-sal e em áreas estratégicas serão contratadas pela União sob o regime de partilha de produção, na forma desta Lei.

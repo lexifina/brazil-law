@@ -1,0 +1,2 @@
+Art. 45. O petróleo, o gás natural e outros hidrocarbonetos fluidos destinados à União serão comercializados de acordo com as normas do direito privado, dispensada a licitação, segundo a política de comercialização referida nos incisos VI e VII do art. 9º.
+Parágrafo único. A empresa pública de que trata o § 1º do art. 8º, representando a União, poderá contratar diretamente a Petrobras, dispensada a licitação, como agente comercializador do petróleo, do gás natural e de outros hidrocarbonetos fluidos referidos no caput.

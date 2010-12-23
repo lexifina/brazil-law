@@ -1,0 +1,1 @@
+Art. 18. O julgamento da licitação identificará a proposta mais vantajosa segundo o critério da oferta de maior excedente em óleo para a União, respeitado o percentual mínimo definido nos termos da alínea b do inciso III do art. 10.
