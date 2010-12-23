@@ -1,0 +1,1 @@
+Art. 63. Enquanto não for criada a empresa pública de que trata o § 1º do art. 8º, suas competências serão exercidas pela União, por intermédio da ANP, podendo ainda ser delegadas por meio de ato do Poder Executivo.

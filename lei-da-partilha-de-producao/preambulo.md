@@ -1,0 +1,2 @@
+Dispõe sobre a exploração e a produção de petróleo, de gás natural e de outros hidrocarbonetos fluidos, sob o regime de partilha de produção, em áreas do pré-sal e em áreas estratégicas; cria o Fundo Social - FS e dispõe sobre sua estrutura e fontes de recursos; altera dispositivos da Lei nº 9.478, de 6 de agosto de 1997; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:

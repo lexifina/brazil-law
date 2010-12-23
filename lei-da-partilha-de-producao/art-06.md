@@ -1,0 +1,2 @@
+Art. 6º Os custos e os investimentos necessários à execução do contrato de partilha de produção serão integralmente suportados pelo contratado, cabendo-lhe, no caso de descoberta comercial, a sua restituição nos termos do inciso II do art. 2º.
+Parágrafo único. A União, por intermédio de fundo específico criado por lei, poderá participar dos investimentos nas atividades de exploração, avaliação, desenvolvimento e produção na área do pré-sal e em áreas estratégicas, caso em que assumirá os riscos correspondentes à sua participação, nos termos do respectivo contrato.
