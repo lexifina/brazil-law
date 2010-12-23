@@ -1,0 +1,1 @@
+Art. 1º Esta Lei dispõe sobre a exploração e a produção de petróleo, de gás natural e de outros hidrocarbonetos fluidos em áreas do pré-sal e em áreas estratégicas, cria o Fundo Social - FS e dispõe sobre sua estrutura e fontes de recursos, e altera a Lei nº 9.478, de 6 de agosto de 1997.

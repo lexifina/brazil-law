@@ -1,0 +1,1 @@
+Art. 28. O contrato de partilha de produção de petróleo, de gás natural e de outros hidrocarbonetos fluidos não se estende a qualquer outro recurso natural, ficando o operador obrigado a informar a sua descoberta, nos termos do inciso I do art. 30.

@@ -1,0 +1,1 @@
+Art. 61. Aplicam-se às atividades de exploração, avaliação, desenvolvimento e produção de que trata esta Lei os regimes aduaneiros especiais e os incentivos fiscais aplicáveis à indústria de petróleo no Brasil.

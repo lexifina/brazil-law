@@ -1,0 +1,1 @@
+Art. 19. A Petrobras, quando contratada diretamente ou no caso de ser vencedora isolada da licitação, deverá constituir consórcio com a empresa pública de que trata o § 1º do art. 8º desta Lei, na forma do disposto no art. 279 da Lei nº 6.404, de 15 de dezembro de 1976.
