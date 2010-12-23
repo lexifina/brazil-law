@@ -1,0 +1,2 @@
+Art. 40. Transcorrido o prazo de que trata o § 2º do art. 33 e não havendo acordo entre as partes, caberá à ANP determinar, em até 120 (cento e vinte) dias e com base em laudo técnico, a forma como serão apropriados os direitos e as obrigações sobre a jazida e notificar as partes para que firmem o respectivo acordo de individualização da produção.
+Parágrafo único. A recusa de uma das partes em firmar o acordo de individualização da produção implicará resolução dos contratos de concessão ou de partilha de produção.
