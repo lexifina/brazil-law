@@ -1,0 +1,36 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E TRIBUTÁRIO. CREDITAMENTO DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI RELATIVO À AQUISIÇÃO DE BENS DESTINADOS AO USO OU CONSUMO E À INTEGRAÇÃO AO ATIVO FIXO: IMPOSSIBILIDADE. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 3ª Região:
+“TRIBUTÁRIO - AÇÃO ORDINÁRIA - IPI - NÃO-CUMULATIVIDADE - BENS DO ATIVO FIXO - IMPROCEDÊNCIA À PRETENSÃO DEDUZIDA.
+1. Com relação à plausibilidade jurídica dos fundamentos invocados, insta se proceda à contextura das considerações seguintes, destacando-se a que ação é de 1997 e busca por afirmados créditos dos últimos cinco anos.
+2. Há que se salientar não incumbir ao Texto Constitucional a tarefa de "criar" ou "instituir" tributos, como o enfatiza a doutrina, pois que referida missão é atribuída à lei, por força daquele mesmo diploma (artigos 5°, II, e 150, I).
+3. Cabe à Constituição deferir ou não o exercício da competência tributária por parte de cada ente da Federação, que o fará, então, mediante a aprovação daquele veículo normatizador.
+4. Revela-se insuficiente, de pronto, qualquer exegese que, precipitada, eleve à máxima consideração um ditame constitucional que não tenha sido devidamente disciplinado por lei.
+5. Observa-se que a regra da não-cumulatividade do IPI, encartada no art. 153, parágrafo terceiro, inciso II, C.F., tem ressonância não apenas no CTN, que cuida de normas gerais, mas, essencialmente, no ordenamento jurídico recepcionado (ADCT, art. 34, parágrafo quinto), dentro do qual se destacam a Lei 4.502/64 e o Decreto n°. 2.637/98, introdutor do Regulamento do IPI, com base no qual debatida a controvérsia, através da inicial, embora substituído, posteriormente, pelo Decreto n.° 4.544/02.
+6. O artigo 25, inciso I, da citada lei, fixa que o valor a pagar deve decorrer do montante relativo aos produtos saídos do estabelecimento, mensalmente, diminuído do referente às matérias-primas, produtos intermediários e embalagens, adquiridos ou recebidos para emprego na industrialização e no acondicionamento de produtos tributados.
+7. Estatui o parágrafo primeiro do artigo 27, da mesma Lei, a exclusão do crédito de imposto relativo às matérias-primas, produtos intermediários e embalagens que forem empregados na industrialização.
+8. Firma o artigo 82, inciso I, do R.I.P.I., sobre a impossibilidade de commpensação ou creditamento do imposto afeto à compra de matérias-primas, intermediários e similares, quando compreendidos entre os bens do ativo permanente, bem como, a "contrário sensu", os materiais que, não se integrando ao novo produto, não sejam consumidos no processo de industrialização (esta caracterizada, segundo o. artigo 4°, R.I.P.I., por qualquer operação modificadora da natureza, do funcionamento, do acabamento, da apresentação ou da finalidade do produto, assim como do seu aperfeiçoamento para o consumo).
+9. A lei, em seu papel pormenorizador, estabelece que a não-cumulatividade, que permite a compensação entre valor pago e a pagar, inadmite tal raciocínio, quando se está diante da aquisição de bens destinados ao ativo permanente ou que não sejam consumidos no processo de industrialização.
+10. Tanto não configura agressão ao comando constitucional antes abordado, mas, sim, elucidação do alcance da não-cumulatividade, a qual não se destina a permitir compensação quando o bem não se consuma no percurso de produção ou vá se integrar a bens que, a teor dos artigos 178, parágrafo 1°, alínea "c", e 179, inciso IV, Lei 6.404/76, destinem-se à manutenção das atividades da companhia.
+11. A denotar a não-sujeição a uma consumibilidade natural (C.C. vigente ao tempo dos fatos, artigo 86) dos componentes do acervo do ativo permanente, constata-se a limpidez da regra prevista pelo artigo 183, inciso V, da antes citada lei, afeta aos critérios de avaliação do ativo, a qual explicita sujeitam-se mencionadas coisas a depreciação (desgaste ou perda de utilidade por uso, ação da natureza ou obsolescência).
+12. Há de se enfocar, em amostragem, sobre regra que cuidou de isentar do IPI os bens correspondentes a equipamentos, máquinas e aparelhos de produção, bem como instrumentos e aparelhos industriais, dentre outros, consoante artigo 10, inciso IV, Lei 9.440/97, exatamente por não ser permitida a compensação do eventual montante que viesse a ser pago com sua aquisição, acaso inexistisse a citada isenção.
+13. Verifica-se, "in casu", em nada estar a exorbitar o ordenamento combatido, pois presente vínculo de compatibilidade vertical entre o Texto Constitucional atual, Lei e o Regulamento antes analisados, recepcionados, eis que à lei cabe o mister de firmar os contornos do instituto da não-cumulatividade, dando cumprimento, superiormente, ao previsto pelo artigo 150, I, da Constituição da República.
+14. Restam prejudicados os pleitos sucessivos, como o de atualização monetária das diferenças cuja compensação ora se busca e se denega. Precedentes.
+15. Improvimento à apelação. Improcedência ao pedido” (fls. 112-113).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a harmonia do julgado recorrido com a jurisprudência do Supremo Tribunal Federal (fls. 142-148).
+4. A Agravante alega que teriam sido contrariados o art. 153, § 3º, inc. II, da Constituição da República.
+Assevera que “as disposições constitucionais que asseguram (...) o direito ao crédito de IPI na aquisição de bens para o seu ativo imobilizado têm eficácia plena e aplicabilidade imediata” (fl. 127).
+Sustenta que “normas infraconstitucionais pretendem impor restrição aos créditos de IPI correspondentes à operações de aquisição de produtos industrializados destinados ao uso, ao consumo e ao ativo imobilizado” (fls. 128-129).
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. Este Supremo Tribunal assentou a impossibilidade de creditamento do Imposto sobre Produtos Industrializados – IPI relativo à aquisição de produtos destinados ao ativo fixo e ao uso ou consumo no estabelecimento do contribuinte.
+Nesse sentido:
+“RECURSO EXTRAORDINÁRIO - EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO - IPI - CRÉDITO DO VALOR PAGO EM RAZÃO DE OPERAÇÕES DE AQUISIÇÃO DE BENS DESTINADOS AO USO E/OU À INTEGRAÇÃO NO ATIVO FIXO - APROVEITAMENTO - INADMISSIBILIDADE - RECURSO DE AGRAVO IMPROVIDO. - A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de não reconhecer, ao contribuinte, o direito de creditar-se do valor do IPI, quando pago em razão de operações de aquisição de bens destinados ao uso e/ou à integração no ativo fixo do seu próprio estabelecimento. Precedentes” (RE 593.772-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 30.4.2009).
+Nada há, pois, a prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 24 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
