@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI. CREDITAMENTO DO VALOR INCIDENTE SOBRE A AQUISIÇÃO DE ENERGIA ELÉTRICA: IMPOSSIBILIDADE. PRECEDENTES. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. CREDITAMENTO DE VALORES REFERENTES À AQUISIÇÃO DE BENS DESTINADOS AO USO E CONSUMO DA EMPRESA. ENERGIA ELÉTRICA. É incabível o creditamento dos valores referentes à aquisição da energia elétrica, eis que esta se agrega apenas indiretamente ao produto final, e não representa insumo ou matéria-prima propriamente dita, não se aglutinando no processo de transformação do qual resultará a mercadoria industrializada. Ainda que fosse considerada como insumo, a energia elétrica não geraria o direito de creditamento, em razão de sua imunidade decorrente de norma constitucional (art. 155, CF/88)” (fl. 111).
+2. A Recorrente alega que o Tribunal a quo teria contrariado o art. 153, § 3º, inc. II, da Constituição da República.
+Sustenta que “não duvida de que a 'energia elétrica' insere-se na conceituação de insumos. Com efeito, por ser fonte de energia e aplicada na produção, insere-se no conceito de insumo e, dentro deste, refere-se a produto intermediário” (fl. 125).
+Assevera que, “por se tratar de imposto constitucionalmente não cumulativo, a operação tributada à alíquota zero ou com não incidência deve gerar, inegavelmente, o direito ao crédito na operação seguinte, para não se frustrar o ditame magano concedente da inacumulabilidade, que tem por suporte a cobrança do tributo” (fl. 131).
+3. O Procurador-Geral da República opinou pelo não provimento do recurso extraordinário, nestes termos:
+“RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IPI. CREDITAMENTO. AQUISIÇÃO DE ENERGIA ELÉTRICA PARA A FABRICAÇÃO DE PRODUTOS INDUSTRIALIZADOS. I – DE ACORDO COM O ART. 155, § 3º, DA C.F., A AQUISIÇÃO DE ENERGIA ELÉTRICA É INUME À INCIDÊNCIA DO IPI. II – NÃO HAVENDO PAGAMENTO DO IPI, NÃO EXISTE O DIREITO AO CREDITAMENTO DESSE VALOR, QUE NÃO FOI PAGO. INTELIGÊNCIA DO ART. 153, § II, C.F. III – SE NÃO HÁ SAÍDA DO BEM, OU SE ESTE NÃO INTEGRA O PRODUTO INDUSTRIALIZADO FINAL, NÃO HÁ QUE SE FALAR EM CUMULATIVIDADE. IV – O PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL, NO JULGAMENTO DO RE N. 353.657, QUE AINDA NÃO FOI CONCLUÍDO, SINALIZA UMA PROVÁVEL MUDANÇA NO ENTENDIMENTO DA CORTE, ANTE A VOTAÇÃO DA MAIORIA ABSOLUTA DOS MINISTROS NO SENTIDO DE QUE 'ADMITIR O CREDITAMENTO IMPLICARIA OFENSA AO INCISO II DO §3º DO ART. 153 DA CF' (INFORMATIVO N. 361). - PARECER PELO IMPROVIMENTO DO RECURSO” (fl. 187).
+Analisados os elementos havidos nos autos, DECIDO.
+4. Razão jurídica não assiste à Recorrente.
+5. Este Supremo Tribunal assentou que inexiste direito constitucional ao crédito de Imposto sobre Produtos Industrializados – IPI decorrente da aquisição de energia elétrica empregada no processo de fabricação de produtos industrializados onerados pelo imposto em suas saídas.
+Nesse sentido:
+“CONSTITUCIONAL. TRIBUTÁRIO. IPI. CRÉDITO. OPERAÇÕES COM ENERGIA ELÉTRICA. I - Na sistemática que rege o princípio constitucional da não cumulatividade, a operação desonerada de IPI impede o reconhecimento do imposto pago na operação anterior e não gera crédito para a seguinte, raciocínio que deve ser aplicado de forma indistinta aos casos de alíquota zero, isenção, não incidência e de imunidade. II - Inexiste direito constitucional ao crédito de IPI decorrente da aquisição de energia elétrica empregada no processo de fabricação de produtos industrializados que são onerados pelo imposto em suas saídas. III - Agravo regimental improvido” (RE 561.676-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 6.8.2010).
+E:
+“IPI - INSUMO - ALÍQUOTA ZERO - AUSÊNCIA DE DIREITO AO CREDITAMENTO. Conforme disposto no inciso II do § 3º do artigo 153 da Constituição Federal, observa-se o princípio da não-cumulatividade compensando-se o que for devido em cada operação com o montante cobrado nas anteriores, ante o que não se pode cogitar de direito a crédito quando o insumo entra na indústria considerada a alíquota zero” (RE 353.657, Rel. Min. Marco Aurélio, Plenário, DJe 7.3.2008).
+E ainda:
+“A compensação prevista na Constituição da República, para fins da não cumulatividade, depende do cotejo de valores apurados entre o que foi cobrado na entrada e o que foi devido na saída: o crédito do adquirente se dará em função do montante cobrado do vendedor do insumo e o débito do adquirente existirá quando o produto industrializado é vendido a terceiro, dentro da cadeia produtiva” (RE 475.551, do qual fui Redatora para o acórdão, Plenário, DJe 13.11.2009).
+6. Dessa orientação jurisprudencial não divergiu o acórdão recorrido.
+7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 24 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
