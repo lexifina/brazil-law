@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1104, de 23 de dezembro de 2010
+Aprova, para o ano-calendário de 2011, o programa aplicativo Ganhos de Capital, relativo ao Imposto sobre a Renda da Pessoa Física.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL SUBSTITUTO, no uso das atribuições que lhe conferem os incisos III e XVII do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto na Instrução Normativa SRF nº 84, de 11 de outubro de 2001, e na Instrução Normativa SRF nº 599, de 28 de dezembro de 2005, Resolve:
