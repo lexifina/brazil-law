@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE IMPORTAÇÃO. EXCEÇÃO TARIFÁRIA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“TRIBUTÁRIO. MANDADO DE SEGURANÇA. LIBERAÇÃO DE MERCADORIA IMPORTADA. FISCALIZAÇÃO ADUANEIRA. EXCEÇÃO TARIFÁRIA. ENQUADRAMENTO. 1. O equipamento importado pela impetrante - máquina para curvar tubos, de comando numérico computadorizado, com 03 eixos, para tubos de diâmetro máximo de 63,5 mm - se enquadra na exceção tarifária nº 006 da resolução nº 29/03 da CAMEX, porquanto a locução 'diâmetro máximo' deve ser lida como limite máximo para variação do diâmetro. 2. Remessa oficial e apelação improvidas. Prejudicado o agravo retido” (fl. 145).
+2. A Recorrente afirma que o Tribunal a quo teria contrariado o art. 150, § 6º, da Constituição da República.
+Afirma que “a Resolução que prevê a tributação reduzida fala em máquinas para curvar tubos cujo diâmetro máximo seja de 85mm, enquanto o equipamento importado pelo recorrido tem capacidade de dobrar tubos de até 63,5mm de diâmetro. Portanto, a locução em discussão – tubos de diâmetro máximo de 85mm – não comporta interpretação que inclua maquinário cujo diâmetro seja inferior a 85mm” (fl. 167).
+Assevera que “interpretar a lei como o fez a Turma importa em reduzir a tributação, ou por via indireta, criar isenção” (fl. 167).
+Sustenta que “deve haver lei específica para a concessão de isenções, não podendo o Poder Judiciário estender este benefício por analogia, conforme preceitua o artigo 150, § 6º, da Constituição” (fl. 167).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste à Recorrente.
+4. O Tribunal a quo assentou que:
+“O argumento da autoridade fazendária se restringe a alegação de que o maquinário em questão, empregado para curvar tubos de diâmetro máximo de 63,5 mm, não se beneficiaria da redução do Imposto de Importação de 14% para 2% instituído pela da Câmara de Comércio Exterior porquanto a exceção tarifária cujo enquadramento foi proposto - EX-006 - diz respeito apenas à máquinas para curvar tubos de diâmetro máximo de 85 mm. Desta feita, o equipamento importado, por não alcançar o diâmetro de 85mm (o diâmetro máximo é o de 63,5 mm) estaria excluído do benefício.
+Esta leitura restritiva proposta não deve prevalecer, porquanto a locução do EX-006 em discussão - tubos de diâmetro máximo de 85 mm - comporta interpretação que inclua maquinário cujo diâmetro inferior a 85 mm. É que a expressão "diâmetro máximo" deve ser interpretada como teto, comportando as diversas graduações de diâmetro possíveis.
+De todo o acima apanhado, concluo que exceção tarifária nº 006 da resolução nº 29/03 da CAMEX se aplica ao equipamento adquirido pelo impetrante constante da Declaração de Importação nº 05/1236421-9 ” (fl. 143).
+Para se concluir de forma diversa do que decidido pelas instâncias originárias, seria necessária a análise da legislação infraconstitucional aplicável à especie (Resolução n. 29/2003 da Câmara de Comércio Exterior). Assim, a alegada ofensa à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. 1. Caso em que afronta à Magna Carta de 1988, se existente, ocorreria de forma reflexa ou indireta. 2. De mais a mais, foi conferida prestação jurisdicional adequada, em decisão devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante, o que não configura cerceamento de defesa. 3. Agravo regimental desprovido.” (RE 510.750-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJe 6.8.2010).
+E:
+“1. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. 2. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 93, IX, da Constituição Federal. Ofensa constitucional indireta. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI 508.047-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 21.11.2008 – grifos nossos).
+6. Nada há, pois, a prover quanto às alegações da Recorrente.
+7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 26 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
