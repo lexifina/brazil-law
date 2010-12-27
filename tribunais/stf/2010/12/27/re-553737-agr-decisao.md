@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. DESAPROPRIAÇÃO. JUROS MORATÓRIOS E COMPENSATÓRIOS. ART. 33 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. PRECEDENTES. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. ANÁLISE, DESDE LOGO, DO RECURSO EXTRAORDINÁRIO. RECURSO PARCIALMENTE PROVIDO.
+Relatório
+1. Em 4 de agosto de 2008, neguei seguimento ao recurso extraordinário interposto pelo Estado de São Paulo, em razão da ausência de prequestionamento dos arts. 166 e 167, inc. II, V e VI, da Constituição da República e da circunstância de estar o acórdão recorrido em harmonia com a jurisprudência do Supremo Tribunal Federal (fls. 300-304).
+2. Publicada essa decisão no DJe de 25.8.2008 (fl. 305), interpõe o Estado de São Paulo, ora Agravante, em 3.9.2008, tempestivamente, agravo regimental (fls. 307-308).
+3. Alega o Agravante que “o acórdão recorrido, proferido pelo Tribunal de Justiça do Estado de São Paulo, diverge (...) justamente ao estabelecer a incidência também dos juros compensatórios, no caso de pagamento a destempo das parcelas. Confira-se às folhas 78: ‘e dá-se a exclusão dos juros compensatórios somente das parcelas resgatadas tempestivamente, na forma do já mencionado art. 33 do ADCT’” (fls. 307-308).
+Requer o provimento do presente recurso para “dar parcial provimento ao recurso extraordinário para determinar que são cabíveis somente os juros moratórios nos casos de pagamento a destempo da moratória constitucional” (fls. 308).
+4. Houve erro material na decisão agravada, razão pela qual reconsidero a decisão de fls. 300-304, ficando prejudicadas as razões do agravo regimental.
+Passo ao exame, desde logo, do recurso extraordinário.
+5. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+“DESAPROPRIAÇÃO – Art. 33, do ADCT, da Constituição Federal. Juros moratórios e compensatórios – Admissibilidade somente dos primeiros, se a expropriante não efetua os pagamentos nos momentos adequados – O art. 33 do Ato das Disposições Constitucionais Transitórias faculta o resgate dos valores pendentes de precatórios, em oito parcelas. Trata-se de moratória constitucional outorgada ao Poder Público, permitindo a consolidação da dívida na data da promulgação da Carta Magna, após computados juros e correção monetária, com mera atualização monetária quando do pagamento de cada prestação. Destarte, não se pode cogitar de incidência de juros sobre as prestações cumpridas nos prazos estabelecidos na Constituição, dando-se, à evidência, o inverso quando dos resgates tardios das parcelas” (fl. 76).
+6. O Recorrente afirma que teriam sido contrariados os arts. 93, inc. IX, 100, §§ 1º e 4º, 166, e 167, inc. II, V e VI, da Constituição da República e o art. 33 do Ato das Disposições Constitucionais Transitórias.
+Argumenta que “o V. Acórdão que manda computar os juros compensatórios após a promulgação da Constituição Federal, mesmo somente no caso de mora verificada no pagamento das parcelas, viola frontalmente o art. 33 do ADCT e contraria jurisprudência pacífica desta E. Suprema Corte” (fl. 118).
+Apreciada a matéria trazida na espécie, DECIDO.
+7. Razão jurídica assiste, em parte, ao Recorrente.
+8. A jurisprudência deste Supremo Tribunal assentou que os juros moratórios e compensatórios não incidem durante o período do parcelamento previsto no art. 33 do Ato das Disposições Constitucionais Transitórias. São cabíveis os juros moratórios somente nos casos de inadimplência da Fazenda Pública no pagamento do parcelamento, a partir da data em que este é devido até o seu efetivo pagamento.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PRECATÓRIO. DESAPROPRIAÇÃO. ART. 33 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. JUROS MORATÓRIOS E COMPENSATÓRIOS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 466.268-AgR, de minha relatoria, Primeira Turma, DJ 29.6.2007).
+E:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ARTIGO 33 DO ADCT. JUROS MORATÓRIOS E COMPENSATÓRIOS. INCIDÊNCIA. 1. Juros moratórios e compensatórios não incidem durante o transcurso do período de parcelamento previsto no artigo 33 do ADCT da Constituição do Brasil. 2. Somente são cabíveis os juros moratórios na hipótese de inadimplência da Fazenda Pública no pagamento do parcelamento previsto no artigo 33 do ADCT. Precedentes. Agravo regimental a que se nega provimento” (RE 393.017- AgR, Rel. Min. Eros Grau, DJ 2.2.2007).
+Dessa orientação jurisprudencial divergiu, em parte, o acórdão recorrido.
+9. Pelo exposto, dou parcial provimento ao recurso extraordinário (art. 557, 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal), para excluir da condenação a incidência dos juros compensatórios e moratórios, salvo, em relação a esses últimos, no caso de pagamento das parcelas sem a observância do disposto no art. 33 do Ato das Disposições Constitucionais Transitórias. Invertidos, nesse ponto, os ônus da sucumbência, com a ressalva de eventual concessão do benefício da justiça gratuita.
+Publique-se.
+Brasília, 27 de dezembro de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
