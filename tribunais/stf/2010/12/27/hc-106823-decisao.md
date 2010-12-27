@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de habeas corpus impetrado em favor de JOSÉ GERCÍLIO DALBOSCO e CLEBER ROBERTO BARRUECO, contra ato do juízo de Direito da comarca de Marechal Cândido Rondon-PR, que determinou a prisão preventiva dos ora pacientes.
+Aquele juízo declinou da competência para julgar a ação penal movida contra os ora pacientes, remetendo-a à Justiça Federal. O juízo federal, no entanto, suscitou conflito negativo de competência perante o Superior Tribunal de Justiça, aí registrado como CC nº 114.398.
+Este habeas corpus foi originariamente impetrado ao Tribunal de Justiça do Estado do Paraná, que, pelas mesmas razões expendidas pelo juízo estadual, declinou da competência para o Tribunal Regional Federal da 4ª Região.
+Esse Tribunal, por sua vez, entendeu ser da competência deste Supremo Tribunal Federal o julgamento do writ e para cá remeteu os autos.
+2. Incognoscível o pedido de writ.
+Verifico que, apesar de constar da autuação que a autoridade apontada coatora é o Superior Tribunal de Justiça, não há ato seu que se busque impugnar neste writ. Diversamente, o ato coator consiste no alegado excesso de prazo para a formação da culpa, tendo em vista o fato de que os pacientes foram presos há mais de 1 (um) ano e 3 (três) meses sem que tenha havido sequer o recebimento da denúncia contra eles oferecida.
+Ainda que pendente feito instaurado perante o Superior Tribunal de Justiça para dirimir o conflito de competência entre as Justiças Estadual e Federal, àquele Tribunal Superior não pode ser atribuída a demora alguma na prestação jurisdicional a que estão submetidos os pacientes.
+E, como se sabe, a competência para julgar habeas corpus depende da qualidade do paciente ou da autoridade coatora. De um lado, os pacientes não gozam de prerrogativa de foro; de outro, esta Corte só é competente para processar e julgar, originariamente, pedido de habeas corpus em que figurem como coatoras unicamente as autoridades descritas no art. 102, I, i, da Constituição da República.
+Em atenção, no entanto, ao art. 196 do Regimento Interno do Superior Tribunal de Justiça, estes autos devem para lá ser remetidos, a fim de que seja apurado qual juízo deva decidir as questões incidentais da ação penal, enquanto não decidido definitivamente o conflito instaurado, coisa que não pode esta Corte arbitrar.
+3. Isto posto, não conheço deste habeas corpus, nos termos dos arts. 38 da Lei nº 8.038, de 28.05.1990, e 13, V, “d”, do RISTF. Remetam-se, incontinenti, os autos ao Superior Tribunal de Justiça, independente de publicação, para que o Ministro Relator do CC nº 114.398 decida, com urgência, qual o juízo competente para julgar o habeas corpus impetrado em favor dos pacientes em 30 de setembro de 2010 perante o Tribunal de Justiça do Estado do Paraná.
+Publique-se. Int..
+Brasília, 27 de dezembro de 2010.
+Ministro CEZAR PELUSO
+Presidente
