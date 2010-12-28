@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1111, de 27 de dezembro de 2010
+Altera o Anexo Único à Instrução Normativa RFB nº 953, de 3 de julho de 2009, que alterou a Instrução Normativa SRF nº 80, de 27 de dezembro de 1996, por meio da qual se instituiu a Nomenclatura de Valor Aduaneiro e Estatística - NVE.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL - SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e considerando o disposto no art. 551 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
