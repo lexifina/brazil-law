@@ -1,0 +1,13 @@
+DESPACHO: 1. Trata-se de mandado de segurança contra a decisão da Corregedoria Nacional de Justiça, proferida nos autos do Pedido de Providências (PP) n.º 00384-41.2010.2.00.0000, e que declarou a vacância de serventias extrajudiciais ocupadas pelos ora impetrantes, dentre outras.
+ Não obstante os 173 (cento e setenta e três) documentos juntados, não se encontram comprobatórios da cientificação dos impetrantes sobre a decisão objeto desta impetração, à exceção do documento relativo ao impetrante Luciano Araújo dos Santos.
+2.  Assim, em relação ao impetrante Luciano Araújo dos Santos, forçoso é dar pela extemporaneidade da impetração. Cientificado da decisão objeto deste writ em 16 de julho de 2010 (cfr. documento de pp. 77/78 do arquivo eletrônico n.° 2), o prazo decadencial de 120 (cento e vinte dias) para exercício do direito potestativo mediante mandado de segurança (art. 23 da Lei n.º 12.016, de 7 de agosto de 2009) venceu em 12 de novembro de 2010, mas a impetração ocorreu somente no dia 28 de dezembro de 2010 (cfr. p. 1 da inicial).
+ Pouco se dá que, nesse ínterim, tenha interposto recurso administrativo perante o Conselho Nacional de Justiça, porquanto o regimento interno daquele órgão é claro em dispor que não há eficácia suspensiva em tal via impugnativa (§ 4.º do art. 115), e da leitura do art. 5.°, I, da Lei n.º 12.016/2009, se conclui que o prazo para a impetração do mandado de segurança somente não começa a correr se o ato que lhe é objeto for atacado por “recurso administrativo com efeito suspensivo”. Este é também o entendimento já adotado pelo Pleno da Corte em situação processual semelhante:
+“Mandado de segurança contra decisão de Câmara do Tribunal de Contas, confirmada por assentada do Plenário. Contagem, somente a partir desta última, do prazo de decadência, dado o efeito suspensivo do recurso que a ensejou.” (MS n.° 22.947, Rel. Min. OCTAVIO GALLOTTI, DJ 08-03-2002).
+3.  Ante o exposto, quanto ao impetrante Luciano Araújo dos Santos extingo o processo, com pronúncia de decadência do direito à impetração, nos termos do artigo 269, IV, do CPC, c/c o artigo 13, V, “c”, do RISTF. Custas ex lege.
+ Quanto aos demais impetrantes, independentemente do disposto nos arts. 6.° e 10 da Lei n.º 12.016/2009, determino que juntem aos autos, no prazo de 10 (dez) dias, sob pena de indeferimento da inicial, cópia legível dos referidos documentos.
+ Após decorrido o prazo supra , com ou sem manifestação dos impetrantes, tornem conclusos os autos, para decisão.
+ Antes disto, à Secretária Judiciária para que proceda à distribuição deste processo ao eminente Ministro AYRES BRITTO por prevenção ao MS n.° 28.693.
+ Publique-se.
+ Brasília, 29 de dezembro de 2010.
+Ministro CEZAR PELUSO
+Presidente
