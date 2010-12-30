@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1115, de 28 de dezembro de 2010
+Dispõe sobre a Declaração de Informações sobre Atividades Imobiliárias (Dimob) e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 57 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, e na Instrução Normativa RFB nº 969, de 21 de outubro de 2009, resolve:
