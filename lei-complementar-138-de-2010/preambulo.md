@@ -1,0 +1,2 @@
+Altera a Lei Complementar nº 87, de 13 de setembro de 1996, que dispõe sobre o imposto dos Estados e do Distrito Federal sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
