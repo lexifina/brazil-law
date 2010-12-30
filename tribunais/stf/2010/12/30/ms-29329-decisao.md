@@ -1,0 +1,35 @@
+1.   Trata-se de mandado de segurança, com pedido de medida liminar, fundamentado no art. 102, I, r, da Constituição Federal, impetrado pelo Estado do Tocantins contra ato do Conselheiro Paulo de Tarso Tamburini Souza, do Conselho Nacional de Justiça, relator dos Procedimentos de Controle Administrativo 0006514-47.2010.2.00.0000 e 0006516-17.2010.2.00.0000.
+Narra o impetrante que o Conselheiro Paulo de Tarso Tamburini Souza deferiu os pedidos formulados por Luiz Aparecido Gadotti e Alex Hennemann nos mencionados procedimentos e determinou a suspensão da promoção por merecimento para a vaga de desembargador do Tribunal de Justiça do Estado do Tocantins.
+Informa que, em abril de 2010, houve a declaração da vacância de um cargo de desembargador do TJTO, tendo sido tomadas todas as providências necessárias ao seu provimento, com observância da Resolução CNJ 106/2010. Todavia, alguns magistrados suscitaram questões, que foram encaminhadas à deliberação do Plenário do TJTO, nos termos do art. 13, caput, da citada resolução.
+Diz que somente três candidatos, os juízes Adelina Maria Gurak, Ângela Maria Ribeiro Prudente e Helvécio de Brito Maia Neto, manifestaram-se em relação aos dados apresentados pela Corregedoria-Geral de Justiça, limitando-se a tecer considerações sobre os seus próprios registros, sem impugnar os de outros concorrentes.
+Afirma que não há razão para adiar o início do processo de eleição do novo membro do TJTO.
+Discorre que, na sessão realizada em 28.6.2010, definiu-se que a competência para deliberar sobre as eventuais impugnações apresentados pelos candidatos seria do Tribunal Pleno, por força do disposto na Resolução CNJ 106/2010. Posteriormente, na sessão plenária realizada de 02.9.2010, entendeu-se que os autos do processo administrativo de promoção deveriam retornar ao Conselho da Magistratura para a apreciação das impugnações, com a possibilidade de interposição de recurso administrativo para o próprio Tribunal Pleno.
+Esclarece o impetrante que, na 6ª Sessão Ordinária do Conselho da Magistratura, em 16.9.2010, o Corregedor do TJTO entendeu que a competência para deliberar sobre as impugnações seria do Tribunal Pleno, por ser competente para deliberar sobre a própria promoção. Em razão desse fato, foi feita a convocação extraordinária do Pleno para que ratificasse ou não seu posicionamento de que as impugnações deveriam ser apreciadas pelo Conselho da Magistratura, tendo sido marcada a sessão de julgamento para 07.10.2010.
+Argumenta que, em decorrência da decisão ora impugnada, só poderão ser julgadas, na sessão de 07.10.2010, as manifestações dos candidatos sobre os seus próprios registros, ficando postergado o julgamento da promoção.
+Salienta a existência de perigo na demora inverso, dado que o provimento dessa vaga de desembargador poderá ser indefinidamente postergado, o que acarretará prejuízos aos demais candidatos, ao TJTO e aos jurisdicionados.
+Requer, ao final, a concessão de medida liminar para suspender os efeitos da decisão impugnada, permitindo-se que sejam julgados os requerimentos de correção da avaliação dos candidatos e a própria promoção para a vaga de desembargador do Tribunal de Justiça do Estado do Tocantins. No mérito, pede a cassação da decisão impugnada.
+2.  O Estado do Tocantins apresentou aditamento à petição inicial. Sustentou, em síntese, que a decisão impugnada ofende a autonomia do Poder Judiciário tocantinense e o comando normativo do art. 13, caput, da Resolução CNJ 106/2010, ao determinar que a apreciação das impugnações seja feita em sessões distintas.
+3.  Solicitaram-se informações, que foram devidamente prestadas pela Presidência do Conselho Nacional de Justiça. Informa que a decisão do Conselheiro Paulo de Tarso Tamburini Souza foi ratificada pelo Plenário do Conselho Nacional de Justiça, em sessão realizada em 19.10.2010.
+4.  A União, representada por sua Advocacia-Geral, requer o ingresso no presente feito.
+5.  Preliminarmente, defiro o pedido formulado pela União (art. 7º, II, da Lei 12.016/2009).
+6.  Eis a decisão liminar, ora impugnada, proferida pelo Conselheiro Paulo de Tarso Tamburini Souza nos autos dos Procedimentos de Controle Administrativo 0006514-47.2010.2.00.0000 e 0006516-17.2010.2.00.0000, ratificada pelo Plenário do Conselho Nacional de Justiça, em sessão realizada em 19.10.2010:
+“(...)
+A decisão de julgar as impugnações na mesma sessão em que se decidirá pela promoção coloca em evidente risco o direito dos magistrados candidatos, posto que, decidida uma impugnação e levada a efeito a promoção, consuma-se aquele referido ato, sendo de evidente dificuldade sua posterior reparação.
+Estando a sessão marcada para o dia 07 de outubro próximo, resta evidente, também, a constatação do ‘periculum in mora’, razão pela qual DEFIRO a medida liminar requerida e determino a SUSPENSÃO da promoção para a referida vaga de desembargador do Tribunal de Justiça do Estado de Tocantins, até que julgadas em definitivo as impugnações, o que NÃO poderá ocorrer na mesma sessão de votação das promoções.
+(...) ” .
+7.  Verifico, todavia, que se encontra devidamente evidenciada a ausência de interesse processual do Estado do Tocantins no julgamento do presente mandamus.
+Em consulta ao sítio do Conselho Nacional de Justiça na internet, constato que, em 23.11.2010, ao julgar o mérito dos Procedimentos de Controle Administrativo 0006514-47.2010.2.00.0000 e 0006516-17.2010.2.00.0000, o Conselheiro Paulo de Tarso Tamburini Souza determinou o arquivamento desses processos em decisão de que extraio os seguintes trechos:
+“(...)
+O Tribunal Pleno do TJTO já afirmou a própria competência para apreciação e julgamento das impugnações, excluindo, assim, a competência do Conselho Superior da Magistratura.
+Vale ressaltar que, ao contrário do que afirmam os requerentes, não vislumbro qualquer ilegalidade em tal decisão, visto que o próprio Conselho da Magistratura afirmou que compete ao Tribunal Pleno apreciar e julgar as impugnações.
+Ademais, a Resolução CNJ nº 106 prevê a possibilidade de apresentação de impugnação, sem, contudo, estabelecer a competência de um ou de outro órgão para apreciação e julgamento, restando, assim, ao próprio tribunal, usando de sua autonomia conferida pela Constituição Federal, decidir acerca da competência para apreciação da matéria.
+(...)
+Ultrapassados tais pontos, tem-se que, em razão do deferimento da liminar pleiteada pelos requerentes, o Tribunal Pleno do TJTO cumpriu devidamente a medida, apreciando todas as impugnações e deixando o julgamento da promoção para outra sessão, ocorrendo, assim, a perda de objeto dos procedimentos.
+Desta forma, com fundamento no inciso X do artigo 25 do RICNJ, determino o arquivamento dos feitos.
+(...)”.
+8.  Ante o exposto, com fundamento no art. 267, VI, do Código de Processo Civil, extingo o presente processo, sem resolução de mérito, por perda superveniente do seu objeto.
+Providencie a Secretaria desta Corte a inclusão da União no pólo passivo do presente writ (art. 7º, II, da Lei 12.016/2009).
+Publique-se e arquive-se.
+Brasília, 30 de dezembro de 2010.
+Ministra Ellen Gracie
+Relatora
