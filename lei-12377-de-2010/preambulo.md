@@ -1,0 +1,2 @@
+Altera o art. 2º e o Anexo IV da Lei nº 12.017, de 12 de agosto de 2009, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2010, e o art. 2º e o Anexo III da Lei nº 12.309, de 9 de agosto de 2010, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2011.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
