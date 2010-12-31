@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1116, de 30 de dezembro de 2010
+Dispõe sobre a apuração do imposto sobre a renda na fonte incidente sobre rendimentos de prestação de serviços de transporte rodoviário internacional de carga, auferidos por transportador autônomo pessoa física residente na República do Paraguai, considerado como sociedade unipessoal naquele País.
+O SECRETÁTIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto na Lei nº 11.482, de 31 de maio de 2007, na Lei nº 11.773, de 17 de setembro de 2008, e na Lei nº 11.945, de 4 junho de 2009, resolve:
