@@ -1,0 +1,1 @@
+Art. 21-B. A previsão de penalidades por falta de combustível para agentes de geração de energia elétrica e supridores de combustível deverá considerar as características específicas de cada fonte energética, conforme diretrizes do Conselho Nacional de Política Energética - CNPE.
