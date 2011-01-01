@@ -1,0 +1,3 @@
+LEI Nº 12.218, DE 30 DE MARÇO DE 2010.
+Altera as Leis nº 9.440, de 14 de março de 1997, e 9.826, de 23 de agosto de 1999, que estabelecem incentivos fiscais para o desenvolvimento regional.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 471, de 2009, que o Congresso Nacional aprovou, e eu, Serys Slhessarenko, Segunda Vice-Presidente da Mesa do Congresso Nacional, no exercício da Presidência, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
