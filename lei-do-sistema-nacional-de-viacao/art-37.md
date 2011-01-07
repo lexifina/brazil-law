@@ -1,0 +1,1 @@
+Art. 37. Fica a União autorizada a transferir para Estados, Distrito Federal e Municípios, mediante convênio, a implantação, administração, operação, manutenção e exploração de aeródromos públicos, de acordo com esta Lei, com a Lei nº 8.399, de 7 de janeiro de 1992, e com a legislação aeronáutica em vigor.

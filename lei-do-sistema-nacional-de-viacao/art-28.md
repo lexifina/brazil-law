@@ -1,0 +1,1 @@
+Art. 28. O Anexo VI apresenta a relação descritiva das eclusas e outros dispositivos de transposição de nível existentes e planejados integrantes do Subsistema Aquaviário Federal, segundo a localidade e a bacia ou o rio em que se situem.
