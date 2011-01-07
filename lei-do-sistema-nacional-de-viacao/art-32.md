@@ -1,0 +1,1 @@
+Art. 32. A exploração dos portos organizados e de instalações portuárias atenderá ao disposto na Lei nº 8.630, de 25 de fevereiro de 1993, e na Lei nº 10.233, de 5 de junho de 2001, independentemente do regime de administração adotado.
