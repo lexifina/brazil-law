@@ -1,0 +1,1 @@
+Art. 40. Os Estados, o Distrito Federal e os Municípios deverão adequar suas estruturas administrativas para assumirem segmentos da infraestrutura viária federal e a execução de obras e serviços que lhes forem outorgados pela União.

@@ -1,0 +1,1 @@
+Art. 29. A utilização de águas navegáveis de domínio de Estado ou do Distrito Federal, para navegação de interesse federal, nos termos da alínea d do inciso XII do art. 21 da Constituição Federal, será disciplinada em convênio firmado entre a União e o titular das águas navegáveis.
