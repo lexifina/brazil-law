@@ -1,0 +1,1 @@
+Art. 43. Ficam aprovadas as relações constantes dos Anexos desta Lei, que descrevem os componentes físicos da infraestrutura existente ou planejada dos transportes rodoviário, ferroviário, aquaviário e aeroviário, com as respectivas regras de nomenclatura, que passam a compor o Sistema Federal de Viação, sob jurisdição da União.

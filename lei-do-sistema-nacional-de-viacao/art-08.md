@@ -1,0 +1,1 @@
+Art. 8º Os componentes físicos dos subsistemas integrantes do SFV integram as relações descritivas anexas a esta Lei e sujeitam-se às especificações e normas técnicas formuladas pela autoridade competente, qualquer que seja o regime de administração adotado.

@@ -1,0 +1,1 @@
+Art. 30. Qualquer intervenção destinada a promover melhoramentos nas condições do tráfego em via navegável interior deverá adequar-se aos princípios e objetivos da Política Nacional de Recursos Hídricos, instituída pela Lei nº 9.433, de 8 de janeiro de 1997.

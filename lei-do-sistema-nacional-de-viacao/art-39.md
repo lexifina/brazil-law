@@ -1,0 +1,1 @@
+Art. 39. Os Estados, o Distrito Federal e os Municípios definirão, em legislação própria, os elementos físicos da infraestrutura viária que comporão os respectivos sistemas de viação, em articulação com o Sistema Federal de Viação.

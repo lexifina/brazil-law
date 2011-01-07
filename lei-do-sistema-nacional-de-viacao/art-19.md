@@ -1,0 +1,1 @@
+Art. 19. Fica a União autorizada a incorporar à malha rodoviária sob sua jurisdição trechos de rodovias estaduais existentes, cujo traçado coincida com diretriz de rodovia federal integrante da Rinter, mediante anuência dos Estados a que pertençam.
