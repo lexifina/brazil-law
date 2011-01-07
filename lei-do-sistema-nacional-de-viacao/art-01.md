@@ -1,0 +1,1 @@
+Art. 1º Esta Lei dispõe sobre o Sistema Nacional de Viação - SNV, sua composição, objetivos e critérios para sua implantação, em consonância com os incisos XII e XXI do art. 21 da Constituição Federal.

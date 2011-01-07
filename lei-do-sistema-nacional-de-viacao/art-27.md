@@ -1,0 +1,1 @@
+Art. 27. O Anexo V apresenta a relação descritiva dos portos marítimos e fluviais integrantes do Subsistema Aquaviário Federal, segundo a localidade e, no caso de portos fluviais, a bacia ou o rio em que se situem.
