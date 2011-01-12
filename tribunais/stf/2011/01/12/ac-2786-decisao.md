@@ -1,0 +1,12 @@
+D ECIS Ã O:  1. Trata-se de ação cautelar, com pedido de medida liminar, ajuizada por Viação Nossa Senhora de Medianeita Ltda., em face de decisão monocrática proferida pela Ministra CÁRMEN LÚCIA, nos autos do RE nº 628.337 (DJe de 13.12.2010), em que foi dado provimento ao recurso da Agência Nacional de Transportes Terrestres (ANTT), para impedir a exploração, pela ora autora, do serviço de transporte rodoviário de passageiros no trecho entre Altamira/PA e São Paulo/SP.
+A requerente faz diversas considerações sobre o mérito da causa, alega que seria a única empresa a explorar o itinerário e que já o faria há mais de vinte anos. Sustenta que teria obtido provimento favorável na STA nº 357-AgR (de minha relatoria, Plenário, DJe de 2.9.2010). Por fim, requer a liminar, para continuar explorando o trecho “(...) até o julgamento do agravo regimental interposto no Recurso Extraordinário”.
+2. Não é caso de liminar.
+É que as decisões proferidas nos autos da STA nº 357 – monocrática e do Plenário – têm como fundamento o risco de dano inverso. Vale dizer, na hipótese foi considerado relevante o prejuízo que a interrupção dos serviços prestados pela ora requerente provocaria às comunidades beneficiadas, razão pela qual foi rejeitado o pedido de suspensão formulado pela ANTT. Como consequência, manteve-se a atividade da empresa no trecho entre Altamira/PA e São Paulo/SP.
+Na oportunidade, seguindo orientação desta Corte (SS nº 2.932-AgR, Rel. Min. ELLEN GRACIE, Plenário, DJe de 25.4.2008), não foi analisada com profundidade a razão de mérito da causa, evitando juízo cognitivo aprofundado, que esgotasse antecipadamente a questão levada a juízo.
+A decisão proferida, no entanto, pela Ministra CÁRMEN LÚCIA nos autos do RE nº 628.337 (DJe de 13.12.2010), tem por fundamento jurisprudência do Supremo Tribunal Federal relativa ao mérito da causa. Não se desconhece a possibilidade de dano aos interessados, em decorrência da paralisação dos serviços da requerente, mas este fundamento, que vigora desde a primeira decisão proferida na STA nº 357, em janeiro de 2010, já não pode subsistir ante decisão da juíza natural da causa, que, analisando com profundidade a questão, concluiu, com base na jurisprudência desta Corte, não ser possível a exploração do transporte rodoviário de passageiros sem licitação.
+3. Ante o exposto, indefiro o pedido de liminar. Distribuam-se os autos à Ministra CÁRMEN LÚCIA, por dependência ao RE nº 628.337.
+Publique-se. Int..
+Brasília, 12 de janeiro de 2011.
+Ministro C EZAR P ELUSO
+Presidente
+Documento assinado digitalmente
