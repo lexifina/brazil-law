@@ -1,0 +1,29 @@
+D ECIS Ã O:  1. Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de SÉRGIO ROBERTO EGGER DE MOURA contra decisão do Min. JORGE MUSSI, que lhe indeferiu a liminar nos autos do HC nº 185.168 do Superior Tribunal de Justiça nos seguintes termos:
+“Trata-se de habeas corpus com pedido de liminar impetrado em favor de SÉRGIO ROBERTO EGGER DE MOURA, apontando como autoridade coatora Desembargador componente da Quarta Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro que negou concessão sumária ao Writ n.º 00499682-70.2010.8.19.0000, mantendo, por ora, a decisão que decretou a prisão preventiva do paciente em 9-9-2010, nos autos da ação penal em que restou denunciado pela suposta prática dos delitos previstos nos arts. 121, § 2º, I, c/c 14, II, e 339, c/c 29, na forma do art. 69, todos do Código Penal.
+Sustentam os impetrantes a ocorrência de constrangimento ilegal, ao argumento de que a Corte local teria se valido das informações prestadas pelo Juízo de primeiro grau para complementar e sanar a falta de fundamentação do decreto prisional, o que estaria em discordância com julgados deste Sodalício Superior.
+Aduzem que as imputações criminais ao paciente seriam resultado de perseguições políticas.
+Alegam que as decisões impugnadas teriam feito menção genérica aos indícios de autoria e à materialidade delitiva, não demonstrando concretamente as razões pela quais a liberdade do acusado implicaria em óbices à garantia da ordem pública, da instrução criminal ou à aplicação da lei penal.
+Defendem que temores subjetivos de uma testemunha, ilações abstratas sobre o delito e suposições de que poderia o agente influir na produção das provas, não seriam motivos idôneos para sustentar a medida de exceção.
+Afirmam estar caracterizada flagrante ilegalidade capaz de excepcionar a aplicação do Enunciado Sumular n.º 691 do Supremo Tribunal Federal.
+Requerem, liminarmente, a concessão da ordem constitucional para que seja deferida a liberdade provisória ao paciente, sob o compromisso de comparecer mensalmente em juízo.
+É o relatório.
+Na hipótese em testilha, a par do estabelecido na Súmula n.º 691 do STF que, ressalvadas as hipóteses de flagrante ilegalidade, veda o conhecimento de remédio constitucional contra indeferimento de liminar, mostra-se inviável, em um juízo meramente perfuntório, próprio desta fase procedimental, reconhecer a existência da apontada coação ilegal de que estaria sendo vítima o paciente, porquanto consignando o acerto da decisão singular impugnada, a autoridade impetrada não verificou presente o fumus boni juris e o periculum in mora necessários à concessão da tutela de urgência, razão pela qual houve por bem indeferir a liminar pleiteada, in verbis:
+As informações prestadas pela autoridade apontada coatora dão conta, lamentavelmente, do reiterado envolvimento do paciente em condutas delituosas violentas e graves.
+Havendo este clima de animosidade, o resguardo da própria segurança do paciente e daqueles a quem ele acusa de tentativa de homicídio (a ele ou aos que lhe são próximos) é medida que se impõe.
+Haveria um clima de 'guerra' entre o paciente e outros integrantes da comunidade local por conta do domínio do transporte alternativo ilegal em Araruama, circunstância que motivaria os crimes a princípio atribuídos ao paciente.
+[...]
+A FAC juntada aos autos do habeas corpus registra 10 anotações referentes aos crimes mais variados: receptação; desacato; tentativas de homicídio.
+O exame das peças ora trazidas pela diligente Defesa do paciente informa que o Investigador de Polícia Paulo Roberto F. Brandão conclui, em seu relatório, da necessidade da prisão do aqui paciente e de Alexandro da Silva Cruz, eis que, assevera, tão logo libertado, foi à residência de um desafeto, também policial militar (condição que agora não mais ostenta o paciente que teria sido excluído das fileiras da Corporação) com o fito de intimidação, porque o PM de nome Fonseca reprimiria o transporte alternativo ilegal que tem no paciente um de seus expoentes. (e-STJ fls. 24/25)
+E, assim decidindo, não se pode, ao menos num juízo prima facie, acoimar a decisão de manifestamente ilegal, visto que apontou concretamente os motivos pelos quais negou o pleito sumário.
+Ademais, a alegada ausência dos pressupostos ensejadores da segregação cautelar do paciente confunde-se com o próprio mérito do writ , devendo o caso concreto ser analisado mais detalhadamente quando da apreciação e julgamento definitivo do remédio constitucional.
+Ante o exposto, indefiro a liminar.”
+Alegam os impetrantes que não há motivação idônea na decisão que decretou a prisão preventiva do paciente, bem como as informações prestadas pelo juízo de primeiro grau ao Tribunal de Justiça do Estado do Rio de Janeiro não podem suprir o teor do decreto prisional.
+Requerem, liminarmente, a expedição de alvará de soltura em favor do paciente e, no mérito, reproduzem idêntico pleito.
+2. Esta Corte consolidou o entendimento de que "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (súmula nº 691).
+Posto, nos termos do que decidiu no HC nº 84.014-AgRg (Rel. Min. MARCO AURÉLIO), a Corte admita exceção ao enunciado da súmula 691, nos casos de flagrante constrangimento ilegal, não me parece adequado e oportuno à Presidência substituir-se ao Relator, a fim de, em juízo prévio e sumário, decidir sobre a superação excepcional de tal enunciado, sobretudo quando a pretensão envolva reexame do conjunto fático-probatório.
+3. Do exposto, não encontro situação que justifique, nos termos do art. 13, VIII, do Regimento Interno, atuação desta Presidência. Submetam-se os autos a oportuna e livre distribuição.
+Publique-se. Int..
+Brasília, 13 de janeiro de 2011.
+Ministro C EZAR P ELUSO
+Presidente
+Documento assinado digitalmente
