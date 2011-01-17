@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1120, de 4 de janeiro de 2011
+Altera a Instrução Normativa RFB Nº 944, de 29 de maio de 2009, que dispõe sobre outorga de poderes para fins de utilização, mediante certificado digital, dos serviços disponíveis no Centro Virtual de Atendimento ao Contribuinte (e-CAC) da Secretaria da Receita Federal do Brasil (RFB).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF Nº 125, de 4 de março de 2009, e tendo em vista o disposto na Instrução Normativa RFB Nº 1.077, de 29 de outubro de 2010, resolve:
