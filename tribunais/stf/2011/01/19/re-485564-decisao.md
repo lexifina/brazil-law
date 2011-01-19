@@ -1,0 +1,44 @@
+D ECIS Ã O: Trata-se de recursos extraordinários interpostos pela Itaipu Binacional em sede de ação ordinária proposta por Ouro Verde Transportes e Locação Ltda., objetivando receber diferenças decorrentes de descumprimento do contrato de locação de veículos firmado entre as partes, no período compreendido ente maio e dezembro de 1990.
+No caso, o Juízo da 1ª Vara Cível da Justiça Federal de Foz do Iguaçu/PR julgou procedente a ação para condenar a recorrente ao pagamento de tais diferenças.
+Interposta apelação pela Itaipu Binacional, o Tribunal Regional Federal da 4ª Região manteve a sentença, proferindo acórdão (fls. 3155/3161), assim ementado:
+“ADMINISTRATIVO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. ITAIPU BINACIONAL. REAJUSTAMENTO. PLANO COLLOR.
+A empresa binacional ITAIPU está subordinada à legislação brasileira, por força do Tratado internacional, promulgado pelo Decreto nº 72.707/73.
+In casu, incide o disposto no Decreto-Lei nº 2.300/86, vigente à época da prestação dos serviços, que admite alteração nos contratos somente por consenso das partes, à exceção das cláusulas denominadas regulamentares ou de serviço, não podendo haver alteração unilateral do contrato em relação à equação encargo-remuneração, ou ainda, à equação econômico-financeiro, em prejuízo do contratante particular.
+A Itaipu Binacional não pode efetuar o pagamento dos respectivos contratos sem o devido reajuste, valendo-se da Lei nº 8.030/90 – Plano Collor.”
+Rejeitados os embargos de declaração (fls. 3170/3174), a ré interpôs recurso especial (fls. 3176/3209) e recuso extraordinário (fls. 3235/3261).
+No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, aponta-se violação aos arts. 93, IX, 5º, LV, e 37, XXI, da Carta da República.
+Na ocasião, a recorrente alegou não estar submetida a regime jurídico próprio, em decorrência de sua binacionalidade, não estando sujeita aos dispositivos aplicáveis à Administração Direta e Indireta editados por Brasil ou Paraguai.
+A recorrente sustentou que o acórdão recorrido carece de fundamentação sobre pontos essenciais à solução da controvérsia. Ante a não produção da prova pericial nos termos em que requerida, entendeu ter havido cerceamento de defesa.
+Por fim, suscitou quebra do equilíbrio econômico-financeiro da relação contratual em seu desfavor, uma vez que com o advento do “Plano Brasil Novo”, as condições que vigoravam a época da contratação foram radicalmente modificadas, portanto a aplicação do reajuste originalmente previsto provocaria a elevação dos preços contratuais acima da elevação dos custos da recorrida, havendo benefícios indevidos à recorrida e sacrifício inexigível à recorrente.
+A Primeira Turma do Superior Tribunal de Justiça negou provimento ao recurso especial em acórdão de relatoria do Min. José Delgado (fls. 3332/3357), assim ementado, no que interessa:
+“ADMINISTRATIVO. ITAIPU BINACIONAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE RODOVIÁRIO. REAJUSTAMENTO. LEGALIDADE. PLANO COLLOR. APLICAÇÃO DA LEI BRASILEIRA. DL Nº 2.300/86. OFENSA AO ART. 535 DO CPC REPELIDA.
+1. (...)
+2. O julgamento não tem o dever de discorrer esgotadamente sobre os regramentos legais existentes e nem está obrigado a responder a todos os questionamentos das partes se já encontrou motivo suficiente para fundamentar a sua decisão. A conclusão do julgamento em sentido oposto ao almejado pela recorrente não conduz à hipótese de omissão. Violação ao art. 535, II, do CPC, que se repele.
+3. Ausência de violação dos arts. 165, 458, II e 459 do CPC, tendo o acórdão cumprido o princípio da obrigatoriedade da motivação das decisões judiciais. Examinou as questões nucleares e explicitou as razões pelas quais firmou as conclusões anunciadas.
+4. Negativa de infringência dos arts. 128, 460 e 515 do CPC. Todas as questões centrais de mérito foram satisfatoriamente decididas, inexistindo qualquer vício grave de ordem formal que macule o decisum em questão.
+5. Não há vulneração dos arts. 130, 332, 471 e 473 do CPC. A contestação foi explícita em defender, exclusivamente, a validade da aplicação do Plano Collor ao contrato em execução.
+6. A Itaipu Binacional, por ser empresa sediada em Brasília e Assunção, submete-se à lei brasileira que regula as obrigações decorrentes dos contratos celebrados com pessoas físicas ou jurídicas domiciliadas e residentes no Brasil, nos termos do art. XIX do Tratado que a instituiu e art. 9º, § 2º, da LICC. Daí, a incidência das normas pertinentes ao procedimento de licitação e aos contratos administrativos constantes do DL nº 2.300/86, em vigor na época da prestação dos serviços objeto da presente lide. (...)” (REsp. 440.148/PR, Rel. Min. José Delgado, 1ª Turma, DJ 11.04.2005)
+Rejeitados embargos de declaração, sobreveio interposição de outro recurso extraordinário (fls. 3377/3387), o qual não foi admitido na origem (fls. 3402/3403). O agravo de instrumento interposto pela ora recorrente foi provido pelo Min. Cezar Peluso na decisão de fl. 344 (AI 597.099, Rel. Min. Cezar Peluso, DJ 4.12.2006) e apensado a estes autos.
+Esse segundo recurso extraordinário foi interposto com fulcro no art. 102, inciso III, alínea “a”, da Constituição Federal, apontando-se violação aos arts. 22, XXVII, e 37, XXI, da Carta da República.
+Em síntese, a recorrente insiste que não faz parte da Administração Federal brasileira direta ou indireta, portanto não se submete ao DL 2.300/86.
+Segundo a recorrente,
+“A idéia de que a Itaipu integra a ‘Administração Pública’ do país e de que, por isto, está reduzida à observância de ‘regras gerais de licitação e contratos’, é, pois, absurda, já que provoca o rompimento da paridade de armas entre os países signatários.” (fl. 3386)
+A Procuradoria Geral da República manifestou-se pelo não provimento do recurso. (fls. 3417/3420)
+Passo a decidir.
+Não assiste razão à recorrente.
+Quanto à alegada ofensa aos arts. 5º, LV e 93, IX, da Constituição Federal, é pacífico o entendimento desta Corte no sentido de que a fundamentação sucinta, ainda que ausente exame pormenorizado das alegações das partes, não ofende a Constituição.
+Saliente-se, ainda, que esta Corte reafirmou esse entendimento em recente precedente, que inclusive reconheceu a repercussão geral da matéria:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (grifei)
+(AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Pleno, DJe 13.8.2010 )
+No caso, a fundamentação contrária aos interesses da recorrente e a adequada produção de prova pericial não significam violação aos arts. 5º, LV e 93, IX, da Constituição Federal.
+No que se refere à suposta violação dos arts. 22, XXVII e 37, XXI, da CF, melhor sorte não assiste à recorrente. Tanto o Tribunal Regional Federal da 4ª Região quanto o Superior Tribunal de Justiça entenderam devidas as diferenças remuneratórias calculadas conforme as cláusulas de reajustamento de preços presentes nos contratos originais e as provas periciais realizadas nos autos, de forma a manter o equilíbrio econômico-financeiro do contrato.
+Para concluir de forma diversa, é imprescindível a revisão de cláusulas contratuais e dos fatos e provas analisados, o que não é possível em sede de recurso extraordinário, conforme disposto nas Súmulas 454 e 279 do STF. Em sentido idêntico, confira-se o decidido pela Segunda Turma no AI-AgR 699.491, Rel. Min. Joaquim Barbosa, DJ 7.5.2010.
+Ademais, a pretensão da recorrente de alterar unilateralmente cláusulas contratuais pactuadas com a recorrida não encontra amparo nas normas constitucionais tidas como violadas.
+Evidentemente, o eventual reconhecimento de que a Itaipu Binacional não faz parte da administração pública federal e o pretendido afastamento do disposto no Decreto-Lei 2.300/86, no caso concreto, não permitem que a recorrente manipule discricionariamente os termos pactuados à revelia da outra parte contratante, principalmente quanto ao equilíbrio econômico-financeiro do contrato.
+Logo, não se verifica qualquer violação às normas constitucionais invocadas.
+Ante o exposto, nego seguimento aos recursos extraordinários (arts. 21, §1º RISTF, e 557 do CPC).
+Publique-se.
+Brasília, 19 de janeiro de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
