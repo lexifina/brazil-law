@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1123, de 18 de janeiro de 2011
+Altera a Instrução Normativa SRF Nº 241, de 6 de novembro de 2002, e a Instrução Normativa RFB Nº 1.090, de 30 de novembro de 2010, que dispõem sobre o regime especial de entreposto aduaneiro na importação e na exportação.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF Nº 125, de 4 de março de 2009, e tendo em vista o disposto nos arts. 407 e 418 do Decreto Nº 6.759, de 5 de fevereiro de 2009, resolve:
