@@ -1,0 +1,26 @@
+Decisão: 1. Trata-se de pedido de suspensão de liminar, ajuizado pelo Município de Santo André, contra liminar proferida nos autos do Mandado de Segurança nº 990.10.472313-2, em trâmite no Tribunal de Justiça do Estado de São Paulo.
+Informa o requerente que o Espólio de Maria Sampaio Franco, representado pelo inventariante José Coelho Pamplona Júnior, apresentou pedido de sequestro de verbas públicas (nº 994.06.001231-6), em razão da existência de diferenças quanto aos valores depositados a título de parcelamento realizado nos termos do art. 78 do ADCT, com redação dada pela EC nº 30/2000.
+Após a apresentação de informações pelo Município, o pedido de sequestro foi deferido pelo Presidente do TJSP.
+Ante as inovações trazidas pela EC nº 62/2009, relativas ao regime especial para pagamento de precatórios vencidos e não pagos, o Município de Santo André requereu a suspensão do feito. O pedido foi deferido e culminou na extinção do referido pedido de sequestro. A decisão transitou em julgado.
+Em seguida, o espólio impetrou mandado de segurança, com pedido de liminar, contra a decisão de extinção do pedido de sequestro.
+A liminar pleiteada foi deferida nos seguintes termos:
+“(...) o Plenário afirmou a ineficácia da emenda relativamente aos precatórios anteriores; ressalvada a minha posição declarada, mas presente aquela adotada pelo Plenário, e presente ainda os requisitos específicos, defiro a liminar para a extinção e determino o prosseguimento do pedido de sequestro”.
+Em atendimento à liminar concedida, o Presidente do TJSP determinou a expedição imediata de “carta de ordem” para a constrição da quantia de R$ 26.800.197,22 (vinte e seis milhões, oitocentos mil e cento e noventa e sete reais e vinte e dois centavos).
+Daí o presente pedido de suspensão de segurança. Alega o requerente, em síntese, que a decisão impugnada, ao afastar a aplicação do artigo 97 do ADCT (com redação dada pela EC nº 62/2009), violou gravemente a ordem jurídica, com conseqüências negativas à economia, à saúde e à segurança públicas.
+2. É caso de suspensão.
+De acordo com o regime legal de contracautela (Leis nºs 12.016/09, 8.437/92 e 9.494/97 e art. 297 do RISTF), compete a esta Presidência suspender execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+A cognição do pedido exige, contudo, demonstração da natureza constitucional da controvérsia (cf. Rcl nº 497-AgR, Rel. Min. CARLOS VELLOSO, Plenário, DJ de 06.4.2001; SS nº 2.187-AgR, Rel. Min. MAURÍCIO CORRÊA, DJ de 21.10.2003; e SS nº 2.465, Rel. Min. NELSON JOBIM, DJ de 20.10.2004).
+Está preenchido o requisito, pois em jogo, aqui, suposta violação ao art. 97 do ADCT, com a redação dada pela EC nº 62/2009, e que teria sido afrontado pelo Tribunal de Justiça local. Não há dúvida, portanto, de que a matéria discutida na origem se reveste de índole constitucional.
+A Corte tem entendido, com base nas diretrizes normativas que disciplinam as medidas de contracautela, não ser vedado ao Presidente do Supremo Tribunal Federal proferir juízo mínimo de delibação a respeito das questões jurídicas presentes na ação principal, quando a decisão contra a qual se pede a suspensão seja contrária às normas jurídicas. Nesse sentido: SS nº 846-AgR, Rel. Min. SEPÚLVEDA PERTENCE, de 29.5.96; e SS nº 1.272-AgR, Rel. Min. CARLOS VELLOSO, de 18.5.2001.
+Verifico, na espécie, a ocorrência de grave lesão à ordem e à economia pública.
+Num juízo de razoabilidade, verifico que a constrição imediata do valor de R$ 26.800.197,22 (vinte e seis milhões, oitocentos mil e cento e noventa e sete reais e vinte e dois centavos) dos cofres municipais, pode inviabilizar a prestação de serviços públicos essenciais, com conseqüências danosas para toda coletividade.
+Ademais, tenho que, não obstante a EC nº 62/09 ser objeto de três ações diretas de inconstitucionalidade nesta Corte (todas de relatoria do Ministro AYRES BRITTO: ADI nº 4357, ADI nº 4372 e ADI nº 4400), não há, até o momento, pronunciamentos no sentido da inconstitucionalidade das inovações por ela trazidas, de forma que suas normas são plenamente aplicáveis sobre todos os débitos judiciais constituídos e pendentes de pagamento, inclusive sobre os débitos parcelados na forma dos arts. 33 e 78 do ADCT, até a entrada em vigor da citada Emenda.
+Incide, por consequência, a vedação prevista no art. 97, § 13, do Dispositivo Transitório, com redação dada pela EC nº 62/2009, relativamente à impossibilidade de realização de sequestro de valores pertencentes a entes políticos que estejam realizando pagamentos de precatórios pelo regime especial.
+Há, por fim, a probabilidade de concretização do denominado efeito multiplicador, à vista da possibilidade de aumento de demandas semelhantes (SS nº 1.836-AgR/RJ, Ministro CARLOS VELLOSO, Plenário, DJ de 11.10.2001).
+3. Ante o exposto, defiro o pedido, para suspender a execução da decisão proferida nos autos do Mandado de Segurança nº 990.10.472313-2.
+Exp. com urgência telex e ofício ao Tribunal de Justiça de São Paulo.
+Publique-se. Int..
+Brasília, 20 de janeiro de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
