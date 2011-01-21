@@ -1,0 +1,17 @@
+D ECIS Ã O: Trata-se de agravo de instrumento interposto contra decisão que inadmitiu recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“CONSTITUCIONAL E ADMINISTRATIVO - APELAÇÃO CÍVEL/REEXAME NECESSÁRIO - AÇÃO DE COBRANÇA - SERVIDOR PÚBLICO MUNICIPAL - CONTRATAÇÃO TEMPORÁRIA - FÉRIAS E 13º SALÁRIO - PREVISÃO CONSTITUCIONAL (ARTS. 7º, VIII E XVII, E ART. 39, § 3º, DA CR/88) - DIREITO A PERCEPÇÃO APENAS DAS PARCELAS INADIMPLIDAS - RECONHECIMENTO - ATUALIZAÇÃO MONETÁRIA - OBSERVÂNCIA DA NOVA REDAÇÃO DO ART. 1º-F, DA LEI 9.494/97. Havendo prova de que o Autor prestara serviço junto à Administração Pública Estadual na condição de servidor público, havendo sido admitido mediante contratos administrativos temporários, é de se reconhecer a procedência de sua pretensão ao recebimento das parcelas ainda pendentes de adimplemento, correspondentes às férias, acrescidas do terço constitucional, correspondentes ao período laborado.” (fl. 123)
+No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, o recorrente sustenta a repercussão geral da matéria deduzida no recurso. No mérito alega que houve ofensa aos artigos 37, II e IX, da Constituição Federal.
+O agravante defende, em síntese, que trata-se de contratado temporário sem aprovação em concurso público e sem os mesmos direitos dos servidores públicos. Ademais, sustenta que a relação entre a Administração Pública e o recorrido é contratual, logo este possui apenas os benefícios previstos no contrato.
+Decido.
+Não assiste razão ao agravante.
+Na espécie, o acórdão recorrido está de acordo com a jurisprudência do Supremo Tribunal Federal que firmou o entendimento de que é devida a extensão de direitos previstos no art. 7º da Carta Magna a servidor contratado temporariamente com base em lei regulamentadora do art. 37, IX, da Constituição quando são celebrados sucessivos contratos temporários, neste sentido:
+“CONSTITUCIONAL. LICENÇA-MATERNIDADE. CONTRATO TEMPORÁRIO DE TRABALHO. SUCESSIVAS CONTRATAÇÕES. ESTABILIDADE PROVISÓRIA. ART. 7º, XVIII DA CONSTITUIÇÃO. ART. 10, II, b do ADCT. RECURSO DESPROVIDO. A empregada sob regime de contratação temporária tem direito à licença-maternidade, nos termos do art. 7º, XVIII da Constituição e do art. 10, II, b do ADCT, especialmente quando celebra sucessivos contratos temporários com o mesmo empregador. Recurso a que se nega provimento” (RE 287.905, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 30.6.2006)”.
+“EMENTA: CONSTITUCIONAL. LICENÇA-MATERNIDADE. CONTRATO TEMPORÁRIO DE TRABALHO. SUCESSIVAS CONTRATAÇÕES. ESTABILIDADE PROVISÓRIA. ART. 7º, XVIII DA CONSTITUIÇÃO. ART. 10, II, b do ADCT. RECURSO DESPROVIDO. A empregada sob regime de contratação temporária tem direito à licença-maternidade, nos termos do art. 7º, XVIII da Constituição e do art. 10, II, b do ADCT, especialmente quando celebra sucessivos contratos temporários com o mesmo empregador. Recurso a que se nega provimento.” RE 287.905, Rel. Min. Ellen Gracie, Segunda Turma, Dj 30.6.2006)
+No mesmo sentido, cito, ainda, o seguinte precedente que trata de caso idêntico ao do presente recurso: AI 637.339/MG, Rel. Min. Cármen Lúcia, DJe 17.12.2009.
+Não há, pois, o que prover quanto às alegações do agravante.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 21 de janeiro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
