@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Espírito Santo:
+“APELAÇÃO CRIMINAL. NULIDADE DA SENTENÇA POR CERCEAMENTO AO DIREITO DE DEFESA. RECURSO CONHECIDO E IMPROVIDO.
+A alegação de nulidade em decorrência de cerceamento ao direito de defesa não deve prosperar, pois verifica-se dos autos que o pedido de exame de insanidade mental foi deferido, tendo à época o apelante fugido, sendo após recapturado.
+Apreciação do pedido posteriormente, quando o Magistrado entendeu por bem em indeferir o pedido formulado pela defesa e dar prosseguimento ao feito. Entendimento jurisprudencial de que ao Juiz é facultado o deferimento ou não do pedido de Exame de Sanidade Mental. Ademais, ficou constatado, diante das provas carreadas, que o apelante nem superficialmente lembrava a figura dos inimputáveis.
+Recurso de apelação conhecido e improvido, para manter intacta a r. Sentença de primeiro grau” (fl. 431 – grifos nossos).
+2. O Recorrente alega que a negativa de realização de exame de sanidade mental importaria em contrariedade ao art. 5º, inc. LV, da Constituição da República.
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+4. Este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República, se dependente do exame da legislação infraconstitucional – na espécie vertente, do Código de Processo Penal -, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DESTE SUPREMO TRIBUNAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência deste Supremo Tribunal firmou-se no sentido de que "Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada". Precedentes. 2. O Supremo Tribunal Federal firmou jurisprudência no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República. Precedentes. 3. Agravo regimental desprovido” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2008 – grifos nossos).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CRIMINAL. HOMICÍDIO. NULIDADE DO JULGAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. 3. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de violação meramente reflexa do texto da Constituição. Agravo regimental a que se nega provimento” (AI 757.450-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 4.12.2009 – grifos nossos).
+5. Nada há a prover quanto às alegações do Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 38 da Lei 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 1º de fevereiro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
