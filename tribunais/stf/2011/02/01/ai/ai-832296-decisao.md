@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“AGRAVO REGIMENTAL. RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. OFENSA ÀS SÚMULAS 5, 7 E 211/STJ. INEXISTÊNCIA. SERVIDOR PÚBLICO. LICENÇA CAPACITAÇÃO COM VENCIMENTOS. DOUTORADO. RETORNO ÀS ATIVIDADES. DECRETO 94.664/87. REVOGAÇÃO PARCIAL PELA LEI 8.112/90. ARTIGO 2º DA LICC. APOSENTADORIA VOLUNTÁRIA ANTES DO TÉRMINO DO PRAZO ESTIPULADO PARA RETRIBUIÇÃO DOS SERVIÇOS, EM FUNÇÃO DO AFASTAMENTO REMUNERADO. NECESSIDADE DE RESSARCIR O ERÁRIO” (fl. 191).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, II, XXXV, LIV e LV, da mesma Carta.
+O agravo não merece acolhida. É que o Superior Tribunal de Justiça decidiu a causa nos seguintes termos:
+“No caso em apreço, a norma prevista no artigo 47 do Decreto n.º 94.664/87 encontra sua revogação tácita e material apenas com a edição da Medida Provisória n.º 441/2008, posteriormente substituída pela Lei n.º 11.907/2009. Nesse contexto, à época dos acontecimentos, estavam em vigor as disposições do referido Decreto, uma vez que o § 2º do artigo 95 da Lei n.º 8.112/90, em sua redação original, disciplinava tão somente as autorizações de estudo de doutoramento no exterior, enquanto que o mencionado Decreto previa as autorizações de doutoramento no exterior e no país, esta última hipótese dos autos” (fl. 187).
+Assim, é patente que para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais aplicáveis à espécie. Incabível, portanto, o recurso extraordinário.
+Ressalte-se ainda que a alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, este Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva o reexame de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 1º de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
