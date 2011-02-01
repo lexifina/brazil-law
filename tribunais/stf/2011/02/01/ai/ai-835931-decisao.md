@@ -1,0 +1,9 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+“APELAÇÃO. REPOSICIONAMENTO DOS SERVIDORES DO DER/MG. DECRETO N.º 44.222/06. AUSÊNCIA DE ILEGALIDADE. MANUTENÇÃO DA POSIÇÃO RELATIVA NA CARREIRA. O   Decreto n.º 44.222/06 não ultrapassa os limites da legislação estadual, uma vez que observa, para fins de reposicionamento, os critérios previstos no artigo 11 da Lei n.º 15.961/05. O servidor público não tem direito adquirido a regime jurídico e, por isso, não pode pleitear a manutenção da posição relativa na carreira após as alterações promovidas por ato de reposicionamento. Inexiste ilegalidade no ato que posiciona corretamente o servidor público, de acordo com os ditames da lei e respeitando o princípio da irredutibilidade de vencimentos. Recurso conhecido, preliminar e prejudicial rejeitadas, recurso desprovido” (fl. 11).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVI, e 37, XV, da mesma Carta.
+O agravo não merece acolhida. Isso porque, o acórdão recorrido encontra-se em harmonia com a jurisprudência da Corte, no sentido de que não há direito adquirido do servidor público estatutário a regime jurídico pertinente à composição dos vencimentos, desde que a eventual modificação introduzida por ato legislativo superveniente preserve o montante global da remuneração e, em consequência, não provoque decesso de caráter pecuniário. Nesse sentido: AI 525.467/SP, Rel. Min. Cezar Peluso; RE 238.122-AgR/SC, Rel. Min. Celso de Mello; RE 393.314-AgR/CE, Rel. Min. Eros Grau; RE 403.922-AgR/RS, Rel. Min. Ellen Gracie; RE 219.075/SP, Rel. Min. Ilmar Galvão e RE 160.361-AgR-AgR/SC, Rel. Min. Joaquim Barbosa, cuja ementa segue transcrita:
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 1º de fevereiro de 2011
+Ministro RICARDO LEWANDOWSKI
+- Relator -
