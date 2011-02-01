@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DEFERIMENTO DE MEDIDA LIMINAR EM AÇÃO POPULAR: SÚMULA N. 735 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“AGRAVO DE INSTRUMENTO - AÇÃO CIVIL PÚBLICA - PRÁTICA DE ATO ILEGAL, IMORAL E DESARRAZOADO IMPUTADO A VEREADOR - SORTEIO PARA PREENCHIMENTO DE CARGOS COMISSIONADOS - AUSÊNCIA DE PROVA INEQUÍVOCA DA VEROSSIMILHANÇA DA ALEGAÇÃO DE OCORRÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA LEGALIDADE, MORALIDADE, RAZOABILIDADE, EFICIÊNCIA E AO INTERESSE PÚBLICO - DECISÃO LIMINAR PROIBITIVA DO SORTEIO REFORMADA EM PARTE” (fl. 235).
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência na espécie da Súmula n. 735 do Supremo Tribunal Federal (fls. 334-336).
+3. O Agravante alega que o Tribunal a quo teria contrariado o art. 37, caput e inc. I, II, III e IX, e §§ 2º e 4º, da Constituição da República.
+Sustenta que “não se trata de mera medida liminar, mas sim da antecipação dos efeitos da tutela inicial pretendida, da tutela jurisdicional buscada com o aforamento da correspondente ação civil pública. Portanto, não se aplica no presente caso a vedação contida na mencionada súmula[, n. 735, do Supremo Tribunal Federal]” (fl. 13).
+Analisados os elementos havidos nos autos, DECIDO.
+4. Razão jurídica não assiste ao Agravante.
+5. As medidas antecipatórias e cautelares, por não representarem pronunciamento definitivo, mas provisório, a respeito da controvérsia, devem ser confirmadas (ou, se for o caso, revogadas) pela sentença que julgar o mérito da causa, podendo, ademais, ser modificadas ou revogadas a qualquer tempo, até mesmo pelo órgão que as deferiu.
+Assim, a natureza precária e provisória do juízo desenvolvido em liminar ou tutela antecipada não viabiliza o recurso extraordinário, pois somente com a sentença é que se terá o pronunciamento definitivo, na instância específica, sobre as questões jurídicas enfrentadas na apreciação das liminares. Incide na espécie vertente a Súmula n. 735 do Supremo Tribunal Federal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO QUE MANTEVE DEFERIMENTO DE MEDIDA LIMINAR EM AÇÃO CIVIL PÚBLICA. SÚMULA 735 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (RE 559.691-AgR, de minha relatoria, Primeira Turma, DJe 7.8.2009).
+E:
+“RECURSO. Extraordinário. Inadmissibilidade. Acórdão recorrido que deu provimento a agravo de instrumento para indeferir liminar, reformando decisão que deferira liminar na ação cautelar originária para autorizar a parte agravante 'a participar com seus animais, de todos os eventos da raça Mangalarga Marchador'. Aplicação da súmula 735. Agravo improvido. Não cabe recurso extraordinário contra decisão que defere ou indefere medida cautelar. 3. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte” (AI 552.178-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 28.11.2008).
+E ainda:
+"RECURSO EXTRAORDINÁRIO - ACÓRDÃO QUE CONFIRMA INDEFERIMENTO DE LIMINAR MANDAMENTAL - ATO DECISÓRIO QUE NÃO SE REVESTE DE DEFINITIVIDADE - MERA ANÁLISE DOS PRESSUPOSTOS DO 'FUMUS BONI JURIS' E DO 'PERICULUM IN MORA' - AUSÊNCIA DE QUALQUER PRONUNCIAMENTO SOBRE OS FUNDAMENTOS CONSTITUCIONAIS DA IMPETRAÇÃO FUNDAMENTAL - INVIABILIDADE DO RECURSO EXTRAORDINÁRIO INTERPOSTO PELA EMPRESA CONTRIBUINTE - ACOLHIMENTO DA POSTULAÇÃO RECURSAL DEDUZIDA PELO MUNICÍPIO - AGRAVO PROVIDO. - Não cabe recurso extraordinário contra decisões que concedem ou que denegam medidas cautelares ou provimentos liminares, pelo fato de que tais atos decisórios - precisamente porque fundados em mera verificação não conclusiva da ocorrência do 'periculum in mora' e da relevância jurídica da pretensão deduzida pela parte interessada - não veiculam qualquer juízo definitivo de constitucionalidade, deixando de ajustar-se, em conseqüência, às hipóteses consubstanciadas no art. 102, III, da Constituição da República. Precedentes" (AI 439.613-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 17.10.2003).
+Nada há, pois, a prover quanto às alegações do Agravante.
+6. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 1º de fevereiro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
