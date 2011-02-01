@@ -1,0 +1,12 @@
+DECISÃO: Reconsidero a decisão de fls. 102, restando prejudicado, em conseqüência, o exame do recurso interposto a fls. 112/114.
+Passo, desse modo, a apreciar o presente agravo de instrumento.
+O Supremo Tribunal Federal, a propósito do tema ora em exame, firmou entendimento, consubstanciado em sucessivas decisões, monocráticas e colegiadas, no sentido de que se revela constitucional a limitação do salário-de-benefício prevista no art. 29, § 2º, c/c o art. 33 da Lei nº 8.213/91 (AI 206.807-AgR/RS, Rel. Min. SYDNEY SANCHES – AI 466.912-AgR/SP, Rel. Min. GILMAR MENDES - AI 479.518- -AgR/SP, Rel. Min. SEPÚLVEDA PERTENCE – RE 285.942/SP, Rel. Min. SYDNEY SANCHES – RE 286.430/SP, Rel. Min. NELSON JOBIM, v.g.):
+“EMBARGOS DE DECLARAÇÃO. PREVIDENCIÁRIO. SALÁRIOS-DE--BENEFÍCIO. TETO (ARTS. 29 E 33 DA LEI 8.213/91 E 202 DA CF).
+- A norma inscrita no art. 202, caput, da CF (redação anterior à EC nº 20), que assegura o benefício da aposentadoria com base na média dos trinta e seis últimos salários de contribuição, corrigidos monetariamente, mês a mês, não é autoaplicável, necessitando, para sua complementação, de integração legislativa, a fim de que lhe seja dada plena eficácia. Constitui, portanto, disposição dirigida ao legislador ordinário, a quem cabe definir os critérios necessários ao seu cumprimento - o que foi levado a efeito pelas Leis 8.212 e 8.213, ambas de 1991. Tem-se, portanto, que o benefício deve ser calculado de acordo com a legislação previdenciária editada.”
+(AI 279.377-AgR-ED/RJ, Rel. Min. ELLEN GRACIE - grifei)
+Cumpre ressaltar, de outro lado, no tocante à alegada violação ao preceito inscrito no art. 202 da Constituição, que a suposta ofensa ao texto constitucional, acaso existente, apresentar--se-ia por via reflexa, eis que a sua constatação reclamaria - para que se configurasse - a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES - RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+Sendo assim, pelas razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela incabível o recurso extraordinário a que ele se refere.
+Publique-se.
+Brasília, 1º de fevereiro de 2011.
+Ministro CELSO DE MELLO
+Relator
