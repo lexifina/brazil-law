@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça de Minas Gerais que não conheceu de apelação. Transcrevo a ementa:
+“PROCESSUAL CIVIL - RAZÕES RECURSAIS SEM FUNDAMENTAÇÃO - MERA CÓPIA (REPETIÇÃO) DA IMPUGNAÇÃO - FUNDAMENTOS DE FATO E DE DIREITO NÃO DEMONSTRADOS - AUSÊNCIA DE REQUISITO EXTRÍNSECO DE ADMISSIBILIDADE - OFENSA AO ARTIGO 514, II, DO CÓDIGO DE PROCESSO CIVIL - RECURSO NÃO CONHECIDO, DE OFÍCIO. Têm-se como requisitos da apelação, entre outros, os fundamentos de fato e de direito que censuram os vícios da sentença, possibilitando ao Juízo ad quem, através de nova decisão, o exame da procedência desse inconformismo. Não havendo qualquer crítica à sentença, face à cópia (repetição) da impugnação à contestação, isto é, inexistentes os motivos ensejadores de uma decisão diversa daquela proferida no Juízo a quo, ressai desatendido o disposto no inciso II do art. 514, do Código de Processo Civil, o que é óbice ao conhecimento do recurso.”
+No recurso extraordinário, alega-se violação do disposto no art. 37, II, e 93, IX, da Constituição.
+Inexiste a alegada afronta ao art. 93, IX, da Constituição federal, pois o acórdão recorrido está devidamente fundamentado, ainda que com sua fundamentação não concorde o ora agravante.
+Ademais, o Supremo Tribunal Federal tem entendimento pacífico no sentido de que questões relativas à admissibilidade recursal constituem matéria infraconstitucional, de competência exclusiva do Tribunal a quo. Assim, qualquer alegação de ofensa ao texto constitucional se daria de forma indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário.
+Por fim, descabida é a fundamentação do apelo extremo com base no art. 37, II, uma vez que o Tribunal de origem se limitou a analisar os requisitos de admissibilidade da apelação, não tendo chegado a tratar do mérito da questão debatida nos autos. Ressalto, ainda, que o pedido do recurso é pela cassação do acórdão recorrido, matéria estranha a este dispositivo constitucional. Impõe-se portanto, no ponto, aplicação da Súmula 284 desta Corte.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 1º de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
