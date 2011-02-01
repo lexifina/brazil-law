@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho que concluiu que o termo inicial da prescrição do direito às diferenças da multa de 40% do FGTS decorrentes dos expurgos inflacionários era a vigência da Lei Complementar 110/2001 e que não existe base legal para a isenção de juros de mora sobre os débitos trabalhistas de entidades financeira em liquidação extrajudicial sucedida por outra economicamente estável.
+Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, II, XXXV, XXXVI, LIV e LV, e 7º, XXIX, da Constituição federal e no art. 46 do ADCT. Sustenta-se que houve negativa de prestação jurisdicional, que a sucessão trabalhista não afasta a aplicação da Súmula 304/TST e que está prescrito o direito às diferenças da multa fundiária.
+É o relatório. Decido.
+A invocação de ofensa ao art. 46 do ADCT é impertinente para o deslinde da causa, em relação ao tema “incidência da súmula 304/TST – juros de mora”, visto que o mencionado dispositivo somente trata de correção monetária. Ademais, a causa foi resolvida à luz da legislação infraconstitucional (arts. 10 e 448 da CLT e art. 18, d, da Lei 6.024/1974). O recurso extraordinário, portanto, é incabível.
+Em relação à prescrição das diferenças da multa fundiária decorrentes dos expurgos, esta Corte ao apreciar o RE 584.608-RG (rel. min. Ellen Gracie, DJe de 13.03.2009) não reconheceu a repercussão geral do tema, conforme se depreende da ementa:
+“Rescisão do contrato de trabalho. Diferença decorrente da incidência dos expurgos inflacionários reconhecidos pela LC 110/2001 na multa de 40% sobre os depósitos do FGTS. Responsabilidade do empregador. Prescrição. Matéria infraconstitucional. Precedentes. Inexistência de repercussão geral em face da impossibilidade de exame de alegação de ofensa indireta à Constituição Federal em recurso extraordinário.”
+Por fim, não procede a alegação de afronta ao art. 5º, XXXV, LIV e LV, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 1º de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
