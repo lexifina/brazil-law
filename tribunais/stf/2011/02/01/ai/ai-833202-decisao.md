@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+“AÇÃO DECLARATÓRIA C/C REPARAÇÃO DE DANOS. NULIDADE DA CITAÇÃO. TEORIA DA APARÊNCIA. AUSÊNCIA DE OFENSA AOS PRINCÍPIOS CONSTITUCIONAIS DA AMPLA DEFESA E DO CONTRADITÓRIO. LITIGÂNCIA DE MÁ FÉ. Não constando nenhuma informação de que o endereço da empresa foi alterado e erificando que a citação da pessoa jurídica, em seu endereço, foi recebida por pessoa encarregada da recepção, a citação é considerada válida nos termos do artigo 18, II da Lei 9.099/95, aplicando-se de forma cristalina a teoria da aparência. Matéria prescindindo de outras provas além das constantes dos autos, correto julgamento da lide. Revelando-se de forma cristalina o nítido contorno procrastinatório, necessário torna-se a aplicação de multa de 1% do valor da ação pela litigância de má fé, bem como condenação ao pagamento de custas e honorários advocatícios, estes arbitrados em R$ 1.000,00 (Mil reais). Recurso conhecido e improvido, nos termos da ementa proferida pela Redatora” (fl. 196).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 5º, LV, da mesma Carta.
+O agravo não merece acolhida. Com efeito, a jurisprudência desta Corte é assente no sentido de que a afronta aos princípios constitucionais da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa.
+Por oportuno, transcrevo a ementa do AI 649.191-AgR/DF, Rel. Min. Cármen Lúcia:
+“ PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL: OFENSA INDIRETA À CONSTITUIÇÃO. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO. Apesar dos argumentos do Agravante, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, entre outros, configuram ofensa reflexa à Constituição da República. Agravo Regimental ao qual se nega provimento”
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 1º de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
