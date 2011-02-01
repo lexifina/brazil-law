@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO PREDIAL E TERRITORIAL URBANO – IPTU. JULGADO RECORRIDO FUNDAMENTADO EM LEI LOCAL: INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido teve como objeto o seguinte julgado do Tribunal de Justiça do Paraná:
+“APELAÇÃO CÍVEL E REEXAME NECESSÁRIO TRIBUTÁRIO - EMBARGOS À EXECUÇÃO FISCAL - IMPOSTO PREDIAL E TERRITORIAL URBANO - IPTU - MUNICÍPIO DE CURITIBA - PROGRESSIVIDADE DE ALÍQUOTA - EXERCÍCIOS DE 1993, 1994 E 1995 - IMPOSSIBILIDADE - SÚMULA N.º 668 DO STF - ANTES DA EMENDA CONSTITUCIONAL N.º 29/2000 - APLICAÇÃO DA ALÍQUOTA DA LEI ANTERIOR - PRECEDENTE DO STF - COBRANÇA DA TAXA DE COLETA DE LIXO - LEGALIDADE - TAXAS DE CONSERVAÇÃO E LIMPEZA PÚBLICA - INVIABILIDADE - RECURSO DE APELAÇÃO PROVIDO, EM PARTE - RECURSO ADESIVO JULGADO PREJUDICADO. - A Lei Complementar Municipal n.º 2.909/66, não prevê alíquotas progressivas, mas sim seletivas, ou seja, de 1% para imóveis edificados e 2% para imóveis não edificados. - O reconhecimento do vício da progressividade no critério de determinação das alíquotas do IPTU e a indicação de outra alíquota substitutiva, ainda que decorrente de lei anterior, não implica nulidade do lançamento (art. 142 do CTN), importando, apenas, em correção do respectivo valor. - Presentes os requisitos de especificidade e divisibilidade, é cabível a exação da taxa de coleta de lixo. - A cobrança das taxas de limpeza e conservação de via pública, relativamente aos anos de 1993, 1994 e 1995, demonstra-se ilegal e não é exigível. - Tem-se por prejudicado o recurso adesivo se no recurso de apelação os temas abordados naquele já foram apreciados e decididos” (fls. 237-238).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas 282 e 284 do Supremo Tribunal Federal (fls. 370-377).
+4. A Agravante afirma que o Tribunal a quo teria contrariado os arts. 2º, e 156, inc. I, da Constituição da República.
+Assevera que “para que fosse possível a aplicação da lei anterior, ou seja, da Lei 2.909/1966 (de mais de 40 anos atrás e já revogada), as legislações que seguem obrigatoriamente deveriam ser objetos dos autos e declaradas inconstitucionais com efeito ex tunc” (fl. 323).
+Apreciada a matéria contida no recurso, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. O Tribunal de origem assentou:
+“E considerando-se que a declaração de inconstitucionalidade gera efeitos "ex tunc", para a aplicação da alíquota de IPTU, neste caso, deve ser observada a legislação anterior à Lei Complementar Municipal n. 6.202/80.
+(...)
+Nessas condições, a alíquota a ser aplicada ao IPTU nos exercícios de 1993, 1994 e 1995 deve ser de 1% (um por cento) sobre o valor venal do imóvel construído e 2% (dois por cento) sobre o valor venal do imóvel não construído, conforme o artigo 12, incisos I e II da Lei Complementar Municipal n.º 2.909/66, desde que não seja superior ao valor lançado pelo Município neste caso.
+Insta salientar que a Lei Complementar Municipal n.º 2.909/66, não aplica alíquotas progressivas, mas sim seletivas, ou seja, de 1% para imóveis edificados e 2% para imóveis não edificados. Nesse sentido leciona Hugo de Brito Machado (A progressividade do IPTU e a EC 29. Revista Dialética de Direito Tributário, v. 81. São Paulo, jun. 2002 - p. 56-61).
+Desta forma, não se confunde o imposto progressivo extrafiscal com a alíquota seletiva” (fls. 242-244).
+Conforme se verifica, a decisão do Tribunal a quo está em harmonia com a jurisprudência do Supremo Tribunal Federal quanto à inconstitucionalidade da legislação que instituiu alíquota progressiva para o IPTU antes do advento da Emenda Constitucional n. 29/2000.
+7. Sobre a discussão relativa à legislação aplicável, afastada a norma inconstitucional, esta não pode dar margem ao cabimento de recurso extraordinário, pois, para modificar o entendimento das instâncias originárias, seria necessário o reexame de legislação local (Lei Complementar municipal n. 2.909/66) analisada no acórdão recorrido. Nesse caso, a afronta à Constituição, se tivesse ocorrido, seria indireta. Incide na espécie a Súmula 280 deste Supremo Tribunal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO PREDIAL E TERRITORIAL URBANO - IPTU. LEI MUNICIPAL N. 1.206/1991. INCONSTITUCIONALIDADE DA PROGRESSIVIDADE ANTES DA EMENDA CONSTITUCIONAL N. 29/2000 (SÚMULA 668 DO SUPREMO TRIBUNAL FEDERAL). ALEGAÇÃO DE ALÍQUOTA SELETIVA: IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 772.955-AgR, de minha relatoria, Primeira Turma, DJe 7.5.2010).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO PREDIAL E TERRITORIAL URBANO - IPTU. LEI MUNICIPAL N. 1.206/1991. INCONSTITUCIONALIDADE DA PROGRESSIVIDADE ANTES DA EMENDA CONSTITUCIONAL N. 29/2000 (SÚMULA 668 DO SUPREMO TRIBUNAL FEDERAL). ALEGAÇÃO DE ALÍQUOTA SELETIVA: IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 758.776-AgR, de minha relatoria, Primeira Turma, DJe 23.10.2009).
+Não há, pois, o que prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 1º de fevereiro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
