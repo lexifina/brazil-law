@@ -1,0 +1,19 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. JUÍZO COMPETENTE. VEICULAÇÃO IRREGULAR DE PUBLICIDADE INSTITUCIONAL. Compete ao juízo de primeiro grau processar e julgar as ações de improbidade contra ato de Prefeito Municipal, não sendo lícito ao legislador instituir foro por prerrogativa de função, que é matéria submetida à reserva constitucional. A veiculação de publicidade institucional nos três meses que antecedem o pleito eleitoral caracteriza ato de improbidade administrativa, sujeitando o agente político às sanções previstas na Lei nº 8.429/92. Recurso conhecido e parcialmente provido” (fl. 447).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, LIII e LIV, 29, X, 85, V, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. A questão do foro privilegiado para prefeitos em processo de improbidade administrativa foi objeto de discussão, por esta corte, na ADI 2.797/DF, Rel. Min. Sepúlveda Pertence.
+Naquela ocasião, o Tribunal, por maioria, julgou procedente a ação para declarar inconstitucional a Lei 10.628/02, que inseriu novos parágrafos ao art. 84 do Código de Processo Penal e, assim, decidiu não haver foro privilegiado para prefeito processado por improbidade administrativa.
+Eis o teor da legislação impugnada e declarada inconstitucional:
+"Art. 84. A competência pela prerrogativa de função é do Supremo Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais e Tribunais de Justiça dos Estados e do Distrito Federal, relativamente às pessoas que devam responder
+perante eles por crimes comuns e de responsabilidade.
+§ 1º A competência especial por prerrogativa de função, relativa a atos administrativos do agente, prevalece ainda que o inquérito ou a ação judicial sejam iniciados após a cessação do exercício da função pública.
+§ 2º A ação de improbidade, de que trata a Lei no 8.429, de 2 de junho de 1992, será proposta perante o tribunal competente para processar e julgar criminalmente o funcionário ou autoridade na hipótese de prerrogativa de foro em razão do exercício de
+função pública, observado o disposto no § 1º".
+Constata-se que, justamente, o que se declarou inconstitucional foi a prerrogativa de função nos caso de atos administrativos passiveis de sofrerem ação civil pública ou de improbidade administrativa, que é justamente o caso em comento.
+Ademais, no que se refere à necessidade de aplicação dos entendimentos firmados na Rcl 2.138/DF ao caso, observo que tais julgados foram firmados em processos de natureza subjetiva e, como se sabe, vincula apenas as partes litigantes e o próprio órgão a que se dirige o concernente comando judicial. Nesse sentido, Rcl 9.730/PE, Rel. Min. Dias Toffoli; Rcl 4.400-AgR/MG; Rcl 5.703/SP-AgR, Rel. Min. Cármen Lúcia. Transcrevo, para ilustrar, a ementa deste último acórdão:
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. EX-PREFEITO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE. ALEGADO DESCUMPRIMENTO À DECISÃO PROFERIDA NA RECLAMAÇÃO 2.138. AUSÊNCIA DE ARGUMENTOS NOVOS. RECLAMAÇÃO UTILIZADA COMO SUCEDÂNEO RECURSAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O instituto da Reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo a quo. 2. Inaplicabilidade da teoria da transcendência dos motivos determinantes. 3. A decisão proferida pelo Plenário do Supremo Tribunal Federal na Reclamação 2.138/DF tem efeitos apenas inter partes, não beneficiando, assim, o ora Agravante. 4. Agravo regimental ao qual se nega provimento”
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 1º de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
