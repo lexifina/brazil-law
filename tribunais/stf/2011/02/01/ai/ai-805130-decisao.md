@@ -1,0 +1,11 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 91):
+“Ação ordinária - Servidor Público Municipal - Eletricista - Contagem de tempo de serviço prestado em atividade perigosa, para fins de aposentadoria, considerando-se o período laborado em caráter especial no regime da CLT, antes da implantação do regime jurídico único dos servidores municipais - Cabimento - O cômputo do tempo de serviço e os seus efeitos jurídicos regem-se pela lei vigente quando da sua prestação - Observância ao direito adquirido - Precedentes do STF - Todavia, a indenização postulada na inicial é incabível, tendo em vista que o pedido de aposentadoria somente foi efetuado após a propositura da ação - Ação julgada parcialmente procedente - Sentença mantida - Recursos improvidos.”
+2. Pois bem, a parte recorrente sustenta ofensa ao caput do art. 37 e ao § 4º do art. 40 da Carta Magna de 1988.
+3. Tenho que a insurgência não merece acolhida. Isso porque o aresto impugnado afina com a jurisprudência desta nossa Corte, que, ao julgar o RE 209.899, da relatoria do ministro Maurício Corrêa, concluiu que o direito à contagem do tempo de serviço público prestado por servidor celetista, antes da passagem para o regime estatutário, incorpora-se ao seu patrimônio jurídico, para todos os efeitos. Desse modo, comprovado o exercício de atividade considerada insalubre, perigosa ou penosa, pela legislação à época aplicável, possui o servidor direito à contagem especial do respectivo período.
+4. Confiram-se, a propósito, os seguintes precedentes: AI 681.408, da relatoria da ministra Cármen Lúcia; bem como REs 255.827, da relaria do ministro Eros Grau; 258.327, da relatoria da ministra Ellen Gracie; 552.173, da relatoria do ministro Cezar Peluso; 555.084, da relatoria do ministro Sepúlveda Pertence; e 590.565, da relatoria da ministra Cármen Lúcia.
+Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 1º de fevereiro de 2011.
+Ministro AYRES BRITTO
+Relator
