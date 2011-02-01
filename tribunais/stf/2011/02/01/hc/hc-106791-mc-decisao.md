@@ -1,0 +1,20 @@
+D ECIS Ã O: Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ANTÔNIO ROBERTO RODRIGUES GÓES DA SILVA, prefeito de Macapá, contra decisão do ministro relator do Inq. 681/AP, do Superior Tribunal de Justiça, que decretou a prisão preventiva do ora paciente.
+Consta da inicial que o aludido inquérito se originou da denominada “Operação Mãos Limpas”, conduzida pela Polícia Federal com a finalidade de investigar a suposta prática de crimes na administração estadual do Amapá.
+O presente habeas corpus foi impetrado durante o período de férias, razão pela qual foi submetido à apreciação do Presidente desta Corte (art. 13, inc. VIII, do RISTF) que, por sua vez, não vislumbrou no caso situação de urgência, haja vista o anterior indeferimento da liminar pleiteada no HC 106.751, cujo objeto é idêntico ao da pretensão ora analisada.
+A impetrante alega nulidade da decisão que decretou a custódia cautelar do paciente. Para tanto, sustenta que tal decisão teria sido proferida por autoridade incompetente, mediante ofensa ao princípio da colegialidade e sem a devida observância ao procedimento previsto no Decreto-Lei nº 201/67.
+Além disso, sustenta que a prisão cautelar do paciente carece de fundamentação idônea, uma vez que seria lastreada em falsas imputações de crimes ao paciente.
+Ao final, a impetrante requer seja decretada a nulidade da prisão preventiva e seja imediatamente restituída a liberdade ao paciente
+É o relatório.
+Decido.
+No tocante ao pleito relativo à falta de fundamentação da custódia cautelar do paciente, observo que tal causa de pedir também é objeto do HC 106.761, no qual o Presidente desta Corte já proferiu decisão indeferindo a liminar pretendida (conforme previsto no art. 13, inc. VIII, do RISTF).
+Desse modo, considerando-se a duplicidade de postulações assemelhadas, a pretendida prestação jurisdicional será devidamente realizada por esta Corte quando do julgamento do HC 106.751, também da minha relatoria, não havendo, portanto, qualquer razão para dar seguimento à impetração neste ponto.
+Em relação às alegadas nulidades decorrentes da incompetência da autoridade que decretou a prisão do paciente e da ofensa ao princípio da colegialidade, consta dos autos a informação de que dentre os investigados no INQ 681 estão alguns detentores de foro por prerrogativa de função perante o Superior Tribunal de Justiça, como governador de Estado e conselheiros de Tribunal de Contas Estadual, razão esta suficiente para atrair a competência para processar e julgar o aludido inquérito para a Corte Superior, em decorrência das regras relativas à conexão.
+No tocante à alegada inobservância do procedimento previsto no Decreto-Lei nº 201/67, é certo que tal alegação somente poderá ser constatada mediante a realização de aprofundado exame do acervo fático-probatório dos autos de origem, o que é inviável no âmbito restrito do habeas corpus.
+Por fim, ao compulsar os autos, verifiquei que não consta qualquer informação ou documento que evidencie que as alegadas nulidades foram oportunamente argüidas pela parte interessada no feito de origem e infundadamente rejeitadas pela autoridade apontada como coatora. Desse modo, a indispensável caracterização do ato coator é insubsistente e, por conseguinte, falta à impetrante o imprescindível interesse de agir.
+Em casos como o presente, em regra, a jurisprudência consolidada por esta Corte exige que, para caracterizar o interesse de agir na via do habeas corpus, a pretensão posta no writ seja previamente levada à apreciação do relator do feito cuja regularidade é questionada, dando-lhe a oportunidade de conhecer, sanar ou ao menos se manifestar sobre a pretensão deduzida, sem necessidade de que o colegiado do Supremo Tribunal Federal seja mobilizado para apreciar postulações que poderiam simplesmente ser resolvidas no feito originário.
+De todo o exposto, nego seguimento ao pedido, com arrimo no art. 38 da Lei 8.038/1990 e no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+Publique-se.
+Brasília, 1º de fevereiro de 2011.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
