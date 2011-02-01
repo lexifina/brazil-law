@@ -1,0 +1,17 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+“AGRAVO DE INSTRUMENTO. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. JULGAMENTO EXTRA PETITA. PARTICIPAÇÃO NOS LUCROS E RESULTADOS. DESPROVIMENTO. A v. decisão que denega seguimento a agravo de instrumento apenas pode ser reformada quando a parte consegue desconstituir seus fundamentos, o que não ocorre no presente caso. Agravo de instrumento desprovido” (fl. 106).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 7º, XI, da mesma Carta.
+O agravo não merece acolhida. Observo que o tribunal de origem decidiu a questão nos seguintes termos:
+“De acordo com o eg. Tribunal Regional, os acordos coletivos celebrados davam direito à percepção da chamada PLR, na porcentagem de 10% sobre o valor dos dividendos distribuídos, nos exercícios de 1997, 1998, 1999. Ainda, conforme o v. acórdão regional, o montante distribuído aos acionistas em junho de 2001, refere-se à reserva de lucros, autorizada pelo artigo 196, da Lei nº 6.404/76, com destinação própria, impossível sua integração para o cálculo da chamada PLR.
+A conversão desses valores em dividendos só se deu em junho de 2001, conforme o eg. Tribunal Regional, o que enseja efeitos para fins de cálculo da PLR, no próprio exercício social em que se deu a referida conversão, quando não mais vigia o acordo de participação nos lucros e resultados.
+O eg. Tribunal Regional ainda observa às fls. 205 que no TRCT consta o recebimento de pagamento do PLR referente ao exercício de 2001” (fl. 108).
+Verifica-se, portanto, que a apreciação dos temas constitucionais, no caso, depende do prévio exame de norma infraconstitucional, bem como, da interpretação de cláusula integrante de acordo coletivo de trabalho, o que atrai a incidência da Súmula 454 do STF. Nesse sentido, trago à colação recente julgado, cuja matéria é análoga ao presente caso, qual seja, AI 808.432/SE, Rel. Min. Cármen Lúcia, cujo trecho por oportuno, trago à colação:
+“O Tribunal de origem decidiu a controvérsia com base na legislação infraconstitucional, em acordo coletivo de trabalho e em sua jurisprudência. Para se concluir de forma diversa, seria necessário o reexame de todos esses elementos fundamentadores da decisão. Nesse caso, eventual ofensa constitucional, se tivesse ocorrido, seria indireta, o que não viabiliza o cabimento de recurso extraordinário. Incide na espécie a Súmula 454 do Supremo Tribunal Federal”
+Menciono, ainda, recente julgado da Segunda Turma desta Corte, qual seja o AI 727.809-AgR/RN, Rel. Min. Joaquim Barbosa, cuja ementa segue transcrita:
+“AGRAVO REGIMENTAL. MATÉRIA INFRACONSTITUCIONAL. INTERPRETAÇÃO DE CLÁUSULA DE ACORDO COLETIVO. SÚMULA 454. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. É inviável recurso extraordinário para a interpretação de cláusula de acordo coletivo de trabalho. Agravo regimental a que se nega provimento ”.
+No mesmo sentido, cito entre outras, as seguintes decisões: AI 679.419-AgR/RJ, Rel. Min. Cármen Lúcia; AI 585.461-AgR/SE e AI 632.966-AgR/SE, Rel. Min. Joaquim Barbosa; AI 410.136-AgR/SE, Rel. Min. Gilmar Mendes; AI 593.809-AgR/DF, Rel. Min. Sepúlveda Pertence; AI 660.869-AgR/SE, de minha relatoria.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 1º de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
