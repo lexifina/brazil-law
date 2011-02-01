@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que reformou parcialmente sentença de primeiro grau, apenas para excluir da condenação do recorrente os valores referentes à indenização por dano moral arbitrada a seu desfavor.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXVI e LIV, da mesma Carta.
+O agravo não merece acolhida. Bem examinados os autos, verifico que o recorrente não atacou o fundamento da decisão agravada que serviu de base para inadmitir o recurso extremo, qual seja, a ausência de demonstração da repercussão geral das questões constitucionais discutidas no caso. O agravante, por sua vez, limita-se a reproduzir os argumentos ventilados no recurso extraordinário.
+Inescusável, portanto, a deficiência na elaboração da peça recursal, o que traz a incidência da Súmula 287 do Supremo Tribunal Federal. Confiram-se, a propósito, os seguintes julgados de ambas as Turmas do Supremo Tribunal:
+“PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO. SÚMULA 287 DO STF. NORMAS INFRACONSTITUCIONAIS LOCAIS. SÚMULA 280 DO STF. INCIDÊNCIA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - A agravante não atacou todos os fundamentos da decisão que inadmitiu o recurso extraordinário. Inviável, portanto, o presente recurso, a teor da Súmula 287 do STF. (...) IV – Agravo regimental improvido” (AI 598.574-AgR, de minha relatoria, Primeira Turma).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. COMPLEMENTAÇÃO DE APOSENTADORIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 287/STF. INDICAÇÃO DOS PRECEITOS CONSTITUCIONAIS CONTRARIADOS PELO ACÓRDÃO. INCIDÊNCIA DA SÚMULA N. 284/STF. 1. O agravante não impugnou todos os fundamentos que serviram de suporte à decisão agravada. Incidência da Súmula 287 desta Corte. 2. É condição de êxito do agravo regimental que suas razões se voltem contra os fundamentos da decisão agravada. Incidência da Súmula 284/STF. Agravo regimental a que se nega provimento” (AI 712.695-AgR, Rel. Min. Eros Grau, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 1º de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
