@@ -1,0 +1,15 @@
+1.  Trata-se de embargos de declaração opostos da decisão (fls. 380-381) que negou seguimento ao recurso extraordinário.
+2.  A parte embargante alega, em síntese:
+“(...) a respeitável decisão, ora embargada, que negou seguimento ao recurso, reservou-se a citar precedentes do Supremo Tribunal Federal e, sem trazer suas íntegras, seus argumentos, negou provimento ao recurso extraordinário.
+Neste ponto é que reside a omissão do julgado, devendo, Vossa Excelência, suprir a omissão apontada, com o efetivo julgamento da lide, não bastando a mera citação de precedentes, mas sim a necessidade de trazer seus fundamentos e, especialmente, a íntegra dos mesmos” (fl. 386).
+3.  Inicialmente, ressalto que nos itens 3 e 4 da decisão embargada (fls. 380-381) foram explicitados os fundamentos do decisum. Para tanto, transcrevo:
+“3. Preliminarmente, verifico que os arts. 145, § 1º, e 150, V, da Constituição Federal não foram prequestionados, porque não abordados pelo acórdão recorrido, nem mencionados nos embargos de declaração que foram opostos, não sendo satisfeito, portanto, o requisito do prequestionamento (Súmulas STF 282 e 356).
+4. Ademais, o acórdão recorrido não divergiu da orientação predominante desta Suprema Corte no sentido da impossibilidade de creditamento do IPI decorrente da diferença entre a alíquota incidente na aquisição de insumos e a aplicada na saída do bem industrializado, quando a primeira for menor. Nesse sentido:
+‘RECURSO. Extraordinário. Inadmissibilidade. Tributo. Imposto sobre Produtos Industrializados - IPI. Diferença entre alíquotas reduzidas, incidentes na aquisição de matéria prima e insumos, e a aplicada na saída de bens industrializados. Compensação de créditos. Impossibilidade. Direito inexistente. Mudança da orientação da Corte a partir do julgamento dos REs nº 370.682 e nº 353.657. Superação da tese adotada no RE nº 212.484. Recurso não provido. Agravo regimental improvido. Precedentes. Se a desoneração total do IPI - não tributação ou alíquota zero - que, nas entradas, provoca, para efeitos quantitativos, diferença máxima entre sua condição numérico-tributária e as alíquotas de saída, não autoriza que o contribuinte se credite, é evidente que, produzindo diferenças menores, a desoneração parcial não pode, por maior razão, gerar-lhe direito de crédito.’ (RE 430.720-AgR/RJ, rel. Min. Cezar Peluso, 2ª Turma, unânime, DJe 27.02.2009).
+No mesmo sentido cito, ainda, o RE 477.819/SC, rel. Min. Dias Toffoli, DJe 11.11.2010 e o RE 523.456/RS, por mim relatado, DJe 09.8.2010” (fls. 380-381).
+4.  Ademais, não prospera a argumentação da parte embargante, pois o precedente citado para corroborar seu entendimento refere-se à necessidade, pelo Tribunal a quo, de juntada do incidente de inconstitucionalidade rejeitado pelo Plenário do Tribunal com o objetivo de satisfazer o requisito do prequestionamento para a interposição do recurso extraordinário, o que não corresponde à hipótese dos autos.
+5.  Ante o exposto, rejeito os embargos de declaração, dada sua manifesta improcedência (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 02 de fevereiro de 2011.
+Ministra Ellen Gracie
+Relatora
