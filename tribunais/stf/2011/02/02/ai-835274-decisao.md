@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Minas Gerais com a seguinte ementa:
+“AÇÃO ORDINÁRIA - ADMINISTRATIVO - AGRAVO RETIDO - INDEFERIMENTO DE PRODUÇÃO DE PROVA DOCUMENTAL - PROVAS NOS AUTOS SUFICIENTES PARA O DESLINDE DA CONTROVÉRSIA - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - MÉRITO - SERVIDORA MUNICIPAL - PROGRESSÃO PROFISISONAL - REQUISITOS - AVALIAÇÃO DE DESEMPENHO - OMISSÃO DA ADMINISTRAÇÃO - PROGRESSÃO AUTOMÁTICA - PREVISÃO LEGAL EXPRESSA - LEI MUNICIPAL N. 7.169/96 - AUTOAPLICABILIDADE - TERMO INICIAL DA CONTAGEM DO PRAZO PREVISTO NO ARTIGO 91, II, DA LEI N. 7.169/96 - DATA DA ADMISSÃO NO SERVIÇO PÚBLICO - RECURSO PROVIDO. Considerando o que dispõe o Estatuto dos Servidores Públicos do Quadro Geral de Pessoas do Município de Belo Horizonte (Lei Municipal nº 7.169/96), procede a pretensão à automática promoção da servidora pública municipal ao nível imediatamente superior de sua respectiva série de classe quando, transcorrido o prazo previsto no inciso II do artigo 91 do mesmo Estatuto, que se inicia da data da admissão do servidor no serviço público, a Administração Pública deixa fluir o prazo à avaliação de desempenho (artigo 96).” (fl. 197)
+O agravante reitera as razões de mérito para a reforma do referido acórdão e alega, em síntese, a inadequação do juízo de admissibilidade do TJMG, ao argumento de que teria o recurso extraordinário esta devidamente prequestionado.
+No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, aponta-se violação ao art. 37, caput, do Texto Constitucional.
+Decido.
+Não assiste razão ao agravante.
+A jurisprudência do Supremo Tribunal Federal firmou o entendimento no sentido de que a discussão acerca da progressão funcional dos servidores públicos da Prefeitura Municipal de Belo Horizonte, nos termos da Lei n. 7.169/96, está restrita ao âmbito da interpretação do direito local, providência vedada em sede de recurso extraordinário, conforme disposto na Súmula 280.
+Nesse sentido, confira-se o entendimento das duas turmas desta Corte:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. LEI MUNICIPAL N. 7.169/1996. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE-AgR 394.415/MG, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 23.10.2009.)
+“Agravo regimental em recurso extraordinário. 2. Progressão funcional dos servidores públicos da Prefeitura Municipal de Belo Horizonte, nos termos da Lei n. 7.169/96 . Matéria infraconstitucional. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento.” (AI-AgR 821.118, Rel. Min. Gilmar Mendes, Segunda Turma.)
+Ademais, para confirmar a natureza infraconstitucional desta discussão, cito as decisões monocráticas que tratam de casos idênticos ao deste recurso: RE 352.605/MG, rel. Min. Joaquim Barbosa, DJe 31.8.2010; AI 794.837/MG, rel. Min. Dias Toffoli, DJe 5.8.2010; RE 601.411/MG, rel. Min. Ayres Britto, DJe 10.6.2010; AI-AgR 742.046/MG, rel. Min. Ricardo Lewandowski, DJe 12.3.2010, e AI 783.076/MG, rel. Min. Ricardo Lewandowski, DJe 17.2.2010.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF).
+Publique-se.
+Brasília, 2 de fevereiro de 2011
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
