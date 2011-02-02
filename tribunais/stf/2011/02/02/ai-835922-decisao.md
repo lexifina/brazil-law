@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E ADMINISTRATIVO. DECLARAÇÃO DE NULIDADE DE CONTRATOS TEMPORÁRIOS. ALEGADA AFRONTA AOS PRINCÍPIOS DA RAZOABILIDADE E DA CONTINUIDADE DO SERVIÇO PÚBLICO: AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“CONSTITUCIONAL - AÇÃO CIVIL PÚBLICA - CONTRATAÇÃO DE SERVIDORES SEM CONCURSO PÚBLICO - VIOLAÇÃO AO ART. 37, INC. II E IX DA CONSTITUIÇÃO DA REPÚBLICA - CONTRATAÇÕES IRREGULARES - SENTENÇA QUE SE CONFIRMA. A Carta Magna admite a contratação de pessoas não concursadas apenas quando esta se revelar imprescindível para a prestação de serviços de necessidade temporária de excepcional interesse público. Tirante isso, a regra geral é a submissão dos interessados a prévio concurso público. Para as contratações temporárias e desprovidas de concurso, exige-se previsão em lei sobre as hipóteses consideradas excepcionais, conforme determina o art. 37, inc. IX da CR/88, sob pena de nulidade dos contratos” (fl. 169).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento da matéria constitucional suscitada e a incidência da Súmula 283 do Supremo Tribunal Federal (fls. 285-286).
+4. O Agravante alega que o Tribunal a quo teria contrariado os princípios constitucionais da razoabilidade e da continuidade do serviço público e os arts. 5º, inc. XXXVI e 37, caput, da Constituição da República.
+Argumenta que “o v. Acórdão recorrido (...) acaba por exigir a dispensa imediata dos contratados temporários do Município de Patrocínio, e impossibilita a contratação de novos servidores, sendo, portanto, desprovido de razoabilidade, permissa venia, além de atentar contra o princípio da continuidade dos serviços públicos” (fl. 224).
+Sustenta que “ante a grave lesão que pode acarretar à coletividade, merece ser reformado o v. Acórdão recorrido, diante da patente impossibilidade de se anular os contratos sem que haja um verdadeiro caos no Município” (fl. 228).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Os princípios constitucionais da razoabilidade e da continuidade do serviço público e os arts. 5º, inc. XXXVI e 37, caput, da Constituição da República não foram objeto de debate e decisão prévios no Tribunal de origem. Tampouco foram opostos embargos de declaração, com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE prequestionamento. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+7. Ressalte-se que este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DA LEGALIDADE, DO ATO JURÍDICO PERFEITO E DA COISA JULGADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a alegação de afronta ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta” (AI 684.188-AgR, de minha relatoria, Primeira Turma, DJe 18.9.2009).
+Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 2 de fevereiro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
