@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1126, de 1º de fevereiro de 2011
+Aprova o programa multiplataforma para preenchimento da Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física, da Declaração de Final de Espólio e da Declaração de Saída Definitiva do País, referentes ao exercício de 2011, ano-calendário de 2010 (IRPF2011), para uso em computador que possua a máquina virtual Java (JVM), versão 1.6 ou superior, instalada.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVII do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto na Instrução Normativa RFB nº 1.095, de 10 de dezembro de 2010, resolve:
