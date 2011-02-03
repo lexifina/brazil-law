@@ -1,0 +1,6 @@
+DECISÃO: O assunto versado na petição do recurso extraordinário é análogo ao do tema nº 178, veiculado no AI-RG 729.263, Rel. Min. Cezar Peluso, DJe 16.10.2009, recurso-paradigma da sistemática da repercussão geral. Assim, devolvam-se os autos ao tribunal de origem, para que observe o disposto no art. 543-B do Código de Processo Civil.
+Publique-se.
+Brasília, 3 de fevereiro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
