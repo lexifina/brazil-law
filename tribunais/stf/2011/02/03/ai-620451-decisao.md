@@ -1,0 +1,8 @@
+DECISÃO: Falta ao instrumento cópia da certidão de juntada do mandado de intimação da decisão agravada, peça de traslado obrigatório, cuja ausência acarreta o não conhecimento do agravo (Súmula 288/STF e art. 544, § 1º, do Código de Processo Civil).
+Ademais, o recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 100, caput, e § 1º, versa questão constitucional não ventilada na decisão recorrida, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+A parte agravante suscitou a matéria constitucional em embargos de declaração, mas não demonstrou qual omissão do acórdão deveria ter sido suprida, pois não juntou cópia da apelação interposta, peça essencial para a compreensão da controvérsia e aferição do oportuno prequestionamento. Nesse sentido, a jurisprudência desta Corte tem entendido que o traslado é deficiente, causa suficiente para o desprovimento do agravo (cf. AI 272.320-AgR, rel. min. Sydney Sanches, DJ de 18.05.2001; AI 178.723-AgR, rel. min. Maurício Corrêa, DJ de 02.08.1996; AI 319.666-AgR, rel. min. Sepúlveda Pertence, DJ de 22.11.2002, e AI 157.565-AgR, rel. min. Sydney Sanches, DJ de 22.10.1999, v.g.).
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 03 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
