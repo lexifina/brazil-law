@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão da Terceira Turma Recursal Mista dos Juizados Especiais do Estado de Mato Grosso do Sul que, mantendo a decisão a quo, determinou a restituição das diferenças relativas à correção monetária incidente sobre a caderneta de poupança em razão dos planos econômicos Bresser e Verão.
+No recurso extraordinário, alega-se violação do disposto nos arts. 5º, XXXVI e LV; 22, VI, VII e XIX; 174 e 192, da Constituição federal.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende os arts. 5º, XXXVI; 22, VI, VII e XIX; 174 e 192 da Constituição, versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356 do STF).
+No que concerne à alegação de incompetência do juizado especial para a apreciação da lide, cabe dizer que a controvérsia não está situada em âmbito constitucional, porquanto remete à análise da legislação infraconstitucional.
+De fato, a ofensa à Constituição federal, se existente, passaria necessariamente pela violação de dispositivos da Lei 9.099/1995, configurando-se, pois, de maneira reflexa. O Supremo Tribunal Federal, em decisão da Primeira Turma, já teve oportunidade de se manifestar em sentido semelhante ao ora formulado. Confira-se:
+“EMENTA:  1. Recurso extraordinário: descabimento: dispositivos constitucionais tidos por violados não examinados pelo acórdão recorrido, nem objeto dos embargos de declaração opostos: incidência das Súmulas 282 e 356.
+2.  Recurso extraordinário: inadmissibilidade: controvérsia acerca da competência dos Juizados Especiais no tocante ao valor e complexidade da causa, restrita ao âmbito infraconstitucional: alegada ofensa ao texto constitucional que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636.” (AI 510.323–ED, rel. min. Sepúlveda Pertence, DJ 1º.04.2005)
+No mesmo sentido, o AI 504.621-AgR (rel. min. Cezar Peluso, DJ 24.09.2004).
+Quanto à alegada ilegitimidade da instituição financeira para responder a demanda objetivando a correção dos depósitos em caderneta de poupança, a discussão está restrita ao âmbito da legislação infraconstitucional. A ofensa à Constituição, se existente, seria reflexa. Nesse sentido: AI 254.176-AgR (Primeira Turma, rel. min. Sepúlveda Pertence, DJ de 24.05.02); AI 296.075-AgR (Segunda Turma, rel. min. Maurício Corrêa, DJ de 18.05.01) e AI 425.614 (rel. min. Gilmar Mendes, DJ de 13.06.2003).
+Do exposto, nego seguimento ao agravo.
+Brasília, 03 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
