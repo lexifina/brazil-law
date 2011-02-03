@@ -1,0 +1,11 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+“DESAPROPRIAÇÃO – EXECUÇÃO CONTRA A FAZENDA PÚBLICA – decisão que não acolhe pedido de revisão de pagamentos efetuados em autos de ação de desapropriação para afastar a incidência dos juros compensatórios e moratórios sobre o parcelamento autorizado pelo art. 33 do ADCT – pertinência – obediência às garantias constitucionais concernentes à perenização da coisa julgada e da ampla indenização devida ao expropriado.
+2.  No RE, sustenta-se ofensa ao art. 33 do ADCT (fls. 80/87).
+3.  O recurso merece ser provido. Esta Suprema Corte firmou posição segundo a qual não incidem juros moratórios e compensatórios quando a entidade de direito público realiza, dentro do prazo, o pagamento das prestações previstas no citado art. 33 do ADCT. Somente serão devidos juros moratórios, se houver atraso no pagamento. Nesse sentido: RE 155.981/SP, rel. Min. Marco Aurélio, Plenário, por maioria, DJ 23.02.2001, no qual segue a ementa abaixo transcrita:
+“JUROS – DÉBITO DA FAZENDA - ARTIGO 33 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. O preceito do artigo 33 do Ato das Disposições Constitucionais Transitórias encerra uma nova realidade. Faculta-se ao Recorrente a satisfação dos valores pendentes de precatórios, neles incluídos os juros remanescentes. Observadas as épocas próprias das prestações – vencimentos - impossível é cogitar da mora, descabendo, assim, a incidência dos juros no que pressupõem inadimplemento e, portanto, a “mora solvendi”. Os compensatórios têm a incidência cessada em face da referência apenas aos remanescentes e às parcelas tidas como iguais e sucessivas.”
+ No mesmo sentido são os seguintes julgados: AI 643.732-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 26.06.2009; RE 235.217-AgR/PR, de minha relatoria, 2ª Turma, unânime, DJe 07.08.2009; RE 472.000/SP, rel. Min. Joaquim Barbosa, DJe 19.03.2010; RE 554.464/SP, rel. Min. Ricardo Lewandowski, DJe 11.03.2010; e RE 467.583/SP, rel. Min. Dias Toffoli, DJe 02.03.2010.
+4.  Ante o exposto, com fundamento no art. 557, § 1º-A, do CPC, dou provimento ao recurso extraordinário, para determinar a não-incidência dos juros moratórios e compensatórios sobre o parcelamento previsto no art. 33 do ADCT.
+Publique-se.
+Brasília, 03 de fevereiro de 2011.
+Ministra Ellen Gracie
+Relatora
