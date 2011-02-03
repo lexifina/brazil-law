@@ -1,0 +1,33 @@
+DECISÃO:  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a e c, da Constituição federal) contra acórdão, proferido por Tribunal Regional Federal, cuja ementa transcrevo:
+“EMENTA: PREVIDENCIÁRIO- REVISIONAL DE BENEFÍCIO- ARTIGO 202 DA CF/88- ATUALIZAÇÃO DOS SALÁRIOS DE CONTRIBUIÇÃO- LEI 8.213/91- INPC- SÚMULA 260 DO TFR- PRESCRIÇÃO QUINQUENAL- LEI 8213/91- APLICAÇÃO DE ÍNDICE INTEGRAL- VERBA DE SUCUMBÊNCIA.
+1. Incabível a atualização dos 12 (doze) últimos salários de contribuição, para os benefícios concedidos antes da promulgação da atual Carta Magna, por não ter o art. 202 da CF, efeito retroativo.
+2. É inaplicável a Súmula 260 do extinto TFR após 04.04.89, eis que a partir desta data os reajustes deveriam se pautar pelo disposto no art. 58 do ADCT, até a regulamentação do Plano de Custeio e Benefícios (Decretos 356 e 357 de 1991).
+3. Tratando-se de revisão de proventos, indevidas as prestações vencidas anteriormente ao quinqüênio que precedeu a propositura da ação, estando prescritas, portanto, as parcelas decorrentes da aplicação da Súmula 260 do extinto TFR.
+4. É aplicável, na atualização dos salários de contribuição que irão compor os benefícios concedidos após a edição da Lei 8.213/91, a variação do INPC e índices previstos na legislação subsequente.
+5. Legalidade da aplicação de critérios proporcionais para o primeiro reajuste do benefício, com base nas Leis 8213/91 e 8542/92.
+6. Aplicação dos artigos 31 e 41, II da Lei 8.213/91, que integraram a eficácia do comando constitucional do parágrafo 2º, do art. 201, da CF, quando dispuseram sobre o índice aplicável na correção dos salários de contribuição e nos rerajustes (sic).
+7. As verbas de sucumbência não são devidas, por serem os autores beneficiários da Justiça Gratuita.
+8. Apelação parcialmente provida.”
+O recorrente pede a aplicação dos índices de reajuste que enumera, o afastamento do teto estabelecido pelos arts. 29, § 2º e 33, da Lei 8.213/91 e a aplicação do disposto na Súmula 260 do TRF para os benefícios concedidos antes da Constituição de 1988.
+É o relatório. Decido.
+Primeiramente, cumpre salientar que a peça inicial (fls. 32) pede a atualização dos 36 últimos salários-de-contribuição, a desconsideração do teto e a aplicação integral do INPC aos benefícios previdenciários, nada discorrendo sobre a vinculação dos benefícios anteriores à 1988 ao salário mínimo, nos termos do art. 58, do ADCT. Não obstante, suscitou a questão em sede de recurso extraordinário. Assim, não tendo a fundamentação do recurso pertinência com o pedido inicial, impõe-se a aplicação da Súmula 284 do Supremo Tribunal Federal.
+No tocante à constitucionalidade do teto instituído pelos arts. 29, § 2º e 33, da Lei 8.213/91, esta Corte já firmou o entendimento (RE 295.739, rel. min. Moreira Alves, DJ de 27.04.2001) de que o disposto no art. 202 da Carta Magna, na redação anterior à da Emenda Constitucional 20/1998, sobre o cálculo do benefício da aposentadoria, não era autoaplicável, por depender de legislação que posteriormente entrou em vigor (Lei 8.212 e Lei 8.213, ambas de 24.07.1991).
+Ademais, no julgamento do AI 279.377-AgR-ED, assim decidiu a Ministra Ellen Gracie (DJ 22.06.2001):
+“EMBARGOS DE DECLARAÇÃO. PREVIDENCIÁRIO. SALÁRIOS-DE-BENEFÍCIO. TETO (ARTS. 29 E 33 DA LEI 8.213/91 E 202 DA CF).
+- A norma inscrita no art. 202, caput, da CF (redação anterior à EC nº 20), que assegura o benefício da aposentadoria com base na média dos trinta e seis últimos salários de contribuição, corrigidos monetariamente, mês a mês, não é auto-aplicável, necessitando, para sua complementação, de integração legislativa, a fim de que lhe seja dada plena eficácia. Constitui, portanto, disposição dirigida ao legislador ordinário, a quem cabe definir os critérios necessários ao seu cumprimento - o que foi levado a efeito pelas Leis 8.212 e 8.213, ambas de 1991. Tem-se, portanto, que o benefício deve ser calculado de acordo com a legislação previdenciária editada.
+- Ademais, a ofensa, se existente, seria indireta.
+- Por outro lado, os embargos de declaração não se prestam a rediscutir a matéria de fundo, com pretendem os embargantes.
+Embargos rejeitados.”
+Por fim, em sessão plenária de 24.09.2003, o Supremo Tribunal Federal, no julgamento do RE 376.846 (rel. min. Carlos Velloso), que tratava de tese idêntica à dos presentes autos, fixou o entendimento de que a declaração de inconstitucionalidade do critério utilizado pelo legislador ordinário somente seria possível com a demonstração de que o índice legal é manifestamente inadequado. O Pleno pautou-se, nesse ponto específico, em precedentes da própria Corte (RE 219.880, rel. min. Moreira Alves, DJ de 06.08.1999; RE 313.382, rel. min. Maurício Corrêa, RTJ 183/1154, e RE 376.852, rel. min. Gilmar Mendes, DJ de 24.10.2003).
+Nesse sentido, o Plenário do Tribunal declarou a constitucionalidade material dos reajustes dos benefícios de 1997, 1999, 2000 e 2001, bem como dos respectivos atos normativos que fixaram os índices. O referido julgamento teve a seguinte ementa:
+“CONSTITUCIONAL. PREVIDENCIÁRIO. BENEFÍCIOS: REAJUSTE: 1997, 1999, 2000 E 2001. Lei 9.711/98, arts. 12 e 13; Lei 9.971/2000, §§ 2º e 3º do art. 4º; Méd. Prov. 2.187-13, de 24.8.01, art. 1º; Decreto 3.826, de 31.5.01, art. 1º C.F., art. 201, § 4º.
+I. – Índices adotados para reajustamento dos benefícios: Lei 9.711/98, artigos 12 e 13; Lei 9.971/2000, §§ 2º e 3º do art. 4º; Méd. Prov. 2.187-13, de 24.8.01, art. 1º; Decreto 3.826/01, art. 1º: inocorrência de inconstitucionalidade.
+II. – A presunção de constitucionalidade da legislação infraconstitucional realizadora do reajuste previsto no art. 201, § 4º, C.F., somente pode ser elidida mediante demonstração da impropriedade do percentual adotado para o reajuste. Os percentuais adotados excederam os índices do INPC ou destes ficaram abaixo, num dos exercícios, em percentual desprezível e explicável, certo que o INPC é o índice mais adequado para o reajuste dos benefícios, já que o IGP-DI melhor serve para preços no atacado, porque retrata, basicamente, a variação de preços do setor empresarial brasileiro.
+III. – R.E. conhecido e provido.”
+Dessa orientação não divergiu o acórdão recorrido.
+Em relação à interposição do apelo extraordinário com base no art. 102, III, alínea c, observo que o acórdão recorrido em momento algum julgou válida lei ou ato de governo local contestado em face da Constituição. Acrescento, também, que a petição recursal não oferece qualquer fundamentação no que se refere a esse particular, o que permite a invocação da súmula 284 desta Corte.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 03 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
