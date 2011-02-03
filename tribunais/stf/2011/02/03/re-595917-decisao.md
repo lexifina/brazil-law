@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário fundado na alínea “a” do permissivo constitucional interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+“TRIBUTÁRIO. DEPÓSITO JUDICIAL. ATUALIZAÇÃO MONETÁRIA. LEI N.º 9.289/96. INAPLICABILIDADE DA TAXA SELIC ANTES DA LEI N.º 9.703/98.
+1. O cômputo da taxa SELIC, para fins de atualização dos depósitos judiciais, tem amparo legal apenas com o advento da Lei n.º 9.703/98, a título de juros, consoante determina o art. 1.º, § 3.º, inciso I, desse diploma legal.
+2. Tendo em vista que o depósito judicial em questão ocorreu antes da edição da Lei n.º 9.703/98, não é possível aplicar a SELIC a partir da sua vigência, consoante dicção do seu art. 4.º.
+3. Apelação improvida” (fls. 83).
+No apelo extremo, alega o recorrente contrariedade ao disposto nos artigos 5º e 150, inciso II, da Constituição Federal. Aduz que fere o princípio da isonomia o tratamento diferenciado para contribuintes em situação idêntica, ou seja, para um, o índice aplicado é a TR, para outro, a taxa SELIC.
+Sem contrarrazões, consoante certidão de fl. 100.
+Decido.
+A irresignação não merece prosperar.
+A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“ COFINS. LEI 9.718/98. COMPENSAÇÃO DOS VALORES RECOLHIDOS A MAIOR. MATÉRIA INFRACONSTITUCIONAL. 1. (...). 2. A compensação dos valores recolhidos indevidamente com outros tributos, bem como a aplicação da taxa Selic como índice de correção monetária são questões de nítida natureza infraconstitucional e requerem o exame de fatos e provas para sua solução. Incompatibilidade com a via extraordinária. Questões a serem dirimidas nas instâncias ordinárias ou em sede administrativa. 3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.” (RE 422005 ED, Rel. Min. Ellen Gracie, Segunda Turma, DJ de 20/4/2006).
+“ Recurso extraordinário: descabimento: controvérsia relativa à aplicação da taxa SELIC como índice de correção monetária, de natureza infraconstitucional (art. 161 do CTN e L. 9.250/1995); a alegada violação do dispositivo constitucional invocado seria, se ocorresse, indireta ou reflexa, que não enseja reexame em recurso extraordinário: incidência, mutatis mutandis, da Súmula 636.” (RE 496271 AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 10/11/2006).
+De seu turno, na esteira do entendimento desta Corte, não cabe recurso extraordinário por afronta ao art. 150, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação da interpretação dadas as normas infraconstitucionais, como ocorre no caso concreto. Nesse sentido:
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI Nº 11.712, DE 24.04 .2001, DO ESTADO DE SANTA CATARINA. IPVA E MULTAS DE TRÂNSITO ESTADUAIS. PARCELAMENTO. A jurisprudência deste Supremo Tribunal fixou o entendimento segundo o qual o artigo 61, § 1º, II, b, da Carta Magna refere-se exclusivamente aos Territórios Federais, não configurando norma cuja observância seja impositiva aos Estados-membros. Precedentes: ADI nº 2.304-MC, Rel. Min. Sepúlveda Pertence, DJ 15.12.2000 e ADI nº 352-MC, Rel. Min. Celso de Mello, DJ 8.03.91. Os artigos 5º, caput, e 150, II, da Lei Fundamental, corolários dos princípios da igualdade e da isonomia tributária, não se acham violados, dado o caráter impessoal e abstrato da norma impugnada. Não há que se falar em ofensa ao artigo 155, III, da Constituição Federal, pois que a Lei em questão não institui qualquer nova espécie de tributo. Ação direta cujo pedido se julga improcedente. (ADI 2474, Relator Min. Ellen Gracie, Tribunal Pleno, DJ 25/4/2003)
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 3 de fevereiro de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
