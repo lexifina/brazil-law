@@ -1,0 +1,13 @@
+1.  Trata-se de agravo regimental de decisão que negou seguimento a agravo de instrumento por entender que a análise do recurso extraordinário esbarra no óbice das Súmulas/STF 282 e 356 e na necessidade de apreciação de legislação infraconstitucional.
+2.  A parte agravante alega que a violação ao art. 164, § 3º, da Constituição Federal é direta e a análise do recurso extraordinário prescinde do exame ou interpretação de dispositivos da Lei estadual 2.011/99.
+3.  Assiste razão à parte agravante. De fato, a apontada violação constitucional não exige, para sua constatação, da apreciação da citada norma local. Assim, reconsidero a decisão agravada e passo a analisar o agravo de instrumento.
+4.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discute a remoção de importância em dinheiro, oferecida em garantia do juízo e depositada em conta e agência do agravante, para a conta única de depósitos do Poder Judiciário do Mato Grosso do Sul, que é administrada por instituição financeira privada.
+ No RE, a parte agravante sustenta a tese de que as ressalvas previstas no art. 164, § 3º, da Constituição Federal, são de competência exclusiva de legislação federal complementar e nunca por lei estadual como entendeu o Tribunal a quo.
+5.  O recurso merece prosperar. O Supremo Tribunal Federal assentou o entendimento de que as ressalvas previstas no art. 164, § 3º, da Constituição Federal, devem ser previstas por lei federal. Ao julgar a ADI 2.600-MC/ES, Pleno, unânime, DJ 25.10.2002, afirmei que essa lei exceptiva é lei federal de caráter nacional, pois a expressão “ressalvados os casos previstos em lei”, além de fazer referência às disponibilidades financeiras de Estados, Distrito Federal e Municípios, o faz também em relação às disponibilidades de órgãos e entidades do Poder Público e das empresas por ele controladas, estando incluídos, portanto, os órgãos, entidades e empresas pertencentes à União.
+ No mesmo sentido, a ADI 2.661-MC/MA, rel. Min. Celso de Mello, Plenário, unânime, DJ 23.8.2002 e, ainda, a Rcl 3.872-AgR/DF, Plenário, maioria e RE 444.056/MG, ambos de relatoria do Min. Carlos Velloso (DJ 14.12.2005 e 17.10.2005, respectivamente).
+ O acórdão recorrido divergiu desse entendimento.
+6.  Ante o exposto, com fundamento no art. 544, § 4º, do Código de Processo Civil, conheço do agravo e, desde logo, dou provimento ao recurso extraordinário.  Determino a inversão dos ônus da sucumbência, ressalvada a hipótese de concessão da justiça gratuita.
+ Publique-se.
+ Brasília, 03 de fevereiro de 2011.
+Ministra Ellen Gracie
+Relatora
