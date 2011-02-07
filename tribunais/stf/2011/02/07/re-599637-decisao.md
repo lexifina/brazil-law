@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão (cuja intimação da parte se deu em 09.06.2008) que acolheu embargos de declaração em agravo regimental, dando-lhe efeitos infringentes, para conceder mandado de segurança e assim permitir a acumulação de cargos públicos, pela aplicação do art. 37, XVI, alínea c, da Constituição federal.
+Consigno inicialmente que se trata de apelo extraordinário interposto de acórdão cuja publicação se verificou em data posterior a 03.05.2007, portanto, quando já exigível a demonstração formal da existência de repercussão geral da questão constitucional invocada na peça recursal (cf. AI 664.567-QO, rel. min. Sepúlveda Pertence).
+O recurso extraordinário está fundamentado em suposta afronta aos arts. 5º, XXXV, 37, caput (eficiência), III, XVI, e 93, IX, da Constituição federal. Transcrevo a íntegra da preliminar de repercussão geral:
+“A repercussão geral da questão constitucional discutida no caso está demonstrada haja vista que trata-se de assunto ligado a concurso público, onde certamente uma decisão permitindo a impetração de Mandamus após a expiração do prazo do certame gerará repercussão no país, ante à afronta à Carta Magna e a possibilidade de dita decisão ser usada como paradigma. Da mesma forma, a repercussão geral está demonstrada no sentido de que a permissividade de acumulação de cargos e/ou empregos públicos de assistente social por força de decisão judicial, data venia, contraria a melhor exegese da Constituição Federal, por si só já gera reflexos consideráveis em toda a Administração Pública do país.” (sic)
+É patente, pois, que a parte não desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância econômica, política, social ou jurídica da questão constitucional aventada na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza. Nesse sentido: AI 709.995, rel. min. Cármen Lúcia, DJe de 24.06.2008).
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 07 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
