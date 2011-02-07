@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DEFICIÊNCIA NO TRASLADO: SÚMULA N. 288 DO SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto julgado do Tribunal de Justiça de Minas Gerais, que reduziu a 4 anos e 13 dias-multa as penas impostas aos Agravantes pela prática do crime do art. 317, § 1º, do Código Penal (substituídas por 2 restritivas de direito).
+Os embargos declaratórios opostos contra o julgado recorrido foram rejeitados nos seguintes termos:
+“Ao contrário do alegado pelos Embargantes, foi efetivamente observada a pena que era prevista pelo art. 317 do Código Penal antes da modificação efetuada pela Lei n. 10.763/03, já que a prática delitiva ocorreu antes de 2003, sendo que, para o referido crime, era prevista a pena mínima de 1 ano e a máxima de 8 anos, além de multa” (fl. 37).
+3. No recurso extraordinário, os Agravantes afirmam que teria sido contrariado o art. 5º, inc. XL, da Constituição da República.
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de correlação entre as razões do recurso e as conclusões do julgado recorrido (fls. 26-27).
+Os Agravantes sustentam a presença dos requisitos de admissibilidade do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste aos Agravantes.
+6. Há deficiência do traslado.
+A certidão de fl. 88 atesta a retirada (por Advogados de outras partes) dos autos originais do cartório em 7.1.2010, que seria o termo inicial do prazo para recurso contra a decisão de inadmissibilidade do recurso extraordinário (publicada em 18.12.2009 – fl. 28).
+A certidão também confirma a não devolução dos autos originais ao cartório até a data de 15.1.2010.
+No entanto, não há, nestes autos, qualquer documento que indique a data em que os autos originais foram efetivamente devolvidos ao cartório, a partir da qual fluiria o prazo para interposição deste agravo de instrumento.
+Essa circunstância atrai a incidência da Súmula n. 288 do Supremo Tribunal. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL . DEFICIÊNCIA NO TRASLADO: INCIDÊNCIA DA SÚMULA 288 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O Supremo Tribunal Federal firmou jurisprudência no sentido de que compete exclusivamente à parte agravante fiscalizar a correta formação do instrumento. Precedentes. 2. Agravo Regimental desprovido” (AI 661.357-AgR, de minha relatoria, Primeira Turma, DJe 24.8.2007, grifos nossos).
+“PROCESSUAL PENAL . AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PEÇAS ESSENCIAIS. AUSÊNCIA. SÚMULA 288 DO STF. REQUISITOS DE ADMISSIBILIDADE DE RECURSO DA COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ALEGADA OFENSA AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - O agravo de instrumento deve ser instruído com as peças obrigatórias e também com as necessárias ao exato conhecimento das questões discutidas. II - É pacífico o entendimento nesta Corte de que não cabe rever, em recurso extraordinário, questões processuais de natureza infraconstitucional relativas aos requisitos de admissibilidade de recurso da competência do Superior Tribunal de Justiça. Precedentes. III - A alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária. IV - Agravo regimental improvido” (AI 766.815-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 5.2.2010, grifos nossos).
+Ressalte-se que este Supremo Tribunal assentou que o instrumento deve estar completo no momento da sua interposição, além do que é dever do Agravante fiscalizar a correta formação do agravo de instrumento (AI 642.601AgR, de minha relatoria, DJ 15.6.2007, e AI 137.645, Rel. Min. Sepúlveda Pertence, Plenário, RTJ 157/1012).
+7. Nada há, pois, a prover quanto às alegações dos Agravantes.
+8. Pelo exposto, nego seguimento a este agravo (art. 38 da Lei 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 7 de fevereiro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
