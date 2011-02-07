@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“ADMINISTRATIVO E PROCESSUAL CIVIL – INDENIZAÇÃO – REPARAÇÃO DE DANOS MORAIS – TORTURA – REGIME MILITAR – NÃO-INCIDÊNCIA DA PRESCRIÇÃO QUINQUENAL – ART. 1º DO DECRETO N. 20.910/1932 – IMPRESCRITIBILIDADE – VIOLAÇÃO DO PRINCÍPIO DA RESERVA DE PLENÁRIO – INOVAÇÃO RECURSAL. 1. A jurisprudência do STJ é firme no sentido de que o Decreto n. 20.910/32 não se aplica aos casos de reparação de danos causados por violações dos direitos fundamentais, que são imprescritíveis, principalmente quando se trata da época do regime Militar, em que os jurisdicionados não podiam buscar a contento suas pretensões. 2. A apresentação de novos fundamentos para viabilizar o conhecimento e provimento do recurso especial representa inovação, vedada no âmbito do agravo regimental. 3. A apreciação de suposta violação de preceitos constitucionais não é possível na via especial, nem à guisa de prequestionamento, porquanto matéria reservada, pela Carta Magna, ao Supremo Tribunal Federal. Agravo regimental improvido”.
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa aos artigos 1º, III; 5º, caput, III, XLIII e XLIV; e 97, da Carta Magna.
+A recorrente alega, em síntese, violação à cláusula de reserva de plenário, pois a declaração de inconstitucionalidade do artigo 1º, do Decreto nº 20.910/32 emanou de órgão fracionário do STJ (2ª Turma). Ademais, afirma que não há como se extrair do texto constitucional a imprescritibilidade da pretensão de reparação civil por atos de tortura.
+Decido.
+O recurso não merece prosperar.
+Na espécie, não se vislumbra hipótese de declaração de inconstitucionalidade de lei por órgão fracionário do Superior Tribunal de Justiça nem o afastamento da norma por fundamentos extraídos da Constituição Federal.
+No caso, o acórdão recorrido limitou-se a aplicar a jurisprudência do Superior Tribunal de Justiça, segundo a qual a prescrição quinquenal não se aplica aos casos de reparação de danos causados por violações aos direitos fundamentais, que são imprescritíveis, principalmente quando se fala da época do regime militar.
+Nesse sentido o AI 781.787, Rel. Min. Ellen Gracie, Segunda Turma, DJe 3.12.2010, com acórdão assim ementado:
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. CRIME DE TORTURA NO REGIME MILITAR. AFASTAMENTO DO ART. 1º DO DECRETO 20.910/32. PRESCRIÇÃO. VIOLAÇÃO À SÚMULA VINCULANTE 10: INOCORRÊNCIA. DESCUMPRIMENTO AO PRINCÍPIO DA RESERVA DE PLENÁRIO: NÃO CONFIGURAÇÃO. 1. Inexistência de ofensa ao princípio da reserva de plenário, pois o acórdão recorrido analisou normas legais sem julgar inconstitucional lei ou ato normativo federal ou afastar a sua incidência, restringindo-se o Superior Tribunal de Justiça a considerar inaplicável ao caso o art. 1º do Decreto 20.910/32. 2. Agravo regimental a que se nega provimento”.
+Cito, ainda, as seguintes decisões monocráticas proferidas em situações análogas a dos autos: RE 606.377, Rel. Min. Dias Toffoli, DJe 8.11.2010; AI-AgR 783.609, Rel. Min. Ricardo Lewandowski, DJe 27.4.2010 e AI 773.071, Rel. Min. Cármen Lúcia, DJe 8.4.2010.
+Ante o exposto, nego seguimento ao recurso (arts 21, § 1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 7 de fevereiro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
