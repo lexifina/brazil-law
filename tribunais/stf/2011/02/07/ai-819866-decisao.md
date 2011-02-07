@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário (art. 102, III, a e c, da Constituição federal) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é do seguinte teor (fls. 395):
+“FUNCIONÁRIO PÚBLICO MUNICIPAL – DEMISSÃO – PROCESSO ADMINISTRATIVO REGULAR, COM TOTAL OBSERVÂNCIA DOS PRINCÍPIOS E REGRAS FUNDAMENTAIS APLICÁVEIS – AÇÃO DE ANULAÇÃO CUMULADA COM REINTEGRAÇÃO PROCEDENTE – RECURSOS OFICIAL E DA MUNICIPALIDADE DE MOGI DAS CRUZES PROVIDOS. ”
+No recurso extraordinário, o ora agravante apontou violação dos arts. 5º, LIV e LV; 37 e 41, § 1º, II, da Constituição.
+O agravo não merece provimento.
+Verifico que se trata de apelo extraordinário interposto de acórdão cuja publicação se verificou em data posterior a 03.05.2007, portanto, quando já exigível a demonstração formal da existência de repercussão geral da questão constitucional invocada na peça recursal (cf. AI 664.567-QO, rel. min. Sepúlveda Pertence).
+No recurso extraordinário, o ora agravante afirma que “(...) no caso em exame, a questão constitucional debatida tem repercussão geral, vez que não se limita ao interesse subjetivo das partes, porque se debate a possibilidade da nulidade do procedimento administrativo focado no descumprimento de regras da Lei Máxima (CF/88) (...)” (fls. 498).
+É patente, pois, que a parte não desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância – do ponto de vista econômico, político, social ou jurídico – das questões constitucionais aventadas na petição de recurso extraordinário, e que ultrapassem os interesses subjetivos das partes. Há, portanto, deficiência formal que o inviabiliza. Nesse sentido: AI 709.995, rel. min. Cármen Lúcia, DJe de 24.06.2008.
+Por outro lado, inexiste a alegada afronta ao art. 5º, LIV e LV, da Carta Magna, pois o acórdão recorrido inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o agravante.
+Por fim, concluir diversamente do acórdão recorrido demandaria o prévio exame de matéria de direito local e do quadro fático-probatório, o que é vedado no âmbito de cognição do recurso extraordinário (Súmulas 279 e 280 do STF). Nesse sentido: RE 475.622-AgR (rel. min. Ricardo Lewandowski, Primeira Turma, DJe de 17.09.2010), AI 583.635-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 17.04.2009), AI 478.624-AgR (rel. min. Nelson Jobim, Segunda Turma, DJ de 21.05.2004) e AI 645.950 (rel. min. Dias Toffoli, DJe de 22.11.2010).
+Em relação à interposição do apelo extraordinário com base no art. 102, III, alínea c, observo que o acórdão recorrido em momento algum julgou válida lei ou ato de governo local contestado em face da Constituição. Acrescento, também, que a petição recursal não oferece qualquer fundamentação no que se refere a esse particular, o que permite a invocação da Súmula 284 desta Corte.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 7 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
