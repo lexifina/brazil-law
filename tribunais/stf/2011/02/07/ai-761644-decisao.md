@@ -1,0 +1,15 @@
+DECISÃO : Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a , da Constituição) contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa tem o seguinte teor:
+“AÇÃO DECLARATÓRIA – PLANO DE SAÚDE – REAJUSTE EM DECORRÊNCIA DA MUDANÇA DE FAIXA ETÁRIA. ESTATUTO DO IDOSO. VEDADA A DISCRIMINAÇÃO EM RAZÃO DA IDADE. LEGITIMIDADE ATIVA DO BENEFICIÁRIO EM CONTRATO COLETIVO.
+O beneficiário do plano de saúde coletivo tem legitimidade ativa para figurar no pólo de ação em que se discutem as cláusulas do contrato ao qual está vinculado. É competente o juizado especial para as causas relativas ao reajuste do plano de saúde em decorrência da faixa etária. Aplica-se o Estatuto do idoso aos contratos firmados antes da vigência da referida lei quando a idade relacionada no contrato é atingida na vigência da lei.
+Recurso a que se conhece mas nega-se provimento.” (Fls. 134)
+Alega-se como violado os arts. 5º, XXXVI, LIV e LV; 93, IX; e 98, I, da Carta Magna.
+O recurso extraordinário, alegando que o acórdão recorrido ofende o preceito do art. 98, I, da Constituição federal, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356 desta Corte).
+No que concerne à alegação de cerceamento de defesa por ausência de perícia técnica, o recurso extraordinário versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta do recurso inominado, deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356 do STF. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ de 15.09.2000), cujo acórdão ficou assim ementado:
+“- Não tem razão a agravante. Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento.
+Agravo a que se nega provimento.”
+Quanto ao reajuste do plano de saúde em decorrência da mudança de faixa etária, o acórdão impugnado também decidiu a causa com base na interpretação de legislação infraconstitucional (§ 3º do art. 15 da Lei 10.741/2003 e Código de Defesa do Consumidor) e na jurisprudência do Superior Tribunal de Justiça, insuscetível de apreciação na via estreita do recurso extraordinário. Essa situação inviabiliza o recurso extraordinário, nos termos da Súmula 283/STF.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 7 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
