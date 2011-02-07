@@ -1,0 +1,19 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão a qual decidiu que os contribuintes da COFINS que tenham discutido o débito em juízo não teriam o direito de levantar o depósito judicial realizado, nem poderiam aderir ao parcelamento administrativo do débito (fls. 145-152).
+2.  No RE, a parte recorrente alega violação aos arts. 5º, caput, e 150, II, da Constituição Federal, sustentando, em síntese, que a Portaria 655/93, do Ministério da Fazenda, ofenderia o princípio da isonomia ao tratar de forma diferente contribuintes que se encontram na mesma situação. Afirma que a referida portaria veda que os contribuintes que tenham feito depósito judicial da dívida adiram ao parcelamento administrativo do débito, benefício este concedido aos contribuintes inadimplentes com a receita (fls. 160-167).
+3.  Admitido o recurso na origem (fl. 185), subiram os autos.
+4.  O Ministério Público Federal manifestou-se pelo conhecimento e desprovimento do recurso (fls. 191-194).
+5.  O recurso não merece prosperar. Preliminarmente, verifico que, para o exame das violações alegadas, seria necessária a análise de fatos e provas (Súmulas STF 279) e de legislação infraconstitucional (Portaria MF 655/93), hipóteses inviáveis em sede extraordinária.
+6.  Ademais, o acórdão recorrido não diverge da jurisprudência desta Corte, no sentido de que não cabe ao Poder Judiciário atuar como legislador positivo e estender parcelamento de débitos tributário a contribuintes não abrangidos pela norma autorizadora. Nesse sentido: RE 577.532-AgR-ED/RS, rel. Min. Cezar Peluso, 2ª Turma, DJe 30.4.2009; e RE 493.234-AgR/RS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 19.12.2007, este último assim ementado:
+“ TRIBUTÁRIO. PARCELAMENTO DE DÉBITOS PREVIDENCIÁRIOS. EXTENSÃO DE BENEFÍCIO CONCEDIDO APENAS A EMPRESAS PÚBLICAS E SOCIEDADES DE ECONOMIA MISTA. IMPOSSIBILIDADE.
+I - Não é dado ao Poder Judiciário atuar como legislador positivo, mas apenas como legislador negativo nas hipóteses de declaração de inconstitucionalidade.
+II - Impossibilidade de extensão, às demais empresas, do prazo concedido pela Lei 8.620/93 às empresas públicas e sociedades de economia mista para parcelamento de débitos previdenciários.
+III - Agravo regimental improvido”.
+7.  Por fim, no julgamento do RE 353.486/BA, rel. Min. Carlos Brito, DJe 18.12.2009, caso semelhante ao dos presentes autos, o relator assim se pronunciou:
+“4. Tenho que a insurgência não merece acolhida. É que a restrição ao parcelamento dos débitos de que trata o art. 4º da Portaria nº 655/93, da Secretaria da Receita Federal, diz respeito aos valores objeto dos depósitos judiciais, não às empresas depositantes, pelo que não vislumbro violação ao princípio da isonomia”.
+ Nesse sentido foi o parecer do representante do Ministério Público Federal, do qual destaco:
+“De qualquer sorte, o princípio da isonomia somente incide naquelas hipóteses em que o tratamento diferenciado conferido pelo legislador ordinário não tenha como fundamento desigualdade de situações e se mostre arbitrariamente discriminatório, o que não ocorre na espécie, onde as situações em cotejo são efetivamente diferenciadas. Ora, se determinado contribuinte já pagou o débito, não tem sentido devolver-lhe o que foi pago a fim de possibilitar que ele formule pedido de parcelamento posteriormente autorizado em favor daqueles que ainda estejam em débito com a fazenda pública. Do mesmo modo, soa estranho impor à fazenda pública que concorde com o parcelamento em caso em que o contribuinte ingressou em juízo e efetuou depósitos, vindo a sucumbir em sua pretensão no sentido da inexistência do débito” (fls. 193-194).
+8.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 07 de fevereiro de 2011.
+Ministra Ellen Gracie
+Relatora
