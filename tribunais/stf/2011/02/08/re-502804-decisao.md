@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão proferido por Tribunal Regional Federal que considerou legal a fixação de teto sobre aposentadoria de ex-combatente. A ementa está assim redigida (fls. 99):
+“PREVIDENCIÁRIO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. REEXAME NECESSÁRIO. EX-COMBATENTE. APOSENTADORIA. LIMITE TETO. CONSTITUCIONALIDADE. CR/88, ART. 37, XI. MINISTRO DE ESTADO. REMUNERAÇÃO. EMENDA CONSTITUCIONAL Nº 41/2003. SUBSÍDIO DO MINISTRO DO STF.
+1. A Lei do Mandado de Segurança (Lei 1.533/51), bem como a Lei nº 9.469/97 – que instituiu o reexame necessário para as causas em que presentes as Autarquias –, não ofenderam o princípio da igualdade, sendo coerentes com o princípio da ampla defesa e do devido processo legal. O legislador pode impor o reexame necessário nas causas que eleger de especial interesse público.
+2. Até o advento da EC 41, publicada em 31.12.03, vigorou o sistema original da CF, que impunha a remuneração de Ministro de Estado como limite máximo da aposentadoria previdenciária concedia aos ex-combatentes.
+3. Com a promulgação da EC 41/03, passou a ser considerado, para os fins do limite fixado no art. 37, XI da Constituição Federal, o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, prevalecendo no entanto, até a fixação de tal subsídio, o valor da maior remuneração atribuída por lei a Ministro do Supremo Tribunal Federal, a título de vencimento, em 31.12.03 (data de publicação da EC 41/03).
+4. Apelação e remessa oficial, tida por interposta, providas.”
+Alega o recorrente que o Decreto 2.172/1997 não poderia fixar limites ao recebimento do seu benefício, pois a Constituição exige a regulamentação por lei formal, havendo, portanto, violação ao art. 37, XI, da Carta Magna. Aduz, ainda, violação ao art. 5º, XXXVI, uma vez que seu benefício, conferido por meio de decisão judicial, estaria protegido pela inviolabilidade da coisa julgada.
+É o relatório. Decido.
+Lembro, inicialmente, que a controvérsia é anterior à Emenda Constitucional 41, de 19.12.2003, não cabendo falar na aplicação do art. 8º da referida emenda.
+Observo, também, que a discussão referente aos dispositivos relativos ao critério de reajustamento do benefício do segurado ex-combatente, estabelecido pela Lei 5.698/1971, regulamentado pelo Decreto 2.172/97, envolve o exame da legislação infraconstitucional, de modo que se trata de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário. Confira-se o RE 433.478-AgR-AgR, Segunda Turma, rel. min. Eros Grau, DJ de 05.05.2006:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PENSÃO ESPECIAL. EX-COMBATENTE. TETO DE REMUNERAÇÃO. MATÉRIA INFRACONSTITUCIONAL.
+2. Ex-combatente. Pensão especial. Teto de remuneração. Constituição do Brasil, artigo 37, XI. Fixação de subsídio. Inexistência de lei específica. Vulneração do preceito constitucional. Impossibilidade.
+3. Leis n. 4.297/63 e n. 5.698/71 e Decreto n. 2.172/97. Fixação do teto remuneratório. Violação do dispositivo da Constituição do Brasil a partir da interpretação de disposições de legislação infraconstitucional. Inviabilidade do recurso extraordinário.
+Agravo regimental não provido.”
+Nesse sentido: RE 368.433-AgR, rel. min. Ellen Gracie, DJ de 07.08.2009; RE 552.387-AgR, rel. min. Ellen Gracie, DJe de 01.07.2009; RE 447.761-AgR, rel. min. Cármen Lúcia, DJe de 25.09.2009 e RE 452.961, rel. min. Sepúlveda Pertence, DJ de 28.02.2007.
+Por fim, a tese de ofensa ao art. 5º, XXXVI, por demandar o exame prévio dos limites objetivos da coisa julgada em face da legislação processual infraconstitucional, é indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 372.358-AgR (rel. min. Celso de Mello, Segunda Turma, DJ de 28.06.2002), AI 360.265-AgR (rel. min. Celso de Mello, Segunda Turma, DJ de 20.09.2002), AI 401.735-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 01.04.2005), AI 451.773-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJ de 01.09.2006), RE 374.498-AgR (rel. min. Carlos Britto, Primeira Turma, DJ de 22.10.2004).
+Do exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 08 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
