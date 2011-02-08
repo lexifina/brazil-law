@@ -1,0 +1,18 @@
+D ECIS Ã O:  1. Trata-se de pedido de extensão ao Mandado de Segurança nº 990.10.504018-7, em trâmite no Tribunal de Justiça de São Paulo, dos efeitos da suspensão concedida nesses autos aos Mandados de Segurança  nº 990.10.212308-1, nº 990.10.202752-0 e nº 990.10.213448-2.
+Sustenta o requerente que o pedido de sequestro de verbas da Fazenda municipal fora rejeitado pelo Tribunal de Justiça paulista, sob fundamento de superveniência da EC nº 62/09. Contra a decisão, a Associação Santo Agostinho teria impetrado a segurança, concedida pela Corte a quo, para prosseguimento do pedido de sequestro, decidindo ser inconstitucional a nova sistemática, no que diz respeito aos precatórios pendentes e aos inadimplidos pela Fazenda Pública. Junta andamento processual atualizado, do qual consta publicação, em 20.1.2011, da decisão deferitória de pedido de sequestro.
+No pedido de extensão, a municipalidade alega, em síntese, haver grave lesão à ordem e à economia públicas.
+2. É caso de extensão.
+De acordo com o regime legal de contracautela (Leis nºs 12.016/09, 8.437/92, 9.494/97 e art. 297 do RISTF), compete a esta Presidência suspender execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+A cognição do pedido exige, contudo, demonstração da natureza constitucional da controvérsia (cf. Rcl nº 497-AgR, Rel. Min. CARLOS VELLOSO, Plenário, DJ de 06.4.2001; SS nº 2.187-AgR, Rel. Min. MAURÍCIO CORRÊA, DJ de 21.10.2003 e; SS nº 2.465, Rel. Min. NELSON JOBIM, DJ de 20.10.2004).
+Está preenchido o requisito, pois em jogo, aqui, suposta inconstitucionalidade da EC nº 62/09, fundamento adotado pelo Tribunal de Justiça de São Paulo para conceder a ordem. Não há dúvida, portanto, de que a matéria discutida na origem se reveste de índole constitucional.
+A sistemática de contracautela permite, ainda, que o Presidente do Tribunal estenda os efeitos da suspensão a liminares supervenientes cujo objeto seja idêntico, mediante simples aditamento do pedido original. Verifico, no caso, identidade de objeto entre a decisão que se pretende suspender e a que já foi suspensa.
+A questão relativa à constitucionalidade da EC nº 62/09 é objeto de três ações diretas de inconstitucionalidade nesta Corte, todas de relatoria do Ministro AYRES BRITTO: ADI nº 4357, ADI nº 4372 e ADI nº 4400, nas quais já foi adotado o rito abreviado de que trata o art. 12 da Lei nº 9.868/99.
+Nesses termos, julgo oportuno aguardar pronunciamento da Corte, para maior segurança jurídica de todos os interessados, sobretudo em tema que envolve a complexa questão dos precatórios, objeto de intensa controvérsia e algumas moratórias constitucionais.
+Ademais, a jurisprudência desta Corte admite deferimento de pedido de suspensão com fundamento na possibilidade de repetição de inúmeros feitos idênticos (SS nº 1836-AgR, Rel. Min. CARLOSO VELLOSO, Plenário, DJ de 11.10.2001). Não bastasse o notório potencial para multiplicação de feitos que o tema “precatórios” apresenta, verifico, no caso, que o efeito multiplicador já está caracterizado, ante a repetição de alguns pedidos de suspensão que têm chegado a esta Presidência.
+3. Ante o exposto, defiro o pedido de extensão, para suspender a execução da decisão proferida nos autos do Mandado de Segurança nº 990.10.504018-7.
+Exp. com urgência telex e ofício ao Tribunal de Justiça de São Paulo.
+Publique-se. Int..
+Brasília, 8 de fevereiro de 2011.
+Ministro C EZAR P ELUSO
+Presidente
+Documento assinado digitalmente
