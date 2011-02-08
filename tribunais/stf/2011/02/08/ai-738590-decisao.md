@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. FARMÁCIA. VENDA DE PRODUTOS DENOMINADOS “NÃO CORRELATOS”. IMPOSSIBILIDADE. I – O indeferimento de prova pericial não implica em cerceamento do direito de defesa quando há nos autos elementos suficientes à formação do convencimento do julgador, notadamente em sendo a matéria unicamente de direito. II – A farmácia, tal como disciplinada no art. 4º da Lei nº 5.991/73, está autorizada a comercializar os produtos típicos e os correlatos à sua atividade, ficando reservada às lojas de conveniência ou drugstores a venda dos artigos que, igualmente, lhe são próprios. Precedentes. III – O licenciamento, indispensável ao exercício do comércio, como ato administrativo vinculado que é, pauta-se pela estrita legalidade. APELAÇÃO CONHECIDA E IMPROVIDA”. (fl. 191).
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa aos artigos 1º, caput; 2º, I e II; 5º, caput, II, XIII, XXXV, XXXVI e LV; 24, caput, XII e §§ 1º e 4º; 37, II, IV e § único; 170 e 199, do texto constitucional.
+Nas razões recursais, alega-se, em síntese, que:
+“No presente caso, o objetivo da propositura da presente ação é para que a recorrente possa comercializar em seus estabelecimentos produtos correlatos e não correlatos, funcionando no mesmo estabelecimento e em seções devidamente separadas, de drogaria e drugstore, permitindo assim aos consumidores o pagamento de contas, bem como a aquisição de produtos alimentícios, prestação de serviços e outros, o que facilitará e muito a vida de seus clientes e de toda a coletividade”.
+Decido.
+O recurso não merece prosperar.
+Na espécie, o acórdão recorrido apreciou a controvérsia à luz da Lei nº 5.991/73, que dispõe sobre o controle sanitário do comércio de drogas, medicamentos, insumos farmacêuticos e correlatos.
+Para decidir de forma diversa, faz-se indispensável o reexame da legislação infraconstitucional aplicada à espécie, providência vedada em recurso extraordinário.
+Nesse sentido, confiram-se os seguintes precedentes proferidos em situação análoga a dos autos: AI 776.810, Rel. Min. Cármen Lúcia, DJe 18.11.2010; AI 676.405, Rel. Min. Cármen Lúcia, DJe 13.8.2008; AI 660.937, Rel. Min. Cármen Lúcia, DJe 14.3.2008 e AI 494.241, Rel. Min. Sepúlveda Pertence, DJ 11.11.2004.
+Por fim, a jurisprudência deste Supremo Tribunal é firme no sentido de que a violação aos postulados da legalidade, da ampla defesa, do contraditório, do devido processo legal, da motivação dos atos decisórios e da prestação jurisdicional, configura ofensa reflexa à Constituição Federal.
+Confiram-se, a propósito, os seguintes julgados: o AI-AgR 701.567, Rel. Min. Dias Toffoli, Primeira Turma, DJe 27.8.2010, AI-AgR 728.267, Rel. Min. Dias Toffoli, Primeira Turma, DJe 27.8.2010 e AI- AgR 702.750, Rel. MIn. Ellen Gracie, Segunda Turma, DJe 6.8.2010, este último com acórdão assim ementado:
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, XXXV, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. PRECEDENTES. 1. O Tribunal a quo decidiu a questão com base na legislação infraconstitucional aplicável à espécie (CTN e Lei 6.830/80), cujo exame é defeso nesta sede recursal. 2. A alegação de ofensa aos postulados constitucionais da legalidade, da ampla defesa, do contraditório, do devido processo legal, da motivação dos atos decisórios e da prestação jurisdicional, configura, quando muito, ofensa meramente reflexa ao texto constitucional. 3. Agravo regimental improvido”.
+Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 8 de fevereiro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
