@@ -1,0 +1,45 @@
+D ECIS Ã O:
+Vistos.
+RUBENS LIMA FARIAS E OUTROS impetram mandado de segurança, com pedido de liminar, em face do colendo CONSELHO NACIONAL DE JUSTIÇA, com o objetivo de declarar a nulidade de ato que determinou o afastamento de servidores do egrégio Tribunal de Justiça do Estado do Pará.
+A inicial apresenta os seguintes argumentos:
+a) o c. CNJ, em pedido de providências, determinou o desligamento dos quadros do e. TJPA, em razão de que não foram admitidos por regular concurso público;
+b) o ato é nulo, porque o CNJ limitou-se a determinar que o e. TJPA intimasse os servidores temporários, sendo certo que não foi concedido aos impetrantes o benefício do devido processo legal, com os consectários da ampla defesa e do contraditório;
+c) os atos administrativos do e. TJPA foram atingidos pela prescrição;
+d) os impetrantes são beneficiados pela presunção de boa-fé e pelo princípio da confiança legítima, o que se caracteriza pela contribuição ao Fundo Previdenciário Estadual por vários anos.
+Pede-se liminar para os fins de suspender os efeitos do acórdão do c. CNJ em relação aos autores.
+No mérito, pede-se a decretação de nulidade do ato administrativo.
+Requeridos os benefícios da Justiça Gratuita.
+Documentos eletrônicos juntados.
+Determinei a prévia oitiva do CNJ, que, em informações eletrônicas, assim se manifestou:
+a) os pedidos de providências foram instaurados em face do egrégio Tribunal de Justiça do Estado do Pará, afim de que investigar a situação dos servidores contratados temporariamente;
+b) os impetrantes foram cientificados das informações prestadas pelo Tribunal de Justiça;
+c) o e. TJPA forneceu informações sobre a situação cadastral dos servidores;
+d) a efetivação dos servidores foi considerada inválida, porque realizada de modo secreto e sem concurso público;
+e) foi assinado prazo de cento e oitenta dias para a realização das medidas necessárias à implementação do comando do CNJ.
+A UNIÃO requereu seu ingresso na lide.
+É o relatório.
+A causa resume-se a dois aspectos essenciais:
+a) A existência de situação jurídica consolidada, de boa-fé, com mais de vinte anos de eficácia continuativa, de pessoas ocupantes de loci na Administração Pública (Tribunal de Justiça do Estado do Pará) sem concurso público.
+b) Os atos de exautoração desses agentes públicos dar-se-á sem realização do contraditório e da ampla defesa, com violação ao devido processo legal.
+Quanto ao primeiro aspecto, tenho por certo e evidente, em sede de juízo liminar , que os impetrantes não possuem direito a permanecer em seus cargos sob o império das teses acima delineadas.
+Sou francamente partidário da necessidade de concurso público como elemento nuclear da formação de vínculos estatutários efetivos com a Administração, em quaisquer níveis. Eventuais situações de excepcionalidade, reconhecidas pelo STF, como no caso INFRAERO (MS 22357, Relator Min. GILMAR MENDES , Tribunal Pleno, julgado em 27/05/2004, DJ 05-11-2004), não podem ser dilatadas para toda e qualquer hipótese de fato.
+A regra é o concurso público, isonômico e universal.
+Ademais, no que se refere ao problema da boa-fé e da eficácia continuativa das relações jurídicas, entendo que não pode haver usucapião de constitucionalidade. A obrigatoriedade da Constituição deriva de sua vigência. Não é possível entender que o tempo derrogue a força obrigatória de seus preceitos por causa de ações omissivas ou comissivas de autoridades públicas.
+É o que a doutrina reconhece, quando aduz que (...) o servidor não-estável não é protegido pelos Estatutos dos Servidores Públicos Civis, não se estendendo a ele, por conseguinte, os direitos previstos na lei estatutária. Significa dizer que, nessa situação, o servidor de fato não pode requerer contagem do tempo de serviço público, estabilidade, progresso funcional, licenças especiais, licença-prêmio, aposentadoria paga pelos cofres públicos etc. Nem pretender que o tempo de trabalho prestado à Administração Pública conte como título, quando se submeter a concurso público - direito só facultado aos estáveis, nos termos do art. 19, § 1.º, do ADCT . (ALBUQUERQUE, Rogério Bonnassis de. Antijuridicidade da situação do servidor não-concursado e não alcançado pela estabilidade do art. 19 ADCT. Revista de Direito Constitucional . v. 7, p. 116, abr.-jun. 1994).
+Quanto ao segundo tópico da argumentação, é farta a jurisprudência do STF no sentido de que os procedimentos do CNJ, como de resto em todos os demais, hão de obedecer os cânones do contraditório, da ampla defesa e do due process of law . Não há como se interferir na esfera jurídica de terceiros sem prévia notificação. A tanto, cito acórdão que serve de paradigma a essa posição:
+CONSELHO NACIONAL DE JUSTIÇA - ATUAÇÃO - TERMO INICIAL. A atuação fiscalizadora do Conselho Nacional de Justiça não ficou balizada no tempo, considerada a Emenda Constitucional nº 45/2004. CONSELHO NACIONAL DE JUSTIÇA - DEVIDO PROCESSO LEGAL - CONTRADITÓRIO. Envolvida, no processo administrativo, situação constituída no tocante a terceiros, impõe-se a ciência destes para, querendo, apresentarem defesa. CONSELHO NACIONAL DE JUSTIÇA - DEVIDO PROCESSO LEGAL - CIÊNCIA FICTA. A espécie de conhecimento ficto, presente publicação ou edital fixado em setor do Órgão, pressupõe a ciência do processo em curso, surgindo como regra a comunicação direta. CONSELHO NACIONAL DE JUSTIÇA - PROCESSO - CIÊNCIA - ARTIGO 98 DO REGIMENTO INTERNO. Desconhecida a existência do processo, mostra-se inconstitucional dispositivo do Regimento Interno do Conselho Nacional de Justiça - artigo 98 - prevendo a ciência ficta de quem pode ser alcançado por decisão administrativa. CONCURSO PÚBLICO - NOTÁRIOS E REGISTRADORES - COMISSÃO. Faz-se regular a comissão de concurso com a participação, personificando notários e registradores, da Presidente da entidade de classe, pouco importando seja esta notária ou registradora.
+(MS 25962, Relator Min. MARCO AURÉLIO , Tribunal Pleno, julgado em 23/10/2008, DJe-053 20-03-2009)
+No entanto, em situações nas quais não há prova do prejuízo e ocorreu o atendimento da finalidade do ato, conforme o velho axioma pas de nulité sans grief, é possível afastar os rigores formais, como se dá na notificação feita pelo Tribunal de Justiça e que dá ciência aos interessados de manifestação do CNJ.
+Transcrevo excerto da petição inicial, na qual se alude especificamente a esse ponto:
+132. Noutro giro, resta o periculum in mora configurado com o advento da Portaria nº 2184/2010-GP (DOC. 43), que instituiu comissão responsável por cumprir o que determinou as alíneas b e c da decisão colegiada do CNJ, quais sejam: a) identificar os servidores alcançados pela decisão do CNJ a fim de possibilitar o desligamento destes no prazo de 180 (cento e oitenta) dias; e, b) elaborar projeto de reestruturação do quadro de servidores do TJE-PA, promovendo assim o imediato aproveitamento dos candidatos aprovados no concurso público nº 002/2009, de 26/01/2009, dentro do número de vagas ofertados no edital, procedendo à nomeação de acordo com a ordem de classificação nas vagas que vierem a abrir em razão do desligamento dos servidores irregulares.
+133. Acentue-se ainda neste contexto que o TJE, apenas abrirá prazo para a defesa aos servidores atingidos pelo ato abusivo ora combatido que ainda não foram notificados da decisão. Desta forma, considerando que à Comissão do TJE caberá apenas identificar os servidores e proceder seu desligamento, sem oportunizar ampla defesa e contraditório de forma individualizada, é patente a iminência de desrespeito dos direitos legalmente outorgados aos Impetrantes, quais seja, somente ser demitido a partir de um processo administrativo que lhe garanta ampla defesa e contraditório, conforme exposto no item II.2 deste petitório.
+134. Ademais, ao desconstituir o vínculo funcional efetivo que o TJE-PA mantém com os Impetrantes até os dias atuais, através do desligamento, estes ficarão a mercê da própria sorte, sem qualquer forma de prover seu sustento e de seus familiares. E mais grave ainda, a desocupação dos cargos pelos Impetrantes seguir-se-á do chamamento dos aprovados no concurso público nº 002/2009, de 26/01/2009.”
+Não resta evidente a ocorrência da alegada nulidade formal.
+No entanto, é de todo conveniente que se ressalve a prática do ato administrativo em obediência a esse primado, sob pena de que ocorra sua anulação superveniente por essa ratio . Muita vez, a demora na realização de atos ligados ao princípio da moralidade é um preço pequeno a ser pago em nome da higidez permanente da medida saneadora.
+Ante o exposto, indefiro os termos da liminar, mas determino que sejam observados no processamento dos atos da comissão responsável pela apuração do status funcional dos servidores os princípios constitucionais, assegurando-se a mais ampla defesa e o contraditório, sob pena de invalidação superveniente dos atos.
+Defiro o pedido de ingresso da UNIÃO na lide, com as providências de estilo em relação à intimação dos atos processuais.
+Publique-se. Int..
+Brasília, 8 de fevereiro de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
