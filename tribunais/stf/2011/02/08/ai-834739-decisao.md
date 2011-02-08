@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo de instrumento, contra decisão denegatória de recurso extraordinário, este manejado com suporte nas alíneas “a” e “c” do inciso III do artigo 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado De Minas Gerais. Acórdão assim ementado (fls. 6):
+“ ADMINISTRATIVO. AÇÃO ORDINÁRIA. GRATIFICAÇÃO DE CURSO DE PÓS-GRADUAÇÃO. NÃO RECONHECIMENTO PELO ESTADO. COMPETÊNCIA DE CADA ESTADO PARA DISPOR ACERCA DA VALIDADE DOS CERTIFICADOS PARA OBTENÇÃO DE DIREITOS E VANTAGENS FUNCIONAIS. IMPROCEDÊNCIA DO PEDIDO. SENTENÇA MANTIDA. Cada ente federado é livre para organizar seu pessoal, mediante lei, com exclusividade e observância às normas constitucionais pertinentes aos servidores públicos. O Estado tem, com isto, legitimidade para instituir direitos destinados ao seu funcionalismo público, prevendo, nesse contexto, critérios e requisitos para obtenção de vantagens remuneratórias. No caso concreto, os autores não fazem jus à gratificação prevista na Lei Estadual n° 7.109, de 13 de outubro de 1977, eis que os cursos não presenciais que concluíram são considerados desprovidos de validade pelo Sistema de Ensino do Estado de Minas Gerais e, também, para fins de concessão de vantagem funcional.”
+2. Pois bem, os recorrentes sustentam violação ao inciso IV do art. 1º, ao caput e aos incisos LIV e LV d art. 5º, ao caput do art. 37, ao inciso IV do art. 170, ao inciso XXIV do art. 22, bem como aos incisos I e II do art. 209, todos da Carta Magna Federal.
+3. Tenho que a insurgência não merece acolhida. De saída, pontuo que, à exceção do inciso XXXIV do art. 22, os demais dispositivos constitucionais tidos por violados não foram apreciados no aresto impugnado, não havendo sido opostos embargos declaratórios para suprir eventual omissão. Falta, portanto, o necessário prequestionamento, nos termos das Súmula 282 e 356/STF.
+4. De outra parte, anoto que entendimento diverso do adotado pela instância judicante de origem exigiria a análise da legislação infraconstitucional pertinente, bem como o revolvimento do conjunto fático-probatório dos autos (Súmula 279/STF). Providências vedadas neste momento processual.
+5. À derradeira, quanto à alínea “c” do inciso III do art. 102 da Magna Carta de 1988, é de se aplicar a Súmula 284/STF.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 25 de fevereiro de 2011.
+Ministro AYRES BRITTO
+Relator
