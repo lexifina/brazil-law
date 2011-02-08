@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a e b, da Constituição federal) interposto de acórdão, proferido por Tribunal Regional Federal, cuja ementa possui o seguinte teor:
+“PROCESSUAL CIVIL E TRIBUTÁRIO. PRELIMINARES AFASTADAS. TÍTULOS DA DÍVIDA PÚBLICA EMITIDOS NO INÍCIO DO SÉCULO XX. PRESCRIÇÃO RECONHECIDA. COMPENSAÇÃO COM TRIBUTOS FEDERAIS. IMPOSSIBILIDADE.
+1. Afastadas as preliminares de carência de ação e inépcia, tendo em vista que o pedido encontra-se previsto no nosso ordenamento jurídico e os fatos e os fundamentos jurídicos do pedido estão especificados na inicial, de forma clara.
+2. A prescrição da dívida decorrente do resgate dos títulos da dívida pública e do pagamento dos respectivos juros está prevista no art. 60 da Lei nº 4.069/62, que estabeleceu o prazo de cinco anos para os interessados reclamarem o seu pagamento, de forma que, os créditos que a autora alega possuir contra a União Federal encontram-se atingidos pela prescrição.
+3. Não há que falar em inconstitucionalidade do Decreto-Lei n. 263/67, por vício de origem, m razão de ter estabelecido, em seu art. 3º, a extinção da dívida decorrente de Títulos da Dívida Pública, se não resgatados no prazo ali fixado, tendo em vista que o Poder Executivo estava autorizado a legislar sobre finanças públicas por meio de decreto-lei, nos termos do art. 9º, § 2º, do Ato Institucional n. 04, de 07.12.66. O mesmo se diga em relação ao Decreto-Lei n. 396/68, que prorrogou o prazo de apresentação dos títulos para resgate, com base na autorização dada pelo art. 2º, § 1º, do Ato Institucional n. 05, de 13.12.68.
+4. Os referidos Decretos-leis não regularam, em termos gerais, sobre prescrição ou decadência, mas, tão-só, sobre aspecto essencial dos mesmos títulos, qual seja, o prazo de resgate dos títulos, que se encontra, também, inserido no âmbito das finanças públicas.
+5. O § 3º do art. 30 da Medida Provisória n. 1.238/95, porque suprimido do texto antes de sua apreciação pelo Congresso Nacional, não tem aptidão para ressuscitar a validade dos títulos emitidos no início do século XX e já atingidos pela prescrição, uma vez que às Medidas Provisórias não se aplica o disposto no art. 4º, § 1º, da Lei de Introdução ao Código Civil, diante do que dispõe o § 3º do art. 62 da Constituição Federal de 1988.
+6. Apelação da autora provida para afastar a carência de ação, mas, no mérito, o pedido é improcedente (art. 515, § 3º, do CPC).” (fls. 80)
+Alega-se, em síntese, violação do disposto nos arts. 5º, caput, XXII e XXXVI, e 37, caput, da Constituição federal em vigor, e de vários dispositivos de Constituições federais pretéritas.
+O recurso não merece seguimento.
+Observo que o Tribunal de origem também se baseou no art. 60 da Lei 4.069/1962 para concluir pela prescrição do direito da recorrente. Tal fundamento suficiente não foi impugnado, sendo aplicável o disposto na Súmula 283/STF.
+Ademais, ainda que superado tal óbice, verifico que concluir diversamente do acórdão recorrido demandaria o prévio exame da legislação infraconstitucional e do quadro fático-probatório. Isso inviabiliza o processamento do recurso extraordinário, em face das vedações contidas nos enunciados das Súmulas 279 e 636/STF.
+Em sentido semelhante, confiram-se: RE 405.320-AgR (rel. min. Ellen Gracie, DJ de 06.08.2004); AI 465.366-AgR (rel. min. Sepúlveda Pertence, DJ de 27.02.2004) e AI 451.927-AgR (rel. min. Nelson Jobim, DJ de 21.11.2003).
+Por fim, observo que o Tribunal de origem não declarou a inconstitucionalidade de tratado ou lei federal, portanto é incabível a fundamentação do recurso extraordinário na alínea b do inciso III do art. 102 da Constituição federal.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 8 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
