@@ -1,0 +1,14 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“ADMINISTRATIVO. DISPENSA DE ESTUDANTE DE MEDICINA DO SERVIÇO MILITAR POR EXCESSO DE CONTINGENTE.
+Tendo o autor sido dispensado do serviço militar por excesso de contingente em 2000, incabível a sua convocação após sete anos de dispensa” (fl. 114).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, caput, XXXV, LIV, LV e § 2º, 93, IX, 97 e 143 da mesma Carta.
+O agravo não merece acolhida. É que a questão debatida nos autos concernente à impossibilidade de convocação para prestação de serviço militar obrigatório de profissional da área de saúde que fora dispensado por excesso de contingente, foi decidida à luz da legislação infraconstitucional aplicável à espécie (Leis 4.375/64 e 5.292/67 e Decreto 57.654/66). Assim, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido: AI 615.302/RS, Rel. Min. Gilmar Mendes; AI 793.110/RS, Rel. Min. Cármen Lúcia; AI 786.202/RS, Rel. Min. Dias Toffoli; e AI 760.369/RS, de minha relatoria.
+Ademais, a jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE SUPRESSÃO DE INSTÂNCIA. ART. 515, § 3º, DO CÓDIGO DE PROCESSO CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 631.452-AgR/DF, Rel. Min. Cármen Lúcia, Primeira Turma).
+Cumpre ressaltar que, a exigência do art. 93, IX, da Constituição, não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador diga de forma clara e concisa as razões de seu convencimento, tal como ocorreu.
+Por fim, no que tange ao art. 97 da Constituição Federal, a pretensão recursal não merece acolhida. É que, no caso, não houve declaração de inconstitucionalidade de diploma legislativo por parte de órgão fracionário.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 9 de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
