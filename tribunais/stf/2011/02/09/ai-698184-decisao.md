@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) contra acórdão do Tribunal Regional Federal da 4ª Região que manteve a sentença que julgou procedentes os embargos à execução opostos pela Universidade Federal de Pelotas para declarar a nulidade da execução. Cito a ementa do acórdão recorrido (fls. 114):
+“ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. TEMPESTIVIDADE. PRAZO ART. 730 CPC. DUPLO PAGAMENTO. VEDAÇÃO JURÍDICA. ÔNUS DA PROVA.
+1. Vigente o prazo de 30 (trinta) dias para a oposição de embargos à execução pela Fazenda Pública (Argüição de Inconst. na AC nº 2000.72.05.002704-4/SC, Rel. Des. Luiz Carlos de Castro Lugon, Rel. para Acórdão Des. Fábio Rosa, maioria, DJ 18-09-2002, p. 304). Vinculação a essa decisão, nos termos do artigo 151 do RITRF 4ª Região.
+2. O art. 4º da Lei n.º 8.627/93 previu regra específica para os titulares de cargos de magistério superior, de modo que os professores universitários não fazem jus à extensão do reajuste de 28,86%, determinado pelo Pretório Excelso, por já terem sido beneficiados diretamente pela Lei n.º 8.627/93.
+3. Devem ser considerados os pagamentos que efetivamente foram realizados pela Autarquia Federal, sendo que da análise dos elementos dos autos - planilhas financeiras - é possível verificar que não há o que executar, havendo a parte embargante, dessa forma, se desincumbido do ônus que lhe competia.”
+Nas razões de recurso extraordinário, o ora agravante alega que o acórdão recorrido violou o art. 5º, XXXVI, da Constituição federal, ao entender que o “valor devido apurado com crédito do autor deveria ser compensado com o reajuste salarial decorrente da lei 8.627/93” (fls. 135).
+A alegada ofensa art. 5º, XXXVI, por demandar o exame prévio dos limites objetivos da coisa julgada em face da legislação processual infraconstitucional, é indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 372.358-AgR (rel. min. Celso de Mello, Segunda Turma, DJ de 28.06.2002), AI 360.265-AgR (rel. min. Celso de Mello, Segunda Turma, DJ de 20.09.2002), AI 401.735-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 01.04.2005), AI 451.773-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJ de 01.09.2006), RE 374.498-AgR (rel. min. Ayres Britto, Primeira Turma, DJ de 22.10.2004).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 9 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
