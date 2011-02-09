@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“TRIBUTÁRIO. LEGITMIDADE PASSIVA DA ELETROBRÁS E DA UNIÃO. CARÊNCIA DE AÇÃO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. PRESCRIÇÃO. CORREÇÃO MONETÁRIA. ÍNDICES APLICÁVEIS. EXPURGOS INFLACIONÁRIOS. JUROS. CUSTAS PROCESSUAIS. HONORÁRIOS ADVOCATÍCIOS.(...)” (fls. 159-160).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, e 37, caput, da mesma Carta, bem como ao art. 34, § 12, do ADCT.
+O agravo não merece acolhida. Isso porque, a Suprema Corte fixou entendimento no sentido de que a questão da correção dos títulos relativos à restituição do empréstimo compulsório incidente sobre o consumo de energia elétrica situa-se no âmbito infraconstitucional. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. RESTITUIÇÃO. LEGITIMIDADE AD CAUSAM DA UNIÃO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 583.117 AgR/PR, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EMPRÉSTIMO COMPULSÓRIO. ENERGIA ELÉTRICA. LEI N. 4.156/62. DEVOLUÇÃO. CORREÇÃO MONETÁRIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. Controvérsia relativa aos critérios de correção monetária utilizados para a devolução do empréstimo compulsório incidente sobre o consumo de energia elétrica, instituído pela Lei n. 4.156/62. Matéria de índole infraconstitucional. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento” (AI 578.377-AgR/SC, Rel. Min. Eros Grau, Segunda Turma).
+Ressalte-se, por fim, que, os Ministros desta Casa, no AI 735.933/RS, Rel. Min. Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral do tema constitucional versado nos presentes autos - critérios de correção monetária utilizados para a devolução do empréstimo compulsório incidente sobre o consumo de energia elétrica –. Por oportuno, trago à colação trecho da manifestação proferida pelo relator no referido julgado:
+“Verifico que a controvérsia relativa aos critérios de correção monetária utilizados para a devolução do empréstimo compulsório incidente sobre o consumo de energia elétrica, instituído pela Lei n. 4.156/62 é matéria de índole infraconstitucional. Eventual ofensa à Constituição Federal, se houvesse, seria de forma indireta, hipótese que impede a admissão do recurso extraordinário”.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 9 de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
