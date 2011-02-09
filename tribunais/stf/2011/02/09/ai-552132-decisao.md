@@ -1,0 +1,16 @@
+DECISÃO: À vista dos documentos apresentados (fls. 126 e 141), defiro o pedido de habilitação e determino a substituição do agravante Sr. Antônio Carlos Magalhães pelo seu espólio, representado pela inventariante, a Sra. Arlette Maron de Magalhães, nos termos do artigo 43 do Código de Processo Civil.
+À Secretaria, procedam-se às anotações de estilo.
+Passo ao exame do recurso.
+Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa tem o seguinte teor (fls. 17):
+“AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS – Procedência parcial da demanda decretada em primeiro grau – Decisório que não merece subsistir – Hipótese em que não se extrai do contexto da entrevista em causa o ânimo de caluniar ou difamar o autor, como alardeado na petição inicial, ficando evidenciado, em princípio, que a acionada, sem distorções ou acréscimos, procurou relatar fatos que teria presenciado, envolvendo o ex-marido – Não se entrevê, de outra banda, a potencialidade lesiva do teor da entrevista, de modo a causar sério abalo psíquico ou comprometimento profundo da imagem pública do autor – Homem público, detentor de parcela expressiva de poder, que está preparado para responder informações inverídicas, expressões valorativas de conteúdo negativo e até questionamentos éticos, não se podendo empenhar daí a responsabilização civil dos contendores sem que fique evidenciada mera difusão da malignidade, desprovida de interesse social – Recurso da ré provido para julgar improcedente a ação, ficando prejudicado o apelo do autor.”
+Nas razões do recurso extraordinário, indica-se ofensa ao disposto no art. 5º, X, da Constituição federal. Sustenta-se a procedência do pedido de reparação civil por dano moral.
+É o relatório. Decido.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do artigo supracitado, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta da apelação, deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, DJ de 15.09.2000), cujo acórdão ficou assim ementado:
+“– Não tem razão a agravante. Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento.
+Agravo a que se nega provimento.”
+Por outro lado, impossível chegar a conclusão diversa sem o reexame de prova, o que dá margem ao descabimento do recurso extraordinário (Súmula 279).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 09 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
