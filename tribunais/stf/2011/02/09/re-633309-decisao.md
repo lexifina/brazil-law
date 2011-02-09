@@ -1,0 +1,8 @@
+Trata-se de recurso extraordinário interposto contra acórdão que, aplicou orientação estabelecida em Arguição de Inconstitucionalidade, por meio da qual declarou-se a inconstitucionalidade do art. 12 da Lei 7.713/1988, sem redução de texto, apenas no que tange ao imposto de renda sobre verbas recebidas acumuladamente, sob o entendimento de que nessa hipótese devem ser aplicadas as tabelas e as alíquotas da época em que o contribuinte deveria ter recebido as parcelas correspondentes.
+Neste RE, fundado no art. 102, III, b, da Constituição, sustentou-se, ofensa aos arts. 5º e 37, da mesma Carta. Alegou-se, ainda, que os princípios constitucionais da progressividade, da capacidade contributiva e da isonomia não foram violados, ao argumento de que a União, ora recorrente, não foi responsável pelo atraso nos pagamentos e que efetivamente houve acréscimo patrimonial na renda do contribuinte.
+No caso, o recurso extraordinário versa sobre matéria – forma de cálculo do imposto de renda sobre rendimentos pagos acumuladamente, se por regime de caixa ou de competência – cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (RE 614.232-AgR-QO/RS e RE 614.406-AgR-QO/RS, Rel. Min. Ellen Gracie).
+Isso posto, determino, com fundamento no art. 328, parágrafo único, do RISTF, a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no presente extraordinário discute-se questão idêntica à apreciada no RE 614.232-AgR-QO/RS e no RE 614.406-AgR-QO/RS.
+Publique-se.
+Brasília, 9 de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
