@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 22):
+“AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA – TRABALHADOR PORTUÁRIO AVULSO – SUBMISSÃO DA DEMANDA À COMISSÃO PARITÁRIA – INEXIGIBILIDADE. A previsão constante no art. 23 da Lei nº 8.630/93 tem por escopo facilitar a conciliação extrajudicial dos conflitos, tendo em vista aliviar a sobrecarga do Judiciário Trabalhista, que em muito tem contribuído para impactar negativamente a celeridade na entrega da prestação jurisdicional, militando contra os princípios informadores do processo do trabalho, notadamente os da economia e celeridade processuais. Todavia, não há nenhuma determinação de que a submissão do litígio à Comissão Paritária seja condição prévia de admissibilidade de ajuizamento de ação. A lei, com certeza, não criou tal pressuposto processual. Note-se, ademais, que não há o estabelecimento de nenhuma sanção legal aplicável caso a questão não seja submetida à Comissão Paritária previamente à interposição da demanda judicial. Oportuno ressaltar que a obrigatoriedade diz respeito, tão somente, à constituição da Comissão Paritária.
+Agravo de instrumento desprovido. ”
+Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 2º, 5º, II e XXXV, 7º, XXVI, e 37, caput, da Constituição federal. Sustenta-se que não pode ser responsabilizado solidariamente.
+É o relatório. Decido.
+Não merece reparos a decisão agravada.
+Extraio do acórdão recorrido (fls. 28):
+“(...) Alegou que o reclamante nunca foi empregado da agravante. O obreiro é trabalhador avulso vinculado direta e unicamente ao seu sindicato de classe, e a agravante apenas administra o trabalho nos portos, repassando a mão-de-obra fornecida pelo sindicato aos armadores e empresas de navegação.
+Com efeito, é certo que a solidariedade, como dispõe o art. 265 do CC/2002 (antigo art. 896 do CC/1916), não se presume, mas resulta da previsão em norma legal ou da vontade das partes.
+No caso, a responsabilidade solidária está prevista taxativamente na Lei nº 8.630/93, que, em seu art. 19, § 2º, expressamente define a responsabilidade solidária do Órgão Gestor de Mão de Obra conjuntamente com os operadores portuários pelas verbas devidas ao trabalhador portuário avulso.
+Nos termos da citada lei, o Órgão Gestor de Mão de Obra dispõe do cadastro dos avulsos e, consequentemente, dos destinatários da prestação de serviço desses trabalhadores, podendo identificá-los. Além do mais, a ele é inerente o poder disciplinar e a responsabilidade pela preservação da higidez física do trabalhador e do meio ambiente de trabalho, afora, é claro, a nítida capacidade de remunerá-lo em face da possibilidade de dirigir-lhe os serviços.
+Cabe ressaltar, outrossim, que o fato de se tratar de figura intermediária instituída por lei sem finalidade lucrativa não afasta a sua legitimidade passiva, à luz da regra principiológica do art. 2º, § 1º, da CLT.
+Como se percebe, em se tratando de remuneração, quis o legislador garantir ao trabalhador avulso o direito de postular o recebimento do que lhe é devido de qualquer daqueles que tenham disponibilidade sobre o numerário que satisfaz seu crédito pelo serviço prestado, quer seja o tomador dos serviços, quer seja o agente intermediário na satisfação do crédito trabalhista.
+Conclui-se que, nos termos dos arts. 19, § 2º, da Lei 8.630/93 e 275 do CC/2002, o Órgão Gestor de Mão de Obra é responsável solidariamente pelos direitos trabalhistas devidos ao reclamante trabalhador portuário.
+Ressalte-se que o Órgão Gestor de Mão de Obra tem o direito de regresso contra o operador portuário ou armador, caso este não lhe tenha pago o valor do serviço prestado, para repasse aos trabalhadores portuários.”
+Desta feita, a análise da alegada ofensa ao texto da Constituição demanda o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de violação indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário.
+Ademais, o recurso extraordinário, ao alegar que o acórdão recorrido ofende os preceitos dos arts. 2º, 5º, XXXV, 7º, XXVI, e 37, caput, versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 9 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
