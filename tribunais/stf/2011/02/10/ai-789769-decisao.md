@@ -1,0 +1,13 @@
+Referente às Petições/STF 30.547/2010 (fax) e 31.580/2010 (originais) (fls. 139-141 e 144-146, respectivamente):
+1.  Cuida-se de pleito em que Generoso Candido de Oliveira e outros requerem o desentranhamento das petições de agravo regimental erroneamente protocoladas junto às fls. 349-354 e 358-364 do AI 789.785/PR e sua juntada a estes autos.
+2.  Alega a parte agravada que tal protocolização se deu erroneamente em razão de ambos os recursos (AI 789.769/PR e AI 789.785/PR) serem oriundos do mesmo feito na origem (AC 4859658, do TJPR). Para sustentar seu pedido, citam precedentes do STJ que lhe são favoráveis.
+3.  Primeiramente, cabe dizer que o presente pedido deveria ter sido formulado nos autos do AI 789.785/PR, uma vez que lá se encontram as petições erroneamente protocoladas para, só então, nestes autos, se apreciar o requerimento de sua juntada. Porém, reconhecendo a conexão aqui existente, passo a apreciá-lo.
+4.  O pedido aqui formulado não merece prosperar. A presente petição, na qual se busca a regularização do equívoco por meio do citado desentranhamento, só foi protocolada em 26.5.2010 (fax, de fls. 139-141) e 1º.6.2010 (originais, de fls. 144-146), ou seja, treze dias depois de publicada a decisão de fls. 135-136, que a parte agravada buscava impugnar, razão pela qual, inclusive, certificou-se o trânsito em julgado dessa decisão, conforme certidão de fl. 147.
+ Frise-se, ainda, que nas citadas petições de fls. 349-354 e 358-364 do AI 789.785/PR foi indicado, em epígrafe, o número do mesmo Agravo de Instrumento 789.785/PR, por isso a acerta juntada pela Secretaria desta Corte naqueles autos.
+ Mostra-se, portanto, intempestiva a diligência das partes agravadas pois, para efeito de aferição do cumprimento do prazo recursal (art. 557, §1º, do CPC), impõe-se, considerar, unicamente, a data em que protocolizada a petição recursal em feito no qual proferida a decisão objeto do recurso em questão. Esta é a posição do Supremo Tribunal Federal que, em situação semelhante a aqui tratada, adotou o entendimento de que a protocolização equivocada de recursos, ainda que no prazo legal é ato processualmente ineficaz. Nesse sentido: Pet 2.622/PB, rel. Min. Sydney Sanches, AI 424.913-AgR/SP, rel. Min. Celso de Mello e AI 744.309/PA, rel. Min. Cármen Lúcia (DJ 10.02.2003, 01.7.2003 e 18.3.2009, respectivamente).
+5.  Isto posto, indefiro os pedidos formulados na petição em referência, diante da intempestividade aqui apontada, em face da certidão de trânsito em julgado de fl. 147.
+6.  Traslade-se cópia desta decisão para o AI 789.785/PR.
+Publique-se.
+Brasília, 10 de fevereiro de 2011.
+Ministra Ellen Gracie
+Relatora
