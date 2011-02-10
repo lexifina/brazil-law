@@ -1,0 +1,9 @@
+1.  Trata-se de ação cautelar, com pedido de liminar, proposta por Antonio Paulo de Oliveira Furlan, com o objetivo de assegurar “a suspensão dos efeitos do acórdão nº 42.464/2010, (Ag. Rg. No MS nº 403463/2010) do e. Tribunal Superior Eleitoral, até o julgamento final dos embargos declaratórios com efeitos infringentes e/ou julgamento do recurso extraordinário”.
+2.  Assevero que prevalece nesta Corte o entendimento de que a jurisdição cautelar do Supremo Tribunal Federal somente é firmada com a admissão do recurso extraordinário interposto, o que não é alcançado, por si só, com a interposição do agravo de instrumento. Nesse sentido: AC 510-AgR/SP, rel. Min. Cezar Peluso, 1ª Turma, DJ 5.5.2006; AC 653-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, DJ 12.5.2006; AC 831-MC-AgR/RS, rel. Min. Gilmar Mendes, 2ª Turma, DJ 11.11.2005; AC 865-AgR/MT, rel. Min. Cezar Peluso, 1ª Turma, DJ 25.11.2005; Pet 2.835-QO/SP, rel. Min. Celso de Mello, 2ª Turma, DJ 11.4.2003; AC 741/MG, rel. Min. Carlos Velloso, DJ 2.5.2005 e AC 1.569/RO, rel. Min. Marco Aurélio, DJ 13.6.2007.
+3.  Ressalto que no julgamento das Petições 1.903-AgR/RS, rel. Min. Néri da Silveira, Plenário, DJ 6.9.2001; 1.872/RS, rel. Min. Moreira Alves, 1ª Turma, DJ 14.4.2000; e 2.934-MC/GO, rel. Min. Sepúlveda Pertence, DJ 4.6.2003, ficou assentado que até o momento da admissão do recurso extraordinário na origem ou até que ocorra o provimento do agravo de instrumento interposto de sua inadmissão só o Presidente do Tribunal a quo detém a competência para conferir efeito suspensivo ao recurso.
+4.  Por fim, verifico que ao decidir a AC 2.177-QO/PE, DJe 19.2.2009, o Plenário desta Corte ratificou esse entendimento em relação aos processos submetidos à sistemática da repercussão geral.
+5.  Ante o exposto, nego seguimento à presente ação cautelar, prejudicado o pedido de liminar (RISTF, art. 21, § 1º).
+ Publique-se.
+Brasília, 10 de fevereiro de 2011.
+Ministra Ellen Gracie
+Relatora
