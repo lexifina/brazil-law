@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“ICMS – [...] Lista dos produtos industrializados semi-elaborados realizada pelo CONFAZ nos termos do artigo 2º da Lei Complementar nº 65/91 que poderia ser contestada pela contribuinte e a prova técnica dá conta que o produto em causa deve mesmo ser tido como industrializado, não se caracterizando, destarte, como semi-elaborado – [...] Incidência da correção monetária sobre os créditos a serem aproveitados que evita o enriquecimento sem causa do fisco em detrimento do contribuinte e impede ofensas indiretas aos princípios da estrita legalidade tributária e da não-cumulatividade – [...]”. (fl. 60)
+Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+Na espécie, o acórdão recorrido decidiu o seguinte:
+“ [...] cumpre categorizar as ‘tiras ou fitas de aço laminado à frio’ exportadas pela autora dentre os produtos industrializados, o que as afasta do campo da incidência do ICMS, por aplicação da regra do artigo 155, § 2º, inciso
+X, ‘a’, da Constituição Federal (alínea com a redação anterior a EC nº 42/2003).
+[...]
+E ainda que, apenas ad argumentandum tantum, admita-se que a matéria-prima original do produto da autora seja o minério de ferro, também aqui a pretensão inicial deve prosperar, pois, então, o inciso II do mesmo artigo 1º da Lei Complementar nº 65/91 não seria atendido, em razão da ocorrência de ‘modificação da natureza química originária’ do ferro durante o processo de fabricação do aço.
+Nesse sentido é o Parecer Técnico nº 6274 do Instituto de Pesquisas Tecnológicas do Estado de São Paulo S.A. – IPT [...]”. (fls. 66-71)
+Para entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+Incide, portanto, a Súmula 279/STF.
+Outrossim, o recorrente alega óbice à correção monetária com base na Lei nº 6.374/89, do Estado de São Paulo. Para se adotar tal entendimento, seria necessária a análise da legislação local, o que é vedado pela Súmula 280 do STF, conforme a pacífica jurisprudência desta Corte. Nesse sentido, o seguinte julgado:
+“ AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. SERGIPE. REDUTOR SALARIAL CONSTANTE DA LEI COMPLEMENTAR ESTADUAL 61/2001. IRREDUTIBILIDADE DE VENCIMENTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. ALEGAÇÃO DE OFENSA AO INCISO XXXV DO ARTIGO 5º E AO INCISO IX DO ARTIGO 93 DA CONSTITUIÇÃO FEDERAL. MATÉRIA NÃO PREQUESTIONADA. 1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria a análise da legislação ordinária aplicada à espécie, bem como o revolvimento dos fatos e provas dos autos. Providências vedadas na instância extraordinária. 2. Precedentes: AIs 673.512-AgR, 675.840-AgR e 687974-AgR, sob a relatoria da ministra Cármen Lúcia; 697.883-AgR, sob a relatoria do ministro Eros Grau; 677.572-AgR, 689.972-AgR e 685.483-AgR, sob a relatoria do ministro Ricardo Lewandowski. 3. O Tribunal de origem não se manifestou sobre a alegada ofensa ao inciso XXXV do artigo 5º e ao inciso IX do artigo 93 da Constituição Federal, nem foi instado a fazê-lo por meio de embargos declaratórios. Pelo que incidem as Súmulas 282 e 356 do STF. 4. Agravo regimental desprovido.” (RE 588.855 AgR, Rel. Min. Carlos Britto, Primeira Turma, DJe 19.06.2009)
+Ante o exposto, nego seguimento ao recurso (arts. 557 do CPC, e 21, §1º do RISTF).
+Publique-se.
+Brasília, 10 de fevereiro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
