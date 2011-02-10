@@ -1,0 +1,16 @@
+D ECIS Ã O: Reconsidero a decisão de fls. 128-129, conforme autorizam-me os arts. 557, § 1º do CPC e o art. 317, § 2º do RISTF. Em consequência, fica prejudicado o exame do agravo regimental de fls. 132-134 (art. 21, IX do RISTF).
+Passo a reexaminar o recurso extraordinário.
+Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal Regional Federal da 4ª Região, o qual entendeu que o art. 100, § 4º, da Carta Magna vedou apenas o fracionamento de execução ou a expedição de precatório complementar para fins de pagamento parcialmente em precatório e parcialmente em requisição de pequeno valor, sendo, portanto, possível a expedição de requisição de pequeno valor complementar, desde que comprovada a existência de erro material ou de errônea utilização de critério de cálculo, por exemplo.
+Sustenta-se a violação do art. 100, § 3º, e 4º, da Constituição federal.
+O Supremo Tribunal Federal entende que a vedação contida no art. 100, § 4º, da Constituição (redação anterior à Emenda Constitucional nº 62 de 2009) destina-se a impedir que haja burla ao regime de pagamento do débito da fazenda pública, pagando-se parte em precatório e parte em requisição de pequeno valor (RPV):
+EMENTA: 1. Execução contra a Fazenda Pública: recurso extraordinário: descabimento: controvérsia relativa às exigências para a inclusão do precatório no orçamento, de natureza infraconstitucional, de exame inviável no RE. 2. Execução contra a Fazenda Pública: fracionamento do valor da execução em parcelas controversa e incontroversa, sem que isso implique em alteração de regime de pagamento, que é definido pelo valor global da obrigação: ausência, no caso, de violação do art. 100, §§ 1º e 4º, da Constituição Federal. (RE 484.770, rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 01.09.2006)
+Por isso, esta Corte entende que não viola a Constituição a expedição de requisição de pequeno valor complementar, quando o somatório das requisições não ultrapassar o limite previsto no art. 100, § 3º, da Constituição (redação anterior à Emenda Constitucional nº 62 de 2009).
+Nesse sentido: RE 526.608, rel. min. Ricardo Lewandowski, DJ de 17/02/2010.
+Assim, embora o acórdão recorrido esteja alinhado à orientação desta Corte quanto à tese de fundo, hipoteticamente considerada, é necessário verificar se o conjunto dos créditos em questão encontrava-se abaixo do limite de sessenta salários mínimos vigentes por ocasião do momento em que o erro de cálculo foi apontado pela parte ao Juízo.
+Esta verificação não deve ser realizada neste momento processual, pois é de responsabilidade do juízo competente para conhecer e processar a execução.
+Ante o exposto, conheço do recurso extraordinário e a ele dou parcial provimento, tão-somente para reafirmar a possibilidade de processamento de requisição de pequeno valor destinada a complementar quantia paga a menor, por erro de cálculo ou inexatidão de critérios de correção monetária, de modo que o juízo responsável pela execução verifique que o conjunto de créditos iniciais e complementares atendiam ao limite de sessenta salários mínimos, vigentes por ocasião em que apontado o erro pela parte.
+Publique-se. Int..
+Brasília, 10 de fevereiro de 2011.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
