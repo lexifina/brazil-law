@@ -1,0 +1,20 @@
+1.  Trata-se de habeas corpus com pedido de medida liminar impetrado em favor de EDIVAL PEREIRA SOARES e VALÉRIO RIBEIRO DOS SANTOS , em que se aponta como autoridade coatora o Ministro Haroldo Rodrigues (Desembargador convocado do TJ/CE), relator do HC 191.735/MT, anteriormente ajuizado perante o Superior Tribunal de Justiça.
+2.  No caso sob análise, os pacientes foram presos em flagrante delito pela Polícia Federal em Rondonópolis-MT transportando e comercializando cocaína. Foram encontradas doze embalagens da substância entorpecente com os pacientes.
+O Juiz de Direito da 1ª Vara Criminal da Comarca de Rondonópolis-MT indeferiu o pedido de liberdade provisória feito pela defesa dos pacientes.
+O Tribunal de Justiça do Estado de Mato Grosso, por sua vez, manteve a segregação dos dois suspeitos, denegando o pedido de habeas corpus impetrado naquela Corte.
+No Superior Tribunal de Justiça, o Ministro Haroldo Rodrigues indeferiu a liminar no HC 191.735/MT, aforado em favor dos ora pacientes. Daí a presente impetração.
+3.  Neste writ, o impetrante, preliminarmente, assevera ser caso de se superar o rigor da Súmula 691/STF. No mérito, alega não haver fundamentação jurídica na decisão que manteve a prisão dos pacientes, negando-lhes o direito ao benefício de liberdade provisória, além de não existirem, no caso concreto, os requisitos autorizadores da prisão preventiva, estabelecidos no art. 312 do Código de Processo Penal.
+Assim requer o deferimento de medida liminar no presente habeas corpus para se conceder aos pacientes o benefício da liberdade provisória, com a expedição dos competentes alvarás de soltura.
+4.  O Ministro Haroldo Rodrigues indeferiu o pedido de liminar no HC 191.735/MT nos seguintes termos:
+“Cuida-se de habeas corpus impetrado em favor de Edival Pereira Soares e Valério Ribeiro dos Santos, presos em flagrante por tráfico de drogas e associação para o tráfico, apontando-se como autoridade coatora o Tribunal de Justiça de Mato Grosso, no qual se busca a liberdade provisória dos pacientes por ausência de fundamentação da decisão que manteve a custódia cautelar.
+A liminar, na via eleita, não tem previsão legal, sendo criação da jurisprudência para casos em que a urgência, necessidade e relevância da medida se mostrem evidenciadas de forma indiscutível na própria impetração e nos elementos de prova que a acompanham.
+No caso, o constrangimento não se mostra com a nitidez imprimida na inicial, estando a exigir um exame mais detalhado dos elementos de convicção carreados aos autos, o que ocorrerá por ocasião do julgamento definitivo.
+Ante o exposto, indefiro a liminar”.
+5.  O rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de supressão de instância.
+6.  Ademais, nos termos dos arts. 5º, XLIII, da Constituição Federal, e 44, caput, da Lei 11.343/06, o crime de tráfico ilícito de drogas não admite a concessão de liberdade provisória (HC 93.302, rel. Min. Cármen Lúcia, DJ 17.12.2007; HC 92.723, rel. Min. Ricardo Lewandowski, DJ 18.10.2007; HC 91.303, rel. Min. Sepúlveda Pertence, DJ 22.05.2007; e HC 89.089, rel. Min. Carlos Britto, DJ 01.06.2007).
+7.  Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
+Brasília, 11 de fevereiro de 2011.
+Ministra Ellen Gracie
+Relatora
