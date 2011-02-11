@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“PENAL. MOEDA FALSA (CP, ART. 289, § 1º). MATERIALIDADE E AUTORIA COMPROVADAS. DOLO. PRINCÍPIO IN DUBIO PRO REO - ABSOLVIÇÃO DE CO-RÉU. PRINCÍPIO DA PROPORCIONALIDADE - INAPLICABILIDADE.
+1. Devidamente comprovada a falsidade da cédula, bem como a autoria do delito de moeda falsa, resta caracterizado o crime do § 1º do artigo 289 do Código Penal.
+2. Dolo devidamente caracterizado, consubstanciado na prova inequívoca do conhecimento do agente acerca da inautenticidade da cédula.
+3. Mantém-se a aplicação do princípio in dubio pro reo, em relação a um dos co-réus, quando ausente prova robusta acerca da ciência da falsidade.
+4. Não se há falar em aplicação do princípio da proporcionalidade, com a aplicação de pena abstrata prevista em delito diverso, eis que a situação em concreto indica grande lesividade da conduta” (fl. 434).
+Tem-se no voto condutor do julgado recorrido:
+“Quanto à aplicação do princípio da proporcionalidade, a tese defensiva não prevalece. In casu, consoante bem lançado o parecer ministerial (fls. 414 a 417), não se verifica quadro a aplicá-lo, na medida em que os réus foram flagrados na posse de 147 (cento e quarenta e sete) notas de R$ 10,00 (Dez reais) e 45 (quarenta e cinco) notas de R$ 50,00 (Cinquenta reais), todas falsas. A peça acusatória referiu que a ação policial evitou verdadeiro "derrame de moedas falsas" no município de Paulo Lopes, em Santa Catarina, o que efetivamente revela a lesividade da conduta praticada". Não há o que reduzir proporcionalmente a pena aplicada levando em consideração previsão menos gravosa em delito diverso” (fl. 430 – grifos nossos).
+Tem-se no parecer do Ministério Público acima referido:
+“O Réu João Batista busca a redução da pena pela aplicação do princípio da proporcionalidade, pois não haveria provas de sua relação com a pessoa que 'efetivamente fabricou as notas falsas'. Assim, sua conduta não poderia ser equiparada à do agente que fabrica a moeda, pelo que deveria ser aplicada na espécie a pena prevista para o delito de uso de documento falso.
+Realmente, assiste razão ao Recorrente quando aponta a flagrante desproporcionalidade presente no tipo penal do art. 289 do CP, consistente na equiparação entre a conduta do agente que fabrica ou falsifica moeda e a daquele que unicamente guarda ou introduz em circulação a moeda contrafeita” (fl. 415 – grifos nossos).
+2. O Recorrente sustenta que o art. 289, § 1º, do Código Penal contrariaria o princípio da proporcionalidade, em virtude de ter sido cominada às condutas descritas no § 2º do mesmo artigo, que teriam como pressuposto o “conhecimento pleno” (fl. 448) da falsidade, pena bem menor que a prevista para as condutas do § 1º, ligadas ao “conhecimento parcial da origem ilícita da coisa” (fl. 448).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+4. O Tribunal de origem limitou-se a analisar as alegações de que às condutas descritas no § 1º do art. 289 do Código Penal não poderia ser atribuída a mesma pena cominada às condutas do caput desse dispositivo (sob pena de contrariedade ao princípio do proporcionalidade) e de que deveria ser aplicada a pena do art. 304 desse Código à espécie vertente.
+No entanto, a alegação de que a pena cominada às condutas do § 1º do art. 289 seria desproporcional, se comparada àquela correspondente às condutas do § 2º, não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento.
+Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENAL. CRIME DE ROUBO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL). PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 766.895-AgR, de minha relatoria, Primeira Turma, DJe 5.2.2010 – grifos nossos).
+“AGRAVO REGIMENTAL. AUSÊNCIA DE PEÇA ESSENCIAL. ARTS. 5º, XLVI, E 93, IX, DA CONSTITUIÇÃO FEDERAL. FALTA DE PREQUESTIONAMENTO. OFENSA REFLEXA. A parte agravante não demonstra a presença nos autos da peça que a decisão agravada teve como ausente, qual seja, a certidão de publicação do acórdão recorrido. Trata-se de peça de traslado obrigatório, cuja ausência acarreta o não-conhecimento do agravo de instrumento. Ausência de prequestionamento. Questão não ventilada no acórdão recorrido e que não foi suscitada em embargos de declaração. Óbice previsto pelos enunciados das Súmulas 282 e 356/STF. Alegação de violação dos arts. 5º, XLVI, e 93, IX, da Constituição Federal. Necessidade de exame prévio de norma infraconstitucional (Código Penal) para a verificação de contrariedade à Carta Magna. Caracterização de ofensa reflexa ou indireta. Precedente. Agravo regimental a que se nega provimento” (AI 586.491-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 28.11.2008 – grifos nossos).
+6. Nada há a prover quanto às alegações do Recorrente.
+7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 38 da Lei 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 11 de fevereiro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
