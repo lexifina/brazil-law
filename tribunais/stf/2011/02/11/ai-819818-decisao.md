@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. RATIFICAÇÃO DA DECISÃO MONOCRÁTICA PROFERIDA COM FULCRO NO ART. 557 DO CPC. INEXISTÊNCIA DOS VÍCIOS ELENCADOS NO ART. 535 DO CPC. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. DESPROVIMENTO DO RECURSO.” (fl. 298)
+Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+Na espécie, a decisão monocrática ora combatida decidiu o seguinte:
+“ Em que pesem as argumentações da agravada manejadas em contra-razões, entendo que os itens A e D da sentença foram cumpridos, como faz prova o exemplar da Lista Telefônica da Região Sul e Centro-Sul trazida aos autos. Ademais, a própria agravada reconhece o cumprimento da obrigação, motivo pelo qual, neste ponto, nada mais há a executar.” (fl. 157)
+Para entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+Incide, portanto, a Súmula 279/STF.
+Outrossim, quanto ao item C da sentença, verifico que a decisão vergastada decidiu a questão com base na legislação infraconstitucional (art. 461, § 1º, do CPC). A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária. Nesse sentido, AI-AgR 731.718, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 10.11.2010 e AI-AgR 637.177, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 25.11.2010, cuja ementa dispõe:
+“ AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA. NECESSIDADE DE COMPROVAÇÃO DE INSUFICIÊNCIA DE RECURSOS. PRESSUPOSTOS DE GRATUIDADE DE JUSTIÇA. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - A discussão referente ao momento do indeferimento do pedido de assistência judiciária gratuita, bem como à alegada necessidade de o juízo recorrido ter oportunizado o recolhimento do preparo, demanda a análise de normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II – É necessária a comprovação de insuficiência de recursos para que a pessoa jurídica solicite assistência judiciária gratuita. Precedentes. III – Agravo regimental improvido.”
+Ante o exposto, nego seguimento ao recurso (arts. 557 do CPC, e 21, §1º do RISTF).
+Publique-se.
+Brasília, 11 de fevereiro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
