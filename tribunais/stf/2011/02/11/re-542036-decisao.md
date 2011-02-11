@@ -1,0 +1,17 @@
+1.  Trata-se de recurso extraordinário contra acórdão que julgou improcedente ação em que o autor, servidor público militar da reserva, pleiteou sua promoção ao posto de Tenente-Coronel da Polícia Militar do Estado do Espírito Santo, com a remuneração correspondente ao grau superior imediato – Coronel –, acrescida da gratificação de 60% decorrente do Curso Superior de Polícia. O acórdão recorrido foi assim ementado (fls. 70-76):
+“ APELAÇÃO CÍVEL. 1) militar. Transferência para inatividade. COMPETÊNCIA ESTADUAL PARA LEGISLAR. EC Nº 18/98 E EC Nº 20/98. 2) INCONSTITUCIONALIDADE DO ART. 4º, DA LEI 4.010/87. VIOLAÇÃO À ISONOMIA. INOCORRÊNCIA. PREVISÃO DE CASOS ESPECIAIS. LEI ESTADUAL. 3) TRINTA ANTOS DE SERVIÇO. PUBLICAÇÃO DA LEI 4.010/87. NOVENTA DIAS. REQUISITOS NÃO ATENDIDOS. PROMOÇÃO AO CARGO DE CORONEL. IMPOSSIBILIDADE. RECURSO IMPROVIDO ”.
+2.  O recorrente alega, em síntese (fls. 93-103), que a Lei 4.010/87, ao garantir a promoção apenas aos militares com tempo de serviço determinado ou que viesse a completar o tempo em até noventa dias após a sua publicação, desrespeitou o direito de igualdade entre os policiais militares, ferindo o princípio da isonomia.
+3.  Inadmitido o recurso na origem (fl. 109), o agravo de instrumento – AI 582.789/ES foi reautuado como recurso extraordinário (fl. 129).
+4.  O Ministério Público Federal opinou pelo desprovimento do recurso (fls.124-127).
+5.  A insurgência não merece prosperar, pois a alegada ofensa à Constituição Federal, se existisse, seria indireta ou reflexa, a depender do reexame da legislação local, que tratou da matéria em discussão. Assim, após a interpretação feita pelo Tribunal de origem, a sua conclusão não pode ser revista em sede de apelo extremo em virtude da incidência, no caso, da Súmula STF 280. Veja-se a decisão monocrática em caso semelhante a este, no RE 262.366/ES, rel. Min. Carlos Velloso, DJ 10.8.2005, proferida nos seguintes termos:
+“ CONSTITUCIONAL. ADMINISTRATIVO. POLÍCIA MILITAR. TRANSFERÊNCIA PARA A RESERVA REMUNERADA APÓS TRINTA ANOS DE SERVIÇO. C. F., ART. 42, § 1º, COM A EC 18/98 .
+I. – Cabe à lei estadual dispor sobre as matérias do art. 142, § 3º, X, da C. F. É dizer, à lei estadual cabe, no que toca aos policiais militares, estabelecer os limites de idade, a estabilidade e outras condições de transferência para a inatividade. C. F., art. 42, § 1º.
+II. – R. E. conhecido e provido”.
+No mesmo sentido:   AI 631.444- AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, DJ 21.8.2009; e AI 652.788-AgR/SP, rel. Min. Eros Grau, 2ª Turma, DJe 01.02.2008, cuja ementa transcrevo:
+ “ AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. REEXAME DE LEGISLAÇÃO LOCAL [LE 8.990/94, LCE 823/96, LCE 830/97 E LCE 901/01 DO ESTADO DE SÃO PAULO]. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. 2. A controvérsia foi decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. 3. Agravo regimental a que se nega provimento”.
+6.  Finalmente, verifica-se que o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição Federal. Incabível, portanto, o recurso extraordinário, com fundamento no art. 102, III, c, da mesma Carta. Nesse sentido o RE 511.252/AM, rel. Min. Ricardo Lewandowski, DJ de 16.2.2007.
+7.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 11 de fevereiro de 2011.
+Ministra Ellen Gracie
+Relatora
