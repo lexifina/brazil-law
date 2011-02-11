@@ -1,0 +1,11 @@
+A presente argüição de descumprimento de preceito fundamental, proposta pelo Procurador-Geral da República, impugna a Lei 4.384, de 6.12.1984, do Estado da Bahia, que criou o Instituto Pedro Ribeiro de Administração Judiciária – IPRAJ, autarquia vinculada ao Tribunal de Justiça daquela unidade federada com personalidade jurídica de direito público, autonomia administrativa e financeira e patrimônio próprio. O argüente requereu, em sua peça inicial, a declaração de incompatibilidade dos artigos 1º a 7º, 10, 12 e 15 a 19 do referido diploma estadual com a Constituição Federal de 1988, notadamente com seus artigos 96, I, 99, caput e parágrafos 1º a 5º, e 168.
+Prestadas as informações solicitadas e juntada aos autos a manifestação da Advocacia-Geral da União, protocolizou a Assembléia Legislativa do Estado da Bahia expediente no qual noticia ter sido editada, no âmbito daquela unidade federada, a Lei 11.918, de 16.6.2010, que “dispõe sobre a extinção do Instituto Pedro Ribeiro de Administração Judiciária – IPRAJ e a reestruturação administrativa dos serviços auxiliares do Tribunal de Justiça do Estado da Bahia”.
+A Procuradoria-Geral da República, em parecer da lavra de sua Vice-Procuradora-Geral, Dra. Deborah Macedo Duprat de Britto Pereira, e aprovado por seu Procurador-Geral, Dr. Roberto Monteiro Gurgel Santos, opinou pela prejudicialidade da presente argüição, ante a perda superveniente de seu objeto.
+2. De fato, é inequívoco que a autarquia estadual criada pela legislação ora impugnada, anterior à Constituição de 1988, foi expressa e integralmente extinta com a recente edição da Lei Estadual 11.918/2010, que, entre outras providências, devolveu ao Tribunal de Justiça do Estado da Bahia o pleno exercício das funções relativas à organização de seus serviços auxiliares e à gestão administrativa e financeira do Poder Judiciário local.
+É patente, portanto, a perda do objeto da presente ação, já que cessada em definitivo a vigência do diploma legal pré-constitucional nela apontado com a edição da Lei 11.918, de 16.6.2010, do Estado da Bahia.
+3. Ante todo o exposto, nos termos do art. 21, IX, do RISTF, julgo prejudicada a presente argüição de descumprimento de preceito fundamental, em razão da perda de seu objeto.
+Arquivem-se os autos.
+Publique-se.
+Brasília, 11 de fevereiro de 2011.
+Ministra Ellen Gracie
+Relatora
