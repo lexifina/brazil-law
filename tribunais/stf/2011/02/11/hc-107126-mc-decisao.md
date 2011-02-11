@@ -1,0 +1,31 @@
+DECISÃO: Trata-se de habeas corpus preventivo, com pedido de liminar, impetrado em favor de Marcius Gomes Kroth, figurando como coator ministro do Superior Tribunal de Justiça.
+O paciente foi preso preventivamente e denunciado por furto qualificado (CP, art. 155, § 4º, I e IV) e quadrilha (CP, art. 288), em concurso material.
+Após a obtenção, pelo co-réu Gelson Claas Lopes da Silva, de liminar concedida pelo relator do HC 172.063, impetrado ao STJ, os demais co-réus, dentre eles o paciente, pediram ao juiz da causa a extensão da medida, o que foi deferido para todos os acusados, exceto para o paciente.
+Diante desse novo indeferimento, formulou-se novo pedido de extensão em favor do paciente, agora ao relator do HC 172.063, que, em decisão final, revogou a prisão preventiva do co-réu Gelson Claas Lopes da Silva, mas negou o pedido de extensão de Marcius Gomes Kroth. Contudo, determinou, de ofício, “a supressão das imagens dos acusados da peça acusatória do processo principal.”
+Tal decisão foi comunicada, por telegrama, à origem, gerando dúvida quanto à extensão da ordem concedida, o que deu ensejo à expedição, por juiz plantonista, de alvará de soltura em favor de Marcius Gomes Kroth.
+Posteriormente, com o envio à primeira instância da decisão proferida pelo relator do habeas corpus impetrado ao STJ, o juiz da causa verificou a existência de possível equívoco quanto à soltura do paciente Marcius Gomes Kroth e deu vista à defesa e à acusação, para que esclarecessem o ocorrido.
+Em seguida, impetrou-se o presente habeas corpus preventivo, por meio do qual se pede – tanto liminarmente, quanto no mérito – a expedição de “salvo conduto ao paciente”.
+Para tanto, alega-se, em síntese, que o STJ, embora tenha indeferido o pedido de extensão do paciente, concedeu-lhe a ordem pleiteada. De qualquer forma, caso se confirme o equívoco quanto à soltura do paciente, ele corre o risco de ser novamente preso. Daí a necessidade deste habeas corpus, no qual se alega, ainda, que não estão presentes os requisitos para a prisão preventiva do paciente Marcius Gomes Kroth, pelas seguintes razões:
+(1) o alegado fundamento relativo a ordem pública se esvaziou, uma vez que o paciente “está solto há mais de dois meses e, neste período, sua liberdade não colocou em risco a ordem pública”;
+(2) mesmo antes de o paciente ser solto, não havia qualquer dado concreto que evidencie a sua periculosidade ou que ele, em liberdade, colocará em risco a ordem pública, especialmente se considerado que o réu é primário, tem bons antecedentes, residência fixa e ocupação lícita;
+(3) o fato de o paciente ser apontado como o líder da quadrilha descrita na denúncia, além de violar a regra da presunção de inocência, não se presta para o indeferimento do seu pedido de extensão;
+(4) o paciente se encontra na mesma situação dos demais co-réus que já estão em liberdade, dado que a prisão preventiva de Marcius Gomes Kroth foi decretada pelos mesmos fatos e na mesma decisão que o STJ considerou sem fundamento, tanto que o relator do HC 172.063 concedeu a ordem pleiteada pelo co-réu Gelson Claas Lopes da Silva; e
+(5) caso o paciente volte a ser preso, haverá excesso de prazo, visto que ele já ficou custodiado de 1º.3.2010 a 20.11.2010, estando o processo de origem ainda em fase de instrução.
+É o relatório.
+Decido.
+A parte dispositiva da decisão final proferida pelo relator do HC 172.063 ficou assim redigida:
+“concedo a ordem com o intuito de revogar a prisão preventiva do paciente [Gelson Claas Lopes da Silva], o qual, entretanto, haverá de assumir o compromisso de comparecer a todos os atos do processo. Indefiro o pedido de extensão [formulado por Marcius Gomes Kroth] e, de ofício, determino a supressão das imagens dos acusados da peça acusatória do processo principal.”
+Noutras palavras, a prisão preventiva de Marcius Gomes Kroth não foi revogada pelo Superior Tribunal de Justiça.
+Por conseguinte, há o risco concreto de ele vir a ser novamente preso, já que a sua custódia cautelar, como dito, foi preservada.
+Por outro lado, observo que o juiz da causa, ao deferir pedido de extensão dos demais co-réus e indeferir igual pleito formulado pelo paciente, disse, num primeiro momento, que “não se alteraram as condições que ensejaram a prisão preventiva dos réus”. Em seguida, acrescentou que o paciente deveria permanecer preso porque as provas até então colhidas apontavam-no “como o principal autor do possível esquema criminoso”. O paciente “seria aquele que, mesmo à distância, emitiria ordens a seus comparsas, armazenaria os tratores e colheitadeiras furtados e mesmo roubados e, ainda, faria comercialização”, sendo ele, portanto, “o possível cérebro do corpo criminoso.”
+Diante desse quadro, deveria o paciente ter sido posto em liberdade quando da análise, pelo juiz da causa, do seu pedido de extensão, dado que o decreto prisional originário, tido pelo STJ como sem fundamento, não distinguia a situação de Marcius Gomes Kroth da dos demais co-réus.
+De qualquer forma, entendo que o juiz da causa, ao acrescentar novos fundamentos por ocasião do indeferimento do pedido de extensão do paciente, proferiu outra decisão. Como esses novos fundamentos foram apreciados na decisão atacada, não há que se falar, ao menos à primeira vista, em supressão de instância.
+Feitas essas necessárias considerações, anoto que o fato de o paciente ser apontado como líder da quadrilha e dos furtos a ele atribuídos – embora possa configurar, em tese, a agravante prevista no art. 62, I ou II, do Código Penal – não pode, em princípio, servir de base para a sua prisão preventiva, sob pena de admitir-se a custódia cautelar automática de todos aqueles acusados de terem incorrido em tal agravante.
+Dito de outro modo, a prisão preventiva deve estar fundada em fatos que não estejam compreendidos na descrição típica do crime ou das suas agravantes.
+Por essas razões, defiro o pedido de liminar, para suspender a prisão preventiva do paciente, até o julgamento do presente habeas corpus.
+Solicitem-se informações ao Juízo de Direito da 2ª Vara da Comarca de Rio Pardo/RS.
+Recebidas as informações, dê-se vista à Procuradoria-Geral da República.
+Publique-se, intimem-se e comunique-se.
+Brasília, 11 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
