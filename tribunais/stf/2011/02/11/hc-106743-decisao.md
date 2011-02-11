@@ -1,0 +1,20 @@
+1.  Trata-se de habeas corpus com pedido de medida liminar impetrado em favor de ALYSON DE PIERI, em que se aponta como autoridade coatora o Ministro Jorge Mussi, relator do HC 190.130/SC, anteriormente ajuizado perante o Superior Tribunal de Justiça.
+2.  No caso sob análise, o paciente foi preso em flagrante delito portando mais de quinhentos compridos de “ecstasy”, substância entorpecente causadora de dependência.
+Requerido o benefício de liberdade provisória ao paciente, o Juiz de Direito da 1ª Vara Criminal da Comarca de Balneário Camburiú – SC indeferiu o pedido.
+O Tribunal de Justiça do Estado de Santa Catarina denegou o pedido de habeas corpus e manteve a segregação do paciente.
+No Superior Tribunal de Justiça, o Ministro Jorge Mussi indeferiu a liminar no HC 190.130/SC. Daí a presente impetração.
+3.  Neste writ, o impetrante, preliminarmente, pugna pelo abrandamento do rigor da Súmula 691/STF. No mérito, alega que no caso concreto não estão presentes os requisitos autorizadores da prisão preventiva estabelecidos pelo art. 312 do Código de Processo Penal e que a custódia do paciente se mantém exclusivamente em razão da vedação à liberdade provisória constante no art. 44 da Lei 11.343/06.
+Assim, requer o deferimento de medida liminar no presente habeas corpus, a fim de que se determine a imediata revogação da prisão do paciente com a expedição de alvará de soltura em seu favor.
+4.  O Ministro Jorge Mussi indeferiu o pedido de liminar no HC 190.130/SC nos seguintes termos:
+“A concessão da tutela de urgência reserva-se aos casos excepcionais de ofensa manifesta ao direito de ir e vir do paciente e desde que preenchidos os pressupostos legais, que são o fumus boni juris e o periculum in mora.
+E, de um exame perfunctório dos elementos acostados aos autos, não se vislumbra, ao menos nessa etapa, em sede cautelar, a ocorrência do alegado constrangimento ilegal de que estaria sendo vítima o paciente, pois verifica-se que a a Corte impetrada, além de mencionar a vedação legal à liberdade, invocou elementos concretos ensejadores, em princípio, da necessidade de se manter a custódia provisória, para fins de garantir a ordem pública, dada a gravidade, ao que parece concreta, da ação delitiva a ele atribuída, haja vista a quantidade de droga apreendida (e-STJ fls. 64).
+Nesse contexto, ausente, a princípio, ilegalidade a ser sanada de plano, merece a questão levantada ser melhor discutida quando da apreciação e do julgamento do mérito do presente mandamus, até porque a motivação que dá suporte ao pedido liminar com este se confunde.
+Diante do exposto, indefiro a liminar”.
+5.  O rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de supressão de instância.
+6.  Ademais, nos termos dos arts. 5º, XLIII, da Constituição Federal, e 44, caput, da Lei 11.343/06, o crime de tráfico ilícito de drogas não admite a concessão de liberdade provisória (HC 93.302, rel. Min. Cármen Lúcia, DJ 17.12.2007; HC 92.723, rel. Min. Ricardo Lewandowski, DJ 18.10.2007; HC 91.303, rel. Min. Sepúlveda Pertence, DJ 22.05.2007; e HC 89.089, rel. Min. Carlos Britto, DJ 01.06.2007).
+7.  Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
+Brasília, 11 de fevereiro de 2011.
+Ministra Ellen Gracie
+Relatora
