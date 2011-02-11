@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a , da Constituição federal) interposto de acórdão, proferido por Tribunal de Justiça estadual, cuja ementa possui o seguinte teor:
+“MANDADO DE SEGURANÇA. PROVA PRÉ-CONSTITUÍDA. LEGITIMIDADE AD CAUSAM DO GOIÁS. FUNDO DE PREVIDÊNCIA COMO LITISCONSORTE NECESSÁRIO. ANISTIADO POLÍTICO. PROVENTOS DE APOSENTADORIA. ISENÇÃO DA CONTRIBUIÇÃO PREVIDENCIÁRIA. POSSIBILIDADE. APLICAÇÃO DA LEI Nº 10.559/02 E DECRETO Nº 4.897/03. SEGURANÇA CONCEDIDA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1- Inexiste ausência de prova pré-constituída do direito do impetrante quando os documentos carreados aos autos embasam a pretensão manifesta e são suficientes à análise do direito. Em consonância com o entendimento do Superior Tribunal de Justiça, não só a anistia concedida por decisão do Ministro da Justiça, mas, igualmente, aquelas conferidas por decisão judicial ou mesmo por força de lei, acham-se ao amparo da norma desonerativa. Desta feita, a só fundamentação do ato de reversão da aposentadoria fulcrada na Lei nº 6.683/79 faz prova da condição de anistiado político do impetrante.
+2 - Não há como negar a legitimidade passiva ad causam , na condição de litisconsorte necessário, ao GOIÁS FUNDO DE PREVIDÊNCIA, por ser destinatário da contribuição previdenciária a que o impetrante postula isenção.
+3 - Pacífico na corte superior que, a isenção referente à contribuição previdenciária, apesar do Decreto nº 4.897/2003 ter silenciado sobre o assunto, foi expressamente prevista no artigo 9º da Lei nº 10.559/2002, devendo-lhe ser dado o mesmo tratamento jurídico que o atribuído à isenção do imposto de renda pelo Decreto nº 4.897/2003.
+4 - Os dispositivos da Lei nº 10.559/02 e do Decreto nº 4.897/03, abrangem diretamente, os valores recebidos em razão de aposentadorias, pensões e proventos, sendo incabível opor-se ao direito postulado, sob o argumento de que importâncias recebidas em razão de aposentadoria não possuem natureza indenizatória, mas remuneratória.
+5 - Segurança concedida.” (fls. 39-41)
+Alega-se violação do disposto nos arts. 5º, XXXV; 18; 25, caput, e 149, § 1º, da Constituição federal.
+O recurso não merece seguimento.
+Inicialmente, verifico que inexiste a alegada ofensa ao art. 5°, XXXV, da Constituição federal, pois o Tribunal de origem inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte.
+Quanto às alegadas ofensas aos arts. 18; 25, caput, e 149, § 1º, da Constituição federal, verifico que foram suscitadas originariamente em embargos de declaração. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282/STF).
+Ademais, ainda que superados tais óbices, observo que concluir diversamente do Tribunal de origem demandaria o prévio exame da legislação infraconstitucional, de forma que eventual ofensa à constituição seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmulas 636/STF).
+Por fim, saliento que o Plenário do Supremo Tribunal Federal, no julgamento do MI 543 (rel. min. Octavio Gallotti, DJ de 24.05.2002) fixou entendimento no sentido de que a reparação econômica devida aos anistiados políticos tem natureza indenizatória. Confira-se:
+“CONSTITUCIONAL ART. 8º, §3º DO ADCT ANÍSTIA. REPARAÇÃO ECONÔMICA ÀQUELES QUE FORAM IMPEDIDOS DE EXERCEREM, NA VIDA CIVIL, ATIVIDADE PROFISSIONAL. PORTARIAS RESERVADAS DO MINISTÉRIO DA AERONÁUTICA. MORA DO CONGRESSO NACIONAL. PROJETOS DE LEI VETADOS PELO CHEFE DO PODER EXECUTIVO. WRIT PRETENDE A MUDANÇA DE ORIENTAÇÃO DESTE TRIBUNAL, PARA QUE ESTE FIXE OS LIMITES DA REPARAÇÃO E ACOMPANHE A EXECUÇÃO DO ACÓRDÃO. O TRIBUNAL DECIDIU ASSEGURAR, DE PLANO, O DIREITO À INDENIZAÇÃO, SEM CONSTITUIR EM MORA O CONGRESSO NACIONAL, PARA, MEDIANTE AÇÃO DE LIQUIDAÇÃO, INDEPENDENTEMENTE DE SENTENÇA DE CONDENAÇÃO, A FIXAR O VALOR DA INDENIZAÇÃO.
+MANDADO DE INJUNÇÃO DEFERIDO EM PARTE. ”
+No mesmo sentido: RE 591.140 (rel. min. Ricardo Lewandowski, DJe de 28.05.2009); RE 549.828 (rel. min. Marco Aurélio, DJe de 14.03.2008) e RE 559.964 (rel. min. Eros Grau, DJe de 22.11.2007).
+Dessa orientação não divergiu o acórdão recorrido.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 11 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
