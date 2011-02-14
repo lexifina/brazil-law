@@ -1,0 +1,21 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado, no que interessa:
+“PRELIMINAR DE INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO. DISCUSSÃO ACERCA DE PLANO DE SAÚDE INSTIUÍDO PELA EX-EMPREGADORA CIA. VALE DO RIO DOCE. Esta Corte adota o entendimento de que a Justiça do Trabalho é competente para apreciar pedido relativo à plano de saúde instituído por entidade de previdência privada mantida pelo empregador e criada exclusivamente para atender aos seus empregados. Como o pedido está vinculado ao contrato de trabalho, o que conduz à competência da Justiça do Trabalho para dirimir quaisquer litígios relacionados com sua implementação, nos termos do art. 114 da Carta Magna, conforme precedentes desta Corte. Recurso de revista conhecido e não provido.
+PRELIMINAR DE NULIDADE DO JULGADO REGIONAL POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+(...)
+PRESCRIÇÃO TOTAL.
+(...) Dessa forma, não se encontra prescrito o direito da ação em curso, ajuizada em 2002. O prazo prescricional não começa a fluir antes da lesão, que somente se verificou com a aposentadoria. A reclamada se equivoca em defender a prescrição total fundamentada na Súmula nº 294 do TST, pois não ocorreu prescrição, quer parcial quer total. Recurso de revista não conhecido. (...)” (fls. 125-126)
+Nas razões recursais, alega-se violação aos artigos 5º, II, XXXV, LIV e LV, e 7º, XXIX, da Constituição Federal.
+O recurso não merece prosperar. No caso, o acórdão recorrido decidiu que:
+“Argumenta a recorrente que não houve alteração contratual ilícita, pois existe, na Instrução Suman 005/93, previsão de que o benefício seria concedido de acordo com a norma vigente à época de sua utilização.
+(...)
+Ao contrário da assertiva da recorrente, o benefício instituído pela reclamada em 1993 já havia se incorporado ao contrato de trabalho do reclamante, admitido em 1980), não podendo ser suprimido por regulamentação posterior. Portanto, não se trata simplesmente de interpretar restritivamente a norma que institui o benefício, mas de impossibilidade de sua revogação por ofensa ao disposto no art. 468 da CLT e conflito com a Súmula nº 51 do TST. Não há, pois, ofensa ao art. 114 do Código Civil (antigo 1.090 do código anterior).” (fls. 131v-132)
+Para se entender de forma diversa, seria necessária a prévia análise de matéria fático-probatória, de cláusulas contratuais (Súmulas 279 e 454) e da legislação infraconstitucional aplicável à espécie (Código Civil, Consolidação das Leis do Trabalho), procedimento incabível na via extraordinária (Súmula 636). Nesse sentido, cito o AI 820.187, Min. Rel. Ricardo Lewandowski, DJ 18.10.2010.
+No tocante ao art. 5º, II, XXXV, LIV e LV, da Constituição Federal, o entendimento desta Corte é no sentido de que a ofensa ao princípio da legalidade, da ampla defesa, do contraditório e do devido processo legal, se existente, seria reflexa ou indireta. Nesse sentido, AI-AgR 756.336, Rel. Min. Ellen Gracie, Segunda Turma, DJ 25.10.2010, cuja ementa dispõe:
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. OFENSA REFLEXA AO ARTIGO 5º, II, XXXV, XXXVI, LIV e LV, DA CF. DECISÃO CONTRÁRIA AOS INTERESSES DA PARTE NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF. SÚMULA STF 279. 1. Para divergir da conclusão a que chegou o Tribunal a quo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279). 2. A ofensa aos postulados constitucionais da legalidade, da ampla defesa, do contraditório, do devido processo legal, da coisa julgada e da prestação jurisdicional, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes. 3. Decisão fundamentada contrária aos interesses da parte não configura ofensa ao artigo 93, IX, da CF. 4. Agravo regimental improvido.”
+Quanto à alegada ofensa aos artigo 7º, XXIX, da Constituição Federal, caracteriza-se, na hipótese, ausência de prequestionamento, uma vez que o mencionado dispositivo apenas foi suscitado no apelo extremo, não tendo sido debatido no acórdão recorrido.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 14 de fevereiro de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
