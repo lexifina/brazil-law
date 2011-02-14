@@ -1,0 +1,14 @@
+DECISÃO : Junte-se a petição avulsa 71.239/2010.
+Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, cuja ementa tem o seguinte teor:
+“AGRAVO (CPC, ART. 557, § 1º). DESPACHO DO RELATOR QUE NEGA SEGUIMENTO À APELAÇÃO CÍVEL MANIFESTAMENTE IMPROCEDENTE E EM CONFRONTO COM JURISPRUDÊNCIA JÁ PACIFICADA NO TRIBUNAL DE JUSTIÇA. REQUISITOS DO 557 PRESENTES.
+Submeter à apreciação da Câmara matérias reiteradamente discutidas em oportunidades anteriores, cujo entendimento já está pacificado, implicaria evidente perda de tempo, dilação desnecessária da prestação jurisdicional e ofensa ao princípio da economia processual, motivo por que está o julgador, nesses casos, autorizado a fazer uso do procedimento previsto no art. 557 do Código de Processo Civil, sem que se cogite em ofensa ao princípio do contraditório ou duplo grau de jurisdição.
+AGRAVO DE INSTRUMENTO. REVISÃO CONTRATUAL. ANTECIPAÇÃO DE TUTELA. REQUISITOS PRESENTES. RECURSO NÃO PROVIDO.
+'O art. 273 do CPC, com a sua nova redação, permite a tutela antecipada toda vez que a prova inequívoca convença o juízo da verossimilhança da alegação de que o direito objeto do judicium submete-se a risco de dano irreparável ou de difícil reparação. Ambos os conceitos devem ser analisados à luz da pretensão de direito material e do princípio da especificidade, segundo o qual o ordenamento deve dar ao credor aquilo que ele obteria se a conduta devida fosse voluntariamento cumprida pelo devedor. Em prol do prestígio do Judiciário como atuante substitutivo do comportamento devida pelas partes, deve o mesmo evitar que o credor sinta os efeitos do inadimplemento, aqui considerado como qualquer lesão 'lesão' in genere do direito do autor. (...)” (Fls. 22)
+Nas razões de recurso extraordinário, a ora agravante alega como violados os arst. 5º, II, XXXVI, LIV e LV; 93, IX; 201, caput; e 202 da Constituição.
+Inexiste a alegada afronta aos arts. 5º, LIV e LV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a ora agravante.
+Ademais, a análise das apontadas violações ao texto da Constituição demandaria o exame prévio da legislação infraconstitucional, do contrato e do conjunto fático-probatório dos autos. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide nas Súmulas 279, 454 e, mutatis mutandis , 636 desta Corte.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 14 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
