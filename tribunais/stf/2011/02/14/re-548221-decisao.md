@@ -1,0 +1,23 @@
+D ECIS Ã O:
+Vistos.
+Elson Costa interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, assim ementado:
+“ADMINISTRATIVO – POLICIAL MILITAR - CORONEL INATIVO - EXTENSÃO DE VANTAGEM - GRATIFICAÇÃO DE ENCARGOS ESPECIAIS - IMPOSSIBILIDADE - INEXISTÊNCIA DE PREVISÃO LEGAL - OFENSA AO PRINCÍPIO DA ISONOMIA. VANTAGEM PRO LABORE FACIENDO. AUSÊNCIA DE LINEARIDADE E GENERALIDADE. AGRAVO INTERNO DESPROVIDO.
+I - Consoante jurisprudência dominante nesta Corte, é inviável a extensão a outros servidores públicos ou militares, da Gratificação de Encargos Especiais concedida aos Coronéis da ativa por ato administrativo, ante a inexistência de previsão legal.
+II - Não há que se falar em ofensa ao art. 40, § 8º da Constituição Federal ante a impossibilidade de extensão aos inativos de vantagem propter laborem concedida aos servidores em exercício em razão de suas atribuições específicas.
+III - Aplica-se à espécie, o entendimento consolidado na Súmula 339 do Supremo Tribunal Federal, segundo o qual não cabe ao Judiciário aumentar vencimentos de servidores sob o fundamento da isonomia.
+IV - Agravo interno desprovido” (fl. 189).
+Alega o recorrente violação dos artigos 37, X e, 40, § 4° e 5°(redação original) da Constituição Federal e artigo 7° da Emenda Constitucional n° 41/03, uma vez que a gratificação de encargos especiais “não possui a natureza jurídica de gratificação, pois não atende aos pressupostos básicos, tendo sido concedida em caráter genérico, universal, impessoal e incondicionado aos coronéis, sem caráter de transitoriedade, não sendo vinculada ao desempenho efetivo de determinado serviço, e sem qualquer especificação de requisitos, que somente pelos beneficiados pudessem ser preenchidos, mascarando, sim, uma autêntica forma de majoração de vencimentos” (fls. 219/220).
+Contra-arrazoado (fls. 231 a 240), o recurso extraordinário (fls. 212 a 225) foi admitido (fl. 242).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 18/12/06, conforme expresso na certidão de folha 210, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação.
+A jurisprudência desta Corte está consolidada no sentido de que a possibilidade de extensão aos outros servidores militares da gratificação de encargos especiais, concedida por processo administrativo apenas a um grupo de oficiais em atividade na Polícia Militar do Estado do Rio de Janeiro, é matéria de âmbito infraconstitucional local, incabível de reexame em sede de recurso extraordinário. Incidência da Súmula nº 280/STF. Sobre o tema, anote-se:
+“ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO DE ENCARGO ESPECIAL. POLÍCIA MILITAR DO RIO DE JANEIRO. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. 1. O Tribunal a quo, interpretando legislação estadual que trata da matéria, entendeu que a gratificação de encargos especiais não poderia ser estendida aos demais militares. 2. Para se concluir, como pretende a parte agravante, necessário seria o reexame de legislação local. Precedentes. 3. Agravo regimental improvido” (RE nº 584.022/RJ-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJE de 30/6/09).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO POR ENCARGOS ESPECIAIS. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. A controvérsia foi decidida com fundamento na legislação local. Incidência da Súmula n. 280 deste Tribunal. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE nº 594.515/RJ–AgR, Segunda Turma, Relator o Ministro Eros Grau, DJE de 16/4/09).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. PROCESSO ADMINISTRATIVO N. E-12/790/94. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INADMISSIBILIDADE DA ATUAÇÃO DO PODER JUDICIÁRIO COMO LEGISLADOR POSITIVO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 680.224/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJE de 12/3/09).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 14 de fevereiro 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
