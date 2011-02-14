@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“PRESCRIÇÃO REGULADA PELO ART. 206, §3º, INC. IX, DO C. CIVIL/2002, POR FORÇA DO ART. 2028, DESTE E NÃO VINTENÁRIA DO ART. 177 DO VETUSTO DIPLOMA. UM DIREITO É ÚTIL NA MEDIDA EM QUE POSSA FAZER A PROVA DE SUA EXISTÊNCIA E, NA IMPOSSIBILIDADE DESTA, É COMO SE NÃO EXISTISSE. IMPÕE-SE A MANUTENÇÃO DA SENTENÇA DE PRIMEIRO GRAU POR SEUS PRÓPRIOS FUNDAMENTOS, SEGUNDO O COMANDO INSERTO NA PARTE FINAL DO ART. 46 DA LEI 9.099/90”. ( fl. 74)
+No apelo extremo, a recorrente sustenta que ocorreu violação ao artigo 5º, incisos XXXV e LV, da Constituição Federal, uma vez que o acórdão recorrido manteve sentença que acolheu a prescrição da pretensão autoral.
+Verifico que o acórdão recorrido decidiu a questão com base na legislação infraconstitucional (Código Civil). A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária. Nesse sentido, RE-AgR 581.885, Rel. Min. Ellen Gracie, 2ª Turma, DJe 7.11.2008 e AI-AgR 698.625, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 3.4.2009, cuja ementa dispõe:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO CIVIL. PRESCRIÇÃO. APLICAÇÃO DO CÓDIGO CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.”
+Ademais, segundo pacífica jurisprudência desta Corte, mera alegação de violação aos primados constitucionais do devido processo legal, da ampla defesa, dos limites da coisa julgada (art. 5º, XXXVI, LIV e LV) são insuficientes para viabilizar o processamento de recurso extraordinário, quando a norma constitucional for atingida apenas de forma reflexa.
+Sobre o tema, confiram-se os julgamentos do AI-AgR 701.567, Rel. Dias Toffoli, DJe 27.8.2010, e do AI-AgR 785.304, Rel. Min. Ellen Gracie, DJe 3.9.2010, cuja ementa dispõe:
+“PROCESSO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE OFENSA AOS ARTIGOS 5º, LIV e LV, E 93, IX, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. PRECEDENTES. 1. Alegação de ofensa aos princípios do contraditório, da ampla defesa e do devido processo legal configura, quando muito, ofensa meramente reflexa às normas constitucionais. Precedentes. 2. Decisão fundamentada, contrária aos interesses da parte, não constitui ofensa ao artigo 93, IX, da Constituição Federal. 3. Agravo regimental improvido.”
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 14 de fevereiro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
