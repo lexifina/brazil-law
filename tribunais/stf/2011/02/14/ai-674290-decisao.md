@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado (fls. 198):
+APELAÇÃO CÍVEL. ADMINISTRATIVO. CONCURSO PÚBLICO. PETROBRÁS. SOCIEDADE DE ECONOMIA MISTA. EDITAL QUE EXIGE ESPECIALIZAÇÃO NA ÁREA DE ELETRÔNICA. GRADUAÇÃO EM ENGENHARIA ELÉTRICA. AÇÃO DECLARATÓRIA. PREENCHIMENTO DOS REQUISITOS EDITALÍCIOS. PROCEDÊNCIA PELA ORIGEM. SENTENÇA QUE SE MANTÉM. NÃO-PROVIMENTO. PRECEDENTES DESTA CORTE.
+1 - Preenchendo os requisitos exigidos pelo Edital do Certame, conforme comprovam através de declaração do Diretor da Escola de Engenharia da UFRGS e por certidão do CREA/RS, deverá ser aceito a habilitação de Engenharia Elétrica para ocupar o cargo de Engenheiro de Equipamentos Júnior (Eletrônica).
+2 - A minoração da verba honorária se impõe, porquanto a remuneração do trabalho do profissional deve ser condigna, sem, com isso, onerar em demasia a parte adversa.
+  No recurso extraordinário, alega-se violação do disposto no art. 5º, LV, pelo suposto cerceamento de defesa no curso da instrução processual, e no art. 37, XXI, pela afronta ao princípio da isonomia, decorrente do reconhecimento de direito em desconformidade com norma constante do edital do concurso.
+Ao analisar a suposta afronta ao art. 5º, LV, o acórdão recorrido concluiu que a matéria está preclusa (fls. 199v.). Portanto, trata-se de controvérsia exclusivamente processual, de natureza, portanto, infraconstitucional, que não pode ser solucionada na via do recurso extraordinário. Neste sentido: AI 474.746-AgR (rel. min. Carlos Britto, DJ de 11.03.2005); AI 756.858-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 02.10.2009); AI 692.834-AgR (rel. min. Eros Grau, Segunda Turma, DJe de 06.02.2009) e AI 203.793AgR (rel. min. Maurício Corrêa, Segunda Turma, DJ de 19.12.1997).
+Quanto à alegada afronta ao art. 37, XXI, da Constituição, verifico que o Tribunal a quo concluiu que “restou incontroverso que o autor preenche os requisitos exigidos pelo edital, fazendo jus a permanecer no processo seletivo” (fls. 199v.). Impossível chegar a conclusão contrária sem o reexame do conteúdo fático-probatório dos autos, o que atrai para a espécie a Súmula 279 desta Corte.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 14 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
