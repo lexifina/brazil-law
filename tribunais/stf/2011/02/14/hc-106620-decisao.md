@@ -1,0 +1,21 @@
+DECIS ÃO: Trata-se de habeas corpus, com pedido liminar, impetrado por Ezequias Barreto Xavier, em favor de Herbert da Silva Xavier.
+Nestes autos, a defesa impugna decisão proferida pelo Ministro Og Fernandes, do Superior Tribunal de Justiça, relator do HC 184.304/SP, que indeferiu a medida liminar.
+O paciente foi denunciado por infração ao art. 157, § 2º, I e II, c/c 14, II, na forma do art. 71, todos do CP, tendo sido absolvido com fundamento no art. 386, VI, do CPP.
+A 8ª Câmara de Direito Criminal do Tribunal de Justiça do Estado do Rio de Janeiro deu provimento parcial ao recurso de apelação do Ministério Público para condenar o recorrido à pena de 2 (dois) anos e 8 (oito) meses, em regime inicial fechado, com a expedição de mandado de prisão.
+Nos autos do HC 128.091/SP, também da relatoria do Ministro Og Fernandes, do Superior Tribunal de Justiça, a ordem foi concedida, assegurando ao paciente aguardar em liberdade o trânsito em julgado da sentença.
+Por intermédio de outro habeas impetrado junto ao STJ, a defesa obteve a anulação do acórdão condenatório e a renovação do julgamento. Sobreveio nova condenação.
+Agora, no HC 184.304/SP, da Corte de Justiça, o impetrante alega “que o defensor constituído não foi intimado da decisão anulatória do primeiro acórdão, daquela que julgou prejudicado o recurso especial interposto e do acórdão em que foi renovado o julgamento”. A liminar restou indeferida pelo relator Ministro Og Fernandes.
+No presente writ, a defesa reitera as alegações suscitadas no Superior Tribunal de Justiça e pede liminarmente a expedição de alvará de soltura ao paciente.
+Passo a decidir.
+Em princípio, a jurisprudência desta Corte é no sentido da inadmissibilidade da impetração de habeas corpus, nas causas de sua competência originária, contra decisão denegatória de liminar em ação de idêntica natureza articulada perante tribunal superior, antes do julgamento definitivo do writ (cf. HC-QO n. 76.347/MS, Min. Moreira Alves, 1ª Turma, unânime, DJ 8.5.1998; HC n. 79.238/RS, Min. Moreira Alves, 1ª Turma, unânime, DJ 6.8.1999; HC n. 79.776/RS, Min. Moreira Alves, 1ª Turma, unânime, DJ 3.3.2000; HC n. 79.775/AP, Min. Maurício Corrêa, 2ª Turma, maioria, DJ 17.3.2000; HC n. 79.748/RJ, Min. Celso de Mello, 2ª Turma, maioria, DJ 23.6.2000; HC n. 101.275/SP, Min. Ricardo Lewandowski, 1ª Turma, maioria, DJe 5.3.2010; e HC n. 103.195, Min. Cezar Peluso, 2ª Turma, unânime, DJe 23.4.2010).
+Esse entendimento está representado na Súmula n. 691/STF; eis o teor: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+É bem verdade que o rigor na aplicação da Súmula n. 691/STF tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC n. 84.014/MG, Min. Marco Aurélio, 1ª Turma, unânime, DJ 25.6.2004; HC n. 85.185/SP, Min. Cezar Peluso, Pleno, por maioria, DJ 1o.9.2006; e HC n. 90.387, da minha relatoria, 2ª Turma, unânime, DJ 28.9.2007).
+Na hipótese dos autos, à primeira vista, não se caracteriza nenhuma dessas situações ensejadoras do afastamento da incidência da Súmula n. 691/STF.
+Dessarte, não se tratando de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal – e salvo melhor juízo na apreciação de eventual impetração de novo pedido de habeas corpus a ser distribuído nos termos da competência constitucional desta Corte (CF, art. 102) –, descabe afastar a aplicação da Súmula n. 691/STF.
+Ademais, não há nestes autos prova pré-constituída quanto à ausência de intimação do defensor.
+Ante o exposto, nego seguimento ao pedido formulado neste habeas corpus, por ser manifestamente incabível, nos termos da Súmula n. 691/STF.
+Publique-se.
+Brasília, 14 de fevereiro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
