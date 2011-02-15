@@ -19,7 +19,11 @@ m) de assistência à saúde para comunidades indígenas; e
 VII - admissão de professor, pesquisador e tecnólogo substitutos para suprir a falta de professor, pesquisador ou tecnólogo ocupante de cargo efetivo, decorrente de licença para exercer atividade empresarial relativa à inovação.
 VIII - admissão de pesquisador, nacional ou estrangeiro, para projeto de pesquisa com prazo determinado, em instituição destinada à pesquisa; e
 IX - combate a emergências ambientais, na hipótese de declaração, pelo Ministro de Estado do Meio Ambiente, da existência de emergência ambiental na região específica.
-§ 1º A contratação de professor substituto a que se refere o inciso IV far-se-á exclusivamente para suprir a falta de docente da carreira, decorrente de exoneração ou demissão, falecimento, aposentadoria, afastamento para capacitação e afastamento ou licença de concessão obrigatória.
-§ 2º As contratações para substituir professores afastados para capacitação ficam limitadas a dez por cento do total de cargos de docentes da carreira constante do quadro de lotação da instituição.
+X - admissão de professor para suprir demandas decorrentes da expansão das instituições federais de ensino, respeitados os limites e as condições fixados em ato conjunto dos Ministérios do Planejamento, Orçamento e Gestão e da Educação.
+§ 1º A contratação de professor substituto de que trata o inciso IV do caput poderá ocorrer para suprir a falta de professor efetivo em razão de:
+I - vacância do cargo;
+II - afastamento ou licença, na forma do regulamento; ou
+III - nomeação para ocupar cargo de direção de reitor, vice-reitor, pró-reitor e diretor de campus.
+§ 2º O número total de professores de que trata o inciso IV do caput não poderá ultrapassar vinte por cento do total de docentes efetivos em exercício na instituição federal de ensino.
 § 3º As contratações a que se refere a alínea h do inciso VI serão feitas exclusivamente por projeto, vedado o aproveitamento dos contratados em qualquer área da administração pública.
 § 4º Ato do Poder Executivo disporá, para efeitos desta Lei, sobre a declaração de emergências em saúde pública.
