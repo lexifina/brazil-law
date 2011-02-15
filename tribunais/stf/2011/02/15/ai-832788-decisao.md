@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“RECURSO INOMINADO – AÇÃO DE OBRIGAÇÃO DE FAZER. I) Mérito: Da regularidade no reajuste da mensalidade pela faixa etária. Improcedente. A Lei nº 9.655/98, em seu artigo 15, § único c/c artigo 1º, I, veda os reajustes em função da idade para os consumidores. Da ausência de discriminação no aumento repassado aos idosos. Improcedente. O Estatuto do Idoso veda cobrança discriminatória em decorrência da idade do cliente. Precedente. Da anuência do recorrido as cláusulas contratuais propostas. Improcedente. O procedimento adotado pela recorrente é incompatível com o previsto na Lei nº 9.656/98. Da impossibilidade de condenação em multa. Improcedente. Correta a imposição de multa por inadimplemento. Recurso conhecido e desprovido.” (fl. 21)
+No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, incisos II, V, XXXVI, LIV, § 2º; e 93, inciso IX, da Constituição Federal.
+Para se entender de forma diversa, seria necessária a prévia análise de cláusulas contratuais (Súmula 454) e da legislação infraconstitucional aplicável à espécie (Lei n. 9.656/98), procedimento incabível na via extraordinária (Súmula 636).
+Nesse sentido, cito, entre outros o AI 813.287, Segunda Turma, Rel. Min. Ellen Gracie, DJe 11.10.2010; e o AI-AgR 681.515, Primeira Turma, Rel. Min. Cármen Lúcia, DJe 20.6.2008, cuja ementa dispõe:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. MAJORAÇÃO DE CONTRAPRESTAÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS (SÚMULA 454). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil”.
+Quanto à suposta ofensa às garantias constitucionais do contraditório e da ampla defesa (art. 5º, LV, da CF), se existente, seria meramente reflexa, porque dependeria de exame prévio de norma infraconstitucional. Nesse sentido: AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.9.2010.
+Por último, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 15 de fevereiro 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
