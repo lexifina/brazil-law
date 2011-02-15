@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“OBRIGAÇÃO DE FAZER CUMULADA COM RESPONSABILIDADE CIVIL E REPETIÇÃO DE INDÉBITO – A CONCESSIONÁRIA DE SERVIÇO PÚBLICO DEVE PRESTÁ-LO DE FORMA CONTÍNUA, AFIGURANDO-SE IRRELEVANTE O FATO DE O AUTOR RESIDIR EM ÁREA DE RISCO, INCLUSIVE PORQUE OS DEMAIS SERVIÇOS ESSENCIAIS NÃO FORAM INTERROMPIDOS – APLICAÇÃO DA TEORIA DO RISCO DO EMPREENDIMENTO – MULTA COMINATÓRIA ADEQUADAMENTE FIXADA PARA A HIPÓTESE DE DESCUPRIMENTO DA OBRIGAÇÃO IMPOSTA À RÉ DE TRANSFERIR A LINHA TELEFÔNICA PARA A RESIDÊNCIA ATUAL DO AUTOR – DANO MORAL CONFIGURADO – SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS QUE SE MANTÉM – DESPROVIMENTO DO RECURSO” (fl. 266).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, ao art. 1º, III, da mesma Carta.
+O agravo não merece acolhida. É que o Tribunal de origem decidiu a causa nos seguintes termos:
+“A circunstância de residir o Autor em área de risco não afasta a obrigação da concessionária Ré de prestar o serviço de telefonia fixa, de caráter essencial, de forma contínua, consoante o disposto no artigo 22 do Código de Defesa do Consumidor, por ser inerente ao risco do próprio empreendimento, não se vislumbrando a impossibilidade absoluta aventada na peça recursal, visto que não foi contestada a alegação autoral de que os demais serviços essenciais não foram interrompidos, além de não ser crível que, desde a data em que houve a suspensão do serviço – junho de 2007 – até o presente momento, não tenha tido a Ré uma única oportunidade de efetuar a transferência da linha telefônica, por ser notório, inclusive, que as investidas policiais na região são esporádicas” (fl. 268).
+Verifica-se, pois, que o acórdão recorrido decidiu a questão com base na legislação ordinária, no caso, o Código de Defesa do Consumidor - CDC. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido: AI 537.096/RS, Rel. Min. Carlos Velloso; AI 613.681-AgR/RJ, Rel. Min. Eros Grau; AI 587.196-AgR/MG, Rel. Min. Cármen Lúcia.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 15 de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
