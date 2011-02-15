@@ -1,0 +1,22 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. AGRAVO RETIDO. AVENTADO CERCEAMENTO DE DEFESA ANTE O INDEFERIMENTO DE COMPLEMENTAÇÃO DA PROVA PERICIAL. INOCORRÊNCIA. EXISTÊNCIA NOS AUTOS DE ELEMENTOS SUFICIENTES À PLENA CONVICÇÃO DO JULGADOR. INTELIGÊNCIA DO ART. 131 DO CÓDIGO DE PROCESSO CIVIL (...).
+É curial que a produção de provas (pericial e testemunhal) é dirigida ao juiz da causa e portanto, para a formação de seu convencimento. Logo, se este se sentir habilitado para julgar o processo, calcado nos elementos probantes já existente nos autos, pode, sintonizado com os princípios da persuasão racional e celeridade processual, desconsiderar o pleito de produção de tais provas, sem cometer qualquer ilegalidade ou cerceamento de defesa.” (fl. 313)
+Nas razões do extraordinário, alega-se violação ao artigo 5º II, XXXV, LIV e LV, e 93, IX, da Constituição Federal.
+Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+Na espécie, o acórdão recorrido decidiu que:
+“Assim, denota-se do laudo pericial que a explosão das rochas no terreno vizinho, de propriedade do réu, contribuíram para o surgimento das rachaduras na residência da autora.” (fl. 324)
+Para entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+Incide, portanto, a Súmula 279/STF.
+Além disso, extrai-se do acórdão impugnado que:
+“No entanto, inexiste cerceamento de defesa quando o juiz, considerando desnecessária a dilação probatória, julga antecipadamente a lide com base nos elementos até então coligidos. É o que determina o Código de Processo Civil (...).” (fl. 315)
+Desse modo, a análise das supostas ofensas à Constituição Federal demandaria o prévio exame da legislação infraconstitucional (Código de Processo Civil), o que é vedado na via estreita do recurso extraordinário (Súmula 636/STF).
+Além disso, a jurisprudência desta Corte é no sentido de que a suposta violação ao art. 5º, II, XXXV, LIV e LV, da Constituição Federal configura, quando muito, ofensa meramente reflexa às normas constitucionais. Nesse sentido, AI-AgR 676.656, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 13.6.2008, cuja ementa dispõe:
+“CONSTITUCIONAL. INDENIZAÇÃO. DANO MORAL. REEXAME DE PROVA. SÚMULA 279 DO STF. ALEGADA VIOLAÇÃO AO ART. 5°, II, XXXV, LIV E LV. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - Matéria demanda o reexame de conjunto fático-probatório, o que atrai a incidência da Súmula 279 do STF. II - O Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III - A alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, em regra, configura situação de ofensa meramente reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. IV - Aplicação de multa. V - Agravo regimental improvido.”
+Com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 15 de fevereiro de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
