@@ -1,0 +1,19 @@
+D ECIS Ã O: Trata-se de mandado de segurança, com pedido liminar, impetrado por Daniel Ferreira Tonussi, em face do Procurador-Geral da República, em razão de sua eliminação do concurso público para provimento de cargos do Ministério Público da União.
+O impetrante alega que se inscreveu no concurso em questão para concorrer a uma das vagas para o cargo de Técnico de Apoio Especializado/Transporte e que logrou êxito na prova objetiva.
+Sustenta que, apesar de ter conseguido completar o teste de aptidão física – correr 2.400 metros em 12 minutos –, foi ilegalmente considerado inapto pela banca examinadora, ao argumento de que não teria conseguido completar a prova, já que apenas teria percorrido uma distância de 2.120 metros nos 12 minutos regulamentares.
+Afirma que interpôs recurso administrativo, o qual estaria pendente de resposta.
+Assim, requer a concessão da medida liminar para determinar a realização de novo teste de aptidão física e para que possa continuar nas demais fases do certame.
+No mérito, pede a inclusão do seu nome no rol de candidatos aptos, ou ao menos a repetição do teste de aptidão física.
+Decido.
+A questão central do mandado de segurança refere-se à possível ilegalidade da autoridade coatora ao considerar o impetrante inapto no teste de aptidão física o que o impediu de prosseguir no certame.
+O impetrante impugna o resultado do referido teste, já que teria completado a prova nos termos exigidos pelo edital do concurso.
+No caso, a discussão sobre a existência de ilegalidade no resultado do teste de aptidão física demanda dilação probatória, providência vedada em sede de mandado de segurança.
+É preciso destacar que o mandado de segurança, em razão de não admitir dilação probatória, exige a demonstração incontroversa dos fatos e provas, de forma pré-constituída, para a caracterização do direito líquido e certo. Nesse sentido, a jurisprudência dominante desta Corte; confira-se:
+“MANDADO DE SEGURANÇA - PETIÇÃO INICIAL DESACOMPANHADA DOS DOCUMENTOS NECESSÁRIOS À COMPROVAÇÃO LIMINAR DOS FATOS ALEGADOS - INDISPENSABILIDADE DE PROVA PRÉ-CONSTITUÍDA - CONCEITO DE DIREITO LÍQUIDO E CERTO - FATOS INCONTROVERSOS E INCONTESTÁVEIS - PRETENDIDA INTERVENÇÃO DE TERCEIRO, NA CONDIÇÃO DE "AMICUS CURIAE", NO PROCESSO MANDAMENTAL - INADMISSIBILIDADE - RECURSOS DE AGRAVO IMPROVIDOS. - Refoge, aos estreitos limites da ação mandamental, o exame de fatos despojados da necessária liquidez, não se revelando possível a instauração, no âmbito do processo de mandado de segurança, de fase incidental de dilação probatória. Precedentes. - A noção de direito líquido e certo ajusta-se, em seu específico sentido jurídico-processual, ao conceito de situação decorrente de fato incontestável e inequívoco, suscetível de imediata demonstração mediante prova literal pré-constituída. Precedentes. - Não se revela juridicamente possível a invocação da Lei nº 9.868/99 (art. 7º, § 2º) para justificar o ingresso de terceiro interessado, em mandado de segurança, na condição de "amicus curiae". É que a Lei nº 9.868/99 - por referir-se a processos de índole eminentemente objetiva, como o são os processos de controle normativo abstrato (RTJ 113/22 - RTJ 131/1001 - RTJ 136/467 - RTJ 164/506-507, v.g.) - não se aplica aos processos de caráter meramente subjetivo, como o processo mandamental. - Não se revela admissível a intervenção voluntária de terceiro, "ad coadjuvandum", na condição de assistente, no processo de mandado de segurança. Doutrina. Precedentes.”
+(MS-AgR-AgR 26552, Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe 16.10.2009 )
+Ante o exposto, na linha da jurisprudência desta Corte, nego seguimento ao mandado de segurança e julgo prejudicado o pedido liminar (art. 10, da Lei 12.016/09).
+Publique-se.
+Brasília, 15 de fevereiro de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
