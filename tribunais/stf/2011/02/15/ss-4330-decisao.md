@@ -1,0 +1,16 @@
+D ECIS Ã O:  1. Trata-se de pedido de suspensão de segurança, ajuizado pelo Estado do Amazonas, com a finalidade de sustar a execução do acórdão proferido pelo Tribunal de Justiça amazonense, nos autos do Mandado de Segurança nº 2007.004435-7.
+A decisão impugnada assegurou aos impetrantes, servidores estaduais da Secretaria de Estado de Planejamento (SEPLAN), equiparação remuneratória com servidores lotados na Secretaria de Estado da Fazenda (SEFAZ), para alterar o cálculo da Gratificação de Atividade Industrial (GAI), de forma a ser calculada na base de 80% (oitenta por cento) sobre o valor pago aos servidores da segunda secretaria (SEFAZ), para os cargos assemelhados.
+Alega o requerente, em síntese, grave lesão à ordem e à economia públicas e potencial efeito multiplicador. Sustenta ameaça às finanças do Estado, além de manifesta contrariedade à ordem constitucional.
+2. É caso de suspensão.
+De acordo com o regime legal de contracautela (Leis nos 12.016/09, 8.437/92 e 9.494/97, e art. 297 do RISTF), compete a esta Presidência suspender execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+A cognição do pedido exige, contudo, demonstração da natureza constitucional da controvérsia (cf. Rcl nº 497-AgR, Rel. Min. Carlos Velloso, Plenário, DJ de 06.4.2001; SS nº 2.187-AgR, Rel. Min. Maurício Corrêa, DJ de 21.10.2003 e; SS nº 2.465, Rel. Min. Nelson Jobim, DJ de 20.10.2004).
+Está preenchido o requisito, pois em jogo, aqui, suposta violação aos arts. 5º, II e 37, XIII, da Constituição da República, que teriam sido afrontados pelo Tribunal de Justiça local ao equiparar servidores, para pagar-lhes idêntica vantagem. Não há dúvida, portanto, de que a matéria discutida na origem se reveste de índole constitucional.
+A interpretação sistemática da Lei nº 12.016, de 7 de agosto de 2009, não deixa dúvida da inaplicabilidade de execução provisória de decisão judicial em mandado de segurança que tenha por objeto a compensação de créditos tributários, a entrega de mercadorias e bens provenientes do exterior, a reclassificação ou equiparação de servidores públicos e a concessão de aumento ou a extensão de vantagens ou pagamento de qualquer natureza (cfr. § 2°  do art. 7° c/c o § 3.° do art. 14). Em outras palavras, as decisões concessivas de segurança com tais objetos somente podem ser executadas após o trânsito em julgado.
+Em consulta aos andamentos processuais, verifico que o acórdão ora impugnado não transitou em julgado e, portanto, não pode ser executado provisoriamente, porquanto concederam aos impetrantes aumento de vantagens, pela equiparação de cargos assemelhados.
+3. Nestes exatos termos, defiro o pedido, para suspender a execução do acórdão proferido pelo Tribunal a quo, nos autos do Mandado de Segurança nº 2007.004435-7, até o trânsito em julgado ou ulterior deliberação desta Corte.
+Exp. com urgência telex e ofício ao Tribunal de Justiça do Amazonas, para que cumpra esta decisão imediatamente.
+Publique-se. Int..
+Brasília, 15 de fevereiro de 2011.
+Ministro C EZAR P ELUSO
+Presidente
+Documento assinado digitalmente
