@@ -1,0 +1,23 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) em que se alegou violação ao princípio da ampla defesa, da motivação das decisões judiciais, da proporcionalidade e da individualização da pena.
+Consta dos autos que o ora agravante foi denunciado, juntamente com outro corréu, pela prática do crime definido no art. 1º, I, da Lei 8.137/1990, c/c o art. 69 do Código Penal, por ter suprimido e reduzido o pagamento de tributo devido mediante a prestação de declarações falsas.
+O agravante e seu corréu foram absolvidos em primeiro grau de jurisdição pelo juízo federal da 7ª Vara Criminal Federal da 1ª Subseção Judiciária de São Paulo.
+O Ministério Público Federal recorreu e o Tribunal Regional Federal da 3ª Região deu provimento ao apelo, condenando o réu à pena de 03 (três) anos e 09 (nove) meses de reclusão e multa, em regime semi-aberto, deixando de converter a pena privativa de liberdade em restritiva de direitos, tendo em conta “o grau de culpabilidade, os maus antecedentes, a péssima conduta social e a personalidade dos acusados” (fls. 1.377).
+A defesa opôs embargos de declaração, que foram rejeitados.
+No recurso extraordinário inadmitido na origem, o recorrente alega a nulidade do acórdão recorrido, tendo em vista a ausência de intimação da defesa da realização da sessão de julgamento.
+Sustenta que o julgamento “culminou com a desproporcional imposição de pena e desprezo do princípio da individualização das penas, pois, além da nulidade apontada pela falta de intimação da sessão, ressente-se de motivação e precisão” (fls. 1.627).
+Aponta, ainda, a falta de fundamentação do acórdão recorrido quanto à fixação da pena imposta, o regime prisional aplicado e a não conversão da pena privativa de liberdade em restritiva de direitos.
+Por fim, sustenta que a multa de 75% (setenta e cinco por cento) aplicada pelo fisco, nos termos do art. 44, I, da Lei 9.430/1996, só se aplica a condutas não dolosas, ou seja, quando não há fraude fiscal. Assim, se administrativamente houve o reconhecimento de que a conduta seria culposa, o recorrente não poderia ser condenado por crime doloso.
+É o relatório.
+Decido.
+Relativamente à alegada violação ao princípio da individualização da pena, relacionada à dosimetria fixada, ao regime prisional e aos motivos para o indeferimento da substituição da pena, trata-se, claramente, de ofensa reflexa, que demanda a prévia análise da legislação infraconstitucional (o próprio recorrente remete à análise dos artigos 29 e 59 do Código Penal).
+Quanto à alegada ausência de intimação da defesa para a sessão de julgamento, verifico que a defesa estava ciente da data do julgamento e, inclusive, requereu o adiamento (fls. 1341/1344, vol. 6), pedido este que foi considerado manifestamente protelatório e, por isso, foi indeferido (fls. 1366). Portanto, é manifestamente incabível a alegação de cerceamento de defesa, tendo em vista o perfeito conhecimento pela defesa da data em que a apelação ministerial seria julgada, e a opção do patrono, sponte sua, por comparecer a outra audiência. A análise das razões por que deixou de comparecer à sessão impugnada, cuja data era conhecida pela defesa, esbarra no óbice da Súmula 279.
+Sobre a alegada falta de fundamentação do acórdão recorrido, cuida-se de mera irresignação (Súmula 279), sem demonstrar os dispositivos constitucionais violados (Súmula 284).
+Outrossim, relativamente à caracterização da conduta como dolosa pelo Judiciário e supostamente como culposa pelo Fisco, além de não estar claro qual dispositivo constitucional teria sido violado, o que impede a admissão do extraordinário (Súmula 284), eventual prejuízo demandaria, também aqui, a prévia análise da legislação infraconstitucional.
+Noto, ainda, da leitura dos acórdãos proferidos na apelação ministerial e nos embargos da defesa (fls. 1366/1380 e fls. 1519/1523, vol. 6), que a questão constitucional suscitada não foi ventilada na decisão recorrida (Súmula 282).
+Por fim, quanto ao pedido formulado às fls. 1847/1848, no sentido do sobrestamento da ação penal de origem até o pagamento final do débito que o recorrente alega ter parcelado, cuida-se de matéria que não pode ser apreciada originariamente por este Tribunal, seja por demandar a análise de fatos e provas (Súmula 279), seja porque o pedido de sobrestamento deve ser apreciado, primeiramente, pelo juízo de primeiro grau.
+Por todo o exposto, nego seguimento ao agravo (art. 38 da Lei 8.038/1990 c/c o art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 15 de fevereiro de 2011.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
