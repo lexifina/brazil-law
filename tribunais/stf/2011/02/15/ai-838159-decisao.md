@@ -1,0 +1,8 @@
+DECISÃO:   Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão prolatado pelo Tribunal de Justiça de Rio Grande do Sul, que entendeu que a responsabilidade solidária dos entes federados em relação à saúde implicava o dever do Estado do Rio Grande do Sul de prestar à agravada medicamentos destinados a tratamento contra o câncer, não tendo a descentralização dos serviços e ações do SUS o condão de afastar previsões constitucionais.
+Sustenta-se, em síntese, a violação dos arts. 196, 197 e 198, da Constituição federal, pois, a despeito de ser incontroversa a responsabilidade solidária do Estado em garantir o direito à saúde, nos termos de ampla normatização infraconstitucional que menciona, a responsabilidade pelo do tratamento do câncer, inclusive em relação aos medicamentos, é apenas dos Centros de Alta Complexidade em Oncologia (CACONs) e das Unidades de Alta Complexidade em Oncologia (UNACONs), cabendo ao Estado apenas a atividade de credenciamento dos CACONs e das UNACONs, sua fiscalização e o repasse de verbas do Ministério da Saúde a esses centros e unidades.
+O exame da tese exposta pelo recorrente, nos termos em que articulada no recurso extraordinário, demanda a análise e interpretação de ampla normatização infraconstitucional. Dessa forma, eventual ofensa ao texto constitucional seria indireta ou reflexa, descabendo a interposição de recurso extraordinário.
+Ante o exposto, com base no art. 557, caput, do Código de Processo Civil, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 15 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
