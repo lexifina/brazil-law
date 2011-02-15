@@ -1,0 +1,14 @@
+DECISÃO: vistos, etc.
+Tenho que a insurgência não merece acolhida. Isso porque a controvérsia sob exame não transborda os limites do âmbito infraconstitucional, dado ser nítida a intenção da parte recorrente de reabrir a discussão acerca dos limites objetivos da coisa julgada. Providência vedada neste momento processual.
+2. No mesmo sentido, vejam-se os AIs 587.396-AgR, da relatoria do ministro Sepúlveda Pertence; 710.529-AgR, da relatoria do ministro Ricardo Lewandowski; 754.994-AgR, da minha relatoria; 765.612-AgR, da relatoria da ministra Cármen Lúcia; 767.968-AgR, da relatoria do ministro Joaquim Barbosa; e 733.272-AgR, da relatoria do ministro Celso de Mello, este assim ementado, na parte que interessa ao deslinde da causa:
+“AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE PREQUESTIONAMENTO - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+[...]
+- A discussão em torno da integridade da coisa julgada, por reclamar análise prévia e necessária dos requisitos legais , que, em nosso sistema jurídico, conformam o fenômeno processual da res judicata, torna incabível o recurso extraordinário.
+É que , em tal hipótese, a indagação em torno do que dispõe o art. 5º, XXXVI, da Constituição - por supor o exame, in concreto, dos limites subjetivos ( CPC , art. 472) e/ou objetivos (CPC , arts. 468, 469, 470 e 474) da coisa julgada - traduz matéria revestida de índole infraconstitucional , podendo caracterizar situação de eventual conflito indireto com o texto da Carta Política ( RTJ 182/746), circunstância que pré-exclui a possibilidade de adequada utilização do recurso extraordinário. Precedentes.”
+3. De mais a mais, anoto que a alegada ofensa às garantias constitucionais do processo, se existente, apenas ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência do Supremo Tribunal Federal, de que são exemplos os AIs 517.643-AgR, da relatoria do ministro Celso de Mello; e 273.604-AgR, da relatoria do ministro Moreira Alves.
+4. Por outra volta, pontuo que o aresto impugnado, ao contrário do consignado pela parte agravante, está devidamente fundamentado. Ora, é firme nesta nossa Corte o entendimento de que “a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, da relatoria do ministro Sepúlveda Pertence).
+Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 15 de fevereiro de 2011.
+Ministro AYRES BRITTO
+Relator
