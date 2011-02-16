@@ -1,0 +1,22 @@
+DECISÃO: vistos, etc.
+Reconsidero a decisão de fls. 1.026/1.027.
+2. Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Superior Tribunal de Justiça. Acórdão assim ementado, na parte que interessa ao deslinde da causa (fls. 881):
+“PROCESSUAL CIVIL. ADMINISTRATIVO. CRUZADOS NOVOS BLOQUEADOS. MP 168/90 E LEI 8.024/90. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ÍNDICE. BTNF. PEDIDO DE INDENIZAÇÃO JULGADO IMPROCEDENTE PELAS INSTÂNCIAS ORDIÁRIAS. AUSÊNCIA DE IMPUGNAÇÃO. PRECLUSÃO. PRECEDENTES. DESPROVIMENTO.
+1. O TRF da 4ª Região deu parcial provimento ao recurso de apelação do particular, tão-somente para determinar a incidência do índice de 44,80%, relativo ao IPC de abril/90, pois o pedido de indenização por lucros cessantes – com fundamento na suposta inconstitucionalidade do bloqueio – foi expressamente rejeitado, confirmando-se, nesse ponto, a sentença de improcedência.
+2. O agravante sequer interpôs recurso especial ou extraordinário para rediscutir o direito à indenização, razão pela qual a matéria transitou em julgado, não sendo possível, destarte, qualquer reexame.
+3. O recurso especial do BACEN fora parcialmente acolhido pela decisão agravada, apoiada na jurisprudência consolidada desta Corte, para 'determinar que, após a transferência dos saldos para o BACEN, seja utilizado o BTNF como índice de correção monetária dos ativos financeiros retidos pela Lei 8.024/90'.
+4. 'É constitucional o § 2º do art. 6º da lei 8.024/1990, resultante da conversão da Medida Provisória 168/1990, que fixou o BTN fiscal como índice de correção monetária aplicável aos depósitos bloqueados pelo Plano Collor I' (Súmula 725/STF).
+5. Agravo regimental de CAIO MARTINS LEAL desprovido.
+[...]”
+3. Pois bem, a parte recorrente alega que o Superior Tribunal de Justiça, ao dar provimento ao recurso especial do BACEN, usurpou da competência desta nossa Casa de Justiça para apreciar matéria exclusivamente constitucional. Insurge-se, ainda, contra a rejeição dos embargos de declaração opostos com objetivo de prequestionar matéria constitucional.
+4. Tenho que a insurgência não merece acolhida. De saída porque, nos termos da jurisprudência do Supremo Tribunal Federal, “não cabe recurso extraordinário fundado em violação ao art. 105, III, da Constituição Federal, para rever a correção, no caso concreto, da decisão do Superior Tribunal de Justiça de conhecer ou não do recurso especial, exceto se o julgamento emanado deste Superior Tribunal apoiar-se em premissas que conflitem, diretamente, com o disposto no referido art. 105, III, [...]” (AI 691.898-AgR, da relatoria do ministro Ricardo Lewandowski).
+5. No caso, o Superior Tribunal de Justiça reconheceu-se competente para apreciar o recurso especial sob exame porque o Tribunal Regional Federal da 4ª Região, ao julgar o recurso de apelação interposto pelo ora agravante, aplicou ao caso a Lei nº 7.730/1989, elegendo o IPC como índice de reajuste dos cruzados novos bloqueados (abril de 1990).
+6. De se ver, portanto, que não ocorreu violação ao inciso III do art. 105 da Constituição Federal, tendo em vista que o STJ, ao decidir a controvérsia, reformou o acórdão impugnado tão-somente para aplicar ao caso a MP 168/1990, convertida na Lei 8.024/1990 - que fixou o BTN fiscal como índice de correção monetária aos depósitos bloqueados pelo Plano Collor I.
+7. De mais a mais, a alegada ofensa às garantias constitucionais do processo, se existente, ocorreria de modo reflexo ou indireto. Confira-se, a propósito, a ementa do AI 517.643-AgR, da relatoria do ministro Celso de Mello:
+“AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, XXXV E LV, E NO ART. 93, IX, TODOS DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+- As alegações de desrespeito aos postulados da inafastabilidade do controle jurisdicional, do devido processo legal, da motivação dos atos decisórios e da plenitude de defesa, por dependerem de exame prévio e necessário da legislação comum, podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes.”
+Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 16 de fevereiro de 2011.
+Ministro AYRES BRITTO
+Relator
