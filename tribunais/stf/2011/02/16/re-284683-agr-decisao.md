@@ -1,0 +1,17 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao recurso extraordinário, ante a incidência das Súmulas 282 e 356 do STF. Além disso, a decisão impugnada considerou que a ofensa à Lei Maior, se ocorrente, seria apenas indireta.
+O agravante sustenta, em suma, que a decisão agravada deve ser reformada e insiste na argumentação de que o tema em debate, além de ser eminentemente constitucional, foi devidamente prequestionado.
+Assiste razão ao agravante. Assim, reconsidero a decisão de fl. 79 e passo a examinar o recurso extraordinário.
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu ser inaplicável a Medida Provisória 1.703-14, que ampliou o prazo para o ajuizamento de ação rescisória, sob o fundamento de que tal comando normativo não foi convertido em lei no prazo constitucional.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se violação do art. 62, parágrafo único, da mesma Carta (redação anterior à Emenda Constitucional 32/2001). Requereu-se, em síntese, a aplicação da Medida Provisória 1.577/97 e suas reedições, com a decretação da tempestividade da ação rescisória.
+O Subprocurador-Geral da República Geraldo Brindeiro opinou pelo conhecimento e provimento do recurso.
+A pretensão recursal não merece acolhida.
+Isso porque o Supremo Tribunal Federal, no julgamento da ADI 1.910-MC, Rel. Min. Sepúlveda Pertence, deferiu o pedido de medida cautelar para suspender, até a decisão final da ação direta, a eficácia do art. 188 do Código de Processo Civil, na redação dada pelo art. 5º da Medida Provisória nº 1.703-18, de 27/10/1998, em sua reedição no art. 1º da Medida Provisória nº 1.798-3, de 8/4/1999.
+Ressalto, também, que esta Corte já havia, no julgamento da ADI 1.753-MC/DF, Rel. Min. Sepúlveda Pertence, suspendido a eficácia de disposição semelhante (Medida Provisória 1.577-6/97 e reedições).
+Nesse contexto, há entendimento deste Tribunal no sentido da decadência das ações rescisórias ajuizadas fora do biênio legal, no período de vigência das medidas provisórias não convertidas em lei ou suspensas por decisão em controle concentrado de constitucionalidade. Por oportuno, destaco o AI 440.007-AgR/RS, Rel. Min. Sepúlveda Pertence, cuja ementa segue transcrita:
+“I. Ação rescisória: consumação da decadência. 1. O acórdão recorrido deferiu prazo em dobro para o ajuizamento de ação rescisória, com base no art. 188 do C. Proc. Civil, na redação dada pelo art. 5º da MPr 1703/98, cuja eficácia já fora suspensa pelo Supremo Tribunal Federal no julgamento da ADI 1.910-MC, Pertence, DJ 27.02.2004. 2. De qualquer sorte, ao ser ajuizada a ação rescisória, já se exaurira o prazo estabelecido na redação original do art. 188 do C. Pr. Civil. 3. Recurso extraordinário: provimento, para, em razão da consumação da decadência do direito de propor a ação rescisória, julgar extinto o processo, com julgamento do mérito (CPC, art. 269, IV)”.
+No mesmo sentido, destaco os seguintes precedentes, entre outros: RE 427.510/PE, Rel. Min. Sepúlveda Pertence; AR 1.575-AgR/SP, Rel. Min. Maurício Corrêa; AI 617.811/RS e RE 419.716/AM, Rel. Min. Joaquim Barbosa; RE 370.344-AgR/SC, Rel. Min. Ayres Britto; AI 734.966/RS, de minha relatoria.
+Isso posto, reconsidero a decisão de fl. 79 e nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 16 de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
