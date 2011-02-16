@@ -1,0 +1,9 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo regimental, interposto pelo Estado do Amazonas, contra decisão pela qual o meu antecessor, ministro Ilmar Galvão, negou seguimento ao recurso extraordinário. O que fez sob o fundamento de que eventual ofensa ao inciso LIII do art. 5º da Constituição Republicana apenas ocorreria de forma reflexa ou indireta.
+2. Pois bem, a parte agravante alega que a decisão ora recorrida não fez qualquer referência ao inciso IX do art. 93 da Magna Carta Federal, tido por violado no apelo extremo. Sustenta que, na instância judicante de origem, a “questão foi devidamente apreciada à luz do dispositivo apontado como malferido (Art. 93, IX, da Carta Magna de 1988), com o devido oferecimento de Embargos de Declaração, razão pela qual resta demonstrado que estão presentes os pressupostos que ensejam a admissibilidade do presente apelo recursal” (fls. 98).
+3. Tenho que a insurgência merece acolhida, ante a falta de análise do referido dispositivo constitucional. Tal omissão, contudo, não leva à alteração do julgado. Isso porque o aresto proferido pelo Tribunal de Justiça do Estado do Amazonas, ao contrário do consignado pelo recorrente, encontra-se devidamente fundamentado. Ora, é firme nesta nossa Corte o entendimento de que “a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão está satisfeita a exigência constitucional” (RE 140.370, da relatoria do ministro Sepúlveda Pertence).
+Isso posto, e frente ao art. 557 do CPC e ao § 1o do artigo 21 do RI/STF, dou provimento ao agravo regimental para suprir a omissão apontada, mantendo a negativa de seguimento ao apelo extremo.
+Publique-se.
+Brasília, 16 de fevereiro de 2011.
+Ministro AYRES BRITTO
+Relator
