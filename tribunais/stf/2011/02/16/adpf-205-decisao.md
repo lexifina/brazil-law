@@ -1,0 +1,26 @@
+StarWriter
+D ECIS Ã O:
+Ref. Petição n° 13097/2010 (fls. 170/268)
+Vistos.
+ANTÔNIA DOROTILDES LEMOS CARVALHO, DORIZETE DE MELO FREIRE GOMES, CREMILDA ALVES MAIA DE AGUIAR, EURIVAN SALES RIBEIRO, FRANCISCA LUSTOSA MACHADO DE LIMA, FRANCISCA NILCE BATISTA ALVES, FRANCISCA OLIVEIRA RAMOS, GREGÓRIO EDSON DE MELO SOBRINHO, ISABEL MARQUES ALVES, MARIA DA CONCEIÇÃO SOARES LOPES, MARIA DO SOCORRO FERNANDES FERREIRA, MARIA DOS REMÉDIOS DE FÁTIMA CARVALHO PINTO, RAIMUNDA PEREIRA DA SILVA e VALDINA SOARES DOS SANTOS LOIOLA, requerem, por meio da Petição n° 13097/2010 (fls. 170/268), o ingresso na presente arguição de descumprimento de preceito fundamental, na qualidade de amici curiae.
+Justificam o interesse da seguinte forma:
+“Estão presentes, no caso, ambos os requisitos para admissão deste amici curiae: a relevância da matéria é evidente pela importância e influência que a manutenção de direitos adquiridos e da força de atos jurídicos perfeitos princípios jungido as cláusulas pétreas em nossa Constituição, exerce na vida dos cidadãos brasileiros, no caso especialmente aos cidadãos piauienses; e a legitimidade dos postulantes, posto que a lei ao se referir aos 'interessados no processo' (art. 6°., §2°. Da Lei 9.882/99) se dirige também a pessoas físicas, e não somente a organizações da sociedade civil.
+(...)
+Com efeito, os beneficiários da norma atacada, em especial os interessados que ora traçam estas rápidas considerações, são ex-servidores públicos estaduais que aderiram ao Programa de Desligamento Voluntário – PDV, do Governo do Estado do Piauí, instituído pela Lei 4.865/96, cujo programa assegurava inúmeras vantagens (...).
+Com o deferimento das respectivas adesões ao PDV, continuaram os ex-servidores a recolher a contribuição previdenciária normalmente. Eis que, repentinamente, o IAPEP resolveu suspender o recolhimentos destas contribuições previdenciárias, por base em Portaria.”
+A Lei n° 9.882/99, que versa sobre a arguição de descumprimento de preceito fundamental, não regula a figura do amicus curiae de forma específica. Esse instituto encontra-se regrado no art. 7º, § 2º, da Lei n° 9.868/99, o qual admite, nas ações diretas de inconstitucionalidade, a participação do amicus curiae em caráter excepcional e como faculdade do relator, de modo que esta Corte tem aplicado o artigo por analogia nas arguições de descumprimento de preceito fundamental. Veja-se decisão proferida pelo Ministro Marco Aurélio na ADPF 70/DF:
+“ Admito a aplicação analógica da Lei nº 9.868/99 ao processo referente à argüição de descumprimento de preceito fundamental versada na Lei nº 9.882/99, em cujo processo, assim, de início, é possível a intervenção de terceiro. Entrementes, tal intervenção excepciona a regra do artigo 7º da Lei nº 9.868/99, segundo o qual não se admitirá intervenção de terceiros no processo de ação direta de inconstitucionalidade. A exceção corre à conta de situações concretas em que o relator, dada a relevância da matéria e a representatividade dos postulantes, entenda cabível a manifestação de outros órgãos ou entidades.“ (DJ de 20/06/2005)
+Ainda sobre o tema: ADPF 46, Rel. Min. Marco Aurélio, DJ de 16/06/2005 e ADPF 73, Rel. Min. Eros Grau, DJ de 08/08/2005.
+No caso em tela, o pedido é formulado por pessoas físicas, terceiros concretamente interessados no feito. Ao passo que a jurisprudência desta Corte, em conformidade com a exigência contida no art. 7º, § 2º, da Lei n° 9.686/99, somente tem admitido a manifestação de terceiros quando estes tratarem-se de órgãos ou entidades.
+Com efeito, nos termos do art. 7º, § 2º, da Lei nº 9.868/99, compete ao relator, considerando a relevância da matéria e a representatividade dos postulantes, por meio de despacho irrecorrível, admitir ou não “a manifestação de outros órgãos ou entidades” na condição de amicus curiae.
+Como se vê, dentre os requisitos analisados para a admissão da intervenção está a representatividade daquele que visa ingressar no processo e o deferimento de ingresso de pessoas físicas na qualidade de amici curiae importaria em abrir espaço para a discussão de situações de caráter individual, incabível em sede de processo de índole objetiva.
+Nesse sentido, destaco o seguinte trecho da decisão proferida pelo Min. Cezar Peluso na ADI 4.178/GO:
+“ Não assiste razão ao pleito de Humberto Monteiro da Costa, Isabella Spinola Alves Corrêa, Luiz Antônio Ferreira Pacheco da Costa e Emmanuel Lopes Tobias, que requerem admissão na condição de amici curiae. É que os requerentes são pessoas físicas, terceiros concretamente interessados no feito, carecendo do requisito de representatividade inerente à intervenção prevista pelo art. 7º, § 2º, da Lei nº 9.868, de 10.11.1999, o qual, aliás, é explícito ao admitir somente a manifestação de outros “órgãos ou entidades” como medida excepcional aos processos objetivos de controle de constitucionalidade.” (DJE n° 195 de 15/10/2009)
+Nesses termos, resta claro que os requerentes não preenchem os requisitos necessários para sua admissão na qualidade de amici curae, não ostentando a representatividade necessária à sua admissão no feito.
+Pelas razões expostas, indefiro o pedido.
+Devolvam a petição apresentada às peticionárias.
+Publique-se. Intime-se.
+Brasília, 16 de fevereiro de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
