@@ -1,0 +1,20 @@
+D ECIS Ã O:
+Vistos.
+DER/MG – Departamento de Estradas de Rodagem do Estado de Minas Gerais interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 2º, 5º, inciso II, 37, caput e inciso X, e 169 da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Oitava Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+“DIREITO ADMINISTRATIVO E CONSTITUCIONAL. AÇÃO ORDINÁRIA. PENSIONISTAS DE EX-SERVIDORES DO DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE MINAS GERAIS - DER/MG. DECRETO 36.033/94, ALTERADO PELO DECRETO N.º 36.585/94. DECRETO N.º 36.829/95. REAJUSTE NAS PENSÕES DEVIDO, INDEPENDENTE DA DATA DO ÓBITO. DIREITO ASSEGURADO PELA CONSTITUIÇÃO FEDERAL. APELO PROVIDO. Reconhecido o direito do reajustamento dos vencimentos dos servidores e ex-servidores da Autarquia Departamento de Estradas de Rodagens do Estado de Minas Gerais - DER/MG, concedido por forca do Decreto Executivo 36.829/95, tal alteração atinge, por força das disposições constitucionais, os proventos dos pensionistas, sendo irrelevante a data do óbito do funcionário público, eis que, se vivos estes estivessem na data do reajustamento (1995), incorporariam em seus vencimentos o direito ora perseguido. Apelo provido” (fl. 139).
+Opostos embargos de declaração (fls. 155 a 158), foram rejeitados (fls. 165 a 170).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido dos embargos de declaração foi publicado em 3/10/06, conforme expresso na certidão de folha 38, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar no tocante a alegada violação ao artigo 5º, inciso II, da Constituição Federal, conforme previsto na Súmula nº 636 desta Corte, que assim dispõe, in verbis:
+“Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+Por outro lado, o Tribunal de origem decidiu a controvérsia sobre a concessão de reajuste de 10% nos vencimentos das pensionistas com fundamento na legislação infraconstitucional pertinente (Decretos nºs 36.033/94, 36.829/95 e 36.585/94). Assim, eventual ofensa à Constituição Federal, se ocorresse, seria indireta ou reflexa, o que inviabiliza a interposição do recurso extraordinário. Incidência da Súmula nº 280 desta Corte. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE VENCIMENTOS. DECRETO N. 36.829/95. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 729.137/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe 19/6/10).
+“AGRAVO REGIMENTAL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VENCIMENTOS. DECRETOS ESTADUAIS 36.033/1994 E 36.829/1995. INTERPRETAÇÃO DE DIREITO LOCAL. ÓBICE DA SÚMULA 280 DO STF. O Tribunal a quo decidiu a questão em debate com base na interpretação dada aos Decretos estaduais 36.033/1994 e 36.585/1994. Assim, para se chegar a conclusão diversa, seria necessária a análise de normas locais, o que não é permitido em recurso extraordinário, à luz da Súmula 280 desta Corte. Agravo regimental a que se nega provimento” (AI nº 559.401/MG-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 6/3/09).
+Ainda no mesmo sentido as seguintes decisões monocráticas: AI nº 731.759/MG, Relator o Ministro Marco Aurélio, DJe de 14/9/09; e AI nº 786.350/MG, Relator o Ministro Ricardo Lewandowski, DJe de 08/3/10.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 17 de fevereiro de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
