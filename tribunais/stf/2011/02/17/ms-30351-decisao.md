@@ -1,0 +1,20 @@
+D ECIS Ã O: Trata-se de mandado de segurança, com pedido liminar, impetrado por Saulo Francisco Viol Ribeiro, em face do Procurador-Geral da República, em razão de sua eliminação do concurso público para provimento de cargos do Ministério Público da União.
+Em síntese, a impetrante alega que foi aprovada em prova objetiva, mas não alcançou a nota mínima para a aprovação na prova discursiva.
+Aduz que determinado conteúdo abordado na prova discursiva (Lei 8.625/93), bem como a necessidade alinhamento justificado do texto não estavam previstos no edital.
+Afirma que interpôs recursos administrativos e que parte deles foi indeferida sem a devida motivação.
+Requer a concessão de medida liminar para determinar a reserva de vaga, a fim de assegurar-lhe a nomeação em caso de eventual reclassificação dos candidatos aprovados. No mérito pede para que seja determinada à banca examinadora que realize nova correção de sua prova discursiva, com a conseqüente elevação da nota do candidato, incluindo-o no rol dos aprovados, bem como a anulação dos quesitos 1 e 2.4 da referida prova.
+Decido.
+A questão central do mandado de segurança refere-se à cobrança de conteúdo estranho ao edital para elaboração da prova discursiva e à falta de motivação da decisão proferida em recurso administrativo.
+A impetrante insurge-se contra o comando da prova discursiva que exigiu a abordagem da Lei 8.625/93.
+Ocorre que tal conteúdo não foi levado em consideração por ocasião da avaliação da prova, conforme demonstra o espelho de correção juntado aos autos.
+Dessa forma, não há que se falar em prejuízo sofrido pelo postulante ou qualquer outro candidato, não havendo direito líquido e certo a ensejar a anulação do quesito em questão.
+No que se refere à alegação de que a banca examinadora haveria exigido alinhamento justificado para a elaboração do texto dissertativo, esta Corte já decidiu no sentido de que não cabe ao Poder Judiciário substituir a banca examinadora, a fim de reexaminar critérios de correção e conteúdo das questões formuladas. Confira-se:
+“CONCURSO PÚBLICO. PROCURADOR DA REPÚBLICA. PROVA OBJETIVA: MODIFICAÇÃO DO GABARITO PRELIMINAR. REPROVAÇÃO DE CANDIDATA DECORRENTE DA MODIFICAÇÃO DO GABARITO. ATRIBUIÇÕES DA BANCA EXAMINADORA. MÉRITO DAS QUESTÕES: IMPOSSIBILIDADE DE REVISÃO JUDICIAL. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. RECURSO AO QUAL SE NEGA PROVIMENTO. 1. A modificação de gabarito preliminar, anulando questões ou alterando a alternativa correta, em decorrência do julgamento de recursos apresentados por candidatos não importa em nulidade do concurso público se houver previsão no edital dessa modificação. 2. A ausência de previsão no edital do certame de interposição de novos recursos por candidatos prejudicados pela modificação do gabarito preliminar não contraria os princípios constitucionais do contraditório e da ampla defesa. 3. Não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora do concurso público para reexaminar os critérios de correção das provas e o conteúdo das questões formuladas (RE 268.244, Relator o Ministro Moreira Alves, Primeira Turma, DJ 30.6.2000; MS 21.176, Relator o Ministro Aldir Passarinho, Plenário, DJ 20.3.1992; RE 434.708, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 9.9.2005).” (MS 27260, Rel. Min. AYRES BRITTO, Rel.p/ Acórdão: Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe 26.3.2010)
+Da análise dos autos vislumbra-se que as respostas aos recursos administrativos encontram-se devidamente fundamentadas, não se verificando ilegalidade alguma que justifique a atuação do Poder Judiciário.
+Nesses termos, inexiste direito líquido e certo do impetrante a ser amparado pela via estreita do mandado de segurança.
+Ante o exposto, na linha da jurisprudência desta Corte, nego seguimento ao presente mandado de segurança e julgo prejudicado o pedido de liminar (art. 10, da Lei 12.016/09).
+Publique-se.
+Brasília, 17 de fevereiro de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
