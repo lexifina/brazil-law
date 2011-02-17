@@ -1,0 +1,16 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“I - RECURSO DE REVISTA DA RECLAMADA CERCEAMENTO DE DEFESA. Não acarreta cerceamento de defesa o indeferimento de prova se existirem nos autos elementos suficientes ao convencimento do julgador (artigo 400 e incisos do CPC). REINTEGRAÇÃO - EXIGÊNCIA CONVENCIONAL DE ATESTADO MÉDICO FORNECIDO PELO INSS. O Pleno desta Corte, no julgamento do Incidente de Uniformização de Jurisprudência suscitado no E-RR-736.593/2001.0, na sessão do dia 13/10/2009, decidiu cancelar a Orientação Jurisprudencial nº 154 da SBDI-1, sob o entendimento de ser inexigível o atestado do INSS para o reconhecimento da estabilidade, mesmo que haja previsão nesse sentido em norma coletiva. Recurso de Revista não conhecido. II - RECURSO DE REVISTA DO RECLAMANTE VERBAS VENCIDAS - REINTEGRAÇÃO - JULGAMENTO EXTRA PETITA 1. A Súmula nº 396, II, do TST consagrou a interpretação de que 'não há nulidade por julgamento 'extra petita' da decisão que deferir salário quando o pedido for de reintegração, dados os termos do art. 496 da CLT'. 2. Se é devida a condenação aos salários referentes ao interregno de estabilidade - ainda que sem pedido específico - nos casos em que, por suas peculiaridades ou pelo exaurimento do período estabilitário, não se determina a reintegração, com muito mais razão deve assim proceder o magistrado quando determina a reintegração, como na espécie. Precedente. Recurso de Revista conhecido e provido.” (fl. 124 )
+O recorrente alega que esse julgado teria violado o artigo 7º, inciso XXVI, da Constituição Federal, aduzindo, em suma, que o mencionado artigo:
+“(...) determina o reconhecimento das normas coletivas. Ou seja, a constituição reconhece o instrumento coletivo como fonte de Direito.
+Daí a previsão em cláusula de norma coletiva de exigência de atestado médico do INSS sobre doença profissional, com fito de garantir direito à estabilidade no emprego, deve ser reconhecida como fonte de Direito (...)”. (fl. 152)
+Decido.
+Não assiste razão ao agravante.
+Isso porque a questão examinada no acórdão recorrido está adstrita à interpretação de cláusulas de acordo coletivo formalizado perante a Justiça do Trabalho, o que atrai para a espécie o óbice da Súmula 454/STF. Nesse sentido, cito o AI 819.938, Min. Rel. Cármen Lúcia, DJe 10.11.2010.
+Ademais, ressalto que o Plenário desta Suprema Corte, por meio eletrônico, no exame no AI-RG 731.954, Rel. Min. Cezar Peluso, DJe 18.12.2009, rejeitou a repercussão geral de controvérsia análoga a destes autos, em acórdão assim ementado:
+“RECURSO. Extraordinário. Incognoscibilidade. Contrato individual de trabalho. Acordo coletivo. Direito de incorporar àquele cláusulas neste pactuadas. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa ao direito a incorporação a contrato individual de trabalho de cláusulas normativas pactuadas em acordos coletivos, versa sobre matéria infraconstitucional.”
+Ante ao exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 17 de fevereiro de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
