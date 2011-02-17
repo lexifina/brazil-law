@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“AGRAVO DE INSTRUMENTO. EXCEÇÃO DE INCOMPETÊNCIA. SERVIDOR PÚBLICO. PEDIDO DE NATUREZA ADMINISTRATIVA. RÉU AUTARQUIA FEDERAL. ART. 109, §2º, DA CONSTITUIÇÃO FEDERAL. APLICABILIDADE. PREQUESTIONAMENTO.
+Aplicação de precedente desta Corte no sentido de que 'às autarquias federais deve ser dado tratamento idêntico ao da União. Portanto, não devem elas ter privilégio de foro maior do que o concedido pela Constituição Federal à União no § 2º do art. 109 da Constituição Federal. Por isso, pode o autor, nos termos do § 2º supra, quando ajuizar demanda contra autarquia federal, escolher entre os seguintes foros: a) seção judiciária em que for domiciliado o autor; ou b) seção judiciária onde houver ocorrido o ato ou fato que deu origem à demanda; ou c) onde esteja situada a coisa; ou d) no Distrito Federal.'
+Agravo de instrumento ao qual se nega provimento.
+Em homenagem aos princípios da celeridade e da economia processual, resta, desde já e especialmente para fins de eventual propositura de recurso especial e extraordinário, expressamente reconhecido o prequestionamento ao art. 242 da Lei n.º 8.112/90;arts. 94. §1º, 99, inc. I, 100, inc. IV, alíneas 'a' e 'b', 304 e 305 do CPC; e art. 109, §§ 2º 3º, da Constituição Federal, dos princípios do devido processo legal; do contraditório e da ampla defesa, os quais não restaram violados pela presente decisão, sendo que a jurisprudência é assente no sentido da desnecessidade de individualização numérica dos artigos em que se funda o decisório (STF, RE n. 128.519/DF, rel. Min. MARCO AURÉLIO, Pleno, DJ 08.03.91; STJ, Res. 434129/SC, Rel. Ministro JORGE SCARTEZZINI, QUINTA TURMA, julgado em 17.10.2002, DJ 17.02.2003), deixando-se de aplicar dispositivos não expressamente mencionados no acórdão e/ou tidos como aptos a fundamentar pronunciamento judicial em sentido diverso do aqui declinado” (fl. 118).
+No RE, fundado no art. 102, III, a, da Constituição alegou-se ofensa aos arts. 5º, XXXIV, XXXV, LIII, LIV e LV, 93, IX, e 109, § 2º, da mesma Carta.
+O agravo merece acolhida.
+Assim, preenchidos os requisitos de admissibilidade do recurso, dou provimento ao agravo de instrumento e determino a subida dos autos principais para melhor exame da matéria.
+Publique-se.
+Brasília, 17 de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
