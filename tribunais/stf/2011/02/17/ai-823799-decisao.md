@@ -1,0 +1,9 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“APELAÇÃO CÍVEL E RECURSO ADESIVO - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E DANOS MORAIS - FALHA NA AERONAVE, ATRASO NO VÔO E EXTRAVIO DE BAGAGENS EM VIAGEM AÉREA - INAPLICABILIDADE DA CONVENÇÃO DE VARSÓVIA - PREVALÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR - PRESCRIÇÃO AFASTADA - INTELIGÊNCIA DO ARTIGO 27 DO CDC - RESPONSABILIDADE OBJETIVA DA COMPANHIA AÉREA PRESTADORA DE SERVIÇOS - ATOS ILÍCITOS CONFIGURADOS - DEFEITO NA AERONAVE QUE NÃO CONFIGURA CASO FORTUITO OU FORÇA MAIOR - OBRIGAÇÃO DA EMPRESA DE MANUTENÇÃO CORRETA DOS EQUIPAMENTOS - ABALO MORAL PRESUMIDO - QUANTUM INDENIZATÓRIO CORRETAMENTE FIXADO - SUCUMBÊNCIA RECIPROCA - AUTOR QUE DECAIU EM METADE DO PEDIDO RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO E RECURSO ADESIVO DESPROVIDO” (fls. 313-314).
+No RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, violação ao art. 178 da mesma Carta.
+No caso, o recurso extraordinário versa sobre matéria - prevalência do Código de Defesa do Consumidor sobre o Código Brasileiro de Aeronáutica e a Convenção de Varsóvia, referente à indenização por danos materiais e morais decorrentes de extravio de bagagem - cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (AI 762.184-RG/RJ, Rel. Min. Cezar Peluso).
+Isso posto, preenchidos os demais requisitos de admissibilidade, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com base no art. 328, parágrafo único, do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no presente extraordinário discute-se questão idêntica à apreciada no AI 762.184-RG/RJ.
+Publique-se.
+Brasília, 17 de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
