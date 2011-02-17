@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão de Tribunal Regional Federal, que tem por violado o art. 5º, caput e XXXVI, da Carta Magna.
+Verifico que o acórdão atacado possui fundamento infraconstitucional suficiente (complementação com fundamento na Lei 8.186/1991), impugnado por recurso especial, porém, não admitido na origem. Desta decisão não foi interposto agravo de instrumento, de modo que é aplicável à espécie a Súmula 283 do Supremo Tribunal Federal.
+Ademais, o desate da questão envolve a análise dos limites objetivos e subjetivos da coisa julgada nos moldes da legislação processual infraconstitucional, evidenciando, portanto, o caráter meramente reflexo ou indireto da eventual ofensa à Constituição. Nesse sentido, confira-se o seguinte precedente:
+“EMENTA: RECURSO EXTRAORDINÁRIO - POSTULADO CONSTITUCIONAL DA coisa julgada - ALEGAÇÃO DE OFENSA DIRETA - INOCORRÊNCIA - limites OBJETIVOS - TEMA DE DIREITO PROCESSUAL - MATÉRIA INFRACONSTITUCIONAL - VIOLAÇÃO OBLÍQUA À CONSTITUIÇÃO - RECURSO DE AGRAVO IMPROVIDO.
+- Se a discussão em torno da integridade da coisa julgada reclamar análise prévia e necessária dos requisitos legais, que, em nosso sistema jurídico, conformam o fenômeno processual da res judicata, revelar-se-á incabível o recurso extraordinário, eis que, em tal hipótese, a indagação em torno do que dispõe o art. 5º, XXXVI, da Constituição - por supor o exame, in concreto , dos limites subjetivos (CPC, art. 472) e/ou objetivos (CPC, arts. 468, 469, 470 e 474) da coisa julgada - traduzirá matéria revestida de caráter infraconstitucional, podendo configurar, quando muito, situação de conflito indireto com o texto da Carta Política, circunstância essa que torna inviável o acesso à via recursal extraordinária. Precedentes. (RE 220.517–AgR, rel. min. Celso de Mello, DJ de 10.08.2001).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 17 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
