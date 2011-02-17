@@ -1,0 +1,23 @@
+Trata-se de recurso extraordinário fundado na alínea “a” do permissivo constitucional interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+“ADMINISTRATIVO. DEPÓSITO JUDICIAL. CORREÇÃO MONETÁRIA. ÍNDICES APLICÁVEIS. LEGISLAÇÃO VIGENTE.
+1. Os depósitos judiciais não formam vínculo contratual entre o contribuinte e a instituição bancária, mas desta com o juízo da causa, pelos limites de provimentos legais e administrativos.
+2. Tendo os sido remunerados como previsto pelas normas vigentes (OTN, BTN, TRD e TR – DL 1737/69), não existem diferenças em favor das autoras” (folha 336).
+Interpostos embargos de declaração (folhas 338 a 340), foram rejeitados (folhas 344 a 346).
+No apelo extremo, alega o recorrente contrariedade ao disposto nos artigos 5º, caput e incisos XXII, XXXV e LV, e 93, inciso IX, da Constituição Federal bem como artigos 46 e 47 do Ato das Disposições Constitucionais Transitórias, em razão de ter sido rejeitado seu pedido de incidência de correção monetária nas contas judiciais apontadas nos autos.
+Depois de apresentadas contrarrazões (folhas 450 a 453), o recurso foi admitido, na origem (folha 460).
+O recurso especial paralelamente interposto já foi definitivamente rejeitado pelo Superior Tribunal de Justiça (folhas 462 a 555).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração, conforme expresso na certidão de folha 347, foi publicado em 12/6/01, não sendo exigível, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+A irresignação não merece prosperar.
+Não houve negativa de prestação jurisdicional, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão dos recorrentes, tendo o Tribunal de origem justificado, de forma adequada, suas razões de decidir.
+Ressalte-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então agravante, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ 18/5/01).
+Ademais, a jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“COFINS. LEI 9.718/98. COMPENSAÇÃO DOS VALORES RECOLHIDOS A MAIOR. MATÉRIA INFRACONSTITUCIONAL. 1. (...). 2. A compensação dos valores recolhidos indevidamente com outros tributos, bem como a aplicação da taxa Selic como índice de correção monetária são questões de nítida natureza infraconstitucional e requerem o exame de fatos e provas para sua solução. Incompatibilidade com a via extraordinária. Questões a serem dirimidas nas instâncias ordinárias ou em sede administrativa. 3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.” (RE 422005 ED, Rel. Min. Ellen Gracie, Segunda Turma, DJ de 20/4/2006).
+“ Recurso extraordinário: descabimento: controvérsia relativa à aplicação da taxa SELIC como índice de correção monetária, de natureza infraconstitucional (art. 161 do CTN e L. 9.250/1995); a alegada violação do dispositivo constitucional invocado seria, se ocorresse, indireta ou reflexa, que não enseja reexame em recurso extraordinário: incidência, mutatis mutandis, da Súmula 636.” (RE 496271 AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 10/11/2006).
+Por fim, tem-se que a que a análise acerca da alegada violação dos princípios constitucionais objetos do presente recurso demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como de normas infraconstitucionais utilizadas na fundamentação da decisão recorrida (Código Civil, Decreto-lei nº 1.737, Lei nº 9.289 e Provimentos do Tribunal de origem) o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõem as Súmulas 279 e 280 do STF.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 17 de fevereiro de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
