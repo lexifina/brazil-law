@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. DEPUTADO ESTADUAL. APLICABILIDADE DA LEI N. 8.249/1992 A AGENTES POLÍTICOS: MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“AGRAVO DE INSTRUMENTO. EX-PREFEITO, ATUALMENTE DEPUTADO FEDERAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. DECRETO-LEI 201/67. CONCORRÊNCIA DE REGIMES DE RESPONSABILIDADE. IMPOSSIBILIDADE.
+1. Vigora em nosso ordenamento jurídico o Decreto-Lei 201, de 27 de fevereiro de 1967, dispondo sobre a responsabilidade dos Prefeitos e Vereadores, que, em seu art. 1º enumera as hipóteses de crimes de responsabilidade do Chefe do Executivo Municipal.
+2. Inadmissibilidade de concorrência de dois regimes de responsabilidade para os agentes políticos. Precedentes do STF, STJ e do TJERJ.
+3. Provimento ao recurso” (fl. 260).
+2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 37, caput e § 4º, 85, parágrafo único, e 102, inc. I, alínea c, da Constituição da República.
+Argumenta que:
+“não se pode confundir a sistemática prevista no artigo 4º do DL 201/67 com a disciplina da Lei n. 8.429/92, cujo artigo 12 dispõe:
+(...)
+Da leitura comparativa dos dispositivos, vislumbra-se claramente a diferença no tratamento dos ilícitos no que diz respeito à sanção: o Decreto-Lei 201/67 prevê como cominação unicamente a cassação do mandato enquanto a lei de improbidade prevê uma série de sanções ao agente ímprobo, que podem se estender por até cinco anos após a perda do cargo.
+Essa constatação é de suma importância. A prevalecer o entendimento esposado no acórdão recorrido, nenhum ex-Prefeito estaria sujeito a qualquer punição pelos atos ímprobos praticados no exercício do mandato, uma vez que a pena de cassação seria impossível ” (fls. 330-331).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+4. A controvérsia quanto à aplicabilidade do Decreto-Lei n. 201/1967 ou da Lei n. 8.429/1992 à espécie é de natureza infraconstitucional, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. EX-VEREADOR. CONDENAÇÃO POR ATO DE IMPROBIDADE ADMINISTRATIVA. LEI N. 8.429/92. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 do SUPREMO TRIBUNAL FEDERAL). PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 749.094-AgR, de minha relatoria, Primeira Turma, DJe 4.3.2010).
+“DIREITO CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. ATO DE IMPROBIDADE ADMINISTRATIVA, IMPUTADO A PREFEITO, QUE COLOCOU EM DISPONIBILIDADE SERVIDORES ESTÁVEIS, SEM QUE SEUS CARGOS TIVESSEM SIDO EXTINTOS OU DECLARADOS DESNECESSÁRIOS. SUSPENSÃO DE DIREITOS POLÍTICOS. PROIBIÇÃO DE CONTRATAR COM O PODER PÚBLICO. RECURSO EXTRAORDINÁRIO. EMBARGOS DECLARATÓRIOS. 6. Ora, o reconhecimento unânime da improbidade administrativa no julgamento da Apelação resultou do exame de prova dos autos e de interpretação de legislação infraconstitucional. Tudo o que não pode ser reexaminado por esta Corte, em Recurso Extraordinário. (...) 9. Embargos rejeitados” (AI 312.488-AgR-ED, Rel. Min. Sydney Sanches, Primeira Turma, DJ 25.10.2002 – grifos nossos).
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA CRIMINAL. ACÓRDÃO RECORRIDO QUE RECEBEU A DENÚNCIA CONTRA RÉU COMO INCURSO NAS PENAS DO INCISO IV DO ART. 1º DO DECRETO-LEI 201/67 C/C OS ARTS. 69 E 71 DO CÓDIGO PENAL. ALEGADA AFRONTA AOS INCISOS II, LIV E LV DO ART. 5º DA CF/88. NECESSIDADE DE REVOLVIMENTO DE MATERIAL PROBATÓRIO. ÓBICE DA SÚMULA 279/STF. OFENSA MERAMENTE REFLEXA AO MAGNO TEXTO. AGRAVO REGIMENTAL DESPROVIDO. 1. A alegada ofensa à Constituição Federal, se existente, ocorreria de forma reflexa ou indireta, o que não enseja a abertura da via extraordinária. 2. Por outra volta, para se chegar à conclusão pretendida pela parte agravante, é necessário o reexame do conjunto probatório dos autos, providência vedada pela Súmula 279 desta excelsa Corte. 3. Agravo desprovido” (AI 654.360-AgR, Rel. Min. Carlos Britto, Primeira Turma, DJe 16.4.2009 – grifos nossos).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PENAL. DENÚNCIA PELA SUPOSTA PRÁTICA DO CRIME DESCRITO NO ART. 1º, INC. XIII, DO DECRETO-LEI N. 201/67: NÃO-RECEBIMENTO EM RAZÃO DA ATIPICIDADE DA CONDUTA PRATICADA PELO AGRAVADO. JUÍZO REALIZADO COM BASE NOS ELEMENTOS DO TIPO E NO CONJUNTO PROBATÓRIO DOS AUTOS. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DE REEXAME DOS FATOS E DAS PROVAS QUE PERMEIAM A LIDE (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 593.465-AgR, de minha relatoria, Primeira Turma, DJe 6.8.2009 – grifos nossos).
+E, ainda, as seguintes decisões deste Supremo Tribunal, no sentido de que a verificação dos elementos que determinam a aplicação da Lei de Improbidade Administrativa pressupõe a análise de matéria infraconstitucional: AI 476.390, Rel. Min. Sepúlveda Pertence, DJ 11.11.2004; RE 559.226, Rel. Min. Ellen Gracie, DJe 23.3.2009; e AI 490.941, de minha relatoria, DJe 19.3.2009.
+5. Nada há, pois, a prover quanto às alegações do Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 18 de fevereiro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
