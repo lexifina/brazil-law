@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de mandado de segurança, com pedido de medida liminar, impetrado pelo Exmo. Sr. Deputado Federal Hugo Leal Melo da Silva contra a Mesa e a Presidência da Câmara dos Deputados, com o fim de proibir a tramitação e a deliberação da parte do Projeto de Lei nº 5940/2009 que propõe alterar o critério de rateio da participação no resultado da exploração de petróleo.
+Segundo a inicial, o ato coator consiste, em síntese, “em deliberação a ser adotada pela Câmara Federal sobre o Projeto de Lei nº 7 de 2010, que ultimou por aprovar o Parecer nº 735 de 2010 de autoria do Relator Sua Excelência o Senador Romero Jucá contendo a chamada Emenda Senador Pedro Simonsen (doc. 3/6) no tocante às alterações que aí se contém quanto à Lei 9.478, de 06.08.1997, específica, setorializadamente, individualizadamente, quanto às disposições sobre novo critério de rateio entre os entes federativos da “participação sobre o resultado da exploração de petróleo e gás natural”, estas que previstas estão no §1º do art. 20 da Constituição”.
+O impetrante afirma que, ao se manter a deliberação acerca da proposta de alteração do mencionado critério de rateio, viola-se o artigo art. 60, §4º, inciso I, CF/88, pois: (i) afeta negativamente o modelo federativo brasileiro; (ii) descumpre a regra do art. 20, §1º, CF/88, que só autoriza o rateio entre entes federativos produtores de petróleo; (iii) viola os princípios republicano e federativo e o princípio da igualdade; e (iv) afronta o direito de propriedade dos entes federativos produtores.
+Alega, ainda, que o art. 60, §4º, inciso I, da Constituição não se aplica somente a emendas constitucionais, mas também a projetos de lei que possam violar as limitações constitucionais em questão.
+Requer, assim, a concessão da medida liminar para suspender a tramitação e a deliberação das disposições do projeto de lei que tratem do referido critério de rateio e, no mérito, que seja a ação julgada procedente, para anular a tramitação e a deliberação do mencionado projeto de lei apenas quanto ao ponto impugnado.
+A Câmara dos Deputados prestou informações, indicando, preliminarmente, o não cabimento do presente writ, bem como a inexistência de violação à Constituição e a perda do objeto da impetração, em razão da conversão do referido Projeto na Lei nº 12.351/2010.
+Passo a decidir.
+Preliminarmente, destaco que a jurisprudência do STF admite o controle dos atos legislativos, não obstante o seu caráter político, “sempre que os corpos legislativos ultrapassem os limites delineados pela Constituição ou exerçam as suas atribuições institucionais com ofensa a direitos públicos subjetivos impregnados de qualificação constitucional e titularizados, ou não, por membros do Congresso Nacional” (MS 24.849, Pleno, Rel. Celso de Mello, DJ 29.9.2006). Reconhece-se, ainda, a legitimidade ativa dos parlamentares para incitar esse controle por meio da impetração do mandado de segurança (MS 24.356/DF, rel. Carlos Velloso, Pleno, DJ 12.09.2003).
+Não entendo demonstrados os requisitos que autorizam o deferimento da medida liminar.
+Em primeiro lugar, verifico que o pedido liminar tinha como objetivo, em essência, a suspensão de tramitação e de deliberação legislativa que já ocorreram e culminaram, como consta das informações prestadas pela Câmara dos Deputados, na edição da Lei nº 12.351/2010.
+Ademais, como o próprio impetrante informa, o Presidente da República vetou a parte do Projeto de Lei que é objeto da presente medida liminar, o que afasta, neste juízo prévio, o periculum in mora.
+Além disso, a discussão sobre a eventual violação às limitações materiais no caso em análise (art. 60, §4º, inciso I, CF/88) confunde-se com o próprio mérito da demanda e deve ser analisada em momento oportuno.
+Tais elementos não permitem evidenciar, neste juízo preliminar, o caráter incontroverso do direito alegado como líquido e certo a autorizar a concessão da medida liminar. Em sentido semelhante, destaco os seguintes precedentes: MS-MC 28493/DF, rel. Ellen Gracie, DJe 25.2.2010; MS-MC 28885/DF, Rel. Ellen Gracie, DJe 13.8.2010.
+Ante o exposto, indefiro o pedido liminar.
+Defiro o pedido de ingresso formulado pela União, conforme requerido (art. 7º, II, da Lei 12.016/2009).
+Intime-se.
+Publique-se.
+Brasília, 18 de fevereiro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
