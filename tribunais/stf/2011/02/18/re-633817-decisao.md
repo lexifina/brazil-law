@@ -1,0 +1,41 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA. CONCLUSÃO DE ENSINO MÉDIO. PREENCHIMENTO DE REQUISITOS PARA INGRESSO EM ENSINO SUPERIOR. 1. MATÉRIA CONSTITUCIONAL SUSCITADA: AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 356 DO SUPREMO TRIBUNAL FEDERAL. 2. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS: INVIABILIDADE. 3. TEORIA DO FATO CONSUMADO: INAPLICABILIDADE. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“ADMINISTRATIVO - MANDADO DE SEGURANÇA - LIMINAR CONCEDIDA PARA A REALIZAÇÃO DE EXAME PARA CONCLUSÃO DE ENSINO MÉDIO - IDADE MÍNIMA - APROVAÇÃO EM VESTIBULAR - PRIVILÉGIO INADMISSÍVEL - SEGURANÇA DENEGADA. A obtenção de medida liminar, em mandado de segurança, para permitir que a impetrante pudesse antecipar a conclusão do ensino médio, em face de aprovação em vestibular para ingresso em universidade pública, ofende as diretrizes da educação nacional e gera privilégio inconcebível. - O Poder Judiciário não pode compactuar com a concessão de providências liminares que propiciam o ingresso indevido de estudante, sem a prévia conclusão do ensino médio, no âmbito universitário” (fl. 96).
+Tem-se no voto condutor do acórdão:
+“Diante disto, é legítima a recusa manifestada pela autoridade apontada como coatora, que nada mais fez do que aplicar a lei de regência em seus estritos termos.
+A impetrante estava a cursar o ensino médio em entidade de ensino particular e ainda lhe faltava meio ano para completar seus estudos, a tempo e modo adequados. Não houve qualquer situação fática ou legal que a tenha impedido de continuar a frequentar o curso em questão.
+A circunstância de ter sido aprovada em concurso vestibular não a enquadra nos parâmetros legais para o exame supletivo, mesmo porque não tinha atingido sequer a idade mínima prevista na lei - 18 anos - e muito menos justifica que seja privilegiada, enquanto milhares de outros alunos tiveram - e têm - que, necessariamente, terminar o ensino médio para somente então prestar os exames que lhes facultem acesso a instituições de ensino superior.
+(...)
+Ademais, é conveniente lembrar que a aprovação da impetrante gerou prejuízo para quem com ela concorreu - e que já havia concluído o ensino medido - e que não pode ser aproveitado em razão do melhor aproveitamento do estudante-treineiro.
+Fundado nestas considerações, em reexame necessário, reformo a sentença e denego a segurança” (fls. 99-100 – grifos nossos).
+Os embargos de declaração opostos foram rejeitados (fl. 110).
+2. A Recorrente alega que o Tribunal a quo teria contrariado os arts. 6º, 205 ao 214 da Constituição da República.
+Sustenta que “a situação de fato consumou-se no tempo, não havendo como se voltar a situação. Interpretação diversa acarretaria em um imensurável sentimento de insegurança de toda a sociedade que não mais poderia contar com a tutela judicial pretendida para resguardar seus direitos e garantias individuais” (fl. 124).
+Afirma que “a fundamentação do julgado proferido e ora combatido deveria prestigiar a teoria do fato consumado, que, de um modo geral, considera a excepcionalidade do problema e analisa o aspecto da legalidade” (fl. 127).
+Assevera, ainda, que, “convicta de todas as condições que lhe permitiam ingressar na Universidade, e lhe faltava somente uma, conclusão do 3º ano do ensino médio, não lhe restou outra saída senão o amparo judicial em concessão liminar para realização da prova, para assim se ver possibilitada em efetivar a matrícula, já que este era o único requisito que lhe faltava” (fl. 129).
+Requer o provimento do recurso extraordinário e a reforma do acórdão recorrido para “reconhecer o [seu] direito (...) de manter-se inscrita e concluir o ensino superior” (fl. 132).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica não assiste à Recorrente.
+4. Na espécie vertente, a Recorrente foi aprovada em vestibular prestado em 2009, para cursar Engenharia Mecatrônica na Universidade Federal de Uberlândia. Por essa razão, requereu a realização de exame supletivo, para conclusão do ensino médio no Centro Estadual de Educação – CESEC. Por não preencher, à época, os requisitos previstos na Lei n. 9.394/1996, não lhe foi autorizada a realização do exame.
+Em 29.7.2009, a ora Recorrente impetrou mandado de segurança contra ato dito coator do Diretor do Centro Estadual de Educação – CESEC, tendo como objeto “a inscrição no exame supletivo no ensino médio, bem como [a expedição de] toda a documentação comprobatória do término do curso, para apresentação à Universidade Federal de Uberlândia” (fls. 11-12).
+Na origem, em 29.7.2009, foi deferida medida liminar para a realização do exame (fl. 25).
+Em 18.8.2009, com o agravo de instrumento interposto pelo Estado de Minas Gerais, ora Recorrido, suspendeu-se a liminar, “até o ulterior pronunciamento do Tribunal sobre o mérito do recurso” (fl. 46).
+No julgamento da apelação cível, em 4.5.2010, o Tribunal de origem, em reexame necessário, reformou a sentença e denegou a segurança.
+5. Nas razões do recurso extraordinário, a Recorrente traz, em síntese, a teoria do fato consumado e a perda de objeto da presente demanda, pois já teria feito a sua matrícula na Instituição de Ensino Superior pretendida e estaria no segundo período do Curso de Engenharia Mecatrônica (9.7.2010). Sustenta, assim, contrariedade aos arts. 6º, 205 e 208, inc. V, da Constituição da República.
+6. Não merece prosperar a insurgência da Recorrente, pois a matéria constitucional suscitada no recurso extraordinário não foi objeto de exame e debate prévios no Tribunal de origem. Tampouco foi abordada nos embargos de declaração opostos às fls. 104-108.
+A jurisprudência do Supremo Tribunal firmou-se no sentido de que, ainda que surgida a alegada ofensa constitucional no acórdão recorrido, é necessária a oposição de embargos de declaração, se não houver a análise da ofensa pelo órgão judicante. Incide na espécie a Súmula 356 do Supremo Tribunal. Nesse sentido: AI 724.601-AgR, de minha relatoria, Primeira Turma, DJe 3.4.2009.
+7. Ademais, a análise do alegado direito líquido e certo da Recorrente imporia o reexame de normas infraconstitucionais, o que é inviável em recurso extraordinário.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. 1. ESTUDANTE. MATRÍCULA EM CURSO SUPLETIVO. MENORIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 2. ALEGAÇÃO DE OFENSA AO ATO JURÍDICO PERFEITO. OFENSA CONSTITUCIONAL. INDIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO” (AI 815.751, de minha relatoria, decisão monocrática, DJe 11.11.2010, trânsito em julgado em 22.11.2010 – grifos nossos).
+E
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 e 356 DO STF. MANDADO DE SEGURANÇA. PRESSUPOSTOS DE ADMISSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO IMPROVIDO. (...) II – A pretendida discussão em torno dos requisitos de admissibilidade do mandado de segurança possui natureza meramente processual, que envolve a apreciação de normas infraconstitucionais. Precedentes. III – Agravo regimental improvido” (AI 795.982-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1º.2.2011 – grifo nosso).
+8. Também não há que se falar em perda de objeto com base na teoria do fato consumado, pois este Supremo Tribunal assentou não ser possível a sua aplicação:
+“ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. REEXAME DE FATOS E PROVAS E CLAUSÚLAS DO EDITAL. TEORIA DO FATO CONSUMADO. INAPLICABILIDADE. INEXISTÊNCIA DE DIREITO ADQUIRIDO. (...) 3. Esta Corte já rejeitou a chamada ‘teoria do fato consumado’. Precedentes : RE 120.893-AgR/SP e AI 586.800-ED/DF, dentre outros. 4. Agravo regimental improvido” (RE 476.783-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 21.11.2008).
+9. Não há, pois, o que prover quanto às alegações da Recorrente.
+10. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 18 de fevereiro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
