@@ -1,0 +1,44 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. JULGADO RECORRIDO COM FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE PARA SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+2. O Tribunal de Justiça do Rio Grande do Sul deu parcial provimento à apelação em ação ordinária, nos termos seguintes:
+“APELAÇÃO CÍVEL. PREVIDÊNCIA PÚBLICA. IPERGS. PENSÃO PREVIDENCIÁRIA. CÔNJUGE VARÃO. INVALIDEZ. DEPENDÊNCIA ECONÔMICA. PRINCÍPIO DA ISONOMIA. Impossibilidade de exigir-se a invalidez como fator determinante para a negativa do pensionamento pretendido, tendo em vista a recente posição do STF a respeito da inconstitucionalidade de tal requisito, declarada em sede de controle difuso. Impossibilidade, ainda, de exigir a existência de dependência econômica nos termos do art. 13 da Lei n. 7.672/82, pelo mesmo princípio da isonomia entre homens e mulheres, assentado na Carta Constitucional. A legislação inferior, estadual, não pode fazer exigências como as relativas à invalidez ou à dependência econômica, e deve ser interpretada à luz da lei maior, vedado o retrocesso, quando o legislador nacional registrou a interpretação isonômica no Regime Geral. JUROS MORATÓRIOS. A devolução dos valores vence juros moratórios de 6% ao ano após a vigência da Medida Provisória n. 2.180-35 de 24 de agosto de 2001, sob cuja égide iniciou a lide, a contar da citação. Jurisprudência do STJ. São computados a partir da citação válida, não se tratando de tributo, caso em que incidiriam do trânsito em julgado. Aplicação da Súmula n. 204 do STJ. VERBA HONORÁRIA. Sendo aplicável o § 4º do art. 20 do Código de Processo Civil à espécie, por se tratar de causa em que vencida a Fazenda Pública, impõe-se a redução da verba honorária, que vai fixada segundo apreciação equitativa. Precedentes STJ. APELAÇÃO PARCIALMENTE PROVIDA” (fl. 113 – grifei).
+Com essa decisão, mantiveram-se os seguintes termos da sentença de primeiro grau de jurisdição:
+“A legislação que dispõe sobre o Instituto de Previdência do Estado do Rio Grande do Sul, a Lei n. 7.972/82, em seu artigo 9º, inc. I, prevê que dependentes do segurado são apenas ‘a esposa; a ex-esposa divorciada; o marido inválido, os filhos (...)’.
+Prevê o direito do marido a perceber a pensão no caso de ser ‘inválido’.
+Não obstante isso, a Constituição Federal de 1988, texto legal posterior à edição da lei estadual, tem como um de seus primados, a igualdade entre homens e mulheres, tanto que os equiparou em direitos e deveres.
+É o que se depreende do inciso I, do art. 5º, do Texto Maior, que expressa: ‘homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição’.
+Da mesma forma, o artigo 201, inciso V, dispõe que a Previdência Social atenderá a:
+‘V – pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, observado o disposto no § 2º’.
+Ou seja, não há distinção, cabendo pensão por morte do segurado, seja este homem ou mulher, ao cônjuge.
+Diante disso, o disposto na legislação ordinária se mostra incompatível com a Carta Constitucional e com a própria ordem social que a partir da promulgação desta restou instaurada.
+Nesse sentido, enquadrando-se o demandante como dependente da esposa falecida, segurada do Instituto requerido, sendo presumida a dependência econômica, por aplicação análoga do disposto no art. 16 e parágrafos, da Lei n. 8.213/91, dos Planos de Benefícios da Previdência Social, faz jus à concessão do pensionamento pelo óbito da mulher, sendo corolário lógico, a procedência da demanda” (fls. 84-85).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que o julgado recorrido estaria em harmonia com a jurisprudência do Supremo Tribunal Federal.
+4. O Agravante argumenta que:
+“o recurso extraordinário preencheu os requisitos de admissibilidade, porquanto: a) foi apresentado tempestivamente; b) demonstrou a repercussão em preliminar formal e fundamentada; c) apontou os fundamentos constitucionais da interposição; d) expôs, um a um, os motivos da inconformidade do recorrente; e e) a apreciação das questões constitucionais controvertidas e essencial à solução do litígio.
+Tanto resta evidente o preenchimento dos requisitos de admissibilidade que a decisão agravada não apontou a falta de quaisquer desses, tendo limitado-se a apreciar o mérito da questão, julgamento que compete apenas ao e. Supremo Tribunal Federal, nos termos do artigo 102, inciso III, da Carta Magna.
+Assim, a prosperar a decisão agravada, restará configurada, de um lado, indébita supressão de instância recursal, isso traduzindo cerceamento de defesa ao ora recorrente, defesa essa cuja amplitude engloba a acessibilidade aos recursos previstos no ordenamento jurídico (artigo 5º, inciso LV, da CF/88); de outro, consagrar-se-á a violação de competência há pouco aludida.
+Dessa forma, deve ser dado provimento ao presente agravo de instrumento, determinando-se o trânsito do recurso extraordinário, porquanto preenchidos os requisitos de admissibilidade previstos no artigo 102, inciso III, alínea ‘a’, da CF/88” (fl. 6).
+No recurso extraordinário, alega que o Tribunal a quo teria contrariado os arts. 5º, inc. I, 195, § 5º, e 201, inc. V, da Constituição.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+Ao dar provimento parcial à apelação, o Tribunal de origem manteve os seguintes fundamentos da sentença de primeiro grau de jurisdição:
+“É o que se depreende do inciso I, do art. 5º, do Texto Maior, que expressa: ‘homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição’.
+Da mesma forma, o artigo 201, inciso V, dispõe que a Previdência Social atenderá a:
+‘V – pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, observado o disposto no § 2º’.
+Ou seja, não há distinção, cabendo pensão por morte do segurado, seja este homem ou mulher, ao cônjuge.
+Diante disso, o disposto na legislação ordinária se mostra incompatível com a Carta Constitucional e com a própria ordem social que a partir da promulgação desta restou instaurada.
+ Nesse sentido, enquadrando-se o demandante como dependente da esposa falecida, segurada do Instituto requerido, sendo presumida a dependência econômica, por aplicação análoga do disposto no art. 16 e parágrafos, da Lei n. 8.213/91, dos Planos de Benefícios da Previdência Social, faz jus à concessão do pensionamento pelo óbito da mulher, sendo corolário lógico, a procedência da demanda” (fls. 84-85 – grifei).
+Conforme se verifica, a sentença foi fundamentada nos arts. 5º, inc. I, e 201, inc. V, da Constituição e no art. 16 da Lei n. 8.213/1991, aplicado por analogia.
+Entretanto, subsiste o fundamento infraconstitucional, suficiente para manutenção do julgado recorrido, em razão da não interposição de recurso especial para o Superior Tribunal de Justiça. Incide na espécie a Súmula n. 283 deste Supremo Tribunal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. ESCOLA AGROTÉCNICA. COBRANÇA DE TAXA DE ALIMENTAÇÃO. IMPUGNAÇÃO DO ACÓRDÃO RECORRIDO APENAS POR RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO DE RECURSO ESPECIAL. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. INCIDÊNCIA DA SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO” (RE 597.842-AgR, de minha relatoria, Primeira Turma, DJe 4.6.2010 – grifei).
+E, ainda:
+“A controvérsia relativa à aplicação de interpretação analógica (LICC, art. 4º) tem natureza infraconstitucional, que não dá margem a recurso extraordinário sob o fundamento de ofensa ao princípio da reserva legal. Com esse entendimento, o Tribunal, por maioria, não conheceu de recurso extraordinário contra acórdão do Tribunal de Justiça do Distrito Federal, que reconhecera a servidora o direito a indenização de férias proporcionais quando de sua aposentadoria, mediante a aplicação, por analogia, do § 3º art. 78 da n. Lei 8.112/90 (‘O servidor exonerado do cargo efetivo, ou em comissão, perceberá indenização relativa ao período das férias a que tiver direito e ao incompleto, ...’). Vencidos os Ministros Maurício Corrêa e Marco Aurélio, por entenderem incabível qualquer aplicação analógica entre exoneração e aposentadoria, ofendendo, portanto, o princípio da legalidade estrita (CF, art. 37). RE 196.569-DF e RE 202.626-DF, Rel. Min. Ilmar Galvão, 9.9.98” (Informativo n. 122 do Supremo Tribunal Federal – grifei).
+Nada há a prover quanto às alegações do Agravante.
+6. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 18 de fevereiro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
