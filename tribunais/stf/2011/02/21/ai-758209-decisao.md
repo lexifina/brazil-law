@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 106):
+“RECURSO DE EMBARGOS INTERPOSTO ANTERIORMENTE À VIGÊNCIA DA LEI N.º 11.496/2007. CONTRATO DE TRABALHO. INCORPORAÇÃO DE VANTAGENS PREVISTAS EM ACORDO COLETIVO OU SENTENÇA NORMATIVA. IMPOSSIBILIDADE. SÚMULA N.º 277 DO TST. DECISÃO EM CONFORMIDADE COM OS SEUS TERMOS. NÃO-CONHECIMENTO. Esta Corte Superior pacificou o entendimento de que as condições de trabalho alcançadas por força de sentença normativa vigoram, apenas, no período em que vigente a sentença, não se incorporando de forma definitiva aos contratos de trabalho. Essa é a exegese da Súmula n.º 277 dessa Corte. Cumpre esclarecer que esse entendimento vem sendo aplicado não só às sentenças normativas, mas também aos acordos e convenções coletivas, em decorrência da similitude de seus efeitos. Precedentes da Corte. Embargos não conhecidos.”
+Nas razões do recurso extraordinário indica-se ofensa ao disposto nos arts. 5º, caput e XXXVI, 7º, XXVI, e 114, § 2º, da Constituição federal. Sustenta-se a inaplicabilidade da Súmula 277/TST.
+É o relatório. Decido.
+O Supremo Tribunal Federal, apreciando o AI 731.954-RG (rel. min. Cezar Peluso, DJe de 18.12.2009), não reconheceu a repercussão geral do tema tratado no presente processo. É o que se depreende da ementa:
+“EMENTA: RECURSO. Extraordinário. Incognoscibilidade. Contrato individual de trabalho. Acordo coletivo. Direito de incorporar àquele cláusulas neste pactuadas. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa ao direito a incorporação a contrato individual de trabalho de cláusulas normativas pactuadas em acordos coletivos, versa sobre matéria infraconstitucional.”
+Do exposto, nos termos dos arts. 543-A, caput, e § 5º; 557, caput, do Código de Processo Civil e do art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao agravo.
+Publique-se.
+Brasília, 21 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
