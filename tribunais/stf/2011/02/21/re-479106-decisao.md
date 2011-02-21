@@ -1,0 +1,24 @@
+D ECIS Ã O: Trata-se de recurso extraordinário interposto com base na alínea “a” do permissivo constitucional no qual, ao se impugnar acórdão do Tribunal Regional Federal da 4ª Região, aduz-se:
+“ É certo que o advento da lei nº 9.779/99 veio permitir o aproveitamento do crédito em tais hipóteses, mas a eficácia desta lei é prospectiva, não podendo ser aplicada retroativamente. A legislação que vigorava antes da Lei nº 9.779/99 estabelecia que, na hipótese de a saída ser tributada com alíquota zero (ou se houvesse isenção), o contribuinte não poderia se utilizar do valor pago a título de IPI na aquisição de produto intermediário, matéria-prima ou material de embalagem” (fl. 265).
+Prosseguindo, ao fim, requer-se:
+“ (...) a declaração de constitucionalidade do art. 25, § 3º, da Lei nº 4.502/64 (com redação dada pelo art. 12 da Lei nº 7.798/89), que determina a anulação do crédito de IPI quando da fabricação de produto isento, não tributado ou sujeito à alíquota zero (no período em que esteve em vigor, ou seja, até a Lei nº 9.779/99), tendo em vista o disposto no art. 150, § 6º, da Constituição da República Federativa do Brasil.” (fl. 268 - grifei)
+Em um primeiro momento, estes autos foram devolvidos ao tribunal de origem para observância do artigo 543-B do Código de Processo Civil, uma vez que a controvérsia suscitada já estava, àquela altura, reproduzida no RE-RG 562.980, Rel. Min. Ricardo Lewandowski, DJe 16.5.2008, recurso-paradigma da sistemática da repercussão geral.
+Sobreveio o julgamento do aludido paradigma que, ao firmar entendimento no mesmo sentido da pretensão recorrente, provocou o juízo de retratação da instância de origem, formulado nos seguintes termos:
+“(...) limito a decisão proferida por esta Primeira Turma (sessão de 8-10-2003, fl. 216) ao contido no Recurso Extraordinário nº 562.980, logo dou parcial provimento à apelação e à remessa oficial para excluir o direito ao aproveitamento dos créditos de IPI vinculados à saída de produtos isentos ou tributados à alíquota zero, no período anterior à Lei nº 9.779/99” (fl. 413 - grifei).
+No entanto, retornam os autos a esta Corte, em virtude da irresignação da União contra os termos da retratação realizada, porquanto esta não alcançou a possibilidade de creditamento do IPI de insumos utilizados em produção cuja saída não for tributada, ao fundamento que este tema não foi o objeto do mencionado paradigma da repercussão geral.
+Decido.
+Assiste razão à União (Fazenda Nacional).
+Preliminarmente, impende ressaltar que o Plenário deste Supremo Tribunal Federal julgou o RE 562.980 conjuntamente com o RE 460.785 e com o RE 475.551, na medida em que todos compartilhavam essencialmente a mesma quaestio juris.
+Naquela ocasião, prevaleceram as razões apresentadas pelo Min. Marco Aurélio, Relator do RE 460.785, Redator do acórdão do RE 562.980, este, conforme mencionado, recurso-paradigma da repercussão geral.
+Com efeito, o fundamento decisório de todos esses recursos foi o mesmo, pautado em uma só lógica jurídica, ou seja, a de que o creditamento do IPI de insumo tributado pressupõe a possibilidade de dupla incidência, conforme se extrai do voto condutor, in verbis:
+“(...) Improcede o que consignado no acórdão em exame, ou seja, que a Lei nº 9.779/99 apenas consagrou o direito de creditamento já previsto no ordenamento jurídico brasileiro segundo interpretação das normas constitucionais. Ao contrário, estas últimas direcionam no sentido de, fora a problemática alusiva ao princípio da não-cumulatividade – e este pressupõe dupla incidência e não a incidência em certa base e isenção na seguinte –, ter-se como necessária, para caminhar-se no sentido do benefício, lei expressa tal como finalizado no § 6º do artigo 150 e na alínea “a” do inciso II do §2º do artigo 155”(grifei) .
+Desse modo, embora a origem etiológica da expressão possa designar fenômenos diferentes do da isenção e do da sujeição à alíquota zero, é certo que a não tributação se insere na noção de não incidência.
+Logo, a verificação dessa hipótese na saída da produção também inviabiliza a ocorrência da dupla incidência e, por consequência, afasta condição necessária ao creditamento do IPI incidente sobre insumo, no período em que ausente do mundo jurídico a Lei 9.779/99.
+Assim, vê-se que o fundamento decisório do paradigma da repercussão geral foi olvidado pelo Tribunal de origem, haja vista que incompleto o juízo de retratação.
+Ante o exposto, nos termos dos artigos 543-B, §4º, do Código de Processo Civil e 21, §1º do RISTF, conheço do extraordinário para reformar o acórdão na parte não retratada e, nesse ponto, incluir a não tributação na saída como obstáculo ao creditamento de IPI decorrente de insumo tributado, no período anterior à Lei 9.779/89.
+Encaminhe-se cópia dessa decisão à presidência da Primeira Turma do TRF da 4ª Região.
+Publique-se.
+Brasília, 21 de fevereiro de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
