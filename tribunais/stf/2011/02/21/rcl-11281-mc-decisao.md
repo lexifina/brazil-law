@@ -1,0 +1,41 @@
+DECISÃO
+RECLAMAÇÃO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. ART. 543-B, § 2º, DO CÓDIGO DE PROCESSO CIVIL. ALEGADA USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ARGUIÇÃO DE EQUÍVOCO NA APLICAÇÃO DE PRECEDENTE CUJA REPERCUSSÃO GERAL NÃO FOI RECONHECIDA (RECURSO EXTRAORDINÁRIO N. 598.365). ATO RECLAMADO: DECISÃO COLEGIADA. AUSÊNCIA DOS REQUISITOS PARA DEFERIMENTO DA MEDIDA LIMINAR. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Reclamação, com pedido de medida liminar, ajuizada por Coral Empresa de Segurança Ltda., em 17.2.2011, contra ato do Órgão Especial do Tribunal Superior do Trabalho que, nos autos do Agravo Interno no Recurso Extraordinário no Recurso de Revista n. 32328.12.2010.5.00.0000, teria usurpado a competência do Supremo Tribunal Federal.
+O caso
+    2. Em 17.9.2009, a Reclamante interpôs recurso extraordinário contra decisão proferida pela Subseção I Especializada em Dissídios Individuais do Tribunal Superior do Trabalho que não conhecera dos Embargos em Embargos de Declaração em Recurso de Revista n. 145.2006.010.18.00.3 (fls. 1-4, doc. 5).
+    Em 13.4.2010, o Ministro Vice-Presidente do Tribunal Superior do Trabalho negou seguimento ao recurso extraordinário, ao argumento de que o acórdão recorrido tratou apenas de questão processual referente aos pressupostos de admissibilidade de recurso trabalhista, matéria cuja repercussão geral não fora reconhecida no Recurso Extraordinário n. 598.365 (fls. 1-4, doc. 15).
+    Em 2.8.2010, o agravo de instrumento interposto pela Reclamante não foi admitido com base no art. 543-A, § 5º, do Código de Processo Civil e no art. 326 do Regimento Interno do Supremo Tribunal Federal.
+    Contra essa decisão a Reclamante interpôs agravo regimental, convertido em agravo interno, ao qual foi negado seguimento.
+    É contra a negativa de processamento do agravo de instrumento no recurso extraordinário que Coral Empresa de Segurança Ltda. ajuíza a presente reclamação.
+    3. A Reclamante alega que “o C. TST concedeu interpretação extensiva ao disposto no art. 543-A do CPC e no art. 326 do RISTF, e negou seguimento a agravo de instrumento em recurso extraordinário, sob a alegação de que já havia decisão do STF de negativa de repercussão geral em ação anteriormente julgada – RE 598365/MG – e que o TST entendeu ser sobre tese idêntica, o que desde já resta impugnado, eis que tal entendimento viola o disposto no art. 102, inc. II, da Constituição Federal, art. 544 do CPC e diverge frontalmente da Súmula 727/STF” (fl. 2).
+     Assevera que “a decisão do TST de negar seguimento ao agravo de instrumento em recurso extraordinário claramente ultrapassa o limite da competência daquele tribunal, pois há análise por ele e não pelo STF da repercussão geral, e de forma unilateral e arbitrária, eis que impede que a parte devolva tal decisão ao tribunal realmente competente – STF – mediante agravo de instrumento” (fl. 4).
+     Sustenta que, nos termos da Súmula n. 727 do Supremo Tribunal Federal, o Tribunal a quo não poderia deixar de encaminhar o agravo de instrumento interposto contra a decisão que não admitiu o recurso extraordinário (fl. 5).
+    Pede, “liminarmente, seja determinada a suspensão da decisão do TST que negou seguimento ao agravo de instrumento em recurso extraordinário, e consequente sobrestamento do processo AgAIRE nº 32328-12- 2010-5-00-0000, até o julgamento final da presente reclamação” (fl. 12).
+    Requer, “de forma definitiva, seja determinada a remessa pelo TST ao STF do agravo de instrumento em recurso extraordinário do processo AgAIRE nº 32328-12-2010-5-00-0000, para que seja analisado por quem detém competência para tanto” (fl. 12).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O que se põe em foco na presente reclamação é se a decisão do Órgão Especial do Tribunal Superior do Trabalho que negou processamento ao agravo de instrumento no recurso extraordinário da Reclamante teria usurpado a competência do Supremo Tribunal Federal.
+    5. A decisão contra a qual é proposta a presente reclamação foi proferida nos seguintes termos:
+     “AGRAVO DE INSTRUMENTO PERANTE O SUPREMO TRIBUNAL FEDERAL. ENCAMINHAMENTO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+    1. O Tribunal Pleno do Supremo Tribunal Federal decidiu que o Agravo de Instrumento em Recurso Extraordinário não é o meio adequado para questionar suposto equívoco na aplicação do regime da repercussão geral (STF, Tribunal Pleno, Questão de Ordem no Agravo de Instrumento nº 760358/SE, Rel. Min. Gilmar Mendes, DJ-e de 19/2/2010).
+    2. Reputou cabível Agravo Interno no Tribunal de origem para dirimir suposto erro na aplicação do precedente de repercussão geral ao caso concreto.
+    3. Em observância a recentes decisões desse jaez, oriundas do Supremo Tribunal Federal, e com fundamento no art. 557, § 1º, do CPC, admite-se como Agravo o Agravo Regimental interposto contra decisão que não admitiu Agravo de Instrumento em Recurso Extraordinário.
+    DECISÃO MONOCRÁTICA DA VICE-PRESIDÊNCIA DO TST QUE NÃO ADMITE AGRAVO DE INSTRUMENTO EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. O Excelso Supremo Tribunal Federal, nos autos do Recurso Extraordinário nº 598.365/MG, decidiu que não há repercussão geral de questão constitucional no tocante a pressupostos de admissibilidade de recurso no Tribunal de origem, porquanto aludida matéria não ostenta dimensão constitucional.
+    2. Tal decisão não desafia qualquer espécie de recurso, visto que, consoante previsto nos arts. 543-A, § 5º, do CPC e 326 do Regimento Interno do STF, a decisão declaratória de inexistência de repercussão geral vale para todos os recursos sobre questão idêntica.
+    3. Decisão que não admite o Agravo de Instrumento em Recurso Extraordinário, por ausência de repercussão geral, encontra-se em consonância com o sistema de julgamento inaugurado após o advento da exigência de repercussão geral da matéria constitucional (Emenda Constitucional nº 45/2004 e Lei nº 11.418/2006).
+    4. Agravo a que se nega provimento.
+    5. Reputando-se o recurso manifestamente infundado, impõe-se à parte Agravante, com fulcro no art. 557, § 2º, do CPC, multa de 5%, calculada sobre o valor corrigido da causa, em proveito da parte contrária, condicionando a interposição de qualquer outro recurso, de resto incabível, ao depósito do respectivo valor.”
+    6. Em 19.11.2009, ao resolver questão de ordem suscitada no Agravo de Instrumento n. 760.358, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou a necessidade de manifestação do colegiado a quo sobre eventual equívoco apontado na aplicação do instituto da repercussão geral, razão pela qual não conheceu do agravo de instrumento e determinou sua devolução à origem para que fosse apreciado como agravo regimental (Informativo n. 568).
+    Naquela assentada, sob o mesmo fundamento, este Supremo Tribunal não conheceu das Reclamações n. 7.569 e 7.547, Relatora a Ministra Ellen Gracie, ajuizadas em circunstâncias idênticas, e determinou sua remessa ao órgão jurisdicional prolator do ato reclamado para que as processasse como agravo regimental.
+    Na espécie vertente, a Reclamante já interpôs agravo interno no Tribunal Superior Trabalho, ao qual foi negado provimento.
+    No entanto, ainda não foi definido por este Supremo Tribunal qual instrumento processual seria cabível contra a decisão do Tribunal a quo proferida no julgamento do agravo interno.
+    A ausência de definição quanto ao instrumento processual cabível tem duplo efeito: a inviabilidade jurídica de deferimento da medida liminar e a impossibilidade de negativa de seguimento da reclamação neste momento processual.
+    Assim, neste exame precário, próprio das liminares, não é possível verificar a verossimilhança do direito discutido pela Reclamante (fumus boni iuris).
+    7. Pelo exposto, sem prejuízo de reapreciação da matéria no julgamento do mérito, indefiro a medida liminar pleiteada.
+    8. Requisitem-se informações ao Reclamado (art. 14, inc. I, da Lei n. 8.038/1990 e art. 157 do Regimento Interno do Supremo Tribunal Federal).
+    9. Na sequência, vista ao Procurador-Geral da República (art. 16 da Lei n. 8.038/1990 e art. 160 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de fevereiro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
