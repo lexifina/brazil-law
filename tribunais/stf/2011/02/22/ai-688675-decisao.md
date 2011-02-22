@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto pelo Município de Maringá contra acórdão do Tribunal de Justiça do Paraná que confirmou sentença de procedência de ação civil pública ajuizada pelo Ministério Público, visando à regularização de depósito de lixo municipal e recomposição de área degradada.
+Transcrevo a ementa do acórdão recorrido (fls. 12-14):
+1) DIREITO CONSTITUCIONAL, AMBIENTAL E PROCESSUAL CIVIL. DEPÓSITO INADEQUADO DE LIXO. TUTELA DO MEIO AMBIENTE. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. PRESENÇA DE TODAS AS CONDIÇÕES DA AÇÃO.
+a) Compete ao judiciário, sempre que instado, controlar a legalidade dos atos do Poder Público. Sendo assim, uma vez verificada a ilegalidade da manutenção do “lixão” do MUNICÍPIO DE MARINGÁ, não há que se falar em violação ao princípio da separação dos poderes.
+b) Incabíveis, portanto, as alegações de que os pedidos formulados pelo Ministério Público são juridicamente impossíveis ou que lhe carece interesse de agir por afronta ao princípio da separação de poderes.
+2) DIREITO CONSTITUCIONAL E AMBIENTAL. ILEGALIDADE DA MANUTENÇÃO DE DEPÓSITO DE LIXO A CÉU ABERTO. NECESSIDADE DE ADEQUAÇÃO DO MUNICÍPIO À LEGISLAÇÃO INFRACONSTITUCIONAL NO PRAZO FIXADO PELA LEI ESTADUAL Nº 12.493/1999.
+a) É ilegal a manutenção de 'lixão' a céu aberto, sem adequados acondicionamento, tratamento e destinação final do lixo, com suficiente sistema de drenagem de chorume, que acaba por contaminar os recurso hídricos, o que afronta não só a legislação ambiental específica, mas o próprio art. 225 da Constituição Federal.
+b) A Lei Estadual nº 12.493 de 22 de janeiro de 1999 fixou o prazo de 1 (um) ano a contar da data de sua publicação para que os Municípios se adequassem às exigências da lei no que se refere aos cuidados com o lixo. Portanto, o MUNICÍPIO DE MARINÁ encontra-se em mora, pois, passados 6 (seis) anos da expiração do prazo legal fixado, ainda não providenciou outro local para o depósito de lixo.
+c) Por essa razão, não pode o Poder Público deixar de providenciar novo aterro alegando descumprimento da Lei de Responsabilidade Fiscal, especialmente por se estar a tratar de direito fundamental difuso, qual seja o direito a um meio ecologicamente equilibrado.
+3) APELO A QUE SE NEGA PROVIMENTO E SENTENÇA QUE SE MANTÉM EM REEXAME NECESSÁRIO.
+No recurso extraordinário, o recorrente alega violação do disposto no art. 2º da Constituição. Sustenta, em síntese, que a condenação do município afrontou o princípio da separação de poderes.
+Decido.
+Não obstante a relevante discussão acerca da possibilidade de interferência do Judiciário na efetivação de políticas públicas destinadas ao bem comum, devo registrar que o presente caso não comporta tal tema.
+Com efeito, o acórdão recorrido está fundamentado na realidade fática do Município recorrente e no direito local. Assim concluiu o tribunal a quo:
+“Conforme vistoria técnica realizada pelo Instituto Ambiental do Paraná (fls. 1192/1193), no local utilizado para depósito de lixo pelo Município de Maringá há ocorrência de lixo descoberto, urubus em grande quantidade, não há drenagem de água fluvial, a drenagem do chorume é feita de forma inadequada, sem a devida separação de águas fluviais, o que aumenta o volume de despejo, dentre outros problemas.
+Tais fatos comprometem a saúde e a qualidade de vida da população maringaense. O lixo descoberto causa mau cheiro, situação esta que se agrava quando há inversão térmica (fl. 339, II volume), além de permitir a proliferação de vetores de doenças. A inadequada drenagem do chorume acaba por contaminar os recursos hídricos, conforme constatado pelo “Levantamento da situação do Município de Maringá, referente à disposição final dos resíduos sólidos urbanos”, realizado pela Superintendência dos Recurso Hídricos e Meio Ambiente do Estado do Paraná – SUREHMA (f. 393, II volume).
+(...)
+O que se percebe é que o caso dos autos há flagrante violação ao dispositivo mencionado. Como já exposto, o lixo é depositado a céu aberto, há ocorrência de queimas a céu aberto e o chorume produzido pelo lixo acaba por contaminar os recursos hídricos. Ou seja: quase todos os incisos do art. 14 da Lei Estadual nº 12.493/99 estão sendo violados. ” (fls. 25/29)
+Ora, chegar à conclusão diversa do acórdão recorrido importaria, necessariamente, o revolvimento dos fatos e provas que fundamentaram as conclusões da decisão recorrida, em particular o levantamento realizado pelo órgão ambiental competente, assim como a análise da Lei estadual 12.493/99. Isso inviabiliza o processamento do recurso, ante as vedações contidas nos enunciados das Súmulas 279 e 280 desta Corte.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 22 de fevereiro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
