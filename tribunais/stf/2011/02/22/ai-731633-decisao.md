@@ -1,0 +1,21 @@
+D ECIS Ã O:
+Vistos.
+Adelmo Miguel interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 8º do Ato das Disposições Constitucionais Transitórias.
+Insurge-se, no apelo extremo, contra acórdão da Primeira Turma Recursal da Seção Judiciária de Santa Catarina, assim fundamentado, na parte em que interessa:
+“(...)
+Verifica-se, pois, que o alcance da anistia concedida pelo art. 8º do ADCT não foi estendido de modo geral pela lei supracitada, pois ela mantém tanto a referência à 'motivação exclusivamente política' quanto à cláusula geral de afetação por 'atos institucionais ou complementares, ou de exceção na plena abrangência do termo'.
+Apesar do amplo alcance do direito reconhecido pela Constituição e pela Lei 10.559/2002, é evidente que este não engloba, como sustenta a parte autora, todas as pessoas que prestaram serviço militar no período da ditadura, porquanto ao reconhecimento do direito à anistia é inafastável a presença de dois requisitos: o subjetivo, atinente à 'motivação exclusivamente política'; e o material, relativo aos atos institucionais, complementares ou de exceção.
+Ora os fatos descritos na inicial não resultam de motivação exclusivamente política e tampouco caracterizam atos institucionais, complementares ou de exceção. Trata-se, tão-somente, de alegações genéricas e não devidamente provadas nos autos de constrangimento relativos ao cotidiano do serviço militar, que não se subsumem, de forma alguma, aos preceitos em foco.
+(...)
+Por fim, noto que o Decreto Legislativo 18/1961 somente alcança os fatos que lhe são pretéritos, o que é natural na concessão da anistia. Portanto, é impertinente para o deslinde desta demanda, que trata de período posterior ao golpe de 1964” (fl. 45).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece prosperar, uma vez que o acórdão atacado, conforme mencionado, decidiu a controvérsia com fundamento na análise do conjunto fático-probatório e da legislação infraconstitucional, não sendo cabível seu reexame em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte. Nesse sentido, anote-se:
+“CONSTITUCIONAL. MILITAR. ANISTIA. SÚMULAS 279 E 280 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, bem como o conjunto fático-probatório constante dos autos, o que inviabiliza o extraordinário, a teor das Súmulas 279 e 280 do STF. II - Agravo regimental improvido” (AI nº 615.278/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 6/3/09).
+“CONSTITUCIONAL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ANISTIA. SERVIDOR MILITAR DO MINISTÉRIO DA MARINHA. ART. 8º do ADCT/88. REEXAME DE FATOS E PROVAS. SÚMULA STF 279. 1. O Tribunal de origem reconheceu o direito do agravado à anistia com base na Lei 6.683/79, na EC 26/85 e no art. 8º do ADCT/88, por entender que ele foi licenciado do serviço ativo por ato de exceção, de cunho puramente político. 2. Para reforma do acórdão recorrido é imprescindível o reexame de fatos e de provas, inviável em sede extraordinária, em razão do óbice previsto na Súmula STF 279. Precedentes. 3. Agravo regimental improvido” (AI nº 454.417/RJ-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 6/2/10).
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 22 de fevereiro de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
