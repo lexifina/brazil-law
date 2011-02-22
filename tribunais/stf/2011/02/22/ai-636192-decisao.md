@@ -1,0 +1,38 @@
+DECISÃO
+Vistos.
+Robert Jan Bloch interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5°, caput e incisos XXXV, LIV e LV, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Oitava Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“Responsabilidade Civil – Sentença classifica cirurgia como obrigação de meios – Laudo pericial afirmando ser cirurgia correcional – Recurso parcialmente provido – Requerido é cirurgião plástico – Existência de nexo causal – O juiz não está adstrito ao laudo pericial – Dano material e moral caracterizados – Indenização devida – Apelação parcialmente provida (Voto 9221)” (fl. 114).
+Opostos embargos de declaração (fls. 119 a 124) foram rejeitados (fls. 127 132).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 7/2/06, conforme expresso na certidão de folha 133, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação.
+Não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Por outro lado, a jurisprudência deste Supremo Tribunal Federal é firme no sentido de que afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+No tocante aos fatos ensejadores dos danos morais e materiais e à responsabilidade do agravante em indenizá-los, o acórdão recorrido assim consignou:
+“(...)
+O próprio laudo do perito oficial diz que o tratamento não deve visar correções estéticas, já que na grande maioria dos casos é impossível se conseguir correções de aspecto estético excelente dado o caráter congênito e à gravidade dos casos.
+Entretanto a sentença na mesma linha entendeu que a cirurgia foi de obrigação de meios.
+Não há dúvida, segundo a inicial e a intenção do autor era conseguir melhorar a macrodactilia do 1º e 2º dedos do pé esquerdo.
+A inicial não se cansa de citar inúmeros acórdãos todos no sentido de obrigação de resultado, que se aplica à cirurgia plástica.
+E como não pode deixar de ser, o réu é justamente cirurgião plástico, com vários cursos na especialidade.
+A obrigação de meios é mera tese de defesa, para se eximir do edema e necrose que se seguiram à cirurgia.
+O perito reconheceu o nexo causal, embora sempre afirmando ser cirurgia correcional.
+O Juiz não está adstrito ao laudo pericial.
+.......................................................................................................
+Os danos morais são presumidos na espécie, porque o autor foi a própria vítima. O aspecto estético piorou com a cirurgia, conforme conclusão do autor, e fotos de fls. 27/31.
+O dano material é relativo ao tratamento com o Dr. João Carlos Simabukuro” (fls. 115 a 117).
+Desse modo, para divergir do entendimento firmado pelo Tribunal de origem e acolher a pretensão do recorrente seria necessário o reexame dos fatos e das provas carreados aos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279. Nesse sentido, anote-se:
+“CONSTITUCIONAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279 DO STF. I - A apreciação do recurso extraordinário demanda o exame de matéria de fato, o que atrai a incidência da Súmulas 279 do STF. II - Agravo regimental improvido” (AI nº 634.072/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 22/6/07).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO DANO MORAL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (AI nº 642.351/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 29/6/07).
+“AGRAVO REGIMENTAL. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO. DANO MORAL. REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. 1. A via extraordinária não é adequada para se questionarem as circunstâncias fáticas que ensejaram o afastamento da condenação em danos morais e se fazer processar, como se pretende no presente agravo regimental, reexame de matéria probatória reservada às instâncias ordinárias de mérito. 2. Incidência da Súmula 279 do Supremo Tribunal Federal. 3. Agravo ao qual se nega provimento” (AI nº 565.159/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 16/2/07).
+“Indenização. Dano moral. Notícias divulgadas por jornal. Controvérsia que exige o prévio exame de provas (Súmula 279). Precedentes. Regimental não provido” (RE nº 375.095/RJ-AgR, Segunda Turma, Relator o Ministro Nelson Jobim, DJ de 21/5/04).
+“1. RE descabimento: questão relativa a indenização por danos morais decorrentes de veiculação de notícia em periódico: caso em que, para constatar a existência ou não das alegadas violações aos dispositivos constitucionais apontados no recurso extraordinário, seriam imprescindíveis o reexame da prova e o revolvimento de matéria de fato: incidência da Súmula 279 . 2. Julgamento antecipado da lide: debate de natureza processual ordinária: alegada ofensa a dispositivos constitucionais que, se ocorresse, seria indireta ou reflexa, que não enseja o RE” (RE nº 394.622/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 7/5/04).
+No mesmo sentido, as seguintes decisões monocráticas: RE nº 464.916/SP, Relatora a Ministra Cármen Lúcia, DJ de 7/4/08, RE nº 569.597, Relator o Ministro Eros Grau, DJ de 13/3/08, AI nº 595.395/SP, Relator o Ministro Celso de Mello, DJ de 3/8/07, RE nº 533.109/MG, Relator o Ministro Sepúlveda Pertence, DJ de 18/6/07.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 22 de fevereiro de 2011.
+Ministro D IAS T OFFOLI
+Relator
