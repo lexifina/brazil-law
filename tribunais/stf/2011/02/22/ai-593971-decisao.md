@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+Termomecânica São Paulo S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 93, inciso IX, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Turma Julgadora da Décima Segunda Câmara do Segundo Tribunal de Alçada Civil do Estado de São Paulo, assim ementado:
+“Ação indenizatória. Embargos à execução. Atualização monetária de atrasados. Correção que se conta desde o mês em que a pensão havia de ser paga, ainda que sua base de cálculo fosse o salário do obreiro, que podia ser satisfeito até o 5º dia útil do mês subseqüente ao trabalhado. Exclusão de período em que o obreiro recebeu salários do empregador. Descabimento. Paga que foi a contraprestação por serviço prestado ao empregador, o que não elimina o direito à indenização pela redução da capacidade laborativa, pelo provimento condenatório proclamado. Honorários advocatícios de 20% do débito em execução. Hipótese em que os embargos foram parcialmente acolhidos e se devia, ainda, para a fixação da honorária considerar apenas o valor discutido no feito. Redução ordenada. Apelo parcialmente provido” (fl. 65).
+Opostos embargos de declaração, foram rejeitados.
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 17/5/04, conforme expresso na certidão de folha 82, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Colhe-se do voto condutor do acórdão recorrido:
+“Com efeito, a circunstância de a pensão devida ao obreiro ser calculada com base no salário dele não autorizava estender àquela verba o regramento atinente à atualização monetária de salários não satisfeitos no tempo devido. Assim, o salário de um mês poder ser pago até o quinto dia útil do mês seguinte (art. 459 da CLT), pena de sofrer correção monetária a partir desse mês subseqüente (Precedente Jurisprudencial TST nº 124), não significava que também a pensão devesse ser corrigida a partir do mesmo termo.
+E isso porque, primeiro, não havia comando legal ou determinação contida no provimento condenatório para assim se proceder. Segundo porque, devendo a pensão ser satisfeita no mesmo mês ao qual se referia, e não tendo assim se dado, a correção sobre ela incidente só podia mesmo ser contada do momento tomado como base para a quantificação daquela verba, pena de não se recompor plenamente a expressão monetária dela.
+A diversidade de natureza entre salário e verba indenizatória, ainda que devesse essa ser calculada com base naquele, tornava descabida, pois, a adoção do critério de correção monetária preconizado pelo embargante.
+De outro lado, do montante devido ao exeqüente não podiam mesmo ser excluídos os salários recebidos de julho de 1.995 a agosto de 1.997.
+Os salários foram a contrapartida pelos serviços então prestados pelo obreiro, pelo que o pagamento deles excluir as verbas indenizatórias do mesmo período, deferidas à vista da redução de capacidade, importaria em eliminar ressarcimento expressamente ordenado, sem aquela sorte de ressalva, no provimento condenatório. Essa solução era vedada pela coisa julgada (art. 610 do CPC).
+.......................................................................................................
+Ora, assim como o pagamento de salários após a compulsória reintegração do obreiro ao trabalho, tornada definitiva em agosto de 1.997 (fls. 63), não gerava perda do direito à pensão do mesmo período, por igual motivo não podia esse efeito acarretar a percepção de salários no momento anterior, entre julho de 1.995 e agosto de 1.997, durante o qual o empregador voluntariamente manteve o obreiro sob contrato” (fls. 66 a 68).
+Como visto, não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão da recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Anote-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pela então agravante, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 22 de fevereiro de 2011.
+Ministro D IAS T OFFOLI
+Relator
