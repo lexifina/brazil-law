@@ -1,0 +1,16 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Goiás, cuja decisão condenou o recorrente ao pagamento de indenização por dano moral no valor de R$ 20.000,00 (vinte mil reais) e pensão de 2/3 (dois terços) do salário mínimo, até a data em que a vítima completaria 25 (vinte e cinco) anos de idade, reduzida para 1/3 (um terço) do seu valor até a data em que a vítima completaria 65 (sessenta e cinco) anos de idade (21.7.2046), ou até o falecimento da recorrida, o que ocorrer primeiro; em razão de morte de detento ocasionada por desafeto no interior de penitenciária.
+No recurso extraordinário, o recorrente alega que a condenação fixada em salários mínimos afronta o art. 7º, inciso IV, da Constituição Federal, e que não estão preenchidos os requisitos da responsabilidade civil, previstos no art. 37, § 6º, da Constituição.
+Decido.
+Não assiste razão ao agravante, pois o acórdão recorrido decidiu de acordo com a jurisprudência desta Corte, segundo a qual é possível a utilização do salário mínimo como forma de expressão do valor inicial da condenação.
+Nesse sentido: AI-AgR 605.102, de minha relatoria, 2ª Turma, decisão unânime, DJe 21.11.2008; AI-AgR 643.578, Rel. Min. Ricardo Lewandowski, 1ª Turma, decisão unânime, DJe 29.8.2008, este último assim ementado:
+“RESPONSABILIDADE CIVIL. INDENIZAÇÃO FIXADA COM BASE NO SALÁRIO MÍNIMO. POSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. SÚMULA 283 DO STF. I - A Constituição Federal, em seu art. 7º, IV, apenas proíbe a utilização do salário-mínimo como forma de indenização. A sentença que fixa a condenação em salários-mínimos, mas prevê posterior atualização de acordo com índices oficiais de correção monetária, é consentânea com a jurisprudência da Corte. Precedentes. II - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Agravo improvido.” (grifei)
+Ademais, quanto à alegação de ausência dos requisitos caracterizadores da responsabilidade civil, também não assiste razão ao agravante, pois ficou consignado no acórdão recorrido que o recorrente estava obrigado a impedir a ocorrência do dano e não o fez.
+Para entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. SYDNEY SANCHES, Primeira Turma, DJ de 19.9.1997; RE 102.542, Rel. Min. DJACI FALCAO, Segunda Turma, DJ de 27.9.1985; RE-AgR 593.550, Rel. Min. EROS GRAU, Segunda Turma, DJe de 27.2.2009; e AI-AgR 767.152, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 5.2.2010.
+Incide, portanto, a Súmula 279/STF.
+Ademais, não há se falar em violação ao princípio da proporcionalidade, nem da razoabilidade, quando o valor arbitrado a título de dano moral não se mostra exorbitante.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, RISTF, e 557 do CPC).
+Publique-se. Int..
+Brasília, 22 de fevereiro de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
