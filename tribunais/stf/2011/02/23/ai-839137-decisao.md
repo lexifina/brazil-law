@@ -1,0 +1,16 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“NULIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. Não se reconhece violação dos artigos 93, IX, da Constituição da República, 458, II, do Código de Processo Civil e 832 da Consolidação das Leis do Trabalho em face de julgado cujas razões de decidir são fundamentadamente reveladas, abarcando a totalidade dos temas controvertidos (...).
+PRESCRIÇÃO. FGTS. PARCELAS RECONHECIDAS JUDICIALMENTE. A prescrição do Fundo de Garantia do Tempo de Serviço é trintenária em relação à pretensão de seu recolhimento sobre parcelas remuneratórias efetivamente pagas durante a vigência do contrato (Súmula nº 362 do Tribunal Superior do Trabalho). Contudo, quando a parcela do FGTS reveste-se de caráter acessório à verba requerida na reclamação trabalhista, a prescrição aplicável não é a do FGTS, mas a da verba, cuja exigibilidade falece com o transcurso de cinco anos (...).
+PARCELA BÔNUS-PERFORMANCE. NATUREZA JURÍDICA. 1. O Tribunal Regional, ao manter a sentença por meio da qual não se reconhecera a alegada natureza salarial da parcela PLR - bônus, não negou validade ao instrumento normativo da categoria, ao contrário, deu a perfeita subsunção literal da norma ao caso concreto (...).” (fls. 337-337v)
+O recorrente alega que esse julgado teria violado os artigos 7º, XI e XXVI, e 93, IX, da Constituição Federal.
+O recurso não merece prosperar. No caso, o acórdão recorrido decidiu que:
+“O Tribunal Regional, ao manter a sentença, por meio da qual não se reconhecera a alegada natureza salarial da parcela PLR – bônus, não negou validade ao instrumento normativo da categoria, ao contrário, deu a perfeita subsunção literal da norma ao caso concreto. Do quadro fático delineado pela Corte de origem extrai-se que a indigitada verba era indenizatória.” (fl. 371)
+A questão examinada no acórdão recorrido está adstrita à interpretação de cláusulas de acordo coletivo, o que atrai para a espécie o óbice da Súmula 454/STF. Nesse sentido, cito o AI 752.531, Rel. Min. Cármen Lúcia, DJe 2.6.2009, e AI-AgR 727.809, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 16.11.2010, cuja ementa dispõe:
+“AGRAVO REGIMENTAL. MATÉRIA INFRACONSTITUCIONAL. INTERPRETAÇÃO DE CLÁUSULA DE ACORDO COLETIVO. SÚMULA 454. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. É inviável recurso extraordinário para a interpretação de cláusula de acordo coletivo de trabalho. Agravo regimental a que se nega provimento.”
+Com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 23 de fevereiro de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
