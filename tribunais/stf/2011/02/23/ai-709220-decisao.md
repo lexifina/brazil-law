@@ -1,0 +1,27 @@
+D ECIS Ã O:
+Vistos.
+Trata-se de agravo de instrumento visando destrancar recurso extraordinário fundado na alínea “a” do permissivo constitucional.
+O apelo extremo ataca acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+“PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. RAZÕES INOVADORAS. CERCEAMENTO DE DEFESA. NÃO CARACTERIZAÇÃO. ACRÉSCIMOS LEGAIS DO DÉBITO. MULTA MORATÓRIA.
+1. Não conhecimento do recurso na parte em que introduz alegações novas não deduzidas perante o r. Juízo a quo.
+2. Tratando-se de débito declarado e não pago pelo contribuinte ou oriundo de termo de confissão espontânea, desnecessária a prova pericial se o contribuinte não evidencia erro na declaração ou nos cálculos. Não caracterizado o cerceamento de defesa.
+3. A cumulação de correção monetária, juros e multa moratória na apuração do crédito tributário, prevista no § 2.º, art. 2.º, da Lei 6.830/80, é possível, tendo em vista a natureza jurídica diversa dos referidos acessórios.
+4. A multa moratória fixada em 20% (vinte por cento), está em consonância com a legislação aplicável aos débitos decorrentes de tributos e contribuições administrados pela Receita Federal.
+5. Inaplicável a multa nos parâmetros do art. 52 do CDC, vez que se destinam apenas às relações de consumo.
+6. Matéria preliminar rejeitada. Apelação parcialmente não conhecida e, na parte conhecida, improvida.” (fl. 148).
+Opostos embargos de declaração (fls. 152 a 158), foram rejeitados (fls. 162 a 167).
+Decido.
+A irresignação não merece prosperar, uma vez que a jurisprudência desta Suprema Corte é assente no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário.
+Nesse sentido, anote-se:
+“Agravo regimental. Processual penal. Prequestionamento. Ofensa reflexa. Reapreciação de fatos e provas. Precedentes da Corte. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. Nos termos da jurisprudência deste Supremo Tribunal Federal, as alegações de afronta aos princípios da ampla defesa e do contraditório, entre outros, configuram ofensa indireta ou reflexa à Constituição Federal e, por isso, não abrem passagem ao recurso extraordinário. 3. Não é possível, em sede de recurso extraordinário, reexaminar fatos e provas a teor do que dispõe a Súmula nº 279/STF. 4. Agravo a que se nega provimento” (AI nº 603.952/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 27/6/08).
+“PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL: OFENSA INDIRETA À CONSTITUIÇÃO. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO. 1. Apesar dos argumentos do Agravante, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, entre outros, configuram ofensa reflexa à Constituição da República. 2. Agravo Regimental ao qual se nega provimento” (AI nº 649.191/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/6/07).
+E, ainda: AI nº 622.527/AP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 18/5/07; AI nº 562.809/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 18/5/07; e AI nº 563.028/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 11/5/07, entre outros.
+Ainda que assim não fosse, entender de forma contrária ao acórdão recorrido, como pretende o agravante, demandaria um reexame aprofundado do contexto fático-probatório dos autos, o que é inviável na via eleita. Incidência, portanto, da Súmula nº 279/STF.
+Perfilhando esse entendimento, destaco o seguinte julgado:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. OFENSA AO ART. 5º, INCISOS LIV E LV. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA STF Nº 279. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. INQUÉRITO. CONFIRMAÇÃO EM JUÍZO DOS TESTEMUNHOS PRESTADOS NA FASE INQUISITORIAL. 1. A suposta ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa passa, necessariamente, pelo prévio reexame de fatos e provas, tarefa que encontra óbice na Súmula STF nº 279. 2. Inviável o processamento do extraordinário para debater matéria infraconstitucional, sob o argumento de violação ao disposto nos incisos LIV e LV do art. 5º da Constituição. 3. Ao contrário do que alegado pelos ora agravantes, o conjunto probatório que ensejou a condenação dos recorrentes não vem embasado apenas nas declarações prestadas em sede policial, tendo suporte, também, em outras provas colhidas na fase judicial. Confirmação em juízo dos testemunhos prestados na fase inquisitorial. 4. Os elementos do inquérito podem influir na formação do livre convencimento do juiz para a decisão da causa quando complementam outros indícios e provas que passam pelo crivo do contraditório em juízo. 5. Agravo regimental improvido” (RE nº 425.734/MG-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 28/10/05).
+Nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 23 de fevereiro de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
