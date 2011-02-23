@@ -1,0 +1,34 @@
+D ECIS Ã O:
+Vistos.
+MARILENA CELY RABELO FIGUEIREDO impetra mandado de segurança, com pedido de liminar, em face do colendo CONSELHO NACIONAL DE JUSTIÇA, com o objetivo de declarar a nulidade de ato que determinou o afastamento da servidora do egrégio Tribunal de Justiça do Estado do Pará.
+A inicial apresenta os seguintes argumentos:
+a) o c. CNJ, em pedido de providências, determinou o desligamento da impetrante dos quadros do e. TJPA, em razão de que sua admissão deu-se sem regular concurso público;
+b) o ato é nulo, porque o CNJ limitou-se a determinar que o e. TJPA intimasse os servidores temporários, sendo certo que não foi concedido à impetrante o benefício do devido processo legal, com os consectários da ampla defesa e do contraditório;
+c) “A decisão plenária do CNJ objeto deste Mandado de Segurança, aplicou, de forma ultra-severa, a pena de perda do cargo aos servidores Impetrantes reveladora de notável e reprovável clamor punitivo, afastando a possibilidade do próprio Tribunal de Justiça do Pará, via competência constitucional originária, analisar caso a caso e sobre ele se manifestar. Até porque, agride inclusive, decisões sucessivas e pretéritas do Órgão máximo (Tribunal Pleno) daquele E. TJ/PA acerca da matéria”;
+d) os atos administrativos do e. TJPA foram atingidos pela prescrição, além de terem sido aprovados pelos órgãos de controle externo;
+e) a impetrante é beneficiada pela presunção de boa-fé e pelo princípio da confiança legítima.
+Pede-se liminar para os fins de suspender os efeitos do acórdão do c. CNJ em relação à autora.
+No mérito, pede-se a decretação de nulidade do ato administrativo.
+Requeridos os benefícios da Justiça Gratuita.
+Documentos eletrônicos juntados.
+É o relatório.
+A causa resume-se a dois aspectos essenciais:
+a) A existência de situação jurídica consolidada, de boa-fé, com vários anos de eficácia continuativa, de pessoas ocupantes de loci na Administração Pública (Tribunal de Justiça do Estado do Pará) sem concurso público.
+b) Os atos de exautoração do agente público dar-se-á sem realização do contraditório e da ampla defesa, com violação ao devido processo legal.
+Quanto ao primeiro aspecto, tenho por certo e evidente, em sede de juízo liminar , que a impetrante não possui direito a permanecer em seu cargos sob o império das teses acima delineadas.
+Sou francamente partidário da necessidade de concurso público como elemento nuclear da formação de vínculos estatutários efetivos com a Administração, em quaisquer níveis. Eventuais situações de excepcionalidade, reconhecidas pelo STF, como no caso INFRAERO (MS 22357, Relator Min. GILMAR MENDES , Tribunal Pleno, julgado em 27/05/2004, DJ 05-11-2004), não podem ser dilatadas para toda e qualquer hipótese de fato.
+A regra é o concurso público, isonômico e universal.
+Ademais, no que se refere ao problema da boa-fé e da eficácia continuativa das relações jurídicas, entendo que não pode haver usucapião de constitucionalidade. A obrigatoriedade da Constituição deriva de sua vigência. Não é possível entender que o tempo derrogue a força obrigatória de seus preceitos por causa de ações omissivas ou comissivas de autoridades públicas.
+É o que a doutrina reconhece, quando aduz que (...) o servidor não-estável não é protegido pelos Estatutos dos Servidores Públicos Civis, não se estendendo a ele, por conseguinte, os direitos previstos na lei estatutária. Significa dizer que, nessa situação, o servidor de fato não pode requerer contagem do tempo de serviço público, estabilidade, progresso funcional, licenças especiais, licença-prêmio, aposentadoria paga pelos cofres públicos etc. Nem pretender que o tempo de trabalho prestado à Administração Pública conte como título, quando se submeter a concurso público - direito só facultado aos estáveis, nos termos do art. 19, § 1.º, do ADCT . (ALBUQUERQUE, Rogério Bonnassis de. Antijuridicidade da situação do servidor não-concursado e não alcançado pela estabilidade do art. 19 ADCT. Revista de Direito Constitucional . v. 7, p. 116, abr.-jun. 1994).
+Quanto ao segundo tópico da argumentação, é farta a jurisprudência do STF no sentido de que os procedimentos do CNJ, como de resto em todos os demais, hão de obedecer os cânones do contraditório, da ampla defesa e do due process of law . Não há como se interferir na esfera jurídica de terceiros sem prévia notificação. A tanto, cito acórdão que serve de paradigma a essa posição:
+CONSELHO NACIONAL DE JUSTIÇA - ATUAÇÃO - TERMO INICIAL. A atuação fiscalizadora do Conselho Nacional de Justiça não ficou balizada no tempo, considerada a Emenda Constitucional nº 45/2004. CONSELHO NACIONAL DE JUSTIÇA - DEVIDO PROCESSO LEGAL - CONTRADITÓRIO. Envolvida, no processo administrativo, situação constituída no tocante a terceiros, impõe-se a ciência destes para, querendo, apresentarem defesa. CONSELHO NACIONAL DE JUSTIÇA - DEVIDO PROCESSO LEGAL - CIÊNCIA FICTA. A espécie de conhecimento ficto, presente publicação ou edital fixado em setor do Órgão, pressupõe a ciência do processo em curso, surgindo como regra a comunicação direta. CONSELHO NACIONAL DE JUSTIÇA - PROCESSO - CIÊNCIA - ARTIGO 98 DO REGIMENTO INTERNO. Desconhecida a existência do processo, mostra-se inconstitucional dispositivo do Regimento Interno do Conselho Nacional de Justiça - artigo 98 - prevendo a ciência ficta de quem pode ser alcançado por decisão administrativa. CONCURSO PÚBLICO - NOTÁRIOS E REGISTRADORES - COMISSÃO. Faz-se regular a comissão de concurso com a participação, personificando notários e registradores, da Presidente da entidade de classe, pouco importando seja esta notária ou registradora.
+(MS 25962, Relator Min. MARCO AURÉLIO , Tribunal Pleno, julgado em 23/10/2008, DJe-053 20-03-2009)
+No entanto, em situações nas quais não há prova do prejuízo e ocorreu o atendimento da finalidade do ato, conforme o velho axioma pas de nulité sans grief, é possível afastar os rigores formais, como se dá na notificação feita pelo Tribunal de Justiça e que dá ciência aos interessados de manifestação do CNJ.
+Não resta evidente a ocorrência da alegada nulidade formal.
+No entanto, é de todo conveniente que se ressalve a prática do ato administrativo em obediência a esse primado, sob pena de que ocorra sua anulação superveniente por essa ratio . Muita vez, a demora na realização de atos ligados ao princípio da moralidade é um preço pequeno a ser pago em nome da higidez permanente da medida saneadora.
+Ante o exposto, indefiro os termos da liminar, mas determino que sejam observados no processamento dos atos da comissão responsável pela apuração do status funcional da servidora os princípios constitucionais, assegurando-se a mais ampla defesa e o contraditório, sob pena de invalidação superveniente dos atos.
+Publique-se. Int..
+Brasília, 23 de fevereiro de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
