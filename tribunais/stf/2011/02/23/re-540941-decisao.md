@@ -1,0 +1,18 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 4ª Região.
+2. Da leitura dos autos, observo que a instância judicante de origem entendeu devida a servidores militares a complementação do reajuste de 28,86%. Índice que, por meio das Leis 8.622/1993 e 8.627/1993, foi concedido apenas aos ocupantes dos mais altos postos das Forças Armadas. O reajuste foi limitado ao advento da MP 2.131/2000, que reestruturou os vencimentos dos militares.
+3. Pois bem, a parte recorrente alega ofensa ao caput e incisos XXXV e LV do art. 5º, ao inciso X do art. 37, ao caput do art. 60, ao § 4º do art. 62, bem como ao inciso IX do art. 93, todos da Carta Magna de 1988.
+4. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Tarso Braz Lucas, opina pelo desprovimento do apelo extremo.
+5. Tenho que o recurso não merece acolhida. Isso porque o aresto impugnado afina com a jurisprudência desta nossa Casa de Justiça no sentido de que o reajuste de 28,86%, concedido aos militares, tem por termo final a edição da Medida Provisória 2.131/2000. Leia-se, a propósito, a ementa do RE 388.480-AgR, da relatoria da ministra Ellen Gracie, na parte que interessa ao deslinde da causa:
+“RECURSO EXTRAORDINÁRIO. SERVIDORES PÚBLICOS MILITARES. EXTENSÃO DO REAJUSTE DE 28,86%. LEGIMITIDADE. COMPENSAÇÃO COM OS ÍNDICES JÁ DEFERIDOS PELAS LEIS 8.622/93 E 8.627/93. TERMO FINAL: MP 2.131, DE 28 DE DEZEMBRO DE 2000.
+[...]
+3. A reposição estipendiária em tela encontra termo final na MP 2.131, de 28 de dezembro de 2000, que reestruturou o sistema remuneratório dos agentes públicos militares, nos termos do que decidido pela Segunda Turma do STF no RE 410.778, rel. Min. Gilmar Mendes.”
+6. No mesmo sentido, vejam-se os AIs 687.611, da relatoria do ministro Menezes Direito; e 687.760-AgR, da relatoria do ministro Ricardo Lewandowski; bem como os REs 395.134-ED e 410.778, da relatoria do ministro Gilmar Mendes; 448.052, da relatoria da ministra Cármen Lúcia; 485.046, da relatoria do ministro Eros Grau; 567.981, da relatoria do ministro Joaquim Barbosa; e 585.165, da relatoria do ministro Ricardo Lewandowski.
+7. Por outra volta, pontuo que o Plenário do Supremo Tribunal Federal, no julgamento do RE 453.740, da relatoria do ministro Gilmar Mendes, proclamou a constitucionalidade do art. 1º-F da Lei 9.494/1997 (“Os juros de mora, nas condenações impostas à Fazenda Pública para pagamento de verbas remuneratórias devidas a servidores e empregados públicos, não poderão ultrapassar o percentual de seis por cento ao ano”). Ao fazê-lo, afastou a alegação de ofensa ao princípio da isonomia. Na oportunidade, fiquei vencido, na companhia da ministra Cármen Lúcia e dos ministros Marco Aurélio e Sepúlveda Pertence.
+8. De mais a mais, entendo que a suposta ofensa às garantias do devido processo legal, do contraditório e da ampla defesa apenas ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência desta Casa de Justiça, de que são exemplos os AIs 517.643-AgR, da relatoria do ministro Celso de Mello; e 273.604-AgR, da relatoria do ministro Moreira Alves.
+9. À derradeira, observo que a jurisdição foi prestada de forma completa, em decisão devidamente fundamentada, embora em sentido contrário aos interesses da parte recorrente.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de fevereiro de 2011.
+Ministro AYRES BRITTO
+Relator
