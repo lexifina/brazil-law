@@ -1,0 +1,10 @@
+DECISÃO
+ICMS – PRINCÍPIO DA NÃO-CUMULATIVIDADE – CRÉDITO – BENS INTEGRADOS AO ATIVO FIXO – INEXISTÊNCIA DE ELO CONSIDERADA MERCADORIA PRODUZIDA – PERÍODO ANTERIOR À LEI COMPLEMENTAR Nº 87/96 – AGRAVO DESPROVIDO.
+1. Na observância do princípio da não-cumulatividade, cumpre perquirir o elo entre a mercadoria adquirida e a atividade, em si, na produção da própria empresa. Assim, a aquisição de equipamentos que irão integrar o ativo fixo da empresa ou que serão destinados ao uso e consumo, funcionando como bens intermediários na cadeia produtiva, não gera o direito ao crédito, tendo em conta que a adquirente mostra-se, na realidade, como consumidora final. Esse enquadramento harmoniza-se com a premissa segundo a qual, vindo a vender tais bens, sobre o negócio jurídico não se dará a incidência do ICMS. Estando a decisão proferida pela Corte de origem baseada nessa interpretação, descabe concluir pela pertinência do extraordinário no permissivo que lhe é próprio.
+No mais, o Supremo, no julgamento do Recurso Extraordinário nº 584.100/ SP, da relatoria da Ministra Ellen Gracie, assentou que o prazo nonagesimal previsto no artigo 150, inciso III, alínea “c”, da Constituição Federal, somente deve ser utilizado nos casos de criação ou majoração de tributos. Eis a síntese do julgado:
+TRIBUTÁRIO. ICMS. MAJORAÇÃO DE ALÍQUOTA. PRORROGAÇÃO. INAPLICABILIDADE DO PRAZO NONAGESIMAL (ARTIGO 150, III, C, DA CONSTITUIÇÃO FEDERAL). RECURSO EXTRAORDINÁRIO CONHECIDO E PROVIDO. 1. A Lei paulista 11.813/04 apenas prorrogou a cobrança do ICMS com a alíquota majorada de 17 para 18%, criada pela Lei paulista 11.601/2003. 2. O prazo nonagesimal previsto no art. 150, III, c, da Constituição Federal somente deve ser utilizado nos casos de criação ou majoração de tributos, não na hipótese de simples prorrogação de alíquota já aplicada anteriormente. 3. Recurso extraordinário conhecido e provido para possibilitar a prorrogação da cobrança do ICMS com a alíquota majorada.
+2. Conheço do agravo e o desprovejo.
+3. Publiquem.
+Brasília, 23 de fevereiro de 2011.
+Ministro MARCO AURELIO
+Relator
