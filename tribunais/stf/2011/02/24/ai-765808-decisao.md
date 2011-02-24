@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+“DECLARATÓRIA – RESCISÃO CONTRATUAL – Serviço de telefonia – Aplicação do Código de Defesa do Consumidor – Cobrança abusiva e ilegal com base no tempo inicial de tarifação (...)” (fl. 734).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 2º, 5º, II, e 175, II, da mesma Carta.
+O agravo não merece acolhida. Verifico que, com exceção ao art. 5º, II, os demais dispositivos constitucionais tidos como violados não foram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Nesse sentido, confira-se o seguinte julgado:
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ARTIGOS 5º, LIV E LV; 6º; E 93, IX, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS STF 282 E 356. 1. O artigo 6º da Constituição Federal não se encontra prequestionado, porque, embora suscitado nos embargos de declaração opostos, não foi argüido nas razões do recurso interposto perante o Tribunal a quo. 2. Os artigos 5º, LIV e LV, e 93, IX, sequer foram suscitados nos embargos de declaração. Se a alegada ofensa à Constituição surge com a prolação do acórdão proferido em embargos de declaração, impõe-se a oposição de novos embargos declaratórios, a fim de que seja suprido o requisito do prequestionamento. 3. Agravo regimental improvido” (AI 696.326-AgR/DF, Rel. Min. Ellen Gracie, Segunda Turma).
+Ademais, cumpre destacar que este Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva o reexame de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 24 de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
