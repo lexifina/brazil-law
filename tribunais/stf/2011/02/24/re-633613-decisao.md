@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário interposto contra sentença proferida pela Primeira Vara do Trabalho de Caucaia/CE que extinguiu o processo sem resolução do mérito.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, II, XXXV e LIV, e 114, I e IX, da mesma Carta. Aduziu-se, ainda, o cabimento do recurso, sob o argumento de que o mesmo engloba lide vinculada à dissídio de alçada, previsto nos arts. 2º, 3º e 4º, da Lei 5.584/1970.
+A pretensão recursal não merece acolhida. Isso porque, nos termos do art. 102, III, da Constituição Federal, admite-se o recurso extraordinário contra decisão de única ou última instância.
+Na espécie, constata-se que a recorrente não esgotou a via recursal ordinária, o que torna inviável o extraordinário, a teor da Súmula 281 do STF. Nesse sentido, cito o decidido no julgamento do AI 673.517-AgR/SP, Rel. Min. Ellen Gracie, cuja ementa segue transcrita:
+“SÚMULA STF Nº 281. LEI 5.584/70. TRABALHISTA DISSÍDIO DE ALÇADA. 1. É incabível recurso extraordinário quando não esgotados os recursos de natureza ordinária. Incidência da Súmula STF nº 281. 2. Agravo regimental improvido”.
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 606.409/PR, RE 580.424/CE e AI 741.839/SP, Rel. Min. Cármen Lúcia.
+Ainda que superado tal óbice, o recurso não prosperaria. É que a recorrente, em preliminar de repercussão geral das questões constitucionais discutidas no caso, aduziu, em suma, que
+“a questão aqui discutida vai além dos limites desta lide, haja vista que a sentença ora atacada reflete posicionamento judicial que, certamente, será aplicado a todos os outros casos semelhantes que lhe forem apresentados” (fl. 79).
+Verifica-se, assim, que não houve a demonstração fundamentada do novo requisito legal do recurso extraordinário, com a exposição da existência de questões relevantes do ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos da causa.
+Ressalte-se que o Regimento Interno do STF, em seu artigo 327, § 1º, com a redação dada pela Emenda Regimental 21/2007, confere competência ao relator para recusar recurso extraordinário desprovido de fundamentação na preliminar de repercussão geral.
+Além disso, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Outrossim, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV e LIV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Por fim, cumpre destacar que o Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pela instância a quo. Aplica-se ao caso, por analogia, a Súmula 636 do STF.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 24 de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
