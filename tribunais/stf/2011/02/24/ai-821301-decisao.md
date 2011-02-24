@@ -1,0 +1,14 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“AGRAVO INTERNO. SERVIDOR PÚBLICO. AÇÃO DE COBRANÇA. PROFESSOR. PROMOÇÕES COM EFEITOS RETROATIVOS.
+Impossibilidade da isenção das custas processuais em face da Lei Estadual 12.613/06.
+NEGADO PROVIMENTO AO AGRAVO” (fl. 95).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 1º, 2º, 25, 98, § 2º, 99, 135, 145, II, 146, III, 150, I, e 165 da mesma Carta.
+O agravo não merece acolhida.
+Ressalte-se, preliminarmente, que, os arts. 1º, 2º, 25, 99, 135, 150, I, e 165, da Constituição, não foram objeto de debate e análise prévios pelo Tribunal de origem. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. Nesse sentido, confira-se o seguinte julgado:
+“PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA. SÚMULA 287 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 e 356 DO STF. NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO.INTERPOSIÇÃO PELA ALÍNEA "C" DO INCISO III, DO ART. 102 DA LEI MAIOR. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - As razões do recurso não infirmam os fundamentos da decisão agravada, o que atrai a incidência da Súmula 287 do STF. II - Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. III - A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. IV - O acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição. V - Recurso Protelatório. Aplicação de multa. VI - Agravo regimental improvido” (AI 735.676-AgR/DF, de minha relatoria, Primeira Turma).
+Ademais, para se chegar à análise das alegadas ofensas à Constituição, necessário seria o exame de normas infraconstitucionais locais (Lei Estadual 8.121/85 e Lei Estadual 12.613/06), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Nesse sentido: AI 815.564/RS e RE 626.704/RS, Rel. Min. Cármen Lúcia; AI 753.759/RS, de minha relatoria.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 24 de fevereiro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
