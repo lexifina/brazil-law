@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Rogerio Luis Adolfo Cury, em favor de Juliana Saud Maia Fávaro.
+Na espécie, o Juízo da 2ª Vara Federal de São José do Rio Preto/SP condenou a paciente à pena de 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial fechado, por infração ao art. 12, caput, c/c o art. 18, I e III, da Lei n. 6.368/1976, tendo-lhe negado o direito de apelar em liberdade, por considerar existentes os requisitos do art. 312 do CPP (Ação Penal 2004.61.06.010017-0).
+Contra essa decisão a defesa interpôs apelação perante o Tribunal Regional Federal da 3ª Região, recurso pendente de julgamento (Apelação Criminal n. 0010017-52.2004.4.03.6106).
+Pleiteando o direito de aguardar o julgamento do recurso de apelação em liberdade, a defesa impetrou habeas corpus perante o TRF da 3ª Região, que restou denegado, por maioria (HC n. 2008.03.00.045870-0).
+Inconformada, impetrou HC perante o STJ, que denegou a ordem pretendida (HC n. 153.045/SP), nos termos da ementa transcrita:
+“CRIMINAL. HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. PRISÃO PREVENTIVA DECRETADA NA SENTENÇA. VEDAÇÃO AO APELO EM LIBERDADE. RÉ QUE PERMANECEU SOLTA DURANTE O CURSO DO PROCESSO. NECESSIDADE DE FUNDAMENTAÇÃO DA MEDIDA CONSTRITIVA DE LIBERDADE. GARANTIA DA ORDEM PÚBLICA. PROVAS CARREADAS AOS AUTOS QUE DENOTAM EXISTÊNCIA DE ORGANIZAÇÃO CRIMINOSA. PERSONALIDADE VOLTADA À PRÁTICA DE CRIMES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PRISÃO DOMICILIAR. WRIT NÃO CONHECIDO NA ORIGEM NO TOCANTE AO TEMA. SUPRESSÃO DE INSTÂNCIA. ORDEM PARCIALMENTE CONHECIDA E DENEGADA.
+I. Hipótese em que o juízo de primeiro grau decretou a custódia preventiva da paciente no bojo da sentença condenatória, negando-lhe o direito de aguardar o julgamento do apelo em liberdade, não obstante o fato dessa ter permanecido solta durante a instrução criminal.
+II. Provas carreadas aos autos pelo Parquet quando da juntada das alegações finais que denotariam a existência de complexa organização criminosa integrada pela ora paciente, bem como de que esta fazia da traficância internacional seu lucrativo meio de vida, tendo sido decretada a sua custódia preventiva nos autos de outra ação penal em curso perante o mesmo juízo.
+III. O fato de a ré ter permanecido solta durante a instrução criminal não obsta a negativa ao apelo em liberdade, se evidenciado, na ocasião em que proferida a sentença condenatória, os requisitos para a custódia preventiva, a qual deve estar baseada em fundamentação concreta.
+IV. A possibilidade concreta de reiteração de condutas delituosas, porquanto a personalidade da paciente mostra-se voltada para o cometimento de delitos, permite que o Juiz, ao prolatar a sentença condenatória, negue à ré o direito de apelar em liberdade, para garantia da ordem pública, ainda que tenha respondido ao processo em liberdade.
+V. Argumentos consignados na sentença condenatória e no acórdão a quo que não caracterizam meras conjecturas e probabilidades a respeito do que eventualmente poderia vir a fazer a ré se permanecesse solta, tratando-se de fundamentação concreta e vinculada à realidade, o que é perfeitamente hábil a fundamentar a segregação, em atenção ao disposto no art. 312 da Lei Processual Adjetiva.
+VI. Perpetrados crimes graves, em atividade delitiva desenvolvida de maneira reiterada e habitual, sob a forma de verdadeira organização criminosa, a segregação cautelar mostra-se necessária como forma de se garantir a ordem pública, em razão do modus operandi dos crimes.
+VII. A presença de condições pessoais favoráveis, por se tratar de ré ainda primária, nada obstante a existência de outros processos em curso em seu desfavor, não é garantidora de eventual direito à revogação da custódia, se a sua manutenção é recomendada por outros elementos dos autos.
+VIII. As alegações trazidas pela impetração no tocante ao estado de saúde do menor não foram objeto de debate e julgamento por parte do Tribunal a quo, logo, o exame da matéria por esta Corte ocasionaria indevida supressão de instância.
+IX. Ordem parcialmente conhecida, e nessa extensão, denegada, nos termos do voto do Relator”.
+No presente writ, a defesa busca, em síntese, que a paciente aguarde o julgamento do seu recurso de apelação em liberdade.
+Observo que a defesa reitera questão que se encontra presente no HC 105.011/SP, também de minha relatoria.
+No HC 105.011/SP, a defesa pleiteava o direito de aguardar o julgamento do recurso de apelação em liberdade, com pedido alternativo de concessão de prisão domiciliar.
+Em 23.11.2010, a 2ª Turma do STF, por unanimidade, indeferiu a ordem por considerar que a decisão constritiva de liberdade contém fundamentação idônea que justifica a custódia cautelar para fins de garantia da ordem pública (acórdão transitado em julgado em 1º.2.2011).
+A jurisprudência da Corte é pacífica no sentido de não admitir reiteração de habeas corpus com o mesmo fundamento. Nesse sentido: HC 83.131/SP, rel. Min. Celso de Mello, DJ 15.8.2003, e HC 80.636/MG, rel. Min. Nelson Jobim, DJ 5.9.2001.
+Ante o exposto, nego seguimento ao presente habeas corpus, restando prejudicado o pedido de medida liminar.
+Publique-se.
+Brasília, 25 de fevereiro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
