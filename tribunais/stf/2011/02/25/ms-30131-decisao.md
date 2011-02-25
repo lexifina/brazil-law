@@ -1,0 +1,17 @@
+D ECIS Ã O: Trata-se de mandado de segurança, com pedido liminar, impetrado por Samuel Alves Maranhão, em face do Procurador-Geral da República e do CESPE, em razão de sua eliminação do concurso público para provimento de cargos do Ministério Público da União.
+O impetrante alega que se inscreveu para concorrer a uma das vagas destinadas ao cargo de Técnico de Informática.
+Sustenta ter sido aprovado em prova objetiva, mas não teria conseguido alcançar a nota mínima para a aprovação em prova discursiva.
+Aduz que apesar do edital determinar que o tema a ser abordado para realização da prova discursiva diria respeito a atualidades, foi cobrado tema totalmente específico. Assim, afirma que a correção da prova discursiva se deu de forma irregular e incorreta.
+Requer a concessão da medida liminar para que seja concedido ao impetrante nota máxima ou pelo menos o mínimo exigido para classificação em virtude de o tema da prova discursiva não estar de acordo com o edital ou que sua prova discursiva seja corrigida ou reavaliada.
+No mérito pugna pela concessão definitiva da segurança para confirmar o pedido liminar.
+Decido.
+Inicialmente, determino a exclusão do CESPE do polo passivo da demanda, tendo em vista que o ato impugnado – eliminação da impetrante do certame – efetivou-se mediante a publicação de edital pelo Procurador-Geral da República.
+A questão central do mandado de segurança refere-se à possível ilegalidade da autoridade coatora ao abordar, para correção da prova discursiva, um aprofundamento em assunto específico, em desacordo com o instrumento editalício.
+É pacífica a jurisprudência desta Corte no sentido de que não cabe ao Poder Judiciário substituir a banca examinadora, a fim de reexaminar critérios de correção e conteúdo das questões formuladas. Confira-se:
+“CONCURSO PÚBLICO. PROCURADOR DA REPÚBLICA. PROVA OBJETIVA: MODIFICAÇÃO DO GABARITO PRELIMINAR. REPROVAÇÃO DE CANDIDATA DECORRENTE DA MODIFICAÇÃO DO GABARITO. ATRIBUIÇÕES DA BANCA EXAMINADORA. MÉRITO DAS QUESTÕES: IMPOSSIBILIDADE DE REVISÃO JUDICIAL. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. RECURSO AO QUAL SE NEGA PROVIMENTO. 1. A modificação de gabarito preliminar, anulando questões ou alterando a alternativa correta, em decorrência do julgamento de recursos apresentados por candidatos não importa em nulidade do concurso público se houver previsão no edital dessa modificação. 2. A ausência de previsão no edital do certame de interposição de novos recursos por candidatos prejudicados pela modificação do gabarito preliminar não contraria os princípios constitucionais do contraditório e da ampla defesa. 3. Não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora do concurso público para reexaminar os critérios de correção das provas e o conteúdo das questões formuladas (RE 268.244, Relator o Ministro Moreira Alves, Primeira Turma, DJ 30.6.2000; MS 21.176, Relator o Ministro Aldir Passarinho, Plenário, DJ 20.3.1992; RE 434.708, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 9.9.2005).” (MS 27260, Rel. Min. AYRES BRITTO, Rel.p/ Acórdão: Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe 26.3.2010)
+Ante o exposto, na linha da jurisprudência desta Corte, nego seguimento ao mandado de segurança e julgo prejudicado o pedido de liminar (art. 10 da Lei 12.016/09).
+Publique-se.
+Brasília, 25 de fevereiro de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
