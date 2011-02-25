@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRABALHISTA. INTERVALO INTRAJORNADA. MATÉRIA INFRACONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO ORDINÁRIA E DE CLÁUSULAS CONTRATUAIS: SÚMULA 454 DO SUPREMO TRIBUNAL FEDERAL. IMPROCEDÊNCIA DA ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXV E LV, E 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Superior do Trabalho:
+3. No Recurso Extraordinário, a Agravante afirma que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXV e LV e 93, inc. IX, da Constituição da República.
+Argumenta que “parece mais do que claro que direito ao intervalo não se insere nos termos do art. 7º, inc. XXII, da CF. O Texto maior, quanto ao intervalo sequer trata do tema. O intervalo e sua quantificação é regido por legislação ordinária , qual não exclui, data vênia, a aplicação do próprio art. 7º, inc. XIII, da CF que permite a flexibilização de jornada, mediante norma coletiva. Foi o que aconteceu nos autos” (fl. 211).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição da República, se tivesse ocorrido, seria indireta (fls. 217-218).
+Examinados os elementos havidos nos autos, DECIDO.
+5. Não assiste razão jurídica à Agravante.
+6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+Conforme a jurisprudência do Supremo Tribunal:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI 791.292-QO/RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJ 13.8.2010).
+7. O Tribunal Superior do Trabalho examinou a controvérsia com apoio na legislação infraconstitucional, em orientações jurisprudenciais do Tribunal Superior do Trabalho e em interpretação de acordo coletivo de trabalho, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula 454 do Supremo Tribunal Federal.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. INTERVALO INTRAJORNADA. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 628.538-AgR, de minha relatoria, Primeira Turma, DJe 30.11.2007).
+“Recurso de revista. Descumprimento de intervalos intrajornadas. Controvérsia infraconstitucional. Regimental não provido” (AI 419.249-AgR, Rel. Min. Nelson Jobim, Segunda Turma, DJ 16.5.2003).
+“Recurso extraordinário: inadmissibilidade: controvérsia sobre validade de cláusula de acordo coletivo de trabalho decidida à luz de legislação infraconstitucional pertinente, de reexame inviável no RE: incidência da Súmula 454. 4. O artigo 7º, XXVI, da Constituição Federal, não elide a declaração de nulidade de cláusula de acordo coletivo de trabalho à luz da legislação ordinária. 5. Improcedência das alegações de negativa de prestação jurisdicional e de violação das garantias constitucionais invocadas no recurso extraordinário” (AI 657.925-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJe 14.9.2007).
+8. Ademais, o Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. XXXV e LV, da Constituição da República, se dependente do exame de legislação infraconstitucional, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+Não há o que prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 25 de fevereiro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
