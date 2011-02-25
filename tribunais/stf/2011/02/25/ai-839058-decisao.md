@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“MANDADO DE SEGURANÇA – CONCURSO PÚBLICO DE SELEÇÃO REALIZADO POR SOCIEDADE DE ECONOMIA MISTA – CABIMENTO. Preliminar de impropriedade do mandado de segurança. Questão decidida por este Órgão Fracionário no AI nº 17868/04. Cabimento do mandamus por se tratar de ato de gestão praticado por funcionário de Sociedade de Economia Mista. Edital que formalizou a dispensa pelos discentes do Curso de Formação do efetivo exercício da profissão, sendo, portanto, desnecessária a apresentação do diploma e registro no respectivo conselho profissional. Situação exigível no fim do Curso, quando ocorrerá a contratação técnica e admissão do profissional. Configuração do abuso de direito, corrigível pela concessão da segurança. Confirmação da sentença em duplo grau obrigatório de jurisdição. Recurso não provido” (fl. 235).
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa aos artigos 5º, caput, XIII e LXIX; 37, I e II; e 173, § 1º, II, do texto constitucional.
+A recorrente alega, preliminarmente, a inadequação da via eleita, tendo em vista que os atos de dirigentes de sociedade de economia mista não são considerados atos de autoridade, para fins de impetração de mandado de segurança.
+Ademais, afirma que o curso de formação não consiste em etapa do concurso. Dessa forma, a concessão da liminar ao recorrido violou o princípio da isonomia, pois este não preenchia os requisitos necessários para o exercício do cargo na data de sua admissão.
+Decido.
+O recurso não merece prosperar.
+Inicialmente, quanto à alegação de inadequação da via eleita, o Plenário desta Corte, no julgamento do AI-RG 800.074, de minha relatoria, DJe 6.12.2010, rejeitou a repercussão geral da matéria relativa ao preenchimento dos requisitos do mandado de segurança, tendo em vista sua natureza infraconsticional.
+Ultrapassada esta questão, ao contrário do que alegado pela parte recorrente, o curso de formação consiste em etapa do concurso, conforme restou assentado no acórdão recorrido, in verbis:
+“É incontroverso que o impetrante, ora apelado, obteve êxito nas fases anteriores do certame, sendo certo que o denominado “curso de formação” é natural fase do concurso, não sendo razoável exigir do candidato ainda nesta etapa a apresentação do diploma de engenheiro e registro no órgão de classe. Tal exigência somente deve ocorrer se o candidato for aprovado no referido curso e quando for ingressar nos quadros da Sociedade, conforme entendimento jurisprudencial pacificado” (fl. 236).
+Para entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas constantes dos autos e a análise das cláusulas editalícias, providências vedadas em sede de recurso extraordinário, nos termos das Súmulas 279 e 454 do STF.
+Ademais, a decisão recorrida encontra-se em consonância com a jurisprudência da Corte, no sentido de que a exigência de habilitação para o exercício do cargo dá-se apenas no ato da posse.
+Nesse sentido: RE-AgR 594.862, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 25.11.2010; MS 27.608, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 21.5.2010; MS 26.668, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 29.5.2009 e AI-AgR 733.252, Rel. Min. Eros Grau, Segunda Turma, DJe 6.3.2009, este último com acórdão assim ementado:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. HABILITAÇÃO LEGAL. COMPROVAÇÃO. AFERIÇÃO NO MOMENTO DA POSSE. PRECEDENTES. O Supremo Tribunal Federal fixou entendimento no sentido de que a habilitação legal para o exercício de cargo público deve ser exigida no momento da posse. Agravo regimental a que se nega provimento”.
+Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 25 de fevereiro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
