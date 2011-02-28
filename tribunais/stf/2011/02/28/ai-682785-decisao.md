@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário de acórdão do Tribunal de Justiça do Estado de Goiás que reconheceu o direito à gratificação de representação de função criada pela Lei Delegada nº 04/2003 a militares da Reserva da polícia militar de Goiás.
+A ementa do acórdão recorrido está assim redigida (fls. 140-141):
+“MANDADO DE SEGURANÇA. DECADÊNCIA. GRATIFICAÇÃO DE REPRESENTAÇÃO. LEI DELEGADA Nº 09/2003. SUBSÍDIOS. ISONOMIA. PARIDADE. VIOLAÇÃO A DIREITO LÍQUIDO E CERTO.
+1 – Não ocorre a decadência em atos de trato sucessivo.
+2 – 'O subsídio criado por meio da Lei Delegada nº 04/03 não deve ser equiparado ao regime remuneratório introduzido pela EC 19/98 (art. 39 § 4º CF/88), uma vez que neste é vedada a acumulação de outras verbas, enquanto o subsídio criado em nossa esfera estadual permite tal cumulação (ex vi do art. 2º, da Lei Delegada nº 04/03)'.
+3 – Assegura-se aos aposentados e pensionistas à data da publicação da EC nº 41/03 o direito à paridade, ou seja, o direito à revisão na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade.
+4 – segurança concedida.”
+No recurso extraordinário o Estado de Goiás aponta ofensa aos arts. 37, XIII; 39, § 4º e 40, § 8º, da Constituição. Afirma que a Lei Delegada 4/2003 criou uma nova forma de remuneração para os cargos em comissão nela especificados, desvinculando esta espécie de remuneração do cargo em comissão anteriormente ocupado pelo servidor. Assevera, ainda, que a pretensão do recorrido é no sentido contrário ao preconizado no art. 39, § 4º, da Constituição federal, porque se funda na possibilidade de cumulação do subsídio com outras parcelas remuneratórias.
+Com razão o agravante.
+Esta Corte firmou entendimento que não obstante a constitucionalidade do instituto da estabilidade financeira, pode o legislador desatrelar o valor da gratificação incorporada do valor referente ao respectivo cargo em comissão, sem que isso represente violação do art. 40, § 8º da Constituição (redação anterior à EC 41/2003). Confira-se a seguinte ementa:
+“I. Recurso extraordinário: a aplicação de norma ou princípio a situação por eles não alcançada vale por contrariá-los.
+II. ‘Estabilidade financeira’: inexistência de direito adquirido de servidores ativos e inativos à permanência do regime legal de reajuste de vantagem correspondente.
+1. Pacífico no STF a inexistência de conflito entre a chamada ‘estabilidade financeira’ e o art. 37, XIII, CF, que proíbe vinculação entre vencimentos (cf. precedentes citados), daí não se segue, contudo, o direito adquirido do servidor beneficiário da vantagem à preservação do regime legal de atrelamento do valor dela ao vencimento do respectivo cargo em comissão: donde a legitimidade e a aplicabilidade imediata da lei que desvincule o reajuste futuro da vantagem àqueles vencimentos do cargo em comissão, submetendo-a aos critérios das revisões gerais dos vencimentos do funcionalismo.
+2. Nessa hipótese, o paradigma do inativo aposentado com a ‘estabilidade financeira’, para os efeitos do art. 40, § 4º, CF, não é o ocupante atual do respectivo cargo em comissão, mas sim o servidor efetivo igualmente beneficiário, na ativa, da vantagem decorrente do exercício anterior dele.
+3. Dada a garantia da irredutibilidade, da alteração do regime legal de cálculo ou reajuste de vencimentos ou vantagens funcionais jamais poderá ocorrer a diminuição do quanto já percebido conforme o regime anterior, não obstante a ausência de direito adquirido à sua preservação.
+III. Recurso extraordinário: inconstitucionalidade reflexa ou mediata e direito local.
+Como é da jurisprudência iterativa, não cabe o RE, a, por alegação de ofensa mediata ou reflexa à Constituição, decorrente da violação da norma infraconstitucional interposta; mas o bordão não tem pertinência aos casos em que o julgamento do RE pressupõe a interpretação da lei ordinária, seja ela federal ou local: são as hipóteses do controle da constitucionalidade das leis e da solução do conflito de leis no tempo, que pressupõem o entendimento e a determinação do alcance das normas legais cuja validade ou aplicabilidade se cuide de determinar.” (RE 226.462, rel. min. Sepúlveda Pertence, DJ de 25.05.2001)
+Nesse sentido: AI 645.544, rel. min. Ellen Gracie, DJe de  11.05.2009; RE 571.004, rel. min. Gilmar Mendes, DJe de 13.03.2008; AI 710.320, rel. min. Menezes Direito, DJe de 17.11.2008; AI 637.083, rel. min. Sepúlveda Pertence, DJ de 03.04.2007.
+Do exposto, com base no art. 544, § 3º e § 4º, do Código de Processo Civil, dou provimento ao agravo e o converto em recurso extraordinário, nos termos do art. 557, § 1º-A, do referido diploma legal, para dar-lhe provimento, denegando a segurança.
+Sem honorários (Súmula 512/STF).
+Publique-se.
+Brasília, 28 de fevereiro de 2011.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
