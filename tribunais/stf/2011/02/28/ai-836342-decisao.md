@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado (fl. 57):
+“ EMBARGOS À EXECUÇÃO – DECISÃO TRANSITADA EM JULGADO – AUSÊNCIA DE AFRONTA. Cálculos apresentados pelo exeqüente que observam os estritos limites da decisão transitada em julgado – Ausência de afrontas. Sentença mantida. Recurso desprovido”.
+Segundo os fundamentos da decisão agravada, o apelo extremo não pode ser admitido “porque a análise demandaria o exame de matéria infraconstitucional”. (fl. 53)
+A agravante sustenta que no caso concreto houve violação ao art. 5º, incisos LIV e LV, na medida em que o Tribunal a quo entendeu desnecessária a realização de prova pericial.
+Requer, então, que seja provido o presente agravo de instrumento para, em consequência, conhecer e prover o recurso extraordinário.
+É o relatório.
+Segundo o acórdão impugnado, a Universidade Estadual de Campinas (UNICAMP), ora recorrente, busca discutir questão já preclusa pelo manto da coisa julgada, o que é vedado pelos artigos 473 e 474 do Código de Processo Civil.
+Ademais, o Tribunal a quo fundamentou a dispensa de perícia contábil à saciedade, como se extrai do seguinte trecho da decisão recorrida:
+“De fato, despicienda a realização de perícia contábil para se apurar qual o correto valor a ser pago.
+A decisão transitada em julgado foi enfática (249/252) para: ‘julgar procedente em para a ação para condenar a apelada a pagar ao autor a gratificação de regime de atividade acrescida calculada na base de um terço de seus vencimentos, inclusive vantagens pessoais, complementando-se aquela que vem pagando por um valor fixo...’
+(...)
+Logo, o proceder do exeqüente observou estritamente a decisão transitada em julgada (sic), bastando simples cálculos aritméticos para se chegar ao valor executado (1/3 sobre o valor dos vencimentos recebidos pelo falecido servidor)”. (fl. 32 – grifei)
+Como se vê, a despeito de a parte alegar cerceamento de defesa, o núcleo da controvérsia diz respeito aos limites objetivos da coisa julgada, demandando a análise de norma infraconstitucional.
+Nesse contexto, segundo pacífica jurisprudência desta Corte, mera alegação de violação aos primados constitucionais do contraditório e da ampla defesa é insuficiente para viabilizar o processamento de recurso extraordinário, quando a norma constitucional for atingida apenas de forma mediata.
+Sobre o tema, entre inúmeros precedentes, cito o AI-AgR 749.229, Rel. Min. Ellen Gracie, Segunda Turma, DJe 8.2.2011; o AI-AgR 807.972, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 25.11.2010; e o AI-AgR 791.023, Rel. Min. Ayres Britto, DJe 14.2.2011, cujas ementas transcrevo, respectivamente:
+“CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. LIMITES OBJETIVOS DA COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. OFENSA REFLEXA AO TEXTO CONSTITUCIONAL. DECISÃO CONTRÁRIA AOS INTERESSES DAS PARTES NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF. 1. A controvérsia relativa aos limites objetivos da coisa julgada constitui matéria de nível infraconstitucional. Precedentes. 2. A ofensa aos postulados constitucionais da ampla defesa, do contraditório, do devido processo legal e da prestação jurisdicional, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes. 3. Decisão fundamentada contrária aos interesses das partes não configura ofensa ao artigo 93, IX, da CF. 4. Agravo regimental a que se nega provimento.”
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. EXECUÇÃO. LIMITES OBJETIVOS DA COISA JULGADA. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de contrariedade aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta.”
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SOLUÇÃO DE CONTROVÉRSIA ATINENTE AOS LIMITES OBJETIVOS E SUBJETIVOS DA COISA JULGADA. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. SÚMULAS 279 E 283 /STF. 1. Caso em que entendimento diverso do adotado pela instância judicante de origem, no tocante aos limites objetivos e subjetivos da coisa julgada, demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada neste momento processual. 2. Incidência, de mais a mais, das Súmulas 279 e 283/STF. 3. Agravo regimental desprovido”.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF, e 557 do CPC).
+Publique-se.
+Brasília, 28 de fevereiro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
