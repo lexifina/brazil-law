@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. REMUNERAÇÃO DE SERVIDOR PÚBLICO MUNICIPAL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. LEI COMPLEMENTAR MUNICIPAL N. 302/1998: SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“SERVIDOR PÚBLICO MUNICIPAL – CARGO EM COMISSÃO – RENÚNCIA EXPRESSA AO VENCIMENTO BASE DO CARGO EFETIVO MAIS ADICIONAIS E VANTAGENS IMPOSTAS PELA LEI COMPLEMENTAR MUNICIPAL N. 302/1998 – IMPOSSIBILIDADE – LEI INFRACONSTITUCIONAL QUE OFENDE A LEI ORGÂNICA MUNICIPAL – SENTENÇA MANTIDA – JUROS LEGAIS DE 6% AO ANO, CONTADOS DA CITAÇÃO – HONORÁRIOS ADVOCATÍCIOS DE 10% SOBRE A CONDENAÇÃO – PARCIALMENTE PROVIDO O RECURSO ADESIVO DO AUTOR” (fl. 56).
+3. No recurso extraordinário, o Agravante afirma que o Tribunal a quo teria contrariado os arts. 1º, 2º, 18, 30, 34, inc. VII, alínea c, 37, caput e 169 da Constituição da República.
+Argumenta que “inexiste ilegalidade na conduta praticada pelo Município de Santos, posto que calcada em norma municipal, válida e eficaz – a Lei Complementar n. 302/98 – que prevê (por força no disposto em seu artigo terceiro), que a remuneração de um funcionário do quadro efetivo, nomeado para exercer as funções de cargo em comissão, será exclusivamente, o valor do vencimento do cargo em comissão para o qual foi nomeado” (fl. 76, grifos no original).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de ofensa direta à Constituição da República (fls. 89-90).
+Examinados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. A matéria constitucional suscitada nas razões recursais, tida como afrontada (arts. 1º, 2º, 18, 30, 34, inc. VII, alínea c, 37, caput e 169 da Constituição da República), não foi objeto de debate e decisão prévios no Tribunal de origem, requisito indispensável ao conhecimento do recurso extraordinário. Também não foram opostos embargos de declaração de modo a se ter por provocado o prequestionamento da matéria constitucional. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+Confiram-se, a propósito, os seguintes julgados:
+“(...) 1. A jurisprudência do Supremo Tribunal firmou-se no sentido de que, ainda que surgida a alegada ofensa constitucional no acórdão recorrido, é necessária a oposição de embargos de declaração, se não houver a análise da ofensa pelo órgão judicante. Precedentes. 2. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 646.853-AgR, de minha relatoria, Primeira Turma, DJE 13.2.2009).
+“A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário” (AI 413.963-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 1º.4.2005).
+7. Ademais, o Tribunal de origem fundamentou-se na interpretação e na aplicação de dispositivos da Lei Complementar municipal n. 302/1998 e da Lei Orgânica Municipal e concluiu que a Agravada teria direito à remuneração diversa da que vinha recebendo. Para se concluir de modo diverso, seria imprescindível a análise daquela norma infraconstitucional, o que é vedado em recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. VALIDADE DA LEI MUNICIPAL N. 1.417/2002. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 558.014-AgR, de minha relatoria, Primeira Turma, DJe 6.5.2010).
+“EMENTA: AGRAVO REGIMENTAL. SERVIDOR PÚBLICO DO ESTADO DE MINAS GERAIS. LEI ESTADUAL 10.470/91. DIREITO LOCAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. A decisão agravada está em perfeita consonância com o entendimento firmado por ambas as Turmas desta Corte no sentido de que é inviável em recurso extraordinário o debate de questão relativa a direito meramente local. Incidência da Súmula 280/STF. Agravo regimental a que se nega provimento” (RE 269.226-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 28.11.2008).
+Nada há, pois, a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 28 de fevereiro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
