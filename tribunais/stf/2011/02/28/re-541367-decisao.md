@@ -1,0 +1,13 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Pernambuco que concedeu a segurança aos recorridos, servidores públicos ativos estaduais, para que o desconto relativo à contribuição previdenciária seja feito no percentual de 10%, nos moldes da legislação anterior, afastando a incidência da LC 28/2000, que determinaram a alíquota de 13,5%. Eis o teor de tal aresto (fls. 136-159):
+“ADMINISTRATIVO E CONSTITUCIONAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDORES ESTADUAIS. MAJORAÇÃO DE ALÍQUOTA. IMPOSSIBILIDADE. NATUREZA CONFISCATÓRIA E VIOLAÇÃO DOS PRINCÍPIOS DA ISONOMIA TRIBUTÁRIA, DA EQUIDADE E DA PROPORCIONALIDADE. DECESSO REMUNERATÓRIO. EC N° 20/98. CONCESSÃO DE SEGURANÇA. DECISÃO MAJORITÁRIA.
+A exigibilidade da contribuição mensal previdenciária destinada ao Funaprev e Funafin, com alíquota de 13,5% além de refletir uma natureza confiscatória, causa ônus insuportável para os contribuintes, atingindo-lhes a seara patrimonial e ferindo os princípios da isonomia tributária, equidade e proporcionalidade. Primazia da preservação do equilíbrio financeiro e atuarial previsto na Emenda Constitucional n° 20/98, que se entende pelo regra segundo a qual nenhum benefício da seguridade social poderá ser majorado sem a correspondente fonte de custeio total, sob pena de implicar em adicional sobre os rendimentos do servidor público. Ordem concedida”.
+2.  No RE, a parte recorrente alega violação aos arts. 37, IV; 40, caput; 149, §1°; 150, II, IV; 194, parágrafo único, V; e 195, §5°, todos da Constituição Federal.
+3.  Admitido o recurso na origem (fl. 251), subiram os autos.
+4.  O Ministério Público Federal manifestou-se pelo provimento do recurso (fls.257-261).
+5.  O recurso merece prosperar. Preliminarmente, cumpre salientar que a análise da matéria é de cunho constitucional.
+ Ademais, a jurisprudência desta Corte já se firmou no sentido de que a contribuição de seguridade social, como qualquer outro tributo, é passível de majoração, desde que o aumento dessa exação tributária observe padrões de razoabilidade e seja estabelecido em bases moderadas, não configurando situação de confisco. No caso em tela, o STF já teve a oportunidade de se manifestar pela legalidade da majoração da alíquota de contribuição previdenciária, como se observa nos seguintes arestos: RE 540.983-AgR/PE, Rel. Min. Ricardo Lewandowski, DJe 16.12.2010; RE 466.310/PE, Rel. Min. Dias Toffoli, DJe 05.8.2010; AI 798.473/PE, Rel. Min. Cármen Lúcia, DJe 24.5.2010.
+6.  Diante do exposto, com fundamento no art. 557, § 1º-A, do CPC, dou provimento ao recurso extraordinário. Sem honorários (art. 25 da Lei 12.016/2009).
+Publique-se.
+Brasília, 28 de fevereiro de 2011.
+Ministra Ellen Gracie
+Relatora
