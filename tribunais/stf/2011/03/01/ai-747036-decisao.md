@@ -1,0 +1,15 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão de cuja ementa destaco:
+“ DUPLO GRAU DE JURISDIÇÃO. EMBARGOS À EXECUÇÃO FISCAL. JUNTADA DE DOCUMENTOS APÓS A INICIAL. LIVRE CONVENCIMENTO DO JUIZ. MANUTENÇÃO DOS AUTOS DE INFRAÇÃO. MULTA. SÚMULA 405 DO STF. LIMINAR EM AÇÃO DE MANDADO DE SEGURANÇA. CASSAÇÃO ” (fl. 243).
+ Os embargos de declaração opostos foram rejeitados (fls. 264-269).
+2.  No RE, sustenta-se ofensa aos arts. 5º, XXXV, LV, e 150, § 6º, da Constituição Federal (fls. 317-333).
+3.  Preliminarmente, verifico que o recurso não merece seguimento, pois o art. 150, § 6º, da Constituição Federal, ao qual se apontou violação, não foi debatido na instância de origem e são inviáveis os embargos de declaração opostos para fins de prequestionamento quando a questão constitucional não tiver sido ventilada no recurso interposto perante o Tribunal a quo. Falta-lhe, pois, o necessário prequestionamento, nos termos da Súmula STF 282. Nesse sentido: RE 449.137-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.4.2008; AI 706.449-AgR/SC, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 07.11.2008; AI 631.711-AgR/BA; rel. Min. Ricardo Lewandowski; 1ª Turma, unânime, DJe 21.11.2008; AI 663.687-AgR/DF, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 20.2.2009, este último assim ementado:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO SUPREMO TRIBUNAL FEDERAL. CABIMENTO DE MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+1. O cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria constitucional, o que ocorre em momento processualmente adequado, nos termos da legislação vigente. A inovação da matéria em sede de embargos de declaração é juridicamente inaceitável para os fins de comprovação de prequestionamento.
+2. Admissibilidade de mandado de segurança: impossibilidade da análise da legislação infraconstitucional. Ofensa constitucional indireta.
+3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil”.
+4.  Quanto às alegações de ofensa aos incisos XXXV e LV do artigo 5º da Constituição Federal – prestação jurisdicional, contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 1º de março de 2011.
+Ministra Ellen Gracie
+Relatora
