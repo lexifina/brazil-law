@@ -1,0 +1,11 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado (fls. 116):
+“TRIBUTÁRIO. EXECUÇÃO FISCAL. ICMS. IMPORTAÇÃO. DEVEDOR. DESTINATÁRIO DA MERCADORIA. IMPORTAÇÃO INDIRETA CONFIGURADA E DEVIDAMENTE COMPROVADA. MULTA. VALIDADE. CO-OBRIGADOS. EXCLUSÃO DA LIDE. IMPOSSIBILIDADE, POIS DELA NUNCA FIZERAM PARTE. ÔNUS SUCUMBENCIAIS. - É assente em doutrina e jurisprudência que a interpretação a ser dada ao termo 'importador', para fins de apurar o sujeito passivo do pagamento de ICMS, deve ser no sentido daquele que era o efetivo e real destinatário, em cujo estabelecimento a mercadoria fisicamente entrou. - Neste sentido, supostamente importadas pela sede da Cinemark Brasil S/A em São Paulo, mas imediatamente enviadas à filial de Minas Gerais, para onde já estavam previamente destinadas, sem chegar a entrar no estabelecimento paulista, correta a cobrança do ICMS em Minas Gerais. - Não há falar em natureza confiscatória da multa aplicada pelo Fisco, no patamar de 50%, em decorrência da inadimplência do contribuinte. - À medida que os diretores da empresa constaram no título executivo como co-obrigados, não tendo sido - ainda - incluídos no pólo passivo da lide, nem citados, e não tendo havido redirecionamento da lide, impossível sua exclusão do feito, pois dele nunca fizeram parte.”
+2. Pois bem, a parte recorrente alega violação à alínea “a” do inciso IX do § 2º do art. 155 da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. Isso porque, no caso, entendimento diverso do adotado pela instância judicante de origem quanto à configuração de importação indireta exigiria o revolvimento do conjunto fático-probatório dos autos (Súmula 279/STF). Providência vedada neste momento processual.
+4. No mesmo sentido, veja-se o AI 547.591-ED, sob a relatoria do ministro Cezar Peluso.
+Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 1º de março de 2011.
+Ministro AYRES BRITTO
+Relator
