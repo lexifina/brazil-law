@@ -1,0 +1,9 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual condenou o Estado do Rio Grande do Sul a pagar indenização a agricultores assentados pelo próprio Estado e, posteriormente, compelidos a abandonar suas terras, sob a alegação de que estas seriam de propriedade da União, por integrarem região que, originariamente, era ocupada por índios.
+ No RE, a parte agravante alega ofensa aos artigos 37, § 6º, e 231, § 6º, da Constituição Federal, sustentando, em síntese, que o Estado não estaria obrigado a pagar indenização por haver promovido o assentamento de colonos em terras indígenas, nem poderia ser responsabilizado pela falta de segurança pública e pelos conflitos entre índios e agricultores.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que os dispositivos aos quais se alegou violação não se encontram prequestionados, porque não abordados pelo acórdão recorrido, nem opostos embargos de declaração para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+3.  Ademais, falta ao instrumento o traslado do inteiro teor do acórdão recorrido. É dizer, as fls. 10 e 18 do acórdão recorrido não integram os autos do presente agravo de instrumento. E, segundo reiterada orientação desta Corte, é encargo da parte recorrente fiscalizar a inteireza do traslado. Vejam-se: AI 390.182/RS, rel. Min. Celso de Mello, DJ 12.6.2002; AI 176.844-AgR/MG, rel. Min. Ilmar Galvão, 1ª Turma, DJ 1º.3.1996; AI 330.970-AgR/RJ, rel. Min. Moreira Alves, 1ª Turma, DJ 10.8.2001; o AI 481.531-AgR/RJ, de minha relatoria, 2ª Turma, DJ 22.10.2004.
+4.  Ante o exposto, com base na Súmula STF 288 e no art. 544, § 1º, do Código de Processo Civil, nego seguimento ao agravo de instrumento.
+ Publique-se.
+Brasília, 1º de março de 2011.
+Ministra Ellen Gracie
+Relatora
