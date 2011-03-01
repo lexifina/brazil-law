@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte nas alíneas “a” e “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina. Acórdão assim ementado, na parte que interessa ao deslinde da causa (fls. 51):
+“ADMINISTRATIVO – SERVIDORES PÚBLICOS ESTADUAIS – GRATIFICAÇÃO COMPLEMENTAR PREVISTA NO § 6° DO ART. 1° DA LEI N. 9.503/94 – BASE DE CÁLCULO – VENCIMENTO BÁSICO, DESDE QUE NÃO INFERIOR AO SALÁRIO MÍNIMO – INCONSTITUCIONALIDADE AFASTADA -REVOGAÇÃO INOCORRENTE – CONCESSÃO DA ORDEM – EFEITOS PRETÉRITOS – SÚMULA 271 DO STF – INAPLICABILIDADE IN CASU.
+1. Não afronta o disposto no inc. IV do art. 7° da Constituição Federal lei que preveja como base de cálculo de gratificação valor não inferior ao salário mínimo nacionalmente unificado (Lei n. 9.503/94, art. 1°, § 6°). Segundo precedentes do Supremo Tribunal Federal, a proibição de vinculação a que se refere a Lei Maior diz respeito à fixação de retribuição em múltiplos de salário mínimo (RE 170.203-6/GO, Min. Ilmar Galvão) .
+2. Norma que estabeleça regramento específico, sem que haja disposição expressa só revoga a anterior na parte que com ela conflita. O ordenamento jurídico não admite revogação tácita por presunção, mas tão-somente pela constatação inequívoca de incompatibilidade entre as disposições de normas editadas em datas diferentes.
+3. Se concedido o mandado de segurança, o direito violado deve ser restabelecido em sua plenitude. Noutros termos, corrigem-se todos os efeitos lesivos resultantes do ato impugnado, sem que isso implique afronta ao estabelecido na Súmula n. 271 do Supremo Tribunal federal, pois a repercussão patrimonial não se dá a título de cobrança, mas sim como conseqüência direta da reparação da ilicitude.”
+2. Pois bem, a parte recorrente alega violação ao inciso IV do art. 7º, ao caput do art. 25, aos incisos IV e XIII do art. 37, às alíneas “a” e “c” do inciso II do § 1º do art. 61 e ao § 3° do art. 100 da Magna Carta de 1988, bem como ao art. 87 do ADCT.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do então Subprocurador-Geral Roberto Monteiro Gurgel Santos, opinou pelo conhecimento e provimento do apelo extremo.
+4. Tenho que a insurgência merece acolhida. Isso porque o Plenário desta nossa Casa de Justiça declarou a inconstitucionalidade do § 6º do art. 1º da Lei catarinense 9.503/1994, dispositivo sobre o qual está assentado o aresto recorrido. Leia-se, a propósito, a ementa do RE 426.059, da relatoria do ministro Gilmar Mendes:
+“Recurso Extraordinário. 2. Servidor Público Estadual. Gratificação Complementar de Vencimento. Lei Estadual nº 9.503, de 1994. 3. Base de cálculo. Vinculação ao salário mínimo. Ofensa ao art. 7º, IV, da Constituição Federal. 4. Recurso Extraordinário conhecido e provido.”
+Ante o exposto, e frente ao § 1º-A do art. 557 do CPC, dou provimento ao recurso para denegar a segurança. Sem condenação em honorários advocatícios (Súmula 512/STF).
+Publique-se.
+Brasília, 1° de março de 2011.
+Ministro AYRES BRITTO
+Relator
