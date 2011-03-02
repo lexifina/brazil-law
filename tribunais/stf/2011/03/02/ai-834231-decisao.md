@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão prolatado pelo Tribunal de Justiça de Minas Gerais, cuja ementa é do seguinte teor (fls. 211):
+“ADMINISTRATIVO - SERVIDORA ESTADUAL - CURSO SUPERIOR DE ADMINISTRAÇÃO PÚBLICA (CSAP) - TERMO DE COMPROMISSO - DESCUMPRIMENTO PARCIAL POR PARTE DA ALUNA - RESSARCIMENTO AO ESTADO - PROPORCIONALIDADE. É legítima a cobrança judicial promovida pela Fundação João Pinheiro pelos valores correspondentes aos serviços de ensino ministrados no Curso Superior de Administração Pública (CSAP), de acordo com o termo de compromisso firmado, na hipótese de o aluno não permanecer na carreira pelo período mínimo de dois anos após a nomeação. Se a impossibilidade de cumprimento total da obrigação ocorrer após o percurso de boa parte do contrato, será de bom senso que o Magistrado reduza o crédito do autor proporcionalmente ao tempo restante para a integralização do prazo de dois anos fixado no termo de compromisso. ”
+O recurso extraordinário aponta violação do art. 37, caput, da Constituição.
+A análise da apontada violação ao princípio da legalidade exige, necessariamente, o exame da legislação infraconstitucional (art. 11 da Lei estadual 15.304/2004 e art. 413 do Código Civil). Dessa forma, eventual ofensa ao texto constitucional seria indireta ou reflexa, descabendo a interposição de recurso extraordinário. Aplica-se ao caso, mutatis mutandis, as Súmulas 280 e 636 do Supremo Tribunal Federal. Nesse sentido: AI 832.028 (rel. min. Cármen Lúcia, DJe de 14.02.2011), AI 789.675 (rel. min. Cármen Lúcia, DJe de 14.02.2011).
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 2 de março de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
