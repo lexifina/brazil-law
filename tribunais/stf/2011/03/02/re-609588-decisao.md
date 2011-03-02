@@ -1,0 +1,17 @@
+1.  O Tribunal de Justiça do Estado de São Paulo concluiu pela ausência de culpa da recorrida na desclassificação do recorrente, candidato do concurso para o cargo de “eletricista ensaiador” dos quadros da empresa, mediante acórdão assim ementado (fls. 291-299):
+“ CONCURSO PÚBLICO – eletricista – desclassificação de candidato com base em avaliação médica – inaptidão para o exercício da função por ser portador de afecção oftalmológica (daltonismo) – responsabilidade da ré pelos alegados danos sofridos pelo autor não caracterizada – inexistência de culpa da concessionária – recurso da ré provido para julgar improcedente a ação e improvido o apelo do autor”.
+2.  Daí o recurso extraordinário (fls. 327-349), por ofensa ao art. 37, § 6º, da Constituição Federal, bem como “por divergência da Súmula 341 do STF e dissídio jurisprudencial”. O recorrente sustenta que opôs embargos de declaração para fins de prequestionar a norma constitucional do § 6º do art. 37, que foi violada “exclusivamente” pelo acórdão recorrido, decorrente de fundamento jurídico novo.
+3.  Inadmitido o recurso (fls. 402-408), subiram os autos em virtude de provimento do AI 535.579/SP (fl. 417).
+4.  Preliminarmente, o recurso extraordinário não merece seguimento. Os dispositivos constitucionais aos quais se apontaram violação não foram debatidos na instância de origem, e são inviáveis os embargos de declaração opostos para fins de prequestionamento quando a questão constitucional não tiver sido ventilada no recurso interposto perante o Tribunal a quo. Incide, pois, a Súmula STF 282. Nesse sentido: RE 449.137- AgR/RS, rel. Min. Eros Grau, 2ª Turma, DJe 04.4.2008; e AI 663.687-AgR/DF, rel. Min. Cármen Lúcia, 1ª Turma, DJe 20.02.2009.
+5.  Ademais, rever a decisão recorrida, para concluir pela existência da culpa imputada à concessionária a fazer incidir responsabilidade do poder público de indenizar o autor, implica o reexame dos fatos e das provas constantes dos autos, nas quais se baseou o Tribunal a quo, o que é vedado em sede extraordinária (Súmula STF 279).
+6.  Além disso, esta Corte já fixou entendimento segundo o qual a análise sobre a indenização por danos morais limita-se ao âmbito de interpretação de matéria infraconstitucional, cujo exame se mostra inviável nesta sede recursal.
+ Ressalte-se que, contra o aresto ora impugnado, o recorrente interpôs, concomitantemente, recurso especial (fls. 351-379), o qual não foi admitido. O agravo de instrumento interposto, mediante acórdão transitado em julgado, foi desprovido pelo Superior Tribunal de Justiça, sob entendimento assim ementado (Ag 648.315-AgRg/SP, rel. Min. Aldir Passarinho, DJ 20.03.2006 – apenso):
+“ PROCESSUAL CIVIL. CONCURSO PÚBLICO. CANDIDATO. DESCLASSIFICAÇÃO. AVALIAÇÃO MÉDICA. RESPONSABILIDADE NÃO CARACTERIZADA. REEXAME DE PROVAS. IMPOSSÍVEL. SÚMULA N. 7/STJ. IMPROVIMENTO
+I. O STJ recebe o quadro probatório tal como delineado pelo Tribunal Estadual e o reexame de provas encontra o óbice da Súmula n. 7 desta Corte.
+II. Agravo regimental improvido” (fl. 266 – apenso).
+Esse fundamento, per se, é suficiente para manter o acórdão recorrido, que se tornou definitivo, obstando a impugnação, mediante apelo extremo, com base em norma constitucional. Incide no caso, mutatis mutandis, a Súmula STF 283. Nesse sentido, entre outros, o RE 545.161/DF, rel. Min. Celso de Mello, DJ 28.6.2007.
+7.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 02 de março de 2011.
+Ministra Ellen Gracie
+Relatora
