@@ -1,0 +1,14 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão que, em medida cautelar inominada, julgou legal o indeferimento de inscrição da parte agravante no concurso interno do Magistério do Município, nos termos do art. 2° da Portaria SME 64/96.
+2.  No RE, a parte recorrente alega violação aos art. 37, caput, I e II, da Constituição Federal, e ao art. 19 do ADCT, sustentando, em síntese, que sua classificação e ascensão à carreira deve ocorrer em igualdade de condições com os demais servidores ocupantes de cargos públicos.
+3.  Inadmitido na origem (fls. 198-199), subiram os autos em virtude do provimento do AI 616.804 (fl. 207).
+4.  O Ministério Público Federal manifestou-se pelo não-conhecimento do recurso (fls. 216-219).
+5.  O recurso não merece prosperar. Verifico que os dispositivos aos quais se alegou violação não se encontram prequestionados, porque não debatidos pelo acórdão recorrido – que tratou apenas da questão de fundo concernente ao art. 19 do ADCT –, nem opostos embargos de declaração para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+ Nesse sentido, destaca-se o seguinte excerto do parecer ministerial de fls. 216-219:
+“06. Quanto à inexistência de prequestionamento do artigo 19 do ADCT, impede deixar evidenciado que o Tribunal de origem, ao citar o mencionado dispositivo, o fez tão-somente com o objetivo de deixar esclarecido que a distinção nele consagrada, entre servidores estáveis ocupantes de cargo efetivo e servidores estáveis não ocupantes de cargo efetivo, não se encontraria claramente prevista na Portaria n° 64/96, ‘que dispôs sobre o processo de inscrição de Especialistas de Educação’, razão pela qual não poderia a municipalidade negar a inscrição no concurso da recorrida, que, malgrado goze de estabilidade, não ocupa cargo efetivo, ficando claro, assim, que a tese relativa a este dispositivo dos ADCT não se encontra prequestionada.
+07. Por outro lado, o Tribunal de São Paulo concluiu pela viabilidade da inscrição da recorrida no concurso para o cargo de Especialista de Educação com base na mencionada Portaria n° 64/96 e na Lei 6.894/91 (Estatuto dos Funcionários Públicos), havendo, ainda, invocado o princípio da isonomia, sendo certo que todos os fundamentos do acórdão permanecem incólumes. É que, o recorrente não se insurgiu contra a parte do acórdão que tratam das aludidas portaria e lei e nem contra o único fundamento constitucional do acórdão que consiste no princípio da isonomia, devendo o acórdão, por isso, permanecer por seus próprios fundamentos”.
+6.  Ademais, para divergir da conclusão a que chegou o Tribunal a quo, cumpriria examinar a legislação local (Lei 6.894/91 - Estatuto dos Funcionários Públicos), o que é defeso nesta fase recursal, nos termos da Súmula STF 280.
+7.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+Publique-se.
+Brasília, 02 de março de 2011.
+Ministra Ellen Gracie
+Relatora
