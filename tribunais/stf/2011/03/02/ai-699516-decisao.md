@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a e c, da Constituição) interposto de acórdão em que o Tribunal de Justiça do Estado de Minas Gerais entendeu não ser extensível aos inativos o prêmio de produtividade devido nos termos da Lei estadual 14.694/2003, alterada pela Lei 15.275/2004. Eis a ementa (fls. 164):
+“ Ementa: DIREITO ADMINISTRATIVO - SERVIDOR ESTADUAL. - AGENTE FISCAL - PRÊMIO DE PRODUTIVIDADE - EXTENSÃO AOS QUE JÁ SE ENCONTRAVAM NA INATIVIDADE - IMPOSSIBILIDADE. A gratificação denominada ""prêmio de produtividade"", criada pela Lei estadual 15.275/04, como a própria denominação indica, pressupõe o efetivo exercício do cargo e a correspondente produtividade. Uma vez que os inativos não se encontram no exercício de suas funções, não há como se integrar a mesma aos seus proventos, pois se torna impossível a averiguação das condições que a justifiquem. Gratificação 'propter laborem', que não se aplica aos que já se encontravam na inatividade quando do advento da lei.”
+No recurso extraordinário, a parte aponta ofensa à diversos dispositivos constitucionais, por considerar que a verba em questão não tem natureza de vantagem propter laborem ou pro labore faciendo, devendo, por isso, ser estendida aos inativos.
+É o breve relatório.
+Decido.
+Pelo que se extrai das razões de decidir do acórdão recorrido, o Tribunal de origem, ao interpretar a lei instituidora da vantagem, entendeu que a percepção do adicional de produtividade em referência dependia do efetivo exercício de atividade inerente ao cargo e da correspondente produtividade. Transcrevo (fls. 170):
+“O prêmio em questão é previsto na lei de forma individualizada, variável de acordo com a produtividade de cada servidor e do desempenho de sua função. Trata-se de gratificação propter laborem, ou seja, de uma vantagem contingente instituída pela lei e que, assim, de ordinário não se incorpora aos vencimentos e nem se estende aos inativos, a não ser que a lei assim dispusesse. A incorporação aos vencimentos pode ser caracterizada, dependendo das circunstâncias individuais e da produtividade demonstrada e repetida, ou em razão da permanência, nos termos da lei, quando somente então passa a integrar o patrimônio do servidor. ”
+A discussão travada nestes autos, portanto, remete à interpretação de normas de direito local, de modo que é inviável o recurso extraordinário, ante a vedação contida na Súmula 280 do Supremo Tribunal Federal.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 02 de março de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
