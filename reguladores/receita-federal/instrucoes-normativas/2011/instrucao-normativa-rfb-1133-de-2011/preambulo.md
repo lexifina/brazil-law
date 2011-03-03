@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1133, de 2 de março de 2011
+Altera a Instrução Normativa SRF nº 102, de 20 de dezembro de 1994, que disciplina os procedimentos de controle aduaneiro de carga aérea procedente do exterior e de carga em trânsito pelo território aduaneiro.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 1º do Decreto nº 6.262, de 20 de novembro de 2007, resolve:
