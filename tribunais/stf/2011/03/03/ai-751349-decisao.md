@@ -1,0 +1,20 @@
+Ipiranga Produtos de Petróleo S/A interpõe agravo de instrumento para destrancar recurso extraordinário interposto com fundamento nas alíneas a, c e d do permissivo constitucional contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+TRIBUTÁRIO. IMPOSTO SOBRE A VENDA A VAREJO DE COMBUSTÍVEIS. IVVC. CONCEITO DE VAREJO. Posição do Supremo Tribunal Federal no julgamento do RE 140.612-AM. Inexistência de prova das quantidades vendidas, bem como se os adquirentes eram grandes consumidores ou postos de gasolina. Impossibilidade de se adequar o critério da Corte Constitucional à hipótese em julgamento. Apelação desprovida. (fl. 225)
+Opostos embargos de declaração (fl. 258), foram rejeitados (fl. 268).
+No recurso extraordinário, alega a recorrente que o art. 12, § 1º, I, da Lei nº 1.363/88, do Município do Rio de Janeiro, que daria suporte legal à exigência fiscal, teria desvirtuado o conceito normativo de venda a varejo disposto no artigo 156, III, da Constituição Federal, e que, nesse sentido, a instituição de tributo diverso do previsto representa ofensa, também, ao artigo 150 da Constituição.
+Aduz que, consoante determina o artigo 12 da Portaria nº 116/00 da Agência Nacional de Petróleo, a recorrente, na condição de distribuidora de combustíveis, estaria impedida de realizar vendas no varejo.
+Contrarrazões pelo Município às fls. 319.
+O recurso especial paralelamente interposto ao extraordinário não foi admitido na origem, e o agravo de instrumento interposto perante o Superior Tribunal de Justiça teve seguimento negado.
+Decido.
+A irresignação não merece prosperar.
+Começo por afastar o cabimento do extraordinário com base nas letras “c” e “d” do permissivo constitucional, porquanto não houve, por parte do acórdão recorrido, o reconhecimento da validade de lei municipal em face de lei federal, tampouco à luz da Constituição Federal.
+Com efeito, verifico que o acórdão recorrido negou provimento ao recurso do contribuinte sob o fundamento de que “caberia à embargante fazer prova das quantidades vendidas no período que serviu de base à exação. Isso não ocorreu. Daí, como destacou o promotor SLERCA, não se pode dizer para quem as vendas foram feitas (postos ou “grandes consumidores), nem, muito menos, as quantidades”
+Daí, correta a decisão agravada que não admitiu o recurso extraordinário ao fundamento de que eventual análise dos dispositivos constitucionais apontados dependeria do reexame de fatos e provas constantes dos autos, procedimento incabível nesta sede recursal. Incidência da Súmula nº 279 desta Suprema Corte. Confira-se:
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CONTRIBUIÇÃO AO FINSOCIAL. PESSOA JURÍDICA DEFINIDA PELO TRIBUNAL DE ORIGEM COMO PRESTADORA DE SERVIÇOS. ANÁLISE DA NATUREZA DA ATIVIDADE DESENVOLVIDA PELA EMPRESA CONTRIBUINTE. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I - Para dissentir da conclusão a que chegou o acórdão recorrido quanto à natureza jurídica da empresa ora recorrente, se prestadora de serviços ou não, necessário seria o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II – Agravo regimental improvido. (AI 798428 AgR, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 31/1/2011)
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA DECIDIDA À LUZ DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. ALEGAÇÃO DE OFENSA ÀS GARANTIAS CONSTITUCIONAIS DO PROCESSO. VIOLAÇÃO REFLEXA À CARTA MAGNA DE 1988. 1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o revolvimento dos fatos e provas constantes dos autos. Providência vedada pela Súmula 279 do STF. 2. De mais a mais, eventual afronta à Constituição Republicana ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via extraordinária. 3. Agravo regimental desprovido. (AI 666470 AgR, Rel. Min. Ayres Britto, 2ª Turma, DJe 28/10/2010)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Brasília, 3 de março de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
