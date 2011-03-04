@@ -1,0 +1,18 @@
+D ECIS Ã O:
+Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão singular de Ministro do Superior Tribunal de Justiça. Decisão denegatória da ordem ali requestada, por entender que “a prisão cautelar está justificada na necessidade de garantia da ordem pública, notadamente pela considerável quantidade de droga apreendida, circunstância apta a evidenciar a concreta periculosidade social do paciente.”
+2. Pois bem, o impetrante insiste na tese de falta de fundamentação idônea para o indeferimento da liberdade provisória. Isto sob a alegação central de que “o indeferimento tem que conter fundamentação objetiva demonstrando os motivos concretos da manutenção da prisão cautelar, e não vagas alusões e/ou expressões de efeito ou mesmo, dizeres da lei, como no caso em apreço, onde se utiliza de expressões de efeitos e dizeres de praxe, e não traz nada de concreto.” Daí o pedido de medida liminar, formulado para “evitar maiores constrangimentos devido a coação reconhecida, até que venha a cota ministerial.”
+3. Antes de encerrar este relato da causa, anoto que as informações prestadas pelo Juízo processante noticiam que o paciente está solto, ainda por efeito da liminar concedida no Superior Tribunal de Justiça. Provimento cautelar afinal cassado pela decisão impugnada.
+4. Feita esta síntese do pedido, decido. Fazendo-o, pontuo, de saída, que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito invocado (fumus boni juris) e do perigo da demora na prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+5. No caso, não tenho como configurados, neste juízo provisório da causa, os pressupostos autorizadores da concessão da liminar. Isto porque o Juízo de Primeiro Grau, ao contrário do que afirma o impetrante, embasou o indeferimento da liberdade provisória na concretude da causa. Leia-se:
+“[...]
+Para casos como o presente, proíbe expressamente o artigo 44, da Lei 11.343/2006, a concessão da liberdade provisória.
+Sem embargo da discussão a respeito da validade deste dispositivo, o fato é que visa a preservar o cidadão de bem contra aquele que pratica crime de expressão, e o caso comporta esse conceito, tanto pela quantidade de droga que estava sendo traficada pelo requerente (10 quilos de cocaína), como pela nocividade social que ela causa, desencadeando diversos delitos.
+Disso resulta a necessidade da segregação cautelar para a garantia da ordem pública [...].”
+6. Com efeito, cuidando-se de prisão em flagrante de agente portador de quantidade incomum de cocaína, fica difícil derruir, automaticamente, as premissas de que se valeu o Superior Tribunal de Justiça para a denegação da ordem de habeas corpus. O que significa dizer que, em linha de princípio, a prisão cautelar do paciente decorre de explícita previsão do art. 312 do CPP.
+7. Por tudo quanto posto, indefiro a medida liminar requestada; reservando-me, é claro, para um mais detido exame da causa por ocasião do julgamento de mérito deste HC.
+Dê-se vista à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 04 de março de 2011.
+Ministro A YRES B RITTO
+Relator
+Documento assinado digitalmente
