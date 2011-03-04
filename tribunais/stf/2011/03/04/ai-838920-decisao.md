@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ISONOMIA SALARIAL. IMPOSSIBILIDADE DE ANÁLISE DE FATOS, PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. IMPROCEDÊNCIA DA ALEGAÇÃO DE CONTRARIEDADE DOS ARTS. 5º, INC. XXXVI, LIV E LV E 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Superior do Trabalho:
+“ISONOMIA SALARIAL ENTRE TERCEIRIZADOS E EMPREGADOS DA TOMADORA DE SERVIÇOS. APLICAÇÃO ANÁLOGICA DO ARTIGO 12, ALÍNEA "A", DA LEI Nº 6.019/74. Recurso de revista não conhecido ante o óbice da Súmula nº 297 do TST. Não há registro de haver identidade de funções entre o reclamante e os ocupantes do cargo, cuja remuneração pretende. Recurso de revista não conhecido” (fl. 139).
+3. No recurso extraordinário, o Agravante alega o Tribunal a quo teria contrariado os arts. 5º, caput, inc. I, XXXVI, LIV e LV, 7º, inc. VI, VII, X, XXXII e 93, inc. IX,  da Constituição da República.
+Argumenta “não [ser] admissível que pessoas com a mesma capacidade laborativa, ocupantes da mesma categoria e que laboram na mesma empresa sofram qualquer tipo de discriminação, asseverada pelo fato de esta ocorre fundada tão somente na busca incessante do lucro a qualquer preço” (fl. 168).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula 279 deste Supremo Tribunal Federal (fls. 188-189).
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+E, tal como se firmou na jurisprudência do Supremo Tribunal:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI 791.292-QO/RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJ 13.8.2010).
+7. Para se concluir de forma diversa do acórdão recorrido, seria necessário o reexame das provas dos autos e a análise das normas infraconstitucionais aplicáveis, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 279 do Supremo Tribunal Federal. Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E TRABALHISTA. SUCESSÃO DE EMPRESA. EXECUÇÃO. PENHORA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”AI 808.366-AgR/MG, de minha relatoria, Primeira Turma, DJ 26.11.2010).
+“Agravo regimental em agravo de instrumento. 2. Equiparação salarial entre empregado da empresa prestadora de serviços e empregado da empresa tomadora de serviços. Matéria infraconstitucional. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI 828074-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 1º.3.2011).
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. EQUIPARAÇÃO SALARIAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 745.925-AgR/DF, de minha relatoria, Primeira Turma, DJ 25.6.2009).
+8. Ademais, o Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. XXXVI, LIV e LV, da Constituição da República, se dependente do exame de legislação infraconstitucional, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+Nada há a prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 4 de março de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
