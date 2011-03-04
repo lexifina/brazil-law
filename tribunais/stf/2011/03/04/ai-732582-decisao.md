@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão a qual inadmitiu recurso extraordinário interposto contra acórdão que determinou ao Município de São Paulo que instalasse unidade do Serviço de Atendimento Móvel de Urgência – SAMU, no distrito de Marilac, Município de São Paulo – SP.
+ No RE, sustenta-se ofensa aos artigos 2º, 23, caput e II, 30, VII, 37, caput, 85, 149, 167, 195 e 198 da Constituição Federal.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que os dispositivos aos quais se alegou violação não se encontram prequestionados, porque não abordados pelo acórdão recorrido e, embora suscitados nos embargos de declaração opostos para satisfazer o requisito do prequestionamento, não foram oportunamente apontados nas razões do recurso de apelação. Incidem, na espécie, as Súmulas STF 282 e 356.
+3.  Ademais, o Tribunal a quo decidiu a controvérsia sobre a legitimidade passiva do Município em harmonia com a jurisprudência do Supremo Tribunal Federal, que, no julgamento do Agravo Regimental na Suspensão de Segurança 3.335/RN, rel. Min. Gilmar Mendes, DJe 30.4.2010, assentou a responsabilidade solidária dos entes da Federação em matéria de saúde. Nesse julgamento, o Ministro Relator observou que:
+“União, Estados, Distrito Federal e Municípios são responsáveis solidários pela saúde, tanto do indivíduo quanto da coletividade e, dessa forma, são legitimados passivos nas demandas cuja causa de pedir é a negativa, pelo SUS (seja pelo gestor municipal, estadual ou federal), de prestações na área de saúde.
+O fato de o Sistema Único de Saúde ter descentralizado os serviços e conjugado os recursos financeiros dos entes da Federação, com o objetivo de aumentar a qualidade e o acesso aos serviços de saúde, apenas reforça a obrigatoriedade solidária e subsidiária entre eles”.
+ Nesse mesmo sentido:   AI 808.059-AgR/RS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 1º.02.2011, assim ementado:
+“ AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. FORNECIMENTO DE MEDICAMENTO. LEGITIMIDADE PASSIVA DO ESTADO DO RIO GRANDE DO SUL. OBRIGAÇÃO SOLÍDARIA ENTRE OS ENTES DA FEDERAÇÃO EM MATÉRIA DE SAÚDE. AGRAVO IMPROVIDO. I – O Supremo Tribunal Federal, em sua composição plena, no julgamento da Suspensão de Segurança 3.355-AgR/RN, fixou entendimento no sentido de que a obrigação dos entes da federação no que tange ao dever fundamental de prestação de saúde é solidária. II – Ao contrário do alegado pelo impugnante, a matéria da solidariedade não será discutida no RE 566.471-RG/RN, Rel. Min. Marco Aurélio. III - Agravo regimental improvido”.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+Brasília, 04 de março de 2011.
+Ministra Ellen Gracie
+Relatora
