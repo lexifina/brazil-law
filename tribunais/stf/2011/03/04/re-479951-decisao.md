@@ -1,0 +1,45 @@
+D ESPACHO:
+Vistos.
+SBC Técnica e Equipamentos Ltda. interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Primeira Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+“TRIBUTÁRIO. SIMPLES. LEI 9.317/96. EXCLUSÃO. LOCAÇÃO DE MÃO-DE-OBRA. CONSTRUÇÃO CIVIL. ATIVIDADES VEDADAS. PRINCÍPIO DA ISONOMIA. IRRETROATIVIDADE DO ATO ADMINISTRATIVO.
+1. A Lei 9.317/96, que regulamenta o Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES, veda a participação de pessoas jurídicas que prestem serviços de construção civil (art. 9º, V c/c §4º), e de locação de mão-de-obra (art. 9º, XII, f).
+2. Não constitui afronta ao princípio constitucional da isonomia o estabelecimento das vedações qualitativas insertas no art. 9º, da Lei nº 9.317/96.
+3. Os efeitos do Ato Declaratório são relativos à situação excludente e não ao ato de exclusão (art. 15, II). Isto porque não tem o caráter constitutivo de relação jurídica, mas sim o de reconhecer a existência de uma situação impeditiva à participação no Sistema. Portanto, não há de se falar em afronta ao princípio da irretroatividade, tendo em vista que os efeitos não retroagem, mas apenas são declarados posteriormente à situação que deu causa à exclusão” (fl. 146).
+Opostos embargos de declaração (fls. 148 a 150), foram acolhidos para fins de prequestionamento (fls. 152 a 155).
+Sustenta o recorrente violação dos artigos 5°, caput e inciso XXXIV, e 150, inciso II, da Constituição Federal.
+Contra-arrazoado (fls. 204 a 206), o recurso extraordinário (fls. 176 a 195) foi admitido (fl. 209).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 11/5/05, como expresso na certidão de folha 156, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Verifica-se que o recorrente sustenta a reforma da decisão recorrida, haja vista que “atua no ramo de locação de máquinas pesadas para construções rodoviárias, sempre tendo atuado de fato neste ramo e não no ramo da locação de mão-de-obra, construção de imóveis e terraplanagem” (fl. 180).
+Ocorre que o Tribunal de origem solucionou a lide com fundamento na legislação infraconstitucional e nas provas dos autos, conforme se extrai do seguinte fragmento do acórdão:
+“Restou demonstrado no processo administrativo que excluiu a autora do SIMPLES, através de contrato de prestação de serviço, que a empresa, em que pese não ter especificado em seu Contrato Social, também presta serviços que incluem locação de mão-de-obra e construção civil, incompatíveis com a sistemática” (fl. 144).
+Nesse caso, para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame da legislação infraconstitucional (Lei n° 9.317/96) e das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+“E M E N T A: AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária” (AI n° 760.346/SP-AgR, Segunda Turma, Relator o Ministro Celso de Mello, Dje de 13/8/10).
+“EMENTA: AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. INCISO I DO § 2º DO ARTIGO 3º DA LEI Nº 9.718/98.
+Ausência de manifestação expressa do aresto impugnado sobre os dispositivos constitucionais supostamente violados, os quais não foram alegados nos embargos declaratórios opostos.
+Mérito da controvérsia que se restringe à interpretação conferida pela Corte de origem à legislação infraconstitucional pertinente. Ofensa à Carta de Outubro que, se existente, dar-se-ia de modo reflexo ou indireto, o que não autoriza a abertura da via extraordinária. Decisão singular no mesmo sentido: AI 532.412, Relator o Ministro Sepúlveda Pertence.
+Agravo regimental a que se nega provimento” (RE n° 462.681/RS, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 25/8/06).
+No que se refere à alegada ofensa ao princípio da isonomia, esta Corte, ao analisar determinadas vedações de optar pelo SIMPLES dispostas no artigo 9° da Lei n° 9.317/96, firmou entendimento no sentido de não considerar essas limitações violação ao referido princípio. Nesse sentido, os seguintes julgados:
+“ EMENTA: ACÃO DIRETA DE INCONSTITUCIONALIDADE. SISTEMA INTEGRADO DE PAGAMENTO DE IMPOSTOS E CONTRIBUIÇÕES DAS MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE. CONFEDERAÇÃO NACIONAL DAS PROFISSÕES LIBERAIS. PERTINÊNCIA TEMÁTICA. LEGITIMIDADE ATIVA. PESSOAS JURÍDICAS IMPEDIDAS DE OPTAR PELO REGIME. CONSTITUCIONALIDADE.
+1. Há pertinência temática entre os objetivos institucionais da requerente e o inciso XIII do artigo 9º da Lei 9317/96, uma vez que o pedido visa a defesa dos interesses de profissionais liberais, nada obstante a referência a pessoas jurídicas prestadoras de serviços.
+2. Legitimidade ativa da Confederação. O Decreto de 27/05/54 reconhece-a como entidade sindical de grau superior, coordenadora dos interesses das profissões liberais em todo o território nacional. Precedente.
+3. Por disposição constitucional (CF, artigo 179), as microempresas e as empresas de pequeno porte devem ser beneficiadas, nos termos da lei, pela “simplificação de suas obrigações administrativas, tributárias, previdenciárias e creditícias, ou pela eliminação ou redução destas” (CF, artigo 179).
+4. Não há ofensa ao princípio da isonomia tributária se a lei, por motivos extrafiscais, imprime tratamento desigual a microempresas e empresas de pequeno porte de capacidade contributiva distinta, afastando do regime do SIMPLES aquelas cujos sócios têm condição de disputar o mercado de trabalho sem assistência do Estado. Ação direta de inconstitucionalidade julgada improcedente” (ADI nº 1.643, Tribunal Pleno, Relator o Ministro Maurício Corrêa, DJ de 14/3/03).
+“Agravo regimental em recurso extraordinário. 2. Tributário. Sistema 'SIMPLES'. Art. 9º da Lei 9.317/96. Ofensa ao princípio da isonomia. Inocorrência. Precedente. 3. Agravo regimental a que se nega provimento” (RE nº 411.781/PR-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe 30.11.2007).
+Por fim, quanto ao argumento em torno dos efeitos retroativos do ato administrativo que excluiu o ora recorrente do SIMPLES, verifica-se que o acórdão recorrido assim consignou:
+“Em relação à irretroatividade, cabe assinalar que o Ato administrativo que excluiu a autora tem caráter meramente declaratório. Assim, tem por escopo apenas reconhecer uma situação de irregularidade e não constituir uma relação jurídica. Tem seus efeitos relativos à situação excludente, que é o momento a partir do qual não poderia ser optante do simples a pessoa jurídica, por isso não há que se falar em retroação, uma vez o disposto na Lei 9.317/96:
+"Art. 15. A exclusão do SIMPLES nas condições de que tratam os arts. 13 e 14 surtirá efeito:
+(...)
+II - a partir do mês subseqüente ao que incorrida a situação excludente, nas hipóteses de que tratam os incisos III a XIX do art. 9º;" (grifei)” (fl. 144).
+Por sua vez, o ora recorrente sustenta que:
+“É o que dispõe expressamente a Carta Magna em seu art. 5°, XL: ‘a lei penal não retroagirá, salvo para beneficiar o réu’ combinado com art. 105 do CTN: ‘A Legislação tributária aplica-se imediatamente aos fatos geradores futuros e aos pendentes assim entendidos aqueles cuja ocorrência tenha tido início mas não esteja completa nos termos do art. 116'.
+Resta caracterizada verdadeira distinção entre vigência e eficácia, visto que a exação dos tributos era vigente na época, porém não eficaz em virtude da concessão da inclusão no SIMPLES que a empresa dispunha. Com o advento da exclusão não pode a Administração Pública tornar eficaz fatos legalmente tidos como sem eficácia para efeitos de tributação.
+Portanto, os efeitos da Decisão Definitiva de um Procedimento Administrativo, só começam 30 dias após a notificação ao contribuinte como dispõe o Decreto 70.235/72 e a Lei 9.317/96” (fls. 194/195).
+Como se observa, igualmente sob esse aspecto não merece êxito o presente apelo, uma vez que para análise do efeito retroativo do referido ato administrativo seria necessária a análise de de fatos e provas, bem como da legislação infraconstitucional, configurando, portanto, apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário.
+Ante o exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 4 de março de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
