@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. 1. IMPOSSIBILIDADE DE VERIFICAÇÃO DA LEGALIDADE DE LEI MUNICIPAL CONTRA A LEI COMPLEMENTAR N. 101/2000. 2. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. SÚMULAS N. 280, 282 E 356 DESTE SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“EMBARGOS INFRINGENTES. ADMINISTRATIVO. SERVIDOR PÚBLICO. MUNICÍPIO DE ALTO ALEGRE. RECOMPOSIÇÃO SALARIAL. LEI N. 1.227-A/2004, PUBLICADA NOS 180 DIAS QUE ANTECEDEM O FIM DO MANDATO DO CHEFE DO EXECUTIVO. NULIDADE DE PLENO DIREITO. LEI DE RESPONSABILIDADE FISCAL. A Lei Municipal n. 1.227-A/04, acarretando aumento de despesa com pessoal (reposição de perdas salariais aos servidores públicos municipais, quadro do magistério, cargos efetivos em comissão e temporários), foi publicada e passou a vigorar em 17.12.2004, no período, portanto, dos 180 dias que antecederam o fim do mandato do titular do Poder Executivo, o que vai de encontro à vedação do parágrafo único do art. 21 da LC nº 101/00, motivo por que se configura nula de pleno direito, não produzindo efeitos. ACOLHERAM OS EMBARGOS INFRINGENTES” (fl. 316).
+2. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência na espécie das Súmulas n. 282 e 356 do Supremo Tribunal Federal e a circunstância de que a ofensa à Constituição, se tivesse ocorrida, seria indireta (fls. 403-407).
+3. O Agravante alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXVI, 30, inc. I, 37, inc. X, 97 e 169, § 1º e inc. I, da Constituição da República.
+Sustenta que “a respectiva lei regulamentadora das revisões e reajustes foi anterior do prazo-limite fixado na LRF, bem como foram observados os demais requisitos posto na Lei Complementar n. 101/2000, em especial dotação orçamentária e níveis-limite de endividamento em matéria de pessoal” (fl. 393).
+Analisados os elementos havidos nos autos, DECIDO.
+4. Razão jurídica não assiste ao Agravante.
+5. Os arts. 5º, inc. XXXVI, 30, inc. I, 37, inc. X, e 97 da Constituição da República suscitados no recurso extraordinário não foram objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido:
+“A jurisprudência do Supremo Tribunal firmou-se no sentido de que, ainda que surgida a alegada ofensa constitucional no acórdão recorrido, é necessária a oposição de embargos de declaração, se não houver a análise da ofensa pelo órgão judicante. Precedentes. 2. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 646.853-AgR, de minha relatoria, Primeira Turma, DJe 13.2.2009).
+E:
+“A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário” (AI 413.963-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 1º.4.2005).
+6. Ademais, o Tribunal a quo assentou que:
+“a Lei Municipal n. 1.227-A/04, determinando a reposição de perdas salariais (7%, em parcela única), efetivamente acarreta aumento de despesa com pessoal, bem como que foi publicada em 17.12.2004, no período dos 180 dias que antecederam o fim do mandato do titular do Poder Executivo, a outra conclusão não se pode chegar que não a de que vai de encontro à vedação estabelecida no parágrafo único do art. 21 da LC n. 101/00, motivo por que se configura nula de pleno direito, não produzindo efeitos” (fl. 330).
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria a análise prévia de legislação infraconstitucional aplicável à espécie (Lei Municipal n. 1.227-A/04 e Lei Complementar n. 101/00). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. (Súmula n. 280 do Supremo Tribunal Federal).
+Nesse sentido:
+“Recurso extraordinário: descabimento, quando fundado na alegação de ofensa reflexa à Constituição. 1. Tem-se violação reflexa à Constituição, quando o seu reconhecimento depende de rever a interpretação dada à norma ordinária pela decisão recorrida, caso em que é a hierarquia infraconstitucional dessa última que define, para fins recursais, a natureza de questão federal. 2. Admitir o recurso extraordinário por ofensa reflexa ao princípio constitucional da legalidade seria transformar em questões constitucionais todas as controvérsias sobre a interpretação da lei ordinária, baralhando as competências repartidas entre o STF e os tribunais superiores e usurpando até a autoridade definitiva da Justiça dos Estados para a inteligência do direito local” (AI 134.736-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 17.2.1995).
+E:
+“Agravo regimental em agravo de instrumento. 2. Não cabe recurso extraordinário para discussão de matéria infraconstitucional. 3. Jurisprudência consolidada do Supremo Tribunal Federal. 4. Agravo regimental a que se nega provimento” (AI 778.683-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 22.10.2010).
+Nada há, pois, a prover quanto às alegações do Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 6 de março de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
