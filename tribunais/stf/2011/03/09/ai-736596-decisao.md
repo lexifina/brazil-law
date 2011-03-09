@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. MAJORAÇÃO DE TARIFA DE ENERGIA ELÉTRICA. PERÍODO DE CONGELAMENTO DE PREÇOS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“PRESTAÇÃO DE SERVIÇOS – ENERGIA ELÉTRICA – MAJORAÇÃO DA TARIFA – Plano Cruzado – Reajuste com base nas Portarias DNAEE n. 38 e 45/86 – Ilegalidade por afrontar o congelamento de preços determinado pelos Decretos-Leis n. 2.283/86 e 2.284/86 – Determinação de devolução do valor indevidamente recolhido até a superveniência da Portaria DNAEE n. 153/86 – A apuração dos valores que se pretende restituir será feita em liquidação de sentença – Sentença reformada – Recurso parcialmente provido” (fl. 190).
+Os embargos de declaração opostos foram rejeitados.
+3. No recurso extraordinário, a Agravante alega que o Tribunal a quo teria contrariado os arts. 163 e 167 da Constituição da República de 1967, com a alteração da Emenda Constitucional n. 1/1969.
+Argumenta que o acórdão recorrido, “que decretou a ilegalidade da majoração tarifária trazida pelas Portarias DNAEE 38 e 45 de 1986, por afronta ao congelamento geral de preços -, fez ‘tabula rasa’ do preceito constitucional garantidor do equilíbrio econômico e financeiro da concessão, insculpido no inciso II do artigo 167 da Carta Constitucional de 1969, posto a salvo do ato intervencionista pelo comando constitucional do artigo 163” (fl. 280).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 282 do Supremo Tribunal Federal e a ausência de contrariedade direta à Constituição da República (fls. 368-369).
+A Agravante reitera os argumentos formulados no recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. O Tribunal de origem analisou e interpretou dispositivos dos Decretos-Leis n. 2.283/1986 e 2.284/1986 e das Portarias do DNAEE n. 38/1986 e 45/1986 e concluiu que a majoração da tarifa de energia elétrica teria sido ilegal.
+Concluir de modo diverso do acórdão recorrido demandaria a análise daquelas legislações infraconstitucionais, o que é vedado em recurso extraordinário. Nesse sentido:
+“1. RECURSO. Extraordinário. Inadmissibilidade. Tarifa de energia elétrica. Majoração durante o congelamento de preços. Portarias nº 38/86 e nº 45/86. Ilegalidade. Matéria infraconstitucional. Ofensa constitucional indireta. Agravo regimental não provido. Precedentes. A majoração da tarifa de energia elétrica, quando vigentes os Decretos-Lei nº 2.283/86 e 2.284/86, responsáveis pelo congelamento de preços e tarifas públicas, é questão infraconstitucional, o que implicaria ofensa apenas indireta à Constituição, não admitida em recurso extraordinário. 2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (RE 258.402-AgR, Rel. Min. Cezar Peluso, Primeira Turma, DJ 3.9.2004).
+“AGRAVO REGIMENTAL. MAJORAÇÃO DE TARIFA DE ENERGIA ELÉTRICA. PORTARIAS 38/1986 E 45/1986 DO DNAEE. VIGÊNCIA DOS DECRETOS-LEIS 2.283/1986 E 2.284/1986. MATÉRIA INFRACONSTITUCIONAL. A questão em debate fora decidida à luz da legislação infraconstitucional, o que enseja o descabimento do recurso extraordinário. Agravo regimental a que se nega provimento” (AI 494.170-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 5.3.2009).
+7. Nada há, pois, a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 9 de março de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
