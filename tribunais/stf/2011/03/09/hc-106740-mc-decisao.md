@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de habeas corpus, com pedido liminar, impetrado por Sandra Mara Freitas, em favor de Silvana Ribeiro dos Santos.
+Na espécie, a paciente foi condenada pela prática dos crimes previstos nos arts. 180, § 1º, e 298, c/c 69, todos do CP, à pena de 4 (quatro) anos e 8 (oito) meses de reclusão, em regime fechado.
+Irresignada, a defesa interpôs apelação, pleiteando a absolvição, por falta de provas, inclusive da materialidade do delito de receptação. Subsidiariamente, pugnou pela absorção da falsificação pela receptação ou a redução das penas e a substituição das penas privativas de liberdade por restritivas de direitos.
+A 5ª Câmara de Direito Criminal do TJ/SP, por unanimidade, acolheu parcialmente o recurso para absolver a paciente do delito de receptação, mantida a condenação, pelo crime de falso, às penas de 1 (um) ano e 2 (dois) meses de reclusão, em regime inicial fechado. Eis a ementa desse julgado:
+“RECEPTAÇÃO DOLOSA E FALSIFICAÇÃO DE DOCUMENTO PARTICULAR. Receptação de motor furtado. Ausência de prova da existência do crime antecedente. Laudo pericial indicando que o motor apreendido não era o mesmo subtraído do veículo da vítima do furto. Absolvição dos réus do delito de receptação. Falsificação de nota fiscal. Prova da autoria e da materialidade em relação a corré. Condenação mantida. Falta de prova da participação do corréu na falsificação. Absolvição decretada. Apelos de Dorival e Edson acolhidos, para absolvição de ambos os delitos, e recurso de Silvana provido em parte, apenas para absolvição do crime de receptação, mantida a condenação pelo delito de falso”.
+Impetrado habeas corpus perante o Superior Tribunal de Justiça, a ordem foi concedida parcialmente para, mantida a condenação, determinar a fixação do regime inicial semiaberto para o cumprimento da pena (HC 131.980/SP).
+Neste habeas, a defesa pleiteia que seja reconhecido o cumprimento da pena privativa de liberdade no regime aberto.
+Nesse sentido, afirma: “ Pois os motivos do pedido se dão, uma vez que os requisitos constantes do art. 33, § 2º, alínea c, e § 3º, c/c 59 do CP, quais sejam, a condenação por um período igual ou inferior a 4 (quatro) anos e a existência de circunstâncias judiciais totalmente favoráveis”.
+Pede a concessão da liminar para que seja suspensa a execução provisória da pena imposta à paciente, determinando a cassação de eventual mandado de prisão até o julgamento final deste HC.
+Passo a decidir.
+O Juízo de origem fixou as penas e o regime prisional inicial da ora paciente, da seguinte forma:
+"Os réus EDSON e SILVANA possuem antecedentes criminais e são multi-reincidentes (fls. 402/403, 404/405, 407/424 425/436-autos 1139-04-1), enquanto DORIVAL é primário, de forma que, atento para tal circunstância, como também os demais elementos preconizados pelo artigo 59 do CP, fixo para os réus EDSON e SILVANA por infração ao artigo 180, § 1º, a pena de três anos de reclusão e dez dias multa, que aumento em um sexto devido à reincidência, dando TRÊS ANOS E SEIS MESES DE RECLUSÃO E ONZE DIAS MULTA e, pelo crime do artigo 298 a pena de um ano de reclusão e dez dias multa, que aumento em um sexto devido à reincidência, dando HUM ANO E DOIS MESES DE RECLUSÃO e ONZE DIAS MULTA. Somadas as penas em razão do concurso material, temos a pena total para cada um dos réus em QUATRO ANOS E OITO MESES DE RECLUSÃO E VINTE E DOIS DIAS MULTA, COM O DIA UNITÁRIO NO PISO MÍNIMO. (...)
+Para os réus EDSON e SILVANA, fixo devido a comprovada reincidência, com base no artigo 33 do CP, fixo o regime prisional inicial fechado, expedindo-se mandados de prisão com trânsito em julgado da sentença” (extraído do sítio do STJ).
+Já a Corte Estadual dispôs da seguinte forma:
+"Por fim, as penas de Silvana pela falsificação restaram concretizadas em um sexto acima dos mínimos legais, ou seja, em um ano e dois meses de reclusão e onze dias-multa, patamar que já a favoreceu, pois ostenta três condenações anteriores definitivas, aptas a configurar reincidência (certidões de fls. 689, 695 e 716 do feito em apenso).
+Portanto, fica mantida a condenação de Silvana apenas pelo crime de falso, às penas antes mencionadas, bem como o regime inicial fechado e a negativa de concessão de benefícios legais diante da reincidência, considerada a expressa vedação legal (artigo 44, inciso II, e 77, inciso I, ambos do Código Penal), sendo, então, impossível a substituição pretendida pela Defesa”.
+Da sentença condenatória se extrai o reconhecimento de ausência de circunstâncias judiciais desfavoráveis (art. 59, CP), não obstante a condenada é reincidente, o que, em um juízo preliminar, inviabiliza a fixação do regime aberto (CP, art. 33, § 2º, c).
+Ante o exposto, indefiro o pedido de medida liminar.
+Publique-se.
+Estando os autos suficientemente instruídos, abra-se vista ao Procurador-Geral da República.
+Brasília, 9 de março de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
