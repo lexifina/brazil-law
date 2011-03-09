@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SALÁRIO-FAMÍLIA. IMPOSSIBILIDADE DE REEXAME DE LEGISLAÇÃO LOCAL: SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. NÃO CABIMENTO DO RECURSO PELA ALÍNEA C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alíneas a e c, da Constituição da República contra julgado do Tribunal de Justiça do Rio Grande do Sul:
+“APELAÇÃO CÍVEL. ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO MUNICIPAL. DMLU. SALÁRIO-FAMÍLIA. MANUTENÇÃO DO BENEFÍCIO ATÉ O ADVENTO DO DECRETO N. 13.394/2001.
+1. Anteriormente à EC n. 20/98 o Município de Porto Alegre já possuía legislação própria, regulando ilimitadamente a percepção do abono-família, com o que baliza nela prevista era inócua aos servidores municipais.
+2. A partir do Decreto n. 13.394/2001, o teto remuneratório para este fim foi estabelecido em R$ 429,00, patamar após aumentado para R$ 468,47 pela Lei Complementar Municipal n. 478/2002.
+3. Ainda que em tese fosse possível o pagamento da aludida vantagem até a edição do Decreto n. 13.394/2001, que limitou o direito ao seu recebimento, o autor a ela não faz jus, em face da prescrição quinquenal, consoante Súmula n. 85 do STJ. Precedentes desta Corte.
+4. Na espécie, considerando que no período não atingido pela prescrição (isto é, a partir de 11.09.2004) o autor não se encaixava no parâmetro estabelecido, uma vez que sua renda bruta mensal ultrapassava o limite então vigente, de R$ 468,17, deve ser mantida incólume a sentença de improcedência da ação.
+APELO DESPROVIDO” (fl 151).
+2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 1º, inc. III, 5º, XXXVI, 7º, inc. XII, 39,§3º e 60, § 4º, inc. IV,da Constituição da República.
+Argumenta que “o direito ao abono família se encontra consagrado na Lei Complementar n. 133/85 (Estatuto do Funcionário Público do Município de Porto Alegre), que foi recepcionado pela Constituição Federal. Ora, em assim sendo, o direito pleiteado, constituído que foi pelos artigos 110, VI e 134 e 138 da Lei Complementar Municipal n. 133/85, consagra-se como ato jurídico perfeito, de vez que constituído ao tempo por lei que permitia o pagamento, e que, efetivamente, foi recepcionada pela Constituição” (fl. 185).
+Requer o provimento do presente recurso.
+3. Razão jurídica não assiste ao Recorrente.
+4. Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria a análise prévia de legislação infraconstitucional aplicável à espécie (Lei Complementar municipal n. 133/1985, Decreto n. 13.394/2001 e Lei Complementar Municipal n. 478/2002). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal.
+“CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO: MUNICÍPIO DE PORTO ALEGRE. ABONO FAMILIAR: SUPRESSÃO. LEI MUNICIPAL 133/85: Súmula 280-STF. I. - Somente a ofensa direta à Constituição autoriza a admissão do recurso extraordinário. No caso, o acórdão assenta-se em interpretação de lei local. Incidência da Súmula 280-STF. II. - Agravo não provido” (RE 385.946-AgR, Rel. Min. Carlos Velloso, Segunda Turma, DJ 14.10.2005).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. VALIDADE DA LEI MUNICIPAL N. 1.417/2002. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 558.014-AgR, de minha relatoria, Primeira Turma, DJe 6.5.2010).
+“EMENTA: AGRAVO REGIMENTAL. SERVIDOR PÚBLICO DO ESTADO DE MINAS GERAIS. LEI ESTADUAL 10.470/91. DIREITO LOCAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. A decisão agravada está em perfeita consonância com o entendimento firmado por ambas as Turmas desta Corte no sentido de que é inviável em recurso extraordinário o debate de questão relativa a direito meramente local. Incidência da Súmula 280/STF. Agravo regimental a que se nega provimento” (RE 269.226-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 28.11.2008).
+5. Ademais, este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, inc. XXXVI, da Constituição da República, se dependente do exame da legislação infraconstitucional, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. (...). ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+6. O recurso extraordinário não se viabiliza pela alínea c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição da República. Incide na espécie a Súmula 284 deste Supremo Tribunal.
+“ Recurso extraordinário. – Inocorrência da hipótese prevista na alínea ‘c’ do inciso III do artigo 102 da Constituição Federal. Falta de fundamentação, por isso mesmo, a esse respeito. Aplicação da Súmula 284” (RE 148.355, Rel. Min. Moreira Alves, Primeira Turma, DJ 5.3.1993).
+Nada há, pois, a prover quanto às alegações do Recorrente.
+7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 9 de março de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
