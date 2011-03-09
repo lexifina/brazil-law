@@ -1,0 +1,27 @@
+DECISÃO
+Vistos.
+Jaqueline Gomes de Lima interpõe recurso extraordinário contra acórdão da Turma Recursal do Juizado Especial Cível da Seção Judiciária do Estado da Bahia, assim ementado:
+“PREVIDENCIÁRIO. REVISÃO DE RENDA MENSAL INICIAL MEDIANTE EXCLUSÃO DE VALOR-TETO ESTABELECIDO NO ART. 29, § 2º, DA LEI 8.213/91. INCONSTITUCIONALIDADE DO REFERIDO DISPOSITIVO LEGAL NÃO VERIFICADA. NATUREZA CONTRAPRESTACIONAL DA PREVIDÊNCIA SOCIAL. ART. 26 DA LEI 8.870/94. TEOR QUE NÃO EXCLUI A EXISTÊNCIA DE TETO. DESCUMPRIMENTO NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+1. O estabelecimento de valores máximos de referência, comumente denominados 'tetos', tanto no que se refere ao salário de contribuição, quanto no que diz respeito ao salário de benefício, atende ao caráter contraprestacional do sistema previdenciário, revelando-se imprescindível, inclusive, à sua própria manutenção.
+2. Não há falar em inconstitucionalidade no artigo 29, § 2º, da Lei nº 8.213/91. Precedentes jurisprudenciais.
+3. Ainda que concedido o benefício da requerente no período de 05.04.91 a 31.12.93, coberto pelo art. 26 da Lei nº 8.870, de 15 de abril de 1994, tem-se que esse artigo não exclui a limitação ao teto: conquanto outro seja o teto, não se trata de superá-lo, mas de respeitar a determinação legal específica e tampouco é possível requerer o cumprimento da lei, se, evidenciar que a norma em questão haja sido descumprida, o que era ônus do autor comprovar.
+4. Recurso desprovido.
+5. Sem honorários advocatícios, por ser a parte recorrente vencida beneficiária da justiça gratuita” (fl. 62).
+Alega a recorrente contrariedade aos artigos 5º, inciso XXXVI , e 202 da Constituição Federal.
+Sem contrarrazões (fl. 73), o recurso extraordinário (fls. 64 a 70) foi admitido (fls. 74/75).
+Decido.
+Anote-se, inicialmente, que o recorrente foi intimado do acórdão recorrido em 18/2/06, como expresso na certidão de folha 62verso, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+No que se refere ao artigo 5º, inciso XXXVI, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte.
+Por outro lado, o acórdão atacado está em consonância com a jurisprudência desta Corte, consolidada no sentido da constitucionalidade do teto fixado pela Lei nº 8.213/91. Sobre o tema, anote-se:
+“CONSTITUCIONAL. PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SALÁRIO DE BENEFÍCIO. TETO. CAPUT DO ART. 202 DA CONSTITUIÇÃO REPUBLICANA, NA REDAÇÃO ORIGINAL. AUTO- -APLICABILIDADE. NÃO-OCORRÊNCIA. COMANDO DIRIGIDO AO LEGISLADOR ORDINÁRIO. LEI 8.213/1991. 1. É firme neste Supremo Tribunal Federal o entendimento de que a norma contida no caput do art. 202, na sua redação original, não é auto-aplicável. Legítima, portanto, a limitação imposta ao salário de benefício, conforme o teor do § 2º do art. 29 combinado com o art. 33 da Lei 8.213/1991. 2. Agravo regimental desprovido” (AI nº 753.524/MG-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJe de 29/11/10).
+~RECURSO EXTRAORDINÁRIO - PREVIDENCIÁRIO - APOSENTADORIA - CÁLCULO DO BENEFÍCIO - LIMITAÇÃO DO SALÁRIO-DE- -BENEFÍCIO PREVISTA NO ART. 29, § 2º, C/C O ART. 33 DA LEI Nº 8.213/91 - CONSTITUCIONALIDADE - PRECEDENTES - RECURSO DE AGRAVO IMPROVIDO~ (RE nº 602.692/MG-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 6/8/10).
+“Agravo regimental em agravo de instrumento. 2. Previdenciário. Salário de benefício. Teto. Artigos 201, § 3º e 202, caput, CF. Normas não auto-aplicáveis. Art. 29 da Lei 8.213/91. Precedentes. 3. Agravo regimental a que se nega provimento” (AI nº 466.912/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 20/9/05).
+“RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. ART. 29, § 2º, DA LEI 8.213/91. CONSTITUCIONALIDADE. 1. O agravante limita-se a repisar as razões expendidas no recurso extraordinário, as quais não foram acolhidas pela decisão impugnada, que assim o fez fundamentada em orientação desta Corte, no sentido da constitucionalidade do teto do salário-de-benefício estabelecido pelo art. 29, § 2º, da Lei 8.213/91. 2. Agravo regimental improvido” (RE nº 423.529/PE-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 14/6/05).
+“1. Agravo regimental: motivação da decisão agravada: necessidade de impugnação. 2. Benefício previdenciário de prestação continuada: limitação do valor ao teto dos respectivos salários de contribuição, nos termos da L. 8.213/91: acórdão recorrido que se harmoniza com o entendimento do STF no sentido de que cabe ao legislador ordinário definir os critérios para a preservação do valor real do benefício (art. 202, caput, da CF - redação primitiva); precedente (AI 279377 AgR-ED, Ellen Gracie, DJ 22.6.2001)” (AI nº 479.518/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 30/3/04).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 9 de março de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
