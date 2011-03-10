@@ -1,0 +1,85 @@
+DECISÃO
+Vistos.
+Ministério Público Federal e Clécia Cristina Santos - representada por sua mãe Rita Dantas Soares - interpõem recursos extraordinários, com fundamento na alínea “a” do permissivo constitucional, contra acórdão proferido pela Terceira Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+“PROCESSUAL CIVIL E PREVIDENCIÁRIO. PENSÃO POR MORTE. MENOR DESIGNADO DEPENDENTE.
+1. A possibilidade de outorga de pensão por morte a pessoa designada, possibilidade esta anteriormente prevista no artigo 16, inciso IV, da Lei nº 8.213, de 1991, foi revogada pela Lei n. 9.032, de 1991.
+2. Não possui direito adquirido à pensão o menor designado como dependente antes da revogação do dispositivo, se o falecimento do segurado se deu em data posterior a esta. A lei aplicável é aquela vigente na data do óbito, posto que, antes deste, não se poderia cogitar de direito adquirido à pensão” (fl. 60).
+Opostos embargos de declaração (fls. 62/63), foram rejeitados (fls. 65 a 70).
+Alega o Ministério Público Federal violação dos artigos 5º, incisos XXXVI e LV, e 127 da Constituição Federal.
+Já a segunda recorrente sustenta violação ao artigo 5º, inciso XXXVI, da Constituição Federal. Afirma o direito adquirido ao benefício de pensão por morte, haja vista ter preenchido os requisitos no momento da inscrição como menor designada.
+Sem contrarrazões (fl. 158), os recursos extraordinários (fls. 81 a 88 e 131 a 155), foram admitidos (fls. 159/160).
+O Superior Tribunal de Justiça negou provimento ao recurso especial interposto simultaneamente ao extraordinário (fls. 170 a 172).
+O Ministério Público Federal opina, em parecer da lavra do Subprocurador-Geral da República, Dr. Paulo da Rocha Campos, “pelo não conhecimento do presente recurso, que, acaso conhecido, desmereceria provimento” (fls. 270 a 275).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 23/2/01, sendo o Ministério Público Federal intimado em 7/3/01, conforme expresso na certidão de folha 71, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+As irresignações não merecem trânsito.
+No que tange ao apelo extremo manejado pelo Ministério Público Federal, vê-se que não se observou o prazo para a interposição do recurso extraordinário, conforme estabelece o artigo 508 do Código de Processo Civil.
+O Ministério Público Federal foi intimado pessoalmente do acórdão dos embargos de declaração no dia 7 de março de 2001, quarta-feira (fl. 71). Iniciada a contagem do prazo - em dobro, conforme artigo 188 do Código de Processo Civil - no dia 8 de março de 2001, quinta-feira, o prazo terminou no dia 6 de abril de 2001, sexta-feira. A petição do recurso extraordinário, todavia, foi protocolada somente em 14 de maio de 2001, segunda-feira, muito depois do término do prazo. É, portanto, intempestivo. Ressalte-se a existência à folha 156 dos autos de certidão aferindo a intempestividade desse apelo extremo.
+No tocante ao recurso extraordinário interposto por Clécia Cristina dos Santos, representada por sua mãe, o acórdão ora em análise rejeitou a pretensão deduzida no sentido de garantir-lhe o recebimento de pensão deixada pelo falecimento de segurado, que a teria designado como sua beneficiária, a teor do permissivo contido na Lei nº 8.213/91.
+O fundamento utilizado é o de que a Lei nº 9.032/95 veio a extinguir a possibilidade dessa designação e o titular do benefício apenas veio a falecer no ano de 1997 (fl. 16), depois, portanto, de sua entrada em vigor.
+Assim, e como a pacífica jurisprudência desta Suprema Corte entende que a lei que disciplina o recebimento do benefício como o discutido nos autos é aquela em vigor à época do óbito do segurado, deve prevalecer a decisão regional. Sobre o tema, anotem-se os seguintes precedentes:
+“PENSÃO - CONFLITO DE NORMAS NO TEMPO - REGÊNCIA. A regência da pensão faz-se considerada a legislação em vigor na data do falecimento do servidor, descabendo emprestar a texto de lei ou da Constituição eficácia retroativa, no que prevista a percepção pela totalidade dos vencimentos” (RE nº 273.570/MA, Primeira Turma, Relator o Ministro Marco Aurélio, DJ de 5/5/06).
+“PREVIDENCIÁRIO. PENSÃO POR MORTE. LEI NOVA. AUMENTO DO BENEFÍCIO. RETROAÇÃO. IMPOSSIBILIDADE. I - O benefício previdenciário da pensão por morte deve ser regido pela lei vigente à época do óbito de seu instituidor. II - Impossibilidade de retroação de lei nova para alcançar situações pretéritas. III - Agravo regimental improvido” (RE n] 453.298/PB-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 22/6/07).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PENSÃO POR MORTE. O BENEFÍCIO PREVIDENCIÁRIO REGE-SE PELA LEI DO TEMPO EM QUE REUNIDAS AS CONDIÇÕES PARA SUA CONCESSÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 602.012/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 24/9/10).
+Cite-se, para ilustrar, as seguintes decisões monocráticas proferidas em casos idênticos ao dos presentes autos, em que se discute a questão acerca da pensão a menor designado:
+“ 1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+'EMENTA: PREVIDENCIÁRIO. EMBARGOS INFRINGENTES. DEPENDENTE DESIGNADO. ÓBITO DO INSTITUIDOR APÓS A VIGÊNCIA DA LEI Nº 9.032/95. AUSÊNCIA DE DIREITO ADQUIRIDO. CONFIGURAÇÃO DE EXPECTATIVA DE DIREITO NÃO REALIZADA.
+I. Embargos infringentes propostos pelo INSS contra acórdão da Segunda Turma que, no julgamento da AC nº 397934/CE, reconheceu o direito de menor designado como dependente à percepção de pensão por morte nos termos do art. 16, IV da Lei nº 8.213/91. Caso em que a designação foi registrada ainda sob a égide do referido diploma legal, mas o óbito do instituidor ocorreu após a entrada em vigor da Lei nº 9.032/95.
+II. Se a Lei nº 9.032/95 extinguiu a figura do dependente designado e o óbito do instituidor ocorreu já no curso de sua vigência, não há direito adquirido à percepção do benefício. Aplica-se a lei de regência à época do surgimento da pretensão, pelo que a designação anterior, embora legal, configura-se como mera expectativa de direito.
+III. (...)
+IV. Embargos infringentes providos. Prevalência do voto vencido' (fl. 182).
+2. O Recorrente alega que teria sido contrariado o art. 5º, inc. XXXVI, da Constituição da República.
+Argumenta, em síntese, que o ato que o designou como dependente do segurado teria se aperfeiçoado sob a égide da Lei n. 8.213/1991 e que não se deve 'confundir a revogação do direito de designação, ora revogado, com o direito a percepção de pensão que não foi revogado em momento algum, nem pela Lei 9.032/95, nem por outra qualquer' (fl. 228).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Em preliminar, é de se realçar que, apesar de ter sido o Recorrente intimado depois de 3.5.2007 e constar no recurso extraordinário capítulo destacado para a defesa da repercussão geral da questão constitucional, não é o caso de se iniciar o procedimento para a aferição da sua existência, pois, nos termos do art. 323, primeira parte, do Regimento Interno do Supremo Tribunal Federal – com a redação determinada pela Emenda Regimental n. 21/2007 -, esse procedimento somente terá lugar 'quando não for o caso de inadmissibilidade do recurso por outra razão'.
+Essa é a situação da espécie em foco, em que a análise da existência, ou não, da repercussão geral da questão constitucional torna-se dispensável, pois há outro fundamento suficiente para a inadmissibilidade do recurso extraordinário.
+4. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que o benefício da pensão por morte deve ser regido pela lei vigente à época do óbito do instituidor (princípio tempus regit actum). Nesse sentido:
+'EMENTA: PREVIDENCIÁRIO. PENSÃO POR MORTE. LEI NOVA. AUMENTO DO BENEFÍCIO. RETROAÇÃO. IMPOSSIBILIDADE. I - O benefício previdenciário da pensão por morte deve ser regido pela lei vigente à época do óbito de seu instituidor. II - Impossibilidade de retroação de lei nova para alcançar situações pretéritas. III - Recurso extraordinário conhecido e provido' (RE 511.021, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 27.4.2007).
+5. Na espécie vertente, o menor foi designado dependente na vigência da Lei n. 8.213/90. Todavia, o óbito da parte segurada ocorreu em 6.7.1999 (fl. 128), portanto, na vigência da Lei n. 9.032/95.
+Assim, não há que se falar em direito adquirido ao regime jurídico anterior à data do óbito do segurado. Apesar de ser o ato de designação do Recorrente juridicamente perfeito, o direito ao recebimento da pensão só se aperfeiçoaria com a morte do segurado, evento ocorrido sob a vigência da Lei n. 9.032/1995, revogadora dessa espécie de designação.
+Nesse sentido, em caso análogo, a seguinte decisão:
+'DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto pelo INSS de acórdão do Tribunal Regional Federal da 5ª região cuja ementa tem o seguinte teor (fls. 64):
+‘Previdenciário. Pensão por morte. Menor sob a guarda de falecido segurado. Designação como dependente antes da edição da Lei n° 9.032/95. Ato jurídico perfeito e direito adquirido. Apelação e remessa oficial improvidas’.
+Alega-se violação da proteção constitucional ao direito adquirido e ao ato jurídico perfeito (art. 5º, XXXVI).
+Em seu parecer, a Procuradoria-Geral da República manifesta-se pelo conhecimento e provimento do recurso (fls. 109).
+É o breve relatório.
+Decido.
+Entendo que o Tribunal a quo aplicou corretamente o art. 5º, XXXVI, da Constituição federal.
+O Supremo Tribunal Federal firmou jurisprudência acerca da inexistência de direito adquirido a regime jurídico (cf. o recente julgamento da ADI 3.105).
+Se, na ação, pleiteia-se concessão de benefício de pensão por morte a menor designada como dependente nos termos do art. 16, IV, da Lei 8.213/1991, e verificando-se que esse tipo de designação foi extinta, em 1995, pela Lei 9.032, não há direito adquirido ao benefício nos casos em que o falecimento do beneficiário tenha ocorrido depois da alteração legislativa.
+É o que ocorre na espécie, visto que a beneficiária que designou a menor faleceu em 16.01.2001, depois, portanto, da alteração do regime jurídico aplicável.
+Do exposto, dou provimento ao presente recurso” (RE 435.928, Rel. Min. Joaquim Babosa, DJ 22.3.2005, trânsito em julgado em 22.4.2005).
+E ainda os seguintes julgados: RE 494.673, Rel. Min. Ricardo Lewandowski, DJ 12.9.2007, trânsito em julgado em 28.9.2007; RE 472.275, Rel. Min. Joaquim Barbosa, DJ 27.3.2007, trânsito em julgado em 20.4.2007; e RE 409.069, Rel. Min. Sepúlveda Pertence, DJ 30.10.2006, trânsito em julgado em 27.11.2006; RE 540.945, de minha relatoria, DJe 22.8.2008.
+Dessa orientação não divergiu o acórdão recorrido.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal)”
+(RE nº 599.733/CE, Relatora a Ministra Cármen Lúcia, DJ de 24/8/09).
+“1. O Tribunal Regional Federal da 5ª Região deu provimento à apelação do Instituto Nacional do Seguro Social – INSS, nos autos da Apelação Cível em ação ordinária 202.278/RN (processo 2000.05.00.003078-0), cujo acórdão contém a seguinte ementa:
+'PREVIDENCIÁRIO. PENSÃO POR MORTE. MENOR DESIGNADO ANTES DA LEI 9.032/95. EXPECTATIVA DE DIREITO. ÓBITO DO SEGURADO POSTERIOR A REFERIDA LEI.
+- A inscrição de menor, como dependente de segurado, realizada antes da vigência da Lei nº 9.032/95, que revogou o inciso IV, do art. 16, da Lei nº 8.213/91, não gera direito adquirido, mas tão só, expectativa de direito.
+- Apelação e remessa oficial providas.” (Fls. 82-87)
+2. Daí a interposição dos recursos especial (fls. 91-115) e extraordinário (fls. 125-145), pelo Ministério Público Federal, que, admitidos às fl. 149, foram autos encaminhados ao Superior Tribunal de Justiça para apreciação do recurso de sua competência.
+3. Contra a decisão que negou seguimento ao recurso especial foi interposto agravo regimental, em acórdão assim ementado:
+'PREVIDENCIÁRIO. PENSÃO POR MORTE. ÓBITO OCORRIDO APÓS O ADVENTO DA LEI 9.032/95. DIREITO NÃO INCORPORADO AO PATRIMÔNIO JURÍDICO DO BENEFICIÁRIO. AGRAVO INTERNO DESPROVIDO.
+I- O artigo 8º da Lei 9.032/95, de 29/04/1995, revogou o inciso IV do art. 16 da Lei 8.213/91, retirando, assim, do rol de dependentes do segurado, a figura da pessoa designada.
+II- Desta forma, a jurisprudência da Eg. Terceira Seção firmou entendimento no sentido de que o fato gerador para a concessão do benefício de pensão por morte deve levar em conta a data do óbito do segurado, observando-se, ainda, a lei vigente à época de sua ocorrência. A explicação deriva do fato da concessão da pensão por morte estar atrelada aos requisitos previstos na legislação de regência no momento da morte do segurado, em obediência ao princípio tempus regit actum.
+III- No presente caso, ao tempo da morte do beneficiário já não era possível reconhecer o direito à pensão, porque posterior às modificações da Lei 8.213/91, trazidas pela Lei 9.032/95.
+IV- Agravo interno desprovido.' (Fls. 166-174)
+Opuseram-se embargos de declaração que foram rejeitados (AgRg-REsp 461.809/RN, rel. Min. Gilson Dipp, 5ª Turma, DJ de 17.03.2003 – fls. 195-203).
+4. Desse acórdão, o ora recorrente interpôs novo recurso extraordinário (fls. 205-221), que não foi admitido pela Vice-Presidência do Superior Tribunal de Justiça (fls. 224-225). Diante de tal fato, o Ministério Público Federal interpôs o AI 481.936/RN, distribuído ao Ministro Gilmar Mendes em 11.11.2003, que, mediante decisão monocrática, proferida em 1º.02.2008, pub. DJE 20.02.2008, determinou a subida do extraordinário para melhor apreciação do feito.
+5. Entretanto, os autos já tinham sido encaminhados, em 17.10.2003, ao Supremo Tribunal Federal, em virtude da existência do presente RE (fls. 125-145), já admitido na origem (fl. 149).
+6. O Ministério Público Federal opinou pelo provimento do recurso (fls. 233-243).
+7. Após este breve relato, constata-se que ambos os extraordinários, tratam, igualmente, da questão relativa ao direito adquirido, nos quais o Ministério Público Federal, recorrente, alega, violação ao art. 5º, XXXVI, da Constituição Federal, por entender que o dependente fora designado junto ao órgão previdenciário, na vigência da norma autorizadora (art. 16 da Lei 8.213/91).
+Porém, conforme o art. 543, § 1º, do Código de Processo Civil, a apreciação do extraordinário pressupõe o término do julgamento, no caso, do REsp 461.809/RN (art. 543, §1º, do CPC), que se encontra em grau de recurso extraordinário ainda pendente de julgamento.
+8. Essa circunstância recomenda o imediato exame do extraordinário contra acórdão proferido em sede de recurso especial; passo, pois, a apreciar o recurso de fls. 205-221.
+9. Não é de se acolher a pretensão do recorrente. De fato, subsiste incólume a decisão do Tribunal Regional Federal que agiu com correção ao analisar as normas previdenciárias pertinentes.
+Ademais o Superior Tribunal de Justiça, com base em entendimento firmado naquela Corte, manteve o acórdão recorrido sob o fundamento de que a parte autora, Anderson de Lima Silva, não possui direito à percepção de pensão por morte, pois, na ocasião do falecimento da instituidora, ocorrido em 25.05.98 (fl. 10), já estava em vigor a Lei 9.032/95, que suprimiu a figura do dependente designado, prevista no art. 16, IV, da Lei 8.213/91.
+Havia, portanto, mera expectativa de direito ao recebimento da pensão pelo menor designado, sem margem para alegação de contrariedade ao art. 5º, XXXVI, da Lei Maior. Essa conclusão encontra-se coerente com a orientação adotada nesta Corte. Vejam-se RE 198.169/MG, rel. Min. Maurício Corrêa, 2ª Turma, unânime, DJ 19.04.96, e o AI 183.561-AgR/DF, rel. Min. Moreira Alves, 1ª Turma, unânime, DJ 27.06.97, cujo entendimento foi ratificado em 08.02.2007, pelo Plenário do Supremo Tribunal no julgamento dos RE 416.827/SC e RE 415.454/SC, ambos da relatoria do Ministro Gilmar Mendes, DJ de 26.10.2007.
+10. Diante do exposto, nego seguimento ao recurso de fls. 205-221, interposto pelo Ministério Público Federal, (CPC, art. 557, caput), contra acórdão do Superior Tribunal de Justiça, e, tendo em vista o exaurimento da matéria também posta no extraordinário de fls. 125-145, contra Apelação Cível 202.278, do mesmo recorrente, julgo-o prejudicado ante a evidente perda de objeto”
+(RE nº 409.475/RN, Relatora a Ministra Ellen Gracie, DJe de 14/11/08).
+Dessa pacífica orientação não divergiu o acórdão recorrido.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento aos recursos extraordinários.
+Publique-se.
+Brasília, 10 de março de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
