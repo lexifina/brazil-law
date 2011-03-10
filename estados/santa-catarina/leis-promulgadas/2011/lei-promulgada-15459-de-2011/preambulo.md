@@ -1,0 +1,3 @@
+# LEI PROMULGADA Nº 15.459, de 09 de março de 2011
+Altera dispositivo da Lei n. 10.297, de 1996, que dispõe sobre o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS
+Faço saber que o Governador do Estado de Santa Catarina, de acordo com o art. 51 da Constituição Estadual, adotou a Medida Provisória nº 187, de 30 de dezembro de 2010, e eu, Deputado Moacir Sopelsa, Presidente em exercício da Assembléia Legislativa do Estado, para os efeitos do disposto no § 8º do art. 315 do Regimento Interno, promulgo a seguinte Lei:
