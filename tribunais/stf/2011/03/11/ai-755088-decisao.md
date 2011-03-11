@@ -1,0 +1,11 @@
+DECIS ÃO: Trata-se de agravo de instrumento que, na origem, teve ação de mandado de segurança cujo pedido foi julgado improcedente pelo Tribunal de Justiça do Estado do Paraná, o qual extinguiu o feito com julgamento de mérito (art. 269, I, do CPC) (fls. 12-18). Dessa decisão o impetrante interpôs recurso extraordinário, que teve seguimento negado à luz do art. 105, II, “b”, da Constituição Federal, por se tratar de decisão denegatória da segurança proferida em única instância por tribunal estadual (fl. 52).
+Devolvido o agravo de instrumento com base no art. 543-B do CPC (fl. 70), os autos retornaram a esta Corte com a recusa, pelo Tribunal de origem, na retratação da decisão que negou seguimento ao apelo extremo (fls. 79-80).
+Decido.
+Verifica-se à fl. 52 que o acórdão proferido pelo Tribunal Estadual também foi objeto de recurso especial perante o Superior Tribunal de Justiça (art. 105, II, “b”, da CF). Nesse contexto, a teor da Súmula 281 do STF, o recurso extraordinário não comporta conhecimento, tendo em vista o não esgotamento das vias ordinárias. A propósito, confiram-se o AI 831.655, Rel. Min. Cármen Lúcia, DJe 14.12.2010; e o AI 676.527, Rel. Min. Joaquim Barbosa, DJe 6.12.2010; este último com decisão nos seguintes termos:
+“(...) Nos termos do art. 105, II, b, da Lei Maior, o recurso interposto de mandado de segurança decidido 'em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão', é o recurso ordinário em mandado de segurança, de competência do Superior Tribunal de Justiça. Essa Corte, nesses casos, funciona como órgão jurisdicional de segunda instância, porque o recurso ordinário comporta viabilidade de alegação de questões infraconstitucionais e constitucionais. Não tendo a parte recorrente interposto o competente recurso ordinário, já que o acórdão de origem era denegatório da segurança pleiteada, é de ser obstado o conhecimento do recurso extraordinário, por incidência da Súmula 281(...). Do exposto, nego seguimento ao presente agravo”. (grifei)
+Ante o exposto, nego provimento ao agravo de instrumento (arts. 21, § 1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 11 de março de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
