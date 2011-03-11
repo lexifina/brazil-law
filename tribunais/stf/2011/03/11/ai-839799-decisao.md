@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“Agravo em execução. Nulidade do PAD: (I) realização da audiência em data diversa daquela para a qual foi o apenado intimado; (II) ausente data de notificação do apenado, impossível aferir se a intimação se deu dentro do prazo exigido pelo RDP, o qual é expresso ao estabelecer o prazo mínimo de cinco dias (...). Falta disciplinar afastada.
+Recurso provido. Por maioria” (fl. 19 – grifos nossos).
+3. No recurso extraordinário, o Agravante afirma que o Tribunal a quo, “ao reputar nulo o procedimento administrativo disciplinar que apurou a prática de falta grave pelo Recorrido, sob o argumento de que não foi observado o prazo mínimo de 5 dias entre a ciência da imputação e a sua oitiva na seara administrativa, acabou por contrariar o artigo 5º, inciso LV, da Constituição Federal” (fl. 66).
+Assevera ainda que “a decretação de nulidade depende, ainda, da ocorrência de prejuízo à defesa, conforme disposto no artigo 563 do Código de Processo Penal” (fl. 68).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a inexistência de ofensa constitucional direta (fl. 16).
+O Agravante alega que estariam presentes os pressupostos de admissibilidade do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República, se dependente do exame da legislação infraconstitucional – na espécie vertente, do Código de Processo Penal e da Lei de Execução Penal -, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DESTE SUPREMO TRIBUNAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência deste Supremo Tribunal firmou-se no sentido de que "Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada". Precedentes. 2. O Supremo Tribunal Federal firmou jurisprudência no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República. Precedentes. 3. Agravo regimental desprovido” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2008 – grifos nossos).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CRIMINAL. HOMICÍDIO. NULIDADE DO JULGAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. 3. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de violação meramente reflexa do texto da Constituição. Agravo regimental a que se nega provimento” (AI 757.450-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 4.12.2009 – grifos nossos).
+7. Nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 38 da Lei 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 11 de março de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
