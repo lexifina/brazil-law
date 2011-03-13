@@ -1,0 +1,20 @@
+Decisão: Trata-se de ação declaratória e condenatória de cobrança de diferenças do abono variável, com pedido de tutela antecipada, ajuizada por João Oreste Dalazen, Ministro do Tribunal Superior do Trabalho, contra a União Federal.
+    Em síntese, o autor requer o pagamento das diferenças devidas, a título de abono variável, e reflexas diferenças de verbas pagas, como 13º salário e férias indenizadas, cuja base de cálculo foi alterada pelo abono previsto na Lei n. 9.655/1998, com expressa observância do valor do subsídio fixado pela Lei n. 11.143/2005, como base de cálculo para apuração dessas diferenças, deduzindo-se os valores recebidos pelo autor, em razão da antecipação prevista na Lei. n. 10.474/2002.
+    O Juízo da 15ª Vara Cível da Seção Judiciária do Distrito Federal indeferiu o pedido de antecipação da tutela, com fundamento na Lei n. 9.494/97. (fls. 68-69)
+    Posteriormente declarou-se a incompetência da Justiça Federal para o processamento do feito, determinando a remessa dos autos ao Supremo Tribunal Federal. (fls. 108-114)
+    Em 4.5.2010, os autos foram autuados como ação originária neste Tribunal.
+    A União manifestou-se pelo indeferimento da liminar. (fls. 124-132)
+    Decido.
+    Primeiramente, reconheço a competência do Supremo Tribunal Federal para julgar a presente ação, uma vez que se trata de matéria de interesse privativo de toda a magistratura nacional (art. 102, I, “n”, da CF/88).
+    Quanto ao mérito, esta Corte já pacificou entendimento no sentido de que a fixação do valor correspondente ao abono variável, instituído pela Lei n. 9.655/1998, veio a ser efetivada com a edição da Lei n. 10.474/2002, que o fez de forma integral e definitiva. Encerradas as parcelas e quitados os débitos reconhecidos por essa lei, não subsistem quaisquer valores pendentes de pagamento. Nesse sentido:
+    “AÇÃO ORIGINÁRIA. MAGISTRATURA. ABONO VARIÁVEL. FIXAÇÃO DE SUBSÍDIO. INTERESSE ESPECÍFICO DA MAGISTRATURA. COMPETÊNCIA DO STF. ART. 102, I, n, DA CONSTITUIÇÃO FEDERAL. LEI N. 10.474/2002. PARÂMETRO DE CÁLCULO. LEI N. 9.655/98. EC 19/98. PAGAMENTO DO BENEFÍCIO E EXAURIMENTO DOS EFEITOS. LEI N. 11.143/2005. NÃO-INCIDÊNCIA. PRECEDENTES. 1. Interesse peculiar da magistratura. Competência do Supremo Tribunal Federal para o julgamento da causa (art. 102, I, n, da Constituição Federal). Precedentes. 2. A fixação do valor correspondente ao abono variável, instituído pela Lei n. 9.655/98, somente veio a ser efetivada em 2002, com a edição da Lei n. 10.474/02. 3. A Lei n. 10.474/2002 fixou o valor necessário para a concretização do abono variável de forma integral e definitiva. Inviável a pretensão de se fazer incidir legislação posterior, de 2005, fixadora de novo subsídio. Precedentes. 4. Improcedência da ação”.
+(AO 1510, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe 30.05.2011)
+    “AÇÃO ORIGINÁRIA. ABONO VARIÁVEL. INTERESSE DE TODA A MAGISTRATURA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ART. 102, INC. I, ALÍNEA N, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. 2. DIFERENÇAS SALARIAIS. BASE DE CÁLCULO. LEI Nº 9.655/1998. COBRANÇA DE DIFERENÇAS COM BASE NO VALOR ESTABELECIDO PELA LEI N. 11.143/2005. A FIXAÇÃO DO SUBSÍDIO FOI DETERMINADA PELA LEI N. 10.474/2002, E NÃO PELA LEI Nº 11.143/2005. PRECEDENTES: AO 1.157/PI E AO 1.412/SP. AÇÃO JULGADA IMPROCEDENTE. 3. EM QUESTÃO DE ORDEM, O PLENÁRIO RESOLVEU, POR UNANIMIDADE, AUTORIZAR O RELATOR A DECIDIR MONOCRATICAMENTE PEDIDOS QUE POSTULEM O RECEBIMENTO DE ABONO VARIÁVEL, COM EFEITOS RETROATIVOS A 1º.1.1998, ATÉ A DATA EM QUE FOI FIXADO O VALOR DOS SUBSÍDIOS DOS MINISTROS DO SUPREMO TRIBUNAL FEDERAL, PELA LEI N. 11.143/2005”.
+(AO 1524, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 18.06.2010)
+    Cito ainda: AO 1412, Rel. Min. Menezes Direito, Tribunal Pleno, DJe 13.02.2009; e AO 1157, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJ 16.03.2007.
+    Ante o exposto, nego seguimento à ação originária, prejudicada a liminar.
+    Publique-se.
+    Brasília, 13 de junho de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
