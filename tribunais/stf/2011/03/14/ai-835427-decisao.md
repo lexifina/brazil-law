@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. NECESSIDADE DE REEXAME DE FATOS E PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça de Goiás:
+“O magistrado a quo julgou procedente o pedido feito pelo Ministério Público e determinou a desocupação da área pública localizada entre as Ruas C-121 e C-105, no Jardim América - que servia de residência de Maria Auxiliadora Cardoso e sua família, há mais de trinta anos - e a inclusão da família em projeto habitacional em Goiânia.
+Determinou, ainda, a execução de obra pública na área invadida, concedendo à administração pública municipal o prazo de 30 (trinta) dias, a partir do trânsito em julgado da sentença, para apresentar o Plano de Execução a fim de [dar] cumprimento dessa decisão, sob pena de pagamento de multa diária a ser fixada.
+(...) Sendo notória a deficiência dos serviços de saúde, educação, cultura, moradia etc, evidentemente mais vinculados, de modo direto, à noção de dignidade humana, parece-me carecer de legitimidade ao julgador obrigar o poder executivo à proceder no sentido de urbanizar determinado local, em detrimento de outra prioridades desta capital, sem considerar sequer as questões orçamentárias pertinentes, ou mesmo, do ponto de vista global, a real necessidade de urbanização daquele lugar quando se sabe que inúmeros outros pontos da cidade também necessitam de melhorias de similar natureza.
+Portanto, no caso em epígrafe, mormente porque, no fundo, a pretensão não se relaciona a direito fundamental da pessoa humana e nem visa afastar manifesta violação ao interesse público, tenho que a deliberação acerca da remoção dos ocupantes de área pública municipal, inserção da família em programa de habitação popular e a urbanização do local insere-se na esfera de oportunidade e conveniência do administrador público. Afinal, omissão deste quanto às providências requeridas, não evidenciam, na espécie, gravidade tal que implique necessidade de intervenção judicial” (fls. 214-217 - grifos nossos)”.
+3. No recurso extraordinário, o Agravante afirma que o Tribunal a quo teria contrariado os arts. 1º, inc. III, e 2º da Constituição da República.
+Assevera que:
+“O argumento de que carência em outros setores, como saúde, educação, etc. impede o Poder Público da capital goiana de cuidar dos imóveis municipais é ilegal e inaceitável.
+(...) A perda de imóvel pertencente à coletividade, para um só grupo de indivíduos, tem notória e indiscutível carga de relevância, gravidade e manifesta violação ao interesse público (...).
+Ao desprezar a invasão e apossamento de terreno público do Município que gerencia, o administrador local extrapolou o âmbito da discricionariedade e adentrou a seara da negligência com o erário, conduta inegavelmente ilegal, que requer a intervenção pró-ativa do Judiciário (...).
+O MM. Juiz considerou, sim, as limitações do Município no cumprimento da obrigação de fazer, pois não lhe impôs o prazo ou a forma para tanto, deixando ao seu critério quando e como reaver o bem público, o que deveria comunicar por meio de plano de execução” (fls. 226-228 - grifos nossos).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 279 do Supremo Tribunal (fls. 266-267).
+O Agravante sustenta a presença dos requisitos de admissibilidade do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. O Tribunal de origem afirmou expressamente que não estariam demonstradas a necessidade, a relevância e a prioridade das ações estatais objeto da ação civil pública ajuizada pelo Agravante nem a alegada negligência do Agravado, que não poderia ser judicialmente compelido a realizar aquelas ações.
+Para se concluir de modo diverso, seria imprescindível o reexame de fatos e provas, o que é vedado pela Súmula n. 279 do Supremo Tribunal. Nesse sentido:
+“CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO CIVIL E NO CÓDIGO DE DEFESA DO CONSUMIDOR. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 687.967-ED, de minha relatoria, Primeira Turma, DJe 14.11.2008 – grifos nossos).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Reexame de fatos e provas. Aplicação da súmula nº 279. Agravo regimental improvido. Não cabe recurso extraordinário que tenha por objeto o simples reexame de fatos e provas. 2. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte. 3. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (RE 330.907-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 9.5.2008 – grifos nossos).
+7. Nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 14 de março de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
