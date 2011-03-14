@@ -1,0 +1,16 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário interposto contra acórdão Tribunal de Justiça do Estado de Minas Gerais ementado nos seguintes termos:
+“DIREITO ADMINISTRATIVO - REENQUADRAMENTO – VENCIMENTO – REDUÇÃO – ÔNUS DA PROVA – IMPROCEDÊNCIA DO PEDIDO. A administração pública pode alterar o regime remuneratório do servidor público. Todavia, a teor do artigo 37, inciso XV da Constituição Federal, o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis. Não existe direito adquirido a qualquer regime ou forma de remuneração, existe sim direito à preservação do valor do salário, em virtude do princípio da irredutibilidade dos vencimentos, sendo vedado que lei posterior retroaja para determinar a redução da remuneração do servidor. Se a autora não fez prova bastante do fato constitutivo do seu suposto direito, como determina o art. 333, I do CPC, deve o pedido ser julgado improcedente”. (fl. 27)
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a” e “c”, da Constituição Federal, a recorrente sustenta a repercussão geral da matéria deduzida no recurso. No mérito, alega que houve ofensa ao 5º, XXXVI, da Constituição Federal.
+A agravante argumenta, em síntese, violação ao direito adquirido, haja vista que “(...) sua reclassificação deveria se dar no último posto da carreira, respeitados seus títulos, grau de escolaridade, especializações e conquistas alcançadas ao longo do exercício profissional”. Ademais, sustenta a coisa julgada ao fundamento de que a controvérsia em relação a existência da decisão judicial que reconheceu o direito da recorrente de se aposentar no último posto da carreira sequer foi contestada pelo Estado o que a tornaria verdade no mundo jurídico.
+Decido.
+Não assiste razão à agravante.
+Na espécie, o acórdão recorrido está em sintonia com a jurisprudência do Supremo Tribunal Federal que firmou o entendimento de que o servidor público não tem direito adquirido a regime jurídico, sendo possível seu reenquadramento em outro nível da carreira, ainda que tenha sido aposentado no último nível desta, desde que preservada a irredutibilidade de vencimentos.
+Nesse sentido: AI-AgR 720.887, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 5.2.2010; AI-AgR 633.501, de minha relatoria, Segunda Turma, DJe 18.4.2008; AI-AgR 603.036, de minha relatoria, Segunda Turma, DJe 28.9.2007 e AI-AgR 703.865, Rel. Min. Ellen Gracie, Segunda Turma, DJe 11.12.2009, este último com acórdão assim ementado:
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. RECLASSIFICAÇÃO. DIREITO ADQUIRIDO A REGIME JURÍDICO: INEXISTÊNCIA. PRECEDENTES. 1. O Supremo Tribunal Federal firmou sua jurisprudência no sentido de que servidor público não tem direito adquirido a regime jurídico, sendo possível seu reenquadramento em outro nível da carreira, ainda que tenha sido aposentado no último nível desta. 2. Agravo regimental improvido”.
+Não há, pois, o que prover quanto às alegações do agravante.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 14 de março de 2011
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
