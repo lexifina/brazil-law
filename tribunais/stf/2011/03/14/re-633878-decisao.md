@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a e c, da Constituição) interposto de acórdão em que o Tribunal de Justiça do Estado de Minas Gerais, cuja ementa transcrevo (fls. 140):
+“EMENTA: Ação ordinária de Revisão de Proventos. Equiparação de proventos- Oficiais de Registro Público- Escrivão Judicial. Não é possível a equiparação de proventos dos oficiais de Registro Público aos vencimentos de Escrivão Judicial, ao argumento de que quando da aposentadoria, suas contribuições previdenciárias eram regidas pela Lei 21.204/81, que determinava que seu estipêndio de contribuição seria igual ao do Escrivão Judicial. Tal dispositivo não autoriza a equiparação dos proventos de aposentadoria. Apelo improvido.”
+No recurso extraordinário, a parte aponta ofensa aos arts. 37, XV; 40, § 2º, § 8º; 201, V, § 3º, da Constituição. Os recorrentes, oficiais de registro público aposentados, alegam que, por terem contribuído com base no salário-de-contribuição de escrivão judicial, deveriam receber seus proventos no mesmo valor desse cargo.
+É o breve relatório.
+Decido.
+Pelo que se extrai das razões do acórdão recorrido, o Tribunal de origem decidiu a questão com base unicamente na interpretação das normas locais. Transcrevo (fls. 142-143):
+“Na sentença, o ilustre Juiz de primeiro grau, em síntese discorreu que a contribuição previdenciária servia tão somente para fins de assistência do IPSEMG, nos termos da Lei 21.204/81, e não como formação de fundo para fixação de proventos da aposentadoria, não podendo, assim, se equiparar ao Escrivão Judicial apenas porque contribuía para o sistema previdenciário assistencial no mesmo valor deste. Por fim, asseverou que admitir os proventos recebidos pelos Autores que ocupavam o cargo de Oficial de Registro seja igual ao valor dos vencimentos de um Escrivão Judicial, é admitir a equiparação destas remunerações, em confronto com o art. 37, XIII da CF.
+Data venia, parece-me que o douto magistrado a quo deu acertado desfecho à questão sob exame.
+Segundo, depreende-se das razões expendidas nos autos, finca-se a pretensão dos Apelantes nas normas prescritas no art. 32 da Lei 11.660/94, e no art. 3º, caput, c/c o § 1º e inciso I, da Lei 21.204/81:
+Art. 32 da Lei 11.660- Os proventos do servidor inativo do foro extrajudicial a que se refere o art. 99 da Lei 11.050, de 19 de janeiro de 1993, passam a ser ajustados de acordo com a base de cálculo constante no Anexo IX desta lei, acrescidos dos adicionais por tempo de serviço.
+Art. 3º, da Lei 21.204/81- A contribuição obrigatória e a taxa de assistência são fixadas, respectivamente, em 5% (cinco por cento) e 2% (dois por cento) do estipêndio-de-contribuição, nos termos das Leis nºs 1.195, de 23 de dezembro de 1954, 1.587, de 15 de janeiro de 1957, e 7.286, de 3 de julho de 1978.
+§ 1º- o estipêndio de contribuição, observada a entrância da comarca em que for lotado o servidor, será equivalente ao nível de vencimentos dos cargos de:
+Inciso I- Escrivão Judicial, para os ocupantes dos cargos de Escrivão, Tabelião, Oficial de Registro Público, Distribuidor, Contador, Partidor, Depositário Público e Tesoureiro.
+Os Apelantes, diante destas normas, estão convencidos de que o Estado estaria obrigado a pagar-lhes os proventos equivalentes à remuneração percebida pelo Escrivão Judicial. Entretanto, para que o Estado fosse obrigado a equiparar os proventos dos Autores/Apelantes na qualidade de Oficiais de Registro Público aposentados, aos vencimentos de Escrivão Judicial, seria necessário que as disposições citadas, em que se basearam, fossem expressos, não só ao estipêndio de contribuição, mas também quanto à igualdade dos proventos propriamente ditos.”
+Na mesma perspectiva, seguiram os recorrentes. Não obstante a indicação de dispositivos constitucionais, a peça recursal apenas confronta normas locais. Assim, a fundamentação do recurso extraordinário impede a exata compreensão da controvérsia, impondo-se a aplicação da Súmula 284 do Supremo Tribunal Federal.
+Portanto, a análise das questões constitucionais tal como suscitadas remete à interpretação de normas de direito local, de modo que é inviável o recurso extraordinário, ante a vedação contida na Súmula 280 do Supremo Tribunal Federal.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 14 de março de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
