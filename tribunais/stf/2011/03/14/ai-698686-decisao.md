@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão de Turma Recursal de Juizado Especial que manteve a sentença que julgara improcedente pedido de condenação da agravada a obrigação de fazer, consistente no fornecimento regular de água à agravante.
+No recurso extraordinário, alega-se, preliminarmente, violação do art. 93, IX; no mérito, sustenta-se afronta aos arts. 1º, III, 3º, I, II, III e IV, 5º, X, XXXII, LV, 37, §6º, 170, V, 175, parágrafo único, II e IV, da Constituição federal.
+Inexiste a alegada ofensa ao art. 93, IX, da Constituição, pois o acórdão recorrido, ao julgar o recurso interposto, inequivocamente prestou jurisdição, em observância aos princípios do contraditório e da ampla defesa, e está devidamente fundamentado, ainda que com sua fundamentação não concorde o ora agravante. Nesse sentido: AI 651.364-AgR (rel. min. Menezes Direito, DJ de 26.09.2008); AI 453.483-AgR (rel. min. Marco Aurélio, DJ de 08.06.2007); AI 624.713-ED (rel. min. Cármen Lúcia, DJ de 31.01.2008); AI 649.140-AgR (rel. min. Eros Grau, DJ de 17.08.2007).
+Ademais, o recurso extraordinário, ao sustentar que o acórdão recorrido ofende o preceito dos artigos 1º, III, 3º, I, II, III e IV, 5º, X, XXXII, LV, 37, §6º, 170, V, 175, parágrafo único, II e IV, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta do recurso inominado (fls. 41-44), deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ 15.09.2000).
+Ainda se superado esse óbice, a análise das questões constitucionais suscitadas implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao presente recurso.
+Publique-se.
+Brasília, 14 de março de 2011.
+JOAQUIM BARBOSA
+Relator
