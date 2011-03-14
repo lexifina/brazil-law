@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa tem o seguinte teor:
+“ AÇÃO DECLARATÓRIA DE DIREITO ACIONÁRIO CUMULADA COM RESTITUIÇÃO DE VALORES PAGOS E PRECEITO COMINATÓRIO – COMPETÊNCIA DESTA CÂMARA FIXADA PELO ÓRGÃO ESPECIAL DESTA CORTE - AGRAVO RETIDO - PRESCRIÇÃO - NÃO OCORRÊNCIA - DIREITO PESSOAL - CCB/2002, ARTS. 205 E 2.028 - PRAZO DECENAL QUE SE INICIA COM A ENTRADA EM VIGOR DO CÓDIGO CIVIL DE 2002 – PRELIMINARES - CARÊNCIA DE AÇÃO - INEXISTÊNCIA - A OPÇÃO DE CONVERTER O DIREITO DE USO DE LINHA TELEFÔNICA EM AÇÕES É UM DOS OBJETOS DA PRESENTE LIDE E NÃO SUA CONDIÇÃO - CERCEAMENTO DE DEFESA - NÃO CONFIGURAÇÃO - IRRELEVÂNCIA E DESCABIMENTO DAS PROVAS PRETENDIDAS - MATÉRIA ESSENCIALMENTE DE DIREITO – MÉRITO - DIREITO À CONVERSÃO DO DIREITO DE USO DOS TERMINAIS TELEFÔNICOS EM DIREITO DE PARTICIPAÇÃO ACIONÁRIA - INTELIGÊNCIA DAS LEIS MUNICIPAIS Nº 6.419/95 E 6.666/96 - OBRIGAÇÃO DE ENTREGA DAS AÇÕES PREFERENCIAIS CLASSE 'A' AOS TITULARES DO DIREITO DE USO QUE ASSIM OPTAREM - QUANTUM DAS AÇÕES A SER DETERMINADO POR PERÍCIA, EM LIQUIDAÇÃO POR ARBITRAMENTO.
+AGRAVO RETIDO E APELAÇÃO CONHECIDOS EM PARTE E, NAS PARTES CONHECIDAS, AMBOS DESPROVIDOS.” (Fls. 291)
+No recurso extraordinário, a ora agravante alega ofensa ao art. 5º, XXXVI e LV; e 37, XIX, da Carta Magna.
+É inviável o recurso.
+No que concerne à alegação de cerceamento de defesa, o Tribunal a quo decidiu a causa com base na interpretação de normas do Código de Processo Civil que disciplinam o julgamento antecipado da lide, sendo que eventual ofensa à Constituição, se existente, seria indireta ou reflexa, hipótese em que não se admite o recurso extraordinário. Nesse sentido: AI 663.283-AgR (rel. min. Dias Toffoli, Primeira Turma, DJe de 22.10.2010); AI 587.873-AgR (rel. min. Eros Grau, Segunda Turma, DJe de 11.06.2010); AI 752.176-AgR (rel. min. Celso de Mello, Segunda Turma, DJe de 20.11.2009), entre outros.
+Quanto à conversão do direito de uso de linha telefônica em participação acionária, o Juízo a quo decidiu a questão com base nas Leis municipais 6.419/1995 e 6.666/1996. Assim, o tema debatido nos autos está adstrito à interpretação de direito local, o que inviabiliza a abertura da via extraordinária, ante o óbice contido na Súmula 280 do STF.
+Nesse sentido: AI 767.628 (rel. min. Ricardo Lewandowski, DJe de 20.08.201) e AI 765.755 (rel. min. Cármen Lúcia, DJe de 19.08.2010).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 14 de março de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
