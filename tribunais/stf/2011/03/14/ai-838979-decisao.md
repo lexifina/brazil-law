@@ -1,0 +1,16 @@
+1.  A matéria tratada no recurso extraordinário que se pretende ver conhecido por esta Corte foi objeto de exame de existência de repercussão geral no AI 757.244, com a seguinte manifestação do seu relator:
+“CONTRATAÇÃO DE EMPREGADO PELA ADMINISTRAÇÃO PÚBLICA SEM A PRÉVIA REALIZAÇÃO DE CONCURSO PÚBLICO. NULIDADE. EFEITOS TRABALHISTAS. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL.
+Cuida-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, interposto com fundamento na alínea a do inciso III do art. 102 da Magna Carta Federal, contra acórdão do Tribunal Superior do Trabalho. Acórdão assim ementado (fls. 83):
+‘RECURSO DE REVISTA. ENTE PÚBLICO. RELAÇÃO DE EMPREGO. NULIDADE. EFEITOS . Em caso de nulidade do contrato celebrado com ente público, em razão da inobservância do requisito da prévia aprovação em concurso público, a parte reclamante, além da contraprestação pactuada, em relação ao número de horas trabalhadas, respeitado o salário mínimo/hora, faz jus ainda à parcela relativa ao FGTS. Inteligência da Súmula nº 363/TST. Recurso conhecido e parcialmente provido.’
+2. Pois bem, em sede preliminar, a parte recorrente sustenta que a questão debatida se orna de repercussão geral. No mérito, afirma que foram violados os incisos LIV e LV do art. 5º; o inciso II e os §§ 2º e 6º do art. 37; bem como o inciso IX do art. 93, todos da Constituição Federal.
+3. Feito esse breve resumo da causa, passo a me manifestar. De saída, anoto que, no julgamento do RE 596.478-RG, sob a relatoria da ministra Ellen Gracie, o Supremo Tribunal Federal reconheceu a presença de repercussão geral na questão alusiva à constitucionalidade do recolhimento do FGTS nos casos de contratação de pessoal por entidades da Administração Pública sem concurso público (art. 19-A da Lei 8.036/90, incluído pela MP 2164-41/2001).
+4. Ora, aqui, o de que se cuida é saber se a contratação sem prévia aprovação em concurso público gera efeitos trabalhistas outros, que não o direito à contraprestação pelos dias trabalhados. Tema que já passou pelo crivo desta nossa Corte (AIs 322.524-AgR, sob a relatoria do ministro Celso de Mello; 361.878-AgR, sob a relatoria do ministro Sepúlveda Pertence; 501.901-AgR, de minha relatoria; e 680.939-AgR, sob a relatoria do ministro Eros Grau, entre outros).
+5. Trata-se de questão que ultrapassa os interesses subjetivos das partes, sendo relevante sob os pontos de vista econômico, político, social e jurídico. Até porque a tese a ser fixada (ou reafirmada) pelo Supremo Tribunal Federal será aplicada a numerosas ações ajuizadas perante a Justiça do Trabalho.
+6. Ante o exposto, manifesto-me pela configuração do requisito da repercussão geral.
+Submeto a matéria ao conhecimento dos demais ministros do Supremo Tribunal Federal (art. 323 do RI/STF)”.
+Dessa forma, nos casos de matérias submetidas ao Plenário para a análise da existência de repercussão geral, é possível, nos termos do art. 328 do RISTF, a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 543-B do CPC.
+2.  Assim, determino a devolução dos presentes autos à Corte de origem para observância do citado art. 543-B do CPC.
+Publique-se.
+Brasília, 14 de março de 2011.
+Ministra Ellen Gracie
+Relatora
