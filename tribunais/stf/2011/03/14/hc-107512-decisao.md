@@ -1,0 +1,14 @@
+1.  Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu pedido de liminar do writ anteriormente aforado perante o Superior Tribunal de Justiça (HC 194.825/MG).
+ Narra a inicial que o paciente foi condenado à pena de 1 ano e 8 meses de reclusão pela prática do crime previsto no art. 33, § 4º, da Lei 11.343/06.
+ A defesa impetrou habeas corpus ao Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem pleiteada. Após, impetrou-se o HC 194.825/MG ao Superior Tribunal de Justiça, que, mediante decisão proferida pelo eminente Ministro Felix Fischer, indeferiu o pedido de liminar.
+ Alega a impetrante, em síntese: a) possibilidade de abrandamento da Súmula 691/STF; b) substituição da pena privativa de liberdade por restritiva de direitos; c) incompetência do Juiz da Vara de Execução Criminal, que se retratou da decisão que apreciou pedido de substituição da pena; e) ilegalidade do art. 44 da Lei 11.343/06, que veda a concessão de liberdade provisória nos crimes de tráfico de drogas.
+ Requer a concessão de provimento liminar, para que se substitua a pena do paciente por restritiva de direitos.
+2.  A decisão impugnada pelo presente habeas corpus, da lavra do Ministro Felix Fischer, assentou que “os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que possui caráter eminentemente satisfativo, devendo ser oportunamente analisado pelo Colegiado, após devida instrução dos autos”.
+3.  Vale frisar que o rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+4.  Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de supressão de instância.
+5.  Ademais, nos termos dos arts. 5º, XLIII, da Constituição Federal, e 44, caput, da Lei 11.343/06, o crime de tráfico ilícito de drogas não admite a concessão de liberdade provisória (HC 98.548, rel. Min. Cármen Lúcia, DJe 11.12.2009; HC 104.155, rel. Min. Ricardo Lewandowski, DJe 3.11.2010; HC 102.715, rel. Min. Dias Toffoli, DJe 22.10.2010; e HC 102.558, rel. Min. Joaquim Barbosa, DJe 12.3.2010).
+6.  Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
+Brasília, 14 de março de 2011.
+Ministra Ellen Gracie
+Relatora
