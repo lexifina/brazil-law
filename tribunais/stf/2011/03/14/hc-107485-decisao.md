@@ -1,0 +1,19 @@
+1.  Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu pedido de liminar no habeas corpus anteriormente aforado perante o Superior Tribunal de Justiça sob o fundamento de inadmissibilidade do writ contra indeferimento do pedido de liminar na Corte Estadual.
+O paciente foi indiciado pela suposta prática dos crimes tipificados nos arts. 121, § 3º, e 129, § 6º, do Código Penal. Além do indiciamento, o Juiz de Direito da 2ª Vara Criminal da Comarca de Jaguariúna/SP determinou a realização de diligências para a conclusão do inquérito policial.
+Contra tal situação impetrou-se habeas corpus ao Tribunal de Justiça do Estado de São Paulo, que indeferiu o pedido de liminar. Irresignada, a defesa impetrou o HC 194.771/SP ao Superior Tribunal de Justiça. O pedido de liminar foi indeferido pelo eminente Ministro Felix Fischer.
+Alegam os impetrantes, em síntese: a) possibilidade de abrandamento da Súmula 691/STF; b) falta de justa causa; c) indiciamento ilegal do paciente.
+Requerem a concessão de provimento liminar, para determinar a sustação da ordem de indiciamento do paciente no inquérito policial 340/09. No mérito, solicita o reconhecimento da falta de justa causa para o indiciamento do paciente.
+2.  A decisão impugnada pelo presente habeas corpus, da lavra do Ministro Felix Fischer, do Superior Tribunal de Justiça, foi proferida nos seguintes termos:
+“Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. De fato, ressalvadas hipóteses excepcionais, felizmente raras, descabe o instrumento heróico em situação como a presente, sob pena de supressão de instância.
+Assim o entendimento do Pretório Excelso: HC 80.288/RJ, Rel. Min. Carlos Velloso, DJU de 02/08/2000; HC 76.347/MS, 1ª Turma, Rel. Min. Moreira Alves, DJU de 08/05/98; HC 79.748/RJ, 2ª Turma, Rel. Min. Celso de Mello, DJU de 23/06/2000.
+Da mesma forma, nesta Corte: HC 43.606/PB, 6ª Turma, Rel. Min. Hélio Quaglia Barbosa, DJU de 12/09/2005; HC 42.832/ES, 5ª Turma, Rel. Min. Gilson Dipp, DJU de 29/08/2005; HC 26.272/SP, 6ª Turma, Rel. Min. Hamilton Carvalhido, DJU de 11/04/2005; HC 38.440/SP, 5ª Turma, de minha relatoria, DJU de 14/03/2005.
+A matéria, inclusive, já se encontra sumulada: ‘Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão de Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar’ (Súmula nº 691/STF).
+Denego, pois, a pretensão liminar”.
+Com efeito, o ato impugnado encampou orientação jurisprudencial pacificada no âmbito do STJ no sentido do não-cabimento do writ contra indeferimento de pedido liminar em outro habeas corpus, sob pena de supressão de instância.
+3.  Vale frisar, portanto, que o rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+4.  Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de dupla supressão de instância.
+5.  Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
+Brasília, 14 de março de 2011.
+Ministra Ellen Gracie
+Relatora
