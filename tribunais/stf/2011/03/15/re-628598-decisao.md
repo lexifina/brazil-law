@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário interposto contra acórdão que afastou a cobrança de IPTU relativo a imóvel pertencente à União, com base na imunidade tributária recíproca (art. 150, VI, a, da CF), bem como julgou inconstitucionais a Taxa de Iluminação Pública (TIP) e a Taxa de Coleta de Lixo e de Limpeza Pública (TCLLP) instituídas pelo Município do Rio de Janeiro.
+No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação ao art. 150, VI, a, § 3º, da mesma Carta, sob o fundamento de que a imunidade recíproca não deve ser aplicada ao caso em questão, uma vez que não consta dos cadastros do Município que o imóvel é utilizado pela União e ela não conseguiu comprovar que o bem é vinculado às suas finalidades essenciais ou às delas decorrentes.
+Sustenta, ainda, o Recorrente afronta aos arts. 1º, 6º e 30, V, VI e VII da Carta Maior, ao não atribuir efeitos ex nunc à declaração de inconstitucionalidade das mencionadas taxas municipais.
+O recurso não merece acolhida.
+Em relação à alegação de contrariedade ao § 3º do art. 150 da Constituição ou a de utilização do imóvel para atividade privada ou em que haja o pagamento de preços ou tarifas, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ressalte-se, inclusive, que a recorrente afirmou em suas razões de apelação apresentada ao Tribunal a quo, que o imóvel a que se refere os autos trata-se de bem “sem nenhuma utilização, vale dizer, são terrenos baldios” (fl. 71).
+Outrossim, quanto aos arts. 1º, 6º e 30, V, VI e VII da CF, a tardia alegação de ofensa, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+Além disso, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, no que se refere à vinculação da utilização do imóvel às finalidades essenciais da União, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Por fim, observo os Ministros desta Corte, no RE 592.321/RJ, Rel. Min. Cezar Peluso, manifestaram-se pela inexistência de repercussão geral no que diz respeito à pretensão em atribuir efeitos prospectivos à declaração incidental de inconstitucionalidade de taxas municipais e do IPTU. Por oportuno, transcrevo a ementa do referido julgado:
+“RECURSO. Extraordinário. Inadmissibilidade. Tributo. IPTU. Taxas de Iluminação Pública e de Coleta de Lixo e Limpeza Pública. Alíquotas progressivas. Inconstitucionalidade reconhecida. Atribuição de efeitos prospectivos à decisão. Ausência de repercussão geral. Recurso não conhecido. Não apresenta repercussão geral recurso tendente a atribuir efeitos prospectivos (ex nunc) a declaração incidental de inconstitucionalidade”.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 15 de março de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
