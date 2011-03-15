@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE INCAPACIDADE PARA O TRABALHO – LAUDO PERICIAL CONCLUINDO PELA NÃO-INCAPACITÂNCIA PARA O TRABALHO – PRELIMINAR DE CERCEAMENTO DE DEFESA – AFASTADA – RECURSO IMPROVIDO. Embora o juiz não esteja adstrito ao laudo pericial, para não aceitar os seus termos, por força do sistema da persuasão racional, deve apresentar razões técnicas para refutá-lo” (fl. 182).
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa aos artigos 5º, LV; 93, IX; e 201, I, do texto constitucional.
+O recorrente alega, em síntese, cerceamento de defesa, pois a Defensoria Pública não teria sido intimada da realização da perícia. Aduz, ainda, a nulidade do exame pericial, posto que teria sido realizado por um único perito, que limitou-se a responder às perguntas elaboradas pelo INSS.
+Decido.
+O recurso não merece prosperar.
+Preliminarmente, quanto à alegação de ausência de fundamentação do acórdão recorrido, o Plenário desta Corte, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010, reconheceu a repercussão geral da questão posta, nos seguintes termos:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+Ultrapassa essa questão, melhor sorte não assiste ao recorrente quanto ao argumento de nulidade do exame pericial, pois o acórdão recorrido assim se manifestou quanto à prova produzida:
+“No caso presente, não se pode afirmar nada contra o perito ou contra a perícia, pois, para a elaboração do laudo o perito oficial teve contato com o periciado, para chegar ao resultado a que chegou, não assistindo razão ao autor em suas alegações de que a perícia tenha sido mal realizada.
+Como corolário de tal assertiva, a prova pericial tende a ser o elemento inquestionável destes autos, não devendo pairar sobre esta qualquer dúvida capaz de ilidi-la, já que não houve por parte do apelante nenhum argumento juridicamente sustentável de que a perícia efetuada contenha erro, incongruência ou omissão” (fl. 184).
+Para entender de forma diversa, faz-se imprescindível a análise dos fatos e provas constantes dos autos, providência vedada nos termos da Súmula 279 do STF. Evidencia-se, no presente caso, violação meramente reflexa à norma constitucional.
+Nesse sentido: AI-AgR 755.879, de minha relatoria, Segunda Turma, DJe 10.12.2010; RE-AgR 500.417, de minha relatoria, Segunda Turma, DJe 28.3.2008 e AI-AgR 645.038, de minha relatoria, Segunda Turma, DJe 28.3.2008, este último com acórdão assim ementado:
+“Agravo regimental em agravo de instrumento. 2. Recurso que não ataca um dos fundamentos da decisão agravada. Aplicação do art. 317, § 1o, do RISTF. Precedente. 3. Violação aos princípios da ampla defesa, do contraditório e do devido processo legal. Em regra, ofensa reflexa à Constituição Federal. Precedentes. 4. Agravo regimental a que se nega provimento”.
+Ademais, o acórdão recorrido não apreciou a questão relativa à ausência de intimação da Defensoria Pública para acompanhar a realização do exame pericial, nem foram opostos embargos de declaração para suprir eventual omissão. Nesse ponto, incide, pois as Súmulas 282 e 356 do STF.
+Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 15 de março de 2011.
+Ministro GILMAR MENDES
+Relator
