@@ -1,0 +1,18 @@
+1.  Trata-se de recurso extraordinário interposto de acórdão de cuja ementa destaco:
+“ PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ACORDO EXTRAJUDICIAL. DISCORDÂNCIA EXPRESSA MANIFESTADA EM JUÍZO. HOMOLOGAÇÃO JUDICIAL. SÚMULA Nº 01/STF. INAPLICABILIDADE ” (fl. 135).
+2.  A parte recorrente alega, em síntese, ofensa ao art. 5º, XXXVI, LIV e LV, da Constituição Federal e à Súmula Vinculante 1 (fls. 145-152).
+3.  Admitido o recurso na origem (fls. 161-162), subiram os autos.
+4.  Não merece prosperar o presente recurso, dado que o acórdão recorrido decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie. Assim, eventual ofensa à Constituição Federal seria indireta ou reflexa, o que elide o processamento do recurso extraordinário.
+Ademais, rever a decisão do Tribunal a quo, para concluir de modo diverso, implicaria o reexame de fatos e de provas, o que é vedado em via extraordinária (Súmula STF 279).
+5.  Observo, ainda, que o acórdão recorrido ponderou as circunstâncias do caso concreto para desconsiderar o termo de acordo, conforme consta do seguinte trecho do voto condutor do acórdão:
+“(...) o enunciado da Súmula Vinculante nº 1, do colendo Supremo Tribunal Federal, publicada no Diário da Justiça de 06/06/2007, na dicção de que “ofende a garantia constitucional do ato jurídico perfeito a decisão que, sem ponderar as circunstâncias do caso concreto, desconsidera a validez e a eficácia de acordo constante de termo de adesão instituído de adesão instituído pela Lei Complementar 110/2001”, não prejudica a convicção firmada no acórdão embargado, tendo em vista o conceito indeterminado que nela se estabeleceu, ao consignar como pressuposto de validade e eficácia de acordo firmado com amparo na LC 110/2001, a observância das circunstâncias do caso concreto”. E, como no caso em exame, foram devidamente ponderadas as circunstância do caso concreto, correto, assim, se me afigura o voto condutor do Acórdão recorrido, que desconsiderou o Termo de Acordo e de adesão, constante dos autos, pelas razões de fato e de direito que informam e sustentam o aludido voto.
+Acrescente-se, também, que, nos termos do artigo 842, última parte, do Código Civil, se a transação recair sobre direitos contestados em juízo, será feita por termo nos autos, assinados pelo transigentes e homologado pelo juiz, não caracterizando, portanto, violação ao ato jurídico perfeito (art. 5º, XXXVI, da Constituição Federal) a decisão que deixa de homologar o acordo extrajudicial, ante a expressa discordância de uma das partes com os seus termos, como na espécie dos autos” (fl. 132-133).
+ Verifico, portanto, a inexistência de ofensa a Súmula Vinculante 1.
+ Nesse sentido: RE 613.580/BA, rel. Min. Marco Aurélio, DJe 06.08.2010; RE 581.634/MG, rel. Min. Dias Toffoli, DJe 10.11.2010; RE 627.360/MG, rel. Min. Ricardo Lewandowski, DJe 13.8.2010; e RE 546.713-AgR/SC, rel. Min. Cármen Lúcia, 1ª Turma, DJe 18.9.2009, este último assim ementado:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDO DE GARANTIA DO TEMPO DE SERVIÇO. TERMO DE ADESÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+O Tribunal de origem analisou as particularidades do caso concreto. Inexistência de afronta ao disposto na Súmula Vinculante n. 1”.
+6.  Ante o exposto, com fundamento no art. 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 15 de março de 2011.
+Ministra Ellen Gracie
+Relatora
