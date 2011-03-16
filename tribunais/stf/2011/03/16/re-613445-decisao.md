@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a e c, da Constituição) contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais que considerou indevida pensão a viúvos sadios, cujas mortes das seguradas ocorreram antes da EC 20/1998.
+Transcrevo (fls. 136):
+“Ementa: PENSÃO POR MORTE DEFERIDA A VIÚVO - APELO - PROCEDÊNCIA - SENTENÇA REFORMADA - NECESSIDADE DE LEI ESPECÍFICA - FALECIMENTO DA SERVIDORA ANTES DA VIGÊNCIA DA LEI ESTADUAL Nº 13.455/2000. Partindo-se da premissa de que a inclusão dos maridos de servidoras públicas (ativas ou inativas) falecidas, como beneficiários de pensão, depende de lei específica e como a lei anterior - 9.380/86 - taxativamente, só conferia tal direito ao viúvo inválido, adota-se a data de início da vigência da Lei Estadual nº 13.455/00 como termo inicial do direito dos maridos válidos ao recebimento da pensão por morte da segurada do IPSEMG.”
+Insurge-se o recorrente, sob a alegação de ofensa aos arts. 5º, I e 201, V, da Constituição. Argumenta que a Constituição não distingue entre homens e mulheres e também não exige o requisito da invalidez.
+Decido.
+O Plenário do Supremo Tribunal Federal, no julgamento do RE 385.397-AgR , rel. min. Sepúlveda Pertence, DJ de 06.09.2007, analisando norma de lei estadual (Lei 9.380/86, art. 7º, I), aplicada no caso de servidora falecida antes da vigência da EC 20/1998, decidiu que a extensão de pensão por morte a viúvo sadio está de acordo com o art. 201, V, da Constituição:
+“I. Recurso extraordinário: descabimento. Ausência de prequestionamento do art. 5º, XXXVI, da Constituição Federal, tido por violado: incidência das Súmulas 282 e 356.
+II. Pensão por morte de servidora pública estadual, ocorrida antes da EC 20/98: cônjuge varão: exigência de requisito de invalidez que afronta o princípio da isonomia.
+1. Considerada a redação do artigo 40 da Constituição Federal antes da EC 20/98, em vigor na data do falecimento da servidora, que não faz remissão ao regime geral da previdência social, impossível a invocação tanto do texto do artigo 195, § 5º - exigência de fonte de custeio para a instituição de benefício -, quanto o do art. 201, V - inclusão automática do cônjuge, seja homem ou mulher, como beneficiário de pensão por morte.
+2. No texto anterior à EC 20/98, a Constituição se preocupou apenas em definir a correspondência entre o valor da pensão e a totalidade dos vencimentos ou proventos do servidor falecido, sem qualquer referência a outras questões, como, por exemplo os possíveis beneficiários da pensão por morte (Precedente: MS 21.540, Gallotti, RTJ 159/787).
+3. No entanto, a lei estadual mineira, violando o princípio da igualdade do artigo 5º, I, da Constituição, exige do marido, para que perceba a pensão por morte da mulher, um requisito - o da invalidez - que, não se presume em relação à viúva, e que não foi objeto do acórdão do RE 204.193, 30.5.2001, Carlos Velloso, DJ 31.10.2002.
+4. Nesse precedente, ficou evidenciado que o dado sociológico que se presume em favor da mulher é o da dependência econômica e não, a de invalidez, razão pela qual também não pode ela ser exigida do marido. Se a condição de invalidez revela, de modo inequívoco, a dependência econômica, a recíproca não é verdadeira; a condição de dependência econômica não implica declaração de invalidez.
+5. Agravo regimental provido, para conhecer do recurso extraordinário e negar-lhe provimento.
+Do exposto, conheço do recurso extraordinário e dou-lhe provimento, para incluir os recorrentes como beneficiários da pensão por morte das esposas seguradas. Ficam invertidos os ônus de sucumbência.
+Publique-se.
+Brasília, 16 de março de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
