@@ -1,0 +1,12 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão que não admitira recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado de Minas Gerais, que reconheceu à parte ora agravada a estabilidade excepcional prevista no art. 19 do Ato das Disposições Constitucionais Transitórias (ADCT), em decorrência do exercício da função de magistério em instituição pública.
+A parte agravante alega que referida estabilização não se aplicaria à hipótese, pois a prestação de serviço fora descontínua. Aponta violação ao artigo 19 do ADCT/88.
+Não prospera o recurso.
+Ao julgar recursos nos quais se cuidou da questão do alcance do benefício previsto no art. 19 do ADCT/88, esta Corte concluiu que interrupções no exercício da função de magistério não afastam o direito à estabilidade excepcional. Eis a ementa dos acórdãos:
+“ESTABILIDADE – SERVIDORES NÃO CONCURSADOS – TEMPO DE SERVIÇO – CARÁTER CONTINUADO – ALCANCE DO ARTIGO 19 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. Descabe ter como conflitante com o artigo 19 do Ato das Disposições Constitucionais Transitórias da Carta de 1988 provimento judicial em que se reconhece a estabilidade em hipótese na qual professor, ao término do ano letivo, era dispensado e recontratado tão logo iniciadas as aulas. Os princípios da continuidade, da realidade, da razoabilidade e da boa-fé obstaculizam defesa do Estado em torno das interrupções e, portanto, da ausência de prestação de serviços por cinco anos continuados de modo a impedir a aquisição da estabilidade”(RE 158.448, rel. min. Marco Aurélio, DJ 25.09.1998);
+“ EMENTA: CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO: ESTABILIDADE. C.F./88, ADCT, art. 19. I.- Prestação de serviço por mais de cinco anos, até 05.10.1988, data da promulgação da Constituição. Breves interrupções ocorreram no exercício das atividades de professor. Esses breves intervalos nas contratações, decorrentes mesmo da natureza do serviço (magistério), não descaracterizam o direito do servidor. Precedentes: RREE 158.448/MG, 257.580/MG e 218.323/SP, Min. Marco Aurélio; RREE 235.742/MG e 378.036-AgR/MG, Min. Carlos Velloso, "D.J." de 02.02.1999 e 24.10.2003. II.- RE conhecido e desprovido.” (RE 361.020–AgR, rel. para o acórdão min. Carlos Velloso, DJ 04.02.2005)
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 16 de março de 2011.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
