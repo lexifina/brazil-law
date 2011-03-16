@@ -1,0 +1,16 @@
+D ECIS Ã O: Trata-se de mandado de segurança, com pedido liminar, impetrado por Renato Antunes Borba, em face do Procurador-Geral da República, em razão de sua eliminação do concurso público para provimento de cargos do Ministério Público da União.
+Em síntese, o impetrante insurge-se contra a correção de sua prova discursiva.
+Assevera que interpôs recurso administrativo, mas não obteve êxito.
+Requer a concessão de medida liminar para determinar “que a Autoridade Coatora faça nova avaliação do quesito 2.3 da prova discursa, ou ainda, que o próprio Magistrado avalie a questão, em razão do notório conhecimento jurídico que possui”. No mérito pugna para “que seja feita nova avaliação do quesito 2.3 da prova discursa, que a Autoridade Coatora refaça o somatório das notas finais alcançadas pelo candidato nas provas objetivas e discursiva, acrescidas da nota correta e que proceda à correta classificação do candidato no certame”.
+Decido.
+Inicialmente, registre-se que esta ação possui as mesmas partes, a mesma causa de pedir e o mesmo pedido do MS 30.437, distribuído anteriormente à minha relatoria. Desse modo, configura-se, na hipótese, a ocorrência de litispendência.
+Ainda que assim não fosse, não assistira razão ao impetrante, uma vez que a questão central do mandado de segurança refere-se à possibilidade de o Poder Judiciário reexaminar o conteúdo das questões e os critérios de correção formulados pela banca examinadora.
+Nesses termos, é pacífica a jurisprudência desta Corte no sentido de que não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir a banca examinadora para esse fim. Confira-se:
+“CONCURSO PÚBLICO. PROCURADOR DA REPÚBLICA. PROVA OBJETIVA: MODIFICAÇÃO DO GABARITO PRELIMINAR. REPROVAÇÃO DE CANDIDATA DECORRENTE DA MODIFICAÇÃO DO GABARITO. ATRIBUIÇÕES DA BANCA EXAMINADORA. MÉRITO DAS QUESTÕES: IMPOSSIBILIDADE DE REVISÃO JUDICIAL. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. RECURSO AO QUAL SE NEGA PROVIMENTO. 1. A modificação de gabarito preliminar, anulando questões ou alterando a alternativa correta, em decorrência do julgamento de recursos apresentados por candidatos não importa em nulidade do concurso público se houver previsão no edital dessa modificação. 2. A ausência de previsão no edital do certame de interposição de novos recursos por candidatos prejudicados pela modificação do gabarito preliminar não contraria os princípios constitucionais do contraditório e da ampla defesa. 3. Não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora do concurso público para reexaminar os critérios de correção das provas e o conteúdo das questões formuladas (RE 268.244, Relator o Ministro Moreira Alves, Primeira Turma, DJ 30.6.2000; MS 21.176, Relator o Ministro Aldir Passarinho, Plenário, DJ 20.3.1992; RE 434.708, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 9.9.2005).”
+(MS 27260, Rel. Min. AYRES BRITTO, Rel.p/ Acórdão:  Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe 26.3.2010)
+Ante o exposto, nego seguimento ao mandado de segurança, prejudicado o pedido de medida liminar (art. 10 da Lei 12.016/09).
+Publique-se.
+Brasília, 16 de março de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
