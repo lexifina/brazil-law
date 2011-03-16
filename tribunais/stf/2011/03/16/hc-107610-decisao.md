@@ -1,0 +1,35 @@
+D ECIS Ã O:
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado por Bruno Cesar de Caires em favor de Roberto Gonçalves da Cruz, buscando a liberdade provisória do paciente.
+Aponta como autoridade coatora o Ministro Jorge Mussi, do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 186.445/SP, impetrado àquela Corte.
+Sustenta o impetrante, em síntese, o constrangimento ilegal imposto ao paciente, tendo em vista a falta de fundamentação apta a justificar a necessidade da medida constritiva, bem como a ausência dos pressupostos autorizadores da segregação cautelar, previstos no artigo 312 do Código de Processo Penal.
+Aduz, ainda, ser ele primário, de bons antecedentes, com residência fixa e trabalho lícito.
+Requer o deferimento da liminar para conceder ao paciente a liberdade provisória, permitindo a ele recorrer solto de sua condenação e, no mérito, pede a confirmação da liminar requerida.
+Examinados os autos, decido.
+Como visto, trata-se de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 do Supremo Tribunal Federal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do Relator que, em 'habeas corpus' requerido a tribunal superior, indefere a liminar”.
+É certo que a jurisprudência desta Suprema Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia, o que não ocorre na espécie.
+Transcrevo o teor daquela decisão:
+“Trata-se de habeas corpus com pedido de liminar impetrado em favor de ROBERTO GONÇALVES DA CRUZ contra acórdão da 11ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que denegou o Writ nº 990.10.256838-5, mantendo a decisão que indeferiu a liberdade provisória ao paciente, preso em flagrante no dia 6-3-2010, pela suposta prática do delito previsto no art. 33, caput, c/c 40, IV, da Lei nº 11.343/06.
+Sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto a decisão que manteve a custódia processual do agente seria carecedora de fundamentação suficiente para respaldar a medida de exceção, haja vista que teria se limitado a fazer menção genérica aos pressupostos autorizadores da prisão preventiva.
+Defende que a vedação prevista no art. 44 da Lei de Drogas seria inconstitucional por violação aos princípios da presunção de inocência e do devido processo legal, entendimento que encontraria respaldo em julgados do Supremo Tribunal Federal.
+Observa que o custodiado é primário, portador de bons antecedentes e possuidor de residência fixa e ocupação lícita.
+Requer, liminarmente e no mérito, seja deferida liberdade provisória ao paciente, assegurando-lhe o direito de aguardar solto o julgamento da ação penal.
+É o relatório.
+Inviável, ao menos nessa etapa, reconhecer-se o alegado constrangimento ilegal de que estaria sendo vítima o paciente, devendo a questão ser mais detalhadamente discutida e dirimida quando da apreciação e julgamento definitivo do writ, uma vez que, relativamente à pretendida liberdade provisória, verifica-se que a decisão colegiada encontra-se fundada também na vedação legal à concessão do benefício nos casos de flagrados no cometimento, em tese, do delito de tráfico de entorpecentes praticado na vigência da Lei n.º 11.343/06.
+A propósito, destaque-se que a colenda Quinta Turma deste Superior Tribunal tem julgado possível, nessas hipóteses, o indeferimento de soltura clausulada com base apenas na referida proibição, constante no art. 44 da novel Lei Antitóxicos, mesmo após a edição e entrada em vigor da Lei n.º 11.464/2007, dada a inafiançabilidade de tal infração.
+Nesse sentido vide o julgamento proferido nos autos do HC nº 86.390/GO, rel. Min. FELIX FISCHER, Quinta Turma, j. Em 8-11-2007. Nesse contexto, ausente, a princípio, ilegalidade a ser sanada de plano, merece a questão levantada ser melhor discutida quando da apreciação e julgamento do mérito do presente mandamus, até porque a motivação que dá suporte ao pedido liminar com este se confunde.
+Diante do exposto, indefiro a liminar.
+Solicitem-se informações ao Tribunal impetrado e à 26ª Vara Criminal da comarca de São Paulo.
+Após, encaminhem-se os autos ao Ministério Público Federal”.
+Na hipótese vertente, verifica-se, de forma evidenciada a inviabilidade do próprio conhecimento da presente impetração, pois não se constata situação de flagrante ilegalidade apta a ensejar o afastamento, excepcional, da Súmula nº 691 desta Suprema Corte. Pode e deve o magistrado, ao apreciar o pedido inicial, pautar-se no poder geral de cautela para buscar outros elementos formadores das razões de decidir além daqueles trazidos pela impetração, sem que isso caracterize constrangimento ilegal, abuso de poder ou teratologia.
+O descontentamento pela falta de êxito no pleito submetido ao Superior Tribunal de Justiça, ainda em exame precário e inicial, não pode ensejar o conhecimento deste writ, sob pena de supressão de instância e de grave violação das regras de competência.
+Nesse sentido, por exemplo:
+“COMPETÊNCIA CRIMINAL. Habeas corpus. Impetração contra decisão monocrática que, em habeas corpus requerido ao STJ, indeferiu liminar. Não ocorrência de flagrante constrangimento ilegal. Não conhecimento. Aplicação da súmula 691. Em princípio, não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere liminar, se o caso não é de flagrante constrangimento ilegal” (HC nº 100.600/SP, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 23/10/09);
+“HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO DOMICILIAR. SÚMULA 691 DO STF. INADEQUAÇÃO. ILEGALIDADE MANIFESTA. INOCORRÊNCIA. NÃO CONHECIMENTO. I - O indeferimento de liminar em habeas corpus pelo Superior Tribunal de Justiça encontra amparo na Súmula 691 do Supremo Tribunal Federal, que somente admite mitigação na presença de flagrante ilegalidade, abuso de poder ou teratologia. II - Incidência da mencionada Súmula, sob pena de dupla supressão de instância. III - Habeas corpus não conhecido” (HC nº 96.992/SE, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16/10/09).
+Ainda, na mesma linha, as seguintes decisões monocráticas: HC nº 101.290/RS, de minha relatoria, DJe de 6/11/09; HC nº 101.141/SP, Relator o Ministro Joaquim Barbosa, DJe 27/10/09; HC nº 101.112/GO, Relator o Ministro Ayres Britto, DJe de 23/10/09; e HC nº 101.062/SP, Relatora a Ministra Cármen Lúcia, DJe de 22/10/09, entre outros.
+Com essas considerações, entendendo não demonstrada, satisfatoriamente, nenhuma legalidade flagrante que justifique a superação do enunciado da Súmula nº 691 desta Suprema Corte, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar (art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 16 de março de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
