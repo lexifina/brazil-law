@@ -1,0 +1,14 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão que concluiu pela incidência de ICMS e IPI sobre importação de veículo por pessoa física para uso próprio.
+2.  Nas razões do RE, sustenta-se ofensa aos artigos 5º, XXXVI e LV, 93, IX , 146, III, a, 153, I e IV, e 155, I, b, e §2º, XII, a, todos da Constituição Federal; e 34, §5º, do ADCT.
+3.  Admitido o recurso extraordinário na origem, subiram os autos.
+4.  O Ministério Público Federal opinou pelo provimento do apelo extremo.
+5.  Assiste razão ao recorrente. O Supremo Tribunal Federal possui o entendimento consolidado no sentido de que não incide ICMS sobre importações realizadas por bens destinados ao consumo e ao ativo fixo, realizadas por pessoa física ou jurídica que não seja contribuinte habitual do referido imposto, antes da promulgação da Emenda Constitucional 33/2001. Essa orientação foi cristalizada na edição da Súmula STF 660, a qual estabelece o seguinte:
+“NÃO INCIDE ICMS NA IMPORTAÇÃO DE BENS POR PESSOA FÍSICA OU JURÍDICA QUE NÃO SEJA CONTRIBUINTE DO IMPOSTO.”
+ Nesse sentido, menciono os seguintes julgados: RE 375.311/RS, rel. Min. Joaquim Barbosa, DJe 11.12.2009; RE 546.791/PA, rel. Min. Ayres Britto, DJe 09.02.2010; RE 611.164/RJ, rel. Min. Eros Grau, DJe 12.05.2010; RE 612.771/SP, rel. Min. Gilmar Mendes, DJe 05.08.2010; e RE 173.873-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 16.10.2009, cujo acórdão está assim ementado:
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL. CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO SOBRE OPERAÇÕES DE CIRCULAÇÃO DE MERCADORIAS - ICMS. INCIDÊNCIA. OPERAÇÃO DE IMPORTAÇÃO ANTERIOR À VIGÊNCIA DA EMENDA CONSTITUCIONAL 33/2001. PESSOA FÍSICA. A teor da Súmula 660/STF, "não incide ICMS na importação de bens por pessoa física ou jurídica que não seja contribuinte do imposto". Agravo regimental ao qual se nega provimento.”
+ Ademais, a jurisprudência desta Corte também é favorável ao recorrente no tocante a incidência do IPI sobre importação de veículo para uso próprio. O Supremo Tribunal Federal possui entendimento consolidado no sentido de que não incide IPI sobre veículo importado por pessoa física não-contribuinte habitual do referido imposto, sob pena de violação do princípio da não-cumulatividade. Nesse sentido, menciono o RE 255.682-AgR/RS, rel. Min. Carlos Velloso, 2ª Turma, DJ 10.02.2006; RE 501.773-AgR/SP, rel. Min. Eros Grau, 2ª Turma, DJe 15.08.2008; e RE 255.090-AgR/RS, rel. Min. Ayres Britto, 2ª Turma, DJe 08.10.2010.
+6.  Ante o exposto, com fundamento no art. 557, § 1º-A do CPC, dou provimento ao recurso extraordinário para reformar o acórdão recorrido e conceder a segurança a fim de que seja afastada a incidência do ICMS e do IPI sobre o veículo descrito na petição inicial. Sem honorários ( art. 25 da Lei 12.016/2009).
+ Publique-se.
+ Brasília, 16 de março de 2011.
+Ministra Ellen Gracie
+Relatora
