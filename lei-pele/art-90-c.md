@@ -1,0 +1,2 @@
+Art. 90-C. As partes interessadas poderão valer-se da arbitragem para dirimir litígios relativos a direitos patrimoniais disponíveis, vedada a apreciação de matéria referente à disciplina e à competição desportiva.
+Parágrafo único. A arbitragem deverá estar prevista em acordo ou convenção coletiva de trabalho e só poderá ser instituída após a concordância expressa de ambas as partes, mediante cláusula compromissória ou compromisso arbitral.

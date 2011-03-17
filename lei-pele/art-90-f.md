@@ -1,0 +1,1 @@
+Art. 90-F. Os profissionais credenciados pelas Associações de Cronistas Esportivos quando em serviço têm acesso a praças, estádios e ginásios desportivos em todo o território nacional, obrigando-se a ocupar locais a eles reservados pelas respectivas entidades de administração do desporto.

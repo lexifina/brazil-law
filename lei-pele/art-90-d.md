@@ -1,0 +1,1 @@
+Art. 90-D. Os atletas profissionais poderão ser representados em juízo por suas entidades sindicais em ações relativas aos contratos especiais de trabalho desportivo mantidos com as entidades de prática desportiva.

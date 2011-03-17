@@ -9,13 +9,13 @@ DO SISTEMA BRASILEIRO DO DESPORTO
 Seção I
 Da composição e dos objetivos
 Seção II
-Do Instituto Nacional do Desenvolvimento do Desporto - INDESP
+Dos Recursos do Ministério do Esporte
 Seção III
 Do Conselho de Desenvolvimento do Desporto Brasileiro - CDDB
 Seção IV
 Do Sistema Nacional do Desporto
 Seção V
-Dos Sistemas dos Estados, Distrito Federal e Municípios
+Dos Sistemas do Desporto dos Estados, do Distrito Federal e dos Municípios
 CAPÍTULO V
 DA PRÁTICA DESPORTIVA PROFISSIONAL
 CAPÍTULO VI

@@ -1,2 +1,3 @@
-Art. 45. As entidades de prática desportiva são obrigadas a contratar seguro de acidentes de trabalho para atletas profissionais a ela vinculados, com o objetivo de cobrir os riscos a que eles estão sujeitos.
-Parágrafo único. A importância segurada deve garantir direito a uma indenização mínima correspondente ao valor total anual da remuneração ajustada no caso dos atletas profissionais.
+Art. 45. As entidades de prática desportiva são obrigadas a contratar seguro de vida e de acidentes pessoais, vinculado à atividade desportiva, para os atletas profissionais, com o objetivo de cobrir os riscos a que eles estão sujeitos.
+§ 1º A importância segurada deve garantir ao atleta profissional, ou ao beneficiário por ele indicado no contrato de seguro, o direito a indenização mínima correspondente ao valor anual da remuneração pactuada.
+§ 2º A entidade de prática desportiva é responsável pelas despesas médico-hospitalares e de medicamentos necessários ao restabelecimento do atleta enquanto a seguradora não fizer o pagamento da indenização a que se refere o § 1º deste artigo.

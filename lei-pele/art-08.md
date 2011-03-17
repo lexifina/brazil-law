@@ -3,4 +3,5 @@ I - quarenta e cinco por cento para pagamento dos prêmios, incluindo o valor co
 II - vinte por cento para a Caixa Econômica Federal - CEF, destinados ao custeio total da administração dos recursos e prognósticos desportivos;
 III - dez por cento para pagamento, em parcelas iguais, às entidades de práticas desportivas constantes do teste, pelo uso de suas denominações, marcas e símbolos;
 IV - quinze por cento para o Ministério do Esporte.
-Parágrafo único. Os dez por cento restantes do total da arrecadação serão destinados à seguridade social.
+V - 10% (dez por cento) para a Seguridade Social.
+Parágrafo único. (Revogado).
