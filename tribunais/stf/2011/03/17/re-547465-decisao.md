@@ -1,0 +1,12 @@
+1.  Trata-se de recurso extraordinário interposto de acórdão que dera provimento à remessa oficial e à apelação, no qual se discute o caráter previdenciário do sistema médico-hospitalar e a contribuição compulsória para sua manutenção, previstos pela Lei Estadual 452/74.
+2.  No RE alega-se violação ao art. 5º, inciso XX, da Constituição Federal.
+3.  O recurso não merece prosperar. Preliminarmente, para o exame da violação alegada, seria necessária a análise de legislação infraconstitucional (Leis 8.212/91 e 8.666/93), hipótese inviável em sede extraordinária.
+4.  Ademais, em casos como o dos presentes autos esta Corte tem decidido que o trânsito do recurso extraordinário encontra óbice na Súmula/STF 280. Nesse sentido: AI 574.298-AgR/BA, rel. Min. Cármen Lúcia, 1ª Turma, DJe 19.6.2009; e AI 747.279-AgR/MA, rel. Min. Eros Grau, 2ª Turma, DJe 13.11.2009, este último assim ementado:
+“ EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDOR PÚBLICO CIVIL. APOSENTADORIA. REEXAME DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL . 1. A controvérsia foi decidida com fundamento na legislação local [Súmula n. 280 do Supremo Tribunal Federal]. 2. Nos termos da Súmula n. 636 do STF, não cabe recurso extraordinário por ofensa ao princípio da legalidade, se houver necessidade de rever a interpretação dada a normas infraconstitucionais. Agravo regimental a que se nega provimento”.
+5.  Mais recentemente, ao julgar o AI 730.709-AgR/RJ, Segunda Turma, unânime, DJe 08.02.2011, dei igual tratamento à situação idêntica à presente em voto cujo acórdão espelhou a seguinte ementa:
+“ PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO MUNICIPAL. CONTRIBUIÇÃO COMPULSÓRIA PARA PLANO DE SAÚDE. REEXAME DE LEGISLAÇÃO LOCAL: IMPOSSIBILIDADE. SÚMULA STF 280 . 1. Conforme consignado na decisão agravada, para examinar as alegadas ofensas à Constituição Federal e divergir da conclusão a que chegou o Tribunal de origem, cumpriria examinar a legislação local (Lei Complementar Municipal 67/2003). Assim, eventual ofensa à Constituição Federal, se existente, seria meramente reflexa. Incidência, na espécie, da Súmula STF 280. 2. Agravo regimental a que se nega provimento.”
+6.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 17 de março de 2011.
+Ministra Ellen Gracie
+Relatora
