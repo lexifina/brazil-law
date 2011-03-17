@@ -1,0 +1,25 @@
+DECISÃO
+Vistos.
+O Estado da Bahia interpõe agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário, fundado na alínea “a” do permissivo constitucional.
+O acórdão do Tribunal de Justiça do Estado da Bahia, restou assim ementado:
+“PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PEDIDO INJUSTIFICADO DE EXPEDIÇÃO DE OFÍCIO À RECEITA FEDERAL, VISANDO INFORMAÇÕES SIGILOSAS SOBRE DECLARAÇÃO DE BENS DA EMPRESA EXECUTADA E SEUS CO-RESPONSÁVEIS TRIBUTÁRIOS. EXCEPCIONALIDADE DA MEDIDA. INDEFERIMENTO ADMISSÍVEL. AGRAVO DE INSTRUMENTO. IRRESIGNAÇÃO IMOTIVADA. RECURSO IMPROVIDO.
+Não merece reforma a decisão fundamentada, indeferitória de pedido de expedição de ofício à Receita Federal, formulado sem justificativa legal, visando informações sobre as declarações de bens e rendimentos da empresa executada e seus co-responsáveis tributários.
+'... O deferimento de expedição de ofício a órgãos da administração, com o fim de obter informações sobre bens dos devedores passíveis de penhora, é restrito, só sendo possível em casos excepcionais e após a comprovação de que o exequente exauriu os meios à sua disposição para localizar o patrimônio do executado...' (STJ RESP nº164875/RS, rel. Min. Milton Luiz Pereira, DJ 25/02/2002” (fl. 119 a 120).
+Opostos embargos de declaração (fls. 123 a 149), foram rejeitados (fls. 155 a 156).
+Alega o recorrente contrariedade aos artigos 93, inciso IX e 5º, incisos XXXV, LIV, LV e 192 da Constituição Federal.
+Sem Contra-razões. (fls. 117)
+Decido.
+A irresignação não merece prosperar.
+Não se verifica negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Anote-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então agravante, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+Ademais, para a adequada perquirição das supostas violações dos referidos preceitos constitucionais, mister seria uma detida análise de normas infraconstitucionais e dos fatos e provas que permeiam a lide e foram utilizados na fundamentação da aludida decisão, o que se mostra de insuscetível realização, no âmbito de um recurso como o presente. A decisão recorrida é de clareza reluzente ao afirmar que é inadmissível a obtenção das informações sigilosas “... posto que se trata de quebra de sigilo fiscal, sem a demonstração pelo exequente, de haver esgotado todos os meios para encontrar os bens do devedor a serem penhorados...” (fl. 120)
+Nesse sentido, citem-se os seguintes precedentes:
+“AGRAVO REGIMENTAL. AFRONTA AO DEVIDO PROCESSO LEGAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 279. AGRAVO DESPROVIDO. Não é possível, na via extraordinária, o reexame de fatos e provas do processo, na forma do enunciado 279 da Súmula do Supremo Tribunal Federal.” (AI 574.468-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJ 16/2/07).
+“ AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. BLOQUEIO DE ATIVOS FINANCEIROS. PENHORA ON LINE. SISTEMA BACEN JUD. ALEGADA QUEBRA DE SIGILO BANCÁRIO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – O acórdão recorrido decidiu a questão com base na legislação infraconstitucional. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. III - Não há contrariedade ao art. 93, IX, da Magna Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. O mencionado dispositivo constitucional não impõe seja a decisão exaustivamente fundamentada, mas sim o que se busca é que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. IV - Agravo regimental improvido.” (AI 807.715-AgR, Relator o Ministro Ricardo Lewandowski, 1ª Turma, DJ 25/11/2010)
+“ AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL. SIGILO BANCÁRIO. QUEBRA. PROCEDIMENTO LEGAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. O sigilo bancário, espécie de direito à privacidade protegido pela Constituição de 1988, não é absoluto, pois deve ceder diante dos interesses público, social e da Justiça. Assim, deve ceder também na forma e com observância de procedimento legal e com respeito ao princípio da razoabilidade. Precedentes. 3. Agravo regimental a que se nega provimento.” (AI nº 655.298-AgR, Relator o Ministro Eros Grau, 2ª Turma, DJ de 04/09/07)
+Dessa forma, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 17 de março de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
