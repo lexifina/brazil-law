@@ -1,0 +1,1 @@
+Art. 27-B. São nulas de pleno direito as cláusulas de contratos firmados entre as entidades de prática desportiva e terceiros, ou entre estes e atletas, que possam intervir ou influenciar nas transferências de atletas ou, ainda, que interfiram no desempenho do atleta ou da entidade de prática desportiva, exceto quando objeto de acordo ou convenção coletiva de trabalho.

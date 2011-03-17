@@ -1,0 +1,1 @@
+Art. 87-A. O direito ao uso da imagem do atleta pode ser por ele cedido ou explorado, mediante ajuste contratual de natureza civil e com fixação de direitos, deveres e condições inconfundíveis com o contrato especial de trabalho desportivo.
