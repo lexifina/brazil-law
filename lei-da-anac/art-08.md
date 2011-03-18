@@ -20,13 +20,11 @@ XVIII - administrar o Registro Aeronáutico Brasileiro;
 XIX - regular as autorizações de horários de pouso e decolagem de aeronaves civis, observadas as condicionantes do sistema de controle do espaço aéreo e da infra-estrutura aeroportuária disponível;
 XX - compor, administrativamente, conflitos de interesses entre prestadoras de serviços aéreos e de infra-estrutura aeronáutica e aeroportuária;
 XXI - regular e fiscalizar a infra-estrutura aeronáutica e aeroportuária, com exceção das atividades e procedimentos relacionados com o sistema de controle do espaço aéreo e com o sistema de investigação e prevenção de acidentes aeronáuticos;
-XXII - aprovar os planos diretores dos aeroportos e os planos aeroviários estaduais;
-XXIII - propor ao Presidente da República, por intermédio do Ministro de Estado da Defesa, a declaração de utilidade pública, para fins de desapropriação ou instituição de servidão administrativa, dos bens necessários à construção, manutenção e expansão da infra-estrutura aeronáutica e aeroportuária;
+XXII - aprovar os planos diretores dos aeroportos;
 XXIV - conceder ou autorizar a exploração da infra-estrutura aeroportuária, no todo ou em parte;
 XXV - estabelecer o regime tarifário da exploração da infra-estrutura aeroportuária, no todo ou em parte;
 XXVI - homologar, registrar e cadastrar os aeródromos;
-XXVII - arrecadar, administrar e suplementar recursos para o funcionamento de aeródromos de interesse federal, estadual ou municipal;
-XXVIII - aprovar e fiscalizar a construção, reforma e ampliação de aeródromos e sua abertura ao tráfego;
+XXVIII - fiscalizar a observância dos requisitos técnicos na construção, reforma e ampliação de aeródromos e aprovar sua abertura ao tráfego;
 XXIX - expedir normas e padrões que assegurem a compatibilidade, a operação integrada e a interconexão de informações entre aeródromos;
 XXX - expedir normas e estabelecer padrões mínimos de segurança de vôo, de desempenho e eficiência, a serem cumpridos pelas prestadoras de serviços aéreos e de infra-estrutura aeronáutica e aeroportuária, inclusive quanto a equipamentos, materiais, produtos e processos que utilizarem e serviços que prestarem;
 XXXI - expedir certificados de aeronavegabilidade;
@@ -37,15 +35,14 @@ XXXV - reprimir infrações à legislação, inclusive quanto aos direitos dos u
 XXXVI - arrecadar, administrar e aplicar suas receitas;
 XXXVII - contratar pessoal por prazo determinado, de acordo com a legislação aplicável;
 XXXVIII - adquirir, administrar e alienar seus bens;
-XXXIX - apresentar ao Ministro de Estado da Defesa proposta de orçamento;
-XL - elaborar e enviar o relatório anual de suas atividades ao Ministério da Defesa e, por intermédio da Presidência da República, ao Congresso Nacional;
+XXXIX - apresentar ao Ministro de Estado Chefe da Secretaria de Aviação Civil da Presidência da República proposta de orçamento;
+XL - elaborar e enviar o relatório anual de suas atividades à Secretaria de Aviação Civil da Presidência da República e, por intermédio da Presidência da República, ao Congresso Nacional;
 XLI - aprovar o seu regimento interno;
 XLII - administrar os cargos efetivos, os cargos comissionados e as gratificações de que trata esta Lei;
 XLIII - decidir, em último grau, sobre as matérias de sua competência;
 XLIV - deliberar, na esfera administrativa, quanto à interpretação da legislação, sobre serviços aéreos e de infra-estrutura aeronáutica e aeroportuária, inclusive casos omissos, quando não houver orientação normativa da Advocacia-Geral da União;
 XLV - deliberar, na esfera técnica, quanto à interpretação das normas e recomendações internacionais relativas ao sistema de segurança de vôo da aviação civil, inclusive os casos omissos;
 XLVI - editar e dar publicidade às instruções e aos regulamentos necessários à aplicação desta Lei;
-XLVII - promover estudos sobre a logística do transporte aéreo e do transporte intermodal, ao longo de eixos e fluxos de produção, em articulação com os demais órgãos governamentais competentes;
 XLVIII - firmar convênios de cooperação técnica e administrativa com órgãos e entidades governamentais, nacionais ou estrangeiros, tendo em vista a descentralização e fiscalização eficiente dos setores de aviação civil e infra-estrutura aeronáutica e aeroportuária; e
 XLIX - contribuir para a preservação do patrimônio histórico e da memória da aviação civil e da infra-estrutura aeronáutica e aeroportuária, em cooperação com as instituições dedicadas à cultura nacional, orientando e incentivando a participação das empresas do setor.
 § 1º A ANAC poderá credenciar, nos termos estabelecidos em norma específica, pessoas físicas ou jurídicas, públicas ou privadas, de notória especialização, de acordo com padrões internacionalmente aceitos para a aviação civil, para expedição de laudos, pareceres ou relatórios que demonstrem o cumprimento dos requisitos necessários à emissão de certificados ou atestados relativos às atividades de sua competência.
