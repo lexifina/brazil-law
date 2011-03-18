@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto de acórdão do Tribunal de Justiça do Distrito Federal e Territórios que reformou sentença, para julgar improcedente pedido de anulação de alteração de cláusula editalícia de concurso interno da Polícia Militar do Distrito Federal e atribuição de pontos dela decorrente.
+No recurso extraordinário, alega-se violação do disposto nos arts. 5º, XXXV, e 37, caput, da Constituição. Os recorrentes sustentam, em síntese, que “as regras do edital foram unilateralmente modificadas, para surpresa dos candidatos, somente no dia da prova”(fls. 128), o que ofenderia os princípios da legalidade e publicidade.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito dos arts. 5º, XXXV, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Ademais, o Tribunal a quo, ao analisar a suposta afronta aos princípios da publicidade e legalidade, concluiu pela inexistência dos vícios apontados. Transcrevo (fls. 107)
+“Contudo, os próprios apelados admitem a retificação do erro na versão do edital entregue aos candidatos após a realização da inscrição, conforme atesta a cópia juntada às fls. 43/47. Sustentam, porém, que presumindo tratar-se de exemplar idêntico ao publicado na imprensa oficial e não havendo qualquer observação no sentido de ressaltar a alteração da fórmula de cálculo da nota da prova objetiva, não foi por eles considerado (fl. 07).
+Constata-se, assim, que os apelados, após realizarem a respectiva inscrição, deixaram de observar as outras versões do edital veiculadas pela instituição responsável pela organização do certame, incluindo-se aquela distribuída pessoalmente aos candidatos, bem como a veiculada na rede mundial de computadores e a afixada na sede do Cespe/UNB, em que pese o disposto nos itens 6.3 e 16.1, in verbis:
+(...)
+Portanto, não há falar-se, na espécie, em ausência de critérios para a apuração da nota da prova objetiva do concurso interno promovido pela PMDF, ou mesmo na adoção de critérios diferenciados entre os candidatos, mas sim na fixação de método único de avaliação dos concorrente, o que qual foi amplamente divulgado, inclusive, repita-se, na capa do caderno de questões aplicadas na primeira etapa do certame, restando, pois, rigorosamente observado o princípio da publicidade.”
+Impossível acolher as alegações do recorrente e chegar a conclusão contrária a do acórdão recorrido sem o reexame de fatos e provas, o que atrai para o caso o óbice da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 18 de março de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
