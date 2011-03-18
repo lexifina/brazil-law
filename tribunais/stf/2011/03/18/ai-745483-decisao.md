@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado (fl. 32):
+“TRIBUTÁRIO. AGRAVO RETIDO. DECADÊNCIA/PRESCRIÇÃO. CONTRIBUIÇÃO AO INCRA. CORREÇÃO MONETÁRIA. CUSTAS PROCESSUAIS. HONORÁRIOS ADVOCATÍCIOS.
+1. Agravo retido não conhecido, tendo em vista que não foi requerida a sua apreciação por ocasião do recurso de apelação.
+2. Cuidando-se de tributo sujeito a lançamento por homologação, o prazo para pleitear a restituição inicia a partir da data em que ocorrer a homologação do lançamento. Diante da homologação tácita, dispõe o contribuinte do prazo de dez anos para postular a restituição, a contar do fato gerador, cinco dos quais relativos à homologação tácita e os outros cinco ao prazo prescricional propriamente dito. Aplicação da Lei Complementar nº 118/05 apenas às ações intentadas a partir de 09/06/2005.
+3. A contribuição para o INCRA na alíquota de 0,2% se tornou indevida a partir da Lei nº 8.212/91, a qual regulou o plano de custeio da Previdência Social, dispondo exaustivamente sobre os gravames que poderiam onerar a folha de pagamento sem excepcionar as parcelas destinadas ao INCRA.
+4. Os valores do indébito, recolhidos no período de dez anos retroativo ao ajuizamento da ação, devem ser restituídos pelo INCRA atualizados pela UFIR até dezembro/95 e, a partir de janeiro/96, pela taxa SELIC, que engloba juros e correção monetária.
+5. Mantida a condenação dos réus ao pagamento de honorários advocatícios de 10% sobre o valor da condenação, respondendo o INCRA por 80% do valor apurado e o INSS pelos 20% restantes, bem como ao reembolso das custas na mesma proporção. Como o INSS é parte legítima para figurar no pólo passivo da presente demanda, não está livre de arcar com os ônus de sucumbência, mesmo não sendo o destinatário dos valores arrecadados.
+6. Remessa oficial e apelações do INCRA e do INSS improvidas”. (fl. 22)
+Os embargos declaratórios opostos foram parcialmente acolhidos para fins de prequestionamento (fl. 35).
+Segundo os fundamentos da decisão agravada, o recurso não merece seguimento por se tratar de matéria eminentemente infraconstitucional.
+No presente agravo, sustenta-se que a referência à Lei n. 8.212/91 é apenas incidental, já que ela só regulamenta a contribuição sobre a folha de salários fundamentada no art. 195, I, da Constituição Federal. Insiste o agravante tratar-se de matéria de índole constitucional.
+Com efeito, ressalto que  ao analisar o RE 578.635, sob a relatoria do Ministro Menezes Direito, o Supremo Tribunal Federal assentou a ausência de repercussão geral do tema versado nestes autos.
+No entanto, verifica-se que o acórdão recorrido foi publicado antes de 3.5.2007, marco de início da vigência do instituto da repercussão geral, em razão da edição da Emenda 21 do Regimento Interno do STF. Assim, não se podem aplicar os efeitos da rejeição de repercussão geral a este processo, com a simples negativa de seguimento.
+Nesse contexto, o processo há de ser julgado por esta Suprema Corte.
+O Supremo Tribunal Federal já se posicionou acerca da constitucionalidade da contribuição social destinada ao INCRA pelas empresas urbanas. Tal tributo visa cobrir os riscos a que se sujeita toda a coletividade de trabalhadores.
+Sobre o tema, entre inúmeros precedentes, cito o AI-AgR 761.127, Rel. Min. Ellen Gracie, Segunda Turma, DJe 14.5.2010; RE-AgR  491.349, de minha relatoria, Segunda Turma, DJe 15.10.2010 e o AI-AgR 734.511, Rel. Min. Ayres Britto, Segunda Turma, DJe 29.11.2010, cuja ementa transcrevo:
+“CONTRIBUIÇÃO AO FUNRURAL E AO INCRA: EMPRESAS URBANAS. AUSÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA VERSADA. 1. O aresto impugnado afina com a antiga jurisprudência desta nossa Corte de que não há óbice à cobrança, de empresa urbana, da referida contribuição. Precedentes. 2. De mais a mais, ao analisar o RE 578.635, sob a relatoria do ministro Menezes Direito, o Supremo Tribunal Federal assentou a ausência de repercussão geral do tema versado nestes autos. 3. Nos termos do § 5º do art. 543-A do CPC, a decisão do STF que negar a existência da repercussão geral valerá para todos os recursos sobre matéria idêntica. 4. Agravo regimental desprovido”.
+Dessa forma, nos termos do art. 544, parágrafos 3º e 4º, do Código de Processo Civil, com redação dada pela Lei n. 9.756/98, conheço do agravo de instrumento para, desde logo, dar provimento ao recurso extraordinário, de ordem a reformar o acórdão recorrido para considerar exigíveis as contribuições sociais destinadas ao INCRA pela empresa recorrida
+Publique-se.
+Brasília, 18 de março de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
