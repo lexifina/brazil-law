@@ -1,0 +1,31 @@
+DECIS ÃO
+Vistos.
+Estado de São Paulo interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da 3ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“RESPONSABILIDADE CIVIL DO ESTADO – Falecimento do filho da autora em virtude de disparo de arma de fogo – Denunciação à lide ao policial militar – Demonstração de culpa ou dolo do agente – Denunciação rejeitada – Agravo retido não provido.
+RESPONSABILIDADE CIVIL DO ESTADO – Responsabilidade objetiva – Comprovação do dano e do nexo de causalidade – Dever de compor danos morais e materiais – Indenização criteriosamente fixada – Pensão devida, uma vez que a vítima exercia atividade laborativa – Idade limite para pagamento fixada de acordo com a expectativa de vida – Recursos não providos” (fl. 379).
+Opostos embargos de declaração (fls. 387/388), foram rejeitados (fls. 392 a 397).
+Aduz o recorrente contrariedade ao artigo 37, § 6º da Constituição Federal, uma vez que o agente do Poder Público encontrava-se de folga, “de forma que o dano não foi praticado em serviço ou ensejado por ele” (fl. 403).
+Contrarrazoado (fls. 412 a 415), o recurso extraordinário foi inadmitido (fls. 422 a 427), tendo seguimento por força de decisão proferida em agravo de instrumento (fl. 436).
+O Superior Tribunal de Justiça deu parcial provimento ao recurso especial, interposto paralelamente ao extraordinário, apenas para reconhecer afronta ao artigo 460 do Código de Processo Civil, conforme consta nos autos do Agravo de Instrumento nº 656.237/SP, folhas 209 a 212, em decisão já transitada em julgado, certificado à 214 dos mesmos autos que constam em anexo.
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 4/8/04, conforme expresso na certidão de folha 398, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Colhe-se do voto condutor do acórdão recorrido:
+“Como se sabe, a ação de indenização promovida em razão do dano provocado por agente, na prestação de um serviço público se assenta na responsabilidade objetiva, enquanto eventual ação de regresso fica condicionada à prova de dolo ou da culpa do servidor.
+Admitir-se, na hipótese, a denunciação à lide seria onerar a autora com uma discussão que não está obrigada, vale dizer, a prova da culpa do servidor público.
+(...)
+As provas carreadas aos autos são suficientes para demonstrar que o policial militar, a pretexto de deter a vítima por suposto tráfico de entorpecentes, acabou por alvejá-la mortalmente.
+Induvidosamente agiu na condição de servidor público, utilizando-se, outrossim, de arma da corporação.
+Diante dessa circunstância, provado o dano e o nexo de causalidade entre esta e a conduta comissiva do agente público, a ação haveria mesmo de ser julgada procedente, não estando a autora obrigada à prova de culpa”(fls. 381 a 383).
+Para chegar a entendimento diverso do expresso no acórdão recorrido seria necessário o reexame de fatos e provas que permeiam a lide, inadmissível no recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anotem-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. DANO MORAL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. SÚMULA 279 DO STF. 2. A hipótese dos autos impõe o reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Precedentes. Agravo regimental a que se nega provimento” (AI nº 688.568/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau , DJ de 11/4/2008).
+“ AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEXO DE CAUSALIDADE ENTRE A CONDUTA E O DANO. MATÉRIA FÁTICA. SÚMULA 279 DO STF. A verificação do nexo causal entre a conduta do agente e os danos sofridos pela vítima se situa no mundo dos fatos, imperscrutável na via extraordinária (Súmula 279 do STF). Precedentes: RE 346.978, RE 235.524-AgR, RE 234.093-AgR, RE 224.907-AgR, RE 286.444-AgR, RE 313.915, RE 215.981 e AI 343.129-AgR. Agravo regimental desprovido” (RE nº 452.438/SP-AgR, Primeira Turma, Relator o Ministro Carlos Britto , DJ de 25/8/2006).
+Ademais, a jurisprudência desta Corte tem entendido que o exame das circunstâncias concretas sobre a procedência, ou não, do pedido indenizatório está no plano infraconstitucional. Nesse sentido, anotem-se:
+“ CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. OFENSA VEICULADA EM ENTREVISTA JORNALÍSTICA. DANO MORAL. ART. 5º, V E X, CF/88. REEXAME DE FATOS E PROVAS. SÚMULA STF 279. 1. A análise da indenização por danos morais pressupõe, no caso, o reexame do conjunto fático-probatório. Alegada ofensa à Constituição Federal, se existente, seria de forma indireta, reflexa. Precedentes. 2. Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 5º, V e X, da Constituição Federal. 3. Agravo regimental improvido” (AI nº 685.015/SP-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie , DJe de 10/9/2009).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ACIDENTE DE TRÂNSITO. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. 3. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI nº 742.061/MG-AgR, Segunda Turma, Relator o Ministro Eros Grau , DJe de 28/5/2009).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 18 de março de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
