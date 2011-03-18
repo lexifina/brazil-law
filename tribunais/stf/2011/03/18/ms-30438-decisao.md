@@ -1,0 +1,22 @@
+D ECIS Ã O: Trata-se de mandado de segurança, com pedido liminar, impetrado por Luiz Fernando Cilurzo, em face do Procurador-Geral da República, em razão de suposta ilegalidade na correção de sua prova discursiva e na resposta ao recurso administrativo apresentado.
+Em síntese, o impetrante alega ter sido aprovado nas provas objetiva e discursiva do concurso para provimento dos cargos de Ministério Público da União.
+Todavia, afirma a existência de ilegalidade na correção da prova discursiva, mais especificamente quanto ao quesito 2.2 do espelho de correção, no qual não obteve qualquer pontuação.
+Sustenta ainda que, interposto recurso administrativo, este foi indeferido.
+Salienta que a resposta apresentada pela banca examinadora ao recurso administrativo é contraditória, pois a parte dispositiva da decisão que reviu seu recurso revela-se incongruente com a sua fundamentação.
+Requer a concessão de medida liminar para determinar a anulação do ato administrativo que decidiu de forma incongruente o quesito 2.2 então impugnado e para que seja ordenado um reexame adequado com a fundamentação já apresentada pela Administração Pública. No mérito, pugna pela concessão definitiva da segurança para confirmar a liminar concedida.
+Decido.
+No caso dos autos, o impetrante insurge-se contra suposta ilegalidade realizada pela autoridade coatora, ao indeferir seu recurso administrativo apresentado contra o item 2.2 do espelho de correção.
+Colhe-se do documento n. 7 juntado aos autos que a resposta ao recurso administrativo foi assim proferida:
+“Resposta ao Quesito: 2.2
+Indeferido => A Banca Examinadora negou-lhe provimento. Para a banca examinadora, os princípios administrativos que tem incidência no caso hipotético são os seguintes: legalidade, impessoalidade, moralidade e eficiência. Os princípios administrativos que foram efetivamente tratados pelo(a) candidato(a)foram valorados pela banca examinadora. Vale o registro que numa prova discursiva, em que se exige do(a) examinado(a) a exposição de conhecimento técnico acerca do caso hipotético apresentado, não há como considerar argumentos ‘implicitamente’ utilizados pelo mesmo.
+Do exposto, nos termos dos fundamentos delineados acima, a banca conheceu do recurso e, no mérito, negou-lhe provimento.” (grifei)
+Do excerto transcrito verifica-se que a banca examinadora apreciou os princípios citados pelo impetrante e entendeu pertinente atribuir a nota zero ao conteúdo abordado.
+Dessa forma, não se constata a ausência de fundamentação ou incongruência da decisão.
+Ademais, é pacífica a jurisprudência desta Corte no sentido de que não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção. Confira-se:
+“CONCURSO PÚBLICO. PROCURADOR DA REPÚBLICA. PROVA OBJETIVA: MODIFICAÇÃO DO GABARITO PRELIMINAR. REPROVAÇÃO DE CANDIDATA DECORRENTE DA MODIFICAÇÃO DO GABARITO. ATRIBUIÇÕES DA BANCA EXAMINADORA. MÉRITO DAS QUESTÕES: IMPOSSIBILIDADE DE REVISÃO JUDICIAL. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. RECURSO AO QUAL SE NEGA PROVIMENTO. 1. A modificação de gabarito preliminar, anulando questões ou alterando a alternativa correta, em decorrência do julgamento de recursos apresentados por candidatos não importa em nulidade do concurso público se houver previsão no edital dessa modificação. 2. A ausência de previsão no edital do certame de interposição de novos recursos por candidatos prejudicados pela modificação do gabarito preliminar não contraria os princípios constitucionais do contraditório e da ampla defesa. 3. Não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora do concurso público para reexaminar os critérios de correção das provas e o conteúdo das questões formuladas (RE 268.244, Relator o Ministro Moreira Alves, Primeira Turma, DJ 30.6.2000; MS 21.176, Relator o Ministro Aldir Passarinho, Plenário, DJ 20.3.1992; RE 434.708, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 9.9.2005).” (MS 27260, Rel. Min. CARLOS BRITTO, Rel.p/ Acórdão: Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe 26.3.2010)
+Ante o exposto, na linha da jurisprudência desta Corte, nego seguimento ao presente mandado de segurança e julgo prejudicado o pedido liminar (art. 10 da Lei 12.016/09).
+Publique-se.
+Brasília, 18 de março de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
