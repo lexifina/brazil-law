@@ -1,0 +1,16 @@
+DECISÃO
+JÚRI – QUALIFICADORA – REFORMA DE ACÓRDÃO DO TRIBUNAL DE JUSTIÇA – NULIDADE INSUBSISTENTE – SUSPENSÃO DO JULGAMENTO – LIMINAR INDEFERIDA.
+1. A Assessoria prestou as seguintes informações:
+O paciente foi denunciado e pronunciado como incurso no artigo 121, § 2º, incisos II e IV, combinado com o artigo 14, inciso II, do Código Penal. Houve interposição de recurso em sentido estrito, o qual foi parcialmente provido, para afastar da pronúncia a qualificadora de meio a dificultar a defesa.
+O Ministério Público estadual, no recurso especial protocolado, alegou ser defeso ao juiz criminal, na fase de pronúncia, excluir qualificadoras, por implicar manifestação de juízo de valor sobre os fatos descritos na denúncia e ser matéria da competência do Tribunal do Júri. Disse ter sido negada vigência ao disposto no artigo 413, cabeça e § 1º, do Código de Processo Penal.
+O Superior Tribunal de Justiça deu provimento ao Recurso Especial nº 1.202.604/MG, restabelecendo a pronúncia. Anotou que a circunstância qualificadora só pode ser excluída da sentença de pronúncia quando, de forma incontroversa, mostrar-se absolutamente improcedente, o que não se vislumbrava na espécie, pois o acórdão não se baseara em elementos aptos a eliminar, de plano, a qualificadora do uso de recurso que dificultou a defesa da vítima. Assim, em caso de incerteza sobre a situação de fato, a questão deveria ser dirimida pelo Tribunal do Júri, o juiz natural para o julgamento dos crimes dolosos contra a vida.
+Os impetrantes buscam infirmar esse julgado. Consoante afirmam, o provimento do recurso especial decorreu de erro grave que passou despercebido pelo Ministro Gilson Dipp, relator, que se manifestou pelo restabelecimento da sentença de pronúncia nos termos do voto vencido do Desembargador relator do recurso em sentido estrito, o qual, tecnicamente, é considerado como ato inexistente. Asseveram ser essa a razão de ter-se como nulo o exame do especial, por deficiência de fundamentação válida. Dizem da violação dos princípios da segurança jurídica e do devido processo legal.
+Pedem a concessão de liminar, para determinar, até a decisão final deste habeas, o sobrestamento do Processo-Crime nº 0024.07.461791-1, em curso no Primeiro Tribunal do Júri da Comarca de Belo Horizonte. No mérito, pleiteiam a declaração de nulidade do julgamento do Recurso Especial nº 1.202.604/MG, proferido pela Quinta Turma do Superior Tribunal de Justiça.
+2. A nulidade evocada não se coaduna com os fundamentos do acórdão do Superior Tribunal de Justiça resultante da apreciação do Recurso Especial nº 1.202.604-MG. O Tribunal, a partir da decisão proferida na origem, assentou a ambiguidade da questão da qualificadora relativa ao uso de meio a dificultar a defesa da vítima. Em momento algum, tomou-se como base voto vencido, mesmo porque o próprio relator sustentou a improcedência dessa qualificadora, tendo dois vogais afastado também a alusiva ao motivo fútil, sobre a qual não houve crivo quando do julgamento do especial.
+A suspensão de processo-crime reclama a relevância maior do que articulado pela defesa, o que não se verifica na espécie.
+3. Indefiro a liminar.
+4. Colham o parecer da Procuradoria Geral da República.
+5. Publiquem.
+Brasília – residência –, 18 de março de 2011.
+Ministro MARCO AURÉLIO
+Relator
