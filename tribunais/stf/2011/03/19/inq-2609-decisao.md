@@ -1,0 +1,16 @@
+DECISÃO
+INQUÉRITO – TIPO PENAL – AUSÊNCIA DE CARACTERIZAÇÃO – COAÇÃO NO CURSO DO PROCESSO.
+INQUÉRITO – ADVOCACIA ADMINISTRATIVA – INCIDÊNCIA DA PRESCRIÇÃO.
+1. A Assessoria prestou as seguintes informações:
+O inquérito foi instaurado para apurar a prática de crimes contra a Administração Pública por Deputado Federal que teria, mediante grave ameaça, coagido policial militar a liberar motocicletas em situação irregular apreendidas em uma blitz na cidade de Esperança, Estado da Paraíba, com o objetivo de favorecer a terceiros. A conduta do parlamentar amoldar-se-ia ao disposto nos artigos 321 (advocacia administrativa) e 344 (coação no curso do processo) do Código Penal.
+O Procurador-Geral da República, à folha 244 à 247, manifesta-se no sentido do arquivamento do inquérito, aduzindo:
+a) a prescrição da pretensão punitiva do Estado quanto à prática do delito de advocacia administrativa, ocorrida em abril de 2006, presente o fato de a pena máxima prevista para o crime ser de três meses na hipótese da cabeça do artigo e de um ano no caso do parágrafo único. O lapso prescricional se dá ante o transcurso de dois e quatro anos, respectivamente.
+b) a não caracterização do tipo penal relativamente ao delito de coação no curso do processo, consistente em “usar de violência ou grave ameaça, com o fim de favorecer interesse próprio ou alheio, contra autoridade, parte, ou qualquer outra pessoa que funciona ou é chamada a intervir em processo judicial, policial ou administrativo, ou em juízo arbitral”. Assim se conclui da declaração do Comandante do destacamento policial que realizou a blitz de que recebera ligação telefônica do indiciado pedindo a liberação das motocicletas apreendidas, afirmando que “falaria com quem fosse preciso” para liberá-las, assertiva da qual é possível verificar a presença de “favorecimento de interesse alheio” previsto no tipo penal, não restando caracterizada, contudo, a “grave ameaça”, elementar do tipo.
+c) a apresentação do pedido de liberação dos veículos quando ainda não havia processo em curso, dado que, consoante documentação juntada no apenso 1, os termos circunstanciados levados a efeito pela autoridade policial estão datados de maio de 2006, sendo posteriores à intervenção do parlamentar no sentido da liberação das motocicletas.
+O Ministério Público Federal ressalta que, embora a autoridade policial tenha solicitado a prorrogação do prazo para a conclusão das diligências, o presente inquérito não tem condições de prosseguir, razão pela qual opina pelo arquivamento dos autos.
+2. A manifestação do Procurador-Geral da República surge irrecusável. Os fatos teriam ocorrido em 2006. Presente o disposto no artigo 321 do Código Penal – advocacia administrativa –, incidiu a prescrição, ainda que se entenda enquadrada a espécie no parágrafo único do citado artigo. A pena máxima prevista é de um ano. Já se passaram mais de quatro. Quanto à coação no curso do processo, ficou afastado elemento do tipo, ou seja, a grave ameaça, isso caso não se considere a inexistência de procedimento em curso.
+3. Defiro o requerimento formalizado, determinando o arquivamento deste inquérito.
+4. Publiquem.
+Brasília – residência –, 19 de março de 2011, às 15h30.
+Ministro MARCO AURÉLIO
+Relator
