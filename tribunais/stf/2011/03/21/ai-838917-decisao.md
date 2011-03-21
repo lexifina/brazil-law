@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. REAVALIAÇÃO DE BEM. IMPOSSIBILIDADE DE ANÁLISE DE FATOS, PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. IMPROCEDÊNCIA DAS ALEGAÇÕES DE CONTRARIEDADE DOS ARTS. 5º, INC. XXXVI, LIV E LV E 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça de Goiás:
+“AGRAVO DE INSTRUMENTO. RECURSO SECUNDUM EVENTUM LITIS. AÇÃO DE EXECUÇÃO. INDEFERIMENTO DE REAVALIAÇÃO DO PENHORADO. AUSÊNCIA DE FUNDAMENTAÇÃO AFASTADA. AVALIAÇÃO DO BEM PENHORADO FEITA POR OFICIAL DE JUSTIÇA (ART. 680, CPC). LEGALIDADE. PEDIDO DE NOVA AVALIAÇÃO (ART. 681, CPC). NOMEAÇÃO DE EXPERT. DESNECESSIDADE, SUSPENSÃO DA HASTA PÚBLICA. PLEITO PREJUDICADO. EMBARGOS À EXECUÇÃO JULGADOS IMPROCEDENTES. APELAÇÃO. EFEITO DEVOLUTIVO. ART. 520,V, CPC” (fl. 292).
+3. No recurso extraordinário, o Agravante alega o Tribunal a quo teria contrariado os arts. 5º, inc. II, XXII, XXXXVI, LIV, LV e 93, inc. IX,  da Constituição da República.
+Argumenta que “no caso em tela, vislumbra-se a ausência de fundamentação, posto que nem todas as teses defendidas pelo recorrente foram analisadas pelo Egrégio Tribunal a quo” (fl. 424).
+Afirma que “prevalece o princípio da irretroatividade da nova lei processual, por inteligência do art. 5º, inc. XXXVI, da Constituição Federal, e no art. 6º, §§ 1º, 2º e 3º, da Lei de Introdução ao Código Civil. Ao prescrever que a nova norma em vigor tem efeito imediato e geral, remonta-se a necessidade de respeitar sempre o ato jurídico perfeito, o direito adquirido e a coisa julgada” (fl. 430).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas 279 282 deste Supremo Tribunal Federal (fl. 468).
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+Firmou-se jurisprudência do Supremo Tribunal:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI 791.292-QO/RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJ 13.8.2010, grifos nossos).
+7. Para se concluir de forma diversa do acórdão recorrido, seria necessário o reexame das provas dos autos e a análise das normas infraconstitucionais aplicáveis, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 279 do Supremo Tribunal Federal. Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E TRABALHISTA. SUCESSÃO DE EMPRESA. EXECUÇÃO. PENHORA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”AI 808.366-AgR/MG, de minha relatoria, Primeira Turma, DJ 26.11.2010).
+“ EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA TRABALHISTA. EXECUÇÃO. PENHORA. BEM DE EX-SÓCIO. 1. CONTROVÉRSIA DECIDIDA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. VIOLAÇÃO À MAGNA CARTA, SE EXISTENTE, APENAS OCORRERIA DE MODO REFLEXO OU INDIRETO. 2. AUSÊNCIA DE PREQUESTIONAMENTO. (...)”(AI 817.089-AgR/SP, Rel. Min. Ayres Britto, Segunda Turma, DJ 3.3.2011).
+8. Ademais, o Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. XXXVI, LIV e LV, da Constituição da República, se dependente do exame de legislação infraconstitucional, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+Nada há a prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 21 de março de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
