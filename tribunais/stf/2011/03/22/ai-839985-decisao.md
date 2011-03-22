@@ -1,0 +1,25 @@
+1.   Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário manejado contra acórdão proferido pelo Tribunal de Justiça Estadual nos autos de Agravo em Execução, o qual restou assim ementado (fl. 18-23):
+“AGRAVO EM EXECUÇÃO. FALTA GRAVE. COMETIMENTO, EM TESE, DE NOVO DELITO. IMPOSSIBILIDADE.
+Não se pode punir o apenado antes de se ter certeza da autoria do delito à ele imputado, algo que somente ocorrerá após o trânsito em julgado da sentença condenatória.
+À unanimidade, deram provimento ao agravo em execução interposto pelo apenado J.V.V., para que seja afastada a falta grave, com a consequente revogação dos efeitos negativos no curso da execução da pena, com a prorrogação do período de prova até o julgamento definitivo da nova imputação”.
+2.  No RE, alega o Ministério Público do Estado do Rio Grande do Sul que o acórdão impugnado “equivocou-se ao entender que o reconhecimento da falta grave, consistente na prática de crime doloso, sem que haja o trânsito em julgado da sentença com relação a este delito, viola o princípio da presunção de inocência, insculpido no art. 5°, inciso LVII, da Carta Magna” (fl. 32).
+Sustenta ainda que “a prática de crime doloso prescinde de condenação transitada em julgado na esfera judicial para gerar efeitos que daí decorrem, tais como a regressão de regime, a alteração da data-base e a perda dos dias remidos, na medida em que os dispositivos que regem essa matéria não contém tal exigência” (fl. 33).
+3.  O recurso merece prosperar. A jurisprudência desta Suprema Corte já assentou que a Lei de Execução Penal não exige o trânsito em julgado de sentença condenatória para a regressão de regime, bastando, para tanto, que o condenado tenha “praticado” fato definido como crime doloso (art. 118, I, da LEP).
+ Nesse sentido, destaquem-se os seguintes julgados:
+“ PROCESSUAL PENAL. HABEAS CORPUS. REGRESSÃO DE REGIME PRISIONAL. FALTA GRAVE. FATO DEFINIDO COMO CRIME. SOMA OU UNIFICAÇÃO DE PENAS. BENEFÍCIOS DA EXECUÇÃO. ARTS. 111 E 118 DA LEI 7.210/84. REMIÇÃO. SÚMULA VINCULANTE 9 DO SUPREMO TRIBUNAL FEDERAL. PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. DIGNIDADE DA PESSOA HUMANA. VETOR ESTRUTURAL. ORDEM DENEGADA NA PARTE CONHECIDA.
+I - A prática de falta grave pode resultar, observado o contraditório e a ampla defesa, em regressão de regime.
+II - A prática de ‘fato definido como crime doloso’, para fins de aplicação da sanção administrativa da regressão, não depende de trânsito em julgado da ação penal respectiva.
+III - A natureza jurídica da regressão de regime lastreada nas hipóteses do art. 118, I, da Lei de Execuções Penais é sancionatória, enquanto aquela baseada no incido II tem por escopo a correta individualização da pena.
+IV - A regressão aplicada sob o fundamento do art. 118, I, segunda parte, não ofende ao princípio da presunção de inocência ou ao vetor estrutural da dignidade da pessoa humana.
+V - Incidência do teor da Súmula vinculante nº 9 do Supremo Tribunal Federal quando à perda dos dias remidos.
+VI - Ordem denegada” (HC 93.782/RS, rel. Min. Ricardo Lewandowski, DJe 17.10.2008).
+“ HABEAS CORPUS. PROCESSUAL PENAL. FALTA GRAVE. PERDA DOS DIAS REMIDOS: APLICAÇÃO DO ART. 118 DA LEI DE EXECUÇÕES PENAIS. PRECEDENTES. HABEAS CORPUS DENEGADO. 1. É entendimento pacífico neste Supremo Tribunal que não há ilegalidade na consideração de crime doloso cometido no decurso da execução penal como elemento de avaliação da regressão de regime prisional. Precedentes. 2. Habeas corpus denegado” (HC 96.366/RS, rel. Min. Cármem Lúcia, DJe 27.02.2009).
+4.  Ademais, registro que o cometimento de falta grave, durante a execução da pena privativa de liberdade, implica a regressão de regime e a necessidade de reinício da contagem do prazo para obtenção da progressão no regime de cumprimento da pena (RHC 85.605, rel. Min. Gilmar Mendes, DJ 14.10.2005).
+ Em tese, se a pessoa que cumpre pena privativa de liberdade em regime menos severo, ao praticar falta grave, pode ser transferida para regime prisional mais gravoso (regressão prisional), logicamente é do sistema jurídico que a pessoa que cumpre a pena corporal em regime fechado (o mais gravoso) deve ter reiniciada a contagem do prazo de 1/6, levando em conta o tempo ainda remanescente de cumprimento da pena.
+A data-base para a contagem do novo período aquisitivo do direito à progressão do regime prisional é a data do cometimento da última infração disciplinar grave (ou, em caso de fuga, da sua recaptura), computado do período restante de pena a ser cumprida.
+Logo, a recontagem e o novo termo inicial da contagem do prazo para a concessão de benefícios, tal como na progressão de regime, decorrem de interpretação sistemática das regras legais existentes, não havendo violação ao princípio da legalidade.
+5.  Ante o exposto, com fundamento no art. 544, § 4º, do CPC, conheço do agravo e, desde logo, dou provimento ao recurso extraordinário, a fim de restabelecer a sentença de primeiro grau.
+Publique-se.
+Brasília, 22 de março de 2011.
+Ministra Ellen Gracie
+Relatora
