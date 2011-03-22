@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“PREVIDENCIÁRIO. REVISÃO. APOSENTADORIA. RMI. FORMA DE CÁLCULO. ART. 29 DA LEI 8.213/91. ÔNUS DA SUCUMBÊNCIA.
+1. Se o direito ao benefício foi adquirido na vigência da redação original do art. 29, caput, da Lei 8.213/91, devem ser aplicadas, para fins de apuração de RMI, ‘as disposições constantes na aludida norma, que determina para apuração do cálculo do salário-de-benefício, que se considere a média aritmética simples de todos os últimos salários-de-contribuição dos meses imediatamente anteriores ao afastamento da atividade ou da data da entrada do requerimento, até o máximo de 36 (trinta e seis), apurados em período não superior a 48 (quarenta e oito) meses (princípio tempus regit actum).
+2. Sucumbente a parte-autora, esta deve ser condenada em custas e honorários advocatícios, estes fixados em R$ 465,00 (quatrocentos e sessenta e cinco reais), de acordo com a MP 456, de 1º de fevereiro de 2009, observada a AJG” (fl. 130).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, II, da mesma Carta.
+O agravo não merece acolhida. Isso porque o dispositivo constitucional apontado como violado não foi devidamente prequestionado. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF. Nesse sentido, anote-se:
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. REGIME DE TRABALHO. ALTERAÇÃO. ART. 207 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356. 1. Ausência de prequestionamento dos dispositivos constitucionais dados como contrariados. Caso em que o aresto impugnado não abordou a questão constitucional disposta nos dispositivos tidos por violados (arts. 5º, LV; 93, IX e 207 da CF), tampouco foram opostos embargos de declaração, imprescindíveis a suprir eventual omissão. Incidência das Súmulas STF 282 e 356. 2. Agravo regimental improvido” (RE 363.743–AgR/DF, Rel. Min. Ellen Gracie, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 22 de março de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
