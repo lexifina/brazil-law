@@ -1,0 +1,27 @@
+D ECIS Ã O : VISTOS, ETC.
+Cuida-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão de Ministra do Superior Tribunal de Justiça (relatora do HC 199.123). Decisão que indeferiu a liminar ali formalizada.
+2. Pois bem, antes mesmo do pronunciamento de mérito por parte do Superior Tribunal de Justiça, os impetrantes renovam a tese de patente ilegalidade da segregação cautelar da paciente. Paciente presa em flagrante delito, acusada de tráfico ilícito de entorpecentes e respectiva associação (artigos 33 e 35 da Lei nº 11.343/2006). Em síntese, foram estes os fundamentos da impetração: a) a acionante tem o direito de responder ao processo-crime em liberdade, dado que não se acham configurados os pressupostos do artigo 312 do CPP; b) a gravidade em abstrato do crime de tráfico de drogas não é o suficiente para justificar a manutenção da prisão processual; c) os dados empíricos até então colhidos não têm a força de comprovar a responsabilidade criminal da acusada; d) a paciente preenche os requisitos para a concessão da liberdade provisória. Logo, a segregação cautelar em discussão configura uma indevida antecipação da pena. Daí o pedido liminar de imediata expedição de alvará de soltura da acionante, não obstante o óbice da Súmula 691 do STF.
+3. Feito este breve retrospecto da causa, decido. Fazendo-o, anoto que é firme a jurisprudência deste Supremo Tribunal Federal no sentido do não-conhecimento de HC sucessivamente impetrado antes do julgamento mérito nas instâncias anteriores (cf. HC 79.776, Rel. Min. Moreira Alves; HC 76.347-QO, Rel. Min. Moreira Alves; HC 79.238, Rel. Min. Moreira Alves; HC 79.748, Rel. Min. Celso de Mello; e HC 79.775, Rel. Min. Maurício Corrêa). Jurisprudência, essa, que deu origem à Súmula 691/STF, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+4. É certo que esse entendimento jurisprudencial sumular comporta relativização, mas apenas quando de logo avulta que o cerceio à liberdade de locomoção do paciente decorre de ilegalidade ou de abuso de poder (inciso LXVIII do art. 5º da CF/88). O que não me parece ser o caso dos autos. Em primeiro lugar, pontuo que a decisão singular impugnada não se me afigura desarrazoada, ou por qualquer modo desfundamentada. O que me dificulta enxergar a possibilidade de superação do óbice da Súmula 691 do STF.
+5. Demais disso, o exame prefacial das peças que instruem este processo também não favorece o imediato acatamento das teses defensivas. Para cimentar esse ponto de vista, reproduzo as seguintes passagens do acórdão proferido pelo Tribunal de Justiça de São Paulo:
+“[...]
+O relatório do Delegado de Polícia no inquérito policial reporta que a prisão de todos os acusados derivou de investigação desencadeada por informe anônimo e dados coletados em monitoramento de conversas telefônicas.
+Tais elementos informativos desnudaram a associação da advogada Maricilda Oliveira Goes, mãe da paciente Drielle e de Felipe, ao sentenciado Edson Luís Calderane, o qual, apesar de recolhido ao Instituto Penal Agrícola de São José do Rio Preto, coordenava a operação em larga escala do tráfico de drogas.
+A casa ocupada por Maricilda e seus filhos, Drielle [paciente] e Felipe, era o local onde se processava e embalava a droga, se armazenava os produtos químicos adquiridos para este fim e se mantinha o caixa financeiro.
+Nesse local, onde foram detidos, todos os envolvidos na exploração do narcotráfico, se apreendeu grande quantidade de entorpecente, aproximadamente 56 quilogramas de cocaína pura, pronta para ser diluída com agregação de outros produtos ('batismo'), que resultaria em porções maiores de droga à venda.
+Também foram apreendidas substâncias destinadas ao processamento do entorpecente, seu preparo e acondicionamento para a venda, como: éter, acetona, bicarbonato de sódio, fermento em pó, prensas, balanças de precisão, maquinário de acondicionamento e material para embalagem (inclusive 1.000 flaconetes).
+No quarto da paciente, se apreendeu a quantia de R$ 1.950,00. Também se apreendeu uma agenda com anotações próprias da atividade criminosa da lavra de Maricilda e da paciente Drielle.
+No quarto de Felipe, apreendeu-se uma arma de fogo, pistola semiautomática Taurus, calibre 38, e farta munição (56 cartuchos), deste calibre e do calibre 40.
+Neste quadro, impossível se deferir à paciente a mercê da liberdade provisória.
+[...]
+A impetração traz alegações desacompanhadas de prova, pois embora afirme que a paciente preencheria os requisitos necessários para a obtenção da benesse, não comprovou que possuiria residência fixa e ocupação lícita.
+Os elementos de convicção coligidos aos autos não amparam sua pretensão de obter o benefício da liberdade provisória.
+Até o momento, o flagrante sugere o tráfico de entorpecentes e sua associação, operado de forma organização e sob proteção armada, sendo que os dados do processo, diversamente do alegado pelos impetrantes, evidenciam a presença dos pressupostos necessários para a manutenção da prisão.
+[...]”
+(Grifos acrescidos)
+6. Por tudo quanto posto, não vejo como superar o óbice da Súmula 691/STF. Motivo pelo qual nego seguimento ao habeas corpus (art. 38 da Lei nº 8.038/90 c/c § 1º do artigo 21 do RI/STF). O que não impede a rediscussão da matéria na instância judicante competente.
+Publique-se.
+Brasília, 22 de março de 2011.
+Ministro A YRES B RITTO
+Relator
+D OCUMENTO ASSINADO DIGITALMENTE
