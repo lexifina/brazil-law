@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa tem o seguinte teor (fls. 101):
+“EMENTA: AÇÃO DE COBRANÇA DE VERBAS REMUNERATÓRIAS – CONTRATO DE TRABALHO TEMPORÁRIO – PRELIMINAR DE INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. 1 - Uma vez que a Justiça Estadual é competente para processar e julgar processo relativo a contrato de trabalho temporário, nos termos do inciso IX, do art. 37, da Constituição Federal, é, por conseqüência, competente para apreciar as respectivas questões remuneratórias, inclusive as relativas ao PIS. 2 - Tendo sido efetivamente prestados os serviços pelo contratado temporário em favor da Administração Pública, é devido não apenas o salário, mas também os direitos sociais inerentes ao vínculo funcional, sob pena de enriquecimento ilícito da Administração contratante. ”
+Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 37, II e § 2º, e 114, I, da Constituição federal. Sustenta-se que a Justiça do Trabalho é competente para apreciar o pleito e que o contrato de trabalho é nulo, sendo devidas tão-somente as horas efetivamente trabalhadas.
+É o relatório. Decido.
+Primeiramente, o recurso extraordinário, ao alegar que o acórdão recorrido ofende os preceitos do art. 37, II e § 2º, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Em relação ao tema competência da Justiça do Trabalho, as instâncias ordinárias concluíram que trata-se de contrato por tempo determinado (art. 37, IX, da Constituição) e, por conseguinte, julgaram competente a Justiça Comum.
+A decisão recorrida não divergiu da orientação firmada no julgamento do RE 573.202 (rel. min. Ricardo Lewandowski, Plenário, DJe de 05.12.2008), conforme se depreende da ementa:
+“'EMENTA: RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REGIME ESPECIAL. CONTRATAÇÃO TEMPORÁRIA REGIDA POR LEGISLAÇÃO LOCAL ANTERIOR À CONSTITUIÇÃO DE 1988, EDITADA COM BASE NO ART. 106 DA CONSTITUIÇÃO DE 1967. ACÓRDÃO QUE RECONHECEU A COMPETÊNCIA DA JUSTIÇA DO TRABALHO. RECURSO CONHECIDO E PROVIDO.
+I - Ao reconhecer a competência da Justiça do Trabalho para processar e julgar a reclamação trabalhista, o acórdão recorrido divergiu de pacífica orientação jurisprudencial deste Supremo Tribunal Federal.
+II - Compete à Justiça Comum processar e julgar causas instauradas entre o Poder Público e seus servidores submetidos a regime especial disciplinado por lei local editada antes da Constituição Republicana de 1988, com fundamento no art. 106 da Constituição de 1967, na redação que lhe deu a Emenda Constitucional no 1/69, ou no art. 37, IX, da Constituição de 1988.
+III - Recurso Extraordinário conhecido e provido.”
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 22 de março de 2011.
+Ministro JOAQUIM BARBOSA – Relator
