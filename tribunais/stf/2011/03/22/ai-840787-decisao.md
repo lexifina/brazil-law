@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. EXECUÇÃO. Nega-se provimento a agravo de instrumento pelo qual o agravante não consegue infirmar os fundamentos do despacho denegatório do recurso de revista” (fl. 418).
+No RE, fundado com base no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXV, e 7º, X e XXIX, da mesma Carta.
+O agravo não merece acolhida. Isso porque, à exceção do art. 5º, XXXV, os demais dispositivos constitucionais apontados como violados não foram objeto de debate e decisão prévios pelo Tribunal de origem. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS CONSTITUCIONAIS SUSCITADAS. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 1. Os temas constitucionais suscitados no apelo extremo não foram objeto de análise prévia, e conclusiva, pela Instância Judicante de origem. Pelo que incidem as Súmulas 282 e 356 desta Corte. 2. Agravo regimental desprovido” (AI 770.103-AgR/RJ, Rel. Min. Ayres Britto, Primeira Turma).
+Por fim, a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, XXXV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 22 de março de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
