@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA – DESCABIMENTO. 1. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. NULIDADE. VÍNCULO EMPREGATÍCIO RECONHECIDO DIRETAMENTE COM O TOMADOR DOS SERVIÇOS. “A contratação de trabalhadores por empresa interposta é ilegal, formando-se o vínculo diretamente com o tomador dos serviços, salvo no caso de trabalho temporário (Lei nº 6.019, de 03.01.1974)”. Inteligência da Súmula 331, I, do TST. Incidência do óbice do art. 896, § 4º, da CLT e da Súmula 333/TST. 2. DIFERENÇAS SALARIAIS. CONFISSÃO FICTA DO RECLAMANTE. EFEITOS. Segundo o entendimento consagrado na Súmula 74, II, do TST, ‘a prova pré-constituída nos autos pode ser levada em conta para confronto com a confissão ficta (art. 400, I, CPC) não implicando cerceamento de defesa o indeferimento de provas posteriores’. Aplica-se o óbice do § 4º do art. 896 da CLT e da Súmula 333/ TST. Agravo de instrumento conhecido e desprovido”(fl. 63).
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se violação ao princípio da legalidade insculpido no artigo 5º, II, do texto constitucional.
+Nas razões recursais, sustenta-se que, ao reconhecer a ilegalidade da terceirização e estabelecer o vínculo empregatício diretamente com a recorrente, o acórdão recorrido violou o artigo 94, da Lei nº 9.472/97; o artigo 25, da Lei nº 8.987/95 e, em conseqüência, o artigo 5º, da Carta Magna.
+Ademais, afirma que o serviço prestado pelo reclamante não se enquadra como atividade precípua da empresa de telefonia, ora recorrente.
+Decido.
+O recurso não merece prosperar.
+No presente caso, o acórdão recorrido assentou que “do conjunto probatório, verifica-se a contratação de mão-de-obra mediante terceirização ilegal, eis que a prestação dos serviços do acionante se deu em atividade-fim da tomadora dos serviços; não tendo a contratação sido feita de forma episódica e emergencial, na condição de trabalho temporário” (fl. 65).
+Para entender de forma diversa do que firmado pelo Tribunal a quo e decidir se o serviço prestado pelo recorrido enquadra-se como atividade-fim ou meio da empresa de telefonia ou, ainda, como atividade inerente às suas finalidades, faz-se imprescindível o reexame do conjunto fático-probatório constante dos autos, providência vedada na via do apelo extremo, nos termos da Súmula 279 do STF.
+Ademais, o acórdão recorrido decidiu a controvérsia com base na legislação infraconstitucional aplicável ao caso. Evidencia-se, in casu, ofensa meramente reflexa ao dispositivo constitucional invocado. Incide, portanto, a Súmula 636 desta Corte.
+Nesse sentido: AI-AgR 745.486, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 19.6.2009; AI-AgR 762.271, Rel. Min. Eros Grau, Segunda Turma, DJe 20.11.2009; AI-AgR 751.904, Rel. Min. Dias Toffoli, Primeira Turma, DJe 6.8.2010 e AI-AgR 791.247, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 11.11.2010, este último com acórdão assim ementado:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. TERCEIRIZAÇÃO. CONTROVÉRSIA SOBRE A EXISTÊNCIA DE RELAÇÃO EMPREGATÍCIA E SOBRE A NATUREZA DA ATIVIDADE PRESTADA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 22 de março de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
