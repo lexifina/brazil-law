@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“CASAMENTO - Separação consensual - partilha amigável - Bem omitido - Sobrepartilha - Cabimento - Prescrição - Inocorrência - Incidência do prazo geral previsto na legislação substantiva - Comprovação de que certo valor concedido em empréstimo a terceiro quando ainda pendente a sociedade conjugal foi restituído ao patrimônio do varão posteriormente à partilha - Questão não levantada quando da divisão dos bens - Direito à meação reconhecido - Sucumbência parcial que, por sua vez, autoriza a repartição dos encargos prevista no artigo 21 do CPC – Recurso parcialmente provido.” (fl. 13).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, LV, da mesma Carta.
+O agravo não merece acolhida. Isso porque, a jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA POR JULGAMENTO ANTECIPADO DA LIDE. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. Precedentes. Agravo regimental a que se nega provimento.” (AI 587.873-AgR/RS, Rel. Min. Eros Grau, Segunda Turma).
+Ainda, nesse sentido, cito as seguintes decisões entre outras: AI 712.906-AgR/SP, Rel. Min. Joaquim Barbosa; AI 555.892-AgR/RJ, Rel. Min. Cezar Peluso; e AI 786.434-AgR/DF, de minha relatoria.
+Por fim, com a negativa de provimento ao agravo de instrumento no recurso especial pelo Superior Tribunal de Justiça (Ag 1.156.409/SP, com trânsito em julgado em 23/11/2010), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido, o que atrai a incidência da Súmula 283 do STF.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 22 de março de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
