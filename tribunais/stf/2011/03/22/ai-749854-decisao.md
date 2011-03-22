@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“EXECUÇÃO FISCAL. EMBARGOS. NÃO CONHECIMENTO DE PARTE DO APELO. INTEMPESTIVIDADE. SÚMULA 12 DESTA CORTE. 1. Não se conhece da parte do apelo que alega matéria não ventilada na exordial e, por isso, não foi analisada pela sentença. 2. "Na execução fiscal, quando a ciência da penhora for pessoal, o prazo para a posição dos embargos de devedor inicia no dia seguinte ao da intimação deste." (Súmula 12 - TFR 4ª Região).” (fl. 38)
+No RE, fundado no art. 102, III, a, da Constituição alegou-se ofensa ao art. 5º, XXXV, da mesma Carta.
+O agravo não merece acolhida. Bem examinados os autos, verifico que o recorrente não atacou o fundamento da decisão agravada, qual seja a necessidade de análise de legislação infraconstitucional para a apreciação do recurso extraordinário. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 317, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. 1. O Agravante tem o dever de impugnar, de forma específica, os fundamentos da decisão agravada, sob pena de não seguimento do agravo regimental (art. 317, § 1º, do RISTF). 2. Inviável o agravo regimental que se limita a reiterar as razões do recurso extraordinário, sem abordar o fundamento específico da decisão agravada” (AI 394.997-AgR/CE, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO DE INSTRUMENTO - AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS EM QUE SE ASSENTOU O ATO DECISÓRIO QUESTIONADO - RECURSO IMPROVIDO. O RECURSO DE AGRAVO DEVE IMPUGNAR, ESPECIFICADAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. - O recurso de agravo a que se referem os arts. 545 e 557, § 1º, ambos do CPC, na redação dada pela Lei nº 9.756/98, deve infirmar todos os fundamentos jurídicos em que se assenta a decisão agravada. O descumprimento dessa obrigação processual, por parte do recorrente, torna inviável o recurso de agravo por ele interposto. Precedentes” (AI 277.399-AgR/AM, Rel. Min. Celso de Mello, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 22 de março de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
