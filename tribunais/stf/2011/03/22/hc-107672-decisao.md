@@ -1,0 +1,36 @@
+D ECIS Ã O:
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado pelos advogados Pedro Ivo Rodrigues Velloso Cordeiro, Liliane de Carvalho Gabriel e Álvaro da Silva, em favor de Nilton Coelho Ferreira, apontando como autoridade coatora o Ministro Arnaldo Esteves Lima, do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 135.950/GO, impetrado àquela Corte.
+Sustentam os impetrantes, em síntese, o constrangimento ilegal imposto ao paciente, tendo em vista o excesso de prazo no julgamento de mérito do writ impetrado àquela Corte, em 13/5/09.
+Asseveram a inépcia da denúncia ofertada contra o paciente. Aduzem, para tanto, que ”a denúncia do Ministério Público, com que se instaurou a ação penal, e inepta no que concerne ao paciente, pois se omitiu em descrever as circunstâncias do fato que lhe foi imputado e em indicar os motivos pelos quais ele devia saber ser produto de crime o gado bovino que adquiriu de Valdeci Moura de Aguiária, capaz de configurar o delito de receptação qualificada, previsto no art. 180, § 1º, do Código Penal” (fl. 7 da inicial).
+Defendem, ainda, a inconstitucionalidade da pena prevista no art. 180, § 1º , do Código Penal (fls. 9 a 13 da inicial).
+Requerem o deferimento da liminar para “suspender a eficácia da condenação imposta ao paciente no processo criminal em fase de execução” ou seja determinado “ao eminente Ministro Relator do HC 135.950 no Superior Tribunal de Justiça, que leve o feito em mesa para julgamento do refiro writ (...)” (fl. 14 da inicial).
+No mérito, pedem a confirmação da liminar e, “em caráter alternativo, a) declarar nulo ab initio em relação ao paciente o processo da ação penal instaurado no Comarca de Jandaia, que resultou na sua condenação, ou b) reconhecer a inconstitucionalidade, incidenter tantum, do § 1º do art. 180 do Código Penal, e desconsiderar a circunstância qualificadora do delito de receptação, procedendo à retificação da pena imposta ao paciente, ajustando-a ao mínimo previsto no caput do dispositivo legal” (fl. 14 da inicial – grifos no original).
+Examinados os autos, decido.
+Como visto, trata-se de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 do Supremo Tribunal Federal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do Relator que, em 'habeas corpus' requerido a tribunal superior, indefere a liminar”.
+É certo que a jurisprudência desta Suprema Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia, o que não ocorre na espécie.
+Transcrevo o teor daquela decisão:
+“A concessão de liminar, em habeas corpus, constitui medida excepcional, pois somente pode ser deferida pelo relator quando demonstrada, de forma inequívoca, flagrante ilegalidade na decisão impugnada, circunstância não evidenciada, de plano, na presente hipótese.
+De mais a mais, não vislumbro, ao menos em exame preliminar, a plausibilidade jurídica do pedido a autorizar a concessão da pretensão deduzida em sede de cognição sumária.
+Ante o exposto, indefiro o pedido de liminar.
+Intime-se.
+Solicitem-se informações à apontada autoridade coatora, com esclarecimentos sobre o andamento da execução criminal do paciente.
+Após, encaminhem-se os autos ao Ministério Público Federal para parecer.
+Oportunamente, voltem-me conclusos para julgamento pela 5ª Turma do STJ”.
+Na hipótese vertente, verifica-se, de forma evidenciada a inviabilidade do próprio conhecimento da presente impetração, pois não se constata situação de flagrante ilegalidade apta a ensejar o afastamento, excepcional, da Súmula nº 691 desta Suprema Corte. Pode e deve o magistrado, ao apreciar o pedido inicial, pautar-se no poder geral de cautela para buscar outros elementos formadores das razões de decidir além daqueles trazidos pela impetração, sem que isso caracterize constrangimento ilegal, abuso de poder ou teratologia.
+O descontentamento pela falta de êxito no pleito submetido ao Superior Tribunal de Justiça, ainda em exame precário e inicial, não pode ensejar o conhecimento deste writ, sob pena de supressão de instância e de grave violação das regras de competência.
+Nesse sentido, por exemplo:
+“COMPETÊNCIA CRIMINAL. Habeas corpus. Impetração contra decisão monocrática que, em habeas corpus requerido ao STJ, indeferiu liminar. Não ocorrência de flagrante constrangimento ilegal. Não conhecimento. Aplicação da súmula 691. Em princípio, não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere liminar, se o caso não é de flagrante constrangimento ilegal” (HC nº 100.600/SP, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 23/10/09);
+“HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO DOMICILIAR. SÚMULA 691 DO STF. INADEQUAÇÃO. ILEGALIDADE MANIFESTA. INOCORRÊNCIA. NÃO CONHECIMENTO. I - O indeferimento de liminar em habeas corpus pelo Superior Tribunal de Justiça encontra amparo na Súmula 691 do Supremo Tribunal Federal, que somente admite mitigação na presença de flagrante ilegalidade, abuso de poder ou teratologia. II - Incidência da mencionada Súmula, sob pena de dupla supressão de instância. III - Habeas corpus não conhecido” (HC nº 96.992/SE, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16/10/09).
+Ainda, na mesma linha, as seguintes decisões monocráticas: HC nº 101.290/RS, de minha relatoria, DJe de 6/11/09; HC nº 101.141/SP, Relator o Ministro Joaquim Barbosa, DJe 27/10/09; HC nº 101.112/GO, Relator o Ministro Ayres Britto, DJe de 23/10/09; e HC nº 101.062/SP, Relatora a Ministra Cármen Lúcia, DJe de 22/10/09, entre outros.
+Ademais, apenas para registro, ressalto o entendimento da Corte no sentido de que fica prejudicada “” (RHC nº 96.050/RS, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 17/12/10 – grifei).
+A respeito da aventada inconstitucionalidade do art. 180, § 1º, do Código Penal, anto que este Supremo Tribunal já se pronunciou quanto à constitucionalidade da norma. Confira-se:
+“” (HC nº 97.344/SP, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 29/5/09).
+Por fim, acerca da alegado excesso de prazo no julgamento do writ impetrado ao Superior Tribunal de Justiça em 13/5/09, destaco que eventual demora no julgamento daquela impetração, por si só, não pode ser interpretada como negativa de prestação jurisdicional. Com efeito, das informações obtidas no sítio do Superior Tribunal de Justiça na internet, tem-se que a impetração, atribuída ao Ministro Adilson Vieira Macabu em 17/12/10, teve regular processamento e, já com o parecer do Ministério Público Federal, foi concluso ao Relator em 15/2/11.
+Com essas considerações, entendo não demonstrada, satisfatoriamente, nenhuma legalidade flagrante que justifique a superação do enunciado da Súmula nº 691 desta Suprema Corte.
+Ante o exposto, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+Publique-se.
+Brasília, 22 de março de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
