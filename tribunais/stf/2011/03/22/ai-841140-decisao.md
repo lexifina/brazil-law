@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“DIREITO TRIBUTÁRIO. COFINS. RETENÇÃO NA FONTE. MP 135/03 E LEI 10.833/03. ART. 246 DA CF/88. EMPRESAS PRESTADORAS DE SERVIÇOS PROFISSIONAIS. ISENÇÃO. LEI COMPLEMENTAR Nº 70/91, ART. 6º, INC. II. REVOGAÇÃO. LEI ORDINÁRIA.
+1. A retenção a título de COFINS incidente sobre as notas fiscais ou faturas da empresa prestadora de serviços, prevista nos artigos 30 e 31 da Lei nº 10.833/2003, não criou nova contribuição social nem instituiu nova base de cálculo ou nova alíquota para as contribuições em comento, tão-somente se utilizou de técnica de arrecadação, em nada acrescentando à carga tributária das empresas.
+2. A Medida Provisória nº 135/2003 na lei tomada como base à pretensão isentiva, ou seja, o art. 30 da Lei nº 10.833, de 29 de dezembro de 2003, nada tem de inconstitucional nem viola o art. 246 da CF/88, porquanto não regulamentou dispositivo algum da Constituição alterado por emenda constitucional no interregno ali demarcado, não constitui criação de um novo tributo, mas modalidade de substituição tributária, não ofendendo o princípio da isonomia tributária previsto no art. 150, II, da Constituição.
+3. De acordo com os ditames da Constituição Federal de 1988, a lei complementar só é exigida para a instituição de novas fontes de custeio da Social (art. 195, § 4º). No caso da COFINS, cujo fundamento de validade encontra-se no texto constitucional (art. 195, inc. I), viável a sua regulamentação por meio de lei ordinária.
+4. Inexiste hierarquia entre leis ordinária e complementar. A lei complementar, submetida a "quorum" especial, encontra âmbito de atuação restrito, destinando-se a regular matérias expressamente discriminadas pela Constituição.
+5. Assim, admitindo-se que a Lei Complementar nº 70/91 contém norma "materialmente" ordinária, ou seja, em que não exigida a aprovação por maioria absoluta, mostra-se viável a alteração da matéria por meio de lei ordinária.
+6. O art. 56 da Lei nº 9.430/96 revogou tacitamente a isenção da COFINS prevista no art. 6º, inc. II, da Lei Complementar nº 70/91” (fls.166-167).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 145, 150, § 7º, 154, I, 195, I, a, b e c, e §§ 4º e 5º, e 246, da mesma Carta.
+No caso, o recurso extraordinário versa sobre matéria - constitucionalidade da Lei 10.833/03, resultante da conversão da Medida Provisória 135/03 - cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (RE 570.122-RG/RS, Rel. Min. Marco Aurélio).
+Isso posto, uma vez que preenchidos os requisitos de admissibilidade, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com base no art. 328, parágrafo único do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no extraordinário discute-se questão idêntica à apreciada no RE 570.122-RG/RS.
+Publique-se.
+Brasília, 22 de março de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
