@@ -1,0 +1,21 @@
+Decisão
+Vistos.
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por Antonio Luiz Fernandes e outros, contra ato do Presidente da República, consistente na edição de decreto expropriatório que recaiu sobre imóveis que teriam sido invadidos por trabalhadores rurais sem terra. Por isso e destacando a ilegalidade desse ato, ajuizaram o presente mandamus, para obter, liminarmente, a suspensão dos efeitos desse decreto e, afinal, sua anulação. A petição inicial veio instruída com os documentos de fls. 23 a 169.
+Depois de prestadas as informações, pela autoridade, dita coatora (fls. 173 a 285), o pedido de liminar foi indeferido (folha 287).
+O parecer da douta Procuradoria-Geral da República é pelo não conhecimento ou pela denegação da ordem (fls. 290 a 299).
+Decido.
+Postulavam os impetrantes, com o ajuizamento deste mandamus, suspender os efeitos de decreto expropriatório que recaiu sobre imóveis de sua propriedade, sob a alegação de que foram ocupados por integrantes do denominado movimento “sem terra”, fato a acarretar a incidência da vedação imposta pelo artigo 2º, § 6º, da Lei nº 8.629/93.
+Sem razão, contudo.
+Segundo consta dos autos, a referida vistoria teria sido realizada no mês de novembro de 2001 (fls. 66 a 80), ao passo que a aludida ocupação teria ocorrido no dia 22 de novembro de 2002, segundo informação constante da petição inicial deste mandamus.
+Nessa conformidade, já estando ultimada a aludida vistoria, quando da ocorrência da ocupação do imóvel, não há que se falar na vedação imposta pela norma legal utilizada na fundamentação deste mandado de segurança.
+Nesse sentido, pacífica se mostra a jurisprudência deste Supremo Tribunal Federal, citando-se, para ilustrar, o seguinte precedente do Plenário da Corte:
+“MANDADO DE SEGURANÇA. CONSTITUCIONAL. ADMINISTRATIVO. DESAPROPRIAÇÃO POR INTERESSE SOCIAL PARA FINS DE REFORMA AGRÁRIA. ARTIGO 184 DA CONSTITUIÇÃO DO BRASIL. INVASÃO DO IMÓVEL POR MOVIMENTO DE TRABALHADORES RURAIS APÓS A REALIZAÇÃO DA VISTORIA DO INCRA. INEXISTÊNCIA DE ÓBICE À DESAPROPRIAÇÃO. ARTIGO 2º, § 6º DA LEI N. 8.629/93. ORDEM DENEGADA. 1. O § 6º, art. 2º da Lei n. 8.629/93 estabelece que "[o] imóvel rural de domínio público ou particular objeto de esbulho possessório ou invasão motivada por conflito agrário ou fundiário de caráter coletivo não será vistoriado, avaliado ou desapropriado nos dois anos seguintes à sua desocupação, ou no dobro desse prazo, em caso de reincidência; e deverá ser apurada a responsabilidade civil e administrativa de quem concorra com qualquer ato omissivo ou comissivo que propicie o descumprimento dessas vedações". 2. A jurisprudência desta Corte fixou entendimento no sentido de que a vedação prevista nesse preceito "alcança apenas as hipóteses em que a vistoria ainda não tenha sido realizada ou quando feitos os trabalhos durante ou após a ocupação" [MS n. 24.136, Relator o Ministro MAURICIO CORRÊA, DJ de 8.11.02]. No mesmo sentido, o MS n. 23.857, Relatora a Ministra ELLEN GRACIE, DJ de 13.6.03. 3. A ocupação do imóvel pelos trabalhadores rurais ocorreu após quase dois anos da data da vistoria realizada pelo INCRA. Segurança denegada” (DJe de 14/5/10).
+Assim, ausente o direito líquido e certo alegado pelo impetrante, ao ajuizar este mandamus, impõe-se a denegação da ordem.
+Anote-se, por oportuno que, nos termos do artigo 205 do Regimento Interno desta Corte, em hipóteses como a presente, em que o mandado de segurança versar “matéria objeto de jurisprudência consolidada do Tribunal”, poderá o relator decidi-lo monocraticamente.
+E tal tipo de agir, conferido ao relator do feito, também já foi submetido ao crivo do Plenário desta Corte, o qual referendou tal possibilidade, ao apreciar o MS nº 27.236-AgR/DF, relator o Ministro Ricardo Lewandowski (DJe de 30/4/10), cuja ementa assim dispõe, na parte em que interessa:
+Nos termos do art. 205 do Regimento Interno do STF, pode o Relator julgar monocraticamente pedido que veicule pretensão incompatível com a jurisprudência consolidada desta Corte, ou seja, manifestamente inadmissível. IV - Agravo regimental improvido”.
+Ante o exposto, denego a segurança. Custas pelos impetrantes, não havendo que se falar em condenação em honorários de advogado, nos termos da Súmula nº 512, desta Corte.
+Publique-se.
+Brasília, 22 de março de 2011.
+MINISTRO DIAS TOFFOLI
+            RELATOR
