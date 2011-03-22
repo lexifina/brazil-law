@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 5ª Região. Acórdão assim ementado (fls. 60):
+“PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. DISCIPLINAS DE ESTÁGIO E ATIVIDADES COMPLEMENTARES. COBRANÇA DE MENSALIDADES. AUSÊNCIA DE INTERESSE DA UNIÃO. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. ART. 109, I, DA CF/88. AUSÊNCIA DE PREVISÃO LEGAL.
+1. A simples presença do Ministério Público Federal em um dos pólos da ação em trâmite não atrai, por si só, a competência da Justiça Federal para o processamento do feito, já que, em grande parte das vezes, o Parquet não está em juízo na defesa de interesse próprio, mas alheio – e, quase sempre – transindividual.
+2. Para fins de definição da efetiva competência daquele juízo, é imprescindível que se examine se a questão abordada nos autos insere-se no rol das matérias previstas no art. 109, I, da CF/88, o que deve ser realizado pela própria Justiça Federal, haja vista sua competência exclusiva para avaliar a efetiva existência de interesse da União na lide.
+3. In casu, inexiste o interesse de qualquer entidade federal na lide, eis que diversamente do que pondera o recorrente, a discussão travada nos autos não gira em torno do direito à educação protegido pela Carta Magna, caracterizando-se, tão-somente, como um assunto interno da instituição de ensino privada acerca da política adotada para a cobrança de mensalidades aos seus alunos. Súmula 34 do eg. STJ.
+4. Agravo inominado improvido.”
+2. Pois bem, a parte recorrente sustenta violação ao inciso I do art. 109 da Magna Carta de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Francisco Adalberto Nóbrega, opina pelo desprovimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. É que o entendimento da instância judicante de origem afina com a jurisprudência do Supremo Tribunal Federal, no sentido de que à Justiça estadual compete o julgamento das causas propostas contra instituições particulares de ensino superior que não envolvam interesse da União. Confiram-se, nesse mesmo sentido, os REs 118.221, da relatoria do ministro Néri da Silveira; 360.651, da relatoria do ministro Dias Tofolli; e 474.829, da relatoria do ministro Gilmar Mendes; bem como o CJ 6.692, Pleno, da relatoria do ministro Sydney Sanches, este último com a seguinte ementa:
+“Jurisdição. Competência. Justiça Federal. Justiça Estadual. Compete à Justiça Estadual, e não à Federal, processar e julgar ações cautelares e de conhecimento (declaratória), propostas por alunos contra estabelecimento particular de ensino superior, mesmo quando se discuta interpretação de normas federais a este relativas, quando não ocorre qualquer das hipóteses previstas no art. 125, inciso I, nem se impugna ato de seu Diretor mediante mandado de segurança (inciso VIII). Conflito negativo conhecido e declarada a competência da Justiça Estadual”.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 22 de março de 2011.
+Ministro AYRES BRITTO
+Relator
