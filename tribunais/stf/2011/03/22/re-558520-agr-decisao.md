@@ -1,0 +1,21 @@
+DECISÃO: vistos, etc.
+Reconsidero a decisão de fls. 861/864.
+Cuida-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ª Região.
+2. Da leitura dos autos, observo que a instância judicante de origem entendeu constitucionais as contribuições sociais de que tratam os arts. 1º e 2º da Lei Complementar 110/2001.
+3. Pois bem, a parte recorrente afirma, em essência, que houve afronta ao caput do art. 5º, ao § 1º do art. 145 e aos incisos II e III do art. 150, todos da Magna Carta de 1988; bem como ao inciso I do art. 10 do ADCT. Sustentam a inconstitucionalidade das referidas exações. Requerem, “subsidiariamente, seja reconhecido o direito de serem restituídas dos valores recolhidos indevidamente a título de tais contribuições no exercício de 2001, conforme decisão proferida por esse Augusto Supremo Tribunal Federal nos autos da ADIN nº 2.556/DF” (fls. 830).
+4. Tenho que, no tocante aos valores recolhidos no exercício financeiro de 2001, o apelo extremo merece acolhida. Isso porque o Plenário desta nossa Casa de Justiça, ao julgar o ADI 2.556, da relatoria do ministro Moreira Alves, negou, em sede liminar, a suspensão da eficácia dos aludidos dispositivos (arts. 1º e 2º da LC 110/2001), nos seguintes termos:
+“Ação direta de inconstitucionalidade. Impugnação de artigos e de expressões contidas na Lei Complementar federal nº 110, de 29 de junho de 2001. Pedido de liminar.
+- A natureza jurídica das duas exações criadas pela lei em causa, neste exame sumário, é a de que são elas tributárias, caracterizando-se como contribuições sociais que se enquadram na sub-espécie ‘contribuições sociais gerais’ que se submetem à regência do artigo 149 da Constituição, e não à do artigo 195 da Carta Magna.
+- Não-ocorrência de plausibilidade jurídica quanto às alegadas ofensas aos artigos 145, § 1º, 154, I, 157, II, e 167, IV, da Constituição.
+- Também não apresentam plausibilidade jurídica suficiente para a concessão de medida excepcional como é a liminar as alegações de infringência ao artigo 5º, LIV, da Carta Magna e ao artigo 10, I, de seu ADCT.
+- Há, porém, plausibilidade jurídica no tocante à argüição de inconstitucionalidade do artigo 14, ‘caput’, quanto à expressão ‘produzindo efeitos’, e seus incisos I e II da Lei Complementar objeto desta ação direta, sendo conveniente, dada a sua relevância, a concessão da liminar nesse ponto.
+Liminar deferida em parte, para suspender, ‘ex tunc’ e até final julgamento, a expressão ‘produzindo efeitos’ do ‘caput’ do artigo 14, bem como seus incisos I e II, todos da Lei Complementar federal nº 110, de 29 de junho de 2001.”
+5. Especificamente no tocante à anterioridade, extraio do voto do relator da mencionada ação direta a seguinte passagem, in verbis:
+“tendo sido fixado, para o exame de liminar, que as duas contribuições em causa não são contribuições para a seguridade social, mas, sim, contribuições sociais gerais, a elas não se aplica o disposto no art. 195, § 6º, da Constituição, o que implica dizer que devem respeito ao princípio da anterioridade a que alude o artigo 150, III, ‘b’, da Carta Magna, a vedar a cobrança dessas contribuições no mesmo exercício financeiro em que haja sido publicada a lei que as instituiu.”
+6. Mais recentemente, a egrégia Primeira Turma desta nossa Casa de Justiça, ao julgar o AI 519.294-AgR, da relatoria do ministro Sepúlveda Pertence, consagrou o mesmo entendimento. É o que se vê da ementa:
+“Contribuições instituídas pela Lei Complementar 110/2001: legitimidade, conforme entendimento do STF no julgamento da ADIn 2.556-MC (Pleno, 9.10.2002), Moreira Alves, DJ 8.8.2003), que se aplica, desde logo, às causas que versem sobre idêntica controvérsia: precedentes.”
+Ante o exposto, e frente ao § 1º-A do art. 557 do CPC, dou parcial provimento ao recurso. Assim o faço apenas para declarar ilegítima a cobrança das contribuições no ano de 2001 e determinar que sejam restituídos aos recorrentes os valores das contribuições indevidamente recolhidas. As demais questões serão apuradas pelo Juízo da execução.
+Publique-se.
+Brasília, 22 de março de 2011.
+Ministro AYRES BRITTO
+Relator
