@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“INTERVENÇÃO ESTADUAL no Município de Santo André. I – Não acolhimento de preliminar de ilegitimidade passiva suscitada pelo Município, vez que este é responsável pelo pagamento de precatório expedido contra autarquia, que depende do repasse da verba – Exclusão, por conseguinte, da autarquia envolvida (Instituto de Previdência de Santo André) do pólo passivo da demanda. II – Não pagamento de precatório que veicula crédito de natureza alimentícia. Hipótese de ressalva prevista no art. 78 do Ato das Disposições Constitucionais Transitórias, acrescido pela Emenda Constitucional nº 30/2000 – Recusa injustificada da autoridade executiva, ademais, em efetuar o cumprimento de ordem ou decisão judicial – PEDIDO ACOLHIDO, oficiando-se ao Exmo. Sr. Governador do Estado para todas as providências necessárias à sua efetiva concretização” (fl. 173).
+No recurso extraordinário, interposto 102, III, “a”, da Constituição Federal, sustenta-se ofensa aos artigos 5º, LIV e LV; 35, IV; e 100, do texto constitucional.
+O presente recurso é interposto em face de decisão do Tribunal de origem que acolheu representação de intervenção em Município, em razão do descumprimento de decisão judicial transitada em julgada, consistente no pagamento de precatório.
+Decido.
+Razão jurídica não assiste ao recorrente.
+Segundo entendimento sumulado desta Corte, não cabe recurso extraordinário contra decisão proferida pelo Tribunal a quo que defere pedido de intervenção estadual em município, em razão da natureza político-administrativa de tal decisão.
+Incide, portanto, a Súmula 637 do STF.
+Nesse sentido os seguintes julgados: AI-AgR 631.534, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 20.11.2009; AI-AgR 629.867, Rel. Min. Ayres Britto, Primeira Turma, DJe 14.8.2009 e AI-AgR 566.774, Rel. Min. Joaquim Barbosa, Segunda Turma, este último com acórdão assim ementado:
+“AGRAVO REGIMENTAL. INTERVENÇÃO ESTADUAL EM MUNICÍPIO. SÚMULA 637 DO STF. Não cabe recurso extraordinário de decisão que defere liminar, pois a verificação da existência dos requisitos para sua concessão, além de se situar na esfera de avaliação subjetiva do magistrado, não é manifestação conclusiva de sua procedência para ocorrer a hipótese de cabimento do recurso extraordinário pela letra a do inciso III do artigo 102 da Constituição. Ainda que assim não fosse, de acordo com a jurisprudência deste Tribunal, a decisão de tribunal de justiça que determina a intervenção estadual em município tem natureza político-administrativa, não ensejando, assim, o cabimento do recurso extraordinário. Incidência, no caso, da Súmula 637 deste Tribunal. Agravo regimental a que se nega provimento”.
+Ademais, nos termos da jurisprudência da Corte, as alegações de ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa, se dependentes do reexame de normas infraconstitucionais, configura ofensa meramente reflexa à Constituição Federal.
+Nesse sentido: AI-AgR 755.879, de minha relatoria, Segunda Turma, DJe 10.12.2010; AI-AgR 635.749, de minha relatoria, Segunda Turma, DJe 25.4.2008 e AI-AgR 620.185, de minha relatoria, DJe 18.4.2008, este último com acórdão assim ementado:
+“Agravo regimental em agravo de instrumento. 2. Princípios da ampla defesa, do contraditório e do devido processo legal. Necessidade de exame prévio da legislação processual. Em regra, ofensa reflexa à Constituição Federal. Precedentes. 3. Ato Jurídico Perfeito. Penhora de bem dado em garantia real. Interpretação de norma infraconstitucional. Precedente. 4. Agravo regimental a que se nega provimento”.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º RISTF, e 557, caput, do CPC).
+Publique-se.
+Brasília, 23 de março de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
