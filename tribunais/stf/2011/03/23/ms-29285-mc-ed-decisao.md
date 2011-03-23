@@ -1,0 +1,14 @@
+D ECIS Ã O: vistos, etc.
+Trata-se de embargos de declaração, interpostos pelo impetrante contra decisão pela qual indeferi a liminar neste mandado de segurança. Decisão que se fundamentou na indispensabilidade da realização de concurso público para ingresso na atividade notarial. Confira-se:
+“Ora, quando da vacância do Cartório do 2º Ofício da Comarca de Magé (serventia judicial e extrajudicial), já deveria o Tribunal de Justiça ter desmembrado as serventias e determinado a realização de concurso público para ocupação do serviço notarial. É que a Constituição Federal, desde 1988, desautoriza a acumulação de serviços judiciais e extrajudiciais. Isto por determinar que os serviços notariais e de registro são exercidos em caráter privado. Nesse sentido, tenho também que não socorre ao autor o art. 32 do ADCT. Dispositivo que resguarda da aplicação do art. 236 da CF os servidores dos serviços notariais e de registros que já tenham sido oficializados pelo Poder Público. É que, em 1988, não era o impetrante titular da serventia extrajudicial oficializada. Foi para ela removido, aparentemente, sem concurso público, tão somente no ano de 1993. Passando, portanto, a titularizar serventia extrajudicial, após 1988, sem a realização de concurso público.”
+2. Pois bem, na petição de embargos, o impetrante aponta omissão do julgado quanto aos seguintes fundamentos do mandado de segurança: a) existência de lide judicial, o que impede a atuação do Conselho Nacional de Justiça; b) ausência de má-fé do impetrante e violação ao princípio da segurança jurídica.
+3. Pois bem, imperioso é pontuar, de início, que esta Casa de Justiça já firmou entendimento de que não cabem embargos de declaração contra decisão monocrática do relator (Pet. 1245, Rel. Min. Moreira Alves). Ademais, não é de ser exigido do magistrado a manifestação tópica de cada argumento da petição inicial, desde que um só fundamento já seja suficiente para afastar a plausibilidade jurídica do pedido e o perigo da demora na prestação jurisdicional (MS 29.726 MC-ED, RE 463.139).
+3. No caso dos autos, parece-me que a mera existência de ação judicial em que se discute a titularidade da serventia extrajudicial em questão não constitui óbice à atuação do CNJ. O que ocorreria, caso houvesse algum provimento jurisdicional, ainda que cautelar, favorável ao impetrante. Provimento, entretanto, não demonstrado pelo acionante.
+4. Quanto à ausência de má-fé do impetrante e violação ao princípio da segurança jurídica, reitero que estes argumentos, incorporados à tese da decadência do poder de a Administração rever seus próprios atos (poder de auto-tutela), já foram rejeitados pelo Plenário deste Supremo Tribunal Federal (MS 28.279, Rel. Min. Ellen Gracie).
+4. Ante o exposto, rejeito os presentes embargos de declaração.
+Intime-se.
+Publique-se.
+Brasília, 23 de março de 2011.
+Ministro A YRES B RITTO
+Relator
+Documento assinado digitalmente
