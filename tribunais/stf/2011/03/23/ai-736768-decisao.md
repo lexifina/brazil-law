@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. JULGADO RECORRIDO FUNDAMENTADO NO CÓDIGO TRIBUTÁRIO NACIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto julgado do Tribunal Regional Federal da 3ª Região, que concluiu pela inexistência dos pressupostos legais para a expedição de certidão positiva de débitos tributários com efeito de negativa.
+3. No recurso extraordinário, a Agravante alega que o Tribunal a quo teria contrariado o art. 151 do Código Tributário Nacional e os arts. 5º, inc. II, XXXIV, alínea b, e LV, e 150, inc. II, da Constituição da República.
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta (fl. 454).
+A Agravante sustenta a presença dos requisitos de admissibilidade do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. Este Supremo Tribunal assentou que a alegação de contrariedade aos arts. 5º, inc. II, XXXIV, alínea b, e LV, e 150, inc. II, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, do Código Tributário Nacional), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. INTIMAÇÃO PESSOAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta ” (AI 776.282-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010).
+“ RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IPI. MERCADORIA DE PROCEDÊNCIA ESTRANGEIRA. FATO GERADOR. CÓDIGO TRIBUTÁRIO NACIONAL. OFENSA REFLEXA. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento” (RE 285.669-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 15.8.2008 - grifos nossos).
+“TRIBUTÁRIO. INCONSTITUCIONALIDADE DE MAJORAÇÃO DE ALÍQUOTA. REPETIÇÃO DE INDÉBITO. IMPOSSIBILIDADE. AUSÊNCIA DE COMPROVAÇÃO DE QUE SUPORTOU O ÔNUS FINANCEIRO. ART. 166 DO CTN. NÃO CUMULATIVIDADE. NÃO APLICAÇÃO. INOVAÇÃO EM REGIMENTAL. I - Impossibilidade de inovação de fundamento em agravo regimental. II - O crédito decorrente do reconhecimento da inconstitucionalidade da majoração de tributo não se confunde com o crédito derivado do princípio da não cumulatividade. III - A discussão acerca da aplicação do art. 166 do CTN é de cunho infraconstitucional. Ofensa à Constituição, se ocorrente, é indireta. IV - Agravo regimental improvido” (AI 566.358-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1º.2.2008 – grifos nossos).
+“Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI 508.047-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 21.11.2008).
+7. Nada há a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 23 de março de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
