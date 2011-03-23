@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. INDENIZAÇÃO. IMPOSSIBILIDADE DE REEXAME DE FATOS, PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+“APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL OBJETIVA. DIREITO DO CONSUMIDOR. RETIRADA QUE FOI AUTORIZADA PELA CORRENTISTA CONSIDERANDO A CONFIANÇA QUE DEPOSITAVA NA INSTITUIÇÃO BANCÁRIA. DESVIO DO VALOR RETIRADO. USO PARA FINS PARTICULARES. RESPONSABILIDADE DA INSTITUIÇÃO BANCÁRIA AINDA QUE O ATO PRATICADO POR UM DE SEUS PREPOSTOS SEM VINCULAÇÃO À FUNÇÃO EXERCIDA. DANOS MATERIAL E MORAL CONFIGURADOS. VERBA QUE DEVE SER ARBITRADA EM OBSERVÂNCIA AO PRINCÍPIO DA RAZOABILIDADE: ART. 402 DO CÓDIGO CIVIL. PROVIMENTO PARCIAL DO RECURSO PARA REDUZIR O QUANTUM PARA R$10.000,00” (fl. 186).
+3. No Recurso Extraordinário, a Agravante afirma que o Tribunal a quo teria contrariado o art. 5º, inc. LV, da Constituição da República.
+Argumenta que “não pode haver dúvidas quanto a ter sido o julgamento da lide contrário ao ordenamento jurídico vigente, quando ao Recorrente coube o dever de produzir provas, com o objetivo de afastar as alegações contidas na inicial, pelo que deve ser provido o recurso no tocante à negativa de vigência ao artigo 5º, inc. LV, da Constituição da República” (fls. 237-238).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa direta à Constituição da República (fl. 338).
+Examinada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. Com base no exame de provas e da legislação infraconstitucional aplicável à espécie, o Tribunal de origem concluiu pela existência de nexo de causalidade entre a conduta da Agravante e os danos sofridos pela Agravada. Para se concluir de modo diverso, seria imprescindível o reexame do conjunto fático-probatório constante dos autos, o que não viabiliza o recurso extraordinário. Incide na espécie a Súmula 279 deste Supremo Tribunal. Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CIVIL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”(AI 802.403-AgR/SC, de minha relatoria, Primeira Turma, DJ 25.11.2010).
+““Responsabilidade civil de estabelecimento bancário: envio de cartão de crédito e cobrança indevida: recurso extraordinário: descabimento: controvérsia decidida à luz de legislação infraconstitucional pertinente - L. 8.078/90 e dos fatos e provas dos autos: incidência das Súmulas 279 e 636” (AI 645.031-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJe 3.8.2007).
+“AGRAVO REGIMENTAL. INDENIZAÇÃO POR DANO MORAL. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. INEXISTÊNCIA DE OFENSA AO ART. 5º, II, XXXV E LIV, DA CF/88. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279/STF. Necessidade de exame prévio de norma infraconstitucional para a verificação de contrariedade ao Texto Maior. Caracterização de ofensa reflexa ou indireta. Agravo regimental a que se nega provimento” (AI 546.092-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 19.5.2006).
+7. Ademais, o Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República, se dependente do exame de legislação infraconstitucional, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+Nada há, pois, a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 23 de março de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
