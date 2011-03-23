@@ -1,0 +1,11 @@
+DESPACHO: Junte-se o expediente protocolizado nesta Corte sob o nº 12043/2011, bem como a petição nº 12057/2011 e o ofício com o protocolo nº 12397/2011.
+Considerando a certidão constante do expediente protocolizado nesta Corte sob o nº 12043/2011, informando que a carta de ordem encaminhada ao Juízo de Direito da Vara Criminal de Piraju/SP foi “cumprida e devolvida em 20/12/2010”, certifique a Secretaria se a mencionada carta de ordem foi recebida nesta Corte.
+Caso não tenha sido recebida, oficie-se àquele Juízo requisitando que esclareça se encaminhou a carta de ordem sob enfoque para o Supremo Tribunal Federal, bem como informe se foi ou não realizada a oitiva das testemunhas Antônio Luiz Paula Meira, Luís Otávio Motta e Lair Antônio Azevedo.
+Na petição de fls. 3.862-3.864, o réu Paulo Pereira da Silva pede a concessão de “prazo não inferior a 07 (sete) dias, a fim de indicar outra testemunha, em substituição à testemunha Duclair Sternadt Alexandre.” Todavia, na petição nº 12057/2011, o denunciado requer a desistência de tal pleito, bem como da oitiva tanto da testemunha Duclair Sternadt Alexandre, “em virtude de não ter logrado localizá-la”, quanto das demais testemunhas que se encontrem “em lugar incerto em não sabido”. Defiro o pedido constante dessa última petição (nº 12057/2011).
+Conforme se extrai do despacho de fls. 3.802, o Juízo Federal encarregado do cumprimento da carta de ordem expedida para a inquirição das testemunhas arroladas pela defesa encaminhou tal carta de ordem, sucessivamente, às Comarcas de Piraju/SP, Angatuba/SP e Barão de Antonina/SP, e, por fim, à Subseção Judiciária de Bauru/SP.
+Todavia, nesse despacho de fls. 3.802, não consta a testemunha Luis Antônio Adriano da Silva, residente em Tatuí/SP (fls. 3.211).
+Sendo assim, defiro o pedido da PGR, formulado na petição fls. 3.867-3.869, para que seja oficiado ao Juízo Federal da Subseção Judiciária de Bauru/SP, determinando que, após a oitiva das demais testemunhas, encaminhe a carta de ordem ao Juízo de Direito da Comarca de Tatuí/SP, a fim de seja ouvida a testemunha Luis Antônio Adriano da Silva (fls. 3.211).
+Publique-se.
+Brasília, 23 de março de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
