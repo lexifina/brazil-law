@@ -1,0 +1,17 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Pará. Acórdão assim ementado (fls. 260/261):
+“AÇÃO RESCISÓRIA. PRELIMINAR DE CARÊNCIA DE AÇÃO. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. EXISTÊNCIA DE DECISÃO DO STF NA ADPF Nº 33. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. VOTAÇÃO UNÂNIME.
+I - O Pretório Excelso, na sessão plenária do dia 07 de dezembro de 2005, em sede de meritória, à unanimidade de votos, julgou procedente o pedido contido na ADPF nº 33, ajuizada pelo Governador do Estado do Pará em face do Instituto do Desenvolvimento Econômico-Social do Pará - IDESP, para declarar a ilegitimidade do Regulamento de Pessoal do mencionado instituto (Decreto Estadual nº 4.307/86), a partir da Constituição Federal de 1988.
+II - Em sede de ação rescisória não se discute a justiça ou não da decisão rescindenda, até porque é pacífico o entendimento jurisprudencial, representado pela Súmula nº 343 do STF, no sentido de que: ‘Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto de interpretação controvertida nos Tribunais’.
+III - Resta demonstrada a falta de interesse processual das requerentes, haja vista a total inutilidade do provimento jurisdicional a ser dado, posto que as decisões do STF, em sede de controle concentrado de constitucionalidade, possuem efeitos erga omnes e vinculantes em relação aos demais órgãos do Poder Público, ex vi do disposto no art. 10, § 3º, da Lei nº 9.882/99, que dispõe sobre o processo e julgamento da Argüição de Descumprimento de Preceito Fundamental - ADPF.
+IV - As autoras, visivelmente, são carecedoras do direito de ação rescisória, posto que já existe decisão da Corte Maior, em sede de controle abstrato de constitucionalidade, que julgou incompatível com a Carta Republicana o diploma legal que dava sustentação ao pleito das demandantes.
+V - Ademais, frise-se, por oportuno, que os servidores públicos não possuem direito adquirido à imutabilidade de regime remuneratório, sendo passível de modificação quando em desacordo com a ordem constitucional.”
+2. Pois bem, a parte recorrente alega violação ao caput e inciso I do art. 5º da Magna Carta de 1988.
+3. Tenho que o recurso não merece acolhida. Isso porque o aresto impugnado se limitou a examinar o cabimento de ação rescisória, matéria restrita ao âmbito processual, o que não enseja a abertura da via extraordinária.
+4. Não bastasse, é firme no Supremo Tribunal Federal o entendimento de que “o recurso extraordinário interposto em processo de ação rescisória há de voltar-se contra fundamentação do acórdão nela proferido e não a da decisão rescindenda. No caso, o acórdão recorrido decidiu questão prejudicial de inadmissibilidade da ação rescisória, enquanto o RE fundou-se em violação de dispositivo constitucional atinente ao mérito da decisão rescindenda” (RE 408.409-AgR, da relatoria do ministro Sepúlveda Pertence).
+5. No mesmo sentido, vejam-se as seguintes decisões: AIs 504.824-AgR, da minha relatoria; e 553.022-AgR, da relatoria do ministro Celso de Mello; bem como REs 415.425-AgR, da relatoria da ministra Ellen Gracie; e 416.287-AgR, da relatoria do ministro Sepúlveda Pertence.
+Isso posto, e frente ao caput do art. 557 do CPC, e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de março de 2011.
+Ministro AYRES BRITTO
+Relator
