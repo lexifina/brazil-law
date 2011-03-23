@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. IMPROCEDÊNCIA DA ALEGAÇÃO DE CONTRARIEDADE AO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“A invocação da responsabilidade solidária prevista no art. 8º do Decreto-Lei nº 1.736/79 também não ampara a agravante. Para explicitar a controvérsia, transcrevo o teor do dispositivo:
+'Art. 8º São solidariamente responsáveis com o sujeito passivo os acionistas controladores, os diretores, gerentes ou representantes de pessoas jurídicas de Direito Privado, pelos créditos decorrentes do não recolhimento do Imposto sobre Produtos Industrializados e do Imposto sobre a Renda descontados na Fonte'.
+O referido dispositivo legal despreza a circunstância de que o sócio-gerente, diretor ou o controlador não têm relação pessoal e direta com o fato gerador. Consabido que é a empresa o sujeito passivo da obrigação tributária. O diretor, sócio-gerente e o acionista controlador somente podem participar da relação jurídica como terceiros, na qualidade de responsáveis tributários, nos termos dos arts. 134 a 135 do CTN. Convém frisar, mais uma vez, que existe solidariedade quando dois ou mais sujeitos passivos estão obrigados a satisfazer a exação, em decorrência de uma mesma relação jurídica obrigacional. Se houver outra relação jurídica, criada unicamente para assegurar a satisfação da obrigação, não existirá solidariedade, mas responsabilização de terceiros.
+Portanto, a análise do disposto no art. 8º do DL nº 1.736/79 permite concluir que o legislador, embora denomine a hipótese de solidariedade, trata, em verdade, de responsabilidade de terceiros, porquanto a causa eficiente da relação jurídica obrigacional não é o fato gerador do tributo, mas o não recolhimento do IPI e do IRPJ retido na fonte. Afigura-se evidente a existência de duas relações jurídicas obrigacionais: uma, cujo sujeito passivo é o contribuinte (empresa), e a outra, em que a sujeição passiva é do terceiro (sócio-gerente ou acionista-controlador).
+Assim, viabiliza-se a aplicação daquele diploma legal apenas quando estiverem presentes os requisitos do art. 135, inciso III, do CTN. Em suma, o estabelecido no DL nº 1.736/79 não tem a faculdade de afastar a exigência de demonstração de atuação dolosa ou culposa do sócio” (fls. 119 v.-120 – grifos nossos).
+3. No recurso extraordinário, a Agravante afirma que o Tribunal a quo teria contrariado o art. 97 da Constituição da República, ao afastar a aplicação do art. 8º do Decreto-Lei n. 1.736/79.
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a natureza infraconstitucional do objeto do julgado recorrido e a inexistência de contrariedade ao art. 97 da Constituição (fls. 137-139).
+A Agravante sustenta a presença dos requisitos de admissibilidade do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. O Tribunal Regional Federal da 1ª Região não declarou a inconstitucionalidade de norma legal, tampouco afastou sua aplicação com fundamento em princípio extraído da Constituição da República.
+Ao contrário, o Tribunal de origem limitou-se a interpretar o art. 8º do Decreto-Lei n. 1.736/79 e concluiu pela existência de hipótese de responsabilidade de terceiros por obrigação tributária, a despeito da referência à solidariedade, razão pela qual aquele dispositivo somente poderia ser aplicado em conjunto com o art. 135 do Código Tributário Nacional.
+Assim, como ressaltado na decisão agravada, o art. 97 da Constituição da República não foi contrariado.
+Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. 1. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE OS QUINZE PRIMEIROS DIAS DO AUXÍLIO-DOENÇA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. 2. INEXISTÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO TRIBUNAL A QUO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 767.064-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010).
+“CONSTITUCIONAL. PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CRITÉRIOS DE CÁLCULO DA PENSÃO DE ANISTIADO. AUSÊNCIA DE DEBATE DA QUESTÃO CONSTITUCIONAL. SÚMULA STF 282. PRINCÍPIO DA RESERVA DE PLENÁRIO. 1. As questões constitucionais nas quais se apóia o extraordinário não foram debatidas. Súmula STF 282. 2. Inexistência de ofensa ao princípio da reserva de plenário, pois o acórdão recorrido analisou normas legais sem julgar inconstitucional lei ou ato normativo federal. 3. Agravo regimental improvido” (RE 436.155-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 24.4.2009).
+“ACÓRDÃO QUE AFASTOU A APLICAÇÃO DE NORMA JURÍDICA POR NÃO SE APLICAR À HIPÓTESE DOS AUTOS SEM, NO ENTANTO, DECLARÁ-LA INCONSTITUCIONAL. Não há violação ao disposto no art. 97 da Constituição Federal quando o acórdão recorrido nega aplicação à norma jurídica por entender incabível no caso sob exame. Agravo improvido” (AI 230.990-AgR-AgR, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 5.11.1999).
+7. Nada há a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 23 de março de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
