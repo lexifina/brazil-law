@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1137, de 23 de março de 2011
+Aprova o programa gerador e as instruções de preenchimento do Demonstrativo do Crédito Presumido, versão 1.2 (PGD DCP 1.2).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, na Portaria MF nº 93, de 27 de abril de 2004, e nas Instruções Normativas SRF nº 419 e nº 420, de 10 de maio de 2004, resolve:
