@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. DEFICIÊNCIA DO TRASLADO: SÚMULA N. 288 DO SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“AÇÃO DECLARATÓRIA DE NULIDADE DE DÉBITO E SUSTAÇÃO DE PROTESTO. DUPLICATA EMITIDA EM DECORRÊNCIA DA SUPOSTA PRESTAÇÃO DE SERVIÇOS ADUANEIROS.
+Autora que mantém contrato com outro escritório de exportação (Bruno Druschel Exportadora Ltda.), que faz a intermediação das vendas de suas mercadorias para o mercado exterior. No referido contrato, está estabelecido que os calçados devem ser postos pela autora na sede da empresa ré, cessando ali sua responsabilidade pelo transporte. Cumprindo à requerida a obrigação de os encaminhar, através de contêineres, ao Porto de Rio Grande, visando o endereçamento para fora do País.
+ Na execução do referido transporte, a ré teria efetuado despesas, emitindo nota fiscal de serviços e sacado duplicata em razão dos custos daí decorrentes. Ausência de prova acerca da exigibilidade dos custos decorrentes do trabalho realizado. Contrato entre as partes que não autorizaria o repasse dos referidos custos. Duplicata que foi emitida, baseada em nota fiscal de serviço que não veio a ser aceita pela sacada, no caso a autora.
+Sustação de protesto que é de ser deferida, porque ausente negócio subjacente a autorizar sua emissão” (fl. 210).
+3. No recurso extraordinário, a Agravante afirma que “fere o acórdão prolatado os dispositivos constitucionais previstos no art. 1º, III, e 3º, I, da CRFB/88, uma vez que a usurpação de pagamento por trabalho efetivamente realizado é intrínseco à individualidade e sua violação afeta a coletividade” (fl. 252).
+Analisados os elementos havidos nos autos, DECIDO.
+4. Razão jurídica não assiste à Agravante.
+5. Há deficiência no traslado.
+Não há, nos autos do agravo de instrumento, cópia da decisão agravada (às fls. 258-261 constam apenas algumas páginas da decisão que negou seguimento ao recurso especial), o que atrai a incidência da Súmula n. 288 do Supremo Tribunal e não viabiliza o agravo de instrumento. Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRASLADO DEFICIENTE. INTEIRO TEOR DO ACÓRDÃO RECORRIDO. OBSCURIDADE. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 581.565-AgR-ED, de minha relatoria, Primeira Turma, DJ 29.6.2007).
+“AGRAVO DE INSTRUMENTO - EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO - TRASLADO INCOMPLETO - DESCUMPRIMENTO DE OBRIGAÇÃO PROCESSUAL - SÚMULA 288/STF - RECURSO DE AGRAVO IMPROVIDO. AGRAVO DE INSTRUMENTO E SÚMULA 288/STF. - Sem que a parte agravante promova a integral formação do instrumento, com a apresentação de todas as peças que dele devem constar obrigatoriamente, torna-se inviável conhecer do recurso de agravo, cabendo enfatizar que a composição do traslado deve processar-se, necessariamente, perante o Tribunal de jurisdição inferior, e não, tardiamente, perante o Supremo Tribunal Federal. COMPOSIÇÃO DO TRASLADO E DEVER DE VIGILÂNCIA DA PARTE AGRAVANTE. - Incumbe, exclusivamente, à parte agravante, o dever de fiscalizar a formação e a integral composição do traslado, não se podendo imputar esse ônus processual à Secretaria do Tribunal. Precedentes. - A deficiente formação do traslado do agravo de instrumento - que constitui insuperável obstáculo formal ao seu conhecimento - não pode ser complementada nem tardiamente suprida, quando o recurso de agravo já se achar no Supremo Tribunal Federal. Precedentes” (AI 605.158-ED/PR, Rel. Min. Celso de Mello, Segunda Turma, DJ 19.12.2006).
+“1. Ausência no traslado de peça obrigatória para a formação do agravo de instrumento, com aplicação das disposições previstas no § 1º do art. 544 do CPC e na Súmula STF n. 288. 2. Agravo regimental improvido ” (AI 621.644-AgR/PE, Rel. Min. Ellen Gracie, Tribunal Pleno, DJ 20.4.2007).
+Ressalte-se que este Supremo Tribunal assentou “que o instrumento deve estar completo no momento da sua interposição, além do que é dever do Agravante fiscalizar a correta formação do agravo de instrumento” (AI 642.601–AgR, de minha relatoria, DJ 15.6.2007; e AI 137.645, Rel. Min. Sepúlveda Pertence, Plenário, RTJ 157/1012).
+6. Nada há a prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 24 de março de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
