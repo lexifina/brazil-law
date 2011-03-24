@@ -1,0 +1,46 @@
+D ESPACHO:
+Vistos.
+ARNÓBIO ALVES BEZERRA interpõe tempestivo agravo regimental (folhas 124 a 138), contra a decisão monocrática (folhas 105/106) que deu provimento ao recurso extraordinário interposto pela agravada.
+Tal decisão, proferida pelo eminente Ministro Sepúlveda Pertence, assim dispõe:
+“DECISÃO: A Turma Recursal do Juizado Especial Cível e Criminal dos Estados de Amazonas e Roraima deferiu ao recorrido indenização por dano moral em razão do não encaminhamento pelo Chefe do Poder Executivo de projeto de lei ao Congresso Nacional sobre reajuste salarial dos servidores públicos, tendo em vista a mora reconhecida pelo Supremo Tribunal Federal no julgamento da ADIn 2.061.
+A recorrente interpôs incidente de uniformização e recurso extraordinário contra o acórdão da Turma Recursal e ambos foram admitidos.
+A Turma Regional de Uniformização de Jurisprudência das Turmas Recursais dos Juizados Especiais Federais da Primeira Região manteve a indenização por danos morais, sob o mesmo fundamento, qual seja, impossibilidade de se proceder ao reajuste e à recomposição das remunerações por índices fixados pelo Judiciário - razão pela qual se torna inviável a indenização por danos materiais, restando apenas a possibilidade de indenizar os danos morais sofridos pelos servidores, tendo em vista “o abalo psicológico ante a incerteza da percepção de futuros aumentos e nas privações financeiras resultantes de sua situação, ocasionada pela omissão legislativa”.
+A União interpôs novo RE, a e b, em que alega violação dos arts. 2o, 37, X, e 61, § 1o, II, a, da Constituição Federal.
+Invoca a Súmula 339 deste Tribunal.
+Decido.
+Não conheço do RE (f. 115/125) interposto contra o acórdão da Turma Recursal, uma vez que, admitido o processamento do incidente de uniformização de jurisprudência, não se estava diante de decisão de única ou última instância: incide a Súmula 281.
+Passo ao exame do RE contra o acórdão da Turma Regional de Uniformização (f. 145/174).
+O intuito do acórdão recorrido foi bastante claro: defere-se a indenização por danos morais ante a impossibilidade de o Poder Judiciário conceder o reajuste, ou, ao menos, de indenizar as perdas salariais dos servidores.
+Embora tenha adotado fundamentação diversa, o acórdão recorrido incorreu em prática vedada pela jurisprudência deste Tribunal, segundo a qual o Poder Judiciário não tem função legislativa para aumentar vencimentos de servidores públicos, princípio subjacente à Súmula 339.
+Nego seguimento ao RE de f. 115/125 (art. 557, caput, C.Pr.Civil) e dou provimento ao RE de f. 145/174 (art. 557, § 1o-A, C.Pr.Civil) para julgar improcedentes o pedido de indenização por danos morais.
+Brasília, 28 de abril de 2006”.
+Asseverou o agravante que o aludido recurso extraordinário seria incabível, em respeito ao princípio da unirrecorribilidade das decisões, porque já fora anteriormente interposto incidente de uniformização de jurisprudência. Quanto ao mais, aduziu que a mora do Poder Executivo em proceder à remessa de projeto de lei estabelecendo a revisão geral anual já foi reconhecida pelo Supremo Tribunal Federal, nos autos da ADI nº 2.061/DF; assim, as perdas e danos disso advindas devem ser imputadas à União, da forma como postulada pelo agravante e reconhecida pelo Tribunal de origem.
+Decido.
+Recebo o agravo, vez que tempestivo e, utilizando-me do juízo de retratação inerente a esse tipo de recurso, dou-lhe provimento, para reconsiderar a decisão agravada e, por conseguinte, não conheço do recurso extraordinário interposto pela União.
+Inicialmente, convém deixar desde logo ressaltada a plena possibilidade do exercício de tal juízo de retratação, amplamente admitido pela jurisprudência desta Corte, citando-se, para exemplificar, a ementa do seguinte precedente:
+AGRAVO - JUÍZO DE RETRATAÇÃO. Todo e qualquer agravo viabiliza o juízo de retratação, ainda que silente a peça apresentada (...)” (DJ de 11.3.05).
+Em prosseguimento, tem-se que a decisão agravada foi proferida em evidente equívoco e, por isso, está a merecer reforma.
+De fato, depois que proferido acórdão nos autos, pela Turma Recursal do Juizado Especial Federal (Amazonas/Roraima), bem como apreciados os embargos de declaração que se seguiram, foram interpostos incidentes de uniformização de jurisprudência por ambas as partes.
+Além disso, a ora agravada, concomitantemente, interpôs recurso extraordinário, o qual, admitido, ensejou a subida dos autos a esta Suprema Corte.
+Ora, em homenagem ao princípio da unicidade recursal, não seria admissível que a agravada assim procedesse, pois contra uma única decisão judicial, interpôs dois distintos e simultâneos recursos.
+Nesse sentido aponta a jurisprudência desta Suprema Corte, conforme se depreende dos seguintes julgados: AI nº 644.989-AgR-AgR/RJ, relator o Ministro Menezes Direito, Primeira Turma, DJe de 12/12/08 e AI nº 603.858-AgR/RJ, relator o Ministro Celso de Mello, Segunda Turma, DJe de 20/6/08, cuja ementa assim dispõe:
+“RECURSO DE AGRAVO - CUMULATIVA INTERPOSIÇÃO DE DOIS (2) RECURSOS CONTRA A MESMA DECISÃO, FORA DAS HIPÓTESES LEGAIS - INADMISSIBILIDADE - OFENSA AO POSTULADO DA SINGULARIDADE DOS RECURSOS - NÃO-CONHECIMENTO DO SEGUNDO RECURSO - EXAME DO PRIMEIRO RECURSO - GRATIFICAÇÃO DE ENCARGOS ESPECIAIS - CONCESSÃO AOS CORONÉIS DA POLÍCIA MILITAR E DO CORPO DE BOMBEIROS - PRETENDIDA EXTENSÃO JURISDICIONAL A MILITARES DE PATENTES DISTINTAS - INADMISSIBILIDADE - RESERVA DE LEI E POSTULADO DA SEPARAÇÃO DE PODERES - RECURSO DE AGRAVO IMPROVIDO.
+- O princípio da unirrecorribilidade, ressalvadas as hipóteses legais, impede a cumulativa interposição, contra o mesmo ato decisório, de mais de um recurso. O desrespeito ao postulado da singularidade dos recursos torna insuscetível de conhecimento o segundo recurso, quando interposto contra a mesma decisão. Doutrina”.
+Ademais, em estando pendente de apreciação esses incidentes de uniformização de jurisprudência, igualmente admitidos nos autos, deveria ser aguardado seu regular julgamento, para a interposição do apelo extremo, o que tampouco fez.
+Ressalte-se, por oportuno, que a decisão agravada menciona expressamente que o recurso extraordinário interposto contra acórdão regional em relação ao qual se admitiu o processamento de incidente de uniformização de jurisprudência não deveria ser conhecido, nos termos da Súmula nº 281, desta Suprema Corte.
+E é essa a hipótese aqui ocorrente, pois não existe, nestes autos, cópia do acórdão proferido quando da apreciação desse incidente, pois o recurso extraordinário interposto pela União foi apresentado antes mesmo de ultimado esse julgamento.
+Nesse sentido, cite-se a ementa do seguinte precedente da Primeira Turma desta Suprema Corte:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. SÚMULA 281 DO STF.
+Consoante a jurisprudência sumulada do Supremo Tribunal Federal, “é inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada” (Súmula 281 do STF).
+Admitido Incidente de Uniformização em face de acórdão de Turma Recursal dos Juizados Especiais Federais, resta demonstrada a ausência de decisão de única ou última instância. Pelo que incabível, concomitantemente, a interposição do apelo extremo.
+Agravo Regimental desprovido” (RE nº 468.365-AgR/AM, relator o Ministro Ayres Britto, DJ de 20/4/07).
+De sua fundamentação, porque bastante elucidativo à solução da controvérsia aqui instaurada, transcrevo o seguinte excerto:
+“ Cumpre notar a ausência de simetria com o sistema de interposição concomitante de Recurso Especial e Recurso Extraordinário. É que, na hipótese presente, não se distingue entre matéria constitucional e infraconstitucional, a justificar a interposição simultânea de recursos, com vistas à prevenção da preclusão. Daí a impertinência da devolução dos autos para a apreciação do Incidente e, posteriormente, o retorno deles a este Excelso Tribunal, para julgamento do apelo extremo. Este – o apelo extremo - é cabível apenas depois de percorrida toda a via ordinária”.
+Saliente-se, ainda, que a aludida decisão agravada faz menção a outro acórdão e a outro recurso extraordinário que não se encontram nas páginas dos autos então indicadas, a demonstrar o equívoco em que incidiu, fato a justificar sua reforma.
+Em arremate, convém afastar o sobrestamento determinado à folha 140, em razão das razões supra expostas, que bastam ao não conhecimento, de pronto, do recurso extraordinário e, ainda, porque o apelo ali mencionado (RE nº 565.089/SP), que cuida de tema cuja repercussão geral foi reconhecia por este Supremo Tribunal Federal, trata – conforme constou da aludida decisão – de pleito de reparação de danos patrimoniais sofridos por servidores públicos, “em decorrência da omissão do Podem Executivo ao encaminhar ao Poder Legislativo projeto de lei prevendo a revisão geral e anual de seus vencimentos”, ao passo que nestes autos o pedido de indenização se refere, exclusivamente, à alegada ocorrência de danos morais, ainda que em razão dessa mesma circunstância.
+Ante o exposto, afasto o sobrestamento determinado à folha 140 e dou provimento ao agravo regimental, para que o recurso extraordinário interposto nos autos não seja conhecido.
+Publique-se.
+Brasília, 24 de março de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
