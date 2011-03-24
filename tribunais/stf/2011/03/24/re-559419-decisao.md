@@ -1,0 +1,14 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão, o qual, em ação popular, entendera que a Lei Municipal 2.491/93, ao conceder a servidores nominados adicional de produtividade, sem justificação das razões da distinção, ofende o princípio da legalidade e da moralidade e, ainda, o princípio dos motivos determinantes, restando contaminada como o vício da nulidade, não podendo prevalecer ou ter eficácia válida.
+ Daí o RE de fls. 1.478-1.488, sustentando-se ofensa aos artigos 5º, caput, e 37 da Constituição Federal.
+2.  Inadmitido na origem, subiram os autos em virtude do provimento do AI 540.961/SP.
+3.  O recurso não merece prosperar. Quanto ao art. 5º, caput, verifico que não se encontra prequestionado, porque não abordado pelo acórdão recorrido, nem suscitado nos embargos de declaração opostos para satisfazer o requisito do prequestionamento. Incidem, na espécie, as Súmulas/STF 282 e 356.
+4.  Em segundo lugar, para o exame das violações alegadas, seria necessária a detida apreciação do contexto fático-probatório, que se manteve controvertido, como se nota do voto condutor do acórdão recorrido, do qual transcrevo o seguinte trecho:
+“Contudo, não se esclareceu a razão pela qual 58 servidores foram beneficiados, com seus nomes expressamente anunciados na Lei e os demais servidores não o foram.” (fl. 1.438)
+ O RE, a seu turno, defende que no caso dos autos “o anexo mencionou os servidores contemplados naquele momento, por critério de apuração de produtividade mediante provocação justificada dos superintendentes ao chefe do executivo” (fl. 1.485). Incide, no caso, portanto, o óbice da Súmula/STF 279.
+5.  Ademais, para divergir da conclusão a que chegou o Tribunal a quo, cumpriria examinar a legislação local (Lei Municipal 2.693/93), o que é defeso nesta fase recursal, nos termos da Súmula/STF 280.
+6.  Quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+7.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 24 de março de 2011.
+Ministra Ellen Gracie
+Relatora
