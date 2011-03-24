@@ -1,0 +1,23 @@
+D ECIS Ã O: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MUNICÍPIO DE CARAZINHO. CONTRATAÇÃO TEMPORÁRIA PARA FUNÇÃO PERMANENTE. BIBLIOTECÁRIO. AUSÊNCIA DOS PRESSUPOSTOS DA EXCEPECIONALIDADE E DA TEMPORARIEDADE. BURLA AO PRINCÍPIO DO CONCURSO PÚBLICO. Contratação de bibliotecário. Caso concreto que não caracteriza situação excepcional decorrente de circunstâncias imprevisíveis para Administração. Burla ao princípio da universalidade de acesso aos cargos públicos, o que se dá pela via do concurso. Ofensa aos arts. 37, IX, da CF e 19, IV, da CE. ADIN JULGADA PROCEDENTE”. (fl. 46)
+No recurso extraordinário interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal.
+O recorrente alega, preliminarmente, a impossibilidade da discussão de constitucionalidade de lei municipal em face da Constituição Federal.
+No mérito, aduz que a contratação temporária realizada deu-se em perfeita sintonia com as disposições constitucionais, motivo pelo qual a lei municipal questionada deve ser mantida.
+O Tribunal de origem inadmitiu o prosseguimento do recurso extraordinário em virtude de sua intempestividade.
+No presente agravo de instrumento afirma-se que o apelo extremo é tempestivo.
+Decido.
+Ainda que superada a questão da intempestividade, o recurso extraordinário não merece trânsito, pois o entendimento do acórdão recorrido está em consonância com a jurisprudência desta Corte.
+Registre-se que diferentemente do alegado pelo recorrente o dispositivo da Constituição Estadual tido como paradigma para a declaração de inconstitucionalidade da lei municipal é o art. 19, inciso IV, o qual repete integralmente os termos do art. 37, inciso IX da Constituição Federal.
+A Carta Magna estabelece que o ingresso no serviço público se dará mediante aprovação em concurso público, todavia especifica duas exceções à essa regra: nomeação para ocupar cargos em comissão (art. 37, II, CF) e contratação temporária de pessoal para atender excepcional interesse público (art. 37, IX, CF).
+Esta Corte assentou que para que seja legítima a contração temporária de servidores, devem ser preenchidos os seguintes requisitos: a) previsão em lei dos cargos; b) tempo determinado; c) necessidade temporária de interesse público; d) interesse público excepcional. Confira-se:
+“CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO: DEFENSOR PÚBLICO: CONTRATAÇÃO TEMPORÁRIA. C.F., art. 37, II e IX. Lei 6.094, de 2000, do Estado do Espírito Santo: inconstitucionalidade. I. - A regra é a admissão de servidor público mediante concurso público: C.F., art. 37, II. As duas exceções à regra são para os cargos em comissão referidos no inciso II do art. 37, e a contratação de pessoal por tempo determinado para atender a necessidade temporária de excepcional interesse público. CF, art. 37, IX. Nessa hipótese, deverão ser atendidas as seguintes condições: a) previsão em lei dos cargos; b) tempo determinado; c) necessidade temporária de interesse público; d) interesse público excepcional. II. - Lei 6.094/2000, do Estado do Espírito Santo, que autoriza o Poder Executivo a contratar, temporariamente, defensores públicos: inconstitucionalidade. III. - Ação direta de inconstitucionalidade julgada procedente”. (ADI 22.29, Rel. Min. CARLOS VELLOSO, Tribunal Pleno, DJ 25.6.2004)
+Já decidiu também pela inviabilidade da referida contratação para funções permanentes:
+“Servidor público: contratação temporária excepcional (CF, art. 37, IX): inconstitucionalidade de sua aplicação para a admissão de servidores para funções burocráticas ordinárias e permanentes”. (ADI 2.987, Rel. Min. SEPÚLVEDA PERTENCE, Tribunal Pleno, DJ 2.4.2004)
+No caso, o acórdão recorrido declarou a inconstitucionalidade de lei municipal que determinava a contratação temporária para o cargo público de bibliotecário, ao argumento de que o diploma questionado não apontou situação excepcional que autorizasse a mencionada ação. Consignou, ainda, que o cargo para o qual se pretende realizar a contrato temporário (bibliotecário) possui natureza permanente o que também não autoriza a contratação precária.
+Nesses termos, tendo em vista que o acórdão recorrido está em consonância com a jurisprudência desta Corte, não se vislumbra qualquer violação ao Texto Constitucional a dar ensejo ao processamento do recurso extraordinário.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º do RISTF, e 557 do CPC).
+Publique-se.
+Brasília, 24 de março de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
